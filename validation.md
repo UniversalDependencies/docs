@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-02-06T21:05:51Z">2017-02-06T21:05:51 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-02-06T21:08:49Z">2017-02-06T21:08:49 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -5012,7 +5012,7 @@ Syntax errors: 4620
 <span class="doublewidespan" style="padding-left:3em">UD Russian-SynTagRus</span>
 <span class="widespan">ru syntagrus</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T15:03:08Z">2017-01-30T15:03:08 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-06T21:07:44Z">2017-02-06T21:07:44 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -5078,10 +5078,10 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang ru_syntagrus /home/gint
 [Line                   859]: Unknown UPOS tag: CONJ
 [Line                   921]: Unknown UPOS tag: CONJ
 ...suppressing further errors regarding Morpho
-*** FAILED *** with 23664 errors
+*** FAILED *** with 23669 errors
 Metadata errors: 12500
 Morpho errors: 4631
-Syntax errors: 6533
+Syntax errors: 6538
 
 
 ******************
@@ -5148,10 +5148,10 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang ru_syntagrus /home/gint
 [Line                   381]: Unknown UPOS tag: CONJ
 [Line                   400]: Unknown attribute-value pair VerbForm=Trans
 ...suppressing further errors regarding Morpho
-*** FAILED *** with 181813 errors
+*** FAILED *** with 181863 errors
 Metadata errors: 96342
 Morpho errors: 33558
-Syntax errors: 51913
+Syntax errors: 51963
 
 
 ******************
