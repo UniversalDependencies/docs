@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-02-06T23:35:00Z">2017-02-06T23:35:00 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-02-07T07:56:19Z">2017-02-07T07:56:19 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -2168,7 +2168,7 @@ python tools/validate.py --lang fi_ftb UD-dev-branches/UD_Finnish-FTB/fi_ftb-ud-
 <span class="doublewidespan" style="padding-left:3em">UD French</span>
 <span class="widespan">fr</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-01-30T14:56:18Z">2017-01-30T14:56:18 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-07T07:54:36Z">2017-02-07T07:54:36 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -3325,7 +3325,7 @@ Syntax errors: 824
 <span class="doublewidespan" style="padding-left:3em">UD Italian</span>
 <span class="widespan">it</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-06T23:34:46Z">2017-02-06T23:34:46 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-07T07:55:01Z">2017-02-07T07:55:01 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -4970,7 +4970,7 @@ Syntax errors: 4620
 <span class="doublewidespan" style="padding-left:3em">UD Russian-SynTagRus</span>
 <span class="widespan">ru syntagrus</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-06T21:07:44Z">2017-02-06T21:07:44 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-07T07:55:14Z">2017-02-07T07:55:14 zulu</time></span>
 </div>
 <div>
 <pre>
