@@ -333,6 +333,7 @@ Syntactically, there is not a single criterion which can be used crosslinguistic
 * Verbs usually only agree with core arguments
 * Oblique arguments may usually or always appear marked by an adposition while core arguments appear as bare nominals
 * Certain cases, traditionally called nominative, accusative, and absolutive typically mark core arguments
+* Core arguments in many languages occupy special positions in the clause, often adjacent to the verb
 * Syntactic phenomena such as being the controller of a subordinate clause argument or the target of relativization are limited to core arguments in some languages
 
 At the end of the day, the distinction must be drawn and documented on language particular grounds. For example, many languages have certain verbs which take arguments in oblique cases such as dative or an experiencer case, but these arguments should be regarded as core arguments based on their syntactic behavior being parallel to the arguments of other transitive verbs.
