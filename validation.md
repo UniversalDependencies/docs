@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-02-07T11:38:33Z">2017-02-07T11:38:33 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-02-07T11:56:28Z">2017-02-07T11:56:28 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -512,63 +512,21 @@ Syntax errors: 6742
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD Bulgarian</span>
 <span class="widespan">bg</span>
-<span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-05T13:30:22Z">2017-02-05T13:30:22 zulu</time></span>
+<span class="validationpass">PASS</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-07T11:56:17Z">2017-02-07T11:56:17 zulu</time></span>
 </div>
 <div>
 <pre>
 python tools/validate.py --lang bg UD-dev-branches/UD_Bulgarian/bg-ud-dev.conllu
 
-[Line                   170]: Unknown UD DEPREL: neg
-[Line                   324]: Unknown UD DEPREL: neg
-[Line                   333]: Unknown UD DEPREL: neg
-[Line                   631]: Unknown UD DEPREL: neg
-[Line                   655]: Unknown UD DEPREL: neg
-[Line                   757]: Unknown UD DEPREL: neg
-[Line                   780]: Unknown UD DEPREL: neg
-[Line                   907]: Unknown UD DEPREL: neg
-[Line                   994]: Unknown UD DEPREL: neg
-[Line                   1084]: Unknown UD DEPREL: neg
-[Line                   1335]: Unknown UD DEPREL: neg
-[Line                   1536]: Unknown UD DEPREL: neg
-[Line                   1635]: Unknown UD DEPREL: neg
-[Line                   1695]: Unknown UD DEPREL: neg
-[Line                   1860]: Unknown UD DEPREL: neg
-[Line                   1907]: Unknown UD DEPREL: neg
-[Line                   1955]: Unknown UD DEPREL: neg
-[Line                   1977]: Unknown UD DEPREL: neg
-[Line                   1988]: Unknown UD DEPREL: neg
-...suppressing further errors regarding Syntax
-*** FAILED *** with 151 errors
-Syntax errors: 151
+*** PASSED ***
 
 
 ******************
 
 python tools/validate.py --lang bg UD-dev-branches/UD_Bulgarian/bg-ud-train.conllu
 
-[Line                   39]: Unknown UD DEPREL: neg
-[Line                   64]: Unknown UD DEPREL: neg
-[Line                   80]: Unknown UD DEPREL: neg
-[Line                   109]: Unknown UD DEPREL: neg
-[Line                   119]: Unknown UD DEPREL: neg
-[Line                   202]: Unknown UD DEPREL: neg
-[Line                   220]: Unknown UD DEPREL: neg
-[Line                   286]: Unknown UD DEPREL: neg
-[Line                   658]: Unknown UD DEPREL: neg
-[Line                   1103]: Unknown UD DEPREL: neg
-[Line                   1195]: Unknown UD DEPREL: neg
-[Line                   1361]: Unknown UD DEPREL: neg
-[Line                   1417]: Unknown UD DEPREL: neg
-[Line                   1431]: Unknown UD DEPREL: neg
-[Line                   1472]: Unknown UD DEPREL: neg
-[Line                   1531]: Unknown UD DEPREL: neg
-[Line                   1548]: Unknown UD DEPREL: neg
-[Line                   1568]: Unknown UD DEPREL: neg
-[Line                   1978]: Unknown UD DEPREL: neg
-...suppressing further errors regarding Syntax
-*** FAILED *** with 1133 errors
-Syntax errors: 1133
+*** PASSED ***
 
 
 ******************
