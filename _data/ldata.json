@@ -116,6 +116,17 @@
     "lang_name": "Basque"
   }, 
   {
+    "lang_code": "be", 
+    "contributors": [
+      {
+        "full": "Olga Lyashevskaya", 
+        "last": "Lyashevskaya", 
+        "first": "Olga"
+      }
+    ], 
+    "lang_name": "Belarusian"
+  }, 
+  {
     "lang_code": "bg", 
     "contributors": [
       {
@@ -764,6 +775,11 @@
         "full": "Joakim Nivre", 
         "last": "Nivre", 
         "first": "Joakim"
+      }, 
+      {
+        "full": "Daniel Zeman", 
+        "last": "Zeman", 
+        "first": "Daniel"
       }
     ], 
     "lang_name": "Indonesian"
