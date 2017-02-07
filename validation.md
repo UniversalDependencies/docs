@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-02-07T07:56:19Z">2017-02-07T07:56:19 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-02-07T10:00:12Z">2017-02-07T10:00:12 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -2469,21 +2469,100 @@ Syntax errors: 4346
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD Galician-TreeGal</span>
 <span class="widespan">gl treegal</span>
-<span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-06T18:45:41Z">2017-02-06T18:45:41 zulu</time></span>
+<span class="validationfail">FAIL</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-07T10:00:11Z">2017-02-07T10:00:11 zulu</time></span>
 </div>
 <div>
 <pre>
 python tools/validate.py --lang gl_treegal UD-dev-branches/UD_Galician-TreeGal/gl_treegal-ud-dev.conllu
 
-*** PASSED ***
+[Line                   7]: The line has 11 columns, but 10 are expected.
+[Line                   83]: The line has 11 columns, but 10 are expected.
+[Line                   91]: The line has 11 columns, but 10 are expected.
+[Line                   117]: The line has 11 columns, but 10 are expected.
+[Line                   176]: The line has 11 columns, but 10 are expected.
+[Line                   181]: The line has 11 columns, but 10 are expected.
+[Line                   181]: Morphological features must be sorted: 'Gender=Masc|Number=Sing|Number[psor]=Sing|Person=3|PronType=Prs|Poss=Yes'
+[Line                   240]: The line has 11 columns, but 10 are expected.
+[Line                   240]: Morphological features must be sorted: 'Gender=Masc|Number=Sing|Number[psor]=Sing|Person=3|PronType=Prs|Poss=Yes'
+[Line                   280]: The line has 11 columns, but 10 are expected.
+[Line                   323]: The line has 11 columns, but 10 are expected.
+[Line                   326]: The line has 11 columns, but 10 are expected.
+[Line                   335]: The line has 11 columns, but 10 are expected.
+[Line                   411]: The line has 11 columns, but 10 are expected.
+[Line                   450]: The line has 11 columns, but 10 are expected.
+[Line                   596]: The line has 11 columns, but 10 are expected.
+[Line                   619]: The line has 11 columns, but 10 are expected.
+[Line                   716]: The line has 11 columns, but 10 are expected.
+[Line                   716]: Morphological features must be sorted: 'Gender=Masc|Number=Sing|Number[psor]=Sing|Person=3|PronType=Prs|Poss=Yes'
+[Line                   799]: The line has 11 columns, but 10 are expected.
+[Line                   982]: The line has 11 columns, but 10 are expected.
+[Line                   1015]: The line has 11 columns, but 10 are expected.
+...suppressing further errors regarding Format
+[Line                   2431]: Morphological features must be sorted: 'Gender=Masc|Number=Sing|Number[psor]=Sing|Person=3|PronType=Prs|Poss=Yes'
+[Line                   2761]: Morphological features must be sorted: 'Gender=Masc|Number=Sing|Number[psor]=Sing|Person=3|PronType=Prs|Poss=Yes'
+[Line                   3473]: Morphological features must be sorted: 'Gender=Fem|Number=Sing|Number[psor]=Plur|Person=1|PronType=Prs|Poss=Yes'
+[Line                   4687]: Morphological features must be sorted: 'Gender=Fem|Number=Sing|Number[psor]=Plur|Person=1|PronType=Prs|Poss=Yes'
+[Line                   5379]: Morphological features must be sorted: 'Gender=Masc|Number=Sing|Number[psor]=Sing|Person=3|PronType=Prs|Poss=Yes'
+[Line                   5798]: Morphological features must be sorted: 'Gender=Fem|Number=Sing|Number[psor]=Plur|Person=1|PronType=Prs|Poss=Yes'
+[Line                   6895]: Morphological features must be sorted: 'Gender=Fem|Number=Sing|Number[psor]=Plur|Person=1|PronType=Prs|Poss=Yes'
+[Line                   7711]: Morphological features must be sorted: 'Gender=Fem|Number=Sing|Number[psor]=Plur|Person=1|PronType=Prs|Poss=Yes'
+[Line                   7910]: Morphological features must be sorted: 'Gender=Fem|Number=Sing|Number[psor]=Plur|Person=1|PronType=Prs|Poss=Yes'
+[Line                   7940]: Morphological features must be sorted: 'Gender=Fem|Number=Sing|Number[psor]=Plur|Person=1|PronType=Prs|Poss=Yes'
+[Line                   9031]: Morphological features must be sorted: 'Gender=Masc|Number=Sing|Number[psor]=Sing|Person=3|PronType=Prs|Poss=Yes'
+[Line                   9171]: Morphological features must be sorted: 'Gender=Masc|Number=Sing|Number[psor]=Sing|Person=3|PronType=Prs|Poss=Yes'
+[Line                   9386]: Morphological features must be sorted: 'Gender=Fem|Number=Sing|Number[psor]=Plur|Person=1|PronType=Prs|Poss=Yes'
+[Line                   9413]: Morphological features must be sorted: 'Gender=Masc|Number=Sing|Number[psor]=Sing|Person=3|PronType=Prs|Poss=Yes'
+[Line                   9477]: Morphological features must be sorted: 'Gender=Masc|Number=Sing|Number[psor]=Sing|Person=3|PronType=Prs|Poss=Yes'
+[Line                   9664]: Morphological features must be sorted: 'Gender=Masc|Number=Sing|Number[psor]=Sing|Person=3|PronType=Prs|Poss=Yes'
+...suppressing further errors regarding Morpho
+*** FAILED *** with 273 errors
+Format errors: 251
+Morpho errors: 22
 
 
 ******************
 
 python tools/validate.py --lang gl_treegal UD-dev-branches/UD_Galician-TreeGal/gl_treegal-ud-train.conllu
 
-*** PASSED ***
+[Line                   47]: The line has 11 columns, but 10 are expected.
+[Line                   47]: Morphological features must be sorted: 'Gender=Fem|Number=Sing|Number[psor]=Plur|Person=1|PronType=Prs|Poss=Yes'
+[Line                   60]: The line has 11 columns, but 10 are expected.
+[Line                   64]: The line has 11 columns, but 10 are expected.
+[Line                   64]: Morphological features must be sorted: 'Gender=Fem|Number=Sing|Number[psor]=Plur|Person=1|PronType=Prs|Poss=Yes'
+[Line                   222]: The line has 11 columns, but 10 are expected.
+[Line                   323]: The line has 11 columns, but 10 are expected.
+[Line                   349]: The line has 11 columns, but 10 are expected.
+[Line                   349]: Morphological features must be sorted: 'Gender=Fem|Number=Sing|Number[psor]=Plur|Person=1|PronType=Prs|Poss=Yes'
+[Line                   360]: The line has 11 columns, but 10 are expected.
+[Line                   463]: The line has 11 columns, but 10 are expected.
+[Line                   464]: The line has 11 columns, but 10 are expected.
+[Line                   563]: The line has 11 columns, but 10 are expected.
+[Line                   580]: The line has 11 columns, but 10 are expected.
+[Line                   644]: The line has 11 columns, but 10 are expected.
+[Line                   769]: The line has 11 columns, but 10 are expected.
+[Line                   812]: The line has 11 columns, but 10 are expected.
+[Line                   893]: The line has 11 columns, but 10 are expected.
+[Line                   918]: The line has 11 columns, but 10 are expected.
+[Line                   920]: The line has 11 columns, but 10 are expected.
+[Line                   926]: The line has 11 columns, but 10 are expected.
+[Line                   988]: The line has 11 columns, but 10 are expected.
+...suppressing further errors regarding Format
+[Line                   1681]: Morphological features must be sorted: 'Gender=Masc|Number=Sing|Number[psor]=Sing|Person=3|PronType=Prs|Poss=Yes'
+[Line                   3242]: Morphological features must be sorted: 'Gender=Fem|Number=Sing|Number[psor]=Plur|Person=1|PronType=Prs|Poss=Yes'
+[Line                   3411]: Morphological features must be sorted: 'Gender=Fem|Number=Sing|Number[psor]=Plur|Person=1|PronType=Prs|Poss=Yes'
+[Line                   3548]: Morphological features must be sorted: 'Gender=Fem|Number=Sing|Number[psor]=Plur|Person=1|PronType=Prs|Poss=Yes'
+[Line                   4155]: Morphological features must be sorted: 'Gender=Masc|Number=Sing|Number[psor]=Sing|Person=3|PronType=Prs|Poss=Yes'
+[Line                   4335]: Morphological features must be sorted: 'Gender=Masc|Number=Sing|Number[psor]=Sing|Person=3|PronType=Prs|Poss=Yes'
+[Line                   4367]: Morphological features must be sorted: 'Gender=Fem|Number=Sing|Number[psor]=Plur|Person=1|PronType=Prs|Poss=Yes'
+[Line                   4769]: Morphological features must be sorted: 'Gender=Masc|Number=Sing|Number[psor]=Sing|Person=3|PronType=Prs|Poss=Yes'
+[Line                   5093]: Morphological features must be sorted: 'Gender=Masc|Number=Sing|Number[psor]=Sing|Person=3|PronType=Prs|Poss=Yes'
+[Line                   5164]: Morphological features must be sorted: 'Gender=Masc|Number=Sing|Number[psor]=Sing|Person=3|PronType=Prs|Poss=Yes'
+[Line                   5682]: Morphological features must be sorted: 'Gender=Masc|Number=Sing|Number[psor]=Sing|Person=3|PronType=Prs|Poss=Yes'
+[Line                   5747]: Morphological features must be sorted: 'Gender=Masc|Number=Sing|Number[psor]=Sing|Person=3|PronType=Prs|Poss=Yes'
+*** FAILED *** with 127 errors
+Format errors: 112
+Morpho errors: 15
 
 
 ******************
