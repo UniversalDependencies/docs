@@ -877,6 +877,20 @@ collections:
   mr-overview:
     output: true
 #
+# Belarusian
+#
+  be-pos:
+    output: true
+    permalink: /be/pos/:path.html
+  be-feat:
+    output: true
+    permalink: /be/feat/:path.html
+  be-dep:
+    output: true
+    permalink: /be/dep/:path.html
+  be-overview:
+    output: true
+#
 # Template
 #
   template-pos:
