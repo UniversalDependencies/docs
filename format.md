@@ -267,6 +267,7 @@ Example:
     # newpar id = mf920901-001-p1
     # sent_id = mf920901-001-p1s1A
     # text = Slovenská ústava: pro i proti
+    # text_en = Slovak constitution: pros and cons
     1   Slovenská   slovenský   ADJ     AAFS1----1A---- Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos 2   amod   _   _
     2   ústava      ústava      NOUN    NNFS1-----A---- Case=Nom|Gender=Fem|Number=Sing|Polarity=Pos   0   root   _   SpaceAfter=No
     3   :           :           PUNCT   Z:------------- _          2       punct   _       _
