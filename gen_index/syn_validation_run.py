@@ -262,7 +262,7 @@ if __name__=="__main__":
         langs_to_wipe=set(langs_to_wipe)
         #Now we want to forget cached tests for the --rerun languages
         for _,lang_results in test_cache.iteritems():
-            to_wipe=(set(lang_results)-all_langs)|langs_to_wipe
+            to_wipe=(set(lang_results)-all_langs)|(langs_to_wipe&set(lang_results))
             for lw in to_wipe:
                 del lang_results[lw]
         with codecs.open(args.tests,"r","utf-8") as t:
