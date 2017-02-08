@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-02-08T07:39:46Z">2017-02-08T07:39:46 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-02-08T07:40:06Z">2017-02-08T07:40:06 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -1143,11 +1143,11 @@ python tools/validate.py --lang nl_lassysmall UD-dev-branches/UD_Dutch-LassySmal
 <span class="doublewidespan" style="padding-left:3em">UD English</span>
 <span class="widespan">en</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-08T07:39:33Z">2017-02-08T07:39:33 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-08T07:39:52Z">2017-02-08T07:39:52 zulu</time></span>
 </div>
 <div>
 <pre>
-python tools/validate.py --lang en UD-dev-branches/UD_English/en-ud-dev.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang en /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_English/en-ud-dev.conllu
 
 [Line                   9]: Missing the sent_id attribute.
 [Line                   9]: Missing the text attribute.
@@ -1217,7 +1217,7 @@ Syntax errors: 2021
 
 ******************
 
-python tools/validate.py --lang en UD-dev-branches/UD_English/en-ud-train.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang en /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_English/en-ud-train.conllu
 
 [Line                   2]: Unknown UD DEPREL: name
 [Line                   9]: Unknown UD DEPREL: name
