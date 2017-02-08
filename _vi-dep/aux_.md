@@ -10,8 +10,8 @@ redirect_from: "vi/dep/aux.html"
 An auxiliary of a clause is a non-main verb of the clause, e.g. modal verbs, "Có_thể" and "phải" in
 a composed tense.
 
-<pre><code class="language-sdparse">Tôi phải đi 
+<pre><code class="language-sdparse">Tôi phải đi 。
 aux(đi, phải)
 nsubj(đi, Tôi)
-punct(đi, .)
+punct(đi, 。)
 </code></pre>
