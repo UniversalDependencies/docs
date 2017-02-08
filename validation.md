@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-02-08T20:36:08Z">2017-02-08T20:36:08 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-02-08T20:41:44Z">2017-02-08T20:41:44 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -5541,12 +5541,60 @@ Syntax errors: 139
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD Urdu</span>
 <span class="widespan">ur</span>
-<span class="validationfail">EMPTY</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-08T20:36:08Z">2017-02-08T20:36:08 zulu</time></span>
+<span class="validationfail">FAIL</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-08T20:41:31Z">2017-02-08T20:41:31 zulu</time></span>
 </div>
 <div>
 <pre>
-No data
+python tools/validate.py --lang ur UD-dev-branches/UD_Urdu/ur-ud-dev.conllu
+
+[Tree number 20 on line 632]: Multiple root words: [16, 6]
+[Tree number 23 on line 732]: Multiple root words: [24, 11]
+[Tree number 119 on line 3087]: Multiple root words: [6, 41, 20, 21, 22, 23, 24, 25]
+[Tree number 200 on line 5516]: Multiple root words: [32, 22]
+[Tree number 205 on line 5762]: Multiple root words: [32, 22]
+[Tree number 256 on line 7402]: Multiple root words: [2, 15]
+[Tree number 259 on line 7466]: Multiple root words: [17, 5]
+[Tree number 284 on line 8207]: Multiple root words: [10, 13]
+[Tree number 403 on line 11915]: Multiple root words: [16, 9]
+[Tree number 411 on line 12123]: Multiple root words: [19, 12]
+[Tree number 510 on line 14998]: Multiple root words: [3, 14]
+[Tree number 527 on line 15508]: Multiple root words: [4, 6]
+*** FAILED *** with 12 errors
+Syntax errors: 12
+
+
+******************
+
+python tools/validate.py --lang ur UD-dev-branches/UD_Urdu/ur-ud-train.conllu
+
+[Tree number 33 on line 887]: Multiple root words: [8, 23]
+[Tree number 35 on line 956]: Multiple root words: [16, 5]
+[Tree number 43 on line 1153]: Multiple root words: [8, 23]
+[Tree number 100 on line 2772]: Multiple root words: [4, 7]
+[Tree number 102 on line 2805]: Multiple root words: [10, 5]
+[Tree number 112 on line 3090]: Multiple root words: [24, 29]
+[Tree number 122 on line 3504]: Multiple root words: [16, 10]
+[Tree number 147 on line 4274]: Multiple root words: [24, 5, 6]
+[Line                   7361]: Invalid DEPREL value case-CYCLE:21
+[Line                   7361]: Unknown UD DEPREL: case-CYCLE:21
+[Line                   7366]: DEPREL must be "root" if HEAD is 0
+[Tree number 246 on line 7341]: Multiple root words: [21, 14]
+[Tree number 366 on line 10874]: Multiple root words: [30, 23]
+[Line                   11090]: Invalid DEPREL value nsubj-CYCLE:17
+[Line                   11090]: Unknown UD DEPREL: nsubj-CYCLE:17
+[Line                   11108]: DEPREL must be "root" if HEAD is 0
+[Tree number 374 on line 11074]: Multiple root words: [17, 3]
+[Tree number 387 on line 11293]: Multiple root words: [34, 14]
+[Tree number 388 on line 11334]: Multiple root words: [9, 22]
+...suppressing further errors regarding Syntax
+*** FAILED *** with 187 errors
+Syntax errors: 187
+
+
+******************
+
+
 </pre>
 </div>
 <div>
