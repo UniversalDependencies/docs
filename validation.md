@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-02-08T14:49:33Z">2017-02-08T14:49:33 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-02-08T15:10:56Z">2017-02-08T15:10:56 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -1154,11 +1154,11 @@ python tools/validate.py --lang nl_lassysmall UD-dev-branches/UD_Dutch-LassySmal
 <span class="doublewidespan" style="padding-left:3em">UD English</span>
 <span class="widespan">en</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-08T07:48:27Z">2017-02-08T07:48:27 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-08T15:07:18Z">2017-02-08T15:07:18 zulu</time></span>
 </div>
 <div>
 <pre>
-python tools/validate.py --lang en UD-dev-branches/UD_English/en-ud-dev.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang en /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_English/en-ud-dev.conllu
 
 [Line                   14326]: Mismatch between the text attribute and the FORM field. Form is '.' but text is '...'
 *** FAILED *** with 1 errors
@@ -1167,7 +1167,7 @@ Metadata errors: 1
 
 ******************
 
-python tools/validate.py --lang en UD-dev-branches/UD_English/en-ud-train.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang en /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_English/en-ud-train.conllu
 
 *** PASSED ***
 
@@ -1483,18 +1483,18 @@ Syntax errors: 5480
 <span class="doublewidespan" style="padding-left:3em">UD English-ParTUT</span>
 <span class="widespan">en partut</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-08T12:12:45Z">2017-02-08T12:12:45 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-08T15:07:38Z">2017-02-08T15:07:38 zulu</time></span>
 </div>
 <div>
 <pre>
-python tools/validate.py --lang en_partut UD-dev-branches/UD_English-ParTUT/en_partut-ud-dev.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang en_partut /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_English-ParTUT/en_partut-ud-dev.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python tools/validate.py --lang en_partut UD-dev-branches/UD_English-ParTUT/en_partut-ud-train.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang en_partut /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_English-ParTUT/en_partut-ud-train.conllu
 
 *** PASSED ***
 
@@ -2038,11 +2038,11 @@ python tools/validate.py --lang fi_ftb UD-dev-branches/UD_Finnish-FTB/fi_ftb-ud-
 <span class="doublewidespan" style="padding-left:3em">UD French</span>
 <span class="widespan">fr</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-07T15:02:38Z">2017-02-07T15:02:38 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-08T15:07:42Z">2017-02-08T15:07:42 zulu</time></span>
 </div>
 <div>
 <pre>
-python tools/validate.py --lang fr UD-dev-branches/UD_French/fr-ud-dev.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang fr /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_French/fr-ud-dev.conllu
 
 [Line                   13]: Missing the sent_id attribute.
 [Line                   13]: Missing the text attribute.
@@ -2112,7 +2112,7 @@ Syntax errors: 3267
 
 ******************
 
-python tools/validate.py --lang fr UD-dev-branches/UD_French/fr-ud-train.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang fr /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_French/fr-ud-train.conllu
 
 [Line                   15]: Unknown UD DEPREL: dobj
 [Line                   22]: Missing the sent_id attribute.
@@ -2189,18 +2189,18 @@ Syntax errors: 30355
 <span class="doublewidespan" style="padding-left:3em">UD French-ParTUT</span>
 <span class="widespan">fr partut</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-08T12:12:36Z">2017-02-08T12:12:36 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-08T15:08:19Z">2017-02-08T15:08:19 zulu</time></span>
 </div>
 <div>
 <pre>
-python tools/validate.py --lang fr_partut UD-dev-branches/UD_French-ParTUT/fr_partut-ud-dev.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang fr_partut /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_French-ParTUT/fr_partut-ud-dev.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python tools/validate.py --lang fr_partut UD-dev-branches/UD_French-ParTUT/fr_partut-ud-train.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang fr_partut /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_French-ParTUT/fr_partut-ud-train.conllu
 
 *** PASSED ***
 
@@ -2868,18 +2868,18 @@ Syntax errors: 7237
 <span class="doublewidespan" style="padding-left:3em">UD Hindi</span>
 <span class="widespan">hi</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-07T15:05:23Z">2017-02-07T15:05:23 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-08T15:08:21Z">2017-02-08T15:08:21 zulu</time></span>
 </div>
 <div>
 <pre>
-python tools/validate.py --lang hi UD-dev-branches/UD_Hindi/hi-ud-dev.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang hi /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Hindi/hi-ud-dev.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python tools/validate.py --lang hi UD-dev-branches/UD_Hindi/hi-ud-train.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang hi /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Hindi/hi-ud-train.conllu
 
 *** PASSED ***
 
@@ -3044,18 +3044,18 @@ Syntax errors: 2668
 <span class="doublewidespan" style="padding-left:3em">UD Indonesian</span>
 <span class="widespan">id</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-07T15:06:03Z">2017-02-07T15:06:03 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-08T15:08:52Z">2017-02-08T15:08:52 zulu</time></span>
 </div>
 <div>
 <pre>
-python tools/validate.py --lang id UD-dev-branches/UD_Indonesian/id-ud-dev.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang id /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Indonesian/id-ud-dev.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python tools/validate.py --lang id UD-dev-branches/UD_Indonesian/id-ud-train.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang id /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Indonesian/id-ud-train.conllu
 
 *** PASSED ***
 
@@ -3220,11 +3220,11 @@ Syntax errors: 824
 <span class="doublewidespan" style="padding-left:3em">UD Italian</span>
 <span class="widespan">it</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-07T15:06:33Z">2017-02-07T15:06:33 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-08T15:08:59Z">2017-02-08T15:08:59 zulu</time></span>
 </div>
 <div>
 <pre>
-python tools/validate.py --lang it UD-dev-branches/UD_Italian/it-ud-dev.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang it /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Italian/it-ud-dev.conllu
 
 [Line                   77]: Unknown attribute-value pair Clit=Yes
 [Line                   138]: Unknown attribute-value pair Clit=Yes
@@ -3252,7 +3252,7 @@ Morpho errors: 138
 
 ******************
 
-python tools/validate.py --lang it UD-dev-branches/UD_Italian/it-ud-train.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang it /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Italian/it-ud-train.conllu
 
 [Line                   146]: Unknown attribute-value pair Clit=Yes
 [Line                   358]: Unknown attribute-value pair Clit=Yes
@@ -3287,18 +3287,18 @@ Morpho errors: 3376
 <span class="doublewidespan" style="padding-left:3em">UD Italian-ParTUT</span>
 <span class="widespan">it partut</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-08T12:12:27Z">2017-02-08T12:12:27 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-08T15:09:18Z">2017-02-08T15:09:18 zulu</time></span>
 </div>
 <div>
 <pre>
-python tools/validate.py --lang it_partut UD-dev-branches/UD_Italian-ParTUT/it_partut-ud-dev.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang it_partut /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Italian-ParTUT/it_partut-ud-dev.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python tools/validate.py --lang it_partut UD-dev-branches/UD_Italian-ParTUT/it_partut-ud-train.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang it_partut /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Italian-ParTUT/it_partut-ud-train.conllu
 
 *** PASSED ***
 
@@ -3530,7 +3530,7 @@ Syntax errors: 9850
 <span class="doublewidespan" style="padding-left:3em">UD Kazakh</span>
 <span class="widespan">kk</span>
 <span class="validationfail">EMPTY</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-07T15:07:28Z">2017-02-07T15:07:28 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-08T15:09:22Z">2017-02-08T15:09:22 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -4779,11 +4779,11 @@ Syntax errors: 4620
 <span class="doublewidespan" style="padding-left:3em">UD Russian-SynTagRus</span>
 <span class="widespan">ru syntagrus</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-07T15:15:13Z">2017-02-07T15:15:13 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-08T15:09:22Z">2017-02-08T15:09:22 zulu</time></span>
 </div>
 <div>
 <pre>
-python tools/validate.py --lang ru_syntagrus UD-dev-branches/UD_Russian-SynTagRus/ru_syntagrus-ud-dev.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang ru_syntagrus /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Russian-SynTagRus/ru_syntagrus-ud-dev.conllu
 
 [Line                   8]: Unknown UD DEPREL: name
 [Line                   16]: Unknown UD DEPREL: dobj
@@ -4853,7 +4853,7 @@ Syntax errors: 6538
 
 ******************
 
-python tools/validate.py --lang ru_syntagrus UD-dev-branches/UD_Russian-SynTagRus/ru_syntagrus-ud-train.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang ru_syntagrus /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Russian-SynTagRus/ru_syntagrus-ud-train.conllu
 
 [Line                   3]: Missing the sent_id attribute.
 [Line                   3]: Missing the text attribute.
