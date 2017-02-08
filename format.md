@@ -259,7 +259,7 @@ in the middle of a sentence (bulleted list items, verse etc.) Document and/or pa
 - When a paragraph starts at sentence boundary, the first sentence of the paragraph contains a comment that says `# newpar`, which can be optionally followed by a paragraph id (`newpar id = wsj2012-01-05-p1`).
 - When a new paragraph starts between two tokens of a sentence, the first token of the new paragraph contains the attribute `NewPar=Yes` in the MISC column. If it is a multi-word token, the attribute will appear in the line of the multi-word token, not in the line of its first syntactic word.
 
-Note that the annotation defined in this section is observed by the `conllu_to_text.pl` script from the tools repository.
+Note that the annotation defined in this section is observed by the [conllu_to_text.pl](https://github.com/UniversalDependencies/tools/blob/master/conllu_to_text.pl) script from the tools repository.
 
 Example:
 
@@ -268,8 +268,8 @@ Example:
     # sent_id = mf920901-001-p1s1A
     # text = Slovenská ústava: pro i proti
     # text_en = Slovak constitution: pros and cons
-    1   Slovenská   slovenský   ADJ     AAFS1----1A---- Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos 2   amod   _   _
-    2   ústava      ústava      NOUN    NNFS1-----A---- Case=Nom|Gender=Fem|Number=Sing|Polarity=Pos   0   root   _   SpaceAfter=No
+    1   Slovenská   slovenský   ADJ     AAFS1----1A---- Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos 2 amod _ _
+    2   ústava      ústava      NOUN    NNFS1-----A---- Case=Nom|Gender=Fem|Number=Sing|Polarity=Pos 0 root _ SpaceAfter=No
     3   :           :           PUNCT   Z:------------- _          2       punct   _       _
     4   pro         pro         ADP     RR--4---------- Case=Acc   2       appos   _       LId=pro-1
     5   i           i           CCONJ   J^------------- _          6       cc      _       LId=i-1
