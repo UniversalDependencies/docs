@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-02-08T10:44:42Z">2017-02-08T10:44:42 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-02-08T12:12:49Z">2017-02-08T12:12:49 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -1480,6 +1480,31 @@ Syntax errors: 5480
 </pre>
 </div>
 <div>
+<span class="doublewidespan" style="padding-left:3em">UD English-ParTUT</span>
+<span class="widespan">en partut</span>
+<span class="validationpass">PASS</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-08T12:12:45Z">2017-02-08T12:12:45 zulu</time></span>
+</div>
+<div>
+<pre>
+python tools/validate.py --lang en_partut UD-dev-branches/UD_English-ParTUT/en_partut-ud-dev.conllu
+
+*** PASSED ***
+
+
+******************
+
+python tools/validate.py --lang en_partut UD-dev-branches/UD_English-ParTUT/en_partut-ud-train.conllu
+
+*** PASSED ***
+
+
+******************
+
+
+</pre>
+</div>
+<div>
 <span class="doublewidespan" style="padding-left:3em">UD Estonian</span>
 <span class="widespan">et</span>
 <span class="validationfail">FAIL</span>
@@ -2153,6 +2178,31 @@ python tools/validate.py --lang fr UD-dev-branches/UD_French/fr-ud-train.conllu
 Metadata errors: 29108
 Morpho errors: 9019
 Syntax errors: 30355
+
+
+******************
+
+
+</pre>
+</div>
+<div>
+<span class="doublewidespan" style="padding-left:3em">UD French-ParTUT</span>
+<span class="widespan">fr partut</span>
+<span class="validationpass">PASS</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-08T12:12:36Z">2017-02-08T12:12:36 zulu</time></span>
+</div>
+<div>
+<pre>
+python tools/validate.py --lang fr_partut UD-dev-branches/UD_French-ParTUT/fr_partut-ud-dev.conllu
+
+*** PASSED ***
+
+
+******************
+
+python tools/validate.py --lang fr_partut UD-dev-branches/UD_French-ParTUT/fr_partut-ud-train.conllu
+
+*** PASSED ***
 
 
 ******************
@@ -3226,6 +3276,31 @@ python tools/validate.py --lang it UD-dev-branches/UD_Italian/it-ud-train.conllu
 ...suppressing further errors regarding Morpho
 *** FAILED *** with 3376 errors
 Morpho errors: 3376
+
+
+******************
+
+
+</pre>
+</div>
+<div>
+<span class="doublewidespan" style="padding-left:3em">UD Italian-ParTUT</span>
+<span class="widespan">it partut</span>
+<span class="validationpass">PASS</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-08T12:12:27Z">2017-02-08T12:12:27 zulu</time></span>
+</div>
+<div>
+<pre>
+python tools/validate.py --lang it_partut UD-dev-branches/UD_Italian-ParTUT/it_partut-ud-dev.conllu
+
+*** PASSED ***
+
+
+******************
+
+python tools/validate.py --lang it_partut UD-dev-branches/UD_Italian-ParTUT/it_partut-ud-train.conllu
+
+*** PASSED ***
 
 
 ******************
