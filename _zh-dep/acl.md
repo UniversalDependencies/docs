@@ -36,7 +36,7 @@ acl(事, 忙)
 nsubj(有, 我們)
 advmod(有, 突然)
 obj(有, 事)
-aux(要, 忙)
+aux(忙, 要)
 ~~~
 
 ~~~ sdparse
