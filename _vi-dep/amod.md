@@ -4,5 +4,12 @@ title: 'amod'
 shortdef: 'adjectival modifier'
 ---
 
-This document is a placeholder for the language-specific documentation
-for `amod`.
+An adjectival modier of an NP is any adjectival phrase that serves to modify the meaning of the
+NP.
+
+<pre><code class="language-sdparse">Nam ăn cá sống 。
+amod(cá, sống)
+det:pmod(Cô, ấy)
+nsubj(ăn, Nam)
+punct(ăn, 。)
+</code></pre>
