@@ -2,7 +2,7 @@
 layout: relation
 title: 'acl'
 shortdef: 'clausal modifier of noun'
-udver: 2
+udver: '2'
 ---
 
 `acl` is used for clauses that modify a noun (in contrast to [advcl]() which is used for clauses that modify a predicate). Clausal modifiers may precede the noun, and may be formed with (1) or without (2) the relativizer 的 _de_. They may also be postnominal, in which case they are simply juxtaposed after the noun without any linking function words (3-5).
