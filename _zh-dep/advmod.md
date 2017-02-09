@@ -128,7 +128,7 @@ When the negative 不 _bù_ precedes a modal auxiliary, it modifies the auxiliar
 
 ~~~
 
-Temporal expressions that are adverbial and not nominal also use the [advmod]() relation. (However, temporal expressions that are nominal use the [obl:tmod]() relation.)
+Temporal expressions that are adverbs or short adverbial phrases also use the [advmod]() relation. (However, temporal expressions that are nouns or noun phrases use the [obl:tmod]() relation.)
 
 ~~~ conllu
 # visual-style 4 3 advmod	color:blue
@@ -143,4 +143,8 @@ Temporal expressions that are adverbial and not nominal also use the [advmod]() 
 4	soon."	_	_	_	_	0	_	_	_
 
 ~~~
+
+
+
+
 
