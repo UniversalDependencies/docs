@@ -14,11 +14,10 @@ udver: '2'
 3	的	_	PART	_	_	2	mark:rel	_	REL
 4	話	_	NOUN	_	_	0	root	_	words
 
-1	"words	_	_	_	_	_	_	_	_
-2	(that)	_	_	_	_	_	_	_	_
-3	people	_	_	_	_	_	_	_	_
-4	say"	_	_	_	_	_	_	_	_
-
+1	"words	_	_	_	_	0	_	_	_
+2	(that)	_	_	_	_	0	_	_	_
+3	people	_	_	_	_	0	_	_	_
+4	say"	_	_	_	_	0	_	_	_
 ~~~
 
 ~~~ conllu
@@ -29,15 +28,14 @@ udver: '2'
 4	的	_	PART	_	_	3	case	_	GEN
 5	問題	_	NOUN	_	_	0	root	_	matter
 
-1	"the	_	_	_	_	_	_	_	_
-2	matter	_	_	_	_	_	_	_	_
-3	regarding	_	_	_	_	_	_	_	_
-4	the	_	_	_	_	_	_	_	_
-5	aspect	_	_	_	_	_	_	_	_
-6	of	_	_	_	_	_	_	_	_
-7	curing	_	_	_	_	_	_	_	_
-8	illnesses"	_	_	_	_	_	_	_	_
-
+1	"the	_	_	_	_	0	_	_	_
+2	matter	_	_	_	_	0	_	_	_
+3	regarding	_	_	_	_	0	_	_	_
+4	the	_	_	_	_	0	_	_	_
+5	aspect	_	_	_	_	0	_	_	_
+6	of	_	_	_	_	0	_	_	_
+7	curing	_	_	_	_	0	_	_	_
+8	illnesses"	_	_	_	_	0	_	_	_
 ~~~
 
 Postnominal clausal modifiers (known as "descriptive clauses" in Li & Thompson, 1981) are headed by V2 in a [(NP1) V1 NP2 V2-clause] structure, where NP2 is the direct object of V1 and the V2-clause describes information regarding NP2. This analysis is contingent on the [(NP1) V1 NP2 V2-clause] sequence being a single sentence with one intonational phrase and no pause in between.
@@ -46,17 +44,20 @@ Postnominal clausal modifiers (known as "descriptive clauses" in Li & Thompson, 
 # visual-style 2 3 acl	color:blue
 1	有	_	VERB	_	_	0	root	_	exist
 2	機會	_	NOUN	_	_	1	obj	_	chance
+~~~ conllu
+# visual-style 2 3 acl	color:blue
+1	有	_	VERB	_	_	0	root	_	exist
+2	機會	_	NOUN	_	_	1	obj	_	chance
 3	學壞	_	VERB	_	_	2	acl	_	learn-bad
 
-1	"There's	_	_	_	_	_	_	_	_
-2	a	_	_	_	_	_	_	_	_
-3	chance	_	_	_	_	_	_	_	_
-4	of	_	_	_	_	_	_	_	_
-5	learning	_	_	_	_	_	_	_	_
-6	from	_	_	_	_	_	_	_	_
-7	bad	_	_	_	_	_	_	_	_
-8	people."	_	_	_	_	_	_	_	_
-
+1	"There's	_	_	_	_	0	_	_	_
+2	a	_	_	_	_	0	_	_	_
+3	chance	_	_	_	_	0	_	_	_
+4	of	_	_	_	_	0	_	_	_
+5	learning	_	_	_	_	0	_	_	_
+6	from	_	_	_	_	0	_	_	_
+7	bad	_	_	_	_	0	_	_	_
+8	people."	_	_	_	_	0	_	_	_
 ~~~
 
 ~~~ conllu
@@ -68,16 +69,15 @@ Postnominal clausal modifiers (known as "descriptive clauses" in Li & Thompson, 
 5	要	_	AUX	_	_	6	aux	_	need
 6	忙	_	VERB	_	_	4	acl	_	be-busy-at
 
-1	"We	_	_	_	_	_	_	_	_
-2	suddenly	_	_	_	_	_	_	_	_
-3	have	_	_	_	_	_	_	_	_
-4	things	_	_	_	_	_	_	_	_
-5	that	_	_	_	_	_	_	_	_
-6	need	_	_	_	_	_	_	_	_
-7	busy	_	_	_	_	_	_	_	_
-8	attending	_	_	_	_	_	_	_	_
-9	to."	_	_	_	_	_	_	_	_
-
+1	"We	_	_	_	_	0	_	_	_
+2	suddenly	_	_	_	_	0	_	_	_
+3	have	_	_	_	_	0	_	_	_
+4	things	_	_	_	_	0	_	_	_
+5	that	_	_	_	_	0	_	_	_
+6	need	_	_	_	_	0	_	_	_
+7	busy	_	_	_	_	0	_	_	_
+8	attending	_	_	_	_	0	_	_	_
+9	to."	_	_	_	_	0	_	_	_
 ~~~
 
 ~~~ conllu
@@ -94,19 +94,18 @@ Postnominal clausal modifiers (known as "descriptive clauses" in Li & Thompson, 
 10	錢	_	NOUN	_	_	9	obj	_	money
 11	了	_	PART	_	_	9	discourse:sp	_	SP
 
-1	"I	_	_	_	_	_	_	_	_
-2	received	_	_	_	_	_	_	_	_
-3	a	_	_	_	_	_	_	_	_
-4	letter	_	_	_	_	_	_	_	_
-5	yesterday	_	_	_	_	_	_	_	_
-6	saying	_	_	_	_	_	_	_	_
-7	that	_	_	_	_	_	_	_	_
-8	my	_	_	_	_	_	_	_	_
-9	bank	_	_	_	_	_	_	_	_
-10	account	_	_	_	_	_	_	_	_
-11	is	_	_	_	_	_	_	_	_
-12	empty."	_	_	_	_	_	_	_	_
-
+1	"I	_	_	_	_	0	_	_	_
+2	received	_	_	_	_	0	_	_	_
+3	a	_	_	_	_	0	_	_	_
+4	letter	_	_	_	_	0	_	_	_
+5	yesterday	_	_	_	_	0	_	_	_
+6	saying	_	_	_	_	0	_	_	_
+7	that	_	_	_	_	0	_	_	_
+8	my	_	_	_	_	0	_	_	_
+9	bank	_	_	_	_	0	_	_	_
+10	account	_	_	_	_	0	_	_	_
+11	is	_	_	_	_	0	_	_	_
+12	empty."	_	_	_	_	0	_	_	_
 ~~~
 
 ### References
