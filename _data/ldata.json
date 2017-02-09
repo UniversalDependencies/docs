@@ -59,7 +59,7 @@
     "lang_name": "Arabic"
   }, 
   {
-    "lang_code": "ar_ldc", 
+    "lang_code": "ar_nyuad", 
     "contributors": [
       {
         "full": "Nizar Habash", 
@@ -72,7 +72,7 @@
         "first": "Dima"
       }
     ], 
-    "lang_name": "Arabic-LDC"
+    "lang_name": "Arabic-NYUAD"
   }, 
   {
     "lang_code": "eu", 
