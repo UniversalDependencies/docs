@@ -20,7 +20,7 @@ When using pure dependencies, more ‘lexical’ functions trump more ‘grammat
 
 Alternatively, if the intended application of the annotation project supports sub-tokenization, the CoNLL-U format can be used as follows, specifying subtokens/supertokens for fused units:
 
-| --- | --- | --- | --- | --- | --- | --- | --- | ---
+| ----- | ------- | ----- | ----- | ----- | ----- | ----- | ----- | -----
 |1-2   |ⲉⲕϣⲁⲛ   	|_      	|_     	|_   	|_		|_   	|_	|_
 |1     |ⲉⲣϣⲁⲛ   	|_   	|ACOND 	|_	|_   	|3   	|aux	|_
 |2     |ⲕ   	|_    	|PPERS 	|_  	|_       	|3	|nsubj	|_
