@@ -18,6 +18,7 @@ udver: '2'
 2	(that)	_	_	_	_	0	_	_	_
 3	people	_	_	_	_	0	_	_	_
 4	say"	_	_	_	_	0	_	_	_
+
 ~~~
 
 ~~~ conllu
@@ -36,6 +37,7 @@ udver: '2'
 6	of	_	_	_	_	0	_	_	_
 7	curing	_	_	_	_	0	_	_	_
 8	illnesses"	_	_	_	_	0	_	_	_
+
 ~~~
 
 Postnominal clausal modifiers (known as "descriptive clauses" in Li & Thompson, 1981) are headed by V2 in a [(NP1) V1 NP2 V2-clause] structure, where NP2 is the direct object of V1 and the V2-clause describes information regarding NP2. This analysis is contingent on the [(NP1) V1 NP2 V2-clause] sequence being a single sentence with one intonational phrase and no pause in between.
@@ -58,6 +60,7 @@ Postnominal clausal modifiers (known as "descriptive clauses" in Li & Thompson, 
 6	from	_	_	_	_	0	_	_	_
 7	bad	_	_	_	_	0	_	_	_
 8	people."	_	_	_	_	0	_	_	_
+
 ~~~
 
 ~~~ conllu
@@ -78,6 +81,7 @@ Postnominal clausal modifiers (known as "descriptive clauses" in Li & Thompson, 
 7	busy	_	_	_	_	0	_	_	_
 8	attending	_	_	_	_	0	_	_	_
 9	to."	_	_	_	_	0	_	_	_
+
 ~~~
 
 ~~~ conllu
@@ -106,6 +110,7 @@ Postnominal clausal modifiers (known as "descriptive clauses" in Li & Thompson, 
 10	account	_	_	_	_	0	_	_	_
 11	is	_	_	_	_	0	_	_	_
 12	empty."	_	_	_	_	0	_	_	_
+
 ~~~
 
 ### References
