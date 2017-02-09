@@ -11,7 +11,7 @@ and other conjunctions depend on it via the conj relation.
 <pre><code class="language-sdparse">Lan cao và xinh_xắn 。
 nsubj(cao, Lan)
 cc(cao, và)
-conj(cao, xinh xắn)
+conj(cao, xinh_xắn)
 punct(cao, 。)
 </code></pre>
 
