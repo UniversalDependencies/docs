@@ -19,5 +19,5 @@ The passive auxiliary is limited to the particle 被 _bèi_ in the "short passiv
 
 ~~~
 
-"Long passive" constructions where 被 _bèi_ is followed by a noun expressing the agent are considered adpositional phrases, in which case the relation [obl:agent]() is used and 被 _bèi_ is annotated as a case dependent with an ADP tag. Etymologically, the two passive constructions appear to have likely followed different grammaticalization paths, hence the different treatments in the tagging and annotation of the two.
+"Long passive" constructions where 被 _bèi_ is followed by a noun expressing the agent are considered adpositional phrases, in which case the relation [obl:agent]() is used and 被 _bèi_ is annotated as a [case]() dependent with an ADP tag. Etymologically, the two passive constructions appear to have likely followed different grammaticalization paths, hence the different treatments in the tagging and annotation of the two.
 
