@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-02-09T02:57:57Z">2017-02-09T02:57:57 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-02-09T03:05:49Z">2017-02-09T03:05:49 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -512,78 +512,28 @@ Syntax errors: 6742
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD Belarusian</span>
 <span class="widespan">be</span>
-<span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-09T02:57:56Z">2017-02-09T02:57:56 zulu</time></span>
+<span class="validationpass">PASS</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-09T03:05:48Z">2017-02-09T03:05:48 zulu</time></span>
 </div>
 <div>
 <pre>
 python /home/ginter/UD_PROJHOOK/tools/validate.py --lang be /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Belarusian/be-ud-dev.conllu
 
-[Line                   171]: Unknown attribute-value pair Variant=Short
-[Line                   183]: Unknown attribute-value pair Variant=Short
-[Line                   196]: Unknown attribute-value pair Variant=Short
-[Line                   805]: Unknown attribute-value pair Variant=Short
-[Line                   825]: Unknown attribute-value pair Variant=Short
-[Line                   1150]: Unknown attribute-value pair Variant=Short
-[Line                   1323]: Unknown attribute-value pair Variant=Short
-[Line                   1333]: Unknown attribute-value pair Variant=Short
-[Line                   1492]: Unknown attribute-value pair Variant=Short
-[Line                   1677]: Unknown attribute-value pair Variant=Short
-*** FAILED *** with 10 errors
-Morpho errors: 10
-The language-specific file %s does not exist.
-python conllu-stats.py --catvals=langspec yourdata/*.conllu > data/feat_val.%s
+*** PASSED ***
 
 
 ******************
 
 python /home/ginter/UD_PROJHOOK/tools/validate.py --lang be /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Belarusian/be-ud-test.conllu
 
-[Line                   198]: Unknown attribute-value pair Variant=Short
-[Line                   351]: Unknown attribute-value pair Variant=Short
-[Line                   401]: Unknown attribute-value pair Variant=Short
-[Line                   589]: Unknown attribute-value pair Variant=Short
-[Line                   679]: Unknown attribute-value pair Variant=Short
-[Line                   861]: Unknown attribute-value pair Variant=Short
-[Line                   874]: Unknown attribute-value pair Variant=Short
-[Line                   979]: Unknown attribute-value pair Variant=Short
-[Line                   1030]: Unknown attribute-value pair Variant=Short
-[Line                   1044]: Unknown attribute-value pair Variant=Short
-[Line                   1060]: Unknown attribute-value pair Variant=Short
-*** FAILED *** with 11 errors
-Morpho errors: 11
-The language-specific file %s does not exist.
-python conllu-stats.py --catvals=langspec yourdata/*.conllu > data/feat_val.%s
+*** PASSED ***
 
 
 ******************
 
 python /home/ginter/UD_PROJHOOK/tools/validate.py --lang be /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Belarusian/be-ud-train.conllu
 
-[Line                   468]: Unknown attribute-value pair Variant=Short
-[Line                   624]: Unknown attribute-value pair Variant=Short
-[Line                   872]: Unknown attribute-value pair Variant=Short
-[Line                   937]: Unknown attribute-value pair Variant=Short
-[Line                   1074]: Unknown attribute-value pair Variant=Short
-[Line                   1329]: Unknown attribute-value pair Variant=Short
-[Line                   1331]: Unknown attribute-value pair Variant=Short
-[Line                   1616]: Unknown attribute-value pair Variant=Short
-[Line                   1849]: Unknown attribute-value pair Variant=Short
-[Line                   2265]: Unknown attribute-value pair Variant=Short
-[Line                   2691]: Unknown attribute-value pair Variant=Short
-[Line                   2870]: Unknown attribute-value pair Variant=Short
-[Line                   3220]: Unknown attribute-value pair Variant=Short
-[Line                   3836]: Unknown attribute-value pair Variant=Short
-[Line                   3878]: Unknown attribute-value pair Variant=Short
-[Line                   4038]: Unknown attribute-value pair Variant=Short
-[Line                   4209]: Unknown attribute-value pair Variant=Short
-[Line                   4339]: Unknown attribute-value pair Variant=Short
-[Line                   4358]: Unknown attribute-value pair Variant=Short
-...suppressing further errors regarding Morpho
-*** FAILED *** with 20 errors
-Morpho errors: 20
-The language-specific file %s does not exist.
-python conllu-stats.py --catvals=langspec yourdata/*.conllu > data/feat_val.%s
+*** PASSED ***
 
 
 ******************
