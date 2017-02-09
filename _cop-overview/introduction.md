@@ -16,6 +16,7 @@ The dependency guidelines assume part of speech tagging based on the Coptic Scri
 
 **List of dependency labels**
 acl – adjunct clause			| ⲡⲣⲱⲙⲉ ⲉⲧⲥⲱⲧⲙ
+-------------------------- | ----------------------------------------------------------------------------
 advcl – adverbial clause		| ⲉϥϫⲱ, ϫⲉⲕⲁⲁⲥ ϥⲟⲩⲱϣ
 advmod – adverbial modifier	| ⲟⲛ, ⲕⲁⲗⲱⲥ
 amod – adjective modifier		| ϣⲏⲣⲉ ϣⲏⲙ
