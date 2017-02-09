@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-02-09T15:09:00Z">2017-02-09T15:09:00 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-02-09T17:58:01Z">2017-02-09T17:58:01 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -4343,7 +4343,7 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang pl /home/ginter/UD_PROJ
 <span class="doublewidespan" style="padding-left:3em">UD Portuguese</span>
 <span class="widespan">pt</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-09T15:08:44Z">2017-02-09T15:08:44 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-09T17:57:47Z">2017-02-09T17:57:47 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -4397,8 +4397,8 @@ python tools/validate.py --lang pt UD-dev-branches/UD_Portuguese/pt-ud-train.con
 [Line                   140]: Mismatch between the text attribute and the FORM field. Form is ',' but text is ' da noite, a meio cam...'
 [Line                   140]: Mismatch between the text attribute and the FORM field. Form is 'Londres' but text is ' da noite, a meio caminho e...'
 ...suppressing further errors regarding Metadata
-*** FAILED *** with 3004 errors
-Metadata errors: 3004
+*** FAILED *** with 2960 errors
+Metadata errors: 2960
 
 
 ******************
