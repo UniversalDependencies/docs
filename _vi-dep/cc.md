@@ -12,6 +12,6 @@ conjunction.)
 <pre><code class="language-sdparse">Lan cao và xinh_xắn 。
 nsubj(cao, Lan)
 cc(cao, và)
-conj(cao, xinh xắn)
+conj(cao, xinh_xắn)
 punct(cao, 。)
 </code></pre>
