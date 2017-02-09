@@ -29,7 +29,7 @@ Preverbal auxiliaries may precede the main verb immediately (1) or before other 
 ~~~
 
 ~~~ conllu
-# visual-style _	color:blue
+# visual-style 4 2 aux	color:blue
 1	一定	_	ADV	_	_	4	advmod	_	certainly
 2	要	_	AUX	_	_	4	aux	_	need
 3	先	_	ADV	_	_	4	advmod	_	first
