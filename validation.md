@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-02-09T17:58:01Z">2017-02-09T17:58:01 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-02-09T18:16:16Z">2017-02-09T18:16:16 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -5012,23 +5012,21 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang es_ancora /home/ginter/
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD Swedish</span>
 <span class="widespan">sv</span>
-<span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-09T12:33:48Z">2017-02-09T12:33:48 zulu</time></span>
+<span class="validationpass">PASS</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-09T18:16:11Z">2017-02-09T18:16:11 zulu</time></span>
 </div>
 <div>
 <pre>
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang sv /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Swedish/sv-ud-dev.conllu
+python tools/validate.py --lang sv UD-dev-branches/UD_Swedish/sv-ud-dev.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang sv /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Swedish/sv-ud-train.conllu
+python tools/validate.py --lang sv UD-dev-branches/UD_Swedish/sv-ud-train.conllu
 
-[Tree number 4294 on line 80881]: Non-tree structure. Words 10,11,12,13,14 are not reachable from the root 0.
-*** FAILED *** with 1 errors
-Syntax errors: 1
+*** PASSED ***
 
 
 ******************
