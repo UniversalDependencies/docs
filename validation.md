@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-02-09T18:16:16Z">2017-02-09T18:16:16 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-02-09T18:50:46Z">2017-02-09T18:50:46 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -3238,63 +3238,21 @@ Syntax errors: 824
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD Italian</span>
 <span class="widespan">it</span>
-<span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-09T12:28:23Z">2017-02-09T12:28:23 zulu</time></span>
+<span class="validationpass">PASS</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-09T18:50:32Z">2017-02-09T18:50:32 zulu</time></span>
 </div>
 <div>
 <pre>
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang it /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Italian/it-ud-dev.conllu
+python tools/validate.py --lang it UD-dev-branches/UD_Italian/it-ud-dev.conllu
 
-[Line                   77]: Unknown attribute-value pair Clit=Yes
-[Line                   138]: Unknown attribute-value pair Clit=Yes
-[Line                   181]: Unknown attribute-value pair Clit=Yes
-[Line                   267]: Unknown attribute-value pair Clit=Yes
-[Line                   369]: Unknown attribute-value pair Clit=Yes
-[Line                   505]: Unknown attribute-value pair Clit=Yes
-[Line                   525]: Unknown attribute-value pair Clit=Yes
-[Line                   670]: Unknown attribute-value pair Clit=Yes
-[Line                   728]: Unknown attribute-value pair Clit=Yes
-[Line                   770]: Unknown attribute-value pair Clit=Yes
-[Line                   812]: Unknown attribute-value pair Clit=Yes
-[Line                   823]: Unknown attribute-value pair Clit=Yes
-[Line                   854]: Unknown attribute-value pair Clit=Yes
-[Line                   855]: Unknown attribute-value pair Clit=Yes
-[Line                   885]: Unknown attribute-value pair Clit=Yes
-[Line                   909]: Unknown attribute-value pair Clit=Yes
-[Line                   912]: Unknown attribute-value pair Clit=Yes
-[Line                   915]: Unknown attribute-value pair Clit=Yes
-[Line                   923]: Unknown attribute-value pair Clit=Yes
-...suppressing further errors regarding Morpho
-*** FAILED *** with 138 errors
-Morpho errors: 138
+*** PASSED ***
 
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang it /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Italian/it-ud-train.conllu
+python tools/validate.py --lang it UD-dev-branches/UD_Italian/it-ud-train.conllu
 
-[Line                   146]: Unknown attribute-value pair Clit=Yes
-[Line                   358]: Unknown attribute-value pair Clit=Yes
-[Line                   437]: Unknown attribute-value pair Clit=Yes
-[Line                   577]: Unknown attribute-value pair Clit=Yes
-[Line                   590]: Unknown attribute-value pair Clit=Yes
-[Line                   607]: Unknown attribute-value pair Clit=Yes
-[Line                   821]: Unknown attribute-value pair Clit=Yes
-[Line                   954]: Unknown attribute-value pair Clit=Yes
-[Line                   1114]: Unknown attribute-value pair Clit=Yes
-[Line                   1198]: Unknown attribute-value pair Clit=Yes
-[Line                   1668]: Unknown attribute-value pair Clit=Yes
-[Line                   1707]: Unknown attribute-value pair Clit=Yes
-[Line                   1779]: Unknown attribute-value pair Clit=Yes
-[Line                   2040]: Unknown attribute-value pair Clit=Yes
-[Line                   2094]: Unknown attribute-value pair Clit=Yes
-[Line                   2158]: Unknown attribute-value pair Clit=Yes
-[Line                   2343]: Unknown attribute-value pair Clit=Yes
-[Line                   2440]: Unknown attribute-value pair Clit=Yes
-[Line                   2445]: Unknown attribute-value pair Clit=Yes
-...suppressing further errors regarding Morpho
-*** FAILED *** with 3376 errors
-Morpho errors: 3376
+*** PASSED ***
 
 
 ******************
