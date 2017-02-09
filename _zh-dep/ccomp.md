@@ -150,14 +150,13 @@ One can reinsert a subject into the complement clause as a test to separate the 
   - grammatical
   - AND matrix verb in (2) and (2’) have the same meaning 	
   - CONCLUSION: matrix verb 覺得 'think' in (2) → ccomp
-
-
+- 
 - (3’)
 - 我 <i>覺得</i> [<b>我</b> 很 開心] (cf. 3)
 - 1SG <i>think</i> [<b>1SG</b> very happy]
 - "I think I’m very happy" (Unavailable: "I feel very happy" as seen in (3))
   - grammatical
-  - matrix verb in (3) and (3’) have different meanings ("feel" vs. "think", respectively)
+  - BUT matrix verb in (3) and (3’) have different meanings ("feel" vs. "think", respectively)
   - CONCLUSION: matrix verb 覺得 'feel' in (3) → xcomp
 
 See [xcomp]() for another test for differentiating between `ccomp` and object-control `xcomp`.
