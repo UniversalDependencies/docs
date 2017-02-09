@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-02-09T14:41:54Z">2017-02-09T14:41:54 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-02-09T14:47:30Z">2017-02-09T14:47:30 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -3778,63 +3778,21 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang la_ittb /home/ginter/UD
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD Latin-PROIEL</span>
 <span class="widespan">la proiel</span>
-<span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-09T14:41:43Z">2017-02-09T14:41:43 zulu</time></span>
+<span class="validationpass">PASS</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-09T14:47:20Z">2017-02-09T14:47:20 zulu</time></span>
 </div>
 <div>
 <pre>
-python tools/validate.py --lang la_proiel UD-dev-branches/UD_Latin-PROIEL/la_proiel-ud-dev.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang la_proiel /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Latin-PROIEL/la_proiel-ud-dev.conllu
 
-[Line                   6]: Unknown UD DEPREL: obj:dir
-[Line                   20]: Unknown UD DEPREL: obj:dir
-[Line                   23]: Unknown UD DEPREL: obj:dir
-[Line                   46]: Unknown UD DEPREL: obj:dir
-[Line                   66]: Unknown UD DEPREL: obj:dir
-[Line                   68]: Unknown UD DEPREL: nsubj:pass
-[Line                   78]: Unknown UD DEPREL: obj:dir
-[Line                   89]: Unknown UD DEPREL: obj:dir
-[Line                   107]: Unknown UD DEPREL: obj:dir
-[Line                   127]: Unknown UD DEPREL: obj:dir
-[Line                   132]: Unknown UD DEPREL: obj:dir
-[Line                   160]: Unknown UD DEPREL: obj:dir
-[Line                   195]: Unknown UD DEPREL: obl:agent
-[Line                   218]: Unknown UD DEPREL: obj:dir
-[Line                   221]: Unknown UD DEPREL: obj:dir
-[Line                   248]: Unknown UD DEPREL: obj:dir
-[Line                   251]: Unknown UD DEPREL: obj:dir
-[Line                   266]: Unknown UD DEPREL: obj:dir
-[Line                   313]: Unknown UD DEPREL: nsubj:pass
-...suppressing further errors regarding Syntax
-*** FAILED *** with 1254 errors
-Syntax errors: 1254
+*** PASSED ***
 
 
 ******************
 
-python tools/validate.py --lang la_proiel UD-dev-branches/UD_Latin-PROIEL/la_proiel-ud-train.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang la_proiel /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Latin-PROIEL/la_proiel-ud-train.conllu
 
-[Line                   7]: Unknown UD DEPREL: flat:name
-[Line                   18]: Unknown UD DEPREL: obj:dir
-[Line                   26]: Unknown UD DEPREL: obj:dir
-[Line                   34]: Unknown UD DEPREL: obj:dir
-[Line                   45]: Unknown UD DEPREL: obj:dir
-[Line                   57]: Unknown UD DEPREL: obj:dir
-[Line                   65]: Unknown UD DEPREL: obj:dir
-[Line                   73]: Unknown UD DEPREL: obj:dir
-[Line                   81]: Unknown UD DEPREL: obj:dir
-[Line                   89]: Unknown UD DEPREL: obj:dir
-[Line                   97]: Unknown UD DEPREL: obj:dir
-[Line                   107]: Unknown UD DEPREL: obj:dir
-[Line                   117]: Unknown UD DEPREL: obj:dir
-[Line                   125]: Unknown UD DEPREL: obj:dir
-[Line                   135]: Unknown UD DEPREL: obj:dir
-[Line                   148]: Unknown UD DEPREL: obj:dir
-[Line                   156]: Unknown UD DEPREL: obj:dir
-[Line                   172]: Unknown UD DEPREL: obj:dir
-[Line                   180]: Unknown UD DEPREL: obj:dir
-...suppressing further errors regarding Syntax
-*** FAILED *** with 13340 errors
-Syntax errors: 13340
+*** PASSED ***
 
 
 ******************
