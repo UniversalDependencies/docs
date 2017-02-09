@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-02-09T22:46:21Z">2017-02-09T22:46:21 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-02-09T22:50:33Z">2017-02-09T22:50:33 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -175,11 +175,11 @@ Syntax errors: 21730
 <span class="doublewidespan" style="padding-left:3em">UD Ancient Greek-PROIEL</span>
 <span class="widespan">grc proiel</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-09T20:15:51Z">2017-02-09T20:15:51 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-09T22:50:12Z">2017-02-09T22:50:12 zulu</time></span>
 </div>
 <div>
 <pre>
-python tools/validate.py --lang grc_proiel UD-dev-branches/UD_Ancient_Greek-PROIEL/grc_proiel-ud-dev.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang grc_proiel /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Ancient_Greek-PROIEL/grc_proiel-ud-dev.conllu
 
 [Line                   5]: Unknown UD DEPREL: dobj
 [Line                   6]: Missing the sent_id attribute.
@@ -249,7 +249,7 @@ Syntax errors: 2257
 
 ******************
 
-python tools/validate.py --lang grc_proiel UD-dev-branches/UD_Ancient_Greek-PROIEL/grc_proiel-ud-train.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang grc_proiel /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Ancient_Greek-PROIEL/grc_proiel-ud-train.conllu
 
 [Line                   4]: Unknown UD DEPREL: name
 [Line                   9]: Missing the sent_id attribute.
@@ -2433,63 +2433,21 @@ python tools/validate.py --lang de UD-dev-branches/UD_German/de-ud-train.conllu
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD Gothic</span>
 <span class="widespan">got</span>
-<span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-09T22:37:51Z">2017-02-09T22:37:51 zulu</time></span>
+<span class="validationpass">PASS</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-09T22:50:26Z">2017-02-09T22:50:26 zulu</time></span>
 </div>
 <div>
 <pre>
-python tools/validate.py --lang got UD-dev-branches/UD_Gothic/got-ud-dev.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang got /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Gothic/got-ud-dev.conllu
 
-[Line                   29]: Unknown UD DEPREL: obj:dir
-[Line                   32]: Unknown UD DEPREL: obj:dir
-[Line                   46]: Unknown UD DEPREL: obj:dir
-[Line                   95]: Unknown UD DEPREL: nsubj:pass
-[Line                   96]: Unknown UD DEPREL: obj:dir
-[Line                   103]: Unknown UD DEPREL: obj:dir
-[Line                   119]: Unknown UD DEPREL: nsubj:pass
-[Line                   201]: Unknown UD DEPREL: obj:dir
-[Line                   212]: Unknown UD DEPREL: obj:dir
-[Line                   225]: Unknown UD DEPREL: obj:dir
-[Line                   236]: Unknown UD DEPREL: obj:dir
-[Line                   242]: Unknown UD DEPREL: obj:dir
-[Line                   258]: Unknown UD DEPREL: obj:dir
-[Line                   280]: Unknown UD DEPREL: obj:dir
-[Line                   287]: Unknown UD DEPREL: obj:dir
-[Line                   312]: Unknown UD DEPREL: obj:dir
-[Line                   339]: Unknown UD DEPREL: obj:dir
-[Line                   360]: Unknown UD DEPREL: obj:dir
-[Line                   362]: Unknown UD DEPREL: obj:dir
-...suppressing further errors regarding Syntax
-*** FAILED *** with 742 errors
-Syntax errors: 742
+*** PASSED ***
 
 
 ******************
 
-python tools/validate.py --lang got UD-dev-branches/UD_Gothic/got-ud-train.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang got /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Gothic/got-ud-train.conllu
 
-[Line                   22]: Unknown UD DEPREL: obj:dir
-[Line                   33]: Unknown UD DEPREL: obj:dir
-[Line                   44]: Unknown UD DEPREL: obj:dir
-[Line                   52]: Unknown UD DEPREL: nsubj:pass
-[Line                   80]: Unknown UD DEPREL: obj:dir
-[Line                   90]: Unknown UD DEPREL: obj:dir
-[Line                   105]: Unknown UD DEPREL: nsubj:pass
-[Line                   123]: Unknown UD DEPREL: obj:dir
-[Line                   131]: Unknown UD DEPREL: obj:dir
-[Line                   148]: Unknown UD DEPREL: obj:dir
-[Line                   176]: Unknown UD DEPREL: obj:dir
-[Line                   179]: Unknown UD DEPREL: obj:dir
-[Line                   191]: Unknown UD DEPREL: obj:dir
-[Line                   285]: Unknown UD DEPREL: obj:dir
-[Line                   304]: Unknown UD DEPREL: obj:dir
-[Line                   317]: Unknown UD DEPREL: obj:dir
-[Line                   383]: Unknown UD DEPREL: nsubj:pass
-[Line                   397]: Unknown UD DEPREL: obj:dir
-[Line                   404]: Unknown UD DEPREL: obj:dir
-...suppressing further errors regarding Syntax
-*** FAILED *** with 2633 errors
-Syntax errors: 2633
+*** PASSED ***
 
 
 ******************
@@ -3890,11 +3848,11 @@ python tools/validate.py --lang no_nynorsk UD-dev-branches/UD_Norwegian-Nynorsk/
 <span class="doublewidespan" style="padding-left:3em">UD Old Church Slavonic</span>
 <span class="widespan">cu</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-09T20:50:55Z">2017-02-09T20:50:55 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-09T22:50:29Z">2017-02-09T22:50:29 zulu</time></span>
 </div>
 <div>
 <pre>
-python tools/validate.py --lang cu UD-dev-branches/UD_Old_Church_Slavonic/cu-ud-dev.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang cu /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Old_Church_Slavonic/cu-ud-dev.conllu
 
 [Line                   10]: Unknown UPOS tag: CONJ
 [Line                   11]: Unknown UD DEPREL: neg
@@ -3964,7 +3922,7 @@ Syntax errors: 610
 
 ******************
 
-python tools/validate.py --lang cu UD-dev-branches/UD_Old_Church_Slavonic/cu-ud-train.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang cu /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Old_Church_Slavonic/cu-ud-train.conllu
 
 [Line                   3]: Unknown UD DEPREL: dobj
 [Line                   7]: Unknown UPOS tag: CONJ
