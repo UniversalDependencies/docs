@@ -46,10 +46,6 @@ Postnominal clausal modifiers (known as "descriptive clauses" in Li & Thompson, 
 # visual-style 2 3 acl	color:blue
 1	有	_	VERB	_	_	0	root	_	exist
 2	機會	_	NOUN	_	_	1	obj	_	chance
-~~~ conllu
-# visual-style 2 3 acl	color:blue
-1	有	_	VERB	_	_	0	root	_	exist
-2	機會	_	NOUN	_	_	1	obj	_	chance
 3	學壞	_	VERB	_	_	2	acl	_	learn-bad
 
 1	"There's	_	_	_	_	0	_	_	_
