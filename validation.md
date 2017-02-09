@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-02-09T02:48:02Z">2017-02-09T02:48:02 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-02-09T02:49:41Z">2017-02-09T02:49:41 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -512,12 +512,145 @@ Syntax errors: 6742
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD Belarusian</span>
 <span class="widespan">be</span>
-<span class="validationfail">EMPTY</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-09T02:48:02Z">2017-02-09T02:48:02 zulu</time></span>
+<span class="validationfail">FAIL</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-09T02:49:41Z">2017-02-09T02:49:41 zulu</time></span>
 </div>
 <div>
 <pre>
-No data
+python tools/validate.py --lang be UD-dev-branches/UD_Belarusian/be-ud-dev.conllu
+
+[Line                   22]: Unknown UD DEPREL: acl:relcl
+[Line                   171]: Unknown attribute-value pair Variant=Short
+[Line                   183]: Unknown attribute-value pair Variant=Short
+[Line                   196]: Unknown attribute-value pair Variant=Short
+[Line                   225]: Unknown UD DEPREL: nummod:gov
+[Line                   231]: Unknown UD DEPREL: acl:relcl
+[Line                   275]: Unknown UD DEPREL: acl:relcl
+[Line                   379]: Unknown UD DEPREL: acl:relcl
+[Line                   396]: Unknown UD DEPREL: nummod:gov
+[Line                   425]: Unknown UD DEPREL: nummod:gov
+[Line                   439]: Unknown UD DEPREL: nummod:gov
+[Line                   460]: Unknown UD DEPREL: nummod:gov
+[Line                   475]: Unknown UD DEPREL: nummod:gov
+[Line                   481]: Unknown UD DEPREL: nummod:gov
+[Line                   517]: Unknown UD DEPREL: nummod:gov
+[Line                   530]: Unknown UD DEPREL: nummod:gov
+[Line                   553]: Unknown UD DEPREL: nummod:gov
+[Line                   559]: Unknown UD DEPREL: nummod:gov
+[Line                   565]: Unknown UD DEPREL: nummod:gov
+[Line                   571]: Unknown UD DEPREL: nummod:gov
+[Line                   585]: Unknown UD DEPREL: nummod:gov
+[Line                   631]: Unknown UD DEPREL: nummod:gov
+...suppressing further errors regarding Syntax
+[Line                   805]: Unknown attribute-value pair Variant=Short
+[Line                   825]: Unknown attribute-value pair Variant=Short
+[Line                   1150]: Unknown attribute-value pair Variant=Short
+[Line                   1323]: Unknown attribute-value pair Variant=Short
+[Line                   1333]: Unknown attribute-value pair Variant=Short
+[Line                   1492]: Unknown attribute-value pair Variant=Short
+[Line                   1677]: Unknown attribute-value pair Variant=Short
+*** FAILED *** with 50 errors
+Morpho errors: 10
+Syntax errors: 40
+The language-specific file %s does not exist.
+The language-specific file %s does not exist.
+python conllu-stats.py --catvals=langspec yourdata/*.conllu > data/feat_val.%s
+
+
+******************
+
+python tools/validate.py --lang be UD-dev-branches/UD_Belarusian/be-ud-test.conllu
+
+[Line                   197]: Unknown UD DEPREL: aux:pass
+[Line                   198]: Unknown attribute-value pair Variant=Short
+[Line                   351]: Unknown attribute-value pair Variant=Short
+[Line                   401]: Unknown attribute-value pair Variant=Short
+[Line                   413]: Unknown UD DEPREL: acl:relcl
+[Line                   442]: Unknown UD DEPREL: acl:relcl
+[Line                   589]: Unknown attribute-value pair Variant=Short
+[Line                   612]: Unknown UD DEPREL: nummod:gov
+[Line                   618]: Unknown UD DEPREL: nummod:gov
+[Line                   679]: Unknown attribute-value pair Variant=Short
+[Line                   743]: Unknown UD DEPREL: acl:relcl
+[Line                   861]: Unknown attribute-value pair Variant=Short
+[Line                   861]: Unknown UD DEPREL: acl:relcl
+[Line                   863]: Unknown UD DEPREL: nummod:gov
+[Line                   874]: Unknown attribute-value pair Variant=Short
+[Line                   874]: Unknown UD DEPREL: acl:relcl
+[Line                   910]: Unknown UD DEPREL: nummod:gov
+[Line                   946]: Unknown UD DEPREL: acl:relcl
+[Line                   958]: Unknown UD DEPREL: obl:agent
+[Line                   979]: Unknown attribute-value pair Variant=Short
+[Line                   1030]: Unknown attribute-value pair Variant=Short
+[Line                   1044]: Unknown attribute-value pair Variant=Short
+[Line                   1060]: Unknown attribute-value pair Variant=Short
+[Line                   1080]: Unknown UD DEPREL: acl:relcl
+[Line                   1127]: Unknown UD DEPREL: acl:relcl
+[Line                   1157]: Unknown UD DEPREL: nummod:gov
+[Line                   1474]: Unknown UD DEPREL: acl:relcl
+*** FAILED *** with 27 errors
+Morpho errors: 11
+Syntax errors: 16
+The language-specific file %s does not exist.
+The language-specific file %s does not exist.
+python conllu-stats.py --catvals=langspec yourdata/*.conllu > data/feat_val.%s
+
+
+******************
+
+python tools/validate.py --lang be UD-dev-branches/UD_Belarusian/be-ud-train.conllu
+
+[Line                   287]: Unknown UD DEPREL: acl:relcl
+[Line                   342]: Unknown UD DEPREL: nummod:gov
+[Line                   370]: Unknown UD DEPREL: acl:relcl
+[Line                   468]: Unknown attribute-value pair Variant=Short
+[Line                   496]: Unknown UD DEPREL: acl:relcl
+[Line                   538]: Unknown UD DEPREL: acl:relcl
+[Line                   539]: Unknown UD DEPREL: acl:relcl
+[Line                   548]: Unknown UD DEPREL: acl:relcl
+[Line                   624]: Unknown attribute-value pair Variant=Short
+[Line                   813]: Unknown UD DEPREL: obl:agent
+[Line                   872]: Unknown attribute-value pair Variant=Short
+[Line                   937]: Unknown attribute-value pair Variant=Short
+[Line                   1025]: Unknown UD DEPREL: acl:relcl
+[Line                   1074]: Unknown attribute-value pair Variant=Short
+[Line                   1222]: Unknown UD DEPREL: acl:relcl
+[Line                   1303]: Unknown UD DEPREL: nummod:gov
+[Line                   1329]: Unknown attribute-value pair Variant=Short
+[Line                   1331]: Unknown attribute-value pair Variant=Short
+[Line                   1348]: Unknown UD DEPREL: acl:relcl
+[Line                   1616]: Unknown attribute-value pair Variant=Short
+[Line                   1849]: Unknown attribute-value pair Variant=Short
+[Line                   2120]: Unknown UD DEPREL: nummod:gov
+[Line                   2245]: Unknown UD DEPREL: nummod:gov
+[Line                   2264]: Unknown UD DEPREL: aux:pass
+[Line                   2265]: Unknown attribute-value pair Variant=Short
+[Line                   2277]: Unknown UD DEPREL: nummod:gov
+[Line                   2313]: Unknown UD DEPREL: nummod:gov
+[Line                   2342]: Unknown UD DEPREL: nummod:gov
+[Line                   2346]: Unknown UD DEPREL: nummod:gov
+...suppressing further errors regarding Syntax
+[Line                   2691]: Unknown attribute-value pair Variant=Short
+[Line                   2870]: Unknown attribute-value pair Variant=Short
+[Line                   3220]: Unknown attribute-value pair Variant=Short
+[Line                   3836]: Unknown attribute-value pair Variant=Short
+[Line                   3878]: Unknown attribute-value pair Variant=Short
+[Line                   4038]: Unknown attribute-value pair Variant=Short
+[Line                   4209]: Unknown attribute-value pair Variant=Short
+[Line                   4339]: Unknown attribute-value pair Variant=Short
+[Line                   4358]: Unknown attribute-value pair Variant=Short
+...suppressing further errors regarding Morpho
+*** FAILED *** with 81 errors
+Morpho errors: 20
+Syntax errors: 61
+The language-specific file %s does not exist.
+The language-specific file %s does not exist.
+python conllu-stats.py --catvals=langspec yourdata/*.conllu > data/feat_val.%s
+
+
+******************
+
+
 </pre>
 </div>
 <div>
