@@ -636,6 +636,17 @@
     "lang_name": "French-ParTUT"
   }, 
   {
+    "lang_code": "fr_sequoia", 
+    "contributors": [
+      {
+        "full": "Bruno Guillaume", 
+        "last": "Guillaume", 
+        "first": "Bruno"
+      }
+    ], 
+    "lang_name": "French-Sequoia"
+  }, 
+  {
     "lang_code": "gl", 
     "contributors": [
       {
