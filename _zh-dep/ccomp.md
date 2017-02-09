@@ -50,6 +50,7 @@ The subject of the embedded clause may sometimes be absent, but pragmatically un
 10	room,	_	_	_	_	0	_	_	_
 11	for	_	_	_	_	0	_	_	_
 12	example)	_	_	_	_	0	_	_	_
+
 ~~~
 
 In some rare cases, a verb may have different meanings, one taking a `ccomp` dependent, and another an `xcomp` dependent. For example, the verb 觉得 _juédé_ may mean “feel, think, consider” or “feel a sensation”. The first meaning takes a clausal complement, as in example (2) above; the second meaning requires `xcomp`, as in (3) below, which exhibits a case of ‘subject control’, where the subject of the second predicate 很 開心 / _hěn kāixīn_ "very happy" is necessarily understood as the subject of the matrix verb.
@@ -140,7 +141,7 @@ It may be difficult sometimes to differentiate between (i) `ccomp` with the subj
 
 In the first situation, one can reinsert a subject into the complement clause as a test. If the result is perfectly grammatical AND the meaning of the matrix verb does not change, it is likely `ccomp` (as in 2’ below). Otherwise, if the sentence becomes ungrammatical OR the meaning of the matrix verb changes, then it would likely be `xcomp` (as in 3’ below). The reinserted subjects are emphasized, the matrix verbs italicized, and the complement clauses in brackets:
 
-```
+<code>
 (2’)
 		你 有 否 <i>覺得</i> [<b>房間</b> 很 臭]？ 	(cf. 2)
 		2SG AUX NEG <i>think</i> [<b>room</b> very stinky]
@@ -158,6 +159,6 @@ In the first situation, one can reinsert a subject into the complement clause as
 		BUT		→ matrix verb in (3) and (3’) have different meanings ("feel" vs. "think", respectively)
 
 		CONCLUSION: matrix verb in (3) → xcomp
-```
+</code>
 
 See [xcomp]() for another test for differentiating between `ccomp` and object-control `xcomp`.
