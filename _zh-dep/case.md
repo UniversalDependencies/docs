@@ -110,7 +110,7 @@ Note that 的 _de_ has other grammaticalized functions that require the [mark:re
 ~~~ conllu
 # visual-style 2 1 case	color:blue
 1	被	_	ADP	_	_	2	case	_	by
-2	你	_	PRON	_	_	3	obl	_	2SG
+2	你	_	PRON	_	_	3	obl:agent	_	2SG
 3	偷	_	VERB	_	_	0	root	_	steal
 4	了	_	PART	_	_	3	discourse:sp	_	SP
 
