@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-02-09T03:05:49Z">2017-02-09T03:05:49 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-02-09T09:01:12Z">2017-02-09T09:01:12 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -1175,7 +1175,7 @@ python tools/validate.py --lang nl_lassysmall UD-dev-branches/UD_Dutch-LassySmal
 <span class="doublewidespan" style="padding-left:3em">UD English</span>
 <span class="widespan">en</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-08T15:24:12Z">2017-02-08T15:24:12 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-09T08:10:43Z">2017-02-09T08:10:43 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -5158,21 +5158,47 @@ Syntax errors: 1
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD Swedish-LinES</span>
 <span class="widespan">sv lines</span>
-<span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-07T15:19:41Z">2017-02-07T15:19:41 zulu</time></span>
+<span class="validationfail">FAIL</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-09T09:01:09Z">2017-02-09T09:01:09 zulu</time></span>
 </div>
 <div>
 <pre>
 python tools/validate.py --lang sv_lines UD-dev-branches/UD_Swedish-LinES/sv_lines-ud-dev.conllu
 
-*** PASSED ***
+[Line                   5618]: Mismatch between the text attribute and the FORM field. Form is 'mängd' but text is '-mängd reliker....'
+[Line                   5618]: Mismatch between the text attribute and the FORM field. Form is 'reliker' but text is '-mängd reliker....'
+[Line                   5618]: Mismatch between the text attribute and the FORM field. Form is '.' but text is '-mängd reliker....'
+[Line                   5618]: Extra characters at the end of the text attribute, not accounted for in the FORM fields: '-mängd reliker.'
+[Tree number 391 on line 7703]: Non-tree structure. Words 19,20,21 are not reachable from the root 0.
+[Line                   7729]: Mismatch between the text attribute and the FORM field. Form is 'där' but text is '-där brottslingarna som...'
+[Line                   7729]: Mismatch between the text attribute and the FORM field. Form is 'brottslingarna' but text is '-där brottslingarna som fascinerad...'
+[Line                   7729]: Mismatch between the text attribute and the FORM field. Form is 'som' but text is '-där brottslingarna som...'
+[Line                   7729]: Mismatch between the text attribute and the FORM field. Form is 'fascinerade' but text is '-där brottslingarna som fascine...'
+[Line                   7729]: Mismatch between the text attribute and the FORM field. Form is 'honom' but text is '-där brottslingarna som f...'
+[Line                   7729]: Mismatch between the text attribute and the FORM field. Form is '.' but text is '-där brottslingarna s...'
+[Line                   7729]: Extra characters at the end of the text attribute, not accounted for in the FORM fields: '-där brottslingarna som fascinerade honom.'
+*** FAILED *** with 12 errors
+Metadata errors: 11
+Syntax errors: 1
 
 
 ******************
 
 python tools/validate.py --lang sv_lines UD-dev-branches/UD_Swedish-LinES/sv_lines-ud-train.conllu
 
-*** PASSED ***
+[Line                   187]: Mismatch between the text attribute and the FORM field. Form is '.' but text is 'x....'
+[Line                   187]: Extra characters at the end of the text attribute, not accounted for in the FORM fields: 'x.'
+[Line                   14874]: Mismatch between the text attribute and the FORM field. Form is '.' but text is 'x....'
+[Line                   14874]: Extra characters at the end of the text attribute, not accounted for in the FORM fields: 'x.'
+[Line                   38303]: Failed for parse DEPS: x_
+[Line                   38303]: Unknown UD DEPREL: au
+[Line                   38303]: Malformed head:deprel pair 'x_'
+[Line                   38354]: Failed for parse DEPS: x_
+[Line                   38354]: Failed to parse DEPS: x_
+*** FAILED *** with 9 errors
+Format errors: 2
+Metadata errors: 4
+Syntax errors: 3
 
 
 ******************
