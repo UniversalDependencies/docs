@@ -92,7 +92,7 @@ Additionally, `ccomp` is used for "extent compounds" (see [compound:ext]()) wher
 
 ~~~
 
-The `ccomp` relation is also used for the copula 是 when its argument is a clause (although in copular constructions, 是 is usually a [cop]() dependent of the predicate).
+The `ccomp` relation is also used for the copula 是 _shì_ when its argument is a clause (although in copular constructions, 是 _shì_ is usually a [cop]() dependent of the predicate).
 
 ~~~ conllu
 # visual-style 2 5 ccomp	color:blue
@@ -110,6 +110,8 @@ The `ccomp` relation is also used for the copula 是 when its argument is a clau
 6	come."	_	_	_	_	0	_	_	_
 
 ~~~
+
+### 是...(的) constructions
 
 The cleft-like focus constructions involving 是 _shì_ and 是...的 _shì...de_ are treated similarly.  In these constructions 是 _shì_ is considered the main verb, and the verb phrase or clause following it a clausal complement. Any noun phrase or adverbial to the left of 是 _shì_ is treated as a [dislocated]() dependent of 是 _shì_ (rather than subject, adjunct, or oblique nominal of the complement clause). The sentence-final particle 的 _de_ is attached to the complement clause (although note that 的 _de_ may also be a nominalizer or a genitive marker on a nominal predicate).
 
@@ -135,7 +137,7 @@ The cleft-like focus constructions involving 是 _shì_ and 是...的 _shì...de
 
 ~~~
 
-#### Subject-less `ccomp` vs. subject-control `xcomp`
+### Subject-less `ccomp` vs. subject-control `xcomp`
 
 It may be difficult sometimes to differentiate between (i) `ccomp` with the subject of the complement clause (non-obligatorily) dropped and (ii) a case of subject-control `xcomp` where the subject is obligatorily absent.
 
@@ -148,16 +150,16 @@ In the first situation, one can reinsert a subject into the complement clause as
 		"Do you think the room is very stinky?"
 				→  grammatical
 		AND 	→  matrix verb in (2) and (2’) have the same meaning 	
-
 		CONCLUSION: matrix verb in (2) → ccomp
+</code>
 
+<code>
 (3’)
 		我 <i>覺得</i> [<b>我</b> 很 開心] 	(cf. 3)
 		1SG <i>think</i> [<b>1SG</b> very happy]
 		"I think I’m very happy" (Unavailable: "I feel very happy" as seen in (3))
 				→ grammatical
 		BUT		→ matrix verb in (3) and (3’) have different meanings ("feel" vs. "think", respectively)
-
 		CONCLUSION: matrix verb in (3) → xcomp
 </code>
 
