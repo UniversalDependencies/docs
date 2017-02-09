@@ -148,7 +148,7 @@ One can reinsert a subject into the complement clause as a test to separate the 
 - 2SG AUX NEG <i>think</i> [<b>room</b> very stinky]
 - "Do you think the room is very stinky?"
   - grammatical
-  - AND matrix verb in (2) and (2’) have the same meaning 	
+  - AND matrix verbs in (2) and (2’) have the same meaning 	
   - CONCLUSION: matrix verb 覺得 'think' in (2) → ccomp
 - 
 - (3’)
@@ -156,7 +156,7 @@ One can reinsert a subject into the complement clause as a test to separate the 
 - 1SG <i>think</i> [<b>1SG</b> very happy]
 - "I think I’m very happy" (Unavailable: "I feel very happy" as seen in (3))
   - grammatical
-  - BUT matrix verb in (3) and (3’) have different meanings ("feel" vs. "think", respectively)
+  - BUT matrix verbs in (3) and (3’) have different meanings ("feel" vs. "think", respectively)
   - CONCLUSION: matrix verb 覺得 'feel' in (3) → xcomp
 
 See [xcomp]() for another test for differentiating between `ccomp` and object-control `xcomp`.
