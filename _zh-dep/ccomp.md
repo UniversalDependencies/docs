@@ -143,24 +143,20 @@ It may be difficult sometimes to differentiate between (i) `ccomp` with the subj
 
 One can reinsert a subject into the complement clause as a test to separate the above two situations. If the result is perfectly grammatical AND the meaning of the matrix verb does not change, it is likely situation (i) where the clausal complement should be linked to the matrix verb with `ccomp` (as in 2’ below). Otherwise, if the sentence becomes ungrammatical OR the meaning of the matrix verb changes, then it would likely be situation (ii) with `xcomp` (as in 3’ below). In the following sentences, the reinserted subjects are emphasized, the matrix verbs italicized, and the complement clauses in brackets:
 
-```
-(2’)
-你 有 否 <i>覺得</i> [<b>房間</b> 很 臭]？ (cf. 2)
-2SG AUX NEG <i>think</i> [<b>room</b> very stinky]
-"Do you think the room is very stinky?"
-- grammatical
-- AND matrix verb in (2) and (2’) have the same meaning 	
-- CONCLUSION: matrix verb in (2) → ccomp
-```
+- (2’)
+- 你 有 否 <i>覺得</i> [<b>房間</b> 很 臭]？ (cf. 2)
+- 2SG AUX NEG <i>think</i> [<b>room</b> very stinky]
+- "Do you think the room is very stinky?"
+  - grammatical
+  - AND matrix verb in (2) and (2’) have the same meaning 	
+  - CONCLUSION: matrix verb in (2) → ccomp
 
-```
-(3’)
-我 <i>覺得</i> [<b>我</b> 很 開心] (cf. 3)
-1SG <i>think</i> [<b>1SG</b> very happy]
-"I think I’m very happy" (Unavailable: "I feel very happy" as seen in (3))
-- grammatical
-- matrix verb in (3) and (3’) have different meanings ("feel" vs. "think", respectively)
-- CONCLUSION: matrix verb in (3) → xcomp
-```
+- (3’)
+- 我 <i>覺得</i> [<b>我</b> 很 開心] (cf. 3)
+- 1SG <i>think</i> [<b>1SG</b> very happy]
+- "I think I’m very happy" (Unavailable: "I feel very happy" as seen in (3))
+  - grammatical
+  - matrix verb in (3) and (3’) have different meanings ("feel" vs. "think", respectively)
+  - CONCLUSION: matrix verb in (3) → xcomp
 
 See [xcomp]() for another test for differentiating between `ccomp` and object-control `xcomp`.
