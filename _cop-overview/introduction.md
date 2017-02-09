@@ -17,9 +17,37 @@ The dependency guidelines assume part of speech tagging based on the Coptic Scri
 **List of dependency labels**
 
 | Label        | Example        |   
-| ------------- |:-------------:| 
+| ------------- |-------------:| 
 | acl – adjunct clause      | ⲡⲣⲱⲙⲉ ⲉⲧⲥⲱⲧⲙ | 
 | advcl – adverbial clause  | ⲉϥϫⲱ, ϫⲉⲕⲁⲁⲥ ϥⲟⲩⲱϣ  |  
 | advmod – adverbial modifier | ⲟⲛ, ⲕⲁⲗⲱⲥ|  
+| amod – adjective modifier		| ϣⲏⲣⲉ ϣⲏⲙ | 
+| appos – appositions 	| 		ⲡⲉⲕⲉⲓⲱⲧ ⲙⲁⲙⲙⲱⲛⲁⲥ| 
+| aux – auxiliary 		| 	ⲁ, ⲙⲡⲁⲧ, ϣⲁⲣⲉ| 
+| case – case marking/preposition	| ⲥⲱⲧⲡ ⲙⲡⲣⲱⲙⲉ, ⲙⲙⲟϥ, ϩⲙⲡⲏⲓ| 
+| cc – coordination 		| 	ⲁⲩⲱ, ⲙⲛ, ϩⲓ, ⲏ| 
+| ccomp – complement clause	| 	ⲡⲉϫⲁ ϥ ϫⲉ ⲁ ⲓ ⲥⲱⲧⲙ| 
+| compound – nominal or verbal| 	ϣⲃⲣ ⲣϩⲱⲃ| 
+| conj – conjunct in coordination| 	ϣⲏⲣⲉ ⲙⲛϣⲉⲉⲣⲉ, ⲁϥⲛⲁⲩ ⲁⲩⲱ ⲁϥⲥⲱⲧⲙ| 
+| cop – the copula	| 		ⲡⲉ, ⲧⲉ, ⲛⲉ| 
+| csubj – clausal subject (fin./inf.)	| ⲡ ⲉⲧ ϣϣⲉ ⲉ ⲁⲛⲉⲭⲉ ⲙⲙⲟ ⲕ| 
+| det – article or other determiner	| ⲡⲣⲱⲙⲉ, ⲕⲉⲥⲟⲡ, ⲥⲟⲛ ⲛⲓⲙ| 
+| discourse – interjections etc.	| 	ⲉϩⲉ, ⲟⲩⲟⲉⲓ!| 
+| dislocated – extraposed argument	| ϥ ... ⲛϭⲓⲡϩⲗⲗⲟ, ⲡⲣⲱⲙⲉ ⲁϥⲥⲱⲧⲙ| 
+| dobj – direct object		| 	ⲥⲱⲧⲡ ⲙⲡⲣⲱⲙⲉ, ϯⲛⲁϩⲟⲧⲃⲉⲕ| 
+| iobj – indirect object (possessor)| 	ⲟⲩⲛⲧⲁⲩ ⲁⲡⲟⲧ| 
+| mark – clause marker or converter	| ⲡⲉϫⲁ ϥ ϫⲉ ⲉⲧⲃⲉ ⲟⲩ, ⲉ ⲓ ⲥⲱⲧⲙ ⲉⲣⲟ ⲕ| 
+| mwe – multiword expression	| 	ⲉⲃⲟⲗ ϩⲛ| 
+| name – multi-word name	| 	ⲁⲡⲁ ⲡⲁⲡⲛⲟⲩⲧⲉ| 
+| neg – negation 	| 		ⲧⲙ ⲥⲱⲧⲙ, ⲟⲩ ⲣⲱⲙⲉ ⲁⲛ| 
+| nmod – nominal modifier	| 	ⲟⲩ ⲣⲱⲙⲉ ⲛ ⲁⲡⲓⲥⲧⲟⲥ| 
+| nummod – number modifier	| 	ϩⲙⲉ ⲛ ϩⲟⲟⲩ| 
+| nsubj – nominal subject	| 	ⲡⲣⲱⲙⲉ ⲥⲱⲧⲙ, ⲁⲓⲣⲛⲟⲃⲉ| 
+| parataxis – loose clausal joint	| 	ⲛⲁ ⲉⲡⲓⲥⲧⲟⲗⲏ ⲛⲉ ⲏ ϯ ⲥⲟⲟⲩⲛ ⲁⲛ ϫⲉ ⲕ ⲛⲁ ⲡⲁϩ ⲟⲩ| 
+| punct – punctuation 		| 	· . ,| 
+| remnant – 2nd, conflicting argument	| ⲙⲡⲓⲥⲱⲧⲙ, ⲁⲗⲗⲁ ⲛⲧⲟϥ| 
+| root – root/predicate of utterance	| ⲥⲱⲧⲙ, ⲛⲁⲛⲟⲩ ϥ, ⲡ ⲣⲣⲟ ⲡⲉ| 
+| vocative – appellation		| 	 ⲡ ⲡⲟⲛⲏⲣⲟⲥ!| 
+| xcomp – subjectless clause	| 	ⲙⲡ ϥ ⲟⲩⲱϣ ⲉ ⲱⲛϩ| 
 
 dep – undefined dependency – used when no other definition applies
