@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-02-09T22:37:54Z">2017-02-09T22:37:54 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-02-09T22:46:21Z">2017-02-09T22:46:21 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -3652,119 +3652,21 @@ python tools/validate.py --lang la_ittb UD-dev-branches/UD_Latin-ITTB/la_ittb-ud
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD Latin-PROIEL</span>
 <span class="widespan">la proiel</span>
-<span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-09T20:47:52Z">2017-02-09T20:47:52 zulu</time></span>
+<span class="validationpass">PASS</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-09T22:46:10Z">2017-02-09T22:46:10 zulu</time></span>
 </div>
 <div>
 <pre>
 python tools/validate.py --lang la_proiel UD-dev-branches/UD_Latin-PROIEL/la_proiel-ud-dev.conllu
 
-[Line                   16224]: Non-unique sent_id the sent_id attribute: 12841
-[Line                   16236]: Non-unique sent_id the sent_id attribute: 12842
-[Line                   16246]: Non-unique sent_id the sent_id attribute: 12844
-[Line                   16256]: Non-unique sent_id the sent_id attribute: 12846
-[Line                   16269]: Non-unique sent_id the sent_id attribute: 12848
-[Line                   16279]: Non-unique sent_id the sent_id attribute: 12850
-[Line                   16290]: Non-unique sent_id the sent_id attribute: 12852
-[Line                   16300]: Non-unique sent_id the sent_id attribute: 12854
-[Line                   16315]: Non-unique sent_id the sent_id attribute: 12856
-[Line                   16337]: Non-unique sent_id the sent_id attribute: 12858
-[Line                   16351]: Non-unique sent_id the sent_id attribute: 12859
-[Line                   16364]: Non-unique sent_id the sent_id attribute: 12860
-[Line                   16372]: Non-unique sent_id the sent_id attribute: 12861
-[Line                   16395]: Non-unique sent_id the sent_id attribute: 12862
-[Line                   16403]: Non-unique sent_id the sent_id attribute: 12864
-[Line                   16433]: Non-unique sent_id the sent_id attribute: 12865
-[Line                   16456]: Non-unique sent_id the sent_id attribute: 12866
-[Line                   16468]: Non-unique sent_id the sent_id attribute: 12868
-[Line                   16477]: Non-unique sent_id the sent_id attribute: 12869
-...suppressing further errors regarding Metadata
-[Line                   20748]: Empty value in column DEPREL
-[Line                   20748]: Invalid DEPREL value 
-[Line                   20748]: Unknown UD DEPREL: 
-[Line                   25212]: Empty value in column DEPREL
-[Line                   25212]: Invalid DEPREL value 
-[Line                   25212]: Unknown UD DEPREL: 
-[Line                   30118]: Empty value in column DEPREL
-[Line                   30118]: Invalid DEPREL value 
-[Line                   30118]: Unknown UD DEPREL: 
-[Line                   34582]: Empty value in column DEPREL
-[Line                   34582]: Invalid DEPREL value 
-[Line                   34582]: Unknown UD DEPREL: 
-*** FAILED *** with 1398 errors
-Format errors: 4
-Metadata errors: 1386
-Syntax errors: 8
+*** PASSED ***
 
 
 ******************
 
 python tools/validate.py --lang la_proiel UD-dev-branches/UD_Latin-PROIEL/la_proiel-ud-train.conllu
 
-[Line                   172298]: Non-unique sent_id the sent_id attribute: 12667
-[Line                   172305]: Non-unique sent_id the sent_id attribute: 12668
-[Line                   172313]: Non-unique sent_id the sent_id attribute: 12669
-[Line                   172324]: Non-unique sent_id the sent_id attribute: 12670
-[Line                   172336]: Non-unique sent_id the sent_id attribute: 12671
-[Line                   172344]: Non-unique sent_id the sent_id attribute: 12672
-[Line                   172352]: Non-unique sent_id the sent_id attribute: 12673
-[Line                   172360]: Non-unique sent_id the sent_id attribute: 12674
-[Line                   172368]: Non-unique sent_id the sent_id attribute: 12675
-[Line                   172376]: Non-unique sent_id the sent_id attribute: 12676
-[Line                   172386]: Non-unique sent_id the sent_id attribute: 12677
-[Line                   172396]: Non-unique sent_id the sent_id attribute: 12678
-[Line                   172404]: Non-unique sent_id the sent_id attribute: 12679
-[Line                   172413]: Non-unique sent_id the sent_id attribute: 12680
-[Line                   172427]: Non-unique sent_id the sent_id attribute: 12681
-[Line                   172435]: Non-unique sent_id the sent_id attribute: 12682
-[Line                   172443]: Non-unique sent_id the sent_id attribute: 12683
-[Line                   172451]: Non-unique sent_id the sent_id attribute: 12684
-[Line                   172459]: Non-unique sent_id the sent_id attribute: 12685
-...suppressing further errors regarding Metadata
-[Line                   231135]: Empty value in column DEPREL
-[Line                   231135]: Invalid DEPREL value 
-[Line                   231135]: Unknown UD DEPREL: 
-[Line                   253242]: Empty value in column DEPREL
-[Line                   253242]: Invalid DEPREL value 
-[Line                   253242]: Unknown UD DEPREL: 
-[Line                   255264]: Empty value in column DEPREL
-[Line                   255264]: Invalid DEPREL value 
-[Line                   255264]: Unknown UD DEPREL: 
-[Line                   265535]: Empty value in column DEPREL
-[Line                   265535]: Invalid DEPREL value 
-[Line                   265535]: Unknown UD DEPREL: 
-[Line                   265574]: Empty value in column DEPREL
-[Line                   265574]: Invalid DEPREL value 
-[Line                   265574]: Unknown UD DEPREL: 
-[Line                   265655]: Empty value in column DEPREL
-[Line                   265655]: Invalid DEPREL value 
-[Line                   265655]: Unknown UD DEPREL: 
-[Line                   265947]: Empty value in column DEPREL
-[Line                   265947]: Invalid DEPREL value 
-[Line                   265947]: Unknown UD DEPREL: 
-[Line                   266968]: Empty value in column DEPREL
-[Line                   266968]: Invalid DEPREL value 
-[Line                   266968]: Unknown UD DEPREL: 
-[Line                   267926]: Empty value in column DEPREL
-[Line                   267926]: Invalid DEPREL value 
-[Line                   267926]: Unknown UD DEPREL: 
-[Line                   269618]: Empty value in column DEPREL
-[Line                   269618]: Invalid DEPREL value 
-...suppressing further errors regarding Syntax
-[Line                   329329]: Empty value in column DEPREL
-[Line                   351436]: Empty value in column DEPREL
-[Line                   353458]: Empty value in column DEPREL
-[Line                   363729]: Empty value in column DEPREL
-[Line                   363768]: Empty value in column DEPREL
-[Line                   363849]: Empty value in column DEPREL
-[Line                   364141]: Empty value in column DEPREL
-[Line                   365162]: Empty value in column DEPREL
-[Line                   366120]: Empty value in column DEPREL
-...suppressing further errors regarding Format
-*** FAILED *** with 15354 errors
-Format errors: 20
-Metadata errors: 15294
-Syntax errors: 40
+*** PASSED ***
 
 
 ******************
