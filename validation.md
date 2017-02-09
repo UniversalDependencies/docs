@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-02-09T14:47:30Z">2017-02-09T14:47:30 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-02-09T15:09:00Z">2017-02-09T15:09:00 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -4343,11 +4343,11 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang pl /home/ginter/UD_PROJ
 <span class="doublewidespan" style="padding-left:3em">UD Portuguese</span>
 <span class="widespan">pt</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-09T12:30:32Z">2017-02-09T12:30:32 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-09T15:08:44Z">2017-02-09T15:08:44 zulu</time></span>
 </div>
 <div>
 <pre>
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang pt /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Portuguese/pt-ud-dev.conllu
+python tools/validate.py --lang pt UD-dev-branches/UD_Portuguese/pt-ud-dev.conllu
 
 [Line                   528]: Mismatch between the text attribute and the FORM field. Form is '(' but text is ', Leonardo Romanioli ...'
 [Line                   528]: Mismatch between the text attribute and the FORM field. Form is 'Leonardo' but text is ', Leonardo Romanioli Filho, ...'
@@ -4375,7 +4375,7 @@ Metadata errors: 102
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang pt /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Portuguese/pt-ud-train.conllu
+python tools/validate.py --lang pt UD-dev-branches/UD_Portuguese/pt-ud-train.conllu
 
 [Line                   140]: Mismatch between the text attribute and the FORM field. Form is 'da' but text is '» da noite, a meio cam...'
 [Line                   140]: Mismatch between the text attribute and the FORM field. Form is 'noite' but text is '» da noite, a meio caminh...'
@@ -4397,8 +4397,8 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang pt /home/ginter/UD_PROJ
 [Line                   140]: Mismatch between the text attribute and the FORM field. Form is ',' but text is ' da noite, a meio cam...'
 [Line                   140]: Mismatch between the text attribute and the FORM field. Form is 'Londres' but text is ' da noite, a meio caminho e...'
 ...suppressing further errors regarding Metadata
-*** FAILED *** with 3118 errors
-Metadata errors: 3118
+*** FAILED *** with 3004 errors
+Metadata errors: 3004
 
 
 ******************
