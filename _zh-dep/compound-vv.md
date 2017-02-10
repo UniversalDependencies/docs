@@ -5,7 +5,7 @@ shortdef: 'verb-verb compound'
 udver: '2'
 ---
 
-This relation is used for verb-verb compounds where the second verb covers what are known as as "resultative complements" and "phase complements" in Chinese linguistics. Here we will call them resultative and phase **compounds** to avoid confusion on the different definitions of "complement" between Chinese linguistics and general linguistics terminology. 
+This relation is used for verb-verb compounds where the second verb covers what are known as "resultative complements" and "phase complements" in Chinese linguistics. Here we will call them resultative and phase <b>compounds</b> to avoid confusion between the different definitions of "complement" between Chinese-specific constructions and general linguistics terminology. 
 
 A special feature of these compounds (as well as directional compounds; see [compound:dir]()) is that the affirmative potential 得 _de_ and negative potential 不 _bù_ can intervene between the two verbs (see examples (2) and (4)). However, unlike directional compounds, this is the only situation in which the verb-verb compound can be separated.
 
