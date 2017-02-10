@@ -44,7 +44,22 @@ The `clf` relation is used in noun phrases where a numeral or determiner modifyi
 
 ~~~
 
-Note, however, that classifiers have other functions. If a noun phrase does not have a regular noun, then the classifier is promoted to head of the noun phrase and any numeral or determiner would depend on the classifier, such as in (4) and (5). In Mandarin, a classifier may also be considered to function as an indefinite determiner when a noun phrase with a bare classifier accompanying a noun is in object position, as in (6).
+### Non-`clf` functions of Mandarin classifiers
+
+In other constructions involving classifiers, they are annotated with other syntax relations. First, in Mandarin a classifier may also be considered to function as an indefinite determiner when a noun phrase consisting of a bare classifier accompanying a noun is in post-verbal position, as in (4).
+
+~~~ conllu
+1	切	_	VERB	_	_	0	root	_	cut
+2	個	_	NOUN	_	_	3	det	_	CL:generic
+3	梨子	_	NOUN	_	_	1	obj	_	pear
+
+1	"cut	_	_	_	_	0	_	_	_
+2	a	_	_	_	_	0	_	_	_
+3	pear"	_	_	_	_	0	_	_	_
+
+~~~
+
+Second, if a noun phrase does not have a regular noun, then the classifier is promoted to head of the noun phrase and any numeral or determiner would depend on the classifier, such as in (5) and (6). 
 
 ~~~ conllu
 1	給	_	VERB	_	_	0	root	_	give
@@ -77,18 +92,7 @@ Note, however, that classifiers have other functions. If a noun phrase does not 
 
 ~~~
 
-~~~ conllu
-1	切	_	VERB	_	_	0	root	_	cut
-2	個	_	NOUN	_	_	3	det	_	CL:generic
-3	梨子	_	NOUN	_	_	1	obj	_	pear
-
-1	"cut	_	_	_	_	0	_	_	_
-2	a	_	_	_	_	0	_	_	_
-3	pear"	_	_	_	_	0	_	_	_
-
-~~~
-
-If there is a genitive 的 _de_ between the classifier and the noun, then the classifier is treated as if it were a noun and as an [nmod]() dependent of the noun.
+If there is a genitive 的 _de_ between the classifier and the noun, then the classifier is also treated as a head noun for the numeral, and it is labeled as an [nmod]() dependent of the noun.
 
 ~~~ conllu
 1	我	_	PRON	_	_	2	nsubj	_	1SG
