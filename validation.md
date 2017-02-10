@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-02-10T08:17:52Z">2017-02-10T08:17:52 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-02-10T08:20:01Z">2017-02-10T08:20:01 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -1351,10 +1351,87 @@ Syntax errors: 6400
 <span class="doublewidespan" style="padding-left:3em">UD English-LinES</span>
 <span class="widespan">en lines</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-09T20:32:14Z">2017-02-09T20:32:14 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-10T08:19:54Z">2017-02-10T08:19:54 zulu</time></span>
 </div>
 <div>
 <pre>
+python tools/validate.py --lang en_lines UD-dev-branches/UD_English-LinES/en-lines-dev-work.conllu
+
+[Line                   19]: Unknown UD DEPREL: nsubj:pass
+[Line                   38]: Unknown UD DEPREL: nsubj:pass
+[Line                   284]: Unknown UD DEPREL: nsubj:pass
+[Line                   300]: Unknown UD DEPREL: nsubj:pass
+[Line                   400]: Unknown UD DEPREL: nsubj:pass
+[Line                   407]: Unknown UD DEPREL: nsubj:pass
+[Line                   409]: Unknown UD DEPREL: csubj:pass
+[Line                   556]: Unknown UD DEPREL: nsubj:pass
+[Line                   605]: Unknown UD DEPREL: nsubj:pass
+[Line                   648]: Unknown UD DEPREL: nsubj:pass
+[Line                   677]: Unknown UD DEPREL: obl:agent
+[Line                   721]: Unknown UD DEPREL: obl:agent
+[Line                   815]: Unknown UD DEPREL: nsubj:pass
+[Line                   1023]: Unknown UD DEPREL: nsubj:pass
+[Line                   1341]: Unknown UD DEPREL: nsubj:pass
+[Line                   1360]: Unknown UD DEPREL: nsubj:pass
+[Line                   1391]: Unknown UD DEPREL: nsubj:pass
+[Line                   1576]: Unknown UD DEPREL: nsubj:pass
+[Line                   1605]: Unknown UD DEPREL: nsubj:pass
+...suppressing further errors regarding Syntax
+*** FAILED *** with 143 errors
+Syntax errors: 143
+
+
+******************
+
+python tools/validate.py --lang en_lines UD-dev-branches/UD_English-LinES/en-lines-train-work.conllu
+
+[Line                   59]: Mismatch between the text attribute and the FORM field. Form is '.' but text is 'x....'
+[Line                   59]: Extra characters at the end of the text attribute, not accounted for in the FORM fields: 'x.'
+[Line                   85]: Unknown UD DEPREL: nsubj:pass
+[Line                   205]: Mismatch between the text attribute and the FORM field. Form is '.' but text is 'x....'
+[Line                   205]: Extra characters at the end of the text attribute, not accounted for in the FORM fields: 'x.'
+[Line                   393]: Unknown UD DEPREL: obl:agent
+[Line                   471]: Unknown UD DEPREL: nsubj:pass
+[Line                   679]: Unknown UD DEPREL: obl:agent
+[Line                   876]: Unknown UD DEPREL: nsubj:pass
+[Line                   985]: Unknown UD DEPREL: nsubj:pass
+[Line                   1033]: Unknown UD DEPREL: nsubj:pass
+[Line                   1045]: Unknown UD DEPREL: obl:agent
+[Line                   1070]: Unknown UD DEPREL: nsubj:pass
+[Line                   1077]: Unknown UD DEPREL: nsubj:pass
+[Line                   1090]: Unknown UD DEPREL: nsubj:pass
+[Line                   1158]: Unknown UD DEPREL: nsubj:pass
+[Line                   1168]: Unknown UD DEPREL: nsubj:pass
+[Line                   1691]: Unknown UD DEPREL: nsubj:pass
+[Line                   1797]: Unknown UD DEPREL: nsubj:pass
+[Line                   1838]: Unknown UD DEPREL: nsubj:pass
+[Line                   1869]: Unknown UD DEPREL: nsubj:pass
+[Line                   1994]: Unknown UD DEPREL: nsubj:pass
+[Line                   2066]: Unknown UD DEPREL: nsubj:pass
+...suppressing further errors regarding Syntax
+[Line                   3457]: Mismatch between the text attribute and the FORM field. Form is 'and' but text is 'x and will not be inter...'
+[Line                   3457]: Mismatch between the text attribute and the FORM field. Form is 'will' but text is 'x and will not be interp...'
+[Line                   3457]: Mismatch between the text attribute and the FORM field. Form is 'not' but text is 'x and will not be inter...'
+[Line                   3457]: Mismatch between the text attribute and the FORM field. Form is 'be' but text is 'x and will not be inte...'
+[Line                   3457]: Mismatch between the text attribute and the FORM field. Form is 'interpreted' but text is 'x and will not be interpreted a...'
+[Line                   3457]: Mismatch between the text attribute and the FORM field. Form is 'as' but text is 'x and will not be inte...'
+[Line                   3457]: Mismatch between the text attribute and the FORM field. Form is 'themselves' but text is 'x and will not be interpreted ...'
+[Line                   3457]: Mismatch between the text attribute and the FORM field. Form is 'if' but text is 'x and will not be inte...'
+[Line                   3457]: Mismatch between the text attribute and the FORM field. Form is 'used' but text is 'x and will not be interp...'
+[Line                   3457]: Mismatch between the text attribute and the FORM field. Form is 'in' but text is 'x and will not be inte...'
+[Line                   3457]: Mismatch between the text attribute and the FORM field. Form is 'the' but text is 'x and will not be inter...'
+[Line                   3457]: Mismatch between the text attribute and the FORM field. Form is 'data' but text is 'x and will not be interp...'
+[Line                   3457]: Mismatch between the text attribute and the FORM field. Form is 'portion' but text is 'x and will not be interpret...'
+[Line                   3457]: Mismatch between the text attribute and the FORM field. Form is 'of' but text is 'x and will not be inte...'
+[Line                   3457]: Mismatch between the text attribute and the FORM field. Form is 'an' but text is 'x and will not be inte...'
+...suppressing further errors regarding Metadata
+*** FAILED *** with 484 errors
+Metadata errors: 65
+Syntax errors: 419
+
+
+******************
+
 python tools/validate.py --lang en_lines UD-dev-branches/UD_English-LinES/en_lines-ud-dev.conllu
 
 [Line                   2]: Unknown UD DEPREL: name
