@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-02-10T19:27:22Z">2017-02-10T19:27:22 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-02-10T19:27:40Z">2017-02-10T19:27:40 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -696,11 +696,11 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang cop /home/ginter/UD_PRO
 <span class="doublewidespan" style="padding-left:3em">UD Croatian</span>
 <span class="widespan">hr</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-10T17:50:49Z">2017-02-10T17:50:49 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-10T19:27:28Z">2017-02-10T19:27:28 zulu</time></span>
 </div>
 <div>
 <pre>
-python tools/validate.py --lang hr UD-dev-branches/UD_Croatian/hr-ud-dev.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang hr /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Croatian/hr-ud-dev.conllu
 
 [Line                   1829]: Unknown UD DEPREL: remnant
 [Line                   2246]: Unknown UD DEPREL: remnant
@@ -728,7 +728,7 @@ Syntax errors: 68
 
 ******************
 
-python tools/validate.py --lang hr UD-dev-branches/UD_Croatian/hr-ud-train.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang hr /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Croatian/hr-ud-train.conllu
 
 [Line                   269]: Unknown UD DEPREL: remnant
 [Line                   421]: Unknown UD DEPREL: remnant
