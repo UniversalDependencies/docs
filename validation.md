@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-02-10T19:27:40Z">2017-02-10T19:27:40 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-02-10T19:30:04Z">2017-02-10T19:30:04 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -695,63 +695,21 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang cop /home/ginter/UD_PRO
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD Croatian</span>
 <span class="widespan">hr</span>
-<span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-10T19:27:28Z">2017-02-10T19:27:28 zulu</time></span>
+<span class="validationpass">PASS</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-10T19:29:52Z">2017-02-10T19:29:52 zulu</time></span>
 </div>
 <div>
 <pre>
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang hr /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Croatian/hr-ud-dev.conllu
+python tools/validate.py --lang hr UD-dev-branches/UD_Croatian/hr-ud-dev.conllu
 
-[Line                   1829]: Unknown UD DEPREL: remnant
-[Line                   2246]: Unknown UD DEPREL: remnant
-[Line                   2854]: Unknown UD DEPREL: remnant
-[Line                   5944]: Unknown UD DEPREL: remnant
-[Line                   5947]: Unknown UD DEPREL: remnant
-[Line                   5952]: Unknown UD DEPREL: remnant
-[Line                   5954]: Unknown UD DEPREL: remnant
-[Line                   6011]: Unknown UD DEPREL: remnant
-[Line                   6014]: Unknown UD DEPREL: remnant
-[Line                   6017]: Unknown UD DEPREL: remnant
-[Line                   6019]: Unknown UD DEPREL: remnant
-[Line                   6070]: Unknown UD DEPREL: remnant
-[Line                   6072]: Unknown UD DEPREL: remnant
-[Line                   6446]: Unknown UD DEPREL: remnant
-[Line                   6448]: Unknown UD DEPREL: remnant
-[Line                   6608]: Unknown UD DEPREL: remnant
-[Line                   6613]: Unknown UD DEPREL: remnant
-[Line                   6657]: Unknown UD DEPREL: remnant
-[Line                   6660]: Unknown UD DEPREL: remnant
-...suppressing further errors regarding Syntax
-*** FAILED *** with 68 errors
-Syntax errors: 68
+*** PASSED ***
 
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang hr /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Croatian/hr-ud-train.conllu
+python tools/validate.py --lang hr UD-dev-branches/UD_Croatian/hr-ud-train.conllu
 
-[Line                   269]: Unknown UD DEPREL: remnant
-[Line                   421]: Unknown UD DEPREL: remnant
-[Line                   1129]: Unknown UD DEPREL: remnant
-[Line                   1366]: Unknown UD DEPREL: remnant
-[Line                   2243]: Unknown UD DEPREL: remnant
-[Line                   3219]: Unknown UD DEPREL: remnant
-[Line                   4127]: Unknown UD DEPREL: remnant
-[Line                   4128]: Unknown UD DEPREL: remnant
-[Line                   4153]: Unknown UD DEPREL: remnant
-[Line                   4978]: Unknown UD DEPREL: remnant
-[Line                   5007]: Unknown UD DEPREL: remnant
-[Line                   6899]: Unknown UD DEPREL: remnant
-[Line                   9139]: Unknown UD DEPREL: remnant
-[Line                   12099]: Unknown UD DEPREL: remnant
-[Line                   12282]: Unknown UD DEPREL: remnant
-[Line                   12352]: Unknown UD DEPREL: remnant
-[Line                   13033]: Unknown UD DEPREL: remnant
-[Line                   13225]: Unknown UD DEPREL: remnant
-[Line                   13773]: Unknown UD DEPREL: remnant
-...suppressing further errors regarding Syntax
-*** FAILED *** with 314 errors
-Syntax errors: 314
+*** PASSED ***
 
 
 ******************
