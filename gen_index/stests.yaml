@@ -75,9 +75,9 @@
   link: http://universaldependencies.org/docs/u/dep/cop.html
 
 -
-  name: PRON is mark
+  name: PRON or DET is mark
   required_empty: true
-  expr: PRON <mark _
+  expr: (PRON|DET) <mark _
   desc: Pronouns must not be attached using the mark relation. Relative pronouns must not be confused with subordinating conjunctions, even if the word is ambiguous.
   pos_ex: "This is a fact that we cannot ignore . You know that we cannot ignore it .\ndobj(ignore-8, that-5)\nmark(ignore-15, that-12)"
   neg_ex: "This is a fact that we cannot ignore .\nmark(ignore-8, that-5)"
