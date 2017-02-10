@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-02-10T08:39:39Z">2017-02-10T08:39:39 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-02-10T08:41:35Z">2017-02-10T08:41:35 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -1351,11 +1351,11 @@ Syntax errors: 6400
 <span class="doublewidespan" style="padding-left:3em">UD English-LinES</span>
 <span class="widespan">en lines</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-10T08:37:54Z">2017-02-10T08:37:54 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-10T08:41:32Z">2017-02-10T08:41:32 zulu</time></span>
 </div>
 <div>
 <pre>
-python tools/validate.py --lang en_lines UD-dev-branches/UD_English-LinES/en_lines-ud-dev.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang en_lines /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_English-LinES/en_lines-ud-dev.conllu
 
 [Line                   19]: Unknown UD DEPREL: nsubj:pass
 [Line                   38]: Unknown UD DEPREL: nsubj:pass
@@ -1383,7 +1383,7 @@ Syntax errors: 143
 
 ******************
 
-python tools/validate.py --lang en_lines UD-dev-branches/UD_English-LinES/en_lines-ud-train.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang en_lines /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_English-LinES/en_lines-ud-train.conllu
 
 [Line                   59]: Mismatch between the text attribute and the FORM field. Form is '.' but text is 'x....'
 [Line                   59]: Extra characters at the end of the text attribute, not accounted for in the FORM fields: 'x.'
