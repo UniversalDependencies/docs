@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-02-10T08:20:01Z">2017-02-10T08:20:01 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-02-10T08:22:10Z">2017-02-10T08:22:10 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -1351,38 +1351,10 @@ Syntax errors: 6400
 <span class="doublewidespan" style="padding-left:3em">UD English-LinES</span>
 <span class="widespan">en lines</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-10T08:19:54Z">2017-02-10T08:19:54 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-10T08:22:05Z">2017-02-10T08:22:05 zulu</time></span>
 </div>
 <div>
 <pre>
-python tools/validate.py --lang en_lines UD-dev-branches/UD_English-LinES/en-lines-dev-work.conllu
-
-[Line                   19]: Unknown UD DEPREL: nsubj:pass
-[Line                   38]: Unknown UD DEPREL: nsubj:pass
-[Line                   284]: Unknown UD DEPREL: nsubj:pass
-[Line                   300]: Unknown UD DEPREL: nsubj:pass
-[Line                   400]: Unknown UD DEPREL: nsubj:pass
-[Line                   407]: Unknown UD DEPREL: nsubj:pass
-[Line                   409]: Unknown UD DEPREL: csubj:pass
-[Line                   556]: Unknown UD DEPREL: nsubj:pass
-[Line                   605]: Unknown UD DEPREL: nsubj:pass
-[Line                   648]: Unknown UD DEPREL: nsubj:pass
-[Line                   677]: Unknown UD DEPREL: obl:agent
-[Line                   721]: Unknown UD DEPREL: obl:agent
-[Line                   815]: Unknown UD DEPREL: nsubj:pass
-[Line                   1023]: Unknown UD DEPREL: nsubj:pass
-[Line                   1341]: Unknown UD DEPREL: nsubj:pass
-[Line                   1360]: Unknown UD DEPREL: nsubj:pass
-[Line                   1391]: Unknown UD DEPREL: nsubj:pass
-[Line                   1576]: Unknown UD DEPREL: nsubj:pass
-[Line                   1605]: Unknown UD DEPREL: nsubj:pass
-...suppressing further errors regarding Syntax
-*** FAILED *** with 143 errors
-Syntax errors: 143
-
-
-******************
-
 python tools/validate.py --lang en_lines UD-dev-branches/UD_English-LinES/en-lines-train-work.conllu
 
 [Line                   59]: Mismatch between the text attribute and the FORM field. Form is '.' but text is 'x....'
