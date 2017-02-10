@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-02-10T08:41:35Z">2017-02-10T08:41:35 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-02-10T10:33:34Z">2017-02-10T10:33:34 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -352,6 +352,17 @@ python tools/validate.py --lang ar UD-dev-branches/UD_Arabic/ar-ud-train.conllu
 <span class="widespan">ar ldc</span>
 <span class="validationfail">EMPTY</span>
 <span class="doublewidespan"> <time class="timeago" datetime="2017-02-09T12:21:34Z">2017-02-09T12:21:34 zulu</time></span>
+</div>
+<div>
+<pre>
+No data
+</pre>
+</div>
+<div>
+<span class="doublewidespan" style="padding-left:3em">UD Arabic-NYUAD</span>
+<span class="widespan">ar nyuad</span>
+<span class="validationfail">EMPTY</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-10T10:33:26Z">2017-02-10T10:33:26 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -2164,6 +2175,17 @@ python tools/validate.py --lang fr_partut UD-dev-branches/UD_French-ParTUT/fr_pa
 ******************
 
 
+</pre>
+</div>
+<div>
+<span class="doublewidespan" style="padding-left:3em">UD French-Sequoia</span>
+<span class="widespan">fr sequoia</span>
+<span class="validationfail">EMPTY</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-10T10:33:34Z">2017-02-10T10:33:34 zulu</time></span>
+</div>
+<div>
+<pre>
+No data
 </pre>
 </div>
 <div>
