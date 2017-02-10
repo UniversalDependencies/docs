@@ -5,7 +5,7 @@ shortdef: 'numeric modifier'
 udver: '2'
 ---
 
-A numeric modifier is a modifier that is a numeral word or phrase preceding the noun or noun phrase it modifies. Ordinal numbers such as 第一 ‘first’ 第二 ‘second’, however, should be treated as adjectives ([amod]()) in terms of their dependency relation to the noun, even though they are tagged as [NUM](). 
+A numeric modifier is a modifier that is a numeral word or phrase preceding the noun or noun phrase it modifies. Ordinal numbers such as 第一 / _dìyī_ "first" and 第二 / _dìèr_ "second", however, should be treated as adjectives ([amod]()) in terms of their dependency relation to the noun, even though they are tagged as [NUM](). 
 
 Numeric modifiers are always attached to the head of the noun phrase.
 
