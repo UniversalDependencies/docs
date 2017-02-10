@@ -7,11 +7,18 @@ udver: '2'
 
 The `compound:vo` relation is used for verb-object compounds where the combination is semantically one unit but syntactically separate. These are known as 離合詞 "separable words" in Chinese linguistics.
 
-These compounds run the range of (i) light verb constructions where the noun carries more semantic weight than the verb, such as 打-電話 / _dǎ-diànhuà_ hit-telephone "make a phone call" (which may be labeled `compound:lvc` in other languages), (ii) both the verb and noun contributing relatively equal semantic weight, such as 讀-書 / _dú-shū_ read-book "study", as well as (iii) situations where the verb carries the semantic weight over a redundant or relatively empty noun, such as 睡-覺 / _shuì-jiào_ sleep-sense "sleep" where the noun 覺 no longer has a modern lexical usage and in fact the verb 睡 can be -- and is often -- used on its own to convey the same meaning.
+These compounds run the range of:
+
+- (i) light verb constructions where the noun carries more semantic weight than the verb
+  - e.g., 打␣電話 / _dǎ-diànhuà_ hit-telephone "make a phone call" (which might be equivalent to `compound:lvc` in other languages) 
+- (ii) both the verb and noun contributing relatively equal semantic weight
+  - e.g., 讀␣書 / _dú-shū_ read-book "study"
+- (iii) situations where the verb carries the semantic weight over a redundant or relatively empty noun
+  - e.g., 睡␣覺 / _shuì-jiào_ sleep-sense "sleep", where the noun 覺 no longer has a modern lexical usage and in fact the verb 睡 can be and is often used on its own to convey the same meaning
 
 All of the above cases have the same syntactic distribution, where the object behaves like a direct object of the verb. Therefore, verb-object compounds never take another object as direct object, and the object can be separated from the verb as in regular non-compound situations. 
 
-For example, aspect markers as well as adverbials of duration and frequency may come in between:
+For example, aspect markers as well as adverbials of duration and frequency, when present, come in between:
 
 ~~~ conllu
 # visual-style 1 5 compound:vo	color:blue
@@ -30,7 +37,7 @@ For example, aspect markers as well as adverbials of duration and frequency may 
 
 ~~~
 
-When undergoing verb-verb compounding (see [compound:vv]()), it is the verb in the verb-object compound that undergoes the compounding, rather than the entire verb-object unit -- which results in a [verb + verb + object] order instead of a [verb + object + verb] order:
+When undergoing verb-verb compounding (see [compound:vv]()), it is the verb in the verb-object compound that undergoes the compounding, rather than the entire verb-object unit, resulting in a VVO order instead of a VOV order:
 
 ~~~ conllu
 # visual-style 2 4 compound:vo	color:blue
