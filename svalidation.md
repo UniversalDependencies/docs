@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- Syntactic validation'
 udver:  '2'
 ---
 
-Regenerated <time class="timeago" datetime="2017-02-10T10:33:31Z">2017-02-10T10:33:31 zulu</time>
+Regenerated <time class="timeago" datetime="2017-02-10T10:55:39Z">2017-02-10T10:55:39 zulu</time>
 
 # Aux chain
 
@@ -7224,7 +7224,7 @@ Search expression: `_ >obj|>ccomp _ >obj|>ccomp _`
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=PUNCT+%3Eobj%7C%3Eccomp+_+%3Eobj%7C%3Eccomp+_&db=UD_Catalan-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=SCONJ+%3Eobj%7C%3Eccomp+_+%3Eobj%7C%3Eccomp+_&db=UD_Catalan-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=SYM+%3Eobj%7C%3Eccomp+_+%3Eobj%7C%3Eccomp+_&db=UD_Catalan-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=VERB+%3Eobj%7C%3Eccomp+_+%3Eobj%7C%3Eccomp+_&db=UD_Catalan-dev">4983</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=VERB+%3Eobj%7C%3Eccomp+_+%3Eobj%7C%3Eccomp+_&db=UD_Catalan-dev">4984</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=X+%3Eobj%7C%3Eccomp+_+%3Eobj%7C%3Eccomp+_&db=UD_Catalan-dev">&nbsp;</a></td>
 </tr>
 <tr><td>UD_Chinese</td>
@@ -8022,7 +8022,7 @@ Search expression: `_ >obj|>ccomp _ >obj|>ccomp _`
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_Catalan</span>
-<span class="widespan">5151 hits</span>
+<span class="widespan">5152 hits</span>
 </div>
 <div>
 <a href="http://bionlp-www.utu.fi/dep_search/query?search=_+%3Eobj%7C%3Eccomp+_+%3Eobj%7C%3Eccomp+_&db=UD_Catalan-dev">Go to search</a><p/>
