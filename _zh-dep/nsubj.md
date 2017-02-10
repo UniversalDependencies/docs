@@ -2,7 +2,21 @@
 layout: relation
 title: 'nsubj'
 shortdef: 'nominal subject'
+udver: '2'
 ---
 
-This document is a placeholder for the language-specific documentation
-for `nsubj`.
+The `nsubj` relation links a subject to its predicate, and this subject must be nominal. (If the syntactic subject is a clause, the relation [csubj]() is used.)
+
+~~~ conllu
+# visual-style 3 1 nsubj	color:blue
+1	我	_	PRON	_	_	3	nsubj	_	1SG
+2	馬上	_	ADV	_	_	3	advmod	_	immediately
+3	開車	_	VERB	_	_	0	root	_	drive
+
+1	"I	_	_	_	_	0	_	_	_
+2	will	_	_	_	_	0	_	_	_
+3	drive	_	_	_	_	0	_	_	_
+4	at	_	_	_	_	0	_	_	_
+5	once."	_	_	_	_	0	_	_	_
+
+~~~
