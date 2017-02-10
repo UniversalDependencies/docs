@@ -33,7 +33,7 @@ For relative clauses, nominalized clauses, and adjectives formed with 的 _de_, 
 4	就	_	ADV	_	_	7	advmod	_	then
 5	將	_	ADP	_	_	6	case	_	BA
 6	事情	_	NOUN	_	_	7	obl	_	affair
-7	鬧	_	VERB	_	_	0	root	make-noise
+7	鬧	_	VERB	_	_	0	root	_	make-noise
 8	大	_	ADJ	_	_	7	compound:vv	_	big
 
 1	"If	_	_	_	_	0	_	_	_
@@ -81,7 +81,7 @@ For relative clauses, nominalized clauses, and adjectives formed with 的 _de_, 
 5	，	_	PUNCT	_	_	2	punct	_	_
 6	希望	_	VERB	_	_	0	root	_	hope
 7	你	_	PRON	_	_	8	nsubj	_	2SG
-8	開開心心	_	ADJ	_	_	6	ccomp	happy
+8	開開心心	_	ADJ	_	_	6	ccomp	_	happy
 
 1	"After	_	_	_	_	0	_	_	_
 2	she	_	_	_	_	0	_	_	_
