@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- Syntactic validation'
 udver:  '2'
 ---
 
-Regenerated <time class="timeago" datetime="2017-02-10T04:11:41Z">2017-02-10T04:11:41 zulu</time>
+Regenerated <time class="timeago" datetime="2017-02-10T04:36:03Z">2017-02-10T04:36:03 zulu</time>
 
 # Aux chain
 
@@ -3762,7 +3762,7 @@ Hits table not produced since the query does not start with the simple token spe
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_Norwegian-Nynorsk</span>
-<span class="widespan">1072 hits</span>
+<span class="widespan">442 hits</span>
 </div>
 <div>
 <a href="http://bionlp-www.utu.fi/dep_search/query?search=%28%21DET%26%21PRON%29+%3Cdet+_&db=UD_Norwegian-Nynorsk-dev">Go to search</a><p/>
@@ -15284,7 +15284,7 @@ Search expression: `!NUM <nummod _`
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=ADV+%3Cnummod+_&db=UD_Norwegian-Nynorsk-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=CCONJ+%3Cnummod+_&db=UD_Norwegian-Nynorsk-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=DET+%3Cnummod+_&db=UD_Norwegian-Nynorsk-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=NOUN+%3Cnummod+_&db=UD_Norwegian-Nynorsk-dev">152</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=NOUN+%3Cnummod+_&db=UD_Norwegian-Nynorsk-dev">151</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=NUM+%3Cnummod+_&db=UD_Norwegian-Nynorsk-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=PRON+%3Cnummod+_&db=UD_Norwegian-Nynorsk-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=PROPN+%3Cnummod+_&db=UD_Norwegian-Nynorsk-dev">&nbsp;</a></td>
@@ -15650,7 +15650,7 @@ Search expression: `!NUM <nummod _`
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_Norwegian-Nynorsk</span>
-<span class="widespan">156 hits</span>
+<span class="widespan">155 hits</span>
 </div>
 <div>
 <a href="http://bionlp-www.utu.fi/dep_search/query?search=%21NUM+%3Cnummod+_&db=UD_Norwegian-Nynorsk-dev">Go to search</a><p/>
