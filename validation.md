@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-02-10T18:47:14Z">2017-02-10T18:47:14 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-02-10T19:02:26Z">2017-02-10T19:02:26 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -4235,11 +4235,11 @@ Syntax errors: 20917
 <span class="doublewidespan" style="padding-left:3em">UD Russian</span>
 <span class="widespan">ru</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-10T11:31:36Z">2017-02-10T11:31:36 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-10T19:02:20Z">2017-02-10T19:02:20 zulu</time></span>
 </div>
 <div>
 <pre>
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang ru /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Russian/ru-ud-dev.conllu
+python tools/validate.py --lang ru UD-dev-branches/UD_Russian/ru-ud-dev.conllu
 
 [Line                   10]: Unknown UPOS tag: CONJ
 [Line                   13]: Missing the sent_id attribute.
@@ -4309,7 +4309,7 @@ Syntax errors: 645
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang ru /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Russian/ru-ud-train.conllu
+python tools/validate.py --lang ru UD-dev-branches/UD_Russian/ru-ud-train.conllu
 
 [Line                   7]: Unknown UPOS tag: CONJ
 [Line                   13]: Unknown UD DEPREL: dobj
