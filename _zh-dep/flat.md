@@ -22,7 +22,7 @@ The `flat` relation is used to link names without internal structure (1, unlikel
 # visual-style 7 8 flat	color:blue
 # visual-style 7 9 flat	color:blue
 1	他	_	PRON	_	_	4	nsubj	_	3SG.M
-2	用	_	VERB	_	_	3	case	_	in
+2	用	_	ADP	_	_	3	case	_	in
 3	克林貢語	_	NOUN	_	_	4	obl	_	Klingon
 4	説	_	VERB	_	_	0	root	_	say
 5	：	_	PUNCT	_	_	7	punct	_	_
