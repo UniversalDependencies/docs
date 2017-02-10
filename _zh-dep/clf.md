@@ -1,7 +1,7 @@
 ---
 layout: relation
-title: 'acl'
-shortdef: 'clausal modifier of noun'
+title: 'clf'
+shortdef: 'classifier'
 udver: '2'
 ---
 
