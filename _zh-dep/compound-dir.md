@@ -8,21 +8,21 @@ udver: '2'
 A "directional verb compound" (known as "directional complement" in Chinese linguistics) consists of a series of at least two verbs where the second verb is one of the directional or deitic motion verbs (or a combination of the two) in the below exhaustive list. Some linguists argue that these verbs have grammaticalized into adposition-like particles in this [verb + directional verb] construction, with their semantics listed in parentheses below. 
 
 - (A) Eight verbs expressing directional motion
-  - 上 _shàng_ "go up" (up)
-  - 下 _xià_ "go down" (down)
-  - 出 _chū_ "exit" (out)
-  - 進 _jìn_ "enter" (in(to))
-  - 回 _huí_ "return" (back)
-  - 過 _guò_ "cross" (over)
-  - 開 _kāi_ "open, separate, come apart/away" (away)
-  - 起 _qǐ_ "rise, arise" (up)
+  - 上 / _shàng_ "go up" (up)
+  - 下 / _xià_ "go down" (down)
+  - 出 / _chū_ "exit" (out)
+  - 進 / _jìn_ "enter" (in(to))
+  - 回 / _huí_ "return" (back)
+  - 過 / _guò_ "cross" (over)
+  - 開 / _kāi_ "open, separate, come apart/away" (away)
+  - 起 / _qǐ_ "rise, arise" (up)
 
 - (B) Two verbs expressing deictic motion
   - 來 / _lái_ "come" (towards deitic center)
   - 去 / _qù_ "go" (away from deitic center)
 
 - Some combinations of the above two, only in AB order 
-  - e.g., 回來 _huílái_ "come back" (back towards deitic center), 上來 _shànglái_ "come up" (up towards deitic center), 下去 _xiàqù_ "go down" (down from deitic center), 進去 _jìnqù_ "go in" (in from deitic center), etc.
+  - e.g., 回來 / _huílái_ "come back" (back towards deitic center), 上來 / _shànglái_ "come up" (up towards deitic center), 下去 / _xiàqù_ "go down" (down from deitic center), 進去 / _jìnqù_ "go in" (in from deitic center), etc.
   - (Note: each combination is considered a single-token verb)
 
 ~~~ conllu
