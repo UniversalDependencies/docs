@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-02-10T13:47:44Z">2017-02-10T13:47:44 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-02-10T15:33:40Z">2017-02-10T15:33:40 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -4828,31 +4828,19 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang sv /home/ginter/UD_PROJ
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD Swedish-LinES</span>
 <span class="widespan">sv lines</span>
-<span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-10T11:34:01Z">2017-02-10T11:34:01 zulu</time></span>
+<span class="validationpass">PASS</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-10T15:33:37Z">2017-02-10T15:33:37 zulu</time></span>
 </div>
 <div>
 <pre>
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang sv_lines /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Swedish-LinES/sv_lines-ud-dev.conllu
+python tools/validate.py --lang sv_lines UD-dev-branches/UD_Swedish-LinES/sv_lines-ud-dev.conllu
 
-[Line                   5620]: Mismatch between the text attribute and the FORM field. Form is 'mängd' but text is '-mängd reliker....'
-[Line                   5620]: Mismatch between the text attribute and the FORM field. Form is 'reliker' but text is '-mängd reliker....'
-[Line                   5620]: Mismatch between the text attribute and the FORM field. Form is '.' but text is '-mängd reliker....'
-[Line                   5620]: Extra characters at the end of the text attribute, not accounted for in the FORM fields: '-mängd reliker.'
-[Line                   7731]: Mismatch between the text attribute and the FORM field. Form is 'där' but text is '-där brottslingarna som...'
-[Line                   7731]: Mismatch between the text attribute and the FORM field. Form is 'brottslingarna' but text is '-där brottslingarna som fascinerad...'
-[Line                   7731]: Mismatch between the text attribute and the FORM field. Form is 'som' but text is '-där brottslingarna som...'
-[Line                   7731]: Mismatch between the text attribute and the FORM field. Form is 'fascinerade' but text is '-där brottslingarna som fascine...'
-[Line                   7731]: Mismatch between the text attribute and the FORM field. Form is 'honom' but text is '-där brottslingarna som f...'
-[Line                   7731]: Mismatch between the text attribute and the FORM field. Form is '.' but text is '-där brottslingarna s...'
-[Line                   7731]: Extra characters at the end of the text attribute, not accounted for in the FORM fields: '-där brottslingarna som fascinerade honom.'
-*** FAILED *** with 11 errors
-Metadata errors: 11
+*** PASSED ***
 
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang sv_lines /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Swedish-LinES/sv_lines-ud-train.conllu
+python tools/validate.py --lang sv_lines UD-dev-branches/UD_Swedish-LinES/sv_lines-ud-train.conllu
 
 *** PASSED ***
 
