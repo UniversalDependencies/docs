@@ -33,6 +33,8 @@ Common sentence-final particles in Mandarin include: 吧 _ba_, 的 _de_, 啦 _la
 
 ~~~
 
+More than one sentence-final particles may appear at the end of the same clause or sentence.
+
 ~~~ conllu
 # visual-style 2 4 discourse:sp	color:blue
 # visual-style 2 5 discourse:sp	color:blue
@@ -50,4 +52,4 @@ Common sentence-final particles in Mandarin include: 吧 _ba_, 的 _de_, 啦 _la
 
 ~~~
 
-To differentiate between 了-1 (aspect marker) and 了-2 (sentence-final particle), one should define as sentence-final a 了 which is placed at the end of a clause or a sentence (though it may be followed by additional sentence-final particles), unless a clear context makes it possible to determine that it is the aspect marker. Before an object, adverbial of duration or frequency, and other non-clause/sentence-final elements, 了 will always be annotated as an aspect marker with `aux`.
+To differentiate between 了-1 (perfective aspect marker) and 了-2 (sentence-final particle), one should define as sentence-final a 了 which is placed at the end of a clause or a sentence (though it may be followed by additional sentence-final particles), unless a clear context makes it possible to determine that it is the aspect marker. Before an object, adverbial of duration or frequency, and other non-clause/sentence-final elements, 了 will always be annotated as an aspect marker with `aux`.
