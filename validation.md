@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-02-10T19:30:04Z">2017-02-10T19:30:04 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-02-10T20:38:00Z">2017-02-10T20:38:00 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -695,21 +695,63 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang cop /home/ginter/UD_PRO
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD Croatian</span>
 <span class="widespan">hr</span>
-<span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-10T19:29:52Z">2017-02-10T19:29:52 zulu</time></span>
+<span class="validationfail">FAIL</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-10T20:37:48Z">2017-02-10T20:37:48 zulu</time></span>
 </div>
 <div>
 <pre>
 python tools/validate.py --lang hr UD-dev-branches/UD_Croatian/hr-ud-dev.conllu
 
-*** PASSED ***
+[Line                   619]: Unknown attribute-value pair Number[psor]=Plur
+[Line                   771]: Unknown attribute-value pair Number[psor]=Sing
+[Line                   1110]: Unknown attribute-value pair Number[psor]=Plur
+[Line                   1171]: Unknown attribute-value pair Number[psor]=Plur
+[Line                   1904]: Unknown attribute-value pair Number[psor]=Plur
+[Line                   2733]: Unknown attribute-value pair Number[psor]=Sing
+[Line                   3065]: Unknown attribute-value pair Number[psor]=Sing
+[Line                   3280]: Unknown attribute-value pair Number[psor]=Sing
+[Line                   3708]: Unknown attribute-value pair Number[psor]=Plur
+[Line                   3774]: Unknown attribute-value pair Number[psor]=Sing
+[Line                   4310]: Unknown attribute-value pair Number[psor]=Plur
+[Line                   7156]: Unknown attribute-value pair Number[psor]=Plur
+[Line                   8000]: Unknown attribute-value pair Number[psor]=Plur
+[Line                   8549]: Unknown attribute-value pair Number[psor]=Plur
+[Line                   9539]: Unknown attribute-value pair Number[psor]=Plur
+[Line                   9595]: Unknown attribute-value pair Number[psor]=Plur
+[Line                   9773]: Unknown attribute-value pair Number[psor]=Sing
+[Line                   10763]: Unknown attribute-value pair Number[psor]=Plur
+[Line                   10898]: Unknown attribute-value pair Number[psor]=Plur
+...suppressing further errors regarding Morpho
+*** FAILED *** with 35 errors
+Morpho errors: 35
 
 
 ******************
 
 python tools/validate.py --lang hr UD-dev-branches/UD_Croatian/hr-ud-train.conllu
 
-*** PASSED ***
+[Line                   44]: Unknown attribute-value pair Number[psor]=Plur
+[Line                   157]: Unknown attribute-value pair Number[psor]=Sing
+[Line                   833]: Unknown attribute-value pair Number[psor]=Sing
+[Line                   1068]: Unknown attribute-value pair Number[psor]=Plur
+[Line                   1594]: Unknown attribute-value pair Number[psor]=Sing
+[Line                   1643]: Unknown attribute-value pair Number[psor]=Sing
+[Line                   1808]: Unknown attribute-value pair Number[psor]=Plur
+[Line                   2001]: Unknown attribute-value pair Number[psor]=Sing
+[Line                   2038]: Unknown attribute-value pair Number[psor]=Sing
+[Line                   2208]: Unknown attribute-value pair Number[psor]=Sing
+[Line                   2325]: Unknown attribute-value pair Number[psor]=Sing
+[Line                   2868]: Unknown attribute-value pair Number[psor]=Sing
+[Line                   3176]: Unknown attribute-value pair Number[psor]=Plur
+[Line                   3218]: Unknown attribute-value pair Number[psor]=Plur
+[Line                   3320]: Unknown attribute-value pair Number[psor]=Plur
+[Line                   3448]: Unknown attribute-value pair Number[psor]=Plur
+[Line                   3839]: Unknown attribute-value pair Number[psor]=Plur
+[Line                   3894]: Unknown attribute-value pair Number[psor]=Plur
+[Line                   4077]: Unknown attribute-value pair Number[psor]=Plur
+...suppressing further errors regarding Morpho
+*** FAILED *** with 612 errors
+Morpho errors: 612
 
 
 ******************
