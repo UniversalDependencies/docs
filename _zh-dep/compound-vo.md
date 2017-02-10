@@ -10,11 +10,13 @@ The `compound:vo` relation is used for verb-object compounds where the combinati
 These compounds run the range of:
 
 - (i) light verb constructions where the noun carries more semantic weight than the verb
-  - e.g., 打␣電話 / _dǎ-diànhuà_ hit-telephone "make a phone call" (which might be equivalent to `compound:lvc` in other languages) 
+  - e.g., 打␣電話 / _dǎ-diànhuà_ hit-telephone "make a phone call" 
+  - (equivalents of these in other languages may be labeled with `compound:lvc`) 
 - (ii) both the verb and noun contributing relatively equal semantic weight
   - e.g., 讀␣書 / _dú-shū_ read-book "study"
 - (iii) situations where the verb carries the semantic weight over a redundant or relatively empty noun
-  - e.g., 睡␣覺 / _shuì-jiào_ sleep-sense "sleep", where the noun 覺 no longer has a modern lexical usage and in fact the verb 睡 can be and is often used on its own to convey the same meaning
+  - e.g., 睡␣覺 / _shuì-jiào_ sleep-sense "sleep"
+  - in the example, the noun 覺 no longer has a modern lexical usage and the verb 睡 can be used on its own to convey the same meaning
 
 All of the above cases have the same syntactic distribution, where the object behaves like a direct object of the verb. Therefore, verb-object compounds never take another object as direct object, and the object can be separated from the verb as in regular non-compound situations. 
 
