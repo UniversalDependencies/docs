@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-02-10T21:04:12Z">2017-02-10T21:04:12 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-02-10T21:06:24Z">2017-02-10T21:06:24 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -695,63 +695,21 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang cop /home/ginter/UD_PRO
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD Croatian</span>
 <span class="widespan">hr</span>
-<span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-10T21:04:00Z">2017-02-10T21:04:00 zulu</time></span>
+<span class="validationpass">PASS</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-10T21:06:11Z">2017-02-10T21:06:11 zulu</time></span>
 </div>
 <div>
 <pre>
-python tools/validate.py --lang hr UD-dev-branches/UD_Croatian/hr-ud-dev.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang hr /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Croatian/hr-ud-dev.conllu
 
-[Line                   619]: Unknown attribute-value pair Number[psor]=Plur
-[Line                   771]: Unknown attribute-value pair Gender[psor]=Masc
-[Line                   771]: Unknown attribute-value pair Gender[psor]=Neut
-[Line                   771]: Unknown attribute-value pair Number[psor]=Sing
-[Line                   1110]: Unknown attribute-value pair Number[psor]=Plur
-[Line                   1171]: Unknown attribute-value pair Number[psor]=Plur
-[Line                   1904]: Unknown attribute-value pair Number[psor]=Plur
-[Line                   2733]: Unknown attribute-value pair Gender[psor]=Masc
-[Line                   2733]: Unknown attribute-value pair Gender[psor]=Neut
-[Line                   2733]: Unknown attribute-value pair Number[psor]=Sing
-[Line                   3065]: Unknown attribute-value pair Gender[psor]=Masc
-[Line                   3065]: Unknown attribute-value pair Gender[psor]=Neut
-[Line                   3065]: Unknown attribute-value pair Number[psor]=Sing
-[Line                   3280]: Unknown attribute-value pair Gender[psor]=Masc
-[Line                   3280]: Unknown attribute-value pair Gender[psor]=Neut
-[Line                   3280]: Unknown attribute-value pair Number[psor]=Sing
-[Line                   3708]: Unknown attribute-value pair Number[psor]=Plur
-[Line                   3774]: Unknown attribute-value pair Gender[psor]=Masc
-[Line                   3774]: Unknown attribute-value pair Gender[psor]=Neut
-...suppressing further errors regarding Morpho
-*** FAILED *** with 57 errors
-Morpho errors: 57
+*** PASSED ***
 
 
 ******************
 
-python tools/validate.py --lang hr UD-dev-branches/UD_Croatian/hr-ud-train.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang hr /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Croatian/hr-ud-train.conllu
 
-[Line                   44]: Unknown attribute-value pair Number[psor]=Plur
-[Line                   157]: Unknown attribute-value pair Number[psor]=Sing
-[Line                   244]: Unknown attribute-value pair Gender[psor]=Fem
-[Line                   244]: Unknown attribute-value pair Number[psor]=Sing
-[Line                   833]: Unknown attribute-value pair Gender[psor]=Masc
-[Line                   833]: Unknown attribute-value pair Gender[psor]=Neut
-[Line                   833]: Unknown attribute-value pair Number[psor]=Sing
-[Line                   1036]: Unknown attribute-value pair Gender[psor]=Fem
-[Line                   1036]: Unknown attribute-value pair Number[psor]=Sing
-[Line                   1068]: Unknown attribute-value pair Number[psor]=Plur
-[Line                   1594]: Unknown attribute-value pair Gender[psor]=Masc
-[Line                   1594]: Unknown attribute-value pair Gender[psor]=Neut
-[Line                   1594]: Unknown attribute-value pair Number[psor]=Sing
-[Line                   1643]: Unknown attribute-value pair Gender[psor]=Masc
-[Line                   1643]: Unknown attribute-value pair Gender[psor]=Neut
-[Line                   1643]: Unknown attribute-value pair Number[psor]=Sing
-[Line                   1808]: Unknown attribute-value pair Number[psor]=Plur
-[Line                   1863]: Unknown attribute-value pair Gender[psor]=Fem
-[Line                   1863]: Unknown attribute-value pair Number[psor]=Sing
-...suppressing further errors regarding Morpho
-*** FAILED *** with 1238 errors
-Morpho errors: 1238
+*** PASSED ***
 
 
 ******************
