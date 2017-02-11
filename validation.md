@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-02-11T00:11:48Z">2017-02-11T00:11:48 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-02-11T00:58:02Z">2017-02-11T00:58:02 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -13,7 +13,7 @@ Regenerated: <time class="timeago" datetime="2017-02-11T00:11:48Z">2017-02-11T00
 <span class="doublewidespan" style="padding-left:3em">UD Amharic</span>
 <span class="widespan">am</span>
 <span class="validationfail">EMPTY</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-10T11:21:28Z">2017-02-10T11:21:28 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-11T00:45:13Z">2017-02-11T00:45:13 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -24,7 +24,7 @@ No data
 <span class="doublewidespan" style="padding-left:3em">UD Ancient Greek</span>
 <span class="widespan">grc</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-10T11:21:28Z">2017-02-10T11:21:28 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-11T00:45:13Z">2017-02-11T00:45:13 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -175,7 +175,7 @@ Syntax errors: 21730
 <span class="doublewidespan" style="padding-left:3em">UD Ancient Greek-PROIEL</span>
 <span class="widespan">grc proiel</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-10T11:21:42Z">2017-02-10T11:21:42 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-11T00:45:27Z">2017-02-11T00:45:27 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -326,7 +326,7 @@ Syntax errors: 16651
 <span class="doublewidespan" style="padding-left:3em">UD Arabic</span>
 <span class="widespan">ar</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-10T11:21:56Z">2017-02-10T11:21:56 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-11T00:45:41Z">2017-02-11T00:45:41 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -362,7 +362,7 @@ No data
 <span class="doublewidespan" style="padding-left:3em">UD Arabic-NYUAD</span>
 <span class="widespan">ar nyuad</span>
 <span class="validationfail">EMPTY</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-10T11:22:15Z">2017-02-10T11:22:15 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-11T00:46:00Z">2017-02-11T00:46:00 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -373,7 +373,7 @@ No data
 <span class="doublewidespan" style="padding-left:3em">UD Basque</span>
 <span class="widespan">eu</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-10T11:22:15Z">2017-02-10T11:22:15 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-11T00:46:00Z">2017-02-11T00:46:00 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -523,28 +523,91 @@ Syntax errors: 6742
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD Belarusian</span>
 <span class="widespan">be</span>
-<span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-10T11:22:22Z">2017-02-10T11:22:22 zulu</time></span>
+<span class="validationfail">FAIL</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-11T00:46:06Z">2017-02-11T00:46:06 zulu</time></span>
 </div>
 <div>
 <pre>
 python /home/ginter/UD_PROJHOOK/tools/validate.py --lang be /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Belarusian/be-ud-dev.conllu
 
-*** PASSED ***
+[Line                   27]: SpaceAfter=No is missing in the MISC field of node #3 because the text is 'адзначыў, што ў выпа[...]'
+[Line                   27]: SpaceAfter=No is missing in the MISC field of node #11 because the text is '"вельмі жорстка адка[...]'
+[Line                   27]: SpaceAfter=No is missing in the MISC field of node #16 because the text is 'санкцыі", якія ўвёў [...]'
+[Line                   27]: SpaceAfter=No is missing in the MISC field of node #17 because the text is '", якія ўвёў шэраг е[...]'
+[Line                   27]: SpaceAfter=No is missing in the MISC field of node #23 because the text is 'дзяржаў.'
+[Line                   37]: SpaceAfter=No is missing in the MISC field of node #1 because the text is 'Эштан: ЕС пасылае яс[...]'
+[Line                   67]: SpaceAfter=No is missing in the MISC field of node #26 because the text is 'Беларусі.'
+[Line                   91]: SpaceAfter=No is missing in the MISC field of node #3 because the text is 'слоў, у гэтым плане [...]'
+[Line                   91]: SpaceAfter=No is missing in the MISC field of node #14 because the text is '"пераход ад ізаляцыі[...]'
+[Line                   91]: SpaceAfter=No is missing in the MISC field of node #19 because the text is 'ўзаемадзеяння".'
+[Line                   91]: SpaceAfter=No is missing in the MISC field of node #20 because the text is '".'
+[Line                   104]: SpaceAfter=No is missing in the MISC field of node #1 because the text is '"Мы часта рухаемся д[...]'
+[Line                   104]: SpaceAfter=No is missing in the MISC field of node #9 because the text is 'падыходамі.'
+[Line                   117]: SpaceAfter=No is missing in the MISC field of node #9 because the text is 'краіне.'
+[Line                   154]: SpaceAfter=No is missing in the MISC field of node #11 because the text is 'ясна, і будзем праця[...]'
+[Line                   154]: SpaceAfter=No is missing in the MISC field of node #19 because the text is 'надалей", -- сказала[...]'
+[Line                   154]: SpaceAfter=No is missing in the MISC field of node #20 because the text is '", -- сказала Кэтрын[...]'
+[Line                   154]: SpaceAfter=No is missing in the MISC field of node #25 because the text is 'Эштан, паведамляе бе[...]'
+[Line                   154]: SpaceAfter=No is missing in the MISC field of node #31 because the text is '"Свабода".'
+...suppressing further errors regarding Metadata
+*** FAILED *** with 198 errors
+Metadata errors: 198
 
 
 ******************
 
 python /home/ginter/UD_PROJHOOK/tools/validate.py --lang be /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Belarusian/be-ud-test.conllu
 
-*** PASSED ***
+[Line                   36]: SpaceAfter=No is missing in the MISC field of node #4 because the text is 'Тэлеграф, будаваць б[...]'
+[Line                   36]: SpaceAfter=No is missing in the MISC field of node #11 because the text is 'красавіку, заявіў 21[...]'
+[Line                   36]: SpaceAfter=No is missing in the MISC field of node #20 because the text is '"Атамэнергапраект", [...]'
+[Line                   36]: SpaceAfter=No is missing in the MISC field of node #21 because the text is 'Атамэнергапраект", в[...]'
+[Line                   36]: SpaceAfter=No is missing in the MISC field of node #22 because the text is '", выконваючы абавяз[...]'
+[Line                   36]: SpaceAfter=No is missing in the MISC field of node #28 because the text is '"Атамбудэкспарт" Вал[...]'
+[Line                   36]: SpaceAfter=No is missing in the MISC field of node #29 because the text is 'Атамбудэкспарт" Вале[...]'
+[Line                   36]: SpaceAfter=No is missing in the MISC field of node #32 because the text is 'Лімарэнка.'
+[Line                   72]: SpaceAfter=No is missing in the MISC field of node #32 because the text is 'электрастанцый.'
+[Line                   86]: SpaceAfter=No is missing in the MISC field of node #4 because the text is 'Ажубаліса, праекты д[...]'
+[Line                   86]: SpaceAfter=No is missing in the MISC field of node #10 because the text is 'безадказнымі.'
+[Line                   98]: SpaceAfter=No is missing in the MISC field of node #1 because the text is 'Някляеў: рэальных са[...]'
+[Line                   126]: SpaceAfter=No is missing in the MISC field of node #4 because the text is '"Гавары праўду!" Ула[...]'
+[Line                   126]: SpaceAfter=No is missing in the MISC field of node #6 because the text is 'праўду!" Уладзімір Н[...]'
+[Line                   126]: SpaceAfter=No is missing in the MISC field of node #7 because the text is '!" Уладзімір Някляеў[...]'
+[Line                   126]: SpaceAfter=No is missing in the MISC field of node #11 because the text is 'лічыць, што Еўрапейс[...]'
+[Line                   126]: SpaceAfter=No is missing in the MISC field of node #24 because the text is 'Беларусі.'
+[Line                   134]: SpaceAfter=No is missing in the MISC field of node #1 because the text is '"Гэта не санкцыі.'
+[Line                   134]: SpaceAfter=No is missing in the MISC field of node #4 because the text is 'санкцыі.'
+...suppressing further errors regarding Metadata
+*** FAILED *** with 229 errors
+Metadata errors: 229
 
 
 ******************
 
 python /home/ginter/UD_PROJHOOK/tools/validate.py --lang be /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Belarusian/be-ud-train.conllu
 
-*** PASSED ***
+[Line                   30]: SpaceAfter=No is missing in the MISC field of node #16 because the text is 'Беларусі.'
+[Line                   55]: SpaceAfter=No is missing in the MISC field of node #21 because the text is 'Беларусі.'
+[Line                   85]: SpaceAfter=No is missing in the MISC field of node #7 because the text is 'Беларусі, адным з пр[...]'
+[Line                   85]: SpaceAfter=No is missing in the MISC field of node #26 because the text is 'бізнэсу.'
+[Line                   110]: SpaceAfter=No is missing in the MISC field of node #1 because the text is '"Эксперты кампаніі в[...]'
+[Line                   110]: SpaceAfter=No is missing in the MISC field of node #15 because the text is 'прадпрыемстваў, энер[...]'
+[Line                   110]: SpaceAfter=No is missing in the MISC field of node #18 because the text is 'праектах, праектнага[...]'
+[Line                   110]: SpaceAfter=No is missing in the MISC field of node #21 because the text is 'фінансавання.'
+[Line                   143]: SpaceAfter=No is missing in the MISC field of node #5 because the text is 'Сеуле, Daeryook &amp[...]'
+[Line                   143]: SpaceAfter=No is missing in the MISC field of node #17 because the text is 'Еўрасаюзе, Кітаі, Ра[...]'
+[Line                   143]: SpaceAfter=No is missing in the MISC field of node #19 because the text is 'Кітаі, Расіі і ЗША",[...]'
+[Line                   143]: SpaceAfter=No is missing in the MISC field of node #23 because the text is 'ЗША", -- распавялі ў[...]'
+[Line                   143]: SpaceAfter=No is missing in the MISC field of node #24 because the text is '", -- распавялі ў мі[...]'
+[Line                   143]: SpaceAfter=No is missing in the MISC field of node #29 because the text is 'мінэканомікі.'
+[Line                   182]: SpaceAfter=No is missing in the MISC field of node #3 because the text is 'дамоўленасцяў, Нацыя[...]'
+[Line                   182]: SpaceAfter=No is missing in the MISC field of node #35 because the text is 'Беларусь.'
+[Line                   242]: SpaceAfter=No is missing in the MISC field of node #5 because the text is 'эканомікі, у рамках [...]'
+[Line                   242]: SpaceAfter=No is missing in the MISC field of node #37 because the text is 'До, віцэ-прэзідэнтам[...]'
+[Line                   242]: SpaceAfter=No is missing in the MISC field of node #48 because the text is 'KOTRA) О Сон Гынам і[...]'
+...suppressing further errors regarding Metadata
+*** FAILED *** with 589 errors
+Metadata errors: 589
 
 
 ******************
@@ -556,7 +619,7 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang be /home/ginter/UD_PROJ
 <span class="doublewidespan" style="padding-left:3em">UD Bulgarian</span>
 <span class="widespan">bg</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-10T11:22:23Z">2017-02-10T11:22:23 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-11T00:46:07Z">2017-02-11T00:46:07 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -581,7 +644,7 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang bg /home/ginter/UD_PROJ
 <span class="doublewidespan" style="padding-left:3em">UD Buryat</span>
 <span class="widespan">bxr</span>
 <span class="validationfail">EMPTY</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-10T11:22:34Z">2017-02-10T11:22:34 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-11T00:46:17Z">2017-02-11T00:46:17 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -592,7 +655,7 @@ No data
 <span class="doublewidespan" style="padding-left:3em">UD Cantonese</span>
 <span class="widespan">yue</span>
 <span class="validationfail">EMPTY</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-10T11:22:34Z">2017-02-10T11:22:34 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-11T00:46:17Z">2017-02-11T00:46:17 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -603,7 +666,7 @@ No data
 <span class="doublewidespan" style="padding-left:3em">UD Catalan</span>
 <span class="widespan">ca</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-10T11:22:34Z">2017-02-10T11:22:34 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-11T00:46:17Z">2017-02-11T00:46:17 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -628,7 +691,7 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang ca /home/ginter/UD_PROJ
 <span class="doublewidespan" style="padding-left:3em">UD Chinese</span>
 <span class="widespan">zh</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-10T11:23:05Z">2017-02-10T11:23:05 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-11T00:46:46Z">2017-02-11T00:46:46 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -653,7 +716,7 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang zh /home/ginter/UD_PROJ
 <span class="doublewidespan" style="padding-left:3em">UD Chinese-HK</span>
 <span class="widespan">zh hk</span>
 <span class="validationfail">EMPTY</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-10T11:23:10Z">2017-02-10T11:23:10 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-11T00:46:51Z">2017-02-11T00:46:51 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -663,8 +726,8 @@ No data
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD Coptic</span>
 <span class="widespan">cop</span>
-<span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-10T11:23:10Z">2017-02-10T11:23:10 zulu</time></span>
+<span class="validationfail">FAIL</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-11T00:46:51Z">2017-02-11T00:46:51 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -684,7 +747,9 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang cop /home/ginter/UD_PRO
 
 python /home/ginter/UD_PROJHOOK/tools/validate.py --lang cop /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Coptic/cop-ud-train.conllu
 
-*** PASSED ***
+[Line                   9206]: SpaceAfter=No is missing in the MISC field of node #10-11 because the text is 'ⲧⲟⲩⲡⲓⲥⲧⲓⲥⲧⲉ ⲛⲧⲁⲥⲛⲁϩⲙ[...]'
+*** FAILED *** with 1 errors
+Metadata errors: 1
 
 
 ******************
@@ -696,18 +761,18 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang cop /home/ginter/UD_PRO
 <span class="doublewidespan" style="padding-left:3em">UD Croatian</span>
 <span class="widespan">hr</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-10T23:19:36Z">2017-02-10T23:19:36 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-11T00:46:52Z">2017-02-11T00:46:52 zulu</time></span>
 </div>
 <div>
 <pre>
-python tools/validate.py --lang hr UD-dev-branches/UD_Croatian/hr-ud-dev.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang hr /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Croatian/hr-ud-dev.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python tools/validate.py --lang hr UD-dev-branches/UD_Croatian/hr-ud-train.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang hr /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Croatian/hr-ud-train.conllu
 
 *** PASSED ***
 
@@ -720,8 +785,8 @@ python tools/validate.py --lang hr UD-dev-branches/UD_Croatian/hr-ud-train.conll
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD Czech</span>
 <span class="widespan">cs</span>
-<span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-10T11:23:21Z">2017-02-10T11:23:21 zulu</time></span>
+<span class="validationfail">FAIL</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-11T00:47:04Z">2017-02-11T00:47:04 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -734,7 +799,9 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang cs /home/ginter/UD_PROJ
 
 python /home/ginter/UD_PROJHOOK/tools/validate.py --lang cs /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Czech/cs-ud-train-c.conllu
 
-*** PASSED ***
+[Line                   136988]: SpaceAfter=No is missing in the MISC field of node #5-6 because the text is 'kdyby.'
+*** FAILED *** with 1 errors
+Metadata errors: 1
 
 
 ******************
@@ -766,8 +833,8 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang cs /home/ginter/UD_PROJ
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD Czech-CAC</span>
 <span class="widespan">cs cac</span>
-<span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-10T11:25:06Z">2017-02-10T11:25:06 zulu</time></span>
+<span class="validationfail">FAIL</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-11T00:48:45Z">2017-02-11T00:48:45 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -780,7 +847,10 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang cs_cac /home/ginter/UD_
 
 python /home/ginter/UD_PROJHOOK/tools/validate.py --lang cs_cac /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Czech-CAC/cs_cac-ud-train.conllu
 
-*** PASSED ***
+[Line                   34800]: SpaceAfter=No is missing in the MISC field of node #13-14 because the text is 'abyste, pokud bude p[...]'
+[Line                   221303]: SpaceAfter=No is missing in the MISC field of node #3-4 because the text is 'kdyby, neprozradil b[...]'
+*** FAILED *** with 2 errors
+Metadata errors: 2
 
 
 ******************
@@ -792,7 +862,7 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang cs_cac /home/ginter/UD_
 <span class="doublewidespan" style="padding-left:3em">UD Czech-CLTT</span>
 <span class="widespan">cs cltt</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-10T11:25:42Z">2017-02-10T11:25:42 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-11T00:49:22Z">2017-02-11T00:49:22 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -846,8 +916,8 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang cs_cltt /home/ginter/UD
 [Line                   273]: Mismatch between the text attribute and the FORM field. Form is 'rejstříku' but text is '"zákon o přeměnách"), včetně ...'
 [Line                   273]: Mismatch between the text attribute and the FORM field. Form is 's' but text is '"zákon o přeměnách"),...'
 ...suppressing further errors regarding Metadata
-*** FAILED *** with 9021 errors
-Metadata errors: 9021
+*** FAILED *** with 9024 errors
+Metadata errors: 9024
 
 
 ******************
@@ -859,7 +929,7 @@ Metadata errors: 9021
 <span class="doublewidespan" style="padding-left:3em">UD Danish</span>
 <span class="widespan">da</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-10T11:25:44Z">2017-02-10T11:25:44 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-11T00:49:25Z">2017-02-11T00:49:25 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -1010,7 +1080,7 @@ Syntax errors: 8478
 <span class="doublewidespan" style="padding-left:3em">UD Dutch</span>
 <span class="widespan">nl</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-10T11:25:50Z">2017-02-10T11:25:50 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-11T00:49:31Z">2017-02-11T00:49:31 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -1034,21 +1104,63 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang nl /home/ginter/UD_PROJ
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD Dutch-LassySmall</span>
 <span class="widespan">nl lassysmall</span>
-<span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-10T11:26:03Z">2017-02-10T11:26:03 zulu</time></span>
+<span class="validationfail">FAIL</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-11T00:49:44Z">2017-02-11T00:49:44 zulu</time></span>
 </div>
 <div>
 <pre>
 python /home/ginter/UD_PROJHOOK/tools/validate.py --lang nl_lassysmall /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Dutch-LassySmall/nl_lassysmall-ud-dev.conllu
 
-*** PASSED ***
+[Line                   18]: SpaceAfter=No is missing in the MISC field of node #14 because the text is 'Nederlanden.'
+[Line                   50]: SpaceAfter=No is missing in the MISC field of node #5 because the text is 'Geerts, de assistent[...]'
+[Line                   50]: SpaceAfter=No is missing in the MISC field of node #16 because the text is 'deed, de artistieke [...]'
+[Line                   50]: SpaceAfter=No is missing in the MISC field of node #23 because the text is 'strip.'
+[Line                   59]: SpaceAfter=No is missing in the MISC field of node #3 because the text is '«niet verreden»'
+[Line                   59]: SpaceAfter=No is missing in the MISC field of node #5 because the text is 'verreden»'
+[Line                   76]: SpaceAfter=No is missing in the MISC field of node #13 because the text is 'Mechelen.'
+[Line                   94]: SpaceAfter=No is missing in the MISC field of node #14 because the text is 'Erasmushogeschool.'
+[Line                   103]: SpaceAfter=No is missing in the MISC field of node #5 because the text is 'zwaargewond.'
+[Line                   116]: SpaceAfter=No is missing in the MISC field of node #9 because the text is 'deelgemeenten:'
+[Line                   135]: SpaceAfter=No is missing in the MISC field of node #3 because the text is 'Zimbabwe, reeks 3'
+[Line                   143]: SpaceAfter=No is missing in the MISC field of node #4 because the text is 'kinderen:'
+[Line                   207]: SpaceAfter=No is missing in the MISC field of node #2 because the text is 'stuurt, gesteund in [...]'
+[Line                   207]: SpaceAfter=No is missing in the MISC field of node #11 because the text is 'avant-garde, in 1881[...]'
+[Line                   207]: SpaceAfter=No is missing in the MISC field of node #17 because the text is '(«De koloriste», «He[...]'
+[Line                   207]: SpaceAfter=No is missing in the MISC field of node #18 because the text is '«De koloriste», «Het[...]'
+[Line                   207]: SpaceAfter=No is missing in the MISC field of node #20 because the text is 'koloriste», «Het bur[...]'
+[Line                   207]: SpaceAfter=No is missing in the MISC field of node #21 because the text is '», «Het burgersalon»[...]'
+[Line                   207]: SpaceAfter=No is missing in the MISC field of node #23 because the text is '«Het burgersalon» en[...]'
+...suppressing further errors regarding Metadata
+*** FAILED *** with 639 errors
+Metadata errors: 639
 
 
 ******************
 
 python /home/ginter/UD_PROJHOOK/tools/validate.py --lang nl_lassysmall /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Dutch-LassySmall/nl_lassysmall-ud-train.conllu
 
-*** PASSED ***
+[Line                   33]: SpaceAfter=No is missing in the MISC field of node #3 because the text is 'Dierick, «Van Eyck -[...]'
+[Line                   33]: SpaceAfter=No is missing in the MISC field of node #5 because the text is '«Van Eyck - Het Lam [...]'
+[Line                   33]: SpaceAfter=No is missing in the MISC field of node #11 because the text is 'Gods», 1972, Gent, u[...]'
+[Line                   33]: SpaceAfter=No is missing in the MISC field of node #12 because the text is '», 1972, Gent, uitge[...]'
+[Line                   33]: SpaceAfter=No is missing in the MISC field of node #14 because the text is '1972, Gent, uitgegev[...]'
+[Line                   33]: SpaceAfter=No is missing in the MISC field of node #16 because the text is 'Gent, uitgegeven in [...]'
+[Line                   33]: SpaceAfter=No is missing in the MISC field of node #21 because the text is 'beheer.'
+[Line                   55]: SpaceAfter=No is missing in the MISC field of node #14 because the text is 'dienstplicht.'
+[Line                   74]: SpaceAfter=No is missing in the MISC field of node #15 because the text is 'zitten.'
+[Line                   85]: SpaceAfter=No is missing in the MISC field of node #7 because the text is 'bussen.'
+[Line                   129]: SpaceAfter=No is missing in the MISC field of node #3 because the text is ''Vlaanderen' verwijs[...]'
+[Line                   129]: SpaceAfter=No is missing in the MISC field of node #4 because the text is 'Vlaanderen' verwijst[...]'
+[Line                   129]: SpaceAfter=No is missing in the MISC field of node #10 because the text is ''Vlaamse gemeenschap[...]'
+[Line                   129]: SpaceAfter=No is missing in the MISC field of node #12 because the text is 'gemeenschap' in de m[...]'
+[Line                   129]: SpaceAfter=No is missing in the MISC field of node #19 because the text is 'zin, als naar de bes[...]'
+[Line                   129]: SpaceAfter=No is missing in the MISC field of node #26 because the text is '(de Vlaamse Gemeensc[...]'
+[Line                   129]: SpaceAfter=No is missing in the MISC field of node #33 because the text is 'Gewest), die gevesti[...]'
+[Line                   129]: SpaceAfter=No is missing in the MISC field of node #34 because the text is '), die gevestigd zij[...]'
+[Line                   129]: SpaceAfter=No is missing in the MISC field of node #40 because the text is 'Brussel.'
+...suppressing further errors regarding Metadata
+*** FAILED *** with 12447 errors
+Metadata errors: 12447
 
 
 ******************
@@ -1059,21 +1171,25 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang nl_lassysmall /home/gin
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD English</span>
 <span class="widespan">en</span>
-<span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-10T11:26:08Z">2017-02-10T11:26:08 zulu</time></span>
+<span class="validationfail">FAIL</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-11T00:49:49Z">2017-02-11T00:49:49 zulu</time></span>
 </div>
 <div>
 <pre>
 python /home/ginter/UD_PROJHOOK/tools/validate.py --lang en /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_English/en-ud-dev.conllu
 
-*** PASSED ***
+[Line                   14326]: SpaceAfter=No is missing in the MISC field of node #48 because the text is 'etc.'
+*** FAILED *** with 1 errors
+Metadata errors: 1
 
 
 ******************
 
 python /home/ginter/UD_PROJHOOK/tools/validate.py --lang en /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_English/en-ud-train.conllu
 
-*** PASSED ***
+[Line                   157347]: SpaceAfter=No is missing in the MISC field of node #7 because the text is 'now…'
+*** FAILED *** with 1 errors
+Metadata errors: 1
 
 
 ******************
@@ -1085,7 +1201,7 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang en /home/ginter/UD_PROJ
 <span class="doublewidespan" style="padding-left:3em">UD English-ESL</span>
 <span class="widespan">en esl</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-10T11:26:21Z">2017-02-10T11:26:21 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-11T00:50:02Z">2017-02-11T00:50:02 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -1236,15 +1352,35 @@ Syntax errors: 6400
 <span class="doublewidespan" style="padding-left:3em">UD English-LinES</span>
 <span class="widespan">en lines</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-10T11:26:25Z">2017-02-10T11:26:25 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-11T00:50:06Z">2017-02-11T00:50:06 zulu</time></span>
 </div>
 <div>
 <pre>
 python /home/ginter/UD_PROJHOOK/tools/validate.py --lang en_lines /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_English-LinES/en_lines-ud-dev.conllu
 
 [Line                   19]: Unknown UD DEPREL: nsubj:pass
+[Line                   29]: SpaceAfter=No is missing in the MISC field of node #14 because the text is 'project, the connect[...]'
+[Line                   29]: SpaceAfter=No is missing in the MISC field of node #25 because the text is 'account.'
 [Line                   38]: Unknown UD DEPREL: nsubj:pass
+[Line                   67]: SpaceAfter=No is missing in the MISC field of node #25 because the text is 'database, without re[...]'
+[Line                   67]: SpaceAfter=No is missing in the MISC field of node #34 because the text is 'password.'
+[Line                   106]: SpaceAfter=No is missing in the MISC field of node #15 because the text is 'security, the user m[...]'
+[Line                   106]: SpaceAfter=No is missing in the MISC field of node #35 because the text is 'resides.'
+[Line                   125]: SpaceAfter=No is missing in the MISC field of node #15 because the text is 'project.'
+[Line                   162]: SpaceAfter=No is missing in the MISC field of node #30 because the text is '(TSQL) commands.'
+[Line                   162]: SpaceAfter=No is missing in the MISC field of node #31 because the text is 'TSQL) commands.'
+[Line                   162]: SpaceAfter=No is missing in the MISC field of node #33 because the text is 'commands.'
+[Line                   180]: SpaceAfter=No is missing in the MISC field of node #3 because the text is 'http://officeupdate.[...]'
+[Line                   180]: SpaceAfter=No is missing in the MISC field of node #14 because the text is 'TSQL.'
+[Line                   202]: SpaceAfter=No is missing in the MISC field of node #18 because the text is 'NT.'
+[Line                   220]: SpaceAfter=No is missing in the MISC field of node #7 because the text is 'menu, you can enable[...]'
+[Line                   220]: SpaceAfter=No is missing in the MISC field of node #14 because the text is 'security.'
+[Line                   246]: SpaceAfter=No is missing in the MISC field of node #5 because the text is 'account, users can a[...]'
+[Line                   246]: SpaceAfter=No is missing in the MISC field of node #22 because the text is 'requirements.'
+[Line                   268]: SpaceAfter=No is missing in the MISC field of node #18 because the text is 'password.'
 [Line                   284]: Unknown UD DEPREL: nsubj:pass
+[Line                   295]: SpaceAfter=No is missing in the MISC field of node #8 because the text is '(SA) user name check[...]'
+...suppressing further errors regarding Metadata
 [Line                   300]: Unknown UD DEPREL: nsubj:pass
 [Line                   400]: Unknown UD DEPREL: nsubj:pass
 [Line                   407]: Unknown UD DEPREL: nsubj:pass
@@ -1262,7 +1398,8 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang en_lines /home/ginter/U
 [Line                   1576]: Unknown UD DEPREL: nsubj:pass
 [Line                   1605]: Unknown UD DEPREL: nsubj:pass
 ...suppressing further errors regarding Syntax
-*** FAILED *** with 143 errors
+*** FAILED *** with 2008 errors
+Metadata errors: 1865
 Syntax errors: 143
 
 
@@ -1270,11 +1407,27 @@ Syntax errors: 143
 
 python /home/ginter/UD_PROJHOOK/tools/validate.py --lang en_lines /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_English-LinES/en_lines-ud-train.conllu
 
+[Line                   31]: SpaceAfter=No is missing in the MISC field of node #14 because the text is 'languages.'
+[Line                   48]: SpaceAfter=No is missing in the MISC field of node #13 because the text is 'modes:'
+[Line                   59]: SpaceAfter=No is missing in the MISC field of node #7 because the text is 'syntax.'
 [Line                   59]: Mismatch between the text attribute and the FORM field. Form is '.' but text is 'x....'
 [Line                   59]: Extra characters at the end of the text attribute, not accounted for in the FORM fields: 'x.'
+[Line                   81]: SpaceAfter=No is missing in the MISC field of node #10 because the text is 'specification, but i[...]'
+[Line                   81]: SpaceAfter=No is missing in the MISC field of node #18 because the text is 'compliant.'
 [Line                   85]: Unknown UD DEPREL: nsubj:pass
-[Line                   205]: Mismatch between the text attribute and the FORM field. Form is '.' but text is 'x....'
-[Line                   205]: Extra characters at the end of the text attribute, not accounted for in the FORM fields: 'x.'
+[Line                   110]: SpaceAfter=No is missing in the MISC field of node #19 because the text is '(VBA) specification,[...]'
+[Line                   110]: SpaceAfter=No is missing in the MISC field of node #20 because the text is 'VBA) specification, [...]'
+[Line                   110]: SpaceAfter=No is missing in the MISC field of node #22 because the text is 'specification, not SQL.'
+[Line                   110]: SpaceAfter=No is missing in the MISC field of node #25 because the text is 'SQL.'
+[Line                   139]: SpaceAfter=No is missing in the MISC field of node #5 because the text is 'words, syntax rules,[...]'
+[Line                   139]: SpaceAfter=No is missing in the MISC field of node #8 because the text is 'rules, and wildcard [...]'
+[Line                   139]: SpaceAfter=No is missing in the MISC field of node #19 because the text is 'queries, filters, an[...]'
+[Line                   139]: SpaceAfter=No is missing in the MISC field of node #21 because the text is 'filters, and SQL sta[...]'
+[Line                   139]: SpaceAfter=No is missing in the MISC field of node #25 because the text is 'statements.'
+[Line                   161]: SpaceAfter=No is missing in the MISC field of node #10 because the text is 'specification, but i[...]'
+[Line                   161]: SpaceAfter=No is missing in the MISC field of node #18 because the text is 'compliant.'
+[Line                   184]: SpaceAfter=No is missing in the MISC field of node #9 because the text is 'syntax, and the wild[...]'
+...suppressing further errors regarding Metadata
 [Line                   393]: Unknown UD DEPREL: obl:agent
 [Line                   471]: Unknown UD DEPREL: nsubj:pass
 [Line                   679]: Unknown UD DEPREL: obl:agent
@@ -1294,24 +1447,8 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang en_lines /home/ginter/U
 [Line                   1994]: Unknown UD DEPREL: nsubj:pass
 [Line                   2066]: Unknown UD DEPREL: nsubj:pass
 ...suppressing further errors regarding Syntax
-[Line                   3457]: Mismatch between the text attribute and the FORM field. Form is 'and' but text is 'x and will not be inter...'
-[Line                   3457]: Mismatch between the text attribute and the FORM field. Form is 'will' but text is 'x and will not be interp...'
-[Line                   3457]: Mismatch between the text attribute and the FORM field. Form is 'not' but text is 'x and will not be inter...'
-[Line                   3457]: Mismatch between the text attribute and the FORM field. Form is 'be' but text is 'x and will not be inte...'
-[Line                   3457]: Mismatch between the text attribute and the FORM field. Form is 'interpreted' but text is 'x and will not be interpreted a...'
-[Line                   3457]: Mismatch between the text attribute and the FORM field. Form is 'as' but text is 'x and will not be inte...'
-[Line                   3457]: Mismatch between the text attribute and the FORM field. Form is 'themselves' but text is 'x and will not be interpreted ...'
-[Line                   3457]: Mismatch between the text attribute and the FORM field. Form is 'if' but text is 'x and will not be inte...'
-[Line                   3457]: Mismatch between the text attribute and the FORM field. Form is 'used' but text is 'x and will not be interp...'
-[Line                   3457]: Mismatch between the text attribute and the FORM field. Form is 'in' but text is 'x and will not be inte...'
-[Line                   3457]: Mismatch between the text attribute and the FORM field. Form is 'the' but text is 'x and will not be inter...'
-[Line                   3457]: Mismatch between the text attribute and the FORM field. Form is 'data' but text is 'x and will not be interp...'
-[Line                   3457]: Mismatch between the text attribute and the FORM field. Form is 'portion' but text is 'x and will not be interpret...'
-[Line                   3457]: Mismatch between the text attribute and the FORM field. Form is 'of' but text is 'x and will not be inte...'
-[Line                   3457]: Mismatch between the text attribute and the FORM field. Form is 'an' but text is 'x and will not be inte...'
-...suppressing further errors regarding Metadata
-*** FAILED *** with 484 errors
-Metadata errors: 65
+*** FAILED *** with 6047 errors
+Metadata errors: 5628
 Syntax errors: 419
 
 
@@ -1324,18 +1461,18 @@ Syntax errors: 419
 <span class="doublewidespan" style="padding-left:3em">UD English-ParTUT</span>
 <span class="widespan">en partut</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-10T11:35:26Z">2017-02-10T11:35:26 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-11T00:50:09Z">2017-02-11T00:50:09 zulu</time></span>
 </div>
 <div>
 <pre>
-python tools/validate.py --lang en_partut UD-dev-branches/UD_English-ParTUT/en_partut-ud-dev.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang en_partut /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_English-ParTUT/en_partut-ud-dev.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python tools/validate.py --lang en_partut UD-dev-branches/UD_English-ParTUT/en_partut-ud-train.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang en_partut /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_English-ParTUT/en_partut-ud-train.conllu
 
 *** PASSED ***
 
@@ -1349,7 +1486,7 @@ python tools/validate.py --lang en_partut UD-dev-branches/UD_English-ParTUT/en_p
 <span class="doublewidespan" style="padding-left:3em">UD Estonian</span>
 <span class="widespan">et</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-10T11:26:30Z">2017-02-10T11:26:30 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-11T00:50:11Z">2017-02-11T00:50:11 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -1500,7 +1637,7 @@ Syntax errors: 12909
 <span class="doublewidespan" style="padding-left:3em">UD Faroese</span>
 <span class="widespan">fo</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-10T11:26:43Z">2017-02-10T11:26:43 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-11T00:50:25Z">2017-02-11T00:50:25 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -1529,7 +1666,7 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang fo /home/ginter/UD_PROJ
 Format errors: 3
 Metadata errors: 14
 Syntax errors: 2
-The language-specific file %s does not exist.
+The language-specific file /home/ginter/UD_PROJHOOK/tools/data/tokens_w_space.fo does not exist.
 
 
 ******************
@@ -1691,7 +1828,7 @@ Format errors: 9061
 Metadata errors: 2842
 Morpho errors: 34
 Syntax errors: 1419
-The language-specific file %s does not exist.
+The language-specific file /home/ginter/UD_PROJHOOK/tools/data/tokens_w_space.fo does not exist.
 
 
 ******************
@@ -1703,7 +1840,7 @@ The language-specific file %s does not exist.
 <span class="doublewidespan" style="padding-left:3em">UD Finnish</span>
 <span class="widespan">fi</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-10T11:26:52Z">2017-02-10T11:26:52 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-11T00:50:33Z">2017-02-11T00:50:33 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -1854,7 +1991,7 @@ Syntax errors: 16265
 <span class="doublewidespan" style="padding-left:3em">UD Finnish-FTB</span>
 <span class="widespan">fi ftb</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-10T11:27:03Z">2017-02-10T11:27:03 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-11T00:50:45Z">2017-02-11T00:50:45 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -1879,7 +2016,7 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang fi_ftb /home/ginter/UD_
 <span class="doublewidespan" style="padding-left:3em">UD French</span>
 <span class="widespan">fr</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-10T11:27:13Z">2017-02-10T11:27:13 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-11T00:50:55Z">2017-02-11T00:50:55 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -2030,18 +2167,18 @@ Syntax errors: 30355
 <span class="doublewidespan" style="padding-left:3em">UD French-ParTUT</span>
 <span class="widespan">fr partut</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-10T11:35:03Z">2017-02-10T11:35:03 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-11T00:51:18Z">2017-02-11T00:51:18 zulu</time></span>
 </div>
 <div>
 <pre>
-python tools/validate.py --lang fr_partut UD-dev-branches/UD_French-ParTUT/fr_partut-ud-dev.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang fr_partut /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_French-ParTUT/fr_partut-ud-dev.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python tools/validate.py --lang fr_partut UD-dev-branches/UD_French-ParTUT/fr_partut-ud-train.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang fr_partut /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_French-ParTUT/fr_partut-ud-train.conllu
 
 *** PASSED ***
 
@@ -2055,7 +2192,7 @@ python tools/validate.py --lang fr_partut UD-dev-branches/UD_French-ParTUT/fr_pa
 <span class="doublewidespan" style="padding-left:3em">UD French-Sequoia</span>
 <span class="widespan">fr sequoia</span>
 <span class="validationfail">EMPTY</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-10T11:27:38Z">2017-02-10T11:27:38 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-11T00:51:19Z">2017-02-11T00:51:19 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -2066,7 +2203,7 @@ No data
 <span class="doublewidespan" style="padding-left:3em">UD Galician</span>
 <span class="widespan">gl</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-10T11:27:38Z">2017-02-10T11:27:38 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-11T00:51:19Z">2017-02-11T00:51:19 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -2216,21 +2353,63 @@ Syntax errors: 4346
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD Galician-TreeGal</span>
 <span class="widespan">gl treegal</span>
-<span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-10T11:27:43Z">2017-02-10T11:27:43 zulu</time></span>
+<span class="validationfail">FAIL</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-11T00:51:24Z">2017-02-11T00:51:24 zulu</time></span>
 </div>
 <div>
 <pre>
 python /home/ginter/UD_PROJHOOK/tools/validate.py --lang gl_treegal /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Galician-TreeGal/gl_treegal-ud-dev.conllu
 
-*** PASSED ***
+[Line                   49]: SpaceAfter=No is missing in the MISC field of node #25 because the text is 'lexislatura.'
+[Line                   71]: SpaceAfter=No is missing in the MISC field of node #3 because the text is 'dereita, outros part[...]'
+[Line                   71]: SpaceAfter=No is missing in the MISC field of node #9 because the text is 'foro, Paulo González[...]'
+[Line                   71]: SpaceAfter=No is missing in the MISC field of node #16 because the text is 'Villares.'
+[Line                   145]: SpaceAfter=No is missing in the MISC field of node #24 because the text is 'humanos, sociais e p[...]'
+[Line                   145]: SpaceAfter=No is missing in the MISC field of node #28 because the text is 'políticos, "non reco[...]'
+[Line                   145]: SpaceAfter=No is missing in the MISC field of node #30 because the text is '"non recoñecendo as [...]'
+[Line                   145]: SpaceAfter=No is missing in the MISC field of node #60 because the text is 'próximos".'
+[Line                   145]: SpaceAfter=No is missing in the MISC field of node #61 because the text is '".'
+[Line                   185]: SpaceAfter=No is missing in the MISC field of node #6 because the text is '"a liberdade, a xust[...]'
+[Line                   185]: SpaceAfter=No is missing in the MISC field of node #8 because the text is 'liberdade, a xustiza[...]'
+[Line                   185]: SpaceAfter=No is missing in the MISC field of node #11 because the text is 'xustiza, o benestar [...]'
+[Line                   185]: SpaceAfter=No is missing in the MISC field of node #34 because the text is 'territorio".'
+[Line                   185]: SpaceAfter=No is missing in the MISC field of node #35 because the text is '".'
+[Line                   236]: SpaceAfter=No is missing in the MISC field of node #6 because the text is '"o abranguido nos lí[...]'
+[Line                   236]: SpaceAfter=No is missing in the MISC field of node #16 because the text is 'Autónoma, sen prexuí[...]'
+[Line                   236]: SpaceAfter=No is missing in the MISC field of node #29 because the text is 'históricas, económic[...]'
+[Line                   236]: SpaceAfter=No is missing in the MISC field of node #31 because the text is 'económicas, culturai[...]'
+[Line                   236]: SpaceAfter=No is missing in the MISC field of node #36 because the text is 'análogas", de acordo[...]'
+...suppressing further errors regarding Metadata
+*** FAILED *** with 1090 errors
+Metadata errors: 1090
 
 
 ******************
 
 python /home/ginter/UD_PROJHOOK/tools/validate.py --lang gl_treegal /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Galician-TreeGal/gl_treegal-ud-train.conllu
 
-*** PASSED ***
+[Line                   22]: SpaceAfter=No is missing in the MISC field of node #4 because the text is 'autodeterminación, c[...]'
+[Line                   22]: SpaceAfter=No is missing in the MISC field of node #7 because the text is 'galega, presenza nas[...]'
+[Line                   22]: SpaceAfter=No is missing in the MISC field of node #16 because the text is 'autogoberno.'
+[Line                   118]: SpaceAfter=No is missing in the MISC field of node #9 because the text is 'unidade, "os galegos[...]'
+[Line                   118]: SpaceAfter=No is missing in the MISC field of node #11 because the text is '"os galegos e galega[...]'
+[Line                   118]: SpaceAfter=No is missing in the MISC field of node #23 because the text is 'política, cultural e[...]'
+[Line                   118]: SpaceAfter=No is missing in the MISC field of node #27 because the text is 'lingüística, o derei[...]'
+[Line                   118]: SpaceAfter=No is missing in the MISC field of node #58 because the text is 'global, legalizada e[...]'
+[Line                   118]: SpaceAfter=No is missing in the MISC field of node #62 because the text is 'institucionalizada, [...]'
+[Line                   118]: SpaceAfter=No is missing in the MISC field of node #83 because the text is 'partícipes".'
+[Line                   118]: SpaceAfter=No is missing in the MISC field of node #84 because the text is '".'
+[Line                   202]: SpaceAfter=No is missing in the MISC field of node #4 because the text is 'bases, a proposta as[...]'
+[Line                   202]: SpaceAfter=No is missing in the MISC field of node #9 because the text is '"como tarefa princip[...]'
+[Line                   202]: SpaceAfter=No is missing in the MISC field of node #28 because the text is 'intereses, así como [...]'
+[Line                   202]: SpaceAfter=No is missing in the MISC field of node #43 because the text is 'galego, ao abeiro da[...]'
+[Line                   202]: SpaceAfter=No is missing in the MISC field of node #52 because the text is 'galeguidade, entendi[...]'
+[Line                   202]: SpaceAfter=No is missing in the MISC field of node #64 because the text is 'social, cultural, ec[...]'
+[Line                   202]: SpaceAfter=No is missing in the MISC field of node #66 because the text is 'cultural, económica [...]'
+[Line                   202]: SpaceAfter=No is missing in the MISC field of node #73 because the text is 'nación".'
+...suppressing further errors regarding Metadata
+*** FAILED *** with 487 errors
+Metadata errors: 487
 
 
 ******************
@@ -2242,7 +2421,7 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang gl_treegal /home/ginter
 <span class="doublewidespan" style="padding-left:3em">UD German</span>
 <span class="widespan">de</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-10T11:27:44Z">2017-02-10T11:27:44 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-11T00:51:25Z">2017-02-11T00:51:25 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -2267,7 +2446,7 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang de /home/ginter/UD_PROJ
 <span class="doublewidespan" style="padding-left:3em">UD Gothic</span>
 <span class="widespan">got</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-10T11:28:01Z">2017-02-10T11:28:01 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-11T00:51:42Z">2017-02-11T00:51:42 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -2292,7 +2471,7 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang got /home/ginter/UD_PRO
 <span class="doublewidespan" style="padding-left:3em">UD Greek</span>
 <span class="widespan">el</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-10T11:28:04Z">2017-02-10T11:28:04 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-11T00:51:46Z">2017-02-11T00:51:46 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -2443,7 +2622,7 @@ Syntax errors: 2599
 <span class="doublewidespan" style="padding-left:3em">UD Hebrew</span>
 <span class="widespan">he</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-10T11:28:08Z">2017-02-10T11:28:08 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-11T00:51:49Z">2017-02-11T00:51:49 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -2594,7 +2773,7 @@ Syntax errors: 7237
 <span class="doublewidespan" style="padding-left:3em">UD Hindi</span>
 <span class="widespan">hi</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-10T11:28:17Z">2017-02-10T11:28:17 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-11T00:51:59Z">2017-02-11T00:51:59 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -2619,7 +2798,7 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang hi /home/ginter/UD_PROJ
 <span class="doublewidespan" style="padding-left:3em">UD Hungarian</span>
 <span class="widespan">hu</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-10T11:28:40Z">2017-02-10T11:28:40 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-11T00:52:23Z">2017-02-11T00:52:23 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -2770,7 +2949,7 @@ Syntax errors: 2668
 <span class="doublewidespan" style="padding-left:3em">UD Indonesian</span>
 <span class="widespan">id</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-10T11:28:43Z">2017-02-10T11:28:43 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-11T00:52:25Z">2017-02-11T00:52:25 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -2795,7 +2974,7 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang id /home/ginter/UD_PROJ
 <span class="doublewidespan" style="padding-left:3em">UD Irish</span>
 <span class="widespan">ga</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-10T11:28:48Z">2017-02-10T11:28:48 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-11T00:52:30Z">2017-02-11T00:52:30 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -2945,21 +3124,42 @@ Syntax errors: 824
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD Italian</span>
 <span class="widespan">it</span>
-<span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-10T19:27:09Z">2017-02-10T19:27:09 zulu</time></span>
+<span class="validationfail">FAIL</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-11T00:52:32Z">2017-02-11T00:52:32 zulu</time></span>
 </div>
 <div>
 <pre>
-python tools/validate.py --lang it UD-dev-branches/UD_Italian/it-ud-dev.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang it /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Italian/it-ud-dev.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python tools/validate.py --lang it UD-dev-branches/UD_Italian/it-ud-train.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang it /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Italian/it-ud-train.conllu
 
-*** PASSED ***
+[Line                   4880]: SpaceAfter=No is missing in the MISC field of node #14-15 because the text is 'alla" Mulieris digni[...]'
+[Line                   201394]: SpaceAfter=No is missing in the MISC field of node #47-48 because the text is 'nei:'
+[Line                   236798]: SpaceAfter=No is missing in the MISC field of node #32-33 because the text is 'nell’ospedale di Gre[...]'
+[Line                   237132]: SpaceAfter=No is missing in the MISC field of node #24-25 because the text is 'dell’ospedale di Gre[...]'
+[Line                   237155]: SpaceAfter=No is missing in the MISC field of node #15-16 because the text is 'dell’incidente.'
+[Line                   237370]: SpaceAfter=No is missing in the MISC field of node #23-24 because the text is 'dell’ospedale per l’[...]'
+[Line                   237461]: SpaceAfter=No is missing in the MISC field of node #18-19 because the text is 'all’ex compagno di s[...]'
+[Line                   237481]: SpaceAfter=No is missing in the MISC field of node #10-11 because the text is 'all’ospedale di Gren[...]'
+[Line                   237499]: SpaceAfter=No is missing in the MISC field of node #9-10 because the text is 'dell’ex ferrarista.'
+[Line                   237779]: SpaceAfter=No is missing in the MISC field of node #5-6 because the text is 'nell’apprendere che [...]'
+[Line                   238320]: SpaceAfter=No is missing in the MISC field of node #3-4 because the text is 'dell’anno nuovo avrà[...]'
+[Line                   238394]: SpaceAfter=No is missing in the MISC field of node #3-4 because the text is 'dell’anno nuovo sarà[...]'
+[Line                   238590]: SpaceAfter=No is missing in the MISC field of node #29-30 because the text is 'dell’episcopato mond[...]'
+[Line                   239129]: SpaceAfter=No is missing in the MISC field of node #6-7 because the text is 'all’ospedale di Subi[...]'
+[Line                   239240]: SpaceAfter=No is missing in the MISC field of node #19-20 because the text is 'dall’altra, è entrat[...]'
+[Line                   239358]: SpaceAfter=No is missing in the MISC field of node #2-3 because the text is 'all’Arma dei carabin[...]'
+[Line                   239751]: SpaceAfter=No is missing in the MISC field of node #9-10 because the text is 'dell’operazione Veba[...]'
+[Line                   239815]: SpaceAfter=No is missing in the MISC field of node #16-17 because the text is 'dell’attuale contrat[...]'
+[Line                   239868]: SpaceAfter=No is missing in the MISC field of node #13-14 because the text is 'dell’operazione con [...]'
+...suppressing further errors regarding Metadata
+*** FAILED *** with 30 errors
+Metadata errors: 30
 
 
 ******************
@@ -2971,18 +3171,18 @@ python tools/validate.py --lang it UD-dev-branches/UD_Italian/it-ud-train.conllu
 <span class="doublewidespan" style="padding-left:3em">UD Italian-ParTUT</span>
 <span class="widespan">it partut</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-10T13:47:41Z">2017-02-10T13:47:41 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-11T00:52:45Z">2017-02-11T00:52:45 zulu</time></span>
 </div>
 <div>
 <pre>
-python tools/validate.py --lang it_partut UD-dev-branches/UD_Italian-ParTUT/it_partut-ud-dev.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang it_partut /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Italian-ParTUT/it_partut-ud-dev.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python tools/validate.py --lang it_partut UD-dev-branches/UD_Italian-ParTUT/it_partut-ud-train.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang it_partut /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Italian-ParTUT/it_partut-ud-train.conllu
 
 *** PASSED ***
 
@@ -2996,7 +3196,7 @@ python tools/validate.py --lang it_partut UD-dev-branches/UD_Italian-ParTUT/it_p
 <span class="doublewidespan" style="padding-left:3em">UD Japanese</span>
 <span class="widespan">ja</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-10T11:29:06Z">2017-02-10T11:29:06 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-11T00:52:47Z">2017-02-11T00:52:47 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -3063,7 +3263,7 @@ Metadata errors: 24831
 <span class="doublewidespan" style="padding-left:3em">UD Japanese-KTC</span>
 <span class="widespan">ja ktc</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-10T11:29:14Z">2017-02-10T11:29:14 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-11T00:52:56Z">2017-02-11T00:52:56 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -3213,14 +3413,16 @@ Syntax errors: 9850
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD Kazakh</span>
 <span class="widespan">kk</span>
-<span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-10T11:29:22Z">2017-02-10T11:29:22 zulu</time></span>
+<span class="validationfail">FAIL</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-11T00:53:04Z">2017-02-11T00:53:04 zulu</time></span>
 </div>
 <div>
 <pre>
 python /home/ginter/UD_PROJHOOK/tools/validate.py --lang kk /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Kazakh/kk-ud-dev.conllu
 
-*** PASSED ***
+[Line                   12]: SpaceAfter=No is missing in the MISC field of node #8 because the text is 'болады.'
+*** FAILED *** with 1 errors
+Metadata errors: 1
 
 
 ******************
@@ -3232,7 +3434,7 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang kk /home/ginter/UD_PROJ
 <span class="doublewidespan" style="padding-left:3em">UD Korean</span>
 <span class="widespan">ko</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-10T11:29:23Z">2017-02-10T11:29:23 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-11T00:53:04Z">2017-02-11T00:53:04 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -3257,7 +3459,7 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang ko /home/ginter/UD_PROJ
 <span class="doublewidespan" style="padding-left:3em">UD Kurmanji</span>
 <span class="widespan">kmr</span>
 <span class="validationfail">EMPTY</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-10T11:29:25Z">2017-02-10T11:29:25 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-11T00:53:07Z">2017-02-11T00:53:07 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -3268,7 +3470,7 @@ No data
 <span class="doublewidespan" style="padding-left:3em">UD Latin</span>
 <span class="widespan">la</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-10T11:29:25Z">2017-02-10T11:29:25 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-11T00:53:07Z">2017-02-11T00:53:07 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -3419,7 +3621,7 @@ Syntax errors: 4790
 <span class="doublewidespan" style="padding-left:3em">UD Latin-ITTB</span>
 <span class="widespan">la ittb</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-10T11:29:28Z">2017-02-10T11:29:28 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-11T00:53:10Z">2017-02-11T00:53:10 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -3444,7 +3646,7 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang la_ittb /home/ginter/UD
 <span class="doublewidespan" style="padding-left:3em">UD Latin-PROIEL</span>
 <span class="widespan">la proiel</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-10T11:29:49Z">2017-02-10T11:29:49 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-11T00:53:30Z">2017-02-11T00:53:30 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -3469,7 +3671,7 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang la_proiel /home/ginter/
 <span class="doublewidespan" style="padding-left:3em">UD Latvian</span>
 <span class="widespan">lv</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-10T11:30:00Z">2017-02-10T11:30:00 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-11T00:53:40Z">2017-02-11T00:53:40 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -3620,7 +3822,7 @@ Syntax errors: 1019
 <span class="doublewidespan" style="padding-left:3em">UD Marathi</span>
 <span class="widespan">mr</span>
 <span class="validationfail">EMPTY</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-10T11:30:01Z">2017-02-10T11:30:01 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-11T00:53:41Z">2017-02-11T00:53:41 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -3631,18 +3833,18 @@ No data
 <span class="doublewidespan" style="padding-left:3em">UD Norwegian-Bokmaal</span>
 <span class="widespan">no bokmaal</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-10T18:45:43Z">2017-02-10T18:45:43 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-11T00:53:41Z">2017-02-11T00:53:41 zulu</time></span>
 </div>
 <div>
 <pre>
-python tools/validate.py --lang no_bokmaal UD-dev-branches/UD_Norwegian-Bokmaal/no_bokmaal-ud-dev.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang no_bokmaal /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Norwegian-Bokmaal/no_bokmaal-ud-dev.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python tools/validate.py --lang no_bokmaal UD-dev-branches/UD_Norwegian-Bokmaal/no_bokmaal-ud-train.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang no_bokmaal /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Norwegian-Bokmaal/no_bokmaal-ud-train.conllu
 
 *** PASSED ***
 
@@ -3656,18 +3858,18 @@ python tools/validate.py --lang no_bokmaal UD-dev-branches/UD_Norwegian-Bokmaal/
 <span class="doublewidespan" style="padding-left:3em">UD Norwegian-Nynorsk</span>
 <span class="widespan">no nynorsk</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-10T18:46:58Z">2017-02-10T18:46:58 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-11T00:53:58Z">2017-02-11T00:53:58 zulu</time></span>
 </div>
 <div>
 <pre>
-python tools/validate.py --lang no_nynorsk UD-dev-branches/UD_Norwegian-Nynorsk/no_nynorsk-ud-dev.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang no_nynorsk /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Norwegian-Nynorsk/no_nynorsk-ud-dev.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python tools/validate.py --lang no_nynorsk UD-dev-branches/UD_Norwegian-Nynorsk/no_nynorsk-ud-train.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang no_nynorsk /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Norwegian-Nynorsk/no_nynorsk-ud-train.conllu
 
 *** PASSED ***
 
@@ -3681,7 +3883,7 @@ python tools/validate.py --lang no_nynorsk UD-dev-branches/UD_Norwegian-Nynorsk/
 <span class="doublewidespan" style="padding-left:3em">UD Old Church Slavonic</span>
 <span class="widespan">cu</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-10T11:30:34Z">2017-02-10T11:30:34 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-11T00:54:15Z">2017-02-11T00:54:15 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -3832,7 +4034,7 @@ Syntax errors: 4690
 <span class="doublewidespan" style="padding-left:3em">UD Persian</span>
 <span class="widespan">fa</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-10T11:30:39Z">2017-02-10T11:30:39 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-11T00:54:19Z">2017-02-11T00:54:19 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -3983,7 +4185,7 @@ Syntax errors: 7510
 <span class="doublewidespan" style="padding-left:3em">UD Polish</span>
 <span class="widespan">pl</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-10T11:30:46Z">2017-02-10T11:30:46 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-11T00:54:27Z">2017-02-11T00:54:27 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -4008,12 +4210,13 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang pl /home/ginter/UD_PROJ
 <span class="doublewidespan" style="padding-left:3em">UD Portuguese</span>
 <span class="widespan">pt</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-11T00:11:33Z">2017-02-11T00:11:33 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-11T00:54:32Z">2017-02-11T00:54:32 zulu</time></span>
 </div>
 <div>
 <pre>
-python tools/validate.py --lang pt UD-dev-branches/UD_Portuguese/pt-ud-dev.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang pt /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Portuguese/pt-ud-dev.conllu
 
+[Line                   528]: SpaceAfter=No is missing in the MISC field of node #9 because the text is 'Automóveis, Leonardo[...]'
 [Line                   528]: Mismatch between the text attribute and the FORM field. Form is '(' but text is ', Leonardo Romanioli ...'
 [Line                   528]: Mismatch between the text attribute and the FORM field. Form is 'Leonardo' but text is ', Leonardo Romanioli Filho, ...'
 [Line                   528]: Mismatch between the text attribute and the FORM field. Form is 'Romanioli' but text is ', Leonardo Romanioli Filho, e...'
@@ -4032,15 +4235,14 @@ python tools/validate.py --lang pt UD-dev-branches/UD_Portuguese/pt-ud-dev.conll
 [Line                   4788]: Mismatch between the text attribute and the FORM field. Form is ',' but text is ' Estados Unidos, Fran...'
 [Line                   4788]: Mismatch between the text attribute and the FORM field. Form is 'Estados' but text is ' Estados Unidos, França e I...'
 [Line                   4788]: Mismatch between the text attribute and the FORM field. Form is 'Unidos' but text is ' Estados Unidos, França e ...'
-[Line                   4788]: Mismatch between the text attribute and the FORM field. Form is ',' but text is ' Estados Unidos, Fran...'
 ...suppressing further errors regarding Metadata
-*** FAILED *** with 54 errors
-Metadata errors: 54
+*** FAILED *** with 56 errors
+Metadata errors: 56
 
 
 ******************
 
-python tools/validate.py --lang pt UD-dev-branches/UD_Portuguese/pt-ud-train.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang pt /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Portuguese/pt-ud-train.conllu
 
 [Line                   1281]: Mismatch between the text attribute and the FORM field. Form is 'teve' but text is 'PÚBLICO teve acesso -- t...'
 [Line                   1281]: Mismatch between the text attribute and the FORM field. Form is 'acesso' but text is 'PÚBLICO teve acesso -- tra...'
@@ -4062,8 +4264,8 @@ python tools/validate.py --lang pt UD-dev-branches/UD_Portuguese/pt-ud-train.con
 [Line                   1281]: Mismatch between the text attribute and the FORM field. Form is 'por' but text is 'PÚBLICO teve acesso -- ...'
 [Line                   1281]: Mismatch between the text attribute and the FORM field. Form is 'cento' but text is 'PÚBLICO teve acesso -- tr...'
 ...suppressing further errors regarding Metadata
-*** FAILED *** with 2733 errors
-Metadata errors: 2733
+*** FAILED *** with 2788 errors
+Metadata errors: 2788
 
 
 ******************
@@ -4075,7 +4277,7 @@ Metadata errors: 2733
 <span class="doublewidespan" style="padding-left:3em">UD Portuguese-BR</span>
 <span class="widespan">pt br</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-10T11:31:06Z">2017-02-10T11:31:06 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-11T00:54:47Z">2017-02-11T00:54:47 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -4100,7 +4302,7 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang pt_br /home/ginter/UD_P
 <span class="doublewidespan" style="padding-left:3em">UD Romanian</span>
 <span class="widespan">ro</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-10T11:31:21Z">2017-02-10T11:31:21 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-11T00:55:01Z">2017-02-11T00:55:01 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -4193,11 +4395,11 @@ Syntax errors: 20917
 <span class="doublewidespan" style="padding-left:3em">UD Russian</span>
 <span class="widespan">ru</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-10T19:02:20Z">2017-02-10T19:02:20 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-11T00:55:15Z">2017-02-11T00:55:15 zulu</time></span>
 </div>
 <div>
 <pre>
-python tools/validate.py --lang ru UD-dev-branches/UD_Russian/ru-ud-dev.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang ru /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Russian/ru-ud-dev.conllu
 
 [Line                   10]: Unknown UPOS tag: CONJ
 [Line                   13]: Missing the sent_id attribute.
@@ -4267,7 +4469,7 @@ Syntax errors: 645
 
 ******************
 
-python tools/validate.py --lang ru UD-dev-branches/UD_Russian/ru-ud-train.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang ru /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Russian/ru-ud-train.conllu
 
 [Line                   7]: Unknown UPOS tag: CONJ
 [Line                   13]: Unknown UD DEPREL: dobj
@@ -4344,7 +4546,7 @@ Syntax errors: 4620
 <span class="doublewidespan" style="padding-left:3em">UD Russian-SynTagRus</span>
 <span class="widespan">ru syntagrus</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-10T11:31:42Z">2017-02-10T11:31:42 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-11T00:55:22Z">2017-02-11T00:55:22 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -4495,7 +4697,7 @@ Syntax errors: 51963
 <span class="doublewidespan" style="padding-left:3em">UD Sanskrit</span>
 <span class="widespan">sa</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-10T11:32:43Z">2017-02-10T11:32:43 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-11T00:56:25Z">2017-02-11T00:56:25 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -4520,7 +4722,7 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang sa /home/ginter/UD_PROJ
 <span class="doublewidespan" style="padding-left:3em">UD Serbian</span>
 <span class="widespan">sr</span>
 <span class="validationfail">EMPTY</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-10T11:32:43Z">2017-02-10T11:32:43 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-11T00:56:25Z">2017-02-11T00:56:25 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -4531,7 +4733,7 @@ No data
 <span class="doublewidespan" style="padding-left:3em">UD Slovak</span>
 <span class="widespan">sk</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-10T11:32:43Z">2017-02-10T11:32:43 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-11T00:56:25Z">2017-02-11T00:56:25 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -4555,8 +4757,8 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang sk /home/ginter/UD_PROJ
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD Slovenian</span>
 <span class="widespan">sl</span>
-<span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-10T11:32:50Z">2017-02-10T11:32:50 zulu</time></span>
+<span class="validationfail">FAIL</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-11T00:56:32Z">2017-02-11T00:56:32 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -4569,7 +4771,25 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang sl /home/ginter/UD_PROJ
 
 python /home/ginter/UD_PROJHOOK/tools/validate.py --lang sl /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Slovenian/sl-ud-train.conllu
 
-*** PASSED ***
+[Line                   13649]: SpaceAfter=No is missing in the MISC field of node #9 because the text is 'CFME-ACTIM je v sode[...]'
+[Line                   13649]: SpaceAfter=No is missing in the MISC field of node #10 because the text is '-ACTIM je v sodelova[...]'
+[Line                   13649]: SpaceAfter=No is missing in the MISC field of node #23 because the text is 'd.o.o. organiziral k[...]'
+[Line                   13649]: SpaceAfter=No is missing in the MISC field of node #24 because the text is 'o.o. organiziral kon[...]'
+[Line                   29906]: SpaceAfter=No is missing in the MISC field of node #6 because the text is 'd.d. in bralcem Dnev[...]'
+[Line                   50320]: SpaceAfter=No is missing in the MISC field of node #5 because the text is 'Mandatno-imunitetne [...]'
+[Line                   50320]: SpaceAfter=No is missing in the MISC field of node #6 because the text is '-imunitetne komisije[...]'
+[Line                   54800]: SpaceAfter=No is missing in the MISC field of node #5 because the text is 'HSLS-DC s tremi posl[...]'
+[Line                   54800]: SpaceAfter=No is missing in the MISC field of node #6 because the text is '-DC s tremi poslanci[...]'
+[Line                   60324]: SpaceAfter=No is missing in the MISC field of node #10 because the text is 'Said-Guerni z 1:44,32.'
+[Line                   60324]: SpaceAfter=No is missing in the MISC field of node #11 because the text is '-Guerni z 1:44,32.'
+[Line                   66651]: SpaceAfter=No is missing in the MISC field of node #34 because the text is 'ZDSS-1 bolj omejeno.'
+[Line                   66651]: SpaceAfter=No is missing in the MISC field of node #35 because the text is '-1 bolj omejeno.'
+[Line                   66723]: SpaceAfter=No is missing in the MISC field of node #3 because the text is 'ZDSS-1 ne dopušča ve[...]'
+[Line                   66723]: SpaceAfter=No is missing in the MISC field of node #4 because the text is '-1 ne dopušča več mi[...]'
+[Line                   74063]: SpaceAfter=No is missing in the MISC field of node #23 because the text is 'TE-TOL skupno kupila[...]'
+[Line                   74063]: SpaceAfter=No is missing in the MISC field of node #24 because the text is '-TOL skupno kupila d[...]'
+*** FAILED *** with 17 errors
+Metadata errors: 17
 
 
 ******************
@@ -4581,7 +4801,7 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang sl /home/ginter/UD_PROJ
 <span class="doublewidespan" style="padding-left:3em">UD Slovenian-SST</span>
 <span class="widespan">sl sst</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-10T11:32:59Z">2017-02-10T11:32:59 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-11T00:56:41Z">2017-02-11T00:56:41 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -4606,7 +4826,7 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang sl_sst /home/ginter/UD_
 <span class="doublewidespan" style="padding-left:3em">UD Somali</span>
 <span class="widespan">so</span>
 <span class="validationfail">EMPTY</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-10T11:33:00Z">2017-02-10T11:33:00 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-11T00:56:42Z">2017-02-11T00:56:42 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -4617,7 +4837,7 @@ No data
 <span class="doublewidespan" style="padding-left:3em">UD Sorani</span>
 <span class="widespan">ckb</span>
 <span class="validationfail">EMPTY</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-10T11:33:00Z">2017-02-10T11:33:00 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-11T00:56:42Z">2017-02-11T00:56:42 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -4628,7 +4848,7 @@ No data
 <span class="doublewidespan" style="padding-left:3em">UD Spanish</span>
 <span class="widespan">es</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-10T11:33:00Z">2017-02-10T11:33:00 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-11T00:56:42Z">2017-02-11T00:56:42 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -4653,7 +4873,7 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang es /home/ginter/UD_PROJ
 <span class="doublewidespan" style="padding-left:3em">UD Spanish-AnCora</span>
 <span class="widespan">es ancora</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-10T11:33:25Z">2017-02-10T11:33:25 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-11T00:57:08Z">2017-02-11T00:57:08 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -4678,7 +4898,7 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang es_ancora /home/ginter/
 <span class="doublewidespan" style="padding-left:3em">UD Swedish</span>
 <span class="widespan">sv</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-10T11:33:56Z">2017-02-10T11:33:56 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-11T00:57:39Z">2017-02-11T00:57:39 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -4702,19 +4922,21 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang sv /home/ginter/UD_PROJ
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD Swedish-LinES</span>
 <span class="widespan">sv lines</span>
-<span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-10T15:33:37Z">2017-02-10T15:33:37 zulu</time></span>
+<span class="validationfail">FAIL</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-11T00:57:44Z">2017-02-11T00:57:44 zulu</time></span>
 </div>
 <div>
 <pre>
-python tools/validate.py --lang sv_lines UD-dev-branches/UD_Swedish-LinES/sv_lines-ud-dev.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang sv_lines /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Swedish-LinES/sv_lines-ud-dev.conllu
 
-*** PASSED ***
+[Line                   15700]: SpaceAfter=No is missing in the MISC field of node #13 because the text is ':... det där var Hja[...]'
+*** FAILED *** with 1 errors
+Metadata errors: 1
 
 
 ******************
 
-python tools/validate.py --lang sv_lines UD-dev-branches/UD_Swedish-LinES/sv_lines-ud-train.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang sv_lines /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Swedish-LinES/sv_lines-ud-train.conllu
 
 *** PASSED ***
 
@@ -4728,7 +4950,7 @@ python tools/validate.py --lang sv_lines UD-dev-branches/UD_Swedish-LinES/sv_lin
 <span class="doublewidespan" style="padding-left:3em">UD Swedish Sign Language</span>
 <span class="widespan">swl</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-10T11:34:04Z">2017-02-10T11:34:04 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-11T00:57:47Z">2017-02-11T00:57:47 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -4808,7 +5030,7 @@ Syntax errors: 11
 <span class="doublewidespan" style="padding-left:3em">UD Tamil</span>
 <span class="widespan">ta</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-10T11:34:04Z">2017-02-10T11:34:04 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-11T00:57:47Z">2017-02-11T00:57:47 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -4833,7 +5055,7 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang ta /home/ginter/UD_PROJ
 <span class="doublewidespan" style="padding-left:3em">UD Turkish</span>
 <span class="widespan">tr</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-10T11:34:05Z">2017-02-10T11:34:05 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-11T00:57:48Z">2017-02-11T00:57:48 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -4984,7 +5206,7 @@ Syntax errors: 3393
 <span class="doublewidespan" style="padding-left:3em">UD Ukrainian</span>
 <span class="widespan">uk</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-10T11:34:08Z">2017-02-10T11:34:08 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-11T00:57:52Z">2017-02-11T00:57:52 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -5107,7 +5329,7 @@ Syntax errors: 139
 <span class="doublewidespan" style="padding-left:3em">UD Urdu</span>
 <span class="widespan">ur</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-10T11:34:08Z">2017-02-10T11:34:08 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-11T00:57:52Z">2017-02-11T00:57:52 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -5132,7 +5354,7 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang ur /home/ginter/UD_PROJ
 <span class="doublewidespan" style="padding-left:3em">UD Uyghur</span>
 <span class="widespan">ug</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-10T11:34:17Z">2017-02-10T11:34:17 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-11T00:58:01Z">2017-02-11T00:58:01 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -5150,7 +5372,7 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang ug /home/ginter/UD_PROJ
 <span class="doublewidespan" style="padding-left:3em">UD Vietnamese</span>
 <span class="widespan">vi</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-10T11:34:17Z">2017-02-10T11:34:17 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-11T00:58:01Z">2017-02-11T00:58:01 zulu</time></span>
 </div>
 <div>
 <pre>
