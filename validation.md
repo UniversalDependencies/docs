@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-02-11T11:12:03Z">2017-02-11T11:12:03 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-02-11T12:15:37Z">2017-02-11T12:15:37 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -833,24 +833,21 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang cs /home/ginter/UD_PROJ
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD Czech-CAC</span>
 <span class="widespan">cs cac</span>
-<span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-11T00:48:45Z">2017-02-11T00:48:45 zulu</time></span>
+<span class="validationpass">PASS</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-11T12:14:58Z">2017-02-11T12:14:58 zulu</time></span>
 </div>
 <div>
 <pre>
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang cs_cac /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Czech-CAC/cs_cac-ud-dev.conllu
+python tools/validate.py --lang cs_cac UD-dev-branches/UD_Czech-CAC/cs_cac-ud-dev.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang cs_cac /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Czech-CAC/cs_cac-ud-train.conllu
+python tools/validate.py --lang cs_cac UD-dev-branches/UD_Czech-CAC/cs_cac-ud-train.conllu
 
-[Line                   34800]: SpaceAfter=No is missing in the MISC field of node #13-14 because the text is 'abyste, pokud bude p[...]'
-[Line                   221303]: SpaceAfter=No is missing in the MISC field of node #3-4 because the text is 'kdyby, neprozradil b[...]'
-*** FAILED *** with 2 errors
-Metadata errors: 2
+*** PASSED ***
 
 
 ******************
