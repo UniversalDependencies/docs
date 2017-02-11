@@ -21,7 +21,8 @@ Some special cases worth mentioning:
 * Numerical expressions with hyphen and cyrillic endings (e.g. <b>1-ый</b> “1st”, <b>3-м</b> “3rd.Ins”) as well as adjectives and other non-numerals which contain digits (e.g. <b>79-гадовы</b> “79 year old”, <b>500-годдзе</b> “500th anniversary”) are treated as single tokens. 
 * Other words with hyphen are treated as single tokens, except for the cases then the first part is inflected. Examples: { <b>з-за</b> } “because of”, { <b>зялёна-шэрых</b> } “green-gray”, { <b>Санкт-Пецярбург</b> } “St. Petersburg”, but { <b>Ростове</b> , <b>-</b> , <b>на</b> , <b>-</b> , <b>Дону</b>} “(in) Rostov on Don”. 
 * Abbreviations are treated as single tokens, whitespaces split the abbreviations.
-* Abbreviations marked by a period, as in <b>стр.</b> “p. (page)”, <b>П.</b> “P. (for Peter)”, are treated as single tokens. If the period overlaps with the end of sentence period then it is written once as a separate token (denoting end-of-sentence), e.g. { <b>1914</b> , <b>г</b> , <b>.</b> “year 1914”}.
+* Abbreviations marked by a period, as in <b>стр.</b> “p. (page)”, <b>П.</b> “P. (for Peter)”, are treated as single tokens. If the period overlaps with the end of sentence period then it is written once as a separate token (denoting end-of-sentence), e.g. { <b>1914</b> , <b>г</b> , <b>.</b> } “year 1914”.
+* Abbreviations can not contain a period inside, i.e. the patterns like <b>і т.д.</b> “and so on”, <b>да т.п.</b> “and so forth” are splitted into three tokens: { <b>i</b> , <b>т.</b> , <b>д.</b> }, { <b>да</b> , <b>т.</b> , <b>п.</b> }. 
 * Email addresses, URLs, and tweet-style names are treated as single tokens: {no@mail.ru}, {https://github.com}, {@anna_li}
 
 The Belarusian UD treebank does not contain multiword tokens.
