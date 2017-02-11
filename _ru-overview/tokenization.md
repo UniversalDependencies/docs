@@ -7,112 +7,39 @@ permalink: ru/overview/tokenization.html
 
 # Tokenization
 
-The low-level tokenization of the Czech UD treebank follows the tokenization of the
-[Prague Dependency Treebank 3.0](http://ufal.mff.cuni.cz/pdt3.0) (PDT):
+The low-level tokenization of the Russian UD treebanks generally adopt the RNC standard.
 
-* In general, tokens are delimited by whitespace.
+* In general, tokens are delimited by whitespace. The regexp [А-zА-яЁё\-]+ usually corresponds to one token.
 * Punctuation (recognized by the corresponding Unicode property) that is conventionally written adjacent to the preceding or following word is separated during tokenization.
-  Some special cases worth mentioning:
-  * An abbreviation marked by a period, as in *atd.* “etc.”, becomes two tokens, *<b>atd</b>* and *<b>.</b>*. The same holds for ordinal numbers *(<b>1.</b>)*
-  * A compound containing a hyphen becomes three tokens (two words and the hyphen), as in *česko-slovenský* “Czech-Slovak”, *česko-německý* “Czech-German” or *německo-český* “German-Czech”.
-    In these cases, the first token is a special form of adjective that never occurs independently.
-    Compounds without a hyphen are not split, thus _středopravý_ “right-centrist” is one token but _středo-pravý_ would be three tokens.
-    Another common case of splitting-on-hyphen is the conjunction _li_ “if”, attached to verbs as in _bude-li_ “if will be”.
-  * Exception: Decimal numbers are normalized (the Czech decimal comma is converted to the English decimal point) and kept as one token, e.g. *<b>2.1</b>*.
-* Most of the time, every punctuation character constitutes a token of its own. Thus *<b>...</b>* will become three tokens.
+* Each punctuation mark is treated as a single token, e.g. the following sequence: <b>)", -</b> becomes four tokens, <b>)</b> , <b>"</b>, <b>,</b>, and <b>-"</b>. Exceptions are conventional multi-character punctuation marks: <b>--</b> , <b>...</b> , <b>?!</b> ,  etc., and emojis and smileys: <b>:)</b> , <b>^_^</b>, etc.
+* Conventional non-cyrillic multi-character terms are tokenized as single tokens: <b>°С</b>. 
 
-## Words and Tokens
+Some special cases worth mentioning: 
+* Numerical expressions including decimal numbers, such as <b>245</b>, <b>3,14</b>, are treated as single tokens. 
+* Time expressions like <b>20:55</b> are splitted into separate tokens (in this case, three { <b>20</b> , <b>:</b> , <b>55</b> }). 
+* Dates like <b>20.04.2012</b> are splitted into separate tokens (in this case, five { <b>20</b> , <b>.</b> , <b>04</b> , <b>.</b> , <b>2012</b> }). 
+* Special symbols before and after numerical expressions, as in <b>$500</b> , <b>2,67%</b> , <b>+27°С</b> , are tokenised separately (so, the tokens are { <b>$</b> , <b>500</b> } , { <b>2,67</b> , <b>%</b> } , { <b>+</b> , <b>27</b> , <b>°С</b> }). 
+* Numerical expressions with hyphen and cyrillic endings (e.g. <b>1-ый</b> “1st”, <b>3-м</b> “3rd.Ins”) as well as adjectives and other non-numerals which contain digits (e.g. <b>79-летний</b> “79 year old”, <b>500-летие</b> “500th anniversary”) are treated as single tokens. 
+* Other words with hyphen are treated as single tokens, except for the cases then the first part is inflected. Examples: { <b>из-за</b> } “because of”, { <b>зелено-серых</b> } “green-gray”, { <b>Санкт-Петербург</b> } “St. Petersburg”, but { <b>Ростове</b> , <b>-</b> , <b>на</b> , <b>-</b> , <b>Дону</b>} “(in) Rostov on Don”. 
+* The discoursive particles <b>-то</b> and <b>-с</b> are tokenised separately, e.g. Вася-то { <b>Вася</b> , <b>-</b> , <b>то</b> }. Exception: indefinite pronouns and adverbs, see below.
+* Abbreviations are treated as single tokens, whitespaces split the abbreviations.
+* Abbreviations marked by a period, as in <b>стр.</b> “p. (page)”, <b>П.</b> “P. (for Peter)”, are treated as single tokens. If the period overlaps with the end of sentence period then it is written once as a separate token (denoting end-of-sentence), e.g. { <b>1914</b> , <b>г</b> , <b>.</b> } “year 1914”.
+* Abbreviations can not contain a period inside, i.e. the patterns like <b>и т.д.</b> “and so on”, <b>и т.п.</b> “and so forth” are splitted into three tokens: { <b>и</b> , <b>т.</b> , <b>д.</b> }, { <b>и</b> , <b>т.</b> , <b>п.</b> }. 
+* Email addresses, URLs, and tweet-style names are treated as single tokens: {no@mail.ru}, {https://github.com}, {@anna_li}
 
-In Czech there are fused words that correspond to multiple syntactic words.
-The original PDT data use special part-of-speech tags to identify fused words,
-nevertheless the fused token is not split in PDT and it corresponds to just one node in the dependency tree.
-(Note: An exception was the splitting of *aby* and *kdyby* in PDT 1.0 but it was abandoned in later versions.)
+The Russian UD treebanks does not contain multiword tokens. (UD_Russian-Syntagrus treebank v.1.3 and v.1.4 contained multitokens following the Syntagrus standard).
 
-In contrast, the UD format requires that certain types of fused words be split.
-We say that there is a multi-word token consisting of several syntactic words, each having its own node in the tree
-(see also <a href="../../u/overview/tokenization.html">universal tokenization</a>).
+### Pronouns and adverbs
 
-### Preposition + Personal Pronoun *on* in the Accusative *(něj)*
+* Indefinite pronouns and adverbs like <b>кто-нибудь</b>, <b>кто-либо</b>, <b>кто-то</b>, <b>кое-кто</b> “someone, somebody”, etc. are treated as a single token. 
+* In preposition phrases, the pronouns with <b>кое-</b> are splitted into three tokens: <b>кое к кому</b> { <b>кое</b> , <b>к</b> , <b>кому</b> } “to someone”. 
+* Negative pronouns, adverbs and adverbial predicatives are tokenized as single tokens, e.g. <b>никто</b> “no one”, <b>никакой</b> “no, neither”, <b>нигде</b> “nowhere”, <b>негде</b> “there is no place”. However, in preposition phrases the negative pronouns and predicatives are splitted into three tokens: <b>ни к кому</b> { <b>ни</b> , <b>к</b> , <b>кому</b> } “to no one”, <b>не от кого</b> { <b>не</b> , <b>от</b> , <b>кого</b> }“there is no one”. 
 
-* _proň_ = _pro něj_ = “for him”
-* _naň_ = _na něj_ = “on him”
-* _oň_ = _o něj_ = “about him”
-* _zaň_ = _za něj_ = “behind/for him”
+### Verb forms, analytical grammatical forms, negation
 
-This category covers words that would be tagged by the PDT tag `P0-------------`.
-However, no such word occurs in the PDT 3.0 data.
+* reflexive verbs are kept as a single token (orthographic rule): <b>моется</b> “wash oneself”, <b>пройтись</b> “to have a walk”.  
+* the forms of subjunctive mood, analytical passive, complex future tense, complex comparatives, etc. are splitted
+according to the orthographic principle: { <b>могли</b> , <b>бы</b> } “would be able, could”, { <b>были</b> , <b>зафиксированы</b> } “were recorded”, { <b>будет</b> , <b>держаться</b> } “will be held”, { <b>более</b> , <b>серьезные</b> } “more serious”. 
+* <b>не</b> and <b>ни</b> used as negation markers with verbs, pronouns and other words are tokenized according to the orthographic rules: { <b>не</b> , <b>реагируя</b> } “not reacting”, { <b>ни</b> , <b>в</b> , <b>какую</b> } “in no way”, but { <b>непоправимый</b> } “irrecoverable”, { <b>назавершенный</b> } “not finished”, { <b>никаких</b> } “no one”.
+* <b>пол-</b> and <b>полу-</b> “half” are never kept separate: <b>поллитра</b> “half a liter”, <b>пол-яблока</b> “half an apple”, <b>полубезработный</b> “almost unemployed”. 
 
-### Preposition + Interrogative/Relative Pronoun *co* in the Accusative
-
-* _nač_ = _na co_ = “on what”
-* _oč_ = _o co_ = “about what”
-* _zač_ = _za co_ = “behind/for what”
-
-This category covers words that would be tagged by the PDT tag `PY-------------`.
-No such word occurs in the PDT 3.0 data but there are a few occurrences in the CAC 2.0 data.
-
-Note: There is another analogically fused word, _proč_ “why”. In contrast to the above, _proč_ has grammaticalized
-into an interrogative/relative adverb. It is more frequent than the three fusions listed above but it is not used
-to replace a prepositional object. We do not split it into _pro co_.
-
-### Participle, Pronoun or Subordinating Conjunction + the Auxiliary *být* in the 2nd Person Singular *(jsi)*
-
-* _udělals_ = _udělal jsi_ = “you have done”
-* _tys_ = _ty jsi_ = “you have”
-* _ses_ = _jsi se (se jsi)_ = “you have … yourself”
-* _sis_ = _jsi si (si jsi)_ = “you have … yourself”
-* _cos_ = _co jsi_ = “what you have”
-* _tos_ = _to jsi_ = “you have … that”
-* _žes_ = _že jsi_ = “that you have”
-
-Note: This rule does not include the words _bys, abys_ and _kdybys._
-They resemble the words above but _bys_ is an independent form of the auxiliary verb _být_ “to be”,
-and _abys_ and _kdybys_ are in fact fused words, but they were formed using _bys,_ not _jsi._
-
-This category does not have its own tag in PDT.
-The _ses, sis_ pronouns are `P7.*` pronouns with the second person.
-The _tys_ pronoun can be distinguished by having more verbal features in its tag (`PP-S1--2P-AA---`) than _ty_ (`PP-S1--2-------`).
-The _žes_ conjunction is tagged `J,-S---2-------` while _že_ is tagged `J,-------------`.
-The participles can be distinguished by the value of person:
-normal participle _udělal_ does not inflect for person (`VpYS---XR-AA---`)
-while participle fused with _jsi_, i.e. _udělals_, is tagged as being in the second person (`VpYS---2R-AA---`).
-None of these occur in the PDT 3.0 data.
-
-### Subordinating Conjunction *aby* or *kdyby*
-
-* _abych_ = _aby bych_ = “so that I would”
-* _abys_ = _aby bys_ = “so that you would”
-* _aby_ = _aby by_ = “so that he/she/it/they would”
-* _abychom_ = _aby bychom_ = “so that we would”
-* _abyste_ = _aby byste_ = “so that you would”
-* _kdybych_ = _když bych_ = “if I were”
-* _kdybys_ = _když bys_ = “if you were”
-* _kdyby_ = _když by_ = “if he/she/it/they were”
-* _kdybychom_ = _když bychom_ = “if we were”
-* _kdybyste_ = _když byste_ = “if you were”
-
-Note: It is not clear even to a native speaker what exactly the first word should be _(aby, až, kdyby_ or _když);_
-in any case, it is a conjunction.
-However, it is clear that the second word is a conditional form of _být._
-
-Heuristic to transform the tree if only surface tokens are desired as nodes:
-attach the fused token (e.g. _abychom_) to the parent and with the label of the first part _(aby)_.
-Tag it as subordinating conjunction and merge the features of both parts:
-
-<pre>3-4   abychom   _      _      _                 _                                            _   _      _   _
-3     aby       aby   SCONJ   J,-------------   _                                            7   mark   _   _
-4     bychom    být   AUX     Vc-P---1-------   Mood=Cnd|Number=Plur|Person=1|VerbForm=Fin   7   aux    _   _</pre>
-
-will be transformed to
-
-<pre>3     abychom   aby   SCONJ   J,-P---1-------   Mood=Cnd|Number=Plur|Person=3|VerbForm=Fin   6   mark   _   _</pre>
-
-### Verb + Conjunction _neboť_
-
-* _dělámť_ = _neboť dělám_ = “because I do”
-* _děláť_ = _neboť dělá_ = “because he/she/it does”
-* _dělalť_ = _neboť dělal_ = “because he did”
-
-The word forms in this group can be considered archaic.
-
-There is only one occurrence in the PDT 3.0 data of the word _neníť_ “because it is not” (tagged `Vt-S---3P-NA--2`).
