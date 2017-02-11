@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-02-11T14:39:12Z">2017-02-11T14:39:12 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-02-11T15:18:58Z">2017-02-11T15:18:58 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -2348,63 +2348,21 @@ Syntax errors: 4346
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD Galician-TreeGal</span>
 <span class="widespan">gl treegal</span>
-<span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-11T00:51:24Z">2017-02-11T00:51:24 zulu</time></span>
+<span class="validationpass">PASS</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-11T15:18:57Z">2017-02-11T15:18:57 zulu</time></span>
 </div>
 <div>
 <pre>
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang gl_treegal /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Galician-TreeGal/gl_treegal-ud-dev.conllu
+python tools/validate.py --lang gl_treegal UD-dev-branches/UD_Galician-TreeGal/gl_treegal-ud-dev.conllu
 
-[Line                   49]: SpaceAfter=No is missing in the MISC field of node #25 because the text is 'lexislatura.'
-[Line                   71]: SpaceAfter=No is missing in the MISC field of node #3 because the text is 'dereita, outros part[...]'
-[Line                   71]: SpaceAfter=No is missing in the MISC field of node #9 because the text is 'foro, Paulo González[...]'
-[Line                   71]: SpaceAfter=No is missing in the MISC field of node #16 because the text is 'Villares.'
-[Line                   145]: SpaceAfter=No is missing in the MISC field of node #24 because the text is 'humanos, sociais e p[...]'
-[Line                   145]: SpaceAfter=No is missing in the MISC field of node #28 because the text is 'políticos, "non reco[...]'
-[Line                   145]: SpaceAfter=No is missing in the MISC field of node #30 because the text is '"non recoñecendo as [...]'
-[Line                   145]: SpaceAfter=No is missing in the MISC field of node #60 because the text is 'próximos".'
-[Line                   145]: SpaceAfter=No is missing in the MISC field of node #61 because the text is '".'
-[Line                   185]: SpaceAfter=No is missing in the MISC field of node #6 because the text is '"a liberdade, a xust[...]'
-[Line                   185]: SpaceAfter=No is missing in the MISC field of node #8 because the text is 'liberdade, a xustiza[...]'
-[Line                   185]: SpaceAfter=No is missing in the MISC field of node #11 because the text is 'xustiza, o benestar [...]'
-[Line                   185]: SpaceAfter=No is missing in the MISC field of node #34 because the text is 'territorio".'
-[Line                   185]: SpaceAfter=No is missing in the MISC field of node #35 because the text is '".'
-[Line                   236]: SpaceAfter=No is missing in the MISC field of node #6 because the text is '"o abranguido nos lí[...]'
-[Line                   236]: SpaceAfter=No is missing in the MISC field of node #16 because the text is 'Autónoma, sen prexuí[...]'
-[Line                   236]: SpaceAfter=No is missing in the MISC field of node #29 because the text is 'históricas, económic[...]'
-[Line                   236]: SpaceAfter=No is missing in the MISC field of node #31 because the text is 'económicas, culturai[...]'
-[Line                   236]: SpaceAfter=No is missing in the MISC field of node #36 because the text is 'análogas", de acordo[...]'
-...suppressing further errors regarding Metadata
-*** FAILED *** with 1090 errors
-Metadata errors: 1090
+*** PASSED ***
 
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang gl_treegal /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Galician-TreeGal/gl_treegal-ud-train.conllu
+python tools/validate.py --lang gl_treegal UD-dev-branches/UD_Galician-TreeGal/gl_treegal-ud-train.conllu
 
-[Line                   22]: SpaceAfter=No is missing in the MISC field of node #4 because the text is 'autodeterminación, c[...]'
-[Line                   22]: SpaceAfter=No is missing in the MISC field of node #7 because the text is 'galega, presenza nas[...]'
-[Line                   22]: SpaceAfter=No is missing in the MISC field of node #16 because the text is 'autogoberno.'
-[Line                   118]: SpaceAfter=No is missing in the MISC field of node #9 because the text is 'unidade, "os galegos[...]'
-[Line                   118]: SpaceAfter=No is missing in the MISC field of node #11 because the text is '"os galegos e galega[...]'
-[Line                   118]: SpaceAfter=No is missing in the MISC field of node #23 because the text is 'política, cultural e[...]'
-[Line                   118]: SpaceAfter=No is missing in the MISC field of node #27 because the text is 'lingüística, o derei[...]'
-[Line                   118]: SpaceAfter=No is missing in the MISC field of node #58 because the text is 'global, legalizada e[...]'
-[Line                   118]: SpaceAfter=No is missing in the MISC field of node #62 because the text is 'institucionalizada, [...]'
-[Line                   118]: SpaceAfter=No is missing in the MISC field of node #83 because the text is 'partícipes".'
-[Line                   118]: SpaceAfter=No is missing in the MISC field of node #84 because the text is '".'
-[Line                   202]: SpaceAfter=No is missing in the MISC field of node #4 because the text is 'bases, a proposta as[...]'
-[Line                   202]: SpaceAfter=No is missing in the MISC field of node #9 because the text is '"como tarefa princip[...]'
-[Line                   202]: SpaceAfter=No is missing in the MISC field of node #28 because the text is 'intereses, así como [...]'
-[Line                   202]: SpaceAfter=No is missing in the MISC field of node #43 because the text is 'galego, ao abeiro da[...]'
-[Line                   202]: SpaceAfter=No is missing in the MISC field of node #52 because the text is 'galeguidade, entendi[...]'
-[Line                   202]: SpaceAfter=No is missing in the MISC field of node #64 because the text is 'social, cultural, ec[...]'
-[Line                   202]: SpaceAfter=No is missing in the MISC field of node #66 because the text is 'cultural, económica [...]'
-[Line                   202]: SpaceAfter=No is missing in the MISC field of node #73 because the text is 'nación".'
-...suppressing further errors regarding Metadata
-*** FAILED *** with 487 errors
-Metadata errors: 487
+*** PASSED ***
 
 
 ******************
