@@ -69,7 +69,8 @@ perl conllu-stats.pl --detailed --data .. --docs ../docs --lang pt
 
 ### Format conversion
 
-(Description TODO)
+See [Issue 376](https://github.com/UniversalDependencies/docs/issues/376) for references to software that helps with migration
+of treebanks from [UD v1](http://universaldependencies.org/docsv1/) to v2 guidelines.
 
 ## Third-party tools
 
