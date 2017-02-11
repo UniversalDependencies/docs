@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-02-11T17:28:10Z">2017-02-11T17:28:10 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-02-11T20:20:26Z">2017-02-11T20:20:26 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -523,91 +523,28 @@ Syntax errors: 6742
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD Belarusian</span>
 <span class="widespan">be</span>
-<span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-11T00:46:06Z">2017-02-11T00:46:06 zulu</time></span>
+<span class="validationpass">PASS</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-11T20:20:26Z">2017-02-11T20:20:26 zulu</time></span>
 </div>
 <div>
 <pre>
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang be /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Belarusian/be-ud-dev.conllu
+python tools/validate.py --lang be UD-dev-branches/UD_Belarusian/be-ud-dev.conllu
 
-[Line                   27]: SpaceAfter=No is missing in the MISC field of node #3 because the text is 'адзначыў, што ў выпа[...]'
-[Line                   27]: SpaceAfter=No is missing in the MISC field of node #11 because the text is '"вельмі жорстка адка[...]'
-[Line                   27]: SpaceAfter=No is missing in the MISC field of node #16 because the text is 'санкцыі", якія ўвёў [...]'
-[Line                   27]: SpaceAfter=No is missing in the MISC field of node #17 because the text is '", якія ўвёў шэраг е[...]'
-[Line                   27]: SpaceAfter=No is missing in the MISC field of node #23 because the text is 'дзяржаў.'
-[Line                   37]: SpaceAfter=No is missing in the MISC field of node #1 because the text is 'Эштан: ЕС пасылае яс[...]'
-[Line                   67]: SpaceAfter=No is missing in the MISC field of node #26 because the text is 'Беларусі.'
-[Line                   91]: SpaceAfter=No is missing in the MISC field of node #3 because the text is 'слоў, у гэтым плане [...]'
-[Line                   91]: SpaceAfter=No is missing in the MISC field of node #14 because the text is '"пераход ад ізаляцыі[...]'
-[Line                   91]: SpaceAfter=No is missing in the MISC field of node #19 because the text is 'ўзаемадзеяння".'
-[Line                   91]: SpaceAfter=No is missing in the MISC field of node #20 because the text is '".'
-[Line                   104]: SpaceAfter=No is missing in the MISC field of node #1 because the text is '"Мы часта рухаемся д[...]'
-[Line                   104]: SpaceAfter=No is missing in the MISC field of node #9 because the text is 'падыходамі.'
-[Line                   117]: SpaceAfter=No is missing in the MISC field of node #9 because the text is 'краіне.'
-[Line                   154]: SpaceAfter=No is missing in the MISC field of node #11 because the text is 'ясна, і будзем праця[...]'
-[Line                   154]: SpaceAfter=No is missing in the MISC field of node #19 because the text is 'надалей", -- сказала[...]'
-[Line                   154]: SpaceAfter=No is missing in the MISC field of node #20 because the text is '", -- сказала Кэтрын[...]'
-[Line                   154]: SpaceAfter=No is missing in the MISC field of node #25 because the text is 'Эштан, паведамляе бе[...]'
-[Line                   154]: SpaceAfter=No is missing in the MISC field of node #31 because the text is '"Свабода".'
-...suppressing further errors regarding Metadata
-*** FAILED *** with 198 errors
-Metadata errors: 198
+*** PASSED ***
 
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang be /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Belarusian/be-ud-test.conllu
+python tools/validate.py --lang be UD-dev-branches/UD_Belarusian/be-ud-test.conllu
 
-[Line                   36]: SpaceAfter=No is missing in the MISC field of node #4 because the text is 'Тэлеграф, будаваць б[...]'
-[Line                   36]: SpaceAfter=No is missing in the MISC field of node #11 because the text is 'красавіку, заявіў 21[...]'
-[Line                   36]: SpaceAfter=No is missing in the MISC field of node #20 because the text is '"Атамэнергапраект", [...]'
-[Line                   36]: SpaceAfter=No is missing in the MISC field of node #21 because the text is 'Атамэнергапраект", в[...]'
-[Line                   36]: SpaceAfter=No is missing in the MISC field of node #22 because the text is '", выконваючы абавяз[...]'
-[Line                   36]: SpaceAfter=No is missing in the MISC field of node #28 because the text is '"Атамбудэкспарт" Вал[...]'
-[Line                   36]: SpaceAfter=No is missing in the MISC field of node #29 because the text is 'Атамбудэкспарт" Вале[...]'
-[Line                   36]: SpaceAfter=No is missing in the MISC field of node #32 because the text is 'Лімарэнка.'
-[Line                   72]: SpaceAfter=No is missing in the MISC field of node #32 because the text is 'электрастанцый.'
-[Line                   86]: SpaceAfter=No is missing in the MISC field of node #4 because the text is 'Ажубаліса, праекты д[...]'
-[Line                   86]: SpaceAfter=No is missing in the MISC field of node #10 because the text is 'безадказнымі.'
-[Line                   98]: SpaceAfter=No is missing in the MISC field of node #1 because the text is 'Някляеў: рэальных са[...]'
-[Line                   126]: SpaceAfter=No is missing in the MISC field of node #4 because the text is '"Гавары праўду!" Ула[...]'
-[Line                   126]: SpaceAfter=No is missing in the MISC field of node #6 because the text is 'праўду!" Уладзімір Н[...]'
-[Line                   126]: SpaceAfter=No is missing in the MISC field of node #7 because the text is '!" Уладзімір Някляеў[...]'
-[Line                   126]: SpaceAfter=No is missing in the MISC field of node #11 because the text is 'лічыць, што Еўрапейс[...]'
-[Line                   126]: SpaceAfter=No is missing in the MISC field of node #24 because the text is 'Беларусі.'
-[Line                   134]: SpaceAfter=No is missing in the MISC field of node #1 because the text is '"Гэта не санкцыі.'
-[Line                   134]: SpaceAfter=No is missing in the MISC field of node #4 because the text is 'санкцыі.'
-...suppressing further errors regarding Metadata
-*** FAILED *** with 229 errors
-Metadata errors: 229
+*** PASSED ***
 
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang be /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Belarusian/be-ud-train.conllu
+python tools/validate.py --lang be UD-dev-branches/UD_Belarusian/be-ud-train.conllu
 
-[Line                   30]: SpaceAfter=No is missing in the MISC field of node #16 because the text is 'Беларусі.'
-[Line                   55]: SpaceAfter=No is missing in the MISC field of node #21 because the text is 'Беларусі.'
-[Line                   85]: SpaceAfter=No is missing in the MISC field of node #7 because the text is 'Беларусі, адным з пр[...]'
-[Line                   85]: SpaceAfter=No is missing in the MISC field of node #26 because the text is 'бізнэсу.'
-[Line                   110]: SpaceAfter=No is missing in the MISC field of node #1 because the text is '"Эксперты кампаніі в[...]'
-[Line                   110]: SpaceAfter=No is missing in the MISC field of node #15 because the text is 'прадпрыемстваў, энер[...]'
-[Line                   110]: SpaceAfter=No is missing in the MISC field of node #18 because the text is 'праектах, праектнага[...]'
-[Line                   110]: SpaceAfter=No is missing in the MISC field of node #21 because the text is 'фінансавання.'
-[Line                   143]: SpaceAfter=No is missing in the MISC field of node #5 because the text is 'Сеуле, Daeryook &amp[...]'
-[Line                   143]: SpaceAfter=No is missing in the MISC field of node #17 because the text is 'Еўрасаюзе, Кітаі, Ра[...]'
-[Line                   143]: SpaceAfter=No is missing in the MISC field of node #19 because the text is 'Кітаі, Расіі і ЗША",[...]'
-[Line                   143]: SpaceAfter=No is missing in the MISC field of node #23 because the text is 'ЗША", -- распавялі ў[...]'
-[Line                   143]: SpaceAfter=No is missing in the MISC field of node #24 because the text is '", -- распавялі ў мі[...]'
-[Line                   143]: SpaceAfter=No is missing in the MISC field of node #29 because the text is 'мінэканомікі.'
-[Line                   182]: SpaceAfter=No is missing in the MISC field of node #3 because the text is 'дамоўленасцяў, Нацыя[...]'
-[Line                   182]: SpaceAfter=No is missing in the MISC field of node #35 because the text is 'Беларусь.'
-[Line                   242]: SpaceAfter=No is missing in the MISC field of node #5 because the text is 'эканомікі, у рамках [...]'
-[Line                   242]: SpaceAfter=No is missing in the MISC field of node #37 because the text is 'До, віцэ-прэзідэнтам[...]'
-[Line                   242]: SpaceAfter=No is missing in the MISC field of node #48 because the text is 'KOTRA) О Сон Гынам і[...]'
-...suppressing further errors regarding Metadata
-*** FAILED *** with 589 errors
-Metadata errors: 589
+*** PASSED ***
 
 
 ******************
