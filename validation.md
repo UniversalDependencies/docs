@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-02-11T12:15:37Z">2017-02-11T12:15:37 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-02-11T12:16:05Z">2017-02-11T12:16:05 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -3667,147 +3667,21 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang la_proiel /home/ginter/
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD Latvian</span>
 <span class="widespan">lv</span>
-<span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-11T11:12:02Z">2017-02-11T11:12:02 zulu</time></span>
+<span class="validationpass">PASS</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-11T12:16:01Z">2017-02-11T12:16:01 zulu</time></span>
 </div>
 <div>
 <pre>
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang lv /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Latvian/lv-ud-dev.conllu
+python tools/validate.py --lang lv UD-dev-branches/UD_Latvian/lv-ud-dev.conllu
 
-[Line                   3]: Unknown attribute-value pair Negative=Neg
-[Line                   5]: Unknown UD DEPREL: dobj
-[Line                   12]: Missing the sent_id attribute.
-[Line                   12]: Missing the text attribute.
-[Line                   21]: Missing the sent_id attribute.
-[Line                   21]: Missing the text attribute.
-[Line                   25]: Unknown UPOS tag: CONJ
-[Line                   30]: Unknown UD DEPREL: name
-[Line                   35]: Unknown attribute-value pair Negative=Neg
-[Line                   39]: Unknown UD DEPREL: dobj
-[Line                   40]: Unknown UD DEPREL: name
-[Line                   46]: Unknown attribute-value pair Negative=Neg
-[Line                   47]: Unknown UD DEPREL: dobj
-[Line                   56]: Unknown UPOS tag: CONJ
-[Line                   60]: Unknown UD DEPREL: dobj
-[Line                   61]: Unknown attribute-value pair Negative=Neg
-[Line                   67]: Missing the sent_id attribute.
-[Line                   67]: Missing the text attribute.
-[Line                   80]: Unknown UD DEPREL: nsubjpass
-[Line                   82]: Unknown UD DEPREL: dobj
-[Line                   90]: Missing the sent_id attribute.
-[Line                   90]: Missing the text attribute.
-[Line                   93]: Unknown UD DEPREL: nsubjpass
-[Line                   108]: Unknown UD DEPREL: nsubjpass
-[Line                   110]: Unknown UPOS tag: CONJ
-[Line                   119]: Missing the sent_id attribute.
-[Line                   119]: Missing the text attribute.
-[Line                   124]: Unknown UPOS tag: CONJ
-[Line                   129]: Unknown attribute-value pair Negative=Neg
-[Line                   132]: Missing the sent_id attribute.
-[Line                   132]: Missing the text attribute.
-[Line                   135]: Unknown attribute-value pair Negative=Neg
-[Line                   139]: Unknown UD DEPREL: dobj
-[Line                   142]: Unknown UPOS tag: CONJ
-[Line                   145]: Unknown attribute-value pair VerbForm=Trans
-[Line                   153]: Unknown UD DEPREL: dobj
-[Line                   154]: Unknown attribute-value pair Negative=Neg
-[Line                   156]: Unknown UD DEPREL: dobj
-[Line                   157]: Unknown attribute-value pair Negative=Neg
-[Line                   160]: Missing the sent_id attribute.
-[Line                   160]: Missing the text attribute.
-[Line                   165]: Unknown attribute-value pair Negative=Neg
-[Line                   166]: Unknown attribute-value pair Negative=Neg
-[Line                   167]: Unknown UD DEPREL: dobj
-[Line                   175]: Missing the sent_id attribute.
-[Line                   175]: Missing the text attribute.
-[Line                   178]: Unknown UD DEPREL: dobj
-[Line                   179]: Unknown attribute-value pair Negative=Pos
-[Line                   186]: Unknown UPOS tag: CONJ
-[Line                   189]: Unknown UD DEPREL: nsubjpass
-[Line                   190]: Unknown attribute-value pair Negative=Pos
-[Line                   197]: Unknown UD DEPREL: dobj
-[Line                   205]: Missing the sent_id attribute.
-[Line                   205]: Missing the text attribute.
-...suppressing further errors regarding Morpho
-[Line                   215]: Unknown UD DEPREL: dobj
-[Line                   227]: Missing the sent_id attribute.
-...suppressing further errors regarding Metadata
-[Line                   243]: Unknown UD DEPREL: dobj
-...suppressing further errors regarding Syntax
-*** FAILED *** with 1258 errors
-Metadata errors: 392
-Morpho errors: 562
-Syntax errors: 304
+*** PASSED ***
 
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang lv /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Latvian/lv-ud-train.conllu
+python tools/validate.py --lang lv UD-dev-branches/UD_Latvian/lv-ud-train.conllu
 
-[Line                   3]: Missing the sent_id attribute.
-[Line                   3]: Missing the text attribute.
-[Line                   19]: Unknown UD DEPREL: name
-[Line                   20]: Unknown UPOS tag: CONJ
-[Line                   22]: Unknown UD DEPREL: name
-[Line                   28]: Missing the sent_id attribute.
-[Line                   28]: Missing the text attribute.
-[Line                   34]: Unknown attribute-value pair Negative=Neg
-[Line                   38]: Unknown UPOS tag: CONJ
-[Line                   42]: Missing the sent_id attribute.
-[Line                   42]: Missing the text attribute.
-[Line                   58]: Missing the sent_id attribute.
-[Line                   58]: Missing the text attribute.
-[Line                   70]: Missing the sent_id attribute.
-[Line                   70]: Missing the text attribute.
-[Line                   76]: Unknown UPOS tag: CONJ
-[Line                   82]: Missing the sent_id attribute.
-[Line                   82]: Missing the text attribute.
-[Line                   88]: Unknown attribute-value pair Negative=Neg
-[Line                   90]: Unknown UD DEPREL: name
-[Line                   97]: Missing the sent_id attribute.
-[Line                   97]: Missing the text attribute.
-[Line                   104]: Missing the sent_id attribute.
-[Line                   104]: Missing the text attribute.
-[Line                   107]: Unknown UPOS tag: CONJ
-[Line                   122]: Missing the sent_id attribute.
-[Line                   122]: Missing the text attribute.
-[Line                   139]: Missing the sent_id attribute.
-...suppressing further errors regarding Metadata
-[Line                   151]: Unknown UD DEPREL: name
-[Line                   156]: Unknown attribute-value pair Negative=Neg
-[Line                   158]: Unknown UD DEPREL: name
-[Line                   182]: Unknown UD DEPREL: name
-[Line                   199]: Unknown attribute-value pair Negative=Neg
-[Line                   200]: Unknown UD DEPREL: dobj
-[Line                   217]: Unknown UPOS tag: CONJ
-[Line                   228]: Unknown UD DEPREL: name
-[Line                   229]: Unknown UD DEPREL: name
-[Line                   230]: Unknown UD DEPREL: name
-[Line                   231]: Unknown UD DEPREL: name
-[Line                   250]: Unknown attribute-value pair Negative=Neg
-[Line                   251]: Unknown UD DEPREL: dobj
-[Line                   265]: Unknown UPOS tag: CONJ
-[Line                   270]: Unknown attribute-value pair Negative=Neg
-[Line                   294]: Unknown UPOS tag: CONJ
-[Line                   300]: Unknown attribute-value pair Negative=Neg
-[Line                   305]: Unknown UPOS tag: CONJ
-[Line                   309]: Unknown UD DEPREL: name
-[Line                   312]: Unknown UD DEPREL: name
-[Line                   315]: Unknown UD DEPREL: name
-[Line                   318]: Unknown UD DEPREL: name
-[Line                   329]: Unknown UPOS tag: CONJ
-[Line                   337]: Unknown UD DEPREL: dobj
-[Line                   338]: Unknown attribute-value pair Negative=Neg
-[Line                   340]: Unknown UPOS tag: CONJ
-[Line                   349]: Unknown UPOS tag: CONJ
-...suppressing further errors regarding Morpho
-[Line                   361]: Unknown UD DEPREL: dobj
-[Line                   376]: Unknown UD DEPREL: dobj
-...suppressing further errors regarding Syntax
-*** FAILED *** with 4125 errors
-Metadata errors: 1394
-Morpho errors: 1712
-Syntax errors: 1019
+*** PASSED ***
 
 
 ******************
