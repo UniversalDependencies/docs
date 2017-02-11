@@ -11,7 +11,7 @@ The low-level tokenization of the Belarusian UD treebank generally adopts the RN
 * In general, tokens are delimited by whitespace. The regexp [А-zА-яЁёУўі\-]+ usually corresponds to one token.
 * Punctuation (recognized by the corresponding Unicode property) that is conventionally written adjacent to the preceding or following word is separated during tokenization.
 * Each punctuation mark is treated as a single token, e.g. the following sequence: <b>)", -</b> becomes four tokens, <b>)</b> , <b>"</b>, <b>,</b>, and <b>-"</b>. Exceptions are conventional multi-character punctuation marks: <b>--</b> , <b>...</b> , <b>?!</b> ,  etc., and emojis and smileys: <b>:)</b> , <b>^_^</b>, etc.
-* Conventional non-cyrillic multi-character sequences are tokenized as single tokens: <b>°С</b>. 
+* Conventional non-cyrillic multi-character terms are tokenized as single tokens: <b>°С</b>, <b>км2</b>. 
 
 Some special cases worth mentioning: 
 * Numerical expressions including decimal numbers, such as <b>245</b>, <b>3,14</b>, are treated as single tokens. 
@@ -35,11 +35,11 @@ The Belarusian UD treebank does not contain multiword tokens.
 
 ### Verb forms, analytical grammatical forms, negation
 
-* reflexive verbs are kept as a single token (orthographic rule): <b>з'яўляецца</b> 
+* reflexive verbs are kept as a single token (orthographic rule): <b>з'яўляецца</b> “is”. 
 * the forms of subjunctive mood, analytical passive, complex future tense, complex comparatives, etc. are splitted
 according to the orthographic principle: { <b>маглі</b> , <b>б</b> } “would be able, could”, { <b>былі</b> , <b>зафіксаваныя</b> } “were recorded”, { <b>будзе</b> , <b>трымацца</b> } “will be held”, { <b>больш</b> , <b>сур'ёзныя</b> } “more serious” 
-* <b>не</b> and <b>ни</b> used as negation markers with verbs, pronouns and other words are tokenized according to the orthographic rules: { <b>не</b> , <b>рэагуючы</b> } “half”, { <b>ні</b> , <b>ў</b> , <b>каго</b> } “half”, but { <b>непапраўнай</b> } “irrecoverable”, { <b>незавершаны</b> } “not finished”, { <b>ніякіх</b> } “no one”.
-* паў- and напаў- “half” are never kept separate: <b>паўбеспрацоўны</b> , <b>напаўзабыты</b> 
+* <b>не</b> and <b>ни</b> used as negation markers with verbs, pronouns and other words are tokenized according to the orthographic rules: { <b>не</b> , <b>рэагуючы</b> } “not reacting”, { <b>ні</b> , <b>ў</b> , <b>каго</b> } “at no one”, but { <b>непапраўнай</b> } “irrecoverable”, { <b>незавершаны</b> } “not finished”, { <b>ніякіх</b> } “no one”.
+* паў- and напаў- “half” are never kept separate: <b>паўбеспрацоўны</b> “half-unemployed”, <b>напаўзабыты</b> “half-forgotten”. 
 
 ### Character set
 
