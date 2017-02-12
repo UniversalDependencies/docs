@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-02-12T19:59:56Z">2017-02-12T19:59:56 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-02-12T21:08:36Z">2017-02-12T21:08:36 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -1116,64 +1116,23 @@ Syntax errors: 6400
 <span class="doublewidespan" style="padding-left:3em">UD English-LinES</span>
 <span class="widespan">en lines</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-12T19:51:29Z">2017-02-12T19:51:29 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-12T21:08:26Z">2017-02-12T21:08:26 zulu</time></span>
 </div>
 <div>
 <pre>
-python tools/validate.py --lang en_lines UD-dev-branches/UD_English-LinES/en_lines-ud-dev.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang en_lines /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_English-LinES/en_lines-ud-dev.conllu
 
-[Line                   19]: Unknown UD DEPREL: nsubj:pass
-[Line                   38]: Unknown UD DEPREL: nsubj:pass
-[Line                   284]: Unknown UD DEPREL: nsubj:pass
-[Line                   300]: Unknown UD DEPREL: nsubj:pass
-[Line                   400]: Unknown UD DEPREL: nsubj:pass
-[Line                   407]: Unknown UD DEPREL: nsubj:pass
-[Line                   409]: Unknown UD DEPREL: csubj:pass
-[Line                   556]: Unknown UD DEPREL: nsubj:pass
-[Line                   605]: Unknown UD DEPREL: nsubj:pass
-[Line                   648]: Unknown UD DEPREL: nsubj:pass
-[Line                   677]: Unknown UD DEPREL: obl:agent
-[Line                   721]: Unknown UD DEPREL: obl:agent
-[Line                   815]: Unknown UD DEPREL: nsubj:pass
-[Line                   1023]: Unknown UD DEPREL: nsubj:pass
-[Line                   1341]: Unknown UD DEPREL: nsubj:pass
-[Line                   1360]: Unknown UD DEPREL: nsubj:pass
-[Line                   1391]: Unknown UD DEPREL: nsubj:pass
-[Line                   1576]: Unknown UD DEPREL: nsubj:pass
-[Line                   1605]: Unknown UD DEPREL: nsubj:pass
-...suppressing further errors regarding Syntax
-*** FAILED *** with 143 errors
-Syntax errors: 143
+*** PASSED ***
 
 
 ******************
 
-python tools/validate.py --lang en_lines UD-dev-branches/UD_English-LinES/en_lines-ud-train.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang en_lines /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_English-LinES/en_lines-ud-train.conllu
 
 [Line                   59]: Mismatch between the text attribute and the FORM field. Form is '.' but text is 'x....'
 [Line                   59]: Extra characters at the end of the text attribute, not accounted for in the FORM fields: 'x.'
-[Line                   85]: Unknown UD DEPREL: nsubj:pass
 [Line                   205]: Mismatch between the text attribute and the FORM field. Form is '.' but text is 'x....'
 [Line                   205]: Extra characters at the end of the text attribute, not accounted for in the FORM fields: 'x.'
-[Line                   393]: Unknown UD DEPREL: obl:agent
-[Line                   471]: Unknown UD DEPREL: nsubj:pass
-[Line                   679]: Unknown UD DEPREL: obl:agent
-[Line                   876]: Unknown UD DEPREL: nsubj:pass
-[Line                   985]: Unknown UD DEPREL: nsubj:pass
-[Line                   1033]: Unknown UD DEPREL: nsubj:pass
-[Line                   1045]: Unknown UD DEPREL: obl:agent
-[Line                   1070]: Unknown UD DEPREL: nsubj:pass
-[Line                   1077]: Unknown UD DEPREL: nsubj:pass
-[Line                   1090]: Unknown UD DEPREL: nsubj:pass
-[Line                   1158]: Unknown UD DEPREL: nsubj:pass
-[Line                   1168]: Unknown UD DEPREL: nsubj:pass
-[Line                   1691]: Unknown UD DEPREL: nsubj:pass
-[Line                   1797]: Unknown UD DEPREL: nsubj:pass
-[Line                   1838]: Unknown UD DEPREL: nsubj:pass
-[Line                   1869]: Unknown UD DEPREL: nsubj:pass
-[Line                   1994]: Unknown UD DEPREL: nsubj:pass
-[Line                   2066]: Unknown UD DEPREL: nsubj:pass
-...suppressing further errors regarding Syntax
 [Line                   3457]: Mismatch between the text attribute and the FORM field. Form is 'and' but text is 'x and will not be inter...'
 [Line                   3457]: Mismatch between the text attribute and the FORM field. Form is 'will' but text is 'x and will not be interp...'
 [Line                   3457]: Mismatch between the text attribute and the FORM field. Form is 'not' but text is 'x and will not be inter...'
@@ -1190,9 +1149,8 @@ python tools/validate.py --lang en_lines UD-dev-branches/UD_English-LinES/en_lin
 [Line                   3457]: Mismatch between the text attribute and the FORM field. Form is 'of' but text is 'x and will not be inte...'
 [Line                   3457]: Mismatch between the text attribute and the FORM field. Form is 'an' but text is 'x and will not be inte...'
 ...suppressing further errors regarding Metadata
-*** FAILED *** with 484 errors
+*** FAILED *** with 65 errors
 Metadata errors: 65
-Syntax errors: 419
 
 
 ******************
@@ -3666,7 +3624,7 @@ Syntax errors: 20917
 <span class="doublewidespan" style="padding-left:3em">UD Russian</span>
 <span class="widespan">ru</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-11T00:55:15Z">2017-02-11T00:55:15 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-12T21:08:29Z">2017-02-12T21:08:29 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -4457,18 +4415,18 @@ Syntax errors: 3393
 <span class="doublewidespan" style="padding-left:3em">UD Ukrainian</span>
 <span class="widespan">uk</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-12T16:56:41Z">2017-02-12T16:56:41 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-12T21:08:35Z">2017-02-12T21:08:35 zulu</time></span>
 </div>
 <div>
 <pre>
-python tools/validate.py --lang uk UD-dev-branches/UD_Ukrainian/uk-ud-dev.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang uk /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Ukrainian/uk-ud-dev.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python tools/validate.py --lang uk UD-dev-branches/UD_Ukrainian/uk-ud-train.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang uk /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Ukrainian/uk-ud-train.conllu
 
 *** PASSED ***
 
