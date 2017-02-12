@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-02-12T16:48:38Z">2017-02-12T16:48:38 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-02-12T16:48:48Z">2017-02-12T16:48:48 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -4828,7 +4828,7 @@ Syntax errors: 3393
 <span class="doublewidespan" style="padding-left:3em">UD Ukrainian</span>
 <span class="widespan">uk</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-11T00:57:52Z">2017-02-11T00:57:52 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-12T16:48:48Z">2017-02-12T16:48:48 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -4917,8 +4917,10 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang uk /home/ginter/UD_PROJ
 [Line                   62]: Spurious sent_id line: '# sent_id 8' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
 ...suppressing further errors regarding Metadata
 [Line                   69]: Unknown UD DEPREL: nsubjpass
+[Line                   71]: Unknown attribute-value pair VerbForm=Imps
 [Line                   75]: Unknown UD DEPREL: nsubjpass
 [Line                   81]: Unknown UD DEPREL: nsubjpass
+[Line                   83]: Unknown attribute-value pair VerbForm=Imps
 [Line                   89]: Unknown UD DEPREL: dobj
 [Line                   96]: Unknown UD DEPREL: dobj
 [Line                   100]: Unknown UD DEPREL: neg
@@ -4931,14 +4933,24 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang uk /home/ginter/UD_PROJ
 [Line                   138]: Unknown UD DEPREL: dobj
 [Line                   143]: Unknown UD DEPREL: dobj
 ...suppressing further errors regarding Syntax
+[Line                   364]: Unknown attribute-value pair VerbForm=Imps
+[Line                   369]: Unknown attribute-value pair VerbForm=Imps
+[Line                   394]: Unknown attribute-value pair VerbForm=Imps
+[Line                   416]: Unknown attribute-value pair VerbForm=Imps
+[Line                   421]: Unknown attribute-value pair VerbForm=Imps
 [Line                   787]: Unknown UPOS tag: CONJ
+[Line                   793]: Unknown attribute-value pair VerbForm=Imps
+[Line                   873]: Unknown attribute-value pair VerbForm=Imps
+[Line                   881]: Unknown attribute-value pair VerbForm=Imps
+[Line                   890]: Unknown attribute-value pair VerbForm=Imps
+[Line                   899]: Unknown attribute-value pair VerbForm=Imps
 [Line                   941]: Unknown UPOS tag: CONJ
 [Line                   1280]: Unknown UPOS tag: CONJ
 [Line                   1495]: Unknown UPOS tag: CONJ
 [Line                   1658]: Unknown UPOS tag: CONJ
-*** FAILED *** with 745 errors
+*** FAILED *** with 757 errors
 Metadata errors: 600
-Morpho errors: 6
+Morpho errors: 18
 Syntax errors: 139
 
 
