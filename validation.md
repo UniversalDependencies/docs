@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-02-12T16:56:42Z">2017-02-12T16:56:42 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-02-12T17:57:38Z">2017-02-12T17:57:38 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -1417,8 +1417,8 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang en_partut /home/ginter/
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD Estonian</span>
 <span class="widespan">et</span>
-<span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-11T16:42:35Z">2017-02-11T16:42:35 zulu</time></span>
+<span class="validationpass">PASS</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-12T17:57:37Z">2017-02-12T17:57:37 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -1431,9 +1431,7 @@ python tools/validate.py --lang et UD-dev-branches/UD_Estonian/et-ud-dev.conllu
 
 python tools/validate.py --lang et UD-dev-branches/UD_Estonian/et-ud-train.conllu
 
-[Line                   4794]: SpaceAfter=No is missing in the MISC field of node #13 because the text is '"kommenteerib kunstn[...]'
-*** FAILED *** with 1 errors
-Metadata errors: 1
+*** PASSED ***
 
 
 ******************
