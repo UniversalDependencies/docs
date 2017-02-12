@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-02-12T19:40:48Z">2017-02-12T19:40:48 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-02-12T19:51:32Z">2017-02-12T19:51:32 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -1158,35 +1158,15 @@ Syntax errors: 6400
 <span class="doublewidespan" style="padding-left:3em">UD English-LinES</span>
 <span class="widespan">en lines</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-11T00:50:06Z">2017-02-11T00:50:06 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-12T19:51:29Z">2017-02-12T19:51:29 zulu</time></span>
 </div>
 <div>
 <pre>
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang en_lines /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_English-LinES/en_lines-ud-dev.conllu
+python tools/validate.py --lang en_lines UD-dev-branches/UD_English-LinES/en_lines-ud-dev.conllu
 
 [Line                   19]: Unknown UD DEPREL: nsubj:pass
-[Line                   29]: SpaceAfter=No is missing in the MISC field of node #14 because the text is 'project, the connect[...]'
-[Line                   29]: SpaceAfter=No is missing in the MISC field of node #25 because the text is 'account.'
 [Line                   38]: Unknown UD DEPREL: nsubj:pass
-[Line                   67]: SpaceAfter=No is missing in the MISC field of node #25 because the text is 'database, without re[...]'
-[Line                   67]: SpaceAfter=No is missing in the MISC field of node #34 because the text is 'password.'
-[Line                   106]: SpaceAfter=No is missing in the MISC field of node #15 because the text is 'security, the user m[...]'
-[Line                   106]: SpaceAfter=No is missing in the MISC field of node #35 because the text is 'resides.'
-[Line                   125]: SpaceAfter=No is missing in the MISC field of node #15 because the text is 'project.'
-[Line                   162]: SpaceAfter=No is missing in the MISC field of node #30 because the text is '(TSQL) commands.'
-[Line                   162]: SpaceAfter=No is missing in the MISC field of node #31 because the text is 'TSQL) commands.'
-[Line                   162]: SpaceAfter=No is missing in the MISC field of node #33 because the text is 'commands.'
-[Line                   180]: SpaceAfter=No is missing in the MISC field of node #3 because the text is 'http://officeupdate.[...]'
-[Line                   180]: SpaceAfter=No is missing in the MISC field of node #14 because the text is 'TSQL.'
-[Line                   202]: SpaceAfter=No is missing in the MISC field of node #18 because the text is 'NT.'
-[Line                   220]: SpaceAfter=No is missing in the MISC field of node #7 because the text is 'menu, you can enable[...]'
-[Line                   220]: SpaceAfter=No is missing in the MISC field of node #14 because the text is 'security.'
-[Line                   246]: SpaceAfter=No is missing in the MISC field of node #5 because the text is 'account, users can a[...]'
-[Line                   246]: SpaceAfter=No is missing in the MISC field of node #22 because the text is 'requirements.'
-[Line                   268]: SpaceAfter=No is missing in the MISC field of node #18 because the text is 'password.'
 [Line                   284]: Unknown UD DEPREL: nsubj:pass
-[Line                   295]: SpaceAfter=No is missing in the MISC field of node #8 because the text is '(SA) user name check[...]'
-...suppressing further errors regarding Metadata
 [Line                   300]: Unknown UD DEPREL: nsubj:pass
 [Line                   400]: Unknown UD DEPREL: nsubj:pass
 [Line                   407]: Unknown UD DEPREL: nsubj:pass
@@ -1204,36 +1184,19 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang en_lines /home/ginter/U
 [Line                   1576]: Unknown UD DEPREL: nsubj:pass
 [Line                   1605]: Unknown UD DEPREL: nsubj:pass
 ...suppressing further errors regarding Syntax
-*** FAILED *** with 2008 errors
-Metadata errors: 1865
+*** FAILED *** with 143 errors
 Syntax errors: 143
 
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang en_lines /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_English-LinES/en_lines-ud-train.conllu
+python tools/validate.py --lang en_lines UD-dev-branches/UD_English-LinES/en_lines-ud-train.conllu
 
-[Line                   31]: SpaceAfter=No is missing in the MISC field of node #14 because the text is 'languages.'
-[Line                   48]: SpaceAfter=No is missing in the MISC field of node #13 because the text is 'modes:'
-[Line                   59]: SpaceAfter=No is missing in the MISC field of node #7 because the text is 'syntax.'
 [Line                   59]: Mismatch between the text attribute and the FORM field. Form is '.' but text is 'x....'
 [Line                   59]: Extra characters at the end of the text attribute, not accounted for in the FORM fields: 'x.'
-[Line                   81]: SpaceAfter=No is missing in the MISC field of node #10 because the text is 'specification, but i[...]'
-[Line                   81]: SpaceAfter=No is missing in the MISC field of node #18 because the text is 'compliant.'
 [Line                   85]: Unknown UD DEPREL: nsubj:pass
-[Line                   110]: SpaceAfter=No is missing in the MISC field of node #19 because the text is '(VBA) specification,[...]'
-[Line                   110]: SpaceAfter=No is missing in the MISC field of node #20 because the text is 'VBA) specification, [...]'
-[Line                   110]: SpaceAfter=No is missing in the MISC field of node #22 because the text is 'specification, not SQL.'
-[Line                   110]: SpaceAfter=No is missing in the MISC field of node #25 because the text is 'SQL.'
-[Line                   139]: SpaceAfter=No is missing in the MISC field of node #5 because the text is 'words, syntax rules,[...]'
-[Line                   139]: SpaceAfter=No is missing in the MISC field of node #8 because the text is 'rules, and wildcard [...]'
-[Line                   139]: SpaceAfter=No is missing in the MISC field of node #19 because the text is 'queries, filters, an[...]'
-[Line                   139]: SpaceAfter=No is missing in the MISC field of node #21 because the text is 'filters, and SQL sta[...]'
-[Line                   139]: SpaceAfter=No is missing in the MISC field of node #25 because the text is 'statements.'
-[Line                   161]: SpaceAfter=No is missing in the MISC field of node #10 because the text is 'specification, but i[...]'
-[Line                   161]: SpaceAfter=No is missing in the MISC field of node #18 because the text is 'compliant.'
-[Line                   184]: SpaceAfter=No is missing in the MISC field of node #9 because the text is 'syntax, and the wild[...]'
-...suppressing further errors regarding Metadata
+[Line                   205]: Mismatch between the text attribute and the FORM field. Form is '.' but text is 'x....'
+[Line                   205]: Extra characters at the end of the text attribute, not accounted for in the FORM fields: 'x.'
 [Line                   393]: Unknown UD DEPREL: obl:agent
 [Line                   471]: Unknown UD DEPREL: nsubj:pass
 [Line                   679]: Unknown UD DEPREL: obl:agent
@@ -1253,8 +1216,24 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang en_lines /home/ginter/U
 [Line                   1994]: Unknown UD DEPREL: nsubj:pass
 [Line                   2066]: Unknown UD DEPREL: nsubj:pass
 ...suppressing further errors regarding Syntax
-*** FAILED *** with 6047 errors
-Metadata errors: 5628
+[Line                   3457]: Mismatch between the text attribute and the FORM field. Form is 'and' but text is 'x and will not be inter...'
+[Line                   3457]: Mismatch between the text attribute and the FORM field. Form is 'will' but text is 'x and will not be interp...'
+[Line                   3457]: Mismatch between the text attribute and the FORM field. Form is 'not' but text is 'x and will not be inter...'
+[Line                   3457]: Mismatch between the text attribute and the FORM field. Form is 'be' but text is 'x and will not be inte...'
+[Line                   3457]: Mismatch between the text attribute and the FORM field. Form is 'interpreted' but text is 'x and will not be interpreted a...'
+[Line                   3457]: Mismatch between the text attribute and the FORM field. Form is 'as' but text is 'x and will not be inte...'
+[Line                   3457]: Mismatch between the text attribute and the FORM field. Form is 'themselves' but text is 'x and will not be interpreted ...'
+[Line                   3457]: Mismatch between the text attribute and the FORM field. Form is 'if' but text is 'x and will not be inte...'
+[Line                   3457]: Mismatch between the text attribute and the FORM field. Form is 'used' but text is 'x and will not be interp...'
+[Line                   3457]: Mismatch between the text attribute and the FORM field. Form is 'in' but text is 'x and will not be inte...'
+[Line                   3457]: Mismatch between the text attribute and the FORM field. Form is 'the' but text is 'x and will not be inter...'
+[Line                   3457]: Mismatch between the text attribute and the FORM field. Form is 'data' but text is 'x and will not be interp...'
+[Line                   3457]: Mismatch between the text attribute and the FORM field. Form is 'portion' but text is 'x and will not be interpret...'
+[Line                   3457]: Mismatch between the text attribute and the FORM field. Form is 'of' but text is 'x and will not be inte...'
+[Line                   3457]: Mismatch between the text attribute and the FORM field. Form is 'an' but text is 'x and will not be inte...'
+...suppressing further errors regarding Metadata
+*** FAILED *** with 484 errors
+Metadata errors: 65
 Syntax errors: 419
 
 
