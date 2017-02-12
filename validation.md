@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-02-12T19:25:12Z">2017-02-12T19:25:12 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-02-12T19:26:03Z">2017-02-12T19:26:03 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -3395,11 +3395,11 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang no_nynorsk /home/ginter
 <span class="doublewidespan" style="padding-left:3em">UD Old Church Slavonic</span>
 <span class="widespan">cu</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-11T00:54:15Z">2017-02-11T00:54:15 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-12T19:25:55Z">2017-02-12T19:25:55 zulu</time></span>
 </div>
 <div>
 <pre>
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang cu /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Old_Church_Slavonic/cu-ud-dev.conllu
+python tools/validate.py --lang cu UD-dev-branches/UD_Old_Church_Slavonic/cu-ud-dev.conllu
 
 [Line                   10]: Unknown UPOS tag: CONJ
 [Line                   11]: Unknown UD DEPREL: neg
@@ -3469,7 +3469,7 @@ Syntax errors: 610
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang cu /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Old_Church_Slavonic/cu-ud-train.conllu
+python tools/validate.py --lang cu UD-dev-branches/UD_Old_Church_Slavonic/cu-ud-train.conllu
 
 [Line                   3]: Unknown UD DEPREL: dobj
 [Line                   7]: Unknown UPOS tag: CONJ
@@ -3535,6 +3535,20 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang cu /home/ginter/UD_PROJ
 Metadata errors: 10154
 Morpho errors: 3980
 Syntax errors: 4690
+
+
+******************
+
+python tools/validate.py --lang cu UD-dev-branches/UD_Old_Church_Slavonic/cu_proiel-ud-dev.conllu
+
+*** PASSED ***
+
+
+******************
+
+python tools/validate.py --lang cu UD-dev-branches/UD_Old_Church_Slavonic/cu_proiel-ud-train.conllu
+
+*** PASSED ***
 
 
 ******************
