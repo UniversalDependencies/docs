@@ -205,6 +205,7 @@ They are morphologically and syntactically different from adjectives and other d
 They are much closer to cardinal numerals but they cannot get the `NUM` tag, which is reserved for definite quantities.
 
 Note that the meaning of [pl] _tylko_ has shifted towards “only”, which makes it an adverb rather than a demonstrative quantifier.
+In [hr], _toliko_ is used sometimes as quantifier and sometimes as adverb.
 A similar shift may have happened in some of the other languages, too.
 The interrogative _kolik_ may be used as relative, except in [hsb] and [bg].
 Occasionally it may be also used as indefinite ([pl] _kilka_).
@@ -215,7 +216,7 @@ Occasionally it may be also used as indefinite ([pl] _kilka_).
 * [pl] _kilka_
 * [ru] _сколько, столько, несколько_
 * [sl] _koliko_
-* [hr] _koliko_
+* [hr] _koliko, toliko, nekoliko_
 * [bg] _колко, колкото_
 * [cu] _колико_
 
