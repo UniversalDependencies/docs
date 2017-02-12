@@ -190,8 +190,8 @@
   link: http://universaldependencies.org/docs/u/dep/advmod.html
 
 -
-  name: Acl not dependent on NOUN/PROPN/PRON
-  expr: "!PRON&!NOUN&!PROPN >acl _"
+  name: Acl not dependent on NOUN/PROPN/PRON/DET
+  expr: "!NOUN&!PROPN&!PRON&!DET >acl _"
   expr-pos: _ >acl _
   desc: <b>DEBUGGING TEST. NONZERO HITS DOES NOT MEAN THE DATA IS INVALID.</b> Clausal modifiers of nouns should depend on NOUN/PROPN only; those in the following table depend on other parts of speech.
   link: http://universaldependencies.org/u/dep/acl.html
