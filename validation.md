@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-02-12T15:36:35Z">2017-02-12T15:36:35 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-02-12T16:48:38Z">2017-02-12T16:48:38 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -4397,39 +4397,21 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang sk /home/ginter/UD_PROJ
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD Slovenian</span>
 <span class="widespan">sl</span>
-<span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-11T00:56:32Z">2017-02-11T00:56:32 zulu</time></span>
+<span class="validationpass">PASS</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-12T16:48:29Z">2017-02-12T16:48:29 zulu</time></span>
 </div>
 <div>
 <pre>
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang sl /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Slovenian/sl-ud-dev.conllu
+python tools/validate.py --lang sl UD-dev-branches/UD_Slovenian/sl-ud-dev.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang sl /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Slovenian/sl-ud-train.conllu
+python tools/validate.py --lang sl UD-dev-branches/UD_Slovenian/sl-ud-train.conllu
 
-[Line                   13649]: SpaceAfter=No is missing in the MISC field of node #9 because the text is 'CFME-ACTIM je v sode[...]'
-[Line                   13649]: SpaceAfter=No is missing in the MISC field of node #10 because the text is '-ACTIM je v sodelova[...]'
-[Line                   13649]: SpaceAfter=No is missing in the MISC field of node #23 because the text is 'd.o.o. organiziral k[...]'
-[Line                   13649]: SpaceAfter=No is missing in the MISC field of node #24 because the text is 'o.o. organiziral kon[...]'
-[Line                   29906]: SpaceAfter=No is missing in the MISC field of node #6 because the text is 'd.d. in bralcem Dnev[...]'
-[Line                   50320]: SpaceAfter=No is missing in the MISC field of node #5 because the text is 'Mandatno-imunitetne [...]'
-[Line                   50320]: SpaceAfter=No is missing in the MISC field of node #6 because the text is '-imunitetne komisije[...]'
-[Line                   54800]: SpaceAfter=No is missing in the MISC field of node #5 because the text is 'HSLS-DC s tremi posl[...]'
-[Line                   54800]: SpaceAfter=No is missing in the MISC field of node #6 because the text is '-DC s tremi poslanci[...]'
-[Line                   60324]: SpaceAfter=No is missing in the MISC field of node #10 because the text is 'Said-Guerni z 1:44,32.'
-[Line                   60324]: SpaceAfter=No is missing in the MISC field of node #11 because the text is '-Guerni z 1:44,32.'
-[Line                   66651]: SpaceAfter=No is missing in the MISC field of node #34 because the text is 'ZDSS-1 bolj omejeno.'
-[Line                   66651]: SpaceAfter=No is missing in the MISC field of node #35 because the text is '-1 bolj omejeno.'
-[Line                   66723]: SpaceAfter=No is missing in the MISC field of node #3 because the text is 'ZDSS-1 ne dopušča ve[...]'
-[Line                   66723]: SpaceAfter=No is missing in the MISC field of node #4 because the text is '-1 ne dopušča več mi[...]'
-[Line                   74063]: SpaceAfter=No is missing in the MISC field of node #23 because the text is 'TE-TOL skupno kupila[...]'
-[Line                   74063]: SpaceAfter=No is missing in the MISC field of node #24 because the text is '-TOL skupno kupila d[...]'
-*** FAILED *** with 17 errors
-Metadata errors: 17
+*** PASSED ***
 
 
 ******************
