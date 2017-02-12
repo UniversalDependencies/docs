@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-02-12T12:10:04Z">2017-02-12T12:10:04 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-02-12T14:16:53Z">2017-02-12T14:16:53 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -697,21 +697,42 @@ Metadata errors: 1
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD Croatian</span>
 <span class="widespan">hr</span>
-<span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-12T12:09:51Z">2017-02-12T12:09:51 zulu</time></span>
+<span class="validationfail">FAIL</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-12T14:16:40Z">2017-02-12T14:16:40 zulu</time></span>
 </div>
 <div>
 <pre>
-python tools/validate.py --lang hr UD-dev-branches/UD_Croatian/hr-ud-dev.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang hr /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Croatian/hr-ud-dev.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python tools/validate.py --lang hr UD-dev-branches/UD_Croatian/hr-ud-train.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang hr /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Croatian/hr-ud-train.conllu
 
-*** PASSED ***
+[Line                   1366]: Unknown UD DEPREL: dep:remnant
+[Line                   31582]: Unknown UD DEPREL: dep:remnant
+[Line                   42334]: Unknown UD DEPREL: dep:remnant
+[Line                   42335]: Unknown UD DEPREL: dep:remnant
+[Line                   62969]: Unknown UD DEPREL: dep:remnant
+[Line                   62971]: Unknown UD DEPREL: dep:remnant
+[Line                   63146]: Unknown UD DEPREL: dep:remnant
+[Line                   90764]: Unknown UD DEPREL: dep:remnant
+[Line                   90771]: Unknown UD DEPREL: dep:remnant
+[Line                   118812]: Unknown UD DEPREL: dep:remnant
+[Line                   118816]: Unknown UD DEPREL: dep:remnant
+[Line                   118828]: Unknown UD DEPREL: dep:remnant
+[Line                   118832]: Unknown UD DEPREL: dep:remnant
+[Line                   118842]: Unknown UD DEPREL: dep:remnant
+[Line                   118846]: Unknown UD DEPREL: dep:remnant
+[Line                   118856]: Unknown UD DEPREL: dep:remnant
+[Line                   118860]: Unknown UD DEPREL: dep:remnant
+[Line                   118871]: Unknown UD DEPREL: dep:remnant
+[Line                   118875]: Unknown UD DEPREL: dep:remnant
+...suppressing further errors regarding Syntax
+*** FAILED *** with 27 errors
+Syntax errors: 27
 
 
 ******************
