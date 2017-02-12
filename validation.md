@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-02-12T16:48:48Z">2017-02-12T16:48:48 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-02-12T16:56:42Z">2017-02-12T16:56:42 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -4827,131 +4827,21 @@ Syntax errors: 3393
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD Ukrainian</span>
 <span class="widespan">uk</span>
-<span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-12T16:48:48Z">2017-02-12T16:48:48 zulu</time></span>
+<span class="validationpass">PASS</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-12T16:56:41Z">2017-02-12T16:56:41 zulu</time></span>
 </div>
 <div>
 <pre>
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang uk /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Ukrainian/uk-ud-dev.conllu
+python tools/validate.py --lang uk UD-dev-branches/UD_Ukrainian/uk-ud-dev.conllu
 
-[Line                   2]: Unknown UD DEPREL: neg
-[Line                   7]: Unknown UD DEPREL: neg
-[Line                   10]: Spurious sent_id line: '# sent_id 222' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
-[Line                   10]: Missing the sent_id attribute.
-[Line                   10]: Missing the text attribute.
-[Line                   21]: Spurious sent_id line: '# sent_id 223' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
-[Line                   21]: Missing the sent_id attribute.
-[Line                   21]: Missing the text attribute.
-[Line                   32]: Spurious sent_id line: '# sent_id 224' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
-[Line                   32]: Missing the sent_id attribute.
-[Line                   32]: Missing the text attribute.
-[Line                   42]: Spurious sent_id line: '# sent_id 225' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
-[Line                   42]: Missing the sent_id attribute.
-[Line                   42]: Missing the text attribute.
-[Line                   54]: Spurious sent_id line: '# sent_id 226' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
-[Line                   54]: Missing the sent_id attribute.
-[Line                   54]: Missing the text attribute.
-[Line                   69]: Spurious sent_id line: '# sent_id 227' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
-[Line                   69]: Missing the sent_id attribute.
-[Line                   69]: Missing the text attribute.
-[Line                   76]: Unknown UPOS tag: CONJ
-[Line                   77]: Unknown UD DEPREL: remnant
-[Line                   79]: Unknown UD DEPREL: remnant
-[Line                   81]: Spurious sent_id line: '# sent_id 228' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
-...suppressing further errors regarding Metadata
-[Line                   86]: Unknown UD DEPREL: dobj
-[Line                   88]: Unknown UD DEPREL: remnant
-[Line                   90]: Unknown UD DEPREL: remnant
-[Line                   92]: Unknown UPOS tag: CONJ
-[Line                   93]: Unknown UD DEPREL: remnant
-[Line                   95]: Unknown UD DEPREL: remnant
-[Line                   120]: Unknown UD DEPREL: neg
-[Line                   132]: Unknown UD DEPREL: name
-[Line                   171]: Unknown UPOS tag: CONJ
-[Line                   174]: Unknown UPOS tag: CONJ
-[Line                   190]: Unknown UD DEPREL: neg
-[Line                   198]: Unknown UPOS tag: CONJ
-[Line                   199]: Unknown UD DEPREL: neg
-[Line                   202]: Unknown UPOS tag: CONJ
-[Line                   207]: Unknown UPOS tag: CONJ
-[Line                   238]: Unknown UD DEPREL: dobj
-[Line                   239]: Unknown UD DEPREL: neg
-[Line                   247]: Unknown UD DEPREL: dobj
-[Line                   257]: Unknown UD DEPREL: dobj
-[Line                   271]: Unknown UPOS tag: CONJ
-[Line                   280]: Unknown UPOS tag: CONJ
-*** FAILED *** with 116 errors
-Metadata errors: 90
-Morpho errors: 9
-Syntax errors: 17
+*** PASSED ***
 
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang uk /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Ukrainian/uk-ud-train.conllu
+python tools/validate.py --lang uk UD-dev-branches/UD_Ukrainian/uk-ud-train.conllu
 
-[Line                   8]: Spurious sent_id line: '# sent_id 1' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
-[Line                   8]: Missing the sent_id attribute.
-[Line                   8]: Missing the text attribute.
-[Line                   14]: Spurious sent_id line: '# sent_id 2' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
-[Line                   14]: Missing the sent_id attribute.
-[Line                   14]: Missing the text attribute.
-[Line                   21]: Spurious sent_id line: '# sent_id 3' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
-[Line                   21]: Missing the sent_id attribute.
-[Line                   21]: Missing the text attribute.
-[Line                   23]: Unknown UPOS tag: CONJ
-[Line                   25]: Unknown UD DEPREL: neg
-[Line                   34]: Spurious sent_id line: '# sent_id 4' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
-[Line                   34]: Missing the sent_id attribute.
-[Line                   34]: Missing the text attribute.
-[Line                   45]: Spurious sent_id line: '# sent_id 6' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
-[Line                   45]: Missing the sent_id attribute.
-[Line                   45]: Missing the text attribute.
-[Line                   47]: Unknown UD DEPREL: nsubjpass
-[Line                   55]: Spurious sent_id line: '# sent_id 7' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
-[Line                   55]: Missing the sent_id attribute.
-[Line                   55]: Missing the text attribute.
-[Line                   57]: Unknown UD DEPREL: nsubjpass
-[Line                   58]: Unknown UD DEPREL: neg
-[Line                   59]: Unknown UD DEPREL: auxpass
-[Line                   62]: Spurious sent_id line: '# sent_id 8' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
-...suppressing further errors regarding Metadata
-[Line                   69]: Unknown UD DEPREL: nsubjpass
-[Line                   71]: Unknown attribute-value pair VerbForm=Imps
-[Line                   75]: Unknown UD DEPREL: nsubjpass
-[Line                   81]: Unknown UD DEPREL: nsubjpass
-[Line                   83]: Unknown attribute-value pair VerbForm=Imps
-[Line                   89]: Unknown UD DEPREL: dobj
-[Line                   96]: Unknown UD DEPREL: dobj
-[Line                   100]: Unknown UD DEPREL: neg
-[Line                   103]: Unknown UD DEPREL: dobj
-[Line                   107]: Unknown UD DEPREL: dobj
-[Line                   120]: Unknown UD DEPREL: dobj
-[Line                   124]: Unknown UD DEPREL: dobj
-[Line                   130]: Unknown UD DEPREL: neg
-[Line                   133]: Unknown UD DEPREL: dobj
-[Line                   138]: Unknown UD DEPREL: dobj
-[Line                   143]: Unknown UD DEPREL: dobj
-...suppressing further errors regarding Syntax
-[Line                   364]: Unknown attribute-value pair VerbForm=Imps
-[Line                   369]: Unknown attribute-value pair VerbForm=Imps
-[Line                   394]: Unknown attribute-value pair VerbForm=Imps
-[Line                   416]: Unknown attribute-value pair VerbForm=Imps
-[Line                   421]: Unknown attribute-value pair VerbForm=Imps
-[Line                   787]: Unknown UPOS tag: CONJ
-[Line                   793]: Unknown attribute-value pair VerbForm=Imps
-[Line                   873]: Unknown attribute-value pair VerbForm=Imps
-[Line                   881]: Unknown attribute-value pair VerbForm=Imps
-[Line                   890]: Unknown attribute-value pair VerbForm=Imps
-[Line                   899]: Unknown attribute-value pair VerbForm=Imps
-[Line                   941]: Unknown UPOS tag: CONJ
-[Line                   1280]: Unknown UPOS tag: CONJ
-[Line                   1495]: Unknown UPOS tag: CONJ
-[Line                   1658]: Unknown UPOS tag: CONJ
-*** FAILED *** with 757 errors
-Metadata errors: 600
-Morpho errors: 18
-Syntax errors: 139
+*** PASSED ***
 
 
 ******************
