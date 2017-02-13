@@ -68,7 +68,7 @@ The temporal noun may be part of a complex noun phrase.
 ~~~
 
 ~~~ conllu
-# visual-style 5 2 obl:tmod	color:blue
+# visual-style 6 2 obl:tmod	color:blue
 1	三	_	NUM	_	_	2	nummod	_	three
 2	天	_	NOUN	_	_	6	obl:tmod	_	CL:days
 3	前	_	ADP	_	_	2	case:loc	_	before
