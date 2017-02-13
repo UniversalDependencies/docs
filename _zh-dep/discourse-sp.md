@@ -1,6 +1,6 @@
 ---
 layout: relation
-title: 'disource:sp'
+title: 'discourse:sp'
 shortdef: 'sentence particle'
 udver: '2'
 ---
