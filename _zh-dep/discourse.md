@@ -9,6 +9,10 @@ The discourse relation is used for interjections (words tagged [INTJ]()) and oth
 
 ~~~ conllu
 # visual-style 3 1 discourse	color:blue
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
 1	嗯	_	INTJ	_	_	4	discourse	_	uh-huh
 2	，	_	PUNCT	_	_	1	punct	_	_
 3	不過	_	ADV	_	_	4	advmod	_	but
