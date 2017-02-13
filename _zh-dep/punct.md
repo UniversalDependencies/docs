@@ -19,7 +19,7 @@ This relation is used for all punctuation symbols.
 
 ~~~
 
-We following the following official [UD principles](http://universaldependencies.org/u/dep/punct.html) in determining the head of punctuation marks:
+We follow the official [UD principles](http://universaldependencies.org/u/dep/punct.html) in determining the head of punctuation marks:
 
 1. A punctuation mark separating coordinated units is attached to the following conjunct.
 2. A punctuation mark preceding or following a subordinated unit is attached to this unit.
@@ -82,7 +82,7 @@ We following the following official [UD principles](http://universaldependencies
 # visual-style 8 4 punct	color:blue
 # visual-style 8 7 punct	color:blue
 # visual-style 8 9 punct	color:blue
-# visual-style 9 10 punct	color:blue
+# visual-style 8 10 punct	color:blue
 # visual-style 17 18 punct	color:blue
 1	《	_	PUNCT	_	_	2	punct	_	_
 2	紅樓夢	_	PROPN	_	_	17	nsubj	_	Dream-of-the-Red-Chamber
