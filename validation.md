@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-02-13T03:27:56Z">2017-02-13T03:27:56 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-02-13T03:35:47Z">2017-02-13T03:35:47 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -935,8 +935,8 @@ python tools/validate.py --lang nl_lassysmall UD-dev-branches/UD_Dutch-LassySmal
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD English</span>
 <span class="widespan">en</span>
-<span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-13T03:27:42Z">2017-02-13T03:27:42 zulu</time></span>
+<span class="validationpass">PASS</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-13T03:35:33Z">2017-02-13T03:35:33 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -949,9 +949,7 @@ python tools/validate.py --lang en UD-dev-branches/UD_English/en-ud-dev.conllu
 
 python tools/validate.py --lang en UD-dev-branches/UD_English/en-ud-train.conllu
 
-[Line                   157348]: SpaceAfter=No is missing in the MISC field of node #7 because the text is 'now…'
-*** FAILED *** with 1 errors
-Metadata errors: 1
+*** PASSED ***
 
 
 ******************
