@@ -9,6 +9,10 @@ The `dislocated` relation is used for elements that have been displaced from its
 
 ~~~ conllu
 # visual-style 6 4 dislocated	color:blue
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
 1	我	_	PRON	_	_	4	nmod	_	1SG
 2	的	_	PART	_	_	1	case	_	GEN
 3	辭職	_	NOUN	_	_	4	compound	_	resignation
@@ -37,6 +41,10 @@ This relation is also used for topicalized and dislocated subjects (followed by 
 
 ~~~ conllu
 # visual-style 9 2 dislocated	color:blue
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
 1	龍	_	PROPN	_	_	2	compound	_	Long
 2	先生	_	NOUN	_	_	9	dislocated	_	Mr.
 3	我	_	PRON	_	_	5	nmod	_	1SG
@@ -62,6 +70,10 @@ Below is an example of a topic phrase that is not an argument of the main verb, 
 
 ~~~ conllu
 # visual-style 5 3 dislocated	color:blue
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
 1	今天	_	NOUN	_	_	3	nmod	_	today
 2	的	_	PART	_	_	1	case	_	GEN
 3	午餐	_	NOUN	_	_	5	dislocated	_	lunch
@@ -83,6 +95,10 @@ However, this relation does not apply to arguments that appear in non-canonical 
 
 ~~~ conllu
 # visual-style 1 6 dislocated	color:blue
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
 1	來	_	VERB	_	_	0	root	_	come
 2	了	_	PART	_	_	1	discourse:sp	_	SP
 3	嗎	_	PART	_	_	1	discourse:sp	_	SP:Q
@@ -101,6 +117,10 @@ However, this relation does not apply to arguments that appear in non-canonical 
 
 ~~~ conllu
 # visual-style 2 5 dislocated	color:blue
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
 1	我們	_	PRON	_	_	2	nsubj	_	1PL
 2	去	_	VERB	_	_	0	root	_	go
 3	吧	_	PART	_	_	2	discourse:sp	_	SP
