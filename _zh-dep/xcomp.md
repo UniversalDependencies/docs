@@ -99,10 +99,10 @@ Note that the complement may be simply a nominal predicate, where the structure 
 
 ~~~ conllu
 # visual-style 2 4 xcomp	color:blue
-1	d她	_	PRON	_	_	2	nsubj	_	3SG.F
-2	d當	_	VERB	_	_	0	root	_	consider
-3	d我	_	PRON	_	_	2	obj	_	1SG
-4	d傻瓜	_	NOUN	_	_	2	xcomp	_	fool
+1	她	_	PRON	_	_	2	nsubj	_	3SG.F
+2	當	_	VERB	_	_	0	root	_	consider
+3	我	_	PRON	_	_	2	obj	_	1SG
+4	傻瓜	_	NOUN	_	_	2	xcomp	_	fool
 
 1	"She	_	_	_	_	0	_	_	_
 2	considers	_	_	_	_	0	_	_	_
@@ -185,12 +185,12 @@ Since both `ccomp` and object-control `xcomp` may both contain an argument betwe
 
 We adopt a test from Chao (1968) which allows one to separate "clausal objects" (`ccomp`) from "pivotal constructions" (object-control `xcomp`). In the case of `ccomp`, it is grammatical to dislocate the matrix verb with its subject to the end, while the same operation on an `xcomp` sentence would result in ungrammaticality:
 
-<b>`ccomp`</b> | <b>`xcomp`</b>
--------------- | --------------
-_他 認為_ 你 有 禮貌 | _他 请_ 你 帮忙
-3SG consider 2SG have politeness | 3SG ask 2SG help
-"He thinks you're polite" | "He asked you to help"
-OKAY: 你 有 禮貌, _他 認為_ | BAD: * 你 帮忙, _他 请_
+**`ccomp`** |   | **`xcomp`**
+----------- | - | -----------
+_他 認為_ 你 有 禮貌 | | _他 请_ 你 帮忙
+3SG consider 2SG have politeness | | 3SG ask 2SG help
+"He thinks you're polite" | | "He asked you to help"
+OKAY: 你 有 禮貌, _他 認為_ | | BAD: * 你 帮忙, _他 请_
 
 ### References
 
