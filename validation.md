@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-02-13T01:01:03Z">2017-02-13T01:01:03 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-02-13T03:22:30Z">2017-02-13T03:22:30 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -936,11 +936,11 @@ python tools/validate.py --lang nl_lassysmall UD-dev-branches/UD_Dutch-LassySmal
 <span class="doublewidespan" style="padding-left:3em">UD English</span>
 <span class="widespan">en</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-11T00:49:49Z">2017-02-11T00:49:49 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-13T03:22:14Z">2017-02-13T03:22:14 zulu</time></span>
 </div>
 <div>
 <pre>
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang en /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_English/en-ud-dev.conllu
+python tools/validate.py --lang en UD-dev-branches/UD_English/en-ud-dev.conllu
 
 [Line                   14326]: SpaceAfter=No is missing in the MISC field of node #48 because the text is 'etc.'
 *** FAILED *** with 1 errors
@@ -949,9 +949,9 @@ Metadata errors: 1
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang en /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_English/en-ud-train.conllu
+python tools/validate.py --lang en UD-dev-branches/UD_English/en-ud-train.conllu
 
-[Line                   157347]: SpaceAfter=No is missing in the MISC field of node #7 because the text is 'now…'
+[Line                   157348]: SpaceAfter=No is missing in the MISC field of node #7 because the text is 'now…'
 *** FAILED *** with 1 errors
 Metadata errors: 1
 
