@@ -9,6 +9,10 @@ The `det` relation applies to the head of a nominal and its determiner. All dete
 
 ~~~ conllu
 # visual-style 4 1 det	color:blue
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
 1	這	_	DET	_	_	4	det	_	this
 2	頓	_	NOUN	_	_	1	clf	_	CL
 3	英雄	_	NOUN	_	_	4	compound	_	hero
@@ -22,6 +26,10 @@ The `det` relation applies to the head of a nominal and its determiner. All dete
 
 ~~~ conllu
 # visual-style 3 1 det	color:blue
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
 1	哪	_	DET	_	_	3	det	_	which
 2	一	_	NUM	_	_	3	nummod	_	one
 3	位	_	NOUN	_	_	0	root	_	CL:person
@@ -33,6 +41,10 @@ The `det` relation applies to the head of a nominal and its determiner. All dete
 
 ~~~ conllu
 # visual-style 2 1 det	color:blue
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
 1	每	_	DET	_	_	2	det	_	every
 2	次	_	NOUN	_	_	0	root	_	CL:time
 
@@ -45,6 +57,10 @@ Classifiers are treated as determiners when a noun phrase begins with a bare cla
 
 ~~~ conllu
 # visual-style 4 3 det	color:blue
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
 1	買	_	VERB	_	_	0	root	_	buy
 2	了	_	AUX	_	_	1	aux	_	PERF
 3	本	_	NOUN	_	_	4	det	_	CL:book
