@@ -5,7 +5,7 @@ shortdef: 'parataxis'
 udver: '2'
 ---
 
-Parataxis is a relation for "side-by-side sentences" including reported speech (1), parenthetical comments and clausal interjections (2), tag questions (3), and generally pairs of clauses that are pragmatically understood to be related in a discursive way despite lacking linking words between them (4).
+Parataxis is a relation for "side-by-side sentences" including reported speech (1), parenthetical comments and clausal interjections (2), tag questions (3), and generally pairs of clauses that are pragmatically understood to be related in a discursive way despite lacking linking words between them (4). Clauses introduced after a colon (冒號 "：") or long dash (破折號 "──") also exemplify this kind of usage (5).
 
 ~~~ conllu
 # visual-style 4 11 parataxis	color:blue
@@ -107,5 +107,32 @@ Parataxis is a relation for "side-by-side sentences" including reported speech (
 13	be	_	_	_	_	0	_	_	_
 14	one	_	_	_	_	0	_	_	_
 15	soon."	_	_	_	_	0	_	_	_
+
+~~~
+
+~~~ conllu
+# visual-style 3 10 parataxis	color:blue
+1	你	_	PRON	_	_	2	nsubj	_	2SG
+2	買	_	VERB	_	_	0	root	_	buy
+3	這	_	DET	_	_	5	det	_	this
+4	本	_	NOUN	_	_	3	clf	_	CL:book
+5	書	_	NOUN	_	_	2	obj	_	book
+6	吧	_	SP	_	_	10	discourse:sp	_	SP
+7	──	_	PUNCT	_	_	11	punct	_	2SG
+8	那	_	DET	_	_	9	det	_	that
+9	本	_	NOUN	_	_	11	nsubj	_	CL:book
+10	不	_	ADV	_	_	11	advmod	_	NEG
+11	好	_	ADJ	_	_	2	parataxis	_	good
+
+1	"You	_	_	_	_	0	_	_	_
+2	should	_	_	_	_	0	_	_	_
+3	buy	_	_	_	_	0	_	_	_
+4	this	_	_	_	_	0	_	_	_
+5	book;	_	_	_	_	0	_	_	_
+6	that	_	_	_	_	0	_	_	_
+7	one	_	_	_	_	0	_	_	_
+8	is	_	_	_	_	0	_	_	_
+9	not	_	_	_	_	0	_	_	_
+10	good."	_	_	_	_	0	_	_	_
 
 ~~~
