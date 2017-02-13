@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-02-13T17:14:44Z">2017-02-13T17:14:44 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-02-13T18:16:03Z">2017-02-13T18:16:03 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -985,35 +985,21 @@ Syntax errors: 6400
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD English-LinES</span>
 <span class="widespan">en lines</span>
-<span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-13T13:21:01Z">2017-02-13T13:21:01 zulu</time></span>
+<span class="validationpass">PASS</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-13T18:16:00Z">2017-02-13T18:16:00 zulu</time></span>
 </div>
 <div>
 <pre>
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang en_lines /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_English-LinES/en_lines-ud-dev.conllu
+python tools/validate.py --lang en_lines UD-dev-branches/UD_English-LinES/en_lines-ud-dev.conllu
 
-[Line                   2716]: Spurious comment line.
-[Line                   5971]: Spurious comment line.
-[Line                   8409]: Spurious comment line.
-[Line                   11154]: Spurious comment line.
-[Line                   13455]: Spurious comment line.
-[Line                   17209]: Spurious comment line.
-*** FAILED *** with 6 errors
-Format errors: 6
+*** PASSED ***
 
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang en_lines /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_English-LinES/en_lines-ud-train.conllu
+python tools/validate.py --lang en_lines UD-dev-branches/UD_English-LinES/en_lines-ud-train.conllu
 
-[Line                   7402]: Spurious comment line.
-[Line                   17024]: Spurious comment line.
-[Line                   24277]: Spurious comment line.
-[Line                   33489]: Spurious comment line.
-[Line                   40125]: Spurious comment line.
-[Line                   50834]: Spurious comment line.
-*** FAILED *** with 6 errors
-Format errors: 6
+*** PASSED ***
 
 
 ******************
