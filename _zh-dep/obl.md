@@ -1,7 +1,7 @@
 ---
 layout: relation
 title: 'obl'
-shortdef: 'obl nominal'
+shortdef: 'oblique nominal'
 udver: '2'
 ---
 
@@ -48,9 +48,9 @@ The relation can also be used for nominals that don’t include a nominal marker
 3	series	_	_	_	_	0	_	_	_
 4	earned	_	_	_	_	0	_	_	_
 5	me	_	_	_	_	0	_	_	_
-6	a	_	_	_	_	0	_	_	_
-7	lot	_	_	_	_	0	_	_	_
-8	of	_	_	_	_	0	_	_	_
+6	quite	_	_	_	_	0	_	_	_
+7	a	_	_	_	_	0	_	_	_
+8	bit	_	_	_	_	0	_	_	_
 9	commission."	_	_	_	_	0	_	_	_
 
 ~~~
