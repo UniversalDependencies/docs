@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-02-13T10:01:40Z">2017-02-13T10:01:40 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-02-13T12:08:40Z">2017-02-13T12:08:40 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -2328,8 +2328,8 @@ Syntax errors: 824
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD Italian</span>
 <span class="widespan">it</span>
-<span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-13T01:00:49Z">2017-02-13T01:00:49 zulu</time></span>
+<span class="validationpass">PASS</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-13T12:08:27Z">2017-02-13T12:08:27 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -2342,28 +2342,7 @@ python tools/validate.py --lang it UD-dev-branches/UD_Italian/it-ud-dev.conllu
 
 python tools/validate.py --lang it UD-dev-branches/UD_Italian/it-ud-train.conllu
 
-[Line                   4880]: SpaceAfter=No is missing in the MISC field of node #14-15 because the text is 'alla" Mulieris digni[...]'
-[Line                   201394]: SpaceAfter=No is missing in the MISC field of node #47-48 because the text is 'nei:'
-[Line                   236798]: SpaceAfter=No is missing in the MISC field of node #32-33 because the text is 'nell’ospedale di Gre[...]'
-[Line                   237132]: SpaceAfter=No is missing in the MISC field of node #24-25 because the text is 'dell’ospedale di Gre[...]'
-[Line                   237155]: SpaceAfter=No is missing in the MISC field of node #15-16 because the text is 'dell’incidente.'
-[Line                   237370]: SpaceAfter=No is missing in the MISC field of node #23-24 because the text is 'dell’ospedale per l’[...]'
-[Line                   237461]: SpaceAfter=No is missing in the MISC field of node #18-19 because the text is 'all’ex compagno di s[...]'
-[Line                   237481]: SpaceAfter=No is missing in the MISC field of node #10-11 because the text is 'all’ospedale di Gren[...]'
-[Line                   237499]: SpaceAfter=No is missing in the MISC field of node #9-10 because the text is 'dell’ex ferrarista.'
-[Line                   237779]: SpaceAfter=No is missing in the MISC field of node #5-6 because the text is 'nell’apprendere che [...]'
-[Line                   238320]: SpaceAfter=No is missing in the MISC field of node #3-4 because the text is 'dell’anno nuovo avrà[...]'
-[Line                   238394]: SpaceAfter=No is missing in the MISC field of node #3-4 because the text is 'dell’anno nuovo sarà[...]'
-[Line                   238590]: SpaceAfter=No is missing in the MISC field of node #29-30 because the text is 'dell’episcopato mond[...]'
-[Line                   239129]: SpaceAfter=No is missing in the MISC field of node #6-7 because the text is 'all’ospedale di Subi[...]'
-[Line                   239240]: SpaceAfter=No is missing in the MISC field of node #19-20 because the text is 'dall’altra, è entrat[...]'
-[Line                   239358]: SpaceAfter=No is missing in the MISC field of node #2-3 because the text is 'all’Arma dei carabin[...]'
-[Line                   239751]: SpaceAfter=No is missing in the MISC field of node #9-10 because the text is 'dell’operazione Veba[...]'
-[Line                   239815]: SpaceAfter=No is missing in the MISC field of node #16-17 because the text is 'dell’attuale contrat[...]'
-[Line                   239868]: SpaceAfter=No is missing in the MISC field of node #13-14 because the text is 'dell’operazione con [...]'
-...suppressing further errors regarding Metadata
-*** FAILED *** with 30 errors
-Metadata errors: 30
+*** PASSED ***
 
 
 ******************
