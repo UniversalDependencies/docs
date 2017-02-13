@@ -17,7 +17,7 @@ When a clause is the passive subject of a verb, the `csubj:pass` relation is use
 2	換	_	VERB	_	_	6	csubj:pass	_	change
 3	衣服	_	NOUN	_	_	2	obj	_	clothes
 4	被	_	ADP	_	_	5	case	_	by
-5	人	_	NOUN	_	_	6	obl	_	people
+5	人	_	NOUN	_	_	6	obl:agent	_	people
 6	看	_	VERB	_	_	0	root	_	see
 7	見	_	VERB	_	_	6	compound:vv	_	see
 
