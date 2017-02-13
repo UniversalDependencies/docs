@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-02-13T14:22:45Z">2017-02-13T14:22:45 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-02-13T17:11:47Z">2017-02-13T17:11:47 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -3139,62 +3139,41 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang pl /home/ginter/UD_PROJ
 <span class="doublewidespan" style="padding-left:3em">UD Portuguese</span>
 <span class="widespan">pt</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-13T13:25:19Z">2017-02-13T13:25:19 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-13T17:11:33Z">2017-02-13T17:11:33 zulu</time></span>
 </div>
 <div>
 <pre>
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang pt /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Portuguese/pt-ud-dev.conllu
+python tools/validate.py --lang pt UD-dev-branches/UD_Portuguese/pt-ud-dev.conllu
 
-[Line                   528]: SpaceAfter=No is missing in the MISC field of node #9 because the text is 'Automóveis, Leonardo[...]'
-[Line                   528]: Mismatch between the text attribute and the FORM field. Form is '(' but text is ', Leonardo Romanioli ...'
-[Line                   528]: Mismatch between the text attribute and the FORM field. Form is 'Leonardo' but text is ', Leonardo Romanioli Filho, ...'
-[Line                   528]: Mismatch between the text attribute and the FORM field. Form is 'Romanioli' but text is ', Leonardo Romanioli Filho, e...'
-[Line                   528]: Mismatch between the text attribute and the FORM field. Form is 'Filho' but text is ', Leonardo Romanioli Filh...'
-[Line                   528]: Mismatch between the text attribute and the FORM field. Form is ')' but text is ', Leonardo Romanioli ...'
-[Line                   528]: Mismatch between the text attribute and the FORM field. Form is 'e' but text is ', Leonardo Romanioli ...'
-[Line                   528]: Mismatch between the text attribute and the FORM field. Form is 'o' but text is ', Leonardo Romanioli ...'
-[Line                   528]: Mismatch between the text attribute and the FORM field. Form is 'vendedor' but text is ', Leonardo Romanioli Filho, ...'
-[Line                   528]: Mismatch between the text attribute and the FORM field. Form is 'Luís' but text is ', Leonardo Romanioli Fil...'
-[Line                   528]: Mismatch between the text attribute and the FORM field. Form is 'Silveira' but text is ', Leonardo Romanioli Filho, ...'
-[Line                   528]: Mismatch between the text attribute and the FORM field. Form is 'da' but text is 'Leonardo Romanioli Fil...'
-[Line                   528]: Mismatch between the text attribute and the FORM field. Form is 'concessionária' but text is 'Leonardo Romanioli Filho, e o vend...'
-[Line                   528]: Mismatch between the text attribute and the FORM field. Form is 'Frame' but text is 'Leonardo Romanioli Filho,...'
-[Line                   528]: Mismatch between the text attribute and the FORM field. Form is '.' but text is 'Leonardo Romanioli Fi...'
-[Line                   528]: Extra characters at the end of the text attribute, not accounted for in the FORM fields: 'Leonardo Romanioli Filho, e o vendedor Luís Silveira, da concessionária Frame.'
-[Line                   4788]: Mismatch between the text attribute and the FORM field. Form is ',' but text is ' Estados Unidos, Fran...'
-[Line                   4788]: Mismatch between the text attribute and the FORM field. Form is 'Estados' but text is ' Estados Unidos, França e I...'
-[Line                   4788]: Mismatch between the text attribute and the FORM field. Form is 'Unidos' but text is ' Estados Unidos, França e ...'
-...suppressing further errors regarding Metadata
-*** FAILED *** with 56 errors
-Metadata errors: 56
+*** PASSED ***
 
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang pt /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Portuguese/pt-ud-train.conllu
+python tools/validate.py --lang pt UD-dev-branches/UD_Portuguese/pt-ud-train.conllu
 
-[Line                   1281]: Mismatch between the text attribute and the FORM field. Form is 'teve' but text is 'PÚBLICO teve acesso -- t...'
-[Line                   1281]: Mismatch between the text attribute and the FORM field. Form is 'acesso' but text is 'PÚBLICO teve acesso -- tra...'
-[Line                   1281]: Mismatch between the text attribute and the FORM field. Form is '--' but text is 'PÚBLICO teve acesso --...'
-[Line                   1281]: Mismatch between the text attribute and the FORM field. Form is 'traçado' but text is 'PÚBLICO teve acesso -- traç...'
-[Line                   1281]: Mismatch between the text attribute and the FORM field. Form is 'pela' but text is 'PÚBLICO teve acesso -- t...'
-[Line                   1281]: Mismatch between the text attribute and the FORM field. Form is 'comissão' but text is 'PÚBLICO teve acesso -- traça...'
-[Line                   1281]: Mismatch between the text attribute and the FORM field. Form is 'revela' but text is 'PÚBLICO teve acesso -- tra...'
-[Line                   1281]: Mismatch between the text attribute and the FORM field. Form is 'que' but text is 'PÚBLICO teve acesso -- ...'
-[Line                   1281]: Mismatch between the text attribute and the FORM field. Form is 'o' but text is 'PÚBLICO teve acesso -...'
-[Line                   1281]: Mismatch between the text attribute and the FORM field. Form is 'número' but text is 'PÚBLICO teve acesso -- tra...'
-[Line                   1281]: Mismatch between the text attribute and the FORM field. Form is 'de' but text is 'PÚBLICO teve acesso --...'
-[Line                   1281]: Mismatch between the text attribute and the FORM field. Form is 'pessoas' but text is 'PÚBLICO teve acesso -- traç...'
-[Line                   1281]: Mismatch between the text attribute and the FORM field. Form is 'abrangidas' but text is 'PÚBLICO teve acesso -- traçado...'
-[Line                   1281]: Mismatch between the text attribute and the FORM field. Form is 'pelo' but text is 'PÚBLICO teve acesso -- t...'
-[Line                   1281]: Mismatch between the text attribute and the FORM field. Form is 'RMG' but text is 'PÚBLICO teve acesso -- ...'
-[Line                   1281]: Mismatch between the text attribute and the FORM field. Form is 'aumentou' but text is 'PÚBLICO teve acesso -- traça...'
-[Line                   1281]: Mismatch between the text attribute and the FORM field. Form is '36' but text is 'PÚBLICO teve acesso --...'
-[Line                   1281]: Mismatch between the text attribute and the FORM field. Form is 'por' but text is 'PÚBLICO teve acesso -- ...'
-[Line                   1281]: Mismatch between the text attribute and the FORM field. Form is 'cento' but text is 'PÚBLICO teve acesso -- tr...'
+[Line                   1287]: Mismatch between the text attribute and the FORM field. Form is 'teve' but text is 'PÚBLICO teve acesso -- t...'
+[Line                   1287]: Mismatch between the text attribute and the FORM field. Form is 'acesso' but text is 'PÚBLICO teve acesso -- tra...'
+[Line                   1287]: Mismatch between the text attribute and the FORM field. Form is '--' but text is 'PÚBLICO teve acesso --...'
+[Line                   1287]: Mismatch between the text attribute and the FORM field. Form is 'traçado' but text is 'PÚBLICO teve acesso -- traç...'
+[Line                   1287]: Mismatch between the text attribute and the FORM field. Form is 'pela' but text is 'PÚBLICO teve acesso -- t...'
+[Line                   1287]: Mismatch between the text attribute and the FORM field. Form is 'comissão' but text is 'PÚBLICO teve acesso -- traça...'
+[Line                   1287]: Mismatch between the text attribute and the FORM field. Form is 'revela' but text is 'PÚBLICO teve acesso -- tra...'
+[Line                   1287]: Mismatch between the text attribute and the FORM field. Form is 'que' but text is 'PÚBLICO teve acesso -- ...'
+[Line                   1287]: Mismatch between the text attribute and the FORM field. Form is 'o' but text is 'PÚBLICO teve acesso -...'
+[Line                   1287]: Mismatch between the text attribute and the FORM field. Form is 'número' but text is 'PÚBLICO teve acesso -- tra...'
+[Line                   1287]: Mismatch between the text attribute and the FORM field. Form is 'de' but text is 'PÚBLICO teve acesso --...'
+[Line                   1287]: Mismatch between the text attribute and the FORM field. Form is 'pessoas' but text is 'PÚBLICO teve acesso -- traç...'
+[Line                   1287]: Mismatch between the text attribute and the FORM field. Form is 'abrangidas' but text is 'PÚBLICO teve acesso -- traçado...'
+[Line                   1287]: Mismatch between the text attribute and the FORM field. Form is 'pelo' but text is 'PÚBLICO teve acesso -- t...'
+[Line                   1287]: Mismatch between the text attribute and the FORM field. Form is 'RMG' but text is 'PÚBLICO teve acesso -- ...'
+[Line                   1287]: Mismatch between the text attribute and the FORM field. Form is 'aumentou' but text is 'PÚBLICO teve acesso -- traça...'
+[Line                   1287]: Mismatch between the text attribute and the FORM field. Form is '36' but text is 'PÚBLICO teve acesso --...'
+[Line                   1287]: Mismatch between the text attribute and the FORM field. Form is 'por' but text is 'PÚBLICO teve acesso -- ...'
+[Line                   1287]: Mismatch between the text attribute and the FORM field. Form is 'cento' but text is 'PÚBLICO teve acesso -- tr...'
 ...suppressing further errors regarding Metadata
-*** FAILED *** with 2788 errors
-Metadata errors: 2788
+*** FAILED *** with 2268 errors
+Metadata errors: 2268
 
 
 ******************
