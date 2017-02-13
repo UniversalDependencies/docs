@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-02-13T20:02:53Z">2017-02-13T20:02:53 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-02-13T20:17:04Z">2017-02-13T20:17:04 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -1423,12 +1423,112 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang fr_partut /home/ginter/
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD French-Sequoia</span>
 <span class="widespan">fr sequoia</span>
-<span class="validationfail">EMPTY</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-13T13:21:54Z">2017-02-13T13:21:54 zulu</time></span>
+<span class="validationfail">FAIL</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-13T20:17:00Z">2017-02-13T20:17:00 zulu</time></span>
 </div>
 <div>
 <pre>
-No data
+python tools/validate.py --lang fr_sequoia UD-dev-branches/UD_French-Sequoia/fr_sequoia-ud-dev.conllu
+
+[Line                   37]: SpaceAfter=No is missing in the MISC field of node #1 because the text is 'L'association a chan[...]'
+[Line                   37]: SpaceAfter=No is missing in the MISC field of node #9 because the text is 'l'aide de plusieurs [...]'
+[Line                   37]: SpaceAfter=No is missing in the MISC field of node #13 because the text is 'bénévoles, établi di[...]'
+[Line                   37]: SpaceAfter=No is missing in the MISC field of node #22 because the text is '"Cinq siècles d'acti[...]'
+[Line                   37]: SpaceAfter=No is missing in the MISC field of node #25 because the text is 'd'activité économiqu[...]'
+[Line                   37]: SpaceAfter=No is missing in the MISC field of node #31 because the text is 'd'Ancerville".'
+[Line                   37]: SpaceAfter=No is missing in the MISC field of node #32 because the text is 'Ancerville".'
+[Line                   37]: SpaceAfter=No is missing in the MISC field of node #33 because the text is '".'
+[Line                   55]: SpaceAfter=No is missing in the MISC field of node #9 because the text is '14h30 à 18h.'
+[Line                   55]: SpaceAfter=No is missing in the MISC field of node #10 because the text is 'h30 à 18h.'
+[Line                   55]: SpaceAfter=No is missing in the MISC field of node #13 because the text is '18h.'
+[Line                   55]: SpaceAfter=No is missing in the MISC field of node #14 because the text is 'h.'
+[Line                   74]: SpaceAfter=No is missing in the MISC field of node #4 because the text is 'sous-préfet, il appr[...]'
+[Line                   74]: SpaceAfter=No is missing in the MISC field of node #8 because the text is 'l'énergie dépensée p[...]'
+[Line                   74]: SpaceAfter=No is missing in the MISC field of node #14 because the text is 'réalisation.'
+[Line                   99]: SpaceAfter=No is missing in the MISC field of node #7 because the text is 'l'occasion de s'entr[...]'
+[Line                   99]: SpaceAfter=No is missing in the MISC field of node #10 because the text is 's'entraîner cet aprè[...]'
+[Line                   99]: SpaceAfter=No is missing in the MISC field of node #13 because the text is 'après-midi, dès 14h,[...]'
+[Line                   99]: SpaceAfter=No is missing in the MISC field of node #16 because the text is '14h, salle Jean-Mathieu.'
+...suppressing further errors regarding Metadata
+[Line                   103]: Unknown UD DEPREL: flat:name
+[Line                   119]: Unknown UD DEPREL: flat:name
+[Line                   139]: Unknown UD DEPREL: nsubj:pass
+[Line                   140]: Unknown UD DEPREL: aux:pass
+[Line                   141]: Unknown UD DEPREL: acl:relcl
+[Line                   144]: Unknown UD DEPREL: nmod:poss
+[Line                   166]: Unknown UD DEPREL: flat:name
+[Line                   194]: Unknown UD DEPREL: flat:name
+[Line                   217]: Unknown UD DEPREL: nsubj:pass
+[Line                   218]: Unknown UD DEPREL: aux:pass
+[Line                   259]: Unknown UD DEPREL: acl:relcl
+[Line                   269]: Unknown UD DEPREL: flat:name
+[Line                   280]: Unknown UD DEPREL: flat:name
+[Line                   311]: Unknown UD DEPREL: nmod:poss
+[Line                   325]: Unknown UD DEPREL: nmod:poss
+[Line                   342]: Unknown UD DEPREL: nmod:poss
+[Line                   421]: Unknown UD DEPREL: nmod:poss
+[Line                   453]: Unknown UD DEPREL: nmod:poss
+[Line                   516]: Unknown UD DEPREL: flat:name
+...suppressing further errors regarding Syntax
+*** FAILED *** with 2026 errors
+Metadata errors: 1573
+Syntax errors: 453
+The language-specific file /home/ginter/UD_PROJHOOK/tools/data/deprel.fr_sequoia does not exist.
+
+
+******************
+
+python tools/validate.py --lang fr_sequoia UD-dev-branches/UD_French-Sequoia/fr_sequoia-ud-train.conllu
+
+[Line                   29]: SpaceAfter=No is missing in the MISC field of node #9 because the text is 'siècle, à Dammarie-s[...]'
+[Line                   29]: SpaceAfter=No is missing in the MISC field of node #12 because the text is 'Dammarie-sur-Saulx, [...]'
+[Line                   29]: SpaceAfter=No is missing in the MISC field of node #16 because the text is 'sites, une industrie[...]'
+[Line                   29]: SpaceAfter=No is missing in the MISC field of node #21 because the text is 'existait.'
+[Line                   34]: Unknown UD DEPREL: aux:pass
+[Line                   38]: Unknown UD DEPREL: nsubj:pass
+[Line                   51]: SpaceAfter=No is missing in the MISC field of node #1 because the text is 'Ensuite, fut install[...]'
+[Line                   51]: SpaceAfter=No is missing in the MISC field of node #10 because the text is 'Vacquerie, à l'empla[...]'
+[Line                   51]: SpaceAfter=No is missing in the MISC field of node #13 because the text is 'l'emplacement aujour[...]'
+[Line                   51]: SpaceAfter=No is missing in the MISC field of node #15 because the text is 'aujourd'hui de Cora.'
+[Line                   51]: SpaceAfter=No is missing in the MISC field of node #18 because the text is 'Cora.'
+[Line                   70]: Unknown UD DEPREL: flat:name
+[Line                   90]: Unknown UD DEPREL: acl:relcl
+[Line                   109]: Unknown UD DEPREL: acl:relcl
+[Line                   110]: Unknown UD DEPREL: nmod:poss
+[Line                   118]: SpaceAfter=No is missing in the MISC field of node #2 because the text is '1953, les hauts four[...]'
+[Line                   118]: SpaceAfter=No is missing in the MISC field of node #13 because the text is 'jour, puis Jean Baud[...]'
+[Line                   118]: SpaceAfter=No is missing in the MISC field of node #17 because the text is 'Baudesson, maire éch[...]'
+[Line                   118]: SpaceAfter=No is missing in the MISC field of node #22 because the text is 'Saint-Dizier, autori[...]'
+[Line                   118]: SpaceAfter=No is missing in the MISC field of node #28 because the text is 'd'Henri IV, installa[...]'
+[Line                   118]: SpaceAfter=No is missing in the MISC field of node #30 because the text is 'IV, installa à Marna[...]'
+[Line                   118]: SpaceAfter=No is missing in the MISC field of node #34 because the text is 'Marnaval- qui signif[...]'
+[Line                   118]: SpaceAfter=No is missing in the MISC field of node #50 because the text is 'Marne-, une forge qu[...]'
+[Line                   118]: SpaceAfter=No is missing in the MISC field of node #51 because the text is '-, une forge qui con[...]'
+[Line                   118]: SpaceAfter=No is missing in the MISC field of node #62 because the text is 'siècle.'
+[Line                   133]: Unknown UD DEPREL: nsubj:pass
+[Line                   134]: Unknown UD DEPREL: aux:pass
+...suppressing further errors regarding Metadata
+[Line                   255]: Unknown UD DEPREL: flat:name
+[Line                   332]: Unknown UD DEPREL: acl:relcl
+[Line                   374]: Unknown UD DEPREL: nmod:poss
+[Line                   383]: Unknown UD DEPREL: aux:pass
+[Line                   400]: Unknown UD DEPREL: flat:name
+[Line                   468]: Unknown UD DEPREL: nsubj:pass
+[Line                   471]: Unknown UD DEPREL: aux:pass
+[Line                   536]: Unknown UD DEPREL: acl:relcl
+[Line                   560]: Unknown UD DEPREL: nmod:poss
+[Line                   564]: Unknown UD DEPREL: flat:name
+[Line                   575]: Unknown UD DEPREL: acl:relcl
+...suppressing further errors regarding Syntax
+*** FAILED *** with 10157 errors
+Metadata errors: 7762
+Syntax errors: 2395
+The language-specific file /home/ginter/UD_PROJHOOK/tools/data/deprel.fr_sequoia does not exist.
+
+
+******************
+
+
 </pre>
 </div>
 <div>
