@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-02-13T08:02:30Z">2017-02-13T08:02:30 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-02-13T08:10:26Z">2017-02-13T08:10:26 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -3091,159 +3091,19 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang no_nynorsk /home/ginter
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD Old Church Slavonic</span>
 <span class="widespan">cu</span>
-<span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-12T19:25:55Z">2017-02-12T19:25:55 zulu</time></span>
+<span class="validationpass">PASS</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-13T08:10:22Z">2017-02-13T08:10:22 zulu</time></span>
 </div>
 <div>
 <pre>
 python tools/validate.py --lang cu UD-dev-branches/UD_Old_Church_Slavonic/cu-ud-dev.conllu
-
-[Line                   10]: Unknown UPOS tag: CONJ
-[Line                   11]: Unknown UD DEPREL: neg
-[Line                   19]: Missing the sent_id attribute.
-[Line                   19]: Missing the text attribute.
-[Line                   24]: Unknown UD DEPREL: neg
-[Line                   28]: Unknown UPOS tag: CONJ
-[Line                   28]: Unknown UD DEPREL: remnant
-[Line                   29]: Unknown UD DEPREL: remnant
-[Line                   32]: Unknown UD DEPREL: remnant
-[Line                   34]: Unknown UPOS tag: CONJ
-[Line                   35]: Unknown UD DEPREL: remnant
-[Line                   38]: Unknown UD DEPREL: remnant
-[Line                   41]: Unknown UPOS tag: CONJ
-[Line                   41]: Unknown UD DEPREL: remnant
-[Line                   42]: Unknown UD DEPREL: remnant
-[Line                   45]: Unknown UD DEPREL: remnant
-[Line                   48]: Missing the sent_id attribute.
-[Line                   48]: Missing the text attribute.
-[Line                   49]: Unknown UPOS tag: CONJ
-[Line                   53]: Unknown UD DEPREL: dobj
-[Line                   56]: Unknown UD DEPREL: remnant
-[Line                   62]: Missing the sent_id attribute.
-[Line                   62]: Missing the text attribute.
-[Line                   66]: Unknown UD DEPREL: dobj
-[Line                   67]: Unknown UD DEPREL: dobj
-[Line                   69]: Unknown UD DEPREL: dobj
-[Line                   71]: Missing the sent_id attribute.
-[Line                   71]: Missing the text attribute.
-[Line                   73]: Unknown UD DEPREL: dobj
-[Line                   75]: Missing the sent_id attribute.
-[Line                   75]: Missing the text attribute.
-[Line                   76]: Unknown UD DEPREL: neg
-[Line                   81]: Missing the sent_id attribute.
-[Line                   81]: Missing the text attribute.
-[Line                   86]: Unknown UD DEPREL: dobj
-[Line                   94]: Missing the sent_id attribute.
-[Line                   94]: Missing the text attribute.
-[Line                   104]: Missing the sent_id attribute.
-[Line                   104]: Missing the text attribute.
-[Line                   105]: Unknown UD DEPREL: neg
-...suppressing further errors regarding Syntax
-[Line                   112]: Unknown UPOS tag: CONJ
-[Line                   115]: Unknown UPOS tag: CONJ
-[Line                   122]: Missing the sent_id attribute.
-[Line                   122]: Missing the text attribute.
-[Line                   129]: Unknown UPOS tag: CONJ
-[Line                   141]: Missing the sent_id attribute.
-...suppressing further errors regarding Metadata
-[Line                   148]: Unknown UPOS tag: CONJ
-[Line                   154]: Unknown UPOS tag: CONJ
-[Line                   168]: Unknown UPOS tag: CONJ
-[Line                   182]: Unknown UPOS tag: CONJ
-[Line                   211]: Unknown UPOS tag: CONJ
-[Line                   216]: Unknown UPOS tag: CONJ
-[Line                   226]: Unknown UPOS tag: CONJ
-[Line                   230]: Unknown UPOS tag: CONJ
-[Line                   233]: Unknown UPOS tag: CONJ
-[Line                   246]: Unknown UPOS tag: CONJ
-[Line                   250]: Unknown UPOS tag: CONJ
-...suppressing further errors regarding Morpho
-*** FAILED *** with 2538 errors
-Metadata errors: 1410
-Morpho errors: 518
-Syntax errors: 610
-
-
-******************
-
-python tools/validate.py --lang cu UD-dev-branches/UD_Old_Church_Slavonic/cu-ud-train.conllu
-
-[Line                   3]: Unknown UD DEPREL: dobj
-[Line                   7]: Unknown UPOS tag: CONJ
-[Line                   15]: Unknown UPOS tag: CONJ
-[Line                   19]: Unknown UD DEPREL: dobj
-[Line                   21]: Missing the sent_id attribute.
-[Line                   21]: Missing the text attribute.
-[Line                   36]: Unknown UD DEPREL: neg
-[Line                   38]: Unknown UD DEPREL: dobj
-[Line                   40]: Unknown UPOS tag: CONJ
-[Line                   42]: Unknown UD DEPREL: dobj
-[Line                   45]: Unknown UPOS tag: CONJ
-[Line                   49]: Unknown UD DEPREL: dobj
-[Line                   50]: Missing the sent_id attribute.
-[Line                   50]: Missing the text attribute.
-[Line                   54]: Missing the sent_id attribute.
-[Line                   54]: Missing the text attribute.
-[Line                   55]: Unknown UD DEPREL: neg
-[Line                   61]: Unknown UD DEPREL: dobj
-[Line                   62]: Missing the sent_id attribute.
-[Line                   62]: Missing the text attribute.
-[Line                   68]: Missing the sent_id attribute.
-[Line                   68]: Missing the text attribute.
-[Line                   69]: Unknown UD DEPREL: neg
-[Line                   70]: Unknown UD DEPREL: dobj
-[Line                   72]: Missing the sent_id attribute.
-[Line                   72]: Missing the text attribute.
-[Line                   86]: Unknown UD DEPREL: dobj
-[Line                   93]: Missing the sent_id attribute.
-[Line                   93]: Missing the text attribute.
-[Line                   100]: Unknown UD DEPREL: dobj
-[Line                   102]: Unknown UD DEPREL: dobj
-[Line                   103]: Unknown UPOS tag: CONJ
-[Line                   107]: Missing the sent_id attribute.
-[Line                   107]: Missing the text attribute.
-[Line                   117]: Unknown UPOS tag: CONJ
-[Line                   118]: Unknown UD DEPREL: neg
-[Line                   125]: Missing the sent_id attribute.
-[Line                   125]: Missing the text attribute.
-[Line                   129]: Missing the sent_id attribute.
-...suppressing further errors regarding Metadata
-[Line                   133]: Unknown UD DEPREL: dobj
-[Line                   138]: Unknown UD DEPREL: dobj
-[Line                   148]: Unknown UD DEPREL: dobj
-[Line                   154]: Unknown UD DEPREL: dobj
-[Line                   155]: Unknown UD DEPREL: dobj
-[Line                   157]: Unknown UPOS tag: CONJ
-...suppressing further errors regarding Syntax
-[Line                   183]: Unknown UPOS tag: CONJ
-[Line                   194]: Unknown UPOS tag: CONJ
-[Line                   213]: Unknown UPOS tag: CONJ
-[Line                   227]: Unknown UPOS tag: CONJ
-[Line                   240]: Unknown UPOS tag: CONJ
-[Line                   246]: Unknown UPOS tag: CONJ
-[Line                   260]: Unknown UPOS tag: CONJ
-[Line                   291]: Unknown UPOS tag: CONJ
-[Line                   297]: Unknown UPOS tag: CONJ
-[Line                   315]: Unknown UPOS tag: CONJ
-[Line                   317]: Unknown UPOS tag: CONJ
-[Line                   321]: Unknown UPOS tag: CONJ
-...suppressing further errors regarding Morpho
-*** FAILED *** with 18824 errors
-Metadata errors: 10154
-Morpho errors: 3980
-Syntax errors: 4690
-
-
-******************
-
-python tools/validate.py --lang cu UD-dev-branches/UD_Old_Church_Slavonic/cu_proiel-ud-dev.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python tools/validate.py --lang cu UD-dev-branches/UD_Old_Church_Slavonic/cu_proiel-ud-train.conllu
+python tools/validate.py --lang cu UD-dev-branches/UD_Old_Church_Slavonic/cu-ud-train.conllu
 
 *** PASSED ***
 
