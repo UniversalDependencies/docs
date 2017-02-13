@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-02-13T19:13:07Z">2017-02-13T19:13:07 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-02-13T19:14:27Z">2017-02-13T19:14:27 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -2899,18 +2899,18 @@ python tools/validate.py --lang no_bokmaal UD-dev-branches/UD_Norwegian-Bokmaal/
 <span class="doublewidespan" style="padding-left:3em">UD Norwegian-Nynorsk</span>
 <span class="widespan">no nynorsk</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-13T13:24:45Z">2017-02-13T13:24:45 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-13T19:14:06Z">2017-02-13T19:14:06 zulu</time></span>
 </div>
 <div>
 <pre>
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang no_nynorsk /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Norwegian-Nynorsk/no_nynorsk-ud-dev.conllu
+python tools/validate.py --lang no_nynorsk UD-dev-branches/UD_Norwegian-Nynorsk/no_nynorsk-ud-dev.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang no_nynorsk /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Norwegian-Nynorsk/no_nynorsk-ud-train.conllu
+python tools/validate.py --lang no_nynorsk UD-dev-branches/UD_Norwegian-Nynorsk/no_nynorsk-ud-train.conllu
 
 *** PASSED ***
 
