@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-02-13T08:10:26Z">2017-02-13T08:10:26 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-02-13T08:12:00Z">2017-02-13T08:12:00 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -1112,41 +1112,34 @@ Syntax errors: 6400
 <span class="doublewidespan" style="padding-left:3em">UD English-LinES</span>
 <span class="widespan">en lines</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-12T21:08:26Z">2017-02-12T21:08:26 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-13T08:11:57Z">2017-02-13T08:11:57 zulu</time></span>
 </div>
 <div>
 <pre>
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang en_lines /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_English-LinES/en_lines-ud-dev.conllu
+python tools/validate.py --lang en_lines UD-dev-branches/UD_English-LinES/en_lines-ud-dev.conllu
 
-*** PASSED ***
+[Line                   2716]: Spurious comment line.
+[Line                   5971]: Spurious comment line.
+[Line                   8409]: Spurious comment line.
+[Line                   11154]: Spurious comment line.
+[Line                   13455]: Spurious comment line.
+[Line                   17209]: Spurious comment line.
+*** FAILED *** with 6 errors
+Format errors: 6
 
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang en_lines /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_English-LinES/en_lines-ud-train.conllu
+python tools/validate.py --lang en_lines UD-dev-branches/UD_English-LinES/en_lines-ud-train.conllu
 
-[Line                   59]: Mismatch between the text attribute and the FORM field. Form is '.' but text is 'x....'
-[Line                   59]: Extra characters at the end of the text attribute, not accounted for in the FORM fields: 'x.'
-[Line                   205]: Mismatch between the text attribute and the FORM field. Form is '.' but text is 'x....'
-[Line                   205]: Extra characters at the end of the text attribute, not accounted for in the FORM fields: 'x.'
-[Line                   3457]: Mismatch between the text attribute and the FORM field. Form is 'and' but text is 'x and will not be inter...'
-[Line                   3457]: Mismatch between the text attribute and the FORM field. Form is 'will' but text is 'x and will not be interp...'
-[Line                   3457]: Mismatch between the text attribute and the FORM field. Form is 'not' but text is 'x and will not be inter...'
-[Line                   3457]: Mismatch between the text attribute and the FORM field. Form is 'be' but text is 'x and will not be inte...'
-[Line                   3457]: Mismatch between the text attribute and the FORM field. Form is 'interpreted' but text is 'x and will not be interpreted a...'
-[Line                   3457]: Mismatch between the text attribute and the FORM field. Form is 'as' but text is 'x and will not be inte...'
-[Line                   3457]: Mismatch between the text attribute and the FORM field. Form is 'themselves' but text is 'x and will not be interpreted ...'
-[Line                   3457]: Mismatch between the text attribute and the FORM field. Form is 'if' but text is 'x and will not be inte...'
-[Line                   3457]: Mismatch between the text attribute and the FORM field. Form is 'used' but text is 'x and will not be interp...'
-[Line                   3457]: Mismatch between the text attribute and the FORM field. Form is 'in' but text is 'x and will not be inte...'
-[Line                   3457]: Mismatch between the text attribute and the FORM field. Form is 'the' but text is 'x and will not be inter...'
-[Line                   3457]: Mismatch between the text attribute and the FORM field. Form is 'data' but text is 'x and will not be interp...'
-[Line                   3457]: Mismatch between the text attribute and the FORM field. Form is 'portion' but text is 'x and will not be interpret...'
-[Line                   3457]: Mismatch between the text attribute and the FORM field. Form is 'of' but text is 'x and will not be inte...'
-[Line                   3457]: Mismatch between the text attribute and the FORM field. Form is 'an' but text is 'x and will not be inte...'
-...suppressing further errors regarding Metadata
-*** FAILED *** with 65 errors
-Metadata errors: 65
+[Line                   7402]: Spurious comment line.
+[Line                   17024]: Spurious comment line.
+[Line                   24277]: Spurious comment line.
+[Line                   33489]: Spurious comment line.
+[Line                   40125]: Spurious comment line.
+[Line                   50834]: Spurious comment line.
+*** FAILED *** with 6 errors
+Format errors: 6
 
 
 ******************
