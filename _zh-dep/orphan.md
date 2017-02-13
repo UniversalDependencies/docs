@@ -5,7 +5,7 @@ shortdef: 'orphan'
 udver: '2'
 ---
 
-The `orphan` relation is used for verb ellipsis in Mandarin (specifically, gapping or gapping-like phenomena[1]). One of elements in the clause with the elided verb is promoted, and all other elements would be connected to the verb would be connected to the promoted head as `orphan` dependents if their original relationship to the elided verb no longer applies in their current link to the promoted head.
+The `orphan` relation is used for verb ellipsis in Mandarin (specifically, gapping or gapping-like phenomena; see Tang, 2001). One of elements in the clause with the elided verb is promoted, and all other elements would be connected to the verb would be connected to the promoted head as `orphan` dependents if their original relationship to the elided verb no longer applies in their current link to the promoted head.
 
 ~~~ conllu
 # visual-style 8 11 orphan	color:blue
@@ -39,7 +39,9 @@ The `orphan` relation is used for verb ellipsis in Mandarin (specifically, gappi
 
 In the above example, the subject 他 _tā_ "he" is promoted to head position of the second clause, and the head of the object, 咖啡 _kāfēi_ "coffee" in the noun phrase 三 杯 咖啡 _sān bēi kāfēi_ "three cups of coffee", is connected to the promoted head as an `orphan` dependent, rather than `obj` (since 咖啡 _kāfēi_ "coffee" is not the object of 他 _tā_ "he" but of the elided verb).
 
-The prefered order of promotion is as follows, depending on the relation of a word to its elided verb: nsubj > obj > iobj > obl > advmod > csubj > xcomp > ccomp > advcl.
+The prefered order of promotion is as follows, depending on the relation of a word to its elided verb: 
+
+- `nsubj` > `obj` > `iobj` > `obl` > `advmod` > `csubj` > `xcomp` > `ccomp` > `advcl`.
 
 Some other arguments, such as the subject in (2), may also be elided along with the verb. In the following example, the second clause only has the direct and indirect objects left. According to the promotion hierarchy above, the direct object 手機 _shǒujī_ "mobile phone" is promoted to head and not the indirect object 奶奶 _nǎinai_ "grandmother".
 
@@ -102,4 +104,4 @@ Ellipsis of the verb may also occur in a main clause when it follows a subordina
 
 ### References
 
-- Tang, S. 'The (Non-)Existence of Gapping in Chinese and Its Implications for the Theory of Gapping.' Journal of East Asian Linguistics (2001) 10: 201. doi:10.1023/A:1011250802691
+- Tang, Sze-Wing. 2001. 'The (Non-)Existence of Gapping in Chinese and Its Implications for the Theory of Gapping.' Journal of East Asian Linguistics 10: 201. doi:10.1023/A:1011250802691
