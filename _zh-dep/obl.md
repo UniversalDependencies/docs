@@ -63,7 +63,7 @@ The relation can also be used for nominals that don’t include a nominal marker
 4	他們	_	PRON	_	_	7	obl	_	3PL
 5	更	_	ADV	_	_	6	advmod	_	more
 6	早	_	ADJ	_	_	7	advmod	_	early
-7	達到	_	VERB	_	_	0	root	_	arrive
+7	到達	_	VERB	_	_	0	root	_	arrive
 8	公司	_	NOUN	_	_	7	obj	_	company
 
 1	"We	_	_	_	_	0	_	_	_
