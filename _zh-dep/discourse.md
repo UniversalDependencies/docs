@@ -8,11 +8,11 @@ udver: '2'
 The discourse relation is used for interjections (words tagged [INTJ]()) and other discourse particles or words which are not clearly linked to the syntactic structure of the sentence except in a discursive sense. However, if an interjected element is clausal (including tag questions and words with a sentence-final particle or single words that are verbs or predicate adjectives), it should be given the relation [parataxis]().
 
 ~~~ conllu
-# visual-style 3 1 discourse	color:blue
+# visual-style 4 1 discourse	color:blue
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
 1	嗯	_	INTJ	_	_	4	discourse	_	uh-huh
 2	，	_	PUNCT	_	_	1	punct	_	_
 3	不過	_	ADV	_	_	4	advmod	_	but
