@@ -36,7 +36,7 @@ Note that the particular class of idiomatic expressions called 成語 _chéngyu
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 3	bgColor:blue
-# visual-style 4	fgColor:white
+# visual-style 3	fgColor:white
 1	百	_	NOUN	_	_	0	root	_	_
 2	無	_	NOUN	_	_	1	goeswith	_	_
 3	禁忌	_	NOUN	_	_	1	goeswith	_	_
