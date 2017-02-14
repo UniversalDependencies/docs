@@ -49,7 +49,8 @@ The `flat` relation is used to link names without internal structure (unlikely i
 4	Klingon,	_	_	_	_	0	_	_	_
 5	'lupDujHomwIj	_	_	_	_	0	_	_	_
 6	luteb	_	_	_	_	0	_	_	_
-7	gharghmey.'"	_	_	_	_	0	_	_	_
+7	gharghmey.'	_	_	_	_	0	_	_	_
+8	"	_	_	_	_	0	_	_	_
 
 ~~~
 
