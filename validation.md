@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-02-14T13:15:01Z">2017-02-14T13:15:01 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-02-14T13:20:41Z">2017-02-14T13:20:41 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -623,7 +623,7 @@ Metadata errors: 9024
 <span class="doublewidespan" style="padding-left:3em">UD Danish</span>
 <span class="widespan">da</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-13T13:20:19Z">2017-02-13T13:20:19 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-14T13:20:31Z">2017-02-14T13:20:31 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -634,6 +634,7 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang da /home/ginter/UD_PROJ
 [Line                   12]: Unknown UPOS tag: CONJ
 [Line                   15]: Unknown UD DEPREL: dobj
 [Line                   18]: Unknown attribute-value pair VerbForm=Trans
+[Line                   19]: Unknown UD DEPREL: nmod:loc
 [Line                   28]: Missing the sent_id attribute.
 [Line                   28]: Missing the text attribute.
 [Line                   30]: Unknown UD DEPREL: nsubjpass
@@ -677,7 +678,6 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang da /home/ginter/UD_PROJ
 ...suppressing further errors regarding Metadata
 [Line                   154]: Unknown UD DEPREL: name
 [Line                   155]: Unknown UD DEPREL: name
-[Line                   162]: Unknown UD DEPREL: nsubjpass
 ...suppressing further errors regarding Syntax
 [Line                   164]: Unknown attribute-value pair VerbForm=Trans
 [Line                   165]: Unknown attribute-value pair VerbForm=Trans
@@ -689,10 +689,10 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang da /home/ginter/UD_PROJ
 [Line                   228]: Unknown UPOS tag: CONJ
 [Line                   235]: Unknown UPOS tag: CONJ
 ...suppressing further errors regarding Morpho
-*** FAILED *** with 1600 errors
+*** FAILED *** with 1655 errors
 Metadata errors: 644
 Morpho errors: 354
-Syntax errors: 602
+Syntax errors: 657
 
 
 ******************
@@ -701,6 +701,7 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang da /home/ginter/UD_PROJ
 
 [Line                   5]: Unknown attribute-value pair VerbForm=Trans
 [Line                   16]: Unknown UD DEPREL: name
+[Line                   18]: Unknown UD DEPREL: nmod:loc
 [Line                   24]: Missing the sent_id attribute.
 [Line                   24]: Missing the text attribute.
 [Line                   25]: Unknown UPOS tag: CONJ
@@ -754,15 +755,14 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang da /home/ginter/UD_PROJ
 [Line                   218]: Unknown UPOS tag: CONJ
 [Line                   229]: Unknown UD DEPREL: dobj
 [Line                   238]: Unknown UD DEPREL: name
-[Line                   245]: Unknown UD DEPREL: dobj
-[Line                   247]: Unknown UPOS tag: CONJ
 ...suppressing further errors regarding Syntax
+[Line                   247]: Unknown UPOS tag: CONJ
 [Line                   312]: Unknown UPOS tag: CONJ
 ...suppressing further errors regarding Morpho
-*** FAILED *** with 22913 errors
+*** FAILED *** with 23560 errors
 Metadata errors: 9736
 Morpho errors: 4699
-Syntax errors: 8478
+Syntax errors: 9125
 
 
 ******************
