@@ -9,6 +9,10 @@ The `clf` relation is used in noun phrases where a numeral or determiner modifyi
 
 ~~~ conllu
 # visual-style 1 2 clf	color:blue
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
 1	一	_	NUM	_	_	3	nummod	_	one
 2	團	_	NOUN	_	_	1	clf	_	CL:sphere
 3	火	_	NOUN	_	_	0	root	_	fire
@@ -22,6 +26,10 @@ The `clf` relation is used in noun phrases where a numeral or determiner modifyi
 
 ~~~ conllu
 # visual-style 2 3 clf	color:blue
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
 1	這	_	DET	_	_	4	det	_	this
 2	一	_	NUM	_	_	4	nummod	_	one
 3	場	_	NOUN	_	_	2	clf	_	CL:spectator-event
@@ -35,6 +43,10 @@ The `clf` relation is used in noun phrases where a numeral or determiner modifyi
 
 ~~~ conllu
 # visual-style 1 2 clf	color:blue
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
 1	這	_	DET	_	_	3	det	_	this
 2	本	_	NOUN	_	_	1	clf	_	CL:book
 3	書	_	NOUN	_	_	0	root	_	book
