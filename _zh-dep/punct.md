@@ -9,6 +9,10 @@ This relation is used for all punctuation symbols.
 
 ~~~ conllu
 # visual-style 2 4 punct	color:blue
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
 1	我們	_	PRON	_	_	2	nsubj	_	3PL
 2	走	_	VERB	_	_	0	root	_	go
 3	吧	_	PART	_	_	2	discourse:sp	_	SP
@@ -30,6 +34,18 @@ We follow the official [UD principles](http://universaldependencies.org/u/dep/pu
 # visual-style 5 4 punct	color:blue
 # visual-style 8 6 punct	color:blue
 # visual-style 2 9 punct	color:blue
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
 1	我們	_	PRON	_	_	2	nsubj	_	3PL
 2	有	_	VERB	_	_	0	root	_	have
 3	蘋果	_	NOUN	_	_	2	obj	_	apples
@@ -52,6 +68,14 @@ We follow the official [UD principles](http://universaldependencies.org/u/dep/pu
 ~~~ conllu
 # visual-style 2 5 punct	color:blue
 # visual-style 8 11 punct	color:blue
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 11	bgColor:blue
+# visual-style 11	fgColor:white
 1	雖然	_	SCONJ	_	_	2	mark	_	although
 2	晚	_	ADJ	_	_	8	advcl	_	late
 3	了	_	AUX	_	_	2	aux	_	PERF
@@ -84,6 +108,26 @@ We follow the official [UD principles](http://universaldependencies.org/u/dep/pu
 # visual-style 8 9 punct	color:blue
 # visual-style 8 10 punct	color:blue
 # visual-style 17 18 punct	color:blue
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 17	bgColor:blue
+# visual-style 17	fgColor:white
+# visual-style 18	bgColor:blue
+# visual-style 18	fgColor:white
 1	《	_	PUNCT	_	_	2	punct	_	_
 2	紅樓夢	_	PROPN	_	_	17	nsubj	_	Dream-of-the-Red-Chamber
 3	》	_	PUNCT	_	_	2	punct	_	_
