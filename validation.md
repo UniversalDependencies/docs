@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-02-14T21:41:10Z">2017-02-14T21:41:10 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-02-14T21:51:26Z">2017-02-14T21:51:26 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -1184,11 +1184,11 @@ python tools/validate.py --lang fr_partut UD-dev-branches/UD_French-ParTUT/fr_pa
 <span class="doublewidespan" style="padding-left:3em">UD French-Sequoia</span>
 <span class="widespan">fr sequoia</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-14T18:09:39Z">2017-02-14T18:09:39 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-14T21:51:22Z">2017-02-14T21:51:22 zulu</time></span>
 </div>
 <div>
 <pre>
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang fr_sequoia /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_French-Sequoia/fr_sequoia-ud-dev.conllu
+python tools/validate.py --lang fr_sequoia UD-dev-branches/UD_French-Sequoia/fr_sequoia-ud-dev.conllu
 
 [Line                   37]: SpaceAfter=No is missing in the MISC field of node #1 because the text is 'L'association a chan[...]'
 [Line                   37]: SpaceAfter=No is missing in the MISC field of node #9 because the text is 'l'aide de plusieurs [...]'
@@ -1238,7 +1238,7 @@ The language-specific file /home/ginter/UD_PROJHOOK/tools/data/deprel.fr_sequoia
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang fr_sequoia /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_French-Sequoia/fr_sequoia-ud-train.conllu
+python tools/validate.py --lang fr_sequoia UD-dev-branches/UD_French-Sequoia/fr_sequoia-ud-train.conllu
 
 [Line                   29]: SpaceAfter=No is missing in the MISC field of node #9 because the text is 'siècle, à Dammarie-s[...]'
 [Line                   29]: SpaceAfter=No is missing in the MISC field of node #12 because the text is 'Dammarie-sur-Saulx, [...]'
