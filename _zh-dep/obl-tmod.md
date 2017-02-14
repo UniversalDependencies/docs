@@ -9,6 +9,10 @@ The relation `obl:tmod` is used for temporal nouns acting as temporal modifiers 
 
 ~~~ conllu
 # visual-style 5 3 obl:tmod	color:blue
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
 1	但	_	ADV	_	_	5	advmod	_	but
 2	我	_	PRON	_	_	5	nsubj	_	1SG
 3	昨天	_	NOUN	_	_	5	obl:tmod	_	yesterday
@@ -30,6 +34,10 @@ The relation `obl:tmod` is used for temporal nouns acting as temporal modifiers 
 
 ~~~ conllu
 # visual-style 4 2 obl:tmod	color:blue
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
 1	到	_	ADP	_	_	2	case	_	until
 2	現在	_	NOUN	_	_	4	obl:tmod	_	now
 3	才	_	ADV	_	_	4	advmod	_	only
@@ -45,6 +53,10 @@ The temporal noun may be part of a complex noun phrase.
 
 ~~~ conllu
 # visual-style 6 5 obl:tmod	color:blue
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
 1	在	_	ADP	_	_	5	case	_	during
 2	逮捕	_	VERB	_	_	5	acl	_	arrest
 3	賊子	_	NOUN	_	_	2	obj	_	thief
@@ -69,6 +81,10 @@ The temporal noun may be part of a complex noun phrase.
 
 ~~~ conllu
 # visual-style 6 2 obl:tmod	color:blue
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
 1	三	_	NUM	_	_	2	nummod	_	three
 2	天	_	NOUN	_	_	6	obl:tmod	_	CL:days
 3	前	_	ADP	_	_	2	case:loc	_	before
