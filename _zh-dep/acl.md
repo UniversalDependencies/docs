@@ -9,6 +9,10 @@ udver: '2'
 
 ~~~ conllu
 # visual-style 4 2 acl	color:blue
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
 1	人	_	NOUN	_	_	2	nsubj	_	people
 2	説	_	VERB	_	_	4	acl	_	say
 3	的	_	PART	_	_	2	mark:rel	_	REL
@@ -23,6 +27,10 @@ udver: '2'
 
 ~~~ conllu
 # visual-style 3 1 acl	color:blue
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
 1	治	_	VERB	_	_	3	acl	_	cure
 2	病	_	NOUN	_	_	1	obj	_	illnesses
 3	方面	_	NOUN	_	_	5	nmod	_	aspect
@@ -40,10 +48,14 @@ udver: '2'
 
 ~~~
 
-Postnominal clausal modifiers (known as "descriptive clauses" in Li & Thompson, 1981) are headed by V2 in a [(NP1) V1 NP2 V2-clause] structure, where NP2 is the direct object of V1 and the V2-clause describes information regarding NP2. This analysis is contingent on the [(NP1) V1 NP2 V2-clause] sequence being a single sentence with one intonational phrase and no pause in between.
+Postnominal clausal modifiers (known as "descriptive clauses" in Li & Thompson, 1981) are headed by V2 in a [(NP1) V1 NP2 V2-clause] structure, where NP2 (i.e., the second noun phrase) is the direct object of V1 and the V2-clause describes information regarding NP2. This analysis is contingent on the [(NP1) V1 NP2 V2-clause] sequence being a single sentence with one intonational phrase and no pause in between.
 
 ~~~ conllu
 # visual-style 2 3 acl	color:blue
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
 1	有	_	VERB	_	_	0	root	_	exist
 2	機會	_	NOUN	_	_	1	obj	_	chance
 3	學壞	_	VERB	_	_	2	acl	_	learn-bad
@@ -61,6 +73,10 @@ Postnominal clausal modifiers (known as "descriptive clauses" in Li & Thompson, 
 
 ~~~ conllu
 # visual-style 4 6 acl	color:blue
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
 1	我們	_	PRON	_	_	3	nsubj	_	1PL
 2	突然	_	ADV	_	_	3	advmod	_	suddenly
 3	有	_	VERB	_	_	0	root	_	have
@@ -82,6 +98,10 @@ Postnominal clausal modifiers (known as "descriptive clauses" in Li & Thompson, 
 
 ~~~ conllu
 # visual-style 5 6 acl	color:blue
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
 1	我	_	PRON	_	_	3	nsubj	_	1SG
 2	昨天	_	NOUN	_	_	3	obl:tmod	_	yesterday
 3	收	_	VERB	_	_	0	root	_	receive
