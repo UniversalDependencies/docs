@@ -26,4 +26,6 @@ Currently no language specific tags or features are used.
 ## Other
 * Most of the participles in Latvian have [Degree]() feature.
 * Currently all verbs are annotated as [VERB]() and never as AUX. This is done because auxilliary verbs in Latvian have full inflectional system and can act as main verb. Thus, this distinction is syntactical, not morphological.
+* [Polarity]() is treated as a lexical feature for all POS, i.e., lemmas are not striped of polarity indicators.
+
 
