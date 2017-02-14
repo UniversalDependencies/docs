@@ -3,11 +3,317 @@ layout: base
 title:  'Dependencies'
 generated: 'true'
 permalink: zh/dep/all.html
+udver: '2'
 ---
 
 # Dependencies
 
-{% include zh-dep-table.html %}
+The following table lists the 52 syntactic relations used in UD v2 for Mandarin Chinese, [36 of which are standard UD relations](http://universaldependencies.org/u/dep/) and 16 of which are specific to Mandarin Chinese. The standard UD relation `expl` is not used.
+
+<!--{% include zh-dep-table.html %} -->
+
+<table class="typeindex" border="1">
+  <tr style="background-color:cornflowerblue">
+      <td>	
+	<table class="category">
+	  <tr><td><strong></strong></td></tr>
+	</table>
+      </td>
+      <td>	
+	<table class="category">
+	  <tr><td><strong>Nominals</strong></td></tr>
+	</table>
+      </td>
+      <td>	
+	<table class="category">
+	  <tr><td><strong>Clauses</strong></td></tr>
+	</table>
+      </td>
+      <td>	
+	<table class="category">
+	  <tr><td><strong>Modifier words</strong></td></tr>
+	</table>
+      </td>
+      <td>	
+	<table class="category">
+	  <tr><td><strong>Function Words</strong></td></tr>
+	</table>
+      </td>
+  </tr>
+  <tr>
+      <td style="background-color:darkseagreen">
+	<table class="category">
+	  <tr><td><strong>Core arguments</strong></td></tr>
+	</table>
+      </td>
+      <td>
+	<table class="category">
+	  <tr>
+	    <td><a>nsubj</a></td>
+	  </tr>
+    <tr>
+	    <td>↳<a>nsubj:pass</a></td>
+	  </tr>
+	  <tr>
+	    <td><a>obj</a></td>
+	  </tr>
+	  <tr>
+	    <td><a>iobj</a></td>
+	  </tr>
+        </table>
+      </td>
+      <td>
+	<table class="category">
+	  <tr>
+	    <td><a>csubj</a></td>
+	  </tr>
+    <tr>
+	    <td>↳<a>csubj:pass</a></td>
+	  </tr>
+	  <tr>
+	    <td><a>ccomp</a></td>
+	  </tr>
+	  <tr>
+	    <td><a>xcomp</a></td>
+	  </tr>
+        </table>
+      </td>
+	  <td></td><td></td>
+  </tr>
+  <tr>
+      <td style="background-color:darkseagreen">
+	<table class="category">
+	  <tr><td><strong>Non-core dependents</strong></td></tr>
+	</table>
+      </td>
+      <td>
+	<table class="category">
+	  <tr>
+	    <td><a>obl</a></td>
+	  </tr>
+    <tr>
+	    <td>↳<a>obl:agent</a></td>
+	  </tr>
+    <tr>
+	    <td>↳<a>obl:patient</a></td>
+	  </tr>
+    <tr>
+	    <td>↳<a>obl:tmod</a></td>
+	  </tr>
+	  <tr>
+	    <td><a>vocative</a></td>
+	  </tr>
+	  <tr>
+	    <td><del>expl</del></td>
+	  </tr>
+	  <tr>
+	    <td><a>dislocated</a></td>
+	  </tr>
+    <tr>
+	    <td>↳<a>dislocated:vo</a></td>
+	  </tr>
+        </table>
+      </td>
+      <td>
+	<table class="category">
+	  <tr>
+	    <td><a>advcl</a></td>
+	  </tr>
+        </table>
+      </td>
+      <td>
+	<table class="category">
+	  <tr>
+	    <td><a>advmod</a>*</td>
+	  </tr>
+    <tr>
+	    <td>↳<a>advmod:df</a></td>
+	  </tr>
+	  <tr>
+	    <td><a>discourse</a></td>
+	  </tr>
+    <tr>
+	    <td>↳<a>discourse:sp</a></td>
+	  </tr>
+        </table>
+      </td>
+      <td>
+	<table class="category">
+	  <tr>
+	    <td><a>aux</a></td>
+	  </tr>
+    <tr>
+	    <td>↳<a>aux:pass</a></td>
+	  </tr>
+	  <tr>
+	    <td><a>cop</a></td>
+	  </tr>
+	  <tr>
+	    <td><a>mark</a></td>
+	  </tr>
+    <tr>
+	    <td>↳<a>mark:adv</a></td>
+	  </tr>
+    <tr>
+	    <td>↳<a>mark:rel</a></td>
+	  </tr>
+        </table>
+      </td>
+  </tr>
+  <tr>
+      <td style="background-color:darkseagreen">
+	<table class="category">
+	  <tr><td><strong>Nominal dependents</strong></td></tr>
+	</table>
+      </td>
+      <td>
+	<table class="category">
+	  <tr>
+	    <td><a>nmod</a></td>
+	  </tr>
+	  <tr>
+	    <td><a>appos</a></td>
+	  </tr>
+	  <tr>
+	    <td><a>nummod</a></td>
+	  </tr>
+        </table>
+      </td>
+      <td>
+	<table class="category">
+	  <tr>
+	    <td><a>acl</a></td>
+	  </tr>
+        </table>
+      </td>
+      <td>
+	<table class="category">
+	  <tr>
+	    <td><a>amod</a></td>
+	  </tr>
+        </table>
+      </td>
+      <td>
+	<table class="category">
+	  <tr>
+	    <td><a>det</a></td>
+	  </tr>
+	  <tr>
+	    <td><a>clf</a></td>
+	  </tr>
+	  <tr>
+	    <td><a>case</a></td>
+	  </tr>
+    <tr>
+	    <td>↳<a>case:loc</a></td>
+	  </tr>
+        </table>
+      </td>
+  </tr>
+  <tr style="background-color:cornflowerblue">	
+      <td>	
+	<table class="category">
+	  <tr><td><strong>Coordination</strong></td></tr>
+	</table>
+      </td>
+      <td>	
+	<table class="category">
+	  <tr><td><strong>MWE</strong></td></tr>
+	</table>
+      </td>
+      <td>	
+	<table class="category">
+	  <tr><td><strong>Loose</strong></td></tr>
+	</table>
+      </td>
+      <td>	
+	<table class="category">
+	  <tr><td><strong>Special</strong></td></tr>
+	</table>
+      </td>
+      <td>	
+	<table class="category">
+	  <tr><td><strong>Other</strong></td></tr>
+	</table>
+      </td>
+  </tr>
+  <tr>
+      <td>
+        <table class="category">
+	  <tr>
+	    <td><a>conj</a></td>
+	  </tr>
+	  <tr>
+	    <td><a>cc</a></td>
+	  </tr>
+        </table>
+      </td>
+      <td>
+        <table class="category">
+	<tr>
+	  <td><a>fixed</a></td>
+	</tr>
+	<tr>
+	  <td><a>flat</a></td>
+	</tr>
+	<tr>
+	  <td><a>compound</a></td>
+	</tr>
+  <tr>
+	  <td>↳<a>compound:dir</a></td>
+	</tr>
+  <tr>
+	  <td>↳<a>compound:ext</a></td>
+	</tr>
+  <tr>
+	  <td>↳<a>compound:vo</a></td>
+	</tr>
+  <tr>
+	  <td>↳<a>compound:vv</a></td>
+	</tr>
+      </table>
+    </td>
+    <td>
+      <table class="category">
+	<tr>
+	  <td><a>list</a></td>
+	</tr>
+	<tr>
+	  <td><a>parataxis</a></td>
+	</tr>
+      </table>
+    </td>
+    <td>
+      <table class="category">
+	<tr>
+	  <td><a>orphan</a></td>
+	</tr>
+	<tr>
+	  <td><a>goeswith</a></td>
+	</tr>
+	<tr>
+	  <td><a>reparandum</a></td>
+	</tr>
+      </table>
+    </td>
+    <td>
+      <table class="category">
+	<tr>
+	  <td><a>punct</a></td>
+	</tr>
+	<tr>
+	  <td><a>root</a></td>
+	</tr>
+	<tr>
+	  <td><a>dep</a></td>
+	</tr>
+      </table>
+
+    </td>
+  </tr>
+</table>
+
+\* The `advmod` relation is used for modifiers not only of predicates but also of other modifier words.
 
 ----------
 
