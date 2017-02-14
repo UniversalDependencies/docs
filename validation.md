@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-02-14T21:40:27Z">2017-02-14T21:40:27 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-02-14T21:41:10Z">2017-02-14T21:41:10 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -299,30 +299,28 @@ No data
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD Coptic</span>
 <span class="widespan">cop</span>
-<span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-14T18:04:42Z">2017-02-14T18:04:42 zulu</time></span>
+<span class="validationpass">PASS</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-14T21:41:09Z">2017-02-14T21:41:09 zulu</time></span>
 </div>
 <div>
 <pre>
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang cop /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Coptic/cop-ud-dev.conllu
+python tools/validate.py --lang cop UD-dev-branches/UD_Coptic/cop-ud-dev.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang cop /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Coptic/cop-ud-test.conllu
+python tools/validate.py --lang cop UD-dev-branches/UD_Coptic/cop-ud-test.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang cop /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Coptic/cop-ud-train.conllu
+python tools/validate.py --lang cop UD-dev-branches/UD_Coptic/cop-ud-train.conllu
 
-[Line                   9206]: SpaceAfter=No is missing in the MISC field of node #10-11 because the text is 'ⲧⲟⲩⲡⲓⲥⲧⲓⲥⲧⲉ ⲛⲧⲁⲥⲛⲁϩⲙ[...]'
-*** FAILED *** with 1 errors
-Metadata errors: 1
+*** PASSED ***
 
 
 ******************
