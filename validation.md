@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-02-14T07:21:08Z">2017-02-14T07:21:08 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-02-14T08:49:43Z">2017-02-14T08:49:43 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -3460,21 +3460,63 @@ Syntax errors: 182
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD Russian-SynTagRus</span>
 <span class="widespan">ru syntagrus</span>
-<span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-13T13:26:10Z">2017-02-13T13:26:10 zulu</time></span>
+<span class="validationfail">FAIL</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-14T08:48:35Z">2017-02-14T08:48:35 zulu</time></span>
 </div>
 <div>
 <pre>
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang ru_syntagrus /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Russian-SynTagRus/ru_syntagrus-ud-dev.conllu
+python tools/validate.py --lang ru_syntagrus UD-dev-branches/UD_Russian-SynTagRus/ru_syntagrus-ud-dev.conllu
 
-*** PASSED ***
+[Line                   71]: Unknown attribute-value pair Variant=Short
+[Line                   82]: Unknown attribute-value pair Variant=Short
+[Line                   99]: Unknown attribute-value pair Variant=Short
+[Line                   470]: Unknown attribute-value pair Variant=Short
+[Line                   570]: Unknown attribute-value pair Variant=Short
+[Line                   633]: Unknown attribute-value pair Variant=Short
+[Line                   644]: Unknown attribute-value pair Variant=Short
+[Line                   668]: Unknown attribute-value pair Variant=Short
+[Line                   698]: Unknown attribute-value pair Variant=Short
+[Line                   714]: Unknown attribute-value pair Variant=Short
+[Line                   716]: Unknown attribute-value pair Variant=Short
+[Line                   788]: Unknown attribute-value pair Variant=Short
+[Line                   934]: Unknown attribute-value pair Variant=Short
+[Line                   997]: Unknown attribute-value pair Variant=Short
+[Line                   1117]: Unknown attribute-value pair Variant=Short
+[Line                   1182]: Unknown attribute-value pair Variant=Short
+[Line                   1284]: Unknown attribute-value pair Variant=Short
+[Line                   1530]: Unknown attribute-value pair Variant=Short
+[Line                   1597]: Unknown attribute-value pair Variant=Short
+...suppressing further errors regarding Morpho
+*** FAILED *** with 1472 errors
+Morpho errors: 1472
 
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang ru_syntagrus /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Russian-SynTagRus/ru_syntagrus-ud-train.conllu
+python tools/validate.py --lang ru_syntagrus UD-dev-branches/UD_Russian-SynTagRus/ru_syntagrus-ud-train.conllu
 
-*** PASSED ***
+[Line                   106]: Unknown attribute-value pair Variant=Short
+[Line                   541]: Unknown attribute-value pair Variant=Short
+[Line                   619]: Unknown attribute-value pair Variant=Short
+[Line                   651]: Unknown attribute-value pair Variant=Short
+[Line                   660]: Unknown attribute-value pair Variant=Short
+[Line                   727]: Unknown attribute-value pair Variant=Short
+[Line                   738]: Unknown attribute-value pair Variant=Short
+[Line                   799]: Unknown attribute-value pair Variant=Short
+[Line                   929]: Unknown attribute-value pair Variant=Short
+[Line                   982]: Unknown attribute-value pair Variant=Short
+[Line                   1019]: Unknown attribute-value pair Variant=Short
+[Line                   1116]: Unknown attribute-value pair Variant=Short
+[Line                   1234]: Unknown attribute-value pair Variant=Short
+[Line                   1419]: Unknown attribute-value pair Variant=Short
+[Line                   1421]: Unknown attribute-value pair Variant=Short
+[Line                   1487]: Unknown attribute-value pair Variant=Short
+[Line                   1526]: Unknown attribute-value pair Variant=Short
+[Line                   1541]: Unknown attribute-value pair Variant=Short
+[Line                   1602]: Unknown attribute-value pair Variant=Short
+...suppressing further errors regarding Morpho
+*** FAILED *** with 11216 errors
+Morpho errors: 11216
 
 
 ******************
