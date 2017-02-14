@@ -9,6 +9,10 @@ The `cop` relation is used exclusively for the word 是 / _shì_ "be" primarily 
 
 ~~~ conllu
 # visual-style 4 2 cop	color:blue
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
 1	他	_	PRON	_	_	4	nsubj	_	3SG
 2	是	_	VERB	_	_	4	cop	_	be
 3	我	_	PRON	_	_	4	nmod	_	1SG
