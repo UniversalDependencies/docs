@@ -128,10 +128,10 @@ Parataxis is a relation for "side-by-side sentences" including reported speech (
 
 ~~~ conllu
 # visual-style 2 11 parataxis	color:blue
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 11	bgColor:blue
+# visual-style 11	fgColor:white
 1	你	_	PRON	_	_	2	nsubj	_	2SG
 2	買	_	VERB	_	_	0	root	_	buy
 3	這	_	DET	_	_	5	det	_	this
