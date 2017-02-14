@@ -17,8 +17,8 @@ The `nsubj:pass` relation is used for the passive subject of a verb.
 2	被	_	AUX	_	_	3	aux:pass	_	PASS
 3	罰	_	VERB	_	_	0	root	_	punish
 
-1	"I've	_	_	_	_	0	_	_	_
-2	been	_	_	_	_	0	_	_	_
+1	"I'm	_	_	_	_	0	_	_	_
+2	being	_	_	_	_	0	_	_	_
 3	punished."	_	_	_	_	0	_	_	_
 
 ~~~
