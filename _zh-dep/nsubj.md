@@ -9,6 +9,10 @@ The `nsubj` relation links a subject to its predicate, and this subject must be 
 
 ~~~ conllu
 # visual-style 3 1 nsubj	color:blue
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
 1	我	_	PRON	_	_	3	nsubj	_	1SG
 2	馬上	_	ADV	_	_	3	advmod	_	immediately
 3	開車	_	VERB	_	_	0	root	_	drive
