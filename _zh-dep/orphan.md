@@ -9,6 +9,10 @@ The `orphan` relation is used for verb ellipsis in Mandarin (specifically, gappi
 
 ~~~ conllu
 # visual-style 8 11 orphan	color:blue
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 11	bgColor:blue
+# visual-style 11	fgColor:white
 1	我	_	PRON	_	_	2	nsubj	_	1SG
 2	喝	_	VERB	_	_	0	root	_	drink
 3	了	_	AUX	_	_	2	aux	_	PERF
@@ -37,16 +41,20 @@ The `orphan` relation is used for verb ellipsis in Mandarin (specifically, gappi
 
 ~~~
 
-In the above example, the subject 他 _tā_ "he" is promoted to head position of the second clause, and the head of the object, 咖啡 _kāfēi_ "coffee" in the noun phrase 三 杯 咖啡 _sān bēi kāfēi_ "three cups of coffee", is connected to the promoted head as an `orphan` dependent, rather than `obj` (since 咖啡 _kāfēi_ "coffee" is not the object of 他 _tā_ "he" but of the elided verb).
+In the above example, the verb in the second clause is elided, and the subject 他 / _tā_ "he" is promoted to head position of the second clause, whereas the head of the object, 咖啡 / _kāfēi_ "coffee" in the noun phrase 三 杯 咖啡 / _sān bēi kāfēi_ "three cups of coffee", is connected to the promoted head as an `orphan` dependent, rather than `obj` (since 咖啡 / _kāfēi_ "coffee" is not the object of 他 / _tā_ "he" but of the elided verb).
 
 The prefered order of promotion is as follows, depending on the relation of a word to its elided verb: 
 
 - `nsubj` > `obj` > `iobj` > `obl` > `advmod` > `csubj` > `xcomp` > `ccomp` > `advcl`.
 
-Some other arguments, such as the subject in (2), may also be elided along with the verb. In the following example, the second clause only has the direct and indirect objects left. According to the promotion hierarchy above, the direct object 手機 _shǒujī_ "mobile phone" is promoted to head and not the indirect object 奶奶 _nǎinai_ "grandmother".
+Some other arguments, such as the subject in (2), may also be elided along with the verb in a subsequent clause. In the following example, the second clause only has the direct and indirect objects left. According to the promotion hierarchy above, the direct object 手機 / _shǒujī_ "mobile phone" is promoted to head and not the indirect object 奶奶 / _nǎinai_ "grandmother".
 
 ~~~ conllu
 # visual-style 11 8 orphan	color:blue
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 11	bgColor:blue
+# visual-style 11	fgColor:white
 1	他	_	PRON	_	_	2	nsubj	_	3SG.M
 2	給	_	VERB	_	_	0	root	_	give
 3	爺爺	_	NOUN	_	_	2	iobj	_	grandfather
@@ -73,11 +81,17 @@ Some other arguments, such as the subject in (2), may also be elided along with 
 
 ~~~
 
-Ellipsis of the verb may also occur in a main clause when it follows a subordinate clause. In the following example, according to the head promotion hierarchy the subject of the main clause, 我 _wǒ_ "I", is promoted to root. The object 五 個 _wǔ ge_ "five (of them)" as well as the adverb 也 _yě_ "also" are connected to the subject as `orphan` dependents. However, the head of the subordinating clause is labelled an `advcl` dependent since its relation to the main clause is still as an adverbial clause.
+Ellipsis of the verb may also occur in a main clause when it follows a subordinate clause. In the following example, according to the head promotion hierarchy the subject of the main clause, 我 / _wǒ_ "I", is promoted to root. The object 五 個 / _wǔ ge_ "five (of them)" as well as the adverb 也 / _yě_ "also" are connected to the subject as `orphan` dependents. However, the head of the subordinating clause is labelled an `advcl` dependent of 我 / _wǒ_ "I" since its relation to the main clause is still as an adverbial clause.
 
 ~~~ conllu
 # visual-style 8 9 orphan	color:blue
 # visual-style 8 11 orphan	color:blue
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 11	bgColor:blue
+# visual-style 11	fgColor:white
 1	ROOT	_	_	_	_	0	root	_	_
 2	如果	_	SCONJ	_	_	4	mark	_	if
 3	你	_	PRON	_	_	4	nsubj	_	2SG
