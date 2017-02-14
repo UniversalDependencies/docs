@@ -99,6 +99,9 @@ This block can be anywhere in the readme file. The properties are as follows:
 
 While the official UD release is always through Lindat, many users of UD source their data from the GitHub language repositories. Therefore, the `master` branch of every language should contain the last, officially released version of the data for the given language. The development in between releases should happen on the `dev` branch of the repository.
 Although it is currently not locked, treebank maintainers should never touch the `master` branch, they should always push to `dev`. At release time, the release task force will take care of merging the contents of the `dev` branch into `master`.
+<strong>Please do not submit pull requests from the dev branch (or from anywhere else) to the master branch.</strong>
+This is not needed for the release merge to take place, and if someone overlooks the destination branch and accepts the pull request,
+it will again result in a commit to the master branch at wrong time.
 
 (To make things a bit more confusing, this policy of data repositories does not apply to some other repositories that we use. In the `docs` repository you must work with the `pages-source` branch. That is done automatically if you edit the documentation in your browser via the _edit page_ link. You will also need to access the `tools` repository and upload the `deprel` and `feat_val` files specific for your treebank. In this case, please use the `master` branch.)
 
