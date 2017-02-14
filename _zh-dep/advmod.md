@@ -11,6 +11,10 @@ Predicates may be a verb (1) or a predicate adjective (2) or nominal (3) in copu
 
 ~~~ conllu
 # visual-style 3 2 advmod	color:blue
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
 1	你	_	PRON	_	_	3	nmod	_	2SG
 2	已經	_	ADV	_	_	3	advmod	_	already
 3	答應	_	VERB	_	_	0	root	_	promise
@@ -25,6 +29,10 @@ Predicates may be a verb (1) or a predicate adjective (2) or nominal (3) in copu
 
 ~~~ conllu
 # visual-style 2 1 advmod	color:blue
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
 1	更	_	ADV	_	_	2	advmod	_	more
 2	好	_	ADJ	_	_	0	root	_	good
 
@@ -34,6 +42,10 @@ Predicates may be a verb (1) or a predicate adjective (2) or nominal (3) in copu
 
 ~~~ conllu
 # visual-style 6 2 advmod	color:blue
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
 1	他	_	PRON	_	_	6	nsubj	_	3SG.M
 2	曾經	_	ADV	_	_	6	advmod	_	once
 3	是	_	VERB	_	_	6	cop	_	COP
@@ -53,6 +65,10 @@ Modifier words that may be modified by an adverb include numerals (4) and quanti
 
 ~~~ conllu
 # visual-style 2 1 advmod	color:blue
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
 1	大概	_	ADV	_	_	2	advmod	_	around
 2	五百	_	NUM	_	_	3	nummod	_	five-hundred
 3	元	_	NOUN	_	_	0	root	_	dollars
@@ -66,6 +82,10 @@ Modifier words that may be modified by an adverb include numerals (4) and quanti
 
 ~~~ conllu
 # visual-style 2 1 advmod	color:blue
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
 1	很	_	ADV	_	_	2	advmod	_	very
 2	多	_	DET	_	_	3	det	_	many
 3	人	_	NOUN	_	_	0	root	_	people
@@ -79,6 +99,10 @@ When the negative 不 _bù_ precedes a modal auxiliary, it modifies the auxiliar
 
 ~~~ conllu
 # visual-style 3 2 advmod	color:blue
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
 1	她	_	PRON	_	_	4	nsubj	_	3SG.F
 2	不	_	ADV	_	_	3	advmod	_	NEG
 3	可以	_	AUX	_	_	4	aux	_	can
@@ -95,6 +119,10 @@ When the negative 不 _bù_ precedes a modal auxiliary, it modifies the auxiliar
 
 ~~~ conllu
 # visual-style 4 3 advmod	color:blue
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
 1	她	_	PRON	_	_	4	nsubj	_	3SG.F
 2	可以	_	AUX	_	_	4	aux	_	can
 3	不	_	ADV	_	_	4	advmod	_	NEG
@@ -112,6 +140,14 @@ When the negative 不 _bù_ precedes a modal auxiliary, it modifies the auxiliar
 ~~~ conllu
 # visual-style 3 2 advmod	color:blue
 # visual-style 5 4 advmod	color:blue
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 6	fgColor:white
 1	她	_	PRON	_	_	5	nsubj	_	3SG.F
 2	不	_	ADV	_	_	3	advmod	_	NEG
 3	可以	_	AUX	_	_	5	aux	_	can
@@ -132,6 +168,10 @@ Temporal expressions that are adverbs or short adverbial phrases also use the [a
 
 ~~~ conllu
 # visual-style 4 3 advmod	color:blue
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
 1	希望	_	VERB	_	_	0	root	_	hope
 2	他	_	PRON	_	_	4	nsubj	_	3SG.M
 3	早日	_	ADV	_	_	4	advmod	_	early
@@ -143,8 +183,3 @@ Temporal expressions that are adverbs or short adverbial phrases also use the [a
 4	soon."	_	_	_	_	0	_	_	_
 
 ~~~
-
-
-
-
-
