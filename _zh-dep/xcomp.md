@@ -5,15 +5,16 @@ shortdef: 'open clausal complement'
 udver: '2'
 ---
 
-This document is a placeholder for the language-specific documentation
-for `xcomp`.
-
 The open clausal complement functions like an object of another verb, but unlike the [ccomp]() dependent, it obligatorily lacks an overt subject. More crucially, the absent or "silent" subject is coreferent with an argument outside of the clausal complement in a higher clause (this is also known as "obligatory control" in some linguistic literature). 
 
-When the silent subject of `xcomp` is obligatorily coreferent with the subject of the higher clause, it is known as "subject control". Some matrix verbs that take a clausal complement with subject control include 準備 _zhǔnbèi_ "prepare", 打算 _dǎsuàn_ "plan", 決定 _juédìng_ "decide", 開始 _kāishǐ_ "start", 答應 _dāyìng_ "promise".
+When the silent subject of `xcomp` is obligatorily coreferent with the subject of the higher clause, it is known as "subject control". Some matrix verbs that take a clausal complement with subject control include 準備 / _zhǔnbèi_ "prepare", 打算 / _dǎsuàn_ "plan", 決定 / _juédìng_ "decide", 開始 / _kāishǐ_ "start", 答應 / _dāyìng_ "promise".
 
 ~~~ conllu
 # visual-style 4 5 xcomp	color:blue
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
 1	我	_	PRON	_	_	4	nsubj	_	1SG
 2	早	_	ADV	_	_	4	advmod	_	early
 3	就	_	ADV	_	_	4	advmod	_	then
@@ -36,6 +37,10 @@ The matrix verb may require both a non-clausal object and a clausal complement:
 
 ~~~ conllu
 # visual-style 2 4 xcomp	color:blue
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
 1	我	_	PRON	_	_	2	nsubj	_	1SG
 2	答應	_	VERB	_	_	0	root	_	promise
 3	你	_	PRON	_	_	2	obj	_	2SG
@@ -54,10 +59,14 @@ The matrix verb may require both a non-clausal object and a clausal complement:
 
 ~~~
 
-In the case of "object control", the subject of the clausal complement is obligatorily coreferent with the direct object of the higher clause. Chinese “pivotal constructions” are considered to fall under this category. Some matrix verbs that may take a clausal complement with object control include 麻煩 _máfán_ "trouble", 勸 _quàn_ "advise", 派 _pài_ "dispatch", 求 _qiú_ "beg", 委託 _wěituō_ "entrust", 請 _qǐng_ "asl", 命令 _mìnglìng_ "order", 叫 _jiào_ "tell", 原諒 _yuánliàng_ "forgive", 恭喜 _gōngxǐ_ "congratulate", 批評 _pīpíng_ "criticize", among others (however, note that some of these verbs may also take just a non-clausal object).
+In the case of "object control", the subject of the clausal complement is obligatorily coreferent with the direct object of the higher clause. Chinese “pivotal constructions” are considered to fall under this category. Some matrix verbs that may take a clausal complement with object control include 麻煩 / _máfán_ "trouble", 勸 / _quàn_ "advise", 派 / _pài_ "dispatch", 求 / _qiú_ "beg", / 委託 _wěituō_ "entrust", 請 / _qǐng_ "asl", 命令 / _mìnglìng_ "order", 叫 / _jiào_ "tell", 原諒 / _yuánliàng_ "forgive", 恭喜 / _gōngxǐ_ "congratulate", 批評 / _pīpíng_ "criticize", among others (however, note that some of these verbs may also take just a non-clausal object).
 
 ~~~ conllu
 # visual-style 2 7 xcomp	color:blue
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
 1	我	_	PRON	_	_	2	nsubj	_	1SG
 2	命令	_	VERB	_	_	0	root	_	order
 3	你	_	PRON	_	_	2	obj	_	2SG
@@ -81,10 +90,14 @@ In the case of "object control", the subject of the clausal complement is obliga
 
 ### Secondary predicates
 
-Note that the complement may be simply a nominal predicate, where the structure should not be confused with a ditransitive verb requiring a direct object and an indirect object, such as the example below. This is also known as a "secondary predicate" or "small clause" in the linguistic literature.
+Note that the complement may be simply a nominal predicate, where the structure should not be confused with a ditransitive verb requiring a direct object and an indirect object, such as the examples below. This is also known as a "secondary predicate" or "small clause" in the linguistic literature.
 
 ~~~ conllu
 # visual-style 1 4 xcomp	color:blue
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
 1	叫	_	VERB	_	_	0	root	_	call
 2	我	_	PRON	_	_	1	obj	_	1SG
 3	羅	_	PROPN	_	_	4	compound	_	Luo
@@ -99,6 +112,10 @@ Note that the complement may be simply a nominal predicate, where the structure 
 
 ~~~ conllu
 # visual-style 2 4 xcomp	color:blue
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
 1	她	_	PRON	_	_	2	nsubj	_	3SG.F
 2	當	_	VERB	_	_	0	root	_	consider
 3	我	_	PRON	_	_	2	obj	_	1SG
@@ -114,10 +131,14 @@ Note that the complement may be simply a nominal predicate, where the structure 
 
 ### In "extent compound" constructions
 
-Additionally, `xcomp` is used when the clause following a V-得 extent compound (see [compound:ext]()) is missing a subject.
+Additionally, `xcomp` is used when the predicate or clause following a V-得 extent compound (see [compound:ext]()) is lacking its local subject.
 
 ~~~ conllu
 # visual-style 2 4 xcomp	color:blue
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
 1	我	_	PRON	_	_	2	nsubj	_	1SG
 2	説	_	VERB	_	_	0	root	_	say
 3	得	_	PART	_	_	2	compound:ext	_	DE
@@ -132,6 +153,10 @@ Additionally, `xcomp` is used when the clause following a V-得 extent compound 
 
 ~~~ conllu
 # visual-style 2 5 xcomp	color:blue
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
 1	我	_	PRON	_	_	2	nsubj	_	1SG
 2	熱	_	ADJ	_	_	0	root	_	hot
 3	得	_	PART	_	_	2	compound:ext	_	DE
@@ -151,10 +176,14 @@ Additionally, `xcomp` is used when the clause following a V-得 extent compound 
 
 ### Raising constructions
 
-A small class of predicate adjectives, such as 容易 _róngyì_ "easy", 難 _nán_ "difficult", 可能 _kěnéng_ "possible", take a clausal complement in which its subject or object is in the subject or topic position of the main clause.
+A small class of predicate adjectives, including 容易 _róngyì_ "easy", 難 _nán_ "difficult", 可能 _kěnéng_ "possible", take a clausal complement in which its subject or object is in the subject or topic position of the main clause.
 
 ~~~ conllu
 # visual-style 3 4 xcomp	color:blue
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
 1	他	_	PRON	_	_	3	nsubj	_	3SG
 2	很	_	ADV	_	_	3	advmod	_	very
 3	容易	_	ADJ	_	_	0	root	_	easy
@@ -177,7 +206,7 @@ A small class of predicate adjectives, such as 容易 _róngyì_ "easy", 難 _
 
 ~~~
 
-The predicate of the clausal complement is linked to the predicate adjective as an `xcomp` dependent, whereas the noun phrase preceding the predicate adjective is treated as its subject (`nsubj`) regardless of whether it can be understood to be the subject or object of the clausal complement.
+The predicate of the clausal complement is linked to the predicate adjective as an `xcomp` dependent, whereas the noun phrase preceding the predicate adjective is treated as its syntactic subject (`nsubj`) regardless of whether it can be semantically understood to be the subject or object of the clausal complement.
 
 ### `ccomp` vs. object-control `xcomp`
 
@@ -187,10 +216,10 @@ We adopt a test from Chao (1968) which allows one to separate "clausal objects" 
 
 **`ccomp`** |   | **`xcomp`**
 ----------- | - | -----------
-_他 認為_ 你 有 禮貌 | | _他 请_ 你 帮忙
+_他 認為_ 你 有 禮貌 | | _他 請_ 你 幫忙
 3SG consider 2SG have politeness | | 3SG ask 2SG help
 "He thinks you're polite" | | "He asked you to help"
-OKAY: 你 有 禮貌, _他 認為_ | | BAD: * 你 帮忙, _他 请_
+OKAY: 你 有 禮貌, _他 認為_ | | BAD: * 你 幫忙, _他 請_
 
 ### References
 
