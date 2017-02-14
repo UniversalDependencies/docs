@@ -11,6 +11,10 @@ Numeric modifiers are always attached to the head of the noun phrase.
 
 ~~~ conllu
 # visual-style 4 1 nummod	color:blue
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
 1	三	_	NUM	_	_	4	nummod	_	three
 2	個	_	NOUN	_	_	1	clf	_	CL:generic
 3	好	_	ADJ	_	_	4	amod	_	good
@@ -24,6 +28,10 @@ Numeric modifiers are always attached to the head of the noun phrase.
 
 ~~~ conllu
 # visual-style 2 1 nummod	color:blue
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
 1	五	_	NUM	_	_	2	nummod	_	five
 2	天	_	NOUN	_	_	0	root	_	CL:days
 
