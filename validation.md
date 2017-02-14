@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-02-14T15:10:34Z">2017-02-14T15:10:34 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-02-14T15:14:37Z">2017-02-14T15:14:37 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -1649,18 +1649,18 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang got /home/ginter/UD_PRO
 <span class="doublewidespan" style="padding-left:3em">UD Greek</span>
 <span class="widespan">el</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-14T14:13:10Z">2017-02-14T14:13:10 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-14T15:14:33Z">2017-02-14T15:14:33 zulu</time></span>
 </div>
 <div>
 <pre>
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang el /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Greek/el-ud-dev.conllu
+python tools/validate.py --lang el UD-dev-branches/UD_Greek/el-ud-dev.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang el /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Greek/el-ud-train.conllu
+python tools/validate.py --lang el UD-dev-branches/UD_Greek/el-ud-train.conllu
 
 *** PASSED ***
 
