@@ -9,6 +9,10 @@ A clausal complement is a full clause that functions like an object of verb. It 
 
 ~~~ conllu
 # visual-style 2 5 ccomp	color:blue
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
 1	我	_	PRON	_	_	2	nsubj	_	1SG
 2	知道	_	VERB	_	_	0	root	_	know
 3	你	_	PRON	_	_	5	nsubj	_	2SG
@@ -27,10 +31,14 @@ A clausal complement is a full clause that functions like an object of verb. It 
 
 ~~~
 
-The subject of the embedded clause may sometimes be absent, but pragmatically understood.
+The subject of the embedded clause may sometimes be absent, but pragmatically understood, such as in the below example where the thing being mentioned as being stinky may be a room or a pair of socks that was previously discussed or known to be the topic of discussion. 
 
 ~~~ conllu
 # visual-style 4 6 ccomp	color:blue
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
 1	你	_	PRON	_	_	4	nsubj	_	2SG
 2	有	_	VERB	_	_	4	aux	_	PERF
 3	否	_	ADV	_	_	2	conj	_	NEG
@@ -53,7 +61,7 @@ The subject of the embedded clause may sometimes be absent, but pragmatically un
 
 ~~~
 
-In some rare cases, a verb may have different meanings, one taking a `ccomp` dependent, and another an `xcomp` dependent. For example, the verb 觉得 _juédé_ may mean “feel, think, consider” or “feel a sensation”. The first meaning takes a clausal complement, as in example (2) above; the second meaning requires `xcomp`, as in (3) below, which exhibits a case of ‘subject control’, where the subject of the second predicate 很 開心 / _hěn kāixīn_ "very happy" is necessarily understood as the subject of the matrix verb.
+In some rare cases, a verb may have different meanings, one taking a `ccomp` dependent, and another an `xcomp` dependent. For example, the verb 覺得 _juédé_ may mean "feel, think, consider" or "feel a sensation". The first meaning takes a clausal complement, as in example (2) above; the second meaning requires `xcomp`, as in (3) below, which exhibits a case of "subject control", where the subject of the second predicate 很 開心 / _hěn kāixīn_ "very happy" is necessarily understood as the subject of the matrix verb 覺得 / _juédé_ "feel (a sensation)".
 
 ~~~ conllu
 1	我	_	PRON	_	_	2	nsubj	_	1SG
@@ -72,6 +80,10 @@ Additionally, `ccomp` is used for "extent compounds" (see [compound:ext]()) wher
 
 ~~~ conllu
 # visual-style 1 6 ccomp	color:blue
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
 1	熱	_	VERB	_	_	0	root	_	hot
 2	得	_	PART	_	_	1	compound:ext	_	DE
 3	連	_	ADV	_	_	6	advmod	_	even
@@ -92,10 +104,14 @@ Additionally, `ccomp` is used for "extent compounds" (see [compound:ext]()) wher
 
 ~~~
 
-The `ccomp` relation is also used for the copula 是 _shì_ when its argument is a clause (although in copular constructions, 是 _shì_ is usually a [cop]() dependent of the predicate).
+The `ccomp` relation is also used for the copula 是 _shì_ when its argument is a clause (although in copular constructions, 是 _shì_ is a [cop]() dependent of the predicate when the predicate is non-clausal).
 
 ~~~ conllu
 # visual-style 2 5 ccomp	color:blue
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
 1	原因	_	NOUN	_	_	2	nsubj	_	reason
 2	是	_	VERB	_	_	0	root	_	be
 3	他	_	PRON	_	_	5	nsubj	_	3SG
@@ -113,10 +129,14 @@ The `ccomp` relation is also used for the copula 是 _shì_ when its argument is
 
 ### 是...(的) constructions
 
-The cleft-like focus constructions involving 是 _shì_ and 是...的 _shì...de_ are treated similarly.  In these constructions 是 _shì_ is considered the head, and the verb phrase or clause following it its clausal complement. Any noun phrase or adverbial to the left of 是 _shì_ is treated as a [dislocated]() dependent of 是 _shì_ (rather than subject, adjunct, or oblique nominal of the complement clause). The sentence-final particle 的 _de_ is attached to the complement clause (although note that 的 _de_ may also be a nominalizer or a genitive marker on a nominal predicate).
+The cleft-like focus constructions involving 是 _shì_ and 是...的 _shì...de_ are treated similarly to copular constructions with a clausal complement illustrated in (5).  In these constructions 是 _shì_ is considered the head, and the verb phrase or clause following it its clausal complement. Any noun phrase or adverbial to the left of 是 _shì_ is treated as a [dislocated]() dependent of 是 _shì_ (rather than subject, adjunct, or oblique nominal of the complement clause). The sentence-final particle 的 _de_ is attached to the complement clause (although note that 的 _de_ may also be a nominalizer or a genitive marker on a nominal predicate depending on the context).
 
 ~~~ conllu
 # visual-style 2 3 ccomp	color:blue
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
 1	張三	_	PROPN	_	_	2	dislocated	_	Zhang-San
 2	是	_	VERB	_	_	0	root	_	be
 3	戴	_	VERB	_	_	2	ccomp	_	wear
@@ -149,7 +169,7 @@ One can reinsert a subject into the complement clause as a test to separate the 
 - "Do you think the room is very stinky?"
   - grammatical
   - AND matrix verbs in (2) and (2’) have the same meaning 	
-  - CONCLUSION: matrix verb 覺得 'think' in (2) → ccomp
+  - CONCLUSION: matrix verb 覺得 'think' in (2) → `ccomp`
 - 
 - (3’)
 - 我 <i>覺得</i> [<b>我</b> 很 開心] (cf. 3)
@@ -157,6 +177,6 @@ One can reinsert a subject into the complement clause as a test to separate the 
 - "I think I’m very happy" (Unavailable: "I feel very happy" as seen in (3))
   - grammatical
   - BUT matrix verbs in (3) and (3’) have different meanings ("feel" vs. "think", respectively)
-  - CONCLUSION: matrix verb 覺得 'feel' in (3) → xcomp
+  - CONCLUSION: matrix verb 覺得 'feel' in (3) → `xcomp`
 
 See [xcomp]() for another test for differentiating between `ccomp` and object-control `xcomp`.
