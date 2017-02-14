@@ -6,7 +6,7 @@ permalink: lv/overview/introduction.html
 
 # Introduction
 
-Latvian UD Treebank is based on newswire section of the Latvian Treebank. Latvian Treebank was created 2010-2014 in the University of Latvia, Institute of Mathematics and Computer Science. Latvian Treebank is annotated according to an in-house hybrid annotation model and then automatically transformed to UD.
+Latvian UD Treebank is based on the Latvian Treebank. Latvian Treebank was created 2010-2014 in the University of Latvia, Institute of Mathematics and Computer Science. Latvian Treebank is annotated according to an in-house hybrid annotation model and then automatically transformed to UD.
 
 Annotations in Latvian Treebank:
 
@@ -25,7 +25,7 @@ Annotations in Latvian UD Treebank:
 7. HEAD: Head of the current token is automatically induced from original annotations.
 8. DEPREL: Universal Stanford dependency relation to the HEAD is automatically induced from original annotation.
 9. DEPS: Not used.
-10. MISC: Curently only "SpaceAfter=No" is used.
+10. MISC: Curently only `SpaceAfter=No` and (since UDv2.0) `NewPar=Yes` are used.
 
 ## Acknowledgements
 
