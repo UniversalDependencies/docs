@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-02-14T16:50:57Z">2017-02-14T16:50:57 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-02-14T18:02:23Z">2017-02-14T18:02:23 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -24,11 +24,11 @@ No data
 <span class="doublewidespan" style="padding-left:3em">UD Ancient Greek</span>
 <span class="widespan">grc</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-14T15:57:52Z">2017-02-14T15:57:52 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-14T18:02:06Z">2017-02-14T18:02:06 zulu</time></span>
 </div>
 <div>
 <pre>
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang grc /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Ancient_Greek/grc-ud-dev.conllu
+python tools/validate.py --lang grc UD-dev-branches/UD_Ancient_Greek/grc-ud-dev.conllu
 
 [Line                   3]: Unknown UD DEPREL: dobj
 [Line                   13]: Unknown UPOS tag: CONJ
@@ -98,7 +98,7 @@ Syntax errors: 3015
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang grc /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Ancient_Greek/grc-ud-train.conllu
+python tools/validate.py --lang grc UD-dev-branches/UD_Ancient_Greek/grc-ud-train.conllu
 
 [Line                   1]: Unknown UD DEPREL: dobj
 [Line                   5]: Unknown UPOS tag: CONJ
