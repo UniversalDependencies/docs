@@ -9,6 +9,10 @@ The `dislocated:vo` relation is used when the object of a verb-object compound (
 
 ~~~ conllu
 # visual-style 5 3 dislocated	color:blue
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
 1	你	_	PRON	_	_	3	nmod	_	2SG
 2	的	_	PART	_	_	1	case	_	GEN
 3	電話	_	NOUN	_	_	5	dislocated	_	phone
