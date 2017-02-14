@@ -147,7 +147,7 @@ When the negative 不 _bù_ precedes a modal auxiliary, it modifies the auxiliar
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 5	bgColor:blue
-# visual-style 6	fgColor:white
+# visual-style 5	fgColor:white
 1	她	_	PRON	_	_	5	nsubj	_	3SG.F
 2	不	_	ADV	_	_	3	advmod	_	NEG
 3	可以	_	AUX	_	_	5	aux	_	can
