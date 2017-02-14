@@ -5,12 +5,18 @@ shortdef: 'case marking'
 udver: '2'
 ---
 
-The case relation for Mandarin Chinese is applied to various particles that mark non-clausal dependents, including the genitive 的 _de_ (1); prepositions (2), including "coverbs" (3); postpositions, also known as "localizers" (4); and the valence markers 把 _bǎ_ and 將 _jiāng_ (5) in "BA constructions" (see [obl:patient]()); the comparative 比 _bǐ_ (6); and 被 _bèi_ in "long passive" constructions where the agent is mentioned (7).
+The case relation for Mandarin Chinese is applied to various particles that mark non-clausal dependents, including the genitive 的 _de_ (1); prepositions (2, 3), including "coverbs" (4); and the valence markers 把 _bǎ_ and 將 _jiāng_ (5) in "BA constructions" (see [obl:patient]()); the comparative 比 _bǐ_ (6); and 被 _bèi_ in "long passive" constructions where the agent is mentioned (7).
 
 Note that 的 _de_ has other grammaticalized functions that require the [mark:rel]() relation instead.
 
+Postpositions, also known as "localizers", are labeled with [case:loc]() instead. 
+
 ~~~ conllu
 # visual-style 1 2 case	color:blue
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
 1	你	_	PRON	_	_	3	nmod	_	2SG
 2	的	_	PART	_	_	1	case	_	GEN
 3	電話	_	NOUN	_	_	0	root	_	phone
@@ -22,6 +28,10 @@ Note that 的 _de_ has other grammaticalized functions that require the [mark:re
 
 ~~~ conllu
 # visual-style 3 2 case	color:blue
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
 1	我	_	PRON	_	_	5	nsubj	_	1SG
 2	在	_	ADP	_	_	3	case	_	at
 3	公司	_	NOUN	_	_	5	obl	_	company
@@ -40,19 +50,11 @@ Note that 的 _de_ has other grammaticalized functions that require the [mark:re
 ~~~
 
 ~~~ conllu
-# visual-style 2 1 case	color:blue
-1	跟	_	ADP	_	_	2	case	_	with
-2	我	_	PRON	_	_	3	obl	_	1SG
-3	來	_	VERB	_	_	0	root	_	come
-
-1	"Come	_	_	_	_	0	_	_	_
-2	with	_	_	_	_	0	_	_	_
-3	me."	_	_	_	_	0	_	_	_
-
-~~~
-
-~~~ conllu
 # visual-style 3 2 case	color:blue
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
 1	戴	_	VERB	_	_	0	root	_	wear
 2	在	_	ADP	_	_	3	case	_	on
 3	手	_	NOUN	_	_	1	obl	_	hand
@@ -67,7 +69,27 @@ Note that 的 _de_ has other grammaticalized functions that require the [mark:re
 ~~~
 
 ~~~ conllu
+# visual-style 2 1 case	color:blue
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+1	跟	_	ADP	_	_	2	case	_	with
+2	我	_	PRON	_	_	3	obl	_	1SG
+3	來	_	VERB	_	_	0	root	_	come
+
+1	"Come	_	_	_	_	0	_	_	_
+2	with	_	_	_	_	0	_	_	_
+3	me."	_	_	_	_	0	_	_	_
+
+~~~
+
+~~~ conllu
 # visual-style 5 4 case	color:blue
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
 1	把	_	ADP	_	_	2	case	_	BA
 2	他們	_	PRON	_	_	3	obl:patient	_	3PL
 3	藏	_	VERB	_	_	0	root	_	hide
@@ -85,6 +107,10 @@ Note that 的 _de_ has other grammaticalized functions that require the [mark:re
 
 ~~~ conllu
 # visual-style 4 3 case	color:blue
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
 1	我們	_	PRON	_	_	7	nsubj	_	3PL
 2	應該	_	AUX	_	_	7	aux	_	should
 3	比	_	ADP	_	_	4	case	_	COMP
@@ -109,6 +135,10 @@ Note that 的 _de_ has other grammaticalized functions that require the [mark:re
 
 ~~~ conllu
 # visual-style 2 1 case	color:blue
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
 1	被	_	ADP	_	_	2	case	_	by
 2	你	_	PRON	_	_	3	obl:agent	_	2SG
 3	偷	_	VERB	_	_	0	root	_	steal
