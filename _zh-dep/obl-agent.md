@@ -9,6 +9,10 @@ The `obl:agent` relation is used to link an agent noun phrase to the main verb, 
 
 ~~~ conllu
 # visual-style 3 2 obl:agent	color:blue
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
 1	被	_	ADP	_	_	2	case	_	by
 2	我	_	PRON	_	_	3	obl:agent	_	1SG
 3	扔掉	_	VERB	_	_	0	root	_	throw-away
