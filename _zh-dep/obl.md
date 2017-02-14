@@ -5,12 +5,16 @@ shortdef: 'oblique nominal'
 udver: '2'
 ---
 
-The `obl` relation is used for nominals functioning as a non-core argument or adjunct of a predicate, where the nominal may include some nominal marker. In Mandarin Chinese this may include prepositional phrases (1), preverbal coverb phrases where we treat the coverbs as prepositions (2), and comparative objects introduced by 比 _bǐ_ (3). In each of these situations, the nominal is an ｀obl｀ dependent of the predicate, and governs its marker (tagged as ADP in all cases). For nominals introduced by 被 _bèi_ and 把 _bǎ_, see [obl:agent]() and [obl:patient](), respectively.
+The `obl` relation is used for nominals functioning as a non-core argument or adjunct of a predicate, where the nominal may include some nominal marker. In Mandarin Chinese this may include prepositional phrases (1), preverbal coverb phrases where we treat the coverbs as prepositions (2), and comparative objects introduced by 比 _bǐ_ (3). In each of these situations, the nominal is an `obl` dependent of the predicate, and governs its marker (tagged as ADP in all cases) in a `case` relation. For nominals introduced by 被 _bèi_ and 把 _bǎ_, see [obl:agent]() and [obl:patient](), respectively.
 
 The relation can also be used for nominals that don’t include a nominal marker, specifically locational pronouns and nouns, such as 這裡 / _zhèlǐ_ "here", 那裡 / _nàlǐ_ "there", 前面 / _qiánmiàn_ "front side" (4). For temporal nouns functioning as adjuncts, see [obl:tmod]().
 
 ~~~ conllu
 # visual-style 3 6 obl	color:blue
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
 1	一定	_	ADV	_	_	2	advmod	_	certainly
 2	是	_	VERB	_	_	0	root	_	be
 3	還	_	VERB	_	_	2	ccomp	_	return
@@ -31,6 +35,10 @@ The relation can also be used for nominals that don’t include a nominal marker
 
 ~~~ conllu
 # visual-style 7 5 obl	color:blue
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
 1	你	_	PRON	_	_	3	nmod	_	2SG
 2	的	_	PART	_	_	1	case	_	GEN
 3	系列	_	NOUN	_	_	7	nsubj	_	series
@@ -57,6 +65,10 @@ The relation can also be used for nominals that don’t include a nominal marker
 
 ~~~ conllu
 # visual-style 7 4 obl	color:blue
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
 1	我們	_	PRON	_	_	7	nsubj	_	1PL
 2	應該	_	AUX	_	_	7	aux	_	should
 3	比	_	ADP	_	_	4	case	_	COMP
@@ -81,6 +93,10 @@ The relation can also be used for nominals that don’t include a nominal marker
 
 ~~~ conllu
 # visual-style 5 3 obl	color:blue
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
 1	他	_	PRON	_	_	2	nsubj	_	3SG.M
 2	説	_	VERB	_	_	0	root	_	say
 3	這裡	_	PRON	_	_	5	obl	_	here
