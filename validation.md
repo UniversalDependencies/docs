@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-02-14T15:14:37Z">2017-02-14T15:14:37 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-02-14T15:26:21Z">2017-02-14T15:26:21 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -2987,18 +2987,18 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang pl /home/ginter/UD_PROJ
 <span class="doublewidespan" style="padding-left:3em">UD Portuguese</span>
 <span class="widespan">pt</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-14T14:17:32Z">2017-02-14T14:17:32 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-14T15:26:04Z">2017-02-14T15:26:04 zulu</time></span>
 </div>
 <div>
 <pre>
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang pt /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Portuguese/pt-ud-dev.conllu
+python tools/validate.py --lang pt UD-dev-branches/UD_Portuguese/pt-ud-dev.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang pt /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Portuguese/pt-ud-train.conllu
+python tools/validate.py --lang pt UD-dev-branches/UD_Portuguese/pt-ud-train.conllu
 
 [Line                   1287]: Mismatch between the text attribute and the FORM field. Form is 'teve' but text is 'PÚBLICO teve acesso -- t...'
 [Line                   1287]: Mismatch between the text attribute and the FORM field. Form is 'acesso' but text is 'PÚBLICO teve acesso -- tra...'
@@ -3020,8 +3020,8 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang pt /home/ginter/UD_PROJ
 [Line                   1287]: Mismatch between the text attribute and the FORM field. Form is 'por' but text is 'PÚBLICO teve acesso -- ...'
 [Line                   1287]: Mismatch between the text attribute and the FORM field. Form is 'cento' but text is 'PÚBLICO teve acesso -- tr...'
 ...suppressing further errors regarding Metadata
-*** FAILED *** with 1562 errors
-Metadata errors: 1562
+*** FAILED *** with 1178 errors
+Metadata errors: 1178
 
 
 ******************
