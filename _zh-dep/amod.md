@@ -9,6 +9,10 @@ An adjectival modifier is an adjectival word or phrase that modifies a nominal. 
 
 ~~~ conllu
 # visual-style 2 1 amod	color:blue
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
 1	新	_	ADJ	_	_	2	amod	_	new
 2	產品	_	NOUN	_	_	0	root	_	product
 
@@ -21,6 +25,10 @@ When paired with 的 _de_, the adjective acts as head of the particle in a [mark
 
 ~~~ conllu
 # visual-style 3 1 amod	color:blue
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
 1	嚴重	_	ADJ	_	_	3	amod	_	serious
 2	的	_	PART	_	_	1	mark:rel	_	_
 3	問題	_	NOUN	_	_	0	root	_	problem
