@@ -53,7 +53,7 @@ The `det` relation applies to the head of a nominal and its determiner. All dete
 
 ~~~
 
-Classifiers are treated as determiners when a noun phrase begins with a bare classifier. In Mandarin Chinese, this only occurs when the noun phrase is in postverbal position (and has an indefinite interpretation).
+Classifiers are treated as determiners when a noun phrase begins with a bare classifier. In Mandarin Chinese, this only occurs when the bare-classifier noun phrase is in postverbal position (and has an indefinite interpretation).
 
 ~~~ conllu
 # visual-style 4 3 det	color:blue
