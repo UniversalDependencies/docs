@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-02-14T19:44:48Z">2017-02-14T19:44:48 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-02-14T19:55:17Z">2017-02-14T19:55:17 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -2685,21 +2685,51 @@ Format errors: 2
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD Norwegian-Nynorsk</span>
 <span class="widespan">no nynorsk</span>
-<span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-14T18:47:26Z">2017-02-14T18:47:26 zulu</time></span>
+<span class="validationfail">FAIL</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-14T19:54:57Z">2017-02-14T19:54:57 zulu</time></span>
 </div>
 <div>
 <pre>
 python tools/validate.py --lang no_nynorsk UD-dev-branches/UD_Norwegian-Nynorsk/no_nynorsk-ud-dev.conllu
 
-*** PASSED ***
+[Line                   37095]: The line has 1 columns, but 10 are expected.
+[Line                   37095]: Exception caught!
+Traceback (most recent call last):
+  File "tools/validate.py", line 685, in <module>
+    validate(inp,out,args,tagsets,known_sent_ids)
+  File "tools/validate.py", line 571, in validate
+    for comments,tree in trees(inp,tag_sets,args):
+  File "tools/validate.py", line 96, in trees
+    validate_cols(cols,tag_sets,args)
+  File "tools/validate.py", line 201, in validate_cols
+    validate_whitespace(cols,tag_sets)
+  File "tools/validate.py", line 228, in validate_whitespace
+    if not cols[col_idx]:
+IndexError: list index out of range
+*** FAILED *** with 2 errors
+Format errors: 2
 
 
 ******************
 
 python tools/validate.py --lang no_nynorsk UD-dev-branches/UD_Norwegian-Nynorsk/no_nynorsk-ud-train.conllu
 
-*** PASSED ***
+[Line                   289296]: The line has 1 columns, but 10 are expected.
+[Line                   289296]: Exception caught!
+Traceback (most recent call last):
+  File "tools/validate.py", line 685, in <module>
+    validate(inp,out,args,tagsets,known_sent_ids)
+  File "tools/validate.py", line 571, in validate
+    for comments,tree in trees(inp,tag_sets,args):
+  File "tools/validate.py", line 96, in trees
+    validate_cols(cols,tag_sets,args)
+  File "tools/validate.py", line 201, in validate_cols
+    validate_whitespace(cols,tag_sets)
+  File "tools/validate.py", line 228, in validate_whitespace
+    if not cols[col_idx]:
+IndexError: list index out of range
+*** FAILED *** with 2 errors
+Format errors: 2
 
 
 ******************
