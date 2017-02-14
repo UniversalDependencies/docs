@@ -9,6 +9,10 @@ Parataxis is a relation for "side-by-side sentences" including reported speech (
 
 ~~~ conllu
 # visual-style 4 11 parataxis	color:blue
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 11	bgColor:blue
+# visual-style 11	fgColor:white
 1	他	_	PRON	_	_	4	nsubj	_	3SG.M
 2	突然	_	ADV	_	_	4	advmod	_	suddenly
 3	大聲	_	ADV	_	_	4	advmod	_	loudly
@@ -37,6 +41,10 @@ Parataxis is a relation for "side-by-side sentences" including reported speech (
 
 ~~~ conllu
 # visual-style 4 8 parataxis	color:blue
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
 1	這	_	DET	_	_	2	det	_	this
 2	市場	_	NOUN	_	_	4	nsubj	_	market
 3	也	_	ADV	_	_	4	advmod	_	also
@@ -63,6 +71,10 @@ Parataxis is a relation for "side-by-side sentences" including reported speech (
 
 ~~~ conllu
 # visual-style 2 5 parataxis	color:blue
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
 1	他	_	PRON	_	_	2	nsubj	_	3SG
 2	生氣	_	VERB	_	_	0	root	_	get-angry
 3	了	_	PART	_	_	2	discourse:sp	_	SP
@@ -81,6 +93,10 @@ Parataxis is a relation for "side-by-side sentences" including reported speech (
 
 ~~~ conllu
 # visual-style 4 10 parataxis	color:blue
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
 1	他	_	PRON	_	_	4	nsubj	_	3SG.M
 2	是	_	VERB	_	_	4	cop	_	be
 3	紀律	_	NOUN	_	_	4	compound	_	discipline
@@ -111,13 +127,17 @@ Parataxis is a relation for "side-by-side sentences" including reported speech (
 ~~~
 
 ~~~ conllu
-# visual-style 3 10 parataxis	color:blue
+# visual-style 2 11 parataxis	color:blue
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
 1	你	_	PRON	_	_	2	nsubj	_	2SG
 2	買	_	VERB	_	_	0	root	_	buy
 3	這	_	DET	_	_	5	det	_	this
 4	本	_	NOUN	_	_	3	clf	_	CL:book
 5	書	_	NOUN	_	_	2	obj	_	book
-6	吧	_	SP	_	_	10	discourse:sp	_	SP
+6	吧	_	SP	_	_	2	discourse:sp	_	SP
 7	──	_	PUNCT	_	_	11	punct	_	2SG
 8	那	_	DET	_	_	9	det	_	that
 9	本	_	NOUN	_	_	11	nsubj	_	CL:book
