@@ -11,6 +11,10 @@ For relative clauses, nominalized clauses, and adjectives formed with 的 _de_, 
 
 ~~~ conllu
 # visual-style 3 1 mark	color:blue
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
 1	如果	_	SCONJ	_	_	3	mark	_	if
 2	我	_	PRON	_	_	3	nsubj	_	1SG
 3	買	_	VERB	_	_	0	root	_	buy
@@ -27,6 +31,10 @@ For relative clauses, nominalized clauses, and adjectives formed with 的 _de_, 
 
 ~~~ conllu
 # visual-style 1 3 mark	color:blue
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
 1	要	_	AUX	_	_	7	advcl	_	want
 2	玩	_	VERB	_	_	1	xcomp	_	play
 3	的話	_	SCONJ	_	_	1	mark	_	COND
@@ -53,6 +61,10 @@ For relative clauses, nominalized clauses, and adjectives formed with 的 _de_, 
 
 ~~~ conllu
 # visual-style 8 7 mark	color:blue
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
 1	你	_	PRON	_	_	2	nsubj	_	2SG
 2	搶	_	VERB	_	_	0	root	_	steal
 3	走	_	VERB	_	_	2	compound:vv	_	go-away
@@ -74,6 +86,10 @@ For relative clauses, nominalized clauses, and adjectives formed with 的 _de_, 
 
 ~~~ conllu
 # visual-style 2 4 mark	color:blue
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
 1	她	_	PRON	_	_	2	nsubj	_	3SG.F
 2	走	_	VERB	_	_	6	advcl	_	go
 3	了	_	AUX	_	_	2	aux	_	PERF
@@ -98,6 +114,10 @@ For relative clauses, nominalized clauses, and adjectives formed with 的 _de_, 
 
 ~~~ conllu
 # visual-style 6 5 mark	color:blue
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
 1	木村	_	PROPN	_	_	6	nsubj	_	Kimura
 2	在	_	ADP	_	_	3	case	_	in
 3	劇	_	NOUN	_	_	6	obl	_	show
