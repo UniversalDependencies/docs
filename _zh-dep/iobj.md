@@ -9,6 +9,10 @@ The indirect object is the third core argument of a verb, after the subject and 
 
 ~~~ conllu
 # visual-style 1 2 iobj	color:blue
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
 1	給	_	VERB	_	_	0	root	_	give
 2	他	_	PRON	_	_	1	iobj	_	3SG.M
 3	兩	_	NUM	_	_	5	nummod	_	two
