@@ -5,10 +5,14 @@ shortdef: 'object'
 udver: '2'
 ---
 
-The object of a transitive verb is its second core argument after its subject. If a third argument, an indirect object, is present, that object is marked as `iobj` (2), but if the only object present is an indirect object, it is still marked as `obj` (3). 
+The object of a transitive verb is its second core argument after its subject. If a third argument, an indirect object, is present, that object is marked as [iobj]() (2), but if the only object present is an indirect object, it is still marked as `obj` (3). 
 
 ~~~ conllu
 # visual-style 1 3 obj	color:blue
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
 1	開	_	VERB	_	_	0	root	_	open
 2	瓶	_	NOUN	_	_	3	det	_	CL:bottle
 3	酒	_	NOUN	_	_	1	obj	_	wine
@@ -23,6 +27,10 @@ The object of a transitive verb is its second core argument after its subject. I
 
 ~~~ conllu
 # visual-style 1 5 obj	color:blue
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
 1	給	_	VERB	_	_	0	root	_	give
 2	他	_	PRON	_	_	1	iobj	_	3SG.M
 3	兩	_	NUM	_	_	5	nummod	_	two
@@ -38,6 +46,10 @@ The object of a transitive verb is its second core argument after its subject. I
 
 ~~~ conllu
 # visual-style 2 3 obj	color:blue
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
 1	今年	_	NOUN	_	_	2	obl:tmod	_	this-year
 2	給	_	VERB	_	_	0	root	_	give
 3	他	_	PRON	_	_	2	obj	_	3SG.M
@@ -58,6 +70,10 @@ The object of a transitive verb is its second core argument after its subject. I
 ~~~ conllu
 # visual-style 5 6 obj	color:blue
 # visual-style 7 8 obj	color:blue
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
 1	那	_	DET	_	_	3	det	_	that
 2	傻	_	ADJ	_	_	3	amod	_	stupid
 3	丫頭	_	NOUN	_	_	4	nsubj	_	girl
@@ -87,6 +103,10 @@ The object of a transitive verb is its second core argument after its subject. I
 
 ~~~ conllu
 # visual-style 1 3 obj	color:blue
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
 1	來	_	VERB	_	_	0	root	_	come
 2	到	_	VERB	_	_	1	compound:vv	_	arrive
 3	這裡	_	PRON	_	_	1	obj	_	here
