@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-02-14T19:15:35Z">2017-02-14T19:15:35 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-02-14T19:44:48Z">2017-02-14T19:44:48 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -2630,21 +2630,51 @@ No data
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD Norwegian-Bokmaal</span>
 <span class="widespan">no bokmaal</span>
-<span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-14T18:12:36Z">2017-02-14T18:12:36 zulu</time></span>
+<span class="validationfail">FAIL</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-14T19:44:29Z">2017-02-14T19:44:29 zulu</time></span>
 </div>
 <div>
 <pre>
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang no_bokmaal /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Norwegian-Bokmaal/no_bokmaal-ud-dev.conllu
+python tools/validate.py --lang no_bokmaal UD-dev-branches/UD_Norwegian-Bokmaal/no_bokmaal-ud-dev.conllu
 
-*** PASSED ***
+[Line                   43799]: The line has 1 columns, but 10 are expected.
+[Line                   43799]: Exception caught!
+Traceback (most recent call last):
+  File "tools/validate.py", line 685, in <module>
+    validate(inp,out,args,tagsets,known_sent_ids)
+  File "tools/validate.py", line 571, in validate
+    for comments,tree in trees(inp,tag_sets,args):
+  File "tools/validate.py", line 96, in trees
+    validate_cols(cols,tag_sets,args)
+  File "tools/validate.py", line 201, in validate_cols
+    validate_whitespace(cols,tag_sets)
+  File "tools/validate.py", line 228, in validate_whitespace
+    if not cols[col_idx]:
+IndexError: list index out of range
+*** FAILED *** with 2 errors
+Format errors: 2
 
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang no_bokmaal /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Norwegian-Bokmaal/no_bokmaal-ud-train.conllu
+python tools/validate.py --lang no_bokmaal UD-dev-branches/UD_Norwegian-Bokmaal/no_bokmaal-ud-train.conllu
 
-*** PASSED ***
+[Line                   292797]: The line has 1 columns, but 10 are expected.
+[Line                   292797]: Exception caught!
+Traceback (most recent call last):
+  File "tools/validate.py", line 685, in <module>
+    validate(inp,out,args,tagsets,known_sent_ids)
+  File "tools/validate.py", line 571, in validate
+    for comments,tree in trees(inp,tag_sets,args):
+  File "tools/validate.py", line 96, in trees
+    validate_cols(cols,tag_sets,args)
+  File "tools/validate.py", line 201, in validate_cols
+    validate_whitespace(cols,tag_sets)
+  File "tools/validate.py", line 228, in validate_whitespace
+    if not cols[col_idx]:
+IndexError: list index out of range
+*** FAILED *** with 2 errors
+Format errors: 2
 
 
 ******************
