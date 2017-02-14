@@ -8,7 +8,7 @@ udver: '2'
 The `dislocated:vo` relation is used when the object of a verb-object compound (see [compound:vo]()) is fronted to topic position.
 
 ~~~ conllu
-# visual-style 5 3 dislocated	color:blue
+# visual-style 5 3 dislocated:vo	color:blue
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 3	bgColor:blue
