@@ -9,6 +9,10 @@ The relation `obl:patient` is used for the Mandarin "BA construction". Objects m
 
 ~~~ conllu
 # visual-style 3 2 obl:patient	color:blue
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
 1	把	_	ADP	_	_	2	case	_	BA
 2	它	_	PRON	_	_	3	obl:patient	_	3SG.N
 3	印	_	VERB	_	_	0	root	_	print
