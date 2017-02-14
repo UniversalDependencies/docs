@@ -11,6 +11,10 @@ Descriptive complements (1) are treated as [xcomp]() dependents of the compounde
 
 ~~~ conllu
 # visual-style 2 3 compound:ext	color:blue
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
 1	你	_	PRON	_	_	2	nsubj	_	2SG
 2	説	_	VERB	_	_	0	root	_	say
 3	得	_	PART	_	_	2	compound:ext	_	DE
@@ -27,6 +31,10 @@ For complements of extent where the head of the complement is a main verb, they 
 
 ~~~ conllu
 # visual-style 2 3 compound:ext	color:blue
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
 1	我	_	PRON	_	_	2	nsubj	_	1SG
 2	熱	_	ADJ	_	_	0	root	_	hot
 3	得	_	PART	_	_	2	compound:ext	_	DE
@@ -46,6 +54,10 @@ For complements of extent where the head of the complement is a main verb, they 
 
 ~~~ conllu
 # visual-style 1 2 compound:ext	color:blue
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
 1	熱	_	ADJ	_	_	0	root	_	hot
 2	得	_	PART	_	_	1	compound:ext	_	DE
 3	連	_	ADV	_	_	6	advmod	_	even
@@ -65,10 +77,14 @@ For complements of extent where the head of the complement is a main verb, they 
 
 ~~~
 
-Objects of the verb typically cannot occur in their regular position after the V + 得 compound and instead must be expressed through a "verb-copying" strategy where [verb + object] is first mentioned in an adverbial clause, as illustrated in (4). 
+Objects of the matrix verb usually cannot occur in their regular postverbal position after the V + 得 compound and instead must be expressed through a "verb-copying" strategy where [verb + object] is first mentioned in an adverbial clause, as illustrated in (4). 
 
 ~~~ conllu
 # visual-style 4 5 compound:ext	color:blue
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
 1	你	_	PRON	_	_	2	nsubj	_	2SG
 2	喝	_	VERB	_	_	4	advcl	_	drink
 3	湯	_	NOUN	_	_	2	obj	_	soup
@@ -89,6 +105,10 @@ However, there are some notable exceptions to the above rule, as seen in (5).
 
 ~~~ conllu
 # visual-style 2 3 compound:ext	color:blue
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
 1	什麼	_	DET	_	_	2	det	_	what
 2	事	_	NOUN	_	_	3	dislocated	_	matter
 3	找	_	VERB	_	_	0	root	_	look-for
