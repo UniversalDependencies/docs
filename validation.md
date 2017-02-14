@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-02-14T22:24:58Z">2017-02-14T22:24:58 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-02-14T22:25:02Z">2017-02-14T22:25:02 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -2593,18 +2593,18 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang la_proiel /home/ginter/
 <span class="doublewidespan" style="padding-left:3em">UD Latvian</span>
 <span class="widespan">lv</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-14T22:24:55Z">2017-02-14T22:24:55 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-14T18:12:32Z">2017-02-14T18:12:32 zulu</time></span>
 </div>
 <div>
 <pre>
-python tools/validate.py --lang lv UD-dev-branches/UD_Latvian/lv-ud-dev.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang lv /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Latvian/lv-ud-dev.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python tools/validate.py --lang lv UD-dev-branches/UD_Latvian/lv-ud-train.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang lv /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Latvian/lv-ud-train.conllu
 
 *** PASSED ***
 
@@ -2684,7 +2684,7 @@ Format errors: 2
 <span class="doublewidespan" style="padding-left:3em">UD Norwegian-Nynorsk</span>
 <span class="widespan">no nynorsk</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-14T22:17:38Z">2017-02-14T22:17:38 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-14T22:24:41Z">2017-02-14T22:24:41 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -2692,18 +2692,6 @@ python tools/validate.py --lang no_nynorsk UD-dev-branches/UD_Norwegian-Nynorsk/
 
 [Line                   37095]: The line has 1 columns, but 10 are expected.
 [Line                   37095]: Exception caught!
-Traceback (most recent call last):
-  File "tools/validate.py", line 685, in <module>
-    validate(inp,out,args,tagsets,known_sent_ids)
-  File "tools/validate.py", line 571, in validate
-    for comments,tree in trees(inp,tag_sets,args):
-  File "tools/validate.py", line 96, in trees
-    validate_cols(cols,tag_sets,args)
-  File "tools/validate.py", line 201, in validate_cols
-    validate_whitespace(cols,tag_sets)
-  File "tools/validate.py", line 228, in validate_whitespace
-    if not cols[col_idx]:
-IndexError: list index out of range
 *** FAILED *** with 2 errors
 Format errors: 2
 
@@ -2714,18 +2702,6 @@ python tools/validate.py --lang no_nynorsk UD-dev-branches/UD_Norwegian-Nynorsk/
 
 [Line                   289296]: The line has 1 columns, but 10 are expected.
 [Line                   289296]: Exception caught!
-Traceback (most recent call last):
-  File "tools/validate.py", line 685, in <module>
-    validate(inp,out,args,tagsets,known_sent_ids)
-  File "tools/validate.py", line 571, in validate
-    for comments,tree in trees(inp,tag_sets,args):
-  File "tools/validate.py", line 96, in trees
-    validate_cols(cols,tag_sets,args)
-  File "tools/validate.py", line 201, in validate_cols
-    validate_whitespace(cols,tag_sets)
-  File "tools/validate.py", line 228, in validate_whitespace
-    if not cols[col_idx]:
-IndexError: list index out of range
 *** FAILED *** with 2 errors
 Format errors: 2
 
@@ -3675,6 +3651,36 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang vi /home/ginter/UD_PROJ
 ...suppressing further errors regarding Syntax
 [Line                   263]: Unknown UPOS tag: CONJ
 [Line                   323]: Unknown UPOS tag: CONJ
+[Line                   329]: Unknown UPOS tag: CONJ
+[Line                   353]: Unknown UPOS tag: CONJ
+[Line                   446]: Unknown UPOS tag: CONJ
+[Line                   472]: Unknown UPOS tag: CONJ
+[Line                   493]: Unknown UPOS tag: CONJ
+[Line                   500]: Unknown UPOS tag: CONJ
+[Line                   505]: Unknown UPOS tag: CONJ
+[Line                   720]: Unknown UPOS tag: CONJ
+[Line                   723]: Unknown UPOS tag: CONJ
+[Line                   762]: Unknown UPOS tag: CONJ
+[Line                   819]: Unknown UPOS tag: CONJ
+[Line                   894]: Unknown UPOS tag: CONJ
+[Line                   911]: Unknown UPOS tag: CONJ
+[Line                   966]: Unknown UPOS tag: CONJ
+...suppressing further errors regarding Morpho
+*** FAILED *** with 8976 errors
+Metadata errors: 4400
+Morpho errors: 888
+Syntax errors: 3688
+
+
+******************
+
+
+</pre>
+</div>
+
+</div>
+
+                 323]: Unknown UPOS tag: CONJ
 [Line                   329]: Unknown UPOS tag: CONJ
 [Line                   353]: Unknown UPOS tag: CONJ
 [Line                   446]: Unknown UPOS tag: CONJ
