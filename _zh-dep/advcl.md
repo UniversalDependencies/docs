@@ -11,6 +11,10 @@ If the adverbial is non-clausal, use [advmod]() instead.
 
 ~~~ conllu
 # visual-style 4 2 advcl	color:blue
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
 1	我	_	PRON	_	_	4	nsubj	_	1SG
 2	拍	_	VERB	_	_	4	advcl	_	pat
 3	胸口	_	NOUN	_	_	2	obj	_	chest
@@ -27,6 +31,10 @@ If the adverbial is non-clausal, use [advmod]() instead.
 
 ~~~ conllu
 # visual-style 6 4 advcl	color:blue
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
 1	如果	_	SCONJ	_	_	4	mark	_	if
 2	排骨	_	NOUN	_	_	4	nsubj	_	ribs
 3	不	_	ADV	_	_	4	advmod	_	NEG
@@ -48,6 +56,10 @@ If the adverbial is non-clausal, use [advmod]() instead.
 
 ~~~ conllu
 # visual-style 7 2 advcl	color:blue
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
 1	她	_	PRON	_	_	2	nsubj	_	3SG.F
 2	去	_	VERB	_	_	7	advcl	_	go
 3	東京	_	PROPN	_	_	2	obj	_	Tokyo
@@ -67,10 +79,14 @@ If the adverbial is non-clausal, use [advmod]() instead.
 
 ~~~
 
-Purpose clauses typically come after the main clause and may be introduced by function words such as 来 _lái_ (4), 去 _qù_, 以 _yǐ_.
+Purpose clauses typically come after the main clause and may be introduced by function words such as 來 _lái_ (4), 去 _qù_, 以 _yǐ_.
 
 ~~~ conllu
 # visual-style 1 7 advcl	color:blue
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
 1	伸	_	VERB	_	_	0	root	_	extend
 2	出	_	VERB	_	_	1	compound:vv	_	out
 3	你	_	PRON	_	_	5	nmod	_	2SG
