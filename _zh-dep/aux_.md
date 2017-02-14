@@ -14,6 +14,10 @@ Preverbal auxiliaries may precede the main verb immediately (1) or before other 
 
 ~~~ conllu
 # visual-style 4 3 aux	color:blue
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
 1	你	_	PRON	_	_	4	nsubj	_	2SG
 2	也	_	ADV	_	_	4	advmod	_	also
 3	應該	_	AUX	_	_	4	aux	_	should
@@ -30,6 +34,10 @@ Preverbal auxiliaries may precede the main verb immediately (1) or before other 
 
 ~~~ conllu
 # visual-style 4 2 aux	color:blue
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
 1	一定	_	ADV	_	_	4	advmod	_	certainly
 2	要	_	AUX	_	_	4	aux	_	need
 3	先	_	ADV	_	_	4	advmod	_	first
@@ -53,6 +61,12 @@ Some preverbal auxiliaries may also stack next to each other, in which case the 
 ~~~ conllu
 # visual-style 3 1 aux	color:blue
 # visual-style 3 2 aux	color:blue
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
 1	應該	_	AUX	_	_	3	aux	_	should
 2	可以	_	AUX	_	_	3	aux	_	can
 3	做	_	VERB	_	_	0	root	_	do
@@ -69,6 +83,13 @@ Some preverbal auxiliaries may also stack next to each other, in which case the 
 
 ~~~ conllu
 # visual-style 3 2 aux	color:blue
+# visual-style 3 4 aux	color:blue
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
 1	你	_	PRON	_	_	3	nsubj	_	2SG
 2	有	_	AUX	_	_	3	aux	_	PERF
 3	進	_	VERB	_	_	0	root	_	enter
@@ -87,6 +108,10 @@ Some preverbal auxiliaries may also stack next to each other, in which case the 
 
 ~~~ conllu
 # visual-style 3 2 aux	color:blue
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
 1	我	_	PRON	_	_	3	nsubj	_	1SG
 2	沒	_	AUX	_	_	3	aux	_	NEG.PERF
 3	改變	_	VERB	_	_	0	root	_	change
@@ -101,6 +126,10 @@ Post-verbal aspect markers include 過 _guo_ (experiential), 着/著 _zhe_ (dura
 
 ~~~ conllu
 # visual-style 2 3 aux	color:blue
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
 1	我	_	PRON	_	_	2	nsubj	_	1SG
 2	盯	_	VERB	_	_	0	root	_	stare
 3	著	_	AUX	_	_	2	aux	_	PROG
