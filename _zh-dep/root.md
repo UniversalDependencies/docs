@@ -5,10 +5,14 @@ shortdef: 'root'
 udver: '2'
 ---
 
-The root of a sentence is the predicate of the main clause. This may be a verb (1), a predicative adjective (2), or a nominal in a copular construction (3).  Sometimes only an auxiliary (see AUX) is present, in which case that will be promoted to `root` (4). If there is only a phrase, whatever is the governor of that phrase will be the root (5).
+The root of a sentence is the predicate of the main clause. This may be a verb (1), a predicate adjective (2), or a nominal in a copular construction (3).  Sometimes only an auxiliary (see AUX) is present, in which case that will be promoted to `root` (4). If there is only a phrase, whatever is the governor of that phrase will be the root (5).
 
 ~~~ conllu
 # visual-style 1 5 root	color:blue
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
 1	ROOT	_	_	_	_	0	root	_	_
 2	你	_	PRON	_	_	5	nsubj	_	2SG
 3	也	_	ADV	_	_	5	advmod	_	also
@@ -27,6 +31,10 @@ The root of a sentence is the predicate of the main clause. This may be a verb (
 
 ~~~ conllu
 # visual-style 1 4 root	color:blue
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
 1	ROOT	_	_	_	_	0	root	_	_
 2	的確	_	ADV	_	_	4	advmod	_	indeed
 3	很	_	ADV	_	_	4	advmod	_	very
@@ -40,6 +48,10 @@ The root of a sentence is the predicate of the main clause. This may be a verb (
 
 ~~~ conllu
 # visual-style 1 5 root	color:blue
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
 1	ROOT	_	_	_	_	0	root	_	_
 2	他	_	PRON	_	_	5	nsubj	_	3SG.M
 3	是	_	VERB	_	_	5	cop	_	be
@@ -55,6 +67,10 @@ The root of a sentence is the predicate of the main clause. This may be a verb (
 
 ~~~ conllu
 # visual-style 1 3 root	color:blue
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
 1	ROOT	_	_	_	_	0	root	_	_
 2	他	_	PRON	_	_	3	nsubj	_	3SG.M
 3	能	_	AUX	_	_	1	root	_	can
@@ -68,6 +84,10 @@ The root of a sentence is the predicate of the main clause. This may be a verb (
 
 ~~~ conllu
 # visual-style 1 4 root	color:blue
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
 1	ROOT	_	_	_	_	0	root	_	_
 2	哪	_	DET	_	_	4	det	_	which
 3	一	_	NUM	_	_	4	nummod	_	one
