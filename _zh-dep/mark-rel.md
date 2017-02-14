@@ -5,7 +5,7 @@ shortdef: 'adjectival, relativizer, and nominalizer 的 DE'
 udver: '2'
 ---
 
-The `mark:rel` relation is reserved for three related uses of 的 _de_. 
+The `mark:rel` relation is reserved for three related uses of 的 _de_: adjectives, relative clauses, and nominalized clauses. 
 
 ### Adjectives [ADJ + 的 + NOUN]
 
@@ -13,6 +13,10 @@ When an adjective modifying a noun is followed by the particle 的 before the no
 
 ~~~ conllu
 # visual-style 1 2 mark:rel	color:blue
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
 1	嚴重	_	ADJ	_	_	3	amod	_	grave
 2	的	_	PART	_	_	1	mark:rel	_	_
 3	問題	_	NOUN	_	_	0	root	_	problem
@@ -28,6 +32,10 @@ When the particle 的 is used after a clause turning it into a relative clause t
 
 ~~~ conllu
 # visual-style 6 7 mark:rel	color:blue
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
 1	木村	_	PROPN	_	_	6	nsubj	_	Kimura
 2	在	_	ADP	_	_	3	case	_	in
 3	劇	_	NOUN	_	_	6	obl	_	show
@@ -48,23 +56,28 @@ When the particle 的 is used after a clause turning it into a relative clause t
 
 ~~~
 
-### Nominalized clauses: [clause + 的]
+### Nominalized clauses [clause + 的]
 
-When the particle 的 is used after a verb, predicate adjective, or object-less clause turning it into a noun, the particle is annotated as a `mark:rel` dependent.
+When the particle 的 is used after a verb, predicate adjective, or object-less clause turning it into a nominal, the particle is annotated as a `mark:rel` dependent of the head of the nominalized clause.
 
 ~~~ conllu
-# visual-style 4 5 mark:rel	color:blue
-1	他們	_	PRON	_	_	4	nsubj	_	3PL
-2	四	_	NUM	_	_	3	nummod	_	four
-3	個	_	NOUN	_	_	1	appos	_	CL:generic
-4	寫	_	VERB	_	_	0	root	_	write
-5	的	_	PART	_	_	4	mark:rel	_	NMZR
+# visual-style 2 3 mark:rel	color:blue
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+1	他們	_	PRON	_	_	2	nsubj	_	3PL
+2	寫	_	VERB	_	_	6	nsubj	_	write
+3	的	_	PART	_	_	2	mark:rel	_	NMZR
+4	不	_	ADV	_	_	5	advmod	_	NEG
+5	是	_	ADJ	_	_	6	cop	_	be
+6	詩	_	NOUN	_	_	0	root	_	poetry
 
-1	"what	_	_	_	_	0	_	_	_
-2	the	_	_	_	_	0	_	_	_
-3	four	_	_	_	_	0	_	_	_
-4	of	_	_	_	_	0	_	_	_
-5	them	_	_	_	_	0	_	_	_
-6	write"	_	_	_	_	0	_	_	_
+1	"What	_	_	_	_	0	_	_	_
+2	they	_	_	_	_	0	_	_	_
+3	write	_	_	_	_	0	_	_	_
+4	is	_	_	_	_	0	_	_	_
+5	not	_	_	_	_	0	_	_	_
+6	poetry."	_	_	_	_	0	_	_	_
 
 ~~~
