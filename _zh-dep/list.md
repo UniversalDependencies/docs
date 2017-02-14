@@ -5,11 +5,17 @@ shortdef: 'list'
 udver: '2'
 ---
 
-The list relation is used for chains of comparable items. In lists with more than two items, all items of the list should modify the first one. Informal and web text often contains passages which are meant to be interpreted as lists but are parsed as single sentences. Email signatures often contain these structures, in the form of contact information: the different contact information items are labeled as list; the key-value pair relations are labeled as `appos`.
+The list relation is used for chains of comparable items. In lists with more than two items, all items of the list should modify the first one. Informal and web texts often contain passages which are meant to be interpreted as lists but are parsed as single sentences. Email signatures often contain these structures, in the form of contact information: the different contact information items are labeled as `list`; the key-value pair relations are labeled as `appos`.
 
 ~~~ conllu
 # visual-style 1 2 list	color:blue
 # visual-style 1 5 list	color:blue
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
 1	李四	_	PROPN	_	_	0	root	_	Li-Si
 2	電話	_	NOUN	_	_	1	list	_	phone
 3	：	_	PUNCT	_	_	4	punct	_	_
@@ -33,6 +39,14 @@ Another place where `list` has been used is for a sequence of attributes or desc
 # visual-style 1 5 list	color:blue
 # visual-style 1 8 list	color:blue
 # visual-style 1 11 list	color:blue
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 11	bgColor:blue
+# visual-style 11	fgColor:white
 1	難吃	_	ADJ	_	_	0	root	_	unsavory
 2	，	_	PUNCT	_	_	5	punct	_	_
 3	服務	_	NOUN	_	_	4	compound	_	service
