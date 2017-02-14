@@ -9,6 +9,10 @@ The `reparandum` relation is used for disfluencies that are subsequently repaire
 
 ~~~ conllu
 # visual-style 3 1 reparandum	color:blue
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
 1	就	_	ADV	_	_	3	reparandum	_	then
 2	-	_	PUNCT	_	_	1	punct	_	_
 3	就	_	ADV	_	_	7	advmod	_	then
@@ -30,6 +34,10 @@ The `reparandum` relation is used for disfluencies that are subsequently repaire
 
 ~~~ conllu
 # visual-style 8 5 reparandum	color:blue
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
 1	那	_	ADV	_	_	9	discourse	_	then
 2	我	_	PRON	_	_	9	nsubj	_	1SG
 3	就	_	ADV	_	_	9	discourse	_	then
