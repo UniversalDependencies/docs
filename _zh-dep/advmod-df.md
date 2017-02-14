@@ -7,8 +7,14 @@ udver: '2'
 
 The relation `advmod:df` is used for a noun phrase headed by a classifier expressing the duration or the frequency of the event expressed by the main predicate. The duration (1) and frequency (2) phrases can be post-verbal as well as pre-verbal (3-4).
 
+For nominal time expressions and adverbial time expressions that provide a time frame rather than a duration, use [obl:tmod]() and [advmod](), respectively.
+
 ~~~ conllu
 # visual-style 3 6 advmod:df	color:blue
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
 1	他	_	PRON	_	_	3	nsubj	_	3SG
 2	已經	_	ADV	_	_	3	advmod	_	already
 3	來	_	VERB	_	_	0	root	_	come
@@ -30,6 +36,10 @@ The relation `advmod:df` is used for a noun phrase headed by a classifier expres
 
 ~~~ conllu
 # visual-style 2 6 advmod:df	color:blue
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
 1	我	_	PRON	_	_	2	nsubj	_	1SG
 2	等	_	VERB	_	_	0	root	_	wait
 3	過	_	AUX	_	_	2	aux	_	EXP
@@ -48,6 +58,10 @@ The relation `advmod:df` is used for a noun phrase headed by a classifier expres
 
 ~~~ conllu
 # visual-style 5 3 advmod:df	color:blue
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
 1	他	_	PRON	_	_	5	nsubj	_	3SG.M
 2	兩	_	NUM	_	_	3	nummod	_	two
 3	年	_	NOUN	_	_	5	advmod:df	_	years
@@ -74,6 +88,10 @@ The relation `advmod:df` is used for a noun phrase headed by a classifier expres
 
 ~~~ conllu
 # visual-style 5 3 advmod:df	color:blue
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
 1	他	_	PRON	_	_	5	nsubj	_	3SG.M
 2	三	_	NUM	_	_	3	nummod	_	three
 3	次	_	NOUN	_	_	5	advmod:df	_	CL:times
@@ -89,4 +107,3 @@ The relation `advmod:df` is used for a noun phrase headed by a classifier expres
 
 ~~~
 
-For nominal time expressions and adverbial time expressions that provide a time frame rather than a duration, use [obl:tmod]() and [advmod](), respectively.
