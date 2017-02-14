@@ -104,11 +104,11 @@ Objects of the matrix verb usually cannot occur in their regular postverbal posi
 However, there are some notable exceptions to the above rule, as seen in (5).
 
 ~~~ conllu
-# visual-style 2 3 compound:ext	color:blue
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
+# visual-style 3 4 compound:ext	color:blue
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
 1	什麼	_	DET	_	_	2	det	_	what
 2	事	_	NOUN	_	_	3	dislocated	_	matter
 3	找	_	VERB	_	_	0	root	_	look-for
