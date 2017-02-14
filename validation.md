@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-02-14T18:30:02Z">2017-02-14T18:30:02 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-02-14T18:39:33Z">2017-02-14T18:39:33 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -2319,7 +2319,7 @@ Syntax errors: 9850
 <span class="doublewidespan" style="padding-left:3em">UD Kazakh</span>
 <span class="widespan">kk</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-14T18:30:02Z">2017-02-14T18:30:02 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-14T18:39:33Z">2017-02-14T18:39:33 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -2345,8 +2345,8 @@ python tools/validate.py --lang kk UD-dev-branches/UD_Kazakh/kk-ud-dev.conllu
 [Line                   143]: SpaceAfter=No is missing in the MISC field of node #4 because the text is 'болсам, әдемі өмірім[...]'
 [Line                   143]: SpaceAfter=No is missing in the MISC field of node #8-9 because the text is 'бұзылады-ау», – деп [...]'
 ...suppressing further errors regarding Metadata
-*** FAILED *** with 62 errors
-Metadata errors: 62
+*** FAILED *** with 107 errors
+Metadata errors: 107
 
 
 ******************
