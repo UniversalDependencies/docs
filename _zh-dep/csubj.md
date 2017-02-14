@@ -9,6 +9,10 @@ The `csubj` relation is the clausal counterpart to [nsubj](); when the subject o
 
 ~~~ conllu
 # visual-style 7 2 csubj	color:blue
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
 1	其實	_	ADV	_	_	7	advmod	_	actually
 2	教	_	VERB	_	_	7	csubj	_	teach
 3	小孩	_	NOUN	_	_	2	obj	_	children
