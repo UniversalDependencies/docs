@@ -5,12 +5,16 @@ shortdef: 'conjunct'
 udver: '2'
 ---
 
-A conjunct is a relation between two elements or more that are coordinated. The first conjunct is the head of all following conjuncts. However, any conjunction words and punctuation in between conjuncts depend on their immediately following conjunct.
+A conjunct is a relation between two elements that are coordinated. The first conjunct is the head of all following conjuncts. However, any conjunction words and punctuation in between conjuncts depend on their immediately following conjunct.
 
-The elements can be connected by a coordinating conjunction (1), or simply separated by punctuation or juxtaposed next to each other (2). 
+The elements can be connected by a coordinating conjunction (1), or simply juxtaposed next to each other without or with punctuation (2). 
 
 ~~~ conllu
 # visual-style 1 3 conj	color:blue
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
 1	黃金週	_	PROPN	_	_	0	root	_	Golden-Week
 2	和	_	CCONJ	_	_	3	cc	_	and
 3	暑假	_	NOUN	_	_	1	conj	_	summer-vacation
@@ -26,6 +30,12 @@ The elements can be connected by a coordinating conjunction (1), or simply separ
 ~~~ conllu
 # visual-style 3 5 conj	color:blue
 # visual-style 3 7 conj	color:blue
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
 1	你	_	PRON	_	_	3	nsubj	_	2SG
 2	慢慢	_	ADV	_	_	3	advmod	_	slowly
 3	吸收	_	VERB	_	_	0	root	_	absorb
@@ -48,6 +58,10 @@ Clauses can also be coordinated (3).
 
 ~~~ conllu
 # visual-style 3 8 conj	color:blue
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
 1	我	_	PRON	_	_	3	nsubj	_	1SG
 2	已經	_	ADV	_	_	3	advmod	_	already
 3	吃	_	VERB	_	_	0	root	_	eat
@@ -77,6 +91,10 @@ We also use this function for the VERB + NEG + VERB (or AUX + NEG + AUX) interro
 
 ~~~ conllu
 # visual-style 5 7 conj	color:blue
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
 1	外面	_	NOUN	_	_	3	obl	_	outside
 2	好	_	ADV	_	_	3	advmod	_	very
 3	冷	_	ADJ	_	_	0	root	_	cold
@@ -96,6 +114,10 @@ We also use this function for the VERB + NEG + VERB (or AUX + NEG + AUX) interro
 
 ~~~ conllu
 # visual-style 1 3 conj	color:blue
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
 1	喝	_	VERB	_	_	0	root	_	drink
 2	不	_	ADV	_	_	3	advmod	_	NEG
 3	喝	_	VERB	_	_	1	conj	_	drink
@@ -115,6 +137,10 @@ In more formal registers, the negative adverb 否 _fǒu_ may replace the NEG + 
 
 ~~~ conllu
 # visual-style 2 3 conj	color:blue
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
 1	我	_	PRON	_	_	4	nsubj	_	1SG
 2	能	_	AUX	_	_	4	aux	_	can
 3	否	_	ADV	_	_	2	conj	_	NEG
