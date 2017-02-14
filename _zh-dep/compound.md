@@ -9,6 +9,10 @@ The `compound relation` is used primarily for noun-noun compounds (for verb and 
 
 ~~~ conllu
 # visual-style 2 1 compound	color:blue
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
 1	中文	_	NOUN	_	_	2	compound	_	Chinese-language
 2	試卷	_	NOUN	_	_	0	root	_	exam-paper
 
@@ -23,6 +27,10 @@ Names preceding titles or relationship roles are also treated as noun compounds,
 
 ~~~ conllu
 # visual-style 2 1 compound	color:blue
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
 1	馬	_	PROPN	_	_	2	compound	_	Ma
 2	先生	_	NOUN	_	_	0	root	_	Mr.
 
@@ -34,6 +42,12 @@ Names preceding titles or relationship roles are also treated as noun compounds,
 ~~~ conllu
 # visual-style 3 1 compound	color:blue
 # visual-style 3 2 compound	color:blue
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
 1	威威	_	PROPN	_	_	3	compound	_	Weiwei
 2	職業	_	NOUN	_	_	3	compound	_	employment
 3	介紹所	_	NOUN	_	_	0	root	_	agency
@@ -49,6 +63,12 @@ Internal compounding should always be parsed first. For example, in (3) the last
 ~~~ conllu
 # visual-style 2 1 compound	color:blue
 # visual-style 3 2 compound	color:blue
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
 1	警察	_	NOUN	_	_	2	compound	_	police
 2	招募	_	NOUN	_	_	3	compound	_	recruitment
 3	廣告	_	NOUN	_	_	0	root	_	advertisement
