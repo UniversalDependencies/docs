@@ -5,7 +5,7 @@ shortdef: 'verb-verb compound'
 udver: '2'
 ---
 
-This relation is used for verb-verb compounds where the second verb covers what are known as "resultative complements" and "phase complements" in Chinese linguistics. Here we will call them resultative and phase <b>compounds</b> to avoid confusion between the different definitions of "complement" between Chinese-specific constructions and general linguistics terminology. 
+This relation is used for verb-verb compounds where the second verb covers what are known as "resultative complements" and "phase complements" in Chinese linguistics. Here we will call them resultative and phase _compounds_ to avoid confusion between the different definitions of "complement" between Chinese-specific terminology and general linguistics terminology. 
 
 A special feature of these compounds (as well as directional compounds; see [compound:dir]()) is that the affirmative potential 得 _de_ and negative potential 不 _bù_ can intervene between the two verbs (see examples (2) and (4)). However, unlike directional compounds, this is the only situation in which the verb-verb compound can be separated.
 
@@ -15,6 +15,10 @@ This compound structure consists of two verbs in which the second verb describes
 
 ~~~ conllu
 # visual-style 2 3 compound:vv	color:blue
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
 1	我	_	PRON	_	_	2	nsubj	_	1SG
 2	摔	_	VERB	_	_	0	root	_	fall
 3	破	_	VERB	_	_	2	compound:vv	_	break
@@ -33,6 +37,10 @@ Sometimes the compound may be idiomatic as well (2).
 
 ~~~ conllu
 # visual-style 1 3 compound:vv	color:blue
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
 1	行	_	VERB	_	_	0	root	_	do
 2	不	_	ADV	_	_	3	advmod	_	NEG
 3	通	_	VERB	_	_	1	compound:vv	_	go-through
@@ -41,17 +49,27 @@ Sometimes the compound may be idiomatic as well (2).
 1	"It	_	_	_	_	0	_	_	_
 2	won't	_	_	_	_	0	_	_	_
 3	work."	_	_	_	_	0	_	_	_
+4	(lit.	_	_	_	_	0	_	_	_
+5	can't	_	_	_	_	0	_	_	_
+6	go	_	_	_	_	0	_	_	_
+7	through	_	_	_	_	0	_	_	_
+8	by	_	_	_	_	0	_	_	_
+9	doing)	_	_	_	_	0	_	_	_
 
 ~~~
 
 ### Phase compounds
 
-Phase compounds involve a second verb that adds aspect or telicity to the first verb. However, these second verbs have not fully grammaticalized and syntactically behave like the second verb in resultative compounds, and therefore are not considered the same as the postverbal aspect markers listed in [AUX]().
+Phase compounds involve a second verb that adds aspect or telicity to the first verb. However, these second verbs have not fully grammaticalized and syntactically behave like the second verb in resultative compounds, and therefore are not considered the same as the postverbal aspect markers tagged as AUX.
 
 These verbs include (non-neutral-tone versions of): 着 / _zháo_ "touched, got at, successful after an attempt", 到 _dào_ "arrive, reach", 見 _jiàn_ "see", 完 _wán_ "be complete, be finished", 過 _guò_ "pass, cross" (see Chao 1968:446-450 for details). 
 
 ~~~ conllu
 # visual-style 2 3 compound:vv	color:blue
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
 1	你	_	PRON	_	_	2	nsubj	_	2SG
 2	找	_	VERB	_	_	0	root	_	look-for
 3	到	_	VERB	_	_	2	compound:vv	_	arrive
@@ -70,6 +88,10 @@ These verbs include (non-neutral-tone versions of): 着 / _zháo_ "touched, got 
 
 ~~~ conllu
 # visual-style 1 3 compound:vv	color:blue
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
 1	寫	_	VERB	_	_	6	advcl	_	write
 2	不	_	ADV	_	_	3	advmod	_	NEG
 3	完	_	VERB	_	_	1	compound:vv	_	finish
