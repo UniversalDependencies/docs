@@ -84,7 +84,7 @@ The FORM, LEMMA, and MISC columns are initially empty, and are filled with the a
 
 ### Data splits and statistics
 
-The data was split into Train, Dev, and Test according to the LDC Arabic treebanks and associated corpora: Data divisions manual (Diab et al. 2013)
+The data was split into Train, Dev, and Test according to the LDC Arabic treebanks and associated corpora: Data divisions manual ([Diab et al. 2013](https://arxiv.org/abs/1309.5652))
 
 | Column |
 | ------ |
