@@ -9,6 +9,10 @@ The passive auxiliary is limited to the particle 被 _bèi_ in the "short passiv
 
 ~~~ conllu
 # visual-style 3 2 aux:pass	color:blue
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
 1	他	_	PRON	_	_	3	nsubj:pass	_	3SG.M
 2	被	_	AUX	_	_	3	aux:pass	_	PASS
 3	抓	_	VERB	_	_	0	root	_	catch
