@@ -11,6 +11,10 @@ There are two situations in Mandarin for which we apply the `appos` relation. Th
 
 ~~~ conllu
 # visual-style 3 5 appos	color:blue
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
 1	我	_	PRON	_	_	3	nmod	_	1SG
 2	的	_	PART	_	_	1	case	_	GEN
 3	老闆娘	_	NOUN	_	_	0	root	_	female-boss
@@ -30,6 +34,10 @@ In the second situation, the second noun phrase describes (rather than specifies
 
 ~~~ conllu
 # visual-style 1 3 appos	color:blue
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
 1	他們	_	PRON	_	_	4	nsubj	_	3PL
 2	四	_	NUM	_	_	3	nummod	_	four
 3	個	_	NOUN	_	_	1	appos	_	CL:generic
@@ -37,10 +45,11 @@ In the second situation, the second noun phrase describes (rather than specifies
 5	的	_	PART	_	_	4	mark:rel	_	NMZR
 
 1	"what	_	_	_	_	0	_	_	_
-2	the	_	_	_	_	0	_	_	_
-3	four	_	_	_	_	0	_	_	_
-4	of	_	_	_	_	0	_	_	_
-5	them	_	_	_	_	0	_	_	_
-6	wrote"	_	_	_	_	0	_	_	_
+2	they	_	_	_	_	0	_	_	_
+3	the	_	_	_	_	0	_	_	_
+4	four	_	_	_	_	0	_	_	_
+5	of	_	_	_	_	0	_	_	_
+6	them	_	_	_	_	0	_	_	_
+7	wrote"	_	_	_	_	0	_	_	_
 
 ~~~
