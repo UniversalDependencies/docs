@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-02-14T06:37:08Z">2017-02-14T06:37:08 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-02-14T06:40:10Z">2017-02-14T06:40:10 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -235,12 +235,26 @@ No data
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD Arabic-NYUAD</span>
 <span class="widespan">ar nyuad</span>
-<span class="validationfail">EMPTY</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-14T06:37:08Z">2017-02-14T06:37:08 zulu</time></span>
+<span class="validationpass">PASS</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-14T06:39:58Z">2017-02-14T06:39:58 zulu</time></span>
 </div>
 <div>
 <pre>
-No data
+python tools/validate.py --lang ar_nyuad UD-dev-branches/UD_Arabic-NYUAD/ar_nyuad-ud-dev.conllu
+
+*** PASSED ***
+
+
+******************
+
+python tools/validate.py --lang ar_nyuad UD-dev-branches/UD_Arabic-NYUAD/ar_nyuad-ud-test.conllu
+
+*** PASSED ***
+
+
+******************
+
+
 </pre>
 </div>
 <div>
