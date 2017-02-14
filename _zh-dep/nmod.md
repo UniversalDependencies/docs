@@ -9,6 +9,10 @@ The `nmod` relation is used for nominal dependents of another noun or noun phras
 
 ~~~ conllu
 # visual-style 3 1 nmod	color:blue
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
 1	你	_	PRON	_	_	3	nmod	_	2SG
 2	的	_	PART	_	_	1	case	_	GEN
 3	電話	_	NOUN	_	_	0	root	_	phone
@@ -22,6 +26,10 @@ Sometimes the particle may be omitted, specifically when the possessor is a pron
 
 ~~~ conllu
 # visual-style 2 1 nmod	color:blue
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
 1	你	_	PRON	_	_	2	nmod	_	2SG
 2	公公	_	NOUN	_	_	0	root	_	grandfather
 
@@ -34,6 +42,10 @@ Attributive or associative relations between two nouns, or a pronoun and a noun,
 
 ~~~ conllu
 # visual-style 3 1 nmod	color:blue
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
 1	目前	_	NOUN	_	_	3	nmod	_	now
 2	的	_	PART	_	_	1	case	_	GEN
 3	情況	_	NOUN	_	_	0	root	_	situation
@@ -45,6 +57,10 @@ Attributive or associative relations between two nouns, or a pronoun and a noun,
 
 ~~~ conllu
 # visual-style 3 1 nmod	color:blue
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
 1	這樣	_	PRON	_	_	3	nmod	_	such
 2	的	_	PART	_	_	1	case	_	GEN
 3	體能	_	NOUN	_	_	0	root	_	stamina
@@ -54,6 +70,6 @@ Attributive or associative relations between two nouns, or a pronoun and a noun,
 
 ~~~
 
-But if a noun modifies another noun without the particle 的 (de), and the relationship is not a possessive one, it is treated as a noun-noun compound (see [compound]()).
+But if a noun modifies another noun without the particle 的 _de_, and the relationship is not a possessive one, it is treated as a noun-noun compound (see [compound]()).
 
 
