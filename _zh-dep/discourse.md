@@ -21,13 +21,15 @@ The discourse relation is used for interjections (words tagged [INTJ]()) and oth
 6	三	_	NUM	_	_	7	nummod	_	three
 7	年	_	NOUN	_	_	4	xcomp	_	CL:years
 
-1	"Uh-huh,	_	_	_	_	0	_	_	_
+1	"Yeah,	_	_	_	_	0	_	_	_
 2	but	_	_	_	_	0	_	_	_
-3	it	_	_	_	_	0	_	_	_
-4	may	_	_	_	_	0	_	_	_
-5	be	_	_	_	_	0	_	_	_
-6	three	_	_	_	_	0	_	_	_
-7	years."	_	_	_	_	0	_	_	_
+3	it's	_	_	_	_	0	_	_	_
+4	possible	_	_	_	_	0	_	_	_
+5	that	_	_	_	_	0	_	_	_
+6	it'll	_	_	_	_	0	_	_	_
+7	be	_	_	_	_	0	_	_	_
+8	three	_	_	_	_	0	_	_	_
+9	years."	_	_	_	_	0	_	_	_
 
 ~~~
 
