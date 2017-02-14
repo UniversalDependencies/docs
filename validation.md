@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-02-14T08:57:52Z">2017-02-14T08:57:52 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-02-14T09:23:37Z">2017-02-14T09:23:37 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -3239,7 +3239,7 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang pl /home/ginter/UD_PROJ
 <span class="doublewidespan" style="padding-left:3em">UD Portuguese</span>
 <span class="widespan">pt</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-13T17:11:33Z">2017-02-13T17:11:33 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-14T09:23:17Z">2017-02-14T09:23:17 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -3272,8 +3272,11 @@ python tools/validate.py --lang pt UD-dev-branches/UD_Portuguese/pt-ud-train.con
 [Line                   1287]: Mismatch between the text attribute and the FORM field. Form is 'por' but text is 'PÚBLICO teve acesso -- ...'
 [Line                   1287]: Mismatch between the text attribute and the FORM field. Form is 'cento' but text is 'PÚBLICO teve acesso -- tr...'
 ...suppressing further errors regarding Metadata
-*** FAILED *** with 2268 errors
-Metadata errors: 2268
+[Line                   101298]: Unknown attribute-value pair NumType=Range
+[Line                   101317]: Unknown attribute-value pair NumType=Range
+*** FAILED *** with 2216 errors
+Metadata errors: 2214
+Morpho errors: 2
 
 
 ******************
