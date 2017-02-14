@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-02-13T20:48:43Z">2017-02-13T20:48:43 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-02-14T05:31:54Z">2017-02-14T05:31:54 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -2701,18 +2701,18 @@ python tools/validate.py --lang kk UD-dev-branches/UD_Kazakh/kk-ud-dev.conllu
 <span class="doublewidespan" style="padding-left:3em">UD Korean</span>
 <span class="widespan">ko</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-13T13:23:44Z">2017-02-13T13:23:44 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-14T05:31:51Z">2017-02-14T05:31:51 zulu</time></span>
 </div>
 <div>
 <pre>
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang ko /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Korean/ko-ud-dev.conllu
+python tools/validate.py --lang ko UD-dev-branches/UD_Korean/ko-ud-dev.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang ko /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Korean/ko-ud-train.conllu
+python tools/validate.py --lang ko UD-dev-branches/UD_Korean/ko-ud-train.conllu
 
 *** PASSED ***
 
