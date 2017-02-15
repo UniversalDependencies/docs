@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-02-15T15:47:30Z">2017-02-15T15:47:30 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-02-15T15:49:05Z">2017-02-15T15:49:05 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -1343,146 +1343,62 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang el /home/ginter/UD_PROJ
 <span class="doublewidespan" style="padding-left:3em">UD Hebrew</span>
 <span class="widespan">he</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-15T15:39:02Z">2017-02-15T15:39:02 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-15T15:48:52Z">2017-02-15T15:48:52 zulu</time></span>
 </div>
 <div>
 <pre>
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang he /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Hebrew/he-ud-dev.conllu
+python tools/validate.py --lang he UD-dev-branches/UD_Hebrew/he-ud-dev.conllu
 
-[Line                   1]: Unknown attribute-value pair Definite=Red
-[Line                   18]: Unknown UPOS tag: CONJ
-[Line                   21]: Unknown UD DEPREL: dobj
-[Line                   25]: Missing the sent_id attribute.
-[Line                   25]: Missing the text attribute.
-[Line                   32]: Unknown attribute-value pair Definite=Red
-[Line                   37]: Unknown UPOS tag: CONJ
-[Line                   50]: Unknown attribute-value pair Definite=Red
-[Line                   51]: Unknown attribute-value pair Definite=Red
-[Line                   55]: Missing the sent_id attribute.
-[Line                   55]: Missing the text attribute.
-[Line                   56]: Unknown attribute-value pair Definite=Red
-[Line                   63]: Unknown UD DEPREL: name
-[Line                   72]: Unknown UD DEPREL: dobj
-[Line                   87]: Unknown attribute-value pair Negative=Neg
-[Line                   87]: Unknown UD DEPREL: neg
-[Line                   92]: Unknown attribute-value pair Definite=Red
-[Line                   92]: Unknown UD DEPREL: dobj
-[Line                   95]: Missing the sent_id attribute.
-[Line                   95]: Missing the text attribute.
-[Line                   106]: Unknown attribute-value pair Definite=Red
-[Line                   106]: Unknown UD DEPREL: dobj
-[Line                   112]: Unknown UPOS tag: CONJ
-[Line                   117]: Unknown attribute-value pair Definite=Red
-[Line                   122]: Unknown UPOS tag: CONJ
-[Line                   126]: Unknown UD DEPREL: dobj
-[Line                   137]: Missing the sent_id attribute.
-[Line                   137]: Missing the text attribute.
-[Line                   144]: Unknown attribute-value pair Definite=Red
-[Line                   149]: Unknown UPOS tag: CONJ
-[Line                   153]: Unknown UPOS tag: CONJ
-[Line                   157]: Unknown UPOS tag: CONJ
-[Line                   159]: Unknown attribute-value pair Definite=Red
-[Line                   160]: Unknown attribute-value pair Definite=Red
-[Line                   171]: Unknown UD DEPREL: dobj
-[Line                   185]: Missing the sent_id attribute.
-[Line                   185]: Missing the text attribute.
-...suppressing further errors regarding Morpho
-[Line                   193]: Unknown UD DEPREL: dobj
-[Line                   208]: Unknown UD DEPREL: dobj
-[Line                   242]: Missing the sent_id attribute.
-[Line                   242]: Missing the text attribute.
-[Line                   251]: Unknown UD DEPREL: dobj
-[Line                   264]: Unknown UD DEPREL: dobj
-[Line                   269]: Missing the sent_id attribute.
-[Line                   269]: Missing the text attribute.
-[Line                   271]: Unknown UD DEPREL: name
-[Line                   297]: Unknown UD DEPREL: dobj
-[Line                   305]: Unknown UD DEPREL: dobj
-[Line                   311]: Missing the sent_id attribute.
-[Line                   311]: Missing the text attribute.
-[Line                   321]: Unknown UD DEPREL: dobj
-[Line                   334]: Missing the sent_id attribute.
-[Line                   334]: Missing the text attribute.
-[Line                   336]: Unknown UD DEPREL: name
-[Line                   360]: Unknown UD DEPREL: name
-[Line                   363]: Unknown UD DEPREL: dobj
+[Line                   33]: Unknown UD DEPREL: obl:tmod
+[Line                   39]: Unknown UD DEPREL: compound:smixut
+[Line                   55]: Unknown UD DEPREL: compound:smixut
+[Line                   56]: Unknown UD DEPREL: compound:smixut
+[Line                   65]: Unknown UD DEPREL: compound:smixut
+[Line                   69]: Unknown UD DEPREL: flat:name
+[Line                   93]: Unknown UD DEPREL: neg
+[Line                   99]: Unknown UD DEPREL: compound:smixut
+[Line                   117]: Unknown UD DEPREL: compound:smixut
+[Line                   128]: Unknown UD DEPREL: compound:smixut
+[Line                   157]: Unknown UD DEPREL: compound:smixut
+[Line                   170]: Unknown UD DEPREL: compound:smixut
+[Line                   173]: Unknown UD DEPREL: compound:smixut
+[Line                   206]: Unknown UD DEPREL: compound:smixut
+[Line                   212]: Unknown UD DEPREL: compound:smixut
+[Line                   223]: Unknown UD DEPREL: compound:smixut
+[Line                   234]: Unknown UD DEPREL: compound:smixut
+[Line                   240]: Unknown UD DEPREL: compound:smixut
+[Line                   252]: Unknown UD DEPREL: compound:smixut
 ...suppressing further errors regarding Syntax
-[Line                   385]: Missing the sent_id attribute.
-...suppressing further errors regarding Metadata
-*** FAILED *** with 3004 errors
-Metadata errors: 968
-Morpho errors: 1389
-Syntax errors: 647
+*** FAILED *** with 890 errors
+Syntax errors: 890
 
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang he /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Hebrew/he-ud-train.conllu
+python tools/validate.py --lang he UD-dev-branches/UD_Hebrew/he-ud-train.conllu
 
-[Line                   6]: Unknown UD DEPREL: mwe
-[Line                   7]: Unknown UD DEPREL: dobj
-[Line                   9]: Unknown UPOS tag: CONJ
-[Line                   16]: Unknown attribute-value pair Definite=Red
-[Line                   19]: Missing the sent_id attribute.
-[Line                   19]: Missing the text attribute.
-[Line                   20]: Unknown attribute-value pair Definite=Red
-[Line                   28]: Unknown UPOS tag: CONJ
-[Line                   33]: Unknown UD DEPREL: dobj
-[Line                   36]: Missing the sent_id attribute.
-[Line                   36]: Missing the text attribute.
-[Line                   41]: Unknown UPOS tag: CONJ
-[Line                   42]: Unknown UD DEPREL: mwe
-[Line                   44]: Unknown UPOS tag: CONJ
-[Line                   58]: Unknown UPOS tag: CONJ
-[Line                   63]: Unknown attribute-value pair Definite=Red
-[Line                   68]: Missing the sent_id attribute.
-[Line                   68]: Missing the text attribute.
-[Line                   71]: Unknown UPOS tag: CONJ
-[Line                   76]: Unknown attribute-value pair Definite=Red
-[Line                   100]: Missing the sent_id attribute.
-[Line                   100]: Missing the text attribute.
-[Line                   113]: Unknown attribute-value pair Definite=Red
-[Line                   113]: Unknown UD DEPREL: dobj
-[Line                   120]: Unknown UPOS tag: CONJ
-[Line                   131]: Missing the sent_id attribute.
-[Line                   131]: Missing the text attribute.
-[Line                   136]: Unknown UD DEPREL: dobj
-[Line                   139]: Missing the sent_id attribute.
-[Line                   139]: Missing the text attribute.
-[Line                   144]: Unknown attribute-value pair Negative=Neg
-[Line                   144]: Unknown UD DEPREL: neg
-[Line                   149]: Unknown UD DEPREL: dobj
-[Line                   151]: Missing the sent_id attribute.
-[Line                   151]: Missing the text attribute.
-[Line                   159]: Unknown attribute-value pair Definite=Red
-[Line                   166]: Unknown attribute-value pair Definite=Red
-[Line                   178]: Unknown attribute-value pair Definite=Red
-[Line                   179]: Unknown UD DEPREL: name
-[Line                   181]: Missing the sent_id attribute.
-[Line                   181]: Missing the text attribute.
-[Line                   183]: Unknown UD DEPREL: name
-[Line                   185]: Unknown attribute-value pair Definite=Red
-[Line                   193]: Unknown UD DEPREL: dobj
-[Line                   195]: Unknown UPOS tag: CONJ
-[Line                   208]: Missing the sent_id attribute.
-[Line                   208]: Missing the text attribute.
-[Line                   223]: Unknown attribute-value pair Definite=Red
-[Line                   223]: Unknown UD DEPREL: dobj
-[Line                   228]: Missing the sent_id attribute.
-...suppressing further errors regarding Metadata
-[Line                   254]: Unknown UD DEPREL: name
-[Line                   262]: Unknown UD DEPREL: dobj
-...suppressing further errors regarding Morpho
-[Line                   284]: Unknown UD DEPREL: name
-[Line                   296]: Unknown UD DEPREL: dobj
-[Line                   303]: Unknown UD DEPREL: dobj
-[Line                   350]: Unknown UD DEPREL: neg
-[Line                   353]: Unknown UD DEPREL: dobj
+[Line                   19]: Unknown UD DEPREL: compound:smixut
+[Line                   25]: Unknown UD DEPREL: compound:smixut
+[Line                   72]: Unknown UD DEPREL: compound:smixut
+[Line                   87]: Unknown UD DEPREL: compound:smixut
+[Line                   126]: Unknown UD DEPREL: compound:smixut
+[Line                   158]: Unknown UD DEPREL: neg
+[Line                   178]: Unknown UD DEPREL: compound:smixut
+[Line                   185]: Unknown UD DEPREL: compound:smixut
+[Line                   195]: Unknown UD DEPREL: flat:name
+[Line                   201]: Unknown UD DEPREL: flat:name
+[Line                   204]: Unknown UD DEPREL: compound:smixut
+[Line                   246]: Unknown UD DEPREL: compound:smixut
+[Line                   278]: Unknown UD DEPREL: flat:name
+[Line                   294]: Unknown UD DEPREL: compound:smixut
+[Line                   310]: Unknown UD DEPREL: flat:name
+[Line                   340]: Unknown UD DEPREL: compound:smixut
+[Line                   349]: Unknown UD DEPREL: compound:smixut
+[Line                   375]: Unknown UD DEPREL: compound:smixut
+[Line                   379]: Unknown UD DEPREL: compound:smixut
 ...suppressing further errors regarding Syntax
-*** FAILED *** with 34043 errors
-Metadata errors: 10482
-Morpho errors: 16324
-Syntax errors: 7237
+*** FAILED *** with 10664 errors
+Syntax errors: 10664
 
 
 ******************
