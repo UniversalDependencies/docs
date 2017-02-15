@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-02-15T15:51:37Z">2017-02-15T15:51:37 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-02-15T15:52:39Z">2017-02-15T15:52:39 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -2144,146 +2144,62 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang cu /home/ginter/UD_PROJ
 <span class="doublewidespan" style="padding-left:3em">UD Persian</span>
 <span class="widespan">fa</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-15T15:42:29Z">2017-02-15T15:42:29 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-15T15:52:29Z">2017-02-15T15:52:29 zulu</time></span>
 </div>
 <div>
 <pre>
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang fa /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Persian/fa-ud-dev.conllu
+python tools/validate.py --lang fa UD-dev-branches/UD_Persian/fa-ud-dev.conllu
 
-[Line                   23]: Unknown UPOS tag: CONJ
-[Line                   29]: Unknown UD DEPREL: mwe
-[Line                   30]: Unknown UD DEPREL: mwe
-[Line                   32]: Unknown attribute-value pair Negative=Neg
-[Line                   34]: Missing the sent_id attribute.
-[Line                   34]: Missing the text attribute.
-[Line                   36]: Unknown UD DEPREL: dobj
-[Line                   44]: Unknown UD DEPREL: mwe
-[Line                   49]: Unknown UPOS tag: CONJ
-[Line                   54]: Unknown UPOS tag: CONJ
-[Line                   71]: Missing the sent_id attribute.
-[Line                   71]: Missing the text attribute.
-[Line                   85]: Unknown UPOS tag: CONJ
-[Line                   90]: Unknown UPOS tag: CONJ
-[Line                   96]: Unknown UPOS tag: CONJ
-[Line                   102]: Unknown UPOS tag: CONJ
-[Line                   109]: Unknown UPOS tag: CONJ
-[Line                   117]: Missing the sent_id attribute.
-[Line                   117]: Missing the text attribute.
-[Line                   122]: Unknown UPOS tag: CONJ
-[Line                   135]: Unknown UD DEPREL: mwe
-[Line                   139]: Unknown UD DEPREL: name
-[Line                   144]: Missing the sent_id attribute.
-[Line                   144]: Missing the text attribute.
-[Line                   147]: Unknown UPOS tag: CONJ
-[Line                   151]: Unknown UPOS tag: CONJ
-[Line                   153]: Unknown UPOS tag: CONJ
-[Line                   162]: Unknown UD DEPREL: nsubjpass
-[Line                   172]: Unknown UD DEPREL: auxpass
-[Line                   175]: Missing the sent_id attribute.
-[Line                   175]: Missing the text attribute.
-[Line                   191]: Unknown UD DEPREL: dobj
-[Line                   196]: Missing the sent_id attribute.
-[Line                   196]: Missing the text attribute.
-[Line                   198]: Unknown UD DEPREL: name
-[Line                   199]: Unknown UD DEPREL: name
-[Line                   200]: Unknown UD DEPREL: name
-[Line                   217]: Unknown UPOS tag: CONJ
-[Line                   225]: Unknown UPOS tag: CONJ
-[Line                   232]: Unknown UPOS tag: CONJ
-[Line                   239]: Missing the sent_id attribute.
-[Line                   239]: Missing the text attribute.
-[Line                   249]: Unknown UPOS tag: CONJ
-[Line                   259]: Unknown UPOS tag: CONJ
-[Line                   272]: Missing the sent_id attribute.
-[Line                   272]: Missing the text attribute.
-[Line                   286]: Unknown UD DEPREL: name
-[Line                   295]: Unknown UPOS tag: CONJ
-...suppressing further errors regarding Morpho
-[Line                   302]: Unknown UD DEPREL: mwe
-[Line                   306]: Unknown UD DEPREL: name
-[Line                   320]: Missing the sent_id attribute.
-[Line                   320]: Missing the text attribute.
-[Line                   322]: Unknown UD DEPREL: name
-[Line                   323]: Unknown UD DEPREL: name
-[Line                   358]: Missing the sent_id attribute.
-...suppressing further errors regarding Metadata
-[Line                   378]: Unknown UD DEPREL: name
-[Line                   475]: Unknown UD DEPREL: name
+[Line                   172]: Unknown UD DEPREL: nsubj:pass
+[Line                   182]: Unknown UD DEPREL: aux:pass
+[Line                   2709]: Unknown UD DEPREL: aux:pass
+[Line                   3520]: Unknown UD DEPREL: aux:pass
+[Line                   3548]: Unknown UD DEPREL: flat:foreign
+[Line                   3549]: Unknown UD DEPREL: flat:foreign
+[Line                   3550]: Unknown UD DEPREL: flat:foreign
+[Line                   4143]: Unknown UD DEPREL: flat:foreign
+[Line                   4144]: Unknown UD DEPREL: flat:foreign
+[Line                   4145]: Unknown UD DEPREL: flat:foreign
+[Line                   4146]: Unknown UD DEPREL: flat:foreign
+[Line                   4147]: Unknown UD DEPREL: flat:foreign
+[Line                   4148]: Unknown UD DEPREL: flat:foreign
+[Line                   4150]: Unknown UD DEPREL: flat:foreign
+[Line                   4151]: Unknown UD DEPREL: flat:foreign
+[Line                   4152]: Unknown UD DEPREL: flat:foreign
+[Line                   4153]: Unknown UD DEPREL: flat:foreign
+[Line                   4154]: Unknown UD DEPREL: flat:foreign
+[Line                   4155]: Unknown UD DEPREL: flat:foreign
 ...suppressing further errors regarding Syntax
-*** FAILED *** with 3144 errors
-Metadata errors: 1198
-Morpho errors: 907
-Syntax errors: 1039
+*** FAILED *** with 89 errors
+Syntax errors: 89
 
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang fa /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Persian/fa-ud-train.conllu
+python tools/validate.py --lang fa UD-dev-branches/UD_Persian/fa-ud-train.conllu
 
-[Line                   2]: Unknown UD DEPREL: nsubjpass
-[Line                   4]: Unknown UD DEPREL: mwe
-[Line                   8]: Unknown UD DEPREL: auxpass
-[Line                   10]: Missing the sent_id attribute.
-[Line                   10]: Missing the text attribute.
-[Line                   16]: Missing the sent_id attribute.
-[Line                   16]: Missing the text attribute.
-[Line                   23]: Unknown UD DEPREL: dobj
-[Line                   25]: Unknown UD DEPREL: mwe
-[Line                   32]: Missing the sent_id attribute.
-[Line                   32]: Missing the text attribute.
-[Line                   38]: Unknown UD DEPREL: mwe
-[Line                   49]: Missing the sent_id attribute.
-[Line                   49]: Missing the text attribute.
-[Line                   50]: Unknown UPOS tag: CONJ
-[Line                   52]: Unknown attribute-value pair Negative=Neg
-[Line                   54]: Unknown UD DEPREL: dobj
-[Line                   57]: Unknown attribute-value pair Negative=Neg
-[Line                   59]: Unknown UPOS tag: CONJ
-[Line                   66]: Unknown UPOS tag: CONJ
-[Line                   84]: Missing the sent_id attribute.
-[Line                   84]: Missing the text attribute.
-[Line                   100]: Missing the sent_id attribute.
-[Line                   100]: Missing the text attribute.
-[Line                   116]: Unknown attribute-value pair Negative=Neg
-[Line                   118]: Unknown UPOS tag: CONJ
-[Line                   119]: Unknown UD DEPREL: dobj
-[Line                   134]: Missing the sent_id attribute.
-[Line                   134]: Missing the text attribute.
-[Line                   136]: Unknown UD DEPREL: mwe
-[Line                   145]: Unknown UD DEPREL: dobj
-[Line                   151]: Missing the sent_id attribute.
-[Line                   151]: Missing the text attribute.
-[Line                   166]: Unknown UPOS tag: CONJ
-[Line                   176]: Missing the sent_id attribute.
-[Line                   176]: Missing the text attribute.
-[Line                   184]: Unknown UD DEPREL: name
-[Line                   190]: Missing the sent_id attribute.
-...suppressing further errors regarding Metadata
-[Line                   205]: Unknown UPOS tag: CONJ
-[Line                   223]: Unknown UD DEPREL: name
-[Line                   239]: Unknown UD DEPREL: name
-[Line                   240]: Unknown UPOS tag: CONJ
-[Line                   261]: Unknown UD DEPREL: dobj
-[Line                   270]: Unknown UD DEPREL: dobj
-[Line                   274]: Unknown UPOS tag: CONJ
-[Line                   279]: Unknown UD DEPREL: dobj
-[Line                   362]: Unknown UPOS tag: CONJ
-[Line                   372]: Unknown UPOS tag: CONJ
-[Line                   433]: Unknown UD DEPREL: name
-[Line                   434]: Unknown UD DEPREL: name
-[Line                   438]: Unknown UD DEPREL: name
+[Line                   4]: Unknown UD DEPREL: nsubj:pass
+[Line                   10]: Unknown UD DEPREL: aux:pass
+[Line                   915]: Unknown UD DEPREL: nsubj:pass
+[Line                   922]: Unknown UD DEPREL: aux:pass
+[Line                   1516]: Unknown UD DEPREL: aux:pass
+[Line                   2594]: Unknown UD DEPREL: aux:pass
+[Line                   2864]: Unknown UD DEPREL: nsubj:pass
+[Line                   2870]: Unknown UD DEPREL: aux:pass
+[Line                   4685]: Unknown UD DEPREL: nsubj:pass
+[Line                   4881]: Unknown UD DEPREL: nsubj:pass
+[Line                   4885]: Unknown UD DEPREL: aux:pass
+[Line                   5088]: Unknown UD DEPREL: aux:pass
+[Line                   5408]: Unknown UD DEPREL: nsubj:pass
+[Line                   5467]: Unknown UD DEPREL: aux:pass
+[Line                   6261]: Unknown UD DEPREL: nsubj:pass
+[Line                   6267]: Unknown UD DEPREL: aux:pass
+[Line                   6270]: Unknown UD DEPREL: nsubj:pass
+[Line                   6278]: Unknown UD DEPREL: aux:pass
+[Line                   6318]: Unknown UD DEPREL: nsubj:pass
 ...suppressing further errors regarding Syntax
-[Line                   447]: Unknown UPOS tag: CONJ
-[Line                   456]: Unknown UPOS tag: CONJ
-[Line                   469]: Unknown UPOS tag: CONJ
-[Line                   484]: Unknown UPOS tag: CONJ
-[Line                   500]: Unknown UPOS tag: CONJ
-[Line                   516]: Unknown UPOS tag: CONJ
-...suppressing further errors regarding Morpho
-*** FAILED *** with 24897 errors
-Metadata errors: 9596
-Morpho errors: 7791
-Syntax errors: 7510
+*** FAILED *** with 409 errors
+Syntax errors: 409
 
 
 ******************
