@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-02-15T13:31:05Z">2017-02-15T13:31:05 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-02-15T13:41:02Z">2017-02-15T13:41:02 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -1864,18 +1864,18 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang it /home/ginter/UD_PROJ
 <span class="doublewidespan" style="padding-left:3em">UD Italian-ParTUT</span>
 <span class="widespan">it partut</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-15T08:06:07Z">2017-02-15T08:06:07 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-15T13:40:58Z">2017-02-15T13:40:58 zulu</time></span>
 </div>
 <div>
 <pre>
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang it_partut /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Italian-ParTUT/it_partut-ud-dev.conllu
+python tools/validate.py --lang it_partut UD-dev-branches/UD_Italian-ParTUT/it_partut-ud-dev.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang it_partut /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Italian-ParTUT/it_partut-ud-train.conllu
+python tools/validate.py --lang it_partut UD-dev-branches/UD_Italian-ParTUT/it_partut-ud-train.conllu
 
 *** PASSED ***
 
