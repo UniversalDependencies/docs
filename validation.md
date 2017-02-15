@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-02-15T09:00:49Z">2017-02-15T09:00:49 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-02-15T09:14:15Z">2017-02-15T09:14:15 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -2585,42 +2585,21 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang pl /home/ginter/UD_PROJ
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD Portuguese</span>
 <span class="widespan">pt</span>
-<span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-15T08:08:26Z">2017-02-15T08:08:26 zulu</time></span>
+<span class="validationpass">PASS</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-15T09:13:58Z">2017-02-15T09:13:58 zulu</time></span>
 </div>
 <div>
 <pre>
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang pt /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Portuguese/pt-ud-dev.conllu
+python tools/validate.py --lang pt UD-dev-branches/UD_Portuguese/pt-ud-dev.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang pt /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Portuguese/pt-ud-train.conllu
+python tools/validate.py --lang pt UD-dev-branches/UD_Portuguese/pt-ud-train.conllu
 
-[Tree number 36 on line 1247]: Mismatch between the text attribute and the FORM field. Form is 'teve' but text is 'PÚBLICO teve acesso -- t...'
-[Tree number 36 on line 1247]: Mismatch between the text attribute and the FORM field. Form is 'acesso' but text is 'PÚBLICO teve acesso -- tra...'
-[Tree number 36 on line 1247]: Mismatch between the text attribute and the FORM field. Form is '--' but text is 'PÚBLICO teve acesso --...'
-[Tree number 36 on line 1247]: Mismatch between the text attribute and the FORM field. Form is 'traçado' but text is 'PÚBLICO teve acesso -- traç...'
-[Tree number 36 on line 1247]: Mismatch between the text attribute and the FORM field. Form is 'pela' but text is 'PÚBLICO teve acesso -- t...'
-[Tree number 36 on line 1247]: Mismatch between the text attribute and the FORM field. Form is 'comissão' but text is 'PÚBLICO teve acesso -- traça...'
-[Tree number 36 on line 1247]: Mismatch between the text attribute and the FORM field. Form is 'revela' but text is 'PÚBLICO teve acesso -- tra...'
-[Tree number 36 on line 1247]: Mismatch between the text attribute and the FORM field. Form is 'que' but text is 'PÚBLICO teve acesso -- ...'
-[Tree number 36 on line 1247]: Mismatch between the text attribute and the FORM field. Form is 'o' but text is 'PÚBLICO teve acesso -...'
-[Tree number 36 on line 1247]: Mismatch between the text attribute and the FORM field. Form is 'número' but text is 'PÚBLICO teve acesso -- tra...'
-[Tree number 36 on line 1247]: Mismatch between the text attribute and the FORM field. Form is 'de' but text is 'PÚBLICO teve acesso --...'
-[Tree number 36 on line 1247]: Mismatch between the text attribute and the FORM field. Form is 'pessoas' but text is 'PÚBLICO teve acesso -- traç...'
-[Tree number 36 on line 1247]: Mismatch between the text attribute and the FORM field. Form is 'abrangidas' but text is 'PÚBLICO teve acesso -- traçado...'
-[Tree number 36 on line 1247]: Mismatch between the text attribute and the FORM field. Form is 'pelo' but text is 'PÚBLICO teve acesso -- t...'
-[Tree number 36 on line 1247]: Mismatch between the text attribute and the FORM field. Form is 'RMG' but text is 'PÚBLICO teve acesso -- ...'
-[Tree number 36 on line 1247]: Mismatch between the text attribute and the FORM field. Form is 'aumentou' but text is 'PÚBLICO teve acesso -- traça...'
-[Tree number 36 on line 1247]: Mismatch between the text attribute and the FORM field. Form is '36' but text is 'PÚBLICO teve acesso --...'
-[Tree number 36 on line 1247]: Mismatch between the text attribute and the FORM field. Form is 'por' but text is 'PÚBLICO teve acesso -- ...'
-[Tree number 36 on line 1247]: Mismatch between the text attribute and the FORM field. Form is 'cento' but text is 'PÚBLICO teve acesso -- tr...'
-...suppressing further errors regarding Metadata
-*** FAILED *** with 1178 errors
-Metadata errors: 1178
+*** PASSED ***
 
 
 ******************
