@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- Syntactic validation'
 udver:  '2'
 ---
 
-Regenerated <time class="timeago" datetime="2017-02-15T20:10:24Z">2017-02-15T20:10:24 zulu</time>
+Regenerated <time class="timeago" datetime="2017-02-15T20:24:42Z">2017-02-15T20:24:42 zulu</time>
 
 # Aux chain
 
@@ -10254,7 +10254,7 @@ Hits table not produced since the query does not start with the simple token spe
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_Latvian</span>
-<span class="widespan">3 hits</span>
+<span class="widespan">4 hits</span>
 </div>
 <div>
 <a href="http://bionlp-www.utu.fi/dep_search/query?search=%28%21ADV%29+%3Cadvmod+_&db=UD_Latvian-dev">Go to search</a><p/>
@@ -11362,14 +11362,14 @@ Search expression: `_ <advmod (NOUN|PROPN|NUM|PRON)`
 <tr><td>UD_Latvian</td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=ADJ+%3Cadvmod+%28NOUN%7CPROPN%7CNUM%7CPRON%29&db=UD_Latvian-dev">1</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=ADP+%3Cadvmod+%28NOUN%7CPROPN%7CNUM%7CPRON%29&db=UD_Latvian-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=ADV+%3Cadvmod+%28NOUN%7CPROPN%7CNUM%7CPRON%29&db=UD_Latvian-dev">209</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=ADV+%3Cadvmod+%28NOUN%7CPROPN%7CNUM%7CPRON%29&db=UD_Latvian-dev">210</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=AUX+%3Cadvmod+%28NOUN%7CPROPN%7CNUM%7CPRON%29&db=UD_Latvian-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=CCONJ+%3Cadvmod+%28NOUN%7CPROPN%7CNUM%7CPRON%29&db=UD_Latvian-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=CONJ+%3Cadvmod+%28NOUN%7CPROPN%7CNUM%7CPRON%29&db=UD_Latvian-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=DET+%3Cadvmod+%28NOUN%7CPROPN%7CNUM%7CPRON%29&db=UD_Latvian-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=INTJ+%3Cadvmod+%28NOUN%7CPROPN%7CNUM%7CPRON%29&db=UD_Latvian-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=NOUN+%3Cadvmod+%28NOUN%7CPROPN%7CNUM%7CPRON%29&db=UD_Latvian-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=NUM+%3Cadvmod+%28NOUN%7CPROPN%7CNUM%7CPRON%29&db=UD_Latvian-dev">&nbsp;</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=NUM+%3Cadvmod+%28NOUN%7CPROPN%7CNUM%7CPRON%29&db=UD_Latvian-dev">1</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=PART+%3Cadvmod+%28NOUN%7CPROPN%7CNUM%7CPRON%29&db=UD_Latvian-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=PRON+%3Cadvmod+%28NOUN%7CPROPN%7CNUM%7CPRON%29&db=UD_Latvian-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=PROPN+%3Cadvmod+%28NOUN%7CPROPN%7CNUM%7CPRON%29&db=UD_Latvian-dev">&nbsp;</a></td>
@@ -12185,7 +12185,7 @@ Search expression: `_ <advmod (NOUN|PROPN|NUM|PRON)`
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_Latvian</span>
-<span class="widespan">210 hits</span>
+<span class="widespan">212 hits</span>
 </div>
 <div>
 <a href="http://bionlp-www.utu.fi/dep_search/query?search=_+%3Cadvmod+%28NOUN%7CPROPN%7CNUM%7CPRON%29&db=UD_Latvian-dev">Go to search</a><p/>
@@ -13905,7 +13905,7 @@ Search expression: `NUM (<!nummod&<!nmod&<!compound) _`
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=NUM+%28%3C%21nummod%26%3C%21nmod%26%3C%21compound%29+_&db=UD_Latin-PROIEL-dev">458</a></td>
 </tr>
 <tr><td>UD_Latvian</td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=NUM+%28%3C%21nummod%26%3C%21nmod%26%3C%21compound%29+_&db=UD_Latvian-dev">172</a></td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=NUM+%28%3C%21nummod%26%3C%21nmod%26%3C%21compound%29+_&db=UD_Latvian-dev">173</a></td>
 </tr>
 <tr><td>UD_Norwegian-Bokmaal</td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=NUM+%28%3C%21nummod%26%3C%21nmod%26%3C%21compound%29+_&db=UD_Norwegian-Bokmaal-dev">803</a></td>
@@ -14299,7 +14299,7 @@ Search expression: `NUM (<!nummod&<!nmod&<!compound) _`
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_Latvian</span>
-<span class="widespan">172 hits</span>
+<span class="widespan">173 hits</span>
 </div>
 <div>
 <a href="http://bionlp-www.utu.fi/dep_search/query?search=NUM+%28%3C%21nummod%26%3C%21nmod%26%3C%21compound%29+_&db=UD_Latvian-dev">Go to search</a><p/>
