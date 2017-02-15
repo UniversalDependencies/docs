@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-02-15T21:08:42Z">2017-02-15T21:08:42 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-02-15T21:17:37Z">2017-02-15T21:17:37 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -2231,11 +2231,11 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang ro /home/ginter/UD_PROJ
 <span class="doublewidespan" style="padding-left:3em">UD Russian</span>
 <span class="widespan">ru</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-15T21:05:37Z">2017-02-15T21:05:37 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-15T21:17:30Z">2017-02-15T21:17:30 zulu</time></span>
 </div>
 <div>
 <pre>
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang ru /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Russian/ru-ud-dev.conllu
+python tools/validate.py --lang ru UD-dev-branches/UD_Russian/ru-ud-dev.conllu
 
 [Line                   3462]: Unknown UD DEPREL: remnant
 [Line                   3465]: Unknown UD DEPREL: remnant
@@ -2252,36 +2252,63 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang ru /home/ginter/UD_PROJ
 [Line                   12483]: Unknown UD DEPREL: remnant
 [Line                   12905]: Unknown UD DEPREL: remnant
 [Line                   12907]: Unknown UD DEPREL: remnant
-*** FAILED *** with 15 errors
+[Line                   13613]: Missing empty line after the last tree.
+*** FAILED *** with 16 errors
+Format errors: 1
 Syntax errors: 15
 
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang ru /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Russian/ru-ud-train.conllu
+python tools/validate.py --lang ru UD-dev-branches/UD_Russian/ru-ud-train.conllu
 
 [Line                   931]: Unknown UD DEPREL: remnant
-[Line                   1386]: Unknown UD DEPREL: remnant
-[Line                   1389]: Unknown UD DEPREL: remnant
 [Line                   1783]: Unknown UD DEPREL: remnant
 [Line                   1788]: Unknown UD DEPREL: remnant
 [Line                   1792]: Unknown UD DEPREL: remnant
 [Line                   1873]: Unknown UD DEPREL: remnant
 [Line                   1875]: Unknown UD DEPREL: remnant
 [Line                   5922]: Unknown UD DEPREL: remnant
+[Tree number 273 on line 6129]: Mismatch between the text attribute and the FORM field. Form is 'вернул|Voice=Mid' but text is 'вернулся в Японию, прибыв в Йокосуку...'
+[Line                   6147]: SpaceAfter=No is missing in the MISC field of node #8 because the text is 'вернулся в Японию, п[...]'
+[Tree number 273 on line 6129]: Mismatch between the text attribute and the FORM field. Form is 'Японию' but text is 'ернулся в Японию, прибыв в...'
+[Tree number 273 on line 6129]: Mismatch between the text attribute and the FORM field. Form is ',' but text is 'ернулся в Японию, при...'
+[Tree number 273 on line 6129]: Mismatch between the text attribute and the FORM field. Form is 'прибыв' but text is 'ернулся в Японию, прибыв в...'
+[Tree number 273 on line 6129]: Mismatch between the text attribute and the FORM field. Form is 'в' but text is 'ернулся в Японию, при...'
+[Tree number 273 on line 6129]: Mismatch between the text attribute and the FORM field. Form is 'Йокосуку' but text is 'ернулся в Японию, прибыв в Й...'
+[Tree number 273 on line 6129]: Mismatch between the text attribute and the FORM field. Form is '2' but text is 'ернулся в Японию, при...'
+[Tree number 273 on line 6129]: Mismatch between the text attribute and the FORM field. Form is 'января' but text is 'ернулся в Японию, прибыв в...'
+[Tree number 273 on line 6129]: Mismatch between the text attribute and the FORM field. Form is '1963' but text is 'ернулся в Японию, прибыв...'
+[Tree number 273 on line 6129]: Mismatch between the text attribute and the FORM field. Form is 'года' but text is 'ернулся в Японию, прибыв...'
+[Tree number 273 on line 6129]: Mismatch between the text attribute and the FORM field. Form is '.' but text is 'ернулся в Японию, при...'
+[Line                   6147]: Extra characters at the end of the text attribute, not accounted for in the FORM fields: 'ернулся в Японию, прибыв в Йокосуку 2 января 1963 года.'
 [Line                   6189]: Unknown UD DEPREL: remnant
 [Line                   6195]: Unknown UD DEPREL: remnant
 [Line                   7092]: Unknown UD DEPREL: remnant
 [Line                   7095]: Unknown UD DEPREL: remnant
 [Line                   7803]: Unknown UD DEPREL: remnant
+[Line                   7866]: Repeated features are disallowed: Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid|Voice=Mid
 [Line                   9848]: Unknown UD DEPREL: remnant
 [Line                   9850]: Unknown UD DEPREL: remnant
 [Line                   9994]: Unknown UD DEPREL: remnant
 [Line                   9998]: Unknown UD DEPREL: remnant
 [Line                   10174]: Unknown UD DEPREL: remnant
+[Line                   10175]: Unknown UD DEPREL: remnant
+[Line                   10479]: Unknown UD DEPREL: remnant
 ...suppressing further errors regarding Syntax
-*** FAILED *** with 162 errors
-Syntax errors: 162
+[Line                   67387]: Repeated features are disallowed: Animacy=Anim|Aspect=Imp|Case=Acc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act|Voice=Mid
+[Tree number 3499 on line 79593]: Mismatch between the text attribute and the FORM field. Form is 'относили|Voice=Mid' but text is 'относились к творчеству Корещенко....'
+[Tree number 3499 on line 79593]: Mismatch between the text attribute and the FORM field. Form is 'к' but text is 'относились к творчест...'
+[Tree number 3499 on line 79593]: Mismatch between the text attribute and the FORM field. Form is 'творчеству' but text is 'относились к творчеству Кореще...'
+[Tree number 3499 on line 79593]: Mismatch between the text attribute and the FORM field. Form is 'Корещенко' but text is 'относились к творчеству Корещ...'
+[Tree number 3499 on line 79593]: Mismatch between the text attribute and the FORM field. Form is '.' but text is 'относились к творчест...'
+[Line                   79602]: Extra characters at the end of the text attribute, not accounted for in the FORM fields: 'относились к творчеству Корещенко.'
+[Line                   87513]: Missing empty line after the last tree.
+*** FAILED *** with 182 errors
+Format errors: 1
+Metadata errors: 19
+Morpho errors: 2
+Syntax errors: 160
 
 
 ******************
