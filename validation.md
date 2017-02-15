@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-02-15T17:44:00Z">2017-02-15T17:44:00 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-02-15T18:22:51Z">2017-02-15T18:22:51 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -1485,16 +1485,12 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang id /home/ginter/UD_PROJ
 <span class="doublewidespan" style="padding-left:3em">UD Irish</span>
 <span class="widespan">ga</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-15T17:43:59Z">2017-02-15T17:43:59 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-15T18:22:50Z">2017-02-15T18:22:50 zulu</time></span>
 </div>
 <div>
 <pre>
-python tools/validate.py --lang ga UD-dev-branches/UD_Irish/ga-ud-dev.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang ga /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Irish/ga-ud-dev.conllu
 
-[Line                   16]: Unknown attribute-value pair Case=NomAcc
-[Line                   17]: Unknown attribute-value pair Case=NomAcc
-[Line                   21]: Unknown attribute-value pair Case=NomAcc
-[Line                   22]: Unknown attribute-value pair Case=NomAcc
 [Tree number 1 on line 3]: Mismatch between the text attribute and the FORM field. Form is ''' but text is ' 'on teallach agus do...'
 [Tree number 1 on line 3]: Mismatch between the text attribute and the FORM field. Form is 'on' but text is ' 'on teallach agus do ...'
 [Tree number 1 on line 3]: Mismatch between the text attribute and the FORM field. Form is 'teallach' but text is ' 'on teallach agus do chuir ...'
@@ -1506,23 +1502,6 @@ python tools/validate.py --lang ga UD-dev-branches/UD_Irish/ga-ud-dev.conllu
 [Tree number 1 on line 3]: Mismatch between the text attribute and the FORM field. Form is 'é' but text is ' 'on teallach agus do...'
 [Tree number 1 on line 3]: Mismatch between the text attribute and the FORM field. Form is '.' but text is ' 'on teallach agus do...'
 [Line                   25]: Extra characters at the end of the text attribute, not accounted for in the FORM fields: ' 'on teallach agus do chuir chuin gnótha é.'
-[Line                   30]: Unknown attribute-value pair Case=NomAcc
-[Line                   31]: Unknown attribute-value pair Case=NomAcc
-[Line                   40]: Unknown attribute-value pair Case=NomAcc
-[Line                   46]: Unknown attribute-value pair Case=NomAcc
-[Line                   47]: Unknown attribute-value pair Case=NomAcc
-[Line                   51]: Unknown attribute-value pair Case=NomAcc
-[Line                   68]: Unknown attribute-value pair Case=NomAcc
-[Line                   69]: Unknown attribute-value pair Case=NomAcc
-[Line                   71]: Unknown attribute-value pair Case=NomAcc
-[Line                   72]: Unknown attribute-value pair Case=NomAcc
-[Line                   76]: Unknown attribute-value pair Case=NomAcc
-[Line                   78]: Unknown attribute-value pair Case=NomAcc
-[Line                   82]: Unknown attribute-value pair Case=NomAcc
-[Line                   86]: Unknown attribute-value pair Case=NomAcc
-[Line                   87]: Unknown attribute-value pair Case=NomAcc
-...suppressing further errors regarding Morpho
-[Line                   218]: Unknown UD DEPREL: obl:prep
 [Tree number 14 on line 197]: Mismatch between the text attribute and the FORM field. Form is 'an' but text is ' an Chláir, cúram na b...'
 [Tree number 14 on line 197]: Mismatch between the text attribute and the FORM field. Form is 'Chláir' but text is ' an Chláir, cúram na beirt...'
 [Tree number 14 on line 197]: Mismatch between the text attribute and the FORM field. Form is ',' but text is ' an Chláir, cúram na ...'
@@ -1532,27 +1511,8 @@ python tools/validate.py --lang ga UD-dev-branches/UD_Irish/ga-ud-dev.conllu
 [Tree number 14 on line 197]: Mismatch between the text attribute and the FORM field. Form is 'chuici' but text is ' an Chláir, cúram na beirt...'
 [Tree number 14 on line 197]: Mismatch between the text attribute and the FORM field. Form is 'féin' but text is ' an Chláir, cúram na bei...'
 ...suppressing further errors regarding Metadata
-[Line                   255]: Unknown UD DEPREL: obl:prep
-[Line                   265]: Unknown UD DEPREL: obl:prep
-[Line                   276]: Unknown UD DEPREL: obl:prep
 [Line                   292]: 'go leor' in column FORM is not on the list of exceptions allowed to contain whitespace (data/tokens_w_space.ud and data/tokens_w_space.LANG files).
 [Line                   292]: 'go leor' in column LEMMA is not on the list of exceptions allowed to contain whitespace (data/tokens_w_space.ud and data/tokens_w_space.LANG files).
-[Line                   299]: Unknown UD DEPREL: obl:prep
-[Line                   355]: Unknown UD DEPREL: obl:tmod
-[Line                   361]: Unknown UD DEPREL: obl:prep
-[Line                   375]: Unknown UD DEPREL: obl:prep
-[Line                   485]: Unknown UD DEPREL: obl:tmod
-[Line                   524]: Unknown UD DEPREL: obl:prep
-[Line                   528]: Unknown UD DEPREL: obl:prep
-[Line                   537]: Unknown UD DEPREL: obl:prep
-[Line                   565]: Unknown UD DEPREL: obl:prep
-[Line                   574]: Unknown UD DEPREL: obl:prep
-[Line                   598]: Unknown UD DEPREL: obl:prep
-[Line                   602]: Unknown UD DEPREL: flat:foreign
-[Line                   604]: Unknown UD DEPREL: flat:foreign
-[Line                   605]: Unknown UD DEPREL: flat:foreign
-[Line                   606]: Unknown UD DEPREL: flat:foreign
-...suppressing further errors regarding Syntax
 [Line                   749]: 'i gcoinne' in column FORM is not on the list of exceptions allowed to contain whitespace (data/tokens_w_space.ud and data/tokens_w_space.LANG files).
 [Line                   749]: 'i gcoinne' in column LEMMA is not on the list of exceptions allowed to contain whitespace (data/tokens_w_space.ud and data/tokens_w_space.LANG files).
 [Line                   1069]: 'le go' in column FORM is not on the list of exceptions allowed to contain whitespace (data/tokens_w_space.ud and data/tokens_w_space.LANG files).
@@ -1571,75 +1531,39 @@ python tools/validate.py --lang ga UD-dev-branches/UD_Irish/ga-ud-dev.conllu
 [Line                   1756]: 'tar éis' in column LEMMA is not on the list of exceptions allowed to contain whitespace (data/tokens_w_space.ud and data/tokens_w_space.LANG files).
 [Line                   1828]: 'maidir le' in column FORM is not on the list of exceptions allowed to contain whitespace (data/tokens_w_space.ud and data/tokens_w_space.LANG files).
 ...suppressing further errors regarding Format
-*** FAILED *** with 4124 errors
+[Line                   4889]: Unknown attribute-value pair Negative=Neg
+*** FAILED *** with 1357 errors
 Format errors: 235
 Metadata errors: 1121
-Morpho errors: 2495
-Syntax errors: 273
+Morpho errors: 1
 The language-specific file /home/ginter/UD_PROJHOOK/tools/data/tokens_w_space.ga does not exist.
 
 
 ******************
 
-python tools/validate.py --lang ga UD-dev-branches/UD_Irish/ga-ud-train.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang ga /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Irish/ga-ud-train.conllu
 
-[Line                   5]: Unknown attribute-value pair Case=NomAcc
-[Line                   10]: Unknown UD DEPREL: obl:prep
-[Line                   20]: Unknown attribute-value pair Case=NomAcc
-[Line                   23]: Unknown attribute-value pair Case=NomAcc
-[Line                   25]: Unknown attribute-value pair Case=NomAcc
-[Line                   26]: Unknown attribute-value pair Case=NomAcc
 [Line                   30]: 'Átha Cliath' in column FORM is not on the list of exceptions allowed to contain whitespace (data/tokens_w_space.ud and data/tokens_w_space.LANG files).
 [Line                   30]: 'Átha Cliath' in column LEMMA is not on the list of exceptions allowed to contain whitespace (data/tokens_w_space.ud and data/tokens_w_space.LANG files).
-[Line                   40]: Unknown attribute-value pair Case=NomAcc
-[Line                   47]: Unknown attribute-value pair Case=NomAcc
-[Line                   50]: Unknown UD DEPREL: obl:prep
 [Line                   52]: 'go leor' in column FORM is not on the list of exceptions allowed to contain whitespace (data/tokens_w_space.ud and data/tokens_w_space.LANG files).
 [Line                   52]: 'go leor' in column LEMMA is not on the list of exceptions allowed to contain whitespace (data/tokens_w_space.ud and data/tokens_w_space.LANG files).
-[Line                   55]: Unknown attribute-value pair Case=NomAcc
-[Line                   56]: Unknown attribute-value pair Case=NomAcc
-[Line                   57]: Unknown attribute-value pair Case=NomAcc
 [Line                   62]: 'Tar éis' in column FORM is not on the list of exceptions allowed to contain whitespace (data/tokens_w_space.ud and data/tokens_w_space.LANG files).
 [Line                   62]: 'tar éis' in column LEMMA is not on the list of exceptions allowed to contain whitespace (data/tokens_w_space.ud and data/tokens_w_space.LANG files).
-[Line                   68]: Unknown attribute-value pair Case=NomAcc
-[Line                   70]: Unknown attribute-value pair Case=NomAcc
-[Line                   73]: Unknown attribute-value pair Case=NomAcc
-[Line                   81]: Unknown attribute-value pair Case=NomAcc
-[Line                   83]: Unknown attribute-value pair Case=NomAcc
-[Line                   87]: Unknown attribute-value pair Case=NomAcc
-[Line                   88]: Unknown UD DEPREL: obl:prep
-[Line                   95]: Unknown attribute-value pair Case=NomAcc
-[Line                   97]: Unknown attribute-value pair Case=NomAcc
-[Line                   98]: Unknown attribute-value pair Case=NomAcc
-...suppressing further errors regarding Morpho
 [Line                   159]: 'i gcoinne' in column FORM is not on the list of exceptions allowed to contain whitespace (data/tokens_w_space.ud and data/tokens_w_space.LANG files).
 [Line                   159]: 'i gcoinne' in column LEMMA is not on the list of exceptions allowed to contain whitespace (data/tokens_w_space.ud and data/tokens_w_space.LANG files).
-[Line                   216]: Unknown UD DEPREL: obl:prep
 [Line                   298]: 'maidir le' in column FORM is not on the list of exceptions allowed to contain whitespace (data/tokens_w_space.ud and data/tokens_w_space.LANG files).
 [Line                   298]: 'maidir le' in column LEMMA is not on the list of exceptions allowed to contain whitespace (data/tokens_w_space.ud and data/tokens_w_space.LANG files).
-[Line                   328]: Unknown UD DEPREL: obl:prep
-[Line                   395]: Unknown UD DEPREL: obl:prep
-[Line                   402]: Unknown UD DEPREL: obl:prep
-[Line                   406]: Unknown UD DEPREL: obl:prep
-[Line                   416]: Unknown UD DEPREL: obl:prep
-[Line                   455]: Unknown UD DEPREL: obl:tmod
-[Line                   464]: Unknown UD DEPREL: obl:prep
 [Line                   474]: 'Cill Chainnigh' in column FORM is not on the list of exceptions allowed to contain whitespace (data/tokens_w_space.ud and data/tokens_w_space.LANG files).
 [Line                   474]: 'Cill Chainnigh' in column LEMMA is not on the list of exceptions allowed to contain whitespace (data/tokens_w_space.ud and data/tokens_w_space.LANG files).
-[Line                   481]: Unknown UD DEPREL: obl:tmod
 [Line                   571]: 'Loch Garman' in column FORM is not on the list of exceptions allowed to contain whitespace (data/tokens_w_space.ud and data/tokens_w_space.LANG files).
-[Line                   587]: Unknown UD DEPREL: obl:prep
 [Tree number 22 on line 576]: Mismatch between the text attribute and the FORM field. Form is ''' but text is ' 'maidí-úachtaracha' ...'
 [Tree number 22 on line 576]: Mismatch between the text attribute and the FORM field. Form is 'maidí-úachtaracha' but text is ' 'maidí-úachtaracha' orthú?...'
 [Tree number 22 on line 576]: Mismatch between the text attribute and the FORM field. Form is ''' but text is ' 'maidí-úachtaracha' ...'
 [Tree number 22 on line 576]: Mismatch between the text attribute and the FORM field. Form is 'orthú' but text is ' 'maidí-úachtaracha' orth...'
 [Tree number 22 on line 576]: Mismatch between the text attribute and the FORM field. Form is '?' but text is ' 'maidí-úachtaracha' ...'
 [Line                   589]: Extra characters at the end of the text attribute, not accounted for in the FORM fields: ' 'maidí-úachtaracha' orthú?'
-[Line                   615]: Unknown UD DEPREL: obl:prep
 [Line                   642]: 'ar ais' in column FORM is not on the list of exceptions allowed to contain whitespace (data/tokens_w_space.ud and data/tokens_w_space.LANG files).
 [Line                   642]: 'ar ais' in column LEMMA is not on the list of exceptions allowed to contain whitespace (data/tokens_w_space.ud and data/tokens_w_space.LANG files).
-[Line                   684]: Unknown UD DEPREL: obl:prep
-[Line                   796]: Unknown UD DEPREL: obl:prep
 [Tree number 36 on line 863]: Mismatch between the text attribute and the FORM field. Form is 'Ó' but text is ' Ó Síocháin comparáid...'
 [Tree number 36 on line 863]: Mismatch between the text attribute and the FORM field. Form is 'Síocháin' but text is ' Ó Síocháin comparáid idir a...'
 [Tree number 36 on line 863]: Mismatch between the text attribute and the FORM field. Form is 'comparáid' but text is ' Ó Síocháin comparáid idir an...'
@@ -1654,20 +1578,14 @@ python tools/validate.py --lang ga UD-dev-branches/UD_Irish/ga-ud-train.conllu
 [Tree number 36 on line 863]: Mismatch between the text attribute and the FORM field. Form is 'mBrú' but text is ' Ó Síocháin comparáid id...'
 [Tree number 36 on line 863]: Mismatch between the text attribute and the FORM field. Form is 'na' but text is ' Ó Síocháin comparáid ...'
 ...suppressing further errors regarding Metadata
-[Line                   973]: Unknown UD DEPREL: obl:prep
-[Line                   1025]: Unknown UD DEPREL: obl:prep
 [Line                   1027]: 'thar ceann' in column FORM is not on the list of exceptions allowed to contain whitespace (data/tokens_w_space.ud and data/tokens_w_space.LANG files).
 [Line                   1027]: 'thar ceann' in column LEMMA is not on the list of exceptions allowed to contain whitespace (data/tokens_w_space.ud and data/tokens_w_space.LANG files).
 [Line                   1032]: 'thar ceann' in column FORM is not on the list of exceptions allowed to contain whitespace (data/tokens_w_space.ud and data/tokens_w_space.LANG files).
 [Line                   1032]: 'thar ceann' in column LEMMA is not on the list of exceptions allowed to contain whitespace (data/tokens_w_space.ud and data/tokens_w_space.LANG files).
 ...suppressing further errors regarding Format
-[Line                   1102]: Unknown UD DEPREL: obl:prep
-...suppressing further errors regarding Syntax
-*** FAILED *** with 610 errors
+*** FAILED *** with 126 errors
 Format errors: 47
 Metadata errors: 79
-Morpho errors: 445
-Syntax errors: 39
 The language-specific file /home/ginter/UD_PROJHOOK/tools/data/tokens_w_space.ga does not exist.
 
 
