@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-02-15T10:10:30Z">2017-02-15T10:10:30 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-02-15T11:23:34Z">2017-02-15T11:23:34 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -2148,35 +2148,14 @@ Syntax errors: 9850
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD Kazakh</span>
 <span class="widespan">kk</span>
-<span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-15T08:06:32Z">2017-02-15T08:06:32 zulu</time></span>
+<span class="validationpass">PASS</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-15T11:23:33Z">2017-02-15T11:23:33 zulu</time></span>
 </div>
 <div>
 <pre>
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang kk /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Kazakh/kk-ud-dev.conllu
+python tools/validate.py --lang kk UD-dev-branches/UD_Kazakh/kk-ud-dev.conllu
 
-[Line                   57]: SpaceAfter=No is missing in the MISC field of node #9 because the text is 'кеңескенде: «Баласыз[...]'
-[Line                   57]: SpaceAfter=No is missing in the MISC field of node #11 because the text is '«Баласыз өмірдің қыз[...]'
-[Line                   57]: SpaceAfter=No is missing in the MISC field of node #16-18 because the text is 'жоқ қой», – деп аузы[...]'
-[Line                   57]: SpaceAfter=No is missing in the MISC field of node #19 because the text is '», – деп аузымен ған[...]'
-[Line                   57]: SpaceAfter=No is missing in the MISC field of node #26 because the text is 'еді.'
-[Line                   85]: SpaceAfter=No is missing in the MISC field of node #3 because the text is 'сатылып, жаны сүймег[...]'
-[Line                   85]: SpaceAfter=No is missing in the MISC field of node #24 because the text is 'қылмады.'
-[Line                   121]: SpaceAfter=No is missing in the MISC field of node #6 because the text is 'да, яки күйеуін құша[...]'
-[Line                   121]: SpaceAfter=No is missing in the MISC field of node #12 because the text is 'да, ол ылғи ішінен: [...]'
-[Line                   121]: SpaceAfter=No is missing in the MISC field of node #16 because the text is 'ішінен: «Жасаған-ау,[...]'
-[Line                   121]: SpaceAfter=No is missing in the MISC field of node #18 because the text is '«Жасаған-ау, бала бе[...]'
-[Line                   121]: SpaceAfter=No is missing in the MISC field of node #19-20 because the text is 'Жасаған-ау, бала бер[...]'
-[Line                   121]: SpaceAfter=No is missing in the MISC field of node #24 because the text is 'көрме?!» – деп тілей[...]'
-[Line                   121]: SpaceAfter=No is missing in the MISC field of node #25 because the text is '?!» – деп тілейтін еді.'
-[Line                   121]: SpaceAfter=No is missing in the MISC field of node #26 because the text is '!» – деп тілейтін еді.'
-[Line                   121]: SpaceAfter=No is missing in the MISC field of node #31 because the text is 'еді.'
-[Line                   143]: SpaceAfter=No is missing in the MISC field of node #1 because the text is '«Балалы болсам, әдем[...]'
-[Line                   143]: SpaceAfter=No is missing in the MISC field of node #4 because the text is 'болсам, әдемі өмірім[...]'
-[Line                   143]: SpaceAfter=No is missing in the MISC field of node #8-9 because the text is 'бұзылады-ау», – деп [...]'
-...suppressing further errors regarding Metadata
-*** FAILED *** with 107 errors
-Metadata errors: 107
+*** PASSED ***
 
 
 ******************
