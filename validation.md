@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-02-15T16:12:29Z">2017-02-15T16:12:29 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-02-15T16:23:27Z">2017-02-15T16:23:27 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -2787,7 +2787,7 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang ug /home/ginter/UD_PROJ
 <span class="doublewidespan" style="padding-left:3em">UD Vietnamese</span>
 <span class="widespan">vi</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-15T16:12:26Z">2017-02-15T16:12:26 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-15T16:23:25Z">2017-02-15T16:23:25 zulu</time></span>
 </div>
 <div>
 <pre>
