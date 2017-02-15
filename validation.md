@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-02-15T22:01:45Z">2017-02-15T22:01:45 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-02-15T22:04:16Z">2017-02-15T22:04:16 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -1603,63 +1603,21 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang it_partut /home/ginter/
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD Japanese</span>
 <span class="widespan">ja</span>
-<span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-15T21:53:01Z">2017-02-15T21:53:01 zulu</time></span>
+<span class="validationpass">PASS</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-15T22:04:08Z">2017-02-15T22:04:08 zulu</time></span>
 </div>
 <div>
 <pre>
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang ja /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Japanese/ja-ud-dev.conllu
+python tools/validate.py --lang ja UD-dev-branches/UD_Japanese/ja-ud-dev.conllu
 
-[Line                   23]: Missing the text attribute.
-[Line                   45]: Missing the text attribute.
-[Line                   60]: Missing the text attribute.
-[Line                   72]: Missing the text attribute.
-[Line                   91]: Missing the text attribute.
-[Line                   137]: Missing the text attribute.
-[Line                   206]: Missing the text attribute.
-[Line                   221]: Missing the text attribute.
-[Line                   246]: Missing the text attribute.
-[Line                   283]: Missing the text attribute.
-[Line                   298]: Missing the text attribute.
-[Line                   334]: Missing the text attribute.
-[Line                   347]: Missing the text attribute.
-[Line                   411]: Missing the text attribute.
-[Line                   442]: Missing the text attribute.
-[Line                   457]: Missing the text attribute.
-[Line                   486]: Missing the text attribute.
-[Line                   508]: Missing the text attribute.
-[Line                   520]: Missing the text attribute.
-...suppressing further errors regarding Metadata
-*** FAILED *** with 511 errors
-Metadata errors: 511
+*** PASSED ***
 
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang ja /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Japanese/ja-ud-train.conllu
+python tools/validate.py --lang ja UD-dev-branches/UD_Japanese/ja-ud-train.conllu
 
-[Line                   38]: Missing the text attribute.
-[Line                   55]: Missing the text attribute.
-[Line                   90]: Missing the text attribute.
-[Line                   112]: Missing the text attribute.
-[Line                   120]: Missing the text attribute.
-[Line                   149]: Missing the text attribute.
-[Line                   194]: Missing the text attribute.
-[Line                   217]: Missing the text attribute.
-[Line                   232]: Missing the text attribute.
-[Line                   306]: Missing the text attribute.
-[Line                   313]: Missing the text attribute.
-[Line                   322]: Missing the text attribute.
-[Line                   365]: Missing the text attribute.
-[Line                   384]: Missing the text attribute.
-[Line                   416]: Missing the text attribute.
-[Line                   435]: Missing the text attribute.
-[Line                   475]: Missing the text attribute.
-[Line                   497]: Missing the text attribute.
-[Line                   506]: Missing the text attribute.
-...suppressing further errors regarding Metadata
-*** FAILED *** with 7164 errors
-Metadata errors: 7164
+*** PASSED ***
 
 
 ******************
