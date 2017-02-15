@@ -1,7 +1,7 @@
 ---
 layout: relation
 title: 'obl:agent'
-shortdef: 'oblque agent in passive construction'
+shortdef: 'agent in passive construction'
 udver: '2'
 ---
 
