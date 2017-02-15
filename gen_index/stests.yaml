@@ -226,7 +226,7 @@
 
 -
   name: Marked as cc but not CCONJ, SYM or ADV
-  expr: "!CCONJ&!SYM&!ADV <cc _"
+  expr: "(!CCONJ&!SYM&!ADV) <cc _"
   desc: <b>DEBUGGING TEST. NONZERO HITS DOES NOT MEAN THE DATA IS INVALID.</b> The relation cc is for coordinating conjunctions, hence the most expected POS tag is CCONJ. Symbols such as + may occasionally replace conjunctions, and in some languages some adverbs may take this syntactic function too. However, most other tags are suspicious at least.
   link: http://universaldependencies.org/docs/u/dep/cc.html
 
