@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-02-15T07:42:41Z">2017-02-15T07:42:41 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-02-15T07:53:45Z">2017-02-15T07:53:45 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -1454,18 +1454,18 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang de /home/ginter/UD_PROJ
 <span class="doublewidespan" style="padding-left:3em">UD Gothic</span>
 <span class="widespan">got</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-15T07:18:33Z">2017-02-15T07:18:33 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-15T07:53:41Z">2017-02-15T07:53:41 zulu</time></span>
 </div>
 <div>
 <pre>
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang got /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Gothic/got-ud-dev.conllu
+python tools/validate.py --lang got UD-dev-branches/UD_Gothic/got-ud-dev.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang got /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Gothic/got-ud-train.conllu
+python tools/validate.py --lang got UD-dev-branches/UD_Gothic/got-ud-train.conllu
 
 *** PASSED ***
 
