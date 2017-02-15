@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-02-15T01:21:40Z">2017-02-15T01:21:40 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-02-15T05:59:35Z">2017-02-15T05:59:35 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -2527,53 +2527,21 @@ python tools/validate.py --lang no_bokmaal UD-dev-branches/UD_Norwegian-Bokmaal/
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD Norwegian-Nynorsk</span>
 <span class="widespan">no nynorsk</span>
-<span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-14T23:49:16Z">2017-02-14T23:49:16 zulu</time></span>
+<span class="validationpass">PASS</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-15T05:59:16Z">2017-02-15T05:59:16 zulu</time></span>
 </div>
 <div>
 <pre>
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang no_nynorsk /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Norwegian-Nynorsk/no_nynorsk-ud-dev.conlluTraceback (most recent call last):
-  File "/home/ginter/UD_PROJHOOK/tools/validate.py", line 689, in &lt;module&gt;
-    validate(inp,out,args,tagsets,known_sent_ids)
-  File "/home/ginter/UD_PROJHOOK/tools/validate.py", line 571, in validate
-    for comments,tree in trees(inp,tag_sets,args):
-  File "/home/ginter/UD_PROJHOOK/tools/validate.py", line 96, in trees
-    validate_cols(cols,tag_sets,args)
-  File "/home/ginter/UD_PROJHOOK/tools/validate.py", line 201, in validate_cols
-    validate_whitespace(cols,tag_sets)
-  File "/home/ginter/UD_PROJHOOK/tools/validate.py", line 228, in validate_whitespace
-    if not cols[col_idx]:
-IndexError: list index out of range
+python tools/validate.py --lang no_nynorsk UD-dev-branches/UD_Norwegian-Nynorsk/no_nynorsk-ud-dev.conllu
 
-
-
-[Line                   37095]: The line has 1 columns, but 10 are expected.
-[Line                   37095]: Exception caught!
-*** FAILED *** with 2 errors
-Format errors: 2
+*** PASSED ***
 
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang no_nynorsk /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Norwegian-Nynorsk/no_nynorsk-ud-train.conlluTraceback (most recent call last):
-  File "/home/ginter/UD_PROJHOOK/tools/validate.py", line 689, in &lt;module&gt;
-    validate(inp,out,args,tagsets,known_sent_ids)
-  File "/home/ginter/UD_PROJHOOK/tools/validate.py", line 571, in validate
-    for comments,tree in trees(inp,tag_sets,args):
-  File "/home/ginter/UD_PROJHOOK/tools/validate.py", line 96, in trees
-    validate_cols(cols,tag_sets,args)
-  File "/home/ginter/UD_PROJHOOK/tools/validate.py", line 201, in validate_cols
-    validate_whitespace(cols,tag_sets)
-  File "/home/ginter/UD_PROJHOOK/tools/validate.py", line 228, in validate_whitespace
-    if not cols[col_idx]:
-IndexError: list index out of range
+python tools/validate.py --lang no_nynorsk UD-dev-branches/UD_Norwegian-Nynorsk/no_nynorsk-ud-train.conllu
 
-
-
-[Line                   289296]: The line has 1 columns, but 10 are expected.
-[Line                   289296]: Exception caught!
-*** FAILED *** with 2 errors
-Format errors: 2
+*** PASSED ***
 
 
 ******************
