@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-02-15T15:49:05Z">2017-02-15T15:49:05 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-02-15T15:49:22Z">2017-02-15T15:49:22 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -2521,7 +2521,7 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang ro /home/ginter/UD_PROJ
 <span class="doublewidespan" style="padding-left:3em">UD Russian</span>
 <span class="widespan">ru</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-15T15:43:37Z">2017-02-15T15:43:37 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-15T15:49:11Z">2017-02-15T15:49:11 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -2570,8 +2570,8 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang ru /home/ginter/UD_PROJ
 [Line                   9998]: Unknown UD DEPREL: remnant
 [Line                   10174]: Unknown UD DEPREL: remnant
 ...suppressing further errors regarding Syntax
-*** FAILED *** with 172 errors
-Syntax errors: 172
+*** FAILED *** with 162 errors
+Syntax errors: 162
 
 
 ******************
