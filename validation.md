@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-02-15T18:22:51Z">2017-02-15T18:22:51 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-02-15T18:30:45Z">2017-02-15T18:30:45 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -1485,11 +1485,11 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang id /home/ginter/UD_PROJ
 <span class="doublewidespan" style="padding-left:3em">UD Irish</span>
 <span class="widespan">ga</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-15T18:22:50Z">2017-02-15T18:22:50 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-15T18:30:44Z">2017-02-15T18:30:44 zulu</time></span>
 </div>
 <div>
 <pre>
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang ga /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Irish/ga-ud-dev.conllu
+python tools/validate.py --lang ga UD-dev-branches/UD_Irish/ga-ud-dev.conllu
 
 [Tree number 1 on line 3]: Mismatch between the text attribute and the FORM field. Form is ''' but text is ' 'on teallach agus do...'
 [Tree number 1 on line 3]: Mismatch between the text attribute and the FORM field. Form is 'on' but text is ' 'on teallach agus do ...'
@@ -1541,7 +1541,7 @@ The language-specific file /home/ginter/UD_PROJHOOK/tools/data/tokens_w_space.ga
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang ga /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Irish/ga-ud-train.conllu
+python tools/validate.py --lang ga UD-dev-branches/UD_Irish/ga-ud-train.conllu
 
 [Line                   30]: 'Átha Cliath' in column FORM is not on the list of exceptions allowed to contain whitespace (data/tokens_w_space.ud and data/tokens_w_space.LANG files).
 [Line                   30]: 'Átha Cliath' in column LEMMA is not on the list of exceptions allowed to contain whitespace (data/tokens_w_space.ud and data/tokens_w_space.LANG files).
