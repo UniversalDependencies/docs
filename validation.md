@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-02-15T07:26:31Z">2017-02-15T07:26:31 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-02-15T07:26:59Z">2017-02-15T07:26:59 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -427,63 +427,21 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang cs_cac /home/ginter/UD_
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD Czech-CLTT</span>
 <span class="widespan">cs cltt</span>
-<span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-15T07:15:55Z">2017-02-15T07:15:55 zulu</time></span>
+<span class="validationpass">PASS</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-15T07:26:56Z">2017-02-15T07:26:56 zulu</time></span>
 </div>
 <div>
 <pre>
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang cs_cltt /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Czech-CLTT/cs_cltt-ud-dev.conllu
+python tools/validate.py --lang cs_cltt UD-dev-branches/UD_Czech-CLTT/cs_cltt-ud-dev.conllu
 
-[Tree number 1 on line 4]: Mismatch between the text attribute and the FORM field. Form is '§_18_odst._3' but text is '§ 18 odst. 3) ověřuje, a účetníh...'
-[Tree number 1 on line 4]: Mismatch between the text attribute and the FORM field. Form is ')' but text is '§ 18 odst. 3) ověřuje...'
-[Tree number 1 on line 4]: Mismatch between the text attribute and the FORM field. Form is 'ověřuje' but text is '§ 18 odst. 3) ověřuje, a úč...'
-[Tree number 1 on line 4]: Mismatch between the text attribute and the FORM field. Form is ',' but text is '§ 18 odst. 3) ověřuje...'
-[Tree number 1 on line 4]: Mismatch between the text attribute and the FORM field. Form is 'a' but text is '§ 18 odst. 3) ověřuje...'
-[Tree number 1 on line 4]: Mismatch between the text attribute and the FORM field. Form is 'účetního' but text is '§ 18 odst. 3) ověřuje, a úče...'
-[Tree number 1 on line 4]: Mismatch between the text attribute and the FORM field. Form is 'období' but text is '§ 18 odst. 3) ověřuje, a ú...'
-[Tree number 1 on line 4]: Mismatch between the text attribute and the FORM field. Form is 'bezprostředně' but text is '§ 18 odst. 3) ověřuje, a účetního...'
-[Tree number 1 on line 4]: Mismatch between the text attribute and the FORM field. Form is 'předcházejícího' but text is '§ 18 odst. 3) ověřuje, a účetního o...'
-[Tree number 1 on line 4]: Mismatch between the text attribute and the FORM field. Form is ',' but text is '§ 18 odst. 3) ověřuje...'
-[Tree number 1 on line 4]: Mismatch between the text attribute and the FORM field. Form is 'překročily' but text is '§ 18 odst. 3) ověřuje, a účetn...'
-[Tree number 1 on line 4]: Mismatch between the text attribute and the FORM field. Form is 'nebo' but text is '§ 18 odst. 3) ověřuje, a...'
-[Tree number 1 on line 4]: Mismatch between the text attribute and the FORM field. Form is 'již' but text is '§ 18 odst. 3) ověřuje, ...'
-[Tree number 1 on line 4]: Mismatch between the text attribute and the FORM field. Form is 'dosáhly' but text is '§ 18 odst. 3) ověřuje, a úč...'
-[Tree number 1 on line 4]: Mismatch between the text attribute and the FORM field. Form is 'alespoň' but text is '§ 18 odst. 3) ověřuje, a úč...'
-[Tree number 1 on line 4]: Mismatch between the text attribute and the FORM field. Form is 'jedno' but text is '§ 18 odst. 3) ověřuje, a ...'
-[Tree number 1 on line 4]: Mismatch between the text attribute and the FORM field. Form is 'ze' but text is '§ 18 odst. 3) ověřuje,...'
-[Tree number 1 on line 4]: Mismatch between the text attribute and the FORM field. Form is 'tří' but text is '§ 18 odst. 3) ověřuje, ...'
-[Tree number 1 on line 4]: Mismatch between the text attribute and the FORM field. Form is 'uvedených' but text is '§ 18 odst. 3) ověřuje, a účet...'
-...suppressing further errors regarding Metadata
-*** FAILED *** with 1237 errors
-Metadata errors: 1237
+*** PASSED ***
 
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang cs_cltt /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Czech-CLTT/cs_cltt-ud-train.conllu
+python tools/validate.py --lang cs_cltt UD-dev-branches/UD_Czech-CLTT/cs_cltt-ud-train.conllu
 
-[Tree number 3 on line 18]: Mismatch between the text attribute and the FORM field. Form is '§_1' but text is '§ 1...'
-[Line                   19]: Extra characters at the end of the text attribute, not accounted for in the FORM fields: '§ 1'
-[Tree number 4 on line 23]: Mismatch between the text attribute and the FORM field. Form is '"zákon_o_přeměnách"' but text is '"zákon o přeměnách"), včetně úprav prov...'
-[Tree number 4 on line 23]: Mismatch between the text attribute and the FORM field. Form is ')' but text is '"zákon o přeměnách"),...'
-[Tree number 4 on line 23]: Mismatch between the text attribute and the FORM field. Form is ',' but text is '"zákon o přeměnách"),...'
-[Tree number 4 on line 23]: Mismatch between the text attribute and the FORM field. Form is 'včetně' but text is '"zákon o přeměnách"), včet...'
-[Tree number 4 on line 23]: Mismatch between the text attribute and the FORM field. Form is 'úprav' but text is '"zákon o přeměnách"), vče...'
-[Tree number 4 on line 23]: Mismatch between the text attribute and the FORM field. Form is 'prováděných' but text is '"zákon o přeměnách"), včetně úp...'
-[Tree number 4 on line 23]: Mismatch between the text attribute and the FORM field. Form is 'v' but text is '"zákon o přeměnách"),...'
-[Tree number 4 on line 23]: Mismatch between the text attribute and the FORM field. Form is 'rámci' but text is '"zákon o přeměnách"), vče...'
-[Tree number 4 on line 23]: Mismatch between the text attribute and the FORM field. Form is 'přeměn' but text is '"zákon o přeměnách"), včet...'
-[Tree number 4 on line 23]: Mismatch between the text attribute and the FORM field. Form is 'společnosti' but text is '"zákon o přeměnách"), včetně úp...'
-[Tree number 4 on line 23]: Mismatch between the text attribute and the FORM field. Form is 'ke' but text is '"zákon o přeměnách"), ...'
-[Tree number 4 on line 23]: Mismatch between the text attribute and the FORM field. Form is 'dni' but text is '"zákon o přeměnách"), v...'
-[Tree number 4 on line 23]: Mismatch between the text attribute and the FORM field. Form is 'zápisu' but text is '"zákon o přeměnách"), včet...'
-[Tree number 4 on line 23]: Mismatch between the text attribute and the FORM field. Form is 'do' but text is '"zákon o přeměnách"), ...'
-[Tree number 4 on line 23]: Mismatch between the text attribute and the FORM field. Form is 'obchodního' but text is '"zákon o přeměnách"), včetně ú...'
-[Tree number 4 on line 23]: Mismatch between the text attribute and the FORM field. Form is 'rejstříku' but text is '"zákon o přeměnách"), včetně ...'
-[Tree number 4 on line 23]: Mismatch between the text attribute and the FORM field. Form is 's' but text is '"zákon o přeměnách"),...'
-...suppressing further errors regarding Metadata
-*** FAILED *** with 9024 errors
-Metadata errors: 9024
+*** PASSED ***
 
 
 ******************
