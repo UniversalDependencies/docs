@@ -14,21 +14,21 @@ Feminine gender is assigned to nouns denoting female persons, specific female an
 
 #### Examples:
 
-* הילדה הלכה _ha-yalda halxa_ "the girl walked" (both words marked `Fem`)
-* הנמלים הולכות _ha-nemalim holxot_ "the ants are walking" (group may also include male ants)
-* היא מטיילת _hi' metayyelet_ "she is going on a walk" (both words marked `Fem`)
-* שלוש קופסאות ריקות _šaloš qufsa'ot reiqot_ "three empty boxes" (all words marked `Fem`)
+* הילדה הלכה _hildh hlkh_ "the girl walked" (both words marked `Fem`)
+* הנמלים הולכות _hnmlim hvlkvt_ "the ants are walking" (group may also include male ants)
+* היא מטיילת _hia mtiilt_ "she is going on a walk" (both words marked `Fem`)
+* שלוש קופסאות ריקות _flvf qvpsavt riqvt_ "three empty boxes" (all words marked `Fem`)
 
 ### `Masc`: masculine
 
 Masculine gender is assigned to nouns denoting male persons, specific male animate non-human objects, the masculine pronouns (singular and plural), arbitrary nouns assigned the masculine gender, and the masculine forms of adjectives, numbers and verbs associated with such nouns/pronouns.
 
-Some [determiners](he-pos/DET), namely מספיק and שאר, also carry the `Masc` gender, regardless of the modified noun.
+Some [determiners](he-pos/DET), namely מספיק mspiq and שאר far, also carry the `Masc` gender, regardless of the modified noun.
 
 #### Examples:
 
-* הילד הלך _ha-yeled halax_ "the boy walked" (both words marked `Masc`)
-* הנמלים שובתים _ha-nemelim šovtim_ "the ports are striking" (both words marked `Masc`)
-* הם מטיילים _hem metayylim_ "they(m) are going on a walk" (group may also contain females)
-* ארבעה כסאות קלים _arba'a kisa'ot qalim_ "four light chairs" (all words marked `Masc`)
-* שאר המסיבות נגמרו _š'ar-`Masc` ha-mesibot-`Fem` nigmeru-`Masc,Fem`_ "the rest of the parties ended"
+* הילד הלך _hild hlk_ "the boy walked" (both words marked `Masc`)
+* הנמלים שובתים _hnmlim fvbtim_ "the ports are striking" (both words marked `Masc`)
+* הם מטיילים _hm mtiilim_ "they(masc.) are going on a walk" (group may also contain females)
+* ארבעה כסאות קלים _arbea ksavt qlim_ "four light chairs" (all words marked `Masc`)
+* שאר המסיבות נגמרו _far-`Masc` hmsibvt-`Fem` ngmrv-`Masc,Fem`_ "the rest of the parties ended"
