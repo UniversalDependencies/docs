@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-02-15T23:32:56Z">2017-02-15T23:32:56 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-02-15T23:35:21Z">2017-02-15T23:35:21 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -1440,109 +1440,21 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang id /home/ginter/UD_PROJ
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD Irish</span>
 <span class="widespan">ga</span>
-<span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-15T21:52:44Z">2017-02-15T21:52:44 zulu</time></span>
+<span class="validationpass">PASS</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-15T23:35:19Z">2017-02-15T23:35:19 zulu</time></span>
 </div>
 <div>
 <pre>
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang ga /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Irish/ga-ud-dev.conllu
+python tools/validate.py --lang ga UD-dev-branches/UD_Irish/ga-ud-dev.conllu
 
-[Tree number 1 on line 3]: Mismatch between the text attribute and the FORM field. Form is ''' but text is ' 'on teallach agus do...'
-[Tree number 1 on line 3]: Mismatch between the text attribute and the FORM field. Form is 'on' but text is ' 'on teallach agus do ...'
-[Tree number 1 on line 3]: Mismatch between the text attribute and the FORM field. Form is 'teallach' but text is ' 'on teallach agus do chuir ...'
-[Tree number 1 on line 3]: Mismatch between the text attribute and the FORM field. Form is 'agus' but text is ' 'on teallach agus do ch...'
-[Tree number 1 on line 3]: Mismatch between the text attribute and the FORM field. Form is 'do' but text is ' 'on teallach agus do ...'
-[Tree number 1 on line 3]: Mismatch between the text attribute and the FORM field. Form is 'chuir' but text is ' 'on teallach agus do chu...'
-[Tree number 1 on line 3]: Mismatch between the text attribute and the FORM field. Form is 'chuin' but text is ' 'on teallach agus do chu...'
-[Tree number 1 on line 3]: Mismatch between the text attribute and the FORM field. Form is 'gnótha' but text is ' 'on teallach agus do chui...'
-[Tree number 1 on line 3]: Mismatch between the text attribute and the FORM field. Form is 'é' but text is ' 'on teallach agus do...'
-[Tree number 1 on line 3]: Mismatch between the text attribute and the FORM field. Form is '.' but text is ' 'on teallach agus do...'
-[Line                   25]: Extra characters at the end of the text attribute, not accounted for in the FORM fields: ' 'on teallach agus do chuir chuin gnótha é.'
-[Tree number 14 on line 197]: Mismatch between the text attribute and the FORM field. Form is 'an' but text is ' an Chláir, cúram na b...'
-[Tree number 14 on line 197]: Mismatch between the text attribute and the FORM field. Form is 'Chláir' but text is ' an Chláir, cúram na beirt...'
-[Tree number 14 on line 197]: Mismatch between the text attribute and the FORM field. Form is ',' but text is ' an Chláir, cúram na ...'
-[Tree number 14 on line 197]: Mismatch between the text attribute and the FORM field. Form is 'cúram' but text is ' an Chláir, cúram na beir...'
-[Tree number 14 on line 197]: Mismatch between the text attribute and the FORM field. Form is 'na' but text is ' an Chláir, cúram na b...'
-[Tree number 14 on line 197]: Mismatch between the text attribute and the FORM field. Form is 'beirte' but text is ' an Chláir, cúram na beirt...'
-[Tree number 14 on line 197]: Mismatch between the text attribute and the FORM field. Form is 'chuici' but text is ' an Chláir, cúram na beirt...'
-[Tree number 14 on line 197]: Mismatch between the text attribute and the FORM field. Form is 'féin' but text is ' an Chláir, cúram na bei...'
-...suppressing further errors regarding Metadata
-[Line                   292]: 'go leor' in column FORM is not on the list of exceptions allowed to contain whitespace (data/tokens_w_space.ud and data/tokens_w_space.LANG files).
-[Line                   292]: 'go leor' in column LEMMA is not on the list of exceptions allowed to contain whitespace (data/tokens_w_space.ud and data/tokens_w_space.LANG files).
-[Line                   749]: 'i gcoinne' in column FORM is not on the list of exceptions allowed to contain whitespace (data/tokens_w_space.ud and data/tokens_w_space.LANG files).
-[Line                   749]: 'i gcoinne' in column LEMMA is not on the list of exceptions allowed to contain whitespace (data/tokens_w_space.ud and data/tokens_w_space.LANG files).
-[Line                   1069]: 'le go' in column FORM is not on the list of exceptions allowed to contain whitespace (data/tokens_w_space.ud and data/tokens_w_space.LANG files).
-[Line                   1069]: 'le go' in column LEMMA is not on the list of exceptions allowed to contain whitespace (data/tokens_w_space.ud and data/tokens_w_space.LANG files).
-[Line                   1180]: 'Béal Feirste' in column FORM is not on the list of exceptions allowed to contain whitespace (data/tokens_w_space.ud and data/tokens_w_space.LANG files).
-[Line                   1180]: 'Béal Feirste' in column LEMMA is not on the list of exceptions allowed to contain whitespace (data/tokens_w_space.ud and data/tokens_w_space.LANG files).
-[Line                   1181]: 'le go' in column FORM is not on the list of exceptions allowed to contain whitespace (data/tokens_w_space.ud and data/tokens_w_space.LANG files).
-[Line                   1181]: 'le go' in column LEMMA is not on the list of exceptions allowed to contain whitespace (data/tokens_w_space.ud and data/tokens_w_space.LANG files).
-[Line                   1238]: 'go dtí' in column FORM is not on the list of exceptions allowed to contain whitespace (data/tokens_w_space.ud and data/tokens_w_space.LANG files).
-[Line                   1238]: 'go dtí' in column LEMMA is not on the list of exceptions allowed to contain whitespace (data/tokens_w_space.ud and data/tokens_w_space.LANG files).
-[Line                   1499]: 'Ard Mhacha' in column FORM is not on the list of exceptions allowed to contain whitespace (data/tokens_w_space.ud and data/tokens_w_space.LANG files).
-[Line                   1499]: 'Ard Mhacha' in column LEMMA is not on the list of exceptions allowed to contain whitespace (data/tokens_w_space.ud and data/tokens_w_space.LANG files).
-[Line                   1525]: 'i láthair' in column FORM is not on the list of exceptions allowed to contain whitespace (data/tokens_w_space.ud and data/tokens_w_space.LANG files).
-[Line                   1525]: 'i láthair' in column LEMMA is not on the list of exceptions allowed to contain whitespace (data/tokens_w_space.ud and data/tokens_w_space.LANG files).
-[Line                   1756]: 'tar éis' in column FORM is not on the list of exceptions allowed to contain whitespace (data/tokens_w_space.ud and data/tokens_w_space.LANG files).
-[Line                   1756]: 'tar éis' in column LEMMA is not on the list of exceptions allowed to contain whitespace (data/tokens_w_space.ud and data/tokens_w_space.LANG files).
-[Line                   1828]: 'maidir le' in column FORM is not on the list of exceptions allowed to contain whitespace (data/tokens_w_space.ud and data/tokens_w_space.LANG files).
-...suppressing further errors regarding Format
-[Line                   4889]: Unknown attribute-value pair Negative=Neg
-*** FAILED *** with 1357 errors
-Format errors: 235
-Metadata errors: 1121
-Morpho errors: 1
-The language-specific file /home/ginter/UD_PROJHOOK/tools/data/tokens_w_space.ga does not exist.
+*** PASSED ***
 
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang ga /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Irish/ga-ud-train.conllu
+python tools/validate.py --lang ga UD-dev-branches/UD_Irish/ga-ud-train.conllu
 
-[Line                   30]: 'Átha Cliath' in column FORM is not on the list of exceptions allowed to contain whitespace (data/tokens_w_space.ud and data/tokens_w_space.LANG files).
-[Line                   30]: 'Átha Cliath' in column LEMMA is not on the list of exceptions allowed to contain whitespace (data/tokens_w_space.ud and data/tokens_w_space.LANG files).
-[Line                   52]: 'go leor' in column FORM is not on the list of exceptions allowed to contain whitespace (data/tokens_w_space.ud and data/tokens_w_space.LANG files).
-[Line                   52]: 'go leor' in column LEMMA is not on the list of exceptions allowed to contain whitespace (data/tokens_w_space.ud and data/tokens_w_space.LANG files).
-[Line                   62]: 'Tar éis' in column FORM is not on the list of exceptions allowed to contain whitespace (data/tokens_w_space.ud and data/tokens_w_space.LANG files).
-[Line                   62]: 'tar éis' in column LEMMA is not on the list of exceptions allowed to contain whitespace (data/tokens_w_space.ud and data/tokens_w_space.LANG files).
-[Line                   159]: 'i gcoinne' in column FORM is not on the list of exceptions allowed to contain whitespace (data/tokens_w_space.ud and data/tokens_w_space.LANG files).
-[Line                   159]: 'i gcoinne' in column LEMMA is not on the list of exceptions allowed to contain whitespace (data/tokens_w_space.ud and data/tokens_w_space.LANG files).
-[Line                   298]: 'maidir le' in column FORM is not on the list of exceptions allowed to contain whitespace (data/tokens_w_space.ud and data/tokens_w_space.LANG files).
-[Line                   298]: 'maidir le' in column LEMMA is not on the list of exceptions allowed to contain whitespace (data/tokens_w_space.ud and data/tokens_w_space.LANG files).
-[Line                   474]: 'Cill Chainnigh' in column FORM is not on the list of exceptions allowed to contain whitespace (data/tokens_w_space.ud and data/tokens_w_space.LANG files).
-[Line                   474]: 'Cill Chainnigh' in column LEMMA is not on the list of exceptions allowed to contain whitespace (data/tokens_w_space.ud and data/tokens_w_space.LANG files).
-[Line                   571]: 'Loch Garman' in column FORM is not on the list of exceptions allowed to contain whitespace (data/tokens_w_space.ud and data/tokens_w_space.LANG files).
-[Tree number 22 on line 576]: Mismatch between the text attribute and the FORM field. Form is ''' but text is ' 'maidí-úachtaracha' ...'
-[Tree number 22 on line 576]: Mismatch between the text attribute and the FORM field. Form is 'maidí-úachtaracha' but text is ' 'maidí-úachtaracha' orthú?...'
-[Tree number 22 on line 576]: Mismatch between the text attribute and the FORM field. Form is ''' but text is ' 'maidí-úachtaracha' ...'
-[Tree number 22 on line 576]: Mismatch between the text attribute and the FORM field. Form is 'orthú' but text is ' 'maidí-úachtaracha' orth...'
-[Tree number 22 on line 576]: Mismatch between the text attribute and the FORM field. Form is '?' but text is ' 'maidí-úachtaracha' ...'
-[Line                   589]: Extra characters at the end of the text attribute, not accounted for in the FORM fields: ' 'maidí-úachtaracha' orthú?'
-[Line                   642]: 'ar ais' in column FORM is not on the list of exceptions allowed to contain whitespace (data/tokens_w_space.ud and data/tokens_w_space.LANG files).
-[Line                   642]: 'ar ais' in column LEMMA is not on the list of exceptions allowed to contain whitespace (data/tokens_w_space.ud and data/tokens_w_space.LANG files).
-[Tree number 36 on line 863]: Mismatch between the text attribute and the FORM field. Form is 'Ó' but text is ' Ó Síocháin comparáid...'
-[Tree number 36 on line 863]: Mismatch between the text attribute and the FORM field. Form is 'Síocháin' but text is ' Ó Síocháin comparáid idir a...'
-[Tree number 36 on line 863]: Mismatch between the text attribute and the FORM field. Form is 'comparáid' but text is ' Ó Síocháin comparáid idir an...'
-[Tree number 36 on line 863]: Mismatch between the text attribute and the FORM field. Form is 'idir' but text is ' Ó Síocháin comparáid id...'
-[Tree number 36 on line 863]: Mismatch between the text attribute and the FORM field. Form is 'an' but text is ' Ó Síocháin comparáid ...'
-[Tree number 36 on line 863]: Mismatch between the text attribute and the FORM field. Form is 'muileata' but text is ' Ó Síocháin comparáid idir a...'
-[Tree number 36 on line 863]: Mismatch between the text attribute and the FORM field. Form is 'deartha' but text is ' Ó Síocháin comparáid idir ...'
-[Tree number 36 on line 863]: Mismatch between the text attribute and the FORM field. Form is 'ar' but text is ' Ó Síocháin comparáid ...'
-[Tree number 36 on line 863]: Mismatch between the text attribute and the FORM field. Form is 'an' but text is ' Ó Síocháin comparáid ...'
-[Tree number 36 on line 863]: Mismatch between the text attribute and the FORM field. Form is 'gcloch' but text is ' Ó Síocháin comparáid idir...'
-[Tree number 36 on line 863]: Mismatch between the text attribute and the FORM field. Form is 'i' but text is ' Ó Síocháin comparáid...'
-[Tree number 36 on line 863]: Mismatch between the text attribute and the FORM field. Form is 'mBrú' but text is ' Ó Síocháin comparáid id...'
-[Tree number 36 on line 863]: Mismatch between the text attribute and the FORM field. Form is 'na' but text is ' Ó Síocháin comparáid ...'
-...suppressing further errors regarding Metadata
-[Line                   1027]: 'thar ceann' in column FORM is not on the list of exceptions allowed to contain whitespace (data/tokens_w_space.ud and data/tokens_w_space.LANG files).
-[Line                   1027]: 'thar ceann' in column LEMMA is not on the list of exceptions allowed to contain whitespace (data/tokens_w_space.ud and data/tokens_w_space.LANG files).
-[Line                   1032]: 'thar ceann' in column FORM is not on the list of exceptions allowed to contain whitespace (data/tokens_w_space.ud and data/tokens_w_space.LANG files).
-[Line                   1032]: 'thar ceann' in column LEMMA is not on the list of exceptions allowed to contain whitespace (data/tokens_w_space.ud and data/tokens_w_space.LANG files).
-...suppressing further errors regarding Format
-*** FAILED *** with 126 errors
-Format errors: 47
-Metadata errors: 79
-The language-specific file /home/ginter/UD_PROJHOOK/tools/data/tokens_w_space.ga does not exist.
+*** PASSED ***
 
 
 ******************
