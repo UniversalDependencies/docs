@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- Syntactic validation'
 udver:  '2'
 ---
 
-Regenerated <time class="timeago" datetime="2017-02-15T00:43:11Z">2017-02-15T00:43:11 zulu</time>
+Regenerated <time class="timeago" datetime="2017-02-15T00:54:46Z">2017-02-15T00:54:46 zulu</time>
 
 # Aux chain
 
@@ -4201,7 +4201,7 @@ Hits table not produced since the query does not start with the simple token spe
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_Bulgarian</span>
-<span class="widespan">122 hits</span>
+<span class="widespan">17 hits</span>
 </div>
 <div>
 <a href="http://bionlp-www.utu.fi/dep_search/query?search=%28PRON%7CDET%29%26%21PronType&db=UD_Bulgarian-dev">Go to search</a><p/>
@@ -4556,7 +4556,7 @@ Hits table not produced since the query does not start with the simple token spe
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_Bulgarian</span>
-<span class="widespan">63 hits</span>
+<span class="widespan">3 hits</span>
 </div>
 <div>
 <a href="http://bionlp-www.utu.fi/dep_search/query?search=NUM%26%21NumType&db=UD_Bulgarian-dev">Go to search</a><p/>
@@ -4883,7 +4883,7 @@ Hits table not produced since the query does not start with the simple token spe
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_Bulgarian</span>
-<span class="widespan">141 hits</span>
+<span class="widespan">6 hits</span>
 </div>
 <div>
 <a href="http://bionlp-www.utu.fi/dep_search/query?search=%28VERB%29%26%21VerbForm&db=UD_Bulgarian-dev">Go to search</a><p/>
@@ -5339,7 +5339,7 @@ Hits table not produced since the query does not start with the simple token spe
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_Bulgarian</span>
-<span class="widespan">4 hits</span>
+<span class="widespan">20 hits</span>
 </div>
 <div>
 <a href="http://bionlp-www.utu.fi/dep_search/query?search=Degree%26%21ADJ%26%21ADV&db=UD_Bulgarian-dev">Go to search</a><p/>
