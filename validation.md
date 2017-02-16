@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-02-16T17:23:04Z">2017-02-16T17:23:04 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-02-16T19:44:02Z">2017-02-16T19:44:02 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -2040,11 +2040,11 @@ python tools/validate.py --lang ru UD-dev-branches/UD_Russian/ru-ud-train.conllu
 <span class="doublewidespan" style="padding-left:3em">UD Russian-SynTagRus</span>
 <span class="widespan">ru syntagrus</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-16T11:48:36Z">2017-02-16T11:48:36 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-16T19:42:21Z">2017-02-16T19:42:21 zulu</time></span>
 </div>
 <div>
 <pre>
-python tools/validate.py --lang ru_syntagrus UD-dev-branches/UD_Russian-SynTagRus/ru_syntagrus-ud-dev.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang ru_syntagrus /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Russian-SynTagRus/ru_syntagrus-ud-dev.conllu
 
 [Line                   31]: SpaceAfter=No is missing in the MISC field of node #1 because the text is 'Алгоритм, от имени у[...]'
 [Line                   31]: SpaceAfter=No is missing in the MISC field of node #6 because the text is 'аль-Хорезми, - точны[...]'
@@ -2106,15 +2106,15 @@ python tools/validate.py --lang ru_syntagrus UD-dev-branches/UD_Russian-SynTagRu
 [Line                   6641]: Undefined ID in DEPS: 19.1
 [Line                   6641]: Undefined ID in DEPS: 37.1
 ...suppressing further errors regarding Format
-*** FAILED *** with 22240 errors
+*** FAILED *** with 22235 errors
 Format errors: 292
 Metadata errors: 21731
-Syntax errors: 217
+Syntax errors: 212
 
 
 ******************
 
-python tools/validate.py --lang ru_syntagrus UD-dev-branches/UD_Russian-SynTagRus/ru_syntagrus-ud-train.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang ru_syntagrus /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Russian-SynTagRus/ru_syntagrus-ud-train.conllu
 
 [Line                   6]: SpaceAfter=No is missing in the MISC field of node #1 because the text is 'Анкета.'
 [Line                   44]: SpaceAfter=No is missing in the MISC field of node #9 because the text is 'простой, приходил на[...]'
@@ -2138,16 +2138,12 @@ python tools/validate.py --lang ru_syntagrus UD-dev-branches/UD_Russian-SynTagRu
 ...suppressing further errors regarding Metadata
 [Line                   922]: Undefined ID in DEPS: 2.1
 [Line                   922]: Undefined ID in DEPS: 2.1
-[Line                   4353]: Unknown UD DEPREL: nummod:entity
 [Line                   5249]: Unknown UD DEPREL: nmod:agent
 [Line                   5280]: Unknown UD DEPREL: nmod:agent
 [Line                   5347]: Unknown UD DEPREL: nmod:agent
-[Line                   5639]: Unknown UD DEPREL: nummod:entity
 [Line                   5801]: Unknown UD DEPREL: nmod:agent
-[Line                   5896]: Unknown UD DEPREL: nummod:entity
 [Line                   5909]: Unknown UD DEPREL: nmod:agent
 [Line                   6110]: Unknown UD DEPREL: nmod:agent
-[Line                   6175]: Unknown UD DEPREL: nummod:entity
 [Line                   7081]: Unknown UD DEPREL: nmod:agent
 [Line                   8356]: Undefined ID in DEPS: 3.1
 [Line                   8356]: Undefined ID in DEPS: 3.1
@@ -2175,11 +2171,15 @@ python tools/validate.py --lang ru_syntagrus UD-dev-branches/UD_Russian-SynTagRu
 ...suppressing further errors regarding Format
 [Line                   17616]: Unknown UD DEPREL: nmod:agent
 [Line                   18846]: Unknown UD DEPREL: nmod:agent
+[Line                   19140]: Unknown UD DEPREL: nmod:agent
+[Line                   19671]: Unknown UD DEPREL: nmod:agent
+[Line                   19712]: Unknown UD DEPREL: nmod:agent
+[Line                   25608]: Unknown UD DEPREL: nmod:agent
 ...suppressing further errors regarding Syntax
-*** FAILED *** with 154512 errors
+*** FAILED *** with 154461 errors
 Format errors: 1417
 Metadata errors: 151479
-Syntax errors: 1616
+Syntax errors: 1565
 
 
 ******************
