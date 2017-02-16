@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-02-16T01:21:38Z">2017-02-16T01:21:38 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-02-16T02:59:31Z">2017-02-16T02:59:31 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -2056,62 +2056,21 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang ro /home/ginter/UD_PROJ
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD Russian</span>
 <span class="widespan">ru</span>
-<span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-15T22:17:20Z">2017-02-15T22:17:20 zulu</time></span>
+<span class="validationpass">PASS</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-16T02:59:24Z">2017-02-16T02:59:24 zulu</time></span>
 </div>
 <div>
 <pre>
 python tools/validate.py --lang ru UD-dev-branches/UD_Russian/ru-ud-dev.conllu
 
-[Line                   3462]: Unknown UD DEPREL: remnant
-[Line                   3465]: Unknown UD DEPREL: remnant
-[Line                   3656]: Unknown UD DEPREL: remnant
-[Line                   3660]: Unknown UD DEPREL: remnant
-[Line                   5391]: Unknown UD DEPREL: remnant
-[Line                   5393]: Unknown UD DEPREL: remnant
-[Line                   7341]: Unknown UD DEPREL: remnant
-[Line                   7345]: Unknown UD DEPREL: remnant
-[Line                   10064]: Unknown UD DEPREL: remnant
-[Line                   12473]: Unknown UD DEPREL: remnant
-[Line                   12477]: Unknown UD DEPREL: remnant
-[Line                   12479]: Unknown UD DEPREL: remnant
-[Line                   12483]: Unknown UD DEPREL: remnant
-[Line                   12905]: Unknown UD DEPREL: remnant
-[Line                   12907]: Unknown UD DEPREL: remnant
-[Line                   13613]: Missing empty line after the last tree.
-*** FAILED *** with 16 errors
-Format errors: 1
-Syntax errors: 15
+*** PASSED ***
 
 
 ******************
 
 python tools/validate.py --lang ru UD-dev-branches/UD_Russian/ru-ud-train.conllu
 
-[Line                   931]: Unknown UD DEPREL: remnant
-[Line                   1783]: Unknown UD DEPREL: remnant
-[Line                   1788]: Unknown UD DEPREL: remnant
-[Line                   1792]: Unknown UD DEPREL: remnant
-[Line                   1873]: Unknown UD DEPREL: remnant
-[Line                   1875]: Unknown UD DEPREL: remnant
-[Line                   5922]: Unknown UD DEPREL: remnant
-[Line                   6189]: Unknown UD DEPREL: remnant
-[Line                   6195]: Unknown UD DEPREL: remnant
-[Line                   7092]: Unknown UD DEPREL: remnant
-[Line                   7095]: Unknown UD DEPREL: remnant
-[Line                   7803]: Unknown UD DEPREL: remnant
-[Line                   9848]: Unknown UD DEPREL: remnant
-[Line                   9850]: Unknown UD DEPREL: remnant
-[Line                   9994]: Unknown UD DEPREL: remnant
-[Line                   9998]: Unknown UD DEPREL: remnant
-[Line                   10174]: Unknown UD DEPREL: remnant
-[Line                   10175]: Unknown UD DEPREL: remnant
-[Line                   10479]: Unknown UD DEPREL: remnant
-...suppressing further errors regarding Syntax
-[Line                   87513]: Missing empty line after the last tree.
-*** FAILED *** with 161 errors
-Format errors: 1
-Syntax errors: 160
+*** PASSED ***
 
 
 ******************
