@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-02-16T11:59:51Z">2017-02-16T11:59:51 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-02-16T13:56:46Z">2017-02-16T13:56:46 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -1172,38 +1172,21 @@ python tools/validate.py --lang el UD-dev-branches/UD_Greek/el-ud-train.conllu
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD Hebrew</span>
 <span class="widespan">he</span>
-<span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-16T11:56:30Z">2017-02-16T11:56:30 zulu</time></span>
+<span class="validationpass">PASS</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-16T13:03:26Z">2017-02-16T13:03:26 zulu</time></span>
 </div>
 <div>
 <pre>
 python tools/validate.py --lang he UD-dev-branches/UD_Hebrew/he-ud-dev.conllu
 
-[Line                   5931]: Unknown UD DEPREL: obl:poss
-[Line                   7128]: Unknown UD DEPREL: obl:poss
-*** FAILED *** with 2 errors
-Syntax errors: 2
+*** PASSED ***
 
 
 ******************
 
 python tools/validate.py --lang he UD-dev-branches/UD_Hebrew/he-ud-train.conllu
 
-[Line                   15370]: Unknown UD DEPREL: obl:poss
-[Line                   28605]: Unknown UD DEPREL: obl:poss
-[Line                   44264]: Unknown UD DEPREL: obl:poss
-[Line                   45496]: Unknown UD DEPREL: obl:poss
-[Line                   56951]: Unknown UD DEPREL: obl:poss
-[Line                   79413]: Unknown UD DEPREL: obl:poss
-[Line                   101520]: Unknown UD DEPREL: obl:poss
-[Line                   118467]: Unknown UD DEPREL: obl:poss
-[Line                   153387]: Unknown UD DEPREL: obl:poss
-[Line                   162304]: Unknown UD DEPREL: obl:poss
-[Line                   162636]: Unknown UD DEPREL: obl:poss
-[Line                   167339]: Unknown UD DEPREL: obl:poss
-[Line                   170708]: Unknown UD DEPREL: obl:poss
-*** FAILED *** with 13 errors
-Syntax errors: 13
+*** PASSED ***
 
 
 ******************
@@ -1416,7 +1399,7 @@ python tools/validate.py --lang id UD-dev-branches/UD_Indonesian/id-ud-train.con
 <span class="doublewidespan" style="padding-left:3em">UD Irish</span>
 <span class="widespan">ga</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-16T11:33:31Z">2017-02-16T11:33:31 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-16T13:56:45Z">2017-02-16T13:56:45 zulu</time></span>
 </div>
 <div>
 <pre>
