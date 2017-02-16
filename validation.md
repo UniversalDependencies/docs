@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-02-16T11:07:41Z">2017-02-16T11:07:41 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-02-16T11:29:17Z">2017-02-16T11:29:17 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -364,39 +364,39 @@ python tools/validate.py --lang hr UD-dev-branches/UD_Croatian/hr-ud-train.conll
 <span class="doublewidespan" style="padding-left:3em">UD Czech</span>
 <span class="widespan">cs</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-15T21:47:16Z">2017-02-15T21:47:16 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-16T11:11:31Z">2017-02-16T11:11:31 zulu</time></span>
 </div>
 <div>
 <pre>
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang cs /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Czech/cs-ud-dev.conllu
+python tools/validate.py --lang cs UD-dev-branches/UD_Czech/cs-ud-dev.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang cs /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Czech/cs-ud-train-c.conllu
+python tools/validate.py --lang cs UD-dev-branches/UD_Czech/cs-ud-train-c.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang cs /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Czech/cs-ud-train-l.conllu
+python tools/validate.py --lang cs UD-dev-branches/UD_Czech/cs-ud-train-l.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang cs /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Czech/cs-ud-train-m.conllu
+python tools/validate.py --lang cs UD-dev-branches/UD_Czech/cs-ud-train-m.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang cs /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Czech/cs-ud-train-v.conllu
+python tools/validate.py --lang cs UD-dev-branches/UD_Czech/cs-ud-train-v.conllu
 
 *** PASSED ***
 
@@ -410,18 +410,18 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang cs /home/ginter/UD_PROJ
 <span class="doublewidespan" style="padding-left:3em">UD Czech-CAC</span>
 <span class="widespan">cs cac</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-15T21:49:02Z">2017-02-15T21:49:02 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-16T11:15:46Z">2017-02-16T11:15:46 zulu</time></span>
 </div>
 <div>
 <pre>
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang cs_cac /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Czech-CAC/cs_cac-ud-dev.conllu
+python tools/validate.py --lang cs_cac UD-dev-branches/UD_Czech-CAC/cs_cac-ud-dev.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang cs_cac /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Czech-CAC/cs_cac-ud-train.conllu
+python tools/validate.py --lang cs_cac UD-dev-branches/UD_Czech-CAC/cs_cac-ud-train.conllu
 
 *** PASSED ***
 
@@ -435,7 +435,7 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang cs_cac /home/ginter/UD_
 <span class="doublewidespan" style="padding-left:3em">UD Czech-CLTT</span>
 <span class="widespan">cs cltt</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-16T01:19:08Z">2017-02-16T01:19:08 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-16T11:16:49Z">2017-02-16T11:16:49 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -460,18 +460,18 @@ python tools/validate.py --lang cs_cltt UD-dev-branches/UD_Czech-CLTT/cs_cltt-ud
 <span class="doublewidespan" style="padding-left:3em">UD Danish</span>
 <span class="widespan">da</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-15T21:49:48Z">2017-02-15T21:49:48 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-16T11:17:25Z">2017-02-16T11:17:25 zulu</time></span>
 </div>
 <div>
 <pre>
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang da /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Danish/da-ud-dev.conllu
+python tools/validate.py --lang da UD-dev-branches/UD_Danish/da-ud-dev.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang da /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Danish/da-ud-train.conllu
+python tools/validate.py --lang da UD-dev-branches/UD_Danish/da-ud-train.conllu
 
 *** PASSED ***
 
@@ -485,18 +485,18 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang da /home/ginter/UD_PROJ
 <span class="doublewidespan" style="padding-left:3em">UD Dutch</span>
 <span class="widespan">nl</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-15T21:49:54Z">2017-02-15T21:49:54 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-16T11:18:16Z">2017-02-16T11:18:16 zulu</time></span>
 </div>
 <div>
 <pre>
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang nl /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Dutch/nl-ud-dev.conllu
+python tools/validate.py --lang nl UD-dev-branches/UD_Dutch/nl-ud-dev.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang nl /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Dutch/nl-ud-train.conllu
+python tools/validate.py --lang nl UD-dev-branches/UD_Dutch/nl-ud-train.conllu
 
 *** PASSED ***
 
@@ -510,18 +510,18 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang nl /home/ginter/UD_PROJ
 <span class="doublewidespan" style="padding-left:3em">UD Dutch-LassySmall</span>
 <span class="widespan">nl lassysmall</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-15T21:50:08Z">2017-02-15T21:50:08 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-16T11:18:59Z">2017-02-16T11:18:59 zulu</time></span>
 </div>
 <div>
 <pre>
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang nl_lassysmall /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Dutch-LassySmall/nl_lassysmall-ud-dev.conllu
+python tools/validate.py --lang nl_lassysmall UD-dev-branches/UD_Dutch-LassySmall/nl_lassysmall-ud-dev.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang nl_lassysmall /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Dutch-LassySmall/nl_lassysmall-ud-train.conllu
+python tools/validate.py --lang nl_lassysmall UD-dev-branches/UD_Dutch-LassySmall/nl_lassysmall-ud-train.conllu
 
 *** PASSED ***
 
@@ -535,7 +535,7 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang nl_lassysmall /home/gin
 <span class="doublewidespan" style="padding-left:3em">UD English</span>
 <span class="widespan">en</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-16T01:21:24Z">2017-02-16T01:21:24 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-16T11:19:54Z">2017-02-16T11:19:54 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -560,11 +560,11 @@ python tools/validate.py --lang en UD-dev-branches/UD_English/en-ud-train.conllu
 <span class="doublewidespan" style="padding-left:3em">UD English-ESL</span>
 <span class="widespan">en esl</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-15T21:50:27Z">2017-02-15T21:50:27 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-16T11:20:36Z">2017-02-16T11:20:36 zulu</time></span>
 </div>
 <div>
 <pre>
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang en_esl /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_English-ESL/en_esl-ud-dev.conllu
+python tools/validate.py --lang en_esl UD-dev-branches/UD_English-ESL/en_esl-ud-dev.conllu
 
 [Line                   15]: Unknown UD DEPREL: neg
 [Line                   17]: Unknown UD DEPREL: dobj
@@ -634,7 +634,7 @@ Syntax errors: 794
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang en_esl /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_English-ESL/en_esl-ud-train.conllu
+python tools/validate.py --lang en_esl UD-dev-branches/UD_English-ESL/en_esl-ud-train.conllu
 
 [Line                   13]: Unknown UPOS tag: CONJ
 [Line                   18]: Unknown UD DEPREL: dobj
@@ -711,18 +711,18 @@ Syntax errors: 6400
 <span class="doublewidespan" style="padding-left:3em">UD English-LinES</span>
 <span class="widespan">en lines</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-15T21:50:31Z">2017-02-15T21:50:31 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-16T11:21:07Z">2017-02-16T11:21:07 zulu</time></span>
 </div>
 <div>
 <pre>
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang en_lines /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_English-LinES/en_lines-ud-dev.conllu
+python tools/validate.py --lang en_lines UD-dev-branches/UD_English-LinES/en_lines-ud-dev.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang en_lines /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_English-LinES/en_lines-ud-train.conllu
+python tools/validate.py --lang en_lines UD-dev-branches/UD_English-LinES/en_lines-ud-train.conllu
 
 *** PASSED ***
 
@@ -736,18 +736,18 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang en_lines /home/ginter/U
 <span class="doublewidespan" style="padding-left:3em">UD English-ParTUT</span>
 <span class="widespan">en partut</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-15T21:50:34Z">2017-02-15T21:50:34 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-16T11:21:32Z">2017-02-16T11:21:32 zulu</time></span>
 </div>
 <div>
 <pre>
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang en_partut /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_English-ParTUT/en_partut-ud-dev.conllu
+python tools/validate.py --lang en_partut UD-dev-branches/UD_English-ParTUT/en_partut-ud-dev.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang en_partut /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_English-ParTUT/en_partut-ud-train.conllu
+python tools/validate.py --lang en_partut UD-dev-branches/UD_English-ParTUT/en_partut-ud-train.conllu
 
 *** PASSED ***
 
@@ -761,18 +761,18 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang en_partut /home/ginter/
 <span class="doublewidespan" style="padding-left:3em">UD Estonian</span>
 <span class="widespan">et</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-15T21:50:36Z">2017-02-15T21:50:36 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-16T11:21:55Z">2017-02-16T11:21:55 zulu</time></span>
 </div>
 <div>
 <pre>
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang et /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Estonian/et-ud-dev.conllu
+python tools/validate.py --lang et UD-dev-branches/UD_Estonian/et-ud-dev.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang et /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Estonian/et-ud-train.conllu
+python tools/validate.py --lang et UD-dev-branches/UD_Estonian/et-ud-train.conllu
 
 *** PASSED ***
 
@@ -786,7 +786,7 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang et /home/ginter/UD_PROJ
 <span class="doublewidespan" style="padding-left:3em">UD Faroese</span>
 <span class="widespan">fo</span>
 <span class="validationfail">EMPTY</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-15T21:50:39Z">2017-02-15T21:50:39 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-16T11:22:02Z">2017-02-16T11:22:02 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -797,7 +797,7 @@ No data
 <span class="doublewidespan" style="padding-left:3em">UD Finnish</span>
 <span class="widespan">fi</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-16T10:12:26Z">2017-02-16T10:12:26 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-16T11:22:48Z">2017-02-16T11:22:48 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -822,18 +822,18 @@ python tools/validate.py --lang fi UD-dev-branches/UD_Finnish/fi-ud-train.conllu
 <span class="doublewidespan" style="padding-left:3em">UD Finnish-FTB</span>
 <span class="widespan">fi ftb</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-15T21:50:51Z">2017-02-15T21:50:51 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-16T11:23:49Z">2017-02-16T11:23:49 zulu</time></span>
 </div>
 <div>
 <pre>
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang fi_ftb /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Finnish-FTB/fi_ftb-ud-dev.conllu
+python tools/validate.py --lang fi_ftb UD-dev-branches/UD_Finnish-FTB/fi_ftb-ud-dev.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang fi_ftb /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Finnish-FTB/fi_ftb-ud-train.conllu
+python tools/validate.py --lang fi_ftb UD-dev-branches/UD_Finnish-FTB/fi_ftb-ud-train.conllu
 
 *** PASSED ***
 
@@ -847,18 +847,18 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang fi_ftb /home/ginter/UD_
 <span class="doublewidespan" style="padding-left:3em">UD French</span>
 <span class="widespan">fr</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-15T21:51:01Z">2017-02-15T21:51:01 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-16T11:25:09Z">2017-02-16T11:25:09 zulu</time></span>
 </div>
 <div>
 <pre>
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang fr /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_French/fr-ud-dev.conllu
+python tools/validate.py --lang fr UD-dev-branches/UD_French/fr-ud-dev.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang fr /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_French/fr-ud-train.conllu
+python tools/validate.py --lang fr UD-dev-branches/UD_French/fr-ud-train.conllu
 
 *** PASSED ***
 
@@ -872,18 +872,18 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang fr /home/ginter/UD_PROJ
 <span class="doublewidespan" style="padding-left:3em">UD French-ParTUT</span>
 <span class="widespan">fr partut</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-15T21:51:25Z">2017-02-15T21:51:25 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-16T11:25:55Z">2017-02-16T11:25:55 zulu</time></span>
 </div>
 <div>
 <pre>
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang fr_partut /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_French-ParTUT/fr_partut-ud-dev.conllu
+python tools/validate.py --lang fr_partut UD-dev-branches/UD_French-ParTUT/fr_partut-ud-dev.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang fr_partut /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_French-ParTUT/fr_partut-ud-train.conllu
+python tools/validate.py --lang fr_partut UD-dev-branches/UD_French-ParTUT/fr_partut-ud-train.conllu
 
 *** PASSED ***
 
@@ -897,18 +897,18 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang fr_partut /home/ginter/
 <span class="doublewidespan" style="padding-left:3em">UD French-Sequoia</span>
 <span class="widespan">fr sequoia</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-15T21:51:26Z">2017-02-15T21:51:26 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-16T11:26:17Z">2017-02-16T11:26:17 zulu</time></span>
 </div>
 <div>
 <pre>
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang fr_sequoia /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_French-Sequoia/fr_sequoia-ud-dev.conllu
+python tools/validate.py --lang fr_sequoia UD-dev-branches/UD_French-Sequoia/fr_sequoia-ud-dev.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang fr_sequoia /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_French-Sequoia/fr_sequoia-ud-train.conllu
+python tools/validate.py --lang fr_sequoia UD-dev-branches/UD_French-Sequoia/fr_sequoia-ud-train.conllu
 
 *** PASSED ***
 
@@ -922,11 +922,11 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang fr_sequoia /home/ginter
 <span class="doublewidespan" style="padding-left:3em">UD Galician</span>
 <span class="widespan">gl</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-15T21:51:30Z">2017-02-15T21:51:30 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-16T11:26:49Z">2017-02-16T11:26:49 zulu</time></span>
 </div>
 <div>
 <pre>
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang gl /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Galician/gl-ud-dev.conllu
+python tools/validate.py --lang gl UD-dev-branches/UD_Galician/gl-ud-dev.conllu
 
 [Line                   24]: Unknown UD DEPREL: dobj
 [Line                   30]: Unknown UPOS tag: CONJ
@@ -996,7 +996,7 @@ Syntax errors: 1705
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang gl /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Galician/gl-ud-train.conllu
+python tools/validate.py --lang gl UD-dev-branches/UD_Galician/gl-ud-train.conllu
 
 [Line                   5]: Unknown UD DEPREL: dobj
 [Line                   8]: Unknown UD DEPREL: dobj
@@ -1073,18 +1073,18 @@ Syntax errors: 4346
 <span class="doublewidespan" style="padding-left:3em">UD Galician-TreeGal</span>
 <span class="widespan">gl treegal</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-15T21:51:35Z">2017-02-15T21:51:35 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-16T11:27:13Z">2017-02-16T11:27:13 zulu</time></span>
 </div>
 <div>
 <pre>
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang gl_treegal /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Galician-TreeGal/gl_treegal-ud-dev.conllu
+python tools/validate.py --lang gl_treegal UD-dev-branches/UD_Galician-TreeGal/gl_treegal-ud-dev.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang gl_treegal /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Galician-TreeGal/gl_treegal-ud-train.conllu
+python tools/validate.py --lang gl_treegal UD-dev-branches/UD_Galician-TreeGal/gl_treegal-ud-train.conllu
 
 *** PASSED ***
 
@@ -1098,18 +1098,18 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang gl_treegal /home/ginter
 <span class="doublewidespan" style="padding-left:3em">UD German</span>
 <span class="widespan">de</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-15T21:51:37Z">2017-02-15T21:51:37 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-16T11:28:17Z">2017-02-16T11:28:17 zulu</time></span>
 </div>
 <div>
 <pre>
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang de /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_German/de-ud-dev.conllu
+python tools/validate.py --lang de UD-dev-branches/UD_German/de-ud-dev.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang de /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_German/de-ud-train.conllu
+python tools/validate.py --lang de UD-dev-branches/UD_German/de-ud-train.conllu
 
 *** PASSED ***
 
@@ -1123,18 +1123,18 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang de /home/ginter/UD_PROJ
 <span class="doublewidespan" style="padding-left:3em">UD Gothic</span>
 <span class="widespan">got</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-15T21:51:54Z">2017-02-15T21:51:54 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-16T11:29:07Z">2017-02-16T11:29:07 zulu</time></span>
 </div>
 <div>
 <pre>
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang got /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Gothic/got-ud-dev.conllu
+python tools/validate.py --lang got UD-dev-branches/UD_Gothic/got-ud-dev.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang got /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Gothic/got-ud-train.conllu
+python tools/validate.py --lang got UD-dev-branches/UD_Gothic/got-ud-train.conllu
 
 *** PASSED ***
 
@@ -1148,7 +1148,7 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang got /home/ginter/UD_PRO
 <span class="doublewidespan" style="padding-left:3em">UD Greek</span>
 <span class="widespan">el</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-16T07:42:05Z">2017-02-16T07:42:05 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-16T11:29:12Z">2017-02-16T11:29:12 zulu</time></span>
 </div>
 <div>
 <pre>
