@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-02-16T20:17:05Z">2017-02-16T20:17:05 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-02-16T20:38:16Z">2017-02-16T20:38:16 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -2039,147 +2039,21 @@ python tools/validate.py --lang ru UD-dev-branches/UD_Russian/ru-ud-train.conllu
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD Russian-SynTagRus</span>
 <span class="widespan">ru syntagrus</span>
-<span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-16T19:42:21Z">2017-02-16T19:42:21 zulu</time></span>
+<span class="validationpass">PASS</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-16T20:36:46Z">2017-02-16T20:36:46 zulu</time></span>
 </div>
 <div>
 <pre>
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang ru_syntagrus /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Russian-SynTagRus/ru_syntagrus-ud-dev.conllu
+python tools/validate.py --lang ru_syntagrus UD-dev-branches/UD_Russian-SynTagRus/ru_syntagrus-ud-dev.conllu
 
-[Line                   31]: SpaceAfter=No is missing in the MISC field of node #1 because the text is 'Алгоритм, от имени у[...]'
-[Line                   31]: SpaceAfter=No is missing in the MISC field of node #6 because the text is 'аль-Хорезми, - точны[...]'
-[Line                   31]: SpaceAfter=No is missing in the MISC field of node #7 because the text is '-Хорезми, - точный н[...]'
-[Line                   31]: SpaceAfter=No is missing in the MISC field of node #8 because the text is 'Хорезми, - точный на[...]'
-[Line                   31]: SpaceAfter=No is missing in the MISC field of node #13 because the text is 'инструкций, описываю[...]'
-[Line                   31]: SpaceAfter=No is missing in the MISC field of node #26 because the text is 'время.'
-[Line                   70]: SpaceAfter=No is missing in the MISC field of node #6 because the text is '"порядок" использова[...]'
-[Line                   70]: SpaceAfter=No is missing in the MISC field of node #7 because the text is 'порядок" использовал[...]'
-[Line                   70]: SpaceAfter=No is missing in the MISC field of node #11 because the text is '"последовательность"[...]'
-[Line                   70]: SpaceAfter=No is missing in the MISC field of node #12 because the text is 'последовательность",[...]'
-[Line                   70]: SpaceAfter=No is missing in the MISC field of node #13 because the text is '", но по мере развит[...]'
-[Line                   70]: SpaceAfter=No is missing in the MISC field of node #24 because the text is '"последовательность"[...]'
-[Line                   70]: SpaceAfter=No is missing in the MISC field of node #25 because the text is 'последовательность" [...]'
-[Line                   70]: SpaceAfter=No is missing in the MISC field of node #32 because the text is '"порядок".'
-[Line                   70]: SpaceAfter=No is missing in the MISC field of node #33 because the text is 'порядок".'
-[Line                   70]: SpaceAfter=No is missing in the MISC field of node #34 because the text is '".'
-[Line                   95]: SpaceAfter=No is missing in the MISC field of node #4 because the text is 'тем, что работа каки[...]'
-[Line                   95]: SpaceAfter=No is missing in the MISC field of node #20 because the text is 'работы.'
-[Line                   117]: SpaceAfter=No is missing in the MISC field of node #2 because the text is 'образом, некоторые и[...]'
-...suppressing further errors regarding Metadata
-[Line                   550]: Unknown UD DEPREL: nmod:agent
-[Line                   1430]: Unknown UD DEPREL: nmod:agent
-[Line                   1587]: Unknown UD DEPREL: nmod:agent
-[Line                   1640]: Unknown UD DEPREL: nmod:agent
-[Line                   2567]: Unknown UD DEPREL: nmod:agent
-[Line                   2741]: Unknown UD DEPREL: nmod:agent
-[Line                   3073]: Unknown UD DEPREL: nmod:agent
-[Line                   3470]: Undefined ID in DEPS: 18.1
-[Line                   3470]: Undefined ID in DEPS: 18.1
-[Line                   3470]: Undefined ID in DEPS: 18.1
-[Line                   3470]: Undefined ID in DEPS: 18.1
-[Line                   3583]: Unknown UD DEPREL: nmod:agent
-[Line                   4179]: Unknown UD DEPREL: nmod:agent
-[Line                   4260]: Unknown UD DEPREL: nmod:agent
-[Line                   4611]: Unknown UD DEPREL: nmod:agent
-[Line                   4637]: Unknown UD DEPREL: nmod:agent
-[Line                   4692]: Unknown UD DEPREL: nmod:agent
-[Line                   4726]: Unknown UD DEPREL: nmod:agent
-[Line                   4824]: Unknown UD DEPREL: nmod:agent
-[Line                   4852]: Unknown UD DEPREL: nmod:agent
-[Line                   4872]: Unknown UD DEPREL: nmod:agent
-[Line                   4897]: Unknown UD DEPREL: nmod:agent
-[Line                   4919]: Unknown UD DEPREL: nmod:agent
-...suppressing further errors regarding Syntax
-[Line                   5926]: Undefined ID in DEPS: 18.1
-[Line                   5926]: Undefined ID in DEPS: 18.1
-[Line                   5926]: Undefined ID in DEPS: 26.1
-[Line                   5926]: Undefined ID in DEPS: 26.1
-[Line                   6641]: Undefined ID in DEPS: 19.1
-[Line                   6641]: Undefined ID in DEPS: 19.1
-[Line                   6641]: Undefined ID in DEPS: 25.1
-[Line                   6641]: Undefined ID in DEPS: 19.1
-[Line                   6641]: Undefined ID in DEPS: 25.1
-[Line                   6641]: Undefined ID in DEPS: 31.1
-[Line                   6641]: Undefined ID in DEPS: 19.1
-[Line                   6641]: Undefined ID in DEPS: 31.1
-[Line                   6641]: Undefined ID in DEPS: 37.1
-[Line                   6641]: Undefined ID in DEPS: 19.1
-[Line                   6641]: Undefined ID in DEPS: 37.1
-...suppressing further errors regarding Format
-*** FAILED *** with 22235 errors
-Format errors: 292
-Metadata errors: 21731
-Syntax errors: 212
+*** PASSED ***
 
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang ru_syntagrus /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Russian-SynTagRus/ru_syntagrus-ud-train.conllu
+python tools/validate.py --lang ru_syntagrus UD-dev-branches/UD_Russian-SynTagRus/ru_syntagrus-ud-train.conllu
 
-[Line                   6]: SpaceAfter=No is missing in the MISC field of node #1 because the text is 'Анкета.'
-[Line                   44]: SpaceAfter=No is missing in the MISC field of node #9 because the text is 'простой, приходил на[...]'
-[Line                   44]: SpaceAfter=No is missing in the MISC field of node #15 because the text is 'вовремя, здоровался [...]'
-[Line                   44]: SpaceAfter=No is missing in the MISC field of node #31 because the text is '"Муха".'
-[Line                   44]: SpaceAfter=No is missing in the MISC field of node #32 because the text is 'Муха".'
-[Line                   44]: SpaceAfter=No is missing in the MISC field of node #33 because the text is '".'
-[Line                   82]: SpaceAfter=No is missing in the MISC field of node #7 because the text is 'посетители, - кое-кт[...]'
-[Line                   82]: SpaceAfter=No is missing in the MISC field of node #13 because the text is 'делами, а кое-кто и [...]'
-[Line                   82]: SpaceAfter=No is missing in the MISC field of node #19 because the text is 'такими, которые легк[...]'
-[Line                   82]: SpaceAfter=No is missing in the MISC field of node #28 because the text is 'инстанциях, не затру[...]'
-[Line                   82]: SpaceAfter=No is missing in the MISC field of node #33 because the text is 'Еремеевича.'
-[Line                   105]: SpaceAfter=No is missing in the MISC field of node #8 because the text is 'том, чтобы принимать[...]'
-[Line                   105]: SpaceAfter=No is missing in the MISC field of node #18 because the text is 'дело.'
-[Line                   117]: SpaceAfter=No is missing in the MISC field of node #4 because the text is 'просто, но по-деловому.'
-[Line                   117]: SpaceAfter=No is missing in the MISC field of node #7 because the text is 'по-деловому.'
-[Line                   136]: SpaceAfter=No is missing in the MISC field of node #5 because the text is 'секретарши, на столе[...]'
-[Line                   136]: SpaceAfter=No is missing in the MISC field of node #14 because the text is 'кареткой.'
-[Line                   176]: SpaceAfter=No is missing in the MISC field of node #14 because the text is 'того, чтобы заглушат[...]'
-[Line                   176]: SpaceAfter=No is missing in the MISC field of node #19 because the text is 'начальника, доносивш[...]'
-...suppressing further errors regarding Metadata
-[Line                   922]: Undefined ID in DEPS: 2.1
-[Line                   922]: Undefined ID in DEPS: 2.1
-[Line                   5249]: Unknown UD DEPREL: nmod:agent
-[Line                   5280]: Unknown UD DEPREL: nmod:agent
-[Line                   5347]: Unknown UD DEPREL: nmod:agent
-[Line                   5801]: Unknown UD DEPREL: nmod:agent
-[Line                   5909]: Unknown UD DEPREL: nmod:agent
-[Line                   6110]: Unknown UD DEPREL: nmod:agent
-[Line                   7081]: Unknown UD DEPREL: nmod:agent
-[Line                   8356]: Undefined ID in DEPS: 3.1
-[Line                   8356]: Undefined ID in DEPS: 3.1
-[Line                   11569]: Unknown UD DEPREL: nmod:agent
-[Line                   11682]: Unknown UD DEPREL: nmod:agent
-[Line                   11767]: Undefined ID in DEPS: 5.1
-[Line                   11767]: Undefined ID in DEPS: 5.1
-[Line                   11767]: Undefined ID in DEPS: 5.1
-[Line                   11811]: Undefined ID in DEPS: 2.1
-[Line                   11811]: Undefined ID in DEPS: 2.1
-[Line                   11811]: Undefined ID in DEPS: 2.1
-[Line                   11811]: Undefined ID in DEPS: 2.1
-[Line                   12781]: Undefined ID in DEPS: 2.1
-[Line                   12781]: Undefined ID in DEPS: 2.1
-[Line                   12781]: Undefined ID in DEPS: 2.1
-[Line                   12922]: Unknown UD DEPREL: nmod:agent
-[Line                   13268]: Unknown UD DEPREL: nmod:agent
-[Line                   13374]: Unknown UD DEPREL: nmod:agent
-[Line                   14496]: Unknown UD DEPREL: nmod:agent
-[Line                   14729]: Undefined ID in DEPS: 2.1
-[Line                   14729]: Undefined ID in DEPS: 2.1
-[Line                   14729]: Undefined ID in DEPS: 2.1
-[Line                   14729]: Undefined ID in DEPS: 2.1
-[Line                   14740]: Undefined ID in DEPS: 1.1
-...suppressing further errors regarding Format
-[Line                   17616]: Unknown UD DEPREL: nmod:agent
-[Line                   18846]: Unknown UD DEPREL: nmod:agent
-[Line                   19140]: Unknown UD DEPREL: nmod:agent
-[Line                   19671]: Unknown UD DEPREL: nmod:agent
-[Line                   19712]: Unknown UD DEPREL: nmod:agent
-[Line                   25608]: Unknown UD DEPREL: nmod:agent
-...suppressing further errors regarding Syntax
-*** FAILED *** with 154461 errors
-Format errors: 1417
-Metadata errors: 151479
-Syntax errors: 1565
+*** PASSED ***
 
 
 ******************
