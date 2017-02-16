@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-02-16T10:29:41Z">2017-02-16T10:29:41 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-02-16T10:47:35Z">2017-02-16T10:47:35 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -1172,21 +1172,105 @@ python tools/validate.py --lang el UD-dev-branches/UD_Greek/el-ud-train.conllu
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD Hebrew</span>
 <span class="widespan">he</span>
-<span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-16T10:18:24Z">2017-02-16T10:18:24 zulu</time></span>
+<span class="validationfail">FAIL</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-16T10:47:18Z">2017-02-16T10:47:18 zulu</time></span>
 </div>
 <div>
 <pre>
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang he /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Hebrew/he-ud-dev.conllu
+python tools/validate.py --lang he UD-dev-branches/UD_Hebrew/he-ud-dev.conllu
 
-*** PASSED ***
+[Line                   27]: SpaceAfter=No is missing in the MISC field of node #11-12 because the text is 'כמתנדבים, אך למעשה מ[...]'
+[Line                   27]: SpaceAfter=No is missing in the MISC field of node #19 because the text is 'זולים.'
+[Line                   59]: SpaceAfter=No is missing in the MISC field of node #13-14 because the text is 'הכנסת, שדנה בנושא הע[...]'
+[Line                   59]: SpaceAfter=No is missing in the MISC field of node #22 because the text is 'זרים.'
+[Line                   101]: SpaceAfter=No is missing in the MISC field of node #2-3 because the text is 'הוועדה, ח"כ אורה נמי[...]'
+[Line                   101]: SpaceAfter=No is missing in the MISC field of node #8 because the text is '(מערך), טענה כי "מבי[...]'
+[Line                   101]: SpaceAfter=No is missing in the MISC field of node #9 because the text is 'מערך), טענה כי "מביא[...]'
+[Line                   101]: SpaceAfter=No is missing in the MISC field of node #10 because the text is '), טענה כי "מביאים ע[...]'
+[Line                   101]: SpaceAfter=No is missing in the MISC field of node #14 because the text is '"מביאים עובדים זרים [...]'
+[Line                   101]: SpaceAfter=No is missing in the MISC field of node #24-25 because the text is 'מתאילנד, רק כדי לא ל[...]'
+[Line                   101]: SpaceAfter=No is missing in the MISC field of node #34 because the text is 'מינימום.'
+[Line                   145]: SpaceAfter=No is missing in the MISC field of node #10-11 because the text is 'המינימום, ומצד שני מ[...]'
+[Line                   145]: SpaceAfter=No is missing in the MISC field of node #31 because the text is 'זה.'
+[Tree number 4 on line 104]: Mismatch between the text attribute and the FORM field. Form is '"' but text is '....'
+[Line                   196]: SpaceAfter=No is missing in the MISC field of node #19-20 because the text is 'המושבים, בתביעה לבטל[...]'
+[Line                   196]: SpaceAfter=No is missing in the MISC field of node #37 because the text is 'כביכול.'
+[Line                   255]: SpaceAfter=No is missing in the MISC field of node #13-14 because the text is 'הזרים, שתכלול איסור [...]'
+[Line                   255]: SpaceAfter=No is missing in the MISC field of node #40-41 because the text is 'העבודה.'
+[Line                   284]: SpaceAfter=No is missing in the MISC field of node #2 because the text is 'כן, תציב הצעת החוק ע[...]'
+...suppressing further errors regarding Metadata
+[Line                   370]: Unknown UD DEPREL: obl:smixut
+[Line                   1018]: Unknown UD DEPREL: obl:smixut
+[Line                   2507]: Unknown UD DEPREL: obl:smixut
+[Line                   2511]: Unknown UD DEPREL: obl:smixut
+[Line                   3190]: Unknown UD DEPREL: obl:smixut
+[Line                   3346]: Unknown UD DEPREL: obl:smixut
+[Line                   3360]: Unknown UD DEPREL: obl:smixut
+[Line                   5389]: Unknown UD DEPREL: nmod:tmod
+[Line                   5554]: Unknown UD DEPREL: obl:smixut
+[Line                   5920]: Unknown UD DEPREL: obl:smixut
+[Line                   5928]: Unknown UD DEPREL: obl:smixut
+[Line                   5931]: Unknown UD DEPREL: obl:poss
+[Line                   6609]: Unknown UD DEPREL: obl:smixut
+[Line                   7128]: Unknown UD DEPREL: obl:poss
+[Line                   8026]: Unknown UD DEPREL: obl:smixut
+[Line                   8808]: Unknown UD DEPREL: obl:smixut
+[Line                   10243]: Unknown UD DEPREL: obl:smixut
+[Line                   11812]: Unknown UD DEPREL: obl:smixut
+[Line                   11883]: Unknown UD DEPREL: obl:smixut
+...suppressing further errors regarding Syntax
+*** FAILED *** with 1292 errors
+Metadata errors: 1270
+Syntax errors: 22
 
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang he /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Hebrew/he-ud-train.conllu
+python tools/validate.py --lang he UD-dev-branches/UD_Hebrew/he-ud-train.conllu
 
-*** PASSED ***
+[Line                   21]: SpaceAfter=No is missing in the MISC field of node #14 because the text is 'דם.'
+[Line                   40]: SpaceAfter=No is missing in the MISC field of node #12 because the text is 'ראשונה.'
+[Line                   74]: SpaceAfter=No is missing in the MISC field of node #23-24 because the text is 'הרכב.'
+[Line                   109]: SpaceAfter=No is missing in the MISC field of node #7-8 because the text is 'האמבולנס, כשפניהם אל[...]'
+[Line                   109]: SpaceAfter=No is missing in the MISC field of node #15-16 because the text is 'המתפרעים, כדי לסוכך [...]'
+[Line                   109]: SpaceAfter=No is missing in the MISC field of node #23-24 because the text is 'הערבי.'
+[Line                   143]: SpaceAfter=No is missing in the MISC field of node #5 because the text is 'לנסוע, איבד השוטר את[...]'
+[Line                   143]: SpaceAfter=No is missing in the MISC field of node #12-13 because the text is 'המשקל, מעד ונחת כשעו[...]'
+[Line                   143]: SpaceAfter=No is missing in the MISC field of node #22-24 because the text is 'לקרקע.'
+[Line                   154]: SpaceAfter=No is missing in the MISC field of node #4-6 because the text is 'הכרתו.'
+[Line                   168]: SpaceAfter=No is missing in the MISC field of node #7-8 because the text is 'האמבולנס.'
+[Line                   200]: SpaceAfter=No is missing in the MISC field of node #21 because the text is 'ישראל.'
+[Line                   230]: SpaceAfter=No is missing in the MISC field of node #2 because the text is 'פולק, מנכ"ל כך, אחז [...]'
+[Line                   230]: SpaceAfter=No is missing in the MISC field of node #5 because the text is 'כך, אחז בידו רמקול ו[...]'
+[Line                   230]: SpaceAfter=No is missing in the MISC field of node #20-22 because the text is 'ביהודים.'
+[Line                   252]: SpaceAfter=No is missing in the MISC field of node #5 because the text is 'קריאות: אחרי ההלוויי[...]'
+[Line                   252]: SpaceAfter=No is missing in the MISC field of node #14-15 because the text is 'הבית.'
+[Line                   263]: SpaceAfter=No is missing in the MISC field of node #5 because the text is 'אחד.'
+[Line                   284]: SpaceAfter=No is missing in the MISC field of node #2-4 because the text is 'לערבים, מוות לשמאלני[...]'
+...suppressing further errors regarding Metadata
+[Line                   568]: Unknown UD DEPREL: obl:smixut
+[Line                   1999]: Unknown UD DEPREL: obl:smixut
+[Line                   2141]: Unknown UD DEPREL: obl:smixut
+[Line                   4351]: Unknown UD DEPREL: obl:smixut
+[Line                   4365]: Unknown UD DEPREL: obl:smixut
+[Line                   8606]: Unknown UD DEPREL: obl:smixut
+[Line                   9656]: Unknown UD DEPREL: obl:smixut
+[Line                   9859]: Unknown UD DEPREL: obl:smixut
+[Line                   11231]: Unknown UD DEPREL: obl:smixut
+[Line                   13474]: Unknown UD DEPREL: obl:smixut
+[Line                   15142]: Unknown UD DEPREL: obl:smixut
+[Line                   15367]: Unknown UD DEPREL: obl:smixut
+[Line                   15370]: Unknown UD DEPREL: obl:poss
+[Line                   15841]: Unknown UD DEPREL: obl:smixut
+[Line                   18093]: Unknown UD DEPREL: obl:smixut
+[Line                   22355]: Unknown UD DEPREL: obl:smixut
+[Line                   22590]: Unknown UD DEPREL: obl:smixut
+[Line                   22593]: Unknown UD DEPREL: obl:smixut
+[Line                   22881]: Unknown UD DEPREL: obl:smixut
+...suppressing further errors regarding Syntax
+*** FAILED *** with 13169 errors
+Metadata errors: 13013
+Syntax errors: 156
 
 
 ******************
