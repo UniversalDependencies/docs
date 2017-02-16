@@ -90,6 +90,8 @@ def get_license_span(lic):
         return license_span.format(license=lic,licenseshort="""<img class="license" src="logos/by.svg"/>""")
     elif "GPL" in lic:
         return license_span.format(license=lic,licenseshort="""<img class="license" src="logos/gpl.svg"/>""")
+    elif "LGPLLR" in lic:
+        return license_span.format(license=lic,licenseshort="""<img class="license" src="logos/LGPLLR.svg"/>""")
     else:
         return license_span.format(license=lic,licenseshort=""" """)
 
