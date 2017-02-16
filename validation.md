@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-02-16T02:59:31Z">2017-02-16T02:59:31 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-02-16T09:56:10Z">2017-02-16T09:56:10 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -797,18 +797,18 @@ No data
 <span class="doublewidespan" style="padding-left:3em">UD Finnish</span>
 <span class="widespan">fi</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-15T21:50:39Z">2017-02-15T21:50:39 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-16T09:55:53Z">2017-02-16T09:55:53 zulu</time></span>
 </div>
 <div>
 <pre>
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang fi /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Finnish/fi-ud-dev.conllu
+python tools/validate.py --lang fi UD-dev-branches/UD_Finnish/fi-ud-dev.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang fi /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Finnish/fi-ud-train.conllu
+python tools/validate.py --lang fi UD-dev-branches/UD_Finnish/fi-ud-train.conllu
 
 *** PASSED ***
 
@@ -1148,18 +1148,18 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang got /home/ginter/UD_PRO
 <span class="doublewidespan" style="padding-left:3em">UD Greek</span>
 <span class="widespan">el</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-15T21:51:58Z">2017-02-15T21:51:58 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-16T07:42:05Z">2017-02-16T07:42:05 zulu</time></span>
 </div>
 <div>
 <pre>
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang el /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Greek/el-ud-dev.conllu
+python tools/validate.py --lang el UD-dev-branches/UD_Greek/el-ud-dev.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang el /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Greek/el-ud-train.conllu
+python tools/validate.py --lang el UD-dev-branches/UD_Greek/el-ud-train.conllu
 
 *** PASSED ***
 
