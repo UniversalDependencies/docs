@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-02-16T10:12:41Z">2017-02-16T10:12:41 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-02-16T10:18:12Z">2017-02-16T10:18:12 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -1172,63 +1172,21 @@ python tools/validate.py --lang el UD-dev-branches/UD_Greek/el-ud-train.conllu
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD Hebrew</span>
 <span class="widespan">he</span>
-<span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-15T21:52:01Z">2017-02-15T21:52:01 zulu</time></span>
+<span class="validationpass">PASS</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-16T10:18:11Z">2017-02-16T10:18:11 zulu</time></span>
 </div>
 <div>
 <pre>
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang he /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Hebrew/he-ud-dev.conllu
+python tools/validate.py --lang he UD-dev-branches/UD_Hebrew/he-ud-dev.conllu
 
-[Line                   33]: Unknown UD DEPREL: obl:tmod
-[Line                   39]: Unknown UD DEPREL: compound:smixut
-[Line                   55]: Unknown UD DEPREL: compound:smixut
-[Line                   56]: Unknown UD DEPREL: compound:smixut
-[Line                   65]: Unknown UD DEPREL: compound:smixut
-[Line                   69]: Unknown UD DEPREL: flat:name
-[Line                   93]: Unknown UD DEPREL: neg
-[Line                   99]: Unknown UD DEPREL: compound:smixut
-[Line                   117]: Unknown UD DEPREL: compound:smixut
-[Line                   128]: Unknown UD DEPREL: compound:smixut
-[Line                   157]: Unknown UD DEPREL: compound:smixut
-[Line                   170]: Unknown UD DEPREL: compound:smixut
-[Line                   173]: Unknown UD DEPREL: compound:smixut
-[Line                   206]: Unknown UD DEPREL: compound:smixut
-[Line                   212]: Unknown UD DEPREL: compound:smixut
-[Line                   223]: Unknown UD DEPREL: compound:smixut
-[Line                   234]: Unknown UD DEPREL: compound:smixut
-[Line                   240]: Unknown UD DEPREL: compound:smixut
-[Line                   252]: Unknown UD DEPREL: compound:smixut
-...suppressing further errors regarding Syntax
-*** FAILED *** with 890 errors
-Syntax errors: 890
+*** PASSED ***
 
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang he /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Hebrew/he-ud-train.conllu
+python tools/validate.py --lang he UD-dev-branches/UD_Hebrew/he-ud-train.conllu
 
-[Line                   19]: Unknown UD DEPREL: compound:smixut
-[Line                   25]: Unknown UD DEPREL: compound:smixut
-[Line                   72]: Unknown UD DEPREL: compound:smixut
-[Line                   87]: Unknown UD DEPREL: compound:smixut
-[Line                   126]: Unknown UD DEPREL: compound:smixut
-[Line                   158]: Unknown UD DEPREL: neg
-[Line                   178]: Unknown UD DEPREL: compound:smixut
-[Line                   185]: Unknown UD DEPREL: compound:smixut
-[Line                   195]: Unknown UD DEPREL: flat:name
-[Line                   201]: Unknown UD DEPREL: flat:name
-[Line                   204]: Unknown UD DEPREL: compound:smixut
-[Line                   246]: Unknown UD DEPREL: compound:smixut
-[Line                   278]: Unknown UD DEPREL: flat:name
-[Line                   294]: Unknown UD DEPREL: compound:smixut
-[Line                   310]: Unknown UD DEPREL: flat:name
-[Line                   340]: Unknown UD DEPREL: compound:smixut
-[Line                   349]: Unknown UD DEPREL: compound:smixut
-[Line                   375]: Unknown UD DEPREL: compound:smixut
-[Line                   379]: Unknown UD DEPREL: compound:smixut
-...suppressing further errors regarding Syntax
-*** FAILED *** with 10664 errors
-Syntax errors: 10664
+*** PASSED ***
 
 
 ******************
