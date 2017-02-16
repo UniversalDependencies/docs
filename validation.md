@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-02-16T10:47:35Z">2017-02-16T10:47:35 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-02-16T11:05:56Z">2017-02-16T11:05:56 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -13,7 +13,7 @@ Regenerated: <time class="timeago" datetime="2017-02-16T10:47:35Z">2017-02-16T10
 <span class="doublewidespan" style="padding-left:3em">UD Amharic</span>
 <span class="widespan">am</span>
 <span class="validationfail">EMPTY</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-15T21:44:24Z">2017-02-15T21:44:24 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-16T10:54:11Z">2017-02-16T10:54:11 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -24,7 +24,7 @@ No data
 <span class="doublewidespan" style="padding-left:3em">UD Ancient Greek</span>
 <span class="widespan">grc</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-15T23:32:43Z">2017-02-15T23:32:43 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-16T10:55:02Z">2017-02-16T10:55:02 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -49,18 +49,18 @@ python tools/validate.py --lang grc UD-dev-branches/UD_Ancient_Greek/grc-ud-trai
 <span class="doublewidespan" style="padding-left:3em">UD Ancient Greek-PROIEL</span>
 <span class="widespan">grc proiel</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-15T21:44:37Z">2017-02-15T21:44:37 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-16T10:56:08Z">2017-02-16T10:56:08 zulu</time></span>
 </div>
 <div>
 <pre>
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang grc_proiel /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Ancient_Greek-PROIEL/grc_proiel-ud-dev.conllu
+python tools/validate.py --lang grc_proiel UD-dev-branches/UD_Ancient_Greek-PROIEL/grc_proiel-ud-dev.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang grc_proiel /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Ancient_Greek-PROIEL/grc_proiel-ud-train.conllu
+python tools/validate.py --lang grc_proiel UD-dev-branches/UD_Ancient_Greek-PROIEL/grc_proiel-ud-train.conllu
 
 *** PASSED ***
 
@@ -74,18 +74,18 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang grc_proiel /home/ginter
 <span class="doublewidespan" style="padding-left:3em">UD Arabic</span>
 <span class="widespan">ar</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-15T21:44:53Z">2017-02-15T21:44:53 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-16T10:57:36Z">2017-02-16T10:57:36 zulu</time></span>
 </div>
 <div>
 <pre>
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang ar /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Arabic/ar-ud-dev.conllu
+python tools/validate.py --lang ar UD-dev-branches/UD_Arabic/ar-ud-dev.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang ar /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Arabic/ar-ud-train.conllu
+python tools/validate.py --lang ar UD-dev-branches/UD_Arabic/ar-ud-train.conllu
 
 *** PASSED ***
 
@@ -110,25 +110,25 @@ No data
 <span class="doublewidespan" style="padding-left:3em">UD Arabic-NYUAD</span>
 <span class="widespan">ar nyuad</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-15T21:45:13Z">2017-02-15T21:45:13 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-16T10:59:56Z">2017-02-16T10:59:56 zulu</time></span>
 </div>
 <div>
 <pre>
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang ar_nyuad /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Arabic-NYUAD/ar_nyuad-ud-dev.conllu
+python tools/validate.py --lang ar_nyuad UD-dev-branches/UD_Arabic-NYUAD/ar_nyuad-ud-dev.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang ar_nyuad /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Arabic-NYUAD/ar_nyuad-ud-test.conllu
+python tools/validate.py --lang ar_nyuad UD-dev-branches/UD_Arabic-NYUAD/ar_nyuad-ud-test.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang ar_nyuad /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Arabic-NYUAD/ar_nyuad-ud-train.conllu
+python tools/validate.py --lang ar_nyuad UD-dev-branches/UD_Arabic-NYUAD/ar_nyuad-ud-train.conllu
 
 *** PASSED ***
 
@@ -142,18 +142,18 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang ar_nyuad /home/ginter/U
 <span class="doublewidespan" style="padding-left:3em">UD Basque</span>
 <span class="widespan">eu</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-15T21:46:09Z">2017-02-15T21:46:09 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-16T11:01:47Z">2017-02-16T11:01:47 zulu</time></span>
 </div>
 <div>
 <pre>
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang eu /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Basque/eu-ud-dev.conllu
+python tools/validate.py --lang eu UD-dev-branches/UD_Basque/eu-ud-dev.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang eu /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Basque/eu-ud-train.conllu
+python tools/validate.py --lang eu UD-dev-branches/UD_Basque/eu-ud-train.conllu
 
 *** PASSED ***
 
@@ -167,25 +167,25 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang eu /home/ginter/UD_PROJ
 <span class="doublewidespan" style="padding-left:3em">UD Belarusian</span>
 <span class="widespan">be</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-15T21:46:16Z">2017-02-15T21:46:16 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-16T11:02:12Z">2017-02-16T11:02:12 zulu</time></span>
 </div>
 <div>
 <pre>
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang be /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Belarusian/be-ud-dev.conllu
+python tools/validate.py --lang be UD-dev-branches/UD_Belarusian/be-ud-dev.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang be /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Belarusian/be-ud-test.conllu
+python tools/validate.py --lang be UD-dev-branches/UD_Belarusian/be-ud-test.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang be /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Belarusian/be-ud-train.conllu
+python tools/validate.py --lang be UD-dev-branches/UD_Belarusian/be-ud-train.conllu
 
 *** PASSED ***
 
@@ -199,18 +199,18 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang be /home/ginter/UD_PROJ
 <span class="doublewidespan" style="padding-left:3em">UD Bulgarian</span>
 <span class="widespan">bg</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-15T21:46:16Z">2017-02-15T21:46:16 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-16T11:02:52Z">2017-02-16T11:02:52 zulu</time></span>
 </div>
 <div>
 <pre>
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang bg /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Bulgarian/bg-ud-dev.conllu
+python tools/validate.py --lang bg UD-dev-branches/UD_Bulgarian/bg-ud-dev.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang bg /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Bulgarian/bg-ud-train.conllu
+python tools/validate.py --lang bg UD-dev-branches/UD_Bulgarian/bg-ud-train.conllu
 
 *** PASSED ***
 
@@ -224,7 +224,7 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang bg /home/ginter/UD_PROJ
 <span class="doublewidespan" style="padding-left:3em">UD Buryat</span>
 <span class="widespan">bxr</span>
 <span class="validationfail">EMPTY</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-15T21:46:27Z">2017-02-15T21:46:27 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-16T11:03:09Z">2017-02-16T11:03:09 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -235,7 +235,7 @@ No data
 <span class="doublewidespan" style="padding-left:3em">UD Cantonese</span>
 <span class="widespan">yue</span>
 <span class="validationfail">EMPTY</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-15T21:46:27Z">2017-02-15T21:46:27 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-16T11:03:13Z">2017-02-16T11:03:13 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -246,18 +246,18 @@ No data
 <span class="doublewidespan" style="padding-left:3em">UD Catalan</span>
 <span class="widespan">ca</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-15T21:46:27Z">2017-02-15T21:46:27 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-16T11:04:37Z">2017-02-16T11:04:37 zulu</time></span>
 </div>
 <div>
 <pre>
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang ca /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Catalan/ca-ud-dev.conllu
+python tools/validate.py --lang ca UD-dev-branches/UD_Catalan/ca-ud-dev.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang ca /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Catalan/ca-ud-train.conllu
+python tools/validate.py --lang ca UD-dev-branches/UD_Catalan/ca-ud-train.conllu
 
 *** PASSED ***
 
@@ -1173,32 +1173,12 @@ python tools/validate.py --lang el UD-dev-branches/UD_Greek/el-ud-train.conllu
 <span class="doublewidespan" style="padding-left:3em">UD Hebrew</span>
 <span class="widespan">he</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-16T10:47:18Z">2017-02-16T10:47:18 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-16T11:05:38Z">2017-02-16T11:05:38 zulu</time></span>
 </div>
 <div>
 <pre>
 python tools/validate.py --lang he UD-dev-branches/UD_Hebrew/he-ud-dev.conllu
 
-[Line                   27]: SpaceAfter=No is missing in the MISC field of node #11-12 because the text is 'כמתנדבים, אך למעשה מ[...]'
-[Line                   27]: SpaceAfter=No is missing in the MISC field of node #19 because the text is 'זולים.'
-[Line                   59]: SpaceAfter=No is missing in the MISC field of node #13-14 because the text is 'הכנסת, שדנה בנושא הע[...]'
-[Line                   59]: SpaceAfter=No is missing in the MISC field of node #22 because the text is 'זרים.'
-[Line                   101]: SpaceAfter=No is missing in the MISC field of node #2-3 because the text is 'הוועדה, ח"כ אורה נמי[...]'
-[Line                   101]: SpaceAfter=No is missing in the MISC field of node #8 because the text is '(מערך), טענה כי "מבי[...]'
-[Line                   101]: SpaceAfter=No is missing in the MISC field of node #9 because the text is 'מערך), טענה כי "מביא[...]'
-[Line                   101]: SpaceAfter=No is missing in the MISC field of node #10 because the text is '), טענה כי "מביאים ע[...]'
-[Line                   101]: SpaceAfter=No is missing in the MISC field of node #14 because the text is '"מביאים עובדים זרים [...]'
-[Line                   101]: SpaceAfter=No is missing in the MISC field of node #24-25 because the text is 'מתאילנד, רק כדי לא ל[...]'
-[Line                   101]: SpaceAfter=No is missing in the MISC field of node #34 because the text is 'מינימום.'
-[Line                   145]: SpaceAfter=No is missing in the MISC field of node #10-11 because the text is 'המינימום, ומצד שני מ[...]'
-[Line                   145]: SpaceAfter=No is missing in the MISC field of node #31 because the text is 'זה.'
-[Tree number 4 on line 104]: Mismatch between the text attribute and the FORM field. Form is '"' but text is '....'
-[Line                   196]: SpaceAfter=No is missing in the MISC field of node #19-20 because the text is 'המושבים, בתביעה לבטל[...]'
-[Line                   196]: SpaceAfter=No is missing in the MISC field of node #37 because the text is 'כביכול.'
-[Line                   255]: SpaceAfter=No is missing in the MISC field of node #13-14 because the text is 'הזרים, שתכלול איסור [...]'
-[Line                   255]: SpaceAfter=No is missing in the MISC field of node #40-41 because the text is 'העבודה.'
-[Line                   284]: SpaceAfter=No is missing in the MISC field of node #2 because the text is 'כן, תציב הצעת החוק ע[...]'
-...suppressing further errors regarding Metadata
 [Line                   370]: Unknown UD DEPREL: obl:smixut
 [Line                   1018]: Unknown UD DEPREL: obl:smixut
 [Line                   2507]: Unknown UD DEPREL: obl:smixut
@@ -1219,8 +1199,7 @@ python tools/validate.py --lang he UD-dev-branches/UD_Hebrew/he-ud-dev.conllu
 [Line                   11812]: Unknown UD DEPREL: obl:smixut
 [Line                   11883]: Unknown UD DEPREL: obl:smixut
 ...suppressing further errors regarding Syntax
-*** FAILED *** with 1292 errors
-Metadata errors: 1270
+*** FAILED *** with 22 errors
 Syntax errors: 22
 
 
@@ -1228,26 +1207,6 @@ Syntax errors: 22
 
 python tools/validate.py --lang he UD-dev-branches/UD_Hebrew/he-ud-train.conllu
 
-[Line                   21]: SpaceAfter=No is missing in the MISC field of node #14 because the text is 'דם.'
-[Line                   40]: SpaceAfter=No is missing in the MISC field of node #12 because the text is 'ראשונה.'
-[Line                   74]: SpaceAfter=No is missing in the MISC field of node #23-24 because the text is 'הרכב.'
-[Line                   109]: SpaceAfter=No is missing in the MISC field of node #7-8 because the text is 'האמבולנס, כשפניהם אל[...]'
-[Line                   109]: SpaceAfter=No is missing in the MISC field of node #15-16 because the text is 'המתפרעים, כדי לסוכך [...]'
-[Line                   109]: SpaceAfter=No is missing in the MISC field of node #23-24 because the text is 'הערבי.'
-[Line                   143]: SpaceAfter=No is missing in the MISC field of node #5 because the text is 'לנסוע, איבד השוטר את[...]'
-[Line                   143]: SpaceAfter=No is missing in the MISC field of node #12-13 because the text is 'המשקל, מעד ונחת כשעו[...]'
-[Line                   143]: SpaceAfter=No is missing in the MISC field of node #22-24 because the text is 'לקרקע.'
-[Line                   154]: SpaceAfter=No is missing in the MISC field of node #4-6 because the text is 'הכרתו.'
-[Line                   168]: SpaceAfter=No is missing in the MISC field of node #7-8 because the text is 'האמבולנס.'
-[Line                   200]: SpaceAfter=No is missing in the MISC field of node #21 because the text is 'ישראל.'
-[Line                   230]: SpaceAfter=No is missing in the MISC field of node #2 because the text is 'פולק, מנכ"ל כך, אחז [...]'
-[Line                   230]: SpaceAfter=No is missing in the MISC field of node #5 because the text is 'כך, אחז בידו רמקול ו[...]'
-[Line                   230]: SpaceAfter=No is missing in the MISC field of node #20-22 because the text is 'ביהודים.'
-[Line                   252]: SpaceAfter=No is missing in the MISC field of node #5 because the text is 'קריאות: אחרי ההלוויי[...]'
-[Line                   252]: SpaceAfter=No is missing in the MISC field of node #14-15 because the text is 'הבית.'
-[Line                   263]: SpaceAfter=No is missing in the MISC field of node #5 because the text is 'אחד.'
-[Line                   284]: SpaceAfter=No is missing in the MISC field of node #2-4 because the text is 'לערבים, מוות לשמאלני[...]'
-...suppressing further errors regarding Metadata
 [Line                   568]: Unknown UD DEPREL: obl:smixut
 [Line                   1999]: Unknown UD DEPREL: obl:smixut
 [Line                   2141]: Unknown UD DEPREL: obl:smixut
@@ -1268,8 +1227,7 @@ python tools/validate.py --lang he UD-dev-branches/UD_Hebrew/he-ud-train.conllu
 [Line                   22593]: Unknown UD DEPREL: obl:smixut
 [Line                   22881]: Unknown UD DEPREL: obl:smixut
 ...suppressing further errors regarding Syntax
-*** FAILED *** with 13169 errors
-Metadata errors: 13013
+*** FAILED *** with 156 errors
 Syntax errors: 156
 
 
