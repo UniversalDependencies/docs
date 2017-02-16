@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-02-16T11:53:29Z">2017-02-16T11:53:29 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-02-16T11:56:45Z">2017-02-16T11:56:45 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -1173,17 +1173,16 @@ python tools/validate.py --lang el UD-dev-branches/UD_Greek/el-ud-train.conllu
 <span class="doublewidespan" style="padding-left:3em">UD Hebrew</span>
 <span class="widespan">he</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-16T11:53:15Z">2017-02-16T11:53:15 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-16T11:56:30Z">2017-02-16T11:56:30 zulu</time></span>
 </div>
 <div>
 <pre>
 python tools/validate.py --lang he UD-dev-branches/UD_Hebrew/he-ud-dev.conllu
 
-[Line                   5389]: Unknown UD DEPREL: nmod:tmod
 [Line                   5931]: Unknown UD DEPREL: obl:poss
 [Line                   7128]: Unknown UD DEPREL: obl:poss
-*** FAILED *** with 3 errors
-Syntax errors: 3
+*** FAILED *** with 2 errors
+Syntax errors: 2
 
 
 ******************
@@ -1196,20 +1195,15 @@ python tools/validate.py --lang he UD-dev-branches/UD_Hebrew/he-ud-train.conllu
 [Line                   45496]: Unknown UD DEPREL: obl:poss
 [Line                   56951]: Unknown UD DEPREL: obl:poss
 [Line                   79413]: Unknown UD DEPREL: obl:poss
-[Line                   85576]: Unknown UD DEPREL: nmod:tmod
-[Line                   85799]: Unknown UD DEPREL: nmod:tmod
 [Line                   101520]: Unknown UD DEPREL: obl:poss
 [Line                   118467]: Unknown UD DEPREL: obl:poss
-[Line                   122902]: Unknown UD DEPREL: nmod:tmod
-[Line                   138181]: Unknown UD DEPREL: nmod:tmod
 [Line                   153387]: Unknown UD DEPREL: obl:poss
 [Line                   162304]: Unknown UD DEPREL: obl:poss
 [Line                   162636]: Unknown UD DEPREL: obl:poss
-[Line                   166073]: Unknown UD DEPREL: nmod:tmod
 [Line                   167339]: Unknown UD DEPREL: obl:poss
 [Line                   170708]: Unknown UD DEPREL: obl:poss
-*** FAILED *** with 18 errors
-Syntax errors: 18
+*** FAILED *** with 13 errors
+Syntax errors: 13
 
 
 ******************
@@ -2347,18 +2341,18 @@ No data
 <span class="doublewidespan" style="padding-left:3em">UD Spanish</span>
 <span class="widespan">es</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-15T21:57:13Z">2017-02-15T21:57:13 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-16T11:53:28Z">2017-02-16T11:53:28 zulu</time></span>
 </div>
 <div>
 <pre>
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang es /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Spanish/es-ud-dev.conllu
+python tools/validate.py --lang es UD-dev-branches/UD_Spanish/es-ud-dev.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang es /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Spanish/es-ud-train.conllu
+python tools/validate.py --lang es UD-dev-branches/UD_Spanish/es-ud-train.conllu
 
 *** PASSED ***
 
@@ -2372,18 +2366,18 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang es /home/ginter/UD_PROJ
 <span class="doublewidespan" style="padding-left:3em">UD Spanish-AnCora</span>
 <span class="widespan">es ancora</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-15T21:57:38Z">2017-02-15T21:57:38 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-16T11:55:24Z">2017-02-16T11:55:24 zulu</time></span>
 </div>
 <div>
 <pre>
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang es_ancora /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Spanish-AnCora/es_ancora-ud-dev.conllu
+python tools/validate.py --lang es_ancora UD-dev-branches/UD_Spanish-AnCora/es_ancora-ud-dev.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang es_ancora /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Spanish-AnCora/es_ancora-ud-train.conllu
+python tools/validate.py --lang es_ancora UD-dev-branches/UD_Spanish-AnCora/es_ancora-ud-train.conllu
 
 *** PASSED ***
 
