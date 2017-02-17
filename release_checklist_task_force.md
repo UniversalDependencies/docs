@@ -1,6 +1,7 @@
 ---
 layout: base
 title:  'UD release checklist'
+udver:  '2'
 ---
 
 # UD release checklist for the task force
