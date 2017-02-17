@@ -4,23 +4,23 @@ title: 'Number'
 shortdef: 'number'
 ---
 
-Latvian features number for nouns ([`NOUN`](), [`PROPN`]()), adjectives ([`ADJ`]()), numerals ([`NUM`]()), verbs ([`VERB`]()) and some pronouns ([`PRON`]() and [`DET`]()).
+Latvian features number for nouns ([`NOUN`](), [`PROPN`]()), adjectives ([`ADJ`]()), somenumerals ([`NUM`]()), verbs ([`VERB`]()) and some pronouns ([`PRON`]() and [`DET`]()).
 
 Values used:
 
-* `Sing`
-* `Plur`
-* `Ptan`
-* `Coll` - might be used unevenly as it is hard distinguish from `Sing`
+* `Sing` (singular number)
+* `Plur` (plural number)
+* `Ptan` (plurale tantum)
+* `Coll` (collective / mass / singulare tantum) - might be used unevenly as it is hard distinguish from `Sing`
 
 Theoretically possible values:
 
-* `Dual` - older texts feature forms like _abi roki_ "both hands", however it is so rare in contemporary language that it is absent from corpus.
+* `Dual` (dual number) - older texts feature forms like _abi roki_ "both hands", however it is so rare in contemporary language that it is absent from corpus.
 
 Values not present in Latvian:
 
-* `Tri`
-* `Pauc`
-* `Grpa`
-* `Grpl`
-* `Inv`
+* `Tri` (trial number)
+* `Pauc` (paucal number)
+* `Grpa` (greater paucal number)
+* `Grpl` (greater plural number)
+* `Inv` (inverse number)
