@@ -8,12 +8,12 @@ Latvian features gender for nouns ([`NOUN`](), [`PROPN`]()), adjectives ([`ADJ`]
 
 Values used:
 
-* `Masc`
-* `Fem`
+* `Masc` (masculine gender)
+* `Fem` (feminine gender)
 
 Values not used:
 
-* `Neut`
-* `Com`
+* `Neut` (neuter gender)
+* `Com` (common gender)
 
 Traditional dictionaries describe some nouns, e.g., _bende_, _aitasgalva_ as having common gender, but in Latvian Treebank these are anotated as masculine or feminine based on context and/or singular dative form which differs depending on contextual gender.
