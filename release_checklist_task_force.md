@@ -15,7 +15,7 @@ See [here](release_checklist.html) for the checklist for data contributors.
 * Make sure you have the most current content of all the repositories (note that this command assumes you have not modified your local copy of the data without pushing it back; if this is the case, you will see lists of modified files in the output and you will have to resolve it). Also make sure that you are working with the `dev` branch:<br />
   <code>for i in UD_* ; do pushd $i ; git checkout dev ; git pull --no-edit ; popd ; echo ; done</code>
 * Make sure that all CoNLL-U files are formally valid (results of the validator are [available on-line](validation.html) but make sure that no repository is missing there).<br />
-  <code>for i in UD_* ; do pushd $i ; if [ -f *.conllu ] ; then for j in *.conllu ; do echo $j ; x=$(echo $j | perl -pe 'chomp; s/-ud.*//') ; ../tools/validate.py --lang $x $j ; done ; fi ; popd ; done</code>
+  <code>for i in UD_* ; do cd $i ; if [ -f *-dev.conllu ] ; then for j in *.conllu ; do x=$(echo $j | perl -pe 'chomp; s/-ud.*//') ; if ../tools/validate.py --lang $x $j &gt;&amp; /dev/null ; then echo $j valid ; else echo INVALID ==================== ; fi ; done ; fi ; cd .. ; done</code>
 * Run `tools/check_files.pl` (if there are new languages, you may need to add their codes in the source code first).
   It will visit all UD_* repositories and report any missing files, unexpected or unexpectedly named files.
   It will also collect information such as the list of contributors (we need this metadata for Lindat).
