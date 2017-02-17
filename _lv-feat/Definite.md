@@ -17,5 +17,5 @@ Theoretically possible values:
 
 Values not present in Latvian:
 
-* `Cons` (reducedconstruct state)
+* `Cons` (construct state)
 * `Com` (complex) 
