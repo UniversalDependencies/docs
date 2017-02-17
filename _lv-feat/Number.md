@@ -4,7 +4,7 @@ title: 'Number'
 shortdef: 'number'
 ---
 
-Latvian features number for nouns ([`NOUN`](), [`PROPN`]()), adjectives ([`ADJ`]()), somenumerals ([`NUM`]()), verbs ([`VERB`]()) and some pronouns ([`PRON`]() and [`DET`]()).
+Latvian features number for nouns ([`NOUN`](), [`PROPN`]()), adjectives ([`ADJ`]()), some numerals ([`NUM`]()), verbs ([`VERB`]()) and some pronouns ([`PRON`]() and [`DET`]()).
 
 Values used:
 
