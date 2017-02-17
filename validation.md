@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-02-17T22:09:38Z">2017-02-17T22:09:38 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-02-17T23:28:36Z">2017-02-17T23:28:36 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -1399,18 +1399,18 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang id /home/ginter/UD_PROJ
 <span class="doublewidespan" style="padding-left:3em">UD Irish</span>
 <span class="widespan">ga</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-17T22:09:37Z">2017-02-17T22:09:37 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-17T23:28:35Z">2017-02-17T23:28:35 zulu</time></span>
 </div>
 <div>
 <pre>
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang ga /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Irish/ga-ud-dev.conllu
+python tools/validate.py --lang ga UD-dev-branches/UD_Irish/ga-ud-dev.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang ga /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Irish/ga-ud-train.conllu
+python tools/validate.py --lang ga UD-dev-branches/UD_Irish/ga-ud-train.conllu
 
 *** PASSED ***
 
