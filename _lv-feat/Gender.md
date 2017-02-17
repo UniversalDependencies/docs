@@ -4,7 +4,7 @@ title: 'Gender'
 shortdef: 'gender'
 ---
 
-Latvian features gender for nouns ([`NOUN`](), [`PROPN`]()), adjectives ([`ADJ`]()), numerals ([`NUM`]()), some participles ([`VERB`]() with [`VerbForm=Part`](VerbForm) or [`VerbForm=Conv`](VerbForm)) and some pronouns ([`PRON`]() and [`DET`]()).
+Latvian features gender for nouns ([`NOUN`](), [`PROPN`]()), adjectives ([`ADJ`]()), some numerals ([`NUM`]()), some participles ([`VERB`]() with [`VerbForm=Part`](VerbForm) or [`VerbForm=Conv`](VerbForm)) and some pronouns ([`PRON`]() and [`DET`]()).
 
 Values used:
 
