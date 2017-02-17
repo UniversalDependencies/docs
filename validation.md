@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-02-17T21:56:01Z">2017-02-17T21:56:01 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-02-17T22:09:38Z">2017-02-17T22:09:38 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -1398,63 +1398,21 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang id /home/ginter/UD_PROJ
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD Irish</span>
 <span class="widespan">ga</span>
-<span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-17T21:56:00Z">2017-02-17T21:56:00 zulu</time></span>
+<span class="validationpass">PASS</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-17T22:09:37Z">2017-02-17T22:09:37 zulu</time></span>
 </div>
 <div>
 <pre>
-python tools/validate.py --lang ga UD-dev-branches/UD_Irish/ga-ud-dev.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang ga /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Irish/ga-ud-dev.conllu
 
-[Line                   259]: Unknown UD DEPREL: flat:name
-[Line                   260]: Unknown UD DEPREL: flat:name
-[Line                   969]: Unknown UD DEPREL: flat:name
-[Line                   970]: Unknown UD DEPREL: flat:name
-[Line                   1298]: Unknown UD DEPREL: flat:name
-[Line                   1299]: Unknown UD DEPREL: flat:name
-[Line                   1543]: Unknown UD DEPREL: flat:name
-[Line                   2287]: Unknown UD DEPREL: flat:name
-[Line                   2290]: Unknown UD DEPREL: flat:name
-[Line                   2293]: Unknown UD DEPREL: flat:name
-[Line                   2333]: Unknown UD DEPREL: flat:name
-[Line                   2334]: Unknown UD DEPREL: flat:name
-[Line                   2803]: Unknown UD DEPREL: flat:name
-[Line                   2804]: Unknown UD DEPREL: flat:name
-[Line                   2807]: Unknown UD DEPREL: flat:name
-[Line                   3055]: Unknown UD DEPREL: flat:name
-[Line                   3056]: Unknown UD DEPREL: flat:name
-[Line                   3798]: Unknown UD DEPREL: flat:name
-[Line                   4238]: Unknown UD DEPREL: flat:name
-...suppressing further errors regarding Syntax
-*** FAILED *** with 64 errors
-Syntax errors: 64
+*** PASSED ***
 
 
 ******************
 
-python tools/validate.py --lang ga UD-dev-branches/UD_Irish/ga-ud-train.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang ga /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Irish/ga-ud-train.conllu
 
-[Line                   151]: Unknown UD DEPREL: flat:name
-[Line                   152]: Unknown UD DEPREL: flat:name
-[Line                   188]: Unknown UD DEPREL: flat:name
-[Line                   339]: Unknown UD DEPREL: flat:name
-[Line                   616]: Unknown UD DEPREL: flat:name
-[Line                   866]: Unknown UD DEPREL: flat:name
-[Line                   1071]: Unknown UD DEPREL: flat:name
-[Line                   1072]: Unknown UD DEPREL: flat:name
-[Line                   1083]: Unknown UD DEPREL: flat:name
-[Line                   1084]: Unknown UD DEPREL: flat:name
-[Line                   1087]: Unknown UD DEPREL: flat:name
-[Line                   1088]: Unknown UD DEPREL: flat:name
-[Line                   1212]: Unknown UD DEPREL: flat:name
-[Line                   1215]: Unknown UD DEPREL: flat:name
-[Line                   1218]: Unknown UD DEPREL: flat:name
-[Line                   1225]: Unknown UD DEPREL: flat:name
-[Line                   1230]: Unknown UD DEPREL: flat:name
-[Line                   2491]: Unknown UD DEPREL: flat:name
-[Line                   2902]: Unknown UD DEPREL: flat:name
-...suppressing further errors regarding Syntax
-*** FAILED *** with 20 errors
-Syntax errors: 20
+*** PASSED ***
 
 
 ******************
