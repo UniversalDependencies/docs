@@ -16,8 +16,6 @@ See [here](release_checklist.html) for the checklist for data contributors.
   <code>for i in UD_* ; do pushd $i ; git checkout dev ; git pull --no-edit ; popd ; echo ; done</code>
 * Make sure that all CoNLL-U files are formally valid (results of the validator are [available on-line](validation.html) but make sure that no repository is missing there).<br />
   <code>for i in UD_* ; do pushd $i ; if [ -f *-test.conllu ] ; then for j in *.conllu ; do echo $j ; x=$(echo $j | perl -pe 'chomp; s/-ud.*//') ; ../tools/validate.py --lang $x $j ; done ; fi ; popd ; done</code>
-  * The validator currently does not scream when there is no space between a word and a comma in `text` but the line of the word
-    does not contain `SpaceAfter=No`. Check this externally for all treebanks. Use Martin Popel's UDAPI block to fix it where necessary.
 * Run `tools/check_files.pl` (if there are new languages, you may need to add their codes in the source code first).
   It will visit all UD_* repositories and report any missing files, unexpected or unexpectedly named files.
   It will also collect information such as the list of contributors (we need this metadata for Lindat).
