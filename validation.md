@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-02-18T20:18:08Z">2017-02-18T20:18:08 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-02-18T20:25:49Z">2017-02-18T20:25:49 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -1474,18 +1474,18 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang it_partut /home/ginter/
 <span class="doublewidespan" style="padding-left:3em">UD Japanese</span>
 <span class="widespan">ja</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-17T21:50:03Z">2017-02-17T21:50:03 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-18T20:25:40Z">2017-02-18T20:25:40 zulu</time></span>
 </div>
 <div>
 <pre>
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang ja /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Japanese/ja-ud-dev.conllu
+python tools/validate.py --lang ja UD-dev-branches/UD_Japanese/ja-ud-dev.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang ja /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Japanese/ja-ud-train.conllu
+python tools/validate.py --lang ja UD-dev-branches/UD_Japanese/ja-ud-train.conllu
 
 *** PASSED ***
 
