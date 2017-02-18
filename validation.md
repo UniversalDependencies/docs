@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-02-18T20:26:11Z">2017-02-18T20:26:11 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-02-18T20:26:39Z">2017-02-18T20:26:39 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -2510,18 +2510,18 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang ug /home/ginter/UD_PROJ
 <span class="doublewidespan" style="padding-left:3em">UD Vietnamese</span>
 <span class="widespan">vi</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-17T21:55:32Z">2017-02-17T21:55:32 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-18T20:26:37Z">2017-02-18T20:26:37 zulu</time></span>
 </div>
 <div>
 <pre>
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang vi /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Vietnamese/vi-ud-dev.conllu
+python tools/validate.py --lang vi UD-dev-branches/UD_Vietnamese/vi-ud-dev.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang vi /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Vietnamese/vi-ud-train.conllu
+python tools/validate.py --lang vi UD-dev-branches/UD_Vietnamese/vi-ud-train.conllu
 
 *** PASSED ***
 
