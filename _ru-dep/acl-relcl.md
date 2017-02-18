@@ -1,7 +1,7 @@
 ---
 layout: relation
 title: 'acl:relcl'
-shortdef: 'acl:relcl'
+shortdef: 'relative clause modifier'
 ---
 
 The `acl:relcl` relation is used for relative clauses modifying
