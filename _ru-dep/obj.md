@@ -1,12 +1,12 @@
 ---
 layout: relation
-title: 'dobj'
-shortdef: 'direct object'
+title: 'obj'
+shortdef: 'object'
 ---
 
-The direct object of a verb is the noun phrase that denotes the entity acted upon.
-Most often the direct object is in the [accusative case](cs-feat/Case) but
-there are verbs that require their objects be in other cases (except for
+The object of a verb is the the second most core argument of a verb after the subject. 
+Most often it is a direct object is in the [accusative case](ru-feat/Case), a noun phrase that denotes the entity acted upon.
+However, in Russian there are many verbs that require their objects be in other cases (except for
 nominative and vocative).
 
 Accusative example:
@@ -41,8 +41,9 @@ dobj(руководит, страной)
 dobj(rules, country)
 ~~~
 
-In general, if there is just one object, it should be labeled `dobj`,
+In general, if there is only one object, it should be labeled `obj`,
 regardless of the morphological case or semantic role that it bears. If there are two or more
-objects, one of them should be `dobj` and the others should be
+objects, one of them should be `obj` and the others should be
 [iobj](). In such cases it is necessary to decide what is the most
-directly affected object _(patient)._ The one exception is when there is a clausal complement. Then the clausal complement is regarded as a “clausal direct object” and an object nominal will be an iobj.
+directly affected object _(patient)._ The one exception is when there is a clausal complement: 
+then the clausal complement is regarded as a “clausal object” and an object nominal will be an iobj.
