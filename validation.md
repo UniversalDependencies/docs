@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-02-18T21:25:40Z">2017-02-18T21:25:40 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-02-18T21:27:04Z">2017-02-18T21:27:04 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -1754,18 +1754,18 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang la_ittb /home/ginter/UD
 <span class="doublewidespan" style="padding-left:3em">UD Latin-PROIEL</span>
 <span class="widespan">la proiel</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-17T21:50:45Z">2017-02-17T21:50:45 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-18T21:26:50Z">2017-02-18T21:26:50 zulu</time></span>
 </div>
 <div>
 <pre>
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang la_proiel /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Latin-PROIEL/la_proiel-ud-dev.conllu
+python tools/validate.py --lang la_proiel UD-dev-branches/UD_Latin-PROIEL/la_proiel-ud-dev.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang la_proiel /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Latin-PROIEL/la_proiel-ud-train.conllu
+python tools/validate.py --lang la_proiel UD-dev-branches/UD_Latin-PROIEL/la_proiel-ud-train.conllu
 
 *** PASSED ***
 
