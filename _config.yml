@@ -891,6 +891,20 @@ collections:
   be-overview:
     output: true
 #
+# Lithuanian
+#
+  lt-pos:
+    output: true
+    permalink: /lt/pos/:path.html
+  lt-feat:
+    output: true
+    permalink: /lt/feat/:path.html
+  lt-dep:
+    output: true
+    permalink: /lt/dep/:path.html
+  lt-overview:
+    output: true
+#
 # Template
 #
   template-pos:
