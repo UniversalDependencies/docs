@@ -1144,6 +1144,17 @@
     "lang_name": "Latvian"
   }, 
   {
+    "lang_code": "lt", 
+    "contributors": [
+      {
+        "full": "Daniel Zeman", 
+        "last": "Zeman", 
+        "first": "Daniel"
+      }
+    ], 
+    "lang_name": "Lithuanian"
+  }, 
+  {
     "lang_code": "mr", 
     "contributors": [
       {
