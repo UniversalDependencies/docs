@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-02-20T12:58:00Z">2017-02-20T12:58:00 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-02-20T14:15:05Z">2017-02-20T14:15:05 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -509,21 +509,63 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang nl /home/ginter/UD_PROJ
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD Dutch-LassySmall</span>
 <span class="widespan">nl lassysmall</span>
-<span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-19T20:22:27Z">2017-02-19T20:22:27 zulu</time></span>
+<span class="validationfail">FAIL</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-20T14:14:59Z">2017-02-20T14:14:59 zulu</time></span>
 </div>
 <div>
 <pre>
 python tools/validate.py --lang nl_lassysmall UD-dev-branches/UD_Dutch-LassySmall/nl_lassysmall-ud-dev.conllu
 
-*** PASSED ***
+[Line                   16]: SpaceAfter=No is missing in the MISC field of node #12 because the text is 'zetels.'
+[Line                   30]: SpaceAfter=No is missing in the MISC field of node #10 because the text is 'Williams.'
+[Line                   36]: SpaceAfter=No is missing in the MISC field of node #1 because the text is 'Fansite: dekampioenen.be'
+[Line                   45]: SpaceAfter=No is missing in the MISC field of node #4 because the text is '(Frankrijk)'
+[Line                   45]: SpaceAfter=No is missing in the MISC field of node #5 because the text is 'Frankrijk)'
+[Line                   77]: SpaceAfter=No is missing in the MISC field of node #16 because the text is '1846, die meteen aan[...]'
+[Line                   77]: SpaceAfter=No is missing in the MISC field of node #28 because the text is '1847.'
+[Line                   105]: SpaceAfter=No is missing in the MISC field of node #3 because the text is '(Sint-Jan de Evangel[...]'
+[Line                   105]: SpaceAfter=No is missing in the MISC field of node #6 because the text is 'Evangelist) herbergt[...]'
+[Line                   105]: SpaceAfter=No is missing in the MISC field of node #9 because the text is '«De aanbidding der w[...]'
+[Line                   105]: SpaceAfter=No is missing in the MISC field of node #13 because the text is 'wijzen» van Rubens.'
+[Line                   105]: SpaceAfter=No is missing in the MISC field of node #16 because the text is 'Rubens.'
+[Line                   132]: SpaceAfter=No is missing in the MISC field of node #5 because the text is 'Geerts, de assistent[...]'
+[Line                   132]: SpaceAfter=No is missing in the MISC field of node #16 because the text is 'deed, de artistieke [...]'
+[Line                   132]: SpaceAfter=No is missing in the MISC field of node #23 because the text is 'strip.'
+[Line                   152]: SpaceAfter=No is missing in the MISC field of node #2 because the text is 'ronde: Kim Clijsters[...]'
+[Line                   152]: SpaceAfter=No is missing in the MISC field of node #6 because the text is '(1) - Jelena Jankovi[...]'
+[Line                   152]: SpaceAfter=No is missing in the MISC field of node #7 because the text is '1) - Jelena Jankovic[...]'
+[Line                   152]: SpaceAfter=No is missing in the MISC field of node #11 because the text is 'Jankovic: 6-4, 3-6, 6-3'
+...suppressing further errors regarding Metadata
+*** FAILED *** with 1457 errors
+Metadata errors: 1457
 
 
 ******************
 
 python tools/validate.py --lang nl_lassysmall UD-dev-branches/UD_Dutch-LassySmall/nl_lassysmall-ud-train.conllu
 
-*** PASSED ***
+[Line                   33]: SpaceAfter=No is missing in the MISC field of node #3 because the text is 'Dierick, «Van Eyck -[...]'
+[Line                   33]: SpaceAfter=No is missing in the MISC field of node #5 because the text is '«Van Eyck - Het Lam [...]'
+[Line                   33]: SpaceAfter=No is missing in the MISC field of node #11 because the text is 'Gods», 1972, Gent, u[...]'
+[Line                   33]: SpaceAfter=No is missing in the MISC field of node #12 because the text is '», 1972, Gent, uitge[...]'
+[Line                   33]: SpaceAfter=No is missing in the MISC field of node #14 because the text is '1972, Gent, uitgegev[...]'
+[Line                   33]: SpaceAfter=No is missing in the MISC field of node #16 because the text is 'Gent, uitgegeven in [...]'
+[Line                   33]: SpaceAfter=No is missing in the MISC field of node #21 because the text is 'beheer.'
+[Line                   55]: SpaceAfter=No is missing in the MISC field of node #14 because the text is 'dienstplicht.'
+[Line                   74]: SpaceAfter=No is missing in the MISC field of node #15 because the text is 'zitten.'
+[Line                   118]: SpaceAfter=No is missing in the MISC field of node #3 because the text is ''Vlaanderen' verwijs[...]'
+[Line                   118]: SpaceAfter=No is missing in the MISC field of node #4 because the text is 'Vlaanderen' verwijst[...]'
+[Line                   118]: SpaceAfter=No is missing in the MISC field of node #10 because the text is ''Vlaamse gemeenschap[...]'
+[Line                   118]: SpaceAfter=No is missing in the MISC field of node #12 because the text is 'gemeenschap' in de m[...]'
+[Line                   118]: SpaceAfter=No is missing in the MISC field of node #19 because the text is 'zin, als naar de bes[...]'
+[Line                   118]: SpaceAfter=No is missing in the MISC field of node #26 because the text is '(de Vlaamse Gemeensc[...]'
+[Line                   118]: SpaceAfter=No is missing in the MISC field of node #33 because the text is 'Gewest), die gevesti[...]'
+[Line                   118]: SpaceAfter=No is missing in the MISC field of node #34 because the text is '), die gevestigd zij[...]'
+[Line                   118]: SpaceAfter=No is missing in the MISC field of node #40 because the text is 'Brussel.'
+[Line                   165]: SpaceAfter=No is missing in the MISC field of node #12 because the text is 'eeuw; deze hangt aan[...]'
+...suppressing further errors regarding Metadata
+*** FAILED *** with 11383 errors
+Metadata errors: 11383
 
 
 ******************
