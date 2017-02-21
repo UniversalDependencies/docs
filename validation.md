@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-02-21T15:45:23Z">2017-02-21T15:45:23 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-02-21T16:33:38Z">2017-02-21T16:33:38 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -896,21 +896,27 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang fr_partut /home/ginter/
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD French-Sequoia</span>
 <span class="widespan">fr sequoia</span>
-<span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-17T21:48:27Z">2017-02-17T21:48:27 zulu</time></span>
+<span class="validationfail">FAIL</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-21T16:33:34Z">2017-02-21T16:33:34 zulu</time></span>
 </div>
 <div>
 <pre>
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang fr_sequoia /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_French-Sequoia/fr_sequoia-ud-dev.conllu
+python tools/validate.py --lang fr_sequoia UD-dev-branches/UD_French-Sequoia/fr_sequoia-ud-dev.conllu
 
-*** PASSED ***
+[Line                   4467]: SpaceAfter=No is missing in the MISC field of node #49-50 because the text is 'au-delà des simples [...]'
+*** FAILED *** with 1 errors
+Metadata errors: 1
 
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang fr_sequoia /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_French-Sequoia/fr_sequoia-ud-train.conllu
+python tools/validate.py --lang fr_sequoia UD-dev-branches/UD_French-Sequoia/fr_sequoia-ud-train.conllu
 
-*** PASSED ***
+[Line                   2164]: SpaceAfter=No is missing in the MISC field of node #33-34 because the text is 'au-dessus d'une fort[...]'
+[Line                   2365]: SpaceAfter=No is missing in the MISC field of node #9-10 because the text is 'au-dessus d'un vide [...]'
+[Line                   41072]: SpaceAfter=No is missing in the MISC field of node #4-5 because the text is 'au-delà du don des d[...]'
+*** FAILED *** with 3 errors
+Metadata errors: 3
 
 
 ******************
