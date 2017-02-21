@@ -41,17 +41,17 @@ appos(subjects, language)
 conj(language, economy)
 conj(language, technology)
 conj(language, art)
-cc(language, and)
+cc(art, and)
 appos(language, German)
 conj(German, French)
-cc(German, or)
+cc(French, or)
 ~~~
 
 *appos* is also used to link key-value pairs in addresses, signatures, etc. (see also the [list]() label):
 
 ~~~ sdparse
 Steve Jones Phone: 555-9814 Email: jones@abc.edf
-name(Steve-1, Jones-2)
+flat:name(Steve-1, Jones-2)
 list(Steve-1, Phone:-3)
 list(Steve-1, Email:-5)
 appos(Phone:-3, 555-9814-4)
