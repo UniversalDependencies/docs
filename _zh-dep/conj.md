@@ -133,7 +133,7 @@ We also use this function for the VERB + NEG + VERB (or AUX + NEG + AUX) interro
 
 ~~~
 
-In more formal registers, the negative adverb 否 _fǒu_ may replace the NEG + VERB part of the VERB + NEG + VERB construction  for certain (auxiliary) verbs (e.g., 是否 and 能否 instead of 是不是 and 能不能). In this case, the negative adverb is also treated as a `conj` dependent.
+In more formal registers, the negative adverb 否 _fǒu_ may replace the NEG + VERB part of the VERB + NEG + VERB construction  for certain (auxiliary) verbs (e.g., 是否 and 能否 instead of 是不是 and 能不能). In this case, the negative adverb may also be treated as a `conj` dependent (but note that 是否 may also be an adverb when modifying a main verb).
 
 ~~~ conllu
 # visual-style 2 3 conj	color:blue
