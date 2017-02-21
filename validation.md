@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-02-21T08:42:12Z">2017-02-21T08:42:12 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-02-21T09:03:12Z">2017-02-21T09:03:12 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -49,7 +49,7 @@ python tools/validate.py --lang grc UD-dev-branches/UD_Ancient_Greek/grc-ud-trai
 <span class="doublewidespan" style="padding-left:3em">UD Ancient Greek-PROIEL</span>
 <span class="widespan">grc proiel</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-18T21:24:52Z">2017-02-18T21:24:52 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-21T09:02:57Z">2017-02-21T09:02:57 zulu</time></span>
 </div>
 <div>
 <pre>
