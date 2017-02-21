@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-02-20T20:16:46Z">2017-02-20T20:16:46 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-02-21T07:59:18Z">2017-02-21T07:59:18 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -1890,18 +1890,18 @@ python tools/validate.py --lang cu UD-dev-branches/UD_Old_Church_Slavonic/cu-ud-
 <span class="doublewidespan" style="padding-left:3em">UD Persian</span>
 <span class="widespan">fa</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-17T21:51:40Z">2017-02-17T21:51:40 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-21T07:59:10Z">2017-02-21T07:59:10 zulu</time></span>
 </div>
 <div>
 <pre>
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang fa /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Persian/fa-ud-dev.conllu
+python tools/validate.py --lang fa UD-dev-branches/UD_Persian/fa-ud-dev.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang fa /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Persian/fa-ud-train.conllu
+python tools/validate.py --lang fa UD-dev-branches/UD_Persian/fa-ud-train.conllu
 
 *** PASSED ***
 
