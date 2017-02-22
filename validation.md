@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-02-22T11:41:12Z">2017-02-22T11:41:12 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-02-22T11:41:48Z">2017-02-22T11:41:48 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -1223,11 +1223,11 @@ python tools/validate.py --lang hi UD-dev-branches/UD_Hindi/hi-ud-train.conllu
 <span class="doublewidespan" style="padding-left:3em">UD Hungarian</span>
 <span class="widespan">hu</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-21T21:26:53Z">2017-02-21T21:26:53 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-22T11:41:43Z">2017-02-22T11:41:43 zulu</time></span>
 </div>
 <div>
 <pre>
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang hu /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Hungarian/hu-ud-dev.conllu
+python tools/validate.py --lang hu UD-dev-branches/UD_Hungarian/hu-ud-dev.conllu
 
 [Line                   7]: Unknown UD DEPREL: dobj
 [Line                   9]: Unknown UD DEPREL: dobj
@@ -1297,7 +1297,7 @@ Syntax errors: 396
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang hu /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Hungarian/hu-ud-train.conllu
+python tools/validate.py --lang hu UD-dev-branches/UD_Hungarian/hu-ud-train.conllu
 
 [Line                   4]: Unknown UPOS tag: CONJ
 [Line                   14]: Unknown UD DEPREL: dobj
