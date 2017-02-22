@@ -2,6 +2,7 @@
 layout: base
 title:  'Introduction'
 permalink: cop/overview/introduction.html
+udver: '2'
 ---
 
 # Introduction
@@ -34,7 +35,8 @@ The dependency guidelines assume part of speech tagging based on the Coptic Scri
 | det – article or other determiner	| ⲡⲣⲱⲙⲉ, ⲕⲉⲥⲟⲡ, ⲥⲟⲛ ⲛⲓⲙ| 
 | discourse – interjections etc.	| 	ⲉϩⲉ, ⲟⲩⲟⲉⲓ!| 
 | dislocated – extraposed argument	| ϥ ... ⲛϭⲓⲡϩⲗⲗⲟ, ⲡⲣⲱⲙⲉ ⲁϥⲥⲱⲧⲙ| 
-| dobj – direct object		| 	ⲥⲱⲧⲡ ⲙⲡⲣⲱⲙⲉ, ϯⲛⲁϩⲟⲧⲃⲉⲕ| 
+| obj – direct object		| 	ⲥⲱⲧⲡ ⲙⲡⲣⲱⲙⲉ, ϯⲛⲁϩⲟⲧⲃⲉⲕ| 
+| obl - oblique verb modifier |  ⲟⲩⲏϩ ϩⲙⲡⲏⲓ|
 | iobj – indirect object (possessor)| 	ⲟⲩⲛⲧⲁⲩ ⲁⲡⲟⲧ| 
 | mark – clause marker or converter	| ⲡⲉϫⲁ ϥ ϫⲉ ⲉⲧⲃⲉ ⲟⲩ, ⲉ ⲓ ⲥⲱⲧⲙ ⲉⲣⲟ ⲕ| 
 | mwe – multiword expression	| 	ⲉⲃⲟⲗ ϩⲛ| 
@@ -45,7 +47,7 @@ The dependency guidelines assume part of speech tagging based on the Coptic Scri
 | nsubj – nominal subject	| 	ⲡⲣⲱⲙⲉ ⲥⲱⲧⲙ, ⲁⲓⲣⲛⲟⲃⲉ| 
 | parataxis – loose clausal joint	| 	ⲛⲁ ⲉⲡⲓⲥⲧⲟⲗⲏ ⲛⲉ ⲏ ϯ ⲥⲟⲟⲩⲛ ⲁⲛ ϫⲉ ⲕ ⲛⲁ ⲡⲁϩ ⲟⲩ| 
 | punct – punctuation 		| 	· . ,| 
-| remnant – 2nd, conflicting argument	| ⲙⲡⲓⲥⲱⲧⲙ, ⲁⲗⲗⲁ ⲛⲧⲟϥ| 
+| orphan – dependent of elliptical word	| ⲙⲡⲓⲥⲱⲧⲙ, ⲁⲗⲗⲁ ⲛⲧⲟϥ| 
 | root – root/predicate of utterance	| ⲥⲱⲧⲙ, ⲛⲁⲛⲟⲩ ϥ, ⲡ ⲣⲣⲟ ⲡⲉ| 
 | vocative – appellation		| 	 ⲡ ⲡⲟⲛⲏⲣⲟⲥ!| 
 | xcomp – subjectless clause	| 	ⲙⲡ ϥ ⲟⲩⲱϣ ⲉ ⲱⲛϩ| 
