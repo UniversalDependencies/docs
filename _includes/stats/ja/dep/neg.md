@@ -6,12 +6,12 @@
 
 This relation is universal.
 
-1811 nodes (1%) are attached to their parents as `neg`.
+1257 nodes (1%) are attached to their parents as `neg`.
 
-1811 instances of `neg` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.16841524019879.
+1257 instances of `neg` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.19570405727924.
 
-The following 6 pairs of parts of speech are connected with `neg`: [ja-pos/VERB]()-[ja-pos/AUX]() (1589; 88% instances), [ja-pos/NOUN]()-[ja-pos/AUX]() (133; 7% instances), [ja-pos/ADJ]()-[ja-pos/AUX]() (78; 4% instances), [ja-pos/ADV]()-[ja-pos/AUX]() (6; 0% instances), [ja-pos/PRON]()-[ja-pos/AUX]() (3; 0% instances), [ja-pos/PROPN]()-[ja-pos/AUX]() (2; 0% instances).
+The following 5 pairs of parts of speech are connected with `neg`: [ja-pos/VERB]()-[ja-pos/AUX]() (1094; 87% instances), [ja-pos/NOUN]()-[ja-pos/AUX]() (102; 8% instances), [ja-pos/ADJ]()-[ja-pos/AUX]() (56; 4% instances), [ja-pos/ADV]()-[ja-pos/AUX]() (4; 0% instances), [ja-pos/PROPN]()-[ja-pos/AUX]() (1; 0% instances).
 
 
 ~~~ conllu

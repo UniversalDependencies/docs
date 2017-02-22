@@ -57,7 +57,7 @@ The most frequent other feature values with which `PRON` and `Case` co-occurred:
 <table>
   <tr><th>Paradigm <i>तद्</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th><th><tt>Gen</tt></th><th><tt>Loc</tt></th><th><tt>Ins</tt></th><th><tt>Abl</tt></th></tr>
   <tr><td><tt><a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Sing|<a href="Poss.html">Poss</a>=Yes</tt></td><td></td><td></td><td></td><td>तस्य</td><td></td><td></td><td></td></tr>
-  <tr><td><tt><a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Sing</tt></td><td>सः, स, सह्</td><td>तत्, तम्</td><td>तस्मै</td><td>तस्य</td><td></td><td>तेन</td><td>तस्मात्</td></tr>
+  <tr><td><tt><a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Sing</tt></td><td>सः, स, सह्</td><td>तम्, तत्</td><td>तस्मै</td><td>तस्य</td><td></td><td>तेन</td><td>तस्मात्</td></tr>
   <tr><td><tt><a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Plur</tt></td><td>ते</td><td></td><td></td><td></td><td></td><td></td><td>तान्</td></tr>
   <tr><td><tt><a href="Gender.html">Gender</a>=Fem|<a href="Number.html">Number</a>=Sing</tt></td><td></td><td></td><td></td><td>तस्याः</td><td>तस्याम्</td><td>तया</td><td></td></tr>
   <tr><td><tt><a href="Gender.html">Gender</a>=Neut|<a href="Number.html">Number</a>=Sing</tt></td><td>तत्, सा, स</td><td></td><td></td><td>तस्य</td><td></td><td></td><td>तस्मात्</td></tr>
@@ -68,7 +68,7 @@ The most frequent other feature values with which `PRON` and `Case` co-occurred:
 
 59 [sa-pos/VERB]() tokens (25% of all `VERB` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `VERB` and `Case` co-occurred: <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (59; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (59; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (59; 100%), <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (58; 98%), <tt><a href="Number.html">Number</a>=Sing</tt> (53; 90%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (37; 63%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (31; 53%).
+The most frequent other feature values with which `VERB` and `Case` co-occurred: <tt><a href="Person.html">Person</a>=EMPTY</tt> (59; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (59; 100%), <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (59; 100%), <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (58; 98%), <tt><a href="Number.html">Number</a>=Sing</tt> (53; 90%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (37; 63%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (31; 53%).
 
 `VERB` tokens may have the following values of `Case`:
 
@@ -218,7 +218,7 @@ The 10 most frequent relations where parent and child node agree in `Case`:
 <tt>NOUN --[<a href="../dep/nmod.html">nmod</a>]--> PROPN</tt> (7; 64%),
 <tt>NOUN --[<a href="../dep/det.html">det</a>]--> PRON</tt> (6; 67%),
 <tt>X --[<a href="../dep/nsubj.html">nsubj</a>]--> NOUN</tt> (3; 75%),
-<tt>PRON --[<a href="../dep/nmod.html">nmod</a>]--> NOUN</tt> (2; 100%),
 <tt>X --[<a href="../dep/advcl.html">advcl</a>]--> VERB</tt> (2; 67%),
-<tt>VERB --[<a href="../dep/dobj.html">dobj</a>]--> ADJ</tt> (1; 100%).
+<tt>PRON --[<a href="../dep/nmod.html">nmod</a>]--> NOUN</tt> (2; 100%),
+<tt>DET --[<a href="../dep/nsubj.html">nsubj</a>]--> NOUN</tt> (1; 100%).
 

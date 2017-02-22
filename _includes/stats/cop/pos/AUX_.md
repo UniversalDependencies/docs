@@ -4,63 +4,66 @@
 
 ## Treebank Statistics (UD_Coptic)
 
-There are 13 `AUX` lemmas (2%), 18 `AUX` types (2%) and 289 `AUX` tokens (6%).
-Out of 13 observed tags, the rank of `AUX` is: 9 in number of lemmas, 9 in number of types and 6 in number of tokens.
+There are 16 `AUX` lemmas (2%), 21 `AUX` types (2%) and 510 `AUX` tokens (6%).
+Out of 14 observed tags, the rank of `AUX` is: 9 in number of lemmas, 9 in number of types and 6 in number of tokens.
 
-The 10 most frequent `AUX` lemmas: ⲁ, ⲡⲉ, ⲛⲁ, ⲛⲧⲉ, ⲛⲉⲣⲉ, ⲙⲡⲉ, ϣⲁⲣⲉ, ⲙⲉ, ⲙⲡⲁⲧⲉ, ⲙⲁ
+The 10 most frequent `AUX` lemmas: ⲁ, ⲛⲁ, ⲛⲧⲉ, ⲛⲉⲣⲉ, ϣⲁⲣⲉ, ⲙⲡⲉ, ⲛⲛⲉ, ⲧⲣⲉ, ⲙⲡⲁⲧⲉ, ⲙⲁⲣⲉ
 
-The 10 most frequent `AUX` types:  ⲁ, ⲛⲁ, ⲛⲉ, ⲛ, ⲡⲉ, ⲙⲡ, ϣⲁ, ⲙⲡⲉ, ⲛⲧⲉ, ⲧⲉ
+The 10 most frequent `AUX` types:  ⲁ, ⲛⲁ, ⲛ, ⲛⲉ, ϣⲁ, ⲙⲡ, ⲙⲡⲉ, ⲛⲧⲉ, ⲛⲛⲉ, ⲧⲣⲉ
 
-The 10 most frequent ambiguous lemmas: ⲁ ([AUX]() 143, [NOUN]() 1), ⲡⲉ ([AUX]() 33, [NOUN]() 5), ⲛⲁ ([ADP]() 59, [AUX]() 32, [VERB]() 3, [DET]() 1, [NOUN]() 1), ⲛⲧⲉ ([AUX]() 31, [ADV]() 3, [ADP]() 2), ⲙⲉ ([AUX]() 2, [NOUN]() 2), ⲙⲁ ([NOUN]() 20, [AUX]() 1)
+The 10 most frequent ambiguous lemmas: ⲁ ([AUX]() 287, [NOUN]() 1), ⲛⲁ ([ADP]() 97, [AUX]() 58, [VERB]() 4, [NOUN]() 1, [DET]() 1), ⲛⲧⲉ ([AUX]() 56, [ADV]() 3, [ADP]() 2), ⲧⲣⲉ ([VERB]() 18, [AUX]() 6, [NOUN]() 1), ⲙⲉ ([NOUN]() 3, [AUX]() 2), ⲉⲣϣⲁⲛ ([SCONJ]() 5, [AUX]() 1), ⲙⲁ ([NOUN]() 25, [AUX]() 1)
 
-The 10 most frequent ambiguous types:  ⲁ ([AUX]() 143, [NOUN]() 1), ⲛⲁ ([ADP]() 54, [AUX]() 32, [DET]() 8, [VERB]() 3, [NOUN]() 1), ⲛⲉ ([AUX]() 27, [DET]() 19), ⲛ ([ADP]() 221, [DET]() 96, [AUX]() 26, [ADV]() 12, [PRON]() 9), ⲡⲉ ([DET]() 21, [AUX]() 21, [NOUN]() 2), ϣⲁ ([ADP]() 8, [AUX]() 7), ⲛⲧⲉ ([AUX]() 5, [ADP]() 2), ⲧⲉ ([DET]() 21, [AUX]() 4), ⲙⲁ ([NOUN]() 20, [AUX]() 1), ⲙⲉ ([NOUN]() 2, [AUX]() 1)
+The 10 most frequent ambiguous types:  ⲁ ([AUX]() 287, [NOUN]() 1), ⲛⲁ ([ADP]() 88, [AUX]() 58, [DET]() 9, [VERB]() 4, [NOUN]() 1), ⲛ ([ADP]() 316, [DET]() 131, [AUX]() 49, [ADV]() 19, [PRON]() 13, [VERB]() 1), ⲛⲉ ([AUX]() 40, [DET]() 30, [PRON]() 15), ϣⲁ ([AUX]() 19, [ADP]() 12, [VERB]() 1), ⲛⲧⲉ ([AUX]() 7, [ADP]() 2), ⲧⲣⲉ ([VERB]() 18, [AUX]() 6, [NOUN]() 1), ϣⲁⲣⲉ ([AUX]() 2, [VERB]() 1), ⲙⲉ ([NOUN]() 3, [AUX]() 2), ⲉⲣϣⲁⲛ ([SCONJ]() 5, [AUX]() 1)
 
 
 * ⲁ
-  * [AUX]() 143: <b>ⲁ</b> ⲧⲉⲧⲛ ⲧⲁⲕⲟ ϥ .
+  * [AUX]() 287: <b>ⲁ</b> ⲧⲉⲧⲛ ⲧⲁⲕⲟ ϥ .
   * [NOUN]() 1: ⲏ ⲙⲛ ϭⲉ ϣⲟⲟⲡ ⲛⲁ ⲕ ⲛⲥⲁ ⲛ ⲉⲛⲧ <b>ⲁ</b> ⲓ ϥⲓⲧ ⲟⲩ ,
 * ⲛⲁ
-  * [ADP]() 54: ⲛ ⲥⲉ ⲛⲁ ϭⲙϭⲟⲙ ⲅⲁⲣ ⲁⲛ ⲉ ⲣϩⲙϩⲁⲗ <b>ⲛⲁ</b> ⲕ , ⲛ ⲥⲉ ⲣϩⲙϩⲁⲗ ⲛ ⲛ ⲣⲉϥϫⲓⲛϭⲟⲛⲥ ,
-  * [AUX]() 32: ⲛ ⲥⲉ <b>ⲛⲁ</b> ϭⲙϭⲟⲙ ⲅⲁⲣ ⲁⲛ ⲉ ⲣϩⲙϩⲁⲗ ⲛⲁ ⲕ , ⲛ ⲥⲉ ⲣϩⲙϩⲁⲗ ⲛ ⲛ ⲣⲉϥϫⲓⲛϭⲟⲛⲥ ,
-  * [DET]() 8: ⲛ ⲧ ϩⲉ ⲟⲛ ⲛⲧ ⲁ ⲕ ϫⲟⲟ ⲥ ϫⲉ ⲛ ⲣⲱⲙⲉ ⲁⲩⲱ <b>ⲛⲁ</b> ⲟⲓⲕⲟⲛⲟⲙⲟⲥ ϫⲓ ϩⲛⲁ ⲩ ⲛⲁ ϥ .
-  * [VERB]() 3: ⲉ ⲧⲉⲧⲛ <b>ⲛⲁ</b> ⲉϩⲟⲩⲛ ⲉ ⲛⲉⲩ ⲧⲟⲡⲟⲥ ,
+  * [ADP]() 88: ⲁⲩⲱ ⲛ ⲁⲅⲅⲉⲗⲟⲥ ⲛⲉ ⲩ ⲇⲓⲁⲕⲟⲛⲓ <b>ⲛⲁ</b> ϥ .
+  * [AUX]() 58: ⲛⲧⲟϥ ⲇⲉ ⲉ ϥ <b>ⲛⲁ</b> ⲃⲁⲡⲧⲓⲍⲉ ⲙⲙⲱ ⲧⲛ ϩⲛ ⲟⲩ ⲡⲛⲉⲩⲙⲁ ⲉ ϥ ⲟⲩⲁⲁⲃ .
+  * [DET]() 9: ⲛ ⲧ ϩⲉ ⲟⲛ ⲛⲧ ⲁ ⲕ ϫⲟⲟ ⲥ ϫⲉ ⲛ ⲣⲱⲙⲉ ⲁⲩⲱ <b>ⲛⲁ</b> ⲟⲓⲕⲟⲛⲟⲙⲟⲥ ϫⲓ ϩⲛⲁ ⲩ ⲛⲁ ϥ .
+  * [VERB]() 4: ⲉ ⲧⲉⲧⲛ <b>ⲛⲁ</b> ⲉϩⲟⲩⲛ ⲉ ⲛⲉⲩ ⲧⲟⲡⲟⲥ ,
   * [NOUN]() 1: ϣⲛ ϩⲧⲏ ⲕ ϭⲉ ϩⲁ ⲡⲉⲕ ⲗⲁⲟⲥ ⲡ ϩⲁⲣϣϩⲏⲧ ⲉⲧⲉ ⲛⲁϣⲉ ⲡⲉϥ <b>ⲛⲁ</b> ·
-* ⲛⲉ
-  * [AUX]() 27: ⲕ ⲧⲱⲣⲡ ⲛ ⲛ ⲉⲧⲉ ⲛⲟⲩⲕ ⲁⲛ <b>ⲛⲉ</b> ⲡ ⲣⲱⲙⲉ ⲙ ⲡⲟⲛⲏⲣⲟⲥ .
-  * [DET]() 19: ⲁⲗⲗⲁ ⲉ ⲕ ϯ ⲟⲩⲃⲉ ⲓⲏⲥⲟⲩⲥ ⲉⲧ ⲟⲩⲏϩ ϩⲛ <b>ⲛⲉ</b> ⲭⲣⲉⲓⲥⲧⲓⲁⲛⲟⲥ .
 * ⲛ
-  * [ADP]() 221: ⲛ ⲅ ⲥⲟⲧ ⲟⲩ ⲉⲃⲟⲗ ϩⲛ ⲧ ϭⲓϫ <b>ⲛ</b> ⲛ ⲉⲧ ⲑⲗⲓⲃⲉ ⲙⲙⲟ ⲟⲩ ·
-  * [DET]() 96: ⲛ ⲅ ⲥⲟⲧ ⲟⲩ ⲉⲃⲟⲗ ϩⲛ ⲧ ϭⲓϫ ⲛ <b>ⲛ</b> ⲉⲧ ⲑⲗⲓⲃⲉ ⲙⲙⲟ ⲟⲩ ·
-  * [AUX]() 26: <b>ⲛ</b> ⲅ ⲥⲟⲧ ⲟⲩ ⲉⲃⲟⲗ ϩⲛ ⲧ ϭⲓϫ ⲛ ⲛ ⲉⲧ ⲑⲗⲓⲃⲉ ⲙⲙⲟ ⲟⲩ ·
-  * [ADV]() 12: <b>ⲛ</b> ⲥⲉ ⲛⲁ ϭⲙϭⲟⲙ ⲅⲁⲣ ⲁⲛ ⲉ ⲣϩⲙϩⲁⲗ ⲛⲁ ⲕ , ⲛ ⲥⲉ ⲣϩⲙϩⲁⲗ ⲛ ⲛ ⲣⲉϥϫⲓⲛϭⲟⲛⲥ ,
-  * [PRON]() 9: ⲁ ϥ ⲟⲩⲱϣⲃ ⲛⲁ ϥ ϫⲉ ⲉⲃⲟⲗ ϫⲉ ⲙⲡⲁⲧ ⲕ ⲉⲓⲱⲣϩ ⲙ ⲡ ⲙⲧⲟⲛ ⲉⲧ <b>ⲛ</b> ϩⲉⲗⲡⲓⲍⲉ ⲉⲣⲟ ϥ ·
-* ⲡⲉ
-  * [DET]() 21: ⲙⲏ ⲙ ⲡⲏⲩⲉ ⲙⲛ ⲡ ⲕⲁϩ ⲛⲁ <b>ⲡⲉ</b> ⲭⲣⲓⲥⲧⲟⲥ ⲁⲛ ⲛⲉ ⲙⲛ ⲛ ⲉⲧ ⲛϩⲏⲧ ⲟⲩ ⲧⲏⲣ ⲟⲩ .
-  * [AUX]() 21: ⲉⲧⲃⲉ ⲡⲁⲓ ⲡ ⲉⲧ ⲉϣϣⲉ <b>ⲡⲉ</b> ⲉ ϣⲁⲁⲧ ⲕ ⲁⲩⲱ ⲉ ⲃⲟⲗⲃⲗ ⲛ ⲧⲉⲕ ⲛⲟⲩⲛⲉ .
-  * [NOUN]() 2: ⲏ ⲉⲓϣⲁⲛ ϥⲓ ⲛ ⲉⲓⲇⲱⲗⲟⲛ ⲉⲧ ϩⲙ ⲡⲉⲕ ⲏⲓ ⲙⲏ ⲉ ⲓ ⲛⲁ ϣ ϩⲱⲡ ⲟⲛ ⲙ ⲡ ⲣⲏ ϩⲛ ⲧ <b>ⲡⲉ</b> ⲙⲛ ⲡ ⲟⲟϩ ⲙⲛ ⲛ ⲥⲓⲟⲩ ⲛⲁⲓ ⲉⲧ ⲕ ϣⲙϣⲉ ⲛⲁ ⲩ ,
+  * [ADP]() 316: ⲛ ⲅ ⲥⲟⲧ ⲟⲩ ⲉⲃⲟⲗ ϩⲛ ⲧ ϭⲓϫ <b>ⲛ</b> ⲛ ⲉⲧ ⲑⲗⲓⲃⲉ ⲙⲙⲟ ⲟⲩ ·
+  * [DET]() 131: ⲛ ⲅ ⲥⲟⲧ ⲟⲩ ⲉⲃⲟⲗ ϩⲛ ⲧ ϭⲓϫ ⲛ <b>ⲛ</b> ⲉⲧ ⲑⲗⲓⲃⲉ ⲙⲙⲟ ⲟⲩ ·
+  * [AUX]() 49: <b>ⲛ</b> ⲅ ⲥⲟⲧ ⲟⲩ ⲉⲃⲟⲗ ϩⲛ ⲧ ϭⲓϫ ⲛ ⲛ ⲉⲧ ⲑⲗⲓⲃⲉ ⲙⲙⲟ ⲟⲩ ·
+  * [ADV]() 19: <b>ⲛ</b> ⲥⲉ ⲛⲁ ϭⲙϭⲟⲙ ⲅⲁⲣ ⲁⲛ ⲉ ⲣϩⲙϩⲁⲗ ⲛⲁ ⲕ , ⲛ ⲥⲉ ⲣϩⲙϩⲁⲗ ⲛ ⲛ ⲣⲉϥϫⲓⲛϭⲟⲛⲥ ,
+  * [PRON]() 13: ⲁ ϥ ⲟⲩⲱϣⲃ ⲛⲁ ϥ ϫⲉ ⲉⲃⲟⲗ ϫⲉ ⲙⲡⲁⲧ ⲕ ⲉⲓⲱⲣϩ ⲙ ⲡ ⲙⲧⲟⲛ ⲉⲧ <b>ⲛ</b> ϩⲉⲗⲡⲓⲍⲉ ⲉⲣⲟ ϥ ·
+  * [VERB]() 1: ⲉⲣϣⲁⲛ ⲡ ⲕⲁⲣⲡⲟⲥ ⲇⲉ ⲡⲱϩ ⲛ ⲧⲉ ⲩⲛⲟⲩ ϣⲁ ϥ <b>ⲛ</b> ⲡ ⲟϩⲥ ϫⲉ ⲁ ⲡ ⲧⲉ ⲙ ⲡ ⲱϩⲥ ϣⲱⲡⲉ
+* ⲛⲉ
+  * [AUX]() 40: ⲁⲩⲱ ⲛ ⲁⲅⲅⲉⲗⲟⲥ <b>ⲛⲉ</b> ⲩ ⲇⲓⲁⲕⲟⲛⲓ ⲛⲁ ϥ .
+  * [DET]() 30: ⲁⲗⲗⲁ ⲉ ⲕ ϯ ⲟⲩⲃⲉ ⲓⲏⲥⲟⲩⲥ ⲉⲧ ⲟⲩⲏϩ ϩⲛ <b>ⲛⲉ</b> ⲭⲣⲉⲓⲥⲧⲓⲁⲛⲟⲥ .
+  * [PRON]() 15: ⲕ ⲧⲱⲣⲡ ⲛ ⲛ ⲉⲧⲉ ⲛⲟⲩⲕ ⲁⲛ <b>ⲛⲉ</b> ⲡ ⲣⲱⲙⲉ ⲙ ⲡⲟⲛⲏⲣⲟⲥ .
 * ϣⲁ
-  * [ADP]() 8: ⲁ ϥ ⲃⲱⲕ ⲛ ⲟⲩⲟⲉⲓϣ ⲛϭⲓ ⲡⲉ ⲡⲣⲉⲥⲃⲩⲧⲉⲣⲟⲥ ⲛ ϣⲓⲏⲧ <b>ϣⲁ</b> ⲡ ⲁⲣⲭⲏⲉⲡⲓⲥⲕⲟⲡⲟⲥ ⲛ ⲣⲁⲕⲟⲧⲉ .
-  * [AUX]() 7: ϩⲁⲙⲟⲓ ⲟⲛ ⲛⲉ <b>ϣⲁ</b> ⲧⲉⲧⲛ ϭⲱ ⲛ ⲧⲉⲓ ϩⲉ ⲡⲉ ,
+  * [AUX]() 19: ϩⲁⲙⲟⲓ ⲟⲛ ⲛⲉ <b>ϣⲁ</b> ⲧⲉⲧⲛ ϭⲱ ⲛ ⲧⲉⲓ ϩⲉ ⲡⲉ ,
+  * [ADP]() 12: ⲁ ϥ ⲃⲱⲕ ⲛ ⲟⲩⲟⲉⲓϣ ⲛϭⲓ ⲡⲉ ⲡⲣⲉⲥⲃⲩⲧⲉⲣⲟⲥ ⲛ ϣⲓⲏⲧ <b>ϣⲁ</b> ⲡ ⲁⲣⲭⲏⲉⲡⲓⲥⲕⲟⲡⲟⲥ ⲛ ⲣⲁⲕⲟⲧⲉ .
+  * [VERB]() 1: ⲁⲩⲱ ⲛⲧⲉⲣⲉ ⲡ ⲣⲏ <b>ϣⲁ</b> ⲁ ⲩ ϩⲱϭⲃ ⲁⲩⲱ ⲉⲧⲃⲉ ϫⲉ ⲙⲡ ⲟⲩ ϫⲉⲛⲟⲩⲛⲉ ⲉⲃⲟⲗ ⲁ ⲩ ϣⲟⲟⲩⲉ
 * ⲛⲧⲉ
-  * [AUX]() 5: ϩⲱⲥⲧⲉ ⲉ ⲛⲉϫ ⲧⲉϥ ϣⲧⲏⲛ ⲙ ⲡ ⲃⲟⲗ ⲛ ⲧⲉϥ ⲣⲓ ⲛ ϣⲟⲙⲛⲧ ⲛ ϩⲟⲟⲩ . <b>ⲛⲧⲉ</b> ⲧⲙ ⲗⲁⲁⲩ ⲧⲁⲓⲟ ⲥ ⲉ ϥⲓⲧ ⲥ ·
+  * [AUX]() 7: ϩⲱⲥⲧⲉ ⲉ ⲛⲉϫ ⲧⲉϥ ϣⲧⲏⲛ ⲙ ⲡ ⲃⲟⲗ ⲛ ⲧⲉϥ ⲣⲓ ⲛ ϣⲟⲙⲛⲧ ⲛ ϩⲟⲟⲩ . <b>ⲛⲧⲉ</b> ⲧⲙ ⲗⲁⲁⲩ ⲧⲁⲓⲟ ⲥ ⲉ ϥⲓⲧ ⲥ ·
   * [ADP]() 2: ⲙⲡⲉ ϥ ⲟⲩⲱϣ ⲉ ⲱⲛϩ ϩⲛ ⲟⲩ ⲙⲛⲧⲁⲡⲟⲧⲁⲕⲧⲓⲕⲟⲥ ⲉⲧ ϫⲏⲕ ⲉⲃⲟⲗ · ⲻ <b>ⲛⲧⲉ</b> ⲡⲉ ⲑⲃⲃⲓⲟ ⲛ ϩⲏⲧ · ⲻ
-* ⲧⲉ
-  * [DET]() 21: ⲁⲩⲱ ⲛ <b>ⲧⲉ</b> ⲩⲛⲟⲩ ⲁ ⲡⲉϥ ⲥⲱⲃⲁϩ ⲗⲟ ϩⲓⲱⲱ ϥ ⲁ ϥ ⲧⲃⲃⲟ .
-  * [AUX]() 4: ⲧⲁⲓ <b>ⲧⲉ</b> ⲧ ϩⲉ ⲉⲧ ⲕ ⲑⲗⲓⲃⲉ ⲛ ⲛ ϩⲏⲕⲉ ϩⲛ ⲛⲉⲕ ⲙⲛⲧⲣⲉϥϫⲓⲛϭⲟⲛⲥ ,
-* ⲙⲁ
-  * [NOUN]() 20: ⲧⲱⲙ ϭⲉ ⲉⲣⲛ ⲁⲛⲟⲙⲓⲁ ⲛⲓⲙ · ⲙⲛ ϫⲓⲛϭⲟⲛⲥ ⲛⲓⲙ ϩⲙ <b>ⲙⲁ</b> ⲛⲓⲙ ·
-  * [AUX]() 1: ⲁ ϥ ⲑⲉⲣⲁⲡⲟⲩ ⲛ ⲟⲩ ⲙⲏⲏϣⲉ ⲉ ⲩ ⲙⲟⲕϩ ⲛ ϣⲱⲛⲉ ⲉ ⲩ ϣⲟⲃⲉ ⲁⲩⲱ ⲟⲩ ⲙⲏⲏϣⲉ ⲛ ⲇⲁⲓⲙⲱⲛⲓⲟⲛ ⲁ ϥ ⲛⲟϫ ⲟⲩ ⲉⲃⲟⲗ ⲉ <b>ⲙⲁ</b> ϥ ⲕⲁ ⲛ ⲇⲁⲓⲙⲱⲛⲓⲟⲛ ⲉ ϣⲁϫⲉ ⲉⲃⲟⲗ ϫⲉ ⲉ ⲩ ⲥⲟⲟⲩⲛ ⲙⲙⲟ ϥ
+* ⲧⲣⲉ
+  * [VERB]() 18: ⲏ ⲉ ⲓ ⲛⲁ ⲕⲱⲧ ⲛ ϩⲉⲛ ⲥⲟⲃⲧ ⲉ ⲛ ⲙⲁ ⲛ ϩⲱⲧⲡ ⲉ ⲧⲙ <b>ⲧⲣⲉ</b> ⲕ ϣⲗⲏⲗ ⲉ ⲛⲥⲁ ⲙ ⲡ ⲉⲙⲛⲧ ,
+  * [AUX]() 6: ⲁ ⲩ ⲥⲉⲡⲥⲱⲡ ϥ ⲇⲉ ⲉ <b>ⲧⲣⲉ</b> ϥ ⲡⲱⲱⲛⲉ ⲉⲃⲟⲗ ϩⲛ ⲛⲉⲩ ⲧⲟϣ
+  * [NOUN]() 1: ⲉⲛⲉ ⲙⲡ ⲕ ⲥⲱⲧⲉ ⲙ ⲡⲉⲕ ⲗⲁⲟⲥ ⲡ ⲓⲥⲣⲁⲏⲗ ⲙ ⲡⲓ ⲟⲩⲟⲉⲓϣ ⲉⲃⲟⲗ ϩⲛ ⲛ ϭⲓϫ ⲙ ⲡⲓ ⲁⲛⲟⲙⲟⲥ ⲛⲁⲃⲟⲩⲭⲟⲇⲟⲛⲟⲥⲟⲣ , ⲙⲛ ⲛⲓ ⲕⲟⲟⲩⲉ ⲧⲏⲣ ⲟⲩ ⲉⲧ ⲉⲓⲛⲉ ⲙⲙⲟ ϥ ⲛⲧ ⲁ ⲩ ⲑⲙⲕⲟ ⲟⲩ ϩⲙ ⲡ <b>ⲧⲣⲉ</b> ⲕ ⲧⲁⲁ ⲩ ⲉϩⲣⲁⲓ ⲉ ⲧⲟⲟⲧ ⲟⲩ ϫⲉ ⲁ ⲕ ⲛⲟⲩϭⲥ ⲉⲣⲟ ⲟⲩ ,
+* ϣⲁⲣⲉ
+  * [AUX]() 2: ⲧⲁⲓ ⲧⲉ ⲧ ϩⲉ ⲉ <b>ϣⲁⲣⲉ</b> ϩⲁϩ ⲛϩⲏⲧ ⲟⲩ ⲧϩⲛⲉⲣⲱⲙⲉ ϩⲁ ⲡⲉⲩ ⲃⲉⲕⲉ ⲛ ⲥⲉ ϫⲟⲟⲩ ⲥⲉ ⲛⲏ ⲧⲛ ⲉ ⲣⲟⲉⲓⲥ ⲉⲣⲱ ⲧⲛ .
+  * [VERB]() 1: ⲁⲩⲱ ⲛ ϥ ⲛⲕⲟⲧⲕ ⲛ ϥ ⲧⲱⲟⲩⲛ ⲛ ⲧⲉ ⲩϣⲏ ⲙⲛ ⲡⲉ ϩⲟⲟⲩ <b>ϣⲁⲣⲉ</b> ⲡⲉ ϭⲣⲟϭ ϯⲟⲩⲱ ⲛ ϥ ⲣⲛⲟϭ ⲉ ⲛ ϥ ⲥⲟⲟⲩⲛ ⲁⲛ ⲛⲧⲟϥ ⲛ ⲧ ϩⲉ
 * ⲙⲉ
-  * [NOUN]() 2: ⲱ ⲛ ⲣⲱⲙⲉ ⲉⲧⲉⲣⲉ ϯⲥⲙⲏ ⲁⲡⲉⲓⲗⲉⲓ ⲉⲣⲱ ⲧⲛ ϫⲉ ⲛ ⲉⲃⲟⲗ ϩⲛ ⲟⲩ ϯⲧⲱⲛ ⲉⲧ ⲟ ⲛ ⲁⲧⲥⲱⲧⲙ ⲛⲥⲁ ⲧ <b>ⲙⲉ</b> ⲉⲧ ⲡⲉⲓⲑⲉ ⲇⲉ ⲉ ⲡ ϫⲓⲛϭⲟⲛⲥ , ⲛ ⲟⲩ ⲟⲣⲅⲏ ⲙⲛ ⲟⲩ ϭⲱⲛⲧ ⲙⲛ ⲟⲩ ⲑⲗⲓⲯⲓⲥ , ⲙⲛ ⲟⲩ ⲗⲱϫϩ ⲉϫⲙ ⲯⲩⲭⲏ ⲛⲓⲙ ⲛ ⲣⲱⲙⲉ ⲉⲧ ⲣϩⲱⲃ ⲉ ⲡ ⲡⲉⲧϩⲟⲟⲩ .
-  * [AUX]() 1: ⲙⲛⲧⲁ ⲛ ⲟⲉⲓⲕ ⲉ ⲟⲩⲱⲙ ⲡⲉⲛ ⲣⲟⲟⲩϣ ⲁⲛ ⲡⲉ ϩⲱⲃ ⲛ ⲧⲉⲓ ϩⲉ · ⲉⲣⲉ ⲛⲉⲛ ϣⲏⲣⲉ ϩⲕⲁⲉⲓⲧ , ⲉ ⲩ ⲕⲏⲕⲁϩⲏⲩ · ⲉⲣⲉ ⲡⲉⲩ ϩⲟⲩⲟ ⲣⲙⲛⲧⲣⲉ ϫⲉ <b>ⲙⲉ</b> ⲛ ϫⲱⲕⲙ ϩⲛ ⲥⲓⲟⲟⲩⲛⲉ ·
+  * [NOUN]() 3: ⲧⲉ ⲥϩⲓⲙⲉ ⲇⲉ ⲁ ⲥ ⲣϩⲟⲧⲉ ⲁⲩⲱ ⲁ ⲥ ⲥⲧⲱⲧ ⲉ ⲥ ⲥⲟⲟⲩⲛ ⲙ ⲡⲉ ⲛⲧ ⲁ ϥ ϣⲱⲡⲉ ⲙⲙⲟ ⲥ ⲁ ⲥ ⲉⲓ ⲁ ⲥ ⲡⲁϩⲧ ⲥ ϩⲁⲣⲁⲧ ϥ ⲁ ⲥ ⲧⲁⲟⲩⲟ ⲉⲣⲟ ϥ ⲛ ⲧ <b>ⲙⲉ</b> ⲧⲏⲣ ⲥ
+  * [AUX]() 2: ⲁϫⲛ ⲡⲁⲣⲁⲃⲟⲗⲏ ⲇⲉ <b>ⲙⲉ</b> ϥ ϣⲁϫⲉ ⲛⲙⲙⲁ ⲩ ⲛⲥⲁ ⲩ ⲥⲁ ⲇⲉ ϣⲁ ϥ ⲃⲟⲗ ⲟⲩ ⲧⲏⲣ ⲟⲩ ⲉ ⲛⲉϥ ⲙⲁⲑⲏⲧⲏⲥ .
+* ⲉⲣϣⲁⲛ
+  * [SCONJ]() 5: ⲁⲩⲱ <b>ⲉⲣϣⲁⲛ</b> ⲟⲩ ⲏⲓ ⲡⲱⲣϫ ⲉ ⲛⲉϥ ⲉⲣⲏⲩ ⲛⲛⲉ ϣ ⲡ ⲏⲓ ⲉⲧ ⲙⲙⲁⲩ ⲁϩⲉ ⲣⲁⲧ ϥ .
+  * [AUX]() 1: <b>ⲉⲣϣⲁⲛ</b> ⲡ ⲕⲁⲣⲡⲟⲥ ⲇⲉ ⲡⲱϩ ⲛ ⲧⲉ ⲩⲛⲟⲩ ϣⲁ ϥ ⲛ ⲡ ⲟϩⲥ ϫⲉ ⲁ ⲡ ⲧⲉ ⲙ ⲡ ⲱϩⲥ ϣⲱⲡⲉ
 
 ## Morphology
 
-The form / lemma ratio of `AUX` is 1.384615 (the average of all parts of speech is 1.168996).
+The form / lemma ratio of `AUX` is 1.312500 (the average of all parts of speech is 1.152000).
 
-The 1st highest number of forms (3) was observed with the lemma “ⲡⲉ”: ⲛⲉ, ⲡⲉ, ⲧⲉ.
+The 1st highest number of forms (2) was observed with the lemma “ϣⲁⲣⲉ”: ϣⲁ, ϣⲁⲣⲉ.
 
-The 2nd highest number of forms (2) was observed with the lemma “ϣⲁⲣⲉ”: ϣⲁ, ϣⲁⲣⲉ.
+The 2nd highest number of forms (2) was observed with the lemma “ⲙⲡⲁⲧⲉ”: ⲙⲡⲁⲧ, ⲙⲡⲁⲧⲉ.
 
 The 3rd highest number of forms (2) was observed with the lemma “ⲙⲡⲉ”: ⲙⲡ, ⲙⲡⲉ.
 
@@ -69,11 +72,21 @@ The 3rd highest number of forms (2) was observed with the lemma “ⲙⲡⲉ”:
 
 ## Relations
 
-`AUX` nodes are attached to their parents using 3 different relations: [cop-dep/aux]() (236; 82% instances), [cop-dep/cop]() (33; 11% instances), [cop-dep/mark]() (20; 7% instances)
+`AUX` nodes are attached to their parents using 4 different relations: [cop-dep/aux]() (463; 91% instances), [cop-dep/mark]() (41; 8% instances), [cop-dep/xcomp]() (4; 1% instances), [cop-dep/advcl]() (2; 0% instances)
 
-Parents of `AUX` nodes belong to 4 different parts of speech: [VERB]() (256; 89% instances), [NOUN]() (15; 5% instances), [DET]() (9; 3% instances), [PRON]() (9; 3% instances)
+Parents of `AUX` nodes belong to 4 different parts of speech: [VERB]() (495; 97% instances), [NOUN]() (13; 3% instances), [DET]() (1; 0% instances), [NUM]() (1; 0% instances)
 
-289 (100%) `AUX` nodes are leaves.
+504 (99%) `AUX` nodes are leaves.
 
-The highest child degree of a `AUX` node is 0.
+0 (0%) `AUX` nodes have one child.
+
+4 (1%) `AUX` nodes have two children.
+
+2 (0%) `AUX` nodes have three or more children.
+
+The highest child degree of a `AUX` node is 3.
+
+Children of `AUX` nodes are attached using 2 different relations: [cop-dep/mark]() (8; 57% instances), [cop-dep/xcomp]() (6; 43% instances)
+
+Children of `AUX` nodes belong to 3 different parts of speech: [ADP]() (6; 43% instances), [VERB]() (6; 43% instances), [CCONJ]() (2; 14% instances)
 

@@ -4,57 +4,53 @@
 
 ## Treebank Statistics (UD_Vietnamese)
 
-There are 51 `PART` lemmas (1%), 51 `PART` types (1%) and 267 `PART` tokens (1%).
-Out of 13 observed tags, the rank of `PART` is: 8 in number of lemmas, 8 in number of types and 12 in number of tokens.
+There are 48 `PART` lemmas (1%), 48 `PART` types (1%) and 180 `PART` tokens (1%).
+Out of 14 observed tags, the rank of `PART` is: 8 in number of lemmas, 8 in number of types and 13 in number of tokens.
 
-The 10 most frequent `PART` lemmas: <em>chính, ngay, cả, thế, thôi, thật, đến, riêng, mà, gì</em>
+The 10 most frequent `PART` lemmas: <em>ngay, chính, cả, thế, thôi, thật, Riêng, đến, đấy, cái</em>
 
-The 10 most frequent `PART` types:  <em>chính, ngay, cả, thế, thôi, thật, đến, riêng, mà, gì</em>
+The 10 most frequent `PART` types:  <em>ngay, chính, cả, thế, thôi, thật, Riêng, đến, đấy, cái</em>
 
-The 10 most frequent ambiguous lemmas: <em>chính</em> ([PART]() 24, [ADJ]() 3, [X]() 1), <em>ngay</em> ([PART]() 20, [X]() 16), <em>cả</em> ([PROPN]() 48, [PART]() 21, [X]() 3, [ADJ]() 1), <em>thế</em> ([PROPN]() 26, [PART]() 8, [NOUN]() 3), <em>thôi</em> ([PART]() 13, [VERB]() 6), <em>thật</em> ([PART]() 9, [ADJ]() 8, [X]() 6), <em>đến</em> ([ADP]() 136, [VERB]() 90, [X]() 16, [PART]() 11), <em>riêng</em> ([ADJ]() 10, [PART]() 1), <em>mà</em> ([CONJ]() 96, [PART]() 8), <em>gì</em> ([PROPN]() 83, [PART]() 6, [X]() 4, [NOUN]() 1)
+The 10 most frequent ambiguous lemmas: <em>ngay</em> ([X]() 13, [PART]() 12), <em>chính</em> ([PART]() 16, [ADJ]() 3, [X]() 1), <em>cả</em> ([PROPN]() 36, [PART]() 14, [ADJ]() 1), <em>thế</em> ([PROPN]() 15, [PART]() 8), <em>thôi</em> ([PART]() 9, [VERB]() 5), <em>thật</em> ([PART]() 7, [ADJ]() 5, [X]() 4), <em>đến</em> ([ADP]() 103, [VERB]() 71, [X]() 14, [PART]() 7), <em>đấy</em> ([PROPN]() 8, [PART]() 6), <em>cái</em> ([NOUN]() 60, [PART]() 4), <em>mà</em> ([CCONJ]() 66, [PART]() 4)
 
-The 10 most frequent ambiguous types:  <em>chính</em> ([PART]() 24, [ADJ]() 3, [X]() 1), <em>ngay</em> ([PART]() 20, [X]() 16), <em>cả</em> ([PROPN]() 48, [PART]() 21, [X]() 3, [ADJ]() 1), <em>thế</em> ([PROPN]() 26, [PART]() 8, [NOUN]() 3), <em>thôi</em> ([PART]() 13, [VERB]() 6), <em>thật</em> ([PART]() 9, [ADJ]() 8, [X]() 6), <em>đến</em> ([ADP]() 136, [VERB]() 90, [X]() 16, [PART]() 11), <em>riêng</em> ([ADJ]() 10, [PART]() 1), <em>mà</em> ([CONJ]() 96, [PART]() 8), <em>gì</em> ([PROPN]() 83, [PART]() 6, [X]() 4, [NOUN]() 1)
+The 10 most frequent ambiguous types:  <em>ngay</em> ([X]() 13, [PART]() 12), <em>chính</em> ([PART]() 16, [ADJ]() 3, [X]() 1), <em>cả</em> ([PROPN]() 36, [PART]() 14, [ADJ]() 1), <em>thế</em> ([PROPN]() 15, [PART]() 8), <em>thôi</em> ([PART]() 9, [VERB]() 5), <em>thật</em> ([PART]() 7, [ADJ]() 5, [X]() 4), <em>đến</em> ([ADP]() 103, [VERB]() 71, [X]() 14, [PART]() 7), <em>đấy</em> ([PROPN]() 8, [PART]() 6), <em>cái</em> ([NOUN]() 60, [PART]() 4), <em>mà</em> ([CCONJ]() 66, [PART]() 4)
 
 
-* <em>chính</em>
-  * [PART]() 24: <em>chú hổ do <b>chính</b> bàn_tay các " bà_đỡ " vườn thú Hà_Nội đã ra_đời .</em>
-  * [ADJ]() 3: <em>nguyên_nhân <b>chính</b> là do khai_thác cát bừa_bãi .</em>
-  * [X]() 1: <em>số thì <b>chính</b> là số di_động của và số Y duy_nhất kia chắc cũng của .</em>
 * <em>ngay</em>
-  * [PART]() 20: <em>Chị đáp <b>ngay</b> : " ngựa ! Vì nó nhớ quá dai .</em>
-  * [X]() 16: <em>Nếu lấy <b>ngay</b> , hắn chỉ còn ba bộ 5 , 7 và 8 kg .</em>
+  * [X]() 13: <em>Nhiều người hàng xóm nghe tin tới xem và đặt hàng <b>ngay</b> .</em>
+  * [PART]() 12: <em>Tôi ngồi <b>ngay</b> đằng sau ông .</em>
+* <em>chính</em>
+  * [PART]() 16: <em>thay vào đó là những bức ảnh nói về <b>chính</b> những đứa trẻ lang thang .</em>
+  * [ADJ]() 3: <em>thời gian <b>chính</b> là đi học và lên thư viện .</em>
+  * [X]() 1: <em>số thì <b>chính</b> là số di động của và số Y duy nhất kia chắc cũng của .</em>
 * <em>cả</em>
-  * [PROPN]() 48: <em>Diện_tích tăng lên , sản_lượng khoai hằng năm mình thu về <b>cả</b> ngàn tấn .</em>
-  * [PART]() 21: <em>Cả hai anh_em tàn_tật và một người cháu ra cứu_giúp đều chết_đuối <b>cả</b> .</em>
-  * [X]() 3: <em>Mà ông không_thể <b>cả</b> ngày không nói .</em>
-  * [ADJ]() 1: <em>Em_út theo anh <b>cả</b> vào miền Nam .</em>
+  * [PROPN]() 36: <em>có bữa mẹ Tùng mời <b>cả</b> thầy giáo và hai thằng cùng ăn tối .</em>
+  * [PART]() 14: <em>" khổ quá , ông này còn mượn <b>cả</b> vở cháu .</em>
+  * [ADJ]() 1: <em>Em út theo anh <b>cả</b> vào miền Nam .</em>
 * <em>thế</em>
-  * [PROPN]() 26: <em>có một thế_hệ sinh_viên đã vào trận như <b>thế</b> .</em>
-  * [PART]() 8: <em>ngẫm sao mà thương <b>thế</b> !</em>
-  * [NOUN]() 3: <em>quân du_kích vừa đánh vừa lui trước <b>thế</b> tấn_công biển người của địch .</em>
+  * [PROPN]() 15: <em>Cuộc sống kéo dài như <b>thế</b> .</em>
+  * [PART]() 8: <em>Cứ <b>thế</b> người và ngựa ùa ra quốc lộ 7 ... " .</em>
 * <em>thôi</em>
-  * [PART]() 13: <em>ông Ngọc bảo vấn_đề chỉ còn là dư_luận và điều_kiện từng gia_đình <b>thôi</b> .</em>
-  * [VERB]() 6: <em>Nếu không được thì <b>thôi</b> .</em>
+  * [PART]() 9: <em>" lúc đầu đau mình không nói với ai , cứ âm thầm chịu <b>thôi</b> .</em>
+  * [VERB]() 5: <em>đơn giản nhất là bám theo cả chục kilômet , khi nào khách mua mới <b>thôi</b> .</em>
 * <em>thật</em>
-  * [PART]() 9: <em>Tuy_nhiên ông Chương phải đánh_dấu vị_trí bì_thư <b>thật</b> chính_xác .</em>
-  * [ADJ]() 8: <em>gốc của các cò đều là tb <b>thật</b> .</em>
-  * [X]() 6: <em>đơn_vị đầu_tư cần xem_xét kỹ và cân_nhắc kỹ các phương_án lựa_chọn sao cho <b>thật</b> tối_ưu .</em>
+  * [PART]() 7: <em>chán <b>thật</b> ! " và cũng của số máy lần trước .</em>
+  * [ADJ]() 5: <em>Nếu nói về hình thức , mẫu mã thì ai cũng nghĩ đó là hàng <b>thật</b> .</em>
+  * [X]() 4: <em>đơn vị đầu tư cần xem xét kỹ và cân nhắc kỹ các phương án lựa chọn sao cho <b>thật</b> tối ưu .</em>
 * <em>đến</em>
-  * [ADP]() 136: <em>người và thú vật nhau , anh lê được ra <b>đến</b> cửa , người bê_bết máu .</em>
-  * [VERB]() 90: <em>khi chúng_tôi <b>đến</b> , anh Thành đang chuẩn_bị vào ca chiều .</em>
-  * [X]() 16: <em>ở đó có <b>đến</b> 13 con_người chen_chúc nhau sống trong đó .</em>
-  * [PART]() 11: <em>sức_khỏe yếu , lại cảnh nghèo_túng nên phải <b>đến</b> tháng 9 - 1987 LBKT 33 tuổi RBKT ông mới lấy được vợ .</em>
-* <em>riêng</em>
-  * [ADJ]() 10: <em>Những thông_tin thể_hiện trong đơn tố_cáo là chuyện <b>riêng</b> của công_ty .</em>
-  * [PART]() 1: <em>Chỉ <b>riêng</b> xã Nhuận_Đức có trên 600 anh_hùng liệt_sĩ ; toàn củ_chi có trên 10_._000 liệt_sĩ .</em>
+  * [ADP]() 103: <em>Cho <b>đến</b> giờ có nhiều cá nhân và tổ chức đăng ký tham gia với chúng tôi .</em>
+  * [VERB]() 71: <em><b>đến</b> VN lần này , hai người như đang trở lại ngôi nhà của mình .</em>
+  * [X]() 14: <em>Chúng dẫn thẳng lên núi , nơi hàng lậu được chuyển <b>đến</b> .</em>
+  * [PART]() 7: <em>nơi đây có <b>đến</b> ba chiếc đèn pin của CSGT chia nhau thành hai nhóm đón hai chiều xe lên xuống .</em>
+* <em>đấy</em>
+  * [PROPN]() 8: <em>Chị bấm số : " Em đang ở đâu <b>đấy</b> ? " .</em>
+  * [PART]() 6: <em>" hùng <b>đấy</b> à ?</em>
+* <em>cái</em>
+  * [NOUN]() 60: <em><b>cái</b> gì trên đời cũng nhất Hải .</em>
+  * [PART]() 4: <em>Nhưng khổ <b>cái</b> vẫn câm điếc không biết gì .</em>
 * <em>mà</em>
-  * [CONJ]() 96: <em>khó <b>mà</b> giúp được gì cho nỗi buồn khổ đó .</em>
-  * [PART]() 8: <em>Bà bảo : " Nó là con_trai tôi <b>mà</b> .</em>
-* <em>gì</em>
-  * [PROPN]() 83: <em>" Vậy bà còn đến tòa làm <b>gì</b> ? " .</em>
-  * [PART]() 6: <em>sau lần trao_đổi đó , nhà hàng_xóm không có_vẻ <b>gì</b> săn_đón ông Chương .</em>
-  * [X]() 4: <em>người dân hai bên bờ kêu_gào không thấu , khiếu_nại tập_thể cũng không giải_quyết được <b>gì</b> .</em>
-  * [NOUN]() 1: <em>Đó là những <b>gì</b> có_thể nói lên sự_thật .</em>
+  * [CCONJ]() 66: <em>Tùng nói không nên vội vàng <b>mà</b> mẹ phải âm thầm tìm hiểu .</em>
+  * [PART]() 4: <em>Tao là mạnh " Quảng Ninh " ở berlin với mày đây <b>mà</b> ... " .</em>
 
 ## Morphology
 
@@ -64,24 +60,24 @@ The 1st highest number of forms (1) was observed with the lemma “Cho”: <em>C
 
 The 2nd highest number of forms (1) was observed with the lemma “Chính”: <em>Chính</em>.
 
-The 3rd highest number of forms (1) was observed with the lemma “Cả”: <em>Cả</em>.
+The 3rd highest number of forms (1) was observed with the lemma “Ngay”: <em>Ngay</em>.
 
 `PART` does not occur with any features.
 
 
 ## Relations
 
-`PART` nodes are attached to their parents using 2 different relations: [vi-dep/discourse]() (266; 100% instances), [vi-dep/auxpass]() (1; 0% instances)
+`PART` nodes are attached to their parents using 2 different relations: [vi-dep/discourse]() (179; 99% instances), [vi-dep/aux:pass]() (1; 1% instances)
 
-Parents of `PART` nodes belong to 9 different parts of speech: [VERB]() (102; 38% instances), [NOUN]() (88; 33% instances), [ADJ]() (44; 16% instances), [PROPN]() (19; 7% instances), [ADP]() (7; 3% instances), [X]() (3; 1% instances), [PART]() (2; 1% instances), [CONJ]() (1; 0% instances), [NUM]() (1; 0% instances)
+Parents of `PART` nodes belong to 8 different parts of speech: [VERB]() (68; 38% instances), [NOUN]() (59; 33% instances), [ADJ]() (29; 16% instances), [PROPN]() (12; 7% instances), [ADP]() (7; 4% instances), [PART]() (2; 1% instances), [X]() (2; 1% instances), [CCONJ]() (1; 1% instances)
 
-264 (99%) `PART` nodes are leaves.
+177 (98%) `PART` nodes are leaves.
 
-3 (1%) `PART` nodes have one child.
+3 (2%) `PART` nodes have one child.
 
 The highest child degree of a `PART` node is 1.
 
-Children of `PART` nodes are attached using 2 different relations: [vi-dep/discourse]() (2; 67% instances), [vi-dep/auxpass]() (1; 33% instances)
+Children of `PART` nodes are attached using 2 different relations: [vi-dep/discourse]() (2; 67% instances), [vi-dep/aux:pass]() (1; 33% instances)
 
 Children of `PART` nodes belong to 2 different parts of speech: [PART]() (2; 67% instances), [VERB]() (1; 33% instances)
 

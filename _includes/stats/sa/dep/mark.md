@@ -21,11 +21,11 @@ The following 1 pairs of parts of speech are connected with `mark`: [sa-pos/VERB
 # visual-style 4	fgColor:white
 # visual-style 4 5 mark	color:blue
 1	अप्रधानः	अ-प्रधानः	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	Translit=apradhānaḥ|LTranslit=a-pradhānaḥ
-2	प्रधानम्	प्रधन	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	3	dobj	_	Translit=pradhānam|LTranslit=pradhana
+2	प्रधानम्	प्रधन	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	3	obj	_	Translit=pradhānam|LTranslit=pradhana
 3	स्यात्	अस्	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Translit=syāt|LTranslit=as
 4	सेवते	सेव्	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Mid	3	advcl	_	Translit=sevate|LTranslit=sev
 5	यदि	यदि	ADP	_	_	4	mark	_	Translit=yadi|LTranslit=yadi
-6	पार्थिवम्	पार्थिव	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	4	dobj	_	Translit=pārthivam|LTranslit=pārthiva
+6	पार्थिवम्	पार्थिव	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	4	obj	_	Translit=pārthivam|LTranslit=pārthiva
 
 ~~~
 

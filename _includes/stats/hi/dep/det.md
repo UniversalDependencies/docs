@@ -6,12 +6,12 @@
 
 This relation is universal.
 
-7205 nodes (2%) are attached to their parents as `det`.
+6494 nodes (2%) are attached to their parents as `det`.
 
-7205 instances of `det` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.20166551006246.
+6494 instances of `det` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.1981829380967.
 
-The following 12 pairs of parts of speech are connected with `det`: [hi-pos/NOUN]()-[hi-pos/DET]() (6708; 93% instances), [hi-pos/ADJ]()-[hi-pos/DET]() (172; 2% instances), [hi-pos/ADV]()-[hi-pos/DET]() (142; 2% instances), [hi-pos/PRON]()-[hi-pos/DET]() (49; 1% instances), [hi-pos/PROPN]()-[hi-pos/DET]() (39; 1% instances), [hi-pos/NOUN]()-[hi-pos/PRON]() (31; 0% instances), [hi-pos/NUM]()-[hi-pos/NUM]() (20; 0% instances), [hi-pos/ADJ]()-[hi-pos/ADJ]() (19; 0% instances), [hi-pos/DET]()-[hi-pos/DET]() (16; 0% instances), [hi-pos/ADP]()-[hi-pos/DET]() (3; 0% instances), [hi-pos/NUM]()-[hi-pos/DET]() (3; 0% instances), [hi-pos/PRON]()-[hi-pos/PRON]() (3; 0% instances).
+The following 12 pairs of parts of speech are connected with `det`: [hi-pos/NOUN]()-[hi-pos/DET]() (6050; 93% instances), [hi-pos/ADJ]()-[hi-pos/DET]() (160; 2% instances), [hi-pos/ADV]()-[hi-pos/DET]() (121; 2% instances), [hi-pos/PRON]()-[hi-pos/DET]() (47; 1% instances), [hi-pos/PROPN]()-[hi-pos/DET]() (37; 1% instances), [hi-pos/NOUN]()-[hi-pos/PRON]() (31; 0% instances), [hi-pos/ADJ]()-[hi-pos/ADJ]() (17; 0% instances), [hi-pos/DET]()-[hi-pos/DET]() (13; 0% instances), [hi-pos/NUM]()-[hi-pos/NUM]() (9; 0% instances), [hi-pos/ADP]()-[hi-pos/DET]() (3; 0% instances), [hi-pos/NUM]()-[hi-pos/DET]() (3; 0% instances), [hi-pos/PRON]()-[hi-pos/PRON]() (3; 0% instances).
 
 
 ~~~ conllu
@@ -30,7 +30,7 @@ The following 12 pairs of parts of speech are connected with `det`: [hi-pos/NOUN
 8	के	के	ADP	PSP	AdpType=Post|Case=Acc|Gender=Masc	7	case	_	ChunkId=NP3|ChunkType=child|Translit=ke
 9	रूप	रूप	ADP	PSP	Case=Acc|Gender=Masc	7	case	_	ChunkId=NP3|ChunkType=child|Translit=rūpa
 10	में	में	ADP	PSP	AdpType=Post	7	case	_	ChunkId=NP3|ChunkType=child|Translit=meṁ
-11	है	है	VERB	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	cop	_	Vib=है|Tam=hE|ChunkId=VGF|ChunkType=head|Stype=declarative|Translit=hai
+11	है	है	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	cop	_	Vib=है|Tam=hE|ChunkId=VGF|ChunkType=head|Stype=declarative|Translit=hai
 12	।	।	PUNCT	SYM	_	7	punct	_	ChunkId=BLK|ChunkType=head|Translit=.
 
 ~~~
@@ -47,8 +47,8 @@ The following 12 pairs of parts of speech are connected with `det`: [hi-pos/NOUN
 3	इतने	इतना	DET	QF	Gender=Masc|Number=Plur	4	det	_	ChunkId=JJP|ChunkType=child|Translit=itane
 4	बेहतर	बेहतर	ADJ	JJ	_	5	amod	_	ChunkId=JJP|ChunkType=head|Translit=behatara
 5	कभी	कभी	PRON	PRP	PronType=Prs	0	root	_	ChunkId=NP2|ChunkType=head|Translit=kabhī
-6	नहीं	नहीं	PART	NEG	Negative=Neg|PronType=Neg	7	neg	_	ChunkId=VGF|ChunkType=child|Translit=nahīṁ
-7	थे	था	VERB	VM	Gender=Masc|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	5	cop	_	Vib=था|Tam=WA|ChunkId=VGF|ChunkType=head|Stype=declarative|Translit=the
+6	नहीं	नहीं	PART	NEG	Polarity=Neg|PronType=Neg	7	advmod	_	ChunkId=VGF|ChunkType=child|Translit=nahīṁ
+7	थे	था	AUX	VM	Gender=Masc|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	5	cop	_	Vib=था|Tam=WA|ChunkId=VGF|ChunkType=head|Stype=declarative|Translit=the
 8	।	।	PUNCT	SYM	_	5	punct	_	ChunkId=BLK|ChunkType=head|Translit=.
 
 ~~~
@@ -70,7 +70,7 @@ The following 12 pairs of parts of speech are connected with `det`: [hi-pos/NOUN
 8	कुँवर	कुँवर	PROPN	NNP	Case=Acc|Gender=Masc|Number=Sing|Person=3	10	nmod	_	Vib=0_का|Tam=0|ChunkId=NP4|ChunkType=head|Translit=kum̃vara
 9	का	का	ADP	PSP	AdpType=Post|Case=Nom|Gender=Masc|Number=Sing	8	case	_	ChunkId=NP4|ChunkType=child|Translit=kā
 10	मंदिर	मंदिर	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	0	root	_	Vib=0|Tam=0|ChunkId=NP5|ChunkType=head|Translit=maṁdira
-11	है	है	VERB	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	cop	_	Vib=है|Tam=hE|ChunkId=VGF|ChunkType=head|Stype=declarative|Translit=hai
+11	है	है	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	cop	_	Vib=है|Tam=hE|ChunkId=VGF|ChunkType=head|Stype=declarative|Translit=hai
 12	।	।	PUNCT	SYM	_	10	punct	_	ChunkId=BLK|ChunkType=head|Translit=.
 
 ~~~

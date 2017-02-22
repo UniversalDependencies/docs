@@ -4,54 +4,53 @@
 
 ## Treebank Statistics (UD_Gothic)
 
-There are 27 `SCONJ` lemmas (1%), 36 `SCONJ` types (0%) and 1702 `SCONJ` tokens (3%).
-Out of 13 observed tags, the rank of `SCONJ` is: 9 in number of lemmas, 8 in number of types and 10 in number of tokens.
+There are 27 `SCONJ` lemmas (1%), 36 `SCONJ` types (0%) and 1385 `SCONJ` tokens (3%).
+Out of 14 observed tags, the rank of `SCONJ` is: 7 in number of lemmas, 9 in number of types and 10 in number of tokens.
 
-The 10 most frequent `SCONJ` lemmas: <em>ei, þatei, jabai, unte, þan, biþe, miþþanei, nibai, ibai, swaswe</em>
+The 10 most frequent `SCONJ` lemmas: <em>ei, þatei, jabai, unte, þan, biþe, ibai, miþþanei, nibai, swaswe</em>
 
-The 10 most frequent `SCONJ` types:  <em>ei, þatei, jabai, unte, þan, biþe, miþþanei, ibai, swaswe, niba</em>
+The 10 most frequent `SCONJ` types:  <em>ei, þatei, jabai, unte, þan, biþe, ibai, miþþanei, swaswe, iþ</em>
 
-The 10 most frequent ambiguous lemmas: <em>ei</em> ([SCONJ]() 502, [ADV]() 12), <em>þatei</em> ([SCONJ]() 396, [ADV]() 2), <em>jabai</em> ([SCONJ]() 267, [CONJ]() 2, [ADV]() 1), <em>unte</em> ([SCONJ]() 211, [ADV]() 155), <em>þan</em> ([ADV]() 494, [SCONJ]() 71), <em>biþe</em> ([SCONJ]() 62, [ADV]() 6), <em>ibai</em> ([ADV]() 40, [SCONJ]() 21), <em>swaswe</em> ([ADV]() 151, [SCONJ]() 18), <em>þande</em> ([SCONJ]() 15, [ADV]() 2), <em>þei</em> ([ADV]() 14, [SCONJ]() 14)
+The 10 most frequent ambiguous lemmas: <em>ei</em> ([SCONJ]() 402, [ADV]() 11), <em>þatei</em> ([SCONJ]() 332, [ADV]() 2), <em>jabai</em> ([SCONJ]() 222, [CCONJ]() 2), <em>unte</em> ([SCONJ]() 172, [ADV]() 131), <em>þan</em> ([ADV]() 366, [SCONJ]() 60), <em>biþe</em> ([SCONJ]() 47, [ADV]() 5), <em>ibai</em> ([ADV]() 33, [SCONJ]() 18), <em>swaswe</em> ([ADV]() 127, [SCONJ]() 15), <em>iþ</em> ([CCONJ]() 446, [SCONJ]() 10), <em>þande</em> ([SCONJ]() 10, [ADV]() 2)
 
-The 10 most frequent ambiguous types:  <em>ei</em> ([SCONJ]() 502, [ADV]() 11), <em>þatei</em> ([SCONJ]() 380, [PRON]() 178, [ADV]() 2), <em>jabai</em> ([SCONJ]() 265, [CONJ]() 2, [ADV]() 1), <em>unte</em> ([SCONJ]() 210, [ADV]() 154), <em>þan</em> ([ADV]() 494, [SCONJ]() 71), <em>biþe</em> ([SCONJ]() 57, [ADV]() 5), <em>ibai</em> ([ADV]() 39, [SCONJ]() 20), <em>swaswe</em> ([ADV]() 151, [SCONJ]() 18), <em>niba</em> ([ADV]() 23, [SCONJ]() 15), <em>þammei</em> ([PRON]() 70, [SCONJ]() 15)
+The 10 most frequent ambiguous types:  <em>ei</em> ([SCONJ]() 402, [ADV]() 10), <em>þatei</em> ([SCONJ]() 321, [PRON]() 137, [ADV]() 2), <em>jabai</em> ([SCONJ]() 220, [CCONJ]() 2), <em>unte</em> ([SCONJ]() 171, [ADV]() 131), <em>þan</em> ([ADV]() 366, [SCONJ]() 60), <em>biþe</em> ([SCONJ]() 44, [ADV]() 4), <em>ibai</em> ([ADV]() 32, [SCONJ]() 17), <em>swaswe</em> ([ADV]() 127, [SCONJ]() 15), <em>iþ</em> ([CCONJ]() 441, [SCONJ]() 10), <em>niba</em> ([ADV]() 22, [SCONJ]() 10)
 
 
 * <em>ei</em>
-  * [SCONJ]() 502: <em>frawardjand auk andwairþja seina <b>ei</b> gasaiƕaindau mannam fastandans</em>
-  * [ADV]() 11: <em>Abraham atta izwar sifaida <b>ei</b> gaseƕi dag meinana jah gasaƕ jah faginoda</em>
+  * [SCONJ]() 402: <em>ni hugjaiþ <b>ei</b> qemjau gatairan witoþ aiþþau praufetuns</em>
+  * [ADV]() 10: <em>ƕan lagg mel ist <b>ei</b> þata warþ imma</em>
 * <em>þatei</em>
-  * [SCONJ]() 380: <em>qiþan uh þan ist <b>þatei</b> ƕazuh saei afletai qen gibai izai afstassais bokos</em>
-  * [PRON]() 178: <em><b>þatei</b> ist</em>
+  * [SCONJ]() 321: <em>hausideduþ <b>þatei</b> qiþan ist þaim airizam</em>
+  * [PRON]() 137: <em>taleiþa kumei <b>þatei</b> ist gaskeiriþ</em>
   * [ADV]() 2: <em>ni <b>þatei</b> attan seƕi ƕas nibai saei was fram attin</em>
 * <em>jabai</em>
-  * [SCONJ]() 265: <em><b>jabai</b> nu liuhaþ þata in þus riqiz ist þata riqiz ƕan filu</em>
-  * [CONJ]() 2: <em><b>jabai</b> mageis galaubjan</em>
-  * [ADV]() 1: <em><b>jabai</b> gibaidau kunja þamma taikne</em>
+  * [SCONJ]() 220: <em>iþ <b>jabai</b> augo þein þata taihswo marzjai þuk usstagg ita jah wairp af þus</em>
+  * [CCONJ]() 2: <em><b>jabai</b> mageis galaubjan</em>
 * <em>unte</em>
-  * [SCONJ]() 210: <em>þisƕaduh þei gaggaiþ in gard þar saljaiþ <b>unte</b> usgaggaiþ jainþro</em>
-  * [ADV]() 154: <em><b>unte</b> ik du attin gagga</em>
+  * [SCONJ]() 171: <em>ni usgaggis jainþro <b>unte</b> usgibis þana minnistan kintu</em>
+  * [ADV]() 131: <em><b>unte</b> þeina ist þiudangardi jah mahts jah wulþus in aiwins</em>
 * <em>þan</em>
-  * [ADV]() 494: <em>qiþan uh <b>þan</b> ist þatei ƕazuh saei afletai qen gibai izai afstassais bokos</em>
-  * [SCONJ]() 71: <em>Xristus <b>þan</b> qimiþ ibai managizeins taiknins taujai þaimei sa tawida</em>
+  * [ADV]() 366: <em>qiþan uh <b>þan</b> ist þatei ƕazuh saei afletai qen gibai izai afstassais bokos</em>
+  * [SCONJ]() 60: <em>jah <b>þan</b> bidjaiþ ni sijaiþ swaswe þai liutans</em>
 * <em>biþe</em>
-  * [SCONJ]() 57: <em>aþþan <b>biþe</b> fastaiþ ni wairþaiþ swaswe þai liutans gaurai</em>
-  * [ADV]() 5: <em>iþ <b>biþe</b> laisteis</em>
+  * [SCONJ]() 44: <em>aþþan <b>biþe</b> fastaiþ ni wairþaiþ swaswe þai liutans gaurai</em>
+  * [ADV]() 4: <em>jah ni matida waiht in dagam jainaim jah at ustauhanaim þaim dagam <b>biþe</b> gredags warþ</em>
 * <em>ibai</em>
-  * [ADV]() 39: <em><b>ibai</b> aufto bi sunjai ufkunþedun þai reiks þatei sa ist bi sunjai Xristus</em>
-  * [SCONJ]() 20: <em>iþ sundro þaimei þuhta <b>ibai</b> sware rinnau aiþþau runnjau</em>
+  * [ADV]() 32: <em><b>ibai</b> mag unhulþo blindaim augona uslukan</em>
+  * [SCONJ]() 17: <em>aftra qiþa <b>ibai</b> ƕas mik muni unfrodana</em>
 * <em>swaswe</em>
-  * [ADV]() 151: <em>sijaiþ nu jus fullatojai <b>swaswe</b> atta izwar sa in himinam fullatojis ist</em>
-  * [SCONJ]() 18: <em>iþ Iesus þanamais waiht ni andhof <b>swaswe</b> sildaleikida Peilatus</em>
+  * [ADV]() 127: <em>sijaiþ nu jus fullatojai <b>swaswe</b> atta izwar sa in himinam fullatojis ist</em>
+  * [SCONJ]() 15: <em>jah warþ swe dauþs <b>swaswe</b> managai qeþun þatei gaswalt</em>
+* <em>iþ</em>
+  * [CCONJ]() 441: <em><b>iþ</b> saei taujiþ jah laisjai swa sah mikils haitada in þiudangardjai himine</em>
+  * [SCONJ]() 10: <em>frauja <b>iþ</b> weseis her ni þau gadauþnodedi broþar meins</em>
 * <em>niba</em>
-  * [ADV]() 23: <em>ƕas mag afletan frawaurhtins <b>niba</b> ains guþ</em>
-  * [SCONJ]() 15: <em>jah jainai <b>niba</b> gatulgjand sik in ungalaubeinai intrusgjanda</em>
-* <em>þammei</em>
-  * [PRON]() 70: <em>ƕa nu wileiþ ei taujau <b>þammei</b> qiþiþ þiudan Iudaie</em>
-  * [SCONJ]() 15: <em>iþ faginod in <b>þammei</b> namna izwara gamelida sind in himinam</em>
+  * [ADV]() 22: <em>ni ainshun þiuþeigs <b>niba</b> ains guþ</em>
+  * [SCONJ]() 10: <em><b>niba</b> taujau waurstwa attins meinis ni galaubeiþ mis</em>
 
 ## Morphology
 
-The form / lemma ratio of `SCONJ` is 1.333333 (the average of all parts of speech is 2.628337).
+The form / lemma ratio of `SCONJ` is 1.333333 (the average of all parts of speech is 2.517954).
 
 The 1st highest number of forms (3) was observed with the lemma “þatei”: <em>þammei, þatei, þizei</em>.
 
@@ -64,21 +63,21 @@ The 3rd highest number of forms (2) was observed with the lemma “duþe”: <em
 
 ## Relations
 
-`SCONJ` nodes are attached to their parents using 10 different relations: [got-dep/mark]() (1598; 94% instances), [got-dep/ccomp]() (50; 3% instances), [got-dep/advmod]() (15; 1% instances), [got-dep/aux]() (12; 1% instances), [got-dep/advcl]() (10; 1% instances), [got-dep/csubjpass]() (7; 0% instances), [got-dep/appos]() (5; 0% instances), [got-dep/conj]() (3; 0% instances), [got-dep/acl]() (1; 0% instances), [got-dep/root]() (1; 0% instances)
+`SCONJ` nodes are attached to their parents using 6 different relations: [got-dep/mark]() (1319; 95% instances), [got-dep/ccomp]() (40; 3% instances), [got-dep/advmod]() (14; 1% instances), [got-dep/csubj:pass]() (6; 0% instances), [got-dep/appos]() (4; 0% instances), [got-dep/conj]() (2; 0% instances)
 
-Parents of `SCONJ` nodes belong to 8 different parts of speech: [VERB]() (1656; 97% instances), [NOUN]() (13; 1% instances), [SCONJ]() (12; 1% instances), [ADJ]() (11; 1% instances), [ADV]() (4; 0% instances), [PRON]() (4; 0% instances), [CONJ]() (1; 0% instances), [ROOT]() (1; 0% instances)
+Parents of `SCONJ` nodes belong to 7 different parts of speech: [VERB]() (1331; 96% instances), [NOUN]() (20; 1% instances), [ADJ]() (14; 1% instances), [SCONJ]() (10; 1% instances), [PRON]() (6; 0% instances), [ADV]() (3; 0% instances), [NUM]() (1; 0% instances)
 
-1623 (95%) `SCONJ` nodes are leaves.
+1339 (97%) `SCONJ` nodes are leaves.
 
-44 (3%) `SCONJ` nodes have one child.
+23 (2%) `SCONJ` nodes have one child.
 
-22 (1%) `SCONJ` nodes have two children.
+13 (1%) `SCONJ` nodes have two children.
 
-13 (1%) `SCONJ` nodes have three or more children.
+10 (1%) `SCONJ` nodes have three or more children.
 
 The highest child degree of a `SCONJ` node is 6.
 
-Children of `SCONJ` nodes are attached using 15 different relations: [got-dep/conj]() (27; 20% instances), [got-dep/cc]() (26; 20% instances), [got-dep/nsubj]() (15; 11% instances), [got-dep/advmod]() (13; 10% instances), [got-dep/neg]() (11; 8% instances), [got-dep/aux]() (9; 7% instances), [got-dep/nmod]() (9; 7% instances), [got-dep/iobj]() (5; 4% instances), [got-dep/remnant]() (5; 4% instances), [got-dep/discourse]() (3; 2% instances), [got-dep/mwe]() (3; 2% instances), [got-dep/advcl]() (2; 2% instances), [got-dep/dobj]() (2; 2% instances), [got-dep/mark]() (1; 1% instances), [got-dep/xcomp]() (1; 1% instances)
+Children of `SCONJ` nodes are attached using 12 different relations: [got-dep/conj]() (24; 29% instances), [got-dep/cc]() (22; 26% instances), [got-dep/advmod]() (21; 25% instances), [got-dep/obl]() (4; 5% instances), [got-dep/discourse]() (3; 4% instances), [got-dep/nsubj]() (3; 4% instances), [got-dep/fixed]() (2; 2% instances), [got-dep/advcl]() (1; 1% instances), [got-dep/iobj]() (1; 1% instances), [got-dep/mark]() (1; 1% instances), [got-dep/obj:dir]() (1; 1% instances), [got-dep/xcomp]() (1; 1% instances)
 
-Children of `SCONJ` nodes belong to 10 different parts of speech: [ADV]() (29; 22% instances), [CONJ]() (26; 20% instances), [VERB]() (26; 20% instances), [NOUN]() (16; 12% instances), [PRON]() (14; 11% instances), [SCONJ]() (12; 9% instances), [ADJ]() (4; 3% instances), [NUM]() (2; 2% instances), [PROPN]() (2; 2% instances), [ADP]() (1; 1% instances)
+Children of `SCONJ` nodes belong to 8 different parts of speech: [CCONJ]() (22; 26% instances), [VERB]() (21; 25% instances), [ADV]() (18; 21% instances), [SCONJ]() (10; 12% instances), [NOUN]() (6; 7% instances), [PRON]() (5; 6% instances), [ADJ]() (1; 1% instances), [NUM]() (1; 1% instances)
 

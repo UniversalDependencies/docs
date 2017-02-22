@@ -6,12 +6,12 @@
 
 This relation is universal.
 
-149 nodes (3%) are attached to their parents as `advcl`.
+251 nodes (3%) are attached to their parents as `advcl`.
 
-109 instances of `advcl` (73%) are left-to-right (parent precedes child).
-Average distance between parent and child is 8.76510067114094.
+180 instances of `advcl` (72%) are left-to-right (parent precedes child).
+Average distance between parent and child is 8.19521912350598.
 
-The following 9 pairs of parts of speech are connected with `advcl`: [cop-pos/VERB]()-[cop-pos/VERB]() (119; 80% instances), [cop-pos/NOUN]()-[cop-pos/VERB]() (14; 9% instances), [cop-pos/VERB]()-[cop-pos/NOUN]() (5; 3% instances), [cop-pos/VERB]()-[cop-pos/PRON]() (4; 3% instances), [cop-pos/DET]()-[cop-pos/VERB]() (2; 1% instances), [cop-pos/VERB]()-[cop-pos/CONJ]() (2; 1% instances), [cop-pos/DET]()-[cop-pos/NOUN]() (1; 1% instances), [cop-pos/NOUN]()-[cop-pos/DET]() (1; 1% instances), [cop-pos/VERB]()-[cop-pos/PART]() (1; 1% instances).
+The following 14 pairs of parts of speech are connected with `advcl`: [cop-pos/VERB]()-[cop-pos/VERB]() (202; 80% instances), [cop-pos/NOUN]()-[cop-pos/VERB]() (20; 8% instances), [cop-pos/VERB]()-[cop-pos/NOUN]() (7; 3% instances), [cop-pos/DET]()-[cop-pos/VERB]() (6; 2% instances), [cop-pos/VERB]()-[cop-pos/PRON]() (4; 2% instances), [cop-pos/VERB]()-[cop-pos/AUX]() (2; 1% instances), [cop-pos/VERB]()-[cop-pos/CCONJ]() (2; 1% instances), [cop-pos/VERB]()-[cop-pos/PART]() (2; 1% instances), [cop-pos/DET]()-[cop-pos/NOUN]() (1; 0% instances), [cop-pos/NOUN]()-[cop-pos/DET]() (1; 0% instances), [cop-pos/PRON]()-[cop-pos/VERB]() (1; 0% instances), [cop-pos/PROPN]()-[cop-pos/VERB]() (1; 0% instances), [cop-pos/VERB]()-[cop-pos/DET]() (1; 0% instances), [cop-pos/VERB]()-[cop-pos/SCONJ]() (1; 0% instances).
 
 
 ~~~ conllu
@@ -20,104 +20,97 @@ The following 9 pairs of parts of speech are connected with `advcl`: [cop-pos/VE
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 14 advcl	color:blue
-1	ⲛ	ⲛ	ADV	NEG	_	4	neg	_	_
+1	ⲛ	ⲛ	ADV	NEG	Polarity=Neg	4	advmod	_	_
 2	ⲥⲉ	ⲛⲧⲟⲟⲩ	PRON	PPERS	_	4	nsubj	_	_
 3	ⲛⲁ	ⲛⲁ	AUX	FUT	_	4	aux	_	_
 4	ϭⲙϭⲟⲙ	ϭⲙϭⲟⲙ	VERB	V	_	0	root	_	_
 5	ⲅⲁⲣ	ⲅⲁⲣ	PART	PTC	_	4	advmod	_	_
-6	ⲁⲛ	ⲁⲛ	ADV	NEG	_	4	neg	_	_
+6	ⲁⲛ	ⲁⲛ	ADV	NEG	Polarity=Neg	4	advmod	_	_
 7	ⲉ	ⲉ	ADP	PREP	_	8	aux	_	_
 8	ⲣϩⲙϩⲁⲗ	ⲣϩⲙϩⲁⲗ	VERB	V	_	4	xcomp	_	_
 9	ⲛⲁ	ⲛⲁ	ADP	PREP	_	10	case	_	_
-10	ⲕ	ⲛⲧⲟⲕ	PRON	PPERO	_	8	nmod	_	_
+10	ⲕ	ⲛⲧⲟⲕ	PRON	PPERO	_	8	obl	_	_
 11	,	,	PUNCT	PUNCT	_	4	punct	_	_
 12	ⲛ	ⲛⲧⲉ	AUX	ACONJ	_	14	aux	_	_
 13	ⲥⲉ	ⲛⲧⲟⲟⲩ	PRON	PPERS	_	14	nsubj	_	_
 14	ⲣϩⲙϩⲁⲗ	ⲣϩⲙϩⲁⲗ	VERB	V	_	4	advcl	_	_
 15	ⲛ	ⲛ	ADP	PREP	_	17	case	_	_
 16	ⲛ	ⲡ	DET	ART	_	17	det	_	_
-17	ⲣⲉϥϫⲓⲛϭⲟⲛⲥ	ⲣⲉϥϫⲓⲛϭⲟⲛⲥ	NOUN	N	_	14	nmod	_	_
+17	ⲣⲉϥϫⲓⲛϭⲟⲛⲥ	ⲣⲉϥϫⲓⲛϭⲟⲛⲥ	NOUN	N	_	14	obl	_	_
 18	,	,	PUNCT	PUNCT	_	4	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 19	bgColor:blue
-# visual-style 19	fgColor:white
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
-# visual-style 6 19 advcl	color:blue
-1	ⲁⲩⲱ	ⲁⲩⲱ	CONJ	CONJ	_	6	cc	_	_
-2	ⲛⲉ	ⲛⲉⲣⲉ	AUX	CPRET	_	6	mark	_	_
-3	ϥ	ⲛⲧⲟϥ	PRON	PPERS	_	6	nsubj	_	_
-4	ϩⲛ	ϩⲛ	ADP	PREP	_	6	case	_	_
-5	ⲧ	ⲡ	DET	ART	_	6	det	_	_
-6	ⲉⲣⲏⲙⲟⲥ	ⲉⲣⲏⲙⲟⲥ	NOUN	N	_	0	root	_	_
-7	ⲛ	ⲛ	ADP	PREP	_	10	case	_	_
-8	ϩⲙⲉ	ϩⲙⲉ	NUM	NUM	_	10	nummod	_	_
-9	ⲛ	ⲛ	ADP	PREP	_	10	case	_	_
-10	ϩⲟⲟⲩ	ϩⲟⲟⲩ	NOUN	N	_	6	nmod	_	_
-11	ⲉⲣⲉ	ⲉⲣⲉ	SCONJ	CCIRC	_	14	mark	_	_
-12	ⲡ	ⲡ	DET	ART	_	13	det	_	_
-13	ⲥⲁⲧⲁⲛⲁⲥ	ⲥⲁⲧⲁⲛⲁⲥ	PROPN	NPROP	_	14	nsubj	_	_
-14	ⲡⲉⲓⲣⲁⲍⲉ	ⲡⲉⲓⲣⲁⲍⲉ	VERB	V	_	6	advcl	_	_
-15	ⲙⲙⲟ	ⲛ	ADP	PREP	_	16	case	_	_
-16	ϥ	ⲛⲧⲟϥ	PRON	PPERO	_	14	dobj	_	_
-17	ⲉ	ⲉⲣⲉ	SCONJ	CCIRC	_	19	mark	_	_
-18	ϥ	ⲛⲧⲟϥ	PRON	PPERS	_	19	nsubj	_	_
-19	ϣⲟⲟⲡ	ϣⲱⲡⲉ	VERB	VSTAT	_	6	advcl	_	_
-20	ⲙⲛ	ⲙⲛ	ADP	PREP	_	22	case	_	_
-21	ⲛⲉ	ⲡ	DET	ART	_	22	det	_	_
-22	ⲑⲏⲣⲓⲟⲛ	ⲑⲏⲣⲓⲟⲛ	NOUN	N	_	19	nmod	_	_
-23	.	.	PUNCT	PUNCT	_	6	punct	_	_
+# visual-style 6 10 advcl	color:blue
+1	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	2	cc	_	_
+2	ⲡⲉϫⲁ	ⲡⲉϫⲉ	VERB	VBD	_	0	root	_	_
+3	ϥ	ⲛⲧⲟϥ	PRON	PPERS	_	2	nsubj	_	_
+4	ⲙ	ⲛ	ADP	PREP	_	6	case	_	_
+5	ⲡ	ⲡ	DET	ART	_	6	det	_	_
+6	ⲣⲱⲙⲉ	ⲣⲱⲙⲉ	NOUN	N	_	2	obl	_	_
+7	ⲉⲣⲉ	ⲉⲣⲉ	SCONJ	CCIRC	_	10	mark	_	_
+8	ⲧⲉϥ	ⲡⲉϥ	DET	PPOS	_	9	det	_	_
+9	ϭⲓϫ	ϭⲓϫ	NOUN	N	_	10	nsubj	_	_
+10	ⲙⲟⲟⲩⲧ	ⲙⲟⲩⲟⲩⲧ	VERB	VSTAT	_	6	advcl	_	_
+11	ϫⲉ	ϫⲉ	CCONJ	CONJ	_	12	mark	_	_
+12	ⲧⲱⲟⲩⲛ	ⲧⲱⲟⲩⲛ	VERB	V	_	2	ccomp	_	_
+13	ⲅ	ⲛⲧⲟⲕ	PRON	PPERS	_	12	obj	_	_
+14	ⲁⲙⲟⲩ	ⲉⲓ	VERB	VIMP	_	12	parataxis	_	_
+15	ⲉ	ⲉ	ADP	PREP	_	17	case	_	_
+16	ⲧ	ⲡ	DET	ART	_	17	det	_	_
+17	ⲙⲏⲧⲉ	ⲙⲏⲧⲉ	NOUN	N	_	14	obl	_	_
+18	.	.	PUNCT	PUNCT	_	2	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 31	bgColor:blue
-# visual-style 31	fgColor:white
-# visual-style 13	bgColor:blue
-# visual-style 13	fgColor:white
-# visual-style 13 31 advcl	color:blue
-1	ⲁⲩⲱ	ⲁⲩⲱ	CONJ	CONJ	_	13	cc	_	_
-2	ⲛⲧⲉⲣⲉ	ⲛⲧⲉⲣⲉ	SCONJ	APREC	_	4	aux	_	_
+# visual-style 35	bgColor:blue
+# visual-style 35	fgColor:white
+# visual-style 32	bgColor:blue
+# visual-style 32	fgColor:white
+# visual-style 32 35 advcl	color:blue
+1	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	4	cc	_	_
+2	ⲁ	ⲁ	AUX	APST	_	4	aux	_	_
 3	ϥ	ⲛⲧⲟϥ	PRON	PPERS	_	4	nsubj	_	_
-4	ⲙⲟⲟϣⲉ	ⲙⲟⲟϣⲉ	VERB	V	_	13	advcl	_	_
-5	ⲉ	ⲉ	ADP	PREP	_	7	case	_	_
-6	ⲧ	ⲡ	DET	ART	_	7	det	_	_
-7	ϩⲏ	ϩⲏ	NOUN	N	_	4	nmod	_	_
-8	ⲛ	ⲛ	ADP	PREP	_	10	case	_	_
-9	ⲟⲩ	ⲟⲩ	DET	ART	_	10	det	_	_
-10	ⲕⲟⲩⲉⲓ	ⲕⲟⲩⲓ	NOUN	N	_	4	nmod	_	_
-11	ⲁ	ⲁ	AUX	APST	_	13	aux	_	_
-12	ϥ	ⲛⲧⲟϥ	PRON	PPERS	_	13	nsubj	_	_
-13	ⲛⲁⲩ	ⲛⲁⲩ	VERB	V	_	0	root	_	_
-14	ⲉ	ⲉ	ADP	PREP	_	15	case	_	_
-15	ⲓⲁⲕⲱⲃⲟⲥ	ⲓⲁⲕⲱⲃⲟⲥ	PROPN	NPROP	_	13	nmod	_	_
-16	ⲡ	ⲡ	DET	ART	_	17	det	_	_
-17	ϣⲏⲣⲉ	ϣⲏⲣⲉ	NOUN	N	_	15	appos	_	_
-18	ⲛ	ⲛ	ADP	PREP	_	19	case	_	_
-19	ⲍⲉⲃⲉⲇⲁⲓⲟⲥ	ⲍⲉⲃⲉⲇⲁⲓⲟⲥ	PROPN	NPROP	_	17	nmod	_	_
-20	ⲛⲙ	ⲙⲛ	ADP	PREP	_	15	cc	_	_
-21	ⲓⲱϩⲁⲛⲛⲏⲥ	ⲓⲱϩⲁⲛⲛⲏⲥ	PROPN	NPROP	_	15	conj	_	_
-22	ⲡⲉϥ	ⲡⲉϥ	DET	PPOS	_	23	det	_	_
-23	ⲥⲟⲛ	ⲥⲟⲛ	NOUN	N	_	21	appos	_	_
-24	ⲛⲧⲟⲟⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERI	_	31	dislocated	_	_
-25	ϩⲱ	ϩⲱⲱ	ADV	IMOD	_	31	advmod	_	_
-26	ⲟⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERO	_	25	det	_	_
-27	ⲉ	ⲉⲣⲉ	SCONJ	CCIRC	_	31	mark	_	_
-28	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	_	31	nsubj	_	_
-29	ϩⲙ	ϩⲛ	ADP	PREP	_	31	case	_	_
-30	ⲡ	ⲡ	DET	ART	_	31	det	_	_
-31	ϫⲟⲉⲓ	ϫⲟⲉⲓ	NOUN	N	_	13	advcl	_	_
-32	ⲉ	ⲉⲣⲉ	SCONJ	CCIRC	_	34	mark	_	_
-33	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	_	34	nsubj	_	_
-34	ⲥⲟⲃⲧⲉ	ⲥⲟⲃⲧⲉ	VERB	V	_	31	advcl	_	_
-35	ⲛ	ⲛ	ADP	PREP	_	37	case	_	_
-36	ⲛⲉⲩ	ⲡⲉⲩ	DET	PPOS	_	37	det	_	_
-37	ϣⲛⲏⲩ	ϣⲛⲉ	NOUN	N	_	34	dobj	_	_
+4	ⲥⲉⲡⲥⲱⲡ	ⲥⲟⲡⲥⲡ	VERB	V	_	0	root	_	_
+5	ϥ	ⲛⲧⲟϥ	PRON	PPERO	_	4	obj	_	_
+6	ⲉⲙⲁⲧⲉ	ⲉⲙⲁⲧⲉ	ADV	ADV	_	4	advmod	_	_
+7	ⲉ	ⲉⲣⲉ	SCONJ	CCIRC	_	9	mark	_	_
+8	ϥ	ⲛⲧⲟϥ	PRON	PPERS	_	9	nsubj	_	_
+9	ϫⲱ	ϫⲱ	VERB	V	_	4	advcl	_	_
+10	ⲙⲙⲟ	ⲛ	ADP	PREP	_	11	case	_	_
+11	ⲥ	ⲛⲧⲟⲥ	PRON	PPERO	_	9	obj	_	_
+12	ϫⲉ	ϫⲉ	CCONJ	CONJ	_	15	mark	_	_
+13	ⲧⲁ	ⲡⲁ	DET	PPOS	_	14	det	_	_
+14	ϣⲉⲉⲣⲉ	ϣⲉⲉⲣⲉ	NOUN	N	_	15	nsubj	_	_
+15	ⲙⲟⲕϩ	ⲙⲕⲁϩ	VERB	VSTAT	_	9	ccomp	_	_
+16	ⲛ	ⲛ	ADP	PREP	_	17	case	_	_
+17	ϣⲱⲛⲉ	ϣⲱⲛⲉ	VERB	V	_	15	obl	_	_
+18	ϫⲉⲕⲁⲁⲥ	ϫⲉⲕⲁⲁⲥ	CCONJ	CONJ	_	21	mark	_	_
+19	ϭⲉ	ϭⲉ	PART	PTC	_	21	advmod	_	_
+20	ⲉⲕⲉ	ⲉⲕⲉ	PRON	AOPT_PPERS	_	21	nsubj	_	_
+21	ⲉⲓ	ⲉⲓ	VERB	V	_	15	advcl	_	_
+22	ⲛ	ⲛⲧⲉ	AUX	ACONJ	_	24	aux	_	_
+23	ⲅ	ⲛⲧⲟⲕ	PRON	PPERS	_	24	nsubj	_	_
+24	ⲕⲁ	ⲕⲱ	VERB	V	_	21	advcl	_	_
+25	ⲧⲟⲟⲧ	ⲧⲱⲣⲉ	NOUN	N	_	24	obj	_	_
+26	ⲕ	ⲛⲧⲟⲕ	PRON	PPERO	_	25	det	_	_
+27	ϩⲓϫⲱ	ϩⲓϫⲛ	ADP	PREP	_	28	case	_	_
+28	ⲥ	ⲛⲧⲟⲥ	PRON	PPERO	_	24	obl	_	_
+29	ϫⲉ	ϫⲉ	CCONJ	CONJ	_	32	mark	_	_
+30	ⲉ	ⲉⲣⲉ	PART	CFOC	_	32	mark	_	_
+31	ⲥ	ⲛⲧⲟⲥ	PRON	PPERS	_	32	nsubj	_	_
+32	ⲉⲗⲟ	ⲉⲗⲟ	VERB	V	_	24	advcl	_	_
+33	ⲛ	ⲛⲧⲉ	AUX	ACONJ	_	35	aux	_	_
+34	ⲥ	ⲛⲧⲟⲥ	PRON	PPERO	_	35	nsubj	_	_
+35	ⲱⲛϩ	ⲱⲛϩ	NOUN	N	_	32	advcl	_	_
 
 ~~~
 

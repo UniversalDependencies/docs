@@ -11,7 +11,7 @@ The 10 most frequent `PRON` lemmas: तद्, अहम्, यद्, क, त
 
 The 10 most frequent `PRON` types:  अहम्, तस्य, तत्, किम्, भवान्, मया, स, सः, अयम्, एतत्
 
-The 10 most frequent ambiguous lemmas: तद् ([PRON]() 46, [DET]() 31, [ADV]() 9, [X]() 1, [NOUN]() 1), यद् ([PRON]() 14, [DET]() 4), क ([PRON]() 11, [DET]() 3), त्वद् ([PRON]() 10, [DET]() 1), इदम् ([PRON]() 8, [DET]() 5), एतद् ([PRON]() 7, [DET]() 5), अदस् ([PRON]() 3, [DET]() 1), एन ([PRON]() 2, [DET]() 2), आत्मन् ([NOUN]() 1, [PRON]() 1), कथ् ([VERB]() 2, [PRON]() 1)
+The 10 most frequent ambiguous lemmas: तद् ([PRON]() 46, [DET]() 31, [ADV]() 9, [NOUN]() 1, [X]() 1), यद् ([PRON]() 14, [DET]() 4), क ([PRON]() 11, [DET]() 3), त्वद् ([PRON]() 10, [DET]() 1), इदम् ([PRON]() 8, [DET]() 5), एतद् ([PRON]() 7, [DET]() 5), अदस् ([PRON]() 3, [DET]() 1), एन ([DET]() 2, [PRON]() 2), आत्मन् ([NOUN]() 1, [PRON]() 1), कथ् ([VERB]() 2, [PRON]() 1)
 
 The 10 most frequent ambiguous types:  तस्य ([PRON]() 9, [DET]() 3), तत् ([DET]() 11, [PRON]() 8, [ADV]() 7), किम् ([PRON]() 7, [NOUN]() 3, [DET]() 1), स ([PRON]() 5, [DET]() 3, [NOUN]() 1), सः ([PRON]() 5, [DET]() 1), अयम् ([PRON]() 4, [DET]() 2), एतत् ([PRON]() 4, [DET]() 1), असौ ([PRON]() 3, [DET]() 1), इदम् ([PRON]() 3, [DET]() 2, [NOUN]() 1), तस्मात् ([PRON]() 3, [DET]() 1)
 
@@ -63,7 +63,7 @@ The 3rd highest number of forms (9) was observed with the lemma “यद्”:
 
 `PRON` occurs with 8 features: [sa-feat/Case]() (149; 99% instances), [sa-feat/PronType]() (149; 99% instances), [sa-feat/Number]() (143; 95% instances), [sa-feat/Gender]() (123; 82% instances), [sa-feat/Person]() (54; 36% instances), [sa-feat/Polite]() (9; 6% instances), [sa-feat/Poss]() (6; 4% instances), [sa-feat/Reflex]() (2; 1% instances)
 
-`PRON` occurs with 22 feature-value pairs: `Case=Abl`, `Case=Acc`, `Case=Dat`, `Case=Gen`, `Case=Ins`, `Case=Loc`, `Case=Nom`, `Gender=Fem`, `Gender=Masc`, `Gender=Neut`, `Number=Plur`, `Number=Sing`, `Person=1`, `Person=2`, `Person=3`, `Polite=Pol`, `Poss=Yes`, `PronType=Dem`, `PronType=Int`, `PronType=Prs`, `PronType=Rel`, `Reflex=Yes`
+`PRON` occurs with 22 feature-value pairs: `Case=Abl`, `Case=Acc`, `Case=Dat`, `Case=Gen`, `Case=Ins`, `Case=Loc`, `Case=Nom`, `Gender=Fem`, `Gender=Masc`, `Gender=Neut`, `Number=Plur`, `Number=Sing`, `Person=1`, `Person=2`, `Person=3`, `Polite=Form`, `Poss=Yes`, `PronType=Dem`, `PronType=Int`, `PronType=Prs`, `PronType=Rel`, `Reflex=Yes`
 
 `PRON` occurs with 59 feature combinations.
 The most frequent feature combination is `Case=Nom|Gender=Masc|Number=Sing|PronType=Dem` (15 tokens).
@@ -72,7 +72,7 @@ Examples: सः, स, अयम्, असौ, सह्
 
 ## Relations
 
-`PRON` nodes are attached to their parents using 7 different relations: [sa-dep/nmod]() (62; 41% instances), [sa-dep/nsubj]() (60; 40% instances), [sa-dep/dobj]() (13; 9% instances), [sa-dep/det]() (12; 8% instances), [sa-dep/expl]() (1; 1% instances), [sa-dep/iobj]() (1; 1% instances), [sa-dep/nsubjpass]() (1; 1% instances)
+`PRON` nodes are attached to their parents using 8 different relations: [sa-dep/nsubj]() (60; 40% instances), [sa-dep/nmod]() (43; 29% instances), [sa-dep/obl]() (19; 13% instances), [sa-dep/obj]() (13; 9% instances), [sa-dep/det]() (12; 8% instances), [sa-dep/expl]() (1; 1% instances), [sa-dep/iobj]() (1; 1% instances), [sa-dep/nsubj:pass]() (1; 1% instances)
 
 Parents of `PRON` nodes belong to 4 different parts of speech: [VERB]() (86; 57% instances), [NOUN]() (56; 37% instances), [X]() (6; 4% instances), [PROPN]() (2; 1% instances)
 

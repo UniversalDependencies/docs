@@ -6,12 +6,12 @@
 
 This relation is universal.
 
-9908 nodes (10%) are attached to their parents as `case`.
+8958 nodes (10%) are attached to their parents as `case`.
 
-9571 instances of `case` (97%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.81550262414211.
+8656 instances of `case` (97%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.76646572895736.
 
-The following 18 pairs of parts of speech are connected with `case`: [da-pos/NOUN]()-[da-pos/ADP]() (7415; 75% instances), [da-pos/PROPN]()-[da-pos/ADP]() (1152; 12% instances), [da-pos/PRON]()-[da-pos/ADP]() (458; 5% instances), [da-pos/ADV]()-[da-pos/ADP]() (282; 3% instances), [da-pos/ADJ]()-[da-pos/ADP]() (246; 2% instances), [da-pos/NUM]()-[da-pos/ADP]() (172; 2% instances), [da-pos/CONJ]()-[da-pos/ADP]() (51; 1% instances), [da-pos/X]()-[da-pos/ADP]() (51; 1% instances), [da-pos/ADP]()-[da-pos/ADP]() (38; 0% instances), [da-pos/NOUN]()-[da-pos/VERB]() (27; 0% instances), [da-pos/NOUN]()-[da-pos/SCONJ]() (4; 0% instances), [da-pos/PROPN]()-[da-pos/VERB]() (4; 0% instances), [da-pos/PRON]()-[da-pos/VERB]() (2; 0% instances), [da-pos/SCONJ]()-[da-pos/ADP]() (2; 0% instances), [da-pos/ADJ]()-[da-pos/VERB]() (1; 0% instances), [da-pos/PART]()-[da-pos/ADP]() (1; 0% instances), [da-pos/SYM]()-[da-pos/ADP]() (1; 0% instances), [da-pos/VERB]()-[da-pos/ADP]() (1; 0% instances).
+The following 16 pairs of parts of speech are connected with `case`: [da-pos/NOUN]()-[da-pos/ADP]() (6731; 75% instances), [da-pos/PROPN]()-[da-pos/ADP]() (1048; 12% instances), [da-pos/PRON]()-[da-pos/ADP]() (428; 5% instances), [da-pos/ADV]()-[da-pos/ADP]() (249; 3% instances), [da-pos/ADJ]()-[da-pos/ADP]() (223; 2% instances), [da-pos/NUM]()-[da-pos/ADP]() (154; 2% instances), [da-pos/X]()-[da-pos/ADP]() (49; 1% instances), [da-pos/ADP]()-[da-pos/ADP]() (35; 0% instances), [da-pos/NOUN]()-[da-pos/VERB]() (25; 0% instances), [da-pos/NOUN]()-[da-pos/SCONJ]() (4; 0% instances), [da-pos/PROPN]()-[da-pos/VERB]() (4; 0% instances), [da-pos/CCONJ]()-[da-pos/ADP]() (2; 0% instances), [da-pos/PRON]()-[da-pos/VERB]() (2; 0% instances), [da-pos/SCONJ]()-[da-pos/ADP]() (2; 0% instances), [da-pos/PART]()-[da-pos/ADP]() (1; 0% instances), [da-pos/VERB]()-[da-pos/ADP]() (1; 0% instances).
 
 
 ~~~ conllu
@@ -25,7 +25,7 @@ The following 18 pairs of parts of speech are connected with `case`: [da-pos/NOU
 3	fralægger	fralægge	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 4	os	vi	PRON	_	Case=Acc|Gender=Com|Number=Plur|Person=1|PronType=Prs	3	iobj	_	_
 5	ethvert	enhver	DET	_	Gender=Neut|Number=Sing|PronType=Ind	6	det	_	_
-6	ansvar	ansvar	NOUN	_	Definite=Ind|Gender=Neut|Number=Sing	3	dobj	_	_
+6	ansvar	ansvar	NOUN	_	Definite=Ind|Gender=Neut|Number=Sing	3	obj	_	_
 7	for	for	ADP	_	AdpType=Prep	8	case	_	_
 8	mordene	mord	NOUN	_	Definite=Def|Gender=Neut|Number=Plur	6	nmod	_	_
 9	.	.	PUNCT	_	_	3	punct	_	_
@@ -57,7 +57,7 @@ The following 18 pairs of parts of speech are connected with `case`: [da-pos/NOU
 2	kiggede	kigge	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 3	nysgerrigt	nysgerrigt	ADV	_	Degree=Pos	2	advmod	_	_
 4	på	på	ADP	_	AdpType=Prep	5	case	_	_
-5	mig	jeg	PRON	_	Case=Acc|Gender=Com|Number=Sing|Person=1|PronType=Prs	2	nmod	_	_
+5	mig	jeg	PRON	_	Case=Acc|Gender=Com|Number=Sing|Person=1|PronType=Prs	2	obl	_	_
 6	.	.	PUNCT	_	_	2	punct	_	_
 
 ~~~

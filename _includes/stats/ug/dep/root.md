@@ -6,40 +6,48 @@
 
 This relation is universal.
 
-600 nodes (9%) are attached to their parents as `root`.
+100 nodes (6%) are attached to their parents as `root`.
 
-600 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 9.12.
+100 instances of `root` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 15.09.
 
-The following 7 pairs of parts of speech are connected with `root`: [ug-pos/ROOT]()-[ug-pos/VERB]() (506; 84% instances), [ug-pos/ROOT]()-[ug-pos/ADJ]() (45; 8% instances), [ug-pos/ROOT]()-[ug-pos/NOUN]() (45; 8% instances), [ug-pos/ROOT]()-[ug-pos/CONJ]() (1; 0% instances), [ug-pos/ROOT]()-[ug-pos/NUM]() (1; 0% instances), [ug-pos/ROOT]()-[ug-pos/PART]() (1; 0% instances), [ug-pos/ROOT]()-[ug-pos/PRON]() (1; 0% instances).
+The following 4 pairs of parts of speech are connected with `root`: [ug-pos/ROOT]()-[ug-pos/VERB]() (80; 80% instances), [ug-pos/ROOT]()-[ug-pos/NOUN]() (10; 10% instances), [ug-pos/ROOT]()-[ug-pos/ADJ]() (8; 8% instances), [ug-pos/ROOT]()-[ug-pos/PRON]() (2; 2% instances).
 
 
 ~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
 # visual-style 0	bgColor:blue
 # visual-style 0	fgColor:white
-# visual-style 0 3 root	color:blue
-1	مەن	_	PRON	P	_	3	nsubj	_	Translit=men
-2	داڭقېتىپ	_	VERB	V	_	3	advcl	_	Translit=dangqëtip
-3	تۇرۇپلا	_	VERB	V	_	0	root	_	Translit=turupla
-4	قالدىم	_	VERB	V	_	3	aux	_	Translit=qaldim
-5	.	_	PUNCT	Y	_	4	punct	_	Translit=.
+# visual-style 0 10 root	color:blue
+1	قارا	_	ADJ	A	_	2	amod	_	Translit=qara
+2	قەلبىم	_	NOUN	N	_	10	obl	_	Translit=qelbim
+3	بىلەن	_	ADP	R	_	2	case	_	Translit=bilen
+4	سېنىڭ	_	PRON	P	_	6	nmod:poss	_	Translit=sëning
+5	روھ	_	NOUN	N	_	6	nmod	_	Translit=roh
+6	تېمىڭغا	_	NOUN	N	_	10	obl	_	Translit=tëminggha
+7	بىر	_	NUM	M	_	8	nummod	_	Translit=bir
+8	سىقىم	_	DET	Q	_	9	amod	_	Translit=siqim
+9	لايدەك	_	NOUN	N	_	10	obl	_	Translit=laydek
+10	چاپلىشىمەن	_	VERB	V	_	0	root	_	SpaceAfter=No|Translit=chaplishimen
+11	.	_	PUNCT	Y	_	10	punct	_	Translit=.
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
 # visual-style 0	bgColor:blue
 # visual-style 0	fgColor:white
-# visual-style 0 4 root	color:blue
-1	مانا	_	PRON	P	_	4	discourse	_	Translit=mana
-2	بۇ	_	PRON	P	_	4	nsubj	_	Translit=bu
-3	بىزنىڭ	_	PRON	P	_	4	nmod:poss	_	Translit=bizning
-4	مارجانبۇلىقىمىز	_	NOUN	N	_	0	root	_	Translit=marjanbuliqimiz
-5	،	_	PUNCT	Y	_	4	punct	_	Translit=,
+# visual-style 0 5 root	color:blue
+1	ئۆيىمىز	_	NOUN	N	_	5	nsubj	_	Translit=öyimiz
+2	بولسا	_	AUX	V	_	1	cop	_	Translit=bolsa
+3	ئارا	_	NOUN	N	_	4	amod	_	Translit=ara
+4	تام	_	NOUN	N	_	5	nmod	_	Translit=tam
+5	قوشنا	_	NOUN	N	_	0	root	_	Translit=qoshna
+6	ئىدى	_	AUX	V	_	5	cop	_	SpaceAfter=No|Translit=idi
+7	.	_	PUNCT	Y	_	6	punct	_	Translit=.
 
 ~~~
 
@@ -50,14 +58,15 @@ The following 7 pairs of parts of speech are connected with `root`: [ug-pos/ROOT
 # visual-style 0	bgColor:blue
 # visual-style 0	fgColor:white
 # visual-style 0 7 root	color:blue
-1	كەنتىمىزنىڭ	_	NOUN	N	_	3	nmod:poss	_	Translit=kentimizning
-2	ئالدى	_	NOUN	N	_	3	compound	_	Translit=aldi
-3	تەرىپىدە	_	NOUN	N	_	7	nmod	_	Translit=teripide
-4	بىر	_	NUM	M	_	6	det	_	Translit=bir
-5	كىچىك	_	ADJ	A	_	6	amod	_	Translit=kichik
-6	تاغ	_	NOUN	N	_	7	nsubj	_	Translit=tagh
-7	بار	_	ADJ	A	_	0	root	_	Translit=bar
-8	،	_	PUNCT	Y	_	7	punct	_	Translit=,
+1	ئەمەلىيەتتە	_	NOUN	N	_	7	advmod	_	Translit=emeliyette
+2	مېنىڭ	_	PRON	P	_	6	nmod:poss	_	Translit=mëning
+3	بۇ	_	PRON	P	_	5	det	_	Translit=bu
+4	قاباھەتلىك	_	NOUN	N	_	5	amod	_	Translit=qabahetlik
+5	رېئاللىقنى	_	NOUN	N	_	6	obj	_	Translit=rëalliqni
+6	كۆرگۈم	_	VERB	V	_	7	acl	_	Translit=körgüm
+7	يوق	_	ADJ	A	_	0	root	_	Translit=yoq
+8	ئىدى	_	AUX	V	_	7	cop	_	SpaceAfter=No|Translit=idi
+9	.	_	PUNCT	Y	_	8	punct	_	Translit=.
 
 ~~~
 

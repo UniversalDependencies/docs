@@ -11,9 +11,9 @@ The 10 most frequent `DET` lemmas: तद्, इदम्, एतद्, यद
 
 The 10 most frequent `DET` types:  तत्, तया, तस्य, तेन, स, अयम्, इदम्, एनम्, तम्, ते
 
-The 10 most frequent ambiguous lemmas: तद् ([PRON]() 46, [DET]() 31, [ADV]() 9, [X]() 1, [NOUN]() 1), इदम् ([PRON]() 8, [DET]() 5), एतद् ([PRON]() 7, [DET]() 5), यद् ([PRON]() 14, [DET]() 4), क ([PRON]() 11, [DET]() 3), एन ([PRON]() 2, [DET]() 2), अदस् ([PRON]() 3, [DET]() 1), एव ([ADV]() 3, [DET]() 1), त्वद् ([PRON]() 10, [DET]() 1), सर्व ([ADJ]() 2, [NOUN]() 1, [DET]() 1)
+The 10 most frequent ambiguous lemmas: तद् ([PRON]() 46, [DET]() 31, [ADV]() 9, [NOUN]() 1, [X]() 1), इदम् ([PRON]() 8, [DET]() 5), एतद् ([PRON]() 7, [DET]() 5), यद् ([PRON]() 14, [DET]() 4), क ([PRON]() 11, [DET]() 3), एन ([DET]() 2, [PRON]() 2), अदस् ([PRON]() 3, [DET]() 1), एव ([ADV]() 3, [DET]() 1), त्वद् ([PRON]() 10, [DET]() 1), सर्व ([ADJ]() 2, [DET]() 1, [NOUN]() 1)
 
-The 10 most frequent ambiguous types:  तत् ([DET]() 11, [PRON]() 8, [ADV]() 7), तया ([DET]() 3, [PRON]() 1), तस्य ([PRON]() 9, [DET]() 3), तेन ([DET]() 3, [PRON]() 1), स ([PRON]() 5, [DET]() 3, [NOUN]() 1), अयम् ([PRON]() 4, [DET]() 2), इदम् ([PRON]() 3, [DET]() 2, [NOUN]() 1), एनम् ([DET]() 2, [PRON]() 1), तम् ([DET]() 2, [PRON]() 2), ते ([PRON]() 2, [DET]() 2)
+The 10 most frequent ambiguous types:  तत् ([DET]() 11, [PRON]() 8, [ADV]() 7), तया ([DET]() 3, [PRON]() 1), तस्य ([PRON]() 9, [DET]() 3), तेन ([DET]() 3, [PRON]() 1), स ([PRON]() 5, [DET]() 3, [NOUN]() 1), अयम् ([PRON]() 4, [DET]() 2), इदम् ([PRON]() 3, [DET]() 2, [NOUN]() 1), एनम् ([DET]() 2, [PRON]() 1), तम् ([PRON]() 2, [DET]() 2), ते ([PRON]() 2, [DET]() 2)
 
 
 * तत्
@@ -44,8 +44,8 @@ The 10 most frequent ambiguous types:  तत् ([DET]() 11, [PRON]() 8, [ADV](
   * [DET]() 2: वयस्यः <b>एनम्</b> आरुह्य कीलिकाम् दत्त्वा यत्र इष्यते तत्र गम्यते
   * [PRON]() 1: तत् कथम् <b>एनम्</b> वशी करिष्यसि
 * तम्
-  * [DET]() 2: अथ विष्णुशर्म <b>तम्</b> राजानम् उच्यते
   * [PRON]() 2: ततः रथकारः <b>तम्</b> आह
+  * [DET]() 2: अथ विष्णुशर्म <b>तम्</b> राजानम् उच्यते
 * ते
   * [PRON]() 2: <b>ते</b> अपि तानि अधीत्य मास षट्केन यथा उक्तह् संवृत्ताḥ
   * [DET]() 2: एतस्मिन् अन्तरे <b>ते</b> वानराः यथा इच्छया क्रीडितुम् आरब्धम्
@@ -71,7 +71,7 @@ Examples: तत्, असौ, इदम्, एषा, तम्
 
 ## Relations
 
-`DET` nodes are attached to their parents using 6 different relations: [sa-dep/det]() (42; 72% instances), [sa-dep/dobj]() (7; 12% instances), [sa-dep/nmod]() (4; 7% instances), [sa-dep/nsubj]() (3; 5% instances), [sa-dep/nsubjpass]() (1; 2% instances), [sa-dep/root]() (1; 2% instances)
+`DET` nodes are attached to their parents using 7 different relations: [sa-dep/det]() (42; 72% instances), [sa-dep/obj]() (7; 12% instances), [sa-dep/nsubj]() (3; 5% instances), [sa-dep/obl]() (3; 5% instances), [sa-dep/nmod]() (1; 2% instances), [sa-dep/nsubj:pass]() (1; 2% instances), [sa-dep/root]() (1; 2% instances)
 
 Parents of `DET` nodes belong to 5 different parts of speech: [NOUN]() (41; 71% instances), [VERB]() (12; 21% instances), [PROPN]() (2; 3% instances), [X]() (2; 3% instances), [ROOT]() (1; 2% instances)
 

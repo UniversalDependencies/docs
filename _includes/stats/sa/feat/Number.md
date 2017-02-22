@@ -75,7 +75,7 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
   <tr><th>Paradigm <i>तद्</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Abl|<a href="Gender.html">Gender</a>=Masc</tt></td><td>तस्मात्</td><td>तान्</td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Abl|<a href="Gender.html">Gender</a>=Neut</tt></td><td>तस्मात्</td><td></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Gender.html">Gender</a>=Masc</tt></td><td>तम्, तत्</td><td></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Gender.html">Gender</a>=Masc</tt></td><td>तत्, तम्</td><td></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Gender.html">Gender</a>=Neut</tt></td><td></td><td>तानि</td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Dat|<a href="Gender.html">Gender</a>=Masc</tt></td><td>तस्मै</td><td></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Gender.html">Gender</a>=Masc|<a href="Poss.html">Poss</a>=Yes</tt></td><td>तस्य</td><td></td></tr>
@@ -179,7 +179,7 @@ The most frequent other feature values with which `NUM` and `Number` co-occurred
 
 1 [sa-pos/AUX]() tokens (100% of all `AUX` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `AUX` and `Number` co-occurred: <tt><a href="Mood.html">Mood</a>=Ind</tt> (1; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (1; 100%), <tt><a href="Person.html">Person</a>=3</tt> (1; 100%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (1; 100%), <tt><a href="Voice.html">Voice</a>=Act</tt> (1; 100%).
+The most frequent other feature values with which `AUX` and `Number` co-occurred: <tt><a href="Voice.html">Voice</a>=Act</tt> (1; 100%), <tt><a href="Person.html">Person</a>=3</tt> (1; 100%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (1; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (1; 100%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (1; 100%).
 
 `AUX` tokens may have the following values of `Number`:
 
@@ -188,14 +188,14 @@ The most frequent other feature values with which `AUX` and `Number` co-occurred
 ## Relations with Agreement in `Number`
 
 The 10 most frequent relations where parent and child node agree in `Number`:
-<tt>VERB --[<a href="../dep/nmod.html">nmod</a>]--> NOUN</tt> (75; 78%),
+<tt>VERB --[<a href="../dep/obl.html">obl</a>]--> NOUN</tt> (75; 78%),
 <tt>VERB --[<a href="../dep/nsubj.html">nsubj</a>]--> NOUN</tt> (72; 88%),
-<tt>VERB --[<a href="../dep/dobj.html">dobj</a>]--> NOUN</tt> (54; 70%),
+<tt>VERB --[<a href="../dep/obj.html">obj</a>]--> NOUN</tt> (54; 70%),
 <tt>NOUN --[<a href="../dep/nmod.html">nmod</a>]--> NOUN</tt> (53; 90%),
 <tt>VERB --[<a href="../dep/nsubj.html">nsubj</a>]--> PRON</tt> (45; 88%),
 <tt>NOUN --[<a href="../dep/amod.html">amod</a>]--> ADJ</tt> (42; 93%),
 <tt>NOUN --[<a href="../dep/det.html">det</a>]--> DET</tt> (32; 82%),
 <tt>VERB --[<a href="../dep/advcl.html">advcl</a>]--> VERB</tt> (28; 52%),
 <tt>NOUN --[<a href="../dep/nmod.html">nmod</a>]--> PRON</tt> (26; 63%),
-<tt>VERB --[<a href="../dep/nmod.html">nmod</a>]--> PRON</tt> (15; 79%).
+<tt>VERB --[<a href="../dep/obl.html">obl</a>]--> PRON</tt> (15; 79%).
 

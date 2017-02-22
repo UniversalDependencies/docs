@@ -6,41 +6,28 @@
 
 This relation is universal.
 
-581 nodes (9%) are attached to their parents as `nsubj`.
+49 nodes (9%) are attached to their parents as `nsubj`.
 
-579 instances of `nsubj` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.53700516351119.
+45 instances of `nsubj` (92%) are right-to-left (child precedes parent).
+Average distance between parent and child is 3.83673469387755.
 
-The following 26 pairs of parts of speech are connected with `nsubj`: [kk-pos/VERB]()-[kk-pos/NOUN]() (282; 49% instances), [kk-pos/VERB]()-[kk-pos/PRON]() (73; 13% instances), [kk-pos/ADJ]()-[kk-pos/NOUN]() (55; 9% instances), [kk-pos/VERB]()-[kk-pos/PROPN]() (47; 8% instances), [kk-pos/NOUN]()-[kk-pos/NOUN]() (42; 7% instances), [kk-pos/NOUN]()-[kk-pos/PRON]() (15; 3% instances), [kk-pos/VERB]()-[kk-pos/ADJ]() (9; 2% instances), [kk-pos/ADJ]()-[kk-pos/PRON]() (8; 1% instances), [kk-pos/NOUN]()-[kk-pos/PROPN]() (8; 1% instances), [kk-pos/ADV]()-[kk-pos/NOUN]() (6; 1% instances), [kk-pos/ADJ]()-[kk-pos/PROPN]() (5; 1% instances), [kk-pos/PRON]()-[kk-pos/NOUN]() (5; 1% instances), [kk-pos/ADV]()-[kk-pos/PROPN]() (4; 1% instances), [kk-pos/VERB]()-[kk-pos/NUM]() (4; 1% instances), [kk-pos/PRON]()-[kk-pos/PRON]() (3; 1% instances), [kk-pos/NOUN]()-[kk-pos/NUM]() (2; 0% instances), [kk-pos/NUM]()-[kk-pos/NOUN]() (2; 0% instances), [kk-pos/PROPN]()-[kk-pos/NOUN]() (2; 0% instances), [kk-pos/PROPN]()-[kk-pos/PRON]() (2; 0% instances), [kk-pos/ADJ]()-[kk-pos/ADJ]() (1; 0% instances), [kk-pos/ADJ]()-[kk-pos/VERB]() (1; 0% instances), [kk-pos/ADV]()-[kk-pos/PRON]() (1; 0% instances), [kk-pos/AUX]()-[kk-pos/PROPN]() (1; 0% instances), [kk-pos/PRON]()-[kk-pos/ADJ]() (1; 0% instances), [kk-pos/PRON]()-[kk-pos/NUM]() (1; 0% instances), [kk-pos/PUNCT]()-[kk-pos/NOUN]() (1; 0% instances).
-
-
-~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 4 nsubj	color:blue
-1	Кейінірек	кейін	ADV	adv	_	6	advmod	_	comp
-2	ФИФА	ФИФА	PROPN	np	_	6	nsubj	_	org|nom
-3	ротация	ротация	NOUN	n	_	4	nmod:poss	_	nom
-4	принципі	принцип	NOUN	n	_	5	nsubj	_	px3sp|nom
-5	өзгеретінін	өзгер	VERB	v	_	6	ccomp	_	iv|ger_impf|px3sp|acc
-6	жариялады	жарияла	VERB	v	_	0	root	_	tv|ifi|p3|sg
-7	.	.	PUNCT	sent	_	6	punct	_	_
-
-~~~
+The following 12 pairs of parts of speech are connected with `nsubj`: [kk-pos/VERB]()-[kk-pos/NOUN]() (16; 33% instances), [kk-pos/VERB]()-[kk-pos/PROPN]() (11; 22% instances), [kk-pos/ADJ]()-[kk-pos/NOUN]() (7; 14% instances), [kk-pos/VERB]()-[kk-pos/PRON]() (4; 8% instances), [kk-pos/NOUN]()-[kk-pos/NUM]() (3; 6% instances), [kk-pos/NOUN]()-[kk-pos/NOUN]() (2; 4% instances), [kk-pos/ADJ]()-[kk-pos/ADJ]() (1; 2% instances), [kk-pos/ADJ]()-[kk-pos/PRON]() (1; 2% instances), [kk-pos/NOUN]()-[kk-pos/PROPN]() (1; 2% instances), [kk-pos/NOUN]()-[kk-pos/VERB]() (1; 2% instances), [kk-pos/PRON]()-[kk-pos/NOUN]() (1; 2% instances), [kk-pos/VERB]()-[kk-pos/NUM]() (1; 2% instances).
 
 
 ~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 1 nsubj	color:blue
-1	Мен	мен	PRON	prn	_	2	nsubj	_	pers|p1|sg|nom
-2	адасып	адас	VERB	v	_	0	root	_	iv|prc_perf
-3	кеттім	кет	AUX	vaux	_	2	aux	_	ifi|p1|sg
-4	.	.	PUNCT	sent	_	2	punct	_	_
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 6 nsubj	color:blue
+1	Бала	бала	NOUN	n	Case=Nom	2	obj	_	_
+2	сұрады	сұра	VERB	v	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
+3	,	,	PUNCT	cm	_	7	punct	_	_
+4	қалай	қалай	X	x	_	5	dep	_	_
+5	да	да	SCONJ	cnjadv	_	7	cc	_	_
+6	бала	бала	NOUN	n	Case=Nom	7	nsubj	_	_
+7	болмады	бол	VERB	v	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Past|VerbForm=Fin	2	conj	_	SpaceAfter=No
+8	.	.	PUNCT	sent	_	7	punct	_	_
 
 ~~~
 
@@ -48,15 +35,38 @@ The following 26 pairs of parts of speech are connected with `nsubj`: [kk-pos/VE
 ~~~ conllu
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 3 nsubj	color:blue
-1	Жер	жер	NOUN	n	_	2	nmod:poss	_	nom
-2	беті	бет	NOUN	n	_	3	nmod:poss	_	px3sp|nom
-3	суы	су	NOUN	n	_	4	nsubj	_	px3sp|nom
-4	_	аз	ADJ	adj	_	0	root	_	_
-5	_	е	AUX	cop	_	4	cop	_	aor|p3|sg
-6	.	.	PUNCT	sent	_	4	punct	_	_
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 3 nsubj	color:blue
+1	Не	не	PRON	prn	Case=Nom|PronType=Int	2	obj	_	_
+2	істемеді	істе	VERB	v	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Past|VerbForm=Fin	0	root	_	_
+3	Шолпан	Шолпан	PROPN	np	Case=Nom|Gender=Fem	2	nsubj	_	SpaceAfter=No
+4	?	?	PUNCT	sent	_	2	punct	_	SpaceAfter=No
+5	!	!	PUNCT	sent	_	2	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 5 nsubj	color:blue
+1	Бес	бес	NUM	num	NumType=Card	2	nummod	_	_
+2	жылдың	жыл	NOUN	n	Case=Gen	3	nmod:poss	_	_
+3	ішінде	іш	NOUN	n	Case=Loc|Number[psor]=Plur,Sing|Person[psor]=3	6	obl	_	_
+4	үш	үш	NUM	num	NumType=Card	5	nummod	_	_
+5	баласы	бала	NOUN	n	Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3	6	nsubj	_	_
+6	бар	бар	ADJ	adj	_	0	root	_	_
+7	еді	е	AUX	cop	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	cop	_	SpaceAfter=No
+8	:	:	PUNCT	sent	_	6	punct	_	_
+9	екеуі	екеу	NUM	num	Case=Nom|Number[psor]=Plur,Sing|NumType=Coll|Person[psor]=3	10	nsubj	_	_
+10	ұл	ұл	NOUN	n	Case=Nom	6	parataxis	_	SpaceAfter=No
+11	,	,	PUNCT	cm	_	10	punct	_	_
+12	біреуі	біреу	NUM	num	Case=Nom|Number[psor]=Plur,Sing|NumType=Coll|Person[psor]=3	13	nsubj	_	_
+13	қыз	қыз	NOUN	n	Case=Nom	6	parataxis	_	SpaceAfter=No
+14	.	.	PUNCT	sent	_	13	punct	_	_
 
 ~~~
 

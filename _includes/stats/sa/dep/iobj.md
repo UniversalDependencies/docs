@@ -22,7 +22,7 @@ The following 1 pairs of parts of speech are connected with `iobj`: [sa-pos/VERB
 # visual-style 5 2 iobj	color:blue
 1	अहम्	अहम्	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	Translit=aham|LTranslit=aham
 2	त्वाम्	त्वद्	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=2|PronType=Prs	5	iobj	_	Translit=tvām|LTranslit=tvad
-3	शासन	शासन	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	5	dobj	_	Translit=śāsana|LTranslit=śāsana
+3	शासन	शासन	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	5	obj	_	Translit=śāsana|LTranslit=śāsana
 4	शतेन	शत	NUM	_	Case=Ins|Gender=Masc|Number=Sing|NumType=Card	3	nummod	_	Translit=śatena|LTranslit=śata
 5	नियोजयिष्यामि	नि-युज्	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	Translit=niyojayiṣyāmi|LTranslit=ni-yuj
 

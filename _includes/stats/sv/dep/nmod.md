@@ -5,32 +5,14 @@
 ## Treebank Statistics (UD_Swedish)
 
 This relation is universal.
-There are 2 language-specific subtypes of `nmod`: [nmod:agent](), [nmod:poss]().
+There are 1 language-specific subtypes of `nmod`: [nmod:poss]().
 
-10109 nodes (10%) are attached to their parents as `nmod`.
+3233 nodes (4%) are attached to their parents as `nmod`.
 
-8022 instances of `nmod` (79%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.54347611039668.
+2705 instances of `nmod` (84%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.50541292916796.
 
-The following 51 pairs of parts of speech are connected with `nmod`: [sv-pos/VERB]()-[sv-pos/NOUN]() (4386; 43% instances), [sv-pos/NOUN]()-[sv-pos/NOUN]() (3195; 32% instances), [sv-pos/ADJ]()-[sv-pos/NOUN]() (513; 5% instances), [sv-pos/VERB]()-[sv-pos/PRON]() (269; 3% instances), [sv-pos/NUM]()-[sv-pos/NOUN]() (217; 2% instances), [sv-pos/NOUN]()-[sv-pos/PROPN]() (182; 2% instances), [sv-pos/PROPN]()-[sv-pos/NOUN]() (176; 2% instances), [sv-pos/ADV]()-[sv-pos/NOUN]() (171; 2% instances), [sv-pos/VERB]()-[sv-pos/PROPN]() (151; 1% instances), [sv-pos/VERB]()-[sv-pos/NUM]() (116; 1% instances), [sv-pos/PRON]()-[sv-pos/NOUN]() (97; 1% instances), [sv-pos/NOUN]()-[sv-pos/NUM]() (83; 1% instances), [sv-pos/NOUN]()-[sv-pos/ADV]() (73; 1% instances), [sv-pos/NOUN]()-[sv-pos/PRON]() (72; 1% instances), [sv-pos/NOUN]()-[sv-pos/ADJ]() (62; 1% instances), [sv-pos/ADJ]()-[sv-pos/PRON]() (39; 0% instances), [sv-pos/PROPN]()-[sv-pos/PROPN]() (32; 0% instances), [sv-pos/NOUN]()-[sv-pos/ADP]() (29; 0% instances), [sv-pos/ADP]()-[sv-pos/NOUN]() (27; 0% instances), [sv-pos/VERB]()-[sv-pos/ADJ]() (26; 0% instances), [sv-pos/PROPN]()-[sv-pos/NUM]() (21; 0% instances), [sv-pos/NUM]()-[sv-pos/NUM]() (20; 0% instances), [sv-pos/PRON]()-[sv-pos/PRON]() (20; 0% instances), [sv-pos/ADJ]()-[sv-pos/PROPN]() (19; 0% instances), [sv-pos/ADJ]()-[sv-pos/NUM]() (17; 0% instances), [sv-pos/ADV]()-[sv-pos/PROPN]() (10; 0% instances), [sv-pos/DET]()-[sv-pos/NOUN]() (10; 0% instances), [sv-pos/VERB]()-[sv-pos/ADP]() (10; 0% instances), [sv-pos/ADV]()-[sv-pos/NUM]() (9; 0% instances), [sv-pos/ADV]()-[sv-pos/PRON]() (8; 0% instances), [sv-pos/VERB]()-[sv-pos/ADV]() (7; 0% instances), [sv-pos/NOUN]()-[sv-pos/DET]() (6; 0% instances), [sv-pos/VERB]()-[sv-pos/DET]() (4; 0% instances), [sv-pos/ADJ]()-[sv-pos/ADJ]() (3; 0% instances), [sv-pos/ADP]()-[sv-pos/PROPN]() (3; 0% instances), [sv-pos/NOUN]()-[sv-pos/VERB]() (3; 0% instances), [sv-pos/PRON]()-[sv-pos/ADJ]() (3; 0% instances), [sv-pos/NUM]()-[sv-pos/ADV]() (2; 0% instances), [sv-pos/NUM]()-[sv-pos/PRON]() (2; 0% instances), [sv-pos/NUM]()-[sv-pos/PROPN]() (2; 0% instances), [sv-pos/PRON]()-[sv-pos/ADV]() (2; 0% instances), [sv-pos/PROPN]()-[sv-pos/ADJ]() (2; 0% instances), [sv-pos/SCONJ]()-[sv-pos/NOUN]() (2; 0% instances), [sv-pos/ADJ]()-[sv-pos/DET]() (1; 0% instances), [sv-pos/ADP]()-[sv-pos/ADP]() (1; 0% instances), [sv-pos/ADP]()-[sv-pos/NUM]() (1; 0% instances), [sv-pos/AUX]()-[sv-pos/NOUN]() (1; 0% instances), [sv-pos/DET]()-[sv-pos/ADJ]() (1; 0% instances), [sv-pos/PRON]()-[sv-pos/NUM]() (1; 0% instances), [sv-pos/PRON]()-[sv-pos/PROPN]() (1; 0% instances), [sv-pos/PROPN]()-[sv-pos/ADV]() (1; 0% instances).
-
-
-~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 4 nmod	color:blue
-1	Men	men	CONJ	KN	_	5	cc	_	_
-2	för	för	ADP	PP	_	4	case	_	_
-3	barnens	barn	NOUN	NN|NEU|PLU|DEF|GEN	Case=Gen|Definite=Def|Gender=Neut|Number=Plur	4	nmod:poss	_	_
-4	del	del	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	5	nmod	_	_
-5	är	vara	VERB	VB|PRS|AKT	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-6	det	den	PRON	PN|NEU|SIN|DEF|SUB/OBJ	Definite=Def|Gender=Neut|Number=Sing|PronType=Prs	5	nsubj	_	_
-7	annorlunda	annorlunda	ADV	AB	_	5	advmod	_	_
-8	.	.	PUNCT	MAD	_	5	punct	_	_
-
-~~~
+The following 33 pairs of parts of speech are connected with `nmod`: [sv-pos/NOUN]()-[sv-pos/NOUN]() (2366; 73% instances), [sv-pos/NUM]()-[sv-pos/NOUN]() (173; 5% instances), [sv-pos/PROPN]()-[sv-pos/NOUN]() (138; 4% instances), [sv-pos/NOUN]()-[sv-pos/PROPN]() (133; 4% instances), [sv-pos/PRON]()-[sv-pos/NOUN]() (58; 2% instances), [sv-pos/NOUN]()-[sv-pos/NUM]() (57; 2% instances), [sv-pos/NOUN]()-[sv-pos/ADV]() (54; 2% instances), [sv-pos/NOUN]()-[sv-pos/ADJ]() (43; 1% instances), [sv-pos/ADJ]()-[sv-pos/NOUN]() (38; 1% instances), [sv-pos/NOUN]()-[sv-pos/PRON]() (37; 1% instances), [sv-pos/NOUN]()-[sv-pos/ADP]() (23; 1% instances), [sv-pos/VERB]()-[sv-pos/NOUN]() (22; 1% instances), [sv-pos/PROPN]()-[sv-pos/PROPN]() (17; 1% instances), [sv-pos/PROPN]()-[sv-pos/NUM]() (12; 0% instances), [sv-pos/PRON]()-[sv-pos/PRON]() (11; 0% instances), [sv-pos/DET]()-[sv-pos/NOUN]() (9; 0% instances), [sv-pos/NUM]()-[sv-pos/NUM]() (8; 0% instances), [sv-pos/ADV]()-[sv-pos/NOUN]() (7; 0% instances), [sv-pos/NOUN]()-[sv-pos/DET]() (4; 0% instances), [sv-pos/ADJ]()-[sv-pos/PRON]() (3; 0% instances), [sv-pos/PRON]()-[sv-pos/ADJ]() (3; 0% instances), [sv-pos/ADJ]()-[sv-pos/NUM]() (2; 0% instances), [sv-pos/ADJ]()-[sv-pos/PROPN]() (2; 0% instances), [sv-pos/ADV]()-[sv-pos/NUM]() (2; 0% instances), [sv-pos/NOUN]()-[sv-pos/VERB]() (2; 0% instances), [sv-pos/PROPN]()-[sv-pos/ADJ]() (2; 0% instances), [sv-pos/ADP]()-[sv-pos/NOUN]() (1; 0% instances), [sv-pos/DET]()-[sv-pos/ADJ]() (1; 0% instances), [sv-pos/NUM]()-[sv-pos/ADV]() (1; 0% instances), [sv-pos/PRON]()-[sv-pos/ADV]() (1; 0% instances), [sv-pos/PRON]()-[sv-pos/PROPN]() (1; 0% instances), [sv-pos/PROPN]()-[sv-pos/ADV]() (1; 0% instances), [sv-pos/VERB]()-[sv-pos/NUM]() (1; 0% instances).
 
 
 ~~~ conllu
@@ -45,27 +27,48 @@ The following 51 pairs of parts of speech are connected with `nmod`: [sv-pos/VER
 4	i	i	ADP	PP	_	5	case	_	_
 5	utveckling	utveckling	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	3	nmod	_	_
 6	hos	hos	ADP	PP	_	8	case	_	_
-7	äldre	gammal	ADJ	JJ|KOM|UTR/NEU|SIN/PLU|IND/DEF|NOM	Case=Nom|Degree=Cmp	8	det	_	_
-8	kibbutzbarn	kibbutzbarn	NOUN	NN|NEU|PLU|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Plur	1	nmod	_	_
+7	äldre	gammal	ADJ	JJ|KOM|UTR/NEU|SIN/PLU|IND/DEF|NOM	Case=Nom|Degree=Cmp	8	amod	_	_
+8	kibbutzbarn	kibbutzbarn	NOUN	NN|NEU|PLU|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Plur	1	obl	_	SpaceAfter=No
 9	?	?	PUNCT	MAD	_	1	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 7 nmod	color:blue
-1	En	en	DET	DT|UTR|SIN|IND	Definite=Ind|Gender=Com|Number=Sing|PronType=Art	3	det	_	_
-2	biologisk	biologisk	ADJ	JJ|POS|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Degree=Pos|Gender=Com|Number=Sing	3	amod	_	_
-3	funktion	funktion	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	_	_
-4	grundad	grundad	ADJ	PC|PRF|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing|Tense=Past|VerbForm=Part	3	acl	_	_
-5	på	på	ADP	PP	_	7	case	_	_
-6	biologiska	biologisk	ADJ	JJ|POS|UTR/NEU|PLU|IND/DEF|NOM	Case=Nom|Degree=Pos|Number=Plur	7	amod	_	_
-7	olikheter	olikhet	NOUN	NN|UTR|PLU|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Plur	4	nmod	_	_
-8	.	.	PUNCT	MAD	_	3	punct	_	_
+# visual-style 7 6 nmod	color:blue
+1	Publicerad	publicera	ADJ	PC|PRF|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+2	i	i	ADP	PP	_	3	case	_	_
+3	Children	Children	PROPN	PM|NOM	Case=Nom	1	obl	_	_
+4	1958	1958	NUM	RG|NOM	Case=Nom|NumType=Card	3	nmod	_	SpaceAfter=No
+5	,	,	PUNCT	MID	_	4	punct	_	_
+6	Vol.	Vol.	NOUN	NN|AN	Abbr=Yes	7	nmod	_	_
+7	5	5	NUM	RG|NOM	Case=Nom|NumType=Card	4	obl	_	SpaceAfter=No
+8	,	,	PUNCT	MID	_	7	punct	_	_
+9	179-184	179-184	NUM	RG|NOM	Case=Nom|NumType=Card	7	nummod	_	_
+10	.	.	PUNCT	MAD	_	1	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 5 nmod	color:blue
+1	1782	1782	NUM	RG|NOM	Case=Nom|NumType=Card	2	nummod	_	_
+2	kom	komma	VERB	VB|PRT|AKT	Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+3	bruket	bruk	NOUN	NN|NEU|SIN|DEF|NOM	Case=Nom|Definite=Def|Gender=Neut|Number=Sing	2	nsubj	_	_
+4	i	i	ADP	PP	_	8	case	_	_
+5	släkten	släkt	NOUN	NN|UTR|SIN|DEF|NOM	Case=Nom|Definite=Def|Gender=Com|Number=Sing	6	nmod	_	_
+6	af	af	PROPN	PM|NOM	Case=Nom	8	nmod:poss	_	_
+7	Ugglas	Ugglas	PROPN	PM|GEN	Case=Gen	6	flat:name	_	_
+8	ägo	ägo	NOUN	NN|-|-|-|-	_	2	obl	_	SpaceAfter=No
+9	.	.	PUNCT	MAD	_	2	punct	_	_
 
 ~~~
 
@@ -77,63 +80,65 @@ The following 51 pairs of parts of speech are connected with `nmod`: [sv-pos/VER
 ## Treebank Statistics (UD_Swedish-LinES)
 
 This relation is universal.
-There are 2 language-specific subtypes of `nmod`: [nmod:agent](), [nmod:poss]().
+There are 1 language-specific subtypes of `nmod`: [nmod:poss]().
 
-8395 nodes (11%) are attached to their parents as `nmod`.
+2799 nodes (4%) are attached to their parents as `nmod`.
 
-7154 instances of `nmod` (85%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.49100655151876.
+2206 instances of `nmod` (79%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.63951411218292.
 
-The following 46 pairs of parts of speech are connected with `nmod`: [sv-pos/VERB]()-[sv-pos/NOUN]() (3898; 46% instances), [sv-pos/NOUN]()-[sv-pos/NOUN]() (1989; 24% instances), [sv-pos/VERB]()-[sv-pos/PRON]() (528; 6% instances), [sv-pos/VERB]()-[sv-pos/PROPN]() (352; 4% instances), [sv-pos/PROPN]()-[sv-pos/NOUN]() (313; 4% instances), [sv-pos/ADJ]()-[sv-pos/NOUN]() (261; 3% instances), [sv-pos/NOUN]()-[sv-pos/PROPN]() (259; 3% instances), [sv-pos/NOUN]()-[sv-pos/PRON]() (127; 2% instances), [sv-pos/PRON]()-[sv-pos/NOUN]() (106; 1% instances), [sv-pos/ADV]()-[sv-pos/NOUN]() (83; 1% instances), [sv-pos/NUM]()-[sv-pos/NOUN]() (70; 1% instances), [sv-pos/VERB]()-[sv-pos/ADJ]() (55; 1% instances), [sv-pos/VERB]()-[sv-pos/ADP]() (52; 1% instances), [sv-pos/VERB]()-[sv-pos/NUM]() (52; 1% instances), [sv-pos/ADJ]()-[sv-pos/PRON]() (51; 1% instances), [sv-pos/AUX]()-[sv-pos/NOUN]() (39; 0% instances), [sv-pos/PRON]()-[sv-pos/PRON]() (36; 0% instances), [sv-pos/ADJ]()-[sv-pos/PROPN]() (20; 0% instances), [sv-pos/ADP]()-[sv-pos/NOUN]() (17; 0% instances), [sv-pos/PROPN]()-[sv-pos/PROPN]() (17; 0% instances), [sv-pos/PRON]()-[sv-pos/PROPN]() (10; 0% instances), [sv-pos/ADV]()-[sv-pos/PRON]() (8; 0% instances), [sv-pos/PROPN]()-[sv-pos/PRON]() (6; 0% instances), [sv-pos/SYM]()-[sv-pos/NOUN]() (5; 0% instances), [sv-pos/ADJ]()-[sv-pos/ADP]() (4; 0% instances), [sv-pos/ADP]()-[sv-pos/PROPN]() (4; 0% instances), [sv-pos/ADV]()-[sv-pos/PROPN]() (4; 0% instances), [sv-pos/AUX]()-[sv-pos/PRON]() (4; 0% instances), [sv-pos/INTJ]()-[sv-pos/NOUN]() (3; 0% instances), [sv-pos/NOUN]()-[sv-pos/ADJ]() (3; 0% instances), [sv-pos/DET]()-[sv-pos/NOUN]() (2; 0% instances), [sv-pos/NUM]()-[sv-pos/PRON]() (2; 0% instances), [sv-pos/NUM]()-[sv-pos/PROPN]() (2; 0% instances), [sv-pos/ADJ]()-[sv-pos/ADJ]() (1; 0% instances), [sv-pos/ADP]()-[sv-pos/ADJ]() (1; 0% instances), [sv-pos/ADP]()-[sv-pos/ADP]() (1; 0% instances), [sv-pos/ADP]()-[sv-pos/ADV]() (1; 0% instances), [sv-pos/ADP]()-[sv-pos/PRON]() (1; 0% instances), [sv-pos/AUX]()-[sv-pos/ADJ]() (1; 0% instances), [sv-pos/AUX]()-[sv-pos/PROPN]() (1; 0% instances), [sv-pos/DET]()-[sv-pos/PROPN]() (1; 0% instances), [sv-pos/INTJ]()-[sv-pos/PRON]() (1; 0% instances), [sv-pos/SCONJ]()-[sv-pos/NOUN]() (1; 0% instances), [sv-pos/SCONJ]()-[sv-pos/PROPN]() (1; 0% instances), [sv-pos/VERB]()-[sv-pos/SCONJ]() (1; 0% instances), [sv-pos/VERB]()-[sv-pos/SYM]() (1; 0% instances).
+The following 29 pairs of parts of speech are connected with `nmod`: [sv-pos/NOUN]()-[sv-pos/NOUN]() (1623; 58% instances), [sv-pos/NOUN]()-[sv-pos/PROPN]() (266; 10% instances), [sv-pos/PROPN]()-[sv-pos/NOUN]() (247; 9% instances), [sv-pos/ADJ]()-[sv-pos/NOUN]() (211; 8% instances), [sv-pos/NOUN]()-[sv-pos/PRON]() (95; 3% instances), [sv-pos/PRON]()-[sv-pos/NOUN]() (90; 3% instances), [sv-pos/ADV]()-[sv-pos/NOUN]() (69; 2% instances), [sv-pos/NUM]()-[sv-pos/NOUN]() (62; 2% instances), [sv-pos/ADJ]()-[sv-pos/PRON]() (37; 1% instances), [sv-pos/PRON]()-[sv-pos/PRON]() (25; 1% instances), [sv-pos/ADJ]()-[sv-pos/PROPN]() (19; 1% instances), [sv-pos/PROPN]()-[sv-pos/PROPN]() (13; 0% instances), [sv-pos/ADV]()-[sv-pos/PRON]() (6; 0% instances), [sv-pos/PRON]()-[sv-pos/PROPN]() (6; 0% instances), [sv-pos/PROPN]()-[sv-pos/PRON]() (5; 0% instances), [sv-pos/SYM]()-[sv-pos/NOUN]() (5; 0% instances), [sv-pos/ADV]()-[sv-pos/PROPN]() (3; 0% instances), [sv-pos/INTJ]()-[sv-pos/NOUN]() (3; 0% instances), [sv-pos/NOUN]()-[sv-pos/ADJ]() (3; 0% instances), [sv-pos/ADP]()-[sv-pos/NOUN]() (2; 0% instances), [sv-pos/ADJ]()-[sv-pos/ADV]() (1; 0% instances), [sv-pos/ADP]()-[sv-pos/PROPN]() (1; 0% instances), [sv-pos/INTJ]()-[sv-pos/PRON]() (1; 0% instances), [sv-pos/NUM]()-[sv-pos/PRON]() (1; 0% instances), [sv-pos/NUM]()-[sv-pos/PROPN]() (1; 0% instances), [sv-pos/PUNCT]()-[sv-pos/PROPN]() (1; 0% instances), [sv-pos/SCONJ]()-[sv-pos/NOUN]() (1; 0% instances), [sv-pos/VERB]()-[sv-pos/PRON]() (1; 0% instances), [sv-pos/VERB]()-[sv-pos/PROPN]() (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 9 nmod	color:blue
+1	SQL	_	PROPN	SG-NOM	_	4	nsubj:pass	_	_
+2	Server	_	NOUN	SG-IND-NOM	_	1	flat	_	_
+3	måste	_	AUX	AUX	_	4	aux	_	_
+4	köras	_	VERB	INF-PASS	_	0	root	_	_
+5	på	_	ADP	_	_	7	case	_	_
+6	samma	_	ADJ	POS-IND	_	7	amod	_	_
+7	dator	_	NOUN	SG-IND-NOM	_	4	obl	_	_
+8	som	_	ADP	_	_	9	case	_	_
+9	Access-projektet	_	NOUN	SG-DEF-NOM	_	7	nmod	_	SpaceAfter=No
+10	.	_	PUNCT	Period	_	4	punct	_	_
+
+~~~
+
+
+~~~ conllu
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
-# visual-style 1 4 nmod	color:blue
-1	Öppna	_	VERB	IMP-ACT	_	0	root	_	_
-2	sidan	_	NOUN	SG-DEF-NOM	_	1	dobj	_	_
-3	i	_	ADP	_	_	4	case	_	_
-4	designläget	_	NOUN	SG-DEF-NOM	_	1	nmod	_	_
-5	i	_	ADP	_	_	6	case	_	_
-6	Access	_	PROPN	SG-NOM	_	4	nmod	_	_
-7	2002	_	NUM	ID	_	6	nummod	_	_
-8	.	_	PUNCT	Period	_	1	punct	_	_
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 1 nmod	color:blue
+1	SQL	_	PROPN	SG-NOM	_	2	nmod	_	_
+2	Server-databasen	_	NOUN	SG-DEF-NOM	_	4	nsubj:pass	_	_
+3	måste	_	AUX	AUX	_	4	aux	_	_
+4	köras	_	VERB	INF-PASS	_	0	root	_	_
+5	på	_	ADP	_	_	6	case	_	_
+6	Windows	_	PROPN	SG-NOM	_	4	obl	_	_
+7	NT	_	PROPN	SG-NOM	_	6	flat	_	SpaceAfter=No
+8	.	_	PUNCT	Period	_	4	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
-# visual-style 3 6 nmod	color:blue
-1	Länka	_	VERB	IMP-ACT	_	0	root	_	_
-2	en	_	DET	SG-IND	_	3	det	_	_
-3	sida	_	NOUN	SG-IND-NOM	_	1	dobj	_	_
-4	till	_	ADP	_	_	6	case	_	_
-5	en	_	DET	SG-IND	_	6	det	_	_
-6	anslutningsfil	_	NOUN	SG-IND-NOM	_	3	nmod	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
-# visual-style 4 6 nmod	color:blue
-1	Villkorsstyrda	_	ADJ	POS-PL-IND	_	2	amod	_	_
-2	filter	_	NOUN	IND-NOM	_	3	nsubj	_	_
-3	fungerar	_	VERB	PRES-ACT	_	0	root	_	_
-4	oberoende	_	VERB	NDE	_	3	advcl	_	_
-5	av	_	ADP	_	_	6	case	_	_
-6	varandra	_	PRON	RCP-PL-ACC	_	4	nmod	_	_
-7	.	_	PUNCT	Period	_	3	punct	_	_
+# visual-style 4 3 nmod	color:blue
+1	Access	_	PROPN	SG-NOM	_	2	nsubj	_	_
+2	stöder	_	VERB	PRES-ACT	_	0	root	_	_
+3	XML-schemastandarden	_	NOUN	SG-DEF-NOM	_	4	nmod	_	_
+4	XSD	_	PROPN	SG-NOM	_	2	obj	_	SpaceAfter=No
+5	.	_	PUNCT	Period	_	2	punct	_	_
 
 ~~~
 
@@ -147,48 +152,24 @@ The following 46 pairs of parts of speech are connected with `nmod`: [sv-pos/VER
 This relation is universal.
 There are 1 language-specific subtypes of `nmod`: [nmod:pass]().
 
-46 nodes (7%) are attached to their parents as `nmod`.
+22 nodes (6%) are attached to their parents as `nmod`.
 
-34 instances of `nmod` (74%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.45652173913043.
+14 instances of `nmod` (64%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.22727272727273.
 
-The following 8 pairs of parts of speech are connected with `nmod`: [sv-pos/VERB]()-[sv-pos/NOUN]() (20; 43% instances), [sv-pos/VERB]()-[sv-pos/PRON]() (8; 17% instances), [sv-pos/NOUN]()-[sv-pos/NOUN]() (6; 13% instances), [sv-pos/VERB]()-[sv-pos/VERB]() (6; 13% instances), [sv-pos/VERB]()-[sv-pos/X]() (3; 7% instances), [sv-pos/NOUN]()-[sv-pos/PRON]() (1; 2% instances), [sv-pos/X]()-[sv-pos/NOUN]() (1; 2% instances), [sv-pos/X]()-[sv-pos/VERB]() (1; 2% instances).
-
-
-~~~ conllu
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 8 9 nmod	color:blue
-1	HUND	_	NOUN	NN	_	2	nsubj	_	_
-2	SÅG	_	VERB	VB	_	0	root	_	_
-3	PEK	_	PRON	PEK	_	2	nmod	_	_
-4	FINNAS	_	VERB	VB	_	2	ccomp	_	_
-5	BI	_	NOUN	NN	_	6	compound	_	_
-6	GLOB@kl	_	NOUN	NNKL	_	4	nsubj	_	_
-7	BI	_	NOUN	NN	_	8	nsubj	_	_
-8	INUTI	_	VERB	VBPP	_	6	acl	_	_
-9	TRE-DIM-FORM	_	NOUN	NNKL	_	8	nmod	_	_
-
-~~~
+The following 6 pairs of parts of speech are connected with `nmod`: [sv-pos/VERB]()-[sv-pos/NOUN]() (9; 41% instances), [sv-pos/VERB]()-[sv-pos/VERB]() (4; 18% instances), [sv-pos/NOUN]()-[sv-pos/NOUN]() (3; 14% instances), [sv-pos/VERB]()-[sv-pos/X]() (3; 14% instances), [sv-pos/VERB]()-[sv-pos/PRON]() (2; 9% instances), [sv-pos/NOUN]()-[sv-pos/PRON]() (1; 5% instances).
 
 
 ~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
-# visual-style 2 3 nmod	color:blue
-1	HUND	_	NOUN	NN	_	2	nsubj	_	_
-2	SÅG	_	VERB	VB	_	0	root	_	_
-3	PEK	_	PRON	PEK	_	2	nmod	_	_
-4	FINNAS	_	VERB	VB	_	2	ccomp	_	_
-5	BI	_	NOUN	NN	_	6	compound	_	_
-6	GLOB@kl	_	NOUN	NNKL	_	4	nsubj	_	_
-7	BI	_	NOUN	NN	_	8	nsubj	_	_
-8	INUTI	_	VERB	VBPP	_	6	acl	_	_
-9	TRE-DIM-FORM	_	NOUN	NNKL	_	8	nmod	_	_
+# visual-style 2 1 nmod	color:blue
+1	MORGON	_	NOUN	NN	_	2	nmod	_	_
+2	VAKNA	_	VERB	VB	_	0	root	_	_
+3	TITTA-PÅ	_	VERB	VB	_	2	conj	_	_
+4	FÖRSVUNNEN	_	VERB	VB	_	3	ccomp	_	_
 
 ~~~
 
@@ -204,6 +185,22 @@ The following 8 pairs of parts of speech are connected with `nmod`: [sv-pos/VERB
 3	INUTI	_	VERB	VBPP	_	1	case	_	_
 4	GRODA	_	NOUN	NN	_	5	nsubj	_	_
 5	STANNA-KVAR	_	VERB	VB	_	0	root	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 4 nmod	color:blue
+1	FÖRSÖKA	_	VERB	VB	_	2	aux	_	_
+2	ROPA@ca	_	VERB	VBCA	_	0	root	_	_
+3	ENTITET(A)+FÖRFLYTTA@p>näsa	_	VERB	VBAV	_	2	conj	_	_
+4	AVGRÄNS	_	X	BOJ	_	3	nmod	_	_
+5	MULLVAD@b	_	NOUN	NN	_	3	nsubj	_	_
+6	LÅTA-VARA	_	X	G	_	2	discourse	_	_
 
 ~~~
 

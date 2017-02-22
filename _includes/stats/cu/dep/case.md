@@ -6,75 +6,62 @@
 
 This relation is universal.
 
-4663 nodes (8%) are attached to their parents as `case`.
+3886 nodes (8%) are attached to their parents as `case`.
 
-4585 instances of `case` (98%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.09221531203088.
+3825 instances of `case` (98%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.09186824498199.
 
-The following 7 pairs of parts of speech are connected with `case`: [cu-pos/NOUN]()-[cu-pos/ADP]() (2753; 59% instances), [cu-pos/PRON]()-[cu-pos/ADP]() (1218; 26% instances), [cu-pos/PROPN]()-[cu-pos/ADP]() (268; 6% instances), [cu-pos/ADJ]()-[cu-pos/ADP]() (266; 6% instances), [cu-pos/NUM]()-[cu-pos/ADP]() (111; 2% instances), [cu-pos/VERB]()-[cu-pos/ADP]() (37; 1% instances), [cu-pos/ADV]()-[cu-pos/ADP]() (10; 0% instances).
+The following 8 pairs of parts of speech are connected with `case`: [cu-pos/NOUN]()-[cu-pos/ADP]() (2308; 59% instances), [cu-pos/PRON]()-[cu-pos/ADP]() (973; 25% instances), [cu-pos/ADJ]()-[cu-pos/ADP]() (240; 6% instances), [cu-pos/PROPN]()-[cu-pos/ADP]() (231; 6% instances), [cu-pos/NUM]()-[cu-pos/ADP]() (95; 2% instances), [cu-pos/VERB]()-[cu-pos/ADP]() (30; 1% instances), [cu-pos/ADV]()-[cu-pos/ADP]() (8; 0% instances), [cu-pos/DET]()-[cu-pos/ADP]() (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 7 6 case	color:blue
-1	и	и	CONJ	C-	_	10	cc	_	_
-2	аще	аще	SCONJ	G-	_	4	mark	_	_
-3	къто	къто	PRON	Px	Case=Nom|Number=Sing	4	nsubj	_	_
-4	поиметъ	поѩти	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	advcl	_	_
-5	тѧ	тꙑ	PRON	Pp	Case=Acc|Number=Sing|Person=2|PronType=Prs	4	dobj	_	_
-6	по	по	ADP	R-	_	7	case	_	_
-7	силѣ	сила	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	4	nmod	_	_
-8	попьрище	попьрище	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	4	remnant	_	_
-9	едино	ѥдинъ	NUM	Ma	Case=Acc|Gender=Neut|Number=Sing	8	nummod	_	_
-10	ꙇди	ити	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-11	съ	съ	ADP	R-	_	12	case	_	_
-12	нимь	и	PRON	Pp	Case=Ins|Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	iobj	_	_
-13	дьвѣ	дъва	NUM	Ma	Case=Acc|Gender=Neut|Number=Dual	10	nmod	_	_
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 2 case	color:blue
+1	не	не	ADV	Df	Polarity=Neg	4	advmod	_	ref=MATT_5.33
+2	въ	въ	ADP	R-	_	3	case	_	ref=MATT_5.33
+3	лъжѫ	лъжа	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	4	obl	_	ref=MATT_5.33
+4	клънеши	клѧти	VERB	V-	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=MATT_5.33
+5	сѧ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	4	aux	_	ref=MATT_5.33
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 11	bgColor:blue
-# visual-style 11	fgColor:white
 # visual-style 12	bgColor:blue
 # visual-style 12	fgColor:white
-# visual-style 12 11 case	color:blue
-1	и	и	CONJ	C-	_	10	cc	_	_
-2	аще	аще	SCONJ	G-	_	4	mark	_	_
-3	къто	къто	PRON	Px	Case=Nom|Number=Sing	4	nsubj	_	_
-4	поиметъ	поѩти	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	advcl	_	_
-5	тѧ	тꙑ	PRON	Pp	Case=Acc|Number=Sing|Person=2|PronType=Prs	4	dobj	_	_
-6	по	по	ADP	R-	_	7	case	_	_
-7	силѣ	сила	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	4	nmod	_	_
-8	попьрище	попьрище	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	4	remnant	_	_
-9	едино	ѥдинъ	NUM	Ma	Case=Acc|Gender=Neut|Number=Sing	8	nummod	_	_
-10	ꙇди	ити	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-11	съ	съ	ADP	R-	_	12	case	_	_
-12	нимь	и	PRON	Pp	Case=Ins|Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	iobj	_	_
-13	дьвѣ	дъва	NUM	Ma	Case=Acc|Gender=Neut|Number=Dual	10	nmod	_	_
+# visual-style 13	bgColor:blue
+# visual-style 13	fgColor:white
+# visual-style 13 12 case	color:blue
+1	аще	аще	SCONJ	G-	_	6	mark	_	ref=MATT_5.29
+2	же	же	ADV	Df	_	8	discourse	_	ref=MATT_5.29
+3	око	око	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	6	nsubj	_	ref=MATT_5.29
+4	твое	твои	ADJ	Ps	Case=Nom|Gender=Neut|Number=Sing|Person=2|Poss=Yes	3	nmod	_	ref=MATT_5.29
+5	десное	деснъ	ADJ	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Strength=Weak	3	amod	_	ref=MATT_5.29
+6	съблажнаатъ	съблажнꙗти	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	advcl	_	ref=MATT_5.29
+7	тѧ	тꙑ	PRON	Pp	Case=Acc|Number=Sing|Person=2|PronType=Prs	6	obj:dir	_	ref=MATT_5.29
+8	ꙇзьми	изѧти	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=MATT_5.29
+9	е	и	PRON	Pp	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	8	obj:dir	_	ref=MATT_5.29
+10	и	и	CCONJ	C-	_	8	cc	_	ref=MATT_5.29
+11	връзи	врѣщи	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	8	conj	_	ref=MATT_5.29
+12	отъ	отъ	ADP	R-	_	13	case	_	ref=MATT_5.29
+13	тебе	тꙑ	PRON	Pp	Case=Gen|Number=Sing|Person=2|PronType=Prs	11	obl	_	ref=MATT_5.29
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 5 case	color:blue
-1	тъгда	тъгда	ADV	Df	_	2	advmod	_	_
-2	разоумѣшѧ	разоумѣти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
-3	оученици	оученикъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	2	nsubj	_	_
-4	ѣко	ꙗко	SCONJ	G-	_	8	mark	_	_
-5	о	о	ADP	R-	_	6	case	_	_
-6	иоанѣ	иоанъ	PROPN	Ne	Case=Loc|Gender=Masc|Number=Sing	8	iobj	_	_
-7	кръстители	крьститель	NOUN	Nb	Case=Loc|Gender=Masc|Number=Sing	6	appos	_	_
-8	рече	рещи	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	2	ccomp	_	_
-9	имъ	и	PRON	Pp	Case=Dat|Gender=Masc|Number=Plur|Person=3|PronType=Prs	8	iobj	_	_
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 2 case	color:blue
+1	сего	сь	ADJ	Pd	Case=Gen|Gender=Neut|Number=Sing	3	obl	_	ref=MATT_6.25
+2	ради	ради	ADP	R-	_	1	case	_	ref=MATT_6.25
+3	г҃лѭ	глаголати	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=MATT_6.25
+4	вамъ	вꙑ	PRON	Pp	Case=Dat|Number=Plur|Person=2|PronType=Prs	3	iobj	_	ref=MATT_6.25
 
 ~~~
 

@@ -6,12 +6,12 @@
 
 This relation is a language-specific subtype of [advmod]().
 
-666 nodes (0%) are attached to their parents as `advmod:quant`.
+51 nodes (0%) are attached to their parents as `advmod:quant`.
 
-650 instances of `advmod:quant` (98%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.40540540540541.
+47 instances of `advmod:quant` (92%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.52941176470588.
 
-The following 11 pairs of parts of speech are connected with `advmod:quant`: [et-pos/NOUN]()-[et-pos/NOUN]() (282; 42% instances), [et-pos/NOUN]()-[et-pos/ADV]() (265; 40% instances), [et-pos/NOUN]()-[et-pos/PRON]() (92; 14% instances), [et-pos/NOUN]()-[et-pos/ADJ]() (14; 2% instances), [et-pos/ADJ]()-[et-pos/ADV]() (4; 1% instances), [et-pos/NOUN]()-[et-pos/SYM]() (2; 0% instances), [et-pos/NUM]()-[et-pos/NOUN]() (2; 0% instances), [et-pos/NUM]()-[et-pos/PRON]() (2; 0% instances), [et-pos/ADJ]()-[et-pos/NOUN]() (1; 0% instances), [et-pos/ADJ]()-[et-pos/PRON]() (1; 0% instances), [et-pos/PROPN]()-[et-pos/NOUN]() (1; 0% instances).
+The following 4 pairs of parts of speech are connected with `advmod:quant`: [et-pos/NOUN]()-[et-pos/NOUN]() (26; 51% instances), [et-pos/NOUN]()-[et-pos/ADV]() (16; 31% instances), [et-pos/NOUN]()-[et-pos/PRON]() (7; 14% instances), [et-pos/NOUN]()-[et-pos/ADJ]() (2; 4% instances).
 
 
 ~~~ conllu
@@ -20,12 +20,15 @@ The following 11 pairs of parts of speech are connected with `advmod:quant`: [et
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 4 advmod:quant	color:blue
-1	Ilmselt	ilmselt	ADV	D	_	2	advmod	_	_
-2	on	olema	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-3	ajavahe	aja_vahe	NOUN	S	Case=Nom|Number=Sing	2	nsubj	_	_
-4	kuu	kuu	NOUN	S	Case=Nom|Number=Sing	5	advmod:quant	_	_
-5	aega	aeg	NOUN	S	Case=Par|Number=Sing	2	nmod	_	_
-6	.	.	PUNCT	Z	_	2	punct	_	_
+1	Tsee	Tsee	PROPN	S	Case=Nom|Number=Sing	7	nsubj:cop	_	_
+2	oli	olema	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	7	cop	_	_
+3	veel	veel	ADV	D	_	7	advmod	_	_
+4	hulk	hulk	NOUN	S	Case=Nom|Number=Sing	5	advmod:quant	_	_
+5	aega	aeg	NOUN	S	Case=Par|Number=Sing	7	obl	_	_
+6	filmi	film	NOUN	S	Case=Gen|Number=Sing	7	nmod	_	_
+7	mõju	mõju	NOUN	S	Case=Gen|Number=Sing	0	root	_	_
+8	all	all	ADP	K	AdpType=Post	7	case	_	SpaceAfter=No
+9	.	.	PUNCT	Z	_	7	punct	_	_
 
 ~~~
 
@@ -36,37 +39,38 @@ The following 11 pairs of parts of speech are connected with `advmod:quant`: [et
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 4 advmod:quant	color:blue
-1	Kas	kas	ADV	D	_	3	advmod	_	_
-2	neil	tema	PRON	P	Case=Ade|Number=Plur|Person=3|PronType=Prs	3	nmod	_	_
-3	oleks	olema	VERB	V	Mood=Cnd|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-4	piisavalt	piisavalt	ADV	D	_	5	advmod:quant	_	_
-5	mune	muna	NOUN	S	Case=Par|Number=Plur	3	nsubj	_	_
-6	,	,	PUNCT	Z	_	11	punct	_	_
-7	et	et	SCONJ	J	_	11	mark	_	_
-8	see	see	PRON	P	Case=Nom|Number=Sing|PronType=Dem	11	dobj	_	_
-9	mulle	mina	PRON	P	Case=All|Number=Sing|Person=1|PronType=Prs	11	nmod	_	_
-10	silma	silm	NOUN	S	Case=Add|Number=Sing	11	nmod	_	_
-11	suruda	suruma	VERB	V	VerbForm=Inf	3	dep	_	_
-12	?	?	PUNCT	Z	_	3	punct	_	_
+1	Küna	küna	NOUN	S	Case=Gen|Number=Sing	2	nmod	_	_
+2	uuretesse	uure	NOUN	S	Case=Ill|Number=Plur	6	obl	_	_
+3	oli	olema	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	6	aux	_	_
+4	pisut	pisut	ADV	D	_	5	advmod:quant	_	_
+5	rokka	rokk	NOUN	S	Case=Par|Number=Sing	6	nsubj	_	_
+6	jäänud	jääma	VERB	V	Tense=Past|VerbForm=Part|Voice=Act	0	root	_	SpaceAfter=No
+7	,	,	PUNCT	Z	_	11	punct	_	_
+8	aga	aga	CCONJ	J	_	11	cc	_	_
+9	see	see	PRON	P	Case=Nom|Number=Sing|PronType=Dem	11	nsubj:cop	_	_
+10	polnud	olema	AUX	V	Mood=Ind|Polarity=Neg|Tense=Past|VerbForm=Fin|Voice=Act	11	cop	_	_
+11	maitsev	maitsev	ADJ	A	Case=Nom|Degree=Pos|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	6	conj	_	SpaceAfter=No
+12	.	.	PUNCT	Z	_	6	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 3 advmod:quant	color:blue
-1	Olin	olema	AUX	V	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	5	aux	_	_
-2	haigena	haige	NOUN	S	Case=Ess|Number=Sing	5	nmod	_	_
-3	mitu	mitu	PRON	P	Case=Nom|Number=Sing|PronType=Ind	4	advmod:quant	_	_
-4	korda	kord	NOUN	S	Case=Par|Number=Sing	5	nmod	_	_
-5	tõusnud	tõusma	VERB	V	Tense=Past|VerbForm=Part|Voice=Act	0	root	_	_
-6	,	,	PUNCT	Z	_	8	punct	_	_
-7	et	et	SCONJ	J	_	8	mark	_	_
-8	lahkuda	lahkuma	VERB	V	VerbForm=Inf	5	dep	_	_
-9	.	.	PUNCT	Z	_	5	punct	_	_
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 8 7 advmod:quant	color:blue
+1	Õnneks	õnn	NOUN	S	Case=Tra|Number=Sing	4	obl	_	_
+2	oli	olema	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	4	cop	_	_
+3	ta	tema	PRON	P	Case=Nom|Number=Sing|Person=3|PronType=Prs	4	nsubj:cop	_	_
+4	arg	arg	ADJ	A	Case=Nom|Degree=Pos|Number=Sing	0	root	_	_
+5	ning	ning	CCONJ	J	_	6	cc	_	_
+6	jälgis	jälgima	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	4	conj	_	_
+7	mitut	mitu	PRON	P	Case=Par|Number=Sing|PronType=Ind	8	advmod:quant	_	_
+8	asja	asi	NOUN	S	Case=Par|Number=Sing	6	obj	_	_
+9	korraga	korraga	ADV	D	_	6	advmod	_	SpaceAfter=No
+10	.	.	PUNCT	Z	_	4	punct	_	_
 
 ~~~
 

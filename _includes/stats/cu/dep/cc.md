@@ -6,51 +6,33 @@
 
 This relation is universal.
 
-4891 nodes (9%) are attached to their parents as `cc`.
+4013 nodes (8%) are attached to their parents as `cc`.
 
-3240 instances of `cc` (66%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.80433449192394.
+2684 instances of `cc` (67%) are left-to-right (parent precedes child).
+Average distance between parent and child is 3.83927236481435.
 
-The following 10 pairs of parts of speech are connected with `cc`: [cu-pos/VERB]()-[cu-pos/CONJ]() (3918; 80% instances), [cu-pos/NOUN]()-[cu-pos/CONJ]() (580; 12% instances), [cu-pos/PROPN]()-[cu-pos/CONJ]() (142; 3% instances), [cu-pos/ADJ]()-[cu-pos/CONJ]() (111; 2% instances), [cu-pos/PRON]()-[cu-pos/CONJ]() (65; 1% instances), [cu-pos/NUM]()-[cu-pos/CONJ]() (34; 1% instances), [cu-pos/SCONJ]()-[cu-pos/CONJ]() (22; 0% instances), [cu-pos/ADV]()-[cu-pos/CONJ]() (15; 0% instances), [cu-pos/CONJ]()-[cu-pos/CONJ]() (2; 0% instances), [cu-pos/INTJ]()-[cu-pos/CONJ]() (2; 0% instances).
+The following 10 pairs of parts of speech are connected with `cc`: [cu-pos/VERB]()-[cu-pos/CCONJ]() (3202; 80% instances), [cu-pos/NOUN]()-[cu-pos/CCONJ]() (481; 12% instances), [cu-pos/PROPN]()-[cu-pos/CCONJ]() (117; 3% instances), [cu-pos/ADJ]()-[cu-pos/CCONJ]() (97; 2% instances), [cu-pos/PRON]()-[cu-pos/CCONJ]() (47; 1% instances), [cu-pos/NUM]()-[cu-pos/CCONJ]() (31; 1% instances), [cu-pos/SCONJ]()-[cu-pos/CCONJ]() (18; 0% instances), [cu-pos/ADV]()-[cu-pos/CCONJ]() (15; 0% instances), [cu-pos/CCONJ]()-[cu-pos/CCONJ]() (3; 0% instances), [cu-pos/INTJ]()-[cu-pos/CCONJ]() (2; 0% instances).
 
 
 ~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
 # visual-style 10	bgColor:blue
 # visual-style 10	fgColor:white
-# visual-style 10 1 cc	color:blue
-1	и	и	CONJ	C-	_	10	cc	_	_
-2	аще	аще	SCONJ	G-	_	4	mark	_	_
-3	къто	къто	PRON	Px	Case=Nom|Number=Sing	4	nsubj	_	_
-4	поиметъ	поѩти	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	advcl	_	_
-5	тѧ	тꙑ	PRON	Pp	Case=Acc|Number=Sing|Person=2|PronType=Prs	4	dobj	_	_
-6	по	по	ADP	R-	_	7	case	_	_
-7	силѣ	сила	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	4	nmod	_	_
-8	попьрище	попьрище	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	4	remnant	_	_
-9	едино	ѥдинъ	NUM	Ma	Case=Acc|Gender=Neut|Number=Sing	8	nummod	_	_
-10	ꙇди	ити	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-11	съ	съ	ADP	R-	_	12	case	_	_
-12	нимь	и	PRON	Pp	Case=Ins|Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	iobj	_	_
-13	дьвѣ	дъва	NUM	Ma	Case=Acc|Gender=Neut|Number=Dual	10	nmod	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 6 cc	color:blue
-1	Тъгда	тъгда	ADV	Df	_	2	advmod	_	_
-2	отъвѣщашѧ	отъвѣщати	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
-3	етери	етеръ	PRON	Px	Case=Nom|Gender=Masc|Number=Plur	2	nsubj	_	_
-4	отъ	отъ	ADP	R-	_	5	case	_	_
-5	кънижъникъ	кънижьникъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	3	nmod	_	_
-6	ꙇ	и	CONJ	C-	_	5	cc	_	_
-7	фарисѣи	фарисеи	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	5	conj	_	_
-8	г҃лѭще	глаголати	VERB	V-	Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|Tense=Pres|VerbForm=Part|Voice=Act	2	advcl	_	_
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 8 10 cc	color:blue
+1	аще	аще	SCONJ	G-	_	6	mark	_	ref=MATT_5.29
+2	же	же	ADV	Df	_	8	discourse	_	ref=MATT_5.29
+3	око	око	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	6	nsubj	_	ref=MATT_5.29
+4	твое	твои	ADJ	Ps	Case=Nom|Gender=Neut|Number=Sing|Person=2|Poss=Yes	3	nmod	_	ref=MATT_5.29
+5	десное	деснъ	ADJ	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Strength=Weak	3	amod	_	ref=MATT_5.29
+6	съблажнаатъ	съблажнꙗти	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	advcl	_	ref=MATT_5.29
+7	тѧ	тꙑ	PRON	Pp	Case=Acc|Number=Sing|Person=2|PronType=Prs	6	obj:dir	_	ref=MATT_5.29
+8	ꙇзьми	изѧти	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=MATT_5.29
+9	е	и	PRON	Pp	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	8	obj:dir	_	ref=MATT_5.29
+10	и	и	CCONJ	C-	_	8	cc	_	ref=MATT_5.29
+11	връзи	врѣщи	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	8	conj	_	ref=MATT_5.29
+12	отъ	отъ	ADP	R-	_	13	case	_	ref=MATT_5.29
+13	тебе	тꙑ	PRON	Pp	Case=Gen|Number=Sing|Person=2|PronType=Prs	11	obl	_	ref=MATT_5.29
 
 ~~~
 
@@ -58,21 +40,39 @@ The following 10 pairs of parts of speech are connected with `cc`: [cu-pos/VERB]
 ~~~ conllu
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 4 cc	color:blue
-1	ꙇ	и	CONJ	C-	_	2	cc	_	_
-2	бѣ	бꙑти	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
-3	иосифъ	иосифъ	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	_
-4	и	и	CONJ	C-	_	3	cc	_	_
-5	мати	мати	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	3	conj	_	_
-6	его	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nmod	_	_
-7	чюдѧшта	чоудити	VERB	V-	Case=Nom|Gender=Masc|Number=Dual|Strength=Strong|Tense=Pres|VerbForm=Part|Voice=Act	2	xcomp	_	_
-8	сѧ	себе	PRON	Pk	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	7	mark	_	_
-9	о	о	ADP	R-	_	10	case	_	_
-10	г҃лемꙑхъ	глаголати	VERB	V-	Case=Loc|Gender=Neut|Number=Plur|Strength=Weak|Tense=Pres|VerbForm=Part|Voice=Pass	7	advcl	_	_
-11	о	о	ADP	R-	_	12	case	_	_
-12	немь	и	PRON	Pp	Case=Loc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	iobj	_	_
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 4 cc	color:blue
+1	око	око	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	0	root	_	ref=MATT_5.38
+2	за	за	ADP	R-	_	3	case	_	ref=MATT_5.38
+3	око	око	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	1	obl	_	ref=MATT_5.38
+4	и	и	CCONJ	C-	_	1	cc	_	ref=MATT_5.38
+5	зѫбъ	зѫбъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	1	conj	_	ref=MATT_5.38
+6	за	за	ADP	R-	_	7	case	_	ref=MATT_5.38
+7	зѫбъ	зѫбъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	5	orphan	_	ref=MATT_5.38
+
+~~~
+
+
+~~~ conllu
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 10 cc	color:blue
+1	ꙇ	и	CCONJ	C-	_	2	cc	_	ref=LUKE_7.17
+2	изиде	изити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=LUKE_7.17
+3	слово	слово	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	2	nsubj	_	ref=LUKE_7.17
+4	се	сь	DET	Pd	Case=Nom|Gender=Neut|Number=Sing	3	det	_	ref=LUKE_7.17
+5	по	по	ADP	R-	_	7	case	_	ref=LUKE_7.17
+6	вьсеи	вьсь	DET	Px	Case=Dat|Gender=Fem|Number=Sing	7	det	_	ref=LUKE_7.17
+7	июдеи	июдеꙗ	PROPN	Ne	Case=Dat|Gender=Fem|Number=Sing	2	obl	_	ref=LUKE_7.17
+8	о	о	ADP	R-	_	9	case	_	ref=LUKE_7.17
+9	немь	и	PRON	Pp	Case=Loc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nmod	_	ref=LUKE_7.17
+10	ꙇ	и	CCONJ	C-	_	7	cc	_	ref=LUKE_7.17
+11	по	по	ADP	R-	_	13	case	_	ref=LUKE_7.17
+12	вьсеи	вьсь	DET	Px	Case=Dat|Gender=Fem|Number=Sing	13	det	_	ref=LUKE_7.17
+13	странѣ	страна	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	7	conj	_	ref=LUKE_7.17
 
 ~~~
 

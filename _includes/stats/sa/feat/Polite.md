@@ -5,7 +5,7 @@
 ## Treebank Statistics (UD_Sanskrit)
 
 This feature is language-specific.
-It occurs with 1 different values: `Pol`.
+It occurs with 1 different values: `Form`.
 
 9 tokens (1%) have a non-empty value of `Polite`.
 5 types (1%) occur at least once with a non-empty value of `Polite`.
@@ -20,5 +20,5 @@ The most frequent other feature values with which `PRON` and `Polite` co-occurre
 
 `PRON` tokens may have the following values of `Polite`:
 
-* `Pol` (9; 100% of non-empty `Polite`): भवान्, भवतः, भवत्, भवन्तम्, भवाम्
+* `Form` (9; 100% of non-empty `Polite`): भवान्, भवतः, भवत्, भवन्तम्, भवाम्
 

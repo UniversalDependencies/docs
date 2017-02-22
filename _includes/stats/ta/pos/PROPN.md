@@ -11,9 +11,9 @@ The 10 most frequent `PROPN` lemmas: இந்தியா, அமெரிக�
 
 The 10 most frequent `PROPN` types:  இந்தியா, இந்திய, அமெரிக்க, இலங்கை, அதிமுக, பாகிஸ்தான், காங்கிரஸ், கிரிக்கெட், தமிழக, ஒபாமா
 
-The 10 most frequent ambiguous lemmas: மாநிலம் ([PROPN]() 14, [NOUN]() 8), கிரிக்கெட் ([PROPN]() 13, [NOUN]() 1), சட்டம் ([NOUN]() 14, [PROPN]() 11), சர்வதேசம் ([PROPN]() 11, [ADJ]() 4), விமானம் ([PROPN]() 10, [NOUN]() 6), ஐக்கிய ([PROPN]() 9, [ADJ]() 3), ராணுவம் ([PROPN]() 9, [NOUN]() 3), உலகம் ([PROPN]() 7, [NOUN]() 3), கழகம் ([PROPN]() 7, [NOUN]() 7), நாடாளுமன்றம் ([PROPN]() 7, [NOUN]() 4)
+The 10 most frequent ambiguous lemmas: மாநிலம் ([PROPN]() 14, [NOUN]() 8), கிரிக்கெட் ([PROPN]() 13, [NOUN]() 1), சட்டம் ([NOUN]() 14, [PROPN]() 11), சர்வதேசம் ([PROPN]() 11, [ADJ]() 4), விமானம் ([PROPN]() 10, [NOUN]() 6), ஐக்கிய ([PROPN]() 9, [ADJ]() 3), ராணுவம் ([PROPN]() 9, [NOUN]() 3), உலகம் ([PROPN]() 7, [NOUN]() 3), கழகம் ([NOUN]() 7, [PROPN]() 7), நாடாளுமன்றம் ([PROPN]() 7, [NOUN]() 4)
 
-The 10 most frequent ambiguous types:  சர்வதேச ([PROPN]() 11, [ADJ]() 4), ஐக்கிய ([PROPN]() 9, [ADJ]() 3), தேசிய ([PROPN]() 4, [ADJ]() 2), மத்திய ([ADJ]() 23, [PROPN]() 4), மத்தியக் ([PROPN]() 2, [ADJ]() 1), நிரந்தர ([PROPN]() 1, [ADJ]() 1), மத ([PROPN]() 1, [ADJ]() 1)
+The 10 most frequent ambiguous types:  சர்வதேச ([PROPN]() 11, [ADJ]() 4), ஐக்கிய ([PROPN]() 9, [ADJ]() 3), தேசிய ([PROPN]() 4, [ADJ]() 2), மத்திய ([ADJ]() 23, [PROPN]() 4), மத்தியக் ([PROPN]() 2, [ADJ]() 1), நிரந்தர ([PROPN]() 1, [ADJ]() 1), மத ([ADJ]() 1, [PROPN]() 1)
 
 
 * சர்வதேச
@@ -35,12 +35,12 @@ The 10 most frequent ambiguous types:  சர்வதேச ([PROPN]() 11, [ADJ
   * [PROPN]() 1: ஐக்கிய நாடுகள் சபையில் உரையாற்றும் போது , <b>நிரந்தர</b> மற்றும் நிரந்தரம் அல்லாத உறுப்பினர்களின் எண்ணிக்கையை அதிகரிக்க வேண்டும் என்று மத்திய வெளியுறவு அமைச்சர் எஸ்.எம். கிருஷ்ணா வலியுறுத்தினார் .
   * [ADJ]() 1: மேலும் ஐக்கிய நாடுகள் பாதுகாப்புக் கவுன்சிலில் <b>நிரந்தர</b> உறுப்பினர் இடத்தைப் பிடிக்க இந்தியாவுக்கு அமெரிக்கா உதவும் .
 * மத
-  * [PROPN]() 1: ஆனால் நாங்கள் ( காங்கிரஸ் ) <b>மத</b> , ஜாதி அரசியலை கடுமையாக எதிர்க்கிறோம் .
   * [ADJ]() 1: ஆளும் ஐக்கிய ஜனதாதளம் - பாஜக கூட்டணிய் ஆனால் உம் சரி அல்லது ராஷ்ட்ரீய ஜனதாதளம் - லோக் ஜனசக்தி கூட்டணிய் ஆனால் உம் சரி இவை இரண்ட் உம் ஏ <b>மத</b> , ஜாதி அரசியலை முன்னிறுத்தி அரசியல் லாபம் அடைய முயல்கின்றன .
+  * [PROPN]() 1: ஆனால் நாங்கள் ( காங்கிரஸ் ) <b>மத</b> , ஜாதி அரசியலை கடுமையாக எதிர்க்கிறோம் .
 
 ## Morphology
 
-The form / lemma ratio of `PROPN` is 1.226040 (the average of all parts of speech is 1.557992).
+The form / lemma ratio of `PROPN` is 1.226040 (the average of all parts of speech is 1.558463).
 
 The 1st highest number of forms (11) was observed with the lemma “இந்தியா”: இந்திய, இந்தியத், இந்தியப், இந்தியா, இந்தியாவின், இந்தியாவில், இந்தியாவுக்கு, இந்தியாவுக்குச், இந்தியாவுக்க், இந்தியாவைச், இந்தியாவ்.
 
@@ -50,7 +50,7 @@ The 3rd highest number of forms (7) was observed with the lemma “அமெர�
 
 `PROPN` occurs with 6 features: [ta-feat/Gender]() (1370; 100% instances), [ta-feat/Number]() (1370; 100% instances), [ta-feat/Person]() (1370; 100% instances), [ta-feat/Case]() (1017; 74% instances), [ta-feat/Polite]() (264; 19% instances), [ta-feat/Animacy]() (29; 2% instances)
 
-`PROPN` occurs with 13 feature-value pairs: `Animacy=Anim`, `Case=Acc`, `Case=Dat`, `Case=Gen`, `Case=Ins`, `Case=Loc`, `Case=Nom`, `Gender=Com`, `Gender=Neut`, `Number=Plur`, `Number=Sing`, `Person=3`, `Polite=Pol`
+`PROPN` occurs with 13 feature-value pairs: `Animacy=Anim`, `Case=Acc`, `Case=Dat`, `Case=Gen`, `Case=Ins`, `Case=Loc`, `Case=Nom`, `Gender=Com`, `Gender=Neut`, `Number=Plur`, `Number=Sing`, `Person=3`, `Polite=Form`
 
 `PROPN` occurs with 18 feature combinations.
 The most frequent feature combination is `Case=Nom|Gender=Neut|Number=Sing|Person=3` (596 tokens).
@@ -59,21 +59,21 @@ Examples: இந்தியா, இலங்கை, அதிமுக, பா�
 
 ## Relations
 
-`PROPN` nodes are attached to their parents using 7 different relations: [ta-dep/nmod]() (1029; 75% instances), [ta-dep/nsubj]() (186; 14% instances), [ta-dep/conj]() (87; 6% instances), [ta-dep/dobj]() (60; 4% instances), [ta-dep/iobj]() (5; 0% instances), [ta-dep/root]() (2; 0% instances), [ta-dep/appos]() (1; 0% instances)
+`PROPN` nodes are attached to their parents using 8 different relations: [ta-dep/nmod]() (911; 66% instances), [ta-dep/nsubj]() (186; 14% instances), [ta-dep/obl]() (118; 9% instances), [ta-dep/conj]() (87; 6% instances), [ta-dep/obj]() (60; 4% instances), [ta-dep/iobj]() (5; 0% instances), [ta-dep/root]() (2; 0% instances), [ta-dep/appos]() (1; 0% instances)
 
 Parents of `PROPN` nodes belong to 10 different parts of speech: [NOUN]() (722; 53% instances), [VERB]() (290; 21% instances), [PROPN]() (264; 19% instances), [ADJ]() (71; 5% instances), [PART]() (10; 1% instances), [AUX]() (4; 0% instances), [ADV]() (3; 0% instances), [NUM]() (3; 0% instances), [ROOT]() (2; 0% instances), [PRON]() (1; 0% instances)
 
-1022 (75%) `PROPN` nodes are leaves.
+967 (71%) `PROPN` nodes are leaves.
 
-174 (13%) `PROPN` nodes have one child.
+221 (16%) `PROPN` nodes have one child.
 
-92 (7%) `PROPN` nodes have two children.
+110 (8%) `PROPN` nodes have two children.
 
-82 (6%) `PROPN` nodes have three or more children.
+72 (5%) `PROPN` nodes have three or more children.
 
-The highest child degree of a `PROPN` node is 11.
+The highest child degree of a `PROPN` node is 7.
 
-Children of `PROPN` nodes are attached using 16 different relations: [ta-dep/nmod]() (343; 48% instances), [ta-dep/conj]() (98; 14% instances), [ta-dep/punct]() (86; 12% instances), [ta-dep/amod]() (58; 8% instances), [ta-dep/case]() (58; 8% instances), [ta-dep/cc]() (26; 4% instances), [ta-dep/advmod:emph]() (14; 2% instances), [ta-dep/nummod]() (13; 2% instances), [ta-dep/det]() (4; 1% instances), [ta-dep/appos]() (3; 0% instances), [ta-dep/dobj]() (3; 0% instances), [ta-dep/nsubj]() (3; 0% instances), [ta-dep/advcl]() (2; 0% instances), [ta-dep/advmod]() (2; 0% instances), [ta-dep/aux]() (2; 0% instances), [ta-dep/mark]() (2; 0% instances)
+Children of `PROPN` nodes are attached using 16 different relations: [ta-dep/nmod]() (343; 49% instances), [ta-dep/conj]() (98; 14% instances), [ta-dep/punct]() (77; 11% instances), [ta-dep/amod]() (58; 8% instances), [ta-dep/case]() (58; 8% instances), [ta-dep/cc]() (20; 3% instances), [ta-dep/advmod:emph]() (14; 2% instances), [ta-dep/nummod]() (13; 2% instances), [ta-dep/det]() (4; 1% instances), [ta-dep/appos]() (3; 0% instances), [ta-dep/nsubj]() (3; 0% instances), [ta-dep/obj]() (3; 0% instances), [ta-dep/advcl]() (2; 0% instances), [ta-dep/advmod]() (2; 0% instances), [ta-dep/aux]() (2; 0% instances), [ta-dep/mark]() (2; 0% instances)
 
-Children of `PROPN` nodes belong to 13 different parts of speech: [PROPN]() (264; 37% instances), [NOUN]() (170; 24% instances), [PUNCT]() (86; 12% instances), [ADJ]() (58; 8% instances), [ADP]() (58; 8% instances), [PART]() (41; 6% instances), [CONJ]() (14; 2% instances), [NUM]() (13; 2% instances), [DET]() (4; 1% instances), [VERB]() (3; 0% instances), [ADV]() (2; 0% instances), [AUX]() (2; 0% instances), [PRON]() (2; 0% instances)
+Children of `PROPN` nodes belong to 13 different parts of speech: [PROPN]() (264; 38% instances), [NOUN]() (170; 24% instances), [PUNCT]() (77; 11% instances), [ADJ]() (58; 8% instances), [ADP]() (58; 8% instances), [PART]() (36; 5% instances), [CCONJ]() (13; 2% instances), [NUM]() (13; 2% instances), [DET]() (4; 1% instances), [VERB]() (3; 0% instances), [ADV]() (2; 0% instances), [AUX]() (2; 0% instances), [PRON]() (2; 0% instances)
 

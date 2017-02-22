@@ -7,37 +7,35 @@
 This feature is universal.
 It occurs with 1 different values: `Def`.
 
-27346 tokens (13%) have a non-empty value of `Definite`.
-54 types (0%) occur at least once with a non-empty value of `Definite`.
+26343 tokens (13%) have a non-empty value of `Definite`.
+51 types (0%) occur at least once with a non-empty value of `Definite`.
 1 lemmas (0%) occur at least once with a non-empty value of `Definite`.
-The feature is used with 2 part-of-speech tags: [grc-pos/DET]() (27319; 13% instances), [grc-pos/ADJ]() (27; 0% instances).
+The feature is used with 2 part-of-speech tags: [grc-pos/DET]() (26313; 13% instances), [grc-pos/ADJ]() (30; 0% instances).
 
 ### `DET`
 
-27319 [grc-pos/DET]() tokens (100% of all `DET` tokens) have a non-empty value of `Definite`.
+26313 [grc-pos/DET]() tokens (89% of all `DET` tokens) have a non-empty value of `Definite`.
 
-The most frequent other feature values with which `DET` and `Definite` co-occurred: <tt><a href="PronType.html">PronType</a>=Dem</tt> (27319; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (19116; 70%).
+The most frequent other feature values with which `DET` and `Definite` co-occurred: <tt><a href="PronType.html">PronType</a>=Dem</tt> (26313; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (18436; 70%).
 
 `DET` tokens may have the following values of `Definite`:
 
-* `Def` (27319; 100% of non-empty `Definite`): <em>ὁ, τοῦ, τὴν, τὸ, τὸν, τῶν, τῆς, οἱ, τῷ, τὰ</em>
-* `EMPTY` (6): <em>αὐτοὶ, αὐτοὺς, τούτου, τούτων, τοῦτο</em>
+* `Def` (26313; 100% of non-empty `Definite`): <em>ὁ, τοῦ, τὴν, τὸ, τὸν, τῶν, τῆς, οἱ, τῷ, τὰ</em>
+* `EMPTY` (3267): <em>πάντα, πάντων, τι, τούτου, πᾶσαν, τοῦτον, πᾶν, τοῦτο, πάντες, οὗτος</em>
 
 ### `ADJ`
 
-27 [grc-pos/ADJ]() tokens (0% of all `ADJ` tokens) have a non-empty value of `Definite`.
+30 [grc-pos/ADJ]() tokens (0% of all `ADJ` tokens) have a non-empty value of `Definite`.
 
-The most frequent other feature values with which `ADJ` and `Definite` co-occurred: <tt><a href="Degree.html">Degree</a>=EMPTY</tt> (27; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (16; 59%).
+The most frequent other feature values with which `ADJ` and `Definite` co-occurred: <tt><a href="Degree.html">Degree</a>=EMPTY</tt> (30; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (19; 63%).
 
 `ADJ` tokens may have the following values of `Definite`:
 
-* `Def` (27; 100% of non-empty `Definite`): <em>τὸ, τὰ, ὁ, οἳ, τοὺς, τὸν, τῶν, ὃ, οἱ, τό</em>
-* `EMPTY` (16125): <em>ταῦτα, τοῦτο, τούτων, οὗτος, οὗτοι, τούτου, τοῦτον, αὐτὸς, τάδε, τούτῳ</em>
+* `Def` (30; 100% of non-empty `Definite`): <em>τὸ, τὰ, τῶν, ὁ, οἳ, τὴν, ὃ, τοὺς, τοῖσι, τοῦ</em>
+* `EMPTY` (15426): <em>ταῦτα, τοῦτο, πάντα, τις, τούτων, οὗτοι, οὗτος, τάδε, πρότερον, πάντες</em>
 
 ## Relations with Agreement in `Definite`
 
 The 10 most frequent relations where parent and child node agree in `Definite`:
-<tt>DET --[<a href="../dep/remnant.html">remnant</a>]--> ADJ</tt> (3; 100%),
-<tt>DET --[<a href="../dep/conj.html">conj</a>]--> ADJ</tt> (1; 100%),
-<tt>ADJ --[<a href="../dep/remnant.html">remnant</a>]--> ADJ</tt> (1; 100%).
+<tt>ADJ --[<a href="../dep/conj.html">conj</a>]--> ADJ</tt> (1; 100%).
 

@@ -4,90 +4,88 @@
 
 ## Treebank Statistics (UD_Estonian)
 
-There are 773 `NUM` lemmas (3%), 963 `NUM` types (2%) and 4131 `NUM` tokens (2%).
-Out of 15 observed tags, the rank of `NUM` is: 6 in number of lemmas, 6 in number of types and 12 in number of tokens.
+There are 140 `NUM` lemmas (2%), 183 `NUM` types (2%) and 403 `NUM` tokens (1%).
+Out of 16 observed tags, the rank of `NUM` is: 6 in number of lemmas, 7 in number of types and 12 in number of tokens.
 
-The 10 most frequent `NUM` lemmas: <em>kaks, üks, kolm, miljon, viis, kümme, neli, pool, paar, 000</em>
+The 10 most frequent `NUM` lemmas: <em>kaks, üks, paar, kolm, viis, kuus, seitse, miljon, 2, kümme</em>
 
-The 10 most frequent `NUM` types:  <em>kaks, kolm, 000, üks, kahe, miljonit, ühe, paar, viis, neli</em>
+The 10 most frequent `NUM` types:  <em>kaks, paar, kahe, üks, viis, ühe, 2, kolm, seitse, 15</em>
 
-The 10 most frequent ambiguous lemmas: <em>üks</em> ([PRON]() 495, [NUM]() 207), <em>viis</em> ([NUM]() 114, [NOUN]() 27), <em>pool</em> ([NUM]() 98, [NOUN]() 49, [ADV]() 20, [ADP]() 17), <em>paar</em> ([NUM]() 97, [NOUN]() 12), <em>2000</em> ([NUM]() 48, [ADJ]() 1), <em>seitse</em> ([NUM]() 48, [NOUN]() 1), <em>sada</em> ([NUM]() 45, [VERB]() 4, [NOUN]() 2), <em>kolmandik</em> ([NUM]() 18, [NOUN]() 6), <em>2001</em> ([NUM]() 12, [ADJ]() 1), <em>1990</em> ([NUM]() 11, [ADJ]() 1)
+The 10 most frequent ambiguous lemmas: <em>üks</em> ([DET]() 67, [NUM]() 28, [PRON]() 11), <em>paar</em> ([NUM]() 22, [NOUN]() 2), <em>viis</em> ([NUM]() 17, [NOUN]() 4), <em>seitse</em> ([NUM]() 11, [NOUN]() 1), <em>pool</em> ([NUM]() 6, [NOUN]() 4, [ADP]() 3), <em>kolmas</em> ([ADJ]() 12, [NUM]() 2), <em>1990</em> ([ADJ]() 1, [NUM]() 1), <em>null</em> ([NOUN]() 3, [NUM]() 1), <em>sada</em> ([VERB]() 3, [NOUN]() 1, [NUM]() 1), <em>teine</em> ([PRON]() 37, [DET]() 22, [ADJ]() 20, [NUM]() 1)
 
-The 10 most frequent ambiguous types:  <em>üks</em> ([PRON]() 152, [NUM]() 70), <em>ühe</em> ([PRON]() 70, [NUM]() 58), <em>paar</em> ([NUM]() 50, [NOUN]() 3), <em>viis</em> ([NUM]() 57, [VERB]() 18, [NOUN]() 5), <em>2000</em> ([NUM]() 47, [ADJ]() 1), <em>pool</em> ([NUM]() 37, [ADV]() 20, [ADP]() 16, [NOUN]() 9), <em>poole</em> ([ADP]() 116, [NUM]() 31, [NOUN]() 6, [ADV]() 2), <em>seitse</em> ([NUM]() 28, [NOUN]() 1), <em>kuus</em> ([NUM]() 27, [NOUN]() 27), <em>paari</em> ([NUM]() 17, [NOUN]() 6)
+The 10 most frequent ambiguous types:  <em>üks</em> ([DET]() 17, [NUM]() 11, [PRON]() 1), <em>viis</em> ([NUM]() 11, [VERB]() 11), <em>ühe</em> ([DET]() 11, [NUM]() 7, [PRON]() 2), <em>seitse</em> ([NUM]() 5, [NOUN]() 1), <em>kuus</em> ([NUM]() 4, [NOUN]() 1), <em>paari</em> ([NUM]() 4, [NOUN]() 1), <em>pool</em> ([NUM]() 4, [NOUN]() 2, [ADP]() 2), <em>kuue</em> ([NOUN]() 3, [NUM]() 3), <em>ühte</em> ([NUM]() 3, [ADV]() 1), <em>kolmandat</em> ([ADJ]() 5, [NUM]() 2)
 
 
 * <em>üks</em>
-  * [PRON]() 152: <em>Just praegu leidis <b>üks</b> võõras rüütel Püha Graali .</em>
-  * [NUM]() 70: <em>Jälle <b>üks</b> piinarikas öö !</em>
-* <em>ühe</em>
-  * [PRON]() 70: <em>" Kuule , aga teeks enne <b>ühe</b> õlle veel ? " pakun sõbralikult .</em>
-  * [NUM]() 58: <em>Nüüd töötas Liis <b>ühe</b> päeva ühes Tallinna keemilises puhastuses .</em>
-* <em>paar</em>
-  * [NUM]() 50: <em>Praegu peaks selliseid miljonäre olema juba <b>paar</b> korda rohkem .</em>
-  * [NOUN]() 3: <em>Lenini ordeneid tilgub <b>paar</b> tükki kuus .</em>
+  * [DET]() 17: <em>Kas jälle <b>üks</b> uus ja tundmatu põlvkond ... ?</em>
+  * [NUM]() 11: <em>Jälle <b>üks</b> piinarikas öö !</em>
+  * [PRON]() 1: <em>Miks temalgi ei võinud <b>üks</b> olla ?</em>
 * <em>viis</em>
-  * [NUM]() 57: <em>Pane purkidele kaaned lahtiselt peale ja steriliseeri <b>viis</b> minutit .</em>
-  * [VERB]() 18: <em>Politsei <b>viis</b> mehe arestimaja kainestuskambrisse välja magama .</em>
-  * [NOUN]() 5: <em>Odavaim ja kõige turvalisem <b>viis</b> reisida on sõita laevaga mööda meresid .</em>
-* <em>2000</em>
-  * [NUM]() 47: <em>Kadikas , <b>2000</b> .</em>
-  * [ADJ]() 1: <em>Kuid ei - kohe jõuab kätte 5. mai <b>2000</b> .</em>
-* <em>pool</em>
-  * [NUM]() 37: <em>Kala pidi valvest tulema <b>pool</b> kuus .</em>
-  * [ADV]() 20: <em>Läbi aknaklaasi nägin , et igal <b>pool</b> poodides olid järjekorrad .</em>
-  * [ADP]() 16: <em>Teisel <b>pool</b> maja sööklas ei ole ühtegi praadi kalast .</em>
-  * [NOUN]() 9: <em>Vene <b>pool</b> samaga ei vastanud .</em>
-* <em>poole</em>
-  * [ADP]() 116: <em>Ta komposteeris pileti ja taarus tagaakna <b>poole</b> .</em>
-  * [NUM]() 31: <em>Üle <b>poole</b> neist lasti maha pärast Berliini müüri püstitamist .</em>
-  * [NOUN]() 6: <em>Turnee on <b>poole</b> peal ja mul on tunne , et finisheerimiseks tuleks tellida takso .</em>
-  * [ADV]() 2: <em>Nuputab isekeskis , kuidas koduse remondiga kiiremini ühele <b>poole</b> saaks .</em>
+  * [NUM]() 11: <em>Me alustasime <b>viis</b> ... ei , juba kuue aasta eest .</em>
+  * [VERB]() 11: <em>Ta võttis kanaplika ning <b>viis</b> kööki , kus pliidi kõrval oli pisike kast .</em>
+* <em>ühe</em>
+  * [DET]() 11: <em>Ka kuningas kukk ei ilmunud kohale <b>ühe</b> tühise kana kutsumise peale .</em>
+  * [NUM]() 7: <em>Berezina tabas <b>ühe</b> vabaviske ja küljeaudi järel kolmepunktiviske .</em>
+  * [PRON]() 2: <em>Ogara hooga hüppasin üle oja ning jooksnud veel paar sammu , komistasin <b>ühe</b> juure taha ja lendasin pikali .</em>
 * <em>seitse</em>
-  * [NUM]() 28: <em>Neid sõlmis paela nii , et saapa pealispinnale jäi <b>seitse</b> musta risti .</em>
+  * [NUM]() 5: <em>Neid sõlmis paela nii , et saapa pealispinnale jäi <b>seitse</b> musta risti .</em>
   * [NOUN]() 1: <em>See <b>seitse</b> on täiesti elektrisinine ja selle valgus särab kaugele öösse .</em>
 * <em>kuus</em>
-  * [NUM]() 27: <em>Kala pidi valvest tulema pool <b>kuus</b> .</em>
-  * [NOUN]() 27: <em>Pealegi teenivad need poisid <b>kuus</b> natuke üle saja dollari .</em>
+  * [NUM]() 4: <em>Kehra viskas seejärel <b>kuus</b> väravat järjest ja juhtis 11 : 8 .</em>
+  * [NOUN]() 1: <em>Sellega astus Telia valusalt varvastele Levicomi tütarfirmale Tallinna Kaabeltelevisioon , kes tahab kahe Iisraeli firma rahaga jõuludeks kaabeldada Õismäe ja jätkata tempoga 5000 kodu <b>kuus</b> .</em>
 * <em>paari</em>
-  * [NUM]() 17: <em>Iga <b>paari</b> sammu tagant torkab lati lumme .</em>
-  * [NOUN]() 6: <em>Põldsamid söödavad oma tiigerpüütonite <b>paari</b> elusate küülikutega .</em>
+  * [NUM]() 4: <em>Vastupidavuse arenedes võib <b>paari</b> kuu pärast alustada juba pikema ( tund või enam ) jooksuga kord nädalas .</em>
+  * [NOUN]() 1: <em>" Kui tarka kana tahad saada , seo need kaks omavahel <b>paari</b> .</em>
+* <em>pool</em>
+  * [NUM]() 4: <em>Ma andsin talle <b>pool</b> tundi aega , ta ehmus niisugusest kuraasist ära .</em>
+  * [NOUN]() 2: <em>Seepärast ütles ta ainult " ko " ja sellestki jäi <b>pool</b> kurku kinni .</em>
+  * [ADP]() 2: <em>Me liikusime Helenega täiesti vabalt igal <b>pool</b> .</em>
+* <em>kuue</em>
+  * [NOUN]() 3: <em>Vanamees komberdas kõige taga aeda <b>kuue</b> järele .</em>
+  * [NUM]() 3: <em>Me alustasime viis ... ei , juba <b>kuue</b> aasta eest .</em>
+* <em>ühte</em>
+  * [NUM]() 3: <em>Noid rahasid mahtunuks <b>ühte</b> eurosse 166 .</em>
+  * [ADV]() 1: <em>Kuna katse <b>ühte</b> tüve kaevandusalalt minema transportida ebaõnnestus , siis plaanitakse iidsete puude säilitamist nende leiukohas .</em>
+* <em>kolmandat</em>
+  * [ADJ]() 5: <em>Teisipäeval aga selgus , et <b>kolmandat</b> kandidaati polegi .</em>
+  * [NUM]() 2: <em>Kõige tõenäolisem on , et Savisaar asub kas otsima <b>kolmandat</b> kandidaati või teeb panuse Rüütlile .</em>
 
 ## Morphology
 
-The form / lemma ratio of `NUM` is 1.245796 (the average of all parts of speech is 1.839644).
+The form / lemma ratio of `NUM` is 1.307143 (the average of all parts of speech is 1.545328).
 
-The 1st highest number of forms (17) was observed with the lemma “üks”: <em>ühe, ühe-, ühega, üheks, ühel, ühele, ühelgi, ühelt, ühena, ühes, ühest, üht, ühte, ühtegi, ühtki, üks, ükski</em>.
+The 1st highest number of forms (7) was observed with the lemma “kaks”: <em>kahe, kaheks, kaheni, kahest, kaht, kahte, kaks</em>.
 
-The 2nd highest number of forms (13) was observed with the lemma “kümme”: <em>Kümned, kümme, kümmet, kümne, kümnega, kümneid, kümneks, kümnel, kümnele, kümnest, kümnete, kümnetesse, kümnetest</em>.
+The 2nd highest number of forms (7) was observed with the lemma “üks”: <em>ühe, ühega, üheks, ühele, ühte, ühtegi, üks</em>.
 
-The 3rd highest number of forms (12) was observed with the lemma “miljon”: <em>Miljonitel, miljon, miljoneid, miljoni, miljonid, miljoniga, miljonilt, miljonini, miljonist, miljonit, miljonite, miljonitest</em>.
+The 3rd highest number of forms (6) was observed with the lemma “kolm”: <em>Kolmest, kolm, kolme, kolmelt, kolmeni, kolmes</em>.
 
-`NUM` occurs with 6 features: [et-feat/NumType]() (4131; 100% instances), [et-feat/NumForm]() (4077; 99% instances), [et-feat/Case]() (3275; 79% instances), [et-feat/Number]() (3275; 79% instances), [et-feat/Hyph]() (6; 0% instances), [et-feat/PronType]() (1; 0% instances)
+`NUM` occurs with 4 features: [et-feat/NumType]() (403; 100% instances), [et-feat/NumForm]() (392; 97% instances), [et-feat/Case]() (318; 79% instances), [et-feat/Number]() (318; 79% instances)
 
-`NUM` occurs with 22 feature-value pairs: `Case=Abl`, `Case=Add`, `Case=Ade`, `Case=All`, `Case=Com`, `Case=Ela`, `Case=Ess`, `Case=Gen`, `Case=Ill`, `Case=Ine`, `Case=Nom`, `Case=Par`, `Case=Ter`, `Case=Tra`, `Hyph=Yes`, `NumForm=Digit`, `NumForm=Letter`, `NumType=Card`, `NumType=Ord`, `Number=Plur`, `Number=Sing`, `PronType=Ind`
+`NUM` occurs with 19 feature-value pairs: `Case=Abl`, `Case=Add`, `Case=Ade`, `Case=All`, `Case=Com`, `Case=Ela`, `Case=Gen`, `Case=Ill`, `Case=Ine`, `Case=Nom`, `Case=Par`, `Case=Ter`, `Case=Tra`, `NumForm=Digit`, `NumForm=Letter`, `NumType=Card`, `NumType=Ord`, `Number=Plur`, `Number=Sing`
 
-`NUM` occurs with 50 feature combinations.
-The most frequent feature combination is `Case=Nom|Number=Sing|NumForm=Digit|NumType=Card` (983 tokens).
-Examples: <em>000, 2000, 1997, 1999, 15, 1998, 20, 2002, 50, 1</em>
+`NUM` occurs with 30 feature combinations.
+The most frequent feature combination is `Case=Nom|Number=Sing|NumForm=Letter|NumType=Card` (119 tokens).
+Examples: <em>kaks, paar, üks, viis, kolm, seitse, kuus, neli, kümme, pool</em>
 
 
 ## Relations
 
-`NUM` nodes are attached to their parents using 15 different relations: [et-dep/nummod]() (3386; 82% instances), [et-dep/compound]() (342; 8% instances), [et-dep/conj]() (108; 3% instances), [et-dep/root]() (98; 2% instances), [et-dep/nsubj]() (80; 2% instances), [et-dep/dobj]() (52; 1% instances), [et-dep/parataxis]() (27; 1% instances), [et-dep/nsubj:cop]() (19; 0% instances), [et-dep/dep]() (5; 0% instances), [et-dep/acl:relcl]() (4; 0% instances), [et-dep/list]() (3; 0% instances), [et-dep/nmod]() (3; 0% instances), [et-dep/csubj]() (2; 0% instances), [et-dep/amod]() (1; 0% instances), [et-dep/name]() (1; 0% instances)
+`NUM` nodes are attached to their parents using 13 different relations: [et-dep/nummod]() (318; 79% instances), [et-dep/flat]() (25; 6% instances), [et-dep/compound]() (18; 4% instances), [et-dep/conj]() (12; 3% instances), [et-dep/root]() (11; 3% instances), [et-dep/nsubj]() (5; 1% instances), [et-dep/obj]() (4; 1% instances), [et-dep/appos]() (3; 1% instances), [et-dep/acl:relcl]() (2; 0% instances), [et-dep/obl]() (2; 0% instances), [et-dep/nmod]() (1; 0% instances), [et-dep/nsubj:cop]() (1; 0% instances), [et-dep/parataxis]() (1; 0% instances)
 
-Parents of `NUM` nodes belong to 11 different parts of speech: [NOUN]() (2584; 63% instances), [NUM]() (566; 14% instances), [VERB]() (462; 11% instances), [PROPN]() (279; 7% instances), [ROOT]() (98; 2% instances), [ADJ]() (82; 2% instances), [ADV]() (39; 1% instances), [SYM]() (9; 0% instances), [ADP]() (8; 0% instances), [X]() (3; 0% instances), [AUX]() (1; 0% instances)
+Parents of `NUM` nodes belong to 10 different parts of speech: [NOUN]() (250; 62% instances), [NUM]() (58; 14% instances), [VERB]() (54; 13% instances), [PROPN]() (13; 3% instances), [ADJ]() (12; 3% instances), [ROOT]() (11; 3% instances), [X]() (2; 0% instances), [ADV]() (1; 0% instances), [PRON]() (1; 0% instances), [SYM]() (1; 0% instances)
 
-2623 (63%) `NUM` nodes are leaves.
+262 (65%) `NUM` nodes are leaves.
 
-1115 (27%) `NUM` nodes have one child.
+92 (23%) `NUM` nodes have one child.
 
-250 (6%) `NUM` nodes have two children.
+39 (10%) `NUM` nodes have two children.
 
-143 (3%) `NUM` nodes have three or more children.
+10 (2%) `NUM` nodes have three or more children.
 
-The highest child degree of a `NUM` node is 14.
+The highest child degree of a `NUM` node is 7.
 
-Children of `NUM` nodes are attached using 21 different relations: [et-dep/punct]() (440; 20% instances), [et-dep/advmod]() (383; 17% instances), [et-dep/compound]() (339; 15% instances), [et-dep/nmod]() (318; 14% instances), [et-dep/nummod]() (156; 7% instances), [et-dep/conj]() (124; 6% instances), [et-dep/case]() (100; 4% instances), [et-dep/amod]() (97; 4% instances), [et-dep/cc]() (80; 4% instances), [et-dep/det]() (53; 2% instances), [et-dep/nsubj:cop]() (44; 2% instances), [et-dep/cop]() (41; 2% instances), [et-dep/appos]() (12; 1% instances), [et-dep/advcl]() (8; 0% instances), [et-dep/parataxis]() (8; 0% instances), [et-dep/mark]() (6; 0% instances), [et-dep/nmod:poss]() (6; 0% instances), [et-dep/dep]() (5; 0% instances), [et-dep/advmod:quant]() (4; 0% instances), [et-dep/nsubj]() (2; 0% instances), [et-dep/xcomp]() (1; 0% instances)
+Children of `NUM` nodes are attached using 16 different relations: [et-dep/punct]() (69; 32% instances), [et-dep/advmod]() (28; 13% instances), [et-dep/nmod]() (28; 13% instances), [et-dep/flat]() (23; 11% instances), [et-dep/compound]() (18; 8% instances), [et-dep/conj]() (12; 6% instances), [et-dep/case]() (8; 4% instances), [et-dep/nummod]() (5; 2% instances), [et-dep/amod]() (4; 2% instances), [et-dep/cc]() (4; 2% instances), [et-dep/cop]() (4; 2% instances), [et-dep/det]() (4; 2% instances), [et-dep/nsubj:cop]() (4; 2% instances), [et-dep/advcl]() (1; 0% instances), [et-dep/mark]() (1; 0% instances), [et-dep/obl]() (1; 0% instances)
 
-Children of `NUM` nodes belong to 13 different parts of speech: [NUM]() (566; 25% instances), [PUNCT]() (440; 20% instances), [ADV]() (396; 18% instances), [NOUN]() (343; 15% instances), [ADJ]() (109; 5% instances), [ADP]() (100; 4% instances), [PRON]() (83; 4% instances), [CONJ]() (79; 4% instances), [VERB]() (54; 2% instances), [PROPN]() (46; 2% instances), [SCONJ]() (6; 0% instances), [SYM]() (4; 0% instances), [X]() (1; 0% instances)
+Children of `NUM` nodes belong to 12 different parts of speech: [PUNCT]() (69; 32% instances), [NUM]() (58; 27% instances), [ADV]() (32; 15% instances), [NOUN]() (20; 9% instances), [ADP]() (8; 4% instances), [PRON]() (8; 4% instances), [ADJ]() (5; 2% instances), [AUX]() (4; 2% instances), [CCONJ]() (4; 2% instances), [DET]() (4; 2% instances), [SCONJ]() (1; 0% instances), [VERB]() (1; 0% instances)
 

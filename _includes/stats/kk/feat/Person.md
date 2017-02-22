@@ -9,72 +9,59 @@ It occurs with 3 different values: `1`, `2`, `3`.
 
 This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: [Person](), [Person[psor]]().
 
-252 tokens (4%) have a non-empty value of `Person`.
-153 types (6%) occur at least once with a non-empty value of `Person`.
-85 lemmas (5%) occur at least once with a non-empty value of `Person`.
-The feature is used with 3 part-of-speech tags: [kk-pos/VERB]() (134; 2% instances), [kk-pos/AUX]() (84; 1% instances), [kk-pos/PRON]() (34; 1% instances).
+58 tokens (11%) have a non-empty value of `Person`.
+43 types (13%) occur at least once with a non-empty value of `Person`.
+33 lemmas (13%) occur at least once with a non-empty value of `Person`.
+The feature is used with 3 part-of-speech tags: [kk-pos/VERB]() (34; 6% instances), [kk-pos/AUX]() (20; 4% instances), [kk-pos/PRON]() (4; 1% instances).
 
 ### `VERB`
 
-134 [kk-pos/VERB]() tokens (13% of all `VERB` tokens) have a non-empty value of `Person`.
+34 [kk-pos/VERB]() tokens (44% of all `VERB` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="Number.html">Number</a>=Sing</tt> (125; 93%), <tt><a href="VerbForm.html">VerbForm</a>=EMPTY</tt> (119; 89%).
+The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="Case.html">Case</a>=EMPTY</tt> (34; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (34; 100%), <tt><a href="Aspect.html">Aspect</a>=EMPTY</tt> (34; 100%), <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (32; 94%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (29; 85%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (28; 82%), <tt><a href="Polarity.html">Polarity</a>=EMPTY</tt> (28; 82%), <tt><a href="Tense.html">Tense</a>=Past</tt> (22; 65%).
 
 `VERB` tokens may have the following values of `Person`:
 
-* `1` (27; 20% of non-empty `Person`): <em>алам, үйретемін, _, айрылдым, алдым, араласпаймын, аяйын, барайын, барамын, бардық</em>
-* `2` (13; 10% of non-empty `Person`): <em>_, Аттан, Тап, атасың, барарсың, бер, білесің, десең, жолама, тұр</em>
-* `3` (94; 70% of non-empty `Person`): <em>деді, болмаса, болады, ашылды, берсе, болса, біледі, жасалады, келді, келмейді</em>
-* `EMPTY` (921): <em>_, деп, болып, алып, болған, болды, біледі, береді, басып, бастап</em>
+* `3` (34; 100% of non-empty `Person`): <em>айтты, жатса, алған, безді, бермеді, болмады, біледі, бүлінер, бұз, бұзған</em>
+* `EMPTY` (43): <em>деп, шешуі, бере, шыққан, Туған, айтарлықтай, айтушы, аспай, атанып, атауға</em>
 
-<table>
-  <tr><th>Paradigm <i>біл</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
-  <tr><td><tt><a href="Mood.html">Mood</a>=Opt|<a href="Number.html">Number</a>=Sing</tt></td><td></td><td></td><td><em>білсін</em></td></tr>
-  <tr><td><tt><a href="Number.html">Number</a>=Sing|<a href="Polarity.html">Polarity</a>=Neg|<a href="Tense.html">Tense</a>=Aor|<a href="Voice.html">Voice</a>=Pass</tt></td><td></td><td></td><td><em>білінбейді</em></td></tr>
-  <tr><td><tt><a href="Number.html">Number</a>=Sing|<a href="Polarity.html">Polarity</a>=Neg|<a href="Tense.html">Tense</a>=Past</tt></td><td><em>білмедім</em></td><td></td><td></td></tr>
-  <tr><td><tt><a href="Number.html">Number</a>=Sing|<a href="Tense.html">Tense</a>=Aor</tt></td><td></td><td><em>білесің</em></td><td><em>біледі</em></td></tr>
-  <tr><td><tt><a href="Number.html">Number</a>=Plur|<a href="Polarity.html">Polarity</a>=Neg|<a href="Tense.html">Tense</a>=Aor</tt></td><td><em>_</em></td><td></td><td></td></tr>
-</table>
+`Person` seems to be **lexical feature** of `VERB`. 100% lemmas (29) occur only with one value of `Person`.
 
 ### `AUX`
 
-84 [kk-pos/AUX]() tokens (26% of all `AUX` tokens) have a non-empty value of `Person`.
+20 [kk-pos/AUX]() tokens (80% of all `AUX` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `AUX` and `Person` co-occurred: <tt><a href="Number.html">Number</a>=Sing</tt> (79; 94%), <tt><a href="Tense.html">Tense</a>=Aor</tt> (53; 63%).
+The most frequent other feature values with which `AUX` and `Person` co-occurred: <tt><a href="Number.html">Number</a>=Sing</tt> (20; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (17; 85%), <tt><a href="Polarity.html">Polarity</a>=EMPTY</tt> (17; 85%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (15; 75%), <tt><a href="Tense.html">Tense</a>=Past</tt> (14; 70%).
 
 `AUX` tokens may have the following values of `Person`:
 
-* `1` (5; 6% of non-empty `Person`): <em>_, жатырмын, жүрміз, келдім, кеттім</em>
-* `2` (2; 2% of non-empty `Person`): <em>бер, тұрсыңдар</em>
-* `3` (77; 92% of non-empty `Person`): <em>_, кетті, қалды, екен, еді, келеді, алмады, берді, емес, жатыр</em>
-* `EMPTY` (240): <em>_, бастады, жатыр, емес, алды, еді, екен, екенін, жатқан, жүр</em>
+* `1` (1; 5% of non-empty `Person`): <em>болсам</em>
+* `2` (2; 10% of non-empty `Person`): <em>гөр, көрме</em>
+* `3` (17; 85% of non-empty `Person`): <em>еді, болды, болмаса, болса, емес</em>
+* `EMPTY` (5): <em>болатын, болушы, болуға, болып, болғандықтан</em>
 
 <table>
-  <tr><th>Paradigm <i>е</i></th><th><tt>1</tt></th><th><tt>3</tt></th></tr>
-  <tr><td><tt><a href="Evidentiality.html">Evidentiality</a>=Fh|<a href="Number.html">Number</a>=Sing|<a href="Tense.html">Tense</a>=Aor</tt></td><td></td><td><em>екен</em></td></tr>
-  <tr><td><tt><a href="Number.html">Number</a>=Sing|<a href="Polarity.html">Polarity</a>=Neg|<a href="Tense.html">Tense</a>=Aor</tt></td><td></td><td><em>емес</em></td></tr>
-  <tr><td><tt><a href="Number.html">Number</a>=Sing|<a href="Tense.html">Tense</a>=Aor</tt></td><td></td><td><em>_</em></td></tr>
-  <tr><td><tt><a href="Number.html">Number</a>=Sing|<a href="Tense.html">Tense</a>=Past</tt></td><td></td><td><em>еді</em></td></tr>
-  <tr><td><tt><a href="Number.html">Number</a>=Plur|<a href="Tense.html">Tense</a>=Aor</tt></td><td><em>_</em></td><td><em>_</em></td></tr>
+  <tr><th>Paradigm <i>бол</i></th><th><tt>1</tt></th><th><tt>3</tt></th></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Cnd|<a href="Polarity.html">Polarity</a>=Neg|<a href="VerbForm.html">VerbForm</a>=Conv</tt></td><td></td><td><em>болмаса</em></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Cnd|<a href="VerbForm.html">VerbForm</a>=Conv</tt></td><td><em>болсам</em></td><td><em>болса</em></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Tense.html">Tense</a>=Past|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td></td><td><em>болды</em></td></tr>
 </table>
 
 ### `PRON`
 
-34 [kk-pos/PRON]() tokens (14% of all `PRON` tokens) have a non-empty value of `Person`.
+4 [kk-pos/PRON]() tokens (22% of all `PRON` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="PronType.html">PronType</a>=Prs</tt> (34; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (25; 74%).
+The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="Number[psor].html">Number[psor]</a>=EMPTY</tt> (4; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (4; 100%), <tt><a href="PronType.html">PronType</a>=Prs</tt> (4; 100%), <tt><a href="Person[psor].html">Person[psor]</a>=EMPTY</tt> (4; 100%).
 
 `PRON` tokens may have the following values of `Person`:
 
-* `1` (11; 32% of non-empty `Person`): <em>біз, маған, мен, Менен, Мені, бізді</em>
-* `2` (10; 29% of non-empty `Person`): <em>сені, Сен, саған</em>
-* `3` (13; 38% of non-empty `Person`): <em>Ол, Олар, Оның, оған, О, Оларға, Оны, одан, оларды</em>
-* `EMPTY` (203): <em>_, ол, мен, не, бұл, олар, оның, оны, кім, өзі</em>
+* `3` (4; 100% of non-empty `Person`): <em>оның, ол, оған</em>
+* `EMPTY` (14): <em>не, қанша, өзінше, өзінің, Кім, ешкімге, осы, өзі, өзіндей</em>
 
 ## Relations with Agreement in `Person`
 
 The 10 most frequent relations where parent and child node agree in `Person`:
-<tt>VERB --[<a href="../dep/conj.html">conj</a>]--> VERB</tt> (16; 94%),
-<tt>VERB --[<a href="../dep/parataxis.html">parataxis</a>]--> VERB</tt> (6; 60%),
-<tt>VERB --[<a href="../dep/remnant.html">remnant</a>]--> VERB</tt> (1; 100%).
+<tt>VERB --[<a href="../dep/conj.html">conj</a>]--> VERB</tt> (6; 100%),
+<tt>VERB --[<a href="../dep/parataxis.html">parataxis</a>]--> VERB</tt> (3; 100%),
+<tt>VERB --[<a href="../dep/obl.html">obl</a>]--> PRON</tt> (1; 100%).
 

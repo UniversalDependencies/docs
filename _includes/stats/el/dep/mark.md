@@ -6,30 +6,54 @@
 
 This relation is universal.
 
-1034 nodes (2%) are attached to their parents as `mark`.
+881 nodes (2%) are attached to their parents as `mark`.
 
-1017 instances of `mark` (98%) are right-to-left (child precedes parent).
-Average distance between parent and child is 4.65570599613153.
+873 instances of `mark` (99%) are right-to-left (child precedes parent).
+Average distance between parent and child is 4.50170261066969.
 
-The following 14 pairs of parts of speech are connected with `mark`: [el-pos/VERB]()-[el-pos/CONJ]() (755; 73% instances), [el-pos/ADJ]()-[el-pos/CONJ]() (91; 9% instances), [el-pos/VERB]()-[el-pos/ADP]() (87; 8% instances), [el-pos/NOUN]()-[el-pos/CONJ]() (66; 6% instances), [el-pos/VERB]()-[el-pos/ADV]() (12; 1% instances), [el-pos/ADV]()-[el-pos/CONJ]() (10; 1% instances), [el-pos/NUM]()-[el-pos/CONJ]() (3; 0% instances), [el-pos/ADV]()-[el-pos/ADP]() (2; 0% instances), [el-pos/NOUN]()-[el-pos/ADV]() (2; 0% instances), [el-pos/PRON]()-[el-pos/CONJ]() (2; 0% instances), [el-pos/ADJ]()-[el-pos/ADP]() (1; 0% instances), [el-pos/ADJ]()-[el-pos/ADV]() (1; 0% instances), [el-pos/NOUN]()-[el-pos/ADP]() (1; 0% instances), [el-pos/PRON]()-[el-pos/ADP]() (1; 0% instances).
+The following 15 pairs of parts of speech are connected with `mark`: [el-pos/VERB]()-[el-pos/SCONJ]() (675; 77% instances), [el-pos/VERB]()-[el-pos/ADP]() (73; 8% instances), [el-pos/ADJ]()-[el-pos/SCONJ]() (60; 7% instances), [el-pos/NOUN]()-[el-pos/SCONJ]() (28; 3% instances), [el-pos/VERB]()-[el-pos/ADV]() (16; 2% instances), [el-pos/VERB]()-[el-pos/CCONJ]() (11; 1% instances), [el-pos/ADV]()-[el-pos/SCONJ]() (7; 1% instances), [el-pos/PRON]()-[el-pos/SCONJ]() (3; 0% instances), [el-pos/NUM]()-[el-pos/SCONJ]() (2; 0% instances), [el-pos/ADJ]()-[el-pos/ADV]() (1; 0% instances), [el-pos/ADV]()-[el-pos/ADP]() (1; 0% instances), [el-pos/NOUN]()-[el-pos/ADV]() (1; 0% instances), [el-pos/NOUN]()-[el-pos/CCONJ]() (1; 0% instances), [el-pos/PRON]()-[el-pos/ADP]() (1; 0% instances), [el-pos/X]()-[el-pos/SCONJ]() (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 10 3 mark	color:blue
+1	Ελπίζω	ελπίζω	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2	μάλιστα	μάλιστα	ADV	ADV	_	1	advmod	_	_
+3	ότι	ότι	SCONJ	SCONJ	_	10	mark	_	_
+4	και	και	CCONJ	CCONJ	_	7	cc	_	_
+5	οι	ο	DET	DET	Case=Nom|Definite=Def|Gender=Fem|Number=Plur|PronType=Art	7	det	_	_
+6	λοιπές	λοιπός	ADJ	ADJ	Case=Nom|Gender=Fem|Number=Plur	7	amod	_	_
+7	ομάδες	ομάδα	NOUN	NOUN	Case=Nom|Gender=Fem|Number=Plur	10	nsubj	_	_
+8	θα	θα	PART	PART	_	10	aux	_	_
+9	την	εγώ	PRON	PRON	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	10	obj	_	_
+10	εγκρίνουν	εγκρίνω	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	ccomp	_	SpaceAfter=No
+11	.	.	PUNCT	PUNCT	_	1	punct	_	_
+
+~~~
+
+
+~~~ conllu
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
-# visual-style 7 4 mark	color:blue
-1	Είναι	είμαι	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Pass	3	cop	_	_
-2	ασφαλώς	ασφαλώς	ADV	ADV	_	3	advmod	_	_
-3	σαφές	σαφής	ADJ	ADJ	Case=Nom|Gender=Neut|Number=Sing	0	root	_	_
-4	ότι	ότι	CONJ	CONJ	_	7	mark	_	_
-5	το	ο	DET	DET	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	6	det	_	_
-6	προεδρείο	προεδρείο	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Sing	7	nsubj	_	_
-7	κατέχει	κατέχω	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	3	csubj	_	_
-8	ηγετικό	ηγετικός	ADJ	ADJ	Case=Acc|Gender=Masc|Number=Sing	9	amod	_	_
-9	ρόλο	ρόλος	NOUN	NOUN	Case=Acc|Gender=Masc|Number=Sing	7	dobj	_	_
-10	.	.	PUNCT	PUNCT	_	3	punct	_	_
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 9 7 mark	color:blue
+1	Όχι	όχι	ADV	ADV	_	0	root	_	SpaceAfter=No
+2	,	,	PUNCT	PUNCT	_	6	punct	_	_
+3	η	ο	DET	DET	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	υπηρεσία	υπηρεσία	NOUN	NOUN	Case=Nom|Gender=Fem|Number=Sing	6	nsubj	_	_
+5	αυτή	αυτός	PRON	PRON	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Dem	4	det	_	_
+6	συγκροτήθηκε	συγκροτώ	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	1	conj	_	_
+7	για	για	ADP	ADP	_	9	mark	_	_
+8	να	να	PART	PART	_	9	aux	_	_
+9	ελέγχει	ελέγχω	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	advcl	_	_
+10	ακριβώς	ακριβώς	ADV	ADV	_	11	advmod	_	_
+11	τέτοιες	τέτοιος	PRON	PRON	Case=Acc|Gender=Fem|Number=Plur|Person=3|PronType=Dem	12	det	_	_
+12	επικρίσεις	επίκριση	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Plur	9	obj	_	SpaceAfter=No
+13	!	!	PUNCT	PUNCT	_	1	punct	_	_
 
 ~~~
 
@@ -40,35 +64,12 @@ The following 14 pairs of parts of speech are connected with `mark`: [el-pos/VER
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 2 mark	color:blue
-1	Θεωρώ	θεωρώ	VERB	VERB	Mood=Ind|Number=Sing|Person=1|Tense=Pres|Voice=Act	0	root	_	_
-2	ότι	ότι	CONJ	CONJ	_	5	mark	_	_
+1	Θεωρώ	θεωρώ	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2	ότι	ότι	SCONJ	SCONJ	_	5	mark	_	_
 3	αυτό	αυτός	PRON	PRON	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Dem	5	nsubj	_	_
-4	είναι	είμαι	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Pass	5	cop	_	_
-5	σωστό	σωστός	ADJ	ADJ	Case=Nom|Gender=Neut|Number=Sing	1	ccomp	_	_
+4	είναι	είμαι	AUX	AUX	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	5	cop	_	_
+5	σωστό	σωστός	ADJ	ADJ	Case=Nom|Gender=Neut|Number=Sing	1	ccomp	_	SpaceAfter=No
 6	.	.	PUNCT	PUNCT	_	1	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 8 6 mark	color:blue
-1	Επίσης	επίσης	ADV	ADV	_	2	advmod	_	_
-2	δήλωσε	δηλώνω	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	_
-3	ότι	ότι	CONJ	CONJ	_	4	mark	_	_
-4	γίνεται	γίνομαι	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Pass	2	ccomp	_	_
-5	έρευνα	έρευνα	NOUN	NOUN	Case=Nom|Gender=Fem|Number=Sing	4	nsubj	_	_
-6	για	για	ADP	ADP	_	8	mark	_	_
-7	να	να	PART	PART	_	8	aux	_	_
-8	καθοριστούν	καθορίζω	VERB	VERB	Mood=Ind|Number=Plur|Person=3|Voice=Pass	4	advcl	_	_
-9	τα	ο	DET	DET	Case=Nom|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	10	det	_	_
-10	αίτια	αίτιο	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Plur	8	nsubj	_	_
-11	του	ο	DET	DET	Case=Gen|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	12	det	_	_
-12	δυστυχήματος	δυστύχημα	NOUN	NOUN	Case=Gen|Gender=Neut|Number=Sing	10	nmod	_	_
-13	.	.	PUNCT	PUNCT	_	2	punct	_	_
 
 ~~~
 

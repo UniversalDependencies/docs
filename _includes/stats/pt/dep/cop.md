@@ -6,12 +6,12 @@
 
 This relation is universal.
 
-3089 nodes (1%) are attached to their parents as `cop`.
+2629 nodes (1%) are attached to their parents as `cop`.
 
-2991 instances of `cop` (97%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.9226286824215.
+2549 instances of `cop` (97%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.83758082921263.
 
-The following 46 pairs of parts of speech are connected with `cop`: [pt-pos/NOUN]()-[pt-pos/VERB]() (1133; 37% instances), [pt-pos/ADJ]()-[pt-pos/VERB]() (938; 30% instances), [pt-pos/VERB]()-[pt-pos/VERB]() (354; 11% instances), [pt-pos/PRON]()-[pt-pos/VERB]() (170; 6% instances), [pt-pos/NOUN]()-[pt-pos/ADV]() (149; 5% instances), [pt-pos/PROPN]()-[pt-pos/VERB]() (81; 3% instances), [pt-pos/NUM]()-[pt-pos/VERB]() (55; 2% instances), [pt-pos/DET]()-[pt-pos/VERB]() (27; 1% instances), [pt-pos/SYM]()-[pt-pos/VERB]() (27; 1% instances), [pt-pos/ADJ]()-[pt-pos/ADV]() (25; 1% instances), [pt-pos/ADV]()-[pt-pos/VERB]() (24; 1% instances), [pt-pos/PROPN]()-[pt-pos/ADV]() (11; 0% instances), [pt-pos/ADJ]()-[pt-pos/NOUN]() (10; 0% instances), [pt-pos/PRON]()-[pt-pos/ADV]() (9; 0% instances), [pt-pos/ADP]()-[pt-pos/VERB]() (8; 0% instances), [pt-pos/NOUN]()-[pt-pos/SCONJ]() (8; 0% instances), [pt-pos/ADJ]()-[pt-pos/SCONJ]() (6; 0% instances), [pt-pos/NOUN]()-[pt-pos/NOUN]() (5; 0% instances), [pt-pos/NUM]()-[pt-pos/ADV]() (5; 0% instances), [pt-pos/VERB]()-[pt-pos/ADV]() (4; 0% instances), [pt-pos/ADJ]()-[pt-pos/DET]() (3; 0% instances), [pt-pos/DET]()-[pt-pos/SCONJ]() (3; 0% instances), [pt-pos/PROPN]()-[pt-pos/NOUN]() (3; 0% instances), [pt-pos/ADJ]()-[pt-pos/PRON]() (2; 0% instances), [pt-pos/NOUN]()-[pt-pos/ADJ]() (2; 0% instances), [pt-pos/NOUN]()-[pt-pos/DET]() (2; 0% instances), [pt-pos/NOUN]()-[pt-pos/NUM]() (2; 0% instances), [pt-pos/NOUN]()-[pt-pos/PRON]() (2; 0% instances), [pt-pos/PRON]()-[pt-pos/NOUN]() (2; 0% instances), [pt-pos/VERB]()-[pt-pos/NOUN]() (2; 0% instances), [pt-pos/VERB]()-[pt-pos/SCONJ]() (2; 0% instances), [pt-pos/ADJ]()-[pt-pos/ADP]() (1; 0% instances), [pt-pos/ADJ]()-[pt-pos/CONJ]() (1; 0% instances), [pt-pos/ADJ]()-[pt-pos/NUM]() (1; 0% instances), [pt-pos/ADV]()-[pt-pos/PRON]() (1; 0% instances), [pt-pos/ADV]()-[pt-pos/SCONJ]() (1; 0% instances), [pt-pos/NOUN]()-[pt-pos/PROPN]() (1; 0% instances), [pt-pos/NUM]()-[pt-pos/NOUN]() (1; 0% instances), [pt-pos/PRON]()-[pt-pos/CONJ]() (1; 0% instances), [pt-pos/PRON]()-[pt-pos/SCONJ]() (1; 0% instances), [pt-pos/PROPN]()-[pt-pos/PROPN]() (1; 0% instances), [pt-pos/SCONJ]()-[pt-pos/VERB]() (1; 0% instances), [pt-pos/SYM]()-[pt-pos/NOUN]() (1; 0% instances), [pt-pos/VERB]()-[pt-pos/DET]() (1; 0% instances), [pt-pos/VERB]()-[pt-pos/NUM]() (1; 0% instances), [pt-pos/VERB]()-[pt-pos/PRON]() (1; 0% instances).
+The following 12 pairs of parts of speech are connected with `cop`: [pt-pos/NOUN]()-[pt-pos/AUX]() (1068; 41% instances), [pt-pos/ADJ]()-[pt-pos/AUX]() (1026; 39% instances), [pt-pos/PRON]()-[pt-pos/AUX]() (176; 7% instances), [pt-pos/VERB]()-[pt-pos/AUX]() (131; 5% instances), [pt-pos/PROPN]()-[pt-pos/AUX]() (81; 3% instances), [pt-pos/ADV]()-[pt-pos/AUX]() (57; 2% instances), [pt-pos/NUM]()-[pt-pos/AUX]() (54; 2% instances), [pt-pos/SYM]()-[pt-pos/AUX]() (27; 1% instances), [pt-pos/ADP]()-[pt-pos/AUX]() (3; 0% instances), [pt-pos/DET]()-[pt-pos/AUX]() (3; 0% instances), [pt-pos/X]()-[pt-pos/AUX]() (2; 0% instances), [pt-pos/AUX]()-[pt-pos/AUX]() (1; 0% instances).
 
 
 ~~~ conllu
@@ -20,16 +20,16 @@ The following 46 pairs of parts of speech are connected with `cop`: [pt-pos/NOUN
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 4 cop	color:blue
-1	Um	um	NUM	num|<card>|M|S	Gender=Masc|Number=Sing|NumType=Card	6	nsubj	_	_
-2	de	de	ADP	prp|<sam->	AdpType=Prep	3	case	_	_
-3	eles	eles	PRON	pron-pers|<-sam>|M|3P|NOM/PIV	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=3|PrepCase=Pre|PronType=Prs	1	nmod	_	_
-4	era	ser	VERB	v-fin|IMPF|3S|IND	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	6	cop	_	_
-5	seu	seu	DET	pron-det|<poss|3S>|M|S	Gender=Masc|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	6	det	_	_
-6	filho	filho	NOUN	n|M|S	Gender=Masc|Number=Sing	0	root	_	_
-7	,	,	PUNCT	punc	_	6	punct	_	_
-8	Sérgio	Sérgio	PROPN	prop|M|S	_	6	appos	_	MWE=Sérgio_Fioravanti|MWEPOS=PROPN
-9	Fioravanti	Fioravanti	PROPN	PROPN	_	8	name	_	_
-10	.	.	PUNCT	punc	_	6	punct	_	_
+1	Um	um	NUM	<card>|NUM|M|S|@SUBJ>	NumType=Card	6	nsubj	_	_
+2	de	de	ADP	<sam->|PRP|@N<	_	3	case	_	_
+3	eles	eles	PRON	<-sam>|PERS|M|3P|NOM/PIV|@P<	Gender=Masc|Number=Plur|Person=3|PronType=Prs	1	nmod	_	_
+4	era	ser	AUX	<mv>|V|IMPF|3S|IND|@FS-STA	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	6	cop	_	_
+5	seu	seu	DET	<poss>|DET|M|S|@>N	Gender=Masc|Number=Sing|PronType=Prs	6	det	_	_
+6	filho	filho	NOUN	<np-def>|N|M|S|@<SC	Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+7	,	,	PUNCT	PU|@PU	_	8	punct	_	_
+8	Sérgio	Sérgio	PROPN	_	Gender=Masc|Number=Sing	6	appos	_	MWE=Sérgio_Fioravanti|MWEPOS=PROPN
+9	Fioravanti	Fioravanti	PROPN	_	Number=Sing	8	flat:name	_	SpaceAfter=No
+10	.	.	PUNCT	PU|@PU	_	6	punct	_	_
 
 ~~~
 
@@ -40,107 +40,30 @@ The following 46 pairs of parts of speech are connected with `cop`: [pt-pos/NOUN
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 2 cop	color:blue
-1	Conforto	conforto	NOUN	n|M|S	Gender=Masc|Number=Sing	3	nsubj	_	_
-2	é	ser	VERB	v-fin|PR|3S|IND	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
-3	fundamental	fundamental	ADJ	adj|M|S	Gender=Masc|Number=Sing	0	root	_	_
-4	.	.	PUNCT	punc	_	3	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 2 cop	color:blue
-1	Ele	ele	PRON	pron-pers|M|3S|NOM	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
-2	estava	estar	VERB	v-fin|IMPF|3S|IND	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	3	cop	_	_
-3	acompanhados	acompanhar	VERB	v-pcp|M|P	Gender=Masc|Number=Plur|VerbForm=Part	0	root	_	_
-4	de	de	ADP	prp	AdpType=Prep	6	case	_	_
-5	três	três	NUM	num|<card>|M|P	Gender=Masc|Number=Plur|NumType=Card	6	nummod	_	_
-6	agentes	agente	NOUN	n|M|P	Gender=Masc|Number=Plur	3	dobj	_	_
-7	de	de	ADP	prp|<sam->	AdpType=Prep	9	case	_	_
-8	a	o	DET	art|<-sam>|<artd>|F|S	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
-9	PF	PF	PROPN	prop|F|S	Gender=Fem|Number=Sing	6	nmod	_	_
-10	.	.	PUNCT	punc	_	3	punct	_	_
-
-~~~
-
-
-
-
---------------------------------------------------------------------------------
-
-## Treebank Statistics (UD_Portuguese-Bosque)
-
-This relation is universal.
-
-2761 nodes (1%) are attached to their parents as `cop`.
-
-2658 instances of `cop` (96%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.90148496921405.
-
-The following 15 pairs of parts of speech are connected with `cop`: [pt-pos/NOUN]()-[pt-pos/VERB]() (1151; 42% instances), [pt-pos/ADJ]()-[pt-pos/VERB]() (851; 31% instances), [pt-pos/VERB]()-[pt-pos/VERB]() (353; 13% instances), [pt-pos/PRON]()-[pt-pos/VERB]() (177; 6% instances), [pt-pos/PROPN]()-[pt-pos/VERB]() (88; 3% instances), [pt-pos/ADV]()-[pt-pos/VERB]() (58; 2% instances), [pt-pos/NUM]()-[pt-pos/VERB]() (57; 2% instances), [pt-pos/SYM]()-[pt-pos/VERB]() (14; 1% instances), [pt-pos/NOUN]()-[pt-pos/NOUN]() (4; 0% instances), [pt-pos/DET]()-[pt-pos/VERB]() (2; 0% instances), [pt-pos/NOUN]()-[pt-pos/PRON]() (2; 0% instances), [pt-pos/ADJ]()-[pt-pos/ADJ]() (1; 0% instances), [pt-pos/ADJ]()-[pt-pos/NOUN]() (1; 0% instances), [pt-pos/NUM]()-[pt-pos/NOUN]() (1; 0% instances), [pt-pos/PROPN]()-[pt-pos/NOUN]() (1; 0% instances).
-
-
-~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 2 cop	color:blue
-1	«	«	PUNCT	PU|@PU	_	4	punct	_	_
-2	Será	ser	VERB	<mv>|V|FUT|3S|IND|@FS-STA	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	4	cop	_	_
-3	um	um	DET	<arti>|ART|M|S|@>N	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
-4	movimento	movimento	NOUN	<np-idf>|N|M|S|@<SC	Gender=Masc|Number=Sing	0	root	_	_
-5	nacionalista	nacionalista	ADJ	ADJ|M|S|@N<	Gender=Masc|Number=Sing	4	amod	_	_
-6	independente	independente	ADJ	ADJ|M|S|@N<	Gender=Masc|Number=Sing	4	amod	_	_
-7	.	.	PUNCT	PU|@PU	_	4	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 4 cop	color:blue
-1	A	o	DET	<artd>|ART|F|S|@>N	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
-2	suspensão	suspensão	NOUN	<np-def>|N|F|S|@SUBJ>	Gender=Fem|Number=Sing	5	nsubj	_	_
-3	traseira	traseiro	ADJ	ADJ|F|S|@N<	Gender=Fem|Number=Sing	2	amod	_	_
-4	é	ser	VERB	<mv>|V|PR|3S|IND|@FS-STA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
-5	progressiva	progressivo	ADJ	<n>|ADJ|F|S|@<SC	Gender=Fem|Number=Sing	0	root	_	_
-6	com	com	ADP	PRP|@N<	_	9	case	_	_
-7	um	um	DET	<arti>|ART|M|S|@>N	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
-8	só	só	ADJ	ADJ|M|S|@>N	Gender=Masc|Number=Sing	9	amod	_	_
-9	amortecedor	amortecedor	NOUN	<np-idf>|N|M|S|@P<	Gender=Masc|Number=Sing	5	nmod	_	_
-10	Boge	Boge	PROPN	PROP|M|S|@N<	Gender=Masc|Number=Sing	9	appos	_	_
-11	.	.	PUNCT	PU|@PU	_	5	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 5 cop	color:blue
-1	Maioria	maioria	NOUN	<np-idf>|N|F|S|@SUBJ>	Gender=Fem|Number=Sing	6	nsubj	_	_
-2	De	de	ADP	<sam->|PRP|@N<	_	4	case	_	_
-3	OS	o	DET	<-sam>|<artd>|DET|M|P|@>N	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	4	det	_	_
-4	Programas	programa	NOUN	<prop>|<np-def>|N|M|P|@P<	Gender=Masc|Number=Plur	1	nmod	_	_
-5	Está	estar	VERB	<mv>|V|PR|3S|IND|@FS-STA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
-6	Ligada	ligar	VERB	<mv>|<prop>|V|PCP|F|S|@ICL-<SC	Gender=Fem|Number=Sing|VerbForm=Part	0	root	_	_
-7	A	a	ADP	<sam->|PRP|@<PIV	_	9	case	_	_
+1	Ele	ele	PRON	PERS|M|3S|NOM|@SUBJ>	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+2	estava	estar	AUX	<mv>|V|IMPF|3S|IND|@FS-STA	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	3	cop	_	_
+3	acompanhados	acompanhado	ADJ	<mv>|V|PCP|M|P|@ICL-<SC	Gender=Masc|Number=Plur	0	root	_	_
+4	de	de	ADP	PRP|@<PIV	_	6	case	_	_
+5	três	três	NUM	<card>|NUM|M|P|@>N	NumType=Card	6	nummod	_	_
+6	agentes	agente	NOUN	<np-def>|N|M|P|@P<	Gender=Masc|Number=Plur	3	obl	_	_
+7	de	de	ADP	<sam->|PRP|@N<	_	9	case	_	_
 8	a	o	DET	<-sam>|<artd>|ART|F|S|@>N	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
-9	Rede	rede	NOUN	<prop>|<np-def>|N|F|S|@P<	Gender=Fem|Number=Sing	6	nmod	_	_
-10	De	de	ADP	PRP|@N<	_	11	case	_	_
-11	Esgotos	esgoto	NOUN	<np-idf>|N|M|P|@P<	Gender=Masc|Number=Plur	9	nmod	_	_
-12	*	*	PUNCT	PU|@PU	_	6	punct	_	_
-13	.	.	PUNCT	PU|@PU	_	6	punct	_	_
+9	PF	PF	PROPN	PROP|F|S|@P<	Gender=Fem|Number=Sing	6	nmod	_	SpaceAfter=No
+10	.	.	PUNCT	PU|@PU	_	3	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 3 cop	color:blue
+1	Saiba	saber	VERB	<mv>|V|PR|2S|SUBJ|@FS-STA	Mood=Sub|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	quem	quem	PRON	<interr>|INDP|M|S|@SC>	Gender=Masc|Number=Sing|PronType=Int	1	ccomp	_	_
+3	é	ser	AUX	<mv>|V|PR|3S|IND|@FS-<ACC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	_
+4	Barrichello	Barrichello	PROPN	PROP|M|S|@<sUBJ	Gender=Masc|Number=Sing	2	nsubj	_	_
 
 ~~~
 
@@ -153,12 +76,12 @@ The following 15 pairs of parts of speech are connected with `cop`: [pt-pos/NOUN
 
 This relation is universal.
 
-2172 nodes (1%) are attached to their parents as `cop`.
+1971 nodes (1%) are attached to their parents as `cop`.
 
-1881 instances of `cop` (87%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.04235727440147.
+1714 instances of `cop` (87%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.07661085743278.
 
-The following 15 pairs of parts of speech are connected with `cop`: [pt-pos/NOUN]()-[pt-pos/VERB]() (1733; 80% instances), [pt-pos/PRON]()-[pt-pos/VERB]() (258; 12% instances), [pt-pos/PROPN]()-[pt-pos/VERB]() (124; 6% instances), [pt-pos/PROPN]()-[pt-pos/PROPN]() (15; 1% instances), [pt-pos/NUM]()-[pt-pos/VERB]() (13; 1% instances), [pt-pos/PART]()-[pt-pos/VERB]() (11; 1% instances), [pt-pos/VERB]()-[pt-pos/VERB]() (7; 0% instances), [pt-pos/X]()-[pt-pos/VERB]() (4; 0% instances), [pt-pos/DET]()-[pt-pos/NOUN]() (1; 0% instances), [pt-pos/NOUN]()-[pt-pos/ADV]() (1; 0% instances), [pt-pos/NOUN]()-[pt-pos/PART]() (1; 0% instances), [pt-pos/NOUN]()-[pt-pos/PROPN]() (1; 0% instances), [pt-pos/NOUN]()-[pt-pos/PUNCT]() (1; 0% instances), [pt-pos/NUM]()-[pt-pos/NOUN]() (1; 0% instances), [pt-pos/VERB]()-[pt-pos/NOUN]() (1; 0% instances).
+The following 15 pairs of parts of speech are connected with `cop`: [pt-pos/NOUN]()-[pt-pos/VERB]() (1565; 79% instances), [pt-pos/PRON]()-[pt-pos/VERB]() (238; 12% instances), [pt-pos/PROPN]()-[pt-pos/VERB]() (114; 6% instances), [pt-pos/PROPN]()-[pt-pos/PROPN]() (13; 1% instances), [pt-pos/NUM]()-[pt-pos/VERB]() (12; 1% instances), [pt-pos/PART]()-[pt-pos/VERB]() (11; 1% instances), [pt-pos/VERB]()-[pt-pos/VERB]() (7; 0% instances), [pt-pos/X]()-[pt-pos/VERB]() (4; 0% instances), [pt-pos/DET]()-[pt-pos/NOUN]() (1; 0% instances), [pt-pos/NOUN]()-[pt-pos/ADV]() (1; 0% instances), [pt-pos/NOUN]()-[pt-pos/PART]() (1; 0% instances), [pt-pos/NOUN]()-[pt-pos/PROPN]() (1; 0% instances), [pt-pos/NOUN]()-[pt-pos/PUNCT]() (1; 0% instances), [pt-pos/NUM]()-[pt-pos/NOUN]() (1; 0% instances), [pt-pos/VERB]()-[pt-pos/NOUN]() (1; 0% instances).
 
 
 ~~~ conllu
@@ -175,7 +98,7 @@ The following 15 pairs of parts of speech are connected with `cop`: [pt-pos/NOUN
 6	de	_	ADP	ADP	_	8	mark	_	_
 7	ele	_	PRON	PRON	_	8	nsubj	_	_
 8	ser	_	VERB	VERB	_	5	nmod	_	_
-9	feliz	_	ADJ	ADJ	_	8	xcomp:adj	_	_
+9	feliz	_	ADJ	ADJ	_	8	xcomp:adj	_	SpaceAfter=No
 10	.	_	PUNCT	.	_	5	punct	_	_
 
 ~~~
@@ -189,12 +112,13 @@ The following 15 pairs of parts of speech are connected with `cop`: [pt-pos/NOUN
 # visual-style 2 1 cop	color:blue
 1	É	_	VERB	VERB	_	2	cop	_	_
 2	um	_	PRON	PRON	_	0	root	_	_
-3	dos	_	ADP	ADP	_	5	case	_	_
-4	três	_	NUM	NUM	NumType=Card	5	nummod	_	_
-5	ácidos	_	NOUN	NOUN	_	2	nmod	_	_
-6	ftálicos	_	ADJ	ADJ	_	5	amod	_	_
-7	isoméricos	_	ADJ	ADJ	_	5	amod	_	_
-8	.	_	PUNCT	.	_	2	punct	_	_
+3	de	de	ADP	ADP	_	6	case	_	_
+4	os	o	DET	DET	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	6	det	_	_
+5	três	_	NUM	NUM	NumType=Card	6	nummod	_	_
+6	ácidos	_	NOUN	NOUN	_	2	nmod	_	_
+7	ftálicos	_	ADJ	ADJ	_	6	amod	_	_
+8	isoméricos	_	ADJ	ADJ	_	6	amod	_	SpaceAfter=No
+9	.	_	PUNCT	.	_	2	punct	_	_
 
 ~~~
 
@@ -213,7 +137,7 @@ The following 15 pairs of parts of speech are connected with `cop`: [pt-pos/NOUN
 6	em	_	ADP	ADP	_	7	case	_	_
 7	sistema	_	NOUN	NOUN	_	5	nmod	_	_
 8	de	_	ADP	ADP	_	9	case	_	_
-9	perícias	_	NOUN	NOUN	_	7	nmod	_	_
+9	perícias	_	NOUN	NOUN	_	7	nmod	_	SpaceAfter=No
 10	.	_	PUNCT	.	_	4	punct	_	_
 
 ~~~

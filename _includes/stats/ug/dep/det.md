@@ -6,44 +6,29 @@
 
 This relation is universal.
 
-135 nodes (2%) are attached to their parents as `det`.
+44 nodes (3%) are attached to their parents as `det`.
 
-135 instances of `det` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.26666666666667.
+44 instances of `det` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.68181818181818.
 
-The following 13 pairs of parts of speech are connected with `det`: [ug-pos/NOUN]()-[ug-pos/PRON]() (82; 61% instances), [ug-pos/NOUN]()-[ug-pos/NUM]() (32; 24% instances), [ug-pos/ADJ]()-[ug-pos/PRON]() (4; 3% instances), [ug-pos/VERB]()-[ug-pos/PRON]() (4; 3% instances), [ug-pos/NUM]()-[ug-pos/PRON]() (3; 2% instances), [ug-pos/DET]()-[ug-pos/NUM]() (2; 1% instances), [ug-pos/NOUN]()-[ug-pos/ADJ]() (2; 1% instances), [ug-pos/ADJ]()-[ug-pos/NUM]() (1; 1% instances), [ug-pos/DET]()-[ug-pos/PRON]() (1; 1% instances), [ug-pos/NOUN]()-[ug-pos/NOUN]() (1; 1% instances), [ug-pos/NOUN]()-[ug-pos/VERB]() (1; 1% instances), [ug-pos/PRON]()-[ug-pos/PRON]() (1; 1% instances), [ug-pos/VERB]()-[ug-pos/DET]() (1; 1% instances).
-
-
-~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 2 det	color:blue
-1	ئۇلار	_	PRON	P	_	5	nsubj	_	Translit=ular
-2	ھېلىقى	_	PRON	P	_	4	det	_	Translit=hëliqi
-3	قۇرۇق	_	ADJ	A	_	4	amod	_	Translit=quruq
-4	دەستىگاھنى	_	NOUN	N	_	5	dobj	_	Translit=destigahni
-5	كۆرسىتىپتۇ	_	VERB	V	_	0	root	_	Translit=körsitiptu
-6	.	_	PUNCT	Y	_	5	punct	_	Translit=.
-
-~~~
+The following 4 pairs of parts of speech are connected with `det`: [ug-pos/NOUN]()-[ug-pos/PRON]() (40; 91% instances), [ug-pos/NUM]()-[ug-pos/PRON]() (2; 5% instances), [ug-pos/ADJ]()-[ug-pos/PRON]() (1; 2% instances), [ug-pos/NOUN]()-[ug-pos/NUM]() (1; 2% instances).
 
 
 ~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 4 det	color:blue
-1	كەنتىمىزنىڭ	_	NOUN	N	_	3	nmod:poss	_	Translit=kentimizning
-2	ئالدى	_	NOUN	N	_	3	compound	_	Translit=aldi
-3	تەرىپىدە	_	NOUN	N	_	7	nmod	_	Translit=teripide
-4	بىر	_	NUM	M	_	6	det	_	Translit=bir
-5	كىچىك	_	ADJ	A	_	6	amod	_	Translit=kichik
-6	تاغ	_	NOUN	N	_	7	nsubj	_	Translit=tagh
-7	بار	_	ADJ	A	_	0	root	_	Translit=bar
-8	،	_	PUNCT	Y	_	7	punct	_	Translit=,
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 3 det	color:blue
+1	ئەمەلىيەتتە	_	NOUN	N	_	7	advmod	_	Translit=emeliyette
+2	مېنىڭ	_	PRON	P	_	6	nmod:poss	_	Translit=mëning
+3	بۇ	_	PRON	P	_	5	det	_	Translit=bu
+4	قاباھەتلىك	_	NOUN	N	_	5	amod	_	Translit=qabahetlik
+5	رېئاللىقنى	_	NOUN	N	_	6	obj	_	Translit=rëalliqni
+6	كۆرگۈم	_	VERB	V	_	7	acl	_	Translit=körgüm
+7	يوق	_	ADJ	A	_	0	root	_	Translit=yoq
+8	ئىدى	_	AUX	V	_	7	cop	_	SpaceAfter=No|Translit=idi
+9	.	_	PUNCT	Y	_	8	punct	_	Translit=.
 
 ~~~
 
@@ -54,14 +39,43 @@ The following 13 pairs of parts of speech are connected with `det`: [ug-pos/NOUN
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 3 det	color:blue
-1	چۈنكى	_	CONJ	C	_	7	cc	_	Translit=chünki
-2	ئۇ	_	PRON	P	_	7	nsubj	_	Translit=u
-3	ھېچنېمىنى	_	PRON	P	_	4	det	_	Translit=hëchnëmini
-4	كۆرمىدىم	_	VERB	V	_	6	ccomp	_	Translit=körmidim
-5	،	_	PUNCT	Y	_	4	punct	_	Translit=,
-6	دېيىشنى	_	NOUN	N	_	7	dobj	_	Translit=dëyishni
-7	خالىمايدىكەن	_	VERB	V	_	0	root	_	Translit=xalimaydiken
-8	.	_	PUNCT	Y	_	7	punct	_	Translit=.
+1	ئۇ	_	PRON	P	_	2	det	_	Translit=u
+2	چاغلاردا	_	NOUN	N	_	19	nmod	_	Translit=chaghlarda
+3	ھەر	_	PRON	P	_	4	det	_	Translit=her
+4	ئىككىمىز	_	NUM	M	_	19	nsubj	_	Translit=ikkimiz
+5	قەلبى	_	NOUN	N	_	16	nsubj	_	Translit=qelbi
+6	گۈزەل	_	ADJ	A	_	9	amod	_	Translit=güzel
+7	ئارزۇ	_	NOUN	N	_	9	compound:lvc	_	Translit=arzu
+8	-	_	PUNCT	Y	_	7	punct	_	Translit=-
+9	ئارمانلار	_	NOUN	N	_	16	obl	_	SpaceAfter=No|Translit=armanlar
+10	،	_	PUNCT	Y	_	9	punct	_	Translit=,
+11	شېرىن	_	ADJ	A	_	12	amod	_	Translit=shërin
+12	ئەسلىمە	_	NOUN	N	_	13	nmod	_	Translit=eslime
+13	گۈللىرى	_	NOUN	N	_	9	conj	_	Translit=gülliri
+14	بىلەن	_	ADP	R	_	13	case	_	Translit=bilen
+15	كۆركەم	_	ADJ	A	_	16	advmod	_	Translit=körkem
+16	بېزەلگەن	_	VERB	V	_	19	acl	_	Translit=bëzelgen
+17	18	_	NUM	M	_	18	nummod	_	Translit=18
+18	ياشلاردىكى	_	NOUN	N	_	19	nmod	_	Translit=yashlardiki
+19	بالىلار	_	NOUN	N	_	0	root	_	Translit=balilar
+20	ئىدۇق	_	AUX	V	_	19	cop	_	SpaceAfter=No|Translit=iduq
+21	.	_	PUNCT	Y	_	20	punct	_	Translit=.
+
+~~~
+
+
+~~~ conllu
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 2 det	color:blue
+1	سەن	_	PRON	P	_	4	nsubj	_	Translit=sen
+2	شۇنداق	_	PRON	P	_	3	det	_	Translit=shundaq
+3	ياۋاش	_	ADJ	A	_	4	amod	_	Translit=yawash
+4	قىز	_	NOUN	N	_	0	root	_	Translit=qiz
+5	ئىدىڭ	_	AUX	V	_	4	cop	_	SpaceAfter=No|Translit=iding
+6	.	_	PUNCT	Y	_	5	punct	_	Translit=.
 
 ~~~
 

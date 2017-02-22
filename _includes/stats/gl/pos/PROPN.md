@@ -4,83 +4,82 @@
 
 ## Treebank Statistics (UD_Galician)
 
-There are 950 `PROPN` lemmas (9%), 955 `PROPN` types (6%) and 1920 `PROPN` tokens (1%).
-Out of 15 observed tags, the rank of `PROPN` is: 4 in number of lemmas, 4 in number of types and 11 in number of tokens.
+There are 769 `PROPN` lemmas (8%), 771 `PROPN` types (5%) and 1490 `PROPN` tokens (1%).
+Out of 15 observed tags, the rank of `PROPN` is: 5 in number of lemmas, 5 in number of types and 11 in number of tokens.
 
-The 10 most frequent `PROPN` lemmas: <em>galicia, españa, coruña, lugo, santiago, europa, ourense, pontevedra, galiza, internet</em>
+The 10 most frequent `PROPN` lemmas: <em>galicia, españa, coruña, santiago, ourense, lugo, pontevedra, internet, galiza, europa</em>
 
-The 10 most frequent `PROPN` types:  <em>Galicia, España, Coruña, Lugo, Santiago, Europa, Ourense, Pontevedra, Galiza, internet</em>
+The 10 most frequent `PROPN` types:  <em>Galicia, España, Coruña, Santiago, Ourense, Lugo, Pontevedra, internet, Galiza, Europa</em>
 
-The 10 most frequent ambiguous lemmas: <em>ii</em> ([PROPN]() 10, [NUM]() 1), <em>iii</em> ([PROPN]() 7, [NUM]() 6), <em>pib</em> ([PROPN]() 7, [NOUN]() 4), <em>35</em> ([PROPN]() 5, [NUM]() 2, [ADJ]() 1), <em>km</em> ([PROPN]() 5, [NOUN]() 1, [NUM]() 1), <em>um</em> ([PROPN]() 4, [NOUN]() 1), <em>3</em> ([NUM]() 43, [PROPN]() 3), <em>risga</em> ([PROPN]() 3, [NOUN]() 1), <em>rsu</em> ([VERB]() 3, [PROPN]() 3), <em>43</em> ([NUM]() 3, [PROPN]() 2)
+The 10 most frequent ambiguous lemmas: <em>ii</em> ([PROPN]() 6, [NUM]() 1), <em>iii</em> ([PROPN]() 6, [NUM]() 4), <em>pib</em> ([PROPN]() 6, [NOUN]() 4), <em>35</em> ([PROPN]() 4, [NUM]() 2, [ADJ]() 1), <em>3</em> ([NUM]() 33, [PROPN]() 3), <em>risga</em> ([PROPN]() 3, [NOUN]() 1), <em>rsu</em> ([PROPN]() 3, [VERB]() 1), <em>um</em> ([PROPN]() 3, [NOUN]() 1), <em>43</em> ([NUM]() 3, [PROPN]() 2), <em>biogás</em> ([PROPN]() 2, [NOUN]() 1)
 
-The 10 most frequent ambiguous types:  <em>II</em> ([PROPN]() 10, [NUM]() 1), <em>III</em> ([PROPN]() 7, [NUM]() 6), <em>PIB</em> ([PROPN]() 7, [NOUN]() 4), <em>35</em> ([PROPN]() 5, [NUM]() 2, [ADJ]() 1), <em>km</em> ([PROPN]() 2, [NUM]() 1, [NOUN]() 1), <em>um</em> ([PROPN]() 4, [NOUN]() 1), <em>3</em> ([NUM]() 43, [PROPN]() 3), <em>RISGA</em> ([PROPN]() 3, [NOUN]() 1), <em>RSU</em> ([PROPN]() 3, [VERB]() 3), <em>43</em> ([NUM]() 3, [PROPN]() 2)
+The 10 most frequent ambiguous types:  <em>II</em> ([PROPN]() 6, [NUM]() 1), <em>III</em> ([PROPN]() 6, [NUM]() 4), <em>PIB</em> ([PROPN]() 6, [NOUN]() 4), <em>35</em> ([PROPN]() 4, [NUM]() 2, [ADJ]() 1), <em>3</em> ([NUM]() 33, [PROPN]() 3), <em>RISGA</em> ([PROPN]() 3, [NOUN]() 1), <em>RSU</em> ([PROPN]() 3, [VERB]() 1), <em>um</em> ([PROPN]() 3, [NOUN]() 1), <em>43</em> ([NUM]() 3, [PROPN]() 2), <em>EGDS</em> ([PROPN]() 2, [NOUN]() 1)
 
 
 * <em>II</em>
-  * [PROPN]() 10: <em>Modifica se o número 4.º de o número 1 e engade se un número 3.º en o número 2 de o anexo <b>II</b> , que quedarán redactados de a seguinte maneira :</em>
+  * [PROPN]() 6: <em>Modifica se o número 4.º de o número 1 e engade se un número 3.º en o número 2 de o anexo <b>II</b> , que quedarán redactados de a seguinte maneira :</em>
   * [NUM]() 1: <em>ESPAÑA : Decreto-lei , de o 4 xullo de 1931 , en o que se determina o que se ha de entender por sociedade cooperativa e se fixan as súas condicións legais e as normas de o seu réxime , ETAPA <b>II</b> : 1938-1970 .</em>
 * <em>III</em>
-  * [PROPN]() 7: <em><b>III</b> .</em>
-  * [NUM]() 6: <em>Asemade , a dita superficie corrixiu se tamén en o plano de asentamento de as instalacións incluído en o anexo <b>III</b> de o citado prego .</em>
+  * [PROPN]() 6: <em><b>III</b> .</em>
+  * [NUM]() 4: <em>Asemade , a dita superficie corrixiu se tamén en o plano de asentamento de as instalacións incluído en o anexo <b>III</b> de o citado prego .</em>
 * <em>PIB</em>
-  * [PROPN]() 7: <em>A súa taxa de crecemento sitúa se en o 4,1 % e a súa contribución a o <b>PIB</b> cifra se en 0,3 puntos .</em>
+  * [PROPN]() 6: <em>A súa taxa de crecemento sitúa se en o 4,1 % e a súa contribución a o <b>PIB</b> cifra se en 0,3 puntos .</em>
   * [NOUN]() 4: <em>Hoxe en Galicia o 18 % de o total de a poboación ocupada traballa en o sector primario ( agricultura e pesca ) , pero só produce o 9 % de o <b>PIB</b> galego .</em>
 * <em>35</em>
-  * [PROPN]() 5: <em>En esta data , xa foran executadas ou estaban en fase de execución un total de <b>35</b> depuradoras fronte ás trece existentes en o período anterior .</em>
+  * [PROPN]() 4: <em>En esta data , xa foran executadas ou estaban en fase de execución un total de <b>35</b> depuradoras fronte ás trece existentes en o período anterior .</em>
   * [NUM]() 2: <em>Aproximadamente unhas dúas terceiras partes de os falecementos por accidentes antes de os <b>35</b> anos en a UE son debidos a o tráfico con unha maior incidencia en os países de o sur , entre eles España .</em>
   * [ADJ]() 1: <em>Respecto a a idade , a análise realizada amosa que o uso preferente ou exclusivo de o castelán está asociado a os grupos de 16 a <b>35</b> anos e , en menor medida , a os de 36 a 45 .</em>
-* <em>km</em>
-  * [PROPN]() 2: <em>As altas velocidades de o AVE de verdade , como o Madrid-Sevilla , implican o cunsumo de unha inxente cantidade de enerxía eléctrica ( un AVE a 350 <b>km</b> / h consome o mesmo que unha cidade de 50.000 habitantes ) .</em>
-  * [NUM]() 1: <em>Esta chegada recoñece se por presentar temperaturas en inverno de -12º a -17º C en a topografía de os 700 hPa e de -30º a -36º C a a altitude de os 500 hPa , e por unha tropopausa moi baixa ( 6 <b>km</b> aproximadamente ) .</em>
-  * [NOUN]() 1: <em>Con o investimento de un só de os 27 <b>km</b> de o famoso túnel de o Guadarrama podería construirse , por exemplo , um hospital medio moderno ! .</em>
-* <em>um</em>
-  * [PROPN]() 4: <em>Con o investimento de un só de os 27 km de o famoso túnel de o Guadarrama podería construirse , por exemplo , <b>um</b> hospital medio moderno ! .</em>
-  * [NOUN]() 1: <em>A resposta a esta pergunta nom é singela : ou bem nom é possível conseguir elevaçons de o nível de vida sen deteriorar o ambiente , ou viceversa , ou bem <b>um</b> maior crescimento é compatível cumha maior qualidade ambiental .</em>
 * <em>3</em>
-  * [NUM]() 43: <em>En este momento recomenda se adiantar a 2ª dose de vacina triple vírica de os 6-11 anos a os <b>3</b> anos tanto en nenos coma en nenas .</em>
+  * [NUM]() 33: <em>En este momento recomenda se adiantar a 2ª dose de vacina triple vírica de os 6-11 anos a os <b>3</b> anos tanto en nenos coma en nenas .</em>
   * [PROPN]() 3: <em>Por último , as ecuacións E. 2 e E. <b>3</b> estimaron se empregando as series de capital público total , infraestructuras e capital público social .</em>
 * <em>RISGA</em>
   * [PROPN]() 3: <em>Anos de Antigüidade en a prestación de <b>RISGA</b> : Tanto en os homes coma en as mulleres a antigüidade en o dispositivo de <b>RISGA</b> oscila entre un ou dous anos .</em>
   * [NOUN]() 1: <em>En o mes de xullo de 1993 , os traballos de a Mesa Galega de a <b>RISGA</b> para a modificiación de a Lei 9/1991 concluían con un acordo conxunto .</em>
 * <em>RSU</em>
   * [PROPN]() 3: <em>Por tanto , debe se afondar en un método que de forma integral , e agrupando os distintos tipos de tratamento de <b>RSU</b> , poida dar unha solución total a o problema .</em>
-  * [VERB]() 3: <em>Programa de redución de a produción de <b>RSU</b> a redución en a orixe presenta importantes vantaxes económicas e ambientais .</em>
+  * [VERB]() 1: <em>Elaboración e actualización de o Catálogo de Residuos de acordo con a disposición adicional de a Lei 10/1997 , de <b>RSU</b> de Galicia .</em>
+* <em>um</em>
+  * [PROPN]() 3: <em>Desde esta perspectiva Victor , en o artigo já citado , fai <b>um</b> ejecício moi interesante para pór em evidéncia a conclussom de a perfecta substituibilidade .</em>
+  * [NOUN]() 1: <em>A resposta a esta pergunta nom é singela : ou bem nom é possível conseguir elevaçons de o nível de vida sen deteriorar o ambiente , ou viceversa , ou bem <b>um</b> maior crescimento é compatível cumha maior qualidade ambiental .</em>
 * <em>43</em>
   * [NUM]() 3: <em>As editoriais privadas de Galicia pagaron en o ano 1998 por Dereitos de Autor 148 millóns de pesetas , e investiron <b>43</b> de millóns de pesetas en promoción e publicidade .</em>
   * [PROPN]() 2: <em>Con efectos desde o día 1 de setembro de 2004 , introducen se as seguintes modificacións en a Lei <b>43</b> / 1995 , de o 27 de decembro , de o imposto sobre sociedades :</em>
+* <em>EGDS</em>
+  * [PROPN]() 2: <em>Dado o carácter de proceso de a <b>EGDS</b> non se descarta o propor o en un estudo posterior se se considerara necesario un indicador apropiado .</em>
+  * [NOUN]() 1: <em>Dende a <b>EGDS</b> propónse a elaboración de unha certificación propia que recolla a esencia de a Estratexia para o Desenvolvemento Sostible de a Acuicultura Europea .</em>
 
 ## Morphology
 
-The form / lemma ratio of `PROPN` is 1.005263 (the average of all parts of speech is 1.518322).
+The form / lemma ratio of `PROPN` is 1.002601 (the average of all parts of speech is 1.505536).
 
 The 1st highest number of forms (2) was observed with the lemma “españa”: <em>ESPAÑA, España</em>.
 
-The 2nd highest number of forms (2) was observed with the lemma “fenosa”: <em>FENOSA, Fenosa</em>.
+The 2nd highest number of forms (2) was observed with the lemma “sergas”: <em>SERGAS, Sergas</em>.
 
-The 3rd highest number of forms (2) was observed with the lemma “fernández”: <em>FERNÁNDEZ, Fernández</em>.
+The 3rd highest number of forms (1) was observed with the lemma “-10”: <em>-10</em>.
 
 `PROPN` does not occur with any features.
 
 
 ## Relations
 
-`PROPN` nodes are attached to their parents using 11 different relations: [gl-dep/nmod]() (1416; 74% instances), [gl-dep/nsubj]() (245; 13% instances), [gl-dep/dep]() (149; 8% instances), [gl-dep/dobj]() (47; 2% instances), [gl-dep/ccomp]() (13; 1% instances), [gl-dep/cop]() (13; 1% instances), [gl-dep/foreign]() (12; 1% instances), [gl-dep/root]() (12; 1% instances), [gl-dep/amod]() (9; 0% instances), [gl-dep/case]() (3; 0% instances), [gl-dep/mark]() (1; 0% instances)
+`PROPN` nodes are attached to their parents using 11 different relations: [gl-dep/nmod]() (1085; 73% instances), [gl-dep/nsubj]() (199; 13% instances), [gl-dep/dep]() (119; 8% instances), [gl-dep/dobj]() (38; 3% instances), [gl-dep/foreign]() (11; 1% instances), [gl-dep/cop]() (10; 1% instances), [gl-dep/root]() (9; 1% instances), [gl-dep/ccomp]() (8; 1% instances), [gl-dep/amod]() (7; 0% instances), [gl-dep/case]() (3; 0% instances), [gl-dep/mark]() (1; 0% instances)
 
-Parents of `PROPN` nodes belong to 10 different parts of speech: [ADP]() (945; 49% instances), [NOUN]() (367; 19% instances), [VERB]() (323; 17% instances), [PROPN]() (236; 12% instances), [NUM]() (20; 1% instances), [ROOT]() (12; 1% instances), [ADJ]() (5; 0% instances), [PRON]() (5; 0% instances), [PUNCT]() (5; 0% instances), [ADV]() (2; 0% instances)
+Parents of `PROPN` nodes belong to 10 different parts of speech: [ADP]() (721; 48% instances), [NOUN]() (285; 19% instances), [VERB]() (261; 18% instances), [PROPN]() (187; 13% instances), [NUM]() (13; 1% instances), [ROOT]() (9; 1% instances), [PRON]() (5; 0% instances), [PUNCT]() (4; 0% instances), [ADJ]() (3; 0% instances), [ADV]() (2; 0% instances)
 
-985 (51%) `PROPN` nodes are leaves.
+778 (52%) `PROPN` nodes are leaves.
 
-481 (25%) `PROPN` nodes have one child.
+372 (25%) `PROPN` nodes have one child.
 
-268 (14%) `PROPN` nodes have two children.
+193 (13%) `PROPN` nodes have two children.
 
-186 (10%) `PROPN` nodes have three or more children.
+147 (10%) `PROPN` nodes have three or more children.
 
 The highest child degree of a `PROPN` node is 11.
 
-Children of `PROPN` nodes are attached using 13 different relations: [gl-dep/punct]() (528; 30% instances), [gl-dep/det]() (411; 23% instances), [gl-dep/nmod]() (357; 20% instances), [gl-dep/dep]() (153; 9% instances), [gl-dep/cc]() (104; 6% instances), [gl-dep/amod]() (92; 5% instances), [gl-dep/case]() (79; 4% instances), [gl-dep/ccomp]() (50; 3% instances), [gl-dep/mark]() (8; 0% instances), [gl-dep/advmod]() (2; 0% instances), [gl-dep/cop]() (2; 0% instances), [gl-dep/foreign]() (2; 0% instances), [gl-dep/nummod]() (1; 0% instances)
+Children of `PROPN` nodes are attached using 12 different relations: [gl-dep/punct]() (408; 30% instances), [gl-dep/det]() (306; 23% instances), [gl-dep/nmod]() (279; 21% instances), [gl-dep/dep]() (120; 9% instances), [gl-dep/cc]() (79; 6% instances), [gl-dep/amod]() (65; 5% instances), [gl-dep/case]() (60; 4% instances), [gl-dep/ccomp]() (33; 2% instances), [gl-dep/mark]() (6; 0% instances), [gl-dep/advmod]() (2; 0% instances), [gl-dep/cop]() (1; 0% instances), [gl-dep/nummod]() (1; 0% instances)
 
-Children of `PROPN` nodes belong to 13 different parts of speech: [PUNCT]() (503; 28% instances), [DET]() (404; 23% instances), [PROPN]() (236; 13% instances), [NOUN]() (176; 10% instances), [CONJ]() (103; 6% instances), [NUM]() (98; 5% instances), [ADJ]() (95; 5% instances), [ADP]() (78; 4% instances), [VERB]() (46; 3% instances), [SYM]() (28; 2% instances), [PRON]() (10; 1% instances), [SCONJ]() (9; 1% instances), [ADV]() (3; 0% instances)
+Children of `PROPN` nodes belong to 13 different parts of speech: [PUNCT]() (394; 29% instances), [DET]() (301; 22% instances), [PROPN]() (187; 14% instances), [NOUN]() (140; 10% instances), [CONJ]() (79; 6% instances), [NUM]() (74; 5% instances), [ADJ]() (67; 5% instances), [ADP]() (58; 4% instances), [VERB]() (32; 2% instances), [SYM]() (14; 1% instances), [SCONJ]() (7; 1% instances), [PRON]() (5; 0% instances), [ADV]() (2; 0% instances)
 
 
 
@@ -88,55 +87,85 @@ Children of `PROPN` nodes belong to 13 different parts of speech: [PUNCT]() (503
 
 ## Treebank Statistics (UD_Galician-TreeGal)
 
-There are 626 `PROPN` lemmas (15%), 628 `PROPN` types (11%) and 1148 `PROPN` tokens (5%).
-Out of 15 observed tags, the rank of `PROPN` is: 4 in number of lemmas, 4 in number of types and 9 in number of tokens.
+There are 522 `PROPN` lemmas (17%), 522 `PROPN` types (13%) and 954 `PROPN` tokens (6%).
+Out of 16 observed tags, the rank of `PROPN` is: 3 in number of lemmas, 4 in number of types and 7 in number of tokens.
 
-The 10 most frequent `PROPN` lemmas: <em>Galiza, BNG, Estado, Ferrol, Prestige, Estatuto, PP, Vigo, PSOE, Quixote</em>
+The 10 most frequent `PROPN` lemmas: <em>galiza, BNG, ferrol, Estado, vigo, estatuto, manuel, prestige, PP, quixote</em>
 
-The 10 most frequent `PROPN` types:  <em>Galiza, BNG, Estado, Ferrol, Prestige, Estatuto, PP, Vigo, PSOE, Quixote</em>
+The 10 most frequent `PROPN` types:  <em>Galiza, BNG, Ferrol, Estado, Vigo, Estatuto, Manuel, Prestige, PP, Quixote</em>
 
-The 10 most frequent ambiguous lemmas: 
+The 10 most frequent ambiguous lemmas: <em>estatuto</em> ([NOUN]() 6, [PROPN]() 2), <em>de</em> ([ADP]() 1094, [PROPN]() 7), <em>casa</em> ([PROPN]() 6, [NOUN]() 2), <em>auga</em> ([PROPN]() 5, [NOUN]() 4), <em>mar</em> ([PROPN]() 5, [NOUN]() 5), <em>terra</em> ([NOUN]() 5, [PROPN]() 5), <em>mariño</em> ([PROPN]() 3, [ADJ]() 1), <em>zona</em> ([NOUN]() 8, [PROPN]() 4), <em>asociación</em> ([PROPN]() 3, [NOUN]() 2), <em>comunidade</em> ([PROPN]() 3, [NOUN]() 1)
 
-The 10 most frequent ambiguous types:  
+The 10 most frequent ambiguous types:  <em>Estado</em> ([PROPN]() 12, [NOUN]() 1), <em>Estatuto</em> ([PROPN]() 9, [NOUN]() 5), <em>de</em> ([ADP]() 1085, [PROPN]() 7), <em>Auga</em> ([PROPN]() 5, [NOUN]() 1), <em>Terra</em> ([PROPN]() 5, [NOUN]() 3), <em>Zona</em> ([PROPN]() 4, [NOUN]() 1), <em>Costas</em> ([PROPN]() 3, [NOUN]() 1), <em>Constitución</em> ([PROPN]() 2, [NOUN]() 1), <em>camiño</em> ([NOUN]() 3, [PROPN]() 1), <em>home</em> ([NOUN]() 4, [PROPN]() 1)
 
 
+* <em>Estado</em>
+  * [PROPN]() 12: <em>' Estamos pagando o traballar exclusivamente para o <b>Estado</b> '</em>
+  * [NOUN]() 1: <em>Unha normativa baseada en o <b>Estado</b> de o benestar</em>
+* <em>Estatuto</em>
+  * [PROPN]() 9: <em>Conclúe , de este xeito , a segunda fase de o proceso ideado por lo BNG para elaborar un novo <b>Estatuto</b> de Nación para Galiza :</em>
+  * [NOUN]() 5: <em>Galiza xa ten un proxecto de novo <b>Estatuto</b> baseado en as necesidades de o país .</em>
+* <em>de</em>
+  * [ADP]() 1085: <em>Europeizar o horario <b>de</b> traballo</em>
+  * [PROPN]() 7: <em>Este número adica se por completo a reflexionar sobre a política e a administración en a Eurorrexión Galicia - Norte <b>de</b> Portugal desde diferentes enfoques .</em>
+* <em>Auga</em>
+  * [PROPN]() 5: <em>A Casa de a <b>Auga</b></em>
+  * [NOUN]() 1: <em>Pois a iniciativa de a obra , por encargo de o Concello , debe se a a Empresa Municipal de Subministro de <b>Auga</b> EMALCSA , sociedade de servizos de solvencia recoñecida por todos os grupos municipais , que constitúe un instrumento político de control de primeira magnitude de o goberno local e que leva moitos anos dando beneficios económicos a as arcas municipais , como expresión sensíbel de que a empresa pública tamén pode ser tan rendíbel como a privada con unha administración adecuada .</em>
+* <em>Terra</em>
+  * [PROPN]() 5: <em>A Nosa <b>Terra</b> prepara un libro que recollerá as súas colaboracións</em>
+  * [NOUN]() 3: <em>Anxo Fariña é o autor de os debuxos e os textos de unha serie de catro títulos que vai comezar a publicar de contado Edicións A Nosa <b>Terra</b> .</em>
+* <em>Zona</em>
+  * [PROPN]() 4: <em>Citroën - <b>Zona</b> Franca ;</em>
+  * [NOUN]() 1: <em>Agora , o destinatario de os avisos de Citroën é o delegado de o Estado en o Consorcio de a <b>Zona</b> Franca .</em>
+* <em>Costas</em>
+  * [PROPN]() 3: <em>O director xeral de <b>Costas</b> ten a mesma postura e a ministra de Medio Ambiente é rotunda .</em>
+  * [NOUN]() 1: <em>Hai que ter en conta que a Lei de <b>Costas</b> de 1988 prevé que en 2018 remate a concesión non só de Celulosas , senón de outras moitas instalacións en situación semellante .</em>
+* <em>Constitución</em>
+  * [PROPN]() 2: <em>Por fin , en o desenvolvemento de as Bases haberá que propor as formas de encaixe constitucional necesarias , incluída a modificación precisa de a <b>Constitución</b> .</em>
+  * [NOUN]() 1: <em>Unha <b>Constitución</b> cuxa reforma vai aprobar xa o Consello de Ministros esta semana , para fixar , de este xeito os límites de os estatutos .</em>
+* <em>camiño</em>
+  * [NOUN]() 3: <em>En o bo <b>camiño</b></em>
+  * [PROPN]() 1: <em>Con prólogo e ilustracións de Xulio García Rivas ve lume o libro de Antón García Teixeiro Por lo <b>camiño</b> de o incerto .</em>
+* <em>home</em>
+  * [NOUN]() 4: <em>Non é Javier Riera un <b>home</b> que se prodigue en aparicións en os medios de comunicación .</em>
+  * [PROPN]() 1: <em>Participaba regularmente en recitais e actos de espallamento de a poesía galega tanto en a Galiza como en o exterior e a súa actividade literaria estivo presente en moitos ámbitos criativos con libros como Silencio, ensaiamos ( 1992 ) , as novelas Teoría de xogos ( 1997 ) e As chaves de o tempo ( 2001 ) e tamén de o teatro , xénero para o que escrebeu os textos Concerto para un <b>home</b> só ( 1989 ) , O representante ( 1990 ) , O paseo de as Esfinxes ( 1991 ) e As certezas de Ofelia ( 1999 ) .</em>
 
 ## Morphology
 
-The form / lemma ratio of `PROPN` is 1.003195 (the average of all parts of speech is 1.374140).
+The form / lemma ratio of `PROPN` is 1.000000 (the average of all parts of speech is 1.306739).
 
-The 1st highest number of forms (2) was observed with the lemma “A_Coruña”: <em>A_Coruña, La_Coruña</em>.
+The 1st highest number of forms (2) was observed with the lemma “comisión”: <em>Comisión, Comisións</em>.
 
-The 2nd highest number of forms (2) was observed with the lemma “Consello_de_Ministros”: <em>Consello_de_Ministros, Consellos_de_Ministros</em>.
+The 2nd highest number of forms (1) was observed with the lemma “!”: <em>!</em>.
 
-The 3rd highest number of forms (1) was observed with the lemma “A_Arxentina”: <em>A_Arxentina</em>.
+The 3rd highest number of forms (1) was observed with the lemma “2004”: <em>2004</em>.
 
-`PROPN` occurs with 2 features: [gl-feat/Gender]() (591; 51% instances), [gl-feat/Number]() (375; 33% instances)
+`PROPN` occurs with 2 features: [gl-feat/Gender]() (572; 60% instances), [gl-feat/Number]() (277; 29% instances)
 
 `PROPN` occurs with 4 feature-value pairs: `Gender=Fem`, `Gender=Masc`, `Number=Plur`, `Number=Sing`
 
 `PROPN` occurs with 7 feature combinations.
-The most frequent feature combination is `_` (557 tokens).
-Examples: <em>Galiza, Ferrol, Vigo, A_Galiza, A_Nosa_Terra, Pontevedra, Beiras, Abades, Amenábar, ENCE</em>
+The most frequent feature combination is `_` (382 tokens).
+Examples: <em>Galiza, Ferrol, Vigo, Pontevedra, Terra, Abades, Amenábar, Astano, Compostela, Edicións</em>
 
 
 ## Relations
 
-`PROPN` nodes are attached to their parents using 13 different relations: [gl-dep/nmod]() (649; 57% instances), [gl-dep/nsubj]() (226; 20% instances), [gl-dep/conj]() (135; 12% instances), [gl-dep/dobj]() (43; 4% instances), [gl-dep/root]() (39; 3% instances), [gl-dep/iobj]() (21; 2% instances), [gl-dep/appos]() (19; 2% instances), [gl-dep/nsubjpass]() (5; 0% instances), [gl-dep/parataxis]() (3; 0% instances), [gl-dep/remnant]() (3; 0% instances), [gl-dep/acl]() (2; 0% instances), [gl-dep/name]() (2; 0% instances), [gl-dep/ccomp]() (1; 0% instances)
+`PROPN` nodes are attached to their parents using 16 different relations: [gl-dep/nmod]() (340; 36% instances), [gl-dep/flat:name]() (196; 21% instances), [gl-dep/nsubj]() (137; 14% instances), [gl-dep/obl]() (98; 10% instances), [gl-dep/conj]() (85; 9% instances), [gl-dep/obj]() (25; 3% instances), [gl-dep/root]() (21; 2% instances), [gl-dep/flat]() (16; 2% instances), [gl-dep/iobj]() (10; 1% instances), [gl-dep/case]() (9; 1% instances), [gl-dep/appos]() (7; 1% instances), [gl-dep/amod]() (3; 0% instances), [gl-dep/nsubj:pass]() (3; 0% instances), [gl-dep/parataxis]() (2; 0% instances), [gl-dep/acl]() (1; 0% instances), [gl-dep/ccomp]() (1; 0% instances)
 
-Parents of `PROPN` nodes belong to 8 different parts of speech: [NOUN]() (469; 41% instances), [VERB]() (415; 36% instances), [PROPN]() (170; 15% instances), [ROOT]() (39; 3% instances), [PRON]() (25; 2% instances), [ADJ]() (21; 2% instances), [NUM]() (8; 1% instances), [DET]() (1; 0% instances)
+Parents of `PROPN` nodes belong to 9 different parts of speech: [PROPN]() (356; 37% instances), [NOUN]() (291; 31% instances), [VERB]() (247; 26% instances), [ROOT]() (21; 2% instances), [ADJ]() (15; 2% instances), [PRON]() (11; 1% instances), [NUM]() (7; 1% instances), [DET]() (5; 1% instances), [CCONJ]() (1; 0% instances)
 
-286 (25%) `PROPN` nodes are leaves.
+265 (28%) `PROPN` nodes are leaves.
 
-401 (35%) `PROPN` nodes have one child.
+267 (28%) `PROPN` nodes have one child.
 
-287 (25%) `PROPN` nodes have two children.
+221 (23%) `PROPN` nodes have two children.
 
-174 (15%) `PROPN` nodes have three or more children.
+201 (21%) `PROPN` nodes have three or more children.
 
-The highest child degree of a `PROPN` node is 25.
+The highest child degree of a `PROPN` node is 13.
 
-Children of `PROPN` nodes are attached using 21 different relations: [gl-dep/case]() (636; 37% instances), [gl-dep/det]() (364; 21% instances), [gl-dep/punct]() (235; 14% instances), [gl-dep/conj]() (149; 9% instances), [gl-dep/cc]() (90; 5% instances), [gl-dep/nmod]() (83; 5% instances), [gl-dep/appos]() (42; 2% instances), [gl-dep/amod]() (39; 2% instances), [gl-dep/acl]() (24; 1% instances), [gl-dep/advmod]() (21; 1% instances), [gl-dep/advcl]() (5; 0% instances), [gl-dep/cop]() (5; 0% instances), [gl-dep/mark]() (3; 0% instances), [gl-dep/parataxis]() (3; 0% instances), [gl-dep/remnant]() (3; 0% instances), [gl-dep/nummod]() (2; 0% instances), [gl-dep/ccomp]() (1; 0% instances), [gl-dep/expl]() (1; 0% instances), [gl-dep/name]() (1; 0% instances), [gl-dep/nsubj]() (1; 0% instances), [gl-dep/xcomp]() (1; 0% instances)
+Children of `PROPN` nodes are attached using 23 different relations: [gl-dep/case]() (414; 28% instances), [gl-dep/det]() (295; 20% instances), [gl-dep/flat:name]() (196; 13% instances), [gl-dep/punct]() (140; 10% instances), [gl-dep/nmod]() (128; 9% instances), [gl-dep/conj]() (86; 6% instances), [gl-dep/amod]() (78; 5% instances), [gl-dep/cc]() (38; 3% instances), [gl-dep/appos]() (18; 1% instances), [gl-dep/flat]() (16; 1% instances), [gl-dep/advmod]() (14; 1% instances), [gl-dep/acl]() (11; 1% instances), [gl-dep/cop]() (3; 0% instances), [gl-dep/nsubj]() (3; 0% instances), [gl-dep/nummod]() (3; 0% instances), [gl-dep/parataxis]() (3; 0% instances), [gl-dep/advcl]() (2; 0% instances), [gl-dep/mark]() (2; 0% instances), [gl-dep/obj]() (2; 0% instances), [gl-dep/obl]() (2; 0% instances), [gl-dep/expl]() (1; 0% instances), [gl-dep/iobj]() (1; 0% instances), [gl-dep/xcomp]() (1; 0% instances)
 
-Children of `PROPN` nodes belong to 14 different parts of speech: [ADP]() (627; 37% instances), [DET]() (364; 21% instances), [PUNCT]() (235; 14% instances), [PROPN]() (170; 10% instances), [NOUN]() (86; 5% instances), [CONJ]() (84; 5% instances), [ADJ]() (43; 3% instances), [VERB]() (36; 2% instances), [ADV]() (26; 2% instances), [NUM]() (17; 1% instances), [SCONJ]() (16; 1% instances), [PRON]() (3; 0% instances), [SYM]() (1; 0% instances), [X]() (1; 0% instances)
+Children of `PROPN` nodes belong to 13 different parts of speech: [ADP]() (402; 28% instances), [PROPN]() (356; 24% instances), [DET]() (296; 20% instances), [PUNCT]() (140; 10% instances), [NOUN]() (87; 6% instances), [ADJ]() (76; 5% instances), [CCONJ]() (37; 3% instances), [ADV]() (16; 1% instances), [VERB]() (16; 1% instances), [NUM]() (15; 1% instances), [SCONJ]() (8; 1% instances), [PRON]() (5; 0% instances), [AUX]() (3; 0% instances)
 

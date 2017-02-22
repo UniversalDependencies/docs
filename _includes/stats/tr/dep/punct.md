@@ -6,45 +6,41 @@
 
 This relation is universal.
 
-10231 nodes (18%) are attached to their parents as `punct`.
+8460 nodes (18%) are attached to their parents as `punct`.
 
-7600 instances of `punct` (74%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.0887498778223.
+5658 instances of `punct` (67%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.84302600472813.
 
-The following 14 pairs of parts of speech are connected with `punct`: [tr-pos/VERB]()-[tr-pos/PUNCT]() (8410; 82% instances), [tr-pos/NOUN]()-[tr-pos/PUNCT]() (907; 9% instances), [tr-pos/ADJ]()-[tr-pos/PUNCT]() (570; 6% instances), [tr-pos/ADV]()-[tr-pos/PUNCT]() (116; 1% instances), [tr-pos/PRON]()-[tr-pos/PUNCT]() (86; 1% instances), [tr-pos/PROPN]()-[tr-pos/PUNCT]() (53; 1% instances), [tr-pos/INTJ]()-[tr-pos/PUNCT]() (19; 0% instances), [tr-pos/PUNCT]()-[tr-pos/PUNCT]() (18; 0% instances), [tr-pos/CONJ]()-[tr-pos/PUNCT]() (14; 0% instances), [tr-pos/NUM]()-[tr-pos/PUNCT]() (14; 0% instances), [tr-pos/ADP]()-[tr-pos/PUNCT]() (11; 0% instances), [tr-pos/DET]()-[tr-pos/PUNCT]() (9; 0% instances), [tr-pos/AUX]()-[tr-pos/PUNCT]() (2; 0% instances), [tr-pos/X]()-[tr-pos/PUNCT]() (2; 0% instances).
+The following 14 pairs of parts of speech are connected with `punct`: [tr-pos/VERB]()-[tr-pos/PUNCT]() (5398; 64% instances), [tr-pos/NOUN]()-[tr-pos/PUNCT]() (1789; 21% instances), [tr-pos/ADJ]()-[tr-pos/PUNCT]() (714; 8% instances), [tr-pos/PROPN]()-[tr-pos/PUNCT]() (163; 2% instances), [tr-pos/ADV]()-[tr-pos/PUNCT]() (133; 2% instances), [tr-pos/PRON]()-[tr-pos/PUNCT]() (108; 1% instances), [tr-pos/NUM]()-[tr-pos/PUNCT]() (58; 1% instances), [tr-pos/INTJ]()-[tr-pos/PUNCT]() (25; 0% instances), [tr-pos/CCONJ]()-[tr-pos/PUNCT]() (24; 0% instances), [tr-pos/ADP]()-[tr-pos/PUNCT]() (18; 0% instances), [tr-pos/PUNCT]()-[tr-pos/PUNCT]() (18; 0% instances), [tr-pos/DET]()-[tr-pos/PUNCT]() (10; 0% instances), [tr-pos/AUX]()-[tr-pos/PUNCT]() (1; 0% instances), [tr-pos/X]()-[tr-pos/PUNCT]() (1; 0% instances).
 
 
 ~~~ conllu
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 4 punct	color:blue
-1	Bir	bir	NUM	ANum	NumType=Card	2	det	_	_
-2	taksi	taksi	NOUN	Noun	Case=Nom|Number=Sing|Person=3	3	dobj	_	_
-3	bulduk	bul	VERB	Verb	Aspect=Perf|Mood=Ind|Negative=Pos|Number=Plur|Person=1|Tense=Past	0	root	_	_
-4	.	.	PUNCT	Punc	_	3	punct	_	_
+# visual-style 4 5 punct	color:blue
+1	Ama	ama	CCONJ	Conj	_	4	conj	_	_
+2	annemin	anne	NOUN	Noun	Case=Gen|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=1	3	nmod:poss	_	_
+3	şartları	şart	NOUN	Noun	Case=Nom|Number=Plur|Number[psor]=Sing|Person=3|Person[psor]=3	4	nsubj	_	_
+4	vardı	var	VERB	Verb	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Past	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	Punc	_	4	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
-# visual-style 2 3 punct	color:blue
-1	Rokfor'un	Rokfor	PROPN	Prop	Case=Gen|Number=Sing|Person=3	2	nmod:poss	_	_
-2	efsanesi	efsane	NOUN	Noun	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	9	conj	_	_
-3	:	:	PUNCT	Punc	_	2	punct	_	_
-4	Vaktiyle	vakit	NOUN	Noun	Case=Ins|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	9	nmod	_	_
-5	,	,	PUNCT	Punc	_	9	punct	_	_
-6	genç	genç	ADJ	Adj	_	8	amod	_	_
-7	bir	bir	NUM	ANum	NumType=Card	8	det	_	_
-8	çoban	çoban	NOUN	Noun	Case=Nom|Number=Sing|Person=3	9	nsubj	_	_
-9	var	var	ADJ	NAdj	Case=Nom|Number=Sing|Person=3	0	root	_	_
-10	mış	i	AUX	Zero	Aspect=Perf|Evidentiality=Nfh|Mood=Ind|Number=Sing|Person=3|Tense=Past	9	cop	_	_
-11	.	.	PUNCT	Punc	_	9	punct	_	_
+# visual-style 2 1 punct	color:blue
+1	(	(	PUNCT	Punc	_	2	punct	_	SpaceAfter=No
+2	İzninizle	izin	NOUN	Noun	Case=Ins|Number=Sing|Number[psor]=Plur|Person=3|Person[psor]=2	5	conj	_	SpaceAfter=No
+3	,	,	PUNCT	Punc	_	5	punct	_	_
+4	neden	ne	PRON	Ques	Case=Abl|Number=Sing|Person=3	5	obl	_	_
+5	olmasın	ol	VERB	Verb	Aspect=Perf|Mood=Imp|Number=Sing|Person=3|Polarity=Neg|Tense=Pres	0	root	_	SpaceAfter=No
+6	...	...	PUNCT	Punc	_	5	punct	_	_
 
 ~~~
 
@@ -52,20 +48,18 @@ The following 14 pairs of parts of speech are connected with `punct`: [tr-pos/VE
 ~~~ conllu
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 9 5 punct	color:blue
-1	Rokfor'un	Rokfor	PROPN	Prop	Case=Gen|Number=Sing|Person=3	2	nmod:poss	_	_
-2	efsanesi	efsane	NOUN	Noun	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	9	conj	_	_
-3	:	:	PUNCT	Punc	_	2	punct	_	_
-4	Vaktiyle	vakit	NOUN	Noun	Case=Ins|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	9	nmod	_	_
-5	,	,	PUNCT	Punc	_	9	punct	_	_
-6	genç	genç	ADJ	Adj	_	8	amod	_	_
-7	bir	bir	NUM	ANum	NumType=Card	8	det	_	_
-8	çoban	çoban	NOUN	Noun	Case=Nom|Number=Sing|Person=3	9	nsubj	_	_
-9	var	var	ADJ	NAdj	Case=Nom|Number=Sing|Person=3	0	root	_	_
-10	mış	i	AUX	Zero	Aspect=Perf|Evidentiality=Nfh|Mood=Ind|Number=Sing|Person=3|Tense=Past	9	cop	_	_
-11	.	.	PUNCT	Punc	_	9	punct	_	_
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 8 5 punct	color:blue
+1	Herkes	herkes	NOUN	Noun	Case=Nom|Number=Sing|Person=3	4	nsubj	_	_
+2	istediği	iste	VERB	Verb	Aspect=Perf|Mood=Ind|Number[psor]=Sing|Person[psor]=3|Polarity=Pos|Tense=Past|VerbForm=Part	4	advmod:emph	_	_
+3	gibi	gibi	ADP	PCNom	_	2	case	_	_
+4	sevişiyor	seviş	VERB	Verb	Aspect=Prog|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Polite=Infm|Tense=Pres	0	root	_	SpaceAfter=No
+5	,	,	PUNCT	Punc	_	8	punct	_	_
+6	her	her	DET	Det	_	8	nsubj	_	_
+7	şey	şey	NOUN	Noun	Case=Nom|Number=Sing|Person=3	6	compound	_	_
+8	serbest	serbest	ADJ	Adj	_	4	conj	_	SpaceAfter=No
+9	.	.	PUNCT	Punc	_	8	punct	_	_
 
 ~~~
 

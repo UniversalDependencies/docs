@@ -7,12 +7,12 @@
 This relation is universal.
 There are 1 language-specific subtypes of `acl`: [acl:relcl]().
 
-1740 nodes (1%) are attached to their parents as `acl`.
+1642 nodes (1%) are attached to their parents as `acl`.
 
-1723 instances of `acl` (99%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.82873563218391.
+1626 instances of `acl` (99%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.80572472594397.
 
-The following 20 pairs of parts of speech are connected with `acl`: [en-pos/NOUN]()-[en-pos/VERB]() (1534; 88% instances), [en-pos/PRON]()-[en-pos/VERB]() (59; 3% instances), [en-pos/PROPN]()-[en-pos/VERB]() (47; 3% instances), [en-pos/NOUN]()-[en-pos/ADJ]() (27; 2% instances), [en-pos/NOUN]()-[en-pos/NOUN]() (23; 1% instances), [en-pos/ADJ]()-[en-pos/VERB]() (16; 1% instances), [en-pos/NOUN]()-[en-pos/ADV]() (8; 0% instances), [en-pos/NUM]()-[en-pos/VERB]() (4; 0% instances), [en-pos/VERB]()-[en-pos/VERB]() (4; 0% instances), [en-pos/NOUN]()-[en-pos/PROPN]() (3; 0% instances), [en-pos/VERB]()-[en-pos/NOUN]() (3; 0% instances), [en-pos/NOUN]()-[en-pos/ADP]() (2; 0% instances), [en-pos/PRON]()-[en-pos/ADJ]() (2; 0% instances), [en-pos/SYM]()-[en-pos/VERB]() (2; 0% instances), [en-pos/ADP]()-[en-pos/NOUN]() (1; 0% instances), [en-pos/ADV]()-[en-pos/VERB]() (1; 0% instances), [en-pos/NOUN]()-[en-pos/PRON]() (1; 0% instances), [en-pos/PROPN]()-[en-pos/NOUN]() (1; 0% instances), [en-pos/SCONJ]()-[en-pos/VERB]() (1; 0% instances), [en-pos/VERB]()-[en-pos/ADJ]() (1; 0% instances).
+The following 18 pairs of parts of speech are connected with `acl`: [en-pos/NOUN]()-[en-pos/VERB]() (1450; 88% instances), [en-pos/PRON]()-[en-pos/VERB]() (57; 3% instances), [en-pos/PROPN]()-[en-pos/VERB]() (46; 3% instances), [en-pos/NOUN]()-[en-pos/ADJ]() (26; 2% instances), [en-pos/NOUN]()-[en-pos/NOUN]() (16; 1% instances), [en-pos/ADJ]()-[en-pos/VERB]() (15; 1% instances), [en-pos/NOUN]()-[en-pos/ADV]() (8; 0% instances), [en-pos/NOUN]()-[en-pos/PROPN]() (4; 0% instances), [en-pos/VERB]()-[en-pos/VERB]() (4; 0% instances), [en-pos/DET]()-[en-pos/VERB]() (3; 0% instances), [en-pos/NUM]()-[en-pos/VERB]() (3; 0% instances), [en-pos/NOUN]()-[en-pos/ADP]() (2; 0% instances), [en-pos/PRON]()-[en-pos/ADJ]() (2; 0% instances), [en-pos/VERB]()-[en-pos/NOUN]() (2; 0% instances), [en-pos/ADP]()-[en-pos/NOUN]() (1; 0% instances), [en-pos/ADV]()-[en-pos/VERB]() (1; 0% instances), [en-pos/SYM]()-[en-pos/VERB]() (1; 0% instances), [en-pos/VERB]()-[en-pos/ADJ]() (1; 0% instances).
 
 
 ~~~ conllu
@@ -25,7 +25,7 @@ The following 20 pairs of parts of speech are connected with `acl`: [en-pos/NOUN
 2	opinions	opinion	NOUN	NNS	Number=Plur	7	nsubj	_	_
 3	expressed	express	VERB	VBN	Tense=Past|VerbForm=Part	2	acl	_	_
 4	herein	herein	ADV	RB	_	3	advmod	_	_
-5	are	be	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	7	cop	_	_
+5	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	7	cop	_	_
 6	solely	solely	ADV	RB	_	7	advmod	_	_
 7	those	those	PRON	DT	Number=Plur|PronType=Dem	0	root	_	_
 8	of	of	ADP	IN	_	10	case	_	_
@@ -43,7 +43,7 @@ The following 20 pairs of parts of speech are connected with `acl`: [en-pos/NOUN
 # visual-style 1	fgColor:white
 # visual-style 1 9 acl	color:blue
 1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	_
-2	was	be	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	cop	_	_
+2	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	cop	_	_
 3	on	on	ADP	IN	_	5	case	_	_
 4	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	5	nmod:poss	_	_
 5	way	way	NOUN	NN	Number=Sing	0	root	_	_
@@ -51,7 +51,7 @@ The following 20 pairs of parts of speech are connected with `acl`: [en-pos/NOUN
 7	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	8	nmod:poss	_	_
 8	wedding	wedding	NOUN	NN	Number=Sing	5	nmod	_	_
 9	fearing	fear	VERB	VBG	VerbForm=Ger	1	acl	_	_
-10	death	death	NOUN	NN	Number=Sing	9	dobj	_	SpaceAfter=No
+10	death	death	NOUN	NN	Number=Sing	9	obj	_	SpaceAfter=No
 11	,	,	PUNCT	,	_	9	punct	_	_
 12	basically	basically	ADV	RB	_	9	advmod	_	SpaceAfter=No
 13	.	.	PUNCT	.	_	5	punct	_	SpaceAfter=No
@@ -61,23 +61,15 @@ The following 20 pairs of parts of speech are connected with `acl`: [en-pos/NOUN
 
 
 ~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 7 acl	color:blue
-1	Umar	Umar	PROPN	NNP	Number=Sing	2	compound	_	_
-2	Islam	Islam	PROPN	NNP	Number=Sing	0	root	_	SpaceAfter=No
-3	,	,	PUNCT	,	_	2	punct	_	_
-4	28	28	NUM	CD	NumType=Card	2	list	_	SpaceAfter=No
-5	,	,	PUNCT	,	_	2	punct	_	_
-6	(	(	PUNCT	-LRB-	_	7	punct	_	SpaceAfter=No
-7	born	bear	VERB	VBN	Tense=Past|VerbForm=Part	2	acl	_	_
-8	Brian	Brian	PROPN	NNP	Number=Sing	9	name	_	_
-9	Young	Young	PROPN	NNP	Number=Sing	7	xcomp	_	SpaceAfter=No
-10	)	)	PUNCT	-RRB-	_	7	punct	_	_
-11	High	High	PROPN	NNP	Number=Sing	12	compound	_	_
-12	Wycombe	Wycombe	PROPN	NNP	Number=Sing	2	list	_	_
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 4 acl	color:blue
+1	IAEA	IAEA	PROPN	NNP	Number=Sing	2	compound	_	_
+2	Report	report	NOUN	NN	Number=Sing	0	root	_	_
+3	Lessons	Lessons	PROPN	NNPS	Number=Plur	2	appos	_	_
+4	learned	learn	VERB	VBN	Tense=Past|VerbForm=Part	3	acl	_	_
 
 ~~~
 
@@ -91,12 +83,12 @@ The following 20 pairs of parts of speech are connected with `acl`: [en-pos/NOUN
 This relation is universal.
 There are 1 language-specific subtypes of `acl`: [acl:relcl]().
 
-506 nodes (1%) are attached to their parents as `acl`.
+460 nodes (1%) are attached to their parents as `acl`.
 
-502 instances of `acl` (99%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.56324110671937.
+456 instances of `acl` (99%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.56521739130435.
 
-The following 13 pairs of parts of speech are connected with `acl`: [en-pos/NOUN]()-[en-pos/VERB]() (439; 87% instances), [en-pos/PRON]()-[en-pos/VERB]() (28; 6% instances), [en-pos/NOUN]()-[en-pos/ADJ]() (10; 2% instances), [en-pos/NOUN]()-[en-pos/NOUN]() (10; 2% instances), [en-pos/ADJ]()-[en-pos/VERB]() (5; 1% instances), [en-pos/PROPN]()-[en-pos/VERB]() (4; 1% instances), [en-pos/ADV]()-[en-pos/VERB]() (2; 0% instances), [en-pos/NUM]()-[en-pos/VERB]() (2; 0% instances), [en-pos/PRON]()-[en-pos/ADJ]() (2; 0% instances), [en-pos/DET]()-[en-pos/VERB]() (1; 0% instances), [en-pos/NOUN]()-[en-pos/ADV]() (1; 0% instances), [en-pos/NOUN]()-[en-pos/PRON]() (1; 0% instances), [en-pos/NOUN]()-[en-pos/SCONJ]() (1; 0% instances).
+The following 12 pairs of parts of speech are connected with `acl`: [en-pos/NOUN]()-[en-pos/VERB]() (399; 87% instances), [en-pos/PRON]()-[en-pos/VERB]() (27; 6% instances), [en-pos/NOUN]()-[en-pos/ADJ]() (10; 2% instances), [en-pos/NOUN]()-[en-pos/NOUN]() (9; 2% instances), [en-pos/ADJ]()-[en-pos/VERB]() (4; 1% instances), [en-pos/PROPN]()-[en-pos/VERB]() (3; 1% instances), [en-pos/NUM]()-[en-pos/VERB]() (2; 0% instances), [en-pos/PRON]()-[en-pos/ADJ]() (2; 0% instances), [en-pos/ADV]()-[en-pos/VERB]() (1; 0% instances), [en-pos/NOUN]()-[en-pos/ADV]() (1; 0% instances), [en-pos/NOUN]()-[en-pos/PRON]() (1; 0% instances), [en-pos/NOUN]()-[en-pos/SCONJ]() (1; 0% instances).
 
 
 ~~~ conllu
@@ -155,44 +147,21 @@ The following 13 pairs of parts of speech are connected with `acl`: [en-pos/NOUN
 
 
 ~~~ conllu
-# visual-style 13	bgColor:blue
-# visual-style 13	fgColor:white
-# visual-style 11	bgColor:blue
-# visual-style 11	fgColor:white
-# visual-style 11 13 acl	color:blue
-1	_	_	ADV	RB	_	4	advmod	_	_
-2	_	_	PUNCT	,	_	4	punct	_	_
-3	_	_	PRON	PRP	_	4	nsubj	_	_
-4	_	_	VERB	VBP	_	0	root	_	_
-5	_	_	PRON	PRP	_	9	expl	_	_
-6	_	_	VERB	VBZ	_	9	cop	_	_
-7	_	_	DET	DT	_	9	det	_	_
-8	_	_	ADJ	JJ	_	9	amod	_	_
-9	_	_	NOUN	NN	_	4	ccomp	_	_
-10	_	_	DET	DT	_	11	det	_	_
-11	_	_	NOUN	NN	_	9	appos	_	_
-12	_	_	PART	TO	_	13	mark	_	_
-13	_	_	NOUN	NN	_	11	acl	_	_
-14	_	_	ADJ	JJ	_	16	amod	_	_
-15	_	_	NUM	CD	_	16	nummod	_	_
-16	_	_	NOUN	NN	_	13	dobj	_	_
-17	_	_	ADP	IN	_	20	case	_	_
-18	_	_	DET	PDT	_	20	det:predet	_	_
-19	_	_	DET	DT	_	20	det	_	_
-20	_	_	NOUN	NNS	_	13	nmod	_	_
-21	_	_	SCONJ	IN	_	24	mark	_	_
-22	_	_	PRON	PRP	_	24	nsubj	_	_
-23	_	_	ADV	RB	_	24	advmod	_	_
-24	_	_	VERB	VBD	_	4	advcl	_	_
-25	_	_	DET	DT	_	26	det	_	_
-26	_	_	NOUN	NN	_	24	dobj	_	_
-27	_	_	VERB	VBG	_	24	advcl	_	_
-28	_	_	CONJ	CC	_	27	cc	_	_
-29	_	_	VERB	VBG	_	27	conj	_	_
-30	_	_	DET	DT	_	27	dobj	_	_
-31	_	_	ADP	IN	_	32	case	_	_
-32	_	_	PRON	PRP	_	30	nmod	_	_
-33	_	_	PUNCT	.	_	4	punct	_	_
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 9 acl	color:blue
+1	_	_	PRON	DT	_	4	nsubj	_	_
+2	_	_	VERB	VBZ	_	4	cop	_	_
+3	_	_	DET	DT	_	4	det	_	_
+4	_	_	NOUN	NN	_	0	root	_	_
+5	_	_	SCONJ	IN	_	9	mark	_	_
+6	_	_	NOUN	NN	_	9	nsubj	_	_
+7	_	_	VERB	VBZ	_	9	cop	_	_
+8	_	_	PART	RB	_	9	neg	_	_
+9	_	_	ADJ	JJ	_	4	acl	_	_
+10	_	_	PUNCT	.	_	4	punct	_	_
 
 ~~~
 
@@ -206,55 +175,51 @@ The following 13 pairs of parts of speech are connected with `acl`: [en-pos/NOUN
 This relation is universal.
 There are 1 language-specific subtypes of `acl`: [acl:relcl]().
 
-501 nodes (1%) are attached to their parents as `acl`.
+417 nodes (1%) are attached to their parents as `acl`.
 
-501 instances of `acl` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.18163672654691.
+417 instances of `acl` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 3.27098321342926.
 
-The following 28 pairs of parts of speech are connected with `acl`: [en-pos/NOUN]()-[en-pos/VERB]() (236; 47% instances), [en-pos/ADJ]()-[en-pos/VERB]() (109; 22% instances), [en-pos/ADV]()-[en-pos/VERB]() (43; 9% instances), [en-pos/PRON]()-[en-pos/VERB]() (40; 8% instances), [en-pos/NOUN]()-[en-pos/ADP]() (21; 4% instances), [en-pos/NOUN]()-[en-pos/ADJ]() (9; 2% instances), [en-pos/NOUN]()-[en-pos/NOUN]() (5; 1% instances), [en-pos/VERB]()-[en-pos/VERB]() (5; 1% instances), [en-pos/ADJ]()-[en-pos/ADJ]() (4; 1% instances), [en-pos/ADV]()-[en-pos/AUX]() (4; 1% instances), [en-pos/ADP]()-[en-pos/VERB]() (3; 1% instances), [en-pos/PRON]()-[en-pos/ADP]() (3; 1% instances), [en-pos/ADJ]()-[en-pos/ADP]() (2; 0% instances), [en-pos/NUM]()-[en-pos/VERB]() (2; 0% instances), [en-pos/PROPN]()-[en-pos/VERB]() (2; 0% instances), [en-pos/ADJ]()-[en-pos/AUX]() (1; 0% instances), [en-pos/ADJ]()-[en-pos/NOUN]() (1; 0% instances), [en-pos/ADP]()-[en-pos/ADJ]() (1; 0% instances), [en-pos/ADP]()-[en-pos/ADP]() (1; 0% instances), [en-pos/ADV]()-[en-pos/ADP]() (1; 0% instances), [en-pos/DET]()-[en-pos/ADP]() (1; 0% instances), [en-pos/NOUN]()-[en-pos/ADV]() (1; 0% instances), [en-pos/NOUN]()-[en-pos/AUX]() (1; 0% instances), [en-pos/PRON]()-[en-pos/ADJ]() (1; 0% instances), [en-pos/PROPN]()-[en-pos/ADJ]() (1; 0% instances), [en-pos/PUNCT]()-[en-pos/ADP]() (1; 0% instances), [en-pos/VERB]()-[en-pos/ADJ]() (1; 0% instances), [en-pos/VERB]()-[en-pos/NOUN]() (1; 0% instances).
+The following 27 pairs of parts of speech are connected with `acl`: [en-pos/NOUN]()-[en-pos/VERB]() (196; 47% instances), [en-pos/ADJ]()-[en-pos/VERB]() (90; 22% instances), [en-pos/ADV]()-[en-pos/VERB]() (41; 10% instances), [en-pos/PRON]()-[en-pos/VERB]() (28; 7% instances), [en-pos/NOUN]()-[en-pos/ADP]() (18; 4% instances), [en-pos/NOUN]()-[en-pos/ADJ]() (6; 1% instances), [en-pos/VERB]()-[en-pos/VERB]() (5; 1% instances), [en-pos/ADJ]()-[en-pos/ADJ]() (4; 1% instances), [en-pos/NOUN]()-[en-pos/NOUN]() (4; 1% instances), [en-pos/ADV]()-[en-pos/AUX]() (3; 1% instances), [en-pos/ADJ]()-[en-pos/ADP]() (2; 0% instances), [en-pos/ADP]()-[en-pos/VERB]() (2; 0% instances), [en-pos/NUM]()-[en-pos/VERB]() (2; 0% instances), [en-pos/PRON]()-[en-pos/ADP]() (2; 0% instances), [en-pos/PROPN]()-[en-pos/VERB]() (2; 0% instances), [en-pos/ADJ]()-[en-pos/AUX]() (1; 0% instances), [en-pos/ADJ]()-[en-pos/NOUN]() (1; 0% instances), [en-pos/ADP]()-[en-pos/ADJ]() (1; 0% instances), [en-pos/ADP]()-[en-pos/ADP]() (1; 0% instances), [en-pos/ADV]()-[en-pos/ADP]() (1; 0% instances), [en-pos/DET]()-[en-pos/ADP]() (1; 0% instances), [en-pos/NOUN]()-[en-pos/ADV]() (1; 0% instances), [en-pos/NOUN]()-[en-pos/AUX]() (1; 0% instances), [en-pos/PROPN]()-[en-pos/ADJ]() (1; 0% instances), [en-pos/PUNCT]()-[en-pos/ADP]() (1; 0% instances), [en-pos/VERB]()-[en-pos/ADJ]() (1; 0% instances), [en-pos/VERB]()-[en-pos/NOUN]() (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 11	bgColor:blue
-# visual-style 11	fgColor:white
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 9 11 acl	color:blue
-1	I	_	PRON	PERS-P1SG-NOM	_	3	nsubj	_	_
-2	'm	_	AUX	PRES-AUX	_	3	aux	_	_
-3	looking	_	VERB	ING	_	0	root	_	_
-4	after	_	ADV	_	_	3	nmod	_	_
-5	Colonel	_	NOUN	SG	_	6	compound	_	_
-6	Bray	_	PROPN	SG	_	3	nmod	_	_
-7	,	_	PUNCT	Comma	_	3	punct	_	_
-8	no	_	DET	NEG	_	9	neg	_	_
-9	need	_	NOUN	SG	_	3	nmod	_	_
-10	to	_	PART	_	_	11	mark	_	_
-11	bother	_	VERB	INF	_	9	acl	_	_
-12	him	_	PRON	PERS-P3SG-ACC	_	11	dobj	_	_
-13	.	_	PUNCT	Period	_	3	punct	_	_
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 6 acl	color:blue
+1	Click	_	VERB	IMP	_	0	root	_	_
+2	the	_	DET	DEF	_	4	det	_	_
+3	blue	_	ADJ	POS	_	4	amod	_	_
+4	arrow	_	NOUN	SG-NOM	_	1	obj	_	_
+5	to	_	PART	_	_	6	mark	_	_
+6	see	_	VERB	INF	_	4	acl	_	_
+7	the	_	DET	DEF	_	8	det	_	_
+8	filter	_	NOUN	SG-NOM	_	6	obj	_	_
+9	that	_	SCONJ	REL	_	10	mark	_	_
+10	is	_	VERB	PRES	_	8	acl:relcl	_	_
+11	in	_	ADP	_	_	12	case	_	_
+12	effect	_	NOUN	SG-NOM	_	10	obl	_	SpaceAfter=No
+13	.	_	PUNCT	Period	_	1	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 11	bgColor:blue
-# visual-style 11	fgColor:white
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
-# visual-style 7 11 acl	color:blue
-1	He	_	PRON	PERS-P3SG-NOM	_	2	nsubj	_	_
-2	slammed	_	VERB	PAST	_	0	root	_	_
-3	the	_	DET	DEF	_	4	det	_	_
-4	receiver	_	NOUN	SG	_	2	dobj	_	_
-5	down	_	ADV	_	_	2	advmod	_	_
-6	so	_	ADV	_	_	7	advmod	_	_
-7	hard	_	ADJ	POS	_	2	advmod	_	_
-8	that	_	SCONJ	_	_	11	mark	_	_
-9	the	_	DET	DEF	_	10	det	_	_
-10	plastic	_	NOUN	SG	_	11	nsubj	_	_
-11	cracked	_	VERB	PAST	_	7	acl	_	_
-12	.	_	PUNCT	Period	_	2	punct	_	_
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 7 acl	color:blue
+1	Nevertheless	_	ADV	_	_	5	advmod	_	SpaceAfter=No
+2	,	_	PUNCT	Comma	_	1	punct	_	_
+3	he	_	PRON	PERS-P3SG-NOM	_	5	nsubj	_	_
+4	was	_	AUX	PAST	_	5	cop	_	_
+5	reluctant	_	ADJ	POS	_	0	root	_	_
+6	to	_	PART	_	_	7	mark	_	_
+7	move	_	VERB	INF	_	5	acl	_	SpaceAfter=No
+8	.	_	PUNCT	Period	_	5	punct	_	_
 
 ~~~
 
@@ -270,10 +235,93 @@ The following 28 pairs of parts of speech are connected with `acl`: [en-pos/NOUN
 3	as	_	SCONJ	_	_	5	mark	_	_
 4	they	_	PRON	PERS-PL-NOM	_	5	nsubj	_	_
 5	leave	_	VERB	PRES	_	2	acl	_	_
-6	they	_	PRON	PERS-PL-NOM	_	8	nsubjpass	_	_
-7	are	_	AUX	PRES-AUX	_	8	auxpass	_	_
-8	forgotten	_	VERB	PASS	_	0	root	_	_
+6	they	_	PRON	PERS-PL-NOM	_	8	nsubj:pass	_	_
+7	are	_	AUX	PRES-AUX	_	8	aux	_	_
+8	forgotten	_	VERB	PASS	_	0	root	_	SpaceAfter=No
 9	.	_	PUNCT	Period	_	8	punct	_	_
+
+~~~
+
+
+
+
+--------------------------------------------------------------------------------
+
+## Treebank Statistics (UD_English-ParTUT)
+
+This relation is universal.
+There are 1 language-specific subtypes of `acl`: [acl:relcl]().
+
+632 nodes (2%) are attached to their parents as `acl`.
+
+468 instances of `acl` (74%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.52848101265823.
+
+The following 8 pairs of parts of speech are connected with `acl`: [en-pos/NOUN]()-[en-pos/VERB]() (596; 94% instances), [en-pos/NOUN]()-[en-pos/ADJ]() (10; 2% instances), [en-pos/NOUN]()-[en-pos/NOUN]() (10; 2% instances), [en-pos/PRON]()-[en-pos/VERB]() (8; 1% instances), [en-pos/PROPN]()-[en-pos/VERB]() (5; 1% instances), [en-pos/NOUN]()-[en-pos/ADV]() (1; 0% instances), [en-pos/NOUN]()-[en-pos/PRON]() (1; 0% instances), [en-pos/PRON]()-[en-pos/ADJ]() (1; 0% instances).
+
+
+~~~ conllu
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 7 acl	color:blue
+1	the	the	DET	RD	Definite=Def|PronType=Art	2	det	_	_
+2	title	title	NOUN	S	Number=Sing	0	root	_	_
+3	of	of	ADP	E	_	5	case	_	_
+4	the	the	DET	RD	Definite=Def|PronType=Art	5	det	_	_
+5	Work	work	NOUN	S	Number=Sing	2	nmod	_	_
+6	if	if	SCONJ	CS	_	7	mark	_	_
+7	supplied	supply	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	2	acl	_	SpaceAfter=No
+8	;	;	PUNCT	FC	_	2	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 5 acl	color:blue
+1	All	all	DET	T	PronType=Tot	2	det	_	_
+2	children	child	NOUN	S	Gender=Masc|Number=Plur	13	nsubj	_	SpaceAfter=No
+3	,	,	PUNCT	FF	_	2	punct	_	_
+4	whether	whether	SCONJ	CS	_	5	mark	_	_
+5	born	born	ADJ	A	Degree=Pos	2	acl	_	_
+6	in	in	ADP	E	_	10	case	_	_
+7	or	or	CCONJ	CC	_	8	cc	_	_
+8	out	out	ADP	E	_	6	conj	_	_
+9	of	of	ADP	E	_	10	case	_	_
+10	wedlock	wedlock	NOUN	S	Gender=Fem|Number=Sing	5	obl	_	SpaceAfter=No
+11	,	,	PUNCT	FF	_	5	punct	_	_
+12	shall	shall	AUX	VM	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	13	aux	_	_
+13	enjoy	enjoy	VERB	V	VerbForm=Inf	0	root	_	_
+14	the	the	DET	RD	Definite=Def|PronType=Art	17	det	_	_
+15	same	same	ADJ	A	Degree=Pos	17	amod	_	_
+16	social	social	ADJ	A	Degree=Pos	17	amod	_	_
+17	protection	protection	NOUN	S	Number=Sing	13	obj	_	SpaceAfter=No
+18	.	.	PUNCT	FS	_	13	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 9 acl	color:blue
+1	"	"	PUNCT	FB	_	3	punct	_	SpaceAfter=No
+2	He	he	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+3	announced	announce	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+4	his	his	DET	AP	Poss=Yes|PronType=Prs	5	nmod:poss	_	_
+5	intention	intention	NOUN	S	Number=Sing	3	obj	_	_
+6	to	to	PART	PART	_	9	mark	_	_
+7	be	be	AUX	VA	VerbForm=Inf	9	cop	_	_
+8	a	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	9	det	_	_
+9	writer	writer	NOUN	S	Number=Sing	5	acl	_	SpaceAfter=No
+10	.	.	PUNCT	FS	_	3	punct	_	_
 
 ~~~
 

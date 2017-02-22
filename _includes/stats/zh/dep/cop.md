@@ -6,12 +6,12 @@
 
 This relation is universal.
 
-1803 nodes (1%) are attached to their parents as `cop`.
+1613 nodes (1%) are attached to their parents as `cop`.
 
-1802 instances of `cop` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 5.10981697171381.
+1612 instances of `cop` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 5.13949163050217.
 
-The following 9 pairs of parts of speech are connected with `cop`: [zh-pos/NOUN]()-[zh-pos/VERB]() (1181; 66% instances), [zh-pos/PART]()-[zh-pos/VERB]() (247; 14% instances), [zh-pos/ADJ]()-[zh-pos/VERB]() (193; 11% instances), [zh-pos/NUM]()-[zh-pos/VERB]() (93; 5% instances), [zh-pos/PROPN]()-[zh-pos/VERB]() (54; 3% instances), [zh-pos/X]()-[zh-pos/VERB]() (17; 1% instances), [zh-pos/VERB]()-[zh-pos/VERB]() (9; 0% instances), [zh-pos/ADJ]()-[zh-pos/ADJ]() (8; 0% instances), [zh-pos/PRON]()-[zh-pos/VERB]() (1; 0% instances).
+The following 9 pairs of parts of speech are connected with `cop`: [zh-pos/NOUN]()-[zh-pos/AUX]() (1047; 65% instances), [zh-pos/PART]()-[zh-pos/AUX]() (226; 14% instances), [zh-pos/ADJ]()-[zh-pos/AUX]() (172; 11% instances), [zh-pos/NUM]()-[zh-pos/AUX]() (89; 6% instances), [zh-pos/PROPN]()-[zh-pos/AUX]() (45; 3% instances), [zh-pos/X]()-[zh-pos/AUX]() (16; 1% instances), [zh-pos/VERB]()-[zh-pos/AUX]() (9; 1% instances), [zh-pos/ADJ]()-[zh-pos/ADJ]() (8; 0% instances), [zh-pos/PRON]()-[zh-pos/AUX]() (1; 0% instances).
 
 
 ~~~ conllu
@@ -20,18 +20,18 @@ The following 9 pairs of parts of speech are connected with `cop`: [zh-pos/NOUN]
 # visual-style 11	bgColor:blue
 # visual-style 11	fgColor:white
 # visual-style 11 7 cop	color:blue
-1	大	_	ADV	RB	_	2	advmod	_	_
-2	多數	_	ADJ	JJ	_	6	det	_	_
-3	的	_	PART	DEC	Case=Gen	2	case:dec	_	_
-4	加長	_	VERB	VV	_	5	case:suff	_	_
-5	型	_	PART	SFN	_	6	nmod	_	_
-6	禮車	_	NOUN	NN	_	11	nsubj	_	_
-7	則是	_	VERB	VC	_	11	cop	_	_
-8	租車	_	NOUN	NN	_	9	nmod	_	_
-9	公司	_	NOUN	NN	_	11	det	_	_
-10	的	_	PART	DEC	Case=Gen	9	case:dec	_	_
-11	財產	_	NOUN	NN	_	0	root	_	_
-12	.	_	PUNCT	.	_	11	punct	_	_
+1	大	大	ADV	RB	_	2	advmod	_	SpaceAfter=No
+2	多數	多數	ADJ	JJ	_	6	det	_	SpaceAfter=No
+3	的	的	PART	DEC	Case=Gen	2	case:dec	_	SpaceAfter=No
+4	加長	加長	VERB	VV	_	5	case:suff	_	SpaceAfter=No
+5	型	型	PART	SFN	_	6	nmod	_	SpaceAfter=No
+6	禮車	禮車	NOUN	NN	_	11	nsubj	_	SpaceAfter=No
+7	則是	則是	AUX	VC	_	11	cop	_	SpaceAfter=No
+8	租車	租車	NOUN	NN	_	9	nmod	_	SpaceAfter=No
+9	公司	公司	NOUN	NN	_	11	det	_	SpaceAfter=No
+10	的	的	PART	DEC	Case=Gen	9	case:dec	_	SpaceAfter=No
+11	財產	財產	NOUN	NN	_	0	root	_	SpaceAfter=No
+12	.	.	PUNCT	.	_	11	punct	_	SpaceAfter=No
 
 ~~~
 
@@ -42,25 +42,25 @@ The following 9 pairs of parts of speech are connected with `cop`: [zh-pos/NOUN]
 # visual-style 11	bgColor:blue
 # visual-style 11	fgColor:white
 # visual-style 11 9 cop	color:blue
-1	山上	_	NOUN	NN	_	2	nsubj	_	_
-2	有	_	VERB	VV	_	18	dep	_	_
-3	一	_	NUM	CD	_	4	nummod	_	_
-4	座	_	NOUN	NNB	_	6	nmod	_	_
-5	小	_	PART	PFA	_	6	case:pref	_	_
-6	亭	_	NOUN	NN	_	2	dobj	_	_
-7	,	_	PUNCT	,	_	18	punct	_	_
-8	名	_	NOUN	NN	_	11	nsubj	_	_
-9	為	_	VERB	VC	_	11	cop	_	_
-10	浴日	_	PROPN	NNP	_	11	case:suff	_	_
-11	亭	_	PART	SFN	_	18	dep	_	_
-12	,	_	PUNCT	,	_	18	punct	_	_
-13	是	_	VERB	VC	_	18	cop	_	_
-14	觀望	_	VERB	VV	_	18	acl:relcl	_	_
-15	海上	_	NOUN	NN	_	16	nmod	_	_
-16	日出	_	NOUN	NN	_	14	dobj	_	_
-17	之	_	PART	DEC	Case=Rel	14	acl:relcl	_	_
-18	地	_	NOUN	NN	_	0	root	_	_
-19	.	_	PUNCT	.	_	18	punct	_	_
+1	山上	山上	NOUN	NN	_	2	nsubj	_	SpaceAfter=No
+2	有	有	VERB	VV	_	18	dep	_	SpaceAfter=No
+3	一	一	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No
+4	座	座	NOUN	NNB	_	6	clf	_	SpaceAfter=No
+5	小	小	PART	PFA	_	6	case:pref	_	SpaceAfter=No
+6	亭	亭	NOUN	NN	_	2	obj	_	SpaceAfter=No
+7	,	,	PUNCT	,	_	18	punct	_	SpaceAfter=No
+8	名	名	NOUN	NN	_	11	nsubj	_	SpaceAfter=No
+9	為	為	AUX	VC	_	11	cop	_	SpaceAfter=No
+10	浴日	浴日	PROPN	NNP	_	11	case:suff	_	SpaceAfter=No
+11	亭	亭	PART	SFN	_	18	dep	_	SpaceAfter=No
+12	,	,	PUNCT	,	_	18	punct	_	SpaceAfter=No
+13	是	是	AUX	VC	_	18	cop	_	SpaceAfter=No
+14	觀望	觀望	VERB	VV	_	18	acl:relcl	_	SpaceAfter=No
+15	海上	海上	NOUN	NN	_	16	nmod	_	SpaceAfter=No
+16	日出	日出	NOUN	NN	_	14	obj	_	SpaceAfter=No
+17	之	之	PART	DEC	_	14	mark:relcl	_	SpaceAfter=No
+18	地	地	NOUN	NN	_	0	root	_	SpaceAfter=No
+19	.	.	PUNCT	.	_	18	punct	_	SpaceAfter=No
 
 ~~~
 
@@ -71,29 +71,29 @@ The following 9 pairs of parts of speech are connected with `cop`: [zh-pos/NOUN]
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
 # visual-style 8 7 cop	color:blue
-1	北極	_	PROPN	NNP	_	3	nmod	_	_
-2	土著	_	NOUN	NN	_	3	nmod	_	_
-3	民族	_	NOUN	NN	_	8	nsubj	_	_
-4	一直	_	ADV	RB	_	8	advmod	_	_
-5	與	_	ADP	IN	_	6	case	_	_
-6	外界	_	NOUN	NN	_	8	nmod	_	_
-7	接觸	_	VERB	VV	_	8	cop	_	_
-8	甚少	_	ADJ	JJ	_	19	dep	_	_
-9	,	_	PUNCT	,	_	19	punct	_	_
-10	直到	_	ADP	IN	_	11	case	_	_
-11	現代	_	NOUN	NN	_	19	nmod	_	_
-12	,	_	PUNCT	,	_	19	punct	_	_
-13	與	_	ADP	IN	_	17	det	_	_
-14	其他	_	DET	DT	_	15	det	_	_
-15	地區	_	NOUN	NN	_	13	nmod	_	_
-16	的	_	PART	DEC	Case=Gen	13	case:dec	_	_
-17	交流	_	NOUN	NN	_	19	nsubj	_	_
-18	才	_	ADV	RB	_	19	mark	_	_
-19	開始	_	VERB	VV	_	0	root	_	_
-20	變	_	VERB	VV	_	22	cop	_	_
-21	得	_	PART	DEV	Case=Comp	22	mark	_	_
-22	頻繁	_	ADJ	JJ	_	19	xcomp	_	_
-23	.	_	PUNCT	.	_	19	punct	_	_
+1	北極	北極	PROPN	NNP	_	3	nmod	_	SpaceAfter=No
+2	土著	土著	NOUN	NN	_	3	nmod	_	SpaceAfter=No
+3	民族	民族	NOUN	NN	_	8	nsubj	_	SpaceAfter=No
+4	一直	一直	ADV	RB	_	8	advmod	_	SpaceAfter=No
+5	與	與	ADP	IN	_	6	case	_	SpaceAfter=No
+6	外界	外界	NOUN	NN	_	8	nmod	_	SpaceAfter=No
+7	接觸	接觸	AUX	VV	_	8	cop	_	SpaceAfter=No
+8	甚少	甚少	ADJ	JJ	_	19	dep	_	SpaceAfter=No
+9	,	,	PUNCT	,	_	19	punct	_	SpaceAfter=No
+10	直到	直到	ADP	IN	_	11	case	_	SpaceAfter=No
+11	現代	現代	NOUN	NN	_	19	obl	_	SpaceAfter=No
+12	,	,	PUNCT	,	_	19	punct	_	SpaceAfter=No
+13	與	與	ADP	IN	_	17	det	_	SpaceAfter=No
+14	其他	其他	DET	DT	_	15	det	_	SpaceAfter=No
+15	地區	地區	NOUN	NN	_	13	nmod	_	SpaceAfter=No
+16	的	的	PART	DEC	Case=Gen	13	case:dec	_	SpaceAfter=No
+17	交流	交流	NOUN	NN	_	19	nsubj	_	SpaceAfter=No
+18	才	才	ADV	RB	_	19	mark	_	SpaceAfter=No
+19	開始	開始	VERB	VV	_	0	root	_	SpaceAfter=No
+20	變	變	AUX	VV	_	22	cop	_	SpaceAfter=No
+21	得	得	PART	DEV	_	22	mark:comp	_	SpaceAfter=No
+22	頻繁	頻繁	ADJ	JJ	_	19	xcomp	_	SpaceAfter=No
+23	.	.	PUNCT	.	_	19	punct	_	SpaceAfter=No
 
 ~~~
 

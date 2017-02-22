@@ -7,22 +7,25 @@
 This feature is language-specific.
 It occurs with 3 different values: `1`, `2`, `3`.
 
-580 tokens (0%) have a non-empty value of `NumValue`.
-44 types (0%) occur at least once with a non-empty value of `NumValue`.
-10 lemmas (0%) occur at least once with a non-empty value of `NumValue`.
-The feature is used with 1 part-of-speech tags: [ar-pos/NUM]() (580; 0% instances).
+492 tokens (0%) have a non-empty value of `NumValue`.
+41 types (0%) occur at least once with a non-empty value of `NumValue`.
+9 lemmas (0%) occur at least once with a non-empty value of `NumValue`.
+The feature is used with 1 part-of-speech tags: [ar-pos/NUM]() (492; 0% instances).
 
 ### `NUM`
 
-580 [ar-pos/NUM]() tokens (7% of all `NUM` tokens) have a non-empty value of `NumValue`.
+492 [ar-pos/NUM]() tokens (7% of all `NUM` tokens) have a non-empty value of `NumValue`.
 
-The most frequent other feature values with which `NUM` and `NumValue` co-occurred: <tt><a href="NumForm.html">NumForm</a>=Word</tt> (580; 100%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (580; 100%), <tt><a href="Definite.html">Definite</a>=Red</tt> (339; 58%), <tt><a href="Case.html">Case</a>=Gen</tt> (336; 58%).
+The most frequent other feature values with which `NUM` and `NumValue` co-occurred: <tt><a href="NumForm.html">NumForm</a>=Word</tt> (492; 100%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (492; 100%), <tt><a href="Case.html">Case</a>=Gen</tt> (290; 59%), <tt><a href="Definite.html">Definite</a>=Cons</tt> (290; 59%).
 
 `NUM` tokens may have the following values of `NumValue`:
 
-* `1` (32; 6% of non-empty `NumValue`): واحد، واحدة، الواحد، واحداً، أحد، الواحدة، واحدا
-* `2` (29; 5% of non-empty `NumValue`): عشر، عشرة
-* `3` (519; 89% of non-empty `NumValue`): ثلاثة، خمسة، ثلاث، ستة، الثلاثة، اربعة، الثلاث، خمس، سبعة، أربعة
+* `1` (24; 5% of non-empty `NumValue`): واحد، واحدة، الواحد، الواحدة، واحداً
+* `2` (28; 6% of non-empty `NumValue`): عشر، عشرة
+* `3` (440; 89% of non-empty `NumValue`): ثلاثة، خمسة، ثلاث، ستة، الثلاثة، اربعة، خمس، الثلاث، سبعة، أربعة
 
-`NumValue` seems to be **lexical feature** of `NUM`. 100% lemmas (10) occur only with one value of `NumValue`.
+## Relations with Agreement in `NumValue`
+
+The 10 most frequent relations where parent and child node agree in `NumValue`:
+<tt>NUM --[<a href="../dep/conj.html">conj</a>]--> NUM</tt> (13; 57%).
 

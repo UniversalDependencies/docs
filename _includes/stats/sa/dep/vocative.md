@@ -40,7 +40,7 @@ The following 3 pairs of parts of speech are connected with `vocative`: [sa-pos/
 4	स्वामी	स्वामिन्	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	5	nmod	_	Translit=svāmī|LTranslit=svāmin
 5	पिङ्गलकः	पिङ्गलक	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	10	nsubj	_	Translit=piṅgalakaḥ|LTranslit=piṅgalaka
 6	उदक	उदक	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	7	compound	_	Translit=udaka|LTranslit=udaka
-7	ग्रहण	ग्रहण	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	10	nmod	_	Translit=grahaṇa|LTranslit=grahaṇa
+7	ग्रहण	ग्रहण	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	10	obl	_	Translit=grahaṇa|LTranslit=grahaṇa
 8	अर्थम्	अर्थ	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	7	nmod	_	Translit=artham|LTranslit=artha
 9	इतः	इतः	ADV	_	_	10	advmod	_	Translit=itaḥ|LTranslit=itaḥ
 10	प्रवृत्तः	प्र-वृत्	VERB	_	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	Translit=pravr̥ttaḥ|LTranslit=pra-vr̥t
@@ -56,7 +56,7 @@ The following 3 pairs of parts of speech are connected with `vocative`: [sa-pos/
 # visual-style 5 1 vocative	color:blue
 1	भद्र	भद्र	NOUN	_	Case=Voc|Gender=Masc|Number=Sing	5	vocative	_	Translit=bhadra|LTranslit=bhadra
 2	अहम्	अहम्	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	Translit=aham|LTranslit=aham
-3	न	न	PART	_	_	4	neg	_	Translit=na|LTranslit=na
+3	न	न	PART	_	Polarity=Neg	4	advmod	_	Translit=na|LTranslit=na
 4	सेवा	सेवा	NOUN	_	_	5	compound	_	Translit=sevā|LTranslit=sevā
 5	अभिज्ञः	अभिज्ञ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	0	root	_	Translit=abhijñaḥ|LTranslit=abhijña
 

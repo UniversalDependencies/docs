@@ -39,8 +39,8 @@ The following 6 pairs of parts of speech are connected with `compound`: [sa-pos/
 3	अन्	अन्	NOUN	_	_	4	compound	_	Translit=an|LTranslit=an
 4	उचित	उचित	ADJ	_	Case=Acc|Gender=Masc|Number=Sing	5	amod	_	Translit=ucita|LTranslit=ucita
 5	स्थान	स्थान	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	7	nmod	_	Translit=sthāna|LTranslit=sthāna
-6	प्रवेशात्	प्रवेश	NOUN	_	Case=Abl|Gender=Masc|Number=Sing	8	nmod	_	Translit=praveśāt|LTranslit=praveśa
-7	भवन्तम्	भवत्	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=2|Polite=Pol|PronType=Prs	8	dobj	_	Translit=bhavantam|LTranslit=bhavat
+6	प्रवेशात्	प्रवेश	NOUN	_	Case=Abl|Gender=Masc|Number=Sing	8	obl	_	Translit=praveśāt|LTranslit=praveśa
+7	भवन्तम्	भवत्	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=2|Polite=Form|PronType=Prs	8	obj	_	Translit=bhavantam|LTranslit=bhavat
 8	अवमन्येत	अव-मन्	VERB	_	Mood=Opt|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	Translit=avamanyeta|LTranslit=ava-man
 
 ~~~
@@ -55,7 +55,7 @@ The following 6 pairs of parts of speech are connected with `compound`: [sa-pos/
 1	ततः	ततस्	ADV	_	_	6	advmod	_	Translit=tataḥ|LTranslit=tatas
 2	तया	तद्	PRON	_	Case=Ins|Gender=Fem|Number=Sing|PronType=Dem	4	nmod	_	Translit=tayā|LTranslit=tad
 3	मनः	मनस्	NOUN	_	_	4	compound	_	Translit=manaḥ|LTranslit=manas
-4	रथानाम्	रथ	X	_	Case=Gen|Gender=Masc|Number=Plur	6	nmod	_	Translit=rathānām|LTranslit=ratha
+4	रथानाम्	रथ	X	_	Case=Gen|Gender=Masc|Number=Plur	6	obl	_	Translit=rathānām|LTranslit=ratha
 5	अपि	अपि	ADV	_	_	6	advmod	_	Translit=api|LTranslit=api
 6	अगम्यम्	अगम्य	VERB	_	Case=Nom|Gender=Neut|Number=Sing|VerbForm=Ger	0	root	_	Translit=agamyam|LTranslit=agamya
 

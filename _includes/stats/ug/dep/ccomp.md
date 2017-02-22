@@ -6,76 +6,53 @@
 
 This relation is universal.
 
-67 nodes (1%) are attached to their parents as `ccomp`.
+6 nodes (0%) are attached to their parents as `ccomp`.
 
-62 instances of `ccomp` (93%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.53731343283582.
+6 instances of `ccomp` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.33333333333333.
 
-The following 10 pairs of parts of speech are connected with `ccomp`: [ug-pos/VERB]()-[ug-pos/VERB]() (34; 51% instances), [ug-pos/VERB]()-[ug-pos/NOUN]() (17; 25% instances), [ug-pos/VERB]()-[ug-pos/ADJ]() (5; 7% instances), [ug-pos/NOUN]()-[ug-pos/VERB]() (4; 6% instances), [ug-pos/NOUN]()-[ug-pos/ADJ]() (2; 3% instances), [ug-pos/ADJ]()-[ug-pos/VERB]() (1; 1% instances), [ug-pos/NOUN]()-[ug-pos/INTJ]() (1; 1% instances), [ug-pos/NOUN]()-[ug-pos/NOUN]() (1; 1% instances), [ug-pos/PART]()-[ug-pos/VERB]() (1; 1% instances), [ug-pos/VERB]()-[ug-pos/PRON]() (1; 1% instances).
+The following 2 pairs of parts of speech are connected with `ccomp`: [ug-pos/VERB]()-[ug-pos/VERB]() (4; 67% instances), [ug-pos/VERB]()-[ug-pos/NOUN]() (2; 33% instances).
 
 
 ~~~ conllu
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 10 7 ccomp	color:blue
-1	-	_	PUNCT	Y	_	10	punct	_	Translit=-
-2	بۇنىڭدىن	_	PRON	P	_	3	compound	_	Translit=buningdin
-3	كېيىن	_	ADV	D	_	4	advmod	_	Translit=këyin
-4	ئۇرۇشمايلى	_	VERB	V	_	7	conj	_	Translit=urushmayli
-5	،	_	PUNCT	Y	_	4	punct	_	Translit=,
-6	قانداق	_	PRON	P	_	7	advmod	_	Translit=qandaq
-7	دەيسەن	_	VERB	V	_	10	ccomp	_	Translit=deysen
-8	؟	_	PUNCT	Y	_	7	punct	_	Translit=?
-9	-	_	PUNCT	Y	_	7	punct	_	Translit=-
-10	دېدى	_	VERB	V	_	0	root	_	Translit=dëdi
-11	ئۇ	_	PRON	P	_	10	nsubj	_	Translit=u
-12	كۈلۈپ	_	VERB	V	_	10	advcl	_	Translit=külüp
-13	.	_	PUNCT	Y	_	10	punct	_	Translit=.
-
-~~~
-
-
-~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 4 ccomp	color:blue
-1	بىز	_	PRON	P	_	7	nsubj	_	Translit=biz
-2	ئۇنى	_	PRON	P	_	7	dobj	_	Translit=uni
-3	«	_	PUNCT	Y	_	4	punct	_	Translit=«
-4	مارجانبۇلاق	_	NOUN	N	_	6	ccomp	_	Translit=marjanbulaq
-5	»	_	PUNCT	Y	_	4	punct	_	Translit=»
-6	دەپ	_	VERB	V	_	7	advcl	_	Translit=dep
-7	ئاتايمىز	_	VERB	V	_	0	root	_	Translit=ataymiz
-8	.	_	PUNCT	Y	_	7	punct	_	Translit=.
-
-~~~
-
-
-~~~ conllu
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
-# visual-style 12	bgColor:blue
-# visual-style 12	fgColor:white
-# visual-style 12 8 ccomp	color:blue
-1	_	_	PUNCT	Y	_	13	punct	_	Translit=_
-2	قاراڭلار	_	VERB	V	_	13	discourse	_	Translit=qaranglar
-3	،	_	PUNCT	Y	_	2	punct	_	Translit=,
-4	ئاۋۇ	_	PRON	P	_	5	det	_	Translit=awu
-5	يەردە	_	NOUN	N	_	8	nmod	_	Translit=yerde
-6	ئازغان	_	VERB	V	_	7	acl	_	Translit=azghan
-7	چېچېكى	_	NOUN	N	_	8	nsubj	_	Translit=chëchëki
-8	بار	_	ADJ	A	_	12	ccomp	_	Translit=bar
-9	ئىكەن	_	VERB	V	_	8	cop	_	Translit=iken
-10	!	_	PUNCT	V	_	9	punct	_	Translit=!
-11	_	_	PUNCT	Y	_	9	punct	_	Translit=_
-12	دەپ	_	VERB	V	_	13	advcl	_	Translit=dep
-13	توۋلىۋەتتى	_	NOUN	N	_	0	root	_	Translit=towliwetti
-14	ساشا	_	VERB	V	_	13	nsubj	_	Translit=sasha
-15	.	_	PUNCT	Y	_	13	punct	_	Translit=.
+# visual-style 8 7 ccomp	color:blue
+1	ئۆيۈڭنىڭ	_	NOUN	N	_	3	nmod:poss	_	Translit=öyüngning
+2	بارلىق	_	PRON	P	_	3	det	_	Translit=barliq
+3	ئىشلىرىنى	_	NOUN	N	_	8	obj	_	Translit=ishlirini
+4	ھاردىم	_	VERB	V	_	6	compound:redup	_	Translit=hardim
+5	-	_	PUNCT	Y	_	4	punct	_	Translit=-
+6	تالدىم	_	ADJ	A	_	7	nsubj	_	Translit=taldim
+7	دېمەي	_	VERB	V	_	8	ccomp	_	Translit=dëmey
+8	قىلاتتىڭ	_	VERB	V	_	0	root	_	SpaceAfter=No|Translit=qilatting
+9	،	_	PUNCT	Y	_	8	punct	_	Translit=,
+
+~~~
+
+
+~~~ conllu
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 11	bgColor:blue
+# visual-style 11	fgColor:white
+# visual-style 11 10 ccomp	color:blue
+1	يېشى	_	NOUN	N	_	3	nsubj	_	Translit=yëshi
+2	50قا	_	NOUN	N	_	3	obl	_	Translit=50qa
+3	بېرىپ	_	VERB	V	_	13	advcl	_	Translit=bërip
+4	قالغىنى	_	AUX	V	_	3	aux	_	Translit=qalghini
+5	بىلەن	_	CCONJ	C	_	3	mark	_	Translit=bilen
+6	خوتۇن	_	NOUN	N	_	7	appos	_	Translit=xotun
+7	زاتىنىڭ	_	NOUN	N	_	8	nmod:poss	_	Translit=zatining
+8	قانداقلىقىنى	_	VERB	V	_	13	obj	_	SpaceAfter=No|Translit=qandaqliqini
+9	،	_	PUNCT	Y	_	8	punct	_	Translit=,
+10	ئۆي	_	NOUN	N	_	11	ccomp	_	Translit=öy
+11	دېگەننىڭ	_	VERB	V	_	12	nmod:poss	_	Translit=dëgenning
+12	نېمىلىكىنى	_	PRON	P	_	8	conj	_	Translit=nëmilikini
+13	بىلمەيدۇ	_	VERB	V	_	0	root	_	SpaceAfter=No|Translit=bilmeydu
+14	.	_	PUNCT	Y	_	13	punct	_	Translit=.
 
 ~~~
 

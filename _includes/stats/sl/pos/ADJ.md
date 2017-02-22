@@ -4,89 +4,88 @@
 
 ## Treebank Statistics (UD_Slovenian)
 
-There are 3875 `ADJ` lemmas (23%), 8167 `ADJ` types (25%) and 15027 `ADJ` tokens (11%).
-Out of 16 observed tags, the rank of `ADJ` is: 2 in number of lemmas, 2 in number of types and 4 in number of tokens.
+There are 3610 `ADJ` lemmas (23%), 7481 `ADJ` types (25%) and 13529 `ADJ` tokens (11%).
+Out of 16 observed tags, the rank of `ADJ` is: 2 in number of lemmas, 2 in number of types and 3 in number of tokens.
 
-The 10 most frequent `ADJ` lemmas: <em>drug, velik, nov, prvi, slovenski, dober, sam, evropski, star, zadnji</em>
+The 10 most frequent `ADJ` lemmas: <em>drug, velik, nov, prvi, slovenski, sam, dober, evropski, zadnji, različen</em>
 
-The 10 most frequent `ADJ` types:  <em>drugi, mogoče, prvi, druge, sam, novo, drugih, nove, različnih, slovenski</em>
+The 10 most frequent `ADJ` types:  <em>drugi, prvi, druge, mogoče, sam, nove, novo, drugih, različnih, slovenski</em>
 
-The 10 most frequent ambiguous lemmas: <em>mlad</em> ([ADJ]() 72, [NOUN]() 1), <em>pravi</em> ([ADJ]() 66, [NOUN]() 2), <em>dolg</em> ([ADJ]() 60, [NOUN]() 7), <em>svet</em> ([NOUN]() 131, [ADJ]() 16), <em>moški</em> ([NOUN]() 26, [ADJ]() 14), <em>poceni</em> ([ADJ]() 14, [ADV]() 1), <em>gost</em> ([NOUN]() 18, [ADJ]() 12), <em>razen</em> ([ADJ]() 11, [ADP]() 8, [CONJ]() 1), <em>gol</em> ([ADJ]() 7, [NOUN]() 2), <em>lev</em> ([NOUN]() 8, [ADJ]() 6)
+The 10 most frequent ambiguous lemmas: <em>mlad</em> ([ADJ]() 61, [NOUN]() 1), <em>pravi</em> ([ADJ]() 58, [NOUN]() 1), <em>dolg</em> ([ADJ]() 53, [NOUN]() 7), <em>svet</em> ([NOUN]() 117, [ADJ]() 15), <em>poceni</em> ([ADJ]() 14, [ADV]() 1), <em>moški</em> ([NOUN]() 21, [ADJ]() 13), <em>gost</em> ([NOUN]() 16, [ADJ]() 11), <em>razen</em> ([ADJ]() 11, [ADP]() 7), <em>peti</em> ([ADJ]() 7, [VERB]() 4), <em>gol</em> ([ADJ]() 6, [NOUN]() 2)
 
-The 10 most frequent ambiguous types:  <em>mogoče</em> ([ADJ]() 67, [ADV]() 6), <em>sam</em> ([ADJ]() 50, [PART]() 7), <em>veliko</em> ([ADV]() 45, [DET]() 43, [ADJ]() 36), <em>pravi</em> ([VERB]() 33, [ADJ]() 24), <em>jasno</em> ([ADJ]() 21, [ADV]() 8), <em>dobro</em> ([ADV]() 48, [ADJ]() 22, [NOUN]() 2), <em>težko</em> ([ADJ]() 21, [ADV]() 19), <em>prihodnje</em> ([ADJ]() 17, [ADV]() 1), <em>lepo</em> ([ADJ]() 15, [ADV]() 13), <em>delovno</em> ([ADJ]() 8, [ADV]() 1)
+The 10 most frequent ambiguous types:  <em>mogoče</em> ([ADJ]() 57, [ADV]() 5), <em>sam</em> ([ADJ]() 46, [PART]() 7), <em>veliko</em> ([DET]() 81, [ADJ]() 34), <em>jasno</em> ([ADJ]() 21, [ADV]() 8), <em>pravi</em> ([VERB]() 29, [ADJ]() 21), <em>težko</em> ([ADV]() 19, [ADJ]() 18), <em>dobro</em> ([ADV]() 41, [ADJ]() 16, [NOUN]() 2), <em>lepo</em> ([ADJ]() 14, [ADV]() 13), <em>posebno</em> ([ADV]() 10, [ADJ]() 9), <em>primerno</em> ([ADJ]() 11, [ADV]() 2)
 
 
 * <em>mogoče</em>
-  * [ADJ]() 67: <em>Obe napaki je <b>mogoče</b> popraviti s kirurškim posegom .</em>
-  * [ADV]() 6: <em>Da je bil <b>mogoče</b> ranjen ali da je izgubil spomin .</em>
+  * [ADJ]() 57: <em>» Seveda ni <b>mogoče</b> ničesar narediti čez noč .</em>
+  * [ADV]() 5: <em>Da je bil <b>mogoče</b> ranjen ali da je izgubil spomin .</em>
 * <em>sam</em>
-  * [ADJ]() 50: <em>Želel je biti <b>sam</b> .</em>
+  * [ADJ]() 46: <em>" En <b>sam</b> napad smo predolgo vztrajali na conski obrambi .</em>
   * [PART]() 7: <em>— Ma , morš izpast totalno navdušen , <b>sam</b> pol pa vseen zajebat .</em>
 * <em>veliko</em>
-  * [ADV]() 45: <em>» Deveto mesto mi zares <b>veliko</b> pomeni , saj je dokaz , da napredujem .</em>
-  * [DET]() 43: <em>Ali ima center <b>veliko</b> dela spričo tako hudih medvrstniških obračunavanj ?</em>
-  * [ADJ]() 36: <em>Na zadnji hrbtni bodici ima <b>veliko</b> črno piko .</em>
-* <em>pravi</em>
-  * [VERB]() 33: <em>Že star rek <b>pravi</b> , da zdravnik pomaga , narava pa pozdravi .</em>
-  * [ADJ]() 24: <em>Zanje so vojaki iz mirovnih enot <b>pravi</b> bogataši .</em>
+  * [DET]() 81: <em>Ali ima center <b>veliko</b> dela spričo tako hudih medvrstniških obračunavanj ?</em>
+  * [ADJ]() 34: <em>Na zadnji hrbtni bodici ima <b>veliko</b> črno piko .</em>
 * <em>jasno</em>
   * [ADJ]() 21: <em>" Ni mi <b>jasno</b> , zakaj se hočejo znebiti tebe , " je rekel kolegu .</em>
   * [ADV]() 8: <em>Je pa treba nekaj <b>jasno</b> vedeti .</em>
-* <em>dobro</em>
-  * [ADV]() 48: <em>Videz je bil seveda varljiv , kar je Fran <b>dobro</b> vedela .</em>
-  * [ADJ]() 22: <em>V njih iščejo <b>dobro</b> in nemalokrat odkrijejo tudi skrito nadarjenost .</em>
-  * [NOUN]() 2: <em>Denar sam po sebi ni ne <b>dobro</b> ne zlo , eno ali drugo postane šele v zvezi s človekovim delovanjem .</em>
+* <em>pravi</em>
+  * [VERB]() 29: <em>Že star rek <b>pravi</b> , da zdravnik pomaga , narava pa pozdravi .</em>
+  * [ADJ]() 21: <em>Zanje so vojaki iz mirovnih enot <b>pravi</b> bogataši .</em>
 * <em>težko</em>
-  * [ADJ]() 21: <em>Buč ni <b>težko</b> gojiti .</em>
   * [ADV]() 19: <em>Če se <b>težko</b> sprijaznite z njenim položajem , se skušajte mirno pogovoriti z njo .</em>
-* <em>prihodnje</em>
-  * [ADJ]() 17: <em>Novo prvenstvo se prične marca <b>prihodnje</b> leto .</em>
-  * [ADV]() 1: <em>In kdo bo tisti , ki se bo moral v <b>prihodnje</b> spopadati s » pritiski , prisiljenimi odločitvami , kadrovskimi interesi in kratkoročnimi cilji « ?</em>
+  * [ADJ]() 18: <em>Buč ni <b>težko</b> gojiti .</em>
+* <em>dobro</em>
+  * [ADV]() 41: <em>" Francozi so po njegovem mnenju igrali <b>dobro</b> tudi v obrambi .</em>
+  * [ADJ]() 16: <em>V njih iščejo <b>dobro</b> in nemalokrat odkrijejo tudi skrito nadarjenost .</em>
+  * [NOUN]() 2: <em>Denar sam po sebi ni ne <b>dobro</b> ne zlo , eno ali drugo postane šele v zvezi s človekovim delovanjem .</em>
 * <em>lepo</em>
-  * [ADJ]() 15: <em>Revija Zdravje je tudi <b>lepo</b> darilo najbližjim .</em>
+  * [ADJ]() 14: <em>To pa res ni <b>lepo</b> od Jožeta ! «</em>
   * [ADV]() 13: <em>Zelo <b>lepo</b> je .</em>
-* <em>delovno</em>
-  * [ADJ]() 8: <em>Pa ob vznožju najvišje koroške gore Pece v soboto ni vladalo zgolj <b>delovno</b> vzdušje .</em>
-  * [ADV]() 1: <em>Stvari bolj ali manj tečejo svojo pot , zato se podjetja trenutno ne tepejo niti za študente , ki so končali praktične oziroma <b>delovno</b> intenzivne MBA študije .</em>
+* <em>posebno</em>
+  * [ADV]() 10: <em>Tudi če bi kdo hotel , se ne more kaj <b>posebno</b> pregrešiti s požrešnostjo .</em>
+  * [ADJ]() 9: <em>Navidezno anahronistični poziv k milosrčju v sodobnem svetu vendarle ohranja <b>posebno</b> aktualnost .</em>
+* <em>primerno</em>
+  * [ADJ]() 11: <em>Mi bomo naredili vse v odnosu do navijačev in za <b>primerno</b> varovanje .</em>
+  * [ADV]() 2: <em>Pet enot so namenili invalidom in jih temu <b>primerno</b> tudi opremili ter omogočili dostop na vozičkih .</em>
 
 ## Morphology
 
-The form / lemma ratio of `ADJ` is 2.107613 (the average of all parts of speech is 1.894262).
+The form / lemma ratio of `ADJ` is 2.072299 (the average of all parts of speech is 1.870691).
 
-The 1st highest number of forms (29) was observed with the lemma “velik”: <em>največja, največje, največjega, največjem, največji, največjih, največjim, največjima, največjo, tavelzga, velik, velika, velike, velikega, velikem, velikemu, veliki, velikih, velikim, velikimi, veliko, večja, večje, večjega, večjem, večji, večjih, večjimi, večjo</em>.
+The 1st highest number of forms (29) was observed with the lemma “velik”: <em>Velikega, največja, največje, največjega, največjem, največji, največjih, največjim, največjima, največjo, tavelzga, velik, velika, velike, velikem, velikemu, veliki, velikih, velikim, velikimi, veliko, večja, večje, večjega, večjem, večji, večjih, večjimi, večjo</em>.
 
 The 2nd highest number of forms (24) was observed with the lemma “majhen”: <em>majhen, majhna, majhne, majhnega, majhnemu, majhni, majhnih, majhnim, majhnimi, majhno, manjša, manjše, manjšem, manjšemu, manjši, manjših, manjšim, manjšimi, manjšo, mejhen, najmanjša, najmanjše, najmanjši, najmanjših</em>.
 
-The 3rd highest number of forms (23) was observed with the lemma “dober”: <em>boljša, boljše, boljšega, boljši, boljših, dober, dobra, dobre, dobrega, dobrem, dobri, dobrih, dobrim, dobrimi, dobro, najboljša, najboljše, najboljšega, najboljšem, najboljši, najboljših, najboljšim, najboljšo</em>.
+The 3rd highest number of forms (23) was observed with the lemma “dober”: <em>boljša, boljše, boljšega, boljšem, boljši, boljših, dober, dobra, dobre, dobrega, dobri, dobrih, dobrim, dobrimi, dobro, najboljša, najboljše, najboljšega, najboljšem, najboljši, najboljših, najboljšim, najboljšo</em>.
 
-`ADJ` occurs with 8 features: [sl-feat/Case]() (15027; 100% instances), [sl-feat/Gender]() (15027; 100% instances), [sl-feat/Number]() (15027; 100% instances), [sl-feat/Degree]() (14346; 95% instances), [sl-feat/Definite]() (2068; 14% instances), [sl-feat/VerbForm]() (1929; 13% instances), [sl-feat/Poss]() (384; 3% instances), [sl-feat/NumType]() (314; 2% instances)
+`ADJ` occurs with 8 features: [sl-feat/Case]() (13529; 100% instances), [sl-feat/Gender]() (13529; 100% instances), [sl-feat/Number]() (13529; 100% instances), [sl-feat/Degree]() (12905; 95% instances), [sl-feat/Definite]() (1865; 14% instances), [sl-feat/VerbForm]() (1728; 13% instances), [sl-feat/Poss]() (351; 3% instances), [sl-feat/NumType]() (295; 2% instances)
 
-`ADJ` occurs with 21 feature-value pairs: `Case=Acc`, `Case=Dat`, `Case=Gen`, `Case=Ins`, `Case=Loc`, `Case=Nom`, `Definite=Def`, `Definite=Ind`, `Degree=Cmp`, `Degree=Pos`, `Degree=Sup`, `Gender=Fem`, `Gender=Masc`, `Gender=Neut`, `NumType=Gen`, `NumType=Ord`, `Number=Dual`, `Number=Plur`, `Number=Sing`, `Poss=Yes`, `VerbForm=Part`
+`ADJ` occurs with 21 feature-value pairs: `Case=Acc`, `Case=Dat`, `Case=Gen`, `Case=Ins`, `Case=Loc`, `Case=Nom`, `Definite=Def`, `Definite=Ind`, `Degree=Cmp`, `Degree=Pos`, `Degree=Sup`, `Gender=Fem`, `Gender=Masc`, `Gender=Neut`, `NumType=Mult`, `NumType=Ord`, `Number=Dual`, `Number=Plur`, `Number=Sing`, `Poss=Yes`, `VerbForm=Part`
 
-`ADJ` occurs with 262 feature combinations.
-The most frequent feature combination is `Case=Nom|Degree=Pos|Gender=Fem|Number=Sing` (1030 tokens).
-Examples: <em>sama, velika, slovenska, nova, edina, stara, lepa, prava, dobra, primerna</em>
+`ADJ` occurs with 259 feature combinations.
+The most frequent feature combination is `Case=Nom|Degree=Pos|Gender=Fem|Number=Sing` (912 tokens).
+Examples: <em>sama, velika, nova, slovenska, edina, lepa, dobra, prava, stara, primerna</em>
 
 
 ## Relations
 
-`ADJ` nodes are attached to their parents using 14 different relations: [sl-dep/amod]() (11760; 78% instances), [sl-dep/root]() (1045; 7% instances), [sl-dep/conj]() (814; 5% instances), [sl-dep/nmod]() (279; 2% instances), [sl-dep/acl]() (260; 2% instances), [sl-dep/advcl]() (170; 1% instances), [sl-dep/ccomp]() (166; 1% instances), [sl-dep/parataxis]() (145; 1% instances), [sl-dep/xcomp]() (136; 1% instances), [sl-dep/nsubj]() (132; 1% instances), [sl-dep/dobj]() (49; 0% instances), [sl-dep/csubj]() (41; 0% instances), [sl-dep/mwe]() (18; 0% instances), [sl-dep/iobj]() (12; 0% instances)
+`ADJ` nodes are attached to their parents using 15 different relations: [sl-dep/amod]() (10564; 78% instances), [sl-dep/root]() (944; 7% instances), [sl-dep/conj]() (726; 5% instances), [sl-dep/obl]() (261; 2% instances), [sl-dep/acl]() (236; 2% instances), [sl-dep/advcl]() (153; 1% instances), [sl-dep/ccomp]() (147; 1% instances), [sl-dep/parataxis]() (136; 1% instances), [sl-dep/nsubj]() (127; 1% instances), [sl-dep/xcomp]() (120; 1% instances), [sl-dep/obj]() (47; 0% instances), [sl-dep/csubj]() (38; 0% instances), [sl-dep/fixed]() (16; 0% instances), [sl-dep/iobj]() (11; 0% instances), [sl-dep/nmod]() (3; 0% instances)
 
-Parents of `ADJ` nodes belong to 11 different parts of speech: [NOUN]() (11699; 78% instances), [VERB]() (1063; 7% instances), [ROOT]() (1045; 7% instances), [ADJ]() (820; 5% instances), [PROPN]() (261; 2% instances), [PRON]() (94; 1% instances), [ADV]() (21; 0% instances), [NUM]() (12; 0% instances), [X]() (9; 0% instances), [DET]() (2; 0% instances), [INTJ]() (1; 0% instances)
+Parents of `ADJ` nodes belong to 11 different parts of speech: [NOUN]() (10504; 78% instances), [VERB]() (972; 7% instances), [ROOT]() (944; 7% instances), [ADJ]() (736; 5% instances), [PROPN]() (246; 2% instances), [PRON]() (63; 0% instances), [DET]() (25; 0% instances), [ADV]() (18; 0% instances), [NUM]() (12; 0% instances), [X]() (8; 0% instances), [INTJ]() (1; 0% instances)
 
-11526 (77%) `ADJ` nodes are leaves.
+9865 (73%) `ADJ` nodes are leaves.
 
-901 (6%) `ADJ` nodes have one child.
+1477 (11%) `ADJ` nodes have one child.
 
-594 (4%) `ADJ` nodes have two children.
+408 (3%) `ADJ` nodes have two children.
 
-2006 (13%) `ADJ` nodes have three or more children.
+1779 (13%) `ADJ` nodes have three or more children.
 
-The highest child degree of a `ADJ` node is 12.
+The highest child degree of a `ADJ` node is 11.
 
-Children of `ADJ` nodes are attached using 24 different relations: [sl-dep/punct]() (2356; 19% instances), [sl-dep/cop]() (1906; 15% instances), [sl-dep/advmod]() (1828; 15% instances), [sl-dep/nmod]() (1323; 11% instances), [sl-dep/nsubj]() (1080; 9% instances), [sl-dep/conj]() (844; 7% instances), [sl-dep/cc]() (675; 5% instances), [sl-dep/mark]() (569; 5% instances), [sl-dep/aux]() (532; 4% instances), [sl-dep/case]() (256; 2% instances), [sl-dep/parataxis]() (226; 2% instances), [sl-dep/csubj]() (222; 2% instances), [sl-dep/advcl]() (170; 1% instances), [sl-dep/dobj]() (170; 1% instances), [sl-dep/ccomp]() (72; 1% instances), [sl-dep/nummod]() (59; 0% instances), [sl-dep/neg]() (30; 0% instances), [sl-dep/amod]() (25; 0% instances), [sl-dep/acl]() (14; 0% instances), [sl-dep/cc:preconj]() (14; 0% instances), [sl-dep/discourse]() (11; 0% instances), [sl-dep/xcomp]() (8; 0% instances), [sl-dep/expl]() (4; 0% instances), [sl-dep/appos]() (1; 0% instances)
+Children of `ADJ` nodes are attached using 24 different relations: [sl-dep/punct]() (2151; 19% instances), [sl-dep/cop]() (1729; 15% instances), [sl-dep/advmod]() (1680; 15% instances), [sl-dep/nsubj]() (976; 9% instances), [sl-dep/obl]() (968; 9% instances), [sl-dep/conj]() (757; 7% instances), [sl-dep/cc]() (576; 5% instances), [sl-dep/mark]() (517; 5% instances), [sl-dep/aux]() (478; 4% instances), [sl-dep/nmod]() (245; 2% instances), [sl-dep/case]() (243; 2% instances), [sl-dep/parataxis]() (207; 2% instances), [sl-dep/csubj]() (199; 2% instances), [sl-dep/obj]() (159; 1% instances), [sl-dep/advcl]() (148; 1% instances), [sl-dep/ccomp]() (66; 1% instances), [sl-dep/nummod]() (54; 0% instances), [sl-dep/amod]() (24; 0% instances), [sl-dep/acl]() (17; 0% instances), [sl-dep/cc:preconj]() (11; 0% instances), [sl-dep/discourse]() (11; 0% instances), [sl-dep/xcomp]() (7; 0% instances), [sl-dep/expl]() (4; 0% instances), [sl-dep/appos]() (1; 0% instances)
 
-Children of `ADJ` nodes belong to 15 different parts of speech: [VERB]() (2641; 21% instances), [PUNCT]() (2356; 19% instances), [NOUN]() (2056; 17% instances), [ADV]() (1291; 10% instances), [ADJ]() (820; 7% instances), [CONJ]() (806; 7% instances), [SCONJ]() (568; 5% instances), [AUX]() (532; 4% instances), [PART]() (473; 4% instances), [PRON]() (376; 3% instances), [ADP]() (237; 2% instances), [PROPN]() (164; 1% instances), [NUM]() (68; 1% instances), [X]() (4; 0% instances), [INTJ]() (3; 0% instances)
+Children of `ADJ` nodes belong to 16 different parts of speech: [AUX]() (2207; 20% instances), [PUNCT]() (2151; 19% instances), [NOUN]() (1864; 17% instances), [ADV]() (1090; 10% instances), [ADJ]() (736; 7% instances), [CCONJ]() (692; 6% instances), [VERB]() (666; 6% instances), [SCONJ]() (516; 5% instances), [PART]() (432; 4% instances), [DET]() (252; 2% instances), [ADP]() (225; 2% instances), [PRON]() (172; 2% instances), [PROPN]() (151; 1% instances), [NUM]() (67; 1% instances), [X]() (4; 0% instances), [INTJ]() (3; 0% instances)
 
 
 
@@ -94,85 +93,85 @@ Children of `ADJ` nodes belong to 15 different parts of speech: [VERB]() (2641; 
 
 ## Treebank Statistics (UD_Slovenian-SST)
 
-There are 701 `ADJ` lemmas (17%), 1097 `ADJ` types (17%) and 1665 `ADJ` tokens (6%).
-Out of 16 observed tags, the rank of `ADJ` is: 3 in number of lemmas, 3 in number of types and 8 in number of tokens.
+There are 534 `ADJ` lemmas (17%), 789 `ADJ` types (17%) and 1093 `ADJ` tokens (6%).
+Out of 16 observed tags, the rank of `ADJ` is: 3 in number of lemmas, 3 in number of types and 10 in number of tokens.
 
-The 10 most frequent `ADJ` lemmas: <em>drug, dober, prvi, sam, velik, lep, glaven, nov, star, mali</em>
+The 10 most frequent `ADJ` lemmas: <em>drug, dober, prvi, sam, velik, glaven, lep, star, mali, nov</em>
 
-The 10 most frequent `ADJ` types:  <em>dobro, drugo, prvi, drugi, dober, zanimivo, druga, drugega, glavnem, lep</em>
+The 10 most frequent `ADJ` types:  <em>dobro, drugi, dober, prvi, drugo, drugega, glavnem, rdeča, lep, sami</em>
 
-The 10 most frequent ambiguous lemmas: <em>moški</em> ([ADJ]() 5, [NOUN]() 5), <em>peti</em> ([ADJ]() 5, [VERB]() 3), <em>dolg</em> ([ADJ]() 3, [NOUN]() 3), <em>fajn</em> ([ADV]() 10, [ADJ]() 3), <em>super</em> ([ADV]() 13, [ADJ]() 3), <em>frej</em> ([ADJ]() 2, [ADV]() 2), <em>pet</em> ([NUM]() 17, [ADJ]() 2), <em>dan</em> ([NOUN]() 44, [ADJ]() 1), <em>gol</em> ([NOUN]() 2, [ADJ]() 1), <em>kamen</em> ([NOUN]() 3, [ADJ]() 1)
+The 10 most frequent ambiguous lemmas: <em>peti</em> ([ADJ]() 5, [VERB]() 2), <em>super</em> ([ADV]() 8, [ADJ]() 3), <em>dolg</em> ([NOUN]() 2, [ADJ]() 2), <em>moški</em> ([NOUN]() 3, [ADJ]() 2), <em>dan</em> ([NOUN]() 29, [ADJ]() 1), <em>fajn</em> ([ADV]() 5, [ADJ]() 1), <em>frej</em> ([ADJ]() 1, [ADV]() 1), <em>gol</em> ([NOUN]() 2, [ADJ]() 1), <em>kamen</em> ([NOUN]() 2, [ADJ]() 1), <em>kul</em> ([ADV]() 2, [ADJ]() 1)
 
-The 10 most frequent ambiguous types:  <em>dobro</em> ([ADV]() 46, [ADJ]() 18), <em>drugo</em> ([ADJ]() 17, [NOUN]() 1), <em>zanimivo</em> ([ADJ]() 10, [ADV]() 3), <em>druga</em> ([ADJ]() 9, [NOUN]() 1), <em>celo</em> ([PART]() 7, [ADJ]() 6), <em>mogoče</em> ([ADV]() 18, [ADJ]() 6), <em>prvo</em> ([ADJ]() 6, [ADV]() 4), <em>pravi</em> ([VERB]() 30, [ADJ]() 5), <em>jasno</em> ([ADV]() 4, [ADJ]() 4), <em>podobno</em> ([ADJ]() 4, [ADV]() 2)
+The 10 most frequent ambiguous types:  <em>dobro</em> ([ADV]() 29, [ADJ]() 12), <em>drugo</em> ([ADJ]() 9, [NOUN]() 1), <em>zanimivo</em> ([ADJ]() 5, [ADV]() 3), <em>stara</em> ([ADJ]() 4, [VERB]() 1), <em>malo</em> ([DET]() 35, [ADJ]() 3), <em>prvo</em> ([ADV]() 4, [ADJ]() 3), <em>super</em> ([ADV]() 8, [ADJ]() 3), <em>celo</em> ([PART]() 6, [ADJ]() 2), <em>enostavno</em> ([ADJ]() 2, [ADV]() 1), <em>jasno</em> ([ADJ]() 2, [ADV]() 1)
 
 
 * <em>dobro</em>
-  * [ADV]() 46: <em>pa <b>dobro</b> saj boljše je saj</em>
-  * [ADJ]() 18: <em>samo je <b>dobro</b> veš</em>
+  * [ADV]() 29: <em>aha <b>dobro</b> okej</em>
+  * [ADJ]() 12: <em>o svojem nasledniku vse <b>dobro</b> tudi aktualni minister za finance</em>
 * <em>drugo</em>
-  * [ADJ]() 17: <em>ker bom šla <b>drugo</b> leto ven študirat</em>
+  * [ADJ]() 9: <em><b>drugo</b> stopalo gor koleno dol in spustite</em>
   * [NOUN]() 1: <em>tedaj pa eno <b>drugo</b> poišči ta žena tako stara ven izgleda eno mlajšo poišči a tukaj je še heidi notri</em>
 * <em>zanimivo</em>
-  * [ADJ]() 10: <em>prehladil kaj mišice in pol bo pa <b>zanimivo</b></em>
-  * [ADV]() 3: <em>u <b>zanimivo</b></em>
-* <em>druga</em>
-  * [ADJ]() 9: <em>eee <b>druga</b> zadeva je majhen priročen gre kamorkoli hočeš</em>
-  * [NOUN]() 1: <em>prva <b>druga</b> tretja skupina</em>
-* <em>celo</em>
-  * [PART]() 7: <em>tako da mogoče je to <b>celo</b> zanimivo ne</em>
-  * [ADJ]() 6: <em>ti boš v bistvu <b>celo</b> solato naredil ne ?</em>
-* <em>mogoče</em>
-  * [ADV]() 18: <em>tako da <b>mogoče</b> je to celo zanimivo ne</em>
-  * [ADJ]() 6: <em><b>mogoče</b> je boljše da naredimo vse nek [gap] betonsko neko betonsko podlago</em>
+  * [ADJ]() 5: <em>prehladil kaj mišice in pol bo pa <b>zanimivo</b></em>
+  * [ADV]() 3: <em><b>zanimivo</b> [name:personal] se strinjamo</em>
+* <em>stara</em>
+  * [ADJ]() 4: <em>eee <b>stara</b> osemdeset let zelo živahna</em>
+  * [VERB]() 1: <em>veš ti si moraš sebi primerno izbrati razumeš da se s tabo <b>stara</b> da je pol da sta isto skupaj upognjena pa to [audience:laughter]</em>
+* <em>malo</em>
+  * [DET]() 35: <em>in spodaj so vsi komentini <b>malo</b> istrijani <b>malo</b> po hrvaško</em>
+  * [ADJ]() 3: <em>ker nama je bilo ful všeč tako <b>malo</b> mestece tako mir kar pa [gap]</em>
 * <em>prvo</em>
-  * [ADJ]() 6: <em>kaj pa prva dajmo <b>prvo</b> pogledati še enkrat</em>
-  * [ADV]() 4: <em>ne bo držalo dajva najprej tisto napisati kar si že <b>prvo</b> rekel</em>
-* <em>pravi</em>
-  * [VERB]() 30: <em>pa <b>pravi</b> [name:personal] pa daj saj ena številka ti pa še viška hodi ne</em>
-  * [ADJ]() 5: <em>ja samo ko bo pač <b>pravi</b> čas za to ne</em>
+  * [ADV]() 4: <em>plačilo recimo <b>prvo</b> no da to spravimo</em>
+  * [ADJ]() 3: <em><b>prvo</b> besedilo a ga lahko kar prebere nekdo</em>
+* <em>super</em>
+  * [ADV]() 8: <em>ja zdaj če se če se vam zdi frizer če ga damo med nezasebne <b>super</b></em>
+  * [ADJ]() 3: <em><b>super</b> ! [incident]</em>
+* <em>celo</em>
+  * [PART]() 6: <em>vemo da ima rada škofjo loko <b>celo</b> njen zmenek v blaževi ulici nam je znan</em>
+  * [ADJ]() 2: <em>jaz sem prej tako <b>celo</b> skledo teh flancatov snedla</em>
+* <em>enostavno</em>
+  * [ADJ]() 2: <em>saj saj je zelo <b>enostavno</b> www pika [name:personal] [name:surname] pika com</em>
+  * [ADV]() 1: <em>a veš in sem pozabila <b>enostavno</b> … tisti</em>
 * <em>jasno</em>
-  * [ADV]() 4: <em><b>jasno</b> dodan ima še slalom</em>
-  * [ADJ]() 4: <em>kaj [speaker:laughter] a veš nič <b>jasno</b> bilo sploh samo tako šok ne</em>
-* <em>podobno</em>
-  * [ADJ]() 4: <em>eee je je to v bistvu eee tudi eee v potrebno imeti dosti izolirano hišo ali je to bolj <b>podobno</b> klasiki ne vem olju drva drva v bistvu ogrevanje na drva</em>
-  * [ADV]() 2: <em>ja saj v resnici je tudi doma <b>podobno</b> ne</em>
+  * [ADJ]() 2: <em>jutri in v nedeljo bomo imeli delno <b>jasno</b> vreme jutri so še možne kakšne popoldanske plohe tudi topleje bo temperature do dvajset stopinj</em>
+  * [ADV]() 1: <em>toda <b>jasno</b> ob vidiču in ferdinandu nima dosti možnosti za igranje</em>
 
 ## Morphology
 
-The form / lemma ratio of `ADJ` is 1.564907 (the average of all parts of speech is 1.575031).
+The form / lemma ratio of `ADJ` is 1.477528 (the average of all parts of speech is 1.494596).
 
-The 1st highest number of forms (13) was observed with the lemma “dober”: <em>boljša, boljše, boljšem, boljši, boljšo, dober, dobra, dobri, dobrih, dobrimi, dobro, najboljša, najboljše</em>.
+The 1st highest number of forms (11) was observed with the lemma “drug”: <em>drug, druga, druge, drugega, drugem, drugemu, drugi, drugih, drugim, drugimi, drugo</em>.
 
-The 2nd highest number of forms (12) was observed with the lemma “velik”: <em>največja, največje, največji, velik, velika, velike, velikega, velikih, veliko, večja, večje, večji</em>.
+The 2nd highest number of forms (11) was observed with the lemma “velik”: <em>največja, največje, največji, velik, velika, velike, velikega, veliko, večja, večje, večji</em>.
 
-The 3rd highest number of forms (11) was observed with the lemma “drug”: <em>drug, druga, druge, drugega, drugem, drugemu, drugi, drugih, drugim, drugimi, drugo</em>.
+The 3rd highest number of forms (10) was observed with the lemma “dober”: <em>boljše, boljšem, boljši, dober, dobra, dobri, dobrih, dobrimi, dobro, najboljša</em>.
 
-`ADJ` occurs with 9 features: [sl-feat/Case]() (1665; 100% instances), [sl-feat/Gender]() (1665; 100% instances), [sl-feat/Number]() (1665; 100% instances), [sl-feat/Degree]() (1506; 90% instances), [sl-feat/Definite]() (313; 19% instances), [sl-feat/VerbForm]() (186; 11% instances), [sl-feat/NumType]() (87; 5% instances), [sl-feat/Poss]() (28; 2% instances), [sl-feat/PronType]() (28; 2% instances)
+`ADJ` occurs with 9 features: [sl-feat/Case]() (1093; 100% instances), [sl-feat/Gender]() (1093; 100% instances), [sl-feat/Number]() (1093; 100% instances), [sl-feat/Degree]() (981; 90% instances), [sl-feat/Definite]() (205; 19% instances), [sl-feat/VerbForm]() (128; 12% instances), [sl-feat/NumType]() (62; 6% instances), [sl-feat/Poss]() (21; 2% instances), [sl-feat/PronType]() (21; 2% instances)
 
-`ADJ` occurs with 22 feature-value pairs: `Case=Acc`, `Case=Dat`, `Case=Gen`, `Case=Ins`, `Case=Loc`, `Case=Nom`, `Definite=Def`, `Definite=Ind`, `Degree=Cmp`, `Degree=Pos`, `Degree=Sup`, `Gender=Fem`, `Gender=Masc`, `Gender=Neut`, `NumType=Gen`, `NumType=Ord`, `Number=Dual`, `Number=Plur`, `Number=Sing`, `Poss=Yes`, `PronType=Prs`, `VerbForm=Part`
+`ADJ` occurs with 22 feature-value pairs: `Case=Acc`, `Case=Dat`, `Case=Gen`, `Case=Ins`, `Case=Loc`, `Case=Nom`, `Definite=Def`, `Definite=Ind`, `Degree=Cmp`, `Degree=Pos`, `Degree=Sup`, `Gender=Fem`, `Gender=Masc`, `Gender=Neut`, `NumType=Mult`, `NumType=Ord`, `Number=Dual`, `Number=Plur`, `Number=Sing`, `Poss=Yes`, `PronType=Prs`, `VerbForm=Part`
 
-`ADJ` occurs with 150 feature combinations.
-The most frequent feature combination is `Case=Nom|Degree=Pos|Gender=Fem|Number=Sing` (182 tokens).
-Examples: <em>lepa, rdeča, glavna, sama, dobra, edina, stara, logična, nova, osebna</em>
+`ADJ` occurs with 136 feature combinations.
+The most frequent feature combination is `Case=Nom|Degree=Pos|Gender=Fem|Number=Sing` (121 tokens).
+Examples: <em>rdeča, lepa, glavna, stara, edina, rotacijska, sama, sigurna, dobra, logična</em>
 
 
 ## Relations
 
-`ADJ` nodes are attached to their parents using 21 different relations: [sl-dep/amod]() (992; 60% instances), [sl-dep/root]() (206; 12% instances), [sl-dep/conj]() (87; 5% instances), [sl-dep/parataxis]() (78; 5% instances), [sl-dep/nmod]() (76; 5% instances), [sl-dep/xcomp]() (41; 2% instances), [sl-dep/acl]() (33; 2% instances), [sl-dep/dobj]() (30; 2% instances), [sl-dep/nsubj]() (30; 2% instances), [sl-dep/ccomp]() (25; 2% instances), [sl-dep/advcl]() (21; 1% instances), [sl-dep/reparandum]() (10; 1% instances), [sl-dep/advmod]() (9; 1% instances), [sl-dep/mwe]() (6; 0% instances), [sl-dep/parataxis:restart]() (6; 0% instances), [sl-dep/appos]() (5; 0% instances), [sl-dep/vocative]() (5; 0% instances), [sl-dep/csubj]() (2; 0% instances), [sl-dep/cc]() (1; 0% instances), [sl-dep/dislocated]() (1; 0% instances), [sl-dep/parataxis:discourse]() (1; 0% instances)
+`ADJ` nodes are attached to their parents using 23 different relations: [sl-dep/amod]() (644; 59% instances), [sl-dep/root]() (123; 11% instances), [sl-dep/conj]() (62; 6% instances), [sl-dep/parataxis]() (52; 5% instances), [sl-dep/obl]() (39; 4% instances), [sl-dep/xcomp]() (30; 3% instances), [sl-dep/obj]() (23; 2% instances), [sl-dep/nsubj]() (21; 2% instances), [sl-dep/acl]() (19; 2% instances), [sl-dep/ccomp]() (18; 2% instances), [sl-dep/nmod]() (16; 1% instances), [sl-dep/advcl]() (15; 1% instances), [sl-dep/reparandum]() (6; 1% instances), [sl-dep/appos]() (5; 0% instances), [sl-dep/advmod]() (4; 0% instances), [sl-dep/fixed]() (4; 0% instances), [sl-dep/parataxis:restart]() (4; 0% instances), [sl-dep/vocative]() (3; 0% instances), [sl-dep/cc]() (1; 0% instances), [sl-dep/csubj]() (1; 0% instances), [sl-dep/dislocated]() (1; 0% instances), [sl-dep/orphan]() (1; 0% instances), [sl-dep/parataxis:discourse]() (1; 0% instances)
 
-Parents of `ADJ` nodes belong to 12 different parts of speech: [NOUN]() (1019; 61% instances), [VERB]() (259; 16% instances), [ROOT]() (206; 12% instances), [ADJ]() (84; 5% instances), [PRON]() (43; 3% instances), [PROPN]() (24; 1% instances), [ADV]() (16; 1% instances), [NUM]() (9; 1% instances), [X]() (2; 0% instances), [DET]() (1; 0% instances), [INTJ]() (1; 0% instances), [PART]() (1; 0% instances)
+Parents of `ADJ` nodes belong to 12 different parts of speech: [NOUN]() (656; 60% instances), [VERB]() (185; 17% instances), [ROOT]() (123; 11% instances), [ADJ]() (59; 5% instances), [DET]() (24; 2% instances), [PROPN]() (16; 1% instances), [ADV]() (9; 1% instances), [NUM]() (9; 1% instances), [PRON]() (7; 1% instances), [PART]() (2; 0% instances), [X]() (2; 0% instances), [INTJ]() (1; 0% instances)
 
-1071 (64%) `ADJ` nodes are leaves.
+675 (62%) `ADJ` nodes are leaves.
 
-178 (11%) `ADJ` nodes have one child.
+149 (14%) `ADJ` nodes have one child.
 
-103 (6%) `ADJ` nodes have two children.
+69 (6%) `ADJ` nodes have two children.
 
-313 (19%) `ADJ` nodes have three or more children.
+200 (18%) `ADJ` nodes have three or more children.
 
-The highest child degree of a `ADJ` node is 15.
+The highest child degree of a `ADJ` node is 13.
 
-Children of `ADJ` nodes are attached using 33 different relations: [sl-dep/advmod]() (386; 20% instances), [sl-dep/cop]() (314; 16% instances), [sl-dep/nsubj]() (160; 8% instances), [sl-dep/nmod]() (118; 6% instances), [sl-dep/cc]() (102; 5% instances), [sl-dep/punct]() (93; 5% instances), [sl-dep/discourse]() (89; 5% instances), [sl-dep/conj]() (88; 5% instances), [sl-dep/mark]() (74; 4% instances), [sl-dep/parataxis]() (69; 4% instances), [sl-dep/aux]() (68; 3% instances), [sl-dep/reparandum]() (64; 3% instances), [sl-dep/case]() (62; 3% instances), [sl-dep/discourse:filler]() (60; 3% instances), [sl-dep/advcl]() (39; 2% instances), [sl-dep/det]() (30; 2% instances), [sl-dep/csubj]() (23; 1% instances), [sl-dep/parataxis:discourse]() (21; 1% instances), [sl-dep/dobj]() (19; 1% instances), [sl-dep/ccomp]() (10; 1% instances), [sl-dep/conj:extend]() (8; 0% instances), [sl-dep/nummod]() (8; 0% instances), [sl-dep/acl]() (7; 0% instances), [sl-dep/dislocated]() (7; 0% instances), [sl-dep/expl]() (6; 0% instances), [sl-dep/neg]() (6; 0% instances), [sl-dep/vocative]() (6; 0% instances), [sl-dep/appos]() (3; 0% instances), [sl-dep/xcomp]() (3; 0% instances), [sl-dep/amod]() (1; 0% instances), [sl-dep/goeswith]() (1; 0% instances), [sl-dep/iobj]() (1; 0% instances), [sl-dep/parataxis:restart]() (1; 0% instances)
+Children of `ADJ` nodes are attached using 31 different relations: [sl-dep/advmod]() (265; 22% instances), [sl-dep/cop]() (197; 16% instances), [sl-dep/nsubj]() (97; 8% instances), [sl-dep/cc]() (66; 5% instances), [sl-dep/conj]() (54; 4% instances), [sl-dep/obl]() (54; 4% instances), [sl-dep/mark]() (52; 4% instances), [sl-dep/punct]() (52; 4% instances), [sl-dep/discourse]() (48; 4% instances), [sl-dep/case]() (46; 4% instances), [sl-dep/discourse:filler]() (44; 4% instances), [sl-dep/reparandum]() (43; 4% instances), [sl-dep/aux]() (42; 3% instances), [sl-dep/parataxis]() (38; 3% instances), [sl-dep/advcl]() (22; 2% instances), [sl-dep/det]() (22; 2% instances), [sl-dep/nmod]() (21; 2% instances), [sl-dep/obj]() (11; 1% instances), [sl-dep/parataxis:discourse]() (11; 1% instances), [sl-dep/csubj]() (10; 1% instances), [sl-dep/nummod]() (7; 1% instances), [sl-dep/ccomp]() (6; 0% instances), [sl-dep/conj:extend]() (5; 0% instances), [sl-dep/appos]() (3; 0% instances), [sl-dep/expl]() (3; 0% instances), [sl-dep/acl]() (2; 0% instances), [sl-dep/xcomp]() (2; 0% instances), [sl-dep/amod]() (1; 0% instances), [sl-dep/dislocated]() (1; 0% instances), [sl-dep/goeswith]() (1; 0% instances), [sl-dep/vocative]() (1; 0% instances)
 
-Children of `ADJ` nodes belong to 16 different parts of speech: [VERB]() (478; 25% instances), [ADV]() (281; 14% instances), [NOUN]() (197; 10% instances), [PART]() (167; 9% instances), [CONJ]() (134; 7% instances), [PRON]() (124; 6% instances), [X]() (104; 5% instances), [ADJ]() (84; 4% instances), [SCONJ]() (81; 4% instances), [AUX]() (72; 4% instances), [INTJ]() (69; 4% instances), [ADP]() (67; 3% instances), [DET]() (30; 2% instances), [PUNCT]() (24; 1% instances), [PROPN]() (23; 1% instances), [NUM]() (12; 1% instances)
+Children of `ADJ` nodes belong to 16 different parts of speech: [AUX]() (240; 20% instances), [ADV]() (171; 14% instances), [NOUN]() (120; 10% instances), [PART]() (105; 9% instances), [CCONJ]() (89; 7% instances), [VERB]() (81; 7% instances), [DET]() (77; 6% instances), [X]() (64; 5% instances), [ADJ]() (59; 5% instances), [SCONJ]() (55; 4% instances), [ADP]() (52; 4% instances), [INTJ]() (48; 4% instances), [PRON]() (30; 2% instances), [PUNCT]() (14; 1% instances), [NUM]() (11; 1% instances), [PROPN]() (11; 1% instances)
 

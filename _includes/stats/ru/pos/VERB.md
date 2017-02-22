@@ -4,88 +4,88 @@
 
 ## Treebank Statistics (UD_Russian)
 
-There are 2123 `VERB` lemmas (11%), 4691 `VERB` types (15%) and 8780 `VERB` tokens (9%).
+There are 1967 `VERB` lemmas (11%), 4232 `VERB` types (15%) and 7303 `VERB` tokens (8%).
 Out of 16 observed tags, the rank of `VERB` is: 4 in number of lemmas, 4 in number of types and 5 in number of tokens.
 
-The 10 most frequent `VERB` lemmas: <em>БЫТЬ, СТАТЬ, ЯВЛЯТЬСЯ, НАХОДИТЬСЯ, ИМЕТЬ, МОЧЬ, ПОЛУЧИТЬ, СОСТАВЛЯТЬ, РАБОТАТЬ, ВХОДИТЬ</em>
+The 10 most frequent `VERB` lemmas: <em>БЫТЬ, ИМЕТЬ, НАХОДИТЬСЯ, МОЧЬ, ПОЛУЧИТЬ, СОСТАВЛЯТЬ, РАБОТАТЬ, ВХОДИТЬ, РАСПОЛОЖИТЬ, ИСПОЛЬЗОВАТЬ</em>
 
-The 10 most frequent `VERB` types:  <em>был, является, было, стал, составляет, были, может, находится, входит, получил</em>
+The 10 most frequent `VERB` types:  <em>составляет, может, получил, находится, входит, родился, можно, имеет, есть, было</em>
 
-The 10 most frequent ambiguous lemmas: <em>БЫТЬ</em> ([AUX]() 615, [VERB]() 305), <em>НЕТ</em> ([VERB]() 17, [PART]() 1, [NOUN]() 1), <em>ВЕСТИ</em> ([VERB]() 14, [NOUN]() 1), <em>ПОДАТЬ</em> ([VERB]() 11, [NOUN]() 1), <em>ТРУДНО</em> ([VERB]() 4, [ADV]() 3), <em>MUST</em> ([VERB]() 2, [ADJ]() 1), <em>ВОЗМОЖНО</em> ([ADV]() 7, [VERB]() 2, [ADJ]() 1), <em>ДОСТАТОЧНО</em> ([ADV]() 8, [VERB]() 2), <em>ПАСТЬ</em> ([VERB]() 2, [NOUN]() 1), <em>FACTUS</em> ([VERB]() 1, [ADJ]() 1)
+The 10 most frequent ambiguous lemmas: <em>БЫТЬ</em> ([AUX]() 678, [VERB]() 126), <em>МОЧЬ</em> ([VERB]() 89, [AUX]() 1), <em>РАБОТАТЬ</em> ([VERB]() 70, [AUX]() 1), <em>СОСТОЯТЬ</em> ([VERB]() 33, [AUX]() 1), <em>НАЗЫВАТЬ</em> ([VERB]() 31, [AUX]() 2), <em>СТАТЬ</em> ([AUX]() 101, [VERB]() 28), <em>СДЕЛАТЬ</em> ([VERB]() 26, [AUX]() 2), <em>ГОВОРИТЬ</em> ([VERB]() 23, [AUX]() 1), <em>ОСТАТЬСЯ</em> ([VERB]() 18, [AUX]() 5), <em>НАЗЫВАТЬСЯ</em> ([VERB]() 17, [AUX]() 1)
 
-The 10 most frequent ambiguous types:  <em>был</em> ([AUX]() 227, [VERB]() 86), <em>было</em> ([AUX]() 101, [VERB]() 56), <em>были</em> ([AUX]() 96, [VERB]() 50), <em>была</em> ([AUX]() 101, [VERB]() 40), <em>нет</em> ([VERB]() 17, [PART]() 1, [NOUN]() 1), <em>стали</em> ([VERB]() 17, [NOUN]() 1), <em>быть</em> ([AUX]() 30, [VERB]() 16), <em>будет</em> ([AUX]() 22, [VERB]() 10), <em>вынужден</em> ([VERB]() 6, [ADJ]() 1), <em>правил</em> ([VERB]() 6, [NOUN]() 6)
+The 10 most frequent ambiguous types:  <em>есть</em> ([VERB]() 24, [AUX]() 1), <em>было</em> ([AUX]() 112, [VERB]() 29), <em>могут</em> ([VERB]() 23, [AUX]() 1), <em>работал</em> ([VERB]() 19, [AUX]() 1), <em>был</em> ([AUX]() 262, [VERB]() 18), <em>нет</em> ([VERB]() 17, [PART]() 1, [NOUN]() 1), <em>были</em> ([AUX]() 111, [VERB]() 16), <em>быть</em> ([AUX]() 24, [VERB]() 14), <em>назначен</em> ([VERB]() 13, [AUX]() 3), <em>была</em> ([AUX]() 107, [VERB]() 12)
 
 
-* <em>был</em>
-  * [AUX]() 227: <em>Наиболее известный русский перевод <b>был</b> сделан Даниилом Хармсом .</em>
-  * [VERB]() 86: <em>Правый фланг <b>был</b> также уязвим .</em>
+* <em>есть</em>
+  * [VERB]() 24: <em>У Самары <b>есть</b> старший брат -- Гладстоун Фелиппо Сантана ( род. 1974 ) .</em>
+  * [AUX]() 1: <em>Разница между традиционным и либеральным подходами в данном случае касается понятия гомосексуальности : традиционное богословие интересуется исключительно сексуальным поведением , в то время как либеральное исходит из научного представления о том , что гомосексуальность <b>есть</b> не поведение , а ориентация , которая может не выражаться в сексуальных актах , но выразиться в чувствах и влечениях .</em>
 * <em>было</em>
-  * [AUX]() 101: <em>Новое название поселению <b>было</b> дано по речке Пивка .</em>
-  * [VERB]() 56: <em>В 2005 году <b>было</b> 1467 человек .</em>
-* <em>были</em>
-  * [AUX]() 96: <em>В 1994 году <b>были</b> проведены раскопки и обнаружен фундамент храма .</em>
-  * [VERB]() 50: <em>Первые 128 узлов <b>были</b> доступны для работы уже в сентябре 2001 года .</em>
-* <em>была</em>
-  * [AUX]() 101: <em>Сретенская церковь в селе Батурино <b>была</b> построена в 1713 -- 1736 годы .</em>
-  * [VERB]() 40: <em>Экспедиция <b>была</b> очень сложной .</em>
+  * [AUX]() 112: <em>Новое название поселению <b>было</b> дано по речке Пивка .</em>
+  * [VERB]() 29: <em>По данным переписи в 2002 году постоянного населения не <b>было</b> .</em>
+* <em>могут</em>
+  * [VERB]() 23: <em>Звёзды также <b>могут</b> быть покрыты планетами и их спутниками .</em>
+  * [AUX]() 1: <em>Объектоспособными результатами интеллектуальной деятельности , охраняемыми в качестве полезных моделей , <b>могут</b> быть только технические решения , относящиеся к устройствам .</em>
+* <em>работал</em>
+  * [VERB]() 19: <em>В 1951 -- 1961 годах <b>работал</b> в юридической компании .</em>
+  * [AUX]() 1: <em>С 1915 по 1917 годы <b>работал</b> телеграфистом станции Чебышево Урало - Илецкой железной дороги , а в 1917 году -- телеграфистом станции Уральск , а затем станции Красный Кут Рязано - Уральской железной дороги .</em>
+* <em>был</em>
+  * [AUX]() 262: <em>Текст <b>был</b> написан по - латыни .</em>
+  * [VERB]() 18: <em>В городе <b>был</b> Юрий Гагарин .</em>
 * <em>нет</em>
   * [VERB]() 17: <em>Крупных притоков <b>нет</b> .</em>
   * [PART]() 1: <em>Лирические героини многих её стихотворений говорят о страстной влюблённости или любви ( иногда взаимной , иногда <b>нет</b> ) к различным женщинам , но описания телесного контакта между женщинами встречаются редко и являются спорными .</em>
   * [NOUN]() 1: <em>При этом , правда , они не учли , что холодная и влажная погода зимой фактически сводила на <b>нет</b> все надежды на устраиваемые аэростатами лесные пожары : леса США и Канады были влажными и покрыты снегом , небольшие зажигательные бомбы практически не имели шансов произвести задуманный эффект .</em>
-* <em>стали</em>
-  * [VERB]() 17: <em>Но после того , как все <b>стали</b> приготавливать , звезда давалась только лучшему .</em>
-  * [NOUN]() 1: <em>Для уменьшения веса судна его строили не из <b>стали</b> , а из алюминиево - магниевого сплава .</em>
+* <em>были</em>
+  * [AUX]() 111: <em>В 1994 году <b>были</b> проведены раскопки и обнаружен фундамент храма .</em>
+  * [VERB]() 16: <em>Ещё до представления у неё <b>были</b> плохие предчувствия .</em>
 * <em>быть</em>
-  * [AUX]() 30: <em>При этом ягоды всегда должны <b>быть</b> покрыты жидкостью .</em>
-  * [VERB]() 16: <em>Кроме того , могут <b>быть</b> концертные и лекционные залы , комнаты для переговоров .</em>
-* <em>будет</em>
-  * [AUX]() 22: <em>Производительность <b>будет</b> побольше увеличена .</em>
-  * [VERB]() 10: <em>Нотации казалось , не <b>будет</b> конца .</em>
-* <em>вынужден</em>
-  * [VERB]() 6: <em>Ден Фрай был <b>вынужден</b> оставить группу по состоянию здоровья .</em>
-  * [ADJ]() 1: <em>Хиппер был <b>вынужден</b> отвернуть и занять место в голове немецкой колонны .</em>
-* <em>правил</em>
-  * [VERB]() 6: <em>Но все таки он <b>правил</b> мудро .</em>
-  * [NOUN]() 6: <em>Среди <b>правил</b> особо выделяется запрет на церковную живопись :</em>
+  * [AUX]() 24: <em>При этом ягоды всегда должны <b>быть</b> покрыты жидкостью .</em>
+  * [VERB]() 14: <em>Кроме того , могут <b>быть</b> концертные и лекционные залы , комнаты для переговоров .</em>
+* <em>назначен</em>
+  * [VERB]() 13: <em>В 1827 году <b>назначен</b> командиром флотской бригады в Свеаборге .</em>
+  * [AUX]() 3: <em>10 октября 1886 года <b>назначен</b> главным инспектором морской артиллерии .</em>
+* <em>была</em>
+  * [AUX]() 107: <em>Сретенская церковь в селе Батурино <b>была</b> построена в 1713 -- 1736 годы .</em>
+  * [VERB]() 12: <em>Анна Дмитриевна <b>была</b> маленького роста , с застенчивой улыбкой .</em>
 
 ## Morphology
 
-The form / lemma ratio of `VERB` is 2.209609 (the average of all parts of speech is 1.591757).
+The form / lemma ratio of `VERB` is 2.151500 (the average of all parts of speech is 1.576680).
 
-The 1st highest number of forms (20) was observed with the lemma “ПОЛУЧИТЬ”: <em>Полученная, Полученный, Получив, получат, получена, полученной, полученном, полученную, полученных, получены, получившему, получившие, получивший, получивших, получил, получила, получили, получило, получит, получить</em>.
+The 1st highest number of forms (19) was observed with the lemma “ИМЕТЬ”: <em>имевшая, имевших, имеем, имеет, имел, имела, имели, имело, иметь, имеют, имеющая, имеющего, имеющей, имеющему, имеющие, имеющий, имеющим, имеющих, имея</em>.
 
-The 2nd highest number of forms (19) was observed with the lemma “ИМЕТЬ”: <em>имевшая, имевших, имеем, имеет, имел, имела, имели, имело, иметь, имеют, имеющая, имеющего, имеющей, имеющему, имеющие, имеющий, имеющим, имеющих, имея</em>.
+The 2nd highest number of forms (19) was observed with the lemma “ПОЛУЧИТЬ”: <em>Полученная, Получив, получат, получена, полученной, полученном, полученную, полученных, получены, получившему, получившие, получивший, получивших, получил, получила, получили, получило, получит, получить</em>.
 
-The 3rd highest number of forms (17) was observed with the lemma “ИСПОЛЬЗОВАТЬ”: <em>использовав, использовал, использовала, использовали, использован, использована, использованы, использовать, используемым, используемых, использует, использую, используют, использующая, использующие, использующих, используя</em>.
+The 3rd highest number of forms (17) was observed with the lemma “НАХОДИТЬСЯ”: <em>находившееся, находившейся, находившийся, находившимся, находившихся, находилась, находились, находилось, находился, находится, находясь, находятся, находящейся, находящемся, находящиеся, находящихся, находящуюся</em>.
 
-`VERB` occurs with 12 features: [ru-feat/Aspect]() (8692; 99% instances), [ru-feat/VerbForm]() (8675; 99% instances), [ru-feat/Number]() (7537; 86% instances), [ru-feat/Tense]() (7520; 86% instances), [ru-feat/Mood]() (5471; 62% instances), [ru-feat/Gender]() (4010; 46% instances), [ru-feat/Person]() (2140; 24% instances), [ru-feat/Animacy]() (2066; 24% instances), [ru-feat/Case]() (2066; 24% instances), [ru-feat/Voice]() (2066; 24% instances), [ru-feat/Variant]() (947; 11% instances), [ru-feat/Degree]() (88; 1% instances)
+`VERB` occurs with 12 features: [ru-feat/Aspect]() (7225; 99% instances), [ru-feat/VerbForm]() (7208; 99% instances), [ru-feat/Number]() (6229; 85% instances), [ru-feat/Tense]() (6219; 85% instances), [ru-feat/Mood]() (4416; 60% instances), [ru-feat/Gender]() (3283; 45% instances), [ru-feat/Voice]() (3188; 44% instances), [ru-feat/Animacy]() (1813; 25% instances), [ru-feat/Case]() (1813; 25% instances), [ru-feat/Person]() (1761; 24% instances), [ru-feat/Variant]() (820; 11% instances), [ru-feat/Degree]() (78; 1% instances)
 
-`VERB` occurs with 32 feature-value pairs: `Animacy=Anim`, `Animacy=Inan`, `Aspect=Imp`, `Aspect=Perf`, `Case=Acc`, `Case=Dat`, `Case=Gen`, `Case=Ins`, `Case=Loc`, `Case=Nom`, `Degree=Cmp`, `Degree=Pos`, `Gender=Fem`, `Gender=Masc`, `Gender=Neut`, `Mood=Imp`, `Mood=Ind`, `Number=Plur`, `Number=Sing`, `Person=1`, `Person=2`, `Person=3`, `Tense=Fut`, `Tense=Past`, `Tense=Pres`, `Variant=Brev`, `VerbForm=Fin`, `VerbForm=Inf`, `VerbForm=Part`, `VerbForm=Trans`, `Voice=Act`, `Voice=Pass`
+`VERB` occurs with 33 feature-value pairs: `Animacy=Anim`, `Animacy=Inan`, `Aspect=Imp`, `Aspect=Perf`, `Case=Acc`, `Case=Dat`, `Case=Gen`, `Case=Ins`, `Case=Loc`, `Case=Nom`, `Degree=Cmp`, `Degree=Pos`, `Gender=Fem`, `Gender=Masc`, `Gender=Neut`, `Mood=Imp`, `Mood=Ind`, `Number=Plur`, `Number=Sing`, `Person=1`, `Person=2`, `Person=3`, `Tense=Fut`, `Tense=Past`, `Tense=Pres`, `Variant=Short`, `VerbForm=Conv`, `VerbForm=Fin`, `VerbForm=Inf`, `VerbForm=Part`, `Voice=Act`, `Voice=Mid`, `Voice=Pass`
 
-`VERB` occurs with 208 feature combinations.
-The most frequent feature combination is `Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin` (1465 tokens).
-Examples: <em>является, составляет, может, находится, входит, имеет, есть, занимает, относится, работает</em>
+`VERB` occurs with 219 feature combinations.
+The most frequent feature combination is `Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin` (799 tokens).
+Examples: <em>составляет, может, входит, имеет, есть, занимает, состоит, работает, представляет, существует</em>
 
 
 ## Relations
 
-`VERB` nodes are attached to their parents using 21 different relations: [ru-dep/root]() (3726; 42% instances), [ru-dep/acl]() (1054; 12% instances), [ru-dep/conj]() (989; 11% instances), [ru-dep/xcomp]() (636; 7% instances), [ru-dep/acl:relcl]() (583; 7% instances), [ru-dep/advcl]() (495; 6% instances), [ru-dep/cop]() (495; 6% instances), [ru-dep/parataxis]() (426; 5% instances), [ru-dep/ccomp]() (227; 3% instances), [ru-dep/appos]() (37; 0% instances), [ru-dep/amod]() (33; 0% instances), [ru-dep/nmod]() (22; 0% instances), [ru-dep/mwe]() (19; 0% instances), [ru-dep/csubj]() (8; 0% instances), [ru-dep/discourse]() (8; 0% instances), [ru-dep/nsubj]() (6; 0% instances), [ru-dep/dobj]() (4; 0% instances), [ru-dep/remnant]() (4; 0% instances), [ru-dep/advmod]() (3; 0% instances), [ru-dep/list]() (3; 0% instances), [ru-dep/iobj]() (2; 0% instances)
+`VERB` nodes are attached to their parents using 23 different relations: [ru-dep/root]() (3264; 45% instances), [ru-dep/acl]() (947; 13% instances), [ru-dep/conj]() (864; 12% instances), [ru-dep/xcomp]() (564; 8% instances), [ru-dep/acl:relcl]() (515; 7% instances), [ru-dep/advcl]() (439; 6% instances), [ru-dep/parataxis]() (374; 5% instances), [ru-dep/ccomp]() (209; 3% instances), [ru-dep/appos]() (31; 0% instances), [ru-dep/amod]() (25; 0% instances), [ru-dep/nmod]() (19; 0% instances), [ru-dep/fixed]() (14; 0% instances), [ru-dep/csubj]() (8; 0% instances), [ru-dep/discourse]() (5; 0% instances), [ru-dep/obl]() (5; 0% instances), [ru-dep/nsubj]() (4; 0% instances), [ru-dep/obj]() (4; 0% instances), [ru-dep/advmod]() (3; 0% instances), [ru-dep/goeswith]() (3; 0% instances), [ru-dep/list]() (3; 0% instances), [ru-dep/flat]() (1; 0% instances), [ru-dep/iobj]() (1; 0% instances), [ru-dep/orphan]() (1; 0% instances)
 
-Parents of `VERB` nodes belong to 12 different parts of speech: [ROOT]() (3726; 42% instances), [VERB]() (2400; 27% instances), [NOUN]() (2036; 23% instances), [ADJ]() (347; 4% instances), [PROPN]() (138; 2% instances), [PRON]() (59; 1% instances), [NUM]() (35; 0% instances), [DET]() (14; 0% instances), [ADV]() (13; 0% instances), [ADP]() (9; 0% instances), [SYM]() (2; 0% instances), [AUX]() (1; 0% instances)
+Parents of `VERB` nodes belong to 14 different parts of speech: [ROOT]() (3264; 45% instances), [VERB]() (2117; 29% instances), [NOUN]() (1506; 21% instances), [ADJ]() (176; 2% instances), [PROPN]() (118; 2% instances), [PRON]() (52; 1% instances), [ADV]() (23; 0% instances), [ADP]() (17; 0% instances), [DET]() (12; 0% instances), [NUM]() (7; 0% instances), [PUNCT]() (7; 0% instances), [SYM]() (2; 0% instances), [AUX]() (1; 0% instances), [CCONJ]() (1; 0% instances)
 
-847 (10%) `VERB` nodes are leaves.
+276 (4%) `VERB` nodes are leaves.
 
-908 (10%) `VERB` nodes have one child.
+574 (8%) `VERB` nodes have one child.
 
-1262 (14%) `VERB` nodes have two children.
+1097 (15%) `VERB` nodes have two children.
 
-5763 (66%) `VERB` nodes have three or more children.
+5356 (73%) `VERB` nodes have three or more children.
 
-The highest child degree of a `VERB` node is 25.
+The highest child degree of a `VERB` node is 13.
 
-Children of `VERB` nodes are attached using 35 different relations: [ru-dep/punct]() (7437; 25% instances), [ru-dep/nmod]() (6971; 24% instances), [ru-dep/nsubj]() (3696; 13% instances), [ru-dep/dobj]() (2589; 9% instances), [ru-dep/advmod]() (1702; 6% instances), [ru-dep/conj]() (988; 3% instances), [ru-dep/iobj]() (913; 3% instances), [ru-dep/cc]() (858; 3% instances), [ru-dep/nsubjpass]() (655; 2% instances), [ru-dep/xcomp]() (578; 2% instances), [ru-dep/auxpass]() (521; 2% instances), [ru-dep/advcl]() (440; 2% instances), [ru-dep/mark]() (400; 1% instances), [ru-dep/parataxis]() (384; 1% instances), [ru-dep/neg]() (304; 1% instances), [ru-dep/ccomp]() (246; 1% instances), [ru-dep/discourse]() (159; 1% instances), [ru-dep/cc:preconj]() (126; 0% instances), [ru-dep/aux]() (46; 0% instances), [ru-dep/appos]() (34; 0% instances), [ru-dep/acl]() (29; 0% instances), [ru-dep/acl:relcl]() (24; 0% instances), [ru-dep/list]() (23; 0% instances), [ru-dep/amod]() (21; 0% instances), [ru-dep/case]() (18; 0% instances), [ru-dep/goeswith]() (9; 0% instances), [ru-dep/det]() (8; 0% instances), [ru-dep/csubj]() (6; 0% instances), [ru-dep/nmod:agent]() (6; 0% instances), [ru-dep/vocative]() (6; 0% instances), [ru-dep/mwe]() (5; 0% instances), [ru-dep/remnant]() (5; 0% instances), [ru-dep/nummod]() (4; 0% instances), [ru-dep/dep]() (2; 0% instances), [ru-dep/name]() (1; 0% instances)
+Children of `VERB` nodes are attached using 34 different relations: [ru-dep/punct]() (6538; 25% instances), [ru-dep/obl]() (6116; 24% instances), [ru-dep/nsubj]() (3265; 13% instances), [ru-dep/obj]() (2281; 9% instances), [ru-dep/advmod]() (1769; 7% instances), [ru-dep/conj]() (920; 4% instances), [ru-dep/iobj]() (821; 3% instances), [ru-dep/cc]() (742; 3% instances), [ru-dep/nsubj:pass]() (572; 2% instances), [ru-dep/xcomp]() (512; 2% instances), [ru-dep/aux:pass]() (452; 2% instances), [ru-dep/advcl]() (389; 2% instances), [ru-dep/mark]() (366; 1% instances), [ru-dep/parataxis]() (340; 1% instances), [ru-dep/ccomp]() (220; 1% instances), [ru-dep/discourse]() (150; 1% instances), [ru-dep/cc:preconj]() (110; 0% instances), [ru-dep/aux]() (37; 0% instances), [ru-dep/appos]() (31; 0% instances), [ru-dep/acl]() (29; 0% instances), [ru-dep/list]() (22; 0% instances), [ru-dep/case]() (21; 0% instances), [ru-dep/acl:relcl]() (20; 0% instances), [ru-dep/amod]() (17; 0% instances), [ru-dep/fixed]() (8; 0% instances), [ru-dep/det]() (7; 0% instances), [ru-dep/goeswith]() (7; 0% instances), [ru-dep/csubj]() (6; 0% instances), [ru-dep/obl:agent]() (6; 0% instances), [ru-dep/vocative]() (5; 0% instances), [ru-dep/nummod]() (4; 0% instances), [ru-dep/orphan]() (4; 0% instances), [ru-dep/nmod]() (2; 0% instances), [ru-dep/dep]() (1; 0% instances)
 
-Children of `VERB` nodes belong to 15 different parts of speech: [NOUN]() (11974; 41% instances), [PUNCT]() (7446; 25% instances), [VERB]() (2400; 8% instances), [PROPN]() (1570; 5% instances), [PRON]() (1502; 5% instances), [ADV]() (1424; 5% instances), [CONJ]() (994; 3% instances), [AUX]() (567; 2% instances), [SCONJ]() (391; 1% instances), [PART]() (385; 1% instances), [ADJ]() (280; 1% instances), [NUM]() (102; 0% instances), [ADP]() (72; 0% instances), [DET]() (63; 0% instances), [SYM]() (44; 0% instances)
+Children of `VERB` nodes belong to 15 different parts of speech: [NOUN]() (10495; 41% instances), [PUNCT]() (6568; 25% instances), [VERB]() (2117; 8% instances), [PROPN]() (1344; 5% instances), [ADV]() (1340; 5% instances), [PRON]() (1328; 5% instances), [CCONJ]() (863; 3% instances), [AUX]() (489; 2% instances), [SCONJ]() (356; 1% instances), [PART]() (350; 1% instances), [ADJ]() (241; 1% instances), [ADP]() (108; 0% instances), [NUM]() (93; 0% instances), [DET]() (57; 0% instances), [SYM]() (41; 0% instances)
 
 
 
@@ -93,88 +93,89 @@ Children of `VERB` nodes belong to 15 different parts of speech: [NOUN]() (11974
 
 ## Treebank Statistics (UD_Russian-SynTagRus)
 
-There are 6036 `VERB` lemmas (14%), 31394 `VERB` types (27%) and 120470 `VERB` tokens (11%).
-Out of 17 observed tags, the rank of `VERB` is: 4 in number of lemmas, 2 in number of types and 3 in number of tokens.
+There are 5885 `VERB` lemmas (14%), 29739 `VERB` types (27%) and 110741 `VERB` tokens (11%).
+Out of 18 observed tags, the rank of `VERB` is: 4 in number of lemmas, 2 in number of types and 3 in number of tokens.
 
 The 10 most frequent `VERB` lemmas: <em>мочь, быть, становиться, говорить, делать, сказать, получать, иметь, считать, давать</em>
 
-The 10 most frequent `VERB` types:  <em>может, есть, нет, могут, было, является, стал, быть, сказал, говорит</em>
+The 10 most frequent `VERB` types:  <em>может, есть, нет, могут, было, является, быть, стал, говорит, сказал</em>
 
-The 10 most frequent ambiguous lemmas: <em>мочь</em> ([VERB]() 3288, [NOUN]() 1, [X]() 1), <em>быть</em> ([AUX]() 8016, [VERB]() 2291), <em>знать</em> ([VERB]() 709, [NOUN]() 3), <em>нет</em> ([VERB]() 691, [PART]() 154, [NOUN]() 1), <em>решать</em> ([VERB]() 534, [ADJ]() 1), <em>стать</em> ([VERB]() 449, [NOUN]() 5), <em>определять</em> ([VERB]() 338, [ADJ]() 1), <em>открывать</em> ([VERB]() 246, [ADJ]() 1), <em>расти</em> ([VERB]() 237, [PROPN]() 1), <em>соответствовать</em> ([VERB]() 114, [ADJ]() 1)
+The 10 most frequent ambiguous lemmas: <em>мочь</em> ([VERB]() 3048, [NOUN]() 1, [X]() 1), <em>быть</em> ([AUX]() 7266, [VERB]() 2640), <em>нет</em> ([VERB]() 650, [PART]() 211, [NOUN]() 1), <em>знать</em> ([VERB]() 641, [NOUN]() 3), <em>решать</em> ([VERB]() 499, [ADJ]() 1), <em>стать</em> ([VERB]() 402, [NOUN]() 3), <em>определять</em> ([VERB]() 312, [ADJ]() 1), <em>расти</em> ([VERB]() 222, [PROPN]() 1), <em>открывать</em> ([VERB]() 220, [ADJ]() 1), <em>соответствовать</em> ([VERB]() 107, [ADJ]() 1)
 
-The 10 most frequent ambiguous types:  <em>есть</em> ([VERB]() 694, [AUX]() 195, [INTJ]() 1), <em>нет</em> ([VERB]() 625, [PART]() 49), <em>было</em> ([AUX]() 1615, [VERB]() 480, [PART]() 24), <em>быть</em> ([AUX]() 707, [VERB]() 350), <em>стали</em> ([VERB]() 286, [NOUN]() 21), <em>будет</em> ([AUX]() 1061, [VERB]() 194), <em>стать</em> ([VERB]() 184, [NOUN]() 3), <em>был</em> ([AUX]() 1498, [VERB]() 128), <em>значит</em> ([VERB]() 109, [ADV]() 98), <em>были</em> ([AUX]() 1119, [VERB]() 107, [NOUN]() 3)
+The 10 most frequent ambiguous types:  <em>есть</em> ([VERB]() 1066, [AUX]() 178, [INTJ]() 1), <em>нет</em> ([VERB]() 586, [PART]() 109, [ADJ]() 1), <em>было</em> ([AUX]() 1468, [VERB]() 480, [PART]() 19), <em>быть</em> ([AUX]() 647, [VERB]() 331), <em>стали</em> ([VERB]() 260, [NOUN]() 22), <em>будет</em> ([AUX]() 984, [VERB]() 189), <em>стать</em> ([VERB]() 167, [NOUN]() 2), <em>был</em> ([AUX]() 1320, [VERB]() 118), <em>были</em> ([AUX]() 1014, [VERB]() 99, [NOUN]() 3), <em>значит</em> ([VERB]() 98, [ADV]() 92)
 
 
 * <em>есть</em>
-  * [VERB]() 694: <em>Живой , и все у него уже <b>есть</b> ?</em>
-  * [AUX]() 195: <em>Для этого <b>есть</b> внешний повод .</em>
+  * [VERB]() 1066: <em>Живой , и все у него уже <b>есть</b> ?</em>
+  * [AUX]() 178: <em>Для этого <b>есть</b> внешний повод .</em>
   * [INTJ]() 1: <em>Партия скажет " надо " - зэки и стройбат ответят : " <b>есть</b> " .</em>
 * <em>нет</em>
-  * [VERB]() 625: <em>Единого " истинного " определения понятия " алгоритм " <b>нет</b> .</em>
-  * [PART]() 49: <em>- Вероятно , <b>нет</b> , - отвечает он .</em>
+  * [VERB]() 586: <em>Единого " истинного " определения понятия " алгоритм " <b>нет</b> .</em>
+  * [PART]() 109: <em>До сих пор идут споры о том , достигли они вершины или <b>нет</b> _</em>
+  * [ADJ]() 1: <em>Мне не нравится логика разделения на нормальных и _ <b>нет</b> .</em>
 * <em>было</em>
-  * [AUX]() 1615: <em>Для получения значка необходимо <b>было</b> выполнить определенные требования .</em>
+  * [AUX]() 1468: <em>Для получения значка необходимо <b>было</b> выполнить определенные требования .</em>
   * [VERB]() 480: <em>Повода у нее не <b>было</b> , а причина ? . .</em>
-  * [PART]() 24: <em>Впрочем , как пришел - так чуть <b>было</b> и не ушел .</em>
+  * [PART]() 19: <em>Впрочем , как пришел - так чуть <b>было</b> и не ушел .</em>
 * <em>быть</em>
-  * [AUX]() 707: <em>Алгоритм должен <b>быть</b> применим к разным наборам исходных данных .</em>
-  * [VERB]() 350: <em>Сколько же в таком правительстве может <b>быть</b> вице-премьеров ?</em>
+  * [AUX]() 647: <em>Алгоритм должен <b>быть</b> применим к разным наборам исходных данных .</em>
+  * [VERB]() 331: <em>Сколько же в таком правительстве может <b>быть</b> вице-премьеров ?</em>
 * <em>стали</em>
-  * [VERB]() 286: <em>В России после ее смерти в списках <b>стали</b> распространять мемуары царицы .</em>
-  * [NOUN]() 21: <em>Новый резак легко и быстро режет десятимиллиметровые листы <b>стали</b> .</em>
+  * [VERB]() 260: <em>В России после ее смерти в списках <b>стали</b> распространять мемуары царицы .</em>
+  * [NOUN]() 22: <em>Из стекла и <b>стали</b> .</em>
 * <em>будет</em>
-  * [AUX]() 1061: <em>" Атлантида <b>будет</b> найдена " , - уверен Александр Воронин .</em>
-  * [VERB]() 194: <em>Представьте , что <b>будет</b> : газы , образующиеся в кишечнике , горючи !</em>
+  * [AUX]() 984: <em>" Атлантида <b>будет</b> найдена " , - уверен Александр Воронин .</em>
+  * [VERB]() 189: <em>Представьте , что <b>будет</b> : газы , образующиеся в кишечнике , горючи !</em>
 * <em>стать</em>
-  * [VERB]() 184: <em>Он взвешивал возможность <b>стать</b> священником , но отец был против .</em>
-  * [NOUN]() 3: <em>Под <b>стать</b> этому " ангару " , за забором Института действительно располагалось летное поле - Ходынское .</em>
+  * [VERB]() 167: <em>Он взвешивал возможность <b>стать</b> священником , но отец был против .</em>
+  * [NOUN]() 2: <em>Под <b>стать</b> этому " ангару " , за забором Института действительно располагалось летное поле - Ходынское .</em>
 * <em>был</em>
-  * [AUX]() 1498: <em>" Алгоризм <b>был</b> придуман в Греции .</em>
-  * [VERB]() 128: <em>А где <b>был</b> я ? . .</em>
-* <em>значит</em>
-  * [VERB]() 109: <em>Ведь это <b>значит</b> , что сорокалетним 1956 года в 1937-м было уже двадцать .</em>
-  * [ADV]() 98: <em>Если 98 из них на месте , <b>значит</b> , все в порядке .</em>
+  * [AUX]() 1320: <em>" Алгоризм <b>был</b> придуман в Греции .</em>
+  * [VERB]() 118: <em>А где <b>был</b> я ? . .</em>
 * <em>были</em>
-  * [AUX]() 1119: <em>Раньше победы над ней <b>были</b> большой редкостью для зарубежных альпинистов .</em>
-  * [VERB]() 107: <em>До этой даты <b>были</b> отдельные восхождения в различных районах России .</em>
+  * [AUX]() 1014: <em>Раньше победы над ней <b>были</b> большой редкостью для зарубежных альпинистов .</em>
+  * [VERB]() 99: <em>До этой даты <b>были</b> отдельные восхождения в различных районах России .</em>
   * [NOUN]() 3: <em>Громообразные , с автоматическим оружием по бокам , <b>были</b> рядом .</em>
+* <em>значит</em>
+  * [VERB]() 98: <em>Ведь это <b>значит</b> , что сорокалетним 1956 года в 1937-м было уже двадцать .</em>
+  * [ADV]() 92: <em>Если канала не будет , <b>значит</b> , это шаровая молния .</em>
 
 ## Morphology
 
-The form / lemma ratio of `VERB` is 5.201127 (the average of all parts of speech is 2.665758).
+The form / lemma ratio of `VERB` is 5.053356 (the average of all parts of speech is 2.644632).
 
-The 1st highest number of forms (62) was observed with the lemma “получать”: <em>получавшие, получаем, получаемое, получаемой, получаемые, получаемыми, получаемых, получает, получается, получаешь, получал, получала, получали, получало, получат, получать, получаться, получаю, получают, получаются, получающие, получающими, получающих, получая, получен, получена, полученная, полученного, полученное, полученной, полученном, полученному, полученную, полученные, полученный, полученным, полученными, полученных, получено, получены, получи, получив, получившая, получившего, получившее, получившей, получившему, получившие, получивший, получившими, получивших, получившую, получил, получила, получили, получило, получим, получит, получите, получить, получишь, получу</em>.
+The 1st highest number of forms (61) was observed with the lemma “принимать”: <em>Примите, Принимается, приемлем, приемлет, приемлют, примем, примет, примут, принимавший, принимавшим, принимаем, принимаемого, принимаемы, принимаемые, принимаемый, принимаемых, принимает, принимал, принимала, принималась, принимали, принимались, принимало, принималось, принимать, приниматься, принимаю, принимают, принимаются, принимающего, принимающей, принимающем, принимающие, принимающий, принимающих, принимая, приняв, принявшего, принявшей, принявший, принявших, принял, приняла, приняли, приняло, принят, принята, принятая, принято, принятого, принятое, принятой, принятом, принятому, приняты, принятые, принятый, принятым, принятыми, принятых, принять</em>.
 
-The 2nd highest number of forms (61) was observed with the lemma “принимать”: <em>Примите, приемлем, приемлет, приемлют, примем, примет, примут, принимавший, принимавшим, принимавших, принимаем, принимаемого, принимаемы, принимаемые, принимаемый, принимаемых, принимает, принимал, принимала, принималась, принимали, принимались, принимало, принималось, принимать, приниматься, принимаю, принимают, принимаются, принимающего, принимающей, принимающем, принимающие, принимающий, принимающих, принимая, приняв, принявшего, принявшей, принявший, принявших, принял, приняла, приняли, приняло, принят, принята, принятая, принято, принятого, принятое, принятой, принятом, принятому, приняты, принятые, принятый, принятым, принятыми, принятых, принять</em>.
+The 2nd highest number of forms (60) was observed with the lemma “получать”: <em>получавшие, получаем, получаемое, получаемой, получаемые, получаемыми, получает, получается, получал, получала, получали, получало, получат, получать, получаться, получаю, получают, получаются, получающие, получающими, получающих, получая, получен, получена, полученная, полученного, полученное, полученной, полученном, полученному, полученную, полученные, полученный, полученным, полученными, полученных, получено, получены, получи, получив, получившая, получившего, получившее, получившей, получившему, получившие, получивший, получившими, получивших, получившую, получил, получила, получили, получило, получим, получит, получите, получить, получишь, получу</em>.
 
-The 3rd highest number of forms (59) was observed with the lemma “делать”: <em>Делался, Сделайте, делавшая, делавшееся, делаем, делает, делаете, делается, делаешь, делай, делайте, делал, делала, делалась, делали, делались, делало, делалось, делать, делаться, делаю, делают, делаются, делающего, делающие, делающими, делающих, делая, сделав, сделавшего, сделавшей, сделавшему, сделавшие, сделавший, сделавших, сделаем, сделает, сделаете, сделаешь, сделал, сделала, сделали, сделало, сделан, сделана, сделанная, сделанного, сделанное, сделанной, сделанные, сделанный, сделанным, сделанными, сделанных, сделано, сделаны, сделать, сделаю, сделают</em>.
+The 3rd highest number of forms (57) was observed with the lemma “делать”: <em>Делался, Сделайте, делавшая, делавшееся, делаем, делает, делаете, делается, делаешь, делай, делайте, делал, делала, делалась, делали, делались, делало, делалось, делать, делаться, делаю, делают, делаются, делающего, делающие, делающих, делая, сделав, сделавшего, сделавшей, сделавшему, сделавшие, сделавший, сделавших, сделаем, сделает, сделаете, сделаешь, сделал, сделала, сделали, сделало, сделан, сделана, сделанная, сделанного, сделанное, сделанной, сделанные, сделанный, сделанным, сделанными, сделанных, сделано, сделаны, сделать, сделают</em>.
 
-`VERB` occurs with 11 features: [ru-feat/Aspect]() (120446; 100% instances), [ru-feat/VerbForm]() (120446; 100% instances), [ru-feat/Voice]() (97970; 81% instances), [ru-feat/Tense]() (96957; 80% instances), [ru-feat/Number]() (93992; 78% instances), [ru-feat/Mood]() (76080; 63% instances), [ru-feat/Person]() (38873; 32% instances), [ru-feat/Gender]() (36725; 30% instances), [ru-feat/Case]() (12580; 10% instances), [ru-feat/Variant]() (5332; 4% instances), [ru-feat/Animacy]() (1322; 1% instances)
+`VERB` occurs with 11 features: [ru-feat/Voice]() (110740; 100% instances), [ru-feat/Aspect]() (110729; 100% instances), [ru-feat/VerbForm]() (110729; 100% instances), [ru-feat/Tense]() (89227; 81% instances), [ru-feat/Number]() (86582; 78% instances), [ru-feat/Mood]() (70244; 63% instances), [ru-feat/Person]() (36029; 33% instances), [ru-feat/Gender]() (33560; 30% instances), [ru-feat/Case]() (11569; 10% instances), [ru-feat/Variant]() (4769; 4% instances), [ru-feat/Animacy]() (1236; 1% instances)
 
-`VERB` occurs with 30 feature-value pairs: `Animacy=Anim`, `Animacy=Inan`, `Aspect=Imp`, `Aspect=Perf`, `Case=Acc`, `Case=Dat`, `Case=Gen`, `Case=Ins`, `Case=Loc`, `Case=Nom`, `Gender=Fem`, `Gender=Masc`, `Gender=Neut`, `Mood=Imp`, `Mood=Ind`, `Number=Plur`, `Number=Sing`, `Person=1`, `Person=2`, `Person=3`, `Tense=Fut`, `Tense=Past`, `Tense=Pres`, `Variant=Brev`, `VerbForm=Fin`, `VerbForm=Inf`, `VerbForm=Part`, `VerbForm=Trans`, `Voice=Act`, `Voice=Pass`
+`VERB` occurs with 31 feature-value pairs: `Animacy=Anim`, `Animacy=Inan`, `Aspect=Imp`, `Aspect=Perf`, `Case=Acc`, `Case=Dat`, `Case=Gen`, `Case=Ins`, `Case=Loc`, `Case=Nom`, `Gender=Fem`, `Gender=Masc`, `Gender=Neut`, `Mood=Imp`, `Mood=Ind`, `Number=Plur`, `Number=Sing`, `Person=1`, `Person=2`, `Person=3`, `Tense=Fut`, `Tense=Past`, `Tense=Pres`, `Variant=Short`, `VerbForm=Conv`, `VerbForm=Fin`, `VerbForm=Inf`, `VerbForm=Part`, `Voice=Act`, `Voice=Mid`, `Voice=Pass`
 
-`VERB` occurs with 205 feature combinations.
-The most frequent feature combination is `Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act` (17932 tokens).
-Examples: <em>может, нет, есть, является, говорит, стоит, идет, имеет, происходит, будет</em>
+`VERB` occurs with 303 feature combinations.
+The most frequent feature combination is `Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act` (12965 tokens).
+Examples: <em>может, есть, нет, говорит, стоит, идет, имеет, происходит, будет, следует</em>
 
 
 ## Relations
 
-`VERB` nodes are attached to their parents using 22 different relations: [ru-dep/root]() (43381; 36% instances), [ru-dep/conj]() (17504; 15% instances), [ru-dep/advcl]() (14376; 12% instances), [ru-dep/amod]() (10860; 9% instances), [ru-dep/xcomp]() (8573; 7% instances), [ru-dep/parataxis]() (7483; 6% instances), [ru-dep/nsubj]() (6023; 5% instances), [ru-dep/acl:relcl]() (5945; 5% instances), [ru-dep/dep]() (3643; 3% instances), [ru-dep/ccomp]() (914; 1% instances), [ru-dep/acl]() (812; 1% instances), [ru-dep/advmod]() (345; 0% instances), [ru-dep/nmod]() (278; 0% instances), [ru-dep/nsubjpass]() (178; 0% instances), [ru-dep/appos]() (71; 0% instances), [ru-dep/mwe]() (67; 0% instances), [ru-dep/neg]() (8; 0% instances), [ru-dep/mark]() (3; 0% instances), [ru-dep/iobj]() (2; 0% instances), [ru-dep/name]() (2; 0% instances), [ru-dep/auxpass]() (1; 0% instances), [ru-dep/nmod:agent]() (1; 0% instances)
+`VERB` nodes are attached to their parents using 24 different relations: [ru-dep/root]() (38610; 35% instances), [ru-dep/conj]() (15879; 14% instances), [ru-dep/advcl]() (12635; 11% instances), [ru-dep/amod]() (9960; 9% instances), [ru-dep/xcomp]() (7868; 7% instances), [ru-dep/parataxis]() (6885; 6% instances), [ru-dep/nsubj]() (5545; 5% instances), [ru-dep/acl:relcl]() (5333; 5% instances), [ru-dep/dep]() (3306; 3% instances), [ru-dep/cop]() (1824; 2% instances), [ru-dep/ccomp]() (782; 1% instances), [ru-dep/acl]() (732; 1% instances), [ru-dep/fixed]() (512; 0% instances), [ru-dep/advmod]() (292; 0% instances), [ru-dep/nmod]() (219; 0% instances), [ru-dep/nsubj:pass]() (118; 0% instances), [ru-dep/orphan]() (90; 0% instances), [ru-dep/appos]() (63; 0% instances), [ru-dep/obl]() (62; 0% instances), [ru-dep/cc]() (20; 0% instances), [ru-dep/flat:name]() (2; 0% instances), [ru-dep/iobj]() (2; 0% instances), [ru-dep/aux:pass]() (1; 0% instances), [ru-dep/obl:agent]() (1; 0% instances)
 
-Parents of `VERB` nodes belong to 14 different parts of speech: [ROOT]() (43381; 36% instances), [VERB]() (41056; 34% instances), [NOUN]() (23226; 19% instances), [ADJ]() (7269; 6% instances), [ADV]() (3841; 3% instances), [PROPN]() (967; 1% instances), [PRON]() (223; 0% instances), [SCONJ]() (149; 0% instances), [NUM]() (121; 0% instances), [CONJ]() (116; 0% instances), [PART]() (82; 0% instances), [SYM]() (26; 0% instances), [X]() (9; 0% instances), [INTJ]() (4; 0% instances)
+Parents of `VERB` nodes belong to 18 different parts of speech: [ROOT]() (38610; 35% instances), [VERB]() (36644; 33% instances), [NOUN]() (20082; 18% instances), [ADJ]() (6332; 6% instances), [ADV]() (3752; 3% instances), [PRON]() (3109; 3% instances), [PROPN]() (1007; 1% instances), [DET]() (697; 1% instances), [NUM]() (216; 0% instances), [PART]() (115; 0% instances), [ADP]() (46; 0% instances), [PUNCT]() (46; 0% instances), [_]() (28; 0% instances), [CCONJ]() (25; 0% instances), [SCONJ]() (15; 0% instances), [X]() (8; 0% instances), [AUX]() (5; 0% instances), [INTJ]() (4; 0% instances)
 
-5396 (4%) `VERB` nodes are leaves.
+6087 (5%) `VERB` nodes are leaves.
 
-22608 (19%) `VERB` nodes have one child.
+20536 (19%) `VERB` nodes have one child.
 
-22985 (19%) `VERB` nodes have two children.
+27845 (25%) `VERB` nodes have two children.
 
-69481 (58%) `VERB` nodes have three or more children.
+56273 (51%) `VERB` nodes have three or more children.
 
-The highest child degree of a `VERB` node is 19.
+The highest child degree of a `VERB` node is 17.
 
-Children of `VERB` nodes are attached using 33 different relations: [ru-dep/nmod]() (76221; 21% instances), [ru-dep/punct]() (60879; 17% instances), [ru-dep/nsubj]() (57621; 16% instances), [ru-dep/dobj]() (33247; 9% instances), [ru-dep/advmod]() (32553; 9% instances), [ru-dep/cc]() (16794; 5% instances), [ru-dep/conj]() (16787; 5% instances), [ru-dep/mark]() (11783; 3% instances), [ru-dep/advcl]() (11601; 3% instances), [ru-dep/parataxis]() (10192; 3% instances), [ru-dep/neg]() (8978; 2% instances), [ru-dep/xcomp]() (8573; 2% instances), [ru-dep/nsubjpass]() (7217; 2% instances), [ru-dep/auxpass]() (2667; 1% instances), [ru-dep/aux]() (1996; 1% instances), [ru-dep/nmod:agent]() (1704; 0% instances), [ru-dep/iobj]() (1238; 0% instances), [ru-dep/amod]() (1001; 0% instances), [ru-dep/nummod]() (994; 0% instances), [ru-dep/ccomp]() (915; 0% instances), [ru-dep/acl]() (908; 0% instances), [ru-dep/dep]() (595; 0% instances), [ru-dep/nummod:gov]() (283; 0% instances), [ru-dep/foreign]() (123; 0% instances), [ru-dep/cop]() (60; 0% instances), [ru-dep/appos]() (33; 0% instances), [ru-dep/expl]() (30; 0% instances), [ru-dep/discourse]() (29; 0% instances), [ru-dep/mwe]() (25; 0% instances), [ru-dep/compound]() (11; 0% instances), [ru-dep/vocative]() (10; 0% instances), [ru-dep/acl:relcl]() (6; 0% instances), [ru-dep/name]() (4; 0% instances)
+Children of `VERB` nodes are attached using 37 different relations: [ru-dep/obl]() (68172; 23% instances), [ru-dep/nsubj]() (53021; 18% instances), [ru-dep/advmod]() (36927; 13% instances), [ru-dep/obj]() (30203; 10% instances), [ru-dep/punct]() (23397; 8% instances), [ru-dep/cc]() (16162; 5% instances), [ru-dep/conj]() (15046; 5% instances), [ru-dep/advcl]() (10390; 4% instances), [ru-dep/parataxis]() (8928; 3% instances), [ru-dep/xcomp]() (7862; 3% instances), [ru-dep/mark]() (7644; 3% instances), [ru-dep/nsubj:pass]() (4601; 2% instances), [ru-dep/aux:pass]() (2331; 1% instances), [ru-dep/aux]() (1804; 1% instances), [ru-dep/obl:agent]() (1564; 1% instances), [ru-dep/amod]() (1026; 0% instances), [ru-dep/iobj]() (975; 0% instances), [ru-dep/orphan]() (945; 0% instances), [ru-dep/nummod]() (891; 0% instances), [ru-dep/acl]() (836; 0% instances), [ru-dep/ccomp]() (809; 0% instances), [ru-dep/dep]() (548; 0% instances), [ru-dep/_]() (301; 0% instances), [ru-dep/discourse]() (259; 0% instances), [ru-dep/case]() (175; 0% instances), [ru-dep/nummod:gov]() (162; 0% instances), [ru-dep/flat:foreign]() (115; 0% instances), [ru-dep/cop]() (91; 0% instances), [ru-dep/fixed]() (83; 0% instances), [ru-dep/appos]() (32; 0% instances), [ru-dep/expl]() (31; 0% instances), [ru-dep/nmod]() (27; 0% instances), [ru-dep/compound]() (10; 0% instances), [ru-dep/vocative]() (8; 0% instances), [ru-dep/acl:relcl]() (6; 0% instances), [ru-dep/flat:name]() (4; 0% instances), [ru-dep/root]() (3; 0% instances)
 
-Children of `VERB` nodes belong to 16 different parts of speech: [NOUN]() (136584; 37% instances), [PUNCT]() (60879; 17% instances), [VERB]() (41056; 11% instances), [ADV]() (31857; 9% instances), [PRON]() (24071; 7% instances), [CONJ]() (15699; 4% instances), [PART]() (14372; 4% instances), [SCONJ]() (12991; 4% instances), [ADJ]() (11510; 3% instances), [PROPN]() (10260; 3% instances), [AUX]() (3571; 1% instances), [NUM]() (1480; 0% instances), [SYM]() (521; 0% instances), [ADP]() (148; 0% instances), [X]() (50; 0% instances), [INTJ]() (29; 0% instances)
+Children of `VERB` nodes belong to 17 different parts of speech: [NOUN]() (118065; 40% instances), [VERB]() (36499; 12% instances), [PRON]() (30842; 10% instances), [ADV]() (27914; 9% instances), [PUNCT]() (23397; 8% instances), [CCONJ]() (13838; 5% instances), [PART]() (12908; 4% instances), [SCONJ]() (9483; 3% instances), [PROPN]() (9194; 3% instances), [ADJ]() (6366; 2% instances), [AUX]() (3164; 1% instances), [NUM]() (1477; 1% instances), [ADP]() (1055; 0% instances), [DET]() (813; 0% instances), [_]() (301; 0% instances), [X]() (45; 0% instances), [INTJ]() (28; 0% instances)
 

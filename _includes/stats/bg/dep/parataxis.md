@@ -6,67 +6,69 @@
 
 This relation is universal.
 
-2 nodes (0%) are attached to their parents as `parataxis`.
+584 nodes (0%) are attached to their parents as `parataxis`.
 
-2 instances of `parataxis` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.
+568 instances of `parataxis` (97%) are right-to-left (child precedes parent).
+Average distance between parent and child is 8.06506849315068.
 
-The following 2 pairs of parts of speech are connected with `parataxis`: [bg-pos/ADJ]()-[bg-pos/VERB]() (1; 50% instances), [bg-pos/NOUN]()-[bg-pos/VERB]() (1; 50% instances).
+The following 13 pairs of parts of speech are connected with `parataxis`: [bg-pos/VERB]()-[bg-pos/VERB]() (350; 60% instances), [bg-pos/VERB]()-[bg-pos/PUNCT]() (154; 26% instances), [bg-pos/VERB]()-[bg-pos/NOUN]() (42; 7% instances), [bg-pos/VERB]()-[bg-pos/ADJ]() (16; 3% instances), [bg-pos/VERB]()-[bg-pos/ADV]() (6; 1% instances), [bg-pos/NOUN]()-[bg-pos/VERB]() (4; 1% instances), [bg-pos/VERB]()-[bg-pos/PRON]() (4; 1% instances), [bg-pos/VERB]()-[bg-pos/INTJ]() (2; 0% instances), [bg-pos/VERB]()-[bg-pos/NUM]() (2; 0% instances), [bg-pos/ADJ]()-[bg-pos/VERB]() (1; 0% instances), [bg-pos/VERB]()-[bg-pos/PART]() (1; 0% instances), [bg-pos/VERB]()-[bg-pos/PROPN]() (1; 0% instances), [bg-pos/VERB]()-[bg-pos/X]() (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
-# visual-style 2 7 parataxis	color:blue
-1	Този	този	DET	Pde-os-m	Gender=Masc|Number=Sing|PronType=Dem	2	det	_	_
-2	гражданин	гражданин	NOUN	Ncmsi	Definite=Ind|Gender=Masc|Number=Sing	20	nsubj	_	_
-3	на	на	ADP	R	_	4	case	_	_
-4	планетата	планета	NOUN	Ncfsd	Definite=Def|Gender=Fem|Number=Sing	2	nmod	_	_
-5	Земя	земя	PROPN	Npfsi	Definite=Ind|Gender=Fem|Number=Sing	4	nmod	_	_
-6	-	-	PUNCT	punct	_	7	punct	_	_
-7	огледайте	огледам-(се)	VERB	Vpptz--2p	Aspect=Perf|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin	2	parataxis	_	_
-8	го	аз	PRON	Ppetas3m	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	dobj	_	_
-9	добре	добре	ADV	Dm	Degree=Pos	7	advmod	_	_
-10	и	и	CONJ	Cp	_	7	cc	_	_
-11	го	аз	PRON	Ppetas3m	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	dobj	_	_
-12	запомнете	запомня	VERB	Vpptz--2p	Aspect=Perf|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin	7	conj	_	_
-13	,	,	PUNCT	punct	_	7	punct	_	_
-14	-	-	PUNCT	punct	_	7	punct	_	_
-15	този	този	DET	Pde-os-m	Gender=Masc|Number=Sing|PronType=Dem	16	det	_	_
-16	гражданин	гражданин	NOUN	Ncmsi	Definite=Ind|Gender=Masc|Number=Sing	2	nmod	_	_
-17	на	на	ADP	R	_	18	case	_	_
-18	планетата	планета	NOUN	Ncfsd	Definite=Def|Gender=Fem|Number=Sing	16	nmod	_	_
-19	е	съм	AUX	Vxitf-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	20	aux	_	_
-20	решил	реша	VERB	Vpptcao-smi	Aspect=Perf|Definite=Ind|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	_
-21	да	да	PART	Tx	_	23	aux	_	_
-22	се	се	PRON	Ppxta	Case=Acc|PronType=Prs|Reflex=Yes	23	expl	_	_
-23	самоубие	самоубия-се	VERB	Vppif-r3s	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	20	ccomp	_	_
-24	.	.	PUNCT	punct	_	20	punct	_	_
+# visual-style 2 6 parataxis	color:blue
+1	Виното	вино	NOUN	Ncnsd	Definite=Def|Gender=Neut|Number=Sing	2	nsubj	_	_
+2	рекло	река	VERB	Vpptcao-sni	Aspect=Perf|Definite=Ind|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	SpaceAfter=No
+3	:	:	PUNCT	punct	_	6	punct	_	_
+4	мене	аз	PRON	Ppelas1	Case=Acc|Number=Sing|Person=1|PronType=Prs	6	obj	_	_
+5	ме	аз	PRON	Ppetas1	Case=Acc|Number=Sing|Person=1|PronType=Prs	6	expl	_	_
+6	мъчат	мъча-(се)	VERB	Vpitf-r3p	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	parataxis	_	SpaceAfter=No
+7	,	,	PUNCT	punct	_	8	punct	_	_
+8	ама	ама	CCONJ	Cc	_	11	cc	_	_
+9	и	и	CCONJ	Cp	_	11	cc	_	_
+10	аз	аз	PRON	Ppe-os1	Case=Nom|Number=Sing|Person=1|PronType=Prs	11	nsubj	_	_
+11	мъча	мъча-(се)	VERB	Vpitf-r1s	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	6	conj	_	SpaceAfter=No
+12	.	.	PUNCT	punct	_	2	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 7 10 parataxis	color:blue
-1	Не	не	INTJ	Tn	_	7	discourse	_	_
-2	,	,	PUNCT	punct	_	1	punct	_	_
-3	моята	мой	DET	Psol-s1fd	Definite=Def|Gender=Fem|Number=Sing|Person=1|Poss=Yes|PronType=Prs	4	det	_	_
-4	хитрост	хитрост	NOUN	Ncfsi	Definite=Ind|Gender=Fem|Number=Sing	7	nsubj	_	_
-5	е	съм	VERB	Vxitf-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	cop	_	_
-6	още	още	ADV	Dq	_	7	advmod	_	_
-7	по-голяма	голям	ADJ	Afsi	Definite=Ind|Degree=Cmp|Gender=Fem|Number=Sing	0	root	_	_
-8	:	:	PUNCT	punct	_	10	punct	_	_
-9	аз	аз	PRON	Ppe-os1	Case=Nom|Number=Sing|Person=1|PronType=Prs	10	nsubj	_	_
-10	пиша	пиша	VERB	Vpitf-r1s	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	7	parataxis	_	_
-11	само	само	ADV	Dd	_	12	advmod	_	_
-12	добрите	добър	ADJ	A-pd	Definite=Def|Degree=Pos|Number=Plur	10	dobj	_	_
-13	.	.	PUNCT	punct	_	7	punct	_	_
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 1 parataxis	color:blue
+1	,	,	PUNCT	punct	_	2	parataxis	_	_
+2	уточни	уточня	VERB	Vpptf-o3s	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+3	първата	пръв	ADJ	Mofsd	Definite=Def|Degree=Pos|Gender=Fem|Number=Sing|NumType=Ord	5	amod	_	_
+4	US	us	ADJ	A	Degree=Pos	5	amod	_	_
+5	дама	дама	NOUN	Ncfsi	Definite=Ind|Gender=Fem|Number=Sing	2	nsubj	_	SpaceAfter=No
+6	.	.	PUNCT	punct	_	2	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 9 3 parataxis	color:blue
+1	Това	този	PRON	Pde-os-n	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	3	nsubj	_	_
+2	е	съм	AUX	Vxitf-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	cop	_	_
+3	игра	игра	NOUN	Ncfsi	Definite=Ind|Gender=Fem|Number=Sing	9	parataxis	_	_
+4	на	на	ADP	R	_	5	case	_	_
+5	котка	котка	NOUN	Ncfsi	Definite=Ind|Gender=Fem|Number=Sing	3	nmod	_	_
+6	и	и	CCONJ	Cp	_	7	cc	_	_
+7	мишка	мишка	NOUN	Ncfsi	Definite=Ind|Gender=Fem|Number=Sing	5	conj	_	SpaceAfter=No
+8	,	,	PUNCT	punct	_	3	punct	_	_
+9	твърди	твърдя	VERB	Vpitf-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+10	Божилова	божилова	PROPN	Hfsi	Definite=Ind|Gender=Fem|Number=Sing	9	nsubj	_	SpaceAfter=No
+11	.	.	PUNCT	punct	_	9	punct	_	_
 
 ~~~
 

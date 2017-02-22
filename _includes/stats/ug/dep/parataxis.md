@@ -6,72 +6,108 @@
 
 This relation is universal.
 
-51 nodes (1%) are attached to their parents as `parataxis`.
+9 nodes (1%) are attached to their parents as `parataxis`.
 
-47 instances of `parataxis` (92%) are right-to-left (child precedes parent).
-Average distance between parent and child is 8.23529411764706.
+9 instances of `parataxis` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 17.2222222222222.
 
-The following 11 pairs of parts of speech are connected with `parataxis`: [ug-pos/VERB]()-[ug-pos/VERB]() (29; 57% instances), [ug-pos/VERB]()-[ug-pos/NOUN]() (6; 12% instances), [ug-pos/VERB]()-[ug-pos/ADJ]() (4; 8% instances), [ug-pos/ADJ]()-[ug-pos/ADJ]() (3; 6% instances), [ug-pos/NOUN]()-[ug-pos/NOUN]() (3; 6% instances), [ug-pos/ADJ]()-[ug-pos/NOUN]() (1; 2% instances), [ug-pos/NOUN]()-[ug-pos/ADJ]() (1; 2% instances), [ug-pos/NOUN]()-[ug-pos/VERB]() (1; 2% instances), [ug-pos/VERB]()-[ug-pos/ADP]() (1; 2% instances), [ug-pos/VERB]()-[ug-pos/INTJ]() (1; 2% instances), [ug-pos/VERB]()-[ug-pos/PART]() (1; 2% instances).
-
-
-~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 4 parataxis	color:blue
-1	_	_	PUNCT	Y	_	4	punct	_	Translit=_
-2	_	_	PUNCT	Y	_	4	punct	_	Translit=_
-3	گۈللىرىنى	_	NOUN	N	_	4	nsubj	_	Translit=güllirini
-4	قاراڭلار	_	VERB	V	_	6	parataxis	_	Translit=qaranglar
-5	!	_	PUNCT	N	_	4	punct	_	Translit=!
-6	رەڭگىچۇ	_	VERB	V	_	0	root	_	Translit=renggichu
-7	تېخى	_	PART	T	_	6	advmod:emph	_	Translit=tëxi
-8	!	_	PUNCT	Y	_	7	punct	_	Translit=!
-
-~~~
-
-
-~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 12	bgColor:blue
-# visual-style 12	fgColor:white
-# visual-style 12 5 parataxis	color:blue
-1	چۈنكى	_	CONJ	C	_	12	cc	_	Translit=chünki
-2	،	_	PUNCT	Y	_	1	punct	_	Translit=,
-3	كراي	_	NOUN	N	_	5	nsubj	_	Translit=kray
-4	ياخشى	_	ADJ	A	_	5	amod	_	Translit=yaxshi
-5	بالا	_	NOUN	N	_	12	parataxis	_	Translit=bala
-6	،	_	PUNCT	Y	_	5	punct	_	Translit=,
-7	ئۇ	_	PRON	P	_	12	nsubj	_	Translit=u
-8	بايقى	_	VERB	V	_	9	advmod	_	Translit=bayqi
-9	ئىشنى	_	NOUN	N	_	12	dobj	_	Translit=ishni
-10	ھەرگىزمۇ	_	ADV	D	_	12	advmod	_	Translit=hergizmu
-11	قەستەن	_	ADV	D	_	12	advmod	_	Translit=qesten
-12	قىلمىغانىدى	_	VERB	V	_	0	root	_	Translit=qilmighanidi
-13	.	_	PUNCT	Y	_	12	punct	_	Translit=.
-
-~~~
+The following 4 pairs of parts of speech are connected with `parataxis`: [ug-pos/VERB]()-[ug-pos/VERB]() (4; 44% instances), [ug-pos/VERB]()-[ug-pos/NOUN]() (3; 33% instances), [ug-pos/ADJ]()-[ug-pos/PRON]() (1; 11% instances), [ug-pos/NOUN]()-[ug-pos/NOUN]() (1; 11% instances).
 
 
 ~~~ conllu
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 10 3 parataxis	color:blue
-1	ئىككى	_	NUM	M	_	2	nummod	_	Translit=ikki
-2	ئوغلى	_	NOUN	N	_	3	nsubj	_	Translit=oghli
-3	تەڭلا	_	ADJ	A	_	10	parataxis	_	Translit=tengla
-4	،	_	PUNCT	Y	_	3	punct	_	Translit=,
-5	ئاندىن	_	CONJ	C	_	10	mark	_	Translit=andin
-6	ئوغۇل	_	NOUN	N	_	10	nsubj	_	Translit=oghul
-7	كىيىملىرىنى	_	NOUN	N	_	8	dobj	_	Translit=kiyimlirini
-8	سېلىپ	_	VERB	V	_	10	advcl	_	Translit=sëlip
-9	دادىسىغا	_	NOUN	N	_	10	nmod:cau	_	Translit=dadisigha
-10	كىيدۈرۈپتۇ	_	VERB	V	_	0	root	_	Translit=kiydürüptu
-11	.	_	PUNCT	Y	_	10	punct	_	Translit=.
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 9 3 parataxis	color:blue
+1	مەن	_	PRON	P	_	3	nsubj	_	Translit=men
+2	ئېسىمنى	_	NOUN	N	_	3	obj	_	Translit=ësimni
+3	بىلسەم	_	VERB	V	_	9	parataxis	_	Translit=bilsem
+4	سەن	_	PRON	P	_	9	obl	_	Translit=sen
+5	بىلەن	_	ADP	R	_	4	case	_	Translit=bilen
+6	بىللە	_	ADV	D	_	9	advmod	_	Translit=bille
+7	ئويناپ	_	VERB	V	_	9	advcl	_	Translit=oynap
+8	چوڭ	_	ADJ	A	_	9	compound	_	Translit=chong
+9	بولۇۋاتقانىكەنمەن	_	VERB	V	_	0	root	_	SpaceAfter=No|Translit=boluwatqanikenmen
+10	.	_	PUNCT	Y	_	9	punct	_	Translit=.
+
+~~~
+
+
+~~~ conllu
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 17	bgColor:blue
+# visual-style 17	fgColor:white
+# visual-style 17 6 parataxis	color:blue
+1	ئۇ	_	PRON	P	_	6	nsubj	_	Translit=u
+2	ھازىر	_	ADV	D	_	6	advmod	_	Translit=hazir
+3	ئون	_	NUM	M	_	4	nummod	_	Translit=on
+4	مو	_	DET	Q	_	5	nmod	_	Translit=mo
+5	يەرنىڭ	_	NOUN	N	_	6	nmod:poss	_	Translit=yerning
+6	خوجايىنى	_	NOUN	N	_	17	parataxis	_	Translit=xojayini
+7	بولۇپ	_	AUX	V	_	6	cop	_	SpaceAfter=No|Translit=bolup
+8	،	_	PUNCT	Y	_	7	punct	_	Translit=,
+9	تۆت	_	NUM	M	_	10	nummod	_	Translit=töt
+10	بالىسىنى	_	NOUN	N	_	12	obj	_	Translit=balisini
+11	كەينىگە	_	NOUN	N	_	12	obl	_	Translit=keynige
+12	سېلىپ	_	VERB	V	_	17	advcl	_	SpaceAfter=No|Translit=sëlip
+13	،	_	PUNCT	Y	_	12	punct	_	Translit=,
+14	رىزقىنى	_	ADJ	A	_	17	obj	_	Translit=rizqini
+15	يەردىن	_	NOUN	N	_	16	obl	_	Translit=yerdin
+16	تېپىپ	_	VERB	V	_	17	advcl	_	Translit=tëpip
+17	يەۋاتىدۇ	_	VERB	V	_	0	root	_	SpaceAfter=No|Translit=yewatidu
+18	.	_	PUNCT	Y	_	17	punct	_	Translit=.
+
+~~~
+
+
+~~~ conllu
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 38	bgColor:blue
+# visual-style 38	fgColor:white
+# visual-style 38 6 parataxis	color:blue
+1	ھەر	_	PRON	P	_	2	det	_	Translit=her
+2	ئىككىلىمىزنىڭ	_	NOUN	N	_	3	nmod:poss	_	Translit=ikkilimizning
+3	ئۆيى	_	NOUN	N	_	6	nsubj	_	Translit=öyi
+4	شەھەردىن	_	NOUN	N	_	5	nmod:comp	_	Translit=sheherdin
+5	يىراقتىكى	_	ADJ	A	_	6	nmod	_	Translit=yiraqtiki
+6	ناھىيىدە	_	NOUN	N	_	38	parataxis	_	Translit=nahiyide
+7	بولۇپ	_	AUX	V	_	6	cop	_	SpaceAfter=No|Translit=bolup
+8	،	_	PUNCT	Y	_	7	punct	_	Translit=,
+9	ھەر	_	PRON	P	_	10	det	_	Translit=her
+10	ئىككىمىز	_	NUM	M	_	38	nsubj	_	Translit=ikkimiz
+11	ناھىيە	_	NOUN	N	_	12	nmod:poss	_	Translit=nahiye
+12	مەركىزىدىكى	_	NOUN	N	_	16	nmod	_	Translit=merkizidiki
+13	توپا	_	NOUN	N	_	14	obl	_	Translit=topa
+14	تاملىق	_	VERB	V	_	16	amod	_	Translit=tamliq
+15	كونا	_	ADJ	A	_	16	amod	_	Translit=kona
+16	مەكتەپنىڭ	_	NOUN	N	_	37	nmod:poss	_	Translit=mektepning
+17	يۈزلىرى	_	NOUN	N	_	18	nsubj	_	Translit=yüzliri
+18	يېرىق	_	ADJ	A	_	36	amod	_	SpaceAfter=No|Translit=yëriq
+19	،	_	PUNCT	Y	_	18	punct	_	Translit=,
+20	ئادەم	_	NOUN	N	_	21	nsubj	_	Translit=adem
+21	ئولتۇرۇپ	_	VERB	V	_	23	advcl	_	Translit=olturup
+22	بولغىچە	_	NOUN	N	_	21	aux	_	Translit=bolghiche
+23	مىدىرلاپ	_	VERB	V	_	27	advcl	_	Translit=midirlap
+24	يېقىمسىز	_	VERB	V	_	25	amod	_	Translit=yëqimsiz
+25	ئاۋازدا	_	NOUN	N	_	27	obl	_	Translit=awazda
+26	غىچىرلاپ	_	VERB	V	_	27	compound:lvc	_	Translit=ghichirlap
+27	كېتىدىغان	_	VERB	V	_	36	acl	_	SpaceAfter=No|Translit=këtidighan
+28	،	_	PUNCT	Y	_	27	punct	_	Translit=,
+29	جىگەررەڭ	_	ADJ	A	_	30	amod	_	Translit=jigerreng
+30	سىرلىرى	_	NOUN	N	_	32	nsubj	_	Translit=sirliri
+31	ئۆڭۈپ	_	VERB	V	_	32	compound:lvc	_	Translit=öngüp
+32	كەتكەن	_	VERB	V	_	36	acl	_	Translit=ketken
+33	ياغاچ	_	NOUN	N	_	34	nmod:clas	_	Translit=yaghach
+34	پارتا	_	NOUN	N	_	36	compound:redup	_	Translit=parta
+35	-	_	PUNCT	Y	_	34	punct	_	Translit=-
+36	ئورۇندۇقلۇق	_	NOUN	N	_	37	amod	_	Translit=orunduqluq
+37	سىنىپىدىكى	_	NOUN	N	_	38	nmod	_	Translit=sinipidiki
+38	ساۋاقداشلاردىن	_	NOUN	N	_	0	root	_	Translit=sawaqdashlardin
+39	ئىدۇق	_	AUX	V	_	38	cop	_	SpaceAfter=No|Translit=iduq
+40	.	_	PUNCT	Y	_	39	punct	_	Translit=.
 
 ~~~
 

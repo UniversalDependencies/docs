@@ -10,7 +10,7 @@ It occurs with 2 different values: `Plur`, `Sing`.
 5304 tokens (55%) have a non-empty value of `Number`.
 2513 types (70%) occur at least once with a non-empty value of `Number`.
 1507 lemmas (74%) occur at least once with a non-empty value of `Number`.
-The feature is used with 7 part-of-speech tags: [ta-pos/NOUN]() (2753; 29% instances), [ta-pos/PROPN]() (1370; 14% instances), [ta-pos/AUX]() (476; 5% instances), [ta-pos/VERB]() (438; 5% instances), [ta-pos/PRON]() (236; 2% instances), [ta-pos/NUM]() (16; 0% instances), [ta-pos/PART]() (15; 0% instances).
+The feature is used with 7 part-of-speech tags: [ta-pos/NOUN]() (2753; 29% instances), [ta-pos/PROPN]() (1370; 14% instances), [ta-pos/AUX]() (477; 5% instances), [ta-pos/VERB]() (437; 5% instances), [ta-pos/PRON]() (236; 2% instances), [ta-pos/NUM]() (16; 0% instances), [ta-pos/PART]() (15; 0% instances).
 
 ### `NOUN`
 
@@ -46,7 +46,7 @@ The most frequent other feature values with which `PROPN` and `Number` co-occurr
 <table>
   <tr><th>Paradigm <i>தமிழர்</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
   <tr><td><tt><a href="Animacy.html">Animacy</a>=Anim|<a href="Case.html">Case</a>=Acc|<a href="Gender.html">Gender</a>=Com</tt></td><td></td><td>தமிழர்களை, தமிழர்களைச்</td></tr>
-  <tr><td><tt><a href="Animacy.html">Animacy</a>=Anim|<a href="Case.html">Case</a>=Dat|<a href="Gender.html">Gender</a>=Com</tt></td><td></td><td>தமிழர்களுக்க், தமிழர்களுக்கு, தமிழர்களுக்குத்</td></tr>
+  <tr><td><tt><a href="Animacy.html">Animacy</a>=Anim|<a href="Case.html">Case</a>=Dat|<a href="Gender.html">Gender</a>=Com</tt></td><td></td><td>தமிழர்களுக்க், தமிழர்களுக்குத், தமிழர்களுக்கு</td></tr>
   <tr><td><tt><a href="Animacy.html">Animacy</a>=Anim|<a href="Case.html">Case</a>=Nom|<a href="Gender.html">Gender</a>=Com</tt></td><td></td><td>தமிழர்களின்</td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Loc|<a href="Gender.html">Gender</a>=Neut</tt></td><td></td><td>தமிழர்களிடம்</td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Gender.html">Gender</a>=Neut</tt></td><td>தமிழர்</td><td></td></tr>
@@ -56,14 +56,14 @@ The most frequent other feature values with which `PROPN` and `Number` co-occurr
 
 ### `AUX`
 
-476 [ta-pos/AUX]() tokens (76% of all `AUX` tokens) have a non-empty value of `Number`.
+477 [ta-pos/AUX]() tokens (76% of all `AUX` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `AUX` and `Number` co-occurred: <tt><a href="Negative.html">Negative</a>=Pos</tt> (465; 98%), <tt><a href="Person.html">Person</a>=3</tt> (459; 96%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (418; 88%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (418; 88%), <tt><a href="Voice.html">Voice</a>=Act</tt> (400; 84%), <tt><a href="Polite.html">Polite</a>=EMPTY</tt> (391; 82%), <tt><a href="Gender.html">Gender</a>=Neut</tt> (350; 74%).
+The most frequent other feature values with which `AUX` and `Number` co-occurred: <tt><a href="Polarity.html">Polarity</a>=Pos</tt> (466; 98%), <tt><a href="Person.html">Person</a>=3</tt> (460; 96%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (419; 88%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (419; 88%), <tt><a href="Voice.html">Voice</a>=Act</tt> (401; 84%), <tt><a href="Polite.html">Polite</a>=EMPTY</tt> (392; 82%), <tt><a href="Gender.html">Gender</a>=Neut</tt> (351; 74%).
 
 `AUX` tokens may have the following values of `Number`:
 
-* `Plur` (121; 25% of non-empty `Number`): இல்லை, உள்ளனர், உள்ளன, வருகின்றனர், வருகின்றன, உள்ளோம், படுகின்றனர், பட்டனர், இருந்தன, கொண்டனர்
-* `Sing` (355; 75% of non-empty `Number`): உள்ளது, வேண்டும், உள்ளார், பட்டது, இருந்தது, ப்படும், வருகிறது, உள்ளத், படுகிறது, இருந்தார்
+* `Plur` (122; 26% of non-empty `Number`): இல்லை, உள்ளனர், உள்ளன, வருகின்றனர், வருகின்றன, உள்ளோம், படுகின்றனர், பட்டனர், இருந்தன, கொண்டனர்
+* `Sing` (355; 74% of non-empty `Number`): உள்ளது, வேண்டும், உள்ளார், பட்டது, இருந்தது, ப்படும், வருகிறது, உள்ளத், படுகிறது, இருந்தார்
 * `EMPTY` (151): பட்ட், பட்டு, கொண்டு, ப்பட, செய்து, கொண்ட், செய்த், விட்டு, செய்ய, செய்யப்
 
 <table>
@@ -73,34 +73,34 @@ The most frequent other feature values with which `AUX` and `Number` co-occurred
   <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Gender.html">Gender</a>=Neut|<a href="Person.html">Person</a>=3|<a href="VerbForm.html">VerbForm</a>=Ger</tt></td><td>உள்ளதைய்</td><td></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Ins|<a href="Gender.html">Gender</a>=Neut|<a href="Person.html">Person</a>=3|<a href="VerbForm.html">VerbForm</a>=Ger</tt></td><td>உள்ளதால்</td><td></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Gender.html">Gender</a>=Neut|<a href="Person.html">Person</a>=3|<a href="VerbForm.html">VerbForm</a>=Ger</tt></td><td>உள்ளத், உள்ளது</td><td></td></tr>
-  <tr><td><tt><a href="Gender.html">Gender</a>=Com|<a href="Mood.html">Mood</a>=Ind|<a href="Person.html">Person</a>=3|<a href="Polite.html">Polite</a>=Pol|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td>உள்ளார்</td><td></td></tr>
+  <tr><td><tt><a href="Gender.html">Gender</a>=Com|<a href="Mood.html">Mood</a>=Ind|<a href="Person.html">Person</a>=3|<a href="Polite.html">Polite</a>=Form|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td>உள்ளார்</td><td></td></tr>
   <tr><td><tt><a href="Gender.html">Gender</a>=Neut|<a href="Mood.html">Mood</a>=Ind|<a href="Person.html">Person</a>=3|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td>உள்ளது</td><td>உள்ளன</td></tr>
 </table>
 
 ### `VERB`
 
-438 [ta-pos/VERB]() tokens (37% of all `VERB` tokens) have a non-empty value of `Number`.
+437 [ta-pos/VERB]() tokens (37% of all `VERB` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="Negative.html">Negative</a>=Pos</tt> (436; 100%), <tt><a href="Voice.html">Voice</a>=Act</tt> (435; 99%), <tt><a href="Person.html">Person</a>=3</tt> (415; 95%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (301; 69%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (301; 69%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (300; 68%), <tt><a href="Polite.html">Polite</a>=EMPTY</tt> (295; 67%), <tt><a href="Gender.html">Gender</a>=Neut</tt> (271; 62%), <tt><a href="Tense.html">Tense</a>=Past</tt> (234; 53%).
+The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="Polarity.html">Polarity</a>=Pos</tt> (435; 100%), <tt><a href="Voice.html">Voice</a>=Act</tt> (434; 99%), <tt><a href="Person.html">Person</a>=3</tt> (414; 95%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (300; 69%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (300; 69%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (299; 68%), <tt><a href="Polite.html">Polite</a>=EMPTY</tt> (294; 67%), <tt><a href="Gender.html">Gender</a>=Neut</tt> (270; 62%), <tt><a href="Tense.html">Tense</a>=Past</tt> (234; 54%).
 
 `VERB` tokens may have the following values of `Number`:
 
-* `Plur` (87; 20% of non-empty `Number`): தெரிவித்தன, உயிரிழந்தனர், இல்லை, தெரிவித்தனர், காயமடைந்தனர், போராடுவோம், உள்ளன, ஏற்படுகின்றன, கிடைக்காது, சென்றனர்
+* `Plur` (86; 20% of non-empty `Number`): தெரிவித்தன, உயிரிழந்தனர், இல்லை, தெரிவித்தனர், காயமடைந்தனர், போராடுவோம், உள்ளன, ஏற்படுகின்றன, கிடைக்காது, சென்றனர்
 * `Sing` (351; 80% of non-empty `Number`): தெரிவித்தார், என்றார், உள்ளது, கூறினார், தெரிகிறது, நடைபெறும், இருக்கும், இருந்தார், கூறியத், நடைபெற்றது
 * `EMPTY` (733): தெரிவித்த், செய்து, தெரிவிக்கப், செய்யப், கொண்டு, கலந்து, கூறிய், வெளியிட்ட், வழங்கப், நியமிக்கப்
 
 <table>
   <tr><th>Paradigm <i>தெரிவி</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Dat|<a href="Gender.html">Gender</a>=Neut|<a href="Tense.html">Tense</a>=Past|<a href="VerbForm.html">VerbForm</a>=Ger</tt></td><td>தெரிவித்ததற்க்</td><td></td></tr>
-  <tr><td><tt><a href="Gender.html">Gender</a>=Com|<a href="Mood.html">Mood</a>=Ind|<a href="Polite.html">Polite</a>=Pol|<a href="Tense.html">Tense</a>=Past|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td>தெரிவித்தார்</td><td>தெரிவித்தனர்</td></tr>
-  <tr><td><tt><a href="Gender.html">Gender</a>=Com|<a href="Mood.html">Mood</a>=Ind|<a href="Polite.html">Polite</a>=Pol|<a href="Tense.html">Tense</a>=Pres|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td></td><td>தெரிவிக்கின்றனர்</td></tr>
+  <tr><td><tt><a href="Gender.html">Gender</a>=Com|<a href="Mood.html">Mood</a>=Ind|<a href="Polite.html">Polite</a>=Form|<a href="Tense.html">Tense</a>=Past|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td>தெரிவித்தார்</td><td>தெரிவித்தனர்</td></tr>
+  <tr><td><tt><a href="Gender.html">Gender</a>=Com|<a href="Mood.html">Mood</a>=Ind|<a href="Polite.html">Polite</a>=Form|<a href="Tense.html">Tense</a>=Pres|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td></td><td>தெரிவிக்கின்றனர்</td></tr>
   <tr><td><tt><a href="Gender.html">Gender</a>=Neut|<a href="Mood.html">Mood</a>=Ind|<a href="Tense.html">Tense</a>=Past|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td>தெரிவித்தது</td><td>தெரிவித்தன</td></tr>
   <tr><td><tt><a href="Gender.html">Gender</a>=Neut|<a href="Mood.html">Mood</a>=Ind|<a href="Tense.html">Tense</a>=Pres|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td>தெரிவிக்கிறது</td><td></td></tr>
 </table>
 
 ### `PRON`
 
-236 [ta-pos/PRON]() tokens (95% of all `PRON` tokens) have a non-empty value of `Number`.
+236 [ta-pos/PRON]() tokens (100% of all `PRON` tokens) have a non-empty value of `Number`.
 
 The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="PronType.html">PronType</a>=Prs</tt> (222; 94%), <tt><a href="Person.html">Person</a>=3</tt> (196; 83%), <tt><a href="Gender.html">Gender</a>=Com</tt> (171; 72%), <tt><a href="Polite.html">Polite</a>=EMPTY</tt> (166; 70%), <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (135; 57%), <tt><a href="Case.html">Case</a>=Nom</tt> (134; 57%).
 
@@ -108,7 +108,6 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
 
 * `Plur` (61; 26% of non-empty `Number`): அனைவரும், அவர்கள், அவர்களை, அவர்களுக்கு, அவர்களது, நாம், தங்கள், நாங்கள், அனைத்தும், நீங்கள்
 * `Sing` (175; 74% of non-empty `Number`): அவர், இது, தனது, அது, அதை, நான், அவரது, இதை, அதில், அவருக்கு
-* `EMPTY` (12): அதிகம், இந்த, மிகவும், முழுவதும், அந்தத், குறைவாகவே, கொஞ்சம், முழுக்
 
 <table>
   <tr><th>Paradigm <i>அவர்</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -116,16 +115,16 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
   <tr><td><tt><a href="Animacy.html">Animacy</a>=Anim|<a href="Case.html">Case</a>=Dat</tt></td><td></td><td>அவர்களுக்கு</td></tr>
   <tr><td><tt><a href="Animacy.html">Animacy</a>=Anim|<a href="Case.html">Case</a>=Gen</tt></td><td></td><td>அவர்களது</td></tr>
   <tr><td><tt><a href="Animacy.html">Animacy</a>=Anim|<a href="Case.html">Case</a>=Nom</tt></td><td></td><td>அவர்கள்</td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Dat|<a href="Polite.html">Polite</a>=Pol</tt></td><td>அவருக்கு, அவருக்குப்</td><td></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Polite.html">Polite</a>=Pol</tt></td><td>அவரது</td><td></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Polite.html">Polite</a>=Pol</tt></td><td>அவர்</td><td></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Dat|<a href="Polite.html">Polite</a>=Form</tt></td><td>அவருக்கு, அவருக்குப்</td><td></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Polite.html">Polite</a>=Form</tt></td><td>அவரது</td><td></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Polite.html">Polite</a>=Form</tt></td><td>அவர்</td><td></td></tr>
 </table>
 
 ### `NUM`
 
 16 [ta-pos/NUM]() tokens (6% of all `NUM` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `NUM` and `Number` co-occurred: <tt><a href="NumType.html">NumType</a>=EMPTY</tt> (9; 56%), <tt><a href="NumForm.html">NumForm</a>=Digit</tt> (9; 56%).
+The most frequent other feature values with which `NUM` and `Number` co-occurred: <tt><a href="NumForm.html">NumForm</a>=Digit</tt> (9; 56%), <tt><a href="NumType.html">NumType</a>=EMPTY</tt> (9; 56%).
 
 `NUM` tokens may have the following values of `Number`:
 
@@ -138,7 +137,7 @@ The most frequent other feature values with which `NUM` and `Number` co-occurred
 
 15 [ta-pos/PART]() tokens (2% of all `PART` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `PART` and `Number` co-occurred: <tt><a href="Negative.html">Negative</a>=Pos</tt> (15; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Ger</tt> (15; 100%).
+The most frequent other feature values with which `PART` and `Number` co-occurred: <tt><a href="Polarity.html">Polarity</a>=Pos</tt> (15; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Ger</tt> (15; 100%).
 
 `PART` tokens may have the following values of `Number`:
 
@@ -148,14 +147,14 @@ The most frequent other feature values with which `PART` and `Number` co-occurre
 ## Relations with Agreement in `Number`
 
 The 10 most frequent relations where parent and child node agree in `Number`:
-<tt>NOUN --[<a href="../dep/nmod.html">nmod</a>]--> NOUN</tt> (533; 74%),
-<tt>NOUN --[<a href="../dep/nmod.html">nmod</a>]--> PROPN</tt> (501; 73%),
+<tt>NOUN --[<a href="../dep/nmod.html">nmod</a>]--> PROPN</tt> (496; 73%),
+<tt>NOUN --[<a href="../dep/nmod.html">nmod</a>]--> NOUN</tt> (484; 73%),
 <tt>PROPN --[<a href="../dep/nmod.html">nmod</a>]--> PROPN</tt> (177; 98%),
 <tt>PROPN --[<a href="../dep/nmod.html">nmod</a>]--> NOUN</tt> (139; 95%),
-<tt>VERB --[<a href="../dep/nsubj.html">nsubj</a>]--> PROPN</tt> (82; 52%),
 <tt>NOUN --[<a href="../dep/conj.html">conj</a>]--> NOUN</tt> (82; 87%),
+<tt>VERB --[<a href="../dep/nsubj.html">nsubj</a>]--> PROPN</tt> (82; 52%),
 <tt>PROPN --[<a href="../dep/conj.html">conj</a>]--> PROPN</tt> (82; 100%),
-<tt>NOUN --[<a href="../dep/nmod.html">nmod</a>]--> PRON</tt> (37; 74%),
-<tt>NOUN --[<a href="../dep/dobj.html">dobj</a>]--> NOUN</tt> (20; 61%),
-<tt>NOUN --[<a href="../dep/nsubj.html">nsubj</a>]--> PROPN</tt> (19; 95%).
+<tt>NOUN --[<a href="../dep/obl.html">obl</a>]--> NOUN</tt> (49; 82%),
+<tt>NOUN --[<a href="../dep/nmod.html">nmod</a>]--> PRON</tt> (35; 74%),
+<tt>NOUN --[<a href="../dep/obj.html">obj</a>]--> NOUN</tt> (20; 61%).
 

@@ -4,86 +4,81 @@
 
 ## Treebank Statistics (UD_Irish)
 
-There are 28 `PRON` lemmas (1%), 42 `PRON` types (1%) and 930 `PRON` tokens (4%).
+There are 25 `PRON` lemmas (1%), 36 `PRON` types (1%) and 496 `PRON` tokens (4%).
 Out of 16 observed tags, the rank of `PRON` is: 9 in number of lemmas, 9 in number of types and 8 in number of tokens.
 
-The 10 most frequent `PRON` lemmas: <em>sé, é, sin, sí, féin, mé, iad, siad, í, seo</em>
+The 10 most frequent `PRON` lemmas: <em>sé, é, sin, sí, siad, iad, féin, mé, í, seo</em>
 
-The 10 most frequent `PRON` types:  <em>sé, é, sin, sí, féin, mé, iad, siad, í, seo</em>
+The 10 most frequent `PRON` types:  <em>sé, é, sin, sí, siad, iad, féin, mé, seo, í</em>
 
-The 10 most frequent ambiguous lemmas: <em>sé</em> ([PRON]() 218, [NUM]() 6, [VERB]() 1), <em>sin</em> ([PRON]() 109, [DET]() 106, [X]() 16, [VERB]() 2), <em>féin</em> ([PRON]() 60, [NOUN]() 1), <em>seo</em> ([DET]() 114, [PRON]() 26, [X]() 10, [VERB]() 4), <em>cé</em> ([PRON]() 23, [SCONJ]() 10, [DET]() 2, [VERB]() 1, [NOUN]() 1), <em>siúd</em> ([PRON]() 14, [DET]() 1), <em>cad</em> ([PRON]() 10, [VERB]() 1, [DET]() 1), <em>cibé</em> ([DET]() 7, [PRON]() 1)
+The 10 most frequent ambiguous lemmas: <em>sé</em> ([PRON]() 118, [NUM]() 2), <em>sin</em> ([DET]() 67, [PRON]() 65, [X]() 10, [AUX]() 2), <em>féin</em> ([PRON]() 25, [NOUN]() 1, [ADV]() 1), <em>seo</em> ([DET]() 68, [PRON]() 15, [X]() 7, [AUX]() 2), <em>siúd</em> ([PRON]() 10, [DET]() 1), <em>cé</em> ([PRON]() 8, [SCONJ]() 5, [DET]() 2, [NOUN]() 1, [AUX]() 1)
 
-The 10 most frequent ambiguous types:  <em>sé</em> ([PRON]() 218, [NUM]() 4), <em>sin</em> ([DET]() 106, [PRON]() 88), <em>seo</em> ([DET]() 114, [PRON]() 23), <em>cén</em> ([PRON]() 9, [DET]() 1), <em>siúd</em> ([PRON]() 12, [DET]() 1), <em>cad</em> ([PRON]() 5, [DET]() 1, [VERB]() 1), <em>cé</em> ([SCONJ]() 6, [PRON]() 3, [NOUN]() 1), <em>san</em> ([ADP]() 45, [X]() 16, [PRON]() 4), <em>in</em> ([ADP]() 66, [NOUN]() 1, [PRON]() 1)
+The 10 most frequent ambiguous types:  <em>sé</em> ([PRON]() 118, [NUM]() 2), <em>sin</em> ([DET]() 67, [PRON]() 55), <em>féin</em> ([PRON]() 25, [ADV]() 1), <em>seo</em> ([DET]() 68, [PRON]() 14), <em>siúd</em> ([PRON]() 8, [DET]() 1), <em>cén</em> ([PRON]() 4, [DET]() 1), <em>san</em> ([ADP]() 28, [X]() 10, [PRON]() 4), <em>cé</em> ([SCONJ]() 4, [NOUN]() 1, [PRON]() 1)
 
 
 * <em>sé</em>
-  * [PRON]() 218: <em>Níor tháinig <b>sé</b> go fóill .</em>
-  * [NUM]() 4: <em>Bhí Caitríona <b>sé</b> bliana d' aois .</em>
+  * [PRON]() 118: <em>Tógann <b>sé</b> amach biro dearg ) MAIDHC : ( Á stopadh .</em>
+  * [NUM]() 2: <em>Bhí Caitríona <b>sé</b> bliana d' aois .</em>
 * <em>sin</em>
-  * [DET]() 106: <em>' Tá an méid <b>sin</b> suimiúil a d' inis tú dom , ' a dúirt sé .</em>
-  * [PRON]() 88: <em>Mar <b>sin</b> beidh comhionannas i gceist anseo idir na dreamanna tofa ar fad .</em>
+  * [DET]() 67: <em>Níor mhasla gan bhrí ná caint gan éifeacht a bhí san fhocal <b>sin</b> twaddle .</em>
+  * [PRON]() 55: <em>Tá a fhios <b>sin</b> agat anois , ar ndóigh .</em>
+* <em>féin</em>
+  * [PRON]() 25: <em>Sa chás nach mbíodh teaghlach dá gcuid <b>féin</b> acu ba iad an pobal áitiúil a dhéanadh cúram díobh .</em>
+  * [ADV]() 1: <em>' Fostaíodh Comhairleoirí Gaeilge ar chonradh dhá bhliain i gcuid de na Bordcheantair cheana <b>féin</b> ach ceapann Comhar go bhfuil géarghá le Comhairleoir Gaeilge lánaimseartha in achan Bhordcheantar sa Tuaisceart sa dóigh is go mbeidh leanúnachas san obair .</em>
 * <em>seo</em>
-  * [DET]() 114: <em>Tá urraíocht déanta ag Údarás na Gaeltachta ar an gclár <b>seo</b> .</em>
-  * [PRON]() 23: <em>Thiocfadh leat caint agus scríobh fá <b>seo</b> go minic agus go fada .</em>
-* <em>cén</em>
-  * [PRON]() 9: <em>Tugann An Seabhac éachtaint bhreise dúinn san alt chéanna ar <b>cén</b> sórt comhairle í .</em>
-  * [DET]() 1: <em>' N' fheadarsa <b>cén</b> rud dearúd a dhéanamh .</em>
+  * [DET]() 68: <em>Ach níor mhair an cumann beag carthanach <b>seo</b> ach seal .</em>
+  * [PRON]() 14: <em>Post ilghnéitheach é <b>seo</b> bunaithe san oifig den chuid is mó .</em>
 * <em>siúd</em>
-  * [PRON]() 12: <em>Orthu <b>siúd</b> bhí John Baptist Crozier , eaglaiseach a bhí ina Ardeaspag ar Ard_Mhacha i ndeireadh a shaoil .</em>
+  * [PRON]() 8: <em>Orthu <b>siúd</b> bhí John Baptist Crozier , eaglaiseach a bhí ina Ardeaspag ar Ard Mhacha i ndeireadh a shaoil .</em>
   * [DET]() 1: <em>An iad na daoine <b>siúd</b> na buaiteoirí ?</em>
-* <em>cad</em>
-  * [PRON]() 5: <em>Ba léir go raibh fhios acu <b>cad</b> é a tharla .</em>
-  * [DET]() 1: <em>Níl a fhios agat <b>cad</b> é an éagóir orm é mé a choimeád anseo .</em>
-  * [VERB]() 1: <em>Ach féach <b>cad</b> a tharla !</em>
-* <em>cé</em>
-  * [SCONJ]() 6: <em>Roghnaigh an bogha an banlaoch Clothra , <b>cé</b> nach raibh sí ach ina girseach ag an am .</em>
-  * [PRON]() 3: <em>' Ach <b>cé</b> leis a dtiocfaidh a rá go bhfuil gaol nó dáimh ag an Éirinn sin le hÉire Bhriain is Chormaic , Éire Choinn Uí Néill ?</em>
-  * [NOUN]() 1: <em>Ar fhágaint slán agus beannacht age <b>cé</b> na Coise an tráthnóna aoibhinn caithiseach Domhnaigh seo dhúinn , agus agena a raibh do dhaoine ina seasamh ann , cé go raibh cuid mhaith ann san am gcéanna , ní raibh cuma na hainnise ná na bochtanacht ar aon duine acu , rud ná beadh im chumas do rá leo anois dá mbeinn ann , comh fada lem thuairim .</em>
+* <em>cén</em>
+  * [PRON]() 4: <em>(c) Ní raibh na seandálaithe féin cinnte <b>cén</b> tréimhse a bhí i gceist nó gur tháinig siad ar phingin airgid .</em>
+  * [DET]() 1: <em>' N' fheadarsa <b>cén</b> rud dearúd a dhéanamh .</em>
 * <em>san</em>
-  * [ADP]() 45: <em>Bhí gach uile mhac máthar <b>san</b> áit ag bualadh bos .</em>
-  * [X]() 16: <em>Níor dhúisigh <b>san</b> é .</em>
-  * [PRON]() 4: <em>As <b>san</b> go_dtí Fromista , áit a bhfuil séipéal álainn ón 11ú céad sa stíl Rómhánach .</em>
-* <em>in</em>
-  * [ADP]() 66: <em>Fuair sí post ansin <b>in</b> Oifig na Deoise , i Halla Naomh Muire .</em>
-  * [NOUN]() 1: <em>Taispeántas Chomh maith leis an léacht lárnach sin ón Ollamh Ó Néill , chualathas sainléacht Kenneth Nicholls , Léachtóir le Stair i gColáiste na hOllscoile , Corcaigh , ar ' The Limerick / Cork Border <b>in</b> the Middle Ages ' .</em>
-  * [PRON]() 1: <em>Ar chasadh ar_ais do Dhamien b' <b>in</b> roimhe é .</em>
+  * [ADP]() 28: <em>Níor mhasla gan bhrí ná caint gan éifeacht a bhí <b>san</b> fhocal sin twaddle .</em>
+  * [X]() 10: <em>(4) Gach rialachán a déanfar fén alt so leagfar é fé bhráid gach Tighe den Oireachtas chó luath agus is féidir é tar éis a dhéanta agus má dhineann aon Tigh acu <b>san</b> laistigh den lá is fiche a shuidhfidh an Tigh sin ina dhiaidh sin rún do rith ag cur an rialacháin sin ar nea-mbrí beidh an rialachán <b>san</b> ar nea-mbrí dá réir sin ach beidh san gan dochar do dhleathacht éinní a dineadh roimhe sin fén rialachán <b>san</b> .</em>
+  * [PRON]() 4: <em>As <b>san</b> go dtí Fromista , áit a bhfuil séipéal álainn ón 11ú céad sa stíl Rómhánach .</em>
+* <em>cé</em>
+  * [SCONJ]() 4: <em>Roghnaigh an bogha an banlaoch Clothra , <b>cé</b> nach raibh sí ach ina girseach ag an am .</em>
+  * [NOUN]() 1: <em>Ar fhágaint slán agus beannacht age <b>cé</b> na Coise an tráthnóna aoibhinn caithiseach Domhnaigh seo dhúinn , agus agena a raibh do dhaoine ina seasamh ann , cé go raibh cuid mhaith ann san am gcéanna , ní raibh cuma na hainnise ná na bochtanacht ar aon duine acu , rud ná beadh im chumas do rá leo anois dá mbeinn ann , comh fada lem thuairim .</em>
+  * [PRON]() 1: <em>Ansin faigh amach <b>cé</b> mhéad fuinnimh a bheidh le fáil as gach ceann de na béilí seo agus déan comparáid idir an iontógáil fuinnimh iomlán agus an iontógáil atá molta i dTábla 1.4 .</em>
 
 ## Morphology
 
-The form / lemma ratio of `PRON` is 1.500000 (the average of all parts of speech is 1.449988).
+The form / lemma ratio of `PRON` is 1.440000 (the average of all parts of speech is 1.393750).
 
-The 1st highest number of forms (4) was observed with the lemma “sin”: <em>in, san, shin, sin</em>.
+The 1st highest number of forms (3) was observed with the lemma “iad”: <em>hiad, iad, iadsan</em>.
 
-The 2nd highest number of forms (3) was observed with the lemma “cé”: <em>cé, céard, cén</em>.
+The 2nd highest number of forms (3) was observed with the lemma “sin”: <em>san, shin, sin</em>.
 
-The 3rd highest number of forms (3) was observed with the lemma “iad”: <em>hiad, iad, iadsan</em>.
+The 3rd highest number of forms (2) was observed with the lemma “ceachtar”: <em>ceachtar, cheachtar</em>.
 
-`PRON` occurs with 6 features: [ga-feat/Number]() (687; 74% instances), [ga-feat/Person]() (679; 73% instances), [ga-feat/Gender]() (477; 51% instances), [ga-feat/PronType]() (191; 21% instances), [ga-feat/Reflex]() (60; 6% instances), [ga-feat/Form]() (27; 3% instances)
+`PRON` occurs with 6 features: [ga-feat/Number]() (368; 74% instances), [ga-feat/Person]() (362; 73% instances), [ga-feat/Gender]() (252; 51% instances), [ga-feat/PronType]() (120; 24% instances), [ga-feat/Reflex]() (25; 5% instances), [ga-feat/Form]() (2; 0% instances)
 
-`PRON` occurs with 13 feature-value pairs: `Form=Emph`, `Form=Len`, `Gender=Fem`, `Gender=Masc`, `Number=Plur`, `Number=Sing`, `Person=1`, `Person=2`, `Person=3`, `PronType=Dem`, `PronType=Ind`, `PronType=Int`, `Reflex=Yes`
+`PRON` occurs with 13 feature-value pairs: `Form=Len`, `Gender=Fem`, `Gender=Masc`, `Number=Plur`, `Number=Sing`, `Person=1`, `Person=2`, `Person=3`, `PronType=Dem`, `PronType=Emp`, `PronType=Ind`, `PronType=Int`, `Reflex=Yes`
 
-`PRON` occurs with 22 feature combinations.
-The most frequent feature combination is `Gender=Masc|Number=Sing|Person=3` (361 tokens).
+`PRON` occurs with 21 feature combinations.
+The most frequent feature combination is `Gender=Masc|Number=Sing|Person=3` (199 tokens).
 Examples: <em>sé, é, hé</em>
 
 
 ## Relations
 
-`PRON` nodes are attached to their parents using 16 different relations: [ga-dep/nsubj]() (487; 52% instances), [ga-dep/nmod]() (115; 12% instances), [ga-dep/dobj]() (104; 11% instances), [ga-dep/compound]() (73; 8% instances), [ga-dep/det]() (54; 6% instances), [ga-dep/root]() (36; 4% instances), [ga-dep/ccomp]() (19; 2% instances), [ga-dep/conj]() (18; 2% instances), [ga-dep/advcl]() (10; 1% instances), [ga-dep/appos]() (3; 0% instances), [ga-dep/parataxis]() (3; 0% instances), [ga-dep/xcomp:pred]() (3; 0% instances), [ga-dep/advmod]() (2; 0% instances), [ga-dep/csubj:cop]() (1; 0% instances), [ga-dep/mark]() (1; 0% instances), [ga-dep/name]() (1; 0% instances)
+`PRON` nodes are attached to their parents using 13 different relations: [ga-dep/nsubj]() (258; 52% instances), [ga-dep/obj]() (58; 12% instances), [ga-dep/nmod]() (53; 11% instances), [ga-dep/det]() (34; 7% instances), [ga-dep/compound]() (30; 6% instances), [ga-dep/obl]() (19; 4% instances), [ga-dep/root]() (16; 3% instances), [ga-dep/conj]() (11; 2% instances), [ga-dep/ccomp]() (8; 2% instances), [ga-dep/advcl]() (4; 1% instances), [ga-dep/appos]() (2; 0% instances), [ga-dep/xcomp:pred]() (2; 0% instances), [ga-dep/parataxis]() (1; 0% instances)
 
-Parents of `PRON` nodes belong to 12 different parts of speech: [VERB]() (542; 58% instances), [NOUN]() (178; 19% instances), [PRON]() (66; 7% instances), [ADP]() (45; 5% instances), [ROOT]() (36; 4% instances), [ADJ]() (24; 3% instances), [PROPN]() (19; 2% instances), [SCONJ]() (9; 1% instances), [ADV]() (4; 0% instances), [CONJ]() (4; 0% instances), [X]() (2; 0% instances), [DET]() (1; 0% instances)
+Parents of `PRON` nodes belong to 11 different parts of speech: [VERB]() (290; 58% instances), [NOUN]() (106; 21% instances), [PRON]() (30; 6% instances), [ADP]() (23; 5% instances), [ADJ]() (16; 3% instances), [ROOT]() (16; 3% instances), [PROPN]() (6; 1% instances), [CCONJ]() (3; 1% instances), [SCONJ]() (3; 1% instances), [ADV]() (2; 0% instances), [X]() (1; 0% instances)
 
-725 (78%) `PRON` nodes are leaves.
+385 (78%) `PRON` nodes are leaves.
 
-92 (10%) `PRON` nodes have one child.
+55 (11%) `PRON` nodes have one child.
 
-52 (6%) `PRON` nodes have two children.
+33 (7%) `PRON` nodes have two children.
 
-61 (7%) `PRON` nodes have three or more children.
+23 (5%) `PRON` nodes have three or more children.
 
-The highest child degree of a `PRON` node is 8.
+The highest child degree of a `PRON` node is 5.
 
-Children of `PRON` nodes are attached using 23 different relations: [ga-dep/punct]() (67; 16% instances), [ga-dep/case]() (41; 10% instances), [ga-dep/compound]() (36; 9% instances), [ga-dep/cop]() (35; 8% instances), [ga-dep/nsubj]() (33; 8% instances), [ga-dep/xcomp:pred]() (30; 7% instances), [ga-dep/det]() (28; 7% instances), [ga-dep/conj]() (21; 5% instances), [ga-dep/csubj:cleft]() (20; 5% instances), [ga-dep/cc]() (19; 5% instances), [ga-dep/mark]() (19; 5% instances), [ga-dep/nmod]() (17; 4% instances), [ga-dep/acl:relcl]() (15; 4% instances), [ga-dep/xcomp]() (13; 3% instances), [ga-dep/advcl]() (6; 1% instances), [ga-dep/advmod]() (6; 1% instances), [ga-dep/ccomp]() (4; 1% instances), [ga-dep/amod]() (3; 1% instances), [ga-dep/nmod:prep]() (3; 1% instances), [ga-dep/appos]() (2; 0% instances), [ga-dep/csubj:cop]() (2; 0% instances), [ga-dep/nummod]() (1; 0% instances), [ga-dep/vocative]() (1; 0% instances)
+Children of `PRON` nodes are attached using 20 different relations: [ga-dep/punct]() (31; 15% instances), [ga-dep/case]() (24; 12% instances), [ga-dep/det]() (18; 9% instances), [ga-dep/compound]() (17; 8% instances), [ga-dep/conj]() (16; 8% instances), [ga-dep/cop]() (15; 7% instances), [ga-dep/xcomp:pred]() (15; 7% instances), [ga-dep/nsubj]() (14; 7% instances), [ga-dep/cc]() (11; 5% instances), [ga-dep/acl:relcl]() (9; 4% instances), [ga-dep/mark]() (8; 4% instances), [ga-dep/nmod]() (8; 4% instances), [ga-dep/csubj:cleft]() (7; 3% instances), [ga-dep/xcomp]() (4; 2% instances), [ga-dep/advcl]() (2; 1% instances), [ga-dep/appos]() (2; 1% instances), [ga-dep/advmod]() (1; 0% instances), [ga-dep/amod]() (1; 0% instances), [ga-dep/ccomp]() (1; 0% instances), [ga-dep/csubj:cop]() (1; 0% instances)
 
-Children of `PRON` nodes belong to 12 different parts of speech: [NOUN]() (94; 22% instances), [VERB]() (78; 18% instances), [PUNCT]() (67; 16% instances), [PRON]() (66; 16% instances), [ADP]() (48; 11% instances), [CONJ]() (28; 7% instances), [ADJ]() (11; 3% instances), [SCONJ]() (11; 3% instances), [DET]() (8; 2% instances), [PROPN]() (4; 1% instances), [X]() (4; 1% instances), [ADV]() (3; 1% instances)
+Children of `PRON` nodes belong to 13 different parts of speech: [NOUN]() (47; 23% instances), [PUNCT]() (31; 15% instances), [PRON]() (30; 15% instances), [ADP]() (26; 13% instances), [VERB]() (21; 10% instances), [AUX]() (15; 7% instances), [CCONJ]() (14; 7% instances), [DET]() (7; 3% instances), [SCONJ]() (5; 2% instances), [ADJ]() (3; 1% instances), [PROPN]() (3; 1% instances), [X]() (2; 1% instances), [ADV]() (1; 0% instances)
 

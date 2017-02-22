@@ -4,50 +4,51 @@
 
 ## Treebank Statistics (UD_Vietnamese)
 
-There are 223 `NUM` lemmas (4%), 223 `NUM` types (4%) and 1300 `NUM` tokens (3%).
-Out of 13 observed tags, the rank of `NUM` is: 5 in number of lemmas, 5 in number of types and 8 in number of tokens.
+There are 161 `NUM` lemmas (3%), 161 `NUM` types (3%) and 888 `NUM` tokens (3%).
+Out of 14 observed tags, the rank of `NUM` is: 5 in number of lemmas, 5 in number of types and 9 in number of tokens.
 
-The 10 most frequent `NUM` lemmas: <em>một, hai, ba, mỗi, 2, 10, năm, 20, 5, bốn</em>
+The 10 most frequent `NUM` lemmas: <em>một, hai, ba, 20, 2, 10, bốn, năm, mỗi, đôi</em>
 
-The 10 most frequent `NUM` types:  <em>một, hai, ba, mỗi, 2, 10, năm, 20, 5, bốn</em>
+The 10 most frequent `NUM` types:  <em>một, hai, ba, 20, 2, 10, bốn, năm, mỗi, đôi</em>
 
-The 10 most frequent ambiguous lemmas: <em>một</em> ([NUM]() 354, [X]() 1), <em>mỗi</em> ([NUM]() 20, [DET]() 18), <em>năm</em> ([NOUN]() 111, [NUM]() 17), <em>đôi</em> ([NUM]() 14, [DET]() 1), <em>triệu</em> ([NUM]() 11, [NOUN]() 2), <em>tỉ</em> ([NUM]() 9, [NOUN]() 2), <em>nhất</em> ([X]() 19, [ADJ]() 18, [NUM]() 7, [NOUN]() 2), <em>nửa</em> ([NUM]() 6, [DET]() 2), <em>tư</em> ([NUM]() 5, [ADJ]() 3), <em>ngàn</em> ([NUM]() 3, [NOUN]() 1)
+The 10 most frequent ambiguous lemmas: <em>năm</em> ([NOUN]() 63, [NUM]() 12), <em>mỗi</em> ([NUM]() 11, [DET]() 8), <em>đôi</em> ([NUM]() 11, [DET]() 1), <em>nhất</em> ([X]() 15, [ADJ]() 13, [NUM]() 7, [NOUN]() 2), <em>tỉ</em> ([NUM]() 6, [NOUN]() 2), <em>tư</em> ([NUM]() 5, [ADJ]() 3), <em>nửa</em> ([NUM]() 3, [DET]() 1), <em>mọi</em> ([DET]() 24, [NOUN]() 3, [NUM]() 2), <em>%</em> ([NOUN]() 7, [NUM]() 1), <em>mấy</em> ([DET]() 19, [NUM]() 1)
 
-The 10 most frequent ambiguous types:  <em>một</em> ([NUM]() 354, [X]() 1), <em>mỗi</em> ([NUM]() 20, [DET]() 18), <em>năm</em> ([NOUN]() 111, [NUM]() 17), <em>đôi</em> ([NUM]() 14, [DET]() 1), <em>triệu</em> ([NUM]() 11, [NOUN]() 2), <em>tỉ</em> ([NUM]() 9, [NOUN]() 2), <em>nhất</em> ([X]() 19, [ADJ]() 18, [NUM]() 7, [NOUN]() 2), <em>nửa</em> ([NUM]() 6, [DET]() 2), <em>tư</em> ([NUM]() 5, [ADJ]() 3), <em>ngàn</em> ([NUM]() 3, [NOUN]() 1)
+The 10 most frequent ambiguous types:  <em>năm</em> ([NOUN]() 63, [NUM]() 12), <em>mỗi</em> ([NUM]() 11, [DET]() 8), <em>đôi</em> ([NUM]() 11, [DET]() 1), <em>nhất</em> ([X]() 15, [ADJ]() 13, [NUM]() 7, [NOUN]() 2), <em>tỉ</em> ([NUM]() 6, [NOUN]() 2), <em>tư</em> ([NUM]() 5, [ADJ]() 3), <em>nửa</em> ([NUM]() 3, [DET]() 1), <em>mọi</em> ([DET]() 24, [NOUN]() 3, [NUM]() 2), <em>%</em> ([NOUN]() 7, [NUM]() 1), <em>mấy</em> ([DET]() 19, [NUM]() 1)
 
 
-* <em>một</em>
-  * [NUM]() 354: <em>Đó như <b>một</b> lời nhắn_nhủ : chú hổ Lâm_Nhi là " tài_sản " của mỗi người .</em>
-  * [X]() 1: <em>Còn ông Chương cũng không_thể rời Hùng bởi mỗi ngày <b>một</b> hốt_hoảng trước sự tấn_công của kẻ địch .</em>
-* <em>mỗi</em>
-  * [NUM]() 20: <em>Đó như một lời nhắn_nhủ : chú hổ Lâm_Nhi là " tài_sản " của <b>mỗi</b> người .</em>
-  * [DET]() 18: <em>Như_vậy <b>mỗi</b> tổ đào <b>mỗi</b> bên 5 m .</em>
 * <em>năm</em>
-  * [NOUN]() 111: <em>Ba <b>năm</b> trước , Lâm_Nhi về mới có 30 kg .</em>
-  * [NUM]() 17: <em>mẹ anh là cụ G . , có <b>năm</b> con .</em>
+  * [NOUN]() 63: <em>Tôi bị bắt và tòa án xử 5 <b>năm</b> tù đày " .</em>
+  * [NUM]() 12: <em>Ba , <b>năm</b> rồi 60 em ...</em>
+* <em>mỗi</em>
+  * [NUM]() 11: <em>Hiện nay xã có 68 tổ nhân dân , <b>mỗi</b> tổ phụ trách 40 gia đình .</em>
+  * [DET]() 8: <em>Và <b>mỗi</b> đêm chỉ bấm hai , ba lần , <b>mỗi</b> lần cách nhau một tiếng .</em>
 * <em>đôi</em>
-  * [NUM]() 14: <em>Những <b>đôi</b> uyên_ương ngày_xưa giờ này người còn người mất .</em>
-  * [DET]() 1: <em>Những đứa trẻ chạy tung_tăng trong con xóm nhỏ gọi nhau í_ới bằng tiếng Việt , <b>đôi</b> lúc chúng lại pha tiếng Lào .</em>
-* <em>triệu</em>
-  * [NUM]() 11: <em>giá nấu thuê 5 - 10 <b>triệu</b> đồng / nồi tùy ở thân_sơ và cam_kết chủ thợ .</em>
-  * [NOUN]() 2: <em>Đấy là phòng giá cao nhất : 3,_5 <b>triệu</b> / tháng .</em>
-* <em>tỉ</em>
-  * [NUM]() 9: <em>Nhiều người sang qua sang lại mà lời cả <b>tỉ</b> " ... .</em>
-  * [NOUN]() 2: <em>TP_._HCM : vay 500 <b>tỉ</b> đồng triển_khai gấp các dự_án cấp nước .</em>
+  * [NUM]() 11: <em>với việc bỏ vốn một , lời gấp <b>đôi</b> , tư thương nào mà chẳng muốn làm .</em>
+  * [DET]() 1: <em>Những đứa trẻ chạy tung tăng trong con xóm nhỏ gọi nhau í ới bằng tiếng Việt , <b>đôi</b> lúc chúng lại pha tiếng Lào .</em>
 * <em>nhất</em>
-  * [X]() 19: <em>Và nguy_hiểm <b>nhất</b> vẫn là vấn_đề qui_hoạch .</em>
-  * [ADJ]() 18: <em>Chúng_tôi hỏi : " Chị hãi <b>nhất</b> con vật nào ở vườn thú này ? " .</em>
-  * [NUM]() 7: <em>johor ngày thứ <b>nhất</b> .</em>
-  * [NOUN]() 2: <em>cuộc thứ <b>nhất</b> hết 5 phút , gọi trong giờ_hành_chính và từ số máy có đông người ngồi xung_quanh .</em>
-* <em>nửa</em>
-  * [NUM]() 6: <em>Nhưng chưa đến <b>nửa</b> tuần thì ông Chương đã vội_vã cầu_cứu Hùng .</em>
-  * [DET]() 2: <em>Viện bị bại_liệt <b>nửa</b> người .</em>
+  * [X]() 15: <em>Tùng sẽ thất vọng hơn khi niềm tin lớn <b>nhất</b> bị sụp đổ .</em>
+  * [ADJ]() 13: <em>Bác Hồ là hiện thân tất cả những gì tốt đẹp <b>nhất</b> .</em>
+  * [NUM]() 7: <em>thứ <b>nhất</b> , đây đơn thuần là sự trêu chọc .</em>
+  * [NOUN]() 2: <em>cuộc thứ <b>nhất</b> hết 5 phút , gọi trong giờ hành chính và từ số máy có đông người ngồi xung quanh .</em>
+* <em>tỉ</em>
+  * [NUM]() 6: <em>gần đó cũng vừa mọc lên một nhà văn hóa trị giá khoảng 5 <b>tỉ</b> đồng .</em>
+  * [NOUN]() 2: <em>TP . HCM : vay 500 <b>tỉ</b> đồng triển khai gấp các dự án cấp nước .</em>
 * <em>tư</em>
-  * [NUM]() 5: <em>Đa_số học_sinh của trường hiện_nay là thế_hệ thứ <b>tư</b> , thứ năm .</em>
-  * [ADJ]() 3: <em>Thắng gần như không hỏi gì về đời <b>tư</b> của Lan .</em>
-* <em>ngàn</em>
-  * [NUM]() 3: <em>Diện_tích tăng lên , sản_lượng khoai hằng năm mình thu về cả <b>ngàn</b> tấn .</em>
-  * [NOUN]() 1: <em>có hàng <b>ngàn</b> nạn_nhân như_vậy ở Đà_Nẵng .</em>
+  * [NUM]() 5: <em>Và thứ <b>tư</b> , thủ phạm thuộc mối quan hệ của người chồng .</em>
+  * [ADJ]() 3: <em>đời <b>tư</b> vận động viên bóng bàn giỏi nhất Trung Quốc ra sao ? ...</em>
+* <em>nửa</em>
+  * [NUM]() 3: <em>sang ngày thứ ba thì một đôi trai gái mới thuê nhà được <b>nửa</b> tháng có dấu hiệu khả nghi nhất .</em>
+  * [DET]() 1: <em>Viện bị bại liệt <b>nửa</b> người .</em>
+* <em>mọi</em>
+  * [DET]() 24: <em>hải và chị Hằng tìm <b>mọi</b> cơ hội để xây dựng tình cảm cho hai thanh niên .</em>
+  * [NOUN]() 3: <em>Nhưng Lan phải thành thật kể hết <b>mọi</b> chuyện cho anh nghe .</em>
+  * [NUM]() 2: <em>ông Nguyễn Thế Khanh , chi cục phó , cho biết đây là những mặt hàng điện tử cũ đã có qui định cấm nhập khẩu dưới <b>mọi</b> hình thức .</em>
+* <em>%</em>
+  * [NOUN]() 7: <em>Hà Nội : 98 <b>%</b> - 100 <b>%</b> người nghiện tái nghiện .</em>
+  * [NUM]() 1: <em>Lại quăng cuốc , gần 90 <b>%</b> gia đình phải đeo giỏ đi buôn lậu .</em>
+* <em>mấy</em>
+  * [DET]() 19: <em>như dự đoán của Thanh , <b>mấy</b> hôm sau Hùng gặp bà Loan thưa chuyện .</em>
+  * [NUM]() 1: <em>văn phòng đăng ký quyền sử dụng đất : nên <b>mấy</b> loại ?</em>
 
 ## Morphology
 
@@ -57,28 +58,34 @@ The 1st highest number of forms (1) was observed with the lemma “%”: <em>%</
 
 The 2nd highest number of forms (1) was observed with the lemma “1”: <em>1</em>.
 
-The 3rd highest number of forms (1) was observed with the lemma “1,_5”: <em>1,_5</em>.
+The 3rd highest number of forms (1) was observed with the lemma “1 , 2”: <em>1 , 2</em>.
 
-`NUM` does not occur with any features.
+`NUM` occurs with 1 features: [vi-feat/NumType]() (888; 100% instances)
+
+`NUM` occurs with 1 feature-value pairs: `NumType=Card`
+
+`NUM` occurs with 1 feature combinations.
+The most frequent feature combination is `NumType=Card` (888 tokens).
+Examples: <em>một, hai, ba, 20, 2, 10, bốn, năm, mỗi, đôi</em>
 
 
 ## Relations
 
-`NUM` nodes are attached to their parents using 10 different relations: [vi-dep/nummod]() (1172; 90% instances), [vi-dep/conj]() (47; 4% instances), [vi-dep/compound]() (37; 3% instances), [vi-dep/dep]() (19; 1% instances), [vi-dep/nsubj]() (11; 1% instances), [vi-dep/dobj]() (6; 0% instances), [vi-dep/parataxis]() (3; 0% instances), [vi-dep/root]() (3; 0% instances), [vi-dep/amod]() (1; 0% instances), [vi-dep/nmod]() (1; 0% instances)
+`NUM` nodes are attached to their parents using 9 different relations: [vi-dep/nummod]() (818; 92% instances), [vi-dep/compound]() (19; 2% instances), [vi-dep/conj]() (19; 2% instances), [vi-dep/dep]() (11; 1% instances), [vi-dep/nsubj]() (10; 1% instances), [vi-dep/obj]() (8; 1% instances), [vi-dep/nmod]() (1; 0% instances), [vi-dep/parataxis]() (1; 0% instances), [vi-dep/root]() (1; 0% instances)
 
-Parents of `NUM` nodes belong to 7 different parts of speech: [NOUN]() (1211; 93% instances), [NUM]() (40; 3% instances), [VERB]() (34; 3% instances), [PROPN]() (6; 0% instances), [ADJ]() (3; 0% instances), [PUNCT]() (3; 0% instances), [ROOT]() (3; 0% instances)
+Parents of `NUM` nodes belong to 7 different parts of speech: [NOUN]() (830; 93% instances), [VERB]() (28; 3% instances), [NUM]() (21; 2% instances), [PROPN]() (4; 0% instances), [ADJ]() (2; 0% instances), [PUNCT]() (2; 0% instances), [ROOT]() (1; 0% instances)
 
-1234 (95%) `NUM` nodes are leaves.
+829 (93%) `NUM` nodes are leaves.
 
-45 (3%) `NUM` nodes have one child.
+46 (5%) `NUM` nodes have one child.
 
-9 (1%) `NUM` nodes have two children.
+8 (1%) `NUM` nodes have two children.
 
-12 (1%) `NUM` nodes have three or more children.
+5 (1%) `NUM` nodes have three or more children.
 
-The highest child degree of a `NUM` node is 5.
+The highest child degree of a `NUM` node is 3.
 
-Children of `NUM` nodes are attached using 17 different relations: [vi-dep/compound]() (39; 37% instances), [vi-dep/punct]() (23; 22% instances), [vi-dep/dep]() (10; 9% instances), [vi-dep/det]() (8; 8% instances), [vi-dep/advmod]() (3; 3% instances), [vi-dep/amod]() (3; 3% instances), [vi-dep/case]() (3; 3% instances), [vi-dep/neg]() (3; 3% instances), [vi-dep/nummod]() (3; 3% instances), [vi-dep/conj]() (2; 2% instances), [vi-dep/nmod]() (2; 2% instances), [vi-dep/xcomp]() (2; 2% instances), [vi-dep/cc]() (1; 1% instances), [vi-dep/cop]() (1; 1% instances), [vi-dep/discourse]() (1; 1% instances), [vi-dep/nsubj]() (1; 1% instances), [vi-dep/parataxis]() (1; 1% instances)
+Children of `NUM` nodes are attached using 11 different relations: [vi-dep/punct]() (30; 39% instances), [vi-dep/compound]() (22; 29% instances), [vi-dep/conj]() (7; 9% instances), [vi-dep/det]() (7; 9% instances), [vi-dep/nummod]() (3; 4% instances), [vi-dep/advmod]() (2; 3% instances), [vi-dep/amod]() (2; 3% instances), [vi-dep/case]() (1; 1% instances), [vi-dep/cc]() (1; 1% instances), [vi-dep/nmod]() (1; 1% instances), [vi-dep/xcomp]() (1; 1% instances)
 
-Children of `NUM` nodes belong to 10 different parts of speech: [NUM]() (40; 38% instances), [PUNCT]() (24; 23% instances), [NOUN]() (16; 15% instances), [PROPN]() (8; 8% instances), [ADJ]() (6; 6% instances), [X]() (5; 5% instances), [ADP]() (3; 3% instances), [VERB]() (2; 2% instances), [CONJ]() (1; 1% instances), [PART]() (1; 1% instances)
+Children of `NUM` nodes belong to 9 different parts of speech: [PUNCT]() (30; 39% instances), [NUM]() (21; 27% instances), [NOUN]() (11; 14% instances), [PROPN]() (7; 9% instances), [ADJ]() (3; 4% instances), [X]() (2; 3% instances), [ADP]() (1; 1% instances), [CCONJ]() (1; 1% instances), [VERB]() (1; 1% instances)
 

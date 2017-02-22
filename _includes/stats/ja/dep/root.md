@@ -6,63 +6,94 @@
 
 This relation is universal.
 
-9494 nodes (10%) are attached to their parents as `root`.
+7675 nodes (4%) are attached to their parents as `root`.
 
-9494 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 7.6884348009269.
+7675 instances of `root` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 20.097328990228.
 
-The following 9 pairs of parts of speech are connected with `root`: [ja-pos/ROOT]()-[ja-pos/VERB]() (5899; 62% instances), [ja-pos/ROOT]()-[ja-pos/NOUN]() (2989; 31% instances), [ja-pos/ROOT]()-[ja-pos/ADJ]() (412; 4% instances), [ja-pos/ROOT]()-[ja-pos/NUM]() (170; 2% instances), [ja-pos/ROOT]()-[ja-pos/PRON]() (14; 0% instances), [ja-pos/ROOT]()-[ja-pos/X]() (5; 0% instances), [ja-pos/ROOT]()-[ja-pos/ADV]() (2; 0% instances), [ja-pos/ROOT]()-[ja-pos/PART]() (2; 0% instances), [ja-pos/ROOT]()-[ja-pos/CONJ]() (1; 0% instances).
+The following 9 pairs of parts of speech are connected with `root`: [ja-pos/ROOT]()-[ja-pos/VERB]() (5202; 68% instances), [ja-pos/ROOT]()-[ja-pos/NOUN]() (1563; 20% instances), [ja-pos/ROOT]()-[ja-pos/ADJ]() (576; 8% instances), [ja-pos/ROOT]()-[ja-pos/PROPN]() (154; 2% instances), [ja-pos/ROOT]()-[ja-pos/NUM]() (141; 2% instances), [ja-pos/ROOT]()-[ja-pos/ADV]() (17; 0% instances), [ja-pos/ROOT]()-[ja-pos/PRON]() (11; 0% instances), [ja-pos/ROOT]()-[ja-pos/PUNCT]() (9; 0% instances), [ja-pos/ROOT]()-[ja-pos/SYM]() (2; 0% instances).
 
 
 ~~~ conllu
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
+# visual-style 18	bgColor:blue
+# visual-style 18	fgColor:white
 # visual-style 0	bgColor:blue
 # visual-style 0	fgColor:white
-# visual-style 0 9 root	color:blue
-1	ただし	_	ADV	ADV	_	9	advmod	_	_
-2	、	_	PUNCT	.	_	1	punct	_	_
-3	50周年ソングに	_	NUM	NUM-CL-NOUN-POSTP	_	4	nmod	_	_
-4	変更後は	_	NOUN	NOUN-PRT	_	9	nmod	_	_
-5	、	_	PUNCT	.	_	4	punct	_	_
-6	EDも	_	NOUN	NOUN-POSTP	_	9	nmod	_	_
-7	歌つきの	_	NOUN	NOUN-POSTP	_	8	nmod	_	_
-8	ものが	_	NOUN	NOUN-PRT	_	9	nmod	_	_
-9	使われた。	_	VERB	VERB-PASSIVE-AUX	_	0	root	_	_
+# visual-style 0 18 root	color:blue
+1	ただし	ただし	CCONJ	_	_	18	advmod	_	SpaceAfter=No
+2	、	、	PUNCT	_	_	1	punct	_	SpaceAfter=No
+3	50	50	NUM	_	NumType=Card	5	nummod	_	SpaceAfter=No
+4	周年	周年	NOUN	_	_	5	compound	_	SpaceAfter=No
+5	ソング	ソング	NOUN	_	_	18	iobj	_	SpaceAfter=No
+6	に	に	ADP	_	_	5	case	_	SpaceAfter=No
+7	変更	変更	NOUN	_	_	8	compound	_	SpaceAfter=No
+8	後	後	NOUN	_	_	18	nsubj	_	SpaceAfter=No
+9	は	は	ADP	_	_	8	case	_	SpaceAfter=No
+10	、	、	PUNCT	_	_	8	punct	_	SpaceAfter=No
+11	ED	ED	PROPN	_	_	18	obl	_	SpaceAfter=No
+12	も	も	ADP	_	_	11	case	_	SpaceAfter=No
+13	歌	歌	NOUN	_	_	14	compound	_	SpaceAfter=No
+14	つき	つき	NOUN	_	_	16	nmod	_	SpaceAfter=No
+15	の	の	ADP	_	_	14	case	_	SpaceAfter=No
+16	もの	もの	NOUN	_	_	18	nsubj	_	SpaceAfter=No
+17	が	が	ADP	_	_	16	case	_	SpaceAfter=No
+18	使わ	使う	VERB	_	_	0	root	_	SpaceAfter=No
+19	れ	れる	AUX	_	_	18	aux	_	SpaceAfter=No
+20	た	た	AUX	_	_	18	aux	_	SpaceAfter=No
+21	。	。	PUNCT	_	_	18	punct	_	SpaceAfter=No
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
+# visual-style 12	bgColor:blue
+# visual-style 12	fgColor:white
 # visual-style 0	bgColor:blue
 # visual-style 0	fgColor:white
-# visual-style 0 4 root	color:blue
-1	北条実政（ほうじょうさねまさ）は	_	NOUN	NOUN-PRT	_	9	nmod	_	_
-2	、	_	PUNCT	.	_	1	punct	_	_
-3	鎌倉時代中・後期の	_	NOUN	NOUN-NOUN-POSTP	_	4	nmod	_	_
-4	武将	_	NOUN	NOUN	_	0	root	_	_
-5	、	_	PUNCT	.	_	4	punct	_	_
-6	元寇	_	NOUN	NOUN	_	8	appos	_	_
-7	(弘安の	_	NOUN	NOUN-POSTP	_	8	nmod	_	_
-8	役)の	_	NOUN	NOUN-POSTP	_	9	nmod	_	_
-9	日本軍総司令官。	_	NOUN	NOUN	_	4	conj	_	_
+# visual-style 0 12 root	color:blue
+1	平成	平成	PART	_	_	2	amod	_	SpaceAfter=No
+2	10	10	NUM	_	NumType=Card	8	nummod	_	SpaceAfter=No
+3	年度	年度	NOUN	_	_	2	mark	_	SpaceAfter=No
+4	NHK	NHK	PROPN	_	_	8	compound	_	SpaceAfter=No
+5	全国	全国	NOUN	_	_	8	compound	_	SpaceAfter=No
+6	学校	学校	NOUN	_	_	8	compound	_	SpaceAfter=No
+7	音楽コンクール	音楽コンクール	NOUN	_	_	8	compound	_	SpaceAfter=No
+8	中学校	中学校	NOUN	_	_	12	nmod	_	SpaceAfter=No
+9	の	の	ADP	_	_	8	case	_	SpaceAfter=No
+10	部	部	NOUN	_	_	12	amod	_	SpaceAfter=No
+11	課題	課題	NOUN	_	_	12	compound	_	SpaceAfter=No
+12	曲	曲	NOUN	_	_	0	root	_	SpaceAfter=No
+13	。	。	PUNCT	_	_	12	punct	_	SpaceAfter=No
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
+# visual-style 17	bgColor:blue
+# visual-style 17	fgColor:white
 # visual-style 0	bgColor:blue
 # visual-style 0	fgColor:white
-# visual-style 0 5 root	color:blue
-1	姉と	_	NOUN	NOUN-POSTP	_	2	nmod	_	_
-2	同じ	_	ADJ	ADJ	_	3	acl:relcl	_	_
-3	先生だったので	_	NOUN	NOUN-VERB-AUX-CONJ	_	5	advcl	_	_
-4	、	_	PUNCT	.	_	3	punct	_	_
-5	話やすかったです。	_	ADJ	ADJ-AUX-VERB-AUX	_	0	root	_	_
+# visual-style 0 17 root	color:blue
+1	私	私	PRON	_	_	3	nsubj	_	SpaceAfter=No
+2	は	は	ADP	_	_	1	case	_	SpaceAfter=No
+3	初めて	初めて	ADV	_	_	17	acl	_	SpaceAfter=No
+4	だっ	だ	AUX	_	_	3	cop	_	SpaceAfter=No
+5	た	た	AUX	_	_	3	aux	_	SpaceAfter=No
+6	ん	ん	PART	_	_	3	mark	_	SpaceAfter=No
+7	だ	だ	AUX	_	_	3	cop	_	SpaceAfter=No
+8	けど	けど	SCONJ	_	_	3	mark	_	SpaceAfter=No
+9	思っ	思う	VERB	_	_	17	acl	_	SpaceAfter=No
+10	て	て	SCONJ	_	_	9	mark	_	SpaceAfter=No
+11	い	いる	AUX	_	_	9	aux	_	SpaceAfter=No
+12	た	た	AUX	_	_	9	aux	_	SpaceAfter=No
+13	より	より	ADP	_	_	9	case	_	SpaceAfter=No
+14	も	も	ADP	_	_	9	case	_	SpaceAfter=No
+15	魚	魚	NOUN	_	_	17	nsubj	_	SpaceAfter=No
+16	は	は	ADP	_	_	15	case	_	SpaceAfter=No
+17	新鮮	新鮮	ADJ	_	_	0	root	_	SpaceAfter=No
+18	でし	だ	AUX	_	_	17	aux	_	SpaceAfter=No
+19	た	た	AUX	_	_	17	aux	_	SpaceAfter=No
+20	。	。	PUNCT	_	_	17	punct	_	SpaceAfter=No
 
 ~~~
 
@@ -75,12 +106,12 @@ The following 9 pairs of parts of speech are connected with `root`: [ja-pos/ROOT
 
 This relation is universal.
 
-9995 nodes (4%) are attached to their parents as `root`.
+7158 nodes (4%) are attached to their parents as `root`.
 
-9995 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 23.9631815907954.
+7158 instances of `root` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 23.8276054763901.
 
-The following 10 pairs of parts of speech are connected with `root`: [ja-pos/ROOT]()-[ja-pos/VERB]() (6940; 69% instances), [ja-pos/ROOT]()-[ja-pos/NOUN]() (2163; 22% instances), [ja-pos/ROOT]()-[ja-pos/ADJ]() (716; 7% instances), [ja-pos/ROOT]()-[ja-pos/ADV]() (85; 1% instances), [ja-pos/ROOT]()-[ja-pos/PROPN]() (57; 1% instances), [ja-pos/ROOT]()-[ja-pos/NUM]() (18; 0% instances), [ja-pos/ROOT]()-[ja-pos/PRON]() (10; 0% instances), [ja-pos/ROOT]()-[ja-pos/CONJ]() (3; 0% instances), [ja-pos/ROOT]()-[ja-pos/INTJ]() (2; 0% instances), [ja-pos/ROOT]()-[ja-pos/PART]() (1; 0% instances).
+The following 10 pairs of parts of speech are connected with `root`: [ja-pos/ROOT]()-[ja-pos/VERB]() (4964; 69% instances), [ja-pos/ROOT]()-[ja-pos/NOUN]() (1551; 22% instances), [ja-pos/ROOT]()-[ja-pos/ADJ]() (514; 7% instances), [ja-pos/ROOT]()-[ja-pos/ADV]() (63; 1% instances), [ja-pos/ROOT]()-[ja-pos/PROPN]() (42; 1% instances), [ja-pos/ROOT]()-[ja-pos/NUM]() (14; 0% instances), [ja-pos/ROOT]()-[ja-pos/PRON]() (6; 0% instances), [ja-pos/ROOT]()-[ja-pos/CONJ]() (2; 0% instances), [ja-pos/ROOT]()-[ja-pos/INTJ]() (1; 0% instances), [ja-pos/ROOT]()-[ja-pos/PART]() (1; 0% instances).
 
 
 ~~~ conllu

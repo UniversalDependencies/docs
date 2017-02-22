@@ -4,34 +4,31 @@
 
 ## Treebank Statistics (UD_Vietnamese)
 
-There are 12 `INTJ` lemmas (0%), 12 `INTJ` types (0%) and 20 `INTJ` tokens (0%).
-Out of 13 observed tags, the rank of `INTJ` is: 12 in number of lemmas, 12 in number of types and 13 in number of tokens.
+There are 9 `INTJ` lemmas (0%), 9 `INTJ` types (0%) and 13 `INTJ` tokens (0%).
+Out of 14 observed tags, the rank of `INTJ` is: 12 in number of lemmas, 12 in number of types and 14 in number of tokens.
 
-The 10 most frequent `INTJ` lemmas: <em>à, Thôi, nhỉ, ạ, I, thay, vâng, Ô, Ơ, ơi</em>
+The 10 most frequent `INTJ` lemmas: <em>à, nhỉ, I, Thôi, thay, Ô, Ơ, ơi, Ủa</em>
 
-The 10 most frequent `INTJ` types:  <em>à, Thôi, nhỉ, ạ, I, thay, vâng, Ô, Ơ, ơi</em>
+The 10 most frequent `INTJ` types:  <em>à, nhỉ, I, Thôi, thay, Ô, Ơ, ơi, Ủa</em>
 
-The 10 most frequent ambiguous lemmas: <em>à</em> ([INTJ]() 2, [PART]() 2), <em>Thôi</em> ([PART]() 2, [INTJ]() 2), <em>nhỉ</em> ([INTJ]() 2, [PART]() 1), <em>ạ</em> ([INTJ]() 2, [PART]() 1), <em>thay</em> ([VERB]() 13, [INTJ]() 1, [PART]() 1)
+The 10 most frequent ambiguous lemmas: <em>à</em> ([PART]() 2, [INTJ]() 1), <em>nhỉ</em> ([INTJ]() 2, [PART]() 1), <em>Thôi</em> ([PART]() 2, [INTJ]() 1), <em>thay</em> ([VERB]() 11, [INTJ]() 1, [PART]() 1)
 
-The 10 most frequent ambiguous types:  <em>à</em> ([INTJ]() 2, [PART]() 2), <em>Thôi</em> ([PART]() 2, [INTJ]() 2), <em>nhỉ</em> ([INTJ]() 2, [PART]() 1), <em>ạ</em> ([INTJ]() 2, [PART]() 1), <em>thay</em> ([VERB]() 13, [INTJ]() 1, [PART]() 1)
+The 10 most frequent ambiguous types:  <em>à</em> ([PART]() 2, [INTJ]() 1), <em>nhỉ</em> ([INTJ]() 2, [PART]() 1), <em>Thôi</em> ([PART]() 2, [INTJ]() 1), <em>thay</em> ([VERB]() 11, [PART]() 1, [INTJ]() 1)
 
 
 * <em>à</em>
-  * [INTJ]() 2: <em>sau một hồi chống_chế , ông Chương hỏi : Thế ông nghi_ngờ vợ tôi <b>à</b> ? " .</em>
-  * [PART]() 2: <em>" thế <b>à</b> , nếu Liên về bảo gọi ngay cho chị Thảo " ngọc_hà " nhá ! " ...</em>
-* <em>Thôi</em>
-  * [PART]() 2: <em><b>Thôi</b> đúng rồi !</em>
-  * [INTJ]() 2: <em><b>Thôi</b> anh vào đó trước một thời_gian rồi mình tính ... " .</em>
+  * [PART]() 2: <em>" thế <b>à</b> , nếu Liên về bảo gọi ngay cho chị Thảo " ngọc hà " nhá ! " ...</em>
+  * [INTJ]() 1: <em>" hùng đấy <b>à</b> ?</em>
 * <em>nhỉ</em>
-  * [INTJ]() 2: <em>Hùng giật_mình : " Sao tôi không biết ông <b>nhỉ</b> ? " .</em>
+  * [INTJ]() 2: <em>Hùng giật mình : " Sao tôi không biết ông <b>nhỉ</b> ? " .</em>
   * [PART]() 1: <em>Ai đấy <b>nhỉ</b> ? " .</em>
-* <em>ạ</em>
-  * [INTJ]() 2: <em>" Ngay bây_giờ thì không được anh <b>ạ</b> .</em>
-  * [PART]() 1: <em>" Liên đi ra ngoài chị <b>ạ</b> ! " .</em>
+* <em>Thôi</em>
+  * [PART]() 2: <em>Thanh vỗ đùi đánh đét rồi hô váng nhà : " <b>Thôi</b> chết rồi !</em>
+  * [INTJ]() 1: <em><b>Thôi</b> được , bà không muốn ép duyên con nhưng cũng không thể mặc nó nhắm mắt đưa chân đến chỗ không biết thiên đường hay địa ngục .</em>
 * <em>thay</em>
-  * [VERB]() 13: <em>người trước mệt , người sau <b>thay</b> .</em>
-  * [INTJ]() 1: <em>may <b>thay</b> người_nhà phát_hiện , bi_kịch đó đã không xảy ra .</em>
-  * [PART]() 1: <em>Những ngày tuyệt_vời ấy tiếc <b>thay</b> lại chỉ có 29 ngày ngắn_ngủi .</em>
+  * [VERB]() 11: <em><b>thay</b> vào đó là những bức ảnh nói về chính những đứa trẻ lang thang .</em>
+  * [PART]() 1: <em>Những ngày tuyệt vời ấy tiếc <b>thay</b> lại chỉ có 29 ngày ngắn ngủi .</em>
+  * [INTJ]() 1: <em>may <b>thay</b> người nhà phát hiện , bi kịch đó đã không xảy ra .</em>
 
 ## Morphology
 
@@ -48,21 +45,19 @@ The 3rd highest number of forms (1) was observed with the lemma “nhỉ”: <em
 
 ## Relations
 
-`INTJ` nodes are attached to their parents using 3 different relations: [vi-dep/discourse]() (18; 90% instances), [vi-dep/conj]() (1; 5% instances), [vi-dep/root]() (1; 5% instances)
+`INTJ` nodes are attached to their parents using 2 different relations: [vi-dep/discourse]() (12; 92% instances), [vi-dep/obj]() (1; 8% instances)
 
-Parents of `INTJ` nodes belong to 6 different parts of speech: [VERB]() (11; 55% instances), [NOUN]() (4; 20% instances), [ADJ]() (2; 10% instances), [INTJ]() (1; 5% instances), [PROPN]() (1; 5% instances), [ROOT]() (1; 5% instances)
+Parents of `INTJ` nodes belong to 4 different parts of speech: [VERB]() (8; 62% instances), [ADJ]() (2; 15% instances), [NOUN]() (2; 15% instances), [PROPN]() (1; 8% instances)
 
-19 (95%) `INTJ` nodes are leaves.
+12 (92%) `INTJ` nodes are leaves.
 
 0 (0%) `INTJ` nodes have one child.
 
-0 (0%) `INTJ` nodes have two children.
+1 (8%) `INTJ` nodes have two children.
 
-1 (5%) `INTJ` nodes have three or more children.
+The highest child degree of a `INTJ` node is 2.
 
-The highest child degree of a `INTJ` node is 5.
+Children of `INTJ` nodes are attached using 2 different relations: [vi-dep/conj]() (1; 50% instances), [vi-dep/punct]() (1; 50% instances)
 
-Children of `INTJ` nodes are attached using 2 different relations: [vi-dep/punct]() (4; 80% instances), [vi-dep/discourse]() (1; 20% instances)
-
-Children of `INTJ` nodes belong to 2 different parts of speech: [PUNCT]() (4; 80% instances), [INTJ]() (1; 20% instances)
+Children of `INTJ` nodes belong to 2 different parts of speech: [NOUN]() (1; 50% instances), [PUNCT]() (1; 50% instances)
 

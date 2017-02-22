@@ -26,12 +26,18 @@ The form / lemma ratio of `PART` is 1.000000 (the average of all parts of speech
 
 The 1st highest number of forms (1) was observed with the lemma “न”: न.
 
-`PART` does not occur with any features.
+`PART` occurs with 1 features: [sa-feat/Polarity]() (22; 100% instances)
+
+`PART` occurs with 1 feature-value pairs: `Polarity=Neg`
+
+`PART` occurs with 1 feature combinations.
+The most frequent feature combination is `Polarity=Neg` (22 tokens).
+Examples: न
 
 
 ## Relations
 
-`PART` nodes are attached to their parents using 1 different relations: [sa-dep/neg]() (22; 100% instances)
+`PART` nodes are attached to their parents using 1 different relations: [sa-dep/advmod]() (22; 100% instances)
 
 Parents of `PART` nodes belong to 4 different parts of speech: [VERB]() (9; 41% instances), [NOUN]() (6; 27% instances), [X]() (4; 18% instances), [ADV]() (3; 14% instances)
 

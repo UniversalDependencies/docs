@@ -7,31 +7,20 @@
 This feature is universal.
 It occurs with 2 different values: `Def`, `Ind`.
 
-3371 tokens (14%) have a non-empty value of `Definite`.
-12 types (0%) occur at least once with a non-empty value of `Definite`.
+2109 tokens (14%) have a non-empty value of `Definite`.
+18 types (0%) occur at least once with a non-empty value of `Definite`.
 2 lemmas (0%) occur at least once with a non-empty value of `Definite`.
-The feature is used with 2 part-of-speech tags: [gl-pos/DET]() (3337; 14% instances), [gl-pos/PRON]() (34; 0% instances).
+The feature is used with 1 part-of-speech tags: [gl-pos/DET]() (2109; 14% instances).
 
 ### `DET`
 
-3337 [gl-pos/DET]() tokens (84% of all `DET` tokens) have a non-empty value of `Definite`.
+2109 [gl-pos/DET]() tokens (83% of all `DET` tokens) have a non-empty value of `Definite`.
 
-The most frequent other feature values with which `DET` and `Definite` co-occurred: <tt><a href="PronType.html">PronType</a>=Art</tt> (3337; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (2637; 79%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (1802; 54%).
+The most frequent other feature values with which `DET` and `Definite` co-occurred: <tt><a href="PronType.html">PronType</a>=Art</tt> (2109; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (1658; 79%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (1100; 52%).
 
 `DET` tokens may have the following values of `Definite`:
 
-* `Def` (2885; 86% of non-empty `Definite`): <em>o, a, os, as, lo, la, los, las</em>
-* `Ind` (452; 14% of non-empty `Definite`): <em>un, unha, uns, unhas</em>
-* `EMPTY` (641): <em>súa, seu, esta, este, seus, súas, todos, ese, todo, esa</em>
-
-### `PRON`
-
-34 [gl-pos/PRON]() tokens (3% of all `PRON` tokens) have a non-empty value of `Definite`.
-
-The most frequent other feature values with which `PRON` and `Definite` co-occurred: <tt><a href="Case.html">Case</a>=EMPTY</tt> (34; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (34; 100%), <tt><a href="PronType.html">PronType</a>=Art</tt> (34; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (27; 79%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (22; 65%).
-
-`PRON` tokens may have the following values of `Definite`:
-
-* `Def` (34; 100% of non-empty `Definite`): <em>o, a, os, as</em>
-* `EMPTY` (1257): <em>que, se, lle, nos, o, me, iso, lo, quen, algo</em>
+* `Def` (1844; 87% of non-empty `Definite`): <em>o, a, os, as, la, lo, los, las</em>
+* `Ind` (265; 13% of non-empty `Definite`): <em>un, unha, unhas, uns</em>
+* `EMPTY` (417): <em>súa, seu, esta, este, seus, súas, todo, nosa, todos, ese</em>
 

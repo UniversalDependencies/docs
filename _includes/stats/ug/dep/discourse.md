@@ -6,12 +6,12 @@
 
 This relation is universal.
 
-67 nodes (1%) are attached to their parents as `discourse`.
+5 nodes (0%) are attached to their parents as `discourse`.
 
-61 instances of `discourse` (91%) are right-to-left (child precedes parent).
-Average distance between parent and child is 5.76119402985075.
+3 instances of `discourse` (60%) are right-to-left (child precedes parent).
+Average distance between parent and child is 7.4.
 
-The following 16 pairs of parts of speech are connected with `discourse`: [ug-pos/VERB]()-[ug-pos/NOUN]() (13; 19% instances), [ug-pos/VERB]()-[ug-pos/PART]() (11; 16% instances), [ug-pos/VERB]()-[ug-pos/VERB]() (8; 12% instances), [ug-pos/VERB]()-[ug-pos/INTJ]() (6; 9% instances), [ug-pos/ADJ]()-[ug-pos/INTJ]() (5; 7% instances), [ug-pos/NOUN]()-[ug-pos/NOUN]() (4; 6% instances), [ug-pos/VERB]()-[ug-pos/ADV]() (4; 6% instances), [ug-pos/NOUN]()-[ug-pos/PART]() (3; 4% instances), [ug-pos/NOUN]()-[ug-pos/VERB]() (3; 4% instances), [ug-pos/ADJ]()-[ug-pos/NOUN]() (2; 3% instances), [ug-pos/NOUN]()-[ug-pos/INTJ]() (2; 3% instances), [ug-pos/VERB]()-[ug-pos/PRON]() (2; 3% instances), [ug-pos/ADJ]()-[ug-pos/ADJ]() (1; 1% instances), [ug-pos/ADJ]()-[ug-pos/VERB]() (1; 1% instances), [ug-pos/NOUN]()-[ug-pos/PRON]() (1; 1% instances), [ug-pos/VERB]()-[ug-pos/ADP]() (1; 1% instances).
+The following 4 pairs of parts of speech are connected with `discourse`: [ug-pos/VERB]()-[ug-pos/NOUN]() (2; 40% instances), [ug-pos/NOUN]()-[ug-pos/NOUN]() (1; 20% instances), [ug-pos/VERB]()-[ug-pos/PART]() (1; 20% instances), [ug-pos/VERB]()-[ug-pos/VERB]() (1; 20% instances).
 
 
 ~~~ conllu
@@ -20,48 +20,46 @@ The following 16 pairs of parts of speech are connected with `discourse`: [ug-po
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 3 discourse	color:blue
-1	_	_	PUNCT	Y	_	7	punct	_	Translit=_
-2	دوستۇم	_	NOUN	N	_	3	appos	_	Translit=dostum
-3	ئۆردەكجان	_	NOUN	N	_	7	discourse	_	Translit=ördekjan
-4	بىللە	_	ADV	D	_	5	advmod	_	Translit=bille
-5	ئۆتىۋاتقىنىمىزغا	_	VERB	V	_	7	nmod	_	Translit=ötiwatqinimizgha
-6	ئۇزاق	_	ADJ	A	_	7	advmod	_	Translit=uzaq
-7	بولدى	_	VERB	V	_	0	root	_	Translit=boldi
-8	،	_	PUNCT	Y	_	7	punct	_	Translit=,
+1	−	_	NOUN	N	_	7	dep	_	Translit=−
+2	−	_	NOUN	N	_	7	dep	_	Translit=−
+3	كامال	_	NOUN	N	_	7	discourse	_	SpaceAfter=No|Translit=kamal
+4	،	_	PUNCT	Y	_	3	punct	_	Translit=,
+5	سەن	_	PRON	P	_	7	nsubj	_	Translit=sen
+6	تاياق	_	NOUN	N	_	7	obj	_	Translit=tayaq
+7	يەپ	_	VERB	V	_	0	root	_	Translit=yep
+8	باققانمۇ	_	AUX	V	_	7	aux	_	SpaceAfter=No|Translit=baqqanmu
+9	؟	_	PUNCT	Y	_	8	punct	_	Translit=?
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 4 discourse	color:blue
+1	بۇمۇ	_	PRON	P	_	3	nsubj	_	Translit=bumu
+2	ئاللانىڭ	_	NOUN	N	_	3	nmod:poss	_	Translit=allaning
+3	ئىرادىسى	_	NOUN	N	_	0	root	_	Translit=iradisi
+4	بالام	_	NOUN	N	_	3	discourse	_	SpaceAfter=No|Translit=balam
+5	.	_	PUNCT	Y	_	4	punct	_	Translit=.
+
+~~~
+
+
+~~~ conllu
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
-# visual-style 5 1 discourse	color:blue
-1	مانا	_	PART	T	_	5	discourse	_	Translit=mana
-2	بۇ	_	PRON	P	_	5	nsubj	_	Translit=bu
-3	كەنتىمىزنىڭ	_	NOUN	N	_	5	nmod:poss	_	Translit=kentimizning
-4	چىرايلىق	_	ADJ	A	_	5	amod	_	Translit=chirayliq
-5	مارجانبۇلىقى	_	VERB	V	_	0	root	_	Translit=marjanbuliqi
-6	.	_	PUNCT	Y	_	5	punct	_	Translit=.
-
-~~~
-
-
-~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 2 discourse	color:blue
-1	"	_	PUNCT	Y	_	6	punct	_	Translit="
-2	ئاپلا	_	VERB	V	_	6	discourse	_	Translit=apla
-3	،	_	PUNCT	Y	_	2	punct	_	Translit=,
-4	ئەمدى	_	ADV	D	_	6	mark	_	Translit=emdi
-5	قانداق	_	PRON	P	_	6	nsubj	_	Translit=qandaq
-6	قىلارمەن	_	VERB	V	_	0	root	_	Translit=qilarmen
-7	؟	_	PUNCT	Y	_	6	punct	_	Translit=?
-8	"	_	PUNCT	Y	_	6	punct	_	Translit="
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 5 discourse	color:blue
+1	سېنى	_	PRON	P	_	3	obj	_	Translit=sëni
+2	يەنە	_	ADV	D	_	3	advmod	_	Translit=yene
+3	ئۇردىمۇ	_	VERB	V	_	0	root	_	SpaceAfter=No|Translit=urdimu
+4	،	_	PUNCT	Y	_	5	punct	_	Translit=,
+5	لالە	_	VERB	V	_	3	discourse	_	SpaceAfter=No|Translit=lale
+6	؟	_	PUNCT	Y	_	3	punct	_	Translit=?
 
 ~~~
 

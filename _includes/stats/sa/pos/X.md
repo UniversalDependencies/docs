@@ -11,9 +11,9 @@ The 10 most frequent `X` lemmas: अनु-मन्, अव-धार्य, �
 
 The 10 most frequent `X` types:  अनुमतः, अवत्र्णः, अवधार्य, आप्नोति, आह, कृतघ्नः, ज्ञातव्यम्, तौ, नैर्गुण्यम्, भवति
 
-The 10 most frequent ambiguous lemmas: अह् ([VERB]() 7, [X]() 1), तद् ([PRON]() 46, [DET]() 31, [ADV]() 9, [X]() 1, [NOUN]() 1), भू ([VERB]() 9, [NOUN]() 1, [X]() 1), रथ ([NOUN]() 1, [X]() 1), राजन् ([NOUN]() 11, [X]() 1), वद् ([X]() 1, [VERB]() 1), विद्वस् ([X]() 1, [NOUN]() 1), शास्त्र ([X]() 1, [NOUN]() 1), सञ्जीवक ([X]() 1, [PROPN]() 1), सिंह ([NOUN]() 3, [X]() 1)
+The 10 most frequent ambiguous lemmas: अह् ([VERB]() 7, [X]() 1), तद् ([PRON]() 46, [DET]() 31, [ADV]() 9, [NOUN]() 1, [X]() 1), भू ([VERB]() 9, [NOUN]() 1, [X]() 1), रथ ([X]() 1, [NOUN]() 1), राजन् ([NOUN]() 11, [X]() 1), वद् ([X]() 1, [VERB]() 1), विद्वस् ([NOUN]() 1, [X]() 1), शास्त्र ([NOUN]() 1, [X]() 1), सञ्जीवक ([PROPN]() 1, [X]() 1), सिंह ([NOUN]() 3, [X]() 1)
 
-The 10 most frequent ambiguous types:  आह ([VERB]() 8, [X]() 1), भवति ([VERB]() 4, [X]() 1), राजानम् ([X]() 1, [NOUN]() 1), विष्णुशर्मा ([PROPN]() 2, [X]() 1), सञ्जीवकस्य ([PROPN]() 1, [X]() 1)
+The 10 most frequent ambiguous types:  आह ([VERB]() 8, [X]() 1), भवति ([VERB]() 4, [X]() 1), राजानम् ([NOUN]() 1, [X]() 1), विष्णुशर्मा ([PROPN]() 2, [X]() 1), सञ्जीवकस्य ([PROPN]() 1, [X]() 1)
 
 
 * आह
@@ -23,8 +23,8 @@ The 10 most frequent ambiguous types:  आह ([VERB]() 8, [X]() 1), भवत�
   * [VERB]() 4: स्थायी <b>भवति</b> अत्यन्तं रागः शुक्लपटे यथा
   * [X]() 1: उक्तः <b>भवति</b> यः पूर्वम् गुणवान् संसदि न तस्य वाच्यम् नैर्गुण्यम् प्रतिज्ञाभङ्ग भीरुणा
 * राजानम्
-  * [X]() 1: अथ विष्णुशर्म तम् <b>राजानम्</b> उच्यते
   * [NOUN]() 1: तत् श्रुत्वा सा पुलकितसर्वाङ्गी सत्वरम् गत्वा <b>राजानम्</b> ऊचे
+  * [X]() 1: अथ विष्णुशर्म तम् <b>राजानम्</b> उच्यते
 * विष्णुशर्मा
   * [PROPN]() 2: <b>विष्णुशर्मा</b> अपि तान् आदाय स्वगृहं गत्वा
   * [X]() 1: अत्र अस्ति <b>विष्णुशर्मा</b> नाम ब्राह्मणḥ सकल शास्त्र पारङ्गत च अत्र संसदि लब्धकीर्तिः
@@ -53,7 +53,7 @@ Examples: कृतघ्नः, विद्वान्, विष्णुश
 
 ## Relations
 
-`X` nodes are attached to their parents using 5 different relations: [sa-dep/root]() (8; 40% instances), [sa-dep/nmod]() (5; 25% instances), [sa-dep/nsubj]() (4; 20% instances), [sa-dep/advcl]() (2; 10% instances), [sa-dep/dobj]() (1; 5% instances)
+`X` nodes are attached to their parents using 6 different relations: [sa-dep/root]() (8; 40% instances), [sa-dep/nsubj]() (4; 20% instances), [sa-dep/obl]() (3; 15% instances), [sa-dep/advcl]() (2; 10% instances), [sa-dep/nmod]() (2; 10% instances), [sa-dep/obj]() (1; 5% instances)
 
 Parents of `X` nodes belong to 4 different parts of speech: [ROOT]() (8; 40% instances), [VERB]() (8; 40% instances), [NOUN]() (2; 10% instances), [X]() (2; 10% instances)
 
@@ -67,7 +67,7 @@ Parents of `X` nodes belong to 4 different parts of speech: [ROOT]() (8; 40% ins
 
 The highest child degree of a `X` node is 5.
 
-Children of `X` nodes are attached using 10 different relations: [sa-dep/nmod]() (10; 25% instances), [sa-dep/nsubj]() (8; 20% instances), [sa-dep/neg]() (5; 13% instances), [sa-dep/advcl]() (4; 10% instances), [sa-dep/advmod]() (4; 10% instances), [sa-dep/dobj]() (3; 8% instances), [sa-dep/compound]() (2; 5% instances), [sa-dep/det]() (2; 5% instances), [sa-dep/conj]() (1; 3% instances), [sa-dep/cop]() (1; 3% instances)
+Children of `X` nodes are attached using 9 different relations: [sa-dep/nmod]() (10; 25% instances), [sa-dep/advmod]() (9; 23% instances), [sa-dep/nsubj]() (8; 20% instances), [sa-dep/advcl]() (4; 10% instances), [sa-dep/obj]() (3; 8% instances), [sa-dep/compound]() (2; 5% instances), [sa-dep/det]() (2; 5% instances), [sa-dep/conj]() (1; 3% instances), [sa-dep/cop]() (1; 3% instances)
 
 Children of `X` nodes belong to 7 different parts of speech: [NOUN]() (17; 43% instances), [PRON]() (6; 15% instances), [ADV]() (5; 13% instances), [PART]() (4; 10% instances), [VERB]() (4; 10% instances), [DET]() (2; 5% instances), [X]() (2; 5% instances)
 

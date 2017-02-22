@@ -40,9 +40,9 @@ The following 2 pairs of parts of speech are connected with `acl`: [sa-pos/PRON]
 # visual-style 1 4 acl	color:blue
 1	विष्णुशर्मा	विष्णुशर्मन्	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	Translit=viṣṇuśarmā|LTranslit=viṣṇuśarman
 2	अपि	अपि	ADV	_	_	1	advmod	_	Translit=api|LTranslit=api
-3	तान्	तद्	DET	_	Case=Abl|Gender=Masc|Number=Plur|PronType=Dem	4	dobj	_	Translit=tān|LTranslit=tad
+3	तान्	तद्	DET	_	Case=Abl|Gender=Masc|Number=Plur|PronType=Dem	4	obj	_	Translit=tān|LTranslit=tad
 4	आदाय	आदा	VERB	_	VerbForm=Ger	1	acl	_	Translit=ādāya|LTranslit=ādā
-5	स्वगृहं	स्वगृह	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	6	nmod	_	Translit=svagr̥haṁ|LTranslit=svagr̥ha
+5	स्वगृहं	स्वगृह	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	6	obl	_	Translit=svagr̥haṁ|LTranslit=svagr̥ha
 6	गत्वा	गम्	VERB	_	Tense=Past|VerbForm=Part	0	root	_	Translit=gatvā|LTranslit=gam
 
 ~~~

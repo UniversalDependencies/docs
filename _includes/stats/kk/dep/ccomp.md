@@ -6,72 +6,67 @@
 
 This relation is universal.
 
-81 nodes (1%) are attached to their parents as `ccomp`.
+8 nodes (2%) are attached to their parents as `ccomp`.
 
-81 instances of `ccomp` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.06172839506173.
+8 instances of `ccomp` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 3.625.
 
-The following 8 pairs of parts of speech are connected with `ccomp`: [kk-pos/VERB]()-[kk-pos/VERB]() (60; 74% instances), [kk-pos/VERB]()-[kk-pos/NOUN]() (7; 9% instances), [kk-pos/ADJ]()-[kk-pos/VERB]() (4; 5% instances), [kk-pos/VERB]()-[kk-pos/ADJ]() (4; 5% instances), [kk-pos/VERB]()-[kk-pos/ADV]() (3; 4% instances), [kk-pos/AUX]()-[kk-pos/VERB]() (1; 1% instances), [kk-pos/NOUN]()-[kk-pos/VERB]() (1; 1% instances), [kk-pos/VERB]()-[kk-pos/PRON]() (1; 1% instances).
-
-
-~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 5 ccomp	color:blue
-1	Кейінірек	кейін	ADV	adv	_	6	advmod	_	comp
-2	ФИФА	ФИФА	PROPN	np	_	6	nsubj	_	org|nom
-3	ротация	ротация	NOUN	n	_	4	nmod:poss	_	nom
-4	принципі	принцип	NOUN	n	_	5	nsubj	_	px3sp|nom
-5	өзгеретінін	өзгер	VERB	v	_	6	ccomp	_	iv|ger_impf|px3sp|acc
-6	жариялады	жарияла	VERB	v	_	0	root	_	tv|ifi|p3|sg
-7	.	.	PUNCT	sent	_	6	punct	_	_
-
-~~~
+The following 2 pairs of parts of speech are connected with `ccomp`: [kk-pos/VERB]()-[kk-pos/VERB]() (7; 88% instances), [kk-pos/VERB]()-[kk-pos/ADJ]() (1; 13% instances).
 
 
 ~~~ conllu
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 3 ccomp	color:blue
-1	Мені	мен	PRON	prn	_	3	dobj	_	pers|p1|sg|acc
-2	бұзақы	бұзақы	NOUN	n	_	3	compound	_	attr
-3	_	адам	NOUN	n	_	5	ccomp	_	nom
-4	_	е	AUX	cop	_	3	cop	_	aor|p3|sg
-5	деп	де	VERB	v	_	9	advcl	_	tv|gna_perf
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 3 ccomp	color:blue
+1	Шешуі	шеш	VERB	v	Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3|VerbForm=Ger	3	xcomp	_	_
+2	деп	деп	X	x	_	3	dep	_	_
+3	атауға	ата	VERB	v	Case=Dat|VerbForm=Ger	4	ccomp	_	_
+4	болатын	бол	VERB	v	Aspect=Imp|VerbForm=Part	10	advcl	_	_
+5	болса	бол	AUX	v	Mood=Cnd|Number=Sing|Person=3|VerbForm=Conv	4	cop	_	SpaceAfter=No
 6	,	,	PUNCT	cm	_	5	punct	_	_
-7	сөйтіп	сөйт	VERB	v	_	9	advcl	_	tv|gna_perf
-8	болыстыққа	болыстық	NOUN	n	_	9	nmod	_	dat
-9	сайламай	сайла	VERB	v	_	0	root	_	iv|neg|prc_perf
-10	қойғаны	қой	AUX	aux	_	9	aux	_	ger_past|px3sp
-11	.	.	PUNCT	sent	_	9	punct	_	_
+7	адамның	адам	NOUN	n	Case=Gen	8	nmod:poss	_	_
+8	шешуі	шеш	VERB	v	Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3|VerbForm=Ger	10	nsubj	_	_
+9	жалғыз	жалғыз	ADJ	adj	_	10	amod	_	_
+10	өлім	өлім	NOUN	n	Case=Nom	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	sent	_	10	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 11	bgColor:blue
-# visual-style 11	fgColor:white
-# visual-style 11 7 ccomp	color:blue
-1	"	_	PUNCT	sent	_	7	punct	_	_
-2	Бұл	бұл	DET	det	_	3	det	_	dem
-3	жауыздың	жауыз	NOUN	n	_	4	nmod:poss	_	gen
-4	көзінде	көз	NOUN	n	_	7	nmod	_	px3sp|loc
-5	не	не	DET	det	_	6	det	_	itg|nom
-6	сиқыр	сиқыр	NOUN	n	_	7	nsubj	_	nom
-7	_	бар	ADJ	adj	_	11	ccomp	_	_
-8	_	е	AUX	cop	_	7	cop	_	aor|p3|sg
-9	?	_	PUNCT	sent	_	7	punct	_	_
-10	"	_	PUNCT	sent	_	7	punct	_	_
-11	деп	де	VERB	v	_	13	advcl	_	tv|gna_perf
-12	ішінен	іш	NOUN	n	_	13	nmod	_	px3sp|loc
-13	таң__қалды	таң__қал	VERB	v	_	0	root	_	iv|ifi|p3|sg
-14	.	.	PUNCT	sent	_	13	punct	_	_
+# visual-style 16	bgColor:blue
+# visual-style 16	fgColor:white
+# visual-style 21	bgColor:blue
+# visual-style 21	fgColor:white
+# visual-style 21 16 ccomp	color:blue
+1	Шолпан	Шолпан	PROPN	np	Case=Nom|Gender=Fem	24	nsubj	_	_
+2	Сәрсенбайға	Сәрсенбай	PROPN	np	Case=Dat|Gender=Masc	3	obl	_	_
+3	шыққан	шық	VERB	v	Tense=Past|VerbForm=Part	4	acl:relcl	_	_
+4	жылы	жыл	NOUN	n	Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3	24	obl	_	_
+5	өзіндей	өз	PRON	prn	Number[psor]=Plur,Sing|Person[psor]=3|PronType=Ref	7	nmod	_	_
+6	жас	жас	ADJ	adj	_	7	amod	_	_
+7	келіншектермен	келіншек	NOUN	n	Case=Ins|Number=Plur	9	obl	_	_
+8	аулақта	аулақ	ADJ	adj	Case=Loc	9	obl	_	_
+9	кеңескенде	кеңес	VERB	v	Case=Loc|Tense=Past|VerbForm=Ger	24	advcl	_	SpaceAfter=No
+10	:	:	PUNCT	sent	_	9	punct	_	_
+11	«	«	PUNCT	lquot	_	16	punct	_	SpaceAfter=No
+12	бала	бала	NOUN	n	_	14	nmod	_	_
+13	сыз	сыз	ADP	post	_	12	case	_	_
+14	өмірдің	өмір	NOUN	n	Case=Gen	15	nmod:poss	_	_
+15	қызығы	қызық	ADJ	adj	Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3	16	nsubj	_	_
+16	жоқ	жоқ	ADJ	adj	_	21	ccomp	_	_
+17	қой	ғой	PART	mod_ass	_	16	discourse	_	_
+18	»	»	PUNCT	rquot	_	16	punct	_	SpaceAfter=No
+19	,	,	PUNCT	cm	_	16	punct	_	_
+20	–	–	PUNCT	guio	_	16	punct	_	_
+21	деп	де	VERB	v	Aspect=Perf|VerbForm=Conv	24	advcl	_	_
+22	аузымен	ауыз	NOUN	n	Case=Ins|Number[psor]=Plur,Sing|Person[psor]=3	24	obl	_	_
+23	ғана	ғана	ADV	postadv	_	22	advmod	_	_
+24	айтушы	айт	VERB	v	Mood=Pot|VerbForm=Part	0	root	_	_
+25	еді	е	AUX	cop	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	24	cop	_	SpaceAfter=No
+26	.	.	PUNCT	sent	_	24	punct	_	_
 
 ~~~
 

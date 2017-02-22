@@ -4,87 +4,87 @@
 
 ## Treebank Statistics (UD_Turkish)
 
-There are 2971 `NOUN` lemmas (48%), 7545 `NOUN` types (43%) and 15734 `NOUN` tokens (27%).
+There are 2766 `NOUN` lemmas (49%), 6687 `NOUN` types (44%) and 12988 `NOUN` tokens (27%).
 Out of 14 observed tags, the rank of `NOUN` is: 1 in number of lemmas, 1 in number of types and 1 in number of tokens.
 
 The 10 most frequent `NOUN` lemmas: <em>şey, yer, ev, gün, el, zaman, yıl, göz, anne, insan</em>
 
-The 10 most frequent `NOUN` types:  <em>şey, zaman, gün, adam, gece, yıl, bilim, önem, ev, evet</em>
+The 10 most frequent `NOUN` types:  <em>şey, zaman, gün, yıl, adam, bilim, gece, ev, bugün, kez</em>
 
-The 10 most frequent ambiguous lemmas: <em>yer</em> ([NOUN]() 167, [VERB]() 2), <em>yıl</em> ([NOUN]() 112, [VERB]() 2), <em>yol</em> ([NOUN]() 79, [VERB]() 2), <em>an</em> ([NOUN]() 66, [VERB]() 7), <em>yüz</em> ([NOUN]() 54, [NUM]() 52, [VERB]() 2), <em>neden</em> ([NOUN]() 50, [ADV]() 6), <em>içeri</em> ([NOUN]() 39, [ADJ]() 1), <em>park</em> ([NOUN]() 37, [PROPN]() 1), <em>saç</em> ([NOUN]() 25, [VERB]() 5), <em>art</em> ([NOUN]() 21, [VERB]() 15)
+The 10 most frequent ambiguous lemmas: <em>yer</em> ([NOUN]() 138, [VERB]() 2), <em>yıl</em> ([NOUN]() 91, [VERB]() 2), <em>yol</em> ([NOUN]() 62, [VERB]() 2), <em>an</em> ([NOUN]() 54, [VERB]() 5), <em>yüz</em> ([NOUN]() 46, [NUM]() 43, [VERB]() 1), <em>neden</em> ([NOUN]() 39, [ADV]() 4), <em>içeri</em> ([NOUN]() 38, [ADJ]() 1), <em>saç</em> ([NOUN]() 21, [VERB]() 5), <em>önce</em> ([ADP]() 51, [ADV]() 32, [NOUN]() 17), <em>art</em> ([NOUN]() 16, [VERB]() 13)
 
-The 10 most frequent ambiguous types:  <em>yıl</em> ([NOUN]() 45, [VERB]() 2), <em>yer</em> ([NOUN]() 30, [VERB]() 4), <em>neden</em> ([PRON]() 15, [NOUN]() 13, [ADV]() 4), <em>gerek</em> ([NOUN]() 11, [VERB]() 7), <em>içeri</em> ([NOUN]() 10, [ADJ]() 1), <em>tarihi</em> ([NOUN]() 8, [ADJ]() 1), <em>Cumhuriyet</em> ([NOUN]() 9, [PROPN]() 1), <em>önce</em> ([ADP]() 58, [ADV]() 30, [NOUN]() 8), <em>ardından</em> ([ADV]() 8, [NOUN]() 6), <em>yerinde</em> ([NOUN]() 8, [ADJ]() 2)
+The 10 most frequent ambiguous types:  <em>yıl</em> ([NOUN]() 41, [VERB]() 2), <em>yer</em> ([NOUN]() 24, [VERB]() 2), <em>içeri</em> ([NOUN]() 10, [ADJ]() 1), <em>neden</em> ([PRON]() 9, [NOUN]() 8, [ADV]() 3), <em>gerek</em> ([NOUN]() 8, [VERB]() 6), <em>tarihi</em> ([NOUN]() 6, [ADJ]() 1), <em>önce</em> ([ADP]() 49, [ADV]() 22, [NOUN]() 7), <em>yerinde</em> ([NOUN]() 7, [ADJ]() 2), <em>Cumhuriyet</em> ([NOUN]() 6, [PROPN]() 1), <em>din</em> ([NOUN]() 6, [AUX]() 1)
 
 
 * <em>yıl</em>
-  * [NOUN]() 45: <em>Yedi <b>yıl</b> boyunca çocuk hasretiyle yanıp tutuşuyorlardı .</em>
+  * [NOUN]() 41: <em>Hep o benden iki <b>yıl</b> önce .</em>
   * [VERB]() 2: <em>kirk <b>yıl</b> önce bulunmuş değildir .</em>
 * <em>yer</em>
-  * [NOUN]() 30: <em>Ne kadar ürküt ücü ve bir o kadar da çekici bir <b>yer</b> orası .</em>
-  * [VERB]() 4: <em>Ben im gibi yüksek tansiyonu olan lar tuzsuz da <b>yer</b> .</em>
-* <em>neden</em>
-  * [PRON]() 15: <em>Yöreye ve toplumlara göre ( eskiden ) evler <b>neden</b> farklılaşıyordu ?</em>
-  * [NOUN]() 13: <em>O da hararetin yüksek çıkmasına <b>neden</b> oldu " dedi .</em>
-  * [ADV]() 4: <em>Ya da barınağın , konutun , bir türlü evleşememesine <b>neden</b> olabilir .</em>
-* <em>gerek</em>
-  * [NOUN]() 11: <em>Uzatmaya , başka sözlerle tarif etmeye <b>gerek</b> yok .</em>
-  * [VERB]() 7: <em>Daha saygı lı ve terbiyeli olmam <b>gerek</b> .</em>
+  * [NOUN]() 24: <em>Bağımlılık yapan bir <b>yer</b> bu Erkekler Parkı .</em>
+  * [VERB]() 2: <em>Ben im gibi yüksek tansiyonu olan lar tuzsuz da <b>yer</b> .</em>
 * <em>içeri</em>
-  * [NOUN]() 10: <em>Katan a <b>içeri</b> girdi .</em>
+  * [NOUN]() 10: <em>Parkın kapısından <b>içeri</b> girdik .</em>
   * [ADJ]() 1: <em>O gün çaya karıştırılacak miktarı çarçabuk sağıp , soğuktan üşüyen ellerini sıvazlayarak <b>içeri</b> koştular .</em>
+* <em>neden</em>
+  * [PRON]() 9: <em>Oğlunun <b>neden</b> eroinman olduğunu anlayamaması çok doğal dı .</em>
+  * [NOUN]() 8: <em>O da hararetin yüksek çıkmasına <b>neden</b> oldu " dedi .</em>
+  * [ADV]() 3: <em>Bu hükümet <b>neden</b> dağıldı .</em>
+* <em>gerek</em>
+  * [NOUN]() 8: <em>Bize de ancak yararlı olduğumuz ölçüde <b>gerek</b> duyulur .</em>
+  * [VERB]() 6: <em>Bu gece ulaştırmam <b>gerek</b> ...</em>
 * <em>tarihi</em>
-  * [NOUN]() 8: <em>Türkiye'ye müzakere <b>tarihi</b> verilmemesi ancak Güney Kıbrıs'ın AB'ye alınması durumunda işler karışabilir .</em>
+  * [NOUN]() 6: <em>Tarihi , yaşanmış ların hatıra defteri olmaktan çıkarıp geleceğimizin yol gösteren rehberi olarak gördükçe , <b>tarihi</b> tekrarlar dururuz .</em>
   * [ADJ]() 1: <em>Dün akşam İsraille Filistin Washington'da <b>tarihi</b> bir barışa imza attılar .</em>
-* <em>Cumhuriyet</em>
-  * [NOUN]() 9: <em>Hepimiz <b>Cumhuriyet</b> devrinde doğmuştuk .</em>
-  * [PROPN]() 1: <em>Bağcılar <b>Cumhuriyet</b> Başsavcılığı , Siirt'te ki seçimin iptaliyle milletvekilliği düştükten sonra gıyabi tutuklama kararı vicahiye çevrilerek cezaevine konulan Fadıl Akgündüz hakkında , dörtyüzdoksandört - binikiyüzotuzbeş yıl arasında hapis cezası istemiyle fezleke hazırladı .</em>
 * <em>önce</em>
-  * [ADP]() 58: <em>Kahvesini hazırlamadan <b>önce</b> son iki cümleyi karaladı .</em>
-  * [ADV]() 30: <em>Bir saat <b>önce</b> .</em>
-  * [NOUN]() 8: <em>Dizinin bir sonraki öğesi bir <b>önce</b> kinden daha iyi dir .</em>
-* <em>ardından</em>
-  * [ADV]() 8: <em>Ya da <b>ardından</b> mutlaka sevgi sözcükleri kullanır .</em>
-  * [NOUN]() 6: <em>İlk sigara molası üç saat lik yolculuğun <b>ardından</b> geldi .</em>
+  * [ADP]() 49: <em>Kahvesini hazırlamadan <b>önce</b> son iki cümleyi karaladı .</em>
+  * [ADV]() 22: <em>Hep o benden iki yıl <b>önce</b> .</em>
+  * [NOUN]() 7: <em>Henüz oraya varmadan <b>önce</b> ki ara sokaklardan birinde , göstermek istediğim küçük bir bar var dı .</em>
 * <em>yerinde</em>
-  * [NOUN]() 8: <em>" Kaza <b>yerinde</b> eşi ve kızının öldüğünü gördü mü , bilmiyorum .</em>
+  * [NOUN]() 7: <em>Onların karşısında olmak yerine onların <b>yerinde</b> olmayı hayal edersiniz .</em>
   * [ADJ]() 2: <em>İyi etmiş , diyor büyük ablam , onun <b>yerinde</b> ben de olsam aynı şeyi yapardım .</em>
+* <em>Cumhuriyet</em>
+  * [NOUN]() 6: <em>Hepimiz <b>Cumhuriyet</b> devrinde doğmuştuk .</em>
+  * [PROPN]() 1: <em>Bağcılar <b>Cumhuriyet</b> Başsavcılığı , Siirt'te ki seçimin iptaliyle milletvekilliği düştükten sonra gıyabi tutuklama kararı vicahiye çevrilerek cezaevine konulan Fadıl Akgündüz hakkında , dörtyüzdoksandört - binikiyüzotuzbeş yıl arasında hapis cezası istemiyle fezleke hazırladı .</em>
+* <em>din</em>
+  * [NOUN]() 6: <em>Bizim <b>din</b> hocalarına çok yer ler derlermiş .</em>
+  * [AUX]() 1: <em>Kapıyı ben mi , yok sa daha sonra benim gibi sana aşık olan asistanım mı açtı , şimdi hatırlamıyorum , ama gelen sen <b>din</b> .</em>
 
 ## Morphology
 
-The form / lemma ratio of `NOUN` is 2.539549 (the average of all parts of speech is 2.815350).
+The form / lemma ratio of `NOUN` is 2.417570 (the average of all parts of speech is 2.690133).
 
-The 1st highest number of forms (30) was observed with the lemma “ev”: <em>Evlerde, Evleri'nde, ev, evde, evden, eve, evi, evim, evimde, evimden, evimi, evimin, evimizi, evimizin, evin, evinde, evinden, evine, evini, evinin, evinize, evle, evler, evlerden, evlere, evleri, evlerin, evlerinden, evlerine, evlerini</em>.
+The 1st highest number of forms (28) was observed with the lemma “el”: <em>Elim, Ellerimi, el, elde, elden, ele, eli, elimde, elimden, elimi, elimizde, elimize, elinde, elinden, eline, elini, elinin, eliyle, elle, eller, ellerde, elleri, ellerim, ellerinde, ellerinden, ellerine, ellerini, elleriyle</em>.
 
-The 2nd highest number of forms (29) was observed with the lemma “el”: <em>Elim, el, elde, elden, ele, eli, elimde, elimden, elimi, elimizde, elimize, elinde, elinden, eline, elini, elinin, eliyle, elle, eller, ellerde, elleri, ellerim, ellerimden, ellerimi, ellerinde, ellerinden, ellerine, ellerini, elleriyle</em>.
+The 2nd highest number of forms (28) was observed with the lemma “ev”: <em>Evlerde, Evleri'nde, Evlerine, ev, evde, evden, eve, evi, evim, evimde, evimden, evimi, evimin, evimizi, evimizin, evin, evinde, evinden, evine, evini, evinin, evinize, evle, evler, evlere, evleri, evlerin, evlerinden</em>.
 
-The 3rd highest number of forms (26) was observed with the lemma “göz”: <em>Gözlerim, Gözünde, göz, gözden, göze, gözle, gözler, gözleri, gözlerime, gözlerimi, gözlerimin, gözlerinde, gözlerini, gözlerinin, gözleriyle, gözlerle, gözü, gözüm, gözümde, gözüme, gözümü, gözün, gözünden, gözünü, gözünün, gözüyle</em>.
+The 3rd highest number of forms (24) was observed with the lemma “göz”: <em>Gözlerim, göz, gözden, göze, gözle, gözler, gözleri, gözlerime, gözlerimi, gözlerimin, gözlerinde, gözlerini, gözlerinin, gözleriyle, gözlerle, gözü, gözüm, gözümde, gözümü, gözün, gözünden, gözünü, gözünün, gözüyle</em>.
 
-`NOUN` occurs with 5 features: [tr-feat/Case]() (15734; 100% instances), [tr-feat/Number]() (15734; 100% instances), [tr-feat/Person]() (15734; 100% instances), [tr-feat/Number[psor]]() (4994; 32% instances), [tr-feat/Person[psor]]() (4994; 32% instances)
+`NOUN` occurs with 6 features: [tr-feat/Case]() (12988; 100% instances), [tr-feat/Number]() (12986; 100% instances), [tr-feat/Person]() (12986; 100% instances), [tr-feat/Number[psor]]() (4139; 32% instances), [tr-feat/Person[psor]]() (4139; 32% instances), [tr-feat/Abbr]() (113; 1% instances)
 
-`NOUN` occurs with 16 feature-value pairs: `Case=Abl`, `Case=Acc`, `Case=Dat`, `Case=Equ`, `Case=Gen`, `Case=Ins`, `Case=Loc`, `Case=Nom`, `Number=Plur`, `Number=Sing`, `Number[psor]=Plur`, `Number[psor]=Sing`, `Person=3`, `Person[psor]=1`, `Person[psor]=2`, `Person[psor]=3`
+`NOUN` occurs with 17 feature-value pairs: `Abbr=Yes`, `Case=Abl`, `Case=Acc`, `Case=Dat`, `Case=Equ`, `Case=Gen`, `Case=Ins`, `Case=Loc`, `Case=Nom`, `Number=Plur`, `Number=Sing`, `Number[psor]=Plur`, `Number[psor]=Sing`, `Person=3`, `Person[psor]=1`, `Person[psor]=2`, `Person[psor]=3`
 
-`NOUN` occurs with 99 feature combinations.
-The most frequent feature combination is `Case=Nom|Number=Sing|Person=3` (6048 tokens).
-Examples: <em>şey, zaman, gün, adam, gece, yıl, bilim, önem, ev, evet</em>
+`NOUN` occurs with 107 feature combinations.
+The most frequent feature combination is `Case=Nom|Number=Sing|Person=3` (4889 tokens).
+Examples: <em>şey, zaman, gün, yıl, adam, bilim, gece, ev, bugün, kez</em>
 
 
 ## Relations
 
-`NOUN` nodes are attached to their parents using 14 different relations: [tr-dep/nmod]() (5869; 37% instances), [tr-dep/dobj]() (2808; 18% instances), [tr-dep/nmod:poss]() (2774; 18% instances), [tr-dep/nsubj]() (2054; 13% instances), [tr-dep/conj]() (1079; 7% instances), [tr-dep/root]() (606; 4% instances), [tr-dep/compound:lvc]() (381; 2% instances), [tr-dep/compound]() (71; 0% instances), [tr-dep/appos]() (50; 0% instances), [tr-dep/ccomp]() (12; 0% instances), [tr-dep/det]() (12; 0% instances), [tr-dep/cc]() (8; 0% instances), [tr-dep/advmod:emph]() (6; 0% instances), [tr-dep/csubj]() (4; 0% instances)
+`NOUN` nodes are attached to their parents using 19 different relations: [tr-dep/obl]() (2999; 23% instances), [tr-dep/nmod:poss]() (2001; 15% instances), [tr-dep/obj]() (1957; 15% instances), [tr-dep/nsubj]() (1654; 13% instances), [tr-dep/nmod]() (1433; 11% instances), [tr-dep/conj]() (1050; 8% instances), [tr-dep/root]() (784; 6% instances), [tr-dep/compound]() (690; 5% instances), [tr-dep/flat]() (272; 2% instances), [tr-dep/compound:redup]() (57; 0% instances), [tr-dep/appos]() (43; 0% instances), [tr-dep/det]() (16; 0% instances), [tr-dep/ccomp]() (11; 0% instances), [tr-dep/cc]() (6; 0% instances), [tr-dep/compound:lvc]() (4; 0% instances), [tr-dep/csubj]() (4; 0% instances), [tr-dep/advmod:emph]() (3; 0% instances), [tr-dep/case]() (2; 0% instances), [tr-dep/parataxis]() (2; 0% instances)
 
-Parents of `NOUN` nodes belong to 15 different parts of speech: [VERB]() (9197; 58% instances), [NOUN]() (4159; 26% instances), [ADJ]() (1136; 7% instances), [ROOT]() (606; 4% instances), [PROPN]() (230; 1% instances), [ADV]() (144; 1% instances), [PRON]() (84; 1% instances), [NUM]() (63; 0% instances), [CONJ]() (56; 0% instances), [PUNCT]() (27; 0% instances), [ADP]() (21; 0% instances), [DET]() (4; 0% instances), [AUX]() (3; 0% instances), [X]() (3; 0% instances), [INTJ]() (1; 0% instances)
+Parents of `NOUN` nodes belong to 15 different parts of speech: [VERB]() (6060; 47% instances), [NOUN]() (4019; 31% instances), [ADJ]() (1181; 9% instances), [ROOT]() (784; 6% instances), [PROPN]() (291; 2% instances), [NUM]() (203; 2% instances), [ADV]() (137; 1% instances), [DET]() (104; 1% instances), [PRON]() (85; 1% instances), [CCONJ]() (66; 1% instances), [PUNCT]() (22; 0% instances), [ADP]() (19; 0% instances), [INTJ]() (12; 0% instances), [X]() (3; 0% instances), [AUX]() (2; 0% instances)
 
-6568 (42%) `NOUN` nodes are leaves.
+4945 (38%) `NOUN` nodes are leaves.
 
-5808 (37%) `NOUN` nodes have one child.
+4334 (33%) `NOUN` nodes have one child.
 
-2145 (14%) `NOUN` nodes have two children.
+2026 (16%) `NOUN` nodes have two children.
 
-1213 (8%) `NOUN` nodes have three or more children.
+1683 (13%) `NOUN` nodes have three or more children.
 
-The highest child degree of a `NOUN` node is 13.
+The highest child degree of a `NOUN` node is 10.
 
-Children of `NOUN` nodes are attached using 26 different relations: [tr-dep/nmod:poss]() (2923; 19% instances), [tr-dep/amod]() (1976; 13% instances), [tr-dep/det]() (1685; 11% instances), [tr-dep/nmod]() (1580; 11% instances), [tr-dep/conj]() (1154; 8% instances), [tr-dep/acl]() (1092; 7% instances), [tr-dep/case]() (1067; 7% instances), [tr-dep/punct]() (907; 6% instances), [tr-dep/nummod]() (554; 4% instances), [tr-dep/cc]() (403; 3% instances), [tr-dep/cop]() (360; 2% instances), [tr-dep/advmod:emph]() (331; 2% instances), [tr-dep/nsubj]() (322; 2% instances), [tr-dep/advmod]() (212; 1% instances), [tr-dep/mwe]() (102; 1% instances), [tr-dep/compound]() (82; 1% instances), [tr-dep/dobj]() (74; 0% instances), [tr-dep/aux:q]() (39; 0% instances), [tr-dep/discourse]() (36; 0% instances), [tr-dep/advcl]() (31; 0% instances), [tr-dep/appos]() (22; 0% instances), [tr-dep/ccomp]() (17; 0% instances), [tr-dep/csubj]() (17; 0% instances), [tr-dep/mark]() (11; 0% instances), [tr-dep/parataxis]() (3; 0% instances), [tr-dep/compound:lvc]() (2; 0% instances)
+Children of `NOUN` nodes are attached using 28 different relations: [tr-dep/nmod:poss]() (2116; 14% instances), [tr-dep/punct]() (1789; 12% instances), [tr-dep/nmod]() (1701; 11% instances), [tr-dep/amod]() (1571; 10% instances), [tr-dep/det]() (1376; 9% instances), [tr-dep/conj]() (959; 6% instances), [tr-dep/compound]() (941; 6% instances), [tr-dep/case]() (905; 6% instances), [tr-dep/acl]() (799; 5% instances), [tr-dep/nsubj]() (501; 3% instances), [tr-dep/compound:lvc]() (347; 2% instances), [tr-dep/nummod]() (329; 2% instances), [tr-dep/cc]() (321; 2% instances), [tr-dep/cop]() (285; 2% instances), [tr-dep/advmod:emph]() (277; 2% instances), [tr-dep/advmod]() (265; 2% instances), [tr-dep/obj]() (258; 2% instances), [tr-dep/flat]() (139; 1% instances), [tr-dep/compound:redup]() (49; 0% instances), [tr-dep/fixed]() (34; 0% instances), [tr-dep/discourse]() (32; 0% instances), [tr-dep/aux:q]() (28; 0% instances), [tr-dep/appos]() (20; 0% instances), [tr-dep/mark]() (13; 0% instances), [tr-dep/parataxis]() (2; 0% instances), [tr-dep/ccomp]() (1; 0% instances), [tr-dep/csubj]() (1; 0% instances), [tr-dep/obl]() (1; 0% instances)
 
-Children of `NOUN` nodes belong to 14 different parts of speech: [NOUN]() (4159; 28% instances), [ADJ]() (2409; 16% instances), [VERB]() (1765; 12% instances), [NUM]() (1446; 10% instances), [ADP]() (1071; 7% instances), [PUNCT]() (927; 6% instances), [DET]() (852; 6% instances), [CONJ]() (746; 5% instances), [PROPN]() (632; 4% instances), [PRON]() (362; 2% instances), [AUX]() (349; 2% instances), [ADV]() (271; 2% instances), [INTJ]() (8; 0% instances), [X]() (5; 0% instances)
+Children of `NOUN` nodes belong to 14 different parts of speech: [NOUN]() (4019; 27% instances), [VERB]() (2285; 15% instances), [ADJ]() (2045; 14% instances), [PUNCT]() (1810; 12% instances), [NUM]() (1089; 7% instances), [ADP]() (915; 6% instances), [CCONJ]() (663; 4% instances), [DET]() (630; 4% instances), [PROPN]() (565; 4% instances), [PRON]() (411; 3% instances), [ADV]() (320; 2% instances), [AUX]() (299; 2% instances), [INTJ]() (7; 0% instances), [X]() (2; 0% instances)
 

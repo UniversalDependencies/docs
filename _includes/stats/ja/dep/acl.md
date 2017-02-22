@@ -2,16 +2,111 @@
 
 --------------------------------------------------------------------------------
 
+## Treebank Statistics (UD_Japanese)
+
+This relation is universal.
+
+13863 nodes (8%) are attached to their parents as `acl`.
+
+13863 instances of `acl` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 6.35028493111159.
+
+The following 38 pairs of parts of speech are connected with `acl`: [ja-pos/VERB]()-[ja-pos/VERB]() (5528; 40% instances), [ja-pos/NOUN]()-[ja-pos/VERB]() (4141; 30% instances), [ja-pos/NOUN]()-[ja-pos/ADJ]() (1385; 10% instances), [ja-pos/VERB]()-[ja-pos/ADJ]() (1241; 9% instances), [ja-pos/ADJ]()-[ja-pos/VERB]() (542; 4% instances), [ja-pos/PROPN]()-[ja-pos/VERB]() (324; 2% instances), [ja-pos/ADJ]()-[ja-pos/ADJ]() (221; 2% instances), [ja-pos/NOUN]()-[ja-pos/NOUN]() (134; 1% instances), [ja-pos/NUM]()-[ja-pos/VERB]() (82; 1% instances), [ja-pos/PROPN]()-[ja-pos/NOUN]() (57; 0% instances), [ja-pos/PROPN]()-[ja-pos/ADJ]() (47; 0% instances), [ja-pos/VERB]()-[ja-pos/NUM]() (27; 0% instances), [ja-pos/PRON]()-[ja-pos/VERB]() (17; 0% instances), [ja-pos/ADV]()-[ja-pos/VERB]() (14; 0% instances), [ja-pos/VERB]()-[ja-pos/ADV]() (14; 0% instances), [ja-pos/NOUN]()-[ja-pos/PROPN]() (13; 0% instances), [ja-pos/NOUN]()-[ja-pos/NUM]() (12; 0% instances), [ja-pos/NUM]()-[ja-pos/ADJ]() (10; 0% instances), [ja-pos/PUNCT]()-[ja-pos/NOUN]() (6; 0% instances), [ja-pos/PRON]()-[ja-pos/ADJ]() (5; 0% instances), [ja-pos/ADJ]()-[ja-pos/ADV]() (4; 0% instances), [ja-pos/ADJ]()-[ja-pos/NUM]() (4; 0% instances), [ja-pos/ADV]()-[ja-pos/ADJ]() (4; 0% instances), [ja-pos/NUM]()-[ja-pos/NOUN]() (4; 0% instances), [ja-pos/NUM]()-[ja-pos/NUM]() (4; 0% instances), [ja-pos/CCONJ]()-[ja-pos/ADJ]() (3; 0% instances), [ja-pos/PRON]()-[ja-pos/NOUN]() (3; 0% instances), [ja-pos/PUNCT]()-[ja-pos/VERB]() (3; 0% instances), [ja-pos/ADP]()-[ja-pos/ADJ]() (2; 0% instances), [ja-pos/CCONJ]()-[ja-pos/VERB]() (2; 0% instances), [ja-pos/NOUN]()-[ja-pos/ADV]() (2; 0% instances), [ja-pos/PROPN]()-[ja-pos/PROPN]() (2; 0% instances), [ja-pos/ADJ]()-[ja-pos/AUX]() (1; 0% instances), [ja-pos/ADP]()-[ja-pos/VERB]() (1; 0% instances), [ja-pos/NOUN]()-[ja-pos/AUX]() (1; 0% instances), [ja-pos/NOUN]()-[ja-pos/PRON]() (1; 0% instances), [ja-pos/SYM]()-[ja-pos/NOUN]() (1; 0% instances), [ja-pos/SYM]()-[ja-pos/VERB]() (1; 0% instances).
+
+
+~~~ conllu
+# visual-style 11	bgColor:blue
+# visual-style 11	fgColor:white
+# visual-style 22	bgColor:blue
+# visual-style 22	fgColor:white
+# visual-style 22 11 acl	color:blue
+1	同僚	同僚	NOUN	_	_	2	compound	_	SpaceAfter=No
+2	教師	教師	NOUN	_	_	4	nmod	_	SpaceAfter=No
+3	の	の	ADP	_	_	2	case	_	SpaceAfter=No
+4	すみれ	すみれ	PROPN	_	_	6	nmod	_	SpaceAfter=No
+5	と	と	ADP	_	_	4	case	_	SpaceAfter=No
+6	彩	彩	PROPN	_	_	22	nsubj	_	SpaceAfter=No
+7	は	は	ADP	_	_	6	case	_	SpaceAfter=No
+8	そんな	そんな	ADJ	_	_	9	amod	_	SpaceAfter=No
+9	夕子	夕子	PROPN	_	_	11	obl	_	SpaceAfter=No
+10	と	と	ADP	_	_	9	case	_	SpaceAfter=No
+11	意気投合	意気投合	VERB	_	_	22	acl	_	SpaceAfter=No
+12	し	する	AUX	_	_	11	aux	_	SpaceAfter=No
+13	、	、	PUNCT	_	_	11	punct	_	SpaceAfter=No
+14	問題	問題	NOUN	_	_	16	obj	_	SpaceAfter=No
+15	を	を	ADP	_	_	14	case	_	SpaceAfter=No
+16	解決	解決	VERB	_	_	22	acl	_	SpaceAfter=No
+17	する	する	AUX	_	_	16	aux	_	SpaceAfter=No
+18	ため	ため	SCONJ	_	_	16	mark	_	SpaceAfter=No
+19	行動	行動	NOUN	_	_	22	obj	_	SpaceAfter=No
+20	を	を	ADP	_	_	19	case	_	SpaceAfter=No
+21	共に	共に	ADV	_	_	22	advmod	_	SpaceAfter=No
+22	する	する	VERB	_	_	0	root	_	SpaceAfter=No
+23	。	。	PUNCT	_	_	22	punct	_	SpaceAfter=No
+
+~~~
+
+
+~~~ conllu
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 3 acl	color:blue
+1	背中	背中	NOUN	_	_	3	iobj	_	SpaceAfter=No
+2	に	に	ADP	_	_	1	case	_	SpaceAfter=No
+3	背負っ	背負う	VERB	_	_	5	acl	_	SpaceAfter=No
+4	た	た	AUX	_	_	3	aux	_	SpaceAfter=No
+5	ブースター	ブースター	NOUN	_	_	7	obj	_	SpaceAfter=No
+6	を	を	ADP	_	_	5	case	_	SpaceAfter=No
+7	使っ	使う	VERB	_	_	12	acl	_	SpaceAfter=No
+8	て	て	SCONJ	_	_	7	mark	_	SpaceAfter=No
+9	空中	空中	NOUN	_	_	10	compound	_	SpaceAfter=No
+10	飛行	飛行	NOUN	_	_	12	obj	_	SpaceAfter=No
+11	を	を	ADP	_	_	10	case	_	SpaceAfter=No
+12	行う	行う	VERB	_	_	0	root	_	SpaceAfter=No
+13	。	。	PUNCT	_	_	12	punct	_	SpaceAfter=No
+
+~~~
+
+
+~~~ conllu
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 3 acl	color:blue
+1	姉	姉	NOUN	_	_	3	obl	_	SpaceAfter=No
+2	と	と	ADP	_	_	1	case	_	SpaceAfter=No
+3	同じ	同じ	ADJ	_	_	4	acl	_	SpaceAfter=No
+4	先生	先生	NOUN	_	_	10	obl	_	SpaceAfter=No
+5	だっ	だ	AUX	_	_	4	cop	_	SpaceAfter=No
+6	た	た	AUX	_	_	4	aux	_	SpaceAfter=No
+7	ので	ので	SCONJ	_	_	4	mark	_	SpaceAfter=No
+8	、	、	PUNCT	_	_	4	punct	_	SpaceAfter=No
+9	話	話	NOUN	_	_	10	obl	_	SpaceAfter=No
+10	やすかっ	やすい	ADJ	_	_	0	root	_	SpaceAfter=No
+11	た	た	AUX	_	_	10	aux	_	SpaceAfter=No
+12	です	だ	AUX	_	_	10	cop	_	SpaceAfter=No
+13	。	。	PUNCT	_	_	10	punct	_	SpaceAfter=No
+
+~~~
+
+
+
+
+--------------------------------------------------------------------------------
+
 ## Treebank Statistics (UD_Japanese-KTC)
 
 This relation is universal.
 
-8370 nodes (3%) are attached to their parents as `acl`.
+5910 nodes (3%) are attached to their parents as `acl`.
 
-8370 instances of `acl` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.98996415770609.
+5910 instances of `acl` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.97478849407783.
 
-The following 26 pairs of parts of speech are connected with `acl`: [ja-pos/NOUN]()-[ja-pos/VERB]() (6816; 81% instances), [ja-pos/NOUN]()-[ja-pos/NOUN]() (643; 8% instances), [ja-pos/NOUN]()-[ja-pos/ADJ]() (630; 8% instances), [ja-pos/PROPN]()-[ja-pos/VERB]() (161; 2% instances), [ja-pos/PROPN]()-[ja-pos/NOUN]() (20; 0% instances), [ja-pos/NOUN]()-[ja-pos/DET]() (19; 0% instances), [ja-pos/VERB]()-[ja-pos/VERB]() (14; 0% instances), [ja-pos/NOUN]()-[ja-pos/ADV]() (12; 0% instances), [ja-pos/NOUN]()-[ja-pos/PROPN]() (11; 0% instances), [ja-pos/PRON]()-[ja-pos/VERB]() (8; 0% instances), [ja-pos/PROPN]()-[ja-pos/ADJ]() (7; 0% instances), [ja-pos/CONJ]()-[ja-pos/VERB]() (6; 0% instances), [ja-pos/NUM]()-[ja-pos/VERB]() (5; 0% instances), [ja-pos/CONJ]()-[ja-pos/NOUN]() (4; 0% instances), [ja-pos/VERB]()-[ja-pos/NOUN]() (3; 0% instances), [ja-pos/ADJ]()-[ja-pos/VERB]() (1; 0% instances), [ja-pos/CONJ]()-[ja-pos/ADJ]() (1; 0% instances), [ja-pos/NOUN]()-[ja-pos/CONJ]() (1; 0% instances), [ja-pos/NOUN]()-[ja-pos/NUM]() (1; 0% instances), [ja-pos/NOUN]()-[ja-pos/PART]() (1; 0% instances), [ja-pos/NOUN]()-[ja-pos/PRON]() (1; 0% instances), [ja-pos/PRON]()-[ja-pos/ADJ]() (1; 0% instances), [ja-pos/PRON]()-[ja-pos/NOUN]() (1; 0% instances), [ja-pos/PROPN]()-[ja-pos/CONJ]() (1; 0% instances), [ja-pos/PROPN]()-[ja-pos/PROPN]() (1; 0% instances), [ja-pos/VERB]()-[ja-pos/DET]() (1; 0% instances).
+The following 23 pairs of parts of speech are connected with `acl`: [ja-pos/NOUN]()-[ja-pos/VERB]() (4834; 82% instances), [ja-pos/NOUN]()-[ja-pos/NOUN]() (450; 8% instances), [ja-pos/NOUN]()-[ja-pos/ADJ]() (408; 7% instances), [ja-pos/PROPN]()-[ja-pos/VERB]() (129; 2% instances), [ja-pos/NOUN]()-[ja-pos/DET]() (15; 0% instances), [ja-pos/PROPN]()-[ja-pos/NOUN]() (14; 0% instances), [ja-pos/NOUN]()-[ja-pos/ADV]() (10; 0% instances), [ja-pos/VERB]()-[ja-pos/VERB]() (9; 0% instances), [ja-pos/NOUN]()-[ja-pos/PROPN]() (8; 0% instances), [ja-pos/PRON]()-[ja-pos/VERB]() (7; 0% instances), [ja-pos/PROPN]()-[ja-pos/ADJ]() (6; 0% instances), [ja-pos/NUM]()-[ja-pos/VERB]() (5; 0% instances), [ja-pos/CONJ]()-[ja-pos/VERB]() (4; 0% instances), [ja-pos/CONJ]()-[ja-pos/NOUN]() (2; 0% instances), [ja-pos/ADJ]()-[ja-pos/VERB]() (1; 0% instances), [ja-pos/NOUN]()-[ja-pos/CONJ]() (1; 0% instances), [ja-pos/NOUN]()-[ja-pos/NUM]() (1; 0% instances), [ja-pos/NOUN]()-[ja-pos/PRON]() (1; 0% instances), [ja-pos/PRON]()-[ja-pos/ADJ]() (1; 0% instances), [ja-pos/PRON]()-[ja-pos/NOUN]() (1; 0% instances), [ja-pos/PROPN]()-[ja-pos/PROPN]() (1; 0% instances), [ja-pos/VERB]()-[ja-pos/DET]() (1; 0% instances), [ja-pos/VERB]()-[ja-pos/NOUN]() (1; 0% instances).
 
 
 ~~~ conllu

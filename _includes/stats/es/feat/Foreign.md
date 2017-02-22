@@ -5,7 +5,7 @@
 ## Treebank Statistics (UD_Spanish)
 
 This feature is language-specific.
-It occurs with 2 different values: `Foreign`, `Fscript`.
+It occurs with 1 different values: `Yes`.
 
 69 tokens (0%) have a non-empty value of `Foreign`.
 67 types (0%) occur at least once with a non-empty value of `Foreign`.
@@ -20,8 +20,7 @@ The most frequent other feature values with which `X` and `Foreign` co-occurred:
 
 `X` tokens may have the following values of `Foreign`:
 
-* `Foreign` (1; 2% of non-empty `Foreign`): <em>secondez</em>
-* `Fscript` (51; 98% of non-empty `Foreign`): <em>天下第一, TΔS, ː, Γρηγορᾶς, Μουσείο, Φιλοκαλια, β, ε, ε2, καλóς</em>
+* `Yes` (52; 100% of non-empty `Foreign`): <em>天下第一, TΔS, ː, Γρηγορᾶς, Μουσείο, Φιλοκαλια, β, ε, ε2, καλóς</em>
 
 `Foreign` seems to be **lexical feature** of `X`. 100% lemmas (50) occur only with one value of `Foreign`.
 
@@ -33,7 +32,7 @@ The most frequent other feature values with which `PROPN` and `Foreign` co-occur
 
 `PROPN` tokens may have the following values of `Foreign`:
 
-* `Fscript` (17; 100% of non-empty `Foreign`): <em>Γαρμπή, ΖΒΖ, Καίτη, Φόρος, αφέλια, π, τ, τοῦ, φ, χ</em>
+* `Yes` (17; 100% of non-empty `Foreign`): <em>Γαρμπή, ΖΒΖ, Καίτη, Φόρος, αφέλια, π, τ, τοῦ, φ, χ</em>
 
 `Foreign` seems to be **lexical feature** of `PROPN`. 100% lemmas (17) occur only with one value of `Foreign`.
 
@@ -41,7 +40,7 @@ The most frequent other feature values with which `PROPN` and `Foreign` co-occur
 
 The 10 most frequent relations where parent and child node agree in `Foreign`:
 <tt>X --[<a href="../dep/compound.html">compound</a>]--> X</tt> (15; 100%),
-<tt>PROPN --[<a href="../dep/name.html">name</a>]--> PROPN</tt> (5; 100%),
+<tt>PROPN --[<a href="../dep/flat.html">flat</a>]--> PROPN</tt> (5; 100%),
 <tt>X --[<a href="../dep/conj.html">conj</a>]--> X</tt> (3; 100%),
 <tt>X --[<a href="../dep/dep.html">dep</a>]--> X</tt> (2; 100%),
 <tt>X --[<a href="../dep/nmod.html">nmod</a>]--> X</tt> (1; 100%).

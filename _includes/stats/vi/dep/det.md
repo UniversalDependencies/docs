@@ -6,72 +6,72 @@
 
 This relation is universal.
 
-1573 nodes (4%) are attached to their parents as `det`.
+1124 nodes (4%) are attached to their parents as `det`.
 
-821 instances of `det` (52%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.26891290527654.
+566 instances of `det` (50%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.27135231316726.
 
-The following 12 pairs of parts of speech are connected with `det`: [vi-pos/NOUN]()-[vi-pos/PROPN]() (759; 48% instances), [vi-pos/NOUN]()-[vi-pos/DET]() (673; 43% instances), [vi-pos/VERB]()-[vi-pos/PROPN]() (71; 5% instances), [vi-pos/PROPN]()-[vi-pos/PROPN]() (22; 1% instances), [vi-pos/ADJ]()-[vi-pos/PROPN]() (19; 1% instances), [vi-pos/PROPN]()-[vi-pos/DET]() (9; 1% instances), [vi-pos/NUM]()-[vi-pos/PROPN]() (8; 1% instances), [vi-pos/CONJ]()-[vi-pos/PROPN]() (3; 0% instances), [vi-pos/VERB]()-[vi-pos/DET]() (3; 0% instances), [vi-pos/X]()-[vi-pos/PROPN]() (3; 0% instances), [vi-pos/ADJ]()-[vi-pos/DET]() (2; 0% instances), [vi-pos/ADP]()-[vi-pos/PROPN]() (1; 0% instances).
+The following 12 pairs of parts of speech are connected with `det`: [vi-pos/NOUN]()-[vi-pos/PROPN]() (569; 51% instances), [vi-pos/NOUN]()-[vi-pos/DET]() (445; 40% instances), [vi-pos/VERB]()-[vi-pos/PROPN]() (52; 5% instances), [vi-pos/PROPN]()-[vi-pos/PROPN]() (18; 2% instances), [vi-pos/ADJ]()-[vi-pos/PROPN]() (15; 1% instances), [vi-pos/PROPN]()-[vi-pos/DET]() (8; 1% instances), [vi-pos/NUM]()-[vi-pos/PROPN]() (7; 1% instances), [vi-pos/CCONJ]()-[vi-pos/PROPN]() (3; 0% instances), [vi-pos/VERB]()-[vi-pos/DET]() (3; 0% instances), [vi-pos/X]()-[vi-pos/PROPN]() (2; 0% instances), [vi-pos/ADJ]()-[vi-pos/DET]() (1; 0% instances), [vi-pos/ADP]()-[vi-pos/PROPN]() (1; 0% instances).
 
 
 ~~~ conllu
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 1 det	color:blue
-1	Cả	Cả	PROPN	P	_	2	det	_	_
-2	vườn	vườn	NOUN	N	_	4	nsubj	_	_
-3	thú	thú	NOUN	N	_	2	compound	_	_
-4	buồn	buồn	VERB	V	_	0	root	_	_
-5	thương	thương	VERB	V	_	4	xcomp	_	_
-6	.	.	PUNCT	.	_	4	punct	_	_
+# visual-style 1 2 det	color:blue
+1	cha	cha	NOUN	N	_	6	nsubj	_	_
+2	tôi	tôi	PROPN	P	_	1	det	_	_
+3	bị	bị	VERB	V	_	6	aux:pass	_	_
+4	phát xít	phát xít	NOUN	N	_	6	nsubj	_	_
+5	Đức	Đức	NOUN	Np	_	4	compound	_	_
+6	bắt	bắt	VERB	V	_	0	root	_	_
+7	giam	giam	VERB	V	_	6	xcomp	_	_
+8	bên	bên	NOUN	N	_	6	obj	_	_
+9	Áo	Áo	NOUN	Np	_	8	compound	_	SpaceAfter=No
+10	.	.	PUNCT	.	_	6	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 6 det	color:blue
-1	chú	chú	NOUN	Nc	_	2	compound	_	_
-2	hổ	hổ	NOUN	N	_	14	nsubj	_	_
-3	do	do	ADP	E	_	5	case	_	_
-4	chính	chính	PART	T	_	5	discourse	_	_
-5	bàn_tay	bàn_tay	NOUN	N	_	2	nmod	_	_
-6	các	các	DET	L	_	5	det	_	_
-7	"	"	PUNCT	"	_	5	punct	_	_
-8	bà_đỡ	bà_đỡ	NOUN	N	_	5	compound	_	_
-9	"	"	PUNCT	"	_	5	punct	_	_
-10	vườn	vườn	NOUN	N	_	5	compound	_	_
-11	thú	thú	NOUN	N	_	10	compound	_	_
-12	Hà_Nội	Hà_Nội	NOUN	Np	_	10	compound	_	_
-13	đã	đã	X	R	_	14	advmod	_	_
-14	ra_đời	ra_đời	VERB	V	_	0	root	_	_
-15	.	.	PUNCT	.	_	14	punct	_	_
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 9 8 det	color:blue
+1	Ông	Ông	NOUN	N	_	3	nsubj	_	_
+2	đã	đã	X	R	_	3	advmod	_	_
+3	trở thành	trở thành	VERB	V	_	0	root	_	_
+4	người	người	NOUN	N	_	3	obj	_	_
+5	bạn	bạn	NOUN	N	_	4	compound	_	_
+6	thân thiết	thân thiết	ADJ	A	_	4	amod	_	_
+7	với	với	ADP	E	_	9	case	_	_
+8	toàn thể	toàn thể	DET	L	_	9	det	_	_
+9	nhân dân	nhân dân	NOUN	N	_	4	nmod	_	_
+10	VN	VN	NOUN	Ny	_	9	compound	_	SpaceAfter=No
+11	.	.	PUNCT	.	_	3	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 2 det	color:blue
-1	"	"	PUNCT	"	_	5	punct	_	_
-2	Vậy	Vậy	PROPN	P	_	5	det	_	_
-3	bà	bà	NOUN	N	_	5	nsubj	_	_
-4	còn	còn	X	R	_	5	advmod	_	_
-5	đến	đến	VERB	V	_	0	root	_	_
-6	tòa	tòa	NOUN	N	_	5	dobj	_	_
-7	làm	làm	VERB	V	_	5	ccomp	_	_
-8	gì	gì	PROPN	P	_	7	dobj	_	_
-9	?	?	PUNCT	?	_	5	punct	_	_
-10	"	"	PUNCT	"	_	5	punct	_	_
-11	.	.	PUNCT	.	_	5	punct	_	_
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 9 10 det	color:blue
+1	máy	máy	NOUN	N	_	9	nsubj	_	_
+2	gom	gom	VERB	V	_	1	xcomp	_	_
+3	lúa	lúa	NOUN	N	_	2	obj	_	_
+4	của	của	ADP	E	_	6	case	_	_
+5	anh	anh	NOUN	Nc	_	6	compound	_	_
+6	Tư	Tư	NOUN	Np	_	1	nmod	_	_
+7	ban đầu	ban đầu	NOUN	N	_	9	obl	_	_
+8	chỉ	chỉ	X	R	_	9	advmod	_	_
+9	có	có	VERB	V	_	0	root	_	_
+10	vậy	vậy	PROPN	P	_	9	det	_	SpaceAfter=No
+11	.	.	PUNCT	.	_	9	punct	_	_
 
 ~~~
 

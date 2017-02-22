@@ -6,12 +6,12 @@
 
 This relation is universal.
 
-21 nodes (3%) are attached to their parents as `dep`.
+18 nodes (5%) are attached to their parents as `dep`.
 
-20 instances of `dep` (95%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.71428571428571.
+17 instances of `dep` (94%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.11111111111111.
 
-The following 6 pairs of parts of speech are connected with `dep`: [sv-pos/VERB]()-[sv-pos/VERB]() (13; 62% instances), [sv-pos/VERB]()-[sv-pos/X]() (4; 19% instances), [sv-pos/NOUN]()-[sv-pos/NOUN]() (1; 5% instances), [sv-pos/VERB]()-[sv-pos/CONJ]() (1; 5% instances), [sv-pos/VERB]()-[sv-pos/INTJ]() (1; 5% instances), [sv-pos/X]()-[sv-pos/X]() (1; 5% instances).
+The following 4 pairs of parts of speech are connected with `dep`: [sv-pos/VERB]()-[sv-pos/VERB]() (13; 72% instances), [sv-pos/VERB]()-[sv-pos/X]() (3; 17% instances), [sv-pos/NOUN]()-[sv-pos/NOUN]() (1; 6% instances), [sv-pos/X]()-[sv-pos/X]() (1; 6% instances).
 
 
 ~~~ conllu
@@ -44,22 +44,22 @@ The following 6 pairs of parts of speech are connected with `dep`: [sv-pos/VERB]
 
 
 ~~~ conllu
-# visual-style 11	bgColor:blue
-# visual-style 11	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 11 dep	color:blue
-1	PEK	_	PRON	PEK	_	2	nsubj	_	_
-2	LUKTA	_	VERB	VB	_	0	root	_	_
-3	PEK	_	PRON	PEK	_	2	nmod	_	_
-4	BI	_	NOUN	NN	_	5	nsubj	_	_
-5	ENTITET(YYb)+RÖRELSE@p	_	VERB	VBAV	_	2	advcl	_	_
-6	IRRITERAD@rd	_	VERB	VB	_	4	acl	_	_
-7	ENTITET(YYb)+RÖRELSE@p	_	VERB	VBAV	_	5	conj	_	_
-8	VILL	_	VERB	VB	_	9	aux	_	_
-9	TA-BORT	_	VERB	VB	_	5	conj	_	_
-10	HUND	_	NOUN	NN	_	9	dobj	_	_
-11	SOM(S)	_	CONJ	KN	_	6	dep	_	_
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 3 dep	color:blue
+1	GÅ(N)	_	X	?	_	0	root	_	_
+2	TITTA-FRAM	_	X	?	_	1	conj	_	_
+3	TITTA-FRAM@hd	_	X	?	_	2	dep	_	_
+4	FO	_	VERB	VB	_	1	conj	_	_
+5	PEK	_	DET	PEK	_	6	det	_	_
+6	GRODA	_	NOUN	NN	_	7	nsubj	_	_
+7	ENTITET(GG)+@p	_	VERB	VBAV	_	1	advcl	_	_
+8	ENTITET(G)@p@hd	_	VERB	VBAV	_	7	dep	_	_
+9	ANNAN(ea)	_	PRON	PN	_	10	nmod	_	_
+10	GRODA	_	NOUN	NN	_	7	nmod	_	_
+11	ENTITET(GG)+@p	_	VERB	VBAV	_	7	conj	_	_
 
 ~~~
 

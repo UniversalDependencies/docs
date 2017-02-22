@@ -11,7 +11,7 @@ The 10 most frequent `VERB` lemmas: कृ, अस्, गम्, ब्रू, 
 
 The 10 most frequent `VERB` types:  अब्रवीत्, अस्ति, आह, गत्वा, भवति, श्रुत्वा, आरब्धम्, उच्यते, करिष्यामि, करोमि
 
-The 10 most frequent ambiguous lemmas: अस् ([VERB]() 14, [AUX]() 1), भू ([VERB]() 9, [NOUN]() 1, [X]() 1), अह् ([VERB]() 7, [X]() 1), वच् ([VERB]() 6, [NOUN]() 1), उक्त ([VERB]() 2, [NOUN]() 1), कथ् ([VERB]() 2, [PRON]() 1), अभिहित ([VERB]() 1, [NOUN]() 1), कर्तव्य ([VERB]() 1, [NOUN]() 1), जिव् ([NOUN]() 2, [VERB]() 1), वद् ([X]() 1, [VERB]() 1)
+The 10 most frequent ambiguous lemmas: अस् ([VERB]() 14, [AUX]() 1), भू ([VERB]() 9, [NOUN]() 1, [X]() 1), अह् ([VERB]() 7, [X]() 1), वच् ([VERB]() 6, [NOUN]() 1), उक्त ([VERB]() 2, [NOUN]() 1), कथ् ([VERB]() 2, [PRON]() 1), अभिहित ([NOUN]() 1, [VERB]() 1), कर्तव्य ([VERB]() 1, [NOUN]() 1), जिव् ([NOUN]() 2, [VERB]() 1), वद् ([X]() 1, [VERB]() 1)
 
 The 10 most frequent ambiguous types:  अस्ति ([VERB]() 9, [AUX]() 1), आह ([VERB]() 8, [X]() 1), भवति ([VERB]() 4, [X]() 1), उवाच ([NOUN]() 1, [VERB]() 1)
 
@@ -56,15 +56,15 @@ Parents of `VERB` nodes belong to 5 different parts of speech: [ROOT]() (163; 68
 
 7 (3%) `VERB` nodes are leaves.
 
-49 (21%) `VERB` nodes have one child.
+50 (21%) `VERB` nodes have one child.
 
-78 (33%) `VERB` nodes have two children.
+77 (32%) `VERB` nodes have two children.
 
 105 (44%) `VERB` nodes have three or more children.
 
 The highest child degree of a `VERB` node is 6.
 
-Children of `VERB` nodes are attached using 19 different relations: [sa-dep/nsubj]() (154; 27% instances), [sa-dep/nmod]() (122; 21% instances), [sa-dep/dobj]() (100; 17% instances), [sa-dep/advmod]() (97; 17% instances), [sa-dep/advcl]() (56; 10% instances), [sa-dep/neg]() (10; 2% instances), [sa-dep/vocative]() (8; 1% instances), [sa-dep/conj]() (7; 1% instances), [sa-dep/mark]() (3; 1% instances), [sa-dep/nsubjpass]() (3; 1% instances), [sa-dep/xcomp]() (3; 1% instances), [sa-dep/expl]() (2; 0% instances), [sa-dep/amod]() (1; 0% instances), [sa-dep/cc]() (1; 0% instances), [sa-dep/ccomp]() (1; 0% instances), [sa-dep/compound]() (1; 0% instances), [sa-dep/cop]() (1; 0% instances), [sa-dep/iobj]() (1; 0% instances), [sa-dep/nummod]() (1; 0% instances)
+Children of `VERB` nodes are attached using 18 different relations: [sa-dep/nsubj]() (154; 27% instances), [sa-dep/obl]() (122; 21% instances), [sa-dep/advmod]() (107; 19% instances), [sa-dep/obj]() (100; 17% instances), [sa-dep/advcl]() (56; 10% instances), [sa-dep/vocative]() (8; 1% instances), [sa-dep/conj]() (7; 1% instances), [sa-dep/mark]() (3; 1% instances), [sa-dep/nsubj:pass]() (3; 1% instances), [sa-dep/xcomp]() (3; 1% instances), [sa-dep/expl]() (2; 0% instances), [sa-dep/amod]() (1; 0% instances), [sa-dep/cc]() (1; 0% instances), [sa-dep/ccomp]() (1; 0% instances), [sa-dep/compound]() (1; 0% instances), [sa-dep/cop]() (1; 0% instances), [sa-dep/iobj]() (1; 0% instances), [sa-dep/nummod]() (1; 0% instances)
 
-Children of `VERB` nodes belong to 12 different parts of speech: [NOUN]() (267; 47% instances), [ADV]() (99; 17% instances), [PRON]() (86; 15% instances), [VERB]() (65; 11% instances), [PROPN]() (20; 3% instances), [DET]() (12; 2% instances), [PART]() (9; 2% instances), [X]() (8; 1% instances), [ADP]() (3; 1% instances), [ADJ]() (1; 0% instances), [CONJ]() (1; 0% instances), [NUM]() (1; 0% instances)
+Children of `VERB` nodes belong to 12 different parts of speech: [NOUN]() (267; 47% instances), [ADV]() (99; 17% instances), [PRON]() (86; 15% instances), [VERB]() (65; 11% instances), [PROPN]() (20; 3% instances), [DET]() (12; 2% instances), [PART]() (9; 2% instances), [X]() (8; 1% instances), [ADP]() (3; 1% instances), [ADJ]() (1; 0% instances), [CCONJ]() (1; 0% instances), [NUM]() (1; 0% instances)
 

@@ -5,28 +5,30 @@
 ## Treebank Statistics (UD_Ukrainian)
 
 This relation is universal.
-There are 1 language-specific subtypes of `det`: [det:numgov]().
+There are 2 language-specific subtypes of `det`: [det:numgov](), [det:nummod]().
 
-25 nodes (1%) are attached to their parents as `det`.
+375 nodes (3%) are attached to their parents as `det`.
 
-24 instances of `det` (96%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.12.
+361 instances of `det` (96%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.38666666666667.
 
-The following 4 pairs of parts of speech are connected with `det`: [uk-pos/NOUN]()-[uk-pos/DET]() (19; 76% instances), [uk-pos/ADJ]()-[uk-pos/DET]() (3; 12% instances), [uk-pos/PROPN]()-[uk-pos/DET]() (2; 8% instances), [uk-pos/NOUN]()-[uk-pos/NUM]() (1; 4% instances).
+The following 7 pairs of parts of speech are connected with `det`: [uk-pos/NOUN]()-[uk-pos/DET]() (352; 94% instances), [uk-pos/PRON]()-[uk-pos/DET]() (14; 4% instances), [uk-pos/VERB]()-[uk-pos/DET]() (3; 1% instances), [uk-pos/DET]()-[uk-pos/DET]() (2; 1% instances), [uk-pos/PROPN]()-[uk-pos/DET]() (2; 1% instances), [uk-pos/ADJ]()-[uk-pos/DET]() (1; 0% instances), [uk-pos/ADV]()-[uk-pos/DET]() (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
-# visual-style 5 4 det	color:blue
-1	Маріє	Марія	PROPN	noun:anim:f:v_kly:prop:fname	Animacy=Anim|Case=Voc|Gender=Fem	5	vocative	_	SpaceAfter=No
-2	,	,	PUNCT	punct	_	1	punct	_	_
-3	як	як	ADV	adv:&pron:int	PronType=Int	5	advmod	_	_
-4	Ваші	ваш	DET	adj:p:v_naz:poss:&pron:pers:2	Case=Nom|Number=Plur|Person=2|Poss=Yes|PronType=Prs	5	det	_	_
-5	справи	справа	NOUN	noun:inanim:p:f:v_naz	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	0	root	_	SpaceAfter=No
-6	?	?	PUNCT	punct	_	5	punct	_	_
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 5 det	color:blue
+1	Омонівці	омонівець	NOUN	Ncmpny	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	4	nsubj	_	_
+2	з	з	ADP	Spsg	Case=Gen	3	case	_	_
+3	Одеси	Одеса	PROPN	Npfsgn	Animacy=Inan|Case=Gen|Gender=Fem	1	nmod	_	_
+4	патрулювали	патрулювати	VERB	Vmpis-p	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin	0	root	_	_
+5	всі	весь	DET	Pg---npaa	Animacy=Inan|Case=Acc|Number=Plur|PronType=Tot	7	det	_	_
+6	центральні	центральний	ADJ	Ao--pasn	Animacy=Inan|Case=Acc|Number=Plur	7	amod	_	_
+7	вулиці	вулиця	NOUN	Ncfpan	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	4	obj	_	SpaceAfter=No
+8	.	.	PUNCT	U	_	4	punct	_	_
 
 ~~~
 
@@ -34,38 +36,47 @@ The following 4 pairs of parts of speech are connected with `det`: [uk-pos/NOUN]
 ~~~ conllu
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 1 det	color:blue
-1	Його	його	DET	adj:f:v_naz:poss:nv:&pron:pers:3	Case=Nom|Gender=Fem|Person=3|Poss=Yes|PronType=Prs	2	det	_	_
-2	мила	милий	ADJ	adj:f:v_naz:compb	Case=Nom|Degree=Pos|Gender=Fem	3	nsubj	_	_
-3	вдома	вдома	ADV	adv:v-u	_	0	root	_	SpaceAfter=No
-4	.	.	PUNCT	punct	_	3	punct	_	_
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 1 det	color:blue
+1	Один	один	DET	Pi--m-sna	Case=Nom|Gender=Masc|PronType=Ind	3	det	_	_
+2	з	з	ADP	Spsg	Case=Gen	3	case	_	_
+3	нас	ми	PRON	Pp-1-ypgn	Animacy=Anim|Case=Gen|Number=Plur|Person=1|PronType=Prs	5	nsubj	_	_
+4	навіть	навіть	PART	Q	_	5	discourse	_	_
+5	вліпив	вліпити	VERB	Vmeis-sm	Aspect=Perf|Gender=Masc|Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+6	знимку	знимка	NOUN	Ncfsan	Animacy=Inan|Case=Acc|Gender=Fem|Style=Odd	5	obj	_	_
+7	Марлі	Марлі	PROPN	Npmsgy	Animacy=Anim|Case=Gen|Gender=Masc|NameType=Sur	6	nmod	_	_
+8	у	у	ADP	Spsa	Case=Acc	10	case	_	_
+9	свій	свій	DET	Ppp-mnsaa	Animacy=Inan|Case=Acc|Gender=Masc|Poss=Yes|PronType=Prs|Reflex=Yes	10	det	_	_
+10	паспорт	паспорт	NOUN	Ncmsan	Animacy=Inan|Case=Acc|Gender=Masc	5	obl	_	SpaceAfter=No
+11	.	.	PUNCT	U	_	5	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
-# visual-style 5 4 det	color:blue
-1	С’юзі	С’юзі	PROPN	noun:anim:f:v_kly:prop:fname	Animacy=Anim|Case=Voc|Gender=Fem	8	vocative	_	SpaceAfter=No
-2	,	,	PUNCT	punct	_	1	punct	_	_
-3	мила	милий	ADJ	adj:f:v_kly:compb	Case=Voc|Degree=Pos|Gender=Fem	5	amod	_	_
-4	моя	мій	DET	adj:f:v_kly:poss:&pron:pers:1	Case=Voc|Gender=Fem|Person=1|Poss=Yes|PronType=Prs	5	det	_	_
-5	С’юзі	С’юзі	PROPN	noun:anim:f:v_kly:prop:fname	Animacy=Anim|Case=Voc|Gender=Fem	1	appos	_	SpaceAfter=No
-6	,	,	PUNCT	punct	_	5	punct	_	_
-7	не	не	PART	part	_	8	neg	_	_
-8	втікай	втікати	VERB	verb:imperf:impr:s:2:v-u	Aspect=Imp|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
-9	від	від	ADP	prep:rv_rod	Case=Gen	10	case	_	_
-10	мене	я	PRON	noun:anim:s:v_rod:&pron:pers:1	Animacy=Anim|Case=Gen|Number=Sing|Person=1|PronType=Prs	8	nmod	_	_
-11	в	в	ADP	prep:rv_zna:v-u	Case=Acc	12	case	_	_
-12	світ	світ	NOUN	noun:inanim:m:v_zna	Animacy=Inan|Case=Acc|Gender=Masc	8	nmod	_	_
-13	своїх	свій	DET	adj:p:v_rod:poss:&pron:refl	Case=Gen|Number=Plur|Poss=Yes|PronType=Prs|Reflex=Yes	14	det	_	_
-14	ілюзій	ілюзія	NOUN	noun:inanim:p:f:v_rod	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	12	nmod	_	SpaceAfter=No
-15	.	.	PUNCT	punct	_	8	punct	_	_
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 5 det	color:blue
+1	Сніги	сніг	NOUN	Ncmpnn	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	2	nsubj	_	_
+2	були	бути	VERB	Vapis-p	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin	0	root	_	_
+3	тими	той	DET	Pd----pia	Case=Ins|Number=Plur|PronType=Dem	4	det	_	_
+4	роками	рік	NOUN	Ncmpin	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	2	obl	_	_
+5	такі	такий	DET	Pd----pna	Case=Nom|Number=Plur|PronType=Dem	2	det	_	SpaceAfter=No
+6	,	,	PUNCT	U	_	8	punct	_	_
+7	що	що	SCONJ	Css	_	8	mark	_	_
+8	доводилося	доводитися	VERB	Vmpis-sn	Aspect=Imp|Gender=Neut|Mood=Ind|Tense=Past|VerbForm=Fin	5	acl	_	_
+9	лопату	лопата	NOUN	Ncfsan	Animacy=Inan|Case=Acc|Gender=Fem	12	obj	_	_
+10	до	до	ADP	Spsg	Case=Gen	11	case	_	_
+11	снігу	сніг	NOUN	Ncmsgn	Animacy=Inan|Case=Gen|Gender=Masc	9	nmod	_	_
+12	брати	брати	VERB	Vmpn	Aspect=Imp|VerbForm=Inf	8	xcomp	_	_
+13	на	на	ADP	Spsa	Case=Acc	14	case	_	_
+14	ніч	ніч	NOUN	Ncfsan	Animacy=Inan|Case=Acc|Gender=Fem	12	obl	_	_
+15	до	до	ADP	Spsg	Case=Gen	16	case	_	_
+16	хати	хата	NOUN	Ncfsgn	Animacy=Inan|Case=Gen|Gender=Fem	12	obl	_	SpaceAfter=No
+17	.	.	PUNCT	U	_	2	punct	_	_
 
 ~~~
 

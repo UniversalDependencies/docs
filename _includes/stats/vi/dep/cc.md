@@ -6,83 +6,79 @@
 
 This relation is universal.
 
-1662 nodes (4%) are attached to their parents as `cc`.
+1224 nodes (4%) are attached to their parents as `cc`.
 
-1042 instances of `cc` (63%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.70758122743682.
+932 instances of `cc` (76%) are right-to-left (child precedes parent).
+Average distance between parent and child is 3.02124183006536.
 
-The following 14 pairs of parts of speech are connected with `cc`: [vi-pos/VERB]()-[vi-pos/CONJ]() (859; 52% instances), [vi-pos/VERB]()-[vi-pos/SCONJ]() (263; 16% instances), [vi-pos/NOUN]()-[vi-pos/SCONJ]() (175; 11% instances), [vi-pos/NOUN]()-[vi-pos/CONJ]() (160; 10% instances), [vi-pos/ADJ]()-[vi-pos/CONJ]() (137; 8% instances), [vi-pos/ADJ]()-[vi-pos/SCONJ]() (42; 3% instances), [vi-pos/PROPN]()-[vi-pos/CONJ]() (10; 1% instances), [vi-pos/PUNCT]()-[vi-pos/CONJ]() (4; 0% instances), [vi-pos/X]()-[vi-pos/CONJ]() (4; 0% instances), [vi-pos/PROPN]()-[vi-pos/SCONJ]() (3; 0% instances), [vi-pos/ADP]()-[vi-pos/SCONJ]() (2; 0% instances), [vi-pos/ADP]()-[vi-pos/CONJ]() (1; 0% instances), [vi-pos/CONJ]()-[vi-pos/CONJ]() (1; 0% instances), [vi-pos/NUM]()-[vi-pos/CONJ]() (1; 0% instances).
+The following 15 pairs of parts of speech are connected with `cc`: [vi-pos/VERB]()-[vi-pos/CCONJ]() (638; 52% instances), [vi-pos/VERB]()-[vi-pos/SCONJ]() (224; 18% instances), [vi-pos/NOUN]()-[vi-pos/SCONJ]() (112; 9% instances), [vi-pos/NOUN]()-[vi-pos/CCONJ]() (108; 9% instances), [vi-pos/ADJ]()-[vi-pos/CCONJ]() (96; 8% instances), [vi-pos/ADJ]()-[vi-pos/SCONJ]() (32; 3% instances), [vi-pos/PROPN]()-[vi-pos/CCONJ]() (4; 0% instances), [vi-pos/PUNCT]()-[vi-pos/CCONJ]() (2; 0% instances), [vi-pos/X]()-[vi-pos/CCONJ]() (2; 0% instances), [vi-pos/ADP]()-[vi-pos/CCONJ]() (1; 0% instances), [vi-pos/ADP]()-[vi-pos/SCONJ]() (1; 0% instances), [vi-pos/CCONJ]()-[vi-pos/CCONJ]() (1; 0% instances), [vi-pos/NUM]()-[vi-pos/CCONJ]() (1; 0% instances), [vi-pos/PROPN]()-[vi-pos/SCONJ]() (1; 0% instances), [vi-pos/X]()-[vi-pos/SCONJ]() (1; 0% instances).
 
 
 ~~~ conllu
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 1 cc	color:blue
+1	Và	Và	CCONJ	C	_	4	cc	_	_
+2	tôi	tôi	PROPN	P	_	4	nsubj	_	_
+3	được	được	VERB	V	_	4	aux:pass	_	_
+4	cử	cử	VERB	V	_	0	root	_	_
+5	sang	sang	VERB	V	_	4	xcomp	_	_
+6	VN	VN	NOUN	Np	_	4	obj	_	_
+7	để	để	ADP	E	_	8	case	_	_
+8	giúp	giúp	VERB	V	_	4	mark	_	_
+9	người	người	NOUN	N	_	8	obj	_	_
+10	VN	VN	NOUN	Ny	_	9	compound	_	_
+11	chống	chống	VERB	V	_	8	iobj	_	_
+12	phát xít	phát xít	NOUN	N	_	11	obj	_	_
+13	Nhật	Nhật	NOUN	Np	_	12	compound	_	SpaceAfter=No
+14	.	.	PUNCT	.	_	4	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 4 cc	color:blue
+1	Tôi	Tôi	PROPN	P	_	3	nsubj	_	_
+2	bị	bị	VERB	V	_	3	aux:pass	_	_
+3	bắt	bắt	VERB	V	_	0	root	_	_
+4	và	và	SCONJ	CC	_	6	cc	_	_
+5	tòa án	tòa án	NOUN	N	_	6	nsubj	_	_
+6	xử	xử	VERB	V	_	3	conj	_	_
+7	5	5	NUM	M	NumType=Card	8	nummod	_	_
+8	năm	năm	NOUN	N	_	6	obj	_	_
+9	tù đày	tù đày	VERB	V	_	8	xcomp	_	SpaceAfter=No
+10	"	"	PUNCT	"	_	3	punct	_	SpaceAfter=No
+11	.	.	PUNCT	.	_	3	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 7 cc	color:blue
-1	con	con	NOUN	Nc	_	2	compound	_	_
-2	Đen	Đen	NOUN	Np	_	3	nsubj	_	_
-3	chạy	chạy	VERB	V	_	0	root	_	_
-4	quanh	quanh	NOUN	N	_	3	dobj	_	_
-5	chuồng	chuồng	NOUN	N	_	4	compound	_	_
-6	,	,	PUNCT	,	_	3	punct	_	_
-7	rồi	rồi	CONJ	C	_	3	cc	_	_
-8	nó	nó	PROPN	P	_	10	nsubj	_	_
-9	cũng	cũng	X	R	_	10	advmod	_	_
-10	dừng	dừng	VERB	V	_	3	parataxis	_	_
-11	lại	lại	X	R	_	10	advmod	_	_
-12	chịu	chịu	VERB	V	_	10	ccomp	_	_
-13	giao_phối	giao_phối	VERB	V	_	12	xcomp	_	_
-14	.	.	PUNCT	.	_	3	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 9 10 cc	color:blue
-1	chủ	chủ	NOUN	N	_	9	nsubj	_	_
-2	nhà	nhà	NOUN	N	_	1	compound	_	_
-3	,	,	PUNCT	,	_	1	punct	_	_
-4	viện	viện	NOUN	N	_	1	conj	_	_
-5	phó	phó	ADJ	A	_	4	amod	_	_
-6	một	một	NUM	M	_	7	nummod	_	_
-7	bệnh_viện	bệnh_viện	NOUN	N	_	4	compound	_	_
-8	,	,	PUNCT	,	_	9	punct	_	_
-9	gật	gật	VERB	V	_	0	root	_	_
-10	và	và	SCONJ	CC	_	9	cc	_	_
-11	đếm	đếm	VERB	V	_	9	conj	_	_
-12	tiền	tiền	NOUN	N	_	11	dobj	_	_
-13	.	.	PUNCT	.	_	9	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 13	bgColor:blue
-# visual-style 13	fgColor:white
-# visual-style 15	bgColor:blue
-# visual-style 15	fgColor:white
-# visual-style 15 13 cc	color:blue
-1	Nếu	Nếu	CONJ	C	_	2	cc	_	_
-2	lấy	lấy	VERB	V	_	0	root	_	_
-3	ngay	ngay	X	R	_	2	advmod	_	_
-4	,	,	PUNCT	,	_	2	punct	_	_
-5	hắn	hắn	PROPN	P	_	7	nsubj	_	_
-6	chỉ	chỉ	X	R	_	7	advmod	_	_
-7	còn	còn	VERB	V	_	2	parataxis	_	_
-8	ba	ba	NUM	M	_	9	nummod	_	_
-9	bộ	bộ	NOUN	N	_	7	dobj	_	_
-10	5	5	NUM	M	_	15	conj	_	_
-11	,	,	PUNCT	,	_	15	punct	_	_
-12	7	7	NUM	M	_	15	nummod	_	_
-13	và	và	SCONJ	CC	_	15	cc	_	_
-14	8	8	NUM	M	_	15	nummod	_	_
-15	kg	kg	NOUN	Nu	_	9	conj	_	_
-16	.	.	PUNCT	.	_	2	punct	_	_
+# visual-style 7 8 cc	color:blue
+1	có	có	VERB	V	_	5	obl	_	_
+2	bữa	bữa	NOUN	N	_	1	obj	_	_
+3	mẹ	mẹ	NOUN	N	_	5	nsubj	_	_
+4	Tùng	Tùng	NOUN	Np	_	3	compound	_	_
+5	mời	mời	VERB	V	_	0	root	_	_
+6	cả	cả	PROPN	P	_	7	det	_	_
+7	thầy giáo	thầy giáo	NOUN	N	_	5	obj	_	_
+8	và	và	SCONJ	CC	_	7	cc	_	_
+9	hai	hai	NUM	M	NumType=Card	7	nummod	_	_
+10	thằng	thằng	PROPN	P	_	9	det	_	_
+11	cùng	cùng	ADJ	A	_	5	iobj	_	_
+12	ăn	ăn	VERB	V	_	11	xcomp	_	_
+13	tối	tối	NOUN	N	_	11	obj	_	SpaceAfter=No
+14	.	.	PUNCT	.	_	5	punct	_	_
 
 ~~~
 

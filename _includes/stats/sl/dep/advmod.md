@@ -6,65 +6,70 @@
 
 This relation is universal.
 
-10970 nodes (8%) are attached to their parents as `advmod`.
+10566 nodes (8%) are attached to their parents as `advmod`.
 
-8396 instances of `advmod` (77%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.13865086599818.
+8231 instances of `advmod` (78%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.09918606852167.
 
-The following 31 pairs of parts of speech are connected with `advmod`: [sl-pos/VERB]()-[sl-pos/ADV]() (4407; 40% instances), [sl-pos/VERB]()-[sl-pos/PART]() (2446; 22% instances), [sl-pos/ADJ]()-[sl-pos/ADV]() (1267; 12% instances), [sl-pos/VERB]()-[sl-pos/CONJ]() (843; 8% instances), [sl-pos/ADJ]()-[sl-pos/PART]() (426; 4% instances), [sl-pos/NOUN]()-[sl-pos/ADV]() (381; 3% instances), [sl-pos/ADV]()-[sl-pos/ADV]() (373; 3% instances), [sl-pos/NOUN]()-[sl-pos/PART]() (197; 2% instances), [sl-pos/ADJ]()-[sl-pos/CONJ]() (128; 1% instances), [sl-pos/ADV]()-[sl-pos/PART]() (91; 1% instances), [sl-pos/NUM]()-[sl-pos/ADV]() (88; 1% instances), [sl-pos/VERB]()-[sl-pos/NUM]() (59; 1% instances), [sl-pos/NOUN]()-[sl-pos/CONJ]() (55; 1% instances), [sl-pos/DET]()-[sl-pos/ADV]() (46; 0% instances), [sl-pos/PRON]()-[sl-pos/ADV]() (34; 0% instances), [sl-pos/NUM]()-[sl-pos/PART]() (27; 0% instances), [sl-pos/PRON]()-[sl-pos/PART]() (26; 0% instances), [sl-pos/DET]()-[sl-pos/PART]() (23; 0% instances), [sl-pos/PROPN]()-[sl-pos/ADV]() (20; 0% instances), [sl-pos/ADJ]()-[sl-pos/NUM]() (7; 0% instances), [sl-pos/PRON]()-[sl-pos/CONJ]() (7; 0% instances), [sl-pos/NOUN]()-[sl-pos/X]() (4; 0% instances), [sl-pos/PROPN]()-[sl-pos/PART]() (4; 0% instances), [sl-pos/PROPN]()-[sl-pos/CONJ]() (3; 0% instances), [sl-pos/ADP]()-[sl-pos/ADV]() (2; 0% instances), [sl-pos/CONJ]()-[sl-pos/PART]() (1; 0% instances), [sl-pos/NOUN]()-[sl-pos/SCONJ]() (1; 0% instances), [sl-pos/NUM]()-[sl-pos/X]() (1; 0% instances), [sl-pos/PRON]()-[sl-pos/X]() (1; 0% instances), [sl-pos/PROPN]()-[sl-pos/X]() (1; 0% instances), [sl-pos/SCONJ]()-[sl-pos/ADV]() (1; 0% instances).
-
-
-~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 1 advmod	color:blue
-1	Zdaj	zdaj	ADV	Rgp	Degree=Pos	4	advmod	_	Dep=4|Rel=AdvO
-2	sem	biti	AUX	Va-r1s-n	Mood=Ind|Negative=Pos|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	aux	_	Dep=4|Rel=PPart
-3	se	se	PRON	Px------y	PronType=Prs|Reflex=Yes|Variant=Short	4	expl	_	Dep=4|Rel=PPart
-4	spomnil	spomniti	VERB	Vmep-sm	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	SpaceAfter=No|Dep=0|Rel=Root
-5	,	,	PUNCT	Z	_	9	punct	_	Dep=0|Rel=Root
-6	kam	kam	ADV	Rgp	Degree=Pos	9	advmod	_	Dep=9|Rel=Conj
-7	sem	biti	AUX	Va-r1s-n	Mood=Ind|Negative=Pos|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	9	aux	_	Dep=9|Rel=PPart
-8	jo	on	PRON	Pp3fsa--y	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs|Variant=Short	9	dobj	_	Dep=9|Rel=Obj
-9	vtaknil	vtakniti	VERB	Vmep-sm	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part	4	ccomp	_	SpaceAfter=No|Dep=4|Rel=Obj
-10	!	!	PUNCT	Z	_	4	punct	_	SpaceAfter=No|Dep=0|Rel=Root
-
-~~~
-
-
-~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 6 advmod	color:blue
-1	Srebrni	srebrn	ADJ	Agpmsay	Case=Acc|Definite=Def|Degree=Pos|Gender=Masc|Number=Sing	3	amod	_	Dep=3|Rel=Atr
-2	častni	časten	ADJ	Agpmsay	Case=Acc|Definite=Def|Degree=Pos|Gender=Masc|Number=Sing	3	amod	_	Dep=3|Rel=Atr
-3	znak	znak	NOUN	Ncmsan	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	5	dobj	_	Dep=5|Rel=Obj
-4	je	biti	AUX	Va-r3s-n	Mood=Ind|Negative=Pos|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	Dep=5|Rel=PPart
-5	prejela	prejeti	VERB	Vmep-sf	Aspect=Perf|Gender=Fem|Number=Sing|VerbForm=Part	0	root	_	Dep=0|Rel=Root
-6	tudi	tudi	PART	Q	_	5	advmod	_	Dep=0|Rel=Root
-7	Pia	Pia	PROPN	Npfsn	Case=Nom|Gender=Fem|Number=Sing	5	nsubj	_	Dep=5|Rel=Sb
-8	Mlakar	Mlakar	PROPN	Npfsn	Case=Nom|Gender=Fem|Number=Sing	7	name	_	SpaceAfter=No|Dep=7|Rel=Atr
-9	.	.	PUNCT	Z	_	5	punct	_	SpaceAfter=No|Dep=0|Rel=Root
-
-~~~
+The following 36 pairs of parts of speech are connected with `advmod`: [sl-pos/VERB]()-[sl-pos/ADV]() (3817; 36% instances), [sl-pos/VERB]()-[sl-pos/PART]() (2794; 26% instances), [sl-pos/ADJ]()-[sl-pos/ADV]() (1068; 10% instances), [sl-pos/VERB]()-[sl-pos/CCONJ]() (772; 7% instances), [sl-pos/ADJ]()-[sl-pos/PART]() (416; 4% instances), [sl-pos/NOUN]()-[sl-pos/ADV]() (336; 3% instances), [sl-pos/ADV]()-[sl-pos/ADV]() (269; 3% instances), [sl-pos/NOUN]()-[sl-pos/PART]() (183; 2% instances), [sl-pos/VERB]()-[sl-pos/DET]() (161; 2% instances), [sl-pos/ADJ]()-[sl-pos/CCONJ]() (115; 1% instances), [sl-pos/DET]()-[sl-pos/ADV]() (96; 1% instances), [sl-pos/ADV]()-[sl-pos/PART]() (84; 1% instances), [sl-pos/ADJ]()-[sl-pos/DET]() (74; 1% instances), [sl-pos/NUM]()-[sl-pos/ADV]() (73; 1% instances), [sl-pos/VERB]()-[sl-pos/NUM]() (58; 1% instances), [sl-pos/NOUN]()-[sl-pos/CCONJ]() (43; 0% instances), [sl-pos/DET]()-[sl-pos/PART]() (42; 0% instances), [sl-pos/NOUN]()-[sl-pos/DET]() (38; 0% instances), [sl-pos/NUM]()-[sl-pos/PART]() (23; 0% instances), [sl-pos/ADV]()-[sl-pos/DET]() (20; 0% instances), [sl-pos/PROPN]()-[sl-pos/ADV]() (18; 0% instances), [sl-pos/DET]()-[sl-pos/DET]() (13; 0% instances), [sl-pos/NUM]()-[sl-pos/DET]() (10; 0% instances), [sl-pos/ADJ]()-[sl-pos/NUM]() (7; 0% instances), [sl-pos/PRON]()-[sl-pos/ADV]() (7; 0% instances), [sl-pos/DET]()-[sl-pos/CCONJ]() (5; 0% instances), [sl-pos/NOUN]()-[sl-pos/X]() (5; 0% instances), [sl-pos/PRON]()-[sl-pos/PART]() (5; 0% instances), [sl-pos/PROPN]()-[sl-pos/PART]() (4; 0% instances), [sl-pos/PRON]()-[sl-pos/DET]() (3; 0% instances), [sl-pos/PROPN]()-[sl-pos/CCONJ]() (2; 0% instances), [sl-pos/CCONJ]()-[sl-pos/PART]() (1; 0% instances), [sl-pos/NOUN]()-[sl-pos/SCONJ]() (1; 0% instances), [sl-pos/NUM]()-[sl-pos/X]() (1; 0% instances), [sl-pos/PRON]()-[sl-pos/CCONJ]() (1; 0% instances), [sl-pos/PRON]()-[sl-pos/X]() (1; 0% instances).
 
 
 ~~~ conllu
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 3 advmod	color:blue
-1	Joj	joj	INTJ	I	_	5	discourse	_	SpaceAfter=No|Dep=0|Rel=Root
-2	,	,	PUNCT	Z	_	1	punct	_	Dep=0|Rel=Root
-3	kako	kako	ADV	Rgp	Degree=Pos	5	advmod	_	Dep=4|Rel=Conj
-4	sem	biti	VERB	Va-r1s-n	Mood=Ind|Negative=Pos|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	5	cop	_	Dep=0|Rel=Root
-5	raztresen	raztresen	ADJ	Appmsnn	Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	SpaceAfter=No|Dep=4|Rel=Atr
-6	!	!	PUNCT	Z	_	5	punct	_	Dep=0|Rel=Root
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 9 3 advmod	color:blue
+1	Slednje	slednji	ADJ	Agpfpn	Case=Nom|Degree=Pos|Gender=Fem|Number=Plur	9	nsubj	_	Dep=9|Rel=Sb
+2	bodo	biti	AUX	Va-f3p-n	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Fut|VerbForm=Fin	9	aux	_	Dep=9|Rel=PPart
+3	vsakič	vsakič	ADV	Rgp	Degree=Pos	9	advmod	_	Dep=9|Rel=AdvO
+4	ob	ob	ADP	Sl	Case=Loc	6	case	_	Dep=6|Rel=Atr
+5	podobnih	podoben	ADJ	Agpmpl	Case=Loc|Degree=Pos|Gender=Masc|Number=Plur	6	amod	_	Dep=6|Rel=Atr
+6	primerih	primer	NOUN	Ncmpl	Case=Loc|Gender=Masc|Number=Plur	9	obl	_	Dep=9|Rel=AdvO
+7	gotovo	gotovo	ADV	Rgp	Degree=Pos	9	advmod	_	Dep=9|Rel=AdvM
+8	ponovno	ponovno	ADV	Rgp	Degree=Pos	9	advmod	_	Dep=9|Rel=AdvO
+9	oživele	oživeti	VERB	Vmep-pf	Aspect=Perf|Gender=Fem|Number=Plur|VerbForm=Part	0	root	_	SpaceAfter=No|Dep=0|Rel=Root
+10	.	.	PUNCT	Z	_	9	punct	_	Dep=0|Rel=Root
+
+~~~
+
+
+~~~ conllu
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 1 advmod	color:blue
+1	Vsaj	vsaj	PART	Q	_	6	advmod	_	Dep=0|Rel=Root
+2	to	ta	DET	Pd-nsn	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	6	nsubj	_	Dep=7|Rel=Sb
+3	v	v	ADP	Sl	Case=Loc	4	case	_	Dep=4|Rel=Atr
+4	ničemer	nič	PRON	Pz-nsl	Case=Loc|Gender=Neut|Number=Sing|PronType=Neg	8	obl	_	Dep=7|Rel=AdvO
+5	ne	ne	PART	Q	Polarity=Neg	6	advmod	_	Dep=6|Rel=PPart
+6	more	moči	VERB	Vmpr3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Dep=0|Rel=Root
+7	biti	biti	AUX	Va-n	VerbForm=Inf	8	cop	_	Dep=6|Rel=Atr
+8	sporno	sporen	ADJ	Agpnsn	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	6	xcomp	_	SpaceAfter=No|Dep=7|Rel=Atr
+9	.	.	PUNCT	Z	_	6	punct	_	Dep=0|Rel=Root
+
+~~~
+
+
+~~~ conllu
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 10 9 advmod	color:blue
+1	Zakonodaja	zakonodaja	NOUN	Ncfsn	Case=Nom|Gender=Fem|Number=Sing	10	nsubj	_	Dep=6|Rel=Sb
+2	in	in	CCONJ	Cc	_	3	cc	_	Dep=3|Rel=Conj
+3	trg	trg	NOUN	Ncmsn	Case=Nom|Gender=Masc|Number=Sing	1	conj	_	Dep=1|Rel=Coord
+4	delovne	deloven	ADJ	Agpfsg	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	5	amod	_	Dep=5|Rel=Atr
+5	sile	sila	NOUN	Ncfsg	Case=Gen|Gender=Fem|Number=Sing	3	nmod	_	Dep=3|Rel=Atr
+6	sta	biti	AUX	Va-r3d-n	Mood=Ind|Number=Dual|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	10	cop	_	Dep=0|Rel=Root
+7	med	med	ADP	Si	Case=Ins	8	case	_	Dep=8|Rel=Atr
+8	seboj	se	PRON	Px---i	Case=Ins|PronType=Prs|Reflex=Yes	10	nmod	_	Dep=10|Rel=Atr
+9	tesno	tesno	ADV	Rgp	Degree=Pos	10	advmod	_	Dep=10|Rel=Atr
+10	povezana	povezan	ADJ	Appmdn	Case=Nom|Degree=Pos|Gender=Masc|Number=Dual|VerbForm=Part	0	root	_	SpaceAfter=No|Dep=6|Rel=Atr
+11	.	.	PUNCT	Z	_	10	punct	_	Dep=0|Rel=Root
 
 ~~~
 
@@ -77,63 +82,79 @@ The following 31 pairs of parts of speech are connected with `advmod`: [sl-pos/V
 
 This relation is universal.
 
-3867 nodes (13%) are attached to their parents as `advmod`.
+2737 nodes (14%) are attached to their parents as `advmod`.
 
-2770 instances of `advmod` (72%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.07938970778381.
+2010 instances of `advmod` (73%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.05042016806723.
 
-The following 47 pairs of parts of speech are connected with `advmod`: [sl-pos/VERB]()-[sl-pos/ADV]() (1673; 43% instances), [sl-pos/VERB]()-[sl-pos/PART]() (611; 16% instances), [sl-pos/VERB]()-[sl-pos/CONJ]() (297; 8% instances), [sl-pos/ADJ]()-[sl-pos/ADV]() (263; 7% instances), [sl-pos/NOUN]()-[sl-pos/ADV]() (195; 5% instances), [sl-pos/ADV]()-[sl-pos/ADV]() (164; 4% instances), [sl-pos/NOUN]()-[sl-pos/PART]() (115; 3% instances), [sl-pos/PRON]()-[sl-pos/ADV]() (84; 2% instances), [sl-pos/ADJ]()-[sl-pos/PART]() (82; 2% instances), [sl-pos/NOUN]()-[sl-pos/CONJ]() (42; 1% instances), [sl-pos/ADJ]()-[sl-pos/CONJ]() (37; 1% instances), [sl-pos/PRON]()-[sl-pos/PART]() (35; 1% instances), [sl-pos/PRON]()-[sl-pos/CONJ]() (33; 1% instances), [sl-pos/PROPN]()-[sl-pos/ADV]() (31; 1% instances), [sl-pos/ADV]()-[sl-pos/PART]() (30; 1% instances), [sl-pos/NUM]()-[sl-pos/ADV]() (27; 1% instances), [sl-pos/ADV]()-[sl-pos/CONJ]() (16; 0% instances), [sl-pos/DET]()-[sl-pos/ADV]() (13; 0% instances), [sl-pos/PROPN]()-[sl-pos/PART]() (13; 0% instances), [sl-pos/NUM]()-[sl-pos/PART]() (12; 0% instances), [sl-pos/PART]()-[sl-pos/PART]() (12; 0% instances), [sl-pos/AUX]()-[sl-pos/ADV]() (11; 0% instances), [sl-pos/PART]()-[sl-pos/ADV]() (9; 0% instances), [sl-pos/X]()-[sl-pos/ADV]() (8; 0% instances), [sl-pos/PROPN]()-[sl-pos/CONJ]() (7; 0% instances), [sl-pos/AUX]()-[sl-pos/CONJ]() (5; 0% instances), [sl-pos/VERB]()-[sl-pos/X]() (4; 0% instances), [sl-pos/X]()-[sl-pos/PART]() (4; 0% instances), [sl-pos/NOUN]()-[sl-pos/ADJ]() (3; 0% instances), [sl-pos/PART]()-[sl-pos/CONJ]() (3; 0% instances), [sl-pos/VERB]()-[sl-pos/ADJ]() (3; 0% instances), [sl-pos/VERB]()-[sl-pos/ADP]() (3; 0% instances), [sl-pos/X]()-[sl-pos/CONJ]() (3; 0% instances), [sl-pos/ADJ]()-[sl-pos/ADJ]() (2; 0% instances), [sl-pos/DET]()-[sl-pos/PART]() (2; 0% instances), [sl-pos/NOUN]()-[sl-pos/PRON]() (2; 0% instances), [sl-pos/VERB]()-[sl-pos/NUM]() (2; 0% instances), [sl-pos/VERB]()-[sl-pos/PRON]() (2; 0% instances), [sl-pos/ADJ]()-[sl-pos/NOUN]() (1; 0% instances), [sl-pos/ADJ]()-[sl-pos/NUM]() (1; 0% instances), [sl-pos/ADP]()-[sl-pos/ADV]() (1; 0% instances), [sl-pos/ADP]()-[sl-pos/PART]() (1; 0% instances), [sl-pos/NOUN]()-[sl-pos/ADP]() (1; 0% instances), [sl-pos/NUM]()-[sl-pos/CONJ]() (1; 0% instances), [sl-pos/NUM]()-[sl-pos/NUM]() (1; 0% instances), [sl-pos/NUM]()-[sl-pos/PRON]() (1; 0% instances), [sl-pos/PRON]()-[sl-pos/ADJ]() (1; 0% instances).
+The following 48 pairs of parts of speech are connected with `advmod`: [sl-pos/VERB]()-[sl-pos/ADV]() (1029; 38% instances), [sl-pos/VERB]()-[sl-pos/PART]() (577; 21% instances), [sl-pos/VERB]()-[sl-pos/CCONJ]() (188; 7% instances), [sl-pos/ADJ]()-[sl-pos/ADV]() (159; 6% instances), [sl-pos/NOUN]()-[sl-pos/ADV]() (121; 4% instances), [sl-pos/NOUN]()-[sl-pos/PART]() (94; 3% instances), [sl-pos/ADV]()-[sl-pos/ADV]() (90; 3% instances), [sl-pos/ADJ]()-[sl-pos/PART]() (63; 2% instances), [sl-pos/VERB]()-[sl-pos/DET]() (57; 2% instances), [sl-pos/DET]()-[sl-pos/ADV]() (41; 1% instances), [sl-pos/NOUN]()-[sl-pos/CCONJ]() (31; 1% instances), [sl-pos/PRON]()-[sl-pos/ADV]() (29; 1% instances), [sl-pos/ADJ]()-[sl-pos/CCONJ]() (27; 1% instances), [sl-pos/ADV]()-[sl-pos/PART]() (25; 1% instances), [sl-pos/PROPN]()-[sl-pos/ADV]() (21; 1% instances), [sl-pos/DET]()-[sl-pos/PART]() (18; 1% instances), [sl-pos/PRON]()-[sl-pos/CCONJ]() (16; 1% instances), [sl-pos/ADJ]()-[sl-pos/DET]() (14; 1% instances), [sl-pos/NOUN]()-[sl-pos/DET]() (14; 1% instances), [sl-pos/NUM]()-[sl-pos/ADV]() (13; 0% instances), [sl-pos/PRON]()-[sl-pos/PART]() (12; 0% instances), [sl-pos/ADV]()-[sl-pos/CCONJ]() (11; 0% instances), [sl-pos/PROPN]()-[sl-pos/PART]() (9; 0% instances), [sl-pos/ADV]()-[sl-pos/DET]() (8; 0% instances), [sl-pos/PART]()-[sl-pos/PART]() (8; 0% instances), [sl-pos/DET]()-[sl-pos/CCONJ]() (7; 0% instances), [sl-pos/NUM]()-[sl-pos/PART]() (7; 0% instances), [sl-pos/AUX]()-[sl-pos/ADV]() (6; 0% instances), [sl-pos/NUM]()-[sl-pos/DET]() (5; 0% instances), [sl-pos/DET]()-[sl-pos/DET]() (4; 0% instances), [sl-pos/PART]()-[sl-pos/ADV]() (4; 0% instances), [sl-pos/VERB]()-[sl-pos/X]() (4; 0% instances), [sl-pos/AUX]()-[sl-pos/CCONJ]() (3; 0% instances), [sl-pos/PROPN]()-[sl-pos/CCONJ]() (3; 0% instances), [sl-pos/VERB]()-[sl-pos/ADJ]() (3; 0% instances), [sl-pos/VERB]()-[sl-pos/ADP]() (2; 0% instances), [sl-pos/X]()-[sl-pos/ADV]() (2; 0% instances), [sl-pos/X]()-[sl-pos/PART]() (2; 0% instances), [sl-pos/ADJ]()-[sl-pos/NOUN]() (1; 0% instances), [sl-pos/ADJ]()-[sl-pos/NUM]() (1; 0% instances), [sl-pos/NOUN]()-[sl-pos/ADJ]() (1; 0% instances), [sl-pos/NOUN]()-[sl-pos/ADP]() (1; 0% instances), [sl-pos/NOUN]()-[sl-pos/PRON]() (1; 0% instances), [sl-pos/PROPN]()-[sl-pos/DET]() (1; 0% instances), [sl-pos/VERB]()-[sl-pos/NOUN]() (1; 0% instances), [sl-pos/VERB]()-[sl-pos/NUM]() (1; 0% instances), [sl-pos/X]()-[sl-pos/CCONJ]() (1; 0% instances), [sl-pos/X]()-[sl-pos/DET]() (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 3 advmod	color:blue
-1	pa	pa	CONJ	Cc	_	2	advmod	_	word=pa|msd=Vp
-2	greš	iti	VERB	Vmbr2s	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	word=greš|msd=Ggvsde
-3	ven	ven	ADV	Rgp	Degree=Pos	2	advmod	_	word=vn|msd=Rsn
-4	pa	pa	CONJ	Cc	_	2	cc	_	word=pa|msd=Vp
-5	prideš	priti	VERB	Vmer2s	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	2	conj	_	word=prieš|msd=Ggdsde
-6	nazaj	nazaj	ADV	Rgp	Degree=Pos	5	advmod	_	word=nazaj|msd=Rsn
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 11	bgColor:blue
+# visual-style 11	fgColor:white
+# visual-style 11 10 advmod	color:blue
+1	na	na	ADP	Sl	Case=Loc	2	case	_	word=na|msd=Dm
+2	vrhu	vrh	NOUN	Ncmsl	Case=Loc|Gender=Masc|Number=Sing	3	obl	_	word=vrhu|msd=Somem
+3	je	biti	VERB	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	0	root	_	word=je|msd=Gp-ste-n
+4	tako	tako	ADV	Rgp	Degree=Pos	7	mark	_	word=tako|msd=Rsn
+5	kot	kot	SCONJ	Cs	_	4	fixed	_	word=kot|msd=Vd
+6	si	biti	AUX	Va-r2s-n	Mood=Ind|Number=Sing|Person=2|Polarity=Pos|Tense=Pres|VerbForm=Fin	7	aux	_	word=si|msd=Gp-sde-n
+7	rekla	reči	VERB	Vmep-sf	Aspect=Perf|Gender=Fem|Number=Sing|VerbForm=Part	3	advcl	_	word=rekla|msd=Ggdd-ez
+8	en	en	NUM	Mlpmsn	Case=Nom|Gender=Masc|Number=Sing|NumForm=Word|NumType=Card	9	nummod	_	word=en|msd=Kbzmei
+9	šef	šef	NOUN	Ncmsn	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	word=šef|msd=Somei
+10	lahko	lahko	ADV	Rgp	Degree=Pos	11	advmod	_	word=lahko|msd=Rsn
+11	sta	biti	VERB	Va-r3d-n	Mood=Ind|Number=Dual|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	3	parataxis	_	word=sta|msd=Gp-std-n
+12	tudi	tudi	PART	Q	_	11	advmod	_	word=tudi|msd=L
+13	dva	dva	NUM	Mlcmdn	Case=Nom|Gender=Masc|Number=Dual|NumForm=Word|NumType=Card	11	obl	_	word=dva|msd=Kbgmdi
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 2 advmod	color:blue
-1	saj	saj	CONJ	Cc	_	4	cc	_	word=s|msd=Vp
-2	še	še	PART	Q	_	4	advmod	_	word=še|msd=L
-3	ne	ne	PART	Q	_	4	neg	_	word=ne|msd=L
-4	vem	vedeti	VERB	Vmpr1s	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	word=vem|msd=Ggnspe
-5	kam	kam	ADV	Rgp	Degree=Pos	4	ccomp	_	word=kam|msd=Rsn
-6	v	v	ADP	Sa	Case=Acc	7	case	_	word=v|msd=Dt
-7	avstralijo	Avstralija	PROPN	Npfsa	Case=Acc|Gender=Fem|Number=Sing	4	parataxis	_	word=Avstralijo|msd=Slzet
-8	ali	ali	CONJ	Cc	_	7	cc	_	word=al|msd=Vp
-9	pa	pa	CONJ	Cc	_	8	mwe	_	word=pa|msd=Vp
-10	v	v	ADP	Sa	Case=Acc	11	case	_	word=v|msd=Dt
-11	ameriko	Amerika	PROPN	Npfsa	Case=Acc|Gender=Fem|Number=Sing	7	conj	_	word=Ameriko|msd=Slzet
+# visual-style 12	bgColor:blue
+# visual-style 12	fgColor:white
+# visual-style 11	bgColor:blue
+# visual-style 11	fgColor:white
+# visual-style 11 12 advmod	color:blue
+1	na	na	ADP	Sl	Case=Loc	2	case	_	word=na|msd=Dm
+2	vrhu	vrh	NOUN	Ncmsl	Case=Loc|Gender=Masc|Number=Sing	3	obl	_	word=vrhu|msd=Somem
+3	je	biti	VERB	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	0	root	_	word=je|msd=Gp-ste-n
+4	tako	tako	ADV	Rgp	Degree=Pos	7	mark	_	word=tako|msd=Rsn
+5	kot	kot	SCONJ	Cs	_	4	fixed	_	word=kot|msd=Vd
+6	si	biti	AUX	Va-r2s-n	Mood=Ind|Number=Sing|Person=2|Polarity=Pos|Tense=Pres|VerbForm=Fin	7	aux	_	word=si|msd=Gp-sde-n
+7	rekla	reči	VERB	Vmep-sf	Aspect=Perf|Gender=Fem|Number=Sing|VerbForm=Part	3	advcl	_	word=rekla|msd=Ggdd-ez
+8	en	en	NUM	Mlpmsn	Case=Nom|Gender=Masc|Number=Sing|NumForm=Word|NumType=Card	9	nummod	_	word=en|msd=Kbzmei
+9	šef	šef	NOUN	Ncmsn	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	word=šef|msd=Somei
+10	lahko	lahko	ADV	Rgp	Degree=Pos	11	advmod	_	word=lahko|msd=Rsn
+11	sta	biti	VERB	Va-r3d-n	Mood=Ind|Number=Dual|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	3	parataxis	_	word=sta|msd=Gp-std-n
+12	tudi	tudi	PART	Q	_	11	advmod	_	word=tudi|msd=L
+13	dva	dva	NUM	Mlcmdn	Case=Nom|Gender=Masc|Number=Dual|NumForm=Word|NumType=Card	11	obl	_	word=dva|msd=Kbgmdi
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 1 advmod	color:blue
-1	pa	pa	CONJ	Cc	_	2	advmod	_	word=pa|msd=Vp
-2	greš	iti	VERB	Vmbr2s	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	word=greš|msd=Ggvsde
-3	ven	ven	ADV	Rgp	Degree=Pos	2	advmod	_	word=vn|msd=Rsn
-4	pa	pa	CONJ	Cc	_	2	cc	_	word=pa|msd=Vp
-5	prideš	priti	VERB	Vmer2s	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	2	conj	_	word=prieš|msd=Ggdsde
-6	nazaj	nazaj	ADV	Rgp	Degree=Pos	5	advmod	_	word=nazaj|msd=Rsn
+# visual-style 11	bgColor:blue
+# visual-style 11	fgColor:white
+# visual-style 12	bgColor:blue
+# visual-style 12	fgColor:white
+# visual-style 12 11 advmod	color:blue
+1	pa	pa	CCONJ	Cc	_	2	reparandum	_	word=pa|msd=Vp
+2	pa	pa	CCONJ	Cc	_	6	cc	_	word=pa|msd=Vp
+3	so	biti	AUX	Va-r3p-n	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	6	aux	_	word=so|msd=Gp-stm-n
+4	ga	on	PRON	Pp3msa--y	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Variant=Short	6	obj	_	word=ga|msd=Zotmet--k
+5	ljudje	človek	NOUN	Ncmpn	Case=Nom|Gender=Masc|Number=Plur	6	nsubj	_	word=ludi|msd=Sommi
+6	zajebavali	zajebavati	VERB	Vmpp-pm	Aspect=Imp|Gender=Masc|Number=Plur|VerbForm=Part	0	root	_	word=zajebovali|msd=Ggnd-mm
+7	evo	evo	PART	Q	_	12	discourse	_	word=evo|msd=L
+8	pol	pol	ADV	Rgp	Degree=Pos	12	advmod	_	word=po|msd=Rsn
+9	vam	ti	PRON	Pp2-pd	Case=Dat|Number=Plur|Person=2|PronType=Prs	12	iobj	_	word=vam|msd=Zod-md
+10	je	biti	AUX	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	12	aux	_	word=je|msd=Gp-ste-n
+11	pa	pa	CCONJ	Cc	_	12	advmod	_	word=pa|msd=Vp
+12	dal	dati	VERB	Vmep-sm	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part	6	parataxis	_	word=dal|msd=Ggdd-em
+13	kajlo	kajla	NOUN	Ncfsa	Case=Acc|Gender=Fem|Number=Sing	12	obj	_	word=kajlo|msd=Sozet
 
 ~~~
 

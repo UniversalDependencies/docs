@@ -4,86 +4,85 @@
 
 ## Treebank Statistics (UD_Bulgarian)
 
-There are 2780 `VERB` lemmas (18%), 6570 `VERB` types (24%) and 19552 `VERB` tokens (13%).
+There are 2644 `VERB` lemmas (18%), 6130 `VERB` types (24%) and 15492 `VERB` tokens (11%).
 Out of 16 observed tags, the rank of `VERB` is: 4 in number of lemmas, 2 in number of types and 4 in number of tokens.
 
-The 10 most frequent `VERB` lemmas: <em>съм, мога, имам, нямам, кажа, трябва, има, искам, съобщя, стана</em>
+The 10 most frequent `VERB` lemmas: <em>мога, имам, нямам, съм, трябва, кажа, има, искам, стана, съобщя</em>
 
-The 10 most frequent `VERB` types:  <em>е, са, има, няма, може, трябва, беше, каза, могат, съобщи</em>
+The 10 most frequent `VERB` types:  <em>има, може, няма, трябва, е, каза, могат, съобщи, заяви, стана</em>
 
-The 10 most frequent ambiguous lemmas: <em>съм</em> ([VERB]() 2583, [AUX]() 1778), <em>мога</em> ([VERB]() 396, [ADJ]() 1), <em>имам</em> ([VERB]() 363, [ADJ]() 1), <em>кажа</em> ([VERB]() 237, [ADJ]() 4), <em>искам</em> ([VERB]() 178, [ADJ]() 3), <em>стана</em> ([VERB]() 144, [ADJ]() 3), <em>бъда</em> ([AUX]() 251, [VERB]() 139), <em>направя-(се)</em> ([VERB]() 129, [ADJ]() 7), <em>дам-(се)</em> ([VERB]() 101, [ADJ]() 4), <em>видя-(се)</em> ([VERB]() 95, [ADJ]() 1)
+The 10 most frequent ambiguous lemmas: <em>мога</em> ([VERB]() 370, [ADJ]() 1), <em>имам</em> ([VERB]() 323, [ADJ]() 1), <em>съм</em> ([AUX]() 3594, [VERB]() 296), <em>кажа</em> ([VERB]() 206, [ADJ]() 4), <em>искам</em> ([VERB]() 157, [ADJ]() 3), <em>стана</em> ([VERB]() 129, [ADJ]() 3), <em>направя-(се)</em> ([VERB]() 113, [ADJ]() 6), <em>видя-(се)</em> ([VERB]() 86, [ADJ]() 1), <em>дам-(се)</em> ([VERB]() 84, [ADJ]() 4), <em>работя</em> ([VERB]() 84, [ADJ]() 6)
 
-The 10 most frequent ambiguous types:  <em>е</em> ([VERB]() 1521, [AUX]() 655), <em>са</em> ([VERB]() 468, [AUX]() 339), <em>беше</em> ([VERB]() 115, [AUX]() 82), <em>бъде</em> ([AUX]() 148, [VERB]() 89), <em>бе</em> ([AUX]() 199, [VERB]() 67, [PART]() 2), <em>съм</em> ([AUX]() 66, [VERB]() 59), <em>бяха</em> ([AUX]() 96, [VERB]() 56), <em>иска</em> ([VERB]() 46, [NOUN]() 1), <em>сме</em> ([VERB]() 50, [AUX]() 43), <em>била</em> ([VERB]() 40, [AUX]() 19)
+The 10 most frequent ambiguous types:  <em>е</em> ([AUX]() 1752, [VERB]() 178), <em>иска</em> ([VERB]() 40, [NOUN]() 1), <em>са</em> ([AUX]() 689, [VERB]() 36), <em>работи</em> ([VERB]() 34, [NOUN]() 17), <em>твърди</em> ([VERB]() 31, [ADJ]() 1), <em>прави</em> ([VERB]() 27, [ADJ]() 5), <em>води</em> ([VERB]() 28, [NOUN]() 1), <em>би</em> ([AUX]() 47, [VERB]() 27), <em>отказа</em> ([VERB]() 22, [NOUN]() 1), <em>мисли</em> ([VERB]() 17, [NOUN]() 4)
 
 
 * <em>е</em>
-  * [VERB]() 1521: <em>Страх ли те <b>е</b> ?</em>
-  * [AUX]() 655: <em>Но ти , малкият , не мисли , че се <b>е</b> свършило .</em>
-* <em>са</em>
-  * [VERB]() 468: <em>С какво образование <b>са</b> постъпилите на кадрова служба жени ?</em>
-  * [AUX]() 339: <em>Малко от спестените средства <b>са</b> останали .</em>
-* <em>беше</em>
-  * [VERB]() 115: <em>Дунавът <b>беше</b> тих и спокоен .</em>
-  * [AUX]() 82: <em>Книгата <b>беше</b> прочетена , преди да бъде купена .</em>
-* <em>бъде</em>
-  * [AUX]() 148: <em>Книгата беше прочетена , преди да <b>бъде</b> купена .</em>
-  * [VERB]() 89: <em>Той предполага , че лятото ще <b>бъде</b> горещо .</em>
-* <em>бе</em>
-  * [AUX]() 199: <em>При стареца <b>бе</b> останала Христина , хубавата му внучка .</em>
-  * [VERB]() 67: <em>Изглежда , любопитството й <b>бе</b> по-силно от всичко .</em>
-  * [PART]() 2: <em>Не мога да те позная <b>бе</b> .</em>
-* <em>съм</em>
-  * [AUX]() 66: <em>Не помня да <b>съм</b> ходил у тях .</em>
-  * [VERB]() 59: <em>При все че <b>съм</b> болен , ще отида на работа .</em>
-* <em>бяха</em>
-  * [AUX]() 96: <em>Противниците му кандидати се <b>бяха</b> просто отчаяли .</em>
-  * [VERB]() 56: <em>Той виждаше доле празнично облечени тълпи , стоновете <b>бяха</b> вече химни .</em>
+  * [AUX]() 1752: <em>Страх ли те <b>е</b> ?</em>
+  * [VERB]() 178: <em>Най-лошото <b>е</b> , че тя е поразена просто до мозъка на костите .</em>
 * <em>иска</em>
-  * [VERB]() 46: <em>Той <b>иска</b> съвет , към кого да се обърне .</em>
+  * [VERB]() 40: <em>Той <b>иска</b> съвет , към кого да се обърне .</em>
   * [NOUN]() 1: <em>В петък следобед в съда в канадския град Ванкувър и американския Саут Бент са внесени два граждански <b>иска</b> срещу България в лицето на Министерство на финансите , бившите Главна прокуратура и Национална следствена служба и Националния център по заразни и паразитни болести .</em>
-* <em>сме</em>
-  * [VERB]() 50: <em>Нека да <b>сме</b> честни .</em>
-  * [AUX]() 43: <em>Не може да не <b>сме</b> се разминали на някой светофар .</em>
-* <em>била</em>
-  * [VERB]() 40: <em>Тя <b>била</b> с рядка мъдрост и красота .</em>
-  * [AUX]() 19: <em>Адската машина <b>била</b> поставена под цистерната , която е на същата фирма .</em>
+* <em>са</em>
+  * [AUX]() 689: <em>Малко от спестените средства <b>са</b> останали .</em>
+  * [VERB]() 36: <em>Той пръска луди пари , защото не <b>са</b> негови .</em>
+* <em>работи</em>
+  * [VERB]() 34: <em>- Всяко звено да <b>работи</b> ефективно и да носи печалба .</em>
+  * [NOUN]() 17: <em>Нас важни <b>работи</b> ни задържат тука .</em>
+* <em>твърди</em>
+  * [VERB]() 31: <em>Когато не й изнася , <b>твърди</b> , че президентът не се съветва с нея .</em>
+  * [ADJ]() 1: <em>Лицето му , едро и спокойно , изразяваше неловкост , но думите му бяха <b>твърди</b> .</em>
+* <em>прави</em>
+  * [VERB]() 27: <em>А той си мълчи , трае си и се <b>прави</b> , че ги не чува .</em>
+  * [ADJ]() 5: <em>Това , че всички сме <b>прави</b> , поставя въпроса как можем да живеем заедно .</em>
+* <em>води</em>
+  * [VERB]() 28: <em>Но грешката <b>води</b> до оправдаване на престъплението и му дава алиби .</em>
+  * [NOUN]() 1: <em>Придошлите <b>води</b> са изолирали и провинциалната столица Паданг .</em>
+* <em>би</em>
+  * [AUX]() 47: <em>Книга за Хрушчов <b>би</b> било формалното й обяснение .</em>
+  * [VERB]() 27: <em>Спрях го , да не <b>би</b> да ме удари .</em>
+* <em>отказа</em>
+  * [VERB]() 22: <em>Марко Семов <b>отказа</b> парите за наградата " Йовков "</em>
+  * [NOUN]() 1: <em>Узунова посочи като пример <b>отказа</b> на правосъдния министър Теодосий Симеонов за среща с Шейтанов .</em>
+* <em>мисли</em>
+  * [VERB]() 17: <em>Но ти , малкият , не <b>мисли</b> , че се е свършило .</em>
+  * [NOUN]() 4: <em>Главата му се пукаше от <b>мисли</b> .</em>
 
 ## Morphology
 
-The form / lemma ratio of `VERB` is 2.363309 (the average of all parts of speech is 1.728233).
+The form / lemma ratio of `VERB` is 2.318457 (the average of all parts of speech is 1.709615).
 
 The 1st highest number of forms (21) was observed with the lemma “мога”: <em>Можехме, мога, могат, могла, могли, могло, могъл, можа, можах, можаха, може, можел, можела, можели, можело, можем, можете, можех, можеха, можеш, можеше</em>.
 
 The 2nd highest number of forms (17) was observed with the lemma “взема”: <em>взе, взел, взела, взели, взело, взема, вземат, вземе, вземем, вземете, вземеш, вземи, взета, взети, взето, взех, взеха</em>.
 
-The 3rd highest number of forms (17) was observed with the lemma “намеря-(се)”: <em>Намерете, намерен, намерена, намерени, намерено, намери, намерил, намерила, намерили, намерим, намерите, намерих, намериха, намерихме, намериш, намеря, намерят</em>.
+The 3rd highest number of forms (16) was observed with the lemma “видя-(се)”: <em>видели, види, видим, видите, видиш, видя, видял, видяла, видяна, видят, видях, видяха, видяхме, видяхте, виж, вижте</em>.
 
-`VERB` occurs with 10 features: [bg-feat/Aspect]() (19376; 99% instances), [bg-feat/Number]() (19376; 99% instances), [bg-feat/VerbForm]() (19376; 99% instances), [bg-feat/Voice]() (19096; 98% instances), [bg-feat/Tense]() (17666; 90% instances), [bg-feat/Mood]() (16738; 86% instances), [bg-feat/Person]() (16611; 85% instances), [bg-feat/Definite]() (2765; 14% instances), [bg-feat/Gender]() (1909; 10% instances), [bg-feat/Degree]() (3; 0% instances)
+`VERB` occurs with 10 features: [bg-feat/Aspect]() (15492; 100% instances), [bg-feat/Number]() (15492; 100% instances), [bg-feat/VerbForm]() (15492; 100% instances), [bg-feat/Voice]() (15241; 98% instances), [bg-feat/Tense]() (14273; 92% instances), [bg-feat/Mood]() (13083; 84% instances), [bg-feat/Person]() (13068; 84% instances), [bg-feat/Definite]() (2424; 16% instances), [bg-feat/Gender]() (1663; 11% instances), [bg-feat/Degree]() (5; 0% instances)
 
 `VERB` occurs with 24 feature-value pairs: `Aspect=Imp`, `Aspect=Perf`, `Definite=Def`, `Definite=Ind`, `Degree=Cmp`, `Degree=Pos`, `Gender=Fem`, `Gender=Masc`, `Gender=Neut`, `Mood=Cnd`, `Mood=Imp`, `Mood=Ind`, `Number=Plur`, `Number=Sing`, `Person=1`, `Person=2`, `Person=3`, `Tense=Imp`, `Tense=Past`, `Tense=Pres`, `VerbForm=Fin`, `VerbForm=Part`, `Voice=Act`, `Voice=Pass`
 
-`VERB` occurs with 71 feature combinations.
-The most frequent feature combination is `Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act` (5328 tokens).
-Examples: <em>е, има, няма, може, трябва, става, иска, дава, работи, разбира</em>
+`VERB` occurs with 70 feature combinations.
+The most frequent feature combination is `Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act` (3682 tokens).
+Examples: <em>има, може, няма, трябва, е, става, иска, дава, работи, разбира</em>
 
 
 ## Relations
 
-`VERB` nodes are attached to their parents using 20 different relations: [bg-dep/root]() (9136; 47% instances), [bg-dep/ccomp]() (2339; 12% instances), [bg-dep/cop]() (1997; 10% instances), [bg-dep/conj]() (1906; 10% instances), [bg-dep/acl]() (1482; 8% instances), [bg-dep/advcl]() (1430; 7% instances), [bg-dep/xcomp]() (458; 2% instances), [bg-dep/csubj]() (385; 2% instances), [bg-dep/dobj]() (208; 1% instances), [bg-dep/nmod]() (91; 0% instances), [bg-dep/csubjpass]() (60; 0% instances), [bg-dep/mwe]() (39; 0% instances), [bg-dep/auxpass]() (6; 0% instances), [bg-dep/det]() (6; 0% instances), [bg-dep/nsubj]() (3; 0% instances), [bg-dep/parataxis]() (2; 0% instances), [bg-dep/aux]() (1; 0% instances), [bg-dep/discourse]() (1; 0% instances), [bg-dep/iobj]() (1; 0% instances), [bg-dep/nsubjpass]() (1; 0% instances)
+`VERB` nodes are attached to their parents using 18 different relations: [bg-dep/root]() (8088; 52% instances), [bg-dep/ccomp]() (1688; 11% instances), [bg-dep/conj]() (1672; 11% instances), [bg-dep/advcl]() (1325; 9% instances), [bg-dep/acl]() (1296; 8% instances), [bg-dep/xcomp]() (643; 4% instances), [bg-dep/parataxis]() (355; 2% instances), [bg-dep/csubj]() (290; 2% instances), [bg-dep/csubj:pass]() (60; 0% instances), [bg-dep/fixed]() (33; 0% instances), [bg-dep/aux:pass]() (24; 0% instances), [bg-dep/det]() (4; 0% instances), [bg-dep/discourse]() (3; 0% instances), [bg-dep/nsubj]() (3; 0% instances), [bg-dep/obj]() (3; 0% instances), [bg-dep/nmod]() (2; 0% instances), [bg-dep/obl]() (2; 0% instances), [bg-dep/nsubj:pass]() (1; 0% instances)
 
-Parents of `VERB` nodes belong to 12 different parts of speech: [ROOT]() (9136; 47% instances), [VERB]() (6399; 33% instances), [NOUN]() (2509; 13% instances), [ADJ]() (733; 4% instances), [ADV]() (411; 2% instances), [DET]() (124; 1% instances), [PROPN]() (89; 0% instances), [PRON]() (85; 0% instances), [PART]() (49; 0% instances), [NUM]() (12; 0% instances), [CONJ]() (3; 0% instances), [ADP]() (2; 0% instances)
+Parents of `VERB` nodes belong to 13 different parts of speech: [ROOT]() (8088; 52% instances), [VERB]() (5569; 36% instances), [NOUN]() (1298; 8% instances), [ADJ]() (167; 1% instances), [ADV]() (152; 1% instances), [DET]() (100; 1% instances), [PROPN]() (50; 0% instances), [PART]() (40; 0% instances), [PRON]() (13; 0% instances), [NUM]() (9; 0% instances), [AUX]() (3; 0% instances), [ADP]() (2; 0% instances), [CCONJ]() (1; 0% instances)
 
-2145 (11%) `VERB` nodes are leaves.
+61 (0%) `VERB` nodes are leaves.
 
-750 (4%) `VERB` nodes have one child.
+345 (2%) `VERB` nodes have one child.
 
-2646 (14%) `VERB` nodes have two children.
+2202 (14%) `VERB` nodes have two children.
 
-14011 (72%) `VERB` nodes have three or more children.
+12884 (83%) `VERB` nodes have three or more children.
 
 The highest child degree of a `VERB` node is 13.
 
-Children of `VERB` nodes are attached using 27 different relations: [bg-dep/punct]() (13611; 21% instances), [bg-dep/nsubj]() (8668; 13% instances), [bg-dep/dobj]() (7428; 11% instances), [bg-dep/aux]() (5573; 9% instances), [bg-dep/nmod]() (5514; 9% instances), [bg-dep/advmod]() (3634; 6% instances), [bg-dep/iobj]() (3496; 5% instances), [bg-dep/expl]() (3418; 5% instances), [bg-dep/ccomp]() (2549; 4% instances), [bg-dep/conj]() (1827; 3% instances), [bg-dep/cc]() (1685; 3% instances), [bg-dep/mark]() (1616; 2% instances), [bg-dep/advcl]() (1402; 2% instances), [bg-dep/nsubjpass]() (1238; 2% instances), [bg-dep/neg]() (1176; 2% instances), [bg-dep/discourse]() (497; 1% instances), [bg-dep/xcomp]() (497; 1% instances), [bg-dep/auxpass]() (451; 1% instances), [bg-dep/csubj]() (234; 0% instances), [bg-dep/case]() (124; 0% instances), [bg-dep/csubjpass]() (76; 0% instances), [bg-dep/mwe]() (29; 0% instances), [bg-dep/vocative]() (27; 0% instances), [bg-dep/amod]() (9; 0% instances), [bg-dep/cop]() (7; 0% instances), [bg-dep/acl]() (1; 0% instances), [bg-dep/appos]() (1; 0% instances)
+Children of `VERB` nodes are attached using 25 different relations: [bg-dep/punct]() (11842; 21% instances), [bg-dep/nsubj]() (7395; 13% instances), [bg-dep/obj]() (5995; 11% instances), [bg-dep/obl]() (4814; 8% instances), [bg-dep/aux]() (4506; 8% instances), [bg-dep/advmod]() (4261; 7% instances), [bg-dep/iobj]() (3168; 6% instances), [bg-dep/expl]() (2978; 5% instances), [bg-dep/ccomp]() (1880; 3% instances), [bg-dep/conj]() (1590; 3% instances), [bg-dep/cc]() (1569; 3% instances), [bg-dep/mark]() (1400; 2% instances), [bg-dep/advcl]() (1299; 2% instances), [bg-dep/nsubj:pass]() (1293; 2% instances), [bg-dep/aux:pass]() (846; 1% instances), [bg-dep/xcomp]() (705; 1% instances), [bg-dep/parataxis]() (579; 1% instances), [bg-dep/discourse]() (427; 1% instances), [bg-dep/csubj]() (183; 0% instances), [bg-dep/case]() (111; 0% instances), [bg-dep/csubj:pass]() (80; 0% instances), [bg-dep/vocative]() (39; 0% instances), [bg-dep/fixed]() (24; 0% instances), [bg-dep/cop]() (14; 0% instances), [bg-dep/amod]() (6; 0% instances)
 
-Children of `VERB` nodes belong to 16 different parts of speech: [NOUN]() (18355; 28% instances), [PUNCT]() (13782; 21% instances), [PRON]() (7735; 12% instances), [VERB]() (6399; 10% instances), [PART]() (4478; 7% instances), [ADV]() (4071; 6% instances), [PROPN]() (2109; 3% instances), [AUX]() (1980; 3% instances), [CONJ]() (1680; 3% instances), [SCONJ]() (1300; 2% instances), [INTJ]() (1235; 2% instances), [ADJ]() (738; 1% instances), [ADP]() (426; 1% instances), [DET]() (344; 1% instances), [NUM]() (155; 0% instances), [X]() (1; 0% instances)
+Children of `VERB` nodes belong to 16 different parts of speech: [NOUN]() (16220; 28% instances), [PUNCT]() (12001; 21% instances), [PRON]() (6886; 12% instances), [VERB]() (5569; 10% instances), [AUX]() (5368; 9% instances), [ADV]() (3595; 6% instances), [PROPN]() (1852; 3% instances), [CCONJ]() (1563; 3% instances), [PART]() (1418; 2% instances), [SCONJ]() (1121; 2% instances), [ADJ]() (632; 1% instances), [ADP]() (364; 1% instances), [DET]() (253; 0% instances), [NUM]() (128; 0% instances), [INTJ]() (33; 0% instances), [X]() (1; 0% instances)
 

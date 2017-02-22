@@ -67,7 +67,7 @@ The most frequent other feature values with which `PRON` and `Gender` co-occurre
 
 59 [sa-pos/VERB]() tokens (25% of all `VERB` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `VERB` and `Gender` co-occurred: <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (59; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (59; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (59; 100%), <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (58; 98%), <tt><a href="Number.html">Number</a>=Sing</tt> (53; 90%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (37; 63%), <tt><a href="Case.html">Case</a>=Nom</tt> (34; 58%).
+The most frequent other feature values with which `VERB` and `Gender` co-occurred: <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (59; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (59; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (59; 100%), <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (58; 98%), <tt><a href="Number.html">Number</a>=Sing</tt> (53; 90%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (37; 63%), <tt><a href="Case.html">Case</a>=Nom</tt> (34; 58%).
 
 `VERB` tokens may have the following values of `Gender`:
 
@@ -77,9 +77,8 @@ The most frequent other feature values with which `VERB` and `Gender` co-occurre
 * `EMPTY` (180): अब्रवीत्, अस्ति, आह, गत्वा, भवति, श्रुत्वा, उच्यते, करिष्यामि, करोमि, प्रोवाच
 
 <table>
-  <tr><th>Paradigm <i>गत</i></th><th><tt>Masc</tt></th><th><tt>Neut</tt></th></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Loc</tt></td><td></td><td>गते</td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Nom</tt></td><td>गतः</td><td></td></tr>
+  <tr><th>Paradigm <i>कृत</i></th><th><tt>Masc</tt></th><th><tt>Neut</tt></th></tr>
+  <tr><td><tt></tt></td><td>कृतः</td><td>कृतम्</td></tr>
 </table>
 
 `Gender` seems to be **lexical feature** of `VERB`. 96% lemmas (50) occur only with one value of `Gender`.
@@ -189,8 +188,8 @@ The 10 most frequent relations where parent and child node agree in `Gender`:
 <tt>NOUN --[<a href="../dep/nmod.html">nmod</a>]--> PRON</tt> (22; 54%),
 <tt>NOUN --[<a href="../dep/nmod.html">nmod</a>]--> PROPN</tt> (8; 73%),
 <tt>PROPN --[<a href="../dep/conj.html">conj</a>]--> PROPN</tt> (7; 100%),
-<tt>NOUN --[<a href="../dep/det.html">det</a>]--> PRON</tt> (6; 67%),
 <tt>NOUN --[<a href="../dep/nsubj.html">nsubj</a>]--> NOUN</tt> (6; 86%),
+<tt>NOUN --[<a href="../dep/det.html">det</a>]--> PRON</tt> (6; 67%),
 <tt>PRON --[<a href="../dep/acl.html">acl</a>]--> NOUN</tt> (4; 100%),
 <tt>X --[<a href="../dep/nsubj.html">nsubj</a>]--> NOUN</tt> (3; 75%).
 

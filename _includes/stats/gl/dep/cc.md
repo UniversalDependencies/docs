@@ -6,12 +6,12 @@
 
 This relation is universal.
 
-4430 nodes (3%) are attached to their parents as `cc`.
+3481 nodes (3%) are attached to their parents as `cc`.
 
-4158 instances of `cc` (94%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.92325056433409.
+3264 instances of `cc` (94%) are left-to-right (parent precedes child).
+Average distance between parent and child is 4.91266877334099.
 
-The following 34 pairs of parts of speech are connected with `cc`: [gl-pos/NOUN]()-[gl-pos/CONJ]() (1716; 39% instances), [gl-pos/VERB]()-[gl-pos/CONJ]() (1189; 27% instances), [gl-pos/ADP]()-[gl-pos/CONJ]() (588; 13% instances), [gl-pos/ADJ]()-[gl-pos/CONJ]() (500; 11% instances), [gl-pos/NUM]()-[gl-pos/CONJ]() (106; 2% instances), [gl-pos/PROPN]()-[gl-pos/CONJ]() (103; 2% instances), [gl-pos/VERB]()-[gl-pos/ADV]() (46; 1% instances), [gl-pos/ADP]()-[gl-pos/ADV]() (42; 1% instances), [gl-pos/DET]()-[gl-pos/CONJ]() (31; 1% instances), [gl-pos/ADV]()-[gl-pos/CONJ]() (20; 0% instances), [gl-pos/NUM]()-[gl-pos/ADP]() (16; 0% instances), [gl-pos/ADJ]()-[gl-pos/ADV]() (9; 0% instances), [gl-pos/NOUN]()-[gl-pos/ADV]() (9; 0% instances), [gl-pos/ADP]()-[gl-pos/SCONJ]() (7; 0% instances), [gl-pos/DET]()-[gl-pos/ADV]() (6; 0% instances), [gl-pos/VERB]()-[gl-pos/SCONJ]() (6; 0% instances), [gl-pos/ADJ]()-[gl-pos/PRON]() (5; 0% instances), [gl-pos/VERB]()-[gl-pos/PRON]() (5; 0% instances), [gl-pos/ADP]()-[gl-pos/PRON]() (4; 0% instances), [gl-pos/PRON]()-[gl-pos/CONJ]() (4; 0% instances), [gl-pos/PART]()-[gl-pos/CONJ]() (3; 0% instances), [gl-pos/VERB]()-[gl-pos/ADP]() (2; 0% instances), [gl-pos/VERB]()-[gl-pos/DET]() (2; 0% instances), [gl-pos/ADJ]()-[gl-pos/ADP]() (1; 0% instances), [gl-pos/ADJ]()-[gl-pos/SCONJ]() (1; 0% instances), [gl-pos/ADP]()-[gl-pos/PUNCT]() (1; 0% instances), [gl-pos/ADV]()-[gl-pos/SCONJ]() (1; 0% instances), [gl-pos/DET]()-[gl-pos/ADP]() (1; 0% instances), [gl-pos/NOUN]()-[gl-pos/ADP]() (1; 0% instances), [gl-pos/NOUN]()-[gl-pos/PRON]() (1; 0% instances), [gl-pos/NUM]()-[gl-pos/SYM]() (1; 0% instances), [gl-pos/PROPN]()-[gl-pos/ADV]() (1; 0% instances), [gl-pos/PUNCT]()-[gl-pos/NUM]() (1; 0% instances), [gl-pos/SCONJ]()-[gl-pos/CONJ]() (1; 0% instances).
+The following 31 pairs of parts of speech are connected with `cc`: [gl-pos/NOUN]()-[gl-pos/CONJ]() (1322; 38% instances), [gl-pos/VERB]()-[gl-pos/CONJ]() (955; 27% instances), [gl-pos/ADP]()-[gl-pos/CONJ]() (470; 14% instances), [gl-pos/ADJ]()-[gl-pos/CONJ]() (396; 11% instances), [gl-pos/PROPN]()-[gl-pos/CONJ]() (79; 2% instances), [gl-pos/NUM]()-[gl-pos/CONJ]() (77; 2% instances), [gl-pos/VERB]()-[gl-pos/ADV]() (38; 1% instances), [gl-pos/ADP]()-[gl-pos/ADV]() (34; 1% instances), [gl-pos/DET]()-[gl-pos/CONJ]() (27; 1% instances), [gl-pos/ADV]()-[gl-pos/CONJ]() (14; 0% instances), [gl-pos/NUM]()-[gl-pos/ADP]() (9; 0% instances), [gl-pos/ADJ]()-[gl-pos/ADV]() (8; 0% instances), [gl-pos/NOUN]()-[gl-pos/ADV]() (8; 0% instances), [gl-pos/ADP]()-[gl-pos/SCONJ]() (6; 0% instances), [gl-pos/ADJ]()-[gl-pos/PRON]() (5; 0% instances), [gl-pos/VERB]()-[gl-pos/PRON]() (5; 0% instances), [gl-pos/VERB]()-[gl-pos/SCONJ]() (5; 0% instances), [gl-pos/PRON]()-[gl-pos/CONJ]() (4; 0% instances), [gl-pos/ADP]()-[gl-pos/PRON]() (3; 0% instances), [gl-pos/DET]()-[gl-pos/ADV]() (3; 0% instances), [gl-pos/VERB]()-[gl-pos/ADP]() (2; 0% instances), [gl-pos/VERB]()-[gl-pos/DET]() (2; 0% instances), [gl-pos/ADJ]()-[gl-pos/SCONJ]() (1; 0% instances), [gl-pos/ADP]()-[gl-pos/PUNCT]() (1; 0% instances), [gl-pos/ADV]()-[gl-pos/SCONJ]() (1; 0% instances), [gl-pos/DET]()-[gl-pos/ADP]() (1; 0% instances), [gl-pos/NOUN]()-[gl-pos/ADP]() (1; 0% instances), [gl-pos/NOUN]()-[gl-pos/PRON]() (1; 0% instances), [gl-pos/PART]()-[gl-pos/CONJ]() (1; 0% instances), [gl-pos/PUNCT]()-[gl-pos/NUM]() (1; 0% instances), [gl-pos/SCONJ]()-[gl-pos/CONJ]() (1; 0% instances).
 
 
 ~~~ conllu
@@ -48,22 +48,31 @@ The following 34 pairs of parts of speech are connected with `cc`: [gl-pos/NOUN]
 
 
 ~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 1 cc	color:blue
-1	E	e	CONJ	CC	_	6	cc	_	Treeler:et
-2	a	o	DET	DA0FS0	_	3	det	_	Treeler:spec
-3	quen	quen	PRON	PR0CC000	_	6	case	_	Treeler:cc
-4	se	se	PRON	PP3CN000	_	6	iobj	_	Treeler:ci
-5	lle	lle	PRON	PP3CSD00	_	6	iobj	_	Treeler:ci
-6	pide	pedir	VERB	VMIP3S0	_	0	root	_	Treeler:sentence
-7	a	o	DET	DA0FS0	_	8	det	_	Treeler:spec
-8	fe	fe	NOUN	NCFS000	_	6	dobj	_	Treeler:cd
-9	de	de	ADP	SPS00	_	8	case	_	Treeler:sp
-10	bautismo	bautismo	NOUN	NCMS000	_	9	nmod	_	Treeler:sn
-11	?	?	PUNCT	Fit	_	6	punct	_	Treeler:f
+# visual-style 17	bgColor:blue
+# visual-style 17	fgColor:white
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 10 17 cc	color:blue
+1	E	e	CONJ	CC	_	3	cc	_	Treeler:et
+2	agora	agora	ADV	RG	_	3	case	_	Treeler:cc
+3	retomamos	retomar	VERB	VMIP1P0	_	0	root	_	Treeler:sentence
+4	a	o	DET	DA0FS0	_	5	det	_	Treeler:spec
+5	pregunta	pregunta	NOUN	NCFS000	_	3	dobj	_	Treeler:cd
+6	de	de	ADP	SPS00	_	5	case	_	Treeler:sp
+7	o	o	DET	DA0MS0	_	8	det	_	Treeler:spec
+8	principio	principio	NOUN	NCMS000	_	6	nmod	_	Treeler:sn
+9	:	:	PUNCT	Fd	_	10	punct	_	Treeler:f
+10	son	ser	VERB	VSIP1S0	_	3	ccomp	_	Treeler:S
+11	nova	novo	ADJ	AQ0FS0	_	10	cop	_	Treeler:atr
+12	e	e	CONJ	CC	_	10	cc	_	Treeler:coord
+13	teño	ter	VERB	VMIP1S0	_	10	ccomp	_	Treeler:S
+14	unha	un	DET	DI0FS0	_	15	det	_	Treeler:spec
+15	idea	idea	NOUN	NCFS000	_	13	dobj	_	Treeler:cd
+16	¿	¿	PUNCT	Fia	_	10	punct	_	Treeler:f
+17	e	e	CONJ	CC	_	10	cc	_	Treeler:coord
+18	agora	agora	ADV	RG	_	10	ccomp	_	Treeler:S
+19	que	que	SCONJ	CS	_	10	cc	_	Treeler:et
+20	?	?	PUNCT	Fit	_	10	punct	_	Treeler:f
 
 ~~~
 
@@ -112,27 +121,30 @@ The following 34 pairs of parts of speech are connected with `cc`: [gl-pos/NOUN]
 
 This relation is universal.
 
-776 nodes (3%) are attached to their parents as `cc`.
+462 nodes (3%) are attached to their parents as `cc`.
 
-752 instances of `cc` (97%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.86855670103093.
+462 instances of `cc` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.51948051948052.
 
-The following 20 pairs of parts of speech are connected with `cc`: [gl-pos/NOUN]()-[gl-pos/CONJ]() (289; 37% instances), [gl-pos/VERB]()-[gl-pos/CONJ]() (187; 24% instances), [gl-pos/ADJ]()-[gl-pos/CONJ]() (95; 12% instances), [gl-pos/PROPN]()-[gl-pos/CONJ]() (84; 11% instances), [gl-pos/VERB]()-[gl-pos/SCONJ]() (38; 5% instances), [gl-pos/NOUN]()-[gl-pos/SCONJ]() (18; 2% instances), [gl-pos/ADJ]()-[gl-pos/SCONJ]() (12; 2% instances), [gl-pos/NUM]()-[gl-pos/CONJ]() (11; 1% instances), [gl-pos/PRON]()-[gl-pos/CONJ]() (11; 1% instances), [gl-pos/NOUN]()-[gl-pos/ADV]() (8; 1% instances), [gl-pos/ADV]()-[gl-pos/CONJ]() (7; 1% instances), [gl-pos/PROPN]()-[gl-pos/SCONJ]() (4; 1% instances), [gl-pos/ADV]()-[gl-pos/SCONJ]() (2; 0% instances), [gl-pos/DET]()-[gl-pos/CONJ]() (2; 0% instances), [gl-pos/NOUN]()-[gl-pos/VERB]() (2; 0% instances), [gl-pos/PROPN]()-[gl-pos/ADV]() (2; 0% instances), [gl-pos/ADJ]()-[gl-pos/ADV]() (1; 0% instances), [gl-pos/ADP]()-[gl-pos/CONJ]() (1; 0% instances), [gl-pos/PRON]()-[gl-pos/SCONJ]() (1; 0% instances), [gl-pos/VERB]()-[gl-pos/ADV]() (1; 0% instances).
+The following 16 pairs of parts of speech are connected with `cc`: [gl-pos/NOUN]()-[gl-pos/CCONJ]() (167; 36% instances), [gl-pos/VERB]()-[gl-pos/CCONJ]() (122; 26% instances), [gl-pos/ADJ]()-[gl-pos/CCONJ]() (49; 11% instances), [gl-pos/PROPN]()-[gl-pos/CCONJ]() (37; 8% instances), [gl-pos/VERB]()-[gl-pos/SCONJ]() (20; 4% instances), [gl-pos/NOUN]()-[gl-pos/SCONJ]() (17; 4% instances), [gl-pos/NUM]()-[gl-pos/CCONJ]() (10; 2% instances), [gl-pos/ADV]()-[gl-pos/CCONJ]() (9; 2% instances), [gl-pos/NOUN]()-[gl-pos/ADV]() (8; 2% instances), [gl-pos/ADJ]()-[gl-pos/SCONJ]() (7; 2% instances), [gl-pos/PRON]()-[gl-pos/CCONJ]() (7; 2% instances), [gl-pos/DET]()-[gl-pos/CCONJ]() (3; 1% instances), [gl-pos/PRON]()-[gl-pos/SCONJ]() (2; 0% instances), [gl-pos/VERB]()-[gl-pos/ADV]() (2; 0% instances), [gl-pos/ADJ]()-[gl-pos/ADV]() (1; 0% instances), [gl-pos/PROPN]()-[gl-pos/SCONJ]() (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
-# visual-style 4 1 cc	color:blue
-1	e	e	CONJ	Cc	_	4	cc	_	_
-2	de	de	ADP	P	AdpType=Prep	4	case	_	_
-3	un	un	DET	Dims	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
-4	provocador	provocador	NOUN	Scms	Gender=Masc|Number=Sing	0	root	_	_
-5	a	a	ADP	P	AdpType=Prep	6	case	_	_
-6	outro	outro	PRON	Inms	Gender=Masc|Number=Sing|PronType=Ind	4	nmod	_	_
-7	.	.	PUNCT	Q.	_	4	punct	_	_
+# visual-style 4 3 cc	color:blue
+1	O	o	DET	Ddms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	peón	peón	NOUN	Scms	Gender=Masc|Number=Sing	5	nsubj	_	_
+3	ou	ou	CCONJ	Cc	_	4	cc	_	_
+4	trompo	trompo	NOUN	Scms	Gender=Masc|Number=Sing	2	conj	_	_
+5	baila	bailar	VERB	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	enriba	enriba	ADV	Wn	_	9	advmod	_	_
+7	de	de	ADP	P	AdpType=Prep	9	case	_	_
+8	un	un	DET	Dims	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	pé	pé	NOUN	Scms	Gender=Masc|Number=Sing	5	obl	_	SpaceAfter=No
+10	.	.	PUNCT	Q.	_	5	punct	_	_
 
 ~~~
 
@@ -140,36 +152,39 @@ The following 20 pairs of parts of speech are connected with `cc`: [gl-pos/NOUN]
 ~~~ conllu
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 4 cc	color:blue
-1	por	por	ADP	P	AdpType=Prep	2	mark	_	_
-2	emocionar	emocionar	VERB	V0f000	VerbForm=Inf	0	root	_	_
-3	nos	nos	PRON	Raa1ap	Case=Acc|Gender=Com|Number=Plur|Person=1|PronType=Clit	2	dobj	_	_
-4	e	e	CONJ	Cc	_	2	cc	_	_
-5	facer	facer	VERB	V0f000	VerbForm=Inf	2	conj	_	_
-6	nos	nos	PRON	Raa1ap	Case=Acc|Gender=Com|Number=Plur|Person=1|PronType=Clit	5	dobj	_	_
-7	sentir	sentir	VERB	V0f000	VerbForm=Inf	5	xcomp	_	_
-8	.	.	PUNCT	Q.	_	2	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
-# visual-style 6 7 cc	color:blue
-1	en_xeral	en_xeral	ADV	La0	_	3	advmod	_	_
-2	son	ser	VERB	Vpi30p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
-3	palabras	palabra	NOUN	Scfp	Gender=Fem|Number=Plur	0	root	_	_
-4	de	de	ADP	P	AdpType=Prep	5	case	_	_
-5	uso	uso	NOUN	Scms	Gender=Masc|Number=Sing	3	nmod	_	_
-6	técnico	técnico	ADJ	A0ms	Gender=Masc|Number=Sing	5	amod	_	_
-7	e	e	CONJ	Cc	_	6	cc	_	_
-8	científico	científico	ADJ	A0ms	Gender=Masc|Number=Sing	6	conj	_	_
-9	.	.	PUNCT	Q.	_	3	punct	_	_
+# visual-style 6 4 cc	color:blue
+1	Non	non	ADV	Wn	Polarity=Neg	2	advmod	_	_
+2	sucedeu	suceder	VERB	Vei30s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+3	iso	ese	PRON	Enns	Gender=Neut|Number=Sing|PronType=Dem	2	nsubj	_	_
+4	e	e	CCONJ	Cc	_	6	cc	_	_
+5	nós	nós	PRON	Rtn1ap	Case=Nom|Gender=Com|Number=Plur|Person=1|PronType=Prs	6	nsubj	_	_
+6	entramos	entrar	VERB	Vei10p	Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	2	conj	_	_
+7	en	en	ADP	P	AdpType=Prep	9	case	_	_
+8	o	o	DET	Ddms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	goberno	goberno	NOUN	Scms	Gender=Masc|Number=Sing	6	obl	_	SpaceAfter=No
+10	.	.	PUNCT	Q.	_	2	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 9 8 cc	color:blue
+1	En	en	ADP	P	AdpType=Prep	4	advmod	_	_
+2	xeral	xeral	ADJ	A0ms	Number=Sing	1	fixed	_	_
+3	son	ser	AUX	Vpi30p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+4	palabras	palabra	NOUN	Scfp	Gender=Fem|Number=Plur	0	root	_	_
+5	de	de	ADP	P	AdpType=Prep	6	case	_	_
+6	uso	uso	NOUN	Scms	Gender=Masc|Number=Sing	4	nmod	_	_
+7	técnico	técnico	ADJ	A0ms	Gender=Masc|Number=Sing	6	amod	_	_
+8	e	e	CCONJ	Cc	_	9	cc	_	_
+9	científico	científico	ADJ	A0ms	Gender=Masc|Number=Sing	7	conj	_	SpaceAfter=No
+10	.	.	PUNCT	Q.	_	4	punct	_	_
 
 ~~~
 

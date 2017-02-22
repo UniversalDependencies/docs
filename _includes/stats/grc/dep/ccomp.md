@@ -6,104 +6,80 @@
 
 This relation is universal.
 
-782 nodes (0%) are attached to their parents as `ccomp`.
+1119 nodes (1%) are attached to their parents as `ccomp`.
 
-697 instances of `ccomp` (89%) are left-to-right (parent precedes child).
-Average distance between parent and child is 5.85805626598466.
+974 instances of `ccomp` (87%) are left-to-right (parent precedes child).
+Average distance between parent and child is 4.76854334226988.
 
-The following 3 pairs of parts of speech are connected with `ccomp`: [grc-pos/VERB]()-[grc-pos/VERB]() (780; 100% instances), [grc-pos/ADV]()-[grc-pos/VERB]() (1; 0% instances), [grc-pos/NOUN]()-[grc-pos/VERB]() (1; 0% instances).
+The following 4 pairs of parts of speech are connected with `ccomp`: [grc-pos/VERB]()-[grc-pos/VERB]() (1112; 99% instances), [grc-pos/PUNCT]()-[grc-pos/VERB]() (5; 0% instances), [grc-pos/ADJ]()-[grc-pos/VERB]() (1; 0% instances), [grc-pos/NOUN]()-[grc-pos/VERB]() (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 8 7 ccomp	color:blue
+1	ὡς	ὡς	SCONJ	c--------	_	7	mark	_	_
+2	δὲ	δέ	ADV	d--------	_	9	advmod	_	_
+3	οὐκ	οὐ	ADV	d--------	_	7	advmod	_	_
+4	ἂν	ἄν	ADV	d--------	_	7	advmod	_	_
+5	δικαίως	δίκαιος	ADV	d--------	_	7	advmod	_	_
+6	αὐτοὺς	αὐτός	PRON	p-p---ma-	Case=Acc|Gender=Masc|Number=Plur	7	obj	_	_
+7	δέχοισθε	δέχομαι	VERB	v2ppoe---	Mood=Opt|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Mid	8	ccomp	_	_
+8	μαθεῖν	μανθάνω	VERB	v--ana---	Tense=Past|VerbForm=Inf|Voice=Act	9	csubj	_	_
+9	χρή	χρή	VERB	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	u--------	_	9	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 14	bgColor:blue
+# visual-style 14	fgColor:white
+# visual-style 12	bgColor:blue
+# visual-style 12	fgColor:white
+# visual-style 12 14 ccomp	color:blue
+1	τώ	τῷ	ADV	d--------	_	4	advmod	_	_
+2	ῥα	ἄρα	PART	g--------	_	4	advmod	_	_
+3	προκρόσσας	πρόκροσσοι	ADJ	a-p---fa-	Case=Acc|Gender=Fem|Number=Plur	4	xcomp	_	_
+4	ἔρυσαν	ἐρύω	VERB	v3paia---	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+5	,	,	PUNCT	u--------	_	4	punct	_	_
+6	καὶ	καί	CCONJ	c--------	_	4	cc	_	_
+7	πλῆσαν	πίμπλημι	VERB	v3paia---	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	4	conj	_	_
+8	ἁπάσης	ἅπας	ADJ	a-s---fg-	Case=Gen|Gender=Fem|Number=Sing	9	nmod	_	_
+9	ἠϊόνος	ἠιών	NOUN	n-s---fg-	Case=Gen|Gender=Fem|Number=Sing	10	nmod	_	_
+10	στόμα	στόμα	NOUN	n-s---na-	Case=Acc|Gender=Neut|Number=Sing	12	obj	_	_
+11	μακρόν	μακρός	ADJ	a-s---na-	Case=Acc|Gender=Neut|Number=Sing	10	nmod	_	SpaceAfter=No
+12	,	,	PUNCT	u--------	_	7	punct	_	_
+13	ὅσον	ὅσος	ADJ	a-s---na-	Case=Acc|Gender=Neut|Number=Sing	14	advmod	_	_
+14	συνεέργαθον	συνεέργω	VERB	v3piia---	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	12	ccomp	_	_
+15	ἄκραι	ἄκρα	NOUN	n-p---fn-	Case=Nom|Gender=Fem|Number=Plur	14	nsubj	_	SpaceAfter=No
+16	.	.	PUNCT	u--------	_	4	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 11	bgColor:blue
+# visual-style 11	fgColor:white
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
-# visual-style 2 4 ccomp	color:blue
-1	οὐχ	οὐ	ADV	d--------	_	2	neg	_	_
-2	ὁρᾷς	ὁράω	VERB	v2spia---	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-3	ὅτι	ὅτι	SCONJ	c--------	_	4	mark	_	_
-4	ἥμαρτες	ἁμαρτάνω	VERB	v2saia---	Mood=Ind|Number=Sing|Person=2|Tense=Aor|VerbForm=Fin|Voice=Act	2	ccomp	_	_
-5	;	;	PUNCT	u--------	_	4	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 37	bgColor:blue
-# visual-style 37	fgColor:white
-# visual-style 32	bgColor:blue
-# visual-style 32	fgColor:white
-# visual-style 32 37 ccomp	color:blue
-1	Ὡς	ὡς	SCONJ	c--------	_	11	mark	_	_
-2	δὲ	δέ	ADV	d--------	_	24	cc	_	_
-3	ἀφελκύσαντες	ἀφέλκω	VERB	v-papamn-	Case=Nom|Gender=Masc|Number=Plur|Tense=Aor|VerbForm=Part|Voice=Act	11	advmod	_	_
-4	ἐπὶ	ἐπί	ADP	r--------	_	6	case	_	_
-5	τὴν	ὁ	DET	l-s---fa-	Case=Acc|Gender=Fem|Number=Sing	6	det	_	_
-6	ἠιόνα	ἠιών	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	3	dobj	_	_
-7	τῶν	ὁ	DET	l-p---mg-	Case=Gen|Gender=Masc|Number=Plur	9	det	_	_
-8	μὲν	μέν	ADV	d--------	_	11	advmod	_	_
-9	ἰχθύων	ἰχθύς	NOUN	n-p---mg-	Case=Gen|Gender=Masc|Number=Plur	10	nmod	_	_
-10	ὀλίγους	ὀλίγος	ADJ	a-p---ma-	Case=Acc|Gender=Masc|Number=Plur	11	conj	_	_
-11	εὗρον	εὑρίσκω	VERB	v3paia---	Mood=Ind|Number=Plur|Person=3|Tense=Aor|VerbForm=Fin|Voice=Act	24	conj	_	_
-12	,	,	PUNCT	u--------	_	11	punct	_	_
-13	λίθων	λίθος	NOUN	n-p---mg-	Case=Gen|Gender=Masc|Number=Plur	18	dobj	_	_
-14	δὲ	δέ	ADV	d--------	_	11	cc	_	_
-15	καὶ	καί	CONJ	c--------	_	13	cc	_	_
-16	ἄλλης	ἄλλος	PRON	p-s---fg-	Case=Gen|Gender=Fem|Number=Sing	17	nmod	_	_
-17	ὕλης	ὕλη	NOUN	n-s---fg-	Case=Gen|Gender=Fem|Number=Sing	13	conj	_	_
-18	μεστὴν	μεστός	ADJ	a-s---fa-	Case=Acc|Gender=Fem|Number=Sing	11	xcomp	_	Ellipsis=conj
-19	τὴν	ὁ	DET	l-s---fa-	Case=Acc|Gender=Fem|Number=Sing	20	det	_	_
-20	σαγήνην	σαγήνη	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	18	dobj	_	_
-21	,	,	PUNCT	u--------	_	20	punct	_	_
-22	οὐ	οὐ	ADV	d--------	_	24	neg	_	_
-23	μετρίως	μετρίως	ADV	d--------	_	24	advmod	_	_
-24	ἐβαρυθύμουν	βαρυθυμέω	VERB	v3piia---	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
-25	,	,	PUNCT	u--------	_	24	punct	_	_
-26	οὐ	οὐ	ADV	d--------	_	27	neg	_	_
-27	τοσοῦτον	τοσοῦτον	ADV	d--------	_	31	advmod	_	_
-28	ἐπὶ	ἐπί	ADP	r--------	_	30	case	_	_
-29	τῷ	ὁ	DET	l-s---md-	Case=Dat|Gender=Masc|Number=Sing	30	det	_	_
-30	συμβεβηκότι	συμβαίνω	VERB	v-srpand-	Aspect=Perf|Case=Dat|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	27	nmod	_	_
-31	δυσφοροῦντες	δυσφορέω	VERB	v-pppamn-	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	24	advmod	_	_
-32	ὅσον	ὅσον	ADV	d--------	_	27	advmod	_	_
-33	ὅτι	ὅτι	SCONJ	c--------	_	37	mark	_	_
-34	καὶ	καί	CONJ	c--------	_	37	advmod	_	_
-35	τὰ	ὁ	DET	l-p---na-	Case=Acc|Gender=Neut|Number=Plur	36	det	_	_
-36	ἐναντία	ἐναντίος	ADJ	a-p---na-	Case=Acc|Gender=Neut|Number=Plur	37	dobj	_	_
-37	προειλήφεισαν	προλαμβάνω	VERB	v3plia---	Mood=Ind|Number=Plur|Person=3|Tense=Pqp|VerbForm=Fin|Voice=Act	32	ccomp	_	Ellipsis=advmod
-38	.	.	PUNCT	u--------	_	37	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 20	bgColor:blue
-# visual-style 20	fgColor:white
-# visual-style 13	bgColor:blue
-# visual-style 13	fgColor:white
-# visual-style 13 20 ccomp	color:blue
-1	Ἀργεῖοι	Ἀργεῖος	NOUN	n-p---mn-	Case=Nom|Gender=Masc|Number=Plur	5	nsubj	_	_
-2	μὲν	μέν	ADV	d--------	_	5	advmod	_	_
-3	γὰρ	γάρ	ADV	d--------	_	5	advmod	_	_
-4	περιστάντες	περιίστημι	VERB	v-pppamn-	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	5	advmod	_	_
-5	ἐμακάριζον	μακαρίζω	VERB	v3piia---	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
-6	τῶν	ὁ	DET	l-p---mg-	Case=Gen|Gender=Masc|Number=Plur	7	det	_	_
-7	νεηνιέων	νεανίης	NOUN	n-p---mg-	Case=Gen|Gender=Masc|Number=Plur	9	nmod	_	_
-8	τὴν	ὁ	DET	l-s---fa-	Case=Acc|Gender=Fem|Number=Sing	9	det	_	_
-9	ῥώμην	ῥώμη	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	5	dobj	_	_
-10	,	,	PUNCT	u--------	_	5	punct	_	_
-11	αἱ	ὁ	DET	l-p---fn-	Case=Nom|Gender=Fem|Number=Plur	13	det	_	_
-12	δὲ	δέ	CONJ	c--------	_	5	cc	_	_
-13	Ἀργεῖαι	Ἀργεῖα	NOUN	n-p---fn-	Case=Nom|Gender=Fem|Number=Plur	5	nsubj	_	Ellipsis=conj
-14	τὴν	ὁ	DET	l-s---fa-	Case=Acc|Gender=Fem|Number=Sing	15	det	_	_
-15	μητέρα	μήτηρ	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	13	dobj	_	_
-16	αὐτῶν	αὐτός	PRON	p-p---mg-	Case=Gen|Gender=Masc|Number=Plur	15	nmod	_	_
-17	,	,	PUNCT	u--------	_	20	punct	_	_
-18	οἵων	οἷος	ADJ	a-p---ng-	Case=Gen|Gender=Neut|Number=Plur	19	amod	_	_
-19	τέκνων	τέκνον	NOUN	n-p---ng-	Case=Gen|Gender=Neut|Number=Plur	20	dobj	_	_
-20	ἐκύρησε	κυρέω	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Aor|VerbForm=Fin|Voice=Act	13	ccomp	_	_
-21	·	·	PUNCT	u--------	_	20	punct	_	_
+# visual-style 2 11 ccomp	color:blue
+1	οὐ	οὐ	ADV	d--------	_	3	advmod	_	_
+2	γνώμαν	γνώμη	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	3	obj	_	_
+3	ἴσχεις	ἴσχω	VERB	v2spia---	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4	ἐξ	ἐκ	ADP	r--------	_	5	case	_	_
+5	οἵων	οἷος	ADJ	a-p---ng-	Case=Gen|Gender=Neut|Number=Plur	11	obl	_	_
+6	τὰ	ὁ	DET	l-p---na-	Case=Acc|Gender=Neut|Number=Plur	7	det	_	_
+7	παρόντ̓	πάρειμι	VERB	v-pppana-	Case=Acc|Gender=Neut|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	11	advmod	_	_
+8	οἰκείας	οἰκεῖος	ADJ	a-p---fa-	Case=Acc|Gender=Fem|Number=Plur	10	nmod	_	_
+9	εἰς	εἰς	ADP	r--------	_	10	case	_	_
+10	ἄτας	ἄτη	NOUN	n-p---fa-	Case=Acc|Gender=Fem|Number=Plur	11	obl	_	_
+11	ἐμπίπτεις	ἐμπίπτω	VERB	v2spia---	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	2	ccomp	_	_
+12	οὕτως	οὕτως	ADV	d--------	_	13	advmod	_	_
+13	αἰκῶς	ἀεικής	ADV	d--------	_	11	advmod	_	SpaceAfter=No
+14	;	;	PUNCT	u--------	_	3	punct	_	_
 
 ~~~
 
@@ -116,59 +92,66 @@ The following 3 pairs of parts of speech are connected with `ccomp`: [grc-pos/VE
 
 This relation is universal.
 
-2737 nodes (1%) are attached to their parents as `ccomp`.
+2592 nodes (1%) are attached to their parents as `ccomp`.
 
-2543 instances of `ccomp` (93%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.57289002557545.
+2405 instances of `ccomp` (93%) are left-to-right (parent precedes child).
+Average distance between parent and child is 4.50925925925926.
 
-The following 29 pairs of parts of speech are connected with `ccomp`: [grc-pos/VERB]()-[grc-pos/VERB]() (1798; 66% instances), [grc-pos/ADJ]()-[grc-pos/VERB]() (194; 7% instances), [grc-pos/VERB]()-[grc-pos/ADJ]() (152; 6% instances), [grc-pos/VERB]()-[grc-pos/NOUN]() (127; 5% instances), [grc-pos/NOUN]()-[grc-pos/VERB]() (125; 5% instances), [grc-pos/VERB]()-[grc-pos/SCONJ]() (85; 3% instances), [grc-pos/VERB]()-[grc-pos/PRON]() (79; 3% instances), [grc-pos/ADV]()-[grc-pos/VERB]() (65; 2% instances), [grc-pos/VERB]()-[grc-pos/ADV]() (31; 1% instances), [grc-pos/VERB]()-[grc-pos/PROPN]() (25; 1% instances), [grc-pos/PRON]()-[grc-pos/VERB]() (12; 0% instances), [grc-pos/NOUN]()-[grc-pos/ADJ]() (6; 0% instances), [grc-pos/NOUN]()-[grc-pos/NOUN]() (5; 0% instances), [grc-pos/VERB]()-[grc-pos/CONJ]() (5; 0% instances), [grc-pos/ADP]()-[grc-pos/VERB]() (4; 0% instances), [grc-pos/CONJ]()-[grc-pos/VERB]() (4; 0% instances), [grc-pos/PROPN]()-[grc-pos/VERB]() (3; 0% instances), [grc-pos/VERB]()-[grc-pos/NUM]() (3; 0% instances), [grc-pos/ADJ]()-[grc-pos/ADV]() (2; 0% instances), [grc-pos/ADV]()-[grc-pos/ADJ]() (2; 0% instances), [grc-pos/CONJ]()-[grc-pos/PRON]() (2; 0% instances), [grc-pos/ADJ]()-[grc-pos/ADJ]() (1; 0% instances), [grc-pos/ADJ]()-[grc-pos/INTJ]() (1; 0% instances), [grc-pos/ADJ]()-[grc-pos/NOUN]() (1; 0% instances), [grc-pos/ADJ]()-[grc-pos/SCONJ]() (1; 0% instances), [grc-pos/ADV]()-[grc-pos/PROPN]() (1; 0% instances), [grc-pos/INTJ]()-[grc-pos/VERB]() (1; 0% instances), [grc-pos/NOUN]()-[grc-pos/PRON]() (1; 0% instances), [grc-pos/SCONJ]()-[grc-pos/NUM]() (1; 0% instances).
-
-
-~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 1 3 ccomp	color:blue
-1	Ἠκούσατε	ἀκούω	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
-2	ὅτι	ὅτι	SCONJ	G-	_	3	mark	_	_
-3	ἐρρέθη	λέγω	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	1	ccomp	_	_
-
-~~~
+The following 32 pairs of parts of speech are connected with `ccomp`: [grc-pos/VERB]()-[grc-pos/VERB]() (1629; 63% instances), [grc-pos/ADJ]()-[grc-pos/VERB]() (186; 7% instances), [grc-pos/VERB]()-[grc-pos/ADJ]() (146; 6% instances), [grc-pos/VERB]()-[grc-pos/NOUN]() (127; 5% instances), [grc-pos/NOUN]()-[grc-pos/VERB]() (115; 4% instances), [grc-pos/VERB]()-[grc-pos/SCONJ]() (77; 3% instances), [grc-pos/VERB]()-[grc-pos/PRON]() (74; 3% instances), [grc-pos/ADV]()-[grc-pos/VERB]() (60; 2% instances), [grc-pos/VERB]()-[grc-pos/AUX]() (48; 2% instances), [grc-pos/VERB]()-[grc-pos/ADV]() (32; 1% instances), [grc-pos/VERB]()-[grc-pos/PROPN]() (28; 1% instances), [grc-pos/AUX]()-[grc-pos/VERB]() (10; 0% instances), [grc-pos/PRON]()-[grc-pos/VERB]() (9; 0% instances), [grc-pos/ADV]()-[grc-pos/ADJ]() (6; 0% instances), [grc-pos/NOUN]()-[grc-pos/ADJ]() (6; 0% instances), [grc-pos/CCONJ]()-[grc-pos/VERB]() (5; 0% instances), [grc-pos/ADP]()-[grc-pos/VERB]() (4; 0% instances), [grc-pos/NOUN]()-[grc-pos/NOUN]() (4; 0% instances), [grc-pos/VERB]()-[grc-pos/CCONJ]() (4; 0% instances), [grc-pos/VERB]()-[grc-pos/NUM]() (4; 0% instances), [grc-pos/ADJ]()-[grc-pos/ADV]() (3; 0% instances), [grc-pos/ADJ]()-[grc-pos/AUX]() (3; 0% instances), [grc-pos/ADV]()-[grc-pos/AUX]() (3; 0% instances), [grc-pos/ADJ]()-[grc-pos/INTJ]() (1; 0% instances), [grc-pos/ADJ]()-[grc-pos/NOUN]() (1; 0% instances), [grc-pos/ADV]()-[grc-pos/PRON]() (1; 0% instances), [grc-pos/ADV]()-[grc-pos/PROPN]() (1; 0% instances), [grc-pos/CCONJ]()-[grc-pos/ADJ]() (1; 0% instances), [grc-pos/CCONJ]()-[grc-pos/PRON]() (1; 0% instances), [grc-pos/INTJ]()-[grc-pos/VERB]() (1; 0% instances), [grc-pos/NOUN]()-[grc-pos/PRON]() (1; 0% instances), [grc-pos/PROPN]()-[grc-pos/VERB]() (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
-# visual-style 4 10 ccomp	color:blue
-1	κύριε	κύριος	NOUN	Nb	Case=Voc|Gender=Masc|Number=Sing	4	vocative	_	_
-2	οὐκ	οὐ	ADV	Df	_	4	neg	_	_
-3	εἰμὶ	εἰμί#1	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	4	cop	_	_
-4	ἱκανὸς	ἱκανός	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	0	root	_	_
-5	ἵνα	ἵνα	SCONJ	G-	_	10	mark	_	_
-6	μου	ἐγώ	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=1|PronType=Prs	9	nmod	_	_
-7	ὑπὸ	ὑπό	ADP	R-	_	9	case	_	_
-8	τὴν	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	9	det	_	_
-9	στέγην	στέγη	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	10	iobj	_	_
-10	εἰσέλθῃς	εἰσέρχομαι	VERB	V-	Aspect=Perf|Mood=Sub|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	4	ccomp	_	_
+# visual-style 4 8 ccomp	color:blue
+1	ὁ	ὁ	PRON	Pp	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	nsubj	_	ref=1.11.1
+2	δὲ	δέ	ADV	Df	_	9	discourse	_	ref=1.11.1
+3	οὐδὲν	οὐδείς	ADJ	Px	Case=Acc|Gender=Neut|Number=Sing	8	obj:dir	_	ref=1.11.1
+4	δοκέων	δοκέω	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	9	advcl	_	ref=1.11.1
+5	αὐτήν	αὐτός	PRON	Pp	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	ref=1.11.1
+6	τῶν	ὁ	DET	S-	Case=Gen|Definite=Def|Number=Plur|PronType=Dem	7	det	_	ref=1.11.1
+7	πρηχθέντων	πράσσω	VERB	V-	Aspect=Perf|Case=Gen|Gender=Neut|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	3	nmod	_	ref=1.11.1
+8	ἐπίστασθαι	ἐπίσταμαι	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Mid	4	ccomp	_	ref=1.11.1
+9	ἦλθε	ἔρχομαι	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=1.11.1
+10	καλεόμενος	καλέω	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	9	advcl	_	ref=1.11.1
 
 ~~~
 
 
 ~~~ conllu
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 1 3 ccomp	color:blue
-1	φροντίζω	φροντίζω	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-2	μὴ	μή	SCONJ	G-	_	3	mark	_	_
-3	ἄριστον	ἀγαθός	ADJ	A-	Case=Nom|Degree=Sup|Gender=Neut|Number=Sing	1	ccomp	_	_
-4	ᾖ	εἰμί#1	VERB	V-	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	cop	_	_
-5	ἐξανδραποδίσασθαι	ἐξανδραποδίζω	VERB	V-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Mid	3	ccomp	_	_
-6	σφέας	σφεῖς	PRON	Pp	Case=Acc|Gender=Masc|Number=Plur|Person=3|PronType=Prs	5	dobj	_	_
+# visual-style 3 4 ccomp	color:blue
+1	οὐκέτι	οὐκέτι	ADV	Df	Polarity=Neg	3	advmod	_	ref=LUKE_15.19
+2	εἰμὶ	εἰμί#1	AUX	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	3	cop	_	ref=LUKE_15.19
+3	ἄξιος	ἄξιος	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	0	root	_	ref=LUKE_15.19
+4	κληθῆναι	καλέω	VERB	V-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Pass	3	ccomp	_	ref=LUKE_15.19
+5	υἱός	υἱός	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	4	xcomp	_	ref=LUKE_15.19
+6	σου	σύ	PRON	Pp	Case=Gen|Gender=Fem,Masc|Number=Sing|Person=2|PronType=Prs	5	det	_	ref=LUKE_15.19
+
+~~~
+
+
+~~~ conllu
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 5 ccomp	color:blue
+1	ὁ	ὁ	PRON	Pp	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	ref=1.112.2
+2	δὲ	δέ	ADV	Df	_	4	discourse	_	ref=1.112.2
+3	οὐκ	οὐ	ADV	Df	Polarity=Neg	5	advmod	_	ref=1.112.2
+4	ἔφη	φημί	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=1.112.2
+5	οἷός	οἷος	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	4	ccomp	_	ref=1.112.2
+6	τ’	τε	ADV	Df	_	5	discourse	_	ref=1.112.2
+7	εἶναι	εἰμί#1	AUX	V-	Tense=Pres|VerbForm=Inf|Voice=Act	5	cop	_	ref=1.112.2
+8	ἄλλως	ἄλλως	ADV	Df	Degree=Pos	10	advmod	_	ref=1.112.2
+9	αὐτὰ	αὐτός	PRON	Pp	Case=Acc|Gender=Neut|Number=Plur|Person=3|PronType=Prs	10	obj:dir	_	ref=1.112.2
+10	ποιέειν	ποιέω	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	5	acl	_	ref=1.112.2
 
 ~~~
 

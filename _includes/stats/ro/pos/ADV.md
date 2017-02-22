@@ -4,55 +4,54 @@
 
 ## Treebank Statistics (UD_Romanian)
 
-There are 591 `ADV` lemmas (3%), 599 `ADV` types (2%) and 9439 `ADV` tokens (4%).
+There are 658 `ADV` lemmas (4%), 666 `ADV` types (2%) and 8857 `ADV` tokens (4%).
 Out of 17 observed tags, the rank of `ADV` is: 6 in number of lemmas, 6 in number of types and 8 in number of tokens.
 
-The 10 most frequent `ADV` lemmas: <em>mai, ca, când, cum, iar, astfel, nici, decât, numai, mult</em>
+The 10 most frequent `ADV` lemmas: <em>mai, ca, când, cum, iar, nici, astfel, decât, numai, mult</em>
 
-The 10 most frequent `ADV` types:  <em>mai, ca, când, cum, iar, astfel, nici, decât, numai, mult</em>
+The 10 most frequent `ADV` types:  <em>mai, ca, când, cum, iar, nici, astfel, decât, numai, mult</em>
 
-The 10 most frequent ambiguous lemmas: <em>mai</em> ([ADV]() 1267, [NOUN]() 3), <em>ca</em> ([ADV]() 719, [ADP]() 16), <em>decât</em> ([ADV]() 173, [ADP]() 1), <em>mult</em> ([DET]() 173, [ADV]() 159, [PRON]() 48, [ADJ]() 3), <em>așa</em> ([ADV]() 148, [ADJ]() 9), <em>puțin</em> ([ADV]() 143, [DET]() 17, [PRON]() 5, [NOUN]() 1, [ADJ]() 1), <em>cât</em> ([ADV]() 140, [DET]() 22, [PRON]() 8), <em>aproape</em> ([ADV]() 103, [NOUN]() 1), <em>atât</em> ([ADV]() 100, [DET]() 29, [PRON]() 8), <em>bine</em> ([ADV]() 98, [NOUN]() 1)
+The 10 most frequent ambiguous lemmas: <em>mai</em> ([ADV]() 1150, [NOUN]() 23), <em>ca</em> ([ADV]() 680, [ADP]() 14), <em>decât</em> ([ADV]() 161, [ADP]() 1), <em>mult</em> ([DET]() 156, [ADV]() 150, [PRON]() 40, [ADJ]() 3), <em>așa</em> ([ADV]() 140, [ADJ]() 8), <em>puțin</em> ([ADV]() 131, [DET]() 15, [PRON]() 5, [ADJ]() 1, [NOUN]() 1), <em>cât</em> ([ADV]() 129, [DET]() 22, [PRON]() 6), <em>aproape</em> ([ADV]() 99, [NOUN]() 1), <em>atât</em> ([ADV]() 93, [DET]() 25, [PRON]() 8), <em>bine</em> ([ADV]() 91, [NOUN]() 2)
 
-The 10 most frequent ambiguous types:  <em>mai</em> ([ADV]() 1223, [NOUN]() 3), <em>ca</em> ([ADV]() 677, [ADP]() 15), <em>decât</em> ([ADV]() 173, [ADP]() 1), <em>mult</em> ([ADV]() 159, [DET]() 11), <em>unde</em> ([ADV]() 145, [NOUN]() 2), <em>puțin</em> ([ADV]() 141, [DET]() 4, [NOUN]() 1), <em>așa</em> ([ADV]() 123, [ADJ]() 9), <em>cât</em> ([ADV]() 136, [DET]() 1), <em>atât</em> ([ADV]() 96, [PRON]() 5, [DET]() 2), <em>tot</em> ([ADV]() 59, [PRON]() 25, [DET]() 22)
+The 10 most frequent ambiguous types:  <em>mai</em> ([ADV]() 1109, [NOUN]() 23), <em>ca</em> ([ADV]() 640, [ADP]() 13), <em>decât</em> ([ADV]() 161, [ADP]() 1), <em>mult</em> ([ADV]() 150, [DET]() 11), <em>așa</em> ([ADV]() 115, [ADJ]() 8), <em>puțin</em> ([ADV]() 130, [DET]() 3, [NOUN]() 1), <em>cât</em> ([ADV]() 125, [DET]() 3), <em>atât</em> ([ADV]() 90, [PRON]() 5, [DET]() 1), <em>bine</em> ([ADV]() 87, [NOUN]() 1), <em>precum</em> ([ADV]() 86, [ADP]() 1)
 
 
 * <em>mai</em>
-  * [ADV]() 1223: <em>Winston știa că trec , dar numai din când în când îi <b>mai</b> și vedea .</em>
-  * [NOUN]() 3: <em>Era în ziua de 2 <b>mai</b> .</em>
+  * [ADV]() 1109: <em>Pe loc , repaus ! lătră instructoarea , <b>mai</b> blând .</em>
+  * [NOUN]() 23: <em>Era în ziua de 2 <b>mai</b> .</em>
 * <em>ca</em>
-  * [ADV]() 677: <em>Țara arde și tu -mi stai înfipt în podele <b>ca</b> un par ?</em>
-  * [ADP]() 15: <em>muncește , poate și- un secol , <b>ca</b> boul , la o rimă .</em>
+  * [ADV]() 640: <em>În dosarele poliției geneveze era notat <b>ca</b> „ dangereux ” .</em>
+  * [ADP]() 13: <em>În 1862 este transferat , <b>ca</b> referent și judecător , la Pesta .</em>
 * <em>decât</em>
-  * [ADV]() 173: <em>noi nu ți- am dăruit <b>decât</b> o păpușă , o acadea și- o tamburină .</em>
+  * [ADV]() 161: <em>De înecat , afară , nu te- ai fi putut îneca <b>decât</b> c- un os de pește .</em>
   * [ADP]() 1: <em>În cazul în care suma datorată pentru operațiile efective de pescuit este mai mică <b>decât</b> plata anticipată , suma scadentă nu se poate recupera de către armator .</em>
 * <em>mult</em>
-  * [ADV]() 159: <em>La izolator , zilele trec cu <b>mult</b> mai încet decât în celulă .</em>
+  * [ADV]() 150: <em>Științific e cam <b>mult</b> spus , zise el .</em>
   * [DET]() 11: <em>Mai luă una și avu mai <b>mult</b> succes .</em>
-* <em>unde</em>
-  * [ADV]() 145: <em>Printre râpe galbene , pe <b>unde</b> puteau , soldații făceau exerciții .</em>
-  * [NOUN]() 2: <em>Pentru a avea <b>unde</b> staționare trebuie ca proiecțiile laturilor incintei pe direcția normalei la frontul de undă să fie un număr întreg .</em>
-* <em>puțin</em>
-  * [ADV]() 141: <em>Cel <b>puțin</b> nu i se poate nega o mare sete de cunoaștere generală .</em>
-  * [DET]() 4: <em>Am avut <b>puțin</b> noroc .</em>
-  * [NOUN]() 1: <em>Spală -ți fața cu cel <b>puțin</b> jumătate de ora înainte să pleci afară .</em>
 * <em>așa</em>
-  * [ADV]() 123: <em>Eu <b>așa</b> am spus to' timpu' .</em>
-  * [ADJ]() 9: <em>Barosanul a înțeles și a aranjat lucrurile în <b>așa</b> fel ca toată lumea să fie mulțumită .</em>
+  * [ADV]() 115: <em>foiletoanele sunt , <b>așa</b> cum se obișnuia , preluate din ziarele franceze .</em>
+  * [ADJ]() 8: <em>Barosanul a înțeles și a aranjat lucrurile în <b>așa</b> fel ca toată lumea să fie mulțumită .</em>
+* <em>puțin</em>
+  * [ADV]() 130: <em>Dar acesta , părând că reflectează <b>puțin</b> , nu scoase o vorbă .</em>
+  * [DET]() 3: <em>După <b>puțin</b> timp , s- a dus în camera lui Oliver și a găsit , în ghiozdanul lui , un baton de ciocolată Nux și l- a mâncat .</em>
+  * [NOUN]() 1: <em>Spală -ți fața cu cel <b>puțin</b> jumătate de ora înainte să pleci afară .</em>
 * <em>cât</em>
-  * [ADV]() 136: <em>La <b>cât</b> ieși de la slujbă ?</em>
-  * [DET]() 1: <em>Adăugați 5 ml de apă peste pulbere folosind o seringă cu gradații ( numită “ seringă gradată ” ) pentru a arăta <b>cât</b> lichid a fost tras .</em>
+  * [ADV]() 125: <em>Contribuie <b>cât</b> poți la măreția omului .</em>
+  * [DET]() 3: <em>Adăugați 5 ml de apă peste pulbere folosind o seringă cu gradații ( numită “ seringă gradată ” ) pentru a arăta <b>cât</b> lichid a fost tras .</em>
 * <em>atât</em>
-  * [ADV]() 96: <em>Nu știu , zău , se fac <b>atât</b> de zgomotoși , zise ea .</em>
+  * [ADV]() 90: <em>Nu știu , zău , se fac <b>atât</b> de zgomotoși , zise ea .</em>
   * [PRON]() 5: <em>E uimitor să constați ce savante configurări scoate din <b>atât</b> de puțină substanță .</em>
-  * [DET]() 2: <em>Dacă încetați să luați Tarceva Este important să continuați să luați Tarceva în fiecare zi , <b>atât</b> timp cât v- a recomandat medicul dumneavoastră .</em>
-* <em>tot</em>
-  * [ADV]() 59: <em>Winston îl mai văzuse pe O'Brien poate de zece ori în <b>tot</b> atâția ani .</em>
-  * [PRON]() 25: <em>Iar din <b>tot</b> ce înghițise Oltul nimic nu mai ieșea la fața apei ;</em>
-  * [DET]() 22: <em>N- ar fi fost imposibil nici să urmărească pe toată lumea <b>tot</b> timpul .</em>
+  * [DET]() 1: <em>( 8 ) Articolul 4 alineatul ( 2 ) din Acordul de modificare prevede că Acordul între Comunitatea Europeană și Confederația Elvețiană se aplică și teritoriului Principatului Liechtenstein <b>atât</b> timp cât se menține uniunea vamală cu Elveția .</em>
+* <em>bine</em>
+  * [ADV]() 87: <em>Așa <b>bine</b> ce v- am tălmăcit , și un copil putea să înțeleagă .</em>
+  * [NOUN]() 1: <em>Nu va face nici un <b>bine</b> să răzbuni moartea mea omorându -l pe el .</em>
+* <em>precum</em>
+  * [ADV]() 86: <em>Alte romane , <b>precum</b> Acasă și Pe drumuri , sunt interzise de cenzură .</em>
+  * [ADP]() 1: <em>Începutul secolului al XX -lea a fost , de asemenea , o perioadă importantă pentru proza românească , în care au activat personalități <b>precum</b> romancierii Liviu Rebreanu , Mihail Sadoveanu și Camil Petrescu .</em>
 
 ## Morphology
 
-The form / lemma ratio of `ADV` is 1.013536 (the average of all parts of speech is 1.826835).
+The form / lemma ratio of `ADV` is 1.012158 (the average of all parts of speech is 1.812886).
 
 The 1st highest number of forms (3) was observed with the lemma “așa”: <em>-așa, așa, așa-</em>.
 
@@ -60,32 +59,32 @@ The 2nd highest number of forms (2) was observed with the lemma “afară”: <e
 
 The 3rd highest number of forms (2) was observed with the lemma “aici”: <em>-aici, aici</em>.
 
-`ADV` occurs with 4 features: [ro-feat/Degree]() (5450; 58% instances), [ro-feat/PronType]() (1297; 14% instances), [ro-feat/Abbr]() (17; 0% instances), [ro-feat/Variant]() (13; 0% instances)
+`ADV` occurs with 5 features: [ro-feat/Degree]() (5180; 58% instances), [ro-feat/PronType]() (1191; 13% instances), [ro-feat/Abbr]() (16; 0% instances), [ro-feat/Variant]() (12; 0% instances), [ro-feat/Polarity]() (3; 0% instances)
 
-`ADV` occurs with 7 feature-value pairs: `Abbr=Yes`, `Degree=Cmp`, `Degree=Pos`, `Degree=Sup`, `PronType=Int,Rel`, `PronType=Neg`, `Variant=Short`
+`ADV` occurs with 8 feature-value pairs: `Abbr=Yes`, `Degree=Cmp`, `Degree=Pos`, `Degree=Sup`, `Polarity=Neg`, `PronType=Int,Rel`, `PronType=Neg`, `Variant=Short`
 
-`ADV` occurs with 10 feature combinations.
-The most frequent feature combination is `Degree=Pos` (5416 tokens).
-Examples: <em>astfel, numai, mult, înainte, chiar, puțin, așa, atunci, încă, aproape</em>
+`ADV` occurs with 11 feature combinations.
+The most frequent feature combination is `Degree=Pos` (5144 tokens).
+Examples: <em>astfel, numai, mult, înainte, așa, chiar, puțin, aproape, încă, atunci</em>
 
 
 ## Relations
 
-`ADV` nodes are attached to their parents using 32 different relations: [ro-dep/advmod]() (6571; 70% instances), [ro-dep/mwe]() (715; 8% instances), [ro-dep/mark]() (396; 4% instances), [ro-dep/case]() (361; 4% instances), [ro-dep/cc]() (277; 3% instances), [ro-dep/amod]() (179; 2% instances), [ro-dep/root]() (175; 2% instances), [ro-dep/nmod]() (162; 2% instances), [ro-dep/conj]() (141; 1% instances), [ro-dep/advmod:tmod]() (113; 1% instances), [ro-dep/det]() (68; 1% instances), [ro-dep/advcl]() (49; 1% instances), [ro-dep/xcomp]() (42; 0% instances), [ro-dep/acl]() (35; 0% instances), [ro-dep/cc:preconj]() (24; 0% instances), [ro-dep/ccomp]() (19; 0% instances), [ro-dep/nmod:tmod]() (17; 0% instances), [ro-dep/nsubj]() (17; 0% instances), [ro-dep/csubj]() (16; 0% instances), [ro-dep/appos]() (15; 0% instances), [ro-dep/parataxis]() (15; 0% instances), [ro-dep/dobj]() (13; 0% instances), [ro-dep/remnant]() (6; 0% instances), [ro-dep/name]() (4; 0% instances), [ro-dep/nmod:pmod]() (2; 0% instances), [ro-dep/advcl:tcl]() (1; 0% instances), [ro-dep/ccomp:pmod]() (1; 0% instances), [ro-dep/csubjpass]() (1; 0% instances), [ro-dep/dep]() (1; 0% instances), [ro-dep/discourse]() (1; 0% instances), [ro-dep/goeswith]() (1; 0% instances), [ro-dep/reparandum]() (1; 0% instances)
+`ADV` nodes are attached to their parents using 31 different relations: [ro-dep/advmod]() (6280; 71% instances), [ro-dep/fixed]() (667; 8% instances), [ro-dep/mark]() (375; 4% instances), [ro-dep/case]() (335; 4% instances), [ro-dep/cc]() (250; 3% instances), [ro-dep/root]() (168; 2% instances), [ro-dep/amod]() (145; 2% instances), [ro-dep/conj]() (133; 2% instances), [ro-dep/advmod:tmod]() (102; 1% instances), [ro-dep/det]() (77; 1% instances), [ro-dep/obl]() (57; 1% instances), [ro-dep/advcl]() (49; 1% instances), [ro-dep/xcomp]() (36; 0% instances), [ro-dep/nmod]() (30; 0% instances), [ro-dep/acl]() (26; 0% instances), [ro-dep/cc:preconj]() (24; 0% instances), [ro-dep/csubj]() (17; 0% instances), [ro-dep/ccomp]() (15; 0% instances), [ro-dep/parataxis]() (14; 0% instances), [ro-dep/appos]() (13; 0% instances), [ro-dep/nsubj]() (13; 0% instances), [ro-dep/obj]() (12; 0% instances), [ro-dep/nmod:tmod]() (6; 0% instances), [ro-dep/flat]() (4; 0% instances), [ro-dep/orphan]() (3; 0% instances), [ro-dep/advcl:tcl]() (1; 0% instances), [ro-dep/ccomp:pmod]() (1; 0% instances), [ro-dep/csubj:pass]() (1; 0% instances), [ro-dep/discourse]() (1; 0% instances), [ro-dep/nmod:pmod]() (1; 0% instances), [ro-dep/reparandum]() (1; 0% instances)
 
-Parents of `ADV` nodes belong to 17 different parts of speech: [VERB]() (4164; 44% instances), [NOUN]() (1813; 19% instances), [ADJ]() (1166; 12% instances), [ADV]() (930; 10% instances), [ADP]() (484; 5% instances), [DET]() (252; 3% instances), [ROOT]() (175; 2% instances), [PRON]() (169; 2% instances), [NUM]() (157; 2% instances), [PROPN]() (83; 1% instances), [CONJ]() (16; 0% instances), [SCONJ]() (8; 0% instances), [AUX]() (7; 0% instances), [INTJ]() (6; 0% instances), [PART]() (4; 0% instances), [SYM]() (4; 0% instances), [X]() (1; 0% instances)
+Parents of `ADV` nodes belong to 16 different parts of speech: [VERB]() (3934; 44% instances), [NOUN]() (1674; 19% instances), [ADJ]() (1083; 12% instances), [ADV]() (880; 10% instances), [ADP]() (453; 5% instances), [DET]() (236; 3% instances), [ROOT]() (168; 2% instances), [PRON]() (163; 2% instances), [NUM]() (143; 2% instances), [PROPN]() (78; 1% instances), [CCONJ]() (15; 0% instances), [AUX]() (11; 0% instances), [SCONJ]() (9; 0% instances), [INTJ]() (5; 0% instances), [PART]() (4; 0% instances), [X]() (1; 0% instances)
 
-6811 (72%) `ADV` nodes are leaves.
+6342 (72%) `ADV` nodes are leaves.
 
-1769 (19%) `ADV` nodes have one child.
+1737 (20%) `ADV` nodes have one child.
 
-436 (5%) `ADV` nodes have two children.
+403 (5%) `ADV` nodes have two children.
 
-423 (4%) `ADV` nodes have three or more children.
+375 (4%) `ADV` nodes have three or more children.
 
-The highest child degree of a `ADV` node is 12.
+The highest child degree of a `ADV` node is 9.
 
-Children of `ADV` nodes are attached using 39 different relations: [ro-dep/punct]() (888; 20% instances), [ro-dep/mwe]() (837; 19% instances), [ro-dep/advmod]() (729; 17% instances), [ro-dep/case]() (490; 11% instances), [ro-dep/cop]() (268; 6% instances), [ro-dep/nmod]() (207; 5% instances), [ro-dep/conj]() (134; 3% instances), [ro-dep/csubj]() (129; 3% instances), [ro-dep/cc]() (101; 2% instances), [ro-dep/advcl]() (92; 2% instances), [ro-dep/nsubj]() (92; 2% instances), [ro-dep/mark]() (81; 2% instances), [ro-dep/neg]() (41; 1% instances), [ro-dep/det]() (39; 1% instances), [ro-dep/parataxis]() (37; 1% instances), [ro-dep/aux]() (33; 1% instances), [ro-dep/nummod]() (24; 1% instances), [ro-dep/ccomp:pmod]() (17; 0% instances), [ro-dep/nmod:pmod]() (17; 0% instances), [ro-dep/appos]() (16; 0% instances), [ro-dep/ccomp]() (16; 0% instances), [ro-dep/amod]() (14; 0% instances), [ro-dep/dobj]() (11; 0% instances), [ro-dep/goeswith]() (8; 0% instances), [ro-dep/iobj]() (6; 0% instances), [ro-dep/acl]() (5; 0% instances), [ro-dep/advmod:tmod]() (5; 0% instances), [ro-dep/remnant]() (4; 0% instances), [ro-dep/discourse]() (3; 0% instances), [ro-dep/cc:preconj]() (2; 0% instances), [ro-dep/advcl:tcl]() (1; 0% instances), [ro-dep/compound]() (1; 0% instances), [ro-dep/csubjpass]() (1; 0% instances), [ro-dep/foreign]() (1; 0% instances), [ro-dep/name]() (1; 0% instances), [ro-dep/nmod:agent]() (1; 0% instances), [ro-dep/nmod:tmod]() (1; 0% instances), [ro-dep/vocative]() (1; 0% instances), [ro-dep/xcomp]() (1; 0% instances)
+Children of `ADV` nodes are attached using 36 different relations: [ro-dep/punct]() (818; 20% instances), [ro-dep/advmod]() (742; 18% instances), [ro-dep/fixed]() (712; 18% instances), [ro-dep/case]() (435; 11% instances), [ro-dep/cop]() (251; 6% instances), [ro-dep/obl]() (168; 4% instances), [ro-dep/conj]() (129; 3% instances), [ro-dep/csubj]() (123; 3% instances), [ro-dep/cc]() (98; 2% instances), [ro-dep/advcl]() (91; 2% instances), [ro-dep/nsubj]() (84; 2% instances), [ro-dep/goeswith]() (80; 2% instances), [ro-dep/mark]() (80; 2% instances), [ro-dep/parataxis]() (36; 1% instances), [ro-dep/det]() (34; 1% instances), [ro-dep/aux]() (33; 1% instances), [ro-dep/nummod]() (16; 0% instances), [ro-dep/nmod:pmod]() (15; 0% instances), [ro-dep/appos]() (14; 0% instances), [ro-dep/ccomp]() (14; 0% instances), [ro-dep/ccomp:pmod]() (14; 0% instances), [ro-dep/obj]() (10; 0% instances), [ro-dep/amod]() (7; 0% instances), [ro-dep/acl]() (5; 0% instances), [ro-dep/advmod:tmod]() (5; 0% instances), [ro-dep/iobj]() (5; 0% instances), [ro-dep/discourse]() (3; 0% instances), [ro-dep/cc:preconj]() (2; 0% instances), [ro-dep/flat]() (2; 0% instances), [ro-dep/xcomp]() (2; 0% instances), [ro-dep/advcl:tcl]() (1; 0% instances), [ro-dep/compound]() (1; 0% instances), [ro-dep/csubj:pass]() (1; 0% instances), [ro-dep/nmod:agent]() (1; 0% instances), [ro-dep/orphan]() (1; 0% instances), [ro-dep/vocative]() (1; 0% instances)
 
-Children of `ADV` nodes belong to 16 different parts of speech: [ADV]() (930; 21% instances), [PUNCT]() (886; 20% instances), [ADP]() (785; 18% instances), [VERB]() (574; 13% instances), [NOUN]() (298; 7% instances), [CONJ]() (294; 7% instances), [SCONJ]() (134; 3% instances), [DET]() (115; 3% instances), [PART]() (86; 2% instances), [PRON]() (83; 2% instances), [NUM]() (77; 2% instances), [ADJ]() (40; 1% instances), [AUX]() (34; 1% instances), [PROPN]() (14; 0% instances), [INTJ]() (3; 0% instances), [SYM]() (2; 0% instances)
+Children of `ADV` nodes belong to 16 different parts of speech: [ADV]() (880; 22% instances), [PUNCT]() (817; 20% instances), [ADP]() (716; 18% instances), [VERB]() (294; 7% instances), [AUX]() (284; 7% instances), [CCONJ]() (278; 7% instances), [NOUN]() (271; 7% instances), [SCONJ]() (125; 3% instances), [DET]() (113; 3% instances), [PART]() (88; 2% instances), [PRON]() (73; 2% instances), [ADJ]() (39; 1% instances), [NUM]() (38; 1% instances), [PROPN]() (14; 0% instances), [INTJ]() (3; 0% instances), [SYM]() (1; 0% instances)
 

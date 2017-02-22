@@ -6,31 +6,41 @@
 
 This relation is universal.
 
-563 nodes (0%) are attached to their parents as `iobj`.
+442 nodes (0%) are attached to their parents as `iobj`.
 
-347 instances of `iobj` (62%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.14564831261101.
+269 instances of `iobj` (61%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.21719457013575.
 
-The following 5 pairs of parts of speech are connected with `iobj`: [gl-pos/VERB]()-[gl-pos/PRON]() (278; 49% instances), [gl-pos/VERB]()-[gl-pos/ADP]() (255; 45% instances), [gl-pos/PRON]()-[gl-pos/ADP]() (18; 3% instances), [gl-pos/PRON]()-[gl-pos/PRON]() (10; 2% instances), [gl-pos/NOUN]()-[gl-pos/ADP]() (2; 0% instances).
+The following 5 pairs of parts of speech are connected with `iobj`: [gl-pos/VERB]()-[gl-pos/PRON]() (225; 51% instances), [gl-pos/VERB]()-[gl-pos/ADP]() (200; 45% instances), [gl-pos/PRON]()-[gl-pos/ADP]() (11; 2% instances), [gl-pos/PRON]()-[gl-pos/PRON]() (5; 1% instances), [gl-pos/NOUN]()-[gl-pos/ADP]() (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 4 iobj	color:blue
-1	E	e	CONJ	CC	_	6	cc	_	Treeler:et
-2	a	o	DET	DA0FS0	_	3	det	_	Treeler:spec
-3	quen	quen	PRON	PR0CC000	_	6	case	_	Treeler:cc
-4	se	se	PRON	PP3CN000	_	6	iobj	_	Treeler:ci
-5	lle	lle	PRON	PP3CSD00	_	6	iobj	_	Treeler:ci
-6	pide	pedir	VERB	VMIP3S0	_	0	root	_	Treeler:sentence
-7	a	o	DET	DA0FS0	_	8	det	_	Treeler:spec
-8	fe	fe	NOUN	NCFS000	_	6	dobj	_	Treeler:cd
-9	de	de	ADP	SPS00	_	8	case	_	Treeler:sp
-10	bautismo	bautismo	NOUN	NCMS000	_	9	nmod	_	Treeler:sn
-11	?	?	PUNCT	Fit	_	6	punct	_	Treeler:f
+# visual-style 13	bgColor:blue
+# visual-style 13	fgColor:white
+# visual-style 12	bgColor:blue
+# visual-style 12	fgColor:white
+# visual-style 12 13 iobj	color:blue
+1	En	en	ADP	SPS00	_	8	case	_	Treeler:cc
+2	este	este	DET	DD0MS0	_	3	det	_	Treeler:spec
+3	plan	plan	NOUN	NCMS000	_	1	nmod	_	Treeler:sn
+4	os	o	DET	DA0MP0	_	5	det	_	Treeler:spec
+5	galegos	galego	NOUN	NCMP000	_	8	case	_	Treeler:cc
+6	en	en	ADP	SPS00	_	5	case	_	Treeler:sp
+7	Cataluña	cataluña	PROPN	NP00000	_	6	nmod	_	Treeler:sn
+8	abondaría	abondar	VERB	VMIC1S0	_	0	root	_	Treeler:sentence
+9	me	me	PRON	PP1CS000	_	8	dobj	_	Treeler:cd
+10	os	o	PRON	PP3MPA00	_	8	dobj	_	Treeler:cd
+11	para	para	ADP	SPS00	_	8	case	_	Treeler:cc
+12	acabar	acabar	VERB	VMN0000	_	11	ccomp	_	Treeler:S
+13	nós	nós	PRON	PP1CPO00	_	12	iobj	_	Treeler:ci
+14	soíños	só	NOUN	NCMP00D	_	12	dobj	_	Treeler:cd
+15	con	con	ADP	SPS00	_	12	case	_	Treeler:creg
+16	o	o	DET	DA0MS0	_	17	det	_	Treeler:spec
+17	problema	problema	NOUN	NCMS000	_	15	nmod	_	Treeler:sn
+18	demográfico	demográfico	ADJ	AQ0MS0	_	17	amod	_	Treeler:s.a
+19	de	de	ADP	SPS00	_	17	case	_	Treeler:sp
+20	Galicia	galicia	PROPN	NP00000	_	19	nmod	_	Treeler:sn
+21	.	.	PUNCT	Fp	_	8	punct	_	Treeler:f
 
 ~~~
 
@@ -121,12 +131,12 @@ The following 5 pairs of parts of speech are connected with `iobj`: [gl-pos/VERB
 
 This relation is universal.
 
-122 nodes (1%) are attached to their parents as `iobj`.
+83 nodes (1%) are attached to their parents as `iobj`.
 
-74 instances of `iobj` (61%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.4344262295082.
+46 instances of `iobj` (55%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.34939759036145.
 
-The following 7 pairs of parts of speech are connected with `iobj`: [gl-pos/VERB]()-[gl-pos/PRON]() (70; 57% instances), [gl-pos/VERB]()-[gl-pos/NOUN]() (29; 24% instances), [gl-pos/VERB]()-[gl-pos/PROPN]() (19; 16% instances), [gl-pos/ADJ]()-[gl-pos/PRON]() (1; 1% instances), [gl-pos/ADJ]()-[gl-pos/PROPN]() (1; 1% instances), [gl-pos/NOUN]()-[gl-pos/PROPN]() (1; 1% instances), [gl-pos/VERB]()-[gl-pos/DET]() (1; 1% instances).
+The following 6 pairs of parts of speech are connected with `iobj`: [gl-pos/VERB]()-[gl-pos/PRON]() (53; 64% instances), [gl-pos/VERB]()-[gl-pos/NOUN]() (16; 19% instances), [gl-pos/VERB]()-[gl-pos/PROPN]() (10; 12% instances), [gl-pos/ADJ]()-[gl-pos/PRON]() (2; 2% instances), [gl-pos/PROPN]()-[gl-pos/PRON]() (1; 1% instances), [gl-pos/VERB]()-[gl-pos/DET]() (1; 1% instances).
 
 
 ~~~ conllu
@@ -135,10 +145,10 @@ The following 7 pairs of parts of speech are connected with `iobj`: [gl-pos/VERB
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 4 iobj	color:blue
-1	moitos	moito	DET	Idmp	Gender=Masc|Number=Plur|PronType=Ind	2	det	_	_
+1	Moitos	moito	DET	Idmp	Gender=Masc|Number=Plur|PronType=Ind	2	det	_	_
 2	presidentes	presidente	NOUN	Scmp	Gender=Masc|Number=Plur	3	nsubj	_	_
 3	sorriron	sorrir	VERB	Vei30p	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
-4	lle	lle	PRON	Rad3as	Case=Dat|Gender=Com|Number=Sing|Person=3|PronType=Clit	3	iobj	_	_
+4	lle	lle	PRON	Rad3as	Case=Dat|Clitic=Yes|Gender=Com|Number=Sing|Person=3|PronType=Prs	3	iobj	_	_
 5	.	.	PUNCT	Q.	_	3	punct	_	_
 
 ~~~
@@ -150,12 +160,12 @@ The following 7 pairs of parts of speech are connected with `iobj`: [gl-pos/VERB
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 9 iobj	color:blue
-1	o	o	DET	Ddms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+1	O	o	DET	Ddms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
 2	BNG	BNG	PROPN	Zgms	Gender=Masc|Number=Sing	3	nsubj	_	_
 3	solicitou	solicitar	VERB	Vei30s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
-4	lle	lle	PRON	Rad3ms	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Clit	3	expl	_	_
+4	lle	lle	PRON	Rad3ms	Case=Dat|Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	expl	_	_
 5	a	o	DET	Ddfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
-6	proposta	proposta	NOUN	Scfs	Gender=Fem|Number=Sing	3	dobj	_	_
+6	proposta	proposta	NOUN	Scfs	Gender=Fem|Number=Sing	3	obj	_	_
 7	a	a	ADP	P	AdpType=Prep	9	case	_	_
 8	un	un	DET	Dims	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
 9	equipo	equipo	NOUN	Scms	Gender=Masc|Number=Sing	3	iobj	_	_
@@ -169,20 +179,35 @@ The following 7 pairs of parts of speech are connected with `iobj`: [gl-pos/VERB
 
 
 ~~~ conllu
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 1 8 iobj	color:blue
-1	atribuirá	atribuír	VERB	Vfi30s	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
-2	se	se	PRON	Rao3aa	Gender=Com|Number=Dual|Person=3|PronType=Clit	1	expl	_	_
-3	lle	lle	PRON	Rad3fs	Case=Dat|Gender=Fem|Number=Sing|Person=3|PronType=Clit	1	expl	_	_
-4	estatus	estatus	NOUN	Scms	Gender=Masc|Number=Sing	1	dobj	_	_
-5	xurídico-público	xurídico-público	ADJ	A0ms	Gender=Masc|Number=Sing	4	amod	_	_
-6	a	a	ADP	P	AdpType=Prep	8	case	_	_
+# visual-style 19	bgColor:blue
+# visual-style 19	fgColor:white
+# visual-style 14	bgColor:blue
+# visual-style 14	fgColor:white
+# visual-style 14 19 iobj	color:blue
+1	A	o	DET	Ddfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	competencia	competencia	NOUN	Scfs	Gender=Fem|Number=Sing	14	nsubj	_	_
+3	sobre	sobre	ADP	P	AdpType=Prep	5	case	_	_
+4	a	o	DET	Ddfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	fixación	fixación	NOUN	Scfs	Gender=Fem|Number=Sing	2	nmod	_	_
+6	de	de	ADP	P	AdpType=Prep	8	case	_	_
 7	a	o	DET	Ddfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
-8	Oficina_de_Representación_de_Galiza_en_Bruxelas	Oficina_de_Representación_de_Galiza_en_Bruxelas	PROPN	Spfs	Gender=Fem|Number=Sing	1	iobj	_	_
-9	.	.	PUNCT	Q.	_	1	punct	_	_
+8	variedade	variedade	NOUN	Scfs	Gender=Fem|Number=Sing	5	nmod	_	_
+9	estándar	estándar	ADJ	A0fs	Gender=Fem|Number=Sing	8	amod	_	_
+10	de	de	ADP	P	AdpType=Prep	12	case	_	_
+11	a	o	DET	Ddfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
+12	lingua	lingua	NOUN	Scfs	Gender=Fem|Number=Sing	8	nmod	_	_
+13	galega	galego	ADJ	A0fs	Gender=Fem|Number=Sing	12	amod	_	_
+14	corresponderá	corresponder	VERB	Vfi30s	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
+15	lle	lle	PRON	Rad3fs	Case=Dat|Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	14	expl	_	_
+16	a	a	ADP	P	AdpType=Prep	18	case	_	_
+17	a	o	DET	Ddfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	18	det	_	_
+18	Real	real	ADJ	A00s	Gender=Fem|Number=Sing	19	amod	_	_
+19	Academia	academia	PROPN	Spfs	Gender=Fem|Number=Sing	14	iobj	_	_
+20	de	de	ADP	P	AdpType=Prep	22	case	_	_
+21	a	o	DET	Ddfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	22	det	_	_
+22	Lingua	lingua	NOUN	Scfs	Gender=Fem|Number=Sing	19	nmod	_	_
+23	Galega	galego	ADJ	Acfs	Gender=Fem|Number=Sing	22	amod	_	SpaceAfter=No
+24	.	.	PUNCT	Q.	_	14	punct	_	_
 
 ~~~
 

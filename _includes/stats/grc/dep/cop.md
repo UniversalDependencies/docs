@@ -6,60 +6,69 @@
 
 This relation is universal.
 
-2194 nodes (1%) are attached to their parents as `cop`.
+1582 nodes (1%) are attached to their parents as `cop`.
 
-1417 instances of `cop` (65%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.03144940747493.
+1086 instances of `cop` (69%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.10429835651075.
 
-The following 8 pairs of parts of speech are connected with `cop`: [grc-pos/ADJ]()-[grc-pos/VERB]() (1181; 54% instances), [grc-pos/NOUN]()-[grc-pos/VERB]() (618; 28% instances), [grc-pos/VERB]()-[grc-pos/VERB]() (188; 9% instances), [grc-pos/PRON]()-[grc-pos/VERB]() (157; 7% instances), [grc-pos/ADV]()-[grc-pos/VERB]() (40; 2% instances), [grc-pos/NUM]()-[grc-pos/VERB]() (6; 0% instances), [grc-pos/DET]()-[grc-pos/VERB]() (3; 0% instances), [grc-pos/X]()-[grc-pos/VERB]() (1; 0% instances).
+The following 8 pairs of parts of speech are connected with `cop`: [grc-pos/ADJ]()-[grc-pos/VERB]() (875; 55% instances), [grc-pos/NOUN]()-[grc-pos/VERB]() (439; 28% instances), [grc-pos/VERB]()-[grc-pos/VERB]() (130; 8% instances), [grc-pos/PRON]()-[grc-pos/VERB]() (99; 6% instances), [grc-pos/ADV]()-[grc-pos/VERB]() (27; 2% instances), [grc-pos/NUM]()-[grc-pos/VERB]() (9; 1% instances), [grc-pos/DET]()-[grc-pos/VERB]() (2; 0% instances), [grc-pos/X]()-[grc-pos/VERB]() (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
-# visual-style 1 4 cop	color:blue
-1	ἐμὸν	ἐμός	ADJ	a-s---nn-	Case=Nom|Gender=Neut|Number=Sing	2	dobj	_	_
-2	δοκήσει	δοκέω	VERB	v3sfia---	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	_
-3	τἀμπλάκημ̓	ἀμπλάκημα	NOUN	n-s---nn-	Case=Nom|Gender=Neut|Number=Sing	2	nsubj	_	_
-4	εἶναι	εἰμί	VERB	v--pna---	Tense=Pres|VerbForm=Inf|Voice=Act	1	cop	_	_
-5	τόδε	ὅδε	PRON	p-s---nn-	Case=Nom|Gender=Neut|Number=Sing	3	nmod	_	_
-6	.	.	PUNCT	u--------	_	5	punct	_	_
+# visual-style 1 6 cop	color:blue
+1	δυνατώτατα	δυνατός	ADJ	a-p---nns	Case=Nom|Degree=Sup|Gender=Neut|Number=Plur	0	root	_	_
+2	γὰρ	γάρ	ADV	d--------	_	1	advmod	_	_
+3	ταῦτα	οὗτος	PRON	p-p---nn-	Case=Nom|Gender=Neut|Number=Plur	1	nsubj	_	_
+4	τῶν	ὁ	DET	l-p---ng-	Case=Gen|Gender=Neut|Number=Plur	5	det	_	_
+5	ναυτικῶν	ναυτικός	ADJ	a-p---ng-	Case=Gen|Gender=Neut|Number=Plur	1	nmod	_	_
+6	ἦν	εἰμί	VERB	v3siia---	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	cop	_	SpaceAfter=No
+7	.	.	PUNCT	u--------	_	1	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 4 cop	color:blue
-1	τίς	τίς	PRON	p-s---mn-	Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	_
-2	οὖν	οὖν	ADV	g--------	_	1	advmod	_	_
-3	ἀνάγκης	ἀνάγκη	NOUN	n-s---fg-	Case=Gen|Gender=Fem|Number=Sing	5	nmod	_	_
-4	ἐστὶν	εἰμί	VERB	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	cop	_	_
-5	οἰακοστρόφος	οἰακοστρόφος	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
-6	;	;	PUNCT	u--------	_	5	punct	_	_
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 2 cop	color:blue
+1	Ἐπίδαμνός	Ἐπίδαμνος	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	_
+2	ἐστι	εἰμί	VERB	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	cop	_	_
+3	πόλις	πόλις	NOUN	n-s---fn-	Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
+4	ἐν	εἰς	ADP	r--------	_	5	case	_	_
+5	δεξιᾷ	δεξιά	NOUN	n-s---fd-	Case=Dat|Gender=Fem|Number=Sing	3	obl	_	_
+6	ἐσπλέοντι	εἰσπλέω	VERB	v-sppamd-	Case=Dat|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	5	advcl	_	_
+7	ἐς	εἰς	ADP	r--------	_	10	case	_	_
+8	τὸν	ὁ	DET	l-s---ma-	Case=Acc|Gender=Masc|Number=Sing	10	det	_	_
+9	Ἰόνιον	Ἰόνιος	ADJ	a-s---ma-	Case=Acc|Gender=Masc|Number=Sing	10	nmod	_	_
+10	κόλπον	κόλπος	NOUN	n-s---ma-	Case=Acc|Gender=Masc|Number=Sing	6	obl	_	SpaceAfter=No
+11	·	·	PUNCT	u--------	_	3	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
-# visual-style 4 5 cop	color:blue
-1	τίς	τίς	PRON	p-s---mn-	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	_
-2	οὖν	οὖν	ADV	g--------	_	1	advmod	_	_
-3	ὁ	ὁ	DET	l-s---mn-	Case=Nom|Gender=Masc|Number=Sing	4	det	_	_
-4	λύσων	λύω	VERB	v-sfpamn-	Case=Nom|Gender=Masc|Number=Sing|Tense=Fut|VerbForm=Part|Voice=Act	0	root	_	_
-5	ἐστὶν	εἰμί	VERB	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	cop	_	_
-6	ἄκοντος	ἀέκων	ADJ	a-s---mg-	Case=Gen|Gender=Masc|Number=Sing	4	xcomp	_	Ellipsis=advmod
-7	Διός	Ζεύς	NOUN	n-s---mg-	Case=Gen|Gender=Masc|Number=Sing	6	nsubj	_	_
-8	;	;	PUNCT	u--------	_	7	punct	_	_
+# visual-style 4 10 cop	color:blue
+1	τὰ	ὁ	DET	l-p---na-	Case=Acc|Gender=Neut|Number=Plur	3	det	_	_
+2	γὰρ	γάρ	ADV	d--------	_	4	advmod	_	_
+3	πλεῖστα	πλεῖστος	ADJ	a-p---na-	Case=Acc|Gender=Neut|Number=Plur	4	nsubj	_	_
+4	γίνεσθαι	γίγνομαι	VERB	v--pne---	Tense=Pres|VerbForm=Inf|Voice=Mid	0	root	_	_
+5	καὶ	καί	CCONJ	c--------	_	4	cc	_	_
+6	προχωρεῖν	προχωρέω	VERB	v--pna---	Tense=Pres|VerbForm=Inf|Voice=Act	4	conj	_	_
+7	δἰ	διά	ADP	r--------	_	8	case	_	_
+8	Ἀλκιβιάδην	Ἀλκιβιάδης	NOUN	n-s---ma-	Case=Acc|Gender=Masc|Number=Sing	4	obl	_	_
+9	λόγος	λόγος	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	_
+10	ἦν	εἰμί	VERB	v3siia---	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	4	cop	_	SpaceAfter=No
+11	·	·	PUNCT	u--------	_	4	punct	_	_
 
 ~~~
 
@@ -72,70 +81,68 @@ The following 8 pairs of parts of speech are connected with `cop`: [grc-pos/ADJ]
 
 This relation is universal.
 
-3246 nodes (2%) are attached to their parents as `cop`.
+3092 nodes (2%) are attached to their parents as `cop`.
 
-1660 instances of `cop` (51%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.93130006161429.
+1573 instances of `cop` (51%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.91979301423027.
 
-The following 8 pairs of parts of speech are connected with `cop`: [grc-pos/ADJ]()-[grc-pos/VERB]() (1208; 37% instances), [grc-pos/NOUN]()-[grc-pos/VERB]() (1020; 31% instances), [grc-pos/VERB]()-[grc-pos/VERB]() (316; 10% instances), [grc-pos/PRON]()-[grc-pos/VERB]() (299; 9% instances), [grc-pos/PROPN]()-[grc-pos/VERB]() (198; 6% instances), [grc-pos/ADV]()-[grc-pos/VERB]() (149; 5% instances), [grc-pos/NUM]()-[grc-pos/VERB]() (53; 2% instances), [grc-pos/INTJ]()-[grc-pos/VERB]() (3; 0% instances).
+The following 10 pairs of parts of speech are connected with `cop`: [grc-pos/ADJ]()-[grc-pos/AUX]() (1163; 38% instances), [grc-pos/NOUN]()-[grc-pos/AUX]() (978; 32% instances), [grc-pos/VERB]()-[grc-pos/AUX]() (302; 10% instances), [grc-pos/PRON]()-[grc-pos/AUX]() (259; 8% instances), [grc-pos/PROPN]()-[grc-pos/AUX]() (190; 6% instances), [grc-pos/ADV]()-[grc-pos/AUX]() (139; 4% instances), [grc-pos/NUM]()-[grc-pos/AUX]() (53; 2% instances), [grc-pos/DET]()-[grc-pos/AUX]() (4; 0% instances), [grc-pos/INTJ]()-[grc-pos/AUX]() (3; 0% instances), [grc-pos/ADP]()-[grc-pos/AUX]() (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 3 cop	color:blue
-1	κύριε	κύριος	NOUN	Nb	Case=Voc|Gender=Masc|Number=Sing	4	vocative	_	_
-2	οὐκ	οὐ	ADV	Df	_	4	neg	_	_
-3	εἰμὶ	εἰμί#1	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	4	cop	_	_
-4	ἱκανὸς	ἱκανός	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	0	root	_	_
-5	ἵνα	ἵνα	SCONJ	G-	_	10	mark	_	_
-6	μου	ἐγώ	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=1|PronType=Prs	9	nmod	_	_
-7	ὑπὸ	ὑπό	ADP	R-	_	9	case	_	_
-8	τὴν	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	9	det	_	_
-9	στέγην	στέγη	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	10	iobj	_	_
-10	εἰσέλθῃς	εἰσέρχομαι	VERB	V-	Aspect=Perf|Mood=Sub|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	4	ccomp	_	_
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 9 8 cop	color:blue
+1	ὃ	ὁ	PRON	Pp	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	nsubj	_	ref=1.10.1
+2	μὲν	μέν	ADV	Df	_	9	discourse	_	ref=1.10.1
+3	δὴ	δή	ADV	Df	_	9	discourse	_	ref=1.10.1
+4	ὡς	ὡς	SCONJ	G-	_	6	mark	_	ref=1.10.1
+5	οὐκ	οὐ	ADV	Df	Polarity=Neg	6	advmod	_	ref=1.10.1
+6	ἐδύνατο	δύναμαι	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Mid	9	advcl	_	ref=1.10.1
+7	διαφυγεῖν	διαφεύγω	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	6	xcomp	_	ref=1.10.1
+8	ἦν	εἰμί#1	AUX	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	9	cop	_	ref=1.10.1
+9	ἕτοιμος	ἕτοιμος	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	0	root	_	ref=1.10.1
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 2 cop	color:blue
-1	τίς	τίς	PRON	Pi	Case=Nom|Gender=Masc|Number=Sing|PronType=Int	4	nsubj	_	_
-2	ἐστιν	εἰμί#1	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	cop	_	_
-3	ἡ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	4	det	_	_
-4	μήτηρ	μήτηρ	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
-5	μου	ἐγώ	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=1|PronType=Prs	4	nmod	_	_
-6	καὶ	καί	CONJ	C-	_	4	cc	_	_
-7	τίνες	τίς	PRON	Pi	Case=Nom|Gender=Masc|Number=Plur|PronType=Int	10	nsubj	_	_
-8	εἰσὶν	εἰμί#1	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	cop	_	_
-9	οἱ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	10	det	_	_
-10	ἀδελφοί	ἀδελφός	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	4	conj	_	_
-11	μου	ἐγώ	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=1|PronType=Prs	10	nmod	_	_
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 8 5 cop	color:blue
+1	ἄλλα	ἄλλος	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Plur	3	amod	_	ref=1.16.2
+2	δὲ	δέ	ADV	Df	_	4	discourse	_	ref=1.16.2
+3	ἔργα	ἔργον	NOUN	Nb	Case=Acc|Gender=Neut|Number=Plur	4	obj:dir	_	ref=1.16.2
+4	ἀπεδέξατο	ἀποδέχομαι	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	ref=1.16.2
+5	ἐὼν	εἰμί#1	AUX	V-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	8	cop	_	ref=1.16.2
+6	ἐν	ἐν	ADP	R-	_	8	case	_	ref=1.16.2
+7	τῇ	ὁ	DET	S-	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	8	det	_	ref=1.16.2
+8	ἀρχῇ	ἀρχή	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	4	advcl	_	ref=1.16.2
+9	ἀξιαπηγητότατα	ἀξιαφήγητος	ADV	Df	Degree=Sup	10	advmod	_	ref=1.16.2
+10	τάδε	ὅδε	ADJ	Pd	Case=Acc|Gender=Neut|Number=Plur	3	appos	_	ref=1.16.2
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 2 cop	color:blue
-1	καὶ	καί	CONJ	C-	_	6	cc	_	_
-2	ἦν	εἰμί#1	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	6	cop	_	_
-3	ὅλη	ὅλος	ADJ	A-	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	5	amod	_	_
-4	ἡ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	5	det	_	_
-5	πόλις	πόλις	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	6	nsubjpass	_	_
-6	ἐπισυνηγμένη	ἐπισυνάγω	VERB	V-	Aspect=Perf|Case=Nom|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	_
-7	πρὸς	πρός	ADP	R-	_	9	case	_	_
-8	τὴν	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	9	det	_	_
-9	θύραν	θύρα	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	6	iobj	_	_
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 9 8 cop	color:blue
+1	Σαδυάττης	Σαδυάττης	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	9	nsubj	_	ref=1.18.2
+2	οὗτος	οὗτος	DET	Pd	Case=Nom|Gender=Masc|Number=Sing	9	det	_	ref=1.18.2
+3	γὰρ	γάρ	ADV	Df	_	9	discourse	_	ref=1.18.2
+4	καὶ	καί#1	ADV	Df	_	9	advmod	_	ref=1.18.2
+5	ὁ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	9	det	_	ref=1.18.2
+6	τὸν	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	7	det	_	ref=1.18.2
+7	πόλεμον	πόλεμος	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	9	obj:dir	_	ref=1.18.2
+8	ἦν	εἰμί#1	AUX	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	9	cop	_	ref=1.18.2
+9	συνάψας	συνάπτω	VERB	V-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	ref=1.18.2
 
 ~~~
 

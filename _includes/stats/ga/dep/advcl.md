@@ -6,12 +6,12 @@
 
 This relation is universal.
 
-299 nodes (1%) are attached to their parents as `advcl`.
+167 nodes (1%) are attached to their parents as `advcl`.
 
-245 instances of `advcl` (82%) are left-to-right (parent precedes child).
-Average distance between parent and child is 11.1705685618729.
+142 instances of `advcl` (85%) are left-to-right (parent precedes child).
+Average distance between parent and child is 11.688622754491.
 
-The following 30 pairs of parts of speech are connected with `advcl`: [ga-pos/VERB]()-[ga-pos/VERB]() (152; 51% instances), [ga-pos/NOUN]()-[ga-pos/VERB]() (29; 10% instances), [ga-pos/VERB]()-[ga-pos/NOUN]() (20; 7% instances), [ga-pos/SCONJ]()-[ga-pos/VERB]() (16; 5% instances), [ga-pos/ADJ]()-[ga-pos/VERB]() (14; 5% instances), [ga-pos/ADP]()-[ga-pos/VERB]() (10; 3% instances), [ga-pos/VERB]()-[ga-pos/ADJ]() (8; 3% instances), [ga-pos/VERB]()-[ga-pos/PRON]() (7; 2% instances), [ga-pos/CONJ]()-[ga-pos/VERB]() (5; 2% instances), [ga-pos/PRON]()-[ga-pos/VERB]() (5; 2% instances), [ga-pos/ADJ]()-[ga-pos/ADJ]() (4; 1% instances), [ga-pos/ADJ]()-[ga-pos/NOUN]() (4; 1% instances), [ga-pos/NOUN]()-[ga-pos/NOUN]() (3; 1% instances), [ga-pos/NOUN]()-[ga-pos/ADJ]() (2; 1% instances), [ga-pos/SCONJ]()-[ga-pos/ADJ]() (2; 1% instances), [ga-pos/SCONJ]()-[ga-pos/NOUN]() (2; 1% instances), [ga-pos/VERB]()-[ga-pos/ADP]() (2; 1% instances), [ga-pos/X]()-[ga-pos/VERB]() (2; 1% instances), [ga-pos/ADJ]()-[ga-pos/PRON]() (1; 0% instances), [ga-pos/ADP]()-[ga-pos/ADP]() (1; 0% instances), [ga-pos/ADP]()-[ga-pos/PRON]() (1; 0% instances), [ga-pos/ADV]()-[ga-pos/VERB]() (1; 0% instances), [ga-pos/NOUN]()-[ga-pos/ADP]() (1; 0% instances), [ga-pos/NOUN]()-[ga-pos/PROPN]() (1; 0% instances), [ga-pos/PRON]()-[ga-pos/ADJ]() (1; 0% instances), [ga-pos/PROPN]()-[ga-pos/ADP]() (1; 0% instances), [ga-pos/PROPN]()-[ga-pos/NOUN]() (1; 0% instances), [ga-pos/PROPN]()-[ga-pos/SCONJ]() (1; 0% instances), [ga-pos/PROPN]()-[ga-pos/VERB]() (1; 0% instances), [ga-pos/SCONJ]()-[ga-pos/PRON]() (1; 0% instances).
+The following 22 pairs of parts of speech are connected with `advcl`: [ga-pos/VERB]()-[ga-pos/VERB]() (92; 55% instances), [ga-pos/NOUN]()-[ga-pos/VERB]() (15; 9% instances), [ga-pos/VERB]()-[ga-pos/NOUN]() (9; 5% instances), [ga-pos/SCONJ]()-[ga-pos/VERB]() (7; 4% instances), [ga-pos/ADJ]()-[ga-pos/VERB]() (6; 4% instances), [ga-pos/ADP]()-[ga-pos/VERB]() (6; 4% instances), [ga-pos/ADJ]()-[ga-pos/ADJ]() (4; 2% instances), [ga-pos/VERB]()-[ga-pos/ADJ]() (4; 2% instances), [ga-pos/ADJ]()-[ga-pos/NOUN]() (3; 2% instances), [ga-pos/CCONJ]()-[ga-pos/VERB]() (3; 2% instances), [ga-pos/NOUN]()-[ga-pos/NOUN]() (3; 2% instances), [ga-pos/VERB]()-[ga-pos/PRON]() (3; 2% instances), [ga-pos/PRON]()-[ga-pos/VERB]() (2; 1% instances), [ga-pos/VERB]()-[ga-pos/ADP]() (2; 1% instances), [ga-pos/ADJ]()-[ga-pos/PRON]() (1; 1% instances), [ga-pos/ADP]()-[ga-pos/ADP]() (1; 1% instances), [ga-pos/ADV]()-[ga-pos/VERB]() (1; 1% instances), [ga-pos/NOUN]()-[ga-pos/ADJ]() (1; 1% instances), [ga-pos/NOUN]()-[ga-pos/ADP]() (1; 1% instances), [ga-pos/PROPN]()-[ga-pos/ADP]() (1; 1% instances), [ga-pos/SCONJ]()-[ga-pos/ADJ]() (1; 1% instances), [ga-pos/X]()-[ga-pos/VERB]() (1; 1% instances).
 
 
 ~~~ conllu
@@ -20,15 +20,15 @@ The following 30 pairs of parts of speech are connected with `advcl`: [ga-pos/VE
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 7 advcl	color:blue
-1	Seasadh	seas	VERB	VTI	Mood=Ind|Tense=Past|Voice=Auto	0	root	_	_
-2	leis	le	ADP	Simp	_	4	case	_	_
+1	Tá's	bí	VERB	PresInd	Case=NomAcc|Gender=Masc|Mood=Ind|Number=Sing|Tense=Pres	0	root	_	_
+2	ag	ag	ADP	Simp	_	4	case	_	_
 3	an	an	DET	Art	Definite=Def|Number=Sing|PronType=Art	4	det	_	_
-4	diúltú	diúltú	NOUN	Noun	Case=Com|Definite=Def|Gender=Masc|Number=Sing	1	nmod	_	_
-5	nuair	nuair	SCONJ	Subord	_	7	mark	_	_
-6	a	a	PART	Vb	PartType=Vb|PronType=Rel	7	mark:prt	_	_
-7	rinne	déan	VERB	VTI	Mood=Ind|Tense=Past	1	advcl	_	_
-8	sé	sé	PRON	Pers	Gender=Masc|Number=Sing|Person=3	7	nsubj	_	_
-9	achomharc	achomharc	NOUN	Noun	Case=Com|Gender=Masc|Number=Sing	7	dobj	_	_
+4	lá	lá	NOUN	Noun	Case=NomAcc|Definite=Def|Gender=Masc|Number=Sing	1	obl	_	_
+5	ach	ach	SCONJ	Subord	_	7	mark	_	_
+6	go	go	PART	Vb	PartType=Cmpl	7	mark:prt	_	_
+7	rabhas	bí	VERB	PastInd	Form=Ecl|Mood=Ind|Number=Sing|Person=1|Tense=Past	1	advcl	_	_
+8	ag	ag	ADP	Simp	_	9	case	_	_
+9	caoineachán	caoineachán	NOUN	Noun	Case=NomAcc|Gender=Masc|Number=Sing	7	xcomp	_	SpaceAfter=No
 10	.	.	PUNCT	.	_	1	punct	_	_
 
 ~~~
@@ -40,44 +40,51 @@ The following 30 pairs of parts of speech are connected with `advcl`: [ga-pos/VE
 # visual-style 11	bgColor:blue
 # visual-style 11	fgColor:white
 # visual-style 11 4 advcl	color:blue
-1	Agus	agus	CONJ	Coord	_	11	advmod	_	_
+1	Agus	agus	CCONJ	Coord	_	11	advmod	_	_
 2	nuair	nuair	SCONJ	Subord	_	4	mark	_	_
 3	a	a	PART	Vb	PartType=Vb|PronType=Rel	4	mark:prt	_	_
 4	bhíodh	bí	VERB	PastImp	Form=Len|Mood=Imp|Tense=Past	11	advcl	_	_
 5	sé	sé	PRON	Pers	Gender=Masc|Number=Sing|Person=3	4	nsubj	_	_
 6	ag	ag	ADP	Simp	_	7	case	_	_
-7	insint	insint	NOUN	Noun	VerbForm=Inf	4	xcomp	_	_
-8	scéil	scéal	NOUN	Noun	Case=Gen|Gender=Masc|Number=Sing	7	dobj	_	_
+7	insint	insint	NOUN	Noun	VerbForm=Vnoun	4	xcomp	_	_
+8	scéil	scéal	NOUN	Noun	Case=Gen|Gender=Masc|Number=Sing	7	obj	_	SpaceAfter=No
 9	,	,	PUNCT	Punct	_	11	punct	_	_
-10	ní	is	VERB	Cop	Negative=Neg|Tense=Pres|VerbForm=Cop	11	cop	_	_
-11	scéal	scéal	NOUN	Noun	Case=Com|Gender=Masc|Number=Sing	0	root	_	_
+10	ní	is	AUX	Cop	Polarity=Neg|Tense=Pres|VerbForm=Cop	11	cop	_	_
+11	scéal	scéal	NOUN	Noun	Case=NomAcc|Gender=Masc|Number=Sing	0	root	_	_
 12	scéil	scéal	NOUN	Noun	Case=Gen|Gender=Masc|Number=Sing	11	compound	_	_
 13	a	a	PART	Vb	PartType=Vb|PronType=Rel	14	mark:prt	_	_
 14	bhíodh	bí	VERB	PastImp	Form=Len|Mood=Imp|Tense=Past	11	csubj:cleft	_	_
-15	aige	ag	ADP	Prep	Gender=Masc|Number=Sing|Person=3	14	nmod:prep	_	_
+15	aige	ag	ADP	Prep	Gender=Masc|Number=Sing|Person=3	14	obl:prep	_	SpaceAfter=No
 16	.	.	PUNCT	.	_	11	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 2 advcl	color:blue
-1	Ach	ach	SCONJ	Subord	_	2	mark	_	_
-2	oiread	oiread	NOUN	Subst	Number=Sing	6	advcl	_	_
-3	le	le	ADP	Simp	_	4	case	_	_
-4	Jurassic	Jurassic	PROPN	Noun	Case=Com|Gender=Masc|Number=Sing	2	nmod	_	_
-5	Park	Park	PROPN	Noun	Case=Com|Gender=Masc|Number=Sing	4	compound	_	_
-6	tá	bí	VERB	PresInd	Mood=Ind|Tense=Pres	0	root	_	_
-7	bunchlocha	bunchloch	NOUN	Noun	Case=Com|Gender=Fem|Number=Plur	6	nsubj	_	_
-8	an	an	DET	Art	Definite=Def|Number=Sing|PronType=Art	9	det	_	_
-9	scéil	scéal	NOUN	Noun	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	7	compound	_	_
-10	seo	seo	DET	Det	PronType=Dem	9	det	_	_
-11	an-áiféiseach	áiféiseach	ADJ	Adj	Degree=Pos	6	xcomp:pred	_	_
-12	.	.	PUNCT	.	_	6	punct	_	_
+# visual-style 16	bgColor:blue
+# visual-style 16	fgColor:white
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 8 16 advcl	color:blue
+1	Nuair	nuair	SCONJ	Subord	_	3	mark	_	_
+2	a	a	PART	Vb	PartType=Vb|PronType=Rel	3	mark:prt	_	_
+3	tógadh	tóg	VERB	VTI	Mood=Ind|Tense=Past|Voice=Auto	8	advcl	_	_
+4	na	na	DET	Art	Definite=Def|Number=Plur|PronType=Art	5	det	_	_
+5	scadáin	scadán	NOUN	Noun	Case=NomAcc|Definite=Def|Gender=Masc|Number=Plur	3	obj	_	_
+6	ar	ar	ADP	Simp	_	7	case	_	_
+7	bord	bord	NOUN	Noun	Case=NomAcc|Gender=Masc|Number=Sing	3	obl	_	_
+8	fuair	faigh	VERB	VT	Mood=Ind|Tense=Past	0	root	_	_
+9	duine	duine	NOUN	Noun	Case=NomAcc|Gender=Masc|Number=Sing	8	nsubj	_	_
+10	den	de	ADP	Art	Number=Sing|PronType=Art	11	case	_	_
+11	chriú	criú	NOUN	Noun	Case=NomAcc|Form=Len|Gender=Masc|Number=Sing	9	compound	_	_
+12	an	an	DET	Art	Definite=Def|Number=Sing|PronType=Art	13	det	_	_
+13	slibire	slibire	NOUN	Noun	Case=NomAcc|Gender=Fem|Number=Sing	8	obj	_	_
+14	seo	seo	DET	Det	PronType=Dem	13	det	_	_
+15	agus	agus	SCONJ	Subord	_	16	mark	_	_
+16	gob	gob	NOUN	Noun	Case=NomAcc|Gender=Masc|Number=Sing	8	advcl	_	_
+17	fada	fada	ADJ	Adj	Case=NomAcc|Gender=Masc|Number=Sing	16	amod	_	_
+18	air	ar	ADP	Prep	Gender=Masc|Number=Sing|Person=3	16	obl:prep	_	SpaceAfter=No
+19	.	.	PUNCT	.	_	8	punct	_	_
 
 ~~~
 

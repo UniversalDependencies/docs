@@ -6,66 +6,71 @@
 
 This relation is universal.
 
-2834 nodes (1%) are attached to their parents as `advcl`.
+8238 nodes (5%) are attached to their parents as `advcl`.
 
-1652 instances of `advcl` (58%) are left-to-right (parent precedes child).
-Average distance between parent and child is 7.7681721947777.
+4342 instances of `advcl` (53%) are right-to-left (child precedes parent).
+Average distance between parent and child is 5.3192522456907.
 
-The following 10 pairs of parts of speech are connected with `advcl`: [grc-pos/VERB]()-[grc-pos/VERB]() (2460; 87% instances), [grc-pos/ADJ]()-[grc-pos/VERB]() (145; 5% instances), [grc-pos/ADV]()-[grc-pos/VERB]() (84; 3% instances), [grc-pos/NOUN]()-[grc-pos/VERB]() (49; 2% instances), [grc-pos/CONJ]()-[grc-pos/VERB]() (40; 1% instances), [grc-pos/PUNCT]()-[grc-pos/VERB]() (26; 1% instances), [grc-pos/PRON]()-[grc-pos/VERB]() (16; 1% instances), [grc-pos/SCONJ]()-[grc-pos/VERB]() (12; 0% instances), [grc-pos/ADP]()-[grc-pos/VERB]() (1; 0% instances), [grc-pos/X]()-[grc-pos/VERB]() (1; 0% instances).
+The following 22 pairs of parts of speech are connected with `advcl`: [grc-pos/VERB]()-[grc-pos/VERB]() (7661; 93% instances), [grc-pos/VERB]()-[grc-pos/ADJ]() (159; 2% instances), [grc-pos/ADJ]()-[grc-pos/VERB]() (145; 2% instances), [grc-pos/ADV]()-[grc-pos/VERB]() (90; 1% instances), [grc-pos/VERB]()-[grc-pos/NOUN]() (70; 1% instances), [grc-pos/NOUN]()-[grc-pos/VERB]() (54; 1% instances), [grc-pos/PRON]()-[grc-pos/VERB]() (14; 0% instances), [grc-pos/ADJ]()-[grc-pos/ADJ]() (8; 0% instances), [grc-pos/VERB]()-[grc-pos/PRON]() (7; 0% instances), [grc-pos/VERB]()-[grc-pos/ADV]() (5; 0% instances), [grc-pos/ADJ]()-[grc-pos/NOUN]() (4; 0% instances), [grc-pos/PRON]()-[grc-pos/ADJ]() (4; 0% instances), [grc-pos/ADV]()-[grc-pos/ADJ]() (3; 0% instances), [grc-pos/ADP]()-[grc-pos/VERB]() (2; 0% instances), [grc-pos/CCONJ]()-[grc-pos/VERB]() (2; 0% instances), [grc-pos/PART]()-[grc-pos/VERB]() (2; 0% instances), [grc-pos/VERB]()-[grc-pos/NUM]() (2; 0% instances), [grc-pos/X]()-[grc-pos/VERB]() (2; 0% instances), [grc-pos/ADJ]()-[grc-pos/NUM]() (1; 0% instances), [grc-pos/ADV]()-[grc-pos/NOUN]() (1; 0% instances), [grc-pos/DET]()-[grc-pos/VERB]() (1; 0% instances), [grc-pos/NOUN]()-[grc-pos/ADJ]() (1; 0% instances).
 
 
 ~~~ conllu
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 7 advcl	color:blue
+1	Φωκαῆς	Φωκαιεύς	NOUN	n-p---mn-	Case=Nom|Gender=Masc|Number=Plur	6	nsubj	_	_
+2	τε	τε	ADV	d--------	_	6	advmod	_	_
+3	Μασσαλίαν	Μασσαλία	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	4	obj	_	_
+4	οἰκίζοντες	οἰκίζω	VERB	v-pppamn-	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	1	nmod	_	_
+5	Καρχηδονίους	Καρχηδόνιος	NOUN	n-p---ma-	Case=Acc|Gender=Masc|Number=Plur	6	obj	_	_
+6	ἐνίκων	νικάω	VERB	v3piia---	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+7	ναυμαχοῦντες	ναυμαχέω	VERB	v-pppamn-	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	6	advcl	_	SpaceAfter=No
+8	·	·	PUNCT	u--------	_	6	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
-# visual-style 1 7 advcl	color:blue
-1	δίδαξον	διδάσκω	VERB	v2sama---	Mood=Imp|Number=Sing|Person=2|Tense=Aor|VerbForm=Fin|Voice=Act	0	root	_	_
-2	ἡμᾶς	ἐγώ	PRON	p-p---ma-	Case=Acc|Gender=Masc|Number=Plur	1	dobj	_	_
-3	,	,	PUNCT	u--------	_	7	punct	_	_
-4	εἴ	εἰ	SCONJ	c--------	_	7	mark	_	_
-5	τι	τις	PRON	p-s---na-	Case=Acc|Gender=Neut|Number=Sing	7	nmod	_	_
-6	μὴ	μή	CONJ	c--------	_	7	neg	_	_
-7	βλάπτει	βλάπτω	VERB	v2spie---	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Mid,Pass	1	advcl	_	_
-8	λόγῳ	λόγος	NOUN	n-s---md-	Case=Dat|Gender=Masc|Number=Sing	7	dobj	_	_
-9	.	.	PUNCT	u--------	_	8	punct	_	_
+# visual-style 1 8 advcl	color:blue
+1	ξυνέβησαν	συμβαίνω	VERB	v3paia---	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+2	δὲ	δέ	ADV	d--------	_	1	advmod	_	_
+3	καὶ	καί	ADV	d--------	_	4	advmod	_	_
+4	Βυζάντιοι	Βυζάντιος	NOUN	n-p---mn-	Case=Nom|Gender=Masc|Number=Plur	1	nsubj	_	_
+5	ὥσπερ	ὥσπερ	SCONJ	c--------	_	8	mark	_	_
+6	καὶ	καί	ADV	d--------	_	7	advmod	_	_
+7	πρότερον	πρότερος	ADJ	a-s---na-	Case=Acc|Gender=Neut|Number=Sing	8	advmod	_	_
+8	ὑπήκοοι	ὑπήκοος	ADJ	a-p---mn-	Case=Nom|Gender=Masc|Number=Plur	1	advcl	_	_
+9	εἶναι	εἰμί	VERB	v--pna---	Tense=Pres|VerbForm=Inf|Voice=Act	8	cop	_	SpaceAfter=No
+10	.	.	PUNCT	u--------	_	1	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 5 advcl	color:blue
-1	σχολὴ	σχολή	NOUN	n-s---fn-	Case=Nom|Gender=Fem|Number=Sing	6	nsubj	_	_
-2	δὲ	δέ	ADV	g--------	_	6	advmod	_	_
-3	πλείων	πλείων	ADJ	a-s---fnc	Case=Nom|Degree=Cmp|Gender=Fem|Number=Sing	1	amod	_	_
-4	ἢ	ἤ	SCONJ	c--------	_	5	mark	_	_
-5	θέλω	ἐθέλω	VERB	v1spsa---	Mood=Sub|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	3	advcl	_	_
-6	πάρεστί	πάρειμι	VERB	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-7	μοι	ἐγώ	PRON	p-s---md-	Case=Dat|Gender=Masc|Number=Sing	6	dobj	_	_
-8	.	.	PUNCT	u--------	_	7	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
+# visual-style 12	bgColor:blue
+# visual-style 12	fgColor:white
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
-# visual-style 2 7 advcl	color:blue
-1	σὺ	σύ	PRON	p-s---mn-	Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	_
-2	δ̓	δέ	ADV	g--------	_	0	root	_	_
-3	αἰνεῖν	αἰνέω	VERB	v--pna---	Tense=Pres|VerbForm=Inf|Voice=Act	7	xcomp	_	_
-4	εἴτε	εἴτε	CONJ	c--------	_	3	cc	_	_
-5	με	ἐγώ	PRON	p-s---fa-	Case=Acc|Gender=Fem|Number=Sing	3	dobj	_	_
-6	ψέγειν	ψέγω	VERB	v--pna---	Tense=Pres|VerbForm=Inf|Voice=Act	3	conj	_	_
-7	θέλεις	ἐθέλω	VERB	v2spia---	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	2	advcl	_	Ellipsis=root
-8	ὅμοιον	ὁμοῖος	ADJ	a-s---nn-	Case=Nom|Gender=Neut|Number=Sing	7	xcomp	_	_
-9	.	.	PUNCT	u--------	_	8	punct	_	_
+# visual-style 2 12 advcl	color:blue
+1	καὶ	καί	ADV	d--------	_	2	advmod	_	_
+2	δήλη	δῆλος	ADJ	a-s---fn-	Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
+3	ἡ	ὁ	DET	l-s---fn-	Case=Nom|Gender=Fem|Number=Sing	4	det	_	_
+4	οἰκοδομία	οἰκοδομία	NOUN	n-s---fn-	Case=Nom|Gender=Fem|Number=Sing	2	nsubj	_	_
+5	ἔτι	ἔτι	ADV	d--------	_	6	advmod	_	_
+6	καὶ	καί	ADV	d--------	_	7	advmod	_	_
+7	νῦν	νῦν	ADV	d--------	_	2	advmod	_	_
+8	ἐστὶν	εἰμί	VERB	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	cop	_	_
+9	ὅτι	ὅτι	SCONJ	c--------	_	12	mark	_	_
+10	κατὰ	κατά	ADP	r--------	_	11	case	_	_
+11	σπουδὴν	σπουδή	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	12	obl	_	_
+12	ἐγένετο	γίγνομαι	VERB	v3saim---	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Mid	2	advcl	_	SpaceAfter=No
+13	·	·	PUNCT	u--------	_	2	punct	_	_
 
 ~~~
 
@@ -78,25 +83,28 @@ The following 10 pairs of parts of speech are connected with `advcl`: [grc-pos/V
 
 This relation is universal.
 
-10452 nodes (5%) are attached to their parents as `advcl`.
+9880 nodes (5%) are attached to their parents as `advcl`.
 
-6002 instances of `advcl` (57%) are right-to-left (child precedes parent).
-Average distance between parent and child is 5.4452736318408.
+5663 instances of `advcl` (57%) are right-to-left (child precedes parent).
+Average distance between parent and child is 5.46285425101215.
 
-The following 51 pairs of parts of speech are connected with `advcl`: [grc-pos/VERB]()-[grc-pos/VERB]() (9091; 87% instances), [grc-pos/ADJ]()-[grc-pos/VERB]() (225; 2% instances), [grc-pos/VERB]()-[grc-pos/ADJ]() (207; 2% instances), [grc-pos/ADV]()-[grc-pos/VERB]() (196; 2% instances), [grc-pos/VERB]()-[grc-pos/NOUN]() (148; 1% instances), [grc-pos/NOUN]()-[grc-pos/VERB]() (123; 1% instances), [grc-pos/VERB]()-[grc-pos/ADV]() (119; 1% instances), [grc-pos/PRON]()-[grc-pos/VERB]() (46; 0% instances), [grc-pos/VERB]()-[grc-pos/PRON]() (32; 0% instances), [grc-pos/ADJ]()-[grc-pos/ADJ]() (29; 0% instances), [grc-pos/VERB]()-[grc-pos/PROPN]() (22; 0% instances), [grc-pos/ADV]()-[grc-pos/ADV]() (21; 0% instances), [grc-pos/CONJ]()-[grc-pos/VERB]() (21; 0% instances), [grc-pos/INTJ]()-[grc-pos/VERB]() (17; 0% instances), [grc-pos/NOUN]()-[grc-pos/NOUN]() (17; 0% instances), [grc-pos/ADJ]()-[grc-pos/ADV]() (15; 0% instances), [grc-pos/ADP]()-[grc-pos/VERB]() (15; 0% instances), [grc-pos/ADV]()-[grc-pos/NOUN]() (11; 0% instances), [grc-pos/PROPN]()-[grc-pos/VERB]() (8; 0% instances), [grc-pos/VERB]()-[grc-pos/NUM]() (8; 0% instances), [grc-pos/VERB]()-[grc-pos/SCONJ]() (8; 0% instances), [grc-pos/ADJ]()-[grc-pos/PRON]() (7; 0% instances), [grc-pos/NOUN]()-[grc-pos/ADJ]() (7; 0% instances), [grc-pos/ADJ]()-[grc-pos/NOUN]() (6; 0% instances), [grc-pos/SCONJ]()-[grc-pos/VERB]() (6; 0% instances), [grc-pos/NOUN]()-[grc-pos/ADV]() (5; 0% instances), [grc-pos/ADP]()-[grc-pos/ADV]() (3; 0% instances), [grc-pos/ADV]()-[grc-pos/ADJ]() (3; 0% instances), [grc-pos/CONJ]()-[grc-pos/NOUN]() (3; 0% instances), [grc-pos/NOUN]()-[grc-pos/NUM]() (3; 0% instances), [grc-pos/NUM]()-[grc-pos/VERB]() (3; 0% instances), [grc-pos/PRON]()-[grc-pos/NOUN]() (3; 0% instances), [grc-pos/CONJ]()-[grc-pos/ADJ]() (2; 0% instances), [grc-pos/NOUN]()-[grc-pos/PROPN]() (2; 0% instances), [grc-pos/NUM]()-[grc-pos/NUM]() (2; 0% instances), [grc-pos/PRON]()-[grc-pos/PRON]() (2; 0% instances), [grc-pos/X]()-[grc-pos/VERB]() (2; 0% instances), [grc-pos/ADJ]()-[grc-pos/PROPN]() (1; 0% instances), [grc-pos/ADP]()-[grc-pos/NOUN]() (1; 0% instances), [grc-pos/ADP]()-[grc-pos/PRON]() (1; 0% instances), [grc-pos/ADV]()-[grc-pos/NUM]() (1; 0% instances), [grc-pos/ADV]()-[grc-pos/PROPN]() (1; 0% instances), [grc-pos/ADV]()-[grc-pos/SCONJ]() (1; 0% instances), [grc-pos/CONJ]()-[grc-pos/ADV]() (1; 0% instances), [grc-pos/INTJ]()-[grc-pos/ADV]() (1; 0% instances), [grc-pos/INTJ]()-[grc-pos/PRON]() (1; 0% instances), [grc-pos/NOUN]()-[grc-pos/PRON]() (1; 0% instances), [grc-pos/NOUN]()-[grc-pos/SCONJ]() (1; 0% instances), [grc-pos/NUM]()-[grc-pos/ADV]() (1; 0% instances), [grc-pos/NUM]()-[grc-pos/PRON]() (1; 0% instances), [grc-pos/X]()-[grc-pos/NOUN]() (1; 0% instances).
+The following 57 pairs of parts of speech are connected with `advcl`: [grc-pos/VERB]()-[grc-pos/VERB]() (8515; 86% instances), [grc-pos/ADJ]()-[grc-pos/VERB]() (218; 2% instances), [grc-pos/VERB]()-[grc-pos/ADJ]() (200; 2% instances), [grc-pos/ADV]()-[grc-pos/VERB]() (174; 2% instances), [grc-pos/VERB]()-[grc-pos/NOUN]() (142; 1% instances), [grc-pos/VERB]()-[grc-pos/ADV]() (115; 1% instances), [grc-pos/NOUN]()-[grc-pos/VERB]() (109; 1% instances), [grc-pos/VERB]()-[grc-pos/AUX]() (48; 0% instances), [grc-pos/PRON]()-[grc-pos/VERB]() (37; 0% instances), [grc-pos/AUX]()-[grc-pos/VERB]() (36; 0% instances), [grc-pos/VERB]()-[grc-pos/PRON]() (28; 0% instances), [grc-pos/ADJ]()-[grc-pos/ADJ]() (26; 0% instances), [grc-pos/CCONJ]()-[grc-pos/VERB]() (26; 0% instances), [grc-pos/VERB]()-[grc-pos/PROPN]() (21; 0% instances), [grc-pos/ADV]()-[grc-pos/ADV]() (19; 0% instances), [grc-pos/NOUN]()-[grc-pos/NOUN]() (17; 0% instances), [grc-pos/ADJ]()-[grc-pos/ADV]() (16; 0% instances), [grc-pos/INTJ]()-[grc-pos/VERB]() (14; 0% instances), [grc-pos/ADP]()-[grc-pos/VERB]() (12; 0% instances), [grc-pos/ADV]()-[grc-pos/NOUN]() (11; 0% instances), [grc-pos/ADJ]()-[grc-pos/PRON]() (7; 0% instances), [grc-pos/NOUN]()-[grc-pos/ADJ]() (7; 0% instances), [grc-pos/PROPN]()-[grc-pos/VERB]() (7; 0% instances), [grc-pos/VERB]()-[grc-pos/NUM]() (7; 0% instances), [grc-pos/ADJ]()-[grc-pos/NOUN]() (6; 0% instances), [grc-pos/NOUN]()-[grc-pos/ADV]() (6; 0% instances), [grc-pos/SCONJ]()-[grc-pos/VERB]() (4; 0% instances), [grc-pos/ADP]()-[grc-pos/ADV]() (3; 0% instances), [grc-pos/ADV]()-[grc-pos/ADJ]() (3; 0% instances), [grc-pos/CCONJ]()-[grc-pos/NOUN]() (3; 0% instances), [grc-pos/NOUN]()-[grc-pos/AUX]() (3; 0% instances), [grc-pos/NOUN]()-[grc-pos/NUM]() (3; 0% instances), [grc-pos/NUM]()-[grc-pos/VERB]() (3; 0% instances), [grc-pos/ADJ]()-[grc-pos/AUX]() (2; 0% instances), [grc-pos/ADV]()-[grc-pos/AUX]() (2; 0% instances), [grc-pos/AUX]()-[grc-pos/AUX]() (2; 0% instances), [grc-pos/AUX]()-[grc-pos/NOUN]() (2; 0% instances), [grc-pos/CCONJ]()-[grc-pos/ADJ]() (2; 0% instances), [grc-pos/NOUN]()-[grc-pos/PROPN]() (2; 0% instances), [grc-pos/NUM]()-[grc-pos/NUM]() (2; 0% instances), [grc-pos/PRON]()-[grc-pos/NOUN]() (2; 0% instances), [grc-pos/PRON]()-[grc-pos/PRON]() (2; 0% instances), [grc-pos/X]()-[grc-pos/VERB]() (2; 0% instances), [grc-pos/ADJ]()-[grc-pos/PROPN]() (1; 0% instances), [grc-pos/ADP]()-[grc-pos/AUX]() (1; 0% instances), [grc-pos/ADP]()-[grc-pos/NOUN]() (1; 0% instances), [grc-pos/ADP]()-[grc-pos/PRON]() (1; 0% instances), [grc-pos/ADV]()-[grc-pos/NUM]() (1; 0% instances), [grc-pos/ADV]()-[grc-pos/PROPN]() (1; 0% instances), [grc-pos/AUX]()-[grc-pos/ADJ]() (1; 0% instances), [grc-pos/CCONJ]()-[grc-pos/AUX]() (1; 0% instances), [grc-pos/INTJ]()-[grc-pos/ADV]() (1; 0% instances), [grc-pos/INTJ]()-[grc-pos/PRON]() (1; 0% instances), [grc-pos/NOUN]()-[grc-pos/PRON]() (1; 0% instances), [grc-pos/NUM]()-[grc-pos/ADV]() (1; 0% instances), [grc-pos/NUM]()-[grc-pos/PRON]() (1; 0% instances), [grc-pos/X]()-[grc-pos/NOUN]() (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 3 advcl	color:blue
-1	οὐκ	οὐ	ADV	Df	_	3	neg	_	_
-2	ἦλθον	ἔρχομαι	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
-3	καταλῦσαι	καταλύω	VERB	V-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Act	2	advcl	_	_
-4	ἀλλὰ	ἀλλά	CONJ	C-	_	3	cc	_	_
-5	πληρῶσαι	πληρόω	VERB	V-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Act	3	conj	_	_
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 8 6 advcl	color:blue
+1	τότε	τότε	ADV	Df	_	8	advmod	_	ref=1.11.1
+2	μὲν	μέν	ADV	Df	_	8	discourse	_	ref=1.11.1
+3	δὴ	δή	ADV	Df	_	8	discourse	_	ref=1.11.1
+4	οὕτω	οὕτω(ς)	ADV	Df	_	8	advmod	_	ref=1.11.1
+5	οὐδέν	οὐδείς	ADJ	Px	Case=Acc|Gender=Neut|Number=Sing	6	obj:dir	_	ref=1.11.1
+6	δηλώσασα	δηλόω	VERB	V-	Aspect=Perf|Case=Nom|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	8	advcl	_	ref=1.11.1
+7	ἡσυχίην	ἡσυχία	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	8	obj:dir	_	ref=1.11.1
+8	εἶχε	ἔχω	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=1.11.1
 
 ~~~
 
@@ -104,38 +112,40 @@ The following 51 pairs of parts of speech are connected with `advcl`: [grc-pos/V
 ~~~ conllu
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 1 6 advcl	color:blue
-1	μακάριοι	μακάριος	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	0	root	_	_
-2	οἱ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	3	det	_	_
-3	πραεῖς	πραΰς	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	1	nsubj	_	_
-4	ὅτι	ὅτι	SCONJ	G-	_	6	mark	_	_
-5	αὐτοὶ	αὐτός	PRON	Pp	Case=Nom|Gender=Masc|Number=Plur|Person=3|PronType=Prs	6	nsubj	_	_
-6	κληρονομήσουσιν	κληρονομέω	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	1	advcl	_	_
-7	τήν	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	8	det	_	_
-8	γῆν	γῆ	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	6	dobj	_	_
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 9 6 advcl	color:blue
+1	ὃ	ὁ	PRON	Pp	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	nsubj	_	ref=1.10.1
+2	μὲν	μέν	ADV	Df	_	9	discourse	_	ref=1.10.1
+3	δὴ	δή	ADV	Df	_	9	discourse	_	ref=1.10.1
+4	ὡς	ὡς	SCONJ	G-	_	6	mark	_	ref=1.10.1
+5	οὐκ	οὐ	ADV	Df	Polarity=Neg	6	advmod	_	ref=1.10.1
+6	ἐδύνατο	δύναμαι	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Mid	9	advcl	_	ref=1.10.1
+7	διαφυγεῖν	διαφεύγω	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	6	xcomp	_	ref=1.10.1
+8	ἦν	εἰμί#1	AUX	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	9	cop	_	ref=1.10.1
+9	ἕτοιμος	ἕτοιμος	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	0	root	_	ref=1.10.1
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 11	bgColor:blue
-# visual-style 11	fgColor:white
-# visual-style 11 5 advcl	color:blue
-1	ἐὰν	ἐάν	SCONJ	G-	_	5	mark	_	_
-2	δὲ	δέ	ADV	Df	_	11	discourse	_	_
-3	μὴ	μή	ADV	Df	_	5	neg	_	_
-4	ᾖ	εἰμί#1	VERB	V-	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	cop	_	_
-5	ἀξία	ἄξιος	ADJ	A-	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	11	advcl	_	_
-6	ἡ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	7	det	_	_
-7	εἰρήνη	εἰρήνη	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	11	nsubjpass	_	_
-8	ὑμῶν	ὑμεῖς	PRON	Pp	Case=Gen|Gender=Fem,Masc|Number=Plur|Person=2|PronType=Prs	7	nmod	_	_
-9	πρὸς	πρός	ADP	R-	_	10	case	_	_
-10	ὑμᾶς	ὑμεῖς	PRON	Pp	Case=Acc|Gender=Fem,Masc|Number=Plur|Person=2|PronType=Prs	11	iobj	_	_
-11	ἐπιστραφήτω	ἐπιστρέφω	VERB	V-	Aspect=Perf|Mood=Imp|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	_
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 12	bgColor:blue
+# visual-style 12	fgColor:white
+# visual-style 12 6 advcl	color:blue
+1	εἰ	εἰ	SCONJ	G-	_	6	mark	_	ref=1.115.3
+2	ὦν	οὖν	ADV	Df	_	12	discourse	_	ref=1.115.3
+3	δὴ	δή	ADV	Df	_	12	discourse	_	ref=1.115.3
+4	τοῦδε	ὅδε	ADJ	Pd	Case=Gen|Gender=Neut|Number=Sing	6	obl	_	ref=1.115.3
+5	εἵνεκα	ἕνεκα	ADP	R-	_	4	case	_	ref=1.115.3
+6	ἄξιός	ἄξιος	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	12	advcl	_	ref=1.115.3
+7	τευ	τὶς	DET	Px	Case=Gen|Number=Sing	8	det	_	ref=1.115.3
+8	κακοῦ	κακός	ADJ	A-	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	6	iobj	_	ref=1.115.3
+9	εἰμί	εἰμί#1	AUX	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	6	cop	_	ref=1.115.3
+10	ὅδε	ὅδε	ADJ	Pd	Case=Nom|Gender=Masc|Number=Sing	12	advmod	_	ref=1.115.3
+11	τοὶ	σύ	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=2|PronType=Prs	12	iobj	_	ref=1.115.3
+12	πάρειμι	πάρειμι#1	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=1.115.3
 
 ~~~
 
