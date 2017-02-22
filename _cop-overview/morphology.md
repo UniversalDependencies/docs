@@ -33,7 +33,7 @@ In keeping with other Universal Dependency treebanks, the Coptic dependency tree
 |CCOND | SCONJ |
 |CFOC | PART |
 |CONJ | CONJ |
-|COP | PART |
+|COP | PRON |
 |CPRET | AUX |
 |CREL | SCONJ |
 |EXIST | VERB |
