@@ -2,6 +2,7 @@
 layout: base
 title:  'Morphology'
 permalink: cop/overview/morphology.html
+udver: '2'
 ---
 
 # Morphology
@@ -32,7 +33,7 @@ In keeping with other Universal Dependency treebanks, the Coptic dependency tree
 |CCIRC | SCONJ |
 |CCOND | SCONJ |
 |CFOC | PART |
-|CONJ | CONJ |
+|CONJ | CCONJ |
 |COP | PRON |
 |CPRET | AUX |
 |CREL | SCONJ |
