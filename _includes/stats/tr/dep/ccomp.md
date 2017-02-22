@@ -6,28 +6,30 @@
 
 This relation is universal.
 
-336 nodes (1%) are attached to their parents as `ccomp`.
+32 nodes (0%) are attached to their parents as `ccomp`.
 
-329 instances of `ccomp` (98%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.70238095238095.
+31 instances of `ccomp` (97%) are right-to-left (child precedes parent).
+Average distance between parent and child is 4.46875.
 
-The following 11 pairs of parts of speech are connected with `ccomp`: [tr-pos/VERB]()-[tr-pos/VERB]() (271; 81% instances), [tr-pos/NOUN]()-[tr-pos/VERB]() (16; 5% instances), [tr-pos/ADJ]()-[tr-pos/VERB]() (14; 4% instances), [tr-pos/VERB]()-[tr-pos/ADJ]() (12; 4% instances), [tr-pos/VERB]()-[tr-pos/NOUN]() (12; 4% instances), [tr-pos/VERB]()-[tr-pos/PRON]() (5; 1% instances), [tr-pos/ADV]()-[tr-pos/VERB]() (2; 1% instances), [tr-pos/CONJ]()-[tr-pos/VERB]() (1; 0% instances), [tr-pos/NOUN]()-[tr-pos/PRON]() (1; 0% instances), [tr-pos/PRON]()-[tr-pos/ADJ]() (1; 0% instances), [tr-pos/VERB]()-[tr-pos/ADP]() (1; 0% instances).
+The following 7 pairs of parts of speech are connected with `ccomp`: [tr-pos/VERB]()-[tr-pos/NOUN]() (11; 34% instances), [tr-pos/VERB]()-[tr-pos/ADJ]() (10; 31% instances), [tr-pos/VERB]()-[tr-pos/PRON]() (4; 13% instances), [tr-pos/VERB]()-[tr-pos/VERB]() (4; 13% instances), [tr-pos/NOUN]()-[tr-pos/PRON]() (1; 3% instances), [tr-pos/PRON]()-[tr-pos/ADJ]() (1; 3% instances), [tr-pos/VERB]()-[tr-pos/ADP]() (1; 3% instances).
 
 
 ~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
-# visual-style 7 6 ccomp	color:blue
-1	Cumhurbaşkanı	cumhurbaşkanı	NOUN	Noun	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	2	nmod	_	_
-2	ile	ile	CONJ	Conj	_	3	cc	_	_
-3	sürtüşen	sürtüş	VERB	Verb	Aspect=Perf|Mood=Ind|Negative=Pos|Tense=Pres|VerbForm=Part	5	acl	_	_
-4	bir	bir	NUM	ANum	NumType=Card	5	det	_	_
-5	iktidar	iktidar	NOUN	Noun	Case=Nom|Number=Sing|Person=3	6	compound:lvc	_	_
-6	olmak	ol	VERB	Verb	Aspect=Perf|Case=Nom|Mood=Ind|Negative=Pos|Tense=Pres|VerbForm=Ger	7	ccomp	_	_
-7	istemiyoruz	iste	VERB	Verb	Aspect=Prog|Mood=Ind|Negative=Neg|Number=Plur|Person=1|Register=Inf|Tense=Pres	0	root	_	_
-8	.	.	PUNCT	Punc	_	7	punct	_	_
+# visual-style 7 4 ccomp	color:blue
+1	İkimiz	iki	NUM	NNum	Case=Nom|Number=Sing|Number[psor]=Plur|NumType=Card|Person=3|Person[psor]=1	4	nsubj	_	_
+2	de	de	CCONJ	Conj	_	1	advmod:emph	_	_
+3	aynı	aynı	ADJ	Adj	_	4	amod	_	_
+4	durumda	durum	NOUN	Noun	Case=Loc|Number=Sing|Person=3	7	ccomp	_	_
+5	yız	i	AUX	Zero	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Pres	4	cop	_	_
+6	,	,	PUNCT	Punc	_	7	punct	_	_
+7	demişti	de	VERB	Verb	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pqp	0	root	_	SpaceAfter=No
+8	,	,	PUNCT	Punc	_	9	punct	_	_
+9	dedi	de	VERB	Verb	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Past	7	conj	_	SpaceAfter=No
+10	.	.	PUNCT	Punc	_	9	punct	_	_
 
 ~~~
 
@@ -35,37 +37,34 @@ The following 11 pairs of parts of speech are connected with `ccomp`: [tr-pos/VE
 ~~~ conllu
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 3 ccomp	color:blue
-1	Korku	korku	NOUN	Noun	Case=Nom|Number=Sing|Person=3	2	nmod:poss	_	_
-2	içinde	iç	ADJ	NAdj	Case=Loc|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	3	amod	_	_
-3	ölmek	öl	VERB	Verb	Aspect=Perf|Case=Nom|Mood=Ind|Negative=Pos|Tense=Pres|VerbForm=Ger	4	ccomp	_	_
-4	zorunda	zorun	NOUN	Noun	Case=Loc|Number=Sing|Person=3	0	root	_	_
-5	sın	i	AUX	Zero	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Pres	4	cop	_	_
-6	.	.	PUNCT	Punc	_	4	punct	_	_
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 3 ccomp	color:blue
+1	Ben	ben	PRON	Pers	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
+2	bir	bir	NUM	ANum	NumType=Card	3	det	_	_
+3	tutsak	tutsak	ADJ	NAdj	Case=Nom|Number=Sing|Person=3	6	ccomp	_	_
+4	ım	i	AUX	Zero	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Pres	3	cop	_	_
+5	,	,	PUNCT	Punc	_	6	punct	_	_
+6	dedi	de	VERB	Verb	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Past	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	Punc	_	6	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 11	bgColor:blue
-# visual-style 11	fgColor:white
-# visual-style 11 10 ccomp	color:blue
-1	Olayın	olay	NOUN	Noun	Case=Gen|Number=Sing|Person=3	3	nmod:poss	_	_
-2	ilk	ilk	ADJ	Adj	_	3	amod	_	_
-3	günü	gün	NOUN	Noun	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	7	nmod	_	_
-4	böyle	böyle	ADJ	Adj	_	6	det	_	_
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 1 ccomp	color:blue
+1	?	kim	PRON	Ques	Case=Nom|Number=Sing|Person=3	4	ccomp	_	_
+2	imsiniz	i	AUX	Zero	Aspect=Perf|Mood=Ind|Number=Plur|Person=2|Tense=Pres	1	cop	_	_
+3	?	?	PUNCT	Punc	_	4	punct	_	_
+4	dedi	de	VERB	Verb	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Past	0	root	_	_
 5	bir	bir	NUM	ANum	NumType=Card	6	det	_	_
-6	neticeye	netice	NOUN	Noun	Case=Dat|Number=Sing|Person=3	7	nmod	_	_
-7	varmak	var	VERB	Verb	Aspect=Perf|Case=Nom|Mood=Ind|Negative=Pos|Tense=Pres|VerbForm=Ger	11	advcl	_	_
-8	için	için	ADP	PCNom	_	7	case	_	_
-9	kahin	kahin	NOUN	Noun	Case=Nom|Number=Sing|Person=3	10	nsubj	_	_
-10	olmak	ol	VERB	Verb	Aspect=Perf|Case=Nom|Mood=Ind|Negative=Pos|Tense=Pres|VerbForm=Ger	11	ccomp	_	_
-11	lazım	lazım	ADJ	Adj	_	0	root	_	_
-12	.	.	PUNCT	Punc	_	11	punct	_	_
+6	erkek	erkek	ADJ	NAdj	Case=Nom|Number=Sing|Person=3	7	nmod:poss	_	_
+7	sesi	ses	NOUN	Noun	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	4	nsubj	_	SpaceAfter=No
+8	.	.	PUNCT	Punc	_	4	punct	_	_
 
 ~~~
 

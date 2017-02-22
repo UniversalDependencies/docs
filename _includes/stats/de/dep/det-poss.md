@@ -6,12 +6,12 @@
 
 This relation is a language-specific subtype of [det]().
 
-2409 nodes (1%) are attached to their parents as `det:poss`.
+2273 nodes (1%) are attached to their parents as `det:poss`.
 
-2409 instances of `det:poss` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.37152345371523.
+2273 instances of `det:poss` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.35899692036956.
 
-The following 8 pairs of parts of speech are connected with `det:poss`: [de-pos/NOUN]()-[de-pos/DET]() (1817; 75% instances), [de-pos/NOUN]()-[de-pos/PRON]() (560; 23% instances), [de-pos/PROPN]()-[de-pos/DET]() (19; 1% instances), [de-pos/PROPN]()-[de-pos/PRON]() (9; 0% instances), [de-pos/ADJ]()-[de-pos/DET]() (1; 0% instances), [de-pos/ADJ]()-[de-pos/PRON]() (1; 0% instances), [de-pos/NUM]()-[de-pos/DET]() (1; 0% instances), [de-pos/VERB]()-[de-pos/PRON]() (1; 0% instances).
+The following 7 pairs of parts of speech are connected with `det:poss`: [de-pos/NOUN]()-[de-pos/DET]() (1805; 79% instances), [de-pos/NOUN]()-[de-pos/PRON]() (425; 19% instances), [de-pos/PROPN]()-[de-pos/DET]() (31; 1% instances), [de-pos/PROPN]()-[de-pos/PRON]() (9; 0% instances), [de-pos/ADJ]()-[de-pos/DET]() (1; 0% instances), [de-pos/NUM]()-[de-pos/DET]() (1; 0% instances), [de-pos/VERB]()-[de-pos/PRON]() (1; 0% instances).
 
 
 ~~~ conllu
@@ -27,7 +27,7 @@ The following 8 pairs of parts of speech are connected with `det:poss`: [de-pos/
 5	auch	auch	ADV	ADV	_	8	advmod	_	_
 6	sein	sein	DET	PPOSAT	Gender[psor]=Masc,Neut|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	7	det:poss	_	_
 7	Filmname	Filmname	NOUN	NN	Case=Nom|Number=Sing	8	nsubj	_	_
-8	verewigt	verewigen	ADJ	VVPP	_	0	root	_	_
+8	verewigt	verewigen	ADJ	VVPP	_	0	root	_	SpaceAfter=No
 9	.	.	PUNCT	$.	_	8	punct	_	_
 
 ~~~
@@ -41,12 +41,12 @@ The following 8 pairs of parts of speech are connected with `det:poss`: [de-pos/
 # visual-style 6 5 det:poss	color:blue
 1	Ich	ich	PRON	PPER	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
 2	hatte	haben	VERB	VAFIN	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
-3	Gelegenheit	Gelegenheit	NOUN	NN	Case=Acc|Gender=Fem|Number=Sing	2	dobj	_	_
+3	Gelegenheit	Gelegenheit	NOUN	NN	Case=Acc|Gender=Fem|Number=Sing	2	obj	_	_
 4	eines	ein	DET	ART	Case=Acc|Definite=Ind|Number=Plur|PronType=Art	6	det	_	_
 5	seiner	sein	PRON	PPOSAT	Case=Acc|Gender[psor]=Masc,Neut|Number=Plur|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	6	det:poss	_	_
-6	Seminare	Seminar	NOUN	NN	Case=Acc|Number=Plur	8	dobj	_	_
+6	Seminare	Seminar	NOUN	NN	Case=Acc|Number=Plur	8	obj	_	_
 7	zu	zu	PART	PTKZU	_	8	mark	_	_
-8	besuchen	besuchen	VERB	VVINF	VerbForm=Inf	3	xcomp	_	_
+8	besuchen	besuchen	VERB	VVINF	VerbForm=Inf	3	xcomp	_	SpaceAfter=No
 9	.	.	PUNCT	$.	_	2	punct	_	_
 
 ~~~
@@ -61,18 +61,18 @@ The following 8 pairs of parts of speech are connected with `det:poss`: [de-pos/
 1	ORAP	ORAP	PROPN	NN	_	6	dep	_	_
 2	in	in	ADP	APPR	_	4	case	_	_
 3	dem	der	DET	ART	Case=Dat|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Art	4	det	_	_
-4	Kriegseinsatz	Kriegseinsatz	NOUN	NN	Case=Dat|Gender=Masc,Neut|Number=Sing	6	nmod	_	_
-5	und	und	CONJ	KON	_	6	cc	_	_
+4	Kriegseinsatz	Kriegseinsatz	NOUN	NN	Case=Dat|Gender=Masc,Neut|Number=Sing	6	obl	_	_
+5	und	und	CCONJ	KON	_	6	cc	_	_
 6	ersetzte	ersetzen	VERB	VVFIN	VerbForm=Fin	0	root	_	_
-7	1987	1987	NUM	CARD	NumType=Card	6	nmod	_	_
+7	1987	1987	NUM	CARD	NumType=Card	6	obl	_	_
 8	seine	sein	DET	PPOSAT	Gender[psor]=Masc,Neut|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	9	det:poss	_	_
-9	Jak	Jak	PROPN	NN	Case=Acc|Number=Sing	6	dobj	_	_
+9	Jak	Jak	PROPN	NN	Case=Acc|Number=Sing	6	obj	_	_
 10	-	-	PUNCT	$(	_	9	punct	_	_
 11	28	28	PROPN	CARD	_	9	appos	_	_
 12	durch	durch	ADP	APPR	_	13	case	_	_
-13	Su	Su	PROPN	NE	Case=Acc|Number=Sing	6	nmod	_	_
+13	Su	Su	PROPN	NE	Case=Acc|Number=Sing	6	obl	_	_
 14	-	-	PUNCT	$(	_	13	punct	_	_
-15	24MR	24MR	PROPN	NE	_	13	appos	_	_
+15	24MR	24MR	PROPN	NE	_	13	appos	_	SpaceAfter=No
 16	.	.	PUNCT	$.	_	6	punct	_	_
 
 ~~~

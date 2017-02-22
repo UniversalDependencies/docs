@@ -6,62 +6,72 @@
 
 This relation is universal.
 
-1009 nodes (4%) are attached to their parents as `conj`.
+625 nodes (4%) are attached to their parents as `conj`.
 
-1006 instances of `conj` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 7.50346878097126.
+624 instances of `conj` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 8.5792.
 
-The following 39 pairs of parts of speech are connected with `conj`: [gl-pos/NOUN]()-[gl-pos/NOUN]() (363; 36% instances), [gl-pos/VERB]()-[gl-pos/VERB]() (209; 21% instances), [gl-pos/PROPN]()-[gl-pos/PROPN]() (125; 12% instances), [gl-pos/ADJ]()-[gl-pos/ADJ]() (116; 11% instances), [gl-pos/ADJ]()-[gl-pos/VERB]() (26; 3% instances), [gl-pos/NOUN]()-[gl-pos/VERB]() (23; 2% instances), [gl-pos/PROPN]()-[gl-pos/NOUN]() (19; 2% instances), [gl-pos/VERB]()-[gl-pos/NOUN]() (19; 2% instances), [gl-pos/NUM]()-[gl-pos/NUM]() (17; 2% instances), [gl-pos/VERB]()-[gl-pos/ADJ]() (12; 1% instances), [gl-pos/NOUN]()-[gl-pos/PRON]() (10; 1% instances), [gl-pos/NOUN]()-[gl-pos/PROPN]() (9; 1% instances), [gl-pos/NOUN]()-[gl-pos/ADJ]() (8; 1% instances), [gl-pos/PRON]()-[gl-pos/PRON]() (6; 1% instances), [gl-pos/ADV]()-[gl-pos/ADV]() (5; 0% instances), [gl-pos/PRON]()-[gl-pos/NOUN]() (5; 0% instances), [gl-pos/ADJ]()-[gl-pos/NOUN]() (4; 0% instances), [gl-pos/VERB]()-[gl-pos/PRON]() (4; 0% instances), [gl-pos/NOUN]()-[gl-pos/X]() (3; 0% instances), [gl-pos/VERB]()-[gl-pos/ADV]() (3; 0% instances), [gl-pos/ADV]()-[gl-pos/VERB]() (2; 0% instances), [gl-pos/NOUN]()-[gl-pos/ADV]() (2; 0% instances), [gl-pos/PRON]()-[gl-pos/VERB]() (2; 0% instances), [gl-pos/PROPN]()-[gl-pos/PRON]() (2; 0% instances), [gl-pos/ADP]()-[gl-pos/NOUN]() (1; 0% instances), [gl-pos/ADV]()-[gl-pos/ADJ]() (1; 0% instances), [gl-pos/ADV]()-[gl-pos/NOUN]() (1; 0% instances), [gl-pos/DET]()-[gl-pos/ADJ]() (1; 0% instances), [gl-pos/DET]()-[gl-pos/NOUN]() (1; 0% instances), [gl-pos/NOUN]()-[gl-pos/CONJ]() (1; 0% instances), [gl-pos/NOUN]()-[gl-pos/DET]() (1; 0% instances), [gl-pos/NOUN]()-[gl-pos/SYM]() (1; 0% instances), [gl-pos/PRON]()-[gl-pos/ADV]() (1; 0% instances), [gl-pos/PRON]()-[gl-pos/PROPN]() (1; 0% instances), [gl-pos/PROPN]()-[gl-pos/ADV]() (1; 0% instances), [gl-pos/PROPN]()-[gl-pos/VERB]() (1; 0% instances), [gl-pos/PROPN]()-[gl-pos/X]() (1; 0% instances), [gl-pos/VERB]()-[gl-pos/ADP]() (1; 0% instances), [gl-pos/VERB]()-[gl-pos/NUM]() (1; 0% instances).
-
-
-~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 1 3 conj	color:blue
-1	liberdade	liberdade	NOUN	Scfs	Gender=Fem|Number=Sing	0	root	_	_
-2	,	,	PUNCT	Q,	_	1	punct	_	_
-3	xustiza	xustiza	NOUN	Scfs	Gender=Fem|Number=Sing	1	conj	_	_
-4	,	,	PUNCT	Q,	_	1	punct	_	_
-5	benestar	benestar	NOUN	Scms	Gender=Masc|Number=Sing	1	conj	_	_
-
-~~~
+The following 35 pairs of parts of speech are connected with `conj`: [gl-pos/NOUN]()-[gl-pos/NOUN]() (225; 36% instances), [gl-pos/VERB]()-[gl-pos/VERB]() (134; 21% instances), [gl-pos/PROPN]()-[gl-pos/PROPN]() (73; 12% instances), [gl-pos/ADJ]()-[gl-pos/ADJ]() (64; 10% instances), [gl-pos/ADJ]()-[gl-pos/VERB]() (19; 3% instances), [gl-pos/VERB]()-[gl-pos/NOUN]() (14; 2% instances), [gl-pos/NOUN]()-[gl-pos/VERB]() (12; 2% instances), [gl-pos/NUM]()-[gl-pos/NUM]() (12; 2% instances), [gl-pos/PROPN]()-[gl-pos/NOUN]() (11; 2% instances), [gl-pos/NOUN]()-[gl-pos/PROPN]() (9; 1% instances), [gl-pos/VERB]()-[gl-pos/ADJ]() (8; 1% instances), [gl-pos/NOUN]()-[gl-pos/ADJ]() (4; 1% instances), [gl-pos/NOUN]()-[gl-pos/PRON]() (4; 1% instances), [gl-pos/ADV]()-[gl-pos/ADV]() (3; 0% instances), [gl-pos/PRON]()-[gl-pos/NOUN]() (3; 0% instances), [gl-pos/PRON]()-[gl-pos/PRON]() (3; 0% instances), [gl-pos/VERB]()-[gl-pos/ADV]() (3; 0% instances), [gl-pos/VERB]()-[gl-pos/PRON]() (3; 0% instances), [gl-pos/ADJ]()-[gl-pos/NOUN]() (2; 0% instances), [gl-pos/DET]()-[gl-pos/PROPN]() (2; 0% instances), [gl-pos/NOUN]()-[gl-pos/X]() (2; 0% instances), [gl-pos/PRON]()-[gl-pos/VERB]() (2; 0% instances), [gl-pos/ADJ]()-[gl-pos/ADV]() (1; 0% instances), [gl-pos/ADP]()-[gl-pos/NOUN]() (1; 0% instances), [gl-pos/ADV]()-[gl-pos/NOUN]() (1; 0% instances), [gl-pos/DET]()-[gl-pos/ADJ]() (1; 0% instances), [gl-pos/DET]()-[gl-pos/NOUN]() (1; 0% instances), [gl-pos/NOUN]()-[gl-pos/ADV]() (1; 0% instances), [gl-pos/NOUN]()-[gl-pos/CCONJ]() (1; 0% instances), [gl-pos/NOUN]()-[gl-pos/DET]() (1; 0% instances), [gl-pos/PRON]()-[gl-pos/ADV]() (1; 0% instances), [gl-pos/PROPN]()-[gl-pos/PRON]() (1; 0% instances), [gl-pos/PROPN]()-[gl-pos/VERB]() (1; 0% instances), [gl-pos/VERB]()-[gl-pos/NUM]() (1; 0% instances), [gl-pos/VERB]()-[gl-pos/PROPN]() (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
-# visual-style 2 5 conj	color:blue
-1	por	por	ADP	P	AdpType=Prep	2	mark	_	_
-2	emocionar	emocionar	VERB	V0f000	VerbForm=Inf	0	root	_	_
-3	nos	nos	PRON	Raa1ap	Case=Acc|Gender=Com|Number=Plur|Person=1|PronType=Clit	2	dobj	_	_
-4	e	e	CONJ	Cc	_	2	cc	_	_
-5	facer	facer	VERB	V0f000	VerbForm=Inf	2	conj	_	_
-6	nos	nos	PRON	Raa1ap	Case=Acc|Gender=Com|Number=Plur|Person=1|PronType=Clit	5	dobj	_	_
-7	sentir	sentir	VERB	V0f000	VerbForm=Inf	5	xcomp	_	_
-8	.	.	PUNCT	Q.	_	2	punct	_	_
+# visual-style 2 4 conj	color:blue
+1	O	o	DET	Ddms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	peón	peón	NOUN	Scms	Gender=Masc|Number=Sing	5	nsubj	_	_
+3	ou	ou	CCONJ	Cc	_	4	cc	_	_
+4	trompo	trompo	NOUN	Scms	Gender=Masc|Number=Sing	2	conj	_	_
+5	baila	bailar	VERB	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	enriba	enriba	ADV	Wn	_	9	advmod	_	_
+7	de	de	ADP	P	AdpType=Prep	9	case	_	_
+8	un	un	DET	Dims	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	pé	pé	NOUN	Scms	Gender=Masc|Number=Sing	5	obl	_	SpaceAfter=No
+10	.	.	PUNCT	Q.	_	5	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
-# visual-style 1 6 conj	color:blue
-1	Santi	Santi	PROPN	Spm0	Gender=Masc	0	root	_	_
-2	(	(	PUNCT	Q(	_	3	punct	_	_
-3	Los_Limones	Los_Limones	PROPN	Sp00	_	1	nmod	_	_
-4	)	)	PUNCT	Q)	_	3	punct	_	_
-5	,	,	PUNCT	Q,	_	1	punct	_	_
-6	Susana_Seivane	Susana_Seivane	PROPN	Spf0	Gender=Fem	1	conj	_	_
-7	e	e	CONJ	Cc	_	1	cc	_	_
-8	Bieito_Romero	Bieito_Romero	PROPN	Spm0	Gender=Masc	1	conj	_	_
-9	.	.	PUNCT	Q.	_	1	punct	_	_
+# visual-style 1 9 conj	color:blue
+1	Creo	crer	VERB	Vpi10s	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	en	en	ADP	P	AdpType=Prep	4	case	_	_
+3	unha	un	DET	Difs	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	España	España	PROPN	Spfs	Gender=Fem|Number=Sing	1	obl	_	_
+5	plural	plural	ADJ	A0fs	Gender=Fem|Number=Sing	4	amod	_	SpaceAfter=No
+6	,	,	PUNCT	Q,	_	9	punct	_	_
+7	pero	pero	SCONJ	Cs	_	9	cc	_	_
+8	non	non	ADV	Wn	Polarity=Neg	9	advmod	_	_
+9	quero	querer	VERB	Vpi10s	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	1	conj	_	_
+10	fronteiras	fronteira	NOUN	Scfp	Gender=Fem|Number=Plur	9	obj	_	SpaceAfter=No
+11	.	.	PUNCT	Q.	_	1	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 8 conj	color:blue
+1	Non	non	ADV	Wn	Polarity=Neg	4	advmod	_	_
+2	somos	ser	AUX	Vpi10p	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	un	un	DET	Dims	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	perigo	perigo	NOUN	Scms	Gender=Masc|Number=Sing	0	root	_	_
+5	para	para	ADP	P	AdpType=Prep	6	case	_	_
+6	UGT	UGT	PROPN	Zg00	_	4	nmod	_	SpaceAfter=No
+7	,	,	PUNCT	Q,	_	8	punct	_	_
+8	CCOO	CCOO	PROPN	Zg00	_	6	conj	_	_
+9	ou	ou	CCONJ	Cc	_	10	cc	_	_
+10	CIG	CIG	PROPN	Zg00	_	6	conj	_	SpaceAfter=No
+11	.	.	PUNCT	Q.	_	4	punct	_	_
 
 ~~~
 

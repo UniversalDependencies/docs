@@ -6,12 +6,12 @@
 
 This relation is a language-specific subtype of [compound]().
 
-900 nodes (0%) are attached to their parents as `compound:prt`.
+821 nodes (0%) are attached to their parents as `compound:prt`.
 
-900 instances of `compound:prt` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.33111111111111.
+821 instances of `compound:prt` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.31181485992692.
 
-The following 6 pairs of parts of speech are connected with `compound:prt`: [en-pos/VERB]()-[en-pos/ADP]() (878; 98% instances), [en-pos/VERB]()-[en-pos/ADV]() (17; 2% instances), [en-pos/ADJ]()-[en-pos/ADP]() (2; 0% instances), [en-pos/ADJ]()-[en-pos/ADJ]() (1; 0% instances), [en-pos/ADV]()-[en-pos/ADJ]() (1; 0% instances), [en-pos/VERB]()-[en-pos/VERB]() (1; 0% instances).
+The following 6 pairs of parts of speech are connected with `compound:prt`: [en-pos/VERB]()-[en-pos/ADP]() (800; 97% instances), [en-pos/VERB]()-[en-pos/ADV]() (16; 2% instances), [en-pos/ADJ]()-[en-pos/ADP]() (2; 0% instances), [en-pos/ADJ]()-[en-pos/ADJ]() (1; 0% instances), [en-pos/ADV]()-[en-pos/ADJ]() (1; 0% instances), [en-pos/VERB]()-[en-pos/VERB]() (1; 0% instances).
 
 
 ~~~ conllu
@@ -36,17 +36,17 @@ The following 6 pairs of parts of speech are connected with `compound:prt`: [en-
 # visual-style 5	fgColor:white
 # visual-style 5 6 compound:prt	color:blue
 1	Jacques	Jacques	PROPN	NNP	Number=Sing	3	nsubj	_	_
-2	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
 3	ready	ready	ADJ	JJ	Degree=Pos	0	root	_	_
 4	to	to	PART	TO	_	5	mark	_	_
 5	drop	drop	VERB	VB	VerbForm=Inf	3	xcomp	_	_
 6	in	in	ADV	RP	_	5	compound:prt	_	_
 7	a	a	DET	DT	Definite=Ind|PronType=Art	9	det	_	_
 8	dollar	dollar	NOUN	NN	Number=Sing	9	compound	_	_
-9	amount	amount	NOUN	NN	Number=Sing	5	dobj	_	_
+9	amount	amount	NOUN	NN	Number=Sing	5	obj	_	_
 10	on	on	ADP	IN	_	12	case	_	_
 11	the	the	DET	DT	Definite=Def|PronType=Art	12	det	_	_
-12	release	release	NOUN	NN	Number=Sing	5	nmod	_	SpaceAfter=No
+12	release	release	NOUN	NN	Number=Sing	5	obl	_	SpaceAfter=No
 13	.	.	PUNCT	.	_	3	punct	_	_
 
 ~~~
@@ -61,11 +61,11 @@ The following 6 pairs of parts of speech are connected with `compound:prt`: [en-
 1	Run	run	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	_
 2	for	for	ADP	IN	_	4	case	_	_
 3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	_	_
-4	hills	hill	NOUN	NNS	Number=Plur	1	nmod	_	_
+4	hills	hill	NOUN	NNS	Number=Plur	1	obl	_	_
 5	...	...	PUNCT	,	_	1	punct	_	_
 6	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	10	nsubj	_	SpaceAfter=No
 7	'll	will	AUX	MD	VerbForm=Fin	10	aux	_	_
-8	be	be	VERB	VB	VerbForm=Inf	10	cop	_	_
+8	be	be	AUX	VB	VerbForm=Inf	10	cop	_	_
 9	much	much	ADV	RB	_	10	advmod	_	_
 10	better	better	ADJ	JJR	Degree=Cmp	1	parataxis	_	_
 11	off	off	ADP	RP	_	10	compound:prt	_	SpaceAfter=No
@@ -82,12 +82,12 @@ The following 6 pairs of parts of speech are connected with `compound:prt`: [en-
 
 This relation is a language-specific subtype of [compound]().
 
-196 nodes (0%) are attached to their parents as `compound:prt`.
+177 nodes (0%) are attached to their parents as `compound:prt`.
 
-196 instances of `compound:prt` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.51020408163265.
+177 instances of `compound:prt` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.51977401129944.
 
-The following 6 pairs of parts of speech are connected with `compound:prt`: [en-pos/VERB]()-[en-pos/ADP]() (170; 87% instances), [en-pos/VERB]()-[en-pos/ADV]() (20; 10% instances), [en-pos/VERB]()-[en-pos/PART]() (3; 2% instances), [en-pos/ADJ]()-[en-pos/ADV]() (1; 1% instances), [en-pos/ADP]()-[en-pos/ADP]() (1; 1% instances), [en-pos/NOUN]()-[en-pos/ADP]() (1; 1% instances).
+The following 6 pairs of parts of speech are connected with `compound:prt`: [en-pos/VERB]()-[en-pos/ADP]() (153; 86% instances), [en-pos/VERB]()-[en-pos/ADV]() (18; 10% instances), [en-pos/VERB]()-[en-pos/PART]() (3; 2% instances), [en-pos/ADJ]()-[en-pos/ADV]() (1; 1% instances), [en-pos/ADP]()-[en-pos/ADP]() (1; 1% instances), [en-pos/NOUN]()-[en-pos/ADP]() (1; 1% instances).
 
 
 ~~~ conllu
@@ -194,48 +194,57 @@ The following 6 pairs of parts of speech are connected with `compound:prt`: [en-
 
 This relation is a language-specific subtype of [compound]().
 
-358 nodes (0%) are attached to their parents as `compound:prt`.
+288 nodes (0%) are attached to their parents as `compound:prt`.
 
-356 instances of `compound:prt` (99%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.17877094972067.
+287 instances of `compound:prt` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.16666666666667.
 
-The following 7 pairs of parts of speech are connected with `compound:prt`: [en-pos/VERB]()-[en-pos/ADV]() (334; 93% instances), [en-pos/VERB]()-[en-pos/NOUN]() (10; 3% instances), [en-pos/VERB]()-[en-pos/ADP]() (8; 2% instances), [en-pos/VERB]()-[en-pos/ADJ]() (3; 1% instances), [en-pos/NOUN]()-[en-pos/ADJ]() (1; 0% instances), [en-pos/NOUN]()-[en-pos/ADV]() (1; 0% instances), [en-pos/PUNCT]()-[en-pos/ADV]() (1; 0% instances).
+The following 6 pairs of parts of speech are connected with `compound:prt`: [en-pos/VERB]()-[en-pos/ADV]() (268; 93% instances), [en-pos/VERB]()-[en-pos/NOUN]() (9; 3% instances), [en-pos/VERB]()-[en-pos/ADP]() (7; 2% instances), [en-pos/VERB]()-[en-pos/ADJ]() (2; 1% instances), [en-pos/NOUN]()-[en-pos/ADV]() (1; 0% instances), [en-pos/PUNCT]()-[en-pos/ADV]() (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 5 compound:prt	color:blue
-1	It	_	PRON	PERS-SG	_	4	nsubjpass	_	_
-2	's	_	AUX	PRES-AUX	_	4	auxpass	_	_
-3	even	_	ADV	_	_	4	advmod	_	_
-4	made	_	VERB	PASS	_	0	root	_	_
-5	out	_	ADV	_	_	4	compound:prt	_	_
-6	to	_	ADP	_	_	7	case	_	_
-7	you	_	PRON	PERS-P2	_	4	nmod	_	_
-8	.	_	PUNCT	Period	_	4	punct	_	_
+# visual-style 12	bgColor:blue
+# visual-style 12	fgColor:white
+# visual-style 11	bgColor:blue
+# visual-style 11	fgColor:white
+# visual-style 11 12 compound:prt	color:blue
+1	If	_	SCONJ	_	_	5	mark	_	_
+2	you	_	PRON	PERS-P2	_	5	nsubj	_	_
+3	do	_	AUX	PRES-AUX	_	5	aux	_	SpaceAfter=No
+4	n't	_	PART	NEG	_	5	advmod	_	_
+5	like	_	VERB	INF	_	11	advcl	_	_
+6	it	_	PRON	PERS-SG	_	5	obj	_	SpaceAfter=No
+7	,	_	PUNCT	Comma	_	5	punct	_	_
+8	why	_	ADV	WH	_	11	advmod	_	_
+9	do	_	AUX	INF-AUX	_	11	aux	_	_
+10	you	_	PRON	PERS-P2	_	11	nsubj	_	_
+11	go	_	VERB	PRES	_	0	root	_	_
+12	on	_	ADV	_	_	11	compound:prt	_	_
+13	reading	_	VERB	ING	_	11	xcomp	_	SpaceAfter=No
+14	?	_	PUNCT	QuestionMark	_	11	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 5 compound:prt	color:blue
-1	The	_	DET	DEF	_	2	det	_	_
-2	vote	_	NOUN	SG	_	4	nsubj	_	_
-3	will	_	AUX	PRES-AUX	_	4	aux	_	_
-4	take	_	VERB	INF	_	0	root	_	_
-5	place	_	NOUN	SG	_	4	compound:prt	_	_
-6	tomorrow	_	NOUN	SG	_	4	nmod	_	_
-7	at	_	ADP	_	_	8	case	_	_
-8	12	_	NUM	ID	_	4	nmod	_	_
-9	noon	_	NOUN	SG	_	8	nmod	_	_
-10	.	_	PUNCT	Period	_	4	punct	_	_
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 8 9 compound:prt	color:blue
+1	You	_	PRON	PERS-P2	_	2	nsubj	_	_
+2	mean	_	VERB	PRES	_	0	root	_	_
+3	Edward	_	PROPN	SG-NOM	_	8	nsubj	_	SpaceAfter=No
+4	's	_	AUX	PRES-AUX	_	8	aux	_	_
+5	not	_	PART	NEG	_	8	advmod	_	_
+6	going	_	VERB	ING	_	8	aux	_	_
+7	to	_	PART	_	_	8	mark	_	_
+8	take	_	VERB	INF	_	2	xcomp	_	_
+9	part	_	NOUN	SG-NOM	_	8	compound:prt	_	_
+10	in	_	ADP	_	_	12	case	_	_
+11	the	_	DET	DEF	_	12	det	_	_
+12	celebrations	_	NOUN	PL-NOM	_	8	obl	_	SpaceAfter=No
+13	?	_	PUNCT	Questionmark	_	2	punct	_	_
 
 ~~~
 
@@ -255,11 +264,105 @@ The following 7 pairs of parts of speech are connected with `compound:prt`: [en-
 7	taken	_	VERB	PERF	_	2	csubj	_	_
 8	on	_	ADP	_	_	7	compound:prt	_	_
 9	the	_	DET	DEF	_	13	det	_	_
-10	name	_	NOUN	SG	_	7	dobj	_	_
+10	name	_	NOUN	SG-NOM	_	7	obj	_	_
 11	of	_	ADP	_	_	13	amod	_	_
-12	William	_	PROPN	SG	_	7	nmod	_	_
-13	Wilson	_	PROPN	SG	_	12	name	_	_
+12	William	_	PROPN	SG-NOM	_	7	obl	_	_
+13	Wilson	_	PROPN	SG-NOM	_	12	flat	_	SpaceAfter=No
 14	.	_	PUNCT	Period	_	2	punct	_	_
+
+~~~
+
+
+
+
+--------------------------------------------------------------------------------
+
+## Treebank Statistics (UD_English-ParTUT)
+
+This relation is a language-specific subtype of [compound]().
+
+65 nodes (0%) are attached to their parents as `compound:prt`.
+
+64 instances of `compound:prt` (98%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.10769230769231.
+
+The following 5 pairs of parts of speech are connected with `compound:prt`: [en-pos/VERB]()-[en-pos/ADP]() (53; 82% instances), [en-pos/VERB]()-[en-pos/ADV]() (9; 14% instances), [en-pos/ADJ]()-[en-pos/ADP]() (1; 2% instances), [en-pos/PROPN]()-[en-pos/ADP]() (1; 2% instances), [en-pos/SCONJ]()-[en-pos/ADP]() (1; 2% instances).
+
+
+~~~ conllu
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 8 9 compound:prt	color:blue
+1	What	what	PRON	PQ	PronType=Int	0	root	_	_
+2	is	be	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	cop	_	_
+3	the	the	DET	RD	Definite=Def|PronType=Art	5	det	_	_
+4	minimum	minimum	ADJ	A	Degree=Pos	5	amod	_	_
+5	age	age	NOUN	S	Number=Sing	1	nsubj	_	_
+6	required	require	VERB	V	Tense=Past|VerbForm=Part	5	acl	_	_
+7	to	to	PART	PART	_	8	mark	_	_
+8	sign	sign	VERB	V	VerbForm=Inf	6	ccomp	_	_
+9	up	up	ADP	E	_	8	compound:prt	_	_
+10	for	for	ADP	E	_	11	case	_	_
+11	Facebook	Facebook	PROPN	SP	_	8	obl	_	SpaceAfter=No
+12	?	?	PUNCT	FS	_	1	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 4 compound:prt	color:blue
+1	As	as	SCONJ	CS	_	3	mark	_	_
+2	it	it	PRON	PE	Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+3	turns	turn	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	advcl	_	_
+4	out	out	ADV	B	_	3	compound:prt	_	SpaceAfter=No
+5	,	,	PUNCT	FF	_	3	punct	_	_
+6	there	there	ADV	B	_	7	expl	_	_
+7	is	be	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+8	some	some	DET	DI	PronType=Ind	9	det	_	_
+9	truth	truth	NOUN	S	Number=Sing	7	nsubj	_	_
+10	in	in	ADP	E	_	12	case	_	_
+11	both	both	DET	DI	PronType=Ind	12	det	_	_
+12	perspectives	perspective	NOUN	S	Number=Plur	7	obl	_	SpaceAfter=No
+13	.	.	PUNCT	FS	_	7	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 21	bgColor:blue
+# visual-style 21	fgColor:white
+# visual-style 20	bgColor:blue
+# visual-style 20	fgColor:white
+# visual-style 20 21 compound:prt	color:blue
+1	Just	just	ADV	B	_	2	advmod	_	_
+2	enter	enter	VERB	V	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	your	you	DET	AP	Poss=Yes|PronType=Prs	5	nmod:poss	_	_
+4	email	email	NOUN	S	Number=Sing	5	nmod	_	_
+5	address	address	NOUN	S	Number=Sing	2	obj	_	_
+6	and	and	CCONJ	CC	_	7	cc	_	_
+7	password	password	NOUN	S	Number=Sing	5	conj	_	_
+8	into	into	ADP	E	_	10	case	_	_
+9	the	the	DET	RD	Definite=Def|PronType=Art	10	det	_	_
+10	section	section	NOUN	S	Number=Sing	2	obl	_	_
+11	at	at	ADP	E	_	13	case	_	_
+12	the	the	DET	RD	Definite=Def|PronType=Art	13	det	_	_
+13	top	top	NOUN	S	Number=Sing	10	nmod	_	_
+14	of	of	ADP	E	_	16	case	_	_
+15	the	the	DET	RD	Definite=Def|PronType=Art	16	det	_	_
+16	page	page	NOUN	S	Number=Sing	13	nmod	_	_
+17	and	and	CCONJ	CC	_	18	cc	_	_
+18	click	click	VERB	V	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	2	conj	_	_
+19	"	"	PUNCT	FB	_	20	punct	_	SpaceAfter=No
+20	Log	Log	PROPN	SP	_	18	obj	_	_
+21	In	in	ADP	E	_	20	compound:prt	_	SpaceAfter=No
+22	"	"	PUNCT	FB	_	20	punct	_	SpaceAfter=No
+23	.	.	PUNCT	FS	_	2	punct	_	_
 
 ~~~
 

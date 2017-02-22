@@ -4,14 +4,14 @@
 
 ## Treebank Statistics (UD_Indonesian)
 
-There are 1 `SYM` lemmas (6%), 15 `SYM` types (0%) and 418 `SYM` tokens (0%).
-Out of 16 observed tags, the rank of `SYM` is: 14 in number of lemmas, 15 in number of types and 14 in number of tokens.
+There are 1 `SYM` lemmas (6%), 15 `SYM` types (0%) and 388 `SYM` tokens (0%).
+Out of 16 observed tags, the rank of `SYM` is: 14 in number of lemmas, 15 in number of types and 15 in number of tokens.
 
 The 10 most frequent `SYM` lemmas: <em>_</em>
 
 The 10 most frequent `SYM` types:  <em>/, %, =, *, km, &amp;, cm, °, #, +</em>
 
-The 10 most frequent ambiguous lemmas: <em>_</em> ([NOUN]() 27313, [PROPN]() 22844, [PUNCT]() 18228, [VERB]() 13257, [ADP]() 12019, [ADV]() 4760, [ADJ]() 4574, [PRON]() 4397, [NUM]() 4386, [DET]() 3963, [CONJ]() 3659, [SCONJ]() 1475, [PART]() 590, [SYM]() 418, [X]() 39, [AUX]() 1)
+The 10 most frequent ambiguous lemmas: <em>_</em> ([NOUN]() 24724, [PROPN]() 20630, [PUNCT]() 16504, [VERB]() 10952, [ADP]() 10866, [ADV]() 4270, [ADJ]() 4144, [NUM]() 3979, [PRON]() 3936, [DET]() 3594, [CCONJ]() 3284, [SCONJ]() 1333, [AUX]() 960, [PART]() 541, [SYM]() 388, [X]() 38)
 
 The 10 most frequent ambiguous types:  <em>m</em> ([NOUN]() 10, [SYM]() 2, [PROPN]() 1)
 
@@ -23,7 +23,7 @@ The 10 most frequent ambiguous types:  <em>m</em> ([NOUN]() 10, [SYM]() 2, [PROP
 
 ## Morphology
 
-The form / lemma ratio of `SYM` is 15.000000 (the average of all parts of speech is 1437.312500).
+The form / lemma ratio of `SYM` is 15.000000 (the average of all parts of speech is 1344.500000).
 
 The 1st highest number of forms (15) was observed with the lemma “_”: <em>#, $, %, &amp;, *, +, /, =, cm, km, m, m², °, ±, €</em>.
 
@@ -32,21 +32,21 @@ The 1st highest number of forms (15) was observed with the lemma “_”: <em>#,
 
 ## Relations
 
-`SYM` nodes are attached to their parents using 13 different relations: [id-dep/punct]() (265; 63% instances), [id-dep/compound]() (50; 12% instances), [id-dep/nummod]() (38; 9% instances), [id-dep/nmod]() (19; 5% instances), [id-dep/appos]() (17; 4% instances), [id-dep/dobj]() (13; 3% instances), [id-dep/cc]() (6; 1% instances), [id-dep/conj]() (4; 1% instances), [id-dep/nsubj]() (2; 0% instances), [id-dep/acl]() (1; 0% instances), [id-dep/iobj]() (1; 0% instances), [id-dep/nsubjpass]() (1; 0% instances), [id-dep/root]() (1; 0% instances)
+`SYM` nodes are attached to their parents using 14 different relations: [id-dep/punct]() (245; 63% instances), [id-dep/compound]() (47; 12% instances), [id-dep/nummod]() (35; 9% instances), [id-dep/appos]() (16; 4% instances), [id-dep/nmod]() (13; 3% instances), [id-dep/obj]() (11; 3% instances), [id-dep/cc]() (6; 2% instances), [id-dep/obl]() (5; 1% instances), [id-dep/conj]() (4; 1% instances), [id-dep/nsubj]() (2; 1% instances), [id-dep/acl]() (1; 0% instances), [id-dep/iobj]() (1; 0% instances), [id-dep/nsubj:pass]() (1; 0% instances), [id-dep/root]() (1; 0% instances)
 
-Parents of `SYM` nodes belong to 11 different parts of speech: [PROPN]() (164; 39% instances), [NOUN]() (132; 32% instances), [NUM]() (62; 15% instances), [VERB]() (40; 10% instances), [SYM]() (10; 2% instances), [X]() (4; 1% instances), [ADJ]() (2; 0% instances), [ADP]() (1; 0% instances), [PRON]() (1; 0% instances), [PUNCT]() (1; 0% instances), [ROOT]() (1; 0% instances)
+Parents of `SYM` nodes belong to 9 different parts of speech: [PROPN]() (148; 38% instances), [NOUN]() (129; 33% instances), [NUM]() (58; 15% instances), [VERB]() (35; 9% instances), [SYM]() (10; 3% instances), [X]() (4; 1% instances), [ADJ]() (2; 1% instances), [PRON]() (1; 0% instances), [ROOT]() (1; 0% instances)
 
-279 (67%) `SYM` nodes are leaves.
+259 (67%) `SYM` nodes are leaves.
 
-65 (16%) `SYM` nodes have one child.
+58 (15%) `SYM` nodes have one child.
 
-31 (7%) `SYM` nodes have two children.
+27 (7%) `SYM` nodes have two children.
 
-43 (10%) `SYM` nodes have three or more children.
+44 (11%) `SYM` nodes have three or more children.
 
 The highest child degree of a `SYM` node is 8.
 
-Children of `SYM` nodes are attached using 11 different relations: [id-dep/nummod]() (138; 48% instances), [id-dep/punct]() (59; 21% instances), [id-dep/nmod]() (29; 10% instances), [id-dep/case]() (16; 6% instances), [id-dep/compound]() (16; 6% instances), [id-dep/name]() (8; 3% instances), [id-dep/appos]() (6; 2% instances), [id-dep/advmod]() (5; 2% instances), [id-dep/cc]() (4; 1% instances), [id-dep/conj]() (4; 1% instances), [id-dep/nsubj]() (1; 0% instances)
+Children of `SYM` nodes are attached using 11 different relations: [id-dep/nummod]() (129; 48% instances), [id-dep/punct]() (59; 22% instances), [id-dep/nmod]() (27; 10% instances), [id-dep/case]() (15; 6% instances), [id-dep/compound]() (15; 6% instances), [id-dep/flat]() (7; 3% instances), [id-dep/appos]() (6; 2% instances), [id-dep/advmod]() (5; 2% instances), [id-dep/conj]() (4; 1% instances), [id-dep/cc]() (3; 1% instances), [id-dep/nsubj]() (1; 0% instances)
 
-Children of `SYM` nodes belong to 10 different parts of speech: [NUM]() (143; 50% instances), [PUNCT]() (57; 20% instances), [NOUN]() (30; 10% instances), [PROPN]() (19; 7% instances), [ADP]() (16; 6% instances), [SYM]() (10; 3% instances), [ADV]() (5; 2% instances), [CONJ]() (4; 1% instances), [ADJ]() (1; 0% instances), [PRON]() (1; 0% instances)
+Children of `SYM` nodes belong to 10 different parts of speech: [NUM]() (134; 49% instances), [PUNCT]() (57; 21% instances), [NOUN]() (28; 10% instances), [PROPN]() (17; 6% instances), [ADP]() (15; 6% instances), [SYM]() (10; 4% instances), [ADV]() (5; 2% instances), [CCONJ]() (3; 1% instances), [ADJ]() (1; 0% instances), [PRON]() (1; 0% instances)
 

@@ -6,12 +6,12 @@
 
 This relation is universal.
 
-6860 nodes (6%) are attached to their parents as `amod`.
+6523 nodes (7%) are attached to their parents as `amod`.
 
-6712 instances of `amod` (98%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.18294460641399.
+6245 instances of `amod` (96%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.20282078798099.
 
-The following 8 pairs of parts of speech are connected with `amod`: [sk-pos/NOUN]()-[sk-pos/ADJ]() (6648; 97% instances), [sk-pos/PROPN]()-[sk-pos/ADJ]() (134; 2% instances), [sk-pos/PRON]()-[sk-pos/ADJ]() (48; 1% instances), [sk-pos/ADJ]()-[sk-pos/ADJ]() (10; 0% instances), [sk-pos/NUM]()-[sk-pos/ADJ]() (10; 0% instances), [sk-pos/X]()-[sk-pos/ADJ]() (8; 0% instances), [sk-pos/INTJ]()-[sk-pos/ADJ]() (1; 0% instances), [sk-pos/VERB]()-[sk-pos/ADJ]() (1; 0% instances).
+The following 11 pairs of parts of speech are connected with `amod`: [sk-pos/NOUN]()-[sk-pos/ADJ]() (6285; 96% instances), [sk-pos/PROPN]()-[sk-pos/ADJ]() (129; 2% instances), [sk-pos/PRON]()-[sk-pos/ADJ]() (41; 1% instances), [sk-pos/NOUN]()-[sk-pos/DET]() (17; 0% instances), [sk-pos/ADV]()-[sk-pos/ADJ]() (13; 0% instances), [sk-pos/ADJ]()-[sk-pos/ADJ]() (11; 0% instances), [sk-pos/DET]()-[sk-pos/ADJ]() (9; 0% instances), [sk-pos/NUM]()-[sk-pos/ADJ]() (8; 0% instances), [sk-pos/X]()-[sk-pos/ADJ]() (7; 0% instances), [sk-pos/NUM]()-[sk-pos/DET]() (2; 0% instances), [sk-pos/INTJ]()-[sk-pos/ADJ]() (1; 0% instances).
 
 
 ~~~ conllu
@@ -24,43 +24,45 @@ The following 8 pairs of parts of speech are connected with `amod`: [sk-pos/NOUN
 2	kroky	krok	NOUN	SSip1	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	5	nsubj	_	_
 3	švajčiarskej	švajčiarský	ADJ	AAfs2x	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	4	amod	_	_
 4	sudkyne	sudkyňa	NOUN	SSfs2	Case=Gen|Gender=Fem|Number=Sing	2	nmod	_	_
-5	povedú	poviesť	VERB	VKdpc+	Aspect=Perf|Mood=Ind|Negative=Pos|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	povedú	poviesť	VERB	VKdpc+	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	0	root	_	_
 6	do	do	ADP	Eu2	AdpType=Prep|Case=Gen	7	case	_	_
-7	Belehradu	belehrad	PROPN	SSis2:r	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	5	nmod	_	_
+7	Belehradu	belehrad	PROPN	SSis2:r	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	5	obl	_	SpaceAfter=No
 8	.	.	PUNCT	ZIP	VerbForm=Inf	5	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 2 amod	color:blue
-1	*	*	PUNCT	#	_	3	punct	_	_
-2	Ezopove	ezopov	ADJ	AFfp1x:r	Case=Nom|Degree=Pos|Gender=Fem|Number=Plur	3	amod	_	_
-3	Bájky	bájka	PROPN	SSfp1:r	Case=Nom|Gender=Fem|Number=Plur	0	root	_	_
-4	(	(	PUNCT	Z	_	3	punct	_	_
-5	1530	1530	NUM	0	NumForm=Digit	3	dep	_	_
-6	)	)	PUNCT	Z	_	3	punct	_	_
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 6 amod	color:blue
+1	Medzitým	medzitým	ADV	Dx	Degree=Pos	5	advmod	_	_
+2	v	v	ADP	Eu6	AdpType=Prep|Case=Loc	3	case	_	_
+3	máji	máj	NOUN	SSis6	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	5	obl	_	_
+4	1832	1832	NUM	0	NumForm=Digit	3	nummod	_	_
+5	padla	padnúť	VERB	VLdscf+	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbForm=Part	0	root	_	_
+6	obliehaná	obliehaný	ADJ	Gtfs1x	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos|VerbForm=Part|Voice=Pass	7	amod	_	_
+7	Akka	akka	PROPN	SSfs1:r	Case=Nom|Gender=Fem|Number=Sing	5	nsubj	_	SpaceAfter=No
+8	.	.	PUNCT	Z	_	5	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 5 amod	color:blue
-1	Uvidíme	uvidieť	VERB	VKdpa+	Aspect=Perf|Mood=Ind|Negative=Pos|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
-2	,	,	PUNCT	ZIP	VerbForm=Inf	6	punct	_	_
-3	ako	ako	CONJ	O	_	6	advmod	_	_
-4	do	to	PRON	PFns1:q	Case=Nom|Gender=Neut|Number=Sing|PronType=Prs|Typo=Yes	6	nsubj	_	_
-5	celé	celý	ADJ	AAns1x	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	4	amod	_	_
-6	dopadne	dopadnúť	VERB	VKdsc+	Aspect=Perf|Mood=Ind|Negative=Pos|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	ccomp	_	_
-7	.	.	PUNCT	ZIP	VerbForm=Inf	1	punct	_	_
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 3 amod	color:blue
+1	A	a	PART	T	_	6	advmod	_	_
+2	čo	čo	PRON	PFns1	Case=Nom|Gender=Neut|Number=Sing|PronType=Int,Rel	6	nsubj	_	_
+3	hnusné	hnusný	ADJ	AAns1x	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	2	amod	_	_
+4	to	to	DET	PFns1	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	6	discourse	_	_
+5	tu	tu	ADV	Dx	Degree=Pos	6	advmod	_	_
+6	rastie	rásť	VERB	VKesc+	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+7	?	?	PUNCT	ZIP	VerbForm=Inf	6	punct	_	_
 
 ~~~
 

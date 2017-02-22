@@ -4,59 +4,64 @@
 
 ## Treebank Statistics (UD_Kazakh)
 
-This feature is universal but the values `Coverb` are language-specific.
-It occurs with 4 different values: `Coverb`, `Ger`, `Part`, `Trans`.
+This feature is universal but the values `Conv`, `Cov` are language-specific.
+It occurs with 5 different values: `Conv`, `Cov`, `Fin`, `Ger`, `Part`.
 
-168 tokens (3%) have a non-empty value of `VerbForm`.
-134 types (5%) occur at least once with a non-empty value of `VerbForm`.
-88 lemmas (5%) occur at least once with a non-empty value of `VerbForm`.
-The feature is used with 2 part-of-speech tags: [kk-pos/VERB]() (158; 3% instances), [kk-pos/AUX]() (10; 0% instances).
+102 tokens (19%) have a non-empty value of `VerbForm`.
+81 types (25%) occur at least once with a non-empty value of `VerbForm`.
+60 lemmas (24%) occur at least once with a non-empty value of `VerbForm`.
+The feature is used with 2 part-of-speech tags: [kk-pos/VERB]() (77; 15% instances), [kk-pos/AUX]() (25; 5% instances).
 
 ### `VERB`
 
-158 [kk-pos/VERB]() tokens (15% of all `VERB` tokens) have a non-empty value of `VerbForm`.
+77 [kk-pos/VERB]() tokens (100% of all `VERB` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="Person.html">Person</a>=EMPTY</tt> (143; 91%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (143; 91%), <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (113; 72%).
+The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (68; 88%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (67; 87%), <tt><a href="Polarity.html">Polarity</a>=EMPTY</tt> (67; 87%), <tt><a href="Aspect.html">Aspect</a>=EMPTY</tt> (57; 74%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (43; 56%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (43; 56%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (40; 52%).
 
 `VERB` tokens may have the following values of `VerbForm`:
 
-* `Coverb` (44; 28% of non-empty `VerbForm`): <em>алып, болып, келе, Келіп, Тарағысы, Шошып, абыржып, азайып, ала, алыса</em>
-* `Ger` (34; 22% of non-empty `VerbForm`): <em>_, алуды, алқалаған, асқанда, атауға, ашқанда, басталғаннан, батқанда, бағынуы, болған</em>
-* `Part` (31; 20% of non-empty `VerbForm`): <em>деген, келген, қашқан, айтқан, алдырған, асыратын, атқарушы, білетін, бітірген, бұйырған</em>
-* `Trans` (49; 31% of non-empty `VerbForm`): <em>деп, болмаса, алып, атып, берсе, беріп, болса, қашып, өлгенше, айтып</em>
-* `EMPTY` (897): <em>_, деп, болып, біледі, болды, болған, береді, болады, бастап, басып</em>
+* `Conv` (17; 22% of non-empty `VerbForm`): <em>деп, жатса, аспай, атанып, барып, бастап, жалынса, жыласа, сатылып, туса</em>
+* `Cov` (3; 4% of non-empty `VerbForm`): <em>бере, таласа</em>
+* `Fin` (29; 38% of non-empty `VerbForm`): <em>айтты, алған, безді, бермеді, болмады, біледі, бүлінер, бұз, бұзған, бәсеңдер</em>
+* `Ger` (9; 12% of non-empty `VerbForm`): <em>шешуі, атауға, бермеуі, кеңескенде, сүйгеніне, тырысуының, тұрғызылғандықтан</em>
+* `Part` (19; 25% of non-empty `VerbForm`): <em>шыққан, Туған, айтарлықтай, айтушы, болатын, ойлайтын, отыратын, сездірмеске, сүймеген, тиген</em>
 
 <table>
-  <tr><th>Paradigm <i>де</i></th><th><tt>Part</tt></th><th><tt>Trans</tt></th><th><tt>Ger</tt></th><th><tt>Coverb</tt></th></tr>
-  <tr><td><tt><a href="Aspect.html">Aspect</a>=Perf</tt></td><td></td><td><em>деп</em></td><td></td><td><em>деп</em></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Loc|<a href="Tense.html">Tense</a>=Past</tt></td><td></td><td></td><td><em>дегенде</em></td><td></td></tr>
-  <tr><td><tt><a href="Mood.html">Mood</a>=Cond|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=2</tt></td><td></td><td><em>десең</em></td><td></td><td></td></tr>
-  <tr><td><tt><a href="Tense.html">Tense</a>=Past</tt></td><td><em>деген, дегендей</em></td><td></td><td></td><td></td></tr>
+  <tr><th>Paradigm <i>бер</i></th><th><tt>Fin</tt></th><th><tt>Ger</tt></th><th><tt>Cov</tt></th></tr>
+  <tr><td><tt><a href="Aspect.html">Aspect</a>=Imp</tt></td><td></td><td></td><td><em>бере</em></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Number[psor].html">Number[psor]</a>=Plur,Sing|<a href="Person[psor].html">Person[psor]</a>=3|<a href="Polarity.html">Polarity</a>=Neg</tt></td><td></td><td><em>бермеуі</em></td><td></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3|<a href="Polarity.html">Polarity</a>=Neg|<a href="Tense.html">Tense</a>=Past</tt></td><td><em>бермеді</em></td><td></td><td></td></tr>
 </table>
 
 ### `AUX`
 
-10 [kk-pos/AUX]() tokens (3% of all `AUX` tokens) have a non-empty value of `VerbForm`.
+25 [kk-pos/AUX]() tokens (100% of all `AUX` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `AUX` and `VerbForm` co-occurred: <tt><a href="Number.html">Number</a>=EMPTY</tt> (10; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (10; 100%), <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (6; 60%).
+The most frequent other feature values with which `AUX` and `VerbForm` co-occurred: <tt><a href="Polarity.html">Polarity</a>=EMPTY</tt> (22; 88%), <tt><a href="Number.html">Number</a>=Sing</tt> (20; 80%), <tt><a href="Person.html">Person</a>=3</tt> (17; 68%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (15; 60%), <tt><a href="Tense.html">Tense</a>=Past</tt> (14; 56%).
 
 `AUX` tokens may have the following values of `VerbForm`:
 
-* `Coverb` (2; 20% of non-empty `VerbForm`): <em>ала, бара</em>
-* `Ger` (1; 10% of non-empty `VerbForm`): <em>жүргенде</em>
-* `Part` (3; 30% of non-empty `VerbForm`): <em>жатқан, отырған</em>
-* `Trans` (4; 40% of non-empty `VerbForm`): <em>беріп, жіберіп, жүріп, сала</em>
-* `EMPTY` (314): <em>_, бастады, жатыр, екен, кетті, еді, емес, қалды, алды, екенін</em>
+* `Conv` (4; 16% of non-empty `VerbForm`): <em>болмаса, болса, болсам, болып</em>
+* `Fin` (17; 68% of non-empty `VerbForm`): <em>еді, болды, гөр, емес, көрме</em>
+* `Ger` (2; 8% of non-empty `VerbForm`): <em>болуға, болғандықтан</em>
+* `Part` (2; 8% of non-empty `VerbForm`): <em>болатын, болушы</em>
 
 <table>
-  <tr><th>Paradigm <i>жүр</i></th><th><tt>Trans</tt></th><th><tt>Ger</tt></th></tr>
-  <tr><td><tt><a href="Aspect.html">Aspect</a>=Perf</tt></td><td><em>жүріп</em></td><td></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Loc|<a href="Tense.html">Tense</a>=Past</tt></td><td></td><td><em>жүргенде</em></td></tr>
+  <tr><th>Paradigm <i>бол</i></th><th><tt>Fin</tt></th><th><tt>Part</tt></th><th><tt>Ger</tt></th><th><tt>Conv</tt></th></tr>
+  <tr><td><tt><a href="Aspect.html">Aspect</a>=Imp</tt></td><td></td><td><em>болатын</em></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Aspect.html">Aspect</a>=Perf</tt></td><td></td><td></td><td></td><td><em>болып</em></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Abl</tt></td><td></td><td></td><td><em>болғандықтан</em></td><td></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Cnd|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=1</tt></td><td></td><td></td><td></td><td><em>болсам</em></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Cnd|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3</tt></td><td></td><td></td><td></td><td><em>болса</em></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Cnd|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3|<a href="Polarity.html">Polarity</a>=Neg</tt></td><td></td><td></td><td></td><td><em>болмаса</em></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Past</tt></td><td><em>болды</em></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Pot</tt></td><td></td><td><em>болушы</em></td><td></td><td></td></tr>
 </table>
 
 ## Relations with Agreement in `VerbForm`
 
 The 10 most frequent relations where parent and child node agree in `VerbForm`:
-<tt>VERB --[<a href="../dep/conj.html">conj</a>]--> VERB</tt> (11; 92%),
-<tt>VERB --[<a href="../dep/remnant.html">remnant</a>]--> VERB</tt> (1; 100%).
+<tt>VERB --[<a href="../dep/conj.html">conj</a>]--> VERB</tt> (6; 100%),
+<tt>VERB --[<a href="../dep/parataxis.html">parataxis</a>]--> VERB</tt> (3; 100%),
+<tt>VERB --[<a href="../dep/xcomp.html">xcomp</a>]--> VERB</tt> (1; 100%).
 

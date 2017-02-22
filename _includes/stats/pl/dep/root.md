@@ -6,12 +6,12 @@
 
 This relation is universal.
 
-8227 nodes (10%) are attached to their parents as `root`.
+7127 nodes (10%) are attached to their parents as `root`.
 
-8227 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.5377415825939.
+7127 instances of `root` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 3.55914129367195.
 
-The following 9 pairs of parts of speech are connected with `root`: [pl-pos/ROOT]()-[pl-pos/VERB]() (7499; 91% instances), [pl-pos/ROOT]()-[pl-pos/ADJ]() (342; 4% instances), [pl-pos/ROOT]()-[pl-pos/NOUN]() (306; 4% instances), [pl-pos/ROOT]()-[pl-pos/PRON]() (34; 0% instances), [pl-pos/ROOT]()-[pl-pos/AUX]() (22; 0% instances), [pl-pos/ROOT]()-[pl-pos/ADV]() (13; 0% instances), [pl-pos/ROOT]()-[pl-pos/PROPN]() (7; 0% instances), [pl-pos/ROOT]()-[pl-pos/NUM]() (3; 0% instances), [pl-pos/ROOT]()-[pl-pos/PART]() (1; 0% instances).
+The following 10 pairs of parts of speech are connected with `root`: [pl-pos/ROOT]()-[pl-pos/VERB]() (6155; 86% instances), [pl-pos/ROOT]()-[pl-pos/ADJ]() (640; 9% instances), [pl-pos/ROOT]()-[pl-pos/NOUN]() (265; 4% instances), [pl-pos/ROOT]()-[pl-pos/PRON]() (19; 0% instances), [pl-pos/ROOT]()-[pl-pos/AUX]() (16; 0% instances), [pl-pos/ROOT]()-[pl-pos/ADV]() (13; 0% instances), [pl-pos/ROOT]()-[pl-pos/DET]() (9; 0% instances), [pl-pos/ROOT]()-[pl-pos/PROPN]() (7; 0% instances), [pl-pos/ROOT]()-[pl-pos/NUM]() (2; 0% instances), [pl-pos/ROOT]()-[pl-pos/PART]() (1; 0% instances).
 
 
 ~~~ conllu
@@ -20,47 +20,39 @@ The following 9 pairs of parts of speech are connected with `root`: [pl-pos/ROOT
 # visual-style 0	bgColor:blue
 # visual-style 0	fgColor:white
 # visual-style 0 1 root	color:blue
-1	Myślę	myśleć	VERB	fin:sg:pri:imperf	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
-2	,	,	PUNCT	interp:_	_	4	punct	_	_
-3	że	że	SCONJ	comp:_	_	4	mark	_	_
-4	mogą	móc	VERB	fin:pl:ter:imperf	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	1	ccomp	_	_
-5	.	.	PUNCT	interp:_	_	1	punct	_	_
+1	Zawahała	zawahać	VERB	praet:sg:f:perf	Aspect=Perf|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	_
+2	się	się	PRON	qub	PronType=Prs|Reflex=Yes	1	expl:pv	_	SpaceAfter=No
+3	.	.	PUNCT	interp	_	1	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
 # visual-style 0	bgColor:blue
 # visual-style 0	fgColor:white
-# visual-style 0 5 root	color:blue
-1	Ich	on	PRON	ppron3:pl:gen:m1:ter:akc:npraep	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur|Person=3|PrepCase=Npr|PronType=Prs|Variant=Long	2	nmod	_	_
-2	rodzice	rodzic	NOUN	subst:pl:nom:m1	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	5	nsubj	_	_
-3	nie	nie	PART	qub:_	_	5	neg	_	_
-4	są	być	VERB	fin:pl:ter:imperf	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
-5	rozwiedzeni	rozwiedziony	ADJ	adj:pl:nom:m1:pos	Animacy=Anim|Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	0	root	_	_
-6	.	.	PUNCT	interp:_	_	5	punct	_	_
+# visual-style 0 4 root	color:blue
+1	-	-	PUNCT	interp	_	4	punct	_	_
+2	Jesteśmy	być	AUX	fin:pl:pri:imperf	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	4	aux:pass	_	_
+3	sobie	siebie	PRON	siebie:dat	Case=Dat|PronType=Prs|Reflex=Yes	4	obj	_	_
+4	pisani	pisany	ADJ	ppas:pl:nom:m1:imperf:aff	Animacy=Hum|Aspect=Imp|Case=Nom|Gender=Masc|Number=Plur|Polarity=Pos|VerbForm=Part|Voice=Pass	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	interp	_	4	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
 # visual-style 0	bgColor:blue
 # visual-style 0	fgColor:white
-# visual-style 0 3 root	color:blue
-1	Opisane	opisać	VERB	ppas:pl:nom:f:perf:aff	Aspect=Perf|Case=Nom|Gender=Fem|Negative=Pos|Number=Plur|VerbForm=Part|Voice=Pass	3	acl	_	_
-2	tu	tu	ADV	adv:_	_	1	advmod	_	_
-3	postawy	postawa	NOUN	subst:pl:nom:f	Case=Nom|Gender=Fem|Number=Plur	0	root	_	_
-4	to	to	VERB	pred:_	_	3	cop	_	_
-5	wady	wada	NOUN	subst:pl:nom:f	Case=Nom|Gender=Fem|Number=Plur	3	nsubj	_	_
-6	ludzkie	ludzki	ADJ	adj:pl:nom:f:pos	Case=Nom|Degree=Pos|Gender=Fem|Number=Plur	5	amod	_	_
-7	znane	znany	ADJ	adj:pl:nom:f:pos	Case=Nom|Degree=Pos|Gender=Fem|Number=Plur	5	amod	_	_
-8	od	od	ADP	prep:gen:nwok	AdpType=Prep|Case=Gen|Variant=Short	9	case	_	_
-9	pokoleń	pokolenie	NOUN	subst:pl:gen:n	Case=Gen|Gender=Neut|Number=Plur	7	nmod	_	_
-10	.	.	PUNCT	interp:_	_	3	punct	_	_
+# visual-style 0 4 root	color:blue
+1	-	-	PUNCT	interp	_	4	punct	_	_
+2	Nie	nie	PART	qub	_	4	advmod	_	_
+3	jesteśmy	być	AUX	fin:pl:pri:imperf	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	4	cop	_	_
+4	zainteresowane	zainteresowana	NOUN	subst:pl:nom:f	Case=Nom|Gender=Fem|Number=Plur	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	interp	_	4	punct	_	_
 
 ~~~
 

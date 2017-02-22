@@ -24,8 +24,8 @@ The following 2 pairs of parts of speech are connected with `nmod:poss`: [de-pos
 2	Zahlungsmittel	Zahlungsmittel	NOUN	NN	_	0	root	_	_
 3	waren	sein	VERB	VAFIN	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	2	cop	_	_
 4	Transferrubel	Transferrubel	PROPN	NN	Case=Nom|Number=Sing	2	nsubj	_	_
-5	und	und	CONJ	KON	_	4	cc	_	_
-6	Goldreserven	Goldreserve	NOUN	NN	_	4	conj	_	_
+5	und	und	CCONJ	KON	_	6	cc	_	_
+6	Goldreserven	Goldreserve	NOUN	NN	_	4	conj	_	SpaceAfter=No
 7	.	.	PUNCT	$.	_	2	punct	_	_
 
 ~~~
@@ -43,7 +43,7 @@ The following 2 pairs of parts of speech are connected with `nmod:poss`: [de-pos
 4	Eniola	Eniola	PROPN	NE	_	3	appos	_	_
 5	ist	sein	VERB	VAFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
 6	englische	englisch	ADJ	ADJA	Degree=Pos	7	amod	_	_
-7	Fußballnationalspielerin	Fußballnationalspielerin	NOUN	NN	_	0	root	_	_
+7	Fußballnationalspielerin	Fußballnationalspielerin	NOUN	NN	_	0	root	_	SpaceAfter=No
 8	.	.	PUNCT	$.	_	7	punct	_	_
 
 ~~~

@@ -22,9 +22,9 @@ The following 3 pairs of parts of speech are connected with `amod`: [sa-pos/NOUN
 # visual-style 3 2 amod	color:blue
 1	जायन्ते	जन्	VERB	_	Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Translit=jāyante|LTranslit=jan
 2	विरला	विरल	ADJ	_	Case=Acc|Gender=Fem|Number=Plur	3	amod	_	Translit=viralā|LTranslit=virala
-3	लोके	लोक्	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	1	nmod	_	Translit=loke|LTranslit=lok
+3	लोके	लोक्	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	1	obl	_	Translit=loke|LTranslit=lok
 4	जलदा	जलद	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	1	nsubj	_	Translit=jaladā|LTranslit=jalada
-5	इव	इव	CONJ	_	_	4	cc	_	Translit=iva|LTranslit=iva
+5	इव	इव	CCONJ	_	_	6	cc	_	Translit=iva|LTranslit=iva
 6	सज्जनाः	सत्हनाः	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	4	conj	_	Translit=sajjanāḥ|LTranslit=sathanāḥ
 
 ~~~
@@ -40,8 +40,8 @@ The following 3 pairs of parts of speech are connected with `amod`: [sa-pos/NOUN
 2	विआपाद्य	विआपाद्	VERB	_	VerbForm=Part	7	advcl	_	Translit=viāpādya|LTranslit=viāpād
 3	अस्मत्	अहम्	PRON	_	Case=Abl|Number=Sing|Person=1|PronType=Prs	5	det	_	Translit=asmat|LTranslit=aham
 4	श्वशुरकम्	श्वशुरक	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	5	amod	_	Translit=śvaśurakam|LTranslit=śvaśuraka
-5	अन्तःपुरमध्याद्	अन्तःपुरमध्य	NOUN	_	Case=Abl|Gender=Masc|Number=Sing	7	nmod	_	Translit=antaḥpuramadhyād|LTranslit=antaḥpuramadhya
-6	एनाम्	एन	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	7	dobj	_	Translit=enām|LTranslit=ena
+5	अन्तःपुरमध्याद्	अन्तःपुरमध्य	NOUN	_	Case=Abl|Gender=Masc|Number=Sing	7	obl	_	Translit=antaḥpuramadhyād|LTranslit=antaḥpuramadhya
+6	एनाम्	एन	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	7	obj	_	Translit=enām|LTranslit=ena
 7	गृह्णामि	ग्रह्	VERB	_	Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Translit=gr̥hṇāmi|LTranslit=grah
 
 ~~~

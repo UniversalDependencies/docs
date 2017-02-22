@@ -11,14 +11,14 @@ The 10 most frequent `NUM` lemmas: त्रि, पञ्चन्, शत, ए
 
 The 10 most frequent `NUM` types:  शतेन, एक, एकः, तिस्रः, त्रयः, त्रि, द्वादशभिर्, पञ्च, पञ्चभिः, मास
 
-The 10 most frequent ambiguous lemmas: एक ([ADV]() 1, [NUM]() 1), मास ([NUM]() 1, [NOUN]() 1)
+The 10 most frequent ambiguous lemmas: एक ([NUM]() 1, [ADV]() 1), मास ([NUM]() 1, [NOUN]() 1)
 
-The 10 most frequent ambiguous types:  मास ([NOUN]() 1, [NUM]() 1)
+The 10 most frequent ambiguous types:  मास ([NUM]() 1, [NOUN]() 1)
 
 
 * मास
-  * [NOUN]() 1: अहम् तव पुत्रान् <b>मास</b> षट्केन यदि नीतिशास्त्र ज्ञानम् न करोमि ततḥ अहम् स्व नाम त्यागम् करोमि
   * [NUM]() 1: ते अपि तानि अधीत्य <b>मास</b> षट्केन यथा उक्तह् संवृत्ताḥ
+  * [NOUN]() 1: अहम् तव पुत्रान् <b>मास</b> षट्केन यदि नीतिशास्त्र ज्ञानम् न करोमि ततḥ अहम् स्व नाम त्यागम् करोमि
 
 ## Morphology
 
@@ -51,7 +51,7 @@ Parents of `NUM` nodes belong to 2 different parts of speech: [NOUN]() (12; 92% 
 
 The highest child degree of a `NUM` node is 1.
 
-Children of `NUM` nodes are attached using 1 different relations: [sa-dep/dobj]() (1; 100% instances)
+Children of `NUM` nodes are attached using 1 different relations: [sa-dep/obj]() (1; 100% instances)
 
 Children of `NUM` nodes belong to 1 different parts of speech: [NOUN]() (1; 100% instances)
 

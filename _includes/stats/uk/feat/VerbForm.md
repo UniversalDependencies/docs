@@ -4,26 +4,54 @@
 
 ## Treebank Statistics (UD_Ukrainian)
 
-This feature is universal but the values `Imps` are language-specific.
-It occurs with 4 different values: `Fin`, `Imps`, `Inf`, `Part`.
+This feature is universal but the values `Conv` are language-specific.
+It occurs with 4 different values: `Conv`, `Fin`, `Inf`, `Part`.
 
-341 tokens (20%) have a non-empty value of `VerbForm`.
-211 types (30%) occur at least once with a non-empty value of `VerbForm`.
-157 lemmas (26%) occur at least once with a non-empty value of `VerbForm`.
-The feature is used with 2 part-of-speech tags: [uk-pos/VERB]() (319; 19% instances), [uk-pos/ADJ]() (22; 1% instances).
+1839 tokens (14%) have a non-empty value of `VerbForm`.
+1361 types (26%) occur at least once with a non-empty value of `VerbForm`.
+993 lemmas (26%) occur at least once with a non-empty value of `VerbForm`.
+The feature is used with 3 part-of-speech tags: [uk-pos/VERB]() (1552; 12% instances), [uk-pos/AUX]() (159; 1% instances), [uk-pos/ADJ]() (128; 1% instances).
 
 ### `VERB`
 
-319 [uk-pos/VERB]() tokens (100% of all `VERB` tokens) have a non-empty value of `VerbForm`.
+1552 [uk-pos/VERB]() tokens (100% of all `VERB` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="Mood.html">Mood</a>=Ind</tt> (242; 76%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (207; 65%), <tt><a href="Aspect.html">Aspect</a>=Imp</tt> (206; 65%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (189; 59%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (176; 55%).
+The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="Person.html">Person</a>=EMPTY</tt> (1257; 81%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (1201; 77%), <tt><a href="Aspect.html">Aspect</a>=Imp</tt> (982; 63%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (971; 63%), <tt><a href="Tense.html">Tense</a>=Past</tt> (956; 62%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (921; 59%).
 
 `VERB` tokens may have the following values of `VerbForm`:
 
-* `Fin` (255; 80% of non-empty `VerbForm`): <em>є, був, каже, пішов, сказав, плаває, було, навчають, Кажуть, буде</em>
-* `Imps` (14; 4% of non-empty `VerbForm`): <em>зароблено, Втрачено, Сказано, визначено, вирішено, зауважено, зроблено, з’ясовано, наказано, передбачено</em>
-* `Inf` (49; 15% of non-empty `VerbForm`): <em>зберігати, копати, плавати, розмовляти, чекати, бути, зізнатися, почати, працювати, примусити</em>
-* `Part` (1; 0% of non-empty `VerbForm`): <em>враховуючи</em>
+* `Conv` (85; 5% of non-empty `VerbForm`): <em>тримаючи, виходячи, їдучи, Дочекавшись, Дізнавшись, Одкинувши, Побачивши, Приїхавши, Судячи, біжучи</em>
+* `Fin` (1221; 79% of non-empty `VerbForm`): <em>було, мав, мали, ходили, виявилося, сказав, жив, міг, почали, зробив</em>
+* `Inf` (246; 16% of non-empty `VerbForm`): <em>зробити, взяти, робити, сказати, брати, випити, знайти, подивитися, працювати, їсти</em>
+
+<table>
+  <tr><th>Paradigm <i>мати</i></th><th><tt>Fin</tt></th><th><tt>Inf</tt></th></tr>
+  <tr><td><tt></tt></td><td></td><td><em>мати</em></td></tr>
+  <tr><td><tt><a href="Gender.html">Gender</a>=Masc|<a href="Mood.html">Mood</a>=Ind|<a href="Tense.html">Tense</a>=Past</tt></td><td><em>мав</em></td><td></td></tr>
+  <tr><td><tt><a href="Gender.html">Gender</a>=Fem|<a href="Mood.html">Mood</a>=Ind|<a href="Tense.html">Tense</a>=Past</tt></td><td><em>мала</em></td><td></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=1|<a href="Tense.html">Tense</a>=Pres</tt></td><td><em>маю</em></td><td></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=2|<a href="Tense.html">Tense</a>=Fut</tt></td><td><em>матимеш</em></td><td></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Fut</tt></td><td><em>матиме</em></td><td></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Pres</tt></td><td><em>має</em></td><td></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=1|<a href="Tense.html">Tense</a>=Pres</tt></td><td><em>маємо</em></td><td></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Pres</tt></td><td><em>мають</em></td><td></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Plur|<a href="Tense.html">Tense</a>=Past</tt></td><td><em>мали</em></td><td></td></tr>
+</table>
+
+`VerbForm` seems to be **lexical feature** of `VERB`. 90% lemmas (792) occur only with one value of `VerbForm`.
+
+### `AUX`
+
+159 [uk-pos/AUX]() tokens (92% of all `AUX` tokens) have a non-empty value of `VerbForm`.
+
+The most frequent other feature values with which `AUX` and `VerbForm` co-occurred: <tt><a href="Aspect.html">Aspect</a>=Imp</tt> (159; 100%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (149; 94%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (137; 86%), <tt><a href="Tense.html">Tense</a>=Past</tt> (129; 81%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (112; 70%).
+
+`AUX` tokens may have the following values of `VerbForm`:
+
+* `Conv` (1; 1% of non-empty `VerbForm`): <em>бувши</em>
+* `Fin` (150; 94% of non-empty `VerbForm`): <em>було, був, була, були, є, буде, будемо, Буду, Будьте</em>
+* `Inf` (8; 5% of non-empty `VerbForm`): <em>бути</em>
+* `EMPTY` (14): <em>б, би, ці</em>
 
 <table>
   <tr><th>Paradigm <i>бути</i></th><th><tt>Fin</tt></th><th><tt>Inf</tt></th></tr>
@@ -31,31 +59,33 @@ The most frequent other feature values with which `VERB` and `VerbForm` co-occur
   <tr><td><tt><a href="Gender.html">Gender</a>=Masc|<a href="Mood.html">Mood</a>=Ind|<a href="Tense.html">Tense</a>=Past</tt></td><td><em>був</em></td><td></td></tr>
   <tr><td><tt><a href="Gender.html">Gender</a>=Fem|<a href="Mood.html">Mood</a>=Ind|<a href="Tense.html">Tense</a>=Past</tt></td><td><em>була</em></td><td></td></tr>
   <tr><td><tt><a href="Gender.html">Gender</a>=Neut|<a href="Mood.html">Mood</a>=Ind|<a href="Tense.html">Tense</a>=Past</tt></td><td><em>було</em></td><td></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Imp|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=2</tt></td><td><em>Будьте</em></td><td></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=1|<a href="Tense.html">Tense</a>=Fut</tt></td><td><em>Буду</em></td><td></td></tr>
   <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Fut</tt></td><td><em>буде</em></td><td></td></tr>
   <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Pres</tt></td><td><em>є</em></td><td></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=1|<a href="Tense.html">Tense</a>=Fut</tt></td><td><em>будемо</em></td><td></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Pres</tt></td><td><em>є</em></td><td></td></tr>
   <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Plur|<a href="Tense.html">Tense</a>=Past</tt></td><td><em>були</em></td><td></td></tr>
 </table>
 
 ### `ADJ`
 
-22 [uk-pos/ADJ]() tokens (24% of all `ADJ` tokens) have a non-empty value of `VerbForm`.
+128 [uk-pos/ADJ]() tokens (11% of all `ADJ` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `ADJ` and `VerbForm` co-occurred: <tt><a href="NumType.html">NumType</a>=EMPTY</tt> (22; 100%), <tt><a href="Aspect.html">Aspect</a>=Perf</tt> (21; 95%), <tt><a href="Degree.html">Degree</a>=EMPTY</tt> (21; 95%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (19; 86%), <tt><a href="Voice.html">Voice</a>=Pass</tt> (17; 77%), <tt><a href="Case.html">Case</a>=Nom</tt> (13; 59%).
+The most frequent other feature values with which `ADJ` and `VerbForm` co-occurred: <tt><a href="Voice.html">Voice</a>=Pass</tt> (124; 97%), <tt><a href="Degree.html">Degree</a>=EMPTY</tt> (122; 95%), <tt><a href="Aspect.html">Aspect</a>=Perf</tt> (113; 88%), <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (113; 88%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (73; 57%).
 
 `ADJ` tokens may have the following values of `VerbForm`:
 
-* `Part` (22; 100% of non-empty `VerbForm`): <em>минулому, розташоване, Минулої, Об’єднаних, Оскарженого, висланий, втомлена, даними, зауважене, збережений</em>
-* `EMPTY` (70): <em>Важливим, перший, швидший, далекому, мила, першим, повинен, чесний, Бородаті, Зелена</em>
+* `Part` (128; 100% of non-empty `VerbForm`): <em>відкритим, зранений, населених, перелякані, поваленій, призначених, Завішані, Змучений, Нагріта, Повернені</em>
+* `EMPTY` (987): <em>різних, цілу, домашніх, різні, ціле, цілий, великих, великої, дитячої, експериментальних</em>
 
-`VerbForm` seems to be **lexical feature** of `ADJ`. 100% lemmas (18) occur only with one value of `VerbForm`.
+`VerbForm` seems to be **lexical feature** of `ADJ`. 100% lemmas (113) occur only with one value of `VerbForm`.
 
 ## Relations with Agreement in `VerbForm`
 
 The 10 most frequent relations where parent and child node agree in `VerbForm`:
-<tt>VERB --[<a href="../dep/ccomp.html">ccomp</a>]--> VERB</tt> (23; 85%),
-<tt>VERB --[<a href="../dep/parataxis.html">parataxis</a>]--> VERB</tt> (11; 100%),
-<tt>VERB --[<a href="../dep/advcl.html">advcl</a>]--> VERB</tt> (6; 86%),
-<tt>VERB --[<a href="../dep/aux.html">aux</a>]--> VERB</tt> (5; 56%),
-<tt>VERB --[<a href="../dep/conj.html">conj</a>]--> VERB</tt> (5; 100%),
-<tt>VERB --[<a href="../dep/csubj.html">csubj</a>]--> VERB</tt> (1; 100%).
+<tt>VERB --[<a href="../dep/conj.html">conj</a>]--> VERB</tt> (235; 98%),
+<tt>VERB --[<a href="../dep/parataxis.html">parataxis</a>]--> VERB</tt> (69; 92%),
+<tt>VERB --[<a href="../dep/ccomp.html">ccomp</a>]--> VERB</tt> (29; 62%),
+<tt>VERB --[<a href="../dep/aux:pass.html">aux:pass</a>]--> AUX</tt> (1; 100%).
 

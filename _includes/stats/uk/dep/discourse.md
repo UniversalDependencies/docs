@@ -6,54 +6,43 @@
 
 This relation is universal.
 
-22 nodes (1%) are attached to their parents as `discourse`.
+171 nodes (1%) are attached to their parents as `discourse`.
 
-21 instances of `discourse` (95%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.36363636363636.
+154 instances of `discourse` (90%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.0233918128655.
 
-The following 13 pairs of parts of speech are connected with `discourse`: [uk-pos/VERB]()-[uk-pos/PART]() (8; 36% instances), [uk-pos/PRON]()-[uk-pos/PART]() (2; 9% instances), [uk-pos/VERB]()-[uk-pos/PRON]() (2; 9% instances), [uk-pos/ADJ]()-[uk-pos/CONJ]() (1; 5% instances), [uk-pos/ADJ]()-[uk-pos/PART]() (1; 5% instances), [uk-pos/ADV]()-[uk-pos/CONJ]() (1; 5% instances), [uk-pos/ADV]()-[uk-pos/PRON]() (1; 5% instances), [uk-pos/NOUN]()-[uk-pos/ADV]() (1; 5% instances), [uk-pos/NOUN]()-[uk-pos/INTJ]() (1; 5% instances), [uk-pos/NOUN]()-[uk-pos/PART]() (1; 5% instances), [uk-pos/VERB]()-[uk-pos/ADV]() (1; 5% instances), [uk-pos/VERB]()-[uk-pos/CONJ]() (1; 5% instances), [uk-pos/VERB]()-[uk-pos/INTJ]() (1; 5% instances).
+The following 15 pairs of parts of speech are connected with `discourse`: [uk-pos/VERB]()-[uk-pos/PART]() (61; 36% instances), [uk-pos/NOUN]()-[uk-pos/PART]() (38; 22% instances), [uk-pos/ADV]()-[uk-pos/PART]() (29; 17% instances), [uk-pos/ADJ]()-[uk-pos/PART]() (12; 7% instances), [uk-pos/PRON]()-[uk-pos/PART]() (8; 5% instances), [uk-pos/PROPN]()-[uk-pos/PART]() (7; 4% instances), [uk-pos/DET]()-[uk-pos/PART]() (5; 3% instances), [uk-pos/VERB]()-[uk-pos/INTJ]() (3; 2% instances), [uk-pos/CCONJ]()-[uk-pos/PART]() (2; 1% instances), [uk-pos/ADP]()-[uk-pos/PART]() (1; 1% instances), [uk-pos/NOUN]()-[uk-pos/INTJ]() (1; 1% instances), [uk-pos/NUM]()-[uk-pos/PART]() (1; 1% instances), [uk-pos/PART]()-[uk-pos/PART]() (1; 1% instances), [uk-pos/SCONJ]()-[uk-pos/PART]() (1; 1% instances), [uk-pos/VERB]()-[uk-pos/SYM]() (1; 1% instances).
 
 
 ~~~ conllu
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 11	bgColor:blue
-# visual-style 11	fgColor:white
-# visual-style 11 9 discourse	color:blue
-1	Сиджу	сидіти	VERB	verb:imperf:pres:s:1	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
-2	на	на	ADP	prep:rv_mis	Case=Loc	3	case	_	_
-3	парах	пара	NOUN	noun:inanim:p:f:v_mis	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	1	nmod	_	_
-4	і	і	CONJ	conj:coord	_	1	cc	_	_
-5	не	не	PART	part	_	6	neg	_	_
-6	знаю	знати	VERB	verb:imperf:pres:s:1	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	1	conj	_	SpaceAfter=No
-7	,	,	PUNCT	punct	_	6	punct	_	_
-8	чи	чи	CONJ	conj:coord	_	11	mark	_	_
-9	то	то	PART	part	_	11	discourse	_	_
-10	я	я	PRON	noun:anim:s:v_naz:&pron:pers:1	Animacy=Anim|Case=Nom|Number=Sing|Person=1|PronType=Prs	11	nsubj	_	_
-11	сплю	спати	VERB	verb:imperf:pres:s:1	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	6	ccomp	_	SpaceAfter=No
-12	,	,	PUNCT	punct	_	11	punct	_	_
-13	чи	чи	CONJ	conj:coord	_	15	mark	_	_
-14	то	то	PART	part	_	15	discourse	_	_
-15	дрімаю	дрімати	VERB	verb:imperf:pres:s:1	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	11	parataxis	_	SpaceAfter=No
-16	…	…	PUNCT	punct	_	1	punct	_	_
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 1 discourse	color:blue
+1	Ось	ось	PART	Q	_	2	discourse	_	_
+2	пішов	піти	VERB	Vmeis-sm	Aspect=Perf|Gender=Masc|Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+3	темп	темп	NOUN	Ncmsnn	Animacy=Inan|Case=Nom|Gender=Masc	2	nsubj	_	_
+4	фокстроту	фокстрот	NOUN	Ncmsgn	Animacy=Inan|Case=Gen|Gender=Masc	3	nmod	_	SpaceAfter=No
+5	.	.	PUNCT	U	_	2	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 4 discourse	color:blue
-1	Василю	Василь	PROPN	noun:anim:m:v_kly:prop:fname	Animacy=Anim|Case=Voc|Gender=Masc	7	vocative	_	_
-2	Петровичу	Петрович	PROPN	noun:anim:m:v_kly:prop:patr	Animacy=Anim|Case=Voc|Gender=Masc	1	name	_	SpaceAfter=No
-3	,	,	PUNCT	punct	_	1	punct	_	_
-4	ну	ну	PART	part	_	5	discourse	_	_
-5	що	що	PRON	noun:inanim:n:v_naz:&pron:int	Animacy=Inan|Case=Nom|Gender=Neut|PronType=Int	0	root	_	_
-6	це	це	PART	part	_	5	discourse	_	_
-7	Ви	ви	PRON	noun:anim:p:v_kly:&pron:pers:2	Animacy=Anim|Case=Voc|Number=Plur|Person=2|PronType=Prs	5	nsubj	_	SpaceAfter=No
-8	?	?	PUNCT	punct	_	5	punct	_	_
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 1 discourse	color:blue
+1	Ще	ще	PART	Q	_	3	discourse	_	_
+2	перед	перед	ADP	Spsi	Case=Ins	3	case	_	_
+3	відкриттям	відкриття	NOUN	Ncnsin	Animacy=Inan|Case=Ins|Gender=Neut	6	obl	_	_
+4	біля	біля	ADP	Spsg	Case=Gen	5	case	_	_
+5	каварень	каварня	NOUN	Ncfpgn	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur|Style=Odd	6	obl	_	_
+6	утворювалася	утворюватися	VERB	Vmpis-sf	Aspect=Imp|Gender=Fem|Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+7	черга	черга	NOUN	Ncfsnn	Animacy=Inan|Case=Nom|Gender=Fem	6	nsubj	_	SpaceAfter=No
+8	.	.	PUNCT	U	_	6	punct	_	_
 
 ~~~
 
@@ -61,17 +50,20 @@ The following 13 pairs of parts of speech are connected with `discourse`: [uk-po
 ~~~ conllu
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 5 discourse	color:blue
-1	Чи	чи	CONJ	conj:coord	_	3	mark	_	_
-2	я	я	PRON	noun:anim:s:v_naz:&pron:pers:1	Animacy=Anim|Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
-3	сплю	спати	VERB	verb:imperf:pres:s:1	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
-4	чи	чи	CONJ	conj:coord	_	6	mark	_	_
-5	то	то	PRON	noun:inanim:n:v_naz:&pron:dem	Animacy=Inan|Case=Nom|Gender=Neut|PronType=Dem	6	discourse	_	_
-6	сниться	снитися	VERB	verb:rev:imperf:pres:s:3	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	parataxis	_	_
-7	мені	я	PRON	noun:anim:s:v_dav:&pron:pers:1	Animacy=Anim|Case=Dat|Number=Sing|Person=1|PronType=Prs	6	iobj	_	SpaceAfter=No
-8	?	?	PUNCT	punct	_	3	punct	_	_
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 5 discourse	color:blue
+1	Колючим	колючий	ADJ	Ao-msif	Case=Ins|Gender=Masc	2	amod	_	_
+2	дротом	дріт	NOUN	Ncmsin	Animacy=Inan|Case=Ins|Gender=Masc	4	obl	_	_
+3	було	бути	AUX	Vapis-sn	Aspect=Imp|Gender=Neut|Mood=Ind|Tense=Past|VerbForm=Fin	4	aux	_	_
+4	оточено	оточити	VERB	Vmeo	Aspect=Perf|Mood=Ind|Person=0|VerbForm=Fin	0	root	_	_
+5	ще	ще	PART	Q	_	7	discourse	_	_
+6	й	й	PART	Q	_	5	fixed	_	_
+7	багато	багато	ADV	Rp	Degree=Pos	8	advmod	_	_
+8	лісу	ліс	NOUN	Ncmsgn	Animacy=Inan|Case=Gen|Gender=Masc	4	obj	_	_
+9	навколо	навколо	ADP	Spsg	Case=Gen	10	case	_	_
+10	зони	зона	NOUN	Ncfsgn	Animacy=Inan|Case=Gen|Gender=Fem	8	nmod	_	SpaceAfter=No
+11	.	.	PUNCT	U	_	4	punct	_	_
 
 ~~~
 

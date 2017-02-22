@@ -6,12 +6,12 @@
 
 This relation is universal.
 
-2645 nodes (1%) are attached to their parents as `mwe`.
+1839 nodes (1%) are attached to their parents as `mwe`.
 
-2645 instances of `mwe` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.35538752362949.
+1839 instances of `mwe` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.35725938009788.
 
-The following 4 pairs of parts of speech are connected with `mwe`: [ja-pos/ADP]()-[ja-pos/VERB]() (1706; 64% instances), [ja-pos/ADP]()-[ja-pos/SCONJ]() (900; 34% instances), [ja-pos/ADP]()-[ja-pos/AUX]() (38; 1% instances), [ja-pos/ADP]()-[ja-pos/PART]() (1; 0% instances).
+The following 4 pairs of parts of speech are connected with `mwe`: [ja-pos/ADP]()-[ja-pos/VERB]() (1183; 64% instances), [ja-pos/ADP]()-[ja-pos/SCONJ]() (625; 34% instances), [ja-pos/ADP]()-[ja-pos/AUX]() (30; 2% instances), [ja-pos/ADP]()-[ja-pos/PART]() (1; 0% instances).
 
 
 ~~~ conllu
@@ -106,35 +106,32 @@ The following 4 pairs of parts of speech are connected with `mwe`: [ja-pos/ADP](
 # visual-style 20	bgColor:blue
 # visual-style 20	fgColor:white
 # visual-style 20 22 mwe	color:blue
-1	_	_	NOUN	NOUN	_	2	compound	_	Offset=0-1
-2	_	_	NOUN	NOUN	_	7	nmod	_	Offset=1-2
-3	_	_	ADP	ADP	_	2	case	_	Offset=2-3
-4	_	_	PUNCT	PUNCT	_	7	punct	_	Offset=3-4
-5	_	_	NOUN	NOUN	_	7	amod	_	Offset=4-6
-6	_	だ	AUX	AUX	_	5	cop	_	Offset=6-7
-7	_	_	NOUN	NOUN	_	25	nmod	_	Offset=7-10
-8	_	_	PUNCT	PUNCT	_	7	punct	_	Offset=10-11
-9	_	_	PUNCT	PUNCT	_	12	punct	_	Offset=11-12
-10	_	_	VERB	VERB	_	12	acl	_	Offset=12-15
-11	_	べし	AUX	AUX	_	10	aux	_	Offset=15-17
-12	_	_	NOUN	NOUN	_	7	conj	_	Offset=17-19
-13	_	_	PUNCT	PUNCT	_	12	punct	_	Offset=19-20
-14	_	_	CONJ	CONJ	_	7	cc	_	Offset=20-23
-15	_	_	PUNCT	PUNCT	_	18	punct	_	Offset=23-24
-16	_	_	NOUN	NOUN	_	18	dobj	_	Offset=24-28
-17	_	_	ADP	ADP	_	16	case	_	Offset=28-29
-18	_	越える	VERB	VERB	_	7	conj	_	Offset=29-31
-19	_	_	PUNCT	PUNCT	_	18	punct	_	Offset=31-32
-20	_	_	ADP	ADP	_	7	case	_	Offset=32-33
-21	_	言う	VERB	VERB	_	20	mwe	_	Offset=33-35
-22	_	_	AUX	AUX	_	20	mwe	_	Offset=35-36
-23	_	_	NOUN	NOUN	_	25	acl	_	Offset=36-39
-24	_	だ	AUX	AUX	_	23	cop	_	Offset=39-40
-25	_	_	NOUN	NOUN	_	27	nsubj	_	Offset=40-42
-26	_	_	ADP	ADP	_	25	case	_	Offset=42-43
-27	_	_	VERB	VERB	_	0	root	_	Offset=43-45
-28	_	_	PART	PART	_	27	mark	_	Offset=45-47
-29	_	_	PUNCT	PUNCT	_	27	punct	_	Offset=47-48
+1	_	_	NOUN	NOUN	_	5	nmod	_	Offset=0-2
+2	_	_	ADP	ADP	_	1	case	_	Offset=2-3
+3	_	_	NOUN	NOUN	_	5	nmod	_	Offset=3-5
+4	_	_	ADP	ADP	_	3	case	_	Offset=5-6
+5	_	寝かす	VERB	VERB	_	19	advcl	_	Offset=6-9
+6	_	れる	AUX	AUX	_	5	auxpass	_	Offset=9-10
+7	_	_	PUNCT	PUNCT	_	5	punct	_	Offset=10-11
+8	_	_	NOUN	NOUN	_	10	nmod	_	Offset=11-13
+9	_	_	ADP	ADP	_	8	case	_	Offset=13-14
+10	_	_	NOUN	NOUN	_	19	nmod	_	Offset=14-17
+11	_	_	ADP	ADP	_	10	case	_	Offset=17-18
+12	_	_	NOUN	NOUN	_	19	dep	_	Offset=18-20
+13	_	_	PUNCT	PUNCT	_	12	punct	_	Offset=20-21
+14	_	_	NUM	NUM	_	15	nummod	_	Offset=21-22
+15	_	_	NOUN	NOUN	_	19	nmod	_	Offset=22-23
+16	_	_	ADP	ADP	_	15	case	_	Offset=23-24
+17	_	ミルク-milk	NOUN	NOUN	_	19	dobj	_	Offset=24-27
+18	_	_	ADP	ADP	_	17	case	_	Offset=27-28
+19	_	_	VERB	VERB	_	23	nmod	_	Offset=28-31
+20	_	_	ADP	ADP	_	19	dep	_	Offset=31-32
+21	_	言う	VERB	VERB	_	20	mwe	_	Offset=32-34
+22	_	_	AUX	AUX	_	20	mwe	_	Offset=34-35
+23	_	_	NOUN	NOUN	_	25	nsubj	_	Offset=35-36
+24	_	_	PART	PART	_	23	case	_	Offset=36-38
+25	_	有る	VERB	VERB	_	0	root	_	Offset=38-40
+26	_	_	PUNCT	PUNCT	_	25	punct	_	Offset=40-41
 
 ~~~
 

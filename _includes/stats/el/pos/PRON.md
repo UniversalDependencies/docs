@@ -4,87 +4,87 @@
 
 ## Treebank Statistics (UD_Greek)
 
-There are 29 `PRON` lemmas (0%), 122 `PRON` types (1%) and 2775 `PRON` tokens (5%).
-Out of 11 observed tags, the rank of `PRON` is: 7 in number of lemmas, 6 in number of types and 8 in number of tokens.
+There are 29 `PRON` lemmas (0%), 115 `PRON` types (1%) and 2424 `PRON` tokens (5%).
+Out of 16 observed tags, the rank of `PRON` is: 9 in number of lemmas, 8 in number of types and 7 in number of tokens.
 
 The 10 most frequent `PRON` lemmas: <em>μου, που, αυτός, οποίος, εγώ, άλλος, κανένας, κάθε, κάποιος, τέτοιος</em>
 
-The 10 most frequent `PRON` types:  <em>που, τους, αυτό, μας, του, αυτή, οποία, της, οποίο, μου</em>
+The 10 most frequent `PRON` types:  <em>που, τους, αυτό, μας, του, αυτή, οποία, της, σας, οποίο</em>
 
-The 10 most frequent ambiguous lemmas: <em>που</em> ([PRON]() 591, [ADV]() 29, [CONJ]() 7), <em>όσος</em> ([PRON]() 21, [ADJ]() 1), <em>ένας</em> ([DET]() 448, [NUM]() 52, [PRON]() 12), <em>αρκετός</em> ([PRON]() 10, [ADJ]() 5)
+The 10 most frequent ambiguous lemmas: <em>που</em> ([PRON]() 522, [ADV]() 30, [SCONJ]() 8), <em>όσος</em> ([PRON]() 20, [ADJ]() 1), <em>ένας</em> ([DET]() 365, [NUM]() 42, [PRON]() 8, [SCONJ]() 1), <em>αρκετός</em> ([PRON]() 7, [ADJ]() 5)
 
-The 10 most frequent ambiguous types:  <em>που</em> ([PRON]() 591, [ADV]() 29, [CONJ]() 7), <em>τους</em> ([DET]() 212, [PRON]() 185), <em>του</em> ([DET]() 868, [PRON]() 141), <em>της</em> ([DET]() 1148, [PRON]() 118), <em>το</em> ([DET]() 983, [PRON]() 48), <em>την</em> ([DET]() 1145, [PRON]() 24), <em>τον</em> ([DET]() 322, [PRON]() 9), <em>τα</em> ([DET]() 434, [PRON]() 7), <em>τις</em> ([DET]() 370, [PRON]() 6), <em>μία</em> ([DET]() 55, [NUM]() 14, [PRON]() 5)
+The 10 most frequent ambiguous types:  <em>που</em> ([PRON]() 522, [ADV]() 30, [SCONJ]() 8), <em>τους</em> ([DET]() 194, [PRON]() 172), <em>του</em> ([DET]() 758, [PRON]() 125), <em>της</em> ([DET]() 1001, [PRON]() 93), <em>το</em> ([DET]() 810, [PRON]() 40), <em>την</em> ([DET]() 1010, [PRON]() 19), <em>τα</em> ([DET]() 370, [PRON]() 7), <em>τον</em> ([DET]() 288, [PRON]() 7), <em>τις</em> ([DET]() 326, [PRON]() 5), <em>μία</em> ([DET]() 46, [NUM]() 12, [PRON]() 4)
 
 
 * <em>που</em>
-  * [PRON]() 591: <em>Ο τρόπος <b>που</b> θα ψηφίσουμε σήμερα είναι μέρος αυτής της ευθύνης .</em>
-  * [ADV]() 29: <em>Εκεί δε <b>που</b> δεν εκπροσωπούνται οι μικρές ομάδες πρέπει να τους δοθούν θέσεις παρατηρητών .</em>
-  * [CONJ]() 7: <em>Πολλοί άνθρωποι χαίρονται <b>που</b> ζουν επιτέλους στη χώρα του ευρώ - και αυτό το είχαμε επανειλημμένα τονίσει εμείς οι βουλευτές .</em>
+  * [PRON]() 522: <em>Όμως αυτό είναι ένα ζήτημα <b>που</b> συζητείται στο επίπεδο του Συμβουλίου .</em>
+  * [ADV]() 30: <em>Ωστόσο , διίστανται οι απόψεις μας σχετικά με τον τρόπο <b>που</b> αυτό κατέστη δυνατόν .</em>
+  * [SCONJ]() 8: <em>Λυπάμαι πολύ , κύριε Ύπατε Εκπρόσωπε , <b>που</b> δεν μπορώ να συμμεριστώ ούτε καν τη μετριασμένη αισιοδοξία σας .</em>
 * <em>τους</em>
-  * [DET]() 212: <em>Το 1380 η πόλη κατελήφθη από <b>τους</b> Τούρκους και μετονομάστηκε σε Καβάλα .</em>
-  * [PRON]() 185: <em>Τους ευχαριστώ για το έργο <b>τους</b> .</em>
+  * [DET]() 194: <em>Δύο από <b>τους</b> τραυματίες νοσηλεύονται σε κρίσιμη κατάσταση .</em>
+  * [PRON]() 172: <em>Τους ευχαριστώ για το έργο <b>τους</b> .</em>
 * <em>του</em>
-  * [DET]() 868: <em>Διπλή νίκη <b>του</b> Ρικ Σαντόρουμ στον αμερικανικό νότο</em>
-  * [PRON]() 141: <em>Μαζί με τον συνταγματάρχη πέθανε και ο γιος <b>του</b> , Μουατασίμ .</em>
+  * [DET]() 758: <em>Όμως αυτό είναι ένα ζήτημα που συζητείται στο επίπεδο <b>του</b> Συμβουλίου .</em>
+  * [PRON]() 125: <em>Κατόπιν , ο καθένας θα πρέπει να αναλάβει τις ευθύνες <b>του</b> .</em>
 * <em>της</em>
-  * [DET]() 1148: <em>Χρειαζόμαστε διαδικασίες για τις εργασίες <b>της</b> συντακτικής συνέλευσης .</em>
-  * [PRON]() 118: <em>Η Σύμβαση Λομέ είχε τα προβλήματά <b>της</b> .</em>
+  * [DET]() 1001: <em>Αυτός είναι ο αποκλειστικός στόχος <b>της</b> πρότασης αυτής .</em>
+  * [PRON]() 93: <em>Υπάρχουν διάφορες εκδοχές για την ετυμολογία του ονόματός <b>της</b> .</em>
 * <em>το</em>
-  * [DET]() 983: <em>Είναι ασφαλώς σαφές ότι <b>το</b> προεδρείο κατέχει ηγετικό ρόλο .</em>
-  * [PRON]() 48: <em>Θα αναφερθώ στη συνέχεια στους τομείς όπου δεν <b>το</b> έπραξε .</em>
+  * [DET]() 810: <em>Οι Αμερικανοί ανέλαβαν την προστασία του Αφγανιστάν από <b>το</b> Νοέμβριο .</em>
+  * [PRON]() 40: <em>Σε πολλούς τομείς <b>το</b> πέτυχαν αυτό .</em>
 * <em>την</em>
-  * [DET]() 1145: <em>Η Σπόρτινγκ Λισαβόνας νίκησε <b>την</b> Μάντσεστερ Σίτι με σκορ 1:0</em>
-  * [PRON]() 24: <em>Ελπίζω μάλιστα ότι και οι λοιπές ομάδες θα <b>την</b> εγκρίνουν .</em>
-* <em>τον</em>
-  * [DET]() 322: <em>Η Μεταλίστ Χάρκιβ ηττήθηκε από <b>τον</b> Ολυμπιακό Πειραιώς με σκορ 0:1</em>
-  * [PRON]() 9: <em>Υπάρχει ένας εκλεγμένος Πρόεδρος αυτού του παλαιστινιακού κράτους και δεν μπορούμε να <b>τον</b> αγνοήσουμε ούτε εμείς ούτε ο κ. Sharon .</em>
+  * [DET]() 1010: <em>Υπάρχουν διάφορες εκδοχές για <b>την</b> ετυμολογία του ονόματός της .</em>
+  * [PRON]() 19: <em>Το γεγονός αυτό <b>την</b> ανέδειξε σε μητρόπολη του Χριστιανισμού .</em>
 * <em>τα</em>
-  * [DET]() 434: <em>Διότι ένα από <b>τα</b> δύο :</em>
+  * [DET]() 370: <em>Διότι ένα από <b>τα</b> δύο :</em>
   * [PRON]() 7: <em>Τα προβλήματα <b>τα</b> έχετε μάλλον εσείς στη δική σας , αλλά σκοπεύουμε να σας βοηθήσουμε .</em>
+* <em>τον</em>
+  * [DET]() 288: <em>Η Μεταλίστ Χάρκιβ ηττήθηκε από <b>τον</b> Ολυμπιακό Πειραιώς με σκορ 0:1</em>
+  * [PRON]() 7: <em>Υπάρχει ένας εκλεγμένος Πρόεδρος αυτού του παλαιστινιακού κράτους και δεν μπορούμε να <b>τον</b> αγνοήσουμε ούτε εμείς ούτε ο κ. Sharon .</em>
 * <em>τις</em>
-  * [DET]() 370: <em>Χρειαζόμαστε διαδικασίες για <b>τις</b> εργασίες της συντακτικής συνέλευσης .</em>
-  * [PRON]() 6: <em>Θέλουμε να <b>τις</b> υποχρεώσουμε να το κάνουν .</em>
+  * [DET]() 326: <em>Μέχρι <b>τις</b> αρχές του 2007 είναι ο μακροβιότερος ζων ηγέτης χώρας .</em>
+  * [PRON]() 5: <em>Θέλουμε να <b>τις</b> υποχρεώσουμε να το κάνουν .</em>
 * <em>μία</em>
-  * [DET]() 55: <em>Κύριε Πρόεδρε , επιτρέψτε μου να κλείσω με <b>μία</b> παρατήρηση :</em>
-  * [NUM]() 14: <em>Το γραφικό κυκλαδίτικο νησί της Σίφνου έχει 365 εκκλησίες , <b>μία</b> για κάθε ημέρα του χρόνου .</em>
-  * [PRON]() 5: <em>Η <b>μία</b> ημέρα , που αντιστοιχεί σε 0,05% εργάσιμου χρόνου για έναν εργαζόμενο , πιστεύουμε ότι δεν είναι υπερβολική .</em>
+  * [DET]() 46: <em>Ζητώ από την Επιτροπή <b>μία</b> συγκεκριμένη πρόταση για αυτό το θέμα .</em>
+  * [NUM]() 12: <em>Πριν λίγες εβδομάδες , επισκέφθηκα <b>μία</b> από αυτές τις εταιρείες στην εκλογική μου περιφέρεια .</em>
+  * [PRON]() 4: <em>Η <b>μία</b> ημέρα , που αντιστοιχεί σε 0,05% εργάσιμου χρόνου για έναν εργαζόμενο , πιστεύουμε ότι δεν είναι υπερβολική .</em>
 
 ## Morphology
 
-The form / lemma ratio of `PRON` is 4.206897 (the average of all parts of speech is 1.776033).
+The form / lemma ratio of `PRON` is 3.965517 (the average of all parts of speech is 1.735982).
 
 The 1st highest number of forms (19) was observed with the lemma “εγώ”: <em>εγώ, εμάς, εμείς, εσάς, εσείς, μένα, μας, με, μου, σας, τα, τη, την, της, τις, το, τον, του, τους</em>.
 
-The 2nd highest number of forms (12) was observed with the lemma “άλλος”: <em>Αλλες, Αλλος, άλλα, άλλες, άλλη, άλλης, άλλο, άλλοι, άλλος, άλλου, άλλους, άλλων</em>.
+The 2nd highest number of forms (13) was observed with the lemma “άλλος”: <em>Αλλες, Αλλο, Αλλος, άλλα, άλλες, άλλη, άλλης, άλλο, άλλοι, άλλος, άλλου, άλλους, άλλων</em>.
 
 The 3rd highest number of forms (12) was observed with the lemma “αυτός”: <em>αυτά, αυτές, αυτή, αυτήν, αυτής, αυτοί, αυτού, αυτούς, αυτό, αυτόν, αυτός, αυτών</em>.
 
-`PRON` occurs with 5 features: [el-feat/Case]() (2775; 100% instances), [el-feat/Gender]() (2775; 100% instances), [el-feat/Number]() (2775; 100% instances), [el-feat/Person]() (2775; 100% instances), [el-feat/PronType]() (2775; 100% instances)
+`PRON` occurs with 6 features: [el-feat/Case]() (2424; 100% instances), [el-feat/Gender]() (2424; 100% instances), [el-feat/Number]() (2424; 100% instances), [el-feat/Person]() (2424; 100% instances), [el-feat/PronType]() (2424; 100% instances), [el-feat/Poss]() (537; 22% instances)
 
-`PRON` occurs with 16 feature-value pairs: `Case=Acc`, `Case=Gen`, `Case=Nom`, `Gender=Fem`, `Gender=Masc`, `Gender=Neut`, `Number=Plur`, `Number=Sing`, `Person=1`, `Person=2`, `Person=3`, `PronType=Dem`, `PronType=Ind`, `PronType=Int`, `PronType=Prs`, `PronType=Rel`
+`PRON` occurs with 18 feature-value pairs: `Case=Acc`, `Case=Gen`, `Case=Nom`, `Gender=Fem`, `Gender=Masc`, `Gender=Neut`, `Number=Plur`, `Number=Sing`, `Person=1`, `Person=2`, `Person=3`, `Poss=Yes`, `PronType=Dem`, `PronType=Ind`, `PronType=Ind,Rel`, `PronType=Int`, `PronType=Prs`, `PronType=Rel`
 
-`PRON` occurs with 82 feature combinations.
-The most frequent feature combination is `Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Rel` (152 tokens).
-Examples: <em>που, οποία, οποιαδήποτε</em>
+`PRON` occurs with 102 feature combinations.
+The most frequent feature combination is `Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Rel` (139 tokens).
+Examples: <em>που, οποία</em>
 
 
 ## Relations
 
-`PRON` nodes are attached to their parents using 12 different relations: [el-dep/nmod]() (1088; 39% instances), [el-dep/nsubj]() (794; 29% instances), [el-dep/dobj]() (403; 15% instances), [el-dep/det]() (356; 13% instances), [el-dep/iobj]() (80; 3% instances), [el-dep/conj]() (18; 1% instances), [el-dep/root]() (16; 1% instances), [el-dep/remnant]() (15; 1% instances), [el-dep/ccomp]() (2; 0% instances), [el-dep/acl]() (1; 0% instances), [el-dep/advcl]() (1; 0% instances), [el-dep/xcomp]() (1; 0% instances)
+`PRON` nodes are attached to their parents using 15 different relations: [el-dep/nmod]() (830; 34% instances), [el-dep/nsubj]() (699; 29% instances), [el-dep/obj]() (307; 13% instances), [el-dep/det]() (292; 12% instances), [el-dep/obl]() (174; 7% instances), [el-dep/iobj]() (59; 2% instances), [el-dep/conj]() (15; 1% instances), [el-dep/expl]() (14; 1% instances), [el-dep/root]() (13; 1% instances), [el-dep/orphan]() (12; 0% instances), [el-dep/acl]() (3; 0% instances), [el-dep/xcomp]() (3; 0% instances), [el-dep/amod]() (1; 0% instances), [el-dep/ccomp]() (1; 0% instances), [el-dep/fixed]() (1; 0% instances)
 
-Parents of `PRON` nodes belong to 10 different parts of speech: [VERB]() (1291; 47% instances), [NOUN]() (1278; 46% instances), [ADJ]() (105; 4% instances), [ADV]() (38; 1% instances), [PRON]() (22; 1% instances), [NUM]() (17; 1% instances), [ROOT]() (16; 1% instances), [CONJ]() (5; 0% instances), [ADP]() (2; 0% instances), [PART]() (1; 0% instances)
+Parents of `PRON` nodes belong to 10 different parts of speech: [VERB]() (1196; 49% instances), [NOUN]() (1072; 44% instances), [ADJ]() (74; 3% instances), [ADV]() (29; 1% instances), [PRON]() (21; 1% instances), [NUM]() (16; 1% instances), [ROOT]() (13; 1% instances), [PART]() (1; 0% instances), [PROPN]() (1; 0% instances), [X]() (1; 0% instances)
 
-2187 (79%) `PRON` nodes are leaves.
+1902 (78%) `PRON` nodes are leaves.
 
-428 (15%) `PRON` nodes have one child.
+365 (15%) `PRON` nodes have one child.
 
-121 (4%) `PRON` nodes have two children.
+120 (5%) `PRON` nodes have two children.
 
-39 (1%) `PRON` nodes have three or more children.
+37 (2%) `PRON` nodes have three or more children.
 
-The highest child degree of a `PRON` node is 6.
+The highest child degree of a `PRON` node is 5.
 
-Children of `PRON` nodes are attached using 18 different relations: [el-dep/det]() (320; 39% instances), [el-dep/case]() (259; 32% instances), [el-dep/punct]() (50; 6% instances), [el-dep/acl:relcl]() (34; 4% instances), [el-dep/nmod]() (32; 4% instances), [el-dep/amod]() (22; 3% instances), [el-dep/cc]() (21; 3% instances), [el-dep/cop]() (18; 2% instances), [el-dep/nsubj]() (17; 2% instances), [el-dep/acl]() (12; 1% instances), [el-dep/advmod]() (10; 1% instances), [el-dep/conj]() (6; 1% instances), [el-dep/appos]() (5; 1% instances), [el-dep/advcl]() (3; 0% instances), [el-dep/aux]() (3; 0% instances), [el-dep/mark]() (3; 0% instances), [el-dep/remnant]() (2; 0% instances), [el-dep/dep]() (1; 0% instances)
+Children of `PRON` nodes are attached using 19 different relations: [el-dep/det]() (273; 37% instances), [el-dep/case]() (237; 32% instances), [el-dep/punct]() (47; 6% instances), [el-dep/acl:relcl]() (34; 5% instances), [el-dep/cc]() (33; 5% instances), [el-dep/nmod]() (22; 3% instances), [el-dep/amod]() (17; 2% instances), [el-dep/acl]() (15; 2% instances), [el-dep/cop]() (11; 2% instances), [el-dep/nsubj]() (10; 1% instances), [el-dep/conj]() (9; 1% instances), [el-dep/advmod]() (8; 1% instances), [el-dep/mark]() (4; 1% instances), [el-dep/appos]() (3; 0% instances), [el-dep/advcl]() (2; 0% instances), [el-dep/orphan]() (2; 0% instances), [el-dep/dep]() (1; 0% instances), [el-dep/nummod]() (1; 0% instances), [el-dep/vocative]() (1; 0% instances)
 
-Children of `PRON` nodes belong to 11 different parts of speech: [DET]() (311; 38% instances), [ADP]() (256; 31% instances), [VERB]() (65; 8% instances), [PUNCT]() (50; 6% instances), [NOUN]() (49; 6% instances), [ADJ]() (22; 3% instances), [PRON]() (22; 3% instances), [CONJ]() (20; 2% instances), [ADV]() (18; 2% instances), [PART]() (3; 0% instances), [NUM]() (2; 0% instances)
+Children of `PRON` nodes belong to 16 different parts of speech: [DET]() (266; 36% instances), [ADP]() (228; 31% instances), [VERB]() (48; 7% instances), [PUNCT]() (47; 6% instances), [CCONJ]() (29; 4% instances), [NOUN]() (28; 4% instances), [ADV]() (23; 3% instances), [PRON]() (21; 3% instances), [ADJ]() (19; 3% instances), [AUX]() (11; 2% instances), [SCONJ]() (3; 0% instances), [NUM]() (2; 0% instances), [X]() (2; 0% instances), [PART]() (1; 0% instances), [PROPN]() (1; 0% instances), [SYM]() (1; 0% instances)
 

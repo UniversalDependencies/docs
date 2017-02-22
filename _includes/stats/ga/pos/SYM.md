@@ -19,11 +19,17 @@ The 10 most frequent ambiguous types:
 
 ## Morphology
 
-The form / lemma ratio of `SYM` is 1.000000 (the average of all parts of speech is 1.449988).
+The form / lemma ratio of `SYM` is 1.000000 (the average of all parts of speech is 1.393750).
 
 The 1st highest number of forms (1) was observed with the lemma “post@clubsult.com”: <em>post@clubsult.com</em>.
 
-`SYM` does not occur with any features.
+`SYM` occurs with 1 features: [ga-feat/Abbr]() (1; 100% instances)
+
+`SYM` occurs with 1 feature-value pairs: `Abbr=Yes`
+
+`SYM` occurs with 1 feature combinations.
+The most frequent feature combination is `Abbr=Yes` (1 tokens).
+Examples: <em>post@clubsult.com</em>
 
 
 ## Relations

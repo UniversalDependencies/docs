@@ -6,12 +6,12 @@
 
 This relation is universal.
 
-1950 nodes (1%) are attached to their parents as `auxpass`.
+1360 nodes (1%) are attached to their parents as `auxpass`.
 
-1950 instances of `auxpass` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.38820512820513.
+1360 instances of `auxpass` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.38529411764706.
 
-The following 1 pairs of parts of speech are connected with `auxpass`: [ja-pos/VERB]()-[ja-pos/AUX]() (1950; 100% instances).
+The following 1 pairs of parts of speech are connected with `auxpass`: [ja-pos/VERB]()-[ja-pos/AUX]() (1360; 100% instances).
 
 
 ~~~ conllu

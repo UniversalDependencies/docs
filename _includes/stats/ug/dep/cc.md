@@ -6,28 +6,53 @@
 
 This relation is universal.
 
-87 nodes (1%) are attached to their parents as `cc`.
+27 nodes (2%) are attached to their parents as `cc`.
 
-85 instances of `cc` (98%) are right-to-left (child precedes parent).
-Average distance between parent and child is 5.96551724137931.
+26 instances of `cc` (96%) are right-to-left (child precedes parent).
+Average distance between parent and child is 6.66666666666667.
 
-The following 9 pairs of parts of speech are connected with `cc`: [ug-pos/VERB]()-[ug-pos/CONJ]() (55; 63% instances), [ug-pos/NOUN]()-[ug-pos/CONJ]() (17; 20% instances), [ug-pos/ADJ]()-[ug-pos/CONJ]() (6; 7% instances), [ug-pos/NOUN]()-[ug-pos/ADP]() (2; 2% instances), [ug-pos/VERB]()-[ug-pos/ADP]() (2; 2% instances), [ug-pos/VERB]()-[ug-pos/VERB]() (2; 2% instances), [ug-pos/NOUN]()-[ug-pos/PRON]() (1; 1% instances), [ug-pos/PRON]()-[ug-pos/ADP]() (1; 1% instances), [ug-pos/VERB]()-[ug-pos/ADV]() (1; 1% instances).
+The following 8 pairs of parts of speech are connected with `cc`: [ug-pos/VERB]()-[ug-pos/CCONJ]() (10; 37% instances), [ug-pos/ADJ]()-[ug-pos/CCONJ]() (9; 33% instances), [ug-pos/NOUN]()-[ug-pos/ADP]() (2; 7% instances), [ug-pos/NOUN]()-[ug-pos/CCONJ]() (2; 7% instances), [ug-pos/VERB]()-[ug-pos/ADP]() (1; 4% instances), [ug-pos/VERB]()-[ug-pos/ADV]() (1; 4% instances), [ug-pos/VERB]()-[ug-pos/PRON]() (1; 4% instances), [ug-pos/VERB]()-[ug-pos/VERB]() (1; 4% instances).
 
 
 ~~~ conllu
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 7 1 cc	color:blue
-1	ئەكسىچە	_	CONJ	C	_	7	cc	_	Translit=eksiche
-2	،	_	PUNCT	Y	_	1	punct	_	Translit=,
-3	ئۇ	_	PRON	P	_	7	nsubj	_	Translit=u
-4	قاپىقىنى	_	NOUN	N	_	5	dobj	_	Translit=qapiqini
-5	تۈرگەن	_	VERB	V	_	7	advcl	_	Translit=türgen
-6	ھالدا	_	NOUN	N	_	5	case	_	Translit=halda
-7	دېدى	_	VERB	V	_	0	root	_	Translit=dëdi
-8	،	_	PUNCT	Y	_	7	punct	_	Translit=,
+# visual-style 12	bgColor:blue
+# visual-style 12	fgColor:white
+# visual-style 12 1 cc	color:blue
+1	لېكىن	_	CCONJ	C	_	12	cc	_	Translit=lëkin
+2	بالىلىقتىكى	_	NOUN	N	_	6	amod	_	Translit=baliliqtiki
+3	گۆدەك	_	VERB	V	_	6	amod	_	SpaceAfter=No|Translit=gödek
+4	،	_	PUNCT	Y	_	3	punct	_	Translit=,
+5	ساددا	_	ADJ	A	_	6	amod	_	Translit=sadda
+6	تەپەككۇرۇم	_	NOUN	N	_	12	obl	_	Translit=tepekkurum
+7	بىلەن	_	CCONJ	C	_	6	case	_	Translit=bilen
+8	ئۆزۈمنىڭ	_	PRON	P	_	9	nmod:poss	_	Translit=özümning
+9	سوئالىغا	_	NOUN	N	_	12	obl	_	Translit=soaligha
+10	ئۆزۈم	_	PRON	P	_	12	nsubj	_	Translit=özüm
+11	جاۋاب	_	NOUN	N	_	12	obj	_	Translit=jawab
+12	تاپالمايتتىم	_	VERB	V	_	0	root	_	SpaceAfter=No|Translit=tapalmayttim
+13	.	_	PUNCT	Y	_	12	punct	_	Translit=.
+
+~~~
+
+
+~~~ conllu
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 5 cc	color:blue
+1	يېنىڭغا	_	NOUN	N	_	2	obl	_	Translit=yëninggha
+2	كېلىپ	_	VERB	V	_	9	advcl	_	Translit=këlip
+3	بوش	_	ADJ	A	_	7	amod	_	SpaceAfter=No|Translit=bosh
+4	،	_	PUNCT	Y	_	3	punct	_	Translit=,
+5	ئەمما	_	CCONJ	C	_	6	cc	_	Translit=emma
+6	سەمىمىي	_	ADJ	A	_	3	conj	_	Translit=semimiy
+7	ئاۋازدا	_	NOUN	N	_	9	advmod	_	Translit=awazda
+8	سەندىن	_	PRON	P	_	9	obl	_	Translit=sendin
+9	سورايتتىم	_	VERB	V	_	0	root	_	SpaceAfter=No|Translit=sorayttim
+10	.	_	PUNCT	Y	_	9	punct	_	Translit=.
 
 ~~~
 
@@ -38,32 +63,12 @@ The following 9 pairs of parts of speech are connected with `cc`: [ug-pos/VERB](
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 2 cc	color:blue
-1	ئۆردەك	_	NOUN	N	_	3	conj	_	Translit=ördek
-2	بىلەن	_	CONJ	C	_	3	cc	_	Translit=bilen
-3	توخۇ	_	NOUN	N	_	5	nsubj	_	Translit=toxu
-4	يېقىن	_	ADJ	A	_	5	amod	_	Translit=yëqin
-5	دوست	_	NOUN	N	_	0	root	_	Translit=dost
-6	ئىكەن	_	VERB	V	_	5	cop	_	Translit=iken
-7	،	_	PUNCT	Y	_	6	punct	_	Translit=,
-
-~~~
-
-
-~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 8 1 cc	color:blue
-1	لېكىن	_	CONJ	C	_	8	cc	_	Translit=lëkin
-2	قانچە	_	PRON	P	_	3	amod	_	Translit=qanche
-3	يىل	_	NOUN	N	_	6	conj	_	Translit=yil
-4	،	_	PUNCT	Y	_	3	punct	_	Translit=,
-5	قانچە	_	PRON	P	_	6	amod	_	Translit=qanche
-6	ئەۋلات	_	NOUN	N	_	7	nsubj	_	Translit=ewlat
-7	ئۆتكەنلىكى	_	NOUN	N	_	8	csubj	_	Translit=ötkenliki
-8	نامەلۇم	_	ADJ	A	_	0	root	_	Translit=namelum
-9	.	_	PUNCT	Y	_	8	punct	_	Translit=.
+1	ئاچاڭ	_	NOUN	N	_	5	nsubj	_	Translit=achang
+2	بىلەن	_	ADP	R	_	3	cc	_	Translit=bilen
+3	سىڭىللىرىڭ	_	NOUN	N	_	1	conj	_	Translit=singilliring
+4	ئۆز	_	PRON	P	_	5	det	_	Translit=öz
+5	ئۆيىدە	_	NOUN	N	_	0	root	_	SpaceAfter=No|Translit=öyide
+6	،	_	PUNCT	Y	_	5	punct	_	Translit=,
 
 ~~~
 

@@ -6,65 +6,98 @@
 
 This relation is universal.
 
-351 nodes (6%) are attached to their parents as `amod`.
+24 nodes (5%) are attached to their parents as `amod`.
 
-347 instances of `amod` (99%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.25356125356125.
+23 instances of `amod` (96%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.25.
 
-The following 14 pairs of parts of speech are connected with `amod`: [kk-pos/NOUN]()-[kk-pos/ADJ]() (216; 62% instances), [kk-pos/NOUN]()-[kk-pos/NUM]() (86; 25% instances), [kk-pos/PROPN]()-[kk-pos/ADJ]() (14; 4% instances), [kk-pos/NOUN]()-[kk-pos/NOUN]() (13; 4% instances), [kk-pos/NOUN]()-[kk-pos/ADV]() (7; 2% instances), [kk-pos/ADJ]()-[kk-pos/ADJ]() (3; 1% instances), [kk-pos/ADJ]()-[kk-pos/NUM]() (3; 1% instances), [kk-pos/NOUN]()-[kk-pos/PRON]() (2; 1% instances), [kk-pos/NOUN]()-[kk-pos/PROPN]() (2; 1% instances), [kk-pos/PRON]()-[kk-pos/ADJ]() (1; 0% instances), [kk-pos/PROPN]()-[kk-pos/ADV]() (1; 0% instances), [kk-pos/PROPN]()-[kk-pos/NOUN]() (1; 0% instances), [kk-pos/PROPN]()-[kk-pos/PROPN]() (1; 0% instances), [kk-pos/VERB]()-[kk-pos/ADJ]() (1; 0% instances).
+The following 3 pairs of parts of speech are connected with `amod`: [kk-pos/NOUN]()-[kk-pos/ADJ]() (16; 67% instances), [kk-pos/NOUN]()-[kk-pos/NUM]() (7; 29% instances), [kk-pos/NOUN]()-[kk-pos/NOUN]() (1; 4% instances).
 
 
 ~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 10 9 amod	color:blue
+1	Шешуі	шеш	VERB	v	Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3|VerbForm=Ger	3	xcomp	_	_
+2	деп	деп	X	x	_	3	dep	_	_
+3	атауға	ата	VERB	v	Case=Dat|VerbForm=Ger	4	ccomp	_	_
+4	болатын	бол	VERB	v	Aspect=Imp|VerbForm=Part	10	advcl	_	_
+5	болса	бол	AUX	v	Mood=Cnd|Number=Sing|Person=3|VerbForm=Conv	4	cop	_	SpaceAfter=No
+6	,	,	PUNCT	cm	_	5	punct	_	_
+7	адамның	адам	NOUN	n	Case=Gen	8	nmod:poss	_	_
+8	шешуі	шеш	VERB	v	Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3|VerbForm=Ger	10	nsubj	_	_
+9	жалғыз	жалғыз	ADJ	adj	_	10	amod	_	_
+10	өлім	өлім	NOUN	n	Case=Nom	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	sent	_	10	punct	_	_
+
+~~~
+
+
+~~~ conllu
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
-# visual-style 4 3 amod	color:blue
-1	Иран	Иран	PROPN	np	_	4	nsubj	_	top|nom
-2	—	—	PUNCT	guio	_	1	punct	_	_
-3	діни	діни	ADJ	adj	_	4	amod	_	_
-4	_	мемлекет	NOUN	n	_	0	root	_	nom
-5	_	е	AUX	cop	_	4	cop	_	aor|p3|sg
-6	.	.	PUNCT	sent	_	4	punct	_	_
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 4 amod	color:blue
+1	Таққа	тақ	NOUN	n	Case=Dat	17	obl	_	_
+2	1952	1952	NUM	num	NumType=Ord	3	amod	_	_
+3	жылдың	жыл	NOUN	n	Case=Gen	5	nmod:poss	_	_
+4	6	6	NUM	num	NumType=Ord	5	amod	_	_
+5	ақпанында	ақпан	NOUN	n	Case=Loc|Number[psor]=Plur,Sing|Person[psor]=3	17	obl	_	SpaceAfter=No
+6	,	,	PUNCT	cm	_	9	punct	_	_
+7	яғни	яғни	SCONJ	cnjsub	_	9	cc	_	_
+8	25	25	NUM	num	NumType=Card	9	nummod	_	_
+9	жасында	жас	NOUN	n	Case=Loc|Number[psor]=Plur,Sing|Person[psor]=3	5	appos	_	SpaceAfter=No
+10	,	,	PUNCT	cm	_	9	punct	_	_
+11	әкесі	әке	NOUN	n	Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3	15	nmod:poss	_	_
+12	—	—	PUNCT	guio	_	14	punct	_	_
+13	VI	VI	NUM	num	NumType=Ord	11	appos	_	_
+14	Георгтың	Георг	PROPN	np	Case=Gen|Gender=Masc	13	flat:name	_	_
+15	өлімінен	өлім	NOUN	n	Case=Abl|Number[psor]=Plur,Sing|Person[psor]=3	17	obl	_	_
+16	кейін	кейін	ADP	post	_	15	case	_	_
+17	отырды	отыр	VERB	v	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
+18	.	.	PUNCT	sent	_	17	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 1 amod	color:blue
-1	1968	1968	NUM	num	_	2	amod	_	_
-2	жылдан	жыл	NOUN	n	_	3	nmod	_	abl
-3	бастап	баста	VERB	v	_	7	advcl	_	tv|gna_perf
-4	Ширазда	Шираз	PROPN	np	_	7	nmod	_	top|loc
-5	театр	театр	NOUN	n	_	6	nmod:poss	_	nom
-6	фестивалы	фестиваль	NOUN	n	_	7	nsubj	_	px3sp|nom
-7	өткізіліп	өткіз	VERB	v	_	0	root	_	tv|pass|prc_perf
-8	тұрды	тұр	AUX	vaux	_	7	aux	_	ifi|p3|sg
-9	.	.	PUNCT	sent	_	7	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 7 6 amod	color:blue
-1	Б.з.б.	б.з.б.	NOUN	abbr	_	3	compound	_	_
-2	550	550	NUM	num	_	3	amod	_	_
-3	ж.	ж.	NOUN	abbr	_	9	nmod	_	_
-4	өкімет	өкімет	NOUN	n	_	5	nmod:poss	_	nom
-5	билігі	билік	NOUN	n	_	9	nsubj	_	px3sp|nom
-6	парсылық	парсылық	ADJ	adj	_	7	amod	_	_
-7	Ахемен	Ахемен	PROPN	np	_	8	nmod:poss	_	al|nom
-8	әулетіне	әулет	NOUN	n	_	9	nmod	_	px3sp|dat
-9	көшті	көш	VERB	v	_	0	root	_	iv|ifi|p3|sg
-10	.	.	PUNCT	sent	_	9	punct	_	_
+# visual-style 16	bgColor:blue
+# visual-style 16	fgColor:white
+# visual-style 18	bgColor:blue
+# visual-style 18	fgColor:white
+# visual-style 18 16 amod	color:blue
+1	Туған	ту	VERB	v	Tense=Past|VerbForm=Part	2	acl:relcl	_	_
+2	күнінен	күн	NOUN	n	Case=Abl|Number[psor]=Plur,Sing|Person[psor]=3	3	obl	_	_
+3	бастап	баста	VERB	v	Aspect=Perf|VerbForm=Conv	8	advcl	_	_
+4	Елизавета	Елизавета	PROPN	np	Case=Nom|Gender=Fem	18	nsubj	_	_
+5	ханшайым	ханшайым	NOUN	n	Case=Nom	4	flat:name	_	_
+6	Йорктің	Йорк	PROPN	np	Case=Gen	7	nmod:poss	_	_
+7	герцогиниясы	герцогиния	NOUN	n	Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3	8	xcomp	_	_
+8	атанып	атан	VERB	v	Aspect=Perf|VerbForm=Conv	0	root	_	SpaceAfter=No
+9	,	,	PUNCT	cm	_	8	punct	_	_
+10	ағасы	аға	NOUN	n	Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3	27	obl	_	SpaceAfter=No
+11	-	-	PUNCT	cm	_	14	punct	_	SpaceAfter=No
+12	Эдуард	Эдуард	PROPN	np	Case=Nom|Gender=Masc	10	appos	_	_
+13	Уэльс	Уэльс	PROPN	np	Case=Nom	14	nmod:poss	_	_
+14	ханзадасы	ханзада	NOUN	n	Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3	12	flat:name	_	_
+15	(	(	PUNCT	lpar	_	18	punct	_	SpaceAfter=No
+16	келешек	келешек	NOUN	n	Case=Nom	18	amod	_	_
+17	Ұлыбритания	Ұлыбритания	PROPN	np	Case=Nom	18	nmod:poss	_	_
+18	королі	король	NOUN	n	Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3	10	appos	_	_
+19	—	—	PUNCT	guio	_	21	punct	_	_
+20	VIII	VIII	NUM	num	NumType=Ord	10	appos	_	_
+21	Эдуард	Эдуард	NOUN	n	Case=Nom|Gender=Masc	20	flat:name	_	SpaceAfter=No
+22	)	)	PUNCT	rpar	_	18	punct	_	_
+23	мен	мен	CCONJ	cnjcoo	_	24	cc	_	_
+24	әкесінен	әке	NOUN	n	Case=Abl|Number[psor]=Plur,Sing|Person[psor]=3	10	conj	_	_
+25	кейін	кейін	ADP	post	_	24	case	_	_
+26	үшінші	үш	NUM	num	NumType=Ord	27	amod	_	_
+27	мұрагер	мұрагер	NOUN	n	Case=Nom	8	conj	_	_
+28	болды	бол	AUX	v	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	27	cop	_	SpaceAfter=No
+29	.	.	PUNCT	sent	_	27	punct	_	_
 
 ~~~
 

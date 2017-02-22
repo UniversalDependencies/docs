@@ -2,88 +2,16 @@
 
 --------------------------------------------------------------------------------
 
-## Treebank Statistics (UD_Japanese)
-
-This relation is universal.
-
-8348 nodes (9%) are attached to their parents as `conj`.
-
-8348 instances of `conj` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.72149017728797.
-
-The following 32 pairs of parts of speech are connected with `conj`: [ja-pos/VERB]()-[ja-pos/VERB]() (3195; 38% instances), [ja-pos/NOUN]()-[ja-pos/NOUN]() (3041; 36% instances), [ja-pos/NOUN]()-[ja-pos/VERB]() (670; 8% instances), [ja-pos/VERB]()-[ja-pos/NOUN]() (596; 7% instances), [ja-pos/ADJ]()-[ja-pos/VERB]() (180; 2% instances), [ja-pos/VERB]()-[ja-pos/ADJ]() (115; 1% instances), [ja-pos/ADJ]()-[ja-pos/ADJ]() (90; 1% instances), [ja-pos/NUM]()-[ja-pos/NUM]() (90; 1% instances), [ja-pos/ADJ]()-[ja-pos/NOUN]() (86; 1% instances), [ja-pos/NOUN]()-[ja-pos/ADJ]() (77; 1% instances), [ja-pos/NUM]()-[ja-pos/VERB]() (44; 1% instances), [ja-pos/VERB]()-[ja-pos/NUM]() (42; 1% instances), [ja-pos/NUM]()-[ja-pos/NOUN]() (37; 0% instances), [ja-pos/NOUN]()-[ja-pos/NUM]() (35; 0% instances), [ja-pos/PRON]()-[ja-pos/NOUN]() (9; 0% instances), [ja-pos/VERB]()-[ja-pos/PRON]() (6; 0% instances), [ja-pos/NOUN]()-[ja-pos/ADV]() (5; 0% instances), [ja-pos/ADJ]()-[ja-pos/NUM]() (4; 0% instances), [ja-pos/VERB]()-[ja-pos/ADV]() (4; 0% instances), [ja-pos/VERB]()-[ja-pos/CONJ]() (4; 0% instances), [ja-pos/ADJ]()-[ja-pos/CONJ]() (2; 0% instances), [ja-pos/NOUN]()-[ja-pos/CONJ]() (2; 0% instances), [ja-pos/NOUN]()-[ja-pos/PRON]() (2; 0% instances), [ja-pos/NUM]()-[ja-pos/ADJ]() (2; 0% instances), [ja-pos/PART]()-[ja-pos/VERB]() (2; 0% instances), [ja-pos/PRON]()-[ja-pos/VERB]() (2; 0% instances), [ja-pos/ADJ]()-[ja-pos/ADV]() (1; 0% instances), [ja-pos/ADV]()-[ja-pos/NOUN]() (1; 0% instances), [ja-pos/CONJ]()-[ja-pos/NOUN]() (1; 0% instances), [ja-pos/DET]()-[ja-pos/VERB]() (1; 0% instances), [ja-pos/NOUN]()-[ja-pos/DET]() (1; 0% instances), [ja-pos/NUM]()-[ja-pos/PRON]() (1; 0% instances).
-
-
-~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 6 conj	color:blue
-1	背中に	_	NOUN	NOUN-POSTP	_	2	nmod	_	_
-2	背負った	_	VERB	VERB-AUX	_	3	acl:relcl	_	_
-3	ブースターを	_	NOUN	NOUN-PRT	_	4	nmod	_	_
-4	使って	_	VERB	VERB	_	0	root	_	_
-5	空中飛行を	_	NOUN	NOUN-PRT	_	6	nmod	_	_
-6	行う。	_	VERB	VERB-AUX	_	4	conj	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 9 conj	color:blue
-1	北条実政（ほうじょうさねまさ）は	_	NOUN	NOUN-PRT	_	9	nmod	_	_
-2	、	_	PUNCT	.	_	1	punct	_	_
-3	鎌倉時代中・後期の	_	NOUN	NOUN-NOUN-POSTP	_	4	nmod	_	_
-4	武将	_	NOUN	NOUN	_	0	root	_	_
-5	、	_	PUNCT	.	_	4	punct	_	_
-6	元寇	_	NOUN	NOUN	_	8	appos	_	_
-7	(弘安の	_	NOUN	NOUN-POSTP	_	8	nmod	_	_
-8	役)の	_	NOUN	NOUN-POSTP	_	9	nmod	_	_
-9	日本軍総司令官。	_	NOUN	NOUN	_	4	conj	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 11	bgColor:blue
-# visual-style 11	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 11 conj	color:blue
-1	府中や	_	NOUN	NOUN-CONJ	_	3	nmod	_	_
-2	国立の	_	NOUN	NOUN-POSTP	_	1	conj	_	_
-3	辺りの	_	NOUN	NOUN-POSTP	_	4	nmod	_	_
-4	土地が	_	NOUN	NOUN-PRT	_	5	nmod	_	_
-5	得意との	_	NOUN	NOUN-PRT	_	6	nmod	_	_
-6	ことで	_	NOUN	NOUN-VERB	_	0	root	_	_
-7	、	_	PUNCT	.	_	6	punct	_	_
-8	色々と	_	ADV	ADV	_	9	advmod	_	_
-9	紹介してもらう	_	VERB	VERB-AUX-AUX	_	10	ccomp	_	_
-10	ことが	_	NOUN	NOUN-PRT	_	11	nmod	_	_
-11	できました。	_	VERB	VERB-AUX	_	6	conj	_	_
-
-~~~
-
-
-
-
---------------------------------------------------------------------------------
-
 ## Treebank Statistics (UD_Japanese-KTC)
 
 This relation is universal.
 
-4027 nodes (2%) are attached to their parents as `conj`.
+2869 nodes (2%) are attached to their parents as `conj`.
 
-4027 instances of `conj` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 5.58753414452446.
+2869 instances of `conj` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 5.15301498780063.
 
-The following 28 pairs of parts of speech are connected with `conj`: [ja-pos/NOUN]()-[ja-pos/NOUN]() (3005; 75% instances), [ja-pos/PROPN]()-[ja-pos/PROPN]() (265; 7% instances), [ja-pos/VERB]()-[ja-pos/VERB]() (241; 6% instances), [ja-pos/PROPN]()-[ja-pos/NOUN]() (91; 2% instances), [ja-pos/NOUN]()-[ja-pos/PROPN]() (77; 2% instances), [ja-pos/CONJ]()-[ja-pos/PROPN]() (57; 1% instances), [ja-pos/ADJ]()-[ja-pos/ADJ]() (48; 1% instances), [ja-pos/VERB]()-[ja-pos/ADJ]() (45; 1% instances), [ja-pos/VERB]()-[ja-pos/NOUN]() (41; 1% instances), [ja-pos/ADJ]()-[ja-pos/VERB]() (35; 1% instances), [ja-pos/CONJ]()-[ja-pos/NOUN]() (33; 1% instances), [ja-pos/NOUN]()-[ja-pos/VERB]() (21; 1% instances), [ja-pos/NUM]()-[ja-pos/NUM]() (14; 0% instances), [ja-pos/NUM]()-[ja-pos/NOUN]() (11; 0% instances), [ja-pos/NOUN]()-[ja-pos/ADJ]() (9; 0% instances), [ja-pos/ADJ]()-[ja-pos/NOUN]() (7; 0% instances), [ja-pos/ADV]()-[ja-pos/NOUN]() (6; 0% instances), [ja-pos/VERB]()-[ja-pos/ADV]() (5; 0% instances), [ja-pos/NOUN]()-[ja-pos/PRON]() (4; 0% instances), [ja-pos/ADV]()-[ja-pos/VERB]() (2; 0% instances), [ja-pos/NOUN]()-[ja-pos/ADV]() (2; 0% instances), [ja-pos/NOUN]()-[ja-pos/NUM]() (2; 0% instances), [ja-pos/ADJ]()-[ja-pos/ADV]() (1; 0% instances), [ja-pos/ADV]()-[ja-pos/ADV]() (1; 0% instances), [ja-pos/CONJ]()-[ja-pos/ADJ]() (1; 0% instances), [ja-pos/CONJ]()-[ja-pos/CONJ]() (1; 0% instances), [ja-pos/PRON]()-[ja-pos/NOUN]() (1; 0% instances), [ja-pos/VERB]()-[ja-pos/CONJ]() (1; 0% instances).
+The following 27 pairs of parts of speech are connected with `conj`: [ja-pos/NOUN]()-[ja-pos/NOUN]() (2179; 76% instances), [ja-pos/PROPN]()-[ja-pos/PROPN]() (204; 7% instances), [ja-pos/VERB]()-[ja-pos/VERB]() (138; 5% instances), [ja-pos/PROPN]()-[ja-pos/NOUN]() (77; 3% instances), [ja-pos/NOUN]()-[ja-pos/PROPN]() (54; 2% instances), [ja-pos/CONJ]()-[ja-pos/PROPN]() (47; 2% instances), [ja-pos/ADJ]()-[ja-pos/ADJ]() (34; 1% instances), [ja-pos/VERB]()-[ja-pos/ADJ]() (30; 1% instances), [ja-pos/VERB]()-[ja-pos/NOUN]() (24; 1% instances), [ja-pos/CONJ]()-[ja-pos/NOUN]() (23; 1% instances), [ja-pos/NOUN]()-[ja-pos/VERB]() (11; 0% instances), [ja-pos/ADJ]()-[ja-pos/VERB]() (9; 0% instances), [ja-pos/NOUN]()-[ja-pos/ADJ]() (6; 0% instances), [ja-pos/NUM]()-[ja-pos/NOUN]() (6; 0% instances), [ja-pos/NUM]()-[ja-pos/NUM]() (6; 0% instances), [ja-pos/VERB]()-[ja-pos/ADV]() (5; 0% instances), [ja-pos/ADV]()-[ja-pos/NOUN]() (3; 0% instances), [ja-pos/ADJ]()-[ja-pos/NOUN]() (2; 0% instances), [ja-pos/ADV]()-[ja-pos/VERB]() (2; 0% instances), [ja-pos/NOUN]()-[ja-pos/PRON]() (2; 0% instances), [ja-pos/ADV]()-[ja-pos/ADV]() (1; 0% instances), [ja-pos/CONJ]()-[ja-pos/ADJ]() (1; 0% instances), [ja-pos/CONJ]()-[ja-pos/CONJ]() (1; 0% instances), [ja-pos/NOUN]()-[ja-pos/ADV]() (1; 0% instances), [ja-pos/NOUN]()-[ja-pos/NUM]() (1; 0% instances), [ja-pos/PRON]()-[ja-pos/NOUN]() (1; 0% instances), [ja-pos/VERB]()-[ja-pos/CONJ]() (1; 0% instances).
 
 
 ~~~ conllu

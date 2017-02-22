@@ -7,70 +7,70 @@
 This feature is universal.
 It occurs with 15 different values: `Abl`, `Abs`, `All`, `Ben`, `Cau`, `Com`, `Dat`, `Erg`, `Ess`, `Gen`, `Ine`, `Ins`, `Lat`, `Loc`, `Par`.
 
-42348 tokens (35%) have a non-empty value of `Case`.
-17931 types (74%) occur at least once with a non-empty value of `Case`.
-7342 lemmas (67%) occur at least once with a non-empty value of `Case`.
-The feature is used with 11 part-of-speech tags: [eu-pos/NOUN]() (21529; 18% instances), [eu-pos/PROPN]() (6418; 5% instances), [eu-pos/ADJ]() (4703; 4% instances), [eu-pos/VERB]() (4119; 3% instances), [eu-pos/DET]() (3509; 3% instances), [eu-pos/ADP]() (1318; 1% instances), [eu-pos/ADV]() (332; 0% instances), [eu-pos/PRON]() (226; 0% instances), [eu-pos/AUX]() (160; 0% instances), [eu-pos/NUM]() (20; 0% instances), [eu-pos/SYM]() (14; 0% instances).
+33819 tokens (35%) have a non-empty value of `Case`.
+15394 types (73%) occur at least once with a non-empty value of `Case`.
+6575 lemmas (67%) occur at least once with a non-empty value of `Case`.
+The feature is used with 11 part-of-speech tags: [eu-pos/NOUN]() (17160; 18% instances), [eu-pos/PROPN]() (5226; 5% instances), [eu-pos/ADJ]() (3771; 4% instances), [eu-pos/VERB]() (3144; 3% instances), [eu-pos/DET]() (2789; 3% instances), [eu-pos/ADP]() (1027; 1% instances), [eu-pos/ADV]() (265; 0% instances), [eu-pos/AUX]() (231; 0% instances), [eu-pos/PRON]() (177; 0% instances), [eu-pos/NUM]() (17; 0% instances), [eu-pos/SYM]() (12; 0% instances).
 
 ### `NOUN`
 
-21529 [eu-pos/NOUN]() tokens (72% of all `NOUN` tokens) have a non-empty value of `Case`.
+17160 [eu-pos/NOUN]() tokens (72% of all `NOUN` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `NOUN` and `Case` co-occurred: <tt><a href="Definite.html">Definite</a>=Def</tt> (17135; 80%), <tt><a href="Number.html">Number</a>=Sing</tt> (12854; 60%), <tt><a href="Animacy.html">Animacy</a>=Inan</tt> (11306; 53%).
+The most frequent other feature values with which `NOUN` and `Case` co-occurred: <tt><a href="Definite.html">Definite</a>=Def</tt> (13661; 80%), <tt><a href="Number.html">Number</a>=Sing</tt> (10218; 60%), <tt><a href="Animacy.html">Animacy</a>=Inan</tt> (8978; 52%).
 
 `NOUN` tokens may have the following values of `Case`:
 
-* `Abl` (531; 2% of non-empty `Case`): <em>aurretik, hasieratik, etxetik, urtetik, zalantzarik, arazorik, dudarik, goitik, egunetik, herritik</em>
-* `Abs` (9468; 44% of non-empty `Case`): <em>behar, nahi, uste, ezin, urte, partidua, aukera, taldea, garaipena, lana</em>
-* `All` (447; 2% of non-empty `Case`): <em>behera, segundora, aurrera, etxera, herrira, kalera, urtera, atzera, kanpora, mailara</em>
-* `Ben` (57; 0% of non-empty `Case`): <em>emakumeentzat, ertzainentzat, gorritxoentzat, jokalarientzat, Estatuarentzat, Greziarrentzat, Hegoaldekoentzat, Munduarentzat, Txirrindularitzarentzat, Zuzenbidearentzat</em>
-* `Cau` (52; 0% of non-empty `Case`): <em>arazoengatik, delituengatik, finantzaketagatik, gorrotoarengatik, hilketagatik, kasuengatik, Bartzelonakoengatik, Euriagatik, adierazpenengatik, arrazoiengatik</em>
-* `Com` (400; 2% of non-empty `Case`): <em>taldearekin, urterekin, punturekin, taldekideekin, aldearekin, lagunekin, selekzioarekin, erabakiarekin, kideekin, laguntzarekin</em>
-* `Dat` (672; 3% of non-empty `Case`): <em>mahai, gobernuari, zelai, Jaurlaritzari, denboraldiari, buruari, palestinarrei, jokalariei, taldeari, aurrekontuei</em>
-* `Erg` (1916; 9% of non-empty `Case`): <em>taldeak, gobernuak, presidenteak, ministroak, poliziak, lehendakariak, entrenatzaileak, jokalariek, agintariek, kideek</em>
-* `Ess` (27; 0% of non-empty `Case`): <em>erreformistatzat, oinarritzat, aitzakiatzat, amaieratzat, arriskutzat, aurrebaldintzatzat, babeslekutzat, dialektotzat, egiletzat, erreferentziatzat</em>
-* `Gen` (2011; 9% of non-empty `Case`): <em>eskubideen, taldearen, gobernuaren, euskararen, abuztuaren, irailaren, hilaren, abertzaleen, epailearen, herriaren</em>
-* `Ine` (3283; 15% of non-empty `Case`): <em>ostean, igandean, herrian, taldean, urtean, moduan, egunetan, etxean, lanean, urteetan</em>
-* `Ins` (598; 3% of non-empty `Case`): <em>ondorioz, aldiz, ustez, legez, asmoz, euskaraz, urtez, aburuz, iritziz, orduz</em>
-* `Lat` (11; 0% of non-empty `Case`): <em>beherantz, Beherantza, barnerantz, helmugarantz, iparralderantz, mahaigainerantz, txokorantz, zeruertzerantz</em>
-* `Loc` (1607; 7% of non-empty `Case`): <em>taldeko, munduko, herriko, urteko, mailako, aurreko, goizeko, ligako, batasuneko, arratsaldeko</em>
-* `Par` (449; 2% of non-empty `Case`): <em>aukerarik, arazorik, aldaketarik, asmorik, garaipenik, arriskurik, lekurik, unerik, zerikusirik, erantzunik</em>
-* `EMPTY` (8248): <em>euskal, talde, lan, jokalari, estatu, alderdi, urte, egun, partidu, milioi</em>
+* `Abl` (421; 2% of non-empty `Case`): <em>aurretik, hasieratik, etxetik, zalantzarik, urtetik, arazorik, dudarik, herritik, goitik, zerrendatik</em>
+* `Abs` (7593; 44% of non-empty `Case`): <em>behar, nahi, uste, ezin, urte, partidua, aukera, taldea, garaipena, lana</em>
+* `All` (363; 2% of non-empty `Case`): <em>behera, aurrera, segundora, etxera, herrira, atzera, kalera, kanpora, bukaera, helmugara</em>
+* `Ben` (44; 0% of non-empty `Case`): <em>emakumeentzat, jokalarientzat, Greziarrentzat, Hegoaldekoentzat, Munduarentzat, Zuzenbidearentzat, administrazioarentzat, aldeentzat, aurkarientzat, biktimentzat</em>
+* `Cau` (40; 0% of non-empty `Case`): <em>arazoengatik, delituengatik, finantzaketagatik, hilketagatik, kasuengatik, Euriagatik, adierazpenengatik, arrazoiengatik, edertasunagatik, emaitzengatik</em>
+* `Com` (302; 2% of non-empty `Case`): <em>taldearekin, urterekin, taldekideekin, punturekin, selekzioarekin, kideekin, lagunekin, aldearekin, anaiarekin, bolarekin</em>
+* `Dat` (528; 3% of non-empty `Case`): <em>Jaurlaritzari, gobernuari, zelai, denboraldiari, denboraldi, etorkizunari, jokalariei, mahai, elektrizitate-lineari, garaipenari</em>
+* `Erg` (1509; 9% of non-empty `Case`): <em>gobernuak, taldeak, presidenteak, ministroak, entrenatzaileak, Poliziak, jokalariek, kideek, lehendakariak, agintariek</em>
+* `Ess` (20; 0% of non-empty `Case`): <em>erreformistatzat, oinarritzat, amaieratzat, aurrebaldintzatzat, babeslekutzat, egiletzat, ezustekotzat, genozidiotzat, hizkuntzatzat, jangarritzat</em>
+* `Gen` (1594; 9% of non-empty `Case`): <em>gobernuaren, eskubideen, taldearen, abuztuaren, abertzaleen, irailaren, legearen, agintarien, hilaren, palestinarren</em>
+* `Ine` (2608; 15% of non-empty `Case`): <em>ostean, taldean, herrian, urtean, igandean, urteetan, egunetan, lanean, moduan, etxean</em>
+* `Ins` (493; 3% of non-empty `Case`): <em>ondorioz, aldiz, ustez, legez, euskaraz, asmoz, urtez, iritziz, aburuz, orduz</em>
+* `Lat` (8; 0% of non-empty `Case`): <em>beherantz, barnerantz, helmugarantz, mahaigainerantz, zeruertzerantz</em>
+* `Loc` (1287; 8% of non-empty `Case`): <em>taldeko, herriko, urteko, munduko, mailako, aurreko, goizeko, ligako, arratsaldeko, batasuneko</em>
+* `Par` (350; 2% of non-empty `Case`): <em>aukerarik, arazorik, garaipenik, aldaketarik, asmorik, erantzunik, jokalaririk, lekurik, unerik, zerikusirik</em>
+* `EMPTY` (6560): <em>euskal, talde, jokalari, lan, alderdi, estatu, partidu, urte, egun, milioi</em>
 
 <table>
   <tr><th>Paradigm <i>talde</i></th><th><tt>Abs</tt></th><th><tt>Erg</tt></th><th><tt>Dat</tt></th><th><tt>Gen</tt></th><th><tt>Loc</tt></th><th><tt>Ins</tt></th><th><tt>Par</tt></th><th><tt>Ess</tt></th><th><tt>Com</tt></th><th><tt>Ine</tt></th><th><tt>All</tt></th><th><tt>Abl</tt></th></tr>
-  <tr><td><tt>_</tt></td><td></td><td></td><td></td><td><em>taldearen, taldeen</em></td><td></td><td><em>taldeez</em></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><a href="Animacy.html">Animacy</a>=Inan|<a href="Definite.html">Definite</a>=Def|<a href="Number.html">Number</a>=Sing</tt></td><td><em>taldea, taldekoa</em></td><td><em>taldeak</em></td><td><em>taldeari</em></td><td><em>taldearen</em></td><td><em>taldeko, talderako</em></td><td></td><td></td><td></td><td><em>taldearekin</em></td><td><em>taldean, taldearengan</em></td><td><em>taldera</em></td><td><em>taldetik</em></td></tr>
-  <tr><td><tt><a href="Animacy.html">Animacy</a>=Inan|<a href="Definite.html">Definite</a>=Def|<a href="Number.html">Number</a>=Plur</tt></td><td><em>taldeak, taldeok</em></td><td><em>taldeek, taldekoek, taldeok</em></td><td><em>taldeei</em></td><td><em>taldeen</em></td><td><em>taldeetako</em></td><td></td><td></td><td></td><td></td><td><em>taldeetan</em></td><td><em>taldeetara</em></td><td><em>taldeetatik</em></td></tr>
-  <tr><td><tt><a href="Animacy.html">Animacy</a>=Inan|<a href="Definite.html">Definite</a>=Ind</tt></td><td><em>talde</em></td><td><em>taldek</em></td><td></td><td><em>talderen</em></td><td></td><td><em>Taldez</em></td><td><em>talderik</em></td><td><em>taldetzat</em></td><td></td><td><em>taldetan</em></td><td></td><td></td></tr>
+  <tr><td><tt>_</tt></td><td></td><td></td><td></td><td><em>taldeen, taldearen</em></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Animacy.html">Animacy</a>=Inan|<a href="Definite.html">Definite</a>=Def|<a href="Number.html">Number</a>=Sing</tt></td><td><em>taldea</em></td><td><em>taldeak</em></td><td><em>taldeari</em></td><td><em>taldearen</em></td><td><em>taldeko, talderako</em></td><td></td><td></td><td></td><td><em>taldearekin</em></td><td><em>taldean, taldearengan</em></td><td><em>taldera</em></td><td><em>taldetik</em></td></tr>
+  <tr><td><tt><a href="Animacy.html">Animacy</a>=Inan|<a href="Definite.html">Definite</a>=Def|<a href="Number.html">Number</a>=Plur</tt></td><td><em>taldeak, taldeok</em></td><td><em>taldeek, taldeok, taldekoek</em></td><td><em>taldeei</em></td><td><em>taldeen</em></td><td><em>taldeetako</em></td><td></td><td></td><td></td><td></td><td><em>taldeetan</em></td><td><em>taldeetara</em></td><td><em>taldeetatik</em></td></tr>
+  <tr><td><tt><a href="Animacy.html">Animacy</a>=Inan|<a href="Definite.html">Definite</a>=Ind</tt></td><td><em>talde</em></td><td><em>taldek</em></td><td></td><td><em>talderen</em></td><td></td><td><em>Taldez</em></td><td><em>talderik</em></td><td><em>taldetzat</em></td><td></td><td></td><td></td><td></td></tr>
   <tr><td><tt><a href="Definite.html">Definite</a>=Def|<a href="Number.html">Number</a>=Sing</tt></td><td><em>Taldea</em></td><td></td><td></td><td><em>Taldearen</em></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
   <tr><td><tt><a href="Definite.html">Definite</a>=Def|<a href="Number.html">Number</a>=Plur</tt></td><td><em>Taldeak</em></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
 </table>
 
 ### `PROPN`
 
-6418 [eu-pos/PROPN]() tokens (65% of all `PROPN` tokens) have a non-empty value of `Case`.
+5226 [eu-pos/PROPN]() tokens (65% of all `PROPN` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `PROPN` and `Case` co-occurred: <tt><a href="Definite.html">Definite</a>=Def</tt> (6181; 96%), <tt><a href="Number.html">Number</a>=Sing</tt> (6102; 95%).
+The most frequent other feature values with which `PROPN` and `Case` co-occurred: <tt><a href="Definite.html">Definite</a>=Def</tt> (5044; 97%), <tt><a href="Number.html">Number</a>=Sing</tt> (4983; 95%).
 
 `PROPN` tokens may have the following values of `Case`:
 
-* `Abl` (69; 1% of non-empty `Case`): <em>Espainiatik, Bermeotik, EBtik, Egiptotik, Europatik, Gomatik, Herritik, Iruñetik, Kosovotik, Oriorengandik</em>
-* `Abs` (1151; 18% of non-empty `Case`): <em>EH, Alaves, Reala, Athletic, Bizkaia, Frantzia, Zaragoza, EEBBak, ETA, Errusia</em>
-* `All` (137; 2% of non-empty `Case`): <em>Sydneyra, Argentinara, Donostiara, Gasteizera, Iruñera, Madrilera, Oronozera, EEBBetara, Europara, Frantziara</em>
-* `Ben` (34; 1% of non-empty `Case`): <em>Alavesentzat, Eibarrentzat, Udalbiltzarentzat, Andreasentzat, Astillerorentzat, Athleticentzat, Barakentzat, Batistutarentzat, Bretainiarentzat, Echevarrieta-rentzat</em>
+* `Abl` (55; 1% of non-empty `Case`): <em>Espainiatik, Bermeotik, EBtik, Egiptotik, Europatik, Gomatik, Iruñetik, Kosovotik, Oriorengandik, Ozeaniatik</em>
+* `Abs` (927; 18% of non-empty `Case`): <em>EH, Bizkaia, Frantzia, Reala, Alaves, Athletic, EEBBak, Espainia, Jontxu, Zaragoza</em>
+* `All` (112; 2% of non-empty `Case`): <em>Argentinara, Donostiara, Europara, Gasteizera, Sydneyra, EEBBetara, Oronozera, Baionara, Bartzelonara, Espainiara</em>
+* `Ben` (30; 1% of non-empty `Case`): <em>Alavesentzat, Eibarrentzat, Andreasentzat, Astillerorentzat, Athleticentzat, Barakentzat, Batistutarentzat, Bretainiarentzat, Enbilentzat, FDPrentzat</em>
 * `Cau` (1; 0% of non-empty `Case`): <em>Batistutarengatik</em>
-* `Com` (99; 2% of non-empty `Case`): <em>Israelekin, Osasunarekin, Alavesekin, Alkortarekin, Arafatekin, Bartzelonarekin, EAJrekin, ETArekin, Eugirekin, Ibarretxerekin</em>
-* `Dat` (251; 4% of non-empty `Case`): <em>ETAri, Realari, Athletici, Aznarri, EAJri, Jerusalemi, Ibarretxeri, EAri, Kontxari, Lizasori</em>
-* `Erg` (1614; 25% of non-empty `Case`): <em>Miarritzek, EAJk, Osasunak, Realak, Athleticek, Alavesek, EHk, Lotinak, PPk, ETAk</em>
+* `Com` (78; 1% of non-empty `Case`): <em>Osasunarekin, Alavesekin, Alkortarekin, Arafatekin, Bartzelonarekin, EAJrekin, ETArekin, Keneallyrekin, LABekin, Pauerekin</em>
+* `Dat` (204; 4% of non-empty `Case`): <em>ETAri, Athletici, Aznarri, EAJri, Ibarretxeri, Jerusalemi, Kontxari, Realari, Toldori, Alavesi</em>
+* `Erg` (1323; 25% of non-empty `Case`): <em>EAJk, Miarritzek, Osasunak, Athleticek, PPk, Alavesek, Realak, EHk, Frantziak, Ibarretxek</em>
 * `Ess` (2; 0% of non-empty `Case`): <em>Hegoameriketako, Koreetako</em>
-* `Gen` (728; 11% of non-empty `Case`): <em>ETAren, Rojoren, Athleticen, Alavesen, Houdaren, Valentziaren, EHren, Goreren, Osasunaren, PPren</em>
-* `Ine` (763; 12% of non-empty `Case`): <em>Gasteizen, Sydneyn, Mendizorrotzan, Madrilen, Mamesen, Nafarroan, Alemanian, Bilbon, Donostian, Europan</em>
+* `Gen` (593; 11% of non-empty `Case`): <em>ETAren, Alavesen, Athleticen, Rojoren, EHren, Osasunaren, Goreren, Houdaren, Israelen, Valentziaren</em>
+* `Ine` (620; 12% of non-empty `Case`): <em>Sydneyn, Gasteizen, Mendizorrotzan, Bilbon, Nafarroan, Alemanian, Donostian, EEBBetan, Espainian, Frantzian</em>
 * `Ins` (7; 0% of non-empty `Case`): <em>Cardosoz, Redondoz, Bidasoaz, Brivez, Leoz, Serjent-Iurtez, Txetxeniaz</em>
 * `Lat` (1; 0% of non-empty `Case`): <em>Ingalaterrarantz</em>
-* `Loc` (1559; 24% of non-empty `Case`): <em>Europako, Espainiako, Frantziako, Israelgo, Nafarroako, EEBBetako, Jugoslaviako, Errusiako, Gasteizko, Italiako</em>
-* `Par` (2; 0% of non-empty `Case`): <em>Emilionerik, NOBrik</em>
-* `EMPTY` (3451): <em>Jose, Juan, Euskal, Iñaki, Luis, Joseba, David, Mikel, Jean, Miguel</em>
+* `Loc` (1272; 24% of non-empty `Case`): <em>Europako, Espainiako, Frantziako, Israelgo, Nafarroako, EEBBetako, Jugoslaviako, Italiako, Errusiako, Madrilgo</em>
+* `Par` (1; 0% of non-empty `Case`): <em>Emilionerik</em>
+* `EMPTY` (2768): <em>Jose, Juan, Euskal, Luis, Iñaki, Joseba, Jean, Mikel, David, Mari</em>
 
 <table>
   <tr><th>Paradigm <i>Espainia</i></th><th><tt>Abs</tt></th><th><tt>Erg</tt></th><th><tt>Dat</tt></th><th><tt>Gen</tt></th><th><tt>Loc</tt></th><th><tt>Com</tt></th><th><tt>Ine</tt></th><th><tt>All</tt></th><th><tt>Abl</tt></th></tr>
@@ -80,180 +80,218 @@ The most frequent other feature values with which `PROPN` and `Case` co-occurred
 
 ### `ADJ`
 
-4703 [eu-pos/ADJ]() tokens (79% of all `ADJ` tokens) have a non-empty value of `Case`.
+3771 [eu-pos/ADJ]() tokens (79% of all `ADJ` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `ADJ` and `Case` co-occurred: <tt><a href="Definite.html">Definite</a>=Def</tt> (3851; 82%), <tt><a href="Number.html">Number</a>=Sing</tt> (2810; 60%).
+The most frequent other feature values with which `ADJ` and `Case` co-occurred: <tt><a href="Definite.html">Definite</a>=Def</tt> (3080; 82%), <tt><a href="Number.html">Number</a>=Sing</tt> (2253; 60%).
 
 `ADJ` tokens may have the following values of `Case`:
 
-* `Abl` (31; 1% of non-empty `Case`): <em>onetik, Batutik, berritik, finkorik, gaztetatik, handirik, nagusitik, Garaitik, Nazionaletik, Zuritik</em>
-* `Abs` (2925; 62% of non-empty `Case`): <em>handia, ona, bakarra, nagusia, zaila, berria, onena, garrantzitsua, nagusi, osoa</em>
-* `All` (36; 1% of non-empty `Case`): <em>hobera, laburrera, politikora, Zurira, gorenera, onera, osora, publikora, Batuetara, Nagusira</em>
-* `Ben` (14; 0% of non-empty `Case`): <em>Akziodunentzat, bahamatarrentzat, baionesentzat, bakarrarentzat, berriarentzat, berrientzat, britainiarrentzat, frantziarrarentzat, handirentzat, hungariarrarentzat</em>
+* `Abl` (23; 1% of non-empty `Case`): <em>Batutik, finkorik, handirik, nagusitik, onetik, Nazionaletik, Zuritik, aberatsetik, bakoitzetik, berdinetik</em>
+* `Abs` (2350; 62% of non-empty `Case`): <em>handia, ona, bakarra, nagusia, zaila, berria, onena, garrantzitsua, osoa, berezia</em>
+* `All` (30; 1% of non-empty `Case`): <em>hobera, gorenera, laburrera, osora, politikora, publikora, Batuetara, Nagusira, Zurira, altuenera</em>
+* `Ben` (12; 0% of non-empty `Case`): <em>Akziodunentzat, bahamatarrentzat, bakarrarentzat, berriarentzat, berrientzat, britainiarrentzat, frantziarrarentzat, handirentzat, hungariarrarentzat, iraunkorrentzat</em>
 * `Cau` (12; 0% of non-empty `Case`): <em>bikoitzagatik, eskasagatik, espainiarragatik, handiagatik, handiengatik, hutsagatik, ikusgarriarengatik, militarragatik, normal-normalengatik, politikoengatik</em>
-* `Com` (64; 1% of non-empty `Case`): <em>handiarekin, onenekin, osoarekin, bakarrarekin, handiekin, ingelesarekin, koadroarekin, nagusiarekin, ohiarekin, onarekin</em>
-* `Dat` (117; 2% of non-empty `Case`): <em>ohiari, Batuari, politikoari, zaleei, bakoitzari, baltseroari, demokratikoari, fisikoari, onari, politikoei</em>
-* `Erg` (396; 8% of non-empty `Case`): <em>bakoitzak, Gorenak, ohiak, nagusiak, gazteak, berriak, estatubatuarrak, sozialistak, zibilak, Batuek</em>
-* `Ess` (41; 1% of non-empty `Case`): <em>ezinbestekotzat, garrantzitsutzat, nagusitzat, basatitzat, egokitzat, historikotzat, normaltzat, positibotzat, Batutzat, Naturaltzat</em>
-* `Gen` (339; 7% of non-empty `Case`): <em>berriaren, bakoitzaren, zaleen, handien, nazionalaren, politikoaren, ohiaren, Batuen, atzerritarren, palestinarraren</em>
-* `Ine` (310; 7% of non-empty `Case`): <em>osoan, nagusian, zabalean, Batuetan, bakoitzean, onean, onenean, nagusietan, batuan, betean</em>
-* `Ins` (87; 2% of non-empty `Case`): <em>handiz, onez, osoz, biziz, estreinakoz, azkenekoz, kulturalaz, naturalez, olinpiarrez, sozialaz</em>
-* `Lat` (5; 0% of non-empty `Case`): <em>Baturantz</em>
-* `Loc` (215; 5% of non-empty `Case`): <em>handiko, Batuetako, Nazionaleko, bakoitzeko, zibileko, goreneko, Batuko, osoko, bakarreko, Demokratikoko</em>
-* `Par` (111; 2% of non-empty `Case`): <em>handirik, halakorik, onik, horrelakorik, berezirik, faboritorik, larririk, politikorik, ziurrenik, garbirik</em>
-* `EMPTY` (1270): <em>hurrengo, inolako, nazioarteko, berri, olinpiar, txiki, handi, politiko, horrelako, oinarrizko</em>
+* `Com` (54; 1% of non-empty `Case`): <em>onenekin, handiarekin, osoarekin, bakarrarekin, ingelesarekin, koadroarekin, nagusiarekin, ohiarekin, txikiekin, Afasikoekin</em>
+* `Dat` (87; 2% of non-empty `Case`): <em>ohiari, Batuari, zaleei, baltseroari, politikoei, abertzaleei, demokratikoari, ekonomikoei, eragingarriei, espainiarrari</em>
+* `Erg` (310; 8% of non-empty `Case`): <em>bakoitzak, Gorenak, ohiak, nagusiak, gazteak, sozialistak, zibilak, estatubatuarrak, berdeek, berriak</em>
+* `Ess` (32; 1% of non-empty `Case`): <em>ezinbestekotzat, nagusitzat, basatitzat, garrantzitsutzat, normaltzat, positibotzat, arriskutsutzat, atzerakoitzat, balekotzat, egokitzat</em>
+* `Gen` (258; 7% of non-empty `Case`): <em>berriaren, bakoitzaren, handien, nazionalaren, atzerritarren, zaleen, Batuen, faboritoen, berrien, ohiaren</em>
+* `Ine` (254; 7% of non-empty `Case`): <em>osoan, nagusian, onean, zabalean, Batuetan, bakoitzean, onenean, batuan, betean, desberdinetan</em>
+* `Ins` (70; 2% of non-empty `Case`): <em>handiz, onez, osoz, biziz, naturalez, olinpiarrez, sozialaz, Batuaz, Estreinakoz, Hirugarrengoz</em>
+* `Lat` (4; 0% of non-empty `Case`): <em>Baturantz</em>
+* `Loc` (184; 5% of non-empty `Case`): <em>handiko, Batuetako, Nazionaleko, bakoitzeko, zibileko, goreneko, Batuko, Demokratikoko, handietako, nazionalerako</em>
+* `Par` (91; 2% of non-empty `Case`): <em>handirik, halakorik, horrelakorik, onik, berezirik, faboritorik, larririk, politikorik, ziurrenik, garbirik</em>
+* `EMPTY` (1001): <em>hurrengo, inolako, nazioarteko, olinpiar, berri, horrelako, politiko, txiki, halako, handi</em>
 
 <table>
   <tr><th>Paradigm <i>handi</i></th><th><tt>Abs</tt></th><th><tt>Erg</tt></th><th><tt>Gen</tt></th><th><tt>Loc</tt></th><th><tt>Ins</tt></th><th><tt>Par</tt></th><th><tt>Ess</tt></th><th><tt>Com</tt></th><th><tt>Ine</tt></th><th><tt>All</tt></th><th><tt>Abl</tt></th><th><tt>Cau</tt></th><th><tt>Ben</tt></th></tr>
   <tr><td><tt>_</tt></td><td></td><td></td><td><em>handien, handikoen</em></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td><em>handirik</em></td><td></td><td></td></tr>
   <tr><td><tt><a href="Definite.html">Definite</a>=Def|<a href="Degree.html">Degree</a>=Cmp|<a href="Number.html">Number</a>=Sing</tt></td><td><em>handiagoa, haundiagoa</em></td><td></td><td><em>handiagoaren</em></td><td><em>handiagoko</em></td><td></td><td></td><td></td><td><em>handiagoarekin</em></td><td></td><td><em>handiagora</em></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><a href="Definite.html">Definite</a>=Def|<a href="Degree.html">Degree</a>=Cmp|<a href="Number.html">Number</a>=Plur</tt></td><td><em>handiagoak, haundiagoak</em></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td><em>handiagoetan</em></td><td></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Definite.html">Definite</a>=Def|<a href="Degree.html">Degree</a>=Cmp|<a href="Number.html">Number</a>=Plur</tt></td><td><em>handiagoak, haundiagoak</em></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
   <tr><td><tt><a href="Definite.html">Definite</a>=Def|<a href="Degree.html">Degree</a>=Sup|<a href="Number.html">Number</a>=Sing</tt></td><td><em>handiena</em></td><td></td><td></td><td><em>handieneko</em></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
   <tr><td><tt><a href="Definite.html">Definite</a>=Def|<a href="Degree.html">Degree</a>=Sup|<a href="Number.html">Number</a>=Plur</tt></td><td><em>handienak</em></td><td><em>handienek</em></td><td></td><td><em>handienetariko</em></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
   <tr><td><tt><a href="Definite.html">Definite</a>=Def|<a href="Degree.html">Degree</a>=Abs|<a href="Number.html">Number</a>=Sing</tt></td><td><em>handiegia</em></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><a href="Definite.html">Definite</a>=Def|<a href="Number.html">Number</a>=Sing</tt></td><td><em>handia, haundia</em></td><td></td><td></td><td><em>handiko</em></td><td><em>handienaz</em></td><td></td><td></td><td><em>handiarekin</em></td><td><em>handian</em></td><td></td><td></td><td><em>handiagatik</em></td><td></td></tr>
+  <tr><td><tt><a href="Definite.html">Definite</a>=Def|<a href="Number.html">Number</a>=Sing</tt></td><td><em>handia</em></td><td></td><td></td><td><em>handiko</em></td><td></td><td></td><td></td><td><em>handiarekin</em></td><td><em>handian</em></td><td></td><td></td><td><em>handiagatik</em></td><td></td></tr>
   <tr><td><tt><a href="Definite.html">Definite</a>=Def|<a href="Number.html">Number</a>=Plur</tt></td><td><em>handiak, handikoak</em></td><td><em>handiek</em></td><td><em>handien</em></td><td><em>handietako</em></td><td></td><td></td><td></td><td><em>handiekin</em></td><td><em>handietan</em></td><td></td><td></td><td><em>handiengatik</em></td><td></td></tr>
   <tr><td><tt><a href="Definite.html">Definite</a>=Ind</tt></td><td><em>handi</em></td><td></td><td></td><td><em>handitarako</em></td><td><em>handiz</em></td><td><em>handirik, haundirik</em></td><td><em>handikotzat</em></td><td></td><td><em>handitan</em></td><td></td><td></td><td></td><td><em>handirentzat</em></td></tr>
-  <tr><td><tt><a href="Definite.html">Definite</a>=Ind|<a href="Degree.html">Degree</a>=Abs</tt></td><td><em>handiegi</em></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
 </table>
 
 ### `VERB`
 
-4119 [eu-pos/VERB]() tokens (19% of all `VERB` tokens) have a non-empty value of `Case`.
+3144 [eu-pos/VERB]() tokens (21% of all `VERB` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `VERB` and `Case` co-occurred: <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (4027; 98%), <tt><a href="Person[abs].html">Person[abs]</a>=EMPTY</tt> (4027; 98%), <tt><a href="Number[abs].html">Number[abs]</a>=EMPTY</tt> (4027; 98%), <tt><a href="Aspect.html">Aspect</a>=EMPTY</tt> (4025; 98%), <tt><a href="VerbForm.html">VerbForm</a>=EMPTY</tt> (2742; 67%).
+The most frequent other feature values with which `VERB` and `Case` co-occurred: <tt><a href="Number[abs].html">Number[abs]</a>=EMPTY</tt> (3083; 98%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (3083; 98%), <tt><a href="Person[abs].html">Person[abs]</a>=EMPTY</tt> (3083; 98%), <tt><a href="Aspect.html">Aspect</a>=EMPTY</tt> (3082; 98%), <tt><a href="VerbForm.html">VerbForm</a>=EMPTY</tt> (2072; 66%).
 
 `VERB` tokens may have the following values of `Case`:
 
-* `Abl` (9; 0% of non-empty `Case`): <em>izatetik, egitetik, ginenekotik, mintzatutik, normalizatutik, zaurituetatik</em>
-* `Abs` (1686; 41% of non-empty `Case`): <em>izatea, egitea, egotea, ematea, sartzea, egiteko, lortzea, hartzea, irabaztea, izateko</em>
-* `All` (102; 2% of non-empty `Case`): <em>egitera, ematera, irabaztera, izatera, hartzera, ikustera, jokatzera, deklaratzera, bizitzera, hastera</em>
-* `Ben` (1; 0% of non-empty `Case`): <em>denarentzat</em>
-* `Cau` (31; 1% of non-empty `Case`): <em>izateagatik, aurkitzearren, azaltzearren, ekartzearren, emateagatik, formalizatzearren, hitzegitearren, hondatzearren, irudikatzearren, izanagatik</em>
-* `Com` (7; 0% of non-empty `Case`): <em>aldentzearekin, egotearekin, erasoekin, handi-handituekin, igarotzearekin, irabaztearekin, kualifikatuarekin</em>
-* `Dat` (51; 1% of non-empty `Case`): <em>aztertzeari, dagokionari, izateari, dituztenei, prefabrikatuari, zimurtuari, zirenei, Eztabaidatzeari, afiliatuei, antolatzeari</em>
-* `Erg` (74; 2% of non-empty `Case`): <em>egiteak, izateak, izanak, armatuak, begiratzeak, ezabatzeak, ikusteak, inplikatuek, irabazteak, ixteak</em>
+* `Abl` (6; 0% of non-empty `Case`): <em>egitetik, izatetik, ginenekotik, mintzatutik, normalizatutik, zaurituetatik</em>
+* `Abs` (1284; 41% of non-empty `Case`): <em>izatea, egitea, ematea, egiteko, egotea, lortzea, sartzea, hartzea, irabaztea, izana</em>
+* `All` (74; 2% of non-empty `Case`): <em>egitera, ematera, hartzera, irabaztera, jokatzera, ikustera, laguntzera, sartzera, Lehiatzera, aurkeztera</em>
+* `Cau` (21; 1% of non-empty `Case`): <em>aurkitzearren, azaltzearren, ekartzearren, formalizatzearren, hitzegitearren, hondatzearren, irudikatzearren, lortzearren, uxatzearren, zartatzearren</em>
+* `Com` (4; 0% of non-empty `Case`): <em>aldentzearekin, erasoekin, handi-handituekin, irabaztearekin</em>
+* `Dat` (43; 1% of non-empty `Case`): <em>aztertzeari, dagokionari, dituztenei, prefabrikatuari, zimurtuari, zirenei, Eztabaidatzeari, aritzeari, aurkitzeari, batzeari</em>
+* `Erg` (57; 2% of non-empty `Case`): <em>egiteak, izanak, izateak, armatuak, begiratzeak, ezabatzeak, ikusteak, irabazteak, ixteak, jakiteak</em>
 * `Ess` (6; 0% of non-empty `Case`): <em>amaitutzat, desagertutzat, erabakitzat, galdutzat, jaiotakotzat, lortutzat</em>
-* `Gen` (59; 1% of non-empty `Case`): <em>sustatzearen, daudenen, esandakoaren, armatuen, egitearen, entzundakoaren, gertatutakoaren, izanaren, Bateratzearen, Gutxituen</em>
-* `Ine` (511; 12% of non-empty `Case`): <em>egiten, sartzen, jokatzen, ematen, izaten, aztertzen, ikertzen, ikusten, hartzen, sortzen</em>
-* `Ins` (289; 7% of non-empty `Case`): <em>eginez, erabiliz, esanez, izateaz, izanez, utziz, eraginez, emanez, errespetatuz, idatziz</em>
-* `Loc` (1163; 28% of non-empty `Case`): <em>egiteko, egindako, jokatzeko, lortzeko, irabazteko, izateko, emateko, izandako, hartzeko, eginiko</em>
-* `Par` (130; 3% of non-empty `Case`): <em>izanik, osaturik, jokatzerik, erretiratzerik, harturik, utzirik, ezkutaturik, ikusirik, arrestaturik, ateratzerik</em>
-* `EMPTY` (17424): <em>izan, da, egin, izango, dira, du, esan, eman, dago, egiten</em>
+* `Gen` (46; 1% of non-empty `Case`): <em>sustatzearen, esandakoaren, egitearen, Bateratzearen, Gutxituen, Irekien, afiliatuen, armatuen, atxilotutakoen, aukeratutakoen</em>
+* `Ine` (396; 13% of non-empty `Case`): <em>egiten, sartzen, jokatzen, ikertzen, aztertzen, ematen, ikusten, bilatzen, sortzen, biltzen</em>
+* `Ins` (221; 7% of non-empty `Case`): <em>eginez, erabiliz, utziz, eraginez, esanez, irabaziz, izanez, idatziz, jarriz, sartuz</em>
+* `Loc` (899; 29% of non-empty `Case`): <em>egiteko, egindako, jokatzeko, irabazteko, lortzeko, emateko, hartzeko, izandako, eginiko, lortutako</em>
+* `Par` (87; 3% of non-empty `Case`): <em>erretiratzerik, harturik, izanik, utzirik, ezkutaturik, osaturik, ateratzerik, bizitzerik, botatzerik, egiterik</em>
+* `EMPTY` (12131): <em>egin, izan, esan, du, izango, eman, da, egiten, dago, joan</em>
 
 <table>
-  <tr><th>Paradigm <i>izan</i></th><th><tt>Abs</tt></th><th><tt>Erg</tt></th><th><tt>Dat</tt></th><th><tt>Gen</tt></th><th><tt>Loc</tt></th><th><tt>Ins</tt></th><th><tt>Par</tt></th><th><tt>Ine</tt></th><th><tt>All</tt></th><th><tt>Abl</tt></th><th><tt>Cau</tt></th><th><tt>Ben</tt></th></tr>
-  <tr><td><tt>_</tt></td><td><em>izatea</em></td><td></td><td></td><td></td><td><em>izateko</em></td><td></td><td></td><td><em>izaten, izatekotan</em></td><td><em>izatera</em></td><td><em>izatetik</em></td><td></td><td></td></tr>
-  <tr><td><tt><a href="Aspect.html">Aspect</a>=Prog|<a href="Definite.html">Definite</a>=Def|<a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Number[abs].html">Number[abs]</a>=Plur|<a href="Person[abs].html">Person[abs]</a>=1</tt></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td><em>ginenekotik</em></td><td></td><td></td></tr>
-  <tr><td><tt><a href="Aspect.html">Aspect</a>=Prog|<a href="Definite.html">Definite</a>=Def|<a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Number[abs].html">Number[abs]</a>=Plur|<a href="Person[abs].html">Person[abs]</a>=3</tt></td><td><em>direna</em></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><a href="Aspect.html">Aspect</a>=Prog|<a href="Definite.html">Definite</a>=Def|<a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Number[abs].html">Number[abs]</a>=Sing|<a href="Person[abs].html">Person[abs]</a>=3</tt></td><td><em>dena</em></td><td></td><td></td><td><em>zenaren</em></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td><em>denarentzat</em></td></tr>
-  <tr><td><tt><a href="Aspect.html">Aspect</a>=Prog|<a href="Definite.html">Definite</a>=Def|<a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Plur|<a href="Number[abs].html">Number[abs]</a>=Plur|<a href="Number[dat].html">Number[dat]</a>=Plur|<a href="Person[abs].html">Person[abs]</a>=3|<a href="Person[dat].html">Person[dat]</a>=3</tt></td><td><em>zaizkienak</em></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><a href="Aspect.html">Aspect</a>=Prog|<a href="Definite.html">Definite</a>=Def|<a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Plur|<a href="Number[abs].html">Number[abs]</a>=Plur|<a href="Person[abs].html">Person[abs]</a>=1</tt></td><td></td><td><em>garenok</em></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><a href="Aspect.html">Aspect</a>=Prog|<a href="Definite.html">Definite</a>=Def|<a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Plur|<a href="Number[abs].html">Number[abs]</a>=Plur|<a href="Person[abs].html">Person[abs]</a>=3</tt></td><td><em>direnak, zirenak</em></td><td></td><td><em>zirenei</em></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><a href="Aspect.html">Aspect</a>=Prog|<a href="Definite.html">Definite</a>=Def|<a href="Number.html">Number</a>=Plur</tt></td><td></td><td></td><td></td><td></td><td></td><td><em>denez</em></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><a href="Aspect.html">Aspect</a>=Prog|<a href="Mood.html">Mood</a>=Ind|<a href="Number[abs].html">Number[abs]</a>=Sing|<a href="Person[abs].html">Person[abs]</a>=3</tt></td><td></td><td></td><td></td><td></td><td><em>delako</em></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><a href="Definite.html">Definite</a>=Def|<a href="Number.html">Number</a>=Sing</tt></td><td></td><td><em>izateak</em></td><td><em>izateari</em></td><td><em>izatearen</em></td><td></td><td><em>izateaz</em></td><td></td><td></td><td></td><td></td><td><em>izateagatik</em></td><td></td></tr>
-  <tr><td><tt><a href="Definite.html">Definite</a>=Def|<a href="Number.html">Number</a>=Sing|<a href="VerbForm.html">VerbForm</a>=Part</tt></td><td><em>izana, izandakoa</em></td><td><em>izanak, izandakoak</em></td><td></td><td><em>izanaren</em></td><td></td><td><em>izanaz</em></td><td></td><td></td><td></td><td></td><td><em>izanagatik</em></td><td></td></tr>
-  <tr><td><tt><a href="Definite.html">Definite</a>=Def|<a href="Number.html">Number</a>=Plur|<a href="VerbForm.html">VerbForm</a>=Part</tt></td><td><em>izanak</em></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><a href="Definite.html">Definite</a>=Ind</tt></td><td><em>izateko</em></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><a href="Definite.html">Definite</a>=Ind|<a href="VerbForm.html">VerbForm</a>=Part</tt></td><td><em>izan</em></td><td></td><td></td><td></td><td></td><td><em>izanez</em></td><td><em>izanik</em></td><td></td><td></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><a href="VerbForm.html">VerbForm</a>=Part</tt></td><td></td><td></td><td></td><td></td><td><em>izandako</em></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  <tr><th>Paradigm <i>izan</i></th><th><tt>Abs</tt></th><th><tt>Erg</tt></th><th><tt>Dat</tt></th><th><tt>Gen</tt></th><th><tt>Loc</tt></th><th><tt>Ins</tt></th><th><tt>Par</tt></th><th><tt>Ine</tt></th><th><tt>All</tt></th><th><tt>Abl</tt></th></tr>
+  <tr><td><tt>_</tt></td><td><em>izatea</em></td><td></td><td></td><td></td><td><em>izateko</em></td><td></td><td></td><td><em>izaten, izatekotan</em></td><td><em>izatera</em></td><td><em>izatetik</em></td></tr>
+  <tr><td><tt><a href="Aspect.html">Aspect</a>=Prog|<a href="Definite.html">Definite</a>=Def|<a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Number[abs].html">Number[abs]</a>=Plur|<a href="Person[abs].html">Person[abs]</a>=1</tt></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td><em>ginenekotik</em></td></tr>
+  <tr><td><tt><a href="Aspect.html">Aspect</a>=Prog|<a href="Definite.html">Definite</a>=Def|<a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Number[abs].html">Number[abs]</a>=Plur|<a href="Person[abs].html">Person[abs]</a>=3</tt></td><td><em>direna</em></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Aspect.html">Aspect</a>=Prog|<a href="Definite.html">Definite</a>=Def|<a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Number[abs].html">Number[abs]</a>=Sing|<a href="Person[abs].html">Person[abs]</a>=3</tt></td><td></td><td></td><td></td><td><em>zenaren</em></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Aspect.html">Aspect</a>=Prog|<a href="Definite.html">Definite</a>=Def|<a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Plur|<a href="Number[abs].html">Number[abs]</a>=Plur|<a href="Number[dat].html">Number[dat]</a>=Plur|<a href="Person[abs].html">Person[abs]</a>=3|<a href="Person[dat].html">Person[dat]</a>=3</tt></td><td><em>zaizkienak</em></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Aspect.html">Aspect</a>=Prog|<a href="Definite.html">Definite</a>=Def|<a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Plur|<a href="Number[abs].html">Number[abs]</a>=Plur|<a href="Person[abs].html">Person[abs]</a>=3</tt></td><td><em>zirenak</em></td><td></td><td><em>zirenei</em></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Aspect.html">Aspect</a>=Prog|<a href="Definite.html">Definite</a>=Def|<a href="Number.html">Number</a>=Plur</tt></td><td></td><td></td><td></td><td></td><td></td><td><em>denez</em></td><td></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Definite.html">Definite</a>=Def|<a href="Number.html">Number</a>=Sing</tt></td><td></td><td><em>izateak</em></td><td><em>izateari</em></td><td></td><td></td><td><em>izateaz</em></td><td></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Definite.html">Definite</a>=Def|<a href="Number.html">Number</a>=Sing|<a href="VerbForm.html">VerbForm</a>=Part</tt></td><td><em>izana</em></td><td><em>izanak</em></td><td></td><td><em>izanaren</em></td><td></td><td><em>izanaz</em></td><td></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Definite.html">Definite</a>=Def|<a href="Number.html">Number</a>=Plur|<a href="VerbForm.html">VerbForm</a>=Part</tt></td><td><em>izanak</em></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Definite.html">Definite</a>=Ind</tt></td><td><em>izateko</em></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Definite.html">Definite</a>=Ind|<a href="VerbForm.html">VerbForm</a>=Part</tt></td><td><em>izan</em></td><td></td><td></td><td></td><td></td><td><em>izanez</em></td><td><em>izanik</em></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><a href="VerbForm.html">VerbForm</a>=Part</tt></td><td></td><td></td><td></td><td></td><td><em>izandako</em></td><td></td><td></td><td></td><td></td><td></td></tr>
 </table>
 
 ### `DET`
 
-3509 [eu-pos/DET]() tokens (86% of all `DET` tokens) have a non-empty value of `Case`.
+2789 [eu-pos/DET]() tokens (86% of all `DET` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `DET` and `Case` co-occurred: <tt><a href="Definite.html">Definite</a>=Def</tt> (2324; 66%), <tt><a href="Number.html">Number</a>=Sing</tt> (1916; 55%).
+The most frequent other feature values with which `DET` and `Case` co-occurred: <tt><a href="Definite.html">Definite</a>=Def</tt> (1839; 66%), <tt><a href="Number.html">Number</a>=Sing</tt> (1509; 54%).
 
 `DET` tokens may have the following values of `Case`:
 
-* `Abl` (95; 3% of non-empty `Case`): <em>bestetik, horretatik, honetatik, beretik, hartatik, haietatik, horietatik, askotatik, batzuetatik, berarengandik</em>
-* `Abs` (1533; 44% of non-empty `Case`): <em>hori, hau, batzuk, zer, guztiak, gehiago, bera, asko, horiek, hauek</em>
-* `All` (42; 1% of non-empty `Case`): <em>horretara, gutxira, honetara, bera, guztietara, zertara, batzuetara, bestera, hartara, guztira</em>
-* `Ben` (21; 1% of non-empty `Case`): <em>gehienentzat, guztientzat, harentzat, guztiontzat, horientzat, Zerendako, askorentzat, batzuentzat, berarentzat, beretzat</em>
-* `Cau` (22; 1% of non-empty `Case`): <em>horregatik, beragatik, honengatik, Horrexegatik, batzuengatik, berarengatik, berberagatik, guztiagatik, hargatik, honegatik</em>
-* `Com` (70; 2% of non-empty `Case`): <em>horrekin, honekin, batzuekin, horiekin, berarekin, gehiagorekin, hauekin, harekin, gutxiagorekin, haiekin</em>
-* `Dat` (98; 3% of non-empty `Case`): <em>horri, honi, hari, guztiei, horiei, hauei, batzuei, askori, berari, besteei</em>
-* `Erg` (348; 10% of non-empty `Case`): <em>horrek, berak, honek, horiek, batzuek, guztiek, hauek, hark, askok, gehienek</em>
-* `Gen` (718; 20% of non-empty `Case`): <em>bere, horren, haren, honen, horien, beren, haien, guztien, hauen, batzuen</em>
-* `Ine` (396; 11% of non-empty `Case`): <em>horretan, honetan, berean, hartan, hauetan, batzuetan, horietan, guztian, guztietan, haietan</em>
-* `Ins` (44; 1% of non-empty `Case`): <em>horretaz, horrez, Honetaz, hauez, horiez, batzuez, guztiaz, hainbatez, honez, horrezaz</em>
+* `Abl` (71; 3% of non-empty `Case`): <em>Bestetik, horretatik, beretik, honetatik, hartatik, haietatik, horietatik, berarengandik, denetarik, askotatik</em>
+* `Abs` (1210; 43% of non-empty `Case`): <em>hori, hau, batzuk, zer, gehiago, guztiak, bera, asko, hauek, horiek</em>
+* `All` (31; 1% of non-empty `Case`): <em>horretara, bera, gutxira, guztietara, honetara, zertara, batzuetara, bestera, hartara, berberera</em>
+* `Ben` (14; 1% of non-empty `Case`): <em>guztientzat, guztiontzat, harentzat, horientzat, batzuentzat, berarentzat, denontzat, gehienentzat, guzientzat</em>
+* `Cau` (16; 1% of non-empty `Case`): <em>horregatik, Horrexegatik, beragatik, batzuengatik, berberagatik, guztiagatik, hargatik, honegatik, honengatik, horrengatik</em>
+* `Com` (56; 2% of non-empty `Case`): <em>horrekin, honekin, horiekin, batzuekin, gehiagorekin, berarekin, hauekin, gutxiagorekin, harekin, askorekin</em>
+* `Dat` (89; 3% of non-empty `Case`): <em>horri, honi, hari, guztiei, horiei, hauei, berari, besteei, askori, batzuei</em>
+* `Erg` (282; 10% of non-empty `Case`): <em>horrek, berak, honek, horiek, batzuek, guztiek, hark, hauek, askok, gehienek</em>
+* `Gen` (567; 20% of non-empty `Case`): <em>bere, horren, haren, honen, horien, beren, haien, guztien, hauen, batzuen</em>
+* `Ine` (318; 11% of non-empty `Case`): <em>horretan, honetan, berean, hartan, hauetan, batzuetan, horietan, guztian, guztietan, haietan</em>
+* `Ins` (36; 1% of non-empty `Case`): <em>horretaz, Honetaz, horrez, hauez, horiez, batzuez, guztiaz, hainbatez, horrezaz, anitzez</em>
 * `Lat` (1; 0% of non-empty `Case`): <em>besterantz</em>
-* `Loc` (100; 3% of non-empty `Case`): <em>horretako, bereko, honetako, horietako, hauetako, askotako, haietako, besteko, horretarako, guztietako</em>
-* `Par` (21; 1% of non-empty `Case`): <em>besterik, askorik, gehiegirik, nahikorik</em>
-* `EMPTY` (565): <em>beste, hainbat, zenbait, bere, zer, zein, edozein, milaka, guzti, hainbeste</em>
+* `Loc` (81; 3% of non-empty `Case`): <em>horretako, horietako, haietako, hauetako, bereko, honetako, askotako, besteko, horretarako, hartako</em>
+* `Par` (17; 1% of non-empty `Case`): <em>besterik, askorik, nahikorik</em>
+* `EMPTY` (459): <em>beste, hainbat, zenbait, bere, zer, zein, milaka, edozein, guzti, hainbeste</em>
 
 <table>
-  <tr><th>Paradigm <i>bera</i></th><th><tt>Abs</tt></th><th><tt>Erg</tt></th><th><tt>Dat</tt></th><th><tt>Gen</tt></th><th><tt>Loc</tt></th><th><tt>Ins</tt></th><th><tt>Com</tt></th><th><tt>Ine</tt></th><th><tt>All</tt></th><th><tt>Abl</tt></th><th><tt>Cau</tt></th><th><tt>Ben</tt></th></tr>
-  <tr><td><tt>_</tt></td><td></td><td></td><td></td><td><em>beraren</em></td><td><em>bereko</em></td><td></td><td></td><td></td><td><em>bera</em></td><td><em>berarengandik</em></td><td></td><td></td></tr>
-  <tr><td><tt><a href="Definite.html">Definite</a>=Def|<a href="Number.html">Number</a>=Sing</tt></td><td><em>bera, berekoa, berea</em></td><td><em>berak</em></td><td><em>berari</em></td><td><em>beraren</em></td><td></td><td><em>beraz</em></td><td><em>berarekin</em></td><td><em>berarengan</em></td><td><em>berarengana</em></td><td></td><td><em>beragatik, berarengatik</em></td><td><em>berarentzat</em></td></tr>
-  <tr><td><tt><a href="Definite.html">Definite</a>=Def|<a href="Number.html">Number</a>=Plur</tt></td><td><em>bereak, berekoak</em></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><a href="Definite.html">Definite</a>=Ind|<a href="Number.html">Number</a>=Sing</tt></td><td><em>bere</em></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><a href="Number.html">Number</a>=Sing</tt></td><td></td><td></td><td></td><td><em>bere</em></td><td></td><td></td><td></td><td><em>berean</em></td><td></td><td><em>beretik</em></td><td></td><td><em>beretzat</em></td></tr>
+  <tr><th>Paradigm <i>guzti</i></th><th><tt>Abs</tt></th><th><tt>Erg</tt></th><th><tt>Dat</tt></th><th><tt>Gen</tt></th><th><tt>Loc</tt></th><th><tt>Ins</tt></th><th><tt>Com</tt></th><th><tt>Ine</tt></th><th><tt>All</tt></th><th><tt>Abl</tt></th><th><tt>Cau</tt></th><th><tt>Ben</tt></th></tr>
+  <tr><td><tt>_</tt></td><td><em>guztiak</em></td><td></td><td></td><td><em>guztien, guztiaren</em></td><td></td><td><em>guztiaz</em></td><td></td><td><em>guztian, Guztion</em></td><td></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Definite.html">Definite</a>=Def|<a href="Number.html">Number</a>=Sing</tt></td><td><em>guztia</em></td><td><em>guztiak</em></td><td><em>guztiari</em></td><td><em>guztiaren, guztionen</em></td><td></td><td></td><td><em>guztiarekin</em></td><td><em>guztian</em></td><td><em>guztira</em></td><td></td><td><em>guztiagatik</em></td><td></td></tr>
+  <tr><td><tt><a href="Definite.html">Definite</a>=Def|<a href="Number.html">Number</a>=Plur</tt></td><td><em>guztiak, guztionak</em></td><td><em>guztiek, guztiok</em></td><td><em>guztiei, guztioi</em></td><td><em>guztien, guztion</em></td><td><em>guztitako, guztietako, guztientzako</em></td><td><em>guztiez</em></td><td></td><td><em>guztietan, guztiengan</em></td><td><em>guztietara</em></td><td><em>guztietatik</em></td><td></td><td><em>guztientzat, guztiontzat</em></td></tr>
 </table>
 
 ### `ADP`
 
-1318 [eu-pos/ADP]() tokens (70% of all `ADP` tokens) have a non-empty value of `Case`.
+1027 [eu-pos/ADP]() tokens (70% of all `ADP` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `ADP` and `Case` co-occurred: <tt><a href="Definite.html">Definite</a>=Def</tt> (940; 71%), <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (837; 64%).
+The most frequent other feature values with which `ADP` and `Case` co-occurred: <tt><a href="Definite.html">Definite</a>=Def</tt> (732; 71%), <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (668; 65%).
 
 `ADP` tokens may have the following values of `Case`:
 
-* `Abl` (94; 7% of non-empty `Case`): <em>aurretik, aldetik, gainetik, ondotik, atzetik, eskutik, azpitik, aitzinetik, barrutik, goitik</em>
-* `Abs` (341; 26% of non-empty `Case`): <em>arte, aurka, gisa, gain, esker, alde, kanpo, inguru, esku, barru</em>
-* `All` (98; 7% of non-empty `Case`): <em>aurrera, batera, aldera, gainera, ingurura, kanpora, behera, erdira, antzera, alderat</em>
-* `Gen` (3; 0% of non-empty `Case`): <em>arabera, bezalakoen, gorakoen</em>
-* `Ine` (430; 33% of non-empty `Case`): <em>artean, aurrean, inguruan, barruan, gainean, atzean, erdian, bitartean, aldean, ondoan</em>
-* `Ins` (44; 3% of non-empty `Case`): <em>bidez, bitartez, aldeaz, partez</em>
-* `Loc` (308; 23% of non-empty `Case`): <em>arteko, aurkako, aldeko, kontrako, buruzko, inguruko, gabeko, aurreko, kanpoko, gaineko</em>
-* `EMPTY` (558): <em>arabera, gabe, kontra, bezala, buruz, zehar, ondoren, begira, gora, bila</em>
+* `Abl` (76; 7% of non-empty `Case`): <em>aurretik, aldetik, gainetik, atzetik, ondotik, eskutik, azpitik, aitzinetik, barrutik, barruetatik</em>
+* `Abs` (282; 27% of non-empty `Case`): <em>arte, aurka, gisa, gain, esker, kanpo, alde, inguru, esku, barru</em>
+* `All` (79; 8% of non-empty `Case`): <em>batera, aldera, aurrera, gainera, ingurura, erdira, behera, antzera, kanpora, alderat</em>
+* `Gen` (1; 0% of non-empty `Case`): <em>bezalakoen</em>
+* `Ine` (319; 31% of non-empty `Case`): <em>artean, aurrean, inguruan, barruan, gainean, erdian, atzean, ostean, bitartean, aldean</em>
+* `Ins` (36; 4% of non-empty `Case`): <em>bidez, bitartez, aldeaz, partez</em>
+* `Loc` (234; 23% of non-empty `Case`): <em>arteko, aurkako, aldeko, buruzko, kontrako, inguruko, gabeko, aurreko, gaineko, kanpoko</em>
+* `EMPTY` (444): <em>arabera, gabe, kontra, bezala, buruz, zehar, gora, ondoren, begira, bila</em>
 
 ### `ADV`
 
-332 [eu-pos/ADV]() tokens (6% of all `ADV` tokens) have a non-empty value of `Case`.
+265 [eu-pos/ADV]() tokens (6% of all `ADV` tokens) have a non-empty value of `Case`.
 
 `ADV` tokens may have the following values of `Case`:
 
-* `Abl` (52; 16% of non-empty `Case`): <em>handik, hortik, hemendik, aspalditik, Aspaldidanik, bihartik, gaurtik, gertutik, lehenagotik, oraindik</em>
-* `Abs` (18; 5% of non-empty `Case`): <em>samarra, gaurko, adinakoa, atzokoa, aurtengoa, betirako, biharko, egungoak, gaurkoa, goranzkoak</em>
+* `Abl` (40; 15% of non-empty `Case`): <em>handik, hemendik, hortik, aspalditik, Aspaldidanik, bihartik, gaurtik, gertutik, lehenagotik, iaztik</em>
+* `Abs` (13; 5% of non-empty `Case`): <em>gaurko, adinakoa, atzokoa, aurtengoa, betirako, biharko, gaurkoa, goranzkoak, kontrakoa, lehenbiziko</em>
 * `All` (1; 0% of non-empty `Case`): <em>aurtengora</em>
-* `Dat` (9; 3% of non-empty `Case`): <em>beti, Berriki, estetikoki, nahi, orai, supituki</em>
+* `Dat` (7; 3% of non-empty `Case`): <em>beti, Berriki, nahi, orai, supituki</em>
 * `Erg` (1; 0% of non-empty `Case`): <em>aurtengoak</em>
-* `Gen` (5; 2% of non-empty `Case`): <em>gainerakoen, atzokoaren, hemen</em>
-* `Ine` (59; 18% of non-empty `Case`): <em>orain, sekulan, han, Aspaldian, ASPALDIAN, aurrerantzean, bertan, bezain, nonbaiten, atzokoan</em>
+* `Gen` (3; 1% of non-empty `Case`): <em>atzokoaren, hemen</em>
+* `Ine` (51; 19% of non-empty `Case`): <em>orain, sekulan, han, ASPALDIAN, Aspaldian, aurrerantzean, bertan, bezain, nonbaiten, samarrean</em>
 * `Lat` (1; 0% of non-empty `Case`): <em>gorantz</em>
-* `Loc` (183; 55% of non-empty `Case`): <em>atzoko, egungo, iazko, hango, gaurko, aurtengo, antzinako, hurrengo, biharko, oraingo</em>
+* `Loc` (145; 55% of non-empty `Case`): <em>atzoko, egungo, iazko, hango, aurtengo, gaurko, hurrengo, antzinako, biharko, oraingo</em>
 * `Par` (3; 1% of non-empty `Case`): <em>seguruenik</em>
-* `EMPTY` (4846): <em>atzo, oso, gaur, orain, ondoren, gero, hala, bertan, beti, ondo</em>
+* `EMPTY` (3815): <em>atzo, oso, gaur, orain, ondoren, gero, hala, bertan, beti, ondo</em>
 
 <table>
-  <tr><th>Paradigm <i>atzo</i></th><th><tt>Abs</tt></th><th><tt>Gen</tt></th><th><tt>Loc</tt></th><th><tt>Ine</tt></th><th><tt>Abl</tt></th></tr>
-  <tr><td><tt>_</tt></td><td></td><td><em>Atzokoaren</em></td><td><em>atzoko, atzo</em></td><td></td><td><em>atzodanik</em></td></tr>
-  <tr><td><tt><a href="Definite.html">Definite</a>=Def|<a href="Number.html">Number</a>=Sing</tt></td><td><em>atzokoa</em></td><td><em>atzokoaren</em></td><td></td><td><em>atzokoan</em></td><td></td></tr>
+  <tr><th>Paradigm <i>aurten</i></th><th><tt>Abs</tt></th><th><tt>Erg</tt></th><th><tt>Loc</tt></th><th><tt>All</tt></th></tr>
+  <tr><td><tt>_</tt></td><td></td><td></td><td><em>aurtengo</em></td><td></td></tr>
+  <tr><td><tt><a href="Definite.html">Definite</a>=Def|<a href="Number.html">Number</a>=Sing</tt></td><td><em>aurtengoa</em></td><td><em>aurtengoak</em></td><td></td><td><em>aurtengora</em></td></tr>
+</table>
+
+### `AUX`
+
+231 [eu-pos/AUX]() tokens (2% of all `AUX` tokens) have a non-empty value of `Case`.
+
+The most frequent other feature values with which `AUX` and `Case` co-occurred: <tt><a href="Aspect.html">Aspect</a>=EMPTY</tt> (215; 93%), <tt><a href="Person[abs].html">Person[abs]</a>=3</tt> (143; 62%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (140; 61%), <tt><a href="Person[erg].html">Person[erg]</a>=EMPTY</tt> (138; 60%), <tt><a href="Number[erg].html">Number[erg]</a>=EMPTY</tt> (138; 60%).
+
+`AUX` tokens may have the following values of `Case`:
+
+* `Abl` (3; 1% of non-empty `Case`): <em>izatetik, dutenenetatik</em>
+* `Abs` (134; 58% of non-empty `Case`): <em>izatea, duena, dena, zuena, dutenak, dutena, izateko, direnak, dituztenak, egotea</em>
+* `All` (4; 2% of non-empty `Case`): <em>izatera</em>
+* `Ben` (2; 1% of non-empty `Case`): <em>denarentzat, zuenarentzat</em>
+* `Cau` (6; 3% of non-empty `Case`): <em>izateagatik, gintuenagatik, zitzaionagatik</em>
+* `Com` (6; 3% of non-empty `Case`): <em>dituztenekin, dudanarekin, duzunarekin, egotearekin, zenarekin, zizkiotenekin</em>
+* `Dat` (8; 3% of non-empty `Case`): <em>denari, izateari, duenari, dugunari, zenari, zituenei</em>
+* `Erg` (17; 7% of non-empty `Case`): <em>direnek, duenak, izateak, daudenek, denak, diotenek, dituztenek, dudanak, dutenek, garenok</em>
+* `Gen` (13; 6% of non-empty `Case`): <em>dutenen, dagoenaren, daiteekenaren, daitekeenaren, daudenen, denaren, direnen, dituztenen, duenaren, dutenaren</em>
+* `Ine` (8; 3% of non-empty `Case`): <em>izaten, egoten, geratzen, direnetan, naizenetan</em>
+* `Ins` (4; 2% of non-empty `Case`): <em>izateaz, dagoenez, izanez</em>
+* `Loc` (20; 9% of non-empty `Case`): <em>izateko, delako, izandako, zuelako, egoteko, duteneko, zuteneko</em>
+* `Par` (6; 3% of non-empty `Case`): <em>izanik, duenik</em>
+* `EMPTY` (9757): <em>da, zuen, zen, du, dira, dute, izan, zuten, ziren, ditu</em>
+
+<table>
+  <tr><th>Paradigm <i>izan</i></th><th><tt>Abs</tt></th><th><tt>Erg</tt></th><th><tt>Dat</tt></th><th><tt>Gen</tt></th><th><tt>Loc</tt></th><th><tt>Ins</tt></th><th><tt>Par</tt></th><th><tt>Com</tt></th><th><tt>Ine</tt></th><th><tt>All</tt></th><th><tt>Abl</tt></th><th><tt>Cau</tt></th><th><tt>Ben</tt></th></tr>
+  <tr><td><tt>_</tt></td><td><em>izatea</em></td><td></td><td></td><td></td><td><em>izateko</em></td><td></td><td></td><td></td><td><em>izaten</em></td><td><em>izatera</em></td><td><em>izatetik</em></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Aspect.html">Aspect</a>=Prog|<a href="Definite.html">Definite</a>=Def|<a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Number[abs].html">Number[abs]</a>=Sing|<a href="Person[abs].html">Person[abs]</a>=3</tt></td><td><em>dena</em></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td><em>denarentzat</em></td></tr>
+  <tr><td><tt><a href="Aspect.html">Aspect</a>=Prog|<a href="Definite.html">Definite</a>=Def|<a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Plur|<a href="Number[abs].html">Number[abs]</a>=Plur|<a href="Person[abs].html">Person[abs]</a>=1</tt></td><td></td><td><em>garenok</em></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Aspect.html">Aspect</a>=Prog|<a href="Definite.html">Definite</a>=Def|<a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Plur|<a href="Number[abs].html">Number[abs]</a>=Plur|<a href="Person[abs].html">Person[abs]</a>=3</tt></td><td><em>direnak</em></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Aspect.html">Aspect</a>=Prog|<a href="Mood.html">Mood</a>=Ind|<a href="Number[abs].html">Number[abs]</a>=Sing|<a href="Person[abs].html">Person[abs]</a>=3</tt></td><td></td><td></td><td></td><td></td><td><em>delako</em></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Definite.html">Definite</a>=Def|<a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Number[abs].html">Number[abs]</a>=Plur|<a href="Person[abs].html">Person[abs]</a>=1</tt></td><td><em>ginenekoa</em></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Definite.html">Definite</a>=Def|<a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Number[abs].html">Number[abs]</a>=Sing|<a href="Number[dat].html">Number[dat]</a>=Sing|<a href="Person[abs].html">Person[abs]</a>=3|<a href="Person[dat].html">Person[dat]</a>=1</tt></td><td></td><td></td><td></td><td><em>zaidanaren</em></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Definite.html">Definite</a>=Def|<a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Number[abs].html">Number[abs]</a>=Sing|<a href="Number[dat].html">Number[dat]</a>=Sing|<a href="Person[abs].html">Person[abs]</a>=3|<a href="Person[dat].html">Person[dat]</a>=3</tt></td><td><em>zaiona</em></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td><em>zitzaionagatik</em></td><td></td></tr>
+  <tr><td><tt><a href="Definite.html">Definite</a>=Def|<a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Number[abs].html">Number[abs]</a>=Sing|<a href="Person[abs].html">Person[abs]</a>=3</tt></td><td><em>dena, zena, zenekoa</em></td><td><em>zenak, denak</em></td><td><em>denari, zenari</em></td><td><em>denaren</em></td><td></td><td></td><td></td><td><em>zenarekin</em></td><td></td><td></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Definite.html">Definite</a>=Def|<a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Plur|<a href="Number[abs].html">Number[abs]</a>=Plur|<a href="Person[abs].html">Person[abs]</a>=3</tt></td><td><em>zirenak, direnak</em></td><td><em>direnek</em></td><td></td><td><em>direnen</em></td><td></td><td></td><td></td><td></td><td><em>direnetan</em></td><td></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Definite.html">Definite</a>=Def|<a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Plur|<a href="Number[abs].html">Number[abs]</a>=Sing|<a href="Person[abs].html">Person[abs]</a>=1</tt></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td><em>naizenetan</em></td><td></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Definite.html">Definite</a>=Def|<a href="Number.html">Number</a>=Sing</tt></td><td></td><td><em>izateak</em></td><td><em>izateari</em></td><td><em>izatearen</em></td><td></td><td><em>izateaz</em></td><td></td><td></td><td></td><td></td><td></td><td><em>izateagatik</em></td><td></td></tr>
+  <tr><td><tt><a href="Definite.html">Definite</a>=Def|<a href="Number.html">Number</a>=Sing|<a href="VerbForm.html">VerbForm</a>=Part</tt></td><td><em>izana, izandakoa</em></td><td><em>izandakoak</em></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Definite.html">Definite</a>=Ind</tt></td><td><em>izateko</em></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Definite.html">Definite</a>=Ind|<a href="VerbForm.html">VerbForm</a>=Part</tt></td><td><em>izan</em></td><td></td><td></td><td></td><td></td><td><em>izanez</em></td><td><em>izanik</em></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number[abs].html">Number[abs]</a>=Sing|<a href="Person[abs].html">Person[abs]</a>=3</tt></td><td></td><td></td><td></td><td></td><td><em>delako</em></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><a href="VerbForm.html">VerbForm</a>=Part</tt></td><td></td><td></td><td></td><td></td><td><em>izandako</em></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
 </table>
 
 ### `PRON`
 
-226 [eu-pos/PRON]() tokens (29% of all `PRON` tokens) have a non-empty value of `Case`.
+177 [eu-pos/PRON]() tokens (29% of all `PRON` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `PRON` and `Case` co-occurred: <tt><a href="PronType.html">PronType</a>=EMPTY</tt> (226; 100%), <tt><a href="Definite.html">Definite</a>=Ind</tt> (180; 80%).
+The most frequent other feature values with which `PRON` and `Case` co-occurred: <tt><a href="PronType.html">PronType</a>=EMPTY</tt> (177; 100%), <tt><a href="Definite.html">Definite</a>=Ind</tt> (141; 80%).
 
 `PRON` tokens may have the following values of `Case`:
 
-* `Abs` (126; 56% of non-empty `Case`): <em>zerbait, ezer, inor, norbait, elkar, zertxobait, edonor, neu, deus, ezertxo</em>
-* `All` (1; 0% of non-empty `Case`): <em>norbaitengana</em>
-* `Ben` (1; 0% of non-empty `Case`): <em>norbaitentzat</em>
+* `Abs` (97; 55% of non-empty `Case`): <em>zerbait, ezer, inor, norbait, elkar, deus, edonor, geu, neu, zenbaitzuk</em>
+* `All` (1; 1% of non-empty `Case`): <em>norbaitengana</em>
+* `Ben` (1; 1% of non-empty `Case`): <em>norbaitentzat</em>
 * `Cau` (2; 1% of non-empty `Case`): <em>zerbaitengatik</em>
-* `Com` (13; 6% of non-empty `Case`): <em>elkarrekin, Norbaitekin, elgarrekin, ezerekin</em>
-* `Dat` (12; 5% of non-empty `Case`): <em>elkarri, elgarri, norbaiti, Geuri, inori</em>
-* `Erg` (37; 16% of non-empty `Case`): <em>inork, norbaitek, norberak, Neuk, Nornahik, Zeuk, ezerk, zerbaitek</em>
-* `Gen` (29; 13% of non-empty `Case`): <em>elkarren, norbere, norberaren, neure, norbaiten, inoren, geure, heure, zeure</em>
-* `Ine` (1; 0% of non-empty `Case`): <em>Geuregan</em>
-* `Ins` (2; 1% of non-empty `Case`): <em>ezertaz, inortaz</em>
-* `Loc` (2; 1% of non-empty `Case`): <em>elkarrekiko, zerbaitetarako</em>
-* `EMPTY` (559): <em>gure, nire, nik, euren, guk, ni, zure, gu, nork, beraiek</em>
+* `Com` (10; 6% of non-empty `Case`): <em>elkarrekin, Norbaitekin, elgarrekin</em>
+* `Dat` (11; 6% of non-empty `Case`): <em>elkarri, norbaiti, elgarri, Geuri, inori</em>
+* `Erg` (30; 17% of non-empty `Case`): <em>inork, norbaitek, norberak, Neuk, Nornahik, Zeuk, ezerk</em>
+* `Gen` (22; 12% of non-empty `Case`): <em>elkarren, norbere, norberaren, norbaiten, geure, inoren, neure, heure, zeure</em>
+* `Ine` (1; 1% of non-empty `Case`): <em>Geuregan</em>
+* `Ins` (1; 1% of non-empty `Case`): <em>inortaz</em>
+* `Loc` (1; 1% of non-empty `Case`): <em>elkarrekiko</em>
+* `EMPTY` (440): <em>gure, nire, nik, guk, euren, ni, zure, gu, nork, beraiek</em>
 
 <table>
   <tr><th>Paradigm <i>norbait</i></th><th><tt>Abs</tt></th><th><tt>Erg</tt></th><th><tt>Dat</tt></th><th><tt>Gen</tt></th><th><tt>Com</tt></th><th><tt>All</tt></th><th><tt>Ben</tt></th></tr>
@@ -261,69 +299,17 @@ The most frequent other feature values with which `PRON` and `Case` co-occurred:
   <tr><td><tt><a href="Definite.html">Definite</a>=Ind</tt></td><td><em>norbait</em></td><td><em>norbaitek</em></td><td><em>norbaiti</em></td><td></td><td></td><td></td><td><em>norbaitentzat</em></td></tr>
 </table>
 
-### `AUX`
-
-160 [eu-pos/AUX]() tokens (2% of all `AUX` tokens) have a non-empty value of `Case`.
-
-The most frequent other feature values with which `AUX` and `Case` co-occurred: <tt><a href="Person[abs].html">Person[abs]</a>=3</tt> (155; 97%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (150; 94%), <tt><a href="Person[dat].html">Person[dat]</a>=EMPTY</tt> (141; 88%), <tt><a href="Number[dat].html">Number[dat]</a>=EMPTY</tt> (141; 88%), <tt><a href="Number[abs].html">Number[abs]</a>=Sing</tt> (123; 77%), <tt><a href="Person[erg].html">Person[erg]</a>=3</tt> (103; 64%).
-
-`AUX` tokens may have the following values of `Case`:
-
-* `Abl` (1; 1% of non-empty `Case`): <em>dutenenetatik</em>
-* `Abs` (105; 66% of non-empty `Case`): <em>duena, dutenak, dena, zuena, dituztenak, dutena, zena, zirenak, direnak, dituena</em>
-* `Ben` (3; 2% of non-empty `Case`): <em>duenarentzat, nauenarentzat, zuenarentzat</em>
-* `Cau` (3; 2% of non-empty `Case`): <em>dutenagatik, gintuenagatik, zitzaionagatik</em>
-* `Com` (5; 3% of non-empty `Case`): <em>dituztenekin, dudanarekin, duzunarekin, zenarekin, zizkiotenekin</em>
-* `Dat` (6; 4% of non-empty `Case`): <em>denari, duenari, dugunari, zenari, zituenei</em>
-* `Erg` (16; 10% of non-empty `Case`): <em>dutenek, duenak, direnek, denak, diotenek, dituztenek, dudanak, zenak, ziotenak, zuenak</em>
-* `Gen` (11; 7% of non-empty `Case`): <em>duenaren, dutenen, daiteekenaren, daitekeenaren, denaren, direnen, dituztenen, dutenaren, zaidanaren</em>
-* `Ine` (2; 1% of non-empty `Case`): <em>direnetan, naizenetan</em>
-* `Loc` (7; 4% of non-empty `Case`): <em>zuelako, delako, duteneko, zuteneko</em>
-* `Par` (1; 1% of non-empty `Case`): <em>duenik</em>
-* `EMPTY` (9913): <em>zuen, da, du, zen, dira, dute, zuten, ziren, ditu, zituen</em>
-
-<table>
-  <tr><th>Paradigm <i>*edun</i></th><th><tt>Abs</tt></th><th><tt>Erg</tt></th><th><tt>Dat</tt></th><th><tt>Gen</tt></th><th><tt>Loc</tt></th><th><tt>Par</tt></th><th><tt>Com</tt></th><th><tt>Abl</tt></th><th><tt>Cau</tt></th><th><tt>Ben</tt></th></tr>
-  <tr><td><tt><a href="Definite.html">Definite</a>=Def|<a href="Mood.html">Mood</a>=Cnd|<a href="Number.html">Number</a>=Sing|<a href="Number[abs].html">Number[abs]</a>=Sing|<a href="Number[erg].html">Number[erg]</a>=Sing|<a href="Person[abs].html">Person[abs]</a>=3|<a href="Person[erg].html">Person[erg]</a>=3</tt></td><td><em>lukeena</em></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><a href="Definite.html">Definite</a>=Def|<a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Number[abs].html">Number[abs]</a>=Plur|<a href="Number[dat].html">Number[dat]</a>=Sing|<a href="Number[erg].html">Number[erg]</a>=Sing|<a href="Person[abs].html">Person[abs]</a>=3|<a href="Person[dat].html">Person[dat]</a>=3|<a href="Person[erg].html">Person[erg]</a>=3</tt></td><td><em>zizkiona</em></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><a href="Definite.html">Definite</a>=Def|<a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Number[abs].html">Number[abs]</a>=Plur|<a href="Number[erg].html">Number[erg]</a>=Sing|<a href="Person[abs].html">Person[abs]</a>=1|<a href="Person[erg].html">Person[erg]</a>=3</tt></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td><em>gintuenagatik</em></td><td></td></tr>
-  <tr><td><tt><a href="Definite.html">Definite</a>=Def|<a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Number[abs].html">Number[abs]</a>=Plur|<a href="Number[erg].html">Number[erg]</a>=Sing|<a href="Person[abs].html">Person[abs]</a>=3|<a href="Person[erg].html">Person[erg]</a>=3</tt></td><td><em>dituena</em></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><a href="Definite.html">Definite</a>=Def|<a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Number[abs].html">Number[abs]</a>=Sing|<a href="Number[dat].html">Number[dat]</a>=Sing|<a href="Number[erg].html">Number[erg]</a>=Plur|<a href="Person[abs].html">Person[abs]</a>=3|<a href="Person[dat].html">Person[dat]</a>=1|<a href="Person[erg].html">Person[erg]</a>=3</tt></td><td><em>zidatena</em></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><a href="Definite.html">Definite</a>=Def|<a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Number[abs].html">Number[abs]</a>=Sing|<a href="Number[dat].html">Number[dat]</a>=Sing|<a href="Number[erg].html">Number[erg]</a>=Plur|<a href="Person[abs].html">Person[abs]</a>=3|<a href="Person[dat].html">Person[dat]</a>=3|<a href="Person[erg].html">Person[erg]</a>=3</tt></td><td><em>diotena</em></td><td><em>ziotenak</em></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><a href="Definite.html">Definite</a>=Def|<a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Number[abs].html">Number[abs]</a>=Sing|<a href="Number[dat].html">Number[dat]</a>=Sing|<a href="Number[erg].html">Number[erg]</a>=Sing|<a href="Person[abs].html">Person[abs]</a>=3|<a href="Person[dat].html">Person[dat]</a>=1|<a href="Person[erg].html">Person[erg]</a>=3</tt></td><td><em>didana</em></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><a href="Definite.html">Definite</a>=Def|<a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Number[abs].html">Number[abs]</a>=Sing|<a href="Number[dat].html">Number[dat]</a>=Sing|<a href="Number[erg].html">Number[erg]</a>=Sing|<a href="Person[abs].html">Person[abs]</a>=3|<a href="Person[dat].html">Person[dat]</a>=3|<a href="Person[erg].html">Person[erg]</a>=3</tt></td><td><em>diona, ziona</em></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><a href="Definite.html">Definite</a>=Def|<a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Number[abs].html">Number[abs]</a>=Sing|<a href="Number[erg].html">Number[erg]</a>=Plur|<a href="Person[abs].html">Person[abs]</a>=3|<a href="Person[erg].html">Person[erg]</a>=1</tt></td><td></td><td></td><td><em>dugunari</em></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><a href="Definite.html">Definite</a>=Def|<a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Number[abs].html">Number[abs]</a>=Sing|<a href="Number[erg].html">Number[erg]</a>=Plur|<a href="Person[abs].html">Person[abs]</a>=3|<a href="Person[erg].html">Person[erg]</a>=3</tt></td><td><em>dutena, zutena, dutenetakoa, dutenena</em></td><td></td><td></td><td><em>dutenaren</em></td><td><em>duteneko, zuteneko</em></td><td></td><td></td><td></td><td><em>dutenagatik</em></td><td></td></tr>
-  <tr><td><tt><a href="Definite.html">Definite</a>=Def|<a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Number[abs].html">Number[abs]</a>=Sing|<a href="Number[erg].html">Number[erg]</a>=Sing|<a href="Person[abs].html">Person[abs]</a>=1|<a href="Person[erg].html">Person[erg]</a>=3</tt></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td><em>nauenarentzat</em></td></tr>
-  <tr><td><tt><a href="Definite.html">Definite</a>=Def|<a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Number[abs].html">Number[abs]</a>=Sing|<a href="Number[erg].html">Number[erg]</a>=Sing|<a href="Person[abs].html">Person[abs]</a>=3|<a href="Person[erg].html">Person[erg]</a>=1</tt></td><td><em>nuena</em></td><td><em>dudanak</em></td><td></td><td></td><td></td><td></td><td><em>dudanarekin</em></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><a href="Definite.html">Definite</a>=Def|<a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Number[abs].html">Number[abs]</a>=Sing|<a href="Number[erg].html">Number[erg]</a>=Sing|<a href="Person[abs].html">Person[abs]</a>=3|<a href="Person[erg].html">Person[erg]</a>=2</tt></td><td></td><td></td><td></td><td></td><td></td><td></td><td><em>duzunarekin</em></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><a href="Definite.html">Definite</a>=Def|<a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Number[abs].html">Number[abs]</a>=Sing|<a href="Number[erg].html">Number[erg]</a>=Sing|<a href="Person[abs].html">Person[abs]</a>=3|<a href="Person[erg].html">Person[erg]</a>=3</tt></td><td><em>duena, zuena</em></td><td><em>duenak, zuenak</em></td><td><em>duenari</em></td><td><em>duenaren</em></td><td></td><td></td><td></td><td></td><td></td><td><em>zuenarentzat</em></td></tr>
-  <tr><td><tt><a href="Definite.html">Definite</a>=Def|<a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Plur|<a href="Number[abs].html">Number[abs]</a>=Plur|<a href="Number[dat].html">Number[dat]</a>=Plur|<a href="Number[erg].html">Number[erg]</a>=Sing|<a href="Person[abs].html">Person[abs]</a>=3|<a href="Person[dat].html">Person[dat]</a>=1|<a href="Person[erg].html">Person[erg]</a>=3</tt></td><td><em>dizkigunak</em></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><a href="Definite.html">Definite</a>=Def|<a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Plur|<a href="Number[abs].html">Number[abs]</a>=Plur|<a href="Number[dat].html">Number[dat]</a>=Sing|<a href="Number[erg].html">Number[erg]</a>=Plur|<a href="Person[abs].html">Person[abs]</a>=3|<a href="Person[dat].html">Person[dat]</a>=3|<a href="Person[erg].html">Person[erg]</a>=3</tt></td><td></td><td></td><td></td><td></td><td></td><td></td><td><em>zizkiotenekin</em></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><a href="Definite.html">Definite</a>=Def|<a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Plur|<a href="Number[abs].html">Number[abs]</a>=Plur|<a href="Number[erg].html">Number[erg]</a>=Plur|<a href="Person[abs].html">Person[abs]</a>=1|<a href="Person[erg].html">Person[erg]</a>=3</tt></td><td><em>gaituztenak</em></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><a href="Definite.html">Definite</a>=Def|<a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Plur|<a href="Number[abs].html">Number[abs]</a>=Plur|<a href="Number[erg].html">Number[erg]</a>=Plur|<a href="Person[abs].html">Person[abs]</a>=3|<a href="Person[erg].html">Person[erg]</a>=3</tt></td><td><em>dituztenak, zituztenak</em></td><td><em>dituztenek</em></td><td></td><td><em>dituztenen</em></td><td></td><td></td><td><em>dituztenekin</em></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><a href="Definite.html">Definite</a>=Def|<a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Plur|<a href="Number[abs].html">Number[abs]</a>=Plur|<a href="Number[erg].html">Number[erg]</a>=Sing|<a href="Person[abs].html">Person[abs]</a>=3|<a href="Person[erg].html">Person[erg]</a>=3</tt></td><td><em>dituenak</em></td><td></td><td><em>zituenei</em></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><a href="Definite.html">Definite</a>=Def|<a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Plur|<a href="Number[abs].html">Number[abs]</a>=Sing|<a href="Number[dat].html">Number[dat]</a>=Plur|<a href="Number[erg].html">Number[erg]</a>=Sing|<a href="Person[abs].html">Person[abs]</a>=3|<a href="Person[dat].html">Person[dat]</a>=3|<a href="Person[erg].html">Person[erg]</a>=3</tt></td><td><em>dienak</em></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><a href="Definite.html">Definite</a>=Def|<a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Plur|<a href="Number[abs].html">Number[abs]</a>=Sing|<a href="Number[dat].html">Number[dat]</a>=Sing|<a href="Number[erg].html">Number[erg]</a>=Plur|<a href="Person[abs].html">Person[abs]</a>=3|<a href="Person[dat].html">Person[dat]</a>=1|<a href="Person[erg].html">Person[erg]</a>=3</tt></td><td><em>zidatenak</em></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><a href="Definite.html">Definite</a>=Def|<a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Plur|<a href="Number[abs].html">Number[abs]</a>=Sing|<a href="Number[dat].html">Number[dat]</a>=Sing|<a href="Number[erg].html">Number[erg]</a>=Plur|<a href="Person[abs].html">Person[abs]</a>=3|<a href="Person[dat].html">Person[dat]</a>=3|<a href="Person[erg].html">Person[erg]</a>=3</tt></td><td><em>diotenak</em></td><td><em>diotenek</em></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><a href="Definite.html">Definite</a>=Def|<a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Plur|<a href="Number[abs].html">Number[abs]</a>=Sing|<a href="Number[erg].html">Number[erg]</a>=Plur|<a href="Person[abs].html">Person[abs]</a>=3|<a href="Person[erg].html">Person[erg]</a>=3</tt></td><td><em>dutenak</em></td><td><em>dutenek</em></td><td></td><td><em>dutenen</em></td><td></td><td></td><td></td><td><em>dutenenetatik</em></td><td></td><td></td></tr>
-  <tr><td><tt><a href="Definite.html">Definite</a>=Ind|<a href="Mood.html">Mood</a>=Ind|<a href="Number[abs].html">Number[abs]</a>=Sing|<a href="Number[erg].html">Number[erg]</a>=Plur|<a href="Person[abs].html">Person[abs]</a>=3|<a href="Person[erg].html">Person[erg]</a>=3</tt></td><td><em>dutenen</em></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><a href="Definite.html">Definite</a>=Ind|<a href="Mood.html">Mood</a>=Ind|<a href="Number[abs].html">Number[abs]</a>=Sing|<a href="Number[erg].html">Number[erg]</a>=Sing|<a href="Person[abs].html">Person[abs]</a>=3|<a href="Person[erg].html">Person[erg]</a>=3</tt></td><td></td><td></td><td></td><td></td><td></td><td><em>duenik</em></td><td></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number[abs].html">Number[abs]</a>=Sing|<a href="Number[erg].html">Number[erg]</a>=Sing|<a href="Person[abs].html">Person[abs]</a>=3|<a href="Person[erg].html">Person[erg]</a>=3</tt></td><td></td><td></td><td></td><td></td><td><em>zuelako</em></td><td></td><td></td><td></td><td></td><td></td></tr>
-</table>
-
 ### `NUM`
 
-20 [eu-pos/NUM]() tokens (0% of all `NUM` tokens) have a non-empty value of `Case`.
+17 [eu-pos/NUM]() tokens (0% of all `NUM` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `NUM` and `Case` co-occurred: <tt><a href="NumType.html">NumType</a>=EMPTY</tt> (20; 100%).
+The most frequent other feature values with which `NUM` and `Case` co-occurred: <tt><a href="NumType.html">NumType</a>=Card</tt> (17; 100%).
 
 `NUM` tokens may have the following values of `Case`:
 
-* `Abs` (18; 90% of non-empty `Case`): <em>bana, 16na, 21na, 31na, bedera</em>
-* `Com` (1; 5% of non-empty `Case`): <em>banarekin</em>
-* `Loc` (1; 5% of non-empty `Case`): <em>36nako</em>
-* `EMPTY` (4593): <em>bat, bi, azken, lehen, hiru, batean, bigarren, baten, batek, lau</em>
+* `Abs` (16; 94% of non-empty `Case`): <em>bana, 16na, 21na, 31na, bedera</em>
+* `Com` (1; 6% of non-empty `Case`): <em>banarekin</em>
+* `EMPTY` (3686): <em>bat, bi, azken, lehen, hiru, batean, bigarren, baten, batek, lau</em>
 
 <table>
   <tr><th>Paradigm <i>bana</i></th><th><tt>Abs</tt></th><th><tt>Com</tt></th></tr>
@@ -332,14 +318,14 @@ The most frequent other feature values with which `NUM` and `Case` co-occurred: 
 
 ### `SYM`
 
-14 [eu-pos/SYM]() tokens (93% of all `SYM` tokens) have a non-empty value of `Case`.
+12 [eu-pos/SYM]() tokens (92% of all `SYM` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `SYM` and `Case` co-occurred: <tt><a href="Definite.html">Definite</a>=Def</tt> (14; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (13; 93%), <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (9; 64%).
+The most frequent other feature values with which `SYM` and `Case` co-occurred: <tt><a href="Definite.html">Definite</a>=Def</tt> (12; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (11; 92%), <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (7; 58%).
 
 `SYM` tokens may have the following values of `Case`:
 
-* `Abs` (10; 71% of non-empty `Case`): <em>kg, kv, m, m., cm, km</em>
-* `Loc` (4; 29% of non-empty `Case`): <em>cm-ko</em>
+* `Abs` (10; 83% of non-empty `Case`): <em>kg, kv, m, m., cm, km</em>
+* `Loc` (2; 17% of non-empty `Case`): <em>cm-ko</em>
 * `EMPTY` (1): <em>Kw</em>
 
 <table>
@@ -350,14 +336,14 @@ The most frequent other feature values with which `SYM` and `Case` co-occurred: 
 ## Relations with Agreement in `Case`
 
 The 10 most frequent relations where parent and child node agree in `Case`:
-<tt>NOUN --[<a href="../dep/conj.html">conj</a>]--> NOUN</tt> (484; 56%),
-<tt>ADJ --[<a href="../dep/nsubj.html">nsubj</a>]--> NOUN</tt> (216; 72%),
-<tt>ADJ --[<a href="../dep/csubj.html">csubj</a>]--> VERB</tt> (86; 96%),
-<tt>NOUN --[<a href="../dep/appos.html">appos</a>]--> NOUN</tt> (77; 55%),
-<tt>NOUN --[<a href="../dep/nsubj.html">nsubj</a>]--> DET</tt> (59; 69%),
-<tt>ADJ --[<a href="../dep/conj.html">conj</a>]--> ADJ</tt> (49; 52%),
-<tt>NOUN --[<a href="../dep/dobj.html">dobj</a>]--> NOUN</tt> (38; 62%),
-<tt>ADJ --[<a href="../dep/nsubj.html">nsubj</a>]--> DET</tt> (37; 100%),
-<tt>NOUN --[<a href="../dep/conj.html">conj</a>]--> PROPN</tt> (31; 53%),
-<tt>PROPN --[<a href="../dep/appos.html">appos</a>]--> NOUN</tt> (30; 52%).
+<tt>NOUN --[<a href="../dep/conj.html">conj</a>]--> NOUN</tt> (389; 56%),
+<tt>ADJ --[<a href="../dep/nsubj.html">nsubj</a>]--> NOUN</tt> (184; 74%),
+<tt>ADJ --[<a href="../dep/csubj.html">csubj</a>]--> VERB</tt> (65; 96%),
+<tt>NOUN --[<a href="../dep/appos.html">appos</a>]--> NOUN</tt> (60; 54%),
+<tt>NOUN --[<a href="../dep/nsubj.html">nsubj</a>]--> DET</tt> (48; 68%),
+<tt>ADJ --[<a href="../dep/nsubj.html">nsubj</a>]--> DET</tt> (29; 100%),
+<tt>NOUN --[<a href="../dep/obj.html">obj</a>]--> NOUN</tt> (27; 56%),
+<tt>NOUN --[<a href="../dep/conj.html">conj</a>]--> PROPN</tt> (27; 52%),
+<tt>ADJ --[<a href="../dep/nsubj.html">nsubj</a>]--> PROPN</tt> (19; 66%),
+<tt>DET --[<a href="../dep/nsubj.html">nsubj</a>]--> NOUN</tt> (16; 76%).
 

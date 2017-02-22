@@ -7,73 +7,53 @@
 This relation is universal.
 There are 1 language-specific subtypes of `acl`: [acl:relcl]().
 
-23 nodes (0%) are attached to their parents as `acl`.
+1 nodes (0%) are attached to their parents as `acl`.
 
-22 instances of `acl` (96%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.39130434782609.
+1 instances of `acl` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.
 
-The following 4 pairs of parts of speech are connected with `acl`: [kk-pos/NOUN]()-[kk-pos/VERB]() (18; 78% instances), [kk-pos/NOUN]()-[kk-pos/ADJ]() (3; 13% instances), [kk-pos/NOUN]()-[kk-pos/NOUN]() (1; 4% instances), [kk-pos/PROPN]()-[kk-pos/ADJ]() (1; 4% instances).
-
-
-~~~ conllu
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 10 9 acl	color:blue
-1	Ел	ел	NOUN	n	_	2	nmod:poss	_	nom
-2	экономикасының	экономика	NOUN	n	_	3	nmod:poss	_	px3sp|gen
-3	негізі	негіз	NOUN	n	_	10	nsubj	_	px3sp|nom
-4	мұнай	мұнай	NOUN	n	_	9	conj	_	nom
-5	және	және	CONJ	cnjcoo	_	9	cc	_	_
-6	мұнай	мұнай	NOUN	n	_	8	conj	_	nom
-7	мен	мен	CONJ	cnjcoo	_	8	cc	_	_
-8	газ	газ	NOUN	n	_	9	dobj	_	nom
-9	өңдеу	өңде	VERB	v	_	10	acl	_	tv|ger|nom
-10	_	өнеркәсіп	NOUN	n	_	0	root	_	pl|px3sp|nom
-11	_	е	AUX	cop	_	10	cop	_	aor|p3|sg
-12	.	.	PUNCT	sent	_	10	punct	_	_
-
-~~~
+The following 1 pairs of parts of speech are connected with `acl`: [kk-pos/NOUN]()-[kk-pos/VERB]() (1; 100% instances).
 
 
 ~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 3 acl	color:blue
-1	Мұның	бұл	PRON	prn	Case=Gen|PronType=Dem	5	nmod:poss	_	бұл|prn|dem|gen
-2	арты	арт	NOUN	n	Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3	3	nsubj	_	арт|n|px3sp|nom
-3	үлкен	үлкен	ADJ	adj	_	4	acl	_	үлкен|adj
-4	дүрбелеңге	дүрбелең	NOUN	n	Case=Dat	5	nmod	_	дүрбелең|n|dat
-5	шаппасын	шаппа	NOUN	n	Case=Acc|Number[psor]=Plur,Sing|Person[psor]=3	7	dobj	_	шаппа|n|px3sp|acc
-6	кім	кім	PRON	prn	Case=Nom|PronType=Itg	7	nsubj	_	кім|prn|itg|nom
-7	біледі	біл	VERB	v	Number=Sing|Person=3|Tense=Aor	0	root	_	біл|v|tv|aor|p3|sg
-8	?	?	PUNCT	sent	_	7	punct	_	?|sent
-
-~~~
-
-
-~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 7 acl	color:blue
-1	Құлдық	құлдық	NOUN	n	_	4	conj	_	nom
-2	пен	мен	CONJ	cnjcoo	_	4	cc	_	_
-3	құл	құл	NOUN	n	_	4	nmod:poss	_	nom
-4	саудасына	сауда	NOUN	n	_	12	nmod	_	px3sp|dat
-5	,	,	PUNCT	cm	_	4	punct	_	_
-6	қандай	қандай	DET	det	_	7	det	_	itg
-7	түрде	түр	NOUN	n	_	4	acl	_	loc
-8	_	бол	VERB	v	_	7	cop	_	iv|gna_cond|p3|sg
-9	_	да	PART	postadv	_	8	advmod	_	_
-10	,	,	PUNCT	cm	_	8	punct	_	_
-11	тыйым	тыйым	NOUN	n	_	12	dobj	_	nom
-12	салынады	сал	VERB	v	_	0	root	_	tv|pass|aor|p3|sg
-13	.	.	PUNCT	sent	_	12	punct	_	_
+# visual-style 29	bgColor:blue
+# visual-style 29	fgColor:white
+# visual-style 30	bgColor:blue
+# visual-style 30	fgColor:white
+# visual-style 30 29 acl	color:blue
+1	Осы	осы	DET	det	PronType=Dem	2	det	_	_
+2	ойлар	ой	NOUN	n	Case=Nom|Number=Plur	7	nsubj	_	_
+3	Шолпанның	Шолпан	PROPN	np	Case=Gen|Gender=Fem	4	nmod:poss	_	_
+4	жанында	жан	NOUN	n	Case=Loc|Number[psor]=Plur,Sing|Person[psor]=3	7	obl	_	_
+5	таспиқтай	таспиқ	NOUN	n	_	6	obl	_	_
+6	тізілген	тіз	VERB	v	Tense=Past|VerbForm=Part|Voice=Pass	7	advcl	_	_
+7	рет	рет	NOUN	n	_	20	advcl	_	_
+8	ті	лы	ADP	post	_	7	case	_	_
+9	болмаса	бол	AUX	v	Mood=Cnd|Number=Sing|Person=3|Polarity=Neg|VerbForm=Conv	7	cop	_	_
+10	да	да	ADV	postadv	_	7	advmod	_	_
+11	,	,	PUNCT	cm	_	7	punct	_	_
+12	оның	ол	PRON	prn	Case=Gen|Number=Sing|Person=3|PronType=Prs	13	nmod:poss	_	_
+13	жаны	жан	NOUN	n	Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3	20	nsubj	_	_
+14	соқыр	соқыр	ADJ	adj	_	15	amod	_	_
+15	сезіммен	сезім	NOUN	n	Case=Ins	20	obl	_	_
+16	осы	осы	DET	det	PronType=Dem	17	det	_	_
+17	ойларға	ой	NOUN	n	Case=Dat|Number=Plur	20	obl	_	_
+18	өзі	өз	PRON	prn	Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3|PronType=Ref	19	nsubj	_	_
+19	барып	бар	VERB	v	Aspect=Perf|VerbForm=Conv	20	advcl	_	_
+20	тірелген	тіре	VERB	v	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	_
+21	еді	е	AUX	cop	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	20	cop	_	SpaceAfter=No
+22	,	,	PUNCT	cm	_	31	punct	_	_
+23	әм	әм	CCONJ	cnjcoo	_	31	cc	_	_
+24	Шолпанның	Шолпан	PROPN	np	Case=Gen|Gender=Fem	29	nsubj	_	_
+25	жүрек	жүрек	NOUN	n	Case=Nom	26	nmod:poss	_	_
+26	жарасын	жара	NOUN	n	Case=Acc|Number[psor]=Plur,Sing|Person[psor]=3	28	obj	_	_
+27	ешкімге	ешкім	PRON	prn	Case=Dat|PronType=Neg	28	obl	_	_
+28	сездірмеске	сездір	VERB	v	Case=Dat|Polarity=Neg|Tense=Fut|VerbForm=Part	29	ccomp	_	_
+29	тырысуының	тырыс	VERB	v	Case=Gen|Number[psor]=Plur,Sing|Person[psor]=3|VerbForm=Ger	30	acl	_	_
+30	себебі	себеп	NOUN	n	Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3	31	nsubj	_	_
+31	осы	осы	PRON	prn	Case=Nom|PronType=Dem	20	conj	_	_
+32	еді	е	AUX	cop	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	31	cop	_	SpaceAfter=No
+33	.	.	PUNCT	sent	_	31	punct	_	_
 
 ~~~
 

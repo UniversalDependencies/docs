@@ -6,63 +6,62 @@
 
 This relation is universal.
 
-3716 nodes (18%) are attached to their parents as `punct`.
+8179 nodes (18%) are attached to their parents as `punct`.
 
-2380 instances of `punct` (64%) are left-to-right (parent precedes child).
-Average distance between parent and child is 6.02852529601722.
+4290 instances of `punct` (52%) are left-to-right (parent precedes child).
+Average distance between parent and child is 5.596283164201.
 
-The following 17 pairs of parts of speech are connected with `punct`: [lv-pos/VERB]()-[lv-pos/PUNCT]() (1839; 49% instances), [lv-pos/NOUN]()-[lv-pos/PUNCT]() (723; 19% instances), [lv-pos/PROPN]()-[lv-pos/PUNCT]() (637; 17% instances), [lv-pos/SYM]()-[lv-pos/PUNCT]() (149; 4% instances), [lv-pos/ADJ]()-[lv-pos/PUNCT]() (104; 3% instances), [lv-pos/X]()-[lv-pos/PUNCT]() (99; 3% instances), [lv-pos/ADV]()-[lv-pos/PUNCT]() (48; 1% instances), [lv-pos/PART]()-[lv-pos/PUNCT]() (27; 1% instances), [lv-pos/PRON]()-[lv-pos/PUNCT]() (25; 1% instances), [lv-pos/NUM]()-[lv-pos/PUNCT]() (23; 1% instances), [lv-pos/PUNCT]()-[lv-pos/PUNCT]() (22; 1% instances), [lv-pos/SCONJ]()-[lv-pos/PUNCT]() (7; 0% instances), [lv-pos/VERB]()-[lv-pos/SYM]() (5; 0% instances), [lv-pos/INTJ]()-[lv-pos/PUNCT]() (3; 0% instances), [lv-pos/PROPN]()-[lv-pos/SYM]() (3; 0% instances), [lv-pos/ADJ]()-[lv-pos/SYM]() (1; 0% instances), [lv-pos/NOUN]()-[lv-pos/SYM]() (1; 0% instances).
-
-
-~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 6 punct	color:blue
-1	Dienas	diena	NOUN	ncfsg4	Case=Gen|Gender=Fem|Number=Sing	2	nmod	_	_
-2	Bizness	bizness	NOUN	ncmsn1	Case=Nom|Gender=Masc|Number=Sing	7	parataxis	_	SpaceAfter=No
-3	:	:	PUNCT	zo	_	2	punct	_	_
-4	Lai	lai	SCONJ	css	_	5	mark	_	_
-5	attīstītos	attīstīties	VERB	vmyc0i300an	Mood=Cnd|Negative=Neg|Reflex=Yes|VerbForm=Fin|Voice=Act	7	advcl	_	SpaceAfter=No
-6	,	,	PUNCT	zc	_	5	punct	_	_
-7	jāsadarbojas	sadarboties	VERB	vmyd0i200an	Mood=Nec|Negative=Neg|Reflex=Yes|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
-8	.	.	PUNCT	zs	_	7	punct	_	_
-
-~~~
+The following 17 pairs of parts of speech are connected with `punct`: [lv-pos/VERB]()-[lv-pos/PUNCT]() (4905; 60% instances), [lv-pos/NOUN]()-[lv-pos/PUNCT]() (1265; 15% instances), [lv-pos/PROPN]()-[lv-pos/PUNCT]() (533; 7% instances), [lv-pos/ADJ]()-[lv-pos/PUNCT]() (386; 5% instances), [lv-pos/ADV]()-[lv-pos/PUNCT]() (275; 3% instances), [lv-pos/PRON]()-[lv-pos/PUNCT]() (187; 2% instances), [lv-pos/PART]()-[lv-pos/PUNCT]() (151; 2% instances), [lv-pos/SYM]()-[lv-pos/PUNCT]() (146; 2% instances), [lv-pos/NUM]()-[lv-pos/PUNCT]() (120; 1% instances), [lv-pos/INTJ]()-[lv-pos/PUNCT]() (76; 1% instances), [lv-pos/PUNCT]()-[lv-pos/PUNCT]() (61; 1% instances), [lv-pos/X]()-[lv-pos/PUNCT]() (61; 1% instances), [lv-pos/VERB]()-[lv-pos/SYM]() (6; 0% instances), [lv-pos/SCONJ]()-[lv-pos/PUNCT]() (3; 0% instances), [lv-pos/CCONJ]()-[lv-pos/PUNCT]() (2; 0% instances), [lv-pos/ADJ]()-[lv-pos/SYM]() (1; 0% instances), [lv-pos/NOUN]()-[lv-pos/SYM]() (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
-# visual-style 2 3 punct	color:blue
-1	Dienas	diena	NOUN	ncfsg4	Case=Gen|Gender=Fem|Number=Sing	2	nmod	_	_
-2	Bizness	bizness	NOUN	ncmsn1	Case=Nom|Gender=Masc|Number=Sing	6	parataxis	_	SpaceAfter=No
-3	:	:	PUNCT	zo	_	2	punct	_	_
-4	PF	PF	PROPN	y	_	5	nmod	_	_
-5	Ķekava	Ķekava	PROPN	npfsn4	Case=Nom|Gender=Fem|Number=Sing	6	nsubj	_	_
-6	saķeras	saķerties	VERB	vmyipi130an	Mood=Ind|Negative=Neg|Person=3|Reflex=Yes|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-7	ar	ar	ADP	spsan	_	8	case	_	_
-8	Nordea	Nordea	PROPN	np_sa0	Case=Acc|Number=Sing	6	dobj	_	_
+# visual-style 2 1 punct	color:blue
+1	-	-	PUNCT	zd	_	2	punct	_	_
+2	Neskaties	neskatīties	VERB	vmyipt32say	Evident=Fh,Nfh|Mood=Ind|Number=Sing|Person=2|Polarity=Neg|Reflex=Yes|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	uzreiz	uzreiz	ADV	r0t	_	2	advmod	_	SpaceAfter=No
+4	.	.	PUNCT	zs	_	2	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 5 punct	color:blue
-1	Rīga	Rīga	PROPN	npfsn4	Case=Nom|Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
-2	,	,	PUNCT	zc	_	4	punct	_	_
-3	5.	5.	ADJ	xo	NumType=Ord	4	amod	_	SpaceAfter=No
-4	jūn.	jūn.	SYM	y	_	1	parataxis	_	SpaceAfter=No
-5	,	,	PUNCT	zc	_	6	punct	_	_
-6	LETA	LETA	PROPN	y	_	1	parataxis	_	SpaceAfter=No
-7	.	.	PUNCT	zs	_	1	punct	_	_
+# visual-style 5 1 punct	color:blue
+1	-	-	PUNCT	zd	_	5	punct	_	_
+2	Klau	klau	INTJ	is	_	5	discourse	_	SpaceAfter=No
+3	,	,	PUNCT	zc	_	2	punct	_	_
+4	tā	tā	DET	pd0fsnn	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	5	det	_	_
+5	sieviete	sieviete	NOUN	ncfsn5	Case=Nom|Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	zs	_	5	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 8 punct	color:blue
+1	Bārmenis	bārmenis	NOUN	ncmsn2	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	_
+2	uzsauca	uzsaukt	VERB	vmnist130an	Evident=Fh,Nfh|Mood=Ind|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+3	pāri	pāri	ADP	spsd	_	4	case	_	_
+4	zālei	zāle	NOUN	ncfsd5	Case=Dat|Gender=Fem|Number=Sing	2	obl	_	SpaceAfter=No
+5	:	:	PUNCT	zo	_	2	punct	_	_
+6	-	-	PUNCT	zd	_	11	punct	_	_
+7	Sanī	Sanī	PROPN	npfsv0	Case=Voc|Gender=Fem|Number=Sing	11	vocative	_	SpaceAfter=No
+8	,	,	PUNCT	zc	_	7	punct	_	_
+9	tu	tu	PRON	pp20snn	Case=Nom|Number=Sing|Person=2|PronType=Prs	11	nsubj	_	_
+10	ko	kas	PRON	pi000an	Case=Acc|PronType=Ind	11	obj	_	_
+11	dzersi	dzert	VERB	vmnift12san	Evident=Fh,Nfh|Mood=Ind|Number=Sing|Person=2|Polarity=Pos|Tense=Fut|VerbForm=Fin|Voice=Act	2	parataxis	_	SpaceAfter=No
+12	?	?	PUNCT	zs	_	11	punct	_	_
 
 ~~~
 

@@ -6,42 +6,47 @@
 
 This relation is universal.
 
-4278 nodes (7%) are attached to their parents as `amod`.
+3510 nodes (7%) are attached to their parents as `amod`.
 
-3952 instances of `amod` (92%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.30317905563347.
+3358 instances of `amod` (96%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.27293447293447.
 
-The following 14 pairs of parts of speech are connected with `amod`: [el-pos/NOUN]()-[el-pos/ADJ]() (3863; 90% instances), [el-pos/NOUN]()-[el-pos/NOUN]() (233; 5% instances), [el-pos/NOUN]()-[el-pos/ADV]() (96; 2% instances), [el-pos/ADJ]()-[el-pos/ADJ]() (44; 1% instances), [el-pos/PRON]()-[el-pos/ADJ]() (20; 0% instances), [el-pos/NUM]()-[el-pos/ADJ]() (6; 0% instances), [el-pos/ADJ]()-[el-pos/ADV]() (4; 0% instances), [el-pos/NUM]()-[el-pos/NOUN]() (3; 0% instances), [el-pos/ADV]()-[el-pos/ADJ]() (2; 0% instances), [el-pos/ADV]()-[el-pos/ADV]() (2; 0% instances), [el-pos/PRON]()-[el-pos/ADV]() (2; 0% instances), [el-pos/ADJ]()-[el-pos/PART]() (1; 0% instances), [el-pos/ADP]()-[el-pos/ADJ]() (1; 0% instances), [el-pos/NUM]()-[el-pos/DET]() (1; 0% instances).
+The following 19 pairs of parts of speech are connected with `amod`: [el-pos/NOUN]()-[el-pos/ADJ]() (3174; 90% instances), [el-pos/PROPN]()-[el-pos/ADJ]() (145; 4% instances), [el-pos/NOUN]()-[el-pos/ADV]() (86; 2% instances), [el-pos/ADJ]()-[el-pos/ADJ]() (43; 1% instances), [el-pos/X]()-[el-pos/ADJ]() (21; 1% instances), [el-pos/PRON]()-[el-pos/ADJ]() (15; 0% instances), [el-pos/NOUN]()-[el-pos/DET]() (5; 0% instances), [el-pos/ADJ]()-[el-pos/ADV]() (4; 0% instances), [el-pos/NUM]()-[el-pos/ADJ]() (4; 0% instances), [el-pos/ADV]()-[el-pos/ADV]() (2; 0% instances), [el-pos/PRON]()-[el-pos/ADV]() (2; 0% instances), [el-pos/PROPN]()-[el-pos/ADV]() (2; 0% instances), [el-pos/ADJ]()-[el-pos/PART]() (1; 0% instances), [el-pos/ADJ]()-[el-pos/PRON]() (1; 0% instances), [el-pos/ADV]()-[el-pos/ADJ]() (1; 0% instances), [el-pos/NOUN]()-[el-pos/PART]() (1; 0% instances), [el-pos/NUM]()-[el-pos/DET]() (1; 0% instances), [el-pos/SYM]()-[el-pos/ADJ]() (1; 0% instances), [el-pos/X]()-[el-pos/ADV]() (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 1 amod	color:blue
-1	Ενδεικτικές	ενδεικτικός	ADJ	ADJ	Case=Nom|Gender=Fem|Number=Plur	3	amod	_	_
-2	χιλιομετρικές	χιλιομετρικός	ADJ	ADJ	Case=Nom|Gender=Fem|Number=Plur	3	amod	_	_
-3	αποστάσεις	απόσταση	NOUN	NOUN	Case=Nom|Gender=Fem|Number=Plur	0	root	_	_
-4	:	:	PUNCT	PUNCT	_	3	punct	_	_
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 4 amod	color:blue
+1	Αυτός	αυτός	PRON	PRON	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Dem	0	root	_	_
+2	είναι	είμαι	AUX	AUX	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	1	cop	_	_
+3	ο	ο	DET	DET	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+4	αποκλειστικός	αποκλειστικός	ADJ	ADJ	Case=Nom|Gender=Masc|Number=Sing	5	amod	_	_
+5	στόχος	στόχος	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	_
+6	της	ο	DET	DET	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	πρότασης	πρόταση	NOUN	NOUN	Case=Gen|Gender=Fem|Number=Sing	5	nmod	_	_
+8	αυτής	αυτός	PRON	PRON	Case=Gen|Gender=Fem|Number=Sing|Person=3|PronType=Dem	7	det	_	SpaceAfter=No
+9	.	.	PUNCT	PUNCT	_	1	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 8 amod	color:blue
-1	Η	ο	DET	DET	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
-2	Ρωσία	Ρωσία	NOUN	NOUN	Case=Nom|Gender=Fem|Number=Sing	3	nsubj	_	_
-3	επιτρέπει	επιτρέπω	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	0	root	_	_
-4	χρήση	χρήση	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	3	dobj	_	_
-5	αεροδρομίου	αεροδρόμιο	NOUN	NOUN	Case=Gen|Gender=Neut|Number=Sing	4	nmod	_	_
-6	της	μου	PRON	PRON	Case=Gen|Gender=Fem|Number=Sing|Person=3|PronType=Prs	5	nmod	_	_
-7	από	από	ADP	ADP	_	8	case	_	_
-8	ΝΑΤΟ	ΝΑΤΟ	NOUN	NOUN	_	4	amod	_	_
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 6 amod	color:blue
+1	Πλοίο	πλοίο	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Sing	2	nsubj	_	_
+2	προσέκρουσε	προσκρούω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+3	σε	σε	ADP	ADP	_	4	case	_	_
+4	προβλήτα	προβλήτα	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	2	obl	_	_
+5	στη	στου	ADP	ADP	Case=Acc|Gender=Fem|Number=Sing	7	case	_	_
+6	Νέα	νέος	ADJ	ADJ	Case=Acc|Gender=Fem|Number=Sing	7	amod	_	_
+7	Υόρκη	Υόρκη	PROPN	PROPN	Case=Acc|Gender=Fem|Number=Sing	2	obl	_	SpaceAfter=No
+8	.	.	PUNCT	PUNCT	_	2	punct	_	_
 
 ~~~
 
@@ -56,12 +61,12 @@ The following 14 pairs of parts of speech are connected with `amod`: [el-pos/NOU
 2	τελευταία	τελευταίος	ADJ	ADJ	Case=Nom|Gender=Fem|Number=Sing	3	amod	_	_
 3	λέξη	λέξη	NOUN	NOUN	Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
 4	σχετικά	σχετικά	ADV	ADV	_	3	amod	_	_
-5	με	με	ADP	ADP	_	8	case	_	_
+5	με	με	ADP	ADP	_	7	case	_	_
 6	τη	ο	DET	DET	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
 7	διακυβέρνηση	διακυβέρνηση	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	4	nmod	_	_
-8	και	και	CONJ	CONJ	_	7	cc	_	_
+8	και	και	CCONJ	CCONJ	_	10	cc	_	_
 9	τη	ο	DET	DET	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
-10	συναπόφαση	συναπόφαση	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	7	conj	_	_
+10	συναπόφαση	συναπόφαση	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	7	conj	_	SpaceAfter=No
 11	.	.	PUNCT	PUNCT	_	3	punct	_	_
 
 ~~~

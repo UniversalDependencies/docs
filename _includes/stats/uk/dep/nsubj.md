@@ -5,13 +5,50 @@
 ## Treebank Statistics (UD_Ukrainian)
 
 This relation is universal.
+There are 1 language-specific subtypes of `nsubj`: [nsubj:pass]().
 
-157 nodes (9%) are attached to their parents as `nsubj`.
+940 nodes (7%) are attached to their parents as `nsubj`.
 
-136 instances of `nsubj` (87%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.75796178343949.
+758 instances of `nsubj` (81%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.21702127659574.
 
-The following 17 pairs of parts of speech are connected with `nsubj`: [uk-pos/VERB]()-[uk-pos/PRON]() (68; 43% instances), [uk-pos/VERB]()-[uk-pos/NOUN]() (37; 24% instances), [uk-pos/VERB]()-[uk-pos/PROPN]() (16; 10% instances), [uk-pos/ADJ]()-[uk-pos/NOUN]() (8; 5% instances), [uk-pos/NOUN]()-[uk-pos/PRON]() (8; 5% instances), [uk-pos/PRON]()-[uk-pos/PRON]() (4; 3% instances), [uk-pos/VERB]()-[uk-pos/DET]() (4; 3% instances), [uk-pos/ADJ]()-[uk-pos/PRON]() (2; 1% instances), [uk-pos/ADV]()-[uk-pos/PRON]() (2; 1% instances), [uk-pos/ADJ]()-[uk-pos/DET]() (1; 1% instances), [uk-pos/ADJ]()-[uk-pos/PROPN]() (1; 1% instances), [uk-pos/ADV]()-[uk-pos/ADJ]() (1; 1% instances), [uk-pos/ADV]()-[uk-pos/NOUN]() (1; 1% instances), [uk-pos/NOUN]()-[uk-pos/PROPN]() (1; 1% instances), [uk-pos/NUM]()-[uk-pos/NOUN]() (1; 1% instances), [uk-pos/PART]()-[uk-pos/NOUN]() (1; 1% instances), [uk-pos/PRON]()-[uk-pos/NOUN]() (1; 1% instances).
+The following 21 pairs of parts of speech are connected with `nsubj`: [uk-pos/VERB]()-[uk-pos/NOUN]() (371; 39% instances), [uk-pos/VERB]()-[uk-pos/PRON]() (327; 35% instances), [uk-pos/VERB]()-[uk-pos/PROPN]() (72; 8% instances), [uk-pos/VERB]()-[uk-pos/DET]() (38; 4% instances), [uk-pos/ADJ]()-[uk-pos/NOUN]() (29; 3% instances), [uk-pos/NOUN]()-[uk-pos/PRON]() (29; 3% instances), [uk-pos/NOUN]()-[uk-pos/NOUN]() (25; 3% instances), [uk-pos/ADJ]()-[uk-pos/PRON]() (13; 1% instances), [uk-pos/ADV]()-[uk-pos/PRON]() (8; 1% instances), [uk-pos/NOUN]()-[uk-pos/PROPN]() (7; 1% instances), [uk-pos/PRON]()-[uk-pos/PRON]() (7; 1% instances), [uk-pos/ADJ]()-[uk-pos/DET]() (2; 0% instances), [uk-pos/ADJ]()-[uk-pos/PROPN]() (2; 0% instances), [uk-pos/ADV]()-[uk-pos/NOUN]() (2; 0% instances), [uk-pos/PRON]()-[uk-pos/NOUN]() (2; 0% instances), [uk-pos/ADV]()-[uk-pos/DET]() (1; 0% instances), [uk-pos/NOUN]()-[uk-pos/ADJ]() (1; 0% instances), [uk-pos/NOUN]()-[uk-pos/DET]() (1; 0% instances), [uk-pos/PROPN]()-[uk-pos/NOUN]() (1; 0% instances), [uk-pos/PROPN]()-[uk-pos/PRON]() (1; 0% instances), [uk-pos/VERB]()-[uk-pos/ADJ]() (1; 0% instances).
+
+
+~~~ conllu
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 3 nsubj	color:blue
+1	Словом	слово	NOUN	Ncnsin	Animacy=Inan|Case=Ins|Gender=Neut	0	root	_	SpaceAfter=No
+2	,	,	PUNCT	U	_	4	punct	_	_
+3	дупа	дупа	NOUN	Ncfsnn	Animacy=Inan|Case=Nom|Gender=Fem	4	nsubj	_	_
+4	свербить	свербіти	VERB	Vmpip3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	parataxis	_	SpaceAfter=No
+5	.	.	PUNCT	U	_	1	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 1 nsubj	color:blue
+1	Він	він	PRON	Pp-3m-snn	Case=Nom|Gender=Masc|Person=3|PronType=Prs	2	nsubj	_	_
+2	акомпанує	акомпанувати	VERB	Vmpip3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	вечір	вечір	NOUN	Ncmsan	Animacy=Inan|Case=Acc|Gender=Masc	2	obl	_	_
+4	і	і	CCONJ	Ccs	_	6	cc	_	_
+5	цілу	цілий	ADJ	Ao-fsas	Case=Acc|Gender=Fem	6	amod	_	_
+6	ніч	ніч	NOUN	Ncfsan	Animacy=Inan|Case=Acc|Gender=Fem	3	conj	_	_
+7	і	і	CCONJ	Ccs	_	10	cc	_	_
+8	зовсім	зовсім	ADV	R	_	10	advmod	_	_
+9	не	не	PART	Q	Polarity=Neg	10	advmod	_	_
+10	механічно	механічно	ADV	R	_	2	advmod	_	SpaceAfter=No
+11	.	.	PUNCT	U	_	2	punct	_	_
+
+~~~
 
 
 ~~~ conllu
@@ -20,52 +57,13 @@ The following 17 pairs of parts of speech are connected with `nsubj`: [uk-pos/VE
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 2 nsubj	color:blue
-1	Чи	чи	CONJ	conj:coord	_	3	mark	_	_
-2	я	я	PRON	noun:anim:s:v_naz:&pron:pers:1	Animacy=Anim|Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
-3	сплю	спати	VERB	verb:imperf:pres:s:1	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
-4	чи	чи	CONJ	conj:coord	_	6	mark	_	_
-5	то	то	PRON	noun:inanim:n:v_naz:&pron:dem	Animacy=Inan|Case=Nom|Gender=Neut|PronType=Dem	6	discourse	_	_
-6	сниться	снитися	VERB	verb:rev:imperf:pres:s:3	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	parataxis	_	_
-7	мені	я	PRON	noun:anim:s:v_dav:&pron:pers:1	Animacy=Anim|Case=Dat|Number=Sing|Person=1|PronType=Prs	6	iobj	_	SpaceAfter=No
-8	?	?	PUNCT	punct	_	3	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 1 nsubj	color:blue
-1	Хлопець	хлопець	NOUN	noun:anim:m:v_naz	Animacy=Anim|Case=Nom|Gender=Masc	6	nsubj	_	SpaceAfter=No
-2	,	,	PUNCT	punct	_	3	punct	_	_
-3	сказав	сказати	VERB	verb:perf:past:m	Aspect=Perf|Gender=Masc|Mood=Ind|Tense=Past|VerbForm=Fin	6	parataxis	_	_
-4	Микола	Микола	PROPN	noun:anim:m:v_naz:prop:fname	Animacy=Anim|Case=Nom|Gender=Masc	3	nsubj	_	SpaceAfter=No
-5	,	,	PUNCT	punct	_	3	punct	_	_
-6	пішов	піти	VERB	verb:perf:past:m	Aspect=Perf|Gender=Masc|Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
-7	собі	себе	PRON	noun:v_dav:&pron:refl	Case=Dat|PronType=Prs|Reflex=Yes	6	expl	_	_
-8	раніше	раніше	ADV	adv:compr	Degree=Cmp	6	advmod	_	SpaceAfter=No
-9	.	.	PUNCT	punct	_	6	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 4 nsubj	color:blue
-1	Хлопець	хлопець	NOUN	noun:anim:m:v_naz	Animacy=Anim|Case=Nom|Gender=Masc	6	nsubj	_	SpaceAfter=No
-2	,	,	PUNCT	punct	_	3	punct	_	_
-3	сказав	сказати	VERB	verb:perf:past:m	Aspect=Perf|Gender=Masc|Mood=Ind|Tense=Past|VerbForm=Fin	6	parataxis	_	_
-4	Микола	Микола	PROPN	noun:anim:m:v_naz:prop:fname	Animacy=Anim|Case=Nom|Gender=Masc	3	nsubj	_	SpaceAfter=No
-5	,	,	PUNCT	punct	_	3	punct	_	_
-6	пішов	піти	VERB	verb:perf:past:m	Aspect=Perf|Gender=Masc|Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
-7	собі	себе	PRON	noun:v_dav:&pron:refl	Case=Dat|PronType=Prs|Reflex=Yes	6	expl	_	_
-8	раніше	раніше	ADV	adv:compr	Degree=Cmp	6	advmod	_	SpaceAfter=No
-9	.	.	PUNCT	punct	_	6	punct	_	_
+1	Саме	саме	PART	Q	_	2	discourse	_	_
+2	Тарас	Тарас	PROPN	Npmsny	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv	3	nsubj	_	_
+3	запропонував	запропонувати	VERB	Vmeis-sm	Aspect=Perf|Gender=Masc|Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+4	мені	я	PRON	Pp-1-ysdn	Animacy=Anim|Case=Dat|Number=Sing|Person=1|PronType=Prs	3	iobj	_	_
+5	бути	бути	AUX	Vapn	Aspect=Imp|VerbForm=Inf	6	cop	_	_
+6	журналістом	журналіст	NOUN	Ncmsiy	Animacy=Anim|Case=Ins|Gender=Masc	3	ccomp	_	SpaceAfter=No
+7	.	.	PUNCT	U	_	3	punct	_	_
 
 ~~~
 

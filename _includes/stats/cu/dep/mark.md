@@ -6,48 +6,52 @@
 
 This relation is universal.
 
-2542 nodes (4%) are attached to their parents as `mark`.
+1119 nodes (2%) are attached to their parents as `mark`.
 
-1356 instances of `mark` (53%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.8375295043273.
+1119 instances of `mark` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.58087578194817.
 
-The following 7 pairs of parts of speech are connected with `mark`: [cu-pos/VERB]()-[cu-pos/SCONJ]() (1319; 52% instances), [cu-pos/VERB]()-[cu-pos/PRON]() (1217; 48% instances), [cu-pos/PRON]()-[cu-pos/SCONJ]() (2; 0% instances), [cu-pos/ADJ]()-[cu-pos/PRON]() (1; 0% instances), [cu-pos/ADJ]()-[cu-pos/SCONJ]() (1; 0% instances), [cu-pos/NOUN]()-[cu-pos/SCONJ]() (1; 0% instances), [cu-pos/NUM]()-[cu-pos/SCONJ]() (1; 0% instances).
+The following 6 pairs of parts of speech are connected with `mark`: [cu-pos/VERB]()-[cu-pos/SCONJ]() (1105; 99% instances), [cu-pos/ADV]()-[cu-pos/SCONJ]() (8; 1% instances), [cu-pos/NOUN]()-[cu-pos/SCONJ]() (2; 0% instances), [cu-pos/PRON]()-[cu-pos/SCONJ]() (2; 0% instances), [cu-pos/ADJ]()-[cu-pos/SCONJ]() (1; 0% instances), [cu-pos/NUM]()-[cu-pos/SCONJ]() (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 2 mark	color:blue
-1	и	и	CONJ	C-	_	10	cc	_	_
-2	аще	аще	SCONJ	G-	_	4	mark	_	_
-3	къто	къто	PRON	Px	Case=Nom|Number=Sing	4	nsubj	_	_
-4	поиметъ	поѩти	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	advcl	_	_
-5	тѧ	тꙑ	PRON	Pp	Case=Acc|Number=Sing|Person=2|PronType=Prs	4	dobj	_	_
-6	по	по	ADP	R-	_	7	case	_	_
-7	силѣ	сила	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	4	nmod	_	_
-8	попьрище	попьрище	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	4	remnant	_	_
-9	едино	ѥдинъ	NUM	Ma	Case=Acc|Gender=Neut|Number=Sing	8	nummod	_	_
-10	ꙇди	ити	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-11	съ	съ	ADP	R-	_	12	case	_	_
-12	нимь	и	PRON	Pp	Case=Ins|Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	iobj	_	_
-13	дьвѣ	дъва	NUM	Ma	Case=Acc|Gender=Neut|Number=Dual	10	nmod	_	_
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 5 mark	color:blue
+1	не	не	ADV	Df	Polarity=Neg	2	advmod	_	ref=MATT_5.26
+2	изидеши	изити	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=MATT_5.26
+3	отъ	отътѫдѣ	ADV	Df	_	2	advmod	_	ref=MATT_5.26
+4	тѫдѣ	тѫдѣ	ADV	Df	_	3	flat	_	ref=MATT_5.26
+5	доньдеже	доньде	SCONJ	G-	_	6	mark	_	ref=MATT_5.26
+6	въздаси	въздати	VERB	V-	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	2	advcl	_	ref=MATT_5.26
+7	послѣдьнии	послѣдьнии	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	8	amod	_	ref=MATT_5.26
+8	кодрантъ	кодрантъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	6	obj:dir	_	ref=MATT_5.26
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 3 mark	color:blue
-1	не	не	ADV	Df	_	2	neg	_	_
-2	подобите	подобити	VERB	V-	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-3	сѧ	себе	PRON	Pk	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	2	mark	_	_
-4	оубо	оубо	ADV	Df	_	2	discourse	_	_
-5	имъ	и	PRON	Pp	Case=Dat|Gender=Masc|Number=Plur|Person=3|PronType=Prs	2	iobj	_	_
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 1 mark	color:blue
+1	аште	аще	SCONJ	G-	_	4	mark	_	ref=MATT_6.1
+2	ли	ли	ADV	Df	_	7	discourse	_	ref=MATT_6.1
+3	же	же	ADV	Df	_	7	discourse	_	ref=MATT_6.1
+4	ни	ни	ADV	Df	Polarity=Neg	7	advmod	_	ref=MATT_6.1
+5	мъздꙑ	мьзда	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	7	obj:dir	_	ref=MATT_6.1
+6	не	не	ADV	Df	Polarity=Neg	7	advmod	_	ref=MATT_6.1
+7	имате	имѣти	VERB	V-	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=MATT_6.1
+8	отъ	отъ	ADP	R-	_	9	case	_	ref=MATT_6.1
+9	о҃тца	отьць	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	7	obl	_	ref=MATT_6.1
+10	вашего	вашь	ADJ	Ps	Case=Gen|Gender=Masc,Neut|Number=Sing|Person=2|Poss=Yes	9	nmod	_	ref=MATT_6.1
+11	иже	иже	PRON	Pr	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	12	nsubj	_	ref=MATT_6.1
+12	естъ	бꙑти	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	acl	_	ref=MATT_6.1
+13	на	на	ADP	R-	_	14	case	_	ref=MATT_6.1
+14	н҃бсхъ	небо	NOUN	Nb	Case=Loc|Gender=Neut|Number=Plur	12	xcomp	_	ref=MATT_6.1
 
 ~~~
 
@@ -55,20 +59,21 @@ The following 7 pairs of parts of speech are connected with `mark`: [cu-pos/VERB
 ~~~ conllu
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
-# visual-style 11	bgColor:blue
-# visual-style 11	fgColor:white
-# visual-style 11 4 mark	color:blue
-1	вѣрѫ	вѣра	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	2	dobj	_	_
-2	имѣте	ѩти	VERB	V-	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-3	мьнѣ	азъ	PRON	Pp	Case=Dat|Number=Sing|Person=1|PronType=Prs	2	iobj	_	_
-4	ѣко	ꙗко	SCONJ	G-	_	11	mark	_	_
-5	азъ	азъ	PRON	Pp	Case=Nom|Number=Sing|Person=1|PronType=Prs	7	nsubj	_	_
-6	въ	въ	ADP	R-	_	7	case	_	_
-7	отьци	отьць	NOUN	Nb	Case=Loc|Gender=Masc|Number=Sing	11	conj	_	_
-8	и	и	CONJ	C-	_	11	cc	_	_
-9	отъцъ	отьць	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	11	nsubj	_	_
-10	въ	въ	ADP	R-	_	11	case	_	_
-11	мьнѣ	азъ	PRON	Pp	Case=Loc|Number=Sing|Person=1|PronType=Prs	2	ccomp	_	_
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 4 mark	color:blue
+1	не	не	ADV	Df	Polarity=Neg	2	advmod	_	ref=JOHN_14.10
+2	вѣроуеши	вѣровати	VERB	V-	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=JOHN_14.10
+3	ли	ли	ADV	Du	PronType=Int	2	advmod	_	ref=JOHN_14.10
+4	ѣко	ꙗко	SCONJ	G-	_	5	mark	_	ref=JOHN_14.10
+5	азъ	азъ	PRON	Pp	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	ccomp	_	ref=JOHN_14.10
+6	въ	въ	ADP	R-	_	7	case	_	ref=JOHN_14.10
+7	о҃тци	отьць	NOUN	Nb	Case=Loc|Gender=Masc|Number=Sing	5	orphan	_	ref=JOHN_14.10
+8	и	и	CCONJ	C-	_	5	orphan	_	ref=JOHN_14.10
+9	отецъ	отьць	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	12	nsubj	_	ref=JOHN_14.10
+10	вь	въ	ADP	R-	_	11	case	_	ref=JOHN_14.10
+11	мнѣ	азъ	PRON	Pp	Case=Loc|Number=Sing|Person=1|PronType=Prs	12	xcomp	_	ref=JOHN_14.10
+12	естъ	бꙑти	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	orphan	_	ref=JOHN_14.10
 
 ~~~
 

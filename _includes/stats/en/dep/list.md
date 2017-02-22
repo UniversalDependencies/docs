@@ -6,23 +6,23 @@
 
 This relation is universal.
 
-793 nodes (0%) are attached to their parents as `list`.
+536 nodes (0%) are attached to their parents as `list`.
 
-789 instances of `list` (99%) are left-to-right (parent precedes child).
-Average distance between parent and child is 7.10088272383354.
+534 instances of `list` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 8.18283582089552.
 
-The following 28 pairs of parts of speech are connected with `list`: [en-pos/PROPN]()-[en-pos/NOUN]() (215; 27% instances), [en-pos/PROPN]()-[en-pos/PROPN]() (177; 22% instances), [en-pos/NOUN]()-[en-pos/NOUN]() (106; 13% instances), [en-pos/PROPN]()-[en-pos/NUM]() (99; 12% instances), [en-pos/PROPN]()-[en-pos/X]() (72; 9% instances), [en-pos/NOUN]()-[en-pos/PROPN]() (15; 2% instances), [en-pos/ADJ]()-[en-pos/ADJ]() (14; 2% instances), [en-pos/NOUN]()-[en-pos/SYM]() (14; 2% instances), [en-pos/NOUN]()-[en-pos/NUM]() (13; 2% instances), [en-pos/ADJ]()-[en-pos/NOUN]() (10; 1% instances), [en-pos/VERB]()-[en-pos/VERB]() (9; 1% instances), [en-pos/ADJ]()-[en-pos/VERB]() (6; 1% instances), [en-pos/NOUN]()-[en-pos/ADJ]() (5; 1% instances), [en-pos/NOUN]()-[en-pos/X]() (5; 1% instances), [en-pos/PROPN]()-[en-pos/ADJ]() (5; 1% instances), [en-pos/PROPN]()-[en-pos/SYM]() (5; 1% instances), [en-pos/X]()-[en-pos/X]() (4; 1% instances), [en-pos/VERB]()-[en-pos/ADJ]() (3; 0% instances), [en-pos/X]()-[en-pos/PROPN]() (3; 0% instances), [en-pos/NOUN]()-[en-pos/VERB]() (2; 0% instances), [en-pos/VERB]()-[en-pos/PROPN]() (2; 0% instances), [en-pos/VERB]()-[en-pos/X]() (2; 0% instances), [en-pos/X]()-[en-pos/NUM]() (2; 0% instances), [en-pos/ADJ]()-[en-pos/PUNCT]() (1; 0% instances), [en-pos/ADJ]()-[en-pos/X]() (1; 0% instances), [en-pos/ADV]()-[en-pos/X]() (1; 0% instances), [en-pos/NUM]()-[en-pos/NUM]() (1; 0% instances), [en-pos/VERB]()-[en-pos/PRON]() (1; 0% instances).
+The following 23 pairs of parts of speech are connected with `list`: [en-pos/PROPN]()-[en-pos/NOUN]() (162; 30% instances), [en-pos/PROPN]()-[en-pos/PROPN]() (117; 22% instances), [en-pos/NOUN]()-[en-pos/NOUN]() (70; 13% instances), [en-pos/PROPN]()-[en-pos/X]() (58; 11% instances), [en-pos/PROPN]()-[en-pos/NUM]() (51; 10% instances), [en-pos/NOUN]()-[en-pos/PROPN]() (12; 2% instances), [en-pos/ADJ]()-[en-pos/ADJ]() (10; 2% instances), [en-pos/ADJ]()-[en-pos/NOUN]() (9; 2% instances), [en-pos/VERB]()-[en-pos/VERB]() (8; 1% instances), [en-pos/ADJ]()-[en-pos/VERB]() (5; 1% instances), [en-pos/NOUN]()-[en-pos/ADJ]() (5; 1% instances), [en-pos/PROPN]()-[en-pos/ADJ]() (5; 1% instances), [en-pos/PROPN]()-[en-pos/SYM]() (5; 1% instances), [en-pos/NOUN]()-[en-pos/X]() (4; 1% instances), [en-pos/X]()-[en-pos/X]() (3; 1% instances), [en-pos/NOUN]()-[en-pos/NUM]() (2; 0% instances), [en-pos/NOUN]()-[en-pos/VERB]() (2; 0% instances), [en-pos/VERB]()-[en-pos/PROPN]() (2; 0% instances), [en-pos/VERB]()-[en-pos/X]() (2; 0% instances), [en-pos/ADJ]()-[en-pos/PUNCT]() (1; 0% instances), [en-pos/ADJ]()-[en-pos/X]() (1; 0% instances), [en-pos/VERB]()-[en-pos/ADJ]() (1; 0% instances), [en-pos/VERB]()-[en-pos/PRON]() (1; 0% instances).
 
 
 ~~~ conllu
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 3 list	color:blue
-1	Vladi	Vladi	PROPN	NNP	Number=Sing	2	name	_	_
-2	Pimenov	Pimenov	PROPN	NNP	Number=Sing	0	root	_	_
-3	ext.	ext.	NOUN	NN	Number=Sing	2	list	_	_
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 3 list	color:blue
+1	Vladi	Vladi	PROPN	NNP	Number=Sing	0	root	_	_
+2	Pimenov	Pimenov	PROPN	NNP	Number=Sing	1	flat	_	_
+3	ext.	ext.	NOUN	NN	Number=Sing	1	list	_	_
 4	37625	37625	NUM	CD	NumType=Card	3	nummod	_	_
 
 ~~~
@@ -36,9 +36,9 @@ The following 28 pairs of parts of speech are connected with `list`: [en-pos/PRO
 # visual-style 1 3 list	color:blue
 1	WASHINGTON	WASHINGTON	PROPN	NNP	Number=Sing	0	root	_	_
 2	(	(	PUNCT	-LRB-	_	3	punct	_	SpaceAfter=No
-3	Reuters	Reuters	PROPN	NNP	Number=Sing	1	list	_	SpaceAfter=No
+3	CNN	CNN	PROPN	NNP	Number=Sing	1	list	_	SpaceAfter=No
 4	)	)	PUNCT	-RRB-	_	3	punct	_	_
-5	-	-	PUNCT	:	_	1	punct	_	_
+5	--	--	PUNCT	:	_	1	punct	_	_
 
 ~~~
 
@@ -55,8 +55,8 @@ The following 28 pairs of parts of speech are connected with `list`: [en-pos/PRO
 4	:	:	PUNCT	:	_	2	punct	_	_
 5	Coach	coach	NOUN	NN	Number=Sing	2	list	_	SpaceAfter=No
 6	:	:	PUNCT	:	_	2	punct	_	_
-7	Lisa	Lisa	PROPN	NNP	Number=Sing	8	name	_	_
-8	Gilette	Gilette	PROPN	NNP	Number=Sing	5	appos	_	_
+7	Lisa	Lisa	PROPN	NNP	Number=Sing	5	appos	_	_
+8	Gilette	Gilette	PROPN	NNP	Number=Sing	7	flat	_	_
 
 ~~~
 
@@ -69,12 +69,12 @@ The following 28 pairs of parts of speech are connected with `list`: [en-pos/PRO
 
 This relation is universal.
 
-20 nodes (0%) are attached to their parents as `list`.
+15 nodes (0%) are attached to their parents as `list`.
 
-20 instances of `list` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.85.
+15 instances of `list` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 3.2.
 
-The following 7 pairs of parts of speech are connected with `list`: [en-pos/NOUN]()-[en-pos/NOUN]() (9; 45% instances), [en-pos/VERB]()-[en-pos/VERB]() (4; 20% instances), [en-pos/NOUN]()-[en-pos/VERB]() (2; 10% instances), [en-pos/PROPN]()-[en-pos/PROPN]() (2; 10% instances), [en-pos/ADJ]()-[en-pos/ADJ]() (1; 5% instances), [en-pos/NOUN]()-[en-pos/PRON]() (1; 5% instances), [en-pos/NOUN]()-[en-pos/X]() (1; 5% instances).
+The following 6 pairs of parts of speech are connected with `list`: [en-pos/NOUN]()-[en-pos/NOUN]() (8; 53% instances), [en-pos/PROPN]()-[en-pos/PROPN]() (2; 13% instances), [en-pos/VERB]()-[en-pos/VERB]() (2; 13% instances), [en-pos/ADJ]()-[en-pos/ADJ]() (1; 7% instances), [en-pos/NOUN]()-[en-pos/PRON]() (1; 7% instances), [en-pos/NOUN]()-[en-pos/X]() (1; 7% instances).
 
 
 ~~~ conllu
@@ -107,33 +107,41 @@ The following 7 pairs of parts of speech are connected with `list`: [en-pos/NOUN
 
 
 ~~~ conllu
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 9 list	color:blue
-1	_	_	PRON	PRP	_	2	nsubj	_	_
-2	_	_	VERB	VBD	_	0	root	_	_
-3	_	_	VERB	VBG	_	2	xcomp	_	_
-4	_	_	ADP	RP	_	3	compound:prt	_	_
-5	_	_	DET	DT	_	7	det	_	_
-6	_	_	NOUN	NN	_	7	compound	_	_
-7	_	_	NOUN	NN	_	3	dobj	_	_
-8	_	_	PUNCT	,	_	3	punct	_	_
-9	_	_	VERB	VBG	_	3	list	_	_
-10	_	_	DET	DT	_	12	det	_	_
-11	_	_	NOUN	NN	_	12	compound	_	_
-12	_	_	NOUN	NN	_	9	dobj	_	_
-13	_	_	ADP	IN	_	15	case	_	_
-14	_	_	DET	DT	_	15	det	_	_
-15	_	_	NOUN	NN	_	9	nmod	_	_
-16	_	_	PUNCT	,	_	3	punct	_	_
-17	_	_	VERB	VB	_	3	list	_	_
-18	_	_	ADP	RP	_	17	compound:prt	_	_
-19	_	_	PROPN	NNP	_	21	nmod:poss	_	_
-20	_	_	PART	POS	_	19	case	_	_
-21	_	_	NOUN	NN	_	17	dobj	_	_
-22	_	_	PUNCT	.	_	2	punct	_	_
+# visual-style 19	bgColor:blue
+# visual-style 19	fgColor:white
+# visual-style 13	bgColor:blue
+# visual-style 13	fgColor:white
+# visual-style 13 19 list	color:blue
+1	_	_	NOUN	NNS	_	3	nsubj	_	_
+2	_	_	ADV	RB	_	3	advmod	_	_
+3	_	_	VERB	VBD	_	0	root	_	_
+4	_	_	DET	DT	_	5	det	_	_
+5	_	_	NOUN	NN	_	3	dobj	_	_
+6	_	_	SCONJ	TO	_	7	mark	_	_
+7	_	_	VERB	VB	_	5	acl	_	_
+8	_	_	ADP	IN	_	11	case	_	_
+9	_	_	ADV	RB	_	10	advmod	_	_
+10	_	_	ADJ	JJ	_	11	amod	_	_
+11	_	_	NOUN	NNS	_	7	nmod	_	_
+12	_	_	SCONJ	IN	_	13	mark	_	_
+13	_	_	VERB	VB	_	7	advcl	_	_
+14	_	_	DET	PRP$	_	16	det	_	_
+15	_	_	NOUN	NN	_	16	compound	_	_
+16	_	_	NOUN	NN	_	13	dobj	_	_
+17	_	_	PUNCT	,	_	13	punct	_	_
+18	_	_	SCONJ	IN	_	19	mark	_	_
+19	_	_	VERB	VB	_	13	list	_	_
+20	_	_	PUNCT	,	_	13	punct	_	_
+21	_	_	CONJ	CC	_	13	cc	_	_
+22	_	_	ADV	RB	_	24	advmod	_	_
+23	_	_	SCONJ	IN	_	24	mark	_	_
+24	_	_	VERB	VB	_	13	conj	_	_
+25	_	_	PRON	NN	_	24	dobj	_	_
+26	_	_	ADJ	JJ	_	25	amod	_	_
+27	_	_	ADP	IN	_	29	case	_	_
+28	_	_	DET	PRP$	_	29	det	_	_
+29	_	_	NOUN	NN	_	26	nmod	_	_
+30	_	_	PUNCT	.	_	3	punct	_	_
 
 ~~~
 

@@ -6,12 +6,12 @@
 
 This relation is universal.
 
-524 nodes (0%) are attached to their parents as `expl`.
+465 nodes (0%) are attached to their parents as `expl`.
 
-506 instances of `expl` (97%) are right-to-left (child precedes parent).
-Average distance between parent and child is 5.09541984732824.
+449 instances of `expl` (97%) are right-to-left (child precedes parent).
+Average distance between parent and child is 5.08172043010753.
 
-The following 8 pairs of parts of speech are connected with `expl`: [fi-pos/VERB]()-[fi-pos/PRON]() (379; 72% instances), [fi-pos/VERB]()-[fi-pos/ADV]() (65; 12% instances), [fi-pos/NOUN]()-[fi-pos/PRON]() (30; 6% instances), [fi-pos/ADJ]()-[fi-pos/PRON]() (26; 5% instances), [fi-pos/PRON]()-[fi-pos/PRON]() (11; 2% instances), [fi-pos/ADJ]()-[fi-pos/ADV]() (9; 2% instances), [fi-pos/VERB]()-[fi-pos/ADJ]() (3; 1% instances), [fi-pos/NUM]()-[fi-pos/PRON]() (1; 0% instances).
+The following 8 pairs of parts of speech are connected with `expl`: [fi-pos/VERB]()-[fi-pos/PRON]() (338; 73% instances), [fi-pos/VERB]()-[fi-pos/ADV]() (55; 12% instances), [fi-pos/NOUN]()-[fi-pos/PRON]() (27; 6% instances), [fi-pos/ADJ]()-[fi-pos/PRON]() (24; 5% instances), [fi-pos/PRON]()-[fi-pos/PRON]() (9; 2% instances), [fi-pos/ADJ]()-[fi-pos/ADV]() (8; 2% instances), [fi-pos/VERB]()-[fi-pos/ADJ]() (3; 1% instances), [fi-pos/NUM]()-[fi-pos/PRON]() (1; 0% instances).
 
 
 ~~~ conllu
@@ -25,7 +25,7 @@ The following 8 pairs of parts of speech are connected with `expl`: [fi-pos/VERB
 3	Annillakkii	anni	PROPN	N,Prop,Sg,Ade	Case=Ade|Number=Sing|Style=Coll	1	nmod:own	_	Alt=nmod:own
 4	oikeus	oikeus	NOUN	N,Sg,Nom	Case=Nom|Number=Sing	1	nsubj	_	_
 5	suaha	saada	VERB	V,Act,InfA,Lat	Case=Lat|InfForm=1|Style=Coll|VerbForm=Inf|Voice=Act	4	acl	_	_
-6	mies	mies	NOUN	N,Sg,Nom	Case=Nom|Number=Sing	5	dobj	_	_
+6	mies	mies	NOUN	N,Sg,Nom	Case=Nom|Number=Sing	5	obj	_	_
 7	jolla	joka	PRON	Pron,Rel,Sg,Ade	Case=Ade|Number=Sing|PronType=Rel	10	nmod	_	_
 8	joka	joka	DET	Pron,Qnt	PronType=Ind	9	det	_	_
 9	paikka	paikka	NOUN	N,Sg,Nom	Case=Nom|Number=Sing	10	nsubj	_	_
@@ -62,7 +62,7 @@ The following 8 pairs of parts of speech are connected with `expl`: [fi-pos/VERB
 3	,	,	PUNCT	Pun	_	2	punct	_	_
 4	sitä	se	PRON	Pron,Dem,Sg,Par	Case=Par|Number=Sing|PronType=Dem	2	expl	_	Alt=6_expl|Missed-Rel=phrm
 5	se	se	PRON	Pron,Dem,Sg,Nom	Case=Nom|Number=Sing|PronType=Dem	2	expl	_	Alt=6_expl|Missed-Rel=phrm
-6	on	olla	VERB	V,Act,Ind,Pres,Sg3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	cop	_	_
+6	on	olla	AUX	V,Act,Ind,Pres,Sg3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	cop	_	_
 7	tämä	tämä	DET	Pron,Dem,Sg,Nom	Case=Nom|Number=Sing|PronType=Dem	10	det	_	_
 8	tämmöinen	tämmöinen	DET	A,Dem,Sg,Nom	Case=Nom|Number=Sing|PronType=Dem	9	amod	_	Alt=DET
 9	uusi	uusi	ADJ	A,Sg,Nom	Case=Nom|Number=Sing	10	amod	_	_

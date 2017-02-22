@@ -7,52 +7,41 @@
 This feature is universal.
 It occurs with 1 different values: `Yes`.
 
-1689 tokens (1%) have a non-empty value of `Poss`.
-493 types (2%) occur at least once with a non-empty value of `Poss`.
-301 lemmas (2%) occur at least once with a non-empty value of `Poss`.
-The feature is used with 3 part-of-speech tags: [sl-pos/DET]() (1260; 1% instances), [sl-pos/ADJ]() (384; 0% instances), [sl-pos/PRON]() (45; 0% instances).
+1512 tokens (1%) have a non-empty value of `Poss`.
+461 types (2%) occur at least once with a non-empty value of `Poss`.
+278 lemmas (2%) occur at least once with a non-empty value of `Poss`.
+The feature is used with 2 part-of-speech tags: [sl-pos/DET]() (1161; 1% instances), [sl-pos/ADJ]() (351; 0% instances).
 
 ### `DET`
 
-1260 [sl-pos/DET]() tokens (38% of all `DET` tokens) have a non-empty value of `Poss`.
+1161 [sl-pos/DET]() tokens (25% of all `DET` tokens) have a non-empty value of `Poss`.
 
-The most frequent other feature values with which `DET` and `Poss` co-occurred: <tt><a href="PronType.html">PronType</a>=Prs</tt> (1260; 100%), <tt><a href="Degree.html">Degree</a>=EMPTY</tt> (1260; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (907; 72%), <tt><a href="Gender[psor].html">Gender[psor]</a>=EMPTY</tt> (881; 70%), <tt><a href="Reflex.html">Reflex</a>=EMPTY</tt> (804; 64%).
+The most frequent other feature values with which `DET` and `Poss` co-occurred: <tt><a href="PronType.html">PronType</a>=Prs</tt> (1161; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (831; 72%).
 
 `DET` tokens may have the following values of `Poss`:
 
-* `Yes` (1260; 100% of non-empty `Poss`): <em>svoje, svojo, svoj, njegov, svoji, njegovo, svojega, svojih, njegove, njegova</em>
-* `EMPTY` (2050): <em>nekaj, ta, več, tem, te, vse, to, vseh, vsak, teh</em>
+* `Yes` (1161; 100% of non-empty `Poss`): <em>svoje, svojo, svoj, njegov, svojega, svoji, svojih, njegove, njegovo, svojim</em>
+* `EMPTY` (3550): <em>to, tem, vse, nekaj, ta, več, tega, te, veliko, vseh</em>
 
 `Poss` seems to be **lexical feature** of `DET`. 100% lemmas (11) occur only with one value of `Poss`.
 
 ### `ADJ`
 
-384 [sl-pos/ADJ]() tokens (3% of all `ADJ` tokens) have a non-empty value of `Poss`.
+351 [sl-pos/ADJ]() tokens (3% of all `ADJ` tokens) have a non-empty value of `Poss`.
 
-The most frequent other feature values with which `ADJ` and `Poss` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=EMPTY</tt> (384; 100%), <tt><a href="Degree.html">Degree</a>=Pos</tt> (384; 100%), <tt><a href="Definite.html">Definite</a>=EMPTY</tt> (336; 88%), <tt><a href="Number.html">Number</a>=Sing</tt> (298; 78%).
+The most frequent other feature values with which `ADJ` and `Poss` co-occurred: <tt><a href="Degree.html">Degree</a>=Pos</tt> (351; 100%), <tt><a href="VerbForm.html">VerbForm</a>=EMPTY</tt> (351; 100%), <tt><a href="Definite.html">Definite</a>=EMPTY</tt> (310; 88%), <tt><a href="Number.html">Number</a>=Sing</tt> (269; 77%).
 
 `ADJ` tokens may have the following values of `Poss`:
 
-* `Yes` (384; 100% of non-empty `Poss`): <em>človekovih, človekove, Vallaressovi, vodikov, človekova, Cankarjevem, Darwinove, Gregorčičevi, Kristusovega, Levovo</em>
-* `EMPTY` (14643): <em>drugi, mogoče, prvi, druge, sam, novo, drugih, nove, različnih, slovenski</em>
+* `Yes` (351; 100% of non-empty `Poss`): <em>človekovih, človekove, Vallaressovi, Cankarjevem, Darwinove, Gregorčičevi, Kristusovega, Levovo, Moorova, Prešernovega</em>
+* `EMPTY` (13178): <em>drugi, prvi, druge, mogoče, sam, nove, novo, drugih, različnih, slovenski</em>
 
-`Poss` seems to be **lexical feature** of `ADJ`. 100% lemmas (290) occur only with one value of `Poss`.
-
-### `PRON`
-
-45 [sl-pos/PRON]() tokens (1% of all `PRON` tokens) have a non-empty value of `Poss`.
-
-The most frequent other feature values with which `PRON` and `Poss` co-occurred: <tt><a href="PronType.html">PronType</a>=Prs</tt> (45; 100%), <tt><a href="Variant.html">Variant</a>=EMPTY</tt> (45; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (35; 78%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (23; 51%), <tt><a href="Reflex.html">Reflex</a>=Yes</tt> (23; 51%).
-
-`PRON` tokens may have the following values of `Poss`:
-
-* `Yes` (45; 100% of non-empty `Poss`): <em>svoje, njegovem, svojo, naši, njegove, njenem, svojega, svojim, Moja, Tvoja</em>
-* `EMPTY` (6906): <em>se, to, ga, jih, si, jo, tem, mu, kaj, mi</em>
+`Poss` seems to be **lexical feature** of `ADJ`. 100% lemmas (267) occur only with one value of `Poss`.
 
 ## Relations with Agreement in `Poss`
 
 The 10 most frequent relations where parent and child node agree in `Poss`:
-<tt>ADJ --[<a href="../dep/conj.html">conj</a>]--> ADJ</tt> (2; 100%).
+<tt>ADJ --[<a href="../dep/conj.html">conj</a>]--> ADJ</tt> (1; 100%).
 
 
 
@@ -63,49 +52,38 @@ The 10 most frequent relations where parent and child node agree in `Poss`:
 This feature is universal.
 It occurs with 1 different values: `Yes`.
 
-161 tokens (1%) have a non-empty value of `Poss`.
-69 types (1%) occur at least once with a non-empty value of `Poss`.
-27 lemmas (1%) occur at least once with a non-empty value of `Poss`.
-The feature is used with 3 part-of-speech tags: [sl-pos/DET]() (113; 0% instances), [sl-pos/ADJ]() (28; 0% instances), [sl-pos/PRON]() (20; 0% instances).
+107 tokens (1%) have a non-empty value of `Poss`.
+58 types (1%) occur at least once with a non-empty value of `Poss`.
+22 lemmas (1%) occur at least once with a non-empty value of `Poss`.
+The feature is used with 2 part-of-speech tags: [sl-pos/DET]() (86; 0% instances), [sl-pos/ADJ]() (21; 0% instances).
 
 ### `DET`
 
-113 [sl-pos/DET]() tokens (16% of all `DET` tokens) have a non-empty value of `Poss`.
+86 [sl-pos/DET]() tokens (7% of all `DET` tokens) have a non-empty value of `Poss`.
 
-The most frequent other feature values with which `DET` and `Poss` co-occurred: <tt><a href="PronType.html">PronType</a>=Prs</tt> (113; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (92; 81%), <tt><a href="Person.html">Person</a>=1</tt> (74; 65%), <tt><a href="Number[psor].html">Number[psor]</a>=Plur</tt> (67; 59%), <tt><a href="Gender.html">Gender</a>=Fem</tt> (62; 55%).
+The most frequent other feature values with which `DET` and `Poss` co-occurred: <tt><a href="PronType.html">PronType</a>=Prs</tt> (86; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (72; 84%), <tt><a href="Gender.html">Gender</a>=Fem</tt> (46; 53%).
 
 `DET` tokens may have the following values of `Poss`:
 
-* `Yes` (113; 100% of non-empty `Poss`): <em>naša, moja, naše, naši, naših, moj, mojega, naš, mojo, našo</em>
-* `EMPTY` (599): <em>ta, to, te, tem, teh, vse, tega, tej, neko, nekaj</em>
+* `Yes` (86; 100% of non-empty `Poss`): <em>naša, moja, naših, mojega, naš, naše, naši, moje, našo, tvoja</em>
+* `EMPTY` (1118): <em>to, ta, nekaj, vse, tem, malo, nič, tega, tisto, te</em>
 
 ### `ADJ`
 
-28 [sl-pos/ADJ]() tokens (2% of all `ADJ` tokens) have a non-empty value of `Poss`.
+21 [sl-pos/ADJ]() tokens (2% of all `ADJ` tokens) have a non-empty value of `Poss`.
 
-The most frequent other feature values with which `ADJ` and `Poss` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=EMPTY</tt> (28; 100%), <tt><a href="Degree.html">Degree</a>=Pos</tt> (28; 100%), <tt><a href="Definite.html">Definite</a>=EMPTY</tt> (27; 96%), <tt><a href="Number.html">Number</a>=Sing</tt> (25; 89%), <tt><a href="Gender.html">Gender</a>=Fem</tt> (19; 68%).
+The most frequent other feature values with which `ADJ` and `Poss` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=EMPTY</tt> (21; 100%), <tt><a href="Degree.html">Degree</a>=Pos</tt> (21; 100%), <tt><a href="Definite.html">Definite</a>=EMPTY</tt> (20; 95%), <tt><a href="Number.html">Number</a>=Sing</tt> (18; 86%), <tt><a href="Gender.html">Gender</a>=Fem</tt> (14; 67%).
 
 `ADJ` tokens may have the following values of `Poss`:
 
-* `Yes` (28; 100% of non-empty `Poss`): <em>sirovo, andrejevo, belvijevega, bertrandova, blaževi, bučkino, centrovi, dolinarjeva, gobovo, heglovem</em>
-* `EMPTY` (1637): <em>dobro, drugo, prvi, drugi, dober, zanimivo, druga, drugega, glavnem, lep</em>
+* `Yes` (21; 100% of non-empty `Poss`): <em>bertrandova, blaževi, centrovi, gobovo, heglovem, kmetova, krompirjeve, krompirjevega, krompirjevi, krompirjevih</em>
+* `EMPTY` (1072): <em>dobro, drugi, dober, prvi, drugo, drugega, glavnem, rdeča, lep, sami</em>
 
-`Poss` seems to be **lexical feature** of `ADJ`. 100% lemmas (19) occur only with one value of `Poss`.
-
-### `PRON`
-
-20 [sl-pos/PRON]() tokens (1% of all `PRON` tokens) have a non-empty value of `Poss`.
-
-The most frequent other feature values with which `PRON` and `Poss` co-occurred: <tt><a href="Variant.html">Variant</a>=EMPTY</tt> (20; 100%), <tt><a href="PronType.html">PronType</a>=Prs</tt> (20; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (18; 90%), <tt><a href="Person.html">Person</a>=1</tt> (15; 75%), <tt><a href="Gender.html">Gender</a>=Neut</tt> (11; 55%).
-
-`PRON` tokens may have the following values of `Poss`:
-
-* `Yes` (20; 100% of non-empty `Poss`): <em>moje, naš, naša, vaše, mojem, najino, naše, našega, njihov, njihova</em>
-* `EMPTY` (2574): <em>to, se, kaj, jaz, mi, ti, ga, jih, si, nič</em>
+`Poss` seems to be **lexical feature** of `ADJ`. 100% lemmas (14) occur only with one value of `Poss`.
 
 ## Relations with Agreement in `Poss`
 
 The 10 most frequent relations where parent and child node agree in `Poss`:
-<tt>DET --[<a href="../dep/reparandum.html">reparandum</a>]--> DET</tt> (1; 100%),
-<tt>PRON --[<a href="../dep/parataxis.html">parataxis</a>]--> PRON</tt> (1; 100%).
+<tt>DET --[<a href="../dep/parataxis.html">parataxis</a>]--> DET</tt> (1; 100%),
+<tt>DET --[<a href="../dep/reparandum.html">reparandum</a>]--> DET</tt> (1; 100%).
 

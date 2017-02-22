@@ -6,78 +6,74 @@
 
 This relation is universal.
 
-649 nodes (3%) are attached to their parents as `cc`.
+408 nodes (3%) are attached to their parents as `cc`.
 
-649 instances of `cc` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 5.19414483821263.
+407 instances of `cc` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.0171568627451.
 
-The following 16 pairs of parts of speech are connected with `cc`: [ga-pos/NOUN]()-[ga-pos/CONJ]() (327; 50% instances), [ga-pos/VERB]()-[ga-pos/CONJ]() (176; 27% instances), [ga-pos/ADJ]()-[ga-pos/CONJ]() (32; 5% instances), [ga-pos/PROPN]()-[ga-pos/CONJ]() (32; 5% instances), [ga-pos/ADP]()-[ga-pos/CONJ]() (22; 3% instances), [ga-pos/PRON]()-[ga-pos/CONJ]() (19; 3% instances), [ga-pos/X]()-[ga-pos/CONJ]() (9; 1% instances), [ga-pos/NUM]()-[ga-pos/CONJ]() (8; 1% instances), [ga-pos/ADV]()-[ga-pos/CONJ]() (7; 1% instances), [ga-pos/SCONJ]()-[ga-pos/CONJ]() (6; 1% instances), [ga-pos/NOUN]()-[ga-pos/PUNCT]() (4; 1% instances), [ga-pos/VERB]()-[ga-pos/SCONJ]() (3; 0% instances), [ga-pos/ADJ]()-[ga-pos/PUNCT]() (1; 0% instances), [ga-pos/NOUN]()-[ga-pos/NOUN]() (1; 0% instances), [ga-pos/NOUN]()-[ga-pos/SCONJ]() (1; 0% instances), [ga-pos/PROPN]()-[ga-pos/NOUN]() (1; 0% instances).
+The following 15 pairs of parts of speech are connected with `cc`: [ga-pos/NOUN]()-[ga-pos/CCONJ]() (218; 53% instances), [ga-pos/VERB]()-[ga-pos/CCONJ]() (94; 23% instances), [ga-pos/ADJ]()-[ga-pos/CCONJ]() (25; 6% instances), [ga-pos/ADP]()-[ga-pos/CCONJ]() (24; 6% instances), [ga-pos/PRON]()-[ga-pos/CCONJ]() (11; 3% instances), [ga-pos/PROPN]()-[ga-pos/CCONJ]() (11; 3% instances), [ga-pos/NUM]()-[ga-pos/CCONJ]() (9; 2% instances), [ga-pos/ADV]()-[ga-pos/CCONJ]() (4; 1% instances), [ga-pos/SCONJ]()-[ga-pos/CCONJ]() (3; 1% instances), [ga-pos/X]()-[ga-pos/CCONJ]() (3; 1% instances), [ga-pos/NOUN]()-[ga-pos/PUNCT]() (2; 0% instances), [ga-pos/ADJ]()-[ga-pos/SCONJ]() (1; 0% instances), [ga-pos/NOUN]()-[ga-pos/SCONJ]() (1; 0% instances), [ga-pos/PART]()-[ga-pos/CCONJ]() (1; 0% instances), [ga-pos/VERB]()-[ga-pos/SCONJ]() (1; 0% instances).
+
+
+~~~ conllu
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 9 7 cc	color:blue
+1	Bronnfar	bronn	VERB	VT	Mood=Ind|Tense=Fut|Voice=Auto	0	root	_	_
+2	é	é	PRON	Pers	Gender=Masc|Number=Sing|Person=3	1	obj	_	_
+3	ar	ar	ADP	Simp	_	5	case	_	_
+4	an	an	DET	Art	Definite=Def|Number=Sing|PronType=Art	5	det	_	_
+5	Chnuasach	cnuasach	NOUN	Noun	Case=NomAcc|Form=Len|Gender=Masc|Number=Sing	1	obl	_	_
+6	Gearrscéalta	gearrscéal	NOUN	Noun	Case=Gen|Gender=Masc|NounType=Strong|Number=Plur	5	compound	_	_
+7	nó	nó	CCONJ	Coord	_	9	cc	_	_
+8	an	an	DET	Art	Definite=Def|Number=Sing|PronType=Art	9	det	_	_
+9	dráma	dráma	NOUN	Noun	Case=NomAcc|Definite=Def|Gender=Masc|Number=Sing	5	conj	_	_
+10	is	is	PART	Sup	_	11	mark:prt	_	_
+11	fearr	maith	ADJ	Adj	Degree=Cmp,Sup	5	amod	_	SpaceAfter=No
+12	.	.	PUNCT	.	_	1	punct	_	_
+
+~~~
 
 
 ~~~ conllu
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 4 cc	color:blue
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 4 cc	color:blue
+1	D'	do	PART	Vb	PartType=Vb	2	mark:prt	_	SpaceAfter=No
+2	iúntaigh	iúntaigh	NOUN	Noun	Case=NomAcc|Gender=Fem|Number=Sing	0	root	_	_
+3	Pinocchio	Pinocchio	PROPN	Noun	Case=NomAcc|Gender=Masc|Number=Sing	4	nsubj	_	_
+4	agus	agus	CCONJ	Coord	_	6	cc	_	_
+5	d'	do	PART	Vb	PartType=Vb	6	mark:prt	_	SpaceAfter=No
+6	fhéach	féach	VERB	VTI	Form=Len|Mood=Ind|Tense=Past	2	conj	_	_
+7	sé	sé	PRON	Pers	Gender=Masc|Number=Sing|Person=3	6	nsubj	_	_
+8	air	ar	ADP	Prep	Gender=Masc|Number=Sing|Person=3	6	obl:prep	_	SpaceAfter=No
+9	.	.	PUNCT	.	_	2	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 12	bgColor:blue
+# visual-style 12	fgColor:white
+# visual-style 12 10 cc	color:blue
 1	Thiocfadh	tar	VERB	VI	Form=Len|Mood=Cnd	0	root	_	_
-2	leat	le	ADP	Prep	Number=Sing|Person=2	1	nmod:prep	_	_
-3	caint	caint	NOUN	Noun	VerbForm=Ger	1	nsubj	_	_
-4	agus	agus	CONJ	Coord	_	3	cc	_	_
+2	leat	le	ADP	Prep	Number=Sing|Person=2	1	obl:prep	_	_
+3	caint	caint	NOUN	Noun	VerbForm=Inf	1	nsubj	_	_
+4	agus	agus	CCONJ	Coord	_	5	cc	_	_
 5	scríobh	scríobh	NOUN	Noun	VerbForm=Inf	3	conj	_	_
 6	fá	faoi	X	CU	Dialect=Ulster|Gender=Masc|Number=Sing|Person=3	7	case	_	_
 7	seo	seo	PRON	Dem	PronType=Dem	3	nmod	_	_
 8	go	go	PART	Ad	PartType=Ad	9	mark:prt	_	_
 9	minic	minic	ADJ	Adj	Degree=Pos	1	advmod	_	_
-10	agus	agus	CONJ	Coord	_	9	cc	_	_
+10	agus	agus	CCONJ	Coord	_	12	cc	_	_
 11	go	go	PART	Ad	PartType=Ad	12	mark:prt	_	_
-12	fada	fada	ADJ	Adj	Degree=Pos	9	conj	_	_
+12	fada	fada	ADJ	Adj	Degree=Pos	9	conj	_	SpaceAfter=No
 13	.	.	PUNCT	.	_	1	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 1 5 cc	color:blue
-1	Bhí	bí	VERB	PastInd	Form=Len|Mood=Ind|Tense=Past	0	root	_	_
-2	an	an	DET	Art	Definite=Def|Number=Sing|PronType=Art	3	det	_	_
-3	lá	lá	NOUN	Noun	Case=Com|Definite=Def|Gender=Masc|Number=Sing	1	nsubj	_	_
-4	an-te	te	ADJ	Adj	Degree=Pos	1	xcomp:pred	_	_
-5	agus	agus	CONJ	Coord	_	1	cc	_	_
-6	bhí	bí	VERB	PastInd	Form=Len|Mood=Ind|Tense=Past	1	conj	_	_
-7	gach	gach	DET	Det	Definite=Def	8	det	_	_
-8	duine	duine	NOUN	Noun	Case=Com|Gender=Masc|Number=Sing	6	nsubj	_	_
-9	spalptha	spalptha	ADJ	Adj	VerbForm=Part	6	xcomp:pred	_	_
-10	leis	le	ADP	Simp	_	12	case	_	_
-11	an	an	DET	Art	Definite=Def|Number=Sing|PronType=Art	12	det	_	_
-12	tart	tart	NOUN	Noun	Case=Com|Definite=Def|Gender=Masc|Number=Sing	9	nmod	_	_
-13	.	.	PUNCT	.	_	1	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 1 2 cc	color:blue
-1	Éire	Éire	PROPN	Noun	Case=Com|Gender=Fem|Number=Sing	0	root	_	_
-2	agus	agus	CONJ	Coord	_	1	cc	_	_
-3	an	an	DET	Art	Definite=Def|Number=Sing|PronType=Art	4	det	_	_
-4	dúshaothrú	dúshaothrú	NOUN	Noun	VerbForm=Inf	1	conj	_	_
-5	a	a	PART	Vb	PartType=Vb|PronType=Rel	6	dobj	_	_
-6	rinneadh	déan	VERB	PastInd	Mood=Ind|Tense=Past|Voice=Auto	4	acl:relcl	_	_
-7	uirthi	ar	ADP	Prep	Gender=Fem|Number=Sing|Person=3	6	nmod:prep	_	_
-8	san	i	ADP	Art	Number=Sing|PronType=Art	9	case	_	_
-9	am	am	NOUN	Noun	Case=Com|Gender=Masc|Number=Sing	6	nmod	_	_
-10	atá	bí	VERB	PresInd	Mood=Ind|PronType=Rel|Tense=Pres	9	acl:relcl	_	_
-11	thart	thart	ADV	Dir	_	10	xcomp:pred	_	_
-12	.	.	PUNCT	.	_	1	punct	_	_
 
 ~~~
 

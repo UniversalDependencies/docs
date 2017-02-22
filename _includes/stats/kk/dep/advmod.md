@@ -6,60 +6,94 @@
 
 This relation is universal.
 
-205 nodes (3%) are attached to their parents as `advmod`.
+17 nodes (3%) are attached to their parents as `advmod`.
 
-150 instances of `advmod` (73%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.7609756097561.
+12 instances of `advmod` (71%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.35294117647059.
 
-The following 23 pairs of parts of speech are connected with `advmod`: [kk-pos/VERB]()-[kk-pos/ADV]() (70; 34% instances), [kk-pos/VERB]()-[kk-pos/ADJ]() (34; 17% instances), [kk-pos/ADJ]()-[kk-pos/ADV]() (18; 9% instances), [kk-pos/NOUN]()-[kk-pos/PART]() (15; 7% instances), [kk-pos/VERB]()-[kk-pos/PART]() (13; 6% instances), [kk-pos/PRON]()-[kk-pos/PART]() (11; 5% instances), [kk-pos/NOUN]()-[kk-pos/ADV]() (9; 4% instances), [kk-pos/ADJ]()-[kk-pos/PART]() (6; 3% instances), [kk-pos/ADJ]()-[kk-pos/PRON]() (5; 2% instances), [kk-pos/VERB]()-[kk-pos/NUM]() (4; 2% instances), [kk-pos/CONJ]()-[kk-pos/PART]() (3; 1% instances), [kk-pos/NUM]()-[kk-pos/ADV]() (2; 1% instances), [kk-pos/NUM]()-[kk-pos/PART]() (2; 1% instances), [kk-pos/PROPN]()-[kk-pos/PART]() (2; 1% instances), [kk-pos/VERB]()-[kk-pos/PRON]() (2; 1% instances), [kk-pos/VERB]()-[kk-pos/SCONJ]() (2; 1% instances), [kk-pos/ADJ]()-[kk-pos/ADJ]() (1; 0% instances), [kk-pos/ADJ]()-[kk-pos/NUM]() (1; 0% instances), [kk-pos/ADJ]()-[kk-pos/SCONJ]() (1; 0% instances), [kk-pos/ADV]()-[kk-pos/ADV]() (1; 0% instances), [kk-pos/PROPN]()-[kk-pos/ADJ]() (1; 0% instances), [kk-pos/PROPN]()-[kk-pos/NOUN]() (1; 0% instances), [kk-pos/VERB]()-[kk-pos/NOUN]() (1; 0% instances).
-
-
-~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 1 advmod	color:blue
-1	Кейінірек	кейін	ADV	adv	_	6	advmod	_	comp
-2	ФИФА	ФИФА	PROPN	np	_	6	nsubj	_	org|nom
-3	ротация	ротация	NOUN	n	_	4	nmod:poss	_	nom
-4	принципі	принцип	NOUN	n	_	5	nsubj	_	px3sp|nom
-5	өзгеретінін	өзгер	VERB	v	_	6	ccomp	_	iv|ger_impf|px3sp|acc
-6	жариялады	жарияла	VERB	v	_	0	root	_	tv|ifi|p3|sg
-7	.	.	PUNCT	sent	_	6	punct	_	_
-
-~~~
+The following 7 pairs of parts of speech are connected with `advmod`: [kk-pos/VERB]()-[kk-pos/ADV]() (6; 35% instances), [kk-pos/ADJ]()-[kk-pos/ADV]() (2; 12% instances), [kk-pos/ADJ]()-[kk-pos/PRON]() (2; 12% instances), [kk-pos/NOUN]()-[kk-pos/ADV]() (2; 12% instances), [kk-pos/VERB]()-[kk-pos/ADJ]() (2; 12% instances), [kk-pos/VERB]()-[kk-pos/PRON]() (2; 12% instances), [kk-pos/NUM]()-[kk-pos/ADV]() (1; 6% instances).
 
 
 ~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 4 advmod	color:blue
-1	Мен	мен	PRON	prn	_	5	nsubj	_	pers|p1|sg|nom
-2	Қазақ	қазақ	NOUN	n	_	3	nmod:poss	_	nom
-3	тілінде	тіл	NOUN	n	_	5	nmod	_	px3sp|loc
-4	жақсы	жақсы	ADJ	adj	_	5	advmod	_	advl
-5	сөйлей	сөйле	VERB	v	_	0	root	_	tv|prc_impf
-6	алмаймын	ал	AUX	vaux	_	5	aux	_	neg|aor|p1|sg
-7	.	.	PUNCT	sent	_	5	punct	_	_
-
-~~~
-
-
-~~~ conllu
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 2 advmod	color:blue
-1	Күшігі	күшік	NOUN	n	_	4	nsubj	_	px3sp|nom
-2	қазір	қазір	ADV	adv	_	4	advmod	_	_
-3	өте	өте	ADV	adv	_	4	advmod	_	_
-4	_	қуанышты	ADJ	adj	_	0	root	_	_
-5	_	е	AUX	cop	_	4	cop	_	aor|p3|sg
-6	.	.	PUNCT	sent	_	4	punct	_	_
+# visual-style 2 3 advmod	color:blue
+1	Қанша	қанша	PRON	prn	Case=Nom|PronType=Int	2	advmod	_	_
+2	жалынса	жалын	VERB	v	Mood=Cnd|Number=Sing|Person=3|VerbForm=Conv	11	advcl	_	_
+3	да	да	ADV	postadv	_	2	advmod	_	_
+4	,	,	PUNCT	cm	_	6	punct	_	_
+5	қанша	қанша	PRON	prn	Case=Nom|PronType=Int	6	advmod	_	_
+6	жыласа	жыла	VERB	v	Mood=Cnd|Number=Sing|Person=3|VerbForm=Conv	2	conj	_	_
+7	да	да	ADV	postadv	_	6	advmod	_	_
+8	Жасаған	Жасаған	PROPN	np	Case=Nom	11	nsubj	_	_
+9	оған	ол	PRON	prn	Case=Dat|Number=Sing|Person=3|PronType=Prs	11	obl	_	_
+10	бала	бала	NOUN	n	Case=Nom	11	obj	_	_
+11	бермеді	бер	VERB	v	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
+12	.	.	PUNCT	sent	_	11	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 9 8 advmod	color:blue
+1	Бітеу	бітеу	ADJ	adj	_	2	amod	_	_
+2	жара	жара	NOUN	n	Case=Nom	0	root	_	_
+3	болды	бол	AUX	v	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	cop	_	SpaceAfter=No
+4	,	,	PUNCT	cm	_	2	punct	_	_
+5	жалғыз	жалғыз	ADJ	adj	_	6	advmod	_	_
+6	өртенді	өртен	VERB	v	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	parataxis	_	SpaceAfter=No
+7	,	,	PUNCT	cm	_	6	punct	_	_
+8	жалғыз	жалғыз	ADJ	adj	_	9	advmod	_	_
+9	жылады	жыла	VERB	v	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	parataxis	_	SpaceAfter=No
+10	,	,	PUNCT	cm	_	9	punct	_	_
+11	дүниеден	дүние	NOUN	n	Case=Abl	12	obl	_	_
+12	безді	без	VERB	v	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	parataxis	_	SpaceAfter=No
+13	,	,	PUNCT	cm	_	12	punct	_	_
+14	сопы	сопы	NOUN	n	Case=Nom	2	parataxis	_	_
+15	болды	бол	AUX	v	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	14	cop	_	SpaceAfter=No
+16	.	.	PUNCT	sent	_	14	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 23	bgColor:blue
+# visual-style 23	fgColor:white
+# visual-style 22	bgColor:blue
+# visual-style 22	fgColor:white
+# visual-style 22 23 advmod	color:blue
+1	Шолпан	Шолпан	PROPN	np	Case=Nom|Gender=Fem	24	nsubj	_	_
+2	Сәрсенбайға	Сәрсенбай	PROPN	np	Case=Dat|Gender=Masc	3	obl	_	_
+3	шыққан	шық	VERB	v	Tense=Past|VerbForm=Part	4	acl:relcl	_	_
+4	жылы	жыл	NOUN	n	Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3	24	obl	_	_
+5	өзіндей	өз	PRON	prn	Number[psor]=Plur,Sing|Person[psor]=3|PronType=Ref	7	nmod	_	_
+6	жас	жас	ADJ	adj	_	7	amod	_	_
+7	келіншектермен	келіншек	NOUN	n	Case=Ins|Number=Plur	9	obl	_	_
+8	аулақта	аулақ	ADJ	adj	Case=Loc	9	obl	_	_
+9	кеңескенде	кеңес	VERB	v	Case=Loc|Tense=Past|VerbForm=Ger	24	advcl	_	SpaceAfter=No
+10	:	:	PUNCT	sent	_	9	punct	_	_
+11	«	«	PUNCT	lquot	_	16	punct	_	SpaceAfter=No
+12	бала	бала	NOUN	n	_	14	nmod	_	_
+13	сыз	сыз	ADP	post	_	12	case	_	_
+14	өмірдің	өмір	NOUN	n	Case=Gen	15	nmod:poss	_	_
+15	қызығы	қызық	ADJ	adj	Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3	16	nsubj	_	_
+16	жоқ	жоқ	ADJ	adj	_	21	ccomp	_	_
+17	қой	ғой	PART	mod_ass	_	16	discourse	_	_
+18	»	»	PUNCT	rquot	_	16	punct	_	SpaceAfter=No
+19	,	,	PUNCT	cm	_	16	punct	_	_
+20	–	–	PUNCT	guio	_	16	punct	_	_
+21	деп	де	VERB	v	Aspect=Perf|VerbForm=Conv	24	advcl	_	_
+22	аузымен	ауыз	NOUN	n	Case=Ins|Number[psor]=Plur,Sing|Person[psor]=3	24	obl	_	_
+23	ғана	ғана	ADV	postadv	_	22	advmod	_	_
+24	айтушы	айт	VERB	v	Mood=Pot|VerbForm=Part	0	root	_	_
+25	еді	е	AUX	cop	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	24	cop	_	SpaceAfter=No
+26	.	.	PUNCT	sent	_	24	punct	_	_
 
 ~~~
 

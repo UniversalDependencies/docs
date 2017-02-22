@@ -6,12 +6,12 @@
 
 This relation is universal.
 
-3512 nodes (1%) are attached to their parents as `cop`.
+3132 nodes (1%) are attached to their parents as `cop`.
 
-3511 instances of `cop` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.49458997722096.
+3131 instances of `cop` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.49297573435504.
 
-The following 10 pairs of parts of speech are connected with `cop`: [hi-pos/NOUN]()-[hi-pos/VERB]() (2129; 61% instances), [hi-pos/ADJ]()-[hi-pos/VERB]() (1028; 29% instances), [hi-pos/PRON]()-[hi-pos/VERB]() (116; 3% instances), [hi-pos/PROPN]()-[hi-pos/VERB]() (114; 3% instances), [hi-pos/DET]()-[hi-pos/VERB]() (61; 2% instances), [hi-pos/NUM]()-[hi-pos/VERB]() (33; 1% instances), [hi-pos/ADV]()-[hi-pos/VERB]() (19; 1% instances), [hi-pos/VERB]()-[hi-pos/VERB]() (8; 0% instances), [hi-pos/X]()-[hi-pos/VERB]() (3; 0% instances), [hi-pos/SCONJ]()-[hi-pos/SCONJ]() (1; 0% instances).
+The following 10 pairs of parts of speech are connected with `cop`: [hi-pos/NOUN]()-[hi-pos/AUX]() (1904; 61% instances), [hi-pos/ADJ]()-[hi-pos/AUX]() (913; 29% instances), [hi-pos/PRON]()-[hi-pos/AUX]() (106; 3% instances), [hi-pos/PROPN]()-[hi-pos/AUX]() (99; 3% instances), [hi-pos/DET]()-[hi-pos/AUX]() (50; 2% instances), [hi-pos/NUM]()-[hi-pos/AUX]() (32; 1% instances), [hi-pos/ADV]()-[hi-pos/AUX]() (17; 1% instances), [hi-pos/VERB]()-[hi-pos/AUX]() (7; 0% instances), [hi-pos/X]()-[hi-pos/AUX]() (3; 0% instances), [hi-pos/SCONJ]()-[hi-pos/SCONJ]() (1; 0% instances).
 
 
 ~~~ conllu
@@ -30,7 +30,7 @@ The following 10 pairs of parts of speech are connected with `cop`: [hi-pos/NOUN
 8	के	के	ADP	PSP	AdpType=Post|Case=Acc|Gender=Masc	7	case	_	ChunkId=NP3|ChunkType=child|Translit=ke
 9	रूप	रूप	ADP	PSP	Case=Acc|Gender=Masc	7	case	_	ChunkId=NP3|ChunkType=child|Translit=rūpa
 10	में	में	ADP	PSP	AdpType=Post	7	case	_	ChunkId=NP3|ChunkType=child|Translit=meṁ
-11	है	है	VERB	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	cop	_	Vib=है|Tam=hE|ChunkId=VGF|ChunkType=head|Stype=declarative|Translit=hai
+11	है	है	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	cop	_	Vib=है|Tam=hE|ChunkId=VGF|ChunkType=head|Stype=declarative|Translit=hai
 12	।	।	PUNCT	SYM	_	7	punct	_	ChunkId=BLK|ChunkType=head|Translit=.
 
 ~~~
@@ -51,7 +51,7 @@ The following 10 pairs of parts of speech are connected with `cop`: [hi-pos/NOUN
 7	गुफाओं	गुफा	NOUN	NN	Case=Acc|Gender=Fem|Number=Plur|Person=3	9	nmod	_	Vib=0_से|Tam=0|ChunkId=NP4|ChunkType=head|Translit=guphāoṁ
 8	से	से	ADP	PSP	AdpType=Post	7	case	_	ChunkId=NP4|ChunkType=child|Translit=se
 9	प्रेरित	प्रेरित	ADJ	JJ	_	0	root	_	ChunkId=JJP|ChunkType=head|Translit=prerita
-10	है	है	VERB	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	cop	_	Vib=है|Tam=hE|ChunkId=VGF|ChunkType=head|Stype=declarative|Translit=hai
+10	है	है	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	cop	_	Vib=है|Tam=hE|ChunkId=VGF|ChunkType=head|Stype=declarative|Translit=hai
 11	।	।	PUNCT	SYM	_	9	punct	_	ChunkId=BLK|ChunkType=head|Translit=.
 
 ~~~
@@ -68,8 +68,8 @@ The following 10 pairs of parts of speech are connected with `cop`: [hi-pos/NOUN
 3	इतने	इतना	DET	QF	Gender=Masc|Number=Plur	4	det	_	ChunkId=JJP|ChunkType=child|Translit=itane
 4	बेहतर	बेहतर	ADJ	JJ	_	5	amod	_	ChunkId=JJP|ChunkType=head|Translit=behatara
 5	कभी	कभी	PRON	PRP	PronType=Prs	0	root	_	ChunkId=NP2|ChunkType=head|Translit=kabhī
-6	नहीं	नहीं	PART	NEG	Negative=Neg|PronType=Neg	7	neg	_	ChunkId=VGF|ChunkType=child|Translit=nahīṁ
-7	थे	था	VERB	VM	Gender=Masc|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	5	cop	_	Vib=था|Tam=WA|ChunkId=VGF|ChunkType=head|Stype=declarative|Translit=the
+6	नहीं	नहीं	PART	NEG	Polarity=Neg|PronType=Neg	7	advmod	_	ChunkId=VGF|ChunkType=child|Translit=nahīṁ
+7	थे	था	AUX	VM	Gender=Masc|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	5	cop	_	Vib=था|Tam=WA|ChunkId=VGF|ChunkType=head|Stype=declarative|Translit=the
 8	।	।	PUNCT	SYM	_	5	punct	_	ChunkId=BLK|ChunkType=head|Translit=.
 
 ~~~

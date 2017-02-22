@@ -6,37 +6,12 @@
 
 This relation is universal.
 
-1204 nodes (1%) are attached to their parents as `ccomp`.
+206 nodes (1%) are attached to their parents as `ccomp`.
 
-1189 instances of `ccomp` (99%) are left-to-right (parent precedes child).
-Average distance between parent and child is 6.54235880398671.
+195 instances of `ccomp` (95%) are left-to-right (parent precedes child).
+Average distance between parent and child is 6.06796116504854.
 
-The following 6 pairs of parts of speech are connected with `ccomp`: [et-pos/VERB]()-[et-pos/VERB]() (981; 81% instances), [et-pos/VERB]()-[et-pos/ADJ]() (122; 10% instances), [et-pos/VERB]()-[et-pos/NOUN]() (79; 7% instances), [et-pos/VERB]()-[et-pos/PRON]() (16; 1% instances), [et-pos/VERB]()-[et-pos/PROPN]() (5; 0% instances), [et-pos/NOUN]()-[et-pos/VERB]() (1; 0% instances).
-
-
-~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 7 ccomp	color:blue
-1	"	"	PUNCT	Z	_	3	punct	_	_
-2	Ma	mina	PRON	P	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
-3	usun	uskuma	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-4	,	,	PUNCT	Z	_	7	punct	_	_
-5	et	et	SCONJ	J	_	7	mark	_	_
-6	ta	tema	PRON	P	Case=Nom|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	_
-7	on	olema	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	ccomp	_	_
-8	kohe-kohe	kohe-kohe	ADV	D	_	7	advmod	_	_
-9	ärkamas	ärkama	VERB	V	Case=Ine|VerbForm=Sup|Voice=Act	7	xcomp	_	_
-10	,	,	PUNCT	Z	_	14	punct	_	_
-11	kui	kui	SCONJ	J	_	14	mark	_	_
-12	mitte	mitte	ADV	D	Negative=Neg	14	advmod	_	_
-13	juba	juba	ADV	D	_	14	advmod	_	_
-14	ärganud	ärkama	VERB	V	Tense=Past|VerbForm=Part|Voice=Act	7	advcl	_	_
-15	.	.	PUNCT	Z	_	3	punct	_	_
-
-~~~
+The following 9 pairs of parts of speech are connected with `ccomp`: [et-pos/VERB]()-[et-pos/VERB]() (147; 71% instances), [et-pos/VERB]()-[et-pos/ADJ]() (24; 12% instances), [et-pos/VERB]()-[et-pos/NOUN]() (18; 9% instances), [et-pos/VERB]()-[et-pos/PRON]() (7; 3% instances), [et-pos/VERB]()-[et-pos/PROPN]() (4; 2% instances), [et-pos/VERB]()-[et-pos/ADV]() (3; 1% instances), [et-pos/ADJ]()-[et-pos/ADV]() (1; 0% instances), [et-pos/ADJ]()-[et-pos/NOUN]() (1; 0% instances), [et-pos/ADJ]()-[et-pos/VERB]() (1; 0% instances).
 
 
 ~~~ conllu
@@ -45,30 +20,54 @@ The following 6 pairs of parts of speech are connected with `ccomp`: [et-pos/VER
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 8 ccomp	color:blue
-1	Ma	mina	PRON	P	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
-2	arvan	arvama	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-3	,	,	PUNCT	Z	_	8	punct	_	_
-4	et	et	SCONJ	J	_	8	mark	_	_
-5	see	see	PRON	P	Case=Nom|Number=Sing|PronType=Dem	8	nsubj:cop	_	_
-6	on	olema	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	cop	_	_
-7	Eestile	Eesti	PROPN	S	Case=All|Number=Sing	8	nmod	_	_
-8	kasulik	kasulik	ADJ	A	Case=Nom|Degree=Pos|Number=Sing	2	ccomp	_	_
+1	Indrikson	Indrikson	PROPN	S	Case=Nom|Number=Sing	2	nsubj	_	_
+2	teadis	teadma	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+3	ju	ju	ADV	D	_	2	advmod	_	SpaceAfter=No
+4	,	,	PUNCT	Z	_	8	punct	_	_
+5	millist	milline	DET	P	Case=Par|Number=Sing|PronType=Rel	6	det	_	_
+6	palka	palk	NOUN	S	Case=Par|Number=Sing	8	obj	_	_
+7	näitlejad	näitleja	NOUN	S	Case=Nom|Number=Plur	8	nsubj	_	_
+8	saavad	saama	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	ccomp	_	SpaceAfter=No
 9	.	.	PUNCT	Z	_	2	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 1 4 ccomp	color:blue
-1	Öeldakse	ütlema	VERB	V	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
-2	,	,	PUNCT	Z	_	4	punct	_	_
-3	et	et	SCONJ	J	_	4	mark	_	_
-4	kusepeatus	kuse_peatus	NOUN	S	Case=Nom|Number=Sing	1	ccomp	_	_
-5	.	.	PUNCT	Z	_	1	punct	_	_
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 10 ccomp	color:blue
+1	Ühel	üks	DET	P	Case=Ade|Number=Sing|PronType=Ind	2	det	_	_
+2	päeval	päev	NOUN	S	Case=Ade|Number=Sing	3	obl	_	_
+3	tundis	tundma	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+4	ka	ka	ADV	D	_	3	advmod	_	_
+5	meie	mina	PRON	P	Case=Gen|Number=Plur|Person=1|PronType=Prs	6	nmod:poss	_	_
+6	tibu	tibu	NOUN	S	Case=Nom|Number=Sing	3	nsubj	_	SpaceAfter=No
+7	,	,	PUNCT	Z	_	10	punct	_	_
+8	et	et	SCONJ	J	_	10	mark	_	_
+9	on	olema	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	cop	_	_
+10	haige	haige	ADJ	A	Case=Nom|Degree=Pos|Number=Sing	3	ccomp	_	SpaceAfter=No
+11	.	.	PUNCT	Z	_	3	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 6 ccomp	color:blue
+1	Mina	mina	PRON	P	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+2	vaatan	vaatama	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+3	,	,	PUNCT	Z	_	6	punct	_	_
+4	mis	mis	PRON	P	Case=Nom|Number=Sing|PronType=Rel	6	nsubj:cop	_	_
+5	minule	mina	PRON	P	Case=All|Number=Sing|Person=1|PronType=Prs	6	nmod	_	ManualCheck=Yes
+6	hea	hea	NOUN	S	Case=Nom|Number=Sing	2	ccomp	_	_
+7	on	olema	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	cop	_	SpaceAfter=No
+8	.	.	PUNCT	Z	_	2	punct	_	_
 
 ~~~
 

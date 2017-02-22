@@ -5,26 +5,23 @@
 ## Treebank Statistics (UD_Greek)
 
 This feature is universal.
-It occurs with 4 different values: `Card`, `Gen`, `Mult`, `Ord`.
+It occurs with 4 different values: `Card`, `Mult`, `Ord`, `Sets`.
 
-495 tokens (1%) have a non-empty value of `NumType`.
-116 types (1%) occur at least once with a non-empty value of `NumType`.
-66 lemmas (1%) occur at least once with a non-empty value of `NumType`.
-The feature is used with 1 part-of-speech tags: [el-pos/NUM]() (495; 1% instances).
+794 tokens (2%) have a non-empty value of `NumType`.
+312 types (3%) occur at least once with a non-empty value of `NumType`.
+264 lemmas (5%) occur at least once with a non-empty value of `NumType`.
+The feature is used with 1 part-of-speech tags: [el-pos/NUM]() (794; 2% instances).
 
 ### `NUM`
 
-495 [el-pos/NUM]() tokens (52% of all `NUM` tokens) have a non-empty value of `NumType`.
-
-The most frequent other feature values with which `NUM` and `NumType` co-occurred: <tt><a href="Number.html">Number</a>=Plur</tt> (277; 56%), <tt><a href="Case.html">Case</a>=Acc</tt> (262; 53%).
+794 [el-pos/NUM]() tokens (100% of all `NUM` tokens) have a non-empty value of `NumType`.
 
 `NUM` tokens may have the following values of `NumType`:
 
-* `Card` (297; 60% of non-empty `NumType`): <em>δύο, τρεις, πέντε, ένα, μία, έξι, δέκα, μια, τρία, έναν</em>
-* `Gen` (19; 4% of non-empty `NumType`): <em>δεκάδες, χιλιάδες, εκατοντάδες, χιλιάδων, διπλάσιο, εκατοντάδων</em>
-* `Mult` (3; 1% of non-empty `NumType`): <em>διπλή, διπλό</em>
-* `Ord` (176; 36% of non-empty `NumType`): <em>πρώτη, πρώτο, Β', δεύτερο, δεύτερη, πρώτες, τρίτη, πρώτης, πρώτος, δεύτερος</em>
-* `EMPTY` (451): <em>1, 15, 20, 3, 30, 80, 100, 16, 2, 10</em>
+* `Card` (624; 79% of non-empty `NumType`): <em>δύο, τρεις, 1, 30, 80, πέντε, 15, 16, 20, 100</em>
+* `Mult` (4; 1% of non-empty `NumType`): <em>διπλή, διπλάσιο, διπλό</em>
+* `Ord` (154; 19% of non-empty `NumType`): <em>πρώτη, πρώτο, Β', δεύτερη, δεύτερο, τρίτη, πρώτες, πρώτης, δεύτερος, πρώτος</em>
+* `Sets` (12; 2% of non-empty `NumType`): <em>χιλιάδες, δεκάδες, εκατοντάδες, χιλιάδων, εκατοντάδων</em>
 
 <table>
   <tr><th>Paradigm <i>ένας</i></th><th><tt>Card</tt></th><th><tt>Ord</tt></th></tr>
@@ -36,10 +33,11 @@ The most frequent other feature values with which `NUM` and `NumType` co-occurre
   <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Gender.html">Gender</a>=Neut</tt></td><td><em>ένα</em></td><td></td></tr>
 </table>
 
-`NumType` seems to be **lexical feature** of `NUM`. 98% lemmas (65) occur only with one value of `NumType`.
+`NumType` seems to be **lexical feature** of `NUM`. 100% lemmas (263) occur only with one value of `NumType`.
 
 ## Relations with Agreement in `NumType`
 
 The 10 most frequent relations where parent and child node agree in `NumType`:
-<tt>NUM --[<a href="../dep/conj.html">conj</a>]--> NUM</tt> (7; 100%).
+<tt>NUM --[<a href="../dep/conj.html">conj</a>]--> NUM</tt> (18; 100%),
+<tt>NUM --[<a href="../dep/nummod.html">nummod</a>]--> NUM</tt> (3; 100%).
 

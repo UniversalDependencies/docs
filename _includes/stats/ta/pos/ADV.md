@@ -11,7 +11,7 @@ The 10 most frequent `ADV` lemmas: ஆகு, இன்று, மேலும�
 
 The 10 most frequent `ADV` types:  ஆக, இன்று, மேலும், ஆனால், பின்னர், இதனால், இதுகுறித்து, ஏற்கெனவே, இதுவரை, எனவே
 
-The 10 most frequent ambiguous lemmas: ஆகு ([PART]() 40, [ADP]() 37, [ADV]() 29, [ADJ]() 11, [AUX]() 5, [VERB]() 1), இன்று ([ADV]() 18, [NOUN]() 3), ஆனால் ([ADV]() 13, [VERB]() 2), பின்னர் ([ADV]() 11, [NOUN]() 1, [ADP]() 1), இது ([PRON]() 30, [ADV]() 9, [ADJ]() 4, [NOUN]() 3), தொடர் ([ADV]() 7, [ADP]() 3, [VERB]() 2, [NOUN]() 1), ஆக ([PART]() 59, [ADV]() 6, [ADP]() 3), இணை ([ADV]() 5, [VERB]() 3, [NOUN]() 1), சேர் ([ADP]() 7, [NOUN]() 5, [ADV]() 5, [ADJ]() 4, [VERB]() 1), முறை ([NOUN]() 8, [ADV]() 5)
+The 10 most frequent ambiguous lemmas: ஆகு ([PART]() 40, [ADP]() 37, [ADV]() 29, [ADJ]() 11, [AUX]() 5, [VERB]() 1), இன்று ([ADV]() 18, [NOUN]() 3), ஆனால் ([ADV]() 13, [VERB]() 2), பின்னர் ([ADV]() 11, [NOUN]() 1, [ADP]() 1), இது ([PRON]() 30, [ADV]() 9, [ADJ]() 4, [NOUN]() 3), தொடர் ([ADV]() 7, [ADP]() 3, [VERB]() 2, [NOUN]() 1), ஆக ([PART]() 59, [ADV]() 6, [ADP]() 3), இணை ([ADV]() 5, [VERB]() 3, [NOUN]() 1), சேர் ([ADP]() 7, [ADV]() 5, [NOUN]() 5, [ADJ]() 4, [VERB]() 1), முறை ([NOUN]() 8, [ADV]() 5)
 
 The 10 most frequent ambiguous types:  ஆக ([PART]() 64, [ADP]() 35, [ADV]() 31), இன்று ([ADV]() 18, [NOUN]() 3), ஆனால் ([ADV]() 13, [VERB]() 2), பின்னர் ([ADV]() 10, [NOUN]() 1, [ADP]() 1), தொடர்ந்து ([ADV]() 7, [ADP]() 3, [VERB]() 2), இணைந்து ([ADV]() 5, [VERB]() 1), சேர்ந்து ([ADV]() 5, [VERB]() 1), இதில் ([ADV]() 4, [NOUN]() 2), அதற்கு ([ADV]() 3, [PRON]() 1), ஆகக் ([PART]() 5, [ADV]() 3, [ADP]() 2)
 
@@ -53,7 +53,7 @@ The 10 most frequent ambiguous types:  ஆக ([PART]() 64, [ADP]() 35, [ADV]() 
 
 ## Morphology
 
-The form / lemma ratio of `ADV` is 1.089041 (the average of all parts of speech is 1.557992).
+The form / lemma ratio of `ADV` is 1.089041 (the average of all parts of speech is 1.558463).
 
 The 1st highest number of forms (3) was observed with the lemma “ஆகு”: ஆக, ஆகக், ஆகப்.
 
@@ -80,7 +80,7 @@ Parents of `ADV` nodes belong to 7 different parts of speech: [VERB]() (304; 80%
 
 The highest child degree of a `ADV` node is 5.
 
-Children of `ADV` nodes are attached using 11 different relations: [ta-dep/nmod]() (44; 52% instances), [ta-dep/amod]() (11; 13% instances), [ta-dep/advcl]() (9; 11% instances), [ta-dep/advmod]() (9; 11% instances), [ta-dep/nsubj]() (4; 5% instances), [ta-dep/dobj]() (3; 4% instances), [ta-dep/advmod:emph]() (1; 1% instances), [ta-dep/appos]() (1; 1% instances), [ta-dep/aux]() (1; 1% instances), [ta-dep/mark]() (1; 1% instances), [ta-dep/nummod]() (1; 1% instances)
+Children of `ADV` nodes are attached using 13 different relations: [ta-dep/obl]() (36; 42% instances), [ta-dep/amod]() (11; 13% instances), [ta-dep/nmod]() (11; 13% instances), [ta-dep/advcl]() (9; 11% instances), [ta-dep/advmod]() (5; 6% instances), [ta-dep/nsubj]() (4; 5% instances), [ta-dep/obj]() (3; 4% instances), [ta-dep/advmod:emph]() (1; 1% instances), [ta-dep/appos]() (1; 1% instances), [ta-dep/aux]() (1; 1% instances), [ta-dep/det]() (1; 1% instances), [ta-dep/mark]() (1; 1% instances), [ta-dep/nummod]() (1; 1% instances)
 
-Children of `ADV` nodes belong to 9 different parts of speech: [NOUN]() (41; 48% instances), [ADJ]() (11; 13% instances), [VERB]() (9; 11% instances), [PRON]() (8; 9% instances), [ADV]() (5; 6% instances), [NUM]() (4; 5% instances), [PART]() (3; 4% instances), [PROPN]() (3; 4% instances), [AUX]() (1; 1% instances)
+Children of `ADV` nodes belong to 10 different parts of speech: [NOUN]() (41; 48% instances), [ADJ]() (11; 13% instances), [VERB]() (9; 11% instances), [PRON]() (6; 7% instances), [ADV]() (5; 6% instances), [NUM]() (4; 5% instances), [PART]() (3; 4% instances), [PROPN]() (3; 4% instances), [DET]() (2; 2% instances), [AUX]() (1; 1% instances)
 

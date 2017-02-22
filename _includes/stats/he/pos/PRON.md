@@ -4,83 +4,87 @@
 
 ## Treebank Statistics (UD_Hebrew)
 
-There are 1 `PRON` lemmas (6%), 58 `PRON` types (0%) and 7381 `PRON` tokens (5%).
+There are 22 `PRON` lemmas (0%), 58 `PRON` types (0%) and 6936 `PRON` tokens (5%).
 Out of 16 observed tags, the rank of `PRON` is: 11 in number of lemmas, 10 in number of types and 8 in number of tokens.
 
-The 10 most frequent `PRON` lemmas: _
+The 10 most frequent `PRON` lemmas: הוא, זה, זו, אלה, כך, זאת, עצמו, _, אלו, הללו
 
-The 10 most frequent `PRON` types:  הוא_, הם_, היא_, הוא, זה, זו, הם, כך, אלה, היא
+The 10 most frequent `PRON` types:  _הוא, _הם, _היא, הוא, זה, זו, הם, אלה, כך, היא
 
-The 10 most frequent ambiguous lemmas: _ ([NOUN]() 38249, [ADP]() 19884, [PUNCT]() 18302, [DET]() 17424, [VERB]() 15920, [ADJ]() 8032, [PROPN]() 7971, [PRON]() 7381, [ADV]() 6108, [CONJ]() 5656, [SCONJ]() 5168, [PART]() 4440, [NUM]() 3309, [AUX]() 843, [X]() 165, [INTJ]() 3)
+The 10 most frequent ambiguous lemmas: הוא ([PRON]() 5294, [VERB]() 373), כך ([PRON]() 189, [ADV]() 113, [PROPN]() 32), _ ([PUNCT]() 16916, [NUM]() 1759, [ADP]() 535, [NOUN]() 338, [VERB]() 248, [DET]() 229, [ADJ]() 187, [ADV]() 155, [PRON]() 129, [X]() 109, [CCONJ]() 102, [AUX]() 88, [SCONJ]() 47, [PROPN]() 24, [PART]() 17), איזה ([DET]() 10, [PRON]() 9, [ADV]() 3), שניים ([NUM]() 124, [PRON]() 8), מה ([ADV]() 163, [PRON]() 5), מי ([ADV]() 91, [PRON]() 3), הן ([ADV]() 21, [PRON]() 2), הנו ([VERB]() 4, [PRON]() 2), מישהו ([NOUN]() 13, [PRON]() 2)
 
-The 10 most frequent ambiguous types:  הוא ([PRON]() 554, [VERB]() 164), הם ([PRON]() 209, [VERB]() 49), כך ([PRON]() 205, [ADV]() 119, [PROPN]() 35), אלה ([PRON]() 204, [PROPN]() 5), היא ([PRON]() 198, [VERB]() 164), כן ([ADV]() 73, [PRON]() 51), הן ([PRON]() 48, [ADV]() 21, [VERB]() 17), אותו ([PART]() 100, [PRON]() 34), אותה ([PART]() 55, [PRON]() 32), אתה ([PRON]() 26, [ADP]() 3)
+The 10 most frequent ambiguous types:  הוא ([PRON]() 526, [VERB]() 155), הם ([PRON]() 199, [VERB]() 46), כך ([PRON]() 189, [ADV]() 113, [PROPN]() 34), היא ([PRON]() 184, [VERB]() 156), כן ([ADV]() 67, [PRON]() 48), הן ([PRON]() 46, [ADV]() 21, [VERB]() 16), אותו ([PRON]() 33, [PART]() 1), אותה ([PRON]() 26, [PART]() 6), אתה ([PRON]() 26, [ADP]() 3), אותם ([PRON]() 10, [PART]() 2)
 
 
 * הוא
-  * [PRON]() 554: כאן <b>הוא</b> גם נתקל ב ה_ הפגנה ה ראשונה נגד מלחמה ב ה_ מפרץ ה פרסי .
-  * [VERB]() 164: " גורג " <b>הוא</b> כמובן גורג בוש .
+  * [PRON]() 526: כאן <b>הוא</b> גם נתקל ב ה_ הפגנה ה ראשונה נגד מלחמה ב ה_ מפרץ ה פרסי .
+  * [VERB]() 155: " גורג " <b>הוא</b> כמובן גורג בוש .
 * הם
-  * [PRON]() 209: אבל כמובן , לאחר בדיקה קפדנית , מתברר ש זה בדיוק מה ש <b>הם</b> מיוחדים .
-  * [VERB]() 49: ה ניצחון היה לבסוף של מכבי , אולם שחקני גבת <b>הם</b> ה ראויים ל תשבוחות .
+  * [PRON]() 199: אבל כמובן , לאחר בדיקה קפדנית , מתברר ש זה בדיוק מה ש <b>הם</b> מיוחדים .
+  * [VERB]() 46: בעלי ה השקפה מן ה סוג ה שלישי <b>הם</b> מעטים .
 * כך
-  * [PRON]() 205: איש לא התכוון ל <b>כך</b> .
-  * [ADV]() 119: אכן , <b>כך</b> עשתה חטיבת " הראל " .
-  * [PROPN]() 35: גם יהודים נמצאים עתה על ה כוונת " אמרו אנשי <b>כך</b> ב עת מסע ה הלווייה .
-* אלה
-  * [PRON]() 204: לגבי אנשים <b>אלה</b> סדאם חוסיין הוא מטרד .
-  * [PROPN]() 5: הזמנו גם מנה של טלייריני <b>אלה</b> - מארינרה .
+  * [PRON]() 189: איש לא התכוון ל <b>כך</b> .
+  * [ADV]() 113: אכן , <b>כך</b> עשתה חטיבת " הראל " .
+  * [PROPN]() 34: גם יהודים נמצאים עתה על ה כוונת " אמרו אנשי <b>כך</b> ב עת מסע ה הלווייה .
 * היא
-  * [PRON]() 198: ב תחילה <b>היא</b> מצטיירת כמו כל מארגנת קהילתית אחרת .
-  * [VERB]() 164: איובה <b>היא</b> מקום לא - שגרתי .
+  * [PRON]() 184: ב תחילה <b>היא</b> מצטיירת כמו כל מארגנת קהילתית אחרת .
+  * [VERB]() 156: איובה <b>היא</b> מקום לא - שגרתי .
 * כן
-  * [ADV]() 73: ידוע ש ל כל טבח יש יום רע , ו על <b>כן</b> חזרתי ל ה_ מסעדה ב הזדמנות אחרת .
-  * [PRON]() 51: הרי כותב ה מאמר קובע , פסקה קודם ל ה_ <b>כן</b> , כי ה מנזר היה ריק מ מגינים .
+  * [ADV]() 67: ה צעירים הוכו ב ידי ה חיילים ו לאחר מ <b>כן</b> שוחררו .
+  * [PRON]() 48: הרי כותב ה מאמר קובע , פסקה קודם ל ה_ <b>כן</b> , כי ה מנזר היה ריק מ מגינים .
 * הן
-  * [PRON]() 48: ו אכן , <b>הן</b> כ תולדה ש יש בה היא_ משהו , אך ש אינה מוסיפה הרבה על ש היה .
+  * [PRON]() 46: נעשות שם עוד מאות סדרות ש <b>הן</b> ירודות ביותר , ו לכן ה השוואה אינה הוגנת " .
   * [ADV]() 21: נראה ש ל בנק איגוד יהיה הפסד <b>הן</b> ב תשעה ה חודשים ה ראשונים של 1990 , ו <b>הן</b> ב ה_ רבעון ה שלישי של ה שנה .
-  * [VERB]() 17: יש סימוכין ל ה_ דעה ש כיום אלו <b>הן</b> שתי ה בעיות ה דוחקות ביותר של ה עולם .
+  * [VERB]() 16: יש סימוכין ל ה_ דעה ש כיום אלו <b>הן</b> שתי ה בעיות ה דוחקות ביותר של ה עולם .
 * אותו
-  * [PART]() 100: בית משפט ב ליון דן <b>אותו</b> הוא_ ל ה_ מוות שלא ב פניו הוא_ .
-  * [PRON]() 34: הם ממשיכים לרכב על <b>אותו</b> גל ש הביא להם הם_ את ה הצלחה .
+  * [PRON]() 33: הם ממשיכים לרכב על <b>אותו</b> גל ש הביא להם _הם את ה הצלחה .
+  * [PART]() 1: בעוד ש ב מסלול ג צועדים מ שבעת ה מינים אל ארבעת ה מינים , ו ליד בריכת ה ערבות מבחינים בין צפצפה ל ערבה , ב מסלול ד עצים אלה הם מ מרכיבי גאון ה ירדן , ש <b>אותו</b> _הוא עברו בני ישראל .
 * אותה
-  * [PART]() 55: ה שאלה ש עמדה ב פניהם הם_ היתה היכן למקם <b>אותה</b> היא_ .
-  * [PRON]() 32: אנשים ב מרכז <b>אותה</b> תנועה מדגישים כי לא היתה זו מזימה של ה ימין .
+  * [PRON]() 26: אנשים ב מרכז <b>אותה</b> תנועה מדגישים כי לא היתה זו מזימה של ה ימין .
+  * [PART]() 6: אך ה תזה ה פוליטית ש <b>אותה</b> _היא בא שגב לאמת היא ש הכתיבה את __ _של_ _הוא .
 * אתה
   * [PRON]() 26: עת ל טוב ו עת ל רע : אינך יכול להגיע ל ה_ טוב , אם <b>אתה</b> לא מבער את ה רע .
-  * [ADP]() 3: הוא ציין , ש בריה"ם נותרה מעצמת על ה מציעה אפשרויות אדירות ל מי ש משתפים <b>אתה</b> היא_ פעולה .
+  * [ADP]() 3: הוא ציין , ש בריה"ם נותרה מעצמת על ה מציעה אפשרויות אדירות ל מי ש משתפים <b>אתה</b> _היא פעולה .
+* אותם
+  * [PRON]() 10: ב ה_ תקופה ש כיהנתי כ שר פנים חשפתי כמה מ <b>אותם</b> מקרים , ו ה אשמים הוענשו .
+  * [PART]() 2: היא מתמחה בעיקר ב יצירת תליונים , ש <b>אותם</b> _הם היא מכופפת ל צורה של סיכת עניבה .
 
 ## Morphology
 
-The form / lemma ratio of `PRON` is 58.000000 (the average of all parts of speech is 1226.125000).
+The form / lemma ratio of `PRON` is 2.636364 (the average of all parts of speech is 1.794643).
 
-The 1st highest number of forms (58) was observed with the lemma “_”: אותה, אותו, אותם, אותן, איזו, איזושהי, אילו, אלה, אלו, אנו, אנחנו, אנחנו_, אני, אני_, את, את_, אתה, אתה_, אתם, אתם_, הוא, הוא_, היא, היא_, הכול, הללו, הם, הם_, הן, הן_, הננו, זאת, זה, זהו, זו, זוהי, כך, כלשהו, כלשהי, כלשהם, כלשהן, כן, לה, מהו, מהם, מהן, מיהו, מיהם, מישהו, עצמה, עצמו, עצמי, עצמך, עצמם, עצמן, עצמנו, שניהם, שתיהן.
+The 1st highest number of forms (19) was observed with the lemma “הוא”: _אנחנו, _אני, _את, _אתה, _אתם, _הוא, _היא, _הם, _הן, אנו, אנחנו, אני, את, אתה, אתם, הוא, היא, הם, הן.
 
-`PRON` occurs with 7 features: [he-feat/Person]() (7362; 100% instances), [he-feat/PronType]() (7135; 97% instances), [he-feat/Gender]() (7125; 97% instances), [he-feat/Number]() (7125; 97% instances), [he-feat/Case]() (2688; 36% instances), [he-feat/Reflex]() (163; 2% instances), [he-feat/HebSource]() (59; 1% instances)
+The 2nd highest number of forms (12) was observed with the lemma “_”: אותה, אותו, אותם, אותן, אילו, הכול, הם, זה, כן, לה, מהם, מהן.
+
+The 3rd highest number of forms (7) was observed with the lemma “עצמו”: עצמה, עצמו, עצמי, עצמך, עצמם, עצמן, עצמנו.
+
+`PRON` occurs with 7 features: [he-feat/Person]() (6917; 100% instances), [he-feat/PronType]() (6706; 97% instances), [he-feat/Gender]() (6699; 97% instances), [he-feat/Number]() (6699; 97% instances), [he-feat/Case]() (2521; 36% instances), [he-feat/Reflex]() (156; 2% instances), [he-feat/HebSource]() (59; 1% instances)
 
 `PRON` occurs with 18 feature-value pairs: `Case=Acc`, `Case=Gen`, `Gender=Fem`, `Gender=Fem,Masc`, `Gender=Masc`, `HebSource=ConvUncertainHead`, `HebSource=ConvUncertainLabel`, `Number=Plur`, `Number=Plur,Sing`, `Number=Sing`, `Person=1`, `Person=2`, `Person=3`, `PronType=Dem`, `PronType=Ind`, `PronType=Int`, `PronType=Prs`, `Reflex=Yes`
 
 `PRON` occurs with 61 feature combinations.
-The most frequent feature combination is `Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs` (1348 tokens).
-Examples: הוא_
+The most frequent feature combination is `Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs` (1291 tokens).
+Examples: _הוא
 
 
 ## Relations
 
-`PRON` nodes are attached to their parents using 24 different relations: [he-dep/nmod:poss]() (2693; 36% instances), [he-dep/nsubj]() (1492; 20% instances), [he-dep/nmod]() (1196; 16% instances), [he-dep/amod]() (576; 8% instances), [he-dep/iobj]() (440; 6% instances), [he-dep/dobj]() (404; 5% instances), [he-dep/det]() (115; 2% instances), [he-dep/advmod]() (104; 1% instances), [he-dep/dep]() (97; 1% instances), [he-dep/mwe]() (52; 1% instances), [he-dep/conj]() (47; 1% instances), [he-dep/acl:relcl]() (36; 0% instances), [he-dep/root]() (34; 0% instances), [he-dep/parataxis]() (25; 0% instances), [he-dep/nmod:smixut]() (17; 0% instances), [he-dep/advcl]() (13; 0% instances), [he-dep/appos]() (12; 0% instances), [he-dep/cop]() (7; 0% instances), [he-dep/nsubj:cop]() (7; 0% instances), [he-dep/ccomp]() (5; 0% instances), [he-dep/acl]() (4; 0% instances), [he-dep/advmod:phrase]() (3; 0% instances), [he-dep/case]() (1; 0% instances), [he-dep/dislocated]() (1; 0% instances)
+`PRON` nodes are attached to their parents using 25 different relations: [he-dep/nmod:poss]() (2525; 36% instances), [he-dep/nsubj]() (1412; 20% instances), [he-dep/obl]() (809; 12% instances), [he-dep/amod]() (526; 8% instances), [he-dep/iobj]() (428; 6% instances), [he-dep/obj]() (380; 5% instances), [he-dep/nmod]() (298; 4% instances), [he-dep/det]() (107; 2% instances), [he-dep/advmod]() (99; 1% instances), [he-dep/dep]() (97; 1% instances), [he-dep/fixed]() (49; 1% instances), [he-dep/conj]() (47; 1% instances), [he-dep/acl:relcl]() (34; 0% instances), [he-dep/root]() (34; 0% instances), [he-dep/parataxis]() (22; 0% instances), [he-dep/compound:smixut]() (16; 0% instances), [he-dep/advcl]() (13; 0% instances), [he-dep/appos]() (12; 0% instances), [he-dep/cop]() (7; 0% instances), [he-dep/nsubj:cop]() (7; 0% instances), [he-dep/ccomp]() (5; 0% instances), [he-dep/acl]() (4; 0% instances), [he-dep/advmod:phrase]() (3; 0% instances), [he-dep/case]() (1; 0% instances), [he-dep/dislocated]() (1; 0% instances)
 
-Parents of `PRON` nodes belong to 14 different parts of speech: [NOUN]() (4101; 56% instances), [VERB]() (2756; 37% instances), [AUX]() (155; 2% instances), [ADJ]() (152; 2% instances), [ADV]() (52; 1% instances), [PROPN]() (42; 1% instances), [PRON]() (37; 1% instances), [ROOT]() (34; 0% instances), [ADP]() (26; 0% instances), [NUM]() (10; 0% instances), [CONJ]() (6; 0% instances), [SCONJ]() (5; 0% instances), [DET]() (3; 0% instances), [X]() (2; 0% instances)
+Parents of `PRON` nodes belong to 14 different parts of speech: [NOUN]() (3834; 55% instances), [VERB]() (2597; 37% instances), [AUX]() (152; 2% instances), [ADJ]() (146; 2% instances), [ADV]() (47; 1% instances), [PROPN]() (40; 1% instances), [PRON]() (37; 1% instances), [ROOT]() (34; 0% instances), [ADP]() (24; 0% instances), [NUM]() (10; 0% instances), [CCONJ]() (5; 0% instances), [SCONJ]() (5; 0% instances), [DET]() (3; 0% instances), [X]() (2; 0% instances)
 
-4786 (65%) `PRON` nodes are leaves.
+2133 (31%) `PRON` nodes are leaves.
 
-2120 (29%) `PRON` nodes have one child.
+4347 (63%) `PRON` nodes have one child.
 
-319 (4%) `PRON` nodes have two children.
+296 (4%) `PRON` nodes have two children.
 
-156 (2%) `PRON` nodes have three or more children.
+160 (2%) `PRON` nodes have three or more children.
 
 The highest child degree of a `PRON` node is 9.
 
-Children of `PRON` nodes are attached using 33 different relations: [he-dep/case]() (1805; 54% instances), [he-dep/case:acc]() (300; 9% instances), [he-dep/case:gen]() (241; 7% instances), [he-dep/det:def]() (209; 6% instances), [he-dep/det]() (119; 4% instances), [he-dep/punct]() (114; 3% instances), [he-dep/acl:relcl]() (111; 3% instances), [he-dep/dep]() (88; 3% instances), [he-dep/nsubj]() (72; 2% instances), [he-dep/mark]() (52; 2% instances), [he-dep/conj]() (45; 1% instances), [he-dep/cc]() (33; 1% instances), [he-dep/nmod]() (30; 1% instances), [he-dep/advmod]() (24; 1% instances), [he-dep/mwe]() (17; 1% instances), [he-dep/nmod:poss]() (14; 0% instances), [he-dep/xcomp]() (14; 0% instances), [he-dep/cop]() (8; 0% instances), [he-dep/nsubj:cop]() (8; 0% instances), [he-dep/advcl]() (7; 0% instances), [he-dep/acl]() (6; 0% instances), [he-dep/appos]() (6; 0% instances), [he-dep/aux]() (6; 0% instances), [he-dep/neg]() (6; 0% instances), [he-dep/ccomp]() (2; 0% instances), [he-dep/dobj]() (2; 0% instances), [he-dep/nummod]() (2; 0% instances), [he-dep/parataxis]() (2; 0% instances), [he-dep/amod]() (1; 0% instances), [he-dep/aux:q]() (1; 0% instances), [he-dep/conj:discourse]() (1; 0% instances), [he-dep/det:quant]() (1; 0% instances), [he-dep/dislocated]() (1; 0% instances)
+Children of `PRON` nodes are attached using 32 different relations: [he-dep/case:gen]() (2585; 47% instances), [he-dep/case]() (1698; 31% instances), [he-dep/case:acc]() (283; 5% instances), [he-dep/det:def]() (197; 4% instances), [he-dep/det]() (120; 2% instances), [he-dep/punct]() (112; 2% instances), [he-dep/acl:relcl]() (106; 2% instances), [he-dep/dep]() (86; 2% instances), [he-dep/nsubj]() (70; 1% instances), [he-dep/mark]() (50; 1% instances), [he-dep/conj]() (43; 1% instances), [he-dep/cc]() (41; 1% instances), [he-dep/nmod]() (30; 1% instances), [he-dep/advmod]() (24; 0% instances), [he-dep/fixed]() (15; 0% instances), [he-dep/nmod:poss]() (14; 0% instances), [he-dep/xcomp]() (14; 0% instances), [he-dep/cop]() (8; 0% instances), [he-dep/nsubj:cop]() (8; 0% instances), [he-dep/advcl]() (7; 0% instances), [he-dep/acl]() (6; 0% instances), [he-dep/appos]() (6; 0% instances), [he-dep/aux]() (6; 0% instances), [he-dep/ccomp]() (2; 0% instances), [he-dep/nummod]() (2; 0% instances), [he-dep/obj]() (2; 0% instances), [he-dep/parataxis]() (2; 0% instances), [he-dep/amod]() (1; 0% instances), [he-dep/aux:q]() (1; 0% instances), [he-dep/conj:discourse]() (1; 0% instances), [he-dep/det:quant]() (1; 0% instances), [he-dep/dislocated]() (1; 0% instances)
 
-Children of `PRON` nodes belong to 14 different parts of speech: [ADP]() (1783; 53% instances), [PART]() (550; 16% instances), [DET]() (236; 7% instances), [VERB]() (149; 4% instances), [NOUN]() (142; 4% instances), [ADV]() (124; 4% instances), [PUNCT]() (116; 3% instances), [CONJ]() (68; 2% instances), [SCONJ]() (62; 2% instances), [PRON]() (37; 1% instances), [NUM]() (29; 1% instances), [ADJ]() (24; 1% instances), [PROPN]() (19; 1% instances), [AUX]() (9; 0% instances)
+Children of `PRON` nodes belong to 14 different parts of speech: [ADP]() (4234; 76% instances), [PART]() (316; 6% instances), [DET]() (223; 4% instances), [VERB]() (146; 3% instances), [NOUN]() (137; 2% instances), [ADV]() (119; 2% instances), [PUNCT]() (114; 2% instances), [CCONJ]() (70; 1% instances), [SCONJ]() (68; 1% instances), [PRON]() (37; 1% instances), [NUM]() (29; 1% instances), [ADJ]() (23; 0% instances), [PROPN]() (19; 0% instances), [AUX]() (7; 0% instances)
 

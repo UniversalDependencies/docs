@@ -6,12 +6,12 @@
 
 This relation is universal.
 
-2202 nodes (2%) are attached to their parents as `cop`.
+1740 nodes (2%) are attached to their parents as `cop`.
 
-2150 instances of `cop` (98%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.8819255222525.
+1698 instances of `cop` (98%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.89540229885057.
 
-The following 20 pairs of parts of speech are connected with `cop`: [gl-pos/VERB]()-[gl-pos/ADJ]() (817; 37% instances), [gl-pos/VERB]()-[gl-pos/NOUN]() (585; 27% instances), [gl-pos/VERB]()-[gl-pos/VERB]() (503; 23% instances), [gl-pos/VERB]()-[gl-pos/ADP]() (168; 8% instances), [gl-pos/VERB]()-[gl-pos/PRON]() (56; 3% instances), [gl-pos/VERB]()-[gl-pos/ADV]() (17; 1% instances), [gl-pos/VERB]()-[gl-pos/PROPN]() (11; 0% instances), [gl-pos/VERB]()-[gl-pos/SCONJ]() (11; 0% instances), [gl-pos/VERB]()-[gl-pos/NUM]() (8; 0% instances), [gl-pos/VERB]()-[gl-pos/DET]() (6; 0% instances), [gl-pos/NOUN]()-[gl-pos/PRON]() (4; 0% instances), [gl-pos/PRON]()-[gl-pos/PRON]() (4; 0% instances), [gl-pos/PROPN]()-[gl-pos/PRON]() (2; 0% instances), [gl-pos/PUNCT]()-[gl-pos/NUM]() (2; 0% instances), [gl-pos/PUNCT]()-[gl-pos/PRON]() (2; 0% instances), [gl-pos/PUNCT]()-[gl-pos/PROPN]() (2; 0% instances), [gl-pos/ADJ]()-[gl-pos/PRON]() (1; 0% instances), [gl-pos/NOUN]()-[gl-pos/ADJ]() (1; 0% instances), [gl-pos/NUM]()-[gl-pos/SYM]() (1; 0% instances), [gl-pos/PUNCT]()-[gl-pos/NOUN]() (1; 0% instances).
+The following 20 pairs of parts of speech are connected with `cop`: [gl-pos/VERB]()-[gl-pos/ADJ]() (642; 37% instances), [gl-pos/VERB]()-[gl-pos/NOUN]() (460; 26% instances), [gl-pos/VERB]()-[gl-pos/VERB]() (397; 23% instances), [gl-pos/VERB]()-[gl-pos/ADP]() (134; 8% instances), [gl-pos/VERB]()-[gl-pos/PRON]() (47; 3% instances), [gl-pos/VERB]()-[gl-pos/ADV]() (15; 1% instances), [gl-pos/VERB]()-[gl-pos/PROPN]() (8; 0% instances), [gl-pos/VERB]()-[gl-pos/SCONJ]() (7; 0% instances), [gl-pos/VERB]()-[gl-pos/DET]() (6; 0% instances), [gl-pos/VERB]()-[gl-pos/NUM]() (5; 0% instances), [gl-pos/NOUN]()-[gl-pos/PRON]() (4; 0% instances), [gl-pos/PRON]()-[gl-pos/PRON]() (4; 0% instances), [gl-pos/PUNCT]()-[gl-pos/NUM]() (2; 0% instances), [gl-pos/PUNCT]()-[gl-pos/PRON]() (2; 0% instances), [gl-pos/PUNCT]()-[gl-pos/PROPN]() (2; 0% instances), [gl-pos/ADJ]()-[gl-pos/PRON]() (1; 0% instances), [gl-pos/NOUN]()-[gl-pos/ADJ]() (1; 0% instances), [gl-pos/NUM]()-[gl-pos/SYM]() (1; 0% instances), [gl-pos/PROPN]()-[gl-pos/PRON]() (1; 0% instances), [gl-pos/PUNCT]()-[gl-pos/NOUN]() (1; 0% instances).
 
 
 ~~~ conllu
@@ -117,12 +117,34 @@ The following 20 pairs of parts of speech are connected with `cop`: [gl-pos/VERB
 
 This relation is universal.
 
-416 nodes (2%) are attached to their parents as `cop`.
+252 nodes (2%) are attached to their parents as `cop`.
 
-353 instances of `cop` (85%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.98798076923077.
+215 instances of `cop` (85%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.8968253968254.
 
-The following 10 pairs of parts of speech are connected with `cop`: [gl-pos/NOUN]()-[gl-pos/VERB]() (148; 36% instances), [gl-pos/ADJ]()-[gl-pos/VERB]() (120; 29% instances), [gl-pos/VERB]()-[gl-pos/VERB]() (61; 15% instances), [gl-pos/PRON]()-[gl-pos/VERB]() (51; 12% instances), [gl-pos/ADV]()-[gl-pos/VERB]() (23; 6% instances), [gl-pos/NOUN]()-[gl-pos/ADV]() (5; 1% instances), [gl-pos/PROPN]()-[gl-pos/VERB]() (3; 1% instances), [gl-pos/NUM]()-[gl-pos/VERB]() (2; 0% instances), [gl-pos/PROPN]()-[gl-pos/ADV]() (2; 0% instances), [gl-pos/ADP]()-[gl-pos/VERB]() (1; 0% instances).
+The following 8 pairs of parts of speech are connected with `cop`: [gl-pos/NOUN]()-[gl-pos/AUX]() (92; 37% instances), [gl-pos/ADJ]()-[gl-pos/AUX]() (78; 31% instances), [gl-pos/PRON]()-[gl-pos/AUX]() (38; 15% instances), [gl-pos/VERB]()-[gl-pos/AUX]() (26; 10% instances), [gl-pos/ADV]()-[gl-pos/AUX]() (11; 4% instances), [gl-pos/ADP]()-[gl-pos/AUX]() (3; 1% instances), [gl-pos/PROPN]()-[gl-pos/AUX]() (3; 1% instances), [gl-pos/NUM]()-[gl-pos/AUX]() (1; 0% instances).
+
+
+~~~ conllu
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 10 9 cop	color:blue
+1	"	"	PUNCT	Q"	_	10	punct	_	SpaceAfter=No
+2	A	o	DET	Ddfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	cultura	cultura	NOUN	Scfs	Gender=Fem|Number=Sing	10	nsubj	_	_
+4	subsidiada	subsidiado	ADJ	A0fs	Gender=Fem|Number=Sing	3	amod	_	_
+5	_	_	PUNCT	Q_	_	6	punct	_	SpaceAfter=No
+6	di	dicir	VERB	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	parataxis	_	SpaceAfter=No
+7	_	_	PUNCT	Q_	_	6	punct	_	_
+8	non	non	ADV	Wn	Polarity=Neg	10	advmod	_	_
+9	é	ser	AUX	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	_
+10	cultura	cultura	NOUN	Scfs	Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
+11	"	"	PUNCT	Q"	_	10	punct	_	SpaceAfter=No
+12	.	.	PUNCT	Q.	_	10	punct	_	_
+
+~~~
 
 
 ~~~ conllu
@@ -131,58 +153,39 @@ The following 10 pairs of parts of speech are connected with `cop`: [gl-pos/NOUN
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 3 cop	color:blue
-1	discutir	discutir	VERB	V0f000	VerbForm=Inf	0	root	_	_
-2	que	que	PRON	Gnms	Gender=Masc|Number=Sing|PronType=Int	5	nsubj	_	_
-3	é	ser	VERB	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
-4	un	un	DET	Dims	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
-5	clásico	clásico	NOUN	Scms	Gender=Masc|Number=Sing	1	ccomp	_	_
-6	.	.	PUNCT	Q.	_	1	punct	_	_
+1	A	o	DET	Ddfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	administración	administración	NOUN	Scfs	Gender=Fem|Number=Sing	5	nsubj	_	_
+3	é	ser	AUX	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+4	a	o	DET	Ddfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	única	único	ADJ	A0fs	Gender=Fem|Number=Sing	0	root	_	_
+6	que	que	PRON	Tnfs	Gender=Fem|Number=Sing|PronType=Rel	8	nsubj	_	_
+7	se	se	PRON	Rao3aa	Clitic=Yes|Gender=Com|Person=3|PronType=Prs	8	expl	_	_
+8	libra	librar	VERB	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	acl	_	SpaceAfter=No
+9	"	"	PUNCT	Q"	_	5	punct	_	SpaceAfter=No
+10	.	.	PUNCT	Q.	_	5	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
-# visual-style 13	bgColor:blue
-# visual-style 13	fgColor:white
-# visual-style 13 8 cop	color:blue
-1	de	de	ADP	P	AdpType=Prep	3	case	_	_
-2	todos	todo	DET	Idmp	Gender=Masc|Number=Plur|PronType=Ind	3	det	_	_
-3	modos	modo	NOUN	Scmp	Gender=Masc|Number=Plur	13	nmod	_	_
-4	,	,	PUNCT	Q,	_	13	punct	_	_
-5	o	o	DET	Ddms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
-6	meu	meu	DET	Md1sms	Gender=Masc|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes	7	det	_	_
-7	público	público	NOUN	Scms	Gender=Masc|Number=Sing	13	nsubj	_	_
-8	é	ser	VERB	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	cop	_	_
-9	,	,	PUNCT	Q,	_	13	punct	_	_
-10	sobre	sobre	ADP	P	AdpType=Prep	11	case	_	_
-11	todo	todo	PRON	Inms	Gender=Masc|Number=Sing|PronType=Ind	13	nmod	_	_
-12	,	,	PUNCT	Q,	_	13	punct	_	_
-13	xuvenil	xuvenil	ADJ	A0ms	Gender=Masc|Number=Sing	0	root	_	_
-14	.	.	PUNCT	Q.	_	13	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 9 8 cop	color:blue
-1	esa	ese	DET	Edfs	Gender=Fem|Number=Sing|PronType=Dem	2	det	_	_
-2	compañía	compañía	NOUN	Scfs	Gender=Fem|Number=Sing	3	nsubj	_	_
-3	di	dicir	VERB	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-4	que	que	SCONJ	Cs	_	9	mark	_	_
-5	a	o	DET	Ddfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
-6	única	único	ADJ	A0fs	Gender=Fem|Number=Sing	7	amod	_	_
-7	saída	saída	NOUN	Scfs	Gender=Fem|Number=Sing	9	nsubj	_	_
-8	é	ser	VERB	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	_
-9	continuar	continuar	VERB	V0f000	VerbForm=Inf	3	ccomp	_	_
-10	onde	onde	ADV	Wr	PronType=Rel	9	advcl	_	_
-11	está	estar	VERB	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	_
-12	.	.	PUNCT	Q.	_	3	punct	_	_
+# visual-style 8 7 cop	color:blue
+1	Dicía	dicir	VERB	Vii30s	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+2	Jean	jean	PROPN	Spm0	Gender=Masc	1	nsubj	_	_
+3	Cocteau	cocteau	PROPN	Spm0	Gender=Masc	2	flat:name	_	_
+4	que	que	SCONJ	Cs	_	10	mark	_	_
+5	a	o	DET	Ddfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	moda	moda	NOUN	Scfs	Gender=Fem|Number=Sing	8	nsubj	_	_
+7	é	ser	AUX	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_
+8	o	o	PRON	Ddms	Gender=Masc|Number=Sing|Person=3|PronType=Art	1	ccomp	_	_
+9	que	que	PRON	Tnms	Gender=Masc|Number=Sing|PronType=Rel	10	nsubj	_	_
+10	pasa	pasar	VERB	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	acl	_	_
+11	de	de	ADP	P	AdpType=Prep	12	case	_	_
+12	moda	moda	NOUN	Scfs	Gender=Fem|Number=Sing	10	obl	_	SpaceAfter=No
+13	.	.	PUNCT	Q.	_	1	punct	_	_
 
 ~~~
 

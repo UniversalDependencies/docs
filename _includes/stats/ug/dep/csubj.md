@@ -6,87 +6,94 @@
 
 This relation is universal.
 
-13 nodes (0%) are attached to their parents as `csubj`.
+5 nodes (0%) are attached to their parents as `csubj`.
 
-13 instances of `csubj` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.
+5 instances of `csubj` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 6.
 
-The following 5 pairs of parts of speech are connected with `csubj`: [ug-pos/ADJ]()-[ug-pos/VERB]() (6; 46% instances), [ug-pos/VERB]()-[ug-pos/VERB]() (3; 23% instances), [ug-pos/NOUN]()-[ug-pos/VERB]() (2; 15% instances), [ug-pos/ADJ]()-[ug-pos/NOUN]() (1; 8% instances), [ug-pos/VERB]()-[ug-pos/NOUN]() (1; 8% instances).
+The following 3 pairs of parts of speech are connected with `csubj`: [ug-pos/ADJ]()-[ug-pos/VERB]() (3; 60% instances), [ug-pos/PRON]()-[ug-pos/VERB]() (1; 20% instances), [ug-pos/VERB]()-[ug-pos/VERB]() (1; 20% instances).
 
 
 ~~~ conllu
+# visual-style 14	bgColor:blue
+# visual-style 14	fgColor:white
+# visual-style 15	bgColor:blue
+# visual-style 15	fgColor:white
+# visual-style 15 14 csubj	color:blue
+1	مېنىڭ	_	PRON	P	_	3	nmod:poss	_	Translit=mëning
+2	بۇ	_	PRON	P	_	3	det	_	Translit=bu
+3	ھەرىكەتلىرىم	_	NOUN	N	_	14	nsubj	_	Translit=heriketlirim
+4	تاكى	_	ADP	R	_	13	cc	_	Translit=taki
+5	سېنىڭ	_	PRON	P	_	7	nmod:poss	_	Translit=sëning
+6	روھ	_	NOUN	N	_	7	nmod	_	Translit=roh
+7	قۇشۇڭ	_	NOUN	N	_	13	nsubj	_	Translit=qushung
+8	تەن	_	NOUN	N	_	9	nmod	_	Translit=ten
+9	قەسرىڭدىن	_	NOUN	N	_	13	obl	_	Translit=qesringdin
+10	پەرۋاز	_	NOUN	N	_	11	compound	_	Translit=perwaz
+11	قىلىپ	_	VERB	V	_	13	advcl	_	Translit=qilip
+12	چىقىپ	_	VERB	V	_	13	compound:lvc	_	Translit=chiqip
+13	كەتكىچە	_	VERB	V	_	14	advcl	_	Translit=ketkiche
+14	داۋاملىشىشى	_	VERB	V	_	15	csubj	_	Translit=dawamlishishi
+15	مۇمكىن	_	ADJ	A	_	0	root	_	SpaceAfter=No|Translit=mumkin
+16	.	_	PUNCT	Y	_	15	punct	_	Translit=.
+
+~~~
+
+
+~~~ conllu
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 20	bgColor:blue
+# visual-style 20	fgColor:white
+# visual-style 20 3 csubj	color:blue
+1	بۇرۇتلارنىڭ	_	NOUN	N	_	3	nsubj	_	Translit=burutlarning
+2	خەت	_	NOUN	N	_	3	compound	_	Translit=xet
+3	تارتىپ	_	VERB	V	_	20	csubj	_	Translit=tartip
+4	قېلىشى	_	AUX	V	_	3	aux	_	SpaceAfter=No|Translit=qëlishi
+5	،	_	PUNCT	Y	_	4	punct	_	Translit=,
+6	قىزلىق	_	NOUN	N	_	7	amod	_	Translit=qizliq
+7	زىنىخلارنىڭ	_	NOUN	N	_	9	nsubj	_	Translit=zinixlarning
+8	پەيدا	_	NOUN	N	_	9	compound	_	Translit=peyda
+9	بولۇپ	_	VERB	V	_	3	conj	_	Translit=bolup
+10	قېلىشى	_	AUX	V	_	9	aux	_	Translit=qëlishi
+11	بىزنىڭ	_	PRON	P	_	17	nmod:poss	_	Translit=bizning
+12	بىر	_	NUM	M	_	13	nummod	_	Translit=bir
+13	ھالەتتىن	_	NOUN	N	_	17	obl	_	Translit=halettin
+14	يەنە	_	ADV	D	_	15	advmod	_	Translit=yene
+15	بىر	_	NUM	M	_	16	nummod	_	Translit=bir
+16	ھالەتكە	_	NOUN	N	_	17	obl	_	Translit=haletke
+17	ئۆتۈۋاتقانلىقىمىزدىن	_	VERB	V	_	20	obl	_	Translit=ötüwatqanliqimizdin
+18	ئۈنسىز	_	ADJ	A	_	20	advmod	_	Translit=ünsiz
+19	بېشارەت	_	NOUN	N	_	20	compound	_	Translit=bësharet
+20	بېرەتتى	_	VERB	V	_	0	root	_	SpaceAfter=No|Translit=bëretti
+21	.	_	PUNCT	Y	_	20	punct	_	Translit=.
+
+~~~
+
+
+~~~ conllu
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 5 csubj	color:blue
-1	بەلكىم	_	PART	T	_	5	mark	_	Translit=belkim
-2	ئۇ	_	PRON	P	_	5	nsubj	_	Translit=u
-3	ئاسماندىن	_	NOUN	N	_	5	nmod	_	Translit=asmandin
-4	چۈشكەن	_	VERB	V	_	5	compound	_	Translit=chüshken
-5	بولۇشى	_	VERB	V	_	6	csubj	_	Translit=bolushi
-6	مۇمكىن	_	ADJ	A	_	0	root	_	Translit=mumkin
-7	!	_	PUNCT	Y	_	6	punct	_	Translit=!
-
-~~~
-
-
-~~~ conllu
-# visual-style 11	bgColor:blue
-# visual-style 11	fgColor:white
-# visual-style 12	bgColor:blue
-# visual-style 12	fgColor:white
-# visual-style 12 11 csubj	color:blue
-1	سىز	_	PRON	P	_	21	discourse	_	Translit=siz
-2	.	_	PUNCT	V	_	1	punct	_	Translit=.
-3	.	_	PUNCT	V	_	1	punct	_	Translit=.
-4	.	_	PUNCT	Y	_	1	punct	_	Translit=.
-5	؟	_	PUNCT	Y	_	1	punct	_	Translit=?
-6	-	_	PUNCT	Y	_	1	punct	_	Translit=-
-7	مويسىپىت	_	ADJ	A	_	21	nsubj	_	Translit=moysipit
-8	يول	_	NOUN	N	_	9	nmod:poss	_	Translit=yol
-9	ئازابىنى	_	NOUN	N	_	11	dobj	_	Translit=azabini
-10	يەتكۈچە	_	VERB	V	_	11	advmod	_	Translit=yetküche
-11	تارتقانلىقى	_	VERB	V	_	12	csubj	_	Translit=tartqanliqi
-12	بىلىنىپ	_	VERB	V	_	15	acl	_	Translit=bilinip
-13	تۇرغان	_	VERB	V	_	12	aux	_	Translit=turghan
-14	بۇ	_	PRON	P	_	15	det	_	Translit=bu
-15	يىگىتنىڭ	_	NOUN	N	_	19	nsubj	_	Translit=yigitning
-16	بىر	_	NUM	M	_	17	compound	_	Translit=bir
-17	قاراپلا	_	VERB	V	_	19	advmod	_	Translit=qarapla
-18	ئۆزىنى	_	PRON	P	_	19	dobj	_	Translit=özini
-19	تونۇۋالغانلىقىغا	_	VERB	V	_	21	nmod	_	Translit=tonuwalghanliqigha
-20	سەل	_	ADV	D	_	21	advmod	_	Translit=sel
-21	ئەجەبلىنىدۇ	_	VERB	V	_	0	root	_	Translit=ejeblinidu
-22	.	_	PUNCT	Y	_	21	punct	_	Translit=.
-
-~~~
-
-
-~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 10 6 csubj	color:blue
-1	كۇڭزى	_	NOUN	N	_	15	nsubj	_	Translit=kungzi
-2	:	_	PUNCT	Y	_	1	punct	_	Translit=:
-3	«	_	PUNCT	Y	_	1	punct	_	Translit=«
-4	مېنىڭ	_	PRON	P	_	6	nmod	_	Translit=mëning
-5	ئۇستاز	_	NOUN	N	_	6	nsubj	_	Translit=ustaz
-6	تۇتماقچى	_	VERB	V	_	10	csubj	_	Translit=tutmaqchi
-7	بولغىنىم	_	VERB	V	_	6	cop	_	Translit=bolghinim
-8	دەل	_	ADV	D	_	9	advmod:emph	_	Translit=del
-9	مۇشۇ	_	PRON	P	_	10	det	_	Translit=mushu
-10	كىشىدەك	_	NOUN	N	_	14	ccomp	_	Translit=kishidek
-11	قىلىدۇ	_	VERB	V	_	10	cop	_	Translit=qilidu
-12	!	_	PUNCT	V	_	11	punct	_	Translit=!
-13	»	_	PUNCT	Y	_	11	punct	_	Translit=»
-14	دەپ	_	VERB	V	_	15	advcl	_	Translit=dep
-15	ئويلايدۇ	_	VERB	V	_	0	root	_	Translit=oylaydu
-16	-	_	PUNCT	Y	_	15	punct	_	Translit=-
-17	دە	_	PART	T	_	15	mark	_	Translit=de
-18	،	_	PUNCT	Y	_	17	punct	_	Translit=,
+# visual-style 5 4 csubj	color:blue
+1	بۇ	_	PRON	P	_	2	det	_	Translit=bu
+2	تور	_	NOUN	N	_	3	nmod:poss	_	Translit=tor
+3	ئىچىدە	_	NOUN	N	_	4	obl	_	Translit=ichide
+4	ياشاش	_	VERB	V	_	5	csubj	_	Translit=yashash
+5	مەن	_	PRON	P	_	15	parataxis	_	Translit=men
+6	ئۈچۈن	_	CCONJ	C	_	5	case	_	Translit=üchün
+7	قانچىلىك	_	PRON	P	_	5	advmod	_	Translit=qanchilik
+8	ئازابلىق	_	ADJ	A	_	5	flat	_	Translit=azabliq
+9	بولسا	_	AUX	V	_	5	cop	_	Translit=bolsa
+10	بۇ	_	PRON	P	_	11	det	_	Translit=bu
+11	توردىن	_	NOUN	N	_	13	obl	_	Translit=tordin
+12	ئازاد	_	ADJ	A	_	13	compound	_	Translit=azad
+13	بولۇش	_	VERB	V	_	15	csubj	_	Translit=bolush
+14	ئۇنىڭدىنمۇ	_	PRON	P	_	15	nmod:comp	_	Translit=uningdinmu
+15	قورقۇنچلۇق	_	ADJ	A	_	0	root	_	Translit=qorqunchluq
+16	ئىدى	_	AUX	V	_	15	cop	_	SpaceAfter=No|Translit=idi
+17	.	_	PUNCT	Y	_	16	punct	_	Translit=.
 
 ~~~
 

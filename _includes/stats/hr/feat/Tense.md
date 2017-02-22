@@ -7,74 +7,106 @@
 This feature is universal.
 It occurs with 3 different values: `Imp`, `Past`, `Pres`.
 
-12991 tokens (9%) have a non-empty value of `Tense`.
-1695 types (6%) occur at least once with a non-empty value of `Tense`.
-995 lemmas (7%) occur at least once with a non-empty value of `Tense`.
-The feature is used with 2 part-of-speech tags: [hr-pos/AUX]() (8103; 6% instances), [hr-pos/VERB]() (4888; 4% instances).
+24011 tokens (13%) have a non-empty value of `Tense`.
+4415 types (13%) occur at least once with a non-empty value of `Tense`.
+1849 lemmas (10%) occur at least once with a non-empty value of `Tense`.
+The feature is used with 3 part-of-speech tags: [hr-pos/VERB]() (12717; 7% instances), [hr-pos/AUX]() (11158; 6% instances), [hr-pos/ADV]() (136; 0% instances).
+
+### `VERB`
+
+12717 [hr-pos/VERB]() tokens (79% of all `VERB` tokens) have a non-empty value of `Tense`.
+
+The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="Number.html">Number</a>=Sing</tt> (8555; 67%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (7049; 55%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (7049; 55%), <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (7049; 55%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (7049; 55%).
+
+`VERB` tokens may have the following values of `Tense`:
+
+* `Past` (5675; 45% of non-empty `Tense`): <em>izjavio, rekao, kazao, mogli, dodao, mogla, mogao, moglo, trebala, dobili</em>
+* `Pres` (7042; 55% of non-empty `Tense`): <em>može, ima, kaže, treba, mogu, nema, mora, postoji, možete, imaju</em>
+* `EMPTY` (3342): <em>imati, pronaći, raditi, pomoći, vidjeti, nastaviti, reći, dobiti, doći, moći</em>
+
+<table>
+  <tr><th>Paradigm <i>moći</i></th><th><tt>Pres</tt></th><th><tt>Past</tt></th></tr>
+  <tr><td><tt><a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Sing|<a href="VerbForm.html">VerbForm</a>=Part|<a href="Voice.html">Voice</a>=Act</tt></td><td></td><td><em>mogao</em></td></tr>
+  <tr><td><tt><a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Plur|<a href="VerbForm.html">VerbForm</a>=Part|<a href="Voice.html">Voice</a>=Act</tt></td><td></td><td><em>mogli</em></td></tr>
+  <tr><td><tt><a href="Gender.html">Gender</a>=Fem|<a href="Number.html">Number</a>=Sing|<a href="VerbForm.html">VerbForm</a>=Part|<a href="Voice.html">Voice</a>=Act</tt></td><td></td><td><em>mogla</em></td></tr>
+  <tr><td><tt><a href="Gender.html">Gender</a>=Fem|<a href="Number.html">Number</a>=Plur|<a href="VerbForm.html">VerbForm</a>=Part|<a href="Voice.html">Voice</a>=Act</tt></td><td></td><td><em>mogle</em></td></tr>
+  <tr><td><tt><a href="Gender.html">Gender</a>=Neut|<a href="Number.html">Number</a>=Sing|<a href="VerbForm.html">VerbForm</a>=Part|<a href="Voice.html">Voice</a>=Act</tt></td><td></td><td><em>moglo</em></td></tr>
+  <tr><td><tt><a href="Gender.html">Gender</a>=Neut|<a href="Number.html">Number</a>=Plur|<a href="VerbForm.html">VerbForm</a>=Part|<a href="Voice.html">Voice</a>=Act</tt></td><td></td><td><em>mogla</em></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=1|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td><em>mogu</em></td><td></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=2|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td><em>možeš</em></td><td></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td><em>može</em></td><td><em>može</em></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=1|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td><em>možemo</em></td><td></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=2|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td><em>možete, nemojte</em></td><td></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=3|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td><em>mogu</em></td><td></td></tr>
+</table>
 
 ### `AUX`
 
-8103 [hr-pos/AUX]() tokens (90% of all `AUX` tokens) have a non-empty value of `Tense`.
+11158 [hr-pos/AUX]() tokens (96% of all `AUX` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `AUX` and `Tense` co-occurred: <tt><a href="Person.html">Person</a>=3</tt> (7622; 94%), <tt><a href="Number.html">Number</a>=Sing</tt> (5997; 74%).
+The most frequent other feature values with which `AUX` and `Tense` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (10551; 95%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (9823; 88%), <tt><a href="Person.html">Person</a>=3</tt> (9804; 88%), <tt><a href="Number.html">Number</a>=Sing</tt> (8218; 74%).
 
 `AUX` tokens may have the following values of `Tense`:
 
 * `Imp` (2; 0% of non-empty `Tense`): <em>bijaše</em>
-* `Past` (569; 7% of non-empty `Tense`): <em>bi, bih, bismo, biste</em>
-* `Pres` (7532; 93% of non-empty `Tense`): <em>je, su, će, nije, smo, sam, nisu, neće, ćemo, jest</em>
-* `EMPTY` (886): <em>biti, bilo, bio, bila, bit, bili, bile, budite</em>
+* `Past` (1335; 12% of non-empty `Tense`): <em>bi, bilo, bio, bila, bili, bile, biste, bih, bismo</em>
+* `Pres` (9821; 88% of non-empty `Tense`): <em>je, su, će, nije, smo, sam, neće, nisu, ćete, ćemo</em>
+* `EMPTY` (497): <em>biti, bit, budite, Ivan, autor, za</em>
 
 <table>
   <tr><th>Paradigm <i>biti</i></th><th><tt>Pres</tt></th><th><tt>Past</tt></th><th><tt>Imp</tt></th></tr>
-  <tr><td><tt><a href="Negative.html">Negative</a>=Neg|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=1</tt></td><td><em>nisam</em></td><td></td><td></td></tr>
-  <tr><td><tt><a href="Negative.html">Negative</a>=Neg|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3</tt></td><td><em>nije</em></td><td></td><td></td></tr>
-  <tr><td><tt><a href="Negative.html">Negative</a>=Neg|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=1</tt></td><td><em>nismo</em></td><td></td><td></td></tr>
-  <tr><td><tt><a href="Negative.html">Negative</a>=Neg|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=2</tt></td><td><em>niste</em></td><td></td><td></td></tr>
-  <tr><td><tt><a href="Negative.html">Negative</a>=Neg|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=3</tt></td><td><em>nisu</em></td><td></td><td></td></tr>
-  <tr><td><tt><a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=1</tt></td><td><em>sam, nisam, jesam</em></td><td><em>bih</em></td><td></td></tr>
-  <tr><td><tt><a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=2</tt></td><td><em>si, nisi</em></td><td><em>bi</em></td><td></td></tr>
-  <tr><td><tt><a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3</tt></td><td><em>je, nije, jest, bude, jeste</em></td><td><em>bi</em></td><td><em>bijaše</em></td></tr>
-  <tr><td><tt><a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=1</tt></td><td><em>smo, nismo, budemo, Jesmo</em></td><td><em>bismo</em></td><td></td></tr>
-  <tr><td><tt><a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=2</tt></td><td><em>ste, Jeste, niste, budete</em></td><td><em>biste</em></td><td></td></tr>
-  <tr><td><tt><a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=3</tt></td><td><em>su, nisu, budu, jesu, biti</em></td><td><em>bi</em></td><td></td></tr>
+  <tr><td><tt><a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Sing|<a href="VerbForm.html">VerbForm</a>=Part|<a href="Voice.html">Voice</a>=Act</tt></td><td></td><td><em>bio</em></td><td></td></tr>
+  <tr><td><tt><a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Plur|<a href="VerbForm.html">VerbForm</a>=Part|<a href="Voice.html">Voice</a>=Act</tt></td><td></td><td><em>bili</em></td><td></td></tr>
+  <tr><td><tt><a href="Gender.html">Gender</a>=Fem|<a href="Number.html">Number</a>=Sing|<a href="VerbForm.html">VerbForm</a>=Part|<a href="Voice.html">Voice</a>=Act</tt></td><td></td><td><em>bila</em></td><td></td></tr>
+  <tr><td><tt><a href="Gender.html">Gender</a>=Fem|<a href="Number.html">Number</a>=Plur|<a href="VerbForm.html">VerbForm</a>=Part|<a href="Voice.html">Voice</a>=Act</tt></td><td></td><td><em>bile</em></td><td></td></tr>
+  <tr><td><tt><a href="Gender.html">Gender</a>=Neut|<a href="Number.html">Number</a>=Sing|<a href="VerbForm.html">VerbForm</a>=Part|<a href="Voice.html">Voice</a>=Act</tt></td><td></td><td><em>bilo</em></td><td></td></tr>
+  <tr><td><tt><a href="Gender.html">Gender</a>=Neut|<a href="Number.html">Number</a>=Plur|<a href="VerbForm.html">VerbForm</a>=Part|<a href="Voice.html">Voice</a>=Act</tt></td><td></td><td><em>bila</em></td><td></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Cnd|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=1|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td></td><td><em>bih, bi</em></td><td></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Cnd|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=2|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td></td><td><em>bi</em></td><td></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Cnd|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td></td><td><em>bi</em></td><td></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Cnd|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=1|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td></td><td><em>bismo</em></td><td></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Cnd|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=2|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td></td><td><em>biste, bi</em></td><td></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Cnd|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=3|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td></td><td><em>bi</em></td><td></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=1|<a href="Polarity.html">Polarity</a>=Neg|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td><em>nisam</em></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=1|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td><em>sam, nisam, jesam</em></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=2|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td><em>si, jesi, nisi</em></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3|<a href="Polarity.html">Polarity</a>=Neg|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td><em>nije</em></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td><em>je, nije, bude, jest, jeste</em></td><td></td><td><em>bijaše</em></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=1|<a href="Polarity.html">Polarity</a>=Neg|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td><em>nismo</em></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=1|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td><em>smo, nismo, jesmo, budemo</em></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=2|<a href="Polarity.html">Polarity</a>=Neg|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td><em>niste</em></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=2|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td><em>ste, niste, Jeste, budete</em></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=3|<a href="Polarity.html">Polarity</a>=Neg|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td><em>nisu</em></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=3|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td><em>su, nisu, budu, jesu, biti</em></td><td></td><td></td></tr>
 </table>
 
-### `VERB`
+`Tense` seems to be **lexical feature** of `AUX`. 92% lemmas (11) occur only with one value of `Tense`.
 
-4888 [hr-pos/VERB]() tokens (42% of all `VERB` tokens) have a non-empty value of `Tense`.
+### `ADV`
 
-The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=EMPTY</tt> (4888; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (4888; 100%), <tt><a href="Person.html">Person</a>=3</tt> (4308; 88%), <tt><a href="Number.html">Number</a>=Sing</tt> (3087; 63%).
+136 [hr-pos/ADV]() tokens (2% of all `ADV` tokens) have a non-empty value of `Tense`.
 
-`VERB` tokens may have the following values of `Tense`:
+The most frequent other feature values with which `ADV` and `Tense` co-occurred: <tt><a href="PronType.html">PronType</a>=EMPTY</tt> (136; 100%), <tt><a href="Degree.html">Degree</a>=EMPTY</tt> (136; 100%).
 
-* `Past` (7; 0% of non-empty `Tense`): <em>može, dogodi, hoće, iznosi, osigura, pobuni</em>
-* `Pres` (4881; 100% of non-empty `Tense`): <em>ima, može, kaže, mogu, treba, mora, nema, navodi, očekuje, postoji</em>
-* `EMPTY` (6868): <em>izjavio, rekao, kazao, dodao, imati, mogla, trebala, mogli, pomoći, istaknuo</em>
+`ADV` tokens may have the following values of `Tense`:
 
-<table>
-  <tr><th>Paradigm <i>moći</i></th><th><tt>Pres</tt></th><th><tt>Past</tt></th></tr>
-  <tr><td><tt><a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=1</tt></td><td><em>mogu</em></td><td></td></tr>
-  <tr><td><tt><a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=2</tt></td><td><em>možeš</em></td><td></td></tr>
-  <tr><td><tt><a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3</tt></td><td><em>može</em></td><td><em>može</em></td></tr>
-  <tr><td><tt><a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=1</tt></td><td><em>možemo</em></td><td></td></tr>
-  <tr><td><tt><a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=2</tt></td><td><em>možete, nemojte</em></td><td></td></tr>
-  <tr><td><tt><a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=3</tt></td><td><em>mogu</em></td><td></td></tr>
-</table>
+* `Past` (36; 26% of non-empty `Tense`): <em>dodavši, rekavši, Izrazivši, Upucavši, darovavši, došavši, iskusivši, ispričavši, istaknuvši, nadmašivši</em>
+* `Pres` (100; 74% of non-empty `Tense`): <em>zahvaljujući, uključujući, govoreći, Budući, sudeći, Komentirajući, dodajući, držeći, ističući, koristeći</em>
+* `EMPTY` (7904): <em>samo, više, još, također, već, kada, sada, međutim, tako, uvijek</em>
 
-`Tense` seems to be **lexical feature** of `VERB`. 99% lemmas (989) occur only with one value of `Tense`.
+`Tense` seems to be **lexical feature** of `ADV`. 100% lemmas (94) occur only with one value of `Tense`.
 
 ## Relations with Agreement in `Tense`
 
 The 10 most frequent relations where parent and child node agree in `Tense`:
-<tt>VERB --[<a href="../dep/conj.html">conj</a>]--> VERB</tt> (430; 72%),
-<tt>AUX --[<a href="../dep/conj.html">conj</a>]--> VERB</tt> (13; 65%),
-<tt>AUX --[<a href="../dep/ccomp.html">ccomp</a>]--> VERB</tt> (12; 86%),
-<tt>VERB --[<a href="../dep/conj.html">conj</a>]--> AUX</tt> (8; 57%),
-<tt>VERB --[<a href="../dep/dobj.html">dobj</a>]--> AUX</tt> (7; 58%),
-<tt>AUX --[<a href="../dep/advcl.html">advcl</a>]--> VERB</tt> (7; 58%),
-<tt>AUX --[<a href="../dep/remnant.html">remnant</a>]--> AUX</tt> (4; 100%),
-<tt>VERB --[<a href="../dep/cop.html">cop</a>]--> VERB</tt> (3; 100%),
-<tt>VERB --[<a href="../dep/advmod.html">advmod</a>]--> AUX</tt> (2; 100%),
-<tt>VERB --[<a href="../dep/cc.html">cc</a>]--> VERB</tt> (1; 100%).
+<tt>VERB --[<a href="../dep/conj.html">conj</a>]--> VERB</tt> (1153; 78%),
+<tt>VERB --[<a href="../dep/advcl.html">advcl</a>]--> VERB</tt> (516; 57%),
+<tt>VERB --[<a href="../dep/conj.html">conj</a>]--> AUX</tt> (29; 67%),
+<tt>AUX --[<a href="../dep/conj.html">conj</a>]--> VERB</tt> (24; 71%),
+<tt>AUX --[<a href="../dep/ccomp.html">ccomp</a>]--> VERB</tt> (17; 85%),
+<tt>AUX --[<a href="../dep/advcl.html">advcl</a>]--> VERB</tt> (16; 73%),
+<tt>VERB --[<a href="../dep/ccomp.html">ccomp</a>]--> AUX</tt> (15; 54%),
+<tt>VERB --[<a href="../dep/advmod.html">advmod</a>]--> VERB</tt> (8; 67%),
+<tt>AUX --[<a href="../dep/conj.html">conj</a>]--> AUX</tt> (7; 64%),
+<tt>VERB --[<a href="../dep/obj.html">obj</a>]--> VERB</tt> (3; 60%).
 

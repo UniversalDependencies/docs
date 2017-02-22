@@ -2,85 +2,70 @@
 
 --------------------------------------------------------------------------------
 
-## Treebank Statistics (UD_Portuguese-BR)
+## Treebank Statistics (UD_Portuguese)
 
 This relation is universal.
 
-672 nodes (0%) are attached to their parents as `expl`.
+917 nodes (0%) are attached to their parents as `expl`.
 
-467 instances of `expl` (69%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.45833333333333.
+553 instances of `expl` (60%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.1123227917121.
 
-The following 11 pairs of parts of speech are connected with `expl`: [pt-pos/VERB]()-[pt-pos/PART]() (351; 52% instances), [pt-pos/VERB]()-[pt-pos/PRON]() (246; 37% instances), [pt-pos/NOUN]()-[pt-pos/PART]() (32; 5% instances), [pt-pos/NOUN]()-[pt-pos/PRON]() (22; 3% instances), [pt-pos/PROPN]()-[pt-pos/PART]() (10; 1% instances), [pt-pos/PROPN]()-[pt-pos/PROPN]() (3; 0% instances), [pt-pos/AUX]()-[pt-pos/PART]() (2; 0% instances), [pt-pos/PRON]()-[pt-pos/PART]() (2; 0% instances), [pt-pos/PRON]()-[pt-pos/PRON]() (2; 0% instances), [pt-pos/NOUN]()-[pt-pos/NOUN]() (1; 0% instances), [pt-pos/PART]()-[pt-pos/PART]() (1; 0% instances).
+The following 2 pairs of parts of speech are connected with `expl`: [pt-pos/VERB]()-[pt-pos/PRON]() (914; 100% instances), [pt-pos/ADJ]()-[pt-pos/PRON]() (3; 0% instances).
 
 
 ~~~ conllu
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 1 3 expl	color:blue
-1	Especula	_	VERB	VERB	_	0	root	_	_
-2	-	_	PUNCT	.	_	1	punct	_	_
-3	se	_	PART	PRT	_	1	expl	_	_
-4	sobre	_	ADP	ADP	_	6	case	_	_
-5	a	_	DET	DET	_	6	det	_	_
-6	possibilidade	_	NOUN	NOUN	_	1	nmod	_	_
-7	de	_	ADP	ADP	_	8	mark	_	_
-8	estar	_	VERB	VERB	_	6	nmod	_	_
-9	extinta	_	ADJ	ADJ	_	8	xcomp:adj	_	_
-10	.	_	PUNCT	.	_	1	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
-# visual-style 4 6 expl	color:blue
-1	Na	_	ADP	ADP	_	2	case	_	_
-2	internet	_	PROPN	PNOUN	_	9	nmod	_	_
-3	,	_	PUNCT	.	_	2	punct	_	_
-4	manifestar	_	VERB	VERB	_	9	csubj	_	_
-5	-	_	PUNCT	.	_	4	punct	_	_
-6	se	_	PRON	PRON	_	4	expl	_	_
-7	dessa	_	ADP	ADP	_	8	case	_	_
-8	forma	_	NOUN	NOUN	_	4	nmod	_	_
-9	é	_	VERB	VERB	_	0	root	_	_
-10	o	_	DET	DET	_	11	det	_	_
-11	mesmo	_	NOUN	NOUN	_	9	nsubj	_	_
-12	que	_	CONJ	CONJ	_	13	mark	_	_
-13	gritar	_	VERB	VERB	_	9	advcl	_	_
-14	;	_	PUNCT	.	_	9	punct	_	_
+# visual-style 4 3 expl	color:blue
+1	O	o	DET	<artd>|ART|M|S|@>N	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	deputado	deputado	NOUN	<np-def>|N|M|S|@SUBJ>	Gender=Masc|Number=Sing	4	nsubj	_	_
+3	se	se	PRON	PERS|M|3S|ACC|@ACC>-PASS	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	expl	_	_
+4	aproximou	aproximar	VERB	<mv>|<se-passive>|V|PS|3S|IND|@FS-STA	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	PU|@PU	_	4	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 5 expl	color:blue
-1	Assim	_	ADV	ADV	_	6	advmod	_	_
-2	,	_	PUNCT	.	_	1	punct	_	_
-3	fez	_	VERB	VERB	_	6	cop	_	_
-4	-	_	PUNCT	.	_	6	punct	_	_
-5	se	_	PART	PRT	_	6	expl	_	_
-6	nobre	_	NOUN	NOUN	_	0	root	_	_
-7	com	_	ADP	ADP	_	9	case	_	_
-8	o	_	DET	DET	_	9	det	_	_
-9	decreto	_	NOUN	NOUN	_	6	nmod	_	_
-10	imperial	_	ADJ	ADJ	_	9	amod	_	_
-11	de	_	ADP	ADP	_	12	case	_	_
-12	2	_	NUM	NUM	NumType=Card	9	nmod	_	_
-13	de	_	ADP	ADP	_	14	case	_	_
-14	Dezembro	_	PROPN	PNOUN	_	12	nmod	_	_
-15	de	_	ADP	ADP	_	16	case	_	_
-16	1854	_	NUM	NUM	NumType=Card	14	nmod	_	_
-17	.	_	PUNCT	.	_	6	punct	_	_
+# visual-style 19	bgColor:blue
+# visual-style 19	fgColor:white
+# visual-style 20	bgColor:blue
+# visual-style 20	fgColor:white
+# visual-style 20 19 expl	color:blue
+1	O	o	DET	<artd>|ART|M|S|@>N	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	filme	filme	NOUN	<np-def>|N|M|S|@SUBJ>	Gender=Masc|Number=Sing	3	nsubj	_	_
+3	passa	passar	VERB	<first-cjt>|<mv>|V|PR|3S|IND|@FS-STA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	como	como	ADP	<com>|PRP|@<ADVL	_	5	case	_	_
+5	vento	vento	NOUN	<np-idf>|N|M|S|@P<	Gender=Masc|Number=Sing	3	obl	_	_
+6	por	por	ADP	<sam->|PRP|@<ADVL	_	8	case	_	_
+7	as	o	DET	<-sam>|<artd>|ART|F|P|@>N	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	8	det	_	_
+8	questões	questão	NOUN	<np-def>|N|F|P|@P<	Gender=Fem|Number=Plur	3	obl	_	SpaceAfter=No
+9	.	.	PUNCT	PU|@PU	_	20	punct	_	_
+10	nada	nada	ADV	ADV|@>A	Polarity=Neg	11	advmod	_	_
+11	pequenas	pequeno	ADJ	ADJ|F|P|@N<PRED	Gender=Fem|Number=Plur	8	amod	_	SpaceAfter=No
+12	.	.	PUNCT	PU|@PU	_	20	punct	_	_
+13	de	de	ADP	<sam->|PRP|@N<	_	15	case	_	_
+14	os	o	DET	<-sam>|<artd>|ART|M|P|@>N	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	15	det	_	_
+15	tratamentos	tratamento	NOUN	<np-def>|N|M|P|@P<	Gender=Masc|Number=Plur	8	nmod	_	_
+16	psiquiátricos	psiquiátrico	ADJ	ADJ|M|P|@N<	Gender=Masc|Number=Plur	15	amod	_	_
+17	contemporâneos	contemporâneo	ADJ	ADJ|M|P|@N<	Gender=Masc|Number=Plur	15	amod	_	_
+18	e	e	CCONJ	<co-sta>|KC|@CO	_	20	cc	_	_
+19	se	se	PRON	PERS|M|3S|ACC|@ACC>-PASS	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	20	expl	_	_
+20	fixa	fixo	ADJ	<mv>|<cjt>|<se-passive>|V|PR|3S|IND|@FS-STA	Number=Sing	3	conj	_	_
+21	em	em	ADP	<sam->|PRP|@<PIV	_	22	case	_	_
+22	o	o	PRON	<-sam>|DET|M|S|@P<	Gender=Masc|Number=Sing|PronType=Dem	20	obl	_	_
+23	que	que	PRON	<rel>|INDP|M|S|@SUBJ>	Gender=Masc|Number=Sing|PronType=Rel	24	nsubj	_	_
+24	existe	existir	VERB	<mv>|V|PR|3S|IND|@FS-N<	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	22	acl:relcl	_	_
+25	de	de	ADP	PRP|@<PIV	_	27	case	_	_
+26	mais	mais	ADV	<quant>|<KOMP>|ADV|@>A	_	27	advmod	_	_
+27	óbvio	óbvio	ADJ	<COMP>|ADJ|M|S|@P<	Gender=Masc|Number=Sing	24	obl	_	_
+28	em	em	ADP	<sam->|PRP|@<ADVL	_	30	case	_	_
+29	a	o	DET	<-sam>|<artd>|ART|F|S|@>N	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	30	det	_	_
+30	história	história	NOUN	<np-def>|N|F|S|@P<	Gender=Fem|Number=Sing	24	obl	_	SpaceAfter=No
+31	.	.	PUNCT	PU|@PU	_	3	punct	_	_
 
 ~~~
 

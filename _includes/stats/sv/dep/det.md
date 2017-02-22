@@ -6,12 +6,12 @@
 
 This relation is universal.
 
-6304 nodes (7%) are attached to their parents as `det`.
+3904 nodes (5%) are attached to their parents as `det`.
 
-6294 instances of `det` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.55155456852792.
+3901 instances of `det` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.65599385245902.
 
-The following 26 pairs of parts of speech are connected with `det`: [sv-pos/NOUN]()-[sv-pos/DET]() (4566; 72% instances), [sv-pos/NOUN]()-[sv-pos/ADJ]() (1315; 21% instances), [sv-pos/ADJ]()-[sv-pos/DET]() (283; 4% instances), [sv-pos/NOUN]()-[sv-pos/ADV]() (19; 0% instances), [sv-pos/NUM]()-[sv-pos/ADV]() (17; 0% instances), [sv-pos/NUM]()-[sv-pos/DET]() (15; 0% instances), [sv-pos/NOUN]()-[sv-pos/PRON]() (14; 0% instances), [sv-pos/ADJ]()-[sv-pos/ADJ]() (11; 0% instances), [sv-pos/ADJ]()-[sv-pos/PRON]() (10; 0% instances), [sv-pos/PRON]()-[sv-pos/DET]() (10; 0% instances), [sv-pos/PROPN]()-[sv-pos/ADJ]() (10; 0% instances), [sv-pos/PROPN]()-[sv-pos/DET]() (9; 0% instances), [sv-pos/PRON]()-[sv-pos/ADJ]() (5; 0% instances), [sv-pos/DET]()-[sv-pos/PRON]() (3; 0% instances), [sv-pos/NUM]()-[sv-pos/ADJ]() (3; 0% instances), [sv-pos/ADV]()-[sv-pos/ADJ]() (2; 0% instances), [sv-pos/ADV]()-[sv-pos/ADV]() (2; 0% instances), [sv-pos/NOUN]()-[sv-pos/ADP]() (2; 0% instances), [sv-pos/ADJ]()-[sv-pos/ADV]() (1; 0% instances), [sv-pos/ADV]()-[sv-pos/DET]() (1; 0% instances), [sv-pos/DET]()-[sv-pos/DET]() (1; 0% instances), [sv-pos/INTJ]()-[sv-pos/DET]() (1; 0% instances), [sv-pos/NOUN]()-[sv-pos/CONJ]() (1; 0% instances), [sv-pos/NOUN]()-[sv-pos/VERB]() (1; 0% instances), [sv-pos/PRON]()-[sv-pos/ADV]() (1; 0% instances), [sv-pos/VERB]()-[sv-pos/PRON]() (1; 0% instances).
+The following 12 pairs of parts of speech are connected with `det`: [sv-pos/NOUN]()-[sv-pos/DET]() (3637; 93% instances), [sv-pos/ADJ]()-[sv-pos/DET]() (214; 5% instances), [sv-pos/NUM]()-[sv-pos/DET]() (13; 0% instances), [sv-pos/NOUN]()-[sv-pos/PRON]() (11; 0% instances), [sv-pos/PRON]()-[sv-pos/DET]() (9; 0% instances), [sv-pos/PROPN]()-[sv-pos/DET]() (9; 0% instances), [sv-pos/ADJ]()-[sv-pos/PRON]() (5; 0% instances), [sv-pos/DET]()-[sv-pos/PRON]() (2; 0% instances), [sv-pos/ADV]()-[sv-pos/DET]() (1; 0% instances), [sv-pos/DET]()-[sv-pos/DET]() (1; 0% instances), [sv-pos/INTJ]()-[sv-pos/DET]() (1; 0% instances), [sv-pos/VERB]()-[sv-pos/PRON]() (1; 0% instances).
 
 
 ~~~ conllu
@@ -27,27 +27,8 @@ The following 26 pairs of parts of speech are connected with `det`: [sv-pos/NOUN
 5	hur	hur	ADV	HA	_	8	advmod	_	_
 6	dessa	denna	DET	DT|UTR/NEU|PLU|DEF	Definite=Def|Number=Plur|PronType=Dem	7	det	_	_
 7	barn	barn	NOUN	NN|NEU|PLU|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Plur	8	nsubj	_	_
-8	blir	bli	VERB	VB|PRS|AKT	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	3	ccomp	_	_
+8	blir	bli	VERB	VB|PRS|AKT	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	3	ccomp	_	SpaceAfter=No
 9	.	.	PUNCT	MAD	_	3	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 8 7 det	color:blue
-1	Kvarstår	kvarstå	VERB	VB|PRS|AKT	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-2	denna	denna	DET	DT|UTR|SIN|DEF	Definite=Def|Gender=Com|Number=Sing|PronType=Dem	3	det	_	_
-3	försening	försening	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	1	nsubj	_	_
-4	i	i	ADP	PP	_	5	case	_	_
-5	utveckling	utveckling	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	3	nmod	_	_
-6	hos	hos	ADP	PP	_	8	case	_	_
-7	äldre	gammal	ADJ	JJ|KOM|UTR/NEU|SIN/PLU|IND/DEF|NOM	Case=Nom|Degree=Cmp	8	det	_	_
-8	kibbutzbarn	kibbutzbarn	NOUN	NN|NEU|PLU|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Plur	1	nmod	_	_
-9	?	?	PUNCT	MAD	_	1	punct	_	_
 
 ~~~
 
@@ -61,13 +42,35 @@ The following 26 pairs of parts of speech are connected with `det`: [sv-pos/NOUN
 1	De	en	DET	DT|UTR/NEU|PLU|DEF	Definite=Def|Number=Plur|PronType=Art	2	det	_	_
 2	reaktionära	reaktionär	ADJ	JJ|POS|UTR/NEU|PLU|IND/DEF|NOM	Case=Nom|Degree=Pos|Number=Plur	3	nsubj	_	_
 3	har	ha	VERB	VB|PRS|AKT	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-4	många	många	ADJ	JJ|POS|UTR/NEU|PLU|IND/DEF|NOM	Case=Nom|Degree=Pos|Number=Plur	5	det	_	_
-5	sätt	sätt	NOUN	NN|NEU|PLU|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Plur	3	dobj	_	_
+4	många	många	ADJ	JJ|POS|UTR/NEU|PLU|IND/DEF|NOM	Case=Nom|Degree=Pos|Number=Plur	5	amod	_	_
+5	sätt	sätt	NOUN	NN|NEU|PLU|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Plur	3	obj	_	_
 6	att	att	PART	IE	_	7	mark	_	_
 7	göra	göra	VERB	VB|INF|AKT	VerbForm=Inf|Voice=Act	5	acl	_	_
-8	bilden	bild	NOUN	NN|UTR|SIN|DEF|NOM	Case=Nom|Definite=Def|Gender=Com|Number=Sing	7	dobj	_	_
-9	suddig	suddig	ADJ	JJ|POS|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Degree=Pos|Gender=Com|Number=Sing	7	xcomp	_	_
+8	bilden	bild	NOUN	NN|UTR|SIN|DEF|NOM	Case=Nom|Definite=Def|Gender=Com|Number=Sing	7	obj	_	_
+9	suddig	suddig	ADJ	JJ|POS|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Degree=Pos|Gender=Com|Number=Sing	7	xcomp	_	SpaceAfter=No
 10	.	.	PUNCT	MAD	_	3	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 3 det	color:blue
+1	Men	men	CCONJ	KN	_	5	cc	_	_
+2	av	av	ADP	PP	_	4	case	_	_
+3	dessa	denna	DET	DT|UTR/NEU|PLU|DEF	Definite=Def|Number=Plur|PronType=Dem	4	det	_	_
+4	96	96	NUM	RG|NOM	Case=Nom|NumType=Card	5	obl	_	_
+5	röstade	rösta	VERB	VB|PRT|AKT	Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+6	bara	bara	ADV	AB	_	5	advmod	_	_
+7	12	12	NUM	RG|NOM	Case=Nom|NumType=Card	5	nummod	_	_
+8	vid	vid	ADP	PP	_	9	case	_	_
+9	kyrkovalet	kyrkoval	NOUN	NN|NEU|SIN|DEF|NOM	Case=Nom|Definite=Def|Gender=Neut|Number=Sing	5	obl	_	_
+10	i	i	ADP	PP	_	9	nmod	_	_
+11	söndags	söndag	NOUN	NN|UTR|SIN|IND|GEN	Case=Gen|Definite=Ind|Gender=Com|Number=Sing	10	fixed	_	SpaceAfter=No
+12	.	.	PUNCT	MAD	_	5	punct	_	_
 
 ~~~
 
@@ -80,12 +83,48 @@ The following 26 pairs of parts of speech are connected with `det`: [sv-pos/NOUN
 
 This relation is universal.
 
-4466 nodes (6%) are attached to their parents as `det`.
+3507 nodes (5%) are attached to their parents as `det`.
 
-4462 instances of `det` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.58866995073892.
+3503 instances of `det` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.60165383518677.
 
-The following 23 pairs of parts of speech are connected with `det`: [sv-pos/NOUN]()-[sv-pos/DET]() (3864; 87% instances), [sv-pos/NOUN]()-[sv-pos/ADJ]() (236; 5% instances), [sv-pos/ADJ]()-[sv-pos/DET]() (205; 5% instances), [sv-pos/PROPN]()-[sv-pos/DET]() (36; 1% instances), [sv-pos/PRON]()-[sv-pos/DET]() (34; 1% instances), [sv-pos/VERB]()-[sv-pos/DET]() (25; 1% instances), [sv-pos/NOUN]()-[sv-pos/NOUN]() (23; 1% instances), [sv-pos/NUM]()-[sv-pos/DET]() (7; 0% instances), [sv-pos/ADV]()-[sv-pos/DET]() (6; 0% instances), [sv-pos/NOUN]()-[sv-pos/PRON]() (6; 0% instances), [sv-pos/PUNCT]()-[sv-pos/DET]() (6; 0% instances), [sv-pos/PRON]()-[sv-pos/PRON]() (3; 0% instances), [sv-pos/VERB]()-[sv-pos/PRON]() (3; 0% instances), [sv-pos/ADJ]()-[sv-pos/NOUN]() (2; 0% instances), [sv-pos/ADJ]()-[sv-pos/PRON]() (2; 0% instances), [sv-pos/ADJ]()-[sv-pos/ADJ]() (1; 0% instances), [sv-pos/CONJ]()-[sv-pos/DET]() (1; 0% instances), [sv-pos/INTJ]()-[sv-pos/DET]() (1; 0% instances), [sv-pos/NUM]()-[sv-pos/NOUN]() (1; 0% instances), [sv-pos/PART]()-[sv-pos/DET]() (1; 0% instances), [sv-pos/PROPN]()-[sv-pos/ADJ]() (1; 0% instances), [sv-pos/PROPN]()-[sv-pos/PROPN]() (1; 0% instances), [sv-pos/SCONJ]()-[sv-pos/DET]() (1; 0% instances).
+The following 14 pairs of parts of speech are connected with `det`: [sv-pos/NOUN]()-[sv-pos/DET]() (3237; 92% instances), [sv-pos/ADJ]()-[sv-pos/DET]() (165; 5% instances), [sv-pos/PRON]()-[sv-pos/DET]() (31; 1% instances), [sv-pos/PROPN]()-[sv-pos/DET]() (25; 1% instances), [sv-pos/VERB]()-[sv-pos/DET]() (23; 1% instances), [sv-pos/ADV]()-[sv-pos/DET]() (7; 0% instances), [sv-pos/NUM]()-[sv-pos/DET]() (6; 0% instances), [sv-pos/NOUN]()-[sv-pos/PRON]() (5; 0% instances), [sv-pos/PUNCT]()-[sv-pos/DET]() (2; 0% instances), [sv-pos/VERB]()-[sv-pos/PRON]() (2; 0% instances), [sv-pos/ADJ]()-[sv-pos/PRON]() (1; 0% instances), [sv-pos/INTJ]()-[sv-pos/DET]() (1; 0% instances), [sv-pos/PRON]()-[sv-pos/PRON]() (1; 0% instances), [sv-pos/SCONJ]()-[sv-pos/DET]() (1; 0% instances).
+
+
+~~~ conllu
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 5 det	color:blue
+1	Vissa	_	ADJ	POS-PL-IND	_	8	nsubj	_	_
+2	av	_	ADP	_	_	3	case	_	_
+3	hyperlänkarna	_	NOUN	PL-DEF-NOM	_	1	nmod	_	_
+4	i	_	ADP	_	_	7	case	_	_
+5	det	_	DET	DEM-SG	_	7	det	_	_
+6	här	_	ADV	DEM-SG	_	5	fixed	_	_
+7	avsnittet	_	NOUN	SG-DEF-NOM	_	3	nmod	_	_
+8	leder	_	VERB	PRES-ACT	_	0	root	_	_
+9	till	_	ADP	_	_	10	case	_	_
+10	webben	_	NOUN	SG-DEF-NOM	_	8	obl	_	SpaceAfter=No
+11	.	_	PUNCT	Period	_	8	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 3 det	color:blue
+1	Därefter	_	ADV	_	_	2	advmod	_	_
+2	inträffade	_	VERB	PAST-ACT	_	0	root	_	_
+3	något	_	DET	SG-IND	_	4	det	_	_
+4	märkligt	_	ADJ	POS-SG-IND	_	2	nsubj	_	SpaceAfter=No
+5	.	_	PUNCT	Period	_	2	punct	_	_
+
+~~~
 
 
 ~~~ conllu
@@ -94,48 +133,16 @@ The following 23 pairs of parts of speech are connected with `det`: [sv-pos/NOUN
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 2 det	color:blue
-1	Länka	_	VERB	IMP-ACT	_	0	root	_	_
-2	en	_	DET	SG-IND	_	3	det	_	_
-3	sida	_	NOUN	SG-IND-NOM	_	1	dobj	_	_
-4	till	_	ADP	_	_	6	case	_	_
-5	en	_	DET	SG-IND	_	6	det	_	_
-6	anslutningsfil	_	NOUN	SG-IND-NOM	_	3	nmod	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 1 det	color:blue
-1	Flera	_	ADJ	POS-PL-IND	_	2	det	_	_
-2	fält	_	NOUN	IND-NOM	_	0	root	_	_
-3	i	_	ADP	_	_	5	case	_	_
-4	ett	_	DET	SG-IND	_	5	det	_	_
-5	diagram	_	NOUN	IND-NOM	_	2	nmod	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 10 9 det	color:blue
-1	Denna	_	DET	DEM-SG-IND	_	3	det	_	_
-2	sista	_	ADJ	SPL	_	3	amod	_	_
-3	tanke	_	NOUN	SG-IND-NOM	_	4	nsubj	_	_
-4	fick	_	VERB	PAST-ACT	_	0	root	_	_
-5	honom	_	PRON	PERS-P3SG-ACC	_	4	dobj	_	_
-6	att	_	PART	_	_	7	mark	_	_
-7	erinra	_	VERB	INF-ACT	_	4	xcomp	_	_
-8	sig	_	PRON	RFL-ACC	_	7	dobj	_	_
-9	något	_	DET	SG-IND	_	10	det	_	_
-10	viktigt	_	ADJ	POS-SG-IND	_	7	xcomp	_	_
-11	.	_	PUNCT	Period	_	4	punct	_	_
+1	Men	_	CCONJ	_	_	9	cc	_	_
+2	allt	_	DET	TOT-SG	_	3	det	_	_
+3	detta	_	PRON	DEM-SG	_	9	nsubj	_	_
+4	är	_	AUX	PRES-ACT	_	9	cop	_	_
+5	på	_	ADP	_	_	7	case	_	_
+6	något	_	DET	SG-IND	_	7	det	_	_
+7	sätt	_	NOUN	IND-NOM	_	9	nmod	_	_
+8	yttre	_	ADJ	CMP	_	9	amod	_	_
+9	ting	_	NOUN	IND-NOM	_	0	root	_	SpaceAfter=No
+10	.	_	PUNCT	Period	_	9	punct	_	_
 
 ~~~
 
@@ -148,12 +155,12 @@ The following 23 pairs of parts of speech are connected with `det`: [sv-pos/NOUN
 
 This relation is universal.
 
-24 nodes (4%) are attached to their parents as `det`.
+14 nodes (4%) are attached to their parents as `det`.
 
-13 instances of `det` (54%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.33333333333333.
+9 instances of `det` (64%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.28571428571429.
 
-The following 6 pairs of parts of speech are connected with `det`: [sv-pos/NOUN]()-[sv-pos/DET]() (15; 63% instances), [sv-pos/NOUN]()-[sv-pos/NUM]() (2; 8% instances), [sv-pos/NOUN]()-[sv-pos/PRON]() (2; 8% instances), [sv-pos/PRON]()-[sv-pos/DET]() (2; 8% instances), [sv-pos/VERB]()-[sv-pos/DET]() (2; 8% instances), [sv-pos/VERB]()-[sv-pos/NUM]() (1; 4% instances).
+The following 4 pairs of parts of speech are connected with `det`: [sv-pos/NOUN]()-[sv-pos/DET]() (9; 64% instances), [sv-pos/NOUN]()-[sv-pos/PRON]() (2; 14% instances), [sv-pos/VERB]()-[sv-pos/DET]() (2; 14% instances), [sv-pos/PRON]()-[sv-pos/DET]() (1; 7% instances).
 
 
 ~~~ conllu
@@ -173,40 +180,37 @@ The following 6 pairs of parts of speech are connected with `det`: [sv-pos/NOUN]
 
 
 ~~~ conllu
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 5 det	color:blue
-1	PÅKALLA-UPPMÄRKSAMHET@g	_	X	G	_	0	root	_	_
-2	TYST	_	ADJ	JJ	_	1	conj	_	_
-3	HÖRA	_	VERB	VB	_	1	conj	_	_
-4	NÅGON	_	PRON	PN	_	3	dobj	_	_
-5	PEK	_	DET	PEK	_	4	det	_	_
-6	HYSSJA@ca	_	VERB	VBCA	_	1	conj	_	_
-7	GEST(J)@ca	_	VERB	VBCA	_	1	conj	_	_
+# visual-style 5 1 det	color:blue
+1	PEK	_	DET	PEK	_	5	det	_	_
+2	PU(L)@g@z	_	X	G	_	5	discourse	_	_
+3	PRO1	_	PRON	PN	_	5	nsubj	_	_
+4	BEHÄRSKA	_	VERB	VB	_	5	acl	_	_
+5	TECKNA.FLYT	_	VERB	VB	_	0	root	_	_
+6	PRO1	_	PRON	PN	_	3	conj	_	_
+7	PEK	_	PRON	PEK	_	3	conj	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 9 8 det	color:blue
-1	FRÅGA	_	VERB	VB	_	0	root	_	_
-2	GRODA	_	NOUN	NN	_	3	compound	_	_
-3	PAPPA	_	NOUN	NN	_	1	dobj	_	_
-4	FÅ	_	VERB	VB	_	1	advcl	_	_
-5	PRO1	_	PRON	PN	_	4	nsubj	_	_
-6	TA*MED@z	_	VERB	VB	_	1	conj	_	_
-7	ADOPTERA	_	VERB	VB	_	1	conj	_	_
-8	EN	_	NUM	RG	_	9	det	_	_
-9	GRODA	_	NOUN	NN	_	7	dobj	_	_
-10	JA@ub@z	_	INTJ	INTERJ	_	1	discourse	_	_
-11	HAND(SJ)+HANTERA@p	_	VERB	VBAV	_	1	conj	_	_
-12	BEGE-SIG-HEM	_	VERB	VB	_	1	conj	_	_
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 5 det	color:blue
+1	PEK	_	PRON	PEK	_	3	nmod	_	_
+2	SEDAN	_	ADV	AB	_	3	advmod	_	_
+3	KOMMA-HIT(VVb)	_	VERB	VBAV	_	0	root	_	_
+4	UNGE	_	NOUN	NN	_	3	nsubj	_	_
+5	MÅNGA	_	PRON	PN	_	4	det	_	_
+6	PERSON.FL@kl	_	NOUN	NNKL	_	4	nmod	_	_
+7	TITTA-PÅ	_	VERB	VB	_	3	conj	_	_
+8	OK@b	_	INTJ	INTERJ	_	3	discourse	_	_
+9	TITTA-PÅ	_	VERB	VB	_	3	conj	_	_
 
 ~~~
 

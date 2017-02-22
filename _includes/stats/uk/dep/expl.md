@@ -6,44 +6,32 @@
 
 This relation is universal.
 
-2 nodes (0%) are attached to their parents as `expl`.
+4 nodes (0%) are attached to their parents as `expl`.
 
-1 instances of `expl` (50%) are left-to-right (parent precedes child).
+3 instances of `expl` (75%) are left-to-right (parent precedes child).
 Average distance between parent and child is 1.
 
-The following 2 pairs of parts of speech are connected with `expl`: [uk-pos/VERB]()-[uk-pos/PART]() (1; 50% instances), [uk-pos/VERB]()-[uk-pos/PRON]() (1; 50% instances).
+The following 1 pairs of parts of speech are connected with `expl`: [uk-pos/VERB]()-[uk-pos/PRON]() (4; 100% instances).
 
 
 ~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
-# visual-style 3 2 expl	color:blue
-1	Мартин	Мартин	PROPN	noun:anim:m:v_naz:prop:fname:xp1	Animacy=Anim|Case=Nom|Gender=Masc	3	nsubj	_	_
-2	ся	ся	PART	part:rare	_	3	expl	_	_
-3	боїть	боїть	VERB	verb:rev:imperf:pres:s:3	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-4	собак	собака	NOUN	noun:anim:p:m:v_rod:xp2	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	3	dobj	_	SpaceAfter=No
-5	.	.	PUNCT	punct	_	3	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 7 expl	color:blue
-1	Хлопець	хлопець	NOUN	noun:anim:m:v_naz	Animacy=Anim|Case=Nom|Gender=Masc	6	nsubj	_	SpaceAfter=No
-2	,	,	PUNCT	punct	_	3	punct	_	_
-3	сказав	сказати	VERB	verb:perf:past:m	Aspect=Perf|Gender=Masc|Mood=Ind|Tense=Past|VerbForm=Fin	6	parataxis	_	_
-4	Микола	Микола	PROPN	noun:anim:m:v_naz:prop:fname	Animacy=Anim|Case=Nom|Gender=Masc	3	nsubj	_	SpaceAfter=No
-5	,	,	PUNCT	punct	_	3	punct	_	_
-6	пішов	піти	VERB	verb:perf:past:m	Aspect=Perf|Gender=Masc|Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
-7	собі	себе	PRON	noun:v_dav:&pron:refl	Case=Dat|PronType=Prs|Reflex=Yes	6	expl	_	_
-8	раніше	раніше	ADV	adv:compr	Degree=Cmp	6	advmod	_	SpaceAfter=No
-9	.	.	PUNCT	punct	_	6	punct	_	_
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 3 expl	color:blue
+1	Я	я	PRON	Pp-1-ysnn	Animacy=Anim|Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+2	уявляв	уявляти	VERB	Vmpis-sm	Aspect=Imp|Gender=Masc|Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+3	собі	себе	PRON	Px-----dn	Case=Dat|PronType=Prs|Reflex=Yes	2	expl	_	SpaceAfter=No
+4	,	,	PUNCT	U	_	6	punct	_	_
+5	що	що	PRON	Pr--nnsan	Animacy=Inan|Case=Acc|Gender=Neut|PronType=Rel	6	obj	_	_
+6	переживають	переживати	VERB	Vmpip3p	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	ccomp	_	_
+7	померлі	померлий	NOUN	Ap--pns-ea	Animacy=Anim|Aspect=Perf|Case=Nom|Number=Ptan|Voice=Act	6	nsubj	_	SpaceAfter=No
+8	,	,	PUNCT	U	_	9	punct	_	_
+9	чекаючи	чекаючи	VERB	Vmpgp	Aspect=Imp|Tense=Pres|VerbForm=Conv	6	advcl	_	_
+10	на	на	ADP	Spsa	Case=Acc	11	case	_	_
+11	нас	ми	PRON	Pp-1-ypan	Animacy=Anim|Case=Acc|Number=Plur|Person=1|PronType=Prs	9	obl	_	SpaceAfter=No
+12	.	.	PUNCT	U	_	2	punct	_	_
 
 ~~~
 

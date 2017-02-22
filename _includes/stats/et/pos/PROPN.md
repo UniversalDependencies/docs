@@ -4,85 +4,85 @@
 
 ## Treebank Statistics (UD_Estonian)
 
-There are 3952 `PROPN` lemmas (14%), 5220 `PROPN` types (10%) and 13084 `PROPN` tokens (6%).
-Out of 15 observed tags, the rank of `PROPN` is: 3 in number of lemmas, 4 in number of types and 7 in number of tokens.
+There are 659 `PROPN` lemmas (9%), 797 `PROPN` types (7%) and 1674 `PROPN` tokens (5%).
+Out of 16 observed tags, the rank of `PROPN` is: 5 in number of lemmas, 4 in number of types and 7 in number of tokens.
 
-The 10 most frequent `PROPN` lemmas: <em>eesti, Tallinn, Euroopa, Tartu, Jan, Peeter, Vene_maa, Hiina, soome, vene</em>
+The 10 most frequent `PROPN` lemmas: <em>Peeter, Tõnu, eesti, Ernesaks, Ott, Tsee, Indrikson, Petrov, Aune, Arnold</em>
 
-The 10 most frequent `PROPN` types:  <em>Eesti, Eestis, Euroopa, Tartu, Tallinna, Peeter, Jan, Vene, Soome, Venemaa</em>
+The 10 most frequent `PROPN` types:  <em>Peeter, Eesti, Tõnu, Tsee, Ott, Ernesaks, Indrikson, Petrov, Aune, Arnold</em>
 
-The 10 most frequent ambiguous lemmas: <em>eesti</em> ([ADJ]() 95, [PROPN]() 19), <em>soome</em> ([ADJ]() 9, [PROPN]() 1), <em>vene</em> ([ADJ]() 32, [PROPN]() 3, [NOUN]() 2), <em>saksa</em> ([PROPN]() 24, [ADJ]() 17), <em>Uus_põld</em> ([PROPN]() 34, [NOUN]() 1), <em>Ken</em> ([PROPN]() 27, [NOUN]() 1), <em>Suur</em> ([PROPN]() 26, [NOUN]() 1), <em>poola</em> ([ADJ]() 3, [PROPN]() 1), <em>balti</em> ([PROPN]() 5, [ADJ]() 2), <em>Posti_mees</em> ([PROPN]() 18, [NOUN]() 1)
+The 10 most frequent ambiguous lemmas: <em>eesti</em> ([PROPN]() 2, [ADJ]() 2), <em>Graal</em> ([PROPN]() 15, [NOUN]() 1), <em>savi_saar</em> ([PROPN]() 3, [NOUN]() 1), <em>Osilius</em> ([PROPN]() 6, [NOUN]() 1), <em>saare_puu</em> ([PROPN]() 4, [NOUN]() 4), <em>Sir</em> ([PROPN]() 3, [NOUN]() 2), <em>Saksa</em> ([PROPN]() 2, [NOUN]() 1), <em>Pardakonossment</em> ([PROPN]() 1, [NOUN]() 1), <em>Vene</em> ([NOUN]() 1, [PROPN]() 1), <em>laser</em> ([NOUN]() 1, [PROPN]() 1)
 
-The 10 most frequent ambiguous types:  <em>Eesti</em> ([PROPN]() 576, [ADJ]() 11), <em>Vene</em> ([PROPN]() 75, [NOUN]() 3), <em>Soome</em> ([PROPN]() 67, [ADJ]() 1), <em>saksa</em> ([ADJ]() 16, [PROPN]() 1), <em>Kala</em> ([PROPN]() 38, [NOUN]() 1), <em>Uuspõld</em> ([PROPN]() 23, [NOUN]() 1), <em>Hollandi</em> ([PROPN]() 22, [ADJ]() 1), <em>New</em> ([PROPN]() 15, [NOUN]() 1), <em>Rüütel</em> ([PROPN]() 15, [NOUN]() 1), <em>Kalju</em> ([PROPN]() 14, [NOUN]() 1)
+The 10 most frequent ambiguous types:  <em>Graali</em> ([PROPN]() 11, [NOUN]() 1), <em>Savisaar</em> ([PROPN]() 10, [NOUN]() 1), <em>Rüütel</em> ([PROPN]() 5, [NOUN]() 1), <em>Osilius</em> ([PROPN]() 4, [NOUN]() 1), <em>Sir</em> ([NOUN]() 7, [PROPN]() 3), <em>Kadrioru</em> ([PROPN]() 2, [NOUN]() 1), <em>Saarepuu</em> ([NOUN]() 3, [PROPN]() 2), <em>Laser</em> ([PROPN]() 1, [NOUN]() 1), <em>Mind</em> ([PRON]() 4, [PROPN]() 1), <em>Noor</em> ([ADJ]() 2, [PROPN]() 1)
 
 
-* <em>Eesti</em>
-  * [PROPN]() 576: <em>Nii see <b>Eesti</b> elu käis ...</em>
-  * [ADJ]() 11: <em><b>Eesti</b> fotograaf Vladimir Balabnjov</em>
-* <em>Vene</em>
-  * [PROPN]() 75: <em><b>Vene</b> keelt purssivast ukrainlannast oligi veel puudus ! "</em>
-  * [NOUN]() 3: <em><b>Vene</b> intelligendile tüüpiliselt paelub Balabnjovi juba lapsepõlvest peale Pariis .</em>
-* <em>Soome</em>
-  * [PROPN]() 67: <em>Mõtlen siinkohal eeskätt läbikäimist Läti ja <b>Soome</b> kolleegidega .</em>
-  * [ADJ]() 1: <em>Mullu ilmus tema sulest kõiki neid kirjeldav raamat “ <b>Soome</b> neiu geenid ” .</em>
-* <em>saksa</em>
-  * [ADJ]() 16: <em>Aga sa hakka hoopis <b>saksa</b> keelt õppima . "</em>
-  * [PROPN]() 1: <em>Nn <b>saksa</b> mudeli korral tohib terviseandmeid saata registrisse juhul , kui haigestunu annab selleks kirjaliku nõusoleku .</em>
-* <em>Kala</em>
-  * [PROPN]() 38: <em>" Tabagu teda katk nii lipsuga kui trussikute väel ! " siunas <b>Kala</b> . "</em>
-  * [NOUN]() 1: <em><b>Kala</b> tonksab tagant mehe säärt .</em>
-* <em>Uuspõld</em>
-  * [PROPN]() 23: <em>Neljapäeva õhtuks on <b>Uuspõld</b> Siberi nero'st ja seriaalirutiinist vaba .</em>
-  * [NOUN]() 1: <em>24-osalises seriaalis " Siperian nero " ( " Siberi geenius " ) lapsemeelset ja eluvõõrast Omski tuumafüüsikut kehastav <b>Uuspõld</b> kohendab end homme viimast korda soomlaste kaamerate ette .</em>
-* <em>Hollandi</em>
-  * [PROPN]() 22: <em>Kõige harmoonilisemaks peavad tippanalüütikud Norra , <b>Hollandi</b> ja Iirimaa ühiskonda .</em>
-  * [ADJ]() 1: <em><b>Hollandi</b> keele seletav sõnaraamat Van Dale on kolmes köites ja 4000 leheküljel , viimane versioon ilmus möödunud sügisel .</em>
-* <em>New</em>
-  * [PROPN]() 15: <em>Tegemist on Gustav Verbeeki 1900. aasta karikatuuriga ajalehest The Sunday <b>New</b> York Herald .</em>
-  * [NOUN]() 1: <em>Tobe põhjus , ema sõitis pikemaks ajaks <b>New</b> Yorki .</em>
+* <em>Graali</em>
+  * [PROPN]() 11: <em>Just praegu leidis üks võõras rüütel Püha <b>Graali</b> .</em>
+  * [NOUN]() 1: <em>Ainult siis oleme me väärt jõudma oma eesmärgini ja leidma Püha <b>Graali</b> ! "</em>
+* <em>Savisaar</em>
+  * [PROPN]() 10: <em>Nüüd sihib <b>Savisaar</b> erakorralisi valimisi .</em>
+  * [NOUN]() 1: <em>Lindiskandaalist toibunud <b>Savisaar</b> on soojade suveilmadega tublisti kosunud ja oma varasema vormi taastanud .</em>
 * <em>Rüütel</em>
-  * [PROPN]() 15: <em>Prints ja <b>Rüütel</b> kohtusid St Jamesi palees</em>
+  * [PROPN]() 5: <em>Pühapäeva õhtul esinesid Eesti Televisiooni valimisstuudios Lennart Meri ja Arnold <b>Rüütel</b> .</em>
   * [NOUN]() 1: <em>Seda öelnud , heitis Sinine <b>Rüütel</b> hinge .</em>
-* <em>Kalju</em>
-  * [PROPN]() 14: <em>Tõnu Kaalep lehitseb <b>Kalju</b> Suure uut fotoraamatut .</em>
-  * [NOUN]() 1: <em><b>Kalju</b> peidus palvetava mehe käest kuulsin veel , et võõrastemaja oli kunagi olnud mošee , millelt minarett oli usklike üle mõnitamise nimel maha lõhutud .</em>
+* <em>Osilius</em>
+  * [PROPN]() 4: <em><b>Osilius</b> avas pakiruumi .</em>
+  * [NOUN]() 1: <em>" See kulutab ju hullult energiat ! " ehmatas <b>Osilius</b> .</em>
+* <em>Sir</em>
+  * [NOUN]() 7: <em>Saatus soosis <b>Sir</b> Borsi .</em>
+  * [PROPN]() 3: <em><b>Sir</b> Bors järgnes tema eeskujule .</em>
+* <em>Kadrioru</em>
+  * [PROPN]() 2: <em>Algul oli selle vastu <b>Kadrioru</b> ajutrust .</em>
+  * [NOUN]() 1: <em><b>Kadrioru</b> ja Toompea vahel käis naljakas võidujooks , mille võitsid Savisaar ja Meri .</em>
+* <em>Saarepuu</em>
+  * [NOUN]() 3: <em><b>Saarepuu</b> lõpetaks Tour de Ski pärast kolme esimest etappi .</em>
+  * [PROPN]() 2: <em>" Vähemalt loodan , et liiguvad , " sõnas <b>Saarepuu</b> optimistlikul toonil .</em>
+* <em>Laser</em>
+  * [PROPN]() 1: <em>Hollandis 4. - 11. augustil peetud <b>Laser</b> Radiali juunioride MM-il osalesid Kaarel Kruusmägi ( Saaremaa Merispordi Selts ) , Ilmar Rosme ( Tallinna Jahtklubi ) ja Liina Kolk ( Saaremaa Merispordi Selts ) .</em>
+  * [NOUN]() 1: <em><b>Laser</b> Radiali maailmameistrid selgitati välja kümne võistlussõidu käigus .</em>
+* <em>Mind</em>
+  * [PRON]() 4: <em><b>Mind</b> anti talle üle 1956. aastal koos rahvakunstniku tunnistusega . "</em>
+  * [PROPN]() 1: <em>Kuid väga soovitatavad on ka kõik Body & <b>Mind</b> tüüpi treeningud - jooga , pilates , bodybalance - , sest neis saab parandada liikuvust ja samaaegselt tugevdada rühti hoidvaid lihaseid .</em>
+* <em>Noor</em>
+  * [ADJ]() 2: <em><b>Noor</b> emakotkas tatsas nõtkelt mööda puuri ringi .</em>
+  * [PROPN]() 1: <em>2. Karolina <b>Noor</b> ( EST-255 )</em>
 
 ## Morphology
 
-The form / lemma ratio of `PROPN` is 1.320850 (the average of all parts of speech is 1.839644).
+The form / lemma ratio of `PROPN` is 1.209408 (the average of all parts of speech is 1.545328).
 
-The 1st highest number of forms (10) was observed with the lemma “Eesti”: <em>EESTI, Eesti, Eestiga, Eestil, Eestile, Eestis, Eestiski, Eestisse, Eestist, Eestit</em>.
+The 1st highest number of forms (5) was observed with the lemma “Indrikson”: <em>Indrikson, Indriksoni, Indriksonid, Indriksoniga, Indriksonile</em>.
 
-The 2nd highest number of forms (8) was observed with the lemma “Jan”: <em>Jan, Jane, Jani, Janiga, Janiks, Janil, Janile, Janilt</em>.
+The 2nd highest number of forms (5) was observed with the lemma “Petrov”: <em>Petrov, Petrovi, Petrovil, Petrovile, Petrovist</em>.
 
-The 3rd highest number of forms (8) was observed with the lemma “Rootsi”: <em>Rootsi, Rootsiga, Rootsil, Rootsile, Rootsilt, Rootsis, Rootsist, Rootsit</em>.
+The 3rd highest number of forms (5) was observed with the lemma “Tallinn”: <em>Tallinn, Tallinna, Tallinnas, Tallinnasse, Tallinnast</em>.
 
-`PROPN` occurs with 4 features: [et-feat/Case]() (12968; 99% instances), [et-feat/Number]() (12968; 99% instances), [et-feat/Abbr]() (107; 1% instances), [et-feat/Hyph]() (24; 0% instances)
+`PROPN` occurs with 3 features: [et-feat/Number]() (1666; 100% instances), [et-feat/Case]() (1665; 99% instances), [et-feat/Abbr]() (5; 0% instances)
 
-`PROPN` occurs with 19 feature-value pairs: `Abbr=Yes`, `Case=Abe`, `Case=Abl`, `Case=Add`, `Case=Ade`, `Case=All`, `Case=Com`, `Case=Ela`, `Case=Ess`, `Case=Gen`, `Case=Ill`, `Case=Ine`, `Case=Nom`, `Case=Par`, `Case=Ter`, `Case=Tra`, `Hyph=Yes`, `Number=Plur`, `Number=Sing`
+`PROPN` occurs with 18 feature-value pairs: `Abbr=Yes`, `Case=Abe`, `Case=Abl`, `Case=Add`, `Case=Ade`, `Case=All`, `Case=Com`, `Case=Ela`, `Case=Ess`, `Case=Gen`, `Case=Ill`, `Case=Ine`, `Case=Nom`, `Case=Par`, `Case=Ter`, `Case=Tra`, `Number=Plur`, `Number=Sing`
 
-`PROPN` occurs with 30 feature combinations.
-The most frequent feature combination is `Case=Nom|Number=Sing` (6389 tokens).
-Examples: <em>Peeter, Jan, Eesti, Tõnu, Ott, Jüri, Jooga, Mart, Ernesaks, Indrikson</em>
+`PROPN` occurs with 21 feature combinations.
+The most frequent feature combination is `Case=Nom|Number=Sing` (1064 tokens).
+Examples: <em>Peeter, Tõnu, Ott, Tsee, Ernesaks, Indrikson, Petrov, Aune, Arnold, Lennart</em>
 
 
 ## Relations
 
-`PROPN` nodes are attached to their parents using 20 different relations: [et-dep/nmod]() (6122; 47% instances), [et-dep/nsubj]() (2688; 21% instances), [et-dep/name]() (1976; 15% instances), [et-dep/conj]() (986; 8% instances), [et-dep/dobj]() (357; 3% instances), [et-dep/root]() (270; 2% instances), [et-dep/nsubj:cop]() (261; 2% instances), [et-dep/parataxis]() (145; 1% instances), [et-dep/amod]() (72; 1% instances), [et-dep/advcl]() (70; 1% instances), [et-dep/foreign]() (49; 0% instances), [et-dep/vocative]() (28; 0% instances), [et-dep/list]() (20; 0% instances), [et-dep/xcomp]() (11; 0% instances), [et-dep/appos]() (9; 0% instances), [et-dep/dep]() (6; 0% instances), [et-dep/ccomp]() (5; 0% instances), [et-dep/case]() (4; 0% instances), [et-dep/acl:relcl]() (3; 0% instances), [et-dep/compound]() (2; 0% instances)
+`PROPN` nodes are attached to their parents using 17 different relations: [et-dep/nsubj]() (664; 40% instances), [et-dep/nmod]() (312; 19% instances), [et-dep/obl]() (210; 13% instances), [et-dep/flat]() (205; 12% instances), [et-dep/conj]() (88; 5% instances), [et-dep/obj]() (71; 4% instances), [et-dep/nsubj:cop]() (38; 2% instances), [et-dep/root]() (23; 1% instances), [et-dep/appos]() (17; 1% instances), [et-dep/vocative]() (17; 1% instances), [et-dep/parataxis]() (12; 1% instances), [et-dep/amod]() (5; 0% instances), [et-dep/advcl]() (4; 0% instances), [et-dep/ccomp]() (4; 0% instances), [et-dep/xcomp]() (2; 0% instances), [et-dep/acl:relcl]() (1; 0% instances), [et-dep/nmod:poss]() (1; 0% instances)
 
-Parents of `PROPN` nodes belong to 15 different parts of speech: [VERB]() (4614; 35% instances), [NOUN]() (4403; 34% instances), [PROPN]() (3191; 24% instances), [ADJ]() (448; 3% instances), [ROOT]() (270; 2% instances), [PRON]() (49; 0% instances), [NUM]() (46; 0% instances), [ADV]() (31; 0% instances), [X]() (11; 0% instances), [AUX]() (8; 0% instances), [SYM]() (7; 0% instances), [CONJ]() (3; 0% instances), [ADP]() (1; 0% instances), [INTJ]() (1; 0% instances), [PUNCT]() (1; 0% instances)
+Parents of `PROPN` nodes belong to 7 different parts of speech: [VERB]() (923; 55% instances), [NOUN]() (356; 21% instances), [PROPN]() (301; 18% instances), [ADJ]() (53; 3% instances), [ROOT]() (23; 1% instances), [ADV]() (9; 1% instances), [PRON]() (9; 1% instances)
 
-8938 (68%) `PROPN` nodes are leaves.
+1163 (69%) `PROPN` nodes are leaves.
 
-1910 (15%) `PROPN` nodes have one child.
+287 (17%) `PROPN` nodes have one child.
 
-1289 (10%) `PROPN` nodes have two children.
+128 (8%) `PROPN` nodes have two children.
 
-947 (7%) `PROPN` nodes have three or more children.
+96 (6%) `PROPN` nodes have three or more children.
 
-The highest child degree of a `PROPN` node is 19.
+The highest child degree of a `PROPN` node is 7.
 
-Children of `PROPN` nodes are attached using 30 different relations: [et-dep/name]() (1977; 23% instances), [et-dep/punct]() (1348; 16% instances), [et-dep/conj]() (978; 12% instances), [et-dep/appos]() (941; 11% instances), [et-dep/nmod]() (760; 9% instances), [et-dep/cc]() (651; 8% instances), [et-dep/advmod]() (304; 4% instances), [et-dep/nummod]() (274; 3% instances), [et-dep/case]() (272; 3% instances), [et-dep/amod]() (212; 3% instances), [et-dep/acl]() (172; 2% instances), [et-dep/acl:relcl]() (159; 2% instances), [et-dep/parataxis]() (80; 1% instances), [et-dep/mark]() (64; 1% instances), [et-dep/foreign]() (53; 1% instances), [et-dep/det]() (52; 1% instances), [et-dep/cop]() (37; 0% instances), [et-dep/nsubj:cop]() (35; 0% instances), [et-dep/list]() (23; 0% instances), [et-dep/dep]() (18; 0% instances), [et-dep/cc:preconj]() (16; 0% instances), [et-dep/advcl]() (12; 0% instances), [et-dep/dobj]() (11; 0% instances), [et-dep/discourse]() (8; 0% instances), [et-dep/nmod:poss]() (7; 0% instances), [et-dep/nsubj]() (4; 0% instances), [et-dep/compound]() (3; 0% instances), [et-dep/xcomp]() (2; 0% instances), [et-dep/advmod:quant]() (1; 0% instances), [et-dep/vocative]() (1; 0% instances)
+Children of `PROPN` nodes are attached using 24 different relations: [et-dep/flat]() (217; 24% instances), [et-dep/nmod]() (174; 19% instances), [et-dep/punct]() (162; 18% instances), [et-dep/conj]() (89; 10% instances), [et-dep/cc]() (52; 6% instances), [et-dep/case]() (38; 4% instances), [et-dep/amod]() (37; 4% instances), [et-dep/acl]() (27; 3% instances), [et-dep/advmod]() (24; 3% instances), [et-dep/acl:relcl]() (18; 2% instances), [et-dep/cop]() (13; 1% instances), [et-dep/nummod]() (12; 1% instances), [et-dep/nsubj:cop]() (10; 1% instances), [et-dep/mark]() (8; 1% instances), [et-dep/det]() (6; 1% instances), [et-dep/parataxis]() (4; 0% instances), [et-dep/advcl]() (3; 0% instances), [et-dep/appos]() (3; 0% instances), [et-dep/aux]() (2; 0% instances), [et-dep/discourse]() (2; 0% instances), [et-dep/cc:preconj]() (1; 0% instances), [et-dep/nmod:poss]() (1; 0% instances), [et-dep/obj]() (1; 0% instances), [et-dep/obl]() (1; 0% instances)
 
-Children of `PROPN` nodes belong to 14 different parts of speech: [PROPN]() (3191; 38% instances), [NOUN]() (1592; 19% instances), [PUNCT]() (1348; 16% instances), [CONJ]() (631; 7% instances), [ADJ]() (389; 5% instances), [ADV]() (341; 4% instances), [NUM]() (279; 3% instances), [ADP]() (269; 3% instances), [VERB]() (227; 3% instances), [PRON]() (94; 1% instances), [SCONJ]() (65; 1% instances), [SYM]() (24; 0% instances), [X]() (17; 0% instances), [INTJ]() (8; 0% instances)
+Children of `PROPN` nodes belong to 16 different parts of speech: [PROPN]() (301; 33% instances), [NOUN]() (179; 20% instances), [PUNCT]() (162; 18% instances), [ADJ]() (61; 7% instances), [CCONJ]() (53; 6% instances), [ADP]() (38; 4% instances), [VERB]() (26; 3% instances), [ADV]() (24; 3% instances), [AUX]() (15; 2% instances), [NUM]() (13; 1% instances), [PRON]() (12; 1% instances), [SCONJ]() (8; 1% instances), [DET]() (6; 1% instances), [SYM]() (3; 0% instances), [INTJ]() (2; 0% instances), [X]() (2; 0% instances)
 

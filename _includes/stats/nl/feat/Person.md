@@ -7,76 +7,78 @@
 This feature is universal.
 It occurs with 3 different values: `1`, `2`, `3`.
 
-16973 tokens (8%) have a non-empty value of `Person`.
-941 types (3%) occur at least once with a non-empty value of `Person`.
-806 lemmas (4%) occur at least once with a non-empty value of `Person`.
-The feature is used with 5 part-of-speech tags: [nl-pos/PRON]() (7047; 3% instances), [nl-pos/VERB]() (5593; 3% instances), [nl-pos/AUX]() (4203; 2% instances), [nl-pos/X]() (128; 0% instances), [nl-pos/DET]() (2; 0% instances).
+16203 tokens (8%) have a non-empty value of `Person`.
+906 types (3%) occur at least once with a non-empty value of `Person`.
+761 lemmas (4%) occur at least once with a non-empty value of `Person`.
+The feature is used with 5 part-of-speech tags: [nl-pos/PRON]() (6833; 3% instances), [nl-pos/AUX]() (4718; 2% instances), [nl-pos/VERB]() (4528; 2% instances), [nl-pos/X]() (122; 0% instances), [nl-pos/DET]() (2; 0% instances).
 
 ### `PRON`
 
-7047 [nl-pos/PRON]() tokens (41% of all `PRON` tokens) have a non-empty value of `Person`.
+6833 [nl-pos/PRON]() tokens (43% of all `PRON` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="PronType.html">PronType</a>=Prs</tt> (7047; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (4509; 64%), <tt><a href="Case.html">Case</a>=Nom</tt> (4104; 58%).
+The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="PronType.html">PronType</a>=Prs</tt> (6833; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (4411; 65%), <tt><a href="Case.html">Case</a>=Nom</tt> (3996; 58%).
 
 `PRON` tokens may have the following values of `Person`:
 
-* `1` (2440; 35% of non-empty `Person`): <em>ik, we, ons, wij, me, mijn, mij, onze, mezelf, m'n</em>
-* `2` (355; 5% of non-empty `Person`): <em>je, u, jullie, jij, uw, jou, gij, jouw, jezelf, ge</em>
-* `3` (4252; 60% of non-empty `Person`): <em>hij, zijn, zich, ze, hun, zij, haar, hem, het, hen</em>
-* `EMPTY` (10077): <em>die, het, dat, wat, welke, dit, deze, wie, geen, men</em>
+* `1` (2403; 35% of non-empty `Person`): <em>ik, we, ons, wij, me, mijn, mij, onze, mezelf, m'n</em>
+* `2` (348; 5% of non-empty `Person`): <em>je, u, jullie, jij, uw, jou, gij, jouw, jezelf, ge</em>
+* `3` (4082; 60% of non-empty `Person`): <em>hij, zijn, zich, ze, hun, zij, haar, hem, het, hen</em>
+* `EMPTY` (9006): <em>die, het, dat, wat, welke, dit, deze, wie, men, geen</em>
 
-`Person` seems to be **lexical feature** of `PRON`. 100% lemmas (46) occur only with one value of `Person`.
-
-### `VERB`
-
-5593 [nl-pos/VERB]() tokens (28% of all `VERB` tokens) have a non-empty value of `Person`.
-
-The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="Tense.html">Tense</a>=Pres</tt> (5593; 100%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (5593; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (5593; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (5593; 100%), <tt><a href="Aspect.html">Aspect</a>=Imp</tt> (5593; 100%), <tt><a href="VerbType.html">VerbType</a>=EMPTY</tt> (3890; 70%).
-
-`VERB` tokens may have the following values of `Person`:
-
-* `1` (609; 11% of non-empty `Person`): <em>heb, wil, vind, kan, weet, denk, ga, geloof, moet, zal</em>
-* `2` (224; 4% of non-empty `Person`): <em>kun, kunt, moet, hebt, weet, heb, wil, denk, doe, ga</em>
-* `3` (4760; 85% of non-empty `Person`): <em>zal, heeft, kan, komt, moet, gaat, heet, noemt, ligt, wil</em>
-* `EMPTY` (14519): <em>zou, kunnen, hebben, gaan, moeten, komen, zullen, had, zei, kwam</em>
-
-<table>
-  <tr><th>Paradigm <i>zal</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
-  <tr><td><tt><a href="Subcat.html">Subcat</a>=Tran</tt></td><td><em>zal</em></td><td><em>zal</em></td><td></td></tr>
-  <tr><td><tt><a href="VerbType.html">VerbType</a>=Mod</tt></td><td><em>zal</em></td><td><em>zult, zul</em></td><td><em>zal</em></td></tr>
-</table>
+`Person` seems to be **lexical feature** of `PRON`. 100% lemmas (45) occur only with one value of `Person`.
 
 ### `AUX`
 
-4203 [nl-pos/AUX]() tokens (37% of all `AUX` tokens) have a non-empty value of `Person`.
+4718 [nl-pos/AUX]() tokens (46% of all `AUX` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `AUX` and `Person` co-occurred: <tt><a href="Aspect.html">Aspect</a>=Imp</tt> (4203; 100%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (4203; 100%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (4203; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (4203; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (4203; 100%), <tt><a href="Subcat.html">Subcat</a>=EMPTY</tt> (4118; 98%), <tt><a href="VerbType.html">VerbType</a>=Aux,Cop</tt> (3425; 81%).
+The most frequent other feature values with which `AUX` and `Person` co-occurred: <tt><a href="Number.html">Number</a>=Sing</tt> (4718; 100%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (4718; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (4718; 100%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (4718; 100%), <tt><a href="Aspect.html">Aspect</a>=Imp</tt> (4718; 100%), <tt><a href="Subcat.html">Subcat</a>=EMPTY</tt> (4426; 94%), <tt><a href="VerbType.html">VerbType</a>=EMPTY</tt> (4037; 86%).
 
 `AUX` tokens may have the following values of `Person`:
 
-* `1` (282; 7% of non-empty `Person`): <em>heb, ben, word, vind</em>
-* `2` (64; 2% of non-empty `Person`): <em>bent, ben, hebt, heb, moet, word, blijft, getypt, wordt</em>
-* `3` (3857; 92% of non-empty `Person`): <em>is, heeft, wordt, heet, blijft, lijkt, blijkt, schijnt, komt, ontdekt</em>
-* `EMPTY` (7227): <em>zijn, was, worden, werd, hebben, had, waren, werden, geweest, genoemd</em>
+* `1` (399; 8% of non-empty `Person`): <em>heb, ben, wil, vind, zal, word, hou, beschouw, verslijt, acht</em>
+* `2` (80; 2% of non-empty `Person`): <em>bent, ben, hebt, heb, zult, ga, moet, wil, wilt, word</em>
+* `3` (4239; 90% of non-empty `Person`): <em>is, heeft, wordt, zal, wil, heet, blijft, lijkt, vindt, maakt</em>
+* `EMPTY` (5470): <em>zijn, was, worden, werd, hebben, zou, had, waren, zullen, werden</em>
 
 <table>
   <tr><th>Paradigm <i>ben</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
-  <tr><td><tt></tt></td><td><em>ben</em></td><td></td><td><em>is</em></td></tr>
-  <tr><td><tt><a href="VerbType.html">VerbType</a>=Aux,Cop</tt></td><td><em>ben</em></td><td><em>bent, ben</em></td><td><em>is, Da's</em></td></tr>
+  <tr><td><tt><a href="Subcat.html">Subcat</a>=Intr</tt></td><td><em>ben</em></td><td></td><td><em>is</em></td></tr>
+  <tr><td><tt><a href="Subcat.html">Subcat</a>=Tran</tt></td><td></td><td><em>Weest</em></td><td></td></tr>
+  <tr><td><tt></tt></td><td><em>ben</em></td><td><em>bent, ben</em></td><td><em>is, Da's</em></td></tr>
+  <tr><td><tt><a href="VerbType.html">VerbType</a>=Aux,Cop</tt></td><td><em>ben</em></td><td><em>bent, ben</em></td><td><em>is</em></td></tr>
+</table>
+
+### `VERB`
+
+4528 [nl-pos/VERB]() tokens (23% of all `VERB` tokens) have a non-empty value of `Person`.
+
+The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="Aspect.html">Aspect</a>=Imp</tt> (4528; 100%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (4528; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (4528; 100%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (4528; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (4528; 100%), <tt><a href="VerbType.html">VerbType</a>=EMPTY</tt> (3444; 76%).
+
+`VERB` tokens may have the following values of `Person`:
+
+* `1` (476; 11% of non-empty `Person`): <em>heb, kan, weet, denk, wil, ga, geloof, moet, kom, zie</em>
+* `2` (199; 4% of non-empty `Person`): <em>kun, kunt, hebt, moet, denk, doe, heb, mag, vindt, weet</em>
+* `3` (3853; 85% of non-empty `Person`): <em>heeft, kan, komt, moet, gaat, heet, noemt, ligt, staat, zegt</em>
+* `EMPTY` (15135): <em>kunnen, gaan, hebben, moeten, komen, zei, had, kwam, doen, zien</em>
+
+<table>
+  <tr><th>Paradigm <i>heb</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
+  <tr><td><tt><a href="Subcat.html">Subcat</a>=Tran</tt></td><td><em>heb</em></td><td><em>hebt, heb</em></td><td><em>heeft, heb'</em></td></tr>
+  <tr><td><tt><a href="VerbType.html">VerbType</a>=Mod</tt></td><td><em>heb</em></td><td><em>hebt, heb</em></td><td><em>heeft</em></td></tr>
 </table>
 
 ### `X`
 
-128 [nl-pos/X]() tokens (3% of all `X` tokens) have a non-empty value of `Person`.
+122 [nl-pos/X]() tokens (3% of all `X` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `X` and `Person` co-occurred: <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (124; 97%), <tt><a href="Definite.html">Definite</a>=EMPTY</tt> (110; 86%), <tt><a href="Number.html">Number</a>=Sing</tt> (92; 72%), <tt><a href="Degree.html">Degree</a>=EMPTY</tt> (76; 59%).
+The most frequent other feature values with which `X` and `Person` co-occurred: <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (118; 97%), <tt><a href="Definite.html">Definite</a>=EMPTY</tt> (104; 85%), <tt><a href="Number.html">Number</a>=Sing</tt> (92; 75%), <tt><a href="Degree.html">Degree</a>=EMPTY</tt> (70; 57%).
 
 `X` tokens may have the following values of `Person`:
 
-* `1` (21; 16% of non-empty `Person`): <em>van, Lieve, Mam, Maria, Vrouw, gunstige, hart, heilige, inziens, is</em>
-* `2` (41; 32% of non-empty `Person`): <em>je, ik, u, van, wat, Begrijp, Dick, Dijk, Glaasje, Neem</em>
-* `3` (66; 52% of non-empty `Person`): <em>dat, wil, zeggen, zijn, het, op, even, om, inziens, is</em>
-* `EMPTY` (4507): <em>van, het, op, flo, voor, met, ten, aan, een, onder</em>
+* `1` (21; 17% of non-empty `Person`): <em>van, Lieve, Mam, Maria, Vrouw, gunstige, hart, heilige, inziens, is</em>
+* `2` (41; 34% of non-empty `Person`): <em>je, ik, u, van, wat, Begrijp, Dick, Dijk, Glaasje, Neem</em>
+* `3` (60; 49% of non-empty `Person`): <em>zijn, het, op, dat, even, om, wil, zeggen, inziens, is</em>
+* `EMPTY` (4104): <em>van, het, flo, op, voor, ten, met, aan, een, te</em>
 
 <table>
   <tr><th>Paradigm <i>van</i></th><th><tt>1</tt></th><th><tt>2</tt></th></tr>
@@ -92,24 +94,25 @@ The most frequent other feature values with which `X` and `Person` co-occurred: 
 
 2 [nl-pos/DET]() tokens (0% of all `DET` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `DET` and `Person` co-occurred: <tt><a href="PronType.html">PronType</a>=Prs</tt> (2; 100%), <tt><a href="Gender.html">Gender</a>=Fem</tt> (2; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (2; 100%), <tt><a href="Definite.html">Definite</a>=EMPTY</tt> (2; 100%).
+The most frequent other feature values with which `DET` and `Person` co-occurred: <tt><a href="Number.html">Number</a>=Sing</tt> (2; 100%), <tt><a href="Gender.html">Gender</a>=Fem</tt> (2; 100%), <tt><a href="Definite.html">Definite</a>=EMPTY</tt> (2; 100%), <tt><a href="PronType.html">PronType</a>=Prs</tt> (2; 100%).
 
 `DET` tokens may have the following values of `Person`:
 
 * `1` (2; 100% of non-empty `Person`): <em>Nostra, nuestra</em>
-* `EMPTY` (21848): <em>de, een, het, veel, meer, der, vele, meeste, weinig, minder</em>
+* `EMPTY` (21254): <em>de, een, het, veel, meer, hoeveel, minder, weinig, der, tot</em>
 
 ## Relations with Agreement in `Person`
 
 The 10 most frequent relations where parent and child node agree in `Person`:
-<tt>VERB --[<a href="../dep/conj.html">conj</a>]--> VERB</tt> (133; 54%),
-<tt>X --[<a href="../dep/compound.html">compound</a>]--> X</tt> (67; 100%),
-<tt>AUX --[<a href="../dep/conj.html">conj</a>]--> AUX</tt> (18; 69%),
-<tt>VERB --[<a href="../dep/csubj.html">csubj</a>]--> AUX</tt> (10; 63%),
-<tt>X --[<a href="../dep/mark.html">mark</a>]--> X</tt> (4; 100%),
-<tt>VERB --[<a href="../dep/cc.html">cc</a>]--> VERB</tt> (2; 100%),
+<tt>X --[<a href="../dep/compound.html">compound</a>]--> X</tt> (64; 100%),
+<tt>VERB --[<a href="../dep/csubj.html">csubj</a>]--> AUX</tt> (4; 57%),
+<tt>X --[<a href="../dep/mark.html">mark</a>]--> X</tt> (3; 100%),
 <tt>PRON --[<a href="../dep/case.html">case</a>]--> AUX</tt> (2; 67%),
-<tt>PRON --[<a href="../dep/expl.html">expl</a>]--> PRON</tt> (1; 100%).
+<tt>AUX --[<a href="../dep/conj.html">conj</a>]--> AUX</tt> (2; 100%),
+<tt>VERB --[<a href="../dep/cc.html">cc</a>]--> VERB</tt> (2; 100%),
+<tt>PRON --[<a href="../dep/expl:pv.html">expl:pv</a>]--> PRON</tt> (1; 100%),
+<tt>AUX --[<a href="../dep/advcl.html">advcl</a>]--> AUX</tt> (1; 100%),
+<tt>VERB --[<a href="../dep/mark.html">mark</a>]--> AUX</tt> (1; 100%).
 
 
 
@@ -120,23 +123,23 @@ The 10 most frequent relations where parent and child node agree in `Person`:
 This feature is universal.
 It occurs with 3 different values: `1`, `2`, `3`.
 
-1796 tokens (2%) have a non-empty value of `Person`.
+1694 tokens (2%) have a non-empty value of `Person`.
 55 types (0%) occur at least once with a non-empty value of `Person`.
 34 lemmas (0%) occur at least once with a non-empty value of `Person`.
-The feature is used with 1 part-of-speech tags: [nl-pos/PRON]() (1796; 2% instances).
+The feature is used with 1 part-of-speech tags: [nl-pos/PRON]() (1694; 2% instances).
 
 ### `PRON`
 
-1796 [nl-pos/PRON]() tokens (69% of all `PRON` tokens) have a non-empty value of `Person`.
+1694 [nl-pos/PRON]() tokens (69% of all `PRON` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="PronType.html">PronType</a>=Prs</tt> (1460; 81%).
+The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="PronType.html">PronType</a>=Prs</tt> (1373; 81%).
 
 `PRON` tokens may have the following values of `Person`:
 
-* `1` (56; 3% of non-empty `Person`): <em>ik, we, ons, wij, mij, mijn, me</em>
-* `2` (28; 2% of non-empty `Person`): <em>je, u, jij</em>
-* `3` (1712; 95% of non-empty `Person`): <em>hij, ze, het, zich, dat, dit, zij, wat, men, hem</em>
-* `EMPTY` (825): <em>die, meer, deze, vele, veel, meeste, elkaar, minder, meest, enige</em>
+* `1` (55; 3% of non-empty `Person`): <em>ik, we, ons, mij, mijn, wij, me</em>
+* `2` (24; 1% of non-empty `Person`): <em>je, u, jij</em>
+* `3` (1615; 95% of non-empty `Person`): <em>hij, ze, het, zich, dat, dit, zij, men, wat, hem</em>
+* `EMPTY` (772): <em>die, meer, deze, vele, veel, meeste, elkaar, minder, meest, enige</em>
 
 `Person` seems to be **lexical feature** of `PRON`. 100% lemmas (34) occur only with one value of `Person`.
 

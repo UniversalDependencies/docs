@@ -4,8 +4,8 @@
 
 ## Treebank Statistics (UD_Tamil)
 
-There are 28 `AUX` lemmas (1%), 130 `AUX` types (4%) and 627 `AUX` tokens (7%).
-Out of 14 observed tags, the rank of `AUX` is: 9 in number of lemmas, 6 in number of types and 7 in number of tokens.
+There are 29 `AUX` lemmas (1%), 131 `AUX` types (4%) and 628 `AUX` tokens (7%).
+Out of 14 observed tags, the rank of `AUX` is: 8 in number of lemmas, 6 in number of types and 7 in number of tokens.
 
 The 10 most frequent `AUX` lemmas: உள், படு, வேண்டு, இரு, வரு, கொள், இல், செய், விடு, வா
 
@@ -49,7 +49,7 @@ The 10 most frequent ambiguous types:  உள்ளது ([AUX]() 78, [VERB]() 
 
 ## Morphology
 
-The form / lemma ratio of `AUX` is 4.642857 (the average of all parts of speech is 1.557992).
+The form / lemma ratio of `AUX` is 4.517241 (the average of all parts of speech is 1.558463).
 
 The 1st highest number of forms (22) was observed with the lemma “படு”: பட, படக், படவ், படாது, படுகின்றன, படுகின்றனர், படுகிறது, படும், படுவார்கள், பட்ட, பட்டதற்கு, பட்டது, பட்டத், பட்டன, பட்டனர், பட்டார், பட்டால், பட்டு, பட்ட், ப்பட, ப்படும், ப்பட்ட்.
 
@@ -57,22 +57,22 @@ The 2nd highest number of forms (18) was observed with the lemma “இரு”
 
 The 3rd highest number of forms (13) was observed with the lemma “கொள்”: கொண்டதற்க், கொண்டது, கொண்டத், கொண்டனர், கொண்டார், கொண்டு, கொண்ட், கொள்கிறேன், கொள்ள, கொள்ளல், கொள்வது, கொள்வதைய், கொள்வார்.
 
-`AUX` occurs with 11 features: [ta-feat/Negative]() (627; 100% instances), [ta-feat/VerbForm]() (627; 100% instances), [ta-feat/Voice]() (616; 98% instances), [ta-feat/Gender]() (476; 76% instances), [ta-feat/Number]() (476; 76% instances), [ta-feat/Person]() (476; 76% instances), [ta-feat/Mood]() (430; 69% instances), [ta-feat/Tense]() (260; 41% instances), [ta-feat/Polite]() (85; 14% instances), [ta-feat/Case]() (58; 9% instances), [ta-feat/Animacy]() (41; 7% instances)
+`AUX` occurs with 11 features: [ta-feat/Polarity]() (628; 100% instances), [ta-feat/VerbForm]() (628; 100% instances), [ta-feat/Voice]() (617; 98% instances), [ta-feat/Gender]() (477; 76% instances), [ta-feat/Number]() (477; 76% instances), [ta-feat/Person]() (477; 76% instances), [ta-feat/Mood]() (431; 69% instances), [ta-feat/Tense]() (261; 42% instances), [ta-feat/Polite]() (85; 14% instances), [ta-feat/Case]() (58; 9% instances), [ta-feat/Animacy]() (41; 7% instances)
 
-`AUX` occurs with 26 feature-value pairs: `Animacy=Anim`, `Case=Acc`, `Case=Dat`, `Case=Ins`, `Case=Nom`, `Gender=Com`, `Gender=Neut`, `Mood=Cnd`, `Mood=Ind`, `Negative=Neg`, `Negative=Pos`, `Number=Plur`, `Number=Sing`, `Person=1`, `Person=2`, `Person=3`, `Polite=Pol`, `Tense=Fut`, `Tense=Past`, `Tense=Pres`, `VerbForm=Fin`, `VerbForm=Ger`, `VerbForm=Inf`, `VerbForm=Part`, `Voice=Act`, `Voice=Pass`
+`AUX` occurs with 26 feature-value pairs: `Animacy=Anim`, `Case=Acc`, `Case=Dat`, `Case=Ins`, `Case=Nom`, `Gender=Com`, `Gender=Neut`, `Mood=Cnd`, `Mood=Ind`, `Number=Plur`, `Number=Sing`, `Person=1`, `Person=2`, `Person=3`, `Polarity=Neg`, `Polarity=Pos`, `Polite=Form`, `Tense=Fut`, `Tense=Past`, `Tense=Pres`, `VerbForm=Fin`, `VerbForm=Ger`, `VerbForm=Inf`, `VerbForm=Part`, `Voice=Act`, `Voice=Pass`
 
 `AUX` occurs with 50 feature combinations.
-The most frequent feature combination is `Gender=Neut|Mood=Ind|Negative=Pos|Number=Sing|Person=3|VerbForm=Fin|Voice=Act` (83 tokens).
+The most frequent feature combination is `Gender=Neut|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|VerbForm=Fin|Voice=Act` (83 tokens).
 Examples: உள்ளது, ஆம், பெற்றுள்ளது
 
 
 ## Relations
 
-`AUX` nodes are attached to their parents using 8 different relations: [ta-dep/aux]() (601; 96% instances), [ta-dep/root]() (13; 2% instances), [ta-dep/acl]() (4; 1% instances), [ta-dep/advcl]() (3; 0% instances), [ta-dep/parataxis]() (3; 0% instances), [ta-dep/ccomp]() (1; 0% instances), [ta-dep/csubj]() (1; 0% instances), [ta-dep/det]() (1; 0% instances)
+`AUX` nodes are attached to their parents using 9 different relations: [ta-dep/aux]() (601; 96% instances), [ta-dep/root]() (13; 2% instances), [ta-dep/acl]() (4; 1% instances), [ta-dep/advcl]() (3; 0% instances), [ta-dep/parataxis]() (3; 0% instances), [ta-dep/ccomp]() (1; 0% instances), [ta-dep/cop]() (1; 0% instances), [ta-dep/csubj]() (1; 0% instances), [ta-dep/det]() (1; 0% instances)
 
-Parents of `AUX` nodes belong to 6 different parts of speech: [VERB]() (540; 86% instances), [NOUN]() (70; 11% instances), [ROOT]() (13; 2% instances), [PROPN]() (2; 0% instances), [ADV]() (1; 0% instances), [AUX]() (1; 0% instances)
+Parents of `AUX` nodes belong to 6 different parts of speech: [VERB]() (540; 86% instances), [NOUN]() (71; 11% instances), [ROOT]() (13; 2% instances), [PROPN]() (2; 0% instances), [ADV]() (1; 0% instances), [AUX]() (1; 0% instances)
 
-605 (96%) `AUX` nodes are leaves.
+606 (96%) `AUX` nodes are leaves.
 
 5 (1%) `AUX` nodes have one child.
 
@@ -82,7 +82,7 @@ Parents of `AUX` nodes belong to 6 different parts of speech: [VERB]() (540; 86%
 
 The highest child degree of a `AUX` node is 6.
 
-Children of `AUX` nodes are attached using 11 different relations: [ta-dep/punct]() (18; 30% instances), [ta-dep/advcl]() (7; 11% instances), [ta-dep/nmod]() (6; 10% instances), [ta-dep/nsubj]() (6; 10% instances), [ta-dep/advmod]() (5; 8% instances), [ta-dep/dobj]() (5; 8% instances), [ta-dep/advmod:emph]() (4; 7% instances), [ta-dep/ccomp]() (4; 7% instances), [ta-dep/mark]() (4; 7% instances), [ta-dep/aux]() (1; 2% instances), [ta-dep/nsubjpass]() (1; 2% instances)
+Children of `AUX` nodes are attached using 12 different relations: [ta-dep/punct]() (18; 30% instances), [ta-dep/advcl]() (7; 11% instances), [ta-dep/nsubj]() (6; 10% instances), [ta-dep/advmod]() (5; 8% instances), [ta-dep/obj]() (5; 8% instances), [ta-dep/obl]() (5; 8% instances), [ta-dep/advmod:emph]() (4; 7% instances), [ta-dep/ccomp]() (4; 7% instances), [ta-dep/mark]() (4; 7% instances), [ta-dep/aux]() (1; 2% instances), [ta-dep/nmod]() (1; 2% instances), [ta-dep/nsubj:pass]() (1; 2% instances)
 
 Children of `AUX` nodes belong to 9 different parts of speech: [PUNCT]() (18; 30% instances), [NOUN]() (13; 21% instances), [VERB]() (11; 18% instances), [PART]() (7; 11% instances), [ADV]() (5; 8% instances), [PROPN]() (4; 7% instances), [ADP]() (1; 2% instances), [AUX]() (1; 2% instances), [PRON]() (1; 2% instances)
 

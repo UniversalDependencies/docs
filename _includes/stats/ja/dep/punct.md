@@ -6,71 +6,102 @@
 
 This relation is universal.
 
-10247 nodes (11%) are attached to their parents as `punct`.
+16875 nodes (10%) are attached to their parents as `punct`.
 
-10247 instances of `punct` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.75436713184347.
+15577 instances of `punct` (92%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.24402962962963.
 
-The following 10 pairs of parts of speech are connected with `punct`: [ja-pos/NOUN]()-[ja-pos/PUNCT]() (5263; 51% instances), [ja-pos/VERB]()-[ja-pos/PUNCT]() (3474; 34% instances), [ja-pos/ADV]()-[ja-pos/PUNCT]() (606; 6% instances), [ja-pos/NUM]()-[ja-pos/PUNCT]() (520; 5% instances), [ja-pos/ADJ]()-[ja-pos/PUNCT]() (304; 3% instances), [ja-pos/PRON]()-[ja-pos/PUNCT]() (64; 1% instances), [ja-pos/X]()-[ja-pos/PUNCT]() (7; 0% instances), [ja-pos/DET]()-[ja-pos/PUNCT]() (6; 0% instances), [ja-pos/CONJ]()-[ja-pos/PUNCT]() (2; 0% instances), [ja-pos/PART]()-[ja-pos/PUNCT]() (1; 0% instances).
+The following 15 pairs of parts of speech are connected with `punct`: [ja-pos/VERB]()-[ja-pos/PUNCT]() (8285; 49% instances), [ja-pos/NOUN]()-[ja-pos/PUNCT]() (5464; 32% instances), [ja-pos/ADJ]()-[ja-pos/PUNCT]() (984; 6% instances), [ja-pos/PROPN]()-[ja-pos/PUNCT]() (953; 6% instances), [ja-pos/NUM]()-[ja-pos/PUNCT]() (561; 3% instances), [ja-pos/CCONJ]()-[ja-pos/PUNCT]() (354; 2% instances), [ja-pos/ADV]()-[ja-pos/PUNCT]() (155; 1% instances), [ja-pos/PRON]()-[ja-pos/PUNCT]() (96; 1% instances), [ja-pos/ADP]()-[ja-pos/PUNCT]() (13; 0% instances), [ja-pos/NOUN]()-[ja-pos/SYM]() (2; 0% instances), [ja-pos/SCONJ]()-[ja-pos/PUNCT]() (2; 0% instances), [ja-pos/SYM]()-[ja-pos/PUNCT]() (2; 0% instances), [ja-pos/VERB]()-[ja-pos/SYM]() (2; 0% instances), [ja-pos/ADJ]()-[ja-pos/SYM]() (1; 0% instances), [ja-pos/PUNCT]()-[ja-pos/PUNCT]() (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 5 punct	color:blue
-1	ただし	_	ADV	ADV	_	9	advmod	_	_
-2	、	_	PUNCT	.	_	1	punct	_	_
-3	50周年ソングに	_	NUM	NUM-CL-NOUN-POSTP	_	4	nmod	_	_
-4	変更後は	_	NOUN	NOUN-PRT	_	9	nmod	_	_
-5	、	_	PUNCT	.	_	4	punct	_	_
-6	EDも	_	NOUN	NOUN-POSTP	_	9	nmod	_	_
-7	歌つきの	_	NOUN	NOUN-POSTP	_	8	nmod	_	_
-8	ものが	_	NOUN	NOUN-PRT	_	9	nmod	_	_
-9	使われた。	_	VERB	VERB-PASSIVE-AUX	_	0	root	_	_
+# visual-style 21	bgColor:blue
+# visual-style 21	fgColor:white
+# visual-style 18	bgColor:blue
+# visual-style 18	fgColor:white
+# visual-style 18 21 punct	color:blue
+1	ただし	ただし	CCONJ	_	_	18	advmod	_	SpaceAfter=No
+2	、	、	PUNCT	_	_	1	punct	_	SpaceAfter=No
+3	50	50	NUM	_	NumType=Card	5	nummod	_	SpaceAfter=No
+4	周年	周年	NOUN	_	_	5	compound	_	SpaceAfter=No
+5	ソング	ソング	NOUN	_	_	18	iobj	_	SpaceAfter=No
+6	に	に	ADP	_	_	5	case	_	SpaceAfter=No
+7	変更	変更	NOUN	_	_	8	compound	_	SpaceAfter=No
+8	後	後	NOUN	_	_	18	nsubj	_	SpaceAfter=No
+9	は	は	ADP	_	_	8	case	_	SpaceAfter=No
+10	、	、	PUNCT	_	_	8	punct	_	SpaceAfter=No
+11	ED	ED	PROPN	_	_	18	obl	_	SpaceAfter=No
+12	も	も	ADP	_	_	11	case	_	SpaceAfter=No
+13	歌	歌	NOUN	_	_	14	compound	_	SpaceAfter=No
+14	つき	つき	NOUN	_	_	16	nmod	_	SpaceAfter=No
+15	の	の	ADP	_	_	14	case	_	SpaceAfter=No
+16	もの	もの	NOUN	_	_	18	nsubj	_	SpaceAfter=No
+17	が	が	ADP	_	_	16	case	_	SpaceAfter=No
+18	使わ	使う	VERB	_	_	0	root	_	SpaceAfter=No
+19	れ	れる	AUX	_	_	18	aux	_	SpaceAfter=No
+20	た	た	AUX	_	_	18	aux	_	SpaceAfter=No
+21	。	。	PUNCT	_	_	18	punct	_	SpaceAfter=No
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 7 punct	color:blue
-1	同僚教師の	_	NOUN	NOUN-POSTP	_	2	nmod	_	_
-2	すみれと	_	NOUN	NOUN-CONJ	_	6	nmod	_	_
-3	彩は	_	NOUN	NOUN-PRT	_	2	conj	_	_
-4	そんな	_	ADJ	ADJ	_	5	amod	_	_
-5	夕子と	_	NOUN	NOUN-POSTP	_	6	nmod	_	_
-6	意気投合し	_	VERB	VERB	_	13	advcl	_	_
-7	、	_	PUNCT	.	_	6	punct	_	_
-8	問題を	_	NOUN	NOUN-PRT	_	9	nmod	_	_
-9	解決する	_	VERB	VERB-AUX	_	10	ccomp	_	_
-10	ため	_	NOUN	NOUN	_	6	conj	_	_
-11	行動を	_	NOUN	NOUN-PRT	_	13	nmod	_	_
-12	共に	_	NOUN	NOUN-POSTP	_	13	nmod	_	_
-13	する。	_	VERB	VERB-AUX	_	0	root	_	_
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 8 10 punct	color:blue
+1	ただし	ただし	CCONJ	_	_	18	advmod	_	SpaceAfter=No
+2	、	、	PUNCT	_	_	1	punct	_	SpaceAfter=No
+3	50	50	NUM	_	NumType=Card	5	nummod	_	SpaceAfter=No
+4	周年	周年	NOUN	_	_	5	compound	_	SpaceAfter=No
+5	ソング	ソング	NOUN	_	_	18	iobj	_	SpaceAfter=No
+6	に	に	ADP	_	_	5	case	_	SpaceAfter=No
+7	変更	変更	NOUN	_	_	8	compound	_	SpaceAfter=No
+8	後	後	NOUN	_	_	18	nsubj	_	SpaceAfter=No
+9	は	は	ADP	_	_	8	case	_	SpaceAfter=No
+10	、	、	PUNCT	_	_	8	punct	_	SpaceAfter=No
+11	ED	ED	PROPN	_	_	18	obl	_	SpaceAfter=No
+12	も	も	ADP	_	_	11	case	_	SpaceAfter=No
+13	歌	歌	NOUN	_	_	14	compound	_	SpaceAfter=No
+14	つき	つき	NOUN	_	_	16	nmod	_	SpaceAfter=No
+15	の	の	ADP	_	_	14	case	_	SpaceAfter=No
+16	もの	もの	NOUN	_	_	18	nsubj	_	SpaceAfter=No
+17	が	が	ADP	_	_	16	case	_	SpaceAfter=No
+18	使わ	使う	VERB	_	_	0	root	_	SpaceAfter=No
+19	れ	れる	AUX	_	_	18	aux	_	SpaceAfter=No
+20	た	た	AUX	_	_	18	aux	_	SpaceAfter=No
+21	。	。	PUNCT	_	_	18	punct	_	SpaceAfter=No
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 1 2 punct	color:blue
-1	ただし	_	ADV	ADV	_	9	advmod	_	_
-2	、	_	PUNCT	.	_	1	punct	_	_
-3	50周年ソングに	_	NUM	NUM-CL-NOUN-POSTP	_	4	nmod	_	_
-4	変更後は	_	NOUN	NOUN-PRT	_	9	nmod	_	_
-5	、	_	PUNCT	.	_	4	punct	_	_
-6	EDも	_	NOUN	NOUN-POSTP	_	9	nmod	_	_
-7	歌つきの	_	NOUN	NOUN-POSTP	_	8	nmod	_	_
-8	ものが	_	NOUN	NOUN-PRT	_	9	nmod	_	_
-9	使われた。	_	VERB	VERB-PASSIVE-AUX	_	0	root	_	_
+# visual-style 20	bgColor:blue
+# visual-style 20	fgColor:white
+# visual-style 17	bgColor:blue
+# visual-style 17	fgColor:white
+# visual-style 17 20 punct	color:blue
+1	私	私	PRON	_	_	3	nsubj	_	SpaceAfter=No
+2	は	は	ADP	_	_	1	case	_	SpaceAfter=No
+3	初めて	初めて	ADV	_	_	17	acl	_	SpaceAfter=No
+4	だっ	だ	AUX	_	_	3	cop	_	SpaceAfter=No
+5	た	た	AUX	_	_	3	aux	_	SpaceAfter=No
+6	ん	ん	PART	_	_	3	mark	_	SpaceAfter=No
+7	だ	だ	AUX	_	_	3	cop	_	SpaceAfter=No
+8	けど	けど	SCONJ	_	_	3	mark	_	SpaceAfter=No
+9	思っ	思う	VERB	_	_	17	acl	_	SpaceAfter=No
+10	て	て	SCONJ	_	_	9	mark	_	SpaceAfter=No
+11	い	いる	AUX	_	_	9	aux	_	SpaceAfter=No
+12	た	た	AUX	_	_	9	aux	_	SpaceAfter=No
+13	より	より	ADP	_	_	9	case	_	SpaceAfter=No
+14	も	も	ADP	_	_	9	case	_	SpaceAfter=No
+15	魚	魚	NOUN	_	_	17	nsubj	_	SpaceAfter=No
+16	は	は	ADP	_	_	15	case	_	SpaceAfter=No
+17	新鮮	新鮮	ADJ	_	_	0	root	_	SpaceAfter=No
+18	でし	だ	AUX	_	_	17	aux	_	SpaceAfter=No
+19	た	た	AUX	_	_	17	aux	_	SpaceAfter=No
+20	。	。	PUNCT	_	_	17	punct	_	SpaceAfter=No
 
 ~~~
 
@@ -83,12 +114,12 @@ The following 10 pairs of parts of speech are connected with `punct`: [ja-pos/NO
 
 This relation is universal.
 
-30204 nodes (11%) are attached to their parents as `punct`.
+21535 nodes (11%) are attached to their parents as `punct`.
 
-27422 instances of `punct` (91%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.9184876175341.
+19573 instances of `punct` (91%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.85005804504295.
 
-The following 21 pairs of parts of speech are connected with `punct`: [ja-pos/VERB]()-[ja-pos/PUNCT]() (13230; 44% instances), [ja-pos/NOUN]()-[ja-pos/PUNCT]() (12342; 41% instances), [ja-pos/ADJ]()-[ja-pos/PUNCT]() (1456; 5% instances), [ja-pos/CONJ]()-[ja-pos/PUNCT]() (732; 2% instances), [ja-pos/NOUN]()-[ja-pos/SYM]() (651; 2% instances), [ja-pos/PROPN]()-[ja-pos/PUNCT]() (585; 2% instances), [ja-pos/ADV]()-[ja-pos/PUNCT]() (370; 1% instances), [ja-pos/PROPN]()-[ja-pos/SYM]() (340; 1% instances), [ja-pos/NUM]()-[ja-pos/PUNCT]() (217; 1% instances), [ja-pos/PRON]()-[ja-pos/PUNCT]() (93; 0% instances), [ja-pos/NUM]()-[ja-pos/SYM]() (68; 0% instances), [ja-pos/SYM]()-[ja-pos/SYM]() (41; 0% instances), [ja-pos/INTJ]()-[ja-pos/PUNCT]() (38; 0% instances), [ja-pos/VERB]()-[ja-pos/SYM]() (31; 0% instances), [ja-pos/ADJ]()-[ja-pos/SYM]() (4; 0% instances), [ja-pos/ADV]()-[ja-pos/SYM]() (1; 0% instances), [ja-pos/DET]()-[ja-pos/PUNCT]() (1; 0% instances), [ja-pos/INTJ]()-[ja-pos/SYM]() (1; 0% instances), [ja-pos/PART]()-[ja-pos/PUNCT]() (1; 0% instances), [ja-pos/PRON]()-[ja-pos/SYM]() (1; 0% instances), [ja-pos/SCONJ]()-[ja-pos/PUNCT]() (1; 0% instances).
+The following 20 pairs of parts of speech are connected with `punct`: [ja-pos/VERB]()-[ja-pos/PUNCT]() (9413; 44% instances), [ja-pos/NOUN]()-[ja-pos/PUNCT]() (8722; 41% instances), [ja-pos/ADJ]()-[ja-pos/PUNCT]() (1036; 5% instances), [ja-pos/CONJ]()-[ja-pos/PUNCT]() (547; 3% instances), [ja-pos/NOUN]()-[ja-pos/SYM]() (494; 2% instances), [ja-pos/PROPN]()-[ja-pos/PUNCT]() (424; 2% instances), [ja-pos/ADV]()-[ja-pos/PUNCT]() (280; 1% instances), [ja-pos/PROPN]()-[ja-pos/SYM]() (254; 1% instances), [ja-pos/NUM]()-[ja-pos/PUNCT]() (153; 1% instances), [ja-pos/PRON]()-[ja-pos/PUNCT]() (68; 0% instances), [ja-pos/NUM]()-[ja-pos/SYM]() (56; 0% instances), [ja-pos/SYM]()-[ja-pos/SYM]() (30; 0% instances), [ja-pos/VERB]()-[ja-pos/SYM]() (26; 0% instances), [ja-pos/INTJ]()-[ja-pos/PUNCT]() (24; 0% instances), [ja-pos/ADJ]()-[ja-pos/SYM]() (3; 0% instances), [ja-pos/DET]()-[ja-pos/PUNCT]() (1; 0% instances), [ja-pos/INTJ]()-[ja-pos/SYM]() (1; 0% instances), [ja-pos/PART]()-[ja-pos/PUNCT]() (1; 0% instances), [ja-pos/PRON]()-[ja-pos/SYM]() (1; 0% instances), [ja-pos/SCONJ]()-[ja-pos/PUNCT]() (1; 0% instances).
 
 
 ~~~ conllu

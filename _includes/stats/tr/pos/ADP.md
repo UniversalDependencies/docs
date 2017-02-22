@@ -4,88 +4,87 @@
 
 ## Treebank Statistics (UD_Turkish)
 
-There are 46 `ADP` lemmas (1%), 116 `ADP` types (1%) and 2242 `ADP` tokens (4%).
-Out of 14 observed tags, the rank of `ADP` is: 7 in number of lemmas, 9 in number of types and 6 in number of tokens.
+There are 44 `ADP` lemmas (1%), 112 `ADP` types (1%) and 1884 `ADP` tokens (4%).
+Out of 14 observed tags, the rank of `ADP` is: 7 in number of lemmas, 9 in number of types and 5 in number of tokens.
 
-The 10 most frequent `ADP` lemmas: <em>ki, li, için, gibi, diye, kadar, _, olarak, sonra, lik</em>
+The 10 most frequent `ADP` lemmas: <em>ki, li, için, gibi, diye, kadar, _, olarak, sonra, ce</em>
 
 The 10 most frequent `ADP` types:  <em>ki, için, gibi, diye, kadar, li, lı, olarak, sonra, önce</em>
 
-The 10 most frequent ambiguous lemmas: <em>ki</em> ([ADP]() 333, [CONJ]() 122), <em>_</em> ([ADP]() 106, [NOUN]() 2), <em>sonra</em> ([ADP]() 87, [ADV]() 55, [NOUN]() 7), <em>önce</em> ([ADP]() 60, [ADV]() 42, [NOUN]() 19), <em>siz</em> ([PRON]() 76, [ADP]() 43), <em>ci</em> ([ADP]() 33, [NOUN]() 1), <em>doğru</em> ([ADJ]() 51, [ADP]() 32), <em>ile</em> ([CONJ]() 93, [ADP]() 23), <em>üzere</em> ([ADP]() 20, [ADV]() 1), <em>birlikte</em> ([ADP]() 19, [ADV]() 18)
+The 10 most frequent ambiguous lemmas: <em>ki</em> ([ADP]() 297, [CCONJ]() 100), <em>_</em> ([ADP]() 89, [ADJ]() 8, [NOUN]() 1), <em>sonra</em> ([ADP]() 70, [ADV]() 43, [NOUN]() 4), <em>önce</em> ([ADP]() 51, [ADV]() 32, [NOUN]() 17), <em>siz</em> ([PRON]() 62, [ADP]() 36), <em>ci</em> ([ADP]() 30, [NOUN]() 1), <em>doğru</em> ([ADJ]() 47, [ADP]() 29), <em>birlikte</em> ([ADP]() 19, [ADV]() 16), <em>ile</em> ([CCONJ]() 85, [ADP]() 19), <em>beri</em> ([ADP]() 10, [ADV]() 2)
 
-The 10 most frequent ambiguous types:  <em>ki</em> ([ADP]() 302, [CONJ]() 121), <em>için</em> ([ADP]() 232, [ADJ]() 1), <em>diye</em> ([ADP]() 169, [VERB]() 3), <em>sonra</em> ([ADP]() 83, [ADV]() 41), <em>önce</em> ([ADP]() 58, [ADV]() 30, [NOUN]() 8), <em>doğru</em> ([ADP]() 32, [ADJ]() 25), <em>ile</em> ([CONJ]() 93, [ADP]() 23), <em>siz</em> ([ADP]() 23, [PRON]() 13), <em>birlikte</em> ([ADP]() 18, [ADV]() 17, [NOUN]() 1), <em>karşı</em> ([ADP]() 15, [ADV]() 7, [ADJ]() 2)
+The 10 most frequent ambiguous types:  <em>ki</em> ([ADP]() 261, [CCONJ]() 99), <em>için</em> ([ADP]() 201, [ADJ]() 1), <em>diye</em> ([ADP]() 140, [VERB]() 3), <em>sonra</em> ([ADP]() 66, [ADV]() 34), <em>önce</em> ([ADP]() 49, [ADV]() 22, [NOUN]() 7), <em>doğru</em> ([ADP]() 29, [ADJ]() 22), <em>siz</em> ([ADP]() 20, [PRON]() 11), <em>birlikte</em> ([ADP]() 18, [ADV]() 15, [NOUN]() 1), <em>ile</em> ([CCONJ]() 85, [ADP]() 19), <em>lar</em> ([ADP]() 14, [AUX]() 5)
 
 
 * <em>ki</em>
-  * [ADP]() 302: <em>Birden , geldiğini duydum , parkta <b>ki</b> kalabalık karıştı .</em>
-  * [CONJ]() 121: <em>İyi <b>ki</b> kedi olalı bir fare tuttun , dedi Melek .</em>
+  * [ADP]() 261: <em>Orada <b>ki</b> tartışma hayli zengin .</em>
+  * [CCONJ]() 99: <em>Ama fark ettim <b>ki</b> , onu çok yazmamışım .</em>
 * <em>için</em>
-  * [ADP]() 232: <em>Silisimi beğendiği <b>için</b> yüz bin lira verdi , hem yine görüşürüz dedi .</em>
+  * [ADP]() 201: <em>Kerem , özgürlüğünü teslim ettiği <b>için</b> sanki rahatlamıştı .</em>
   * [ADJ]() 1: <em>Onun <b>için</b> dir ki , askeri darbelerin hakkını yemeyelim .</em>
 * <em>diye</em>
-  * [ADP]() 169: <em>Binamıza isim bulmak <b>diye</b> bir mesele çıkmıştı .</em>
-  * [VERB]() 3: <em>Nerede ydin ? <b>diye</b> bağırdı .</em>
+  * [ADP]() 140: <em>Heybeye erik koyunca kitapları , defterleri ne yaparım <b>diye</b> düşünüyorum .</em>
+  * [VERB]() 3: <em>Bu soruyu , imam niye bayılmış ? <b>diye</b> sorun .</em>
 * <em>sonra</em>
-  * [ADP]() 83: <em>Peki dedim , ben ne yapabilirim bu tarihten <b>sonra</b> ?</em>
-  * [ADV]() 41: <em>Neden <b>sonra</b> Katana ağaçtan süzülüp indi .</em>
+  * [ADP]() 66: <em>Eksik sayfaları tamamlanan raporlar bir süre <b>sonra</b> gönderildi .</em>
+  * [ADV]() 34: <em>İyi , gidin de iskeleyi bir yıkayın , <b>sonra</b> dinlenirsiniz , dedi .</em>
 * <em>önce</em>
-  * [ADP]() 58: <em>Kahvesini hazırlamadan <b>önce</b> son iki cümleyi karaladı .</em>
-  * [ADV]() 30: <em>Bir saat <b>önce</b> .</em>
-  * [NOUN]() 8: <em>Dizinin bir sonraki öğesi bir <b>önce</b> kinden daha iyi dir .</em>
+  * [ADP]() 49: <em>Kahvesini hazırlamadan <b>önce</b> son iki cümleyi karaladı .</em>
+  * [ADV]() 22: <em>Hep o benden iki yıl <b>önce</b> .</em>
+  * [NOUN]() 7: <em>Henüz oraya varmadan <b>önce</b> ki ara sokaklardan birinde , göstermek istediğim küçük bir bar var dı .</em>
 * <em>doğru</em>
-  * [ADP]() 32: <em>Hastane bayırının oralara <b>doğru</b> yürüdüm .</em>
-  * [ADJ]() 25: <em>Önce biz terör örgütü olarak kabul edip <b>doğru</b> başlık atalım .</em>
-* <em>ile</em>
-  * [CONJ]() 93: <em>Cumhurbaşkanı <b>ile</b> sürtüşen bir iktidar olmak istemiyoruz .</em>
-  * [ADP]() 23: <em>Park kurşun sesleri <b>ile</b> yankılanmış .</em>
+  * [ADP]() 29: <em>Parktan çıkıp buraya <b>doğru</b> koşarken hepsi aklımda ydı .</em>
+  * [ADJ]() 22: <em>Önce biz terör örgütü olarak kabul edip <b>doğru</b> başlık atalım .</em>
 * <em>siz</em>
-  * [ADP]() 23: <em>Ne denli ses <b>siz</b> Bartın , dedim .</em>
-  * [PRON]() 13: <em>Ben dün gece <b>siz</b> yattıktan sonra evden kaçtım .</em>
+  * [ADP]() 20: <em>Sana boşal , at kurtul der , o ses <b>siz</b> duruşuyla .</em>
+  * [PRON]() 11: <em>Duyun da şaşın <b>siz</b> .</em>
 * <em>birlikte</em>
-  * [ADP]() 18: <em>Ve Kıran ailesi <b>birlikte</b> son yolculuklarına çıktı .</em>
-  * [ADV]() 17: <em>Gelin , <b>birlikte</b> girelim , dedim .</em>
+  * [ADP]() 18: <em>Babası her hafta düzenli olarak kardeşleriyle <b>birlikte</b> tıraş ederdi onu .</em>
+  * [ADV]() 15: <em>Onunla daha fazla <b>birlikte</b> olabilmek .</em>
   * [NOUN]() 1: <em>Bilimde bu tür mucizevi elatmalara yer olmadığı gibi , varlığı , Tanrı'ya inanan lar için tehlike yaratır : diferansiyel eşitliklerinizde ki matematiksel tekillikleri daha iyi bir modelle ortadan kaldırdığınızda Tanrınız da tekillikle <b>birlikte</b> ortadan kalkar .</em>
-* <em>karşı</em>
-  * [ADP]() 15: <em>Madde kırkdört'e <b>karşı</b> dörtyüzkırkiki oyla kabul edildi .</em>
-  * [ADV]() 7: <em>Olası bir savaşta , Türkiye büyük zararlarla <b>karşı</b> karşıya kalacak .</em>
-  * [ADJ]() 2: <em>Erdoğan'ın milletvekili ve başbakan olmasını sağlayacak düzenlemede , Sezer'in <b>karşı</b> çıktığı , doğrudan başbakanlık getirecek yüzdokuz . madde yerine ara seçimi düzenleyen yetmişsekiz . madde üzerinde değişiklik yapacaklarını belirten Şahin , şu mesajı verdi : .</em>
+* <em>ile</em>
+  * [CCONJ]() 85: <em>Erik ağaçları <b>ile</b> aralarında bir hendek engeli kalmıştı .</em>
+  * [ADP]() 19: <em>Böylece imece usulü <b>ile</b> kimseye ağır yük olunmuyordu .</em>
+* <em>lar</em>
+  * [ADP]() 14: <em>Onunla aynı ortamı paylaşmış olan <b>lar</b> böyle anlatıyorlardı büyük amcamı .</em>
+  * [AUX]() 5: <em>Ve kendi merceklerinden bakıldığında haklı <b>lar</b> .</em>
 
 ## Morphology
 
-The form / lemma ratio of `ADP` is 2.521739 (the average of all parts of speech is 2.815350).
+The form / lemma ratio of `ADP` is 2.545455 (the average of all parts of speech is 2.690133).
 
-The 1st highest number of forms (27) was observed with the lemma “_”: <em>a, dan, den, e, i, in, lar, lara, lardan, larla, ları, ların, le, ler, lerden, lere, leri, lerin, leriyle, lerle, si, ya, ye, ı, ın, ını, ıyla</em>.
+The 1st highest number of forms (24) was observed with the lemma “_”: <em>a, dan, den, e, i, in, lar, lara, lardan, larla, ları, ların, le, ler, lerden, leri, lerin, leriyle, si, ya, ı, ın, ını, ıyla</em>.
 
-The 2nd highest number of forms (16) was observed with the lemma “lik”: <em>'lik, 'luk, 'lük, lik, liği, liğin, liğinden, luk, lüğünün, lık, lıklar, lığı, lığıma, lığına, lığının, lığınız</em>.
+The 2nd highest number of forms (15) was observed with the lemma “ki”: <em>aki, aveau'daki, eki, ithatpaşa'daki, ki, kiler, kilere, kileri, kilerin, kinde, kinden, kine, kini, kü, nki</em>.
 
-The 3rd highest number of forms (13) was observed with the lemma “ki”: <em>aki, eki, ithatpaşa'daki, ki, kiler, kilere, kileri, kilerin, kinde, kinden, kine, kini, kü</em>.
+The 3rd highest number of forms (14) was observed with the lemma “lik”: <em>'lik, 'luk, anlışlanabilirlik, anlışlanabilirliği, irmibeş'lik, lik, liğin, lüğünün, lık, lıklar, lığı, lığıma, lığının, lığınız</em>.
 
-`ADP` occurs with 7 features: [tr-feat/Number]() (194; 9% instances), [tr-feat/Person]() (194; 9% instances), [tr-feat/Case]() (189; 8% instances), [tr-feat/Number[psor]]() (23; 1% instances), [tr-feat/Person[psor]]() (23; 1% instances), [tr-feat/Mood]() (3; 0% instances), [tr-feat/Tense]() (2; 0% instances)
+`ADP` occurs with 7 features: [tr-feat/Number]() (168; 9% instances), [tr-feat/Person]() (168; 9% instances), [tr-feat/Case]() (163; 9% instances), [tr-feat/Number[psor]]() (16; 1% instances), [tr-feat/Person[psor]]() (16; 1% instances), [tr-feat/Mood]() (3; 0% instances), [tr-feat/Tense]() (2; 0% instances)
 
 `ADP` occurs with 17 feature-value pairs: `Case=Abl`, `Case=Acc`, `Case=Dat`, `Case=Gen`, `Case=Ins`, `Case=Loc`, `Case=Nom`, `Mood=Cnd`, `Number=Plur`, `Number=Sing`, `Number[psor]=Plur`, `Number[psor]=Sing`, `Person=3`, `Person[psor]=1`, `Person[psor]=2`, `Person[psor]=3`, `Tense=Past`
 
-`ADP` occurs with 28 feature combinations.
-The most frequent feature combination is `_` (2048 tokens).
+`ADP` occurs with 26 feature combinations.
+The most frequent feature combination is `_` (1716 tokens).
 Examples: <em>ki, için, gibi, diye, kadar, li, lı, olarak, sonra, önce</em>
 
 
 ## Relations
 
-`ADP` nodes are attached to their parents using 11 different relations: [tr-dep/case]() (2207; 98% instances), [tr-dep/root]() (16; 1% instances), [tr-dep/conj]() (4; 0% instances), [tr-dep/dobj]() (4; 0% instances), [tr-dep/compound:lvc]() (3; 0% instances), [tr-dep/cc]() (2; 0% instances), [tr-dep/det]() (2; 0% instances), [tr-dep/advmod:emph]() (1; 0% instances), [tr-dep/ccomp]() (1; 0% instances), [tr-dep/nmod:poss]() (1; 0% instances), [tr-dep/nsubj]() (1; 0% instances)
+`ADP` nodes are attached to their parents using 13 different relations: [tr-dep/case]() (1827; 97% instances), [tr-dep/compound]() (20; 1% instances), [tr-dep/root]() (14; 1% instances), [tr-dep/flat]() (9; 0% instances), [tr-dep/obj]() (3; 0% instances), [tr-dep/cc]() (2; 0% instances), [tr-dep/conj]() (2; 0% instances), [tr-dep/nmod:poss]() (2; 0% instances), [tr-dep/advmod:emph]() (1; 0% instances), [tr-dep/ccomp]() (1; 0% instances), [tr-dep/compound:lvc]() (1; 0% instances), [tr-dep/det]() (1; 0% instances), [tr-dep/nsubj]() (1; 0% instances)
 
-Parents of `ADP` nodes belong to 13 different parts of speech: [NOUN]() (1071; 48% instances), [VERB]() (612; 27% instances), [ADJ]() (258; 12% instances), [PRON]() (126; 6% instances), [PROPN]() (64; 3% instances), [NUM]() (40; 2% instances), [ADV]() (24; 1% instances), [DET]() (19; 1% instances), [ROOT]() (16; 1% instances), [ADP]() (6; 0% instances), [CONJ]() (3; 0% instances), [AUX]() (2; 0% instances), [INTJ]() (1; 0% instances)
+Parents of `ADP` nodes belong to 12 different parts of speech: [NOUN]() (915; 49% instances), [VERB]() (440; 23% instances), [ADJ]() (251; 13% instances), [PRON]() (106; 6% instances), [PROPN]() (59; 3% instances), [NUM]() (49; 3% instances), [ADV]() (21; 1% instances), [DET]() (19; 1% instances), [ROOT]() (14; 1% instances), [CCONJ]() (4; 0% instances), [ADP]() (3; 0% instances), [INTJ]() (3; 0% instances)
 
-2159 (96%) `ADP` nodes are leaves.
+1808 (96%) `ADP` nodes are leaves.
 
-54 (2%) `ADP` nodes have one child.
+47 (2%) `ADP` nodes have one child.
 
-25 (1%) `ADP` nodes have two children.
+22 (1%) `ADP` nodes have two children.
 
-4 (0%) `ADP` nodes have three or more children.
+7 (0%) `ADP` nodes have three or more children.
 
-The highest child degree of a `ADP` node is 3.
+The highest child degree of a `ADP` node is 5.
 
-Children of `ADP` nodes are attached using 17 different relations: [tr-dep/cop]() (18; 16% instances), [tr-dep/nmod]() (15; 13% instances), [tr-dep/nummod]() (11; 9% instances), [tr-dep/punct]() (11; 9% instances), [tr-dep/conj]() (9; 8% instances), [tr-dep/det]() (9; 8% instances), [tr-dep/nmod:poss]() (7; 6% instances), [tr-dep/case]() (6; 5% instances), [tr-dep/amod]() (5; 4% instances), [tr-dep/dobj]() (5; 4% instances), [tr-dep/acl]() (4; 3% instances), [tr-dep/advmod:emph]() (4; 3% instances), [tr-dep/cc]() (4; 3% instances), [tr-dep/advmod]() (3; 3% instances), [tr-dep/advcl]() (2; 2% instances), [tr-dep/nsubj]() (2; 2% instances), [tr-dep/parataxis]() (1; 1% instances)
+Children of `ADP` nodes are attached using 20 different relations: [tr-dep/punct]() (18; 16% instances), [tr-dep/cop]() (15; 13% instances), [tr-dep/obl]() (12; 10% instances), [tr-dep/conj]() (9; 8% instances), [tr-dep/det]() (9; 8% instances), [tr-dep/nmod]() (6; 5% instances), [tr-dep/nmod:poss]() (6; 5% instances), [tr-dep/nummod]() (6; 5% instances), [tr-dep/advmod:emph]() (5; 4% instances), [tr-dep/obj]() (5; 4% instances), [tr-dep/advmod]() (4; 3% instances), [tr-dep/amod]() (4; 3% instances), [tr-dep/cc]() (4; 3% instances), [tr-dep/case]() (3; 3% instances), [tr-dep/acl]() (2; 2% instances), [tr-dep/compound:lvc]() (2; 2% instances), [tr-dep/nsubj]() (2; 2% instances), [tr-dep/compound]() (1; 1% instances), [tr-dep/compound:redup]() (1; 1% instances), [tr-dep/parataxis]() (1; 1% instances)
 
-Children of `ADP` nodes belong to 12 different parts of speech: [NOUN]() (21; 18% instances), [AUX]() (18; 16% instances), [NUM]() (15; 13% instances), [VERB]() (14; 12% instances), [PUNCT]() (11; 9% instances), [ADJ]() (8; 7% instances), [CONJ]() (8; 7% instances), [ADP]() (6; 5% instances), [DET]() (5; 4% instances), [PROPN]() (4; 3% instances), [ADV]() (3; 3% instances), [PRON]() (3; 3% instances)
+Children of `ADP` nodes belong to 12 different parts of speech: [NOUN]() (19; 17% instances), [PUNCT]() (18; 16% instances), [VERB]() (17; 15% instances), [AUX]() (15; 13% instances), [NUM]() (10; 9% instances), [CCONJ]() (9; 8% instances), [ADJ]() (7; 6% instances), [ADV]() (5; 4% instances), [DET]() (5; 4% instances), [PRON]() (4; 3% instances), [ADP]() (3; 3% instances), [PROPN]() (3; 3% instances)
 

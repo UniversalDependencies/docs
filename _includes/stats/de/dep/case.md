@@ -6,12 +6,12 @@
 
 This relation is universal.
 
-31693 nodes (11%) are attached to their parents as `case`.
+30172 nodes (11%) are attached to their parents as `case`.
 
-31216 instances of `case` (98%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.05581674186729.
+29697 instances of `case` (98%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.96324406734721.
 
-The following 31 pairs of parts of speech are connected with `case`: [de-pos/NOUN]()-[de-pos/ADP]() (21079; 67% instances), [de-pos/PROPN]()-[de-pos/ADP]() (6751; 21% instances), [de-pos/NUM]()-[de-pos/ADP]() (1245; 4% instances), [de-pos/PRON]()-[de-pos/ADP]() (994; 3% instances), [de-pos/PROPN]()-[de-pos/PROPN]() (733; 2% instances), [de-pos/VERB]()-[de-pos/ADP]() (324; 1% instances), [de-pos/ADJ]()-[de-pos/ADP]() (192; 1% instances), [de-pos/ADV]()-[de-pos/ADP]() (172; 1% instances), [de-pos/NOUN]()-[de-pos/CONJ]() (55; 0% instances), [de-pos/PROPN]()-[de-pos/PUNCT]() (20; 0% instances), [de-pos/X]()-[de-pos/ADP]() (18; 0% instances), [de-pos/ADP]()-[de-pos/ADP]() (16; 0% instances), [de-pos/PROPN]()-[de-pos/CONJ]() (13; 0% instances), [de-pos/DET]()-[de-pos/ADP]() (12; 0% instances), [de-pos/X]()-[de-pos/X]() (12; 0% instances), [de-pos/PRON]()-[de-pos/CONJ]() (10; 0% instances), [de-pos/ADJ]()-[de-pos/CONJ]() (7; 0% instances), [de-pos/ADV]()-[de-pos/CONJ]() (7; 0% instances), [de-pos/AUX]()-[de-pos/ADP]() (6; 0% instances), [de-pos/CONJ]()-[de-pos/ADP]() (5; 0% instances), [de-pos/PART]()-[de-pos/ADP]() (4; 0% instances), [de-pos/PROPN]()-[de-pos/NOUN]() (4; 0% instances), [de-pos/PROPN]()-[de-pos/PART]() (3; 0% instances), [de-pos/NOUN]()-[de-pos/PROPN]() (2; 0% instances), [de-pos/NOUN]()-[de-pos/PUNCT]() (2; 0% instances), [de-pos/VERB]()-[de-pos/CONJ]() (2; 0% instances), [de-pos/ADV]()-[de-pos/PRON]() (1; 0% instances), [de-pos/NOUN]()-[de-pos/PART]() (1; 0% instances), [de-pos/NOUN]()-[de-pos/X]() (1; 0% instances), [de-pos/NUM]()-[de-pos/CONJ]() (1; 0% instances), [de-pos/X]()-[de-pos/PROPN]() (1; 0% instances).
+The following 31 pairs of parts of speech are connected with `case`: [de-pos/NOUN]()-[de-pos/ADP]() (19603; 65% instances), [de-pos/PROPN]()-[de-pos/ADP]() (6824; 23% instances), [de-pos/NUM]()-[de-pos/ADP]() (1229; 4% instances), [de-pos/PRON]()-[de-pos/ADP]() (955; 3% instances), [de-pos/PROPN]()-[de-pos/PROPN]() (733; 2% instances), [de-pos/VERB]()-[de-pos/ADP]() (301; 1% instances), [de-pos/ADJ]()-[de-pos/ADP]() (180; 1% instances), [de-pos/ADV]()-[de-pos/ADP]() (163; 1% instances), [de-pos/NOUN]()-[de-pos/CCONJ]() (51; 0% instances), [de-pos/PROPN]()-[de-pos/PUNCT]() (20; 0% instances), [de-pos/X]()-[de-pos/ADP]() (17; 0% instances), [de-pos/ADP]()-[de-pos/ADP]() (15; 0% instances), [de-pos/PROPN]()-[de-pos/CCONJ]() (15; 0% instances), [de-pos/X]()-[de-pos/X]() (12; 0% instances), [de-pos/PRON]()-[de-pos/CCONJ]() (10; 0% instances), [de-pos/ADJ]()-[de-pos/CCONJ]() (7; 0% instances), [de-pos/AUX]()-[de-pos/ADP]() (6; 0% instances), [de-pos/CCONJ]()-[de-pos/ADP]() (4; 0% instances), [de-pos/DET]()-[de-pos/ADP]() (4; 0% instances), [de-pos/PROPN]()-[de-pos/NOUN]() (4; 0% instances), [de-pos/ADV]()-[de-pos/CCONJ]() (3; 0% instances), [de-pos/PART]()-[de-pos/ADP]() (3; 0% instances), [de-pos/PROPN]()-[de-pos/PART]() (3; 0% instances), [de-pos/NOUN]()-[de-pos/PROPN]() (2; 0% instances), [de-pos/VERB]()-[de-pos/CCONJ]() (2; 0% instances), [de-pos/ADV]()-[de-pos/PRON]() (1; 0% instances), [de-pos/NOUN]()-[de-pos/PART]() (1; 0% instances), [de-pos/NOUN]()-[de-pos/PUNCT]() (1; 0% instances), [de-pos/NOUN]()-[de-pos/X]() (1; 0% instances), [de-pos/NUM]()-[de-pos/CCONJ]() (1; 0% instances), [de-pos/X]()-[de-pos/PROPN]() (1; 0% instances).
 
 
 ~~~ conllu
@@ -27,7 +27,7 @@ The following 31 pairs of parts of speech are connected with `case`: [de-pos/NOU
 5	Ausgangspunkt	Ausgangspunkt	NOUN	NN	_	0	root	_	_
 6	zu	zu	ADP	APPR	_	8	case	_	_
 7	einer	ein	DET	ART	Case=Dat|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
-8	Parfümkreation	Parfümkreation	NOUN	NN	Case=Dat|Gender=Fem|Number=Sing	5	nmod	_	_
+8	Parfümkreation	Parfümkreation	NOUN	NN	Case=Dat|Gender=Fem|Number=Sing	5	nmod	_	SpaceAfter=No
 9	.	.	PUNCT	$.	_	5	punct	_	_
 
 ~~~
@@ -46,7 +46,7 @@ The following 31 pairs of parts of speech are connected with `case`: [de-pos/NOU
 5	Nummer	Nummer	NOUN	NN	_	6	compound	_	_
 6	EINS	EINS	NOUN	VVFIN	_	0	root	_	_
 7	in	in	ADP	APPR	_	8	case	_	_
-8	Dresden	Dresden	PROPN	NE	_	6	nmod	_	_
+8	Dresden	Dresden	PROPN	NE	_	6	nmod	_	SpaceAfter=No
 9	.	.	PUNCT	$.	_	6	punct	_	_
 
 ~~~
@@ -71,7 +71,7 @@ The following 31 pairs of parts of speech are connected with `case`: [de-pos/NOU
 11	Gast	Gast	NOUN	NN	_	0	root	_	_
 12	in	in	ADP	APPR	_	14	case	_	_
 13	diesem	dies	PRON	PDAT	Case=Dat|Gender=Masc,Neut|Number=Sing|PronType=Dem	14	det	_	_
-14	Hotel	Hotel	NOUN	NN	Case=Dat|Gender=Masc,Neut|Number=Sing	11	nmod	_	_
+14	Hotel	Hotel	NOUN	NN	Case=Dat|Gender=Masc,Neut|Number=Sing	11	nmod	_	SpaceAfter=No
 15	.	.	PUNCT	$.	_	11	punct	_	_
 
 ~~~

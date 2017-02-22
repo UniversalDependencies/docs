@@ -7,39 +7,42 @@
 This feature is universal.
 It occurs with 1 different values: `Yes`.
 
-794 tokens (1%) have a non-empty value of `Poss`.
-291 types (1%) occur at least once with a non-empty value of `Poss`.
-148 lemmas (1%) occur at least once with a non-empty value of `Poss`.
-The feature is used with 2 part-of-speech tags: [hr-pos/PRON]() (556; 0% instances), [hr-pos/ADJ]() (238; 0% instances).
+1784 tokens (1%) have a non-empty value of `Poss`.
+412 types (1%) occur at least once with a non-empty value of `Poss`.
+208 lemmas (1%) occur at least once with a non-empty value of `Poss`.
+The feature is used with 2 part-of-speech tags: [hr-pos/DET]() (1438; 1% instances), [hr-pos/ADJ]() (346; 0% instances).
 
-### `PRON`
+### `DET`
 
-556 [hr-pos/PRON]() tokens (7% of all `PRON` tokens) have a non-empty value of `Poss`.
+1438 [hr-pos/DET]() tokens (21% of all `DET` tokens) have a non-empty value of `Poss`.
 
-The most frequent other feature values with which `PRON` and `Poss` co-occurred: <tt><a href="Reflex.html">Reflex</a>=EMPTY</tt> (556; 100%), <tt><a href="PronType.html">PronType</a>=EMPTY</tt> (556; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (428; 77%), <tt><a href="Person.html">Person</a>=3</tt> (365; 66%).
+The most frequent other feature values with which `DET` and `Poss` co-occurred: <tt><a href="PronType.html">PronType</a>=Prs</tt> (1367; 95%), <tt><a href="Number.html">Number</a>=Sing</tt> (1050; 73%).
 
-`PRON` tokens may have the following values of `Poss`:
+`DET` tokens may have the following values of `Poss`:
 
-* `Yes` (556; 100% of non-empty `Poss`): <em>njegova, njegov, naše, njihov, njegove, njihova, naš, naša, njegovu, njihovu</em>
-* `EMPTY` (7810): <em>se, koji, što, to, koje, koja, svoje, ove, toga, kojima</em>
+* `Yes` (1438; 100% of non-empty `Poss`): <em>svoje, svoj, svoju, svojim, njegova, njegov, svojih, naše, svojoj, njihov</em>
+* `EMPTY` (5317): <em>koji, to, koje, koja, nekoliko, sve, ove, toga, kojima, koju</em>
+
+`Poss` seems to be **lexical feature** of `DET`. 100% lemmas (10) occur only with one value of `Poss`.
 
 ### `ADJ`
 
-238 [hr-pos/ADJ]() tokens (1% of all `ADJ` tokens) have a non-empty value of `Poss`.
+346 [hr-pos/ADJ]() tokens (2% of all `ADJ` tokens) have a non-empty value of `Poss`.
 
-The most frequent other feature values with which `ADJ` and `Poss` co-occurred: <tt><a href="Degree.html">Degree</a>=Pos</tt> (238; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (166; 70%), <tt><a href="Definite.html">Definite</a>=EMPTY</tt> (144; 61%).
+The most frequent other feature values with which `ADJ` and `Poss` co-occurred: <tt><a href="Degree.html">Degree</a>=Pos</tt> (346; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (245; 71%).
 
 `ADJ` tokens may have the following values of `Poss`:
 
-* `Yes` (238; 100% of non-empty `Poss`): <em>nevladinih, nevladine, UN-ova, vladinih, Ashdownov, Božju, vladini, nevladina, vladine, Đinđićeve</em>
-* `EMPTY` (15786): <em>sve, novi, vanjskih, svi, svih, glavni, novih, prošle, drugi, novog</em>
+* `Yes` (346; 100% of non-empty `Poss`): <em>nevladinih, nevladine, UN-ova, vladinih, Appleovih, Ashdownov, Božju, UN-ovog, vladini, Appleov</em>
+* `EMPTY` (21420): <em>novi, drugi, prvi, vanjskih, novih, prošle, glavni, nove, hrvatski, moguće</em>
 
-`Poss` seems to be **lexical feature** of `ADJ`. 100% lemmas (141) occur only with one value of `Poss`.
+`Poss` seems to be **lexical feature** of `ADJ`. 100% lemmas (200) occur only with one value of `Poss`.
 
 ## Relations with Agreement in `Poss`
 
 The 10 most frequent relations where parent and child node agree in `Poss`:
-<tt>ADJ --[<a href="../dep/conj.html">conj</a>]--> ADJ</tt> (3; 100%),
-<tt>PRON --[<a href="../dep/name.html">name</a>]--> PRON</tt> (1; 100%),
-<tt>ADJ --[<a href="../dep/name.html">name</a>]--> ADJ</tt> (1; 100%).
+<tt>ADJ --[<a href="../dep/conj.html">conj</a>]--> ADJ</tt> (4; 100%),
+<tt>DET --[<a href="../dep/flat.html">flat</a>]--> DET</tt> (1; 100%),
+<tt>ADJ --[<a href="../dep/flat.html">flat</a>]--> ADJ</tt> (1; 100%),
+<tt>ADJ --[<a href="../dep/compound.html">compound</a>]--> ADJ</tt> (1; 100%).
 

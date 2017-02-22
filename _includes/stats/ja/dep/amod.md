@@ -6,78 +6,71 @@
 
 This relation is universal.
 
-1296 nodes (1%) are attached to their parents as `amod`.
+2415 nodes (1%) are attached to their parents as `amod`.
 
-1289 instances of `amod` (99%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.07253086419753.
+2415 instances of `amod` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.43188405797101.
 
-The following 14 pairs of parts of speech are connected with `amod`: [ja-pos/NOUN]()-[ja-pos/DET]() (864; 67% instances), [ja-pos/NOUN]()-[ja-pos/ADJ]() (368; 28% instances), [ja-pos/NOUN]()-[ja-pos/NOUN]() (14; 1% instances), [ja-pos/NUM]()-[ja-pos/ADJ]() (12; 1% instances), [ja-pos/NOUN]()-[ja-pos/PRON]() (10; 1% instances), [ja-pos/NUM]()-[ja-pos/DET]() (10; 1% instances), [ja-pos/ADJ]()-[ja-pos/DET]() (8; 1% instances), [ja-pos/ADJ]()-[ja-pos/ADJ]() (2; 0% instances), [ja-pos/ADV]()-[ja-pos/DET]() (2; 0% instances), [ja-pos/VERB]()-[ja-pos/ADJ]() (2; 0% instances), [ja-pos/NOUN]()-[ja-pos/VERB]() (1; 0% instances), [ja-pos/PRON]()-[ja-pos/ADJ]() (1; 0% instances), [ja-pos/PRON]()-[ja-pos/DET]() (1; 0% instances), [ja-pos/VERB]()-[ja-pos/DET]() (1; 0% instances).
-
-
-~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 5 amod	color:blue
-1	今回	_	NOUN	NOUN	_	9	advmod	_	_
-2	、	_	PUNCT	.	_	1	punct	_	_
-3	日本の	_	NOUN	NOUN-POSTP	_	4	nmod	_	_
-4	メディアも	_	NOUN	NOUN-POSTP	_	7	nmod	_	_
-5	この	_	DET	DET	_	6	amod	_	_
-6	テストに	_	NOUN	NOUN-POSTP	_	7	nmod	_	_
-7	参加する	_	VERB	VERB-AUX	_	8	ccomp	_	_
-8	ことが	_	NOUN	NOUN-PRT	_	9	nmod	_	_
-9	できたので	_	VERB	VERB-AUX-CONJ	_	13	advcl	_	_
-10	、	_	PUNCT	.	_	9	punct	_	_
-11	最新バージョンの	_	NOUN	NOUN-POSTP	_	12	nmod	_	_
-12	出来具合を	_	NOUN	NOUN-PRT	_	13	nmod	_	_
-13	レポートしていきたい。	_	VERB	VERB-AUX-AUX-AUX	_	0	root	_	_
-
-~~~
+The following 21 pairs of parts of speech are connected with `amod`: [ja-pos/NOUN]()-[ja-pos/NOUN]() (1038; 43% instances), [ja-pos/NOUN]()-[ja-pos/ADJ]() (558; 23% instances), [ja-pos/NUM]()-[ja-pos/PART]() (328; 14% instances), [ja-pos/NOUN]()-[ja-pos/PART]() (135; 6% instances), [ja-pos/NOUN]()-[ja-pos/VERB]() (109; 5% instances), [ja-pos/VERB]()-[ja-pos/NOUN]() (83; 3% instances), [ja-pos/PROPN]()-[ja-pos/NOUN]() (40; 2% instances), [ja-pos/NUM]()-[ja-pos/ADJ]() (26; 1% instances), [ja-pos/VERB]()-[ja-pos/VERB]() (26; 1% instances), [ja-pos/NUM]()-[ja-pos/NOUN]() (16; 1% instances), [ja-pos/PROPN]()-[ja-pos/ADJ]() (13; 1% instances), [ja-pos/ADJ]()-[ja-pos/ADJ]() (11; 0% instances), [ja-pos/ADJ]()-[ja-pos/NOUN]() (9; 0% instances), [ja-pos/ADJ]()-[ja-pos/VERB]() (6; 0% instances), [ja-pos/PROPN]()-[ja-pos/PART]() (6; 0% instances), [ja-pos/ADV]()-[ja-pos/ADJ]() (3; 0% instances), [ja-pos/VERB]()-[ja-pos/ADJ]() (3; 0% instances), [ja-pos/PRON]()-[ja-pos/ADJ]() (2; 0% instances), [ja-pos/CCONJ]()-[ja-pos/ADJ]() (1; 0% instances), [ja-pos/NUM]()-[ja-pos/VERB]() (1; 0% instances), [ja-pos/PROPN]()-[ja-pos/VERB]() (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 4 amod	color:blue
-1	同僚教師の	_	NOUN	NOUN-POSTP	_	2	nmod	_	_
-2	すみれと	_	NOUN	NOUN-CONJ	_	6	nmod	_	_
-3	彩は	_	NOUN	NOUN-PRT	_	2	conj	_	_
-4	そんな	_	ADJ	ADJ	_	5	amod	_	_
-5	夕子と	_	NOUN	NOUN-POSTP	_	6	nmod	_	_
-6	意気投合し	_	VERB	VERB	_	13	advcl	_	_
-7	、	_	PUNCT	.	_	6	punct	_	_
-8	問題を	_	NOUN	NOUN-PRT	_	9	nmod	_	_
-9	解決する	_	VERB	VERB-AUX	_	10	ccomp	_	_
-10	ため	_	NOUN	NOUN	_	6	conj	_	_
-11	行動を	_	NOUN	NOUN-PRT	_	13	nmod	_	_
-12	共に	_	NOUN	NOUN-POSTP	_	13	nmod	_	_
-13	する。	_	VERB	VERB-AUX	_	0	root	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
 # visual-style 10	bgColor:blue
 # visual-style 10	fgColor:white
-# visual-style 10 7 amod	color:blue
-1	正之の	_	NOUN	NOUN-POSTP	_	2	nmod	_	_
-2	没後	_	NOUN	NOUN	_	12	advmod	_	_
-3	、	_	PUNCT	.	_	2	punct	_	_
-4	藩主の	_	NOUN	NOUN-POSTP	_	5	nmod	_	_
-5	座は	_	NOUN	NOUN-PRT	_	7	nmod	_	_
-6	子の	_	NOUN	NOUN-POSTP	_	7	nmod	_	_
-7	正経	_	NOUN	NOUN	_	10	amod	_	_
-8	、	_	PUNCT	.	_	7	punct	_	_
-9	その	_	DET	DET	_	7	name	_	_
-10	弟の	_	NOUN	NOUN-POSTP	_	11	nmod	_	_
-11	正容が	_	NOUN	NOUN-PRT	_	12	nmod	_	_
-12	継いだ。	_	VERB	VERB-AUX	_	0	root	_	_
+# visual-style 12	bgColor:blue
+# visual-style 12	fgColor:white
+# visual-style 12 10 amod	color:blue
+1	平成	平成	PART	_	_	2	amod	_	SpaceAfter=No
+2	10	10	NUM	_	NumType=Card	8	nummod	_	SpaceAfter=No
+3	年度	年度	NOUN	_	_	2	mark	_	SpaceAfter=No
+4	NHK	NHK	PROPN	_	_	8	compound	_	SpaceAfter=No
+5	全国	全国	NOUN	_	_	8	compound	_	SpaceAfter=No
+6	学校	学校	NOUN	_	_	8	compound	_	SpaceAfter=No
+7	音楽コンクール	音楽コンクール	NOUN	_	_	8	compound	_	SpaceAfter=No
+8	中学校	中学校	NOUN	_	_	12	nmod	_	SpaceAfter=No
+9	の	の	ADP	_	_	8	case	_	SpaceAfter=No
+10	部	部	NOUN	_	_	12	amod	_	SpaceAfter=No
+11	課題	課題	NOUN	_	_	12	compound	_	SpaceAfter=No
+12	曲	曲	NOUN	_	_	0	root	_	SpaceAfter=No
+13	。	。	PUNCT	_	_	12	punct	_	SpaceAfter=No
+
+~~~
+
+
+~~~ conllu
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 1 amod	color:blue
+1	元	元	ADJ	_	_	4	amod	_	SpaceAfter=No
+2	広島	広島	PROPN	_	_	4	compound	_	SpaceAfter=No
+3	県議会	県議会	NOUN	_	_	4	compound	_	SpaceAfter=No
+4	議員	議員	NOUN	_	_	0	root	_	SpaceAfter=No
+5	。	。	PUNCT	_	_	4	punct	_	SpaceAfter=No
+
+~~~
+
+
+~~~ conllu
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 1 amod	color:blue
+1	平成	平成	PART	_	_	2	amod	_	SpaceAfter=No
+2	10	10	NUM	_	NumType=Card	8	nummod	_	SpaceAfter=No
+3	年度	年度	NOUN	_	_	2	mark	_	SpaceAfter=No
+4	NHK	NHK	PROPN	_	_	8	compound	_	SpaceAfter=No
+5	全国	全国	NOUN	_	_	8	compound	_	SpaceAfter=No
+6	学校	学校	NOUN	_	_	8	compound	_	SpaceAfter=No
+7	音楽コンクール	音楽コンクール	NOUN	_	_	8	compound	_	SpaceAfter=No
+8	中学校	中学校	NOUN	_	_	12	nmod	_	SpaceAfter=No
+9	の	の	ADP	_	_	8	case	_	SpaceAfter=No
+10	部	部	NOUN	_	_	12	amod	_	SpaceAfter=No
+11	課題	課題	NOUN	_	_	12	compound	_	SpaceAfter=No
+12	曲	曲	NOUN	_	_	0	root	_	SpaceAfter=No
+13	。	。	PUNCT	_	_	12	punct	_	SpaceAfter=No
 
 ~~~
 
@@ -90,12 +83,12 @@ The following 14 pairs of parts of speech are connected with `amod`: [ja-pos/NOU
 
 This relation is universal.
 
-1929 nodes (1%) are attached to their parents as `amod`.
+1375 nodes (1%) are attached to their parents as `amod`.
 
-1929 instances of `amod` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.50855365474339.
+1375 instances of `amod` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.50763636363636.
 
-The following 5 pairs of parts of speech are connected with `amod`: [ja-pos/NOUN]()-[ja-pos/ADJ]() (1819; 94% instances), [ja-pos/NOUN]()-[ja-pos/NOUN]() (100; 5% instances), [ja-pos/PROPN]()-[ja-pos/ADJ]() (8; 0% instances), [ja-pos/PROPN]()-[ja-pos/NOUN]() (1; 0% instances), [ja-pos/VERB]()-[ja-pos/ADJ]() (1; 0% instances).
+The following 4 pairs of parts of speech are connected with `amod`: [ja-pos/NOUN]()-[ja-pos/ADJ]() (1301; 95% instances), [ja-pos/NOUN]()-[ja-pos/NOUN]() (66; 5% instances), [ja-pos/PROPN]()-[ja-pos/ADJ]() (7; 1% instances), [ja-pos/VERB]()-[ja-pos/ADJ]() (1; 0% instances).
 
 
 ~~~ conllu
@@ -160,30 +153,28 @@ The following 5 pairs of parts of speech are connected with `amod`: [ja-pos/NOUN
 
 
 ~~~ conllu
-# visual-style 11	bgColor:blue
-# visual-style 11	fgColor:white
-# visual-style 12	bgColor:blue
-# visual-style 12	fgColor:white
-# visual-style 12 11 amod	color:blue
-1	_	_	ADJ	ADJ	_	18	advmod	_	Offset=0-2
-2	_	だ	AUX	AUX	_	1	aux	_	Offset=2-3
-3	_	_	PUNCT	PUNCT	_	1	punct	_	Offset=3-4
-4	_	此れ	PRON	PRON	_	7	nmod	_	Offset=4-6
-5	_	_	PART	PART	_	4	case	_	Offset=6-8
-6	_	_	ADP	ADP	_	4	case	_	Offset=8-9
-7	_	トレンド-trend	NOUN	NOUN	_	9	dobj	_	Offset=9-13
-8	_	_	ADP	ADP	_	7	case	_	Offset=13-14
-9	_	_	VERB	VERB	_	18	advcl	_	Offset=14-16
-10	_	_	SCONJ	SCONJ	_	9	mark	_	Offset=16-17
-11	_	_	ADJ	ADJ	_	12	amod	_	Offset=17-21
-12	_	ミカタ	PROPN	PROPN	_	14	nsubj	_	Offset=21-23
-13	_	_	ADP	ADP	_	12	case	_	Offset=23-24
-14	_	_	VERB	VERB	_	16	acl	_	Offset=24-26
-15	_	為る	AUX	AUX	_	14	aux	_	Offset=26-28
-16	_	_	NOUN	NOUN	_	18	nsubj	_	Offset=28-30
-17	_	_	ADP	ADP	_	16	case	_	Offset=30-31
-18	_	有る	VERB	VERB	_	0	root	_	Offset=31-33
-19	_	_	PUNCT	PUNCT	_	18	punct	_	Offset=33-34
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 9 8 amod	color:blue
+1	_	マッチ-match（合致・試合）	NOUN	NOUN	_	2	compound	_	Offset=0-3
+2	_	レース-race（競争）	NOUN	NOUN	_	16	nmod	_	Offset=3-6
+3	_	_	ADP	ADP	_	2	case	_	Offset=6-7
+4	_	_	ADP	ADP	_	2	case	_	Offset=7-8
+5	_	二	NUM	NUM	_	6	nummod	_	Offset=8-9
+6	_	_	NOUN	NOUN	_	11	nsubj	_	Offset=9-10
+7	_	_	ADP	ADP	_	6	case	_	Offset=10-11
+8	_	_	ADJ	ADJ	_	9	amod	_	Offset=11-14
+9	_	_	PROPN	PROPN	_	11	dobj	_	Offset=14-17
+10	_	_	ADP	ADP	_	9	case	_	Offset=17-18
+11	_	繰り返す	VERB	VERB	_	14	nmod	_	Offset=18-22
+12	_	_	SCONJ	SCONJ	_	11	mark	_	Offset=22-25
+13	_	_	ADP	ADP	_	11	dep	_	Offset=25-26
+14	_	_	NOUN	NOUN	_	16	iobj	_	Offset=26-28
+15	_	_	ADP	ADP	_	14	case	_	Offset=28-29
+16	_	成る	VERB	VERB	_	0	root	_	Offset=29-31
+17	_	_	PUNCT	PUNCT	_	16	punct	_	Offset=31-32
 
 ~~~
 

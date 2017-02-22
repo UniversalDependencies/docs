@@ -4,90 +4,90 @@
 
 ## Treebank Statistics (UD_Swedish)
 
-There are 35 `DET` lemmas (0%), 59 `DET` types (0%) and 5656 `DET` tokens (6%).
+There are 35 `DET` lemmas (0%), 55 `DET` types (0%) and 4515 `DET` tokens (6%).
 Out of 16 observed tags, the rank of `DET` is: 9 in number of lemmas, 9 in number of types and 8 in number of tokens.
 
-The 10 most frequent `DET` lemmas: <em>en, denna, sig, någon, all, vi, varje, samma, de, vilken</em>
+The 10 most frequent `DET` lemmas: <em>en, sig, denna, någon, all, vi, varje, samma, de, vilken</em>
 
 The 10 most frequent `DET` types:  <em>en, den, ett, de, det, sin, alla, denna, varje, dessa</em>
 
-The 10 most frequent ambiguous lemmas: <em>en</em> ([DET]() 3843, [NUM]() 92, [ADJ]() 89, [PRON]() 58), <em>denna</em> ([DET]() 321, [PRON]() 186), <em>sig</em> ([PRON]() 380, [DET]() 313), <em>någon</em> ([DET]() 184, [PRON]() 72, [ADV]() 20), <em>all</em> ([DET]() 173, [PRON]() 65, [ADV]() 11), <em>vi</em> ([PRON]() 413, [DET]() 139, [PROPN]() 2, [NOUN]() 1), <em>samma</em> ([DET]() 98, [ADJ]() 1), <em>de</em> ([PRON]() 508, [DET]() 90, [PROPN]() 2), <em>vilken</em> ([DET]() 74, [PRON]() 60), <em>ingen</em> ([DET]() 61, [PRON]() 23)
+The 10 most frequent ambiguous lemmas: <em>en</em> ([DET]() 3049, [NUM]() 80, [ADJ]() 63, [PRON]() 44), <em>sig</em> ([PRON]() 274, [DET]() 251), <em>denna</em> ([DET]() 249, [PRON]() 147), <em>någon</em> ([DET]() 145, [PRON]() 52, [ADV]() 17), <em>all</em> ([DET]() 138, [PRON]() 41, [ADV]() 6), <em>vi</em> ([PRON]() 324, [DET]() 111, [PROPN]() 2, [NOUN]() 1), <em>de</em> ([PRON]() 381, [DET]() 71, [PROPN]() 2), <em>vilken</em> ([DET]() 70, [PRON]() 53), <em>du</em> ([PRON]() 255, [DET]() 50), <em>ingen</em> ([DET]() 49, [PRON]() 19)
 
-The 10 most frequent ambiguous types:  <em>en</em> ([DET]() 1286, [NUM]() 56, [PRON]() 43), <em>den</em> ([DET]() 671, [PRON]() 182), <em>ett</em> ([DET]() 599, [NUM]() 31, [PRON]() 4), <em>de</em> ([DET]() 512, [PRON]() 292, [PROPN]() 2), <em>det</em> ([PRON]() 747, [DET]() 286), <em>alla</em> ([DET]() 125, [PRON]() 29), <em>denna</em> ([DET]() 108, [PRON]() 16), <em>dessa</em> ([DET]() 96, [PRON]() 13), <em>samma</em> ([DET]() 92, [ADJ]() 1), <em>någon</em> ([DET]() 81, [PRON]() 23)
+The 10 most frequent ambiguous types:  <em>en</em> ([DET]() 1000, [NUM]() 50, [PRON]() 29), <em>den</em> ([DET]() 535, [PRON]() 147), <em>ett</em> ([DET]() 484, [NUM]() 25, [PRON]() 4), <em>de</em> ([DET]() 396, [PRON]() 227, [PROPN]() 2), <em>det</em> ([PRON]() 576, [DET]() 228), <em>alla</em> ([DET]() 100, [PRON]() 18), <em>denna</em> ([DET]() 87, [PRON]() 12), <em>dessa</em> ([DET]() 71, [PRON]() 7), <em>någon</em> ([DET]() 61, [PRON]() 13), <em>detta</em> ([PRON]() 74, [DET]() 50)
 
 
 * <em>en</em>
-  * [DET]() 1286: <em>Det måste också bli <b>en</b> mer praktisk syn på barnuppfostran .</em>
-  * [NUM]() 56: <em>I fackets styrelse är det <b>en</b> kvinna med .</em>
-  * [PRON]() 43: <em>Fast mycket kanske beror på <b>en</b> själv .</em>
+  * [DET]() 1000: <em>Det måste också bli <b>en</b> mer praktisk syn på barnuppfostran .</em>
+  * [NUM]() 50: <em>I fackets styrelse är det <b>en</b> kvinna med .</em>
+  * [PRON]() 29: <em>Fast mycket kanske beror på <b>en</b> själv .</em>
 * <em>den</em>
-  * [DET]() 671: <em>Vad skapar <b>den</b> kollektiva barnuppfostran för slags människor ?</em>
-  * [PRON]() 182: <em>Men <b>den</b> kanske är på väg .</em>
+  * [DET]() 535: <em>Vad skapar <b>den</b> kollektiva barnuppfostran för slags människor ?</em>
+  * [PRON]() 147: <em>Men <b>den</b> kanske är på väg .</em>
 * <em>ett</em>
-  * [DET]() 599: <em>Pojkarna väljer yrke efter <b>ett</b> brett register .</em>
-  * [NUM]() 31: <em>Spädbarnshem för vård av barn under <b>ett</b> år .</em>
+  * [DET]() 484: <em>Pojkarna väljer yrke efter <b>ett</b> brett register .</em>
+  * [NUM]() 25: <em>Spädbarnshem för vård av barn under <b>ett</b> år .</em>
   * [PRON]() 4: <em>Här sitter en minister från vart och <b>ett</b> av medlemsländerna .</em>
 * <em>de</em>
-  * [DET]() 512: <em>Men låt oss på samma gång lösa <b>de</b> övriga problemen på annat sätt .</em>
-  * [PRON]() 292: <em>Skiljer <b>de</b> sig från andra och i så fall på vilket sätt ?</em>
+  * [DET]() 396: <em>Men låt oss på samma gång lösa <b>de</b> övriga problemen på annat sätt .</em>
+  * [PRON]() 227: <em>Skiljer <b>de</b> sig från andra och i så fall på vilket sätt ?</em>
   * [PROPN]() 2: <em>Genom <b>de</b> Gaulle bröts länken med Nato .</em>
 * <em>det</em>
-  * [PRON]() 747: <em>Men för barnens del är <b>det</b> annorlunda .</em>
-  * [DET]() 286: <em>Sakta och kanske rent av avsaktande är <b>det</b> rätta ordet .</em>
+  * [PRON]() 576: <em>Men för barnens del är <b>det</b> annorlunda .</em>
+  * [DET]() 228: <em>Sakta och kanske rent av avsaktande är <b>det</b> rätta ordet .</em>
 * <em>alla</em>
-  * [DET]() 125: <em>De uppmuntras på <b>alla</b> sätt att skaffa sig utbildning .</em>
-  * [PRON]() 29: <em>Ett annat exempel är Kalkutta , låt vara det extremaste av <b>alla</b> .</em>
+  * [DET]() 100: <em>De uppmuntras på <b>alla</b> sätt att skaffa sig utbildning .</em>
+  * [PRON]() 18: <em>Ändå vet <b>alla</b> som arbetar på fältet att skolket tenderar att öka .</em>
 * <em>denna</em>
-  * [DET]() 108: <em>Kvarstår <b>denna</b> försening i utveckling hos äldre kibbutzbarn ?</em>
-  * [PRON]() 16: <em>Huvuddragen i <b>denna</b> har blivit bestående till slutet av 60-talet .</em>
+  * [DET]() 87: <em>Kvarstår <b>denna</b> försening i utveckling hos äldre kibbutzbarn ?</em>
+  * [PRON]() 12: <em>Till <b>denna</b> räknas :</em>
 * <em>dessa</em>
-  * [DET]() 96: <em>Man kan fråga sig hur <b>dessa</b> barn blir .</em>
-  * [PRON]() 13: <em>Den vetenskap som sysslar med <b>dessa</b> kallas psykiatri .</em>
-* <em>samma</em>
-  * [DET]() 92: <em>Men låt oss på <b>samma</b> gång lösa de övriga problemen på annat sätt .</em>
-  * [ADJ]() 1: <em>Något av det <b>samma</b> kan vi studera där zigenarna ännu lever i sina ursprungliga storfamiljer .</em>
+  * [DET]() 71: <em>Man kan fråga sig hur <b>dessa</b> barn blir .</em>
+  * [PRON]() 7: <em>Där <b>dessa</b> inte räcker till skall socialhjälpen komma in och bygga på .</em>
 * <em>någon</em>
-  * [DET]() 81: <em>Jag sökte jobb efter jobb men inte fick jag <b>någon</b> plats .</em>
-  * [PRON]() 23: <em>Finns det <b>någon</b> som bryr sig om varningarna ?</em>
+  * [DET]() 61: <em>Jag sökte jobb efter jobb men inte fick jag <b>någon</b> plats .</em>
+  * [PRON]() 13: <em>Kan <b>någon</b> verkligen med berått mod påstå att de är lyckliga ?</em>
+* <em>detta</em>
+  * [PRON]() 74: <em>Lyckligtvis är <b>detta</b> blott en tidsfråga .</em>
+  * [DET]() 50: <em>Varför är det på <b>detta</b> sätt ?</em>
 
 ## Morphology
 
-The form / lemma ratio of `DET` is 1.685714 (the average of all parts of speech is 1.421062).
+The form / lemma ratio of `DET` is 1.571429 (the average of all parts of speech is 1.407742).
 
 The 1st highest number of forms (6) was observed with the lemma “en”: <em>Dom, de, den, det, en, ett</em>.
 
-The 2nd highest number of forms (5) was observed with the lemma “denna”: <em>denna, dennes, dessa, dessas, detta</em>.
+The 2nd highest number of forms (4) was observed with the lemma “denna”: <em>denna, dennes, dessa, detta</em>.
 
-The 3rd highest number of forms (4) was observed with the lemma “någon”: <em>någon, något, några, nån</em>.
+The 3rd highest number of forms (3) was observed with the lemma “all”: <em>all, alla, allt</em>.
 
-`DET` occurs with 5 features: [sv-feat/PronType]() (5656; 100% instances), [sv-feat/Definite]() (5479; 97% instances), [sv-feat/Number]() (5392; 95% instances), [sv-feat/Gender]() (4082; 72% instances), [sv-feat/Poss]() (703; 12% instances)
+`DET` occurs with 5 features: [sv-feat/PronType]() (4515; 100% instances), [sv-feat/Definite]() (4373; 97% instances), [sv-feat/Number]() (4301; 95% instances), [sv-feat/Gender]() (3266; 72% instances), [sv-feat/Poss]() (577; 13% instances)
 
 `DET` occurs with 16 feature-value pairs: `Definite=Def`, `Definite=Ind`, `Gender=Com`, `Gender=Neut`, `Number=Plur`, `Number=Sing`, `Poss=Yes`, `PronType=Art`, `PronType=Dem`, `PronType=Ind`, `PronType=Int`, `PronType=Neg`, `PronType=Prs`, `PronType=Rcp`, `PronType=Rel`, `PronType=Tot`
 
 `DET` occurs with 49 feature combinations.
-The most frequent feature combination is `Definite=Ind|Gender=Com|Number=Sing|PronType=Art` (1437 tokens).
+The most frequent feature combination is `Definite=Ind|Gender=Com|Number=Sing|PronType=Art` (1129 tokens).
 Examples: <em>en</em>
 
 
 ## Relations
 
-`DET` nodes are attached to their parents using 16 different relations: [sv-dep/det]() (4886; 86% instances), [sv-dep/nmod:poss]() (675; 12% instances), [sv-dep/mwe]() (41; 1% instances), [sv-dep/nmod]() (11; 0% instances), [sv-dep/nsubj]() (11; 0% instances), [sv-dep/dobj]() (10; 0% instances), [sv-dep/conj]() (7; 0% instances), [sv-dep/advmod]() (3; 0% instances), [sv-dep/xcomp]() (3; 0% instances), [sv-dep/acl]() (2; 0% instances), [sv-dep/amod]() (2; 0% instances), [sv-dep/advcl]() (1; 0% instances), [sv-dep/appos]() (1; 0% instances), [sv-dep/case]() (1; 0% instances), [sv-dep/csubj]() (1; 0% instances), [sv-dep/dislocated]() (1; 0% instances)
+`DET` nodes are attached to their parents using 16 different relations: [sv-dep/det]() (3885; 86% instances), [sv-dep/nmod:poss]() (551; 12% instances), [sv-dep/fixed]() (33; 1% instances), [sv-dep/nsubj]() (10; 0% instances), [sv-dep/conj]() (7; 0% instances), [sv-dep/obj]() (7; 0% instances), [sv-dep/obl]() (6; 0% instances), [sv-dep/nmod]() (4; 0% instances), [sv-dep/advmod]() (3; 0% instances), [sv-dep/xcomp]() (3; 0% instances), [sv-dep/acl]() (1; 0% instances), [sv-dep/advcl]() (1; 0% instances), [sv-dep/appos]() (1; 0% instances), [sv-dep/case]() (1; 0% instances), [sv-dep/csubj]() (1; 0% instances), [sv-dep/dislocated]() (1; 0% instances)
 
-Parents of `DET` nodes belong to 10 different parts of speech: [NOUN]() (5250; 93% instances), [ADJ]() (294; 5% instances), [ADP]() (37; 1% instances), [VERB]() (27; 0% instances), [NUM]() (18; 0% instances), [PRON]() (10; 0% instances), [DET]() (9; 0% instances), [PROPN]() (9; 0% instances), [ADV]() (1; 0% instances), [INTJ]() (1; 0% instances)
+Parents of `DET` nodes belong to 10 different parts of speech: [NOUN]() (4194; 93% instances), [ADJ]() (223; 5% instances), [ADP]() (29; 1% instances), [VERB]() (24; 1% instances), [NUM]() (16; 0% instances), [DET]() (9; 0% instances), [PRON]() (9; 0% instances), [PROPN]() (9; 0% instances), [ADV]() (1; 0% instances), [INTJ]() (1; 0% instances)
 
-5501 (97%) `DET` nodes are leaves.
+4381 (97%) `DET` nodes are leaves.
 
-112 (2%) `DET` nodes have one child.
+105 (2%) `DET` nodes have one child.
 
-37 (1%) `DET` nodes have two children.
+23 (1%) `DET` nodes have two children.
 
 6 (0%) `DET` nodes have three or more children.
 
 The highest child degree of a `DET` node is 6.
 
-Children of `DET` nodes are attached using 17 different relations: [sv-dep/mwe]() (87; 41% instances), [sv-dep/advmod]() (39; 18% instances), [sv-dep/conj]() (14; 7% instances), [sv-dep/cc]() (13; 6% instances), [sv-dep/case]() (11; 5% instances), [sv-dep/nmod]() (11; 5% instances), [sv-dep/punct]() (9; 4% instances), [sv-dep/acl:relcl]() (5; 2% instances), [sv-dep/det]() (4; 2% instances), [sv-dep/mark]() (4; 2% instances), [sv-dep/acl]() (3; 1% instances), [sv-dep/cop]() (3; 1% instances), [sv-dep/nsubj]() (3; 1% instances), [sv-dep/nummod]() (2; 1% instances), [sv-dep/advcl]() (1; 0% instances), [sv-dep/amod]() (1; 0% instances), [sv-dep/neg]() (1; 0% instances)
+Children of `DET` nodes are attached using 16 different relations: [sv-dep/fixed]() (73; 41% instances), [sv-dep/advmod]() (31; 18% instances), [sv-dep/conj]() (14; 8% instances), [sv-dep/case]() (10; 6% instances), [sv-dep/nmod]() (10; 6% instances), [sv-dep/punct]() (7; 4% instances), [sv-dep/cc]() (6; 3% instances), [sv-dep/acl:relcl]() (5; 3% instances), [sv-dep/mark]() (4; 2% instances), [sv-dep/acl]() (3; 2% instances), [sv-dep/cop]() (3; 2% instances), [sv-dep/det]() (3; 2% instances), [sv-dep/nsubj]() (3; 2% instances), [sv-dep/nummod]() (2; 1% instances), [sv-dep/advcl]() (1; 1% instances), [sv-dep/amod]() (1; 1% instances)
 
-Children of `DET` nodes belong to 11 different parts of speech: [ADV]() (85; 40% instances), [ADJ]() (34; 16% instances), [CONJ]() (23; 11% instances), [NOUN]() (21; 10% instances), [ADP]() (13; 6% instances), [DET]() (9; 4% instances), [PUNCT]() (9; 4% instances), [VERB]() (9; 4% instances), [PRON]() (4; 2% instances), [NUM]() (3; 1% instances), [SCONJ]() (1; 0% instances)
+Children of `DET` nodes belong to 12 different parts of speech: [ADV]() (69; 39% instances), [ADJ]() (28; 16% instances), [NOUN]() (18; 10% instances), [CCONJ]() (17; 10% instances), [ADP]() (12; 7% instances), [DET]() (9; 5% instances), [PUNCT]() (7; 4% instances), [VERB]() (6; 3% instances), [AUX]() (3; 2% instances), [NUM]() (3; 2% instances), [PRON]() (3; 2% instances), [SCONJ]() (1; 1% instances)
 
 
 
@@ -95,82 +95,82 @@ Children of `DET` nodes belong to 11 different parts of speech: [ADV]() (85; 40%
 
 ## Treebank Statistics (UD_Swedish-LinES)
 
-There are 1 `DET` lemmas (6%), 39 `DET` types (0%) and 4283 `DET` tokens (5%).
+There are 1 `DET` lemmas (6%), 38 `DET` types (0%) and 3508 `DET` tokens (5%).
 Out of 17 observed tags, the rank of `DET` is: 6 in number of lemmas, 11 in number of types and 8 in number of tokens.
 
 The 10 most frequent `DET` lemmas: <em>_</em>
 
-The 10 most frequent `DET` types:  <em>en, ett, den, de, det, alla, denna, någon, något, detta</em>
+The 10 most frequent `DET` types:  <em>en, ett, den, de, det, alla, någon, denna, detta, något</em>
 
-The 10 most frequent ambiguous lemmas: <em>_</em> ([NOUN]() 14002, [VERB]() 11274, [ADP]() 8898, [PUNCT]() 8656, [PRON]() 8194, [ADV]() 6016, [ADJ]() 5522, [DET]() 4283, [CONJ]() 3016, [PROPN]() 2703, [SCONJ]() 2587, [AUX]() 2238, [PART]() 1778, [NUM]() 440, [INTJ]() 179, [X]() 17, [SYM]() 9)
+The 10 most frequent ambiguous lemmas: <em>_</em> ([NOUN]() 11462, [VERB]() 8134, [ADP]() 7148, [PUNCT]() 6980, [PRON]() 6631, [ADV]() 4925, [ADJ]() 4444, [DET]() 3508, [AUX]() 2803, [CCONJ]() 2463, [SCONJ]() 2183, [PROPN]() 2158, [PART]() 1442, [NUM]() 339, [INTJ]() 143, [X]() 15, [SYM]() 9)
 
-The 10 most frequent ambiguous types:  <em>en</em> ([DET]() 1458, [PRON]() 48, [NUM]() 21), <em>ett</em> ([DET]() 678, [PRON]() 10, [NUM]() 4), <em>den</em> ([DET]() 539, [PRON]() 194, [PROPN]() 1), <em>de</em> ([DET]() 285, [PRON]() 234, [ADP]() 1), <em>det</em> ([PRON]() 795, [DET]() 260), <em>alla</em> ([DET]() 103, [PRON]() 29), <em>denna</em> ([DET]() 68, [PRON]() 1), <em>någon</em> ([DET]() 73, [PRON]() 41), <em>något</em> ([DET]() 67, [PRON]() 42, [ADV]() 5), <em>detta</em> ([PRON]() 59, [DET]() 52)
+The 10 most frequent ambiguous types:  <em>en</em> ([DET]() 1220, [PRON]() 40, [NUM]() 18), <em>ett</em> ([DET]() 560, [PRON]() 5, [NUM]() 2), <em>den</em> ([DET]() 431, [PRON]() 165, [PROPN]() 1), <em>de</em> ([DET]() 231, [PRON]() 196, [ADP]() 1), <em>det</em> ([PRON]() 639, [DET]() 207), <em>alla</em> ([DET]() 84, [PRON]() 26), <em>någon</em> ([DET]() 64, [PRON]() 36), <em>denna</em> ([DET]() 52, [PRON]() 1), <em>detta</em> ([DET]() 47, [PRON]() 45), <em>något</em> ([DET]() 50, [PRON]() 34, [ADV]() 1)
 
 
 * <em>en</em>
-  * [DET]() 1458: <em>Länka <b>en</b> sida till <b>en</b> anslutningsfil</em>
-  * [PRON]() 48: <em>Men där hängde det minsann <b>en</b> , mitt i röran .</em>
-  * [NUM]() 21: <em>Nordpolen var <b>en</b> av de platserna , minns jag .</em>
+  * [DET]() 1220: <em>Om att anpassa <b>en</b> kontroll</em>
+  * [PRON]() 40: <em>Men där hängde det minsann <b>en</b> , mitt i röran .</em>
+  * [NUM]() 18: <em>" Jaså , ni vet inte vad <b>en</b> matematiker är .</em>
 * <em>ett</em>
-  * [DET]() 678: <em>Flera fält i <b>ett</b> diagram</em>
-  * [PRON]() 10: <em>Boken var bara <b>ett</b> av deras många knep för att få honom att återvända .</em>
-  * [NUM]() 4: <em>Det fanns inte <b>ett</b> som var helt .</em>
+  * [DET]() 560: <em>Du kan bara importera <b>ett</b> dokument i taget till Access .</em>
+  * [PRON]() 5: <em>Boken var bara <b>ett</b> av deras många knep för att få honom att återvända .</em>
+  * [NUM]() 2: <em>Det fanns inte <b>ett</b> som var helt .</em>
 * <em>den</em>
-  * [DET]() 539: <em>Ni sitter där och tänker : Vem är <b>den</b> person som talar till mig ?</em>
-  * [PRON]() 194: <em>Nej , jag missade <b>den</b> . Nåt bra att rapportera ?</em>
+  * [DET]() 431: <em>Han undrade om <b>den</b> unge Auster hade varit bättre på det än han .</em>
+  * [PRON]() 165: <em>Du kan byta färg på en kontroll eller göra <b>den</b> genomskinlig .</em>
   * [PROPN]() 1: <em>Ordet går till Hatzidakis för en minut . Med denna fråga avslutar vi frågestunden till van <b>den</b> Broek .</em>
 * <em>de</em>
-  * [DET]() 285: <em>Nordpolen var en av <b>de</b> platserna , minns jag .</em>
-  * [PRON]() 234: <em>En lång stund satt <b>de</b> så .</em>
+  * [DET]() 231: <em>Tolstoj klargjorde detta på <b>de</b> första sidorna i Krig och fred .</em>
+  * [PRON]() 196: <em>Så fort <b>de</b> har rest hem är <b>de</b> glömda .</em>
   * [ADP]() 1: <em>hon skrattade , protesterade ursäktande och stänkte eau <b>de</b> cologne ner i sin fräkniga barm .</em>
 * <em>det</em>
-  * [PRON]() 795: <em>För varje startmärke finns <b>det</b> ett motsvarande slutmärke .</em>
-  * [DET]() 260: <em>För Quinn var det mycket svårt att röra sig på <b>det</b> sättet .</em>
+  * [PRON]() 639: <em>Han undrade om den unge Auster hade varit bättre på <b>det</b> än han .</em>
+  * [DET]() 207: <em>Vissa av hyperlänkarna i <b>det</b> här avsnittet leder till webben .</em>
 * <em>alla</em>
-  * [DET]() 103: <em>1 Kategorifältområde som visar <b>alla</b> poster ( ej filtrerat )</em>
-  * [PRON]() 29: <em>Visa <b>alla</b></em>
-* <em>denna</em>
-  * [DET]() 68: <em>Manuel Escola Hernando håller sitt första inlägg inför <b>denna</b> kammare .</em>
-  * [PRON]() 1: <em>För en amerikan är den mest förbryllande frågan <b>denna</b> :</em>
+  * [DET]() 84: <em>Snart vällde folk fram på <b>alla</b> sidor om honom .</em>
+  * [PRON]() 26: <em>En beriden eskort på omkring 30 man , <b>alla</b> beväpnade .</em>
 * <em>någon</em>
-  * [DET]() 73: <em>Men om man nu inte gav dom <b>någon</b> kontraktsanställning vid årsskiftet .</em>
-  * [PRON]() 41: <em>Utan att se på <b>någon</b> sade Margot Wentz : Sånt kan man inte säga .</em>
-* <em>något</em>
-  * [DET]() 67: <em>Denna sista tanke fick honom att erinra sig <b>något</b> viktigt .</em>
-  * [PRON]() 42: <em>Hans stärkkragar och lösa skjortbröst var <b>något</b> av en bragd .</em>
-  * [ADV]() 5: <em>Jag kan sällan mobilisera <b>något</b> större intresse för sådana montrar och föremål .</em>
+  * [DET]() 64: <em>Fanns det alls <b>någon</b> tanke förbunden med den ?</em>
+  * [PRON]() 36: <em>Skulle de skicka <b>någon</b> för att se varför han inte hade kommit tillbaka ?</em>
+* <em>denna</em>
+  * [DET]() 52: <em>Manuel Escola Hernando håller sitt första inlägg inför <b>denna</b> kammare .</em>
+  * [PRON]() 1: <em>För en amerikan är den mest förbryllande frågan <b>denna</b> :</em>
 * <em>detta</em>
-  * [PRON]() 59: <em>Hon tycker att det är bakslugt av mig att förneka <b>detta</b> .</em>
-  * [DET]() 52: <em>Vi kommer att uppfylla <b>detta</b> åtagande .</em>
+  * [DET]() 47: <em>Samarbetet om <b>detta</b> mycket tekniska förslag har flutit mycket bra .</em>
+  * [PRON]() 45: <em>Men allt <b>detta</b> är på något sätt yttre ting .</em>
+* <em>något</em>
+  * [DET]() 50: <em>Därefter inträffade <b>något</b> märkligt .</em>
+  * [PRON]() 34: <em>Hans stärkkragar och lösa skjortbröst var <b>något</b> av en bragd .</em>
+  * [ADV]() 1: <em>Frågan om världsmarknadsorientering ser jag faktiskt på ett <b>något</b> annorlunda sätt än vad den presenterades alldeles nyss .</em>
 
 ## Morphology
 
-The form / lemma ratio of `DET` is 39.000000 (the average of all parts of speech is 794.764706).
+The form / lemma ratio of `DET` is 38.000000 (the average of all parts of speech is 693.647059).
 
-The 1st highest number of forms (39) was observed with the lemma “_”: <em>La, Le, all, alla, allt, bägge, båda, de, de-där, den, denna, denne, dessa, det, detta, dom, du, en, en-mängd, ett, inga, ingen, inget, intet, någon, något, några, nån, nåt, samtliga, the, vad, var, varenda, varje, vartenda, vilka, vilken, vilket</em>.
+The 1st highest number of forms (38) was observed with the lemma “_”: <em>La, Le, all, alla, allt, bägge, båda, de, den, denna, denne, dessa, det, detta, dom, du, en, en-mängd, ett, inga, ingen, inget, intet, någon, något, några, nån, nåt, samtliga, the, vad, var, varenda, varje, vartenda, vilka, vilken, vilket</em>.
 
 `DET` does not occur with any features.
 
 
 ## Relations
 
-`DET` nodes are attached to their parents using 7 different relations: [sv-dep/det]() (4187; 98% instances), [sv-dep/neg]() (86; 2% instances), [sv-dep/conj]() (3; 0% instances), [sv-dep/amod]() (2; 0% instances), [sv-dep/dobj]() (2; 0% instances), [sv-dep/mwe]() (2; 0% instances), [sv-dep/root]() (1; 0% instances)
+`DET` nodes are attached to their parents using 5 different relations: [sv-dep/det]() (3498; 100% instances), [sv-dep/fixed]() (6; 0% instances), [sv-dep/conj]() (2; 0% instances), [sv-dep/amod]() (1; 0% instances), [sv-dep/obj]() (1; 0% instances)
 
-Parents of `DET` nodes belong to 14 different parts of speech: [NOUN]() (3942; 92% instances), [ADJ]() (214; 5% instances), [PRON]() (36; 1% instances), [PROPN]() (36; 1% instances), [VERB]() (27; 1% instances), [ADV]() (8; 0% instances), [NUM]() (7; 0% instances), [PUNCT]() (6; 0% instances), [DET]() (2; 0% instances), [CONJ]() (1; 0% instances), [INTJ]() (1; 0% instances), [PART]() (1; 0% instances), [ROOT]() (1; 0% instances), [SCONJ]() (1; 0% instances)
+Parents of `DET` nodes belong to 12 different parts of speech: [NOUN]() (3238; 92% instances), [ADJ]() (165; 5% instances), [PRON]() (31; 1% instances), [PROPN]() (25; 1% instances), [VERB]() (24; 1% instances), [ADV]() (12; 0% instances), [NUM]() (6; 0% instances), [DET]() (2; 0% instances), [PUNCT]() (2; 0% instances), [ADP]() (1; 0% instances), [INTJ]() (1; 0% instances), [SCONJ]() (1; 0% instances)
 
-4148 (97%) `DET` nodes are leaves.
+3393 (97%) `DET` nodes are leaves.
 
-109 (3%) `DET` nodes have one child.
+110 (3%) `DET` nodes have one child.
 
-20 (0%) `DET` nodes have two children.
+4 (0%) `DET` nodes have two children.
 
-6 (0%) `DET` nodes have three or more children.
+1 (0%) `DET` nodes have three or more children.
 
-The highest child degree of a `DET` node is 4.
+The highest child degree of a `DET` node is 3.
 
-Children of `DET` nodes are attached using 11 different relations: [sv-dep/mwe]() (72; 43% instances), [sv-dep/advmod]() (33; 20% instances), [sv-dep/cc]() (23; 14% instances), [sv-dep/conj]() (23; 14% instances), [sv-dep/punct]() (7; 4% instances), [sv-dep/nmod]() (3; 2% instances), [sv-dep/advcl]() (2; 1% instances), [sv-dep/neg]() (2; 1% instances), [sv-dep/amod]() (1; 1% instances), [sv-dep/mark]() (1; 1% instances), [sv-dep/parataxis]() (1; 1% instances)
+Children of `DET` nodes are attached using 7 different relations: [sv-dep/fixed]() (67; 55% instances), [sv-dep/advmod]() (28; 23% instances), [sv-dep/conj]() (16; 13% instances), [sv-dep/cc]() (5; 4% instances), [sv-dep/punct]() (3; 2% instances), [sv-dep/advcl]() (1; 1% instances), [sv-dep/amod]() (1; 1% instances)
 
-Children of `DET` nodes belong to 10 different parts of speech: [ADV]() (104; 62% instances), [CONJ]() (23; 14% instances), [ADJ]() (20; 12% instances), [PUNCT]() (7; 4% instances), [VERB]() (6; 4% instances), [DET]() (2; 1% instances), [NOUN]() (2; 1% instances), [PART]() (2; 1% instances), [PROPN]() (1; 1% instances), [SCONJ]() (1; 1% instances)
+Children of `DET` nodes belong to 8 different parts of speech: [ADV]() (87; 72% instances), [ADJ]() (14; 12% instances), [CCONJ]() (5; 4% instances), [NOUN]() (4; 3% instances), [VERB]() (4; 3% instances), [PUNCT]() (3; 2% instances), [DET]() (2; 2% instances), [PART]() (2; 2% instances)
 
 
 
@@ -178,25 +178,25 @@ Children of `DET` nodes belong to 10 different parts of speech: [ADV]() (104; 62
 
 ## Treebank Statistics (UD_Swedish_Sign_Language)
 
-There are 1 `DET` lemmas (9%), 2 `DET` types (1%) and 19 `DET` tokens (3%).
-Out of 11 observed tags, the rank of `DET` is: 5 in number of lemmas, 11 in number of types and 6 in number of tokens.
+There are 1 `DET` lemmas (10%), 2 `DET` types (1%) and 12 `DET` tokens (3%).
+Out of 10 observed tags, the rank of `DET` is: 4 in number of lemmas, 9 in number of types and 6 in number of tokens.
 
 The 10 most frequent `DET` lemmas: <em>_</em>
 
 The 10 most frequent `DET` types:  <em>PEK, PEK(J)</em>
 
-The 10 most frequent ambiguous lemmas: <em>_</em> ([VERB]() 318, [NOUN]() 149, [X]() 59, [PRON]() 45, [ADV]() 35, [DET]() 19, [INTJ]() 14, [ADJ]() 14, [NUM]() 8, [ADP]() 8, [CONJ]() 3)
+The 10 most frequent ambiguous lemmas: <em>_</em> ([VERB]() 187, [NOUN]() 73, [X]() 45, [PRON]() 29, [ADV]() 19, [DET]() 12, [INTJ]() 7, [ADJ]() 5, [NUM]() 4, [ADP]() 1)
 
-The 10 most frequent ambiguous types:  <em>PEK</em> ([DET]() 18, [PRON]() 17)
+The 10 most frequent ambiguous types:  <em>PEK</em> ([DET]() 11, [PRON]() 9)
 
 
 * <em>PEK</em>
-  * [DET]() 18: <em>SÄTTA-SIG ÄTA(Q) TITTA-PÅ SNÖ^GUBBE <b>PEK</b> ÄTA(Q)</em>
-  * [PRON]() 17: <em>HUND SÅG <b>PEK</b> FINNAS BI GLOB@kl BI INUTI TRE-DIM-FORM</em>
+  * [DET]() 11: <em>SÄTTA-SIG ÄTA(Q) TITTA-PÅ SNÖ^GUBBE <b>PEK</b> ÄTA(Q)</em>
+  * [PRON]() 9: <em><b>PEK</b> SEDAN KOMMA-HIT(VVb) UNGE MÅNGA PERSON.FL@kl TITTA-PÅ OK@b TITTA-PÅ</em>
 
 ## Morphology
 
-The form / lemma ratio of `DET` is 2.000000 (the average of all parts of speech is 29.545455).
+The form / lemma ratio of `DET` is 2.000000 (the average of all parts of speech is 23.100000).
 
 The 1st highest number of forms (2) was observed with the lemma “_”: <em>PEK, PEK(J)</em>.
 
@@ -205,11 +205,11 @@ The 1st highest number of forms (2) was observed with the lemma “_”: <em>PEK
 
 ## Relations
 
-`DET` nodes are attached to their parents using 1 different relations: [sv-dep/det]() (19; 100% instances)
+`DET` nodes are attached to their parents using 1 different relations: [sv-dep/det]() (12; 100% instances)
 
-Parents of `DET` nodes belong to 3 different parts of speech: [NOUN]() (15; 79% instances), [PRON]() (2; 11% instances), [VERB]() (2; 11% instances)
+Parents of `DET` nodes belong to 3 different parts of speech: [NOUN]() (9; 75% instances), [VERB]() (2; 17% instances), [PRON]() (1; 8% instances)
 
-19 (100%) `DET` nodes are leaves.
+12 (100%) `DET` nodes are leaves.
 
 The highest child degree of a `DET` node is 0.
 

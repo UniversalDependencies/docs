@@ -6,12 +6,12 @@
 
 This relation is universal.
 
-16300 nodes (7%) are attached to their parents as `root`.
+14545 nodes (6%) are attached to their parents as `root`.
 
-16300 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.52680981595092.
+14545 instances of `root` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 4.57091784118254.
 
-The following 15 pairs of parts of speech are connected with `root`: [en-pos/ROOT]()-[en-pos/VERB]() (9285; 57% instances), [en-pos/ROOT]()-[en-pos/NOUN]() (2745; 17% instances), [en-pos/ROOT]()-[en-pos/ADJ]() (1669; 10% instances), [en-pos/ROOT]()-[en-pos/PROPN]() (1406; 9% instances), [en-pos/ROOT]()-[en-pos/NUM]() (272; 2% instances), [en-pos/ROOT]()-[en-pos/ADV]() (249; 2% instances), [en-pos/ROOT]()-[en-pos/X]() (238; 1% instances), [en-pos/ROOT]()-[en-pos/INTJ]() (127; 1% instances), [en-pos/ROOT]()-[en-pos/PRON]() (119; 1% instances), [en-pos/ROOT]()-[en-pos/PUNCT]() (86; 1% instances), [en-pos/ROOT]()-[en-pos/SYM]() (54; 0% instances), [en-pos/ROOT]()-[en-pos/DET]() (26; 0% instances), [en-pos/ROOT]()-[en-pos/AUX]() (16; 0% instances), [en-pos/ROOT]()-[en-pos/PART]() (6; 0% instances), [en-pos/ROOT]()-[en-pos/CONJ]() (2; 0% instances).
+The following 15 pairs of parts of speech are connected with `root`: [en-pos/ROOT]()-[en-pos/VERB]() (8340; 57% instances), [en-pos/ROOT]()-[en-pos/NOUN]() (2353; 16% instances), [en-pos/ROOT]()-[en-pos/ADJ]() (1458; 10% instances), [en-pos/ROOT]()-[en-pos/PROPN]() (1185; 8% instances), [en-pos/ROOT]()-[en-pos/NUM]() (392; 3% instances), [en-pos/ROOT]()-[en-pos/ADV]() (218; 1% instances), [en-pos/ROOT]()-[en-pos/X]() (199; 1% instances), [en-pos/ROOT]()-[en-pos/INTJ]() (102; 1% instances), [en-pos/ROOT]()-[en-pos/SYM]() (101; 1% instances), [en-pos/ROOT]()-[en-pos/PRON]() (96; 1% instances), [en-pos/ROOT]()-[en-pos/PUNCT]() (55; 0% instances), [en-pos/ROOT]()-[en-pos/DET]() (26; 0% instances), [en-pos/ROOT]()-[en-pos/AUX]() (16; 0% instances), [en-pos/ROOT]()-[en-pos/PART]() (3; 0% instances), [en-pos/ROOT]()-[en-pos/CCONJ]() (1; 0% instances).
 
 
 ~~~ conllu
@@ -22,7 +22,7 @@ The following 15 pairs of parts of speech are connected with `root`: [en-pos/ROO
 # visual-style 0 4 root	color:blue
 1	From	from	ADP	IN	_	3	case	_	_
 2	the	the	DET	DT	Definite=Def|PronType=Art	3	det	_	_
-3	AP	AP	PROPN	NNP	Number=Sing	4	nmod	_	_
+3	AP	AP	PROPN	NNP	Number=Sing	4	obl	_	_
 4	comes	come	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 5	this	this	DET	DT	Number=Sing|PronType=Dem	6	det	_	_
 6	story	story	NOUN	NN	Number=Sing	4	nsubj	_	_
@@ -50,7 +50,7 @@ The following 15 pairs of parts of speech are connected with `root`: [en-pos/ROO
 # visual-style 0	fgColor:white
 # visual-style 0 3 root	color:blue
 1	That	that	PRON	DT	Number=Sing|PronType=Dem	3	nsubj	_	SpaceAfter=No
-2	's	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
 3	right	right	ADJ	JJ	Degree=Pos	0	root	_	SpaceAfter=No
 4	,	,	PUNCT	,	_	3	punct	_	_
 5	folks	folks	NOUN	UH	_	3	parataxis	_	SpaceAfter=No
@@ -67,12 +67,12 @@ The following 15 pairs of parts of speech are connected with `root`: [en-pos/ROO
 
 This relation is universal.
 
-5124 nodes (5%) are attached to their parents as `root`.
+4624 nodes (5%) are attached to their parents as `root`.
 
-5124 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 5.34445745511319.
+4624 instances of `root` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 5.34147923875433.
 
-The following 13 pairs of parts of speech are connected with `root`: [en-pos/ROOT]()-[en-pos/VERB]() (3733; 73% instances), [en-pos/ROOT]()-[en-pos/ADJ]() (732; 14% instances), [en-pos/ROOT]()-[en-pos/NOUN]() (510; 10% instances), [en-pos/ROOT]()-[en-pos/PROPN]() (51; 1% instances), [en-pos/ROOT]()-[en-pos/ADV]() (31; 1% instances), [en-pos/ROOT]()-[en-pos/NUM]() (31; 1% instances), [en-pos/ROOT]()-[en-pos/PRON]() (15; 0% instances), [en-pos/ROOT]()-[en-pos/DET]() (8; 0% instances), [en-pos/ROOT]()-[en-pos/AUX]() (6; 0% instances), [en-pos/ROOT]()-[en-pos/INTJ]() (3; 0% instances), [en-pos/ROOT]()-[en-pos/SYM]() (2; 0% instances), [en-pos/ROOT]()-[en-pos/ADP]() (1; 0% instances), [en-pos/ROOT]()-[en-pos/X]() (1; 0% instances).
+The following 13 pairs of parts of speech are connected with `root`: [en-pos/ROOT]()-[en-pos/VERB]() (3359; 73% instances), [en-pos/ROOT]()-[en-pos/ADJ]() (662; 14% instances), [en-pos/ROOT]()-[en-pos/NOUN]() (464; 10% instances), [en-pos/ROOT]()-[en-pos/PROPN]() (47; 1% instances), [en-pos/ROOT]()-[en-pos/ADV]() (30; 1% instances), [en-pos/ROOT]()-[en-pos/NUM]() (30; 1% instances), [en-pos/ROOT]()-[en-pos/PRON]() (14; 0% instances), [en-pos/ROOT]()-[en-pos/DET]() (7; 0% instances), [en-pos/ROOT]()-[en-pos/AUX]() (5; 0% instances), [en-pos/ROOT]()-[en-pos/INTJ]() (2; 0% instances), [en-pos/ROOT]()-[en-pos/SYM]() (2; 0% instances), [en-pos/ROOT]()-[en-pos/ADP]() (1; 0% instances), [en-pos/ROOT]()-[en-pos/X]() (1; 0% instances).
 
 
 ~~~ conllu
@@ -187,42 +187,56 @@ The following 13 pairs of parts of speech are connected with `root`: [en-pos/ROO
 
 This relation is universal.
 
-4564 nodes (6%) are attached to their parents as `root`.
+3650 nodes (5%) are attached to their parents as `root`.
 
-4564 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 5.3648115687993.
+3650 instances of `root` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 5.34931506849315.
 
-The following 13 pairs of parts of speech are connected with `root`: [en-pos/ROOT]()-[en-pos/VERB]() (3596; 79% instances), [en-pos/ROOT]()-[en-pos/NOUN]() (483; 11% instances), [en-pos/ROOT]()-[en-pos/ADJ]() (289; 6% instances), [en-pos/ROOT]()-[en-pos/PRON]() (62; 1% instances), [en-pos/ROOT]()-[en-pos/AUX]() (43; 1% instances), [en-pos/ROOT]()-[en-pos/PROPN]() (38; 1% instances), [en-pos/ROOT]()-[en-pos/ADV]() (21; 0% instances), [en-pos/ROOT]()-[en-pos/NUM]() (15; 0% instances), [en-pos/ROOT]()-[en-pos/INTJ]() (9; 0% instances), [en-pos/ROOT]()-[en-pos/ADP]() (3; 0% instances), [en-pos/ROOT]()-[en-pos/PART]() (3; 0% instances), [en-pos/ROOT]()-[en-pos/CONJ]() (1; 0% instances), [en-pos/ROOT]()-[en-pos/SCONJ]() (1; 0% instances).
+The following 13 pairs of parts of speech are connected with `root`: [en-pos/ROOT]()-[en-pos/VERB]() (2883; 79% instances), [en-pos/ROOT]()-[en-pos/NOUN]() (386; 11% instances), [en-pos/ROOT]()-[en-pos/ADJ]() (231; 6% instances), [en-pos/ROOT]()-[en-pos/PRON]() (53; 1% instances), [en-pos/ROOT]()-[en-pos/AUX]() (34; 1% instances), [en-pos/ROOT]()-[en-pos/PROPN]() (27; 1% instances), [en-pos/ROOT]()-[en-pos/ADV]() (14; 0% instances), [en-pos/ROOT]()-[en-pos/NUM]() (10; 0% instances), [en-pos/ROOT]()-[en-pos/INTJ]() (8; 0% instances), [en-pos/ROOT]()-[en-pos/ADP]() (1; 0% instances), [en-pos/ROOT]()-[en-pos/CCONJ]() (1; 0% instances), [en-pos/ROOT]()-[en-pos/PART]() (1; 0% instances), [en-pos/ROOT]()-[en-pos/SCONJ]() (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
 # visual-style 0	bgColor:blue
 # visual-style 0	fgColor:white
-# visual-style 0 1 root	color:blue
-1	Linking	_	VERB	ING	_	0	root	_	_
-2	a	_	DET	IND-SG	_	3	det	_	_
-3	page	_	NOUN	SG	_	1	dobj	_	_
-4	to	_	ADP	_	_	7	case	_	_
-5	a	_	DET	IND-SG	_	7	det	_	_
-6	connection	_	NOUN	SG	_	7	compound	_	_
-7	file	_	NOUN	SG	_	1	nmod	_	_
+# visual-style 0 7 root	color:blue
+1	The	_	DET	DEF	_	4	det	_	_
+2	SQL	_	PROPN	SG-NOM	_	3	compound	_	_
+3	Server	_	NOUN	SG-NOM	_	4	compound	_	_
+4	database	_	NOUN	SG-NOM	_	7	nsubj	_	_
+5	must	_	AUX	PRES-AUX	_	7	aux	_	_
+6	be	_	AUX	INF	_	7	aux	_	_
+7	running	_	VERB	ING	_	0	root	_	_
+8	on	_	ADP	_	_	12	case	_	_
+9	a	_	DET	IND-SG	_	12	det	_	_
+10	Windows	_	PROPN	SG-NOM	_	12	compound	_	_
+11	NT	_	PROPN	SG-NOM	_	10	flat	_	_
+12	platform	_	NOUN	SG-NOM	_	7	obl	_	SpaceAfter=No
+13	.	_	PUNCT	Period	_	7	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
 # visual-style 0	bgColor:blue
 # visual-style 0	fgColor:white
-# visual-style 0 5 root	color:blue
-1	About	_	ADP	_	_	5	case	_	_
-2	ANSI	_	PROPN	SG	_	5	name	_	_
-3	SQL	_	PROPN	SG	_	2	name	_	_
-4	query	_	NOUN	SG	_	5	compound	_	_
-5	mode	_	NOUN	_	_	0	root	_	_
+# visual-style 0 9 root	color:blue
+1	The	_	DET	DEF	_	5	det	_	_
+2	current	_	ADJ	POS	_	3	amod	_	_
+3	Windows	_	PROPN	SG-NOM	_	5	compound	_	_
+4	NT	_	PROPN	SG-NOM	_	3	flat	_	_
+5	user	_	NOUN	SG-NOM	_	9	nsubj	_	_
+6	must	_	AUX	PRES-AUX	_	9	aux	_	_
+7	be	_	AUX	INF	_	9	cop	_	_
+8	an	_	DET	IND-SG	_	9	det	_	_
+9	Administrator	_	NOUN	SG-NOM	_	0	root	_	_
+10	for	_	ADP	_	_	12	case	_	_
+11	the	_	DET	DEF	_	12	det	_	_
+12	computer	_	NOUN	SG-NOM	_	9	nmod	_	SpaceAfter=No
+13	.	_	PUNCT	Period	_	9	punct	_	_
 
 ~~~
 
@@ -233,10 +247,77 @@ The following 13 pairs of parts of speech are connected with `root`: [en-pos/ROO
 # visual-style 0	bgColor:blue
 # visual-style 0	fgColor:white
 # visual-style 0 3 root	color:blue
-1	Filters	_	NOUN	PL	_	3	nsubj	_	_
-2	are	_	VERB	PRES	_	3	cop	_	_
-3	additive	_	ADJ	POS	_	0	root	_	_
+1	Filters	_	NOUN	PL-NOM	_	3	nsubj	_	_
+2	are	_	AUX	PRES	_	3	cop	_	_
+3	additive	_	ADJ	POS	_	0	root	_	SpaceAfter=No
 4	.	_	PUNCT	Period	_	3	punct	_	_
+
+~~~
+
+
+
+
+--------------------------------------------------------------------------------
+
+## Treebank Statistics (UD_English-ParTUT)
+
+This relation is universal.
+
+1590 nodes (4%) are attached to their parents as `root`.
+
+1590 instances of `root` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 7.98679245283019.
+
+The following 13 pairs of parts of speech are connected with `root`: [en-pos/ROOT]()-[en-pos/VERB]() (1197; 75% instances), [en-pos/ROOT]()-[en-pos/NOUN]() (209; 13% instances), [en-pos/ROOT]()-[en-pos/ADJ]() (126; 8% instances), [en-pos/ROOT]()-[en-pos/PROPN]() (18; 1% instances), [en-pos/ROOT]()-[en-pos/PRON]() (14; 1% instances), [en-pos/ROOT]()-[en-pos/NUM]() (10; 1% instances), [en-pos/ROOT]()-[en-pos/ADV]() (7; 0% instances), [en-pos/ROOT]()-[en-pos/CCONJ]() (3; 0% instances), [en-pos/ROOT]()-[en-pos/AUX]() (2; 0% instances), [en-pos/ROOT]()-[en-pos/DET]() (1; 0% instances), [en-pos/ROOT]()-[en-pos/INTJ]() (1; 0% instances), [en-pos/ROOT]()-[en-pos/SYM]() (1; 0% instances), [en-pos/ROOT]()-[en-pos/X]() (1; 0% instances).
+
+
+~~~ conllu
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 0	bgColor:blue
+# visual-style 0	fgColor:white
+# visual-style 0 4 root	color:blue
+1	The	the	DET	RD	Definite=Def|PronType=Art	2	det	_	_
+2	work	work	NOUN	S	Number=Sing	4	nsubj:pass	_	_
+3	is	be	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux:pass	_	_
+4	protected	protect	VERB	V	Tense=Past|VerbForm=Part	0	root	_	_
+5	by	by	ADP	E	_	6	case	_	_
+6	copyright	copyright	NOUN	S	Number=Sing	4	obl:agent	_	_
+7	and	and	CCONJ	CC	_	12	cc	_	SpaceAfter=No
+8	/	/	PUNCT	FF	_	9	punct	_	SpaceAfter=No
+9	or	or	CCONJ	CC	_	7	conj	_	_
+10	other	other	ADJ	A	Degree=Pos	12	amod	_	_
+11	applicable	applicable	ADJ	A	Degree=Pos	12	amod	_	_
+12	law	law	NOUN	S	Number=Sing	6	conj	_	SpaceAfter=No
+13	.	.	PUNCT	FS	_	4	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 0	bgColor:blue
+# visual-style 0	fgColor:white
+# visual-style 0 3 root	color:blue
+1	1	1	NUM	N	NumType=Card	3	nummod	_	SpaceAfter=No
+2	.	.	PUNCT	FF	_	1	punct	_	_
+3	Definitions	definition	NOUN	S	Number=Plur	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	FS	_	3	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 0	bgColor:blue
+# visual-style 0	fgColor:white
+# visual-style 0 3 root	color:blue
+1	8	8	NUM	N	NumType=Card	3	nummod	_	SpaceAfter=No
+2	.	.	PUNCT	FF	_	1	punct	_	_
+3	Miscellaneous	miscellaneous	ADJ	A	Degree=Pos	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	FS	_	3	punct	_	_
 
 ~~~
 

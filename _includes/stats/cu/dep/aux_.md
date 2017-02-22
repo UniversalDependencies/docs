@@ -6,67 +6,68 @@
 
 This relation is universal.
 
-217 nodes (0%) are attached to their parents as `aux`.
+1182 nodes (2%) are attached to their parents as `aux`.
 
-132 instances of `aux` (61%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.45622119815668.
+1051 instances of `aux` (89%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.11675126903553.
 
-The following 11 pairs of parts of speech are connected with `aux`: [cu-pos/VERB]()-[cu-pos/VERB]() (198; 91% instances), [cu-pos/VERB]()-[cu-pos/SCONJ]() (5; 2% instances), [cu-pos/VERB]()-[cu-pos/NOUN]() (3; 1% instances), [cu-pos/VERB]()-[cu-pos/PRON]() (3; 1% instances), [cu-pos/NUM]()-[cu-pos/SCONJ]() (2; 1% instances), [cu-pos/ADJ]()-[cu-pos/NOUN]() (1; 0% instances), [cu-pos/ADV]()-[cu-pos/VERB]() (1; 0% instances), [cu-pos/NOUN]()-[cu-pos/NOUN]() (1; 0% instances), [cu-pos/NOUN]()-[cu-pos/PROPN]() (1; 0% instances), [cu-pos/PRON]()-[cu-pos/PRON]() (1; 0% instances), [cu-pos/PRON]()-[cu-pos/PROPN]() (1; 0% instances).
+The following 3 pairs of parts of speech are connected with `aux`: [cu-pos/VERB]()-[cu-pos/AUX]() (1013; 86% instances), [cu-pos/VERB]()-[cu-pos/VERB]() (168; 14% instances), [cu-pos/ADV]()-[cu-pos/VERB]() (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 5 aux	color:blue
+1	не	не	ADV	Df	Polarity=Neg	4	advmod	_	ref=MATT_5.33
+2	въ	въ	ADP	R-	_	3	case	_	ref=MATT_5.33
+3	лъжѫ	лъжа	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	4	obl	_	ref=MATT_5.33
+4	клънеши	клѧти	VERB	V-	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=MATT_5.33
+5	сѧ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	4	aux	_	ref=MATT_5.33
+
+~~~
+
+
+~~~ conllu
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
-# visual-style 8 10 aux	color:blue
-1	ꙇ	и	CONJ	C-	_	8	cc	_	_
-2	аще	аще	SCONJ	G-	_	5	mark	_	_
-3	сотона	сотона	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	_
-4	сотонѫ	сотона	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	5	dobj	_	_
-5	изгонитъ	изгонити	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	advcl	_	_
-6	на	на	ADP	R-	_	7	case	_	_
-7	сѧ	себе	PRON	Pk	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	8	iobj	_	_
-8	раздѣлилъ	раздѣлити	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	0	root	_	_
-9	сѧ	себе	PRON	Pk	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	8	mark	_	_
-10	естъ	бꙑти	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	aux	_	_
+# visual-style 8 6 aux	color:blue
+1	просмраждаѭтъ	просмраждати	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=MATT_6.16
+2	бо	бо	ADV	Df	_	1	discourse	_	ref=MATT_6.16
+3	лица	лице	NOUN	Nb	Case=Acc|Gender=Neut|Number=Plur	1	obj:dir	_	ref=MATT_6.16
+4	своѣ	свои	ADJ	Pt	Case=Acc|Gender=Neut|Number=Plur|Person=3|Poss=Yes|Reflex=Yes	3	nmod	_	ref=MATT_6.16
+5	да	да	SCONJ	G-	_	8	mark	_	ref=MATT_6.16
+6	бѫ	бꙑти	VERB	V-	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	aux	_	ref=MATT_6.16
+7	сѧ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	8	aux	_	ref=MATT_6.16
+8	авили	авити	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|VerbForm=Part|Voice=Act	1	advcl	_	ref=MATT_6.16
+9	ч҃лвкомъ	чловѣкъ	NOUN	Nb	Case=Dat|Gender=Masc|Number=Plur	8	iobj	_	ref=MATT_6.16
+10	постѧще	постити	VERB	V-	Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|Tense=Pres|VerbForm=Part|Voice=Act	8	xcomp	_	ref=MATT_6.16
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 1 aux	color:blue
-1	ꙇли	или	SCONJ	G-	_	2	aux	_	_
-2	нѣстъ	не.бꙑти	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-3	ми	азъ	PRON	Pp	Case=Dat|Number=Sing|Person=1|PronType=Prs	2	iobj	_	_
-4	лѣть	лѣть	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	2	nsubj	_	_
-5	сътворити	сътворити	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	4	acl	_	_
-6	въ	въ	ADP	R-	_	7	case	_	_
-7	своихъ	свои	PRON	Pt	Case=Loc|Gender=Neut|Number=Plur|Person=3|Poss=Yes|PronType=Prs|Reflex=Yes	5	nmod	_	_
-8	ми	азъ	PRON	Pp	Case=Dat|Number=Sing|Person=1|PronType=Prs	3	appos	_	_
-9	еже	иже	PRON	Pr	Case=Acc|Gender=Neut|Number=Sing|PronType=Rel	10	dobj	_	_
-10	хоштѫ	хотѣти	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	5	dobj	_	_
-
-~~~
-
-
-~~~ conllu
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 1 3 aux	color:blue
-1	привѣсте	привести	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
-2	ми	азъ	PRON	Pp	Case=Dat|Number=Sing|Person=1|PronType=Prs	1	iobj	_	_
-3	ч҃лка	чловѣкъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	1	aux	_	_
-4	сего	сь	ADJ	Pd	Case=Gen|Gender=Masc,Neut|Number=Sing	3	nmod	_	_
-5	ѣко	ꙗко#1	ADV	Df	_	6	advmod	_	_
-6	развращаѭща	развращати	VERB	V-	Case=Gen|Gender=Masc|Number=Sing|Strength=Strong|Tense=Pres|VerbForm=Part|Voice=Act	1	xcomp	_	_
-7	люди	людиѥ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	6	dobj	_	_
+# visual-style 3 4 aux	color:blue
+1	ꙇ	и	CCONJ	C-	_	2	cc	_	ref=LUKE_24.51
+2	бꙑстъ	бꙑти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=LUKE_24.51
+3	егда	ѥгда	ADV	Dq	PronType=Rel	2	advmod	_	ref=LUKE_24.51
+4	благословѣше	благословити	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	3	aux	_	ref=LUKE_24.51
+5	ѩ	и	PRON	Pp	Case=Acc|Gender=Masc|Number=Plur|Person=3|PronType=Prs	4	obj:dir	_	ref=LUKE_24.51
+6	отъстѫпи	отъстѫпити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	2	ccomp	_	ref=LUKE_24.51
+7	отъ	отъ	ADP	R-	_	8	case	_	ref=LUKE_24.51
+8	нихъ	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs	6	obl	_	ref=LUKE_24.51
+9	ꙇ	и	CCONJ	C-	_	6	cc	_	ref=LUKE_24.51
+10	възношааше	възносити	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	6	conj	_	ref=LUKE_24.51
+11	сѧ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	10	aux	_	ref=LUKE_24.51
+12	на	на	ADP	R-	_	13	case	_	ref=LUKE_24.51
+13	небо	небо	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	10	obl	_	ref=LUKE_24.51
 
 ~~~
 

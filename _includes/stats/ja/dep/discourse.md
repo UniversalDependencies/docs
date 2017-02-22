@@ -6,12 +6,12 @@
 
 This relation is universal.
 
-9 nodes (0%) are attached to their parents as `discourse`.
+6 nodes (0%) are attached to their parents as `discourse`.
 
-9 instances of `discourse` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 4.88888888888889.
+6 instances of `discourse` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 4.5.
 
-The following 3 pairs of parts of speech are connected with `discourse`: [ja-pos/VERB]()-[ja-pos/INTJ]() (6; 67% instances), [ja-pos/NOUN]()-[ja-pos/INTJ]() (2; 22% instances), [ja-pos/ADJ]()-[ja-pos/INTJ]() (1; 11% instances).
+The following 3 pairs of parts of speech are connected with `discourse`: [ja-pos/VERB]()-[ja-pos/INTJ]() (4; 67% instances), [ja-pos/ADJ]()-[ja-pos/INTJ]() (1; 17% instances), [ja-pos/NOUN]()-[ja-pos/INTJ]() (1; 17% instances).
 
 
 ~~~ conllu
@@ -49,20 +49,6 @@ The following 3 pairs of parts of speech are connected with `discourse`: [ja-pos
 27	_	_	AUX	AUX	_	26	aux	_	Offset=39-40
 28	_	_	PART	PART	_	26	mark	_	Offset=40-41
 29	_	_	PUNCT	PUNCT	_	26	punct	_	Offset=41-42
-
-~~~
-
-
-~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 1 discourse	color:blue
-1	_	ねえ	INTJ	INTJ	_	3	discourse	_	Offset=0-2
-2	_	_	PUNCT	PUNCT	_	1	punct	_	Offset=2-3
-3	_	_	NOUN	NOUN	_	0	root	_	Offset=3-7
-4	_	_	PUNCT	PUNCT	_	3	punct	_	Offset=7-8
 
 ~~~
 
@@ -120,6 +106,20 @@ The following 3 pairs of parts of speech are connected with `discourse`: [ja-pos
 45	_	_	AUX	AUX	_	44	cop	_	Offset=64-66
 46	_	_	PUNCT	PUNCT	_	28	punct	_	Offset=66-67
 47	_	_	PUNCT	PUNCT	_	28	punct	_	Offset=67-68
+
+~~~
+
+
+~~~ conllu
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 1 discourse	color:blue
+1	_	ねえ	INTJ	INTJ	_	3	discourse	_	Offset=0-2
+2	_	_	PUNCT	PUNCT	_	1	punct	_	Offset=2-3
+3	_	_	NOUN	NOUN	_	0	root	_	Offset=3-7
+4	_	_	PUNCT	PUNCT	_	3	punct	_	Offset=7-8
 
 ~~~
 

@@ -6,70 +6,74 @@
 
 This relation is universal.
 
-72 nodes (0%) are attached to their parents as `parataxis`.
+60 nodes (0%) are attached to their parents as `parataxis`.
 
-39 instances of `parataxis` (54%) are right-to-left (child precedes parent).
-Average distance between parent and child is 5.09722222222222.
+32 instances of `parataxis` (53%) are right-to-left (child precedes parent).
+Average distance between parent and child is 4.9.
 
-The following 5 pairs of parts of speech are connected with `parataxis`: [cu-pos/VERB]()-[cu-pos/VERB]() (55; 76% instances), [cu-pos/VERB]()-[cu-pos/NOUN]() (9; 13% instances), [cu-pos/VERB]()-[cu-pos/ADV]() (6; 8% instances), [cu-pos/NUM]()-[cu-pos/VERB]() (1; 1% instances), [cu-pos/VERB]()-[cu-pos/PROPN]() (1; 1% instances).
-
-
-~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 4 parataxis	color:blue
-1	ꙇ	и	CONJ	C-	_	2	cc	_	_
-2	г҃лѭ	глаголати	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-3	семоу	сь	ADJ	Pd	Case=Dat|Gender=Masc|Number=Sing	2	iobj	_	_
-4	иди	ити	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	2	parataxis	_	_
-5	и	и	CONJ	C-	_	2	cc	_	_
-6	идетъ	ити	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	conj	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 9 5 parataxis	color:blue
-1	аште	аще	SCONJ	G-	_	3	mark	_	_
-2	ли	ли	ADV	Df	_	9	discourse	_	_
-3	речемъ	рещи	VERB	V-	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	9	advcl	_	_
-4	отъ	отъ	ADP	R-	_	5	case	_	_
-5	ч҃лкъ	чловѣкъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	9	parataxis	_	_
-6	людие	людиѥ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	9	nsubj	_	_
-7	вьси	вьсь	PRON	Px	Case=Nom|Gender=Masc|Number=Plur	6	nmod	_	_
-8	камениемь	камениѥ	NOUN	Nb	Case=Ins|Gender=Neut|Number=Sing	9	nmod	_	_
-9	побиѭтъ	побити	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-10	нꙑ	мꙑ	PRON	Pp	Case=Acc|Number=Plur|Person=1|PronType=Prs	9	dobj	_	_
-
-~~~
+The following 7 pairs of parts of speech are connected with `parataxis`: [cu-pos/VERB]()-[cu-pos/VERB]() (41; 68% instances), [cu-pos/VERB]()-[cu-pos/NOUN]() (8; 13% instances), [cu-pos/VERB]()-[cu-pos/ADV]() (6; 10% instances), [cu-pos/CCONJ]()-[cu-pos/VERB]() (2; 3% instances), [cu-pos/NUM]()-[cu-pos/VERB]() (1; 2% instances), [cu-pos/VERB]()-[cu-pos/ADJ]() (1; 2% instances), [cu-pos/VERB]()-[cu-pos/PROPN]() (1; 2% instances).
 
 
 ~~~ conllu
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
-# visual-style 13	bgColor:blue
-# visual-style 13	fgColor:white
-# visual-style 13 8 parataxis	color:blue
-1	ꙇ	и	CONJ	C-	_	13	cc	_	_
-2	тъгда	тъгда	ADV	Df	_	13	advmod	_	_
-3	аште	аще	SCONJ	G-	_	4	mark	_	_
-4	речетъ	рещи	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	13	advcl	_	_
-5	къто	къто	PRON	Px	Case=Nom|Number=Sing	4	nsubj	_	_
-6	вамъ	вꙑ	PRON	Pp	Case=Dat|Number=Plur|Person=2|PronType=Prs	4	iobj	_	_
-7	се	се	INTJ	I-	_	13	vocative	_	_
-8	сьде	сьде	ADV	Df	_	13	parataxis	_	_
-9	х҃ь	христ(ос)ъ	PROPN	Ne	Case=Nom|Gender=Masc|Number=Plur	8	nsubj	_	_
-10	се	се	INTJ	I-	_	13	vocative	_	_
-11	овъде	овъде	ADV	Df	_	13	parataxis	_	_
-12	не	не	ADV	Df	_	13	neg	_	_
-13	имѣте	ѩти	VERB	V-	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-14	вѣрꙑ	вѣра	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	13	dobj	_	_
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 10 8 parataxis	color:blue
+1	аще	аще	SCONJ	G-	_	3	mark	_	ref=MATT_24.26
+2	же	же	ADV	Df	_	10	discourse	_	ref=MATT_24.26
+3	рекѫтъ	рещи	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	advcl	_	ref=MATT_24.26
+4	вамъ	вꙑ	PRON	Pp	Case=Dat|Number=Plur|Person=2|PronType=Prs	3	iobj	_	ref=MATT_24.26
+5	се	се	INTJ	I-	_	10	vocative	_	ref=MATT_24.26
+6	въ	въ	ADP	R-	_	7	case	_	ref=MATT_24.26
+7	поустꙑни	поустꙑни	NOUN	Nb	Case=Loc|Gender=Fem|Number=Sing	8	xcomp	_	ref=MATT_24.26
+8	естъ	бꙑти	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	parataxis	_	ref=MATT_24.26
+9	не	не	ADV	Df	Polarity=Neg	10	advmod	_	ref=MATT_24.26
+10	изидѣте	изити	VERB	V-	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=MATT_24.26
+
+~~~
+
+
+~~~ conllu
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 9 4 parataxis	color:blue
+1	аште	аще	SCONJ	G-	_	2	mark	_	ref=MATT_21.26
+2	речемъ	рещи	VERB	V-	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	9	advcl	_	ref=MATT_21.26
+3	съ	съ	ADP	R-	_	4	case	_	ref=MATT_21.26
+4	небесе	небо	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	9	parataxis	_	ref=MATT_21.26
+5	по	по	ADP	R-	_	6	case	_	ref=MATT_21.26
+6	чъто	чьто	PRON	Pi	Case=Acc|Gender=Neut|Number=Sing|PronType=Int	9	obl	_	ref=MATT_21.26
+7	оубо	оубо	ADV	Df	_	9	discourse	_	ref=MATT_21.26
+8	не	не	ADV	Df	Polarity=Neg	9	advmod	_	ref=MATT_21.26
+9	ѩсѧ	ѩти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=MATT_21.26
+10	емоу	и	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	iobj	_	ref=MATT_21.26
+11	вѣрꙑ	вѣра	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	9	obj:dir	_	ref=MATT_21.26
+
+~~~
+
+
+~~~ conllu
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 12	bgColor:blue
+# visual-style 12	fgColor:white
+# visual-style 12 7 parataxis	color:blue
+1	тъгда	тъгда	ADV	Df	_	12	advmod	_	ref=MATT_24.23
+2	аште	аще	SCONJ	G-	_	5	mark	_	ref=MATT_24.23
+3	кто	къто	ADJ	Px	Case=Nom|Number=Sing	5	nsubj	_	ref=MATT_24.23
+4	вамъ	вꙑ	PRON	Pp	Case=Dat|Number=Plur|Person=2|PronType=Prs	5	iobj	_	ref=MATT_24.23
+5	речетъ	рещи	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	12	advcl	_	ref=MATT_24.23
+6	се	се	INTJ	I-	_	12	vocative	_	ref=MATT_24.23
+7	съде	сьде	ADV	Df	_	12	parataxis	_	ref=MATT_24.23
+8	х҃ъ	христ(ос)ъ	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	ref=MATT_24.23
+9	ли	ли	CCONJ	C-	_	5	ccomp	_	ref=MATT_24.23
+10	сьде	сьде	ADV	Df	_	12	parataxis	_	ref=MATT_24.23
+11	не	не	ADV	Df	Polarity=Neg	12	advmod	_	ref=MATT_24.23
+12	имѣте	ѩти	VERB	V-	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=MATT_24.23
+13	вѣрꙑ	вѣра	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	12	obj:dir	_	ref=MATT_24.23
 
 ~~~
 

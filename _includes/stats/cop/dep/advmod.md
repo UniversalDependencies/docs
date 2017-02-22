@@ -6,12 +6,12 @@
 
 This relation is universal.
 
-219 nodes (4%) are attached to their parents as `advmod`.
+459 nodes (5%) are attached to their parents as `advmod`.
 
-157 instances of `advmod` (72%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.47945205479452.
+331 instances of `advmod` (72%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.17429193899782.
 
-The following 21 pairs of parts of speech are connected with `advmod`: [cop-pos/VERB]()-[cop-pos/ADV]() (103; 47% instances), [cop-pos/VERB]()-[cop-pos/PART]() (45; 21% instances), [cop-pos/NOUN]()-[cop-pos/ADV]() (31; 14% instances), [cop-pos/VERB]()-[cop-pos/CONJ]() (9; 4% instances), [cop-pos/NOUN]()-[cop-pos/PART]() (5; 2% instances), [cop-pos/DET]()-[cop-pos/ADV]() (4; 2% instances), [cop-pos/PRON]()-[cop-pos/ADV]() (4; 2% instances), [cop-pos/VERB]()-[cop-pos/NOUN]() (3; 1% instances), [cop-pos/NOUN]()-[cop-pos/ADP]() (2; 1% instances), [cop-pos/PRON]()-[cop-pos/NOUN]() (2; 1% instances), [cop-pos/ADP]()-[cop-pos/ADV]() (1; 0% instances), [cop-pos/ADV]()-[cop-pos/ADV]() (1; 0% instances), [cop-pos/DET]()-[cop-pos/CONJ]() (1; 0% instances), [cop-pos/NOUN]()-[cop-pos/CONJ]() (1; 0% instances), [cop-pos/NOUN]()-[cop-pos/PRON]() (1; 0% instances), [cop-pos/NOUN]()-[cop-pos/VERB]() (1; 0% instances), [cop-pos/PRON]()-[cop-pos/PART]() (1; 0% instances), [cop-pos/PRON]()-[cop-pos/PRON]() (1; 0% instances), [cop-pos/PROPN]()-[cop-pos/ADV]() (1; 0% instances), [cop-pos/VERB]()-[cop-pos/PRON]() (1; 0% instances), [cop-pos/VERB]()-[cop-pos/VERB]() (1; 0% instances).
+The following 23 pairs of parts of speech are connected with `advmod`: [cop-pos/VERB]()-[cop-pos/ADV]() (251; 55% instances), [cop-pos/VERB]()-[cop-pos/PART]() (98; 21% instances), [cop-pos/NOUN]()-[cop-pos/ADV]() (46; 10% instances), [cop-pos/VERB]()-[cop-pos/CCONJ]() (14; 3% instances), [cop-pos/NOUN]()-[cop-pos/PART]() (9; 2% instances), [cop-pos/DET]()-[cop-pos/ADV]() (8; 2% instances), [cop-pos/VERB]()-[cop-pos/NOUN]() (8; 2% instances), [cop-pos/PRON]()-[cop-pos/ADV]() (6; 1% instances), [cop-pos/NOUN]()-[cop-pos/ADP]() (2; 0% instances), [cop-pos/NOUN]()-[cop-pos/VERB]() (2; 0% instances), [cop-pos/PRON]()-[cop-pos/NOUN]() (2; 0% instances), [cop-pos/VERB]()-[cop-pos/PRON]() (2; 0% instances), [cop-pos/ADP]()-[cop-pos/ADV]() (1; 0% instances), [cop-pos/ADV]()-[cop-pos/ADV]() (1; 0% instances), [cop-pos/DET]()-[cop-pos/CCONJ]() (1; 0% instances), [cop-pos/DET]()-[cop-pos/PART]() (1; 0% instances), [cop-pos/NOUN]()-[cop-pos/CCONJ]() (1; 0% instances), [cop-pos/NOUN]()-[cop-pos/PRON]() (1; 0% instances), [cop-pos/NUM]()-[cop-pos/PART]() (1; 0% instances), [cop-pos/PRON]()-[cop-pos/PART]() (1; 0% instances), [cop-pos/PRON]()-[cop-pos/PRON]() (1; 0% instances), [cop-pos/PROPN]()-[cop-pos/ADV]() (1; 0% instances), [cop-pos/VERB]()-[cop-pos/VERB]() (1; 0% instances).
 
 
 ~~~ conllu
@@ -27,7 +27,7 @@ The following 21 pairs of parts of speech are connected with `advmod`: [cop-pos/
 5	ⲫⲟⲣⲉⲓ	ⲫⲟⲣⲉⲓ	VERB	V	_	0	root	_	_
 6	ⲛ	ⲛ	ADP	PREP	_	8	case	_	_
 7	ϩⲉⲛ	ⲟⲩ	DET	ART	_	8	det	_	_
-8	ϣⲧⲏⲛ	ϣⲧⲏⲛ	NOUN	N	_	5	dobj	_	_
+8	ϣⲧⲏⲛ	ϣⲧⲏⲛ	NOUN	N	_	5	obj	_	_
 9	ⲉ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	11	mark	_	_
 10	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	_	11	nsubj	_	_
 11	ⲧⲁⲉⲓⲏⲩ	ⲧⲁⲉⲓⲟ	VERB	VSTAT	_	8	acl	_	_
@@ -43,12 +43,12 @@ The following 21 pairs of parts of speech are connected with `advmod`: [cop-pos/
 # visual-style 1	fgColor:white
 # visual-style 1 4 advmod	color:blue
 1	ϣⲛ	ϣⲛ	VERB	V	_	0	root	_	_
-2	ϩⲧⲏ	ϩⲏⲧ	NOUN	N	_	1	dobj	_	_
+2	ϩⲧⲏ	ϩⲏⲧ	NOUN	N	_	1	obj	_	_
 3	ⲕ	ⲛⲧⲟⲕ	PRON	PPERO	_	2	det	_	_
 4	ϭⲉ	ϭⲉ	PART	PTC	_	1	advmod	_	_
 5	ϩⲁ	ϩⲁ	ADP	PREP	_	7	case	_	_
 6	ⲡⲉⲕ	ⲡⲉⲕ	DET	PPOS	_	7	det	_	_
-7	ⲗⲁⲟⲥ	ⲗⲁⲟⲥ	NOUN	N	_	1	nmod	_	_
+7	ⲗⲁⲟⲥ	ⲗⲁⲟⲥ	NOUN	N	_	1	obl	_	_
 8	ⲡ	ⲡ	DET	ART	_	9	det	_	_
 9	ϩⲁⲣϣϩⲏⲧ	ϩⲁⲣϣϩⲏⲧ	NOUN	N	_	1	vocative	_	_
 10	ⲉⲧⲉ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	11	mark	_	_

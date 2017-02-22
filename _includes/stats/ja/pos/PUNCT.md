@@ -4,67 +4,62 @@
 
 ## Treebank Statistics (UD_Japanese)
 
-There are 1 `PUNCT` lemmas (8%), 58 `PUNCT` types (0%) and 10247 `PUNCT` tokens (11%).
-Out of 12 observed tags, the rank of `PUNCT` is: 10 in number of lemmas, 7 in number of types and 3 in number of tokens.
+There are 23 `PUNCT` lemmas (0%), 27 `PUNCT` types (0%) and 17804 `PUNCT` tokens (10%).
+Out of 14 observed tags, the rank of `PUNCT` is: 12 in number of lemmas, 12 in number of types and 4 in number of tokens.
 
-The 10 most frequent `PUNCT` lemmas: _
+The 10 most frequent `PUNCT` lemmas: 。, 、, ,, 「, 」, “, ”, 『, !, ?
 
-The 10 most frequent `PUNCT` types:  、, ,, ）、, 」、, ，, 』、, )、, %、, ),, ",
+The 10 most frequent `PUNCT` types:  。, 、, ,, 「, 」, “, ”, 『, !, ?
 
-The 10 most frequent ambiguous lemmas: _ ([NOUN]() 50340, [VERB]() 18567, [PUNCT]() 10247, [NUM]() 4184, [ADJ]() 3393, [ADV]() 3061, [PRON]() 1113, [DET]() 925, [CONJ]() 180, [X]() 18, [PART]() 3, [ADP]() 2)
+The 10 most frequent ambiguous lemmas: 。 ([PUNCT]() 7445, [NOUN]() 8), 「 ([PUNCT]() 745, [NOUN]() 6), . ([NOUN]() 11, [PUNCT]() 10), ☆ ([PUNCT]() 2, [PROPN]() 1), 』 ([SYM]() 227, [PUNCT]() 1)
 
-The 10 most frequent ambiguous types:  あるので ([VERB]() 16, [PUNCT]() 1), ない ([ADJ]() 46, [PUNCT]() 1), ものを ([NOUN]() 18, [PUNCT]() 1), 倒れた ([PUNCT]() 1, [VERB]() 1), 分けて ([VERB]() 3, [PUNCT]() 1), 新聞が ([PUNCT]() 1, [NOUN]() 1), 狙いは ([PUNCT]() 1, [NOUN]() 1), 落として ([PUNCT]() 1, [VERB]() 1), 金の ([NOUN]() 2, [PUNCT]() 1), 除き ([VERB]() 6, [PUNCT]() 1)
+The 10 most frequent ambiguous types:  。 ([PUNCT]() 7445, [NOUN]() 8), 「 ([PUNCT]() 745, [NOUN]() 6), . ([NOUN]() 11, [PUNCT]() 10), ☆ ([PUNCT]() 2, [PROPN]() 1), 』 ([SYM]() 227, [PUNCT]() 1)
 
 
-* あるので
-  * [VERB]() 16: ちょっとした 遊具も <b>あるので</b> 小さな 子どもさんも いいと 思います。
-  * [PUNCT]() 1: 同じ ビルに 調剤薬局も _ <b>あるので</b> 会計後に そのまま 向かうのが 基本ルートです。
-* ない
-  * [ADJ]() 46: 悲観的に なるとは , 階級的意識が <b>ない</b> ことであるが , 本来 敵である ものを 味方と 思った 時 , その 失望が 悲観的に させる。
-  * [PUNCT]() 1: では , 同じく メディアとしての 品性の かけらも _ <b>ない</b> "やや 日刊カルト新聞 "が ,品性の かけらも ない 宗教者たちの 過去の エロ事件を 調べてみました。
-* ものを
-  * [NOUN]() 18: 悲観的に なるとは , 階級的意識が ない ことであるが , 本来 敵である <b>ものを</b> 味方と 思った 時 , その 失望が 悲観的に させる。
-  * [PUNCT]() 1: そのような 活動を 止めるどころか , 顕進氏は , 自分は 創始者と 協力しており , 真の 御父母様の 遺された _ <b>ものを</b> 維持しようとしているのだという 錯覚を , 積極的に 助長してきています。
-* 倒れた
-  * [PUNCT]() 1: ASKでは 男性が _ <b>倒れた</b> 後も , そのまま セミナーを 続け , 男性の 死亡が 明らかになった 翌日の 4日目の セミナーも 最後まで 行ったと いいます。
-  * [VERB]() 1: 旅の 途中で <b>倒れた</b> 地球降下部隊の 女性兵士を 看取った 際 、 体格の 似通っていた 彼女から バートレーを 形見として 受け取った。
-* 分けて
-  * [VERB]() 3: インクは 、 大きく <b>分けて</b> ビン入りと カートリッジ入りの 2種類の 形態で 流通している。
-  * [PUNCT]() 1: ＳＡや パーキングエリア （ＰＡ）など １４カ所に 放置した ことには 「１カ所に 捨てると 目立つので _ <b>分けて</b> 捨てた」という 趣旨の 説明を している。
-* 新聞が
-  * [PUNCT]() 1: 権力者は, われわれの _ <b>新聞が</b> 大衆の 手に 渡るのを 何よりも 恐れる。
-  * [NOUN]() 1: それは , われわれの <b>新聞が</b> 真実を 伝えるからだ。
-* 狙いは
-  * [PUNCT]() 1: _ <b>狙いは</b> 「お客様中心主義」を どう 形に するかです。
-  * [NOUN]() 1: 統一協会 (統一教会)の <b>狙いは</b> , お金と 信仰基準が 高い 二世を 集める ことに あるのではないかとの 意見も ある。
-* 落として
-  * [PUNCT]() 1: ユトレヒト同盟で 結束した 北部 7州との 戦争 （八十年戦争）では 1582年に アウデナールデ 、 1584年から 1585年にかけて アントウェルペン 、 ブリュッセルを _ <b>落として</b> ネーデルラントに 迫った。
-  * [VERB]() 1: 久々の 実戦は スコアを <b>落として</b> ２バーディー 、 ３ボギーの ３５位と なった。
-* 金の
-  * [NOUN]() 2: その 点を 問い詰められて 、 4日目に <b>金の</b> 出所についての それまでの 供述が 嘘である ことを 認めたものの 、 それ 以後は 再び 黙秘したりする 状況が 続いた。
-  * [PUNCT]() 1: 青地で 、 _ <b>金の</b> 三峰から 、 冠を 被り 、 赤と 白の ストライプに 塗り分けられた ヘッセンの 獅子が 現れる ものである。
-* 除き
-  * [VERB]() 6: ぬーとぴあの シェアメイトは 、 優太を <b>除き</b> なんと 全員女性。
-  * [PUNCT]() 1: 統一協会員は 二世信者を _ <b>除き</b> ほぼ 全員が 正体や 目的を 偽った 偽装勧誘を 受け その後の 思想操作により 入信している。
+* 。
+  * [PUNCT]() 7445: ただし 、 50 周年 ソング に 変更 後 は 、 ED も 歌 つき の もの が 使わ れ た <b>。</b>
+  * [NOUN]() 8: ただし 、 モチーフ について 公式 に は 発表 さ れ て い ない ので 諸説 ある <b>。</b>
+* 「
+  * [PUNCT]() 745: 地域 別 で は <b>「</b> 高台 」 を 選ん だ の は 田老 66 ・ 0 % 、 仙台 39 ・ 6 % と 地域 差 が 大きかっ た 。
+  * [NOUN]() 6: 左 目 を 眼帯 で 覆っ た 謎 の 高等 部 三 年生 の 現 <b>「</b> トップ 3 」 。
+* .
+  * [NOUN]() 11: 翌朝 、 E.T <b>.</b> は 瀕死 の 状態 と なり 、 エリオット が 彼 を 家 に 運ぶ 。
+  * [PUNCT]() 10: SonicStage 2 <b>.</b> x は 2004 年 に リリース さ れ た バージョン 群 である 。
+* ☆
+  * [PUNCT]() 2: 私 は 爪 が かわいく なっ て 、 大 満足 でし た <b>☆</b>
+  * [PROPN]() 1: 劇団 <b>☆</b> 新 感 線 所属 。
+* 』
+  * [SYM]() 227: 表題 曲 『 港 の 五 番 町 <b>』</b> の 作詞 は 阿久 悠 、 作曲 は 彩木 雅夫 である 。
+  * [PUNCT]() 1: <b>』</b> 特集 で は 、 精神科医 により 3 人 の キャラクター が 次 の ように 分析 さ れ た 。
 
 ## Morphology
 
-The form / lemma ratio of `PUNCT` is 58.000000 (the average of all parts of speech is 4757.166667).
+The form / lemma ratio of `PUNCT` is 1.173913 (the average of all parts of speech is 1.059217).
 
-The 1st highest number of forms (58) was observed with the lemma “_”: ",, "、, "が, %,, %、, ),, )、, )で, +、, ,, -, -享保2年4月15日, -）は, ~,, 、, 、、, 、で, 」、, 』、, 』）、, あるので, ない, ものを, コミックパートでは, スポーツシューズでも, ファームのように, ホームページには, ・, 一人歩きには, 一括で, 一日の, 倒れた, 分けて, 富で, 審査では, 少なかったが, 常であったと, 思えば, 新聞が, 東京慈恵会医院専門学校, 比例区では, 狙いは, 科学からは, 落として, 行きましたけど, 部下は, 金の, 除き, 集計結果は, 霊言について, （、, ）-, ）、, ）」、, ，, １２位の, ：、, ､.
+The 1st highest number of forms (3) was observed with the lemma “””: ”, ”する, ”に.
+
+The 2nd highest number of forms (2) was observed with the lemma “)”: ), )し.
+
+The 3rd highest number of forms (2) was observed with the lemma “」”: 」, 」し.
 
 `PUNCT` does not occur with any features.
 
 
 ## Relations
 
-`PUNCT` nodes are attached to their parents using 1 different relations: [ja-dep/punct]() (10247; 100% instances)
+`PUNCT` nodes are attached to their parents using 5 different relations: [ja-dep/punct]() (16870; 95% instances), [ja-dep/compound]() (923; 5% instances), [ja-dep/root]() (9; 0% instances), [ja-dep/dep]() (1; 0% instances), [ja-dep/nmod]() (1; 0% instances)
 
-Parents of `PUNCT` nodes belong to 10 different parts of speech: [NOUN]() (5263; 51% instances), [VERB]() (3474; 34% instances), [ADV]() (606; 6% instances), [NUM]() (520; 5% instances), [ADJ]() (304; 3% instances), [PRON]() (64; 1% instances), [X]() (7; 0% instances), [DET]() (6; 0% instances), [CONJ]() (2; 0% instances), [PART]() (1; 0% instances)
+Parents of `PUNCT` nodes belong to 13 different parts of speech: [VERB]() (8482; 48% instances), [NOUN]() (5923; 33% instances), [PROPN]() (1131; 6% instances), [ADJ]() (1043; 6% instances), [NUM]() (587; 3% instances), [CCONJ]() (354; 2% instances), [ADV]() (156; 1% instances), [PRON]() (101; 1% instances), [ADP]() (13; 0% instances), [ROOT]() (9; 0% instances), [SCONJ]() (2; 0% instances), [SYM]() (2; 0% instances), [PUNCT]() (1; 0% instances)
 
-10247 (100%) `PUNCT` nodes are leaves.
+17794 (100%) `PUNCT` nodes are leaves.
 
-The highest child degree of a `PUNCT` node is 0.
+10 (0%) `PUNCT` nodes have one child.
+
+The highest child degree of a `PUNCT` node is 1.
+
+Children of `PUNCT` nodes are attached using 2 different relations: [ja-dep/acl]() (9; 90% instances), [ja-dep/punct]() (1; 10% instances)
+
+Children of `PUNCT` nodes belong to 3 different parts of speech: [NOUN]() (6; 60% instances), [VERB]() (3; 30% instances), [PUNCT]() (1; 10% instances)
 
 
 
@@ -72,39 +67,39 @@ The highest child degree of a `PUNCT` node is 0.
 
 ## Treebank Statistics (UD_Japanese-KTC)
 
-There are 1 `PUNCT` lemmas (0%), 1 `PUNCT` types (6%) and 29066 `PUNCT` tokens (11%).
-Out of 16 observed tags, the rank of `PUNCT` is: 15 in number of lemmas, 13 in number of types and 4 in number of tokens.
+There are 1 `PUNCT` lemmas (0%), 1 `PUNCT` types (6%) and 20670 `PUNCT` tokens (11%).
+Out of 16 observed tags, the rank of `PUNCT` is: 15 in number of lemmas, 13 in number of types and 3 in number of tokens.
 
 The 10 most frequent `PUNCT` lemmas: _
 
 The 10 most frequent `PUNCT` types:  _
 
-The 10 most frequent ambiguous lemmas: _ ([NOUN]() 73916, [ADP]() 56601, [PUNCT]() 29066, [AUX]() 10360, [SCONJ]() 9060, [NUM]() 8667, [VERB]() 8579, [ADJ]() 3304, [PART]() 2730, [CONJ]() 2110, [PROPN]() 1795, [ADV]() 1655, [SYM]() 1138, [PRON]() 138, [DET]() 95, [INTJ]() 15)
+The 10 most frequent ambiguous lemmas: _ ([NOUN]() 52356, [ADP]() 40131, [PUNCT]() 20670, [AUX]() 7362, [SCONJ]() 6334, [NUM]() 6286, [VERB]() 6156, [ADJ]() 2302, [PART]() 1887, [CONJ]() 1517, [PROPN]() 1293, [ADV]() 1200, [SYM]() 865, [PRON]() 102, [DET]() 68, [INTJ]() 8)
 
-The 10 most frequent ambiguous types:  _ ([NOUN]() 83879, [ADP]() 56602, [AUX]() 29224, [PUNCT]() 29066, [VERB]() 24527, [NUM]() 10685, [SCONJ]() 9342, [PROPN]() 7729, [ADJ]() 4996, [PART]() 2783, [CONJ]() 2763, [ADV]() 2738, [SYM]() 1138, [DET]() 1067, [PRON]() 1065, [INTJ]() 27)
+The 10 most frequent ambiguous types:  _ ([NOUN]() 59392, [ADP]() 40132, [PUNCT]() 20670, [AUX]() 20538, [VERB]() 17383, [NUM]() 7782, [SCONJ]() 6539, [PROPN]() 5774, [ADJ]() 3509, [CONJ]() 1977, [ADV]() 1949, [PART]() 1921, [SYM]() 865, [DET]() 751, [PRON]() 744, [INTJ]() 17)
 
 
 * _
-  * [NOUN]() 83879: <b>_</b> <b>_</b> _ _ _ _ _ _
-  * [ADP]() 56602: _ _ <b>_</b> _ _ _ _ _
-  * [AUX]() 29224: _ _ _ _ <b>_</b> _ <b>_</b> _
-  * [PUNCT]() 29066: _ _ _ _ _ _ _ <b>_</b>
-  * [VERB]() 24527: _ _ _ _ _ <b>_</b> _ _
-  * [NUM]() 10685: _ _ _ _ _ _ _ _ _ _ _ _ _ _ <b>_</b> _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
-  * [SCONJ]() 9342: _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ <b>_</b> _ _ _ _ _
-  * [PROPN]() 7729: <b>_</b> _ _ _ _ <b>_</b> _ _ _ <b>_</b> _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
-  * [ADJ]() 4996: _ _ _ <b>_</b> _ _ _ _
-  * [PART]() 2783: _ _ _ _ _ _ <b>_</b> _ _ _ _ _ _ _ _ _ _
-  * [CONJ]() 2763: <b>_</b> _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
-  * [ADV]() 2738: _ _ _ _ _ _ _ _ _ <b>_</b> _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
-  * [SYM]() 1138: _ _ _ _ _ <b>_</b> _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
-  * [DET]() 1067: _ _ _ <b>_</b> _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
-  * [PRON]() 1065: _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ <b>_</b> _ _ _ _ _ _
-  * [INTJ]() 27: _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ <b>_</b> _ _ _ _ _
+  * [NOUN]() 59392: <b>_</b> <b>_</b> _ _ _ _ _ _
+  * [ADP]() 40132: _ _ <b>_</b> _ _ _ _ _
+  * [PUNCT]() 20670: _ _ _ _ _ _ _ <b>_</b>
+  * [AUX]() 20538: _ _ _ _ <b>_</b> _ <b>_</b> _
+  * [VERB]() 17383: _ _ _ _ _ <b>_</b> _ _
+  * [NUM]() 7782: _ _ _ _ _ _ _ _ _ _ _ _ _ _ <b>_</b> _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+  * [SCONJ]() 6539: _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ <b>_</b> _ _ _ _ _
+  * [PROPN]() 5774: <b>_</b> _ _ _ _ <b>_</b> _ _ _ <b>_</b> _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+  * [ADJ]() 3509: _ _ _ <b>_</b> _ _ _ _
+  * [CONJ]() 1977: <b>_</b> _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+  * [ADV]() 1949: _ _ _ _ _ _ _ _ _ <b>_</b> _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+  * [PART]() 1921: _ _ _ _ _ _ <b>_</b> _ _ _ _ _ _ _ _ _ _
+  * [SYM]() 865: _ _ _ _ _ <b>_</b> _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+  * [DET]() 751: _ _ _ <b>_</b> _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+  * [PRON]() 744: _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ <b>_</b> _ _ _ _ _ _
+  * [INTJ]() 17: _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ <b>_</b> _ _ _ _ _
 
 ## Morphology
 
-The form / lemma ratio of `PUNCT` is 1.000000 (the average of all parts of speech is 0.002927).
+The form / lemma ratio of `PUNCT` is 1.000000 (the average of all parts of speech is 0.003541).
 
 The 1st highest number of forms (1) was observed with the lemma “_”: _.
 
@@ -113,11 +108,11 @@ The 1st highest number of forms (1) was observed with the lemma “_”: _.
 
 ## Relations
 
-`PUNCT` nodes are attached to their parents using 1 different relations: [ja-dep/punct]() (29066; 100% instances)
+`PUNCT` nodes are attached to their parents using 1 different relations: [ja-dep/punct]() (20670; 100% instances)
 
-Parents of `PUNCT` nodes belong to 12 different parts of speech: [VERB]() (13230; 46% instances), [NOUN]() (12342; 42% instances), [ADJ]() (1456; 5% instances), [CONJ]() (732; 3% instances), [PROPN]() (585; 2% instances), [ADV]() (370; 1% instances), [NUM]() (217; 1% instances), [PRON]() (93; 0% instances), [INTJ]() (38; 0% instances), [DET]() (1; 0% instances), [PART]() (1; 0% instances), [SCONJ]() (1; 0% instances)
+Parents of `PUNCT` nodes belong to 12 different parts of speech: [VERB]() (9413; 46% instances), [NOUN]() (8722; 42% instances), [ADJ]() (1036; 5% instances), [CONJ]() (547; 3% instances), [PROPN]() (424; 2% instances), [ADV]() (280; 1% instances), [NUM]() (153; 1% instances), [PRON]() (68; 0% instances), [INTJ]() (24; 0% instances), [DET]() (1; 0% instances), [PART]() (1; 0% instances), [SCONJ]() (1; 0% instances)
 
-29066 (100%) `PUNCT` nodes are leaves.
+20670 (100%) `PUNCT` nodes are leaves.
 
 The highest child degree of a `PUNCT` node is 0.
 

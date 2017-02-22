@@ -7,21 +7,21 @@
 This feature is universal.
 It occurs with 1 different values: `Yes`.
 
-165 tokens (0%) have a non-empty value of `Reflex`.
+164 tokens (0%) have a non-empty value of `Reflex`.
 36 types (0%) occur at least once with a non-empty value of `Reflex`.
 1 lemmas (0%) occur at least once with a non-empty value of `Reflex`.
-The feature is used with 1 part-of-speech tags: [fi-pos/PRON]() (165; 0% instances).
+The feature is used with 1 part-of-speech tags: [fi-pos/PRON]() (164; 0% instances).
 
 ### `PRON`
 
-165 [fi-pos/PRON]() tokens (1% of all `PRON` tokens) have a non-empty value of `Reflex`.
+164 [fi-pos/PRON]() tokens (1% of all `PRON` tokens) have a non-empty value of `Reflex`.
 
-The most frequent other feature values with which `PRON` and `Reflex` co-occurred: <tt><a href="Person.html">Person</a>=EMPTY</tt> (165; 100%), <tt><a href="PronType.html">PronType</a>=EMPTY</tt> (165; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (150; 91%).
+The most frequent other feature values with which `PRON` and `Reflex` co-occurred: <tt><a href="PronType.html">PronType</a>=EMPTY</tt> (164; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (164; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (149; 91%).
 
 `PRON` tokens may have the following values of `Reflex`:
 
-* `Yes` (165; 100% of non-empty `Reflex`): <em>itsensä, itse, itselleen, itseään, itseni, itseäni, itselleni, itsestään, itseltään, itseensä</em>
-* `EMPTY` (11759): <em>se, hän, sen, joka, sitä, siitä, tämä, tämän, jotka, ne</em>
+* `Yes` (164; 100% of non-empty `Reflex`): <em>itsensä, itse, itselleen, itseään, itseni, itseäni, itselleni, itsestään, itseltään, itseensä</em>
+* `EMPTY` (11769): <em>se, hän, sen, joka, sitä, siitä, tämä, tämän, jotka, ne</em>
 
 
 
@@ -32,30 +32,30 @@ The most frequent other feature values with which `PRON` and `Reflex` co-occurre
 This feature is universal.
 It occurs with 1 different values: `Yes`.
 
-324 tokens (0%) have a non-empty value of `Reflex`.
-48 types (0%) occur at least once with a non-empty value of `Reflex`.
+288 tokens (0%) have a non-empty value of `Reflex`.
+43 types (0%) occur at least once with a non-empty value of `Reflex`.
 1 lemmas (0%) occur at least once with a non-empty value of `Reflex`.
-The feature is used with 2 part-of-speech tags: [fi-pos/PRON]() (303; 0% instances), [fi-pos/DET]() (21; 0% instances).
+The feature is used with 2 part-of-speech tags: [fi-pos/PRON]() (268; 0% instances), [fi-pos/DET]() (20; 0% instances).
 
 ### `PRON`
 
-303 [fi-pos/PRON]() tokens (3% of all `PRON` tokens) have a non-empty value of `Reflex`.
+268 [fi-pos/PRON]() tokens (3% of all `PRON` tokens) have a non-empty value of `Reflex`.
 
-The most frequent other feature values with which `PRON` and `Reflex` co-occurred: <tt><a href="PronType.html">PronType</a>=EMPTY</tt> (303; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (303; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (303; 100%).
+The most frequent other feature values with which `PRON` and `Reflex` co-occurred: <tt><a href="Person.html">Person</a>=EMPTY</tt> (268; 100%), <tt><a href="PronType.html">PronType</a>=EMPTY</tt> (268; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (268; 100%).
 
 `PRON` tokens may have the following values of `Reflex`:
 
-* `Yes` (303; 100% of non-empty `Reflex`): <em>itse, itsensä, itseään, itselleen, itsekin, itseni, itseäni, itsestään, itseäsi, ite</em>
-* `EMPTY` (10269): <em>se, hän, minä, sen, sitä, mitä, joka, mä, ne, sinä</em>
+* `Yes` (268; 100% of non-empty `Reflex`): <em>itse, itsensä, itseään, itselleen, itsekin, itseni, itsestään, itseäni, ite, itselle</em>
+* `EMPTY` (9261): <em>se, hän, minä, sen, sitä, mitä, joka, mä, ne, sinä</em>
 
 ### `DET`
 
-21 [fi-pos/DET]() tokens (1% of all `DET` tokens) have a non-empty value of `Reflex`.
+20 [fi-pos/DET]() tokens (1% of all `DET` tokens) have a non-empty value of `Reflex`.
 
-The most frequent other feature values with which `DET` and `Reflex` co-occurred: <tt><a href="PronType.html">PronType</a>=EMPTY</tt> (21; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (21; 100%), <tt><a href="Case.html">Case</a>=Nom</tt> (15; 71%).
+The most frequent other feature values with which `DET` and `Reflex` co-occurred: <tt><a href="PronType.html">PronType</a>=EMPTY</tt> (20; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (20; 100%), <tt><a href="Case.html">Case</a>=Nom</tt> (14; 70%).
 
 `DET` tokens may have the following values of `Reflex`:
 
-* `Yes` (21; 100% of non-empty `Reflex`): <em>itse, itsensä, itseensä</em>
-* `EMPTY` (4088): <em>se, sen, hänen, kaikki, mitään, tämä, joka, sitä, joku, tällä</em>
+* `Yes` (20; 100% of non-empty `Reflex`): <em>itse, itsensä, itseensä</em>
+* `EMPTY` (3650): <em>se, sen, hänen, kaikki, mitään, tämä, joka, tällä, sitä, joku</em>
 

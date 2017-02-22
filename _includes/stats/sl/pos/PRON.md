@@ -4,91 +4,88 @@
 
 ## Treebank Statistics (UD_Slovenian)
 
-There are 63 `PRON` lemmas (0%), 251 `PRON` types (1%) and 6951 `PRON` tokens (5%).
-Out of 16 observed tags, the rank of `PRON` is: 9 in number of lemmas, 8 in number of types and 7 in number of tokens.
+There are 31 `PRON` lemmas (0%), 120 `PRON` types (0%) and 4808 `PRON` tokens (4%).
+Out of 16 observed tags, the rank of `PRON` is: 11 in number of lemmas, 9 in number of types and 9 in number of tokens.
 
-The 10 most frequent `PRON` lemmas: <em>se, on, ta, jaz, kateri, ves, ti, kar, kaj, tisti</em>
+The 10 most frequent `PRON` lemmas: <em>se, on, jaz, ti, kaj, kar, kdo, nič, nekaj, zame</em>
 
-The 10 most frequent `PRON` types:  <em>se, to, ga, jih, si, jo, tem, mu, kaj, mi</em>
+The 10 most frequent `PRON` types:  <em>se, ga, jih, si, jo, mu, mi, kaj, kar, ji</em>
 
-The 10 most frequent ambiguous lemmas: <em>on</em> ([PRON]() 1561, [X]() 1), <em>ta</em> ([PRON]() 807, [DET]() 552), <em>jaz</em> ([PRON]() 483, [NOUN]() 2), <em>kateri</em> ([PRON]() 287, [DET]() 20), <em>ves</em> ([DET]() 289, [PRON]() 198, [ADV]() 1), <em>kar</em> ([PRON]() 153, [ADV]() 106), <em>kaj</em> ([PRON]() 152, [ADV]() 21), <em>tisti</em> ([PRON]() 79, [DET]() 57), <em>nekaj</em> ([DET]() 166, [PRON]() 65, [ADV]() 19), <em>nič</em> ([PRON]() 63, [ADV]() 19)
+The 10 most frequent ambiguous lemmas: <em>on</em> ([PRON]() 1401, [X]() 1), <em>jaz</em> ([PRON]() 442, [NOUN]() 2), <em>kaj</em> ([PRON]() 129, [ADV]() 18), <em>kar</em> ([PRON]() 129, [ADV]() 94), <em>nič</em> ([PRON]() 63, [ADV]() 16), <em>nekaj</em> ([DET]() 171, [PRON]() 60)
 
-The 10 most frequent ambiguous types:  <em>to</em> ([PRON]() 273, [DET]() 63), <em>si</em> ([PRON]() 245, [AUX]() 14, [VERB]() 12), <em>jo</em> ([PRON]() 224, [X]() 1), <em>tem</em> ([PRON]() 177, [DET]() 96, [NOUN]() 1, [ADV]() 1), <em>mu</em> ([PRON]() 158, [X]() 2), <em>kaj</em> ([PRON]() 110, [ADV]() 20), <em>kar</em> ([PRON]() 113, [ADV]() 97), <em>vse</em> ([PRON]() 88, [DET]() 74, [ADV]() 38), <em>tega</em> ([PRON]() 99, [DET]() 47), <em>katerem</em> ([PRON]() 64, [DET]() 2)
+The 10 most frequent ambiguous types:  <em>si</em> ([PRON]() 219, [AUX]() 23, [VERB]() 3), <em>jo</em> ([PRON]() 201, [X]() 1), <em>mu</em> ([PRON]() 143, [X]() 2), <em>kaj</em> ([PRON]() 95, [ADV]() 17), <em>kar</em> ([PRON]() 95, [ADV]() 85), <em>nekaj</em> ([DET]() 152, [PRON]() 53), <em>nič</em> ([PRON]() 41, [ADV]() 16), <em>vas</em> ([PRON]() 36, [NOUN]() 8), <em>ti</em> ([DET]() 14, [PRON]() 14), <em>te</em> ([DET]() 77, [PRON]() 14)
 
 
-* <em>to</em>
-  * [PRON]() 273: <em>Vsaj <b>to</b> v ničemer ne more biti sporno .</em>
-  * [DET]() 63: <em>Za <b>to</b> pomoč smo jim seveda tudi plačali .</em>
 * <em>si</em>
-  * [PRON]() 245: <em>Prvo pravilo : Za nakup <b>si</b> je treba vzeti čas .</em>
-  * [AUX]() 14: <em>Kaj si <b>si</b> pri tem sploh mislil ?</em>
-  * [VERB]() 12: <em>Ko <b>si</b> enkrat na vrhu in se poškoduješ , se je težko vrniti .</em>
+  * [PRON]() 219: <em>Prvo pravilo : Za nakup <b>si</b> je treba vzeti čas .</em>
+  * [AUX]() 23: <em>Tak <b>si</b> , kot da bi videl duha , « se je porogal Mosca .</em>
+  * [VERB]() 3: <em>Ko <b>si</b> enkrat na vrhu in se poškoduješ , se je težko vrniti .</em>
 * <em>jo</em>
-  * [PRON]() 224: <em>Zdaj sem se spomnil , kam sem <b>jo</b> vtaknil !</em>
+  * [PRON]() 201: <em>Čebulo olupimo , <b>jo</b> narežemo na obročke .</em>
   * [X]() 1: <em>( <b>jo</b> )</em>
-* <em>tem</em>
-  * [PRON]() 177: <em>S <b>tem</b> nikakor ni zmanjšan pomen enotne volje državljanov Slovenije .</em>
-  * [DET]() 96: <em>V <b>tem</b> trenutku je smiselno govoriti o prisilni poravnavi .</em>
-  * [NOUN]() 1: <em>Dijaki v njem prikažejo svoje poznavanje obravnavanih <b>tem</b> iz književnosti .</em>
-  * [ADV]() 1: <em>Čim boljše bo v Sloveniji znanje tujih jezikov , <b>tem</b> bolje se bo Slovenija sporazumevala s svetom .</em>
 * <em>mu</em>
-  * [PRON]() 158: <em>» Potem pa le pazi name , « se <b>mu</b> je v odgovor nasmehnila Regina .</em>
+  * [PRON]() 143: <em>» Potem pa le pazi name , « se <b>mu</b> je v odgovor nasmehnila Regina .</em>
   * [X]() 2: <em>( <b>mu</b> )</em>
 * <em>kaj</em>
-  * [PRON]() 110: <em>Toda <b>kaj</b> je energija " nacionalizma " ?</em>
-  * [ADV]() 20: <em>Zavetniški objem je <b>kaj</b> hitro postal ljubezenski .</em>
+  * [PRON]() 95: <em>Toda <b>kaj</b> je energija " nacionalizma " ?</em>
+  * [ADV]() 17: <em>Tudi če bi kdo hotel , se ne more <b>kaj</b> posebno pregrešiti s požrešnostjo .</em>
 * <em>kar</em>
-  * [PRON]() 113: <em>Kot tak ni nekaj , <b>kar</b> se zgodi v praznem prostoru .</em>
-  * [ADV]() 97: <em>V skrajnih primerih jih pesti že <b>kar</b> kompleks superiornosti .</em>
-* <em>vse</em>
-  * [PRON]() 88: <em>Ko <b>vse</b> skupaj zavre , vložimo fileje in jih dušimo dobrih 10 minut .</em>
-  * [DET]() 74: <em>Na <b>vse</b> prireditve je vstop prost .</em>
-  * [ADV]() 38: <em>Slišim namreč <b>vse</b> več glasov o nepravilnostih .</em>
-* <em>tega</em>
-  * [PRON]() 99: <em>Toda bil sem suh , poleg <b>tega</b> pa se je poročila sestrična .</em>
-  * [DET]() 47: <em>Napetost <b>tega</b> člena je 3,20 V .</em>
-* <em>katerem</em>
-  * [PRON]() 64: <em>- Zamislite si položaj , v <b>katerem</b> si želite nastopiti mirno in sproščeno .</em>
-  * [DET]() 2: <em>Na <b>katerem</b> trgu srečuješ popolno oziroma svobodno konkurenco ?</em>
+  * [PRON]() 95: <em>Vse , <b>kar</b> se vam bo dogajalo , boste morali deliti z drugimi .</em>
+  * [ADV]() 85: <em>V skrajnih primerih jih pesti že <b>kar</b> kompleks superiornosti .</em>
+* <em>nekaj</em>
+  * [DET]() 152: <em>Simpatična uradna stran z <b>nekaj</b> prav zanimivimi rubrikami .</em>
+  * [PRON]() 53: <em>A <b>nekaj</b> v meni mi ni dovolilo , da bi zaploskala .</em>
+* <em>nič</em>
+  * [PRON]() 41: <em>Oči menda ni bil <b>nič</b> boljši .</em>
+  * [ADV]() 16: <em>Vas ni prav <b>nič</b> strah , da ne bi v Atene prišli optimalno pripravljeni ?</em>
+* <em>vas</em>
+  * [PRON]() 36: <em>Naj bo tako , čeprav <b>vas</b> nihče ne bo podpiral , in daleč boste prišli .</em>
+  * [NOUN]() 8: <em>Z leti sem spoznal , da je Fara nenavadno zanimiva <b>vas</b> .</em>
+* <em>ti</em>
+  * [DET]() 14: <em>V zadnjih 20 letih so se <b>ti</b> cilji stalno spreminjali .</em>
+  * [PRON]() 14: <em>» Oho , <b>ti</b> si pa poln keša ! « ga je občudujoče pogledala Karmen .</em>
+* <em>te</em>
+  * [DET]() 77: <em>Če <b>te</b> ne bi bilo , ne bi pomagal niti izredno ugoden splet okoliščin .</em>
+  * [PRON]() 14: <em>Ne , če <b>te</b> hočejo pokončati , <b>te</b> bodo našli kjerkoli .</em>
 
 ## Morphology
 
-The form / lemma ratio of `PRON` is 3.984127 (the average of all parts of speech is 1.894262).
+The form / lemma ratio of `PRON` is 3.870968 (the average of all parts of speech is 1.870691).
 
 The 1st highest number of forms (24) was observed with the lemma “on”: <em>ga, je, ji, jih, jim, jima, jo, ju, mu, nje, njega, njej, njem, njemu, njih, njiju, njim, njima, njimi, njo, on, ona, onadva, oni</em>.
 
 The 2nd highest number of forms (13) was observed with the lemma “jaz”: <em>jaz, mano, me, mene, meni, menoj, mi, midva, naju, nam, nama, nami, nas</em>.
 
-The 3rd highest number of forms (11) was observed with the lemma “kateri”: <em>katera, katere, katerega, katerem, kateremu, kateri, katerih, katerim, katerima, katerimi, katero</em>.
+The 3rd highest number of forms (11) was observed with the lemma “ti”: <em>tabo, te, tebe, tebi, ti, vaju, vam, vama, vami, vas, vi</em>.
 
-`PRON` occurs with 10 features: [sl-feat/PronType]() (6951; 100% instances), [sl-feat/Case]() (4888; 70% instances), [sl-feat/Number]() (4530; 65% instances), [sl-feat/Variant]() (3917; 56% instances), [sl-feat/Gender]() (3877; 56% instances), [sl-feat/Reflex]() (2443; 35% instances), [sl-feat/Person]() (2341; 34% instances), [sl-feat/Poss]() (45; 1% instances), [sl-feat/Number[psor]]() (23; 0% instances), [sl-feat/Gender[psor]]() (11; 0% instances)
+`PRON` occurs with 7 features: [sl-feat/PronType]() (4808; 100% instances), [sl-feat/Variant]() (3526; 73% instances), [sl-feat/Case]() (2950; 61% instances), [sl-feat/Number]() (2628; 55% instances), [sl-feat/Reflex]() (2180; 45% instances), [sl-feat/Person]() (2093; 44% instances), [sl-feat/Gender]() (2031; 42% instances)
 
-`PRON` occurs with 30 feature-value pairs: `Case=Acc`, `Case=Dat`, `Case=Gen`, `Case=Ins`, `Case=Loc`, `Case=Nom`, `Gender=Fem`, `Gender=Masc`, `Gender=Neut`, `Gender[psor]=Fem`, `Gender[psor]=Masc`, `Number=Dual`, `Number=Plur`, `Number=Sing`, `Number[psor]=Plur`, `Number[psor]=Sing`, `Person=1`, `Person=2`, `Person=3`, `Poss=Yes`, `PronType=Dem`, `PronType=Ind`, `PronType=Int`, `PronType=Neg`, `PronType=Prs`, `PronType=Rel`, `PronType=Tot`, `Reflex=Yes`, `Variant=Bound`, `Variant=Short`
+`PRON` occurs with 24 feature-value pairs: `Case=Acc`, `Case=Dat`, `Case=Gen`, `Case=Ins`, `Case=Loc`, `Case=Nom`, `Gender=Fem`, `Gender=Masc`, `Gender=Neut`, `Number=Dual`, `Number=Plur`, `Number=Sing`, `Person=1`, `Person=2`, `Person=3`, `PronType=Ind`, `PronType=Int`, `PronType=Neg`, `PronType=Prs`, `PronType=Rel`, `PronType=Tot`, `Reflex=Yes`, `Variant=Bound`, `Variant=Short`
 
-`PRON` occurs with 274 feature combinations.
-The most frequent feature combination is `PronType=Prs|Reflex=Yes|Variant=Short` (2062 tokens).
+`PRON` occurs with 148 feature combinations.
+The most frequent feature combination is `PronType=Prs|Reflex=Yes|Variant=Short` (1858 tokens).
 Examples: <em>se</em>
 
 
 ## Relations
 
-`PRON` nodes are attached to their parents using 14 different relations: [sl-dep/expl]() (2298; 33% instances), [sl-dep/dobj]() (1889; 27% instances), [sl-dep/nmod]() (1436; 21% instances), [sl-dep/nsubj]() (879; 13% instances), [sl-dep/iobj]() (318; 5% instances), [sl-dep/conj]() (41; 1% instances), [sl-dep/root]() (41; 1% instances), [sl-dep/ccomp]() (11; 0% instances), [sl-dep/xcomp]() (10; 0% instances), [sl-dep/acl]() (9; 0% instances), [sl-dep/mwe]() (9; 0% instances), [sl-dep/advcl]() (6; 0% instances), [sl-dep/csubj]() (2; 0% instances), [sl-dep/parataxis]() (2; 0% instances)
+`PRON` nodes are attached to their parents using 14 different relations: [sl-dep/expl]() (2069; 43% instances), [sl-dep/obj]() (1530; 32% instances), [sl-dep/obl]() (412; 9% instances), [sl-dep/nsubj]() (348; 7% instances), [sl-dep/iobj]() (276; 6% instances), [sl-dep/nmod]() (131; 3% instances), [sl-dep/conj]() (21; 0% instances), [sl-dep/root]() (8; 0% instances), [sl-dep/ccomp]() (4; 0% instances), [sl-dep/xcomp]() (4; 0% instances), [sl-dep/fixed]() (2; 0% instances), [sl-dep/acl]() (1; 0% instances), [sl-dep/advcl]() (1; 0% instances), [sl-dep/parataxis]() (1; 0% instances)
 
-Parents of `PRON` nodes belong to 11 different parts of speech: [VERB]() (6026; 87% instances), [NOUN]() (380; 5% instances), [ADJ]() (376; 5% instances), [PRON]() (78; 1% instances), [ROOT]() (41; 1% instances), [ADV]() (15; 0% instances), [PROPN]() (14; 0% instances), [NUM]() (10; 0% instances), [ADP]() (5; 0% instances), [DET]() (5; 0% instances), [X]() (1; 0% instances)
+Parents of `PRON` nodes belong to 9 different parts of speech: [VERB]() (4471; 93% instances), [ADJ]() (172; 4% instances), [NOUN]() (121; 3% instances), [DET]() (11; 0% instances), [ROOT]() (8; 0% instances), [ADV]() (7; 0% instances), [PROPN]() (7; 0% instances), [PRON]() (6; 0% instances), [NUM]() (5; 0% instances)
 
-5485 (79%) `PRON` nodes are leaves.
+4241 (88%) `PRON` nodes are leaves.
 
-1188 (17%) `PRON` nodes have one child.
+494 (10%) `PRON` nodes have one child.
 
-174 (3%) `PRON` nodes have two children.
+50 (1%) `PRON` nodes have two children.
 
-104 (1%) `PRON` nodes have three or more children.
+23 (0%) `PRON` nodes have three or more children.
 
-The highest child degree of a `PRON` node is 11.
+The highest child degree of a `PRON` node is 7.
 
-Children of `PRON` nodes are attached using 22 different relations: [sl-dep/case]() (1143; 57% instances), [sl-dep/acl]() (240; 12% instances), [sl-dep/nmod]() (123; 6% instances), [sl-dep/punct]() (84; 4% instances), [sl-dep/cop]() (75; 4% instances), [sl-dep/advmod]() (68; 3% instances), [sl-dep/nsubj]() (57; 3% instances), [sl-dep/amod]() (55; 3% instances), [sl-dep/cc]() (43; 2% instances), [sl-dep/conj]() (41; 2% instances), [sl-dep/mark]() (15; 1% instances), [sl-dep/aux]() (13; 1% instances), [sl-dep/nummod]() (7; 0% instances), [sl-dep/parataxis]() (6; 0% instances), [sl-dep/csubj]() (5; 0% instances), [sl-dep/dobj]() (4; 0% instances), [sl-dep/mwe]() (4; 0% instances), [sl-dep/cc:preconj]() (3; 0% instances), [sl-dep/advcl]() (2; 0% instances), [sl-dep/appos]() (1; 0% instances), [sl-dep/discourse]() (1; 0% instances), [sl-dep/expl]() (1; 0% instances)
+Children of `PRON` nodes are attached using 19 different relations: [sl-dep/case]() (442; 63% instances), [sl-dep/amod]() (49; 7% instances), [sl-dep/nmod]() (35; 5% instances), [sl-dep/conj]() (29; 4% instances), [sl-dep/acl]() (24; 3% instances), [sl-dep/cc]() (21; 3% instances), [sl-dep/advmod]() (17; 2% instances), [sl-dep/cop]() (17; 2% instances), [sl-dep/punct]() (17; 2% instances), [sl-dep/obl]() (15; 2% instances), [sl-dep/nsubj]() (12; 2% instances), [sl-dep/mark]() (5; 1% instances), [sl-dep/fixed]() (4; 1% instances), [sl-dep/aux]() (3; 0% instances), [sl-dep/cc:preconj]() (2; 0% instances), [sl-dep/parataxis]() (2; 0% instances), [sl-dep/advcl]() (1; 0% instances), [sl-dep/appos]() (1; 0% instances), [sl-dep/csubj]() (1; 0% instances)
 
-Children of `PRON` nodes belong to 14 different parts of speech: [ADP]() (1131; 57% instances), [VERB]() (294; 15% instances), [NOUN]() (132; 7% instances), [ADJ]() (94; 5% instances), [PUNCT]() (84; 4% instances), [PRON]() (78; 4% instances), [CONJ]() (49; 2% instances), [ADV]() (39; 2% instances), [PART]() (30; 2% instances), [SCONJ]() (30; 2% instances), [AUX]() (13; 1% instances), [NUM]() (8; 0% instances), [PROPN]() (8; 0% instances), [X]() (1; 0% instances)
+Children of `PRON` nodes belong to 15 different parts of speech: [ADP]() (437; 63% instances), [ADJ]() (63; 9% instances), [NOUN]() (52; 7% instances), [DET]() (26; 4% instances), [CCONJ]() (23; 3% instances), [AUX]() (20; 3% instances), [VERB]() (20; 3% instances), [PUNCT]() (17; 2% instances), [ADV]() (10; 1% instances), [SCONJ]() (10; 1% instances), [PART]() (8; 1% instances), [PRON]() (6; 1% instances), [PROPN]() (3; 0% instances), [NUM]() (1; 0% instances), [X]() (1; 0% instances)
 
 
 
@@ -96,92 +93,89 @@ Children of `PRON` nodes belong to 14 different parts of speech: [ADP]() (1131; 
 
 ## Treebank Statistics (UD_Slovenian-SST)
 
-There are 46 `PRON` lemmas (1%), 165 `PRON` types (3%) and 2594 `PRON` tokens (9%).
-Out of 16 observed tags, the rank of `PRON` is: 10 in number of lemmas, 8 in number of types and 5 in number of tokens.
+There are 17 `PRON` lemmas (1%), 71 `PRON` types (2%) and 1096 `PRON` tokens (6%).
+Out of 16 observed tags, the rank of `PRON` is: 13 in number of lemmas, 9 in number of types and 9 in number of tokens.
 
-The 10 most frequent `PRON` lemmas: <em>ta, se, jaz, on, kaj, ti, ves, tisti, nič, kar</em>
+The 10 most frequent `PRON` lemmas: <em>se, jaz, on, kaj, ti, kar, kdo, nekdo, zame, nihče</em>
 
-The 10 most frequent `PRON` types:  <em>to, se, kaj, jaz, mi, ti, ga, jih, si, nič</em>
+The 10 most frequent `PRON` types:  <em>se, kaj, jaz, mi, ti, jih, ga, si, kar, jo</em>
 
-The 10 most frequent ambiguous lemmas: <em>ta</em> ([PRON]() 613, [DET]() 208), <em>se</em> ([PRON]() 460, [VERB]() 1), <em>on</em> ([PRON]() 309, [X]() 2), <em>kaj</em> ([PRON]() 196, [ADV]() 43, [X]() 1), <em>ti</em> ([PRON]() 194, [X]() 1, [INTJ]() 1), <em>ves</em> ([PRON]() 54, [DET]() 42), <em>tisti</em> ([PRON]() 53, [DET]() 32), <em>nič</em> ([PRON]() 42, [ADV]() 22), <em>kar</em> ([ADV]() 70, [PRON]() 37), <em>nekaj</em> ([PRON]() 29, [ADV]() 23, [DET]() 11)
+The 10 most frequent ambiguous lemmas: <em>kaj</em> ([PRON]() 143, [ADV]() 26), <em>ti</em> ([PRON]() 132, [X]() 1, [INTJ]() 1), <em>kar</em> ([ADV]() 48, [PRON]() 26)
 
-The 10 most frequent ambiguous types:  <em>to</em> ([PRON]() 489, [DET]() 26, [X]() 1), <em>se</em> ([PRON]() 398, [X]() 6), <em>kaj</em> ([PRON]() 185, [ADV]() 43, [X]() 1), <em>mi</em> ([PRON]() 116, [X]() 1), <em>ti</em> ([PRON]() 105, [DET]() 10, [X]() 1, [INTJ]() 1), <em>ga</em> ([PRON]() 60, [X]() 1), <em>si</em> ([PRON]() 48, [AUX]() 39, [VERB]() 32, [X]() 1), <em>nič</em> ([PRON]() 41, [ADV]() 22), <em>vse</em> ([PRON]() 41, [DET]() 17, [ADV]() 7), <em>jo</em> ([PRON]() 37, [INTJ]() 1)
+The 10 most frequent ambiguous types:  <em>se</em> ([PRON]() 263, [X]() 4), <em>kaj</em> ([PRON]() 136, [ADV]() 26), <em>mi</em> ([PRON]() 75, [X]() 1), <em>ti</em> ([PRON]() 68, [DET]() 11, [INTJ]() 1, [X]() 1), <em>ga</em> ([PRON]() 37, [X]() 1), <em>si</em> ([AUX]() 34, [PRON]() 33, [VERB]() 16), <em>kar</em> ([ADV]() 48, [PRON]() 24), <em>on</em> ([PRON]() 16, [X]() 1), <em>ona</em> ([PRON]() 14, [DET]() 4), <em>te</em> ([DET]() 23, [PRON]() 10, [ADV]() 9)
 
 
-* <em>to</em>
-  * [PRON]() 489: <em>pol pa v oklepaju piše le za ta to pa <b>to</b> vizo lahko trideset dni ostaneš</em>
-  * [DET]() 26: <em>pol pa v oklepaju piše le za ta <b>to</b> pa to vizo lahko trideset dni ostaneš</em>
-  * [X]() 1: <em>mi smo kar eee kolega ni povedal v letošnjem letu intenzivirali obnavljanje in eee eee gradnjo na progi in pri tem opravili s [gap] <b>to</b> [gap] opisano povečanje tovornega prometa navkljub</em>
 * <em>se</em>
-  * [PRON]() 398: <em>če če ne boste mogli na havaje priti ne <b>se</b> sekirat</em>
-  * [X]() 6: <em>eee zraven so [gap] <b>se</b> večje trgovine pa eee lpp prevoz je</em>
+  * [PRON]() 263: <em>eee to <b>se</b> bo očitno razmahnilo</em>
+  * [X]() 4: <em>ja <b>se</b> [gap] <b>se</b> [gap]</em>
 * <em>kaj</em>
-  * [PRON]() 185: <em>[gap] <b>kaj</b> a tule boš diplomirala pol boš šla pa ven magisterij delat ?</em>
-  * [ADV]() 43: <em>pa si bil že <b>kaj</b> doma nisi bil še nič tako</em>
-  * [X]() 1: <em><b>kaj</b> zar [gap] in to niso tiste ki kažejo tudi razpoloženje ne</em>
+  * [PRON]() 136: <em>tri tavžent kart je samo ven šlo veš <b>kaj</b> to</em>
+  * [ADV]() 26: <em><b>kaj</b> bi imela enega mi ti napravimo</em>
 * <em>mi</em>
-  * [PRON]() 116: <em>[gap] na morju <b>mi</b> je frizuro zrihtal</em>
+  * [PRON]() 75: <em>no <b>mi</b> pa bomo slišali eee seveda utwo in beautiful day</em>
   * [X]() 1: <em>ampak nisem s [gap] pa še zmeraj jaz nekaj za jezike bil spe [gap] spet eee sem jaz cvek pisal če sem če smo eee dela [gap] delal sem pol mat [gap] <b>mi</b> [gap] takrat je bila eee matura ne diploma na poklicni šoli ker sem jaz prvo končal</em>
 * <em>ti</em>
-  * [PRON]() 105: <em>km [gap] ker <b>ti</b> na vizi piše od kdaj do kdaj <b>ti</b> velja</em>
-  * [DET]() 10: <em>to je igra ki jo igrajo eee <b>ti</b> eee člani družine</em>
-  * [X]() 1: <em>in se smejem kot matasta tipo ki že costi <b>ti</b> ga bi bujeri ser [all:laughter]</em>
+  * [PRON]() 68: <em>ko bo prišel domov pa <b>ti</b> bo stopnice pokozlal</em>
+  * [DET]() 11: <em>samo <b>ti</b> pa niso v oplotnici doma <b>ti</b> so jo v zrečah</em>
   * [INTJ]() 1: <em>pa če noče zaspati ko je še mala pa ji špilaš pred posteljico veš [audience:laughter] tako delaš <b>ti</b> di di pa še igraš</em>
+  * [X]() 1: <em>in se smejem kot matasta tipo ki že costi <b>ti</b> ga bi bujeri ser [all:laughter]</em>
 * <em>ga</em>
-  * [PRON]() 60: <em>samo jebi <b>ga</b> ampak sliši se pa ne a veš</em>
+  * [PRON]() 37: <em>ja zdaj če se če se vam zdi frizer če <b>ga</b> damo med nezasebne super</em>
   * [X]() 1: <em>in se smejem kot matasta tipo ki že costi ti <b>ga</b> bi bujeri ser [all:laughter]</em>
 * <em>si</em>
-  * [PRON]() 48: <em>kdaj <b>si</b> s [gap]</em>
-  * [AUX]() 39: <em>pa <b>si</b> bil že kaj doma nisi bil še nič tako</em>
-  * [VERB]() 32: <em>ako ako imaš imaš ako nimaš pa <b>si</b> revež</em>
-  * [X]() 1: <em>najmanj kar bi <b>si</b> [gap] glejte najmanj kar bi se … poglejte dovoli [gap] … ja</em>
-* <em>nič</em>
-  * [PRON]() 41: <em><b>nič</b> posebnega</em>
-  * [ADV]() 22: <em>pa si bil že kaj doma nisi bil še <b>nič</b> tako</em>
-* <em>vse</em>
-  * [PRON]() 41: <em>res no <b>vse</b> <b>vse</b> jaz ne vem česa <b>vse</b> ni imel … ja ja ja</em>
-  * [DET]() 17: <em>ne ja kaj pa je te ja kaj pa more more saj to eee <b>vse</b> hudo mine ne eee ja</em>
-  * [ADV]() 7: <em>[gap] tole so <b>vse</b> karavanke in tukaj je en sicer ne to je že pohorje zdaj pa [gap]</em>
-* <em>jo</em>
-  * [PRON]() 37: <em>[speaker:laughter] še kar stoka glej <b>jo</b></em>
-  * [INTJ]() 1: <em><b>jo</b> pa ej sploh ne vem a so se pogledal oni mislim na teh slikah k</em>
+  * [AUX]() 34: <em>na vrhu je tako kot <b>si</b> rekla en šef lahko sta tudi dva</em>
+  * [PRON]() 33: <em>se pravi tukaj <b>si</b> boste zapisovali vzorce en dva tri štiri pet</em>
+  * [VERB]() 16: <em><b>si</b> ?</em>
+* <em>kar</em>
+  * [ADV]() 48: <em>in to so mešali <b>kar</b> eno olje pa ene take č [gap] stare barve</em>
+  * [PRON]() 24: <em>ja eee ker svet ni več tako zelo prijazen vsaj <b>kar</b> se tega tiče</em>
+* <em>on</em>
+  * [PRON]() 16: <em>ja veš kaj <b>on</b> je absolvent ne</em>
+  * [X]() 1: <em>eee torej <b>on</b> [gap] o [gap]</em>
+* <em>ona</em>
+  * [PRON]() 14: <em>[:voice] no ja eee kaj zdaj <b>ona</b> hodi tudi na salso ?</em>
+  * [DET]() 4: <em>eee kjer je <b>ona</b> zelenica</em>
+* <em>te</em>
+  * [DET]() 23: <em>mhm … ja vse je do <b>te</b> višine a ne</em>
+  * [PRON]() 10: <em>[gap] iščem pa [gap] ne <b>te</b> najdem [audience:laughter]</em>
+  * [ADV]() 9: <em>eee to bi <b>te</b> bilo vse ven pobrati samo jaz sem to ne imela toliko časa</em>
 
 ## Morphology
 
-The form / lemma ratio of `PRON` is 3.586957 (the average of all parts of speech is 1.575031).
+The form / lemma ratio of `PRON` is 4.176471 (the average of all parts of speech is 1.494596).
 
-The 1st highest number of forms (22) was observed with the lemma “on”: <em>ga, je, ji, jih, jim, jo, mu, nje, njega, njej, njem, njemu, njih, njim, njima, njimi, njo, on, ona, onadva, one, oni</em>.
+The 1st highest number of forms (20) was observed with the lemma “on”: <em>ga, je, ji, jih, jim, jo, mu, nje, njega, njej, njemu, njih, njim, njimi, njo, on, ona, onadva, one, oni</em>.
 
 The 2nd highest number of forms (12) was observed with the lemma “jaz”: <em>jaz, mano, me, mene, meni, mi, midva, midve, nam, nama, nami, nas</em>.
 
-The 3rd highest number of forms (12) was observed with the lemma “ti”: <em>tabo, te, tebe, tebi, ti, vaju, vam, vami, vas, vi, vidva, vidve</em>.
+The 3rd highest number of forms (10) was observed with the lemma “ti”: <em>tabo, te, tebe, tebi, ti, vaju, vam, vami, vas, vi</em>.
 
-`PRON` occurs with 8 features: [sl-feat/PronType]() (2594; 100% instances), [sl-feat/Case]() (2196; 85% instances), [sl-feat/Number]() (2133; 82% instances), [sl-feat/Gender]() (1635; 63% instances), [sl-feat/Person]() (915; 35% instances), [sl-feat/Variant]() (806; 31% instances), [sl-feat/Number[psor]]() (20; 1% instances), [sl-feat/Poss]() (20; 1% instances)
+`PRON` occurs with 6 features: [sl-feat/PronType]() (1096; 100% instances), [sl-feat/Case]() (833; 76% instances), [sl-feat/Number]() (789; 72% instances), [sl-feat/Person]() (582; 53% instances), [sl-feat/Variant]() (530; 48% instances), [sl-feat/Gender]() (470; 43% instances)
 
-`PRON` occurs with 28 feature-value pairs: `Case=Acc`, `Case=Dat`, `Case=Gen`, `Case=Ins`, `Case=Loc`, `Case=Nom`, `Gender=Fem`, `Gender=Masc`, `Gender=Neut`, `Number=Dual`, `Number=Plur`, `Number=Sing`, `Number[psor]=Dual`, `Number[psor]=Plur`, `Number[psor]=Sing`, `Person=1`, `Person=2`, `Person=3`, `Poss=Yes`, `PronType=Dem`, `PronType=Ind`, `PronType=Int`, `PronType=Neg`, `PronType=Prs`, `PronType=Rel`, `PronType=Tot`, `Variant=Bound`, `Variant=Short`
+`PRON` occurs with 22 feature-value pairs: `Case=Acc`, `Case=Dat`, `Case=Gen`, `Case=Ins`, `Case=Loc`, `Case=Nom`, `Gender=Fem`, `Gender=Masc`, `Gender=Neut`, `Number=Dual`, `Number=Plur`, `Number=Sing`, `Person=1`, `Person=2`, `Person=3`, `PronType=Ind`, `PronType=Int`, `PronType=Neg`, `PronType=Prs`, `PronType=Rel`, `Variant=Bound`, `Variant=Short`
 
-`PRON` occurs with 178 feature combinations.
-The most frequent feature combination is `PronType=Prs|Variant=Short` (398 tokens).
+`PRON` occurs with 91 feature combinations.
+The most frequent feature combination is `PronType=Prs|Variant=Short` (263 tokens).
 Examples: <em>se</em>
 
 
 ## Relations
 
-`PRON` nodes are attached to their parents using 23 different relations: [sl-dep/nsubj]() (779; 30% instances), [sl-dep/dobj]() (649; 25% instances), [sl-dep/expl]() (463; 18% instances), [sl-dep/nmod]() (231; 9% instances), [sl-dep/root]() (134; 5% instances), [sl-dep/iobj]() (82; 3% instances), [sl-dep/reparandum]() (62; 2% instances), [sl-dep/parataxis]() (35; 1% instances), [sl-dep/conj:extend]() (32; 1% instances), [sl-dep/conj]() (29; 1% instances), [sl-dep/cc]() (16; 1% instances), [sl-dep/ccomp]() (13; 1% instances), [sl-dep/discourse]() (13; 1% instances), [sl-dep/dislocated]() (12; 0% instances), [sl-dep/acl]() (9; 0% instances), [sl-dep/compound]() (8; 0% instances), [sl-dep/mwe]() (8; 0% instances), [sl-dep/advmod]() (5; 0% instances), [sl-dep/advcl]() (4; 0% instances), [sl-dep/appos]() (4; 0% instances), [sl-dep/vocative]() (3; 0% instances), [sl-dep/parataxis:restart]() (2; 0% instances), [sl-dep/amod]() (1; 0% instances)
+`PRON` nodes are attached to their parents using 22 different relations: [sl-dep/obj]() (287; 26% instances), [sl-dep/nsubj]() (281; 26% instances), [sl-dep/expl]() (279; 25% instances), [sl-dep/obl]() (57; 5% instances), [sl-dep/iobj]() (55; 5% instances), [sl-dep/root]() (44; 4% instances), [sl-dep/nmod]() (17; 2% instances), [sl-dep/reparandum]() (17; 2% instances), [sl-dep/parataxis]() (10; 1% instances), [sl-dep/cc]() (8; 1% instances), [sl-dep/conj:extend]() (8; 1% instances), [sl-dep/discourse]() (8; 1% instances), [sl-dep/conj]() (6; 1% instances), [sl-dep/acl]() (4; 0% instances), [sl-dep/orphan]() (4; 0% instances), [sl-dep/fixed]() (3; 0% instances), [sl-dep/ccomp]() (2; 0% instances), [sl-dep/dislocated]() (2; 0% instances), [sl-dep/advcl]() (1; 0% instances), [sl-dep/advmod]() (1; 0% instances), [sl-dep/appos]() (1; 0% instances), [sl-dep/vocative]() (1; 0% instances)
 
-Parents of `PRON` nodes belong to 14 different parts of speech: [VERB]() (1924; 74% instances), [NOUN]() (186; 7% instances), [ROOT]() (134; 5% instances), [ADJ]() (124; 5% instances), [PRON]() (113; 4% instances), [PROPN]() (23; 1% instances), [X]() (23; 1% instances), [AUX]() (15; 1% instances), [NUM]() (15; 1% instances), [ADV]() (14; 1% instances), [PART]() (13; 1% instances), [DET]() (5; 0% instances), [ADP]() (4; 0% instances), [CONJ]() (1; 0% instances)
+Parents of `PRON` nodes belong to 12 different parts of speech: [VERB]() (918; 84% instances), [ROOT]() (44; 4% instances), [NOUN]() (36; 3% instances), [ADJ]() (30; 3% instances), [PRON]() (14; 1% instances), [DET]() (12; 1% instances), [X]() (11; 1% instances), [PART]() (9; 1% instances), [ADV]() (8; 1% instances), [AUX]() (8; 1% instances), [PROPN]() (5; 0% instances), [NUM]() (1; 0% instances)
 
-2018 (78%) `PRON` nodes are leaves.
+913 (83%) `PRON` nodes are leaves.
 
-320 (12%) `PRON` nodes have one child.
+113 (10%) `PRON` nodes have one child.
 
-116 (4%) `PRON` nodes have two children.
+31 (3%) `PRON` nodes have two children.
 
-140 (5%) `PRON` nodes have three or more children.
+39 (4%) `PRON` nodes have three or more children.
 
-The highest child degree of a `PRON` node is 9.
+The highest child degree of a `PRON` node is 8.
 
-Children of `PRON` nodes are attached using 32 different relations: [sl-dep/case]() (229; 20% instances), [sl-dep/advmod]() (153; 13% instances), [sl-dep/acl]() (92; 8% instances), [sl-dep/cop]() (80; 7% instances), [sl-dep/punct]() (76; 6% instances), [sl-dep/nsubj]() (72; 6% instances), [sl-dep/discourse]() (70; 6% instances), [sl-dep/reparandum]() (64; 5% instances), [sl-dep/nmod]() (56; 5% instances), [sl-dep/parataxis]() (40; 3% instances), [sl-dep/cc]() (37; 3% instances), [sl-dep/discourse:filler]() (34; 3% instances), [sl-dep/mwe]() (22; 2% instances), [sl-dep/conj]() (19; 2% instances), [sl-dep/advcl]() (15; 1% instances), [sl-dep/mark]() (15; 1% instances), [sl-dep/amod]() (14; 1% instances), [sl-dep/parataxis:discourse]() (12; 1% instances), [sl-dep/appos]() (10; 1% instances), [sl-dep/det]() (10; 1% instances), [sl-dep/dobj]() (10; 1% instances), [sl-dep/vocative]() (9; 1% instances), [sl-dep/dislocated]() (8; 1% instances), [sl-dep/compound]() (5; 0% instances), [sl-dep/parataxis:restart]() (5; 0% instances), [sl-dep/expl]() (4; 0% instances), [sl-dep/nummod]() (4; 0% instances), [sl-dep/aux]() (3; 0% instances), [sl-dep/conj:extend]() (2; 0% instances), [sl-dep/cc:preconj]() (1; 0% instances), [sl-dep/ccomp]() (1; 0% instances), [sl-dep/csubj]() (1; 0% instances)
+Children of `PRON` nodes are attached using 27 different relations: [sl-dep/case]() (80; 24% instances), [sl-dep/advmod]() (57; 17% instances), [sl-dep/punct]() (29; 9% instances), [sl-dep/reparandum]() (20; 6% instances), [sl-dep/cc]() (19; 6% instances), [sl-dep/nmod]() (14; 4% instances), [sl-dep/nsubj]() (14; 4% instances), [sl-dep/cop]() (12; 4% instances), [sl-dep/discourse]() (12; 4% instances), [sl-dep/parataxis]() (12; 4% instances), [sl-dep/fixed]() (9; 3% instances), [sl-dep/advcl]() (7; 2% instances), [sl-dep/conj]() (7; 2% instances), [sl-dep/discourse:filler]() (6; 2% instances), [sl-dep/orphan]() (6; 2% instances), [sl-dep/obj]() (5; 2% instances), [sl-dep/acl]() (3; 1% instances), [sl-dep/appos]() (3; 1% instances), [sl-dep/amod]() (2; 1% instances), [sl-dep/det]() (2; 1% instances), [sl-dep/parataxis:discourse]() (2; 1% instances), [sl-dep/parataxis:restart]() (2; 1% instances), [sl-dep/vocative]() (2; 1% instances), [sl-dep/cc:preconj]() (1; 0% instances), [sl-dep/dislocated]() (1; 0% instances), [sl-dep/nummod]() (1; 0% instances), [sl-dep/obl]() (1; 0% instances)
 
-Children of `PRON` nodes belong to 16 different parts of speech: [VERB]() (228; 19% instances), [ADP]() (214; 18% instances), [PRON]() (113; 10% instances), [ADV]() (112; 10% instances), [PART]() (91; 8% instances), [NOUN]() (85; 7% instances), [CONJ]() (68; 6% instances), [X]() (61; 5% instances), [PUNCT]() (45; 4% instances), [ADJ]() (43; 4% instances), [INTJ]() (41; 3% instances), [SCONJ]() (27; 2% instances), [PROPN]() (20; 2% instances), [NUM]() (12; 1% instances), [DET]() (10; 1% instances), [AUX]() (3; 0% instances)
+Children of `PRON` nodes belong to 16 different parts of speech: [ADP]() (76; 23% instances), [CCONJ]() (34; 10% instances), [ADV]() (32; 10% instances), [VERB]() (28; 9% instances), [PART]() (26; 8% instances), [X]() (22; 7% instances), [PUNCT]() (19; 6% instances), [NOUN]() (18; 5% instances), [DET]() (16; 5% instances), [PRON]() (14; 4% instances), [AUX]() (12; 4% instances), [SCONJ]() (8; 2% instances), [ADJ]() (7; 2% instances), [INTJ]() (7; 2% instances), [PROPN]() (7; 2% instances), [NUM]() (3; 1% instances)
 

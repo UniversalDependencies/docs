@@ -7,31 +7,12 @@
 This relation is universal.
 There are 1 language-specific subtypes of `nmod`: [nmod:poss]().
 
-40437 nodes (14%) are attached to their parents as `nmod`.
+21805 nodes (8%) are attached to their parents as `nmod`.
 
-25284 instances of `nmod` (63%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.05660657318792.
+17512 instances of `nmod` (80%) are left-to-right (parent precedes child).
+Average distance between parent and child is 3.10346250859895.
 
-The following 70 pairs of parts of speech are connected with `nmod`: [de-pos/VERB]()-[de-pos/NOUN]() (12435; 31% instances), [de-pos/NOUN]()-[de-pos/NOUN]() (10623; 26% instances), [de-pos/NOUN]()-[de-pos/PROPN]() (4136; 10% instances), [de-pos/VERB]()-[de-pos/PROPN]() (2997; 7% instances), [de-pos/PROPN]()-[de-pos/PROPN]() (2032; 5% instances), [de-pos/ADJ]()-[de-pos/NOUN]() (1834; 5% instances), [de-pos/VERB]()-[de-pos/NUM]() (1473; 4% instances), [de-pos/NOUN]()-[de-pos/NUM]() (1153; 3% instances), [de-pos/VERB]()-[de-pos/PRON]() (690; 2% instances), [de-pos/PROPN]()-[de-pos/NUM]() (516; 1% instances), [de-pos/PROPN]()-[de-pos/NOUN]() (430; 1% instances), [de-pos/ADJ]()-[de-pos/PROPN]() (403; 1% instances), [de-pos/ADP]()-[de-pos/NOUN]() (357; 1% instances), [de-pos/PRON]()-[de-pos/NOUN]() (269; 1% instances), [de-pos/ADJ]()-[de-pos/NUM]() (169; 0% instances), [de-pos/ADJ]()-[de-pos/PRON]() (144; 0% instances), [de-pos/ADV]()-[de-pos/NOUN]() (129; 0% instances), [de-pos/NOUN]()-[de-pos/PRON]() (110; 0% instances), [de-pos/ADP]()-[de-pos/PROPN]() (90; 0% instances), [de-pos/NUM]()-[de-pos/NOUN]() (75; 0% instances), [de-pos/NUM]()-[de-pos/NUM]() (75; 0% instances), [de-pos/NUM]()-[de-pos/PROPN]() (33; 0% instances), [de-pos/ADV]()-[de-pos/PROPN]() (25; 0% instances), [de-pos/PROPN]()-[de-pos/PRON]() (22; 0% instances), [de-pos/PRON]()-[de-pos/PROPN]() (19; 0% instances), [de-pos/AUX]()-[de-pos/NOUN]() (18; 0% instances), [de-pos/ADP]()-[de-pos/NUM]() (17; 0% instances), [de-pos/NOUN]()-[de-pos/X]() (17; 0% instances), [de-pos/PRON]()-[de-pos/PRON]() (16; 0% instances), [de-pos/X]()-[de-pos/NOUN]() (13; 0% instances), [de-pos/VERB]()-[de-pos/DET]() (11; 0% instances), [de-pos/CONJ]()-[de-pos/NOUN]() (9; 0% instances), [de-pos/PRON]()-[de-pos/NUM]() (7; 0% instances), [de-pos/VERB]()-[de-pos/X]() (7; 0% instances), [de-pos/X]()-[de-pos/NUM]() (7; 0% instances), [de-pos/ADP]()-[de-pos/PRON]() (5; 0% instances), [de-pos/AUX]()-[de-pos/NUM]() (5; 0% instances), [de-pos/ADV]()-[de-pos/NUM]() (4; 0% instances), [de-pos/ADV]()-[de-pos/PRON]() (4; 0% instances), [de-pos/NUM]()-[de-pos/X]() (4; 0% instances), [de-pos/PART]()-[de-pos/NOUN]() (4; 0% instances), [de-pos/ADJ]()-[de-pos/X]() (3; 0% instances), [de-pos/AUX]()-[de-pos/PROPN]() (3; 0% instances), [de-pos/DET]()-[de-pos/NOUN]() (3; 0% instances), [de-pos/PRON]()-[de-pos/X]() (3; 0% instances), [de-pos/PUNCT]()-[de-pos/NOUN]() (3; 0% instances), [de-pos/SCONJ]()-[de-pos/NOUN]() (3; 0% instances), [de-pos/VERB]()-[de-pos/ADJ]() (3; 0% instances), [de-pos/X]()-[de-pos/PROPN]() (3; 0% instances), [de-pos/ADJ]()-[de-pos/PART]() (2; 0% instances), [de-pos/CONJ]()-[de-pos/NUM]() (2; 0% instances), [de-pos/DET]()-[de-pos/PRON]() (2; 0% instances), [de-pos/PART]()-[de-pos/PROPN]() (2; 0% instances), [de-pos/VERB]()-[de-pos/ADV]() (2; 0% instances), [de-pos/ADJ]()-[de-pos/ADJ]() (1; 0% instances), [de-pos/ADJ]()-[de-pos/ADV]() (1; 0% instances), [de-pos/ADP]()-[de-pos/ADJ]() (1; 0% instances), [de-pos/AUX]()-[de-pos/X]() (1; 0% instances), [de-pos/CONJ]()-[de-pos/PROPN]() (1; 0% instances), [de-pos/DET]()-[de-pos/PROPN]() (1; 0% instances), [de-pos/NOUN]()-[de-pos/DET]() (1; 0% instances), [de-pos/NUM]()-[de-pos/ADV]() (1; 0% instances), [de-pos/NUM]()-[de-pos/PRON]() (1; 0% instances), [de-pos/PART]()-[de-pos/NUM]() (1; 0% instances), [de-pos/PART]()-[de-pos/PRON]() (1; 0% instances), [de-pos/PROPN]()-[de-pos/X]() (1; 0% instances), [de-pos/PUNCT]()-[de-pos/PRON]() (1; 0% instances), [de-pos/PUNCT]()-[de-pos/PROPN]() (1; 0% instances), [de-pos/SCONJ]()-[de-pos/PROPN]() (1; 0% instances), [de-pos/VERB]()-[de-pos/PART]() (1; 0% instances).
-
-
-~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 8 2 nmod	color:blue
-1	Letzte	letzt	ADJ	ADJA	Degree=Pos	2	amod	_	_
-2	Woche	Woche	NOUN	NN	_	8	nmod	_	_
-3	hatte	haben	AUX	VAFIN	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	8	aux	_	_
-4	ich	ich	PRON	PPER	Case=Nom|Number=Sing|Person=1|PronType=Prs	8	nsubj	_	_
-5	ein	ein	DET	ART	Case=Acc|Definite=Ind|Gender=Masc,Neut|Number=Sing|PronType=Art	7	det	_	_
-6	paar	paar	PRON	PIAT	Case=Acc|Gender=Masc,Neut|Number=Sing|PronType=Ind	7	det	_	_
-7	Funktionshemden	Funktionshemden	NOUN	NN	Case=Acc|Gender=Masc,Neut|Number=Sing	8	dobj	_	_
-8	gekauft	kaufen	VERB	VVPP	VerbForm=Part	0	root	_	_
-9	.	.	PUNCT	$.	_	8	punct	_	_
-
-~~~
+The following 55 pairs of parts of speech are connected with `nmod`: [de-pos/NOUN]()-[de-pos/NOUN]() (9690; 44% instances), [de-pos/NOUN]()-[de-pos/PROPN]() (4138; 19% instances), [de-pos/PROPN]()-[de-pos/PROPN]() (2105; 10% instances), [de-pos/ADJ]()-[de-pos/NOUN]() (1748; 8% instances), [de-pos/NOUN]()-[de-pos/NUM]() (1124; 5% instances), [de-pos/PROPN]()-[de-pos/NUM]() (521; 2% instances), [de-pos/PROPN]()-[de-pos/NOUN]() (466; 2% instances), [de-pos/ADJ]()-[de-pos/PROPN]() (421; 2% instances), [de-pos/ADP]()-[de-pos/NOUN]() (345; 2% instances), [de-pos/PRON]()-[de-pos/NOUN]() (251; 1% instances), [de-pos/ADJ]()-[de-pos/NUM]() (164; 1% instances), [de-pos/ADJ]()-[de-pos/PRON]() (139; 1% instances), [de-pos/ADV]()-[de-pos/NOUN]() (116; 1% instances), [de-pos/NOUN]()-[de-pos/PRON]() (105; 0% instances), [de-pos/ADP]()-[de-pos/PROPN]() (94; 0% instances), [de-pos/NUM]()-[de-pos/NUM]() (75; 0% instances), [de-pos/NUM]()-[de-pos/NOUN]() (72; 0% instances), [de-pos/NUM]()-[de-pos/PROPN]() (33; 0% instances), [de-pos/PRON]()-[de-pos/PROPN]() (23; 0% instances), [de-pos/PROPN]()-[de-pos/PRON]() (23; 0% instances), [de-pos/ADV]()-[de-pos/PROPN]() (21; 0% instances), [de-pos/NOUN]()-[de-pos/X]() (17; 0% instances), [de-pos/PRON]()-[de-pos/PRON]() (15; 0% instances), [de-pos/ADP]()-[de-pos/NUM]() (13; 0% instances), [de-pos/X]()-[de-pos/NOUN]() (11; 0% instances), [de-pos/PRON]()-[de-pos/NUM]() (7; 0% instances), [de-pos/X]()-[de-pos/NUM]() (7; 0% instances), [de-pos/ADP]()-[de-pos/PRON]() (5; 0% instances), [de-pos/CCONJ]()-[de-pos/NOUN]() (5; 0% instances), [de-pos/ADV]()-[de-pos/NUM]() (4; 0% instances), [de-pos/NUM]()-[de-pos/X]() (4; 0% instances), [de-pos/ADJ]()-[de-pos/X]() (3; 0% instances), [de-pos/ADV]()-[de-pos/PRON]() (3; 0% instances), [de-pos/DET]()-[de-pos/NOUN]() (3; 0% instances), [de-pos/PART]()-[de-pos/PROPN]() (3; 0% instances), [de-pos/PRON]()-[de-pos/X]() (3; 0% instances), [de-pos/PUNCT]()-[de-pos/NOUN]() (3; 0% instances), [de-pos/SCONJ]()-[de-pos/NOUN]() (3; 0% instances), [de-pos/X]()-[de-pos/PROPN]() (3; 0% instances), [de-pos/CCONJ]()-[de-pos/NUM]() (2; 0% instances), [de-pos/DET]()-[de-pos/PRON]() (2; 0% instances), [de-pos/PART]()-[de-pos/NOUN]() (2; 0% instances), [de-pos/ADJ]()-[de-pos/ADJ]() (1; 0% instances), [de-pos/ADJ]()-[de-pos/PART]() (1; 0% instances), [de-pos/ADP]()-[de-pos/ADJ]() (1; 0% instances), [de-pos/CCONJ]()-[de-pos/PROPN]() (1; 0% instances), [de-pos/DET]()-[de-pos/PROPN]() (1; 0% instances), [de-pos/NUM]()-[de-pos/ADV]() (1; 0% instances), [de-pos/NUM]()-[de-pos/PRON]() (1; 0% instances), [de-pos/PART]()-[de-pos/PRON]() (1; 0% instances), [de-pos/PROPN]()-[de-pos/ADV]() (1; 0% instances), [de-pos/PROPN]()-[de-pos/X]() (1; 0% instances), [de-pos/PUNCT]()-[de-pos/PRON]() (1; 0% instances), [de-pos/PUNCT]()-[de-pos/PROPN]() (1; 0% instances), [de-pos/SCONJ]()-[de-pos/PROPN]() (1; 0% instances).
 
 
 ~~~ conllu
@@ -47,7 +28,7 @@ The following 70 pairs of parts of speech are connected with `nmod`: [de-pos/VER
 5	Ausgangspunkt	Ausgangspunkt	NOUN	NN	_	0	root	_	_
 6	zu	zu	ADP	APPR	_	8	case	_	_
 7	einer	ein	DET	ART	Case=Dat|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
-8	Parfümkreation	Parfümkreation	NOUN	NN	Case=Dat|Gender=Fem|Number=Sing	5	nmod	_	_
+8	Parfümkreation	Parfümkreation	NOUN	NN	Case=Dat|Gender=Fem|Number=Sing	5	nmod	_	SpaceAfter=No
 9	.	.	PUNCT	$.	_	5	punct	_	_
 
 ~~~
@@ -66,8 +47,29 @@ The following 70 pairs of parts of speech are connected with `nmod`: [de-pos/VER
 5	Nummer	Nummer	NOUN	NN	_	6	compound	_	_
 6	EINS	EINS	NOUN	VVFIN	_	0	root	_	_
 7	in	in	ADP	APPR	_	8	case	_	_
-8	Dresden	Dresden	PROPN	NE	_	6	nmod	_	_
+8	Dresden	Dresden	PROPN	NE	_	6	nmod	_	SpaceAfter=No
 9	.	.	PUNCT	$.	_	6	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 8 10 nmod	color:blue
+1	Dann	dann	ADV	ADV	_	2	advmod	_	_
+2	hörten	hören	VERB	VVFIN	Number=Plur|Person=1|VerbForm=Fin	0	root	_	_
+3	wir	wir	PRON	PPER	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	_
+4	von	von	ADP	APPR	_	8	case	_	_
+5	dem	der	DET	ART	Case=Dat|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Art	8	det	_	_
+6	Hundezentrum	Hundezentrum	NOUN	NN	_	8	compound	_	_
+7	-	-	PUNCT	$(	_	8	punct	_	_
+8	Fulda	Fulda	PROPN	NE	Case=Dat|Gender=Masc,Neut|Number=Sing	2	obl	_	_
+9	in	in	ADP	APPR	_	10	case	_	_
+10	Löschenrod	Löschenrod	PROPN	NN	_	8	nmod	_	SpaceAfter=No
+11	.	.	PUNCT	$.	_	2	punct	_	_
 
 ~~~
 

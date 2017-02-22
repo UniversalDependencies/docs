@@ -6,29 +6,36 @@
 
 This relation is universal.
 
-385 nodes (0%) are attached to their parents as `parataxis`.
+397 nodes (0%) are attached to their parents as `parataxis`.
 
-295 instances of `parataxis` (77%) are left-to-right (parent precedes child).
-Average distance between parent and child is 10.6441558441558.
+306 instances of `parataxis` (77%) are left-to-right (parent precedes child).
+Average distance between parent and child is 10.5541561712846.
 
-The following 23 pairs of parts of speech are connected with `parataxis`: [it-pos/VERB]()-[it-pos/VERB]() (216; 56% instances), [it-pos/NOUN]()-[it-pos/VERB]() (46; 12% instances), [it-pos/ADJ]()-[it-pos/VERB]() (37; 10% instances), [it-pos/VERB]()-[it-pos/NOUN]() (19; 5% instances), [it-pos/NOUN]()-[it-pos/NOUN]() (15; 4% instances), [it-pos/PROPN]()-[it-pos/PROPN]() (11; 3% instances), [it-pos/PROPN]()-[it-pos/VERB]() (8; 2% instances), [it-pos/PRON]()-[it-pos/VERB]() (5; 1% instances), [it-pos/ADV]()-[it-pos/VERB]() (4; 1% instances), [it-pos/NUM]()-[it-pos/VERB]() (3; 1% instances), [it-pos/PROPN]()-[it-pos/NOUN]() (3; 1% instances), [it-pos/ADJ]()-[it-pos/NOUN]() (2; 1% instances), [it-pos/NOUN]()-[it-pos/ADJ]() (2; 1% instances), [it-pos/NOUN]()-[it-pos/PROPN]() (2; 1% instances), [it-pos/VERB]()-[it-pos/ADJ]() (2; 1% instances), [it-pos/VERB]()-[it-pos/PRON]() (2; 1% instances), [it-pos/VERB]()-[it-pos/PROPN]() (2; 1% instances), [it-pos/ADJ]()-[it-pos/ADV]() (1; 0% instances), [it-pos/INTJ]()-[it-pos/VERB]() (1; 0% instances), [it-pos/PRON]()-[it-pos/ADJ]() (1; 0% instances), [it-pos/PROPN]()-[it-pos/ADJ]() (1; 0% instances), [it-pos/PROPN]()-[it-pos/PRON]() (1; 0% instances), [it-pos/X]()-[it-pos/VERB]() (1; 0% instances).
+The following 23 pairs of parts of speech are connected with `parataxis`: [it-pos/VERB]()-[it-pos/VERB]() (206; 52% instances), [it-pos/NOUN]()-[it-pos/VERB]() (57; 14% instances), [it-pos/ADJ]()-[it-pos/VERB]() (38; 10% instances), [it-pos/VERB]()-[it-pos/NOUN]() (20; 5% instances), [it-pos/NOUN]()-[it-pos/NOUN]() (17; 4% instances), [it-pos/PROPN]()-[it-pos/PROPN]() (12; 3% instances), [it-pos/PROPN]()-[it-pos/VERB]() (9; 2% instances), [it-pos/PRON]()-[it-pos/VERB]() (6; 2% instances), [it-pos/VERB]()-[it-pos/PROPN]() (5; 1% instances), [it-pos/ADV]()-[it-pos/VERB]() (4; 1% instances), [it-pos/NOUN]()-[it-pos/ADJ]() (3; 1% instances), [it-pos/NOUN]()-[it-pos/PROPN]() (3; 1% instances), [it-pos/NUM]()-[it-pos/VERB]() (3; 1% instances), [it-pos/PROPN]()-[it-pos/NOUN]() (3; 1% instances), [it-pos/ADJ]()-[it-pos/NOUN]() (2; 1% instances), [it-pos/VERB]()-[it-pos/ADJ]() (2; 1% instances), [it-pos/ADJ]()-[it-pos/ADV]() (1; 0% instances), [it-pos/INTJ]()-[it-pos/VERB]() (1; 0% instances), [it-pos/PRON]()-[it-pos/ADJ]() (1; 0% instances), [it-pos/PROPN]()-[it-pos/ADJ]() (1; 0% instances), [it-pos/PROPN]()-[it-pos/PRON]() (1; 0% instances), [it-pos/VERB]()-[it-pos/PRON]() (1; 0% instances), [it-pos/X]()-[it-pos/VERB]() (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 8 parataxis	color:blue
-1	«	«	PUNCT	FB	_	3	punct	_	SpaceAfter=No
-2	Non	non	ADV	BN	PronType=Neg	3	neg	_	_
-3	ho	avere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
-4	preclusioni	preclusione	NOUN	S	Gender=Fem|Number=Plur	3	dobj	_	_
-5	ideologiche	ideologico	ADJ	A	Gender=Fem|Number=Plur	4	amod	_	SpaceAfter=No
-6	»	»	PUNCT	FB	_	3	punct	_	SpaceAfter=No
-7	,	,	PUNCT	FF	_	3	punct	_	_
-8	spiega	spiegare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	parataxis	_	SpaceAfter=No
-9	.	.	PUNCT	FS	_	3	punct	_	_
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 12	bgColor:blue
+# visual-style 12	fgColor:white
+# visual-style 12 6 parataxis	color:blue
+1	Dusty	Dusty	PROPN	SP	_	12	nsubj	_	_
+2	e	e	CCONJ	CC	_	3	cc	_	_
+3	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	1	conj	_	SpaceAfter=No
+4	,	,	PUNCT	FF	_	6	punct	_	_
+5	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	6	iobj	_	_
+6	piace	piacere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	parataxis	_	_
+7	dir	dire	VERB	V	VerbForm=Inf	6	csubj	_	_
+8	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	obj	_	_
+9	,	,	PUNCT	FF	_	12	punct	_	_
+10	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
+11	domenica	domenica	NOUN	S	Gender=Fem|Number=Sing	12	obl	_	_
+12	andiamo	andare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+13	in	in	ADP	E	_	14	case	_	_
+14	chiesa	chiesa	NOUN	S	Gender=Fem|Number=Sing	12	obl	_	_
+15	qui	qui	ADV	B	_	12	advmod	_	SpaceAfter=No
+16	.	.	PUNCT	FS	_	12	punct	_	_
 
 ~~~
 
@@ -46,7 +53,7 @@ The following 23 pairs of parts of speech are connected with `parataxis`: [it-po
 5	sento	sentire	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	10	parataxis	_	_
 6	dire	dire	VERB	V	VerbForm=Inf	5	ccomp	_	_
 7	-	-	PUNCT	FB	_	5	punct	_	_
-8	è	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	_
+8	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	_
 9	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
 10	fatto	fatto	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
 11	privato	privato	ADJ	A	Gender=Masc|Number=Sing	10	amod	_	SpaceAfter=No
@@ -62,14 +69,153 @@ The following 23 pairs of parts of speech are connected with `parataxis`: [it-po
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 7 parataxis	color:blue
-1	È	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	_
+1	È	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	_
 2	vero	vero	ADJ	A	Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
 3	,	,	PUNCT	FF	_	2	punct	_	_
-4	tutti	tutto	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	7	nsubjpass	_	_
+4	tutti	tutto	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	7	nsubj:pass	_	_
 5	possiamo	potere	AUX	VM	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	7	aux	_	_
-6	essere	essere	AUX	VA	VerbForm=Inf	7	auxpass	_	_
+6	essere	essere	AUX	VA	VerbForm=Inf	7	aux:pass	_	_
 7	sostituiti	sostituire	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	2	parataxis	_	SpaceAfter=No
 8	.	.	PUNCT	FS	_	2	punct	_	_
+
+~~~
+
+
+
+
+--------------------------------------------------------------------------------
+
+## Treebank Statistics (UD_Italian-ParTUT)
+
+This relation is universal.
+
+16 nodes (0%) are attached to their parents as `parataxis`.
+
+9 instances of `parataxis` (56%) are right-to-left (child precedes parent).
+Average distance between parent and child is 8.5625.
+
+The following 4 pairs of parts of speech are connected with `parataxis`: [it-pos/VERB]()-[it-pos/VERB]() (13; 81% instances), [it-pos/ADJ]()-[it-pos/VERB]() (1; 6% instances), [it-pos/NUM]()-[it-pos/VERB]() (1; 6% instances), [it-pos/PRON]()-[it-pos/VERB]() (1; 6% instances).
+
+
+~~~ conllu
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 12	bgColor:blue
+# visual-style 12	fgColor:white
+# visual-style 12 6 parataxis	color:blue
+1	Dusty	Dusty	PROPN	SP	_	12	nsubj	_	_
+2	e	e	CCONJ	CC	_	3	cc	_	_
+3	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	1	conj	_	SpaceAfter=No
+4	,	,	PUNCT	FF	_	1	punct	_	_
+5	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	6	iobj	_	_
+6	piace	piacere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	parataxis	_	_
+7	dir	dire	VERB	V	VerbForm=Inf	6	csubj	_	_
+8	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	obj	_	_
+9	,	,	PUNCT	FF	_	6	punct	_	_
+10	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
+11	domenica	domenica	NOUN	S	Gender=Fem|Number=Sing	12	obl	_	_
+12	andiamo	andare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+13	in	in	ADP	E	_	14	case	_	_
+14	chiesa	chiesa	NOUN	S	Gender=Fem|Number=Sing	12	obl	_	_
+15	qui	qui	ADV	B	_	12	advmod	_	SpaceAfter=No
+16	.	.	PUNCT	FS	_	12	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 4 parataxis	color:blue
+1	Tutto	tutto	DET	DI	Gender=Masc|Number=Sing|PronType=Ind	2	det	_	_
+2	questo	questo	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	0	root	_	SpaceAfter=No
+3	,	,	PUNCT	FF	_	2	punct	_	_
+4	sottolineo	sottolineare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	parataxis	_	SpaceAfter=No
+5	,	,	PUNCT	FF	_	4	punct	_	_
+6	avvalendo	avvalere	VERB	V	VerbForm=Ger	2	acl	_	_
+7	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	6	expl	_	_
+8	di	di	ADP	E	_	10	case	_	_
+9	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	partecipazione	partecipazione	NOUN	S	Gender=Fem|Number=Sing	6	obl	_	_
+11	di	di	ADP	E	_	13	case	_	_
+12	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	13	det	_	_
+13	impresa	impresa	NOUN	S	Gender=Fem|Number=Sing	10	nmod	_	_
+14	privata	privato	ADJ	A	Gender=Fem|Number=Sing	13	amod	_	SpaceAfter=No
+15	,	,	PUNCT	FF	_	13	punct	_	_
+16	che	che	PRON	PR	PronType=Rel	41	nsubj	_	_
+17	unendo	unire	VERB	V	VerbForm=Ger	41	advcl	_	_
+18	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	20	det	_	_
+19	proprio	proprio	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	20	det:poss	_	_
+20	impegno	impegno	NOUN	S	Gender=Masc|Number=Sing	17	obj	_	_
+21	a	a	ADP	E	_	22	case	_	_
+22	quello	quello	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	17	obl	_	_
+23	di	di	ADP	E	_	25	case	_	_
+24	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	25	det	_	_
+25	amministrazioni	amministrazione	NOUN	S	Gender=Fem|Number=Plur	22	nmod	_	_
+26	pubbliche	pubblico	ADJ	A	Gender=Fem|Number=Plur	25	amod	_	SpaceAfter=No
+27	,	,	PUNCT	FF	_	17	punct	_	_
+28	in	in	ADP	E	_	30	case	_	_
+29	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	30	det	_	_
+30	sinergia	sinergia	NOUN	S	Gender=Fem|Number=Sing	41	obl	_	_
+31	di	di	ADP	E	_	32	case	_	_
+32	completamento	completamento	NOUN	S	Gender=Masc|Number=Sing	30	nmod	_	_
+33	che	che	PRON	PR	PronType=Rel	35	nsubj	_	_
+34	non	non	ADV	BN	PronType=Neg	35	advmod	_	_
+35	comporti	comportare	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	30	acl:relcl	_	_
+36	mai	mai	ADV	B	_	35	advmod	_	_
+37	chiusure	chiusura	NOUN	S	Gender=Fem|Number=Plur	35	obj	_	_
+38	o	o	CCONJ	CC	_	39	cc	_	_
+39	esclusioni	esclusione	NOUN	S	Gender=Fem|Number=Plur	37	conj	_	SpaceAfter=No
+40	,	,	PUNCT	FF	_	35	punct	_	_
+41	creerà	creare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	13	acl:relcl	_	_
+42	ricchezza	ricchezza	NOUN	S	Gender=Fem|Number=Sing	41	obj	_	_
+43	sociale	sociale	ADJ	A	Number=Sing	42	amod	_	_
+44	e	e	CCONJ	CC	_	45	cc	_	_
+45	posti	porre	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	41	conj	_	_
+46	di	di	ADP	E	_	47	case	_	_
+47	lavoro	lavoro	NOUN	S	Gender=Masc|Number=Sing	45	obl	_	SpaceAfter=No
+48	.	.	PUNCT	FS	_	4	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 25	bgColor:blue
+# visual-style 25	fgColor:white
+# visual-style 12	bgColor:blue
+# visual-style 12	fgColor:white
+# visual-style 12 25 parataxis	color:blue
+1	"	"	PUNCT	FB	_	12	punct	_	SpaceAfter=No
+2	La	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	nobiltà	nobiltà	NOUN	S	Gender=Fem	12	nsubj	_	_
+4	e	e	CCONJ	CC	_	5	cc	_	_
+5	autorità	autorità	NOUN	S	Gender=Fem	3	conj	_	_
+6	di	di	ADP	E	_	8	case	_	_
+7	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	talento	talento	NOUN	S	Gender=Masc|Number=Sing	3	nmod	_	SpaceAfter=No
+9	,	,	PUNCT	FF	_	3	punct	_	_
+10	sono	essere	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	12	cop	_	_
+11	più	più	ADV	B	_	12	advmod	_	_
+12	importanti	importante	ADJ	A	Number=Plur	0	root	_	_
+13	di	di	ADP	E	_	15	case	_	_
+14	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	_	_
+15	nobiltà	nobiltà	NOUN	S	Gender=Fem	12	obl	_	_
+16	di	di	ADP	E	_	17	case	_	_
+17	nome	nome	NOUN	S	Gender=Masc|Number=Sing	15	nmod	_	_
+18	e	e	CCONJ	CC	_	21	cc	_	_
+19	di	di	ADP	E	_	21	case	_	_
+20	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	21	det	_	_
+21	potere	potere	NOUN	S	Gender=Masc|Number=Sing	15	conj	_	_
+22	terreno	terreno	ADJ	A	Gender=Masc|Number=Sing	21	amod	_	SpaceAfter=No
+23	"	"	PUNCT	FB	_	12	punct	_	SpaceAfter=No
+24	,	,	PUNCT	FF	_	12	punct	_	_
+25	scrisse	scrivere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	12	parataxis	_	_
+26	in	in	ADP	E	_	28	case	_	_
+27	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	28	det	_	_
+28	1830	1830	NUM	N	NumType=Card	25	obl	_	SpaceAfter=No
+29	.	.	PUNCT	FS	_	12	punct	_	_
 
 ~~~
 

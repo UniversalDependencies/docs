@@ -16,7 +16,7 @@ The feature is used with 6 part-of-speech tags: [sa-pos/VERB]() (149; 12% instan
 
 149 [sa-pos/VERB]() tokens (62% of all `VERB` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="Case.html">Case</a>=EMPTY</tt> (149; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (149; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (149; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (131; 88%), <tt><a href="Voice.html">Voice</a>=Act</tt> (120; 81%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (100; 67%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (97; 65%).
+The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (149; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (149; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (149; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (131; 88%), <tt><a href="Voice.html">Voice</a>=Act</tt> (120; 81%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (100; 67%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (97; 65%).
 
 `VERB` tokens may have the following values of `Person`:
 
@@ -52,7 +52,7 @@ The most frequent other feature values with which `PRON` and `Person` co-occurre
 
 4 [sa-pos/X]() tokens (20% of all `X` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `X` and `Person` co-occurred: <tt><a href="Number.html">Number</a>=Sing</tt> (4; 100%), <tt><a href="VerbForm.html">VerbForm</a>=EMPTY</tt> (4; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (4; 100%), <tt><a href="Voice.html">Voice</a>=Act</tt> (4; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (4; 100%).
+The most frequent other feature values with which `X` and `Person` co-occurred: <tt><a href="Voice.html">Voice</a>=Act</tt> (4; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (4; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (4; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (4; 100%), <tt><a href="VerbForm.html">VerbForm</a>=EMPTY</tt> (4; 100%).
 
 `X` tokens may have the following values of `Person`:
 
@@ -64,7 +64,7 @@ The most frequent other feature values with which `X` and `Person` co-occurred: 
 
 3 [sa-pos/DET]() tokens (5% of all `DET` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `DET` and `Person` co-occurred: <tt><a href="PronType.html">PronType</a>=Prs</tt> (3; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (3; 100%), <tt><a href="Case.html">Case</a>=Acc</tt> (2; 67%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (2; 67%).
+The most frequent other feature values with which `DET` and `Person` co-occurred: <tt><a href="Number.html">Number</a>=Sing</tt> (3; 100%), <tt><a href="PronType.html">PronType</a>=Prs</tt> (3; 100%), <tt><a href="Case.html">Case</a>=Acc</tt> (2; 67%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (2; 67%).
 
 `DET` tokens may have the following values of `Person`:
 
@@ -87,7 +87,7 @@ The most frequent other feature values with which `NOUN` and `Person` co-occurre
 
 1 [sa-pos/AUX]() tokens (100% of all `AUX` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `AUX` and `Person` co-occurred: <tt><a href="Number.html">Number</a>=Sing</tt> (1; 100%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (1; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (1; 100%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (1; 100%), <tt><a href="Voice.html">Voice</a>=Act</tt> (1; 100%).
+The most frequent other feature values with which `AUX` and `Person` co-occurred: <tt><a href="Tense.html">Tense</a>=Pres</tt> (1; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (1; 100%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (1; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (1; 100%), <tt><a href="Voice.html">Voice</a>=Act</tt> (1; 100%).
 
 `AUX` tokens may have the following values of `Person`:
 

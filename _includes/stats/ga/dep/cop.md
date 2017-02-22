@@ -6,28 +6,47 @@
 
 This relation is universal.
 
-373 nodes (2%) are attached to their parents as `cop`.
+210 nodes (2%) are attached to their parents as `cop`.
 
-368 instances of `cop` (99%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.23592493297587.
+209 instances of `cop` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.32380952380952.
 
-The following 11 pairs of parts of speech are connected with `cop`: [ga-pos/NOUN]()-[ga-pos/VERB]() (144; 39% instances), [ga-pos/ADJ]()-[ga-pos/VERB]() (126; 34% instances), [ga-pos/ADP]()-[ga-pos/VERB]() (46; 12% instances), [ga-pos/PRON]()-[ga-pos/VERB]() (35; 9% instances), [ga-pos/PROPN]()-[ga-pos/VERB]() (10; 3% instances), [ga-pos/ADV]()-[ga-pos/VERB]() (4; 1% instances), [ga-pos/ADJ]()-[ga-pos/PART]() (3; 1% instances), [ga-pos/VERB]()-[ga-pos/VERB]() (2; 1% instances), [ga-pos/ADP]()-[ga-pos/SCONJ]() (1; 0% instances), [ga-pos/DET]()-[ga-pos/VERB]() (1; 0% instances), [ga-pos/X]()-[ga-pos/VERB]() (1; 0% instances).
+The following 8 pairs of parts of speech are connected with `cop`: [ga-pos/ADJ]()-[ga-pos/AUX]() (81; 39% instances), [ga-pos/NOUN]()-[ga-pos/AUX]() (76; 36% instances), [ga-pos/ADP]()-[ga-pos/AUX]() (31; 15% instances), [ga-pos/PRON]()-[ga-pos/AUX]() (15; 7% instances), [ga-pos/PROPN]()-[ga-pos/AUX]() (3; 1% instances), [ga-pos/ADV]()-[ga-pos/AUX]() (2; 1% instances), [ga-pos/VERB]()-[ga-pos/AUX]() (1; 0% instances), [ga-pos/X]()-[ga-pos/AUX]() (1; 0% instances).
 
 
 ~~~ conllu
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 1 cop	color:blue
+1	Ar	is	AUX	Cop	Tense=Past|VerbForm=Cop	2	cop	_	_
+2	mhaith	maith	ADJ	Adj	Degree=Pos|Form=Len	0	root	_	_
+3	leat	le	ADP	Prep	Number=Sing|Person=2	2	obl:prep	_	_
+4	teach	teach	NOUN	Noun	Case=NomAcc|Gender=Masc|Number=Sing	6	obj	_	_
+5	a	a	PART	Inf	PartType=Inf	6	mark	_	_
+6	cheannach	ceannach	NOUN	Noun	Form=Len|VerbForm=Inf	2	nsubj	_	SpaceAfter=No
+7	.	.	PUNCT	.	_	2	punct	_	_
+
+~~~
+
+
+~~~ conllu
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
-# visual-style 4 1 cop	color:blue
-1	An	is	VERB	Cop	Mood=Int|Tense=Pres|VerbForm=Cop	4	cop	_	_
-2	iad	iad	PRON	Pers	Number=Plur|Person=3	4	nmod	_	_
-3	na	na	DET	Art	Definite=Def|Number=Plur|PronType=Art	4	det	_	_
-4	daoine	duine	NOUN	Noun	Case=Com|Definite=Def|Gender=Masc|Number=Plur	0	root	_	_
-5	siúd	siúd	DET	Det	PronType=Dem	4	det	_	_
-6	na	na	DET	Art	Definite=Def|Number=Plur|PronType=Art	7	det	_	_
-7	buaiteoirí	buaiteoir	NOUN	Noun	Case=Com|Definite=Def|Gender=Masc|Number=Plur	4	nsubj	_	_
-8	?	?	PUNCT	?	_	4	punct	_	_
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 4 cop	color:blue
+1	Limistéar	limistéar	NOUN	Noun	Case=NomAcc|Gender=Masc|Number=Sing	0	root	_	_
+2	na	na	DET	Art	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	Meánmhara	muir	NOUN	Noun	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	1	compound	_	_
+4	is	is	AUX	Cop	Tense=Pres|VerbForm=Cop	5	cop	_	_
+5	áit	áit	NOUN	Noun	Case=NomAcc|Gender=Fem|Number=Sing	1	ccomp	_	_
+6	dúcháis	dúchas	NOUN	Noun	Case=Gen|Gender=Masc|Number=Sing	5	compound	_	_
+7	don	do	ADP	Art	Number=Sing|PronType=Art	9	case	_	_
+8	Rós	Rós	PROPN	Noun	Case=NomAcc|Gender=Masc|Number=Sing	9	compound	_	_
+9	Mhuire	Muire	PROPN	Noun	Case=Gen|Gender=Fem|Number=Sing	5	nmod	_	SpaceAfter=No
+10	.	.	PUNCT	.	_	1	punct	_	_
 
 ~~~
 
@@ -38,39 +57,15 @@ The following 11 pairs of parts of speech are connected with `cop`: [ga-pos/NOUN
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 1 cop	color:blue
-1	Ba	is	VERB	Cop	Tense=Past|VerbForm=Cop	2	cop	_	_
-2	léir	léir	ADJ	Adj	Degree=Pos	0	root	_	_
-3	dó	do	ADP	Prep	Gender=Masc|Number=Sing|Person=3	2	nmod:prep	_	_
-4	misneach	misneach	NOUN	Noun	Case=Com|Gender=Masc|Number=Sing	2	nsubj	_	_
-5	agus	agus	CONJ	Coord	_	4	cc	_	_
-6	dúshlán	dúshlán	NOUN	Noun	Case=Com|Gender=Masc|Number=Sing	4	conj	_	_
-7	céadach	céadach	ADJ	Adj	Case=Com|Gender=Masc|Number=Sing	6	amod	_	_
-8	na	na	DET	Art	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
-9	seacht	seacht	NUM	Num	NumType=Card	10	nummod	_	_
-10	dtúr	túr	NOUN	Noun	Case=Gen|Form=Ecl|Gender=Masc|NounType=Weak|Number=Plur	4	compound	_	_
-11	.	.	PUNCT	.	_	2	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 1 cop	color:blue
-1	B'	is	VERB	Cop	Form=VF|Tense=Past|VerbForm=Cop	2	cop	_	_
-2	in	i	ADP	Simp	_	0	root	_	_
-3	é	é	PRON	Pers	Gender=Masc|Number=Sing|Person=3	2	nmod	_	_
+1	Is	is	AUX	Cop	Tense=Pres|VerbForm=Cop	2	cop	_	_
+2	ag	ag	ADP	Simp	_	3	case	_	_
+3	léamh	léamh	NOUN	Noun	VerbForm=Vnoun	0	root	_	_
 4	an	an	DET	Art	Definite=Def|Number=Sing|PronType=Art	5	det	_	_
-5	uair	uair	NOUN	Noun	Case=Com|Definite=Def|Gender=Fem|Number=Sing	2	nsubj	_	_
-6	a	a	PART	Vb	PartType=Vb|PronType=Rel	7	nsubj	_	_
-7	baineadh	bain	VERB	VTI	Mood=Ind|Tense=Past|Voice=Auto	5	acl:relcl	_	_
-8	an	an	DET	Art	Definite=Def|Number=Sing|PronType=Art	9	det	_	_
-9	gheit	geit	NOUN	Noun	Case=Com|Definite=Def|Gender=Fem|Number=Sing	7	dobj	_	_
-10	as	as	ADP	Simp	_	11	case	_	_
-11	Pádhraic	Pádhraic	PROPN	Noun	Case=Com|Gender=Masc|Number=Sing	7	nmod	_	_
-12	.	.	PUNCT	.	_	2	punct	_	_
+5	nuachtáin	nuachtán	NOUN	Noun	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	3	obj	_	_
+6	a	a	PART	Vb	PartType=Vb|PronType=Rel	7	mark:prt	_	_
+7	bhí	bí	VERB	PastInd	Form=Len|Mood=Ind|Tense=Past	3	csubj:cleft	_	_
+8	seisean	seisean	PRON	Pers	Gender=Masc|Number=Sing|Person=3|PronType=Emp	7	nsubj	_	SpaceAfter=No
+9	.	.	PUNCT	.	_	3	punct	_	_
 
 ~~~
 

@@ -6,30 +6,48 @@
 
 This relation is universal.
 
-73 nodes (0%) are attached to their parents as `compound`.
+157 nodes (0%) are attached to their parents as `compound`.
 
-38 instances of `compound` (52%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.26027397260274.
+152 instances of `compound` (97%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.66242038216561.
 
-The following 12 pairs of parts of speech are connected with `compound`: [lv-pos/NUM]()-[lv-pos/NUM]() (38; 52% instances), [lv-pos/NUM]()-[lv-pos/NOUN]() (16; 22% instances), [lv-pos/PRON]()-[lv-pos/PRON]() (8; 11% instances), [lv-pos/ADV]()-[lv-pos/SCONJ]() (3; 4% instances), [lv-pos/ADV]()-[lv-pos/ADV]() (1; 1% instances), [lv-pos/NOUN]()-[lv-pos/PRON]() (1; 1% instances), [lv-pos/NUM]()-[lv-pos/ADJ]() (1; 1% instances), [lv-pos/NUM]()-[lv-pos/PRON]() (1; 1% instances), [lv-pos/PRON]()-[lv-pos/NOUN]() (1; 1% instances), [lv-pos/PRON]()-[lv-pos/NUM]() (1; 1% instances), [lv-pos/PRON]()-[lv-pos/PROPN]() (1; 1% instances), [lv-pos/PRON]()-[lv-pos/VERB]() (1; 1% instances).
+The following 19 pairs of parts of speech are connected with `compound`: [lv-pos/PRON]()-[lv-pos/PRON]() (53; 34% instances), [lv-pos/PRON]()-[lv-pos/ADJ]() (25; 16% instances), [lv-pos/NUM]()-[lv-pos/NOUN]() (18; 11% instances), [lv-pos/NOUN]()-[lv-pos/NOUN]() (10; 6% instances), [lv-pos/ADV]()-[lv-pos/ADV]() (8; 5% instances), [lv-pos/PRON]()-[lv-pos/NOUN]() (8; 5% instances), [lv-pos/PRON]()-[lv-pos/VERB]() (8; 5% instances), [lv-pos/NUM]()-[lv-pos/NUM]() (7; 4% instances), [lv-pos/NUM]()-[lv-pos/PRON]() (4; 3% instances), [lv-pos/ADV]()-[lv-pos/SCONJ]() (3; 2% instances), [lv-pos/PRON]()-[lv-pos/NUM]() (3; 2% instances), [lv-pos/PROPN]()-[lv-pos/PRON]() (3; 2% instances), [lv-pos/ADJ]()-[lv-pos/NOUN]() (1; 1% instances), [lv-pos/ADV]()-[lv-pos/PRON]() (1; 1% instances), [lv-pos/NOUN]()-[lv-pos/PRON]() (1; 1% instances), [lv-pos/NUM]()-[lv-pos/ADJ]() (1; 1% instances), [lv-pos/PRON]()-[lv-pos/ADP]() (1; 1% instances), [lv-pos/PRON]()-[lv-pos/PART]() (1; 1% instances), [lv-pos/PRON]()-[lv-pos/PROPN]() (1; 1% instances).
 
 
 ~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 4 compound	color:blue
+1	–	-	PUNCT	zd	_	5	punct	_	_
+2	„	"	PUNCT	zq	_	5	punct	_	SpaceAfter=No
+3	Mēs	mēs	PRON	pp10pnn	Case=Nom|Number=Plur|Person=1|PronType=Prs	5	nsubj	_	_
+4	visi	viss	PRON	pg0mpnn	Case=Nom|Gender=Masc|Number=Plur|PronType=Tot	3	compound	_	_
+5	sēžam	sēdēt	VERB	vmnipi11pan	Evident=Fh,Nfh|Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+6	!	!	PUNCT	zs	_	5	punct	_	SpaceAfter=No
+7	"	"	PUNCT	zq	_	5	punct	_	_
+
+~~~
+
+
+~~~ conllu
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
-# visual-style 8 6 compound	color:blue
-1	Riska	risks	NOUN	ncmsg1	Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	_
-2	kapitāla	kapitāls	NOUN	ncmsg1	Case=Gen|Gender=Masc|Number=Sing	3	nmod	_	_
-3	fonda	fonds	NOUN	ncmsg1	Case=Gen|Gender=Masc|Number=Sing	4	nmod	_	_
-4	pamatkapitāls	pamatkapitāls	NOUN	ncmsn1	Case=Nom|Gender=Masc|Number=Sing	9	nsubj	_	_
-5	ir	būt	VERB	vcnipii30an	Mood=Ind|Negative=Neg|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	aux	_	_
-6	3	3	NUM	xn_SPLIT_FIRST	NumType=Card	8	compound	_	_
-7	162	162	NUM	xn_SPLIT_PART	NumType=Card	8	compound	_	_
-8	618	618	NUM	xn_SPLIT_PART	NumType=Card	9	nummod	_	_
-9	lati	lats	NOUN	ncmpn1	Case=Nom|Gender=Masc|Number=Plur	0	root	_	SpaceAfter=No
-10	.	.	PUNCT	zs	_	9	punct	_	_
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 8 compound	color:blue
+1	Gados	gads	NOUN	ncmpl1	Case=Loc|Gender=Masc|Number=Plur	2	obl	_	_
+2	jaunāki	jauns	ADJ	afmpnnc	Case=Nom|Degree=Cmp|Gender=Masc|Number=Plur	0	root	_	SpaceAfter=No
+3	,	,	PUNCT	zc	_	7	punct	_	_
+4	no	no	ADP	spsgy	_	5	case	_	_
+5	skata	skats	NOUN	ncmsg1	Case=Gen|Gender=Masc|Number=Sing	7	obl	_	_
+6	abi	abi	PRON	pg0mpnn	Case=Nom|Gender=Masc|Number=Plur|PronType=Tot	2	nsubj	_	_
+7	tādi	tāds	PRON	pd0mpnn	Case=Nom|Gender=Masc|Number=Plur|PronType=Dem	2	conj	_	_
+8	parasti	parasts	ADJ	afmpnnp	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	7	compound	_	SpaceAfter=No
+9	,	,	PUNCT	zc	_	10	punct	_	_
+10	neuzkrītoši	neuzkrītošs	ADJ	afmpnnp	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Act	2	conj	_	SpaceAfter=No
+11	.	.	PUNCT	zs	_	2	punct	_	_
 
 ~~~
 
@@ -40,10 +58,10 @@ The following 12 pairs of parts of speech are connected with `compound`: [lv-pos
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 9 compound	color:blue
-1	A/s	a/s	SYM	y	_	3	nmod	_	_
+1	A/s	a/s	SYM	y	Abbr=Yes	3	nmod	_	_
 2	Latvijas	Latvija	PROPN	npfsg4	Case=Gen|Gender=Fem|Number=Sing	3	nmod	_	_
 3	Maiznieks	maiznieks	NOUN	ncmsn1	Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	_
-4	ir	būt	VERB	vcnipii30an	Mood=Ind|Negative=Neg|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	aux	_	_
+4	ir	būt	VERB	vcnipii30an	Evident=Fh,Nfh|Mood=Ind|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	5	cop	_	_
 5	viens	viens	NUM	mcsmsnv	Case=Nom|Gender=Masc|Number=Sing|NumType=Card	0	root	_	_
 6	no	no	ADP	sppdy	_	9	case	_	_
 7	maizes	maize	NOUN	ncfsg5	Case=Gen|Gender=Fem|Number=Sing	8	nmod	_	_
@@ -51,34 +69,6 @@ The following 12 pairs of parts of speech are connected with `compound`: [lv-pos
 9	līderiem	līderis	NOUN	ncmpd2	Case=Dat|Gender=Masc|Number=Plur	5	compound	_	_
 10	Latvijā	Latvija	PROPN	npfsl4	Case=Loc|Gender=Fem|Number=Sing	9	acl	_	SpaceAfter=No
 11	.	.	PUNCT	zs	_	5	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 15	bgColor:blue
-# visual-style 15	fgColor:white
-# visual-style 13	bgColor:blue
-# visual-style 13	fgColor:white
-# visual-style 13 15 compound	color:blue
-1	Mēs	mēs	PRON	pp10pnn	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	_
-2	zinām	zināt	VERB	vmnipt31pan	Mood=Ind|Negative=Neg|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
-3	,	,	PUNCT	zc	_	9	punct	_	_
-4	ka	ka	SCONJ	css	_	9	mark	_	_
-5	ar	ar	ADP	spsan	_	6	case	_	_
-6	laiku	laiks	NOUN	ncmsa1	Case=Acc|Gender=Masc|Number=Sing	9	nmod	_	_
-7	tādā	tāda	DET	pd0fsln	Case=Loc|Gender=Fem|Number=Sing|PronType=Dem	8	det	_	_
-8	ēkā	ēka	NOUN	ncfsl4	Case=Loc|Gender=Fem|Number=Sing	9	nmod	_	_
-9	uzrodas	uzrasties	VERB	vmyipi130an	Mood=Ind|Negative=Neg|Person=3|Reflex=Yes|Tense=Pres|VerbForm=Fin|Voice=Act	2	ccomp	_	_
-10	problēmas	problēma	NOUN	ncfpn4	Case=Nom|Gender=Fem|Number=Plur	9	nsubj	_	SpaceAfter=No
-11	,	,	PUNCT	zc	_	17	punct	_	_
-12	kuras	kura	SCONJ	pr0fpnn	Case=Nom|Gender=Fem|Number=Plur|PronType=Rel	17	iobj	_	_
-13	neviens	neviens	PRON	pi0msny	Case=Nom|Gender=Masc|Number=Sing|PronType=Ind,Neg	17	nsubj	_	_
-14	no	no	ADP	sppdy	_	15	case	_	_
-15	mums	mēs	PRON	pp10pdn	Case=Dat|Number=Plur|Person=1|PronType=Prs	13	compound	_	_
-16	nav	nebūt	VERB	vcnipii30ay	Mood=Ind|Negative=Pos|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	17	aux	_	_
-17	gaidījis	gaidīt	VERB	vmnpdmsnasn	Aspect=Perf|Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	10	acl	_	SpaceAfter=No
-18	.	.	PUNCT	zs	_	2	punct	_	_
 
 ~~~
 

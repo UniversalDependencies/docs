@@ -7,12 +7,12 @@
 This relation is universal.
 There are 1 language-specific subtypes of `compound`: [compound:prt]().
 
-1372 nodes (0%) are attached to their parents as `compound`.
+1206 nodes (0%) are attached to their parents as `compound`.
 
-1290 instances of `compound` (94%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.03644314868805.
+1118 instances of `compound` (93%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.97512437810945.
 
-The following 32 pairs of parts of speech are connected with `compound`: [de-pos/NOUN]()-[de-pos/NOUN]() (866; 63% instances), [de-pos/PROPN]()-[de-pos/NOUN]() (206; 15% instances), [de-pos/ADJ]()-[de-pos/ADJ]() (100; 7% instances), [de-pos/NOUN]()-[de-pos/NUM]() (36; 3% instances), [de-pos/NUM]()-[de-pos/NUM]() (28; 2% instances), [de-pos/ADJ]()-[de-pos/NOUN]() (18; 1% instances), [de-pos/NOUN]()-[de-pos/ADJ]() (16; 1% instances), [de-pos/X]()-[de-pos/X]() (15; 1% instances), [de-pos/NOUN]()-[de-pos/X]() (12; 1% instances), [de-pos/ADJ]()-[de-pos/NUM]() (11; 1% instances), [de-pos/ADP]()-[de-pos/NOUN]() (10; 1% instances), [de-pos/NUM]()-[de-pos/NOUN]() (7; 1% instances), [de-pos/PRON]()-[de-pos/NOUN]() (6; 0% instances), [de-pos/VERB]()-[de-pos/NOUN]() (5; 0% instances), [de-pos/NOUN]()-[de-pos/ADP]() (4; 0% instances), [de-pos/ADV]()-[de-pos/NOUN]() (3; 0% instances), [de-pos/NOUN]()-[de-pos/CONJ]() (3; 0% instances), [de-pos/NUM]()-[de-pos/X]() (3; 0% instances), [de-pos/PROPN]()-[de-pos/CONJ]() (3; 0% instances), [de-pos/ADJ]()-[de-pos/X]() (2; 0% instances), [de-pos/NOUN]()-[de-pos/DET]() (2; 0% instances), [de-pos/PRON]()-[de-pos/PRON]() (2; 0% instances), [de-pos/PROPN]()-[de-pos/ADJ]() (2; 0% instances), [de-pos/PROPN]()-[de-pos/ADP]() (2; 0% instances), [de-pos/PROPN]()-[de-pos/NUM]() (2; 0% instances), [de-pos/X]()-[de-pos/NOUN]() (2; 0% instances), [de-pos/ADV]()-[de-pos/ADV]() (1; 0% instances), [de-pos/NOUN]()-[de-pos/PRON]() (1; 0% instances), [de-pos/PROPN]()-[de-pos/DET]() (1; 0% instances), [de-pos/PROPN]()-[de-pos/PUNCT]() (1; 0% instances), [de-pos/PROPN]()-[de-pos/X]() (1; 0% instances), [de-pos/X]()-[de-pos/NUM]() (1; 0% instances).
+The following 27 pairs of parts of speech are connected with `compound`: [de-pos/NOUN]()-[de-pos/NOUN]() (772; 64% instances), [de-pos/PROPN]()-[de-pos/NOUN]() (197; 16% instances), [de-pos/ADJ]()-[de-pos/ADJ]() (95; 8% instances), [de-pos/NOUN]()-[de-pos/NUM]() (27; 2% instances), [de-pos/NUM]()-[de-pos/NUM]() (18; 1% instances), [de-pos/ADJ]()-[de-pos/NOUN]() (15; 1% instances), [de-pos/X]()-[de-pos/X]() (14; 1% instances), [de-pos/ADJ]()-[de-pos/NUM]() (11; 1% instances), [de-pos/NOUN]()-[de-pos/ADJ]() (9; 1% instances), [de-pos/NOUN]()-[de-pos/X]() (9; 1% instances), [de-pos/ADP]()-[de-pos/NOUN]() (6; 0% instances), [de-pos/PRON]()-[de-pos/NOUN]() (6; 0% instances), [de-pos/NUM]()-[de-pos/NOUN]() (5; 0% instances), [de-pos/VERB]()-[de-pos/NOUN]() (4; 0% instances), [de-pos/NUM]()-[de-pos/X]() (3; 0% instances), [de-pos/NOUN]()-[de-pos/ADP]() (2; 0% instances), [de-pos/PRON]()-[de-pos/PRON]() (2; 0% instances), [de-pos/PROPN]()-[de-pos/ADJ]() (2; 0% instances), [de-pos/ADJ]()-[de-pos/X]() (1; 0% instances), [de-pos/ADV]()-[de-pos/NOUN]() (1; 0% instances), [de-pos/NOUN]()-[de-pos/CCONJ]() (1; 0% instances), [de-pos/NOUN]()-[de-pos/PRON]() (1; 0% instances), [de-pos/NOUN]()-[de-pos/PROPN]() (1; 0% instances), [de-pos/PROPN]()-[de-pos/PUNCT]() (1; 0% instances), [de-pos/PROPN]()-[de-pos/X]() (1; 0% instances), [de-pos/X]()-[de-pos/NOUN]() (1; 0% instances), [de-pos/X]()-[de-pos/NUM]() (1; 0% instances).
 
 
 ~~~ conllu
@@ -28,7 +28,7 @@ The following 32 pairs of parts of speech are connected with `compound`: [de-pos
 5	Nummer	Nummer	NOUN	NN	_	6	compound	_	_
 6	EINS	EINS	NOUN	VVFIN	_	0	root	_	_
 7	in	in	ADP	APPR	_	8	case	_	_
-8	Dresden	Dresden	PROPN	NE	_	6	nmod	_	_
+8	Dresden	Dresden	PROPN	NE	_	6	nmod	_	SpaceAfter=No
 9	.	.	PUNCT	$.	_	6	punct	_	_
 
 ~~~
@@ -46,8 +46,8 @@ The following 32 pairs of parts of speech are connected with `compound`: [de-pos
 4	wirklich	wirklich	ADV	ADJD	_	5	advmod	_	_
 5	hervorragend	hervorragend	ADV	ADJD	_	8	advmod	_	_
 6	mit	mit	ADP	APPR	_	7	case	_	_
-7	mir	ich	PRON	PPER	Case=Dat|Number=Sing|Person=1|PronType=Prs	8	nmod	_	_
-8	umgegangen	umgehen	VERB	VVPP	VerbForm=Part	0	root	_	_
+7	mir	ich	PRON	PPER	Case=Dat|Number=Sing|Person=1|PronType=Prs	8	obl	_	_
+8	umgegangen	umgehen	VERB	VVPP	VerbForm=Part	0	root	_	SpaceAfter=No
 9	.	.	PUNCT	$.	_	8	punct	_	_
 
 ~~~
@@ -66,7 +66,7 @@ The following 32 pairs of parts of speech are connected with `compound`: [de-pos
 5	-	-	PUNCT	$(	_	6	punct	_	_
 6	gerandeter	gerandeter	ADJ	ADJD	Degree=Pos	8	amod	_	_
 7	silberner	silbern	ADJ	ADJA	Degree=Cmp,Pos	8	amod	_	_
-8	Schild	Schild	NOUN	NN	_	0	root	_	_
+8	Schild	Schild	NOUN	NN	_	0	root	_	SpaceAfter=No
 9	.	.	PUNCT	$.	_	8	punct	_	_
 
 ~~~

@@ -16,7 +16,7 @@ The feature is used with 5 part-of-speech tags: [sa-pos/VERB]() (239; 20% instan
 
 239 [sa-pos/VERB]() tokens (100% of all `VERB` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="Number.html">Number</a>=Sing</tt> (184; 77%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (180; 75%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (180; 75%), <tt><a href="Voice.html">Voice</a>=Act</tt> (120; 50%).
+The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="Number.html">Number</a>=Sing</tt> (184; 77%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (180; 75%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (180; 75%), <tt><a href="Voice.html">Voice</a>=Act</tt> (120; 50%).
 
 `VERB` tokens may have the following values of `VerbForm`:
 
@@ -43,7 +43,7 @@ The most frequent other feature values with which `VERB` and `VerbForm` co-occur
 
 13 [sa-pos/NOUN]() tokens (3% of all `NOUN` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `NOUN` and `VerbForm` co-occurred: <tt><a href="Number.html">Number</a>=Sing</tt> (9; 69%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (7; 54%), <tt><a href="Case.html">Case</a>=Nom</tt> (7; 54%).
+The most frequent other feature values with which `NOUN` and `VerbForm` co-occurred: <tt><a href="Number.html">Number</a>=Sing</tt> (9; 69%), <tt><a href="Case.html">Case</a>=Nom</tt> (7; 54%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (7; 54%).
 
 `NOUN` tokens may have the following values of `VerbForm`:
 
@@ -57,7 +57,7 @@ The most frequent other feature values with which `NOUN` and `VerbForm` co-occur
 
 6 [sa-pos/X]() tokens (30% of all `X` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `X` and `VerbForm` co-occurred: <tt><a href="Person.html">Person</a>=EMPTY</tt> (6; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (6; 100%), <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (6; 100%), <tt><a href="Case.html">Case</a>=Nom</tt> (5; 83%).
+The most frequent other feature values with which `X` and `VerbForm` co-occurred: <tt><a href="Number.html">Number</a>=Sing</tt> (6; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (6; 100%), <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (6; 100%), <tt><a href="Case.html">Case</a>=Nom</tt> (5; 83%).
 
 `X` tokens may have the following values of `VerbForm`:
 
@@ -65,26 +65,26 @@ The most frequent other feature values with which `X` and `VerbForm` co-occurred
 * `Part` (3; 50% of non-empty `VerbForm`): अवत्र्णः, अवधार्य, नैर्गुण्यम्
 * `EMPTY` (14): आप्नोति, आह, कृतघ्नः, तौ, भवति, रक्षापुरुषान्, रथानाम्, राजानम्, वदति, विद्वान्
 
+### `AUX`
+
+1 [sa-pos/AUX]() tokens (100% of all `AUX` tokens) have a non-empty value of `VerbForm`.
+
+The most frequent other feature values with which `AUX` and `VerbForm` co-occurred: <tt><a href="Mood.html">Mood</a>=Ind</tt> (1; 100%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (1; 100%), <tt><a href="Person.html">Person</a>=3</tt> (1; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (1; 100%), <tt><a href="Voice.html">Voice</a>=Act</tt> (1; 100%).
+
+`AUX` tokens may have the following values of `VerbForm`:
+
+* `Fin` (1; 100% of non-empty `VerbForm`): अस्ति
+
 ### `ADJ`
 
 1 [sa-pos/ADJ]() tokens (2% of all `ADJ` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `ADJ` and `VerbForm` co-occurred: <tt><a href="Number.html">Number</a>=Sing</tt> (1; 100%), <tt><a href="Case.html">Case</a>=Nom</tt> (1; 100%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (1; 100%).
+The most frequent other feature values with which `ADJ` and `VerbForm` co-occurred: <tt><a href="Number.html">Number</a>=Sing</tt> (1; 100%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (1; 100%), <tt><a href="Case.html">Case</a>=Nom</tt> (1; 100%).
 
 `ADJ` tokens may have the following values of `VerbForm`:
 
 * `Part` (1; 100% of non-empty `VerbForm`): वर्धमानो
 * `EMPTY` (46): महान्, गम्भीर, सकल, अगामीनि, अतिरस्कृतः, अप्राप्तकालं, असम्भाव्याम्, आद्यः, उचित, उत्पन्नौ
-
-### `AUX`
-
-1 [sa-pos/AUX]() tokens (100% of all `AUX` tokens) have a non-empty value of `VerbForm`.
-
-The most frequent other feature values with which `AUX` and `VerbForm` co-occurred: <tt><a href="Voice.html">Voice</a>=Act</tt> (1; 100%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (1; 100%), <tt><a href="Person.html">Person</a>=3</tt> (1; 100%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (1; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (1; 100%).
-
-`AUX` tokens may have the following values of `VerbForm`:
-
-* `Fin` (1; 100% of non-empty `VerbForm`): अस्ति
 
 ## Relations with Agreement in `VerbForm`
 

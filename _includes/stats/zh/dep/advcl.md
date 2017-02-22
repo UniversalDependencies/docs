@@ -6,12 +6,12 @@
 
 This relation is universal.
 
-160 nodes (0%) are attached to their parents as `advcl`.
+145 nodes (0%) are attached to their parents as `advcl`.
 
-160 instances of `advcl` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 8.0875.
+145 instances of `advcl` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 8.16551724137931.
 
-The following 12 pairs of parts of speech are connected with `advcl`: [zh-pos/ADJ]()-[zh-pos/VERB]() (54; 34% instances), [zh-pos/ADJ]()-[zh-pos/ADJ]() (53; 33% instances), [zh-pos/NOUN]()-[zh-pos/VERB]() (22; 14% instances), [zh-pos/NOUN]()-[zh-pos/NOUN]() (9; 6% instances), [zh-pos/ADJ]()-[zh-pos/NOUN]() (8; 5% instances), [zh-pos/ADP]()-[zh-pos/VERB]() (6; 4% instances), [zh-pos/ADV]()-[zh-pos/VERB]() (3; 2% instances), [zh-pos/ADJ]()-[zh-pos/ADV]() (1; 1% instances), [zh-pos/ADP]()-[zh-pos/NOUN]() (1; 1% instances), [zh-pos/NOUN]()-[zh-pos/ADJ]() (1; 1% instances), [zh-pos/PART]()-[zh-pos/VERB]() (1; 1% instances), [zh-pos/VERB]()-[zh-pos/VERB]() (1; 1% instances).
+The following 12 pairs of parts of speech are connected with `advcl`: [zh-pos/ADJ]()-[zh-pos/VERB]() (51; 35% instances), [zh-pos/ADJ]()-[zh-pos/ADJ]() (45; 31% instances), [zh-pos/NOUN]()-[zh-pos/VERB]() (20; 14% instances), [zh-pos/ADJ]()-[zh-pos/NOUN]() (8; 6% instances), [zh-pos/NOUN]()-[zh-pos/NOUN]() (8; 6% instances), [zh-pos/ADP]()-[zh-pos/VERB]() (6; 4% instances), [zh-pos/ADV]()-[zh-pos/VERB]() (2; 1% instances), [zh-pos/ADJ]()-[zh-pos/ADV]() (1; 1% instances), [zh-pos/ADP]()-[zh-pos/NOUN]() (1; 1% instances), [zh-pos/NOUN]()-[zh-pos/ADJ]() (1; 1% instances), [zh-pos/PART]()-[zh-pos/VERB]() (1; 1% instances), [zh-pos/VERB]()-[zh-pos/VERB]() (1; 1% instances).
 
 
 ~~~ conllu
@@ -20,28 +20,28 @@ The following 12 pairs of parts of speech are connected with `advcl`: [zh-pos/AD
 # visual-style 20	bgColor:blue
 # visual-style 20	fgColor:white
 # visual-style 20 3 advcl	color:blue
-1	一般	_	ADJ	JJ	_	3	advmod	_	_
-2	來	_	ADV	RB	_	3	mark	_	_
-3	說	_	VERB	VV	_	20	advcl	_	_
-4	,	_	PUNCT	,	_	20	punct	_	_
-5	同	_	DET	DT	_	7	det	_	_
-6	一	_	NUM	CD	_	7	nummod	_	_
-7	款	_	NOUN	NNB	_	8	nmod	_	_
-8	間格	_	NOUN	NN	_	12	det	_	_
-9	的	_	PART	DEC	Case=Gen	8	case:dec	_	_
-10	單	_	NUM	CD	_	11	nummod	_	_
-11	邊	_	NOUN	NN	_	12	nmod	_	_
-12	單位	_	NOUN	NN	_	20	nsubj	_	_
-13	比	_	ADP	IN	_	18	case	_	_
-14	非	_	VERB	VC	_	16	cop	_	_
-15	單	_	NUM	CD	_	16	nummod	_	_
-16	邊	_	NOUN	NN	_	18	acl:relcl	_	_
-17	的	_	PART	DEC	Case=Rel	16	acl:relcl	_	_
-18	呎價	_	NOUN	NN	_	20	nmod	_	_
-19	約	_	ADV	RB	_	20	advmod	_	_
-20	貴	_	ADJ	JJ	_	0	root	_	_
-21	20%	_	NUM	CD	_	20	advmod	_	_
-22	.	_	PUNCT	.	_	20	punct	_	_
+1	一般	一般	ADJ	JJ	_	3	advmod	_	SpaceAfter=No
+2	來	來	ADV	RB	_	3	mark	_	SpaceAfter=No
+3	說	說	VERB	VV	_	20	advcl	_	SpaceAfter=No
+4	,	,	PUNCT	,	_	20	punct	_	SpaceAfter=No
+5	同	同	DET	DT	_	7	det	_	SpaceAfter=No
+6	一	一	NUM	CD	NumType=Card	7	nummod	_	SpaceAfter=No
+7	款	款	NOUN	NNB	_	8	nmod	_	SpaceAfter=No
+8	間格	間格	NOUN	NN	_	12	det	_	SpaceAfter=No
+9	的	的	PART	DEC	Case=Gen	8	case:dec	_	SpaceAfter=No
+10	單	單	NUM	CD	NumType=Card	11	nummod	_	SpaceAfter=No
+11	邊	邊	NOUN	NN	_	12	nmod	_	SpaceAfter=No
+12	單位	單位	NOUN	NN	_	20	nsubj	_	SpaceAfter=No
+13	比	比	ADP	IN	_	18	case	_	SpaceAfter=No
+14	非	非	AUX	VC	_	16	cop	_	SpaceAfter=No
+15	單	單	NUM	CD	NumType=Card	16	nummod	_	SpaceAfter=No
+16	邊	邊	NOUN	NN	_	18	acl:relcl	_	SpaceAfter=No
+17	的	的	PART	DEC	_	16	mark:relcl	_	SpaceAfter=No
+18	呎價	呎價	NOUN	NN	_	20	nmod	_	SpaceAfter=No
+19	約	約	ADV	RB	_	20	advmod	_	SpaceAfter=No
+20	貴	貴	ADJ	JJ	_	0	root	_	SpaceAfter=No
+21	20%	20%	NUM	CD	NumType=Card	20	advmod	_	SpaceAfter=No
+22	.	.	PUNCT	.	_	20	punct	_	SpaceAfter=No
 
 ~~~
 
@@ -52,22 +52,22 @@ The following 12 pairs of parts of speech are connected with `advcl`: [zh-pos/AD
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 4 advcl	color:blue
-1	其	_	PRON	PRP	Person=3	3	nmod	_	_
-2	散文	_	NOUN	NN	_	3	nmod	_	_
-3	語言	_	NOUN	NN	_	9	nsubj	_	_
-4	簡潔	_	ADJ	JJ	_	5	advcl	_	_
-5	凝練	_	ADJ	JJ	_	9	acl	_	_
-6	,	_	PUNCT	,	_	9	punct	_	_
-7	樸實無華	_	ADJ	JJ	_	9	acl	_	_
-8	,	_	PUNCT	,	_	9	punct	_	_
-9	體現	_	VERB	VV	_	0	root	_	_
-10	了	_	PART	AS	Aspect=Perf	9	case:aspect	_	_
-11	和	_	ADP	IN	_	12	case	_	_
-12	西塞羅	_	PROPN	NNP	_	13	nmod	_	_
-13	迥異	_	ADJ	JJ	_	15	amod	_	_
-14	的	_	PART	DEC	Case=Rel	13	acl:relcl	_	_
-15	風格	_	NOUN	NN	_	9	dobj	_	_
-16	.	_	PUNCT	.	_	9	punct	_	_
+1	其	其	PRON	PRP	Person=3	3	nmod	_	SpaceAfter=No
+2	散文	散文	NOUN	NN	_	3	nmod	_	SpaceAfter=No
+3	語言	語言	NOUN	NN	_	9	nsubj	_	SpaceAfter=No
+4	簡潔	簡潔	ADJ	JJ	_	5	advcl	_	SpaceAfter=No
+5	凝練	凝練	ADJ	JJ	_	9	acl	_	SpaceAfter=No
+6	,	,	PUNCT	,	_	9	punct	_	SpaceAfter=No
+7	樸實無華	樸實無華	ADJ	JJ	_	9	acl	_	SpaceAfter=No
+8	,	,	PUNCT	,	_	9	punct	_	SpaceAfter=No
+9	體現	體現	VERB	VV	_	0	root	_	SpaceAfter=No
+10	了	了	PART	AS	Aspect=Perf	9	case:aspect	_	SpaceAfter=No
+11	和	和	ADP	IN	_	12	case	_	SpaceAfter=No
+12	西塞羅	西塞羅	PROPN	NNP	_	13	nmod	_	SpaceAfter=No
+13	迥異	迥異	ADJ	JJ	_	15	amod	_	SpaceAfter=No
+14	的	的	PART	DEC	_	13	mark:relcl	_	SpaceAfter=No
+15	風格	風格	NOUN	NN	_	9	obj	_	SpaceAfter=No
+16	.	.	PUNCT	.	_	9	punct	_	SpaceAfter=No
 
 ~~~
 
@@ -78,27 +78,27 @@ The following 12 pairs of parts of speech are connected with `advcl`: [zh-pos/AD
 # visual-style 20	bgColor:blue
 # visual-style 20	fgColor:white
 # visual-style 20 6 advcl	color:blue
-1	半	_	NUM	CD	_	2	nummod	_	_
-2	腰	_	NOUN	NN	_	3	nmod	_	_
-3	座椅	_	NOUN	NN	_	20	nsubj	_	_
-4	,	_	PUNCT	,	_	20	punct	_	_
-5	亦	_	ADV	RB	_	6	mark	_	_
-6	稱	_	VERB	VV	_	20	advcl	_	_
-7	半	_	NUM	CD	_	8	nummod	_	_
-8	腰	_	NOUN	NN	_	9	case:suff	_	_
-9	位	_	PART	SFN	_	6	dobj	_	_
-10	、	_	PUNCT	EC	_	9	punct	_	_
-11	半	_	NUM	CD	_	12	nummod	_	_
-12	截	_	NOUN	NN	_	13	nmod	_	_
-13	座椅	_	NOUN	NN	_	9	conj	_	_
-14	,	_	PUNCT	,	_	20	punct	_	_
-15	鐵路	_	NOUN	NN	_	17	nmod	_	_
-16	車輛	_	NOUN	NN	_	17	nmod	_	_
-17	座位	_	NOUN	NN	_	20	det	_	_
-18	的	_	PART	DEC	Case=Gen	17	case:dec	_	_
-19	一	_	NUM	CD	_	20	nummod	_	_
-20	種	_	NOUN	NNB	_	0	root	_	_
-21	.	_	PUNCT	.	_	20	punct	_	_
+1	半	半	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No
+2	腰	腰	NOUN	NN	_	3	nmod	_	SpaceAfter=No
+3	座椅	座椅	NOUN	NN	_	20	nsubj	_	SpaceAfter=No
+4	,	,	PUNCT	,	_	20	punct	_	SpaceAfter=No
+5	亦	亦	ADV	RB	_	6	mark	_	SpaceAfter=No
+6	稱	稱	VERB	VV	_	20	advcl	_	SpaceAfter=No
+7	半	半	NUM	CD	NumType=Card	8	nummod	_	SpaceAfter=No
+8	腰	腰	NOUN	NN	_	9	case:suff	_	SpaceAfter=No
+9	位	位	PART	SFN	_	6	obj	_	SpaceAfter=No
+10	、	、	PUNCT	EC	_	13	punct	_	SpaceAfter=No
+11	半	半	NUM	CD	NumType=Card	12	nummod	_	SpaceAfter=No
+12	截	截	NOUN	NN	_	13	nmod	_	SpaceAfter=No
+13	座椅	座椅	NOUN	NN	_	9	conj	_	SpaceAfter=No
+14	,	,	PUNCT	,	_	20	punct	_	SpaceAfter=No
+15	鐵路	鐵路	NOUN	NN	_	17	nmod	_	SpaceAfter=No
+16	車輛	車輛	NOUN	NN	_	17	nmod	_	SpaceAfter=No
+17	座位	座位	NOUN	NN	_	20	det	_	SpaceAfter=No
+18	的	的	PART	DEC	Case=Gen	17	case:dec	_	SpaceAfter=No
+19	一	一	NUM	CD	NumType=Card	20	nummod	_	SpaceAfter=No
+20	種	種	NOUN	NNB	_	0	root	_	SpaceAfter=No
+21	.	.	PUNCT	.	_	20	punct	_	SpaceAfter=No
 
 ~~~
 

@@ -7,12 +7,12 @@
 This relation is a language-specific subtype of [expl]().
 There are also 1 other language-specific subtypes of `expl`: [expl:pass]().
 
-420 nodes (0%) are attached to their parents as `expl:impers`.
+403 nodes (0%) are attached to their parents as `expl:impers`.
 
-395 instances of `expl:impers` (94%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.4547619047619.
+378 instances of `expl:impers` (94%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.46898263027295.
 
-The following 4 pairs of parts of speech are connected with `expl:impers`: [it-pos/VERB]()-[it-pos/PRON]() (413; 98% instances), [it-pos/AUX]()-[it-pos/PRON]() (5; 1% instances), [it-pos/ADJ]()-[it-pos/PRON]() (1; 0% instances), [it-pos/ADP]()-[it-pos/PRON]() (1; 0% instances).
+The following 5 pairs of parts of speech are connected with `expl:impers`: [it-pos/VERB]()-[it-pos/PRON]() (398; 99% instances), [it-pos/AUX]()-[it-pos/PRON]() (2; 0% instances), [it-pos/ADJ]()-[it-pos/PRON]() (1; 0% instances), [it-pos/ADP]()-[it-pos/PRON]() (1; 0% instances), [it-pos/PROPN]()-[it-pos/PRON]() (1; 0% instances).
 
 
 ~~~ conllu
@@ -22,11 +22,11 @@ The following 4 pairs of parts of speech are connected with `expl:impers`: [it-p
 # visual-style 7	fgColor:white
 # visual-style 7 6 expl:impers	color:blue
 1	È	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	_
-2	stata	essere	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	3	cop	_	_
+2	stata	essere	AUX	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	3	cop	_	_
 3	quello	quello	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	0	root	_	_
-4	che	che	PRON	PR	PronType=Rel	7	dobj	_	_
-5	ci	ci	PRON	PC	PronType=Clit	7	expl	_	_
-6	si	si	PRON	PC	Person=3|PronType=Clit	7	expl:impers	_	_
+4	che	che	PRON	PR	PronType=Rel	7	obj	_	_
+5	ci	ci	PRON	PC	Clitic=Yes|PronType=Prs	7	expl	_	_
+6	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	7	expl:impers	_	_
 7	attendeva	attendere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	3	acl:relcl	_	SpaceAfter=No
 8	:	:	PUNCT	FC	_	3	punct	_	_
 
@@ -39,45 +39,91 @@ The following 4 pairs of parts of speech are connected with `expl:impers`: [it-p
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 2 expl:impers	color:blue
-1	Cosa	cosa	PRON	PQ	Number=Sing|PronType=Int	4	dobj	_	_
-2	si	si	PRON	PC	Person=3|PronType=Clit	3	expl:impers	_	_
-3	può	potere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	_
-4	trovare	trovare	VERB	V	VerbForm=Inf	0	root	_	_
-5	a	a	ADP	E	_	8	case	_	_
-6	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
-7	"	"	PUNCT	FB	_	8	punct	_	SpaceAfter=No
-8	Chester	Chester	PROPN	SP	_	4	nmod	_	_
-9	Beatty	Beatty	PROPN	SP	_	8	name	_	SpaceAfter=No
-10	"	"	PUNCT	FB	_	8	punct	_	SpaceAfter=No
-11	?	?	PUNCT	FS	_	4	punct	_	_
+1	Come	come	ADV	B	_	4	advmod	_	_
+2	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	3	expl:impers	_	_
+3	può	potere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux:pass	_	_
+4	misurare	misurare	VERB	V	VerbForm=Inf	0	root	_	_
+5	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	contenuto	contenuto	NOUN	S	Gender=Masc|Number=Sing	4	nsubj:pass	_	_
+7	di	di	ADP	E	_	8	case	_	_
+8	deuterio	deuterio	NOUN	S	Gender=Masc|Number=Sing	6	nmod	_	_
+9	in	in	ADP	E	_	11	case	_	_
+10	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+11	vino	vino	NOUN	S	Gender=Masc|Number=Sing	4	obl	_	SpaceAfter=No
+12	?	?	PUNCT	FS	_	4	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 10 8 expl:impers	color:blue
-1	In	in	ADP	E	_	3	case	_	_
-2	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	3	det	_	_
-3	discorsi	discorso	NOUN	S	Gender=Masc|Number=Plur	10	nmod	_	_
-4	e	e	CONJ	CC	_	3	cc	_	_
-5	in	in	ADP	E	_	7	case	_	_
-6	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	7	det	_	_
-7	saggi	saggio	NOUN	S	Gender=Masc|Number=Plur	3	conj	_	_
-8	si	si	PRON	PC	Person=3|PronType=Clit	10	expl:impers	_	_
-9	è	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	_
-10	soliti	solito	ADJ	A	Gender=Masc|Number=Plur	0	root	_	_
-11	ridur	ridurre	VERB	V	VerbForm=Inf	10	xcomp	_	_
-12	lo	lo	PRON	PC	Gender=Masc|Number=Sing|Person=3|PronType=Clit	11	dobj	_	_
-13	ormai	ormai	ADV	B	_	11	advmod	_	_
-14	a	a	ADP	E	_	17	case	_	_
-15	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	17	det	_	_
-16	sola	solo	ADJ	A	Gender=Fem|Number=Sing	17	amod	_	_
-17	parola	parola	NOUN	S	Gender=Fem|Number=Sing	11	nmod	_	SpaceAfter=No
-18	.	.	PUNCT	FS	_	10	punct	_	_
+# visual-style 25	bgColor:blue
+# visual-style 25	fgColor:white
+# visual-style 23	bgColor:blue
+# visual-style 23	fgColor:white
+# visual-style 23 25 expl:impers	color:blue
+1	insomma	insomma	ADV	B	_	10	advmod	_	_
+2	che	che	SCONJ	CS	_	10	mark	_	_
+3	d'	da	ADP	E	_	4	case	_	SpaceAfter=No
+4	ora	ora	ADV	B	_	10	advmod	_	_
+5	in	in	ADP	E	_	4	fixed	_	_
+6	avanti	avanti	NOUN	S	Gender=Masc	4	fixed	_	_
+7	lei	lei	PRON	PE	Number=Sing|Person=3|PronType=Prs	10	nsubj	_	_
+8	se	se	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	10	expl	_	_
+9	ne	ne	PRON	PC	Clitic=Yes|PronType=Prs	10	expl	_	_
+10	vada	andare	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+11	nervosamente	nervosamente	ADV	B	_	10	advmod	_	_
+12	avanti	avanti	ADV	B	_	10	advmod	_	_
+13	e	e	CCONJ	CC	_	14	cc	_	_
+14	indietro	indietro	ADV	B	_	12	conj	_	_
+15	per	per	ADP	E	_	18	case	_	_
+16	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	18	det	_	_
+17	sua	suo	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	18	det:poss	_	_
+18	aia	aia	NOUN	S	Gender=Fem|Number=Sing	10	obl	_	SpaceAfter=No
+19	,	,	PUNCT	FF	_	10	punct	_	_
+20	perplesso	perplesso	ADJ	A	Gender=Masc|Number=Sing	10	amod	_	_
+21	su	su	ADP	E	_	23	case	_	_
+22	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	23	det	_	_
+23	da	da	ADP	E	_	20	obl	_	_
+24	far	fare	VERB	V	VerbForm=Inf	23	fixed	_	_
+25	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	23	expl:impers	_	_
+26	.	.	PUNCT	FS	_	10	punct	_	_
+
+~~~
+
+
+
+
+--------------------------------------------------------------------------------
+
+## Treebank Statistics (UD_Italian-ParTUT)
+
+This relation is a language-specific subtype of [expl]().
+There are also 1 other language-specific subtypes of `expl`: [expl:pass]().
+
+40 nodes (0%) are attached to their parents as `expl:impers`.
+
+40 instances of `expl:impers` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.55.
+
+The following 1 pairs of parts of speech are connected with `expl:impers`: [it-pos/VERB]()-[it-pos/PRON]() (40; 100% instances).
+
+
+~~~ conllu
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 2 expl:impers	color:blue
+1	ovunque	ovunque	ADV	B	_	3	advmod	_	_
+2	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	3	expl:impers	_	_
+3	guardi	guardare	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	5	advcl	_	SpaceAfter=No
+4	,	,	PUNCT	FF	_	3	punct	_	_
+5	sembrano	sembrare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	esser	essere	VERB	V	VerbForm=Inf	5	xcomp	_	_
+7	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	6	expl	_	_
+8	problemi	problema	NOUN	S	Gender=Masc|Number=Plur	6	obj	_	_
+9	profondi	profondo	ADJ	A	Gender=Masc|Number=Plur	8	amod	_	SpaceAfter=No
+10	.	.	PUNCT	FS	_	5	punct	_	_
 
 ~~~
 

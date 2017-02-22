@@ -6,68 +6,77 @@
 
 This relation is universal.
 
-152 nodes (2%) are attached to their parents as `conj`.
+43 nodes (3%) are attached to their parents as `conj`.
 
-151 instances of `conj` (99%) are right-to-left (child precedes parent).
-Average distance between parent and child is 4.71710526315789.
+41 instances of `conj` (95%) are left-to-right (parent precedes child).
+Average distance between parent and child is 5.09302325581395.
 
-The following 16 pairs of parts of speech are connected with `conj`: [ug-pos/VERB]()-[ug-pos/VERB]() (60; 39% instances), [ug-pos/NOUN]()-[ug-pos/NOUN]() (37; 24% instances), [ug-pos/VERB]()-[ug-pos/NOUN]() (17; 11% instances), [ug-pos/ADJ]()-[ug-pos/ADJ]() (13; 9% instances), [ug-pos/NOUN]()-[ug-pos/VERB]() (8; 5% instances), [ug-pos/ADJ]()-[ug-pos/NOUN]() (3; 2% instances), [ug-pos/ADJ]()-[ug-pos/VERB]() (3; 2% instances), [ug-pos/NOUN]()-[ug-pos/ADJ]() (3; 2% instances), [ug-pos/ADJ]()-[ug-pos/NUM]() (1; 1% instances), [ug-pos/INTJ]()-[ug-pos/INTJ]() (1; 1% instances), [ug-pos/NOUN]()-[ug-pos/ADV]() (1; 1% instances), [ug-pos/NOUN]()-[ug-pos/CONJ]() (1; 1% instances), [ug-pos/NUM]()-[ug-pos/NUM]() (1; 1% instances), [ug-pos/PRON]()-[ug-pos/NOUN]() (1; 1% instances), [ug-pos/VERB]()-[ug-pos/ADJ]() (1; 1% instances), [ug-pos/VERB]()-[ug-pos/CONJ]() (1; 1% instances).
-
-
-~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 7 4 conj	color:blue
-1	-	_	PUNCT	Y	_	10	punct	_	Translit=-
-2	بۇنىڭدىن	_	PRON	P	_	3	compound	_	Translit=buningdin
-3	كېيىن	_	ADV	D	_	4	advmod	_	Translit=këyin
-4	ئۇرۇشمايلى	_	VERB	V	_	7	conj	_	Translit=urushmayli
-5	،	_	PUNCT	Y	_	4	punct	_	Translit=,
-6	قانداق	_	PRON	P	_	7	advmod	_	Translit=qandaq
-7	دەيسەن	_	VERB	V	_	10	ccomp	_	Translit=deysen
-8	؟	_	PUNCT	Y	_	7	punct	_	Translit=?
-9	-	_	PUNCT	Y	_	7	punct	_	Translit=-
-10	دېدى	_	VERB	V	_	0	root	_	Translit=dëdi
-11	ئۇ	_	PRON	P	_	10	nsubj	_	Translit=u
-12	كۈلۈپ	_	VERB	V	_	10	advcl	_	Translit=külüp
-13	.	_	PUNCT	Y	_	10	punct	_	Translit=.
-
-~~~
+The following 10 pairs of parts of speech are connected with `conj`: [ug-pos/NOUN]()-[ug-pos/NOUN]() (14; 33% instances), [ug-pos/ADJ]()-[ug-pos/ADJ]() (10; 23% instances), [ug-pos/VERB]()-[ug-pos/VERB]() (6; 14% instances), [ug-pos/VERB]()-[ug-pos/NOUN]() (5; 12% instances), [ug-pos/NOUN]()-[ug-pos/VERB]() (2; 5% instances), [ug-pos/VERB]()-[ug-pos/ADJ]() (2; 5% instances), [ug-pos/ADJ]()-[ug-pos/NOUN]() (1; 2% instances), [ug-pos/ADJ]()-[ug-pos/VERB]() (1; 2% instances), [ug-pos/NOUN]()-[ug-pos/CCONJ]() (1; 2% instances), [ug-pos/VERB]()-[ug-pos/PRON]() (1; 2% instances).
 
 
 ~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
-# visual-style 3 1 conj	color:blue
-1	ئۆردەك	_	NOUN	N	_	3	conj	_	Translit=ördek
-2	بىلەن	_	CONJ	C	_	3	cc	_	Translit=bilen
-3	توخۇ	_	NOUN	N	_	5	nsubj	_	Translit=toxu
-4	يېقىن	_	ADJ	A	_	5	amod	_	Translit=yëqin
-5	دوست	_	NOUN	N	_	0	root	_	Translit=dost
-6	ئىكەن	_	VERB	V	_	5	cop	_	Translit=iken
-7	،	_	PUNCT	Y	_	6	punct	_	Translit=,
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 3 conj	color:blue
+1	ئاچاڭ	_	NOUN	N	_	5	nsubj	_	Translit=achang
+2	بىلەن	_	ADP	R	_	3	cc	_	Translit=bilen
+3	سىڭىللىرىڭ	_	NOUN	N	_	1	conj	_	Translit=singilliring
+4	ئۆز	_	PRON	P	_	5	det	_	Translit=öz
+5	ئۆيىدە	_	NOUN	N	_	0	root	_	SpaceAfter=No|Translit=öyide
+6	،	_	PUNCT	Y	_	5	punct	_	Translit=,
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
-# visual-style 6 4 conj	color:blue
-1	-	_	PUNCT	Y	_	2	punct	_	Translit=-
-2	قېنى	_	PART	T	_	4	discourse	_	Translit=qëni
-3	بىر	_	NUM	M	_	4	advmod	_	Translit=bir
-4	ئوقۇڭا	_	NOUN	N	_	6	conj	_	Translit=oqunga
-5	بىر	_	NUM	M	_	6	advmod	_	Translit=bir
-6	ئاڭلاپ	_	VERB	V	_	0	root	_	Translit=anglap
-7	باقاي	_	VERB	V	_	6	aux	_	Translit=baqay
-8	.	_	PUNCT	Y	_	7	punct	_	Translit=.
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 6 conj	color:blue
+1	يېنىڭغا	_	NOUN	N	_	2	obl	_	Translit=yëninggha
+2	كېلىپ	_	VERB	V	_	9	advcl	_	Translit=këlip
+3	بوش	_	ADJ	A	_	7	amod	_	SpaceAfter=No|Translit=bosh
+4	،	_	PUNCT	Y	_	3	punct	_	Translit=,
+5	ئەمما	_	CCONJ	C	_	6	cc	_	Translit=emma
+6	سەمىمىي	_	ADJ	A	_	3	conj	_	Translit=semimiy
+7	ئاۋازدا	_	NOUN	N	_	9	advmod	_	Translit=awazda
+8	سەندىن	_	PRON	P	_	9	obl	_	Translit=sendin
+9	سورايتتىم	_	VERB	V	_	0	root	_	SpaceAfter=No|Translit=sorayttim
+10	.	_	PUNCT	Y	_	9	punct	_	Translit=.
+
+~~~
+
+
+~~~ conllu
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 9 conj	color:blue
+1	بۇرۇتلارنىڭ	_	NOUN	N	_	3	nsubj	_	Translit=burutlarning
+2	خەت	_	NOUN	N	_	3	compound	_	Translit=xet
+3	تارتىپ	_	VERB	V	_	20	csubj	_	Translit=tartip
+4	قېلىشى	_	AUX	V	_	3	aux	_	SpaceAfter=No|Translit=qëlishi
+5	،	_	PUNCT	Y	_	4	punct	_	Translit=,
+6	قىزلىق	_	NOUN	N	_	7	amod	_	Translit=qizliq
+7	زىنىخلارنىڭ	_	NOUN	N	_	9	nsubj	_	Translit=zinixlarning
+8	پەيدا	_	NOUN	N	_	9	compound	_	Translit=peyda
+9	بولۇپ	_	VERB	V	_	3	conj	_	Translit=bolup
+10	قېلىشى	_	AUX	V	_	9	aux	_	Translit=qëlishi
+11	بىزنىڭ	_	PRON	P	_	17	nmod:poss	_	Translit=bizning
+12	بىر	_	NUM	M	_	13	nummod	_	Translit=bir
+13	ھالەتتىن	_	NOUN	N	_	17	obl	_	Translit=halettin
+14	يەنە	_	ADV	D	_	15	advmod	_	Translit=yene
+15	بىر	_	NUM	M	_	16	nummod	_	Translit=bir
+16	ھالەتكە	_	NOUN	N	_	17	obl	_	Translit=haletke
+17	ئۆتۈۋاتقانلىقىمىزدىن	_	VERB	V	_	20	obl	_	Translit=ötüwatqanliqimizdin
+18	ئۈنسىز	_	ADJ	A	_	20	advmod	_	Translit=ünsiz
+19	بېشارەت	_	NOUN	N	_	20	compound	_	Translit=bësharet
+20	بېرەتتى	_	VERB	V	_	0	root	_	SpaceAfter=No|Translit=bëretti
+21	.	_	PUNCT	Y	_	20	punct	_	Translit=.
 
 ~~~
 

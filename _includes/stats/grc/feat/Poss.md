@@ -7,24 +7,24 @@
 This feature is universal.
 It occurs with 1 different values: `Yes`.
 
-262 tokens (0%) have a non-empty value of `Poss`.
-75 types (0%) occur at least once with a non-empty value of `Poss`.
+251 tokens (0%) have a non-empty value of `Poss`.
+73 types (0%) occur at least once with a non-empty value of `Poss`.
 5 lemmas (0%) occur at least once with a non-empty value of `Poss`.
-The feature is used with 1 part-of-speech tags: [grc-pos/PRON]() (262; 0% instances).
+The feature is used with 1 part-of-speech tags: [grc-pos/ADJ]() (251; 0% instances).
 
-### `PRON`
+### `ADJ`
 
-262 [grc-pos/PRON]() tokens (1% of all `PRON` tokens) have a non-empty value of `Poss`.
+251 [grc-pos/ADJ]() tokens (2% of all `ADJ` tokens) have a non-empty value of `Poss`.
 
-The most frequent other feature values with which `PRON` and `Poss` co-occurred: <tt><a href="PronType.html">PronType</a>=Prs</tt> (262; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (185; 71%), <tt><a href="Person.html">Person</a>=1</tt> (155; 59%).
+The most frequent other feature values with which `ADJ` and `Poss` co-occurred: <tt><a href="Degree.html">Degree</a>=EMPTY</tt> (251; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (176; 70%).
 
-`PRON` tokens may have the following values of `Poss`:
+`ADJ` tokens may have the following values of `Poss`:
 
-* `Yes` (262; 100% of non-empty `Poss`): <em>ἐμὸν, ἐμὴν, ἐμὴ, ἐμὸς, ἐμῇ, σῇ, ἐμὰ, σφετέρην, σὸν, σῆς</em>
-* `EMPTY` (20651): <em>αὐτοῦ, αὐτῷ, αὐτὸν, αὐτῶν, ὑμῖν, μου, αὐτοῖς, ὑμῶν, σου, ὑμᾶς</em>
+* `Yes` (251; 100% of non-empty `Poss`): <em>ἐμὸν, ἐμὴν, ἐμὴ, ἐμὸς, ἐμῇ, σῇ, ἐμὰ, σφετέρην, σὸν, σῷ</em>
+* `EMPTY` (15205): <em>ταῦτα, τοῦτο, πάντα, τις, τούτων, οὗτοι, οὗτος, τάδε, πρότερον, πάντες</em>
 
 ## Relations with Agreement in `Poss`
 
 The 10 most frequent relations where parent and child node agree in `Poss`:
-<tt>PRON --[<a href="../dep/nsubj.html">nsubj</a>]--> PRON</tt> (3; 75%).
+<tt>ADJ --[<a href="../dep/nsubj.html">nsubj</a>]--> ADJ</tt> (3; 60%).
 

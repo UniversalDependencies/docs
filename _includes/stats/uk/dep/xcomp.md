@@ -6,12 +6,31 @@
 
 This relation is universal.
 
-39 nodes (2%) are attached to their parents as `xcomp`.
+161 nodes (1%) are attached to their parents as `xcomp`.
 
-39 instances of `xcomp` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.51282051282051.
+158 instances of `xcomp` (98%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.77639751552795.
 
-The following 5 pairs of parts of speech are connected with `xcomp`: [uk-pos/VERB]()-[uk-pos/VERB]() (22; 56% instances), [uk-pos/ADV]()-[uk-pos/VERB]() (6; 15% instances), [uk-pos/VERB]()-[uk-pos/ADJ]() (5; 13% instances), [uk-pos/ADJ]()-[uk-pos/VERB]() (4; 10% instances), [uk-pos/VERB]()-[uk-pos/NOUN]() (2; 5% instances).
+The following 9 pairs of parts of speech are connected with `xcomp`: [uk-pos/VERB]()-[uk-pos/VERB]() (129; 80% instances), [uk-pos/VERB]()-[uk-pos/ADJ]() (19; 12% instances), [uk-pos/ADJ]()-[uk-pos/VERB]() (5; 3% instances), [uk-pos/VERB]()-[uk-pos/NOUN]() (3; 2% instances), [uk-pos/ADJ]()-[uk-pos/ADJ]() (1; 1% instances), [uk-pos/ADV]()-[uk-pos/VERB]() (1; 1% instances), [uk-pos/INTJ]()-[uk-pos/VERB]() (1; 1% instances), [uk-pos/NOUN]()-[uk-pos/VERB]() (1; 1% instances), [uk-pos/VERB]()-[uk-pos/ADV]() (1; 1% instances).
+
+
+~~~ conllu
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 6 xcomp	color:blue
+1	Під	під	ADP	Spsa	Case=Acc	2	case	_	_
+2	вечір	вечір	NOUN	Ncmsan	Animacy=Inan|Case=Acc|Gender=Masc	5	obl	_	_
+3	над	над	ADP	Spsi	Case=Ins	4	case	_	_
+4	нами	ми	PRON	Pp-1-ypin	Animacy=Anim|Case=Ins|Number=Plur|Person=1|PronType=Prs	6	obl	_	_
+5	почав	почати	VERB	Vmeis-sm	Aspect=Perf|Gender=Masc|Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+6	літати	літати	VERB	Vmpn	Aspect=Imp|VerbForm=Inf	5	xcomp	_	_
+7	військовий	військовий	ADJ	Ao-msnf	Case=Nom|Gender=Masc	8	amod	_	_
+8	вертоліт	вертоліт	NOUN	Ncmsnn	Animacy=Inan|Case=Nom|Gender=Masc	5	nsubj	_	SpaceAfter=No
+9	.	.	PUNCT	U	_	5	punct	_	_
+
+~~~
 
 
 ~~~ conllu
@@ -20,47 +39,43 @@ The following 5 pairs of parts of speech are connected with `xcomp`: [uk-pos/VER
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 7 xcomp	color:blue
-1	Він	він	PRON	noun:m:v_naz:&pron:pers:3	Case=Nom|Gender=Masc|Person=3|PronType=Prs	2	nsubj	_	_
-2	каже	казати	VERB	verb:imperf:pres:s:3	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
-3	,	,	PUNCT	punct	_	2	punct	_	_
-4	що	що	SCONJ	conj:subord	_	6	mark	_	_
-5	ти	ти	PRON	noun:anim:s:v_naz:&pron:pers:2	Animacy=Anim|Case=Nom|Number=Sing|Person=2|PronType=Prs	6	nsubj	_	_
-6	любиш	любити	VERB	verb:imperf:pres:s:2	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	2	ccomp	_	_
-7	плавати	плавати	VERB	verb:imperf:inf	Aspect=Imp|VerbForm=Inf	6	xcomp	_	SpaceAfter=No
-8	.	.	PUNCT	punct	_	2	punct	_	_
+1	Хоч	хоч	SCONJ	Css	_	6	mark	_	_
+2	наше	наш	DET	Ppp1n-saa	Case=Acc|Gender=Neut|Person=1|Poss=Yes|PronType=Prs	3	det	_	_
+3	вікно	вікно	NOUN	Ncnsan	Animacy=Inan|Case=Acc|Gender=Neut	6	obj	_	_
+4	важко	важко	ADV	Rp	Degree=Pos	6	advmod	_	_
+5	було	бути	AUX	Vapis-sn	Aspect=Imp|Gender=Neut|Mood=Ind|Tense=Past|VerbForm=Fin	4	cop	_	_
+6	зробити	зробити	VERB	Vmen	Aspect=Perf|VerbForm=Inf	0	root	_	_
+7	темним	темний	ADJ	Afpnsif	Case=Ins|Degree=Pos|Gender=Neut	6	xcomp	_	SpaceAfter=No
+8	.	.	PUNCT	U	_	6	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 1 2 xcomp	color:blue
-1	Треба	треба	ADV	adv	_	0	root	_	_
-2	працювати	працювати	VERB	verb:imperf:inf	Aspect=Imp|VerbForm=Inf	1	xcomp	_	_
-3	над	над	ADP	prep:rv_oru	Case=Ins	5	case	_	_
-4	своїми	свій	DET	adj:p:v_oru:poss:&pron:refl	Case=Ins|Number=Plur|Poss=Yes|PronType=Prs|Reflex=Yes	5	det	_	_
-5	помилками	помилка	NOUN	noun:inanim:p:f:v_oru	Animacy=Inan|Case=Ins|Gender=Fem|Number=Plur	2	nmod	_	SpaceAfter=No
-6	.	.	PUNCT	punct	_	1	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 4 xcomp	color:blue
-1	Це	це	PRON	noun:inanim:n:v_naz:&pron:dem	Animacy=Inan|Case=Nom|Gender=Neut|PronType=Dem	2	nsubj	_	_
-2	може	могти	VERB	verb:imperf:pres:s:3	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-3	бути	бути	VERB	verb:imperf:inf	Aspect=Imp|VerbForm=Inf	4	auxpass	_	_
-4	зроблене	зроблений	ADJ	adj:n:v_naz:&adjp:perf:pasv	Aspect=Perf|Case=Nom|Gender=Neut|VerbForm=Part|Voice=Pass	2	xcomp	_	_
-5	на	на	ADP	prep:rv_zna	Case=Acc	6	case	_	_
-6	завтра	завтра	ADV	adv	_	4	advmod	_	SpaceAfter=No
-7	.	.	PUNCT	punct	_	2	punct	_	_
+# visual-style 18	bgColor:blue
+# visual-style 18	fgColor:white
+# visual-style 15	bgColor:blue
+# visual-style 15	fgColor:white
+# visual-style 15 18 xcomp	color:blue
+1	Те	те	PRON	Pd--nnsnn	Animacy=Inan|Case=Nom|Gender=Neut|PronType=Dem	11	nsubj	_	SpaceAfter=No
+2	,	,	PUNCT	U	_	7	punct	_	_
+3	що	що	SCONJ	Css	_	7	mark	_	_
+4	в	в	ADP	Spsl	Case=Loc	5	case	_	_
+5	основі	основа	NOUN	Ncfsln	Animacy=Inan|Case=Loc|Gender=Fem	7	obl	_	_
+6	її	вона	DET	Ppp3f-sga	Case=Gen|Gender=Fem|Person=3|Poss=Yes|PronType=Prs	5	det	_	_
+7	лежать	лежати	VERB	Vmpip3p	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	1	acl	_	_
+8	записи	запис	NOUN	Ncmpnn	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	7	nsubj	_	SpaceAfter=No
+9	,	,	PUNCT	U	_	7	punct	_	_
+10	є	бути	AUX	Vapip3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	cop	_	_
+11	безперечним	безперечний	ADJ	Ao-nsif	Case=Ins|Gender=Neut	0	root	_	SpaceAfter=No
+12	:	:	PUNCT	U	_	15	punct	_	_
+13	ніхто	ніхто	PRON	Pz---y-nn	Animacy=Anim|Case=Nom|PronType=Neg	15	nsubj	_	_
+14	не	не	PART	Q	Polarity=Neg	15	advmod	_	_
+15	здатен	здатний	ADJ	Ao-msns	Case=Nom|Gender=Masc|Variant=Short	11	parataxis	_	_
+16	таких	такий	DET	Pd----pga	Case=Gen|Number=Plur|PronType=Dem	17	det	_	_
+17	речей	річ	NOUN	Ncfpgn	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	18	obj	_	_
+18	підробити	підробити	VERB	Vmen	Aspect=Perf|VerbForm=Inf	15	xcomp	_	SpaceAfter=No
+19	.	.	PUNCT	U	_	11	punct	_	_
 
 ~~~
 

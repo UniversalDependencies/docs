@@ -7,12 +7,12 @@
 This relation is universal.
 There are 1 language-specific subtypes of `cc`: [cc:preconj]().
 
-8217 nodes (3%) are attached to their parents as `cc`.
+7570 nodes (3%) are attached to their parents as `cc`.
 
-7719 instances of `cc` (94%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.55677254472435.
+7563 instances of `cc` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.60871862615588.
 
-The following 50 pairs of parts of speech are connected with `cc`: [en-pos/VERB]()-[en-pos/CONJ]() (3354; 41% instances), [en-pos/NOUN]()-[en-pos/CONJ]() (2350; 29% instances), [en-pos/ADJ]()-[en-pos/CONJ]() (975; 12% instances), [en-pos/PROPN]()-[en-pos/CONJ]() (844; 10% instances), [en-pos/ADV]()-[en-pos/CONJ]() (160; 2% instances), [en-pos/PRON]()-[en-pos/CONJ]() (119; 1% instances), [en-pos/NUM]()-[en-pos/CONJ]() (85; 1% instances), [en-pos/NOUN]()-[en-pos/PUNCT]() (66; 1% instances), [en-pos/NOUN]()-[en-pos/ADV]() (37; 0% instances), [en-pos/PROPN]()-[en-pos/PUNCT]() (25; 0% instances), [en-pos/CONJ]()-[en-pos/CONJ]() (24; 0% instances), [en-pos/DET]()-[en-pos/CONJ]() (24; 0% instances), [en-pos/SYM]()-[en-pos/CONJ]() (20; 0% instances), [en-pos/VERB]()-[en-pos/ADV]() (16; 0% instances), [en-pos/NOUN]()-[en-pos/SYM]() (11; 0% instances), [en-pos/X]()-[en-pos/CONJ]() (11; 0% instances), [en-pos/VERB]()-[en-pos/PUNCT]() (9; 0% instances), [en-pos/ADJ]()-[en-pos/PUNCT]() (8; 0% instances), [en-pos/AUX]()-[en-pos/CONJ]() (7; 0% instances), [en-pos/PART]()-[en-pos/CONJ]() (7; 0% instances), [en-pos/ADJ]()-[en-pos/ADV]() (6; 0% instances), [en-pos/INTJ]()-[en-pos/CONJ]() (6; 0% instances), [en-pos/PRON]()-[en-pos/PUNCT]() (5; 0% instances), [en-pos/VERB]()-[en-pos/SYM]() (5; 0% instances), [en-pos/CONJ]()-[en-pos/PUNCT]() (4; 0% instances), [en-pos/PRON]()-[en-pos/ADV]() (4; 0% instances), [en-pos/PROPN]()-[en-pos/ADV]() (4; 0% instances), [en-pos/ADP]()-[en-pos/CONJ]() (3; 0% instances), [en-pos/SCONJ]()-[en-pos/CONJ]() (3; 0% instances), [en-pos/ADV]()-[en-pos/ADV]() (2; 0% instances), [en-pos/NUM]()-[en-pos/SYM]() (2; 0% instances), [en-pos/PROPN]()-[en-pos/SYM]() (2; 0% instances), [en-pos/VERB]()-[en-pos/NOUN]() (2; 0% instances), [en-pos/ADJ]()-[en-pos/SYM]() (1; 0% instances), [en-pos/ADJ]()-[en-pos/VERB]() (1; 0% instances), [en-pos/ADP]()-[en-pos/PUNCT]() (1; 0% instances), [en-pos/ADV]()-[en-pos/SYM]() (1; 0% instances), [en-pos/ADV]()-[en-pos/X]() (1; 0% instances), [en-pos/CONJ]()-[en-pos/SYM]() (1; 0% instances), [en-pos/DET]()-[en-pos/ADP]() (1; 0% instances), [en-pos/NOUN]()-[en-pos/X]() (1; 0% instances), [en-pos/NUM]()-[en-pos/ADV]() (1; 0% instances), [en-pos/NUM]()-[en-pos/PUNCT]() (1; 0% instances), [en-pos/PRON]()-[en-pos/ADP]() (1; 0% instances), [en-pos/PRON]()-[en-pos/VERB]() (1; 0% instances), [en-pos/PROPN]()-[en-pos/PROPN]() (1; 0% instances), [en-pos/PUNCT]()-[en-pos/CONJ]() (1; 0% instances), [en-pos/VERB]()-[en-pos/ADP]() (1; 0% instances), [en-pos/VERB]()-[en-pos/X]() (1; 0% instances), [en-pos/X]()-[en-pos/X]() (1; 0% instances).
+The following 48 pairs of parts of speech are connected with `cc`: [en-pos/VERB]()-[en-pos/CCONJ]() (3260; 43% instances), [en-pos/NOUN]()-[en-pos/CCONJ]() (2099; 28% instances), [en-pos/ADJ]()-[en-pos/CCONJ]() (871; 12% instances), [en-pos/PROPN]()-[en-pos/CCONJ]() (617; 8% instances), [en-pos/ADV]()-[en-pos/CCONJ]() (160; 2% instances), [en-pos/PRON]()-[en-pos/CCONJ]() (152; 2% instances), [en-pos/NUM]()-[en-pos/CCONJ]() (76; 1% instances), [en-pos/NOUN]()-[en-pos/PUNCT]() (63; 1% instances), [en-pos/DET]()-[en-pos/CCONJ]() (35; 0% instances), [en-pos/NOUN]()-[en-pos/ADV]() (29; 0% instances), [en-pos/CCONJ]()-[en-pos/CCONJ]() (25; 0% instances), [en-pos/PROPN]()-[en-pos/PUNCT]() (22; 0% instances), [en-pos/PART]()-[en-pos/CCONJ]() (20; 0% instances), [en-pos/VERB]()-[en-pos/ADV]() (19; 0% instances), [en-pos/SYM]()-[en-pos/CCONJ]() (14; 0% instances), [en-pos/ADP]()-[en-pos/CCONJ]() (12; 0% instances), [en-pos/AUX]()-[en-pos/CCONJ]() (9; 0% instances), [en-pos/NOUN]()-[en-pos/SYM]() (9; 0% instances), [en-pos/ADJ]()-[en-pos/PUNCT]() (7; 0% instances), [en-pos/ADJ]()-[en-pos/ADV]() (6; 0% instances), [en-pos/VERB]()-[en-pos/PUNCT]() (6; 0% instances), [en-pos/X]()-[en-pos/CCONJ]() (6; 0% instances), [en-pos/CCONJ]()-[en-pos/PUNCT]() (5; 0% instances), [en-pos/PRON]()-[en-pos/PUNCT]() (5; 0% instances), [en-pos/PROPN]()-[en-pos/ADV]() (4; 0% instances), [en-pos/PUNCT]()-[en-pos/CCONJ]() (4; 0% instances), [en-pos/VERB]()-[en-pos/SYM]() (4; 0% instances), [en-pos/INTJ]()-[en-pos/CCONJ]() (3; 0% instances), [en-pos/PRON]()-[en-pos/ADV]() (3; 0% instances), [en-pos/PROPN]()-[en-pos/SYM]() (3; 0% instances), [en-pos/ADJ]()-[en-pos/SYM]() (2; 0% instances), [en-pos/ADV]()-[en-pos/ADV]() (2; 0% instances), [en-pos/SCONJ]()-[en-pos/CCONJ]() (2; 0% instances), [en-pos/X]()-[en-pos/X]() (2; 0% instances), [en-pos/ADV]()-[en-pos/NOUN]() (1; 0% instances), [en-pos/ADV]()-[en-pos/SYM]() (1; 0% instances), [en-pos/AUX]()-[en-pos/PUNCT]() (1; 0% instances), [en-pos/CCONJ]()-[en-pos/SYM]() (1; 0% instances), [en-pos/DET]()-[en-pos/ADP]() (1; 0% instances), [en-pos/NOUN]()-[en-pos/ADP]() (1; 0% instances), [en-pos/NOUN]()-[en-pos/NOUN]() (1; 0% instances), [en-pos/NOUN]()-[en-pos/VERB]() (1; 0% instances), [en-pos/NUM]()-[en-pos/ADV]() (1; 0% instances), [en-pos/NUM]()-[en-pos/PUNCT]() (1; 0% instances), [en-pos/NUM]()-[en-pos/SYM]() (1; 0% instances), [en-pos/VERB]()-[en-pos/ADP]() (1; 0% instances), [en-pos/VERB]()-[en-pos/VERB]() (1; 0% instances), [en-pos/VERB]()-[en-pos/X]() (1; 0% instances).
 
 
 ~~~ conllu
@@ -21,15 +21,15 @@ The following 50 pairs of parts of speech are connected with `cc`: [en-pos/VERB]
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 1 cc	color:blue
-1	Yet	yet	CONJ	CC	_	5	cc	_	_
+1	Yet	yet	CCONJ	CC	_	5	cc	_	_
 2	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	5	nsubj	_	_
 3	did	do	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	5	aux	_	SpaceAfter=No
-4	n't	not	PART	RB	_	5	neg	_	_
+4	n't	not	PART	RB	_	5	advmod	_	_
 5	charge	charge	VERB	VB	VerbForm=Inf	0	root	_	_
-6	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	5	dobj	_	_
+6	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	5	obj	_	_
 7	for	for	ADP	IN	_	9	case	_	_
 8	the	the	DET	DT	Definite=Def|PronType=Art	9	det	_	_
-9	evacuation	evacuation	NOUN	NN	Number=Sing	5	nmod	_	SpaceAfter=No
+9	evacuation	evacuation	NOUN	NN	Number=Sing	5	obl	_	SpaceAfter=No
 10	.	.	PUNCT	.	_	5	punct	_	_
 
 ~~~
@@ -38,17 +38,17 @@ The following 50 pairs of parts of speech are connected with `cc`: [en-pos/VERB]
 ~~~ conllu
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 7 cc	color:blue
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 9 7 cc	color:blue
 1	i	i	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
 2	think	think	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	6	nsubj	_	_
-4	are	be	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	6	cop	_	_
+4	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	6	cop	_	_
 5	all	all	DET	DT	_	6	det	_	_
 6	bark	bark	NOUN	NN	Number=Sing	2	ccomp	_	_
-7	and	and	CONJ	CC	_	6	cc	_	_
-8	no	no	DET	DT	_	9	neg	_	_
+7	and	and	CCONJ	CC	_	9	cc	_	_
+8	no	no	DET	DT	_	9	det	_	_
 9	bite	bite	NOUN	NN	Number=Sing	6	conj	_	SpaceAfter=No
 10	.	.	PUNCT	.	_	2	punct	_	_
 
@@ -58,18 +58,18 @@ The following 50 pairs of parts of speech are connected with `cc`: [en-pos/VERB]
 ~~~ conllu
 # visual-style 9	bgColor:blue
 # visual-style 9	fgColor:white
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 8 9 cc	color:blue
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 10 9 cc	color:blue
 1	i	i	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
 2	want	want	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	_
-3	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	dobj	_	_
+3	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	obj	_	_
 4	b/c	b/c	SCONJ	IN	_	8	mark	_	_
 5	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	_
-6	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_
+6	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_
 7	really	really	ADV	RB	_	8	advmod	_	_
 8	small	small	ADJ	JJ	Degree=Pos	2	advcl	_	_
-9	and	and	CONJ	CC	_	8	cc	_	_
+9	and	and	CCONJ	CC	_	10	cc	_	_
 10	cute	cute	ADJ	JJ	Degree=Pos	8	conj	_	SpaceAfter=No
 11	.	.	PUNCT	.	_	2	punct	_	_
 
@@ -85,12 +85,12 @@ The following 50 pairs of parts of speech are connected with `cc`: [en-pos/VERB]
 This relation is universal.
 There are 1 language-specific subtypes of `cc`: [cc:preconj]().
 
-3194 nodes (3%) are attached to their parents as `cc`.
+2860 nodes (3%) are attached to their parents as `cc`.
 
-2965 instances of `cc` (93%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.42485911083281.
+2657 instances of `cc` (93%) are left-to-right (parent precedes child).
+Average distance between parent and child is 4.35629370629371.
 
-The following 20 pairs of parts of speech are connected with `cc`: [en-pos/VERB]()-[en-pos/CONJ]() (1571; 49% instances), [en-pos/NOUN]()-[en-pos/CONJ]() (890; 28% instances), [en-pos/ADJ]()-[en-pos/CONJ]() (466; 15% instances), [en-pos/PROPN]()-[en-pos/CONJ]() (101; 3% instances), [en-pos/PRON]()-[en-pos/CONJ]() (52; 2% instances), [en-pos/ADV]()-[en-pos/CONJ]() (43; 1% instances), [en-pos/NUM]()-[en-pos/CONJ]() (30; 1% instances), [en-pos/NOUN]()-[en-pos/ADV]() (10; 0% instances), [en-pos/ADP]()-[en-pos/CONJ]() (7; 0% instances), [en-pos/DET]()-[en-pos/CONJ]() (4; 0% instances), [en-pos/VERB]()-[en-pos/ADV]() (4; 0% instances), [en-pos/SYM]()-[en-pos/CONJ]() (3; 0% instances), [en-pos/X]()-[en-pos/CONJ]() (3; 0% instances), [en-pos/INTJ]()-[en-pos/CONJ]() (2; 0% instances), [en-pos/NOUN]()-[en-pos/ADP]() (2; 0% instances), [en-pos/VERB]()-[en-pos/VERB]() (2; 0% instances), [en-pos/ADJ]()-[en-pos/ADV]() (1; 0% instances), [en-pos/NOUN]()-[en-pos/NOUN]() (1; 0% instances), [en-pos/PRON]()-[en-pos/PART]() (1; 0% instances), [en-pos/PROPN]()-[en-pos/DET]() (1; 0% instances).
+The following 20 pairs of parts of speech are connected with `cc`: [en-pos/VERB]()-[en-pos/CONJ]() (1388; 49% instances), [en-pos/NOUN]()-[en-pos/CONJ]() (812; 28% instances), [en-pos/ADJ]()-[en-pos/CONJ]() (423; 15% instances), [en-pos/PROPN]()-[en-pos/CONJ]() (84; 3% instances), [en-pos/PRON]()-[en-pos/CONJ]() (49; 2% instances), [en-pos/ADV]()-[en-pos/CONJ]() (40; 1% instances), [en-pos/NUM]()-[en-pos/CONJ]() (27; 1% instances), [en-pos/NOUN]()-[en-pos/ADV]() (10; 0% instances), [en-pos/ADP]()-[en-pos/CONJ]() (7; 0% instances), [en-pos/DET]()-[en-pos/CONJ]() (3; 0% instances), [en-pos/SYM]()-[en-pos/CONJ]() (3; 0% instances), [en-pos/VERB]()-[en-pos/ADV]() (3; 0% instances), [en-pos/X]()-[en-pos/CONJ]() (3; 0% instances), [en-pos/NOUN]()-[en-pos/ADP]() (2; 0% instances), [en-pos/ADJ]()-[en-pos/ADV]() (1; 0% instances), [en-pos/INTJ]()-[en-pos/CONJ]() (1; 0% instances), [en-pos/NOUN]()-[en-pos/NOUN]() (1; 0% instances), [en-pos/PRON]()-[en-pos/PART]() (1; 0% instances), [en-pos/PROPN]()-[en-pos/DET]() (1; 0% instances), [en-pos/VERB]()-[en-pos/VERB]() (1; 0% instances).
 
 
 ~~~ conllu
@@ -198,33 +198,43 @@ The following 20 pairs of parts of speech are connected with `cc`: [en-pos/VERB]
 
 This relation is universal.
 
-2505 nodes (3%) are attached to their parents as `cc`.
+2060 nodes (3%) are attached to their parents as `cc`.
 
-2273 instances of `cc` (91%) are left-to-right (parent precedes child).
-Average distance between parent and child is 5.3373253493014.
+2049 instances of `cc` (99%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.65485436893204.
 
-The following 13 pairs of parts of speech are connected with `cc`: [en-pos/VERB]()-[en-pos/CONJ]() (1223; 49% instances), [en-pos/NOUN]()-[en-pos/CONJ]() (742; 30% instances), [en-pos/ADJ]()-[en-pos/CONJ]() (254; 10% instances), [en-pos/PROPN]()-[en-pos/CONJ]() (120; 5% instances), [en-pos/ADV]()-[en-pos/CONJ]() (64; 3% instances), [en-pos/PRON]()-[en-pos/CONJ]() (43; 2% instances), [en-pos/NUM]()-[en-pos/CONJ]() (25; 1% instances), [en-pos/AUX]()-[en-pos/CONJ]() (18; 1% instances), [en-pos/ADP]()-[en-pos/CONJ]() (9; 0% instances), [en-pos/DET]()-[en-pos/CONJ]() (2; 0% instances), [en-pos/INTJ]()-[en-pos/CONJ]() (2; 0% instances), [en-pos/PART]()-[en-pos/CONJ]() (2; 0% instances), [en-pos/SCONJ]()-[en-pos/CONJ]() (1; 0% instances).
+The following 13 pairs of parts of speech are connected with `cc`: [en-pos/VERB]()-[en-pos/CCONJ]() (1024; 50% instances), [en-pos/NOUN]()-[en-pos/CCONJ]() (621; 30% instances), [en-pos/ADJ]()-[en-pos/CCONJ]() (182; 9% instances), [en-pos/PROPN]()-[en-pos/CCONJ]() (86; 4% instances), [en-pos/ADV]()-[en-pos/CCONJ]() (61; 3% instances), [en-pos/PRON]()-[en-pos/CCONJ]() (38; 2% instances), [en-pos/NUM]()-[en-pos/CCONJ]() (21; 1% instances), [en-pos/AUX]()-[en-pos/CCONJ]() (14; 1% instances), [en-pos/PART]()-[en-pos/CCONJ]() (7; 0% instances), [en-pos/ADP]()-[en-pos/CCONJ]() (2; 0% instances), [en-pos/INTJ]()-[en-pos/CCONJ]() (2; 0% instances), [en-pos/DET]()-[en-pos/CCONJ]() (1; 0% instances), [en-pos/SCONJ]()-[en-pos/CCONJ]() (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 2 cc	color:blue
+1	Removing	_	VERB	ING	_	0	root	_	_
+2	and	_	CCONJ	_	_	3	cc	_	_
+3	reapplying	_	VERB	ING	_	1	conj	_	_
+4	a	_	DET	IND-SG	_	5	det	_	_
+5	filter	_	NOUN	SG-NOM	_	3	obj	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
-# visual-style 7 8 cc	color:blue
-1	Select	_	VERB	IMP	_	0	root	_	_
-2	the	_	DET	DEF	_	3	det	_	_
-3	line	_	NOUN	SG	_	1	dobj	_	_
-4	you	_	PRON	PERS-P2	_	5	nsubj	_	_
-5	want	_	VERB	PRES	_	3	acl:relcl	_	_
-6	to	_	PART	_	_	7	mark	_	_
-7	copy	_	VERB	INF	_	5	xcomp	_	_
-8	and	_	CONJ	_	_	7	cc	_	_
-9	press	_	VERB	INF	_	7	conj	_	_
-10	CTRL	_	PROPN	SG	_	9	dobj	_	_
-11	–	_	PUNCT	Dash	_	1	punct	_	_
-12	C	_	PROPN	SG	_	10	nmod	_	_
-13	.	_	PUNCT	Period	_	1	punct	_	_
+# visual-style 7 5 cc	color:blue
+1	Color	_	NOUN	SG-NOM	_	0	root	_	SpaceAfter=No
+2	,	_	PUNCT	Comma	_	1	punct	_	_
+3	transparency	_	NOUN	SG-NOM	_	1	conj	_	SpaceAfter=No
+4	,	_	PUNCT	Comma	_	1	punct	_	_
+5	and	_	CCONJ	_	_	7	cc	_	_
+6	special	_	ADJ	POS	_	7	amod	_	_
+7	effects	_	NOUN	PL-NOM	_	1	conj	_	SpaceAfter=No
+8	.	_	PUNCT	Period	_	1	punct	_	_
 
 ~~~
 
@@ -232,44 +242,96 @@ The following 13 pairs of parts of speech are connected with `cc`: [en-pos/VERB]
 ~~~ conllu
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 6 cc	color:blue
-1	You	_	PRON	PERS-P2	_	3	nsubj	_	_
-2	can	_	AUX	PRES-AUX	_	3	aux	_	_
-3	set	_	VERB	INF	_	0	root	_	_
-4	the	_	DET	DEF	_	5	det	_	_
-5	color	_	NOUN	SG	_	3	dobj	_	_
-6	and	_	CONJ	_	_	5	cc	_	_
-7	width	_	NOUN	SG	_	5	conj	_	_
-8	of	_	ADP	_	_	9	case	_	_
-9	borders	_	NOUN	PL	_	7	nmod	_	_
-10	of	_	ADP	_	_	11	case	_	_
-11	controls	_	NOUN	PL	_	9	nmod	_	_
-12	.	_	PUNCT	Period	_	3	punct	_	_
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 6 cc	color:blue
+1	His	_	PRON	P3SG-GEN	_	2	nmod:poss	_	_
+2	church	_	NOUN	SG-NOM	_	4	nsubj	_	_
+3	is	_	AUX	PRES	_	4	cop	_	_
+4	venerable	_	ADJ	POS	_	0	root	_	_
+5	rich	_	ADJ	POS	_	4	conj	_	_
+6	and	_	CCONJ	_	_	7	cc	_	_
+7	beautiful	_	ADJ	POS	_	4	conj	_	SpaceAfter=No
+8	.	_	PUNCT	Period	_	4	punct	_	_
+
+~~~
+
+
+
+
+--------------------------------------------------------------------------------
+
+## Treebank Statistics (UD_English-ParTUT)
+
+This relation is universal.
+
+1293 nodes (3%) are attached to their parents as `cc`.
+
+1286 instances of `cc` (99%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.65351894818252.
+
+The following 12 pairs of parts of speech are connected with `cc`: [en-pos/NOUN]()-[en-pos/CCONJ]() (589; 46% instances), [en-pos/VERB]()-[en-pos/CCONJ]() (391; 30% instances), [en-pos/ADJ]()-[en-pos/CCONJ]() (152; 12% instances), [en-pos/PROPN]()-[en-pos/CCONJ]() (84; 6% instances), [en-pos/NUM]()-[en-pos/CCONJ]() (18; 1% instances), [en-pos/ADV]()-[en-pos/CCONJ]() (17; 1% instances), [en-pos/NOUN]()-[en-pos/ADV]() (14; 1% instances), [en-pos/PRON]()-[en-pos/CCONJ]() (11; 1% instances), [en-pos/ADP]()-[en-pos/CCONJ]() (8; 1% instances), [en-pos/AUX]()-[en-pos/CCONJ]() (5; 0% instances), [en-pos/SYM]()-[en-pos/CCONJ]() (2; 0% instances), [en-pos/X]()-[en-pos/CCONJ]() (2; 0% instances).
+
+
+~~~ conllu
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 12	bgColor:blue
+# visual-style 12	fgColor:white
+# visual-style 12 7 cc	color:blue
+1	The	the	DET	RD	Definite=Def|PronType=Art	2	det	_	_
+2	work	work	NOUN	S	Number=Sing	4	nsubj:pass	_	_
+3	is	be	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux:pass	_	_
+4	protected	protect	VERB	V	Tense=Past|VerbForm=Part	0	root	_	_
+5	by	by	ADP	E	_	6	case	_	_
+6	copyright	copyright	NOUN	S	Number=Sing	4	obl:agent	_	_
+7	and	and	CCONJ	CC	_	12	cc	_	SpaceAfter=No
+8	/	/	PUNCT	FF	_	9	punct	_	SpaceAfter=No
+9	or	or	CCONJ	CC	_	7	conj	_	_
+10	other	other	ADJ	A	Degree=Pos	12	amod	_	_
+11	applicable	applicable	ADJ	A	Degree=Pos	12	amod	_	_
+12	law	law	NOUN	S	Number=Sing	6	conj	_	SpaceAfter=No
+13	.	.	PUNCT	FS	_	4	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 2 cc	color:blue
-1	"	_	PUNCT	Quote	_	2	punct	_	_
-2	But	_	CONJ	_	_	5	cc	_	_
-3	they	_	PRON	PERS-PL-NOM	_	5	nsubj	_	_
-4	're	_	VERB	PRES	_	5	cop	_	_
-5	cheerful	_	ADJ	POS	_	0	root	_	_
-6	,	_	PUNCT	Comma	_	5	punct	_	_
-7	and	_	CONJ	_	_	5	cc	_	_
-8	they	_	PRON	PERS-PL-NOM	_	10	nsubj	_	_
-9	're	_	VERB	PRES	_	10	cop	_	_
-10	warm	_	ADJ	POS	_	5	conj	_	_
-11	and	_	CONJ	_	_	10	cc	_	_
-12	natural	_	ADJ	POS	_	10	conj	_	_
-13	.	_	PUNCT	Period	_	5	punct	_	_
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 3 cc	color:blue
+1	to	to	PART	PART	_	2	mark	_	_
+2	create	create	VERB	V	VerbForm=Inf	0	root	_	_
+3	and	and	CCONJ	CC	_	4	cc	_	_
+4	reproduce	reproduce	VERB	V	VerbForm=Inf	2	conj	_	_
+5	Derivative	derivative	ADJ	A	Degree=Pos	6	amod	_	_
+6	Works	work	NOUN	S	Number=Plur	2	obj	_	SpaceAfter=No
+7	;	;	PUNCT	FC	_	2	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 11	bgColor:blue
+# visual-style 11	fgColor:white
+# visual-style 12	bgColor:blue
+# visual-style 12	fgColor:white
+# visual-style 12 11 cc	color:blue
+1	I	I	PRON	PE	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+2	think	think	NOUN	S	Number=Sing	0	root	_	_
+3	we	we	PRON	PE	Number=Plur|Person=1|PronType=Prs	6	nsubj	_	_
+4	should	shall	AUX	VM	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	6	aux	_	_
+5	be	be	AUX	VA	VerbForm=Inf	6	cop	_	_
+6	capable	capable	ADJ	A	Degree=Pos	2	ccomp	_	_
+7	of	of	ADP	E	_	8	mark	_	_
+8	saying	say	VERB	V	VerbForm=Ger	6	advcl	_	_
+9	this	this	PRON	PD	Number=Sing|PronType=Dem	8	obj	_	_
+10	loud	loud	ADJ	A	Degree=Pos	8	amod	_	_
+11	and	and	CCONJ	CC	_	12	cc	_	_
+12	clear	clear	ADJ	A	Degree=Pos	10	conj	_	SpaceAfter=No
+13	.	.	PUNCT	FS	_	2	punct	_	_
 
 ~~~
 

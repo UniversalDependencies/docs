@@ -6,67 +6,66 @@
 
 This relation is universal.
 
-1679 nodes (3%) are attached to their parents as `acl`.
+1206 nodes (3%) are attached to their parents as `acl`.
 
-1671 instances of `acl` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.42882668254914.
+1199 instances of `acl` (99%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.52155887230514.
 
-The following 11 pairs of parts of speech are connected with `acl`: [tr-pos/NOUN]()-[tr-pos/VERB]() (1092; 65% instances), [tr-pos/VERB]()-[tr-pos/VERB]() (306; 18% instances), [tr-pos/ADJ]()-[tr-pos/VERB]() (139; 8% instances), [tr-pos/PROPN]()-[tr-pos/VERB]() (110; 7% instances), [tr-pos/PRON]()-[tr-pos/VERB]() (13; 1% instances), [tr-pos/ADV]()-[tr-pos/VERB]() (9; 1% instances), [tr-pos/ADP]()-[tr-pos/VERB]() (4; 0% instances), [tr-pos/CONJ]()-[tr-pos/VERB]() (2; 0% instances), [tr-pos/PUNCT]()-[tr-pos/VERB]() (2; 0% instances), [tr-pos/DET]()-[tr-pos/VERB]() (1; 0% instances), [tr-pos/NUM]()-[tr-pos/VERB]() (1; 0% instances).
+The following 12 pairs of parts of speech are connected with `acl`: [tr-pos/NOUN]()-[tr-pos/VERB]() (799; 66% instances), [tr-pos/VERB]()-[tr-pos/VERB]() (193; 16% instances), [tr-pos/ADJ]()-[tr-pos/VERB]() (103; 9% instances), [tr-pos/PROPN]()-[tr-pos/VERB]() (77; 6% instances), [tr-pos/PRON]()-[tr-pos/VERB]() (11; 1% instances), [tr-pos/ADV]()-[tr-pos/VERB]() (8; 1% instances), [tr-pos/NUM]()-[tr-pos/VERB]() (7; 1% instances), [tr-pos/ADP]()-[tr-pos/VERB]() (2; 0% instances), [tr-pos/DET]()-[tr-pos/VERB]() (2; 0% instances), [tr-pos/PUNCT]()-[tr-pos/VERB]() (2; 0% instances), [tr-pos/CCONJ]()-[tr-pos/VERB]() (1; 0% instances), [tr-pos/INTJ]()-[tr-pos/VERB]() (1; 0% instances).
 
 
 ~~~ conllu
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 3 acl	color:blue
-1	Cumhurbaşkanı	cumhurbaşkanı	NOUN	Noun	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	2	nmod	_	_
-2	ile	ile	CONJ	Conj	_	3	cc	_	_
-3	sürtüşen	sürtüş	VERB	Verb	Aspect=Perf|Mood=Ind|Negative=Pos|Tense=Pres|VerbForm=Part	5	acl	_	_
-4	bir	bir	NUM	ANum	NumType=Card	5	det	_	_
-5	iktidar	iktidar	NOUN	Noun	Case=Nom|Number=Sing|Person=3	6	compound:lvc	_	_
-6	olmak	ol	VERB	Verb	Aspect=Perf|Case=Nom|Mood=Ind|Negative=Pos|Tense=Pres|VerbForm=Ger	7	ccomp	_	_
-7	istemiyoruz	iste	VERB	Verb	Aspect=Prog|Mood=Ind|Negative=Neg|Number=Plur|Person=1|Register=Inf|Tense=Pres	0	root	_	_
-8	.	.	PUNCT	Punc	_	7	punct	_	_
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 3 acl	color:blue
+1	Yüzüstü	yüzüst	NOUN	Noun	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	6	nmod	_	_
+2	bırakınca	bırak	VERB	Verb	Aspect=Perf|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Conv	1	compound	_	_
+3	bayıldığı	bayıl	VERB	Verb	Aspect=Perf|Mood=Ind|Number[psor]=Sing|Person[psor]=3|Polarity=Pos|Tense=Past|VerbForm=Part	4	acl	_	_
+4	avukat	avukat	NOUN	Noun	Case=Nom|Number=Sing|Person=3	1	nsubj	_	SpaceAfter=No
+5	,	,	PUNCT	Punc	_	6	punct	_	_
+6	yoldan	yol	NOUN	Noun	Case=Abl|Number=Sing|Person=3	0	root	_	_
+7	çıkmış	çık	VERB	Verb	Aspect=Perf|Evident=Nfh|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Past	6	compound	_	_
+8	kızcağız	kızcağız	NOUN	Noun	Case=Nom|Number=Sing|Person=3	6	nsubj	_	SpaceAfter=No
+9	...	...	PUNCT	Punc	_	6	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 8 7 acl	color:blue
-1	babasına	baba	NOUN	Noun	Case=Dat|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	3	nmod	_	_
-2	yemek	yemek	NOUN	Noun	Case=Nom|Number=Sing|Person=3	3	dobj	_	_
-3	götürdük	götür	VERB	Verb	Aspect=Perf|Mood=Ind|Negative=Pos|Number=Plur|Person=1|Tense=Past	5	dobj	_	_
-4	,	,	PUNCT	Punc	_	3	punct	_	_
-5	dedi	de	VERB	Verb	Aspect=Perf|Mood=Ind|Negative=Pos|Number=Sing|Person=3|Tense=Past	0	root	_	_
-6	Katana	katana	NOUN	Noun	Case=Nom|Number=Sing|Person=3	5	nsubj	_	_
-7	duyulur	duy	VERB	Verb	Aspect=Imp|Mood=Ind|Negative=Pos|Tense=Aor|VerbForm=Part|Voice=Pass	8	acl	_	_
-8	duyulmaz	duy	VERB	Verb	Aspect=Imp|Mood=Ind|Negative=Neg|Tense=Aor|VerbForm=Part|Voice=Pass	10	acl	_	_
-9	bir	bir	NUM	ANum	NumType=Card	10	det	_	_
-10	sesle	ses	NOUN	Noun	Case=Ins|Number=Sing|Person=3	5	nmod	_	_
-11	.	.	PUNCT	Punc	_	5	punct	_	_
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 9 3 acl	color:blue
+1	Güneş	güneş	NOUN	Noun	Case=Nom|Number=Sing|Person=3	3	nsubj	_	_
+2	tepeye	tepe	NOUN	Noun	Case=Dat|Number=Sing|Person=3	3	obl	_	_
+3	vardığında	var	VERB	Verb	Aspect=Perf|Case=Loc|Mood=Ind|Number[psor]=Sing|Person[psor]=3|Polarity=Pos|Tense=Past|VerbForm=Part	9	acl	_	_
+4	evin	ev	NOUN	Noun	Case=Gen|Number=Sing|Person=3	5	nmod:poss	_	_
+5	etrafında	etraf	NOUN	Noun	Case=Loc|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	7	nmod	_	_
+6	ki	ki	ADP	Rel	_	5	case	_	_
+7	hareket	hareket	NOUN	Noun	Case=Nom|Number=Sing|Person=3	9	nsubj	_	_
+8	de	de	CCONJ	Conj	_	7	advmod:emph	_	_
+9	artıyor	art	VERB	Verb	Aspect=Prog|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Polite=Infm|Tense=Pres	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	Punc	_	9	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 7 5 acl	color:blue
-1	Atatürk'ün	Atatürk	PROPN	Prop	Case=Gen|Number=Sing|Person=3	4	nsubj	_	_
-2	rakıyla	rakı	NOUN	Noun	Case=Ins|Number=Sing|Person=3	3	conj	_	_
-3	leblebi	leblebi	NOUN	Noun	Case=Nom|Number=Sing|Person=3	4	dobj	_	_
-4	sevdiği	sev	VERB	Verb	Aspect=Perf|Case=Nom|Mood=Ind|Negative=Pos|Number[psor]=Sing|Person[psor]=3|Tense=Past|VerbForm=Part	7	dobj	_	_
-5	bilinen	bil	VERB	Verb	Aspect=Perf|Mood=Ind|Negative=Pos|Tense=Pres|VerbForm=Part|Voice=Pass	7	acl	_	_
-6	bir	bir	NUM	ANum	NumType=Card	7	det	_	_
-7	gerçek	gerçek	ADJ	NAdj	Case=Nom|Number=Sing|Person=3	0	root	_	_
-8	.	.	PUNCT	Punc	_	7	punct	_	_
+# visual-style 5 4 acl	color:blue
+1	Ve	ve	CCONJ	Conj	_	5	conj	_	_
+2	kendi	kendi	PRON	Reflex	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3|Reflex=Yes	3	nmod	_	_
+3	merceklerinden	mercek	NOUN	Noun	Case=Abl|Number=Plur|Number[psor]=Sing|Person=3|Person[psor]=3	4	obl	_	_
+4	bakıldığında	bak	VERB	Verb	Aspect=Perf|Case=Loc|Mood=Ind|Number[psor]=Sing|Person[psor]=3|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Pass	5	acl	_	_
+5	haklı	haklı	ADJ	NAdj	Case=Nom|Number=Sing|Person=3	0	root	_	_
+6	lar	i	AUX	Zero	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Pres	5	cop	_	_
+7	.	.	PUNCT	Punc	_	5	punct	_	_
 
 ~~~
 
