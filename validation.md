@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-02-22T12:47:26Z">2017-02-22T12:47:26 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-02-22T15:02:21Z">2017-02-22T15:02:21 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -306,8 +306,8 @@ No data
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD Coptic</span>
 <span class="widespan">cop</span>
-<span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-22T11:06:57Z">2017-02-22T11:06:57 zulu</time></span>
+<span class="validationfail">FAIL</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-22T15:02:20Z">2017-02-22T15:02:20 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -327,7 +327,10 @@ python tools/validate.py --lang cop UD-dev-branches/UD_Coptic/cop-ud-test.conllu
 
 python tools/validate.py --lang cop UD-dev-branches/UD_Coptic/cop-ud-train.conllu
 
-*** PASSED ***
+[Tree number 92 on line 3316]: Mismatch between the text attribute and the FORM field. Form is 'ϥ' but text is 'ⲉⲡⲉϣⲗⲏⲗ...'
+[Line                   9207]: SpaceAfter=No is missing in the MISC field of node #10-11 because the text is 'ⲧⲟⲩⲡⲓⲥⲧⲓⲥⲧⲉ ⲛⲧⲁⲥⲛⲁϩⲙ[...]'
+*** FAILED *** with 2 errors
+Metadata errors: 2
 
 
 ******************
