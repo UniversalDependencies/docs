@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-02-22T11:32:07Z">2017-02-22T11:32:07 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-02-22T11:33:13Z">2017-02-22T11:33:13 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -922,11 +922,11 @@ python tools/validate.py --lang fr_sequoia UD-dev-branches/UD_French-Sequoia/fr_
 <span class="doublewidespan" style="padding-left:3em">UD Galician</span>
 <span class="widespan">gl</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-17T21:48:32Z">2017-02-17T21:48:32 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-22T11:33:07Z">2017-02-22T11:33:07 zulu</time></span>
 </div>
 <div>
 <pre>
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang gl /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Galician/gl-ud-dev.conllu
+python tools/validate.py --lang gl UD-dev-branches/UD_Galician/gl-ud-dev.conllu
 
 [Line                   24]: Unknown UD DEPREL: dobj
 [Line                   30]: Unknown UPOS tag: CONJ
@@ -996,7 +996,7 @@ Syntax errors: 1705
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang gl /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Galician/gl-ud-train.conllu
+python tools/validate.py --lang gl UD-dev-branches/UD_Galician/gl-ud-train.conllu
 
 [Line                   5]: Unknown UD DEPREL: dobj
 [Line                   8]: Unknown UD DEPREL: dobj
