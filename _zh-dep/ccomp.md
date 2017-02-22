@@ -129,7 +129,7 @@ The `ccomp` relation is also used for the copula 是 _shì_ when its argument is
 
 ### 是...(的) constructions
 
-The cleft-like focus constructions involving 是 _shì_ and 是...的 _shì...de_ are treated similarly to copular constructions with a clausal complement illustrated in (5).  In these constructions 是 _shì_ is considered the head, and the verb phrase or clause following it its clausal complement. Any noun phrase or adverbial to the left of 是 _shì_ is treated as a [dislocated]() dependent of 是 _shì_ (rather than subject, adjunct, or oblique nominal of the complement clause). The sentence-final particle 的 _de_ is attached to the complement clause (although note that 的 _de_ may also be a nominalizer or a genitive marker on a nominal predicate depending on the context).
+The cleft-like focus constructions involving 是 _shì_ and 是...的 _shì...de_ are treated similarly to copular constructions with a clausal complement illustrated in (5).  In these constructions 是 _shì_ is considered the head, and the verb phrase or clause following it its clausal complement. Any noun phrase or adverbial to the left of 是 _shì_ is treated as a [dislocated]() dependent of 是 _shì_ (rather than subject, adjunct, or oblique nominal of the complement clause), unless the adverbial is meant to modify 是 _shì_ itself. The sentence-final particle 的 _de_ is attached to the complement clause (although note that 的 _de_ may also be a nominalizer or a genitive marker on a nominal predicate depending on the context).
 
 ~~~ conllu
 # visual-style 2 3 ccomp	color:blue
