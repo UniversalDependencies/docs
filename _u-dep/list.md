@@ -9,7 +9,7 @@ The `list` relation is used for chains of comparable items. In lists with more t
 
 ~~~ sdparse
 Steve Jones Phone: 555-9814 Email: jones@abc.edf
-name(Steve-1, Jones-2)
+flat:name(Steve-1, Jones-2)
 list(Steve-1, Phone:-3)
 list(Steve-1, Email:-5)
 appos(Phone:-3, 555-9814-4)
