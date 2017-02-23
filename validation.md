@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-02-23T21:42:38Z">2017-02-23T21:42:38 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-02-23T21:48:29Z">2017-02-23T21:48:29 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -922,7 +922,7 @@ python tools/validate.py --lang fr_sequoia UD-dev-branches/UD_French-Sequoia/fr_
 <span class="doublewidespan" style="padding-left:3em">UD Galician</span>
 <span class="widespan">gl</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-22T17:35:38Z">2017-02-22T17:35:38 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-23T21:48:22Z">2017-02-23T21:48:22 zulu</time></span>
 </div>
 <div>
 <pre>
