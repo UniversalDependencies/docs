@@ -13,7 +13,7 @@ See [here](release_checklist.html) for the checklist for data contributors.
 * Make sure that you have local clones of all UD_* repositories that should be released.
   This step cannot be automated (unless you write a script that queries Github about all repositories belonging to the UniversalDependencies organization).
 * Make sure you have the most current content of all the repositories (note that this command assumes you have not modified your local copy of the data without pushing it back; if this is the case, you will see lists of modified files in the output and you will have to resolve it). Also make sure that you are working with the `dev` branch:<br />
-  <code>for i in UD_* ; do pushd $i ; git checkout dev ; git pull --no-edit ; popd ; echo ; done</code>
+  <code>for i in UD_* ; do echo $i ; cd $i ; git checkout dev ; git pull --no-edit ; cd .. ; echo ; done</code>
 * Make sure that all CoNLL-U files are formally valid (results of the validator are [available on-line](validation.html) but make sure that no repository is missing there).<br />
   <code>for i in UD_* ; do cd $i ; if [ -f *-dev.conllu ] ; then for j in *.conllu ; do x=$(echo $j | perl -pe 'chomp; s/-ud.*//') ; if ../tools/validate.py --lang $x $j &gt;&amp; /dev/null ; then echo $j valid ; else echo $j INVALID ==================== ; fi ; done ; fi ; cd .. ; done</code>
 * Run `tools/check_files.pl` (if there are new languages, you may need to add their codes in the source code first).
@@ -21,14 +21,11 @@ See [here](release_checklist.html) for the checklist for data contributors.
   It will also collect information such as the list of contributors (we need this metadata for Lindat).
 * <strong>Specific for release 2.0 and the CoNLL shared task:</strong> There will be no test data, and possibly even no training data, if everything what is left needs to be labeled as dev data. However, the dev data should be released in three different forms: 1. the full annotation that we've been always releasing; 2. the form that the systems participating in the shared task will get on input, i.e. raw text without even sentence boundaries; 3. the intermediate form, which is a CoNLL-U file, but it does not contain syntactic annotation, and everything else (sentence segmentation, tokenization, morphology) is predicted by UDPipe. If there is only dev data and no training data, it will have to be processed in the 10-fold fashion.
   * The release script must know the list of treebanks that are included in the shared task. Only these treebanks will have the detokenized and predicted versions mentioned above. Only these treebanks will be also checked again that their repository does not contain the test data. The remaining treebanks (e.g. Coptic, Sanskrit, Tamil) are allowed to include v2 test data.
-* Update the list of licenses for Lindat. See the [LICENSE repository](https://github.com/UniversalDependencies/LICENSE).
-  Send the new list to Lindat so they add it to their menu (they like to get it as a diff file against the previous license;
-  they can be reached at lindat-help@ufal.mff.cuni.cz).
 * Update statistics in the `stats.xml` file in each repository:<br />
   <code>for i in UD_* ; do echo $i ; cd $i ; ( cat *.conllu | ../tools/conllu-stats.pl > stats.xml ) ; git add stats.xml ; git commit -m 'Updated statistics.' ; git push ; cd .. ; echo ; done</code>
 * Run the same script again (but with different settings) and generate the long statistics that are displayed in the docs:
   This time the script is run for every language (not every treebank):<br />
-  <code>for l in ar be bg ca cop cs cu da de el en es et eu fa fi fr ga gl got grc he hi hr id it ja kk ko la lt lv nl no pl pt ro ru sa sk sl sv ta tr ug uk ur vi zh ; do perl tools/conllu-stats.pl --detailed --data . --docs docs --lang $l ; done</code>
+  <code>for l in ar be bg ca cop cs cu da de el en es et eu fa fi fr ga gl got grc he hi hr hu id it ja kk ko la lt lv nl no pl pt ro ru sa sk sl sv ta tr ug uk ur vi zh ; do perl tools/conllu-stats.pl --detailed --data . --docs docs --lang $l ; done ; cd docs ; git add --all _includes/stats ; git commit -m 'Updated statistics.' ; git push</code>
 * Merge the `dev` branch into `master` in every UD_* repository.
   The `master` branch should not be touched the next six months and it should have exactly the contents that was officially
   released. In fact, the individual data providers should never commit anything to the `master` branch, only to `dev` branch.
@@ -57,6 +54,9 @@ See [here](release_checklist.html) for the checklist for data contributors.
   And this is how you remove it from Github: `git push origin :refs/tags/r1.3`.
   WARNING: The following command tags all UD repositories, including those that are not part of the current release.<br />
   <code>for i in UD_* docs tools ; do pushd $i ; git tag r1.4 ; git push --tags ; popd ; echo ; done</code>
+* Update the list of licenses for Lindat. See the [LICENSE repository](https://github.com/UniversalDependencies/LICENSE).
+  Send the new list to Lindat so they add it to their menu (they like to get it as a diff file against the previous license;
+  they can be reached at lindat-help@ufal.mff.cuni.cz).
 * Once the Lindat staff make the new license list available in their system, we can
   [create a new Lindat item](https://lindat.mff.cuni.cz/repository/xmlui/submit) for the new version of UD.
   (The server starts by asking you to “select a community”. Choose LINDAT / CLARIN.

@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-02-22T12:02:36Z">2017-02-22T12:02:36 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-02-24T21:27:57Z">2017-02-24T21:27:57 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -307,7 +307,7 @@ No data
 <span class="doublewidespan" style="padding-left:3em">UD Coptic</span>
 <span class="widespan">cop</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-22T11:06:57Z">2017-02-22T11:06:57 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-23T21:42:37Z">2017-02-23T21:42:37 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -921,147 +921,21 @@ python tools/validate.py --lang fr_sequoia UD-dev-branches/UD_French-Sequoia/fr_
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD Galician</span>
 <span class="widespan">gl</span>
-<span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-22T11:33:07Z">2017-02-22T11:33:07 zulu</time></span>
+<span class="validationpass">PASS</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-23T21:48:22Z">2017-02-23T21:48:22 zulu</time></span>
 </div>
 <div>
 <pre>
 python tools/validate.py --lang gl UD-dev-branches/UD_Galician/gl-ud-dev.conllu
 
-[Line                   24]: Unknown UD DEPREL: dobj
-[Line                   30]: Unknown UPOS tag: CONJ
-[Line                   33]: Unknown UD DEPREL: dobj
-[Line                   34]: Unknown UPOS tag: CONJ
-[Line                   46]: Missing the sent_id attribute.
-[Line                   46]: Missing the text attribute.
-[Line                   77]: Missing the sent_id attribute.
-[Line                   77]: Missing the text attribute.
-[Line                   81]: Unknown UD DEPREL: dobj
-[Line                   87]: Unknown UPOS tag: CONJ
-[Line                   90]: Unknown UD DEPREL: dobj
-[Line                   94]: Unknown UD DEPREL: dobj
-[Line                   101]: Missing the sent_id attribute.
-[Line                   101]: Missing the text attribute.
-[Line                   129]: Missing the sent_id attribute.
-[Line                   129]: Missing the text attribute.
-[Line                   134]: Unknown UD DEPREL: dobj
-[Line                   136]: Unknown UPOS tag: CONJ
-[Line                   163]: Missing the sent_id attribute.
-[Line                   163]: Missing the text attribute.
-[Line                   176]: Unknown UD DEPREL: dobj
-[Line                   182]: Unknown UPOS tag: CONJ
-[Line                   195]: Unknown UPOS tag: CONJ
-[Line                   202]: Unknown UD DEPREL: dobj
-[Line                   210]: Missing the sent_id attribute.
-[Line                   210]: Missing the text attribute.
-[Line                   219]: Unknown UPOS tag: CONJ
-[Line                   226]: Unknown UD DEPREL: dobj
-[Line                   227]: Unknown UD DEPREL: dobj
-[Line                   232]: Unknown UD DEPREL: dobj
-[Line                   236]: Missing the sent_id attribute.
-[Line                   236]: Missing the text attribute.
-[Line                   242]: Unknown UD DEPREL: dobj
-[Line                   246]: Unknown UD DEPREL: dobj
-[Line                   252]: Unknown UD DEPREL: dobj
-[Line                   256]: Unknown UD DEPREL: dobj
-[Line                   258]: Unknown UPOS tag: CONJ
-[Line                   260]: Unknown UD DEPREL: dobj
-[Line                   266]: Unknown UD DEPREL: dobj
-[Line                   277]: Unknown UD DEPREL: dobj
-[Line                   280]: Unknown UPOS tag: CONJ
-[Line                   284]: Missing the sent_id attribute.
-[Line                   284]: Missing the text attribute.
-[Line                   290]: Unknown UD DEPREL: dobj
-...suppressing further errors regarding Syntax
-[Line                   302]: Unknown UPOS tag: CONJ
-[Line                   311]: Missing the sent_id attribute.
-[Line                   311]: Missing the text attribute.
-[Line                   322]: Unknown UPOS tag: CONJ
-[Line                   336]: Missing the sent_id attribute.
-...suppressing further errors regarding Metadata
-[Line                   358]: Unknown UPOS tag: CONJ
-[Line                   380]: Unknown UPOS tag: CONJ
-[Line                   395]: Unknown UPOS tag: CONJ
-[Line                   412]: Unknown UPOS tag: CONJ
-[Line                   416]: Unknown UPOS tag: CONJ
-[Line                   420]: Unknown UPOS tag: CONJ
-[Line                   425]: Unknown UPOS tag: CONJ
-[Line                   487]: Unknown UPOS tag: CONJ
-...suppressing further errors regarding Morpho
-*** FAILED *** with 4351 errors
-Metadata errors: 1726
-Morpho errors: 920
-Syntax errors: 1705
+*** PASSED ***
 
 
 ******************
 
 python tools/validate.py --lang gl UD-dev-branches/UD_Galician/gl-ud-train.conllu
 
-[Line                   5]: Unknown UD DEPREL: dobj
-[Line                   8]: Unknown UD DEPREL: dobj
-[Line                   17]: Unknown UPOS tag: CONJ
-[Line                   31]: Unknown UD DEPREL: dobj
-[Line                   43]: Missing the sent_id attribute.
-[Line                   43]: Missing the text attribute.
-[Line                   54]: Unknown UD DEPREL: dobj
-[Line                   60]: Unknown UD DEPREL: dobj
-[Line                   68]: Unknown UD DEPREL: dobj
-[Line                   70]: Unknown UD DEPREL: dobj
-[Line                   77]: Missing the sent_id attribute.
-[Line                   77]: Missing the text attribute.
-[Line                   88]: Unknown UD DEPREL: dobj
-[Line                   95]: Unknown UPOS tag: CONJ
-[Line                   105]: Missing the sent_id attribute.
-[Line                   105]: Missing the text attribute.
-[Line                   120]: Unknown UD DEPREL: dobj
-[Line                   130]: Unknown UD DEPREL: dobj
-[Line                   134]: Unknown UPOS tag: CONJ
-[Line                   139]: Missing the sent_id attribute.
-[Line                   139]: Missing the text attribute.
-[Line                   144]: Unknown UD DEPREL: dobj
-[Line                   153]: Unknown UD DEPREL: dobj
-[Line                   161]: Unknown UD DEPREL: dobj
-[Line                   169]: Unknown UPOS tag: CONJ
-[Line                   177]: Missing the sent_id attribute.
-[Line                   177]: Missing the text attribute.
-[Line                   181]: Unknown UD DEPREL: dobj
-[Line                   187]: Unknown UD DEPREL: dobj
-[Line                   203]: Unknown UPOS tag: CONJ
-[Line                   206]: Unknown UPOS tag: CONJ
-[Line                   219]: Unknown UD DEPREL: dobj
-[Line                   230]: Missing the sent_id attribute.
-[Line                   230]: Missing the text attribute.
-[Line                   240]: Unknown UD DEPREL: dobj
-[Line                   247]: Unknown UPOS tag: CONJ
-[Line                   250]: Unknown UD DEPREL: dobj
-[Line                   255]: Unknown UPOS tag: CONJ
-[Line                   267]: Unknown UD DEPREL: dobj
-[Line                   272]: Missing the sent_id attribute.
-[Line                   272]: Missing the text attribute.
-...suppressing further errors regarding Syntax
-[Line                   301]: Missing the sent_id attribute.
-[Line                   301]: Missing the text attribute.
-[Line                   323]: Unknown UPOS tag: CONJ
-[Line                   335]: Unknown UPOS tag: CONJ
-[Line                   341]: Missing the sent_id attribute.
-[Line                   341]: Missing the text attribute.
-[Line                   354]: Unknown UPOS tag: CONJ
-[Line                   382]: Unknown UPOS tag: CONJ
-[Line                   387]: Missing the sent_id attribute.
-...suppressing further errors regarding Metadata
-[Line                   407]: Unknown UPOS tag: CONJ
-[Line                   423]: Unknown UPOS tag: CONJ
-[Line                   459]: Unknown UPOS tag: CONJ
-[Line                   469]: Unknown UPOS tag: CONJ
-[Line                   494]: Unknown UPOS tag: CONJ
-[Line                   509]: Unknown UPOS tag: CONJ
-[Line                   520]: Unknown UPOS tag: CONJ
-...suppressing further errors regarding Morpho
-*** FAILED *** with 11327 errors
-Metadata errors: 4552
-Morpho errors: 2429
-Syntax errors: 4346
+*** PASSED ***
 
 
 ******************
@@ -1222,147 +1096,21 @@ python tools/validate.py --lang hi UD-dev-branches/UD_Hindi/hi-ud-train.conllu
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD Hungarian</span>
 <span class="widespan">hu</span>
-<span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-22T11:41:43Z">2017-02-22T11:41:43 zulu</time></span>
+<span class="validationpass">PASS</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-24T21:27:54Z">2017-02-24T21:27:54 zulu</time></span>
 </div>
 <div>
 <pre>
 python tools/validate.py --lang hu UD-dev-branches/UD_Hungarian/hu-ud-dev.conllu
 
-[Line                   7]: Unknown UD DEPREL: dobj
-[Line                   9]: Unknown UD DEPREL: dobj
-[Line                   10]: Unknown UD DEPREL: name
-[Line                   15]: Unknown UD DEPREL: name
-[Line                   16]: Unknown UD DEPREL: dobj
-[Line                   19]: Unknown UD DEPREL: name
-[Line                   29]: Unknown UD DEPREL: neg
-[Line                   33]: Unknown UD DEPREL: dobj
-[Line                   35]: Missing the sent_id attribute.
-[Line                   35]: Missing the text attribute.
-[Line                   53]: Missing the sent_id attribute.
-[Line                   53]: Missing the text attribute.
-[Line                   70]: Unknown UPOS tag: CONJ
-[Line                   79]: Missing the sent_id attribute.
-[Line                   79]: Missing the text attribute.
-[Line                   87]: Unknown UD DEPREL: dobj
-[Line                   91]: Unknown UD DEPREL: name
-[Line                   92]: Unknown UD DEPREL: name
-[Line                   114]: Unknown UD DEPREL: dobj
-[Line                   122]: Unknown UD DEPREL: dobj
-[Line                   124]: Missing the sent_id attribute.
-[Line                   124]: Missing the text attribute.
-[Line                   136]: Unknown UD DEPREL: dobj
-[Line                   138]: Missing the sent_id attribute.
-[Line                   138]: Missing the text attribute.
-[Line                   144]: Unknown UPOS tag: CONJ
-[Line                   160]: Unknown UD DEPREL: dobj
-[Line                   161]: Unknown UPOS tag: CONJ
-[Line                   166]: Unknown UPOS tag: CONJ
-[Line                   169]: Missing the sent_id attribute.
-[Line                   169]: Missing the text attribute.
-[Line                   178]: Unknown UD DEPREL: dobj
-[Line                   181]: Unknown UPOS tag: CONJ
-[Line                   184]: Unknown UD DEPREL: dobj
-[Line                   186]: Missing the sent_id attribute.
-[Line                   186]: Missing the text attribute.
-[Line                   197]: Unknown UPOS tag: CONJ
-[Line                   203]: Missing the sent_id attribute.
-[Line                   203]: Missing the text attribute.
-[Line                   209]: Unknown UPOS tag: CONJ
-[Line                   215]: Missing the sent_id attribute.
-[Line                   215]: Missing the text attribute.
-[Line                   217]: Unknown UD DEPREL: name
-[Line                   218]: Unknown UD DEPREL: name
-...suppressing further errors regarding Syntax
-[Line                   264]: Missing the sent_id attribute.
-...suppressing further errors regarding Metadata
-[Line                   311]: Unknown UPOS tag: CONJ
-[Line                   333]: Unknown UPOS tag: CONJ
-[Line                   341]: Unknown UPOS tag: CONJ
-[Line                   376]: Unknown UPOS tag: CONJ
-[Line                   404]: Unknown UPOS tag: CONJ
-[Line                   428]: Unknown UPOS tag: CONJ
-[Line                   525]: Unknown UPOS tag: CONJ
-[Line                   557]: Unknown UPOS tag: CONJ
-[Line                   571]: Unknown UPOS tag: CONJ
-[Line                   591]: Unknown UPOS tag: CONJ
-[Line                   597]: Unknown UPOS tag: CONJ
-[Line                   606]: Unknown UPOS tag: CONJ
-...suppressing further errors regarding Morpho
-*** FAILED *** with 921 errors
-Metadata errors: 358
-Morpho errors: 167
-Syntax errors: 396
+*** PASSED ***
 
 
 ******************
 
 python tools/validate.py --lang hu UD-dev-branches/UD_Hungarian/hu-ud-train.conllu
 
-[Line                   4]: Unknown UPOS tag: CONJ
-[Line                   14]: Unknown UD DEPREL: dobj
-[Line                   21]: Unknown UPOS tag: CONJ
-[Line                   33]: Missing the sent_id attribute.
-[Line                   33]: Missing the text attribute.
-[Line                   35]: Unknown UD DEPREL: dobj
-[Line                   41]: Unknown UPOS tag: CONJ
-[Line                   45]: Unknown UPOS tag: CONJ
-[Line                   59]: Missing the sent_id attribute.
-[Line                   59]: Missing the text attribute.
-[Line                   71]: Unknown UD DEPREL: neg
-[Line                   74]: Unknown UD DEPREL: dobj
-[Line                   86]: Missing the sent_id attribute.
-[Line                   86]: Missing the text attribute.
-[Line                   91]: Unknown UD DEPREL: neg
-[Line                   104]: Missing the sent_id attribute.
-[Line                   104]: Missing the text attribute.
-[Line                   115]: Unknown UPOS tag: CONJ
-[Line                   125]: Unknown UPOS tag: CONJ
-[Line                   131]: Missing the sent_id attribute.
-[Line                   131]: Missing the text attribute.
-[Line                   137]: Unknown UD DEPREL: neg
-[Line                   142]: Unknown UD DEPREL: dobj
-[Line                   145]: Unknown UPOS tag: CONJ
-[Line                   154]: Unknown UD DEPREL: name
-[Line                   158]: Unknown UD DEPREL: name
-[Line                   162]: Missing the sent_id attribute.
-[Line                   162]: Missing the text attribute.
-[Line                   164]: Unknown UD DEPREL: dobj
-[Line                   170]: Unknown UD DEPREL: dobj
-[Line                   178]: Missing the sent_id attribute.
-[Line                   178]: Missing the text attribute.
-[Line                   187]: Unknown UD DEPREL: dobj
-[Line                   202]: Missing the sent_id attribute.
-[Line                   202]: Missing the text attribute.
-[Line                   205]: Unknown UD DEPREL: dobj
-[Line                   212]: Unknown UD DEPREL: name
-[Line                   215]: Missing the sent_id attribute.
-[Line                   215]: Missing the text attribute.
-[Line                   224]: Unknown UD DEPREL: dobj
-[Line                   226]: Missing the sent_id attribute.
-...suppressing further errors regarding Metadata
-[Line                   237]: Unknown UPOS tag: CONJ
-[Line                   244]: Unknown UPOS tag: CONJ
-[Line                   247]: Unknown UD DEPREL: dobj
-[Line                   256]: Unknown UD DEPREL: dobj
-[Line                   262]: Unknown UD DEPREL: neg
-[Line                   273]: Unknown UPOS tag: CONJ
-[Line                   274]: Unknown UD DEPREL: remnant
-[Line                   275]: Unknown UPOS tag: CONJ
-...suppressing further errors regarding Syntax
-[Line                   324]: Unknown UPOS tag: CONJ
-[Line                   342]: Unknown UPOS tag: CONJ
-[Line                   373]: Unknown UPOS tag: CONJ
-[Line                   415]: Unknown UPOS tag: CONJ
-[Line                   444]: Unknown UPOS tag: CONJ
-[Line                   467]: Unknown UPOS tag: CONJ
-[Line                   488]: Unknown UPOS tag: CONJ
-[Line                   515]: Unknown UPOS tag: CONJ
-...suppressing further errors regarding Morpho
-*** FAILED *** with 7084 errors
-Metadata errors: 2866
-Morpho errors: 1550
-Syntax errors: 2668
+*** PASSED ***
 
 
 ******************
@@ -1668,7 +1416,7 @@ python tools/validate.py --lang kk UD-dev-branches/UD_Kazakh/kk-ud-dev.conllu
 <span class="doublewidespan" style="padding-left:3em">UD Korean</span>
 <span class="widespan">ko</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-22T11:48:18Z">2017-02-22T11:48:18 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-24T16:39:07Z">2017-02-24T16:39:07 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -1890,7 +1638,7 @@ python tools/validate.py --lang cu UD-dev-branches/UD_Old_Church_Slavonic/cu-ud-
 <span class="doublewidespan" style="padding-left:3em">UD Persian</span>
 <span class="widespan">fa</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-21T21:05:50Z">2017-02-21T21:05:50 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-24T20:31:53Z">2017-02-24T20:31:53 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -2040,7 +1788,7 @@ python tools/validate.py --lang ru UD-dev-branches/UD_Russian/ru-ud-train.conllu
 <span class="doublewidespan" style="padding-left:3em">UD Russian-SynTagRus</span>
 <span class="widespan">ru syntagrus</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-21T15:44:06Z">2017-02-21T15:44:06 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-22T12:33:36Z">2017-02-22T12:33:36 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -2108,18 +1856,18 @@ No data
 <span class="doublewidespan" style="padding-left:3em">UD Slovak</span>
 <span class="widespan">sk</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-17T21:53:53Z">2017-02-17T21:53:53 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-22T12:36:14Z">2017-02-22T12:36:14 zulu</time></span>
 </div>
 <div>
 <pre>
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang sk /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Slovak/sk-ud-dev.conllu
+python tools/validate.py --lang sk UD-dev-branches/UD_Slovak/sk-ud-dev.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang sk /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Slovak/sk-ud-train.conllu
+python tools/validate.py --lang sk UD-dev-branches/UD_Slovak/sk-ud-train.conllu
 
 *** PASSED ***
 
@@ -2133,18 +1881,18 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang sk /home/ginter/UD_PROJ
 <span class="doublewidespan" style="padding-left:3em">UD Slovenian</span>
 <span class="widespan">sl</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-17T21:54:00Z">2017-02-17T21:54:00 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-22T12:37:15Z">2017-02-22T12:37:15 zulu</time></span>
 </div>
 <div>
 <pre>
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang sl /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Slovenian/sl-ud-dev.conllu
+python tools/validate.py --lang sl UD-dev-branches/UD_Slovenian/sl-ud-dev.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang sl /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Slovenian/sl-ud-train.conllu
+python tools/validate.py --lang sl UD-dev-branches/UD_Slovenian/sl-ud-train.conllu
 
 *** PASSED ***
 
@@ -2158,18 +1906,18 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang sl /home/ginter/UD_PROJ
 <span class="doublewidespan" style="padding-left:3em">UD Slovenian-SST</span>
 <span class="widespan">sl sst</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-17T21:54:09Z">2017-02-17T21:54:09 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-22T12:38:00Z">2017-02-22T12:38:00 zulu</time></span>
 </div>
 <div>
 <pre>
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang sl_sst /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Slovenian-SST/sl_sst-ud-dev.conllu
+python tools/validate.py --lang sl_sst UD-dev-branches/UD_Slovenian-SST/sl_sst-ud-dev.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang sl_sst /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Slovenian-SST/sl_sst-ud-train.conllu
+python tools/validate.py --lang sl_sst UD-dev-branches/UD_Slovenian-SST/sl_sst-ud-train.conllu
 
 *** PASSED ***
 
@@ -2205,18 +1953,18 @@ No data
 <span class="doublewidespan" style="padding-left:3em">UD Spanish</span>
 <span class="widespan">es</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-17T21:54:10Z">2017-02-17T21:54:10 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-22T12:39:34Z">2017-02-22T12:39:34 zulu</time></span>
 </div>
 <div>
 <pre>
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang es /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Spanish/es-ud-dev.conllu
+python tools/validate.py --lang es UD-dev-branches/UD_Spanish/es-ud-dev.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang es /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Spanish/es-ud-train.conllu
+python tools/validate.py --lang es UD-dev-branches/UD_Spanish/es-ud-train.conllu
 
 *** PASSED ***
 
@@ -2230,18 +1978,18 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang es /home/ginter/UD_PROJ
 <span class="doublewidespan" style="padding-left:3em">UD Spanish-AnCora</span>
 <span class="widespan">es ancora</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-17T21:54:36Z">2017-02-17T21:54:36 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-22T12:42:08Z">2017-02-22T12:42:08 zulu</time></span>
 </div>
 <div>
 <pre>
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang es_ancora /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Spanish-AnCora/es_ancora-ud-dev.conllu
+python tools/validate.py --lang es_ancora UD-dev-branches/UD_Spanish-AnCora/es_ancora-ud-dev.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang es_ancora /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Spanish-AnCora/es_ancora-ud-train.conllu
+python tools/validate.py --lang es_ancora UD-dev-branches/UD_Spanish-AnCora/es_ancora-ud-train.conllu
 
 *** PASSED ***
 
@@ -2255,18 +2003,18 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang es_ancora /home/ginter/
 <span class="doublewidespan" style="padding-left:3em">UD Swedish</span>
 <span class="widespan">sv</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-17T21:55:09Z">2017-02-17T21:55:09 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-22T12:43:43Z">2017-02-22T12:43:43 zulu</time></span>
 </div>
 <div>
 <pre>
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang sv /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Swedish/sv-ud-dev.conllu
+python tools/validate.py --lang sv UD-dev-branches/UD_Swedish/sv-ud-dev.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang sv /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Swedish/sv-ud-train.conllu
+python tools/validate.py --lang sv UD-dev-branches/UD_Swedish/sv-ud-train.conllu
 
 *** PASSED ***
 
@@ -2280,7 +2028,7 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang sv /home/ginter/UD_PROJ
 <span class="doublewidespan" style="padding-left:3em">UD Swedish-LinES</span>
 <span class="widespan">sv lines</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-20T12:57:56Z">2017-02-20T12:57:56 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-22T12:44:26Z">2017-02-22T12:44:26 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -2305,11 +2053,11 @@ python tools/validate.py --lang sv_lines UD-dev-branches/UD_Swedish-LinES/sv_lin
 <span class="doublewidespan" style="padding-left:3em">UD Swedish Sign Language</span>
 <span class="widespan">swl</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-17T21:55:18Z">2017-02-17T21:55:18 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-22T12:44:55Z">2017-02-22T12:44:55 zulu</time></span>
 </div>
 <div>
 <pre>
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang swl /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Swedish_Sign_Language/swl-ud-dev.conllu
+python tools/validate.py --lang swl UD-dev-branches/UD_Swedish_Sign_Language/swl-ud-dev.conllu
 
 [Line                   3]: Missing the sent_id attribute.
 [Line                   3]: Missing the text attribute.
@@ -2338,7 +2086,7 @@ Syntax errors: 4
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang swl /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Swedish_Sign_Language/swl-ud-train.conllu
+python tools/validate.py --lang swl UD-dev-branches/UD_Swedish_Sign_Language/swl-ud-train.conllu
 
 [Line                   11]: Missing the sent_id attribute.
 [Line                   11]: Missing the text attribute.
@@ -2417,18 +2165,18 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang ta /home/ginter/UD_PROJ
 <span class="doublewidespan" style="padding-left:3em">UD Turkish</span>
 <span class="widespan">tr</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-17T21:55:19Z">2017-02-17T21:55:19 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-22T12:45:31Z">2017-02-22T12:45:31 zulu</time></span>
 </div>
 <div>
 <pre>
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang tr /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Turkish/tr-ud-dev.conllu
+python tools/validate.py --lang tr UD-dev-branches/UD_Turkish/tr-ud-dev.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang tr /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Turkish/tr-ud-train.conllu
+python tools/validate.py --lang tr UD-dev-branches/UD_Turkish/tr-ud-train.conllu
 
 *** PASSED ***
 
@@ -2442,7 +2190,7 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang tr /home/ginter/UD_PROJ
 <span class="doublewidespan" style="padding-left:3em">UD Ukrainian</span>
 <span class="widespan">uk</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-18T20:26:10Z">2017-02-18T20:26:10 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-22T12:46:03Z">2017-02-22T12:46:03 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -2467,18 +2215,18 @@ python tools/validate.py --lang uk UD-dev-branches/UD_Ukrainian/uk-ud-train.conl
 <span class="doublewidespan" style="padding-left:3em">UD Urdu</span>
 <span class="widespan">ur</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-17T21:55:23Z">2017-02-17T21:55:23 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-22T12:46:48Z">2017-02-22T12:46:48 zulu</time></span>
 </div>
 <div>
 <pre>
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang ur /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Urdu/ur-ud-dev.conllu
+python tools/validate.py --lang ur UD-dev-branches/UD_Urdu/ur-ud-dev.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang ur /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Urdu/ur-ud-train.conllu
+python tools/validate.py --lang ur UD-dev-branches/UD_Urdu/ur-ud-train.conllu
 
 *** PASSED ***
 
@@ -2492,11 +2240,11 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang ur /home/ginter/UD_PROJ
 <span class="doublewidespan" style="padding-left:3em">UD Uyghur</span>
 <span class="widespan">ug</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-02-17T21:55:32Z">2017-02-17T21:55:32 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-02-22T12:47:26Z">2017-02-22T12:47:26 zulu</time></span>
 </div>
 <div>
 <pre>
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang ug /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Uyghur/ug-ud-dev.conllu
+python tools/validate.py --lang ug UD-dev-branches/UD_Uyghur/ug-ud-dev.conllu
 
 *** PASSED ***
 

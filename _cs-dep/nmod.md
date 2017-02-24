@@ -47,14 +47,14 @@ nmod(Met, Thursday)
 
 `nmod` noun phrases attached to nouns are usually in the genitive [cs-feat/Case]() and follow the modified noun.
 However, there is also a different kind of `nmod` that precedes the modified noun and agrees with it in case and number.
-A typical example is a title attached to a name of a person. The relation is similar to the [name]() relation
-that links the first and the last name, but it is not labeled `name` because the title is not part of the name:
+A typical example is a title attached to a name of a person. The relation is similar to the [flat]() relation
+that links the first and the last name, but it is not labeled `flat` because the title is not part of the name:
 
 ~~~ sdparse
 český prezident Václav Havel
 amod(prezident, český)
-nmod(Havel, prezident)
-name(Havel, Václav)
+nmod(Václav, prezident)
+flat(Václav, Havel)
 ~~~
 
 Note that the same thing can be also expressed using an [apposition](appos).
@@ -62,8 +62,8 @@ In the case of apposition, the title follows the modified name and is separated 
 
 ~~~ sdparse
 Václav Havel , český prezident
-name(Havel, Václav)
+flat(Václav, Havel)
 punct(prezident, ,-3)
 amod(prezident, český)
-appos(Havel, prezident)
+appos(Václav, prezident)
 ~~~
