@@ -47,17 +47,14 @@ The following 17 pairs of parts of speech are connected with `vocative`: [en-pos
 
 
 ~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 5 vocative	color:blue
-1	What	what	PRON	WP	PronType=Int	3	nsubj	_	SpaceAfter=No
-2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	_
-3	going	go	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	_
-4	on	on	ADP	RP	_	3	compound:prt	_	_
-5	dude	dude	NOUN	NN	Number=Sing	3	vocative	_	SpaceAfter=No
-6	?	?	PUNCT	.	_	3	punct	_	_
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 2 vocative	color:blue
+1	Welcome	welcome	INTJ	UH	_	0	root	_	_
+2	Darin	Darin	PROPN	NNP	Number=Sing	1	vocative	_	SpaceAfter=No
+3	!	!	PUNCT	.	_	1	punct	_	_
 
 ~~~
 

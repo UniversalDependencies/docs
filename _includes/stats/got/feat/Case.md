@@ -89,7 +89,7 @@ The most frequent other feature values with which `ADJ` and `Case` co-occurred: 
 
 2093 [got-pos/VERB]() tokens (20% of all `VERB` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `VERB` and `Case` co-occurred: <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (2093; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (2093; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (2093; 100%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (1626; 78%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (1499; 72%), <tt><a href="Voice.html">Voice</a>=Act</tt> (1499; 72%), <tt><a href="Number.html">Number</a>=Sing</tt> (1265; 60%), <tt><a href="Strength.html">Strength</a>=Strong</tt> (1065; 51%).
+The most frequent other feature values with which `VERB` and `Case` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (2093; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (2093; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (2093; 100%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (1626; 78%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (1499; 72%), <tt><a href="Voice.html">Voice</a>=Act</tt> (1499; 72%), <tt><a href="Number.html">Number</a>=Sing</tt> (1265; 60%), <tt><a href="Strength.html">Strength</a>=Strong</tt> (1065; 51%).
 
 `VERB` tokens may have the following values of `Case`:
 

@@ -11,7 +11,7 @@ The 10 most frequent `NOUN` lemmas: <em>mees, aeg, inimene, tuba, käsi, kana, a
 
 The 10 most frequent `NOUN` types:  <em>mees, tuul, tüdruk, kääbus, naine, sir, kana, mehe, tuppa, ema</em>
 
-The 10 most frequent ambiguous lemmas: <em>pea</em> ([NOUN]() 43, [ADV]() 3), <em>kord</em> ([NOUN]() 27, [ADV]() 3), <em>jõud</em> ([NOUN]() 12, [VERB]() 4), <em>vahe</em> ([NOUN]() 12, [ADP]() 1), <em>paik</em> ([NOUN]() 10, [ADP]() 1), <em>võit</em> ([NOUN]() 10, [VERB]() 1), <em>külm</em> ([ADJ]() 11, [NOUN]() 8), <em>haige</em> ([ADJ]() 7, [NOUN]() 7), <em>laul</em> ([NOUN]() 6, [VERB]() 1), <em>sõit</em> ([VERB]() 38, [NOUN]() 6)
+The 10 most frequent ambiguous lemmas: <em>pea</em> ([NOUN]() 43, [ADV]() 3), <em>kord</em> ([NOUN]() 27, [ADV]() 3), <em>jõud</em> ([NOUN]() 12, [VERB]() 4), <em>vahe</em> ([NOUN]() 12, [ADP]() 1), <em>paik</em> ([NOUN]() 10, [ADP]() 1), <em>võit</em> ([NOUN]() 10, [VERB]() 1), <em>külm</em> ([ADJ]() 11, [NOUN]() 8), <em>haige</em> ([NOUN]() 7, [ADJ]() 7), <em>laul</em> ([NOUN]() 6, [VERB]() 1), <em>sõit</em> ([VERB]() 38, [NOUN]() 6)
 
 The 10 most frequent ambiguous types:  <em>tee</em> ([NOUN]() 15, [VERB]() 7), <em>ajal</em> ([NOUN]() 15, [ADP]() 6), <em>pea</em> ([NOUN]() 15, [ADV]() 3, [VERB]() 1, [AUX]() 1), <em>hommikust</em> ([NOUN]() 9, [ADJ]() 1), <em>pähe</em> ([NOUN]() 10, [ADV]() 1), <em>õue</em> ([NOUN]() 9, [ADV]() 1), <em>pead</em> ([NOUN]() 8, [AUX]() 3, [VERB]() 1), <em>vahet</em> ([NOUN]() 7, [ADP]() 4), <em>kombel</em> ([NOUN]() 7, [ADP]() 2), <em>elus</em> ([NOUN]() 5, [ADJ]() 4)
 

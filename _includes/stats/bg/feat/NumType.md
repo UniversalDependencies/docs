@@ -35,7 +35,7 @@ The most frequent other feature values with which `NUM` and `NumType` co-occurre
 
 818 [bg-pos/ADJ]() tokens (7% of all `ADJ` tokens) have a non-empty value of `NumType`.
 
-The most frequent other feature values with which `ADJ` and `NumType` co-occurred: <tt><a href="Aspect.html">Aspect</a>=EMPTY</tt> (818; 100%), <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (818; 100%), <tt><a href="VerbForm.html">VerbForm</a>=EMPTY</tt> (818; 100%), <tt><a href="Degree.html">Degree</a>=Pos</tt> (818; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (764; 93%), <tt><a href="Definite.html">Definite</a>=Ind</tt> (601; 73%).
+The most frequent other feature values with which `ADJ` and `NumType` co-occurred: <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (818; 100%), <tt><a href="VerbForm.html">VerbForm</a>=EMPTY</tt> (818; 100%), <tt><a href="Aspect.html">Aspect</a>=EMPTY</tt> (818; 100%), <tt><a href="Degree.html">Degree</a>=Pos</tt> (818; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (764; 93%), <tt><a href="Definite.html">Definite</a>=Ind</tt> (601; 73%).
 
 `ADJ` tokens may have the following values of `NumType`:
 

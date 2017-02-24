@@ -16,7 +16,7 @@ The feature is used with 3 part-of-speech tags: [bg-pos/VERB]() (14273; 10% inst
 
 14273 [bg-pos/VERB]() tokens (92% of all `VERB` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="Voice.html">Voice</a>=Act</tt> (14246; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (13256; 93%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (12843; 90%), <tt><a href="Definite.html">Definite</a>=EMPTY</tt> (12843; 90%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (12816; 90%), <tt><a href="Person.html">Person</a>=3</tt> (10650; 75%), <tt><a href="Number.html">Number</a>=Sing</tt> (10042; 70%), <tt><a href="Aspect.html">Aspect</a>=Imp</tt> (7942; 56%).
+The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="Voice.html">Voice</a>=Act</tt> (14246; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (13256; 93%), <tt><a href="Definite.html">Definite</a>=EMPTY</tt> (12843; 90%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (12843; 90%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (12816; 90%), <tt><a href="Person.html">Person</a>=3</tt> (10650; 75%), <tt><a href="Number.html">Number</a>=Sing</tt> (10042; 70%), <tt><a href="Aspect.html">Aspect</a>=Imp</tt> (7942; 56%).
 
 `VERB` tokens may have the following values of `Tense`:
 

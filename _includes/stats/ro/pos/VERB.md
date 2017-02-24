@@ -11,7 +11,7 @@ The 10 most frequent `VERB` lemmas: <em>putea, avea, fi, trebui, face, lua, prev
 
 The 10 most frequent `VERB` types:  <em>poate, trebuie, pot, avea, putea, are, face, avut, prevăzute, era</em>
 
-The 10 most frequent ambiguous lemmas: <em>avea</em> ([AUX]() 3510, [VERB]() 672), <em>fi</em> ([AUX]() 3781, [VERB]() 436), <em>da</em> ([VERB]() 181, [ADV]() 12), <em>duce</em> ([VERB]() 93, [NOUN]() 1), <em>intra</em> ([VERB]() 89, [ADV]() 1), <em>vrea</em> ([AUX]() 519, [VERB]() 43), <em>alătura</em> ([VERB]() 10, [ADV]() 1), <em>însuși</em> ([DET]() 49, [VERB]() 4), <em>clorprofa</em> ([VERB]() 1, [PROPN]() 1), <em>făr-</em> ([ADP]() 1, [VERB]() 1)
+The 10 most frequent ambiguous lemmas: <em>avea</em> ([AUX]() 3510, [VERB]() 672), <em>fi</em> ([AUX]() 3781, [VERB]() 436), <em>da</em> ([VERB]() 181, [ADV]() 12), <em>duce</em> ([VERB]() 93, [NOUN]() 1), <em>intra</em> ([VERB]() 89, [ADV]() 1), <em>vrea</em> ([AUX]() 519, [VERB]() 43), <em>alătura</em> ([VERB]() 10, [ADV]() 1), <em>însuși</em> ([DET]() 49, [VERB]() 4), <em>clorprofa</em> ([PROPN]() 1, [VERB]() 1), <em>făr-</em> ([VERB]() 1, [ADP]() 1)
 
 The 10 most frequent ambiguous types:  <em>poate</em> ([VERB]() 361, [ADV]() 31), <em>avea</em> ([VERB]() 165, [AUX]() 1), <em>are</em> ([VERB]() 135, [AUX]() 1), <em>prevăzute</em> ([VERB]() 92, [ADJ]() 5), <em>era</em> ([AUX]() 265, [VERB]() 71), <em>este</em> ([AUX]() 995, [VERB]() 78), <em>fost</em> ([AUX]() 547, [VERB]() 66, [ADJ]() 2), <em>au</em> ([AUX]() 747, [VERB]() 65, [X]() 1), <em>sunt</em> ([AUX]() 558, [VERB]() 54), <em>rupt</em> ([VERB]() 47, [ADJ]() 1)
 

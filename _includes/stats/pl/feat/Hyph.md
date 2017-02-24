@@ -16,7 +16,7 @@ The feature is used with 1 part-of-speech tags: [pl-pos/ADJ]() (34; 0% instances
 
 34 [pl-pos/ADJ]() tokens (0% of all `ADJ` tokens) have a non-empty value of `Hyph`.
 
-The most frequent other feature values with which `ADJ` and `Hyph` co-occurred: <tt><a href="Number.html">Number</a>=EMPTY</tt> (34; 100%), <tt><a href="VerbForm.html">VerbForm</a>=EMPTY</tt> (34; 100%), <tt><a href="Degree.html">Degree</a>=EMPTY</tt> (34; 100%), <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (34; 100%), <tt><a href="Polarity.html">Polarity</a>=EMPTY</tt> (34; 100%), <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (34; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (34; 100%), <tt><a href="Aspect.html">Aspect</a>=EMPTY</tt> (34; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (34; 100%).
+The most frequent other feature values with which `ADJ` and `Hyph` co-occurred: <tt><a href="Case.html">Case</a>=EMPTY</tt> (34; 100%), <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (34; 100%), <tt><a href="Degree.html">Degree</a>=EMPTY</tt> (34; 100%), <tt><a href="Aspect.html">Aspect</a>=EMPTY</tt> (34; 100%), <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (34; 100%), <tt><a href="VerbForm.html">VerbForm</a>=EMPTY</tt> (34; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (34; 100%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (34; 100%), <tt><a href="Polarity.html">Polarity</a>=EMPTY</tt> (34; 100%).
 
 `ADJ` tokens may have the following values of `Hyph`:
 

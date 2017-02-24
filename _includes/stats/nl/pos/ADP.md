@@ -11,9 +11,9 @@ The 10 most frequent `ADP` lemmas: <em>van, in, te, op, met, voor, aan, door, bi
 
 The 10 most frequent `ADP` types:  <em>van, in, te, op, met, voor, aan, door, bij, naar</em>
 
-The 10 most frequent ambiguous lemmas: <em>van</em> ([ADP]() 5255, [X]() 344, [PROPN]() 192, [ADV]() 87), <em>in</em> ([ADP]() 4240, [ADV]() 100, [NOUN]() 2, [X]() 1, [PROPN]() 1), <em>te</em> ([ADP]() 1793, [ADV]() 112, [X]() 45), <em>op</em> ([ADP]() 1462, [ADV]() 189, [X]() 133, [PROPN]() 3, [ADJ]() 1, [SCONJ]() 1), <em>met</em> ([ADP]() 1342, [X]() 77, [ADV]() 3), <em>voor</em> ([ADP]() 1327, [ADV]() 116, [X]() 94, [PROPN]() 23, [SCONJ]() 4, [ADJ]() 2, [NOUN]() 1), <em>aan</em> ([ADP]() 795, [ADV]() 164, [X]() 68, [PROPN]() 5), <em>door</em> ([ADP]() 717, [ADV]() 41, [SCONJ]() 28, [X]() 12, [PROPN]() 1), <em>bij</em> ([ADP]() 628, [ADV]() 42, [X]() 17, [NOUN]() 1, [PROPN]() 1), <em>naar</em> ([ADP]() 510, [X]() 24, [ADV]() 11, [SCONJ]() 3, [ADJ]() 1)
+The 10 most frequent ambiguous lemmas: <em>van</em> ([ADP]() 5255, [X]() 344, [PROPN]() 192, [ADV]() 87), <em>in</em> ([ADP]() 4240, [ADV]() 100, [NOUN]() 2, [X]() 1, [PROPN]() 1), <em>te</em> ([ADP]() 1793, [ADV]() 112, [X]() 45), <em>op</em> ([ADP]() 1462, [ADV]() 189, [X]() 133, [PROPN]() 3, [SCONJ]() 1, [ADJ]() 1), <em>met</em> ([ADP]() 1342, [X]() 77, [ADV]() 3), <em>voor</em> ([ADP]() 1327, [ADV]() 116, [X]() 94, [PROPN]() 23, [SCONJ]() 4, [ADJ]() 2, [NOUN]() 1), <em>aan</em> ([ADP]() 795, [ADV]() 164, [X]() 68, [PROPN]() 5), <em>door</em> ([ADP]() 717, [ADV]() 41, [SCONJ]() 28, [X]() 12, [PROPN]() 1), <em>bij</em> ([ADP]() 628, [ADV]() 42, [X]() 17, [NOUN]() 1, [PROPN]() 1), <em>naar</em> ([ADP]() 510, [X]() 24, [ADV]() 11, [SCONJ]() 3, [ADJ]() 1)
 
-The 10 most frequent ambiguous types:  <em>van</em> ([ADP]() 5158, [X]() 344, [PROPN]() 191, [ADV]() 86), <em>in</em> ([ADP]() 3713, [ADV]() 100, [PROPN]() 1), <em>te</em> ([ADP]() 1786, [ADV]() 112, [X]() 45), <em>op</em> ([ADP]() 1325, [ADV]() 189, [X]() 133, [PROPN]() 3), <em>met</em> ([ADP]() 1236, [X]() 77), <em>voor</em> ([ADP]() 1214, [ADV]() 115, [X]() 94, [PROPN]() 23, [SCONJ]() 4), <em>aan</em> ([ADP]() 749, [ADV]() 164, [X]() 68, [PROPN]() 5), <em>door</em> ([ADP]() 687, [ADV]() 41, [SCONJ]() 28, [X]() 12, [PROPN]() 1), <em>bij</em> ([ADP]() 524, [ADV]() 42, [X]() 17, [NOUN]() 1, [PROPN]() 1), <em>naar</em> ([ADP]() 497, [X]() 24, [ADV]() 11, [SCONJ]() 2)
+The 10 most frequent ambiguous types:  <em>van</em> ([ADP]() 5158, [X]() 344, [PROPN]() 191, [ADV]() 86), <em>in</em> ([ADP]() 3713, [ADV]() 100, [PROPN]() 1), <em>te</em> ([ADP]() 1786, [ADV]() 112, [X]() 45), <em>op</em> ([ADP]() 1325, [ADV]() 189, [X]() 133, [PROPN]() 3), <em>met</em> ([ADP]() 1236, [X]() 77), <em>voor</em> ([ADP]() 1214, [ADV]() 115, [X]() 94, [PROPN]() 23, [SCONJ]() 4), <em>aan</em> ([ADP]() 749, [ADV]() 164, [X]() 68, [PROPN]() 5), <em>door</em> ([ADP]() 687, [ADV]() 41, [SCONJ]() 28, [X]() 12, [PROPN]() 1), <em>bij</em> ([ADP]() 524, [ADV]() 42, [X]() 17, [PROPN]() 1, [NOUN]() 1), <em>naar</em> ([ADP]() 497, [X]() 24, [ADV]() 11, [SCONJ]() 2)
 
 
 * <em>van</em>
@@ -58,8 +58,8 @@ The 10 most frequent ambiguous types:  <em>van</em> ([ADP]() 5158, [X]() 344, [P
   * [ADP]() 524: <em>Saviola was <b>bij</b> de Zuid-Amerikanen met drie treffers de grote man .</em>
   * [ADV]() 42: <em>Carmen Bolivar houdt de tijd <b>bij</b> .</em>
   * [X]() 17: <em>Daar is terugschrijven <b>bij</b> voorbaat overbodig .</em>
-  * [NOUN]() 1: <em>De <b>bij</b> is vijf eeuwen verbonden met de Betuwe .</em>
   * [PROPN]() 1: <em>Welke zoon van een koning werd in 1415 gevangengenomen in de Slag <b>bij</b> Azincourt ?</em>
+  * [NOUN]() 1: <em>De <b>bij</b> is vijf eeuwen verbonden met de Betuwe .</em>
 * <em>naar</em>
   * [ADP]() 497: <em>Gelanceerd door Spijkerman trapte ze <b>naar</b> de titel .</em>
   * [X]() 24: <em>ik denk dat het belangrijk is dat u zo'n punt van zorg <b>naar</b> voren brengt</em>
@@ -118,9 +118,9 @@ The 10 most frequent `ADP` lemmas: <em>van, in, op, met, voor, te, door, aan, al
 
 The 10 most frequent `ADP` types:  <em>van, in, op, met, voor, te, door, aan, als, uit</em>
 
-The 10 most frequent ambiguous lemmas: <em>van</em> ([ADP]() 2948, [PROPN]() 95), <em>in</em> ([ADP]() 2282, [X]() 1, [PROPN]() 1), <em>op</em> ([ADP]() 735, [PROPN]() 1), <em>voor</em> ([ADP]() 566, [PROPN]() 2), <em>te</em> ([ADP]() 541, [ADV]() 16), <em>als</em> ([ADP]() 294, [SCONJ]() 82), <em>na</em> ([ADP]() 178, [X]() 1, [ADJ]() 1), <em>onder</em> ([ADP]() 174, [ADJ]() 1), <em>rond</em> ([ADP]() 58, [NOUN]() 1), <em>binnen</em> ([ADP]() 39, [ADJ]() 1)
+The 10 most frequent ambiguous lemmas: <em>van</em> ([ADP]() 2948, [PROPN]() 95), <em>in</em> ([ADP]() 2282, [X]() 1, [PROPN]() 1), <em>op</em> ([ADP]() 735, [PROPN]() 1), <em>voor</em> ([ADP]() 566, [PROPN]() 2), <em>te</em> ([ADP]() 541, [ADV]() 16), <em>als</em> ([ADP]() 294, [SCONJ]() 82), <em>na</em> ([ADP]() 178, [ADJ]() 1, [X]() 1), <em>onder</em> ([ADP]() 174, [ADJ]() 1), <em>rond</em> ([ADP]() 58, [NOUN]() 1), <em>binnen</em> ([ADP]() 39, [ADJ]() 1)
 
-The 10 most frequent ambiguous types:  <em>van</em> ([ADP]() 2910, [PROPN]() 95), <em>in</em> ([ADP]() 1887, [X]() 1, [PROPN]() 1), <em>op</em> ([ADP]() 628, [PROPN]() 1), <em>voor</em> ([ADP]() 535, [PROPN]() 2), <em>te</em> ([ADP]() 461, [ADV]() 16), <em>als</em> ([ADP]() 281, [SCONJ]() 75, [ADV]() 1), <em>na</em> ([ADP]() 107, [X]() 1), <em>ten</em> ([ADP]() 42, [PROPN]() 2), <em>ter</em> ([ADP]() 30, [PROPN]() 1), <em>naast</em> ([ADP]() 16, [ADJ]() 1)
+The 10 most frequent ambiguous types:  <em>van</em> ([ADP]() 2910, [PROPN]() 95), <em>in</em> ([ADP]() 1887, [PROPN]() 1, [X]() 1), <em>op</em> ([ADP]() 628, [PROPN]() 1), <em>voor</em> ([ADP]() 535, [PROPN]() 2), <em>te</em> ([ADP]() 461, [ADV]() 16), <em>als</em> ([ADP]() 281, [SCONJ]() 75, [ADV]() 1), <em>na</em> ([ADP]() 107, [X]() 1), <em>ten</em> ([ADP]() 42, [PROPN]() 2), <em>ter</em> ([ADP]() 30, [PROPN]() 1), <em>naast</em> ([ADP]() 16, [ADJ]() 1)
 
 
 * <em>van</em>
@@ -128,8 +128,8 @@ The 10 most frequent ambiguous types:  <em>van</em> ([ADP]() 2910, [PROPN]() 95)
   * [PROPN]() 95: <em>Dirk <b>van</b> Bastelaere , dichter</em>
 * <em>in</em>
   * [ADP]() 1887: <em>WTA Hamburg - winst <b>in</b> de finale tegen Venus Williams .</em>
-  * [X]() 1: <em>Micha is op het altaarstuk afgebeeld met naast hem een dicht boek en boven hem een banderol met daarop de woorden : ` Ex te mihi egredietur qui sit dominator <b>in</b> Israhel ' .</em>
   * [PROPN]() 1: <em>drs. S.H. ( Sophie ) <b>in</b> 't Veld</em>
+  * [X]() 1: <em>Micha is op het altaarstuk afgebeeld met naast hem een dicht boek en boven hem een banderol met daarop de woorden : ` Ex te mihi egredietur qui sit dominator <b>in</b> Israhel ' .</em>
 * <em>op</em>
   * [ADP]() 628: <em>Er wordt een partijstructuur <b>op</b> poten gezet .</em>
   * [PROPN]() 1: <em>Deze verbindt de A1/E19 ( Breda enerzijds en Mechelen-Brussel anderzijds ) , de A12 ( Bergen <b>op</b> Zoom ) , de A21/E34 ( Turnhout-Eindhoven ) , de A13/E313 ( Hasselt ) en de A14/E17 ( Gent-Rijsel ) met elkaar .</em>

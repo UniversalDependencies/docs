@@ -53,7 +53,7 @@ The most frequent other feature values with which `PRON` and `PronType` co-occur
 
 10897 [cs-pos/ADV]() tokens (15% of all `ADV` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `ADV` and `PronType` co-occurred: <tt><a href="Degree.html">Degree</a>=EMPTY</tt> (10897; 100%), <tt><a href="Polarity.html">Polarity</a>=EMPTY</tt> (10897; 100%).
+The most frequent other feature values with which `ADV` and `PronType` co-occurred: <tt><a href="Polarity.html">Polarity</a>=EMPTY</tt> (10897; 100%), <tt><a href="Degree.html">Degree</a>=EMPTY</tt> (10897; 100%).
 
 `ADV` tokens may have the following values of `PronType`:
 
@@ -73,12 +73,12 @@ The 10 most frequent relations where parent and child node agree in `PronType`:
 <tt>ADV --[<a href="../dep/conj.html">conj</a>]--> ADV</tt> (41; 51%),
 <tt>PRON --[<a href="../dep/conj.html">conj</a>]--> PRON</tt> (34; 83%),
 <tt>PRON --[<a href="../dep/conj.html">conj</a>]--> ADV</tt> (17; 59%),
-<tt>PRON --[<a href="../dep/orphan.html">orphan</a>]--> PRON</tt> (9; 64%),
 <tt>DET --[<a href="../dep/cc.html">cc</a>]--> DET</tt> (9; 90%),
+<tt>PRON --[<a href="../dep/orphan.html">orphan</a>]--> PRON</tt> (9; 64%),
 <tt>DET --[<a href="../dep/orphan.html">orphan</a>]--> DET</tt> (4; 100%),
-<tt>PRON --[<a href="../dep/appos.html">appos</a>]--> PRON</tt> (3; 100%),
-<tt>PRON --[<a href="../dep/flat:foreign.html">flat:foreign</a>]--> PRON</tt> (3; 75%),
-<tt>PRON --[<a href="../dep/dep.html">dep</a>]--> PRON</tt> (3; 75%).
+<tt>DET --[<a href="../dep/appos.html">appos</a>]--> DET</tt> (3; 75%),
+<tt>PRON --[<a href="../dep/dep.html">dep</a>]--> PRON</tt> (3; 75%),
+<tt>PRON --[<a href="../dep/appos.html">appos</a>]--> PRON</tt> (3; 100%).
 
 
 
@@ -99,7 +99,7 @@ The feature is used with 3 part-of-speech tags: [cs-pos/DET]() (19041; 4% instan
 
 19041 [cs-pos/DET]() tokens (100% of all `DET` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `DET` and `PronType` co-occurred: <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (17026; 89%), <tt><a href="Number[psor].html">Number[psor]</a>=EMPTY</tt> (15176; 80%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (15176; 80%), <tt><a href="Poss.html">Poss</a>=EMPTY</tt> (13768; 72%), <tt><a href="Number.html">Number</a>=Sing</tt> (11627; 61%).
+The most frequent other feature values with which `DET` and `PronType` co-occurred: <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (17026; 89%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (15176; 80%), <tt><a href="Number[psor].html">Number[psor]</a>=EMPTY</tt> (15176; 80%), <tt><a href="Poss.html">Poss</a>=EMPTY</tt> (13768; 72%), <tt><a href="Number.html">Number</a>=Sing</tt> (11627; 61%).
 
 `DET` tokens may have the following values of `PronType`:
 
@@ -199,7 +199,7 @@ The most frequent other feature values with which `PRON` and `PronType` co-occur
 
 405 [cs-pos/DET]() tokens (100% of all `DET` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `DET` and `PronType` co-occurred: <tt><a href="Gender[psor].html">Gender[psor]</a>=EMPTY</tt> (337; 83%), <tt><a href="Number[psor].html">Number[psor]</a>=EMPTY</tt> (261; 64%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (261; 64%), <tt><a href="Poss.html">Poss</a>=EMPTY</tt> (243; 60%).
+The most frequent other feature values with which `DET` and `PronType` co-occurred: <tt><a href="Gender[psor].html">Gender[psor]</a>=EMPTY</tt> (337; 83%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (261; 64%), <tt><a href="Number[psor].html">Number[psor]</a>=EMPTY</tt> (261; 64%), <tt><a href="Poss.html">Poss</a>=EMPTY</tt> (243; 60%).
 
 `DET` tokens may have the following values of `PronType`:
 
@@ -215,6 +215,6 @@ The most frequent other feature values with which `DET` and `PronType` co-occurr
 ## Relations with Agreement in `PronType`
 
 The 10 most frequent relations where parent and child node agree in `PronType`:
-<tt>PRON --[<a href="../dep/cc.html">cc</a>]--> PRON</tt> (1; 100%),
-<tt>PRON --[<a href="../dep/conj.html">conj</a>]--> PRON</tt> (1; 100%).
+<tt>PRON --[<a href="../dep/conj.html">conj</a>]--> PRON</tt> (1; 100%),
+<tt>PRON --[<a href="../dep/cc.html">cc</a>]--> PRON</tt> (1; 100%).
 

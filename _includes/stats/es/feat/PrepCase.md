@@ -67,7 +67,7 @@ The feature is used with 1 part-of-speech tags: [es-pos/PRON]() (115; 0% instanc
 
 115 [es-pos/PRON]() tokens (1% of all `PRON` tokens) have a non-empty value of `PrepCase`.
 
-The most frequent other feature values with which `PRON` and `PrepCase` co-occurred: <tt><a href="PronType.html">PronType</a>=Prs</tt> (115; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (115; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (115; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (66; 57%).
+The most frequent other feature values with which `PRON` and `PrepCase` co-occurred: <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (115; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (115; 100%), <tt><a href="PronType.html">PronType</a>=Prs</tt> (115; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (66; 57%).
 
 `PRON` tokens may have the following values of `PrepCase`:
 

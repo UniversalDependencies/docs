@@ -31,9 +31,9 @@ The most frequent other feature values with which `DET` and `PronType` co-occurr
 
 <table>
   <tr><th>Paradigm <i>der</i></th><th><tt>Art</tt></th><th><tt>Rel</tt></th><th><tt>Dem</tt></th></tr>
-  <tr><td><tt>_</tt></td><td></td><td><em>deren, die, der, dem, dessen, das, den</em></td><td><em>deren, dessen, das, die, der</em></td></tr>
+  <tr><td><tt>_</tt></td><td></td><td><em>deren, die, der, dem, das, dessen, den</em></td><td><em>deren, dessen, das, die, der</em></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Acc</tt></td><td></td><td><em>den</em></td><td></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Definite.html">Definite</a>=Def</tt></td><td><em>die, den, das</em></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Definite.html">Definite</a>=Def</tt></td><td><em>die, das, den</em></td><td></td><td></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Definite.html">Definite</a>=Def|<a href="Gender.html">Gender</a>=Masc,Neut|<a href="Number.html">Number</a>=Sing</tt></td><td><em>dem</em></td><td></td><td></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Definite.html">Definite</a>=Def|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Sing</tt></td><td><em>den</em></td><td></td><td></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Definite.html">Definite</a>=Def|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Plur</tt></td><td><em>die, den</em></td><td></td><td></td></tr>
@@ -46,12 +46,12 @@ The most frequent other feature values with which `DET` and `PronType` co-occurr
   <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Gender.html">Gender</a>=Fem|<a href="Number.html">Number</a>=Sing</tt></td><td></td><td><em>die</em></td><td><em>die</em></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Gender.html">Gender</a>=Neut|<a href="Number.html">Number</a>=Sing</tt></td><td></td><td><em>das</em></td><td><em>das</em></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Gender.html">Gender</a>=Neut|<a href="Number.html">Number</a>=Plur</tt></td><td></td><td></td><td><em>das</em></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Number.html">Number</a>=Plur</tt></td><td></td><td><em>dessen, die</em></td><td><em>dessen, das, Die</em></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Number.html">Number</a>=Plur</tt></td><td></td><td><em>dessen, die</em></td><td><em>dessen, Die, das</em></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Dat</tt></td><td></td><td><em>dem, der</em></td><td></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Dat|<a href="Definite.html">Definite</a>=Def</tt></td><td><em>dem, der, den</em></td><td></td><td></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Dat|<a href="Definite.html">Definite</a>=Def|<a href="Gender.html">Gender</a>=Masc,Neut|<a href="Number.html">Number</a>=Sing</tt></td><td><em>dem</em></td><td></td><td></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Dat|<a href="Definite.html">Definite</a>=Def|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Plur</tt></td><td><em>den</em></td><td></td><td></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Dat|<a href="Definite.html">Definite</a>=Def|<a href="Gender.html">Gender</a>=Fem|<a href="Number.html">Number</a>=Sing</tt></td><td><em>der, die, den, dem</em></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Dat|<a href="Definite.html">Definite</a>=Def|<a href="Gender.html">Gender</a>=Fem|<a href="Number.html">Number</a>=Sing</tt></td><td><em>der, den, die, dem</em></td><td></td><td></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Dat|<a href="Definite.html">Definite</a>=Def|<a href="Gender.html">Gender</a>=Fem|<a href="Number.html">Number</a>=Plur</tt></td><td><em>den</em></td><td></td><td></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Dat|<a href="Definite.html">Definite</a>=Def|<a href="Gender.html">Gender</a>=Neut|<a href="Number.html">Number</a>=Plur</tt></td><td><em>den</em></td><td></td><td></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Dat|<a href="Definite.html">Definite</a>=Def|<a href="Number.html">Number</a>=Plur</tt></td><td><em>den, des, dem</em></td><td></td><td></td></tr>
@@ -66,7 +66,7 @@ The most frequent other feature values with which `DET` and `PronType` co-occurr
   <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Definite.html">Definite</a>=Def|<a href="Gender.html">Gender</a>=Fem|<a href="Number.html">Number</a>=Plur</tt></td><td><em>der</em></td><td></td><td></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Definite.html">Definite</a>=Def|<a href="Gender.html">Gender</a>=Neut|<a href="Number.html">Number</a>=Plur</tt></td><td><em>der</em></td><td></td><td></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Definite.html">Definite</a>=Def|<a href="Number.html">Number</a>=Plur</tt></td><td><em>der, dem</em></td><td></td><td></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Nom</tt></td><td></td><td><em>der, die</em></td><td></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Nom</tt></td><td></td><td><em>die, der</em></td><td></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Definite.html">Definite</a>=Def</tt></td><td><em>die, der, das</em></td><td></td><td></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Definite.html">Definite</a>=Def|<a href="Gender.html">Gender</a>=Masc,Neut|<a href="Number.html">Number</a>=Sing</tt></td><td><em>dem, des</em></td><td></td><td></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Definite.html">Definite</a>=Def|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Sing</tt></td><td><em>der, den</em></td><td></td><td></td></tr>

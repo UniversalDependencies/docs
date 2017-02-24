@@ -141,27 +141,27 @@ The following 7 pairs of parts of speech are connected with `aux`: [pt-pos/VERB]
 
 
 ~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 7 aux	color:blue
-1	"	_	PUNCT	.	_	2	punct	_	SpaceAfter=No
-2	Partiu	_	VERB	VERB	_	11	ccomp	_	_
-3	tranquilamente	_	ADV	ADV	_	2	advmod	_	SpaceAfter=No
-4	,	_	PUNCT	.	_	6	punct	_	_
-5	como	_	CCONJ	CONJ	_	6	mark	_	_
-6	ele	_	PRON	PRON	_	2	advcl	_	_
-7	teria	_	AUX	AUX	_	6	aux	_	_
-8	desejado	_	VERB	VERB	_	6	case	_	SpaceAfter=No
-9	"	_	PUNCT	.	_	2	punct	_	SpaceAfter=No
-10	,	_	PUNCT	.	_	2	punct	_	_
-11	disse	_	VERB	VERB	_	0	root	_	_
-12	a	_	DET	DET	_	13	det	_	_
-13	família	_	NOUN	NOUN	_	11	nsubj	_	_
-14	em	_	ADP	ADP	_	15	case	_	_
-15	nota	_	NOUN	NOUN	_	11	nmod	_	SpaceAfter=No
-16	.	_	PUNCT	.	_	11	punct	_	_
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 10 9 aux	color:blue
+1	O	_	DET	DET	_	2	det	_	_
+2	mimo	_	NOUN	NOUN	_	7	nsubj	_	_
+3	em	_	ADP	ADP	_	4	case	_	_
+4	questão	_	NOUN	NOUN	_	2	nmod	_	_
+5	foi	_	VERB	VERB	_	7	cop	_	_
+6	o	_	DET	DET	_	7	det	_	_
+7	CD	_	NOUN	NOUN	_	0	root	_	_
+8	"	_	PUNCT	.	_	10	punct	_	SpaceAfter=No
+9	Deixa	_	PROPN	PNOUN	_	10	aux	_	_
+10	clarear	_	PROPN	PNOUN	_	7	parataxis	_	SpaceAfter=No
+11	"	_	PUNCT	.	_	10	punct	_	SpaceAfter=No
+12	,	_	PUNCT	.	_	14	punct	_	_
+13	de	_	ADP	ADP	_	14	case	_	_
+14	Zeca	_	PROPN	PNOUN	_	7	nmod	_	_
+15	Pagodinho	_	PROPN	PNOUN	_	14	flat	_	SpaceAfter=No
+16	.	_	PUNCT	.	_	7	punct	_	_
 
 ~~~
 

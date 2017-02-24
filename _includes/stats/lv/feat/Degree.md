@@ -43,7 +43,7 @@ The most frequent other feature values with which `ADJ` and `Degree` co-occurred
 
 1382 [lv-pos/VERB]() tokens (19% of all `VERB` tokens) have a non-empty value of `Degree`.
 
-The most frequent other feature values with which `VERB` and `Degree` co-occurred: <tt><a href="Polarity.html">Polarity</a>=EMPTY</tt> (1382; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (1382; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (1382; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (1382; 100%), <tt><a href="Evident.html">Evident</a>=EMPTY</tt> (1382; 100%), <tt><a href="Reflex.html">Reflex</a>=EMPTY</tt> (1283; 93%), <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (1176; 85%), <tt><a href="Tense.html">Tense</a>=Past</tt> (1176; 85%), <tt><a href="Aspect.html">Aspect</a>=Perf</tt> (1176; 85%), <tt><a href="Definite.html">Definite</a>=Ind</tt> (1075; 78%).
+The most frequent other feature values with which `VERB` and `Degree` co-occurred: <tt><a href="Evident.html">Evident</a>=EMPTY</tt> (1382; 100%), <tt><a href="Polarity.html">Polarity</a>=EMPTY</tt> (1382; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (1382; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (1382; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (1382; 100%), <tt><a href="Reflex.html">Reflex</a>=EMPTY</tt> (1283; 93%), <tt><a href="Aspect.html">Aspect</a>=Perf</tt> (1176; 85%), <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (1176; 85%), <tt><a href="Tense.html">Tense</a>=Past</tt> (1176; 85%), <tt><a href="Definite.html">Definite</a>=Ind</tt> (1075; 78%).
 
 `VERB` tokens may have the following values of `Degree`:
 
@@ -79,9 +79,9 @@ The 10 most frequent relations where parent and child node agree in `Degree`:
 <tt>ADV --[<a href="../dep/conj.html">conj</a>]--> ADV</tt> (18; 78%),
 <tt>ADJ --[<a href="../dep/ccomp.html">ccomp</a>]--> ADJ</tt> (3; 100%),
 <tt>ADJ --[<a href="../dep/advcl.html">advcl</a>]--> ADJ</tt> (2; 100%),
-<tt>VERB --[<a href="../dep/nsubj:pass.html">nsubj:pass</a>]--> ADJ</tt> (1; 100%),
 <tt>ADJ --[<a href="../dep/acl.html">acl</a>]--> ADJ</tt> (1; 100%),
 <tt>ADJ --[<a href="../dep/nsubj.html">nsubj</a>]--> ADJ</tt> (1; 100%),
 <tt>ADJ --[<a href="../dep/csubj.html">csubj</a>]--> ADJ</tt> (1; 100%),
-<tt>VERB --[<a href="../dep/csubj:pass.html">csubj:pass</a>]--> ADJ</tt> (1; 100%).
+<tt>VERB --[<a href="../dep/csubj:pass.html">csubj:pass</a>]--> ADJ</tt> (1; 100%),
+<tt>VERB --[<a href="../dep/amod.html">amod</a>]--> VERB</tt> (1; 100%).
 

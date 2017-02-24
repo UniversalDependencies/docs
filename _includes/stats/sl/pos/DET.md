@@ -13,13 +13,13 @@ The 10 most frequent `DET` types:  <em>to, tem, vse, nekaj, ta, več, tega, svoj
 
 The 10 most frequent ambiguous lemmas: <em>ves</em> ([DET]() 439, [ADV]() 1), <em>nekaj</em> ([DET]() 171, [PRON]() 60), <em>več</em> ([DET]() 158, [PART]() 74), <em>pol</em> ([DET]() 25, [NOUN]() 1), <em>par</em> ([NOUN]() 17, [DET]() 4), <em>četrt</em> ([DET]() 2, [NOUN]() 1)
 
-The 10 most frequent ambiguous types:  <em>tem</em> ([DET]() 244, [ADV]() 1, [NOUN]() 1), <em>vse</em> ([DET]() 148, [ADV]() 34), <em>nekaj</em> ([DET]() 152, [PRON]() 53), <em>več</em> ([DET]() 152, [PART]() 74), <em>te</em> ([DET]() 77, [PRON]() 14), <em>veliko</em> ([DET]() 81, [ADJ]() 34), <em>malo</em> ([DET]() 42, [ADJ]() 5), <em>pol</em> ([DET]() 25, [ADV]() 3), <em>ti</em> ([DET]() 14, [PRON]() 14), <em>neki</em> ([DET]() 11, [PRON]() 1)
+The 10 most frequent ambiguous types:  <em>tem</em> ([DET]() 244, [NOUN]() 1, [ADV]() 1), <em>vse</em> ([DET]() 148, [ADV]() 34), <em>nekaj</em> ([DET]() 152, [PRON]() 53), <em>več</em> ([DET]() 152, [PART]() 74), <em>te</em> ([DET]() 77, [PRON]() 14), <em>veliko</em> ([DET]() 81, [ADJ]() 34), <em>malo</em> ([DET]() 42, [ADJ]() 5), <em>pol</em> ([DET]() 25, [ADV]() 3), <em>ti</em> ([PRON]() 14, [DET]() 14), <em>neki</em> ([DET]() 11, [PRON]() 1)
 
 
 * <em>tem</em>
   * [DET]() 244: <em>S <b>tem</b> nikakor ni zmanjšan pomen enotne volje državljanov Slovenije .</em>
-  * [ADV]() 1: <em>Čim boljše bo v Sloveniji znanje tujih jezikov , <b>tem</b> bolje se bo Slovenija sporazumevala s svetom .</em>
   * [NOUN]() 1: <em>Dijaki v njem prikažejo svoje poznavanje obravnavanih <b>tem</b> iz književnosti .</em>
+  * [ADV]() 1: <em>Čim boljše bo v Sloveniji znanje tujih jezikov , <b>tem</b> bolje se bo Slovenija sporazumevala s svetom .</em>
 * <em>vse</em>
   * [DET]() 148: <em>Na <b>vse</b> prireditve je vstop prost .</em>
   * [ADV]() 34: <em>Slišim namreč <b>vse</b> več glasov o nepravilnostih .</em>
@@ -42,8 +42,8 @@ The 10 most frequent ambiguous types:  <em>tem</em> ([DET]() 244, [ADV]() 1, [NO
   * [DET]() 25: <em>V zadnjih petih urah sva se premaknila za slabe <b>pol</b> milje .</em>
   * [ADV]() 3: <em>— Ma , morš izpast totalno navdušen , sam <b>pol</b> pa vseen zajebat .</em>
 * <em>ti</em>
-  * [DET]() 14: <em>V zadnjih 20 letih so se <b>ti</b> cilji stalno spreminjali .</em>
   * [PRON]() 14: <em>» Oho , <b>ti</b> si pa poln keša ! « ga je občudujoče pogledala Karmen .</em>
+  * [DET]() 14: <em>V zadnjih 20 letih so se <b>ti</b> cilji stalno spreminjali .</em>
 * <em>neki</em>
   * [DET]() 11: <em>Na to me je opozoril <b>neki</b> nadarjen avstralski filozof .</em>
   * [PRON]() 1: <em>Tolk me imobilizira , da sam sedim v fotelju pa mi gre program na televiziji ful na kurac , sam se mi zdi , ko da seu <b>neki</b> groznga zgodl , če ga probam prešaltat .</em>

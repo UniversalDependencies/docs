@@ -48,7 +48,7 @@ The most frequent other feature values with which `ADJ` and `Degree` co-occurred
 
 78 [ru-pos/VERB]() tokens (1% of all `VERB` tokens) have a non-empty value of `Degree`.
 
-The most frequent other feature values with which `VERB` and `Degree` co-occurred: <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (78; 100%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (78; 100%), <tt><a href="VerbForm.html">VerbForm</a>=EMPTY</tt> (78; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (78; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (78; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (78; 100%), <tt><a href="Aspect.html">Aspect</a>=EMPTY</tt> (78; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (78; 100%), <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (78; 100%), <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (78; 100%).
+The most frequent other feature values with which `VERB` and `Degree` co-occurred: <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (78; 100%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (78; 100%), <tt><a href="Variant.html">Variant</a>=EMPTY</tt> (78; 100%), <tt><a href="Aspect.html">Aspect</a>=EMPTY</tt> (78; 100%), <tt><a href="VerbForm.html">VerbForm</a>=EMPTY</tt> (78; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (78; 100%), <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (78; 100%), <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (78; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (78; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (78; 100%).
 
 `VERB` tokens may have the following values of `Degree`:
 
@@ -67,7 +67,7 @@ The most frequent other feature values with which `VERB` and `Degree` co-occurre
 
 1 [ru-pos/NUM]() tokens (0% of all `NUM` tokens) have a non-empty value of `Degree`.
 
-The most frequent other feature values with which `NUM` and `Degree` co-occurred: <tt><a href="NumType.html">NumType</a>=Card</tt> (1; 100%), <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (1; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (1; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (1; 100%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (1; 100%).
+The most frequent other feature values with which `NUM` and `Degree` co-occurred: <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (1; 100%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (1; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (1; 100%), <tt><a href="NumType.html">NumType</a>=Card</tt> (1; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (1; 100%).
 
 `NUM` tokens may have the following values of `Degree`:
 
@@ -163,7 +163,7 @@ The most frequent other feature values with which `ADJ` and `Degree` co-occurred
 
 1 [ru-pos/DET]() tokens (0% of all `DET` tokens) have a non-empty value of `Degree`.
 
-The most frequent other feature values with which `DET` and `Degree` co-occurred: <tt><a href="Case.html">Case</a>=Acc</tt> (1; 100%), <tt><a href="Number.html">Number</a>=Plur</tt> (1; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (1; 100%).
+The most frequent other feature values with which `DET` and `Degree` co-occurred: <tt><a href="Number.html">Number</a>=Plur</tt> (1; 100%), <tt><a href="Case.html">Case</a>=Acc</tt> (1; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (1; 100%).
 
 `DET` tokens may have the following values of `Degree`:
 

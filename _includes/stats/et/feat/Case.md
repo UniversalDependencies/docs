@@ -70,7 +70,7 @@ The most frequent other feature values with which `PRON` and `Case` co-occurred:
 
 <table>
   <tr><th>Paradigm <i>see</i></th><th><tt>Nom</tt></th><th><tt>Gen</tt></th><th><tt>Par</tt></th><th><tt>Tra</tt></th><th><tt>Com</tt></th><th><tt>Abe</tt></th><th><tt>Ine</tt></th><th><tt>Ela</tt></th><th><tt>Ade</tt></th><th><tt>All</tt></th><th><tt>Abl</tt></th><th><tt>Ter</tt></th></tr>
-  <tr><td><tt><a href="Number.html">Number</a>=Sing</tt></td><td><em>see, seegi</em></td><td><em>selle, sellegi</em></td><td><em>seda</em></td><td><em>selleks</em></td><td><em>sellega</em></td><td><em>selleta</em></td><td><em>selles</em></td><td><em>sellest, sellestki, sest</em></td><td><em>sel</em></td><td><em>sellele</em></td><td><em>sellelt</em></td><td><em>selleni</em></td></tr>
+  <tr><td><tt><a href="Number.html">Number</a>=Sing</tt></td><td><em>see, seegi</em></td><td><em>selle, sellegi</em></td><td><em>seda</em></td><td><em>selleks</em></td><td><em>sellega</em></td><td><em>selleta</em></td><td><em>selles</em></td><td><em>sellest, sest, sellestki</em></td><td><em>sel</em></td><td><em>sellele</em></td><td><em>sellelt</em></td><td><em>selleni</em></td></tr>
   <tr><td><tt><a href="Number.html">Number</a>=Plur</tt></td><td><em>need</em></td><td><em>nende</em></td><td><em>neid</em></td><td></td><td><em>nendega</em></td><td></td><td><em>neis</em></td><td><em>neist, nendest</em></td><td><em>neil</em></td><td></td><td></td><td></td></tr>
 </table>
 
@@ -192,7 +192,7 @@ The most frequent other feature values with which `NUM` and `Case` co-occurred: 
 
 299 [et-pos/VERB]() tokens (6% of all `VERB` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `VERB` and `Case` co-occurred: <tt><a href="Number.html">Number</a>=EMPTY</tt> (299; 100%), <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (299; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Sup</tt> (299; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (299; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (299; 100%), <tt><a href="Voice.html">Voice</a>=Act</tt> (299; 100%).
+The most frequent other feature values with which `VERB` and `Case` co-occurred: <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (299; 100%), <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (299; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (299; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Sup</tt> (299; 100%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (299; 100%), <tt><a href="Voice.html">Voice</a>=Act</tt> (299; 100%).
 
 `VERB` tokens may have the following values of `Case`:
 
@@ -215,7 +215,7 @@ The most frequent other feature values with which `VERB` and `Case` co-occurred:
 
 9 [et-pos/AUX]() tokens (1% of all `AUX` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `AUX` and `Case` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=Sup</tt> (9; 100%), <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (9; 100%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (9; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (9; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (9; 100%), <tt><a href="Voice.html">Voice</a>=Act</tt> (9; 100%), <tt><a href="Polarity.html">Polarity</a>=EMPTY</tt> (9; 100%).
+The most frequent other feature values with which `AUX` and `Case` co-occurred: <tt><a href="Polarity.html">Polarity</a>=EMPTY</tt> (9; 100%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (9; 100%), <tt><a href="Voice.html">Voice</a>=Act</tt> (9; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (9; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Sup</tt> (9; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (9; 100%), <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (9; 100%).
 
 `AUX` tokens may have the following values of `Case`:
 

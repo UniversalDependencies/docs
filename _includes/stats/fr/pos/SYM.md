@@ -11,9 +11,9 @@ The 10 most frequent `SYM` lemmas: <em>%, °, €, &, +, $, =, H, m, "</em>
 
 The 10 most frequent `SYM` types:  <em>%, €, °, &, +, $, =, n°, H, m</em>
 
-The 10 most frequent ambiguous lemmas: <em>+</em> ([SYM]() 16, [PUNCT]() 1), <em>m</em> ([NOUN]() 94, [SYM]() 1), <em>"</em> ([PUNCT]() 899, [SYM]() 4), <em>*</em> ([SYM]() 3, [PUNCT]() 2), <em>A</em> ([PROPN]() 10, [X]() 7, [NOUN]() 4, [SYM]() 3), <em>'</em> ([PUNCT]() 29, [SYM]() 2), <em>C</em> ([NOUN]() 14, [SYM]() 2, [PROPN]() 1), <em>x</em> ([PUNCT]() 3, [X]() 2, [SYM]() 1, [NOUN]() 1), <em>/</em> ([PUNCT]() 120, [SYM]() 1), <em>></em> ([SYM]() 1, [PUNCT]() 1)
+The 10 most frequent ambiguous lemmas: <em>+</em> ([SYM]() 16, [PUNCT]() 1), <em>m</em> ([NOUN]() 94, [SYM]() 1), <em>"</em> ([PUNCT]() 899, [SYM]() 4), <em>*</em> ([SYM]() 3, [PUNCT]() 2), <em>A</em> ([PROPN]() 10, [X]() 7, [NOUN]() 4, [SYM]() 3), <em>'</em> ([PUNCT]() 29, [SYM]() 2), <em>C</em> ([NOUN]() 14, [SYM]() 2, [PROPN]() 1), <em>x</em> ([PUNCT]() 3, [X]() 2, [NOUN]() 1, [SYM]() 1), <em>/</em> ([PUNCT]() 120, [SYM]() 1), <em>></em> ([PUNCT]() 1, [SYM]() 1)
 
-The 10 most frequent ambiguous types:  <em>+</em> ([SYM]() 16, [PUNCT]() 1), <em>n°</em> ([SYM]() 13, [NOUN]() 1), <em>H</em> ([SYM]() 6, [NOUN]() 2), <em>m</em> ([NOUN]() 75, [SYM]() 1), <em>"</em> ([PUNCT]() 899, [SYM]() 4), <em>*</em> ([SYM]() 3, [PUNCT]() 2), <em>A</em> ([ADP]() 84, [PROPN]() 10, [X]() 7, [DET]() 5, [NOUN]() 4, [SYM]() 3, [AUX]() 1), <em>'</em> ([PUNCT]() 29, [SYM]() 2), <em>C</em> ([NOUN]() 14, [SYM]() 2, [PRON]() 1, [PROPN]() 1), <em>x</em> ([PUNCT]() 3, [X]() 2, [SYM]() 1, [NOUN]() 1)
+The 10 most frequent ambiguous types:  <em>+</em> ([SYM]() 16, [PUNCT]() 1), <em>n°</em> ([SYM]() 13, [NOUN]() 1), <em>H</em> ([SYM]() 6, [NOUN]() 2), <em>m</em> ([NOUN]() 75, [SYM]() 1), <em>"</em> ([PUNCT]() 899, [SYM]() 4), <em>*</em> ([SYM]() 3, [PUNCT]() 2), <em>A</em> ([ADP]() 84, [PROPN]() 10, [X]() 7, [DET]() 5, [NOUN]() 4, [SYM]() 3, [AUX]() 1), <em>'</em> ([PUNCT]() 29, [SYM]() 2), <em>C</em> ([NOUN]() 14, [SYM]() 2, [PROPN]() 1, [PRON]() 1), <em>x</em> ([PUNCT]() 3, [X]() 2, [SYM]() 1, [NOUN]() 1)
 
 
 * <em>+</em>
@@ -48,8 +48,8 @@ The 10 most frequent ambiguous types:  <em>+</em> ([SYM]() 16, [PUNCT]() 1), <em
 * <em>C</em>
   * [NOUN]() 14: <em>La température moyenne annuelle à São João do Itaperiú est de 20,3 ° <b>C</b> .</em>
   * [SYM]() 2: <em>Le Colli Orientali del Friuli Tazzelenghe superiore se déguste à une température comprise entre 14 et 16 ° <b>C</b> .</em>
-  * [PRON]() 1: <em><b>C</b> est vraiment dommage , car la ville est très agréable , mais notre séjour à l hôtel a précipité notre départ .</em>
   * [PROPN]() 1: <em>Toutes en collaboration avec Deep <b>C</b> et Chris Udoh</em>
+  * [PRON]() 1: <em><b>C</b> est vraiment dommage , car la ville est très agréable , mais notre séjour à l hôtel a précipité notre départ .</em>
 * <em>x</em>
   * [PUNCT]() 3: <em>Le satellite , d' une masse de 94 kg a été placé sur une orbite héliosynchrone de 681 <b>x</b> 561 km , et est contrôlé depuis la station de Redu , en Belgique .</em>
   * [X]() 2: <em>En d' autres termes , les <b>x</b> k valeurs sont calculées en utilisant les <b>x</b> { k-1 } calculées précédemment .</em>

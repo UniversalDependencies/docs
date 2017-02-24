@@ -180,6 +180,28 @@ The following 6 pairs of parts of speech are connected with `advmod`: [sv-pos/VE
 
 
 ~~~ conllu
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 8 7 advmod	color:blue
+1	PRO1	_	PRON	PN	_	2	nsubj	_	_
+2	UT@b	_	VERB	VB	_	0	root	_	_
+3	PRO1	_	PRON	PN	_	1	conj	_	_
+4	FORTSÄTTA	_	VERB	VB	_	2	conj	_	_
+5	PRO1	_	PRON	PN	_	1	conj	_	_
+6	KLÄ-PÅ:ÖVERDEL	_	X	?	_	2	conj	_	_
+7	SEDAN	_	ADV	AB	_	8	advmod	_	_
+8	KLÄ-PÅ.HUVUDDEL	_	X	?	_	6	conj	_	_
+9	KOMMA-DIT(L)	_	VERB	VBAV	_	2	conj	_	_
+10	SPRINGA(Lb)	_	VERB	VB	_	9	conj	_	_
+11	GLOSA:(PD)@z	_	X	?	_	2	conj	_	_
+12	HAND(YYb)+HANTERA@p	_	VERB	VBAV	_	11	conj	_	_
+
+~~~
+
+
+~~~ conllu
 # visual-style 10	bgColor:blue
 # visual-style 10	fgColor:white
 # visual-style 11	bgColor:blue
@@ -202,28 +224,6 @@ The following 6 pairs of parts of speech are connected with `advmod`: [sv-pos/VE
 15	SITTA(Vb)@hd	_	VERB	VBAV	_	3	dep	_	_
 16	VARELSE(Vb)+HOPPA-UPP@p	_	VERB	VBAV	_	3	conj	_	_
 17	PASSIVERAD@z	_	ADJ	JJ	_	3	conj	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 8 7 advmod	color:blue
-1	PRO1	_	PRON	PN	_	2	nsubj	_	_
-2	UT@b	_	VERB	VB	_	0	root	_	_
-3	PRO1	_	PRON	PN	_	1	conj	_	_
-4	FORTSÄTTA	_	VERB	VB	_	2	conj	_	_
-5	PRO1	_	PRON	PN	_	1	conj	_	_
-6	KLÄ-PÅ:ÖVERDEL	_	X	?	_	2	conj	_	_
-7	SEDAN	_	ADV	AB	_	8	advmod	_	_
-8	KLÄ-PÅ.HUVUDDEL	_	X	?	_	6	conj	_	_
-9	KOMMA-DIT(L)	_	VERB	VBAV	_	2	conj	_	_
-10	SPRINGA(Lb)	_	VERB	VB	_	9	conj	_	_
-11	GLOSA:(PD)@z	_	X	?	_	2	conj	_	_
-12	HAND(YYb)+HANTERA@p	_	VERB	VBAV	_	11	conj	_	_
 
 ~~~
 

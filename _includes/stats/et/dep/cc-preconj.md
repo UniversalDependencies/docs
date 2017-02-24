@@ -52,27 +52,6 @@ The following 10 pairs of parts of speech are connected with `cc:preconj`: [et-p
 
 
 ~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 4 cc:preconj	color:blue
-1	Ent	ent	CCONJ	J	_	3	cc	_	_
-2	läbisegi	läbi-segi	ADV	D	_	3	advmod	_	_
-3	liikus	liiku	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin|Voice=Act	0	root	_	_
-4	nii	nii	ADV	D	_	5	cc:preconj	_	_
-5	punast	punane	ADJ	A	Case=Par|Degree=Pos|Number=Sing	9	amod	_	_
-6	kui	kui	CCONJ	J	_	8	cc	_	_
-7	ka	ka	ADV	D	_	8	advmod	_	_
-8	mustavalget	musta-valge	ADJ	A	Case=Par|Degree=Pos|Number=Sing	5	conj	_	_
-9	karva	karv	NOUN	S	Case=Par|Number=Sing	10	nmod	_	_
-10	veiseid	veis	NOUN	S	Case=Par|Number=Plur	3	nsubj	_	SpaceAfter=No
-11	.	.	PUNCT	Z	_	3	punct	_	_
-
-~~~
-
-
-~~~ conllu
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 12	bgColor:blue
@@ -101,6 +80,27 @@ The following 10 pairs of parts of speech are connected with `cc:preconj`: [et-p
 21	peale	peale	ADP	K	AdpType=Post	20	case	_	_
 22	jäänud	jääma	VERB	V	Tense=Past|VerbForm=Part|Voice=Act	0	root	_	SpaceAfter=No
 23	!	!	PUNCT	Z	_	22	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 4 cc:preconj	color:blue
+1	Ent	ent	CCONJ	J	_	3	cc	_	_
+2	läbisegi	läbi-segi	ADV	D	_	3	advmod	_	_
+3	liikus	liiku	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin|Voice=Act	0	root	_	_
+4	nii	nii	ADV	D	_	5	cc:preconj	_	_
+5	punast	punane	ADJ	A	Case=Par|Degree=Pos|Number=Sing	9	amod	_	_
+6	kui	kui	CCONJ	J	_	8	cc	_	_
+7	ka	ka	ADV	D	_	8	advmod	_	_
+8	mustavalget	musta-valge	ADJ	A	Case=Par|Degree=Pos|Number=Sing	5	conj	_	_
+9	karva	karv	NOUN	S	Case=Par|Number=Sing	10	nmod	_	_
+10	veiseid	veis	NOUN	S	Case=Par|Number=Plur	3	nsubj	_	SpaceAfter=No
+11	.	.	PUNCT	Z	_	3	punct	_	_
 
 ~~~
 

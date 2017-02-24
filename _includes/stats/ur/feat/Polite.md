@@ -89,7 +89,7 @@ The most frequent other feature values with which `ADP` and `Polite` co-occurred
 
 7 [ur-pos/NOUN]() tokens (0% of all `NOUN` tokens) have a non-empty value of `Polite`.
 
-The most frequent other feature values with which `NOUN` and `Polite` co-occurred: <tt><a href="Person.html">Person</a>=3</tt> (7; 100%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (7; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (7; 100%), <tt><a href="Case.html">Case</a>=Acc</tt> (4; 57%).
+The most frequent other feature values with which `NOUN` and `Polite` co-occurred: <tt><a href="Number.html">Number</a>=Sing</tt> (7; 100%), <tt><a href="Person.html">Person</a>=3</tt> (7; 100%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (7; 100%), <tt><a href="Case.html">Case</a>=Acc</tt> (4; 57%).
 
 `NOUN` tokens may have the following values of `Polite`:
 
@@ -103,23 +103,23 @@ The most frequent other feature values with which `NOUN` and `Polite` co-occurre
 
 * `Form` (2; 100% of non-empty `Polite`): نئے، ہوئے
 
-### `DET`
-
-1 [ur-pos/DET]() tokens (0% of all `DET` tokens) have a non-empty value of `Polite`.
-
-The most frequent other feature values with which `DET` and `Polite` co-occurred: <tt><a href="PronType.html">PronType</a>=Dem</tt> (1; 100%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (1; 100%), <tt><a href="Person.html">Person</a>=2</tt> (1; 100%), <tt><a href="Case.html">Case</a>=Acc</tt> (1; 100%).
-
-`DET` tokens may have the following values of `Polite`:
-
-* `Form` (1; 100% of non-empty `Polite`): آپ
-
 ### `PROPN`
 
 1 [ur-pos/PROPN]() tokens (0% of all `PROPN` tokens) have a non-empty value of `Polite`.
 
-The most frequent other feature values with which `PROPN` and `Polite` co-occurred: <tt><a href="Case.html">Case</a>=Nom</tt> (1; 100%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (1; 100%), <tt><a href="Person.html">Person</a>=3</tt> (1; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (1; 100%).
+The most frequent other feature values with which `PROPN` and `Polite` co-occurred: <tt><a href="Gender.html">Gender</a>=Masc</tt> (1; 100%), <tt><a href="Person.html">Person</a>=3</tt> (1; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (1; 100%), <tt><a href="Case.html">Case</a>=Nom</tt> (1; 100%).
 
 `PROPN` tokens may have the following values of `Polite`:
 
 * `Form` (1; 100% of non-empty `Polite`): کیمون
+
+### `DET`
+
+1 [ur-pos/DET]() tokens (0% of all `DET` tokens) have a non-empty value of `Polite`.
+
+The most frequent other feature values with which `DET` and `Polite` co-occurred: <tt><a href="Number.html">Number</a>=EMPTY</tt> (1; 100%), <tt><a href="Case.html">Case</a>=Acc</tt> (1; 100%), <tt><a href="PronType.html">PronType</a>=Dem</tt> (1; 100%), <tt><a href="Person.html">Person</a>=2</tt> (1; 100%).
+
+`DET` tokens may have the following values of `Polite`:
+
+* `Form` (1; 100% of non-empty `Polite`): آپ
 

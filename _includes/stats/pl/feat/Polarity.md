@@ -29,7 +29,7 @@ The most frequent other feature values with which `ADJ` and `Polarity` co-occurr
 
 578 [pl-pos/NOUN]() tokens (3% of all `NOUN` tokens) have a non-empty value of `Polarity`.
 
-The most frequent other feature values with which `NOUN` and `Polarity` co-occurred: <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (578; 100%), <tt><a href="Gender.html">Gender</a>=Neut</tt> (578; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (577; 100%).
+The most frequent other feature values with which `NOUN` and `Polarity` co-occurred: <tt><a href="Gender.html">Gender</a>=Neut</tt> (578; 100%), <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (578; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (577; 100%).
 
 `NOUN` tokens may have the following values of `Polarity`:
 

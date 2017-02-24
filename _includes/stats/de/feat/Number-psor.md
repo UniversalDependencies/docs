@@ -18,7 +18,7 @@ The feature is used with 2 part-of-speech tags: [de-pos/DET]() (1283; 0% instanc
 
 1283 [de-pos/DET]() tokens (4% of all `DET` tokens) have a non-empty value of `Number[psor]`.
 
-The most frequent other feature values with which `DET` and `Number[psor]` co-occurred: <tt><a href="PronType.html">PronType</a>=Prs</tt> (1283; 100%), <tt><a href="Definite.html">Definite</a>=EMPTY</tt> (1283; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (1281; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (1281; 100%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (1281; 100%).
+The most frequent other feature values with which `DET` and `Number[psor]` co-occurred: <tt><a href="Definite.html">Definite</a>=EMPTY</tt> (1283; 100%), <tt><a href="PronType.html">PronType</a>=Prs</tt> (1283; 100%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (1281; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (1281; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (1281; 100%).
 
 `DET` tokens may have the following values of `Number[psor]`:
 
@@ -27,7 +27,7 @@ The most frequent other feature values with which `DET` and `Number[psor]` co-oc
 
 358 [de-pos/PRON]() tokens (3% of all `PRON` tokens) have a non-empty value of `Number[psor]`.
 
-The most frequent other feature values with which `PRON` and `Number[psor]` co-occurred: <tt><a href="PronType.html">PronType</a>=Prs</tt> (358; 100%), <tt><a href="Reflex.html">Reflex</a>=EMPTY</tt> (358; 100%), <tt><a href="Person.html">Person</a>=1</tt> (255; 71%), <tt><a href="Number.html">Number</a>=Sing</tt> (249; 70%).
+The most frequent other feature values with which `PRON` and `Number[psor]` co-occurred: <tt><a href="Reflex.html">Reflex</a>=EMPTY</tt> (358; 100%), <tt><a href="PronType.html">PronType</a>=Prs</tt> (358; 100%), <tt><a href="Person.html">Person</a>=1</tt> (255; 71%), <tt><a href="Number.html">Number</a>=Sing</tt> (249; 70%).
 
 `PRON` tokens may have the following values of `Number[psor]`:
 

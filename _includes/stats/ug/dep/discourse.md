@@ -34,21 +34,6 @@ The following 4 pairs of parts of speech are connected with `discourse`: [ug-pos
 
 
 ~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 4 discourse	color:blue
-1	بۇمۇ	_	PRON	P	_	3	nsubj	_	Translit=bumu
-2	ئاللانىڭ	_	NOUN	N	_	3	nmod:poss	_	Translit=allaning
-3	ئىرادىسى	_	NOUN	N	_	0	root	_	Translit=iradisi
-4	بالام	_	NOUN	N	_	3	discourse	_	SpaceAfter=No|Translit=balam
-5	.	_	PUNCT	Y	_	4	punct	_	Translit=.
-
-~~~
-
-
-~~~ conllu
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 3	bgColor:blue
@@ -60,6 +45,25 @@ The following 4 pairs of parts of speech are connected with `discourse`: [ug-pos
 4	،	_	PUNCT	Y	_	5	punct	_	Translit=,
 5	لالە	_	VERB	V	_	3	discourse	_	SpaceAfter=No|Translit=lale
 6	؟	_	PUNCT	Y	_	3	punct	_	Translit=?
+
+~~~
+
+
+~~~ conllu
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 1 discourse	color:blue
+1	مانا	_	PART	T	_	7	discourse	_	SpaceAfter=No|Translit=mana
+2	،	_	PUNCT	Y	_	1	punct	_	Translit=,
+3	ئاكاڭ	_	NOUN	N	_	7	nsubj	_	Translit=akang
+4	تېخىچە	_	ADV	D	_	7	advmod	_	Translit=tëxiche
+5	سالتاڭ	_	NOUN	N	_	7	obl	_	Translit=saltang
+6	پېتى	_	ADV	D	_	5	case	_	Translit=pëti
+7	ئۆتۈپ	_	VERB	V	_	0	root	_	Translit=ötüp
+8	كېتىۋاتىدۇ	_	AUX	V	_	7	aux	_	SpaceAfter=No|Translit=këtiwatidu
+9	.	_	PUNCT	Y	_	8	punct	_	Translit=.
 
 ~~~
 

@@ -13,7 +13,7 @@ The 10 most frequent `AUX` types:  <em>je, so, bi, bo, ni, sem, bodo, bil, bila,
 
 The 10 most frequent ambiguous lemmas: <em>biti</em> ([AUX]() 8949, [VERB]() 875)
 
-The 10 most frequent ambiguous types:  <em>je</em> ([AUX]() 3703, [VERB]() 332, [PRON]() 13), <em>so</em> ([AUX]() 1362, [VERB]() 62), <em>bi</em> ([AUX]() 789, [VERB]() 1, [X]() 1), <em>bo</em> ([AUX]() 438, [VERB]() 66), <em>ni</em> ([AUX]() 345, [VERB]() 93), <em>sem</em> ([AUX]() 361, [VERB]() 8, [ADV]() 7), <em>bodo</em> ([AUX]() 235, [VERB]() 9), <em>bil</em> ([AUX]() 196, [VERB]() 34), <em>bila</em> ([AUX]() 187, [VERB]() 44), <em>sta</em> ([AUX]() 175, [VERB]() 6, [X]() 4)
+The 10 most frequent ambiguous types:  <em>je</em> ([AUX]() 3703, [VERB]() 332, [PRON]() 13), <em>so</em> ([AUX]() 1362, [VERB]() 62), <em>bi</em> ([AUX]() 789, [X]() 1, [VERB]() 1), <em>bo</em> ([AUX]() 438, [VERB]() 66), <em>ni</em> ([AUX]() 345, [VERB]() 93), <em>sem</em> ([AUX]() 361, [VERB]() 8, [ADV]() 7), <em>bodo</em> ([AUX]() 235, [VERB]() 9), <em>bil</em> ([AUX]() 196, [VERB]() 34), <em>bila</em> ([AUX]() 187, [VERB]() 44), <em>sta</em> ([AUX]() 175, [VERB]() 6, [X]() 4)
 
 
 * <em>je</em>
@@ -25,8 +25,8 @@ The 10 most frequent ambiguous types:  <em>je</em> ([AUX]() 3703, [VERB]() 332, 
   * [VERB]() 62: <em>V tej skupini <b>so</b> cukete , patišoni in druge poletne oblike .</em>
 * <em>bi</em>
   * [AUX]() 789: <em>S tem naj <b>bi</b> bila zagotovljena objektivnost .</em>
-  * [VERB]() 1: <em>Radi <b>bi</b> , da bi vsi imeli dovolj za življenje in da bi se lahko šolali .</em>
   * [X]() 1: <em>( <b>bi</b> )</em>
+  * [VERB]() 1: <em>Radi <b>bi</b> , da bi vsi imeli dovolj za življenje in da bi se lahko šolali .</em>
 * <em>bo</em>
   * [AUX]() 438: <em>Naj bo tako , čeprav vas nihče ne <b>bo</b> podpiral , in daleč boste prišli .</em>
   * [VERB]() 66: <em>Naj <b>bo</b> tako , čeprav vas nihče ne bo podpiral , in daleč boste prišli .</em>
@@ -97,14 +97,14 @@ The 10 most frequent `AUX` types:  <em>je, so, sem, bi, smo, bo, ni, si, bomo, s
 
 The 10 most frequent ambiguous lemmas: <em>biti</em> ([AUX]() 1267, [VERB]() 449)
 
-The 10 most frequent ambiguous types:  <em>je</em> ([AUX]() 461, [VERB]() 196, [PRON]() 2, [INTJ]() 2), <em>so</em> ([AUX]() 135, [VERB]() 29, [X]() 2), <em>sem</em> ([AUX]() 120, [VERB]() 12, [ADV]() 2), <em>bi</em> ([AUX]() 95, [VERB]() 7, [X]() 1), <em>smo</em> ([AUX]() 72, [VERB]() 9), <em>bo</em> ([AUX]() 65, [VERB]() 22), <em>ni</em> ([AUX]() 44, [VERB]() 36), <em>si</em> ([AUX]() 34, [PRON]() 33, [VERB]() 16), <em>bomo</em> ([AUX]() 33, [VERB]() 3), <em>ste</em> ([AUX]() 26, [VERB]() 4)
+The 10 most frequent ambiguous types:  <em>je</em> ([AUX]() 461, [VERB]() 196, [INTJ]() 2, [PRON]() 2), <em>so</em> ([AUX]() 135, [VERB]() 29, [X]() 2), <em>sem</em> ([AUX]() 120, [VERB]() 12, [ADV]() 2), <em>bi</em> ([AUX]() 95, [VERB]() 7, [X]() 1), <em>smo</em> ([AUX]() 72, [VERB]() 9), <em>bo</em> ([AUX]() 65, [VERB]() 22), <em>ni</em> ([AUX]() 44, [VERB]() 36), <em>si</em> ([AUX]() 34, [PRON]() 33, [VERB]() 16), <em>bomo</em> ([AUX]() 33, [VERB]() 3), <em>ste</em> ([AUX]() 26, [VERB]() 4)
 
 
 * <em>je</em>
   * [AUX]() 461: <em>ja lionizem <b>je</b> tudi morda največja socialna mreža v svetu</em>
   * [VERB]() 196: <em>na vrhu <b>je</b> tako kot si rekla en šef lahko sta tudi dva</em>
-  * [PRON]() 2: <em>sploh če <b>je</b> ne prebereš mislim tako da jo prebereš</em>
   * [INTJ]() 2: <em>veš kadar sem prišel v maribor ne <b>je</b> zdaj pa macdonald's tu ne <b>je</b> zdaj pa bom jaz tu non stop ne ja ja prvi prvi dan sem že šel ne pa te naslednji teden teden sem tudi šel pa za mesec dni sem tudi hodil pa non stop sem hodil zdaj pa niti ne povoham ga dokler grem mimo ker mi je totalno out no eh hodi v pizdo [gap]</em>
+  * [PRON]() 2: <em>sploh če <b>je</b> ne prebereš mislim tako da jo prebereš</em>
 * <em>so</em>
   * [AUX]() 135: <em>in spodaj <b>so</b> vsi komentini malo istrijani malo po hrvaško</em>
   * [VERB]() 29: <em>a <b>so</b></em>

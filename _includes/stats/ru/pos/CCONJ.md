@@ -102,7 +102,7 @@ The 10 most frequent `CCONJ` types:  <em>и, а, но, или, ни, да, а_т
 
 The 10 most frequent ambiguous lemmas: <em>и</em> ([CCONJ]() 22107, [PART]() 4045, [X]() 3, [PROPN]() 2, [VERB]() 1), <em>а</em> ([CCONJ]() 5028, [PROPN]() 14, [INTJ]() 4, [PART]() 4, [X]() 4, [NOUN]() 1), <em>но</em> ([CCONJ]() 4124, [PROPN]() 2), <em>ни</em> ([PART]() 486, [CCONJ]() 442, [PROPN]() 28, [NOUN]() 1), <em>да</em> ([CCONJ]() 284, [PART]() 275, [ADP]() 2, [PROPN]() 1), <em>причем</em> ([CCONJ]() 160, [ADV]() 61), <em>зато</em> ([CCONJ]() 93, [PART]() 22), <em>только</em> ([PART]() 1891, [CCONJ]() 48, [ADV]() 1), <em>иначе</em> ([ADV]() 133, [CCONJ]() 30), <em>ан</em> ([PROPN]() 26, [CCONJ]() 2)
 
-The 10 most frequent ambiguous types:  <em>и</em> ([CCONJ]() 20115, [PART]() 4011, [X]() 3), <em>а</em> ([CCONJ]() 3431, [X]() 4, [INTJ]() 3, [PART]() 1), <em>ни</em> ([PART]() 451, [CCONJ]() 415), <em>да</em> ([CCONJ]() 175, [PART]() 75, [ADP]() 2), <em>причем</em> ([CCONJ]() 99, [ADV]() 18), <em>зато</em> ([CCONJ]() 30, [PART]() 19), <em>только</em> ([PART]() 1781, [CCONJ]() 32, [ADV]() 1), <em>иначе</em> ([ADV]() 107, [CCONJ]() 26), <em>так</em> ([ADV]() 1548, [PART]() 4, [SCONJ]() 1, [CCONJ]() 1), <em>х</em> ([ADP]() 1, [CCONJ]() 1)
+The 10 most frequent ambiguous types:  <em>и</em> ([CCONJ]() 20115, [PART]() 4011, [X]() 3), <em>а</em> ([CCONJ]() 3431, [X]() 4, [INTJ]() 3, [PART]() 1), <em>ни</em> ([PART]() 451, [CCONJ]() 415), <em>да</em> ([CCONJ]() 175, [PART]() 75, [ADP]() 2), <em>причем</em> ([CCONJ]() 99, [ADV]() 18), <em>зато</em> ([CCONJ]() 30, [PART]() 19), <em>только</em> ([PART]() 1781, [CCONJ]() 32, [ADV]() 1), <em>иначе</em> ([ADV]() 107, [CCONJ]() 26), <em>так</em> ([ADV]() 1548, [PART]() 4, [SCONJ]() 1, [CCONJ]() 1), <em>х</em> ([CCONJ]() 1, [ADP]() 1)
 
 
 * <em>и</em>
@@ -140,8 +140,8 @@ The 10 most frequent ambiguous types:  <em>и</em> ([CCONJ]() 20115, [PART]() 40
   * [SCONJ]() 1: <em>- Как хошь , <b>так</b> и понимай , - оборвал ее Антон .</em>
   * [CCONJ]() 1: <em>Биологический возраст индивида может заметно отличаться от возраста паспортного как в сторону опережения ( акселерация ) , <b>так</b> отставания ( ретардация ) .</em>
 * <em>х</em>
-  * [ADP]() 1: <em>А , скажем , в библиотеках достаточно трубопроводов прямоугольного сечения ( 20 <b>х</b> 40 см ) и контейнеров грузоподъемностью 25 кг .</em>
   * [CCONJ]() 1: <em>Естественно , что первые десять манипуляторов при этом изготовят 10 <b>х</b> 10 = 100 штук манипуляторов , уменьшенных , однако , уже в 16 раз …</em>
+  * [ADP]() 1: <em>А , скажем , в библиотеках достаточно трубопроводов прямоугольного сечения ( 20 <b>х</b> 40 см ) и контейнеров грузоподъемностью 25 кг .</em>
 
 ## Morphology
 

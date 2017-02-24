@@ -13,14 +13,14 @@ The 10 most frequent `CCONJ` types:  <em>a, ale, aj, i, alebo, ani, či, lebo, n
 
 The 10 most frequent ambiguous lemmas: <em>a</em> ([CCONJ]() 2169, [PART]() 88, [X]() 12), <em>ale</em> ([CCONJ]() 191, [PART]() 29), <em>aj</em> ([PART]() 200, [CCONJ]() 75), <em>i</em> ([CCONJ]() 68, [PART]() 29, [NUM]() 20, [X]() 2), <em>ani</em> ([PART]() 66, [CCONJ]() 59), <em>no</em> ([CCONJ]() 41, [PART]() 13), <em>však</em> ([PART]() 109, [CCONJ]() 41), <em>tak</em> ([ADV]() 77, [PART]() 46, [CCONJ]() 23, [X]() 1), <em>len</em> ([PART]() 95, [CCONJ]() 13), <em>lenže</em> ([CCONJ]() 13, [PART]() 2)
 
-The 10 most frequent ambiguous types:  <em>a</em> ([CCONJ]() 2045, [X]() 3, [PRON]() 1, [PART]() 1), <em>ale</em> ([CCONJ]() 144, [PART]() 6), <em>aj</em> ([PART]() 180, [CCONJ]() 63), <em>i</em> ([CCONJ]() 65, [PART]() 26), <em>ani</em> ([PART]() 51, [CCONJ]() 50), <em>no</em> ([CCONJ]() 36, [PART]() 1), <em>však</em> ([PART]() 107, [CCONJ]() 41), <em>tak</em> ([ADV]() 66, [CCONJ]() 23, [PART]() 18, [X]() 1), <em>len</em> ([PART]() 84, [CCONJ]() 6), <em>teda</em> ([PART]() 29, [CCONJ]() 11)
+The 10 most frequent ambiguous types:  <em>a</em> ([CCONJ]() 2045, [X]() 3, [PART]() 1, [PRON]() 1), <em>ale</em> ([CCONJ]() 144, [PART]() 6), <em>aj</em> ([PART]() 180, [CCONJ]() 63), <em>i</em> ([CCONJ]() 65, [PART]() 26), <em>ani</em> ([PART]() 51, [CCONJ]() 50), <em>no</em> ([CCONJ]() 36, [PART]() 1), <em>však</em> ([PART]() 107, [CCONJ]() 41), <em>tak</em> ([ADV]() 66, [CCONJ]() 23, [PART]() 18, [X]() 1), <em>len</em> ([PART]() 84, [CCONJ]() 6), <em>teda</em> ([PART]() 29, [CCONJ]() 11)
 
 
 * <em>a</em>
   * [CCONJ]() 2045: <em>Hospodárstvo KĽDR je na kolenách <b>a</b> deti hladujú .</em>
   * [X]() 3: <em>* Povídky ironické <b>a</b> sentimentální</em>
-  * [PRON]() 1: <em>Táto práca <b>a</b> vyznačuje chaotickosťou usporiadania materiálu .</em>
   * [PART]() 1: <em>“ No <b>a</b> ?</em>
+  * [PRON]() 1: <em>Táto práca <b>a</b> vyznačuje chaotickosťou usporiadania materiálu .</em>
 * <em>ale</em>
   * [CCONJ]() 144: <em>Táto historka sa medzi ľuďmi udomácnila , <b>ale</b> nie je pravdivá .</em>
   * [PART]() 6: <em>Ja sa <b>ale</b> na nikoho nehnevám .</em>

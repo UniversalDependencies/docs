@@ -11,9 +11,9 @@ The 10 most frequent `CCONJ` lemmas: <em>і, а, й, але, та, чи, або,
 
 The 10 most frequent `CCONJ` types:  <em>і, а, й, але, та, чи, або, то, Зате, ані</em>
 
-The 10 most frequent ambiguous lemmas: <em>і</em> ([CCONJ]() 271, [PART]() 13), <em>а</em> ([CCONJ]() 64, [PART]() 3), <em>й</em> ([CCONJ]() 37, [PART]() 11), <em>та</em> ([CCONJ]() 23, [PART]() 1), <em>чи</em> ([CCONJ]() 9, [PART]() 6, [SCONJ]() 3), <em>то</em> ([SCONJ]() 8, [PART]() 6, [PRON]() 6, [CCONJ]() 4), <em>лиш</em> ([CCONJ]() 1, [SCONJ]() 1)
+The 10 most frequent ambiguous lemmas: <em>і</em> ([CCONJ]() 271, [PART]() 13), <em>а</em> ([CCONJ]() 64, [PART]() 3), <em>й</em> ([CCONJ]() 37, [PART]() 11), <em>та</em> ([CCONJ]() 23, [PART]() 1), <em>чи</em> ([CCONJ]() 9, [PART]() 6, [SCONJ]() 3), <em>то</em> ([SCONJ]() 8, [PRON]() 6, [PART]() 6, [CCONJ]() 4), <em>лиш</em> ([SCONJ]() 1, [CCONJ]() 1)
 
-The 10 most frequent ambiguous types:  <em>і</em> ([CCONJ]() 258, [PART]() 9), <em>а</em> ([CCONJ]() 46, [PART]() 2), <em>й</em> ([CCONJ]() 36, [PART]() 11), <em>та</em> ([CCONJ]() 23, [DET]() 1, [PRON]() 1, [PART]() 1), <em>чи</em> ([CCONJ]() 8, [PART]() 4, [SCONJ]() 3), <em>то</em> ([SCONJ]() 8, [PART]() 4, [CCONJ]() 4, [PRON]() 2), <em>лиш</em> ([SCONJ]() 1, [CCONJ]() 1)
+The 10 most frequent ambiguous types:  <em>і</em> ([CCONJ]() 258, [PART]() 9), <em>а</em> ([CCONJ]() 46, [PART]() 2), <em>й</em> ([CCONJ]() 36, [PART]() 11), <em>та</em> ([CCONJ]() 23, [DET]() 1, [PRON]() 1, [PART]() 1), <em>чи</em> ([CCONJ]() 8, [PART]() 4, [SCONJ]() 3), <em>то</em> ([SCONJ]() 8, [PART]() 4, [CCONJ]() 4, [PRON]() 2), <em>лиш</em> ([CCONJ]() 1, [SCONJ]() 1)
 
 
 * <em>і</em>
@@ -40,8 +40,8 @@ The 10 most frequent ambiguous types:  <em>і</em> ([CCONJ]() 258, [PART]() 9), 
   * [CCONJ]() 4: <em>Негр легко хитається взад і вперед на своєму високому сидінні , торкаючи <b>то</b> той , <b>то</b> другий ударний інструмент в строгому такті .</em>
   * [PRON]() 2: <em>І <b>то</b> буде кінець .</em>
 * <em>лиш</em>
-  * [SCONJ]() 1: <em>— Друже командир , — це знов була вона , <b>лиш</b> голос мала одмінений до непізнання , низький , мов перестуджений .</em>
   * [CCONJ]() 1: <em>І « Стодолю » з ними , подумав він , <b>лиш</b> уголос цього не сказав .</em>
+  * [SCONJ]() 1: <em>— Друже командир , — це знов була вона , <b>лиш</b> голос мала одмінений до непізнання , низький , мов перестуджений .</em>
 
 ## Morphology
 

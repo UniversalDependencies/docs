@@ -16,7 +16,7 @@ The feature is used with 2 part-of-speech tags: [da-pos/VERB]() (7033; 8% instan
 
 7033 [da-pos/VERB]() tokens (73% of all `VERB` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="Definite.html">Definite</a>=EMPTY</tt> (5381; 77%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (5248; 75%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (5028; 71%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (5028; 71%), <tt><a href="Voice.html">Voice</a>=Act</tt> (4787; 68%).
+The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="Definite.html">Definite</a>=EMPTY</tt> (5381; 77%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (5248; 75%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (5028; 71%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (5028; 71%), <tt><a href="Voice.html">Voice</a>=Act</tt> (4787; 68%).
 
 `VERB` tokens may have the following values of `Tense`:
 
@@ -34,7 +34,7 @@ The most frequent other feature values with which `VERB` and `Tense` co-occurred
 
 4118 [da-pos/AUX]() tokens (93% of all `AUX` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `AUX` and `Tense` co-occurred: <tt><a href="Voice.html">Voice</a>=Act</tt> (3952; 96%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (3952; 96%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (3952; 96%).
+The most frequent other feature values with which `AUX` and `Tense` co-occurred: <tt><a href="Mood.html">Mood</a>=Ind</tt> (3952; 96%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (3952; 96%), <tt><a href="Voice.html">Voice</a>=Act</tt> (3952; 96%).
 
 `AUX` tokens may have the following values of `Tense`:
 
@@ -55,6 +55,6 @@ The 10 most frequent relations where parent and child node agree in `Tense`:
 <tt>VERB --[<a href="../dep/conj.html">conj</a>]--> VERB</tt> (606; 71%),
 <tt>VERB --[<a href="../dep/advmod.html">advmod</a>]--> VERB</tt> (228; 60%),
 <tt>VERB --[<a href="../dep/dep.html">dep</a>]--> VERB</tt> (13; 57%),
-<tt>VERB --[<a href="../dep/obl:loc.html">obl:loc</a>]--> VERB</tt> (1; 100%),
-<tt>VERB --[<a href="../dep/cop.html">cop</a>]--> AUX</tt> (1; 100%).
+<tt>VERB --[<a href="../dep/cop.html">cop</a>]--> AUX</tt> (1; 100%),
+<tt>VERB --[<a href="../dep/obl:loc.html">obl:loc</a>]--> VERB</tt> (1; 100%).
 

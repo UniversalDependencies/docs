@@ -138,26 +138,39 @@ The following 12 pairs of parts of speech are connected with `advcl`: [fr-pos/VE
 
 
 ~~~ conllu
-# visual-style 14	bgColor:blue
-# visual-style 14	fgColor:white
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 7 14 advcl	color:blue
-1	Je	je	PRON	PE	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
-2	demande	demander	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
-3	que	que	SCONJ	CS	_	7	mark	_	_
-4	cette	ce	DET	DD	Gender=Fem|Number=Sing|PronType=Dem	5	det	_	_
-5	décision	décision	NOUN	S	Gender=Fem|Number=Sing	7	nsubj:pass	_	_
-6	soit	être	AUX	VA	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	aux:pass	_	_
-7	reconsidérée	reconsidérer	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	2	ccomp	_	_
-8	car	car	SCONJ	CS	_	14	mark	_	_
-9	ce	ce	PRON	PD	Number=Sing|Person=3|PronType=Dem	14	nsubj	_	_
-10	n'	ne	PART	PART	Polarity=Neg	14	advmod	_	SpaceAfter=No
-11	est	être	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	cop	_	_
-12	pas	pas	ADV	BN	Polarity=Neg	14	advmod	_	_
-13	le	le	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
-14	cas	cas	NOUN	S	Gender=Masc	7	advcl	_	SpaceAfter=No
-15	.	.	PUNCT	FS	_	2	punct	_	_
+# visual-style 11	bgColor:blue
+# visual-style 11	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 11 advcl	color:blue
+1	Il	il	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	expl	_	_
+2	est	être	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+3	difficile	difficile	ADJ	A	Number=Sing	0	root	_	_
+4	de	de	ADP	E	_	6	expl	_	_
+5	s'	se	PRON	_	Person=3|PronType=Prs	6	expl	_	SpaceAfter=No
+6	imaginer	imaginer	VERB	V	VerbForm=Inf	3	csubj	_	SpaceAfter=No
+7	,	,	PUNCT	FF	_	6	punct	_	_
+8	quand	quand	SCONJ	CS	_	11	mark	_	_
+9	on	on	PRON	P	Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	nsubj	_	_
+10	est	être	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	cop	_	_
+11	bord	bord	ADJ	A	Number=Sing	6	advcl	_	_
+12	de	de	ADP	E	_	14	case	_	_
+13	la	le	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	_
+14	Méditerranée	Méditerranée	PROPN	SP	_	11	obl	_	SpaceAfter=No
+15	,	,	PUNCT	FF	_	6	punct	_	_
+16	qu'	que	SCONJ	CS	_	21	mark	_	SpaceAfter=No
+17	en	en	ADP	E	_	18	case	_	_
+18	Laponie	Laponie	PROPN	SP	_	21	obl	_	_
+19	la	le	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	20	det	_	_
+20	température	température	NOUN	S	Gender=Fem|Number=Sing	21	nsubj	_	_
+21	descend	descendre	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	ccomp	_	_
+22	nettement	nettement	ADV	B	_	24	advmod	_	_
+23	en	en	ADP	E	_	24	case	_	_
+24	dessous	dessous	ADV	B	_	21	advmod	_	_
+25	de	de	ADP	E	_	27	case	_	_
+26	cette	ce	DET	DD	Gender=Fem|Number=Sing|PronType=Dem	27	det	_	_
+27	limite	limite	NOUN	S	Gender=Fem|Number=Sing	24	obl	_	SpaceAfter=No
+28	.	.	PUNCT	FS	_	3	punct	_	_
 
 ~~~
 

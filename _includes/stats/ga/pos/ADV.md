@@ -11,9 +11,9 @@ The 10 most frequent `ADV` lemmas: <em>amach, chomh, anois, thart, ansin, arís,
 
 The 10 most frequent `ADV` types:  <em>amach, chomh, anois, thart, ansin, arís, isteach, anseo, síos, áfach</em>
 
-The 10 most frequent ambiguous lemmas: <em>ais</em> ([ADV]() 7, [NOUN]() 1), <em>ar</em> ([ADP]() 384, [PART]() 11, [ADV]() 7, [VERB]() 1, [AUX]() 1), <em>timpeall</em> ([ADV]() 4, [NOUN]() 2), <em>go</em> ([PART]() 146, [ADP]() 44, [SCONJ]() 12, [NOUN]() 5, [ADV]() 2, [ADJ]() 1), <em>leor</em> ([NOUN]() 5, [ADV]() 2, [ADJ]() 1), <em>a</em> ([PART]() 485, [DET]() 97, [X]() 2, [ADV]() 1, [ADP]() 1, [NOUN]() 1), <em>bheith</em> ([NOUN]() 28, [ADV]() 1), <em>féin</em> ([PRON]() 25, [NOUN]() 1, [ADV]() 1), <em>iontach</em> ([ADJ]() 3, [ADV]() 1), <em>láithreach</em> ([ADJ]() 1, [NOUN]() 1, [ADV]() 1)
+The 10 most frequent ambiguous lemmas: <em>ais</em> ([ADV]() 7, [NOUN]() 1), <em>ar</em> ([ADP]() 384, [PART]() 11, [ADV]() 7, [AUX]() 1, [VERB]() 1), <em>timpeall</em> ([ADV]() 4, [NOUN]() 2), <em>go</em> ([PART]() 146, [ADP]() 44, [SCONJ]() 12, [NOUN]() 5, [ADV]() 2, [ADJ]() 1), <em>leor</em> ([NOUN]() 5, [ADV]() 2, [ADJ]() 1), <em>a</em> ([PART]() 485, [DET]() 97, [X]() 2, [NOUN]() 1, [ADP]() 1, [ADV]() 1), <em>bheith</em> ([NOUN]() 28, [ADV]() 1), <em>féin</em> ([PRON]() 25, [NOUN]() 1, [ADV]() 1), <em>iontach</em> ([ADJ]() 3, [ADV]() 1), <em>láithreach</em> ([ADV]() 1, [ADJ]() 1, [NOUN]() 1)
 
-The 10 most frequent ambiguous types:  <em>ar</em> ([ADP]() 305, [PART]() 9, [AUX]() 7, [ADV]() 6, [VERB]() 1), <em>timpeall</em> ([ADV]() 4, [NOUN]() 2), <em>go</em> ([PART]() 142, [ADP]() 42, [SCONJ]() 12, [NOUN]() 5, [ADV]() 2, [ADJ]() 1), <em>leor</em> ([NOUN]() 5, [ADV]() 2, [ADJ]() 1), <em>a</em> ([PART]() 482, [DET]() 98, [X]() 1, [ADV]() 1, [ADP]() 1, [NOUN]() 1), <em>bheith</em> ([NOUN]() 28, [ADV]() 1), <em>féin</em> ([PRON]() 25, [ADV]() 1), <em>iontach</em> ([ADV]() 1, [ADJ]() 1), <em>láithreach</em> ([ADV]() 1, [ADJ]() 1, [NOUN]() 1), <em>thar</em> ([ADP]() 10, [ADV]() 1)
+The 10 most frequent ambiguous types:  <em>ar</em> ([ADP]() 305, [PART]() 9, [AUX]() 7, [ADV]() 6, [VERB]() 1), <em>timpeall</em> ([ADV]() 4, [NOUN]() 2), <em>go</em> ([PART]() 142, [ADP]() 42, [SCONJ]() 12, [NOUN]() 5, [ADV]() 2, [ADJ]() 1), <em>leor</em> ([NOUN]() 5, [ADV]() 2, [ADJ]() 1), <em>a</em> ([PART]() 482, [DET]() 98, [NOUN]() 1, [X]() 1, [ADP]() 1, [ADV]() 1), <em>bheith</em> ([NOUN]() 28, [ADV]() 1), <em>féin</em> ([PRON]() 25, [ADV]() 1), <em>iontach</em> ([ADV]() 1, [ADJ]() 1), <em>láithreach</em> ([ADJ]() 1, [NOUN]() 1, [ADV]() 1), <em>thar</em> ([ADP]() 10, [ADV]() 1)
 
 
 * <em>ar</em>
@@ -39,10 +39,10 @@ The 10 most frequent ambiguous types:  <em>ar</em> ([ADP]() 305, [PART]() 9, [AU
 * <em>a</em>
   * [PART]() 482: <em>Ansin nach deas mar <b>a</b> bheadh an scéal a'm ?</em>
   * [DET]() 98: <em>Ansin nuair a shocair an gleo d' éist siad , ach ní chuala siad <b>a</b> dhath .</em>
-  * [X]() 1: <em>Sa Deibhí bíonn seacht siolla sa líne freisin , ach bíonn siolla sa bhreis i bhfocal deireanach b ar <b>a</b> , agus in d ar c .</em>
-  * [ADV]() 1: <em>Tá sé ráite ag tráchtairí áirithe , agus go minic acu siúd ar mhian leo caitheamh anuas ar Chonradh na Gaeilge agus díspeagadh a dhéanamh ar ghluaiseacht an náisiúnachais chultúrtha i gcoitinne in Éirinn , gur gluaiseacht neo-thraidisiúnta thar <b>a</b> bheith coimeádach amach is amach a bhí ann .</em>
-  * [ADP]() 1: <em>' Anonn leis de chéim mhall go dtí an bord gur thosaigh <b>a</b> chaint , agus an uile fhocal uaidh ag fuaimniú go glé ar an aer .</em>
   * [NOUN]() 1: <em>Lena linn sin tá líon na ndaoine dífhostaithe ag dul i méid i rith an ama ( cionn is nach bhfuil sé de bhéasa ag daoine <b>a</b> thuilleadh dul ar an imirce mar a rinne a muintir rompu , a shílfeá ó bheith ag éisteacht le daoine áirithe ) .</em>
+  * [X]() 1: <em>Sa Deibhí bíonn seacht siolla sa líne freisin , ach bíonn siolla sa bhreis i bhfocal deireanach b ar <b>a</b> , agus in d ar c .</em>
+  * [ADP]() 1: <em>' Anonn leis de chéim mhall go dtí an bord gur thosaigh <b>a</b> chaint , agus an uile fhocal uaidh ag fuaimniú go glé ar an aer .</em>
+  * [ADV]() 1: <em>Tá sé ráite ag tráchtairí áirithe , agus go minic acu siúd ar mhian leo caitheamh anuas ar Chonradh na Gaeilge agus díspeagadh a dhéanamh ar ghluaiseacht an náisiúnachais chultúrtha i gcoitinne in Éirinn , gur gluaiseacht neo-thraidisiúnta thar <b>a</b> bheith coimeádach amach is amach a bhí ann .</em>
 * <em>bheith</em>
   * [NOUN]() 28: <em>' Ach caithfidh mise a <b>bheith</b> ar shiúl chun an tsiopa .</em>
   * [ADV]() 1: <em>Tá sé ráite ag tráchtairí áirithe , agus go minic acu siúd ar mhian leo caitheamh anuas ar Chonradh na Gaeilge agus díspeagadh a dhéanamh ar ghluaiseacht an náisiúnachais chultúrtha i gcoitinne in Éirinn , gur gluaiseacht neo-thraidisiúnta thar a <b>bheith</b> coimeádach amach is amach a bhí ann .</em>
@@ -53,9 +53,9 @@ The 10 most frequent ambiguous types:  <em>ar</em> ([ADP]() 305, [PART]() 9, [AU
   * [ADV]() 1: <em>M' anam go raibh sin <b>iontach</b> scáfar , ach ansin d' fhág tú sin agus chuaigh tú le sagartóireacht .</em>
   * [ADJ]() 1: <em>' Gidh nár éirigh leo an corn mór a bhíonn á lorg go crua ag achan chontae a sciobadh leo sa tréimhse sin dar le Anthony go bhfuil dul chun cinn <b>iontach</b> déanta ag foireann shinsir Chill Dara le deich mbliana anuas agus go bhfuil seans ann fós go gcaithfidh Sam an Geimhreadh sa chontae .</em>
 * <em>láithreach</em>
-  * [ADV]() 1: <em>Chruinnigh siad <b>láithreach</b> ina gciorcal ramhar nuair a tugadh faoi deara caismirt is clampar ag bolgadh i gceann de na cúinní .</em>
   * [ADJ]() 1: <em>Nuacht 4.08 Nuacht a hAon 2.00 Nuair a bheidh an Coiste sin tofa , iad do chroma <b>láithreach</b> ar an Teaghlach Meán-suidhte d' ullamhú chun iostuithe , etc .</em>
   * [NOUN]() 1: <em>D' fhógair Comerama Inderama ag deireadh na seachtaine seo caite go raibh an mhonarcha acu i gCaisleán an Chomair le dúnadh <b>láithreach</b> agus go gcaillfeadh 360 post ann .</em>
+  * [ADV]() 1: <em>Chruinnigh siad <b>láithreach</b> ina gciorcal ramhar nuair a tugadh faoi deara caismirt is clampar ag bolgadh i gceann de na cúinní .</em>
 * <em>thar</em>
   * [ADP]() 10: <em>Táimid <b>thar</b> n-ais sa Chorrán arís .</em>
   * [ADV]() 1: <em>Tá sé ráite ag tráchtairí áirithe , agus go minic acu siúd ar mhian leo caitheamh anuas ar Chonradh na Gaeilge agus díspeagadh a dhéanamh ar ghluaiseacht an náisiúnachais chultúrtha i gcoitinne in Éirinn , gur gluaiseacht neo-thraidisiúnta <b>thar</b> a bheith coimeádach amach is amach a bhí ann .</em>

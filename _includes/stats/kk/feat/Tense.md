@@ -16,7 +16,7 @@ The feature is used with 2 part-of-speech tags: [kk-pos/VERB]() (42; 8% instance
 
 42 [kk-pos/VERB]() tokens (55% of all `VERB` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="Aspect.html">Aspect</a>=EMPTY</tt> (42; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (39; 93%), <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (36; 86%), <tt><a href="Polarity.html">Polarity</a>=EMPTY</tt> (34; 81%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (28; 67%), <tt><a href="Number.html">Number</a>=Sing</tt> (28; 67%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (28; 67%), <tt><a href="Person.html">Person</a>=3</tt> (28; 67%).
+The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="Aspect.html">Aspect</a>=EMPTY</tt> (42; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (39; 93%), <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (36; 86%), <tt><a href="Polarity.html">Polarity</a>=EMPTY</tt> (34; 81%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (28; 67%), <tt><a href="Person.html">Person</a>=3</tt> (28; 67%), <tt><a href="Number.html">Number</a>=Sing</tt> (28; 67%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (28; 67%).
 
 `VERB` tokens may have the following values of `Tense`:
 
@@ -37,7 +37,7 @@ The most frequent other feature values with which `VERB` and `Tense` co-occurred
 
 15 [kk-pos/AUX]() tokens (60% of all `AUX` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `AUX` and `Tense` co-occurred: <tt><a href="Person.html">Person</a>=3</tt> (15; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (15; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (15; 100%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (15; 100%), <tt><a href="Polarity.html">Polarity</a>=EMPTY</tt> (14; 93%).
+The most frequent other feature values with which `AUX` and `Tense` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (15; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (15; 100%), <tt><a href="Person.html">Person</a>=3</tt> (15; 100%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (15; 100%), <tt><a href="Polarity.html">Polarity</a>=EMPTY</tt> (14; 93%).
 
 `AUX` tokens may have the following values of `Tense`:
 

@@ -11,9 +11,9 @@ The 10 most frequent `X` lemmas: <em>sin, (1), (2), seo, (c), (4), (a), (b), dei
 
 The 10 most frequent `X` types:  <em>san, (1), (2), so, (c), (4), (a), (b), Uimh., FÁS</em>
 
-The 10 most frequent ambiguous lemmas: <em>sin</em> ([DET]() 67, [PRON]() 65, [X]() 10, [AUX]() 2), <em>(2)</em> ([X]() 7, [NUM]() 1), <em>seo</em> ([DET]() 68, [PRON]() 15, [X]() 7, [AUX]() 2), <em>(4)</em> ([X]() 4, [NUM]() 1), <em>fás</em> ([X]() 2, [VERB]() 2, [NOUN]() 1), <em>a</em> ([PART]() 485, [DET]() 97, [X]() 2, [ADV]() 1, [ADP]() 1, [NOUN]() 1), <em>faoi</em> ([ADP]() 63, [X]() 2), <em>achan</em> ([NOUN]() 1, [X]() 1), <em>ag</em> ([ADP]() 241, [X]() 1), <em>cuir</em> ([VERB]() 19, [X]() 1)
+The 10 most frequent ambiguous lemmas: <em>sin</em> ([DET]() 67, [PRON]() 65, [X]() 10, [AUX]() 2), <em>(2)</em> ([X]() 7, [NUM]() 1), <em>seo</em> ([DET]() 68, [PRON]() 15, [X]() 7, [AUX]() 2), <em>(4)</em> ([X]() 4, [NUM]() 1), <em>fás</em> ([VERB]() 2, [X]() 2, [NOUN]() 1), <em>a</em> ([PART]() 485, [DET]() 97, [X]() 2, [NOUN]() 1, [ADP]() 1, [ADV]() 1), <em>faoi</em> ([ADP]() 63, [X]() 2), <em>achan</em> ([NOUN]() 1, [X]() 1), <em>ag</em> ([ADP]() 241, [X]() 1), <em>cuir</em> ([VERB]() 19, [X]() 1)
 
-The 10 most frequent ambiguous types:  <em>san</em> ([ADP]() 28, [X]() 10, [PRON]() 4), <em>(2)</em> ([X]() 7, [NUM]() 1), <em>(4)</em> ([X]() 4, [NUM]() 1), <em>a</em> ([PART]() 482, [DET]() 98, [X]() 1, [ADV]() 1, [ADP]() 1, [NOUN]() 1), <em>achan</em> ([NOUN]() 1, [X]() 1)
+The 10 most frequent ambiguous types:  <em>san</em> ([ADP]() 28, [X]() 10, [PRON]() 4), <em>(2)</em> ([X]() 7, [NUM]() 1), <em>(4)</em> ([X]() 4, [NUM]() 1), <em>a</em> ([PART]() 482, [DET]() 98, [NOUN]() 1, [X]() 1, [ADP]() 1, [ADV]() 1), <em>achan</em> ([NOUN]() 1, [X]() 1)
 
 
 * <em>san</em>
@@ -29,10 +29,10 @@ The 10 most frequent ambiguous types:  <em>san</em> ([ADP]() 28, [X]() 10, [PRON
 * <em>a</em>
   * [PART]() 482: <em>Ansin nach deas mar <b>a</b> bheadh an scéal a'm ?</em>
   * [DET]() 98: <em>Ansin nuair a shocair an gleo d' éist siad , ach ní chuala siad <b>a</b> dhath .</em>
-  * [X]() 1: <em>Sa Deibhí bíonn seacht siolla sa líne freisin , ach bíonn siolla sa bhreis i bhfocal deireanach b ar <b>a</b> , agus in d ar c .</em>
-  * [ADV]() 1: <em>Tá sé ráite ag tráchtairí áirithe , agus go minic acu siúd ar mhian leo caitheamh anuas ar Chonradh na Gaeilge agus díspeagadh a dhéanamh ar ghluaiseacht an náisiúnachais chultúrtha i gcoitinne in Éirinn , gur gluaiseacht neo-thraidisiúnta thar <b>a</b> bheith coimeádach amach is amach a bhí ann .</em>
-  * [ADP]() 1: <em>' Anonn leis de chéim mhall go dtí an bord gur thosaigh <b>a</b> chaint , agus an uile fhocal uaidh ag fuaimniú go glé ar an aer .</em>
   * [NOUN]() 1: <em>Lena linn sin tá líon na ndaoine dífhostaithe ag dul i méid i rith an ama ( cionn is nach bhfuil sé de bhéasa ag daoine <b>a</b> thuilleadh dul ar an imirce mar a rinne a muintir rompu , a shílfeá ó bheith ag éisteacht le daoine áirithe ) .</em>
+  * [X]() 1: <em>Sa Deibhí bíonn seacht siolla sa líne freisin , ach bíonn siolla sa bhreis i bhfocal deireanach b ar <b>a</b> , agus in d ar c .</em>
+  * [ADP]() 1: <em>' Anonn leis de chéim mhall go dtí an bord gur thosaigh <b>a</b> chaint , agus an uile fhocal uaidh ag fuaimniú go glé ar an aer .</em>
+  * [ADV]() 1: <em>Tá sé ráite ag tráchtairí áirithe , agus go minic acu siúd ar mhian leo caitheamh anuas ar Chonradh na Gaeilge agus díspeagadh a dhéanamh ar ghluaiseacht an náisiúnachais chultúrtha i gcoitinne in Éirinn , gur gluaiseacht neo-thraidisiúnta thar <b>a</b> bheith coimeádach amach is amach a bhí ann .</em>
 * <em>achan</em>
   * [NOUN]() 1: <em>' Gidh nár éirigh leo an corn mór a bhíonn á lorg go crua ag <b>achan</b> chontae a sciobadh leo sa tréimhse sin dar le Anthony go bhfuil dul chun cinn iontach déanta ag foireann shinsir Chill Dara le deich mbliana anuas agus go bhfuil seans ann fós go gcaithfidh Sam an Geimhreadh sa chontae .</em>
   * [X]() 1: <em>' Fostaíodh Comhairleoirí Gaeilge ar chonradh dhá bhliain i gcuid de na Bordcheantair cheana féin ach ceapann Comhar go bhfuil géarghá le Comhairleoir Gaeilge lánaimseartha in <b>achan</b> Bhordcheantar sa Tuaisceart sa dóigh is go mbeidh leanúnachas san obair .</em>

@@ -11,9 +11,9 @@ The 10 most frequent `ADJ` lemmas: <em>suur, hea, esimene, pikk, vana, viimane, 
 
 The 10 most frequent `ADJ` types:  <em>hea, suur, püha, vana, noor, esimest, terve, tugev, väike, muud</em>
 
-The 10 most frequent ambiguous lemmas: <em>hea</em> ([ADJ]() 36, [NOUN]() 5), <em>esimene</em> ([ADJ]() 28, [PRON]() 5, [DET]() 2), <em>pikk</em> ([ADJ]() 23, [PROPN]() 1), <em>vana</em> ([ADJ]() 23, [NOUN]() 1), <em>püha</em> ([ADJ]() 22, [NOUN]() 1), <em>valge</em> ([ADJ]() 21, [NOUN]() 3), <em>noor</em> ([ADJ]() 20, [NOUN]() 2, [PROPN]() 1), <em>teine</em> ([PRON]() 37, [DET]() 22, [ADJ]() 20, [NUM]() 1), <em>parem</em> ([ADJ]() 18, [ADV]() 4), <em>muu</em> ([ADJ]() 16, [DET]() 3, [PRON]() 3)
+The 10 most frequent ambiguous lemmas: <em>hea</em> ([ADJ]() 36, [NOUN]() 5), <em>esimene</em> ([ADJ]() 28, [PRON]() 5, [DET]() 2), <em>pikk</em> ([ADJ]() 23, [PROPN]() 1), <em>vana</em> ([ADJ]() 23, [NOUN]() 1), <em>püha</em> ([ADJ]() 22, [NOUN]() 1), <em>valge</em> ([ADJ]() 21, [NOUN]() 3), <em>noor</em> ([ADJ]() 20, [NOUN]() 2, [PROPN]() 1), <em>teine</em> ([PRON]() 37, [DET]() 22, [ADJ]() 20, [NUM]() 1), <em>parem</em> ([ADJ]() 18, [ADV]() 4), <em>muu</em> ([ADJ]() 16, [PRON]() 3, [DET]() 3)
 
-The 10 most frequent ambiguous types:  <em>hea</em> ([ADJ]() 25, [NOUN]() 4), <em>muud</em> ([ADJ]() 9, [PRON]() 1, [DET]() 1), <em>sama</em> ([ADJ]() 5, [DET]() 2, [ADV]() 1), <em>kogu</em> ([DET]() 8, [ADJ]() 5), <em>parem</em> ([ADJ]() 6, [ADV]() 4), <em>sündinud</em> ([ADJ]() 6, [VERB]() 1), <em>valge</em> ([ADJ]() 4, [NOUN]() 2), <em>õige</em> ([ADJ]() 5, [ADV]() 5), <em>kolmandat</em> ([ADJ]() 5, [NUM]() 2), <em>selline</em> ([ADJ]() 5, [DET]() 1)
+The 10 most frequent ambiguous types:  <em>hea</em> ([ADJ]() 25, [NOUN]() 4), <em>muud</em> ([ADJ]() 9, [DET]() 1, [PRON]() 1), <em>sama</em> ([ADJ]() 5, [DET]() 2, [ADV]() 1), <em>kogu</em> ([DET]() 8, [ADJ]() 5), <em>parem</em> ([ADJ]() 6, [ADV]() 4), <em>sündinud</em> ([ADJ]() 6, [VERB]() 1), <em>valge</em> ([ADJ]() 4, [NOUN]() 2), <em>õige</em> ([ADV]() 5, [ADJ]() 5), <em>kolmandat</em> ([ADJ]() 5, [NUM]() 2), <em>selline</em> ([ADJ]() 5, [DET]() 1)
 
 
 * <em>hea</em>
@@ -21,8 +21,8 @@ The 10 most frequent ambiguous types:  <em>hea</em> ([ADJ]() 25, [NOUN]() 4), <e
   * [NOUN]() 4: <em>Sinu jaoks <b>hea</b> ?</em>
 * <em>muud</em>
   * [ADJ]() 9: <em>Ta taipas , et see polnud midagi <b>muud</b> kui armukadedus .</em>
-  * [PRON]() 1: <em>Midagi <b>muud</b> peale voodi toas polnudki , peale kamina ja kitsa akna , millest paistis rannajoon ning merest välja ulatuvad kivid .</em>
   * [DET]() 1: <em>Laest tilgub kogu aeg igasugu tilkasid ja <b>muud</b> sodi .</em>
+  * [PRON]() 1: <em>Midagi <b>muud</b> peale voodi toas polnudki , peale kamina ja kitsa akna , millest paistis rannajoon ning merest välja ulatuvad kivid .</em>
 * <em>sama</em>
   * [ADJ]() 5: <em>Saapapael oli siidine ja tüdruku nahk oli <b>sama</b> sile .</em>
   * [DET]() 2: <em>" Neid kahte vaadates meenub kulunud tsitaat " Viimsest reliikviast " : mitu korda ma pean üht ja <b>sama</b> meest ... "</em>
@@ -40,8 +40,8 @@ The 10 most frequent ambiguous types:  <em>hea</em> ([ADJ]() 25, [NOUN]() 4), <e
   * [ADJ]() 4: <em>Kääbus pakkis samal ajal Ernesaksa jalad taas <b>valge</b> teki sisse .</em>
   * [NOUN]() 2: <em>Tema kohta sosistas mõni õel <b>valge</b> , et ta peab ennast vahel kukeks .</em>
 * <em>õige</em>
-  * [ADJ]() 5: <em>Kõik oli <b>õige</b> !</em>
   * [ADV]() 5: <em>See oli <b>õige</b> pisike autoklaasi kild .</em>
+  * [ADJ]() 5: <em>Kõik oli <b>õige</b> !</em>
 * <em>kolmandat</em>
   * [ADJ]() 5: <em>Teisipäeval aga selgus , et <b>kolmandat</b> kandidaati polegi .</em>
   * [NUM]() 2: <em>Kõige tõenäolisem on , et Savisaar asub kas otsima <b>kolmandat</b> kandidaati või teeb panuse Rüütlile .</em>

@@ -16,7 +16,7 @@ The feature is used with 2 part-of-speech tags: [cs-pos/PRON]() (24036; 2% insta
 
 24036 [cs-pos/PRON]() tokens (61% of all `PRON` tokens) have a non-empty value of `Variant`.
 
-The most frequent other feature values with which `PRON` and `Variant` co-occurred: <tt><a href="PronType.html">PronType</a>=Prs</tt> (24036; 100%), <tt><a href="PrepCase.html">PrepCase</a>=EMPTY</tt> (24036; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (22928; 95%), <tt><a href="Reflex.html">Reflex</a>=Yes</tt> (22237; 93%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (22237; 93%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (22237; 93%), <tt><a href="Case.html">Case</a>=Acc</tt> (19681; 82%).
+The most frequent other feature values with which `PRON` and `Variant` co-occurred: <tt><a href="PronType.html">PronType</a>=Prs</tt> (24036; 100%), <tt><a href="PrepCase.html">PrepCase</a>=EMPTY</tt> (24036; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (22928; 95%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (22237; 93%), <tt><a href="Reflex.html">Reflex</a>=Yes</tt> (22237; 93%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (22237; 93%), <tt><a href="Case.html">Case</a>=Acc</tt> (19681; 82%).
 
 `PRON` tokens may have the following values of `Variant`:
 
@@ -38,8 +38,8 @@ The most frequent other feature values with which `ADJ` and `Variant` co-occurre
 
 The 10 most frequent relations where parent and child node agree in `Variant`:
 <tt>ADJ --[<a href="../dep/conj.html">conj</a>]--> ADJ</tt> (387; 73%),
-<tt>ADJ --[<a href="../dep/appos.html">appos</a>]--> ADJ</tt> (9; 56%),
 <tt>ADJ --[<a href="../dep/parataxis.html">parataxis</a>]--> ADJ</tt> (9; 64%),
+<tt>ADJ --[<a href="../dep/appos.html">appos</a>]--> ADJ</tt> (9; 56%),
 <tt>ADJ --[<a href="../dep/orphan.html">orphan</a>]--> ADJ</tt> (5; 83%).
 
 
@@ -60,7 +60,7 @@ The feature is used with 2 part-of-speech tags: [cs-pos/PRON]() (9000; 2% instan
 
 9000 [cs-pos/PRON]() tokens (57% of all `PRON` tokens) have a non-empty value of `Variant`.
 
-The most frequent other feature values with which `PRON` and `Variant` co-occurred: <tt><a href="PrepCase.html">PrepCase</a>=EMPTY</tt> (9000; 100%), <tt><a href="PronType.html">PronType</a>=Prs</tt> (9000; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (8699; 97%), <tt><a href="Reflex.html">Reflex</a>=Yes</tt> (8525; 95%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (8524; 95%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (8524; 95%), <tt><a href="Case.html">Case</a>=Acc</tt> (7760; 86%).
+The most frequent other feature values with which `PRON` and `Variant` co-occurred: <tt><a href="PrepCase.html">PrepCase</a>=EMPTY</tt> (9000; 100%), <tt><a href="PronType.html">PronType</a>=Prs</tt> (9000; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (8699; 97%), <tt><a href="Reflex.html">Reflex</a>=Yes</tt> (8525; 95%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (8524; 95%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (8524; 95%), <tt><a href="Case.html">Case</a>=Acc</tt> (7760; 86%).
 
 `PRON` tokens may have the following values of `Variant`:
 
@@ -84,8 +84,8 @@ The 10 most frequent relations where parent and child node agree in `Variant`:
 <tt>ADJ --[<a href="../dep/conj.html">conj</a>]--> ADJ</tt> (323; 80%),
 <tt>ADJ --[<a href="../dep/orphan.html">orphan</a>]--> ADJ</tt> (5; 71%),
 <tt>ADJ --[<a href="../dep/appos.html">appos</a>]--> ADJ</tt> (4; 80%),
-<tt>ADJ --[<a href="../dep/ccomp.html">ccomp</a>]--> ADJ</tt> (1; 100%),
-<tt>ADJ --[<a href="../dep/advmod.html">advmod</a>]--> ADJ</tt> (1; 100%).
+<tt>ADJ --[<a href="../dep/advmod.html">advmod</a>]--> ADJ</tt> (1; 100%),
+<tt>ADJ --[<a href="../dep/ccomp.html">ccomp</a>]--> ADJ</tt> (1; 100%).
 
 
 
@@ -105,7 +105,7 @@ The feature is used with 2 part-of-speech tags: [cs-pos/PRON]() (309; 1% instanc
 
 309 [cs-pos/PRON]() tokens (38% of all `PRON` tokens) have a non-empty value of `Variant`.
 
-The most frequent other feature values with which `PRON` and `Variant` co-occurred: <tt><a href="PronType.html">PronType</a>=Prs</tt> (309; 100%), <tt><a href="Case.html">Case</a>=Acc</tt> (309; 100%), <tt><a href="Reflex.html">Reflex</a>=Yes</tt> (309; 100%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (309; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (309; 100%).
+The most frequent other feature values with which `PRON` and `Variant` co-occurred: <tt><a href="Reflex.html">Reflex</a>=Yes</tt> (309; 100%), <tt><a href="PronType.html">PronType</a>=Prs</tt> (309; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (309; 100%), <tt><a href="Case.html">Case</a>=Acc</tt> (309; 100%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (309; 100%).
 
 `PRON` tokens may have the following values of `Variant`:
 
@@ -115,7 +115,7 @@ The most frequent other feature values with which `PRON` and `Variant` co-occurr
 
 64 [cs-pos/ADJ]() tokens (1% of all `ADJ` tokens) have a non-empty value of `Variant`.
 
-The most frequent other feature values with which `ADJ` and `Variant` co-occurred: <tt><a href="Degree.html">Degree</a>=EMPTY</tt> (64; 100%), <tt><a href="Polarity.html">Polarity</a>=Pos</tt> (64; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (64; 100%), <tt><a href="Gender.html">Gender</a>=Fem,Masc</tt> (41; 64%), <tt><a href="Animacy.html">Animacy</a>=Inan</tt> (41; 64%), <tt><a href="Number.html">Number</a>=Plur</tt> (41; 64%).
+The most frequent other feature values with which `ADJ` and `Variant` co-occurred: <tt><a href="Case.html">Case</a>=EMPTY</tt> (64; 100%), <tt><a href="Degree.html">Degree</a>=EMPTY</tt> (64; 100%), <tt><a href="Polarity.html">Polarity</a>=Pos</tt> (64; 100%), <tt><a href="Gender.html">Gender</a>=Fem,Masc</tt> (41; 64%), <tt><a href="Animacy.html">Animacy</a>=Inan</tt> (41; 64%), <tt><a href="Number.html">Number</a>=Plur</tt> (41; 64%).
 
 `ADJ` tokens may have the following values of `Variant`:
 

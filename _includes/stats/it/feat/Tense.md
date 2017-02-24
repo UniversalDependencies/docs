@@ -72,7 +72,7 @@ The most frequent other feature values with which `AUX` and `Tense` co-occurred:
   <tr><td><tt><a href="Mood.html">Mood</a>=Imp|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=2|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td><em>sii</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=1|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td><em>sono</em></td><td><em>sarò</em></td><td><em>Fui</em></td><td><em>ero</em></td></tr>
   <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=2|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td><em>sei</em></td><td><em>sarai</em></td><td></td><td></td></tr>
-  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td><em>è, e', É, E’, E`, sono</em></td><td><em>sarà</em></td><td><em>fu</em></td><td><em>era</em></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td><em>è, e', É, E’, sono, E`</em></td><td><em>sarà</em></td><td><em>fu</em></td><td><em>era</em></td></tr>
   <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=1|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td><em>siamo</em></td><td><em>saremo</em></td><td></td><td><em>eravamo</em></td></tr>
   <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=2|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td><em>siete</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=3|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td><em>sono, son, È</em></td><td><em>saranno</em></td><td><em>furono</em></td><td><em>erano</em></td></tr>
@@ -86,7 +86,7 @@ The most frequent other feature values with which `AUX` and `Tense` co-occurred:
 
 1 [it-pos/NOUN]() tokens (0% of all `NOUN` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `NOUN` and `Tense` co-occurred: <tt><a href="Gender.html">Gender</a>=Masc</tt> (1; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (1; 100%).
+The most frequent other feature values with which `NOUN` and `Tense` co-occurred: <tt><a href="Number.html">Number</a>=Sing</tt> (1; 100%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (1; 100%).
 
 `NOUN` tokens may have the following values of `Tense`:
 

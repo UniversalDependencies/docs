@@ -97,7 +97,7 @@ The most frequent other feature values with which `PROPN` and `Number` co-occurr
 
 6229 [ru-pos/VERB]() tokens (85% of all `VERB` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="Variant.html">Variant</a>=EMPTY</tt> (5409; 87%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (4468; 72%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (4416; 71%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (4416; 71%), <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (4416; 71%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (4389; 70%), <tt><a href="Tense.html">Tense</a>=Past</tt> (4104; 66%), <tt><a href="Aspect.html">Aspect</a>=Imp</tt> (3222; 52%), <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (3172; 51%).
+The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="Variant.html">Variant</a>=EMPTY</tt> (5409; 87%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (4468; 72%), <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (4416; 71%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (4416; 71%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (4416; 71%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (4389; 70%), <tt><a href="Tense.html">Tense</a>=Past</tt> (4104; 66%), <tt><a href="Aspect.html">Aspect</a>=Imp</tt> (3222; 52%), <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (3172; 51%).
 
 `VERB` tokens may have the following values of `Number`:
 
@@ -297,7 +297,7 @@ The most frequent other feature values with which `NOUN` and `Number` co-occurre
 <table>
   <tr><th>Paradigm <i>год</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Gender.html">Gender</a>=Masc</tt></td><td><em>год, г., г</em></td><td><em>годы, гг., г, гг</em></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Dat|<a href="Gender.html">Gender</a>=Masc</tt></td><td><em>году, г, г.</em></td><td><em>годам</em></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Dat|<a href="Gender.html">Gender</a>=Masc</tt></td><td><em>году, г., г</em></td><td><em>годам</em></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Gender.html">Gender</a>=Masc</tt></td><td><em>года, г., г</em></td><td><em>лет, годов, гг., гг, г., г, годах</em></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Gender.html">Gender</a>=Neut</tt></td><td></td><td><em>лет</em></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Ins|<a href="Gender.html">Gender</a>=Masc</tt></td><td><em>годом, г</em></td><td><em>годами</em></td></tr>
@@ -479,7 +479,7 @@ The most frequent other feature values with which `PROPN` and `Number` co-occurr
 
 6575 [ru-pos/AUX]() tokens (90% of all `AUX` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `AUX` and `Number` co-occurred: <tt><a href="Aspect.html">Aspect</a>=Imp</tt> (6575; 100%), <tt><a href="Voice.html">Voice</a>=Act</tt> (6575; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (6570; 100%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (6547; 100%), <tt><a href="Tense.html">Tense</a>=Past</tt> (4691; 71%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (4691; 71%).
+The most frequent other feature values with which `AUX` and `Number` co-occurred: <tt><a href="Voice.html">Voice</a>=Act</tt> (6575; 100%), <tt><a href="Aspect.html">Aspect</a>=Imp</tt> (6575; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (6570; 100%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (6547; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (4691; 71%), <tt><a href="Tense.html">Tense</a>=Past</tt> (4691; 71%).
 
 `AUX` tokens may have the following values of `Number`:
 

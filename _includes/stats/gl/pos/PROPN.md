@@ -5,7 +5,7 @@
 ## Treebank Statistics (UD_Galician)
 
 There are 769 `PROPN` lemmas (8%), 771 `PROPN` types (5%) and 1490 `PROPN` tokens (1%).
-Out of 15 observed tags, the rank of `PROPN` is: 5 in number of lemmas, 5 in number of types and 11 in number of tokens.
+Out of 16 observed tags, the rank of `PROPN` is: 5 in number of lemmas, 5 in number of types and 11 in number of tokens.
 
 The 10 most frequent `PROPN` lemmas: <em>galicia, españa, coruña, santiago, ourense, lugo, pontevedra, internet, galiza, europa</em>
 
@@ -50,7 +50,7 @@ The 10 most frequent ambiguous types:  <em>II</em> ([PROPN]() 6, [NUM]() 1), <em
 
 ## Morphology
 
-The form / lemma ratio of `PROPN` is 1.002601 (the average of all parts of speech is 1.505536).
+The form / lemma ratio of `PROPN` is 1.002601 (the average of all parts of speech is 1.508250).
 
 The 1st highest number of forms (2) was observed with the lemma “españa”: <em>ESPAÑA, España</em>.
 
@@ -58,28 +58,34 @@ The 2nd highest number of forms (2) was observed with the lemma “sergas”: <e
 
 The 3rd highest number of forms (1) was observed with the lemma “-10”: <em>-10</em>.
 
-`PROPN` does not occur with any features.
+`PROPN` occurs with 1 features: [gl-feat/Foreign]() (11; 1% instances)
+
+`PROPN` occurs with 1 feature-value pairs: `Foreign=Yes`
+
+`PROPN` occurs with 2 feature combinations.
+The most frequent feature combination is `_` (1479 tokens).
+Examples: <em>Galicia, España, Coruña, Santiago, Ourense, Lugo, Pontevedra, internet, Galiza, Europa</em>
 
 
 ## Relations
 
-`PROPN` nodes are attached to their parents using 11 different relations: [gl-dep/nmod]() (1085; 73% instances), [gl-dep/nsubj]() (199; 13% instances), [gl-dep/dep]() (119; 8% instances), [gl-dep/dobj]() (38; 3% instances), [gl-dep/foreign]() (11; 1% instances), [gl-dep/cop]() (10; 1% instances), [gl-dep/root]() (9; 1% instances), [gl-dep/ccomp]() (8; 1% instances), [gl-dep/amod]() (7; 0% instances), [gl-dep/case]() (3; 0% instances), [gl-dep/mark]() (1; 0% instances)
+`PROPN` nodes are attached to their parents using 12 different relations: [gl-dep/nmod]() (904; 61% instances), [gl-dep/nsubj]() (199; 13% instances), [gl-dep/obl]() (181; 12% instances), [gl-dep/dep]() (119; 8% instances), [gl-dep/obj]() (38; 3% instances), [gl-dep/root]() (15; 1% instances), [gl-dep/ccomp]() (11; 1% instances), [gl-dep/flat]() (9; 1% instances), [gl-dep/amod]() (7; 0% instances), [gl-dep/case]() (3; 0% instances), [gl-dep/xcomp]() (3; 0% instances), [gl-dep/mark]() (1; 0% instances)
 
-Parents of `PROPN` nodes belong to 10 different parts of speech: [ADP]() (721; 48% instances), [NOUN]() (285; 19% instances), [VERB]() (261; 18% instances), [PROPN]() (187; 13% instances), [NUM]() (13; 1% instances), [ROOT]() (9; 1% instances), [PRON]() (5; 0% instances), [PUNCT]() (4; 0% instances), [ADJ]() (3; 0% instances), [ADV]() (2; 0% instances)
+Parents of `PROPN` nodes belong to 11 different parts of speech: [NOUN]() (783; 53% instances), [VERB]() (358; 24% instances), [PROPN]() (195; 13% instances), [ADJ]() (42; 3% instances), [ADP]() (38; 3% instances), [NUM]() (32; 2% instances), [ROOT]() (15; 1% instances), [ADV]() (12; 1% instances), [PRON]() (11; 1% instances), [DET]() (3; 0% instances), [SCONJ]() (1; 0% instances)
 
-778 (52%) `PROPN` nodes are leaves.
+383 (26%) `PROPN` nodes are leaves.
 
-372 (25%) `PROPN` nodes have one child.
+562 (38%) `PROPN` nodes have one child.
 
-193 (13%) `PROPN` nodes have two children.
+320 (21%) `PROPN` nodes have two children.
 
-147 (10%) `PROPN` nodes have three or more children.
+225 (15%) `PROPN` nodes have three or more children.
 
-The highest child degree of a `PROPN` node is 11.
+The highest child degree of a `PROPN` node is 14.
 
-Children of `PROPN` nodes are attached using 12 different relations: [gl-dep/punct]() (408; 30% instances), [gl-dep/det]() (306; 23% instances), [gl-dep/nmod]() (279; 21% instances), [gl-dep/dep]() (120; 9% instances), [gl-dep/cc]() (79; 6% instances), [gl-dep/amod]() (65; 5% instances), [gl-dep/case]() (60; 4% instances), [gl-dep/ccomp]() (33; 2% instances), [gl-dep/mark]() (6; 0% instances), [gl-dep/advmod]() (2; 0% instances), [gl-dep/cop]() (1; 0% instances), [gl-dep/nummod]() (1; 0% instances)
+Children of `PROPN` nodes are attached using 18 different relations: [gl-dep/case]() (667; 32% instances), [gl-dep/punct]() (442; 21% instances), [gl-dep/nmod]() (339; 16% instances), [gl-dep/det]() (307; 15% instances), [gl-dep/dep]() (123; 6% instances), [gl-dep/cc]() (87; 4% instances), [gl-dep/amod]() (66; 3% instances), [gl-dep/ccomp]() (35; 2% instances), [gl-dep/nsubj]() (8; 0% instances), [gl-dep/cop]() (7; 0% instances), [gl-dep/mark]() (6; 0% instances), [gl-dep/advmod]() (5; 0% instances), [gl-dep/flat]() (3; 0% instances), [gl-dep/obj]() (2; 0% instances), [gl-dep/aux]() (1; 0% instances), [gl-dep/nummod]() (1; 0% instances), [gl-dep/obl]() (1; 0% instances), [gl-dep/xcomp]() (1; 0% instances)
 
-Children of `PROPN` nodes belong to 13 different parts of speech: [PUNCT]() (394; 29% instances), [DET]() (301; 22% instances), [PROPN]() (187; 14% instances), [NOUN]() (140; 10% instances), [CONJ]() (79; 6% instances), [NUM]() (74; 5% instances), [ADJ]() (67; 5% instances), [ADP]() (58; 4% instances), [VERB]() (32; 2% instances), [SYM]() (14; 1% instances), [SCONJ]() (7; 1% instances), [PRON]() (5; 0% instances), [ADV]() (2; 0% instances)
+Children of `PROPN` nodes belong to 14 different parts of speech: [ADP]() (668; 32% instances), [PUNCT]() (428; 20% instances), [DET]() (303; 14% instances), [PROPN]() (195; 9% instances), [NOUN]() (190; 9% instances), [CCONJ]() (87; 4% instances), [NUM]() (84; 4% instances), [ADJ]() (68; 3% instances), [VERB]() (33; 2% instances), [SYM]() (14; 1% instances), [PRON]() (12; 1% instances), [AUX]() (7; 0% instances), [SCONJ]() (7; 0% instances), [ADV]() (5; 0% instances)
 
 
 
@@ -94,7 +100,7 @@ The 10 most frequent `PROPN` lemmas: <em>galiza, BNG, ferrol, Estado, vigo, esta
 
 The 10 most frequent `PROPN` types:  <em>Galiza, BNG, Ferrol, Estado, Vigo, Estatuto, Manuel, Prestige, PP, Quixote</em>
 
-The 10 most frequent ambiguous lemmas: <em>estatuto</em> ([NOUN]() 6, [PROPN]() 2), <em>de</em> ([ADP]() 1094, [PROPN]() 7), <em>casa</em> ([PROPN]() 6, [NOUN]() 2), <em>auga</em> ([PROPN]() 5, [NOUN]() 4), <em>mar</em> ([PROPN]() 5, [NOUN]() 5), <em>terra</em> ([NOUN]() 5, [PROPN]() 5), <em>mariño</em> ([PROPN]() 3, [ADJ]() 1), <em>zona</em> ([NOUN]() 8, [PROPN]() 4), <em>asociación</em> ([PROPN]() 3, [NOUN]() 2), <em>comunidade</em> ([PROPN]() 3, [NOUN]() 1)
+The 10 most frequent ambiguous lemmas: <em>estatuto</em> ([NOUN]() 6, [PROPN]() 2), <em>de</em> ([ADP]() 1094, [PROPN]() 7), <em>casa</em> ([PROPN]() 6, [NOUN]() 2), <em>auga</em> ([PROPN]() 5, [NOUN]() 4), <em>mar</em> ([NOUN]() 5, [PROPN]() 5), <em>terra</em> ([NOUN]() 5, [PROPN]() 5), <em>mariño</em> ([PROPN]() 3, [ADJ]() 1), <em>zona</em> ([NOUN]() 8, [PROPN]() 4), <em>asociación</em> ([PROPN]() 3, [NOUN]() 2), <em>comunidade</em> ([PROPN]() 3, [NOUN]() 1)
 
 The 10 most frequent ambiguous types:  <em>Estado</em> ([PROPN]() 12, [NOUN]() 1), <em>Estatuto</em> ([PROPN]() 9, [NOUN]() 5), <em>de</em> ([ADP]() 1085, [PROPN]() 7), <em>Auga</em> ([PROPN]() 5, [NOUN]() 1), <em>Terra</em> ([PROPN]() 5, [NOUN]() 3), <em>Zona</em> ([PROPN]() 4, [NOUN]() 1), <em>Costas</em> ([PROPN]() 3, [NOUN]() 1), <em>Constitución</em> ([PROPN]() 2, [NOUN]() 1), <em>camiño</em> ([NOUN]() 3, [PROPN]() 1), <em>home</em> ([NOUN]() 4, [PROPN]() 1)
 

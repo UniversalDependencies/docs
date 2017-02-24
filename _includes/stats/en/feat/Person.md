@@ -151,10 +151,10 @@ The 10 most frequent relations where parent and child node agree in `Person`:
 <tt>VERB --[<a href="../dep/conj.html">conj</a>]--> VERB</tt> (57; 52%),
 <tt>AUX --[<a href="../dep/nsubj.html">nsubj</a>]--> PRON</tt> (5; 56%),
 <tt>AUX --[<a href="../dep/conj.html">conj</a>]--> AUX</tt> (2; 100%),
-<tt>AUX --[<a href="../dep/expl.html">expl</a>]--> PRON</tt> (1; 100%),
-<tt>PRON --[<a href="../dep/aux.html">aux</a>]--> AUX</tt> (1; 100%),
+<tt>AUX --[<a href="../dep/conj.html">conj</a>]--> PRON</tt> (1; 100%),
+<tt>PRON --[<a href="../dep/conj.html">conj</a>]--> PRON</tt> (1; 100%),
 <tt>PRON --[<a href="../dep/acl:relcl.html">acl:relcl</a>]--> AUX</tt> (1; 100%),
 <tt>VERB --[<a href="../dep/goeswith.html">goeswith</a>]--> VERB</tt> (1; 100%),
-<tt>PRON --[<a href="../dep/conj.html">conj</a>]--> PRON</tt> (1; 100%),
-<tt>AUX --[<a href="../dep/conj.html">conj</a>]--> PRON</tt> (1; 100%).
+<tt>AUX --[<a href="../dep/expl.html">expl</a>]--> PRON</tt> (1; 100%),
+<tt>PRON --[<a href="../dep/aux.html">aux</a>]--> AUX</tt> (1; 100%).
 

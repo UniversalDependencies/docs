@@ -56,7 +56,7 @@ The most frequent other feature values with which `NOUN` and `Case` co-occurred:
 
 15 [kk-pos/PRON]() tokens (83% of all `PRON` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `PRON` and `Case` co-occurred: <tt><a href="Person[psor].html">Person[psor]</a>=EMPTY</tt> (12; 80%), <tt><a href="Number[psor].html">Number[psor]</a>=EMPTY</tt> (12; 80%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (11; 73%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (11; 73%).
+The most frequent other feature values with which `PRON` and `Case` co-occurred: <tt><a href="Person[psor].html">Person[psor]</a>=EMPTY</tt> (12; 80%), <tt><a href="Number[psor].html">Number[psor]</a>=EMPTY</tt> (12; 80%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (11; 73%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (11; 73%).
 
 `PRON` tokens may have the following values of `Case`:
 
@@ -74,7 +74,7 @@ The most frequent other feature values with which `PRON` and `Case` co-occurred:
 
 10 [kk-pos/VERB]() tokens (13% of all `VERB` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `VERB` and `Case` co-occurred: <tt><a href="Number.html">Number</a>=EMPTY</tt> (10; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (10; 100%), <tt><a href="Aspect.html">Aspect</a>=EMPTY</tt> (10; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (10; 100%), <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (9; 90%), <tt><a href="VerbForm.html">VerbForm</a>=Ger</tt> (9; 90%), <tt><a href="Polarity.html">Polarity</a>=EMPTY</tt> (8; 80%), <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (7; 70%).
+The most frequent other feature values with which `VERB` and `Case` co-occurred: <tt><a href="Number.html">Number</a>=EMPTY</tt> (10; 100%), <tt><a href="Aspect.html">Aspect</a>=EMPTY</tt> (10; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (10; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (10; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Ger</tt> (9; 90%), <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (9; 90%), <tt><a href="Polarity.html">Polarity</a>=EMPTY</tt> (8; 80%), <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (7; 70%).
 
 `VERB` tokens may have the following values of `Case`:
 
@@ -85,22 +85,11 @@ The most frequent other feature values with which `VERB` and `Case` co-occurred:
 * `Nom` (4; 40% of non-empty `Case`): <em>шешуі, бермеуі</em>
 * `EMPTY` (67): <em>деп, айтты, бере, жатса, шыққан, Туған, айтарлықтай, айтушы, алған, аспай</em>
 
-### `ADJ`
-
-4 [kk-pos/ADJ]() tokens (10% of all `ADJ` tokens) have a non-empty value of `Case`.
-
-`ADJ` tokens may have the following values of `Case`:
-
-* `Gen` (1; 25% of non-empty `Case`): <em>жаттың</em>
-* `Loc` (1; 25% of non-empty `Case`): <em>аулақта</em>
-* `Nom` (2; 50% of non-empty `Case`): <em>жақын, қызығы</em>
-* `EMPTY` (35): <em>жалғыз, жоқ, бастапқы, жас, қасиетті, Ақ, Бітеу, арғы, ағылшын, бар</em>
-
 ### `NUM`
 
 4 [kk-pos/NUM]() tokens (21% of all `NUM` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `NUM` and `Case` co-occurred: <tt><a href="Person[psor].html">Person[psor]</a>=3</tt> (4; 100%), <tt><a href="NumType.html">NumType</a>=Coll</tt> (4; 100%), <tt><a href="Number[psor].html">Number[psor]</a>=Plur,Sing</tt> (4; 100%).
+The most frequent other feature values with which `NUM` and `Case` co-occurred: <tt><a href="NumType.html">NumType</a>=Coll</tt> (4; 100%), <tt><a href="Person[psor].html">Person[psor]</a>=3</tt> (4; 100%), <tt><a href="Number[psor].html">Number[psor]</a>=Plur,Sing</tt> (4; 100%).
 
 `NUM` tokens may have the following values of `Case`:
 
@@ -113,11 +102,22 @@ The most frequent other feature values with which `NUM` and `Case` co-occurred: 
   <tr><td><tt></tt></td><td><em>екеуі</em></td><td><em>екеуінің</em></td></tr>
 </table>
 
+### `ADJ`
+
+4 [kk-pos/ADJ]() tokens (10% of all `ADJ` tokens) have a non-empty value of `Case`.
+
+`ADJ` tokens may have the following values of `Case`:
+
+* `Gen` (1; 25% of non-empty `Case`): <em>жаттың</em>
+* `Loc` (1; 25% of non-empty `Case`): <em>аулақта</em>
+* `Nom` (2; 50% of non-empty `Case`): <em>жақын, қызығы</em>
+* `EMPTY` (35): <em>жалғыз, жоқ, бастапқы, жас, қасиетті, Ақ, Бітеу, арғы, ағылшын, бар</em>
+
 ### `AUX`
 
 2 [kk-pos/AUX]() tokens (8% of all `AUX` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `AUX` and `Case` co-occurred: <tt><a href="Person.html">Person</a>=EMPTY</tt> (2; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Ger</tt> (2; 100%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (2; 100%), <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (2; 100%), <tt><a href="Polarity.html">Polarity</a>=EMPTY</tt> (2; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (2; 100%).
+The most frequent other feature values with which `AUX` and `Case` co-occurred: <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (2; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Ger</tt> (2; 100%), <tt><a href="Polarity.html">Polarity</a>=EMPTY</tt> (2; 100%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (2; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (2; 100%), <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (2; 100%).
 
 `AUX` tokens may have the following values of `Case`:
 
@@ -133,9 +133,9 @@ The 10 most frequent relations where parent and child node agree in `Case`:
 <tt>NOUN --[<a href="../dep/conj.html">conj</a>]--> NOUN</tt> (3; 75%),
 <tt>PROPN --[<a href="../dep/flat:name.html">flat:name</a>]--> NOUN</tt> (3; 75%),
 <tt>NOUN --[<a href="../dep/nsubj.html">nsubj</a>]--> NUM</tt> (2; 67%),
-<tt>NOUN --[<a href="../dep/nsubj.html">nsubj</a>]--> PROPN</tt> (1; 100%),
-<tt>NOUN --[<a href="../dep/amod.html">amod</a>]--> NOUN</tt> (1; 100%),
-<tt>NOUN --[<a href="../dep/nsubj.html">nsubj</a>]--> VERB</tt> (1; 100%),
+<tt>NOUN --[<a href="../dep/parataxis.html">parataxis</a>]--> NOUN</tt> (1; 100%),
 <tt>VERB --[<a href="../dep/obl.html">obl</a>]--> ADJ</tt> (1; 100%),
-<tt>PRON --[<a href="../dep/nsubj.html">nsubj</a>]--> NOUN</tt> (1; 100%).
+<tt>PRON --[<a href="../dep/nsubj.html">nsubj</a>]--> NOUN</tt> (1; 100%),
+<tt>NOUN --[<a href="../dep/amod.html">amod</a>]--> NOUN</tt> (1; 100%),
+<tt>NOUN --[<a href="../dep/nsubj.html">nsubj</a>]--> VERB</tt> (1; 100%).
 

@@ -27,7 +27,7 @@ The most frequent other feature values with which `ADJ` and `Degree` co-occurred
 <table>
   <tr><th>Paradigm <i>μέγας</i></th><th><tt>Cmp</tt></th><th><tt>Sup</tt></th></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Sing</tt></td><td><em>μείζονα, μείζον̓</em></td><td><em>μέγιστον</em></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Plur</tt></td><td><em>μείζονας, μέζονας</em></td><td><em>μεγίστους</em></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Plur</tt></td><td><em>μέζονας, μείζονας</em></td><td><em>μεγίστους</em></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Gender.html">Gender</a>=Fem|<a href="Number.html">Number</a>=Sing</tt></td><td><em>μείζω, μείζονα</em></td><td><em>μεγίστην</em></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Gender.html">Gender</a>=Fem|<a href="Number.html">Number</a>=Plur</tt></td><td></td><td><em>μεγίστας</em></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Gender.html">Gender</a>=Neut|<a href="Number.html">Number</a>=Sing</tt></td><td><em>μεῖζον, μεῖζόν</em></td><td><em>μέγιστον</em></td></tr>
@@ -91,7 +91,7 @@ The most frequent other feature values with which `ADJ` and `Degree` co-occurred
 <table>
   <tr><th>Paradigm <i>πολύς</i></th><th><tt>Pos</tt></th><th><tt>Cmp</tt></th><th><tt>Sup</tt></th></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Gender.html">Gender</a>=Masc,Neut|<a href="Number.html">Number</a>=Sing</tt></td><td><em>πολλὸν, πολλόν</em></td><td><em>πλέω, πλείονα</em></td><td><em>πλεῖστον</em></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Sing</tt></td><td><em>πολλὸν, πολὺν, πολλόν, πολύν</em></td><td><em>πλέω, πλείονα</em></td><td><em>πλεῖστον</em></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Sing</tt></td><td><em>πολλὸν, πολὺν, πολλόν, πολύν</em></td><td><em>πλείονα, πλέω</em></td><td><em>πλεῖστον</em></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Plur</tt></td><td><em>πολλοὺς, πολλούς</em></td><td><em>πλεῦνας, πλείονας, πλέω</em></td><td><em>πλείστους</em></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Gender.html">Gender</a>=Fem,Masc|<a href="Number.html">Number</a>=Sing</tt></td><td></td><td><em>πλείονα</em></td><td></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Gender.html">Gender</a>=Fem,Masc|<a href="Number.html">Number</a>=Plur</tt></td><td></td><td><em>πλείους</em></td><td></td></tr>
@@ -102,7 +102,7 @@ The most frequent other feature values with which `ADJ` and `Degree` co-occurred
   <tr><td><tt><a href="Case.html">Case</a>=Dat|<a href="Gender.html">Gender</a>=Masc,Neut|<a href="Number.html">Number</a>=Sing</tt></td><td><em>πολλῷ</em></td><td></td><td></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Dat|<a href="Gender.html">Gender</a>=Masc,Neut|<a href="Number.html">Number</a>=Plur</tt></td><td></td><td><em>πλείοσιν</em></td><td></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Dat|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Sing</tt></td><td><em>πολλῷ</em></td><td></td><td></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Dat|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Plur</tt></td><td><em>πολλοῖς, πολλοῖσι</em></td><td><em>πλείοσιν, πλέοσι</em></td><td></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Dat|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Plur</tt></td><td><em>πολλοῖς, πολλοῖσι</em></td><td><em>πλέοσι, πλείοσιν</em></td><td></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Dat|<a href="Gender.html">Gender</a>=Fem|<a href="Number.html">Number</a>=Sing</tt></td><td><em>πολλῇ, πολλὴ</em></td><td></td><td></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Dat|<a href="Gender.html">Gender</a>=Fem|<a href="Number.html">Number</a>=Plur</tt></td><td><em>πολλαῖς, πολλῇσι</em></td><td></td><td></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Dat|<a href="Gender.html">Gender</a>=Neut|<a href="Number.html">Number</a>=Sing</tt></td><td><em>πολλῷ, πολλῶ</em></td><td></td><td></td></tr>
@@ -111,16 +111,16 @@ The most frequent other feature values with which `ADJ` and `Degree` co-occurred
   <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Sing</tt></td><td><em>πολλοῦ, πόλλου</em></td><td></td><td></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Plur</tt></td><td><em>πολλῶν</em></td><td><em>πλειόνων, πλεόνων</em></td><td><em>πλείστων</em></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Gender.html">Gender</a>=Fem|<a href="Number.html">Number</a>=Sing</tt></td><td><em>πολλῆς</em></td><td></td><td></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Gender.html">Gender</a>=Fem|<a href="Number.html">Number</a>=Plur</tt></td><td><em>πολλέων, πολλῶν</em></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Gender.html">Gender</a>=Fem|<a href="Number.html">Number</a>=Plur</tt></td><td><em>πολλῶν, πολλέων</em></td><td></td><td></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Gender.html">Gender</a>=Neut|<a href="Number.html">Number</a>=Sing</tt></td><td><em>πολλοῦ</em></td><td><em>πλεῦνος, πλεῦνός</em></td><td><em>πλείστου</em></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Gender.html">Gender</a>=Neut|<a href="Number.html">Number</a>=Plur</tt></td><td><em>πολλῶν</em></td><td><em>πλειόνων</em></td><td></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Number.html">Number</a>=Plur</tt></td><td><em>πολλῶν</em></td><td><em>πλειόνων, πλεόνων</em></td><td></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Sing</tt></td><td><em>πολλὸς, πολύς, πολὺς, πολλός</em></td><td></td><td><em>πλεῖστος</em></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Sing</tt></td><td><em>πολλὸς, πολὺς, πολύς, πολλός</em></td><td></td><td><em>πλεῖστος</em></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Plur</tt></td><td><em>πολλοὶ, πολλοί</em></td><td><em>πλεῦνες, πλείους, πλείονες, πλείονές</em></td><td><em>πλεῖστοι</em></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Gender.html">Gender</a>=Fem|<a href="Number.html">Number</a>=Sing</tt></td><td><em>πολλὴ, πολλή, πολλῇ</em></td><td></td><td></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Gender.html">Gender</a>=Fem|<a href="Number.html">Number</a>=Plur</tt></td><td><em>πολλαὶ, πολλαί</em></td><td><em>πλεῦνες, πλείους</em></td><td><em>πλεῖσται</em></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Gender.html">Gender</a>=Neut|<a href="Number.html">Number</a>=Sing</tt></td><td><em>πολὺ, πολλὸν, πολύ, πολλόν</em></td><td><em>πλεῖον, πλέον, πλεῖόν</em></td><td><em>πλεῖστον</em></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Gender.html">Gender</a>=Neut|<a href="Number.html">Number</a>=Plur</tt></td><td><em>πολλὰ, πολλά</em></td><td><em>πλείονα, πλέω</em></td><td><em>πλεῖστα</em></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Gender.html">Gender</a>=Neut|<a href="Number.html">Number</a>=Plur</tt></td><td><em>πολλὰ, πολλά</em></td><td><em>πλέω, πλείονα</em></td><td><em>πλεῖστα</em></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Number.html">Number</a>=Sing</tt></td><td></td><td><em>πλείονος</em></td><td></td></tr>
 </table>
 

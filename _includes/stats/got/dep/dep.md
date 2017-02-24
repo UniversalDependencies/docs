@@ -15,25 +15,6 @@ The following 3 pairs of parts of speech are connected with `dep`: [got-pos/VERB
 
 
 ~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 6 dep	color:blue
-1	und	und	ADP	R-	_	2	case	_	ref=JOHN_16.24
-2	hita	hi-	ADJ	Pd	Case=Acc|Gender=Neut|Number=Sing	4	obl	_	ref=JOHN_16.24
-3	ni	ni	ADV	Df	Polarity=Neg	4	advmod	_	ref=JOHN_16.24
-4	beduþ	bidjan	VERB	V-	Mood=Ind|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=JOHN_16.24
-5	ni	ni	ADV	Df	Polarity=Neg	6	advmod	_	ref=JOHN_16.24
-6	waihtais	waihts	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	4	dep	_	ref=JOHN_16.24
-7	in	in	ADP	R-	_	8	case	_	ref=JOHN_16.24
-8	namin	namo	NOUN	Nb	Case=Dat|Gender=Neut|Number=Sing	4	obl	_	ref=JOHN_16.24
-9	meinamma	meins	ADJ	Ps	Case=Dat|Gender=Neut|Number=Sing|Person=1|Poss=Yes	8	nmod	_	ref=JOHN_16.24
-
-~~~
-
-
-~~~ conllu
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 2	bgColor:blue
@@ -84,6 +65,25 @@ The following 3 pairs of parts of speech are connected with `dep`: [got-pos/VERB
 23	jah	jah	CCONJ	C-	_	22	cc	_	ref=2THESS_3.2
 24	ubilaim	ubils	ADJ	A-	Case=Dat|Degree=Pos|Number=Plur|Strength=Strong	22	conj	_	ref=2THESS_3.2
 25	mannam	manna#2	NOUN	Nb	Case=Dat|Gender=Masc|Number=Plur	20	obl	_	ref=2THESS_3.2
+
+~~~
+
+
+~~~ conllu
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 6 dep	color:blue
+1	und	und	ADP	R-	_	2	case	_	ref=JOHN_16.24
+2	hita	hi-	ADJ	Pd	Case=Acc|Gender=Neut|Number=Sing	4	obl	_	ref=JOHN_16.24
+3	ni	ni	ADV	Df	Polarity=Neg	4	advmod	_	ref=JOHN_16.24
+4	beduþ	bidjan	VERB	V-	Mood=Ind|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=JOHN_16.24
+5	ni	ni	ADV	Df	Polarity=Neg	6	advmod	_	ref=JOHN_16.24
+6	waihtais	waihts	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	4	dep	_	ref=JOHN_16.24
+7	in	in	ADP	R-	_	8	case	_	ref=JOHN_16.24
+8	namin	namo	NOUN	Nb	Case=Dat|Gender=Neut|Number=Sing	4	obl	_	ref=JOHN_16.24
+9	meinamma	meins	ADJ	Ps	Case=Dat|Gender=Neut|Number=Sing|Person=1|Poss=Yes	8	nmod	_	ref=JOHN_16.24
 
 ~~~
 

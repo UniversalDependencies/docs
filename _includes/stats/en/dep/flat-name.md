@@ -36,34 +36,6 @@ The following 5 pairs of parts of speech are connected with `flat:name`: [en-pos
 
 
 ~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 7 flat:name	color:blue
-1	his	his	DET	AP	Poss=Yes|PronType=Prs	2	nmod:poss	_	_
-2	Captain	Captain	PROPN	SP	_	12	nsubj	_	_
-3	Ahab	Ahab	PROPN	SP	_	2	nmod	_	_
-4	in	in	ADP	E	_	5	case	_	_
-5	Moby	Moby	PROPN	SP	_	2	nmod	_	SpaceAfter=No
-6	-	-	PUNCT	FF	_	5	punct	_	SpaceAfter=No
-7	Dick	dick	NOUN	S	Number=Sing	5	flat:name	_	_
-8	is	be	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	cop	_	_
-9	a	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	12	det	_	_
-10	classic	classic	ADJ	A	Degree=Pos	12	amod	_	_
-11	tragic	tragic	ADJ	A	Degree=Pos	12	amod	_	_
-12	hero	hero	NOUN	S	Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
-13	,	,	PUNCT	FF	_	12	punct	_	_
-14	inspired	inspire	VERB	V	Tense=Past|VerbForm=Part	12	acl	_	_
-15	by	by	ADP	E	_	16	case	_	_
-16	King	King	PROPN	SP	_	14	obl:agent	_	_
-17	Lear	Lear	PROPN	SP	_	16	flat	_	SpaceAfter=No
-18	.	.	PUNCT	FS	_	12	punct	_	_
-
-~~~
-
-
-~~~ conllu
 # visual-style 14	bgColor:blue
 # visual-style 14	fgColor:white
 # visual-style 15	bgColor:blue
@@ -103,6 +75,34 @@ The following 5 pairs of parts of speech are connected with `flat:name`: [en-pos
 32	cabinet	cabinet	NOUN	S	Number=Sing	33	nmod	_	_
 33	secretaries	secretary	NOUN	S	Number=Plur	26	nmod	_	SpaceAfter=No
 34	.	.	PUNCT	FS	_	6	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 7 flat:name	color:blue
+1	his	his	DET	AP	Poss=Yes|PronType=Prs	2	nmod:poss	_	_
+2	Captain	Captain	PROPN	SP	_	12	nsubj	_	_
+3	Ahab	Ahab	PROPN	SP	_	2	nmod	_	_
+4	in	in	ADP	E	_	5	case	_	_
+5	Moby	Moby	PROPN	SP	_	2	nmod	_	SpaceAfter=No
+6	-	-	PUNCT	FF	_	5	punct	_	SpaceAfter=No
+7	Dick	dick	NOUN	S	Number=Sing	5	flat:name	_	_
+8	is	be	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	cop	_	_
+9	a	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	12	det	_	_
+10	classic	classic	ADJ	A	Degree=Pos	12	amod	_	_
+11	tragic	tragic	ADJ	A	Degree=Pos	12	amod	_	_
+12	hero	hero	NOUN	S	Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+13	,	,	PUNCT	FF	_	12	punct	_	_
+14	inspired	inspire	VERB	V	Tense=Past|VerbForm=Part	12	acl	_	_
+15	by	by	ADP	E	_	16	case	_	_
+16	King	King	PROPN	SP	_	14	obl:agent	_	_
+17	Lear	Lear	PROPN	SP	_	16	flat	_	SpaceAfter=No
+18	.	.	PUNCT	FS	_	12	punct	_	_
 
 ~~~
 

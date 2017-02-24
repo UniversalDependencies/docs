@@ -11,9 +11,9 @@ The 10 most frequent `NUM` lemmas: <em>en, dva, trije, štirje, pet, deset, tiso
 
 The 10 most frequent `NUM` types:  <em>eno, tri, dveh, dva, ena, tisoč, eden, štiri, dve, štirih</em>
 
-The 10 most frequent ambiguous lemmas: <em>V</em> ([NOUN]() 1, [NUM]() 1), <em>V.</em> ([X]() 3, [NUM]() 1), <em>X</em> ([NUM]() 1, [NOUN]() 1)
+The 10 most frequent ambiguous lemmas: <em>V</em> ([NOUN]() 1, [NUM]() 1), <em>V.</em> ([X]() 3, [NUM]() 1), <em>X</em> ([NOUN]() 1, [NUM]() 1)
 
-The 10 most frequent ambiguous types:  <em>V</em> ([ADP]() 382, [NUM]() 1, [NOUN]() 1), <em>V.</em> ([X]() 3, [NUM]() 1), <em>X</em> ([NUM]() 1, [NOUN]() 1), <em>dvajsetih</em> ([NUM]() 1, [ADJ]() 1)
+The 10 most frequent ambiguous types:  <em>V</em> ([ADP]() 382, [NUM]() 1, [NOUN]() 1), <em>V.</em> ([X]() 3, [NUM]() 1), <em>X</em> ([NOUN]() 1, [NUM]() 1), <em>dvajsetih</em> ([ADJ]() 1, [NUM]() 1)
 
 
 * <em>V</em>
@@ -24,11 +24,11 @@ The 10 most frequent ambiguous types:  <em>V</em> ([ADP]() 382, [NUM]() 1, [NOUN
   * [X]() 3: <em>M. <b>V.</b></em>
   * [NUM]() 1: <em>Nikolaj <b>V.</b> je , ko je nastopil papeško službo , plačal več kot 1000 funtov pesniku Francescu Filelfu , da je napisal knjigo zgodb , ki so jih opisali kot " najbolj nagnusna dela , ki jih je kdaj ustvarila surova kljubovalnost in umazana domišljija " .</em>
 * <em>X</em>
-  * [NUM]() 1: <em>Morfologija : Ima majhen , krepek , sploščen trup , nekoliko daljšo spodnjo čeljust , hrbtno plavut z <b>X</b> , 11 plavutnicami in predrepno s III , 7 plavutnicami .</em>
   * [NOUN]() 1: <em>A Za podaljšanje meta od točke <b>X</b> do točke Y sprostimo toliko vrvice ( 1 ) , da z njo dosežemo cilj .</em>
+  * [NUM]() 1: <em>Morfologija : Ima majhen , krepek , sploščen trup , nekoliko daljšo spodnjo čeljust , hrbtno plavut z <b>X</b> , 11 plavutnicami in predrepno s III , 7 plavutnicami .</em>
 * <em>dvajsetih</em>
-  * [NUM]() 1: <em>Pri <b>dvajsetih</b> letih se le redko katera ženska sprašuje o svoji plodnosti , večina se zanositvi prav v teh letih skuša čim bolj izogniti .</em>
   * [ADJ]() 1: <em>Bluesovska zgodovina je v eksploziji “ umazanega ” , “ globokega ” , silovitega bluesa Muddyja Watersa in sodobnikov ob koncu štiridesetih let razbrala ponovni vznik stila , ki ga poznamo iz <b>dvajsetih</b> let , v downhome bluesovski tradiciji .</em>
+  * [NUM]() 1: <em>Pri <b>dvajsetih</b> letih se le redko katera ženska sprašuje o svoji plodnosti , večina se zanositvi prav v teh letih skuša čim bolj izogniti .</em>
 
 ## Morphology
 

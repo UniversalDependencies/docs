@@ -48,25 +48,6 @@ The following 5 pairs of parts of speech are connected with `goeswith`: [sl-pos/
 
 
 ~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 5 goeswith	color:blue
-1	saj	saj	CCONJ	Cc	_	9	cc	_	word=sej|msd=Vp
-2	z	_	X	Xt	_	9	advmod	_	word=z|msd=Nt
-3	[gap]	[gap]	X	X	_	9	punct	_	word=[gap]|msd=N
-4	[gap]	[gap]	X	X	_	9	punct	_	word=[gap]|msd=N
-5	dej	_	X	Xt	_	2	goeswith	_	word=dej|msd=Nt
-6	pa	pa	CCONJ	Cc	_	9	advmod	_	word=pa|msd=Vp
-7	ja	ja	PART	Q	_	9	advmod	_	word=ja|msd=L
-8	vse	ves	DET	Pg-nsa	Case=Acc|Gender=Neut|Number=Sing|PronType=Tot	9	obj	_	word=vse|msd=Zc-set
-9	obdelajo	obdelati	VERB	Vmer3p	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	word=obdelajo|msd=Ggdstm
-
-~~~
-
-
-~~~ conllu
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 1	bgColor:blue
@@ -95,6 +76,25 @@ The following 5 pairs of parts of speech are connected with `goeswith`: [sl-pos/
 21	skupaj	skupaj	ADV	Rgp	Degree=Pos	22	advmod	_	word=upi|msd=Rsn
 22	računajva	računati	VERB	Vmpm1d	Aspect=Imp|Mood=Imp|Number=Dual|Person=1|VerbForm=Fin	14	parataxis	_	word=računama|msd=Ggnvpd
 23	pojdi	iti	VERB	Vmbm2s	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	22	parataxis	_	word=pojd|msd=Ggvvde
+
+~~~
+
+
+~~~ conllu
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 5 goeswith	color:blue
+1	saj	saj	CCONJ	Cc	_	9	cc	_	word=sej|msd=Vp
+2	z	_	X	Xt	_	9	advmod	_	word=z|msd=Nt
+3	[gap]	[gap]	X	X	_	9	punct	_	word=[gap]|msd=N
+4	[gap]	[gap]	X	X	_	9	punct	_	word=[gap]|msd=N
+5	dej	_	X	Xt	_	2	goeswith	_	word=dej|msd=Nt
+6	pa	pa	CCONJ	Cc	_	9	advmod	_	word=pa|msd=Vp
+7	ja	ja	PART	Q	_	9	advmod	_	word=ja|msd=L
+8	vse	ves	DET	Pg-nsa	Case=Acc|Gender=Neut|Number=Sing|PronType=Tot	9	obj	_	word=vse|msd=Zc-set
+9	obdelajo	obdelati	VERB	Vmer3p	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	word=obdelajo|msd=Ggdstm
 
 ~~~
 

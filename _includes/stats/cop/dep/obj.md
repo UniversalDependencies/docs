@@ -6,12 +6,12 @@
 
 This relation is universal.
 
-395 nodes (5%) are attached to their parents as `obj`.
+396 nodes (5%) are attached to their parents as `obj`.
 
-395 instances of `obj` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.80759493670886.
+396 instances of `obj` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.80555555555556.
 
-The following 7 pairs of parts of speech are connected with `obj`: [cop-pos/VERB]()-[cop-pos/PRON]() (227; 57% instances), [cop-pos/VERB]()-[cop-pos/NOUN]() (149; 38% instances), [cop-pos/VERB]()-[cop-pos/DET]() (11; 3% instances), [cop-pos/VERB]()-[cop-pos/NUM]() (3; 1% instances), [cop-pos/NOUN]()-[cop-pos/NOUN]() (2; 1% instances), [cop-pos/VERB]()-[cop-pos/PROPN]() (2; 1% instances), [cop-pos/VERB]()-[cop-pos/VERB]() (1; 0% instances).
+The following 7 pairs of parts of speech are connected with `obj`: [cop-pos/VERB]()-[cop-pos/PRON]() (227; 57% instances), [cop-pos/VERB]()-[cop-pos/NOUN]() (150; 38% instances), [cop-pos/VERB]()-[cop-pos/DET]() (11; 3% instances), [cop-pos/VERB]()-[cop-pos/NUM]() (3; 1% instances), [cop-pos/NOUN]()-[cop-pos/NOUN]() (2; 1% instances), [cop-pos/VERB]()-[cop-pos/PROPN]() (2; 1% instances), [cop-pos/VERB]()-[cop-pos/VERB]() (1; 0% instances).
 
 
 ~~~ conllu

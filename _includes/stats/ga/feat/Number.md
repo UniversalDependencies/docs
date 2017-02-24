@@ -41,7 +41,7 @@ The most frequent other feature values with which `NOUN` and `Number` co-occurre
 
 1006 [ga-pos/DET]() tokens (79% of all `DET` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="PronType.html">PronType</a>=Art</tt> (881; 88%), <tt><a href="Definite.html">Definite</a>=Def</tt> (881; 88%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (869; 86%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (804; 80%).
+The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="Definite.html">Definite</a>=Def</tt> (881; 88%), <tt><a href="PronType.html">PronType</a>=Art</tt> (881; 88%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (869; 86%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (804; 80%).
 
 `DET` tokens may have the following values of `Number`:
 
@@ -181,7 +181,7 @@ The most frequent other feature values with which `X` and `Number` co-occurred: 
 
 2 [ga-pos/AUX]() tokens (1% of all `AUX` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `AUX` and `Number` co-occurred: <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (2; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Cop</tt> (2; 100%), <tt><a href="Polarity.html">Polarity</a>=EMPTY</tt> (2; 100%), <tt><a href="Form.html">Form</a>=EMPTY</tt> (2; 100%).
+The most frequent other feature values with which `AUX` and `Number` co-occurred: <tt><a href="Polarity.html">Polarity</a>=EMPTY</tt> (2; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Cop</tt> (2; 100%), <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (2; 100%), <tt><a href="Form.html">Form</a>=EMPTY</tt> (2; 100%).
 
 `AUX` tokens may have the following values of `Number`:
 

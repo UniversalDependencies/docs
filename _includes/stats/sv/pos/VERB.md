@@ -11,7 +11,7 @@ The 10 most frequent `VERB` lemmas: <em>ha, få, bli, vara, göra, finnas, ge, t
 
 The 10 most frequent `VERB` types:  <em>har, finns, blir, är, få, får, ha, gäller, ger, kommer</em>
 
-The 10 most frequent ambiguous lemmas: <em>ha</em> ([VERB]() 460, [AUX]() 421, [INTJ]() 2), <em>få</em> ([VERB]() 301, [AUX]() 102, [ADJ]() 12, [PRON]() 1), <em>bli</em> ([VERB]() 250, [AUX]() 39), <em>vara</em> ([AUX]() 1227, [VERB]() 200, [NOUN]() 22, [ADV]() 8, [PRON]() 8, [DET]() 6), <em>göra</em> ([VERB]() 187, [ADJ]() 2), <em>komma</em> ([VERB]() 131, [AUX]() 110), <em>gå</em> ([VERB]() 123, [ADJ]() 3), <em>se</em> ([VERB]() 109, [ADJ]() 9), <em>gälla</em> ([VERB]() 94, [ADJ]() 7), <em>säga</em> ([VERB]() 84, [ADJ]() 5)
+The 10 most frequent ambiguous lemmas: <em>ha</em> ([VERB]() 460, [AUX]() 421, [INTJ]() 2), <em>få</em> ([VERB]() 301, [AUX]() 102, [ADJ]() 12, [PRON]() 1), <em>bli</em> ([VERB]() 250, [AUX]() 39), <em>vara</em> ([AUX]() 1227, [VERB]() 200, [NOUN]() 22, [PRON]() 8, [ADV]() 8, [DET]() 6), <em>göra</em> ([VERB]() 187, [ADJ]() 2), <em>komma</em> ([VERB]() 131, [AUX]() 110), <em>gå</em> ([VERB]() 123, [ADJ]() 3), <em>se</em> ([VERB]() 109, [ADJ]() 9), <em>gälla</em> ([VERB]() 94, [ADJ]() 7), <em>säga</em> ([VERB]() 84, [ADJ]() 5)
 
 The 10 most frequent ambiguous types:  <em>har</em> ([AUX]() 372, [VERB]() 310), <em>blir</em> ([VERB]() 144, [AUX]() 14), <em>är</em> ([AUX]() 969, [VERB]() 141), <em>få</em> ([VERB]() 125, [AUX]() 19, [ADJ]() 5, [PRON]() 1), <em>får</em> ([VERB]() 117, [AUX]() 65), <em>ha</em> ([VERB]() 92, [AUX]() 21, [INTJ]() 1), <em>kommer</em> ([AUX]() 98, [VERB]() 64), <em>går</em> ([VERB]() 58, [ADV]() 2), <em>bli</em> ([VERB]() 50, [AUX]() 16), <em>komma</em> ([VERB]() 34, [AUX]() 2)
 

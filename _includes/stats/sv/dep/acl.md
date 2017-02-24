@@ -159,6 +159,24 @@ The following 4 pairs of parts of speech are connected with `acl`: [sv-pos/NOUN]
 
 
 ~~~ conllu
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 6 acl	color:blue
+1	pro@&	_	PRON	?PN	_	2	det	_	_
+2	UGGLA	_	NOUN	NN	_	3	nsubj	_	_
+3	FÖLJA-EFTER	_	VERB	VB	_	0	root	_	_
+4	POJKE	_	NOUN	NN	_	3	dobj	_	_
+5	PEK	_	DET	PEK	_	4	det	_	_
+6	SPRINGA(G)	_	VERB	VB	_	4	acl	_	_
+7	BEGE-SIG-IVÄG@z	_	VERB	VB	_	3	conj	_	_
+8	LÅTA-VARA	_	X	G	_	3	discourse	_	_
+
+~~~
+
+
+~~~ conllu
 # visual-style 10	bgColor:blue
 # visual-style 10	fgColor:white
 # visual-style 2	bgColor:blue
@@ -174,24 +192,6 @@ The following 4 pairs of parts of speech are connected with `acl`: [sv-pos/NOUN]
 8	VARELSE(Vb)+FÖRFLYTTA@p	_	VERB	VBAV	_	4	conj	_	_
 9	BEGE-SIG-IVÄG	_	VERB	VB	_	4	conj	_	_
 10	BORTA	_	ADV	AB	_	2	acl	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 6 acl	color:blue
-1	pro@&	_	PRON	?PN	_	2	det	_	_
-2	UGGLA	_	NOUN	NN	_	3	nsubj	_	_
-3	FÖLJA-EFTER	_	VERB	VB	_	0	root	_	_
-4	POJKE	_	NOUN	NN	_	3	dobj	_	_
-5	PEK	_	DET	PEK	_	4	det	_	_
-6	SPRINGA(G)	_	VERB	VB	_	4	acl	_	_
-7	BEGE-SIG-IVÄG@z	_	VERB	VB	_	3	conj	_	_
-8	LÅTA-VARA	_	X	G	_	3	discourse	_	_
 
 ~~~
 

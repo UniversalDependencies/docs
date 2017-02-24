@@ -124,7 +124,7 @@ The 10 most frequent relations where parent and child node agree in `Degree`:
 <tt>ADJ --[<a href="../dep/discourse.html">discourse</a>]--> ADV</tt> (44; 76%),
 <tt>ADJ --[<a href="../dep/amod.html">amod</a>]--> ADJ</tt> (37; 64%),
 <tt>ADJ --[<a href="../dep/advcl.html">advcl</a>]--> ADJ</tt> (36; 90%),
-<tt>ADJ --[<a href="../dep/parataxis.html">parataxis</a>]--> ADJ</tt> (20; 95%),
 <tt>ADV --[<a href="../dep/fixed.html">fixed</a>]--> ADV</tt> (20; 100%),
+<tt>ADJ --[<a href="../dep/parataxis.html">parataxis</a>]--> ADJ</tt> (20; 95%),
 <tt>ADJ --[<a href="../dep/flat.html">flat</a>]--> ADJ</tt> (19; 100%).
 

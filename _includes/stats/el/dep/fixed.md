@@ -75,33 +75,34 @@ The following 5 pairs of parts of speech are connected with `fixed`: [el-pos/SCO
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 2 fixed	color:blue
-1	Παρόλο	παρόλο	ADV	ADV	_	5	mark	_	_
-2	που	που	ADV	ADV	_	1	fixed	_	_
-3	οι	ο	DET	DET	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	4	det	_	_
-4	έλεγχοι	έλεγχος	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Plur	5	nsubj	_	_
-5	αποτελούν	αποτελώ	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	11	advcl	_	_
-6	αρμοδιότητα	αρμοδιότητα	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	5	obj	_	_
-7	των	ο	DET	DET	Case=Gen|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	8	det	_	_
-8	κρατών	κράτος	NOUN	NOUN	Case=Gen|Gender=Neut|Number=Plur	6	nmod	_	_
-9	μελών	μέλος	NOUN	NOUN	Case=Gen|Gender=Neut|Number=Plur	8	nmod	_	SpaceAfter=No
-10	,	,	PUNCT	PUNCT	_	5	punct	_	_
-11	επιβάλλεται	επιβάλλω	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
-12	πλέον	πλέον	ADV	ADV	_	11	advmod	_	_
-13	η	ο	DET	DET	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	_
-14	υποβολή	υποβολή	NOUN	NOUN	Case=Nom|Gender=Fem|Number=Sing	11	nsubj	_	_
-15	έκθεσης	έκθεση	NOUN	NOUN	Case=Gen|Gender=Fem|Number=Sing	14	nmod	_	_
-16	προς	προς	ADP	ADP	_	18	case	_	_
-17	την	ο	DET	DET	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	18	det	_	_
-18	Επιτροπή	επιτροπή	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	14	nmod	_	_
-19	ανά	ανά	ADP	ADP	_	20	case	_	_
-20	διετία	διετία	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	14	nmod	_	_
-21	σχετικά	σχετικά	ADV	ADV	_	15	advmod	_	_
-22	με	με	ADP	ADP	_	24	case	_	_
-23	τα	ο	DET	DET	Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	24	det	_	_
-24	αποτελέσματα	αποτέλεσμα	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Plur	21	nmod	_	_
-25	των	ο	DET	DET	Case=Gen|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	26	det	_	_
-26	ελέγχων	έλεγχος	NOUN	NOUN	Case=Gen|Gender=Masc|Number=Plur	24	nmod	_	SpaceAfter=No
-27	.	.	PUNCT	PUNCT	_	11	punct	_	_
+1	Ως	ως	ADV	ADV	_	4	advmod	_	_
+2	εκ	εκ	ADP	ADP	_	1	fixed	_	_
+3	τούτου	τούτος	PRON	PRON	Case=Gen|Gender=Neut|Number=Sing|Person=3|PronType=Dem	1	fixed	_	_
+4	βρίσκω	βρίσκω	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+5	θετικό	θετικός	ADJ	ADJ	Case=Acc|Gender=Neut|Number=Sing	4	xcomp	_	_
+6	το	ο	DET	DET	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	8	det	_	_
+7	ότι	ότι	SCONJ	SCONJ	_	8	mark	_	_
+8	ψηφίσαμε	ψηφίζω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	4	ccomp	_	_
+9	ότι	ότι	SCONJ	SCONJ	_	10	mark	_	_
+10	χρειάζεται	χρειάζομαι	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	8	ccomp	_	_
+11	να	να	PART	PART	_	12	aux	_	_
+12	υπάρχουν	υπάρχω	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	csubj	_	_
+13	πιο	πιο	ADV	ADV	_	14	advmod	_	_
+14	μακρόπνοοι	μακρόπνοος	ADJ	ADJ	Case=Nom|Gender=Masc|Number=Plur	15	amod	_	_
+15	στόχοι	στόχος	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Plur	12	nsubj	_	SpaceAfter=No
+16	,	,	PUNCT	PUNCT	_	21	punct	_	_
+17	με	με	ADP	ADP	_	19	case	_	_
+18	τους	ο	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	19	det	_	_
+19	οποίους	οποίος	PRON	PRON	Case=Acc|Gender=Masc|Number=Plur|Person=3|PronType=Rel	21	obl	_	_
+20	θα	θα	PART	PART	_	21	aux	_	_
+21	γίνονται	γίνομαι	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	15	acl:relcl	_	_
+22	σεβαστές	σεβαστός	ADJ	ADJ	Case=Nom|Gender=Fem|Number=Plur	21	xcomp	_	_
+23	οι	ο	DET	DET	Case=Nom|Definite=Def|Gender=Fem|Number=Plur|PronType=Art	24	det	_	_
+24	τιμές	τιμή	NOUN	NOUN	Case=Nom|Gender=Fem|Number=Plur	21	nsubj	_	_
+25	στόχοι	στόχος	NOUN	NOUN	Case=Nom|Gender=Masc|Number=Plur	24	nmod	_	_
+26	της	ο	DET	DET	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	27	det	_	_
+27	ΠΟΥ	ΠΟΥ	NOUN	NOUN	Abbr=Yes	25	nmod	_	SpaceAfter=No
+28	.	.	PUNCT	PUNCT	_	4	punct	_	_
 
 ~~~
 

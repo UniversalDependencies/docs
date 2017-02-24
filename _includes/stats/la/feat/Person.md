@@ -78,7 +78,7 @@ The feature is used with 3 part-of-speech tags: [la-pos/VERB]() (25512; 9% insta
 
 25512 [la-pos/VERB]() tokens (63% of all `VERB` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (25512; 100%), <tt><a href="Degree.html">Degree</a>=EMPTY</tt> (25512; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (25512; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (25512; 100%), <tt><a href="Aspect.html">Aspect</a>=EMPTY</tt> (23313; 91%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (22723; 89%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (21163; 83%), <tt><a href="Number.html">Number</a>=Sing</tt> (20448; 80%), <tt><a href="Voice.html">Voice</a>=Act</tt> (18617; 73%).
+The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="Degree.html">Degree</a>=EMPTY</tt> (25512; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (25512; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (25512; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (25512; 100%), <tt><a href="Aspect.html">Aspect</a>=EMPTY</tt> (23313; 91%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (22723; 89%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (21163; 83%), <tt><a href="Number.html">Number</a>=Sing</tt> (20448; 80%), <tt><a href="Voice.html">Voice</a>=Act</tt> (18617; 73%).
 
 `VERB` tokens may have the following values of `Person`:
 
@@ -194,7 +194,7 @@ The feature is used with 4 part-of-speech tags: [la-pos/VERB]() (22208; 14% inst
 
 22208 [la-pos/VERB]() tokens (68% of all `VERB` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (22208; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (22208; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (22208; 100%), <tt><a href="Voice.html">Voice</a>=Act</tt> (19789; 89%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (16391; 74%), <tt><a href="Number.html">Number</a>=Sing</tt> (15019; 68%), <tt><a href="Aspect.html">Aspect</a>=EMPTY</tt> (12334; 56%).
+The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="Case.html">Case</a>=EMPTY</tt> (22208; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (22208; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (22208; 100%), <tt><a href="Voice.html">Voice</a>=Act</tt> (19789; 89%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (16391; 74%), <tt><a href="Number.html">Number</a>=Sing</tt> (15019; 68%), <tt><a href="Aspect.html">Aspect</a>=EMPTY</tt> (12334; 56%).
 
 `VERB` tokens may have the following values of `Person`:
 
@@ -216,7 +216,7 @@ The most frequent other feature values with which `VERB` and `Person` co-occurre
   <tr><td><tt><a href="Aspect.html">Aspect</a>=Perf|<a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Tense.html">Tense</a>=Fut|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>dixero</em></td><td><em>dixeris</em></td><td><em>dixerit</em></td></tr>
   <tr><td><tt><a href="Aspect.html">Aspect</a>=Perf|<a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Tense.html">Tense</a>=Past|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>dixi</em></td><td><em>dixisti</em></td><td><em>dixit</em></td></tr>
   <tr><td><tt><a href="Aspect.html">Aspect</a>=Perf|<a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Plur|<a href="Tense.html">Tense</a>=Fut|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>dixerimus</em></td><td><em>dixeritis</em></td><td><em>dixerint</em></td></tr>
-  <tr><td><tt><a href="Aspect.html">Aspect</a>=Perf|<a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Plur|<a href="Tense.html">Tense</a>=Past|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>diximus</em></td><td><em>diximus, dixistis</em></td><td><em>dixerunt</em></td></tr>
+  <tr><td><tt><a href="Aspect.html">Aspect</a>=Perf|<a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Plur|<a href="Tense.html">Tense</a>=Past|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>diximus</em></td><td><em>dixistis, diximus</em></td><td><em>dixerunt</em></td></tr>
   <tr><td><tt><a href="Aspect.html">Aspect</a>=Perf|<a href="Mood.html">Mood</a>=Sub|<a href="Number.html">Number</a>=Sing|<a href="Tense.html">Tense</a>=Past|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>dixerim, dixissem</em></td><td><em>dixeris</em></td><td><em>dixerit</em></td></tr>
   <tr><td><tt><a href="Aspect.html">Aspect</a>=Perf|<a href="Mood.html">Mood</a>=Sub|<a href="Number.html">Number</a>=Plur|<a href="Tense.html">Tense</a>=Past|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>dixerimus</em></td><td><em>dixeritis</em></td><td></td></tr>
   <tr><td><tt><a href="Mood.html">Mood</a>=Imp|<a href="Number.html">Number</a>=Sing|<a href="Tense.html">Tense</a>=Fut|<a href="Voice.html">Voice</a>=Act</tt></td><td></td><td><em>dicito</em></td><td></td></tr>

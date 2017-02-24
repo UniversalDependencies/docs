@@ -46,72 +46,70 @@ The following 6 pairs of parts of speech are connected with `orphan`: [pt-pos/NO
 
 
 ~~~ conllu
-# visual-style 24	bgColor:blue
-# visual-style 24	fgColor:white
-# visual-style 23	bgColor:blue
-# visual-style 23	fgColor:white
-# visual-style 23 24 orphan	color:blue
-1	(	(	PUNCT	PU|@PU	_	2	punct	_	SpaceAfter=No
-2	Atitude	atitude	NOUN	<np-idf>|N|F|S|@NPHR	Gender=Fem|Number=Sing	0	root	_	_
-3	basicamente	basicamente	ADV	ADV|@>A	_	4	advmod	_	_
-4	budista	budista	ADJ	ADJ|F|S|@N<	Gender=Fem|Number=Sing	2	amod	_	_
-5	em	em	ADP	PRP|@N<	_	6	case	_	MWE=em_relação_a
-6	relação	relação	NOUN	N|@P<	_	2	nmod	_	_
-7	a	a	ADP	PRP|@N<	_	10	case	_	_
-8	todas	todo	DET	<quant>|DET|F|P|@>N	Gender=Fem|Number=Plur|PronType=Tot	10	det	_	MWE=todas_as
-9	as	o	DET	<artd>|DET|F|P|@A<	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	8	fixed	_	_
-10	coisas	coisa	NOUN	<np-def>|N|F|P|@P<	Gender=Fem|Number=Plur	6	nmod	_	_
-11	de	de	ADP	<sam->|PRP|@N<	_	13	case	_	_
-12	a	o	DET	<-sam>|<artd>|ART|F|S|@>N	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
-13	vida	vida	NOUN	<np-def>|N|F|S|@P<	Gender=Fem|Number=Sing	10	nmod	_	SpaceAfter=No
-14	,	,	PUNCT	PU|@PU	_	2	punct	_	_
-15	porque	porque	SCONJ	KS|@SUB	_	18	mark	_	_
-16	as	o	DET	<artd>|ART|F|P|@>N	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	17	det	_	_
-17	desagradáveis	desagradável	ADJ	<n>|<np-def>|ADJ|F|P|@SUBJ>	Gender=Fem|Number=Plur	18	nsubj	_	_
-18	causam	causar	VERB	<first-cjt>|<mv>|V|PR|3P|IND|@FS-N<PRED	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	advcl	_	_
-19	repulsa	repulsa	NOUN	<np-idf>|N|F|S|@<ACC	Gender=Fem|Number=Sing	18	obj	_	SpaceAfter=No
-20	,	,	PUNCT	PU|@PU	_	18	punct	_	_
-21	e	e	CCONJ	<co-fcl>|<co-fmc>|<co-vfin>|KC|@CO	_	18	cc	_	_
-22	as	o	DET	<artd>|ART|F|P|@>N	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	23	det	_	_
-23	agradáveis	agradável	ADJ	<n>|<np-def>|ADJ|F|P|@SUBJ>	Gender=Fem|Number=Plur	18	conj	_	_
-24	tristeza	tristeza	NOUN	<np-idf>|N|F|S|@<ACC	Gender=Fem|Number=Sing	23	orphan	_	_
-25	quando	quando	ADV	<rel>|ADV|@ADVL>	_	30	advmod	_	_
-26	já	já	ADV	ADV|@ADVL>	_	30	advmod	_	_
-27	se	se	PRON	PERS|M|S|ACC|@SUBJ>	Case=Acc|Gender=Masc|Number=Sing|PronType=Prs	30	nsubj	_	_
-28	as	elas	PRON	PERS|F|3P|ACC|@ACC>	Case=Acc|Gender=Fem|Number=Plur|Person=3|PronType=Prs	30	obj	_	_
-29	não	não	ADV	_	Polarity=Neg	30	advmod	_	_
-30	tem	ter	VERB	<mv>|V|PR|3S|IND|@FS-<ADVL	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	advcl	_	SpaceAfter=No
-31	)	)	PUNCT	PU|@PU	_	2	punct	_	SpaceAfter=No
-32	.	.	PUNCT	PU|@PU	_	2	punct	_	_
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 8 10 orphan	color:blue
+1	O	o	DET	<artd>|ART|M|S|@>N	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	Opala	opala	NOUN	<prop>|<np-def>|N|M|S|@SUBJ>	Gender=Masc|Number=Sing	3	nsubj	_	_
+3	durou	durar	VERB	<first-cjt>|<mv>|V|PS|3S|IND|@FS-STA	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+4	23	23	NUM	<card>|NUM|M|P|@>N	NumType=Card	5	nummod	_	_
+5	anos	ano	NOUN	<np-def>|N|M|P|@<SA	Gender=Masc|Number=Plur	3	obj	_	SpaceAfter=No
+6	,	,	PUNCT	PU|@PU	_	3	punct	_	_
+7	o	o	DET	<artd>|ART|M|S|@>N	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	Chevette	Chevette	PROPN	PROP|M|S|@SUBJ>	Gender=Masc|Number=Sing	3	parataxis	_	SpaceAfter=No
+9	,	,	PUNCT	PU|@PU	_	8	punct	_	_
+10	20	20	NUM	<card>|<Eg>|NUM|M|P|@<SA	NumType=Card	8	orphan	_	SpaceAfter=No
+11	,	,	PUNCT	PU|@PU	_	10	punct	_	_
+12	a	o	DET	<artd>|ART|F|S|@>N	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
+13	Kombi	Kombi	PROPN	PROP|F|S|@SUBJ>	Gender=Fem|Number=Sing	14	nsubj	_	_
+14	segue	seguir	VERB	<cjt>|<mv>|V|PR|3S|IND|@FS-STA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	parataxis	_	_
+15	firme	firme	ADJ	<mente>|ADJ|F|S|@<ADVL	Gender=Fem|Number=Sing	14	advmod	_	_
+16	desde	desde	ADP	PRP|@<ADVL	_	17	case	_	_
+17	1957	1957	NUM	<year>|<card>|<date>|NUM|M|S|@P<	NumType=Card	14	obl	_	SpaceAfter=No
+18	.	.	PUNCT	PU|@PU	_	3	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 16	bgColor:blue
-# visual-style 16	fgColor:white
-# visual-style 13	bgColor:blue
-# visual-style 13	fgColor:white
-# visual-style 13 16 orphan	color:blue
-1	O	o	DET	<artd>|ART|M|S|@>N	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
-2	homem	homem	NOUN	<np-def>|N|M|S|@SUBJ>	Gender=Masc|Number=Sing	3	nsubj	_	_
-3	fuma	fumar	VERB	<first-cjt>|<mv>|V|PR|3S|IND|@FS-STA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-4	entre	entre	ADP	PRP|@>N	_	5	case	_	_
-5	11	11	NUM	<first-cjt>|<card>|NUM|M|P|@>N	NumType=Card	8	nummod	_	_
-6	e	e	CCONJ	<co-prenom>|KC|@CO	_	7	cc	_	_
-7	20	20	NUM	<cjt>|<card>|NUM|M|P|@>N	NumType=Card	5	conj	_	_
-8	cigarros	cigarro	NOUN	<np-def>|N|M|P|@<ACC	Gender=Masc|Number=Plur	3	obj	_	_
-9	por	por	ADP	PRP|@<ADVL	_	10	case	_	_
-10	dia	dia	NOUN	<np-idf>|N|M|S|@P<	Gender=Masc|Number=Sing	3	obl	_	_
-11	e	e	CCONJ	<co-fcl>|KC|@CO	_	3	cc	_	_
-12	a	o	DET	<artd>|ART|F|S|@>N	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
-13	mulher	mulher	NOUN	<np-def>|N|F|S|@SUBJ>	Gender=Fem|Number=Sing	3	conj	_	SpaceAfter=No
-14	,	,	PUNCT	PU|@PU	_	13	punct	_	_
-15	entre	entre	ADP	PRP|@<ACC	_	16	case	_	_
-16	5	5	NUM	<first-cjt>|<Eg>|NUM|M|P|@P<	NumType=Card	13	orphan	_	_
-17	e	e	CCONJ	<co-prparg>|KC|@CO	_	16	cc	_	_
-18	10	10	NUM	<cjt>|<Eg>|NUM|M|P|@P<	NumType=Card	16	conj	_	SpaceAfter=No
-19	.	.	PUNCT	PU|@PU	_	3	punct	_	_
+# visual-style 26	bgColor:blue
+# visual-style 26	fgColor:white
+# visual-style 18	bgColor:blue
+# visual-style 18	fgColor:white
+# visual-style 18 26 orphan	color:blue
+1	Dizia	dizer	VERB	<first-cjt>|<mv>|V|IMPF|3S|IND|@FS-STA	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+2	se	se	PRON	PERS|M/F|3S/P|ACC|@<SUBJ	Case=Acc|Gender=Unsp|PronType=Prs	1	nsubj	_	_
+3	que	que	SCONJ	KS|@SUB	_	12	mark	_	_
+4	o	o	DET	<artd>|ART|M|S|@>N	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	Carlos	Carlos	PROPN	_	Gender=Masc|Number=Sing	12	nsubj	_	MWE=Carlos_Resende|MWEPOS=PROPN
+6	Resende	Resende	PROPN	_	Number=Sing	5	flat:name	_	_
+7	e	e	CCONJ	<co-subj>|KC|@CO	_	9	cc	_	_
+8	o	o	DET	<artd>|ART|M|S|@>N	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	Filipe	Filipe	PROPN	_	Gender=Masc|Number=Sing	5	conj	_	MWE=Filipe_Cruz|MWEPOS=PROPN
+10	Cruz	Cruz	PROPN	_	Number=Sing	9	flat:name	_	_
+11	podiam	poder	AUX	<first-cjt>|<aux>|V|IMPF|3P|IND|@FS-<ACC	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	12	aux	_	_
+12	ir	ir	VERB	<mv>|V|INF|@ICL-AUX<	VerbForm=Inf	1	ccomp	_	_
+13	para	para	ADP	PRP|@<SA	_	15	case	_	_
+14	a	o	DET	<artd>|ART|F|S|@>N	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	_	_
+15	Alemanha	Alemanha	PROPN	PROP|F|S|@P<	Gender=Fem|Number=Sing	12	obl	_	_
+16	e	e	CCONJ	<co-fcl>|<co-fmc>|<co-vfin>|KC|@CO	_	12	cc	_	_
+17	o	o	DET	<artd>|ART|M|S|@>N	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	18	det	_	_
+18	Carlos	Carlos	PROPN	_	Gender=Masc|Number=Sing	12	conj	_	MWE=Carlos_Galambas|MWEPOS=PROPN
+19	Galambas	Galambas	PROPN	_	Number=Sing	18	flat:name	_	_
+20	e	e	CCONJ	<co-cjt>|<co-subj>|KC|@CO	_	22	cc	_	_
+21	o	o	DET	<artd>|ART|M|S|@>N	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	22	det	_	_
+22	Álvaro	Álvaro	PROPN	_	Gender=Masc|Number=Sing	18	conj	_	MWE=Álvaro_Martins|MWEPOS=PROPN
+23	Martins	Martins	PROPN	_	Number=Sing	22	flat:name	_	_
+24	para	para	ADP	<cjt>|PRP|@<SA	_	26	case	_	_
+25	o	o	DET	<artd>|ART|M|S|@>N	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	26	det	_	_
+26	Benfica	Benfica	PROPN	PROP|M|S|@P<	Gender=Masc|Number=Sing	18	orphan	_	SpaceAfter=No
+27	,	,	PUNCT	PU|@PU	_	30	punct	_	_
+28	mas	mas	CCONJ	<co-fcl>|<co-fmc>|<co-vfin>|KC|@CO	_	30	cc	_	_
+29	é	ser	AUX	<cjt>|<mv>|V|PR|3S|IND|@FS-STA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	30	cop	_	_
+30	mentira	mentira	NOUN	<np-idf>|N|F|S|@<SC	Gender=Fem|Number=Sing	1	conj	_	SpaceAfter=No
+31	.	.	PUNCT	PU|@PU	_	1	punct	_	_
 
 ~~~
 

@@ -16,7 +16,7 @@ The feature is used with 2 part-of-speech tags: [pl-pos/PRON]() (1058; 1% instan
 
 1058 [pl-pos/PRON]() tokens (27% of all `PRON` tokens) have a non-empty value of `PrepCase`.
 
-The most frequent other feature values with which `PRON` and `PrepCase` co-occurred: <tt><a href="PronType.html">PronType</a>=Prs</tt> (1058; 100%), <tt><a href="Person.html">Person</a>=3</tt> (1058; 100%), <tt><a href="Reflex.html">Reflex</a>=EMPTY</tt> (1058; 100%), <tt><a href="Variant.html">Variant</a>=Long</tt> (839; 79%), <tt><a href="Number.html">Number</a>=Sing</tt> (746; 71%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (659; 62%).
+The most frequent other feature values with which `PRON` and `PrepCase` co-occurred: <tt><a href="Reflex.html">Reflex</a>=EMPTY</tt> (1058; 100%), <tt><a href="PronType.html">PronType</a>=Prs</tt> (1058; 100%), <tt><a href="Person.html">Person</a>=3</tt> (1058; 100%), <tt><a href="Variant.html">Variant</a>=Long</tt> (839; 79%), <tt><a href="Number.html">Number</a>=Sing</tt> (746; 71%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (659; 62%).
 
 `PRON` tokens may have the following values of `PrepCase`:
 
@@ -93,7 +93,7 @@ The most frequent other feature values with which `PRON` and `PrepCase` co-occur
 
 30 [pl-pos/ADJ]() tokens (0% of all `ADJ` tokens) have a non-empty value of `PrepCase`.
 
-The most frequent other feature values with which `ADJ` and `PrepCase` co-occurred: <tt><a href="Aspect.html">Aspect</a>=EMPTY</tt> (30; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (30; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (30; 100%), <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (30; 100%), <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (30; 100%), <tt><a href="Polarity.html">Polarity</a>=EMPTY</tt> (30; 100%), <tt><a href="Degree.html">Degree</a>=EMPTY</tt> (30; 100%), <tt><a href="VerbForm.html">VerbForm</a>=EMPTY</tt> (30; 100%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (30; 100%).
+The most frequent other feature values with which `ADJ` and `PrepCase` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=EMPTY</tt> (30; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (30; 100%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (30; 100%), <tt><a href="Polarity.html">Polarity</a>=EMPTY</tt> (30; 100%), <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (30; 100%), <tt><a href="Degree.html">Degree</a>=EMPTY</tt> (30; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (30; 100%), <tt><a href="Aspect.html">Aspect</a>=EMPTY</tt> (30; 100%), <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (30; 100%).
 
 `ADJ` tokens may have the following values of `PrepCase`:
 

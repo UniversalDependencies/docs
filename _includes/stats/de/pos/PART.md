@@ -11,9 +11,9 @@ The 10 most frequent `PART` lemmas: <em>nicht, zu, aus, an, es, hin, nein, to, h
 
 The 10 most frequent `PART` types:  <em>nicht, zu, aus, an, 's, hin, nein, to, her, ja</em>
 
-The 10 most frequent ambiguous lemmas: <em>nicht</em> ([PART]() 978, [ADV]() 2, [PROPN]() 2, [NOUN]() 1), <em>zu</em> ([ADP]() 2145, [PART]() 951, [ADV]() 59, [PROPN]() 25, [AUX]() 1, [ADJ]() 1), <em>aus</em> ([ADP]() 984, [PART]() 9, [ADV]() 4, [PROPN]() 1), <em>an</em> ([ADP]() 1781, [PROPN]() 30, [PART]() 7, [NOUN]() 3, [ADV]() 1), <em>es</em> ([PRON]() 1034, [PROPN]() 32, [PART]() 4, [X]() 2, [PUNCT]() 1), <em>hin</em> ([ADV]() 41, [NOUN]() 7, [PART]() 4, [ADP]() 3), <em>to</em> ([PROPN]() 4, [PART]() 2), <em>her</em> ([ADV]() 14, [PART]() 3, [NOUN]() 1), <em>ja</em> ([ADV]() 17, [PART]() 2), <em>einnehmen</em> ([VERB]() 10, [PART]() 2)
+The 10 most frequent ambiguous lemmas: <em>nicht</em> ([PART]() 978, [PROPN]() 2, [ADV]() 2, [NOUN]() 1), <em>zu</em> ([ADP]() 2145, [PART]() 951, [ADV]() 59, [PROPN]() 25, [AUX]() 1, [ADJ]() 1), <em>aus</em> ([ADP]() 984, [PART]() 9, [ADV]() 4, [PROPN]() 1), <em>an</em> ([ADP]() 1781, [PROPN]() 30, [PART]() 7, [NOUN]() 3, [ADV]() 1), <em>es</em> ([PRON]() 1034, [PROPN]() 32, [PART]() 4, [X]() 2, [PUNCT]() 1), <em>hin</em> ([ADV]() 41, [NOUN]() 7, [PART]() 4, [ADP]() 3), <em>to</em> ([PROPN]() 4, [PART]() 2), <em>her</em> ([ADV]() 14, [PART]() 3, [NOUN]() 1), <em>ja</em> ([ADV]() 17, [PART]() 2), <em>einnehmen</em> ([VERB]() 10, [PART]() 2)
 
-The 10 most frequent ambiguous types:  <em>nicht</em> ([PART]() 961, [ADV]() 2, [PROPN]() 1), <em>zu</em> ([ADP]() 2008, [PART]() 951, [ADV]() 58, [PROPN]() 24, [ADJ]() 1), <em>aus</em> ([ADP]() 940, [PART]() 9, [ADV]() 4), <em>an</em> ([ADP]() 1686, [PROPN]() 24, [PART]() 7, [NOUN]() 1, [ADV]() 1), <em>'s</em> ([PROPN]() 32, [PART]() 4, [PRON]() 3, [X]() 2, [PUNCT]() 1), <em>hin</em> ([ADV]() 41, [PART]() 4, [ADP]() 3, [NOUN]() 3), <em>to</em> ([PROPN]() 5, [PART]() 4), <em>her</em> ([ADV]() 14, [PART]() 3), <em>ja</em> ([ADV]() 17, [PART]() 2), <em>einnahm</em> ([VERB]() 3, [PART]() 2)
+The 10 most frequent ambiguous types:  <em>nicht</em> ([PART]() 961, [ADV]() 2, [PROPN]() 1), <em>zu</em> ([ADP]() 2008, [PART]() 951, [ADV]() 58, [PROPN]() 24, [ADJ]() 1), <em>aus</em> ([ADP]() 940, [PART]() 9, [ADV]() 4), <em>an</em> ([ADP]() 1686, [PROPN]() 24, [PART]() 7, [NOUN]() 1, [ADV]() 1), <em>'s</em> ([PROPN]() 32, [PART]() 4, [PRON]() 3, [X]() 2, [PUNCT]() 1), <em>hin</em> ([ADV]() 41, [PART]() 4, [NOUN]() 3, [ADP]() 3), <em>to</em> ([PROPN]() 5, [PART]() 4), <em>her</em> ([ADV]() 14, [PART]() 3), <em>ja</em> ([ADV]() 17, [PART]() 2), <em>einnahm</em> ([VERB]() 3, [PART]() 2)
 
 
 * <em>nicht</em>
@@ -45,8 +45,8 @@ The 10 most frequent ambiguous types:  <em>nicht</em> ([PART]() 961, [ADV]() 2, 
 * <em>hin</em>
   * [ADV]() 41: <em>Sie hingen zu dem Schluss <b>hin</b> wie ein nasser Sack an mir .</em>
   * [PART]() 4: <em>Es wird durch verschiedene Mulden untergliedert , die sich zu dem Ruisseau des Écoulottes <b>hin</b> öffnen .</em>
-  * [ADP]() 3: <em>Auf Brittas Wunsch <b>hin</b> halten beide ihre Beziehung jedoch geheim .</em>
   * [NOUN]() 3: <em>Der Spieler kann immer drei Waffen gleichzeitig tragen , und mit Knopfdruck zwischen diesen <b>hin</b> - und herschalten .</em>
+  * [ADP]() 3: <em>Auf Brittas Wunsch <b>hin</b> halten beide ihre Beziehung jedoch geheim .</em>
 * <em>to</em>
   * [PROPN]() 5: <em>1995 erhielt das Spiel mit More Excuses <b>to</b> Kill Things eine Erweiterung .</em>
   * [PART]() 4: <em>Seinen Eltern habe er dies nie mitgeteilt : " All I wanted was <b>to</b> be straight so my parents could be happy .</em>

@@ -67,7 +67,7 @@ The most frequent other feature values with which `PRON` and `Gender` co-occurre
 
 3910 [got-pos/ADJ]() tokens (98% of all `ADJ` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `ADJ` and `Gender` co-occurred: <tt><a href="Poss.html">Poss</a>=EMPTY</tt> (2996; 77%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (2996; 77%), <tt><a href="Number.html">Number</a>=Sing</tt> (2706; 69%), <tt><a href="Strength.html">Strength</a>=EMPTY</tt> (2017; 52%), <tt><a href="Degree.html">Degree</a>=EMPTY</tt> (2012; 51%).
+The most frequent other feature values with which `ADJ` and `Gender` co-occurred: <tt><a href="Person.html">Person</a>=EMPTY</tt> (2996; 77%), <tt><a href="Poss.html">Poss</a>=EMPTY</tt> (2996; 77%), <tt><a href="Number.html">Number</a>=Sing</tt> (2706; 69%), <tt><a href="Strength.html">Strength</a>=EMPTY</tt> (2017; 52%), <tt><a href="Degree.html">Degree</a>=EMPTY</tt> (2012; 51%).
 
 `ADJ` tokens may have the following values of `Gender`:
 
@@ -96,7 +96,7 @@ The most frequent other feature values with which `ADJ` and `Gender` co-occurred
 
 2092 [got-pos/VERB]() tokens (20% of all `VERB` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `VERB` and `Gender` co-occurred: <tt><a href="Person.html">Person</a>=EMPTY</tt> (2092; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (2092; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (2092; 100%), <tt><a href="Case.html">Case</a>=Nom</tt> (1561; 75%), <tt><a href="Voice.html">Voice</a>=Act</tt> (1499; 72%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (1499; 72%), <tt><a href="Number.html">Number</a>=Sing</tt> (1265; 60%), <tt><a href="Strength.html">Strength</a>=Strong</tt> (1064; 51%).
+The most frequent other feature values with which `VERB` and `Gender` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (2092; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (2092; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (2092; 100%), <tt><a href="Case.html">Case</a>=Nom</tt> (1561; 75%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (1499; 72%), <tt><a href="Voice.html">Voice</a>=Act</tt> (1499; 72%), <tt><a href="Number.html">Number</a>=Sing</tt> (1265; 60%), <tt><a href="Strength.html">Strength</a>=Strong</tt> (1064; 51%).
 
 `VERB` tokens may have the following values of `Gender`:
 

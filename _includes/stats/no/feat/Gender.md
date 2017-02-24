@@ -230,7 +230,7 @@ The most frequent other feature values with which `ADJ` and `Gender` co-occurred
 
 57 [no-pos/NUM]() tokens (2% of all `NUM` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `NUM` and `Gender` co-occurred: <tt><a href="NumType.html">NumType</a>=Card</tt> (57; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (57; 100%).
+The most frequent other feature values with which `NUM` and `Gender` co-occurred: <tt><a href="Number.html">Number</a>=Sing</tt> (57; 100%), <tt><a href="NumType.html">NumType</a>=Card</tt> (57; 100%).
 
 `NUM` tokens may have the following values of `Gender`:
 
@@ -248,7 +248,7 @@ The most frequent other feature values with which `NUM` and `Gender` co-occurred
 
 2 [no-pos/VERB]() tokens (0% of all `VERB` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `VERB` and `Gender` co-occurred: <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (2; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (2; 100%), <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (2; 100%).
+The most frequent other feature values with which `VERB` and `Gender` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (2; 100%), <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (2; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (2; 100%).
 
 `VERB` tokens may have the following values of `Gender`:
 

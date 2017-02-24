@@ -109,9 +109,9 @@ The 10 most frequent `ADP` lemmas: <em>di, a, in, per, da, su, con, come, tra, d
 
 The 10 most frequent `ADP` types:  <em>di, a, in, per, da, su, con, come, ad, tra</em>
 
-The 10 most frequent ambiguous lemmas: <em>di</em> ([ADP]() 2977, [DET]() 17), <em>a</em> ([ADP]() 1147, [X]() 3, [CCONJ]() 1, [ADV]() 1), <em>su</em> ([ADP]() 203, [ADV]() 4), <em>come</em> ([ADP]() 129, [SCONJ]() 32, [ADV]() 11), <em>dopo</em> ([ADP]() 33, [ADV]() 6, [SCONJ]() 5), <em>contro</em> ([ADP]() 20, [ADV]() 1), <em>secondo</em> ([ADP]() 19, [ADJ]() 17, [PRON]() 1), <em>fino</em> ([ADP]() 15, [ADV]() 1), <em>de</em> ([ADP]() 13, [X]() 4, [PROPN]() 2), <em>verso</em> ([ADP]() 13, [NOUN]() 12)
+The 10 most frequent ambiguous lemmas: <em>di</em> ([ADP]() 2977, [DET]() 17), <em>a</em> ([ADP]() 1147, [X]() 3, [ADV]() 1, [CCONJ]() 1), <em>su</em> ([ADP]() 203, [ADV]() 4), <em>come</em> ([ADP]() 129, [SCONJ]() 32, [ADV]() 11), <em>dopo</em> ([ADP]() 33, [ADV]() 6, [SCONJ]() 5), <em>contro</em> ([ADP]() 20, [ADV]() 1), <em>secondo</em> ([ADP]() 19, [ADJ]() 17, [PRON]() 1), <em>fino</em> ([ADP]() 15, [ADV]() 1), <em>de</em> ([ADP]() 13, [X]() 4, [PROPN]() 2), <em>verso</em> ([ADP]() 13, [NOUN]() 12)
 
-The 10 most frequent ambiguous types:  <em>a</em> ([ADP]() 1006, [X]() 3, [ADV]() 1), <em>su</em> ([ADP]() 201, [ADV]() 4), <em>come</em> ([ADP]() 121, [SCONJ]() 23, [ADV]() 6), <em>dopo</em> ([ADP]() 19, [ADV]() 6, [SCONJ]() 2), <em>contro</em> ([ADP]() 20, [ADV]() 1), <em>secondo</em> ([ADP]() 9, [ADJ]() 7, [PRON]() 1), <em>de</em> ([ADP]() 15, [X]() 4, [PROPN]() 2), <em>fino</em> ([ADP]() 12, [ADV]() 1), <em>verso</em> ([ADP]() 11, [NOUN]() 4), <em>nonostante</em> ([ADP]() 6, [SCONJ]() 1, [ADV]() 1)
+The 10 most frequent ambiguous types:  <em>a</em> ([ADP]() 1006, [X]() 3, [ADV]() 1), <em>su</em> ([ADP]() 201, [ADV]() 4), <em>come</em> ([ADP]() 121, [SCONJ]() 23, [ADV]() 6), <em>dopo</em> ([ADP]() 19, [ADV]() 6, [SCONJ]() 2), <em>contro</em> ([ADP]() 20, [ADV]() 1), <em>secondo</em> ([ADP]() 9, [ADJ]() 7, [PRON]() 1), <em>de</em> ([ADP]() 15, [X]() 4, [PROPN]() 2), <em>fino</em> ([ADP]() 12, [ADV]() 1), <em>verso</em> ([ADP]() 11, [NOUN]() 4), <em>nonostante</em> ([ADP]() 6, [ADV]() 1, [SCONJ]() 1)
 
 
 * <em>a</em>
@@ -148,8 +148,8 @@ The 10 most frequent ambiguous types:  <em>a</em> ([ADP]() 1006, [X]() 3, [ADV](
   * [NOUN]() 4: <em>La forma poetica propria di Shakespeare è il <b>verso</b> giambico , composto da il pentametro giambico .</em>
 * <em>nonostante</em>
   * [ADP]() 6: <em>Ciò lo portò ad affermar si come autore degno di fama ( <b>nonostante</b> la struttura fosse presa da Walter Scott ) e gli procurò un nome a il di fuori di i suoi precedenti pseudonimi .</em>
-  * [SCONJ]() 1: <em>La commedia di gli errori era anche basata su modelli classici , ma non è stata trovata nessuna fonte per la Bisbetica domata , <b>nonostante</b> sia collegata a una diversa ma omonima commedia e probabilmente abbia avuto origine da una storia folkloristica .</em>
   * [ADV]() 1: <em>" Ciò <b>nonostante</b> trascorreva spesso dei lunghi periodi a il castello di Saché , vicino a Tours , la casa di il suo amico Jean de Margonne , amante di sua madre e padre di il figlio più piccolo di quest' ultima .</em>
+  * [SCONJ]() 1: <em>La commedia di gli errori era anche basata su modelli classici , ma non è stata trovata nessuna fonte per la Bisbetica domata , <b>nonostante</b> sia collegata a una diversa ma omonima commedia e probabilmente abbia avuto origine da una storia folkloristica .</em>
 
 ## Morphology
 

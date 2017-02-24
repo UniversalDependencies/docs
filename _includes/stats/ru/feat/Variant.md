@@ -16,7 +16,7 @@ The feature is used with 3 part-of-speech tags: [ru-pos/VERB]() (820; 1% instanc
 
 820 [ru-pos/VERB]() tokens (11% of all `VERB` tokens) have a non-empty value of `Variant`.
 
-The most frequent other feature values with which `VERB` and `Variant` co-occurred: <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (820; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (820; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (820; 100%), <tt><a href="Case.html">Case</a>=Nom</tt> (820; 100%), <tt><a href="Voice.html">Voice</a>=Pass</tt> (819; 100%), <tt><a href="Tense.html">Tense</a>=Past</tt> (818; 100%), <tt><a href="Aspect.html">Aspect</a>=Perf</tt> (817; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (651; 79%), <tt><a href="Animacy.html">Animacy</a>=Inan</tt> (647; 79%).
+The most frequent other feature values with which `VERB` and `Variant` co-occurred: <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (820; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (820; 100%), <tt><a href="Case.html">Case</a>=Nom</tt> (820; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (820; 100%), <tt><a href="Voice.html">Voice</a>=Pass</tt> (819; 100%), <tt><a href="Tense.html">Tense</a>=Past</tt> (818; 100%), <tt><a href="Aspect.html">Aspect</a>=Perf</tt> (817; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (651; 79%), <tt><a href="Animacy.html">Animacy</a>=Inan</tt> (647; 79%).
 
 `VERB` tokens may have the following values of `Variant`:
 
@@ -40,7 +40,7 @@ The most frequent other feature values with which `ADJ` and `Variant` co-occurre
 
 8 [ru-pos/AUX]() tokens (1% of all `AUX` tokens) have a non-empty value of `Variant`.
 
-The most frequent other feature values with which `AUX` and `Variant` co-occurred: <tt><a href="Tense.html">Tense</a>=Past</tt> (8; 100%), <tt><a href="Aspect.html">Aspect</a>=Perf</tt> (8; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (8; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (8; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (8; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (8; 100%), <tt><a href="Voice.html">Voice</a>=Pass</tt> (8; 100%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (5; 63%).
+The most frequent other feature values with which `AUX` and `Variant` co-occurred: <tt><a href="Tense.html">Tense</a>=Past</tt> (8; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (8; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (8; 100%), <tt><a href="Aspect.html">Aspect</a>=Perf</tt> (8; 100%), <tt><a href="Voice.html">Voice</a>=Pass</tt> (8; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (8; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (8; 100%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (5; 63%).
 
 `AUX` tokens may have the following values of `Variant`:
 
@@ -82,7 +82,7 @@ The most frequent other feature values with which `ADJ` and `Variant` co-occurre
 
 4769 [ru-pos/VERB]() tokens (4% of all `VERB` tokens) have a non-empty value of `Variant`.
 
-The most frequent other feature values with which `VERB` and `Variant` co-occurred: <tt><a href="Voice.html">Voice</a>=Pass</tt> (4769; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (4769; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (4769; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (4769; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (4769; 100%), <tt><a href="Tense.html">Tense</a>=Past</tt> (4758; 100%), <tt><a href="Aspect.html">Aspect</a>=Perf</tt> (4718; 99%), <tt><a href="Number.html">Number</a>=Sing</tt> (3320; 70%).
+The most frequent other feature values with which `VERB` and `Variant` co-occurred: <tt><a href="Case.html">Case</a>=EMPTY</tt> (4769; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (4769; 100%), <tt><a href="Voice.html">Voice</a>=Pass</tt> (4769; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (4769; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (4769; 100%), <tt><a href="Tense.html">Tense</a>=Past</tt> (4758; 100%), <tt><a href="Aspect.html">Aspect</a>=Perf</tt> (4718; 99%), <tt><a href="Number.html">Number</a>=Sing</tt> (3320; 70%).
 
 `VERB` tokens may have the following values of `Variant`:
 

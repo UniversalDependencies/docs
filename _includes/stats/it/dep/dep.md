@@ -81,44 +81,31 @@ The following 6 pairs of parts of speech are connected with `dep`: [it-pos/VERB]
 
 
 ~~~ conllu
-# visual-style 17	bgColor:blue
-# visual-style 17	fgColor:white
-# visual-style 20	bgColor:blue
-# visual-style 20	fgColor:white
-# visual-style 20 17 dep	color:blue
-1	Alcune	alcuno	DET	DI	Gender=Fem|Number=Plur|PronType=Ind	2	det	_	_
-2	attribuzioni	attribuzione	NOUN	S	Gender=Fem|Number=Plur	13	nsubj	_	SpaceAfter=No
-3	,	,	PUNCT	FF	_	2	punct	_	_
-4	come	come	ADP	E	_	5	case	_	_
-5	Tito	Tito	PROPN	SP	_	2	nmod	_	_
-6	Andronico	Andronico	PROPN	SP	_	5	flat:name	_	_
-7	e	e	CCONJ	CC	_	10	cc	_	_
-8	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	10	det	_	_
-9	primi	primo	ADJ	NO	Gender=Masc|Number=Plur|NumType=Ord	10	amod	_	_
-10	drammi	dramma	NOUN	S	Gender=Masc|Number=Plur	5	conj	_	_
-11	storici	storico	ADJ	A	Gender=Masc|Number=Plur	10	amod	_	SpaceAfter=No
-12	,	,	PUNCT	FF	_	2	punct	_	_
-13	restano	restare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-14	controverse	controverso	ADJ	A	Gender=Fem|Number=Plur	13	xcomp	_	SpaceAfter=No
-15	,	,	PUNCT	FF	_	27	punct	_	_
-16	mentre	mentre	SCONJ	CS	_	27	mark	_	_
-17	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	20	dep	_	_
-18	due	due	NUM	N	NumType=Card	20	nummod	_	_
-19	nobili	nobile	ADJ	A	Number=Plur	20	amod	_	_
-20	congiunti	congiunto	NOUN	S	Gender=Masc|Number=Plur	27	nsubj	_	_
-21	e	e	CCONJ	CC	_	23	cc	_	_
-22	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	23	det	_	SpaceAfter=No
-23	opera	opera	NOUN	S	Gender=Fem|Number=Sing	20	conj	_	_
-24	andata	andare	AUX	VA	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	25	aux	_	_
-25	perduta	perdere	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	23	acl	_	_
-26	Cardenio	Cardenio	PROPN	SP	_	23	nmod	_	_
-27	hanno	avere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	13	conj	_	_
-28	una	uno	PRON	PI	Gender=Fem|Number=Sing|PronType=Ind	27	obj	_	_
-29	ben	bene	ADV	B	_	30	advmod	_	_
-30	attestata	attestare	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	31	acl	_	_
-31	documentazione	documentazione	NOUN	S	Gender=Fem|Number=Sing	28	advcl	_	_
-32	contemporanea	contemporaneo	ADJ	A	Gender=Fem|Number=Sing	31	amod	_	SpaceAfter=No
-33	.	.	PUNCT	FS	_	13	punct	_	_
+# visual-style 16	bgColor:blue
+# visual-style 16	fgColor:white
+# visual-style 19	bgColor:blue
+# visual-style 19	fgColor:white
+# visual-style 19 16 dep	color:blue
+1	In	in	ADP	E	_	2	case	_	_
+2	uno	uno	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	19	obl	_	_
+3	di	di	ADP	E	_	6	case	_	_
+4	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	6	det	_	_
+5	gravi	grave	ADJ	A	Number=Plur	6	amod	_	_
+6	incidenti	incidente	NOUN	S	Gender=Masc|Number=Plur	2	nmod	_	_
+7	verificati	verificare	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	6	acl	_	_
+8	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	7	expl	_	_
+9	recentemente	recentemente	ADV	B	_	7	advmod	_	SpaceAfter=No
+10	,	,	PUNCT	FF	_	2	punct	_	_
+11	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
+12	merce	merce	NOUN	S	Gender=Fem|Number=Sing	19	nsubj	_	_
+13	trasportata	trasportare	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	12	acl	_	_
+14	non	non	ADV	BN	PronType=Neg	19	advmod	_	_
+15	era	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	19	cop	_	_
+16	di	di	ADP	E	_	19	dep	_	_
+17	per	per	ADP	E	_	16	fixed	_	_
+18	sé	sé	PRON	PE	PronType=Prs	16	fixed	_	_
+19	pericolosa	pericoloso	ADJ	A	Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
+20	.	.	PUNCT	FS	_	19	punct	_	_
 
 ~~~
 

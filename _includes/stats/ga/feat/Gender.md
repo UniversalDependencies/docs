@@ -61,7 +61,7 @@ The most frequent other feature values with which `PROPN` and `Gender` co-occurr
 
 264 [ga-pos/ADP]() tokens (12% of all `ADP` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `ADP` and `Gender` co-occurred: <tt><a href="Number.html">Number</a>=Sing</tt> (264; 100%), <tt><a href="Person.html">Person</a>=3</tt> (264; 100%), <tt><a href="PronType.html">PronType</a>=EMPTY</tt> (241; 91%).
+The most frequent other feature values with which `ADP` and `Gender` co-occurred: <tt><a href="Person.html">Person</a>=3</tt> (264; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (264; 100%), <tt><a href="PronType.html">PronType</a>=EMPTY</tt> (241; 91%).
 
 `ADP` tokens may have the following values of `Gender`:
 
@@ -102,7 +102,7 @@ The most frequent other feature values with which `ADJ` and `Gender` co-occurred
 <table>
   <tr><th>Paradigm <i>mór</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Gen</tt></td><td><em>mhóir</em></td><td></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=NomAcc</tt></td><td><em>mór, ró-mhór, mhór</em></td><td><em>mhór</em></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=NomAcc</tt></td><td><em>mór, mhór, ró-mhór</em></td><td><em>mhór</em></td></tr>
 </table>
 
 ### `DET`
@@ -126,7 +126,7 @@ The most frequent other feature values with which `DET` and `Gender` co-occurred
 
 3 [ga-pos/X]() tokens (2% of all `X` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `X` and `Gender` co-occurred: <tt><a href="Abbr.html">Abbr</a>=EMPTY</tt> (3; 100%), <tt><a href="PronType.html">PronType</a>=EMPTY</tt> (3; 100%), <tt><a href="Dialect.html">Dialect</a>=Ulster</tt> (2; 67%).
+The most frequent other feature values with which `X` and `Gender` co-occurred: <tt><a href="PronType.html">PronType</a>=EMPTY</tt> (3; 100%), <tt><a href="Abbr.html">Abbr</a>=EMPTY</tt> (3; 100%), <tt><a href="Dialect.html">Dialect</a>=Ulster</tt> (2; 67%).
 
 `X` tokens may have the following values of `Gender`:
 
@@ -134,27 +134,27 @@ The most frequent other feature values with which `X` and `Gender` co-occurred: 
 * `Masc` (2; 67% of non-empty `Gender`): <em>fá</em>
 * `EMPTY` (148): <em>san, (1), (2), so, (c), (4), (a), (b), Uimh., FÁS</em>
 
-### `AUX`
-
-1 [ga-pos/AUX]() tokens (0% of all `AUX` tokens) have a non-empty value of `Gender`.
-
-The most frequent other feature values with which `AUX` and `Gender` co-occurred: <tt><a href="Polarity.html">Polarity</a>=EMPTY</tt> (1; 100%), <tt><a href="Form.html">Form</a>=EMPTY</tt> (1; 100%), <tt><a href="PronType.html">PronType</a>=EMPTY</tt> (1; 100%), <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (1; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Cop</tt> (1; 100%).
-
-`AUX` tokens may have the following values of `Gender`:
-
-* `Masc` (1; 100% of non-empty `Gender`): <em>Sé</em>
-* `EMPTY` (223): <em>is, ba, ní, gur, nach, b', ar, níor, gurb, an</em>
-
 ### `VERB`
 
 1 [ga-pos/VERB]() tokens (0% of all `VERB` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `VERB` and `Gender` co-occurred: <tt><a href="Tense.html">Tense</a>=Pres</tt> (1; 100%), <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (1; 100%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (1; 100%), <tt><a href="Form.html">Form</a>=EMPTY</tt> (1; 100%).
+The most frequent other feature values with which `VERB` and `Gender` co-occurred: <tt><a href="Tense.html">Tense</a>=Pres</tt> (1; 100%), <tt><a href="Form.html">Form</a>=EMPTY</tt> (1; 100%), <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (1; 100%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (1; 100%).
 
 `VERB` tokens may have the following values of `Gender`:
 
 * `Masc` (1; 100% of non-empty `Gender`): <em>Tá's</em>
 * `EMPTY` (1098): <em>bhí, tá, raibh, bhfuil, atá, beidh, bheidh, thug, mbeidh, bíonn</em>
+
+### `AUX`
+
+1 [ga-pos/AUX]() tokens (0% of all `AUX` tokens) have a non-empty value of `Gender`.
+
+The most frequent other feature values with which `AUX` and `Gender` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=Cop</tt> (1; 100%), <tt><a href="Polarity.html">Polarity</a>=EMPTY</tt> (1; 100%), <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (1; 100%), <tt><a href="Form.html">Form</a>=EMPTY</tt> (1; 100%), <tt><a href="PronType.html">PronType</a>=EMPTY</tt> (1; 100%).
+
+`AUX` tokens may have the following values of `Gender`:
+
+* `Masc` (1; 100% of non-empty `Gender`): <em>Sé</em>
+* `EMPTY` (223): <em>is, ba, ní, gur, nach, b', ar, níor, gurb, an</em>
 
 ## Relations with Agreement in `Gender`
 
@@ -167,6 +167,6 @@ The 10 most frequent relations where parent and child node agree in `Gender`:
 <tt>PROPN --[<a href="../dep/compound.html">compound</a>]--> NOUN</tt> (10; 59%),
 <tt>NOUN --[<a href="../dep/appos.html">appos</a>]--> PROPN</tt> (9; 82%),
 <tt>PROPN --[<a href="../dep/appos.html">appos</a>]--> NOUN</tt> (8; 89%),
-<tt>PROPN --[<a href="../dep/nmod.html">nmod</a>]--> PROPN</tt> (7; 78%),
-<tt>PROPN --[<a href="../dep/conj.html">conj</a>]--> NOUN</tt> (7; 70%).
+<tt>PROPN --[<a href="../dep/conj.html">conj</a>]--> NOUN</tt> (7; 70%),
+<tt>PROPN --[<a href="../dep/nmod.html">nmod</a>]--> PROPN</tt> (7; 78%).
 

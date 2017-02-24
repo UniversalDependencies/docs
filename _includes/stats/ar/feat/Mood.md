@@ -141,7 +141,7 @@ The most frequent other feature values with which `ADV` and `Mood` co-occurred: 
 
 238 [ar-pos/NOUN]() tokens (0% of all `NOUN` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `NOUN` and `Mood` co-occurred: <tt><a href="Definite.html">Definite</a>=EMPTY</tt> (238; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (238; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (209; 88%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (170; 71%).
+The most frequent other feature values with which `NOUN` and `Mood` co-occurred: <tt><a href="Case.html">Case</a>=EMPTY</tt> (238; 100%), <tt><a href="Definite.html">Definite</a>=EMPTY</tt> (238; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (209; 88%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (170; 71%).
 
 `NOUN` tokens may have the following values of `Mood`:
 
@@ -205,7 +205,7 @@ The most frequent other feature values with which `ADP` and `Mood` co-occurred: 
 
 54 [ar-pos/PRON]() tokens (0% of all `PRON` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `PRON` and `Mood` co-occurred: <tt><a href="Case.html">Case</a>=EMPTY</tt> (54; 100%), <tt><a href="Definite.html">Definite</a>=EMPTY</tt> (54; 100%), <tt><a href="PronType.html">PronType</a>=EMPTY</tt> (54; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (49; 91%), <tt><a href="Person.html">Person</a>=3</tt> (48; 89%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (35; 65%).
+The most frequent other feature values with which `PRON` and `Mood` co-occurred: <tt><a href="Definite.html">Definite</a>=EMPTY</tt> (54; 100%), <tt><a href="PronType.html">PronType</a>=EMPTY</tt> (54; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (54; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (49; 91%), <tt><a href="Person.html">Person</a>=3</tt> (48; 89%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (35; 65%).
 
 `PRON` tokens may have the following values of `Mood`:
 
@@ -266,7 +266,7 @@ The most frequent other feature values with which `PART` and `Mood` co-occurred:
 
 12 [ar-pos/NUM]() tokens (0% of all `NUM` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `NUM` and `Mood` co-occurred: <tt><a href="NumForm.html">NumForm</a>=EMPTY</tt> (12; 100%), <tt><a href="Definite.html">Definite</a>=EMPTY</tt> (12; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (12; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (11; 92%), <tt><a href="Gender.html">Gender</a>=Fem</tt> (7; 58%).
+The most frequent other feature values with which `NUM` and `Mood` co-occurred: <tt><a href="NumForm.html">NumForm</a>=EMPTY</tt> (12; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (12; 100%), <tt><a href="Definite.html">Definite</a>=EMPTY</tt> (12; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (11; 92%), <tt><a href="Gender.html">Gender</a>=Fem</tt> (7; 58%).
 
 `NUM` tokens may have the following values of `Mood`:
 

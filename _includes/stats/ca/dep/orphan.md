@@ -34,6 +34,26 @@ The following 3 pairs of parts of speech are connected with `orphan`: [ca-pos/NO
 
 
 ~~~ conllu
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 5 orphan	color:blue
+1	Berasategui	Berasategui	PROPN	PROPN	_	0	root	_	SpaceAfter=No
+2	,	,	PUNCT	PUNCT	PunctType=Comm	3	punct	_	_
+3	Costa	Costa	PROPN	PROPN	_	1	conj	_	_
+4	i	i	CCONJ	CCONJ	_	3	cc	_	_
+5	Martín	Martín	PROPN	PROPN	_	3	orphan	_	SpaceAfter=No
+6	,	,	PUNCT	PUNCT	PunctType=Comm	7	punct	_	_
+7	semifinalistes	semifinalista	NOUN	NOUN	Number=Plur	1	appos	_	_
+8	a	a	ADP	ADP	AdpType=Prep	9	case	_	_
+9	Bucarest	Bucarest	PROPN	PROPN	_	1	nmod	_	SpaceAfter=No
+10	.	.	PUNCT	PUNCT	PunctType=Peri	1	punct	_	_
+
+~~~
+
+
+~~~ conllu
 # visual-style 30	bgColor:blue
 # visual-style 30	fgColor:white
 # visual-style 21	bgColor:blue
@@ -76,26 +96,6 @@ The following 3 pairs of parts of speech are connected with `orphan`: [ca-pos/NO
 35	executar	executar	VERB	VERB	VerbForm=Inf	33	acl	_	_
 36	la	ell	PRON	PRON	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	35	obj	_	_
 37	.	.	PUNCT	PUNCT	PunctType=Peri	1	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 5 orphan	color:blue
-1	Berasategui	Berasategui	PROPN	PROPN	_	0	root	_	SpaceAfter=No
-2	,	,	PUNCT	PUNCT	PunctType=Comm	3	punct	_	_
-3	Costa	Costa	PROPN	PROPN	_	1	conj	_	_
-4	i	i	CCONJ	CCONJ	_	3	cc	_	_
-5	Martín	Martín	PROPN	PROPN	_	3	orphan	_	SpaceAfter=No
-6	,	,	PUNCT	PUNCT	PunctType=Comm	7	punct	_	_
-7	semifinalistes	semifinalista	NOUN	NOUN	Number=Plur	1	appos	_	_
-8	a	a	ADP	ADP	AdpType=Prep	9	case	_	_
-9	Bucarest	Bucarest	PROPN	PROPN	_	1	nmod	_	SpaceAfter=No
-10	.	.	PUNCT	PUNCT	PunctType=Peri	1	punct	_	_
 
 ~~~
 

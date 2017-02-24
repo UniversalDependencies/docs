@@ -59,7 +59,7 @@ The 10 most frequent relations where parent and child node agree in `Polarity`:
 <tt>SCONJ --[<a href="../dep/fixed.html">fixed</a>]--> CCONJ</tt> (10; 100%),
 <tt>CCONJ --[<a href="../dep/fixed.html">fixed</a>]--> CCONJ</tt> (4; 100%),
 <tt>CCONJ --[<a href="../dep/fixed.html">fixed</a>]--> SCONJ</tt> (2; 100%),
-<tt>SCONJ --[<a href="../dep/cc.html">cc</a>]--> CCONJ</tt> (1; 100%),
 <tt>PART --[<a href="../dep/conj.html">conj</a>]--> PART</tt> (1; 100%),
-<tt>SCONJ --[<a href="../dep/conj.html">conj</a>]--> SCONJ</tt> (1; 100%).
+<tt>SCONJ --[<a href="../dep/conj.html">conj</a>]--> SCONJ</tt> (1; 100%),
+<tt>SCONJ --[<a href="../dep/cc.html">cc</a>]--> CCONJ</tt> (1; 100%).
 

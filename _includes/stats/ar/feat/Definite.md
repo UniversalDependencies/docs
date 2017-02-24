@@ -34,7 +34,7 @@ The most frequent other feature values with which `NOUN` and `Definite` co-occur
   <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Number.html">Number</a>=Dual</tt></td><td>يومين</td><td>اليومين</td><td></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Number.html">Number</a>=Plur</tt></td><td>أيام, ايام</td><td>الايام, الأيام</td><td>أيام</td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Number.html">Number</a>=Sing</tt></td><td>يوم</td><td>اليوم</td><td>يوم</td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Number.html">Number</a>=Plur</tt></td><td></td><td>الأيام, الايام</td><td>أيام</td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Number.html">Number</a>=Plur</tt></td><td></td><td>الايام, الأيام</td><td>أيام</td></tr>
 </table>
 
 ### `ADJ`
@@ -53,11 +53,11 @@ The most frequent other feature values with which `ADJ` and `Definite` co-occurr
 
 <table>
   <tr><th>Paradigm <i>أَوَّل</i></th><th><tt>Ind</tt></th><th><tt>Def</tt></th><th><tt>Com</tt></th><th><tt>Cons</tt></th></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Sing</tt></td><td>أولاً, أول, أولا, اولاً, اولا, اول</td><td>الاول, الأول</td><td></td><td>اول, أول</td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Sing</tt></td><td>أولاً, أول, اول, اولا, أولا, اولاً</td><td>الاول, الأول</td><td></td><td>اول, أول</td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Plur</tt></td><td></td><td></td><td>الأولى</td><td></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Gender.html">Gender</a>=Fem|<a href="Number.html">Number</a>=Sing</tt></td><td></td><td>الأولى, الاولى</td><td></td><td>أولى, اولى</td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Sing</tt></td><td>أول, اول</td><td>الاول, الأول</td><td></td><td>أول, اول</td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Plur</tt></td><td></td><td>الاوائل, الأول</td><td>الأولى</td><td>اوائل, أوائل</td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Plur</tt></td><td></td><td>الأول, الاوائل</td><td>الأولى</td><td>اوائل, أوائل</td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Gender.html">Gender</a>=Fem|<a href="Number.html">Number</a>=Sing</tt></td><td>أولى, اولى</td><td>الاولى, الأولى</td><td></td><td>أولى</td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Gender.html">Gender</a>=Fem|<a href="Number.html">Number</a>=Dual</tt></td><td></td><td>الاوليين</td><td></td><td></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Gender.html">Gender</a>=Fem|<a href="Number.html">Number</a>=Plur</tt></td><td></td><td>الاوليات</td><td></td><td></td></tr>
@@ -270,7 +270,7 @@ The most frequent other feature values with which `ADP` and `Definite` co-occurr
 
 434 [ar-pos/AUX]() tokens (6% of all `AUX` tokens) have a non-empty value of `Definite`.
 
-The most frequent other feature values with which `AUX` and `Definite` co-occurred: <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (434; 100%), <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (434; 100%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (349; 80%), <tt><a href="Number.html">Number</a>=Sing</tt> (306; 71%).
+The most frequent other feature values with which `AUX` and `Definite` co-occurred: <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (434; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (434; 100%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (349; 80%), <tt><a href="Number.html">Number</a>=Sing</tt> (306; 71%).
 
 `AUX` tokens may have the following values of `Definite`:
 
@@ -285,7 +285,7 @@ The most frequent other feature values with which `AUX` and `Definite` co-occurr
 
 341 [ar-pos/VERB]() tokens (1% of all `VERB` tokens) have a non-empty value of `Definite`.
 
-The most frequent other feature values with which `VERB` and `Definite` co-occurred: <tt><a href="Aspect.html">Aspect</a>=EMPTY</tt> (341; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (341; 100%), <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (341; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (312; 91%), <tt><a href="Number.html">Number</a>=Sing</tt> (312; 91%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (258; 76%).
+The most frequent other feature values with which `VERB` and `Definite` co-occurred: <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (341; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (341; 100%), <tt><a href="Aspect.html">Aspect</a>=EMPTY</tt> (341; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (312; 91%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (312; 91%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (258; 76%).
 
 `VERB` tokens may have the following values of `Definite`:
 

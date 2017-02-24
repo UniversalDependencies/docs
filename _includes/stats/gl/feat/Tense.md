@@ -16,7 +16,7 @@ The feature is used with 2 part-of-speech tags: [gl-pos/VERB]() (858; 6% instanc
 
 858 [gl-pos/VERB]() tokens (61% of all `VERB` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (858; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (858; 100%), <tt><a href="Person.html">Person</a>=3</tt> (784; 91%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (780; 91%), <tt><a href="Number.html">Number</a>=Sing</tt> (620; 72%).
+The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (858; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (858; 100%), <tt><a href="Person.html">Person</a>=3</tt> (784; 91%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (780; 91%), <tt><a href="Number.html">Number</a>=Sing</tt> (620; 72%).
 
 `VERB` tokens may have the following values of `Tense`:
 

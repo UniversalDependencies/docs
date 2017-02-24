@@ -63,7 +63,7 @@ The most frequent other feature values with which `AUX` and `Person` co-occurred
   <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Tense.html">Tense</a>=Fut</tt></td><td><em>sarò</em></td><td><em>sarai</em></td><td><em>sarà</em></td></tr>
   <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Tense.html">Tense</a>=Imp</tt></td><td><em>ero</em></td><td></td><td><em>era</em></td></tr>
   <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Tense.html">Tense</a>=Past</tt></td><td><em>Fui</em></td><td></td><td><em>fu</em></td></tr>
-  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Tense.html">Tense</a>=Pres</tt></td><td><em>sono</em></td><td><em>sei</em></td><td><em>è, e', É, E’, sono, E`</em></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Tense.html">Tense</a>=Pres</tt></td><td><em>sono</em></td><td><em>sei</em></td><td><em>è, e', É, E’, E`, sono</em></td></tr>
   <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Plur|<a href="Tense.html">Tense</a>=Fut</tt></td><td><em>saremo</em></td><td></td><td><em>saranno</em></td></tr>
   <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Plur|<a href="Tense.html">Tense</a>=Imp</tt></td><td><em>eravamo</em></td><td></td><td><em>erano</em></td></tr>
   <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Plur|<a href="Tense.html">Tense</a>=Past</tt></td><td></td><td></td><td><em>furono</em></td></tr>
@@ -120,7 +120,7 @@ The feature is used with 3 part-of-speech tags: [it-pos/VERB]() (1396; 3% instan
 
 1396 [it-pos/VERB]() tokens (39% of all `VERB` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (1396; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (1396; 100%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (1276; 91%), <tt><a href="Number.html">Number</a>=Sing</tt> (964; 69%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (946; 68%).
+The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (1396; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (1396; 100%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (1276; 91%), <tt><a href="Number.html">Number</a>=Sing</tt> (964; 69%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (946; 68%).
 
 `VERB` tokens may have the following values of `Person`:
 

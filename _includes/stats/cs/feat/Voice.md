@@ -82,7 +82,7 @@ The feature is used with 3 part-of-speech tags: [cs-pos/VERB]() (31799; 7% insta
 
 31799 [cs-pos/VERB]() tokens (80% of all `VERB` tokens) have a non-empty value of `Voice`.
 
-The most frequent other feature values with which `VERB` and `Voice` co-occurred: <tt><a href="Polarity.html">Polarity</a>=Pos</tt> (29023; 91%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (21430; 67%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (21424; 67%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (21424; 67%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (21343; 67%), <tt><a href="Number.html">Number</a>=Sing</tt> (18350; 58%), <tt><a href="Person.html">Person</a>=3</tt> (18045; 57%).
+The most frequent other feature values with which `VERB` and `Voice` co-occurred: <tt><a href="Polarity.html">Polarity</a>=Pos</tt> (29023; 91%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (21430; 67%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (21424; 67%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (21424; 67%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (21343; 67%), <tt><a href="Number.html">Number</a>=Sing</tt> (18350; 58%), <tt><a href="Person.html">Person</a>=3</tt> (18045; 57%).
 
 `VERB` tokens may have the following values of `Voice`:
 
@@ -148,7 +148,7 @@ The feature is used with 3 part-of-speech tags: [cs-pos/VERB]() (1224; 5% instan
 
 1224 [cs-pos/VERB]() tokens (86% of all `VERB` tokens) have a non-empty value of `Voice`.
 
-The most frequent other feature values with which `VERB` and `Voice` co-occurred: <tt><a href="Polarity.html">Polarity</a>=Pos</tt> (1095; 89%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (966; 79%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (966; 79%), <tt><a href="Person.html">Person</a>=3</tt> (966; 79%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (966; 79%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (965; 79%), <tt><a href="Number.html">Number</a>=Sing</tt> (752; 61%).
+The most frequent other feature values with which `VERB` and `Voice` co-occurred: <tt><a href="Polarity.html">Polarity</a>=Pos</tt> (1095; 89%), <tt><a href="Person.html">Person</a>=3</tt> (966; 79%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (966; 79%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (966; 79%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (966; 79%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (965; 79%), <tt><a href="Number.html">Number</a>=Sing</tt> (752; 61%).
 
 `VERB` tokens may have the following values of `Voice`:
 
@@ -157,22 +157,21 @@ The most frequent other feature values with which `VERB` and `Voice` co-occurred
 * `EMPTY` (204): <em>vést, použít, mít, účtovat, odpisovat, uvést, rozhodnout, sestavit, pokračovat, splňovat</em>
 
 <table>
-  <tr><th>Paradigm <i>účtovat</i></th><th><tt>Act</tt></th><th><tt>Pass</tt></th></tr>
-  <tr><td><tt><a href="Animacy.html">Animacy</a>=Inan|<a href="Gender.html">Gender</a>=Fem,Masc|<a href="Number.html">Number</a>=Plur|<a href="Polarity.html">Polarity</a>=Pos|<a href="VerbForm.html">VerbForm</a>=Part</tt></td><td></td><td><em>účtovány</em></td></tr>
-  <tr><td><tt><a href="Gender.html">Gender</a>=Fem,Neut|<a href="Number.html">Number</a>=Plur,Sing|<a href="Polarity.html">Polarity</a>=Neg|<a href="Tense.html">Tense</a>=Past|<a href="VerbForm.html">VerbForm</a>=Part</tt></td><td><em>neúčtovala</em></td><td></td></tr>
-  <tr><td><tt><a href="Gender.html">Gender</a>=Fem,Neut|<a href="Number.html">Number</a>=Plur,Sing|<a href="Polarity.html">Polarity</a>=Pos|<a href="VerbForm.html">VerbForm</a>=Part</tt></td><td></td><td><em>účtována</em></td></tr>
-  <tr><td><tt><a href="Gender.html">Gender</a>=Neut|<a href="Number.html">Number</a>=Sing|<a href="Polarity.html">Polarity</a>=Pos|<a href="VerbForm.html">VerbForm</a>=Part</tt></td><td></td><td><em>účtováno</em></td></tr>
-  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3|<a href="Polarity.html">Polarity</a>=Neg|<a href="Tense.html">Tense</a>=Pres|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td><em>neúčtuje</em></td><td></td></tr>
-  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3|<a href="Polarity.html">Polarity</a>=Pos|<a href="Tense.html">Tense</a>=Pres|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td><em>účtuje</em></td><td></td></tr>
-  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=3|<a href="Polarity.html">Polarity</a>=Neg|<a href="Tense.html">Tense</a>=Pres|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td><em>neúčtují</em></td><td></td></tr>
-  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=3|<a href="Polarity.html">Polarity</a>=Pos|<a href="Tense.html">Tense</a>=Pres|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td><em>účtují</em></td><td></td></tr>
+  <tr><th>Paradigm <i>uvést</i></th><th><tt>Act</tt></th><th><tt>Pass</tt></th></tr>
+  <tr><td><tt><a href="Animacy.html">Animacy</a>=Inan|<a href="Gender.html">Gender</a>=Fem,Masc|<a href="Number.html">Number</a>=Plur|<a href="Polarity.html">Polarity</a>=Pos|<a href="VerbForm.html">VerbForm</a>=Part</tt></td><td></td><td><em>uvedeny</em></td></tr>
+  <tr><td><tt><a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Sing|<a href="Polarity.html">Polarity</a>=Pos|<a href="VerbForm.html">VerbForm</a>=Part</tt></td><td></td><td><em>uveden</em></td></tr>
+  <tr><td><tt><a href="Gender.html">Gender</a>=Fem,Neut|<a href="Number.html">Number</a>=Plur,Sing|<a href="Polarity.html">Polarity</a>=Pos|<a href="VerbForm.html">VerbForm</a>=Part</tt></td><td></td><td><em>uvedena</em></td></tr>
+  <tr><td><tt><a href="Gender.html">Gender</a>=Neut|<a href="Number.html">Number</a>=Sing|<a href="Polarity.html">Polarity</a>=Pos|<a href="VerbForm.html">VerbForm</a>=Part</tt></td><td></td><td><em>uvedeno</em></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3|<a href="Polarity.html">Polarity</a>=Neg|<a href="Tense.html">Tense</a>=Pres|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td><em>neuvede</em></td><td></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3|<a href="Polarity.html">Polarity</a>=Pos|<a href="Tense.html">Tense</a>=Pres|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td><em>uvede</em></td><td></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=3|<a href="Polarity.html">Polarity</a>=Pos|<a href="Tense.html">Tense</a>=Pres|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td><em>uvedou</em></td><td></td></tr>
 </table>
 
 ### `AUX`
 
 367 [cs-pos/AUX]() tokens (84% of all `AUX` tokens) have a non-empty value of `Voice`.
 
-The most frequent other feature values with which `AUX` and `Voice` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (329; 90%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (329; 90%), <tt><a href="Person.html">Person</a>=3</tt> (329; 90%), <tt><a href="Polarity.html">Polarity</a>=Pos</tt> (320; 87%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (310; 84%), <tt><a href="Number.html">Number</a>=Sing</tt> (187; 51%).
+The most frequent other feature values with which `AUX` and `Voice` co-occurred: <tt><a href="Mood.html">Mood</a>=Ind</tt> (329; 90%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (329; 90%), <tt><a href="Person.html">Person</a>=3</tt> (329; 90%), <tt><a href="Polarity.html">Polarity</a>=Pos</tt> (320; 87%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (310; 84%), <tt><a href="Number.html">Number</a>=Sing</tt> (187; 51%).
 
 `AUX` tokens may have the following values of `Voice`:
 
@@ -183,7 +182,7 @@ The most frequent other feature values with which `AUX` and `Voice` co-occurred:
 
 215 [cs-pos/ADJ]() tokens (5% of all `ADJ` tokens) have a non-empty value of `Voice`.
 
-The most frequent other feature values with which `ADJ` and `Voice` co-occurred: <tt><a href="Degree.html">Degree</a>=EMPTY</tt> (215; 100%), <tt><a href="Polarity.html">Polarity</a>=Pos</tt> (215; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (132; 61%), <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (122; 57%).
+The most frequent other feature values with which `ADJ` and `Voice` co-occurred: <tt><a href="Polarity.html">Polarity</a>=Pos</tt> (215; 100%), <tt><a href="Degree.html">Degree</a>=EMPTY</tt> (215; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (132; 61%), <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (122; 57%).
 
 `ADJ` tokens may have the following values of `Voice`:
 
@@ -198,7 +197,7 @@ The 10 most frequent relations where parent and child node agree in `Voice`:
 <tt>VERB --[<a href="../dep/conj.html">conj</a>]--> VERB</tt> (118; 83%),
 <tt>VERB --[<a href="../dep/advcl.html">advcl</a>]--> VERB</tt> (44; 65%),
 <tt>VERB --[<a href="../dep/parataxis.html">parataxis</a>]--> VERB</tt> (17; 100%),
-<tt>AUX --[<a href="../dep/conj.html">conj</a>]--> VERB</tt> (1; 100%),
 <tt>VERB --[<a href="../dep/appos.html">appos</a>]--> VERB</tt> (1; 100%),
+<tt>AUX --[<a href="../dep/conj.html">conj</a>]--> VERB</tt> (1; 100%),
 <tt>VERB --[<a href="../dep/csubj:pass.html">csubj:pass</a>]--> VERB</tt> (1; 100%).
 

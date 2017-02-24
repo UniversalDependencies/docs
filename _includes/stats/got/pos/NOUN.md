@@ -11,7 +11,7 @@ The 10 most frequent `NOUN` lemmas: <em>guþ, frauja, manna#2, sunus, atta, dags
 
 The 10 most frequent `NOUN` types:  <em>gudis, guþ, guda, frauja, fraujin, sunaus, fraujins, atta, waurd, manna</em>
 
-The 10 most frequent ambiguous lemmas: <em>galaubeins</em> ([NOUN]() 87, [ADJ]() 1), <em>frawaurhts</em> ([NOUN]() 66, [ADJ]() 28), <em>aljan</em> ([NOUN]() 9, [VERB]() 3), <em>weihs</em> ([ADJ]() 67, [NOUN]() 6), <em>swes</em> ([ADJ]() 21, [NOUN]() 3), <em>þaurfts</em> ([ADJ]() 3, [NOUN]() 3), <em>Galeilaius</em> ([NOUN]() 2, [PROPN]() 1), <em>taihswa</em> ([ADJ]() 16, [NOUN]() 2), <em>uswaurhts</em> ([ADJ]() 4, [NOUN]() 2), <em>gaqiss</em> ([NOUN]() 1, [ADJ]() 1)
+The 10 most frequent ambiguous lemmas: <em>galaubeins</em> ([NOUN]() 87, [ADJ]() 1), <em>frawaurhts</em> ([NOUN]() 66, [ADJ]() 28), <em>aljan</em> ([NOUN]() 9, [VERB]() 3), <em>weihs</em> ([ADJ]() 67, [NOUN]() 6), <em>swes</em> ([ADJ]() 21, [NOUN]() 3), <em>þaurfts</em> ([ADJ]() 3, [NOUN]() 3), <em>Galeilaius</em> ([NOUN]() 2, [PROPN]() 1), <em>taihswa</em> ([ADJ]() 16, [NOUN]() 2), <em>uswaurhts</em> ([ADJ]() 4, [NOUN]() 2), <em>gaqiss</em> ([ADJ]() 1, [NOUN]() 1)
 
 The 10 most frequent ambiguous types:  <em>leika</em> ([NOUN]() 65, [VERB]() 1), <em>sunja</em> ([NOUN]() 24, [ADJ]() 2), <em>frawaurhts</em> ([NOUN]() 12, [ADJ]() 3), <em>frijonds</em> ([NOUN]() 12, [VERB]() 2), <em>wiljan</em> ([NOUN]() 10, [VERB]() 1), <em>maht</em> ([NOUN]() 8, [VERB]() 2), <em>giba</em> ([VERB]() 10, [NOUN]() 5), <em>daupjands</em> ([NOUN]() 4, [VERB]() 1), <em>fraweit</em> ([NOUN]() 4, [VERB]() 1), <em>fraþja</em> ([NOUN]() 4, [VERB]() 1)
 

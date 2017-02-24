@@ -11,9 +11,9 @@ The 10 most frequent `INTJ` lemmas: <em>ach, pink, inu, hle, proboha, což, fajn
 
 The 10 most frequent `INTJ` types:  <em>Pink, ach, Inu, hle, proboha, což, fajn, Ó, Běda, Ej</em>
 
-The 10 most frequent ambiguous lemmas: <em>což</em> ([PRON]() 661, [INTJ]() 3, [PART]() 1), <em>běda</em> ([NOUN]() 2, [INTJ]() 2), <em>ej</em> ([NOUN]() 2, [INTJ]() 2), <em>o</em> ([ADP]() 9109, [PUNCT]() 85, [NOUN]() 10, [ADJ]() 3, [INTJ]() 2), <em>ta</em> ([INTJ]() 2, [NOUN]() 1), <em>šup</em> ([INTJ]() 2, [NOUN]() 1), <em>cup</em> ([INTJ]() 1, [PROPN]() 1), <em>hm</em> ([PROPN]() 5, [INTJ]() 1), <em>pánbůh</em> ([NOUN]() 2, [INTJ]() 1)
+The 10 most frequent ambiguous lemmas: <em>což</em> ([PRON]() 661, [INTJ]() 3, [PART]() 1), <em>běda</em> ([INTJ]() 2, [NOUN]() 2), <em>ej</em> ([NOUN]() 2, [INTJ]() 2), <em>o</em> ([ADP]() 9109, [PUNCT]() 85, [NOUN]() 10, [ADJ]() 3, [INTJ]() 2), <em>ta</em> ([INTJ]() 2, [NOUN]() 1), <em>šup</em> ([INTJ]() 2, [NOUN]() 1), <em>cup</em> ([PROPN]() 1, [INTJ]() 1), <em>hm</em> ([PROPN]() 5, [INTJ]() 1), <em>pánbůh</em> ([NOUN]() 2, [INTJ]() 1)
 
-The 10 most frequent ambiguous types:  <em>Pink</em> ([ADJ]() 48, [INTJ]() 6), <em>což</em> ([PRON]() 560, [INTJ]() 2), <em>O</em> ([ADP]() 571, [PROPN]() 58, [NOUN]() 20, [ADJ]() 5, [INTJ]() 2, [PUNCT]() 1), <em>ta</em> ([DET]() 132, [INTJ]() 2, [NOUN]() 1), <em>Pánbůh</em> ([NOUN]() 1, [INTJ]() 1), <em>Ra</em> ([INTJ]() 1, [PROPN]() 1), <em>hm</em> ([PROPN]() 5, [INTJ]() 1)
+The 10 most frequent ambiguous types:  <em>Pink</em> ([ADJ]() 48, [INTJ]() 6), <em>což</em> ([PRON]() 560, [INTJ]() 2), <em>O</em> ([ADP]() 571, [PROPN]() 58, [NOUN]() 20, [ADJ]() 5, [INTJ]() 2, [PUNCT]() 1), <em>ta</em> ([DET]() 132, [INTJ]() 2, [NOUN]() 1), <em>Pánbůh</em> ([INTJ]() 1, [NOUN]() 1), <em>Ra</em> ([PROPN]() 1, [INTJ]() 1), <em>hm</em> ([PROPN]() 5, [INTJ]() 1)
 
 
 * <em>Pink</em>
@@ -34,11 +34,11 @@ The 10 most frequent ambiguous types:  <em>Pink</em> ([ADJ]() 48, [INTJ]() 6), <
   * [INTJ]() 2: <em>Ra - <b>ta</b> - <b>ta</b> .</em>
   * [NOUN]() 1: <em>Peter Honak , profesor historie na Maďarské akademii věd , k 50 . výročí osvobození Maďarska sovětskou armádou * Užívej si všeho , ale po padesátce dávej vale třem " <b>ta</b> " - wanita ( ženy ) , harta ( bohatství ) a tahta ( postavení ) .</em>
 * <em>Pánbůh</em>
-  * [NOUN]() 1: <em>Dokonce i <b>Pánbůh</b> je v nich prezentován jako docela veselý chlapík .</em>
   * [INTJ]() 1: <em>Když to půjde každý rok takhle - <b>Pánbůh</b> zaplať , usmívá se opat Michael Josef Pojezdný .</em>
+  * [NOUN]() 1: <em>Dokonce i <b>Pánbůh</b> je v nich prezentován jako docela veselý chlapík .</em>
 * <em>Ra</em>
-  * [INTJ]() 1: <em><b>Ra</b> - ta - ta .</em>
   * [PROPN]() 1: <em>Zařadil se mezi rozhodující zakladatele Skupiny <b>Ra</b> , která se stala výraznou platformou právě této části jeho výtvarné a literární generace .</em>
+  * [INTJ]() 1: <em><b>Ra</b> - ta - ta .</em>
 * <em>hm</em>
   * [PROPN]() 5: <em>( <b>hm</b> )</em>
   * [INTJ]() 1: <em>Proto spolupracujeme se školským úřadem , školami , učilišti a dalšími organizacemi , uvedl Z . Prouza . ( <b>hm</b> )</em>

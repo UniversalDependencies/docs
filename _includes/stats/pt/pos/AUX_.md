@@ -110,7 +110,7 @@ The 10 most frequent `AUX` types:  <em>foi, ser, foram, é, vai, pode, será, de
 
 The 10 most frequent ambiguous lemmas: <em>_</em> ([NOUN]() 51670, [PUNCT]() 37916, [PROPN]() 29660, [ADP]() 27823, [VERB]() 26752, [DET]() 23518, [ADJ]() 13618, [CCONJ]() 9896, [ADV]() 8825, [NUM]() 7639, [PRON]() 6681, [AUX]() 4729, [PART]() 687, [X]() 472)
 
-The 10 most frequent ambiguous types:  <em>foi</em> ([AUX]() 683, [VERB]() 394, [PROPN]() 1, [PART]() 1), <em>ser</em> ([AUX]() 325, [VERB]() 193, [NOUN]() 7, [PROPN]() 1), <em>foram</em> ([AUX]() 262, [VERB]() 76), <em>é</em> ([VERB]() 1365, [AUX]() 207, [PROPN]() 1, [PART]() 1, [ADV]() 1), <em>vai</em> ([AUX]() 201, [VERB]() 12), <em>pode</em> ([AUX]() 184, [VERB]() 3), <em>será</em> ([AUX]() 148, [VERB]() 115), <em>deve</em> ([AUX]() 145, [VERB]() 6), <em>ter</em> ([AUX]() 114, [VERB]() 103), <em>está</em> ([VERB]() 269, [AUX]() 103)
+The 10 most frequent ambiguous types:  <em>foi</em> ([AUX]() 683, [VERB]() 394, [PROPN]() 1, [PART]() 1), <em>ser</em> ([AUX]() 325, [VERB]() 193, [NOUN]() 7, [PROPN]() 1), <em>foram</em> ([AUX]() 262, [VERB]() 76), <em>é</em> ([VERB]() 1365, [AUX]() 207, [ADV]() 1, [PROPN]() 1, [PART]() 1), <em>vai</em> ([AUX]() 201, [VERB]() 12), <em>pode</em> ([AUX]() 184, [VERB]() 3), <em>será</em> ([AUX]() 148, [VERB]() 115), <em>deve</em> ([AUX]() 145, [VERB]() 6), <em>ter</em> ([AUX]() 114, [VERB]() 103), <em>está</em> ([VERB]() 269, [AUX]() 103)
 
 
 * <em>foi</em>
@@ -129,9 +129,9 @@ The 10 most frequent ambiguous types:  <em>foi</em> ([AUX]() 683, [VERB]() 394, 
 * <em>é</em>
   * [VERB]() 1365: <em>A Nina <b>é</b> a chance de ele ser feliz .</em>
   * [AUX]() 207: <em>A confusão de identidade <b>é</b> levada com destreza por a diretora .</em>
+  * [ADV]() 1: <em>Eu não me detenho muito en as análises a respeito de 2010 porque <b>é</b> muito pouco tempo .</em>
   * [PROPN]() 1: <em>Já o candidato Carlos Amastha ( PP ) , coligação " Um novo caminho <b>é</b> possível " , grava programa eleitoral , faz reunião com coordenadores de campanha e se prepara para o debate .</em>
   * [PART]() 1: <em>Pois <b>é</b> , o ronco de os motores é alto com qualquer tempo .</em>
-  * [ADV]() 1: <em>Eu não me detenho muito en as análises a respeito de 2010 porque <b>é</b> muito pouco tempo .</em>
 * <em>vai</em>
   * [AUX]() 201: <em>Só não informou quando isso <b>vai</b> acontecer .</em>
   * [VERB]() 12: <em>O nosso movimento <b>vai</b> além de quem vai ser o presidente .</em>

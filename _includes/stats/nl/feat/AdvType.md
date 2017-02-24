@@ -16,7 +16,7 @@ The feature is used with 1 part-of-speech tags: [nl-pos/ADV]() (902; 0% instance
 
 902 [nl-pos/ADV]() tokens (7% of all `ADV` tokens) have a non-empty value of `AdvType`.
 
-The most frequent other feature values with which `ADV` and `AdvType` co-occurred: <tt><a href="PartType.html">PartType</a>=EMPTY</tt> (902; 100%), <tt><a href="PronType.html">PronType</a>=EMPTY</tt> (902; 100%), <tt><a href="Degree.html">Degree</a>=EMPTY</tt> (902; 100%).
+The most frequent other feature values with which `ADV` and `AdvType` co-occurred: <tt><a href="Degree.html">Degree</a>=EMPTY</tt> (902; 100%), <tt><a href="PronType.html">PronType</a>=EMPTY</tt> (902; 100%), <tt><a href="PartType.html">PartType</a>=EMPTY</tt> (902; 100%).
 
 `ADV` tokens may have the following values of `AdvType`:
 

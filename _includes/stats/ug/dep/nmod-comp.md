@@ -69,51 +69,38 @@ The following 4 pairs of parts of speech are connected with `nmod:comp`: [ug-pos
 
 
 ~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 4 nmod:comp	color:blue
-1	ھەر	_	PRON	P	_	2	det	_	Translit=her
-2	ئىككىلىمىزنىڭ	_	NOUN	N	_	3	nmod:poss	_	Translit=ikkilimizning
-3	ئۆيى	_	NOUN	N	_	6	nsubj	_	Translit=öyi
-4	شەھەردىن	_	NOUN	N	_	5	nmod:comp	_	Translit=sheherdin
-5	يىراقتىكى	_	ADJ	A	_	6	nmod	_	Translit=yiraqtiki
-6	ناھىيىدە	_	NOUN	N	_	38	parataxis	_	Translit=nahiyide
-7	بولۇپ	_	AUX	V	_	6	cop	_	SpaceAfter=No|Translit=bolup
-8	،	_	PUNCT	Y	_	7	punct	_	Translit=,
-9	ھەر	_	PRON	P	_	10	det	_	Translit=her
-10	ئىككىمىز	_	NUM	M	_	38	nsubj	_	Translit=ikkimiz
-11	ناھىيە	_	NOUN	N	_	12	nmod:poss	_	Translit=nahiye
-12	مەركىزىدىكى	_	NOUN	N	_	16	nmod	_	Translit=merkizidiki
-13	توپا	_	NOUN	N	_	14	obl	_	Translit=topa
-14	تاملىق	_	VERB	V	_	16	amod	_	Translit=tamliq
-15	كونا	_	ADJ	A	_	16	amod	_	Translit=kona
-16	مەكتەپنىڭ	_	NOUN	N	_	37	nmod:poss	_	Translit=mektepning
-17	يۈزلىرى	_	NOUN	N	_	18	nsubj	_	Translit=yüzliri
-18	يېرىق	_	ADJ	A	_	36	amod	_	SpaceAfter=No|Translit=yëriq
-19	،	_	PUNCT	Y	_	18	punct	_	Translit=,
-20	ئادەم	_	NOUN	N	_	21	nsubj	_	Translit=adem
-21	ئولتۇرۇپ	_	VERB	V	_	23	advcl	_	Translit=olturup
-22	بولغىچە	_	NOUN	N	_	21	aux	_	Translit=bolghiche
-23	مىدىرلاپ	_	VERB	V	_	27	advcl	_	Translit=midirlap
-24	يېقىمسىز	_	VERB	V	_	25	amod	_	Translit=yëqimsiz
-25	ئاۋازدا	_	NOUN	N	_	27	obl	_	Translit=awazda
-26	غىچىرلاپ	_	VERB	V	_	27	compound:lvc	_	Translit=ghichirlap
-27	كېتىدىغان	_	VERB	V	_	36	acl	_	SpaceAfter=No|Translit=këtidighan
-28	،	_	PUNCT	Y	_	27	punct	_	Translit=,
-29	جىگەررەڭ	_	ADJ	A	_	30	amod	_	Translit=jigerreng
-30	سىرلىرى	_	NOUN	N	_	32	nsubj	_	Translit=sirliri
-31	ئۆڭۈپ	_	VERB	V	_	32	compound:lvc	_	Translit=öngüp
-32	كەتكەن	_	VERB	V	_	36	acl	_	Translit=ketken
-33	ياغاچ	_	NOUN	N	_	34	nmod:clas	_	Translit=yaghach
-34	پارتا	_	NOUN	N	_	36	compound:redup	_	Translit=parta
-35	-	_	PUNCT	Y	_	34	punct	_	Translit=-
-36	ئورۇندۇقلۇق	_	NOUN	N	_	37	amod	_	Translit=orunduqluq
-37	سىنىپىدىكى	_	NOUN	N	_	38	nmod	_	Translit=sinipidiki
-38	ساۋاقداشلاردىن	_	NOUN	N	_	0	root	_	Translit=sawaqdashlardin
-39	ئىدۇق	_	AUX	V	_	38	cop	_	SpaceAfter=No|Translit=iduq
-40	.	_	PUNCT	Y	_	39	punct	_	Translit=.
+# visual-style 18	bgColor:blue
+# visual-style 18	fgColor:white
+# visual-style 19	bgColor:blue
+# visual-style 19	fgColor:white
+# visual-style 19 18 nmod:comp	color:blue
+1	قەدىرلىك	_	NOUN	N	_	2	amod	_	Translit=qedirlik
+2	لالە	_	NOUN	N	_	26	discourse	_	SpaceAfter=No|Translit=lale
+3	،	_	PUNCT	Y	_	2	punct	_	Translit=,
+4	مەن	_	PRON	P	_	26	nsubj	_	Translit=men
+5	مۇشۇنداق	_	PRON	P	_	7	det	_	Translit=mushundaq
+6	قارا	_	ADJ	A	_	7	amod	_	Translit=qara
+7	قىسمەت	_	NOUN	N	_	8	nmod:poss	_	Translit=qismet
+8	ئىچىدە	_	NOUN	N	_	9	obl	_	Translit=ichide
+9	تۇرۇپ	_	VERB	V	_	26	advcl	_	Translit=turup
+10	ئۆزۈمنىڭ	_	PRON	P	_	25	nmod:poss	_	Translit=özümning
+11	قارا	_	ADJ	A	_	12	amod	_	Translit=qara
+12	پەرىشتىگە	_	NOUN	N	_	18	obl	_	SpaceAfter=No|Translit=perishtige
+13	،	_	PUNCT	Y	_	12	punct	_	Translit=,
+14	ئالۋاستىغا	_	NOUN	N	_	12	conj	_	SpaceAfter=No|Translit=alwastigha
+15	،	_	PUNCT	Y	_	14	punct	_	Translit=,
+16	يالماۋۇزغا	_	NOUN	N	_	12	conj	_	Translit=yalmawuzgha
+17	ئايلىنىپ	_	VERB	V	_	18	compound:lvc	_	Translit=aylinip
+18	كېتىشتىن	_	VERB	V	_	19	nmod:comp	_	Translit=këtishtin
+19	بۇرۇنقى	_	ADJ	A	_	21	amod	_	Translit=burunqi
+20	بۇلاق	_	NOUN	N	_	21	nmod	_	Translit=bulaq
+21	سۈيىدەك	_	NOUN	N	_	24	advmod	_	Translit=süyidek
+22	پاك	_	ADJ	A	_	25	amod	_	Translit=pak
+23	ۋە	_	CCONJ	C	_	24	cc	_	Translit=we
+24	سۈزۈك	_	ADJ	A	_	22	conj	_	Translit=süzük
+25	دەۋرىمنى	_	NOUN	N	_	26	obj	_	Translit=dewrimni
+26	ئەسلەيمەن	_	VERB	V	_	0	root	_	SpaceAfter=No|Translit=esleymen
+27	.	_	PUNCT	Y	_	26	punct	_	Translit=.
 
 ~~~
 

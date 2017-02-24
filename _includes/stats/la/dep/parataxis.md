@@ -190,6 +190,25 @@ The following 17 pairs of parts of speech are connected with `parataxis`: [la-po
 
 
 ~~~ conllu
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 5 parataxis	color:blue
+1	quid	quis	PRON	Pi	Case=Nom|Gender=Neut|Number=Sing|PronType=Int	3	nsubj	_	ref=MATT_9.5
+2	est	sum	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	cop	_	ref=MATT_9.5
+3	facilius	facilis	ADJ	A-	Case=Nom|Degree=Cmp|Gender=Neut|Number=Sing	0	root	_	ref=MATT_9.5
+4	dicere	dico	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	1	acl	_	ref=MATT_9.5
+5	dimittuntur	dimitto	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	3	parataxis	_	ref=MATT_9.5
+6	tibi	tu	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=2|PronType=Prs	5	iobj	_	ref=MATT_9.5
+7	peccata	peccatum	NOUN	Nb	Case=Nom|Gender=Neut|Number=Plur	5	nsubj:pass	_	ref=MATT_9.5
+8	aut	aut	CCONJ	C-	_	4	cc	_	ref=MATT_9.5
+9	dicere	dico	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	4	conj	_	ref=MATT_9.5
+
+~~~
+
+
+~~~ conllu
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 9	bgColor:blue
@@ -205,25 +224,6 @@ The following 17 pairs of parts of speech are connected with `parataxis`: [la-po
 8	est	sum	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	cop	_	ref=MATT_24.26
 9	nolite	nolo	VERB	V-	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=MATT_24.26
 10	exire	exeo	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	9	xcomp	_	ref=MATT_24.26
-
-~~~
-
-
-~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 5 parataxis	color:blue
-1	quid	quis	PRON	Pi	Case=Nom|Gender=Neut|Number=Sing|PronType=Int	3	nsubj	_	ref=MATT_9.5
-2	est	sum	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	cop	_	ref=MATT_9.5
-3	facilius	facilis	ADJ	A-	Case=Nom|Degree=Cmp|Gender=Neut|Number=Sing	0	root	_	ref=MATT_9.5
-4	dicere	dico	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	1	acl	_	ref=MATT_9.5
-5	dimittuntur	dimitto	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	3	parataxis	_	ref=MATT_9.5
-6	tibi	tu	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=2|PronType=Prs	5	iobj	_	ref=MATT_9.5
-7	peccata	peccatum	NOUN	Nb	Case=Nom|Gender=Neut|Number=Plur	5	nsubj:pass	_	ref=MATT_9.5
-8	aut	aut	CCONJ	C-	_	4	cc	_	ref=MATT_9.5
-9	dicere	dico	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	4	conj	_	ref=MATT_9.5
 
 ~~~
 

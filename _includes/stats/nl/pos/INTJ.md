@@ -11,9 +11,9 @@ The 10 most frequent `INTJ` lemmas: <em>nee, ja, Cryptogram, hoor, uh, hè, kijk
 
 The 10 most frequent `INTJ` types:  <em>nee, ja, Cryptogram, hoor, uh, Kijk, Och, Welnu, he, nietwaar</em>
 
-The 10 most frequent ambiguous lemmas: <em>nee</em> ([INTJ]() 21, [X]() 1), <em>ja</em> ([INTJ]() 17, [ADV]() 12), <em>Cryptogram</em> ([INTJ]() 6, [NOUN]() 1), <em>hoor</em> ([VERB]() 72, [INTJ]() 4, [X]() 1, [AUX]() 1), <em>hè</em> ([NOUN]() 3, [INTJ]() 3, [ADJ]() 1), <em>kijk</em> ([VERB]() 51, [AUX]() 2, [INTJ]() 2, [NOUN]() 1), <em>ach</em> ([X]() 1, [INTJ]() 1), <em>zeker</em> ([ADJ]() 66, [PRON]() 11, [INTJ]() 2), <em>Delmee</em> ([PROPN]() 1, [INTJ]() 1), <em>enzovoorts</em> ([ADV]() 2, [INTJ]() 1)
+The 10 most frequent ambiguous lemmas: <em>nee</em> ([INTJ]() 21, [X]() 1), <em>ja</em> ([INTJ]() 17, [ADV]() 12), <em>Cryptogram</em> ([INTJ]() 6, [NOUN]() 1), <em>hoor</em> ([VERB]() 72, [INTJ]() 4, [AUX]() 1, [X]() 1), <em>hè</em> ([NOUN]() 3, [INTJ]() 3, [ADJ]() 1), <em>kijk</em> ([VERB]() 51, [INTJ]() 2, [AUX]() 2, [NOUN]() 1), <em>ach</em> ([X]() 1, [INTJ]() 1), <em>zeker</em> ([ADJ]() 66, [PRON]() 11, [INTJ]() 2), <em>Delmee</em> ([PROPN]() 1, [INTJ]() 1), <em>enzovoorts</em> ([ADV]() 2, [INTJ]() 1)
 
-The 10 most frequent ambiguous types:  <em>nee</em> ([INTJ]() 9, [X]() 1), <em>ja</em> ([ADV]() 12, [INTJ]() 12), <em>Cryptogram</em> ([INTJ]() 6, [NOUN]() 1), <em>hoor</em> ([VERB]() 4, [INTJ]() 4, [X]() 1), <em>Kijk</em> ([VERB]() 7, [INTJ]() 3), <em>Delmee</em> ([PROPN]() 1, [INTJ]() 1), <em>Kortom</em> ([INTJ]() 1, [ADV]() 1), <em>Nou</em> ([NUM]() 3, [INTJ]() 1, [ADV]() 1), <em>O</em> ([CCONJ]() 5, [INTJ]() 1), <em>zeg</em> ([VERB]() 13, [X]() 1, [INTJ]() 1)
+The 10 most frequent ambiguous types:  <em>nee</em> ([INTJ]() 9, [X]() 1), <em>ja</em> ([ADV]() 12, [INTJ]() 12), <em>Cryptogram</em> ([INTJ]() 6, [NOUN]() 1), <em>hoor</em> ([INTJ]() 4, [VERB]() 4, [X]() 1), <em>Kijk</em> ([VERB]() 7, [INTJ]() 3), <em>Delmee</em> ([PROPN]() 1, [INTJ]() 1), <em>Kortom</em> ([INTJ]() 1, [ADV]() 1), <em>Nou</em> ([NUM]() 3, [ADV]() 1, [INTJ]() 1), <em>O</em> ([CCONJ]() 5, [INTJ]() 1), <em>zeg</em> ([VERB]() 13, [INTJ]() 1, [X]() 1)
 
 
 * <em>nee</em>
@@ -26,8 +26,8 @@ The 10 most frequent ambiguous types:  <em>nee</em> ([INTJ]() 9, [X]() 1), <em>j
   * [INTJ]() 6: <em><b>Cryptogram</b> . Welk been snijdt niet goed ?</em>
   * [NOUN]() 1: <em><b>Cryptogram</b> . Moeilijk verpakt ( elf letters ) .</em>
 * <em>hoor</em>
-  * [VERB]() 4: <em>ik <b>hoor</b> haar zingen .</em>
   * [INTJ]() 4: <em>Als je moe bent en je wil naar bed , dan mag je gaan <b>hoor</b></em>
+  * [VERB]() 4: <em>ik <b>hoor</b> haar zingen .</em>
   * [X]() 1: <em>dat kan , ja <b>hoor</b></em>
 * <em>Kijk</em>
   * [VERB]() 7: <em><b>Kijk</b> nou zelf , is het hier dan zo gevaarlijk ?</em>
@@ -40,15 +40,15 @@ The 10 most frequent ambiguous types:  <em>nee</em> ([INTJ]() 9, [X]() 1), <em>j
   * [ADV]() 1: <em><b>Kortom</b> , geweldige boeken !</em>
 * <em>Nou</em>
   * [NUM]() 3: <em><b>Nou</b> ja , je moet maar zeggen hoe je 't vindt .</em>
-  * [INTJ]() 1: <em><b>Nou</b> , zo begint het . "</em>
   * [ADV]() 1: <em>" <b>Nou</b> wordt 't 'n interview .</em>
+  * [INTJ]() 1: <em><b>Nou</b> , zo begint het . "</em>
 * <em>O</em>
   * [CCONJ]() 5: <em>K Z <b>O</b> gaat samen met AKU een combinatie vormen onder naam A K Z <b>O</b> .</em>
   * [INTJ]() 1: <em><b>O</b> , dat maak ik wel even .</em>
 * <em>zeg</em>
   * [VERB]() 13: <em>wat <b>zeg</b> je dat je voor een auto wilt ?</em>
-  * [X]() 1: <em>Van <b>zeg</b> maar eind maart af tot augustus , denk ik , ga ik vooral in de weekeinden veel koersen rijden .</em>
   * [INTJ]() 1: <em>dat is lang geleden , <b>zeg</b></em>
+  * [X]() 1: <em>Van <b>zeg</b> maar eind maart af tot augustus , denk ik , ga ik vooral in de weekeinden veel koersen rijden .</em>
 
 ## Morphology
 
@@ -96,7 +96,7 @@ The 10 most frequent `INTJ` lemmas: <em>ja, he, hiep, neen, rahoe</em>
 
 The 10 most frequent `INTJ` types:  <em>ja, Hiep, he, neen, rahoe</em>
 
-The 10 most frequent ambiguous lemmas: <em>hiep</em> ([INTJ]() 1, [NOUN]() 1)
+The 10 most frequent ambiguous lemmas: <em>hiep</em> ([NOUN]() 1, [INTJ]() 1)
 
 The 10 most frequent ambiguous types:  
 

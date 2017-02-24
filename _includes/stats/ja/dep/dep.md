@@ -75,109 +75,41 @@ The following 7 pairs of parts of speech are connected with `dep`: [ja-pos/VERB]
 
 
 ~~~ conllu
-# visual-style 39	bgColor:blue
-# visual-style 39	fgColor:white
-# visual-style 52	bgColor:blue
-# visual-style 52	fgColor:white
-# visual-style 52 39 dep	color:blue
-1	この	この	ADJ	_	_	2	det	_	SpaceAfter=No
-2	事件	事件	NOUN	_	_	95	obl	_	SpaceAfter=No
-3	について	について	ADP	_	_	2	case	_	SpaceAfter=No
-4	、	、	PUNCT	_	_	2	punct	_	SpaceAfter=No
-5	朝日新聞	朝日新聞	PROPN	_	_	8	nmod	_	SpaceAfter=No
-6	の	の	ADP	_	_	5	case	_	SpaceAfter=No
-7	鵜飼	鵜飼	PROPN	_	_	8	compound	_	SpaceAfter=No
-8	啓	啓	PROPN	_	_	95	nsubj	_	SpaceAfter=No
-9	は	は	ADP	_	_	8	case	_	SpaceAfter=No
-10	、	、	PUNCT	_	_	8	punct	_	SpaceAfter=No
-11	外国人登録証	外国人登録証	NOUN	_	_	14	nmod	_	SpaceAfter=No
-12	の	の	ADP	_	_	11	case	_	SpaceAfter=No
-13	不正	不正	NOUN	_	_	14	compound	_	SpaceAfter=No
-14	更新	更新	NOUN	_	_	16	nmod	_	SpaceAfter=No
-15	による	による	ADP	_	_	14	case	_	SpaceAfter=No
-16	書類送検	書類送検	NOUN	_	_	18	nmod	_	SpaceAfter=No
-17	、	、	PUNCT	_	_	16	punct	_	SpaceAfter=No
-18	書記官	書記官	NOUN	_	_	20	nmod	_	SpaceAfter=No
-19	と	と	ADP	_	_	18	case	_	SpaceAfter=No
-20	軍	軍	NOUN	_	_	23	nmod	_	SpaceAfter=No
-21	と	と	ADP	_	_	20	case	_	SpaceAfter=No
-22	の	の	PART	_	_	20	case	_	SpaceAfter=No
-23	関係	関係	NOUN	_	_	29	nmod	_	SpaceAfter=No
-24	、	、	PUNCT	_	_	23	punct	_	SpaceAfter=No
-25	「	「	PUNCT	_	_	26	punct	_	SpaceAfter=No
-26	おかしな	おかしな	ADJ	_	_	27	amod	_	SpaceAfter=No
-27	金	金	NOUN	_	_	29	nmod	_	SpaceAfter=No
-28	の	の	ADP	_	_	27	case	_	SpaceAfter=No
-29	動き	動き	NOUN	_	_	32	iobj	_	SpaceAfter=No
-30	」	」	PUNCT	_	_	29	compound	_	SpaceAfter=No
-31	に	に	ADP	_	_	29	case	_	SpaceAfter=No
-32	触れ	触れる	VERB	_	_	34	acl	_	SpaceAfter=No
-33	た	た	AUX	_	_	32	aux	_	SpaceAfter=No
-34	上	上	NOUN	_	_	95	obl	_	SpaceAfter=No
-35	で	で	ADP	_	_	34	case	_	SpaceAfter=No
-36	、	、	PUNCT	_	_	34	punct	_	SpaceAfter=No
-37	「	「	PUNCT	_	_	39	punct	_	SpaceAfter=No
-38	だ	だ	AUX	_	_	39	dep	_	SpaceAfter=No
-39	が	が	SCONJ	_	_	52	dep	_	SpaceAfter=No
-40	、	、	PUNCT	_	_	39	punct	_	SpaceAfter=No
-41	違法	違法	ADJ	_	_	44	acl	_	SpaceAfter=No
-42	な	だ	AUX	_	_	41	aux	_	SpaceAfter=No
-43	情報	情報	NOUN	_	_	44	compound	_	SpaceAfter=No
-44	収集	収集	NOUN	_	_	46	nsubj	_	SpaceAfter=No
-45	は	は	ADP	_	_	44	case	_	SpaceAfter=No
-46	確認	確認	VERB	_	_	52	acl	_	SpaceAfter=No
-47	でき	できる	AUX	_	_	46	aux	_	SpaceAfter=No
-48	ず	ない	AUX	_	_	46	aux	_	SpaceAfter=No
-49	、	、	PUNCT	_	_	46	punct	_	SpaceAfter=No
-50	果たして	果たして	ADV	_	_	52	advmod	_	SpaceAfter=No
-51	「	「	PUNCT	_	_	52	punct	_	SpaceAfter=No
-52	スパイ	スパイ	NOUN	_	_	56	obl	_	SpaceAfter=No
-53	」	」	PUNCT	_	_	52	compound	_	SpaceAfter=No
-54	と	と	ADP	_	_	52	case	_	SpaceAfter=No
-55	まで	まで	ADP	_	_	52	case	_	SpaceAfter=No
-56	言える	言える	VERB	_	_	61	acl	_	SpaceAfter=No
-57	の	の	PART	_	_	56	mark	_	SpaceAfter=No
-58	か	か	PART	_	_	56	mark	_	SpaceAfter=No
-59	」	」	PUNCT	_	_	56	compound	_	SpaceAfter=No
-60	と	と	ADP	_	_	56	case	_	SpaceAfter=No
-61	弁じ	弁じる	VERB	_	_	95	acl	_	SpaceAfter=No
-62	、	、	PUNCT	_	_	61	punct	_	SpaceAfter=No
-63	「	「	PUNCT	_	_	64	punct	_	SpaceAfter=No
-64	それ	それ	PRON	_	_	71	obl	_	SpaceAfter=No
-65	で	で	ADP	_	_	64	case	_	SpaceAfter=No
-66	も	も	ADP	_	_	64	case	_	SpaceAfter=No
-67	一部	一部	NOUN	_	_	71	obl	_	SpaceAfter=No
-68	で	で	ADP	_	_	67	case	_	SpaceAfter=No
-69	大々的	大々的	ADJ	_	_	71	acl	_	SpaceAfter=No
-70	に	だ	AUX	_	_	69	aux	_	SpaceAfter=No
-71	報じ	報じる	VERB	_	_	86	acl	_	SpaceAfter=No
-72	られ	られる	AUX	_	_	71	aux	_	SpaceAfter=No
-73	、	、	PUNCT	_	_	71	punct	_	SpaceAfter=No
-74	日本	日本	PROPN	_	_	76	nmod	_	SpaceAfter=No
-75	の	の	ADP	_	_	74	case	_	SpaceAfter=No
-76	政治家	政治家	NOUN	_	_	86	nsubj	_	SpaceAfter=No
-77	は	は	ADP	_	_	76	case	_	SpaceAfter=No
-78	中国	中国	PROPN	_	_	84	nmod	_	SpaceAfter=No
-79	の	の	ADP	_	_	78	case	_	SpaceAfter=No
-80	訪問	訪問	NOUN	_	_	81	compound	_	SpaceAfter=No
-81	団	団	NOUN	_	_	84	nmod	_	SpaceAfter=No
-82	と	と	ADP	_	_	81	case	_	SpaceAfter=No
-83	の	の	PART	_	_	81	case	_	SpaceAfter=No
-84	面会	面会	NOUN	_	_	86	iobj	_	SpaceAfter=No
-85	に	に	ADP	_	_	84	case	_	SpaceAfter=No
-86	及び腰	及び腰	ADJ	_	_	91	acl	_	SpaceAfter=No
-87	に	だ	AUX	_	_	86	aux	_	SpaceAfter=No
-88	なっ	なる	AUX	_	_	86	aux	_	SpaceAfter=No
-89	た	た	AUX	_	_	86	aux	_	SpaceAfter=No
-90	」	」	PUNCT	_	_	86	compound	_	SpaceAfter=No
-91	とそ	とそ	NOUN	_	_	93	nmod	_	SpaceAfter=No
-92	の	の	ADP	_	_	91	case	_	SpaceAfter=No
-93	影響	影響	NOUN	_	_	95	obj	_	SpaceAfter=No
-94	を	を	ADP	_	_	93	case	_	SpaceAfter=No
-95	指摘	指摘	VERB	_	_	0	root	_	SpaceAfter=No
-96	し	する	AUX	_	_	95	aux	_	SpaceAfter=No
-97	た	た	AUX	_	_	95	aux	_	SpaceAfter=No
-98	。	。	PUNCT	_	_	95	punct	_	SpaceAfter=No
+# visual-style 22	bgColor:blue
+# visual-style 22	fgColor:white
+# visual-style 23	bgColor:blue
+# visual-style 23	fgColor:white
+# visual-style 23 22 dep	color:blue
+1	これ	これ	PRON	_	_	26	nsubj	_	SpaceAfter=No
+2	が	が	ADP	_	_	1	case	_	SpaceAfter=No
+3	元	元	ADJ	_	_	4	amod	_	SpaceAfter=No
+4	で	で	CCONJ	_	_	26	advmod	_	SpaceAfter=No
+5	両親	両親	NOUN	_	_	10	nsubj	_	SpaceAfter=No
+6	は	は	ADP	_	_	5	case	_	SpaceAfter=No
+7	解脱	解脱	NOUN	_	_	8	compound	_	SpaceAfter=No
+8	会	会	NOUN	_	_	10	obj	_	SpaceAfter=No
+9	を	を	ADP	_	_	8	case	_	SpaceAfter=No
+10	脱会	脱会	VERB	_	_	26	acl	_	SpaceAfter=No
+11	し	する	AUX	_	_	10	aux	_	SpaceAfter=No
+12	,	,	PUNCT	_	_	10	punct	_	SpaceAfter=No
+13	一	一	NUM	_	NumType=Card	15	nummod	_	SpaceAfter=No
+14	部	部	NOUN	_	_	15	compound	_	SpaceAfter=No
+15	信者	信者	NOUN	_	_	17	obj	_	SpaceAfter=No
+16	を	を	ADP	_	_	15	case	_	SpaceAfter=No
+17	引き連れ	引き連れる	VERB	_	_	26	acl	_	SpaceAfter=No
+18	て	て	SCONJ	_	_	17	mark	_	SpaceAfter=No
+19	“	“	PUNCT	_	_	20	punct	_	SpaceAfter=No
+20	かむ	かむ	VERB	_	_	23	acl	_	SpaceAfter=No
+21	ながら	ながら	SCONJ	_	_	22	dep	_	SpaceAfter=No
+22	の	の	PART	_	_	23	dep	_	SpaceAfter=No
+23	みち	みち	NOUN	_	_	26	obj	_	SpaceAfter=No
+24	”	”	PUNCT	_	_	23	punct	_	SpaceAfter=No
+25	を	を	ADP	_	_	23	case	_	SpaceAfter=No
+26	設立	設立	VERB	_	_	0	root	_	SpaceAfter=No
+27	し	する	AUX	_	_	26	aux	_	SpaceAfter=No
+28	まし	ます	AUX	_	_	26	aux	_	SpaceAfter=No
+29	た	た	AUX	_	_	26	aux	_	SpaceAfter=No
+30	。	。	PUNCT	_	_	26	punct	_	SpaceAfter=No
 
 ~~~
 

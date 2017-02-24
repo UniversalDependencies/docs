@@ -56,7 +56,7 @@ The most frequent other feature values with which `X` and `Definite` co-occurred
 
 506 [nl-pos/ADJ]() tokens (4% of all `ADJ` tokens) have a non-empty value of `Definite`.
 
-The most frequent other feature values with which `ADJ` and `Definite` co-occurred: <tt><a href="Degree.html">Degree</a>=EMPTY</tt> (506; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (506; 100%), <tt><a href="Variant.html">Variant</a>=EMPTY</tt> (506; 100%).
+The most frequent other feature values with which `ADJ` and `Definite` co-occurred: <tt><a href="Variant.html">Variant</a>=EMPTY</tt> (506; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (506; 100%), <tt><a href="Degree.html">Degree</a>=EMPTY</tt> (506; 100%).
 
 `ADJ` tokens may have the following values of `Definite`:
 

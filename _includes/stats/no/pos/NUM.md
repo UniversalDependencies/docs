@@ -13,7 +13,7 @@ The 10 most frequent `NUM` types:  <em>to, tre, fire, eneste, ett, 2, fem, 20, t
 
 The 10 most frequent ambiguous lemmas: <em>to</em> ([NUM]() 312, [X]() 11), <em>tre</em> ([NUM]() 150, [NOUN]() 9, [VERB]() 7), <em>2</em> ([NUM]() 78, [PROPN]() 1), <em>3</em> ([NUM]() 45, [PROPN]() 1), <em>hundre</em> ([NUM]() 15, [NOUN]() 12), <em>null</em> ([NUM]() 10, [NOUN]() 1), <em>tusen</em> ([NOUN]() 24, [NUM]() 10), <em>34</em> ([NUM]() 4, [X]() 1), <em>fire-fem</em> ([NUM]() 3, [DET]() 1), <em>CD</em> ([NOUN]() 3, [NUM]() 2)
 
-The 10 most frequent ambiguous types:  <em>to</em> ([NUM]() 290, [X]() 11), <em>tre</em> ([NUM]() 135, [VERB]() 3, [NOUN]() 2), <em>ett</em> ([NUM]() 79, [X]() 1, [DET]() 1), <em>2</em> ([NUM]() 77, [PROPN]() 1), <em>3</em> ([NUM]() 45, [PROPN]() 1), <em>hundre</em> ([NUM]() 15, [NOUN]() 12), <em>null</em> ([NUM]() 10, [NOUN]() 1), <em>tusen</em> ([NOUN]() 21, [NUM]() 8), <em>34</em> ([NUM]() 4, [X]() 1), <em>fire-fem</em> ([NUM]() 2, [DET]() 1)
+The 10 most frequent ambiguous types:  <em>to</em> ([NUM]() 290, [X]() 11), <em>tre</em> ([NUM]() 135, [VERB]() 3, [NOUN]() 2), <em>ett</em> ([NUM]() 79, [DET]() 1, [X]() 1), <em>2</em> ([NUM]() 77, [PROPN]() 1), <em>3</em> ([NUM]() 45, [PROPN]() 1), <em>hundre</em> ([NUM]() 15, [NOUN]() 12), <em>null</em> ([NUM]() 10, [NOUN]() 1), <em>tusen</em> ([NOUN]() 21, [NUM]() 8), <em>34</em> ([NUM]() 4, [X]() 1), <em>fire-fem</em> ([NUM]() 2, [DET]() 1)
 
 
 * <em>to</em>
@@ -25,8 +25,8 @@ The 10 most frequent ambiguous types:  <em>to</em> ([NUM]() 290, [X]() 11), <em>
   * [NOUN]() 2: <em>Et <b>tre</b> som svaier .</em>
 * <em>ett</em>
   * [NUM]() 79: <em>Før den tid fantes ikke <b>ett</b> museum i verden .</em>
-  * [X]() 1: <em>Jag sitter pa <b>ett</b> café där som heter Luzia .</em>
   * [DET]() 1: <em>Nei , jeg setter meg ned for å skrive <b>ett</b> blogginnlegg om hvorfor jeg ikke skriver kode .</em>
+  * [X]() 1: <em>Jag sitter pa <b>ett</b> café där som heter Luzia .</em>
 * <em>2</em>
   * [NUM]() 77: <em>« Rock Band <b>2</b> » eller « Guitar Hero : World Tour » ?</em>
   * [PROPN]() 1: <em>Mange barn ser også på NRK1 , <b>2</b> og 3 , og der dubber vi ingenting .</em>
@@ -101,9 +101,9 @@ The 10 most frequent `NUM` lemmas: <em>to, tre, fire, ti, fem, 20, 2006, einaste
 
 The 10 most frequent `NUM` types:  <em>to, tre, fire, ti, fem, 20, 2006, einaste, 2005, seks</em>
 
-The 10 most frequent ambiguous lemmas: <em>to</em> ([NUM]() 358, [X]() 7), <em>tre</em> ([NUM]() 137, [VERB]() 7, [NOUN]() 4), <em>fire</em> ([NUM]() 93, [VERB]() 1, [X]() 1), <em>eine</em> ([NUM]() 41, [ADJ]() 1), <em>2</em> ([NUM]() 38, [X]() 1), <em>30</em> ([NUM]() 37, [X]() 1), <em>40</em> ([NUM]() 27, [X]() 1), <em>hundre</em> ([NUM]() 22, [NOUN]() 18), <em>8</em> ([NUM]() 11, [PROPN]() 2), <em>9</em> ([NUM]() 10, [ADJ]() 1)
+The 10 most frequent ambiguous lemmas: <em>to</em> ([NUM]() 358, [X]() 7), <em>tre</em> ([NUM]() 137, [VERB]() 7, [NOUN]() 4), <em>fire</em> ([NUM]() 93, [X]() 1, [VERB]() 1), <em>eine</em> ([NUM]() 41, [ADJ]() 1), <em>2</em> ([NUM]() 38, [X]() 1), <em>30</em> ([NUM]() 37, [X]() 1), <em>40</em> ([NUM]() 27, [X]() 1), <em>hundre</em> ([NUM]() 22, [NOUN]() 18), <em>8</em> ([NUM]() 11, [PROPN]() 2), <em>9</em> ([NUM]() 10, [ADJ]() 1)
 
-The 10 most frequent ambiguous types:  <em>to</em> ([NUM]() 331, [X]() 7), <em>tre</em> ([NUM]() 126, [NOUN]() 3), <em>fire</em> ([NUM]() 88, [X]() 1, [VERB]() 1), <em>2</em> ([NUM]() 38, [X]() 1), <em>30</em> ([NUM]() 37, [X]() 1), <em>åtte</em> ([NUM]() 32, [VERB]() 1), <em>40</em> ([NUM]() 27, [X]() 1), <em>hundre</em> ([NUM]() 22, [NOUN]() 18), <em>somme</em> ([NUM]() 13, [PRON]() 11), <em>8</em> ([NUM]() 11, [PROPN]() 2)
+The 10 most frequent ambiguous types:  <em>to</em> ([NUM]() 331, [X]() 7), <em>tre</em> ([NUM]() 126, [NOUN]() 3), <em>fire</em> ([NUM]() 88, [VERB]() 1, [X]() 1), <em>2</em> ([NUM]() 38, [X]() 1), <em>30</em> ([NUM]() 37, [X]() 1), <em>åtte</em> ([NUM]() 32, [VERB]() 1), <em>40</em> ([NUM]() 27, [X]() 1), <em>hundre</em> ([NUM]() 22, [NOUN]() 18), <em>somme</em> ([NUM]() 13, [PRON]() 11), <em>8</em> ([NUM]() 11, [PROPN]() 2)
 
 
 * <em>to</em>
@@ -114,8 +114,8 @@ The 10 most frequent ambiguous types:  <em>to</em> ([NUM]() 331, [X]() 7), <em>t
   * [NOUN]() 3: <em>Ove Johan Veien ( 63 ) døydde etter fall frå eit <b>tre</b> torsdag ettermiddag .</em>
 * <em>fire</em>
   * [NUM]() 88: <em>Han har skrive <b>fire</b> essaysamlingar og ti romanar .</em>
-  * [X]() 1: <em>Da han var ferdig var det <b>fire</b> av oss som levde . »</em>
   * [VERB]() 1: <em>Jenteskolar tolererer dei ikkje , men folk i landsbyen meinte dette var eit av krava Taliban måtte <b>fire</b> på i ein diskusjon om framtida for landet .</em>
+  * [X]() 1: <em>Da han var ferdig var det <b>fire</b> av oss som levde . »</em>
 * <em>2</em>
   * [NUM]() 38: <em><b>2</b> tomatar</em>
   * [X]() 1: <em>« Små barn som har vært under omsorg i <b>2</b> år , skal som hovedregel bli boende i fosterhjemmet » , står det i rapporten .</em>

@@ -13,7 +13,7 @@ The 10 most frequent `DET` types:  <em>bere, beste, hori, hau, horretan, zer, ba
 
 The 10 most frequent ambiguous lemmas: <em>hori</em> ([DET]() 594, [ADJ]() 7, [NOUN]() 2), <em>bera</em> ([DET]() 466, [NOUN]() 5, [ADJ]() 2), <em>beste</em> ([DET]() 317, [ADV]() 2), <em>hau</em> ([DET]() 286, [NOUN]() 1), <em>guzti</em> ([DET]() 204, [NOUN]() 2), <em>hura</em> ([DET]() 153, [NOUN]() 1), <em>horiek</em> ([DET]() 130, [NOUN]() 1), <em>zer</em> ([DET]() 104, [NOUN]() 9), <em>asko</em> ([DET]() 96, [ADV]() 35), <em>dena</em> ([DET]() 59, [NOUN]() 1)
 
-The 10 most frequent ambiguous types:  <em>beste</em> ([DET]() 207, [ADV]() 1), <em>hori</em> ([DET]() 187, [ADJ]() 1), <em>gehiago</em> ([DET]() 68, [NOUN]() 3, [VERB]() 1), <em>bera</em> ([DET]() 61, [ADJ]() 1), <em>horren</em> ([DET]() 47, [ADV]() 4), <em>asko</em> ([DET]() 56, [ADV]() 32), <em>berak</em> ([DET]() 46, [ADJ]() 1), <em>zein</em> ([CCONJ]() 27, [DET]() 23), <em>ugari</em> ([DET]() 26, [ADJ]() 1, [ADV]() 1), <em>dena</em> ([DET]() 21, [AUX]() 11)
+The 10 most frequent ambiguous types:  <em>beste</em> ([DET]() 207, [ADV]() 1), <em>hori</em> ([DET]() 187, [ADJ]() 1), <em>gehiago</em> ([DET]() 68, [NOUN]() 3, [VERB]() 1), <em>bera</em> ([DET]() 61, [ADJ]() 1), <em>horren</em> ([DET]() 47, [ADV]() 4), <em>asko</em> ([DET]() 56, [ADV]() 32), <em>berak</em> ([DET]() 46, [ADJ]() 1), <em>zein</em> ([CCONJ]() 27, [DET]() 23), <em>ugari</em> ([DET]() 26, [ADV]() 1, [ADJ]() 1), <em>dena</em> ([DET]() 21, [AUX]() 11)
 
 
 * <em>beste</em>
@@ -43,8 +43,8 @@ The 10 most frequent ambiguous types:  <em>beste</em> ([DET]() 207, [ADV]() 1), 
   * [DET]() 23: <em>Horrenbestez , zaila da jakitea <b>zein</b> maila erakutsiko duten .</em>
 * <em>ugari</em>
   * [DET]() 26: <em>Mahaian , nire amaren argazki <b>ugari</b> zeuden .</em>
-  * [ADJ]() 1: <em>Baina izaten da desberdintasun <b>ugari</b> bi materia mota desberdin hauen artean , materia bizidunaren eta materia bizigabearen artean , alegia .</em>
   * [ADV]() 1: <em>Menditsua da eta baso eta larre <b>ugari</b> dago .</em>
+  * [ADJ]() 1: <em>Baina izaten da desberdintasun <b>ugari</b> bi materia mota desberdin hauen artean , materia bizidunaren eta materia bizigabearen artean , alegia .</em>
 * <em>dena</em>
   * [DET]() 21: <em>Oso iluna zegoen <b>dena</b> .</em>
   * [AUX]() 11: <em>Baina Bermeon lortu <b>dena</b> beste inon ez da lortu .</em>

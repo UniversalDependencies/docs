@@ -17,6 +17,28 @@ The following 34 pairs of parts of speech are connected with `neg`: [ko-pos/NOUN
 ~~~ conllu
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 3 neg	color:blue
+1	_	_	NOUN	_	_	3	nsubj	_	_
+2	_	_	PART	_	_	1	case	_	_
+3	_	_	ADJ	_	_	5	neg	_	_
+4	_	_	PART	_	_	3	case	_	_
+5	_	_	NOUN	_	_	7	nsubj	_	_
+6	_	_	PART	_	_	5	case	_	_
+7	_	_	PROPN	_	_	0	root	_	_
+8	_	_	PART	_	_	7	case	_	_
+9	_	_	PART	_	_	7	case	_	_
+10	_	_	PART	_	_	9	case	_	_
+11	_	_	PART	_	_	10	case	_	_
+12	_	_	PUNCT	_	_	11	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 3 neg	color:blue
@@ -49,28 +71,6 @@ The following 34 pairs of parts of speech are connected with `neg`: [ko-pos/NOUN
 27	_	_	PART	_	_	25	case	_	_
 28	_	_	VERB	_	_	0	root	_	_
 29	_	_	PUNCT	_	_	28	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 3 neg	color:blue
-1	_	_	NOUN	_	_	3	nsubj	_	_
-2	_	_	PART	_	_	1	case	_	_
-3	_	_	ADJ	_	_	5	neg	_	_
-4	_	_	PART	_	_	3	case	_	_
-5	_	_	NOUN	_	_	7	nsubj	_	_
-6	_	_	PART	_	_	5	case	_	_
-7	_	_	PROPN	_	_	0	root	_	_
-8	_	_	PART	_	_	7	case	_	_
-9	_	_	PART	_	_	7	case	_	_
-10	_	_	PART	_	_	9	case	_	_
-11	_	_	PART	_	_	10	case	_	_
-12	_	_	PUNCT	_	_	11	punct	_	_
 
 ~~~
 

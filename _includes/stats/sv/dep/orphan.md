@@ -117,32 +117,6 @@ The following 3 pairs of parts of speech are connected with `orphan`: [sv-pos/VE
 
 
 ~~~ conllu
-# visual-style 15	bgColor:blue
-# visual-style 15	fgColor:white
-# visual-style 14	bgColor:blue
-# visual-style 14	fgColor:white
-# visual-style 14 15 orphan	color:blue
-1	"	_	PUNCT	Quote	_	13	punct	_	SpaceAfter=No
-2	och	_	CCONJ	_	_	5	cc	_	_
-3	som	_	SCONJ	_	_	5	mark	_	_
-4	ni	_	PRON	PERS-P2PL-NOM	_	5	nsubj	_	_
-5	förstår	_	VERB	PRES-ACT	_	13	advcl	_	SpaceAfter=No
-6	,	_	PUNCT	Comma	_	5	punct	_	_
-7	kan	_	AUX	PRES-AUX	_	13	aux	_	_
-8	vissa	_	ADJ	POS-PL-IND	_	13	nsubj	_	_
-9	av	_	ADP	_	_	12	case	_	_
-10	de	_	DET	DEM-PL	_	12	det	_	_
-11	här	_	ADV	DEM-PL	_	10	fixed	_	_
-12	giftblandningarna	_	NOUN	PL-DEF-NOM	_	8	nmod	_	_
-13	ge	_	VERB	INF-ACT	_	0	root	_	_
-14	intryck	_	NOUN	IND-NOM	_	13	obj	_	_
-15	av	_	ADP	_	_	14	orphan	_	SpaceAfter=No
-16	"	_	PUNCT	Quote	_	13	punct	_	_
-
-~~~
-
-
-~~~ conllu
 # visual-style 29	bgColor:blue
 # visual-style 29	fgColor:white
 # visual-style 17	bgColor:blue
@@ -178,6 +152,32 @@ The following 3 pairs of parts of speech are connected with `orphan`: [sv-pos/VE
 28	,	_	PUNCT	Comma	_	17	punct	_	_
 29	men	_	CCONJ	_	_	17	orphan	_	SpaceAfter=No
 30	...	_	PUNCT	Dots	_	17	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 15	bgColor:blue
+# visual-style 15	fgColor:white
+# visual-style 14	bgColor:blue
+# visual-style 14	fgColor:white
+# visual-style 14 15 orphan	color:blue
+1	"	_	PUNCT	Quote	_	13	punct	_	SpaceAfter=No
+2	och	_	CCONJ	_	_	5	cc	_	_
+3	som	_	SCONJ	_	_	5	mark	_	_
+4	ni	_	PRON	PERS-P2PL-NOM	_	5	nsubj	_	_
+5	förstår	_	VERB	PRES-ACT	_	13	advcl	_	SpaceAfter=No
+6	,	_	PUNCT	Comma	_	5	punct	_	_
+7	kan	_	AUX	PRES-AUX	_	13	aux	_	_
+8	vissa	_	ADJ	POS-PL-IND	_	13	nsubj	_	_
+9	av	_	ADP	_	_	12	case	_	_
+10	de	_	DET	DEM-PL	_	12	det	_	_
+11	här	_	ADV	DEM-PL	_	10	fixed	_	_
+12	giftblandningarna	_	NOUN	PL-DEF-NOM	_	8	nmod	_	_
+13	ge	_	VERB	INF-ACT	_	0	root	_	_
+14	intryck	_	NOUN	IND-NOM	_	13	obj	_	_
+15	av	_	ADP	_	_	14	orphan	_	SpaceAfter=No
+16	"	_	PUNCT	Quote	_	13	punct	_	_
 
 ~~~
 

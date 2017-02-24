@@ -11,9 +11,9 @@ The 10 most frequent `INTJ` lemmas: <em>ja, nei, jo, å, he-he, piiip, oi, tja, 
 
 The 10 most frequent `INTJ` types:  <em>ja, nei, jo, å, He-he, piiip, Tja, oi, Au, Ha-ha</em>
 
-The 10 most frequent ambiguous lemmas: <em>ja</em> ([INTJ]() 65, [NOUN]() 14), <em>nei</em> ([INTJ]() 57, [NOUN]() 19), <em>jo</em> ([ADV]() 201, [INTJ]() 10), <em>å</em> ([PART]() 3915, [INTJ]() 6, [X]() 1), <em>au</em> ([INTJ]() 2, [X]() 1, [PROPN]() 1), <em>okei</em> ([INTJ]() 2, [ADV]() 1), <em>a</em> ([X]() 7, [NOUN]() 7, [INTJ]() 1)
+The 10 most frequent ambiguous lemmas: <em>ja</em> ([INTJ]() 65, [NOUN]() 14), <em>nei</em> ([INTJ]() 57, [NOUN]() 19), <em>jo</em> ([ADV]() 201, [INTJ]() 10), <em>å</em> ([PART]() 3915, [INTJ]() 6, [X]() 1), <em>au</em> ([INTJ]() 2, [PROPN]() 1, [X]() 1), <em>okei</em> ([INTJ]() 2, [ADV]() 1), <em>a</em> ([NOUN]() 7, [X]() 7, [INTJ]() 1)
 
-The 10 most frequent ambiguous types:  <em>ja</em> ([INTJ]() 22, [NOUN]() 14), <em>nei</em> ([NOUN]() 19, [INTJ]() 7), <em>jo</em> ([ADV]() 195, [INTJ]() 1), <em>å</em> ([PART]() 3860, [CCONJ]() 4, [INTJ]() 1, [X]() 1, [AUX]() 1, [ADP]() 1), <em>a</em> ([X]() 7, [ADJ]() 4, [NOUN]() 2, [INTJ]() 1)
+The 10 most frequent ambiguous types:  <em>ja</em> ([INTJ]() 22, [NOUN]() 14), <em>nei</em> ([NOUN]() 19, [INTJ]() 7), <em>jo</em> ([ADV]() 195, [INTJ]() 1), <em>å</em> ([PART]() 3860, [CCONJ]() 4, [X]() 1, [INTJ]() 1, [AUX]() 1, [ADP]() 1), <em>a</em> ([X]() 7, [ADJ]() 4, [NOUN]() 2, [INTJ]() 1)
 
 
 * <em>ja</em>
@@ -28,8 +28,8 @@ The 10 most frequent ambiguous types:  <em>ja</em> ([INTJ]() 22, [NOUN]() 14), <
 * <em>å</em>
   * [PART]() 3860: <em>Det var grusomt <b>å</b> høre på . »</em>
   * [CCONJ]() 4: <em>De fleste av småpartiene vil samarbeide med Ap , men er ikke enige om hvem andre det er som bør få være med <b>å</b> styre .</em>
-  * [INTJ]() 1: <em>" <b>å</b> ja , det har vært et døende språk i over hundre år .</em>
   * [X]() 1: <em>Itj bruk tid på <b>å</b> ha på dåkk klea , ell bærg brølløpsbildan .</em>
+  * [INTJ]() 1: <em>" <b>å</b> ja , det har vært et døende språk i over hundre år .</em>
   * [AUX]() 1: <em>Og for at også jeg <b>å</b> komme med en bekjennelse :</em>
   * [ADP]() 1: <em>Derfor spør jeg meg selv ; hvis det er lov å betale Ruter penger for å oppfordre offentligheten til å dø av hjerteinfarkt - er det da også OK og dra hjem til de ansatte i Ruter og skyte amfetamin inn <b>å</b> øya på familiene deres ?</em>
 * <em>a</em>
@@ -86,7 +86,7 @@ The 10 most frequent `INTJ` types:  <em>ja, nei, hm, jau, jo, ha, hei, he, tja, 
 
 The 10 most frequent ambiguous lemmas: <em>ja</em> ([INTJ]() 114, [NOUN]() 19), <em>nei</em> ([INTJ]() 42, [NOUN]() 34), <em>jo</em> ([ADV]() 88, [INTJ]() 6, [X]() 1), <em>ha</em> ([AUX]() 2500, [VERB]() 1633, [INTJ]() 4, [ADJ]() 1, [X]() 1), <em>hei</em> ([INTJ]() 4, [NOUN]() 2), <em>skål</em> ([INTJ]() 2, [NOUN]() 1), <em>farvel</em> ([NOUN]() 4, [INTJ]() 1), <em>å</em> ([PART]() 3839, [X]() 10, [INTJ]() 1)
 
-The 10 most frequent ambiguous types:  <em>ja</em> ([INTJ]() 32, [NOUN]() 17), <em>nei</em> ([NOUN]() 33, [INTJ]() 8), <em>jo</em> ([ADV]() 88, [INTJ]() 2, [X]() 1), <em>ha</em> ([VERB]() 310, [AUX]() 187, [INTJ]() 4, [PRON]() 2, [X]() 1), <em>skål</em> ([INTJ]() 2, [NOUN]() 1), <em>mottaksleiaren</em> ([NOUN]() 1, [INTJ]() 1), <em>Å</em> ([PART]() 43, [INTJ]() 1, [PROPN]() 1)
+The 10 most frequent ambiguous types:  <em>ja</em> ([INTJ]() 32, [NOUN]() 17), <em>nei</em> ([NOUN]() 33, [INTJ]() 8), <em>jo</em> ([ADV]() 88, [INTJ]() 2, [X]() 1), <em>ha</em> ([VERB]() 310, [AUX]() 187, [INTJ]() 4, [PRON]() 2, [X]() 1), <em>skål</em> ([INTJ]() 2, [NOUN]() 1), <em>mottaksleiaren</em> ([NOUN]() 1, [INTJ]() 1), <em>Å</em> ([PART]() 43, [PROPN]() 1, [INTJ]() 1)
 
 
 * <em>ja</em>
@@ -113,8 +113,8 @@ The 10 most frequent ambiguous types:  <em>ja</em> ([INTJ]() 32, [NOUN]() 17), <
   * [INTJ]() 1: <em>Påstandane om stor kriminalitet blir også kontant avvist av <b>mottaksleiaren</b> .</em>
 * <em>Å</em>
   * [PART]() 43: <em><b>Å</b> fullføre verket var ein måte å vende attende til livet på .</em>
-  * [INTJ]() 1: <em>- <b>Å</b> ja då .</em>
   * [PROPN]() 1: <em>Ettersom serien blir trykt som to til fire-siders episodar i kvar utgåve av Norsk Barneblad , kan det ( for dei rotete som ikkje investerer i permar å samle blada i ) vere vanskeleg å finne ei heil Annika-historie frå A til <b>Å</b> .</em>
+  * [INTJ]() 1: <em>- <b>Å</b> ja då .</em>
 
 ## Morphology
 

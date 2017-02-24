@@ -54,7 +54,7 @@ The most frequent other feature values with which `DET` and `Number` co-occurred
 
 23476 [fr-pos/VERB]() tokens (77% of all `VERB` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (12563; 54%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (12563; 54%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (12111; 52%), <tt><a href="Tense.html">Tense</a>=Past</tt> (12001; 51%), <tt><a href="Person.html">Person</a>=3</tt> (11952; 51%).
+The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (12563; 54%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (12563; 54%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (12111; 52%), <tt><a href="Tense.html">Tense</a>=Past</tt> (12001; 51%), <tt><a href="Person.html">Person</a>=3</tt> (11952; 51%).
 
 `VERB` tokens may have the following values of `Number`:
 
@@ -97,7 +97,7 @@ The most frequent other feature values with which `ADJ` and `Number` co-occurred
   <tr><th>Paradigm <i>premier</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
   <tr><td><tt>_</tt></td><td><em>Premier</em></td><td></td></tr>
   <tr><td><tt><a href="Gender.html">Gender</a>=Masc</tt></td><td><em>premier, 1er, Ier, 1e, 1</em></td><td><em>premiers</em></td></tr>
-  <tr><td><tt><a href="Gender.html">Gender</a>=Fem</tt></td><td><em>première, 1ère, 1re</em></td><td><em>premières</em></td></tr>
+  <tr><td><tt><a href="Gender.html">Gender</a>=Fem</tt></td><td><em>première, 1re, 1ère</em></td><td><em>premières</em></td></tr>
 </table>
 
 ### `AUX`
@@ -147,7 +147,7 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
 <table>
   <tr><th>Paradigm <i>il</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
   <tr><td><tt><a href="Gender.html">Gender</a>=Masc|<a href="Person.html">Person</a>=2</tt></td><td><em>-Tu</em></td><td></td></tr>
-  <tr><td><tt><a href="Gender.html">Gender</a>=Masc|<a href="Person.html">Person</a>=3</tt></td><td><em>il, -il, Lui, t-il</em></td><td><em>ils, -ils</em></td></tr>
+  <tr><td><tt><a href="Gender.html">Gender</a>=Masc|<a href="Person.html">Person</a>=3</tt></td><td><em>il, -il, t-il, Lui</em></td><td><em>ils, -ils</em></td></tr>
   <tr><td><tt><a href="Gender.html">Gender</a>=Masc</tt></td><td><em>﻿Lui</em></td><td></td></tr>
   <tr><td><tt><a href="Gender.html">Gender</a>=Fem|<a href="Person.html">Person</a>=3</tt></td><td><em>-elle, elle</em></td><td><em>elles, -elles</em></td></tr>
   <tr><td><tt><a href="Person.html">Person</a>=1</tt></td><td><em>je</em></td><td></td></tr>
@@ -408,7 +408,7 @@ The most frequent other feature values with which `DET` and `Number` co-occurred
 
 3320 [fr-pos/VERB]() tokens (70% of all `VERB` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (2711; 82%), <tt><a href="Tense.html">Tense</a>=Past</tt> (1841; 55%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (1769; 53%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (1769; 53%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (1769; 53%).
+The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (2711; 82%), <tt><a href="Tense.html">Tense</a>=Past</tt> (1841; 55%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (1769; 53%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (1769; 53%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (1769; 53%).
 
 `VERB` tokens may have the following values of `Number`:
 

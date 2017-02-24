@@ -32,7 +32,7 @@ The most frequent other feature values with which `VERB` and `Tense` co-occurred
   <tr><td><tt><a href="Aspect.html">Aspect</a>=Imp|<a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=2|<a href="VerbForm.html">VerbForm</a>=Fin|<a href="VerbType.html">VerbType</a>=Mod</tt></td><td><em>hebt, heb</em></td><td></td></tr>
   <tr><td><tt><a href="Aspect.html">Aspect</a>=Imp|<a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3|<a href="Subcat.html">Subcat</a>=Tran|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td><em>heeft, heb'</em></td><td></td></tr>
   <tr><td><tt><a href="Aspect.html">Aspect</a>=Imp|<a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3|<a href="VerbForm.html">VerbForm</a>=Fin|<a href="VerbType.html">VerbType</a>=Mod</tt></td><td><em>heeft</em></td><td></td></tr>
-  <tr><td><tt><a href="Aspect.html">Aspect</a>=Imp|<a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Subcat.html">Subcat</a>=Intr|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td></td><td><em>plaatshad, hebbe</em></td></tr>
+  <tr><td><tt><a href="Aspect.html">Aspect</a>=Imp|<a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Subcat.html">Subcat</a>=Intr|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td></td><td><em>hebbe, plaatshad</em></td></tr>
   <tr><td><tt><a href="Aspect.html">Aspect</a>=Imp|<a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Subcat.html">Subcat</a>=Tran|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td></td><td><em>had</em></td></tr>
   <tr><td><tt><a href="Aspect.html">Aspect</a>=Imp|<a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="VerbForm.html">VerbForm</a>=Fin|<a href="VerbType.html">VerbType</a>=Mod</tt></td><td></td><td><em>had</em></td></tr>
   <tr><td><tt><a href="Aspect.html">Aspect</a>=Imp|<a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Plur|<a href="Subcat.html">Subcat</a>=Tran|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td><em>hebben</em></td><td><em>hadden</em></td></tr>
@@ -71,7 +71,7 @@ The most frequent other feature values with which `AUX` and `Tense` co-occurred:
   <tr><td><tt><a href="Aspect.html">Aspect</a>=Imp|<a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Plur|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td><em>zijn</em></td><td><em>waren</em></td></tr>
   <tr><td><tt><a href="Aspect.html">Aspect</a>=Imp|<a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Plur|<a href="VerbForm.html">VerbForm</a>=Fin|<a href="VerbType.html">VerbType</a>=Aux,Cop</tt></td><td><em>zijn</em></td><td><em>waren</em></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="VerbForm.html">VerbForm</a>=Part</tt></td><td><em>zijnde</em></td><td></td></tr>
-  <tr><td><tt><a href="Subcat.html">Subcat</a>=Intr|<a href="VerbForm.html">VerbForm</a>=Part</tt></td><td></td><td><em>geweest, weggeweest</em></td></tr>
+  <tr><td><tt><a href="Subcat.html">Subcat</a>=Intr|<a href="VerbForm.html">VerbForm</a>=Part</tt></td><td></td><td><em>weggeweest, geweest</em></td></tr>
   <tr><td><tt><a href="VerbForm.html">VerbForm</a>=Part</tt></td><td></td><td><em>geweest</em></td></tr>
   <tr><td><tt><a href="VerbForm.html">VerbForm</a>=Part|<a href="VerbType.html">VerbType</a>=Aux,Cop</tt></td><td></td><td><em>geweest</em></td></tr>
 </table>

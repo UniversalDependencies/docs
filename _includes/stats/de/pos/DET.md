@@ -13,7 +13,7 @@ The 10 most frequent `DET` types:  <em>der, die, dem, den, das, des, eine, ein, 
 
 The 10 most frequent ambiguous lemmas: <em>der</em> ([DET]() 28357, [PRON]() 2024), <em>ein</em> ([DET]() 5030, [PRON]() 173, [ADV]() 137, [NUM]() 71, [NOUN]() 5, [PROPN]() 4), <em>sein</em> ([VERB]() 4049, [DET]() 1264, [AUX]() 738, [PRON]() 102, [PROPN]() 14, [NOUN]() 7), <em>ihr</em> ([DET]() 509, [PRON]() 149, [ADJ]() 1), <em>Ihr|ihr</em> ([DET]() 49, [PRON]() 13), <em>dies</em> ([PRON]() 1222, [DET]() 11, [PROPN]() 1), <em>jen</em> ([PRON]() 19, [DET]() 10, [ADJ]() 2, [NOUN]() 1), <em>mein</em> ([PRON]() 155, [DET]() 10, [PROPN]() 5, [NOUN]() 1), <em>unser</em> ([PRON]() 100, [DET]() 7, [PROPN]() 3), <em>alle</em> ([PRON]() 418, [DET]() 4, [ADJ]() 3, [ADV]() 2, [PROPN]() 1, [NOUN]() 1)
 
-The 10 most frequent ambiguous types:  <em>der</em> ([DET]() 8051, [PRON]() 471, [PROPN]() 99), <em>die</em> ([DET]() 4843, [PRON]() 912, [PROPN]() 11, [X]() 1), <em>dem</em> ([DET]() 5687, [PRON]() 155, [PROPN]() 8, [X]() 1), <em>den</em> ([DET]() 2617, [PRON]() 43, [PROPN]() 10, [AUX]() 1, [SCONJ]() 1), <em>das</em> ([DET]() 1578, [PRON]() 261, [SCONJ]() 12, [PROPN]() 3), <em>des</em> ([DET]() 1999, [PROPN]() 42, [PRON]() 1), <em>eine</em> ([DET]() 1450, [PRON]() 35, [NUM]() 14, [NOUN]() 1, [PROPN]() 1), <em>ein</em> ([DET]() 1307, [ADV]() 137, [NUM]() 27, [NOUN]() 2, [PROPN]() 1, [PRON]() 1), <em>einer</em> ([DET]() 650, [PRON]() 50, [NUM]() 11), <em>einem</em> ([DET]() 546, [PRON]() 22, [NUM]() 9)
+The 10 most frequent ambiguous types:  <em>der</em> ([DET]() 8051, [PRON]() 471, [PROPN]() 99), <em>die</em> ([DET]() 4843, [PRON]() 912, [PROPN]() 11, [X]() 1), <em>dem</em> ([DET]() 5687, [PRON]() 155, [PROPN]() 8, [X]() 1), <em>den</em> ([DET]() 2617, [PRON]() 43, [PROPN]() 10, [SCONJ]() 1, [AUX]() 1), <em>das</em> ([DET]() 1578, [PRON]() 261, [SCONJ]() 12, [PROPN]() 3), <em>des</em> ([DET]() 1999, [PROPN]() 42, [PRON]() 1), <em>eine</em> ([DET]() 1450, [PRON]() 35, [NUM]() 14, [PROPN]() 1, [NOUN]() 1), <em>ein</em> ([DET]() 1307, [ADV]() 137, [NUM]() 27, [NOUN]() 2, [PROPN]() 1, [PRON]() 1), <em>einer</em> ([DET]() 650, [PRON]() 50, [NUM]() 11), <em>einem</em> ([DET]() 546, [PRON]() 22, [NUM]() 9)
 
 
 * <em>der</em>
@@ -34,8 +34,8 @@ The 10 most frequent ambiguous types:  <em>der</em> ([DET]() 8051, [PRON]() 471,
   * [DET]() 2617: <em>Nach einem viertel Jahr hielt ich ein duftendes Wunder in <b>den</b> Händen .</em>
   * [PRON]() 43: <em>Ist einer der besten Restaurationsbetriebe <b>den</b> ich finden konnte .</em>
   * [PROPN]() 10: <em>Kliers bekanntestes Werk ist die Monographie " Volkstümliche Musikinstrumente in <b>den</b> Alpen " , Kassel 1956 .</em>
-  * [AUX]() 1: <em>Die großen Ist - Wert - Anzeigen wer - <b>den</b> durch eine Balkenanzeige unterstützt , die zusätzlich farblich das Erreichen des Toleranzfensters anzeigt .</em>
   * [SCONJ]() 1: <em>Ich gehe nicht gerne zu dem Zahnarzt , <b>den</b> ich weiß vorher schon , daß es weh tut .</em>
+  * [AUX]() 1: <em>Die großen Ist - Wert - Anzeigen wer - <b>den</b> durch eine Balkenanzeige unterstützt , die zusätzlich farblich das Erreichen des Toleranzfensters anzeigt .</em>
 * <em>das</em>
   * [DET]() 1578: <em>Für <b>das</b> Geld eine einzige Enttäuschung -- nie wieder !</em>
   * [PRON]() 261: <em>Wahrscheinlich waren <b>das</b> die besten Arbeitsjahre überhaupt .</em>
@@ -49,8 +49,8 @@ The 10 most frequent ambiguous types:  <em>der</em> ([DET]() 8051, [PRON]() 471,
   * [DET]() 1450: <em>Für das Geld <b>eine</b> einzige Enttäuschung -- nie wieder !</em>
   * [PRON]() 35: <em>Noch <b>eine</b> von den gemütlichen Tavernen in Oostende sehr zu empfehlen .</em>
   * [NUM]() 14: <em>Der Reaktor muß für etwa <b>eine</b> Woche abgestellt werden .</em>
-  * [NOUN]() 1: <em>Sie ist heute noch <b>eine</b> der 10 von der Stadt Memmingen verwalteten Stiftungen und widmet sich vor allem der ambulanten Krankenpflege über die Evangelische Diakoniestiftung .</em>
   * [PROPN]() 1: <em>In dem Jahr 2008 hat der Kongress eine neue Städtecharta , die Europäische Städtecharta II - Manifest für <b>eine</b> neue Urbanität , vorgelegt .</em>
+  * [NOUN]() 1: <em>Sie ist heute noch <b>eine</b> der 10 von der Stadt Memmingen verwalteten Stiftungen und widmet sich vor allem der ambulanten Krankenpflege über die Evangelische Diakoniestiftung .</em>
 * <em>ein</em>
   * [DET]() 1307: <em>Manasse ist <b>ein</b> einzigartiger Parfümeur .</em>
   * [ADV]() 137: <em>Die Großbauern streichen viel <b>ein</b> , die kleinen bekommen wenig .</em>

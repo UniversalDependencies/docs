@@ -16,7 +16,7 @@ The feature is used with 2 part-of-speech tags: [da-pos/VERB]() (7429; 8% instan
 
 7429 [da-pos/VERB]() tokens (77% of all `VERB` tokens) have a non-empty value of `Voice`.
 
-The most frequent other feature values with which `VERB` and `Voice` co-occurred: <tt><a href="Number.html">Number</a>=EMPTY</tt> (7429; 100%), <tt><a href="Definite.html">Definite</a>=EMPTY</tt> (7429; 100%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (5028; 68%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (5028; 68%).
+The most frequent other feature values with which `VERB` and `Voice` co-occurred: <tt><a href="Number.html">Number</a>=EMPTY</tt> (7429; 100%), <tt><a href="Definite.html">Definite</a>=EMPTY</tt> (7429; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (5028; 68%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (5028; 68%).
 
 `VERB` tokens may have the following values of `Voice`:
 
@@ -35,7 +35,7 @@ The most frequent other feature values with which `VERB` and `Voice` co-occurred
 
 4248 [da-pos/AUX]() tokens (96% of all `AUX` tokens) have a non-empty value of `Voice`.
 
-The most frequent other feature values with which `AUX` and `Voice` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (3952; 93%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (3952; 93%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (3011; 71%).
+The most frequent other feature values with which `AUX` and `Voice` co-occurred: <tt><a href="Mood.html">Mood</a>=Ind</tt> (3952; 93%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (3952; 93%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (3011; 71%).
 
 `AUX` tokens may have the following values of `Voice`:
 
@@ -54,5 +54,5 @@ The 10 most frequent relations where parent and child node agree in `Voice`:
 <tt>VERB --[<a href="../dep/dep.html">dep</a>]--> VERB</tt> (16; 76%),
 <tt>VERB --[<a href="../dep/mark.html">mark</a>]--> VERB</tt> (13; 59%),
 <tt>AUX --[<a href="../dep/xcomp.html">xcomp</a>]--> VERB</tt> (7; 88%),
-<tt>VERB --[<a href="../dep/reparandum.html">reparandum</a>]--> VERB</tt> (1; 100%).
+<tt>VERB --[<a href="../dep/obl:loc.html">obl:loc</a>]--> VERB</tt> (1; 100%).
 

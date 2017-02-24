@@ -16,7 +16,7 @@ The feature is used with 3 part-of-speech tags: [be-pos/VERB]() (253; 4% instanc
 
 253 [be-pos/VERB]() tokens (35% of all `VERB` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (253; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (253; 100%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (246; 97%), <tt><a href="Aspect.html">Aspect</a>=Imp</tt> (204; 81%), <tt><a href="Voice.html">Voice</a>=Act</tt> (200; 79%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (199; 79%), <tt><a href="Number.html">Number</a>=Sing</tt> (165; 65%).
+The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (253; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (253; 100%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (246; 97%), <tt><a href="Aspect.html">Aspect</a>=Imp</tt> (204; 81%), <tt><a href="Voice.html">Voice</a>=Act</tt> (200; 79%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (199; 79%), <tt><a href="Number.html">Number</a>=Sing</tt> (165; 65%).
 
 `VERB` tokens may have the following values of `Person`:
 
@@ -50,7 +50,7 @@ The most frequent other feature values with which `PRON` and `Person` co-occurre
 
 23 [be-pos/AUX]() tokens (68% of all `AUX` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `AUX` and `Person` co-occurred: <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (23; 100%), <tt><a href="Aspect.html">Aspect</a>=Perf</tt> (23; 100%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (23; 100%), <tt><a href="Voice.html">Voice</a>=Act</tt> (23; 100%), <tt><a href="Tense.html">Tense</a>=Fut</tt> (23; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (23; 100%), <tt><a href="Number.html">Number</a>=Plur</tt> (12; 52%).
+The most frequent other feature values with which `AUX` and `Person` co-occurred: <tt><a href="Aspect.html">Aspect</a>=Perf</tt> (23; 100%), <tt><a href="Voice.html">Voice</a>=Act</tt> (23; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (23; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (23; 100%), <tt><a href="Tense.html">Tense</a>=Fut</tt> (23; 100%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (23; 100%), <tt><a href="Number.html">Number</a>=Plur</tt> (12; 52%).
 
 `AUX` tokens may have the following values of `Person`:
 

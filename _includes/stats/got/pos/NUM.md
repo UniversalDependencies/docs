@@ -13,15 +13,15 @@ The 10 most frequent `NUM` types:  <em>ains, ain, ainamma, ainana, aina, twaim, 
 
 The 10 most frequent ambiguous lemmas: 
 
-The 10 most frequent ambiguous types:  <em>·r·</em> ([NUM]() 2, [ADJ]() 1), <em>hundam</em> ([NUM]() 1, [NOUN]() 1), <em>·b·</em> ([ADJ]() 3, [NUM]() 1)
+The 10 most frequent ambiguous types:  <em>·r·</em> ([NUM]() 2, [ADJ]() 1), <em>hundam</em> ([NOUN]() 1, [NUM]() 1), <em>·b·</em> ([ADJ]() 3, [NUM]() 1)
 
 
 * <em>·r·</em>
   * [NUM]() 2: <em>jah sum gadraus in airþa goda jah gaf akran urrinnando jah wahsjando jah bar ain ·l· jah ain ·j· jah ain <b>·r·</b> jah qaþ</em>
   * [ADJ]() 1: <em>ni ƕashun ist saei aflailoti gard aiþþau broþruns aiþþau swistruns aiþþau aiþein aiþþau attan aiþþau qen aiþþau barna aiþþau haimoþlja in meina jah in þizos aiwaggeljons saei ni andnimai <b>·r·</b> falþ nu in þamma mela gardins jah broþruns jah swistruns jah attan jah aiþein jah barna jah haimoþlja miþ wrakom jah in aiwa þamma anawairþin libain aiweinon</em>
 * <em>hundam</em>
-  * [NUM]() 1: <em>twaim <b>hundam</b> skatte hlaibos ni ganohai sind þaim þei nimai ƕarjizuh leitil</em>
   * [NOUN]() 1: <em>þaþroh gasaiƕans ist managizam þau fimf <b>hundam</b> broþre suns þizeei þai managistans sind und hita sumai þ þan gasaizlepun</em>
+  * [NUM]() 1: <em>twaim <b>hundam</b> skatte hlaibos ni ganohai sind þaim þei nimai ƕarjizuh leitil</em>
 * <em>·b·</em>
   * [ADJ]() 3: <em>du Kaurinþium <b>·b·</b> ustauh</em>
   * [NUM]() 1: <em>ist magula ains her saei habaiþ ·e· hlaibans barizeinans jah <b>·b·</b> fiskans</em>

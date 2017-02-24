@@ -36,6 +36,25 @@ The following 19 pairs of parts of speech are connected with `acl`: [grc-pos/NOU
 
 
 ~~~ conllu
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 8 acl	color:blue
+1	τὸ	ὁ	DET	l-s---nn-	Case=Nom|Gender=Neut|Number=Sing	3	det	_	_
+2	δὲ	δέ	ADV	d--------	_	6	advmod	_	_
+3	ὕψος	ὕψος	NOUN	n-s---nn-	Case=Nom|Gender=Neut|Number=Sing	6	nsubj	_	_
+4	ἥμισυ	ἥμισυς	ADJ	a-s---nn-	Case=Nom|Gender=Neut|Number=Sing	3	xcomp	_	_
+5	μάλιστα	μάλιστα	ADV	d--------	_	6	advmod	_	_
+6	ἐτελέσθη	τελέω	VERB	v3saip---	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	_
+7	οὗ	ὅς	PRON	p-s---ng-	Case=Gen|Gender=Neut|Number=Sing	8	obj	_	_
+8	διενοεῖτο	διανοέομαι	VERB	v3siie---	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Mid	4	acl	_	SpaceAfter=No
+9	.	.	PUNCT	u--------	_	6	punct	_	_
+
+~~~
+
+
+~~~ conllu
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 8	bgColor:blue
@@ -51,25 +70,6 @@ The following 19 pairs of parts of speech are connected with `acl`: [grc-pos/NOU
 8	τοῦτον	οὗτος	PRON	p-s---ma-	Case=Acc|Gender=Masc|Number=Sing	9	obj	_	_
 9	ἀνηγόρευον	ἀναγορεύω	VERB	v3piia---	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
 10	.	.	PUNCT	u--------	_	9	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 8 acl	color:blue
-1	τὸ	ὁ	DET	l-s---nn-	Case=Nom|Gender=Neut|Number=Sing	3	det	_	_
-2	δὲ	δέ	ADV	d--------	_	6	advmod	_	_
-3	ὕψος	ὕψος	NOUN	n-s---nn-	Case=Nom|Gender=Neut|Number=Sing	6	nsubj	_	_
-4	ἥμισυ	ἥμισυς	ADJ	a-s---nn-	Case=Nom|Gender=Neut|Number=Sing	3	xcomp	_	_
-5	μάλιστα	μάλιστα	ADV	d--------	_	6	advmod	_	_
-6	ἐτελέσθη	τελέω	VERB	v3saip---	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	_
-7	οὗ	ὅς	PRON	p-s---ng-	Case=Gen|Gender=Neut|Number=Sing	8	obj	_	_
-8	διενοεῖτο	διανοέομαι	VERB	v3siie---	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Mid	4	acl	_	SpaceAfter=No
-9	.	.	PUNCT	u--------	_	6	punct	_	_
 
 ~~~
 

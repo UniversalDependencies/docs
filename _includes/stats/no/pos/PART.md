@@ -11,16 +11,16 @@ The 10 most frequent `PART` lemmas: <em>å, og</em>
 
 The 10 most frequent `PART` types:  <em>å, og</em>
 
-The 10 most frequent ambiguous lemmas: <em>å</em> ([PART]() 3915, [INTJ]() 6, [X]() 1), <em>og</em> ([CCONJ]() 7255, [X]() 2, [ADV]() 1, [PART]() 1)
+The 10 most frequent ambiguous lemmas: <em>å</em> ([PART]() 3915, [INTJ]() 6, [X]() 1), <em>og</em> ([CCONJ]() 7255, [X]() 2, [PART]() 1, [ADV]() 1)
 
-The 10 most frequent ambiguous types:  <em>å</em> ([PART]() 3860, [CCONJ]() 4, [INTJ]() 1, [X]() 1, [AUX]() 1, [ADP]() 1), <em>og</em> ([CCONJ]() 6886, [PART]() 5, [X]() 2, [ADV]() 1, [ADP]() 1)
+The 10 most frequent ambiguous types:  <em>å</em> ([PART]() 3860, [CCONJ]() 4, [X]() 1, [INTJ]() 1, [AUX]() 1, [ADP]() 1), <em>og</em> ([CCONJ]() 6886, [PART]() 5, [X]() 2, [ADV]() 1, [ADP]() 1)
 
 
 * <em>å</em>
   * [PART]() 3860: <em>Det var grusomt <b>å</b> høre på . »</em>
   * [CCONJ]() 4: <em>De fleste av småpartiene vil samarbeide med Ap , men er ikke enige om hvem andre det er som bør få være med <b>å</b> styre .</em>
-  * [INTJ]() 1: <em>" <b>å</b> ja , det har vært et døende språk i over hundre år .</em>
   * [X]() 1: <em>Itj bruk tid på <b>å</b> ha på dåkk klea , ell bærg brølløpsbildan .</em>
+  * [INTJ]() 1: <em>" <b>å</b> ja , det har vært et døende språk i over hundre år .</em>
   * [AUX]() 1: <em>Og for at også jeg <b>å</b> komme med en bekjennelse :</em>
   * [ADP]() 1: <em>Derfor spør jeg meg selv ; hvis det er lov å betale Ruter penger for å oppfordre offentligheten til å dø av hjerteinfarkt - er det da også OK og dra hjem til de ansatte i Ruter og skyte amfetamin inn <b>å</b> øya på familiene deres ?</em>
 * <em>og</em>

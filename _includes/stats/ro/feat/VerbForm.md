@@ -68,7 +68,7 @@ The most frequent other feature values with which `AUX` and `VerbForm` co-occurr
   <tr><th>Paradigm <i>fi</i></th><th><tt>Fin</tt></th><th><tt>Inf</tt></th><th><tt>Part</tt></th><th><tt>Ger</tt></th></tr>
   <tr><td><tt>_</tt></td><td></td><td></td><td></td><td><em>fiind, nefiind</em></td></tr>
   <tr><td><tt><a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Sing</tt></td><td></td><td></td><td><em>fost</em></td><td></td></tr>
-  <tr><td><tt><a href="Mood.html">Mood</a>=Imp|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=2</tt></td><td><em>fi, fii</em></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Imp|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=2</tt></td><td><em>fii, fi</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=1|<a href="Tense.html">Tense</a>=Pres</tt></td><td><em>sunt</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=2|<a href="Tense.html">Tense</a>=Imp</tt></td><td><em>erai</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=2|<a href="Tense.html">Tense</a>=Pres</tt></td><td><em>ești</em></td><td></td><td></td><td></td></tr>

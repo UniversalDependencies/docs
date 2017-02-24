@@ -11,7 +11,7 @@ The 10 most frequent `PUNCT` lemmas: <em>,, ., ", (, ), -, :, ;, ?, ¿</em>
 
 The 10 most frequent `PUNCT` types:  <em>,, ., ", (, ), -, :, ;, ?, ¿</em>
 
-The 10 most frequent ambiguous lemmas: <em>'</em> ([SYM]() 3337, [PUNCT]() 25), <em>etcètera</em> ([PUNCT]() 20, [NOUN]() 1), <em>_</em> ([NOUN]() 5, [VERB]() 2, [PROPN]() 2, [PUNCT]() 2, [ADP]() 2, [DET]() 1, [PRON]() 1)
+The 10 most frequent ambiguous lemmas: <em>'</em> ([SYM]() 3337, [PUNCT]() 25), <em>etcètera</em> ([PUNCT]() 20, [NOUN]() 1), <em>_</em> ([NOUN]() 5, [PUNCT]() 2, [VERB]() 2, [PROPN]() 2, [ADP]() 2, [DET]() 1, [PRON]() 1)
 
 The 10 most frequent ambiguous types:  <em>'</em> ([SYM]() 3337, [PUNCT]() 26), <em>etcètera</em> ([PUNCT]() 7, [NOUN]() 1)
 

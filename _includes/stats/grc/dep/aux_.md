@@ -54,19 +54,39 @@ The following 5 pairs of parts of speech are connected with `aux`: [grc-pos/VERB
 
 
 ~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 7 2 aux	color:blue
-1	οὐ	οὐ	ADV	d--------	_	4	advmod	_	_
-2	γὰρ	γάρ	ADV	d--------	_	7	aux	_	_
-3	ὦν	οὖν	ADV	d--------	_	7	aux	_	_
-4	αἰεί	ἀεί	ADV	d--------	_	7	advmod	_	_
-5	ἐστι	εἰμί	VERB	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	cop	_	_
-6	χρηστήριον	χρηστήριον	NOUN	n-s---nn-	Case=Nom|Gender=Neut|Number=Sing	7	nsubj	_	_
-7	αὐτόθι	αὐτόθι	ADV	d--------	_	0	root	_	SpaceAfter=No
-8	·	·	PUNCT	u--------	_	7	punct	_	_
+# visual-style 18	bgColor:blue
+# visual-style 18	fgColor:white
+# visual-style 15	bgColor:blue
+# visual-style 15	fgColor:white
+# visual-style 15 18 aux	color:blue
+1	τὸ	ὁ	DET	l-s---nn-	Case=Nom|Gender=Neut|Number=Sing	3	det	_	_
+2	δὲ	δέ	ADV	d--------	_	13	aux	_	_
+3	ἄστυ	ἄστυ	NOUN	n-s---nn-	Case=Nom|Gender=Neut|Number=Sing	13	nsubj	_	_
+4	αὐτό	αὐτός	ADJ	a-s---nn-	Case=Nom|Gender=Neut|Number=Sing	3	nmod	_	SpaceAfter=No
+5	,	,	PUNCT	u--------	_	7	punct	_	_
+6	ἐὸν	εἰμί	VERB	v-sppann-	Case=Nom|Gender=Neut|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	7	cop	_	_
+7	πλῆρες	πλήρης	ADJ	a-s---nn-	Case=Nom|Gender=Neut|Number=Sing	13	advcl	_	_
+8	οἰκιέων	οἰκία	NOUN	n-p---fg-	Case=Gen|Gender=Fem|Number=Plur	7	nmod	_	_
+9	τριωρόφων	τριώροφος	ADJ	a-p---fg-	Case=Gen|Gender=Fem|Number=Plur	8	amod	_	_
+10	καὶ	καί	CCONJ	c--------	_	9	cc	_	_
+11	τετρωρόφων	τετρώροφος	ADJ	a-p---fg-	Case=Gen|Gender=Fem|Number=Plur	9	conj	_	SpaceAfter=No
+12	,	,	PUNCT	u--------	_	7	punct	_	_
+13	κατατέτμηται	κατατέμνω	VERB	v3srie---	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	_
+14	τὰς	ὁ	DET	l-p---fa-	Case=Acc|Gender=Fem|Number=Plur	15	det	_	_
+15	ὁδοὺς	ὁδός	NOUN	n-p---fa-	Case=Acc|Gender=Fem|Number=Plur	13	obj	_	_
+16	ἰθέας	ἰθύς	ADJ	a-p---fa-	Case=Acc|Gender=Fem|Number=Plur	15	nmod	_	_
+17	τάς	ὁ	DET	l-p---fa-	Case=Acc|Gender=Fem|Number=Plur	15	det	_	_
+18	τε	τε	ADV	d--------	_	15	aux	_	_
+19	ἄλλας	ἄλλος	ADJ	a-p---fa-	Case=Acc|Gender=Fem|Number=Plur	15	nmod	_	_
+20	καὶ	καί	CCONJ	c--------	_	15	cc	_	_
+21	τὰς	ὁ	DET	l-p---fa-	Case=Acc|Gender=Fem|Number=Plur	22	det	_	_
+22	ἐπικαρσίας	ἐπικάρσιος	ADJ	a-p---fa-	Case=Acc|Gender=Fem|Number=Plur	27	obj	_	_
+23	τὰς	ὁ	DET	l-p---fa-	Case=Acc|Gender=Fem|Number=Plur	22	det	_	_
+24	ἐπὶ	ἐπί	ADP	r--------	_	26	case	_	_
+25	τὸν	ὁ	DET	l-s---ma-	Case=Acc|Gender=Masc|Number=Sing	26	det	_	_
+26	ποταμὸν	ποταμός	NOUN	n-s---ma-	Case=Acc|Gender=Masc|Number=Sing	22	nmod	_	_
+27	ἐχούσας	ἔχω	VERB	v-pppafa-	Case=Acc|Gender=Fem|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	15	conj	_	SpaceAfter=No
+28	.	.	PUNCT	u--------	_	13	punct	_	_
 
 ~~~
 

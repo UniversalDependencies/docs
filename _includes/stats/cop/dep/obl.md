@@ -9,7 +9,7 @@ This relation is universal.
 679 nodes (8%) are attached to their parents as `obl`.
 
 644 instances of `obl` (95%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.02356406480118.
+Average distance between parent and child is 4.02503681885125.
 
 The following 6 pairs of parts of speech are connected with `obl`: [cop-pos/VERB]()-[cop-pos/NOUN]() (369; 54% instances), [cop-pos/VERB]()-[cop-pos/PRON]() (247; 36% instances), [cop-pos/VERB]()-[cop-pos/DET]() (27; 4% instances), [cop-pos/VERB]()-[cop-pos/PROPN]() (23; 3% instances), [cop-pos/VERB]()-[cop-pos/VERB]() (8; 1% instances), [cop-pos/VERB]()-[cop-pos/NUM]() (5; 1% instances).
 

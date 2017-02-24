@@ -41,7 +41,7 @@ The most frequent other feature values with which `AUX` and `VerbType` co-occurr
 
 21 [nl-pos/X]() tokens (0% of all `X` tokens) have a non-empty value of `VerbType`.
 
-The most frequent other feature values with which `X` and `VerbType` co-occurred: <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (21; 100%), <tt><a href="Degree.html">Degree</a>=EMPTY</tt> (21; 100%), <tt><a href="Definite.html">Definite</a>=EMPTY</tt> (18; 86%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (18; 86%).
+The most frequent other feature values with which `X` and `VerbType` co-occurred: <tt><a href="Degree.html">Degree</a>=EMPTY</tt> (21; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (21; 100%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (18; 86%), <tt><a href="Definite.html">Definite</a>=EMPTY</tt> (18; 86%).
 
 `X` tokens may have the following values of `VerbType`:
 
@@ -52,9 +52,9 @@ The most frequent other feature values with which `X` and `VerbType` co-occurred
 
 The 10 most frequent relations where parent and child node agree in `VerbType`:
 <tt>X --[<a href="../dep/mark.html">mark</a>]--> X</tt> (5; 100%),
-<tt>AUX --[<a href="../dep/xcomp.html">xcomp</a>]--> AUX</tt> (5; 83%),
 <tt>X --[<a href="../dep/compound.html">compound</a>]--> X</tt> (5; 100%),
-<tt>AUX --[<a href="../dep/conj.html">conj</a>]--> AUX</tt> (2; 100%),
+<tt>AUX --[<a href="../dep/xcomp.html">xcomp</a>]--> AUX</tt> (5; 83%),
+<tt>AUX --[<a href="../dep/ccomp.html">ccomp</a>]--> AUX</tt> (2; 67%),
 <tt>AUX --[<a href="../dep/parataxis.html">parataxis</a>]--> AUX</tt> (2; 100%),
-<tt>AUX --[<a href="../dep/ccomp.html">ccomp</a>]--> AUX</tt> (2; 67%).
+<tt>AUX --[<a href="../dep/conj.html">conj</a>]--> AUX</tt> (2; 100%).
 

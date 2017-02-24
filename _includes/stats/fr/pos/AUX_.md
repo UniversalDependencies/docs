@@ -13,7 +13,7 @@ The 10 most frequent `AUX` types:  <em>est, a, sont, été, ont, était, fut, ê
 
 The 10 most frequent ambiguous lemmas: <em>être</em> ([AUX]() 8903, [VERB]() 525, [NOUN]() 9), <em>avoir</em> ([AUX]() 3243, [VERB]() 856, [NOUN]() 1), <em>pouvoir</em> ([AUX]() 657, [NOUN]() 88, [VERB]() 11), <em>devoir</em> ([AUX]() 307, [VERB]() 50, [NOUN]() 9), <em>aller</em> ([VERB]() 125, [AUX]() 119, [NOUN]() 2), <em>falloir</em> ([AUX]() 78, [VERB]() 38), <em>vouloir</em> ([AUX]() 71, [VERB]() 40, [NOUN]() 1), <em>sembler</em> ([VERB]() 53, [AUX]() 33), <em>souhaiter</em> ([VERB]() 26, [AUX]() 15), <em>venir</em> ([VERB]() 148, [AUX]() 15)
 
-The 10 most frequent ambiguous types:  <em>est</em> ([AUX]() 4957, [VERB]() 205, [NOUN]() 44, [ADJ]() 3, [CCONJ]() 1, [X]() 1), <em>a</em> ([AUX]() 1772, [VERB]() 354, [ADP]() 22, [X]() 4, [DET]() 4, [NOUN]() 1, [PROPN]() 1), <em>sont</em> ([AUX]() 1112, [VERB]() 49, [DET]() 1), <em>été</em> ([AUX]() 803, [NOUN]() 50, [VERB]() 30), <em>ont</em> ([AUX]() 534, [VERB]() 112), <em>était</em> ([AUX]() 461, [VERB]() 50), <em>fut</em> ([AUX]() 381, [VERB]() 26), <em>être</em> ([AUX]() 375, [VERB]() 35, [NOUN]() 6), <em>peut</em> ([AUX]() 266, [VERB]() 4), <em>avait</em> ([AUX]() 207, [VERB]() 66)
+The 10 most frequent ambiguous types:  <em>est</em> ([AUX]() 4957, [VERB]() 205, [NOUN]() 44, [ADJ]() 3, [X]() 1, [CCONJ]() 1), <em>a</em> ([AUX]() 1772, [VERB]() 354, [ADP]() 22, [DET]() 4, [X]() 4, [PROPN]() 1, [NOUN]() 1), <em>sont</em> ([AUX]() 1112, [VERB]() 49, [DET]() 1), <em>été</em> ([AUX]() 803, [NOUN]() 50, [VERB]() 30), <em>ont</em> ([AUX]() 534, [VERB]() 112), <em>était</em> ([AUX]() 461, [VERB]() 50), <em>fut</em> ([AUX]() 381, [VERB]() 26), <em>être</em> ([AUX]() 375, [VERB]() 35, [NOUN]() 6), <em>peut</em> ([AUX]() 266, [VERB]() 4), <em>avait</em> ([AUX]() 207, [VERB]() 66)
 
 
 * <em>est</em>
@@ -21,16 +21,16 @@ The 10 most frequent ambiguous types:  <em>est</em> ([AUX]() 4957, [VERB]() 205,
   * [VERB]() 205: <em>Elle fonce et c' <b>est</b> cette audace qui est récompensée .</em>
   * [NOUN]() 44: <em>Elles sont situées à l' <b>est</b> de la République serbe de Bosnie .</em>
   * [ADJ]() 3: <em>Environ 84 autres sont encerclés sur la partie <b>est</b> de l' île , capturés et jugés .</em>
-  * [CCONJ]() 1: <em>De ce château , il ne reste actuellement que des restes passifs : quelques communs et une annexe : la Jardinnerie et la Serrurerie et le Mardelin , des aqueducs souterrains , des caves , ses trois sources , son réservoir inférieur , ses fossés , <b>est</b> bien sûr ses bois de le parc ... Victor Petit .</em>
   * [X]() 1: <em>Créé en 1964 par Pierre Billon , Sifca <b>est</b> est alors le premier groupe privé Ivoirien .</em>
+  * [CCONJ]() 1: <em>De ce château , il ne reste actuellement que des restes passifs : quelques communs et une annexe : la Jardinnerie et la Serrurerie et le Mardelin , des aqueducs souterrains , des caves , ses trois sources , son réservoir inférieur , ses fossés , <b>est</b> bien sûr ses bois de le parc ... Victor Petit .</em>
 * <em>a</em>
   * [AUX]() 1772: <em>Le gardien algérien <b>a</b> lui aussi laissé filer le ballon dans ses buts .</em>
   * [VERB]() 354: <em>Elle <b>a</b> le statut de ville depuis 1957 .</em>
   * [ADP]() 22: <em>Emily Hirst est née <b>a</b> Vancouver à le Canada .</em>
-  * [X]() 4: <em>On peut modifier <b>a</b> posteriori la couleur et le nom d' un objet , mais ceci se fait avec une boîte de dialogue modale qui cache la figure .</em>
   * [DET]() 4: <em>En anglais elle porte d' ailleurs le nom de sail of <b>a</b> lugger , ou lugsail , c'est-à-dire voile de lougre .</em>
-  * [NOUN]() 1: <em>Ce toponyme suggère le nom d' un homme germain , Alaman , marquant une origine ethnique , à lequel a été ajouté le suffixe -onem , le <b>a</b> initial pris pour la préposition à ayant disparu par aphérèse .</em>
+  * [X]() 4: <em>On peut modifier <b>a</b> posteriori la couleur et le nom d' un objet , mais ceci se fait avec une boîte de dialogue modale qui cache la figure .</em>
   * [PROPN]() 1: <em>San Felice <b>a</b> Cancello est une commune italienne de la province de Caserte dans la région Campanie en Italie .</em>
+  * [NOUN]() 1: <em>Ce toponyme suggère le nom d' un homme germain , Alaman , marquant une origine ethnique , à lequel a été ajouté le suffixe -onem , le <b>a</b> initial pris pour la préposition à ayant disparu par aphérèse .</em>
 * <em>sont</em>
   * [AUX]() 1112: <em>Equipiers et adversaires <b>sont</b> sur la même longueur d' ondes .</em>
   * [VERB]() 49: <em>Les experts <b>sont</b> unanimes pour dater ce manuscrit de le VIe siècle .</em>
@@ -205,7 +205,7 @@ The 10 most frequent `AUX` types:  <em>est, a, été, ont, être, sont, était, 
 
 The 10 most frequent ambiguous lemmas: <em>être</em> ([AUX]() 1233, [VERB]() 48, [NOUN]() 2), <em>avoir</em> ([AUX]() 715, [VERB]() 155, [NOUN]() 1), <em>pouvoir</em> ([AUX]() 118, [VERB]() 32, [NOUN]() 10), <em>devoir</em> ([AUX]() 98, [VERB]() 85, [NOUN]() 3), <em>vouloir</em> ([AUX]() 47, [VERB]() 5), <em>rester</em> ([AUX]() 14, [VERB]() 10), <em>devenir</em> ([AUX]() 12, [VERB]() 1), <em>souhaiter</em> ([AUX]() 11, [VERB]() 8), <em>appeler</em> ([AUX]() 10, [VERB]() 8), <em>sembler</em> ([AUX]() 10, [VERB]() 8)
 
-The 10 most frequent ambiguous types:  <em>est</em> ([AUX]() 460, [VERB]() 24), <em>a</em> ([AUX]() 301, [VERB]() 44, [X]() 3, [ADP]() 1), <em>été</em> ([AUX]() 222, [VERB]() 2, [NOUN]() 1), <em>ont</em> ([AUX]() 184, [VERB]() 9), <em>être</em> ([AUX]() 141, [VERB]() 2, [NOUN]() 2), <em>sont</em> ([AUX]() 134, [VERB]() 5), <em>avait</em> ([AUX]() 45, [VERB]() 9), <em>avoir</em> ([AUX]() 33, [VERB]() 17), <em>peut</em> ([AUX]() 33, [VERB]() 15), <em>sera</em> ([AUX]() 30, [VERB]() 1)
+The 10 most frequent ambiguous types:  <em>est</em> ([AUX]() 460, [VERB]() 24), <em>a</em> ([AUX]() 301, [VERB]() 44, [X]() 3, [ADP]() 1), <em>été</em> ([AUX]() 222, [VERB]() 2, [NOUN]() 1), <em>ont</em> ([AUX]() 184, [VERB]() 9), <em>être</em> ([AUX]() 141, [NOUN]() 2, [VERB]() 2), <em>sont</em> ([AUX]() 134, [VERB]() 5), <em>avait</em> ([AUX]() 45, [VERB]() 9), <em>avoir</em> ([AUX]() 33, [VERB]() 17), <em>peut</em> ([AUX]() 33, [VERB]() 15), <em>sera</em> ([AUX]() 30, [VERB]() 1)
 
 
 * <em>est</em>
@@ -225,8 +225,8 @@ The 10 most frequent ambiguous types:  <em>est</em> ([AUX]() 460, [VERB]() 24), 
   * [VERB]() 9: <em>Les parties <b>ont</b> vingt jours pour demander des actes supplémentaires .</em>
 * <em>être</em>
   * [AUX]() 141: <em>De plus , une mise à jour de le PGR devra <b>être</b> soumise :</em>
-  * [VERB]() 2: <em>Mais dans le secteur de le Pré L' Evêque et les prés avoisinants , la glace est encore bien présente et risque d' <b>être</b> encore là pendant plusieurs jours .</em>
   * [NOUN]() 2: <em>Le risque potentiel sur l' <b>être</b> humain n' est pas connu .</em>
+  * [VERB]() 2: <em>Mais dans le secteur de le Pré L' Evêque et les prés avoisinants , la glace est encore bien présente et risque d' <b>être</b> encore là pendant plusieurs jours .</em>
 * <em>sont</em>
   * [AUX]() 134: <em>Quelles <b>sont</b> les informations à connaître avant d' utiliser Angiox 3 .</em>
   * [VERB]() 5: <em>Je sais où ils <b>sont</b> : dans une prison serbe , sans aucune raison !</em>

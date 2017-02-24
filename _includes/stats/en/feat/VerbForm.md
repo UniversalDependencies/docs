@@ -61,7 +61,7 @@ The most frequent other feature values with which `AUX` and `VerbForm` co-occurr
   <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Pres</tt></td><td><em>is, 's, s, ’s, ai</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Tense.html">Tense</a>=Past</tt></td><td><em>was</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Tense.html">Tense</a>=Past</tt></td><td><em>were</em></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Tense.html">Tense</a>=Pres</tt></td><td><em>are, 'm, 're, m, r, re, is, ’m, ai</em></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Tense.html">Tense</a>=Pres</tt></td><td><em>are, 'm, 're, m, r, re, ai, ’m, is</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><a href="Tense.html">Tense</a>=Past</tt></td><td></td><td></td><td><em>been</em></td><td></td></tr>
 </table>
 
@@ -74,10 +74,10 @@ The 10 most frequent relations where parent and child node agree in `VerbForm`:
 <tt>VERB --[<a href="../dep/list.html">list</a>]--> VERB</tt> (5; 63%),
 <tt>VERB --[<a href="../dep/ccomp.html">ccomp</a>]--> AUX</tt> (4; 57%),
 <tt>VERB --[<a href="../dep/amod.html">amod</a>]--> VERB</tt> (3; 100%),
-<tt>AUX --[<a href="../dep/parataxis.html">parataxis</a>]--> VERB</tt> (2; 100%),
 <tt>AUX --[<a href="../dep/cop.html">cop</a>]--> AUX</tt> (2; 100%),
-<tt>AUX --[<a href="../dep/conj.html">conj</a>]--> AUX</tt> (1; 100%),
-<tt>VERB --[<a href="../dep/compound:prt.html">compound:prt</a>]--> VERB</tt> (1; 100%).
+<tt>AUX --[<a href="../dep/parataxis.html">parataxis</a>]--> VERB</tt> (2; 100%),
+<tt>AUX --[<a href="../dep/aux:pass.html">aux:pass</a>]--> AUX</tt> (1; 100%),
+<tt>AUX --[<a href="../dep/conj.html">conj</a>]--> AUX</tt> (1; 100%).
 
 
 

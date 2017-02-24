@@ -16,25 +16,6 @@ The following 3 pairs of parts of speech are connected with `csubj`: [uk-pos/ADV
 
 
 ~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 8 4 csubj	color:blue
-1	Виявилося	виявитися	VERB	Vmeis-sn	Aspect=Perf|Gender=Neut|Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
-2	,	,	PUNCT	U	_	8	punct	_	_
-3	що	що	SCONJ	Css	_	8	mark	_	_
-4	попити	попити	VERB	Vmen	Aspect=Perf|VerbForm=Inf	8	csubj	_	_
-5	спокійно	спокійно	ADV	Rp	Degree=Pos	4	advmod	_	_
-6	тут	тут	ADV	Pd------r	PronType=Dem	4	advmod	_	_
-7	дуже	дуже	ADV	Rp	Degree=Pos	8	advmod	_	_
-8	важко	важко	ADV	Rp	Degree=Pos	1	csubj	_	SpaceAfter=No
-9	.	.	PUNCT	U	_	1	punct	_	_
-
-~~~
-
-
-~~~ conllu
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
 # visual-style 1	bgColor:blue
@@ -77,6 +58,25 @@ The following 3 pairs of parts of speech are connected with `csubj`: [uk-pos/ADV
 16	кола	коло	NOUN	Ncnpan	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	14	obj	_	_
 17	пекла	пекло	NOUN	Ncnsgn	Animacy=Inan|Case=Gen|Gender=Neut	16	nmod	_	SpaceAfter=No
 18	.	.	PUNCT	U	_	3	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 8 4 csubj	color:blue
+1	Виявилося	виявитися	VERB	Vmeis-sn	Aspect=Perf|Gender=Neut|Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
+2	,	,	PUNCT	U	_	8	punct	_	_
+3	що	що	SCONJ	Css	_	8	mark	_	_
+4	попити	попити	VERB	Vmen	Aspect=Perf|VerbForm=Inf	8	csubj	_	_
+5	спокійно	спокійно	ADV	Rp	Degree=Pos	4	advmod	_	_
+6	тут	тут	ADV	Pd------r	PronType=Dem	4	advmod	_	_
+7	дуже	дуже	ADV	Rp	Degree=Pos	8	advmod	_	_
+8	важко	важко	ADV	Rp	Degree=Pos	1	csubj	_	SpaceAfter=No
+9	.	.	PUNCT	U	_	1	punct	_	_
 
 ~~~
 

@@ -70,7 +70,7 @@ The most frequent other feature values with which `ADJ` and `Aspect` co-occurred
 
 157 [cs-pos/AUX]() tokens (0% of all `AUX` tokens) have a non-empty value of `Aspect`.
 
-The most frequent other feature values with which `AUX` and `Aspect` co-occurred: <tt><a href="Voice.html">Voice</a>=Act</tt> (157; 100%), <tt><a href="Polarity.html">Polarity</a>=Pos</tt> (141; 90%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (130; 83%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (126; 80%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (122; 78%), <tt><a href="Person.html">Person</a>=3</tt> (122; 78%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (122; 78%), <tt><a href="Number.html">Number</a>=Sing</tt> (103; 66%).
+The most frequent other feature values with which `AUX` and `Aspect` co-occurred: <tt><a href="Voice.html">Voice</a>=Act</tt> (157; 100%), <tt><a href="Polarity.html">Polarity</a>=Pos</tt> (141; 90%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (130; 83%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (126; 80%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (122; 78%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (122; 78%), <tt><a href="Person.html">Person</a>=3</tt> (122; 78%), <tt><a href="Number.html">Number</a>=Sing</tt> (103; 66%).
 
 `AUX` tokens may have the following values of `Aspect`:
 
@@ -81,7 +81,7 @@ The most frequent other feature values with which `AUX` and `Aspect` co-occurred
 
 2 [cs-pos/NOUN]() tokens (0% of all `NOUN` tokens) have a non-empty value of `Aspect`.
 
-The most frequent other feature values with which `NOUN` and `Aspect` co-occurred: <tt><a href="Gender.html">Gender</a>=Neut</tt> (2; 100%), <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (2; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (2; 100%), <tt><a href="Polarity.html">Polarity</a>=Pos</tt> (2; 100%).
+The most frequent other feature values with which `NOUN` and `Aspect` co-occurred: <tt><a href="Gender.html">Gender</a>=Neut</tt> (2; 100%), <tt><a href="Polarity.html">Polarity</a>=Pos</tt> (2; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (2; 100%), <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (2; 100%).
 
 `NOUN` tokens may have the following values of `Aspect`:
 
@@ -92,7 +92,7 @@ The most frequent other feature values with which `NOUN` and `Aspect` co-occurre
 
 1 [cs-pos/ADP]() tokens (0% of all `ADP` tokens) have a non-empty value of `Aspect`.
 
-The most frequent other feature values with which `ADP` and `Aspect` co-occurred: <tt><a href="AdpType.html">AdpType</a>=Comprep</tt> (1; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (1; 100%).
+The most frequent other feature values with which `ADP` and `Aspect` co-occurred: <tt><a href="Case.html">Case</a>=EMPTY</tt> (1; 100%), <tt><a href="AdpType.html">AdpType</a>=Comprep</tt> (1; 100%).
 
 `ADP` tokens may have the following values of `Aspect`:
 
@@ -151,7 +151,7 @@ The most frequent other feature values with which `ADJ` and `Aspect` co-occurred
 
 89 [cs-pos/AUX]() tokens (1% of all `AUX` tokens) have a non-empty value of `Aspect`.
 
-The most frequent other feature values with which `AUX` and `Aspect` co-occurred: <tt><a href="Voice.html">Voice</a>=Act</tt> (87; 98%), <tt><a href="Polarity.html">Polarity</a>=Pos</tt> (83; 93%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (76; 85%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (74; 83%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (73; 82%), <tt><a href="Person.html">Person</a>=3</tt> (73; 82%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (73; 82%), <tt><a href="Number.html">Number</a>=Sing</tt> (67; 75%).
+The most frequent other feature values with which `AUX` and `Aspect` co-occurred: <tt><a href="Voice.html">Voice</a>=Act</tt> (87; 98%), <tt><a href="Polarity.html">Polarity</a>=Pos</tt> (83; 93%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (76; 85%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (74; 83%), <tt><a href="Person.html">Person</a>=3</tt> (73; 82%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (73; 82%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (73; 82%), <tt><a href="Number.html">Number</a>=Sing</tt> (67; 75%).
 
 `AUX` tokens may have the following values of `Aspect`:
 
@@ -178,7 +178,7 @@ The most frequent other feature values with which `AUX` and `Aspect` co-occurred
 
 5 [cs-pos/NOUN]() tokens (0% of all `NOUN` tokens) have a non-empty value of `Aspect`.
 
-The most frequent other feature values with which `NOUN` and `Aspect` co-occurred: <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (5; 100%), <tt><a href="Number.html">Number</a>=Plur</tt> (5; 100%), <tt><a href="Case.html">Case</a>=Gen</tt> (5; 100%), <tt><a href="Polarity.html">Polarity</a>=Pos</tt> (5; 100%), <tt><a href="Gender.html">Gender</a>=Fem</tt> (5; 100%).
+The most frequent other feature values with which `NOUN` and `Aspect` co-occurred: <tt><a href="Number.html">Number</a>=Plur</tt> (5; 100%), <tt><a href="Gender.html">Gender</a>=Fem</tt> (5; 100%), <tt><a href="Case.html">Case</a>=Gen</tt> (5; 100%), <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (5; 100%), <tt><a href="Polarity.html">Polarity</a>=Pos</tt> (5; 100%).
 
 `NOUN` tokens may have the following values of `Aspect`:
 

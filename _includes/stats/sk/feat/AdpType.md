@@ -31,7 +31,7 @@ The feature is used with 2 part-of-speech tags: [sk-pos/ADP]() (7370; 8% instanc
 
 54 [sk-pos/PRON]() tokens (1% of all `PRON` tokens) have a non-empty value of `AdpType`.
 
-The most frequent other feature values with which `PRON` and `AdpType` co-occurred: <tt><a href="Number.html">Number</a>=Sing</tt> (54; 100%), <tt><a href="PronType.html">PronType</a>=Prs</tt> (54; 100%), <tt><a href="Reflex.html">Reflex</a>=EMPTY</tt> (54; 100%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (52; 96%), <tt><a href="Case.html">Case</a>=Acc</tt> (45; 83%), <tt><a href="Animacy.html">Animacy</a>=Anim</tt> (39; 72%).
+The most frequent other feature values with which `PRON` and `AdpType` co-occurred: <tt><a href="Reflex.html">Reflex</a>=EMPTY</tt> (54; 100%), <tt><a href="PronType.html">PronType</a>=Prs</tt> (54; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (54; 100%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (52; 96%), <tt><a href="Case.html">Case</a>=Acc</tt> (45; 83%), <tt><a href="Animacy.html">Animacy</a>=Anim</tt> (39; 72%).
 
 `PRON` tokens may have the following values of `AdpType`:
 

@@ -16,7 +16,7 @@ The feature is used with 8 part-of-speech tags: [got-pos/VERB]() (9614; 21% inst
 
 9614 [got-pos/VERB]() tokens (93% of all `VERB` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="Voice.html">Voice</a>=Act</tt> (8775; 91%), <tt><a href="Strength.html">Strength</a>=EMPTY</tt> (7522; 78%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (7522; 78%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (7521; 78%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (7521; 78%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (5995; 62%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (5933; 62%), <tt><a href="Person.html">Person</a>=3</tt> (4873; 51%).
+The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="Voice.html">Voice</a>=Act</tt> (8775; 91%), <tt><a href="Strength.html">Strength</a>=EMPTY</tt> (7522; 78%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (7522; 78%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (7521; 78%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (7521; 78%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (5995; 62%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (5933; 62%), <tt><a href="Person.html">Person</a>=3</tt> (4873; 51%).
 
 `VERB` tokens may have the following values of `Number`:
 
@@ -91,7 +91,7 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
   <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Gender.html">Gender</a>=Masc</tt></td><td><em>ina</em></td><td><em>ins</em></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Gender.html">Gender</a>=Fem</tt></td><td><em>ija</em></td><td><em>ijos</em></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Gender.html">Gender</a>=Neut</tt></td><td><em>ita</em></td><td></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Dat|<a href="Gender.html">Gender</a>=Masc</tt></td><td><em>imma, imm, im</em></td><td><em>im</em></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Dat|<a href="Gender.html">Gender</a>=Masc</tt></td><td><em>imma, im, imm</em></td><td><em>im</em></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Dat|<a href="Gender.html">Gender</a>=Fem</tt></td><td><em>izai</em></td><td><em>im</em></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Dat|<a href="Gender.html">Gender</a>=Neut</tt></td><td><em>imma</em></td><td><em>im</em></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Gender.html">Gender</a>=Masc</tt></td><td><em>is</em></td><td><em>ize, izei</em></td></tr>

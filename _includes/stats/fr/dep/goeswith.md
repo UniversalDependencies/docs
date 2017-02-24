@@ -34,6 +34,30 @@ The following 13 pairs of parts of speech are connected with `goeswith`: [fr-pos
 
 
 ~~~ conllu
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 4 goeswith	color:blue
+1	Pas	pas	ADV	_	Polarity=Neg	3	advmod	_	_
+2	de	un	DET	_	Definite=Ind|PronType=Art	3	det	_	_
+3	sèche	sécher	VERB	_	_	0	root	_	_
+4	cheveux	cheveu	NOUN	_	Gender=Masc|Number=Plur	3	goeswith	_	_
+5	ni	ni	CCONJ	_	_	7	cc	_	_
+6	de	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	prise	prise	NOUN	_	Gender=Fem|Number=Sing	3	conj	_	_
+8	rasoir	rasoir	NOUN	_	Gender=Masc|Number=Sing	7	compound	_	_
+9	dans	dans	ADP	_	_	11	case	_	_
+10	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
+11	salle	salle	NOUN	_	Gender=Fem|Number=Sing	3	obl	_	_
+12	de	de	ADP	_	_	13	case	_	_
+13	bains	bain	NOUN	_	Gender=Masc|Number=Plur	11	nmod	_	SpaceAfter=No
+14	.	.	PUNCT	_	_	3	punct	_	_
+
+~~~
+
+
+~~~ conllu
 # visual-style 14	bgColor:blue
 # visual-style 14	fgColor:white
 # visual-style 13	bgColor:blue
@@ -58,30 +82,6 @@ The following 13 pairs of parts of speech are connected with `goeswith`: [fr-pos
 ~~~
 
 
-~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 4 goeswith	color:blue
-1	Pas	pas	ADV	_	Polarity=Neg	3	advmod	_	_
-2	de	un	DET	_	Definite=Ind|PronType=Art	3	det	_	_
-3	sèche	sécher	VERB	_	_	0	root	_	_
-4	cheveux	cheveu	NOUN	_	Gender=Masc|Number=Plur	3	goeswith	_	_
-5	ni	ni	CCONJ	_	_	7	cc	_	_
-6	de	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
-7	prise	prise	NOUN	_	Gender=Fem|Number=Sing	3	conj	_	_
-8	rasoir	rasoir	NOUN	_	Gender=Masc|Number=Sing	7	compound	_	_
-9	dans	dans	ADP	_	_	11	case	_	_
-10	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
-11	salle	salle	NOUN	_	Gender=Fem|Number=Sing	3	obl	_	_
-12	de	de	ADP	_	_	13	case	_	_
-13	bains	bain	NOUN	_	Gender=Masc|Number=Plur	11	nmod	_	SpaceAfter=No
-14	.	.	PUNCT	_	_	3	punct	_	_
-
-~~~
-
-
 
 
 --------------------------------------------------------------------------------
@@ -96,39 +96,6 @@ This relation is universal.
 Average distance between parent and child is 1.
 
 The following 3 pairs of parts of speech are connected with `goeswith`: [fr-pos/NUM]()-[fr-pos/NOUN]() (1; 33% instances), [fr-pos/NUM]()-[fr-pos/NUM]() (1; 33% instances), [fr-pos/NUM]()-[fr-pos/X]() (1; 33% instances).
-
-
-~~~ conllu
-# visual-style 14	bgColor:blue
-# visual-style 14	fgColor:white
-# visual-style 13	bgColor:blue
-# visual-style 13	fgColor:white
-# visual-style 13 14 goeswith	color:blue
-1	Adoptée	adopter	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
-2	par	par	ADP	E	_	4	case	_	_
-3	l'	le	DET	RD	Definite=Def|Number=Sing|PronType=Art	4	det	_	SpaceAfter=No
-4	assemblée	assemblée	NOUN	S	Gender=Fem|Number=Sing	1	obl:agent	_	_
-5	générale	général	ADJ	A	Gender=Fem|Number=Sing	4	amod	_	_
-6	de	de	ADP	E	_	8	case	_	_
-7	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	8	det	_	_
-8	Nations	Nations	PROPN	SP	_	4	nmod	_	_
-9	Unies	Unies	PROPN	SP	_	8	flat:name	_	_
-10	dans	dans	ADP	E	_	12	case	_	_
-11	sa	son	DET	AP	Gender=Fem|Number=Sing|PronType=Prs	12	nmod:poss	_	_
-12	résolution	résolution	NOUN	S	Gender=Fem|Number=Sing	1	obl	_	_
-13	217	217	NUM	N	NumType=Card	12	nummod	_	SpaceAfter=No
-14	a	(#\a	X	X	_	13	goeswith	_	_
-15	(	(	PUNCT	FB	_	16	punct	_	SpaceAfter=No
-16	III	troisieme	ADJ	NO	Number=Sing|NumType=Ord	13	amod	_	SpaceAfter=No
-17	)	)	PUNCT	FB	_	16	punct	_	_
-18	de	de	ADP	E	_	21	case	_	_
-19	le	le	DET	RD	Definite=Def|Number=Sing|PronType=Art	21	det	_	_
-20	10	10	NUM	N	NumType=Card	21	nummod	_	_
-21	décembre	décembre	NOUN	S	Gender=Masc|Number=Sing	12	nmod	_	_
-22	1948	1948	NUM	N	NumType=Card	21	nummod	_	SpaceAfter=No
-23	.	.	PUNCT	FS	_	1	punct	_	_
-
-~~~
 
 
 ~~~ conllu
@@ -163,6 +130,39 @@ The following 3 pairs of parts of speech are connected with `goeswith`: [fr-pos/
 24	cette	ce	DET	DD	Gender=Fem|Number=Sing|PronType=Dem	25	det	_	_
 25	date	date	NOUN	S	Gender=Fem|Number=Sing	22	obl	_	SpaceAfter=No
 26	.	.	PUNCT	FS	_	4	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 14	bgColor:blue
+# visual-style 14	fgColor:white
+# visual-style 13	bgColor:blue
+# visual-style 13	fgColor:white
+# visual-style 13 14 goeswith	color:blue
+1	Adoptée	adopter	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+2	par	par	ADP	E	_	4	case	_	_
+3	l'	le	DET	RD	Definite=Def|Number=Sing|PronType=Art	4	det	_	SpaceAfter=No
+4	assemblée	assemblée	NOUN	S	Gender=Fem|Number=Sing	1	obl:agent	_	_
+5	générale	général	ADJ	A	Gender=Fem|Number=Sing	4	amod	_	_
+6	de	de	ADP	E	_	8	case	_	_
+7	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	8	det	_	_
+8	Nations	Nations	PROPN	SP	_	4	nmod	_	_
+9	Unies	Unies	PROPN	SP	_	8	flat:name	_	_
+10	dans	dans	ADP	E	_	12	case	_	_
+11	sa	son	DET	AP	Gender=Fem|Number=Sing|PronType=Prs	12	nmod:poss	_	_
+12	résolution	résolution	NOUN	S	Gender=Fem|Number=Sing	1	obl	_	_
+13	217	217	NUM	N	NumType=Card	12	nummod	_	SpaceAfter=No
+14	a	(#\a	X	X	_	13	goeswith	_	_
+15	(	(	PUNCT	FB	_	16	punct	_	SpaceAfter=No
+16	III	troisieme	ADJ	NO	Number=Sing|NumType=Ord	13	amod	_	SpaceAfter=No
+17	)	)	PUNCT	FB	_	16	punct	_	_
+18	de	de	ADP	E	_	21	case	_	_
+19	le	le	DET	RD	Definite=Def|Number=Sing|PronType=Art	21	det	_	_
+20	10	10	NUM	N	NumType=Card	21	nummod	_	_
+21	décembre	décembre	NOUN	S	Gender=Masc|Number=Sing	12	nmod	_	_
+22	1948	1948	NUM	N	NumType=Card	21	nummod	_	SpaceAfter=No
+23	.	.	PUNCT	FS	_	1	punct	_	_
 
 ~~~
 

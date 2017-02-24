@@ -13,7 +13,7 @@ The 10 most frequent `NUM` types:  <em>bat, bi, azken, lehen, hiru, batean, biga
 
 The 10 most frequent ambiguous lemmas: <em>bat</em> ([NUM]() 961, [ADP]() 25, [NOUN]() 4), <em>azken</em> ([NUM]() 223, [NOUN]() 2), <em>lehen</em> ([NUM]() 197, [ADV]() 22), <em>bigarren</em> ([NUM]() 85, [NOUN]() 2), <em>lau</em> ([NUM]() 71, [ADJ]() 3), <em>sei</em> ([NUM]() 46, [NOUN]() 1), <em>lehenengo</em> ([NUM]() 41, [ADV]() 3), <em>hirugarren</em> ([NUM]() 38, [NOUN]() 1), <em>5</em> ([NUM]() 12, [NOUN]() 1), <em>200</em> ([NUM]() 11, [NOUN]() 1)
 
-The 10 most frequent ambiguous types:  <em>lehen</em> ([NUM]() 151, [ADV]() 18), <em>batean</em> ([NUM]() 120, [ADV]() 3), <em>lau</em> ([NUM]() 55, [ADJ]() 1), <em>lehenengo</em> ([NUM]() 30, [ADV]() 2), <em>batera</em> ([NUM]() 31, [ADP]() 25, [ADV]() 2, [VERB]() 1), <em>bana</em> ([NUM]() 12, [VERB]() 3), <em>aurrena</em> ([NUM]() 4, [ADV]() 4), <em>aurreneko</em> ([ADJ]() 5, [NUM]() 2), <em>lehendabiziko</em> ([NUM]() 4, [ADV]() 1, [ADJ]() 1), <em>batekoa</em> ([NUM]() 2, [NOUN]() 1)
+The 10 most frequent ambiguous types:  <em>lehen</em> ([NUM]() 151, [ADV]() 18), <em>batean</em> ([NUM]() 120, [ADV]() 3), <em>lau</em> ([NUM]() 55, [ADJ]() 1), <em>lehenengo</em> ([NUM]() 30, [ADV]() 2), <em>batera</em> ([NUM]() 31, [ADP]() 25, [ADV]() 2, [VERB]() 1), <em>bana</em> ([NUM]() 12, [VERB]() 3), <em>aurrena</em> ([NUM]() 4, [ADV]() 4), <em>aurreneko</em> ([ADJ]() 5, [NUM]() 2), <em>lehendabiziko</em> ([NUM]() 4, [ADJ]() 1, [ADV]() 1), <em>batekoa</em> ([NUM]() 2, [NOUN]() 1)
 
 
 * <em>lehen</em>
@@ -44,8 +44,8 @@ The 10 most frequent ambiguous types:  <em>lehen</em> ([NUM]() 151, [ADV]() 18),
   * [NUM]() 2: <em>1967an egin zuen Txinak <b>aurreneko</b> leherketa termonuklearra .</em>
 * <em>lehendabiziko</em>
   * [NUM]() 4: <em>Tour hartan bistaratu zitzaizkon <b>lehendabiziko</b> aldiz , mendian zituen benetako zailtasunak .</em>
-  * [ADV]() 1: <em>Gure <b>lehendabiziko</b> kontzertu ohorezkoari hasiera emateko zorian ginen .</em>
   * [ADJ]() 1: <em>Lehen bortzetan sartzea lortu zuen Once taldeko David Cañada espainiarrak , bere <b>lehendabiziko</b> Tourrean , Zulleren aitzinetik .</em>
+  * [ADV]() 1: <em>Gure <b>lehendabiziko</b> kontzertu ohorezkoari hasiera emateko zorian ginen .</em>
 * <em>batekoa</em>
   * [NUM]() 2: <em>Savon San Vicentekoa da , Kubako nekazal herri <b>batekoa</b> .</em>
   * [NOUN]() 1: <em>Alderdi demokratiko <b>batekoa</b> dela dioenak ETAko presoak euren jaioterrira ekartzeko eskaerarik ez diezaiola egin Madrilgo Gobernuari " .</em>

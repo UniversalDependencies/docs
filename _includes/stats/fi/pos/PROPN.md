@@ -11,7 +11,7 @@ The 10 most frequent `PROPN` lemmas: <em>Eurooppa, Suomi, Turku, EU, Helsinki, Y
 
 The 10 most frequent `PROPN` types:  <em>euroopan, Turun, suomen, EU:n, Suomessa, the, Helsingin, Mithridates, Yhdysvaltain, Kiinan</em>
 
-The 10 most frequent ambiguous lemmas: <em>KTM</em> ([PROPN]() 17, [NOUN]() 1), <em>and</em> ([PROPN]() 10, [X]() 3), <em>in</em> ([PROPN]() 7, [X]() 1), <em>kokoomus</em> ([NOUN]() 8, [PROPN]() 1), <em>on</em> ([PROPN]() 4, [X]() 1, [ADV]() 1), <em>a</em> ([NOUN]() 30, [X]() 3, [PROPN]() 1), <em>n</em> ([PROPN]() 7, [NOUN]() 6, [NUM]() 1), <em>you</em> ([PROPN]() 1, [X]() 1), <em>581</em> ([PROPN]() 6, [NUM]() 2), <em>i</em> ([PROPN]() 1, [NOUN]() 1)
+The 10 most frequent ambiguous lemmas: <em>KTM</em> ([PROPN]() 17, [NOUN]() 1), <em>and</em> ([PROPN]() 10, [X]() 3), <em>in</em> ([PROPN]() 7, [X]() 1), <em>kokoomus</em> ([NOUN]() 8, [PROPN]() 1), <em>on</em> ([PROPN]() 4, [ADV]() 1, [X]() 1), <em>a</em> ([NOUN]() 30, [X]() 3, [PROPN]() 1), <em>n</em> ([PROPN]() 7, [NOUN]() 6, [NUM]() 1), <em>you</em> ([PROPN]() 1, [X]() 1), <em>581</em> ([PROPN]() 6, [NUM]() 2), <em>i</em> ([NOUN]() 1, [PROPN]() 1)
 
 The 10 most frequent ambiguous types:  <em>suomen</em> ([NOUN]() 6, [PROPN]() 2), <em>Ranskan</em> ([PROPN]() 21, [NOUN]() 1), <em>KTM</em> ([PROPN]() 12, [NOUN]() 1), <em>Te</em> ([PROPN]() 10, [PRON]() 1), <em>and</em> ([PROPN]() 10, [X]() 3), <em>in</em> ([PROPN]() 6, [X]() 1), <em>on</em> ([AUX]() 3364, [VERB]() 79, [PROPN]() 4, [ADV]() 1), <em>a</em> ([NOUN]() 30, [X]() 3, [PROPN]() 1), <em>Englannin</em> ([PROPN]() 7, [ADJ]() 1), <em>Kai</em> ([PROPN]() 7, [ADV]() 4)
 
@@ -104,7 +104,7 @@ The 10 most frequent `PROPN` types:  <em>Suomen, Suomi, suomessa, Helsingin, Mai
 
 The 10 most frequent ambiguous lemmas: <em>suomi</em> ([PROPN]() 288, [NOUN]() 23), <em>ruotsi</em> ([PROPN]() 55, [NOUN]() 4), <em>venäjä</em> ([PROPN]() 35, [NOUN]() 2), <em>ranska</em> ([PROPN]() 32, [NOUN]() 12), <em>saksa</em> ([PROPN]() 22, [NOUN]() 7), <em>turku</em> ([PROPN]() 21, [NOUN]() 1), <em>viro</em> ([PROPN]() 15, [NOUN]() 1), <em>englanti</em> ([PROPN]() 12, [NOUN]() 9), <em>jussi</em> ([PROPN]() 12, [NOUN]() 1), <em>norja</em> ([PROPN]() 12, [ADJ]() 1)
 
-The 10 most frequent ambiguous types:  <em>Suomen</em> ([PROPN]() 110, [NOUN]() 2), <em>Anna</em> ([PROPN]() 26, [VERB]() 10), <em>New</em> ([PROPN]() 8, [X]() 1), <em>Lahden</em> ([PROPN]() 5, [NOUN]() 1), <em>Sanomien</em> ([PROPN]() 4, [NOUN]() 3), <em>Hirvi</em> ([PROPN]() 2, [NOUN]() 1), <em>Johan</em> ([PART]() 3, [PROPN]() 2), <em>Maan</em> ([PROPN]() 2, [NOUN]() 1), <em>Pankin</em> ([NOUN]() 2, [PROPN]() 2), <em>Sain</em> ([VERB]() 14, [PROPN]() 2)
+The 10 most frequent ambiguous types:  <em>Suomen</em> ([PROPN]() 110, [NOUN]() 2), <em>Anna</em> ([PROPN]() 26, [VERB]() 10), <em>New</em> ([PROPN]() 8, [X]() 1), <em>Lahden</em> ([PROPN]() 5, [NOUN]() 1), <em>Sanomien</em> ([PROPN]() 4, [NOUN]() 3), <em>Hirvi</em> ([PROPN]() 2, [NOUN]() 1), <em>Johan</em> ([PART]() 3, [PROPN]() 2), <em>Maan</em> ([PROPN]() 2, [NOUN]() 1), <em>Pankin</em> ([PROPN]() 2, [NOUN]() 2), <em>Sain</em> ([VERB]() 14, [PROPN]() 2)
 
 
 * <em>Suomen</em>
@@ -132,8 +132,8 @@ The 10 most frequent ambiguous types:  <em>Suomen</em> ([PROPN]() 110, [NOUN]() 
   * [PROPN]() 2: <em>Planeettojen kaasukehässä on happea <b>Maan</b> lisäksi vain Marsilla ja Venuksella .</em>
   * [NOUN]() 1: <em><b>Maan</b> paras kuulantyöntäjätär halajaa olympiakisoihin .</em>
 * <em>Pankin</em>
-  * [NOUN]() 2: <em><b>Pankin</b> olisi ollut turha laajentua</em>
   * [PROPN]() 2: <em>Merita <b>Pankin</b> uusi liikemerkki voisi olla vaikka reikäleipä , jos ei sitten myllynkivi .</em>
+  * [NOUN]() 2: <em><b>Pankin</b> olisi ollut turha laajentua</em>
 * <em>Sain</em>
   * [VERB]() 14: <em><b>Sain</b> enemmän kuin uskalsin toivoakaan .</em>
   * [PROPN]() 2: <em>Laskeuduimme kumiplantaasille , josta jatkoimme Yoeune <b>Sain</b> kylään .</em>

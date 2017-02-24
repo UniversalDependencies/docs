@@ -11,9 +11,9 @@ The 10 most frequent `PRON` lemmas: <em>i, you, it, they, he, we, my, that, she,
 
 The 10 most frequent `PRON` types:  <em>i, you, it, they, my, we, that, he, your, me</em>
 
-The 10 most frequent ambiguous lemmas: <em>i</em> ([PRON]() 354, [X]() 2, [NUM]() 1), <em>you</em> ([PRON]() 3226, [NOUN]() 1), <em>it</em> ([PRON]() 2071, [NOUN]() 10, [ADV]() 1, [ADP]() 1, [VERB]() 1), <em>he</em> ([PRON]() 1600, [INTJ]() 2), <em>we</em> ([PRON]() 1567, [NOUN]() 2, [VERB]() 1), <em>my</em> ([PRON]() 1004, [X]() 2, [INTJ]() 2), <em>that</em> ([SCONJ]() 1079, [PRON]() 912, [DET]() 201, [ADV]() 41, [ADP]() 4), <em>this</em> ([DET]() 814, [PRON]() 468, [ADV]() 5, [NOUN]() 1), <em>what</em> ([PRON]() 444, [DET]() 69, [X]() 1), <em>there</em> ([PRON]() 419, [ADV]() 237, [X]() 1)
+The 10 most frequent ambiguous lemmas: <em>i</em> ([PRON]() 354, [X]() 2, [NUM]() 1), <em>you</em> ([PRON]() 3226, [NOUN]() 1), <em>it</em> ([PRON]() 2071, [NOUN]() 10, [ADP]() 1, [VERB]() 1, [ADV]() 1), <em>he</em> ([PRON]() 1600, [INTJ]() 2), <em>we</em> ([PRON]() 1567, [NOUN]() 2, [VERB]() 1), <em>my</em> ([PRON]() 1004, [INTJ]() 2, [X]() 2), <em>that</em> ([SCONJ]() 1079, [PRON]() 912, [DET]() 201, [ADV]() 41, [ADP]() 4), <em>this</em> ([DET]() 814, [PRON]() 468, [ADV]() 5, [NOUN]() 1), <em>what</em> ([PRON]() 444, [DET]() 69, [X]() 1), <em>there</em> ([PRON]() 419, [ADV]() 237, [X]() 1)
 
-The 10 most frequent ambiguous types:  <em>i</em> ([PRON]() 353, [X]() 2, [NUM]() 1), <em>it</em> ([PRON]() 1642, [SCONJ]() 1, [ADV]() 1, [ADP]() 1, [VERB]() 1), <em>my</em> ([PRON]() 851, [X]() 2, [INTJ]() 2), <em>we</em> ([PRON]() 665, [NOUN]() 1, [VERB]() 1), <em>that</em> ([SCONJ]() 1072, [PRON]() 841, [DET]() 183, [ADV]() 40, [ADP]() 4), <em>he</em> ([PRON]() 652, [INTJ]() 1), <em>your</em> ([PRON]() 696, [X]() 1), <em>this</em> ([DET]() 687, [PRON]() 339, [ADV]() 5, [NOUN]() 1), <em>their</em> ([PRON]() 433, [ADV]() 2), <em>what</em> ([PRON]() 340, [DET]() 44, [X]() 1, [VERB]() 1)
+The 10 most frequent ambiguous types:  <em>i</em> ([PRON]() 353, [X]() 2, [NUM]() 1), <em>it</em> ([PRON]() 1642, [SCONJ]() 1, [VERB]() 1, [ADV]() 1, [ADP]() 1), <em>my</em> ([PRON]() 851, [INTJ]() 2, [X]() 2), <em>we</em> ([PRON]() 665, [VERB]() 1, [NOUN]() 1), <em>that</em> ([SCONJ]() 1072, [PRON]() 841, [DET]() 183, [ADV]() 40, [ADP]() 4), <em>he</em> ([PRON]() 652, [INTJ]() 1), <em>your</em> ([PRON]() 696, [X]() 1), <em>this</em> ([DET]() 687, [PRON]() 339, [ADV]() 5, [NOUN]() 1), <em>their</em> ([PRON]() 433, [ADV]() 2), <em>what</em> ([PRON]() 340, [DET]() 44, [VERB]() 1, [X]() 1)
 
 
 * <em>i</em>
@@ -23,17 +23,17 @@ The 10 most frequent ambiguous types:  <em>i</em> ([PRON]() 353, [X]() 2, [NUM](
 * <em>it</em>
   * [PRON]() 1642: <em>That 's overstating <b>it</b> , I know .</em>
   * [SCONJ]() 1: <em>That sounds like a BS excuse from ECS , but <b>it</b> that 's what they are saying , let me know and we can figure out a solution .</em>
+  * [VERB]() 1: <em>What matters is how well trained he is , and how good your bond <b>it</b> .</em>
   * [ADV]() 1: <em>Turns out the engine had no oil , and when oil was put <b>it</b> , it would just run out of the filter .</em>
   * [ADP]() 1: <em>On top of that though they tried to charge us service charge just to rub it <b>it</b> ....</em>
-  * [VERB]() 1: <em>What matters is how well trained he is , and how good your bond <b>it</b> .</em>
 * <em>my</em>
   * [PRON]() 851: <em>I was on <b>my</b> way to <b>my</b> wedding fearing death , basically . "</em>
-  * [X]() 2: <em>I <b>my</b> self am one but appreciate that the organization is unlikely to make into the 22nd century .</em>
   * [INTJ]() 2: <em>Oh <b>my</b> , you asked this question at the perfect time .</em>
+  * [X]() 2: <em>I <b>my</b> self am one but appreciate that the organization is unlikely to make into the 22nd century .</em>
 * <em>we</em>
   * [PRON]() 665: <em>Yet <b>we</b> did n't charge them for the evacuation .</em>
-  * [NOUN]() 1: <em>He 's dropping <b>we</b></em>
   * [VERB]() 1: <em>Both the engagement and wedding pictures that he took for us <b>we</b> absolutely amazing .</em>
+  * [NOUN]() 1: <em>He 's dropping <b>we</b></em>
 * <em>that</em>
   * [SCONJ]() 1072: <em>It is rumored <b>that</b> North Korea has at least a couple nuclear weapons .</em>
   * [PRON]() 841: <em>Right now <b>that</b> seems to be the US , EU , and IAEA .</em>
@@ -57,8 +57,8 @@ The 10 most frequent ambiguous types:  <em>i</em> ([PRON]() 353, [X]() 2, [NUM](
 * <em>what</em>
   * [PRON]() 340: <em>And <b>what</b> do we get for this effort ?</em>
   * [DET]() 44: <em>Please let me know <b>what</b> time we could meet .</em>
-  * [X]() 1: <em>I am still sure that UT is the place for getting an excellent graduate - level education , so I want you to know that I am going to do <b>what</b> ever it takes to get in next year .</em>
   * [VERB]() 1: <em>$ometime$ it is hard to explain that you are making an INTERNATIONAL call and all of the phone companie $involved <b>what</b> $ome of your money .</em>
+  * [X]() 1: <em>I am still sure that UT is the place for getting an excellent graduate - level education , so I want you to know that I am going to do <b>what</b> ever it takes to get in next year .</em>
 
 ## Morphology
 

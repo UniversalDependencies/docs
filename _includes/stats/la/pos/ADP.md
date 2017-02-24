@@ -11,7 +11,7 @@ The 10 most frequent `ADP` lemmas: <em>in1, in, de1, ab1, ad1, ab, ex1, ad, cum1
 
 The 10 most frequent `ADP` types:  <em>in, ad, a, de, per, ex, cum, super, ab, pro</em>
 
-The 10 most frequent ambiguous lemmas: <em>cum1</em> ([ADP]() 36, [SCONJ]() 25), <em>contra1</em> ([ADP]() 11, [ADV]() 3), <em>post</em> ([ADP]() 10, [ADV]() 2), <em>post1</em> ([ADP]() 8, [ADV]() 5), <em>cum</em> ([SCONJ]() 19, [ADP]() 6), <em>ante1</em> ([ADV]() 9, [ADP]() 3), <em>contra</em> ([ADP]() 3, [ADV]() 2), <em>supra1</em> ([ADV]() 4, [ADP]() 2), <em>circiter1</em> ([ADP]() 1, [ADV]() 1), <em>coram</em> ([ADV]() 2, [ADP]() 1)
+The 10 most frequent ambiguous lemmas: <em>cum1</em> ([ADP]() 36, [SCONJ]() 25), <em>contra1</em> ([ADP]() 11, [ADV]() 3), <em>post</em> ([ADP]() 10, [ADV]() 2), <em>post1</em> ([ADP]() 8, [ADV]() 5), <em>cum</em> ([SCONJ]() 19, [ADP]() 6), <em>ante1</em> ([ADV]() 9, [ADP]() 3), <em>contra</em> ([ADP]() 3, [ADV]() 2), <em>supra1</em> ([ADV]() 4, [ADP]() 2), <em>circiter1</em> ([ADV]() 1, [ADP]() 1), <em>coram</em> ([ADV]() 2, [ADP]() 1)
 
 The 10 most frequent ambiguous types:  <em>a</em> ([ADP]() 68, [INTJ]() 5), <em>cum</em> ([ADP]() 42, [SCONJ]() 31), <em>post</em> ([ADP]() 17, [ADV]() 7), <em>contra</em> ([ADP]() 13, [ADV]() 4), <em>sine</em> ([ADP]() 14, [VERB]() 1), <em>ante</em> ([ADV]() 9, [ADP]() 6), <em>coram</em> ([ADP]() 5, [ADV]() 2), <em>secundum</em> ([ADJ]() 3, [ADP]() 2), <em>supra</em> ([ADV]() 4, [ADP]() 2), <em>circiter</em> ([ADV]() 4, [ADP]() 1)
 

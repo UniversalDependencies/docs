@@ -11,7 +11,7 @@ The 10 most frequent `VERB` lemmas: कृ, अस्, गम्, ब्रू, 
 
 The 10 most frequent `VERB` types:  अब्रवीत्, अस्ति, आह, गत्वा, भवति, श्रुत्वा, आरब्धम्, उच्यते, करिष्यामि, करोमि
 
-The 10 most frequent ambiguous lemmas: अस् ([VERB]() 14, [AUX]() 1), भू ([VERB]() 9, [NOUN]() 1, [X]() 1), अह् ([VERB]() 7, [X]() 1), वच् ([VERB]() 6, [NOUN]() 1), उक्त ([VERB]() 2, [NOUN]() 1), कथ् ([VERB]() 2, [PRON]() 1), अभिहित ([NOUN]() 1, [VERB]() 1), कर्तव्य ([VERB]() 1, [NOUN]() 1), जिव् ([NOUN]() 2, [VERB]() 1), वद् ([X]() 1, [VERB]() 1)
+The 10 most frequent ambiguous lemmas: अस् ([VERB]() 14, [AUX]() 1), भू ([VERB]() 9, [NOUN]() 1, [X]() 1), अह् ([VERB]() 7, [X]() 1), वच् ([VERB]() 6, [NOUN]() 1), उक्त ([VERB]() 2, [NOUN]() 1), कथ् ([VERB]() 2, [PRON]() 1), अभिहित ([NOUN]() 1, [VERB]() 1), कर्तव्य ([NOUN]() 1, [VERB]() 1), जिव् ([NOUN]() 2, [VERB]() 1), वद् ([VERB]() 1, [X]() 1)
 
 The 10 most frequent ambiguous types:  अस्ति ([VERB]() 9, [AUX]() 1), आह ([VERB]() 8, [X]() 1), भवति ([VERB]() 4, [X]() 1), उवाच ([NOUN]() 1, [VERB]() 1)
 

@@ -13,7 +13,7 @@ The 10 most frequent `NOUN` types:  <em>pan, roku, lat, pracy, pani, domu, osób
 
 The 10 most frequent ambiguous lemmas: <em>rok</em> ([NOUN]() 233, [X]() 41), <em>ulica</em> ([NOUN]() 49, [X]() 15), <em>godzina</em> ([NOUN]() 34, [X]() 8), <em>sposób</em> ([NOUN]() 34, [VERB]() 1), <em>wiek</em> ([NOUN]() 23, [X]() 4), <em>złoty</em> ([NOUN]() 22, [X]() 19, [ADJ]() 6), <em>minuta</em> ([NOUN]() 20, [X]() 4), <em>ksiądz</em> ([NOUN]() 18, [X]() 5), <em>pora</em> ([NOUN]() 17, [VERB]() 3), <em>tysiąc</em> ([X]() 28, [NOUN]() 17)
 
-The 10 most frequent ambiguous types:  <em>sposób</em> ([NOUN]() 27, [VERB]() 1), <em>razem</em> ([NOUN]() 18, [ADV]() 12), <em>prawa</em> ([NOUN]() 15, [ADJ]() 2), <em>drogi</em> ([NOUN]() 11, [ADJ]() 1), <em>brak</em> ([NOUN]() 10, [VERB]() 1), <em>dziś</em> ([ADV]() 20, [NOUN]() 10), <em>pół</em> ([NOUN]() 9, [NUM]() 2), <em>stanie</em> ([NOUN]() 9, [VERB]() 3, [AUX]() 1), <em>woli</em> ([NOUN]() 8, [VERB]() 1), <em>dzisiaj</em> ([ADV]() 7, [NOUN]() 7)
+The 10 most frequent ambiguous types:  <em>sposób</em> ([NOUN]() 27, [VERB]() 1), <em>razem</em> ([NOUN]() 18, [ADV]() 12), <em>prawa</em> ([NOUN]() 15, [ADJ]() 2), <em>drogi</em> ([NOUN]() 11, [ADJ]() 1), <em>brak</em> ([NOUN]() 10, [VERB]() 1), <em>dziś</em> ([ADV]() 20, [NOUN]() 10), <em>pół</em> ([NOUN]() 9, [NUM]() 2), <em>stanie</em> ([NOUN]() 9, [VERB]() 3, [AUX]() 1), <em>woli</em> ([NOUN]() 8, [VERB]() 1), <em>dzisiaj</em> ([NOUN]() 7, [ADV]() 7)
 
 
 * <em>sposób</em>
@@ -45,8 +45,8 @@ The 10 most frequent ambiguous types:  <em>sposób</em> ([NOUN]() 27, [VERB]() 1
   * [NOUN]() 8: <em>Wzruszył ramionami , uśmiechając się mimo <b>woli</b> .</em>
   * [VERB]() 1: <em>- Chyba jak kto <b>woli</b> ?</em>
 * <em>dzisiaj</em>
-  * [ADV]() 7: <em>Maszewski Teatr Krzyk wystąpi <b>dzisiaj</b> w Gdańsku .</em>
   * [NOUN]() 7: <em>- Ja już chyba , chłopak , tobie na <b>dzisiaj</b> podziękuję .</em>
+  * [ADV]() 7: <em>Maszewski Teatr Krzyk wystąpi <b>dzisiaj</b> w Gdańsku .</em>
 
 ## Morphology
 

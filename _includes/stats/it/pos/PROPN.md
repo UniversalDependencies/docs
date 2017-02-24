@@ -11,7 +11,7 @@ The 10 most frequent `PROPN` lemmas: <em>Italia, Shakespeare, Balzac, Roma, Euro
 
 The 10 most frequent `PROPN` types:  <em>Italia, Shakespeare, Balzac, Europa, San, Roma, Stati, Uniti, Albania, Marco</em>
 
-The 10 most frequent ambiguous lemmas: <em>Unione</em> ([PROPN]() 59, [NOUN]() 7), <em>europea</em> ([PROPN]() 9, [ADJ]() 8), <em>de</em> ([ADP]() 36, [PROPN]() 6, [DET]() 4, [X]() 1), <em>Germania</em> ([PROPN]() 30, [NOUN]() 1), <em>Stato</em> ([PROPN]() 23, [NOUN]() 12), <em>Camera</em> ([PROPN]() 21, [NOUN]() 9), <em>A</em> ([PROPN]() 20, [DET]() 1, [ADP]() 1), <em>Nord</em> ([PROPN]() 20, [NOUN]() 1), <em>Nazioni</em> ([PROPN]() 17, [NOUN]() 1), <em>Papa</em> ([PROPN]() 16, [NOUN]() 1)
+The 10 most frequent ambiguous lemmas: <em>Unione</em> ([PROPN]() 59, [NOUN]() 7), <em>europea</em> ([PROPN]() 9, [ADJ]() 8), <em>de</em> ([ADP]() 36, [PROPN]() 6, [DET]() 4, [X]() 1), <em>Germania</em> ([PROPN]() 30, [NOUN]() 1), <em>Stato</em> ([PROPN]() 23, [NOUN]() 12), <em>Camera</em> ([PROPN]() 21, [NOUN]() 9), <em>A</em> ([PROPN]() 20, [ADP]() 1, [DET]() 1), <em>Nord</em> ([PROPN]() 20, [NOUN]() 1), <em>Nazioni</em> ([PROPN]() 17, [NOUN]() 1), <em>Papa</em> ([PROPN]() 16, [NOUN]() 1)
 
 The 10 most frequent ambiguous types:  <em>San</em> ([PROPN]() 81, [ADJ]() 1), <em>Stati</em> ([PROPN]() 74, [NOUN]() 53), <em>Uniti</em> ([PROPN]() 74, [ADJ]() 4), <em>Unione</em> ([PROPN]() 59, [NOUN]() 9), <em>europea</em> ([ADJ]() 39, [PROPN]() 19), <em>de</em> ([ADP]() 41, [PROPN]() 6, [DET]() 3), <em>Stato</em> ([NOUN]() 113, [PROPN]() 23), <em>Camera</em> ([NOUN]() 32, [PROPN]() 21), <em>A</em> ([ADP]() 303, [PROPN]() 20, [DET]() 4), <em>Nord</em> ([PROPN]() 20, [NOUN]() 4)
 
@@ -101,9 +101,9 @@ The 10 most frequent `PROPN` lemmas: <em>Shakespeare, Balzac, Ucraina, Europa, F
 
 The 10 most frequent `PROPN` types:  <em>Shakespeare, Balzac, Ucraina, Europa, Facebook, Pericle, Stati, Uniti, Cina, John</em>
 
-The 10 most frequent ambiguous lemmas: <em>de</em> ([ADP]() 13, [X]() 4, [PROPN]() 2), <em>Lord</em> ([PROPN]() 3, [X]() 1), <em>Men</em> ([X]() 7, [PROPN]() 3), <em>New</em> ([PROPN]() 3, [X]() 1), <em>Chamberlain's</em> ([PROPN]() 2, [X]() 1), <em>Comédie</em> ([X]() 5, [PROPN]() 2), <em>School</em> ([PROPN]() 2, [X]() 1), <em>Cousin</em> ([X]() 1, [PROPN]() 1), <em>Goriot</em> ([X]() 2, [PROPN]() 1), <em>His</em> ([ADJ]() 1, [PROPN]() 1)
+The 10 most frequent ambiguous lemmas: <em>de</em> ([ADP]() 13, [X]() 4, [PROPN]() 2), <em>Lord</em> ([PROPN]() 3, [X]() 1), <em>Men</em> ([X]() 7, [PROPN]() 3), <em>New</em> ([PROPN]() 3, [X]() 1), <em>Chamberlain's</em> ([PROPN]() 2, [X]() 1), <em>Comédie</em> ([X]() 5, [PROPN]() 2), <em>School</em> ([PROPN]() 2, [X]() 1), <em>Cousin</em> ([PROPN]() 1, [X]() 1), <em>Goriot</em> ([X]() 2, [PROPN]() 1), <em>His</em> ([ADJ]() 1, [PROPN]() 1)
 
-The 10 most frequent ambiguous types:  <em>Creative</em> ([PROPN]() 7, [ADJ]() 1), <em>Unione</em> ([PROPN]() 6, [NOUN]() 1), <em>de</em> ([ADP]() 15, [X]() 4, [PROPN]() 2), <em>Lord</em> ([PROPN]() 3, [X]() 1), <em>Men</em> ([X]() 7, [PROPN]() 3), <em>Chamberlain's</em> ([PROPN]() 2, [X]() 1), <em>Comédie</em> ([X]() 5, [PROPN]() 2), <em>School</em> ([PROPN]() 2, [X]() 1), <em>Bisbetica</em> ([PROPN]() 1, [NOUN]() 1), <em>Cousin</em> ([PROPN]() 1, [X]() 1)
+The 10 most frequent ambiguous types:  <em>Creative</em> ([PROPN]() 7, [ADJ]() 1), <em>Unione</em> ([PROPN]() 6, [NOUN]() 1), <em>de</em> ([ADP]() 15, [X]() 4, [PROPN]() 2), <em>Lord</em> ([PROPN]() 3, [X]() 1), <em>Men</em> ([X]() 7, [PROPN]() 3), <em>Chamberlain's</em> ([PROPN]() 2, [X]() 1), <em>Comédie</em> ([X]() 5, [PROPN]() 2), <em>School</em> ([PROPN]() 2, [X]() 1), <em>Bisbetica</em> ([NOUN]() 1, [PROPN]() 1), <em>Cousin</em> ([X]() 1, [PROPN]() 1)
 
 
 * <em>Creative</em>
@@ -132,11 +132,11 @@ The 10 most frequent ambiguous types:  <em>Creative</em> ([PROPN]() 7, [ADJ]() 1
   * [PROPN]() 2: <em>In gli anni precedenti la crisi finanziaria di il 2008 , oltre un terzo di gli Mba di Harvard e una percentuale simile di laureati di la London <b>School</b> of Economics sono andati a lavorare in società finanziarie .</em>
   * [X]() 1: <em>Sebbene non sopravviva alcun documento di il periodo , la maggior parte di i biografi sono concordi in il sostenere che Shakespeare probabilmente frequentò la King's New <b>School</b> a Stratford , un istituto pubblico autorizzato da il 1553 , distante circa un quarto di miglio da casa sua .</em>
 * <em>Bisbetica</em>
-  * [PROPN]() 1: <em>Come I due gentiluomini di Verona , in cui due amici sembrano approvare un rapimento , la storia di la <b>Bisbetica</b> e di il tentativo di un uomo di domare lo spirito indipendente di una donna a volte mette in difficoltà i registi e i critici moderni .</em>
   * [NOUN]() 1: <em>La commedia di gli errori era anche basata su modelli classici , ma non è stata trovata nessuna fonte per la <b>Bisbetica</b> domata , nonostante sia collegata a una diversa ma omonima commedia e probabilmente abbia avuto origine da una storia folkloristica .</em>
+  * [PROPN]() 1: <em>Come I due gentiluomini di Verona , in cui due amici sembrano approvare un rapimento , la storia di la <b>Bisbetica</b> e di il tentativo di un uomo di domare lo spirito indipendente di una donna a volte mette in difficoltà i registi e i critici moderni .</em>
 * <em>Cousin</em>
-  * [PROPN]() 1: <em>E - più influenti di tutte - le lezioni di filosofia di Victor <b>Cousin</b> incoraggiarono i suoi studenti a pensare in modo indipendente .</em>
   * [X]() 1: <em>Le <b>Cousin</b> Pons ( 1847 ) e La Cousine Bette ( 1848 ) raccontano la storia de Les Parents Pauvres ( I parenti poveri ) .</em>
+  * [PROPN]() 1: <em>E - più influenti di tutte - le lezioni di filosofia di Victor <b>Cousin</b> incoraggiarono i suoi studenti a pensare in modo indipendente .</em>
 
 ## Morphology
 

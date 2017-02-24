@@ -16,7 +16,7 @@ The feature is used with 5 part-of-speech tags: [sa-pos/VERB]() (239; 20% instan
 
 239 [sa-pos/VERB]() tokens (100% of all `VERB` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="Number.html">Number</a>=Sing</tt> (184; 77%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (180; 75%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (180; 75%), <tt><a href="Voice.html">Voice</a>=Act</tt> (120; 50%).
+The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="Number.html">Number</a>=Sing</tt> (184; 77%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (180; 75%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (180; 75%), <tt><a href="Voice.html">Voice</a>=Act</tt> (120; 50%).
 
 `VERB` tokens may have the following values of `VerbForm`:
 
@@ -57,7 +57,7 @@ The most frequent other feature values with which `NOUN` and `VerbForm` co-occur
 
 6 [sa-pos/X]() tokens (30% of all `X` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `X` and `VerbForm` co-occurred: <tt><a href="Number.html">Number</a>=Sing</tt> (6; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (6; 100%), <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (6; 100%), <tt><a href="Case.html">Case</a>=Nom</tt> (5; 83%).
+The most frequent other feature values with which `X` and `VerbForm` co-occurred: <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (6; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (6; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (6; 100%), <tt><a href="Case.html">Case</a>=Nom</tt> (5; 83%).
 
 `X` tokens may have the following values of `VerbForm`:
 
@@ -69,7 +69,7 @@ The most frequent other feature values with which `X` and `VerbForm` co-occurred
 
 1 [sa-pos/AUX]() tokens (100% of all `AUX` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `AUX` and `VerbForm` co-occurred: <tt><a href="Mood.html">Mood</a>=Ind</tt> (1; 100%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (1; 100%), <tt><a href="Person.html">Person</a>=3</tt> (1; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (1; 100%), <tt><a href="Voice.html">Voice</a>=Act</tt> (1; 100%).
+The most frequent other feature values with which `AUX` and `VerbForm` co-occurred: <tt><a href="Person.html">Person</a>=3</tt> (1; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (1; 100%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (1; 100%), <tt><a href="Voice.html">Voice</a>=Act</tt> (1; 100%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (1; 100%).
 
 `AUX` tokens may have the following values of `VerbForm`:
 
@@ -79,7 +79,7 @@ The most frequent other feature values with which `AUX` and `VerbForm` co-occurr
 
 1 [sa-pos/ADJ]() tokens (2% of all `ADJ` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `ADJ` and `VerbForm` co-occurred: <tt><a href="Number.html">Number</a>=Sing</tt> (1; 100%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (1; 100%), <tt><a href="Case.html">Case</a>=Nom</tt> (1; 100%).
+The most frequent other feature values with which `ADJ` and `VerbForm` co-occurred: <tt><a href="Gender.html">Gender</a>=Masc</tt> (1; 100%), <tt><a href="Case.html">Case</a>=Nom</tt> (1; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (1; 100%).
 
 `ADJ` tokens may have the following values of `VerbForm`:
 

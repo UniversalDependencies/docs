@@ -169,47 +169,33 @@ The following 5 pairs of parts of speech are connected with `aux`: [la-pos/VERB]
 
 
 ~~~ conllu
-# visual-style 18	bgColor:blue
-# visual-style 18	fgColor:white
-# visual-style 26	bgColor:blue
-# visual-style 26	fgColor:white
-# visual-style 26 18 aux	color:blue
-1	cum	cum	SCONJ	S4|vgr1|stRL	_	10	mark	_	_
-2	per	per	ADP	S4|stRL	AdpType=Prep	3	case	_	_
-3	negationes	negatio	NOUN	C1|grn1|casM|gen2|stAE	Case=Acc|Degree=Pos|Gender=Fem|Number=Plur	10	obl	_	_
-4	ad	ad	ADP	S4|stRL	AdpType=Prep	6	case	_	_
-5	propriam	proprius	ADJ	A1|grn1|casD|gen2|stAN	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	6	amod	_	_
-6	cognitionem	cognitio	NOUN	C1|grn1|casD|gen2|vgr1|stAC	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	10	obj	_	_
-7	rei	res	NOUN	E1|grn1|casB|gen2|stRS	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	6	nmod	_	_
-8	quoquo	quisquis	PRON	F1|grn1|casF|gen1|stPV	Case=Abl|Degree=Pos|Gender=Masc|Number=Sing|PronType=Ind,Rel	9	nmod	_	_
-9	modo	modus	NOUN	B1|grn1|casF|gen1|stRL	Case=Abl|Degree=Pos|Gender=Masc|Number=Sing	10	obl	_	_
-10	deveniatur	devenio	VERB	M3|modK|tem1|gen6|vgr1|stAV	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	27	advcl	_	SpaceAfter=No
-11	,	,	PUNCT	Punc	_	14	punct	_	_
-12	ut	ut	SCONJ	O4|vgr1|stRL	_	14	mark	_	_
-13	supra	supra	ADP	S4|stRL	AdpType=Prep	14	advmod	_	_
-14	dictum	dico	VERB	N2|modM|tem4|grp1|casA|gen3|stAE	Aspect=Perf|Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	10	advcl	_	_
-15	est	sum	AUX	N3|modA|tem1|gen6|stAV	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	14	aux:pass	_	SpaceAfter=No
-16	,	,	PUNCT	Punc	_	10	punct	_	_
-17	quanto	quanto	ADV	O4|stRL	_	18	advmod:emph	_	_
-18	plura	multus	ADJ	C1|grn2|casM|gen3|stPV	Case=Acc|Degree=Cmp|Gender=Neut|Number=Plur	26	aux	_	_
-19	et	et	CCONJ	O4|stRL	_	21	cc	_	_
-20	magis	magis	ADV	O4|stRL	_	21	advmod	_	_
-21	propinqua	propinquus	ADJ	B1|grn1|casM|gen3|stAN	Case=Acc|Degree=Pos|Gender=Neut|Number=Plur	18	conj	_	_
-22	quis	quis	PRON	F1|grn1|casA|gen1|varA|stPV	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|PronType=Ind,Int	27	nsubj	_	_
-23	ab	a	ADP	S4|vgr2|stRL	AdpType=Prep	24	case	_	_
-24	aliquo	aliquis	PRON	F1|grn1|casF|gen3|stPV	Case=Abl|Degree=Pos|Gender=Neut|Number=Sing|PronType=Ind	25	obj	_	_
-25	remota	removeo	VERB	K2|modM|tem4|grp1|casM|gen3|stAV	Aspect=Perf|Case=Acc|Degree=Pos|Gender=Neut|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	27	csubj	_	_
-26	esse	sum	VERB	N3|modH|tem1|stAV	Tense=Pres|VerbForm=Inf|Voice=Act	27	xcomp	_	_
-27	cognoverit	cognosco	VERB	L3|modA|tem6|gen6|stAC	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
-28	,	,	PUNCT	Punc	_	35	punct	_	_
-29	tanto	tanto	ADV	O4|stRL	_	30	advmod:emph	_	_
-30	magis	magis	ADV	O4|stRL	_	35	advmod	_	_
-31	ad	ad	ADP	S4|stRL	AdpType=Prep	34	case	_	_
-32	propriam	proprius	ADJ	A1|grn1|casD|gen2|stAN	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	34	amod	_	_
-33	ipsius	ipse	PRON	F1|grn1|casB|gen3|stPV	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing|PronType=Dem,Prs	34	nmod	_	_
-34	cognitionem	cognitio	NOUN	C1|grn1|casD|gen2|vgr1|stAC	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	35	obj	_	_
-35	accedit	accedo	VERB	L3|modA|tem1|gen6|stAV	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	27	conj	_	SpaceAfter=No
-36	:	:	PUNCT	Punc	_	27	punct	_	_
+# visual-style 20	bgColor:blue
+# visual-style 20	fgColor:white
+# visual-style 21	bgColor:blue
+# visual-style 21	fgColor:white
+# visual-style 21 20 aux	color:blue
+1	nulla	nullus	PRON	F1|grn1|casA|gen2|stPV	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|PronType=Ind	4	nmod	_	_
+2	autem	autem	CCONJ	O4|stRL	_	8	cc	_	_
+3	talis	talis	PRON	C1|grn1|casA|gen2|stPV	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|PronType=Ind	4	nmod	_	_
+4	affectio	affectio	NOUN	C1|grn1|casA|gen2|stAM	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	8	nsubj	_	_
+5	in	in	ADP	S4|stRL	AdpType=Prep	6	case	_	_
+6	deo	deus	PROPN	F1|grn1|casF|gen1|stNP	Case=Abl|Degree=Pos|Gender=Masc|Number=Sing	7	obl	_	_
+7	esse	sum	VERB	N3|modH|tem1|stAV	Tense=Pres|VerbForm=Inf|Voice=Act	8	xcomp	_	_
+8	potest	possum	VERB	N3|modA|tem1|gen6|stAV	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|VerbType=Mod|Voice=Act	0	root	_	SpaceAfter=No
+9	:	:	PUNCT	Punc	_	11	punct	_	_
+10	cum	cum	SCONJ	S4|vgr1|stRL	_	11	mark	_	_
+11	desit	desum	VERB	N3|modB|tem1|gen6|stAV	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	advcl	_	_
+12	sibi	sui	PRON	F1|grn1|casC|gen1|stPV	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing|PronType=Prs|Reflex=Yes	11	obj	_	_
+13	sensitiva	sensitivus	ADJ	A1|grn1|casA|gen2|stAC	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	14	amod	_	_
+14	cognitio	cognitio	NOUN	C1|grn1|casA|gen2|vgr1|stAC	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	11	nsubj	_	SpaceAfter=No
+15	,	,	PUNCT	Punc	_	21	punct	_	_
+16	ut	ut	SCONJ	O4|vgr1|stRL	_	21	mark	_	_
+17	per	per	ADP	S4|stRL	AdpType=Prep	19	mark	_	_
+18	supra	supra	ADP	S4|stRL	AdpType=Prep	19	advmod	_	_
+19	dicta	dico	VERB	N2|modM|tem4|grp1|casM|gen3|stAE	Aspect=Perf|Case=Acc|Degree=Pos|Gender=Neut|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	21	advcl	_	_
+20	est	sum	AUX	N3|modA|tem1|gen6|stAV	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	21	aux	_	_
+21	manifestum	manifestus	ADJ	B1|grn1|casA|gen3|stAC	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	11	obl	_	SpaceAfter=No
+22	.	.	PUNCT	Punc	_	8	punct	_	_
 
 ~~~
 

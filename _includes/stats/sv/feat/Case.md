@@ -39,7 +39,7 @@ The most frequent other feature values with which `NOUN` and `Case` co-occurred:
 
 6649 [sv-pos/ADJ]() tokens (100% of all `ADJ` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `ADJ` and `Case` co-occurred: <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (5454; 82%), <tt><a href="VerbForm.html">VerbForm</a>=EMPTY</tt> (5454; 82%), <tt><a href="Degree.html">Degree</a>=Pos</tt> (4708; 71%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (4141; 62%), <tt><a href="Number.html">Number</a>=Sing</tt> (3365; 51%).
+The most frequent other feature values with which `ADJ` and `Case` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=EMPTY</tt> (5454; 82%), <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (5454; 82%), <tt><a href="Degree.html">Degree</a>=Pos</tt> (4708; 71%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (4141; 62%), <tt><a href="Number.html">Number</a>=Sing</tt> (3365; 51%).
 
 `ADJ` tokens may have the following values of `Case`:
 
@@ -113,7 +113,7 @@ The most frequent other feature values with which `NUM` and `Case` co-occurred: 
 
 39 [sv-pos/VERB]() tokens (0% of all `VERB` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `VERB` and `Case` co-occurred: <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (39; 100%), <tt><a href="Tense.html">Tense</a>=Past</tt> (39; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (39; 100%), <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (39; 100%).
+The most frequent other feature values with which `VERB` and `Case` co-occurred: <tt><a href="Tense.html">Tense</a>=Past</tt> (39; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (39; 100%), <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (39; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (39; 100%).
 
 `VERB` tokens may have the following values of `Case`:
 

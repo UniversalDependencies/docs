@@ -26,6 +26,6 @@ The feature is used with 1 part-of-speech tags: [la-pos/ADP]() (25522; 9% instan
 
 The 10 most frequent relations where parent and child node agree in `AdpType`:
 <tt>ADP --[<a href="../dep/fixed.html">fixed</a>]--> ADP</tt> (42; 100%),
-<tt>ADP --[<a href="../dep/case.html">case</a>]--> ADP</tt> (2; 100%),
-<tt>ADP --[<a href="../dep/conj.html">conj</a>]--> ADP</tt> (2; 100%).
+<tt>ADP --[<a href="../dep/conj.html">conj</a>]--> ADP</tt> (2; 100%),
+<tt>ADP --[<a href="../dep/case.html">case</a>]--> ADP</tt> (2; 100%).
 

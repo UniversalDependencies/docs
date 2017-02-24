@@ -111,7 +111,7 @@ The most frequent other feature values with which `PRON` and `PronType` co-occur
 
 21 [sl-pos/ADJ]() tokens (2% of all `ADJ` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `ADJ` and `PronType` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=EMPTY</tt> (21; 100%), <tt><a href="Degree.html">Degree</a>=Pos</tt> (21; 100%), <tt><a href="Definite.html">Definite</a>=EMPTY</tt> (20; 95%), <tt><a href="Number.html">Number</a>=Sing</tt> (18; 86%), <tt><a href="Gender.html">Gender</a>=Fem</tt> (14; 67%).
+The most frequent other feature values with which `ADJ` and `PronType` co-occurred: <tt><a href="Degree.html">Degree</a>=Pos</tt> (21; 100%), <tt><a href="VerbForm.html">VerbForm</a>=EMPTY</tt> (21; 100%), <tt><a href="Definite.html">Definite</a>=EMPTY</tt> (20; 95%), <tt><a href="Number.html">Number</a>=Sing</tt> (18; 86%), <tt><a href="Gender.html">Gender</a>=Fem</tt> (14; 67%).
 
 `ADJ` tokens may have the following values of `PronType`:
 
@@ -128,7 +128,7 @@ The 10 most frequent relations where parent and child node agree in `PronType`:
 <tt>PRON --[<a href="../dep/reparandum.html">reparandum</a>]--> PRON</tt> (8; 89%),
 <tt>DET --[<a href="../dep/conj.html">conj</a>]--> DET</tt> (7; 100%),
 <tt>DET --[<a href="../dep/flat.html">flat</a>]--> DET</tt> (2; 100%),
-<tt>DET --[<a href="../dep/appos.html">appos</a>]--> DET</tt> (1; 100%),
 <tt>PRON --[<a href="../dep/orphan.html">orphan</a>]--> PRON</tt> (1; 100%),
-<tt>DET --[<a href="../dep/parataxis.html">parataxis</a>]--> DET</tt> (1; 100%).
+<tt>DET --[<a href="../dep/parataxis.html">parataxis</a>]--> DET</tt> (1; 100%),
+<tt>DET --[<a href="../dep/appos.html">appos</a>]--> DET</tt> (1; 100%).
 

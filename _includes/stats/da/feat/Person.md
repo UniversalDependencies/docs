@@ -16,7 +16,7 @@ The feature is used with 2 part-of-speech tags: [da-pos/PRON]() (4303; 5% instan
 
 4303 [da-pos/PRON]() tokens (70% of all `PRON` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="PartType.html">PartType</a>=EMPTY</tt> (4303; 100%), <tt><a href="PronType.html">PronType</a>=Prs</tt> (4303; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (3053; 71%), <tt><a href="Gender.html">Gender</a>=Com</tt> (2430; 56%), <tt><a href="Case.html">Case</a>=Nom</tt> (2224; 52%).
+The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="PronType.html">PronType</a>=Prs</tt> (4303; 100%), <tt><a href="PartType.html">PartType</a>=EMPTY</tt> (4303; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (3053; 71%), <tt><a href="Gender.html">Gender</a>=Com</tt> (2430; 56%), <tt><a href="Case.html">Case</a>=Nom</tt> (2224; 52%).
 
 `PRON` tokens may have the following values of `Person`:
 
@@ -38,7 +38,7 @@ The most frequent other feature values with which `PRON` and `Person` co-occurre
 
 718 [da-pos/DET]() tokens (14% of all `DET` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `DET` and `Person` co-occurred: <tt><a href="PronType.html">PronType</a>=Prs</tt> (718; 100%), <tt><a href="Poss.html">Poss</a>=Yes</tt> (718; 100%), <tt><a href="Number[psor].html">Number[psor]</a>=Sing</tt> (542; 75%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (384; 53%).
+The most frequent other feature values with which `DET` and `Person` co-occurred: <tt><a href="Poss.html">Poss</a>=Yes</tt> (718; 100%), <tt><a href="PronType.html">PronType</a>=Prs</tt> (718; 100%), <tt><a href="Number[psor].html">Number[psor]</a>=Sing</tt> (542; 75%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (384; 53%).
 
 `DET` tokens may have the following values of `Person`:
 
@@ -52,6 +52,6 @@ The most frequent other feature values with which `DET` and `Person` co-occurred
 ## Relations with Agreement in `Person`
 
 The 10 most frequent relations where parent and child node agree in `Person`:
-<tt>PRON --[<a href="../dep/reparandum.html">reparandum</a>]--> PRON</tt> (1; 100%),
-<tt>PRON --[<a href="../dep/appos.html">appos</a>]--> PRON</tt> (1; 100%).
+<tt>PRON --[<a href="../dep/appos.html">appos</a>]--> PRON</tt> (1; 100%),
+<tt>PRON --[<a href="../dep/reparandum.html">reparandum</a>]--> PRON</tt> (1; 100%).
 

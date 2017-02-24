@@ -16,7 +16,7 @@ The feature is used with 3 part-of-speech tags: [pl-pos/VERB]() (4309; 6% instan
 
 4309 [pl-pos/VERB]() tokens (45% of all `VERB` tokens) have a non-empty value of `Voice`.
 
-The most frequent other feature values with which `VERB` and `Voice` co-occurred: <tt><a href="Person.html">Person</a>=EMPTY</tt> (4309; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (4309; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (4309; 100%), <tt><a href="Tense.html">Tense</a>=Past</tt> (4309; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (3320; 77%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (2802; 65%), <tt><a href="Aspect.html">Aspect</a>=Perf</tt> (2698; 63%), <tt><a href="Animacy.html">Animacy</a>=Hum</tt> (2346; 54%).
+The most frequent other feature values with which `VERB` and `Voice` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (4309; 100%), <tt><a href="Tense.html">Tense</a>=Past</tt> (4309; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (4309; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (4309; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (3320; 77%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (2802; 65%), <tt><a href="Aspect.html">Aspect</a>=Perf</tt> (2698; 63%), <tt><a href="Animacy.html">Animacy</a>=Hum</tt> (2346; 54%).
 
 `VERB` tokens may have the following values of `Voice`:
 
@@ -29,7 +29,7 @@ The most frequent other feature values with which `VERB` and `Voice` co-occurred
 
 1225 [pl-pos/ADJ]() tokens (18% of all `ADJ` tokens) have a non-empty value of `Voice`.
 
-The most frequent other feature values with which `ADJ` and `Voice` co-occurred: <tt><a href="Degree.html">Degree</a>=EMPTY</tt> (1225; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (1225; 100%), <tt><a href="Polarity.html">Polarity</a>=Pos</tt> (1215; 99%), <tt><a href="Number.html">Number</a>=Sing</tt> (795; 65%), <tt><a href="Aspect.html">Aspect</a>=Perf</tt> (763; 62%), <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (702; 57%), <tt><a href="Case.html">Case</a>=Nom</tt> (691; 56%).
+The most frequent other feature values with which `ADJ` and `Voice` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (1225; 100%), <tt><a href="Degree.html">Degree</a>=EMPTY</tt> (1225; 100%), <tt><a href="Polarity.html">Polarity</a>=Pos</tt> (1215; 99%), <tt><a href="Number.html">Number</a>=Sing</tt> (795; 65%), <tt><a href="Aspect.html">Aspect</a>=Perf</tt> (763; 62%), <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (702; 57%), <tt><a href="Case.html">Case</a>=Nom</tt> (691; 56%).
 
 `ADJ` tokens may have the following values of `Voice`:
 
@@ -43,7 +43,7 @@ The most frequent other feature values with which `ADJ` and `Voice` co-occurred:
 
 398 [pl-pos/AUX]() tokens (19% of all `AUX` tokens) have a non-empty value of `Voice`.
 
-The most frequent other feature values with which `AUX` and `Voice` co-occurred: <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (398; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (398; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (398; 100%), <tt><a href="Tense.html">Tense</a>=Past</tt> (398; 100%), <tt><a href="Variant.html">Variant</a>=EMPTY</tt> (398; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (326; 82%), <tt><a href="Aspect.html">Aspect</a>=Imp</tt> (290; 73%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (203; 51%).
+The most frequent other feature values with which `AUX` and `Voice` co-occurred: <tt><a href="Person.html">Person</a>=EMPTY</tt> (398; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (398; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (398; 100%), <tt><a href="Tense.html">Tense</a>=Past</tt> (398; 100%), <tt><a href="Variant.html">Variant</a>=EMPTY</tt> (398; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (326; 82%), <tt><a href="Aspect.html">Aspect</a>=Imp</tt> (290; 73%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (203; 51%).
 
 `AUX` tokens may have the following values of `Voice`:
 

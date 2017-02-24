@@ -11,7 +11,7 @@ The 10 most frequent `NOUN` lemmas: _، سال، مردم، کار، کشور، 
 
 The 10 most frequent `NOUN` types:  مردم، ایران، سال، کار، روز، کشور، قرار، دست، انقلاب، احمد
 
-The 10 most frequent ambiguous lemmas: _ ([NOUN]() 4853, [VERB]() 1384, [ADJ]() 1367, [ADV]() 194, [NUM]() 152, [AUX]() 98, [X]() 92, [PUNCT]() 90, [PRON]() 35, [ADP]() 32, [INTJ]() 18, [SCONJ]() 12, [CCONJ]() 5, [DET]() 4), سال ([NOUN]() 351, [ADJ]() 2), روز ([NOUN]() 311, [ADJ]() 2), برنامه ([NOUN]() 215, [ADJ]() 2), حال ([NOUN]() 201, [ADV]() 13), انقلاب ([NOUN]() 194, [ADJ]() 1), مورد ([NOUN]() 186, [ADP]() 108), امام ([NOUN]() 147, [ADJ]() 1, [X]() 1), معاویه ([NOUN]() 145, [X]() 1), گروه ([NOUN]() 144, [ADJ]() 4)
+The 10 most frequent ambiguous lemmas: _ ([NOUN]() 4853, [VERB]() 1384, [ADJ]() 1367, [ADV]() 194, [NUM]() 152, [AUX]() 98, [X]() 92, [PUNCT]() 90, [PRON]() 35, [ADP]() 32, [INTJ]() 18, [SCONJ]() 12, [CCONJ]() 5, [DET]() 4), سال ([NOUN]() 351, [ADJ]() 2), روز ([NOUN]() 311, [ADJ]() 2), برنامه ([NOUN]() 215, [ADJ]() 2), حال ([NOUN]() 201, [ADV]() 13), انقلاب ([NOUN]() 194, [ADJ]() 1), مورد ([NOUN]() 186, [ADP]() 108), امام ([NOUN]() 147, [X]() 1, [ADJ]() 1), معاویه ([NOUN]() 145, [X]() 1), گروه ([NOUN]() 144, [ADJ]() 4)
 
 The 10 most frequent ambiguous types:  روز ([NOUN]() 262, [ADJ]() 2), امام ([NOUN]() 147, [X]() 1), معاویه ([NOUN]() 145, [X]() 1), مورد ([NOUN]() 141, [ADP]() 108), سر ([NOUN]() 126, [ADP]() 19), حال ([NOUN]() 122, [ADV]() 13), میان ([NOUN]() 83, [ADP]() 24), علی ([NOUN]() 79, [X]() 4), بیماری ([NOUN]() 75, [ADJ]() 1), همراه ([NOUN]() 72, [ADP]() 22)
 

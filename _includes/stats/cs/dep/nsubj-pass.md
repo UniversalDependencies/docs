@@ -207,35 +207,34 @@ The following 4 pairs of parts of speech are connected with `nsubj:pass`: [cs-po
 
 
 ~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 1 3 nsubj:pass	color:blue
-1	Změní-li	Změní-li	NOUN	NNNXX-----A----	Gender=Neut|Polarity=Pos	9	obl	_	_
-2	se	se	PRON	P7-X4----------	Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short	1	expl:pass	_	_
-3	sazba	sazba	NOUN	NNFS1-----A----	Case=Nom|Gender=Fem|Number=Sing|Polarity=Pos	1	nsubj:pass	_	_
-4	daně	daň	NOUN	NNFS2-----A----	Case=Gen|Gender=Fem|Number=Sing|Polarity=Pos	3	nmod	_	_
-5	z	z	ADP	RR--2----------	AdpType=Prep|Case=Gen	6	case	_	LId=z-1
-6	příjmů	příjem	NOUN	NNIP2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur|Polarity=Pos	4	nmod	_	SpaceAfter=No
-7	,	,	PUNCT	Z:-------------	_	1	punct	_	_
-8	je	být	AUX	VB-S---3P-AA---	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	9	cop	_	_
-9	nutno	nutný	ADJ	ACNS------A----	Gender=Neut|Number=Sing|Polarity=Pos|Variant=Short	0	root	_	_
-10	přepočítat	přepočítat	VERB	Vf--------A----	Polarity=Pos|VerbForm=Inf	9	csubj	_	_
-11	zůstatek	zůstatek	NOUN	NNIS4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|Polarity=Pos	10	obj	_	_
-12	účtu	účet	NOUN	NNIS2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing|Polarity=Pos	11	nmod	_	_
-13	odložené	odložený	ADJ	AAFS2----1A----	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	14	amod	_	_
-14	daně	daň	NOUN	NNFS2-----A----	Case=Gen|Gender=Fem|Number=Sing|Polarity=Pos	12	nmod	_	_
-15	a	a	CCONJ	J^-------------	_	17	cc	_	LId=a-1
-16	rozdíl	rozdíl	NOUN	NNIS1-----A----	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing|Polarity=Pos	17	obj	_	_
-17	zaúčtovat	zaúčtovat	VERB	Vf--------A----	Polarity=Pos|VerbForm=Inf	10	conj	_	_
-18	prostřednictvím	prostřednictvím	ADP	RR--2----------	AdpType=Prep|Case=Gen	19	case	_	_
-19	účtu	účet	NOUN	NNIS2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing|Polarity=Pos	17	obl	_	_
-20	v	v	ADP	RR--6----------	AdpType=Prep|Case=Loc	22	case	_	LId=v-1
-21	účtové	účtový	ADJ	AAFS6----1A----	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	22	amod	_	_
-22	skupině	skupina	NOUN	NNFS6-----A----	Case=Loc|Gender=Fem|Number=Sing|Polarity=Pos	19	nmod	_	_
-23	59	59	NUM	C}-------------	NumForm=Roman|NumType=Card	22	nummod	_	SpaceAfter=No
-24	.	.	PUNCT	Z:-------------	_	9	punct	_	_
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 9 10 nsubj:pass	color:blue
+1	(1)	(1)	PUNCT	Z:-------------	_	9	punct	_	_
+2	V	v	ADP	RR--6----------	AdpType=Prep|Case=Loc	4	case	_	LId=v-1
+3	konsolidovaném	konsolidovaný	ADJ	AAIS6----1A----	Animacy=Inan|Case=Loc|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos	4	amod	_	_
+4	výkazu	výkaz	NOUN	NNIS6-----A---1	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing|Polarity=Pos	9	obl	_	_
+5	zisku	zisk	NOUN	NNIS2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing|Polarity=Pos	4	nmod	_	_
+6	a	a	CCONJ	J^-------------	_	7	cc	_	LId=a-1
+7	ztráty	ztráta	NOUN	NNFS2-----A----	Case=Gen|Gender=Fem|Number=Sing|Polarity=Pos	5	conj	_	_
+8	se	se	PRON	P7-X4----------	Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short	9	expl:pass	_	_
+9	uvádí	uvádět	VERB	VB-S---3P-AA---	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+10	výše	vysoko	ADV	Dg-------2A---1	Degree=Cmp|Polarity=Pos	9	nsubj:pass	_	LId=vysoko-1
+11	nákladů	náklad	NOUN	NNIP2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur|Polarity=Pos	10	obl	_	_
+12	a	a	CCONJ	J^-------------	_	13	cc	_	LId=a-1
+13	výnosů	výnos	NOUN	NNIP2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur|Polarity=Pos	11	conj	_	_
+14	odděleně	odděleně	ADV	Dg-------1A----	Degree=Pos|Polarity=Pos	9	advmod	_	_
+15	za	za	ADP	RR--4----------	AdpType=Prep|Case=Acc	18	case	_	LId=za-1
+16	běžné	běžný	ADJ	AANS4----1A----	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing|Polarity=Pos	18	amod	_	_
+17	účetní	účetní	ADJ	AANS4----1A----	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing|Polarity=Pos	18	amod	_	LId=účetní-1
+18	období	období	NOUN	NNNS4-----A----	Case=Acc|Gender=Neut|Number=Sing|Polarity=Pos	11	nmod	_	_
+19	a	a	CCONJ	J^-------------	_	22	cc	_	LId=a-1
+20	minulé	minulý	ADJ	AANS4----1A----	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing|Polarity=Pos	22	amod	_	_
+21	účetní	účetní	ADJ	AANS4----1A----	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing|Polarity=Pos	22	amod	_	LId=účetní-1
+22	období	období	NOUN	NNNS4-----A----	Case=Acc|Gender=Neut|Number=Sing|Polarity=Pos	18	conj	_	SpaceAfter=No
+23	.	.	PUNCT	Z:-------------	_	9	punct	_	_
 
 ~~~
 

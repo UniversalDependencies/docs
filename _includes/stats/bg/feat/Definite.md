@@ -34,7 +34,7 @@ The most frequent other feature values with which `NOUN` and `Definite` co-occur
 
 12110 [bg-pos/ADJ]() tokens (99% of all `ADJ` tokens) have a non-empty value of `Definite`.
 
-The most frequent other feature values with which `ADJ` and `Definite` co-occurred: <tt><a href="Degree.html">Degree</a>=Pos</tt> (11469; 95%), <tt><a href="VerbForm.html">VerbForm</a>=EMPTY</tt> (10775; 89%), <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (10775; 89%), <tt><a href="Aspect.html">Aspect</a>=EMPTY</tt> (10775; 89%), <tt><a href="Number.html">Number</a>=Sing</tt> (8524; 70%).
+The most frequent other feature values with which `ADJ` and `Definite` co-occurred: <tt><a href="Degree.html">Degree</a>=Pos</tt> (11469; 95%), <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (10775; 89%), <tt><a href="VerbForm.html">VerbForm</a>=EMPTY</tt> (10775; 89%), <tt><a href="Aspect.html">Aspect</a>=EMPTY</tt> (10775; 89%), <tt><a href="Number.html">Number</a>=Sing</tt> (8524; 70%).
 
 `ADJ` tokens may have the following values of `Definite`:
 
@@ -77,7 +77,7 @@ The most frequent other feature values with which `PROPN` and `Definite` co-occu
 
 2424 [bg-pos/VERB]() tokens (16% of all `VERB` tokens) have a non-empty value of `Definite`.
 
-The most frequent other feature values with which `VERB` and `Definite` co-occurred: <tt><a href="Person.html">Person</a>=EMPTY</tt> (2424; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (2424; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (2409; 99%), <tt><a href="Aspect.html">Aspect</a>=Perf</tt> (1842; 76%), <tt><a href="Number.html">Number</a>=Sing</tt> (1663; 69%), <tt><a href="Voice.html">Voice</a>=Act</tt> (1445; 60%), <tt><a href="Tense.html">Tense</a>=Past</tt> (1223; 50%).
+The most frequent other feature values with which `VERB` and `Definite` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (2424; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (2424; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (2409; 99%), <tt><a href="Aspect.html">Aspect</a>=Perf</tt> (1842; 76%), <tt><a href="Number.html">Number</a>=Sing</tt> (1663; 69%), <tt><a href="Voice.html">Voice</a>=Act</tt> (1445; 60%), <tt><a href="Tense.html">Tense</a>=Past</tt> (1223; 50%).
 
 `VERB` tokens may have the following values of `Definite`:
 
@@ -122,7 +122,7 @@ The most frequent other feature values with which `NUM` and `Definite` co-occurr
 
 714 [bg-pos/DET]() tokens (33% of all `DET` tokens) have a non-empty value of `Definite`.
 
-The most frequent other feature values with which `DET` and `Definite` co-occurred: <tt><a href="Case.html">Case</a>=EMPTY</tt> (556; 78%), <tt><a href="Number.html">Number</a>=Sing</tt> (538; 75%), <tt><a href="PronType.html">PronType</a>=Prs</tt> (465; 65%), <tt><a href="Poss.html">Poss</a>=Yes</tt> (465; 65%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (362; 51%).
+The most frequent other feature values with which `DET` and `Definite` co-occurred: <tt><a href="Case.html">Case</a>=EMPTY</tt> (556; 78%), <tt><a href="Number.html">Number</a>=Sing</tt> (538; 75%), <tt><a href="Poss.html">Poss</a>=Yes</tt> (465; 65%), <tt><a href="PronType.html">PronType</a>=Prs</tt> (465; 65%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (362; 51%).
 
 `DET` tokens may have the following values of `Definite`:
 
@@ -163,7 +163,7 @@ The most frequent other feature values with which `ADV` and `Definite` co-occurr
 
 211 [bg-pos/AUX]() tokens (3% of all `AUX` tokens) have a non-empty value of `Definite`.
 
-The most frequent other feature values with which `AUX` and `Definite` co-occurred: <tt><a href="Mood.html">Mood</a>=Ind</tt> (211; 100%), <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (211; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (211; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (211; 100%), <tt><a href="Voice.html">Voice</a>=Act</tt> (211; 100%), <tt><a href="Aspect.html">Aspect</a>=Imp</tt> (211; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (154; 73%).
+The most frequent other feature values with which `AUX` and `Definite` co-occurred: <tt><a href="Mood.html">Mood</a>=Ind</tt> (211; 100%), <tt><a href="Voice.html">Voice</a>=Act</tt> (211; 100%), <tt><a href="Aspect.html">Aspect</a>=Imp</tt> (211; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (211; 100%), <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (211; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (211; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (154; 73%).
 
 `AUX` tokens may have the following values of `Definite`:
 
@@ -174,7 +174,7 @@ The most frequent other feature values with which `AUX` and `Definite` co-occurr
 
 108 [bg-pos/PRON]() tokens (1% of all `PRON` tokens) have a non-empty value of `Definite`.
 
-The most frequent other feature values with which `PRON` and `Definite` co-occurred: <tt><a href="Poss.html">Poss</a>=EMPTY</tt> (108; 100%), <tt><a href="Reflex.html">Reflex</a>=EMPTY</tt> (108; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (108; 100%), <tt><a href="Case.html">Case</a>=Nom</tt> (101; 94%), <tt><a href="Number.html">Number</a>=Sing</tt> (84; 78%), <tt><a href="Gender.html">Gender</a>=Neut</tt> (80; 74%), <tt><a href="PronType.html">PronType</a>=Ind</tt> (65; 60%).
+The most frequent other feature values with which `PRON` and `Definite` co-occurred: <tt><a href="Poss.html">Poss</a>=EMPTY</tt> (108; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (108; 100%), <tt><a href="Reflex.html">Reflex</a>=EMPTY</tt> (108; 100%), <tt><a href="Case.html">Case</a>=Nom</tt> (101; 94%), <tt><a href="Number.html">Number</a>=Sing</tt> (84; 78%), <tt><a href="Gender.html">Gender</a>=Neut</tt> (80; 74%), <tt><a href="PronType.html">PronType</a>=Ind</tt> (65; 60%).
 
 `PRON` tokens may have the following values of `Definite`:
 

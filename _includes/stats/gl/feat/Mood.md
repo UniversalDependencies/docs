@@ -17,7 +17,7 @@ The feature is used with 2 part-of-speech tags: [gl-pos/VERB]() (869; 6% instanc
 
 869 [gl-pos/VERB]() tokens (61% of all `VERB` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (869; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (869; 100%), <tt><a href="Person.html">Person</a>=3</tt> (792; 91%), <tt><a href="Number.html">Number</a>=Sing</tt> (629; 72%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (572; 66%).
+The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (869; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (869; 100%), <tt><a href="Person.html">Person</a>=3</tt> (792; 91%), <tt><a href="Number.html">Number</a>=Sing</tt> (629; 72%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (572; 66%).
 
 `VERB` tokens may have the following values of `Mood`:
 

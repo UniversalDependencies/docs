@@ -11,7 +11,7 @@ The 10 most frequent `PRON` lemmas: <em>ми, він, я, вони, вона, в
 
 The 10 most frequent `PRON` types:  <em>ми, я, він, його, це, вона, нас, мені, вони, їх</em>
 
-The 10 most frequent ambiguous lemmas: <em>він</em> ([PRON]() 118, [DET]() 1), <em>вона</em> ([PRON]() 45, [DET]() 2), <em>це</em> ([PRON]() 34, [PART]() 2), <em>що</em> ([SCONJ]() 98, [PRON]() 26, [PART]() 3), <em>все</em> ([PRON]() 12, [PART]() 2, [DET]() 1), <em>весь</em> ([DET]() 32, [PRON]() 7), <em>то</em> ([SCONJ]() 8, [PART]() 6, [PRON]() 6, [CCONJ]() 4), <em>таке</em> ([PRON]() 4, [DET]() 1), <em>той</em> ([DET]() 45, [PRON]() 4), <em>увесь</em> ([DET]() 22, [PRON]() 2)
+The 10 most frequent ambiguous lemmas: <em>він</em> ([PRON]() 118, [DET]() 1), <em>вона</em> ([PRON]() 45, [DET]() 2), <em>це</em> ([PRON]() 34, [PART]() 2), <em>що</em> ([SCONJ]() 98, [PRON]() 26, [PART]() 3), <em>все</em> ([PRON]() 12, [PART]() 2, [DET]() 1), <em>весь</em> ([DET]() 32, [PRON]() 7), <em>то</em> ([SCONJ]() 8, [PRON]() 6, [PART]() 6, [CCONJ]() 4), <em>таке</em> ([PRON]() 4, [DET]() 1), <em>той</em> ([DET]() 45, [PRON]() 4), <em>увесь</em> ([DET]() 22, [PRON]() 2)
 
 The 10 most frequent ambiguous types:  <em>його</em> ([PRON]() 32, [DET]() 17), <em>це</em> ([PRON]() 24, [PART]() 2), <em>їх</em> ([PRON]() 17, [DET]() 1), <em>що</em> ([SCONJ]() 98, [PRON]() 13, [PART]() 3), <em>все</em> ([PRON]() 11, [DET]() 3, [PART]() 2), <em>того</em> ([PRON]() 8, [DET]() 5), <em>її</em> ([DET]() 9, [PRON]() 7), <em>тим</em> ([PRON]() 7, [DET]() 3), <em>то</em> ([SCONJ]() 8, [PART]() 4, [CCONJ]() 4, [PRON]() 2), <em>всі</em> ([DET]() 13, [PRON]() 2)
 

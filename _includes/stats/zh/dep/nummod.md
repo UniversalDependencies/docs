@@ -81,32 +81,28 @@ The following 16 pairs of parts of speech are connected with `nummod`: [zh-pos/N
 
 
 ~~~ conllu
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 10 9 nummod	color:blue
-1	在	在	ADP	IN	_	2	case	_	SpaceAfter=No
-2	測試	測試	NOUN	NN	_	13	obl	_	SpaceAfter=No
-3	中	中	ADP	IN	_	2	acl	_	SpaceAfter=No
-4	,	,	PUNCT	,	_	13	punct	_	SpaceAfter=No
-5	最初	最初	NOUN	NN	_	6	nmod:tmod	_	SpaceAfter=No
-6	行駛	行駛	VERB	VV	_	10	csubj	_	SpaceAfter=No
-7	時	時	ADP	IN	_	6	mark	_	SpaceAfter=No
-8	為	為	AUX	VC	_	10	cop	_	SpaceAfter=No
-9	95	95	NUM	CD	NumType=Card	10	nummod	_	_
-10	km/h	km/h	X	FW	_	13	dep	_	SpaceAfter=No
-11	,	,	PUNCT	,	_	13	punct	_	SpaceAfter=No
-12	然後	然後	ADV	RB	_	13	advmod	_	SpaceAfter=No
-13	開始	開始	VERB	VV	_	0	root	_	SpaceAfter=No
-14	以	以	ADP	IN	_	18	case	_	SpaceAfter=No
-15	5	5	NUM	CD	NumType=Card	16	nummod	_	_
-16	km/h	km/h	X	FW	_	18	det	_	SpaceAfter=No
-17	的	的	PART	DEC	Case=Gen	16	case:dec	_	SpaceAfter=No
-18	速度	速度	NOUN	NN	_	20	obl	_	SpaceAfter=No
-19	逐漸	逐漸	ADV	RB	_	20	advmod	_	SpaceAfter=No
-20	提高	提高	VERB	VV	_	13	xcomp	_	SpaceAfter=No
-21	.	.	PUNCT	.	_	13	punct	_	SpaceAfter=No
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 1 nummod	color:blue
+1	兩	兩	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No
+2	鐵	鐵	PROPN	NNP	_	3	nsubj	_	SpaceAfter=No
+3	合併	合併	VERB	VV	_	13	acl	_	SpaceAfter=No
+4	後	後	ADP	IN	_	3	mark	_	SpaceAfter=No
+5	,	,	PUNCT	,	_	13	punct	_	SpaceAfter=No
+6	九鐵	九鐵	PROPN	NNP	_	7	nmod	_	SpaceAfter=No
+7	公司	公司	NOUN	NN	_	13	nsubj	_	SpaceAfter=No
+8	將	將	VERB	BB	Voice=Cau	13	aux:caus	_	SpaceAfter=No
+9	其	其	PRON	PRP	Person=3	12	nmod	_	SpaceAfter=No
+10	物業	物業	NOUN	NN	_	12	nmod	_	SpaceAfter=No
+11	發展	發展	VERB	VV	_	12	case:suff	_	SpaceAfter=No
+12	權	權	PART	SFN	_	13	obj	_	SpaceAfter=No
+13	轉讓	轉讓	VERB	VV	_	0	root	_	SpaceAfter=No
+14	至	至	VERB	VV	_	13	mark	_	SpaceAfter=No
+15	港鐵	港鐵	PROPN	NNP	_	16	nmod	_	SpaceAfter=No
+16	公司	公司	NOUN	NN	_	14	obj	_	SpaceAfter=No
+17	.	.	PUNCT	.	_	13	punct	_	SpaceAfter=No
 
 ~~~
 

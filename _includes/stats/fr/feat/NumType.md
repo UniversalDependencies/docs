@@ -130,7 +130,7 @@ The most frequent other feature values with which `NOUN` and `NumType` co-occurr
 
 56 [fr-pos/PRON]() tokens (2% of all `PRON` tokens) have a non-empty value of `NumType`.
 
-The most frequent other feature values with which `PRON` and `NumType` co-occurred: <tt><a href="Person.html">Person</a>=EMPTY</tt> (56; 100%), <tt><a href="Reflex.html">Reflex</a>=EMPTY</tt> (56; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (56; 100%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (56; 100%), <tt><a href="PronType.html">PronType</a>=Rel</tt> (56; 100%).
+The most frequent other feature values with which `PRON` and `NumType` co-occurred: <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (56; 100%), <tt><a href="Reflex.html">Reflex</a>=EMPTY</tt> (56; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (56; 100%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (56; 100%), <tt><a href="PronType.html">PronType</a>=Rel</tt> (56; 100%).
 
 `PRON` tokens may have the following values of `NumType`:
 
@@ -145,8 +145,8 @@ The 10 most frequent relations where parent and child node agree in `NumType`:
 <tt>NUM --[<a href="../dep/conj.html">conj</a>]--> NUM</tt> (23; 100%),
 <tt>NUM --[<a href="../dep/nmod.html">nmod</a>]--> NUM</tt> (17; 100%),
 <tt>NUM --[<a href="../dep/fixed.html">fixed</a>]--> NUM</tt> (4; 100%),
-<tt>ADJ --[<a href="../dep/conj.html">conj</a>]--> ADJ</tt> (4; 100%),
 <tt>NUM --[<a href="../dep/nummod.html">nummod</a>]--> NUM</tt> (4; 100%),
+<tt>ADJ --[<a href="../dep/conj.html">conj</a>]--> ADJ</tt> (4; 100%),
 <tt>ADJ --[<a href="../dep/fixed.html">fixed</a>]--> ADJ</tt> (2; 100%),
 <tt>PRON --[<a href="../dep/conj.html">conj</a>]--> PRON</tt> (1; 100%),
 <tt>NOUN --[<a href="../dep/iobj.html">iobj</a>]--> PRON</tt> (1; 100%).

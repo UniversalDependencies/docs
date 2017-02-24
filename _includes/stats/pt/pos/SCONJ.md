@@ -11,9 +11,9 @@ The 10 most frequent `SCONJ` lemmas: <em>que, se, porque, embora, pois, caso, co
 
 The 10 most frequent `SCONJ` types:  <em>que, se, porque, embora, pois, caso, como, Senão, assim, e</em>
 
-The 10 most frequent ambiguous lemmas: <em>que</em> ([PRON]() 2542, [SCONJ]() 1545, [ADV]() 86, [NOUN]() 53, [DET]() 18, [PROPN]() 12, [ADP]() 9, [X]() 1), <em>se</em> ([PRON]() 1380, [SCONJ]() 266, [ADP]() 2), <em>porque</em> ([SCONJ]() 157, [ADV]() 10), <em>embora</em> ([SCONJ]() 59, [ADV]() 3), <em>pois</em> ([SCONJ]() 38, [ADV]() 12, [ADP]() 1, [INTJ]() 1), <em>caso</em> ([NOUN]() 141, [SCONJ]() 23), <em>como</em> ([ADP]() 405, [ADV]() 215, [NOUN]() 29, [SCONJ]() 23), <em>assim</em> ([ADV]() 94, [ADP]() 1, [SCONJ]() 1), <em>e</em> ([CCONJ]() 4061, [PROPN]() 45, [ADP]() 2, [NOUN]() 1, [SCONJ]() 1), <em>senão</em> ([ADV]() 6, [ADP]() 3, [SCONJ]() 1)
+The 10 most frequent ambiguous lemmas: <em>que</em> ([PRON]() 2542, [SCONJ]() 1545, [ADV]() 86, [NOUN]() 53, [DET]() 18, [PROPN]() 12, [ADP]() 9, [X]() 1), <em>se</em> ([PRON]() 1380, [SCONJ]() 266, [ADP]() 2), <em>porque</em> ([SCONJ]() 157, [ADV]() 10), <em>embora</em> ([SCONJ]() 59, [ADV]() 3), <em>pois</em> ([SCONJ]() 38, [ADV]() 12, [INTJ]() 1, [ADP]() 1), <em>caso</em> ([NOUN]() 141, [SCONJ]() 23), <em>como</em> ([ADP]() 405, [ADV]() 215, [NOUN]() 29, [SCONJ]() 23), <em>assim</em> ([ADV]() 94, [ADP]() 1, [SCONJ]() 1), <em>e</em> ([CCONJ]() 4061, [PROPN]() 45, [ADP]() 2, [SCONJ]() 1, [NOUN]() 1), <em>senão</em> ([ADV]() 6, [ADP]() 3, [SCONJ]() 1)
 
-The 10 most frequent ambiguous types:  <em>que</em> ([PRON]() 2536, [SCONJ]() 1537, [ADV]() 86, [NOUN]() 53, [DET]() 15, [PROPN]() 12, [ADP]() 9, [X]() 1), <em>se</em> ([PRON]() 1362, [SCONJ]() 180, [ADP]() 2), <em>porque</em> ([SCONJ]() 143, [ADV]() 7), <em>embora</em> ([SCONJ]() 44, [ADV]() 3), <em>pois</em> ([SCONJ]() 38, [ADV]() 11, [ADP]() 1), <em>caso</em> ([NOUN]() 103, [SCONJ]() 17), <em>como</em> ([ADP]() 386, [ADV]() 189, [NOUN]() 29, [SCONJ]() 9), <em>Senão</em> ([SCONJ]() 1, [ADV]() 1), <em>assim</em> ([ADV]() 71, [ADP]() 1, [SCONJ]() 1), <em>e</em> ([CCONJ]() 3902, [PROPN]() 45, [ADP]() 3, [SCONJ]() 1, [NOUN]() 1)
+The 10 most frequent ambiguous types:  <em>que</em> ([PRON]() 2536, [SCONJ]() 1537, [ADV]() 86, [NOUN]() 53, [DET]() 15, [PROPN]() 12, [ADP]() 9, [X]() 1), <em>se</em> ([PRON]() 1362, [SCONJ]() 180, [ADP]() 2), <em>porque</em> ([SCONJ]() 143, [ADV]() 7), <em>embora</em> ([SCONJ]() 44, [ADV]() 3), <em>pois</em> ([SCONJ]() 38, [ADV]() 11, [ADP]() 1), <em>caso</em> ([NOUN]() 103, [SCONJ]() 17), <em>como</em> ([ADP]() 386, [ADV]() 189, [NOUN]() 29, [SCONJ]() 9), <em>Senão</em> ([ADV]() 1, [SCONJ]() 1), <em>assim</em> ([ADV]() 71, [ADP]() 1, [SCONJ]() 1), <em>e</em> ([CCONJ]() 3902, [PROPN]() 45, [ADP]() 3, [SCONJ]() 1, [NOUN]() 1)
 
 
 * <em>que</em>
@@ -48,8 +48,8 @@ The 10 most frequent ambiguous types:  <em>que</em> ([PRON]() 2536, [SCONJ]() 15
   * [NOUN]() 29: <em>Tal <b>como</b> a rainha Isabel II , John Major limitou se a acompanhar os factos .</em>
   * [SCONJ]() 9: <em>Depois , <b>como</b> ele nunca mais saía , comecei a espreitar .</em>
 * <em>Senão</em>
-  * [SCONJ]() 1: <em><b>Senão</b> eu não ia mais conseguir discutir salário com ele sem me lembrar de o episódio e rir . »</em>
   * [ADV]() 1: <em>« <b>Senão</b> ele vai ser alvo fácil de as críticas se o time perder . »</em>
+  * [SCONJ]() 1: <em><b>Senão</b> eu não ia mais conseguir discutir salário com ele sem me lembrar de o episódio e rir . »</em>
 * <em>assim</em>
   * [ADV]() 71: <em>A televisão pode ter <b>assim</b> tanto poder ?</em>
   * [ADP]() 1: <em>Também Armindo Cordeiro é peremptório a o afirmar que o logradouro ajardinado não será destruído , mas por o contrário ampliado , <b>assim</b> como melhorará a situação de os moradores e lojistas de a zona .</em>

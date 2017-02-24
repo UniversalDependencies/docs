@@ -11,7 +11,7 @@ The 10 most frequent `X` lemmas: _، بن، ابن، و، من، الله، اح
 
 The 10 most frequent `X` types:  بن، ابن، و، من، الله، فی، احنف، علی، ابی، المؤمنین
 
-The 10 most frequent ambiguous lemmas: _ ([NOUN]() 4853, [VERB]() 1384, [ADJ]() 1367, [ADV]() 194, [NUM]() 152, [AUX]() 98, [X]() 92, [PUNCT]() 90, [PRON]() 35, [ADP]() 32, [INTJ]() 18, [SCONJ]() 12, [CCONJ]() 5, [DET]() 4), بن ([NOUN]() 22, [X]() 20), ابن ([X]() 12, [NOUN]() 5), و ([CCONJ]() 6252, [X]() 12, [SCONJ]() 2, [NOUN]() 2), من ([PRON]() 460, [X]() 8, [SCONJ]() 1, [ADJ]() 1), الله ([X]() 6, [NOUN]() 4), احنف ([X]() 4, [NOUN]() 2), علی ([NOUN]() 79, [X]() 4), ابی ([NOUN]() 8, [X]() 3), الی ([ADP]() 3, [X]() 2)
+The 10 most frequent ambiguous lemmas: _ ([NOUN]() 4853, [VERB]() 1384, [ADJ]() 1367, [ADV]() 194, [NUM]() 152, [AUX]() 98, [X]() 92, [PUNCT]() 90, [PRON]() 35, [ADP]() 32, [INTJ]() 18, [SCONJ]() 12, [CCONJ]() 5, [DET]() 4), بن ([NOUN]() 22, [X]() 20), ابن ([X]() 12, [NOUN]() 5), و ([CCONJ]() 6252, [X]() 12, [NOUN]() 2, [SCONJ]() 2), من ([PRON]() 460, [X]() 8, [ADJ]() 1, [SCONJ]() 1), الله ([X]() 6, [NOUN]() 4), احنف ([X]() 4, [NOUN]() 2), علی ([NOUN]() 79, [X]() 4), ابی ([NOUN]() 8, [X]() 3), الی ([ADP]() 3, [X]() 2)
 
 The 10 most frequent ambiguous types:  بن ([NOUN]() 22, [X]() 20), ابن ([X]() 12, [NOUN]() 5), و ([CCONJ]() 6252, [X]() 12, [SCONJ]() 2, [NOUN]() 2, [PART]() 1), من ([PRON]() 325, [X]() 8), الله ([X]() 7, [NOUN]() 4), احنف ([X]() 4, [NOUN]() 2), علی ([NOUN]() 79, [X]() 4), ابی ([NOUN]() 8, [X]() 3), الا ([X]() 2, [CCONJ]() 1), الی ([ADP]() 3, [X]() 2)
 

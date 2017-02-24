@@ -11,9 +11,9 @@ The 10 most frequent `NUM` lemmas: <em>kaks, üks, paar, kolm, viis, kuus, seits
 
 The 10 most frequent `NUM` types:  <em>kaks, paar, kahe, üks, viis, ühe, 2, kolm, seitse, 15</em>
 
-The 10 most frequent ambiguous lemmas: <em>üks</em> ([DET]() 67, [NUM]() 28, [PRON]() 11), <em>paar</em> ([NUM]() 22, [NOUN]() 2), <em>viis</em> ([NUM]() 17, [NOUN]() 4), <em>seitse</em> ([NUM]() 11, [NOUN]() 1), <em>pool</em> ([NUM]() 6, [NOUN]() 4, [ADP]() 3), <em>kolmas</em> ([ADJ]() 12, [NUM]() 2), <em>1990</em> ([ADJ]() 1, [NUM]() 1), <em>null</em> ([NOUN]() 3, [NUM]() 1), <em>sada</em> ([VERB]() 3, [NOUN]() 1, [NUM]() 1), <em>teine</em> ([PRON]() 37, [DET]() 22, [ADJ]() 20, [NUM]() 1)
+The 10 most frequent ambiguous lemmas: <em>üks</em> ([DET]() 67, [NUM]() 28, [PRON]() 11), <em>paar</em> ([NUM]() 22, [NOUN]() 2), <em>viis</em> ([NUM]() 17, [NOUN]() 4), <em>seitse</em> ([NUM]() 11, [NOUN]() 1), <em>pool</em> ([NUM]() 6, [NOUN]() 4, [ADP]() 3), <em>kolmas</em> ([ADJ]() 12, [NUM]() 2), <em>1990</em> ([ADJ]() 1, [NUM]() 1), <em>null</em> ([NOUN]() 3, [NUM]() 1), <em>sada</em> ([VERB]() 3, [NUM]() 1, [NOUN]() 1), <em>teine</em> ([PRON]() 37, [DET]() 22, [ADJ]() 20, [NUM]() 1)
 
-The 10 most frequent ambiguous types:  <em>üks</em> ([DET]() 17, [NUM]() 11, [PRON]() 1), <em>viis</em> ([NUM]() 11, [VERB]() 11), <em>ühe</em> ([DET]() 11, [NUM]() 7, [PRON]() 2), <em>seitse</em> ([NUM]() 5, [NOUN]() 1), <em>kuus</em> ([NUM]() 4, [NOUN]() 1), <em>paari</em> ([NUM]() 4, [NOUN]() 1), <em>pool</em> ([NUM]() 4, [NOUN]() 2, [ADP]() 2), <em>kuue</em> ([NOUN]() 3, [NUM]() 3), <em>ühte</em> ([NUM]() 3, [ADV]() 1), <em>kolmandat</em> ([ADJ]() 5, [NUM]() 2)
+The 10 most frequent ambiguous types:  <em>üks</em> ([DET]() 17, [NUM]() 11, [PRON]() 1), <em>viis</em> ([VERB]() 11, [NUM]() 11), <em>ühe</em> ([DET]() 11, [NUM]() 7, [PRON]() 2), <em>seitse</em> ([NUM]() 5, [NOUN]() 1), <em>kuus</em> ([NUM]() 4, [NOUN]() 1), <em>paari</em> ([NUM]() 4, [NOUN]() 1), <em>pool</em> ([NUM]() 4, [NOUN]() 2, [ADP]() 2), <em>kuue</em> ([NUM]() 3, [NOUN]() 3), <em>ühte</em> ([NUM]() 3, [ADV]() 1), <em>kolmandat</em> ([ADJ]() 5, [NUM]() 2)
 
 
 * <em>üks</em>
@@ -21,8 +21,8 @@ The 10 most frequent ambiguous types:  <em>üks</em> ([DET]() 17, [NUM]() 11, [P
   * [NUM]() 11: <em>Jälle <b>üks</b> piinarikas öö !</em>
   * [PRON]() 1: <em>Miks temalgi ei võinud <b>üks</b> olla ?</em>
 * <em>viis</em>
-  * [NUM]() 11: <em>Me alustasime <b>viis</b> ... ei , juba kuue aasta eest .</em>
   * [VERB]() 11: <em>Ta võttis kanaplika ning <b>viis</b> kööki , kus pliidi kõrval oli pisike kast .</em>
+  * [NUM]() 11: <em>Me alustasime <b>viis</b> ... ei , juba kuue aasta eest .</em>
 * <em>ühe</em>
   * [DET]() 11: <em>Ka kuningas kukk ei ilmunud kohale <b>ühe</b> tühise kana kutsumise peale .</em>
   * [NUM]() 7: <em>Berezina tabas <b>ühe</b> vabaviske ja küljeaudi järel kolmepunktiviske .</em>
@@ -41,8 +41,8 @@ The 10 most frequent ambiguous types:  <em>üks</em> ([DET]() 17, [NUM]() 11, [P
   * [NOUN]() 2: <em>Seepärast ütles ta ainult " ko " ja sellestki jäi <b>pool</b> kurku kinni .</em>
   * [ADP]() 2: <em>Me liikusime Helenega täiesti vabalt igal <b>pool</b> .</em>
 * <em>kuue</em>
-  * [NOUN]() 3: <em>Vanamees komberdas kõige taga aeda <b>kuue</b> järele .</em>
   * [NUM]() 3: <em>Me alustasime viis ... ei , juba <b>kuue</b> aasta eest .</em>
+  * [NOUN]() 3: <em>Vanamees komberdas kõige taga aeda <b>kuue</b> järele .</em>
 * <em>ühte</em>
   * [NUM]() 3: <em>Noid rahasid mahtunuks <b>ühte</b> eurosse 166 .</em>
   * [ADV]() 1: <em>Kuna katse <b>ühte</b> tüve kaevandusalalt minema transportida ebaõnnestus , siis plaanitakse iidsete puude säilitamist nende leiukohas .</em>

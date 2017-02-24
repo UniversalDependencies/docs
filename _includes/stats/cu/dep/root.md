@@ -33,7 +33,13 @@ The following 10 pairs of parts of speech are connected with `root`: [cu-pos/ROO
 # visual-style 0	bgColor:blue
 # visual-style 0	fgColor:white
 # visual-style 0 1 root	color:blue
-1	пръвꙑ	прьвъ	ADJ	Mo	Case=Nom|Gender=Masc|Number=Sing	0	root	_	ref=MATT_21.31
+1	око	око	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	0	root	_	ref=MATT_5.38
+2	за	за	ADP	R-	_	3	case	_	ref=MATT_5.38
+3	око	око	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	1	obl	_	ref=MATT_5.38
+4	и	и	CCONJ	C-	_	1	cc	_	ref=MATT_5.38
+5	зѫбъ	зѫбъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	1	conj	_	ref=MATT_5.38
+6	за	за	ADP	R-	_	7	case	_	ref=MATT_5.38
+7	зѫбъ	зѫбъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	5	orphan	_	ref=MATT_5.38
 
 ~~~
 
@@ -44,13 +50,7 @@ The following 10 pairs of parts of speech are connected with `root`: [cu-pos/ROO
 # visual-style 0	bgColor:blue
 # visual-style 0	fgColor:white
 # visual-style 0 1 root	color:blue
-1	око	око	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	0	root	_	ref=MATT_5.38
-2	за	за	ADP	R-	_	3	case	_	ref=MATT_5.38
-3	око	око	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	1	obl	_	ref=MATT_5.38
-4	и	и	CCONJ	C-	_	1	cc	_	ref=MATT_5.38
-5	зѫбъ	зѫбъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	1	conj	_	ref=MATT_5.38
-6	за	за	ADP	R-	_	7	case	_	ref=MATT_5.38
-7	зѫбъ	зѫбъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	5	orphan	_	ref=MATT_5.38
+1	пръвꙑ	прьвъ	ADJ	Mo	Case=Nom|Gender=Masc|Number=Sing	0	root	_	ref=MATT_21.31
 
 ~~~
 

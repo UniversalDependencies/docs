@@ -55,19 +55,24 @@ The following 5 pairs of parts of speech are connected with `vocative`: [fr-pos/
 
 
 ~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 1 vocative	color:blue
-1	Chauchard	Chauchard	PROPN	_	_	6	vocative	_	SpaceAfter=No
-2	,	,	PUNCT	_	_	1	punct	_	_
-3	tu	il	PRON	_	Number=Sing|Person=2|PronType=Prs	6	nsubj	_	_
-4	es	être	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	6	cop	_	_
-5	une	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
-6	bête	bête	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
-7	!	!	PUNCT	_	_	6	punct	_	_
-8	"	"	PUNCT	_	_	6	punct	_	_
+# visual-style 12	bgColor:blue
+# visual-style 12	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 12 vocative	color:blue
+1	c'	ce	PRON	_	Number=Sing|Person=3|PronType=Dem	5	nsubj	_	SpaceAfter=No
+2	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+3	du	du	DET	_	Gender=Masc|Number=Sing	5	det	_	_
+4	bon	bon	ADJ	_	Gender=Masc|Number=Sing	5	amod	_	_
+5	boulot	boulot	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+6	que	que	PRON	_	PronType=Rel	10	obj	_	_
+7	vous	vous	PRON	_	Number=Plur|Person=2|PronType=Prs	10	nsubj	_	_
+8	m'	me	PRON	_	Number=Sing|Person=1|PronType=Prs	10	iobj	_	SpaceAfter=No
+9	avez	avoir	AUX	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	10	aux	_	_
+10	fait	faire	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	5	acl:relcl	_	_
+11	les	le	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	12	det	_	_
+12	gars	gars	NOUN	_	Gender=Masc|Number=Plur	5	vocative	_	_
+13	!	!	PUNCT	_	_	5	punct	_	_
 
 ~~~
 

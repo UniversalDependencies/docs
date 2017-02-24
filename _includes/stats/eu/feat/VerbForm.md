@@ -16,7 +16,7 @@ The feature is used with 3 part-of-speech tags: [eu-pos/VERB]() (10232; 11% inst
 
 10232 [eu-pos/VERB]() tokens (67% of all `VERB` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="Person[abs].html">Person[abs]</a>=EMPTY</tt> (10232; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (10232; 100%), <tt><a href="Number[abs].html">Number[abs]</a>=EMPTY</tt> (10232; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (9160; 90%).
+The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="Number[abs].html">Number[abs]</a>=EMPTY</tt> (10232; 100%), <tt><a href="Person[abs].html">Person[abs]</a>=EMPTY</tt> (10232; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (10232; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (9160; 90%).
 
 `VERB` tokens may have the following values of `VerbForm`:
 
@@ -45,7 +45,7 @@ The most frequent other feature values with which `VERB` and `VerbForm` co-occur
 
 527 [eu-pos/AUX]() tokens (5% of all `AUX` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `AUX` and `VerbForm` co-occurred: <tt><a href="Person[abs].html">Person[abs]</a>=EMPTY</tt> (527; 100%), <tt><a href="Number[erg].html">Number[erg]</a>=EMPTY</tt> (527; 100%), <tt><a href="Number[abs].html">Number[abs]</a>=EMPTY</tt> (527; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (527; 100%), <tt><a href="Person[erg].html">Person[erg]</a>=EMPTY</tt> (527; 100%), <tt><a href="Aspect.html">Aspect</a>=Perf</tt> (278; 53%).
+The most frequent other feature values with which `AUX` and `VerbForm` co-occurred: <tt><a href="Number[abs].html">Number[abs]</a>=EMPTY</tt> (527; 100%), <tt><a href="Number[erg].html">Number[erg]</a>=EMPTY</tt> (527; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (527; 100%), <tt><a href="Person[abs].html">Person[abs]</a>=EMPTY</tt> (527; 100%), <tt><a href="Person[erg].html">Person[erg]</a>=EMPTY</tt> (527; 100%), <tt><a href="Aspect.html">Aspect</a>=Perf</tt> (278; 53%).
 
 `AUX` tokens may have the following values of `VerbForm`:
 

@@ -115,7 +115,7 @@ The most frequent other feature values with which `ADJ` and `Person` co-occurred
 
 1792 [tr-pos/PRON]() tokens (100% of all `PRON` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="Number[psor].html">Number[psor]</a>=EMPTY</tt> (1498; 84%), <tt><a href="Person[psor].html">Person[psor]</a>=EMPTY</tt> (1498; 84%), <tt><a href="Number.html">Number</a>=Sing</tt> (1420; 79%), <tt><a href="PronType.html">PronType</a>=Prs</tt> (994; 55%).
+The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="Person[psor].html">Person[psor]</a>=EMPTY</tt> (1498; 84%), <tt><a href="Number[psor].html">Number[psor]</a>=EMPTY</tt> (1498; 84%), <tt><a href="Number.html">Number</a>=Sing</tt> (1420; 79%), <tt><a href="PronType.html">PronType</a>=Prs</tt> (994; 55%).
 
 `PRON` tokens may have the following values of `Person`:
 
@@ -167,16 +167,16 @@ The most frequent other feature values with which `AUX` and `Person` co-occurred
 
 <table>
   <tr><th>Paradigm <i>i</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
-  <tr><td><tt><a href="Evident.html">Evident</a>=Nfh|<a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Tense.html">Tense</a>=Past</tt></td><td><em>ymışım</em></td><td><em>mışsın</em></td><td><em>mış, ymiş, ymış, eymiş, ymuş, immiş, edenmiş, müş, ostakoviç'miş, miş</em></td></tr>
+  <tr><td><tt><a href="Evident.html">Evident</a>=Nfh|<a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Tense.html">Tense</a>=Past</tt></td><td><em>ymışım</em></td><td><em>mışsın</em></td><td><em>mış, ymiş, eymiş, ymış, ymuş, müş, miş, immiş, edenmiş, ostakoviç'miş</em></td></tr>
   <tr><td><tt><a href="Evident.html">Evident</a>=Nfh|<a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Tense.html">Tense</a>=Past|<a href="VerbForm.html">VerbForm</a>=Conv</tt></td><td></td><td></td><td><em>ymişçesine</em></td></tr>
   <tr><td><tt><a href="Evident.html">Evident</a>=Nfh|<a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Plur|<a href="Tense.html">Tense</a>=Past</tt></td><td><em>ymışız</em></td><td></td><td></td></tr>
-  <tr><td><tt><a href="Mood.html">Mood</a>=Cnd|<a href="Number.html">Number</a>=Sing|<a href="Tense.html">Tense</a>=Pres</tt></td><td><em>sem</em></td><td></td><td><em>sa, se, yse, ysa, imse, siyse</em></td></tr>
-  <tr><td><tt><a href="Mood.html">Mood</a>=Gen|<a href="Number.html">Number</a>=Sing|<a href="Tense.html">Tense</a>=Pres</tt></td><td></td><td></td><td><em>dır, dir, dur, tir, tır, tur, dür, edir, ledir, tür, 'dır, ir, üdür</em></td></tr>
-  <tr><td><tt><a href="Mood.html">Mood</a>=Gen|<a href="Number.html">Number</a>=Plur|<a href="Tense.html">Tense</a>=Pres</tt></td><td></td><td><em>sinizdir</em></td><td><em>lerdir, lardır, dırlar, etinlerdir, durlar</em></td></tr>
-  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Tense.html">Tense</a>=Past</tt></td><td><em>ydim, ydım, tum, ydum, dum, tım, dım, dim, düm</em></td><td><em>erdeydin, ydin, din</em></td><td><em>ydi, dı, ydı, tu, ydu, tı, di, ti, du, dü, eydi, 'ydı, 'di, ydü, 'dı, tü, eredeydi, 'ydi</em></td></tr>
-  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Tense.html">Tense</a>=Pres</tt></td><td><em>im, yim, yım, ım, yum, üm</em></td><td><em>sın, usevisin, sin, sun, eredesin, s'ın</em></td><td></td></tr>
-  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Plur|<a href="Tense.html">Tense</a>=Past</tt></td><td><em>ydik, ydık, dik</em></td><td><em>ydınız</em></td><td><em>tılar, ydılar, ydiler, dular</em></td></tr>
-  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Plur|<a href="Tense.html">Tense</a>=Pres</tt></td><td><em>ız, yız, iz, yiz, yüz, yuz</em></td><td><em>sınız, imsiniz, eredesiniz, sunuz, lırsınız</em></td><td><em>ler, lar</em></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Cnd|<a href="Number.html">Number</a>=Sing|<a href="Tense.html">Tense</a>=Pres</tt></td><td><em>sem</em></td><td></td><td><em>sa, se, yse, imse, siyse, ysa</em></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Gen|<a href="Number.html">Number</a>=Sing|<a href="Tense.html">Tense</a>=Pres</tt></td><td></td><td></td><td><em>dır, dir, dur, tir, tur, tır, dür, edir, tür, ledir, 'dır, üdür, ir</em></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Gen|<a href="Number.html">Number</a>=Plur|<a href="Tense.html">Tense</a>=Pres</tt></td><td></td><td><em>sinizdir</em></td><td><em>lerdir, lardır, dırlar, durlar, etinlerdir</em></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Tense.html">Tense</a>=Past</tt></td><td><em>ydim, ydım, tum, ydum, tım, dım, düm, dum, dim</em></td><td><em>erdeydin, ydin, din</em></td><td><em>ydi, dı, ydı, tu, ydu, tı, ti, di, du, eydi, dü, 'dı, tü, 'ydı, ydü, eredeydi, 'di, 'ydi</em></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Tense.html">Tense</a>=Pres</tt></td><td><em>im, yim, yım, ım, yum, üm</em></td><td><em>sın, sun, s'ın, usevisin, eredesin, sin</em></td><td></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Plur|<a href="Tense.html">Tense</a>=Past</tt></td><td><em>ydik, ydık, dik</em></td><td><em>ydınız</em></td><td><em>tılar, ydılar, dular, ydiler</em></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Plur|<a href="Tense.html">Tense</a>=Pres</tt></td><td><em>yız, ız, iz, yiz, yüz, yuz</em></td><td><em>sınız, imsiniz, eredesiniz, sunuz, lırsınız</em></td><td><em>ler, lar</em></td></tr>
 </table>
 
 ### `NUM`

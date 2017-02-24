@@ -11,7 +11,7 @@ The 10 most frequent `PROPN` lemmas: <em>România, Winston, București, Iași, T
 
 The 10 most frequent `PROPN` types:  <em>România, Winston, României, București, Iași, Timișoara, Paris, Ion, Moldova, Alexandru</em>
 
-The 10 most frequent ambiguous lemmas: <em>Celsius</em> ([PROPN]() 7, [NOUN]() 5), <em>New</em> ([PROPN]() 6, [X]() 1), <em>Al</em> ([PROPN]() 2, [NOUN]() 1), <em>CV</em> ([PROPN]() 2, [NOUN]() 1), <em>Basarab</em> ([PROPN]() 1, [NOUN]() 1), <em>clorprofa</em> ([VERB]() 1, [PROPN]() 1), <em>coli</em> ([X]() 1, [PROPN]() 1), <em>dopă</em> ([PROPN]() 1, [NOUN]() 1), <em>et</em> ([PROPN]() 1, [NOUN]() 1), <em>filgrastim</em> ([PROPN]() 1, [NOUN]() 1, [ADV]() 1)
+The 10 most frequent ambiguous lemmas: <em>Celsius</em> ([PROPN]() 7, [NOUN]() 5), <em>New</em> ([PROPN]() 6, [X]() 1), <em>Al</em> ([PROPN]() 2, [NOUN]() 1), <em>CV</em> ([PROPN]() 2, [NOUN]() 1), <em>Basarab</em> ([NOUN]() 1, [PROPN]() 1), <em>clorprofa</em> ([PROPN]() 1, [VERB]() 1), <em>coli</em> ([PROPN]() 1, [X]() 1), <em>dopă</em> ([NOUN]() 1, [PROPN]() 1), <em>et</em> ([PROPN]() 1, [NOUN]() 1), <em>filgrastim</em> ([ADV]() 1, [PROPN]() 1, [NOUN]() 1)
 
 The 10 most frequent ambiguous types:  <em>Dunării</em> ([PROPN]() 16, [NOUN]() 1), <em>Roman</em> ([PROPN]() 8, [ADJ]() 1), <em>Parkinson</em> ([PROPN]() 7, [NOUN]() 3), <em>New</em> ([PROPN]() 6, [X]() 1), <em>Tom</em> ([PROPN]() 5, [NOUN]() 1), <em>Glimepirida</em> ([PROPN]() 3, [NOUN]() 1), <em>Oseltamivirul</em> ([PROPN]() 3, [NOUN]() 1), <em>Victoria</em> ([PROPN]() 3, [NOUN]() 1), <em>Victoriei</em> ([PROPN]() 3, [NOUN]() 1), <em>ATP-azei</em> ([PROPN]() 2, [NOUN]() 1)
 

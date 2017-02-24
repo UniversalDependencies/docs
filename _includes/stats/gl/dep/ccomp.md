@@ -8,10 +8,10 @@ This relation is universal.
 
 5631 nodes (5%) are attached to their parents as `ccomp`.
 
-5503 instances of `ccomp` (98%) are left-to-right (parent precedes child).
-Average distance between parent and child is 5.43118451429586.
+5420 instances of `ccomp` (96%) are left-to-right (parent precedes child).
+Average distance between parent and child is 6.04688332445392.
 
-The following 53 pairs of parts of speech are connected with `ccomp`: [gl-pos/NOUN]()-[gl-pos/VERB]() (2715; 48% instances), [gl-pos/ADP]()-[gl-pos/VERB]() (1259; 22% instances), [gl-pos/VERB]()-[gl-pos/VERB]() (1232; 22% instances), [gl-pos/ADV]()-[gl-pos/VERB]() (65; 1% instances), [gl-pos/ADJ]()-[gl-pos/VERB]() (53; 1% instances), [gl-pos/VERB]()-[gl-pos/ADP]() (34; 1% instances), [gl-pos/PROPN]()-[gl-pos/VERB]() (32; 1% instances), [gl-pos/VERB]()-[gl-pos/NOUN]() (25; 0% instances), [gl-pos/NUM]()-[gl-pos/VERB]() (22; 0% instances), [gl-pos/ADJ]()-[gl-pos/ADP]() (16; 0% instances), [gl-pos/NOUN]()-[gl-pos/PRON]() (16; 0% instances), [gl-pos/PRON]()-[gl-pos/VERB]() (15; 0% instances), [gl-pos/ADP]()-[gl-pos/ADP]() (12; 0% instances), [gl-pos/ADV]()-[gl-pos/NOUN]() (12; 0% instances), [gl-pos/VERB]()-[gl-pos/ADJ]() (12; 0% instances), [gl-pos/VERB]()-[gl-pos/NUM]() (12; 0% instances), [gl-pos/ADV]()-[gl-pos/ADP]() (11; 0% instances), [gl-pos/NOUN]()-[gl-pos/NOUN]() (8; 0% instances), [gl-pos/VERB]()-[gl-pos/PART]() (8; 0% instances), [gl-pos/VERB]()-[gl-pos/PROPN]() (6; 0% instances), [gl-pos/ADV]()-[gl-pos/ADV]() (5; 0% instances), [gl-pos/ADV]()-[gl-pos/PRON]() (5; 0% instances), [gl-pos/NOUN]()-[gl-pos/ADP]() (5; 0% instances), [gl-pos/ADJ]()-[gl-pos/NOUN]() (4; 0% instances), [gl-pos/SCONJ]()-[gl-pos/VERB]() (4; 0% instances), [gl-pos/ADJ]()-[gl-pos/ADJ]() (3; 0% instances), [gl-pos/ADV]()-[gl-pos/ADJ]() (3; 0% instances), [gl-pos/ADV]()-[gl-pos/DET]() (3; 0% instances), [gl-pos/NOUN]()-[gl-pos/NUM]() (3; 0% instances), [gl-pos/ADP]()-[gl-pos/ADJ]() (2; 0% instances), [gl-pos/NOUN]()-[gl-pos/ADJ]() (2; 0% instances), [gl-pos/NUM]()-[gl-pos/ADP]() (2; 0% instances), [gl-pos/PRON]()-[gl-pos/NOUN]() (2; 0% instances), [gl-pos/VERB]()-[gl-pos/ADV]() (2; 0% instances), [gl-pos/VERB]()-[gl-pos/DET]() (2; 0% instances), [gl-pos/VERB]()-[gl-pos/PRON]() (2; 0% instances), [gl-pos/ADJ]()-[gl-pos/PRON]() (1; 0% instances), [gl-pos/ADP]()-[gl-pos/NOUN]() (1; 0% instances), [gl-pos/ADP]()-[gl-pos/PART]() (1; 0% instances), [gl-pos/ADV]()-[gl-pos/PART]() (1; 0% instances), [gl-pos/ADV]()-[gl-pos/PROPN]() (1; 0% instances), [gl-pos/CONJ]()-[gl-pos/PRON]() (1; 0% instances), [gl-pos/DET]()-[gl-pos/PRON]() (1; 0% instances), [gl-pos/NOUN]()-[gl-pos/PROPN]() (1; 0% instances), [gl-pos/NOUN]()-[gl-pos/PUNCT]() (1; 0% instances), [gl-pos/NUM]()-[gl-pos/DET]() (1; 0% instances), [gl-pos/NUM]()-[gl-pos/NOUN]() (1; 0% instances), [gl-pos/NUM]()-[gl-pos/SYM]() (1; 0% instances), [gl-pos/PRON]()-[gl-pos/PRON]() (1; 0% instances), [gl-pos/PROPN]()-[gl-pos/ADP]() (1; 0% instances), [gl-pos/PUNCT]()-[gl-pos/PUNCT]() (1; 0% instances), [gl-pos/SCONJ]()-[gl-pos/ADJ]() (1; 0% instances), [gl-pos/VERB]()-[gl-pos/SYM]() (1; 0% instances).
+The following 69 pairs of parts of speech are connected with `ccomp`: [gl-pos/NOUN]()-[gl-pos/VERB]() (3099; 55% instances), [gl-pos/VERB]()-[gl-pos/VERB]() (1512; 27% instances), [gl-pos/ADJ]()-[gl-pos/VERB]() (208; 4% instances), [gl-pos/NOUN]()-[gl-pos/ADJ]() (83; 1% instances), [gl-pos/VERB]()-[gl-pos/ADJ]() (83; 1% instances), [gl-pos/ADV]()-[gl-pos/VERB]() (73; 1% instances), [gl-pos/NOUN]()-[gl-pos/NOUN]() (67; 1% instances), [gl-pos/VERB]()-[gl-pos/NOUN]() (60; 1% instances), [gl-pos/VERB]()-[gl-pos/ADP]() (44; 1% instances), [gl-pos/ADP]()-[gl-pos/VERB]() (42; 1% instances), [gl-pos/PRON]()-[gl-pos/VERB]() (36; 1% instances), [gl-pos/NOUN]()-[gl-pos/ADP]() (28; 0% instances), [gl-pos/PROPN]()-[gl-pos/VERB]() (28; 0% instances), [gl-pos/ADJ]()-[gl-pos/ADP]() (23; 0% instances), [gl-pos/NOUN]()-[gl-pos/PRON]() (23; 0% instances), [gl-pos/ADJ]()-[gl-pos/ADJ]() (22; 0% instances), [gl-pos/NUM]()-[gl-pos/VERB]() (20; 0% instances), [gl-pos/ADV]()-[gl-pos/NOUN]() (16; 0% instances), [gl-pos/ADJ]()-[gl-pos/NOUN]() (14; 0% instances), [gl-pos/ADV]()-[gl-pos/ADJ]() (13; 0% instances), [gl-pos/ADV]()-[gl-pos/ADP]() (12; 0% instances), [gl-pos/VERB]()-[gl-pos/NUM]() (12; 0% instances), [gl-pos/ADV]()-[gl-pos/ADV]() (7; 0% instances), [gl-pos/ADP]()-[gl-pos/ADP]() (6; 0% instances), [gl-pos/ADP]()-[gl-pos/NOUN]() (6; 0% instances), [gl-pos/ADV]()-[gl-pos/PRON]() (6; 0% instances), [gl-pos/VERB]()-[gl-pos/PART]() (6; 0% instances), [gl-pos/VERB]()-[gl-pos/PROPN]() (5; 0% instances), [gl-pos/ADJ]()-[gl-pos/PRON]() (4; 0% instances), [gl-pos/NOUN]()-[gl-pos/PROPN]() (4; 0% instances), [gl-pos/PROPN]()-[gl-pos/ADP]() (4; 0% instances), [gl-pos/SCONJ]()-[gl-pos/VERB]() (4; 0% instances), [gl-pos/VERB]()-[gl-pos/ADV]() (4; 0% instances), [gl-pos/ADP]()-[gl-pos/ADJ]() (3; 0% instances), [gl-pos/ADV]()-[gl-pos/DET]() (3; 0% instances), [gl-pos/NOUN]()-[gl-pos/NUM]() (3; 0% instances), [gl-pos/NUM]()-[gl-pos/ADP]() (3; 0% instances), [gl-pos/NUM]()-[gl-pos/NOUN]() (3; 0% instances), [gl-pos/PRON]()-[gl-pos/ADJ]() (3; 0% instances), [gl-pos/VERB]()-[gl-pos/DET]() (3; 0% instances), [gl-pos/VERB]()-[gl-pos/PRON]() (3; 0% instances), [gl-pos/ADJ]()-[gl-pos/ADV]() (2; 0% instances), [gl-pos/ADJ]()-[gl-pos/PART]() (2; 0% instances), [gl-pos/ADP]()-[gl-pos/PRON]() (2; 0% instances), [gl-pos/PRON]()-[gl-pos/NOUN]() (2; 0% instances), [gl-pos/PROPN]()-[gl-pos/NOUN]() (2; 0% instances), [gl-pos/ADJ]()-[gl-pos/NUM]() (1; 0% instances), [gl-pos/ADP]()-[gl-pos/NUM]() (1; 0% instances), [gl-pos/ADP]()-[gl-pos/PART]() (1; 0% instances), [gl-pos/ADP]()-[gl-pos/PROPN]() (1; 0% instances), [gl-pos/ADV]()-[gl-pos/PART]() (1; 0% instances), [gl-pos/ADV]()-[gl-pos/PROPN]() (1; 0% instances), [gl-pos/AUX]()-[gl-pos/VERB]() (1; 0% instances), [gl-pos/CCONJ]()-[gl-pos/PRON]() (1; 0% instances), [gl-pos/DET]()-[gl-pos/PRON]() (1; 0% instances), [gl-pos/NOUN]()-[gl-pos/ADV]() (1; 0% instances), [gl-pos/NOUN]()-[gl-pos/DET]() (1; 0% instances), [gl-pos/NOUN]()-[gl-pos/PUNCT]() (1; 0% instances), [gl-pos/NUM]()-[gl-pos/DET]() (1; 0% instances), [gl-pos/NUM]()-[gl-pos/SYM]() (1; 0% instances), [gl-pos/PRON]()-[gl-pos/ADP]() (1; 0% instances), [gl-pos/PRON]()-[gl-pos/PRON]() (1; 0% instances), [gl-pos/PROPN]()-[gl-pos/ADJ]() (1; 0% instances), [gl-pos/SCONJ]()-[gl-pos/ADJ]() (1; 0% instances), [gl-pos/SCONJ]()-[gl-pos/NOUN]() (1; 0% instances), [gl-pos/SCONJ]()-[gl-pos/SCONJ]() (1; 0% instances), [gl-pos/VERB]()-[gl-pos/PUNCT]() (1; 0% instances), [gl-pos/VERB]()-[gl-pos/SCONJ]() (1; 0% instances), [gl-pos/VERB]()-[gl-pos/SYM]() (1; 0% instances).
 
 
 ~~~ conllu
@@ -20,21 +20,21 @@ The following 53 pairs of parts of speech are connected with `ccomp`: [gl-pos/NO
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 8 ccomp	color:blue
-1	PP.	pp.	PROPN	NP00000	_	13	nsubj	_	Treeler:suj
-2	,	,	PUNCT	Fc	_	3	punct	_	Treeler:f
-3	sen	sen	ADP	SPS00	_	13	case	_	Treeler:cc
-4	embargo	embargo	NOUN	NCMS000	_	3	nmod	_	Treeler:sn
+1	PP.	pp.	PROPN	NP00000	_	13	nsubj	_	SpaceAfter=No|Treeler:suj
+2	,	,	PUNCT	Fc	_	4	punct	_	Treeler:f
+3	sen	sen	ADP	SPS00	_	4	case	_	Treeler:cc
+4	embargo	embargo	NOUN	NCMS000	_	13	obl	_	Treeler:sn
 5	os	o	DET	DA0MP0	_	6	det	_	Treeler:spec
 6	resultados	resultado	NOUN	NCMP000	_	13	nsubj	_	Treeler:suj
-7	que	que	PRON	PR0CN000	_	8	dobj	_	Treeler:cd
+7	que	que	PRON	PR0CN000	_	8	obj	_	Treeler:cd
 8	presentamos	presentar	VERB	VMIP1P0	_	6	ccomp	_	Treeler:S
-9	en	en	ADP	SPS00	_	8	case	_	Treeler:cc
+9	en	en	ADP	SPS00	_	11	case	_	Treeler:cc
 10	a	o	DET	DA0FS0	_	11	det	_	Treeler:spec
-11	táboa	táboa	NOUN	NCFS000	_	9	nmod	_	Treeler:sn
+11	táboa	táboa	NOUN	NCFS000	_	8	obl	_	Treeler:sn
 12	7	7	PROPN	NP00000	_	11	nmod	_	Treeler:sn
 13	contradín	contradicir	VERB	VMIP3P0	_	0	root	_	Treeler:sentence
 14	esta	este	DET	DD0FS0	_	15	det	_	Treeler:spec
-15	conclusión	conclusión	NOUN	NCFS000	_	13	dobj	_	Treeler:cd
+15	conclusión	conclusión	NOUN	NCFS000	_	13	obj	_	SpaceAfter=No|Treeler:cd
 16	.	.	PUNCT	Fp	_	13	punct	_	Treeler:f
 
 ~~~
@@ -43,23 +43,23 @@ The following 53 pairs of parts of speech are connected with `ccomp`: [gl-pos/NO
 ~~~ conllu
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 7 ccomp	color:blue
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 7 ccomp	color:blue
 1	Ningunha	ningún	DET	DI0FS0	_	5	det	_	Treeler:spec
-2	de	de	ADP	SPS00	_	1	case	_	Treeler:s
-3	elas	el	PRON	PP3FP000	_	2	nmod	_	Treeler:sn
-4	se	se	PRON	PP3CN000	_	5	dobj	_	Treeler:cd
+2	de	de	ADP	SPS00	_	3	case	_	Treeler:s
+3	elas	el	PRON	PP3FP000	_	1	nmod	_	Treeler:sn
+4	se	se	PRON	PP3CN000	_	5	obj	_	Treeler:cd
 5	chegou	chegar	VERB	VMIS3S0	_	0	root	_	Treeler:sentence
-6	a	a	ADP	SPS00	_	5	case	_	Treeler:creg
-7	instalar	instalar	VERB	VMN0000	_	6	ccomp	_	Treeler:S
-8	por	por	ADP	SPS00	_	7	case	_	Treeler:cc
+6	a	a	ADP	SPS00	_	7	case	_	Treeler:creg
+7	instalar	instalar	VERB	VMN0000	_	5	ccomp	_	Treeler:S
+8	por	por	ADP	SPS00	_	10	case	_	Treeler:cc
 9	a	o	DET	DA0FS0	_	10	det	_	Treeler:spec
-10	oposición	oposición	NOUN	NCFS000	_	8	nmod	_	Treeler:sn
+10	oposición	oposición	NOUN	NCFS000	_	7	obl	_	Treeler:sn
 11	directa	directo	ADJ	AQ0FS0	_	10	amod	_	Treeler:s.a
-12	de	de	ADP	SPS00	_	10	case	_	Treeler:sp
+12	de	de	ADP	SPS00	_	14	case	_	Treeler:sp
 13	a	o	DET	DA0FS0	_	14	det	_	Treeler:spec
-14	poboación	poboación	NOUN	NCFS000	_	12	nmod	_	Treeler:sn
+14	poboación	poboación	NOUN	NCFS000	_	10	nmod	_	SpaceAfter=No|Treeler:sn
 15	.	.	PUNCT	Fp	_	5	punct	_	Treeler:f
 
 ~~~
@@ -68,29 +68,29 @@ The following 53 pairs of parts of speech are connected with `ccomp`: [gl-pos/NO
 ~~~ conllu
 # visual-style 13	bgColor:blue
 # visual-style 13	fgColor:white
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 10 13 ccomp	color:blue
-1	E	e	CONJ	CC	_	3	cc	_	Treeler:et
+# visual-style 11	bgColor:blue
+# visual-style 11	fgColor:white
+# visual-style 11 13 ccomp	color:blue
+1	E	e	CCONJ	CC	_	3	cc	_	Treeler:et
 2	agora	agora	ADV	RG	_	3	case	_	Treeler:cc
 3	retomamos	retomar	VERB	VMIP1P0	_	0	root	_	Treeler:sentence
 4	a	o	DET	DA0FS0	_	5	det	_	Treeler:spec
-5	pregunta	pregunta	NOUN	NCFS000	_	3	dobj	_	Treeler:cd
-6	de	de	ADP	SPS00	_	5	case	_	Treeler:sp
+5	pregunta	pregunta	NOUN	NCFS000	_	3	obj	_	Treeler:cd
+6	de	de	ADP	SPS00	_	8	case	_	Treeler:sp
 7	o	o	DET	DA0MS0	_	8	det	_	Treeler:spec
-8	principio	principio	NOUN	NCMS000	_	6	nmod	_	Treeler:sn
-9	:	:	PUNCT	Fd	_	10	punct	_	Treeler:f
-10	son	ser	VERB	VSIP1S0	_	3	ccomp	_	Treeler:S
-11	nova	novo	ADJ	AQ0FS0	_	10	cop	_	Treeler:atr
-12	e	e	CONJ	CC	_	10	cc	_	Treeler:coord
-13	teño	ter	VERB	VMIP1S0	_	10	ccomp	_	Treeler:S
+8	principio	principio	NOUN	NCMS000	_	5	nmod	_	SpaceAfter=No|Treeler:sn
+9	:	:	PUNCT	Fd	_	11	punct	_	Treeler:f
+10	son	ser	AUX	VSIP1S0	_	11	cop	_	Treeler:S
+11	nova	novo	ADJ	AQ0FS0	_	3	ccomp	_	Treeler:atr
+12	e	e	CCONJ	CC	_	11	cc	_	ToDo=cc-without-conj|Treeler:coord
+13	teño	ter	VERB	VMIP1S0	_	11	ccomp	_	Treeler:S
 14	unha	un	DET	DI0FS0	_	15	det	_	Treeler:spec
-15	idea	idea	NOUN	NCFS000	_	13	dobj	_	Treeler:cd
-16	¿	¿	PUNCT	Fia	_	10	punct	_	Treeler:f
-17	e	e	CONJ	CC	_	10	cc	_	Treeler:coord
-18	agora	agora	ADV	RG	_	10	ccomp	_	Treeler:S
-19	que	que	SCONJ	CS	_	10	cc	_	Treeler:et
-20	?	?	PUNCT	Fit	_	10	punct	_	Treeler:f
+15	idea	idea	NOUN	NCFS000	_	13	obj	_	Treeler:cd
+16	¿	¿	PUNCT	Fia	_	11	punct	_	SpaceAfter=No|Treeler:f
+17	e	e	CCONJ	CC	_	11	cc	_	ToDo=cc-without-conj|Treeler:coord
+18	agora	agora	ADV	RG	_	11	ccomp	_	Treeler:S
+19	que	que	SCONJ	CS	_	11	cc	_	SpaceAfter=No|ToDo=cc-without-conj|Treeler:et
+20	?	?	PUNCT	Fit	_	11	punct	_	Treeler:f
 
 ~~~
 

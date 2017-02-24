@@ -16,7 +16,7 @@ The feature is used with 4 part-of-speech tags: [ru-pos/VERB]() (1761; 2% instan
 
 1761 [ru-pos/VERB]() tokens (24% of all `VERB` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (1761; 100%), <tt><a href="Variant.html">Variant</a>=EMPTY</tt> (1761; 100%), <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (1761; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (1761; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (1761; 100%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (1734; 98%), <tt><a href="Aspect.html">Aspect</a>=Imp</tt> (1680; 95%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (1660; 94%), <tt><a href="Number.html">Number</a>=Sing</tt> (1269; 72%), <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (1201; 68%).
+The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="Variant.html">Variant</a>=EMPTY</tt> (1761; 100%), <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (1761; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (1761; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (1761; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (1761; 100%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (1734; 98%), <tt><a href="Aspect.html">Aspect</a>=Imp</tt> (1680; 95%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (1660; 94%), <tt><a href="Number.html">Number</a>=Sing</tt> (1269; 72%), <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (1201; 68%).
 
 `VERB` tokens may have the following values of `Person`:
 
@@ -52,7 +52,7 @@ The most frequent other feature values with which `PRON` and `Person` co-occurre
 
 357 [ru-pos/DET]() tokens (26% of all `DET` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `DET` and `Person` co-occurred: <tt><a href="Reflex.html">Reflex</a>=EMPTY</tt> (357; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (324; 91%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (312; 87%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (312; 87%), <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (312; 87%).
+The most frequent other feature values with which `DET` and `Person` co-occurred: <tt><a href="Reflex.html">Reflex</a>=EMPTY</tt> (357; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (324; 91%), <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (312; 87%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (312; 87%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (312; 87%).
 
 `DET` tokens may have the following values of `Person`:
 
@@ -136,7 +136,7 @@ The most frequent other feature values with which `PRON` and `Person` co-occurre
 
 1884 [ru-pos/AUX]() tokens (26% of all `AUX` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `AUX` and `Person` co-occurred: <tt><a href="Voice.html">Voice</a>=Act</tt> (1884; 100%), <tt><a href="Aspect.html">Aspect</a>=Imp</tt> (1884; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (1884; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (1884; 100%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (1861; 99%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (1861; 99%), <tt><a href="Number.html">Number</a>=Sing</tt> (1223; 65%).
+The most frequent other feature values with which `AUX` and `Person` co-occurred: <tt><a href="Voice.html">Voice</a>=Act</tt> (1884; 100%), <tt><a href="Aspect.html">Aspect</a>=Imp</tt> (1884; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (1884; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (1884; 100%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (1861; 99%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (1861; 99%), <tt><a href="Number.html">Number</a>=Sing</tt> (1223; 65%).
 
 `AUX` tokens may have the following values of `Person`:
 
@@ -161,8 +161,8 @@ The 10 most frequent relations where parent and child node agree in `Person`:
 <tt>VERB --[<a href="../dep/appos.html">appos</a>]--> VERB</tt> (13; 100%),
 <tt>AUX --[<a href="../dep/cop.html">cop</a>]--> AUX</tt> (5; 100%),
 <tt>VERB --[<a href="../dep/cc.html">cc</a>]--> VERB</tt> (4; 57%),
-<tt>AUX --[<a href="../dep/aux.html">aux</a>]--> AUX</tt> (2; 100%),
 <tt>VERB --[<a href="../dep/flat:name.html">flat:name</a>]--> VERB</tt> (2; 100%),
+<tt>AUX --[<a href="../dep/aux.html">aux</a>]--> AUX</tt> (2; 100%),
 <tt>PRON --[<a href="../dep/aux.html">aux</a>]--> AUX</tt> (1; 100%),
 <tt>AUX --[<a href="../dep/acl.html">acl</a>]--> VERB</tt> (1; 100%).
 

@@ -15,6 +15,27 @@ The following 2 pairs of parts of speech are connected with `csubj`: [be-pos/VER
 
 
 ~~~ conllu
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 10 csubj	color:blue
+1	І	і	CCONJ	CC	_	3	cc	_	_
+2	мне	я	PRON	PRP	Case=Dat|Number=Sing|Person=1	3	obj	_	_
+3	здаецца	здавацца	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	SpaceAfter=No
+4	,	,	PUNCT	PUNCT	_	10	punct	_	_
+5	што	што	SCONJ	IN	_	10	mark	_	_
+6	ў	ў	ADP	IN	_	7	case	_	_
+7	вас	вы	PRON	PRP	Case=Gen|Number=Plur|Person=2	10	nmod	_	_
+8	тая	той	DET	DT	Case=Nom|Gender=Fem|Number=Sing	10	det	_	_
+9	ж	ж	PART	UH	_	8	advmod	_	_
+10	сітуацыя	сітуацыя	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	3	csubj	_	SpaceAfter=No
+11	.	.	PUNCT	PUNCT	_	3	punct	_	_
+
+~~~
+
+
+~~~ conllu
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
 # visual-style 2	bgColor:blue
@@ -36,27 +57,6 @@ The following 2 pairs of parts of speech are connected with `csubj`: [be-pos/VER
 14	XIX	XIX	ADJ	ORD	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	15	amod	_	_
 15	стагоддзя	стагоддзе	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	13	nmod	_	SpaceAfter=No
 16	.	.	PUNCT	PUNCT	_	2	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 10 csubj	color:blue
-1	І	і	CCONJ	CC	_	3	cc	_	_
-2	мне	я	PRON	PRP	Case=Dat|Number=Sing|Person=1	3	obj	_	_
-3	здаецца	здавацца	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	SpaceAfter=No
-4	,	,	PUNCT	PUNCT	_	10	punct	_	_
-5	што	што	SCONJ	IN	_	10	mark	_	_
-6	ў	ў	ADP	IN	_	7	case	_	_
-7	вас	вы	PRON	PRP	Case=Gen|Number=Plur|Person=2	10	nmod	_	_
-8	тая	той	DET	DT	Case=Nom|Gender=Fem|Number=Sing	10	det	_	_
-9	ж	ж	PART	UH	_	8	advmod	_	_
-10	сітуацыя	сітуацыя	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	3	csubj	_	SpaceAfter=No
-11	.	.	PUNCT	PUNCT	_	3	punct	_	_
 
 ~~~
 

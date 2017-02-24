@@ -16,7 +16,7 @@ The feature is used with 2 part-of-speech tags: [ru-pos/VERB]() (4416; 5% instan
 
 4416 [ru-pos/VERB]() tokens (60% of all `VERB` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (4416; 100%), <tt><a href="Variant.html">Variant</a>=EMPTY</tt> (4416; 100%), <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (4416; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (4416; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (3309; 75%), <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (3172; 72%), <tt><a href="Aspect.html">Aspect</a>=Imp</tt> (2776; 63%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (2655; 60%), <tt><a href="Tense.html">Tense</a>=Past</tt> (2655; 60%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (2376; 54%).
+The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (4416; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (4416; 100%), <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (4416; 100%), <tt><a href="Variant.html">Variant</a>=EMPTY</tt> (4416; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (3309; 75%), <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (3172; 72%), <tt><a href="Aspect.html">Aspect</a>=Imp</tt> (2776; 63%), <tt><a href="Tense.html">Tense</a>=Past</tt> (2655; 60%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (2655; 60%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (2376; 54%).
 
 `VERB` tokens may have the following values of `Mood`:
 
@@ -81,7 +81,7 @@ The feature is used with 4 part-of-speech tags: [ru-pos/VERB]() (70244; 7% insta
 
 70244 [ru-pos/VERB]() tokens (63% of all `VERB` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="Case.html">Case</a>=EMPTY</tt> (70244; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (70244; 100%), <tt><a href="Voice.html">Voice</a>=Act</tt> (51420; 73%), <tt><a href="Number.html">Number</a>=Sing</tt> (46943; 67%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (46569; 66%), <tt><a href="Aspect.html">Aspect</a>=Imp</tt> (44753; 64%).
+The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (70244; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (70244; 100%), <tt><a href="Voice.html">Voice</a>=Act</tt> (51420; 73%), <tt><a href="Number.html">Number</a>=Sing</tt> (46943; 67%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (46569; 66%), <tt><a href="Aspect.html">Aspect</a>=Imp</tt> (44753; 64%).
 
 `VERB` tokens may have the following values of `Mood`:
 
@@ -96,7 +96,7 @@ The most frequent other feature values with which `VERB` and `Mood` co-occurred:
   <tr><td><tt><a href="Gender.html">Gender</a>=Neut|<a href="Number.html">Number</a>=Sing|<a href="Tense.html">Tense</a>=Past</tt></td><td><em>было</em></td><td></td></tr>
   <tr><td><tt><a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=2</tt></td><td></td><td><em>будь</em></td></tr>
   <tr><td><tt><a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Pres</tt></td><td><em>есть, будет, е.</em></td><td></td></tr>
-  <tr><td><tt><a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=1|<a href="Tense.html">Tense</a>=Pres</tt></td><td><em>есть, будем</em></td><td></td></tr>
+  <tr><td><tt><a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=1|<a href="Tense.html">Tense</a>=Pres</tt></td><td><em>будем, есть</em></td><td></td></tr>
   <tr><td><tt><a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Pres</tt></td><td><em>есть, будут</em></td><td></td></tr>
   <tr><td><tt><a href="Number.html">Number</a>=Plur|<a href="Tense.html">Tense</a>=Past</tt></td><td><em>были</em></td><td></td></tr>
 </table>
@@ -107,7 +107,7 @@ The most frequent other feature values with which `VERB` and `Mood` co-occurred:
 
 6570 [ru-pos/AUX]() tokens (90% of all `AUX` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `AUX` and `Mood` co-occurred: <tt><a href="Aspect.html">Aspect</a>=Imp</tt> (6570; 100%), <tt><a href="Voice.html">Voice</a>=Act</tt> (6570; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (6570; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (4882; 74%), <tt><a href="Tense.html">Tense</a>=Past</tt> (4686; 71%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (4686; 71%).
+The most frequent other feature values with which `AUX` and `Mood` co-occurred: <tt><a href="Aspect.html">Aspect</a>=Imp</tt> (6570; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (6570; 100%), <tt><a href="Voice.html">Voice</a>=Act</tt> (6570; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (4882; 74%), <tt><a href="Tense.html">Tense</a>=Past</tt> (4686; 71%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (4686; 71%).
 
 `AUX` tokens may have the following values of `Mood`:
 
@@ -160,6 +160,6 @@ The 10 most frequent relations where parent and child node agree in `Mood`:
 <tt>VERB --[<a href="../dep/cc.html">cc</a>]--> VERB</tt> (13; 93%),
 <tt>AUX --[<a href="../dep/cop.html">cop</a>]--> AUX</tt> (7; 100%),
 <tt>VERB --[<a href="../dep/acl:relcl.html">acl:relcl</a>]--> VERB</tt> (3; 60%),
-<tt>AUX --[<a href="../dep/aux.html">aux</a>]--> AUX</tt> (2; 100%),
-<tt>AUX --[<a href="../dep/aux:pass.html">aux:pass</a>]--> AUX</tt> (2; 100%).
+<tt>AUX --[<a href="../dep/aux:pass.html">aux:pass</a>]--> AUX</tt> (2; 100%),
+<tt>VERB --[<a href="../dep/flat:name.html">flat:name</a>]--> VERB</tt> (2; 100%).
 

@@ -13,7 +13,7 @@ The 10 most frequent `NOUN` types:  <em>år, dag, prosent, gang, folk, tid, verd
 
 The 10 most frequent ambiguous lemmas: <em>land</em> ([NOUN]() 356, [X]() 1), <em>tid</em> ([NOUN]() 323, [X]() 1), <em>del</em> ([NOUN]() 229, [X]() 2, [PROPN]() 1), <em>mann</em> ([NOUN]() 180, [X]() 1), <em>problem</em> ([NOUN]() 151, [X]() 1), <em>krone</em> ([NOUN]() 105, [VERB]() 2), <em>ord</em> ([NOUN]() 105, [PROPN]() 1), <em>fall</em> ([NOUN]() 94, [X]() 1), <em>by</em> ([NOUN]() 90, [VERB]() 13, [X]() 1), <em>rett</em> ([ADJ]() 113, [NOUN]() 88)
 
-The 10 most frequent ambiguous types:  <em>tid</em> ([NOUN]() 184, [X]() 1), <em>land</em> ([NOUN]() 163, [X]() 1), <em>del</em> ([NOUN]() 155, [X]() 2, [PROPN]() 1), <em>landet</em> ([NOUN]() 113, [VERB]() 7), <em>kroner</em> ([NOUN]() 101, [VERB]() 1), <em>fall</em> ([NOUN]() 87, [X]() 1), <em>mann</em> ([NOUN]() 61, [PRON]() 1, [X]() 1), <em>rekke</em> ([NOUN]() 60, [VERB]() 3), <em>leder</em> ([NOUN]() 58, [VERB]() 29), <em>bruk</em> ([NOUN]() 55, [VERB]() 1, [X]() 1)
+The 10 most frequent ambiguous types:  <em>tid</em> ([NOUN]() 184, [X]() 1), <em>land</em> ([NOUN]() 163, [X]() 1), <em>del</em> ([NOUN]() 155, [X]() 2, [PROPN]() 1), <em>landet</em> ([NOUN]() 113, [VERB]() 7), <em>kroner</em> ([NOUN]() 101, [VERB]() 1), <em>fall</em> ([NOUN]() 87, [X]() 1), <em>mann</em> ([NOUN]() 61, [PRON]() 1, [X]() 1), <em>rekke</em> ([NOUN]() 60, [VERB]() 3), <em>leder</em> ([NOUN]() 58, [VERB]() 29), <em>bruk</em> ([NOUN]() 55, [X]() 1, [VERB]() 1)
 
 
 * <em>tid</em>
@@ -47,8 +47,8 @@ The 10 most frequent ambiguous types:  <em>tid</em> ([NOUN]() 184, [X]() 1), <em
   * [VERB]() 29: <em>Og den som stemmer Høyre har ingen innflytelse over hvem som <b>leder</b> SV .</em>
 * <em>bruk</em>
   * [NOUN]() 55: <em>Andre ord stammer fra innvandring og går inn i <b>bruk</b> på norsk :</em>
-  * [VERB]() 1: <em>« Kom deg ut i skogen , snakk med mannen og sjefen din , drikk et glass rødvin , <b>bruk</b> mer meierismør , gråt en skvett og se på barna leke » .</em>
   * [X]() 1: <em>Itj <b>bruk</b> tid på å ha på dåkk klea , ell bærg brølløpsbildan .</em>
+  * [VERB]() 1: <em>« Kom deg ut i skogen , snakk med mannen og sjefen din , drikk et glass rødvin , <b>bruk</b> mer meierismør , gråt en skvett og se på barna leke » .</em>
 
 ## Morphology
 
@@ -104,7 +104,7 @@ The 10 most frequent `NOUN` types:  <em>år, dag, folk, tid, prosent, språk, de
 
 The 10 most frequent ambiguous lemmas: <em>år</em> ([NOUN]() 634, [X]() 1), <em>folk</em> ([NOUN]() 321, [X]() 2), <em>språk</em> ([NOUN]() 294, [X]() 1), <em>del</em> ([NOUN]() 275, [X]() 2), <em>prosent</em> ([NOUN]() 219, [X]() 1), <em>bok</em> ([NOUN]() 193, [X]() 1), <em>liv</em> ([NOUN]() 151, [X]() 1), <em>mann</em> ([NOUN]() 175, [X]() 1), <em>grunn</em> ([NOUN]() 165, [ADJ]() 2), <em>verd</em> ([NOUN]() 147, [ADJ]() 23)
 
-The 10 most frequent ambiguous types:  <em>år</em> ([NOUN]() 453, [X]() 1), <em>folk</em> ([NOUN]() 260, [X]() 2), <em>prosent</em> ([NOUN]() 212, [X]() 1), <em>språk</em> ([NOUN]() 207, [X]() 1), <em>del</em> ([NOUN]() 177, [VERB]() 2, [X]() 2), <em>grunn</em> ([NOUN]() 115, [ADJ]() 1), <em>SV</em> ([NOUN]() 111, [X]() 1), <em>arbeidet</em> ([NOUN]() 93, [X]() 1), <em>leiar</em> ([NOUN]() 94, [VERB]() 3), <em>bruk</em> ([NOUN]() 98, [VERB]() 1, [X]() 1)
+The 10 most frequent ambiguous types:  <em>år</em> ([NOUN]() 453, [X]() 1), <em>folk</em> ([NOUN]() 260, [X]() 2), <em>prosent</em> ([NOUN]() 212, [X]() 1), <em>språk</em> ([NOUN]() 207, [X]() 1), <em>del</em> ([NOUN]() 177, [X]() 2, [VERB]() 2), <em>grunn</em> ([NOUN]() 115, [ADJ]() 1), <em>SV</em> ([NOUN]() 111, [X]() 1), <em>arbeidet</em> ([NOUN]() 93, [X]() 1), <em>leiar</em> ([NOUN]() 94, [VERB]() 3), <em>bruk</em> ([NOUN]() 98, [X]() 1, [VERB]() 1)
 
 
 * <em>år</em>
@@ -121,8 +121,8 @@ The 10 most frequent ambiguous types:  <em>år</em> ([NOUN]() 453, [X]() 1), <em
   * [X]() 1: <em>Frå 1. juli 2006 vart dette instituttet og det nye svenske Språkrådet samla under éin organisatorisk paraply , ein ny statsetat med namnet Institutet för <b>språk</b> och folkminnen .</em>
 * <em>del</em>
   * [NOUN]() 177: <em>Vi er korkje ein <b>del</b> av Orienten eller av Vesten .</em>
-  * [VERB]() 2: <em>Skjer filetane av skroget , og <b>del</b> dei og låra i to .</em>
   * [X]() 2: <em>Slik må hans avsluttande « samtale » med M. de F ... frå Kommisjonen på Fattoria <b>del</b> Chianti i Rue Archimeéde i Brussel over ein framifrå osso bucco lesast .</em>
+  * [VERB]() 2: <em>Skjer filetane av skroget , og <b>del</b> dei og låra i to .</em>
 * <em>grunn</em>
   * [NOUN]() 115: <em>Kanskje av den <b>grunn</b> er desse dei litterært svakaste .</em>
   * [ADJ]() 1: <em>Lund-kommisjonen skriv mykje og godt om overvaking , men er <b>grunn</b> om det viktigaste spørsmålet :</em>
@@ -137,8 +137,8 @@ The 10 most frequent ambiguous types:  <em>år</em> ([NOUN]() 453, [X]() 1), <em
   * [VERB]() 3: <em>Aasen <b>leiar</b> yrkesmedisinsk avdeling ved Haukeland Universitetssjukehus , som står for sjølve helseundersøkinga .</em>
 * <em>bruk</em>
   * [NOUN]() 98: <em>Regjeringspartia er opptekne av miljøriktig <b>bruk</b> av naturgass .</em>
-  * [VERB]() 1: <em>Køyr forsiktig , <b>bruk</b> sikkerheitsselar og hjelm om du er på motorsykkel !</em>
   * [X]() 1: <em>I SSBs noverande formålsparagraf står det at byrået skal gje « analyseverktøy og resultater til <b>bruk</b> for offentlige organer og allmennheten » , ut frå « prinsippet om mest mulig åpenhet » .</em>
+  * [VERB]() 1: <em>Køyr forsiktig , <b>bruk</b> sikkerheitsselar og hjelm om du er på motorsykkel !</em>
 
 ## Morphology
 

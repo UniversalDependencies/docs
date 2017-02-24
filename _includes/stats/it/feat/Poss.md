@@ -16,7 +16,7 @@ The feature is used with 3 part-of-speech tags: [it-pos/DET]() (1751; 1% instanc
 
 1751 [it-pos/DET]() tokens (4% of all `DET` tokens) have a non-empty value of `Poss`.
 
-The most frequent other feature values with which `DET` and `Poss` co-occurred: <tt><a href="PronType.html">PronType</a>=Prs</tt> (1751; 100%), <tt><a href="Definite.html">Definite</a>=EMPTY</tt> (1751; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (1066; 61%).
+The most frequent other feature values with which `DET` and `Poss` co-occurred: <tt><a href="Definite.html">Definite</a>=EMPTY</tt> (1751; 100%), <tt><a href="PronType.html">PronType</a>=Prs</tt> (1751; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (1066; 61%).
 
 `DET` tokens may have the following values of `Poss`:
 
@@ -29,7 +29,7 @@ The most frequent other feature values with which `DET` and `Poss` co-occurred: 
 
 30 [it-pos/PRON]() tokens (0% of all `PRON` tokens) have a non-empty value of `Poss`.
 
-The most frequent other feature values with which `PRON` and `Poss` co-occurred: <tt><a href="PronType.html">PronType</a>=Prs</tt> (30; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (30; 100%), <tt><a href="Clitic.html">Clitic</a>=EMPTY</tt> (30; 100%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (21; 70%), <tt><a href="Number.html">Number</a>=Sing</tt> (20; 67%).
+The most frequent other feature values with which `PRON` and `Poss` co-occurred: <tt><a href="Clitic.html">Clitic</a>=EMPTY</tt> (30; 100%), <tt><a href="PronType.html">PronType</a>=Prs</tt> (30; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (30; 100%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (21; 70%), <tt><a href="Number.html">Number</a>=Sing</tt> (20; 67%).
 
 `PRON` tokens may have the following values of `Poss`:
 
@@ -81,7 +81,7 @@ The most frequent other feature values with which `DET` and `Poss` co-occurred: 
 
 2 [it-pos/PRON]() tokens (0% of all `PRON` tokens) have a non-empty value of `Poss`.
 
-The most frequent other feature values with which `PRON` and `Poss` co-occurred: <tt><a href="PronType.html">PronType</a>=Prs</tt> (2; 100%), <tt><a href="Clitic.html">Clitic</a>=EMPTY</tt> (2; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (2; 100%).
+The most frequent other feature values with which `PRON` and `Poss` co-occurred: <tt><a href="Person.html">Person</a>=EMPTY</tt> (2; 100%), <tt><a href="PronType.html">PronType</a>=Prs</tt> (2; 100%), <tt><a href="Clitic.html">Clitic</a>=EMPTY</tt> (2; 100%).
 
 `PRON` tokens may have the following values of `Poss`:
 

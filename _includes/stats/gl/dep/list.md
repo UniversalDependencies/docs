@@ -73,11 +73,11 @@ The following 3 pairs of parts of speech are connected with `list`: [gl-pos/NOUN
 
 
 ~~~ conllu
-# visual-style 23	bgColor:blue
-# visual-style 23	fgColor:white
+# visual-style 19	bgColor:blue
+# visual-style 19	fgColor:white
 # visual-style 17	bgColor:blue
 # visual-style 17	fgColor:white
-# visual-style 17 23 list	color:blue
+# visual-style 17 19 list	color:blue
 1	Os	o	DET	Ddmp	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	det	_	_
 2	derivados	derivado	NOUN	Scmp	Gender=Masc|Number=Plur	6	nsubj	_	_
 3	cultos	culto	ADJ	A0mp	Gender=Masc|Number=Plur	2	amod	_	_
@@ -131,11 +131,11 @@ The following 3 pairs of parts of speech are connected with `list`: [gl-pos/NOUN
 
 
 ~~~ conllu
-# visual-style 19	bgColor:blue
-# visual-style 19	fgColor:white
+# visual-style 23	bgColor:blue
+# visual-style 23	fgColor:white
 # visual-style 17	bgColor:blue
 # visual-style 17	fgColor:white
-# visual-style 17 19 list	color:blue
+# visual-style 17 23 list	color:blue
 1	Os	o	DET	Ddmp	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	det	_	_
 2	derivados	derivado	NOUN	Scmp	Gender=Masc|Number=Plur	6	nsubj	_	_
 3	cultos	culto	ADJ	A0mp	Gender=Masc|Number=Plur	2	amod	_	_

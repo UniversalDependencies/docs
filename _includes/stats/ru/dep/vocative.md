@@ -15,6 +15,28 @@ The following 4 pairs of parts of speech are connected with `vocative`: [ru-pos/
 
 
 ~~~ conllu
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 5 vocative	color:blue
+1	``	``	PUNCT	``	_	3	punct	_	SpaceAfter=No
+2	Не	НЕ	PART	NEG	Polarity=Neg	3	advmod	_	_
+3	думайте	ДУМАТЬ	VERB	VBC	Aspect=Imp|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin	0	root	_	SpaceAfter=No
+4	,	,	PUNCT	,	_	5	punct	_	_
+5	товарищи	ТОВАРИЩ	NOUN	NN	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	3	vocative	_	SpaceAfter=No
+6	,	,	PUNCT	,	_	5	punct	_	_
+7	я	Я	PRON	PRP	Case=Nom|Number=Sing|Person=1	8	nsubj	_	_
+8	бросаю	БРОСАТЬ	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	ccomp	_	_
+9	слова	СЛОВО	NOUN	NN	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	8	obj	_	_
+10	на	НА	ADP	IN	_	11	case	_	_
+11	ветер	ВЕТЕР	NOUN	NN	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	9	nmod	_	SpaceAfter=No
+12	.	.	PUNCT	.	_	3	punct	_	_
+
+~~~
+
+
+~~~ conllu
 # visual-style 25	bgColor:blue
 # visual-style 25	fgColor:white
 # visual-style 23	bgColor:blue
@@ -55,53 +77,45 @@ The following 4 pairs of parts of speech are connected with `vocative`: [ru-pos/
 
 
 ~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 5 vocative	color:blue
-1	``	``	PUNCT	``	_	3	punct	_	SpaceAfter=No
-2	Не	НЕ	PART	NEG	Polarity=Neg	3	advmod	_	_
-3	думайте	ДУМАТЬ	VERB	VBC	Aspect=Imp|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin	0	root	_	SpaceAfter=No
-4	,	,	PUNCT	,	_	5	punct	_	_
-5	товарищи	ТОВАРИЩ	NOUN	NN	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	3	vocative	_	SpaceAfter=No
-6	,	,	PUNCT	,	_	5	punct	_	_
-7	я	Я	PRON	PRP	Case=Nom|Number=Sing|Person=1	8	nsubj	_	_
-8	бросаю	БРОСАТЬ	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	ccomp	_	_
-9	слова	СЛОВО	NOUN	NN	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	8	obj	_	_
-10	на	НА	ADP	IN	_	11	case	_	_
-11	ветер	ВЕТЕР	NOUN	NN	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	9	nmod	_	SpaceAfter=No
-12	.	.	PUNCT	.	_	3	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 1 3 vocative	color:blue
-1	Бутафор	БУТАФОР	NOUN	NN	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	7	ccomp	_	SpaceAfter=No
-2	,	,	PUNCT	,	_	1	punct	_	_
-3	Иван	ИВАН	PROPN	NNP	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	1	vocative	_	_
-4	Васильевич	ВАСИЛЬЕВИЧ	PROPN	NNP	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	3	flat	_	SpaceAfter=No
-5	!	!	PUNCT	.	_	1	punct	_	_
-6	--	--	PUNCT	--	_	7	punct	_	_
-7	застонал	ЗАСТОНАТЬ	VERB	VBC	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	0	root	_	_
-8	Фома	ФОМА	PROPN	NNP	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	SpaceAfter=No
-9	,	,	PUNCT	,	_	13	punct	_	_
-10	а	А	CCONJ	CC	_	13	cc	_	_
-11	Иван	ИВАН	PROPN	NNP	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	13	nsubj	_	_
-12	Васильевич	ВАСИЛЬЕВИЧ	PROPN	NNP	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	11	flat	_	_
-13	утих	УТИХНУТЬ	VERB	VBC	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	7	conj	_	SpaceAfter=No
-14	,	,	PUNCT	,	_	7	punct	_	_
-15	а	А	CCONJ	CC	_	13	cc	_	_
-16	бутафора	БУТАФОР	NOUN	NN	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	17	obj	_	_
-17	выпустили	ВЫПУСТИТЬ	VERB	VBC	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin	13	conj	_	_
-18	с	С	ADP	IN	_	19	case	_	_
-19	миром	МИР	NOUN	NN	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	17	obl	_	SpaceAfter=No
-20	.	.	PUNCT	.	_	7	punct	_	_
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 2 vocative	color:blue
+1	``	``	PUNCT	``	_	4	punct	_	SpaceAfter=No
+2	Адад	АДАД	PROPN	NNP	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	4	vocative	_	_
+3	потомство	ПОТОМСТВО	NOUN	NN	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	4	obj	_	_
+4	храни	ХРАНИТЬ	VERB	VBC	Aspect=Imp|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	21	parataxis	_	_
+5	&#39;&#39;	&#39;&#39;	PUNCT	.	_	4	punct	_	SpaceAfter=No
+6	;	;	PUNCT	:	_	4	punct	_	_
+7	dIM	DIM	ADV	FW	_	4	list	_	SpaceAfter=No
+8	,	,	PUNCT	,	_	9	punct	_	_
+9	MU	MU	ADV	FW	_	7	conj	_	SpaceAfter=No
+10	,	,	PUNCT	,	_	11	punct	_	_
+11	ŠEŠ	ŠEŠ	ADV	FW	_	7	conj	_	_
+12	или	ИЛИ	CCONJ	CC	_	13	cc	_	_
+13	mdIM	MDIM	ADV	FW	_	7	conj	_	SpaceAfter=No
+14	,	,	PUNCT	,	_	15	punct	_	_
+15	MU	MU	ADV	FW	_	13	conj	_	SpaceAfter=No
+16	,	,	PUNCT	,	_	17	punct	_	_
+17	ŠEŠ	ŠEŠ	ADV	FW	_	13	conj	_	SpaceAfter=No
+18	)	)	PUNCT	)	_	4	punct	_	_
+19	--	--	PUNCT	--	_	21	punct	_	_
+20	касситский	КАССИТСКИЙ	ADJ	JJL	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	21	amod	_	_
+21	царь	ЦАРЬ	NOUN	NN	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+22	Вавилонии	ВАВИЛОНИЯ	PROPN	NNP	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	21	nmod	_	SpaceAfter=No
+23	,	,	PUNCT	,	_	21	punct	_	_
+24	правил	ПРАВИТЬ	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	21	parataxis	_	_
+25	приблизительно	ПРИБЛИЗИТЕЛЬНО	ADV	RB	_	26	advmod	_	_
+26	в	В	ADP	IN	_	24	obl	_	_
+27	1219	1219	ADJ	ORD	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	30	list	_	_
+28	--	--	PUNCT	--	_	27	punct	_	_
+29	1188	1188	ADJ	ORD	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	30	list	_	_
+30	годах	ГОД	NOUN	NN	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	26	nmod	_	_
+31	до	ДО	ADP	IN	_	33	case	_	_
+32	н.	Н.	DET	PRP$	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing|Person=1	33	det	_	_
+33	э	Э	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	30	nmod	_	SpaceAfter=No
+34	.	.	PUNCT	.	_	21	punct	_	_
 
 ~~~
 

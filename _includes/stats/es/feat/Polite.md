@@ -16,7 +16,7 @@ The feature is used with 1 part-of-speech tags: [es-pos/PRON]() (10; 0% instance
 
 10 [es-pos/PRON]() tokens (0% of all `PRON` tokens) have a non-empty value of `Polite`.
 
-The most frequent other feature values with which `PRON` and `Polite` co-occurred: <tt><a href="PronType.html">PronType</a>=Prs</tt> (10; 100%), <tt><a href="Reflex.html">Reflex</a>=EMPTY</tt> (10; 100%), <tt><a href="Case.html">Case</a>=Acc,Nom</tt> (10; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (10; 100%), <tt><a href="Person.html">Person</a>=2</tt> (10; 100%), <tt><a href="PrepCase.html">PrepCase</a>=EMPTY</tt> (10; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (6; 60%).
+The most frequent other feature values with which `PRON` and `Polite` co-occurred: <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (10; 100%), <tt><a href="Case.html">Case</a>=Acc,Nom</tt> (10; 100%), <tt><a href="Reflex.html">Reflex</a>=EMPTY</tt> (10; 100%), <tt><a href="PronType.html">PronType</a>=Prs</tt> (10; 100%), <tt><a href="PrepCase.html">PrepCase</a>=EMPTY</tt> (10; 100%), <tt><a href="Person.html">Person</a>=2</tt> (10; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (6; 60%).
 
 `PRON` tokens may have the following values of `Polite`:
 
@@ -40,7 +40,7 @@ The feature is used with 1 part-of-speech tags: [es-pos/PRON]() (46; 0% instance
 
 46 [es-pos/PRON]() tokens (0% of all `PRON` tokens) have a non-empty value of `Polite`.
 
-The most frequent other feature values with which `PRON` and `Polite` co-occurred: <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (46; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (46; 100%), <tt><a href="PronType.html">PronType</a>=Prs</tt> (46; 100%), <tt><a href="Person.html">Person</a>=2</tt> (46; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (40; 87%).
+The most frequent other feature values with which `PRON` and `Polite` co-occurred: <tt><a href="Case.html">Case</a>=EMPTY</tt> (46; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (46; 100%), <tt><a href="Person.html">Person</a>=2</tt> (46; 100%), <tt><a href="PronType.html">PronType</a>=Prs</tt> (46; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (40; 87%).
 
 `PRON` tokens may have the following values of `Polite`:
 

@@ -11,7 +11,7 @@ The 10 most frequent `ADV` lemmas: <em>mai, ca, când, cum, iar, nici, astfel, d
 
 The 10 most frequent `ADV` types:  <em>mai, ca, când, cum, iar, nici, astfel, decât, numai, mult</em>
 
-The 10 most frequent ambiguous lemmas: <em>mai</em> ([ADV]() 1150, [NOUN]() 23), <em>ca</em> ([ADV]() 680, [ADP]() 14), <em>decât</em> ([ADV]() 161, [ADP]() 1), <em>mult</em> ([DET]() 156, [ADV]() 150, [PRON]() 40, [ADJ]() 3), <em>așa</em> ([ADV]() 140, [ADJ]() 8), <em>puțin</em> ([ADV]() 131, [DET]() 15, [PRON]() 5, [ADJ]() 1, [NOUN]() 1), <em>cât</em> ([ADV]() 129, [DET]() 22, [PRON]() 6), <em>aproape</em> ([ADV]() 99, [NOUN]() 1), <em>atât</em> ([ADV]() 93, [DET]() 25, [PRON]() 8), <em>bine</em> ([ADV]() 91, [NOUN]() 2)
+The 10 most frequent ambiguous lemmas: <em>mai</em> ([ADV]() 1150, [NOUN]() 23), <em>ca</em> ([ADV]() 680, [ADP]() 14), <em>decât</em> ([ADV]() 161, [ADP]() 1), <em>mult</em> ([DET]() 156, [ADV]() 150, [PRON]() 40, [ADJ]() 3), <em>așa</em> ([ADV]() 140, [ADJ]() 8), <em>puțin</em> ([ADV]() 131, [DET]() 15, [PRON]() 5, [NOUN]() 1, [ADJ]() 1), <em>cât</em> ([ADV]() 129, [DET]() 22, [PRON]() 6), <em>aproape</em> ([ADV]() 99, [NOUN]() 1), <em>atât</em> ([ADV]() 93, [DET]() 25, [PRON]() 8), <em>bine</em> ([ADV]() 91, [NOUN]() 2)
 
 The 10 most frequent ambiguous types:  <em>mai</em> ([ADV]() 1109, [NOUN]() 23), <em>ca</em> ([ADV]() 640, [ADP]() 13), <em>decât</em> ([ADV]() 161, [ADP]() 1), <em>mult</em> ([ADV]() 150, [DET]() 11), <em>așa</em> ([ADV]() 115, [ADJ]() 8), <em>puțin</em> ([ADV]() 130, [DET]() 3, [NOUN]() 1), <em>cât</em> ([ADV]() 125, [DET]() 3), <em>atât</em> ([ADV]() 90, [PRON]() 5, [DET]() 1), <em>bine</em> ([ADV]() 87, [NOUN]() 1), <em>precum</em> ([ADV]() 86, [ADP]() 1)
 

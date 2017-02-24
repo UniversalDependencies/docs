@@ -176,40 +176,44 @@ The following 9 pairs of parts of speech are connected with `flat`: [ru-pos/PROP
 
 
 ~~~ conllu
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 8 9 flat	color:blue
-1	Как	как	SCONJ	_	_	18	mark	18:mark	_
-2	сообщает	сообщать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	18	parataxis	18:parataxis	_
-3	базирующееся	базироваться	VERB	_	Aspect=Imp|Case=Nom|Gender=Neut|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Mid	7	amod	7:amod	_
-4	в	в	ADP	_	_	5	case	5:case	_
-5	Пакистане	пакистан	PROPN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	3	obl	3:obl	_
-6	информационное	информационный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	7	amod	7:amod	_
-7	агентство	агентство	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	2	nsubj	2:nsubj	_
-8	Afghan	afghan	ADJ	_	Foreign=Yes	7	appos	7:appos	_
-9	Islamic	islamic	ADJ	_	Foreign=Yes	8	flat	8:flat	_
-10	Press	press	PROPN	_	Animacy=Inan|Case=Nom|Foreign=Yes|Gender=Neut|Number=Sing	9	flat	9:flat	_
-11	(	(	PUNCT	_	_	12	punct	12:punct	SpaceAfter=No
-12	AIP	aip	PROPN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	8	appos	8:appos	SpaceAfter=No
-13	)	)	PUNCT	_	_	12	punct	12:punct	SpaceAfter=No
-14	,	,	PUNCT	_	_	12	punct	12:punct	_
-15	военнослужащие	военнослужащий	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	18	nsubj	18:nsubj	_
-16	ВС	вс	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	15	nmod	15:nmod	_
-17	США	сша	PROPN	_	Animacy=Inan|Case=Gen|Number=Plur	16	nmod	16:nmod	_
-18	открыли	открывать	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
-19	ответный	ответный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	20	amod	20:amod	_
-20	огонь	огонь	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	18	obj	18:obj	_
-21	и	и	CCONJ	_	_	22	cc	22:cc	_
-22	вызвали	вызывать	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	18	conj	18:conj	_
-23	авиацию	авиация	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	22	obj	22:obj	_
-24	для	для	ADP	_	_	25	case	25:case	_
-25	нанесения	нанесение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	22	obl	22:obl	_
-26	удара	удар	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	25	nmod	25:nmod	_
-27	по	по	ADP	_	_	28	mark	28:mark	_
-28	нападавшим	нападать	VERB	_	Aspect=Imp|Case=Dat|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	26	dep	26:dep	SpaceAfter=No
-29	.	.	PUNCT	_	_	28	punct	28:punct	_
+# visual-style 29	bgColor:blue
+# visual-style 29	fgColor:white
+# visual-style 28	bgColor:blue
+# visual-style 28	fgColor:white
+# visual-style 28 29 flat	color:blue
+1	Ситуация	ситуация	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	32	nsubj	32:nsubj	_
+2	в	в	ADP	_	_	5	case	5:case	_
+3	относительно	относительно	ADV	_	Degree=Pos	4	advmod	4:advmod	_
+4	спокойном	спокойный	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	5	amod	5:amod	_
+5	Сурате	сурат	PROPN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	1	nmod	1:nmod	SpaceAfter=No
+6	,	,	PUNCT	_	_	5	punct	5:punct	_
+7	центре	центр	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	5	appos	5:appos	_
+8	текстильной	текстильный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	9	amod	9:amod	_
+9	промышленности	промышленность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	7	nmod	7:nmod	_
+10	и	и	CCONJ	_	_	11	cc	11:cc	_
+11	обработки	обработка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	9	conj	9:conj	_
+12	алмазов	алмаз	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	11	nmod	11:nmod	SpaceAfter=No
+13	,	,	PUNCT	_	_	12	punct	12:punct	_
+14	который	который	PRON	_	Case=Nom	15	nsubj:pass	15:nsubj:pass	_
+15	расположен	располагать	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	7	acl:relcl	7:acl:relcl	_
+16	недалеко	недалеко	ADV	_	Degree=Pos	15	advmod	15:advmod	_
+17	от	от	ADP	_	_	18	case	18:case	_
+18	границы	граница	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	16	nmod	16:nmod	_
+19	с	с	ADP	_	_	21	case	21:case	_
+20	западным	западный	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	21	amod	21:amod	_
+21	штатом	штат	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	18	nmod	18:nmod	_
+22	Махараштра	махараштра	PROPN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	21	appos	21:appos	SpaceAfter=No
+23	,	,	PUNCT	_	_	22	punct	22:punct	_
+24	по	по	ADP	_	_	25	case	25:case	_
+25	данным	данные	NOUN	_	Animacy=Inan|Case=Dat|Number=Plur	32	parataxis	32:parataxis	_
+26	газеты	газета	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	25	nmod	25:nmod	_
+27	"	"	PUNCT	_	_	28	punct	28:punct	SpaceAfter=No
+28	Фри-Пресс	фри-пресс	ADJ	_	_	26	appos	26:appos	_
+29	Джорнэл	джорнэл	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	28	flat	28:flat	SpaceAfter=No
+30	"	"	PUNCT	_	_	29	punct	29:punct	SpaceAfter=No
+31	,	,	PUNCT	_	_	29	punct	29:punct	_
+32	ухудшается	ухудшаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	0:root	SpaceAfter=No
+33	.	.	PUNCT	_	_	32	punct	32:punct	_
 
 ~~~
 

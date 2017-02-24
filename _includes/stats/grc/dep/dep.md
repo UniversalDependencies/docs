@@ -46,21 +46,22 @@ The following 4 pairs of parts of speech are connected with `dep`: [grc-pos/NOUN
 
 
 ~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 10 3 dep	color:blue
-1	ὁ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	2	det	_	ref=4.173.1
-2	νότος	νότος	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	10	nsubj	_	ref=4.173.1
-3	σφι	σφεῖς	PRON	Pp	Case=Dat|Gender=Masc|Number=Plur|Person=3|PronType=Prs	10	dep	_	ref=4.173.1
-4	πνέων	πνέω	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	10	advcl	_	ref=4.173.1
-5	ἄνεμος	ἄνεμος	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	2	appos	_	ref=4.173.1
-6	τὰ	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Dem	7	det	_	ref=4.173.1
-7	ἔλυτρα	ἔλυτρον	NOUN	Nb	Case=Acc|Gender=Neut|Number=Plur	10	obj:dir	_	ref=4.173.1
-8	τῶν	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Neut|Number=Plur|PronType=Dem	9	det	_	ref=4.173.1
-9	ὑδάτων	ὕδωρ	NOUN	Nb	Case=Gen|Gender=Neut|Number=Plur	7	nmod	_	ref=4.173.1
-10	ἐξηύηνε	ἐξαυαίνω	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=4.173.1
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 4 dep	color:blue
+1	ἄποινα	ἄποινα	NOUN	Nb	Case=Nom|Gender=Neut|Number=Plur	6	nsubj	_	ref=6.79.1
+2	δὲ	δέ	ADV	Df	_	6	discourse	_	ref=6.79.1
+3	ἐστὶ	εἰμί#1	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	cop	_	ref=6.79.1
+4	Πελοποννησίοισι	Πελοποννήσιος	ADJ	A-	Case=Dat|Degree=Pos|Gender=Masc|Number=Plur	6	dep	_	ref=6.79.1
+5	δύο	δύο	NUM	Ma	_	6	nummod	_	ref=6.79.1
+6	μνέαι	μνᾶ	NOUN	Nb	Case=Nom|Gender=Fem|Number=Plur	0	root	_	ref=6.79.1
+7	τεταγμέναι	τάσσω	VERB	V-	Aspect=Perf|Case=Nom|Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	6	acl	_	ref=6.79.1
+8	κατ’	κατά	ADP	R-	_	9	case	_	ref=6.79.1
+9	ἄνδρα	ἀνήρ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	11	obl	_	ref=6.79.1
+10	αἰχμάλωτον	αἰχμάλωτος	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	9	amod	_	ref=6.79.1
+11	ἐκτίνειν	ἐκτίνω	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	7	csubj:pass	_	ref=6.79.1
 
 ~~~
 

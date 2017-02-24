@@ -16,7 +16,7 @@ The feature is used with 1 part-of-speech tags: [tr-pos/PRON]() (1416; 3% instan
 
 1416 [tr-pos/PRON]() tokens (79% of all `PRON` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="Number[psor].html">Number[psor]</a>=EMPTY</tt> (1283; 91%), <tt><a href="Person[psor].html">Person[psor]</a>=EMPTY</tt> (1283; 91%), <tt><a href="Number.html">Number</a>=Sing</tt> (1083; 76%).
+The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="Person[psor].html">Person[psor]</a>=EMPTY</tt> (1283; 91%), <tt><a href="Number[psor].html">Number[psor]</a>=EMPTY</tt> (1283; 91%), <tt><a href="Number.html">Number</a>=Sing</tt> (1083; 76%).
 
 `PRON` tokens may have the following values of `PronType`:
 

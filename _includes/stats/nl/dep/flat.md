@@ -63,45 +63,27 @@ The following 12 pairs of parts of speech are connected with `flat`: [nl-pos/PRO
 
 
 ~~~ conllu
-# visual-style 26	bgColor:blue
-# visual-style 26	fgColor:white
-# visual-style 21	bgColor:blue
-# visual-style 21	fgColor:white
-# visual-style 21 26 flat	color:blue
-1	De	de	DET	Art|bep|zijdofmv|neut	Definite=Def|PronType=Art	2	det	_	_
-2	titelrol	rol	NOUN	N|soort|ev|neut	Number=Sing	4	nsubj	_	_
-3	werd	word	AUX	V|hulpofkopp|ovt|1of2of3|ev	Aspect=Imp|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	4	aux	_	_
-4	vertolkt	vertolk	VERB	V|trans|verldw|onverv	Subcat=Tran|Tense=Past|VerbForm=Part	0	root	_	_
-5	door	door	ADP	Prep|voor	AdpType=Prep	7	case	_	_
-6	onze	onze	PRON	Pron|bez|1|mv|neut|attr	Number=Plur|Person=1|Poss=Yes|PronType=Prs	7	nmod	_	_
-7	landgenote	landgenote	NOUN	N|soort|ev|neut	Number=Sing	4	obl	_	_
-8	Cora	Cora	PROPN	N_N_N	_	7	appos	_	MWE=Cora_Canna_Meyer|MWEPOS=X
-9	Canna	Canna	PROPN	PROPN	_	8	flat	_	_
-10	Meyer	Meyer	PROPN	PROPN	_	8	flat	_	SpaceAfter=No
-11	,	,	PUNCT	Punc|komma	PunctType=Comm	7	punct	_	_
-12	over	over	ADP	Prep|voor	AdpType=Prep	13	mark	_	_
-13	wie	wie	PRON	Pron|betr|neut|zelfst	PronType=Rel	7	nmod	_	_
-14	Claude	Claude	PROPN	N_N|eigen|ev|neut_eigen|ev|neut	_	13	nsubj	_	MWE=Claude_Rostand|MWEPOS=X
-15	Rostand	Rostand	PROPN	PROPN	_	14	flat	_	_
-16	onder	onder	ADP	Prep|voor	AdpType=Prep	18	case	_	_
-17	de	de	DET	Art|bep|zijdofmv|neut	Definite=Def|PronType=Art	18	det	_	_
-18	kop	kop	NOUN	N|soort|ev|neut	Number=Sing	14	obl	_	_
-19	"	"	PUNCT	Punc|aanhaaldubb	PunctType=Quot	18	punct	_	SpaceAfter=No
-20	La	La	DET	N_N_N_N_N_N_N	Gender=Fem|Number=Sing|PronType=Art	21	det	_	MWE=La_grande_voix_de_Cora_Canne_Meyer|MWEPOS=X
-21	grande	grande	ADJ	ADJ	Number=Sing	18	appos	_	_
-22	voix	voix	PROPN	PROPN	_	21	flat	_	_
-23	de	de	ADP	ADP	AdpType=Prep	24	case	_	_
-24	Cora	Cora	PROPN	PROPN	_	21	flat	_	_
-25	Canne	Canne	PROPN	PROPN	_	21	flat	_	_
-26	Meyer	Meyer	PROPN	PROPN	_	21	flat	_	SpaceAfter=No
-27	"	"	PUNCT	Punc|aanhaaldubb	PunctType=Quot	14	punct	_	_
-28	in	in	ADP	Prep|voor	AdpType=Prep	30	case	_	_
-29	de	de	DET	Art|bep|zijdofmv|neut	Definite=Def|PronType=Art	30	det	_	_
-30	Figaro	Figaro	PROPN	N_N|eigen|ev|neut_eigen|ev|neut	_	14	advmod	_	MWE=Figaro_Litteraire|MWEPOS=X
-31	Litteraire	Litteraire	PROPN	PROPN	_	30	flat	_	_
-32	o.m.	onder_meer	ADV	Adv|gew|geenfunc|stell|onverv	Degree=Pos	14	advmod	_	_
-33	schrijft	schrijf	VERB	V|trans|ott|3|ev	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Subcat=Tran|Tense=Pres|VerbForm=Fin	14	case	_	SpaceAfter=No
-34	:	:	PUNCT	Punc|dubbpunt	PunctType=Colo	4	punct	_	_
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 2 flat	color:blue
+1	Ali	Ali	ADV	N_N|eigen|ev|neut_eigen|ev|neut	Number=Sing	3	nsubj	_	MWE=Ali_Silver|MWEPOS=X
+2	Silver	Silver	PROPN	PROPN	_	1	flat	_	_
+3	kwam	kom	VERB	V|intrans|ovt|1of2of3|ev	Aspect=Imp|Mood=Ind|Number=Sing|Subcat=Intr|Tense=Past|VerbForm=Fin	0	root	_	_
+4	in	in	ADP	Prep|voor	AdpType=Prep	5	case	_	_
+5	1947	1947	NUM	Num|hoofd|bep|zelfst|onverv	Definite=Def|NumType=Card	3	obl	_	_
+6	naar	naar	ADP	Prep|voor	AdpType=Prep	7	case	_	_
+7	Lambarene	Lambarene	PROPN	N|eigen|ev|neut	Number=Sing	3	obl	_	SpaceAfter=No
+8	,	,	PUNCT	Punc|komma	PunctType=Comm	3	punct	_	_
+9	maria	maria	PROPN	N_N|eigen|ev|neut_eigen|ev|neut	_	11	nsubj	_	MWE=maria_Langendijk|MWEPOS=X
+10	Langendijk	Langendijk	PROPN	PROPN	_	9	flat	_	_
+11	bleef	blijf	AUX	V|hulpofkopp|ovt|1of2of3|ev	Aspect=Imp|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|VerbType=Aux,Cop	3	parataxis	_	_
+12	er	er	ADV	Adv|gew|er	AdvType=Ex	11	advmod	_	_
+13	bijna	bijna	ADV	Adv|gew|geenfunc|stell|onverv	Degree=Pos	15	advmod	_	_
+14	dertig	dertig	NUM	Num|hoofd|bep|attr|onverv	Definite=Def|NumType=Card	15	nummod	_	_
+15	jaar	jaar	NOUN	N|soort|ev|neut	Number=Sing	11	obl	_	SpaceAfter=No
+16	.	.	PUNCT	Punc|punt	PunctType=Peri	3	punct	_	_
 
 ~~~
 

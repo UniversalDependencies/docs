@@ -11,9 +11,9 @@ The 10 most frequent `PROPN` lemmas: <em>Türkiye, Kerem, İstanbul, Recep, Mahm
 
 The 10 most frequent `PROPN` types:  <em>Kerem, Türkiye, Kemal, Recep, Ayhan, Ramiz, Mebrure, Saffet, Mahmut, Melek</em>
 
-The 10 most frequent ambiguous lemmas: <em>Maryline</em> ([PROPN]() 6, [NOUN]() 1), <em>İmkb</em> ([PROPN]() 6, [NOUN]() 2), <em>Avrupalı</em> ([PROPN]() 2, [ADJ]() 1), <em>Tkp</em> ([PROPN]() 2, [NOUN]() 1), <em>Alekseyev</em> ([PROPN]() 1, [NOUN]() 1)
+The 10 most frequent ambiguous lemmas: <em>Maryline</em> ([PROPN]() 6, [NOUN]() 1), <em>İmkb</em> ([PROPN]() 6, [NOUN]() 2), <em>Avrupalı</em> ([PROPN]() 2, [ADJ]() 1), <em>Tkp</em> ([PROPN]() 2, [NOUN]() 1), <em>Alekseyev</em> ([NOUN]() 1, [PROPN]() 1)
 
-The 10 most frequent ambiguous types:  <em>Can</em> ([PROPN]() 4, [NOUN]() 1), <em>Deniz</em> ([PROPN]() 4, [NOUN]() 1), <em>Hanım</em> ([PROPN]() 4, [NOUN]() 2), <em>?</em> ([PUNCT]() 186, [PRON]() 20, [VERB]() 6, [PROPN]() 3, [ADJ]() 2, [NUM]() 1), <em>Bodrum</em> ([PROPN]() 3, [NOUN]() 1), <em>Abi</em> ([PROPN]() 2, [NOUN]() 1), <em>Güneş</em> ([NOUN]() 4, [PROPN]() 2), <em>Len</em> ([PROPN]() 2, [VERB]() 1), <em>Tek</em> ([ADJ]() 5, [PROPN]() 2), <em>Aralık</em> ([NOUN]() 1, [PROPN]() 1)
+The 10 most frequent ambiguous types:  <em>Can</em> ([PROPN]() 4, [NOUN]() 1), <em>Deniz</em> ([PROPN]() 4, [NOUN]() 1), <em>Hanım</em> ([PROPN]() 4, [NOUN]() 2), <em>?</em> ([PUNCT]() 186, [PRON]() 20, [VERB]() 6, [PROPN]() 3, [ADJ]() 2, [NUM]() 1), <em>Bodrum</em> ([PROPN]() 3, [NOUN]() 1), <em>Abi</em> ([PROPN]() 2, [NOUN]() 1), <em>Güneş</em> ([NOUN]() 4, [PROPN]() 2), <em>Len</em> ([PROPN]() 2, [VERB]() 1), <em>Tek</em> ([ADJ]() 5, [PROPN]() 2), <em>Aralık</em> ([PROPN]() 1, [NOUN]() 1)
 
 
 * <em>Can</em>
@@ -48,8 +48,8 @@ The 10 most frequent ambiguous types:  <em>Can</em> ([PROPN]() 4, [NOUN]() 1), <
   * [ADJ]() 5: <em><b>Tek</b> Tibet gelsin de .</em>
   * [PROPN]() 2: <em><b>Tek</b> başımıza iktidara doğru yürüyoruz " dedi .</em>
 * <em>Aralık</em>
-  * [NOUN]() 1: <em>Davetin <b>Aralık</b> 2002'de Ankara'ya gelerek Erdoğan ile görüşen Yunanistan'ın ana muhalefet lideri Karamanlis tarafından yapıldığını kaydeden Dişli , buna yönelik çalışmalarda bulunulduğunu bildirdi .</em>
   * [PROPN]() 1: <em>Irak savaşının Kasım <b>Aralık</b> - ayından önce olmayacağı varsayımıyla borsada bir hareketlilik beklenebilir .</em>
+  * [NOUN]() 1: <em>Davetin <b>Aralık</b> 2002'de Ankara'ya gelerek Erdoğan ile görüşen Yunanistan'ın ana muhalefet lideri Karamanlis tarafından yapıldığını kaydeden Dişli , buna yönelik çalışmalarda bulunulduğunu bildirdi .</em>
 
 ## Morphology
 

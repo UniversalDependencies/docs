@@ -11,7 +11,7 @@ The 10 most frequent `VERB` lemmas: <em>heb, kan, kom, moet, ga, zeg, doe, maak,
 
 The 10 most frequent `VERB` types:  <em>heeft, kan, kunnen, moet, komt, gaan, hebben, moeten, komen, gaat</em>
 
-The 10 most frequent ambiguous lemmas: <em>heb</em> ([AUX]() 1356, [VERB]() 783, [X]() 1), <em>kan</em> ([VERB]() 693, [AUX]() 21), <em>kom</em> ([VERB]() 664, [AUX]() 43, [PROPN]() 1, [NOUN]() 1, [ADJ]() 1), <em>moet</em> ([VERB]() 505, [AUX]() 23), <em>ga</em> ([VERB]() 473, [AUX]() 55, [NOUN]() 1), <em>zeg</em> ([VERB]() 346, [AUX]() 4, [X]() 1, [INTJ]() 1), <em>doe</em> ([VERB]() 278, [AUX]() 10), <em>maak</em> ([VERB]() 272, [AUX]() 72, [X]() 1), <em>geef</em> ([VERB]() 265, [NOUN]() 2, [AUX]() 1), <em>neem</em> ([VERB]() 259, [AUX]() 9)
+The 10 most frequent ambiguous lemmas: <em>heb</em> ([AUX]() 1356, [VERB]() 783, [X]() 1), <em>kan</em> ([VERB]() 693, [AUX]() 21), <em>kom</em> ([VERB]() 664, [AUX]() 43, [ADJ]() 1, [PROPN]() 1, [NOUN]() 1), <em>moet</em> ([VERB]() 505, [AUX]() 23), <em>ga</em> ([VERB]() 473, [AUX]() 55, [NOUN]() 1), <em>zeg</em> ([VERB]() 346, [AUX]() 4, [INTJ]() 1, [X]() 1), <em>doe</em> ([VERB]() 278, [AUX]() 10), <em>maak</em> ([VERB]() 272, [AUX]() 72, [X]() 1), <em>geef</em> ([VERB]() 265, [NOUN]() 2, [AUX]() 1), <em>neem</em> ([VERB]() 259, [AUX]() 9)
 
 The 10 most frequent ambiguous types:  <em>heeft</em> ([AUX]() 595, [VERB]() 322), <em>kan</em> ([VERB]() 269, [AUX]() 2), <em>kunnen</em> ([VERB]() 258, [AUX]() 17), <em>moet</em> ([VERB]() 241, [AUX]() 4), <em>komt</em> ([VERB]() 229, [AUX]() 9), <em>gaan</em> ([VERB]() 171, [AUX]() 23), <em>hebben</em> ([AUX]() 357, [VERB]() 167, [X]() 1), <em>moeten</em> ([VERB]() 163, [AUX]() 19), <em>komen</em> ([VERB]() 162, [AUX]() 26), <em>gaat</em> ([VERB]() 143, [AUX]() 13)
 

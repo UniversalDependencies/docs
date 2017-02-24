@@ -54,65 +54,6 @@ The following 3 pairs of parts of speech are connected with `remnant`: [ko-pos/P
 
 
 ~~~ conllu
-# visual-style 34	bgColor:blue
-# visual-style 34	fgColor:white
-# visual-style 36	bgColor:blue
-# visual-style 36	fgColor:white
-# visual-style 36 34 remnant	color:blue
-1	_	_	NOUN	_	_	3	advcl	_	_
-2	_	_	ADP	_	_	1	case	_	_
-3	_	_	VERB	_	_	23	amod	_	_
-4	_	_	PUNCT	_	_	18	punct	_	_
-5	_	_	PRON	_	_	15	nsubj	_	_
-6	_	_	PART	_	_	5	case	_	_
-7	_	_	PRON	_	_	10	amod	_	_
-8	_	_	PUNCT	_	_	10	punct	_	_
-9	_	_	NOUN	_	_	10	amod	_	_
-10	_	_	NOUN	_	_	15	dobj	_	_
-11	_	_	PUNCT	_	_	10	punct	_	_
-12	_	_	PART	_	_	10	case	_	_
-13	_	_	ADJ	_	_	15	advmod	_	_
-14	_	_	PART	_	_	13	case	_	_
-15	_	_	VERB	_	_	18	dep	_	_
-16	_	_	PART	_	_	15	case	_	_
-17	_	_	PART	_	_	16	case	_	_
-18	_	_	PUNCT	_	_	19	punct	_	_
-19	_	_	PART	_	_	23	case	_	_
-20	_	_	NOUN	_	_	21	advmod	_	_
-21	_	_	VERB	_	_	23	amod	_	_
-22	_	_	PART	_	_	21	case	_	_
-23	_	_	NOUN	_	_	25	acl	_	_
-24	_	_	PART	_	_	23	case	_	_
-25	_	_	NOUN	_	_	26	nsubj	_	_
-26	_	_	VERB	_	_	44	amod	_	_
-27	_	_	PART	_	_	26	case	_	_
-28	_	_	ADJ	_	_	29	amod	_	_
-29	_	_	NOUN	_	_	34	advcl	_	_
-30	_	_	ADP	_	_	29	case	_	_
-31	_	_	DET	_	_	32	det	_	_
-32	_	_	NOUN	_	_	34	dobj	_	_
-33	_	_	PART	_	_	32	case	_	_
-34	_	_	VERB	_	_	36	remnant	_	_
-35	_	_	PART	_	_	34	case	_	_
-36	_	_	ADV	_	_	44	advmod	_	_
-37	_	_	DET	_	_	38	det	_	_
-38	_	_	NOUN	_	_	40	dobj	_	_
-39	_	_	PART	_	_	38	case	_	_
-40	_	_	NOUN	_	_	43	acl	_	_
-41	_	_	PART	_	_	40	case	_	_
-42	_	_	PART	_	_	41	case	_	_
-43	_	_	NOUN	_	_	44	advcl	_	_
-44	_	_	NOUN	_	_	46	acl	_	_
-45	_	_	PART	_	_	44	case	_	_
-46	_	_	NOUN	_	_	0	root	_	_
-47	_	_	PART	_	_	46	case	_	_
-48	_	_	PART	_	_	47	case	_	_
-49	_	_	PUNCT	_	_	48	punct	_	_
-
-~~~
-
-
-~~~ conllu
 # visual-style 18	bgColor:blue
 # visual-style 18	fgColor:white
 # visual-style 22	bgColor:blue
@@ -168,6 +109,65 @@ The following 3 pairs of parts of speech are connected with `remnant`: [ko-pos/P
 48	_	_	PART	_	_	47	case	_	_
 49	_	_	PART	_	_	48	case	_	_
 50	_	_	PUNCT	_	_	49	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 34	bgColor:blue
+# visual-style 34	fgColor:white
+# visual-style 36	bgColor:blue
+# visual-style 36	fgColor:white
+# visual-style 36 34 remnant	color:blue
+1	_	_	NOUN	_	_	3	advcl	_	_
+2	_	_	ADP	_	_	1	case	_	_
+3	_	_	VERB	_	_	23	amod	_	_
+4	_	_	PUNCT	_	_	18	punct	_	_
+5	_	_	PRON	_	_	15	nsubj	_	_
+6	_	_	PART	_	_	5	case	_	_
+7	_	_	PRON	_	_	10	amod	_	_
+8	_	_	PUNCT	_	_	10	punct	_	_
+9	_	_	NOUN	_	_	10	amod	_	_
+10	_	_	NOUN	_	_	15	dobj	_	_
+11	_	_	PUNCT	_	_	10	punct	_	_
+12	_	_	PART	_	_	10	case	_	_
+13	_	_	ADJ	_	_	15	advmod	_	_
+14	_	_	PART	_	_	13	case	_	_
+15	_	_	VERB	_	_	18	dep	_	_
+16	_	_	PART	_	_	15	case	_	_
+17	_	_	PART	_	_	16	case	_	_
+18	_	_	PUNCT	_	_	19	punct	_	_
+19	_	_	PART	_	_	23	case	_	_
+20	_	_	NOUN	_	_	21	advmod	_	_
+21	_	_	VERB	_	_	23	amod	_	_
+22	_	_	PART	_	_	21	case	_	_
+23	_	_	NOUN	_	_	25	acl	_	_
+24	_	_	PART	_	_	23	case	_	_
+25	_	_	NOUN	_	_	26	nsubj	_	_
+26	_	_	VERB	_	_	44	amod	_	_
+27	_	_	PART	_	_	26	case	_	_
+28	_	_	ADJ	_	_	29	amod	_	_
+29	_	_	NOUN	_	_	34	advcl	_	_
+30	_	_	ADP	_	_	29	case	_	_
+31	_	_	DET	_	_	32	det	_	_
+32	_	_	NOUN	_	_	34	dobj	_	_
+33	_	_	PART	_	_	32	case	_	_
+34	_	_	VERB	_	_	36	remnant	_	_
+35	_	_	PART	_	_	34	case	_	_
+36	_	_	ADV	_	_	44	advmod	_	_
+37	_	_	DET	_	_	38	det	_	_
+38	_	_	NOUN	_	_	40	dobj	_	_
+39	_	_	PART	_	_	38	case	_	_
+40	_	_	NOUN	_	_	43	acl	_	_
+41	_	_	PART	_	_	40	case	_	_
+42	_	_	PART	_	_	41	case	_	_
+43	_	_	NOUN	_	_	44	advcl	_	_
+44	_	_	NOUN	_	_	46	acl	_	_
+45	_	_	PART	_	_	44	case	_	_
+46	_	_	NOUN	_	_	0	root	_	_
+47	_	_	PART	_	_	46	case	_	_
+48	_	_	PART	_	_	47	case	_	_
+49	_	_	PUNCT	_	_	48	punct	_	_
 
 ~~~
 

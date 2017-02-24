@@ -13,7 +13,7 @@ The 10 most frequent `X` types:  <em>a, b, Illusions, perdues, De, ad, f, home, 
 
 The 10 most frequent ambiguous lemmas: <em>a</em> ([ADP]() 7260, [NOUN]() 10, [X]() 9, [DET]() 3, [ADV]() 2, [CCONJ]() 1), <em>b</em> ([NOUN]() 11, [X]() 8), <em>de</em> ([ADP]() 36, [PROPN]() 6, [DET]() 4, [X]() 1), <em>f</em> ([NOUN]() 2, [X]() 2), <em>home</em> ([X]() 3, [NOUN]() 1), <em>ad</em> ([ADP]() 12, [X]() 3, [NOUN]() 3), <em>c</em> ([NOUN]() 7, [X]() 2), <em>come</em> ([ADP]() 475, [ADV]() 232, [SCONJ]() 172, [CCONJ]() 4, [PRON]() 1, [X]() 1), <em>la</em> ([PRON]() 84, [DET]() 10, [X]() 2), <em>to</em> ([ADP]() 2, [X]() 2)
 
-The 10 most frequent ambiguous types:  <em>a</em> ([ADP]() 6530, [NOUN]() 10, [X]() 8, [ADV]() 2), <em>b</em> ([NOUN]() 11, [X]() 8), <em>De</em> ([PROPN]() 39, [X]() 5, [ADP]() 2), <em>ad</em> ([ADP]() 427, [X]() 4, [NOUN]() 3), <em>f</em> ([X]() 2, [NOUN]() 2), <em>home</em> ([X]() 3, [NOUN]() 1), <em>la</em> ([DET]() 8350, [PRON]() 122, [X]() 2), <em>Come</em> ([ADV]() 163, [ADP]() 24, [SCONJ]() 22, [X]() 3), <em>c</em> ([NOUN]() 7, [X]() 2), <em>to</em> ([ADP]() 2, [X]() 2)
+The 10 most frequent ambiguous types:  <em>a</em> ([ADP]() 6530, [NOUN]() 10, [X]() 8, [ADV]() 2), <em>b</em> ([NOUN]() 11, [X]() 8), <em>De</em> ([PROPN]() 39, [X]() 5, [ADP]() 2), <em>ad</em> ([ADP]() 427, [X]() 4, [NOUN]() 3), <em>f</em> ([NOUN]() 2, [X]() 2), <em>home</em> ([X]() 3, [NOUN]() 1), <em>la</em> ([DET]() 8350, [PRON]() 122, [X]() 2), <em>Come</em> ([ADV]() 163, [ADP]() 24, [SCONJ]() 22, [X]() 3), <em>c</em> ([NOUN]() 7, [X]() 2), <em>to</em> ([X]() 2, [ADP]() 2)
 
 
 * <em>a</em>
@@ -33,8 +33,8 @@ The 10 most frequent ambiguous types:  <em>a</em> ([ADP]() 6530, [NOUN]() 10, [X
   * [X]() 4: <em>a ) trasporti <b>ad</b> hoc di merci pericolose ;</em>
   * [NOUN]() 3: <em>Da il leader di la Fiom Maurizio Landini a l' <b>ad</b> Fiat Sergio Marchionne , che domenica 3 febbraio sarà protagonista di il faccia a faccia conclusivo a il Teatro Carignano .</em>
 * <em>f</em>
-  * [X]() 2: <em>Con il semplice esercizio su l' opera di uno qualunque di i diritti qui di seguito elencati , tu accetti e ti obblighi a rispettare integralmente i termini di la presente licenza a i sensi di il punto 8. <b>f</b> .</em>
   * [NOUN]() 2: <em><b>f</b> ) l' importo o la percentuale di il prezzo da versare come acconto e le scadenze per il versamento di il saldo ;</em>
+  * [X]() 2: <em>Con il semplice esercizio su l' opera di uno qualunque di i diritti qui di seguito elencati , tu accetti e ti obblighi a rispettare integralmente i termini di la presente licenza a i sensi di il punto 8. <b>f</b> .</em>
 * <em>home</em>
   * [X]() 3: <em>Quanti " <b>home</b> run " ha segnato Babe Ruth ?</em>
   * [NOUN]() 1: <em>Quale giocatore è stato per sette volte il campione " <b>home</b> run " di il campionato nazionale ?</em>
@@ -51,8 +51,8 @@ The 10 most frequent ambiguous types:  <em>a</em> ([ADP]() 6530, [NOUN]() 10, [X
   * [NOUN]() 7: <em><b>c</b> ) i pasti forniti ( meal plan ) ;</em>
   * [X]() 2: <em>La presente licenza si intenderà risolta di diritto e i diritti con essa concessi cesseranno automaticamente , senza necessità di alcuna comunicazione in tal senso da parte di il licenziante , in caso di qualsivoglia inadempimento di i termini di la presente licenza da parte tua , ed in particolare di le disposizioni di cui a i punti 4. a , 4. b e 4. <b>c</b> , essendo la presente licenza condizionata risolutivamente a il verificar si di tali inadempimenti .</em>
 * <em>to</em>
-  * [ADP]() 2: <em>La traccia è stata inserita in una raccolta contenente tributi a i Metallica ( Metal Militia : A Tribute <b>to</b> Metallica ) .</em>
   * [X]() 2: <em>Deriva da il verbo <b>to</b> dope che significa “ drogare ” .</em>
+  * [ADP]() 2: <em>La traccia è stata inserita in una raccolta contenente tributi a i Metallica ( Metal Militia : A Tribute <b>to</b> Metallica ) .</em>
 
 ## Morphology
 
@@ -106,7 +106,7 @@ The 10 most frequent `X` lemmas: <em>la, King's, Men, Humaine, Le, Comédie, Cha
 
 The 10 most frequent `X` types:  <em>la, King's, Men, Humaine, Le, Comédie, Chagrin, Illusions, Peau, de</em>
 
-The 10 most frequent ambiguous lemmas: <em>la</em> ([PRON]() 15, [X]() 2, [DET]() 1), <em>King's</em> ([X]() 7, [PROPN]() 1), <em>Men</em> ([X]() 7, [PROPN]() 3), <em>Comédie</em> ([X]() 5, [PROPN]() 2), <em>de</em> ([ADP]() 13, [X]() 4, [PROPN]() 2), <em>the</em> ([X]() 4, [DET]() 2), <em>a</em> ([ADP]() 1147, [X]() 3, [CCONJ]() 1, [ADV]() 1), <em>Goriot</em> ([X]() 2, [PROPN]() 1), <em>Père</em> ([X]() 2, [PROPN]() 1), <em>Chamberlain's</em> ([PROPN]() 2, [X]() 1)
+The 10 most frequent ambiguous lemmas: <em>la</em> ([PRON]() 15, [X]() 2, [DET]() 1), <em>King's</em> ([X]() 7, [PROPN]() 1), <em>Men</em> ([X]() 7, [PROPN]() 3), <em>Comédie</em> ([X]() 5, [PROPN]() 2), <em>de</em> ([ADP]() 13, [X]() 4, [PROPN]() 2), <em>the</em> ([X]() 4, [DET]() 2), <em>a</em> ([ADP]() 1147, [X]() 3, [ADV]() 1, [CCONJ]() 1), <em>Goriot</em> ([X]() 2, [PROPN]() 1), <em>Père</em> ([X]() 2, [PROPN]() 1), <em>Chamberlain's</em> ([PROPN]() 2, [X]() 1)
 
 The 10 most frequent ambiguous types:  <em>la</em> ([DET]() 1316, [PRON]() 13, [X]() 2), <em>King's</em> ([X]() 7, [PROPN]() 1), <em>Men</em> ([X]() 7, [PROPN]() 3), <em>Le</em> ([DET]() 52, [X]() 6, [PRON]() 2), <em>Comédie</em> ([X]() 5, [PROPN]() 2), <em>de</em> ([ADP]() 15, [X]() 4, [PROPN]() 2), <em>the</em> ([DET]() 2, [X]() 2), <em>a</em> ([ADP]() 1006, [X]() 3, [ADV]() 1), <em>Goriot</em> ([X]() 2, [PROPN]() 1), <em>Père</em> ([X]() 2, [PROPN]() 1)
 

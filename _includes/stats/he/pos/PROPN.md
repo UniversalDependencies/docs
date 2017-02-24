@@ -13,7 +13,7 @@ The 10 most frequent `PROPN` types:  ישראל, ירושלים, כהנא, אר�
 
 The 10 most frequent ambiguous lemmas: מכבי ([PROPN]() 78, [NOUN]() 3), מ ([ADP]() 1516, [PROPN]() 33, [NUM]() 2, [X]() 1, [NOUN]() 1), כך ([PRON]() 189, [ADV]() 113, [PROPN]() 32), _ ([PUNCT]() 16916, [NUM]() 1759, [ADP]() 535, [NOUN]() 338, [VERB]() 248, [DET]() 229, [ADJ]() 187, [ADV]() 155, [PRON]() 129, [X]() 109, [CCONJ]() 102, [AUX]() 88, [SCONJ]() 47, [PROPN]() 24, [PART]() 17), חיים ([NOUN]() 94, [PROPN]() 24), אל ([ADP]() 135, [PROPN]() 21, [NOUN]() 12, [AUX]() 2), אריה ([PROPN]() 21, [NOUN]() 3), בן ([NOUN]() 168, [PROPN]() 21), דוד ([PROPN]() 19, [NOUN]() 8), ב ([ADP]() 7251, [PROPN]() 18, [X]() 6)
 
-The 10 most frequent ambiguous types:  מכבי ([PROPN]() 78, [VERB]() 2), כנסת ([PROPN]() 50, [NOUN]() 1), גרמניה ([PROPN]() 37, [ADJ]() 1), מ ([ADP]() 1560, [PROPN]() 36, [NUM]() 2, [NOUN]() 2, [X]() 1), כך ([PRON]() 189, [ADV]() 113, [PROPN]() 34), מאיר ([PROPN]() 31, [VERB]() 1), מארק ([PROPN]() 25, [X]() 1), חיים ([NOUN]() 59, [PROPN]() 24, [VERB]() 6, [ADJ]() 3), אל ([ADP]() 72, [PROPN]() 22, [NOUN]() 12, [ADV]() 7, [AUX]() 2), מצרים ([PROPN]() 22, [NOUN]() 1)
+The 10 most frequent ambiguous types:  מכבי ([PROPN]() 78, [VERB]() 2), כנסת ([PROPN]() 50, [NOUN]() 1), גרמניה ([PROPN]() 37, [ADJ]() 1), מ ([ADP]() 1560, [PROPN]() 36, [NOUN]() 2, [NUM]() 2, [X]() 1), כך ([PRON]() 189, [ADV]() 113, [PROPN]() 34), מאיר ([PROPN]() 31, [VERB]() 1), מארק ([PROPN]() 25, [X]() 1), חיים ([NOUN]() 59, [PROPN]() 24, [VERB]() 6, [ADJ]() 3), אל ([ADP]() 72, [PROPN]() 22, [NOUN]() 12, [ADV]() 7, [AUX]() 2), מצרים ([PROPN]() 22, [NOUN]() 1)
 
 
 * מכבי
@@ -28,8 +28,8 @@ The 10 most frequent ambiguous types:  מכבי ([PROPN]() 78, [VERB]() 2), כנ
 * מ
   * [ADP]() 1560: ה מוח מתפלץ לא רק <b>מ</b> ה תופעה ה מבישה אלא גם <b>מ</b> דרכי ה הערמה .
   * [PROPN]() 36: יש ב יוניוורסל תשובה ל כל מה ש יש ב <b>מ</b> - ג - <b>מ</b> , ו אף יותר .
-  * [NUM]() 2: ה יבוא הגיע ל 1.3 <b>מ</b> ד , ו ה ייצוא ל 149 <b>מ</b> ד .
   * [NOUN]() 2: ב ה_ דקה ה - 6 העלה יובל נעים את ר"ג ל יתרון ב בעיטה מ - 02 <b>מ</b> .
+  * [NUM]() 2: ה יבוא הגיע ל 1.3 <b>מ</b> ד , ו ה ייצוא ל 149 <b>מ</b> ד .
   * [X]() 1: <b>מ</b> מועמדי מפלגת ה שלטון ה מצרית הודחו מן ה רשימה לאחר ש התברר כי נחשדו ב שחיתות .
 * כך
   * [PRON]() 189: איש לא התכוון ל <b>כך</b> .

@@ -16,7 +16,7 @@ The feature is used with 5 part-of-speech tags: [ta-pos/VERB]() (404; 4% instanc
 
 404 [ta-pos/VERB]() tokens (35% of all `VERB` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="Polarity.html">Polarity</a>=Pos</tt> (404; 100%), <tt><a href="Voice.html">Voice</a>=Act</tt> (403; 100%), <tt><a href="Person.html">Person</a>=3</tt> (384; 95%), <tt><a href="Number.html">Number</a>=Sing</tt> (333; 82%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (273; 68%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (273; 68%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (273; 68%), <tt><a href="Polite.html">Polite</a>=EMPTY</tt> (262; 65%), <tt><a href="Gender.html">Gender</a>=Neut</tt> (240; 59%).
+The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="Polarity.html">Polarity</a>=Pos</tt> (404; 100%), <tt><a href="Voice.html">Voice</a>=Act</tt> (403; 100%), <tt><a href="Person.html">Person</a>=3</tt> (384; 95%), <tt><a href="Number.html">Number</a>=Sing</tt> (333; 82%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (273; 68%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (273; 68%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (273; 68%), <tt><a href="Polite.html">Polite</a>=EMPTY</tt> (262; 65%), <tt><a href="Gender.html">Gender</a>=Neut</tt> (240; 59%).
 
 `VERB` tokens may have the following values of `Tense`:
 
@@ -38,7 +38,7 @@ The most frequent other feature values with which `VERB` and `Tense` co-occurred
 
 282 [ta-pos/ADJ]() tokens (41% of all `ADJ` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `ADJ` and `Tense` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (282; 100%), <tt><a href="Polarity.html">Polarity</a>=Pos</tt> (282; 100%).
+The most frequent other feature values with which `ADJ` and `Tense` co-occurred: <tt><a href="Polarity.html">Polarity</a>=Pos</tt> (282; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (282; 100%).
 
 `ADJ` tokens may have the following values of `Tense`:
 
@@ -101,7 +101,7 @@ The most frequent other feature values with which `PART` and `Tense` co-occurred
 
 15 [ta-pos/NOUN]() tokens (1% of all `NOUN` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `NOUN` and `Tense` co-occurred: <tt><a href="Person.html">Person</a>=3</tt> (15; 100%), <tt><a href="Gender.html">Gender</a>=Com</tt> (15; 100%), <tt><a href="Case.html">Case</a>=Nom</tt> (13; 87%), <tt><a href="Number.html">Number</a>=Plur</tt> (9; 60%).
+The most frequent other feature values with which `NOUN` and `Tense` co-occurred: <tt><a href="Gender.html">Gender</a>=Com</tt> (15; 100%), <tt><a href="Person.html">Person</a>=3</tt> (15; 100%), <tt><a href="Case.html">Case</a>=Nom</tt> (13; 87%), <tt><a href="Number.html">Number</a>=Plur</tt> (9; 60%).
 
 `NOUN` tokens may have the following values of `Tense`:
 

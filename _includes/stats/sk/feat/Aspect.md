@@ -17,7 +17,7 @@ The feature is used with 3 part-of-speech tags: [sk-pos/VERB]() (12860; 14% inst
 
 12860 [sk-pos/VERB]() tokens (100% of all `VERB` tokens) have a non-empty value of `Aspect`.
 
-The most frequent other feature values with which `VERB` and `Aspect` co-occurred: <tt><a href="Polarity.html">Polarity</a>=Pos</tt> (11748; 91%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (9733; 76%), <tt><a href="Number.html">Number</a>=Sing</tt> (9587; 75%), <tt><a href="Person.html">Person</a>=3</tt> (8639; 67%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (8572; 67%), <tt><a href="Tense.html">Tense</a>=Past</tt> (8572; 67%), <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (8238; 64%).
+The most frequent other feature values with which `VERB` and `Aspect` co-occurred: <tt><a href="Polarity.html">Polarity</a>=Pos</tt> (11748; 91%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (9733; 76%), <tt><a href="Number.html">Number</a>=Sing</tt> (9587; 75%), <tt><a href="Person.html">Person</a>=3</tt> (8639; 67%), <tt><a href="Tense.html">Tense</a>=Past</tt> (8572; 67%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (8572; 67%), <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (8238; 64%).
 
 `VERB` tokens may have the following values of `Aspect`:
 
@@ -67,7 +67,7 @@ The most frequent other feature values with which `AUX` and `Aspect` co-occurred
 
 29 [sk-pos/ADJ]() tokens (0% of all `ADJ` tokens) have a non-empty value of `Aspect`.
 
-The most frequent other feature values with which `ADJ` and `Aspect` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (29; 100%), <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (29; 100%), <tt><a href="Degree.html">Degree</a>=EMPTY</tt> (29; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (29; 100%), <tt><a href="Polarity.html">Polarity</a>=Pos</tt> (29; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (27; 93%), <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (15; 52%).
+The most frequent other feature values with which `ADJ` and `Aspect` co-occurred: <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (29; 100%), <tt><a href="Polarity.html">Polarity</a>=Pos</tt> (29; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (29; 100%), <tt><a href="Degree.html">Degree</a>=EMPTY</tt> (29; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (29; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (27; 93%), <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (15; 52%).
 
 `ADJ` tokens may have the following values of `Aspect`:
 

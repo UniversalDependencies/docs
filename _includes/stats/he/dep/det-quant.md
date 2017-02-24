@@ -64,36 +64,25 @@ The following 4 pairs of parts of speech are connected with `det:quant`: [he-pos
 
 
 ~~~ conllu
-# visual-style 19	bgColor:blue
-# visual-style 19	fgColor:white
-# visual-style 22	bgColor:blue
-# visual-style 22	fgColor:white
-# visual-style 22 19 det:quant	color:blue
-1	ו	ו	CCONJ	CCONJ	_	5	cc	_	_
-2	אילו	אילו	CCONJ	CCONJ	_	5	advmod	_	_
-3	מקורות	מקור	NOUN	NOUN	Gender=Masc|Number=Plur	5	nsubj	_	_
-4	פלשתיניים	פלסטיני	ADJ	ADJ	Gender=Masc|Number=Plur	3	amod	_	_
-5	גורסים	גרס	VERB	VERB	Gender=Masc|HebBinyan=PAAL|Number=Plur|Person=1,2,3|VerbForm=Part|Voice=Act	0	root	_	_
-6	כי	כי	SCONJ	SCONJ	_	13	mark	_	_
-7	כל	כול	DET	DET	Definite=Cons	9	det	_	_
-8	ה	ה	DET	DET	PronType=Art	9	det:def	_	_
-9	מקרים	מקרה	NOUN	NOUN	Gender=Masc|Number=Plur	13	nsubj:cop	_	_
-10	הם	הוא	VERB	VERB	Gender=Masc|Number=Plur|Person=3|Polarity=Pos|VerbForm=Part|VerbType=Cop	13	cop	_	_
-11	על	על	ADP	ADP	_	13	case	_	_
-12	רקע	רקע	NOUN	NOUN	Definite=Cons|Gender=Masc|Number=Sing	11	fixed	_	_
-13	שיתוף	שיתוף	NOUN	NOUN	Definite=Cons|Gender=Masc|Number=Sing	5	ccomp	_	_
-14	פעולה	פעולה	NOUN	NOUN	Gender=Fem|Number=Sing	13	compound:smixut	_	_
-15	,	_	PUNCT	PUNCT	_	13	punct	_	_
-16	למרות	למרות	ADP	ADP	_	22	case	_	_
-17	ש	ש	SCONJ	SCONJ	_	22	mark	_	_
-18	ל	ל	ADP	ADP	_	22	case	_	_
-19	חלק	חלק	NOUN	NOUN	Gender=Masc|Number=Sing	22	det:quant	_	_
-20	מ	מ	ADP	ADP	HebSource=ConvUncertainLabel	22	case	_	_
-21	ה	ה	DET	DET	PronType=Art	22	det:def	_	_
-22	מעורבים	מעורב	ADJ	ADJ	Gender=Masc|Number=Plur	13	nmod	_	_
-23	עבר	עבר	NOUN	NOUN	Gender=Masc|Number=Sing	22	nsubj	_	_
-24	פלילי	פלילי	ADJ	ADJ	Gender=Masc|Number=Sing	23	amod	_	_
-25	.	_	PUNCT	PUNCT	_	5	punct	_	_
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 10 8 det:quant	color:blue
+1	מחיר	מחיר	NOUN	NOUN	Definite=Cons|Gender=Masc|Number=Sing	10	nsubj	_	_
+2	חומר	חומר	NOUN	NOUN	Definite=Cons|Gender=Masc|Number=Sing	1	compound:smixut	_	_
+3	ה	ה	DET	DET	PronType=Art	4	det:def	_	_
+4	גלם	גלם	NOUN	NOUN	Gender=Masc|Number=Sing	2	compound:smixut	_	_
+5	של_	של	ADP	ADP	Case=Gen	2	nmod:poss	_	_
+6	_הוא	הוא	PRON	PRON	Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	dep	_	_
+7	כ	כ	ADP	ADP	_	10	det	_	_
+8	שליש	שליש	NOUN	NOUN	Gender=Masc|Number=Sing	10	det:quant	_	_
+9	מ	מ	ADP	ADP	HebSource=ConvUncertainLabel	10	case	_	_
+10	זה	זה	PRON	PRON	Gender=Masc|Number=Sing|Person=3|PronType=Prs	0	root	_	_
+11	של	של	PART	PART	Case=Gen	12	case:gen	_	_
+12	עץ	עץ	NOUN	NOUN	Definite=Cons|Gender=Masc|Number=Sing	10	nmod:poss	_	_
+13	אלון	אלון	NOUN	NOUN	Gender=Masc|Number=Sing	12	compound:smixut	_	_
+14	.	_	PUNCT	PUNCT	_	10	punct	_	_
 
 ~~~
 

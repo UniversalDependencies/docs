@@ -11,9 +11,9 @@ The 10 most frequent `PUNCT` lemmas: <em>,, ., ", (, ), -, :, ;, ', /</em>
 
 The 10 most frequent `PUNCT` types:  <em>,, ., ", (, ), -, :, ;, ', /</em>
 
-The 10 most frequent ambiguous lemmas: <em>,</em> ([PUNCT]() 20656, [X]() 1), <em>"</em> ([PUNCT]() 2632, [X]() 5), <em>)</em> ([PUNCT]() 2360, [X]() 1), <em>-</em> ([PUNCT]() 1048, [X]() 1), <em>;</em> ([PUNCT]() 279, [X]() 2), <em>'</em> ([PUNCT]() 196, [X]() 2), <em>/</em> ([PUNCT]() 189, [SYM]() 22), <em>»</em> ([PUNCT]() 167, [ADJ]() 2), <em>--</em> ([PUNCT]() 151, [X]() 1), <em>[</em> ([PUNCT]() 17, [X]() 1, [PROPN]() 1)
+The 10 most frequent ambiguous lemmas: <em>,</em> ([PUNCT]() 20656, [X]() 1), <em>"</em> ([PUNCT]() 2632, [X]() 5), <em>)</em> ([PUNCT]() 2360, [X]() 1), <em>-</em> ([PUNCT]() 1048, [X]() 1), <em>;</em> ([PUNCT]() 279, [X]() 2), <em>'</em> ([PUNCT]() 196, [X]() 2), <em>/</em> ([PUNCT]() 189, [SYM]() 22), <em>»</em> ([PUNCT]() 167, [ADJ]() 2), <em>--</em> ([PUNCT]() 151, [X]() 1), <em>[</em> ([PUNCT]() 17, [PROPN]() 1, [X]() 1)
 
-The 10 most frequent ambiguous types:  <em>,</em> ([PUNCT]() 20656, [X]() 1), <em>"</em> ([PUNCT]() 2632, [X]() 5), <em>)</em> ([PUNCT]() 2360, [X]() 1), <em>-</em> ([PUNCT]() 1048, [X]() 1), <em>;</em> ([PUNCT]() 279, [X]() 2), <em>'</em> ([PUNCT]() 196, [X]() 2), <em>/</em> ([PUNCT]() 189, [SYM]() 22), <em>»</em> ([PUNCT]() 167, [ADJ]() 2), <em>--</em> ([PUNCT]() 151, [X]() 1), <em>[</em> ([PUNCT]() 17, [X]() 1, [PROPN]() 1)
+The 10 most frequent ambiguous types:  <em>,</em> ([PUNCT]() 20656, [X]() 1), <em>"</em> ([PUNCT]() 2632, [X]() 5), <em>)</em> ([PUNCT]() 2360, [X]() 1), <em>-</em> ([PUNCT]() 1048, [X]() 1), <em>;</em> ([PUNCT]() 279, [X]() 2), <em>'</em> ([PUNCT]() 196, [X]() 2), <em>/</em> ([PUNCT]() 189, [SYM]() 22), <em>»</em> ([PUNCT]() 167, [ADJ]() 2), <em>--</em> ([PUNCT]() 151, [X]() 1), <em>[</em> ([PUNCT]() 17, [PROPN]() 1, [X]() 1)
 
 
 * <em>,</em>
@@ -45,8 +45,8 @@ The 10 most frequent ambiguous types:  <em>,</em> ([PUNCT]() 20656, [X]() 1), <e
   * [X]() 1: <em>Gregorio Segundo Riera ( Coro , Falcón , 10 de julio de 1852 <b>--</b> Caracas , 14 de diciembre de 1917 ) , Jefe militar venezolano y miembro de el Partido Liberal .</em>
 * <em>[</em>
   * [PUNCT]() 17: <em>Ella lo logró durante la <b>[</b> lucha <b>[</b> para el Torneo de la derecha ] ] en el 28 de octubre de Impact !</em>
-  * [X]() 1: <em>Fue un próspero y vital centro comercial en la antigüedad , traficaban con perlas , piedras semipreciosas , <b>[</b> metales , piedras preciosas y valiosos adornos que llegaban a los rincones más alejados de el Extremo Oriente y África .</em>
   * [PROPN]() 1: <em>Era un mozo gallardo , guapo , bien plantado , que llevaba una vida intensa y que <b>[</b> tendría ] muchos hijos .</em>
+  * [X]() 1: <em>Fue un próspero y vital centro comercial en la antigüedad , traficaban con perlas , piedras semipreciosas , <b>[</b> metales , piedras preciosas y valiosos adornos que llegaban a los rincones más alejados de el Extremo Oriente y África .</em>
 
 ## Morphology
 

@@ -11,9 +11,9 @@ The 10 most frequent `X` lemmas: <em>metal, common, death, dolly, eHealth, a, an
 
 The 10 most frequent `X` types:  <em>metal, common, death, a, and, eHealth, fun, it, pic, DIY</em>
 
-The 10 most frequent ambiguous lemmas: <em>a</em> ([NOUN]() 30, [X]() 3, [PROPN]() 1), <em>and</em> ([PROPN]() 10, [X]() 3), <em>I</em> ([ADJ]() 34, [PROPN]() 5, [X]() 2), <em>Diàoyútái</em> ([PROPN]() 1, [X]() 1), <em>Do</em> ([PROPN]() 5, [X]() 1), <em>Don't</em> ([PROPN]() 1, [X]() 1), <em>Finnish</em> ([PROPN]() 2, [X]() 1), <em>Grey</em> ([PROPN]() 1, [X]() 1), <em>Life</em> ([PROPN]() 2, [X]() 1), <em>Yourself</em> ([X]() 1, [PROPN]() 1)
+The 10 most frequent ambiguous lemmas: <em>a</em> ([NOUN]() 30, [X]() 3, [PROPN]() 1), <em>and</em> ([PROPN]() 10, [X]() 3), <em>I</em> ([ADJ]() 34, [PROPN]() 5, [X]() 2), <em>Diàoyútái</em> ([X]() 1, [PROPN]() 1), <em>Do</em> ([PROPN]() 5, [X]() 1), <em>Don't</em> ([X]() 1, [PROPN]() 1), <em>Finnish</em> ([PROPN]() 2, [X]() 1), <em>Grey</em> ([X]() 1, [PROPN]() 1), <em>Life</em> ([PROPN]() 2, [X]() 1), <em>Yourself</em> ([PROPN]() 1, [X]() 1)
 
-The 10 most frequent ambiguous types:  <em>a</em> ([NOUN]() 30, [X]() 3, [PROPN]() 1), <em>and</em> ([PROPN]() 10, [X]() 3), <em>I</em> ([ADJ]() 26, [PROPN]() 3, [X]() 2), <em>Do</em> ([PROPN]() 5, [X]() 1), <em>Don't</em> ([PROPN]() 1, [X]() 1), <em>Finnish</em> ([PROPN]() 2, [X]() 1), <em>Life</em> ([X]() 1, [PROPN]() 1), <em>On</em> ([AUX]() 79, [VERB]() 26, [PROPN]() 5, [X]() 1), <em>Yourself</em> ([PROPN]() 1, [X]() 1), <em>by</em> ([X]() 1, [PROPN]() 1)
+The 10 most frequent ambiguous types:  <em>a</em> ([NOUN]() 30, [X]() 3, [PROPN]() 1), <em>and</em> ([PROPN]() 10, [X]() 3), <em>I</em> ([ADJ]() 26, [PROPN]() 3, [X]() 2), <em>Do</em> ([PROPN]() 5, [X]() 1), <em>Don't</em> ([PROPN]() 1, [X]() 1), <em>Finnish</em> ([PROPN]() 2, [X]() 1), <em>Life</em> ([PROPN]() 1, [X]() 1), <em>On</em> ([AUX]() 79, [VERB]() 26, [PROPN]() 5, [X]() 1), <em>Yourself</em> ([PROPN]() 1, [X]() 1), <em>by</em> ([X]() 1, [PROPN]() 1)
 
 
 * <em>a</em>
@@ -37,8 +37,8 @@ The 10 most frequent ambiguous types:  <em>a</em> ([NOUN]() 30, [X]() 3, [PROPN]
   * [PROPN]() 2: <em>Päivän seminaarit aloitti <b>Finnish</b> Linux User Groupin Arto Teräs .</em>
   * [X]() 1: <em>Suomen saa käyttöön menemällä polkua Tools - > Preferences - > Languages - > <b>Finnish</b> , jonka jälkeen Luminance HDR tulee käynnistää uudelleen .</em>
 * <em>Life</em>
-  * [X]() 1: <em>TIPissä yhdistyvät ICT- , <b>Life</b> Science- ja luovien alojen tutkimus sekä liiketoimintaosaaminen .</em>
   * [PROPN]() 1: <em>Trail of <b>Life</b> Decayed on ruotsalaisen death metal -yhtye Dark Tranquillityn ensimmäinen demo ja se julkaistiin vuonna 1991 .</em>
+  * [X]() 1: <em>TIPissä yhdistyvät ICT- , <b>Life</b> Science- ja luovien alojen tutkimus sekä liiketoimintaosaaminen .</em>
 * <em>On</em>
   * [AUX]() 79: <em><b>On</b> kyllä kiva , kun tuolla sai hipelöidä kaikkea . :)</em>
   * [VERB]() 26: <em><b>On</b> se , kun ei omiin puheisiinkaan voi enää luottaa .</em>
@@ -103,20 +103,20 @@ The 10 most frequent `X` lemmas: <em>in, sosiaali-, the, kauppa-, keng-, maa-, 5
 
 The 10 most frequent `X` types:  <em>in, sosiaali-, the, Kauppa-, keng-, maa-, 50-, 70-, Lilla, Pretty</em>
 
-The 10 most frequent ambiguous lemmas: <em>the</em> ([X]() 4, [PROPN]() 1), <em>out</em> ([X]() 2, [NOUN]() 2), <em>home</em> ([NOUN]() 3, [X]() 1), <em>is</em> ([PROPN]() 2, [X]() 1), <em>made</em> ([NOUN]() 1, [X]() 1), <em>me</em> ([PRON]() 443, [DET]() 66, [X]() 1), <em>new</em> ([PROPN]() 8, [X]() 1), <em>partners</em> ([X]() 1, [PROPN]() 1), <em>ride</em> ([PROPN]() 1, [X]() 1), <em>termi</em> ([NOUN]() 3, [X]() 1)
+The 10 most frequent ambiguous lemmas: <em>the</em> ([X]() 4, [PROPN]() 1), <em>out</em> ([X]() 2, [NOUN]() 2), <em>home</em> ([NOUN]() 3, [X]() 1), <em>is</em> ([PROPN]() 2, [X]() 1), <em>made</em> ([X]() 1, [NOUN]() 1), <em>me</em> ([PRON]() 443, [DET]() 66, [X]() 1), <em>new</em> ([PROPN]() 8, [X]() 1), <em>partners</em> ([X]() 1, [PROPN]() 1), <em>ride</em> ([X]() 1, [PROPN]() 1), <em>termi</em> ([NOUN]() 3, [X]() 1)
 
-The 10 most frequent ambiguous types:  <em>out</em> ([X]() 1, [NOUN]() 1), <em>New</em> ([PROPN]() 8, [X]() 1), <em>Ride</em> ([X]() 1, [PROPN]() 1), <em>m-</em> ([X]() 1, [PRON]() 1), <em>me</em> ([PRON]() 114, [X]() 1), <em>se-</em> ([X]() 1, [PRON]() 1), <em>termi</em> ([NOUN]() 2, [X]() 1)
+The 10 most frequent ambiguous types:  <em>out</em> ([NOUN]() 1, [X]() 1), <em>New</em> ([PROPN]() 8, [X]() 1), <em>Ride</em> ([PROPN]() 1, [X]() 1), <em>m-</em> ([X]() 1, [PRON]() 1), <em>me</em> ([PRON]() 114, [X]() 1), <em>se-</em> ([X]() 1, [PRON]() 1), <em>termi</em> ([NOUN]() 2, [X]() 1)
 
 
 * <em>out</em>
-  * [X]() 1: <em>Kuten tunnettua yleensä vasta Microsoft pystyy muuttamaan seuraavan lauseen imperfektiin : the cash is <b>out</b> there .</em>
   * [NOUN]() 1: <em>Aini toivoi , että työterveysasema olisi koonnut burn <b>out</b> -ryhmän , missä olisi voinut jakaa kokemuksia toisten kansa .</em>
+  * [X]() 1: <em>Kuten tunnettua yleensä vasta Microsoft pystyy muuttamaan seuraavan lauseen imperfektiin : the cash is <b>out</b> there .</em>
 * <em>New</em>
   * [PROPN]() 8: <em>Lontoo on Tokion ja <b>New</b> Yorkin aikavyöhykkeiden välissä .</em>
   * [X]() 1: <em>Nykyisin hän lentää aina muutaman viikon väliajoin Bostonista Tokioon kahdeksi viikoksi johtamaan nuorta <b>New</b> Japan Philharmonic Orchestraa ja lisäksi johtaa aika ajoin Euroopassa .</em>
 * <em>Ride</em>
-  * [X]() 1: <em>Express <b>Ride</b> vain mennä hutkutteli loppumatkan .</em>
   * [PROPN]() 1: <em>Hiukan eilistä lämpimämmällä säällä vauhtihirmu olisi varmasti hätyytellyt <b>Ride</b> The Nightin nimissä olevaa SE:tä 14,4 .</em>
+  * [X]() 1: <em>Express <b>Ride</b> vain mennä hutkutteli loppumatkan .</em>
 * <em>m-</em>
   * [X]() 1: <em>siin poika sit meinas , <b>m-</b> pudotti hattunsa päästä ja ... katso taakse siinä niinku ... kaatu ... ajoi siin semmoseen ... suureen kiveen ja kaatu pyörällääm siinä ja ...</em>
   * [PRON]() 1: <em>Toi ihmettelee välillä että <b>m-</b> nukun selkä häneem päin</em>

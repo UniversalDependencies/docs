@@ -16,7 +16,7 @@ The feature is used with 2 part-of-speech tags: [uk-pos/VERB]() (1221; 10% insta
 
 1221 [uk-pos/VERB]() tokens (79% of all `VERB` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (1221; 100%), <tt><a href="Tense.html">Tense</a>=Past</tt> (926; 76%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (926; 76%), <tt><a href="Aspect.html">Aspect</a>=Imp</tt> (811; 66%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (640; 52%).
+The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (1221; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (926; 76%), <tt><a href="Tense.html">Tense</a>=Past</tt> (926; 76%), <tt><a href="Aspect.html">Aspect</a>=Imp</tt> (811; 66%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (640; 52%).
 
 `VERB` tokens may have the following values of `Mood`:
 
@@ -42,7 +42,7 @@ The most frequent other feature values with which `VERB` and `Mood` co-occurred:
 
 150 [uk-pos/AUX]() tokens (87% of all `AUX` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `AUX` and `Mood` co-occurred: <tt><a href="Aspect.html">Aspect</a>=Imp</tt> (150; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (150; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (128; 85%), <tt><a href="Tense.html">Tense</a>=Past</tt> (128; 85%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (103; 69%).
+The most frequent other feature values with which `AUX` and `Mood` co-occurred: <tt><a href="Aspect.html">Aspect</a>=Imp</tt> (150; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (150; 100%), <tt><a href="Tense.html">Tense</a>=Past</tt> (128; 85%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (128; 85%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (103; 69%).
 
 `AUX` tokens may have the following values of `Mood`:
 

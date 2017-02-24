@@ -11,7 +11,7 @@ The 10 most frequent `PROPN` lemmas: <em>Peeter, Tõnu, eesti, Ernesaks, Ott, Ts
 
 The 10 most frequent `PROPN` types:  <em>Peeter, Eesti, Tõnu, Tsee, Ott, Ernesaks, Indrikson, Petrov, Aune, Arnold</em>
 
-The 10 most frequent ambiguous lemmas: <em>eesti</em> ([PROPN]() 2, [ADJ]() 2), <em>Graal</em> ([PROPN]() 15, [NOUN]() 1), <em>savi_saar</em> ([PROPN]() 3, [NOUN]() 1), <em>Osilius</em> ([PROPN]() 6, [NOUN]() 1), <em>saare_puu</em> ([PROPN]() 4, [NOUN]() 4), <em>Sir</em> ([PROPN]() 3, [NOUN]() 2), <em>Saksa</em> ([PROPN]() 2, [NOUN]() 1), <em>Pardakonossment</em> ([PROPN]() 1, [NOUN]() 1), <em>Vene</em> ([NOUN]() 1, [PROPN]() 1), <em>laser</em> ([NOUN]() 1, [PROPN]() 1)
+The 10 most frequent ambiguous lemmas: <em>eesti</em> ([ADJ]() 2, [PROPN]() 2), <em>Graal</em> ([PROPN]() 15, [NOUN]() 1), <em>savi_saar</em> ([PROPN]() 3, [NOUN]() 1), <em>Osilius</em> ([PROPN]() 6, [NOUN]() 1), <em>saare_puu</em> ([PROPN]() 4, [NOUN]() 4), <em>Sir</em> ([PROPN]() 3, [NOUN]() 2), <em>Saksa</em> ([PROPN]() 2, [NOUN]() 1), <em>Pardakonossment</em> ([NOUN]() 1, [PROPN]() 1), <em>Vene</em> ([NOUN]() 1, [PROPN]() 1), <em>laser</em> ([NOUN]() 1, [PROPN]() 1)
 
 The 10 most frequent ambiguous types:  <em>Graali</em> ([PROPN]() 11, [NOUN]() 1), <em>Savisaar</em> ([PROPN]() 10, [NOUN]() 1), <em>Rüütel</em> ([PROPN]() 5, [NOUN]() 1), <em>Osilius</em> ([PROPN]() 4, [NOUN]() 1), <em>Sir</em> ([NOUN]() 7, [PROPN]() 3), <em>Kadrioru</em> ([PROPN]() 2, [NOUN]() 1), <em>Saarepuu</em> ([NOUN]() 3, [PROPN]() 2), <em>Laser</em> ([PROPN]() 1, [NOUN]() 1), <em>Mind</em> ([PRON]() 4, [PROPN]() 1), <em>Noor</em> ([ADJ]() 2, [PROPN]() 1)
 

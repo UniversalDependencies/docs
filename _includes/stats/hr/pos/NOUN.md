@@ -11,7 +11,7 @@ The 10 most frequent `NOUN` lemmas: <em>godina, zemlja, posao, čovjek, stranka,
 
 The 10 most frequent `NOUN` types:  <em>godine, milijuna, godina, eura, ljudi, zemlje, dana, kuna, predsjednik, zemalja</em>
 
-The 10 most frequent ambiguous lemmas: <em>dan</em> ([NOUN]() 185, [ADV]() 2), <em>kuna</em> ([NOUN]() 134, [PROPN]() 1), <em>put</em> ([NOUN]() 126, [ADV]() 59, [ADP]() 2), <em>tjedan</em> ([NOUN]() 118, [ADJ]() 1), <em>strana</em> ([NOUN]() 102, [ADJ]() 1), <em>pomoć</em> ([NOUN]() 89, [ADP]() 1), <em>kraj</em> ([NOUN]() 88, [ADV]() 1, [ADP]() 1), <em>posto</em> ([ADV]() 107, [NOUN]() 87), <em>film</em> ([NOUN]() 84, [PROPN]() 1), <em>promjena</em> ([NOUN]() 72, [VERB]() 1)
+The 10 most frequent ambiguous lemmas: <em>dan</em> ([NOUN]() 185, [ADV]() 2), <em>kuna</em> ([NOUN]() 134, [PROPN]() 1), <em>put</em> ([NOUN]() 126, [ADV]() 59, [ADP]() 2), <em>tjedan</em> ([NOUN]() 118, [ADJ]() 1), <em>strana</em> ([NOUN]() 102, [ADJ]() 1), <em>pomoć</em> ([NOUN]() 89, [ADP]() 1), <em>kraj</em> ([NOUN]() 88, [ADP]() 1, [ADV]() 1), <em>posto</em> ([ADV]() 107, [NOUN]() 87), <em>film</em> ([NOUN]() 84, [PROPN]() 1), <em>promjena</em> ([NOUN]() 72, [VERB]() 1)
 
 The 10 most frequent ambiguous types:  <em>dana</em> ([NOUN]() 124, [ADJ]() 1), <em>kuna</em> ([NOUN]() 127, [PROPN]() 1), <em>posto</em> ([ADV]() 107, [NOUN]() 87), <em>vlada</em> ([NOUN]() 75, [VERB]() 6), <em>tjedna</em> ([NOUN]() 75, [ADJ]() 1), <em>strane</em> ([NOUN]() 73, [ADJ]() 9), <em>prava</em> ([NOUN]() 71, [ADJ]() 5), <em>put</em> ([NOUN]() 48, [ADV]() 27), <em>dan</em> ([NOUN]() 39, [ADV]() 2, [ADJ]() 1), <em>niz</em> ([NOUN]() 35, [ADP]() 2)
 

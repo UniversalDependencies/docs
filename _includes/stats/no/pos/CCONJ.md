@@ -11,9 +11,9 @@ The 10 most frequent `CCONJ` lemmas: <em>og, men, eller, både, for, så, enten,
 
 The 10 most frequent `CCONJ` types:  <em>og, men, eller, både, for, så, enten, samt, hverken, verken</em>
 
-The 10 most frequent ambiguous lemmas: <em>og</em> ([CCONJ]() 7255, [X]() 2, [ADV]() 1, [PART]() 1), <em>men</em> ([CCONJ]() 1458, [X]() 1), <em>eller</em> ([CCONJ]() 518, [X]() 1), <em>for</em> ([ADP]() 3310, [ADV]() 134, [CCONJ]() 85, [X]() 5), <em>så</em> ([ADV]() 744, [CCONJ]() 80, [SCONJ]() 16, [VERB]() 2), <em>and</em> ([X]() 19, [CCONJ]() 1, [NOUN]() 1)
+The 10 most frequent ambiguous lemmas: <em>og</em> ([CCONJ]() 7255, [X]() 2, [PART]() 1, [ADV]() 1), <em>men</em> ([CCONJ]() 1458, [X]() 1), <em>eller</em> ([CCONJ]() 518, [X]() 1), <em>for</em> ([ADP]() 3310, [ADV]() 134, [CCONJ]() 85, [X]() 5), <em>så</em> ([ADV]() 744, [CCONJ]() 80, [SCONJ]() 16, [VERB]() 2), <em>and</em> ([X]() 19, [CCONJ]() 1, [NOUN]() 1)
 
-The 10 most frequent ambiguous types:  <em>og</em> ([CCONJ]() 6886, [PART]() 5, [X]() 2, [ADV]() 1, [ADP]() 1), <em>men</em> ([CCONJ]() 799, [X]() 1, [ADP]() 1), <em>eller</em> ([CCONJ]() 484, [X]() 1), <em>for</em> ([ADP]() 3164, [ADV]() 130, [CCONJ]() 37, [X]() 5), <em>så</em> ([ADV]() 660, [VERB]() 83, [CCONJ]() 52, [SCONJ]() 15), <em>å</em> ([PART]() 3860, [CCONJ]() 4, [INTJ]() 1, [X]() 1, [AUX]() 1, [ADP]() 1), <em>and</em> ([X]() 19, [CCONJ]() 1, [NOUN]() 1), <em>med</em> ([ADP]() 2763, [CCONJ]() 1)
+The 10 most frequent ambiguous types:  <em>og</em> ([CCONJ]() 6886, [PART]() 5, [X]() 2, [ADV]() 1, [ADP]() 1), <em>men</em> ([CCONJ]() 799, [X]() 1, [ADP]() 1), <em>eller</em> ([CCONJ]() 484, [X]() 1), <em>for</em> ([ADP]() 3164, [ADV]() 130, [CCONJ]() 37, [X]() 5), <em>så</em> ([ADV]() 660, [VERB]() 83, [CCONJ]() 52, [SCONJ]() 15), <em>å</em> ([PART]() 3860, [CCONJ]() 4, [X]() 1, [INTJ]() 1, [AUX]() 1, [ADP]() 1), <em>and</em> ([X]() 19, [CCONJ]() 1, [NOUN]() 1), <em>med</em> ([ADP]() 2763, [CCONJ]() 1)
 
 
 * <em>og</em>
@@ -42,8 +42,8 @@ The 10 most frequent ambiguous types:  <em>og</em> ([CCONJ]() 6886, [PART]() 5, 
 * <em>å</em>
   * [PART]() 3860: <em>Det var grusomt <b>å</b> høre på . »</em>
   * [CCONJ]() 4: <em>De fleste av småpartiene vil samarbeide med Ap , men er ikke enige om hvem andre det er som bør få være med <b>å</b> styre .</em>
-  * [INTJ]() 1: <em>" <b>å</b> ja , det har vært et døende språk i over hundre år .</em>
   * [X]() 1: <em>Itj bruk tid på <b>å</b> ha på dåkk klea , ell bærg brølløpsbildan .</em>
+  * [INTJ]() 1: <em>" <b>å</b> ja , det har vært et døende språk i over hundre år .</em>
   * [AUX]() 1: <em>Og for at også jeg <b>å</b> komme med en bekjennelse :</em>
   * [ADP]() 1: <em>Derfor spør jeg meg selv ; hvis det er lov å betale Ruter penger for å oppfordre offentligheten til å dø av hjerteinfarkt - er det da også OK og dra hjem til de ansatte i Ruter og skyte amfetamin inn <b>å</b> øya på familiene deres ?</em>
 * <em>and</em>
@@ -100,7 +100,7 @@ The 10 most frequent `CCONJ` lemmas: <em>og, men, eller, både, så, for, anten,
 
 The 10 most frequent `CCONJ` types:  <em>og, men, eller, både, så, for, anten, korkje, verken, &</em>
 
-The 10 most frequent ambiguous lemmas: <em>og</em> ([CCONJ]() 7525, [X]() 26, [ADV]() 16), <em>men</em> ([CCONJ]() 1564, [NOUN]() 1), <em>eller</em> ([CCONJ]() 542, [X]() 5), <em>så</em> ([ADV]() 733, [CCONJ]() 109, [SCONJ]() 9, [VERB]() 4, [X]() 1, [ADJ]() 1), <em>for</em> ([ADP]() 3368, [ADV]() 146, [CCONJ]() 92, [X]() 16), <em>samt</em> ([CCONJ]() 4, [ADV]() 3), <em>pluss</em> ([CCONJ]() 3, [NOUN]() 3), <em>et</em> ([X]() 7, [CCONJ]() 1), <em>samd</em> ([ADJ]() 35, [CCONJ]() 1)
+The 10 most frequent ambiguous lemmas: <em>og</em> ([CCONJ]() 7525, [X]() 26, [ADV]() 16), <em>men</em> ([CCONJ]() 1564, [NOUN]() 1), <em>eller</em> ([CCONJ]() 542, [X]() 5), <em>så</em> ([ADV]() 733, [CCONJ]() 109, [SCONJ]() 9, [VERB]() 4, [ADJ]() 1, [X]() 1), <em>for</em> ([ADP]() 3368, [ADV]() 146, [CCONJ]() 92, [X]() 16), <em>samt</em> ([CCONJ]() 4, [ADV]() 3), <em>pluss</em> ([NOUN]() 3, [CCONJ]() 3), <em>et</em> ([X]() 7, [CCONJ]() 1), <em>samd</em> ([ADJ]() 35, [CCONJ]() 1)
 
 The 10 most frequent ambiguous types:  <em>og</em> ([CCONJ]() 7213, [X]() 26, [ADV]() 15, [PART]() 3), <em>men</em> ([CCONJ]() 851, [NOUN]() 1), <em>eller</em> ([CCONJ]() 512, [X]() 5), <em>så</em> ([ADV]() 650, [CCONJ]() 63, [SCONJ]() 9, [VERB]() 5, [X]() 1), <em>for</em> ([ADP]() 3245, [ADV]() 138, [CCONJ]() 49, [X]() 16, [VERB]() 1), <em>samt</em> ([CCONJ]() 4, [ADV]() 3), <em>pluss</em> ([NOUN]() 3, [CCONJ]() 3), <em>å</em> ([PART]() 3793, [X]() 10, [CCONJ]() 3, [ADP]() 1), <em>òg</em> ([ADV]() 204, [CCONJ]() 2), <em>Et</em> ([PROPN]() 3, [X]() 1, [CCONJ]() 1)
 

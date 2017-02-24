@@ -81,7 +81,7 @@ The most frequent other feature values with which `PRON` and `Definite` co-occur
 
 3658 [sv-pos/ADJ]() tokens (55% of all `ADJ` tokens) have a non-empty value of `Definite`.
 
-The most frequent other feature values with which `ADJ` and `Definite` co-occurred: <tt><a href="Case.html">Case</a>=Nom</tt> (3654; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (3313; 91%), <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (3148; 86%), <tt><a href="VerbForm.html">VerbForm</a>=EMPTY</tt> (3148; 86%), <tt><a href="Degree.html">Degree</a>=Pos</tt> (2918; 80%).
+The most frequent other feature values with which `ADJ` and `Definite` co-occurred: <tt><a href="Case.html">Case</a>=Nom</tt> (3654; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (3313; 91%), <tt><a href="VerbForm.html">VerbForm</a>=EMPTY</tt> (3148; 86%), <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (3148; 86%), <tt><a href="Degree.html">Degree</a>=Pos</tt> (2918; 80%).
 
 `ADJ` tokens may have the following values of `Definite`:
 
@@ -101,7 +101,7 @@ The most frequent other feature values with which `ADJ` and `Definite` co-occurr
 
 80 [sv-pos/NUM]() tokens (6% of all `NUM` tokens) have a non-empty value of `Definite`.
 
-The most frequent other feature values with which `NUM` and `Definite` co-occurred: <tt><a href="Case.html">Case</a>=Nom</tt> (80; 100%), <tt><a href="NumType.html">NumType</a>=Card</tt> (80; 100%).
+The most frequent other feature values with which `NUM` and `Definite` co-occurred: <tt><a href="NumType.html">NumType</a>=Card</tt> (80; 100%), <tt><a href="Case.html">Case</a>=Nom</tt> (80; 100%).
 
 `NUM` tokens may have the following values of `Definite`:
 
@@ -112,7 +112,7 @@ The most frequent other feature values with which `NUM` and `Definite` co-occurr
 
 23 [sv-pos/VERB]() tokens (0% of all `VERB` tokens) have a non-empty value of `Definite`.
 
-The most frequent other feature values with which `VERB` and `Definite` co-occurred: <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (23; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (23; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (23; 100%), <tt><a href="Tense.html">Tense</a>=Past</tt> (23; 100%).
+The most frequent other feature values with which `VERB` and `Definite` co-occurred: <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (23; 100%), <tt><a href="Tense.html">Tense</a>=Past</tt> (23; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (23; 100%), <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (23; 100%).
 
 `VERB` tokens may have the following values of `Definite`:
 

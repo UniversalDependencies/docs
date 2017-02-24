@@ -13,7 +13,7 @@ The 10 most frequent `PRON` types:  <em>се, си, това, той, му, ко
 
 The 10 most frequent ambiguous lemmas: <em>който</em> ([PRON]() 921, [DET]() 6), <em>свой</em> ([PRON]() 556, [DET]() 113), <em>този</em> ([DET]() 708, [PRON]() 479), <em>мой</em> ([PRON]() 334, [DET]() 147), <em>наш</em> ([DET]() 168, [PRON]() 152), <em>всеки</em> ([DET]() 250, [PRON]() 102), <em>никой</em> ([PRON]() 88, [DET]() 20), <em>някой</em> ([PRON]() 87, [DET]() 84), <em>кой</em> ([PRON]() 84, [DET]() 18, [PROPN]() 1), <em>си</em> ([PRON]() 51, [PART]() 36, [PROPN]() 4)
 
-The 10 most frequent ambiguous types:  <em>си</em> ([PRON]() 844, [AUX]() 55, [PART]() 36, [VERB]() 1), <em>това</em> ([PRON]() 256, [DET]() 120), <em>му</em> ([PRON]() 437, [PART]() 1), <em>ни</em> ([PRON]() 256, [CCONJ]() 12), <em>който</em> ([PRON]() 218, [DET]() 3), <em>ми</em> ([PRON]() 147, [PART]() 2), <em>ти</em> ([PRON]() 106, [PART]() 2), <em>я</em> ([PRON]() 117, [PART]() 1, [INTJ]() 1), <em>то</em> ([PRON]() 42, [PART]() 8, [CCONJ]() 1), <em>всичко</em> ([PRON]() 44, [DET]() 5)
+The 10 most frequent ambiguous types:  <em>си</em> ([PRON]() 844, [AUX]() 55, [PART]() 36, [VERB]() 1), <em>това</em> ([PRON]() 256, [DET]() 120), <em>му</em> ([PRON]() 437, [PART]() 1), <em>ни</em> ([PRON]() 256, [CCONJ]() 12), <em>който</em> ([PRON]() 218, [DET]() 3), <em>ми</em> ([PRON]() 147, [PART]() 2), <em>ти</em> ([PRON]() 106, [PART]() 2), <em>я</em> ([PRON]() 117, [INTJ]() 1, [PART]() 1), <em>то</em> ([PRON]() 42, [PART]() 8, [CCONJ]() 1), <em>всичко</em> ([PRON]() 44, [DET]() 5)
 
 
 * <em>си</em>
@@ -41,8 +41,8 @@ The 10 most frequent ambiguous types:  <em>си</em> ([PRON]() 844, [AUX]() 55, 
   * [PART]() 2: <em>Подпретнал се оня ми <b>ти</b> Бай Ганьо , крачи ли крачи , станал вир вода .</em>
 * <em>я</em>
   * [PRON]() 117: <em>Ти забрави да <b>я</b> търсиш .</em>
-  * [PART]() 1: <em>Хайде , <b>я</b> разправи днес какво ви предава учителят .</em>
   * [INTJ]() 1: <em>Още от първия ред преглътна , <b>я</b> виж ...</em>
+  * [PART]() 1: <em>Хайде , <b>я</b> разправи днес какво ви предава учителят .</em>
 * <em>то</em>
   * [PRON]() 42: <em>С плахи , крадливи стъпки <b>то</b> стигна сред поляната .</em>
   * [PART]() 8: <em>И <b>то</b> в посока , която да облекчи хода на военната реформа и да укрепи армията .</em>

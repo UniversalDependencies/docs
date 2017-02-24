@@ -13,13 +13,13 @@ The 10 most frequent `NOUN` types:  <em>roku, korun, let, roce, procent, společ
 
 The 10 most frequent ambiguous lemmas: <em>stát</em> ([VERB]() 1358, [NOUN]() 1270, [AUX]() 2), <em>den</em> ([NOUN]() 1053, [ADJ]() 1), <em>místo</em> ([NOUN]() 1036, [ADP]() 166, [SCONJ]() 9, [ADV]() 5), <em>klub</em> ([NOUN]() 454, [PROPN]() 1), <em>bod</em> ([NOUN]() 438, [PROPN]() 2), <em>růst</em> ([NOUN]() 321, [VERB]() 137), <em>kontakt</em> ([NOUN]() 311, [PROPN]() 2), <em>televize</em> ([NOUN]() 285, [PROPN]() 3), <em>tisíc</em> ([NUM]() 465, [NOUN]() 284, [ADV]() 1), <em>sto</em> ([NOUN]() 275, [NUM]() 38)
 
-The 10 most frequent ambiguous types:  <em>r</em> ([NOUN]() 351, [PROPN]() 1, [ADV]() 1), <em>s</em> ([ADP]() 7687, [NOUN]() 329, [PART]() 17, [ADJ]() 8), <em>místo</em> ([NOUN]() 321, [ADP]() 120, [SCONJ]() 6, [ADV]() 5), <em>stát</em> ([NOUN]() 259, [VERB]() 200), <em>den</em> ([NOUN]() 273, [ADJ]() 1), <em>tel</em> ([NOUN]() 261, [ADJ]() 2), <em>m</em> ([NOUN]() 187, [ADJ]() 2, [ADP]() 1), <em>klubu</em> ([NOUN]() 193, [PROPN]() 1), <em>prostřednictvím</em> ([NOUN]() 157, [ADP]() 1), <em>sdružení</em> ([NOUN]() 87, [ADJ]() 1)
+The 10 most frequent ambiguous types:  <em>r</em> ([NOUN]() 351, [ADV]() 1, [PROPN]() 1), <em>s</em> ([ADP]() 7687, [NOUN]() 329, [PART]() 17, [ADJ]() 8), <em>místo</em> ([NOUN]() 321, [ADP]() 120, [SCONJ]() 6, [ADV]() 5), <em>stát</em> ([NOUN]() 259, [VERB]() 200), <em>den</em> ([NOUN]() 273, [ADJ]() 1), <em>tel</em> ([NOUN]() 261, [ADJ]() 2), <em>m</em> ([NOUN]() 187, [ADJ]() 2, [ADP]() 1), <em>klubu</em> ([NOUN]() 193, [PROPN]() 1), <em>prostřednictvím</em> ([NOUN]() 157, [ADP]() 1), <em>sdružení</em> ([NOUN]() 87, [ADJ]() 1)
 
 
 * <em>r</em>
   * [NOUN]() 351: <em>Skutečnost <b>r</b> . 1992</em>
-  * [PROPN]() 1: <em>( <b>r</b> ) ( ČT 1 - 20.30 )</em>
   * [ADV]() 1: <em>Uwe Fink z Arizonské univerzity zkoumal spektra Yamakovy komety ( 1988 <b>r</b> ) a zjistil , že prakticky neobsahuje molekulární uhlík a kyan , čímž se výrazně liší od běžných komet .</em>
+  * [PROPN]() 1: <em>( <b>r</b> ) ( ČT 1 - 20.30 )</em>
 * <em>s</em>
   * [ADP]() 7687: <em>Fax <b>s</b> kvalitním tiskem na normální papír .</em>
   * [NOUN]() 329: <em>O jeho návštěvě zevrubně informuje Reader ' <b>s</b> digest z prosince 1994 .</em>
@@ -105,7 +105,7 @@ The 10 most frequent `NOUN` lemmas: <em>rok, práce, doba, člověk, úkol, prac
 
 The 10 most frequent `NOUN` types:  <em>práce, roce, let, roku, práci, oblasti, době, společnosti, hlediska, činnosti</em>
 
-The 10 most frequent ambiguous lemmas: <em>místo</em> ([NOUN]() 353, [ADP]() 48, [SCONJ]() 2), <em>potřeba</em> ([NOUN]() 295, [ADJ]() 14), <em>vedoucí</em> ([NOUN]() 185, [ADJ]() 87), <em>třída</em> ([NOUN]() 171, [PROPN]() 1), <em>stát</em> ([VERB]() 338, [NOUN]() 169), <em>růst</em> ([NOUN]() 104, [VERB]() 57), <em>výše</em> ([NOUN]() 74, [ADV]() 24), <em>ulice</em> ([NOUN]() 73, [PROPN]() 2), <em>doprava</em> ([NOUN]() 67, [ADV]() 2), <em>fakt</em> ([NOUN]() 51, [ADV]() 1, [PART]() 1)
+The 10 most frequent ambiguous lemmas: <em>místo</em> ([NOUN]() 353, [ADP]() 48, [SCONJ]() 2), <em>potřeba</em> ([NOUN]() 295, [ADJ]() 14), <em>vedoucí</em> ([NOUN]() 185, [ADJ]() 87), <em>třída</em> ([NOUN]() 171, [PROPN]() 1), <em>stát</em> ([VERB]() 338, [NOUN]() 169), <em>růst</em> ([NOUN]() 104, [VERB]() 57), <em>výše</em> ([NOUN]() 74, [ADV]() 24), <em>ulice</em> ([NOUN]() 73, [PROPN]() 2), <em>doprava</em> ([NOUN]() 67, [ADV]() 2), <em>fakt</em> ([NOUN]() 51, [PART]() 1, [ADV]() 1)
 
 The 10 most frequent ambiguous types:  <em>prací</em> ([NOUN]() 141, [ADJ]() 5), <em>oddělení</em> ([NOUN]() 138, [ADJ]() 1), <em>vedoucí</em> ([NOUN]() 85, [ADJ]() 50), <em>místo</em> ([NOUN]() 95, [ADP]() 42, [SCONJ]() 2), <em>září</em> ([NOUN]() 72, [VERB]() 1), <em>vědomí</em> ([NOUN]() 60, [ADJ]() 1), <em>fronty</em> ([NOUN]() 48, [PROPN]() 1), <em>růst</em> ([NOUN]() 40, [VERB]() 5), <em>ulici</em> ([NOUN]() 39, [PROPN]() 2), <em>potřeba</em> ([NOUN]() 35, [ADJ]() 14)
 

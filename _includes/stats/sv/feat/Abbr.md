@@ -28,7 +28,7 @@ The most frequent other feature values with which `ADV` and `Abbr` co-occurred: 
 
 292 [sv-pos/NOUN]() tokens (2% of all `NOUN` tokens) have a non-empty value of `Abbr`.
 
-The most frequent other feature values with which `NOUN` and `Abbr` co-occurred: <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (292; 100%), <tt><a href="Definite.html">Definite</a>=EMPTY</tt> (292; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (292; 100%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (292; 100%).
+The most frequent other feature values with which `NOUN` and `Abbr` co-occurred: <tt><a href="Case.html">Case</a>=EMPTY</tt> (292; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (292; 100%), <tt><a href="Definite.html">Definite</a>=EMPTY</tt> (292; 100%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (292; 100%).
 
 `NOUN` tokens may have the following values of `Abbr`:
 
@@ -50,7 +50,7 @@ The most frequent other feature values with which `VERB` and `Abbr` co-occurred:
 
 6 [sv-pos/ADJ]() tokens (0% of all `ADJ` tokens) have a non-empty value of `Abbr`.
 
-The most frequent other feature values with which `ADJ` and `Abbr` co-occurred: <tt><a href="Number.html">Number</a>=EMPTY</tt> (6; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (6; 100%), <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (6; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (6; 100%), <tt><a href="Degree.html">Degree</a>=EMPTY</tt> (6; 100%), <tt><a href="VerbForm.html">VerbForm</a>=EMPTY</tt> (6; 100%), <tt><a href="Definite.html">Definite</a>=EMPTY</tt> (6; 100%).
+The most frequent other feature values with which `ADJ` and `Abbr` co-occurred: <tt><a href="Case.html">Case</a>=EMPTY</tt> (6; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (6; 100%), <tt><a href="VerbForm.html">VerbForm</a>=EMPTY</tt> (6; 100%), <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (6; 100%), <tt><a href="Definite.html">Definite</a>=EMPTY</tt> (6; 100%), <tt><a href="Degree.html">Degree</a>=EMPTY</tt> (6; 100%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (6; 100%).
 
 `ADJ` tokens may have the following values of `Abbr`:
 

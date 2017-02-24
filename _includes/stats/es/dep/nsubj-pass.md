@@ -111,6 +111,24 @@ The following 5 pairs of parts of speech are connected with `nsubj:pass`: [es-po
 
 
 ~~~ conllu
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 2 nsubj:pass	color:blue
+1	LA	la	DET	DET	Gender=Fem|Number=Sing|PronType=Dem	2	det	_	_
+2	REAL	real	PROPN	PROPN	_	6	nsubj:pass	_	MWE=REAL_SOCIEDAD|MWEPOS=PROPN
+3	SOCIEDAD	sociedad	PROPN	PROPN	_	2	flat	_	_
+4	NO	no	ADV	ADV	Polarity=Neg	6	advmod	_	_
+5	SE	se	PRON	PRON	_	6	expl:pass	_	_
+6	ALEJA	aleja	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+7	DEL	del	ADP	ADP	AdpType=Preppron|Gender=Masc|Number=Sing	8	case	_	_
+8	PRECIPICIO	precipicio	NOUN	NOUN	Gender=Masc|Number=Sing	6	obl	_	_
+
+~~~
+
+
+~~~ conllu
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 9	bgColor:blue
@@ -140,24 +158,6 @@ The following 5 pairs of parts of speech are connected with `nsubj:pass`: [es-po
 22	infantes	infante	NOUN	NOUN	Gender=Masc|Number=Plur	20	nmod	_	_
 23	cubiertos	cubierto	ADJ	ADJ	Gender=Masc|Number=Plur|VerbForm=Part	22	amod	_	SpaceAfter=No
 24	.	.	PUNCT	PUNCT	PunctType=Peri	18	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 2 nsubj:pass	color:blue
-1	LA	la	DET	DET	Gender=Fem|Number=Sing|PronType=Dem	2	det	_	_
-2	REAL	real	PROPN	PROPN	_	6	nsubj:pass	_	MWE=REAL_SOCIEDAD|MWEPOS=PROPN
-3	SOCIEDAD	sociedad	PROPN	PROPN	_	2	flat	_	_
-4	NO	no	ADV	ADV	Polarity=Neg	6	advmod	_	_
-5	SE	se	PRON	PRON	_	6	expl:pass	_	_
-6	ALEJA	aleja	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-7	DEL	del	ADP	ADP	AdpType=Preppron|Gender=Masc|Number=Sing	8	case	_	_
-8	PRECIPICIO	precipicio	NOUN	NOUN	Gender=Masc|Number=Sing	6	obl	_	_
 
 ~~~
 

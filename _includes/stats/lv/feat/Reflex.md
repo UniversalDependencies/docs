@@ -29,7 +29,7 @@ The most frequent other feature values with which `VERB` and `Reflex` co-occurre
 
 58 [lv-pos/PRON]() tokens (2% of all `PRON` tokens) have a non-empty value of `Reflex`.
 
-The most frequent other feature values with which `PRON` and `Reflex` co-occurred: <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (58; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (58; 100%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (58; 100%), <tt><a href="PronType.html">PronType</a>=Rcp</tt> (58; 100%).
+The most frequent other feature values with which `PRON` and `Reflex` co-occurred: <tt><a href="PronType.html">PronType</a>=Rcp</tt> (58; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (58; 100%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (58; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (58; 100%).
 
 `PRON` tokens may have the following values of `Reflex`:
 

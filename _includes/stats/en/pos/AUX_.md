@@ -13,7 +13,7 @@ The 10 most frequent `AUX` types:  <em>is, was, be, are, will, can, have, would,
 
 The 10 most frequent ambiguous lemmas: <em>be</em> ([AUX]() 7716, [VERB]() 876, [NOUN]() 2, [X]() 1), <em>have</em> ([VERB]() 1501, [AUX]() 1406), <em>will</em> ([AUX]() 1146, [NOUN]() 4, [SCONJ]() 1, [PROPN]() 1), <em>do</em> ([AUX]() 1019, [VERB]() 618, [NOUN]() 2, [PROPN]() 1), <em>can</em> ([AUX]() 806, [NOUN]() 6, [VERB]() 3), <em>would</em> ([AUX]() 707, [X]() 1), <em>may</em> ([AUX]() 204, [PROPN]() 1), <em>must</em> ([AUX]() 67, [NOUN]() 3), <em>get</em> ([VERB]() 668, [AUX]() 39), <em>`s</em> ([AUX]() 9, [PART]() 1)
 
-The 10 most frequent ambiguous types:  <em>is</em> ([AUX]() 2127, [VERB]() 346, [ADV]() 1, [PRON]() 1), <em>was</em> ([AUX]() 1230, [VERB]() 118), <em>be</em> ([AUX]() 1149, [VERB]() 75, [NOUN]() 2, [X]() 1), <em>are</em> ([AUX]() 1081, [VERB]() 154), <em>will</em> ([AUX]() 898, [NOUN]() 4, [SCONJ]() 1, [PROPN]() 1), <em>can</em> ([AUX]() 657, [NOUN]() 5), <em>have</em> ([VERB]() 844, [AUX]() 647), <em>do</em> ([AUX]() 516, [VERB]() 309, [NOUN]() 2, [ADP]() 1, [PROPN]() 1), <em>has</em> ([AUX]() 398, [VERB]() 186), <em>were</em> ([AUX]() 390, [VERB]() 43, [ADV]() 5)
+The 10 most frequent ambiguous types:  <em>is</em> ([AUX]() 2127, [VERB]() 346, [ADV]() 1, [PRON]() 1), <em>was</em> ([AUX]() 1230, [VERB]() 118), <em>be</em> ([AUX]() 1149, [VERB]() 75, [NOUN]() 2, [X]() 1), <em>are</em> ([AUX]() 1081, [VERB]() 154), <em>will</em> ([AUX]() 898, [NOUN]() 4, [PROPN]() 1, [SCONJ]() 1), <em>can</em> ([AUX]() 657, [NOUN]() 5), <em>have</em> ([VERB]() 844, [AUX]() 647), <em>do</em> ([AUX]() 516, [VERB]() 309, [NOUN]() 2, [PROPN]() 1, [ADP]() 1), <em>has</em> ([AUX]() 398, [VERB]() 186), <em>were</em> ([AUX]() 390, [VERB]() 43, [ADV]() 5)
 
 
 * <em>is</em>
@@ -35,8 +35,8 @@ The 10 most frequent ambiguous types:  <em>is</em> ([AUX]() 2127, [VERB]() 346, 
 * <em>will</em>
   * [AUX]() 898: <em>the following weekend i <b>will</b> be ready to rock .</em>
   * [NOUN]() 4: <em>Enron continues to feel free to move me around at <b>will</b> .</em>
-  * [SCONJ]() 1: <em>He also hurt my toes <b>will</b> pushing my cuticles back .</em>
   * [PROPN]() 1: <em>He also told me that he worked on the cast of <b>will</b> and grace and that they were all jerks .</em>
+  * [SCONJ]() 1: <em>He also hurt my toes <b>will</b> pushing my cuticles back .</em>
 * <em>can</em>
   * [AUX]() 657: <em>Now , people wonder if Google <b>can</b> even survive .</em>
   * [NOUN]() 5: <em>my Tom cat will not eat meat just the juice in the <b>can</b> .?</em>
@@ -47,8 +47,8 @@ The 10 most frequent ambiguous types:  <em>is</em> ([AUX]() 2127, [VERB]() 346, 
   * [AUX]() 516: <em>And what <b>do</b> we get for this effort ?</em>
   * [VERB]() 309: <em>My life is too complicated right now trying to <b>do</b> my job .</em>
   * [NOUN]() 2: <em>We arrived Sunday at about 230 and found a <b>do</b> we really liked .</em>
-  * [ADP]() 1: <em>Unfortunately , <b>do</b> to Mr. Lay 's schedule he will not be able to participate .</em>
   * [PROPN]() 1: <em>The nearest towns to the site are Puerto Iguazu in Argentina , about 12 miles from the falls , and Foz <b>do</b> Iguaçu in Brazil , which is equally close .</em>
+  * [ADP]() 1: <em>Unfortunately , <b>do</b> to Mr. Lay 's schedule he will not be able to participate .</em>
 * <em>has</em>
   * [AUX]() 398: <em>It is true that Google <b>has</b> been in acquisition mode .</em>
   * [VERB]() 186: <em>It is rumored that North Korea <b>has</b> at least a couple nuclear weapons .</em>

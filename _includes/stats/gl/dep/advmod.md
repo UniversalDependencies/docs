@@ -6,12 +6,12 @@
 
 This relation is universal.
 
-988 nodes (1%) are attached to their parents as `advmod`.
+1084 nodes (1%) are attached to their parents as `advmod`.
 
-725 instances of `advmod` (73%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.74392712550607.
+841 instances of `advmod` (78%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.40221402214022.
 
-The following 17 pairs of parts of speech are connected with `advmod`: [gl-pos/VERB]()-[gl-pos/PART]() (412; 42% instances), [gl-pos/ADP]()-[gl-pos/ADV]() (200; 20% instances), [gl-pos/NOUN]()-[gl-pos/ADV]() (115; 12% instances), [gl-pos/VERB]()-[gl-pos/ADV]() (70; 7% instances), [gl-pos/SCONJ]()-[gl-pos/ADV]() (48; 5% instances), [gl-pos/ADJ]()-[gl-pos/ADV]() (38; 4% instances), [gl-pos/ADV]()-[gl-pos/ADV]() (35; 4% instances), [gl-pos/NUM]()-[gl-pos/ADV]() (28; 3% instances), [gl-pos/DET]()-[gl-pos/ADV]() (14; 1% instances), [gl-pos/ADP]()-[gl-pos/DET]() (11; 1% instances), [gl-pos/NOUN]()-[gl-pos/PART]() (7; 1% instances), [gl-pos/PRON]()-[gl-pos/ADV]() (4; 0% instances), [gl-pos/PROPN]()-[gl-pos/ADV]() (2; 0% instances), [gl-pos/ADP]()-[gl-pos/NOUN]() (1; 0% instances), [gl-pos/ADP]()-[gl-pos/PART]() (1; 0% instances), [gl-pos/PUNCT]()-[gl-pos/ADV]() (1; 0% instances), [gl-pos/SCONJ]()-[gl-pos/DET]() (1; 0% instances).
+The following 24 pairs of parts of speech are connected with `advmod`: [gl-pos/VERB]()-[gl-pos/PART]() (349; 32% instances), [gl-pos/NOUN]()-[gl-pos/ADV]() (217; 20% instances), [gl-pos/ADJ]()-[gl-pos/PART]() (105; 10% instances), [gl-pos/VERB]()-[gl-pos/ADV]() (98; 9% instances), [gl-pos/ADJ]()-[gl-pos/ADV]() (63; 6% instances), [gl-pos/NOUN]()-[gl-pos/PART]() (48; 4% instances), [gl-pos/SCONJ]()-[gl-pos/ADV]() (48; 4% instances), [gl-pos/ADV]()-[gl-pos/ADV]() (38; 4% instances), [gl-pos/NUM]()-[gl-pos/ADV]() (34; 3% instances), [gl-pos/ADP]()-[gl-pos/ADV]() (27; 2% instances), [gl-pos/DET]()-[gl-pos/ADV]() (17; 2% instances), [gl-pos/ADP]()-[gl-pos/PART]() (9; 1% instances), [gl-pos/PRON]()-[gl-pos/ADV]() (7; 1% instances), [gl-pos/PROPN]()-[gl-pos/ADV]() (5; 0% instances), [gl-pos/NOUN]()-[gl-pos/DET]() (4; 0% instances), [gl-pos/VERB]()-[gl-pos/DET]() (4; 0% instances), [gl-pos/ADJ]()-[gl-pos/DET]() (2; 0% instances), [gl-pos/ADV]()-[gl-pos/PART]() (2; 0% instances), [gl-pos/PRON]()-[gl-pos/PART]() (2; 0% instances), [gl-pos/ADP]()-[gl-pos/DET]() (1; 0% instances), [gl-pos/CCONJ]()-[gl-pos/ADV]() (1; 0% instances), [gl-pos/CCONJ]()-[gl-pos/PART]() (1; 0% instances), [gl-pos/NOUN]()-[gl-pos/NOUN]() (1; 0% instances), [gl-pos/SCONJ]()-[gl-pos/DET]() (1; 0% instances).
 
 
 ~~~ conllu
@@ -21,25 +21,25 @@ The following 17 pairs of parts of speech are connected with `advmod`: [gl-pos/V
 # visual-style 12	fgColor:white
 # visual-style 12 11 advmod	color:blue
 1	A	o	DET	DA0FS0	_	2	det	_	Treeler:spec
-2	diferenza	diferenza	NOUN	NCFS000	_	13	nsubj	_	Treeler:suj
+2	diferenza	diferenza	NOUN	NCFS000	_	15	nsubj	_	Treeler:suj
 3	máis	máis	ADV	RG	_	4	det	_	Treeler:spec
 4	inmediata	inmediato	ADJ	AQ0FS0	_	2	amod	_	Treeler:s.a
-5	entre	entre	ADP	SPS00	_	2	case	_	Treeler:sp
+5	entre	entre	ADP	SPS00	_	7	case	_	Treeler:sp
 6	a	o	DET	DA0FS0	_	7	det	_	Treeler:spec
-7	varicela	varicela	NOUN	NCFS000	_	5	nmod	_	Treeler:sn
-8	en	en	ADP	SPS00	_	7	case	_	Treeler:sp
-9	vacinados	vacinar	VERB	VMP00PM	_	8	ccomp	_	Treeler:S
-10	e	e	CONJ	CC	_	9	cc	_	Treeler:coord
+7	varicela	varicela	NOUN	NCFS000	_	2	nmod	_	Treeler:sn
+8	en	en	ADP	SPS00	_	9	case	_	Treeler:sp
+9	vacinados	vacinar	VERB	VMP00PM	_	7	ccomp	_	Treeler:S
+10	e	e	CCONJ	CC	_	9	cc	_	ToDo=cc-without-conj|Treeler:coord
 11	non	non	PART	RN	_	12	advmod	_	Treeler:mod
 12	vacinados	vacinar	VERB	VMP00PM	_	9	ccomp	_	Treeler:S
-13	é	ser	VERB	VSIP3S0	_	0	root	_	Treeler:sentence
+13	é	ser	AUX	VSIP3S0	_	15	cop	_	Treeler:sentence
 14	o	o	DET	DA0MS0	_	15	det	_	Treeler:spec
-15	número	número	NOUN	NCMS000	_	13	cop	_	Treeler:atr
-16	de	de	ADP	SPS00	_	15	case	_	Treeler:sp
-17	lesións	lesión	NOUN	NCFP000	_	16	nmod	_	Treeler:sn
-18	que	que	PRON	PR0CN000	_	19	dobj	_	Treeler:cd
-19	provocan	provocar	VERB	VMIP3P0	_	17	ccomp	_	Treeler:S
-20	.	.	PUNCT	Fp	_	13	punct	_	Treeler:f
+15	número	número	NOUN	NCMS000	_	0	root	_	Treeler:atr
+16	de	de	ADP	SPS00	_	17	case	_	Treeler:sp
+17	lesións	lesión	NOUN	NCFP000	_	15	nmod	_	ToDo=nmod|Treeler:sn
+18	que	que	PRON	PR0CN000	_	19	obj	_	Treeler:cd
+19	provocan	provocar	VERB	VMIP3P0	_	17	ccomp	_	SpaceAfter=No|Treeler:S
+20	.	.	PUNCT	Fp	_	15	punct	_	Treeler:f
 
 ~~~
 
@@ -47,74 +47,66 @@ The following 17 pairs of parts of speech are connected with `advmod`: [gl-pos/V
 ~~~ conllu
 # visual-style 22	bgColor:blue
 # visual-style 22	fgColor:white
-# visual-style 21	bgColor:blue
-# visual-style 21	fgColor:white
-# visual-style 21 22 advmod	color:blue
+# visual-style 20	bgColor:blue
+# visual-style 20	fgColor:white
+# visual-style 20 22 advmod	color:blue
 1	A	o	DET	DA0FS0	_	2	det	_	Treeler:spec
 2	formación	formación	NOUN	NCFS000	_	7	nsubj	_	Treeler:suj
 3	bruta	bruto	ADJ	AQ0FS0	_	2	amod	_	Treeler:s.a
-4	de	de	ADP	SPS00	_	2	case	_	Treeler:sp
-5	capital	capital	NOUN	NCFS000	_	4	nmod	_	Treeler:sn
+4	de	de	ADP	SPS00	_	5	case	_	Treeler:sp
+5	capital	capital	NOUN	NCFS000	_	2	nmod	_	Treeler:sn
 6	fixo	fixo	ADJ	AQ0MS0	_	5	amod	_	Treeler:s.a
 7	rexistrou	rexistrar	VERB	VMIS3S0	_	0	root	_	Treeler:sentence
 8	un	un	DET	DI0MS0	_	9	det	_	Treeler:spec
-9	incremento	incremento	NOUN	NCMS000	_	7	dobj	_	Treeler:cd
-10	de	de	ADP	SPS00	_	9	case	_	Treeler:sp
+9	incremento	incremento	NOUN	NCMS000	_	7	obj	_	Treeler:cd
+10	de	de	ADP	SPS00	_	12	case	_	Treeler:sp
 11	o	o	DET	DA0MS0	_	12	det	_	Treeler:spec
-12	7,2	7,2	NUM	Z	_	10	nmod	_	Treeler:sn
+12	7,2	7,2	NUM	Z	_	9	nmod	_	Treeler:sn
 13	%	%	SYM	Ft	_	12	nmod	_	Treeler:sn
-14	en	en	ADP	SPS00	_	7	case	_	Treeler:cc
-15	2005	2005	NUM	Z	_	14	nmod	_	Treeler:sn
-16	,	,	PUNCT	Fc	_	18	punct	_	Treeler:f
-17	máis	máis	ADV	RG	_	18	advmod	_	Treeler:sadv
-18	de	de	ADP	SPS00	_	15	case	_	Treeler:sp
-19	dous	dous	NOUN	NCMP000	_	18	nmod	_	Treeler:sn
+14	en	en	ADP	SPS00	_	15	case	_	Treeler:cc
+15	2005	2005	NUM	Z	_	7	obl	_	SpaceAfter=No|Treeler:sn
+16	,	,	PUNCT	Fc	_	19	punct	_	Treeler:f
+17	máis	máis	ADV	RG	_	19	advmod	_	Treeler:sadv
+18	de	de	ADP	SPS00	_	19	case	_	Treeler:sp
+19	dous	dous	NOUN	NCMP000	_	15	nmod	_	Treeler:sn
 20	puntos	punto	NOUN	NCMP000	_	19	amod	_	Treeler:s.a
-21	por	por	ADP	SPS00	_	20	case	_	Treeler:sp
-22	riba	riba	ADV	RG	_	21	advmod	_	Treeler:sadv
-23	de	de	ADP	SPS00	_	20	case	_	Treeler:sp
+21	por	por	ADP	SPS00	_	22	case	_	Treeler:sp
+22	riba	riba	ADV	RG	_	20	advmod	_	Treeler:sadv
+23	de	de	ADP	SPS00	_	25	case	_	Treeler:sp
 24	o	o	DET	DA0MS0	_	25	det	_	Treeler:spec
-25	experimentado	experimentar	VERB	VMP00SM	_	23	nmod	_	Treeler:sn
-26	en	en	ADP	SPS00	_	25	case	_	Treeler:cc
+25	experimentado	experimentar	VERB	VMP00SM	_	20	nmod	_	Treeler:sn
+26	en	en	ADP	SPS00	_	28	case	_	Treeler:cc
 27	o	o	DET	DA0MS0	_	28	det	_	Treeler:spec
-28	ano	ano	NOUN	NCMS000	_	26	nmod	_	Treeler:sn
-29	anterior	anterior	ADJ	AQ0CS0	_	28	amod	_	Treeler:s.a
+28	ano	ano	NOUN	NCMS000	_	25	obl	_	Treeler:sn
+29	anterior	anterior	ADJ	AQ0CS0	_	28	amod	_	SpaceAfter=No|Treeler:s.a
 30	.	.	PUNCT	Fp	_	7	punct	_	Treeler:f
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 2 advmod	color:blue
-1	Ou	ou	CONJ	CC	_	18	cc	_	Treeler:et
-2	acaso	acaso	ADV	RG	_	5	advmod	_	Treeler:sadv
-3	os	o	DET	DA0MP0	_	5	det	_	Treeler:spec
-4	múltiples	múltiple	ADJ	AQ0CP0	_	5	amod	_	Treeler:s.a
-5	fracasos	fracaso	NOUN	NCMP000	_	18	nsubj	_	Treeler:suj
-6	de	de	ADP	SPS00	_	5	case	_	Treeler:sp
-7	os	o	DET	DA0MP0	_	8	det	_	Treeler:spec
-8	plans	plan	NOUN	NCMP000	_	6	nmod	_	Treeler:sn
-9	de	de	ADP	SPS00	_	8	case	_	Treeler:sp
-10	paz	paz	NOUN	NCFS000	_	9	nmod	_	Treeler:sn
-11	,	,	PUNCT	Fc	_	12	punct	_	Treeler:f
-12	dende	dende	ADP	SPS00	_	8	case	_	Treeler:sp
-13	Camp	camp	PROPN	NP00000	_	12	nmod	_	Treeler:sn
-14	David	david	PROPN	NP00000	_	13	nmod	_	Treeler:sn
-15	a	o	DET	DA0FS0	_	16	det	_	Treeler:spec
-16	Oslo	oslo	NOUN	NCMS000	_	14	nmod	_	Treeler:sn
-17	,	,	PUNCT	Fc	_	12	punct	_	Treeler:f
-18	foron	ser	VERB	VSIS3P0	_	0	root	_	Treeler:sentence
-19	responsabilidade	responsabilidade	NOUN	NCFS000	_	18	cop	_	Treeler:atr
-20	exclusiva	exclusiva	NOUN	NCFS000	_	19	amod	_	Treeler:s.a
-21	de	de	ADP	SPS00	_	20	case	_	Treeler:sp
-22	os	o	DET	DA0MP0	_	23	det	_	Treeler:spec
-23	gobernos	goberno	NOUN	NCMP000	_	21	nmod	_	Treeler:sn
-24	israelís	israelí	ADJ	AQ0CP0	_	23	amod	_	Treeler:s.a
-25	?	?	PUNCT	Fit	_	18	punct	_	Treeler:f
+# visual-style 13	bgColor:blue
+# visual-style 13	fgColor:white
+# visual-style 16	bgColor:blue
+# visual-style 16	fgColor:white
+# visual-style 16 13 advmod	color:blue
+1	Teñen	ter	VERB	VMIP3P0	_	0	root	_	Treeler:sentence
+2	moitas	moito	DET	DI0FP0	_	3	det	_	Treeler:spec
+3	razóns	razón	NOUN	NCFP000	_	1	nsubj	_	Treeler:suj
+4	históricas	histórico	ADJ	AQ0FP0	_	3	amod	_	Treeler:s.a
+5	en	en	ADP	SPS00	_	6	case	_	Treeler:cc
+6	común	común	ADJ	AQ0CS0	_	1	amod	_	SpaceAfter=No|Treeler:s.a
+7	,	,	PUNCT	Fc	_	1	punct	_	Treeler:f
+8	pero	pero	CCONJ	CC	_	1	cc	_	ToDo=cc-without-conj|Treeler:coord
+9	os	o	DET	DA0MP0	_	10	det	_	Treeler:spec
+10	espazos	espazo	NOUN	NCMP000	_	16	nsubj	_	Treeler:suj
+11	de	de	ADP	SPS00	_	12	case	_	Treeler:sp
+12	actuación	actuación	NOUN	NCFS000	_	10	nmod	_	Treeler:sn
+13	non	non	PART	RN	_	16	advmod	_	Treeler:mod
+14	son	ser	AUX	VSIP1S0	_	16	cop	_	Treeler:S
+15	necesariamente	necesariamente	ADV	RG	_	16	det	_	Treeler:spec
+16	unívocos	unívoco	ADJ	AQ0MP0	_	1	ccomp	_	SpaceAfter=No|Treeler:atr
+17	.	.	PUNCT	Fp	_	1	punct	_	Treeler:f
 
 ~~~
 

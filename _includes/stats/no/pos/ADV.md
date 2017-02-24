@@ -108,7 +108,7 @@ The 10 most frequent `ADV` lemmas: <em>ikkje, så, også, no, her, berre, slik, 
 
 The 10 most frequent `ADV` types:  <em>ikkje, så, også, no, her, berre, slik, då, nok, òg</em>
 
-The 10 most frequent ambiguous lemmas: <em>så</em> ([ADV]() 733, [CCONJ]() 109, [SCONJ]() 9, [VERB]() 4, [X]() 1, [ADJ]() 1), <em>her</em> ([ADV]() 412, [NOUN]() 1), <em>berre</em> ([ADV]() 384, [SCONJ]() 1), <em>slik</em> ([ADV]() 334, [DET]() 219), <em>då</em> ([ADV]() 263, [SCONJ]() 243), <em>nok</em> ([ADV]() 245, [X]() 1), <em>der</em> ([SCONJ]() 299, [ADV]() 184, [X]() 3), <em>sjølv</em> ([ADV]() 178, [DET]() 132, [NOUN]() 1), <em>kor</em> ([ADV]() 154, [NOUN]() 2), <em>for</em> ([ADP]() 3368, [ADV]() 146, [CCONJ]() 92, [X]() 16)
+The 10 most frequent ambiguous lemmas: <em>så</em> ([ADV]() 733, [CCONJ]() 109, [SCONJ]() 9, [VERB]() 4, [ADJ]() 1, [X]() 1), <em>her</em> ([ADV]() 412, [NOUN]() 1), <em>berre</em> ([ADV]() 384, [SCONJ]() 1), <em>slik</em> ([ADV]() 334, [DET]() 219), <em>då</em> ([ADV]() 263, [SCONJ]() 243), <em>nok</em> ([ADV]() 245, [X]() 1), <em>der</em> ([SCONJ]() 299, [ADV]() 184, [X]() 3), <em>sjølv</em> ([ADV]() 178, [DET]() 132, [NOUN]() 1), <em>kor</em> ([ADV]() 154, [NOUN]() 2), <em>for</em> ([ADP]() 3368, [ADV]() 146, [CCONJ]() 92, [X]() 16)
 
 The 10 most frequent ambiguous types:  <em>så</em> ([ADV]() 650, [CCONJ]() 63, [SCONJ]() 9, [VERB]() 5, [X]() 1), <em>her</em> ([ADV]() 283, [NOUN]() 1), <em>berre</em> ([ADV]() 358, [SCONJ]() 1), <em>slik</em> ([ADV]() 272, [DET]() 79), <em>då</em> ([SCONJ]() 186, [ADV]() 162), <em>nok</em> ([ADV]() 242, [X]() 1), <em>òg</em> ([ADV]() 204, [CCONJ]() 2), <em>der</em> ([SCONJ]() 292, [ADV]() 140, [X]() 3), <em>sjølv</em> ([DET]() 130, [ADV]() 124), <em>heller</em> ([ADV]() 138, [VERB]() 1)
 

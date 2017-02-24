@@ -16,7 +16,7 @@ The feature is used with 2 part-of-speech tags: [uk-pos/DET]() (49; 0% instances
 
 49 [uk-pos/DET]() tokens (9% of all `DET` tokens) have a non-empty value of `Reflex`.
 
-The most frequent other feature values with which `DET` and `Reflex` co-occurred: <tt><a href="Person.html">Person</a>=EMPTY</tt> (49; 100%), <tt><a href="PronType.html">PronType</a>=Prs</tt> (49; 100%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (37; 76%), <tt><a href="Poss.html">Poss</a>=Yes</tt> (37; 76%), <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (36; 73%).
+The most frequent other feature values with which `DET` and `Reflex` co-occurred: <tt><a href="PronType.html">PronType</a>=Prs</tt> (49; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (49; 100%), <tt><a href="Poss.html">Poss</a>=Yes</tt> (37; 76%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (37; 76%), <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (36; 73%).
 
 `DET` tokens may have the following values of `Reflex`:
 
@@ -27,7 +27,7 @@ The most frequent other feature values with which `DET` and `Reflex` co-occurred
 
 27 [uk-pos/PRON]() tokens (4% of all `PRON` tokens) have a non-empty value of `Reflex`.
 
-The most frequent other feature values with which `PRON` and `Reflex` co-occurred: <tt><a href="PronType.html">PronType</a>=Prs</tt> (27; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (27; 100%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (27; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (26; 96%), <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (26; 96%), <tt><a href="Case.html">Case</a>=Dat</tt> (15; 56%).
+The most frequent other feature values with which `PRON` and `Reflex` co-occurred: <tt><a href="Person.html">Person</a>=EMPTY</tt> (27; 100%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (27; 100%), <tt><a href="PronType.html">PronType</a>=Prs</tt> (27; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (26; 96%), <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (26; 96%), <tt><a href="Case.html">Case</a>=Dat</tt> (15; 56%).
 
 `PRON` tokens may have the following values of `Reflex`:
 

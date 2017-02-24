@@ -29,7 +29,7 @@ The most frequent other feature values with which `ADJ` and `Definite` co-occurr
   <tr><td><tt><a href="Animacy.html">Animacy</a>=Inan|<a href="Case.html">Case</a>=Acc|<a href="Degree.html">Degree</a>=Pos|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Sing</tt></td><td><em>velik, veći</em></td><td><em>veliki</em></td></tr>
   <tr><td><tt><a href="Animacy.html">Animacy</a>=Inan|<a href="Case.html">Case</a>=Acc|<a href="Degree.html">Degree</a>=Cmp|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Sing</tt></td><td></td><td><em>veći</em></td></tr>
   <tr><td><tt><a href="Animacy.html">Animacy</a>=Inan|<a href="Case.html">Case</a>=Acc|<a href="Degree.html">Degree</a>=Sup|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Sing</tt></td><td></td><td><em>najveći</em></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Degree.html">Degree</a>=Pos|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Sing</tt></td><td><em>velik, veliki</em></td><td></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Degree.html">Degree</a>=Pos|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Sing</tt></td><td><em>veliki, velik</em></td><td></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Degree.html">Degree</a>=Pos|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Plur</tt></td><td></td><td><em>velike</em></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Degree.html">Degree</a>=Pos|<a href="Gender.html">Gender</a>=Fem|<a href="Number.html">Number</a>=Sing</tt></td><td></td><td><em>veliku</em></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Degree.html">Degree</a>=Pos|<a href="Gender.html">Gender</a>=Fem|<a href="Number.html">Number</a>=Plur</tt></td><td></td><td><em>velike</em></td></tr>
@@ -99,7 +99,7 @@ The most frequent other feature values with which `ADJ` and `Definite` co-occurr
 
 254 [hr-pos/DET]() tokens (4% of all `DET` tokens) have a non-empty value of `Definite`.
 
-The most frequent other feature values with which `DET` and `Definite` co-occurred: <tt><a href="Number[psor].html">Number[psor]</a>=EMPTY</tt> (254; 100%), <tt><a href="Poss.html">Poss</a>=EMPTY</tt> (254; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (254; 100%), <tt><a href="PronType.html">PronType</a>=Tot</tt> (253; 100%), <tt><a href="Number.html">Number</a>=Plur</tt> (234; 92%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (156; 61%).
+The most frequent other feature values with which `DET` and `Definite` co-occurred: <tt><a href="Poss.html">Poss</a>=EMPTY</tt> (254; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (254; 100%), <tt><a href="Number[psor].html">Number[psor]</a>=EMPTY</tt> (254; 100%), <tt><a href="PronType.html">PronType</a>=Tot</tt> (253; 100%), <tt><a href="Number.html">Number</a>=Plur</tt> (234; 92%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (156; 61%).
 
 `DET` tokens may have the following values of `Definite`:
 
@@ -113,7 +113,7 @@ The most frequent other feature values with which `DET` and `Definite` co-occurr
   <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Plur</tt></td><td></td><td><em>sve</em></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Gender.html">Gender</a>=Fem|<a href="Number.html">Number</a>=Sing</tt></td><td></td><td><em>svu</em></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Gender.html">Gender</a>=Fem|<a href="Number.html">Number</a>=Plur</tt></td><td></td><td><em>sve</em></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Gender.html">Gender</a>=Neut|<a href="Number.html">Number</a>=Sing</tt></td><td></td><td><em>sve, svo</em></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Gender.html">Gender</a>=Neut|<a href="Number.html">Number</a>=Sing</tt></td><td></td><td><em>svo, sve</em></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Gender.html">Gender</a>=Neut|<a href="Number.html">Number</a>=Plur</tt></td><td></td><td><em>sva</em></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Dat|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Plur</tt></td><td></td><td><em>svim, svima</em></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Dat|<a href="Gender.html">Gender</a>=Fem|<a href="Number.html">Number</a>=Sing</tt></td><td></td><td><em>svoj</em></td></tr>
@@ -154,8 +154,8 @@ The 10 most frequent relations where parent and child node agree in `Definite`:
 <tt>ADJ --[<a href="../dep/advcl.html">advcl</a>]--> ADJ</tt> (24; 77%),
 <tt>ADJ --[<a href="../dep/amod.html">amod</a>]--> ADJ</tt> (19; 56%),
 <tt>ADJ --[<a href="../dep/parataxis.html">parataxis</a>]--> ADJ</tt> (12; 71%),
-<tt>ADJ --[<a href="../dep/acl.html">acl</a>]--> ADJ</tt> (7; 100%),
 <tt>ADJ --[<a href="../dep/advmod.html">advmod</a>]--> ADJ</tt> (7; 70%),
+<tt>ADJ --[<a href="../dep/acl.html">acl</a>]--> ADJ</tt> (7; 100%),
 <tt>ADJ --[<a href="../dep/amod.html">amod</a>]--> DET</tt> (5; 83%),
 <tt>ADJ --[<a href="../dep/nsubj.html">nsubj</a>]--> ADJ</tt> (5; 83%),
 <tt>ADJ --[<a href="../dep/csubj.html">csubj</a>]--> ADJ</tt> (4; 80%),

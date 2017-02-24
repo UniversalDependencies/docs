@@ -11,9 +11,9 @@ The 10 most frequent `DET` lemmas: <em>the, a, this, all, some, any, no, that, t
 
 The 10 most frequent `DET` types:  <em>the, a, this, an, all, some, any, no, that, these</em>
 
-The 10 most frequent ambiguous lemmas: <em>the</em> ([DET]() 10044, [PRON]() 9, [ADV]() 2, [ADP]() 1), <em>a</em> ([DET]() 4781, [NOUN]() 19, [X]() 13, [ADV]() 5, [ADP]() 4, [CCONJ]() 1, [PART]() 1, [AUX]() 1), <em>this</em> ([DET]() 814, [PRON]() 468, [ADV]() 5, [NOUN]() 1), <em>all</em> ([DET]() 483, [ADV]() 110, [NOUN]() 3, [X]() 2, [PUNCT]() 1), <em>some</em> ([DET]() 388, [ADV]() 2, [X]() 1), <em>any</em> ([DET]() 358, [ADV]() 8, [X]() 3), <em>no</em> ([DET]() 281, [INTJ]() 48, [ADV]() 31, [X]() 1, [NOUN]() 1), <em>that</em> ([SCONJ]() 1079, [PRON]() 912, [DET]() 201, [ADV]() 41, [ADP]() 4), <em>these</em> ([DET]() 182, [PRON]() 34), <em>another</em> ([DET]() 139, [ADJ]() 1, [NOUN]() 1)
+The 10 most frequent ambiguous lemmas: <em>the</em> ([DET]() 10044, [PRON]() 9, [ADV]() 2, [ADP]() 1), <em>a</em> ([DET]() 4781, [NOUN]() 19, [X]() 13, [ADV]() 5, [ADP]() 4, [PART]() 1, [CCONJ]() 1, [AUX]() 1), <em>this</em> ([DET]() 814, [PRON]() 468, [ADV]() 5, [NOUN]() 1), <em>all</em> ([DET]() 483, [ADV]() 110, [NOUN]() 3, [X]() 2, [PUNCT]() 1), <em>some</em> ([DET]() 388, [ADV]() 2, [X]() 1), <em>any</em> ([DET]() 358, [ADV]() 8, [X]() 3), <em>no</em> ([DET]() 281, [INTJ]() 48, [ADV]() 31, [NOUN]() 1, [X]() 1), <em>that</em> ([SCONJ]() 1079, [PRON]() 912, [DET]() 201, [ADV]() 41, [ADP]() 4), <em>these</em> ([DET]() 182, [PRON]() 34), <em>another</em> ([DET]() 139, [NOUN]() 1, [ADJ]() 1)
 
-The 10 most frequent ambiguous types:  <em>the</em> ([DET]() 9000, [PRON]() 7, [ADV]() 2, [PART]() 1, [ADP]() 1), <em>a</em> ([DET]() 4063, [X]() 7, [ADV]() 5, [NOUN]() 5, [ADP]() 4, [AUX]() 1, [PART]() 1, [CCONJ]() 1), <em>this</em> ([DET]() 687, [PRON]() 339, [ADV]() 5, [NOUN]() 1), <em>an</em> ([DET]() 524, [CCONJ]() 3, [NOUN]() 2), <em>all</em> ([DET]() 431, [ADV]() 107, [NOUN]() 3, [X]() 2), <em>some</em> ([DET]() 358, [ADV]() 2, [X]() 1), <em>any</em> ([DET]() 323, [ADV]() 8, [X]() 3), <em>no</em> ([DET]() 229, [INTJ]() 33, [ADV]() 25, [VERB]() 2, [NOUN]() 1, [X]() 1), <em>that</em> ([SCONJ]() 1072, [PRON]() 841, [DET]() 183, [ADV]() 40, [ADP]() 4), <em>these</em> ([DET]() 157, [PRON]() 17)
+The 10 most frequent ambiguous types:  <em>the</em> ([DET]() 9000, [PRON]() 7, [ADV]() 2, [PART]() 1, [ADP]() 1), <em>a</em> ([DET]() 4063, [X]() 7, [ADV]() 5, [NOUN]() 5, [ADP]() 4, [CCONJ]() 1, [AUX]() 1, [PART]() 1), <em>this</em> ([DET]() 687, [PRON]() 339, [ADV]() 5, [NOUN]() 1), <em>an</em> ([DET]() 524, [CCONJ]() 3, [NOUN]() 2), <em>all</em> ([DET]() 431, [ADV]() 107, [NOUN]() 3, [X]() 2), <em>some</em> ([DET]() 358, [ADV]() 2, [X]() 1), <em>any</em> ([DET]() 323, [ADV]() 8, [X]() 3), <em>no</em> ([DET]() 229, [INTJ]() 33, [ADV]() 25, [VERB]() 2, [NOUN]() 1, [X]() 1), <em>that</em> ([SCONJ]() 1072, [PRON]() 841, [DET]() 183, [ADV]() 40, [ADP]() 4), <em>these</em> ([DET]() 157, [PRON]() 17)
 
 
 * <em>the</em>
@@ -28,9 +28,9 @@ The 10 most frequent ambiguous types:  <em>the</em> ([DET]() 9000, [PRON]() 7, [
   * [ADV]() 5: <em>Also , any tour recommendations would be very helpful <b>a</b> well .</em>
   * [NOUN]() 5: <em>Top range of bike , cheap prices , excellent <b>a</b> +++</em>
   * [ADP]() 4: <em>Big deal kind <b>a</b> stuff .</em>
+  * [CCONJ]() 1: <em>But word of advice if you 're get your girlfriend a laptop make sure it s a good brand <b>a</b> not something like DELL , Acer , Asus , eMachines etc .</em>
   * [AUX]() 1: <em>yea i guess but rabbits <b>a</b> easily escape a pen or another rabbit could get in there and that rabbit could be the opposite gender .</em>
   * [PART]() 1: <em>I feel X - BOX is a very smooth system i own it like 3 years , it s very compatible to previous versions and mostly important i was very comfortable with the User Interface and the JOYSTICK .... coz you do nt wan <b>a</b> hold a joystick that gives you discomfort .</em>
-  * [CCONJ]() 1: <em>But word of advice if you 're get your girlfriend a laptop make sure it s a good brand <b>a</b> not something like DELL , Acer , Asus , eMachines etc .</em>
 * <em>this</em>
   * [DET]() 687: <em>From the AP comes <b>this</b> story :</em>
   * [PRON]() 339: <em>He announced <b>this</b> in January :</em>
@@ -190,7 +190,7 @@ The 10 most frequent `DET` types:  <em>the, a, an, this, that, no, all, some, an
 
 The 10 most frequent ambiguous lemmas: <em>_</em> ([NOUN]() 12161, [PUNCT]() 8085, [VERB]() 8020, [ADP]() 6788, [DET]() 6429, [PRON]() 6303, [ADJ]() 4270, [ADV]() 3700, [AUX]() 3539, [PROPN]() 2257, [CCONJ]() 2081, [PART]() 1703, [SCONJ]() 1231, [NUM]() 462, [INTJ]() 122, [X]() 41, [SYM]() 5)
 
-The 10 most frequent ambiguous types:  <em>the</em> ([DET]() 3471, [ADV]() 1), <em>a</em> ([DET]() 1562, [ADV]() 4, [PRON]() 1), <em>this</em> ([DET]() 130, [PRON]() 65), <em>that</em> ([SCONJ]() 505, [DET]() 99, [PRON]() 88), <em>no</em> ([DET]() 82, [ADV]() 19, [PRON]() 7, [INTJ]() 7), <em>all</em> ([DET]() 79, [PRON]() 75, [ADV]() 35, [ADP]() 1), <em>some</em> ([DET]() 62, [PRON]() 13, [ADV]() 3), <em>any</em> ([DET]() 59, [PRON]() 5, [ADV]() 4), <em>these</em> ([DET]() 45, [PRON]() 4), <em>each</em> ([DET]() 26, [PRON]() 19)
+The 10 most frequent ambiguous types:  <em>the</em> ([DET]() 3471, [ADV]() 1), <em>a</em> ([DET]() 1562, [ADV]() 4, [PRON]() 1), <em>this</em> ([DET]() 130, [PRON]() 65), <em>that</em> ([SCONJ]() 505, [DET]() 99, [PRON]() 88), <em>no</em> ([DET]() 82, [ADV]() 19, [INTJ]() 7, [PRON]() 7), <em>all</em> ([DET]() 79, [PRON]() 75, [ADV]() 35, [ADP]() 1), <em>some</em> ([DET]() 62, [PRON]() 13, [ADV]() 3), <em>any</em> ([DET]() 59, [PRON]() 5, [ADV]() 4), <em>these</em> ([DET]() 45, [PRON]() 4), <em>each</em> ([DET]() 26, [PRON]() 19)
 
 
 * <em>the</em>
@@ -210,8 +210,8 @@ The 10 most frequent ambiguous types:  <em>the</em> ([DET]() 3471, [ADV]() 1), <
 * <em>no</em>
   * [DET]() 82: <em>Anyway , it 's <b>no</b> big deal . It 's just a book .</em>
   * [ADV]() 19: <em>Surely <b>no</b> more than a minute or two .</em>
-  * [PRON]() 7: <em>If there 's a father of the state , it 's got to be him or <b>no</b> one .</em>
   * [INTJ]() 7: <em>But <b>no</b> , that did not seem possible .</em>
+  * [PRON]() 7: <em>If there 's a father of the state , it 's got to be him or <b>no</b> one .</em>
 * <em>all</em>
   * [DET]() 79: <em>But <b>all</b> these things are in some way external .</em>
   * [PRON]() 75: <em>A mounted escort of some 30 men , <b>all</b> armed .</em>

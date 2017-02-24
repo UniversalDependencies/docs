@@ -87,7 +87,7 @@ The most frequent other feature values with which `ADP` and `Polite` co-occurred
 
 8 [hi-pos/ADJ]() tokens (0% of all `ADJ` tokens) have a non-empty value of `Polite`.
 
-The most frequent other feature values with which `ADJ` and `Polite` co-occurred: <tt><a href="Number.html">Number</a>=Sing</tt> (8; 100%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (8; 100%), <tt><a href="Case.html">Case</a>=Nom</tt> (6; 75%).
+The most frequent other feature values with which `ADJ` and `Polite` co-occurred: <tt><a href="Gender.html">Gender</a>=Masc</tt> (8; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (8; 100%), <tt><a href="Case.html">Case</a>=Nom</tt> (6; 75%).
 
 `ADJ` tokens may have the following values of `Polite`:
 
@@ -97,7 +97,7 @@ The most frequent other feature values with which `ADJ` and `Polite` co-occurred
 
 3 [hi-pos/PROPN]() tokens (0% of all `PROPN` tokens) have a non-empty value of `Polite`.
 
-The most frequent other feature values with which `PROPN` and `Polite` co-occurred: <tt><a href="Number.html">Number</a>=Sing</tt> (3; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (3; 100%), <tt><a href="Person.html">Person</a>=2</tt> (3; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (2; 67%).
+The most frequent other feature values with which `PROPN` and `Polite` co-occurred: <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (3; 100%), <tt><a href="Person.html">Person</a>=2</tt> (3; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (3; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (2; 67%).
 
 `PROPN` tokens may have the following values of `Polite`:
 
@@ -108,7 +108,7 @@ The most frequent other feature values with which `PROPN` and `Polite` co-occurr
 
 2 [hi-pos/NOUN]() tokens (0% of all `NOUN` tokens) have a non-empty value of `Polite`.
 
-The most frequent other feature values with which `NOUN` and `Polite` co-occurred: <tt><a href="Number.html">Number</a>=Sing</tt> (2; 100%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (2; 100%), <tt><a href="Case.html">Case</a>=Nom</tt> (2; 100%), <tt><a href="Person.html">Person</a>=3</tt> (2; 100%).
+The most frequent other feature values with which `NOUN` and `Polite` co-occurred: <tt><a href="Gender.html">Gender</a>=Masc</tt> (2; 100%), <tt><a href="Case.html">Case</a>=Nom</tt> (2; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (2; 100%), <tt><a href="Person.html">Person</a>=3</tt> (2; 100%).
 
 `NOUN` tokens may have the following values of `Polite`:
 
@@ -118,7 +118,7 @@ The most frequent other feature values with which `NOUN` and `Polite` co-occurre
 
 1 [hi-pos/DET]() tokens (0% of all `DET` tokens) have a non-empty value of `Polite`.
 
-The most frequent other feature values with which `DET` and `Polite` co-occurred: <tt><a href="Case.html">Case</a>=Acc</tt> (1; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (1; 100%), <tt><a href="PronType.html">PronType</a>=Dem</tt> (1; 100%), <tt><a href="Person.html">Person</a>=3</tt> (1; 100%).
+The most frequent other feature values with which `DET` and `Polite` co-occurred: <tt><a href="Number.html">Number</a>=Sing</tt> (1; 100%), <tt><a href="Person.html">Person</a>=3</tt> (1; 100%), <tt><a href="Case.html">Case</a>=Acc</tt> (1; 100%), <tt><a href="PronType.html">PronType</a>=Dem</tt> (1; 100%).
 
 `DET` tokens may have the following values of `Polite`:
 
@@ -131,6 +131,6 @@ The 10 most frequent relations where parent and child node agree in `Polite`:
 <tt>AUX --[<a href="../dep/aux:pass.html">aux:pass</a>]--> AUX</tt> (329; 93%),
 <tt>VERB --[<a href="../dep/aux:pass.html">aux:pass</a>]--> AUX</tt> (27; 100%),
 <tt>VERB --[<a href="../dep/mark.html">mark</a>]--> ADP</tt> (13; 100%),
-<tt>AUX --[<a href="../dep/conj.html">conj</a>]--> AUX</tt> (1; 100%),
-<tt>ADJ --[<a href="../dep/punct.html">punct</a>]--> ADJ</tt> (1; 100%).
+<tt>ADJ --[<a href="../dep/punct.html">punct</a>]--> ADJ</tt> (1; 100%),
+<tt>AUX --[<a href="../dep/conj.html">conj</a>]--> AUX</tt> (1; 100%).
 

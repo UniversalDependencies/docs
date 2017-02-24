@@ -13,7 +13,7 @@ The 10 most frequent `PRON` types:  <em>емоу, его, имъ, и, вамъ, 
 
 The 10 most frequent ambiguous lemmas: <em>и</em> ([CCONJ]() 3546, [PRON]() 2443, [ADV]() 198, [VERB]() 1), <em>иже</em> ([PRON]() 560, [DET]() 8, [ADJ]() 1), <em>чьто</em> ([PRON]() 181, [ADJ]() 16, [DET]() 7), <em>себе</em> ([AUX]() 1013, [PRON]() 136), <em>къто</em> ([PRON]() 67, [ADJ]() 43, [DET]() 2), <em>кꙑи</em> ([PRON]() 32, [DET]() 1), <em>дроугъ</em> ([ADJ]() 57, [PRON]() 27, [NOUN]() 24), <em>самъ</em> ([ADJ]() 31, [DET]() 26, [PRON]() 7), <em>каковъ</em> ([ADJ]() 3, [PRON]() 1)
 
-The 10 most frequent ambiguous types:  <em>имъ</em> ([PRON]() 320, [VERB]() 1), <em>и</em> ([CCONJ]() 1398, [PRON]() 307, [ADV]() 165, [ADP]() 6, [VERB]() 1), <em>вꙑ</em> ([PRON]() 177, [ADP]() 14), <em>иже</em> ([PRON]() 125, [DET]() 1), <em>что</em> ([PRON]() 111, [DET]() 3, [ADJ]() 3), <em>еже</em> ([PRON]() 92, [DET]() 7, [SCONJ]() 1, [ADJ]() 1), <em>тꙑ</em> ([PRON]() 90, [DET]() 10, [ADJ]() 2), <em>і</em> ([PRON]() 62, [CCONJ]() 2, [ADV]() 2), <em>ти</em> ([PRON]() 47, [ADJ]() 20, [DET]() 5), <em>нь</em> ([PRON]() 46, [CCONJ]() 4)
+The 10 most frequent ambiguous types:  <em>имъ</em> ([PRON]() 320, [VERB]() 1), <em>и</em> ([CCONJ]() 1398, [PRON]() 307, [ADV]() 165, [ADP]() 6, [VERB]() 1), <em>вꙑ</em> ([PRON]() 177, [ADP]() 14), <em>иже</em> ([PRON]() 125, [DET]() 1), <em>что</em> ([PRON]() 111, [DET]() 3, [ADJ]() 3), <em>еже</em> ([PRON]() 92, [DET]() 7, [SCONJ]() 1, [ADJ]() 1), <em>тꙑ</em> ([PRON]() 90, [DET]() 10, [ADJ]() 2), <em>і</em> ([PRON]() 62, [ADV]() 2, [CCONJ]() 2), <em>ти</em> ([PRON]() 47, [ADJ]() 20, [DET]() 5), <em>нь</em> ([PRON]() 46, [CCONJ]() 4)
 
 
 * <em>имъ</em>
@@ -46,8 +46,8 @@ The 10 most frequent ambiguous types:  <em>имъ</em> ([PRON]() 320, [VERB]() 1
   * [ADJ]() 2: <em>въ <b>тꙑ</b> оубо приходѧште цѣлите сѧ а не вь день соботънꙑ</em>
 * <em>і</em>
   * [PRON]() 62: <em>оубимъ <b>і</b> ꙇ оудръжимъ достоѣние его</em>
-  * [CCONJ]() 2: <em>знамениѣ иштетъ <b>і</b> знамение не дастъ сѧ емоу тъкъмо знамение ионꙑ пⷬ҇ка</em>
   * [ADV]() 2: <em>сего же ради искаахѫ паче июдеи его оубити ѣко не тъкмо разарѣаше соботѫ нъ <b>і</b> о҃ца своего г҃лааше б҃а равенъ сѧ творѧ б҃оу</em>
+  * [CCONJ]() 2: <em>знамениѣ иштетъ <b>і</b> знамение не дастъ сѧ емоу тъкъмо знамение ионꙑ пⷬ҇ка</em>
 * <em>ти</em>
   * [PRON]() 47: <em>коеѭ властиѭ си твориши ꙇ кто <b>ти</b> дастъ область сиѭ҄</em>
   * [ADJ]() 20: <em>ꙇ҅ за нѧ азъ с҃вштѫ сѧ самъ да бѫдѫтъ и <b>ти</b> с҃штени вꙑ истинѫ</em>

@@ -16,7 +16,7 @@ The feature is used with 1 part-of-speech tags: [he-pos/VERB]() (10576; 7% insta
 
 10576 [he-pos/VERB]() tokens (72% of all `VERB` tokens) have a non-empty value of `Voice`.
 
-The most frequent other feature values with which `VERB` and `Voice` co-occurred: <tt><a href="VerbType.html">VerbType</a>=EMPTY</tt> (10576; 100%), <tt><a href="Polarity.html">Polarity</a>=EMPTY</tt> (10576; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (5788; 55%), <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (5547; 52%).
+The most frequent other feature values with which `VERB` and `Voice` co-occurred: <tt><a href="Polarity.html">Polarity</a>=EMPTY</tt> (10576; 100%), <tt><a href="VerbType.html">VerbType</a>=EMPTY</tt> (10576; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (5788; 55%), <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (5547; 52%).
 
 `VERB` tokens may have the following values of `Voice`:
 

@@ -67,7 +67,7 @@ The most frequent other feature values with which `VERB` and `Number` co-occurre
 
 12133 [bg-pos/ADJ]() tokens (99% of all `ADJ` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `ADJ` and `Number` co-occurred: <tt><a href="Degree.html">Degree</a>=Pos</tt> (11492; 95%), <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (10798; 89%), <tt><a href="Aspect.html">Aspect</a>=EMPTY</tt> (10798; 89%), <tt><a href="VerbForm.html">VerbForm</a>=EMPTY</tt> (10798; 89%), <tt><a href="Definite.html">Definite</a>=Ind</tt> (6695; 55%).
+The most frequent other feature values with which `ADJ` and `Number` co-occurred: <tt><a href="Degree.html">Degree</a>=Pos</tt> (11492; 95%), <tt><a href="Aspect.html">Aspect</a>=EMPTY</tt> (10798; 89%), <tt><a href="VerbForm.html">VerbForm</a>=EMPTY</tt> (10798; 89%), <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (10798; 89%), <tt><a href="Definite.html">Definite</a>=Ind</tt> (6695; 55%).
 
 `ADJ` tokens may have the following values of `Number`:
 
@@ -118,7 +118,7 @@ The most frequent other feature values with which `PROPN` and `Number` co-occurr
 
 4827 [bg-pos/PRON]() tokens (53% of all `PRON` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="Poss.html">Poss</a>=EMPTY</tt> (4827; 100%), <tt><a href="Reflex.html">Reflex</a>=EMPTY</tt> (4827; 100%), <tt><a href="PronType.html">PronType</a>=Prs</tt> (3048; 63%), <tt><a href="Case.html">Case</a>=Nom</tt> (2983; 62%).
+The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="Reflex.html">Reflex</a>=EMPTY</tt> (4827; 100%), <tt><a href="Poss.html">Poss</a>=EMPTY</tt> (4827; 100%), <tt><a href="PronType.html">PronType</a>=Prs</tt> (3048; 63%), <tt><a href="Case.html">Case</a>=Nom</tt> (2983; 62%).
 
 `PRON` tokens may have the following values of `Number`:
 
@@ -156,7 +156,7 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
 
 3916 [bg-pos/AUX]() tokens (50% of all `AUX` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `AUX` and `Number` co-occurred: <tt><a href="Voice.html">Voice</a>=Act</tt> (3816; 97%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (3816; 97%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (3705; 95%), <tt><a href="Aspect.html">Aspect</a>=Imp</tt> (3586; 92%), <tt><a href="Person.html">Person</a>=3</tt> (3342; 85%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (3029; 77%).
+The most frequent other feature values with which `AUX` and `Number` co-occurred: <tt><a href="Mood.html">Mood</a>=Ind</tt> (3816; 97%), <tt><a href="Voice.html">Voice</a>=Act</tt> (3816; 97%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (3705; 95%), <tt><a href="Aspect.html">Aspect</a>=Imp</tt> (3586; 92%), <tt><a href="Person.html">Person</a>=3</tt> (3342; 85%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (3029; 77%).
 
 `AUX` tokens may have the following values of `Number`:
 

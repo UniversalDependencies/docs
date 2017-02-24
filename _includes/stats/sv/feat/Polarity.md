@@ -28,7 +28,7 @@ The most frequent other feature values with which `ADV` and `Polarity` co-occurr
 
 1 [sv-pos/PRON]() tokens (0% of all `PRON` tokens) have a non-empty value of `Polarity`.
 
-The most frequent other feature values with which `PRON` and `Polarity` co-occurred: <tt><a href="Definite.html">Definite</a>=Def</tt> (1; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (1; 100%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (1; 100%), <tt><a href="PronType.html">PronType</a>=Ind</tt> (1; 100%), <tt><a href="Case.html">Case</a>=Acc</tt> (1; 100%).
+The most frequent other feature values with which `PRON` and `Polarity` co-occurred: <tt><a href="Number.html">Number</a>=EMPTY</tt> (1; 100%), <tt><a href="Definite.html">Definite</a>=Def</tt> (1; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (1; 100%), <tt><a href="PronType.html">PronType</a>=Ind</tt> (1; 100%), <tt><a href="Case.html">Case</a>=Acc</tt> (1; 100%).
 
 `PRON` tokens may have the following values of `Polarity`:
 

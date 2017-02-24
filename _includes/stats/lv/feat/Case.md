@@ -73,7 +73,7 @@ The most frequent other feature values with which `ADJ` and `Case` co-occurred: 
   <tr><th>Paradigm <i>liels</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th><th><tt>Gen</tt></th><th><tt>Loc</tt></th></tr>
   <tr><td><tt><a href="Degree.html">Degree</a>=Pos|<a href="Number.html">Number</a>=Sing</tt></td><td><em>liels, lielais</em></td><td><em>lielu, lielo</em></td><td><em>lielajam</em></td><td><em>lielā, liela</em></td><td><em>lielā</em></td></tr>
   <tr><td><tt><a href="Degree.html">Degree</a>=Pos|<a href="Number.html">Number</a>=Plur</tt></td><td></td><td><em>lielos, lielus</em></td><td><em>lielajiem, lieliem</em></td><td><em>lielu</em></td><td><em>lielos</em></td></tr>
-  <tr><td><tt><a href="Degree.html">Degree</a>=Cmp|<a href="Number.html">Number</a>=Sing</tt></td><td><em>lielākais, lielāks</em></td><td><em>lielāku, Lielāko</em></td><td></td><td></td><td><em>lielākā</em></td></tr>
+  <tr><td><tt><a href="Degree.html">Degree</a>=Cmp|<a href="Number.html">Number</a>=Sing</tt></td><td><em>lielāks, lielākais</em></td><td><em>lielāku, Lielāko</em></td><td></td><td></td><td><em>lielākā</em></td></tr>
   <tr><td><tt><a href="Degree.html">Degree</a>=Cmp|<a href="Number.html">Number</a>=Plur</tt></td><td><em>lielākie</em></td><td></td><td><em>lielākajiem</em></td><td><em>lielāku</em></td><td></td></tr>
 </table>
 

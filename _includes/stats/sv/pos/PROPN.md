@@ -11,9 +11,9 @@ The 10 most frequent `PROPN` lemmas: <em>Sverige, EEC, Stockholm, Gud, Göteborg
 
 The 10 most frequent `PROPN` types:  <em>Sverige, EEC, Stockholm, Sveriges, EEC:s, Göteborg, Horn, Gud, USA, Danmark</em>
 
-The 10 most frequent ambiguous lemmas: <em>Björn</em> ([PROPN]() 6, [NOUN]() 1), <em>de</em> ([PRON]() 381, [DET]() 71, [PROPN]() 2), <em>vi</em> ([PRON]() 324, [DET]() 111, [PROPN]() 2, [NOUN]() 1), <em>väckarklocka</em> ([PROPN]() 2, [NOUN]() 2), <em>Children</em> ([NOUN]() 1, [PROPN]() 1), <em>SKB</em> ([PROPN]() 1, [NOUN]() 1), <em>backa</em> ([VERB]() 1, [PROPN]() 1), <em>hand</em> ([NOUN]() 41, [PROPN]() 1), <em>väst</em> ([NOUN]() 12, [PROPN]() 1), <em>ännu</em> ([ADV]() 38, [PROPN]() 1)
+The 10 most frequent ambiguous lemmas: <em>Björn</em> ([PROPN]() 6, [NOUN]() 1), <em>de</em> ([PRON]() 381, [DET]() 71, [PROPN]() 2), <em>vi</em> ([PRON]() 324, [DET]() 111, [PROPN]() 2, [NOUN]() 1), <em>väckarklocka</em> ([NOUN]() 2, [PROPN]() 2), <em>Children</em> ([NOUN]() 1, [PROPN]() 1), <em>SKB</em> ([PROPN]() 1, [NOUN]() 1), <em>backa</em> ([VERB]() 1, [PROPN]() 1), <em>hand</em> ([NOUN]() 41, [PROPN]() 1), <em>väst</em> ([NOUN]() 12, [PROPN]() 1), <em>ännu</em> ([ADV]() 38, [PROPN]() 1)
 
-The 10 most frequent ambiguous types:  <em>Björn</em> ([PROPN]() 6, [NOUN]() 1), <em>Vi</em> ([PRON]() 61, [PROPN]() 2), <em>de</em> ([DET]() 396, [PRON]() 227, [PROPN]() 2), <em>Children</em> ([PROPN]() 1, [NOUN]() 1), <em>Handelsbanken</em> ([PROPN]() 1, [NOUN]() 1), <em>I</em> ([ADP]() 209, [ADJ]() 1, [NUM]() 1, [NOUN]() 1, [PROPN]() 1), <em>SKB</em> ([NOUN]() 1, [PROPN]() 1), <em>Ännu</em> ([ADV]() 4, [PROPN]() 1)
+The 10 most frequent ambiguous types:  <em>Björn</em> ([PROPN]() 6, [NOUN]() 1), <em>Vi</em> ([PRON]() 61, [PROPN]() 2), <em>de</em> ([DET]() 396, [PRON]() 227, [PROPN]() 2), <em>Children</em> ([PROPN]() 1, [NOUN]() 1), <em>Handelsbanken</em> ([PROPN]() 1, [NOUN]() 1), <em>I</em> ([ADP]() 209, [NOUN]() 1, [ADJ]() 1, [NUM]() 1, [PROPN]() 1), <em>SKB</em> ([NOUN]() 1, [PROPN]() 1), <em>Ännu</em> ([ADV]() 4, [PROPN]() 1)
 
 
 * <em>Björn</em>
@@ -34,9 +34,9 @@ The 10 most frequent ambiguous types:  <em>Björn</em> ([PROPN]() 6, [NOUN]() 1)
   * [NOUN]() 1: <em>Ett tjänstemannaföretag som Svenska <b>Handelsbanken</b> med 6000 anställda ( 60 procent kvinnor ) har extremt gynnsamma siffror för antalet frånvarodagar per anställd 1969 :</em>
 * <em>I</em>
   * [ADP]() 209: <em><b>I</b> och med att kvinnan axlar mer krävande uppgifter får hon högre lön .</em>
+  * [NOUN]() 1: <em>På <b>I</b> 12 i Eksjö tog en kompanichef för ett pansarvärnskompani saken i egna händer .</em>
   * [ADJ]() 1: <em>1 <b>I</b> Kor. 7:2 .</em>
   * [NUM]() 1: <em>De åldersgrupper , som lekcirkeln i första hand är tänkt för är - förutom babybarnen - småbarn ( 1-3 år ) , förskolebarn ( 4-6 år ) , skolbarn <b>I</b> ( 7-9 år ) och skolbarn II ( 10-12 år ) .</em>
-  * [NOUN]() 1: <em>På <b>I</b> 12 i Eksjö tog en kompanichef för ett pansarvärnskompani saken i egna händer .</em>
   * [PROPN]() 1: <em>De nationalitetsbeteckningar som bör användas i förbindelse med postnummer till utlandet är följande : Belgien B Danmark DK Finland SF Frankrike F Italien <b>I</b> Liechtenstein FL Norge N Schweiz CH Västtyskland D Österrike A</em>
 * <em>SKB</em>
   * [NOUN]() 1: <em>1 <b>SKB</b> , sid. 240 .</em>
@@ -99,7 +99,7 @@ The 10 most frequent `PROPN` types:  <em>Harry, Quinn, Stillman, Access, Bray, A
 
 The 10 most frequent ambiguous lemmas: <em>_</em> ([NOUN]() 11462, [VERB]() 8134, [ADP]() 7148, [PUNCT]() 6980, [PRON]() 6631, [ADV]() 4925, [ADJ]() 4444, [DET]() 3508, [AUX]() 2803, [CCONJ]() 2463, [SCONJ]() 2183, [PROPN]() 2158, [PART]() 1442, [NUM]() 339, [INTJ]() 143, [X]() 15, [SYM]() 9)
 
-The 10 most frequent ambiguous types:  <em>Le</em> ([PROPN]() 3, [DET]() 2), <em>SA</em> ([PROPN]() 3, [X]() 1), <em>Web</em> ([NOUN]() 6, [PROPN]() 3), <em>van</em> ([ADJ]() 4, [PROPN]() 2), <em>C</em> ([NOUN]() 2, [PROPN]() 1), <em>Importera</em> ([VERB]() 4, [PROPN]() 1), <em>Park</em> ([PROPN]() 1, [NOUN]() 1), <em>Style</em> ([PROPN]() 1, [NOUN]() 1), <em>Via</em> ([ADP]() 1, [PROPN]() 1), <em>Visual</em> ([ADJ]() 2, [PROPN]() 1)
+The 10 most frequent ambiguous types:  <em>Le</em> ([PROPN]() 3, [DET]() 2), <em>SA</em> ([PROPN]() 3, [X]() 1), <em>Web</em> ([NOUN]() 6, [PROPN]() 3), <em>van</em> ([ADJ]() 4, [PROPN]() 2), <em>C</em> ([NOUN]() 2, [PROPN]() 1), <em>Importera</em> ([VERB]() 4, [PROPN]() 1), <em>Park</em> ([NOUN]() 1, [PROPN]() 1), <em>Style</em> ([PROPN]() 1, [NOUN]() 1), <em>Via</em> ([ADP]() 1, [PROPN]() 1), <em>Visual</em> ([ADJ]() 2, [PROPN]() 1)
 
 
 * <em>Le</em>
@@ -121,8 +121,8 @@ The 10 most frequent ambiguous types:  <em>Le</em> ([PROPN]() 3, [DET]() 2), <em
   * [VERB]() 4: <em><b>Importera</b> XML-data</em>
   * [PROPN]() 1: <em>När du väljer det här kommandot visas dialogrutan <b>Importera</b> där du kan välja ett XML-dokument eller ett schema som beskriver informationens struktur .</em>
 * <em>Park</em>
-  * [PROPN]() 1: <em>De flesta dagar tillbringade han minst ett par timmar i Riverside <b>Park</b> , där han metodiskt sökte saker längs de asfalterade gångarna eller tröskade igenom buskagen med hjälp av en käpp .</em>
   * [NOUN]() 1: <em>Och ändå höll han sig liksom avsiktligt inom ett noga kringskuret område som i norr begränsades av 110:e gatan , i söder av 72:a gatan , i väster av Riverside <b>Park</b> och i öster av Amsterdam Avenue .</em>
+  * [PROPN]() 1: <em>De flesta dagar tillbringade han minst ett par timmar i Riverside <b>Park</b> , där han metodiskt sökte saker längs de asfalterade gångarna eller tröskade igenom buskagen med hjälp av en käpp .</em>
 * <em>Style</em>
   * [PROPN]() 1: <em>I tidigare program och vissa aktuella versioner användes CSS-formatmallar ( Cascading <b>Style</b> Sheets , dvs övergripande formatmallar ) för att informera webbläsaren om hur XML-informationen skulle visas .</em>
   * [NOUN]() 1: <em>Du kan också transformera informationen till ett annat presentationsformat genom att använda en XSL-fil ( Extensible <b>Style</b> Language ) under exporten .</em>

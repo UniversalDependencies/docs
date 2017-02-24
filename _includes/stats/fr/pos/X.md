@@ -11,19 +11,19 @@ The 10 most frequent `X` lemmas: <em>etc., a, k, B, s, 's, GMT, of, D, e</em>
 
 The 10 most frequent `X` types:  <em>etc., a, k, B, s, 's, GMT, of, D, e</em>
 
-The 10 most frequent ambiguous lemmas: <em>a</em> ([DET]() 14, [ADP]() 5, [X]() 4, [NOUN]() 1, [PROPN]() 1), <em>k</em> ([NOUN]() 2, [X]() 1), <em>B</em> ([X]() 8, [PROPN]() 6), <em>s</em> ([X]() 6, [NOUN]() 6), <em>'s</em> ([PART]() 28, [X]() 5), <em>of</em> ([ADP]() 73, [X]() 5, [PROPN]() 5), <em>D</em> ([PROPN]() 4, [X]() 4), <em>e</em> ([CCONJ]() 3, [X]() 1, [NOUN]() 1), <em>AC</em> ([PROPN]() 7, [X]() 3), <em>ARNm</em> ([X]() 3, [NOUN]() 1)
+The 10 most frequent ambiguous lemmas: <em>a</em> ([DET]() 14, [ADP]() 5, [X]() 4, [PROPN]() 1, [NOUN]() 1), <em>k</em> ([NOUN]() 2, [X]() 1), <em>B</em> ([X]() 8, [PROPN]() 6), <em>s</em> ([X]() 6, [NOUN]() 6), <em>'s</em> ([PART]() 28, [X]() 5), <em>of</em> ([ADP]() 73, [PROPN]() 5, [X]() 5), <em>D</em> ([PROPN]() 4, [X]() 4), <em>e</em> ([CCONJ]() 3, [NOUN]() 1, [X]() 1), <em>AC</em> ([PROPN]() 7, [X]() 3), <em>ARNm</em> ([X]() 3, [NOUN]() 1)
 
-The 10 most frequent ambiguous types:  <em>a</em> ([AUX]() 1772, [VERB]() 354, [ADP]() 22, [X]() 4, [DET]() 4, [NOUN]() 1, [PROPN]() 1), <em>k</em> ([NOUN]() 2, [X]() 1), <em>B</em> ([X]() 8, [PROPN]() 6), <em>s</em> ([X]() 6, [NOUN]() 6), <em>'s</em> ([PART]() 29, [X]() 5, [AUX]() 3, [VERB]() 1), <em>of</em> ([ADP]() 72, [PROPN]() 5, [X]() 5), <em>D</em> ([X]() 4, [PROPN]() 4), <em>e</em> ([CCONJ]() 3, [NOUN]() 1, [X]() 1), <em>AC</em> ([PROPN]() 7, [X]() 3), <em>ARNm</em> ([X]() 3, [NOUN]() 1)
+The 10 most frequent ambiguous types:  <em>a</em> ([AUX]() 1772, [VERB]() 354, [ADP]() 22, [DET]() 4, [X]() 4, [PROPN]() 1, [NOUN]() 1), <em>k</em> ([NOUN]() 2, [X]() 1), <em>B</em> ([X]() 8, [PROPN]() 6), <em>s</em> ([NOUN]() 6, [X]() 6), <em>'s</em> ([PART]() 29, [X]() 5, [AUX]() 3, [VERB]() 1), <em>of</em> ([ADP]() 72, [PROPN]() 5, [X]() 5), <em>D</em> ([X]() 4, [PROPN]() 4), <em>e</em> ([CCONJ]() 3, [NOUN]() 1, [X]() 1), <em>AC</em> ([PROPN]() 7, [X]() 3), <em>ARNm</em> ([X]() 3, [NOUN]() 1)
 
 
 * <em>a</em>
   * [AUX]() 1772: <em>Le gardien algérien <b>a</b> lui aussi laissé filer le ballon dans ses buts .</em>
   * [VERB]() 354: <em>Elle <b>a</b> le statut de ville depuis 1957 .</em>
   * [ADP]() 22: <em>Emily Hirst est née <b>a</b> Vancouver à le Canada .</em>
-  * [X]() 4: <em>On peut modifier <b>a</b> posteriori la couleur et le nom d' un objet , mais ceci se fait avec une boîte de dialogue modale qui cache la figure .</em>
   * [DET]() 4: <em>En anglais elle porte d' ailleurs le nom de sail of <b>a</b> lugger , ou lugsail , c'est-à-dire voile de lougre .</em>
-  * [NOUN]() 1: <em>Ce toponyme suggère le nom d' un homme germain , Alaman , marquant une origine ethnique , à lequel a été ajouté le suffixe -onem , le <b>a</b> initial pris pour la préposition à ayant disparu par aphérèse .</em>
+  * [X]() 4: <em>On peut modifier <b>a</b> posteriori la couleur et le nom d' un objet , mais ceci se fait avec une boîte de dialogue modale qui cache la figure .</em>
   * [PROPN]() 1: <em>San Felice <b>a</b> Cancello est une commune italienne de la province de Caserte dans la région Campanie en Italie .</em>
+  * [NOUN]() 1: <em>Ce toponyme suggère le nom d' un homme germain , Alaman , marquant une origine ethnique , à lequel a été ajouté le suffixe -onem , le <b>a</b> initial pris pour la préposition à ayant disparu par aphérèse .</em>
 * <em>k</em>
   * [NOUN]() 2: <em>Le cout d' investissement initial de la partie aménagée de la véloroute se monte en moyenne selon une étude effectuée en 2009 à 16 <b>k</b> € par kilomètre avec des retombées économiques annuelles de 25 <b>k</b> € par km et par an .</em>
   * [X]() 1: <em>En d' autres termes , les x <b>k</b> valeurs sont calculées en utilisant les x { k-1 } calculées précédemment .</em>
@@ -31,8 +31,8 @@ The 10 most frequent ambiguous types:  <em>a</em> ([AUX]() 1772, [VERB]() 354, [
   * [X]() 8: <em>Le <b>B</b> & O ne fut pas le premier chemin de fer de le pays ;</em>
   * [PROPN]() 6: <em>Puis <b>B</b> disparaît soudain de son journal intime .</em>
 * <em>s</em>
-  * [X]() 6: <em>Le « <b>s</b> » final d' Isles est attesté vers 1621 .</em>
   * [NOUN]() 6: <em>Kamui Kobayashi , en pneus durs , améliore son temps en 1 min 31 <b>s</b> 751 puis 1 min 30 <b>s</b> 761 .</em>
+  * [X]() 6: <em>Le « <b>s</b> » final d' Isles est attesté vers 1621 .</em>
 * <em>'s</em>
   * [PART]() 29: <em>Résultats détaillés de l' édition 1896 de le tournoi de tennis U.S. National Champ <b>'s</b> .</em>
   * [X]() 5: <em>Elle est administrée par le Florida Community College <b>'s</b> Board of Trustees , dont la présidente est Helen Aguirre Ferré .</em>
@@ -159,14 +159,14 @@ The 10 most frequent `X` lemmas: <em>the, van, in, Medicines, and, Company, UK, 
 
 The 10 most frequent `X` types:  <em>the, van, in, Medicines, and, Company, UK, a, devils, en</em>
 
-The 10 most frequent ambiguous lemmas: <em>van</em> ([PROPN]() 1, [X]() 1), <em>a</em> ([X]() 3, [ADP]() 1), <em>en</em> ([ADP]() 606, [PRON]() 43, [NOUN]() 4, [X]() 3), <em>Limited</em> ([X]() 2, [PROPN]() 1), <em>of</em> ([X]() 2, [ADP]() 1), <em>August</em> ([NOUN]() 2, [X]() 1), <em>Bank</em> ([PROPN]() 1, [X]() 1), <em>Beirut</em> ([PROPN]() 3, [X]() 1), <em>Bielefeld</em> ([PROPN]() 1, [X]() 1), <em>GmbH</em> ([PROPN]() 1, [X]() 1)
+The 10 most frequent ambiguous lemmas: <em>van</em> ([PROPN]() 1, [X]() 1), <em>a</em> ([X]() 3, [ADP]() 1), <em>en</em> ([ADP]() 606, [PRON]() 43, [NOUN]() 4, [X]() 3), <em>Limited</em> ([X]() 2, [PROPN]() 1), <em>of</em> ([X]() 2, [ADP]() 1), <em>August</em> ([NOUN]() 2, [X]() 1), <em>Bank</em> ([X]() 1, [PROPN]() 1), <em>Beirut</em> ([PROPN]() 3, [X]() 1), <em>Bielefeld</em> ([X]() 1, [PROPN]() 1), <em>GmbH</em> ([PROPN]() 1, [X]() 1)
 
-The 10 most frequent ambiguous types:  <em>van</em> ([PROPN]() 1, [X]() 1), <em>a</em> ([AUX]() 301, [VERB]() 44, [X]() 3, [ADP]() 1), <em>en</em> ([ADP]() 535, [PRON]() 40, [NOUN]() 4, [X]() 3), <em>Limited</em> ([X]() 2, [PROPN]() 1), <em>of</em> ([X]() 2, [ADP]() 1), <em>August</em> ([NOUN]() 2, [X]() 1), <em>Bank</em> ([X]() 1, [PROPN]() 1), <em>Beirut</em> ([PROPN]() 3, [X]() 1), <em>Bielefeld</em> ([PROPN]() 1, [X]() 1), <em>GmbH</em> ([PROPN]() 1, [X]() 1)
+The 10 most frequent ambiguous types:  <em>van</em> ([X]() 1, [PROPN]() 1), <em>a</em> ([AUX]() 301, [VERB]() 44, [X]() 3, [ADP]() 1), <em>en</em> ([ADP]() 535, [PRON]() 40, [NOUN]() 4, [X]() 3), <em>Limited</em> ([X]() 2, [PROPN]() 1), <em>of</em> ([X]() 2, [ADP]() 1), <em>August</em> ([NOUN]() 2, [X]() 1), <em>Bank</em> ([PROPN]() 1, [X]() 1), <em>Beirut</em> ([PROPN]() 3, [X]() 1), <em>Bielefeld</em> ([PROPN]() 1, [X]() 1), <em>GmbH</em> ([X]() 1, [PROPN]() 1)
 
 
 * <em>van</em>
-  * [PROPN]() 1: <em>Non , Madame <b>van</b> der Laan , vous devriez savoir qu' à les termes de le règlement , cette demande aurait dû être introduite selon les formes et dans les temps , ce qui n' a pas été le cas .</em>
   * [X]() 1: <em>C' est Renaud <b>van</b> Ruymbeke qui reprendra alors ce dossier qui s' enlisera dans les sables de le secret défense .</em>
+  * [PROPN]() 1: <em>Non , Madame <b>van</b> der Laan , vous devriez savoir qu' à les termes de le règlement , cette demande aurait dû être introduite selon les formes et dans les temps , ce qui n' a pas été le cas .</em>
 * <em>a</em>
   * [AUX]() 301: <em>Le conteur <b>a</b> fait jouer les enfants .</em>
   * [VERB]() 44: <em>Le procès <b>a</b> lieu à Brazzaville en 2005 .</em>
@@ -187,8 +187,8 @@ The 10 most frequent ambiguous types:  <em>van</em> ([PROPN]() 1, [X]() 1), <em>
   * [NOUN]() 2: <em>- ^ " Reuters drops freelance Lebanese photographer over image " , Reuters , <b>August</b> 6 , 2006 .</em>
   * [X]() 1: <em>- ^ ( en ) Brian Eno , Lessons in how to lie about Iraq , The Observer , <b>August</b> 17 , 2003 .</em>
 * <em>Bank</em>
-  * [X]() 1: <em>Les banquiers n' ont jamais été arrêtés ni jugés , à l' exception de la Chartered <b>Bank</b> qui fut inculpée pour des pratiques nettement frauduleuses .</em>
   * [PROPN]() 1: <em>Celle-ci a été de 7 millions de dollars , sous la forme de valeurs mobilières ( 5 à prélever sur un compte de la Chase Manhattan <b>Bank</b> et 2 sur un compte de la Citibank ) et a été versée à la Banque nationale d' Algérie , qui centralisait la rançon pour la reverser ensuite à une banque iranienne à Téhéran .</em>
+  * [X]() 1: <em>Les banquiers n' ont jamais été arrêtés ni jugés , à l' exception de la Chartered <b>Bank</b> qui fut inculpée pour des pratiques nettement frauduleuses .</em>
 * <em>Beirut</em>
   * [PROPN]() 3: <em>- ^ " Reuters admits altering <b>Beirut</b> photo " .</em>
   * [X]() 1: <em>- ^ " Smoke and Mirrors : Reuters Dismisses Photog Over Doctored <b>Beirut</b> Picture " , Editor and Publisher , August 6 , 2006 .</em>
@@ -196,8 +196,8 @@ The 10 most frequent ambiguous types:  <em>van</em> ([PROPN]() 1, [X]() 1), <em>
   * [PROPN]() 1: <em>Hälsa Pharma GmbH , Immermannstraße 9 , 33619 <b>Bielefeld</b> , Allemagne</em>
   * [X]() 1: <em>Hälsa Pharma GmbH Immermannstraße 9 33619 <b>Bielefeld</b> Allemagne</em>
 * <em>GmbH</em>
-  * [PROPN]() 1: <em>Hälsa Pharma <b>GmbH</b> , Immermannstraße 9 , 33619 Bielefeld , Allemagne</em>
   * [X]() 1: <em>Hälsa Pharma <b>GmbH</b> Immermannstraße 9 33619 Bielefeld Allemagne</em>
+  * [PROPN]() 1: <em>Hälsa Pharma <b>GmbH</b> , Immermannstraße 9 , 33619 Bielefeld , Allemagne</em>
 
 ## Morphology
 

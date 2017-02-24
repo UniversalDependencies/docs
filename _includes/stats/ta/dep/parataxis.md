@@ -33,6 +33,50 @@ The following 4 pairs of parts of speech are connected with `parataxis`: [ta-pos
 
 
 ~~~ conllu
+# visual-style 33	bgColor:blue
+# visual-style 33	fgColor:white
+# visual-style 31	bgColor:blue
+# visual-style 31	fgColor:white
+# visual-style 31 33 parataxis	color:blue
+1	அதில்	அது	PRON	RpL-3SN--	Case=Loc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	31	obl	_	SpaceAfter=No|Translit=atil|LTranslit=atu
+2	,	,	PUNCT	Z:-------	PunctType=Comm	31	punct	_	Translit=,|LTranslit=,
+3	ஐபிஎல்	ஐபிஎல்	PROPN	NEN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	5	nmod	_	Translit=aipiel|LTranslit=aipiel
+4	கிரிக்கெட்	கிரிக்கெட்	PROPN	NEN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	5	nmod	_	Translit=kirikkeṭ|LTranslit=kirikkeṭ
+5	போட்டிகளின்	போட்டி	NOUN	NNN-3PA--	Animacy=Anim|Case=Nom|Gender=Com|Number=Plur|Person=3	29	obl	_	Translit=pōṭṭikaḷin|LTranslit=pōṭṭi
+6	போது	போது	PART	Tn-------	_	5	mark	_	SpaceAfter=No|Translit=pōtu|LTranslit=pōtu
+7	,	,	PUNCT	Z:-------	PunctType=Comm	29	punct	_	Translit=,|LTranslit=,
+8	ஊடக	ஊடகம்	PROPN	NO--3SN--	Gender=Neut|Number=Sing|Person=3	9	nmod	_	Translit=ūṭaka|LTranslit=ūṭakam
+9	உரிமைகள்	உரிமை	NOUN	NNN-3PN--	Case=Nom|Gender=Neut|Number=Plur|Person=3	10	obj	_	Translit=urimaikaḷ|LTranslit=urimai
+10	வழங்கியது	வழங்கு	VERB	VzND3SNAA	Case=Nom|Gender=Neut|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbForm=Ger|Voice=Act	20	advcl	_	SpaceAfter=No|Translit=valaṅkiyatu|LTranslit=valaṅku
+11	,	,	PUNCT	Z:-------	PunctType=Comm	20	punct	_	Translit=,|LTranslit=,
+12	விளம்பரங்கள்	விளம்பரம்	NOUN	NNN-3PN--	Case=Nom|Gender=Neut|Number=Plur|Person=3	13	obj	_	Translit=viḷamparaṅkaḷ|LTranslit=viḷamparam
+13	ஒளிபரப்ப	ஒளிபரப்பு	VERB	Vu-T---AA	Polarity=Pos|VerbForm=Inf|Voice=Act	15	advcl	_	Translit=oḷiparappa|LTranslit=oḷiparappu
+14	நேரம்	நேரம்	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	15	obj	_	Translit=nēram|LTranslit=nēram
+15	ஒதுக்கியது	ஒதுக்கு	VERB	VzND3SNAA	Case=Nom|Gender=Neut|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbForm=Ger|Voice=Act	20	advcl	_	SpaceAfter=No|Translit=otukkiyatu|LTranslit=otukku
+16	,	,	PUNCT	Z:-------	PunctType=Comm	20	punct	_	Translit=,|LTranslit=,
+17	பாதுகாப்பு	பாதுகாப்பு	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	18	nmod	_	Translit=pātukāppu|LTranslit=pātukāppu
+18	ஏற்பாடுகள்	ஏற்பாடு	NOUN	NNN-3PN--	Case=Nom|Gender=Neut|Number=Plur|Person=3	19	obj	_	Translit=ērpāṭukaḷ|LTranslit=ērpāṭu
+19	செய்தது	செய்	VERB	VzND3SNAA	Case=Nom|Gender=Neut|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbForm=Ger|Voice=Act	20	advcl	_	Translit=ceytatu|LTranslit=cey
+20	ஆகியவற்றில்	ஆகியவற்றில்	NOUN	NNL-3PN--	Case=Loc|Gender=Neut|Number=Plur|Person=3	27	obl	_	Translit=ākiyavarril|LTranslit=ākiyavarril
+21	லலித்	லலித்	PROPN	NEN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	22	nmod	_	Translit=lalit|LTranslit=lalit
+22	மோடி	மோடி	PROPN	NEN-3SH--	Case=Nom|Gender=Com|Number=Sing|Person=3|Polite=Form	27	nsubj	_	Translit=mōṭi|LTranslit=mōṭi
+23	குறிப்பிட்ட	குறிப்பிடு	ADJ	JJ-------	_	24	amod	_	Translit=kurippiṭṭa|LTranslit=kurippiṭu
+24	சிலருக்கு	சிலர்	NOUN	NND-3SN--	Case=Dat|Gender=Neut|Number=Sing|Person=3	25	nmod	_	Translit=cilarukku|LTranslit=cilar
+25	ஆதரவ்	ஆதரவு	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	27	obl	_	Translit=ātarav|LTranslit=ātaravu
+26	ஆக	ஆகு	ADP	PP-------	AdpType=Post	25	case	_	Translit=āka|LTranslit=āku
+27	செயல்பட்டு	செயல்படு	VERB	Vt-T---AA	Polarity=Pos|VerbForm=Part|Voice=Act	29	advcl	_	Translit=ceyalpaṭṭu|LTranslit=ceyalpaṭu
+28	மோசடி	மோசடி	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	29	obj	_	Translit=mōcaṭi|LTranslit=mōcaṭi
+29	செய்தத்	செய்	VERB	VzND3SNAA	Case=Nom|Gender=Neut|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbForm=Ger|Voice=Act	31	ccomp	_	Translit=ceytat|LTranslit=cey
+30	ஆக	ஆக	PART	Tg-------	_	29	mark	_	Translit=āka|LTranslit=āka
+31	குறிப்பிடப்	குறிப்பிடு	VERB	Vu-T---AA	Polarity=Pos|VerbForm=Inf|Voice=Act	0	root	_	Translit=kurippiṭap|LTranslit=kurippiṭu
+32	பட்ட்	படு	AUX	VT-T---PA	Polarity=Pos|VerbForm=Part|Voice=Pass	31	aux	_	Translit=paṭṭ|LTranslit=paṭu
+33	இருந்தது	இரு	VERB	Vr-D3SNAA	Gender=Neut|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	31	parataxis	_	Translit=iruntatu|LTranslit=iru
+34	.	.	PUNCT	Z#-------	PunctType=Peri	31	punct	_	Translit=.|LTranslit=.
+
+~~~
+
+
+~~~ conllu
 # visual-style 22	bgColor:blue
 # visual-style 22	fgColor:white
 # visual-style 20	bgColor:blue
@@ -61,29 +105,6 @@ The following 4 pairs of parts of speech are connected with `parataxis`: [ta-pos
 21	கேட்க	கேள்	VERB	Vu-T---AA	Polarity=Pos|VerbForm=Inf|Voice=Act	20	acl	_	Translit=kēṭka|LTranslit=kēḷ
 22	மாட்டேன்	மாட்டு	AUX	VR-T1SAAA	Animacy=Anim|Gender=Com|Mood=Ind|Number=Sing|Person=1|Polarity=Pos|VerbForm=Fin|Voice=Act	20	parataxis	_	SpaceAfter=No|Translit=māṭṭēn|LTranslit=māṭṭu
 23	.	.	PUNCT	Z#-------	PunctType=Peri	20	punct	_	Translit=.|LTranslit=.
-
-~~~
-
-
-~~~ conllu
-# visual-style 11	bgColor:blue
-# visual-style 11	fgColor:white
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 10 11 parataxis	color:blue
-1	பாகிஸ்தான்	பாகிஸ்தான்	PROPN	NEN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	2	nmod	_	Translit=pākistān|LTranslit=pākistān
-2	சிறையில்	சிறை	NOUN	NNL-3SN--	Case=Loc|Gender=Neut|Number=Sing|Person=3	3	obl	_	Translit=ciraiyil|LTranslit=cirai
-3	அடைக்க	அடை	VERB	Vu-T---AA	Polarity=Pos|VerbForm=Inf|Voice=Act	5	advcl	_	Translit=aṭaikka|LTranslit=aṭai
-4	ப்பட்ட்	படு	AUX	VT-T---PA	Polarity=Pos|VerbForm=Part|Voice=Pass	3	aux	_	Translit=ppaṭṭ|LTranslit=paṭu
-5	இருந்த	இரு	ADJ	Jd-D----A	Polarity=Pos|Tense=Past|VerbForm=Part	8	amod	_	Translit=irunta|LTranslit=iru
-6	100	100	NUM	U=-------	NumForm=Digit	8	nummod	_	Translit=100|LTranslit=100
-7	இந்திய	இந்தியா	PROPN	NO--3SN--	Gender=Neut|Number=Sing|Person=3	8	nmod	_	Translit=intiya|LTranslit=intiyā
-8	மீனவர்கள்	மீனவர்	NOUN	NNN-3PA--	Animacy=Anim|Case=Nom|Gender=Com|Number=Plur|Person=3	10	nsubj	_	Translit=mīnavarkaḷ|LTranslit=mīnavar
-9	இன்று	இன்று	ADV	AA-------	_	10	advmod	_	Translit=inru|LTranslit=inru
-10	விடுதலை	விடுதலை	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	0	root	_	Translit=viṭutalai|LTranslit=viṭutalai
-11	செய்யப்	செய்	VERB	Vu-T---AA	Polarity=Pos|VerbForm=Inf|Voice=Act	10	parataxis	_	Translit=ceyyap|LTranslit=cey
-12	பட்டனர்	படு	AUX	VR-D3PHPA	Gender=Com|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Polite=Form|Tense=Past|VerbForm=Fin|Voice=Pass	10	aux	_	SpaceAfter=No|Translit=paṭṭanar|LTranslit=paṭu
-13	.	.	PUNCT	Z#-------	PunctType=Peri	10	punct	_	Translit=.|LTranslit=.
 
 ~~~
 

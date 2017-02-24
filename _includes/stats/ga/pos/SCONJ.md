@@ -13,7 +13,7 @@ The 10 most frequent `SCONJ` types:  <em>ach, nuair, mar, má, go, dá, más, ag
 
 The 10 most frequent ambiguous lemmas: <em>ach</em> ([SCONJ]() 88, [CCONJ]() 3), <em>mar</em> ([ADP]() 52, [SCONJ]() 23), <em>má</em> ([SCONJ]() 21, [AUX]() 1), <em>go</em> ([PART]() 146, [ADP]() 44, [SCONJ]() 12, [NOUN]() 5, [ADV]() 2, [ADJ]() 1), <em>agus</em> ([CCONJ]() 386, [SCONJ]() 9), <em>cé</em> ([PRON]() 8, [SCONJ]() 5, [DET]() 2, [NOUN]() 1, [AUX]() 1), <em>ná</em> ([CCONJ]() 40, [PART]() 6, [SCONJ]() 4), <em>chun</em> ([ADP]() 42, [SCONJ]() 2), <em>de</em> ([ADP]() 175, [PART]() 6, [SCONJ]() 2), <em>réir</em> ([ADP]() 5, [NOUN]() 5, [SCONJ]() 2)
 
-The 10 most frequent ambiguous types:  <em>ach</em> ([SCONJ]() 67, [CCONJ]() 2), <em>mar</em> ([ADP]() 49, [SCONJ]() 22), <em>go</em> ([PART]() 142, [ADP]() 42, [SCONJ]() 12, [NOUN]() 5, [ADV]() 2, [ADJ]() 1), <em>dá</em> ([ADP]() 24, [SCONJ]() 7, [NUM]() 6), <em>más</em> ([SCONJ]() 5, [AUX]() 1), <em>agus</em> ([CCONJ]() 351, [SCONJ]() 6), <em>cé</em> ([SCONJ]() 4, [NOUN]() 1, [PRON]() 1), <em>ná</em> ([CCONJ]() 40, [PART]() 4, [SCONJ]() 4), <em>is</em> ([AUX]() 44, [CCONJ]() 26, [PART]() 10, [SCONJ]() 3), <em>chun</em> ([ADP]() 42, [SCONJ]() 2)
+The 10 most frequent ambiguous types:  <em>ach</em> ([SCONJ]() 67, [CCONJ]() 2), <em>mar</em> ([ADP]() 49, [SCONJ]() 22), <em>go</em> ([PART]() 142, [ADP]() 42, [SCONJ]() 12, [NOUN]() 5, [ADV]() 2, [ADJ]() 1), <em>dá</em> ([ADP]() 24, [SCONJ]() 7, [NUM]() 6), <em>más</em> ([SCONJ]() 5, [AUX]() 1), <em>agus</em> ([CCONJ]() 351, [SCONJ]() 6), <em>cé</em> ([SCONJ]() 4, [PRON]() 1, [NOUN]() 1), <em>ná</em> ([CCONJ]() 40, [SCONJ]() 4, [PART]() 4), <em>is</em> ([AUX]() 44, [CCONJ]() 26, [PART]() 10, [SCONJ]() 3), <em>chun</em> ([ADP]() 42, [SCONJ]() 2)
 
 
 * <em>ach</em>
@@ -41,12 +41,12 @@ The 10 most frequent ambiguous types:  <em>ach</em> ([SCONJ]() 67, [CCONJ]() 2),
   * [SCONJ]() 6: <em>Amach liom arís go siopa mór Revington's <b>agus</b> ar ámharaí an tsaoil bhí ceant ar siúl ann .</em>
 * <em>cé</em>
   * [SCONJ]() 4: <em>Roghnaigh an bogha an banlaoch Clothra , <b>cé</b> nach raibh sí ach ina girseach ag an am .</em>
-  * [NOUN]() 1: <em>Ar fhágaint slán agus beannacht age <b>cé</b> na Coise an tráthnóna aoibhinn caithiseach Domhnaigh seo dhúinn , agus agena a raibh do dhaoine ina seasamh ann , cé go raibh cuid mhaith ann san am gcéanna , ní raibh cuma na hainnise ná na bochtanacht ar aon duine acu , rud ná beadh im chumas do rá leo anois dá mbeinn ann , comh fada lem thuairim .</em>
   * [PRON]() 1: <em>Ansin faigh amach <b>cé</b> mhéad fuinnimh a bheidh le fáil as gach ceann de na béilí seo agus déan comparáid idir an iontógáil fuinnimh iomlán agus an iontógáil atá molta i dTábla 1.4 .</em>
+  * [NOUN]() 1: <em>Ar fhágaint slán agus beannacht age <b>cé</b> na Coise an tráthnóna aoibhinn caithiseach Domhnaigh seo dhúinn , agus agena a raibh do dhaoine ina seasamh ann , cé go raibh cuid mhaith ann san am gcéanna , ní raibh cuma na hainnise ná na bochtanacht ar aon duine acu , rud ná beadh im chumas do rá leo anois dá mbeinn ann , comh fada lem thuairim .</em>
 * <em>ná</em>
   * [CCONJ]() 40: <em>Níor mhasla gan bhrí <b>ná</b> caint gan éifeacht a bhí san fhocal sin twaddle .</em>
-  * [PART]() 4: <em>Cad ina thaobh <b>ná</b> haithneodh , <b>ná</b> fuil sé do mo mhúineadh ?</em>
   * [SCONJ]() 4: <em>' Dhera , mo thrua mhór sibh , ' arsa an Mórach , ' <b>ná</b> raibh naonúr acu ag mo mháthairse , agus <b>ná</b> fuair sí ainm dos gach aoinne acu !</em>
+  * [PART]() 4: <em>Cad ina thaobh <b>ná</b> haithneodh , <b>ná</b> fuil sé do mo mhúineadh ?</em>
 * <em>is</em>
   * [AUX]() 44: <em>Limistéar na Meánmhara <b>is</b> áit dúcháis don Rós Mhuire .</em>
   * [CCONJ]() 26: <em>' Athraíonn sí a haigne ansin chomh luath <b>is</b> a chastar ar a chéile iad !</em>

@@ -108,7 +108,7 @@ The 10 most frequent `DET` types:  <em>ein, den, eit, dei, ei, det, andre, alle,
 
 The 10 most frequent ambiguous lemmas: <em>ein</em> ([DET]() 5401, [PRON]() 767), <em>den</em> ([DET]() 1785, [PRON]() 129, [X]() 9, [PROPN]() 1), <em>dei</em> ([PRON]() 1527, [DET]() 1367), <em>det</em> ([PRON]() 5091, [DET]() 1207, [X]() 15, [PROPN]() 1), <em>all</em> ([DET]() 545, [ADV]() 2, [X]() 2), <em>denne</em> ([DET]() 402, [PRON]() 21, [X]() 1), <em>nokon</em> ([DET]() 398, [PRON]() 70), <em>slik</em> ([ADV]() 334, [DET]() 219), <em>vår</em> ([DET]() 218, [NOUN]() 19, [X]() 2), <em>same</em> ([DET]() 204, [ADV]() 1)
 
-The 10 most frequent ambiguous types:  <em>ein</em> ([DET]() 2201, [PRON]() 676, [ADP]() 1), <em>den</em> ([DET]() 1543, [PRON]() 103, [X]() 9), <em>dei</em> ([PRON]() 1314, [DET]() 1208), <em>ei</em> ([DET]() 1156, [PRON]() 2, [ADV]() 2, [NUM]() 1), <em>det</em> ([PRON]() 3767, [DET]() 1056, [X]() 15, [ADV]() 1), <em>andre</em> ([DET]() 430, [ADJ]() 54, [X]() 1), <em>alle</em> ([DET]() 387, [PRON]() 104), <em>denne</em> ([DET]() 353, [PRON]() 17, [X]() 1), <em>sine</em> ([DET]() 214, [NOUN]() 1), <em>noko</em> ([PRON]() 258, [DET]() 198)
+The 10 most frequent ambiguous types:  <em>ein</em> ([DET]() 2201, [PRON]() 676, [ADP]() 1), <em>den</em> ([DET]() 1543, [PRON]() 103, [X]() 9), <em>dei</em> ([PRON]() 1314, [DET]() 1208), <em>ei</em> ([DET]() 1156, [ADV]() 2, [PRON]() 2, [NUM]() 1), <em>det</em> ([PRON]() 3767, [DET]() 1056, [X]() 15, [ADV]() 1), <em>andre</em> ([DET]() 430, [ADJ]() 54, [X]() 1), <em>alle</em> ([DET]() 387, [PRON]() 104), <em>denne</em> ([DET]() 353, [PRON]() 17, [X]() 1), <em>sine</em> ([DET]() 214, [NOUN]() 1), <em>noko</em> ([PRON]() 258, [DET]() 198)
 
 
 * <em>ein</em>
@@ -124,8 +124,8 @@ The 10 most frequent ambiguous types:  <em>ein</em> ([DET]() 2201, [PRON]() 676,
   * [DET]() 1208: <em>Om du ikkje gjer som <b>dei</b> andre gjer , vert du lurd .</em>
 * <em>ei</em>
   * [DET]() 1156: <em>« Vi grekarar er <b>ei</b> av dei rikaste folkeferdene i verda .</em>
-  * [PRON]() 2: <em>Det er så vilt her at me forstår det er alvor , var det <b>ei</b> som sa .</em>
   * [ADV]() 2: <em>Ein skal spørje seg sjølv om dette høyrer til det som me rår for eller <b>ei</b> .</em>
+  * [PRON]() 2: <em>Det er så vilt her at me forstår det er alvor , var det <b>ei</b> som sa .</em>
   * [NUM]() 1: <em>16 . I iveren etter å finna so mange tydingar til ordet fly som råd hev dei teke med « skjer » ( s. 12 / 80 ) , men då hev dei blanda saman med ( <b>ei</b> ) flu « ( flatt ) skjer el. grunne som er under vatn i flod sjø » ( Nynorskordboka ) .</em>
 * <em>det</em>
   * [PRON]() 3767: <em>Slik gjer eg <b>det</b> :</em>

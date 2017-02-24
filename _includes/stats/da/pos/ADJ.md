@@ -13,7 +13,7 @@ The 10 most frequent `ADJ` types:  <em>alle, mange, danske, store, hele, flere, 
 
 The 10 most frequent ambiguous lemmas: <em>stor</em> ([ADJ]() 227, [ADV]() 5), <em>al</em> ([ADJ]() 216, [PROPN]() 1), <em>ny</em> ([ADJ]() 157, [NOUN]() 1, [X]() 1), <em>dansk</em> ([ADJ]() 156, [NOUN]() 6), <em>meget</em> ([ADV]() 107, [ADJ]() 99), <em>hel</em> ([ADJ]() 91, [X]() 2), <em>politisk</em> ([ADJ]() 29, [ADV]() 5), <em>økonomisk</em> ([ADJ]() 29, [ADV]() 7), <em>almindelig</em> ([ADJ]() 27, [ADV]() 1), <em>få</em> ([VERB]() 348, [ADJ]() 27)
 
-The 10 most frequent ambiguous types:  <em>hele</em> ([ADJ]() 71, [NOUN]() 4), <em>ny</em> ([ADJ]() 51, [X]() 1, [NOUN]() 1), <em>alt</em> ([ADJ]() 49, [ADV]() 17, [NOUN]() 13), <em>dansk</em> ([ADJ]() 35, [NOUN]() 6), <em>mere</em> ([ADV]() 72, [ADJ]() 46), <em>meget</em> ([ADV]() 106, [ADJ]() 37), <em>stort</em> ([ADJ]() 30, [ADV]() 7), <em>bedre</em> ([ADJ]() 26, [ADV]() 5), <em>gode</em> ([ADJ]() 26, [NOUN]() 4), <em>godt</em> ([ADV]() 69, [ADJ]() 24, [X]() 1)
+The 10 most frequent ambiguous types:  <em>hele</em> ([ADJ]() 71, [NOUN]() 4), <em>ny</em> ([ADJ]() 51, [NOUN]() 1, [X]() 1), <em>alt</em> ([ADJ]() 49, [ADV]() 17, [NOUN]() 13), <em>dansk</em> ([ADJ]() 35, [NOUN]() 6), <em>mere</em> ([ADV]() 72, [ADJ]() 46), <em>meget</em> ([ADV]() 106, [ADJ]() 37), <em>stort</em> ([ADJ]() 30, [ADV]() 7), <em>bedre</em> ([ADJ]() 26, [ADV]() 5), <em>gode</em> ([ADJ]() 26, [NOUN]() 4), <em>godt</em> ([ADV]() 69, [ADJ]() 24, [X]() 1)
 
 
 * <em>hele</em>
@@ -21,8 +21,8 @@ The 10 most frequent ambiguous types:  <em>hele</em> ([ADJ]() 71, [NOUN]() 4), <
   * [NOUN]() 4: <em>Stenene er i det <b>hele</b> taget meget ømfindtlige .</em>
 * <em>ny</em>
   * [ADJ]() 51: <em>Det ligger ikke klart , hvornår han skal tiltræde den <b>ny</b> stilling .</em>
-  * [X]() 1: <em>" Vi troede ledelsen ville lægge op til nye forhandlinger og <b>ny</b> en konstruktiv dialog .</em>
   * [NOUN]() 1: <em>En sølvske , kniv eller gaffel i <b>ny</b> og næ - måske et askebæger med byvåben på midten - var spillernes belønning for at underholde .</em>
+  * [X]() 1: <em>" Vi troede ledelsen ville lægge op til nye forhandlinger og <b>ny</b> en konstruktiv dialog .</em>
 * <em>alt</em>
   * [ADJ]() 49: <em>" Vi har bevidst fortalt <b>alt</b> , hvad vi har set , til pressen .</em>
   * [ADV]() 17: <em>Og jeg gik <b>alt</b> for vidt . "</em>

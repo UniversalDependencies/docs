@@ -158,15 +158,6 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
   <tr><td><tt><a href="Person.html">Person</a>=3</tt></td><td><em>l', gli</em></td><td><em>gli</em></td></tr>
 </table>
 
-### `ADP`
-
-2 [it-pos/ADP]() tokens (0% of all `ADP` tokens) have a non-empty value of `Number`.
-
-`ADP` tokens may have the following values of `Number`:
-
-* `Sing` (2; 100% of non-empty `Number`): <em>del, du</em>
-* `EMPTY` (42940): <em>di, a, in, da, per, con, su, come, ad, tra</em>
-
 ### `X`
 
 2 [it-pos/X]() tokens (1% of all `X` tokens) have a non-empty value of `Number`.
@@ -176,14 +167,14 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
 * `Sing` (2; 100% of non-empty `Number`): <em>cultural, state</em>
 * `EMPTY` (236): <em>a, b, Illusions, perdues, De, ad, f, home, la, Come</em>
 
-### `PROPN`
+### `ADP`
 
-1 [it-pos/PROPN]() tokens (0% of all `PROPN` tokens) have a non-empty value of `Number`.
+2 [it-pos/ADP]() tokens (0% of all `ADP` tokens) have a non-empty value of `Number`.
 
-`PROPN` tokens may have the following values of `Number`:
+`ADP` tokens may have the following values of `Number`:
 
-* `Plur` (1; 100% of non-empty `Number`): <em>hye</em>
-* `EMPTY` (13891): <em>Italia, Shakespeare, Balzac, Europa, San, Roma, Stati, Uniti, Albania, Marco</em>
+* `Sing` (2; 100% of non-empty `Number`): <em>del, du</em>
+* `EMPTY` (42940): <em>di, a, in, da, per, con, su, come, ad, tra</em>
 
 ### `ADV`
 
@@ -195,6 +186,15 @@ The most frequent other feature values with which `ADV` and `Number` co-occurred
 
 * `Sing` (1; 100% of non-empty `Number`): <em>pochissimo</em>
 * `EMPTY` (10815): <em>non, più, anche, dove, come, quando, solo, prima, sempre, poi</em>
+
+### `PROPN`
+
+1 [it-pos/PROPN]() tokens (0% of all `PROPN` tokens) have a non-empty value of `Number`.
+
+`PROPN` tokens may have the following values of `Number`:
+
+* `Plur` (1; 100% of non-empty `Number`): <em>hye</em>
+* `EMPTY` (13891): <em>Italia, Shakespeare, Balzac, Europa, San, Roma, Stati, Uniti, Albania, Marco</em>
 
 ## Relations with Agreement in `Number`
 
@@ -353,15 +353,6 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
   <tr><td><tt><a href="Gender.html">Gender</a>=Fem</tt></td><td><em>quella</em></td><td><em>quelle</em></td></tr>
 </table>
 
-### `PROPN`
-
-1 [it-pos/PROPN]() tokens (0% of all `PROPN` tokens) have a non-empty value of `Number`.
-
-`PROPN` tokens may have the following values of `Number`:
-
-* `Plur` (1; 100% of non-empty `Number`): <em>hye</em>
-* `EMPTY` (1724): <em>Shakespeare, Balzac, Ucraina, Europa, Facebook, Pericle, Stati, Uniti, Cina, John</em>
-
 ### `ADP`
 
 1 [it-pos/ADP]() tokens (0% of all `ADP` tokens) have a non-empty value of `Number`.
@@ -370,6 +361,15 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
 
 * `Sing` (1; 100% of non-empty `Number`): <em>du</em>
 * `EMPTY` (6857): <em>di, a, in, per, da, su, con, come, ad, tra</em>
+
+### `PROPN`
+
+1 [it-pos/PROPN]() tokens (0% of all `PROPN` tokens) have a non-empty value of `Number`.
+
+`PROPN` tokens may have the following values of `Number`:
+
+* `Plur` (1; 100% of non-empty `Number`): <em>hye</em>
+* `EMPTY` (1724): <em>Shakespeare, Balzac, Ucraina, Europa, Facebook, Pericle, Stati, Uniti, Cina, John</em>
 
 ## Relations with Agreement in `Number`
 

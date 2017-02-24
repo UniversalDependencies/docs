@@ -16,7 +16,7 @@ The feature is used with 3 part-of-speech tags: [pl-pos/VERB]() (7919; 11% insta
 
 7919 [pl-pos/VERB]() tokens (83% of all `VERB` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="Number.html">Number</a>=Sing</tt> (5803; 73%), <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (5117; 65%), <tt><a href="Aspect.html">Aspect</a>=Imp</tt> (4773; 60%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (4473; 56%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (4473; 56%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (4309; 54%), <tt><a href="Voice.html">Voice</a>=Act</tt> (4309; 54%).
+The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="Number.html">Number</a>=Sing</tt> (5803; 73%), <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (5117; 65%), <tt><a href="Aspect.html">Aspect</a>=Imp</tt> (4773; 60%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (4473; 56%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (4473; 56%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (4309; 54%), <tt><a href="Voice.html">Voice</a>=Act</tt> (4309; 54%).
 
 `VERB` tokens may have the following values of `Tense`:
 
@@ -47,7 +47,7 @@ The most frequent other feature values with which `VERB` and `Tense` co-occurred
 
 1742 [pl-pos/AUX]() tokens (85% of all `AUX` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `AUX` and `Tense` co-occurred: <tt><a href="Aspect.html">Aspect</a>=Imp</tt> (1603; 92%), <tt><a href="Number.html">Number</a>=Sing</tt> (1355; 78%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (1344; 77%), <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (1344; 77%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (1344; 77%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (1344; 77%), <tt><a href="Variant.html">Variant</a>=EMPTY</tt> (1181; 68%).
+The most frequent other feature values with which `AUX` and `Tense` co-occurred: <tt><a href="Aspect.html">Aspect</a>=Imp</tt> (1603; 92%), <tt><a href="Number.html">Number</a>=Sing</tt> (1355; 78%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (1344; 77%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (1344; 77%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (1344; 77%), <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (1344; 77%), <tt><a href="Variant.html">Variant</a>=EMPTY</tt> (1181; 68%).
 
 `AUX` tokens may have the following values of `Tense`:
 
@@ -85,7 +85,7 @@ The most frequent other feature values with which `AUX` and `Tense` co-occurred:
 
 253 [pl-pos/ADJ]() tokens (4% of all `ADJ` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `ADJ` and `Tense` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (253; 100%), <tt><a href="Polarity.html">Polarity</a>=Pos</tt> (253; 100%), <tt><a href="Aspect.html">Aspect</a>=Imp</tt> (253; 100%), <tt><a href="Voice.html">Voice</a>=Act</tt> (253; 100%), <tt><a href="Degree.html">Degree</a>=EMPTY</tt> (253; 100%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (146; 58%), <tt><a href="Number.html">Number</a>=Sing</tt> (127; 50%).
+The most frequent other feature values with which `ADJ` and `Tense` co-occurred: <tt><a href="Degree.html">Degree</a>=EMPTY</tt> (253; 100%), <tt><a href="Voice.html">Voice</a>=Act</tt> (253; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (253; 100%), <tt><a href="Polarity.html">Polarity</a>=Pos</tt> (253; 100%), <tt><a href="Aspect.html">Aspect</a>=Imp</tt> (253; 100%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (146; 58%), <tt><a href="Number.html">Number</a>=Sing</tt> (127; 50%).
 
 `ADJ` tokens may have the following values of `Tense`:
 

@@ -51,7 +51,7 @@ The most frequent other feature values with which `AUX` and `Tense` co-occurred:
 
 1195 [sv-pos/ADJ]() tokens (18% of all `ADJ` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `ADJ` and `Tense` co-occurred: <tt><a href="Degree.html">Degree</a>=EMPTY</tt> (1195; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (1195; 100%), <tt><a href="Case.html">Case</a>=Nom</tt> (1191; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (751; 63%), <tt><a href="Definite.html">Definite</a>=EMPTY</tt> (685; 57%).
+The most frequent other feature values with which `ADJ` and `Tense` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (1195; 100%), <tt><a href="Degree.html">Degree</a>=EMPTY</tt> (1195; 100%), <tt><a href="Case.html">Case</a>=Nom</tt> (1191; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (751; 63%), <tt><a href="Definite.html">Definite</a>=EMPTY</tt> (685; 57%).
 
 `ADJ` tokens may have the following values of `Tense`:
 
@@ -60,9 +60,10 @@ The most frequent other feature values with which `ADJ` and `Tense` co-occurred:
 * `EMPTY` (5480): <em>olika, andra, nya, många, stora, stor, större, första, hela, vissa</em>
 
 <table>
-  <tr><th>Paradigm <i>bestämma</i></th><th><tt>Pres</tt></th><th><tt>Past</tt></th></tr>
-  <tr><td><tt><a href="Definite.html">Definite</a>=Ind|<a href="Gender.html">Gender</a>=Neut|<a href="Number.html">Number</a>=Sing</tt></td><td></td><td><em>bestämt</em></td></tr>
-  <tr><td><tt></tt></td><td><em>bestämmande</em></td><td></td></tr>
+  <tr><th>Paradigm <i>skydda</i></th><th><tt>Pres</tt></th><th><tt>Past</tt></th></tr>
+  <tr><td><tt><a href="Definite.html">Definite</a>=Def|<a href="Number.html">Number</a>=Sing</tt></td><td></td><td><em>skyddade</em></td></tr>
+  <tr><td><tt><a href="Definite.html">Definite</a>=Ind|<a href="Gender.html">Gender</a>=Com|<a href="Number.html">Number</a>=Sing</tt></td><td></td><td><em>Skyddad</em></td></tr>
+  <tr><td><tt></tt></td><td><em>skyddande</em></td><td></td></tr>
 </table>
 
 `Tense` seems to be **lexical feature** of `ADJ`. 99% lemmas (578) occur only with one value of `Tense`.

@@ -63,9 +63,9 @@ The 10 most frequent `X` lemmas: <em>of, and, in, the, for, de, mignews.com, cap
 
 The 10 most frequent `X` types:  <em>of, and, in, the, for, MIGNews.com, de, capture, di, money</em>
 
-The 10 most frequent ambiguous lemmas: <em>in</em> ([X]() 9, [PROPN]() 1), <em>the</em> ([PROPN]() 11, [X]() 8), <em>de</em> ([X]() 5, [PROPN]() 2), <em>ultrabrain</em> ([X]() 4, [PROPN]() 3), <em>а</em> ([CCONJ]() 5028, [PROPN]() 14, [INTJ]() 4, [PART]() 4, [X]() 4, [NOUN]() 1), <em>daily</em> ([PROPN]() 6, [X]() 3, [ADJ]() 1), <em>g</em> ([X]() 3, [NOUN]() 1, [PROPN]() 1), <em>i</em> ([NUM]() 22, [PROPN]() 6, [X]() 3), <em>space</em> ([X]() 3, [PROPN]() 3), <em>б</em> ([PROPN]() 8, [X]() 3)
+The 10 most frequent ambiguous lemmas: <em>in</em> ([X]() 9, [PROPN]() 1), <em>the</em> ([PROPN]() 11, [X]() 8), <em>de</em> ([X]() 5, [PROPN]() 2), <em>ultrabrain</em> ([X]() 4, [PROPN]() 3), <em>а</em> ([CCONJ]() 5028, [PROPN]() 14, [INTJ]() 4, [PART]() 4, [X]() 4, [NOUN]() 1), <em>daily</em> ([PROPN]() 6, [X]() 3, [ADJ]() 1), <em>g</em> ([X]() 3, [NOUN]() 1, [PROPN]() 1), <em>i</em> ([NUM]() 22, [PROPN]() 6, [X]() 3), <em>space</em> ([PROPN]() 3, [X]() 3), <em>б</em> ([PROPN]() 8, [X]() 3)
 
-The 10 most frequent ambiguous types:  <em>а</em> ([CCONJ]() 3431, [X]() 4, [INTJ]() 3, [PART]() 1), <em>daily</em> ([X]() 3, [ADJ]() 1), <em>g</em> ([X]() 3, [NOUN]() 1), <em>б</em> ([PART]() 14, [X]() 3), <em>и</em> ([CCONJ]() 20115, [PART]() 4011, [X]() 3), <em>аль</em> ([PART]() 9, [X]() 2), <em>*</em> ([PUNCT]() 1, [X]() 1), <em>Black&Decker</em> ([NOUN]() 1, [X]() 1), <em>S.</em> ([PROPN]() 2, [X]() 1), <em>homo</em> ([PROPN]() 3, [X]() 1)
+The 10 most frequent ambiguous types:  <em>а</em> ([CCONJ]() 3431, [X]() 4, [INTJ]() 3, [PART]() 1), <em>daily</em> ([X]() 3, [ADJ]() 1), <em>g</em> ([X]() 3, [NOUN]() 1), <em>б</em> ([PART]() 14, [X]() 3), <em>и</em> ([CCONJ]() 20115, [PART]() 4011, [X]() 3), <em>аль</em> ([PART]() 9, [X]() 2), <em>*</em> ([PUNCT]() 1, [X]() 1), <em>Black&Decker</em> ([X]() 1, [NOUN]() 1), <em>S.</em> ([PROPN]() 2, [X]() 1), <em>homo</em> ([PROPN]() 3, [X]() 1)
 
 
 * <em>а</em>
@@ -93,8 +93,8 @@ The 10 most frequent ambiguous types:  <em>а</em> ([CCONJ]() 3431, [X]() 4, [IN
   * [PUNCT]() 1: <em>Ее разрешение ( 2000 <b>*</b> 2000 точек ) полностью " покрывает " любые современные мониторы и проекторы .</em>
   * [X]() 1: <em>Эти правила можно задавать как для всех поисковых роботов скопом ( User - agent : <b>*</b> ) , так_и выбирая конкретных пауков ( Yandex для " Яндекса " , Googlebot для Google , bingbot для Bing и так далее ) .</em>
 * <em>Black&Decker</em>
-  * [NOUN]() 1: <em><b>Black&Decker</b> не стала исключением из этого правила .</em>
   * [X]() 1: <em>Инструмент <b>Black&Decker</b> SPT100 .</em>
+  * [NOUN]() 1: <em><b>Black&Decker</b> не стала исключением из этого правила .</em>
 * <em>S.</em>
   * [PROPN]() 2: <em>Например , Владимир Симоненко обучался этому в Японии , на заводе " O.S <b>S.</b> . Engine " .</em>
   * [X]() 1: <em>P.S <b>S.</b> . Прошу считать это официальным обращением депутата Мосгордумы .</em>

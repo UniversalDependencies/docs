@@ -16,7 +16,7 @@ The feature is used with 2 part-of-speech tags: [pl-pos/ADJ]() (5546; 8% instanc
 
 5546 [pl-pos/ADJ]() tokens (79% of all `ADJ` tokens) have a non-empty value of `Degree`.
 
-The most frequent other feature values with which `ADJ` and `Degree` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=EMPTY</tt> (5546; 100%), <tt><a href="Polarity.html">Polarity</a>=EMPTY</tt> (5546; 100%), <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (5546; 100%), <tt><a href="Aspect.html">Aspect</a>=EMPTY</tt> (5546; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (3905; 70%), <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (3002; 54%).
+The most frequent other feature values with which `ADJ` and `Degree` co-occurred: <tt><a href="Aspect.html">Aspect</a>=EMPTY</tt> (5546; 100%), <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (5546; 100%), <tt><a href="VerbForm.html">VerbForm</a>=EMPTY</tt> (5546; 100%), <tt><a href="Polarity.html">Polarity</a>=EMPTY</tt> (5546; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (3905; 70%), <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (3002; 54%).
 
 `ADJ` tokens may have the following values of `Degree`:
 

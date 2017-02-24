@@ -47,8 +47,9 @@ The most frequent other feature values with which `PROPN` and `Gender` co-occurr
 * `EMPTY` (5): <em>Р, В., М, П.</em>
 
 <table>
-  <tr><th>Paradigm <i>баку</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>
-  <tr><td><tt></tt></td><td><em>Баку</em></td><td><em>Баку</em></td></tr>
+  <tr><th>Paradigm <i>гродна</i></th><th><tt>Masc</tt></th><th><tt>Neut</tt></th></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Gen</tt></td><td><em>Гродна</em></td><td></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Loc</tt></td><td></td><td><em>Гродне</em></td></tr>
 </table>
 
 `Gender` seems to be **lexical feature** of `PROPN`. 98% lemmas (185) occur only with one value of `Gender`.
@@ -173,7 +174,7 @@ The most frequent other feature values with which `X` and `Gender` co-occurred: 
 
 5 [be-pos/AUX]() tokens (15% of all `AUX` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `AUX` and `Gender` co-occurred: <tt><a href="Mood.html">Mood</a>=Ind</tt> (5; 100%), <tt><a href="Voice.html">Voice</a>=Act</tt> (5; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (5; 100%), <tt><a href="Aspect.html">Aspect</a>=Imp</tt> (5; 100%), <tt><a href="Tense.html">Tense</a>=Past</tt> (5; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (5; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (5; 100%).
+The most frequent other feature values with which `AUX` and `Gender` co-occurred: <tt><a href="Mood.html">Mood</a>=Ind</tt> (5; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (5; 100%), <tt><a href="Voice.html">Voice</a>=Act</tt> (5; 100%), <tt><a href="Aspect.html">Aspect</a>=Imp</tt> (5; 100%), <tt><a href="Tense.html">Tense</a>=Past</tt> (5; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (5; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (5; 100%).
 
 `AUX` tokens may have the following values of `Gender`:
 
@@ -197,6 +198,6 @@ The 10 most frequent relations where parent and child node agree in `Gender`:
 <tt>NOUN --[<a href="../dep/flat.html">flat</a>]--> PROPN</tt> (27; 63%),
 <tt>ADJ --[<a href="../dep/conj.html">conj</a>]--> ADJ</tt> (20; 91%),
 <tt>ADJ --[<a href="../dep/nsubj.html">nsubj</a>]--> NOUN</tt> (12; 60%),
-<tt>VERB --[<a href="../dep/conj.html">conj</a>]--> VERB</tt> (11; 65%),
-<tt>PROPN --[<a href="../dep/amod.html">amod</a>]--> ADJ</tt> (11; 92%).
+<tt>PROPN --[<a href="../dep/amod.html">amod</a>]--> ADJ</tt> (11; 92%),
+<tt>VERB --[<a href="../dep/conj.html">conj</a>]--> VERB</tt> (11; 65%).
 

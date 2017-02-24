@@ -34,7 +34,7 @@ The feature is used with 7 part-of-speech tags: [la-pos/NOUN]() (4451; 24% insta
 
 3189 [la-pos/VERB]() tokens (86% of all `VERB` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (2347; 74%), <tt><a href="Voice.html">Voice</a>=Act</tt> (2347; 74%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (2341; 73%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (2341; 73%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (1807; 57%), <tt><a href="Person.html">Person</a>=3</tt> (1728; 54%), <tt><a href="Aspect.html">Aspect</a>=EMPTY</tt> (1625; 51%).
+The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="Voice.html">Voice</a>=Act</tt> (2347; 74%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (2347; 74%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (2341; 73%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (2341; 73%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (1807; 57%), <tt><a href="Person.html">Person</a>=3</tt> (1728; 54%), <tt><a href="Aspect.html">Aspect</a>=EMPTY</tt> (1625; 51%).
 
 `VERB` tokens may have the following values of `Number`:
 
@@ -82,7 +82,7 @@ The most frequent other feature values with which `VERB` and `Number` co-occurre
   <tr><td><tt><a href="Case.html">Case</a>=Abl|<a href="Degree.html">Degree</a>=Cmp|<a href="Gender.html">Gender</a>=Neut</tt></td><td><em>maiore</em></td><td></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Abl|<a href="Gender.html">Gender</a>=Masc</tt></td><td><em>magno</em></td><td><em>maxumis</em></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Abl|<a href="Gender.html">Gender</a>=Fem</tt></td><td><em>magna, maxuma</em></td><td><em>magnis</em></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Abl|<a href="Gender.html">Gender</a>=Neut</tt></td><td><em>magno, maxumo</em></td><td><em>magnis, maxumis</em></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Abl|<a href="Gender.html">Gender</a>=Neut</tt></td><td><em>magno, maxumo</em></td><td><em>maxumis, magnis</em></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Degree.html">Degree</a>=Cmp|<a href="Gender.html">Gender</a>=Neut</tt></td><td></td><td><em>maiora</em></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Gender.html">Gender</a>=Masc</tt></td><td><em>magnum</em></td><td><em>magnos</em></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Gender.html">Gender</a>=Fem</tt></td><td><em>magnam, maxumam</em></td><td><em>magnas, maxumas</em></td></tr>
@@ -361,7 +361,7 @@ The most frequent other feature values with which `AUX` and `Number` co-occurred
 
 3791 [la-pos/DET]() tokens (100% of all `DET` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="Degree.html">Degree</a>=Pos</tt> (3790; 100%), <tt><a href="PronType.html">PronType</a>=Ind</tt> (1951; 51%), <tt><a href="Poss.html">Poss</a>=EMPTY</tt> (1951; 51%).
+The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="Degree.html">Degree</a>=Pos</tt> (3790; 100%), <tt><a href="Poss.html">Poss</a>=EMPTY</tt> (1951; 51%), <tt><a href="PronType.html">PronType</a>=Ind</tt> (1951; 51%).
 
 `DET` tokens may have the following values of `Number`:
 
@@ -418,7 +418,7 @@ The most frequent other feature values with which `PROPN` and `Number` co-occurr
 
 1301 [la-pos/NUM]() tokens (64% of all `NUM` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `NUM` and `Number` co-occurred: <tt><a href="NumForm.html">NumForm</a>=EMPTY</tt> (1301; 100%), <tt><a href="NumType.html">NumType</a>=Card</tt> (1301; 100%), <tt><a href="Degree.html">Degree</a>=Pos</tt> (1301; 100%).
+The most frequent other feature values with which `NUM` and `Number` co-occurred: <tt><a href="NumType.html">NumType</a>=Card</tt> (1301; 100%), <tt><a href="Degree.html">Degree</a>=Pos</tt> (1301; 100%), <tt><a href="NumForm.html">NumForm</a>=EMPTY</tt> (1301; 100%).
 
 `NUM` tokens may have the following values of `Number`:
 
@@ -546,7 +546,7 @@ The most frequent other feature values with which `VERB` and `Number` co-occurre
   <tr><td><tt><a href="Aspect.html">Aspect</a>=Perf|<a href="Mood.html">Mood</a>=Ind|<a href="Person.html">Person</a>=1|<a href="Tense.html">Tense</a>=Fut|<a href="VerbForm.html">VerbForm</a>=Fin|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>dixero</em></td><td><em>dixerimus</em></td></tr>
   <tr><td><tt><a href="Aspect.html">Aspect</a>=Perf|<a href="Mood.html">Mood</a>=Ind|<a href="Person.html">Person</a>=1|<a href="Tense.html">Tense</a>=Past|<a href="VerbForm.html">VerbForm</a>=Fin|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>dixi</em></td><td><em>diximus</em></td></tr>
   <tr><td><tt><a href="Aspect.html">Aspect</a>=Perf|<a href="Mood.html">Mood</a>=Ind|<a href="Person.html">Person</a>=2|<a href="Tense.html">Tense</a>=Fut|<a href="VerbForm.html">VerbForm</a>=Fin|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>dixeris</em></td><td><em>dixeritis</em></td></tr>
-  <tr><td><tt><a href="Aspect.html">Aspect</a>=Perf|<a href="Mood.html">Mood</a>=Ind|<a href="Person.html">Person</a>=2|<a href="Tense.html">Tense</a>=Past|<a href="VerbForm.html">VerbForm</a>=Fin|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>dixisti</em></td><td><em>diximus, dixistis</em></td></tr>
+  <tr><td><tt><a href="Aspect.html">Aspect</a>=Perf|<a href="Mood.html">Mood</a>=Ind|<a href="Person.html">Person</a>=2|<a href="Tense.html">Tense</a>=Past|<a href="VerbForm.html">VerbForm</a>=Fin|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>dixisti</em></td><td><em>dixistis, diximus</em></td></tr>
   <tr><td><tt><a href="Aspect.html">Aspect</a>=Perf|<a href="Mood.html">Mood</a>=Ind|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Fut|<a href="VerbForm.html">VerbForm</a>=Fin|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>dixerit</em></td><td><em>dixerint</em></td></tr>
   <tr><td><tt><a href="Aspect.html">Aspect</a>=Perf|<a href="Mood.html">Mood</a>=Ind|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Past|<a href="VerbForm.html">VerbForm</a>=Fin|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>dixit</em></td><td><em>dixerunt</em></td></tr>
   <tr><td><tt><a href="Aspect.html">Aspect</a>=Perf|<a href="Mood.html">Mood</a>=Sub|<a href="Person.html">Person</a>=1|<a href="Tense.html">Tense</a>=Past|<a href="VerbForm.html">VerbForm</a>=Fin|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>dixerim, dixissem</em></td><td><em>dixerimus</em></td></tr>
@@ -594,7 +594,7 @@ The most frequent other feature values with which `VERB` and `Number` co-occurre
 
 15547 [la-pos/ADJ]() tokens (100% of all `ADJ` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `ADJ` and `Number` co-occurred: <tt><a href="Person.html">Person</a>=EMPTY</tt> (12534; 81%), <tt><a href="Poss.html">Poss</a>=EMPTY</tt> (12534; 81%), <tt><a href="Degree.html">Degree</a>=EMPTY</tt> (8173; 53%).
+The most frequent other feature values with which `ADJ` and `Number` co-occurred: <tt><a href="Poss.html">Poss</a>=EMPTY</tt> (12534; 81%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (12534; 81%), <tt><a href="Degree.html">Degree</a>=EMPTY</tt> (8173; 53%).
 
 `ADJ` tokens may have the following values of `Number`:
 

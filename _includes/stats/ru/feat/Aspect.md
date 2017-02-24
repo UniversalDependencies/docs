@@ -16,7 +16,7 @@ The feature is used with 2 part-of-speech tags: [ru-pos/VERB]() (7225; 8% instan
 
 7225 [ru-pos/VERB]() tokens (99% of all `VERB` tokens) have a non-empty value of `Aspect`.
 
-The most frequent other feature values with which `VERB` and `Aspect` co-occurred: <tt><a href="Variant.html">Variant</a>=EMPTY</tt> (6405; 89%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (5464; 76%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (5412; 75%), <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (5412; 75%), <tt><a href="Number.html">Number</a>=Sing</tt> (4552; 63%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (4416; 61%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (4389; 61%), <tt><a href="Tense.html">Tense</a>=Past</tt> (4104; 57%), <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (4037; 56%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (3942; 55%).
+The most frequent other feature values with which `VERB` and `Aspect` co-occurred: <tt><a href="Variant.html">Variant</a>=EMPTY</tt> (6405; 89%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (5464; 76%), <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (5412; 75%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (5412; 75%), <tt><a href="Number.html">Number</a>=Sing</tt> (4552; 63%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (4416; 61%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (4389; 61%), <tt><a href="Tense.html">Tense</a>=Past</tt> (4104; 57%), <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (4037; 56%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (3942; 55%).
 
 `VERB` tokens may have the following values of `Aspect`:
 
@@ -68,8 +68,8 @@ The 10 most frequent relations where parent and child node agree in `Aspect`:
 <tt>VERB --[<a href="../dep/parataxis.html">parataxis</a>]--> VERB</tt> (171; 67%),
 <tt>VERB --[<a href="../dep/ccomp.html">ccomp</a>]--> VERB</tt> (91; 52%),
 <tt>VERB --[<a href="../dep/acl:relcl.html">acl:relcl</a>]--> VERB</tt> (11; 58%),
-<tt>VERB --[<a href="../dep/obl.html">obl</a>]--> VERB</tt> (3; 60%),
 <tt>VERB --[<a href="../dep/appos.html">appos</a>]--> VERB</tt> (3; 100%),
+<tt>VERB --[<a href="../dep/obl.html">obl</a>]--> VERB</tt> (3; 60%),
 <tt>VERB --[<a href="../dep/orphan.html">orphan</a>]--> VERB</tt> (1; 100%).
 
 

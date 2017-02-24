@@ -11,7 +11,7 @@ The 10 most frequent `DET` lemmas: این، آن، هر، همان، همین، 
 
 The 10 most frequent `DET` types:  این، آن، هر، همان، همین، تمام، برخی، تمامی، دیگر، بعضی
 
-The 10 most frequent ambiguous lemmas: این ([DET]() 2167, [PRON]() 531, [CCONJ]() 1), آن ([PRON]() 989, [DET]() 353, [NOUN]() 3), همان ([DET]() 117, [PRON]() 8, [NOUN]() 1), همین ([DET]() 110, [PRON]() 17), تمام ([DET]() 61, [ADJ]() 36, [PRON]() 1), برخی ([PRON]() 36, [DET]() 36, [NOUN]() 1), دیگر ([ADJ]() 266, [ADV]() 35, [DET]() 19, [PRON]() 4, [NOUN]() 2), همه ([PRON]() 192, [DET]() 19), بعضی ([PRON]() 61, [DET]() 17), سراسر ([DET]() 17, [ADV]() 1)
+The 10 most frequent ambiguous lemmas: این ([DET]() 2167, [PRON]() 531, [CCONJ]() 1), آن ([PRON]() 989, [DET]() 353, [NOUN]() 3), همان ([DET]() 117, [PRON]() 8, [NOUN]() 1), همین ([DET]() 110, [PRON]() 17), تمام ([DET]() 61, [ADJ]() 36, [PRON]() 1), برخی ([DET]() 36, [PRON]() 36, [NOUN]() 1), دیگر ([ADJ]() 266, [ADV]() 35, [DET]() 19, [PRON]() 4, [NOUN]() 2), همه ([PRON]() 192, [DET]() 19), بعضی ([PRON]() 61, [DET]() 17), سراسر ([DET]() 17, [ADV]() 1)
 
 The 10 most frequent ambiguous types:  این ([DET]() 2135, [PRON]() 438, [CCONJ]() 1), آن ([PRON]() 540, [DET]() 349, [NOUN]() 3), همان ([DET]() 117, [PRON]() 8, [NOUN]() 1), همین ([DET]() 110, [PRON]() 17), تمام ([DET]() 40, [ADJ]() 36, [PRON]() 1), برخی ([DET]() 36, [PRON]() 36), دیگر ([ADJ]() 187, [ADV]() 35, [DET]() 19, [PRON]() 1), بعضی ([PRON]() 61, [DET]() 17), سراسر ([DET]() 17, [ADV]() 1), ین ([DET]() 17, [NOUN]() 3, [PRON]() 1)
 

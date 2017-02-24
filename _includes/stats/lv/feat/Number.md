@@ -64,7 +64,7 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
 
 2317 [lv-pos/VERB]() tokens (32% of all `VERB` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="Reflex.html">Reflex</a>=EMPTY</tt> (2092; 90%), <tt><a href="Evident.html">Evident</a>=EMPTY</tt> (1468; 63%), <tt><a href="Tense.html">Tense</a>=Past</tt> (1452; 63%), <tt><a href="Polarity.html">Polarity</a>=EMPTY</tt> (1394; 60%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (1394; 60%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (1394; 60%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (1382; 60%), <tt><a href="Degree.html">Degree</a>=Pos</tt> (1381; 60%), <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (1177; 51%), <tt><a href="Aspect.html">Aspect</a>=Perf</tt> (1176; 51%).
+The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="Reflex.html">Reflex</a>=EMPTY</tt> (2092; 90%), <tt><a href="Evident.html">Evident</a>=EMPTY</tt> (1468; 63%), <tt><a href="Tense.html">Tense</a>=Past</tt> (1452; 63%), <tt><a href="Polarity.html">Polarity</a>=EMPTY</tt> (1394; 60%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (1394; 60%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (1394; 60%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (1382; 60%), <tt><a href="Degree.html">Degree</a>=Pos</tt> (1381; 60%), <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (1177; 51%), <tt><a href="Aspect.html">Aspect</a>=Perf</tt> (1176; 51%).
 
 `VERB` tokens may have the following values of `Number`:
 
@@ -107,7 +107,7 @@ The most frequent other feature values with which `ADJ` and `Number` co-occurred
   <tr><th>Paradigm <i>liels</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Degree.html">Degree</a>=Pos</tt></td><td><em>lielu, lielo</em></td><td><em>lielus, lielos</em></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Degree.html">Degree</a>=Cmp</tt></td><td><em>lielāku, Lielāko</em></td><td></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Dat|<a href="Degree.html">Degree</a>=Pos</tt></td><td><em>lielajam</em></td><td><em>lielajiem, lieliem</em></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Dat|<a href="Degree.html">Degree</a>=Pos</tt></td><td><em>lielajam</em></td><td><em>lieliem, lielajiem</em></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Dat|<a href="Degree.html">Degree</a>=Cmp</tt></td><td></td><td><em>lielākajiem</em></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Degree.html">Degree</a>=Pos</tt></td><td><em>lielā, liela</em></td><td><em>lielu</em></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Degree.html">Degree</a>=Cmp</tt></td><td></td><td><em>lielāku</em></td></tr>

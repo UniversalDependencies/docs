@@ -11,7 +11,7 @@ The 10 most frequent `NOUN` lemmas: <em>time, year, day, people, service, place,
 
 The 10 most frequent `NOUN` types:  <em>time, people, service, place, thanks, food, way, year, day, number</em>
 
-The 10 most frequent ambiguous lemmas: <em>time</em> ([NOUN]() 508, [VERB]() 1), <em>day</em> ([NOUN]() 304, [ADJ]() 1), <em>place</em> ([NOUN]() 282, [VERB]() 23), <em>food</em> ([NOUN]() 225, [PROPN]() 1), <em>way</em> ([NOUN]() 223, [ADV]() 16), <em>number</em> ([NOUN]() 205, [PROPN]() 1, [VERB]() 1), <em>price</em> ([NOUN]() 181, [VERB]() 5), <em>question</em> ([NOUN]() 138, [VERB]() 6), <em>work</em> ([VERB]() 251, [NOUN]() 137), <em>world</em> ([NOUN]() 129, [PROPN]() 2)
+The 10 most frequent ambiguous lemmas: <em>time</em> ([NOUN]() 508, [VERB]() 1), <em>day</em> ([NOUN]() 304, [ADJ]() 1), <em>place</em> ([NOUN]() 282, [VERB]() 23), <em>food</em> ([NOUN]() 225, [PROPN]() 1), <em>way</em> ([NOUN]() 223, [ADV]() 16), <em>number</em> ([NOUN]() 205, [VERB]() 1, [PROPN]() 1), <em>price</em> ([NOUN]() 181, [VERB]() 5), <em>question</em> ([NOUN]() 138, [VERB]() 6), <em>work</em> ([VERB]() 251, [NOUN]() 137), <em>world</em> ([NOUN]() 129, [PROPN]() 2)
 
 The 10 most frequent ambiguous types:  <em>place</em> ([NOUN]() 219, [VERB]() 12), <em>food</em> ([NOUN]() 189, [PROPN]() 1), <em>way</em> ([NOUN]() 205, [ADV]() 15), <em>day</em> ([NOUN]() 186, [ADJ]() 1), <em>number</em> ([NOUN]() 104, [PROPN]() 1), <em>price</em> ([NOUN]() 117, [VERB]() 1), <em>world</em> ([NOUN]() 122, [PROPN]() 2), <em>work</em> ([NOUN]() 126, [VERB]() 125), <em>am</em> ([AUX]() 254, [NOUN]() 30, [VERB]() 4), <em>name</em> ([NOUN]() 103, [VERB]() 9)
 

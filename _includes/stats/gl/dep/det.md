@@ -8,10 +8,10 @@ This relation is universal.
 
 19693 nodes (18%) are attached to their parents as `det`.
 
-19390 instances of `det` (98%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.18209516071701.
+19370 instances of `det` (98%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.20052810643376.
 
-The following 40 pairs of parts of speech are connected with `det`: [gl-pos/NOUN]()-[gl-pos/DET]() (16151; 82% instances), [gl-pos/VERB]()-[gl-pos/DET]() (581; 3% instances), [gl-pos/NUM]()-[gl-pos/DET]() (451; 2% instances), [gl-pos/ADJ]()-[gl-pos/ADV]() (427; 2% instances), [gl-pos/DET]()-[gl-pos/DET]() (405; 2% instances), [gl-pos/ADJ]()-[gl-pos/DET]() (337; 2% instances), [gl-pos/PROPN]()-[gl-pos/DET]() (300; 2% instances), [gl-pos/NOUN]()-[gl-pos/NUM]() (277; 1% instances), [gl-pos/PRON]()-[gl-pos/DET]() (241; 1% instances), [gl-pos/ADP]()-[gl-pos/DET]() (225; 1% instances), [gl-pos/ADV]()-[gl-pos/ADV]() (66; 0% instances), [gl-pos/NOUN]()-[gl-pos/ADV]() (37; 0% instances), [gl-pos/ADV]()-[gl-pos/DET]() (29; 0% instances), [gl-pos/DET]()-[gl-pos/NUM]() (26; 0% instances), [gl-pos/NOUN]()-[gl-pos/PRON]() (25; 0% instances), [gl-pos/NOUN]()-[gl-pos/ADJ]() (24; 0% instances), [gl-pos/NOUN]()-[gl-pos/NOUN]() (21; 0% instances), [gl-pos/NUM]()-[gl-pos/NUM]() (11; 0% instances), [gl-pos/ADV]()-[gl-pos/PART]() (9; 0% instances), [gl-pos/PUNCT]()-[gl-pos/DET]() (9; 0% instances), [gl-pos/ADV]()-[gl-pos/PRON]() (7; 0% instances), [gl-pos/ADJ]()-[gl-pos/PRON]() (4; 0% instances), [gl-pos/PROPN]()-[gl-pos/NUM]() (4; 0% instances), [gl-pos/ADJ]()-[gl-pos/NUM]() (3; 0% instances), [gl-pos/NOUN]()-[gl-pos/PUNCT]() (3; 0% instances), [gl-pos/PUNCT]()-[gl-pos/NUM]() (3; 0% instances), [gl-pos/DET]()-[gl-pos/ADJ]() (2; 0% instances), [gl-pos/NOUN]()-[gl-pos/ADP]() (2; 0% instances), [gl-pos/PROPN]()-[gl-pos/PRON]() (2; 0% instances), [gl-pos/ADJ]()-[gl-pos/PART]() (1; 0% instances), [gl-pos/ADP]()-[gl-pos/PRON]() (1; 0% instances), [gl-pos/DET]()-[gl-pos/PART]() (1; 0% instances), [gl-pos/DET]()-[gl-pos/PUNCT]() (1; 0% instances), [gl-pos/INTJ]()-[gl-pos/DET]() (1; 0% instances), [gl-pos/NUM]()-[gl-pos/ADJ]() (1; 0% instances), [gl-pos/NUM]()-[gl-pos/PUNCT]() (1; 0% instances), [gl-pos/PART]()-[gl-pos/DET]() (1; 0% instances), [gl-pos/PUNCT]()-[gl-pos/ADJ]() (1; 0% instances), [gl-pos/PUNCT]()-[gl-pos/VERB]() (1; 0% instances), [gl-pos/SCONJ]()-[gl-pos/DET]() (1; 0% instances).
+The following 37 pairs of parts of speech are connected with `det`: [gl-pos/NOUN]()-[gl-pos/DET]() (16225; 82% instances), [gl-pos/VERB]()-[gl-pos/DET]() (549; 3% instances), [gl-pos/NUM]()-[gl-pos/DET]() (452; 2% instances), [gl-pos/ADJ]()-[gl-pos/ADV]() (427; 2% instances), [gl-pos/DET]()-[gl-pos/DET]() (405; 2% instances), [gl-pos/ADJ]()-[gl-pos/DET]() (363; 2% instances), [gl-pos/PROPN]()-[gl-pos/DET]() (301; 2% instances), [gl-pos/NOUN]()-[gl-pos/NUM]() (278; 1% instances), [gl-pos/PRON]()-[gl-pos/DET]() (242; 1% instances), [gl-pos/ADP]()-[gl-pos/DET]() (159; 1% instances), [gl-pos/ADV]()-[gl-pos/ADV]() (66; 0% instances), [gl-pos/NOUN]()-[gl-pos/ADV]() (37; 0% instances), [gl-pos/ADV]()-[gl-pos/DET]() (33; 0% instances), [gl-pos/DET]()-[gl-pos/NUM]() (26; 0% instances), [gl-pos/NOUN]()-[gl-pos/PRON]() (26; 0% instances), [gl-pos/NOUN]()-[gl-pos/ADJ]() (24; 0% instances), [gl-pos/NOUN]()-[gl-pos/NOUN]() (21; 0% instances), [gl-pos/NUM]()-[gl-pos/NUM]() (11; 0% instances), [gl-pos/ADV]()-[gl-pos/PART]() (9; 0% instances), [gl-pos/ADV]()-[gl-pos/PRON]() (7; 0% instances), [gl-pos/ADJ]()-[gl-pos/PRON]() (4; 0% instances), [gl-pos/PROPN]()-[gl-pos/NUM]() (4; 0% instances), [gl-pos/ADJ]()-[gl-pos/NUM]() (3; 0% instances), [gl-pos/NOUN]()-[gl-pos/PUNCT]() (3; 0% instances), [gl-pos/DET]()-[gl-pos/ADJ]() (2; 0% instances), [gl-pos/NOUN]()-[gl-pos/ADP]() (2; 0% instances), [gl-pos/NUM]()-[gl-pos/ADJ]() (2; 0% instances), [gl-pos/PROPN]()-[gl-pos/PRON]() (2; 0% instances), [gl-pos/VERB]()-[gl-pos/NUM]() (2; 0% instances), [gl-pos/ADJ]()-[gl-pos/PART]() (1; 0% instances), [gl-pos/DET]()-[gl-pos/PART]() (1; 0% instances), [gl-pos/DET]()-[gl-pos/PUNCT]() (1; 0% instances), [gl-pos/INTJ]()-[gl-pos/DET]() (1; 0% instances), [gl-pos/NUM]()-[gl-pos/PUNCT]() (1; 0% instances), [gl-pos/PART]()-[gl-pos/DET]() (1; 0% instances), [gl-pos/SCONJ]()-[gl-pos/DET]() (1; 0% instances), [gl-pos/VERB]()-[gl-pos/VERB]() (1; 0% instances).
 
 
 ~~~ conllu
@@ -23,7 +23,7 @@ The following 40 pairs of parts of speech are connected with `det`: [gl-pos/NOUN
 1	Para	para	ADP	SPS00	_	0	root	_	Treeler:sentence
 2	que	que	SCONJ	CS	_	4	mark	_	Treeler:conj
 3	tanto	tanto	DET	DI0MS0	_	4	det	_	Treeler:spec
-4	esforzo	esforzo	NOUN	NCMS000	_	1	ccomp	_	Treeler:S
+4	esforzo	esforzo	NOUN	NCMS000	_	1	ccomp	_	SpaceAfter=No|Treeler:S
 5	?	?	PUNCT	Fit	_	1	punct	_	Treeler:f
 
 ~~~
@@ -36,19 +36,19 @@ The following 40 pairs of parts of speech are connected with `det`: [gl-pos/NOUN
 # visual-style 5	fgColor:white
 # visual-style 5 1 det	color:blue
 1	Ningunha	ningún	DET	DI0FS0	_	5	det	_	Treeler:spec
-2	de	de	ADP	SPS00	_	1	case	_	Treeler:s
-3	elas	el	PRON	PP3FP000	_	2	nmod	_	Treeler:sn
-4	se	se	PRON	PP3CN000	_	5	dobj	_	Treeler:cd
+2	de	de	ADP	SPS00	_	3	case	_	Treeler:s
+3	elas	el	PRON	PP3FP000	_	1	nmod	_	Treeler:sn
+4	se	se	PRON	PP3CN000	_	5	obj	_	Treeler:cd
 5	chegou	chegar	VERB	VMIS3S0	_	0	root	_	Treeler:sentence
-6	a	a	ADP	SPS00	_	5	case	_	Treeler:creg
-7	instalar	instalar	VERB	VMN0000	_	6	ccomp	_	Treeler:S
-8	por	por	ADP	SPS00	_	7	case	_	Treeler:cc
+6	a	a	ADP	SPS00	_	7	case	_	Treeler:creg
+7	instalar	instalar	VERB	VMN0000	_	5	ccomp	_	Treeler:S
+8	por	por	ADP	SPS00	_	10	case	_	Treeler:cc
 9	a	o	DET	DA0FS0	_	10	det	_	Treeler:spec
-10	oposición	oposición	NOUN	NCFS000	_	8	nmod	_	Treeler:sn
+10	oposición	oposición	NOUN	NCFS000	_	7	obl	_	Treeler:sn
 11	directa	directo	ADJ	AQ0FS0	_	10	amod	_	Treeler:s.a
-12	de	de	ADP	SPS00	_	10	case	_	Treeler:sp
+12	de	de	ADP	SPS00	_	14	case	_	Treeler:sp
 13	a	o	DET	DA0FS0	_	14	det	_	Treeler:spec
-14	poboación	poboación	NOUN	NCFS000	_	12	nmod	_	Treeler:sn
+14	poboación	poboación	NOUN	NCFS000	_	10	nmod	_	SpaceAfter=No|Treeler:sn
 15	.	.	PUNCT	Fp	_	5	punct	_	Treeler:f
 
 ~~~
@@ -63,26 +63,26 @@ The following 40 pairs of parts of speech are connected with `det`: [gl-pos/NOUN
 1	A	o	DET	DA0FS0	_	3	det	_	Treeler:spec
 2	súa	seu	DET	DP3FS0	_	3	det	_	Treeler:spec
 3	taxa	taxa	NOUN	NCFS000	_	6	nsubj	_	Treeler:suj
-4	de	de	ADP	SPS00	_	3	case	_	Treeler:sp
-5	crecemento	crecemento	NOUN	NCMS000	_	4	nmod	_	Treeler:sn
+4	de	de	ADP	SPS00	_	5	case	_	Treeler:sp
+5	crecemento	crecemento	NOUN	NCMS000	_	3	nmod	_	Treeler:sn
 6	sitúa	situar	VERB	VMIP3S0	_	0	root	_	Treeler:sentence
 7	se	se	PRON	PP3CN000	_	6	dep	_	Treeler:morfema.pronominal
-8	en	en	ADP	SPS00	_	6	case	_	Treeler:cc
+8	en	en	ADP	SPS00	_	10	case	_	Treeler:cc
 9	o	o	DET	DA0MS0	_	10	det	_	Treeler:spec
-10	4,1	4,1	NUM	Z	_	8	nmod	_	Treeler:sn
+10	4,1	4,1	NUM	Z	_	6	obl	_	Treeler:sn
 11	%	%	SYM	Ft	_	10	nmod	_	Treeler:sn
-12	e	e	CONJ	CC	_	6	cc	_	Treeler:coord
+12	e	e	CCONJ	CC	_	6	cc	_	ToDo=cc-without-conj|Treeler:coord
 13	a	o	DET	DA0FS0	_	15	det	_	Treeler:spec
 14	súa	seu	DET	DP3FS0	_	15	det	_	Treeler:spec
 15	contribución	contribución	NOUN	NCFS000	_	19	nsubj	_	Treeler:suj
-16	a	a	ADP	SPS00	_	15	case	_	Treeler:sp
+16	a	a	ADP	SPS00	_	18	case	_	Treeler:sp
 17	o	o	DET	DA0MS0	_	18	det	_	Treeler:spec
-18	PIB	pib	PROPN	NP00000	_	16	nmod	_	Treeler:sn
+18	PIB	pib	PROPN	NP00000	_	15	nmod	_	Treeler:sn
 19	cifra	cifrar	VERB	VMIP3S0	_	6	ccomp	_	Treeler:S
 20	se	se	PRON	PP3CN000	_	19	dep	_	Treeler:morfema.pronominal
-21	en	en	ADP	SPS00	_	19	case	_	Treeler:cc
+21	en	en	ADP	SPS00	_	23	case	_	Treeler:cc
 22	0,3	0,3	NUM	Z	_	23	det	_	Treeler:spec
-23	puntos	punto	NOUN	NCMP000	_	21	nmod	_	Treeler:sn
+23	puntos	punto	NOUN	NCMP000	_	19	obl	_	SpaceAfter=No|Treeler:sn
 24	.	.	PUNCT	Fp	_	6	punct	_	Treeler:f
 
 ~~~

@@ -16,7 +16,7 @@ The feature is used with 2 part-of-speech tags: [bg-pos/VERB]() (13083; 9% insta
 
 13083 [bg-pos/VERB]() tokens (84% of all `VERB` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (13070; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (13068; 100%), <tt><a href="Definite.html">Definite</a>=EMPTY</tt> (13068; 100%), <tt><a href="Voice.html">Voice</a>=Act</tt> (12832; 98%), <tt><a href="Person.html">Person</a>=3</tt> (10650; 81%), <tt><a href="Number.html">Number</a>=Sing</tt> (9192; 70%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (8879; 68%), <tt><a href="Aspect.html">Aspect</a>=Imp</tt> (7580; 58%).
+The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (13070; 100%), <tt><a href="Definite.html">Definite</a>=EMPTY</tt> (13068; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (13068; 100%), <tt><a href="Voice.html">Voice</a>=Act</tt> (12832; 98%), <tt><a href="Person.html">Person</a>=3</tt> (10650; 81%), <tt><a href="Number.html">Number</a>=Sing</tt> (9192; 70%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (8879; 68%), <tt><a href="Aspect.html">Aspect</a>=Imp</tt> (7580; 58%).
 
 `VERB` tokens may have the following values of `Mood`:
 

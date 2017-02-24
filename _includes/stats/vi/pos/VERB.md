@@ -11,9 +11,9 @@ The 10 most frequent `VERB` lemmas: <em>có, được, đi, phải, biết, làm
 
 The 10 most frequent `VERB` types:  <em>có, được, đi, phải, biết, làm, nói, bị, về, cho</em>
 
-The 10 most frequent ambiguous lemmas: <em>có</em> ([VERB]() 330, [X]() 15, [PART]() 2), <em>được</em> ([VERB]() 148, [X]() 92, [ADJ]() 1, [PART]() 1), <em>đi</em> ([VERB]() 142, [X]() 10, [PART]() 2), <em>phải</em> ([VERB]() 125, [ADJ]() 17), <em>bị</em> ([VERB]() 86, [X]() 1), <em>về</em> ([ADP]() 83, [VERB]() 78, [X]() 16), <em>cho</em> ([ADP]() 118, [VERB]() 72, [X]() 3), <em>đến</em> ([ADP]() 103, [VERB]() 71, [X]() 14, [PART]() 7), <em>học</em> ([VERB]() 68, [NOUN]() 1), <em>ra</em> ([X]() 67, [VERB]() 52, [ADP]() 5)
+The 10 most frequent ambiguous lemmas: <em>có</em> ([VERB]() 330, [X]() 15, [PART]() 2), <em>được</em> ([VERB]() 148, [X]() 92, [PART]() 1, [ADJ]() 1), <em>đi</em> ([VERB]() 142, [X]() 10, [PART]() 2), <em>phải</em> ([VERB]() 125, [ADJ]() 17), <em>bị</em> ([VERB]() 86, [X]() 1), <em>về</em> ([ADP]() 83, [VERB]() 78, [X]() 16), <em>cho</em> ([ADP]() 118, [VERB]() 72, [X]() 3), <em>đến</em> ([ADP]() 103, [VERB]() 71, [X]() 14, [PART]() 7), <em>học</em> ([VERB]() 68, [NOUN]() 1), <em>ra</em> ([X]() 67, [VERB]() 52, [ADP]() 5)
 
-The 10 most frequent ambiguous types:  <em>có</em> ([VERB]() 330, [X]() 15, [PART]() 2), <em>được</em> ([VERB]() 148, [X]() 92, [ADJ]() 1, [PART]() 1), <em>đi</em> ([VERB]() 142, [X]() 10, [PART]() 2), <em>phải</em> ([VERB]() 125, [ADJ]() 17), <em>bị</em> ([VERB]() 86, [X]() 1), <em>về</em> ([ADP]() 83, [VERB]() 78, [X]() 16), <em>cho</em> ([ADP]() 118, [VERB]() 72, [X]() 3), <em>đến</em> ([ADP]() 103, [VERB]() 71, [X]() 14, [PART]() 7), <em>học</em> ([VERB]() 68, [NOUN]() 1), <em>ra</em> ([X]() 67, [VERB]() 52, [ADP]() 5)
+The 10 most frequent ambiguous types:  <em>có</em> ([VERB]() 330, [X]() 15, [PART]() 2), <em>được</em> ([VERB]() 148, [X]() 92, [PART]() 1, [ADJ]() 1), <em>đi</em> ([VERB]() 142, [X]() 10, [PART]() 2), <em>phải</em> ([VERB]() 125, [ADJ]() 17), <em>bị</em> ([VERB]() 86, [X]() 1), <em>về</em> ([ADP]() 83, [VERB]() 78, [X]() 16), <em>cho</em> ([ADP]() 118, [VERB]() 72, [X]() 3), <em>đến</em> ([ADP]() 103, [VERB]() 71, [X]() 14, [PART]() 7), <em>học</em> ([VERB]() 68, [NOUN]() 1), <em>ra</em> ([X]() 67, [VERB]() 52, [ADP]() 5)
 
 
 * <em>có</em>
@@ -23,8 +23,8 @@ The 10 most frequent ambiguous types:  <em>có</em> ([VERB]() 330, [X]() 15, [PA
 * <em>được</em>
   * [VERB]() 148: <em>Và tôi <b>được</b> cử sang VN để giúp người VN chống phát xít Nhật .</em>
   * [X]() 92: <em>Nếu Tùng học <b>được</b> hai tuần nghiêm túc thì mẹ mua xe .</em>
-  * [ADJ]() 1: <em>bởi rứa mình bàn với đám trai trẻ : hay là dân mình phải học cho <b>được</b> cái nghề ni ?</em>
   * [PART]() 1: <em>việc này liên quan nhiều khâu , qua khâu khác là của người khác , không sờ mó tới <b>được</b> " .</em>
+  * [ADJ]() 1: <em>bởi rứa mình bàn với đám trai trẻ : hay là dân mình phải học cho <b>được</b> cái nghề ni ?</em>
 * <em>đi</em>
   * [VERB]() 142: <em>sau đó cảnh sát Pháp bắt tôi và dẫn tôi <b>đi</b> giam ở nhà giam Tours ...</em>
   * [X]() 10: <em>vợ mình sợ quá , ngất lịm <b>đi</b> .</em>

@@ -47,7 +47,7 @@ The most frequent other feature values with which `DET` and `Gender` co-occurred
 <table>
   <tr><th>Paradigm <i>il</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>
   <tr><td><tt><a href="Definite.html">Definite</a>=Def</tt></td><td></td><td><em>l’</em></td></tr>
-  <tr><td><tt><a href="Definite.html">Definite</a>=Def|<a href="Number.html">Number</a>=Sing|<a href="PronType.html">PronType</a>=Art</tt></td><td><em>il, lo, l’, l', i1, lu</em></td><td><em>la, l’, l', le, il</em></td></tr>
+  <tr><td><tt><a href="Definite.html">Definite</a>=Def|<a href="Number.html">Number</a>=Sing|<a href="PronType.html">PronType</a>=Art</tt></td><td><em>il, lo, l’, l', lu, i1</em></td><td><em>la, l', l’, le, il</em></td></tr>
   <tr><td><tt><a href="Definite.html">Definite</a>=Def|<a href="Number.html">Number</a>=Plur|<a href="PronType.html">PronType</a>=Art</tt></td><td><em>i, gli, il</em></td><td><em>le, l’</em></td></tr>
   <tr><td><tt><a href="Number.html">Number</a>=Sing</tt></td><td><em>il</em></td><td><em>la</em></td></tr>
 </table>
@@ -114,7 +114,7 @@ The most frequent other feature values with which `PRON` and `Gender` co-occurre
 
 715 [it-pos/AUX]() tokens (6% of all `AUX` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `AUX` and `Gender` co-occurred: <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (715; 100%), <tt><a href="Tense.html">Tense</a>=Past</tt> (715; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (715; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (715; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (544; 76%).
+The most frequent other feature values with which `AUX` and `Gender` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (715; 100%), <tt><a href="Tense.html">Tense</a>=Past</tt> (715; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (715; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (715; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (544; 76%).
 
 `AUX` tokens may have the following values of `Gender`:
 
@@ -137,15 +137,6 @@ The most frequent other feature values with which `AUX` and `Gender` co-occurred
 * `Masc` (2; 100% of non-empty `Gender`): <em>del, du</em>
 * `EMPTY` (42940): <em>di, a, in, da, per, con, su, come, ad, tra</em>
 
-### `PROPN`
-
-1 [it-pos/PROPN]() tokens (0% of all `PROPN` tokens) have a non-empty value of `Gender`.
-
-`PROPN` tokens may have the following values of `Gender`:
-
-* `Fem` (1; 100% of non-empty `Gender`): <em>hye</em>
-* `EMPTY` (13891): <em>Italia, Shakespeare, Balzac, Europa, San, Roma, Stati, Uniti, Albania, Marco</em>
-
 ### `ADV`
 
 1 [it-pos/ADV]() tokens (0% of all `ADV` tokens) have a non-empty value of `Gender`.
@@ -156,6 +147,15 @@ The most frequent other feature values with which `ADV` and `Gender` co-occurred
 
 * `Masc` (1; 100% of non-empty `Gender`): <em>pochissimo</em>
 * `EMPTY` (10815): <em>non, più, anche, dove, come, quando, solo, prima, sempre, poi</em>
+
+### `PROPN`
+
+1 [it-pos/PROPN]() tokens (0% of all `PROPN` tokens) have a non-empty value of `Gender`.
+
+`PROPN` tokens may have the following values of `Gender`:
+
+* `Fem` (1; 100% of non-empty `Gender`): <em>hye</em>
+* `EMPTY` (13891): <em>Italia, Shakespeare, Balzac, Europa, San, Roma, Stati, Uniti, Albania, Marco</em>
 
 ### `X`
 
@@ -255,7 +255,7 @@ The most frequent other feature values with which `ADJ` and `Gender` co-occurred
 
 1101 [it-pos/VERB]() tokens (30% of all `VERB` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `VERB` and `Gender` co-occurred: <tt><a href="Person.html">Person</a>=EMPTY</tt> (1101; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (1101; 100%), <tt><a href="Tense.html">Tense</a>=Past</tt> (1101; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (1101; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (726; 66%).
+The most frequent other feature values with which `VERB` and `Gender` co-occurred: <tt><a href="Person.html">Person</a>=EMPTY</tt> (1101; 100%), <tt><a href="Tense.html">Tense</a>=Past</tt> (1101; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (1101; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (1101; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (726; 66%).
 
 `VERB` tokens may have the following values of `Gender`:
 
@@ -290,7 +290,7 @@ The most frequent other feature values with which `PRON` and `Gender` co-occurre
 
 113 [it-pos/AUX]() tokens (7% of all `AUX` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `AUX` and `Gender` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (113; 100%), <tt><a href="Tense.html">Tense</a>=Past</tt> (113; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (113; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (113; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (78; 69%).
+The most frequent other feature values with which `AUX` and `Gender` co-occurred: <tt><a href="Tense.html">Tense</a>=Past</tt> (113; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (113; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (113; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (113; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (78; 69%).
 
 `AUX` tokens may have the following values of `Gender`:
 
@@ -304,15 +304,6 @@ The most frequent other feature values with which `AUX` and `Gender` co-occurred
   <tr><td><tt><a href="Number.html">Number</a>=Plur</tt></td><td><em>stati</em></td><td><em>state</em></td></tr>
 </table>
 
-### `ADP`
-
-1 [it-pos/ADP]() tokens (0% of all `ADP` tokens) have a non-empty value of `Gender`.
-
-`ADP` tokens may have the following values of `Gender`:
-
-* `Masc` (1; 100% of non-empty `Gender`): <em>du</em>
-* `EMPTY` (6857): <em>di, a, in, per, da, su, con, come, ad, tra</em>
-
 ### `PROPN`
 
 1 [it-pos/PROPN]() tokens (0% of all `PROPN` tokens) have a non-empty value of `Gender`.
@@ -321,6 +312,15 @@ The most frequent other feature values with which `AUX` and `Gender` co-occurred
 
 * `Fem` (1; 100% of non-empty `Gender`): <em>hye</em>
 * `EMPTY` (1724): <em>Shakespeare, Balzac, Ucraina, Europa, Facebook, Pericle, Stati, Uniti, Cina, John</em>
+
+### `ADP`
+
+1 [it-pos/ADP]() tokens (0% of all `ADP` tokens) have a non-empty value of `Gender`.
+
+`ADP` tokens may have the following values of `Gender`:
+
+* `Masc` (1; 100% of non-empty `Gender`): <em>du</em>
+* `EMPTY` (6857): <em>di, a, in, per, da, su, con, come, ad, tra</em>
 
 ## Relations with Agreement in `Gender`
 

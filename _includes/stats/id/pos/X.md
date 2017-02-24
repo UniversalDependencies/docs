@@ -13,7 +13,7 @@ The 10 most frequent `X` types:  <em>jpg, an, www, anti, b, s, x, y, &amp;nbsp, 
 
 The 10 most frequent ambiguous lemmas: <em>_</em> ([NOUN]() 24724, [PROPN]() 20630, [PUNCT]() 16504, [VERB]() 10952, [ADP]() 10866, [ADV]() 4270, [ADJ]() 4144, [NUM]() 3979, [PRON]() 3936, [DET]() 3594, [CCONJ]() 3284, [SCONJ]() 1333, [AUX]() 960, [PART]() 541, [SYM]() 388, [X]() 38)
 
-The 10 most frequent ambiguous types:  <em>an</em> ([NUM]() 36, [DET]() 9, [PROPN]() 8, [X]() 3), <em>anti</em> ([NOUN]() 7, [ADJ]() 5, [X]() 2), <em>b</em> ([NOUN]() 2, [X]() 2, [PROPN]() 1), <em>s</em> ([ADP]() 2, [X]() 2, [NOUN]() 1), <em>x</em> ([PROPN]() 5, [X]() 2), <em>&amp;nbsp</em> ([NOUN]() 1, [X]() 1, [PUNCT]() 1), <em>d</em> ([ADP]() 2, [PROPN]() 1, [X]() 1, [NOUN]() 1), <em>di</em> ([ADP]() 1989, [VERB]() 11, [CCONJ]() 7, [SCONJ]() 3, [PROPN]() 2, [X]() 1), <em>ke</em> ([ADP]() 319, [NUM]() 55, [DET]() 8, [X]() 1, [VERB]() 1), <em>org</em> ([NOUN]() 1, [X]() 1)
+The 10 most frequent ambiguous types:  <em>an</em> ([NUM]() 36, [DET]() 9, [PROPN]() 8, [X]() 3), <em>anti</em> ([NOUN]() 7, [ADJ]() 5, [X]() 2), <em>b</em> ([X]() 2, [NOUN]() 2, [PROPN]() 1), <em>s</em> ([ADP]() 2, [X]() 2, [NOUN]() 1), <em>x</em> ([PROPN]() 5, [X]() 2), <em>&amp;nbsp</em> ([X]() 1, [NOUN]() 1, [PUNCT]() 1), <em>d</em> ([ADP]() 2, [PROPN]() 1, [X]() 1, [NOUN]() 1), <em>di</em> ([ADP]() 1989, [VERB]() 11, [CCONJ]() 7, [SCONJ]() 3, [PROPN]() 2, [X]() 1), <em>ke</em> ([ADP]() 319, [NUM]() 55, [DET]() 8, [X]() 1, [VERB]() 1), <em>org</em> ([X]() 1, [NOUN]() 1)
 
 
 * <em>an</em>
@@ -26,8 +26,8 @@ The 10 most frequent ambiguous types:  <em>an</em> ([NUM]() 36, [DET]() 9, [PROP
   * [ADJ]() 5: <em>M37 terletak di arah <b>anti</b> pusat , berlawanan dengan pusat galaksi jika dilihat dari bumi .</em>
   * [X]() 2: <em>Produk adisi akan <b>anti</b> terhadap metil dan sin terhadap gugus hidroksil .</em>
 * <em>b</em>
-  * [NOUN]() 2: <em>Dengan mengetik secara acak , peluang huruf pertama yang diketik merupakan <b>b</b> adalah 1 / 50 , dan kemungkinan huruf ke dua yang diketik merupakan a juga adalah 1 / 50 , dst .</em>
   * [X]() 2: <em><b>b</b> . Dinas Daerah dipimpin oleh seorang Kepala Dinas yang berada dibawah dan tanggung jawab kepada Bupati Kepala Daerah .</em>
+  * [NOUN]() 2: <em>Dengan mengetik secara acak , peluang huruf pertama yang diketik merupakan <b>b</b> adalah 1 / 50 , dan kemungkinan huruf ke dua yang diketik merupakan a juga adalah 1 / 50 , dst .</em>
   * [PROPN]() 1: <em>Untuk melaksanakan tugas pokok tersebut Dinas Tenaga Kerja Dan Transmigrasi Kabupaten Ogan Komering Ilir berfungsi merumuskan kebijaksanaan sistem kesehatan Kabupaten dan melaksanakan kegiatan teknis operasional di bidang kesehatan , yang di laksanakan oleh Pemerintah di Kabupaten Ogan Komering Ilir . Dinas ini berada dibawah dan bertanggung jawab langsung kepada Bupati Ogan Komering Ilir . Maksud dan tujuan pembentukan Dinas Tenaga Kerja Dan Transmigrasi Kabupaten Ogan Komering Ilir , sebagaimana tercantum dalam peraturan Daerah Kabupaten Ogan Komering Ilir , Nomor 9 Tahun 2002 yaitu : a . Bahwa untuk meningkatkan dan mengembangkan bidang Kesehatan yang telah dilaksanakan di Kabupaten Ogan Komering Ilir , telah dibentuk Dinas Tenaga Kerja Dan Transmigrasi Kabupaten Ogan Komering Ilir . <b>b</b> . Bahwa agar Dinas Tenaga Kerja Dan Transmigrasi Kabupaten Ogan Komering Ilir dapat melaksakan tugasnya secara berdaya guna dan berhasil dipandang perlu untuk menetapkan susunan Organisasi dan Tata Kerja Dinas Tenaga Kerja Dan Transmigrasi Kabupaten Ogan Komering Ilir . 1 . Kedudukan , Tugas Pokok , dan Fungsi .</em>
 * <em>s</em>
   * [ADP]() 2: <em>Kabupaten ini terkenal dengan hasil cengkehnya dimasa lalu era tahun 1970 <b>s</b> / d 1990 .</em>
@@ -37,8 +37,8 @@ The 10 most frequent ambiguous types:  <em>an</em> ([NUM]() 36, [DET]() 9, [PROP
   * [PROPN]() 5: <em>MAJT memiliki koleksi Al Quran raksasa berukuran 145 <b>x</b> 95 cm² .</em>
   * [X]() 2: <em>Revisi standar selanjutnya 1 . <b>x</b> diperbolehkan 4 bit untuk menunjukkan 1024 atau 2048 byte per blok dan menghasilkan sampai 4 gigabyte penyimpanan memori .</em>
 * <em>&amp;nbsp</em>
-  * [NOUN]() 1: <em>Tenggelamnya RMS Titanic terjadi pada malam 14 April sampai pagi 15 April 1912 di Samudra Atlantik Utara , empat hari setelah berangkat dari Southampton dalam pelayaran perdananya menuju New York City . Kapal super terbesar yang beroperasi pada masa itu , Titanic , mengangkut sekitar 2.224 <b>&amp;nbsp</b> ; orang ketika menabrak gunung es pada pukul 23 : 40 ( waktu kapal ) pada hari Minggu , 14&amp;nbsp ; April 1912 .</em>
   * [X]() 1: <em>Kota ini memiliki luas wilayah 3.849 <b>&amp;nbsp</b> ; km² dan populasi 17.440 jiwa ( 2004 ) .</em>
+  * [NOUN]() 1: <em>Tenggelamnya RMS Titanic terjadi pada malam 14 April sampai pagi 15 April 1912 di Samudra Atlantik Utara , empat hari setelah berangkat dari Southampton dalam pelayaran perdananya menuju New York City . Kapal super terbesar yang beroperasi pada masa itu , Titanic , mengangkut sekitar 2.224 <b>&amp;nbsp</b> ; orang ketika menabrak gunung es pada pukul 23 : 40 ( waktu kapal ) pada hari Minggu , 14&amp;nbsp ; April 1912 .</em>
   * [PUNCT]() 1: <em>Luas total area adalah 65.75 <b>&amp;nbsp</b> ; km² .</em>
 * <em>d</em>
   * [ADP]() 2: <em>Kabupaten ini terkenal dengan hasil cengkehnya dimasa lalu era tahun 1970 s / <b>d</b> 1990 .</em>
@@ -59,8 +59,8 @@ The 10 most frequent ambiguous types:  <em>an</em> ([NUM]() 36, [DET]() 9, [PROP
   * [X]() 1: <em>Gusti Prabhu Danurejo memiliki permasyuri Mas Ayu Gendhing dari perkawinan tersebut memiliki Putra : Sementara dari selir ( kakak Ipar Gusti Agung Mengwi / Raja Mengwi ) beliau berputra : Karena kacaunya perang saudara Pangeran Gung Dupati dan Pangeran Mas Sirno diungsikan sampai perang mereda dan Pangerang Gung Dupati diangkat Menjadi Raja Blambangan yang bergelar Sinuhun Gusti Prabhu Danuningrat memerintah Blambangan Kedhaton Macan putih pada tahun 1736 - 1763 Di akhir abad <b>ke</b> - 18 , setelah terjadi perang Puputan Bayu 1771 VOC mengisi kekosongan pemerintahan dan menggabungkan Blambangan kedalam karisidenan Besuki , dan mengangkat Mas Alit sebagai KRT Wiroguno sebagai Bupati Pertama dimulai dari KRT Wiroguno inilah dinasti Kerajaan Blambangan secara pasti dan terpercaya telah memeluk Islam , generasi diatas KRT Wiroguno tidak terdapat sumber terpercaya telah memeluk Agama Islam .</em>
   * [VERB]() 1: <em>Sekitar lima menit berada di dalam Kantor PDI , lima utusan tadi <b>ke</b> luar .</em>
 * <em>org</em>
-  * [NOUN]() 1: <em>Diluar hal itu , situs Wikipedia . <b>org</b> memastikan bahwa WZ - 10 secara resmi dioperasikan oleh Tentara Pembebasan Rakyat ( China ) pada bulan Desember 2010 .</em>
   * [X]() 1: <em>Namanya adalah sebuah variasi istilah musik Italia con dolcezza yang merupakan petunjuk untuk bermain “ dengan manis ” . http : / / www . wnyc . <b>org</b> / legacy / shows / madaboutmusic / madabout_transcript090701 . html Rice masih berusia delapan tahun ketika teman sekolahnya Denise McNair terbunuh dalam pemboman Gereja Baptis Sixteenth Street , yang jemaatnya mayoritas merupakan orang Afrika - Amerika , oleh para pendukung keunggulan bangsa kulit putih pada 15 September 1963 .</em>
+  * [NOUN]() 1: <em>Diluar hal itu , situs Wikipedia . <b>org</b> memastikan bahwa WZ - 10 secara resmi dioperasikan oleh Tentara Pembebasan Rakyat ( China ) pada bulan Desember 2010 .</em>
 
 ## Morphology
 

@@ -5,7 +5,7 @@
 ## Treebank Statistics (UD_Galician)
 
 There are 10 `SCONJ` lemmas (0%), 10 `SCONJ` types (0%) and 1253 `SCONJ` tokens (1%).
-Out of 15 observed tags, the rank of `SCONJ` is: 12 in number of lemmas, 12 in number of types and 12 in number of tokens.
+Out of 16 observed tags, the rank of `SCONJ` is: 12 in number of lemmas, 13 in number of types and 12 in number of tokens.
 
 The 10 most frequent `SCONJ` lemmas: <em>que, como, se, coma, porque, pois, ca, mentres, malia, cando</em>
 
@@ -40,7 +40,7 @@ The 10 most frequent ambiguous types:  <em>que</em> ([PRON]() 1500, [SCONJ]() 93
 
 ## Morphology
 
-The form / lemma ratio of `SCONJ` is 1.000000 (the average of all parts of speech is 1.505536).
+The form / lemma ratio of `SCONJ` is 1.000000 (the average of all parts of speech is 1.508250).
 
 The 1st highest number of forms (1) was observed with the lemma “ca”: <em>ca</em>.
 
@@ -53,23 +53,23 @@ The 3rd highest number of forms (1) was observed with the lemma “coma”: <em>
 
 ## Relations
 
-`SCONJ` nodes are attached to their parents using 4 different relations: [gl-dep/mark]() (1175; 94% instances), [gl-dep/case]() (58; 5% instances), [gl-dep/cc]() (13; 1% instances), [gl-dep/cop]() (7; 1% instances)
+`SCONJ` nodes are attached to their parents using 6 different relations: [gl-dep/mark]() (1175; 94% instances), [gl-dep/case]() (58; 5% instances), [gl-dep/cc]() (13; 1% instances), [gl-dep/xcomp]() (4; 0% instances), [gl-dep/ccomp]() (2; 0% instances), [gl-dep/root]() (1; 0% instances)
 
-Parents of `SCONJ` nodes belong to 9 different parts of speech: [VERB]() (1091; 87% instances), [NOUN]() (66; 5% instances), [ADP]() (63; 5% instances), [ADJ]() (13; 1% instances), [ADV]() (8; 1% instances), [PROPN]() (7; 1% instances), [NUM]() (2; 0% instances), [PRON]() (2; 0% instances), [PART]() (1; 0% instances)
+Parents of `SCONJ` nodes belong to 11 different parts of speech: [VERB]() (895; 71% instances), [NOUN]() (149; 12% instances), [ADJ]() (129; 10% instances), [ADP]() (49; 4% instances), [ADV]() (13; 1% instances), [PROPN]() (7; 1% instances), [NUM]() (4; 0% instances), [PRON]() (4; 0% instances), [PART]() (1; 0% instances), [ROOT]() (1; 0% instances), [SCONJ]() (1; 0% instances)
 
-1168 (93%) `SCONJ` nodes are leaves.
+1164 (93%) `SCONJ` nodes are leaves.
 
-35 (3%) `SCONJ` nodes have one child.
+34 (3%) `SCONJ` nodes have one child.
 
-14 (1%) `SCONJ` nodes have two children.
+17 (1%) `SCONJ` nodes have two children.
 
-36 (3%) `SCONJ` nodes have three or more children.
+38 (3%) `SCONJ` nodes have three or more children.
 
-The highest child degree of a `SCONJ` node is 4.
+The highest child degree of a `SCONJ` node is 12.
 
-Children of `SCONJ` nodes are attached using 8 different relations: [gl-dep/punct]() (67; 37% instances), [gl-dep/nmod]() (51; 28% instances), [gl-dep/advmod]() (49; 27% instances), [gl-dep/ccomp]() (5; 3% instances), [gl-dep/case]() (4; 2% instances), [gl-dep/amod]() (2; 1% instances), [gl-dep/cc]() (1; 1% instances), [gl-dep/det]() (1; 1% instances)
+Children of `SCONJ` nodes are attached using 12 different relations: [gl-dep/punct]() (72; 36% instances), [gl-dep/nmod]() (57; 28% instances), [gl-dep/advmod]() (49; 24% instances), [gl-dep/ccomp]() (7; 3% instances), [gl-dep/case]() (3; 1% instances), [gl-dep/cop]() (3; 1% instances), [gl-dep/nsubj]() (3; 1% instances), [gl-dep/amod]() (2; 1% instances), [gl-dep/aux]() (2; 1% instances), [gl-dep/cc]() (2; 1% instances), [gl-dep/det]() (1; 0% instances), [gl-dep/xcomp]() (1; 0% instances)
 
-Children of `SCONJ` nodes belong to 10 different parts of speech: [PUNCT]() (65; 36% instances), [ADV]() (48; 27% instances), [NOUN]() (42; 23% instances), [ADJ]() (7; 4% instances), [ADP]() (5; 3% instances), [DET]() (5; 3% instances), [VERB]() (5; 3% instances), [CONJ]() (1; 1% instances), [NUM]() (1; 1% instances), [PRON]() (1; 1% instances)
+Children of `SCONJ` nodes belong to 13 different parts of speech: [PUNCT]() (70; 35% instances), [NOUN]() (51; 25% instances), [ADV]() (48; 24% instances), [VERB]() (8; 4% instances), [ADJ]() (7; 3% instances), [DET]() (5; 2% instances), [ADP]() (3; 1% instances), [AUX]() (3; 1% instances), [CCONJ]() (2; 1% instances), [NUM]() (2; 1% instances), [PRON]() (1; 0% instances), [PROPN]() (1; 0% instances), [SCONJ]() (1; 0% instances)
 
 
 

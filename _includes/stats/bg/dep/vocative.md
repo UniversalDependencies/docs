@@ -49,18 +49,18 @@ The following 12 pairs of parts of speech are connected with `vocative`: [bg-pos
 
 
 ~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 1 vocative	color:blue
-1	Нейков	нейков	PROPN	Hmsi	Definite=Ind|Gender=Masc|Number=Sing	3	vocative	_	SpaceAfter=No
-2	,	,	PUNCT	punct	_	1	punct	_	_
-3	къде	къде	ADV	Pil	PronType=Int	0	root	_	_
-4	са	съм	AUX	Vxitf-r3p	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	cop	_	_
-5	ни	аз	PRON	Ppetsp1	Number=Plur|Person=1|PronType=Prs	3	expl	_	_
-6	парите	пара	NOUN	Ncfpd	Definite=Def|Gender=Fem|Number=Plur	3	nsubj	_	SpaceAfter=No
-7	?	?	PUNCT	punct	_	3	punct	_	_
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 6 vocative	color:blue
+1	Всичко	всеки	PRON	Pce-os-n	Case=Nom|Gender=Neut|Number=Sing|PronType=Tot	4	nsubj	_	_
+2	си	се	PRON	Ppxtd	Case=Dat|PronType=Prs|Reflex=Yes	4	expl	_	_
+3	е	съм	AUX	Vxitf-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	aux	_	_
+4	струвало	струва-(си)	VERB	Vniicao-sni	Aspect=Imp|Definite=Ind|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	SpaceAfter=No
+5	,	,	PUNCT	punct	_	6	punct	_	_
+6	скъпа	скъп	ADJ	Afsi	Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	4	vocative	_	SpaceAfter=No
+7	.	.	PUNCT	punct	_	4	punct	_	_
 
 ~~~
 

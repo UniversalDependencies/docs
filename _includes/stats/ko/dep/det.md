@@ -126,23 +126,6 @@ The following 9 pairs of parts of speech are connected with `det`: [ko-pos/NOUN]
 # visual-style 2	fgColor:white
 # visual-style 2 1 det	color:blue
 1	_	_	DET	_	_	2	det	_	_
-2	_	_	X	_	_	5	foreign	_	_
-3	_	_	PART	_	_	2	case	_	_
-4	_	_	ADV	_	_	5	advmod	_	_
-5	_	_	NUM	_	_	0	root	_	_
-6	_	_	PART	_	_	5	case	_	_
-7	_	_	PUNCT	_	_	6	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 1 det	color:blue
-1	_	_	DET	_	_	2	det	_	_
 2	_	_	PROPN	_	_	4	acl	_	_
 3	_	_	PART	_	_	2	case	_	_
 4	_	_	NOUN	_	_	7	dobj	_	_
@@ -168,6 +151,23 @@ The following 9 pairs of parts of speech are connected with `det`: [ko-pos/NOUN]
 24	_	_	VERB	_	_	0	root	_	_
 25	_	_	PART	_	_	24	case	_	_
 26	_	_	PUNCT	_	_	25	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 1 det	color:blue
+1	_	_	DET	_	_	2	det	_	_
+2	_	_	X	_	_	5	foreign	_	_
+3	_	_	PART	_	_	2	case	_	_
+4	_	_	ADV	_	_	5	advmod	_	_
+5	_	_	NUM	_	_	0	root	_	_
+6	_	_	PART	_	_	5	case	_	_
+7	_	_	PUNCT	_	_	6	punct	_	_
 
 ~~~
 

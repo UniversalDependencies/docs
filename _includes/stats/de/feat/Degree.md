@@ -29,7 +29,7 @@ The most frequent other feature values with which `ADJ` and `Degree` co-occurred
 
 <table>
   <tr><th>Paradigm <i>gut</i></th><th><tt>Cmp,Pos</tt></th><th><tt>Pos</tt></th><th><tt>Cmp</tt></th><th><tt>Sup</tt></th></tr>
-  <tr><td><tt>_</tt></td><td><em>guter</em></td><td><em>gut, gute, gutes, guten, gutem</em></td><td><em>besser, bessere, besserer</em></td><td><em>besten, beste, bester, bestes</em></td></tr>
+  <tr><td><tt>_</tt></td><td><em>guter</em></td><td><em>gut, gute, gutes, guten, gutem</em></td><td><em>besser, besserer, bessere</em></td><td><em>besten, beste, bester, bestes</em></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Acc</tt></td><td></td><td></td><td></td><td><em>beste</em></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Gender.html">Gender</a>=Masc,Neut|<a href="Number.html">Number</a>=Sing</tt></td><td></td><td></td><td><em>besseres</em></td><td></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Sing</tt></td><td></td><td><em>guten</em></td><td></td><td><em>besten</em></td></tr>

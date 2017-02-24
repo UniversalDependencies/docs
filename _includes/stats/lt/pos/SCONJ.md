@@ -4,16 +4,16 @@
 
 ## Treebank Statistics (UD_Lithuanian)
 
-There are 20 `SCONJ` lemmas (1%), 19 `SCONJ` types (1%) and 147 `SCONJ` tokens (3%).
-Out of 16 observed tags, the rank of `SCONJ` is: 10 in number of lemmas, 11 in number of types and 11 in number of tokens.
+There are 19 `SCONJ` lemmas (1%), 18 `SCONJ` types (1%) and 146 `SCONJ` tokens (3%).
+Out of 16 observed tags, the rank of `SCONJ` is: 10 in number of lemmas, 12 in number of types and 12 in number of tokens.
 
 The 10 most frequent `SCONJ` lemmas: <em>kad, kaip, jei, nors, nes, jeigu, negu, jog, tai, nebent</em>
 
 The 10 most frequent `SCONJ` types:  <em>kad, kaip, jei, nors, nes, jeigu, negu, jog, tai, nebent</em>
 
-The 10 most frequent ambiguous lemmas: <em>kaip</em> ([SCONJ]() 19, [ADV]() 4), <em>nors</em> ([SCONJ]() 13, [PART]() 2), <em>tai</em> ([PRON]() 19, [SCONJ]() 5, [PART]() 1), <em>tuo</em> ([SCONJ]() 3, [ADV]() 3, [PRON]() 2, [DET]() 1), <em>juo</em> ([SCONJ]() 2, [PART]() 2), <em>kai</em> ([SCONJ]() 2, [ADV]() 1), <em>tarpu</em> ([ADV]() 3, [SCONJ]() 2), <em>dėl</em> ([ADP]() 7, [SCONJ]() 1), <em>ne</em> ([PART]() 36, [CCONJ]() 4, [SCONJ]() 1), <em>tad</em> ([ADV]() 1, [SCONJ]() 1)
+The 10 most frequent ambiguous lemmas: <em>kaip</em> ([SCONJ]() 20, [ADV]() 4), <em>nors</em> ([SCONJ]() 13, [PART]() 2), <em>tai</em> ([PRON]() 19, [SCONJ]() 5, [PART]() 1), <em>tuo</em> ([ADV]() 3, [SCONJ]() 3, [PRON]() 2, [DET]() 1), <em>juo</em> ([PART]() 2, [SCONJ]() 2), <em>kai</em> ([ADV]() 2, [SCONJ]() 2), <em>tarpu</em> ([ADV]() 3, [SCONJ]() 2), <em>dėl</em> ([ADP]() 7, [SCONJ]() 1), <em>kas</em> ([PRON]() 16, [ADV]() 2, [SCONJ]() 1, [DET]() 1), <em>tad</em> ([SCONJ]() 1, [ADV]() 1)
 
-The 10 most frequent ambiguous types:  <em>kaip</em> ([SCONJ]() 19, [ADV]() 4), <em>nors</em> ([SCONJ]() 12, [PART]() 2), <em>tai</em> ([PRON]() 16, [SCONJ]() 5, [PART]() 1), <em>tuo</em> ([PRON]() 2, [DET]() 2, [SCONJ]() 1, [ADV]() 1), <em>juo</em> ([PRON]() 2, [PART]() 2, [SCONJ]() 1), <em>kai</em> ([SCONJ]() 2, [DET]() 1, [ADV]() 1), <em>tarpu</em> ([ADV]() 3, [SCONJ]() 2), <em>vis</em> ([SCONJ]() 1, [ADV]() 1), <em>Kas</em> ([SCONJ]() 1, [PRON]() 1), <em>dėl</em> ([ADP]() 7, [SCONJ]() 1)
+The 10 most frequent ambiguous types:  <em>kaip</em> ([SCONJ]() 19, [ADV]() 4), <em>nors</em> ([SCONJ]() 12, [PART]() 2), <em>tai</em> ([PRON]() 16, [SCONJ]() 5, [PART]() 1), <em>tuo</em> ([PRON]() 2, [DET]() 2, [ADV]() 1, [SCONJ]() 1), <em>juo</em> ([PRON]() 2, [PART]() 2, [SCONJ]() 1), <em>kai</em> ([SCONJ]() 2, [DET]() 1, [ADV]() 1), <em>tarpu</em> ([ADV]() 3, [SCONJ]() 2), <em>vis</em> ([SCONJ]() 1, [ADV]() 1), <em>Kas</em> ([PRON]() 1, [SCONJ]() 1), <em>dėl</em> ([ADP]() 7, [SCONJ]() 1)
 
 
 * <em>kaip</em>
@@ -29,8 +29,8 @@ The 10 most frequent ambiguous types:  <em>kaip</em> ([SCONJ]() 19, [ADV]() 4), 
 * <em>tuo</em>
   * [PRON]() 2: <em>Kad ir kokios būtų su <b>tuo</b> susijusios problemos , kad ir kiek jas bandytų išpūsti rasistai , nei viena Europos Sąjungos tauta nerodo nutautėjimo požymių .</em>
   * [DET]() 2: <em>Bet kokie Rusijos veiksmai , sekant <b>tuo</b> požiūriu , turi piktų intencijų .</em>
-  * [SCONJ]() 1: <em>Girdi , <b>tuo</b> paniekinamai tautos ilgaamžiai žygdarbiai ir kančios .</em>
   * [ADV]() 1: <em>Jų komedijos neišliko , <b>tuo</b> tarpu „ Debesys “ skaitomi ligi šiol .</em>
+  * [SCONJ]() 1: <em>Girdi , <b>tuo</b> paniekinamai tautos ilgaamžiai žygdarbiai ir kančios .</em>
 * <em>juo</em>
   * [PRON]() 2: <em>Kad ir keista , iš dalies su <b>juo</b> sutinku .</em>
   * [PART]() 2: <em>Sutinku , bet polinkis kalbėti , <b>juo</b> labiau šaukti apie kitų kaltes ( nors tai psichologiškai suprantama reakcija ) tik sunkina problemą .</em>
@@ -46,46 +46,40 @@ The 10 most frequent ambiguous types:  <em>kaip</em> ([SCONJ]() 19, [ADV]() 4), 
   * [SCONJ]() 1: <em>Stalino laikais sovietai mąstė ne tautinėmis , o klasinėmis , vėliau , po Stalino , grynai pragmatinėmis kategorijomis : jeigu tu nesipriešinsi mūsų valdžiai , tai nebūsi naikinamas ir galėsi daryti karjerą , <b>vis</b> vien kokiai tautai priklausai .</em>
   * [ADV]() 1: <em>Kiti , kaip žinoma , aiškios tautinės sąmonės iš <b>vis</b> neturėjo .</em>
 * <em>Kas</em>
-  * [SCONJ]() 1: <em><b>Kas</b> sovietams tikrai rūpėjo padaryti , tas jiems ir pavyko : savo valdinius , kad ir kokia kalba jie kalbėtų ir kuo save laikytų , jie smarkiai demoralizavo , įdiegė jiems siaurą primityvų mentalitetą , kurio dalis , beje , buvo ir ksenofobija , ir neapykanta visokiems „ kosmopolitams “ .</em>
   * [PRON]() 1: <em><b>Kas</b> mums lieka dabartinėje ne itin linksmoje situacijoje ?</em>
+  * [SCONJ]() 1: <em><b>Kas</b> sovietams tikrai rūpėjo padaryti , tas jiems ir pavyko : savo valdinius , kad ir kokia kalba jie kalbėtų ir kuo save laikytų , jie smarkiai demoralizavo , įdiegė jiems siaurą primityvų mentalitetą , kurio dalis , beje , buvo ir ksenofobija , ir neapykanta visokiems „ kosmopolitams “ .</em>
 * <em>dėl</em>
   * [ADP]() 7: <em>Sovietinę sistemą reikėjo atmesti <b>dėl</b> trijų priežasčių .</em>
   * [SCONJ]() 1: <em>Sovietinė sistema buvo atmesta pirmiausia ar net išimtinai , <b>dėl</b> to , kad ji daugumos nuomone , kėlė mirtiną pavojų tautai .</em>
 
 ## Morphology
 
-The form / lemma ratio of `SCONJ` is 0.950000 (the average of all parts of speech is 1.435714).
+The form / lemma ratio of `SCONJ` is 0.947368 (the average of all parts of speech is 1.444778).
 
-The 1st highest number of forms (1) was observed with the lemma “Jei”: <em>Jei</em>.
+The 1st highest number of forms (1) was observed with the lemma “dėl”: <em>dėl</em>.
 
-The 2nd highest number of forms (1) was observed with the lemma “Kad”: <em>Kad</em>.
+The 2nd highest number of forms (1) was observed with the lemma “jei”: <em>jei</em>.
 
-The 3rd highest number of forms (1) was observed with the lemma “Kaip”: <em>Kaip</em>.
+The 3rd highest number of forms (1) was observed with the lemma “jeigu”: <em>jeigu</em>.
 
-`SCONJ` occurs with 3 features: [lt-feat/Degree]() (2; 1% instances), [lt-feat/Case]() (1; 1% instances), [lt-feat/Polarity]() (1; 1% instances)
-
-`SCONJ` occurs with 3 feature-value pairs: `Case=Nom`, `Degree=Pos`, `Polarity=Neg`
-
-`SCONJ` occurs with 4 feature combinations.
-The most frequent feature combination is `_` (143 tokens).
-Examples: <em>kad, kaip, jei, nors, nes, jeigu, negu, jog, tai, nebent</em>
+`SCONJ` does not occur with any features.
 
 
 ## Relations
 
-`SCONJ` nodes are attached to their parents using 6 different relations: [lt-dep/mark]() (127; 86% instances), [lt-dep/case]() (11; 7% instances), [lt-dep/advmod]() (4; 3% instances), [lt-dep/fixed]() (3; 2% instances), [lt-dep/cc]() (1; 1% instances), [lt-dep/parataxis]() (1; 1% instances)
+`SCONJ` nodes are attached to their parents using 5 different relations: [lt-dep/mark]() (127; 87% instances), [lt-dep/case]() (11; 8% instances), [lt-dep/advmod]() (4; 3% instances), [lt-dep/fixed]() (3; 2% instances), [lt-dep/parataxis]() (1; 1% instances)
 
-Parents of `SCONJ` nodes belong to 11 different parts of speech: [VERB]() (87; 59% instances), [NOUN]() (29; 20% instances), [ADJ]() (14; 10% instances), [ADV]() (7; 5% instances), [PROPN]() (3; 2% instances), [SCONJ]() (2; 1% instances), [ADP]() (1; 1% instances), [DET]() (1; 1% instances), [PART]() (1; 1% instances), [PRON]() (1; 1% instances), [PUNCT]() (1; 1% instances)
+Parents of `SCONJ` nodes belong to 9 different parts of speech: [VERB]() (88; 60% instances), [NOUN]() (29; 20% instances), [ADJ]() (14; 10% instances), [ADV]() (6; 4% instances), [PROPN]() (3; 2% instances), [PRON]() (2; 1% instances), [SCONJ]() (2; 1% instances), [DET]() (1; 1% instances), [PART]() (1; 1% instances)
 
-128 (87%) `SCONJ` nodes are leaves.
+128 (88%) `SCONJ` nodes are leaves.
 
-11 (7%) `SCONJ` nodes have one child.
+10 (7%) `SCONJ` nodes have one child.
 
 8 (5%) `SCONJ` nodes have two children.
 
 The highest child degree of a `SCONJ` node is 2.
 
-Children of `SCONJ` nodes are attached using 3 different relations: [lt-dep/fixed]() (23; 85% instances), [lt-dep/punct]() (3; 11% instances), [lt-dep/advmod]() (1; 4% instances)
+Children of `SCONJ` nodes are attached using 2 different relations: [lt-dep/fixed]() (23; 88% instances), [lt-dep/punct]() (3; 12% instances)
 
-Children of `SCONJ` nodes belong to 8 different parts of speech: [CCONJ]() (9; 33% instances), [ADV]() (4; 15% instances), [PRON]() (4; 15% instances), [DET]() (3; 11% instances), [PUNCT]() (3; 11% instances), [SCONJ]() (2; 7% instances), [ADP]() (1; 4% instances), [PART]() (1; 4% instances)
+Children of `SCONJ` nodes belong to 7 different parts of speech: [CCONJ]() (10; 38% instances), [PRON]() (4; 15% instances), [ADV]() (3; 12% instances), [DET]() (3; 12% instances), [PUNCT]() (3; 12% instances), [SCONJ]() (2; 8% instances), [ADP]() (1; 4% instances)
 

@@ -46,7 +46,7 @@ The most frequent other feature values with which `NOUN` and `Gender` co-occurre
 
 8295 [sk-pos/VERB]() tokens (64% of all `VERB` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `VERB` and `Gender` co-occurred: <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (8294; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (8294; 100%), <tt><a href="Tense.html">Tense</a>=Past</tt> (8283; 100%), <tt><a href="Polarity.html">Polarity</a>=Pos</tt> (7640; 92%), <tt><a href="Number.html">Number</a>=Sing</tt> (7227; 87%), <tt><a href="Person.html">Person</a>=3</tt> (6765; 82%), <tt><a href="Aspect.html">Aspect</a>=Perf</tt> (5015; 60%).
+The most frequent other feature values with which `VERB` and `Gender` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (8294; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (8294; 100%), <tt><a href="Tense.html">Tense</a>=Past</tt> (8283; 100%), <tt><a href="Polarity.html">Polarity</a>=Pos</tt> (7640; 92%), <tt><a href="Number.html">Number</a>=Sing</tt> (7227; 87%), <tt><a href="Person.html">Person</a>=3</tt> (6765; 82%), <tt><a href="Aspect.html">Aspect</a>=Perf</tt> (5015; 60%).
 
 `VERB` tokens may have the following values of `Gender`:
 
@@ -245,7 +245,7 @@ The most frequent other feature values with which `PRON` and `Gender` co-occurre
   <tr><td><tt><a href="Animacy.html">Animacy</a>=Inan|<a href="Case.html">Case</a>=Loc|<a href="Number.html">Number</a>=Sing</tt></td><td><em>ňom</em></td><td></td><td></td></tr>
   <tr><td><tt><a href="Animacy.html">Animacy</a>=Inan|<a href="Case.html">Case</a>=Loc|<a href="Number.html">Number</a>=Plur</tt></td><td><em>nich</em></td><td></td><td></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Number.html">Number</a>=Sing</tt></td><td></td><td><em>ju, ňu</em></td><td><em>ho</em></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Number.html">Number</a>=Plur</tt></td><td></td><td><em>ne, ich</em></td><td><em>ich</em></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Number.html">Number</a>=Plur</tt></td><td></td><td><em>ich, ne</em></td><td><em>ich</em></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Dat|<a href="Number.html">Number</a>=Sing</tt></td><td></td><td><em>jej, nej</em></td><td><em>mu</em></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Dat|<a href="Number.html">Number</a>=Plur</tt></td><td></td><td><em>im</em></td><td></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Loc|<a href="Number.html">Number</a>=Sing</tt></td><td></td><td></td><td><em>ňom</em></td></tr>
@@ -255,7 +255,7 @@ The most frequent other feature values with which `PRON` and `Gender` co-occurre
 
 614 [sk-pos/AUX]() tokens (18% of all `AUX` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `AUX` and `Gender` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (614; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (614; 100%), <tt><a href="Aspect.html">Aspect</a>=Imp</tt> (614; 100%), <tt><a href="Tense.html">Tense</a>=Past</tt> (614; 100%), <tt><a href="Person.html">Person</a>=3</tt> (581; 95%), <tt><a href="Polarity.html">Polarity</a>=Pos</tt> (567; 92%), <tt><a href="Number.html">Number</a>=Sing</tt> (524; 85%).
+The most frequent other feature values with which `AUX` and `Gender` co-occurred: <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (614; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (614; 100%), <tt><a href="Aspect.html">Aspect</a>=Imp</tt> (614; 100%), <tt><a href="Tense.html">Tense</a>=Past</tt> (614; 100%), <tt><a href="Person.html">Person</a>=3</tt> (581; 95%), <tt><a href="Polarity.html">Polarity</a>=Pos</tt> (567; 92%), <tt><a href="Number.html">Number</a>=Sing</tt> (524; 85%).
 
 `AUX` tokens may have the following values of `Gender`:
 
@@ -332,7 +332,7 @@ The most frequent other feature values with which `ADV` and `Gender` co-occurred
 
 1 [sk-pos/X]() tokens (0% of all `X` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `X` and `Gender` co-occurred: <tt><a href="Abbr.html">Abbr</a>=Yes</tt> (1; 100%), <tt><a href="Foreign.html">Foreign</a>=EMPTY</tt> (1; 100%), <tt><a href="Hyph.html">Hyph</a>=EMPTY</tt> (1; 100%).
+The most frequent other feature values with which `X` and `Gender` co-occurred: <tt><a href="Hyph.html">Hyph</a>=EMPTY</tt> (1; 100%), <tt><a href="Abbr.html">Abbr</a>=Yes</tt> (1; 100%), <tt><a href="Foreign.html">Foreign</a>=EMPTY</tt> (1; 100%).
 
 `X` tokens may have the following values of `Gender`:
 

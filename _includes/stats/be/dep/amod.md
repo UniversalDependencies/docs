@@ -32,23 +32,6 @@ The following 9 pairs of parts of speech are connected with `amod`: [be-pos/NOUN
 
 
 ~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 1 amod	color:blue
-1	Паўднёвая	паўднёвы	ADJ	JJL	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	2	amod	_	_
-2	Карэя	карэя	PROPN	NNP	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	3	nsubj	_	_
-3	хоча	хацець	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-4	інвеставаць	інвеставаць	VERB	VB	Aspect=Imp|VerbForm=Inf|Voice=Act	3	xcomp	_	_
-5	у	у	ADP	IN	_	7	case	_	_
-6	беларускую	беларускі	ADJ	JJL	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	7	amod	_	_
-7	эканоміку	эканоміка	NOUN	NN	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	4	nmod	_	_
-
-~~~
-
-
-~~~ conllu
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 6	bgColor:blue
@@ -68,6 +51,23 @@ The following 9 pairs of parts of speech are connected with `amod`: [be-pos/NOUN
 12	дадаткова	дадатковы	ADJ	JJL	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	13	advmod	_	_
 13	эмісіі	эмісія	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	10	obl	_	SpaceAfter=No
 14	.	.	PUNCT	PUNCT	_	9	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 1 amod	color:blue
+1	Паўднёвая	паўднёвы	ADJ	JJL	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	2	amod	_	_
+2	Карэя	карэя	PROPN	NNP	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	3	nsubj	_	_
+3	хоча	хацець	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4	інвеставаць	інвеставаць	VERB	VB	Aspect=Imp|VerbForm=Inf|Voice=Act	3	xcomp	_	_
+5	у	у	ADP	IN	_	7	case	_	_
+6	беларускую	беларускі	ADJ	JJL	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	7	amod	_	_
+7	эканоміку	эканоміка	NOUN	NN	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	4	nmod	_	_
 
 ~~~
 

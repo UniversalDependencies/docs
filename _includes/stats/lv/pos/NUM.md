@@ -11,20 +11,20 @@ The 10 most frequent `NUM` lemmas: <em>viens, viena, trīs, divas, divi, otra, d
 
 The 10 most frequent `NUM` types:  <em>viens, vienu, trīs, viena, divas, desmit, vienā, 25, 3, otra</em>
 
-The 10 most frequent ambiguous lemmas: <em>tūkstoši</em> ([NUM]() 7, [NOUN]() 1), <em>7</em> ([NUM]() 5, [ADJ]() 1), <em>14.00</em> ([SYM]() 1, [NUM]() 1), <em>vairākas</em> ([DET]() 7, [PRON]() 1, [NUM]() 1)
+The 10 most frequent ambiguous lemmas: <em>tūkstoši</em> ([NUM]() 7, [NOUN]() 1), <em>7</em> ([NUM]() 5, [ADJ]() 1), <em>14.00</em> ([NUM]() 1, [SYM]() 1), <em>vairākas</em> ([DET]() 7, [NUM]() 1, [PRON]() 1)
 
-The 10 most frequent ambiguous types:  <em>14.00</em> ([NUM]() 1, [SYM]() 1), <em>otrās</em> ([ADJ]() 11, [NUM]() 1), <em>pusotra</em> ([ADJ]() 1, [NUM]() 1), <em>tūkstošu</em> ([NOUN]() 2, [NUM]() 1), <em>vairākām</em> ([NUM]() 1, [DET]() 1)
+The 10 most frequent ambiguous types:  <em>14.00</em> ([SYM]() 1, [NUM]() 1), <em>otrās</em> ([ADJ]() 11, [NUM]() 1), <em>pusotra</em> ([NUM]() 1, [ADJ]() 1), <em>tūkstošu</em> ([NOUN]() 2, [NUM]() 1), <em>vairākām</em> ([NUM]() 1, [DET]() 1)
 
 
 * <em>14.00</em>
-  * [NUM]() 1: <em>12. jūlijā <b>14.00</b> Malienas tautas namā - disenīte bērniem un pusaudžiem .</em>
   * [SYM]() 1: <em>Andra Vilka grāmatas " Grūtupa fenomens " atvēršanas svētki š.g. 15. novembrī plkst. <b>14.00</b> Jāņa Rozes grāmatnīcā Kr. Barona ielā 5</em>
+  * [NUM]() 1: <em>12. jūlijā <b>14.00</b> Malienas tautas namā - disenīte bērniem un pusaudžiem .</em>
 * <em>otrās</em>
   * [ADJ]() 11: <em>Bija reiz laiks , kad Mēness <b>otrās</b> puses izskats bija liela mīkla .</em>
   * [NUM]() 1: <em>Par laimi , man ir izdevies draugiem iestāstīt , ka tas ir mans imidžs būt sirmai un savītušai vecmāmiņai , divu bērnu mātei , kas nudien nedzenas pēc otrās laulības un <b>otrās</b> bērnu paaudzes .</em>
 * <em>pusotra</em>
-  * [ADJ]() 1: <em>Kā ziņo laikraksts , ar <b>pusotra</b> mēneša kavēšanos valdībā tiks iesniegti grozījumi likumos , kas ļaus veidot vienoto valsts un pašvaldību iestāžu reģistru Uzņēmumu reģistrā .</em>
   * [NUM]() 1: <em>Tā bija pirmā pēc <b>pusotra</b> mēneša klusēšanas .</em>
+  * [ADJ]() 1: <em>Kā ziņo laikraksts , ar <b>pusotra</b> mēneša kavēšanos valdībā tiks iesniegti grozījumi likumos , kas ļaus veidot vienoto valsts un pašvaldību iestāžu reģistru Uzņēmumu reģistrā .</em>
 * <em>tūkstošu</em>
   * [NOUN]() 2: <em>Cīņa par klientiem pasaulē ir mērāma miljonos , savukārt Latvijā - <b>tūkstošu</b> izteiksmē .</em>
   * [NUM]() 1: <em>Ja būtu kameņu <b>tūkstošu</b> tūkstošiem , Vida visas tās pazītu un atšķirtu .</em>

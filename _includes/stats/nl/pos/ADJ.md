@@ -13,7 +13,7 @@ The 10 most frequent `ADJ` types:  <em>eerste, grote, nieuwe, goed, Nederlandse,
 
 The 10 most frequent ambiguous lemmas: <em>groot</em> ([ADJ]() 377, [X]() 1), <em>goed</em> ([ADJ]() 318, [NOUN]() 11, [X]() 2), <em>eerste</em> ([ADJ]() 237, [PROPN]() 3, [X]() 2), <em>nieuw</em> ([ADJ]() 219, [NOUN]() 2, [X]() 2), <em>Nederlands</em> ([ADJ]() 171, [PROPN]() 5), <em>lang</em> ([ADJ]() 157, [NOUN]() 1), <em>hoog</em> ([ADJ]() 98, [X]() 2), <em>laatst</em> ([ADJ]() 94, [X]() 2), <em>snel</em> ([ADJ]() 82, [VERB]() 1), <em>oud</em> ([ADJ]() 75, [X]() 1)
 
-The 10 most frequent ambiguous types:  <em>eerste</em> ([ADJ]() 233, [PROPN]() 3, [X]() 2), <em>nieuwe</em> ([ADJ]() 179, [X]() 2), <em>goed</em> ([ADJ]() 140, [NOUN]() 3, [X]() 2), <em>Nederlandse</em> ([ADJ]() 138, [PROPN]() 22, [X]() 4), <em>laatste</em> ([ADJ]() 110, [X]() 1), <em>groot</em> ([ADJ]() 87, [X]() 1), <em>Amerikaanse</em> ([ADJ]() 84, [X]() 1, [PROPN]() 1), <em>goede</em> ([ADJ]() 81, [X]() 1), <em>hele</em> ([ADJ]() 64, [X]() 1), <em>bekend</em> ([ADJ]() 56, [VERB]() 1)
+The 10 most frequent ambiguous types:  <em>eerste</em> ([ADJ]() 233, [PROPN]() 3, [X]() 2), <em>nieuwe</em> ([ADJ]() 179, [X]() 2), <em>goed</em> ([ADJ]() 140, [NOUN]() 3, [X]() 2), <em>Nederlandse</em> ([ADJ]() 138, [PROPN]() 22, [X]() 4), <em>laatste</em> ([ADJ]() 110, [X]() 1), <em>groot</em> ([ADJ]() 87, [X]() 1), <em>Amerikaanse</em> ([ADJ]() 84, [PROPN]() 1, [X]() 1), <em>goede</em> ([ADJ]() 81, [X]() 1), <em>hele</em> ([ADJ]() 64, [X]() 1), <em>bekend</em> ([ADJ]() 56, [VERB]() 1)
 
 
 * <em>eerste</em>
@@ -39,8 +39,8 @@ The 10 most frequent ambiguous types:  <em>eerste</em> ([ADJ]() 233, [PROPN]() 3
   * [X]() 1: <em>Hij speelde een van Bachs preludia en fuge in c <b>groot</b> en verder twee korte stukken van Thomas Tomkins , waarbij ook een orgelduo samen met dirigent Willcocks .</em>
 * <em>Amerikaanse</em>
   * [ADJ]() 84: <em>Angst om te verliezen kent de <b>Amerikaanse</b> in ieder geval niet meer .</em>
-  * [X]() 1: <em>Bij welke stad in de buurt van Missionary Ridge werd hevig gevochten tijdens de <b>Amerikaanse</b> Burgeroorlog ?</em>
   * [PROPN]() 1: <em>De Zuid <b>Amerikaanse</b> voetbalfederatie CSF heeft besloten de Copa America uit te stellen .</em>
+  * [X]() 1: <em>Bij welke stad in de buurt van Missionary Ridge werd hevig gevochten tijdens de <b>Amerikaanse</b> Burgeroorlog ?</em>
 * <em>goede</em>
   * [ADJ]() 81: <em>Boogerd : " Ik denk dat veel jongens bij ons niet de <b>goede</b> benen hadden .</em>
   * [X]() 1: <em>Je hoeft nog niet aan notenfetisjisme te lijden om te weten dat zo'n verwaarlozing van voordrachtsaanwijzingen de geest van de muziek zelden ten <b>goede</b> komt .</em>

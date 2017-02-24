@@ -11,7 +11,7 @@ The 10 most frequent `NUM` lemmas: اےک، ایک، دو، تین، لاکھ، 
 
 The 10 most frequent `NUM` types:  اےک، ایک، دو، تین، دونوں، پانچ، کروڑ، لاکھ، چار، ہزار
 
-The 10 most frequent ambiguous lemmas: اےک ([NUM]() 480, [PRON]() 9, [NOUN]() 2, [PART]() 1), ایک ([NUM]() 255, [NOUN]() 5, [PROPN]() 3, [PRON]() 1, [ADV]() 1, [ADJ]() 1), دو ([NUM]() 177, [NOUN]() 17, [ADJ]() 16, [DET]() 3, [PROPN]() 1, [PRON]() 1), تین ([NUM]() 70, [ADJ]() 2, [NOUN]() 1), لاکھ ([NUM]() 46, [NOUN]() 3), ہزار ([NUM]() 46, [NOUN]() 12, [ADJ]() 2, [PROPN]() 1), چار ([NUM]() 42, [NOUN]() 1), پانچ ([NUM]() 41, [ADJ]() 1), کروڑ ([NUM]() 41, [NOUN]() 5, [ADJ]() 1), 10 ([NUM]() 29, [PROPN]() 3)
+The 10 most frequent ambiguous lemmas: اےک ([NUM]() 480, [PRON]() 9, [NOUN]() 2, [PART]() 1), ایک ([NUM]() 255, [NOUN]() 5, [PROPN]() 3, [ADJ]() 1, [ADV]() 1, [PRON]() 1), دو ([NUM]() 177, [NOUN]() 17, [ADJ]() 16, [DET]() 3, [PRON]() 1, [PROPN]() 1), تین ([NUM]() 70, [ADJ]() 2, [NOUN]() 1), لاکھ ([NUM]() 46, [NOUN]() 3), ہزار ([NUM]() 46, [NOUN]() 12, [ADJ]() 2, [PROPN]() 1), چار ([NUM]() 42, [NOUN]() 1), پانچ ([NUM]() 41, [ADJ]() 1), کروڑ ([NUM]() 41, [NOUN]() 5, [ADJ]() 1), 10 ([NUM]() 29, [PROPN]() 3)
 
 The 10 most frequent ambiguous types:  اےک ([NUM]() 485, [PRON]() 8, [NOUN]() 3, [PART]() 1), ایک ([NUM]() 280, [NOUN]() 5, [PROPN]() 3, [ADV]() 1, [PRON]() 1), دو ([NUM]() 125, [NOUN]() 1, [PROPN]() 1), دونوں ([NUM]() 62, [NOUN]() 19, [ADJ]() 13, [DET]() 3, [PRON]() 1), پانچ ([NUM]() 43, [ADJ]() 1), کروڑ ([NUM]() 42, [NOUN]() 4), لاکھ ([NUM]() 41, [NOUN]() 2), چار ([NUM]() 41, [NOUN]() 1), ہزار ([NUM]() 41, [NOUN]() 9, [PROPN]() 1), 10 ([NUM]() 28, [PROPN]() 3)
 

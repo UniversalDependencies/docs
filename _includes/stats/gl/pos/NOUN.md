@@ -5,7 +5,7 @@
 ## Treebank Statistics (UD_Galician)
 
 There are 4229 `NOUN` lemmas (44%), 5320 `NOUN` types (37%) and 25010 `NOUN` tokens (23%).
-Out of 15 observed tags, the rank of `NOUN` is: 1 in number of lemmas, 1 in number of types and 1 in number of tokens.
+Out of 16 observed tags, the rank of `NOUN` is: 1 in number of lemmas, 1 in number of types and 1 in number of tokens.
 
 The 10 most frequent `NOUN` lemmas: <em>ano, á, caso, empresa, parte, lei, valor, traballo, actividade, muller</em>
 
@@ -49,7 +49,7 @@ The 10 most frequent ambiguous types:  <em>conta</em> ([NOUN]() 61, [VERB]() 7),
 
 ## Morphology
 
-The form / lemma ratio of `NOUN` is 1.257981 (the average of all parts of speech is 1.505536).
+The form / lemma ratio of `NOUN` is 1.257981 (the average of all parts of speech is 1.508250).
 
 The 1st highest number of forms (4) was observed with the lemma “autor”: <em>autor, autora, autoras, autores</em>.
 
@@ -57,28 +57,34 @@ The 2nd highest number of forms (4) was observed with the lemma “fillo”: <em
 
 The 3rd highest number of forms (4) was observed with the lemma “traballador”: <em>traballador, traballadora, traballadoras, traballadores</em>.
 
-`NOUN` does not occur with any features.
+`NOUN` occurs with 1 features: [gl-feat/Foreign]() (22; 0% instances)
+
+`NOUN` occurs with 1 feature-value pairs: `Foreign=Yes`
+
+`NOUN` occurs with 2 feature combinations.
+The most frequent feature combination is `_` (24988 tokens).
+Examples: <em>anos, caso, ás, ano, lei, parte, traballo, número, artigo, á</em>
 
 
 ## Relations
 
-`NOUN` nodes are attached to their parents using 12 different relations: [gl-dep/nmod]() (16093; 64% instances), [gl-dep/dobj]() (3441; 14% instances), [gl-dep/nsubj]() (3009; 12% instances), [gl-dep/dep]() (1160; 5% instances), [gl-dep/amod]() (540; 2% instances), [gl-dep/cop]() (461; 2% instances), [gl-dep/root]() (128; 1% instances), [gl-dep/case]() (81; 0% instances), [gl-dep/ccomp]() (53; 0% instances), [gl-dep/foreign]() (22; 0% instances), [gl-dep/det]() (21; 0% instances), [gl-dep/advmod]() (1; 0% instances)
+`NOUN` nodes are attached to their parents using 13 different relations: [gl-dep/nmod]() (11579; 46% instances), [gl-dep/obl]() (4511; 18% instances), [gl-dep/obj]() (3479; 14% instances), [gl-dep/nsubj]() (3012; 12% instances), [gl-dep/dep]() (1162; 5% instances), [gl-dep/amod]() (540; 2% instances), [gl-dep/root]() (348; 1% instances), [gl-dep/ccomp]() (171; 1% instances), [gl-dep/case]() (95; 0% instances), [gl-dep/xcomp]() (67; 0% instances), [gl-dep/flat]() (24; 0% instances), [gl-dep/det]() (21; 0% instances), [gl-dep/advmod]() (1; 0% instances)
 
-Parents of `NOUN` nodes belong to 12 different parts of speech: [ADP]() (14539; 58% instances), [VERB]() (7054; 28% instances), [NOUN]() (2967; 12% instances), [PROPN]() (140; 1% instances), [ROOT]() (128; 1% instances), [PRON]() (54; 0% instances), [SCONJ]() (42; 0% instances), [NUM]() (35; 0% instances), [ADV]() (26; 0% instances), [ADJ]() (21; 0% instances), [PUNCT]() (3; 0% instances), [DET]() (1; 0% instances)
+Parents of `NOUN` nodes belong to 12 different parts of speech: [NOUN]() (12138; 49% instances), [VERB]() (9936; 40% instances), [ADP]() (837; 3% instances), [ADJ]() (833; 3% instances), [ROOT]() (348; 1% instances), [NUM]() (339; 1% instances), [ADV]() (195; 1% instances), [PROPN]() (190; 1% instances), [PRON]() (131; 1% instances), [SCONJ]() (51; 0% instances), [DET]() (10; 0% instances), [CCONJ]() (2; 0% instances)
 
-3550 (14%) `NOUN` nodes are leaves.
+1389 (6%) `NOUN` nodes are leaves.
 
-7332 (29%) `NOUN` nodes have one child.
+4744 (19%) `NOUN` nodes have one child.
 
-8714 (35%) `NOUN` nodes have two children.
+7884 (32%) `NOUN` nodes have two children.
 
-5414 (22%) `NOUN` nodes have three or more children.
+10993 (44%) `NOUN` nodes have three or more children.
 
 The highest child degree of a `NOUN` node is 27.
 
-Children of `NOUN` nodes are attached using 16 different relations: [gl-dep/det]() (16540; 38% instances), [gl-dep/case]() (9972; 23% instances), [gl-dep/amod]() (7815; 18% instances), [gl-dep/ccomp]() (2751; 6% instances), [gl-dep/nmod]() (2004; 5% instances), [gl-dep/punct]() (1919; 4% instances), [gl-dep/cc]() (1332; 3% instances), [gl-dep/dep]() (1237; 3% instances), [gl-dep/advmod]() (122; 0% instances), [gl-dep/foreign]() (57; 0% instances), [gl-dep/mark]() (37; 0% instances), [gl-dep/neg]() (19; 0% instances), [gl-dep/aux]() (8; 0% instances), [gl-dep/cop]() (5; 0% instances), [gl-dep/dobj]() (1; 0% instances), [gl-dep/iobj]() (1; 0% instances)
+Children of `NOUN` nodes are attached using 18 different relations: [gl-dep/det]() (16616; 27% instances), [gl-dep/case]() (14042; 23% instances), [gl-dep/nmod]() (11928; 19% instances), [gl-dep/amod]() (7885; 13% instances), [gl-dep/punct]() (3500; 6% instances), [gl-dep/ccomp]() (3310; 5% instances), [gl-dep/cc]() (1787; 3% instances), [gl-dep/dep]() (1286; 2% instances), [gl-dep/cop]() (398; 1% instances), [gl-dep/nsubj]() (314; 1% instances), [gl-dep/advmod]() (270; 0% instances), [gl-dep/mark]() (117; 0% instances), [gl-dep/flat]() (63; 0% instances), [gl-dep/aux]() (47; 0% instances), [gl-dep/xcomp]() (29; 0% instances), [gl-dep/obj]() (6; 0% instances), [gl-dep/iobj]() (1; 0% instances), [gl-dep/obl]() (1; 0% instances)
 
-Children of `NOUN` nodes belong to 15 different parts of speech: [DET]() (16169; 37% instances), [ADP]() (9970; 23% instances), [ADJ]() (7237; 17% instances), [NOUN]() (2967; 7% instances), [VERB]() (2731; 6% instances), [PUNCT]() (1823; 4% instances), [CONJ]() (1322; 3% instances), [NUM]() (824; 2% instances), [PROPN]() (285; 1% instances), [ADV]() (160; 0% instances), [PRON]() (137; 0% instances), [SYM]() (102; 0% instances), [SCONJ]() (66; 0% instances), [PART]() (26; 0% instances), [INTJ]() (1; 0% instances)
+Children of `NOUN` nodes belong to 16 different parts of speech: [DET]() (16260; 26% instances), [ADP]() (14035; 23% instances), [NOUN]() (12138; 20% instances), [ADJ]() (7502; 12% instances), [PUNCT]() (3405; 6% instances), [VERB]() (3260; 5% instances), [CCONJ]() (1745; 3% instances), [NUM]() (1122; 2% instances), [PROPN]() (783; 1% instances), [AUX]() (398; 1% instances), [ADV]() (330; 1% instances), [PRON]() (320; 1% instances), [SCONJ]() (149; 0% instances), [SYM]() (104; 0% instances), [PART]() (48; 0% instances), [INTJ]() (1; 0% instances)
 
 
 
@@ -95,7 +101,7 @@ The 10 most frequent `NOUN` types:  <em>anos, mundo, goberno, traballo, proxecto
 
 The 10 most frequent ambiguous lemmas: <em>ano</em> ([NOUN]() 30, [PROPN]() 1), <em>dereito</em> ([NOUN]() 20, [PROPN]() 1), <em>galego</em> ([ADJ]() 39, [NOUN]() 17, [PROPN]() 1), <em>medio</em> ([NOUN]() 17, [ADJ]() 1, [PROPN]() 1), <em>empresa</em> ([NOUN]() 13, [PROPN]() 1), <em>país</em> ([NOUN]() 13, [PROPN]() 1), <em>tempo</em> ([NOUN]() 13, [PROPN]() 1), <em>socialista</em> ([NOUN]() 12, [ADJ]() 7), <em>base</em> ([NOUN]() 10, [PROPN]() 1), <em>libro</em> ([NOUN]() 10, [PROPN]() 1)
 
-The 10 most frequent ambiguous types:  <em>dereito</em> ([NOUN]() 12, [PROPN]() 1), <em>tempo</em> ([NOUN]() 10, [PROPN]() 1), <em>futuro</em> ([NOUN]() 9, [ADJ]() 2), <em>parte</em> ([NOUN]() 9, [VERB]() 4), <em>política</em> ([ADJ]() 9, [NOUN]() 9), <em>galego</em> ([NOUN]() 8, [ADJ]() 5), <em>galegos</em> ([NOUN]() 7, [ADJ]() 4), <em>poder</em> ([NOUN]() 7, [AUX]() 3), <em>conta</em> ([NOUN]() 7, [VERB]() 2), <em>fuxidos</em> ([NOUN]() 7, [PROPN]() 1)
+The 10 most frequent ambiguous types:  <em>dereito</em> ([NOUN]() 12, [PROPN]() 1), <em>tempo</em> ([NOUN]() 10, [PROPN]() 1), <em>futuro</em> ([NOUN]() 9, [ADJ]() 2), <em>parte</em> ([NOUN]() 9, [VERB]() 4), <em>política</em> ([NOUN]() 9, [ADJ]() 9), <em>galego</em> ([NOUN]() 8, [ADJ]() 5), <em>galegos</em> ([NOUN]() 7, [ADJ]() 4), <em>poder</em> ([NOUN]() 7, [AUX]() 3), <em>conta</em> ([NOUN]() 7, [VERB]() 2), <em>fuxidos</em> ([NOUN]() 7, [PROPN]() 1)
 
 
 * <em>dereito</em>
@@ -111,8 +117,8 @@ The 10 most frequent ambiguous types:  <em>dereito</em> ([NOUN]() 12, [PROPN]() 
   * [NOUN]() 9: <em>Aquí hai unha manipulación de este colectivo por <b>parte</b> de a empresa .</em>
   * [VERB]() 4: <em>Con trece candidaturas <b>parte</b> O ano de a carracha de Xurxo Coira e con doce A promesa .</em>
 * <em>política</em>
-  * [ADJ]() 9: <em>A larvada guerra <b>política</b> que se mantén entre o mandatario branquiazul e o Concello facía inviábel , como en moitas outras cousas , a súa materialización .</em>
   * [NOUN]() 9: <em>Quen vai marcar agora a <b>política</b> en o concello ?</em>
+  * [ADJ]() 9: <em>A larvada guerra <b>política</b> que se mantén entre o mandatario branquiazul e o Concello facía inviábel , como en moitas outras cousas , a súa materialización .</em>
 * <em>galego</em>
   * [NOUN]() 8: <em>Para Arias non hai lugar a a polémica sobre se deben traducir obras como o Quixote a o <b>galego</b> .</em>
   * [ADJ]() 5: <em>Os topónimos terán , como única forma oficial a galega e corresponderá lle a o Goberno <b>galego</b> determinar os nomes de lugar .</em>

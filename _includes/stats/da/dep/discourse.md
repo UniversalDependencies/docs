@@ -65,36 +65,31 @@ The following 6 pairs of parts of speech are connected with `discourse`: [da-pos
 
 
 ~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 1 4 discourse	color:blue
-1	Michael	Michael	PROPN	_	_	0	root	_	_
-2	:	:	PUNCT	_	_	1	punct	_	_
-3	"	"	PUNCT	_	_	4	punct	_	_
-4	Ja	ja	INTJ	_	_	1	discourse	_	_
-5	,	,	PUNCT	_	_	4	punct	_	_
-6	for	for	CCONJ	_	_	4	conj	_	_
-7	jeg	jeg	PRON	_	Case=Nom|Gender=Com|Number=Sing|Person=1|PronType=Prs	8	nsubj	_	_
-8	forstår	forstå	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	4	dep	_	_
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 5 discourse	color:blue
+1	Og	og	CCONJ	_	_	8	cc	_	_
+2	i	i	ADP	_	AdpType=Prep	3	case	_	_
+3	Danmark	Danmark	PROPN	_	_	8	obl	_	_
+4	,	,	PUNCT	_	_	2	punct	_	_
+5	ja	ja	INTJ	_	_	2	discourse	_	_
+6	,	,	PUNCT	_	_	5	punct	_	_
+7	her	her	ADV	_	_	8	advmod	_	_
+8	spøger	spøge	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 9	stadig	stadig	ADV	_	_	8	advmod	_	_
-10	ikke	ikke	ADV	_	_	8	advmod	_	_
-11	,	,	PUNCT	_	_	8	punct	_	_
-12	hvordan	hvordan	ADV	_	_	18	mark	_	_
-13	i	i	ADP	_	AdpType=Prep	12	case	_	_
-14	himlens	himmel	NOUN	_	Case=Gen|Definite=Def|Gender=Com|Number=Sing	15	nmod:poss	_	_
-15	navn	navn	NOUN	_	Definite=Ind|Gender=Neut|Number=Sing	8	obl	_	_
-16	de	de	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	18	nsubj	_	_
-17	kunne	kunne	AUX	_	Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Act	18	aux	_	_
-18	stemme	stemme	VERB	_	VerbForm=Inf|Voice=Act	15	acl:relcl	_	_
-19	os	vi	PRON	_	Case=Acc|Gender=Com|Number=Plur|Person=1|PronType=Prs	18	obj	_	_
-20	ned	ned	ADV	_	_	18	obl:loc	_	_
-21	på	på	ADP	_	AdpType=Prep	24	case	_	_
-22	en	en	DET	_	Gender=Com|Number=Sing|PronType=Ind	24	det	_	_
-23	tredjesidste	tredjesidste	ADJ	_	Degree=Pos	24	amod	_	_
-24	plads	plads	NOUN	_	Definite=Ind|Gender=Com|Number=Sing	20	obl	_	_
-25	.	.	PUNCT	_	_	1	punct	_	_
+10	spørgsmålet	spørgsmål	NOUN	_	Definite=Def|Gender=Neut|Number=Sing	8	nsubj	_	_
+11	om	om	ADP	_	AdpType=Prep	14	case	_	_
+12	den	den	DET	_	Gender=Com|Number=Sing|PronType=Dem	14	det	_	_
+13	bebudede	bebude	VERB	_	Definite=Def|Number=Sing|Tense=Past|VerbForm=Part	14	amod	_	_
+14	rationalisering	rationalisering	NOUN	_	Definite=Ind|Gender=Com|Number=Sing	10	nmod	_	_
+15	af	af	ADP	_	AdpType=Prep	19	case	_	_
+16	de	den	DET	_	Number=Plur|PronType=Dem	19	det	_	_
+17	to	to	NUM	_	NumType=Card	19	nummod	_	_
+18	københavnske	københavnsk	ADJ	_	Degree=Pos|Number=Plur	19	amod	_	_
+19	bryggerier	bryggeri	NOUN	_	Definite=Ind|Gender=Neut|Number=Plur	14	nmod	_	_
+20	.	.	PUNCT	_	_	8	punct	_	_
 
 ~~~
 

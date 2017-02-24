@@ -11,7 +11,7 @@ The 10 most frequent `ADP` lemmas: <em>u, na, za, od, sa, o, s, iz, do, nakon</e
 
 The 10 most frequent `ADP` types:  <em>u, na, za, od, s, o, iz, do, sa, nakon</em>
 
-The 10 most frequent ambiguous lemmas: <em>za</em> ([ADP]() 2192, [AUX]() 1), <em>od</em> ([ADP]() 1204, [SCONJ]() 2), <em>o</em> ([ADP]() 691, [INTJ]() 1), <em>nakon</em> ([ADP]() 303, [SCONJ]() 25), <em>po</em> ([ADP]() 215, [ADV]() 1), <em>prije</em> ([ADP]() 135, [ADV]() 42, [SCONJ]() 7), <em>bez</em> ([ADP]() 118, [SCONJ]() 2), <em>pod</em> ([ADP]() 105, [NOUN]() 5), <em>kod</em> ([ADP]() 84, [NOUN]() 6), <em>oko</em> ([ADV]() 119, [ADP]() 73, [NOUN]() 20, [PROPN]() 1, [X]() 1)
+The 10 most frequent ambiguous lemmas: <em>za</em> ([ADP]() 2192, [AUX]() 1), <em>od</em> ([ADP]() 1204, [SCONJ]() 2), <em>o</em> ([ADP]() 691, [INTJ]() 1), <em>nakon</em> ([ADP]() 303, [SCONJ]() 25), <em>po</em> ([ADP]() 215, [ADV]() 1), <em>prije</em> ([ADP]() 135, [ADV]() 42, [SCONJ]() 7), <em>bez</em> ([ADP]() 118, [SCONJ]() 2), <em>pod</em> ([ADP]() 105, [NOUN]() 5), <em>kod</em> ([ADP]() 84, [NOUN]() 6), <em>oko</em> ([ADV]() 119, [ADP]() 73, [NOUN]() 20, [X]() 1, [PROPN]() 1)
 
 The 10 most frequent ambiguous types:  <em>za</em> ([ADP]() 2122, [AUX]() 1), <em>od</em> ([ADP]() 1154, [SCONJ]() 2), <em>nakon</em> ([ADP]() 232, [SCONJ]() 16), <em>prije</em> ([ADP]() 115, [ADV]() 39, [SCONJ]() 7), <em>bez</em> ([ADP]() 109, [SCONJ]() 1), <em>pod</em> ([ADP]() 102, [NOUN]() 2), <em>oko</em> ([ADV]() 107, [ADP]() 72, [NOUN]() 4, [X]() 1), <em>osim</em> ([ADP]() 30, [ADV]() 9, [SCONJ]() 8), <em>umjesto</em> ([ADP]() 21, [SCONJ]() 1), <em>ispred</em> ([ADP]() 26, [ADV]() 2)
 

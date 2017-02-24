@@ -176,29 +176,34 @@ The following 6 pairs of parts of speech are connected with `det:predet`: [en-po
 
 
 ~~~ conllu
-# visual-style 15	bgColor:blue
-# visual-style 15	fgColor:white
-# visual-style 16	bgColor:blue
-# visual-style 16	fgColor:white
-# visual-style 16 15 det:predet	color:blue
-1	_	_	PROPN	NNP	_	2	nsubj	_	_
-2	_	_	VERB	VBD	_	0	root	_	_
-3	_	_	PART	TO	_	7	mark	_	_
-4	_	_	VERB	VB	_	7	cop	_	_
-5	_	_	DET	PRP$	_	7	nmod:poss	_	_
-6	_	_	ADJ	JJS	_	7	amod	_	_
-7	_	_	NOUN	NN	_	2	xcomp	_	_
-8	_	_	CONJ	CC	_	2	cc	_	_
-9	_	_	DET	DT	_	11	det	_	_
-10	_	_	ADJ	JJ	_	11	amod	_	_
-11	_	_	NOUN	NNS	_	12	nmod:npmod	_	_
-12	_	_	ADV	RB	_	14	advmod	_	_
-13	_	_	PRON	PRP	_	14	nsubj	_	_
-14	_	_	VERB	VBD	_	2	conj	_	_
-15	_	_	DET	PDT	_	16	det:predet	_	_
-16	_	_	DET	DT	_	17	det	_	_
-17	_	_	NOUN	NN	_	14	dobj	_	_
-18	_	_	PUNCT	.	_	2	punct	_	_
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 8 6 det:predet	color:blue
+1	_	_	ADV	RB	_	4	advmod	_	_
+2	_	_	PUNCT	,	_	4	punct	_	_
+3	_	_	PRON	PRP	_	4	nsubj	_	_
+4	_	_	VERB	VBP	_	0	root	_	_
+5	_	_	SCONJ	IN	_	8	mark	_	_
+6	_	_	DET	PDT	_	8	det:predet	_	_
+7	_	_	DET	DT	_	8	det	_	_
+8	_	_	VERB	VBZ	_	13	nsubjpass	_	_
+9	_	_	AUX	MD	_	13	aux	_	_
+10	_	_	PART	RB	_	13	neg	_	_
+11	_	_	ADV	RB	_	13	advmod	_	_
+12	_	_	AUX	VB	_	13	auxpass	_	_
+13	_	_	VERB	VBN	_	4	ccomp	_	_
+14	_	_	SCONJ	IN	_	16	mark	_	_
+15	_	_	PRON	PRP	_	16	nsubj	_	_
+16	_	_	VERB	VBP	_	13	advcl	_	_
+17	_	_	PRON	PRP	_	16	dobj	_	_
+18	_	_	ADV	RB	_	16	advmod	_	_
+19	_	_	CONJ	CC	_	18	cc	_	_
+20	_	_	ADV	RB	_	18	conj	_	_
+21	_	_	ADV	RB	_	22	advmod	_	_
+22	_	_	ADV	RB	_	18	advmod	_	_
+23	_	_	PUNCT	.	_	4	punct	_	_
 
 ~~~
 

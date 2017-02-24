@@ -13,7 +13,7 @@ The 10 most frequent `DET` types:  <em>o, a, os, as, um, uma, sua, seu, este, es
 
 The 10 most frequent ambiguous lemmas: <em>o</em> ([DET]() 26587, [PRON]() 506, [PROPN]() 9, [NOUN]() 4, [ADP]() 3), <em>um</em> ([DET]() 3050, [NUM]() 360, [PROPN]() 16, [PRON]() 11, [ADP]() 2, [NOUN]() 1), <em>seu</em> ([DET]() 1037, [PRON]() 3, [PROPN]() 2), <em>este</em> ([DET]() 557, [PRON]() 86), <em>todo</em> ([DET]() 277, [PRON]() 55, [ADV]() 5, [NOUN]() 3), <em>outro</em> ([DET]() 266, [PRON]() 94, [NOUN]() 1), <em>esse</em> ([DET]() 246, [PRON]() 25), <em>muito</em> ([ADV]() 178, [DET]() 167, [PRON]() 50, [NOUN]() 3), <em>algum</em> ([DET]() 159, [PRON]() 32, [NOUN]() 1), <em>nosso</em> ([DET]() 102, [PRON]() 2)
 
-The 10 most frequent ambiguous types:  <em>o</em> ([DET]() 9876, [PRON]() 494, [PROPN]() 9, [NOUN]() 4), <em>a</em> ([DET]() 9174, [ADP]() 3836, [PRON]() 88, [PROPN]() 14, [NOUN]() 3, [ADV]() 2), <em>os</em> ([DET]() 3204, [PRON]() 76, [ADP]() 5, [PROPN]() 4), <em>as</em> ([DET]() 2133, [PRON]() 43, [PROPN]() 1), <em>um</em> ([DET]() 1524, [NUM]() 227, [PROPN]() 16, [PRON]() 2, [ADP]() 2, [NOUN]() 1), <em>uma</em> ([DET]() 1358, [NUM]() 128, [ADP]() 11, [NOUN]() 3, [PRON]() 3, [ADJ]() 1, [PROPN]() 1), <em>sua</em> ([DET]() 410, [ADP]() 6, [PRON]() 1), <em>seu</em> ([DET]() 343, [PRON]() 2, [PROPN]() 1), <em>este</em> ([DET]() 246, [PRON]() 28), <em>esta</em> ([DET]() 197, [PRON]() 17)
+The 10 most frequent ambiguous types:  <em>o</em> ([DET]() 9876, [PRON]() 494, [PROPN]() 9, [NOUN]() 4), <em>a</em> ([DET]() 9174, [ADP]() 3836, [PRON]() 88, [PROPN]() 14, [NOUN]() 3, [ADV]() 2), <em>os</em> ([DET]() 3204, [PRON]() 76, [ADP]() 5, [PROPN]() 4), <em>as</em> ([DET]() 2133, [PRON]() 43, [PROPN]() 1), <em>um</em> ([DET]() 1524, [NUM]() 227, [PROPN]() 16, [PRON]() 2, [ADP]() 2, [NOUN]() 1), <em>uma</em> ([DET]() 1358, [NUM]() 128, [ADP]() 11, [NOUN]() 3, [PRON]() 3, [PROPN]() 1, [ADJ]() 1), <em>sua</em> ([DET]() 410, [ADP]() 6, [PRON]() 1), <em>seu</em> ([DET]() 343, [PRON]() 2, [PROPN]() 1), <em>este</em> ([DET]() 246, [PRON]() 28), <em>esta</em> ([DET]() 197, [PRON]() 17)
 
 
 * <em>o</em>
@@ -50,8 +50,8 @@ The 10 most frequent ambiguous types:  <em>o</em> ([DET]() 9876, [PRON]() 494, [
   * [ADP]() 11: <em>Com a mesma hombridade que exibe mais <b>uma</b> vez .</em>
   * [NOUN]() 3: <em>Estas imagens que publicamos de Cartier-Bresson , Robert Capa , Eve Arnold ou Dennis Stock , entre outros , demonstra , <b>uma</b> vez mais , a vocação totalizadora de a Magnum , a capacidade em acompanhar de perto fenómenos mais importantes de a história de a humanidade .</em>
   * [PRON]() 3: <em>A maior parte de as cerca de 260 pessoas desalojadas instalou então abrigos improvisados em <b>uma</b> de as ruas de a urbanização .</em>
-  * [ADJ]() 1: <em>Em os últimos dias o ritmo tornou se frenético , « manipularam se mais de <b>uma</b> centena de documentos e mapas » , garante de la Peña .</em>
   * [PROPN]() 1: <em>De a série Soluções , o « PC é mais que <b>uma</b> máquina de escrever » é o lançamento de a Ariadne ( 132 págs . )</em>
+  * [ADJ]() 1: <em>Em os últimos dias o ritmo tornou se frenético , « manipularam se mais de <b>uma</b> centena de documentos e mapas » , garante de la Peña .</em>
 * <em>sua</em>
   * [DET]() 410: <em>O shopping West Plaza já começou <b>sua</b> promoção de Dia de as Mães .</em>
   * [ADP]() 6: <em>Christian Fittipaldi , por <b>sua</b> vez , negocia com a Tyrrell .</em>
@@ -121,23 +121,23 @@ The 10 most frequent `DET` types:  <em>o, a, os, as, um, uma, sua, seu, seus, ca
 
 The 10 most frequent ambiguous lemmas: <em>_</em> ([NOUN]() 51670, [PUNCT]() 37916, [PROPN]() 29660, [ADP]() 27823, [VERB]() 26752, [DET]() 23518, [ADJ]() 13618, [CCONJ]() 9896, [ADV]() 8825, [NUM]() 7639, [PRON]() 6681, [AUX]() 4729, [PART]() 687, [X]() 472)
 
-The 10 most frequent ambiguous types:  <em>o</em> ([DET]() 14809, [PRON]() 204, [ADP]() 1, [X]() 1, [PROPN]() 1), <em>a</em> ([DET]() 11752, [ADP]() 3456, [PRON]() 59, [VERB]() 5, [X]() 2, [PROPN]() 1, [CCONJ]() 1), <em>os</em> ([DET]() 3485, [PRON]() 32, [X]() 1, [PROPN]() 1), <em>as</em> ([DET]() 2216, [PRON]() 15, [ADP]() 12), <em>um</em> ([DET]() 1545, [PRON]() 154, [NUM]() 105, [NOUN]() 1), <em>uma</em> ([DET]() 1467, [NUM]() 82, [PRON]() 78), <em>sua</em> ([DET]() 456, [PRON]() 2), <em>seu</em> ([DET]() 391, [PRON]() 1), <em>cada</em> ([DET]() 123, [PRON]() 2), <em>essa</em> ([DET]() 93, [PRON]() 9)
+The 10 most frequent ambiguous types:  <em>o</em> ([DET]() 14809, [PRON]() 204, [PROPN]() 1, [X]() 1, [ADP]() 1), <em>a</em> ([DET]() 11752, [ADP]() 3456, [PRON]() 59, [VERB]() 5, [X]() 2, [CCONJ]() 1, [PROPN]() 1), <em>os</em> ([DET]() 3485, [PRON]() 32, [X]() 1, [PROPN]() 1), <em>as</em> ([DET]() 2216, [PRON]() 15, [ADP]() 12), <em>um</em> ([DET]() 1545, [PRON]() 154, [NUM]() 105, [NOUN]() 1), <em>uma</em> ([DET]() 1467, [NUM]() 82, [PRON]() 78), <em>sua</em> ([DET]() 456, [PRON]() 2), <em>seu</em> ([DET]() 391, [PRON]() 1), <em>cada</em> ([DET]() 123, [PRON]() 2), <em>essa</em> ([DET]() 93, [PRON]() 9)
 
 
 * <em>o</em>
   * [DET]() 14809: <em>O couro de <b>o</b> peixe sempre rende " , conta .</em>
   * [PRON]() 204: <em>Dois anos depois , ele foi preso -- e eu nunca <b>o</b> vi novamente .</em>
-  * [ADP]() 1: <em>Como mostra minha defesa , as reuniões en a Casa Civil com representantes de bancos e empresários são compatíveis com a função de ministro e em momento algum , como atestam os testemunhos , foram <b>o</b> fórum para discutir empréstimos .</em>
-  * [X]() 1: <em>Aproveita ai muito os ultimos dias e vamos com certeza tomar variasss \ <b>o</b> / 2 semanas atrás</em>
   * [PROPN]() 1: <em>En o entanto , em conjunto com a Paróquia de Aver - <b>o</b> - Mar , a paróquia encontra - se a esboçar uma igreja interparoquial de grandes dimensões , dado que a construção em altura domina o Agro - Velho .</em>
+  * [X]() 1: <em>Aproveita ai muito os ultimos dias e vamos com certeza tomar variasss \ <b>o</b> / 2 semanas atrás</em>
+  * [ADP]() 1: <em>Como mostra minha defesa , as reuniões en a Casa Civil com representantes de bancos e empresários são compatíveis com a função de ministro e em momento algum , como atestam os testemunhos , foram <b>o</b> fórum para discutir empréstimos .</em>
 * <em>a</em>
   * [DET]() 11752: <em>Ver também <b>a</b> lista de entidades que tenham emitido selos postais .</em>
   * [ADP]() 3456: <em>" Não podemos fazer outra coisa que sair <b>a</b> as ruas .</em>
   * [PRON]() 59: <em>A região maisafetada por a falta de água é <b>a</b> de o bairro Tangarás .</em>
   * [VERB]() 5: <em>A confirmação saiu agora <b>a</b> pouco .</em>
   * [X]() 2: <em>Em 1928 , Wilhelm Ackermann definiu uma função 3 - argumentos \ phi ( <b>a</b> , b , n ) que evoluiu gradualmente para uma função de dois argumentos , conhecida como a função de Ackermann .</em>
-  * [PROPN]() 1: <em>A segunda parte nos proporcionou maravilhas como Polk Salad Annie , You've Lost That Loving Feeling , You Don't Have To Say You Love Me , I Got <b>a</b> Woman , Bridge Over Troubled Water e Suspicious Minds , sendo esta última a canção que mais agitou e mais arrancou aplausos por parte de o público presente .</em>
   * [CCONJ]() 1: <em>Pode - se citar ainda o programa Saúde Itinerante Cuidando de os Seus Olhos , durante o qual foram realizadas desde consultas oftalmológicas <b>a</b> cirurgias de catarata , pterígio , dacriociste -- infecção de a pálpebra inferior -- e descolamento de retina .</em>
+  * [PROPN]() 1: <em>A segunda parte nos proporcionou maravilhas como Polk Salad Annie , You've Lost That Loving Feeling , You Don't Have To Say You Love Me , I Got <b>a</b> Woman , Bridge Over Troubled Water e Suspicious Minds , sendo esta última a canção que mais agitou e mais arrancou aplausos por parte de o público presente .</em>
 * <em>os</em>
   * [DET]() 3485: <em>É um de <b>os</b> três ácidos ftálicos isoméricos .</em>
   * [PRON]() 32: <em>Porém , <b>os</b> que atendem en a ponta mostraram crescimento .</em>

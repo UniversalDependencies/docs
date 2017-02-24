@@ -11,9 +11,9 @@ The 10 most frequent `INTJ` lemmas: <em>не, да, о, ах, кис, уви, б
 
 The 10 most frequent `INTJ` types:  <em>не, да, О, Ах, кис, уви, брей, я, Дрън-дрън, Здравей</em>
 
-The 10 most frequent ambiguous lemmas: <em>не</em> ([PART]() 1212, [INTJ]() 70), <em>да</em> ([AUX]() 2845, [INTJ]() 29, [PROPN]() 2), <em>я</em> ([PART]() 2, [INTJ]() 2)
+The 10 most frequent ambiguous lemmas: <em>не</em> ([PART]() 1212, [INTJ]() 70), <em>да</em> ([AUX]() 2845, [INTJ]() 29, [PROPN]() 2), <em>я</em> ([INTJ]() 2, [PART]() 2)
 
-The 10 most frequent ambiguous types:  <em>не</em> ([PART]() 1035, [INTJ]() 45), <em>да</em> ([AUX]() 2794, [INTJ]() 3, [PROPN]() 1), <em>я</em> ([PRON]() 117, [PART]() 1, [INTJ]() 1)
+The 10 most frequent ambiguous types:  <em>не</em> ([PART]() 1035, [INTJ]() 45), <em>да</em> ([AUX]() 2794, [INTJ]() 3, [PROPN]() 1), <em>я</em> ([PRON]() 117, [INTJ]() 1, [PART]() 1)
 
 
 * <em>не</em>
@@ -25,8 +25,8 @@ The 10 most frequent ambiguous types:  <em>не</em> ([PART]() 1035, [INTJ]() 45
   * [PROPN]() 1: <em>Бразилската звезда на " Вашку <b>да</b> Гама " Ромарио бе определен за футболист на 2000 г. в традиционната анкета на уругвайския вестник " Ел Паис " .</em>
 * <em>я</em>
   * [PRON]() 117: <em>Ти забрави да <b>я</b> търсиш .</em>
-  * [PART]() 1: <em>Хайде , <b>я</b> разправи днес какво ви предава учителят .</em>
   * [INTJ]() 1: <em>Още от първия ред преглътна , <b>я</b> виж ...</em>
+  * [PART]() 1: <em>Хайде , <b>я</b> разправи днес какво ви предава учителят .</em>
 
 ## Morphology
 

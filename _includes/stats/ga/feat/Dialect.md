@@ -29,7 +29,7 @@ The most frequent other feature values with which `X` and `Dialect` co-occurred:
 
 1 [ga-pos/VERB]() tokens (0% of all `VERB` tokens) have a non-empty value of `Dialect`.
 
-The most frequent other feature values with which `VERB` and `Dialect` co-occurred: <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (1; 100%), <tt><a href="Tense.html">Tense</a>=Past</tt> (1; 100%), <tt><a href="Form.html">Form</a>=Len</tt> (1; 100%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (1; 100%).
+The most frequent other feature values with which `VERB` and `Dialect` co-occurred: <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (1; 100%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (1; 100%), <tt><a href="Form.html">Form</a>=Len</tt> (1; 100%), <tt><a href="Tense.html">Tense</a>=Past</tt> (1; 100%).
 
 `VERB` tokens may have the following values of `Dialect`:
 

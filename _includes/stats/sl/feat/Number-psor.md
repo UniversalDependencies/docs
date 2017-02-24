@@ -53,6 +53,6 @@ The most frequent other feature values with which `DET` and `Number[psor]` co-oc
 ## Relations with Agreement in `Number[psor]`
 
 The 10 most frequent relations where parent and child node agree in `Number[psor]`:
-<tt>DET --[<a href="../dep/parataxis.html">parataxis</a>]--> DET</tt> (1; 100%),
-<tt>DET --[<a href="../dep/reparandum.html">reparandum</a>]--> DET</tt> (1; 100%).
+<tt>DET --[<a href="../dep/reparandum.html">reparandum</a>]--> DET</tt> (1; 100%),
+<tt>DET --[<a href="../dep/parataxis.html">parataxis</a>]--> DET</tt> (1; 100%).
 

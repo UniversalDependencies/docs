@@ -29,8 +29,8 @@ The 10 most frequent relations where parent and child node agree in `Foreign`:
 <tt>X --[<a href="../dep/flat:name.html">flat:name</a>]--> X</tt> (14; 100%),
 <tt>X --[<a href="../dep/conj.html">conj</a>]--> X</tt> (10; 100%),
 <tt>X --[<a href="../dep/appos.html">appos</a>]--> X</tt> (3; 100%),
-<tt>X --[<a href="../dep/compound:nn.html">compound:nn</a>]--> X</tt> (1; 100%),
 <tt>X --[<a href="../dep/nmod:poss.html">nmod:poss</a>]--> X</tt> (1; 100%),
+<tt>X --[<a href="../dep/compound:nn.html">compound:nn</a>]--> X</tt> (1; 100%),
 <tt>X --[<a href="../dep/nsubj:cop.html">nsubj:cop</a>]--> X</tt> (1; 100%).
 
 
@@ -69,5 +69,5 @@ The 10 most frequent relations where parent and child node agree in `Foreign`:
 <tt>X --[<a href="../dep/nsubj.html">nsubj</a>]--> X</tt> (3; 100%),
 <tt>X --[<a href="../dep/case.html">case</a>]--> X</tt> (2; 100%),
 <tt>X --[<a href="../dep/compound:prt.html">compound:prt</a>]--> X</tt> (1; 100%),
-<tt>X --[<a href="../dep/vocative.html">vocative</a>]--> X</tt> (1; 100%).
+<tt>X --[<a href="../dep/aux.html">aux</a>]--> X</tt> (1; 100%).
 

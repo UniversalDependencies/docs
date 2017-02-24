@@ -18,7 +18,7 @@ The feature is used with 3 part-of-speech tags: [fi-pos/VERB]() (11041; 6% insta
 
 11041 [fi-pos/VERB]() tokens (44% of all `VERB` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="Case.html">Case</a>=EMPTY</tt> (11041; 100%), <tt><a href="Degree.html">Degree</a>=EMPTY</tt> (11041; 100%), <tt><a href="PartForm.html">PartForm</a>=EMPTY</tt> (11041; 100%), <tt><a href="InfForm.html">InfForm</a>=EMPTY</tt> (11041; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (11041; 100%), <tt><a href="Voice.html">Voice</a>=Act</tt> (11041; 100%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (9775; 89%), <tt><a href="Number.html">Number</a>=Sing</tt> (8908; 81%).
+The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="Degree.html">Degree</a>=EMPTY</tt> (11041; 100%), <tt><a href="PartForm.html">PartForm</a>=EMPTY</tt> (11041; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (11041; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (11041; 100%), <tt><a href="Voice.html">Voice</a>=Act</tt> (11041; 100%), <tt><a href="InfForm.html">InfForm</a>=EMPTY</tt> (11041; 100%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (9775; 89%), <tt><a href="Number.html">Number</a>=Sing</tt> (8908; 81%).
 
 `VERB` tokens may have the following values of `Person`:
 
@@ -50,7 +50,7 @@ The most frequent other feature values with which `VERB` and `Person` co-occurre
 
 8736 [fi-pos/AUX]() tokens (84% of all `AUX` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `AUX` and `Person` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (8736; 100%), <tt><a href="Voice.html">Voice</a>=Act</tt> (8736; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (7578; 87%), <tt><a href="Polarity.html">Polarity</a>=EMPTY</tt> (6978; 80%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (6372; 73%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (4886; 56%).
+The most frequent other feature values with which `AUX` and `Person` co-occurred: <tt><a href="Voice.html">Voice</a>=Act</tt> (8736; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (8736; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (7578; 87%), <tt><a href="Polarity.html">Polarity</a>=EMPTY</tt> (6978; 80%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (6372; 73%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (4886; 56%).
 
 `AUX` tokens may have the following values of `Person`:
 
@@ -110,7 +110,7 @@ The most frequent other feature values with which `AUX` and `Person` co-occurred
   <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Plur|<a href="Tense.html">Tense</a>=Pres</tt></td><td><em>olemme</em></td><td><em>olette</em></td><td><em>ovat</em></td><td></td></tr>
   <tr><td><tt><a href="Mood.html">Mood</a>=Pot|<a href="Number.html">Number</a>=Sing|<a href="Typo.html">Typo</a>=Yes</tt></td><td></td><td></td><td></td><td><em>lie</em></td></tr>
   <tr><td><tt><a href="Mood.html">Mood</a>=Pot|<a href="Number.html">Number</a>=Sing</tt></td><td></td><td></td><td><em>lienee</em></td><td><em>lienee</em></td></tr>
-  <tr><td><tt><a href="Mood.html">Mood</a>=Pot|<a href="Number.html">Number</a>=Plur</tt></td><td></td><td></td><td><em>lie, lienevät</em></td><td></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Pot|<a href="Number.html">Number</a>=Plur</tt></td><td></td><td></td><td><em>lienevät, lie</em></td><td></td></tr>
 </table>
 
 ### `PRON`
@@ -133,12 +133,12 @@ The 10 most frequent relations where parent and child node agree in `Person`:
 <tt>VERB --[<a href="../dep/appos.html">appos</a>]--> VERB</tt> (7; 100%),
 <tt>AUX --[<a href="../dep/aux:pass.html">aux:pass</a>]--> AUX</tt> (3; 100%),
 <tt>AUX --[<a href="../dep/cop.html">cop</a>]--> AUX</tt> (2; 100%),
+<tt>AUX --[<a href="../dep/conj.html">conj</a>]--> AUX</tt> (1; 100%),
 <tt>VERB --[<a href="../dep/vocative.html">vocative</a>]--> PRON</tt> (1; 100%),
 <tt>AUX --[<a href="../dep/conj.html">conj</a>]--> VERB</tt> (1; 100%),
-<tt>VERB --[<a href="../dep/acl.html">acl</a>]--> VERB</tt> (1; 100%),
-<tt>VERB --[<a href="../dep/goeswith.html">goeswith</a>]--> VERB</tt> (1; 100%),
-<tt>AUX --[<a href="../dep/conj.html">conj</a>]--> AUX</tt> (1; 100%),
-<tt>PRON --[<a href="../dep/nmod:poss.html">nmod:poss</a>]--> PRON</tt> (1; 100%).
+<tt>PRON --[<a href="../dep/nmod:poss.html">nmod:poss</a>]--> PRON</tt> (1; 100%),
+<tt>AUX --[<a href="../dep/orphan.html">orphan</a>]--> AUX</tt> (1; 100%),
+<tt>VERB --[<a href="../dep/goeswith.html">goeswith</a>]--> VERB</tt> (1; 100%).
 
 
 
@@ -160,7 +160,7 @@ The feature is used with 4 part-of-speech tags: [fi-pos/VERB]() (17635; 12% inst
 
 17635 [fi-pos/VERB]() tokens (58% of all `VERB` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="Case.html">Case</a>=EMPTY</tt> (17635; 100%), <tt><a href="PartForm.html">PartForm</a>=EMPTY</tt> (17635; 100%), <tt><a href="InfForm.html">InfForm</a>=EMPTY</tt> (17635; 100%), <tt><a href="Voice.html">Voice</a>=Act</tt> (17635; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (17635; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (15232; 86%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (13177; 75%).
+The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (17635; 100%), <tt><a href="PartForm.html">PartForm</a>=EMPTY</tt> (17635; 100%), <tt><a href="InfForm.html">InfForm</a>=EMPTY</tt> (17635; 100%), <tt><a href="Voice.html">Voice</a>=Act</tt> (17635; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (17635; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (15232; 86%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (13177; 75%).
 
 `VERB` tokens may have the following values of `Person`:
 
@@ -195,22 +195,22 @@ The most frequent other feature values with which `VERB` and `Person` co-occurre
   <tr><td><tt><a href="Clitic.html">Clitic</a>=Ko|<a href="Mood.html">Mood</a>=Cnd|<a href="Number.html">Number</a>=Sing</tt></td><td></td><td></td><td><em>olisiko</em></td></tr>
   <tr><td><tt><a href="Clitic.html">Clitic</a>=Ko|<a href="Mood.html">Mood</a>=Cnd|<a href="Number.html">Number</a>=Plur</tt></td><td></td><td><em>Olisitteko</em></td><td></td></tr>
   <tr><td><tt><a href="Clitic.html">Clitic</a>=Ko|<a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Style.html">Style</a>=Coll|<a href="Tense.html">Tense</a>=Past</tt></td><td></td><td></td><td><em>Oliks</em></td></tr>
-  <tr><td><tt><a href="Clitic.html">Clitic</a>=Ko|<a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Style.html">Style</a>=Coll|<a href="Tense.html">Tense</a>=Pres</tt></td><td><em>ooks, olenk, Oonksmä, oonko</em></td><td><em>ootko, ootsä, Ookkonää, oleks, Ooksää</em></td><td><em>onks, onk</em></td></tr>
+  <tr><td><tt><a href="Clitic.html">Clitic</a>=Ko|<a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Style.html">Style</a>=Coll|<a href="Tense.html">Tense</a>=Pres</tt></td><td><em>olenk, oonko, ooks, Oonksmä</em></td><td><em>ootko, ootsä, Ookkonää, oleks, Ooksää</em></td><td><em>onks, onk</em></td></tr>
   <tr><td><tt><a href="Clitic.html">Clitic</a>=Ko|<a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Tense.html">Tense</a>=Past</tt></td><td><em>olinko</em></td><td><em>Olitko</em></td><td><em>oliko</em></td></tr>
   <tr><td><tt><a href="Clitic.html">Clitic</a>=Ko|<a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Tense.html">Tense</a>=Pres</tt></td><td><em>olenko</em></td><td><em>oletko</em></td><td><em>onko</em></td></tr>
   <tr><td><tt><a href="Clitic.html">Clitic</a>=Ko|<a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Plur|<a href="Style.html">Style</a>=Coll|<a href="Tense.html">Tense</a>=Past</tt></td><td></td><td><em>Olitteks</em></td><td></td></tr>
-  <tr><td><tt><a href="Clitic.html">Clitic</a>=Ko|<a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Plur|<a href="Style.html">Style</a>=Coll|<a href="Tense.html">Tense</a>=Pres</tt></td><td></td><td><em>ootteko, Oottekste</em></td><td></td></tr>
+  <tr><td><tt><a href="Clitic.html">Clitic</a>=Ko|<a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Plur|<a href="Style.html">Style</a>=Coll|<a href="Tense.html">Tense</a>=Pres</tt></td><td></td><td><em>Oottekste, ootteko</em></td><td></td></tr>
   <tr><td><tt><a href="Clitic.html">Clitic</a>=Ko|<a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Plur|<a href="Tense.html">Tense</a>=Pres</tt></td><td><em>olemmeko</em></td><td><em>Oletteko</em></td><td><em>ovatko</em></td></tr>
   <tr><td><tt><a href="Clitic.html">Clitic</a>=Ko|<a href="Mood.html">Mood</a>=Pot|<a href="Number.html">Number</a>=Sing</tt></td><td></td><td></td><td><em>Liekö, lieneekö</em></td></tr>
   <tr><td><tt><a href="Clitic.html">Clitic</a>=Pa|<a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Tense.html">Tense</a>=Pres</tt></td><td></td><td><em>Oletpa</em></td><td><em>Onpa</em></td></tr>
   <tr><td><tt><a href="Mood.html">Mood</a>=Cnd|<a href="Number.html">Number</a>=Sing|<a href="Style.html">Style</a>=Coll</tt></td><td><em>oisi, oisin</em></td><td></td><td><em>ois, olis, os</em></td></tr>
   <tr><td><tt><a href="Mood.html">Mood</a>=Cnd|<a href="Number.html">Number</a>=Sing</tt></td><td><em>olisin</em></td><td><em>olisit</em></td><td><em>olisi</em></td></tr>
   <tr><td><tt><a href="Mood.html">Mood</a>=Cnd|<a href="Number.html">Number</a>=Plur</tt></td><td><em>olisimme</em></td><td><em>olisitte</em></td><td><em>olisivat</em></td></tr>
-  <tr><td><tt><a href="Mood.html">Mood</a>=Imp|<a href="Number.html">Number</a>=Sing|<a href="Style.html">Style</a>=Coll</tt></td><td></td><td><em>Ous, Oo</em></td><td></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Imp|<a href="Number.html">Number</a>=Sing|<a href="Style.html">Style</a>=Coll</tt></td><td></td><td><em>Oo, Ous</em></td><td></td></tr>
   <tr><td><tt><a href="Mood.html">Mood</a>=Imp|<a href="Number.html">Number</a>=Sing</tt></td><td></td><td><em>ole</em></td><td><em>olkoon</em></td></tr>
   <tr><td><tt><a href="Mood.html">Mood</a>=Imp|<a href="Number.html">Number</a>=Plur</tt></td><td></td><td><em>Olkaa</em></td><td><em>olkoot</em></td></tr>
   <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Style.html">Style</a>=Coll|<a href="Tense.html">Tense</a>=Past</tt></td><td><em>oli</em></td><td></td><td><em>ol, olii, ol´</em></td></tr>
-  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Style.html">Style</a>=Coll|<a href="Tense.html">Tense</a>=Pres</tt></td><td><em>oon, on, Oom, Oommä, oo, ole, ool</em></td><td><em>oot</em></td><td><em>o, oj, om</em></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Style.html">Style</a>=Coll|<a href="Tense.html">Tense</a>=Pres</tt></td><td><em>oon, oo, Oom, Oommä, ole, on, ool</em></td><td><em>oot</em></td><td><em>o, oj, om</em></td></tr>
   <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Tense.html">Tense</a>=Past</tt></td><td><em>olin</em></td><td><em>olit</em></td><td><em>oli</em></td></tr>
   <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Tense.html">Tense</a>=Pres</tt></td><td><em>olen</em></td><td><em>olet</em></td><td><em>on</em></td></tr>
   <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Plur|<a href="Style.html">Style</a>=Coll|<a href="Tense.html">Tense</a>=Past</tt></td><td><em>Olimma</em></td><td><em>olija</em></td><td></td></tr>
@@ -263,11 +263,11 @@ The most frequent other feature values with which `AUX` and `Person` co-occurred
   <tr><td><tt><a href="Clitic.html">Clitic</a>=Kin|<a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Tense.html">Tense</a>=Pres</tt></td><td><em>olenkin</em></td><td><em>oletkin</em></td><td><em>onkin</em></td></tr>
   <tr><td><tt><a href="Clitic.html">Clitic</a>=Kin|<a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Plur|<a href="Tense.html">Tense</a>=Pres</tt></td><td></td><td></td><td><em>ovatkin</em></td></tr>
   <tr><td><tt><a href="Clitic.html">Clitic</a>=Ko,S|<a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Tense.html">Tense</a>=Past</tt></td><td></td><td></td><td><em>Olikos</em></td></tr>
-  <tr><td><tt><a href="Clitic.html">Clitic</a>=Ko|<a href="Mood.html">Mood</a>=Cnd|<a href="Number.html">Number</a>=Sing|<a href="Style.html">Style</a>=Coll</tt></td><td></td><td></td><td><em>olisko, oisko</em></td></tr>
+  <tr><td><tt><a href="Clitic.html">Clitic</a>=Ko|<a href="Mood.html">Mood</a>=Cnd|<a href="Number.html">Number</a>=Sing|<a href="Style.html">Style</a>=Coll</tt></td><td></td><td></td><td><em>oisko, olisko</em></td></tr>
   <tr><td><tt><a href="Clitic.html">Clitic</a>=Ko|<a href="Mood.html">Mood</a>=Cnd|<a href="Number.html">Number</a>=Sing</tt></td><td><em>Olisinko</em></td><td></td><td><em>olisiko</em></td></tr>
   <tr><td><tt><a href="Clitic.html">Clitic</a>=Ko|<a href="Mood.html">Mood</a>=Cnd|<a href="Number.html">Number</a>=Plur</tt></td><td></td><td></td><td><em>olisivatko</em></td></tr>
   <tr><td><tt><a href="Clitic.html">Clitic</a>=Ko|<a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Style.html">Style</a>=Coll|<a href="Tense.html">Tense</a>=Past</tt></td><td></td><td></td><td><em>oliks, olik</em></td></tr>
-  <tr><td><tt><a href="Clitic.html">Clitic</a>=Ko|<a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Style.html">Style</a>=Coll|<a href="Tense.html">Tense</a>=Pres</tt></td><td></td><td><em>ook, oleksä</em></td><td><em>onks, onk</em></td></tr>
+  <tr><td><tt><a href="Clitic.html">Clitic</a>=Ko|<a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Style.html">Style</a>=Coll|<a href="Tense.html">Tense</a>=Pres</tt></td><td></td><td><em>oleksä, ook</em></td><td><em>onks, onk</em></td></tr>
   <tr><td><tt><a href="Clitic.html">Clitic</a>=Ko|<a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Tense.html">Tense</a>=Past</tt></td><td><em>olinko</em></td><td></td><td><em>oliko</em></td></tr>
   <tr><td><tt><a href="Clitic.html">Clitic</a>=Ko|<a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Tense.html">Tense</a>=Pres</tt></td><td><em>olenko</em></td><td><em>oletko</em></td><td><em>onko</em></td></tr>
   <tr><td><tt><a href="Clitic.html">Clitic</a>=Ko|<a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Plur|<a href="Tense.html">Tense</a>=Pres</tt></td><td><em>olemmeko</em></td><td></td><td><em>ovatko</em></td></tr>
@@ -283,7 +283,7 @@ The most frequent other feature values with which `AUX` and `Person` co-occurred
   <tr><td><tt><a href="Mood.html">Mood</a>=Cnd|<a href="Number.html">Number</a>=Plur</tt></td><td><em>olisimme</em></td><td><em>Olisitte</em></td><td><em>olisivat</em></td></tr>
   <tr><td><tt><a href="Mood.html">Mood</a>=Imp|<a href="Number.html">Number</a>=Sing</tt></td><td></td><td><em>Ole</em></td><td><em>olkoon</em></td></tr>
   <tr><td><tt><a href="Mood.html">Mood</a>=Imp|<a href="Number.html">Number</a>=Plur</tt></td><td><em>Olkaamme</em></td><td><em>olkaa</em></td><td><em>olkoot</em></td></tr>
-  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Style.html">Style</a>=Coll|<a href="Tense.html">Tense</a>=Past</tt></td><td></td><td></td><td><em>ol, olä, ol´</em></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Style.html">Style</a>=Coll|<a href="Tense.html">Tense</a>=Past</tt></td><td></td><td></td><td><em>ol´, olä, ol</em></td></tr>
   <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Style.html">Style</a>=Coll|<a href="Tense.html">Tense</a>=Pres</tt></td><td><em>oon</em></td><td><em>oot</em></td><td><em>o, oj</em></td></tr>
   <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Tense.html">Tense</a>=Past</tt></td><td><em>olin</em></td><td><em>olit</em></td><td><em>oli</em></td></tr>
   <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Tense.html">Tense</a>=Pres</tt></td><td><em>olen</em></td><td><em>olet</em></td><td><em>on</em></td></tr>

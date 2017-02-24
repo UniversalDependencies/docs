@@ -11,9 +11,9 @@ The 10 most frequent `PRON` lemmas: <em>que, ell, es, hi, un, tot, qual, jo, on,
 
 The 10 most frequent `PRON` types:  <em>que, es, s', hi, se, un, li, on, tot, què</em>
 
-The 10 most frequent ambiguous lemmas: <em>que</em> ([PRON]() 6414, [SCONJ]() 6036, [CCONJ]() 4, [DET]() 1), <em>es</em> ([PRON]() 3452, [PROPN]() 5, [VERB]() 2, [DET]() 2), <em>hi</em> ([PRON]() 1175, [PROPN]() 1), <em>un</em> ([DET]() 7780, [PRON]() 860, [NUM]() 280), <em>tot</em> ([DET]() 803, [PRON]() 484, [ADV]() 39), <em>qual</em> ([PRON]() 474, [DET]() 51), <em>jo</em> ([PRON]() 470, [NOUN]() 6), <em>on</em> ([PRON]() 395, [SCONJ]() 10, [PROPN]() 7, [NOUN]() 1), <em>això</em> ([PRON]() 310, [NOUN]() 23), <em>en</em> ([ADP]() 6294, [PRON]() 306, [DET]() 8)
+The 10 most frequent ambiguous lemmas: <em>que</em> ([PRON]() 6414, [SCONJ]() 6036, [CCONJ]() 4, [DET]() 1), <em>es</em> ([PRON]() 3452, [PROPN]() 5, [DET]() 2, [VERB]() 2), <em>hi</em> ([PRON]() 1175, [PROPN]() 1), <em>un</em> ([DET]() 7780, [PRON]() 860, [NUM]() 280), <em>tot</em> ([DET]() 803, [PRON]() 484, [ADV]() 39), <em>qual</em> ([PRON]() 474, [DET]() 51), <em>jo</em> ([PRON]() 470, [NOUN]() 6), <em>on</em> ([PRON]() 395, [SCONJ]() 10, [PROPN]() 7, [NOUN]() 1), <em>això</em> ([PRON]() 310, [NOUN]() 23), <em>en</em> ([ADP]() 6294, [PRON]() 306, [DET]() 8)
 
-The 10 most frequent ambiguous types:  <em>que</em> ([PRON]() 6414, [SCONJ]() 6004, [CCONJ]() 4), <em>es</em> ([PRON]() 2881, [PROPN]() 5, [VERB]() 2), <em>s'</em> ([PRON]() 2021, [VERB]() 2), <em>hi</em> ([PRON]() 1126, [VERB]() 1, [PROPN]() 1), <em>se</em> ([PRON]() 784, [PROPN]() 1), <em>un</em> ([DET]() 4009, [PRON]() 540, [NUM]() 149), <em>on</em> ([PRON]() 391, [SCONJ]() 10, [PROPN]() 7, [NOUN]() 1), <em>tot</em> ([PRON]() 314, [DET]() 230, [ADV]() 36), <em>això</em> ([PRON]() 261, [NOUN]() 23), <em>qual</em> ([PRON]() 273, [DET]() 51)
+The 10 most frequent ambiguous types:  <em>que</em> ([PRON]() 6414, [SCONJ]() 6004, [CCONJ]() 4), <em>es</em> ([PRON]() 2881, [PROPN]() 5, [VERB]() 2), <em>s'</em> ([PRON]() 2021, [VERB]() 2), <em>hi</em> ([PRON]() 1126, [PROPN]() 1, [VERB]() 1), <em>se</em> ([PRON]() 784, [PROPN]() 1), <em>un</em> ([DET]() 4009, [PRON]() 540, [NUM]() 149), <em>on</em> ([PRON]() 391, [SCONJ]() 10, [PROPN]() 7, [NOUN]() 1), <em>tot</em> ([PRON]() 314, [DET]() 230, [ADV]() 36), <em>això</em> ([PRON]() 261, [NOUN]() 23), <em>qual</em> ([PRON]() 273, [DET]() 51)
 
 
 * <em>que</em>
@@ -29,8 +29,8 @@ The 10 most frequent ambiguous types:  <em>que</em> ([PRON]() 6414, [SCONJ]() 60
   * [VERB]() 2: <em>El jutjat d' instrucció número 2 de Vilanova i la Geltrú ( Garraf ) <b>s'</b> ha fet càrrec de les investigacions que s' han obert per un delicte de lesions .</em>
 * <em>hi</em>
   * [PRON]() 1126: <em>En el concurs <b>hi</b> ha pres part 133 equips .</em>
-  * [VERB]() 1: <em>El Barça <b>hi</b> surt guanyant amb ell " .</em>
   * [PROPN]() 1: <em>Una dotzena d' entitats del món socioeconòmic català , que representen principalment els sectors de l' hostaleria , la restauració i el comerç , signaran demà al Palau de la Generalitat un acord segons el qual s' inscriuen a la campanya ' En català , tu <b>hi</b> guanyes ' que impulsa el Govern amb l' objecte de fomentar l' ús del català en l' atenció al públic als establiments comercials i de restauració .</em>
+  * [VERB]() 1: <em>El Barça <b>hi</b> surt guanyant amb ell " .</em>
 * <em>se</em>
   * [PRON]() 784: <em>Pel que fa a les seccions , <b>se</b> n' han creat de noves .</em>
   * [PROPN]() 1: <em>Per tancar aquest espai monogràfic s' ofereixen els documentals Insectos en sociedad i Así <b>se</b> hizo ... la ciudad de las hormigas .</em>

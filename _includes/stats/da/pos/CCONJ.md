@@ -13,7 +13,7 @@ The 10 most frequent `CCONJ` types:  <em>og, men, eller, for, samt, &, jamen</em
 
 The 10 most frequent ambiguous lemmas: <em>og</em> ([CCONJ]() 2299, [X]() 1), <em>for</em> ([ADP]() 893, [ADV]() 58, [CCONJ]() 48, [X]() 1)
 
-The 10 most frequent ambiguous types:  <em>og</em> ([CCONJ]() 2152, [X]() 1), <em>for</em> ([ADP]() 865, [ADV]() 57, [CCONJ]() 32, [X]() 1, [VERB]() 1)
+The 10 most frequent ambiguous types:  <em>og</em> ([CCONJ]() 2152, [X]() 1), <em>for</em> ([ADP]() 865, [ADV]() 57, [CCONJ]() 32, [VERB]() 1, [X]() 1)
 
 
 * <em>og</em>
@@ -23,8 +23,8 @@ The 10 most frequent ambiguous types:  <em>og</em> ([CCONJ]() 2152, [X]() 1), <e
   * [ADP]() 865: <em>" Vi fralægger os ethvert ansvar <b>for</b> mordene .</em>
   * [ADV]() 57: <em>Tænk , at jeg skulle ende som manden , der vidste <b>for</b> meget !</em>
   * [CCONJ]() 32: <em>Og det håber vi så på , <b>for</b> vi vil jo så gerne have et , helst to børn .</em>
-  * [X]() 1: <em>Samtidig foreslår man at skære værnepligt-tiden ned med ca. én måned , samtidig med , at der på kort sigt ( frem til 1996 ) nyinvesteres i materiel for <b>for</b> ca. 5 mia. kr. .</em>
   * [VERB]() 1: <em>En let rødme <b>for</b> op i den unge kvindes kinder .</em>
+  * [X]() 1: <em>Samtidig foreslår man at skære værnepligt-tiden ned med ca. én måned , samtidig med , at der på kort sigt ( frem til 1996 ) nyinvesteres i materiel for <b>for</b> ca. 5 mia. kr. .</em>
 
 ## Morphology
 

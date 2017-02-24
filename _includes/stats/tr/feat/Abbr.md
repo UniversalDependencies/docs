@@ -16,7 +16,7 @@ The feature is used with 1 part-of-speech tags: [tr-pos/NOUN]() (113; 0% instanc
 
 113 [tr-pos/NOUN]() tokens (1% of all `NOUN` tokens) have a non-empty value of `Abbr`.
 
-The most frequent other feature values with which `NOUN` and `Abbr` co-occurred: <tt><a href="Number[psor].html">Number[psor]</a>=EMPTY</tt> (113; 100%), <tt><a href="Person[psor].html">Person[psor]</a>=EMPTY</tt> (113; 100%), <tt><a href="Person.html">Person</a>=3</tt> (113; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (112; 99%), <tt><a href="Case.html">Case</a>=Nom</tt> (72; 64%).
+The most frequent other feature values with which `NOUN` and `Abbr` co-occurred: <tt><a href="Number[psor].html">Number[psor]</a>=EMPTY</tt> (113; 100%), <tt><a href="Person.html">Person</a>=3</tt> (113; 100%), <tt><a href="Person[psor].html">Person[psor]</a>=EMPTY</tt> (113; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (112; 99%), <tt><a href="Case.html">Case</a>=Nom</tt> (72; 64%).
 
 `NOUN` tokens may have the following values of `Abbr`:
 

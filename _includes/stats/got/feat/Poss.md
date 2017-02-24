@@ -16,7 +16,7 @@ The feature is used with 1 part-of-speech tags: [got-pos/ADJ]() (946; 2% instanc
 
 946 [got-pos/ADJ]() tokens (24% of all `ADJ` tokens) have a non-empty value of `Poss`.
 
-The most frequent other feature values with which `ADJ` and `Poss` co-occurred: <tt><a href="Degree.html">Degree</a>=EMPTY</tt> (946; 100%), <tt><a href="Strength.html">Strength</a>=EMPTY</tt> (946; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (718; 76%).
+The most frequent other feature values with which `ADJ` and `Poss` co-occurred: <tt><a href="Strength.html">Strength</a>=EMPTY</tt> (946; 100%), <tt><a href="Degree.html">Degree</a>=EMPTY</tt> (946; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (718; 76%).
 
 `ADJ` tokens may have the following values of `Poss`:
 

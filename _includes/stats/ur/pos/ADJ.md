@@ -11,7 +11,7 @@ The 10 most frequent `ADJ` lemmas: جاری، شامل، دیگر، موجود،
 
 The 10 most frequent `ADJ` types:  جاری، شامل، دیگر، موجود، سابق، ہلاک، پیدا، ریاستی، منعقد، واضح
 
-The 10 most frequent ambiguous lemmas: شامل ([ADJ]() 126, [NOUN]() 2), دیگر ([ADJ]() 92, [DET]() 24, [PRON]() 11, [NOUN]() 2), سابق ([ADJ]() 85, [NOUN]() 8), ہلاک ([ADJ]() 81, [NOUN]() 1), پیدا ([ADJ]() 76, [NOUN]() 1), دوسرا ([ADJ]() 73, [NOUN]() 12, [PRON]() 11, [DET]() 2, [NUM]() 1), منعقد ([ADJ]() 69, [NOUN]() 1), ریاستی ([ADJ]() 67, [NOUN]() 15, [PROPN]() 6), کم ([ADJ]() 67, [DET]() 20, [NOUN]() 2, [PART]() 2), پہلا ([ADJ]() 65, [ADV]() 4, [ADP]() 2, [NUM]() 1)
+The 10 most frequent ambiguous lemmas: شامل ([ADJ]() 126, [NOUN]() 2), دیگر ([ADJ]() 92, [DET]() 24, [PRON]() 11, [NOUN]() 2), سابق ([ADJ]() 85, [NOUN]() 8), ہلاک ([ADJ]() 81, [NOUN]() 1), پیدا ([ADJ]() 76, [NOUN]() 1), دوسرا ([ADJ]() 73, [NOUN]() 12, [PRON]() 11, [DET]() 2, [NUM]() 1), منعقد ([ADJ]() 69, [NOUN]() 1), ریاستی ([ADJ]() 67, [NOUN]() 15, [PROPN]() 6), کم ([ADJ]() 67, [DET]() 20, [PART]() 2, [NOUN]() 2), پہلا ([ADJ]() 65, [ADV]() 4, [ADP]() 2, [NUM]() 1)
 
 The 10 most frequent ambiguous types:  شامل ([ADJ]() 126, [NOUN]() 2), دیگر ([ADJ]() 92, [DET]() 24, [PRON]() 11, [NOUN]() 2), سابق ([ADJ]() 85, [NOUN]() 8), ہلاک ([ADJ]() 81, [NOUN]() 1), پیدا ([ADJ]() 76, [NOUN]() 1), ریاستی ([ADJ]() 67, [NOUN]() 15, [PROPN]() 6), منعقد ([ADJ]() 67, [NOUN]() 1), کم ([ADJ]() 67, [DET]() 20, [PART]() 2), تمام ([DET]() 76, [ADJ]() 65, [PRON]() 5, [NOUN]() 2), سرکاری ([ADJ]() 64, [NOUN]() 11, [PROPN]() 1)
 

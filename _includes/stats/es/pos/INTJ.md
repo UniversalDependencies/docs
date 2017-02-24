@@ -11,9 +11,9 @@ The 10 most frequent `INTJ` lemmas: <em>je, bueno, ay, ojalá, adiós, ah, claro
 
 The 10 most frequent `INTJ` types:  <em>Je, Bueno, ay, ojalá, Adiós, Ah, Ja, claro, ojo, qué</em>
 
-The 10 most frequent ambiguous lemmas: <em>bueno</em> ([INTJ]() 8, [NOUN]() 1), <em>adiós</em> ([INTJ]() 3, [NOUN]() 1), <em>claro</em> ([ADJ]() 80, [ADV]() 24, [INTJ]() 3, [NOUN]() 1), <em>ja</em> ([INTJ]() 3, [ADV]() 2), <em>ojo</em> ([NOUN]() 40, [INTJ]() 3), <em>qué</em> ([PRON]() 148, [DET]() 57, [INTJ]() 3, [PROPN]() 1), <em>señor</em> ([NOUN]() 56, [INTJ]() 3, [PROPN]() 1), <em>contrario</em> ([NOUN]() 36, [ADJ]() 26, [INTJ]() 2), <em>dios</em> ([NOUN]() 5, [INTJ]() 2, [PROPN]() 2, [DET]() 1), <em>fantástico</em> ([ADJ]() 6, [INTJ]() 2)
+The 10 most frequent ambiguous lemmas: <em>bueno</em> ([INTJ]() 8, [NOUN]() 1), <em>adiós</em> ([INTJ]() 3, [NOUN]() 1), <em>claro</em> ([ADJ]() 80, [ADV]() 24, [INTJ]() 3, [NOUN]() 1), <em>ja</em> ([INTJ]() 3, [ADV]() 2), <em>ojo</em> ([NOUN]() 40, [INTJ]() 3), <em>qué</em> ([PRON]() 148, [DET]() 57, [INTJ]() 3, [PROPN]() 1), <em>señor</em> ([NOUN]() 56, [INTJ]() 3, [PROPN]() 1), <em>contrario</em> ([NOUN]() 36, [ADJ]() 26, [INTJ]() 2), <em>dios</em> ([NOUN]() 5, [PROPN]() 2, [INTJ]() 2, [DET]() 1), <em>fantástico</em> ([ADJ]() 6, [INTJ]() 2)
 
-The 10 most frequent ambiguous types:  <em>Bueno</em> ([INTJ]() 8, [ADJ]() 3, [PROPN]() 1), <em>Ja</em> ([INTJ]() 3, [ADV]() 1), <em>claro</em> ([ADJ]() 44, [ADV]() 15, [INTJ]() 3, [NOUN]() 1), <em>ojo</em> ([NOUN]() 11, [INTJ]() 1), <em>qué</em> ([PRON]() 109, [DET]() 42, [INTJ]() 3, [PROPN]() 1), <em>Dios</em> ([PROPN]() 37, [NOUN]() 2, [INTJ]() 2, [DET]() 1), <em>Oh</em> ([INTJ]() 2, [PROPN]() 1), <em>contrario</em> ([NOUN]() 35, [ADJ]() 19, [INTJ]() 2), <em>señor</em> ([NOUN]() 53, [PROPN]() 1, [INTJ]() 1), <em>uh</em> ([INTJ]() 2, [NOUN]() 1)
+The 10 most frequent ambiguous types:  <em>Bueno</em> ([INTJ]() 8, [ADJ]() 3, [PROPN]() 1), <em>Ja</em> ([INTJ]() 3, [ADV]() 1), <em>claro</em> ([ADJ]() 44, [ADV]() 15, [INTJ]() 3, [NOUN]() 1), <em>ojo</em> ([NOUN]() 11, [INTJ]() 1), <em>qué</em> ([PRON]() 109, [DET]() 42, [INTJ]() 3, [PROPN]() 1), <em>Dios</em> ([PROPN]() 37, [INTJ]() 2, [NOUN]() 2, [DET]() 1), <em>Oh</em> ([INTJ]() 2, [PROPN]() 1), <em>contrario</em> ([NOUN]() 35, [ADJ]() 19, [INTJ]() 2), <em>señor</em> ([NOUN]() 53, [INTJ]() 1, [PROPN]() 1), <em>uh</em> ([INTJ]() 2, [NOUN]() 1)
 
 
 * <em>Bueno</em>
@@ -38,8 +38,8 @@ The 10 most frequent ambiguous types:  <em>Bueno</em> ([INTJ]() 8, [ADJ]() 3, [P
   * [PROPN]() 1: <em>En Baleares , Aznar recurre a una cita del Conde de Romanones - " joder , <b>qué</b> tropa " - para criticar la variedad de proyectos del PSOE .</em>
 * <em>Dios</em>
   * [PROPN]() 37: <em>Me obsesionaba la imagen del pobre Niño <b>Dios</b> rechazado .</em>
-  * [NOUN]() 2: <em>El Ayuntamiento les ha invitado a fumar la pipa de la paz : el terreno de la - casita - , a cambio de otra parcela un poco más allá , para que puedan construir se un centro cultural como <b>Dios</b> manda .</em>
   * [INTJ]() 2: <em><b>Dios</b> mío .</em>
+  * [NOUN]() 2: <em>El Ayuntamiento les ha invitado a fumar la pipa de la paz : el terreno de la - casita - , a cambio de otra parcela un poco más allá , para que puedan construir se un centro cultural como <b>Dios</b> manda .</em>
   * [DET]() 1: <em>Literatura lustral para las tristezas de todos los Medardos Fraile , conocidos o ignotos , que caminan hacia <b>Dios</b> sabe qué reinos de figurones .</em>
 * <em>Oh</em>
   * [INTJ]() 2: <em><b>Oh</b> , no .</em>
@@ -50,8 +50,8 @@ The 10 most frequent ambiguous types:  <em>Bueno</em> ([INTJ]() 8, [ADJ]() 3, [P
   * [INTJ]() 2: <em>Todo lo <b>contrario</b> .</em>
 * <em>señor</em>
   * [NOUN]() 53: <em>Sí , <b>señor</b> .</em>
-  * [PROPN]() 1: <em>Diferencias en las proporciones de los personajes o elementos contemporáneos que se cuelan en el plano son algunos de los errores de El <b>señor</b> de los anillos .</em>
   * [INTJ]() 1: <em>Señor , <b>señor</b> .</em>
+  * [PROPN]() 1: <em>Diferencias en las proporciones de los personajes o elementos contemporáneos que se cuelan en el plano son algunos de los errores de El <b>señor</b> de los anillos .</em>
 * <em>uh</em>
   * [INTJ]() 2: <em>El misterio de los búhos comienza a ser una bruma con sus ponderativos <b>uh</b> ! <b>uh</b> !</em>
   * [NOUN]() 1: <em>Eso acaba por quitar les la dimensión supersticiosa y querría tener uno como pisapapel en mi mesa , pero ese <b>uh</b> ! adulatorio del que hablaba antes me intimida .</em>

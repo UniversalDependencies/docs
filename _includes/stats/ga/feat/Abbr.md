@@ -24,6 +24,16 @@ The most frequent other feature values with which `X` and `Abbr` co-occurred: <t
 
 `Abbr` seems to be **lexical feature** of `X`. 100% lemmas (42) occur only with one value of `Abbr`.
 
+### `PROPN`
+
+1 [ga-pos/PROPN]() tokens (0% of all `PROPN` tokens) have a non-empty value of `Abbr`.
+
+The most frequent other feature values with which `PROPN` and `Abbr` co-occurred: <tt><a href="Case.html">Case</a>=EMPTY</tt> (1; 100%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (1; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (1; 100%).
+
+`PROPN` tokens may have the following values of `Abbr`:
+
+* `Yes` (1; 100% of non-empty `Abbr`): <em>UNDDSMS</em>
+
 ### `SYM`
 
 1 [ga-pos/SYM]() tokens (100% of all `SYM` tokens) have a non-empty value of `Abbr`.
@@ -31,16 +41,6 @@ The most frequent other feature values with which `X` and `Abbr` co-occurred: <t
 `SYM` tokens may have the following values of `Abbr`:
 
 * `Yes` (1; 100% of non-empty `Abbr`): <em>post@clubsult.com</em>
-
-### `PROPN`
-
-1 [ga-pos/PROPN]() tokens (0% of all `PROPN` tokens) have a non-empty value of `Abbr`.
-
-The most frequent other feature values with which `PROPN` and `Abbr` co-occurred: <tt><a href="Number.html">Number</a>=EMPTY</tt> (1; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (1; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (1; 100%).
-
-`PROPN` tokens may have the following values of `Abbr`:
-
-* `Yes` (1; 100% of non-empty `Abbr`): <em>UNDDSMS</em>
 
 ## Relations with Agreement in `Abbr`
 

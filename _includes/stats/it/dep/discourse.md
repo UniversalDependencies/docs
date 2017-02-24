@@ -94,6 +94,32 @@ The following 2 pairs of parts of speech are connected with `discourse`: [it-pos
 
 
 ~~~ conllu
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 11	bgColor:blue
+# visual-style 11	fgColor:white
+# visual-style 11 2 discourse	color:blue
+1	Il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	divario	divario	NOUN	S	Gender=Masc|Number=Sing	11	discourse	_	_
+3	di	di	ADP	E	_	4	case	_	_
+4	genere	genere	NOUN	S	Gender=Masc|Number=Sing	2	nmod	_	_
+5	in	in	ADP	E	_	7	case	_	_
+6	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	settore	settore	NOUN	S	Gender=Masc|Number=Sing	4	nmod	_	_
+8	agricolo	agricolo	ADJ	A	Gender=Masc|Number=Sing	7	amod	_	_
+9	africano	africano	ADJ	A	Gender=Masc|Number=Sing	7	amod	_	SpaceAfter=No
+10	,	,	PUNCT	FF	_	2	punct	_	_
+11	ecco	ecco	ADV	B	_	0	root	_	_
+12	perché	perché	SCONJ	CS	_	13	mark	_	_
+13	bisogna	bisognare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	ccomp	_	_
+14	chiuder	chiudere	VERB	V	VerbForm=Inf	13	xcomp	_	_
+15	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	14	obj	_	_
+16	.	.	PUNCT	FS	_	11	punct	_	_
+
+~~~
+
+
+~~~ conllu
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 6	bgColor:blue
@@ -118,32 +144,6 @@ The following 2 pairs of parts of speech are connected with `discourse`: [it-pos
 17	assolutamente	assolutamente	ADV	B	_	18	advmod	_	_
 18	opportuna	opportuno	ADJ	A	Gender=Fem|Number=Sing	6	ccomp	_	SpaceAfter=No
 19	.	.	PUNCT	FS	_	6	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 11	bgColor:blue
-# visual-style 11	fgColor:white
-# visual-style 11 2 discourse	color:blue
-1	Il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
-2	divario	divario	NOUN	S	Gender=Masc|Number=Sing	11	discourse	_	_
-3	di	di	ADP	E	_	4	case	_	_
-4	genere	genere	NOUN	S	Gender=Masc|Number=Sing	2	nmod	_	_
-5	in	in	ADP	E	_	7	case	_	_
-6	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
-7	settore	settore	NOUN	S	Gender=Masc|Number=Sing	4	nmod	_	_
-8	agricolo	agricolo	ADJ	A	Gender=Masc|Number=Sing	7	amod	_	_
-9	africano	africano	ADJ	A	Gender=Masc|Number=Sing	7	amod	_	SpaceAfter=No
-10	,	,	PUNCT	FF	_	2	punct	_	_
-11	ecco	ecco	ADV	B	_	0	root	_	_
-12	perché	perché	SCONJ	CS	_	13	mark	_	_
-13	bisogna	bisognare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	ccomp	_	_
-14	chiuder	chiudere	VERB	V	VerbForm=Inf	13	xcomp	_	_
-15	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	14	obj	_	_
-16	.	.	PUNCT	FS	_	11	punct	_	_
 
 ~~~
 

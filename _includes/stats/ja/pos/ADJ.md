@@ -94,7 +94,7 @@ The 10 most frequent `ADJ` lemmas: _, 無い, 良い, 多い, 強い, 大きい,
 
 The 10 most frequent `ADJ` types:  _
 
-The 10 most frequent ambiguous lemmas: _ ([NOUN]() 52356, [ADP]() 40131, [PUNCT]() 20670, [AUX]() 7362, [SCONJ]() 6334, [NUM]() 6286, [VERB]() 6156, [ADJ]() 2302, [PART]() 1887, [CONJ]() 1517, [PROPN]() 1293, [ADV]() 1200, [SYM]() 865, [PRON]() 102, [DET]() 68, [INTJ]() 8), 無い ([AUX]() 359, [ADJ]() 312), 良い ([ADJ]() 62, [AUX]() 45, [ADV]() 1, [VERB]() 1), 多い ([ADJ]() 53, [NOUN]() 1), 早い ([ADJ]() 40, [ADV]() 1), 或る ([ADJ]() 14, [VERB]() 3), 良く ([ADV]() 19, [ADJ]() 4), 遥か ([NOUN]() 12, [ADJ]() 4), 我が ([ADJ]() 3, [PART]() 1), 欲しい ([AUX]() 68, [ADJ]() 3)
+The 10 most frequent ambiguous lemmas: _ ([NOUN]() 52356, [ADP]() 40131, [PUNCT]() 20670, [AUX]() 7362, [SCONJ]() 6334, [NUM]() 6286, [VERB]() 6156, [ADJ]() 2302, [PART]() 1887, [CONJ]() 1517, [PROPN]() 1293, [ADV]() 1200, [SYM]() 865, [PRON]() 102, [DET]() 68, [INTJ]() 8), 無い ([AUX]() 359, [ADJ]() 312), 良い ([ADJ]() 62, [AUX]() 45, [VERB]() 1, [ADV]() 1), 多い ([ADJ]() 53, [NOUN]() 1), 早い ([ADJ]() 40, [ADV]() 1), 或る ([ADJ]() 14, [VERB]() 3), 良く ([ADV]() 19, [ADJ]() 4), 遥か ([NOUN]() 12, [ADJ]() 4), 我が ([ADJ]() 3, [PART]() 1), 欲しい ([AUX]() 68, [ADJ]() 3)
 
 The 10 most frequent ambiguous types:  _ ([NOUN]() 59392, [ADP]() 40132, [PUNCT]() 20670, [AUX]() 20538, [VERB]() 17383, [NUM]() 7782, [SCONJ]() 6539, [PROPN]() 5774, [ADJ]() 3509, [CONJ]() 1977, [ADV]() 1949, [PART]() 1921, [SYM]() 865, [DET]() 751, [PRON]() 744, [INTJ]() 17)
 

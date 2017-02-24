@@ -16,7 +16,7 @@ The feature is used with 4 part-of-speech tags: [pl-pos/VERB]() (9182; 13% insta
 
 9182 [pl-pos/VERB]() tokens (97% of all `VERB` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (6380; 69%), <tt><a href="Number.html">Number</a>=Sing</tt> (5911; 64%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (5589; 61%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (5589; 61%), <tt><a href="Aspect.html">Aspect</a>=Imp</tt> (5263; 57%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (4873; 53%), <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (4873; 53%).
+The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (6380; 69%), <tt><a href="Number.html">Number</a>=Sing</tt> (5911; 64%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (5589; 61%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (5589; 61%), <tt><a href="Aspect.html">Aspect</a>=Imp</tt> (5263; 57%), <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (4873; 53%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (4873; 53%).
 
 `VERB` tokens may have the following values of `VerbForm`:
 
@@ -52,7 +52,7 @@ The most frequent other feature values with which `VERB` and `VerbForm` co-occur
 
 1958 [pl-pos/AUX]() tokens (96% of all `AUX` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `AUX` and `VerbForm` co-occurred: <tt><a href="Aspect.html">Aspect</a>=Imp</tt> (1811; 92%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (1560; 80%), <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (1560; 80%), <tt><a href="Variant.html">Variant</a>=EMPTY</tt> (1397; 71%), <tt><a href="Number.html">Number</a>=Sing</tt> (1356; 69%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (1344; 69%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (1137; 58%).
+The most frequent other feature values with which `AUX` and `VerbForm` co-occurred: <tt><a href="Aspect.html">Aspect</a>=Imp</tt> (1811; 92%), <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (1560; 80%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (1560; 80%), <tt><a href="Variant.html">Variant</a>=EMPTY</tt> (1397; 71%), <tt><a href="Number.html">Number</a>=Sing</tt> (1356; 69%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (1344; 69%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (1137; 58%).
 
 `AUX` tokens may have the following values of `VerbForm`:
 

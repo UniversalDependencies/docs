@@ -65,7 +65,7 @@ The 10 most frequent `INTJ` types:  <em>eee, mhm, aha, eem, aja, mmm, aaa, a, ej
 
 The 10 most frequent ambiguous lemmas: <em>a</em> ([ADV]() 96, [INTJ]() 7, [NOUN]() 4, [CCONJ]() 3), <em>o</em> ([ADP]() 38, [INTJ]() 7), <em>ti</em> ([PRON]() 132, [X]() 1, [INTJ]() 1)
 
-The 10 most frequent ambiguous types:  <em>a</em> ([ADV]() 96, [INTJ]() 7, [NOUN]() 4, [CCONJ]() 3, [X]() 3), <em>o</em> ([ADP]() 38, [INTJ]() 7, [X]() 2), <em>m</em> ([X]() 8, [INTJ]() 4), <em>je</em> ([AUX]() 461, [VERB]() 196, [PRON]() 2, [INTJ]() 2), <em>ti</em> ([PRON]() 68, [DET]() 11, [INTJ]() 1, [X]() 1), <em>u</em> ([X]() 2, [INTJ]() 1)
+The 10 most frequent ambiguous types:  <em>a</em> ([ADV]() 96, [INTJ]() 7, [NOUN]() 4, [CCONJ]() 3, [X]() 3), <em>o</em> ([ADP]() 38, [INTJ]() 7, [X]() 2), <em>m</em> ([X]() 8, [INTJ]() 4), <em>je</em> ([AUX]() 461, [VERB]() 196, [INTJ]() 2, [PRON]() 2), <em>ti</em> ([PRON]() 68, [DET]() 11, [INTJ]() 1, [X]() 1), <em>u</em> ([X]() 2, [INTJ]() 1)
 
 
 * <em>a</em>
@@ -84,8 +84,8 @@ The 10 most frequent ambiguous types:  <em>a</em> ([ADV]() 96, [INTJ]() 7, [NOUN
 * <em>je</em>
   * [AUX]() 461: <em>ja lionizem <b>je</b> tudi morda največja socialna mreža v svetu</em>
   * [VERB]() 196: <em>na vrhu <b>je</b> tako kot si rekla en šef lahko sta tudi dva</em>
-  * [PRON]() 2: <em>sploh če <b>je</b> ne prebereš mislim tako da jo prebereš</em>
   * [INTJ]() 2: <em>veš kadar sem prišel v maribor ne <b>je</b> zdaj pa macdonald's tu ne <b>je</b> zdaj pa bom jaz tu non stop ne ja ja prvi prvi dan sem že šel ne pa te naslednji teden teden sem tudi šel pa za mesec dni sem tudi hodil pa non stop sem hodil zdaj pa niti ne povoham ga dokler grem mimo ker mi je totalno out no eh hodi v pizdo [gap]</em>
+  * [PRON]() 2: <em>sploh če <b>je</b> ne prebereš mislim tako da jo prebereš</em>
 * <em>ti</em>
   * [PRON]() 68: <em>ko bo prišel domov pa <b>ti</b> bo stopnice pokozlal</em>
   * [DET]() 11: <em>samo <b>ti</b> pa niso v oplotnici doma <b>ti</b> so jo v zrečah</em>

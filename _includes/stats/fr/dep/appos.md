@@ -157,54 +157,29 @@ The following 11 pairs of parts of speech are connected with `appos`: [fr-pos/NO
 
 
 ~~~ conllu
-# visual-style 18	bgColor:blue
-# visual-style 18	fgColor:white
-# visual-style 12	bgColor:blue
-# visual-style 12	fgColor:white
-# visual-style 12 18 appos	color:blue
-1	à	à	ADP	E	_	3	case	_	_
-2	le	le	DET	RD	Definite=Def|Number=Sing|PronType=Art	3	det	_	_
-3	début	début	NOUN	S	Gender=Fem|Number=Sing	12	nmod	_	SpaceAfter=No
-4	,	,	PUNCT	FF	_	3	punct	_	_
-5	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	6	det	_	_
-6	participants	participer	VERB	V	Number=Plur|Tense=Pres|VerbForm=Part	12	nsubj	_	_
-7	étaient	étayer	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	12	cop	_	_
-8	en	en	ADP	E	_	10	case	_	_
-9	grande	grand	ADJ	A	Gender=Fem|Number=Sing	10	amod	_	_
-10	majorité	majorité	NOUN	S	Gender=Fem|Number=Sing	12	nmod	_	_
-11	des	des	DET	RD	Definite=Def|Number=Plur|PronType=Art	12	det	_	_
-12	agents	agents	NOUN	S	Gender=Fem|Number=Plur	0	root	_	_
-13	de	de	ADP	E	_	15	case	_	_
-14	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	15	det	_	_
-15	services	service	NOUN	S	Gender=Masc|Number=Plur	12	nmod	_	_
-16	répressifs	répressifs	ADJ	A	Number=Plur	15	amod	_	SpaceAfter=No
-17	,	,	PUNCT	FF	_	12	punct	_	_
-18	ce	ce	PRON	PD	Number=Sing|Person=3|PronType=Dem	12	appos	_	_
-19	qui	qui	PRON	PR	PronType=Rel	20	nsubj	_	_
-20	montrait	montrait	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	18	acl:relcl	_	_
-21	que	que	SCONJ	CS	_	23	mark	_	_
-22	la	le	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	23	det	_	_
-23	priorité	priorité	NOUN	S	Gender=Fem|Number=Sing	20	ccomp	_	_
-24	était	être	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	23	cop	_	_
-25	d'	de	ADP	E	_	26	mark	_	SpaceAfter=No
-26	établir	établir	VERB	V	VerbForm=Inf	23	csubj	_	_
-27	des	un	DET	RI	Definite=Ind|Gender=Masc|Number=Plur|PronType=Dem	28	det	_	_
-28	liens	liens	NOUN	S	Gender=Fem|Number=Plur	26	obj	_	_
-29	professionnels	professionnel	ADJ	A	Gender=Masc|Number=Plur	28	amod	_	_
-30	plus	plus	ADV	B	_	31	advmod	_	_
-31	étroits	étroits	ADJ	A	Number=Plur	28	amod	_	_
-32	afin	afin	ADP	E	_	34	mark	_	_
-33	de	de	ADP	E	_	32	fixed	_	_
-34	lutter	lutter	VERB	V	VerbForm=Inf	26	advcl	_	_
-35	plus	plus	ADV	B	_	36	advmod	_	_
-36	efficacement	efficacement	ADV	B	_	34	advmod	_	_
-37	contre	contre	ADP	E	_	39	case	_	_
-38	la	le	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	39	det	_	_
-39	contrefaçon	contrefaçon	NOUN	S	Gender=Fem|Number=Sing	34	obl	_	_
-40	de	de	ADP	E	_	42	case	_	_
-41	l'	le	DET	RD	Definite=Def|Number=Sing|PronType=Art	42	det	_	SpaceAfter=No
-42	euro	euro	NOUN	S	Gender=Masc|Number=Sing	39	nmod	_	SpaceAfter=No
-43	.	.	PUNCT	FS	_	12	punct	_	_
+# visual-style 13	bgColor:blue
+# visual-style 13	fgColor:white
+# visual-style 11	bgColor:blue
+# visual-style 11	fgColor:white
+# visual-style 11 13 appos	color:blue
+1	Choisissez	choisir	VERB	V	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	de	de	ADP	E	_	3	mark	_	_
+3	payer	payer	VERB	V	VerbForm=Inf	1	xcomp	_	_
+4	par	par	ADP	E	_	5	case	_	_
+5	clic	clic	NOUN	S	Gender=Fem|Number=Sing	3	obl	_	_
+6	(	(	PUNCT	FB	_	7	punct	_	SpaceAfter=No
+7	CPC	CPC	PROPN	SP	_	5	appos	_	SpaceAfter=No
+8	)	)	PUNCT	FB	_	7	punct	_	_
+9	ou	ou	CCONJ	CC	_	11	cc	_	_
+10	par	par	ADP	E	_	11	case	_	_
+11	affichage	affichage	NOUN	S	Gender=Masc|Number=Sing	5	conj	_	_
+12	(	(	PUNCT	FB	_	13	punct	_	SpaceAfter=No
+13	CPM	CPM	PROPN	SP	_	11	appos	_	SpaceAfter=No
+14	)	)	PUNCT	FB	_	13	punct	_	_
+15	de	de	ADP	E	_	17	case	_	_
+16	votre	votre	DET	AP	Gender=Fem|Number=Sing|PronType=Prs	17	nmod:poss	_	_
+17	publicité	publicité	NOUN	S	Gender=Fem|Number=Sing	11	nmod	_	SpaceAfter=No
+18	.	.	PUNCT	FS	_	1	punct	_	_
 
 ~~~
 

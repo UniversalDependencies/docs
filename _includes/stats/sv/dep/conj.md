@@ -188,18 +188,18 @@ The following 17 pairs of parts of speech are connected with `conj`: [sv-pos/VER
 
 
 ~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
-# visual-style 3 6 conj	color:blue
-1	PEK	_	DET	PEK	_	5	det	_	_
-2	PU(L)@g@z	_	X	G	_	5	discourse	_	_
-3	PRO1	_	PRON	PN	_	5	nsubj	_	_
-4	BEHÄRSKA	_	VERB	VB	_	5	acl	_	_
-5	TECKNA.FLYT	_	VERB	VB	_	0	root	_	_
-6	PRO1	_	PRON	PN	_	3	conj	_	_
-7	PEK	_	PRON	PEK	_	3	conj	_	_
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 3 conj	color:blue
+1	PÅKALLA-UPPMÄRKSAMHET@g	_	X	G	_	0	root	_	_
+2	TYST	_	ADJ	JJ	_	1	conj	_	_
+3	HÖRA	_	VERB	VB	_	1	conj	_	_
+4	NÅGON	_	PRON	PN	_	3	dobj	_	_
+5	PEK	_	DET	PEK	_	4	det	_	_
+6	HYSSJA@ca	_	VERB	VBCA	_	1	conj	_	_
+7	GEST(J)@ca	_	VERB	VBCA	_	1	conj	_	_
 
 ~~~
 

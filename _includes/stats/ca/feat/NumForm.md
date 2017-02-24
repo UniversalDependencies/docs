@@ -28,7 +28,7 @@ The most frequent other feature values with which `NUM` and `NumForm` co-occurre
 
 745 [ca-pos/NOUN]() tokens (1% of all `NOUN` tokens) have a non-empty value of `NumForm`.
 
-The most frequent other feature values with which `NOUN` and `NumForm` co-occurred: <tt><a href="Number.html">Number</a>=EMPTY</tt> (745; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (745; 100%).
+The most frequent other feature values with which `NOUN` and `NumForm` co-occurred: <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (745; 100%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (745; 100%).
 
 `NOUN` tokens may have the following values of `NumForm`:
 
@@ -58,5 +58,5 @@ The 10 most frequent relations where parent and child node agree in `NumForm`:
 <tt>SYM --[<a href="../dep/appos.html">appos</a>]--> SYM</tt> (6; 86%),
 <tt>NUM --[<a href="../dep/appos.html">appos</a>]--> SYM</tt> (4; 100%),
 <tt>NUM --[<a href="../dep/conj.html">conj</a>]--> SYM</tt> (3; 100%),
-<tt>SYM --[<a href="../dep/advmod.html">advmod</a>]--> SYM</tt> (2; 100%).
+<tt>NUM --[<a href="../dep/nmod.html">nmod</a>]--> NUM</tt> (2; 100%).
 

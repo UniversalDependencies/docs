@@ -54,6 +54,24 @@ The following 3 pairs of parts of speech are connected with `csubj:pass`: [lv-po
 
 
 ~~~ conllu
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 5 csubj:pass	color:blue
+1	Zīmītē	zīmīte	NOUN	ncfsl5	Case=Loc|Gender=Fem|Number=Sing	3	obl	_	_
+2	stāvēja	stāvēt	VERB	vtnist330an	Evident=Fh,Nfh|Mood=Ind|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	3	aux	_	_
+3	rakstīts	rakstīt	VERB	vmnpdmsnpsn	Aspect=Perf|Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
+4	:	:	PUNCT	zo	_	5	punct	_	_
+5	Kas	kas	PRON	pq000nn	Case=Nom|PronType=Int	3	csubj:pass	_	_
+6	Tu	tu	PRON	pp20snn	Case=Nom|Number=Sing|Person=2|PronType=Prs	5	nsubj	_	_
+7	esi	būt	VERB	vcnipii2san	Evident=Fh,Nfh|Mood=Ind|Number=Sing|Person=2|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	5	cop	_	SpaceAfter=No
+8	?	?	PUNCT	zs	_	5	punct	_	_
+
+~~~
+
+
+~~~ conllu
 # visual-style 16	bgColor:blue
 # visual-style 16	fgColor:white
 # visual-style 9	bgColor:blue
@@ -76,24 +94,6 @@ The following 3 pairs of parts of speech are connected with `csubj:pass`: [lv-po
 15	ir	būt	VERB	vcnipii30an	Evident=Fh,Nfh|Mood=Ind|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	16	cop	_	_
 16	obligāta	obligāta	ADJ	arfsnnp	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	9	csubj:pass	_	SpaceAfter=No
 17	.	.	PUNCT	zs	_	3	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 5 csubj:pass	color:blue
-1	Zīmītē	zīmīte	NOUN	ncfsl5	Case=Loc|Gender=Fem|Number=Sing	3	obl	_	_
-2	stāvēja	stāvēt	VERB	vtnist330an	Evident=Fh,Nfh|Mood=Ind|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	3	aux	_	_
-3	rakstīts	rakstīt	VERB	vmnpdmsnpsn	Aspect=Perf|Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
-4	:	:	PUNCT	zo	_	5	punct	_	_
-5	Kas	kas	PRON	pq000nn	Case=Nom|PronType=Int	3	csubj:pass	_	_
-6	Tu	tu	PRON	pp20snn	Case=Nom|Number=Sing|Person=2|PronType=Prs	5	nsubj	_	_
-7	esi	būt	VERB	vcnipii2san	Evident=Fh,Nfh|Mood=Ind|Number=Sing|Person=2|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	5	cop	_	SpaceAfter=No
-8	?	?	PUNCT	zs	_	5	punct	_	_
 
 ~~~
 

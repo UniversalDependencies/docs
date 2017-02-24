@@ -28,7 +28,7 @@ The most frequent other feature values with which `PROPN` and `Abbr` co-occurred
 
 150 [no-pos/NOUN]() tokens (0% of all `NOUN` tokens) have a non-empty value of `Abbr`.
 
-The most frequent other feature values with which `NOUN` and `Abbr` co-occurred: <tt><a href="Definite.html">Definite</a>=EMPTY</tt> (143; 95%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (143; 95%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (140; 93%).
+The most frequent other feature values with which `NOUN` and `Abbr` co-occurred: <tt><a href="Number.html">Number</a>=EMPTY</tt> (143; 95%), <tt><a href="Definite.html">Definite</a>=EMPTY</tt> (143; 95%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (140; 93%).
 
 `NOUN` tokens may have the following values of `Abbr`:
 
@@ -101,7 +101,7 @@ The feature is used with 8 part-of-speech tags: [no-pos/NOUN]() (955; 0% instanc
 
 955 [no-pos/NOUN]() tokens (2% of all `NOUN` tokens) have a non-empty value of `Abbr`.
 
-The most frequent other feature values with which `NOUN` and `Abbr` co-occurred: <tt><a href="Number.html">Number</a>=EMPTY</tt> (925; 97%), <tt><a href="Definite.html">Definite</a>=EMPTY</tt> (925; 97%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (920; 96%).
+The most frequent other feature values with which `NOUN` and `Abbr` co-occurred: <tt><a href="Definite.html">Definite</a>=EMPTY</tt> (925; 97%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (925; 97%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (920; 96%).
 
 `NOUN` tokens may have the following values of `Abbr`:
 
@@ -125,7 +125,7 @@ The most frequent other feature values with which `ADV` and `Abbr` co-occurred: 
 
 34 [no-pos/VERB]() tokens (0% of all `VERB` tokens) have a non-empty value of `Abbr`.
 
-The most frequent other feature values with which `VERB` and `Abbr` co-occurred: <tt><a href="Mood.html">Mood</a>=Ind</tt> (34; 100%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (34; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (34; 100%).
+The most frequent other feature values with which `VERB` and `Abbr` co-occurred: <tt><a href="Tense.html">Tense</a>=Pres</tt> (34; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (34; 100%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (34; 100%).
 
 `VERB` tokens may have the following values of `Abbr`:
 
@@ -135,7 +135,7 @@ The most frequent other feature values with which `VERB` and `Abbr` co-occurred:
 
 25 [no-pos/ADJ]() tokens (0% of all `ADJ` tokens) have a non-empty value of `Abbr`.
 
-The most frequent other feature values with which `ADJ` and `Abbr` co-occurred: <tt><a href="Definite.html">Definite</a>=EMPTY</tt> (25; 100%), <tt><a href="VerbForm.html">VerbForm</a>=EMPTY</tt> (25; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (25; 100%), <tt><a href="Degree.html">Degree</a>=EMPTY</tt> (25; 100%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (25; 100%).
+The most frequent other feature values with which `ADJ` and `Abbr` co-occurred: <tt><a href="Number.html">Number</a>=EMPTY</tt> (25; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (25; 100%), <tt><a href="Degree.html">Degree</a>=EMPTY</tt> (25; 100%), <tt><a href="VerbForm.html">VerbForm</a>=EMPTY</tt> (25; 100%), <tt><a href="Definite.html">Definite</a>=EMPTY</tt> (25; 100%).
 
 `ADJ` tokens may have the following values of `Abbr`:
 
@@ -153,7 +153,7 @@ The most frequent other feature values with which `ADJ` and `Abbr` co-occurred: 
 
 4 [no-pos/PRON]() tokens (0% of all `PRON` tokens) have a non-empty value of `Abbr`.
 
-The most frequent other feature values with which `PRON` and `Abbr` co-occurred: <tt><a href="PronType.html">PronType</a>=Prs</tt> (4; 100%), <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (4; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (4; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (4; 100%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (4; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (4; 100%).
+The most frequent other feature values with which `PRON` and `Abbr` co-occurred: <tt><a href="Number.html">Number</a>=EMPTY</tt> (4; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (4; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (4; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (4; 100%), <tt><a href="PronType.html">PronType</a>=Prs</tt> (4; 100%), <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (4; 100%).
 
 `PRON` tokens may have the following values of `Abbr`:
 

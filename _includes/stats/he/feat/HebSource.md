@@ -103,7 +103,7 @@ The most frequent other feature values with which `ADJ` and `HebSource` co-occur
 
 82 [he-pos/NUM]() tokens (3% of all `NUM` tokens) have a non-empty value of `HebSource`.
 
-The most frequent other feature values with which `NUM` and `HebSource` co-occurred: <tt><a href="Definite.html">Definite</a>=EMPTY</tt> (82; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (76; 93%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (76; 93%).
+The most frequent other feature values with which `NUM` and `HebSource` co-occurred: <tt><a href="Definite.html">Definite</a>=EMPTY</tt> (82; 100%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (76; 93%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (76; 93%).
 
 `NUM` tokens may have the following values of `HebSource`:
 
@@ -217,8 +217,8 @@ The most frequent other feature values with which `PART` and `HebSource` co-occu
 
 The 10 most frequent relations where parent and child node agree in `HebSource`:
 <tt>SCONJ --[<a href="../dep/dep.html">dep</a>]--> ADV</tt> (3; 60%),
-<tt>X --[<a href="../dep/dep.html">dep</a>]--> PUNCT</tt> (1; 100%),
-<tt>CCONJ --[<a href="../dep/dep.html">dep</a>]--> INTJ</tt> (1; 100%),
 <tt>X --[<a href="../dep/dep.html">dep</a>]--> PROPN</tt> (1; 100%),
-<tt>X --[<a href="../dep/dep.html">dep</a>]--> NOUN</tt> (1; 100%).
+<tt>X --[<a href="../dep/dep.html">dep</a>]--> PUNCT</tt> (1; 100%),
+<tt>X --[<a href="../dep/dep.html">dep</a>]--> NOUN</tt> (1; 100%),
+<tt>CCONJ --[<a href="../dep/dep.html">dep</a>]--> INTJ</tt> (1; 100%).
 

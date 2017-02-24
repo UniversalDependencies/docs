@@ -43,7 +43,7 @@ The most frequent other feature values with which `ADJ` and `Voice` co-occurred:
 
 11 [sk-pos/VERB]() tokens (0% of all `VERB` tokens) have a non-empty value of `Voice`.
 
-The most frequent other feature values with which `VERB` and `Voice` co-occurred: <tt><a href="Polarity.html">Polarity</a>=Pos</tt> (11; 100%), <tt><a href="Aspect.html">Aspect</a>=EMPTY</tt> (11; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (11; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (11; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (11; 100%), <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (11; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (8; 73%), <tt><a href="Animacy.html">Animacy</a>=Anim</tt> (7; 64%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (7; 64%).
+The most frequent other feature values with which `VERB` and `Voice` co-occurred: <tt><a href="Person.html">Person</a>=EMPTY</tt> (11; 100%), <tt><a href="Polarity.html">Polarity</a>=Pos</tt> (11; 100%), <tt><a href="Aspect.html">Aspect</a>=EMPTY</tt> (11; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (11; 100%), <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (11; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (11; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (8; 73%), <tt><a href="Animacy.html">Animacy</a>=Anim</tt> (7; 64%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (7; 64%).
 
 `VERB` tokens may have the following values of `Voice`:
 

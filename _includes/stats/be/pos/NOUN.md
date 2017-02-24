@@ -11,7 +11,7 @@ The 10 most frequent `NOUN` lemmas: <em>сакавік, год, мова, кра
 
 The 10 most frequent `NOUN` types:  <em>сакавіка, года, рублёў, красавіка, млн, дачыненні, мова, санкцыі, выкананне, даляраў</em>
 
-The 10 most frequent ambiguous lemmas: <em>м</em> ([NOUN]() 1, [PROPN]() 1), <em>рускі</em> ([NOUN]() 1, [ADJ]() 1)
+The 10 most frequent ambiguous lemmas: <em>м</em> ([NOUN]() 1, [PROPN]() 1), <em>рускі</em> ([ADJ]() 1, [NOUN]() 1)
 
 The 10 most frequent ambiguous types:  <em>стане</em> ([NOUN]() 4, [VERB]() 3), <em>дадзеных</em> ([NOUN]() 3, [ADJ]() 1), <em>разам</em> ([ADV]() 5, [NOUN]() 1)
 

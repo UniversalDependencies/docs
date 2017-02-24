@@ -124,59 +124,53 @@ The following 4 pairs of parts of speech are connected with `parataxis`: [it-pos
 
 
 ~~~ conllu
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 4 parataxis	color:blue
-1	Tutto	tutto	DET	DI	Gender=Masc|Number=Sing|PronType=Ind	2	det	_	_
-2	questo	questo	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	0	root	_	SpaceAfter=No
-3	,	,	PUNCT	FF	_	2	punct	_	_
-4	sottolineo	sottolineare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	parataxis	_	SpaceAfter=No
-5	,	,	PUNCT	FF	_	4	punct	_	_
-6	avvalendo	avvalere	VERB	V	VerbForm=Ger	2	acl	_	_
-7	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	6	expl	_	_
-8	di	di	ADP	E	_	10	case	_	_
-9	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
-10	partecipazione	partecipazione	NOUN	S	Gender=Fem|Number=Sing	6	obl	_	_
-11	di	di	ADP	E	_	13	case	_	_
-12	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	13	det	_	_
-13	impresa	impresa	NOUN	S	Gender=Fem|Number=Sing	10	nmod	_	_
-14	privata	privato	ADJ	A	Gender=Fem|Number=Sing	13	amod	_	SpaceAfter=No
-15	,	,	PUNCT	FF	_	13	punct	_	_
-16	che	che	PRON	PR	PronType=Rel	41	nsubj	_	_
-17	unendo	unire	VERB	V	VerbForm=Ger	41	advcl	_	_
-18	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	20	det	_	_
-19	proprio	proprio	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	20	det:poss	_	_
-20	impegno	impegno	NOUN	S	Gender=Masc|Number=Sing	17	obj	_	_
-21	a	a	ADP	E	_	22	case	_	_
-22	quello	quello	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	17	obl	_	_
-23	di	di	ADP	E	_	25	case	_	_
-24	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	25	det	_	_
-25	amministrazioni	amministrazione	NOUN	S	Gender=Fem|Number=Plur	22	nmod	_	_
-26	pubbliche	pubblico	ADJ	A	Gender=Fem|Number=Plur	25	amod	_	SpaceAfter=No
-27	,	,	PUNCT	FF	_	17	punct	_	_
-28	in	in	ADP	E	_	30	case	_	_
-29	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	30	det	_	_
-30	sinergia	sinergia	NOUN	S	Gender=Fem|Number=Sing	41	obl	_	_
-31	di	di	ADP	E	_	32	case	_	_
-32	completamento	completamento	NOUN	S	Gender=Masc|Number=Sing	30	nmod	_	_
-33	che	che	PRON	PR	PronType=Rel	35	nsubj	_	_
-34	non	non	ADV	BN	PronType=Neg	35	advmod	_	_
-35	comporti	comportare	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	30	acl:relcl	_	_
-36	mai	mai	ADV	B	_	35	advmod	_	_
-37	chiusure	chiusura	NOUN	S	Gender=Fem|Number=Plur	35	obj	_	_
-38	o	o	CCONJ	CC	_	39	cc	_	_
-39	esclusioni	esclusione	NOUN	S	Gender=Fem|Number=Plur	37	conj	_	SpaceAfter=No
-40	,	,	PUNCT	FF	_	35	punct	_	_
-41	creerà	creare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	13	acl:relcl	_	_
-42	ricchezza	ricchezza	NOUN	S	Gender=Fem|Number=Sing	41	obj	_	_
-43	sociale	sociale	ADJ	A	Number=Sing	42	amod	_	_
-44	e	e	CCONJ	CC	_	45	cc	_	_
-45	posti	porre	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	41	conj	_	_
-46	di	di	ADP	E	_	47	case	_	_
-47	lavoro	lavoro	NOUN	S	Gender=Masc|Number=Sing	45	obl	_	SpaceAfter=No
-48	.	.	PUNCT	FS	_	4	punct	_	_
+# visual-style 4 8 parataxis	color:blue
+1	William	William	PROPN	SP	_	17	nsubj	_	_
+2	Shakespeare	Shakespeare	PROPN	SP	_	1	flat:name	_	_
+3	(	(	PUNCT	FB	_	4	punct	_	SpaceAfter=No
+4	26	26	NUM	N	NumType=Card	1	appos	_	_
+5	aprile	aprile	NOUN	S	Gender=Masc|Number=Sing	4	flat	_	_
+6	1564	1564	NUM	N	NumType=Card	4	flat	_	_
+7	(	(	PUNCT	FB	_	8	punct	_	SpaceAfter=No
+8	battezzato	battezzare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	4	parataxis	_	SpaceAfter=No
+9	)	)	PUNCT	FB	_	8	punct	_	SpaceAfter=No
+10	-	-	PUNCT	FF	_	4	punct	_	SpaceAfter=No
+11	23	23	NUM	N	NumType=Card	4	nmod	_	_
+12	aprile	aprile	NOUN	S	Gender=Masc|Number=Sing	11	flat	_	_
+13	1616	1616	NUM	N	NumType=Card	11	flat	_	SpaceAfter=No
+14	)	)	PUNCT	FB	_	4	punct	_	_
+15	era	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	17	cop	_	_
+16	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	17	det	_	_
+17	poeta	poeta	NOUN	S	Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+18	,	,	PUNCT	FF	_	19	punct	_	_
+19	drammaturgo	drammaturgo	NOUN	S	Gender=Masc|Number=Sing	17	conj	_	_
+20	e	e	CCONJ	CC	_	21	cc	_	_
+21	attore	attore	NOUN	S	Gender=Masc|Number=Sing	17	conj	_	_
+22	inglese	inglese	ADJ	A	Number=Sing	21	amod	_	SpaceAfter=No
+23	,	,	PUNCT	FF	_	21	punct	_	_
+24	generalmente	generalmente	ADV	B	_	25	advmod	_	_
+25	considerato	considerare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	17	acl	_	_
+26	come	come	ADP	E	_	30	case	_	_
+27	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	30	det	_	_
+28	più	più	ADV	B	_	29	advmod	_	_
+29	importante	importante	ADJ	A	Number=Sing	30	amod	_	_
+30	scrittore	scrittore	NOUN	S	Gender=Masc|Number=Sing	25	obl	_	_
+31	in	in	ADP	E	_	32	case	_	_
+32	lingua	lingua	NOUN	S	Gender=Fem|Number=Sing	30	nmod	_	_
+33	inglese	inglese	ADJ	A	Number=Sing	32	amod	_	_
+34	e	e	CCONJ	CC	_	38	cc	_	_
+35	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	38	det	_	_
+36	più	più	ADV	B	_	37	advmod	_	_
+37	eminente	eminente	ADJ	A	Number=Sing	38	amod	_	_
+38	drammaturgo	drammaturgo	NOUN	S	Gender=Masc|Number=Sing	30	conj	_	_
+39	di	di	ADP	E	_	41	case	_	_
+40	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	41	det	_	_
+41	mondo	mondo	NOUN	S	Gender=Masc|Number=Sing	38	nmod	_	SpaceAfter=No
+42	.	.	PUNCT	FS	_	17	punct	_	_
 
 ~~~
 

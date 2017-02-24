@@ -13,7 +13,7 @@ The 10 most frequent `PART` types:  <em>aj, však, len, nie, už, a, až, ani, e
 
 The 10 most frequent ambiguous lemmas: <em>aj</em> ([PART]() 200, [CCONJ]() 75), <em>však</em> ([PART]() 109, [CCONJ]() 41), <em>len</em> ([PART]() 95, [CCONJ]() 13), <em>už</em> ([PART]() 90, [ADV]() 44), <em>a</em> ([CCONJ]() 2169, [PART]() 88, [X]() 12), <em>až</em> ([PART]() 78, [SCONJ]() 12), <em>ani</em> ([PART]() 66, [CCONJ]() 59), <em>ešte</em> ([PART]() 60, [ADV]() 15), <em>tak</em> ([ADV]() 77, [PART]() 46, [CCONJ]() 23, [X]() 1), <em>možno</em> ([PART]() 33, [ADV]() 4)
 
-The 10 most frequent ambiguous types:  <em>aj</em> ([PART]() 180, [CCONJ]() 63), <em>však</em> ([PART]() 107, [CCONJ]() 41), <em>len</em> ([PART]() 84, [CCONJ]() 6), <em>už</em> ([PART]() 65, [ADV]() 33), <em>a</em> ([CCONJ]() 2045, [X]() 3, [PRON]() 1, [PART]() 1), <em>až</em> ([PART]() 71, [SCONJ]() 12), <em>ani</em> ([PART]() 51, [CCONJ]() 50), <em>ešte</em> ([PART]() 50, [ADV]() 12), <em>tak</em> ([ADV]() 66, [CCONJ]() 23, [PART]() 18, [X]() 1), <em>možno</em> ([PART]() 4, [ADV]() 3)
+The 10 most frequent ambiguous types:  <em>aj</em> ([PART]() 180, [CCONJ]() 63), <em>však</em> ([PART]() 107, [CCONJ]() 41), <em>len</em> ([PART]() 84, [CCONJ]() 6), <em>už</em> ([PART]() 65, [ADV]() 33), <em>a</em> ([CCONJ]() 2045, [X]() 3, [PART]() 1, [PRON]() 1), <em>až</em> ([PART]() 71, [SCONJ]() 12), <em>ani</em> ([PART]() 51, [CCONJ]() 50), <em>ešte</em> ([PART]() 50, [ADV]() 12), <em>tak</em> ([ADV]() 66, [CCONJ]() 23, [PART]() 18, [X]() 1), <em>možno</em> ([PART]() 4, [ADV]() 3)
 
 
 * <em>aj</em>
@@ -31,8 +31,8 @@ The 10 most frequent ambiguous types:  <em>aj</em> ([PART]() 180, [CCONJ]() 63),
 * <em>a</em>
   * [CCONJ]() 2045: <em>Hospodárstvo KĽDR je na kolenách <b>a</b> deti hladujú .</em>
   * [X]() 3: <em>* Povídky ironické <b>a</b> sentimentální</em>
-  * [PRON]() 1: <em>Táto práca <b>a</b> vyznačuje chaotickosťou usporiadania materiálu .</em>
   * [PART]() 1: <em>“ No <b>a</b> ?</em>
+  * [PRON]() 1: <em>Táto práca <b>a</b> vyznačuje chaotickosťou usporiadania materiálu .</em>
 * <em>až</em>
   * [PART]() 71: <em>Definitívnu príčinu smrti určia <b>až</b> výsledky súdnej pitvy .</em>
   * [SCONJ]() 12: <em>Smiali sme sa , <b>až</b> sme lapali dych , a držali sa za ruky .</em>

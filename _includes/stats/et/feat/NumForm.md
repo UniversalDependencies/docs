@@ -29,7 +29,7 @@ The most frequent other feature values with which `NUM` and `NumForm` co-occurre
 
 120 [et-pos/ADJ]() tokens (5% of all `ADJ` tokens) have a non-empty value of `NumForm`.
 
-The most frequent other feature values with which `ADJ` and `NumForm` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=EMPTY</tt> (120; 100%), <tt><a href="Degree.html">Degree</a>=EMPTY</tt> (120; 100%), <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (120; 100%), <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (120; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (105; 88%).
+The most frequent other feature values with which `ADJ` and `NumForm` co-occurred: <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (120; 100%), <tt><a href="VerbForm.html">VerbForm</a>=EMPTY</tt> (120; 100%), <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (120; 100%), <tt><a href="Degree.html">Degree</a>=EMPTY</tt> (120; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (105; 88%).
 
 `ADJ` tokens may have the following values of `NumForm`:
 
@@ -44,8 +44,8 @@ The 10 most frequent relations where parent and child node agree in `NumForm`:
 <tt>NUM --[<a href="../dep/flat.html">flat</a>]--> NUM</tt> (23; 100%),
 <tt>NUM --[<a href="../dep/compound.html">compound</a>]--> NUM</tt> (12; 67%),
 <tt>NUM --[<a href="../dep/conj.html">conj</a>]--> NUM</tt> (9; 82%),
-<tt>ADJ --[<a href="../dep/conj.html">conj</a>]--> ADJ</tt> (4; 80%),
 <tt>NUM --[<a href="../dep/nummod.html">nummod</a>]--> NUM</tt> (4; 80%),
-<tt>ADJ --[<a href="../dep/flat.html">flat</a>]--> ADJ</tt> (1; 100%),
-<tt>ADJ --[<a href="../dep/flat.html">flat</a>]--> NUM</tt> (1; 100%).
+<tt>ADJ --[<a href="../dep/conj.html">conj</a>]--> ADJ</tt> (4; 80%),
+<tt>ADJ --[<a href="../dep/flat.html">flat</a>]--> NUM</tt> (1; 100%),
+<tt>ADJ --[<a href="../dep/flat.html">flat</a>]--> ADJ</tt> (1; 100%).
 

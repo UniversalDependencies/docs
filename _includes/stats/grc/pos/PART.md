@@ -13,7 +13,7 @@ The 10 most frequent `PART` types:  <em>δ̓, δὲ, τε, μὲν, γὰρ, δ�
 
 The 10 most frequent ambiguous lemmas: <em>δέ</em> ([PART]() 6037, [ADV]() 1684, [CCONJ]() 483), <em>τε</em> ([PART]() 1730, [ADV]() 426, [CCONJ]() 69), <em>γάρ</em> ([PART]() 962, [ADV]() 478), <em>μέν</em> ([PART]() 869, [ADV]() 690), <em>ἄν</em> ([PART]() 802, [ADV]() 156, [SCONJ]() 1), <em>ἄρα</em> ([PART]() 775, [ADV]() 30), <em>γε</em> ([PART]() 520, [ADV]() 62), <em>δή</em> ([PART]() 424, [ADV]() 187), <em>ἀτάρ</em> ([PART]() 286, [CCONJ]() 47), <em>μή</em> ([CCONJ]() 231, [ADV]() 218, [PART]() 201)
 
-The 10 most frequent ambiguous types:  <em>δ̓</em> ([PART]() 3496, [ADV]() 257, [CCONJ]() 119), <em>δὲ</em> ([PART]() 1884, [ADV]() 1359, [CCONJ]() 438), <em>τε</em> ([PART]() 1130, [ADV]() 413, [CCONJ]() 51), <em>μὲν</em> ([PART]() 766, [ADV]() 642), <em>γὰρ</em> ([PART]() 763, [ADV]() 428), <em>δέ</em> ([PART]() 671, [ADV]() 68, [CCONJ]() 16), <em>τ̓</em> ([PART]() 465, [CCONJ]() 12, [ADV]() 8, [PRON]() 8), <em>δὴ</em> ([PART]() 330, [ADV]() 169), <em>ἂν</em> ([PART]() 295, [ADV]() 127, [ADP]() 11, [SCONJ]() 4), <em>γε</em> ([PART]() 283, [ADV]() 49)
+The 10 most frequent ambiguous types:  <em>δ̓</em> ([PART]() 3496, [ADV]() 257, [CCONJ]() 119), <em>δὲ</em> ([PART]() 1884, [ADV]() 1359, [CCONJ]() 438), <em>τε</em> ([PART]() 1130, [ADV]() 413, [CCONJ]() 51), <em>μὲν</em> ([PART]() 766, [ADV]() 642), <em>γὰρ</em> ([PART]() 763, [ADV]() 428), <em>δέ</em> ([PART]() 671, [ADV]() 68, [CCONJ]() 16), <em>τ̓</em> ([PART]() 465, [CCONJ]() 12, [PRON]() 8, [ADV]() 8), <em>δὴ</em> ([PART]() 330, [ADV]() 169), <em>ἂν</em> ([PART]() 295, [ADV]() 127, [ADP]() 11, [SCONJ]() 4), <em>γε</em> ([PART]() 283, [ADV]() 49)
 
 
 * <em>δ̓</em>
@@ -41,8 +41,8 @@ The 10 most frequent ambiguous types:  <em>δ̓</em> ([PART]() 3496, [ADV]() 257
 * <em>τ̓</em>
   * [PART]() 465: <em>σοὶ ταῖσδέ <b>τ̓</b> οὐδὲν εἴργεται , τούτους δ̓ ἔα .</em>
   * [CCONJ]() 12: <em>ᾧ καὶ ἐπαπέθανεν ὁ ἐραστὴς Ἀριστόδημος , λύσιν <b>τ̓</b> ἔλαβε τὸ δεινόν .</em>
-  * [ADV]() 8: <em>ἥμεθα δαινύμενοι κρέα <b>τ̓</b> ἄσπετα καὶ μέθυ ἡδύ .</em>
   * [PRON]() 8: <em>ἔνθ̓ ἄλλοι Τρῶες τηλεκλειτοί <b>τ̓</b> ἐπίκουροι βουλῇ Πουλυδάμαντος ἀμωμήτοιο πίθοντο ·</em>
+  * [ADV]() 8: <em>ἥμεθα δαινύμενοι κρέα <b>τ̓</b> ἄσπετα καὶ μέθυ ἡδύ .</em>
 * <em>δὴ</em>
   * [PART]() 330: <em>πάθη μὲν οὖν <b>δὴ</b> πόλλ̓ ἔγωγ̓ ἐκλαυσάμην ·</em>
   * [ADV]() 169: <em>οὗτοι γὰρ <b>δὴ</b> τὰς πλείστας τῶν νήσων ᾤκησαν .</em>

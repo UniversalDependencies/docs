@@ -28,7 +28,7 @@ The most frequent other feature values with which `DET` and `Definite` co-occurr
 
 1 [en-pos/PRON]() tokens (0% of all `PRON` tokens) have a non-empty value of `Definite`.
 
-The most frequent other feature values with which `PRON` and `Definite` co-occurred: <tt><a href="Number.html">Number</a>=EMPTY</tt> (1; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (1; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (1; 100%), <tt><a href="PronType.html">PronType</a>=Art</tt> (1; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (1; 100%), <tt><a href="Poss.html">Poss</a>=EMPTY</tt> (1; 100%).
+The most frequent other feature values with which `PRON` and `Definite` co-occurred: <tt><a href="Person.html">Person</a>=EMPTY</tt> (1; 100%), <tt><a href="Poss.html">Poss</a>=EMPTY</tt> (1; 100%), <tt><a href="PronType.html">PronType</a>=Art</tt> (1; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (1; 100%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (1; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (1; 100%).
 
 `PRON` tokens may have the following values of `Definite`:
 
@@ -58,7 +58,7 @@ The feature is used with 1 part-of-speech tags: [en-pos/DET]() (2989; 8% instanc
 
 2989 [en-pos/DET]() tokens (74% of all `DET` tokens) have a non-empty value of `Definite`.
 
-The most frequent other feature values with which `DET` and `Definite` co-occurred: <tt><a href="Poss.html">Poss</a>=EMPTY</tt> (2989; 100%), <tt><a href="PronType.html">PronType</a>=Art</tt> (2989; 100%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (2216; 74%).
+The most frequent other feature values with which `DET` and `Definite` co-occurred: <tt><a href="PronType.html">PronType</a>=Art</tt> (2989; 100%), <tt><a href="Poss.html">Poss</a>=EMPTY</tt> (2989; 100%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (2216; 74%).
 
 `DET` tokens may have the following values of `Definite`:
 

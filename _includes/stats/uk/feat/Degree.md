@@ -16,7 +16,7 @@ The feature is used with 2 part-of-speech tags: [uk-pos/ADJ]() (343; 3% instance
 
 343 [uk-pos/ADJ]() tokens (31% of all `ADJ` tokens) have a non-empty value of `Degree`.
 
-The most frequent other feature values with which `ADJ` and `Degree` co-occurred: <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (337; 98%), <tt><a href="VerbForm.html">VerbForm</a>=EMPTY</tt> (337; 98%), <tt><a href="Aspect.html">Aspect</a>=EMPTY</tt> (337; 98%), <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (298; 87%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (243; 71%).
+The most frequent other feature values with which `ADJ` and `Degree` co-occurred: <tt><a href="Aspect.html">Aspect</a>=EMPTY</tt> (337; 98%), <tt><a href="VerbForm.html">VerbForm</a>=EMPTY</tt> (337; 98%), <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (337; 98%), <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (298; 87%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (243; 71%).
 
 `ADJ` tokens may have the following values of `Degree`:
 
@@ -46,6 +46,6 @@ The most frequent other feature values with which `ADV` and `Degree` co-occurred
 ## Relations with Agreement in `Degree`
 
 The 10 most frequent relations where parent and child node agree in `Degree`:
-<tt>ADJ --[<a href="../dep/parataxis.html">parataxis</a>]--> ADV</tt> (1; 100%),
-<tt>ADV --[<a href="../dep/flat.html">flat</a>]--> ADV</tt> (1; 100%).
+<tt>ADV --[<a href="../dep/flat.html">flat</a>]--> ADV</tt> (1; 100%),
+<tt>ADJ --[<a href="../dep/parataxis.html">parataxis</a>]--> ADV</tt> (1; 100%).
 

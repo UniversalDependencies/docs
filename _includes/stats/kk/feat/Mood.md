@@ -16,7 +16,7 @@ The feature is used with 2 part-of-speech tags: [kk-pos/VERB]() (37; 7% instance
 
 37 [kk-pos/VERB]() tokens (48% of all `VERB` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="Case.html">Case</a>=EMPTY</tt> (37; 100%), <tt><a href="Aspect.html">Aspect</a>=EMPTY</tt> (37; 100%), <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (35; 95%), <tt><a href="Number.html">Number</a>=Sing</tt> (34; 92%), <tt><a href="Person.html">Person</a>=3</tt> (34; 92%), <tt><a href="Polarity.html">Polarity</a>=EMPTY</tt> (31; 84%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (29; 78%), <tt><a href="Tense.html">Tense</a>=Past</tt> (23; 62%).
+The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="Aspect.html">Aspect</a>=EMPTY</tt> (37; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (37; 100%), <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (35; 95%), <tt><a href="Person.html">Person</a>=3</tt> (34; 92%), <tt><a href="Number.html">Number</a>=Sing</tt> (34; 92%), <tt><a href="Polarity.html">Polarity</a>=EMPTY</tt> (31; 84%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (29; 78%), <tt><a href="Tense.html">Tense</a>=Past</tt> (23; 62%).
 
 `VERB` tokens may have the following values of `Mood`:
 
@@ -37,7 +37,7 @@ The most frequent other feature values with which `VERB` and `Mood` co-occurred:
 
 21 [kk-pos/AUX]() tokens (84% of all `AUX` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `AUX` and `Mood` co-occurred: <tt><a href="Number.html">Number</a>=Sing</tt> (20; 95%), <tt><a href="Polarity.html">Polarity</a>=EMPTY</tt> (18; 86%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (17; 81%), <tt><a href="Person.html">Person</a>=3</tt> (17; 81%), <tt><a href="Tense.html">Tense</a>=Past</tt> (14; 67%).
+The most frequent other feature values with which `AUX` and `Mood` co-occurred: <tt><a href="Number.html">Number</a>=Sing</tt> (20; 95%), <tt><a href="Polarity.html">Polarity</a>=EMPTY</tt> (18; 86%), <tt><a href="Person.html">Person</a>=3</tt> (17; 81%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (17; 81%), <tt><a href="Tense.html">Tense</a>=Past</tt> (14; 67%).
 
 `AUX` tokens may have the following values of `Mood`:
 

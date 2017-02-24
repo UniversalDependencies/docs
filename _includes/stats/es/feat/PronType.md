@@ -69,7 +69,7 @@ The most frequent other feature values with which `PRON` and `PronType` co-occur
 
 3 [es-pos/ADV]() tokens (0% of all `ADV` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `ADV` and `PronType` co-occurred: <tt><a href="Degree.html">Degree</a>=EMPTY</tt> (3; 100%), <tt><a href="Polarity.html">Polarity</a>=EMPTY</tt> (3; 100%).
+The most frequent other feature values with which `ADV` and `PronType` co-occurred: <tt><a href="Polarity.html">Polarity</a>=EMPTY</tt> (3; 100%), <tt><a href="Degree.html">Degree</a>=EMPTY</tt> (3; 100%).
 
 `ADV` tokens may have the following values of `PronType`:
 
@@ -81,10 +81,10 @@ The most frequent other feature values with which `ADV` and `PronType` co-occurr
 The 10 most frequent relations where parent and child node agree in `PronType`:
 <tt>PRON --[<a href="../dep/conj.html">conj</a>]--> PRON</tt> (37; 88%),
 <tt>DET --[<a href="../dep/conj.html">conj</a>]--> DET</tt> (9; 69%),
-<tt>PRON --[<a href="../dep/iobj.html">iobj</a>]--> PRON</tt> (1; 100%),
-<tt>PRON --[<a href="../dep/advmod.html">advmod</a>]--> PRON</tt> (1; 100%),
 <tt>DET --[<a href="../dep/nsubj.html">nsubj</a>]--> DET</tt> (1; 100%),
-<tt>PRON --[<a href="../dep/dep.html">dep</a>]--> PRON</tt> (1; 100%).
+<tt>PRON --[<a href="../dep/iobj.html">iobj</a>]--> PRON</tt> (1; 100%),
+<tt>PRON --[<a href="../dep/dep.html">dep</a>]--> PRON</tt> (1; 100%),
+<tt>PRON --[<a href="../dep/advmod.html">advmod</a>]--> PRON</tt> (1; 100%).
 
 
 
@@ -166,6 +166,6 @@ The 10 most frequent relations where parent and child node agree in `PronType`:
 <tt>DET --[<a href="../dep/conj.html">conj</a>]--> DET</tt> (4; 80%),
 <tt>PRON --[<a href="../dep/advcl.html">advcl</a>]--> PRON</tt> (2; 100%),
 <tt>PRON --[<a href="../dep/det.html">det</a>]--> PRON</tt> (2; 100%),
-<tt>DET --[<a href="../dep/fixed.html">fixed</a>]--> DET</tt> (1; 100%),
-<tt>PRON --[<a href="../dep/compound.html">compound</a>]--> PRON</tt> (1; 100%).
+<tt>PRON --[<a href="../dep/compound.html">compound</a>]--> PRON</tt> (1; 100%),
+<tt>DET --[<a href="../dep/fixed.html">fixed</a>]--> DET</tt> (1; 100%).
 

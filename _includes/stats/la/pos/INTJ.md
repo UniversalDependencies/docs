@@ -11,7 +11,7 @@ The 10 most frequent `INTJ` lemmas: <em>ah, o2, vae1, Hercules, Hercules1, hei, 
 
 The 10 most frequent `INTJ` types:  <em>a, o, vae, heu, mehercule, mehercules, ei, ne</em>
 
-The 10 most frequent ambiguous lemmas: <em>Hercules1</em> ([NOUN]() 2, [INTJ]() 2)
+The 10 most frequent ambiguous lemmas: <em>Hercules1</em> ([INTJ]() 2, [NOUN]() 2)
 
 The 10 most frequent ambiguous types:  <em>a</em> ([ADP]() 68, [INTJ]() 5), <em>ei</em> ([PRON]() 5, [INTJ]() 1), <em>ne</em> ([ADV]() 49, [SCONJ]() 35, [INTJ]() 1)
 

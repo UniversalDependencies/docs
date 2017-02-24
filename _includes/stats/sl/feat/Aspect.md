@@ -16,7 +16,7 @@ The feature is used with 1 part-of-speech tags: [sl-pos/VERB]() (11189; 9% insta
 
 11189 [sl-pos/VERB]() tokens (86% of all `VERB` tokens) have a non-empty value of `Aspect`.
 
-The most frequent other feature values with which `VERB` and `Aspect` co-occurred: <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (6952; 62%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (6712; 60%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (6712; 60%), <tt><a href="Number.html">Number</a>=Sing</tt> (6033; 54%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (5614; 50%).
+The most frequent other feature values with which `VERB` and `Aspect` co-occurred: <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (6952; 62%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (6712; 60%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (6712; 60%), <tt><a href="Number.html">Number</a>=Sing</tt> (6033; 54%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (5614; 50%).
 
 `VERB` tokens may have the following values of `Aspect`:
 
@@ -85,7 +85,7 @@ The most frequent other feature values with which `VERB` and `Aspect` co-occurre
 
 2 [sl-pos/AUX]() tokens (0% of all `AUX` tokens) have a non-empty value of `Aspect`.
 
-The most frequent other feature values with which `AUX` and `Aspect` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (2; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (2; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (2; 100%), <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (2; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (2; 100%), <tt><a href="Polarity.html">Polarity</a>=EMPTY</tt> (2; 100%).
+The most frequent other feature values with which `AUX` and `Aspect` co-occurred: <tt><a href="Polarity.html">Polarity</a>=EMPTY</tt> (2; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (2; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (2; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (2; 100%), <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (2; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (2; 100%).
 
 `AUX` tokens may have the following values of `Aspect`:
 

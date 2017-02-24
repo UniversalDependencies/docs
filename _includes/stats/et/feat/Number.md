@@ -37,7 +37,7 @@ The feature is used with 9 part-of-speech tags: [et-pos/NOUN]() (7918; 23% insta
 
 3360 [et-pos/VERB]() tokens (66% of all `VERB` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="Voice.html">Voice</a>=Act</tt> (3360; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (3360; 100%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (3215; 96%), <tt><a href="Person.html">Person</a>=3</tt> (2697; 80%).
+The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (3360; 100%), <tt><a href="Voice.html">Voice</a>=Act</tt> (3360; 100%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (3215; 96%), <tt><a href="Person.html">Person</a>=3</tt> (2697; 80%).
 
 `VERB` tokens may have the following values of `Number`:
 
@@ -84,7 +84,7 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
 
 2015 [et-pos/ADJ]() tokens (89% of all `ADJ` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `ADJ` and `Number` co-occurred: <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (1855; 92%), <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (1832; 91%), <tt><a href="VerbForm.html">VerbForm</a>=EMPTY</tt> (1832; 91%), <tt><a href="Degree.html">Degree</a>=Pos</tt> (1704; 85%).
+The most frequent other feature values with which `ADJ` and `Number` co-occurred: <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (1855; 92%), <tt><a href="VerbForm.html">VerbForm</a>=EMPTY</tt> (1832; 91%), <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (1832; 91%), <tt><a href="Degree.html">Degree</a>=Pos</tt> (1704; 85%).
 
 `ADJ` tokens may have the following values of `Number`:
 

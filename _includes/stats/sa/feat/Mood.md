@@ -16,7 +16,7 @@ The feature is used with 2 part-of-speech tags: [sa-pos/VERB]() (127; 11% instan
 
 127 [sa-pos/VERB]() tokens (53% of all `VERB` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="Case.html">Case</a>=EMPTY</tt> (127; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (127; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (127; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (113; 89%), <tt><a href="Voice.html">Voice</a>=Act</tt> (103; 81%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (88; 69%), <tt><a href="Person.html">Person</a>=3</tt> (79; 62%).
+The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (127; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (127; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (127; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (113; 89%), <tt><a href="Voice.html">Voice</a>=Act</tt> (103; 81%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (88; 69%), <tt><a href="Person.html">Person</a>=3</tt> (79; 62%).
 
 `VERB` tokens may have the following values of `Mood`:
 
@@ -39,7 +39,7 @@ The most frequent other feature values with which `VERB` and `Mood` co-occurred:
 
 1 [sa-pos/AUX]() tokens (100% of all `AUX` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `AUX` and `Mood` co-occurred: <tt><a href="Tense.html">Tense</a>=Pres</tt> (1; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (1; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (1; 100%), <tt><a href="Person.html">Person</a>=3</tt> (1; 100%), <tt><a href="Voice.html">Voice</a>=Act</tt> (1; 100%).
+The most frequent other feature values with which `AUX` and `Mood` co-occurred: <tt><a href="Voice.html">Voice</a>=Act</tt> (1; 100%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (1; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (1; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (1; 100%), <tt><a href="Person.html">Person</a>=3</tt> (1; 100%).
 
 `AUX` tokens may have the following values of `Mood`:
 

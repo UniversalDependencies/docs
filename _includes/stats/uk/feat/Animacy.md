@@ -77,7 +77,7 @@ The most frequent other feature values with which `PROPN` and `Animacy` co-occur
 
 151 [uk-pos/ADJ]() tokens (14% of all `ADJ` tokens) have a non-empty value of `Animacy`.
 
-The most frequent other feature values with which `ADJ` and `Animacy` co-occurred: <tt><a href="Case.html">Case</a>=Acc</tt> (151; 100%), <tt><a href="VerbForm.html">VerbForm</a>=EMPTY</tt> (136; 90%), <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (136; 90%), <tt><a href="Aspect.html">Aspect</a>=EMPTY</tt> (136; 90%), <tt><a href="Degree.html">Degree</a>=EMPTY</tt> (106; 70%), <tt><a href="Number.html">Number</a>=Plur</tt> (80; 53%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (80; 53%).
+The most frequent other feature values with which `ADJ` and `Animacy` co-occurred: <tt><a href="Case.html">Case</a>=Acc</tt> (151; 100%), <tt><a href="Aspect.html">Aspect</a>=EMPTY</tt> (136; 90%), <tt><a href="VerbForm.html">VerbForm</a>=EMPTY</tt> (136; 90%), <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (136; 90%), <tt><a href="Degree.html">Degree</a>=EMPTY</tt> (106; 70%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (80; 53%), <tt><a href="Number.html">Number</a>=Plur</tt> (80; 53%).
 
 `ADJ` tokens may have the following values of `Animacy`:
 
@@ -97,7 +97,7 @@ The most frequent other feature values with which `ADJ` and `Animacy` co-occurre
 
 81 [uk-pos/DET]() tokens (16% of all `DET` tokens) have a non-empty value of `Animacy`.
 
-The most frequent other feature values with which `DET` and `Animacy` co-occurred: <tt><a href="Case.html">Case</a>=Acc</tt> (81; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (68; 84%), <tt><a href="Poss.html">Poss</a>=EMPTY</tt> (57; 70%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (43; 53%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (43; 53%).
+The most frequent other feature values with which `DET` and `Animacy` co-occurred: <tt><a href="Case.html">Case</a>=Acc</tt> (81; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (68; 84%), <tt><a href="Poss.html">Poss</a>=EMPTY</tt> (57; 70%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (43; 53%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (43; 53%).
 
 `DET` tokens may have the following values of `Animacy`:
 
@@ -116,7 +116,7 @@ The most frequent other feature values with which `DET` and `Animacy` co-occurre
 
 6 [uk-pos/NUM]() tokens (5% of all `NUM` tokens) have a non-empty value of `Animacy`.
 
-The most frequent other feature values with which `NUM` and `Animacy` co-occurred: <tt><a href="Gender.html">Gender</a>=Masc</tt> (6; 100%), <tt><a href="NumType.html">NumType</a>=Card</tt> (6; 100%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (6; 100%), <tt><a href="Case.html">Case</a>=Acc</tt> (6; 100%).
+The most frequent other feature values with which `NUM` and `Animacy` co-occurred: <tt><a href="Number.html">Number</a>=EMPTY</tt> (6; 100%), <tt><a href="NumType.html">NumType</a>=Card</tt> (6; 100%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (6; 100%), <tt><a href="Case.html">Case</a>=Acc</tt> (6; 100%).
 
 `NUM` tokens may have the following values of `Animacy`:
 
@@ -127,7 +127,7 @@ The most frequent other feature values with which `NUM` and `Animacy` co-occurre
 
 1 [uk-pos/AUX]() tokens (1% of all `AUX` tokens) have a non-empty value of `Animacy`.
 
-The most frequent other feature values with which `AUX` and `Animacy` co-occurred: <tt><a href="Person.html">Person</a>=EMPTY</tt> (1; 100%), <tt><a href="Number.html">Number</a>=Plur</tt> (1; 100%), <tt><a href="VerbForm.html">VerbForm</a>=EMPTY</tt> (1; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (1; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (1; 100%), <tt><a href="Aspect.html">Aspect</a>=EMPTY</tt> (1; 100%), <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (1; 100%).
+The most frequent other feature values with which `AUX` and `Animacy` co-occurred: <tt><a href="Aspect.html">Aspect</a>=EMPTY</tt> (1; 100%), <tt><a href="VerbForm.html">VerbForm</a>=EMPTY</tt> (1; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (1; 100%), <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (1; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (1; 100%), <tt><a href="Number.html">Number</a>=Plur</tt> (1; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (1; 100%).
 
 `AUX` tokens may have the following values of `Animacy`:
 

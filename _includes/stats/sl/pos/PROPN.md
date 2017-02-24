@@ -11,7 +11,7 @@ The 10 most frequent `PROPN` lemmas: <em>Slovenija, Ljubljana, EU, Maribor, Evro
 
 The 10 most frequent `PROPN` types:  <em>Slovenije, Sloveniji, Slovenija, EU, Ljubljani, Slovenijo, Evropi, ZDA, LJUBLJANA, Ljubljana</em>
 
-The 10 most frequent ambiguous lemmas: <em>HTML</em> ([NOUN]() 3, [PROPN]() 1), <em>VN</em> ([NOUN]() 1, [PROPN]() 1)
+The 10 most frequent ambiguous lemmas: <em>HTML</em> ([NOUN]() 3, [PROPN]() 1), <em>VN</em> ([PROPN]() 1, [NOUN]() 1)
 
 The 10 most frequent ambiguous types:  <em>Ali</em> ([ADV]() 29, [PROPN]() 7, [CCONJ]() 6), <em>Slovenskem</em> ([PROPN]() 5, [ADJ]() 2), <em>Dolenjske</em> ([PROPN]() 4, [ADJ]() 1), <em>Gora</em> ([PROPN]() 4, [NOUN]() 2), <em>Koroško</em> ([PROPN]() 4, [ADJ]() 1), <em>Hrvaško</em> ([PROPN]() 3, [ADJ]() 1), <em>Koroška</em> ([PROPN]() 3, [ADJ]() 1), <em>Nato</em> ([ADV]() 13, [PROPN]() 3), <em>Bo</em> ([PROPN]() 2, [AUX]() 1), <em>Boja</em> ([PROPN]() 2, [NOUN]() 1)
 
@@ -102,12 +102,12 @@ The 10 most frequent `PROPN` types:  <em>[name:personal], [name:surname], [name:
 
 The 10 most frequent ambiguous lemmas: 
 
-The 10 most frequent ambiguous types:  <em>mark</em> ([PROPN]() 1, [NOUN]() 1)
+The 10 most frequent ambiguous types:  <em>mark</em> ([NOUN]() 1, [PROPN]() 1)
 
 
 * <em>mark</em>
-  * [PROPN]() 1: <em>najprej sta bila za glavno vlogo predvidena hugh jackman in <b>mark</b> wahlberg drži ali ne drži ?</em>
   * [NOUN]() 1: <em>imeli sem vespo prodal sem jo dobil sem tisoč petsto <b>mark</b> ne bom nikoli pozabil</em>
+  * [PROPN]() 1: <em>najprej sta bila za glavno vlogo predvidena hugh jackman in <b>mark</b> wahlberg drži ali ne drži ?</em>
 
 ## Morphology
 

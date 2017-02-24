@@ -30,9 +30,9 @@ The 10 most frequent relations where parent and child node agree in `AdpType`:
 <tt>ADP --[<a href="../dep/fixed.html">fixed</a>]--> ADP</tt> (230; 100%),
 <tt>ADP --[<a href="../dep/case.html">case</a>]--> ADP</tt> (11; 100%),
 <tt>ADP --[<a href="../dep/conj.html">conj</a>]--> ADP</tt> (4; 100%),
-<tt>ADP --[<a href="../dep/nsubj.html">nsubj</a>]--> ADP</tt> (1; 100%),
+<tt>ADP --[<a href="../dep/orphan.html">orphan</a>]--> ADP</tt> (1; 100%),
 <tt>ADP --[<a href="../dep/mark.html">mark</a>]--> ADP</tt> (1; 100%),
-<tt>ADP --[<a href="../dep/orphan.html">orphan</a>]--> ADP</tt> (1; 100%).
+<tt>ADP --[<a href="../dep/nsubj.html">nsubj</a>]--> ADP</tt> (1; 100%).
 
 
 

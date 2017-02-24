@@ -16,7 +16,7 @@ The feature is used with 5 part-of-speech tags: [ga-pos/NOUN]() (442; 3% instanc
 
 442 [ga-pos/NOUN]() tokens (12% of all `NOUN` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `NOUN` and `VerbForm` co-occurred: <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (442; 100%), <tt><a href="Definite.html">Definite</a>=EMPTY</tt> (442; 100%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (442; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (428; 97%), <tt><a href="Form.html">Form</a>=EMPTY</tt> (247; 56%).
+The most frequent other feature values with which `NOUN` and `VerbForm` co-occurred: <tt><a href="Number.html">Number</a>=EMPTY</tt> (442; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (442; 100%), <tt><a href="Definite.html">Definite</a>=EMPTY</tt> (442; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (428; 97%), <tt><a href="Form.html">Form</a>=EMPTY</tt> (247; 56%).
 
 `NOUN` tokens may have the following values of `VerbForm`:
 
@@ -46,7 +46,7 @@ The most frequent other feature values with which `AUX` and `VerbForm` co-occurr
 
 84 [ga-pos/ADJ]() tokens (12% of all `ADJ` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `ADJ` and `VerbForm` co-occurred: <tt><a href="Degree.html">Degree</a>=EMPTY</tt> (84; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (84; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (84; 100%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (84; 100%).
+The most frequent other feature values with which `ADJ` and `VerbForm` co-occurred: <tt><a href="Case.html">Case</a>=EMPTY</tt> (84; 100%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (84; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (84; 100%), <tt><a href="Degree.html">Degree</a>=EMPTY</tt> (84; 100%).
 
 `ADJ` tokens may have the following values of `VerbForm`:
 
@@ -68,7 +68,7 @@ The most frequent other feature values with which `ADJ` and `VerbForm` co-occurr
 
 1 [ga-pos/X]() tokens (1% of all `X` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `X` and `VerbForm` co-occurred: <tt><a href="Abbr.html">Abbr</a>=EMPTY</tt> (1; 100%), <tt><a href="PronType.html">PronType</a>=EMPTY</tt> (1; 100%), <tt><a href="Dialect.html">Dialect</a>=Ulster</tt> (1; 100%).
+The most frequent other feature values with which `X` and `VerbForm` co-occurred: <tt><a href="Dialect.html">Dialect</a>=Ulster</tt> (1; 100%), <tt><a href="PronType.html">PronType</a>=EMPTY</tt> (1; 100%), <tt><a href="Abbr.html">Abbr</a>=EMPTY</tt> (1; 100%).
 
 `X` tokens may have the following values of `VerbForm`:
 

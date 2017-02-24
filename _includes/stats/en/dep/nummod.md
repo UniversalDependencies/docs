@@ -311,21 +311,24 @@ The following 9 pairs of parts of speech are connected with `nummod`: [en-pos/NO
 
 
 ~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 2 nummod	color:blue
-1	(	(	PUNCT	FB	_	2	punct	_	SpaceAfter=No
-2	1	1	NUM	N	NumType=Card	5	nummod	_	SpaceAfter=No
-3	)	)	PUNCT	FB	_	2	punct	_	_
-4	Everyone	everyone	PRON	PE	Number=Sing|Person=3|PronType=Prs	5	nsubj	_	_
-5	has	have	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-6	the	the	DET	RD	Definite=Def|PronType=Art	7	det	_	_
-7	right	right	NOUN	S	Number=Sing	5	obj	_	_
-8	to	to	ADP	E	_	9	case	_	_
-9	education	education	NOUN	S	Number=Sing	7	nmod	_	SpaceAfter=No
-10	.	.	PUNCT	FS	_	5	punct	_	_
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 12	bgColor:blue
+# visual-style 12	fgColor:white
+# visual-style 12 9 nummod	color:blue
+1	Average	average	ADJ	A	Degree=Pos	2	amod	_	_
+2	campaigns	campaign	NOUN	S	Number=Plur	5	nsubj	_	_
+3	for	for	ADP	E	_	4	case	_	_
+4	ANA	ANA	PROPN	SP	_	2	nmod	_	_
+5	result	result	VERB	V	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	in	in	ADP	E	_	7	case	_	_
+7	CTR	CTR	PROPN	SP	_	5	obl	_	_
+8	of	of	ADP	E	_	9	case	_	_
+9	8	8	NUM	N	NumType=Card	12	nummod	_	SpaceAfter=No
+10	–	–	PUNCT	FF	_	9	punct	_	SpaceAfter=No
+11	12	12	NUM	N	NumType=Card	9	conj	_	SpaceAfter=No
+12	%	%	SYM	X	_	7	nmod	_	SpaceAfter=No
+13	.	.	PUNCT	FS	_	5	punct	_	_
 
 ~~~
 

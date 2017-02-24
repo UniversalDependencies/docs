@@ -106,7 +106,7 @@ The 10 most frequent `CCONJ` types:  <em>och, men, eller, utan, både, så, för
 
 The 10 most frequent ambiguous lemmas: <em>_</em> ([NOUN]() 11462, [VERB]() 8134, [ADP]() 7148, [PUNCT]() 6980, [PRON]() 6631, [ADV]() 4925, [ADJ]() 4444, [DET]() 3508, [AUX]() 2803, [CCONJ]() 2463, [SCONJ]() 2183, [PROPN]() 2158, [PART]() 1442, [NUM]() 339, [INTJ]() 143, [X]() 15, [SYM]() 9)
 
-The 10 most frequent ambiguous types:  <em>och</em> ([CCONJ]() 1784, [ADV]() 5), <em>utan</em> ([ADP]() 62, [CCONJ]() 24, [SCONJ]() 1, [ADV]() 1), <em>så</em> ([ADV]() 212, [SCONJ]() 16, [CCONJ]() 13, [PART]() 9, [ADJ]() 7), <em>för</em> ([ADP]() 639, [ADV]() 32, [CCONJ]() 9, [VERB]() 4, [SCONJ]() 3, [NOUN]() 2), <em>fast</em> ([ADV]() 8, [SCONJ]() 5, [CCONJ]() 4, [ADJ]() 3), <em>vare</em> ([CCONJ]() 7, [VERB]() 2), <em>som</em> ([SCONJ]() 880, [ADP]() 264, [CCONJ]() 4), <em>liksom</em> ([ADV]() 6, [ADP]() 3, [CCONJ]() 1, [SCONJ]() 1), <em>mellan</em> ([ADP]() 61, [CCONJ]() 1)
+The 10 most frequent ambiguous types:  <em>och</em> ([CCONJ]() 1784, [ADV]() 5), <em>utan</em> ([ADP]() 62, [CCONJ]() 24, [ADV]() 1, [SCONJ]() 1), <em>så</em> ([ADV]() 212, [SCONJ]() 16, [CCONJ]() 13, [PART]() 9, [ADJ]() 7), <em>för</em> ([ADP]() 639, [ADV]() 32, [CCONJ]() 9, [VERB]() 4, [SCONJ]() 3, [NOUN]() 2), <em>fast</em> ([ADV]() 8, [SCONJ]() 5, [CCONJ]() 4, [ADJ]() 3), <em>vare</em> ([CCONJ]() 7, [VERB]() 2), <em>som</em> ([SCONJ]() 880, [ADP]() 264, [CCONJ]() 4), <em>liksom</em> ([ADV]() 6, [ADP]() 3, [SCONJ]() 1, [CCONJ]() 1), <em>mellan</em> ([ADP]() 61, [CCONJ]() 1)
 
 
 * <em>och</em>
@@ -115,8 +115,8 @@ The 10 most frequent ambiguous types:  <em>och</em> ([CCONJ]() 1784, [ADV]() 5),
 * <em>utan</em>
   * [ADP]() 62: <em><b>utan</b> tvivel verkade han äldre .</em>
   * [CCONJ]() 24: <em>Vilse inte bara i staden <b>utan</b> även inom sig själv .</em>
-  * [SCONJ]() 1: <em>Marknaden för jordbruksprodukter blir då inte uteslutande kopplad till priser , <b>utan</b> också till regionen .</em>
   * [ADV]() 1: <em>Vi skulle <b>utan</b> vidare kunna svepa undan hela bunten från dansgolvet .</em>
+  * [SCONJ]() 1: <em>Marknaden för jordbruksprodukter blir då inte uteslutande kopplad till priser , <b>utan</b> också till regionen .</em>
 * <em>så</em>
   * [ADV]() 212: <em>Blir det bra <b>så</b> ? undrade Auster .</em>
   * [SCONJ]() 16: <em>1 Först filtreras fältet Sport <b>så</b> att endast golfförsäljningen visas .</em>
@@ -145,8 +145,8 @@ The 10 most frequent ambiguous types:  <em>och</em> ([CCONJ]() 1784, [ADV]() 5),
 * <em>liksom</em>
   * [ADV]() 6: <em>Den spred <b>liksom</b> ett ljus över allting omkring mig och över mina egna tankar .</em>
   * [ADP]() 3: <em>De kallades brottslingar , och en kränkt rättvisa hade nått dem , <b>liksom</b> de briserande granaterna ett olösligt mysterium från havet .</em>
-  * [CCONJ]() 1: <em>Slutrapporten lämnades ut till omvärlden och uppgavs vara ett verk av Zakaria Mohieddin , Nassers mest insiktsfulla och resonliga medarbetare ( i västerländska ögon ) , och den togs för gott av informationsanalytiker på utrikesdepartementet och CIA , <b>liksom</b> sannolikt också av motsvarande organ för andra staters regeringar " .</em>
   * [SCONJ]() 1: <em>Över Kano lyste en väldig måne , och i starkare ljus än en europeisk vintereftermiddag kämpade sig passagerarna fram över plattan klockan tre på morgonen mot trycket av en middagshetta , som dröjt sig kvar hela natten <b>liksom</b> solen dröjer sig kvar i en sten som den värmt upp .</em>
+  * [CCONJ]() 1: <em>Slutrapporten lämnades ut till omvärlden och uppgavs vara ett verk av Zakaria Mohieddin , Nassers mest insiktsfulla och resonliga medarbetare ( i västerländska ögon ) , och den togs för gott av informationsanalytiker på utrikesdepartementet och CIA , <b>liksom</b> sannolikt också av motsvarande organ för andra staters regeringar " .</em>
 * <em>mellan</em>
   * [ADP]() 61: <em>Jämförelse <b>mellan</b> en korsfråga och en urvalsfråga</em>
   * [CCONJ]() 1: <em>Föredraganden kräver ett gränsvärde på <b>mellan</b> 50 och 30 ppm , vilket även i detta fall skulle medföra alltför stora kostnader utan uppenbar vinst .</em>

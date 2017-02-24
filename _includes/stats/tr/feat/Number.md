@@ -43,7 +43,7 @@ The most frequent other feature values with which `NOUN` and `Number` co-occurre
 
 5267 [tr-pos/VERB]() tokens (58% of all `VERB` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="Person[psor].html">Person[psor]</a>=EMPTY</tt> (5267; 100%), <tt><a href="Number[psor].html">Number[psor]</a>=EMPTY</tt> (5267; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (5267; 100%), <tt><a href="VerbForm.html">VerbForm</a>=EMPTY</tt> (5194; 99%), <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (4616; 88%), <tt><a href="Polarity.html">Polarity</a>=Pos</tt> (4548; 86%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (4164; 79%), <tt><a href="Polite.html">Polite</a>=EMPTY</tt> (4131; 78%), <tt><a href="Person.html">Person</a>=3</tt> (3480; 66%), <tt><a href="Aspect.html">Aspect</a>=Perf</tt> (3217; 61%).
+The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="Number[psor].html">Number[psor]</a>=EMPTY</tt> (5267; 100%), <tt><a href="Person[psor].html">Person[psor]</a>=EMPTY</tt> (5267; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (5267; 100%), <tt><a href="VerbForm.html">VerbForm</a>=EMPTY</tt> (5194; 99%), <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (4616; 88%), <tt><a href="Polarity.html">Polarity</a>=Pos</tt> (4548; 86%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (4164; 79%), <tt><a href="Polite.html">Polite</a>=EMPTY</tt> (4131; 78%), <tt><a href="Person.html">Person</a>=3</tt> (3480; 66%), <tt><a href="Aspect.html">Aspect</a>=Perf</tt> (3217; 61%).
 
 `VERB` tokens may have the following values of `Number`:
 
@@ -125,7 +125,7 @@ The most frequent other feature values with which `VERB` and `Number` co-occurre
 
 2029 [tr-pos/ADJ]() tokens (42% of all `ADJ` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `ADJ` and `Number` co-occurred: <tt><a href="Person.html">Person</a>=3</tt> (2029; 100%), <tt><a href="Person[psor].html">Person[psor]</a>=EMPTY</tt> (1242; 61%), <tt><a href="Number[psor].html">Number[psor]</a>=EMPTY</tt> (1242; 61%).
+The most frequent other feature values with which `ADJ` and `Number` co-occurred: <tt><a href="Person.html">Person</a>=3</tt> (2029; 100%), <tt><a href="Number[psor].html">Number[psor]</a>=EMPTY</tt> (1242; 61%), <tt><a href="Person[psor].html">Person[psor]</a>=EMPTY</tt> (1242; 61%).
 
 `ADJ` tokens may have the following values of `Number`:
 
@@ -219,17 +219,17 @@ The most frequent other feature values with which `AUX` and `Number` co-occurred
   <tr><th>Paradigm <i>i</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
   <tr><td><tt><a href="Evident.html">Evident</a>=Nfh|<a href="Mood.html">Mood</a>=Ind|<a href="Person.html">Person</a>=1|<a href="Tense.html">Tense</a>=Past</tt></td><td><em>ymışım</em></td><td><em>ymışız</em></td></tr>
   <tr><td><tt><a href="Evident.html">Evident</a>=Nfh|<a href="Mood.html">Mood</a>=Ind|<a href="Person.html">Person</a>=2|<a href="Tense.html">Tense</a>=Past</tt></td><td><em>mışsın</em></td><td></td></tr>
-  <tr><td><tt><a href="Evident.html">Evident</a>=Nfh|<a href="Mood.html">Mood</a>=Ind|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Past</tt></td><td><em>mış, ymiş, eymiş, ymış, ymuş, müş, miş, ostakoviç'miş, edenmiş, immiş</em></td><td></td></tr>
+  <tr><td><tt><a href="Evident.html">Evident</a>=Nfh|<a href="Mood.html">Mood</a>=Ind|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Past</tt></td><td><em>mış, ymiş, ymış, eymiş, ymuş, ostakoviç'miş, edenmiş, immiş, müş, miş</em></td><td></td></tr>
   <tr><td><tt><a href="Evident.html">Evident</a>=Nfh|<a href="Mood.html">Mood</a>=Ind|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Past|<a href="VerbForm.html">VerbForm</a>=Conv</tt></td><td><em>ymişçesine</em></td><td></td></tr>
   <tr><td><tt><a href="Mood.html">Mood</a>=Cnd|<a href="Person.html">Person</a>=1|<a href="Tense.html">Tense</a>=Pres</tt></td><td><em>sem</em></td><td></td></tr>
-  <tr><td><tt><a href="Mood.html">Mood</a>=Cnd|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Pres</tt></td><td><em>sa, se, yse, ysa, imse, siyse</em></td><td></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Cnd|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Pres</tt></td><td><em>sa, se, yse, siyse, ysa, imse</em></td><td></td></tr>
   <tr><td><tt><a href="Mood.html">Mood</a>=Gen|<a href="Person.html">Person</a>=2|<a href="Tense.html">Tense</a>=Pres</tt></td><td></td><td><em>sinizdir</em></td></tr>
-  <tr><td><tt><a href="Mood.html">Mood</a>=Gen|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Pres</tt></td><td><em>dır, dir, dur, tir, tır, tur, dür, edir, ledir, tür, üdür, ir, 'dır</em></td><td><em>lerdir, lardır, dırlar, durlar, etinlerdir</em></td></tr>
-  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Person.html">Person</a>=1|<a href="Tense.html">Tense</a>=Past</tt></td><td><em>ydim, ydım, ydum, tum, tım, dum, düm, dim, dım</em></td><td><em>ydik, ydık, dik</em></td></tr>
-  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Person.html">Person</a>=1|<a href="Tense.html">Tense</a>=Pres</tt></td><td><em>im, yim, yım, ım, yum, üm</em></td><td><em>ız, yız, iz, yiz, yüz, yuz</em></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Gen|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Pres</tt></td><td><em>dır, dir, dur, tir, tur, tır, dür, edir, tür, ledir, ir, üdür, 'dır</em></td><td><em>lerdir, lardır, dırlar, durlar, etinlerdir</em></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Person.html">Person</a>=1|<a href="Tense.html">Tense</a>=Past</tt></td><td><em>ydim, ydım, tum, ydum, düm, dum, dim, tım, dım</em></td><td><em>ydik, ydık, dik</em></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Person.html">Person</a>=1|<a href="Tense.html">Tense</a>=Pres</tt></td><td><em>im, yim, yım, ım, yum, üm</em></td><td><em>yız, ız, iz, yiz, yüz, yuz</em></td></tr>
   <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Person.html">Person</a>=2|<a href="Tense.html">Tense</a>=Past</tt></td><td><em>erdeydin, ydin, din</em></td><td><em>ydınız</em></td></tr>
-  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Person.html">Person</a>=2|<a href="Tense.html">Tense</a>=Pres</tt></td><td><em>sın, s'ın, eredesin, sun, sin, usevisin</em></td><td><em>sınız, imsiniz, eredesiniz, sunuz, lırsınız</em></td></tr>
-  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Past</tt></td><td><em>ydi, dı, ydı, tu, ydu, tı, ti, di, du, eydi, dü, 'ydi, eredeydi, ydü, 'dı, tü, 'di, 'ydı</em></td><td><em>ydılar, tılar, dular, ydiler</em></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Person.html">Person</a>=2|<a href="Tense.html">Tense</a>=Pres</tt></td><td><em>sın, eredesin, s'ın, usevisin, sun, sin</em></td><td><em>sınız, imsiniz, lırsınız, sunuz, eredesiniz</em></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Past</tt></td><td><em>ydi, dı, ydı, tu, ydu, tı, di, ti, du, dü, eydi, 'ydi, 'di, 'ydı, ydü, eredeydi, tü, 'dı</em></td><td><em>ydılar, tılar, ydiler, dular</em></td></tr>
   <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Pres</tt></td><td></td><td><em>ler, lar</em></td></tr>
 </table>
 

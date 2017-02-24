@@ -16,7 +16,7 @@ The feature is used with 1 part-of-speech tags: [ur-pos/ADV]() (130; 0% instance
 
 130 [ur-pos/ADV]() tokens (10% of all `ADV` tokens) have a non-empty value of `AdvType`.
 
-The most frequent other feature values with which `ADV` and `AdvType` co-occurred: <tt><a href="AdpType.html">AdpType</a>=EMPTY</tt> (130; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (130; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (129; 99%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (129; 99%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (129; 99%).
+The most frequent other feature values with which `ADV` and `AdvType` co-occurred: <tt><a href="AdpType.html">AdpType</a>=EMPTY</tt> (130; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (130; 100%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (129; 99%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (129; 99%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (129; 99%).
 
 `ADV` tokens may have the following values of `AdvType`:
 

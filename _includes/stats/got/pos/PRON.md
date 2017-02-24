@@ -11,7 +11,7 @@ The 10 most frequent `PRON` lemmas: <em>is, jūs, ik, saei, þu, weis, ƕas, sik
 
 The 10 most frequent `PRON` types:  <em>izwis, imma, is, ina, im, mis, ik, saei, mik, þatei</em>
 
-The 10 most frequent ambiguous lemmas: <em>ƕas</em> ([PRON]() 204, [ADJ]() 95, [DET]() 9), <em>sik</em> ([PRON]() 110, [AUX]() 76), <em>silba</em> ([ADJ]() 86, [PRON]() 62), <em>anþar</em> ([ADJ]() 110, [PRON]() 10), <em>þanuh</em> ([ADV]() 72, [SCONJ]() 1, [PRON]() 1)
+The 10 most frequent ambiguous lemmas: <em>ƕas</em> ([PRON]() 204, [ADJ]() 95, [DET]() 9), <em>sik</em> ([PRON]() 110, [AUX]() 76), <em>silba</em> ([ADJ]() 86, [PRON]() 62), <em>anþar</em> ([ADJ]() 110, [PRON]() 10), <em>þanuh</em> ([ADV]() 72, [PRON]() 1, [SCONJ]() 1)
 
 The 10 most frequent ambiguous types:  <em>is</em> ([PRON]() 327, [VERB]() 36), <em>im</em> ([PRON]() 265, [VERB]() 82), <em>þatei</em> ([SCONJ]() 321, [PRON]() 137, [ADV]() 2), <em>ƕa</em> ([PRON]() 127, [ADJ]() 27, [DET]() 2), <em>sis</em> ([PRON]() 71, [AUX]() 10), <em>þammei</em> ([PRON]() 56, [SCONJ]() 10), <em>ƕas</em> ([ADJ]() 52, [PRON]() 49, [DET]() 3), <em>þanei</em> ([PRON]() 48, [ADV]() 3), <em>sik</em> ([AUX]() 66, [PRON]() 38), <em>izwara</em> ([ADJ]() 48, [PRON]() 35)
 

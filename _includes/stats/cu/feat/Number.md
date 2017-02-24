@@ -39,15 +39,15 @@ The most frequent other feature values with which `VERB` and `Number` co-occurre
   <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Gender.html">Gender</a>=Masc|<a href="Strength.html">Strength</a>=Strong|<a href="Tense.html">Tense</a>=Pres|<a href="VerbForm.html">VerbForm</a>=Part|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>сѫштъ</em></td><td></td><td></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Gender.html">Gender</a>=Masc|<a href="Strength.html">Strength</a>=Weak|<a href="Tense.html">Tense</a>=Fut|<a href="VerbForm.html">VerbForm</a>=Part|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>бѫдѫщии</em></td><td></td><td></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Gender.html">Gender</a>=Masc|<a href="Strength.html">Strength</a>=Weak|<a href="Tense.html">Tense</a>=Past|<a href="VerbForm.html">VerbForm</a>=Part|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>бꙑвъшии҅</em></td><td></td><td></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Gender.html">Gender</a>=Fem|<a href="Strength.html">Strength</a>=Strong|<a href="Tense.html">Tense</a>=Pres|<a href="VerbForm.html">VerbForm</a>=Part|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>сѫщѫ, сѫштѫ</em></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Gender.html">Gender</a>=Fem|<a href="Strength.html">Strength</a>=Strong|<a href="Tense.html">Tense</a>=Pres|<a href="VerbForm.html">VerbForm</a>=Part|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>сѫштѫ, сѫщѫ</em></td><td></td><td></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Gender.html">Gender</a>=Fem|<a href="Strength.html">Strength</a>=Weak|<a href="Tense.html">Tense</a>=Past|<a href="VerbForm.html">VerbForm</a>=Part|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>бꙑвъшѫѭ</em></td><td></td><td></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Gender.html">Gender</a>=Neut|<a href="Strength.html">Strength</a>=Strong|<a href="Tense.html">Tense</a>=Past|<a href="VerbForm.html">VerbForm</a>=Part|<a href="Voice.html">Voice</a>=Act</tt></td><td></td><td></td><td><em>бꙑвъша</em></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Gender.html">Gender</a>=Neut|<a href="Strength.html">Strength</a>=Weak|<a href="Tense.html">Tense</a>=Past|<a href="VerbForm.html">VerbForm</a>=Part|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>бꙑвъшее</em></td><td></td><td><em>бꙑвъшаа</em></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Gender.html">Gender</a>=Neut|<a href="Strength.html">Strength</a>=Weak|<a href="Tense.html">Tense</a>=Pres|<a href="VerbForm.html">VerbForm</a>=Part|<a href="Voice.html">Voice</a>=Act</tt></td><td></td><td></td><td><em>сѫштаа</em></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Dat|<a href="Gender.html">Gender</a>=Masc|<a href="Strength.html">Strength</a>=Strong|<a href="Tense.html">Tense</a>=Past|<a href="VerbForm.html">VerbForm</a>=Part|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>бꙑвъшоу, бꙑвъшю, бъвъшю</em></td><td></td><td></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Dat|<a href="Gender.html">Gender</a>=Masc|<a href="Strength.html">Strength</a>=Strong|<a href="Tense.html">Tense</a>=Pres|<a href="VerbForm.html">VerbForm</a>=Part|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>сѫштю, сѫштоу, сѫщоу, сѫщю</em></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Dat|<a href="Gender.html">Gender</a>=Masc|<a href="Strength.html">Strength</a>=Strong|<a href="Tense.html">Tense</a>=Pres|<a href="VerbForm.html">VerbForm</a>=Part|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>сѫштю, сѫштоу, сѫщю, сѫщоу</em></td><td></td><td></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Dat|<a href="Gender.html">Gender</a>=Masc|<a href="Strength.html">Strength</a>=Weak|<a href="Tense.html">Tense</a>=Past|<a href="VerbForm.html">VerbForm</a>=Part|<a href="Voice.html">Voice</a>=Act</tt></td><td></td><td></td><td><em>бꙑвъшимъ</em></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Dat|<a href="Gender.html">Gender</a>=Masc|<a href="Strength.html">Strength</a>=Weak|<a href="Tense.html">Tense</a>=Pres|<a href="VerbForm.html">VerbForm</a>=Part|<a href="Voice.html">Voice</a>=Act</tt></td><td></td><td></td><td><em>сѫштиимъ, сѫщимъ, сѫштимъ</em></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Dat|<a href="Gender.html">Gender</a>=Masc|<a href="Strength.html">Strength</a>=Weak|<a href="Tense.html">Tense</a>=Pres|<a href="VerbForm.html">VerbForm</a>=Part|<a href="Voice.html">Voice</a>=Act</tt></td><td></td><td></td><td><em>сѫщимъ, сѫштиимъ, сѫштимъ</em></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Dat|<a href="Gender.html">Gender</a>=Fem|<a href="Strength.html">Strength</a>=Strong|<a href="Tense.html">Tense</a>=Past|<a href="VerbForm.html">VerbForm</a>=Part|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>бꙑвъши</em></td><td></td><td><em>бꙑвъшамъ</em></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Dat|<a href="Gender.html">Gender</a>=Fem|<a href="Strength.html">Strength</a>=Strong|<a href="Tense.html">Tense</a>=Pres|<a href="VerbForm.html">VerbForm</a>=Part|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>сѫшти</em></td><td></td><td></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Dat|<a href="Gender.html">Gender</a>=Neut|<a href="Strength.html">Strength</a>=Strong|<a href="Tense.html">Tense</a>=Past|<a href="VerbForm.html">VerbForm</a>=Part|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>бꙑвъшю, бꙑвъшоу</em></td><td></td><td></td></tr>
@@ -58,7 +58,7 @@ The most frequent other feature values with which `VERB` and `Number` co-occurre
   <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Gender.html">Gender</a>=Masc|<a href="Strength.html">Strength</a>=Strong|<a href="Tense.html">Tense</a>=Pres|<a href="VerbForm.html">VerbForm</a>=Part|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>сѫшта</em></td><td></td><td></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Gender.html">Gender</a>=Masc|<a href="Strength.html">Strength</a>=Weak|<a href="Tense.html">Tense</a>=Pres|<a href="VerbForm.html">VerbForm</a>=Part|<a href="Voice.html">Voice</a>=Act</tt></td><td></td><td></td><td><em>сѫщтихъ</em></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Gender.html">Gender</a>=Fem|<a href="Strength.html">Strength</a>=Strong|<a href="Tense.html">Tense</a>=Pres|<a href="VerbForm.html">VerbForm</a>=Part|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>сѫштѧ</em></td><td></td><td></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Gender.html">Gender</a>=Neut|<a href="Strength.html">Strength</a>=Weak|<a href="Tense.html">Tense</a>=Past|<a href="VerbForm.html">VerbForm</a>=Part|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>бꙑвъшаго, бꙑвъшааго</em></td><td></td><td><em>бꙑвъшиихъ</em></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Gender.html">Gender</a>=Neut|<a href="Strength.html">Strength</a>=Weak|<a href="Tense.html">Tense</a>=Past|<a href="VerbForm.html">VerbForm</a>=Part|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>бꙑвъшааго, бꙑвъшаго</em></td><td></td><td><em>бꙑвъшиихъ</em></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Strength.html">Strength</a>=Weak|<a href="Tense.html">Tense</a>=Pres|<a href="VerbForm.html">VerbForm</a>=Part|<a href="Voice.html">Voice</a>=Act</tt></td><td></td><td></td><td><em>сѫштиихъ</em></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Ins|<a href="Gender.html">Gender</a>=Fem|<a href="Strength.html">Strength</a>=Strong|<a href="Tense.html">Tense</a>=Pres|<a href="VerbForm.html">VerbForm</a>=Part|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>сѫштеѭ</em></td><td></td><td></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Gender.html">Gender</a>=Masc,Neut|<a href="Strength.html">Strength</a>=Strong|<a href="Tense.html">Tense</a>=Pres|<a href="VerbForm.html">VerbForm</a>=Part|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>сꙑ</em></td><td></td><td></td></tr>
@@ -66,7 +66,7 @@ The most frequent other feature values with which `VERB` and `Number` co-occurre
   <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Gender.html">Gender</a>=Masc|<a href="Strength.html">Strength</a>=Strong|<a href="Tense.html">Tense</a>=Pres|<a href="VerbForm.html">VerbForm</a>=Part|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>сꙑ</em></td><td></td><td><em>сѫште, сѫще</em></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Gender.html">Gender</a>=Masc|<a href="Strength.html">Strength</a>=Strong|<a href="Tense.html">Tense</a>=Pres|<a href="VerbForm.html">VerbForm</a>=Part|<a href="Voice.html">Voice</a>=Pass</tt></td><td></td><td></td><td><em>сѫще</em></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Gender.html">Gender</a>=Masc|<a href="Strength.html">Strength</a>=Weak|<a href="Tense.html">Tense</a>=Past|<a href="VerbForm.html">VerbForm</a>=Part|<a href="Voice.html">Voice</a>=Act</tt></td><td></td><td></td><td><em>бꙑвъшеи</em></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Gender.html">Gender</a>=Masc|<a href="Strength.html">Strength</a>=Weak|<a href="Tense.html">Tense</a>=Pres|<a href="VerbForm.html">VerbForm</a>=Part|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>сѫи, сꙑи, сꙙи</em></td><td></td><td><em>сѫштеи, сѫщеи, сѫщи</em></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Gender.html">Gender</a>=Masc|<a href="Strength.html">Strength</a>=Weak|<a href="Tense.html">Tense</a>=Pres|<a href="VerbForm.html">VerbForm</a>=Part|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>сꙙи, сѫи, сꙑи</em></td><td></td><td><em>сѫштеи, сѫщеи, сѫщи</em></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Gender.html">Gender</a>=Fem|<a href="Strength.html">Strength</a>=Strong|<a href="Tense.html">Tense</a>=Past|<a href="VerbForm.html">VerbForm</a>=Part|<a href="Voice.html">Voice</a>=Act</tt></td><td></td><td></td><td><em>бꙑвьшѧ</em></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Gender.html">Gender</a>=Fem|<a href="Strength.html">Strength</a>=Strong|<a href="Tense.html">Tense</a>=Pres|<a href="VerbForm.html">VerbForm</a>=Part|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>сѫшти</em></td><td></td><td></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Gender.html">Gender</a>=Fem|<a href="Strength.html">Strength</a>=Weak|<a href="Tense.html">Tense</a>=Past|<a href="VerbForm.html">VerbForm</a>=Part|<a href="Voice.html">Voice</a>=Act</tt></td><td></td><td></td><td><em>бꙑвъшѧѩ</em></td></tr>
@@ -77,8 +77,8 @@ The most frequent other feature values with which `VERB` and `Number` co-occurre
   <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Person.html">Person</a>=1|<a href="Tense.html">Tense</a>=Fut|<a href="VerbForm.html">VerbForm</a>=Fin|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>бѫдѫ</em></td><td></td><td></td></tr>
   <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Person.html">Person</a>=1|<a href="Tense.html">Tense</a>=Pres|<a href="VerbForm.html">VerbForm</a>=Fin|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>есмъ, есмь</em></td><td><em>есвѣ</em></td><td><em>есмъ</em></td></tr>
   <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Person.html">Person</a>=2|<a href="Tense.html">Tense</a>=Fut|<a href="VerbForm.html">VerbForm</a>=Fin|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>бѫдеши</em></td><td></td><td><em>бѫдете, бѫдѣте</em></td></tr>
-  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Person.html">Person</a>=2|<a href="Tense.html">Tense</a>=Pres|<a href="VerbForm.html">VerbForm</a>=Fin|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>еси, си, е҅си</em></td><td><em>еста</em></td><td><em>есте</em></td></tr>
-  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Fut|<a href="VerbForm.html">VerbForm</a>=Fin|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>бѫдетъ, бодетъ, бѫде</em></td><td><em>бѫдете</em></td><td><em>бѫдѫтъ, бодѫтъ, бѫтъ</em></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Person.html">Person</a>=2|<a href="Tense.html">Tense</a>=Pres|<a href="VerbForm.html">VerbForm</a>=Fin|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>еси, е҅си, си</em></td><td><em>еста</em></td><td><em>есте</em></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Fut|<a href="VerbForm.html">VerbForm</a>=Fin|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>бѫдетъ, бодетъ, бѫде</em></td><td><em>бѫдете</em></td><td><em>бѫдѫтъ, бѫтъ, бодѫтъ</em></td></tr>
   <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Pres|<a href="VerbForm.html">VerbForm</a>=Fin|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>естъ, есть, е҅стъ, е</em></td><td><em>есте</em></td><td><em>сѫтъ, сѫть</em></td></tr>
   <tr><td><tt><a href="Mood.html">Mood</a>=Sub|<a href="Person.html">Person</a>=1|<a href="Tense.html">Tense</a>=Pres|<a href="VerbForm.html">VerbForm</a>=Fin|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>бимь, бимъ</em></td><td></td><td></td></tr>
   <tr><td><tt><a href="Mood.html">Mood</a>=Sub|<a href="Person.html">Person</a>=2|<a href="Tense.html">Tense</a>=Pres|<a href="VerbForm.html">VerbForm</a>=Fin|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>би</em></td><td></td><td><em>бисте</em></td></tr>
@@ -105,7 +105,7 @@ The most frequent other feature values with which `NOUN` and `Number` co-occurre
   <tr><td><tt><a href="Case.html">Case</a>=Gen</tt></td><td><em>с҃на, сна</em></td><td><em>с҃новоу</em></td><td><em>с҃нвъ, с҃нъ</em></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Ins</tt></td><td><em>с҃номъ</em></td><td><em>с҃ньма</em></td><td></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Loc</tt></td><td><em>с҃нѣ</em></td><td></td><td></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Nom</tt></td><td><em>с҃нъ, с҃н, снъ, сн, сꙑнъ</em></td><td><em>с҃на, с҃нꙑ, сꙑна</em></td><td><em>с҃нве, с҃нове, сⷩ҇ве</em></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Nom</tt></td><td><em>с҃нъ, сꙑнъ, сн, снъ, с҃н</em></td><td><em>сꙑна, с҃нꙑ, с҃на</em></td><td><em>с҃нве, с҃нове, сⷩ҇ве</em></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Voc</tt></td><td><em>с҃не, с҃ноу</em></td><td></td><td></td></tr>
 </table>
 
@@ -130,8 +130,8 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
   <tr><td><tt><a href="Case.html">Case</a>=Dat|<a href="Gender.html">Gender</a>=Masc,Neut|<a href="Person.html">Person</a>=2</tt></td><td><em>немоу</em></td><td></td><td></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Dat|<a href="Gender.html">Gender</a>=Masc,Neut|<a href="Person.html">Person</a>=3</tt></td><td><em>емоу</em></td><td></td><td></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Dat|<a href="Gender.html">Gender</a>=Masc|<a href="Person.html">Person</a>=3</tt></td><td><em>емоу, немоу, моу, е҅моу</em></td><td><em>има, нима</em></td><td><em>имъ, нимъ, нимь, имь, и҅мъ</em></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Dat|<a href="Gender.html">Gender</a>=Fem|<a href="Person.html">Person</a>=3</tt></td><td><em>еи, неи, еи҅, е҅и҅</em></td><td><em>има</em></td><td><em>имъ, нимъ</em></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Gender.html">Gender</a>=Masc|<a href="Person.html">Person</a>=3</tt></td><td><em>его, него</em></td><td><em>ею, ею҅, нею</em></td><td><em>ихъ, нихъ, ꙇхъ, и҅хъ, ихь, ꙇ҅хъ</em></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Dat|<a href="Gender.html">Gender</a>=Fem|<a href="Person.html">Person</a>=3</tt></td><td><em>еи, неи, е҅и҅, еи҅</em></td><td><em>има</em></td><td><em>имъ, нимъ</em></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Gender.html">Gender</a>=Masc|<a href="Person.html">Person</a>=3</tt></td><td><em>его, него</em></td><td><em>ею, нею, ею҅</em></td><td><em>ихъ, нихъ, ꙇ҅хъ, ихь, и҅хъ, ꙇхъ</em></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Gender.html">Gender</a>=Fem|<a href="Person.html">Person</a>=3</tt></td><td><em>еѩ, еѩ҅, неѩ, ѩ</em></td><td><em>нею, ею</em></td><td><em>ихъ, нихъ</em></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Gender.html">Gender</a>=Neut|<a href="Person.html">Person</a>=3</tt></td><td><em>его, него</em></td><td><em>ею</em></td><td><em>ихъ</em></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Ins|<a href="Gender.html">Gender</a>=Masc,Neut|<a href="Person.html">Person</a>=3</tt></td><td><em>нимь</em></td><td></td><td></td></tr>
@@ -148,7 +148,7 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
 
 4344 [cu-pos/ADJ]() tokens (100% of all `ADJ` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `ADJ` and `Number` co-occurred: <tt><a href="Poss.html">Poss</a>=EMPTY</tt> (3393; 78%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (3393; 78%), <tt><a href="Strength.html">Strength</a>=EMPTY</tt> (2293; 53%), <tt><a href="Degree.html">Degree</a>=EMPTY</tt> (2221; 51%).
+The most frequent other feature values with which `ADJ` and `Number` co-occurred: <tt><a href="Person.html">Person</a>=EMPTY</tt> (3393; 78%), <tt><a href="Poss.html">Poss</a>=EMPTY</tt> (3393; 78%), <tt><a href="Strength.html">Strength</a>=EMPTY</tt> (2293; 53%), <tt><a href="Degree.html">Degree</a>=EMPTY</tt> (2221; 51%).
 
 `ADJ` tokens may have the following values of `Number`:
 
@@ -171,7 +171,7 @@ The most frequent other feature values with which `ADJ` and `Number` co-occurred
   <tr><td><tt><a href="Case.html">Case</a>=Ins|<a href="Gender.html">Gender</a>=Neut</tt></td><td><em>симъ</em></td><td></td><td><em>сими</em></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Loc|<a href="Gender.html">Gender</a>=Masc</tt></td><td><em>семь</em></td><td></td><td><em>сихъ</em></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Loc|<a href="Gender.html">Gender</a>=Neut</tt></td><td><em>семь, семъ</em></td><td></td><td><em>сихъ</em></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Gender.html">Gender</a>=Masc</tt></td><td><em>сь, съ</em></td><td></td><td><em>сии, си, сии҅, син</em></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Gender.html">Gender</a>=Masc</tt></td><td><em>сь, съ</em></td><td></td><td><em>сии, си, син, сии҅</em></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Gender.html">Gender</a>=Fem</tt></td><td><em>си</em></td><td></td><td></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Gender.html">Gender</a>=Neut</tt></td><td><em>се</em></td><td></td><td><em>си</em></td></tr>
 </table>
@@ -190,10 +190,10 @@ The most frequent other feature values with which `PROPN` and `Number` co-occurr
 
 <table>
   <tr><th>Paradigm <i>иѥроусалимъ</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Acc</tt></td><td><em>и҃мъ, иероусалимъ, и҃лмъ, ероусалимъ, е҃рслмъ, ꙇ҃мъ, е҃рсмъ, и҃҅мъ, и҃рслмъ, ꙇ҃҅мъ, і҃мъ</em></td><td></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Gen</tt></td><td><em>и҃ма, и҃ерлма, ꙇ҃ма, и҃лма, и҃ерсма</em></td><td></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Acc</tt></td><td><em>и҃мъ, иероусалимъ, и҃лмъ, ероусалимъ, ꙇ҃мъ, е҃рслмъ, и҃҅мъ, и҃рслмъ, ꙇ҃҅мъ, е҃рсмъ, і҃мъ</em></td><td></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Gen</tt></td><td><em>и҃ерлма, и҃ма, и҃лма, ꙇ҃ма, и҃ерсма</em></td><td></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Ins</tt></td><td><em>и҃ерслмъмъ</em></td><td></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Loc</tt></td><td><em>и҃мѣ, и҅роусалимѣ, е҃рлмѣ, е҃мѣ, и҃мѣⷯ҇, и҃лмѣ</em></td><td><em>и҃мѣхъ, е҃рсмѣхъ, ꙇ҃мѣхъ, е҃рслмхь</em></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Loc</tt></td><td><em>и҃мѣ, е҃рлмѣ, и҃мѣⷯ҇, и҃лмѣ, е҃мѣ, и҅роусалимѣ</em></td><td><em>и҃мѣхъ, е҃рслмхь, е҃рсмѣхъ, ꙇ҃мѣхъ</em></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Nom</tt></td><td><em>е҃рслмъ</em></td><td></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Voc</tt></td><td><em>и҃ме, ꙇ҃ме</em></td><td></td></tr>
 </table>
@@ -234,7 +234,7 @@ The most frequent other feature values with which `AUX` and `Number` co-occurred
   <tr><th>Paradigm <i>сь</i></th><th><tt>Sing</tt></th><th><tt>Dual</tt></th><th><tt>Plur</tt></th></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Gender.html">Gender</a>=Masc</tt></td><td><em>сь, съ</em></td><td></td><td></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Gender.html">Gender</a>=Fem</tt></td><td><em>сиѭ, сьѭ, сиѭ҄</em></td><td></td><td></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Gender.html">Gender</a>=Fem,Masc</tt></td><td></td><td></td><td><em>сиѩ, сиѩ҅, сьѩ</em></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Gender.html">Gender</a>=Fem,Masc</tt></td><td></td><td></td><td><em>сиѩ, сьѩ, сиѩ҅</em></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Gender.html">Gender</a>=Neut</tt></td><td><em>се</em></td><td></td><td><em>си</em></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Dat|<a href="Gender.html">Gender</a>=Masc,Neut</tt></td><td><em>семоу</em></td><td></td><td></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Dat|<a href="Gender.html">Gender</a>=Fem</tt></td><td><em>сеи</em></td><td></td><td></td></tr>

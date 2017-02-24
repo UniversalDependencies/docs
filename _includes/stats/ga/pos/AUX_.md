@@ -11,7 +11,7 @@ The 10 most frequent `AUX` lemmas: <em>is, seo, sin, ar, cé, má</em>
 
 The 10 most frequent `AUX` types:  <em>is, ba, ní, gur, nach, b', ar, níor, gurb, an</em>
 
-The 10 most frequent ambiguous lemmas: <em>is</em> ([AUX]() 217, [PART]() 11), <em>seo</em> ([DET]() 68, [PRON]() 15, [X]() 7, [AUX]() 2), <em>sin</em> ([DET]() 67, [PRON]() 65, [X]() 10, [AUX]() 2), <em>ar</em> ([ADP]() 384, [PART]() 11, [ADV]() 7, [VERB]() 1, [AUX]() 1), <em>cé</em> ([PRON]() 8, [SCONJ]() 5, [DET]() 2, [NOUN]() 1, [AUX]() 1), <em>má</em> ([SCONJ]() 21, [AUX]() 1)
+The 10 most frequent ambiguous lemmas: <em>is</em> ([AUX]() 217, [PART]() 11), <em>seo</em> ([DET]() 68, [PRON]() 15, [X]() 7, [AUX]() 2), <em>sin</em> ([DET]() 67, [PRON]() 65, [X]() 10, [AUX]() 2), <em>ar</em> ([ADP]() 384, [PART]() 11, [ADV]() 7, [AUX]() 1, [VERB]() 1), <em>cé</em> ([PRON]() 8, [SCONJ]() 5, [DET]() 2, [NOUN]() 1, [AUX]() 1), <em>má</em> ([SCONJ]() 21, [AUX]() 1)
 
 The 10 most frequent ambiguous types:  <em>is</em> ([AUX]() 44, [CCONJ]() 26, [PART]() 10, [SCONJ]() 3), <em>ba</em> ([AUX]() 19, [PART]() 2), <em>ní</em> ([PART]() 19, [AUX]() 12, [NOUN]() 2), <em>gur</em> ([PART]() 22, [AUX]() 21), <em>nach</em> ([PART]() 37, [AUX]() 12), <em>ar</em> ([ADP]() 305, [PART]() 9, [AUX]() 7, [ADV]() 6, [VERB]() 1), <em>níor</em> ([PART]() 6, [AUX]() 3), <em>an</em> ([DET]() 600, [AUX]() 2, [PART]() 1), <em>nár</em> ([PART]() 6, [AUX]() 4), <em>Seo</em> ([AUX]() 2, [PRON]() 1)
 

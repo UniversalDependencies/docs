@@ -16,7 +16,7 @@ The feature is used with 3 part-of-speech tags: [es-pos/ADP]() (79717; 16% insta
 
 79717 [es-pos/ADP]() tokens (100% of all `ADP` tokens) have a non-empty value of `AdpType`.
 
-The most frequent other feature values with which `ADP` and `AdpType` co-occurred: <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (70004; 88%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (70004; 88%).
+The most frequent other feature values with which `ADP` and `AdpType` co-occurred: <tt><a href="Number.html">Number</a>=EMPTY</tt> (70004; 88%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (70004; 88%).
 
 `ADP` tokens may have the following values of `AdpType`:
 
@@ -75,6 +75,6 @@ The 10 most frequent relations where parent and child node agree in `AdpType`:
 <tt>ADP --[<a href="../dep/case.html">case</a>]--> ADV</tt> (4; 100%),
 <tt>ADP --[<a href="../dep/conj.html">conj</a>]--> ADP</tt> (2; 100%),
 <tt>ADP --[<a href="../dep/case.html">case</a>]--> ADJ</tt> (2; 100%),
-<tt>ADP --[<a href="../dep/compound.html">compound</a>]--> ADP</tt> (1; 100%),
-<tt>ADP --[<a href="../dep/mark.html">mark</a>]--> ADP</tt> (1; 100%).
+<tt>ADP --[<a href="../dep/mark.html">mark</a>]--> ADP</tt> (1; 100%),
+<tt>ADP --[<a href="../dep/compound.html">compound</a>]--> ADP</tt> (1; 100%).
 

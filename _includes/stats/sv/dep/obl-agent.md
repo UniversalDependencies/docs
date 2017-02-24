@@ -107,6 +107,36 @@ The following 5 pairs of parts of speech are connected with `obl:agent`: [sv-pos
 
 
 ~~~ conllu
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 5 obl:agent	color:blue
+1	Detta	_	PRON	DEM-SG	_	2	nsubj:pass	_	_
+2	bekräftades	_	VERB	PAST-PASS	_	0	root	_	_
+3	också	_	ADV	_	_	2	advmod	_	_
+4	av	_	ADP	_	_	5	case	_	_
+5	Virginia	_	PROPN	SG-NOM	_	2	obl:agent	_	_
+6	Stillman	_	PROPN	SG-NOM	_	5	flat	_	SpaceAfter=No
+7	,	_	PUNCT	Comma	_	2	punct	_	_
+8	som	_	SCONJ	REL	_	10	mark	_	_
+9	Quinn	_	PROPN	SG-NOM	_	10	nsubj	_	_
+10	ringde	_	VERB	PAST-ACT	_	5	acl:relcl	_	_
+11	till	_	ADP	_	_	10	obl	_	_
+12	varje	_	DET	TOT-SG-IND	_	13	det	_	_
+13	kväll	_	NOUN	SG-IND-NOM	_	10	obl	_	_
+14	när	_	SCONJ	REL	_	16	mark	_	_
+15	han	_	PRON	PERS-P3SG-NOM	_	16	nsubj	_	_
+16	kom	_	VERB	PAST-ACT	_	13	acl:relcl	_	_
+17	hem	_	ADV	_	_	16	advmod	_	_
+18	till	_	ADP	_	_	19	case	_	_
+19	sig	_	PRON	RFL-ACC	_	16	obl	_	SpaceAfter=No
+20	.	_	PUNCT	Period	_	2	punct	_	_
+
+~~~
+
+
+~~~ conllu
 # visual-style 18	bgColor:blue
 # visual-style 18	fgColor:white
 # visual-style 16	bgColor:blue
@@ -149,36 +179,6 @@ The following 5 pairs of parts of speech are connected with `obl:agent`: [sv-pos
 35	som	_	ADP	_	_	36	case	_	_
 36	spontan	_	ADJ	POS-SG-IND	_	34	amod	_	SpaceAfter=No
 37	.	_	PUNCT	Period	_	2	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 5 obl:agent	color:blue
-1	Detta	_	PRON	DEM-SG	_	2	nsubj:pass	_	_
-2	bekräftades	_	VERB	PAST-PASS	_	0	root	_	_
-3	också	_	ADV	_	_	2	advmod	_	_
-4	av	_	ADP	_	_	5	case	_	_
-5	Virginia	_	PROPN	SG-NOM	_	2	obl:agent	_	_
-6	Stillman	_	PROPN	SG-NOM	_	5	flat	_	SpaceAfter=No
-7	,	_	PUNCT	Comma	_	2	punct	_	_
-8	som	_	SCONJ	REL	_	10	mark	_	_
-9	Quinn	_	PROPN	SG-NOM	_	10	nsubj	_	_
-10	ringde	_	VERB	PAST-ACT	_	5	acl:relcl	_	_
-11	till	_	ADP	_	_	10	obl	_	_
-12	varje	_	DET	TOT-SG-IND	_	13	det	_	_
-13	kväll	_	NOUN	SG-IND-NOM	_	10	obl	_	_
-14	när	_	SCONJ	REL	_	16	mark	_	_
-15	han	_	PRON	PERS-P3SG-NOM	_	16	nsubj	_	_
-16	kom	_	VERB	PAST-ACT	_	13	acl:relcl	_	_
-17	hem	_	ADV	_	_	16	advmod	_	_
-18	till	_	ADP	_	_	19	case	_	_
-19	sig	_	PRON	RFL-ACC	_	16	obl	_	SpaceAfter=No
-20	.	_	PUNCT	Period	_	2	punct	_	_
 
 ~~~
 

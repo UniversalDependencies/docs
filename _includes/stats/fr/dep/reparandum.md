@@ -55,6 +55,34 @@ The following 5 pairs of parts of speech are connected with `reparandum`: [fr-po
 
 
 ~~~ conllu
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 5 reparandum	color:blue
+1	L'	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	SpaceAfter=No
+2	assemblée	assemblée	NOUN	_	Gender=Fem|Number=Sing	4	nsubj:pass	_	_
+3	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux:pass	_	_
+4	convoquée	convoquer	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+5	et	et	CCONJ	_	_	6	reparandum	_	_
+6	par	par	ADP	_	_	8	case	_	_
+7	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	roi	roi	NOUN	_	Gender=Masc|Number=Sing	4	obl	_	_
+9	de	de	ADP	_	_	11	case	_	_
+10	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	11	det	_	_
+11	Francs	Francs	PROPN	_	_	8	nmod	_	_
+12	Clovis	Clovis	PROPN	_	_	8	appos	_	_
+13	Ier	Ier	NUM	_	_	12	nummod	_	_
+14	et	et	CCONJ	_	_	17	cc	_	_
+15	en	en	ADP	_	_	17	case	_	_
+16	sa	son	DET	_	Gender=Fem|Number=Sing|PronType=Prs	17	nmod:poss	_	_
+17	présence	présence	NOUN	_	Gender=Fem|Number=Sing	4	conj	_	SpaceAfter=No
+18	.	.	PUNCT	_	_	4	punct	_	_
+
+~~~
+
+
+~~~ conllu
 # visual-style 22	bgColor:blue
 # visual-style 22	fgColor:white
 # visual-style 23	bgColor:blue
@@ -93,34 +121,6 @@ The following 5 pairs of parts of speech are connected with `reparandum`: [fr-po
 31	les	le	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	32	det	_	_
 32	mammifères	mammifère	NOUN	_	Gender=Masc|Number=Plur	29	nmod	_	_
 33	?	?	PUNCT	_	_	13	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 5 reparandum	color:blue
-1	L'	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	SpaceAfter=No
-2	assemblée	assemblée	NOUN	_	Gender=Fem|Number=Sing	4	nsubj:pass	_	_
-3	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux:pass	_	_
-4	convoquée	convoquer	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
-5	et	et	CCONJ	_	_	6	reparandum	_	_
-6	par	par	ADP	_	_	8	case	_	_
-7	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
-8	roi	roi	NOUN	_	Gender=Masc|Number=Sing	4	obl	_	_
-9	de	de	ADP	_	_	11	case	_	_
-10	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	11	det	_	_
-11	Francs	Francs	PROPN	_	_	8	nmod	_	_
-12	Clovis	Clovis	PROPN	_	_	8	appos	_	_
-13	Ier	Ier	NUM	_	_	12	nummod	_	_
-14	et	et	CCONJ	_	_	17	cc	_	_
-15	en	en	ADP	_	_	17	case	_	_
-16	sa	son	DET	_	Gender=Fem|Number=Sing|PronType=Prs	17	nmod:poss	_	_
-17	présence	présence	NOUN	_	Gender=Fem|Number=Sing	4	conj	_	SpaceAfter=No
-18	.	.	PUNCT	_	_	4	punct	_	_
 
 ~~~
 

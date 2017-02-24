@@ -56,7 +56,7 @@ The feature is used with 1 part-of-speech tags: [sl-pos/ADJ]() (205; 1% instance
 
 205 [sl-pos/ADJ]() tokens (19% of all `ADJ` tokens) have a non-empty value of `Definite`.
 
-The most frequent other feature values with which `ADJ` and `Definite` co-occurred: <tt><a href="Gender.html">Gender</a>=Masc</tt> (205; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (205; 100%), <tt><a href="Degree.html">Degree</a>=Pos</tt> (182; 89%), <tt><a href="VerbForm.html">VerbForm</a>=EMPTY</tt> (172; 84%), <tt><a href="Case.html">Case</a>=Nom</tt> (158; 77%).
+The most frequent other feature values with which `ADJ` and `Definite` co-occurred: <tt><a href="Number.html">Number</a>=Sing</tt> (205; 100%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (205; 100%), <tt><a href="Degree.html">Degree</a>=Pos</tt> (182; 89%), <tt><a href="VerbForm.html">VerbForm</a>=EMPTY</tt> (172; 84%), <tt><a href="Case.html">Case</a>=Nom</tt> (158; 77%).
 
 `ADJ` tokens may have the following values of `Definite`:
 
@@ -76,6 +76,6 @@ The most frequent other feature values with which `ADJ` and `Definite` co-occurr
 
 The 10 most frequent relations where parent and child node agree in `Definite`:
 <tt>ADJ --[<a href="../dep/conj.html">conj</a>]--> ADJ</tt> (4; 67%),
-<tt>ADJ --[<a href="../dep/reparandum.html">reparandum</a>]--> ADJ</tt> (1; 100%),
-<tt>ADJ --[<a href="../dep/amod.html">amod</a>]--> ADJ</tt> (1; 100%).
+<tt>ADJ --[<a href="../dep/amod.html">amod</a>]--> ADJ</tt> (1; 100%),
+<tt>ADJ --[<a href="../dep/reparandum.html">reparandum</a>]--> ADJ</tt> (1; 100%).
 

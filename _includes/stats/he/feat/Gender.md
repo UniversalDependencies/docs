@@ -32,7 +32,7 @@ The most frequent other feature values with which `NOUN` and `Gender` co-occurre
 
 11800 [he-pos/VERB]() tokens (80% of all `VERB` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `VERB` and `Gender` co-occurred: <tt><a href="Polarity.html">Polarity</a>=EMPTY</tt> (10262; 87%), <tt><a href="VerbType.html">VerbType</a>=EMPTY</tt> (10262; 87%), <tt><a href="Number.html">Number</a>=Sing</tt> (8092; 69%), <tt><a href="Person.html">Person</a>=3</tt> (7432; 63%), <tt><a href="VerbForm.html">VerbForm</a>=EMPTY</tt> (7173; 61%), <tt><a href="Voice.html">Voice</a>=Act</tt> (6357; 54%).
+The most frequent other feature values with which `VERB` and `Gender` co-occurred: <tt><a href="VerbType.html">VerbType</a>=EMPTY</tt> (10262; 87%), <tt><a href="Polarity.html">Polarity</a>=EMPTY</tt> (10262; 87%), <tt><a href="Number.html">Number</a>=Sing</tt> (8092; 69%), <tt><a href="Person.html">Person</a>=3</tt> (7432; 63%), <tt><a href="VerbForm.html">VerbForm</a>=EMPTY</tt> (7173; 61%), <tt><a href="Voice.html">Voice</a>=Act</tt> (6357; 54%).
 
 `VERB` tokens may have the following values of `Gender`:
 

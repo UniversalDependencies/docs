@@ -33,27 +33,6 @@ The following 6 pairs of parts of speech are connected with `aux:pass`: [de-pos/
 
 
 ~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 10 7 aux:pass	color:blue
-1	Er	er	PRON	PPER	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
-2	kommandiert	kommandieren	VERB	VVFIN	Number=Sing|Person=3|VerbForm=Fin	0	root	_	_
-3	Merlin	Merlin	PROPN	NE	Case=Acc|Number=Sing	2	obj	_	_
-4	gerne	gerne	ADV	ADV	_	2	advmod	_	_
-5	herum	herum	ADV	PTKVZ	_	2	compound:prt	_	_
-6	und	und	CCONJ	KON	_	10	cc	_	_
-7	ist	sein	VERB	VAFIN	Mood=Ind|Tense=Pres|VerbForm=Fin	10	aux:pass	_	_
-8	leicht	leicht	ADJ	ADJD	Degree=Pos	10	advmod	_	_
-9	zu	zu	PART	PTKZU	_	10	mark	_	_
-10	provozieren	provozieren	VERB	VVINF	VerbForm=Inf	2	conj	_	SpaceAfter=No
-11	.	.	PUNCT	$.	_	2	punct	_	_
-
-~~~
-
-
-~~~ conllu
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 2	bgColor:blue
@@ -77,6 +56,27 @@ The following 6 pairs of parts of speech are connected with `aux:pass`: [de-pos/
 16	Stadtkasse	Stadtkasse	NOUN	NN	Case=Dat|Gender=Fem|Number=Sing	13	nmod	_	_
 17	untergebracht	unterbringen	VERB	VVPP	VerbForm=Part	2	fixed	_	SpaceAfter=No
 18	.	.	PUNCT	$.	_	2	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 10 7 aux:pass	color:blue
+1	Er	er	PRON	PPER	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+2	kommandiert	kommandieren	VERB	VVFIN	Number=Sing|Person=3|VerbForm=Fin	0	root	_	_
+3	Merlin	Merlin	PROPN	NE	Case=Acc|Number=Sing	2	obj	_	_
+4	gerne	gerne	ADV	ADV	_	2	advmod	_	_
+5	herum	herum	ADV	PTKVZ	_	2	compound:prt	_	_
+6	und	und	CCONJ	KON	_	10	cc	_	_
+7	ist	sein	VERB	VAFIN	Mood=Ind|Tense=Pres|VerbForm=Fin	10	aux:pass	_	_
+8	leicht	leicht	ADJ	ADJD	Degree=Pos	10	advmod	_	_
+9	zu	zu	PART	PTKZU	_	10	mark	_	_
+10	provozieren	provozieren	VERB	VVINF	VerbForm=Inf	2	conj	_	SpaceAfter=No
+11	.	.	PUNCT	$.	_	2	punct	_	_
 
 ~~~
 

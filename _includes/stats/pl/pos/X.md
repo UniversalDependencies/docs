@@ -13,7 +13,7 @@ The 10 most frequent `X` types:  <em>r, tys, zł, ul, proc, godz, m, mln, ok, ś
 
 The 10 most frequent ambiguous lemmas: <em>rok</em> ([NOUN]() 233, [X]() 41), <em>tysiąc</em> ([X]() 28, [NOUN]() 17), <em>złoty</em> ([NOUN]() 22, [X]() 19, [ADJ]() 6), <em>ulica</em> ([NOUN]() 49, [X]() 15), <em>procent</em> ([X]() 12, [NOUN]() 5), <em>godzina</em> ([NOUN]() 34, [X]() 8), <em>milion</em> ([NOUN]() 12, [X]() 8, [NUM]() 2), <em>około</em> ([PART]() 13, [X]() 8, [ADP]() 7), <em>święty</em> ([ADJ]() 10, [X]() 8, [NOUN]() 1), <em>M</em> ([X]() 5, [PROPN]() 1)
 
-The 10 most frequent ambiguous types:  <em>proc</em> ([X]() 12, [NOUN]() 1), <em>m</em> ([AUX]() 131, [X]() 3), <em>w</em> ([ADP]() 1592, [X]() 4), <em>A</em> ([CCONJ]() 85, [X]() 3), <em>O</em> ([ADP]() 24, [X]() 2), <em>C</em> ([X]() 1, [PROPN]() 1), <em>D</em> ([X]() 1, [PROPN]() 1), <em>SA</em> ([PROPN]() 5, [X]() 1), <em>Z</em> ([ADP]() 71, [X]() 1)
+The 10 most frequent ambiguous types:  <em>proc</em> ([X]() 12, [NOUN]() 1), <em>m</em> ([AUX]() 131, [X]() 3), <em>w</em> ([ADP]() 1592, [X]() 4), <em>A</em> ([CCONJ]() 85, [X]() 3), <em>O</em> ([ADP]() 24, [X]() 2), <em>C</em> ([X]() 1, [PROPN]() 1), <em>D</em> ([PROPN]() 1, [X]() 1), <em>SA</em> ([PROPN]() 5, [X]() 1), <em>Z</em> ([ADP]() 71, [X]() 1)
 
 
 * <em>proc</em>
@@ -35,8 +35,8 @@ The 10 most frequent ambiguous types:  <em>proc</em> ([X]() 12, [NOUN]() 1), <em
   * [X]() 1: <em>- Działania operacyjne ustały , a <b>C</b> . ciągle piął się w górę .</em>
   * [PROPN]() 1: <em>D został stworzony przez Waltera Brighta , znanego jako twórca kompilatora Zortech <b>C</b> .</em>
 * <em>D</em>
-  * [X]() 1: <em>Ale gospodarza zakatował 26-letni Dariusz <b>D</b> . z Kwidzyna .</em>
   * [PROPN]() 1: <em><b>D</b> został stworzony przez Waltera Brighta , znanego jako twórca kompilatora Zortech C .</em>
+  * [X]() 1: <em>Ale gospodarza zakatował 26-letni Dariusz <b>D</b> . z Kwidzyna .</em>
 * <em>SA</em>
   * [PROPN]() 5: <em>– W HSW <b>SA</b> trwa obecnie wielkie liczenie .</em>
   * [X]() 1: <em>Na przełomie czerwca i lipca Stomil - Olsztyn <b>SA</b> zamierza oddać do użytku budowany właśnie magazyn opon .</em>

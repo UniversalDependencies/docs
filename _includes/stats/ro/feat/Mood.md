@@ -16,7 +16,7 @@ The feature is used with 3 part-of-speech tags: [ro-pos/VERB]() (11484; 6% insta
 
 11484 [ro-pos/VERB]() tokens (54% of all `VERB` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (11484; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (11484; 100%), <tt><a href="Person.html">Person</a>=3</tt> (10133; 88%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (7315; 64%), <tt><a href="Number.html">Number</a>=Sing</tt> (5838; 51%).
+The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (11484; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (11484; 100%), <tt><a href="Person.html">Person</a>=3</tt> (10133; 88%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (7315; 64%), <tt><a href="Number.html">Number</a>=Sing</tt> (5838; 51%).
 
 `VERB` tokens may have the following values of `Mood`:
 
@@ -64,7 +64,7 @@ The most frequent other feature values with which `AUX` and `Mood` co-occurred: 
   <tr><td><tt><a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=1|<a href="Tense.html">Tense</a>=Pres</tt></td><td><em>sunt</em></td><td></td><td><em>fiu</em></td></tr>
   <tr><td><tt><a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=2|<a href="Tense.html">Tense</a>=Imp</tt></td><td><em>erai</em></td><td></td><td></td></tr>
   <tr><td><tt><a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=2|<a href="Tense.html">Tense</a>=Pres</tt></td><td><em>ești</em></td><td></td><td><em>fii</em></td></tr>
-  <tr><td><tt><a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=2</tt></td><td></td><td><em>fi, fii</em></td><td></td></tr>
+  <tr><td><tt><a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=2</tt></td><td></td><td><em>fii, fi</em></td><td></td></tr>
   <tr><td><tt><a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Imp</tt></td><td><em>era</em></td><td></td><td></td></tr>
   <tr><td><tt><a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Past</tt></td><td><em>fu</em></td><td></td><td></td></tr>
   <tr><td><tt><a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Pqp</tt></td><td><em>fusese</em></td><td></td><td></td></tr>

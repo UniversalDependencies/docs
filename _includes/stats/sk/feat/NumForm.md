@@ -16,7 +16,7 @@ The feature is used with 1 part-of-speech tags: [sk-pos/NUM]() (627; 1% instance
 
 627 [sk-pos/NUM]() tokens (54% of all `NUM` tokens) have a non-empty value of `NumForm`.
 
-The most frequent other feature values with which `NUM` and `NumForm` co-occurred: <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (627; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (627; 100%), <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (627; 100%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (627; 100%).
+The most frequent other feature values with which `NUM` and `NumForm` co-occurred: <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (627; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (627; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (627; 100%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (627; 100%).
 
 `NUM` tokens may have the following values of `NumForm`:
 

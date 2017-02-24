@@ -123,6 +123,23 @@ The following 4 pairs of parts of speech are connected with `det:predet`: [it-po
 
 
 ~~~ conllu
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 4 det:predet	color:blue
+1	Dovrei	dovere	AUX	VM	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	6	aux	_	_
+2	essere	essere	AUX	VA	VerbForm=Inf	6	cop	_	_
+3	come	come	ADP	E	_	6	case	_	_
+4	tutti	tutto	DET	T	Gender=Masc|Number=Plur|PronType=Tot	6	det:predet	_	_
+5	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	6	det	_	_
+6	altri	altro	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	FS	_	6	punct	_	_
+
+~~~
+
+
+~~~ conllu
 # visual-style 19	bgColor:blue
 # visual-style 19	fgColor:white
 # visual-style 21	bgColor:blue
@@ -151,34 +168,6 @@ The following 4 pairs of parts of speech are connected with `det:predet`: [it-po
 21	Regno	Regno	PROPN	SP	_	17	obl	_	_
 22	Unito	Unito	PROPN	SP	_	21	flat:name	_	SpaceAfter=No
 23	.	.	PUNCT	FS	_	1	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 15	bgColor:blue
-# visual-style 15	fgColor:white
-# visual-style 17	bgColor:blue
-# visual-style 17	fgColor:white
-# visual-style 17 15 det:predet	color:blue
-1	Tuttavia	tuttavia	ADV	B	_	4	advmod	_	_
-2	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
-3	forse	forse	ADV	B	_	4	advmod	_	_
-4	importante	importante	ADJ	A	Number=Sing	0	root	_	_
-5	ricordare	ricordare	VERB	V	VerbForm=Inf	4	csubj	_	_
-6	che	che	SCONJ	CS	_	11	mark	_	_
-7	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
-8	peste	peste	NOUN	S	Gender=Fem|Number=Sing	11	nsubj	_	_
-9	bubbonica	bubbonico	ADJ	A	Gender=Fem|Number=Sing	8	amod	_	_
-10	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	11	expl	_	_
-11	diffuse	diffondere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	ccomp	_	_
-12	a	a	ADP	E	_	13	case	_	_
-13	Londra	Londra	PROPN	SP	_	11	obl	_	_
-14	per	per	ADP	E	_	17	case	_	_
-15	tutto	tutto	DET	T	Gender=Masc|Number=Sing|PronType=Tot	17	det:predet	_	_
-16	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	17	det	_	_
-17	1609	1609	NUM	N	NumType=Card	11	obl	_	SpaceAfter=No
-18	.	.	PUNCT	FS	_	4	punct	_	_
 
 ~~~
 

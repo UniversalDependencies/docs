@@ -13,7 +13,7 @@ The 10 most frequent `SCONJ` types:  <em>si, ut, quod, cum, ne, dum, nisi, quia,
 
 The 10 most frequent ambiguous lemmas: <em>ut1</em> ([SCONJ]() 43, [ADV]() 2), <em>ne1</em> ([ADV]() 49, [SCONJ]() 36), <em>ut</em> ([SCONJ]() 31, [ADV]() 13), <em>cum1</em> ([ADP]() 36, [SCONJ]() 25), <em>cum</em> ([SCONJ]() 19, [ADP]() 6), <em>ubi1</em> ([SCONJ]() 16, [ADV]() 5), <em>enim</em> ([SCONJ]() 8, [CCONJ]() 1), <em>quoniam1</em> ([SCONJ]() 7, [ADV]() 3), <em>quam1</em> ([ADV]() 16, [SCONJ]() 5), <em>quo1</em> ([ADV]() 9, [SCONJ]() 3)
 
-The 10 most frequent ambiguous types:  <em>ut</em> ([SCONJ]() 70, [ADV]() 14), <em>quod</em> ([SCONJ]() 37, [PRON]() 31, [NOUN]() 2), <em>cum</em> ([ADP]() 42, [SCONJ]() 31), <em>ne</em> ([ADV]() 49, [SCONJ]() 35, [INTJ]() 1), <em>ubi</em> ([SCONJ]() 16, [ADV]() 5), <em>uti</em> ([SCONJ]() 9, [VERB]() 4, [ADV]() 1), <em>quom</em> ([SCONJ]() 7, [X]() 1), <em>quoniam</em> ([SCONJ]() 7, [ADV]() 3), <em>quam</em> ([ADV]() 30, [PRON]() 18, [SCONJ]() 5, [NOUN]() 1), <em>quo</em> ([PRON]() 15, [ADV]() 15, [SCONJ]() 3, [NOUN]() 1)
+The 10 most frequent ambiguous types:  <em>ut</em> ([SCONJ]() 70, [ADV]() 14), <em>quod</em> ([SCONJ]() 37, [PRON]() 31, [NOUN]() 2), <em>cum</em> ([ADP]() 42, [SCONJ]() 31), <em>ne</em> ([ADV]() 49, [SCONJ]() 35, [INTJ]() 1), <em>ubi</em> ([SCONJ]() 16, [ADV]() 5), <em>uti</em> ([SCONJ]() 9, [VERB]() 4, [ADV]() 1), <em>quom</em> ([SCONJ]() 7, [X]() 1), <em>quoniam</em> ([SCONJ]() 7, [ADV]() 3), <em>quam</em> ([ADV]() 30, [PRON]() 18, [SCONJ]() 5, [NOUN]() 1), <em>quo</em> ([ADV]() 15, [PRON]() 15, [SCONJ]() 3, [NOUN]() 1)
 
 
 * <em>ut</em>
@@ -49,8 +49,8 @@ The 10 most frequent ambiguous types:  <em>ut</em> ([SCONJ]() 70, [ADV]() 14), <
   * [SCONJ]() 5: <em>de qua <b>quam</b> verissume potero dicam .</em>
   * [NOUN]() 1: <em>Non recusavi in summa frumenti penuria curationem annonae , <b>quam</b> ita administravi , ut intra paucos dies metu et periclo praesenti populum universam liberarem impensa et cura mea .</em>
 * <em>quo</em>
-  * [PRON]() 15: <em><b>quo</b> autem pacto illi Appenninum atque illas pruinas ac nivis perferent ?</em>
   * [ADV]() 15: <em><b>quo</b> usque tandem abutere , Catilina , patientia nostra ?</em>
+  * [PRON]() 15: <em><b>quo</b> autem pacto illi Appenninum atque illas pruinas ac nivis perferent ?</em>
   * [SCONJ]() 3: <em>praeterea Gabinium arcessit , <b>quo</b> maior auctoritas sermoni inesset .</em>
   * [NOUN]() 1: <em>Aram Fortunae Reducis ante aedes Honoris et Virtutis ad portam Capenam pro reditu meo senatus consacravit , in qua pontifices et virgines Vestales anniversarium sacrificium facere iussit eo die <b>quo</b> , consulibus Q. Lucretio et M. Vinicio , in urbem ex Syria redieram , et diem Augustalia ex cognomine nostro appellavit .</em>
 

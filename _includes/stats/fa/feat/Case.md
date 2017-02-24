@@ -40,6 +40,6 @@ The most frequent other feature values with which `NOUN` and `Case` co-occurred:
 The 10 most frequent relations where parent and child node agree in `Case`:
 <tt>ADV --[<a href="../dep/conj.html">conj</a>]--> ADV</tt> (5; 63%),
 <tt>ADV --[<a href="../dep/appos.html">appos</a>]--> ADV</tt> (1; 100%),
-<tt>ADV --[<a href="../dep/nmod:poss.html">nmod:poss</a>]--> ADV</tt> (1; 100%),
-<tt>ADV --[<a href="../dep/amod.html">amod</a>]--> ADV</tt> (1; 100%).
+<tt>ADV --[<a href="../dep/amod.html">amod</a>]--> ADV</tt> (1; 100%),
+<tt>ADV --[<a href="../dep/nmod:poss.html">nmod:poss</a>]--> ADV</tt> (1; 100%).
 

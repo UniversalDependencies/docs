@@ -5,7 +5,7 @@
 ## Treebank Statistics (UD_Galician)
 
 There are 29 `DET` lemmas (0%), 85 `DET` types (1%) and 18868 `DET` tokens (17%).
-Out of 15 observed tags, the rank of `DET` is: 8 in number of lemmas, 7 in number of types and 2 in number of tokens.
+Out of 16 observed tags, the rank of `DET` is: 8 in number of lemmas, 7 in number of types and 2 in number of tokens.
 
 The 10 most frequent `DET` lemmas: <em>o, un, este, seu, outro, todo, mesmo, cada, ese, algún</em>
 
@@ -50,7 +50,7 @@ The 10 most frequent ambiguous types:  <em>o</em> ([DET]() 5020, [PRON]() 80), <
 
 ## Morphology
 
-The form / lemma ratio of `DET` is 2.931034 (the average of all parts of speech is 1.505536).
+The form / lemma ratio of `DET` is 2.931034 (the average of all parts of speech is 1.508250).
 
 The 1st highest number of forms (4) was observed with the lemma “algún”: <em>algunha, algunhas, algún, algúns</em>.
 
@@ -58,28 +58,34 @@ The 2nd highest number of forms (4) was observed with the lemma “aquel”: <em
 
 The 3rd highest number of forms (4) was observed with the lemma “certo”: <em>certa, certas, certo, certos</em>.
 
-`DET` does not occur with any features.
+`DET` occurs with 1 features: [gl-feat/Foreign]() (1; 0% instances)
+
+`DET` occurs with 1 feature-value pairs: `Foreign=Yes`
+
+`DET` occurs with 2 feature combinations.
+The most frequent feature combination is `_` (18867 tokens).
+Examples: <em>o, a, os, as, un, unha, súa, este, esta, seu</em>
 
 
 ## Relations
 
-`DET` nodes are attached to their parents using 16 different relations: [gl-dep/det]() (18732; 99% instances), [gl-dep/nsubj]() (29; 0% instances), [gl-dep/dep]() (24; 0% instances), [gl-dep/amod]() (17; 0% instances), [gl-dep/dobj]() (14; 0% instances), [gl-dep/nmod]() (14; 0% instances), [gl-dep/advmod]() (12; 0% instances), [gl-dep/ccomp]() (6; 0% instances), [gl-dep/cop]() (6; 0% instances), [gl-dep/aux]() (4; 0% instances), [gl-dep/punct]() (3; 0% instances), [gl-dep/cc]() (2; 0% instances), [gl-dep/mark]() (2; 0% instances), [gl-dep/case]() (1; 0% instances), [gl-dep/foreign]() (1; 0% instances), [gl-dep/root]() (1; 0% instances)
+`DET` nodes are attached to their parents using 17 different relations: [gl-dep/det]() (18732; 99% instances), [gl-dep/nsubj]() (29; 0% instances), [gl-dep/dep]() (24; 0% instances), [gl-dep/amod]() (17; 0% instances), [gl-dep/obj]() (14; 0% instances), [gl-dep/advmod]() (12; 0% instances), [gl-dep/ccomp]() (8; 0% instances), [gl-dep/nmod]() (8; 0% instances), [gl-dep/obl]() (6; 0% instances), [gl-dep/aux]() (4; 0% instances), [gl-dep/xcomp]() (4; 0% instances), [gl-dep/punct]() (3; 0% instances), [gl-dep/cc]() (2; 0% instances), [gl-dep/mark]() (2; 0% instances), [gl-dep/case]() (1; 0% instances), [gl-dep/flat]() (1; 0% instances), [gl-dep/root]() (1; 0% instances)
 
-Parents of `DET` nodes belong to 14 different parts of speech: [NOUN]() (16169; 86% instances), [VERB]() (644; 3% instances), [NUM]() (453; 2% instances), [DET]() (405; 2% instances), [ADJ]() (339; 2% instances), [PROPN]() (301; 2% instances), [ADP]() (253; 1% instances), [PRON]() (248; 1% instances), [ADV]() (35; 0% instances), [PUNCT]() (13; 0% instances), [SCONJ]() (5; 0% instances), [INTJ]() (1; 0% instances), [PART]() (1; 0% instances), [ROOT]() (1; 0% instances)
+Parents of `DET` nodes belong to 13 different parts of speech: [NOUN]() (16260; 86% instances), [VERB]() (614; 3% instances), [NUM]() (454; 2% instances), [DET]() (405; 2% instances), [ADJ]() (372; 2% instances), [PROPN]() (303; 2% instances), [PRON]() (251; 1% instances), [ADP]() (162; 1% instances), [ADV]() (39; 0% instances), [SCONJ]() (5; 0% instances), [INTJ]() (1; 0% instances), [PART]() (1; 0% instances), [ROOT]() (1; 0% instances)
 
-18289 (97%) `DET` nodes are leaves.
+18258 (97%) `DET` nodes are leaves.
 
-537 (3%) `DET` nodes have one child.
+540 (3%) `DET` nodes have one child.
 
-38 (0%) `DET` nodes have two children.
+59 (0%) `DET` nodes have two children.
 
-4 (0%) `DET` nodes have three or more children.
+11 (0%) `DET` nodes have three or more children.
 
-The highest child degree of a `DET` node is 4.
+The highest child degree of a `DET` node is 5.
 
-Children of `DET` nodes are attached using 12 different relations: [gl-dep/det]() (435; 69% instances), [gl-dep/nummod]() (81; 13% instances), [gl-dep/cc]() (31; 5% instances), [gl-dep/case]() (24; 4% instances), [gl-dep/dep]() (17; 3% instances), [gl-dep/advmod]() (14; 2% instances), [gl-dep/punct]() (10; 2% instances), [gl-dep/nmod]() (8; 1% instances), [gl-dep/dobj]() (3; 0% instances), [gl-dep/amod]() (1; 0% instances), [gl-dep/ccomp]() (1; 0% instances), [gl-dep/mark]() (1; 0% instances)
+Children of `DET` nodes are attached using 16 different relations: [gl-dep/det]() (435; 63% instances), [gl-dep/nummod]() (81; 12% instances), [gl-dep/case]() (43; 6% instances), [gl-dep/punct]() (36; 5% instances), [gl-dep/cc]() (32; 5% instances), [gl-dep/nmod]() (24; 3% instances), [gl-dep/advmod]() (17; 2% instances), [gl-dep/dep]() (17; 2% instances), [gl-dep/obj]() (3; 0% instances), [gl-dep/cop]() (2; 0% instances), [gl-dep/amod]() (1; 0% instances), [gl-dep/aux]() (1; 0% instances), [gl-dep/ccomp]() (1; 0% instances), [gl-dep/mark]() (1; 0% instances), [gl-dep/nsubj]() (1; 0% instances), [gl-dep/xcomp]() (1; 0% instances)
 
-Children of `DET` nodes belong to 10 different parts of speech: [DET]() (405; 65% instances), [NUM]() (107; 17% instances), [CONJ]() (28; 4% instances), [ADP]() (27; 4% instances), [ADJ]() (18; 3% instances), [ADV]() (17; 3% instances), [PUNCT]() (16; 3% instances), [PRON]() (6; 1% instances), [NOUN]() (1; 0% instances), [PART]() (1; 0% instances)
+Children of `DET` nodes belong to 13 different parts of speech: [DET]() (405; 58% instances), [NUM]() (109; 16% instances), [ADP]() (45; 6% instances), [PUNCT]() (42; 6% instances), [CCONJ]() (28; 4% instances), [ADV]() (21; 3% instances), [ADJ]() (19; 3% instances), [NOUN]() (10; 1% instances), [PRON]() (8; 1% instances), [PROPN]() (3; 0% instances), [VERB]() (3; 0% instances), [AUX]() (2; 0% instances), [PART]() (1; 0% instances)
 
 
 

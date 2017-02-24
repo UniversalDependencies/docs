@@ -113,7 +113,7 @@ The most frequent other feature values with which `PRON` and `Case` co-occurred:
   <tr><td><tt><a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3|<a href="Polite.html">Polite</a>=Form|<a href="Poss.html">Poss</a>=Yes</tt></td><td></td><td></td><td>उनके, उनका, उनकी</td><td></td><td></td><td></td><td></td></tr>
   <tr><td><tt><a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3|<a href="Polite.html">Polite</a>=Form</tt></td><td>उन्हें</td><td>उन्होंने</td><td></td><td></td><td>उनसे</td><td>वे</td><td>उन</td></tr>
   <tr><td><tt><a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3|<a href="Poss.html">Poss</a>=Yes</tt></td><td></td><td></td><td>उसके, उसका, उनका, उनके</td><td></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3</tt></td><td></td><td>उन्होंने, उसने</td><td></td><td></td><td></td><td>वही</td><td>उसी</td></tr>
+  <tr><td><tt><a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3</tt></td><td></td><td>उसने, उन्होंने</td><td></td><td></td><td></td><td>वही</td><td>उसी</td></tr>
   <tr><td><tt><a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=3|<a href="Polite.html">Polite</a>=Form|<a href="Poss.html">Poss</a>=Yes</tt></td><td></td><td></td><td>उनके</td><td></td><td></td><td></td><td></td></tr>
   <tr><td><tt><a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=3|<a href="Poss.html">Poss</a>=Yes</tt></td><td></td><td></td><td>उनके, उनका, उसके, उनकी</td><td></td><td></td><td></td><td></td></tr>
   <tr><td><tt><a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=3</tt></td><td></td><td></td><td></td><td></td><td></td><td>वे</td><td></td></tr>
@@ -127,7 +127,7 @@ The most frequent other feature values with which `PRON` and `Case` co-occurred:
   <tr><td><tt><a href="Gender.html">Gender</a>=Fem|<a href="Poss.html">Poss</a>=Yes</tt></td><td></td><td></td><td>उनकी</td><td></td><td></td><td></td><td></td></tr>
   <tr><td><tt><a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3|<a href="Polite.html">Polite</a>=Form|<a href="Poss.html">Poss</a>=Yes</tt></td><td></td><td></td><td>उनके, उनका, उनकी, उनको</td><td></td><td></td><td></td><td></td></tr>
   <tr><td><tt><a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3|<a href="Polite.html">Polite</a>=Form</tt></td><td>उन्हें, उनको, उनसे, उनकी</td><td>उन्होंने, उन्‍होंने, उन्होनें, उसने</td><td></td><td></td><td>उनसे</td><td>वे, वो, वह</td><td>उन, वे, उन्होंने</td></tr>
-  <tr><td><tt><a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3|<a href="Poss.html">Poss</a>=Yes</tt></td><td></td><td></td><td>उसके, उनके, उस, उसकी, उसका</td><td></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3|<a href="Poss.html">Poss</a>=Yes</tt></td><td></td><td></td><td>उसके, उनके, उसका, उसकी, उस</td><td></td><td></td><td></td><td></td></tr>
   <tr><td><tt><a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3</tt></td><td>उसे, उसको, उन्हें</td><td>उसने, उन्होंने</td><td></td><td>उसमें</td><td>उससे, उनसे</td><td>वह, वही, वे</td><td>उस, उसी, उसके, वह</td></tr>
   <tr><td><tt><a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=3|<a href="Poss.html">Poss</a>=Yes</tt></td><td></td><td></td><td>उनके, उनकी, उनका, उन्हें</td><td></td><td></td><td></td><td></td></tr>
   <tr><td><tt><a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=3</tt></td><td>उन्हें, उनको, उनकी, उन्‍हें</td><td>उन्होंने</td><td></td><td>उनमें</td><td>उनसे</td><td>वे, वह, वही</td><td>उन, वे, उन्हें, उन्हीं</td></tr>
@@ -217,13 +217,13 @@ The most frequent other feature values with which `DET` and `Case` co-occurred: 
   <tr><td><tt><a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3</tt></td><td>यही, यह</td><td>इस, इसी, यही</td></tr>
   <tr><td><tt><a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Sing</tt></td><td></td><td>इसी</td></tr>
   <tr><td><tt><a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=3</tt></td><td></td><td>इन्हीं</td></tr>
-  <tr><td><tt><a href="Gender.html">Gender</a>=Fem|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3</tt></td><td>इसी, यह</td><td>इसी, ऐसी</td></tr>
+  <tr><td><tt><a href="Gender.html">Gender</a>=Fem|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3</tt></td><td>यह, इसी</td><td>इसी, ऐसी</td></tr>
   <tr><td><tt><a href="Gender.html">Gender</a>=Fem|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=3</tt></td><td></td><td>इन्हीं</td></tr>
   <tr><td><tt><a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=1</tt></td><td></td><td>इसी</td></tr>
   <tr><td><tt><a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3|<a href="Polite.html">Polite</a>=Form</tt></td><td></td><td>इन</td></tr>
   <tr><td><tt><a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3</tt></td><td>यह, इस, यही, ये, इसी</td><td>इस, इसी, यह</td></tr>
   <tr><td><tt><a href="Number.html">Number</a>=Sing</tt></td><td></td><td>इस</td></tr>
-  <tr><td><tt><a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=3</tt></td><td>ये, यह, इन, यही</td><td>इन, इन्हीं, ये</td></tr>
+  <tr><td><tt><a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=3</tt></td><td>ये, यही, इन, यह</td><td>इन, इन्हीं, ये</td></tr>
 </table>
 
 ### `ADV`
@@ -249,7 +249,7 @@ The most frequent other feature values with which `ADV` and `Case` co-occurred: 
 
 524 [hi-pos/AUX]() tokens (2% of all `AUX` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `AUX` and `Case` co-occurred: <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (524; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (523; 100%), <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (523; 100%), <tt><a href="Aspect.html">Aspect</a>=EMPTY</tt> (522; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (519; 99%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (503; 96%), <tt><a href="VerbForm.html">VerbForm</a>=Inf</tt> (503; 96%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (502; 96%).
+The most frequent other feature values with which `AUX` and `Case` co-occurred: <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (524; 100%), <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (523; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (523; 100%), <tt><a href="Aspect.html">Aspect</a>=EMPTY</tt> (522; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (519; 99%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (503; 96%), <tt><a href="VerbForm.html">VerbForm</a>=Inf</tt> (503; 96%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (502; 96%).
 
 `AUX` tokens may have the following values of `Case`:
 
@@ -325,15 +325,6 @@ The most frequent other feature values with which `X` and `Case` co-occurred: <t
   <tr><td><tt><a href="Gender.html">Gender</a>=Fem</tt></td><td></td><td>बड़ी</td></tr>
 </table>
 
-### `SCONJ`
-
-1 [hi-pos/SCONJ]() tokens (0% of all `SCONJ` tokens) have a non-empty value of `Case`.
-
-`SCONJ` tokens may have the following values of `Case`:
-
-* `Nom` (1; 100% of non-empty `Case`): जैसा
-* `EMPTY` (6070): कि, तो, हालांकि, अगर, क्योंकि, यदि, ताकि, बहरहाल, बल्कि, यानि
-
 ### `PUNCT`
 
 1 [hi-pos/PUNCT]() tokens (0% of all `PUNCT` tokens) have a non-empty value of `Case`.
@@ -342,6 +333,15 @@ The most frequent other feature values with which `X` and `Case` co-occurred: <t
 
 * `Nom` (1; 100% of non-empty `Case`): (
 * `EMPTY` (21034): ।, ,, -, ., ', ), (, -JOIN, ?, '1
+
+### `SCONJ`
+
+1 [hi-pos/SCONJ]() tokens (0% of all `SCONJ` tokens) have a non-empty value of `Case`.
+
+`SCONJ` tokens may have the following values of `Case`:
+
+* `Nom` (1; 100% of non-empty `Case`): जैसा
+* `EMPTY` (6070): कि, तो, हालांकि, अगर, क्योंकि, यदि, ताकि, बहरहाल, बल्कि, यानि
 
 ## Relations with Agreement in `Case`
 

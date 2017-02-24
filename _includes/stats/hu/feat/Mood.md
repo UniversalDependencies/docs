@@ -8,59 +8,68 @@ This feature is universal.
 It occurs with 4 different values: `Cnd`, `Imp`, `Ind`, `Pot`.
 Some words have combined values of the feature; 2 combinations have been observed: `Cnd|Pot`, `Imp|Pot`.
 
-3524 tokens (8%) have a non-empty value of `Mood`.
-2034 types (15%) occur at least once with a non-empty value of `Mood`.
-1118 lemmas (13%) occur at least once with a non-empty value of `Mood`.
-The feature is used with 2 part-of-speech tags: [hu-pos/VERB]() (3486; 8% instances), [hu-pos/AUX]() (38; 0% instances).
+2622 tokens (8%) have a non-empty value of `Mood`.
+1611 types (15%) occur at least once with a non-empty value of `Mood`.
+915 lemmas (13%) occur at least once with a non-empty value of `Mood`.
+The feature is used with 2 part-of-speech tags: [hu-pos/VERB]() (2471; 8% instances), [hu-pos/AUX]() (151; 0% instances).
 
 ### `VERB`
 
-3486 [hu-pos/VERB]() tokens (91% of all `VERB` tokens) have a non-empty value of `Mood`.
+2471 [hu-pos/VERB]() tokens (90% of all `VERB` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (3485; 100%), <tt><a href="Voice.html">Voice</a>=Act</tt> (3428; 98%), <tt><a href="Person.html">Person</a>=3</tt> (3283; 94%), <tt><a href="Number.html">Number</a>=Sing</tt> (2560; 73%), <tt><a href="Definite.html">Definite</a>=Ind</tt> (2183; 63%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (1800; 52%).
+The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (2470; 100%), <tt><a href="Voice.html">Voice</a>=Act</tt> (2425; 98%), <tt><a href="Person.html">Person</a>=3</tt> (2335; 94%), <tt><a href="Number.html">Number</a>=Sing</tt> (1791; 72%), <tt><a href="Definite.html">Definite</a>=Ind</tt> (1496; 61%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (1392; 56%).
 
 `VERB` tokens may have the following values of `Mood`:
 
-* `Cnd` (130; 4% of non-empty `Mood`): <em>kellene, lenne, szeretné, szeretne, szeretnék, volna, emelnék, lennének, adná, alakítanák</em>
-* `Cnd,Pot` (10; 0% of non-empty `Mood`): <em>lehetne, adhatnák, elfoglalhatná, fordulhatna, kérdezhetné, megtehetne, számíthatna, Érthetné, ítélhetnék</em>
-* `Imp` (150; 4% of non-empty `Mood`): <em>legyen, kerüljön, menjen, gyűjtsenek, hagyják, kerüljenek, legyenek, osszák, segítsenek, tervezze</em>
-* `Imp,Pot` (10; 0% of non-empty `Mood`): <em>dönthessenek, elindulhasson, emelhesse, lehessen, megkaphassák, megmenthesse, okozhasson, parkolhassanak, állíthassa, énekelhessenek</em>
-* `Ind` (2970; 85% of non-empty `Mood`): <em>volt, kell, van, mondta, lesz, elmondta, vannak, jelentette, került, nincs</em>
-* `Pot` (216; 6% of non-empty `Mood`): <em>lehet, kerülhet, növelheti, dolgozik, férhet, helyettesítheti, kerülhetnek, láthattunk, reménykedhet, reménykedhetnek</em>
-* `EMPTY` (341): <em>tudni, tartani, folytatni, látni, számítani, ellátni, hívni, kérni, lemondani, menni</em>
+* `Cnd` (91; 4% of non-empty `Mood`): <em>kellene, szeretné, lenne, emelnék, volna, adná, alakítanák, aláterveznék, beavatkoznának, cimborálna</em>
+* `Cnd,Pot` (9; 0% of non-empty `Mood`): <em>lehetne, adhatnák, fordulhatna, kérdezhetné, megtehetne, számíthatna, Érthetné, ítélhetnék</em>
+* `Imp` (120; 5% of non-empty `Mood`): <em>kerüljön, legyen, menjen, kerüljenek, osszák, segítsenek, tervezze, Repülj, Tégy, Vegyük</em>
+* `Imp,Pot` (8; 0% of non-empty `Mood`): <em>dönthessenek, elindulhasson, lehessen, megkaphassák, megmenthesse, parkolhassanak, állíthassa, énekelhessenek</em>
+* `Ind` (2078; 84% of non-empty `Mood`): <em>kell, van, volt, mondta, elmondta, nincs, jelentette, kellett, vannak, kerül</em>
+* `Pot` (165; 7% of non-empty `Mood`): <em>lehet, kerülhet, növelheti, dolgozik, férhet, helyettesítheti, kerülhetnek, láthattunk, reménykedhetnek, számíthat</em>
+* `EMPTY` (263): <em>tudni, folytatni, tartani, számítani, lemondani, látni, tárgyalni, venni, adni, beszélni</em>
 
 <table>
   <tr><th>Paradigm <i>lesz</i></th><th><tt>Cnd,Pot</tt></th><th><tt>Imp,Pot</tt></th><th><tt>Ind</tt></th><th><tt>Imp</tt></th><th><tt>Cnd</tt></th><th><tt>Pot</tt></th></tr>
-  <tr><td><tt><a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=1|<a href="Tense.html">Tense</a>=Past</tt></td><td></td><td></td><td><em>lettem</em></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=1|<a href="Tense.html">Tense</a>=Pres</tt></td><td></td><td></td><td><em>leszek</em></td><td><em>legyek</em></td><td></td><td></td></tr>
-  <tr><td><tt><a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Past</tt></td><td></td><td></td><td><em>lett</em></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Pres</tt></td><td><em>lehetne</em></td><td><em>lehessen</em></td><td><em>lesz</em></td><td><em>legyen</em></td><td><em>lenne</em></td><td><em>lehet</em></td></tr>
-  <tr><td><tt><a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=1|<a href="Tense.html">Tense</a>=Pres</tt></td><td></td><td></td><td><em>leszünk</em></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Pres</tt></td><td></td><td></td><td><em>lesznek</em></td><td><em>legyenek</em></td><td><em>lennének</em></td><td></td></tr>
+  <tr><td><tt><a href="Number.html">Number</a>=Sing|<a href="Tense.html">Tense</a>=Past</tt></td><td></td><td></td><td><em>lett</em></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Number.html">Number</a>=Sing|<a href="Tense.html">Tense</a>=Pres</tt></td><td><em>lehetne</em></td><td><em>lehessen</em></td><td><em>lesz</em></td><td><em>legyen</em></td><td><em>lenne</em></td><td><em>lehet</em></td></tr>
+  <tr><td><tt><a href="Number.html">Number</a>=Plur|<a href="Tense.html">Tense</a>=Pres</tt></td><td></td><td></td><td></td><td></td><td><em>lennének</em></td><td></td></tr>
 </table>
 
 ### `AUX`
 
-38 [hu-pos/AUX]() tokens (100% of all `AUX` tokens) have a non-empty value of `Mood`.
+151 [hu-pos/AUX]() tokens (99% of all `AUX` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `AUX` and `Mood` co-occurred: <tt><a href="Tense.html">Tense</a>=Pres</tt> (38; 100%), <tt><a href="Voice.html">Voice</a>=Act</tt> (38; 100%), <tt><a href="Person.html">Person</a>=3</tt> (38; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (31; 82%), <tt><a href="Definite.html">Definite</a>=Ind</tt> (30; 79%), <tt><a href="VerbForm.html">VerbForm</a>=EMPTY</tt> (29; 76%).
+The most frequent other feature values with which `AUX` and `Mood` co-occurred: <tt><a href="Voice.html">Voice</a>=Act</tt> (151; 100%), <tt><a href="Person.html">Person</a>=3</tt> (145; 96%), <tt><a href="Definite.html">Definite</a>=Ind</tt> (143; 95%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (134; 89%), <tt><a href="Number.html">Number</a>=Sing</tt> (128; 85%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (77; 51%).
 
 `AUX` tokens may have the following values of `Mood`:
 
-* `Cnd` (19; 50% of non-empty `Mood`): <em>volna</em>
-* `Ind` (19; 50% of non-empty `Mood`): <em>fog, fogja, fognak, fogják</em>
+* `Cnd` (19; 13% of non-empty `Mood`): <em>lenne, volna, lennének</em>
+* `Imp` (9; 6% of non-empty `Mood`): <em>legyen, legyenek</em>
+* `Ind` (116; 77% of non-empty `Mood`): <em>volt, lesz, voltak, lett, fog, fogja, lehetett, fognak, fogják, vagyok</em>
+* `Pot` (7; 5% of non-empty `Mood`): <em>lehet</em>
+* `EMPTY` (2): <em>elszenvedni, lenni</em>
+
+<table>
+  <tr><th>Paradigm <i>lesz</i></th><th><tt>Ind</tt></th><th><tt>Imp</tt></th><th><tt>Cnd</tt></th><th><tt>Pot</tt></th></tr>
+  <tr><td><tt><a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=1|<a href="Tense.html">Tense</a>=Past</tt></td><td><em>lettem</em></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Past</tt></td><td><em>lett</em></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Pres</tt></td><td><em>lesz</em></td><td><em>legyen</em></td><td><em>lenne</em></td><td><em>lehet</em></td></tr>
+  <tr><td><tt><a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=1|<a href="Tense.html">Tense</a>=Pres</tt></td><td><em>leszünk</em></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Pres</tt></td><td><em>lesznek</em></td><td><em>legyenek</em></td><td><em>lennének</em></td><td></td></tr>
+</table>
 
 ## Relations with Agreement in `Mood`
 
 The 10 most frequent relations where parent and child node agree in `Mood`:
-<tt>VERB --[<a href="../dep/conj.html">conj</a>]--> VERB</tt> (510; 86%),
-<tt>VERB --[<a href="../dep/advcl.html">advcl</a>]--> VERB</tt> (184; 74%),
-<tt>VERB --[<a href="../dep/ccomp:obj.html">ccomp:obj</a>]--> VERB</tt> (117; 70%),
-<tt>VERB --[<a href="../dep/ccomp:obl.html">ccomp:obl</a>]--> VERB</tt> (57; 52%),
-<tt>VERB --[<a href="../dep/parataxis.html">parataxis</a>]--> VERB</tt> (38; 83%),
-<tt>VERB --[<a href="../dep/csubj.html">csubj</a>]--> VERB</tt> (38; 69%),
-<tt>VERB --[<a href="../dep/ccomp.html">ccomp</a>]--> VERB</tt> (36; 64%),
-<tt>VERB --[<a href="../dep/acl.html">acl</a>]--> VERB</tt> (21; 81%),
-<tt>VERB --[<a href="../dep/ccomp.html">ccomp</a>]--> AUX</tt> (3; 100%),
-<tt>AUX --[<a href="../dep/advcl.html">advcl</a>]--> VERB</tt> (3; 75%).
+<tt>VERB --[<a href="../dep/conj.html">conj</a>]--> VERB</tt> (338; 83%),
+<tt>VERB --[<a href="../dep/advcl.html">advcl</a>]--> VERB</tt> (132; 72%),
+<tt>VERB --[<a href="../dep/ccomp:obj.html">ccomp:obj</a>]--> VERB</tt> (99; 70%),
+<tt>VERB --[<a href="../dep/ccomp:obl.html">ccomp:obl</a>]--> VERB</tt> (45; 51%),
+<tt>VERB --[<a href="../dep/csubj.html">csubj</a>]--> VERB</tt> (27; 64%),
+<tt>VERB --[<a href="../dep/ccomp.html">ccomp</a>]--> VERB</tt> (25; 57%),
+<tt>VERB --[<a href="../dep/parataxis.html">parataxis</a>]--> VERB</tt> (22; 85%),
+<tt>VERB --[<a href="../dep/acl.html">acl</a>]--> VERB</tt> (14; 82%),
+<tt>AUX --[<a href="../dep/advcl.html">advcl</a>]--> VERB</tt> (3; 100%),
+<tt>VERB --[<a href="../dep/ccomp.html">ccomp</a>]--> AUX</tt> (3; 100%).
 

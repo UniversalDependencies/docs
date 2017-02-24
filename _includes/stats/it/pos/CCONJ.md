@@ -96,7 +96,7 @@ The 10 most frequent `CCONJ` lemmas: <em>e, o, ma, sia, che, né, oppure, nonch�
 
 The 10 most frequent `CCONJ` types:  <em>e, o, ma, ed, sia, che, né, oppure, nonché, ovvero</em>
 
-The 10 most frequent ambiguous lemmas: <em>che</em> ([PRON]() 313, [SCONJ]() 283, [CCONJ]() 16, [ADP]() 9, [DET]() 1, [ADV]() 1), <em>quindi</em> ([ADV]() 9, [CCONJ]() 4), <em>mentre</em> ([SCONJ]() 22, [CCONJ]() 2), <em>a</em> ([ADP]() 1147, [X]() 3, [CCONJ]() 1, [ADV]() 1), <em>benché</em> ([SCONJ]() 1, [CCONJ]() 1), <em>così</em> ([ADV]() 22, [CCONJ]() 1), <em>sebbene</em> ([SCONJ]() 7, [CCONJ]() 1)
+The 10 most frequent ambiguous lemmas: <em>che</em> ([PRON]() 313, [SCONJ]() 283, [CCONJ]() 16, [ADP]() 9, [ADV]() 1, [DET]() 1), <em>quindi</em> ([ADV]() 9, [CCONJ]() 4), <em>mentre</em> ([SCONJ]() 22, [CCONJ]() 2), <em>a</em> ([ADP]() 1147, [X]() 3, [ADV]() 1, [CCONJ]() 1), <em>benché</em> ([SCONJ]() 1, [CCONJ]() 1), <em>così</em> ([ADV]() 22, [CCONJ]() 1), <em>sebbene</em> ([SCONJ]() 7, [CCONJ]() 1)
 
 The 10 most frequent ambiguous types:  <em>sia</em> ([AUX]() 38, [CCONJ]() 20, [VERB]() 2), <em>che</em> ([PRON]() 313, [SCONJ]() 283, [CCONJ]() 16, [ADP]() 9, [ADV]() 1), <em>quindi</em> ([ADV]() 9, [CCONJ]() 1), <em>mentre</em> ([SCONJ]() 19, [CCONJ]() 2), <em>5</em> ([NUM]() 3, [CCONJ]() 1), <em>benché</em> ([SCONJ]() 1, [CCONJ]() 1), <em>così</em> ([ADV]() 21, [CCONJ]() 1), <em>sebbene</em> ([SCONJ]() 3, [CCONJ]() 1)
 

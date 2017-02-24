@@ -19,7 +19,7 @@ The feature is used with 1 part-of-speech tags: [hr-pos/DET]() (324; 0% instance
 
 324 [hr-pos/DET]() tokens (5% of all `DET` tokens) have a non-empty value of `Gender[psor]`.
 
-The most frequent other feature values with which `DET` and `Gender[psor]` co-occurred: <tt><a href="Poss.html">Poss</a>=Yes</tt> (324; 100%), <tt><a href="Number[psor].html">Number[psor]</a>=Sing</tt> (324; 100%), <tt><a href="Person.html">Person</a>=3</tt> (324; 100%), <tt><a href="PronType.html">PronType</a>=Prs</tt> (324; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (255; 79%).
+The most frequent other feature values with which `DET` and `Gender[psor]` co-occurred: <tt><a href="PronType.html">PronType</a>=Prs</tt> (324; 100%), <tt><a href="Number[psor].html">Number[psor]</a>=Sing</tt> (324; 100%), <tt><a href="Poss.html">Poss</a>=Yes</tt> (324; 100%), <tt><a href="Person.html">Person</a>=3</tt> (324; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (255; 79%).
 
 `DET` tokens may have the following values of `Gender[psor]`:
 

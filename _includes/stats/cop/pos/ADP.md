@@ -11,7 +11,7 @@ The 10 most frequent `ADP` lemmas: ⲛ, ⲉ, ϩⲛ, ⲙⲛ, ⲛⲁ, ⲛⲥⲁ, �
 
 The 10 most frequent `ADP` types:  ⲛ, ⲉ, ⲙ, ϩⲛ, ⲙⲙⲟ, ⲛⲁ, ⲙⲛ, ⲉⲣⲟ, ϩⲙ, ⲛϩⲏⲧ
 
-The 10 most frequent ambiguous lemmas: ⲛ ([ADP]() 536, [ADV]() 16), ϩⲛ ([ADP]() 162, [DET]() 1), ⲙⲛ ([ADP]() 117, [VERB]() 15), ⲛⲁ ([ADP]() 97, [AUX]() 58, [VERB]() 4, [NOUN]() 1, [DET]() 1), ϩⲓ ([ADP]() 24, [VERB]() 1), ϣⲁ ([ADP]() 15, [VERB]() 1), ⲉⲣⲉ ([SCONJ]() 151, [PART]() 44, [ADP]() 2), ⲙⲛⲛⲥⲁ ([ADP]() 2, [CCONJ]() 1), ⲛⲧⲉ ([AUX]() 56, [ADV]() 3, [ADP]() 2), ϩⲟ ([NOUN]() 3, [ADP]() 1)
+The 10 most frequent ambiguous lemmas: ⲛ ([ADP]() 536, [ADV]() 16), ϩⲛ ([ADP]() 162, [DET]() 1), ⲙⲛ ([ADP]() 117, [VERB]() 15), ⲛⲁ ([ADP]() 97, [AUX]() 58, [VERB]() 4, [DET]() 1, [NOUN]() 1), ϩⲓ ([ADP]() 24, [VERB]() 1), ϣⲁ ([ADP]() 15, [VERB]() 1), ⲉⲣⲉ ([SCONJ]() 151, [PART]() 44, [ADP]() 2), ⲙⲛⲛⲥⲁ ([ADP]() 2, [CCONJ]() 1), ⲛⲧⲉ ([AUX]() 56, [ADV]() 3, [ADP]() 2), ϩⲟ ([NOUN]() 3, [ADP]() 1)
 
 The 10 most frequent ambiguous types:  ⲛ ([ADP]() 316, [DET]() 131, [AUX]() 49, [ADV]() 19, [PRON]() 13, [VERB]() 1), ⲉ ([ADP]() 189, [SCONJ]() 146, [PART]() 35, [PRON]() 1), ⲙ ([ADP]() 131, [DET]() 12), ϩⲛ ([ADP]() 94, [DET]() 1), ⲛⲁ ([ADP]() 88, [AUX]() 58, [DET]() 9, [VERB]() 4, [NOUN]() 1), ⲙⲛ ([ADP]() 81, [VERB]() 9), ϩⲙ ([ADP]() 38, [NOUN]() 1), ϩⲓ ([ADP]() 19, [VERB]() 1), ϣⲁ ([AUX]() 19, [ADP]() 12, [VERB]() 1), ⲛⲏ ([ADP]() 9, [DET]() 2)
 

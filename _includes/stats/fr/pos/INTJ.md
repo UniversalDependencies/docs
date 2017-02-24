@@ -11,9 +11,9 @@ The 10 most frequent `INTJ` lemmas: <em>merci, bref, attention, bravo, dommage, 
 
 The 10 most frequent `INTJ` types:  <em>merci, bref, attention, bravo, dommage, oui, Ah, Bonjour, enfin, ex</em>
 
-The 10 most frequent ambiguous lemmas: <em>merci</em> ([INTJ]() 17, [NOUN]() 5), <em>bref</em> ([ADJ]() 12, [INTJ]() 11), <em>attention</em> ([NOUN]() 16, [INTJ]() 9), <em>dommage</em> ([INTJ]() 6, [NOUN]() 6, [ADJ]() 2), <em>oui</em> ([INTJ]() 5, [NOUN]() 2), <em>bonjour</em> ([INTJ]() 2, [NOUN]() 1), <em>enfin</em> ([ADV]() 52, [INTJ]() 2), <em>ex</em> ([NOUN]() 4, [PART]() 2, [INTJ]() 2, [ADP]() 2, [X]() 1), <em>non</em> ([ADV]() 131, [INTJ]() 2, [NOUN]() 1, [X]() 1), <em>bien</em> ([ADV]() 324, [NOUN]() 31, [ADJ]() 4, [INTJ]() 1)
+The 10 most frequent ambiguous lemmas: <em>merci</em> ([INTJ]() 17, [NOUN]() 5), <em>bref</em> ([ADJ]() 12, [INTJ]() 11), <em>attention</em> ([NOUN]() 16, [INTJ]() 9), <em>dommage</em> ([INTJ]() 6, [NOUN]() 6, [ADJ]() 2), <em>oui</em> ([INTJ]() 5, [NOUN]() 2), <em>bonjour</em> ([INTJ]() 2, [NOUN]() 1), <em>enfin</em> ([ADV]() 52, [INTJ]() 2), <em>ex</em> ([NOUN]() 4, [INTJ]() 2, [PART]() 2, [ADP]() 2, [X]() 1), <em>non</em> ([ADV]() 131, [INTJ]() 2, [X]() 1, [NOUN]() 1), <em>bien</em> ([ADV]() 324, [NOUN]() 31, [ADJ]() 4, [INTJ]() 1)
 
-The 10 most frequent ambiguous types:  <em>merci</em> ([NOUN]() 5, [INTJ]() 3), <em>bref</em> ([ADJ]() 8, [INTJ]() 4), <em>attention</em> ([NOUN]() 12, [INTJ]() 1), <em>dommage</em> ([NOUN]() 4, [INTJ]() 2, [ADJ]() 2), <em>oui</em> ([INTJ]() 3, [NOUN]() 2), <em>enfin</em> ([ADV]() 29, [INTJ]() 2), <em>ex</em> ([NOUN]() 4, [ADP]() 2, [PART]() 2, [INTJ]() 2, [X]() 1), <em>non</em> ([ADV]() 130, [INTJ]() 2, [VERB]() 1, [X]() 1), <em>Allo</em> ([INTJ]() 1, [PROPN]() 1), <em>Bien</em> ([ADV]() 34, [INTJ]() 1)
+The 10 most frequent ambiguous types:  <em>merci</em> ([NOUN]() 5, [INTJ]() 3), <em>bref</em> ([ADJ]() 8, [INTJ]() 4), <em>attention</em> ([NOUN]() 12, [INTJ]() 1), <em>dommage</em> ([NOUN]() 4, [INTJ]() 2, [ADJ]() 2), <em>oui</em> ([INTJ]() 3, [NOUN]() 2), <em>enfin</em> ([ADV]() 29, [INTJ]() 2), <em>ex</em> ([NOUN]() 4, [INTJ]() 2, [PART]() 2, [ADP]() 2, [X]() 1), <em>non</em> ([ADV]() 130, [INTJ]() 2, [VERB]() 1, [X]() 1), <em>Allo</em> ([INTJ]() 1, [PROPN]() 1), <em>Bien</em> ([ADV]() 34, [INTJ]() 1)
 
 
 * <em>merci</em>
@@ -37,9 +37,9 @@ The 10 most frequent ambiguous types:  <em>merci</em> ([NOUN]() 5, [INTJ]() 3), 
   * [INTJ]() 2: <em><b>enfin</b> des chaussures confortables qui ne font pas " mamie " !</em>
 * <em>ex</em>
   * [NOUN]() 4: <em>Cette colline héberge d' ailleurs le réservoir municipal qui alimente une bonne partie de la commune ( L' Epinoy par <b>ex</b> ) .</em>
-  * [ADP]() 2: <em>Les membres de le Conseil législatif siègent <b>ex</b> officio .</em>
-  * [PART]() 2: <em>La ville compte ou a compté de très nombreux résidents célèbres dont Diana Ross , Mel Gibson , le catcheur de la WWE Triple H ( Paul Levesque ) , Tommy Hilfiger , Richard Attias , Vince McMahon , Patricia MacDonald et Cécilia Attias , <b>ex</b> Sarkozy .</em>
   * [INTJ]() 2: <em>Son titre est enregistré à le Répertoire national de les certifications professionnelles ( <b>ex</b> homologation ) .</em>
+  * [PART]() 2: <em>La ville compte ou a compté de très nombreux résidents célèbres dont Diana Ross , Mel Gibson , le catcheur de la WWE Triple H ( Paul Levesque ) , Tommy Hilfiger , Richard Attias , Vince McMahon , Patricia MacDonald et Cécilia Attias , <b>ex</b> Sarkozy .</em>
+  * [ADP]() 2: <em>Les membres de le Conseil législatif siègent <b>ex</b> officio .</em>
   * [X]() 1: <em>Certaines erreurs judiciaires résultent d' une entente de la police et de la justice dans un but médiatique ( <b>ex</b> : affaire d' Outreau ) .</em>
 * <em>non</em>
   * [ADV]() 130: <em>En tout cas je n' y retourne pas et ma collègue <b>non</b> plus !</em>

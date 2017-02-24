@@ -16,7 +16,7 @@ The feature is used with 2 part-of-speech tags: [ro-pos/DET]() (3543; 2% instanc
 
 3543 [ro-pos/DET]() tokens (32% of all `DET` tokens) have a non-empty value of `Poss`.
 
-The most frequent other feature values with which `DET` and `Poss` co-occurred: <tt><a href="PronType.html">PronType</a>=Prs</tt> (3543; 100%), <tt><a href="Position.html">Position</a>=EMPTY</tt> (3543; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (3363; 95%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (2626; 74%), <tt><a href="Number.html">Number</a>=Sing</tt> (2486; 70%), <tt><a href="Gender.html">Gender</a>=Fem</tt> (2110; 60%).
+The most frequent other feature values with which `DET` and `Poss` co-occurred: <tt><a href="Position.html">Position</a>=EMPTY</tt> (3543; 100%), <tt><a href="PronType.html">PronType</a>=Prs</tt> (3543; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (3363; 95%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (2626; 74%), <tt><a href="Number.html">Number</a>=Sing</tt> (2486; 70%), <tt><a href="Gender.html">Gender</a>=Fem</tt> (2110; 60%).
 
 `DET` tokens may have the following values of `Poss`:
 
@@ -27,7 +27,7 @@ The most frequent other feature values with which `DET` and `Poss` co-occurred: 
 
 54 [ro-pos/PRON]() tokens (0% of all `PRON` tokens) have a non-empty value of `Poss`.
 
-The most frequent other feature values with which `PRON` and `Poss` co-occurred: <tt><a href="Strength.html">Strength</a>=EMPTY</tt> (54; 100%), <tt><a href="Variant.html">Variant</a>=EMPTY</tt> (54; 100%), <tt><a href="Reflex.html">Reflex</a>=EMPTY</tt> (54; 100%), <tt><a href="PronType.html">PronType</a>=Prs</tt> (54; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (38; 70%), <tt><a href="Person.html">Person</a>=3</tt> (35; 65%).
+The most frequent other feature values with which `PRON` and `Poss` co-occurred: <tt><a href="Reflex.html">Reflex</a>=EMPTY</tt> (54; 100%), <tt><a href="PronType.html">PronType</a>=Prs</tt> (54; 100%), <tt><a href="Strength.html">Strength</a>=EMPTY</tt> (54; 100%), <tt><a href="Variant.html">Variant</a>=EMPTY</tt> (54; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (38; 70%), <tt><a href="Person.html">Person</a>=3</tt> (35; 65%).
 
 `PRON` tokens may have the following values of `Poss`:
 

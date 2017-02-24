@@ -63,7 +63,7 @@ The most frequent other feature values with which `PRON` and `Person` co-occurre
 
 437 [el-pos/AUX]() tokens (100% of all `AUX` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `AUX` and `Person` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (437; 100%), <tt><a href="Voice.html">Voice</a>=Pass</tt> (437; 100%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (437; 100%), <tt><a href="Aspect.html">Aspect</a>=Imp</tt> (428; 98%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (352; 81%), <tt><a href="Number.html">Number</a>=Sing</tt> (332; 76%).
+The most frequent other feature values with which `AUX` and `Person` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (437; 100%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (437; 100%), <tt><a href="Voice.html">Voice</a>=Pass</tt> (437; 100%), <tt><a href="Aspect.html">Aspect</a>=Imp</tt> (428; 98%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (352; 81%), <tt><a href="Number.html">Number</a>=Sing</tt> (332; 76%).
 
 `AUX` tokens may have the following values of `Person`:
 

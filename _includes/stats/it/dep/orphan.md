@@ -121,6 +121,46 @@ The following 7 pairs of parts of speech are connected with `orphan`: [it-pos/NO
 
 
 ~~~ conllu
+# visual-style 28	bgColor:blue
+# visual-style 28	fgColor:white
+# visual-style 25	bgColor:blue
+# visual-style 25	fgColor:white
+# visual-style 25 28 orphan	color:blue
+1	Ringrazio	ringraziare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	innanzi	innanzi	ADV	B	_	3	case	_	_
+3	tutto	tutto	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	1	obl	_	_
+4	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	relatore	relatore	NOUN	S	Gender=Masc|Number=Sing	1	obj	_	_
+6	per	per	ADP	E	_	9	case	_	_
+7	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+8	suo	suo	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	9	det:poss	_	_
+9	lavoro	lavoro	NOUN	S	Gender=Masc|Number=Sing	1	obl	_	_
+10	estremamente	estremamente	ADV	B	_	11	advmod	_	_
+11	preciso	preciso	ADJ	A	Gender=Masc|Number=Sing	9	amod	_	_
+12	e	e	CCONJ	CC	_	13	cc	_	_
+13	tecnico	tecnico	ADJ	A	Gender=Masc|Number=Sing	11	conj	_	_
+14	su	su	ADP	E	_	16	case	_	_
+15	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
+16	fascicolo	fascicolo	NOUN	S	Gender=Masc|Number=Sing	9	nmod	_	_
+17	in	in	ADP	E	_	18	case	_	_
+18	parola	parola	NOUN	S	Gender=Fem|Number=Sing	16	nmod	_	SpaceAfter=No
+19	,	,	PUNCT	FF	_	25	punct	_	_
+20	e	e	CCONJ	CC	_	25	cc	_	_
+21	in	in	ADP	E	_	23	case	_	_
+22	secondo	secondo	ADJ	NO	Gender=Masc|Number=Sing|NumType=Ord	23	amod	_	_
+23	luogo	luogo	NOUN	S	Gender=Masc|Number=Sing	25	nmod	_	_
+24	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	25	det	_	_
+25	commissione	commissione	NOUN	S	Gender=Fem|Number=Sing	1	conj	_	_
+26	per	per	ADP	E	_	28	case	_	_
+27	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	28	det	_	_
+28	proposta	proposta	NOUN	S	Gender=Fem|Number=Sing	25	orphan	_	_
+29	presentata	presentare	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	28	acl	_	SpaceAfter=No
+30	.	.	PUNCT	FS	_	1	punct	_	_
+
+~~~
+
+
+~~~ conllu
 # visual-style 17	bgColor:blue
 # visual-style 17	fgColor:white
 # visual-style 15	bgColor:blue
@@ -161,82 +201,66 @@ The following 7 pairs of parts of speech are connected with `orphan`: [it-pos/NO
 
 
 ~~~ conllu
-# visual-style 28	bgColor:blue
-# visual-style 28	fgColor:white
-# visual-style 26	bgColor:blue
-# visual-style 26	fgColor:white
-# visual-style 26 28 orphan	color:blue
-1	Il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
-2	ribilanciamento	ribilanciamento	NOUN	S	Gender=Masc|Number=Sing	13	nsubj	_	_
-3	politico	politico	ADJ	A	Gender=Masc|Number=Sing	2	amod	_	_
-4	periodico	periodico	ADJ	A	Gender=Masc|Number=Sing	2	amod	_	SpaceAfter=No
-5	,	,	PUNCT	FF	_	2	punct	_	_
-6	talvolta	talvolta	ADV	B	_	7	advmod	_	_
-7	pacifico	pacifico	ADJ	A	Gender=Masc|Number=Sing	2	amod	_	SpaceAfter=No
-8	,	,	PUNCT	FF	_	10	punct	_	_
-9	talvolta	talvolta	ADV	B	_	10	advmod	_	_
-10	no	no	ADV	BN	PronType=Neg	7	conj	_	SpaceAfter=No
-11	,	,	PUNCT	FF	_	2	punct	_	_
-12	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	aux	_	_
-13	garantito	garantire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
-14	che	che	SCONJ	CS	_	22	mark	_	_
-15	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	17	det	_	_
-16	stragrande	stragrande	ADJ	A	Number=Sing	17	amod	_	_
-17	maggioranza	maggioranza	NOUN	S	Gender=Fem|Number=Sing	22	nsubj	_	_
-18	di	di	ADP	E	_	20	case	_	_
-19	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	20	det	_	_
-20	persone	persona	NOUN	S	Gender=Fem|Number=Plur	17	nmod	_	_
-21	ne	ne	PRON	PC	Clitic=Yes|PronType=Prs	22	nmod	_	_
-22	traesse	trarre	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	13	ccomp	_	_
-23	beneficio	beneficio	NOUN	S	Gender=Masc|Number=Sing	22	obj	_	SpaceAfter=No
-24	,	,	PUNCT	FF	_	26	punct	_	_
-25	benché	benché	CCONJ	CC	_	26	cc	_	_
-26	alcuni	alcuno	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	22	conj	_	_
-27	nettamente	nettamente	ADV	B	_	28	advmod	_	_
-28	più	più	ADV	B	_	26	orphan	_	_
-29	di	di	ADP	E	_	30	case	_	_
-30	altri	altro	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	28	obl	_	SpaceAfter=No
-31	.	.	PUNCT	FS	_	13	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 28	bgColor:blue
-# visual-style 28	fgColor:white
-# visual-style 25	bgColor:blue
-# visual-style 25	fgColor:white
-# visual-style 25 28 orphan	color:blue
-1	Ringrazio	ringraziare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
-2	innanzi	innanzi	ADV	B	_	3	case	_	_
-3	tutto	tutto	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	1	obl	_	_
-4	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
-5	relatore	relatore	NOUN	S	Gender=Masc|Number=Sing	1	obj	_	_
-6	per	per	ADP	E	_	9	case	_	_
-7	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
-8	suo	suo	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	9	det:poss	_	_
-9	lavoro	lavoro	NOUN	S	Gender=Masc|Number=Sing	1	obl	_	_
-10	estremamente	estremamente	ADV	B	_	11	advmod	_	_
-11	preciso	preciso	ADJ	A	Gender=Masc|Number=Sing	9	amod	_	_
-12	e	e	CCONJ	CC	_	13	cc	_	_
-13	tecnico	tecnico	ADJ	A	Gender=Masc|Number=Sing	11	conj	_	_
-14	su	su	ADP	E	_	16	case	_	_
-15	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
-16	fascicolo	fascicolo	NOUN	S	Gender=Masc|Number=Sing	9	nmod	_	_
-17	in	in	ADP	E	_	18	case	_	_
-18	parola	parola	NOUN	S	Gender=Fem|Number=Sing	16	nmod	_	SpaceAfter=No
-19	,	,	PUNCT	FF	_	25	punct	_	_
-20	e	e	CCONJ	CC	_	25	cc	_	_
-21	in	in	ADP	E	_	23	case	_	_
-22	secondo	secondo	ADJ	NO	Gender=Masc|Number=Sing|NumType=Ord	23	amod	_	_
-23	luogo	luogo	NOUN	S	Gender=Masc|Number=Sing	25	nmod	_	_
-24	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	25	det	_	_
-25	commissione	commissione	NOUN	S	Gender=Fem|Number=Sing	1	conj	_	_
-26	per	per	ADP	E	_	28	case	_	_
+# visual-style 40	bgColor:blue
+# visual-style 40	fgColor:white
+# visual-style 37	bgColor:blue
+# visual-style 37	fgColor:white
+# visual-style 37 40 orphan	color:blue
+1	Né	né	CCONJ	CC	_	2	cc	_	_
+2	Marx	Marx	PROPN	SP	_	8	nsubj	_	_
+3	né	né	CCONJ	CC	_	5	cc	_	_
+4	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	det	_	_
+5	fisiocrati	fisiocrati	NOUN	S	Gender=Masc|Number=Plur	2	conj	_	_
+6	avrebbero	avere	AUX	VA	Mood=Cnd|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	8	aux	_	_
+7	potuto	potere	AUX	VM	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	8	aux	_	_
+8	immaginare	immaginare	VERB	V	VerbForm=Inf	0	root	_	_
+9	quante	quanto	DET	DQ	Gender=Fem|Number=Plur|PronType=Int	10	det	_	_
+10	attività	attività	NOUN	S	Gender=Fem	15	nsubj	_	_
+11	ben	bene	ADV	B	_	12	advmod	_	_
+12	pagate	pagare	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	10	acl	_	_
+13	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	15	expl	_	_
+14	sarebbero	essere	AUX	VA	Mood=Cnd|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	15	aux	_	_
+15	create	creare	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	8	ccomp	_	_
+16	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	17	det	_	_
+17	volta	volta	NOUN	S	Gender=Fem|Number=Sing	15	obl	_	_
+18	esaurita	esaurire	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	17	acl	_	_
+19	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	20	det	_	_
+20	necessità	necessità	NOUN	S	Gender=Fem	18	nsubj:pass	_	_
+21	di	di	ADP	E	_	22	mark	_	_
+22	impiegare	impiegare	VERB	V	VerbForm=Inf	20	acl	_	_
+23	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	25	det	_	_
+24	60	60	NUM	N	NumType=Card	25	nummod	_	SpaceAfter=No
+25	%	%	SYM	X	_	22	obj	_	_
+26	di	di	ADP	E	_	28	case	_	_
 27	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	28	det	_	_
-28	proposta	proposta	NOUN	S	Gender=Fem|Number=Sing	25	orphan	_	_
-29	presentata	presentare	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	28	acl	_	SpaceAfter=No
-30	.	.	PUNCT	FS	_	1	punct	_	_
+28	forza	forza	NOUN	S	Gender=Fem|Number=Sing	25	nmod	_	_
+29	lavoro	lavoro	NOUN	S	Gender=Masc|Number=Sing	28	compound	_	_
+30	in	in	ADP	E	_	32	case	_	_
+31	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	32	det	_	_
+32	agricoltura	agricoltura	NOUN	S	Gender=Fem|Number=Sing	22	obl	_	_
+33	e	e	CCONJ	CC	_	37	cc	_	_
+34	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	37	det	_	_
+35	altro	altro	ADJ	A	Gender=Masc|Number=Sing	37	amod	_	_
+36	20	20	NUM	N	NumType=Card	37	nummod	_	SpaceAfter=No
+37	%	%	SYM	X	_	22	conj	_	_
+38	in	in	ADP	E	_	40	case	_	_
+39	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	40	det	_	_
+40	tessitura	tessitura	NOUN	S	Gender=Fem|Number=Sing	37	orphan	_	_
+41	a	a	ADP	E	_	42	case	_	_
+42	mano	mano	NOUN	S	Gender=Fem|Number=Sing	40	nmod	_	_
+43	e	e	CCONJ	CC	_	46	cc	_	_
+44	in	in	ADP	E	_	46	case	_	_
+45	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	46	det	_	_
+46	trasporto	trasporto	NOUN	S	Gender=Masc|Number=Sing	40	conj	_	_
+47	via	via	ADP	E	_	48	case	_	_
+48	terra	terra	NOUN	S	Gender=Fem|Number=Sing	46	nmod	_	_
+49	con	con	ADP	E	_	51	case	_	_
+50	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	51	det	_	_
+51	cavalli	cavallo	NOUN	S	Gender=Masc|Number=Plur	46	nmod	_	_
+52	e	e	CCONJ	CC	_	54	cc	_	_
+53	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	54	det	_	_
+54	carri	carro	NOUN	S	Gender=Masc|Number=Plur	51	conj	_	SpaceAfter=No
+55	.	.	PUNCT	FS	_	8	punct	_	_
 
 ~~~
 

@@ -89,7 +89,7 @@ The feature is used with 2 part-of-speech tags: [la-pos/VERB]() (40552; 14% inst
 
 40552 [la-pos/VERB]() tokens (100% of all `VERB` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="Aspect.html">Aspect</a>=EMPTY</tt> (32771; 81%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (31255; 77%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (30474; 75%), <tt><a href="Degree.html">Degree</a>=EMPTY</tt> (30196; 74%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (30196; 74%), <tt><a href="Number.html">Number</a>=Sing</tt> (28282; 70%), <tt><a href="Voice.html">Voice</a>=Act</tt> (25868; 64%), <tt><a href="Person.html">Person</a>=3</tt> (24548; 61%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (21163; 52%).
+The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="Aspect.html">Aspect</a>=EMPTY</tt> (32771; 81%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (31255; 77%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (30474; 75%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (30196; 74%), <tt><a href="Degree.html">Degree</a>=EMPTY</tt> (30196; 74%), <tt><a href="Number.html">Number</a>=Sing</tt> (28282; 70%), <tt><a href="Voice.html">Voice</a>=Act</tt> (25868; 64%), <tt><a href="Person.html">Person</a>=3</tt> (24548; 61%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (21163; 52%).
 
 `VERB` tokens may have the following values of `VerbForm`:
 

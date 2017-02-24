@@ -28,9 +28,9 @@ The 10 most frequent relations where parent and child node agree in `Foreign`:
 <tt>X --[<a href="../dep/dep.html">dep</a>]--> X</tt> (28; 90%),
 <tt>X --[<a href="../dep/obj.html">obj</a>]--> X</tt> (4; 100%),
 <tt>X --[<a href="../dep/fixed.html">fixed</a>]--> X</tt> (3; 100%),
-<tt>X --[<a href="../dep/conj.html">conj</a>]--> X</tt> (3; 100%),
 <tt>X --[<a href="../dep/nsubj.html">nsubj</a>]--> X</tt> (3; 75%),
-<tt>X --[<a href="../dep/cc.html">cc</a>]--> X</tt> (1; 100%),
+<tt>X --[<a href="../dep/conj.html">conj</a>]--> X</tt> (3; 100%),
 <tt>X --[<a href="../dep/flat.html">flat</a>]--> X</tt> (1; 100%),
-<tt>X --[<a href="../dep/nmod:poss.html">nmod:poss</a>]--> X</tt> (1; 100%).
+<tt>X --[<a href="../dep/nmod:poss.html">nmod:poss</a>]--> X</tt> (1; 100%),
+<tt>X --[<a href="../dep/cc.html">cc</a>]--> X</tt> (1; 100%).
 

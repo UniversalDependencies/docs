@@ -34,7 +34,7 @@ The feature is used with 5 part-of-speech tags: [de-pos/PART]() (984; 0% instanc
 
 8 [de-pos/PROPN]() tokens (0% of all `PROPN` tokens) have a non-empty value of `Polarity`.
 
-The most frequent other feature values with which `PROPN` and `Polarity` co-occurred: <tt><a href="Case.html">Case</a>=EMPTY</tt> (8; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (8; 100%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (8; 100%).
+The most frequent other feature values with which `PROPN` and `Polarity` co-occurred: <tt><a href="Number.html">Number</a>=EMPTY</tt> (8; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (8; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (8; 100%).
 
 `PROPN` tokens may have the following values of `Polarity`:
 
@@ -54,7 +54,7 @@ The most frequent other feature values with which `ADJ` and `Polarity` co-occurr
 
 1 [de-pos/NOUN]() tokens (0% of all `NOUN` tokens) have a non-empty value of `Polarity`.
 
-The most frequent other feature values with which `NOUN` and `Polarity` co-occurred: <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (1; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (1; 100%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (1; 100%).
+The most frequent other feature values with which `NOUN` and `Polarity` co-occurred: <tt><a href="Case.html">Case</a>=EMPTY</tt> (1; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (1; 100%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (1; 100%).
 
 `NOUN` tokens may have the following values of `Polarity`:
 

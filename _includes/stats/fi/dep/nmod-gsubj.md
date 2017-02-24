@@ -100,22 +100,6 @@ The following 5 pairs of parts of speech are connected with `nmod:gsubj`: [fi-po
 
 
 ~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 1 nmod:gsubj	color:blue
-1	Hänen	hän	PRON	Pron,Pers,Sg3,Gen	Case=Gen|Number=Sing|Person=3|PronType=Prs	3	nmod:gsubj	_	Alt=nmod:gsubj
-2	jäihin	jää	NOUN	N,Pl,Ill	Case=Ill|Number=Plur	3	nmod	_	_
-3	vajoamisensa	vajoaminen	NOUN	N,Sg,Nom,Px3	Case=Nom|Number=Sing|Person[psor]=3	4	obj	_	_
-4	nähtiin	nähdä	VERB	V,Pass,Ind,Past	Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	_
-5	rannalta	ranta	NOUN	N,Sg,Abl	Case=Abl|Number=Sing	4	nmod	_	_
-6	.	.	PUNCT	Pun	_	5	punct	_	_
-
-~~~
-
-
-~~~ conllu
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 4	bgColor:blue
@@ -129,6 +113,22 @@ The following 5 pairs of parts of speech are connected with `nmod:gsubj`: [fi-po
 6	kiinni	kiinni	ADV	Adv	_	5	compound:prt	_	_
 7	Itämerestä	itämeri	PROPN	N,Prop,Sg,Ela	Case=Ela|Number=Sing	5	nmod	_	_
 8	.	.	PUNCT	Pun	_	7	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 1 nmod:gsubj	color:blue
+1	Hänen	hän	PRON	Pron,Pers,Sg3,Gen	Case=Gen|Number=Sing|Person=3|PronType=Prs	3	nmod:gsubj	_	Alt=nmod:gsubj
+2	jäihin	jää	NOUN	N,Pl,Ill	Case=Ill|Number=Plur	3	nmod	_	_
+3	vajoamisensa	vajoaminen	NOUN	N,Sg,Nom,Px3	Case=Nom|Number=Sing|Person[psor]=3	4	obj	_	_
+4	nähtiin	nähdä	VERB	V,Pass,Ind,Past	Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	_
+5	rannalta	ranta	NOUN	N,Sg,Abl	Case=Abl|Number=Sing	4	nmod	_	_
+6	.	.	PUNCT	Pun	_	5	punct	_	_
 
 ~~~
 

@@ -30,20 +30,6 @@ The following 3 pairs of parts of speech are connected with `nummod`: [sa-pos/NO
 
 
 ~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 2 nummod	color:blue
-1	तत्र	तत्र	ADV	_	_	4	advmod	_	Translit=tatra|LTranslit=tatra_1|LId=तत्र-१
-2	एकः	एक्	NUM	_	Case=Nom|Gender=Neut|Number=Sing|NumType=Card	4	nummod	_	Translit=ekaḥ|LTranslit=ek
-3	सचिवः	सचिव	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	Translit=sacivaḥ|LTranslit=saciva
-4	प्रोचुः	प्र-वच्	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Translit=procuḥ|LTranslit=pra-vac
-
-~~~
-
-
-~~~ conllu
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 5	bgColor:blue
@@ -65,6 +51,20 @@ The following 3 pairs of parts of speech are connected with `nummod`: [sa-pos/NO
 14	नाम	नाम	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	16	obj	_	Translit=nāma|LTranslit=nāma
 15	त्यागम्	त्याग	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	16	obl	_	Translit=tyāgam|LTranslit=tyāga
 16	करोमि	कृ	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Translit=karomi|LTranslit=kr̥
+
+~~~
+
+
+~~~ conllu
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 2 nummod	color:blue
+1	तत्र	तत्र	ADV	_	_	4	advmod	_	Translit=tatra|LTranslit=tatra_1|LId=तत्र-१
+2	एकः	एक्	NUM	_	Case=Nom|Gender=Neut|Number=Sing|NumType=Card	4	nummod	_	Translit=ekaḥ|LTranslit=ek
+3	सचिवः	सचिव	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	Translit=sacivaḥ|LTranslit=saciva
+4	प्रोचुः	प्र-वच्	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Translit=procuḥ|LTranslit=pra-vac
 
 ~~~
 

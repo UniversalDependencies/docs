@@ -75,7 +75,7 @@ The most frequent other feature values with which `DET` and `Poss` co-occurred: 
 
 645 [cs-pos/ADJ]() tokens (1% of all `ADJ` tokens) have a non-empty value of `Poss`.
 
-The most frequent other feature values with which `ADJ` and `Poss` co-occurred: <tt><a href="Polarity.html">Polarity</a>=EMPTY</tt> (645; 100%), <tt><a href="Degree.html">Degree</a>=EMPTY</tt> (645; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (506; 78%), <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (370; 57%).
+The most frequent other feature values with which `ADJ` and `Poss` co-occurred: <tt><a href="Degree.html">Degree</a>=EMPTY</tt> (645; 100%), <tt><a href="Polarity.html">Polarity</a>=EMPTY</tt> (645; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (506; 78%), <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (370; 57%).
 
 `ADJ` tokens may have the following values of `Poss`:
 
@@ -118,7 +118,7 @@ The most frequent other feature values with which `DET` and `Poss` co-occurred: 
 
 1 [cs-pos/ADJ]() tokens (0% of all `ADJ` tokens) have a non-empty value of `Poss`.
 
-The most frequent other feature values with which `ADJ` and `Poss` co-occurred: <tt><a href="Number.html">Number</a>=Plur</tt> (1; 100%), <tt><a href="Case.html">Case</a>=Nom</tt> (1; 100%), <tt><a href="Animacy.html">Animacy</a>=Anim</tt> (1; 100%), <tt><a href="Degree.html">Degree</a>=EMPTY</tt> (1; 100%), <tt><a href="Polarity.html">Polarity</a>=EMPTY</tt> (1; 100%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (1; 100%).
+The most frequent other feature values with which `ADJ` and `Poss` co-occurred: <tt><a href="Case.html">Case</a>=Nom</tt> (1; 100%), <tt><a href="Animacy.html">Animacy</a>=Anim</tt> (1; 100%), <tt><a href="Degree.html">Degree</a>=EMPTY</tt> (1; 100%), <tt><a href="Polarity.html">Polarity</a>=EMPTY</tt> (1; 100%), <tt><a href="Number.html">Number</a>=Plur</tt> (1; 100%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (1; 100%).
 
 `ADJ` tokens may have the following values of `Poss`:
 

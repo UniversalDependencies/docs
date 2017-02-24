@@ -31,6 +31,30 @@ The following 3 pairs of parts of speech are connected with `aux`: [got-pos/VERB
 
 
 ~~~ conllu
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 9 aux	color:blue
+1	Iohannes	Iohannes	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	ref=JOHN_10.41
+2	gatawida	ga-taujan	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=JOHN_10.41
+3	taikne	taikns	NOUN	Nb	Case=Gen|Gender=Fem|Number=Plur	5	nmod	_	ref=JOHN_10.41
+4	ni	ni	ADV	Df	Polarity=Neg	5	advmod	_	ref=JOHN_10.41
+5	ainohun	ainshun	ADJ	Px	Case=Acc|Gender=Fem|Number=Sing	2	obj:dir	_	ref=JOHN_10.41
+6	iþ	iþ	CCONJ	C-	_	2	cc	_	ref=JOHN_10.41
+7	allata	alls	ADJ	Px	Case=Nom|Gender=Neut|Number=Sing	14	nsubj	_	ref=JOHN_10.41
+8	þatei	saei	PRON	Pr	Case=Acc|Gender=Neut|Number=Sing|PronType=Rel	9	obj:dir	_	ref=JOHN_10.41
+9	qaþ	qiþan	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	7	aux	_	ref=JOHN_10.41
+10	Iohannes	Iohannes	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	9	nsubj	_	ref=JOHN_10.41
+11	bi	bi	ADP	R-	_	12	case	_	ref=JOHN_10.41
+12	þana	sa	ADJ	Pd	Case=Acc|Gender=Masc|Number=Sing	9	obl	_	ref=JOHN_10.41
+13	sunja	sunja	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	14	xcomp	_	ref=JOHN_10.41
+14	was	wisan#1	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	ref=JOHN_10.41
+
+~~~
+
+
+~~~ conllu
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 4	bgColor:blue
@@ -52,30 +76,6 @@ The following 3 pairs of parts of speech are connected with `aux`: [got-pos/VERB
 14	jah	jah	CCONJ	C-	_	13	cc	_	ref=MARK_1.32
 15	unhulþons	unhulþo	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur	16	obj:dir	_	ref=MARK_1.32
 16	habandans	haban	VERB	V-	Case=Acc|Gender=Masc|Number=Plur|Strength=Weak|Tense=Pres|VerbForm=Part|Voice=Act	13	conj	_	ref=MARK_1.32
-
-~~~
-
-
-~~~ conllu
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 7 9 aux	color:blue
-1	Iohannes	Iohannes	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	ref=JOHN_10.41
-2	gatawida	ga-taujan	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=JOHN_10.41
-3	taikne	taikns	NOUN	Nb	Case=Gen|Gender=Fem|Number=Plur	5	nmod	_	ref=JOHN_10.41
-4	ni	ni	ADV	Df	Polarity=Neg	5	advmod	_	ref=JOHN_10.41
-5	ainohun	ainshun	ADJ	Px	Case=Acc|Gender=Fem|Number=Sing	2	obj:dir	_	ref=JOHN_10.41
-6	iþ	iþ	CCONJ	C-	_	2	cc	_	ref=JOHN_10.41
-7	allata	alls	ADJ	Px	Case=Nom|Gender=Neut|Number=Sing	14	nsubj	_	ref=JOHN_10.41
-8	þatei	saei	PRON	Pr	Case=Acc|Gender=Neut|Number=Sing|PronType=Rel	9	obj:dir	_	ref=JOHN_10.41
-9	qaþ	qiþan	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	7	aux	_	ref=JOHN_10.41
-10	Iohannes	Iohannes	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	9	nsubj	_	ref=JOHN_10.41
-11	bi	bi	ADP	R-	_	12	case	_	ref=JOHN_10.41
-12	þana	sa	ADJ	Pd	Case=Acc|Gender=Masc|Number=Sing	9	obl	_	ref=JOHN_10.41
-13	sunja	sunja	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	14	xcomp	_	ref=JOHN_10.41
-14	was	wisan#1	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	ref=JOHN_10.41
 
 ~~~
 

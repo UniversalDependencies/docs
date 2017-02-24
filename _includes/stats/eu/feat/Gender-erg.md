@@ -33,7 +33,7 @@ The most frequent other feature values with which `AUX` and `Gender[erg]` co-occ
 
 3 [eu-pos/VERB]() tokens (0% of all `VERB` tokens) have a non-empty value of `Gender[erg]`.
 
-The most frequent other feature values with which `VERB` and `Gender[erg]` co-occurred: <tt><a href="Person[abs].html">Person[abs]</a>=3</tt> (3; 100%), <tt><a href="Aspect.html">Aspect</a>=Prog</tt> (3; 100%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (3; 100%), <tt><a href="Number[abs].html">Number[abs]</a>=Sing</tt> (3; 100%), <tt><a href="VerbForm.html">VerbForm</a>=EMPTY</tt> (3; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (3; 100%).
+The most frequent other feature values with which `VERB` and `Gender[erg]` co-occurred: <tt><a href="Number[abs].html">Number[abs]</a>=Sing</tt> (3; 100%), <tt><a href="VerbForm.html">VerbForm</a>=EMPTY</tt> (3; 100%), <tt><a href="Person[abs].html">Person[abs]</a>=3</tt> (3; 100%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (3; 100%), <tt><a href="Aspect.html">Aspect</a>=Prog</tt> (3; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (3; 100%).
 
 `VERB` tokens may have the following values of `Gender[erg]`:
 

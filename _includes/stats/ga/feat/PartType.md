@@ -42,7 +42,7 @@ The most frequent other feature values with which `PART` and `PartType` co-occur
 
 14 [ga-pos/NOUN]() tokens (0% of all `NOUN` tokens) have a non-empty value of `PartType`.
 
-The most frequent other feature values with which `NOUN` and `PartType` co-occurred: <tt><a href="Form.html">Form</a>=EMPTY</tt> (14; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (14; 100%), <tt><a href="VerbForm.html">VerbForm</a>=EMPTY</tt> (14; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (14; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (14; 100%), <tt><a href="Definite.html">Definite</a>=EMPTY</tt> (14; 100%).
+The most frequent other feature values with which `NOUN` and `PartType` co-occurred: <tt><a href="Case.html">Case</a>=EMPTY</tt> (14; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (14; 100%), <tt><a href="Form.html">Form</a>=EMPTY</tt> (14; 100%), <tt><a href="VerbForm.html">VerbForm</a>=EMPTY</tt> (14; 100%), <tt><a href="Definite.html">Definite</a>=EMPTY</tt> (14; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (14; 100%).
 
 `NOUN` tokens may have the following values of `PartType`:
 
@@ -52,31 +52,31 @@ The most frequent other feature values with which `NOUN` and `PartType` co-occur
 
 3 [ga-pos/ADJ]() tokens (0% of all `ADJ` tokens) have a non-empty value of `PartType`.
 
-The most frequent other feature values with which `ADJ` and `PartType` co-occurred: <tt><a href="Case.html">Case</a>=EMPTY</tt> (3; 100%), <tt><a href="Degree.html">Degree</a>=EMPTY</tt> (3; 100%), <tt><a href="VerbForm.html">VerbForm</a>=EMPTY</tt> (3; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (2; 67%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (2; 67%).
+The most frequent other feature values with which `ADJ` and `PartType` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=EMPTY</tt> (3; 100%), <tt><a href="Degree.html">Degree</a>=EMPTY</tt> (3; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (3; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (2; 67%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (2; 67%).
 
 `ADJ` tokens may have the following values of `PartType`:
 
 * `Voc` (3; 100% of non-empty `PartType`): <em>fáinneach, ghil, uaisle</em>
 
-### `X`
-
-1 [ga-pos/X]() tokens (1% of all `X` tokens) have a non-empty value of `PartType`.
-
-The most frequent other feature values with which `X` and `PartType` co-occurred: <tt><a href="Dialect.html">Dialect</a>=Ulster</tt> (1; 100%), <tt><a href="PronType.html">PronType</a>=EMPTY</tt> (1; 100%), <tt><a href="Abbr.html">Abbr</a>=EMPTY</tt> (1; 100%).
-
-`X` tokens may have the following values of `PartType`:
-
-* `Vb` (1; 100% of non-empty `PartType`): <em>cha</em>
-
 ### `AUX`
 
 1 [ga-pos/AUX]() tokens (0% of all `AUX` tokens) have a non-empty value of `PartType`.
 
-The most frequent other feature values with which `AUX` and `PartType` co-occurred: <tt><a href="Tense.html">Tense</a>=Past</tt> (1; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Cop</tt> (1; 100%), <tt><a href="PronType.html">PronType</a>=EMPTY</tt> (1; 100%), <tt><a href="Form.html">Form</a>=EMPTY</tt> (1; 100%), <tt><a href="Polarity.html">Polarity</a>=EMPTY</tt> (1; 100%).
+The most frequent other feature values with which `AUX` and `PartType` co-occurred: <tt><a href="Form.html">Form</a>=EMPTY</tt> (1; 100%), <tt><a href="Tense.html">Tense</a>=Past</tt> (1; 100%), <tt><a href="PronType.html">PronType</a>=EMPTY</tt> (1; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Cop</tt> (1; 100%), <tt><a href="Polarity.html">Polarity</a>=EMPTY</tt> (1; 100%).
 
 `AUX` tokens may have the following values of `PartType`:
 
 * `Comp` (1; 100% of non-empty `PartType`): <em>ba</em>
+
+### `X`
+
+1 [ga-pos/X]() tokens (1% of all `X` tokens) have a non-empty value of `PartType`.
+
+The most frequent other feature values with which `X` and `PartType` co-occurred: <tt><a href="Abbr.html">Abbr</a>=EMPTY</tt> (1; 100%), <tt><a href="PronType.html">PronType</a>=EMPTY</tt> (1; 100%), <tt><a href="Dialect.html">Dialect</a>=Ulster</tt> (1; 100%).
+
+`X` tokens may have the following values of `PartType`:
+
+* `Vb` (1; 100% of non-empty `PartType`): <em>cha</em>
 
 ## Relations with Agreement in `PartType`
 

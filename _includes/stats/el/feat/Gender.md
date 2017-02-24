@@ -56,7 +56,7 @@ The most frequent other feature values with which `DET` and `Gender` co-occurred
   <tr><td><tt><a href="Case.html">Case</a>=Dat|<a href="Number.html">Number</a>=Sing</tt></td><td></td><td><em>τη</em></td><td><em>τω</em></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Number.html">Number</a>=Sing</tt></td><td><em>του</em></td><td><em>της, τις</em></td><td><em>του</em></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Number.html">Number</a>=Plur</tt></td><td><em>των</em></td><td><em>των</em></td><td><em>των</em></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Number.html">Number</a>=Sing</tt></td><td><em>ο, το, O</em></td><td><em>η</em></td><td><em>το</em></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Number.html">Number</a>=Sing</tt></td><td><em>ο, O, το</em></td><td><em>η</em></td><td><em>το</em></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Number.html">Number</a>=Plur</tt></td><td><em>οι</em></td><td><em>οι</em></td><td><em>τα</em></td></tr>
 </table>
 
@@ -167,7 +167,7 @@ The most frequent other feature values with which `NUM` and `Gender` co-occurred
 
 101 [el-pos/VERB]() tokens (2% of all `VERB` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `VERB` and `Gender` co-occurred: <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (101; 100%), <tt><a href="Voice.html">Voice</a>=Pass</tt> (101; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (101; 100%), <tt><a href="Aspect.html">Aspect</a>=Perf</tt> (101; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (101; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (101; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (60; 59%).
+The most frequent other feature values with which `VERB` and `Gender` co-occurred: <tt><a href="Aspect.html">Aspect</a>=Perf</tt> (101; 100%), <tt><a href="Voice.html">Voice</a>=Pass</tt> (101; 100%), <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (101; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (101; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (101; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (101; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (60; 59%).
 
 `VERB` tokens may have the following values of `Gender`:
 

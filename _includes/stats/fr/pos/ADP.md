@@ -13,7 +13,7 @@ The 10 most frequent `ADP` types:  <em>de, à, en, d', dans, pour, par, sur, ave
 
 The 10 most frequent ambiguous lemmas: <em>de</em> ([ADP]() 30816, [PROPN]() 24), <em>à</em> ([ADP]() 10398, [NOUN]() 1), <em>en</em> ([ADP]() 5778, [PRON]() 265), <em>pour</em> ([ADP]() 2470, [PROPN]() 1, [NOUN]() 1), <em>sur</em> ([ADP]() 1654, [ADJ]() 2), <em>comme</em> ([ADP]() 622, [SCONJ]() 49, [ADV]() 30), <em>après</em> ([ADP]() 433, [ADV]() 50), <em>depuis</em> ([ADP]() 324, [ADV]() 27), <em>contre</em> ([ADP]() 286, [ADV]() 5, [NOUN]() 2, [INTJ]() 1), <em>sans</em> ([ADP]() 241, [ADV]() 1)
 
-The 10 most frequent ambiguous types:  <em>de</em> ([ADP]() 25926, [DET]() 419, [PROPN]() 24, [ADV]() 1), <em>à</em> ([ADP]() 10089, [AUX]() 2, [NOUN]() 1, [VERB]() 1), <em>en</em> ([ADP]() 5008, [PRON]() 264), <em>d'</em> ([ADP]() 4701, [DET]() 127, [PROPN]() 11), <em>pour</em> ([ADP]() 2296, [PROPN]() 1, [NOUN]() 1), <em>par</em> ([ADP]() 2348, [VERB]() 1), <em>sur</em> ([ADP]() 1611, [ADJ]() 1), <em>comme</em> ([ADP]() 601, [SCONJ]() 39, [ADV]() 26), <em>entre</em> ([ADP]() 421, [VERB]() 27), <em>après</em> ([ADP]() 277, [ADV]() 46)
+The 10 most frequent ambiguous types:  <em>de</em> ([ADP]() 25926, [DET]() 419, [PROPN]() 24, [ADV]() 1), <em>à</em> ([ADP]() 10089, [AUX]() 2, [VERB]() 1, [NOUN]() 1), <em>en</em> ([ADP]() 5008, [PRON]() 264), <em>d'</em> ([ADP]() 4701, [DET]() 127, [PROPN]() 11), <em>pour</em> ([ADP]() 2296, [PROPN]() 1, [NOUN]() 1), <em>par</em> ([ADP]() 2348, [VERB]() 1), <em>sur</em> ([ADP]() 1611, [ADJ]() 1), <em>comme</em> ([ADP]() 601, [SCONJ]() 39, [ADV]() 26), <em>entre</em> ([ADP]() 421, [VERB]() 27), <em>après</em> ([ADP]() 277, [ADV]() 46)
 
 
 * <em>de</em>
@@ -24,8 +24,8 @@ The 10 most frequent ambiguous types:  <em>de</em> ([ADP]() 25926, [DET]() 419, 
 * <em>à</em>
   * [ADP]() 10089: <em>Elle lutte pour échapper <b>à</b> les tueurs <b>à</b> ses trousses .</em>
   * [AUX]() 2: <em>Quel était ce vicomte de Calvignac qui fut en somme le premier fondateur de ce monastère et dont cette statue <b>à</b> conservé le souvenir ?</em>
-  * [NOUN]() 1: <em>Ce toponyme suggère le nom d' un homme germain , Alaman , marquant une origine ethnique , à lequel a été ajouté le suffixe -onem , le a initial pris pour la préposition <b>à</b> ayant disparu par aphérèse .</em>
   * [VERB]() 1: <em>Les entrées sont fraiches et très gouteuses , les plats principaux sont selon moi réchauffé à le micro onde , mais très bon avec ce qu' il faut d' épices ( je précise qu' il n' y <b>à</b> rien de fort )</em>
+  * [NOUN]() 1: <em>Ce toponyme suggère le nom d' un homme germain , Alaman , marquant une origine ethnique , à lequel a été ajouté le suffixe -onem , le a initial pris pour la préposition <b>à</b> ayant disparu par aphérèse .</em>
 * <em>en</em>
   * [ADP]() 5008: <em>Tarzan , l' homme singe , règne <b>en</b> maître sur son domaine , la jungle .</em>
   * [PRON]() 264: <em>On <b>en</b> avait vue une dizaine à le premier contrôle mais pas celle là .</em>
@@ -100,7 +100,7 @@ The 10 most frequent `ADP` lemmas: <em>de, à, en, dans, pour, par, sur, avec, q
 
 The 10 most frequent `ADP` types:  <em>de, à, d', en, dans, pour, par, sur, avec, contre</em>
 
-The 10 most frequent ambiguous lemmas: <em>de</em> ([ADP]() 1530, [DET]() 15, [SCONJ]() 1), <em>en</em> ([ADP]() 224, [PRON]() 11), <em>que</em> ([SCONJ]() 237, [PRON]() 37, [ADP]() 18, [ADV]() 7, [CCONJ]() 5), <em>comme</em> ([ADP]() 16, [SCONJ]() 8), <em>afin</em> ([ADP]() 8, [ADV]() 1), <em>grâce</em> ([ADP]() 1, [NOUN]() 1), <em>lors</em> ([ADV]() 14, [ADP]() 1), <em>si</em> ([SCONJ]() 35, [PRON]() 2, [ADV]() 1, [ADP]() 1)
+The 10 most frequent ambiguous lemmas: <em>de</em> ([ADP]() 1530, [DET]() 15, [SCONJ]() 1), <em>en</em> ([ADP]() 224, [PRON]() 11), <em>que</em> ([SCONJ]() 237, [PRON]() 37, [ADP]() 18, [ADV]() 7, [CCONJ]() 5), <em>comme</em> ([ADP]() 16, [SCONJ]() 8), <em>afin</em> ([ADP]() 8, [ADV]() 1), <em>grâce</em> ([NOUN]() 1, [ADP]() 1), <em>lors</em> ([ADV]() 14, [ADP]() 1), <em>si</em> ([SCONJ]() 35, [PRON]() 2, [ADV]() 1, [ADP]() 1)
 
 The 10 most frequent ambiguous types:  <em>de</em> ([ADP]() 1234, [DET]() 15, [SCONJ]() 1), <em>d'</em> ([ADP]() 293, [DET]() 7), <em>en</em> ([ADP]() 207, [PRON]() 11), <em>comme</em> ([ADP]() 15, [SCONJ]() 3), <em>entre</em> ([ADP]() 14, [VERB]() 1), <em>que</em> ([SCONJ]() 177, [PRON]() 25, [ADP]() 14, [ADV]() 5, [CCONJ]() 2), <em>afin</em> ([ADP]() 7, [ADV]() 1), <em>qu'</em> ([SCONJ]() 60, [PRON]() 14, [ADP]() 4, [CCONJ]() 3, [ADV]() 2), <em>du</em> ([ADP]() 2, [DET]() 1), <em>a</em> ([AUX]() 66, [VERB]() 38, [X]() 2, [ADP]() 1)
 
@@ -191,7 +191,7 @@ The 10 most frequent `ADP` lemmas: <em>de, à, en, pour, dans, par, sur, avec, c
 
 The 10 most frequent `ADP` types:  <em>de, à, d', en, pour, dans, par, sur, avec, chez</em>
 
-The 10 most frequent ambiguous lemmas: <em>en</em> ([ADP]() 606, [PRON]() 43, [NOUN]() 4, [X]() 3), <em>après</em> ([ADP]() 101, [ADV]() 1), <em>/</em> ([ADP]() 71, [PUNCT]() 17), <em>avant</em> ([ADP]() 65, [NOUN]() 2, [ADJ]() 1, [ADV]() 1), <em>comme</em> ([ADP]() 59, [SCONJ]() 30, [ADV]() 2), <em>contre</em> ([ADP]() 36, [ADV]() 1), <em>depuis</em> ([ADP]() 23, [ADV]() 3), <em>près</em> ([ADP]() 16, [ADV]() 3), <em><</em> ([VERB]() 7, [ADP]() 6), <em>plus</em> ([ADV]() 150, [ADP]() 6)
+The 10 most frequent ambiguous lemmas: <em>en</em> ([ADP]() 606, [PRON]() 43, [NOUN]() 4, [X]() 3), <em>après</em> ([ADP]() 101, [ADV]() 1), <em>/</em> ([ADP]() 71, [PUNCT]() 17), <em>avant</em> ([ADP]() 65, [NOUN]() 2, [ADV]() 1, [ADJ]() 1), <em>comme</em> ([ADP]() 59, [SCONJ]() 30, [ADV]() 2), <em>contre</em> ([ADP]() 36, [ADV]() 1), <em>depuis</em> ([ADP]() 23, [ADV]() 3), <em>près</em> ([ADP]() 16, [ADV]() 3), <em><</em> ([VERB]() 7, [ADP]() 6), <em>plus</em> ([ADV]() 150, [ADP]() 6)
 
 The 10 most frequent ambiguous types:  <em>de</em> ([ADP]() 3991, [DET]() 55), <em>d'</em> ([ADP]() 878, [DET]() 43), <em>en</em> ([ADP]() 535, [PRON]() 40, [NOUN]() 4, [X]() 3), <em>après</em> ([ADP]() 82, [ADV]() 1), <em>/</em> ([ADP]() 71, [PUNCT]() 17, [CCONJ]() 6), <em>avant</em> ([ADP]() 58, [NOUN]() 2, [ADJ]() 1, [ADV]() 1), <em>comme</em> ([ADP]() 55, [SCONJ]() 25, [ADV]() 2), <em>contre</em> ([ADP]() 33, [ADV]() 1), <em>devant</em> ([ADP]() 17, [AUX]() 4), <em>près</em> ([ADP]() 15, [ADV]() 3)
 

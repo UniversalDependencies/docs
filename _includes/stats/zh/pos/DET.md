@@ -11,7 +11,7 @@ The 10 most frequent `DET` lemmas: 這、 該、 這些、 其他、 此、 所�
 
 The 10 most frequent `DET` types:  這、 該、 這些、 其他、 此、 所有、 各、 另、 每、 任何
 
-The 10 most frequent ambiguous lemmas: 這 ([DET]() 284, [PRON]() 71), 這些 ([DET]() 75, [PRON]() 1), 此 ([PRON]() 120, [DET]() 57, [ADP]() 1), 所有 ([DET]() 51, [VERB]() 2), 各 ([DET]() 40, [ADV]() 1), 另 ([DET]() 31, [ADV]() 2), 每 ([DET]() 26, [ADV]() 6), 整個 ([DET]() 23, [NOUN]() 1), 全 ([DET]() 22, [ADV]() 3, [PROPN]() 1), 同 ([DET]() 20, [ADP]() 11, [PART]() 2, [NOUN]() 1, [ADV]() 1, [CCONJ]() 1)
+The 10 most frequent ambiguous lemmas: 這 ([DET]() 284, [PRON]() 71), 這些 ([DET]() 75, [PRON]() 1), 此 ([PRON]() 120, [DET]() 57, [ADP]() 1), 所有 ([DET]() 51, [VERB]() 2), 各 ([DET]() 40, [ADV]() 1), 另 ([DET]() 31, [ADV]() 2), 每 ([DET]() 26, [ADV]() 6), 整個 ([DET]() 23, [NOUN]() 1), 全 ([DET]() 22, [ADV]() 3, [PROPN]() 1), 同 ([DET]() 20, [ADP]() 11, [PART]() 2, [CCONJ]() 1, [ADV]() 1, [NOUN]() 1)
 
 The 10 most frequent ambiguous types:  這 ([DET]() 284, [PRON]() 71), 這些 ([DET]() 75, [PRON]() 1), 此 ([PRON]() 120, [DET]() 57, [ADP]() 1), 所有 ([DET]() 51, [VERB]() 2), 各 ([DET]() 40, [ADV]() 1), 另 ([DET]() 31, [ADV]() 2), 每 ([DET]() 26, [ADV]() 6), 整個 ([DET]() 23, [NOUN]() 1), 全 ([DET]() 22, [ADV]() 3, [PROPN]() 1), 同 ([DET]() 20, [ADP]() 11, [PART]() 2, [ADV]() 1, [NOUN]() 1, [CCONJ]() 1)
 

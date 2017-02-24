@@ -38,7 +38,7 @@ The most frequent other feature values with which `X` and `Foreign` co-occurred:
 
 24 [ro-pos/NOUN]() tokens (0% of all `NOUN` tokens) have a non-empty value of `Foreign`.
 
-The most frequent other feature values with which `NOUN` and `Foreign` co-occurred: <tt><a href="Case.html">Case</a>=EMPTY</tt> (23; 96%), <tt><a href="Definite.html">Definite</a>=Ind</tt> (21; 88%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (21; 88%), <tt><a href="Number.html">Number</a>=Sing</tt> (20; 83%).
+The most frequent other feature values with which `NOUN` and `Foreign` co-occurred: <tt><a href="Case.html">Case</a>=EMPTY</tt> (23; 96%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (21; 88%), <tt><a href="Definite.html">Definite</a>=Ind</tt> (21; 88%), <tt><a href="Number.html">Number</a>=Sing</tt> (20; 83%).
 
 `NOUN` tokens may have the following values of `Foreign`:
 
@@ -50,41 +50,11 @@ The most frequent other feature values with which `NOUN` and `Foreign` co-occurr
 
 4 [ro-pos/ADJ]() tokens (0% of all `ADJ` tokens) have a non-empty value of `Foreign`.
 
-The most frequent other feature values with which `ADJ` and `Foreign` co-occurred: <tt><a href="Degree.html">Degree</a>=Pos</tt> (4; 100%), <tt><a href="Definite.html">Definite</a>=Ind</tt> (3; 75%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (3; 75%), <tt><a href="Number.html">Number</a>=Sing</tt> (3; 75%).
+The most frequent other feature values with which `ADJ` and `Foreign` co-occurred: <tt><a href="Degree.html">Degree</a>=Pos</tt> (4; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (3; 75%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (3; 75%), <tt><a href="Definite.html">Definite</a>=Ind</tt> (3; 75%).
 
 `ADJ` tokens may have the following values of `Foreign`:
 
 * `Yes` (4; 100% of non-empty `Foreign`): <em>Dance, Felin, Industrial, poetica</em>
-
-### `VERB`
-
-1 [ro-pos/VERB]() tokens (0% of all `VERB` tokens) have a non-empty value of `Foreign`.
-
-The most frequent other feature values with which `VERB` and `Foreign` co-occurred: <tt><a href="Tense.html">Tense</a>=Pres</tt> (1; 100%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (1; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Inf</tt> (1; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (1; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (1; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (1; 100%).
-
-`VERB` tokens may have the following values of `Foreign`:
-
-* `Yes` (1; 100% of non-empty `Foreign`): <em>Face</em>
-
-### `DET`
-
-1 [ro-pos/DET]() tokens (0% of all `DET` tokens) have a non-empty value of `Foreign`.
-
-The most frequent other feature values with which `DET` and `Foreign` co-occurred: <tt><a href="Poss.html">Poss</a>=Yes</tt> (1; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (1; 100%), <tt><a href="Position.html">Position</a>=EMPTY</tt> (1; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (1; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (1; 100%), <tt><a href="PronType.html">PronType</a>=Prs</tt> (1; 100%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (1; 100%).
-
-`DET` tokens may have the following values of `Foreign`:
-
-* `Yes` (1; 100% of non-empty `Foreign`): <em>al</em>
-
-### `NUM`
-
-1 [ro-pos/NUM]() tokens (0% of all `NUM` tokens) have a non-empty value of `Foreign`.
-
-The most frequent other feature values with which `NUM` and `Foreign` co-occurred: <tt><a href="NumForm.html">NumForm</a>=Roman</tt> (1; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (1; 100%), <tt><a href="NumType.html">NumType</a>=Ord</tt> (1; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (1; 100%).
-
-`NUM` tokens may have the following values of `Foreign`:
-
-* `Yes` (1; 100% of non-empty `Foreign`): <em>II</em>
 
 ### `ADP`
 
@@ -95,4 +65,34 @@ The most frequent other feature values with which `ADP` and `Foreign` co-occurre
 `ADP` tokens may have the following values of `Foreign`:
 
 * `Yes` (1; 100% of non-empty `Foreign`): <em>de</em>
+
+### `DET`
+
+1 [ro-pos/DET]() tokens (0% of all `DET` tokens) have a non-empty value of `Foreign`.
+
+The most frequent other feature values with which `DET` and `Foreign` co-occurred: <tt><a href="Position.html">Position</a>=EMPTY</tt> (1; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (1; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (1; 100%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (1; 100%), <tt><a href="Poss.html">Poss</a>=Yes</tt> (1; 100%), <tt><a href="PronType.html">PronType</a>=Prs</tt> (1; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (1; 100%).
+
+`DET` tokens may have the following values of `Foreign`:
+
+* `Yes` (1; 100% of non-empty `Foreign`): <em>al</em>
+
+### `VERB`
+
+1 [ro-pos/VERB]() tokens (0% of all `VERB` tokens) have a non-empty value of `Foreign`.
+
+The most frequent other feature values with which `VERB` and `Foreign` co-occurred: <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (1; 100%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (1; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (1; 100%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (1; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Inf</tt> (1; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (1; 100%).
+
+`VERB` tokens may have the following values of `Foreign`:
+
+* `Yes` (1; 100% of non-empty `Foreign`): <em>Face</em>
+
+### `NUM`
+
+1 [ro-pos/NUM]() tokens (0% of all `NUM` tokens) have a non-empty value of `Foreign`.
+
+The most frequent other feature values with which `NUM` and `Foreign` co-occurred: <tt><a href="NumForm.html">NumForm</a>=Roman</tt> (1; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (1; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (1; 100%), <tt><a href="NumType.html">NumType</a>=Ord</tt> (1; 100%).
+
+`NUM` tokens may have the following values of `Foreign`:
+
+* `Yes` (1; 100% of non-empty `Foreign`): <em>II</em>
 

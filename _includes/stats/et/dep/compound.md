@@ -51,20 +51,16 @@ The following 4 pairs of parts of speech are connected with `compound`: [et-pos/
 
 
 ~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 6 compound	color:blue
-1	Vastaskaldal	vastas-kallas	NOUN	S	Case=Ade|Number=Sing	2	obl	_	_
-2	mustendava	mustenda=v	ADJ	A	Case=Gen|Degree=Pos|Number=Sing|VerbForm=Part|Voice=Act	3	amod	_	_
-3	metsa	mets	NOUN	S	Case=Gen|Number=Sing	5	obl	_	_
-4	kohale	kohale	ADP	K	AdpType=Post	3	case	_	_
-5	oli	ole	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin|Voice=Act	0	root	_	_
-6	tõusnud	tõus	VERB	V	Tense=Past|VerbForm=Part|Voice=Act	5	compound	_	_
-7	hiigelsuur	hiigel-suur	ADJ	A	Case=Nom|Degree=Pos|Number=Sing	8	amod	_	_
-8	kuuketas	kuu-ketas	NOUN	S	Case=Nom|Number=Sing	5	nsubj	_	SpaceAfter=No
-9	.	.	PUNCT	Z	_	5	punct	_	_
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 2 compound	color:blue
+1	Temast	tema	PRON	P	Case=Ela|Number=Sing|Person=3|PronType=Prs	3	obl	_	_
+2	oli	ole	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin|Voice=Act	3	compound	_	_
+3	tilkunud	tilku	VERB	V	Tense=Past|VerbForm=Part|Voice=Act	0	root	_	_
+4	verd	veri	NOUN	S	Case=Par|Number=Sing	3	nsubj	_	SpaceAfter=No
+5	.	.	PUNCT	Z	_	3	punct	_	_
 
 ~~~
 

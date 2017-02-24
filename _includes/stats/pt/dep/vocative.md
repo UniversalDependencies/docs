@@ -38,6 +38,22 @@ The following 5 pairs of parts of speech are connected with `vocative`: [pt-pos/
 ~~~ conllu
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 1 vocative	color:blue
+1	Gente	gente	NOUN	<np-idf>|N|F|S|@VOK	Gender=Fem|Number=Sing	5	vocative	_	SpaceAfter=No
+2	,	,	PUNCT	PU|@PU	_	1	punct	_	_
+3	é	ser	AUX	<mv>|V|PR|3S|IND|@FS-EXC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+4	cada	cada	DET	<quant>|DET|M|S|@>N	Gender=Masc|Number=Sing|PronType=Tot	5	det	_	_
+5	piranhão	piranhão	NOUN	<np-def>|N|M|S|@<SC	Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+6	!	!	PUNCT	PU|@PU	_	5	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 1 vocative	color:blue
@@ -52,22 +68,6 @@ The following 5 pairs of parts of speech are connected with `vocative`: [pt-pos/
 9	fazer	fazer	VERB	<mv>|V|INF|@ICL-<ACC	VerbForm=Inf	7	xcomp	_	_
 10	nada	nada	PRON	<quant>|INDP|M|S|@<ACC	Gender=Masc|Number=Sing|PronType=Ind	9	obj	_	SpaceAfter=No
 11	.	.	PUNCT	PU|@PU	_	3	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 1 vocative	color:blue
-1	Gente	gente	NOUN	<np-idf>|N|F|S|@VOK	Gender=Fem|Number=Sing	5	vocative	_	SpaceAfter=No
-2	,	,	PUNCT	PU|@PU	_	1	punct	_	_
-3	é	ser	AUX	<mv>|V|PR|3S|IND|@FS-EXC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
-4	cada	cada	DET	<quant>|DET|M|S|@>N	Gender=Masc|Number=Sing|PronType=Tot	5	det	_	_
-5	piranhão	piranhão	NOUN	<np-def>|N|M|S|@<SC	Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
-6	!	!	PUNCT	PU|@PU	_	5	punct	_	_
 
 ~~~
 

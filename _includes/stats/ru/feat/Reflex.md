@@ -27,7 +27,7 @@ The most frequent other feature values with which `DET` and `Reflex` co-occurred
 
 76 [ru-pos/PRON]() tokens (4% of all `PRON` tokens) have a non-empty value of `Reflex`.
 
-The most frequent other feature values with which `PRON` and `Reflex` co-occurred: <tt><a href="Number.html">Number</a>=EMPTY</tt> (76; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (76; 100%), <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (76; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (76; 100%).
+The most frequent other feature values with which `PRON` and `Reflex` co-occurred: <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (76; 100%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (76; 100%), <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (76; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (76; 100%).
 
 `PRON` tokens may have the following values of `Reflex`:
 

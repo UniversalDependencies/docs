@@ -13,7 +13,7 @@ The 10 most frequent `VERB` types:  <em>have, get, know, is, had, do, go, said, 
 
 The 10 most frequent ambiguous lemmas: <em>have</em> ([VERB]() 1501, [AUX]() 1406), <em>be</em> ([AUX]() 7716, [VERB]() 876, [NOUN]() 2, [X]() 1), <em>get</em> ([VERB]() 668, [AUX]() 39), <em>go</em> ([VERB]() 667, [NOUN]() 3, [PROPN]() 1), <em>do</em> ([AUX]() 1019, [VERB]() 618, [NOUN]() 2, [PROPN]() 1), <em>say</em> ([VERB]() 506, [INTJ]() 4), <em>know</em> ([VERB]() 484, [NOUN]() 1, [ADV]() 1), <em>take</em> ([VERB]() 440, [NOUN]() 7), <em>see</em> ([VERB]() 336, [NOUN]() 1), <em>use</em> ([VERB]() 304, [NOUN]() 23, [ADJ]() 1, [PRON]() 1)
 
-The 10 most frequent ambiguous types:  <em>have</em> ([VERB]() 844, [AUX]() 647), <em>get</em> ([VERB]() 418, [AUX]() 20), <em>know</em> ([VERB]() 391, [NOUN]() 1, [ADV]() 1), <em>is</em> ([AUX]() 2127, [VERB]() 346, [ADV]() 1, [PRON]() 1), <em>had</em> ([VERB]() 357, [AUX]() 164), <em>do</em> ([AUX]() 516, [VERB]() 309, [NOUN]() 2, [ADP]() 1, [PROPN]() 1), <em>go</em> ([VERB]() 287, [NOUN]() 3, [PROPN]() 1), <em>see</em> ([VERB]() 209, [NOUN]() 1), <em>going</em> ([VERB]() 216, [ADJ]() 1), <em>take</em> ([VERB]() 201, [NOUN]() 7)
+The 10 most frequent ambiguous types:  <em>have</em> ([VERB]() 844, [AUX]() 647), <em>get</em> ([VERB]() 418, [AUX]() 20), <em>know</em> ([VERB]() 391, [NOUN]() 1, [ADV]() 1), <em>is</em> ([AUX]() 2127, [VERB]() 346, [ADV]() 1, [PRON]() 1), <em>had</em> ([VERB]() 357, [AUX]() 164), <em>do</em> ([AUX]() 516, [VERB]() 309, [NOUN]() 2, [PROPN]() 1, [ADP]() 1), <em>go</em> ([VERB]() 287, [NOUN]() 3, [PROPN]() 1), <em>see</em> ([VERB]() 209, [NOUN]() 1), <em>going</em> ([VERB]() 216, [ADJ]() 1), <em>take</em> ([VERB]() 201, [NOUN]() 7)
 
 
 * <em>have</em>
@@ -38,8 +38,8 @@ The 10 most frequent ambiguous types:  <em>have</em> ([VERB]() 844, [AUX]() 647)
   * [AUX]() 516: <em>And what <b>do</b> we get for this effort ?</em>
   * [VERB]() 309: <em>My life is too complicated right now trying to <b>do</b> my job .</em>
   * [NOUN]() 2: <em>We arrived Sunday at about 230 and found a <b>do</b> we really liked .</em>
-  * [ADP]() 1: <em>Unfortunately , <b>do</b> to Mr. Lay 's schedule he will not be able to participate .</em>
   * [PROPN]() 1: <em>The nearest towns to the site are Puerto Iguazu in Argentina , about 12 miles from the falls , and Foz <b>do</b> Iguaçu in Brazil , which is equally close .</em>
+  * [ADP]() 1: <em>Unfortunately , <b>do</b> to Mr. Lay 's schedule he will not be able to participate .</em>
 * <em>go</em>
   * [VERB]() 287: <em>i have to <b>go</b> to butt - fucking mississippi .</em>
   * [NOUN]() 3: <em>They phoned the same day , confirmed it was the gearbox quoted me the job , I gave the <b>go</b> ahead .</em>
@@ -250,7 +250,7 @@ The 10 most frequent `VERB` lemmas: <em>have, be, make, include, take, write, us
 
 The 10 most frequent `VERB` types:  <em>have, is, like, make, has, made, wrote, including, based, take</em>
 
-The 10 most frequent ambiguous lemmas: <em>have</em> ([AUX]() 248, [VERB]() 89), <em>be</em> ([AUX]() 1018, [VERB]() 76), <em>use</em> ([VERB]() 41, [NOUN]() 17), <em>like</em> ([VERB]() 38, [ADP]() 24, [ADJ]() 1, [SCONJ]() 1), <em>do</em> ([AUX]() 52, [VERB]() 33), <em>need</em> ([VERB]() 29, [NOUN]() 10), <em>say</em> ([VERB]() 25, [NOUN]() 2), <em>find</em> ([VERB]() 22, [NOUN]() 1), <em>lead</em> ([VERB]() 22, [NOUN]() 2), <em>help</em> ([VERB]() 19, [NOUN]() 2)
+The 10 most frequent ambiguous lemmas: <em>have</em> ([AUX]() 248, [VERB]() 89), <em>be</em> ([AUX]() 1018, [VERB]() 76), <em>use</em> ([VERB]() 41, [NOUN]() 17), <em>like</em> ([VERB]() 38, [ADP]() 24, [SCONJ]() 1, [ADJ]() 1), <em>do</em> ([AUX]() 52, [VERB]() 33), <em>need</em> ([VERB]() 29, [NOUN]() 10), <em>say</em> ([VERB]() 25, [NOUN]() 2), <em>find</em> ([VERB]() 22, [NOUN]() 1), <em>lead</em> ([VERB]() 22, [NOUN]() 2), <em>help</em> ([VERB]() 19, [NOUN]() 2)
 
 The 10 most frequent ambiguous types:  <em>have</em> ([AUX]() 106, [VERB]() 39), <em>is</em> ([AUX]() 320, [VERB]() 38), <em>like</em> ([VERB]() 34, [ADP]() 21, [ADJ]() 1, [SCONJ]() 1), <em>has</em> ([AUX]() 94, [VERB]() 29), <em>had</em> ([AUX]() 41, [VERB]() 16), <em>need</em> ([VERB]() 16, [NOUN]() 7), <em>set</em> ([VERB]() 13, [NOUN]() 5, [ADJ]() 2), <em>use</em> ([NOUN]() 15, [VERB]() 14), <em>do</em> ([AUX]() 26, [VERB]() 13), <em>are</em> ([AUX]() 163, [VERB]() 12)
 

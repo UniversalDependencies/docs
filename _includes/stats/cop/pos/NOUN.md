@@ -4,7 +4,7 @@
 
 ## Treebank Statistics (UD_Coptic)
 
-There are 440 `NOUN` lemmas (44%), 452 `NOUN` types (39%) and 1158 `NOUN` tokens (14%).
+There are 440 `NOUN` lemmas (44%), 452 `NOUN` types (39%) and 1159 `NOUN` tokens (14%).
 Out of 14 observed tags, the rank of `NOUN` is: 1 in number of lemmas, 1 in number of types and 3 in number of tokens.
 
 The 10 most frequent `NOUN` lemmas: ϩⲉ, ⲣⲱⲙⲉ, ⲏⲓ, ⲙⲁ, ⲩⲛⲟⲩ, ⲛⲟⲩⲧⲉ, ϣⲁϫⲉ, ⲙⲏⲏϣⲉ, ϣⲏⲣⲉ, ⲛⲟϭ
@@ -62,21 +62,21 @@ The 3rd highest number of forms (2) was observed with the lemma “ϩⲟⲓⲛ�
 
 ## Relations
 
-`NOUN` nodes are attached to their parents using 20 different relations: [cop-dep/obl]() (369; 32% instances), [cop-dep/nmod]() (227; 20% instances), [cop-dep/obj]() (151; 13% instances), [cop-dep/nsubj]() (119; 10% instances), [cop-dep/conj]() (97; 8% instances), [cop-dep/dislocated]() (70; 6% instances), [cop-dep/root]() (32; 3% instances), [cop-dep/appos]() (30; 3% instances), [cop-dep/acl]() (10; 1% instances), [cop-dep/advmod]() (10; 1% instances), [cop-dep/vocative]() (10; 1% instances), [cop-dep/ccomp]() (9; 1% instances), [cop-dep/advcl]() (8; 1% instances), [cop-dep/amod]() (6; 1% instances), [cop-dep/parataxis]() (5; 0% instances), [cop-dep/aux]() (1; 0% instances), [cop-dep/csubj]() (1; 0% instances), [cop-dep/fixed]() (1; 0% instances), [cop-dep/iobj]() (1; 0% instances), [cop-dep/orphan]() (1; 0% instances)
+`NOUN` nodes are attached to their parents using 20 different relations: [cop-dep/obl]() (369; 32% instances), [cop-dep/nmod]() (227; 20% instances), [cop-dep/obj]() (152; 13% instances), [cop-dep/nsubj]() (119; 10% instances), [cop-dep/conj]() (97; 8% instances), [cop-dep/dislocated]() (70; 6% instances), [cop-dep/root]() (32; 3% instances), [cop-dep/appos]() (30; 3% instances), [cop-dep/acl]() (10; 1% instances), [cop-dep/advmod]() (10; 1% instances), [cop-dep/vocative]() (10; 1% instances), [cop-dep/ccomp]() (9; 1% instances), [cop-dep/advcl]() (8; 1% instances), [cop-dep/amod]() (6; 1% instances), [cop-dep/parataxis]() (5; 0% instances), [cop-dep/aux]() (1; 0% instances), [cop-dep/csubj]() (1; 0% instances), [cop-dep/fixed]() (1; 0% instances), [cop-dep/iobj]() (1; 0% instances), [cop-dep/orphan]() (1; 0% instances)
 
-Parents of `NOUN` nodes belong to 9 different parts of speech: [VERB]() (730; 63% instances), [NOUN]() (314; 27% instances), [ROOT]() (32; 3% instances), [PRON]() (30; 3% instances), [DET]() (20; 2% instances), [PROPN]() (20; 2% instances), [NUM]() (8; 1% instances), [ADV]() (2; 0% instances), [PART]() (2; 0% instances)
+Parents of `NOUN` nodes belong to 9 different parts of speech: [VERB]() (731; 63% instances), [NOUN]() (314; 27% instances), [ROOT]() (32; 3% instances), [PRON]() (30; 3% instances), [DET]() (20; 2% instances), [PROPN]() (20; 2% instances), [NUM]() (8; 1% instances), [ADV]() (2; 0% instances), [PART]() (2; 0% instances)
 
 56 (5%) `NOUN` nodes are leaves.
 
-301 (26%) `NOUN` nodes have one child.
+302 (26%) `NOUN` nodes have one child.
 
-452 (39%) `NOUN` nodes have two children.
+453 (39%) `NOUN` nodes have two children.
 
-349 (30%) `NOUN` nodes have three or more children.
+348 (30%) `NOUN` nodes have three or more children.
 
 The highest child degree of a `NOUN` node is 10.
 
-Children of `NOUN` nodes are attached using 26 different relations: [cop-dep/det]() (906; 37% instances), [cop-dep/case]() (732; 30% instances), [cop-dep/nmod]() (252; 10% instances), [cop-dep/acl]() (100; 4% instances), [cop-dep/cc]() (98; 4% instances), [cop-dep/conj]() (96; 4% instances), [cop-dep/advmod]() (61; 2% instances), [cop-dep/punct]() (41; 2% instances), [cop-dep/mark]() (39; 2% instances), [cop-dep/nsubj]() (22; 1% instances), [cop-dep/advcl]() (21; 1% instances), [cop-dep/appos]() (16; 1% instances), [cop-dep/cop]() (15; 1% instances), [cop-dep/aux]() (8; 0% instances), [cop-dep/amod]() (6; 0% instances), [cop-dep/parataxis]() (6; 0% instances), [cop-dep/xcomp]() (6; 0% instances), [cop-dep/nummod]() (5; 0% instances), [cop-dep/ccomp]() (4; 0% instances), [cop-dep/dislocated]() (4; 0% instances), [cop-dep/flat]() (4; 0% instances), [cop-dep/csubj]() (3; 0% instances), [cop-dep/obj]() (2; 0% instances), [cop-dep/orphan]() (2; 0% instances), [cop-dep/discourse]() (1; 0% instances), [cop-dep/vocative]() (1; 0% instances)
+Children of `NOUN` nodes are attached using 26 different relations: [cop-dep/det]() (907; 37% instances), [cop-dep/case]() (732; 30% instances), [cop-dep/nmod]() (252; 10% instances), [cop-dep/acl]() (100; 4% instances), [cop-dep/cc]() (98; 4% instances), [cop-dep/conj]() (96; 4% instances), [cop-dep/advmod]() (61; 2% instances), [cop-dep/punct]() (41; 2% instances), [cop-dep/mark]() (39; 2% instances), [cop-dep/advcl]() (21; 1% instances), [cop-dep/nsubj]() (21; 1% instances), [cop-dep/appos]() (16; 1% instances), [cop-dep/cop]() (15; 1% instances), [cop-dep/aux]() (8; 0% instances), [cop-dep/amod]() (6; 0% instances), [cop-dep/parataxis]() (6; 0% instances), [cop-dep/xcomp]() (6; 0% instances), [cop-dep/nummod]() (5; 0% instances), [cop-dep/ccomp]() (4; 0% instances), [cop-dep/dislocated]() (4; 0% instances), [cop-dep/flat]() (4; 0% instances), [cop-dep/csubj]() (3; 0% instances), [cop-dep/obj]() (2; 0% instances), [cop-dep/orphan]() (2; 0% instances), [cop-dep/discourse]() (1; 0% instances), [cop-dep/vocative]() (1; 0% instances)
 
 Children of `NOUN` nodes belong to 13 different parts of speech: [DET]() (884; 36% instances), [ADP]() (753; 31% instances), [NOUN]() (314; 13% instances), [VERB]() (124; 5% instances), [PRON]() (101; 4% instances), [ADV]() (70; 3% instances), [CCONJ]() (55; 2% instances), [PART]() (41; 2% instances), [PUNCT]() (41; 2% instances), [PROPN]() (31; 1% instances), [SCONJ]() (17; 1% instances), [AUX]() (13; 1% instances), [NUM]() (7; 0% instances)
 

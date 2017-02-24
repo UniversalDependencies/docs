@@ -11,9 +11,9 @@ The 10 most frequent `X` lemmas: <em>baino, de, ohi, ea, del, ezta, gehi, la, La
 
 The 10 most frequent `X` types:  <em>baino, de, ohi, ea, del, ezta, gehi, la, El, Enfin</em>
 
-The 10 most frequent ambiguous lemmas: <em>baino</em> ([X]() 67, [CCONJ]() 4), <em>ohi</em> ([ADJ]() 36, [X]() 8), <em>ea</em> ([X]() 7, [INTJ]() 2), <em>ezta</em> ([X]() 3, [CCONJ]() 3), <em>gehi</em> ([NOUN]() 4, [X]() 2), <em>la</em> ([X]() 2, [NOUN]() 2), <em>Las</em> ([PROPN]() 2, [X]() 1)
+The 10 most frequent ambiguous lemmas: <em>baino</em> ([X]() 67, [CCONJ]() 4), <em>ohi</em> ([ADJ]() 36, [X]() 8), <em>ea</em> ([X]() 7, [INTJ]() 2), <em>ezta</em> ([CCONJ]() 3, [X]() 3), <em>gehi</em> ([NOUN]() 4, [X]() 2), <em>la</em> ([X]() 2, [NOUN]() 2), <em>Las</em> ([PROPN]() 2, [X]() 1)
 
-The 10 most frequent ambiguous types:  <em>baino</em> ([X]() 67, [CCONJ]() 4), <em>ohi</em> ([X]() 7, [ADJ]() 6), <em>ea</em> ([X]() 7, [INTJ]() 2, [CCONJ]() 1), <em>ezta</em> ([CCONJ]() 3, [X]() 3), <em>la</em> ([X]() 2, [NOUN]() 1), <em>El</em> ([PROPN]() 6, [X]() 1), <em>Las</em> ([PROPN]() 2, [X]() 1)
+The 10 most frequent ambiguous types:  <em>baino</em> ([X]() 67, [CCONJ]() 4), <em>ohi</em> ([X]() 7, [ADJ]() 6), <em>ea</em> ([X]() 7, [INTJ]() 2, [CCONJ]() 1), <em>ezta</em> ([X]() 3, [CCONJ]() 3), <em>la</em> ([X]() 2, [NOUN]() 1), <em>El</em> ([PROPN]() 6, [X]() 1), <em>Las</em> ([PROPN]() 2, [X]() 1)
 
 
 * <em>baino</em>
@@ -27,8 +27,8 @@ The 10 most frequent ambiguous types:  <em>baino</em> ([X]() 67, [CCONJ]() 4), <
   * [INTJ]() 2: <em>- Piztu zinta , <b>ea</b> zer gertatu den bigarren saioan .</em>
   * [CCONJ]() 1: <em>Mutriku , Portugalete , Lutxana-Deustu eta Zierbena aterako dira lehenengo txandan ; Ondarroa , Santurtzi , Santander <b>ea</b> Algorta bigarrengoan eta Isuntza , Arkote , Castro eta Urdaibai hirugarrengoan .</em>
 * <em>ezta</em>
-  * [CCONJ]() 3: <em>Nirvana budistarik ez du inork eraiki munduan , <b>ezta</b> utopia komunistarik .</em>
   * [X]() 3: <em>Ezin da gehiago eskatu , <b>ezta</b> ?</em>
+  * [CCONJ]() 3: <em>Nirvana budistarik ez du inork eraiki munduan , <b>ezta</b> utopia komunistarik .</em>
 * <em>la</em>
   * [X]() 2: <em>Ivan de <b>la</b> Peña Bartzelonarekin entrenatzen ari da jada .</em>
   * [NOUN]() 1: <em>Urte haietan Carabanchel , Alcala , Herrera de <b>la</b> Mancha , Daroca , Malaga eta Valladolideko kartzeletan izan zen .</em>

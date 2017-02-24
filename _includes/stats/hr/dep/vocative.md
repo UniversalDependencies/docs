@@ -37,6 +37,27 @@ The following 9 pairs of parts of speech are connected with `vocative`: [hr-pos/
 
 
 ~~~ conllu
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 2 vocative	color:blue
+1	Najdraži	drag	ADJ	_	Case=Nom|Definite=Def|Degree=Sup|Gender=Masc|Number=Plur	2	amod	_	_
+2	moji	moj	ADJ	_	Case=Nom|Definite=Def|Degree=Pos|Gender=Masc|Number=Plur|Poss=Yes	7	vocative	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	2	punct	_	_
+4	danas	danas	ADV	_	Degree=Pos	7	advmod	_	_
+5	mi	ja	PRON	_	Case=Dat|Number=Sing|Person=1|PronType=Prs	7	iobj	_	_
+6	se	sebe	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	7	obj	_	_
+7	javila	javiti	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	_
+8	čitateljica	čitateljica	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	7	nsubj	_	_
+9	iz	iz	ADP	_	Case=Gen	10	case	_	_
+10	Melburnea	Melburne	PROPN	_	Case=Gen|Gender=Masc|Number=Sing	8	nmod	_	SpaceAfter=No
+11	.	.	PUNCT	_	_	7	punct	_	_
+
+~~~
+
+
+~~~ conllu
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 6	bgColor:blue
@@ -60,27 +81,6 @@ The following 9 pairs of parts of speech are connected with `vocative`: [hr-pos/
 16	neovisnosti	neovisnost	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	15	nmod	_	_
 17	Kosova	Kosovo	PROPN	_	Case=Gen|Gender=Neut|Number=Sing	16	nmod	_	SpaceAfter=No
 18	?	?	PUNCT	_	_	8	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 7 2 vocative	color:blue
-1	Najdraži	drag	ADJ	_	Case=Nom|Definite=Def|Degree=Sup|Gender=Masc|Number=Plur	2	amod	_	_
-2	moji	moj	ADJ	_	Case=Nom|Definite=Def|Degree=Pos|Gender=Masc|Number=Plur|Poss=Yes	7	vocative	_	SpaceAfter=No
-3	,	,	PUNCT	_	_	2	punct	_	_
-4	danas	danas	ADV	_	Degree=Pos	7	advmod	_	_
-5	mi	ja	PRON	_	Case=Dat|Number=Sing|Person=1|PronType=Prs	7	iobj	_	_
-6	se	sebe	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	7	obj	_	_
-7	javila	javiti	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	_
-8	čitateljica	čitateljica	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	7	nsubj	_	_
-9	iz	iz	ADP	_	Case=Gen	10	case	_	_
-10	Melburnea	Melburne	PROPN	_	Case=Gen|Gender=Masc|Number=Sing	8	nmod	_	SpaceAfter=No
-11	.	.	PUNCT	_	_	7	punct	_	_
 
 ~~~
 

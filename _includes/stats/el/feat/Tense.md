@@ -40,7 +40,7 @@ The most frequent other feature values with which `VERB` and `Tense` co-occurred
 
 437 [el-pos/AUX]() tokens (100% of all `AUX` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `AUX` and `Tense` co-occurred: <tt><a href="Voice.html">Voice</a>=Pass</tt> (437; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (437; 100%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (437; 100%), <tt><a href="Aspect.html">Aspect</a>=Imp</tt> (428; 98%), <tt><a href="Person.html">Person</a>=3</tt> (415; 95%), <tt><a href="Number.html">Number</a>=Sing</tt> (332; 76%).
+The most frequent other feature values with which `AUX` and `Tense` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (437; 100%), <tt><a href="Voice.html">Voice</a>=Pass</tt> (437; 100%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (437; 100%), <tt><a href="Aspect.html">Aspect</a>=Imp</tt> (428; 98%), <tt><a href="Person.html">Person</a>=3</tt> (415; 95%), <tt><a href="Number.html">Number</a>=Sing</tt> (332; 76%).
 
 `AUX` tokens may have the following values of `Tense`:
 

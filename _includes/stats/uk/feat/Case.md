@@ -54,7 +54,7 @@ The most frequent other feature values with which `NOUN` and `Case` co-occurred:
 
 1105 [uk-pos/ADJ]() tokens (99% of all `ADJ` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `ADJ` and `Case` co-occurred: <tt><a href="Aspect.html">Aspect</a>=EMPTY</tt> (977; 88%), <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (977; 88%), <tt><a href="VerbForm.html">VerbForm</a>=EMPTY</tt> (977; 88%), <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (954; 86%), <tt><a href="Degree.html">Degree</a>=EMPTY</tt> (762; 69%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (752; 68%).
+The most frequent other feature values with which `ADJ` and `Case` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=EMPTY</tt> (977; 88%), <tt><a href="Aspect.html">Aspect</a>=EMPTY</tt> (977; 88%), <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (977; 88%), <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (954; 86%), <tt><a href="Degree.html">Degree</a>=EMPTY</tt> (762; 69%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (752; 68%).
 
 `ADJ` tokens may have the following values of `Case`:
 
@@ -151,7 +151,7 @@ The most frequent other feature values with which `PROPN` and `Case` co-occurred
 
 87 [uk-pos/NUM]() tokens (73% of all `NUM` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `NUM` and `Case` co-occurred: <tt><a href="NumType.html">NumType</a>=Card</tt> (87; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (50; 57%), <tt><a href="Number.html">Number</a>=Plur</tt> (50; 57%).
+The most frequent other feature values with which `NUM` and `Case` co-occurred: <tt><a href="NumType.html">NumType</a>=Card</tt> (87; 100%), <tt><a href="Number.html">Number</a>=Plur</tt> (50; 57%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (50; 57%).
 
 `NUM` tokens may have the following values of `Case`:
 
@@ -174,7 +174,7 @@ The most frequent other feature values with which `NUM` and `Case` co-occurred: 
 
 1 [uk-pos/AUX]() tokens (1% of all `AUX` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `AUX` and `Case` co-occurred: <tt><a href="Aspect.html">Aspect</a>=EMPTY</tt> (1; 100%), <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (1; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (1; 100%), <tt><a href="VerbForm.html">VerbForm</a>=EMPTY</tt> (1; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (1; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (1; 100%), <tt><a href="Number.html">Number</a>=Plur</tt> (1; 100%).
+The most frequent other feature values with which `AUX` and `Case` co-occurred: <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (1; 100%), <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (1; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (1; 100%), <tt><a href="Number.html">Number</a>=Plur</tt> (1; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (1; 100%), <tt><a href="VerbForm.html">VerbForm</a>=EMPTY</tt> (1; 100%), <tt><a href="Aspect.html">Aspect</a>=EMPTY</tt> (1; 100%).
 
 `AUX` tokens may have the following values of `Case`:
 

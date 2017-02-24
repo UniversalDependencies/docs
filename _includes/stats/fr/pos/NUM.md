@@ -13,7 +13,7 @@ The 10 most frequent `NUM` types:  <em>deux, trois, 2, 3, 5, quatre, 4, 2010, 20
 
 The 10 most frequent ambiguous lemmas: <em>deux</em> ([NUM]() 583, [PRON]() 10, [NOUN]() 4), <em>trois</em> ([NUM]() 218, [PRON]() 2), <em>2</em> ([NUM]() 151, [PROPN]() 4, [PRON]() 1), <em>3</em> ([NUM]() 135, [ADJ]() 1), <em>quatre</em> ([NUM]() 115, [PRON]() 1), <em>4</em> ([NUM]() 122, [PROPN]() 1), <em>2010</em> ([NUM]() 116, [PROPN]() 1), <em>1</em> ([NUM]() 108, [PROPN]() 2, [X]() 1), <em>6</em> ([NUM]() 95, [ADJ]() 1), <em>15</em> ([NUM]() 93, [PROPN]() 1)
 
-The 10 most frequent ambiguous types:  <em>deux</em> ([NUM]() 582, [PRON]() 6, [NOUN]() 4), <em>trois</em> ([NUM]() 218, [PRON]() 2), <em>2</em> ([NUM]() 151, [PROPN]() 4, [PRON]() 2), <em>3</em> ([NUM]() 135, [ADJ]() 1), <em>quatre</em> ([NUM]() 115, [PRON]() 1), <em>4</em> ([NUM]() 122, [ADJ]() 1, [PROPN]() 1), <em>2010</em> ([NUM]() 116, [PROPN]() 1), <em>1</em> ([NUM]() 108, [PROPN]() 2, [ADJ]() 1, [X]() 1), <em>7</em> ([NUM]() 106, [ADJ]() 1), <em>10</em> ([NUM]() 97, [ADJ]() 1)
+The 10 most frequent ambiguous types:  <em>deux</em> ([NUM]() 582, [PRON]() 6, [NOUN]() 4), <em>trois</em> ([NUM]() 218, [PRON]() 2), <em>2</em> ([NUM]() 151, [PROPN]() 4, [PRON]() 2), <em>3</em> ([NUM]() 135, [ADJ]() 1), <em>quatre</em> ([NUM]() 115, [PRON]() 1), <em>4</em> ([NUM]() 122, [PROPN]() 1, [ADJ]() 1), <em>2010</em> ([NUM]() 116, [PROPN]() 1), <em>1</em> ([NUM]() 108, [PROPN]() 2, [ADJ]() 1, [X]() 1), <em>7</em> ([NUM]() 106, [ADJ]() 1), <em>10</em> ([NUM]() 97, [ADJ]() 1)
 
 
 * <em>deux</em>
@@ -35,8 +35,8 @@ The 10 most frequent ambiguous types:  <em>deux</em> ([NUM]() 582, [PRON]() 6, [
   * [PRON]() 1: <em>Toujours en Géométrie euclidienne , on montre que dans un triangle , le centre de gravité G , l' orthocentre H , le centre de le cercle circonscrit Ω , et le centre de le cercle d' Euler E sont tous les <b>quatre</b> alignés sur une droite dite droite d' Euler de le triangle , de plus ils sont en division harmonique ( dans cet ordre ) .</em>
 * <em>4</em>
   * [NUM]() 122: <em>Côte de Bellevue Catégorie <b>4</b> ( 109,5 km )</em>
-  * [ADJ]() 1: <em>LInternational football cup 1964-1965 est la <b>4</b> édition de l' International football cup .</em>
   * [PROPN]() 1: <em>Ce concert , intitulé " Concert <b>4</b> NYC " , sera donné à le bénéfice de la fondation Robin Hood , une organisation qui lutte contre la pauvreté dans la Grande Pomme .</em>
+  * [ADJ]() 1: <em>LInternational football cup 1964-1965 est la <b>4</b> édition de l' International football cup .</em>
 * <em>2010</em>
   * [NUM]() 116: <em>Celle-ci doit être présentée le 13 juillet <b>2010</b> .</em>
   * [PROPN]() 1: <em>Il réussit également l' exploit d' atteindre les quarts de finale de la CAN <b>2010</b> , une première depuis quatorze ans .</em>
@@ -106,13 +106,13 @@ The 10 most frequent `NUM` types:  <em>1, 2, 3, deux, 2002, 6, 2005, quatre, 200
 
 The 10 most frequent ambiguous lemmas: <em>neuf</em> ([NUM]() 1, [ADJ]() 1), <em>un</em> ([DET]() 375, [PRON]() 7, [NUM]() 1)
 
-The 10 most frequent ambiguous types:  <em>un</em> ([DET]() 131, [NUM]() 1, [PRON]() 1)
+The 10 most frequent ambiguous types:  <em>un</em> ([DET]() 131, [PRON]() 1, [NUM]() 1)
 
 
 * <em>un</em>
   * [DET]() 131: <em>Je voudrais encore aborder <b>un</b> dernier point :</em>
-  * [NUM]() 1: <em>La période de prorogation proposée est de six ans et le montant de référence reste identique , à savoir d' <b>un</b> million d' euros par an .</em>
   * [PRON]() 1: <em>En conclusion , je voudrais demander à la commission que ces cinq points soient pris en considération à le moment de l' établissement ses conclusions de les quatre piliers , parce que j' estime que , pour l' Union Européenne , le maintien de la population dans le milieu rural doit être <b>un</b> de les objectifs prioritaires .</em>
+  * [NUM]() 1: <em>La période de prorogation proposée est de six ans et le montant de référence reste identique , à savoir d' <b>un</b> million d' euros par an .</em>
 
 ## Morphology
 

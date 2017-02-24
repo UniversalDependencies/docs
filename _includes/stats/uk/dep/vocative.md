@@ -15,6 +15,29 @@ The following 7 pairs of parts of speech are connected with `vocative`: [uk-pos/
 
 
 ~~~ conllu
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 1 vocative	color:blue
+1	Троя	Троя	PROPN	Npfsnn	Animacy=Inan|Case=Nom|Gender=Fem	6	vocative	_	SpaceAfter=No
+2	,	,	PUNCT	U	_	1	punct	_	_
+3	В	в	ADP	Spsg	Case=Gen	4	case	_	_
+4	кого	хто	PRON	Pq--mysgn	Animacy=Anim|Case=Gen|Gender=Masc|PronType=Int	6	obl	_	_
+5	можна	можна	ADV	R	_	6	advmod	_	_
+6	взяти	взяти	VERB	Vmen	Aspect=Perf|VerbForm=Inf	0	root	_	_
+7	завтра	завтра	ADV	R	_	6	advmod	_	_
+8	ввечері	ввечері	ADV	R	_	6	advmod	_	_
+9	дриль	дриль	NOUN	Ncmsan	Animacy=Inan|Case=Acc|Gender=Masc	6	obj	_	_
+10	на	на	ADP	Spsa	Case=Acc	12	case	_	_
+11	5	5	NUM	Mlc	NumType=Card	12	nummod:gov	_	_
+12	хвилин	хвилина	NOUN	Ncfpgn	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	6	obl	_	SpaceAfter=No
+13	?	?	PUNCT	U	_	6	punct	_	_
+
+~~~
+
+
+~~~ conllu
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 2	bgColor:blue
@@ -37,29 +60,6 @@ The following 7 pairs of parts of speech are connected with `vocative`: [uk-pos/
 15	по	по	ADP	Spsa	Case=Acc	16	case	_	_
 16	мене	я	PRON	Pp-1-ysan	Animacy=Anim|Case=Acc|Number=Sing|Person=1|PronType=Prs	14	obl	_	SpaceAfter=No
 17	!..	!..	PUNCT	U	_	2	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 1 vocative	color:blue
-1	Троя	Троя	PROPN	Npfsnn	Animacy=Inan|Case=Nom|Gender=Fem	6	vocative	_	SpaceAfter=No
-2	,	,	PUNCT	U	_	1	punct	_	_
-3	В	в	ADP	Spsg	Case=Gen	4	case	_	_
-4	кого	хто	PRON	Pq--mysgn	Animacy=Anim|Case=Gen|Gender=Masc|PronType=Int	6	obl	_	_
-5	можна	можна	ADV	R	_	6	advmod	_	_
-6	взяти	взяти	VERB	Vmen	Aspect=Perf|VerbForm=Inf	0	root	_	_
-7	завтра	завтра	ADV	R	_	6	advmod	_	_
-8	ввечері	ввечері	ADV	R	_	6	advmod	_	_
-9	дриль	дриль	NOUN	Ncmsan	Animacy=Inan|Case=Acc|Gender=Masc	6	obj	_	_
-10	на	на	ADP	Spsa	Case=Acc	12	case	_	_
-11	5	5	NUM	Mlc	NumType=Card	12	nummod:gov	_	_
-12	хвилин	хвилина	NOUN	Ncfpgn	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	6	obl	_	SpaceAfter=No
-13	?	?	PUNCT	U	_	6	punct	_	_
 
 ~~~
 

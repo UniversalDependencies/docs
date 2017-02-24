@@ -2,6 +2,28 @@
 
 --------------------------------------------------------------------------------
 
+## Treebank Statistics (UD_Galician)
+
+This feature is language-specific.
+It occurs with 1 different values: `Neg`.
+
+96 tokens (0%) have a non-empty value of `Polarity`.
+2 types (0%) occur at least once with a non-empty value of `Polarity`.
+1 lemmas (0%) occur at least once with a non-empty value of `Polarity`.
+The feature is used with 1 part-of-speech tags: [gl-pos/PART]() (96; 0% instances).
+
+### `PART`
+
+96 [gl-pos/PART]() tokens (18% of all `PART` tokens) have a non-empty value of `Polarity`.
+
+`PART` tokens may have the following values of `Polarity`:
+
+* `Neg` (96; 100% of non-empty `Polarity`): <em>non</em>
+
+
+
+--------------------------------------------------------------------------------
+
 ## Treebank Statistics (UD_Galician-TreeGal)
 
 This feature is language-specific.

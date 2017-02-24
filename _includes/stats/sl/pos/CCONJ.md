@@ -95,9 +95,9 @@ The 10 most frequent `CCONJ` lemmas: <em>pa, in, ali, ampak, saj, tako, torej, o
 
 The 10 most frequent `CCONJ` types:  <em>pa, in, ali, ampak, saj, tako, torej, oziroma, sicer, vendarle</em>
 
-The 10 most frequent ambiguous lemmas: <em>in</em> ([CCONJ]() 285, [X]() 1, [ADV]() 1), <em>ali</em> ([CCONJ]() 75, [ADV]() 4), <em>tako</em> ([ADV]() 155, [CCONJ]() 37), <em>torej</em> ([CCONJ]() 20, [ADV]() 7), <em>sicer</em> ([CCONJ]() 14, [PART]() 10), <em>zato</em> ([ADV]() 13, [CCONJ]() 4), <em>a</em> ([ADV]() 96, [INTJ]() 7, [NOUN]() 4, [CCONJ]() 3), <em>razen</em> ([ADP]() 1, [CCONJ]() 1, [ADJ]() 1)
+The 10 most frequent ambiguous lemmas: <em>in</em> ([CCONJ]() 285, [ADV]() 1, [X]() 1), <em>ali</em> ([CCONJ]() 75, [ADV]() 4), <em>tako</em> ([ADV]() 155, [CCONJ]() 37), <em>torej</em> ([CCONJ]() 20, [ADV]() 7), <em>sicer</em> ([CCONJ]() 14, [PART]() 10), <em>zato</em> ([ADV]() 13, [CCONJ]() 4), <em>a</em> ([ADV]() 96, [INTJ]() 7, [NOUN]() 4, [CCONJ]() 3), <em>razen</em> ([ADP]() 1, [ADJ]() 1, [CCONJ]() 1)
 
-The 10 most frequent ambiguous types:  <em>in</em> ([CCONJ]() 285, [X]() 1, [ADV]() 1), <em>ali</em> ([CCONJ]() 75, [ADV]() 4), <em>tako</em> ([ADV]() 155, [CCONJ]() 37, [DET]() 7), <em>torej</em> ([CCONJ]() 20, [ADV]() 7), <em>sicer</em> ([CCONJ]() 14, [PART]() 10), <em>zato</em> ([ADV]() 13, [CCONJ]() 4), <em>a</em> ([ADV]() 96, [INTJ]() 7, [NOUN]() 4, [CCONJ]() 3, [X]() 3), <em>razen</em> ([CCONJ]() 1, [ADP]() 1)
+The 10 most frequent ambiguous types:  <em>in</em> ([CCONJ]() 285, [X]() 1, [ADV]() 1), <em>ali</em> ([CCONJ]() 75, [ADV]() 4), <em>tako</em> ([ADV]() 155, [CCONJ]() 37, [DET]() 7), <em>torej</em> ([CCONJ]() 20, [ADV]() 7), <em>sicer</em> ([CCONJ]() 14, [PART]() 10), <em>zato</em> ([ADV]() 13, [CCONJ]() 4), <em>a</em> ([ADV]() 96, [INTJ]() 7, [NOUN]() 4, [CCONJ]() 3, [X]() 3), <em>razen</em> ([ADP]() 1, [CCONJ]() 1)
 
 
 * <em>in</em>
@@ -127,8 +127,8 @@ The 10 most frequent ambiguous types:  <em>in</em> ([CCONJ]() 285, [X]() 1, [ADV
   * [CCONJ]() 3: <em><b>a</b> jaz ja takvida</em>
   * [X]() 3: <em><b>a</b> [gap] ampak jaz se ga spomnim kot profesorja ki sebe daje</em>
 * <em>razen</em>
-  * [CCONJ]() 1: <em>ti ma [gap] okej <b>razen</b> pač tvojo predstavitev deset do petnajst pol pa še pogovora toliko ne</em>
   * [ADP]() 1: <em>[:voice] samo od uze [gap] izobraževanja samo še to da zdaj je pa marec sredina marca in mislim da moram da <b>razen</b> datumov za junijsko izobraževanje nimamo nič drugega še in da je zdaj pač čas da eem pač dorečemo kaj bomo in kako bomo a ne</em>
+  * [CCONJ]() 1: <em>ti ma [gap] okej <b>razen</b> pač tvojo predstavitev deset do petnajst pol pa še pogovora toliko ne</em>
 
 ## Morphology
 

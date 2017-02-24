@@ -8,10 +8,10 @@ This relation is universal.
 
 1079 nodes (1%) are attached to their parents as `aux`.
 
-1060 instances of `aux` (98%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.32530120481928.
+1055 instances of `aux` (98%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.52548656163114.
 
-The following 9 pairs of parts of speech are connected with `aux`: [gl-pos/VERB]()-[gl-pos/VERB]() (1053; 98% instances), [gl-pos/NOUN]()-[gl-pos/VERB]() (8; 1% instances), [gl-pos/VERB]()-[gl-pos/PRON]() (8; 1% instances), [gl-pos/VERB]()-[gl-pos/DET]() (4; 0% instances), [gl-pos/PRON]()-[gl-pos/VERB]() (2; 0% instances), [gl-pos/ADJ]()-[gl-pos/VERB]() (1; 0% instances), [gl-pos/ADP]()-[gl-pos/NUM]() (1; 0% instances), [gl-pos/ADP]()-[gl-pos/VERB]() (1; 0% instances), [gl-pos/ADV]()-[gl-pos/VERB]() (1; 0% instances).
+The following 16 pairs of parts of speech are connected with `aux`: [gl-pos/VERB]()-[gl-pos/VERB]() (960; 89% instances), [gl-pos/NOUN]()-[gl-pos/VERB]() (46; 4% instances), [gl-pos/ADJ]()-[gl-pos/VERB]() (42; 4% instances), [gl-pos/VERB]()-[gl-pos/PRON]() (8; 1% instances), [gl-pos/ADP]()-[gl-pos/VERB]() (5; 0% instances), [gl-pos/PRON]()-[gl-pos/VERB]() (5; 0% instances), [gl-pos/SCONJ]()-[gl-pos/VERB]() (2; 0% instances), [gl-pos/VERB]()-[gl-pos/ADP]() (2; 0% instances), [gl-pos/VERB]()-[gl-pos/DET]() (2; 0% instances), [gl-pos/ADP]()-[gl-pos/NUM]() (1; 0% instances), [gl-pos/ADV]()-[gl-pos/VERB]() (1; 0% instances), [gl-pos/DET]()-[gl-pos/VERB]() (1; 0% instances), [gl-pos/NOUN]()-[gl-pos/DET]() (1; 0% instances), [gl-pos/PRON]()-[gl-pos/ADJ]() (1; 0% instances), [gl-pos/PRON]()-[gl-pos/DET]() (1; 0% instances), [gl-pos/PROPN]()-[gl-pos/VERB]() (1; 0% instances).
 
 
 ~~~ conllu
@@ -21,98 +21,82 @@ The following 9 pairs of parts of speech are connected with `aux`: [gl-pos/VERB]
 # visual-style 5	fgColor:white
 # visual-style 5 4 aux	color:blue
 1	Así	así	ADV	RG	_	2	det	_	Treeler:spec
-2	mesmo	mesmo	ADV	RG	_	5	case	_	Treeler:cc
+2	mesmo	mesmo	ADV	RG	_	5	case	_	SpaceAfter=No|ToDo=case-upos|Treeler:cc
 3	,	,	PUNCT	Fc	_	2	punct	_	Treeler:f
 4	serán	ser	VERB	VSIF3P0	_	5	aux	_	Treeler:v
 5	publicados	publicar	VERB	VMP00PM	_	0	root	_	Treeler:sentence
-6	en	en	ADP	SPS00	_	5	case	_	Treeler:cc
+6	en	en	ADP	SPS00	_	9	case	_	Treeler:cc
 7	o	o	DET	DA0MS0	_	9	det	_	Treeler:spec
-8	"	"	PUNCT	Fe	_	9	punct	_	Treeler:f
-9	Boletín	boletín	NOUN	NCMS000	_	6	nmod	_	Treeler:sn
+8	"	"	PUNCT	Fe	_	9	punct	_	SpaceAfter=No|Treeler:f
+9	Boletín	boletín	NOUN	NCMS000	_	5	obl	_	Treeler:sn
 10	Oficial	oficial	ADJ	AQ0CS0	_	9	amod	_	Treeler:s.a
-11	de	de	ADP	SPS00	_	9	case	_	Treeler:sp
-12	el	el	PRON	PP3MS000	_	11	nmod	_	Treeler:sn
-13	Estado	estado	NOUN	NCMS000	_	11	nmod	_	Treeler:sn
-14	"	"	PUNCT	Fe	_	9	punct	_	Treeler:f
+11	de	de	ADP	SPS00	_	13	case	_	Treeler:sp
+12	el	el	PRON	PP3MS000	_	13	nmod	_	Treeler:sn
+13	Estado	estado	NOUN	NCMS000	_	9	nmod	_	SpaceAfter=No|Treeler:sn
+14	"	"	PUNCT	Fe	_	9	punct	_	SpaceAfter=No|Treeler:f
 15	.	.	PUNCT	Fp	_	5	punct	_	Treeler:f
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 21	bgColor:blue
-# visual-style 21	fgColor:white
-# visual-style 22	bgColor:blue
-# visual-style 22	fgColor:white
-# visual-style 22 21 aux	color:blue
-1	O	o	DET	DA0MS0	_	2	det	_	Treeler:spec
-2	territorio	territorio	NOUN	NCMS000	_	3	nsubj	_	Treeler:suj
-3	será	ser	VERB	VSIF3S0	_	0	root	_	Treeler:sentence
-4	a	o	DET	DA0FS0	_	5	det	_	Treeler:spec
-5	área	área	NOUN	NCFS000	_	3	cop	_	Treeler:atr
-6	sobre	sobre	ADP	SPS00	_	5	case	_	Treeler:sp
-7	a	o	DET	DA0FS0	_	8	det	_	Treeler:spec
-8	que	que	PRON	PR0CN000	_	6	nmod	_	Treeler:sn
-9	o	o	DET	DA0MS0	_	10	det	_	Treeler:spec
-10	estado	estado	NOUN	NCMS000	_	11	nsubj	_	Treeler:suj
-11	exercerá	exercer	VERB	VMIF3S0	_	5	ccomp	_	Treeler:S
-12	o	o	DET	DA0MS0	_	14	det	_	Treeler:spec
-13	seu	seu	DET	DP3MS0	_	12	det	_	Treeler:d
-14	poder	poder	VERB	VMN0000	_	11	dobj	_	Treeler:cd
-15	de	de	ADP	SPS00	_	14	case	_	Treeler:sp
-16	mando	mando	NOUN	NCMS000	_	15	nmod	_	Treeler:sn
-17	,	,	PUNCT	Fc	_	15	punct	_	Treeler:f
-18	_	_	SYM	Fz	_	22	punct	_	Treeler:f
-19	o	o	DET	DA0MS0	_	22	det	_	Treeler:spec
-20	seu	seu	DET	DP3MS0	_	22	det	_	Treeler:spec
-21	poder	poder	VERB	VMN0000	_	22	aux	_	Treeler:v
-22	originário	originário	NOUN	NCMS000	_	27	dobj	_	Treeler:cd
-23	de	de	ADP	SPS00	_	22	case	_	Treeler:sp
-24	mando	mando	NOUN	NCMS000	_	23	nmod	_	Treeler:sn
-25	_	_	SYM	Fz	_	22	punct	_	Treeler:f
-26	,	,	PUNCT	Fc	_	27	punct	_	Treeler:f
-27	segundo	segundo	ADP	SPS00	_	11	case	_	Treeler:cc
-28	indica	indicar	VERB	VMIP3S0	_	27	nmod	_	Treeler:sn
-29	Jorge	jorge	PROPN	NP00000	_	28	nsubj	_	Treeler:suj
-30	Jellineck	jellineck	PROPN	NP00000	_	28	nsubj	_	Treeler:suj
-31	.	.	PUNCT	Fp	_	3	punct	_	Treeler:f
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 2 aux	color:blue
+1	Galiza	galiza	PROPN	NP00000	_	6	nsubj	_	Treeler:suj
+2	deixou	deixar	VERB	VMIS3S0	_	6	aux	_	Treeler:v
+3	de	de	ADP	SPS00	_	6	case	_	Treeler:s
+4	ser	ser	AUX	VSN0000	_	6	cop	_	Treeler:sentence
+5	un	un	DET	DI0MS0	_	6	det	_	Treeler:spec
+6	país	país	NOUN	NCMS000	_	0	root	_	Treeler:atr
+7	exportador	exportador	ADJ	AQ0MS0	_	6	amod	_	Treeler:s.a
+8	de	de	ADP	SPS00	_	9	case	_	Treeler:sp
+9	man	man	NOUN	NCFS000	_	6	nmod	_	ToDo=nmod|Treeler:sn
+10	de	de	ADP	SPS00	_	11	case	_	Treeler:sp
+11	obra	obra	NOUN	NCFS000	_	9	nmod	_	Treeler:sn
+12	barata	barato	ADJ	AQ0FS0	_	9	amod	_	Treeler:s.a
+13	para	para	ADP	SPS00	_	14	case	_	Treeler:cc
+14	se	se	PRON	PP3CN000	_	6	nmod	_	ToDo=nmod|Treeler:sn
+15	converter	converter	VERB	VMN0000	_	14	ccomp	_	Treeler:S
+16	en	en	ADP	SPS00	_	17	case	_	Treeler:cc
+17	receptor	receptor	NOUN	NCMS000	_	15	obl	_	Treeler:sn
+18	de	de	ADP	SPS00	_	19	case	_	Treeler:sp
+19	continxentes	continxente	NOUN	NCMP000	_	17	nmod	_	Treeler:sn
+20	migratorios	migratorio	ADJ	AQ0MP0	_	19	amod	_	SpaceAfter=No|Treeler:s.a
+21	.	.	PUNCT	Fp	_	6	punct	_	Treeler:f
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
-# visual-style 8 10 aux	color:blue
-1	Non	non	PART	RN	_	2	advmod	_	Treeler:mod
-2	somos	ser	VERB	VSIP1P0	_	0	root	_	Treeler:sentence
-3	quen	quen	PRON	PR0CC000	_	8	nsubj	_	Treeler:suj
-4	de	de	ADP	SPS00	_	8	case	_	Treeler:creg
-5	pensar	pensar	VERB	VMN0000	_	4	ccomp	_	Treeler:S
-6	como	como	PRON	PR0CN000	_	8	nsubj	_	Treeler:suj
-7	podemos	poder	VERB	VMIP1P0	_	8	aux	_	Treeler:v
-8	evitar	evitar	VERB	VMN0000	_	2	ccomp	_	Treeler:S
-9	seres	ser	NOUN	NCMP000	_	8	dobj	_	Treeler:cd
-10	como	como	PRON	PR0CN000	_	8	aux	_	Treeler:v
-11	Bush	bush	PROPN	NP00000	_	8	nsubj	_	Treeler:suj
-12	,	,	PUNCT	Fc	_	13	punct	_	Treeler:f
-13	asasinos	asasino	NOUN	NCMP000	_	11	nmod	_	Treeler:sn
-14	como	como	PRON	PR0CN000	_	16	dep	_	Treeler:relatiu
-15	os	o	DET	DA0MP0	_	16	det	_	Treeler:spec
-16	de	de	ADP	SPS00	_	13	case	_	Treeler:sp
-17	ETA	eta	NOUN	NCMS000	_	16	nmod	_	Treeler:sn
-18	,	,	PUNCT	Fc	_	13	punct	_	Treeler:f
-19	despropósitos	despropósito	NOUN	NCMP000	_	11	nmod	_	Treeler:sn
-20	como	como	PRON	PR0CN000	_	21	dep	_	Treeler:relatiu
-21	Air	air	PROPN	NP00000	_	19	ccomp	_	Treeler:S
-22	Madrid	madrid	PROPN	NP00000	_	21	nmod	_	Treeler:sn
-23	e	e	CONJ	CC	_	11	cc	_	Treeler:coord
-24	un	un	DET	DI0MS0	_	26	det	_	Treeler:spec
-25	longo	longo	ADJ	AQ0MS0	_	26	amod	_	Treeler:s.a
-26	etcétera	etcétera	NOUN	NCMC000	_	11	nmod	_	Treeler:sn
-27	.	.	PUNCT	Fp	_	2	punct	_	Treeler:f
+# visual-style 8 4 aux	color:blue
+1	Todos	todo	DET	DI0MP0	_	2	det	_	Treeler:d
+2	estes	este	DET	DD0MP0	_	3	det	_	Treeler:spec
+3	países	país	NOUN	NCMP000	_	8	nsubj	_	Treeler:suj
+4	deixaron	deixar	VERB	VMIS3P0	_	8	aux	_	Treeler:v
+5	de	de	ADP	SPS00	_	4	case	_	Treeler:creg
+6	ser	ser	AUX	VSN0000	_	8	cop	_	Treeler:sentence
+7	os	o	DET	DA0MP0	_	8	det	_	Treeler:spec
+8	principais	principal	ADJ	AQ0CP0	_	0	root	_	Treeler:atr
+9	en	en	ADP	SPS00	_	11	case	_	Treeler:sp
+10	a	o	DET	DA0FS0	_	11	det	_	Treeler:spec
+11	actualidade	actualidade	NOUN	NCFS000	_	8	obl	_	Treeler:sn
+12	por	por	ADP	SPS00	_	14	case	_	Treeler:sp
+13	a	o	DET	DA0FS0	_	14	det	_	Treeler:spec
+14	competencia	competencia	NOUN	NCFS000	_	11	nmod	_	Treeler:sn
+15	vía	vía	NOUN	NCFS000	_	14	amod	_	Treeler:s.a
+16	prezos	prezo	NOUN	NCMP000	_	14	nmod	_	Treeler:sn
+17	de	de	ADP	SPS00	_	18	case	_	Treeler:sp
+18	países	país	NOUN	NCMP000	_	16	nmod	_	Treeler:sn
+19	coma	coma	SCONJ	CS	_	20	mark	_	Treeler:conj
+20	Marrocos	marrocos	PROPN	NP00000	_	14	nmod	_	SpaceAfter=No|Treeler:sn
+21	.	.	PUNCT	Fp	_	8	punct	_	Treeler:f
 
 ~~~
 

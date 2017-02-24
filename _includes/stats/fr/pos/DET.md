@@ -116,7 +116,7 @@ The 10 most frequent `DET` types:  <em>les, le, la, l', une, un, des, cette, ce,
 
 The 10 most frequent ambiguous lemmas: <em>le</em> ([DET]() 2093, [PRON]() 36), <em>un</em> ([DET]() 375, [PRON]() 7, [NUM]() 1), <em>ce</em> ([DET]() 144, [PRON]() 86), <em>tout</em> ([DET]() 80, [ADV]() 15, [PRON]() 8), <em>leur</em> ([DET]() 34, [PRON]() 2), <em>aucun</em> ([DET]() 17, [PRON]() 1), <em>certain</em> ([DET]() 17, [ADJ]() 2, [PRON]() 1), <em>de</em> ([ADP]() 1530, [DET]() 15, [SCONJ]() 1), <em>autre</em> ([ADJ]() 18, [DET]() 10, [PRON]() 4), <em>chaque</em> ([DET]() 5, [NOUN]() 1, [ADJ]() 1)
 
-The 10 most frequent ambiguous types:  <em>les</em> ([DET]() 568, [PRON]() 4), <em>le</em> ([DET]() 574, [PRON]() 15), <em>la</em> ([DET]() 498, [PRON]() 2), <em>l'</em> ([DET]() 330, [PRON]() 15), <em>une</em> ([DET]() 136, [PRON]() 4), <em>un</em> ([DET]() 131, [NUM]() 1, [PRON]() 1), <em>ce</em> ([PRON]() 49, [DET]() 45), <em>leur</em> ([DET]() 21, [PRON]() 4), <em>tous</em> ([DET]() 19, [PRON]() 5), <em>de</em> ([ADP]() 1234, [DET]() 15, [SCONJ]() 1)
+The 10 most frequent ambiguous types:  <em>les</em> ([DET]() 568, [PRON]() 4), <em>le</em> ([DET]() 574, [PRON]() 15), <em>la</em> ([DET]() 498, [PRON]() 2), <em>l'</em> ([DET]() 330, [PRON]() 15), <em>une</em> ([DET]() 136, [PRON]() 4), <em>un</em> ([DET]() 131, [PRON]() 1, [NUM]() 1), <em>ce</em> ([PRON]() 49, [DET]() 45), <em>leur</em> ([DET]() 21, [PRON]() 4), <em>tous</em> ([DET]() 19, [PRON]() 5), <em>de</em> ([ADP]() 1234, [DET]() 15, [SCONJ]() 1)
 
 
 * <em>les</em>
@@ -136,8 +136,8 @@ The 10 most frequent ambiguous types:  <em>les</em> ([DET]() 568, [PRON]() 4), <
   * [PRON]() 4: <em>L' <b>une</b> de les personnes qui vient d' être assassinée à le Sri Lanka est M. Kumar Ponnambalam , qui avait rendu visite à le parlement européen il y a quelques mois à peine .</em>
 * <em>un</em>
   * [DET]() 131: <em>Je voudrais encore aborder <b>un</b> dernier point :</em>
-  * [NUM]() 1: <em>La période de prorogation proposée est de six ans et le montant de référence reste identique , à savoir d' <b>un</b> million d' euros par an .</em>
   * [PRON]() 1: <em>En conclusion , je voudrais demander à la commission que ces cinq points soient pris en considération à le moment de l' établissement ses conclusions de les quatre piliers , parce que j' estime que , pour l' Union Européenne , le maintien de la population dans le milieu rural doit être <b>un</b> de les objectifs prioritaires .</em>
+  * [NUM]() 1: <em>La période de prorogation proposée est de six ans et le montant de référence reste identique , à savoir d' <b>un</b> million d' euros par an .</em>
 * <em>ce</em>
   * [PRON]() 49: <em>C' est <b>ce</b> que nous demandons aujourd'hui à le commissaire .</em>
   * [DET]() 45: <em>À le sein de <b>ce</b> Parlement , la transparence fait trop souvent défaut .</em>

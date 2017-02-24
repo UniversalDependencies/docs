@@ -11,7 +11,7 @@ The 10 most frequent `NUM` lemmas: <em>septem1, unus, quattuor1, primus, mille, 
 
 The 10 most frequent `NUM` types:  <em>septem, quattuor, viginti, millia, prima, una, uno, centum, decem, unum</em>
 
-The 10 most frequent ambiguous lemmas: <em>unus</em> ([NUM]() 18, [ADV]() 1), <em>primus</em> ([NUM]() 10, [ADJ]() 2, [ADV]() 2), <em>duo</em> ([NUM]() 4, [ADJ]() 1), <em>secundus1</em> ([ADJ]() 8, [NUM]() 1, [ADP]() 1), <em>sescenti</em> ([NUM]() 1, [ADJ]() 1), <em>trecenti</em> ([ADJ]() 1, [NUM]() 1)
+The 10 most frequent ambiguous lemmas: <em>unus</em> ([NUM]() 18, [ADV]() 1), <em>primus</em> ([NUM]() 10, [ADJ]() 2, [ADV]() 2), <em>duo</em> ([NUM]() 4, [ADJ]() 1), <em>secundus1</em> ([ADJ]() 8, [ADP]() 1, [NUM]() 1), <em>sescenti</em> ([NUM]() 1, [ADJ]() 1), <em>trecenti</em> ([NUM]() 1, [ADJ]() 1)
 
 The 10 most frequent ambiguous types:  <em>prima</em> ([NUM]() 5, [ADJ]() 1), <em>una</em> ([NUM]() 5, [ADJ]() 1), <em>unum</em> ([ADJ]() 5, [NUM]() 4), <em>primus</em> ([NUM]() 3, [ADJ]() 2), <em>tribus</em> ([NUM]() 3, [NOUN]() 1), <em>binos</em> ([NUM]() 1, [ADJ]() 1), <em>duabus</em> ([NUM]() 1, [ADJ]() 1), <em>duas</em> ([ADJ]() 2, [NUM]() 1), <em>duo</em> ([ADJ]() 4, [NUM]() 1), <em>duobus</em> ([NUM]() 1, [ADJ]() 1)
 
@@ -172,7 +172,7 @@ The 10 most frequent `NUM` lemmas: <em>unus, duo, mille, tres, septem, duodecim,
 
 The 10 most frequent `NUM` types:  <em>unum, unus, septem, duo, duodecim, una, milia, quinque, quattuor, uno</em>
 
-The 10 most frequent ambiguous lemmas: <em>unus</em> ([NUM]() 395, [ADJ]() 13), <em>tres</em> ([NUM]() 81, [ADJ]() 1), <em>historia</em> ([NOUN]() 4, [ADJ]() 1, [NUM]() 1)
+The 10 most frequent ambiguous lemmas: <em>unus</em> ([NUM]() 395, [ADJ]() 13), <em>tres</em> ([NUM]() 81, [ADJ]() 1), <em>historia</em> ([NOUN]() 4, [NUM]() 1, [ADJ]() 1)
 
 The 10 most frequent ambiguous types:  <em>unum</em> ([NUM]() 151, [ADJ]() 1), <em>unus</em> ([NUM]() 95, [ADJ]() 6), <em>una</em> ([NUM]() 63, [ADV]() 28, [ADJ]() 1), <em>uno</em> ([NUM]() 45, [ADJ]() 2), <em>tribus</em> ([NUM]() 22, [NOUN]() 6), <em>uni</em> ([NUM]() 8, [ADJ]() 1), <em>tris</em> ([NUM]() 3, [ADJ]() 1), <em>unas</em> ([ADJ]() 1, [NUM]() 1), <em>unis</em> ([ADJ]() 1, [NUM]() 1)
 

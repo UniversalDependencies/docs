@@ -31,7 +31,7 @@ The most frequent other feature values with which `DET` and `PronType` co-occurr
 
 15839 [nl-pos/PRON]() tokens (100% of all `PRON` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="Case.html">Case</a>=EMPTY</tt> (11025; 70%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (9006; 57%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (9006; 57%).
+The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="Case.html">Case</a>=EMPTY</tt> (11025; 70%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (9006; 57%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (9006; 57%).
 
 `PRON` tokens may have the following values of `PronType`:
 
@@ -151,7 +151,7 @@ The most frequent other feature values with which `PRON` and `PronType` co-occur
 The 10 most frequent relations where parent and child node agree in `PronType`:
 <tt>PRON --[<a href="../dep/conj.html">conj</a>]--> PRON</tt> (4; 100%),
 <tt>PRON --[<a href="../dep/fixed.html">fixed</a>]--> PRON</tt> (3; 75%),
-<tt>PRON --[<a href="../dep/nmod.html">nmod</a>]--> PRON</tt> (2; 67%),
 <tt>PRON --[<a href="../dep/obl.html">obl</a>]--> PRON</tt> (2; 100%),
+<tt>PRON --[<a href="../dep/nmod.html">nmod</a>]--> PRON</tt> (2; 67%),
 <tt>PRON --[<a href="../dep/advcl.html">advcl</a>]--> PRON</tt> (1; 100%).
 

@@ -58,17 +58,45 @@ The following 8 pairs of parts of speech are connected with `cc`: [ug-pos/VERB](
 
 
 ~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 2 cc	color:blue
-1	ئاچاڭ	_	NOUN	N	_	5	nsubj	_	Translit=achang
-2	بىلەن	_	ADP	R	_	3	cc	_	Translit=bilen
-3	سىڭىللىرىڭ	_	NOUN	N	_	1	conj	_	Translit=singilliring
-4	ئۆز	_	PRON	P	_	5	det	_	Translit=öz
-5	ئۆيىدە	_	NOUN	N	_	0	root	_	SpaceAfter=No|Translit=öyide
-6	،	_	PUNCT	Y	_	5	punct	_	Translit=,
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 6 cc	color:blue
+1	ماڭا	_	PRON	P	_	3	obl	_	Translit=manga
+2	مەنسۇپ	_	ADJ	A	_	3	compound:lvc	_	Translit=mensup
+3	بولغان	_	VERB	V	_	8	acl	_	Translit=bolghan
+4	بۇ	_	PRON	P	_	8	det	_	Translit=bu
+5	تەن	_	NOUN	N	_	8	amod	_	Translit=ten
+6	ۋە	_	CCONJ	C	_	7	cc	_	Translit=we
+7	روھىمدىكى	_	NOUN	N	_	5	conj	_	Translit=rohimdiki
+8	بەرباتلىق	_	NOUN	N	_	33	nsubj	_	Translit=berbatliq
+9	خۇددى	_	PART	T	_	13	nmod	_	Translit=xuddi
+10	بىر	_	NUM	M	_	11	nummod	_	Translit=bir
+11	بۆلەك	_	NOUN	N	_	13	amod	_	Translit=bölek
+12	ئېقىن	_	NOUN	N	_	13	amod	_	Translit=ëqin
+13	سۈيى	_	NOUN	N	_	14	nsubj	_	Translit=süyi
+14	بولۇپ	_	VERB	V	_	33	advcl	_	SpaceAfter=No|Translit=bolup
+15	،	_	PUNCT	Y	_	14	punct	_	Translit=,
+16	زۇلمەت	_	NOUN	N	_	17	amod	_	Translit=zulmet
+17	قاراڭغۇلۇق	_	NOUN	N	_	18	nmod:poss	_	Translit=qarangghuluq
+18	ئىچىدىكى	_	NOUN	N	_	20	nmod	_	Translit=ichidiki
+19	قورقۇنچلۇق	_	ADJ	A	_	20	amod	_	Translit=qorqunchluq
+20	بوشلۇقتىن	_	NOUN	N	_	33	obl	_	Translit=boshluqtin
+21	نۇر	_	NOUN	N	_	22	nmod	_	Translit=nur
+22	مەرۋايىتلىرى	_	NOUN	N	_	25	nsubj	_	Translit=merwayitliri
+23	خرۇستالدەك	_	NOUN	N	_	25	advmod	_	Translit=xrustaldek
+24	يالتىراپ	_	VERB	V	_	25	compound:lvc	_	Translit=yaltirap
+25	تۇرغان	_	VERB	V	_	29	acl	_	Translit=turghan
+26	سۈزۈك	_	ADJ	A	_	29	amod	_	Translit=süzük
+27	ۋە	_	CCONJ	C	_	28	cc	_	Translit=we
+28	يېشىل	_	ADJ	A	_	26	conj	_	Translit=yëshil
+29	بوشلۇقۇڭغا	_	NOUN	N	_	33	obl	_	Translit=boshluqunggha
+30	قاراپ	_	VERB	V	_	29	case	_	Translit=qarap
+31	يېقىملىق	_	ADJ	A	_	32	advmod	_	Translit=yëqimliq
+32	شىلدىرلاپ	_	NOUN	N	_	33	advmod	_	Translit=shildirlap
+33	ئاقاتتى	_	VERB	V	_	0	root	_	SpaceAfter=No|Translit=aqatti
+34	.	_	PUNCT	Y	_	33	punct	_	Translit=.
 
 ~~~
 

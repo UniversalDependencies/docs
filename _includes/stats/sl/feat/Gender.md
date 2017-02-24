@@ -78,7 +78,7 @@ The most frequent other feature values with which `ADJ` and `Gender` co-occurred
 
 6228 [sl-pos/VERB]() tokens (48% of all `VERB` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `VERB` and `Gender` co-occurred: <tt><a href="Person.html">Person</a>=EMPTY</tt> (6228; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (6228; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (6228; 100%), <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (6228; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (4049; 65%), <tt><a href="Aspect.html">Aspect</a>=Perf</tt> (3767; 60%).
+The most frequent other feature values with which `VERB` and `Gender` co-occurred: <tt><a href="Person.html">Person</a>=EMPTY</tt> (6228; 100%), <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (6228; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (6228; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (6228; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (4049; 65%), <tt><a href="Aspect.html">Aspect</a>=Perf</tt> (3767; 60%).
 
 `VERB` tokens may have the following values of `Gender`:
 
@@ -120,7 +120,7 @@ The most frequent other feature values with which `PROPN` and `Gender` co-occurr
 
 3994 [sl-pos/DET]() tokens (85% of all `DET` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `DET` and `Gender` co-occurred: <tt><a href="Number[psor].html">Number[psor]</a>=EMPTY</tt> (3262; 82%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (3262; 82%), <tt><a href="Number.html">Number</a>=Sing</tt> (2834; 71%), <tt><a href="Poss.html">Poss</a>=EMPTY</tt> (2833; 71%).
+The most frequent other feature values with which `DET` and `Gender` co-occurred: <tt><a href="Person.html">Person</a>=EMPTY</tt> (3262; 82%), <tt><a href="Number[psor].html">Number[psor]</a>=EMPTY</tt> (3262; 82%), <tt><a href="Number.html">Number</a>=Sing</tt> (2834; 71%), <tt><a href="Poss.html">Poss</a>=EMPTY</tt> (2833; 71%).
 
 `DET` tokens may have the following values of `Gender`:
 
@@ -196,7 +196,7 @@ The most frequent other feature values with which `PRON` and `Gender` co-occurre
 
 657 [sl-pos/AUX]() tokens (7% of all `AUX` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `AUX` and `Gender` co-occurred: <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (657; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (657; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (657; 100%), <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (657; 100%), <tt><a href="Polarity.html">Polarity</a>=EMPTY</tt> (657; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (500; 76%).
+The most frequent other feature values with which `AUX` and `Gender` co-occurred: <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (657; 100%), <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (657; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (657; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (657; 100%), <tt><a href="Polarity.html">Polarity</a>=EMPTY</tt> (657; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (500; 76%).
 
 `AUX` tokens may have the following values of `Gender`:
 
@@ -345,7 +345,7 @@ The most frequent other feature values with which `DET` and `Gender` co-occurred
 
 776 [sl-pos/VERB]() tokens (30% of all `VERB` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `VERB` and `Gender` co-occurred: <tt><a href="Polarity.html">Polarity</a>=EMPTY</tt> (776; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (776; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (776; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (776; 100%), <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (776; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (521; 67%).
+The most frequent other feature values with which `VERB` and `Gender` co-occurred: <tt><a href="Person.html">Person</a>=EMPTY</tt> (776; 100%), <tt><a href="Polarity.html">Polarity</a>=EMPTY</tt> (776; 100%), <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (776; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (776; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (776; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (521; 67%).
 
 `VERB` tokens may have the following values of `Gender`:
 
@@ -442,7 +442,7 @@ The most frequent other feature values with which `NUM` and `Gender` co-occurred
 
 72 [sl-pos/AUX]() tokens (6% of all `AUX` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `AUX` and `Gender` co-occurred: <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (72; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (72; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (72; 100%), <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (72; 100%), <tt><a href="Polarity.html">Polarity</a>=EMPTY</tt> (72; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (56; 78%).
+The most frequent other feature values with which `AUX` and `Gender` co-occurred: <tt><a href="Person.html">Person</a>=EMPTY</tt> (72; 100%), <tt><a href="Polarity.html">Polarity</a>=EMPTY</tt> (72; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (72; 100%), <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (72; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (72; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (56; 78%).
 
 `AUX` tokens may have the following values of `Gender`:
 
@@ -470,6 +470,6 @@ The 10 most frequent relations where parent and child node agree in `Gender`:
 <tt>ADJ --[<a href="../dep/nsubj.html">nsubj</a>]--> NOUN</tt> (48; 96%),
 <tt>ADJ --[<a href="../dep/conj.html">conj</a>]--> ADJ</tt> (36; 90%),
 <tt>ADJ --[<a href="../dep/det.html">det</a>]--> DET</tt> (21; 95%),
-<tt>NOUN --[<a href="../dep/appos.html">appos</a>]--> NOUN</tt> (19; 59%),
-<tt>ADJ --[<a href="../dep/nsubj.html">nsubj</a>]--> DET</tt> (19; 90%).
+<tt>ADJ --[<a href="../dep/nsubj.html">nsubj</a>]--> DET</tt> (19; 90%),
+<tt>NOUN --[<a href="../dep/appos.html">appos</a>]--> NOUN</tt> (19; 59%).
 

@@ -16,7 +16,7 @@ The feature is used with 4 part-of-speech tags: [got-pos/VERB]() (7521; 17% inst
 
 7521 [got-pos/VERB]() tokens (73% of all `VERB` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (7521; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (7521; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (7521; 100%), <tt><a href="Strength.html">Strength</a>=EMPTY</tt> (7521; 100%), <tt><a href="Voice.html">Voice</a>=Act</tt> (7276; 97%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (5995; 80%), <tt><a href="Number.html">Number</a>=Sing</tt> (5094; 68%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (4434; 59%).
+The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (7521; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (7521; 100%), <tt><a href="Strength.html">Strength</a>=EMPTY</tt> (7521; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (7521; 100%), <tt><a href="Voice.html">Voice</a>=Act</tt> (7276; 97%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (5995; 80%), <tt><a href="Number.html">Number</a>=Sing</tt> (5094; 68%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (4434; 59%).
 
 `VERB` tokens may have the following values of `Person`:
 
@@ -32,7 +32,7 @@ The most frequent other feature values with which `VERB` and `Person` co-occurre
   <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Dual|<a href="Tense.html">Tense</a>=Pres</tt></td><td><em>siju</em></td><td></td><td></td></tr>
   <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Plur|<a href="Tense.html">Tense</a>=Past</tt></td><td><em>wesum</em></td><td><em>wesuþ</em></td><td><em>wesun</em></td></tr>
   <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Plur|<a href="Tense.html">Tense</a>=Pres</tt></td><td><em>sijum, sium</em></td><td><em>sijuþ, siuþ</em></td><td><em>sind</em></td></tr>
-  <tr><td><tt><a href="Mood.html">Mood</a>=Opt|<a href="Number.html">Number</a>=Sing|<a href="Tense.html">Tense</a>=Past</tt></td><td></td><td><em>weseis, weiseis</em></td><td><em>wesi</em></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Opt|<a href="Number.html">Number</a>=Sing|<a href="Tense.html">Tense</a>=Past</tt></td><td></td><td><em>weiseis, weseis</em></td><td><em>wesi</em></td></tr>
   <tr><td><tt><a href="Mood.html">Mood</a>=Opt|<a href="Number.html">Number</a>=Sing|<a href="Tense.html">Tense</a>=Pres</tt></td><td><em>sijau</em></td><td><em>sijais, siais</em></td><td><em>sijai, siai</em></td></tr>
   <tr><td><tt><a href="Mood.html">Mood</a>=Opt|<a href="Number.html">Number</a>=Plur|<a href="Tense.html">Tense</a>=Past</tt></td><td><em>weseima</em></td><td><em>weseiþ</em></td><td><em>weseina</em></td></tr>
   <tr><td><tt><a href="Mood.html">Mood</a>=Opt|<a href="Number.html">Number</a>=Plur|<a href="Tense.html">Tense</a>=Pres</tt></td><td><em>sijaima</em></td><td><em>sijaiþ, sijaid</em></td><td><em>sijaina</em></td></tr>
@@ -72,7 +72,7 @@ The most frequent other feature values with which `PRON` and `Person` co-occurre
 
 946 [got-pos/ADJ]() tokens (24% of all `ADJ` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `ADJ` and `Person` co-occurred: <tt><a href="Poss.html">Poss</a>=Yes</tt> (946; 100%), <tt><a href="Strength.html">Strength</a>=EMPTY</tt> (946; 100%), <tt><a href="Degree.html">Degree</a>=EMPTY</tt> (946; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (718; 76%).
+The most frequent other feature values with which `ADJ` and `Person` co-occurred: <tt><a href="Degree.html">Degree</a>=EMPTY</tt> (946; 100%), <tt><a href="Poss.html">Poss</a>=Yes</tt> (946; 100%), <tt><a href="Strength.html">Strength</a>=EMPTY</tt> (946; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (718; 76%).
 
 `ADJ` tokens may have the following values of `Person`:
 

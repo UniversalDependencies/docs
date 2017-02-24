@@ -11,9 +11,9 @@ The 10 most frequent `ADP` lemmas: <em>of, in, to, for, on, with, at, from, by, 
 
 The 10 most frequent `ADP` types:  <em>of, in, to, for, on, with, at, from, by, as</em>
 
-The 10 most frequent ambiguous lemmas: <em>of</em> ([ADP]() 3810, [SCONJ]() 155, [ADV]() 41, [AUX]() 3, [CCONJ]() 1), <em>in</em> ([ADP]() 3247, [ADV]() 126, [SCONJ]() 91, [NOUN]() 9, [X]() 3, [VERB]() 1, [ADJ]() 1), <em>to</em> ([PART]() 3616, [ADP]() 1999, [SCONJ]() 73, [ADV]() 8, [NOUN]() 2, [VERB]() 1), <em>for</em> ([ADP]() 1906, [SCONJ]() 164, [CCONJ]() 7, [X]() 4, [ADV]() 2), <em>on</em> ([ADP]() 1310, [SCONJ]() 67, [ADV]() 56, [ADJ]() 3, [NOUN]() 2, [X]() 1, [PROPN]() 1, [NUM]() 1), <em>with</em> ([ADP]() 1280, [SCONJ]() 77, [ADV]() 3, [X]() 2, [AUX]() 1), <em>at</em> ([ADP]() 785, [ADV]() 101, [SCONJ]() 17, [CCONJ]() 1), <em>from</em> ([ADP]() 700, [SCONJ]() 44), <em>by</em> ([ADP]() 632, [SCONJ]() 65, [ADV]() 9, [VERB]() 1), <em>as</em> ([ADP]() 436, [SCONJ]() 390, [ADV]() 218, [AUX]() 1)
+The 10 most frequent ambiguous lemmas: <em>of</em> ([ADP]() 3810, [SCONJ]() 155, [ADV]() 41, [AUX]() 3, [CCONJ]() 1), <em>in</em> ([ADP]() 3247, [ADV]() 126, [SCONJ]() 91, [NOUN]() 9, [X]() 3, [ADJ]() 1, [VERB]() 1), <em>to</em> ([PART]() 3616, [ADP]() 1999, [SCONJ]() 73, [ADV]() 8, [NOUN]() 2, [VERB]() 1), <em>for</em> ([ADP]() 1906, [SCONJ]() 164, [CCONJ]() 7, [X]() 4, [ADV]() 2), <em>on</em> ([ADP]() 1310, [SCONJ]() 67, [ADV]() 56, [ADJ]() 3, [NOUN]() 2, [X]() 1, [NUM]() 1, [PROPN]() 1), <em>with</em> ([ADP]() 1280, [SCONJ]() 77, [ADV]() 3, [X]() 2, [AUX]() 1), <em>at</em> ([ADP]() 785, [ADV]() 101, [SCONJ]() 17, [CCONJ]() 1), <em>from</em> ([ADP]() 700, [SCONJ]() 44), <em>by</em> ([ADP]() 632, [SCONJ]() 65, [ADV]() 9, [VERB]() 1), <em>as</em> ([ADP]() 436, [SCONJ]() 390, [ADV]() 218, [AUX]() 1)
 
-The 10 most frequent ambiguous types:  <em>of</em> ([ADP]() 3786, [SCONJ]() 153, [ADV]() 35, [AUX]() 1, [CCONJ]() 1), <em>in</em> ([ADP]() 3025, [ADV]() 125, [SCONJ]() 89, [NOUN]() 8, [X]() 2, [VERB]() 1, [ADJ]() 1), <em>to</em> ([PART]() 3572, [ADP]() 1976, [SCONJ]() 71, [ADV]() 8, [NOUN]() 2, [VERB]() 1), <em>for</em> ([ADP]() 1846, [SCONJ]() 163, [CCONJ]() 6, [X]() 3, [ADV]() 2), <em>on</em> ([ADP]() 1249, [SCONJ]() 66, [ADV]() 54, [ADJ]() 3, [NOUN]() 2, [PROPN]() 1, [NUM]() 1, [X]() 1), <em>with</em> ([ADP]() 1247, [SCONJ]() 67, [ADV]() 3, [X]() 2, [AUX]() 1), <em>at</em> ([ADP]() 736, [ADV]() 90, [SCONJ]() 17, [CCONJ]() 1), <em>from</em> ([ADP]() 667, [SCONJ]() 41), <em>by</em> ([ADP]() 591, [SCONJ]() 63, [ADV]() 8, [VERB]() 1), <em>as</em> ([ADP]() 390, [SCONJ]() 339, [ADV]() 206, [AUX]() 1)
+The 10 most frequent ambiguous types:  <em>of</em> ([ADP]() 3786, [SCONJ]() 153, [ADV]() 35, [AUX]() 1, [CCONJ]() 1), <em>in</em> ([ADP]() 3025, [ADV]() 125, [SCONJ]() 89, [NOUN]() 8, [X]() 2, [ADJ]() 1, [VERB]() 1), <em>to</em> ([PART]() 3572, [ADP]() 1976, [SCONJ]() 71, [ADV]() 8, [NOUN]() 2, [VERB]() 1), <em>for</em> ([ADP]() 1846, [SCONJ]() 163, [CCONJ]() 6, [X]() 3, [ADV]() 2), <em>on</em> ([ADP]() 1249, [SCONJ]() 66, [ADV]() 54, [ADJ]() 3, [NOUN]() 2, [X]() 1, [NUM]() 1, [PROPN]() 1), <em>with</em> ([ADP]() 1247, [SCONJ]() 67, [ADV]() 3, [X]() 2, [AUX]() 1), <em>at</em> ([ADP]() 736, [ADV]() 90, [SCONJ]() 17, [CCONJ]() 1), <em>from</em> ([ADP]() 667, [SCONJ]() 41), <em>by</em> ([ADP]() 591, [SCONJ]() 63, [ADV]() 8, [VERB]() 1), <em>as</em> ([ADP]() 390, [SCONJ]() 339, [ADV]() 206, [AUX]() 1)
 
 
 * <em>of</em>
@@ -28,8 +28,8 @@ The 10 most frequent ambiguous types:  <em>of</em> ([ADP]() 3786, [SCONJ]() 153,
   * [SCONJ]() 89: <em>If you are interested <b>in</b> attending please e-mail me as soon as possible .</em>
   * [NOUN]() 8: <em>AND they 're usually able to help you as a walk - <b>in</b> , and they 're fast .</em>
   * [X]() 2: <em>None , just walk <b>in</b> to the service office and present all the identification you have to prove your identity .</em>
-  * [VERB]() 1: <em>Bredders take the one that <b>in</b> not very interested and put it alone in a breeeding tank for 3 - 5 days .</em>
   * [ADJ]() 1: <em>The fact is , when I began traveling for business to New England , when I first visited my <b>in</b> - laws in Montana and Idaho , I was shocked at the lack of racial diversity .</em>
+  * [VERB]() 1: <em>Bredders take the one that <b>in</b> not very interested and put it alone in a breeeding tank for 3 - 5 days .</em>
 * <em>to</em>
   * [PART]() 3572: <em>When they saw a cartoon of their prophet , people had <b>to</b> die .</em>
   * [ADP]() 1976: <em>To pander <b>to</b> the mythical " Arab street " , of course .</em>
@@ -49,9 +49,9 @@ The 10 most frequent ambiguous types:  <em>of</em> ([ADP]() 3786, [SCONJ]() 153,
   * [ADV]() 54: <em>We 've moved <b>on</b> .</em>
   * [ADJ]() 3: <em>She was dead <b>on</b> -- this restaurant was wonderful --- do not be put off by the one negative review on this page .</em>
   * [NOUN]() 2: <em>I 'm still trying to find out what it will take to move gas <b>on</b> and ENA tabs agreement .</em>
-  * [PROPN]() 1: <em>Thanks Run <b>on</b> !</em>
-  * [NUM]() 1: <em>When she was spayed the vet had a hard time because she only has one uterine horn and he said this could mean she only has <b>on</b> kidney .</em>
   * [X]() 1: <em>Additional resources are being allocated and the situation is being closely monitored ( both for quarter end signoff and <b>on</b> going operations ) .</em>
+  * [NUM]() 1: <em>When she was spayed the vet had a hard time because she only has one uterine horn and he said this could mean she only has <b>on</b> kidney .</em>
+  * [PROPN]() 1: <em>Thanks Run <b>on</b> !</em>
 * <em>with</em>
   * [ADP]() 1247: <em>Do not hesitate to call us <b>with</b> any questions .</em>
   * [SCONJ]() 67: <em>Ken said to go ahead and equip it <b>with</b> what you think it should have .</em>

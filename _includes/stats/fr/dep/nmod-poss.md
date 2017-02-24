@@ -152,38 +152,27 @@ The following 4 pairs of parts of speech are connected with `nmod:poss`: [fr-pos
 
 
 ~~~ conllu
-# visual-style 25	bgColor:blue
-# visual-style 25	fgColor:white
-# visual-style 26	bgColor:blue
-# visual-style 26	fgColor:white
-# visual-style 26 25 nmod:poss	color:blue
-1	Ce	ce	DET	DD	Gender=Masc|Number=Sing|PronType=Dem	2	det	_	_
-2	débat	débat	NOUN	S	Gender=Masc|Number=Sing	13	nsubj	_	_
-3	et	et	CCONJ	CC	_	5	cc	_	_
-4	la	le	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
-5	modification	modification	NOUN	S	Gender=Fem|Number=Sing	2	conj	_	_
-6	de	de	ADP	E	_	8	case	_	_
-7	la	le	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
-8	directive	directive	NOUN	S	Gender=Fem|Number=Sing	5	nmod	_	_
-9	actuellement	actuellement	ADV	B	_	11	advmod	_	_
-10	en	en	ADP	E	_	11	case	_	_
-11	vigueur	vigueur	NOUN	S	Gender=Masc|Number=Sing	8	nmod	_	_
-12	nous	nous	PRON	PE	Number=Plur|Person=1|PronType=Prs	13	iobj	_	_
-13	permettent	permettre	VERB	V	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-14	d'	de	ADP	E	_	15	mark	_	SpaceAfter=No
-15	introduire	introduire	VERB	V	VerbForm=Inf	13	xcomp	_	_
-16	des	un	DET	RI	Definite=Ind|Gender=Masc|Number=Plur|PronType=Dem	17	det	_	_
-17	faits	fait	NOUN	S	Gender=Masc|Number=Plur	15	obj	_	_
-18	différentiels	différentiel	ADJ	A	Gender=Masc|Number=Plur	17	amod	_	_
-19	qui	qui	PRON	PR	PronType=Rel	20	nsubj	_	_
-20	témoignent	témoigner	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	17	acl:relcl	_	_
-21	de	de	ADP	E	_	23	case	_	_
-22	la	le	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	23	det	_	_
-23	diversité	diversité	NOUN	S	Gender=Fem|Number=Sing	20	obl	_	_
-24	de	de	ADP	E	_	26	case	_	_
-25	notre	notre	DET	AP	Gender=Fem|Number=Sing|PronType=Prs	26	nmod:poss	_	_
-26	Europe	Europe	PROPN	SP	_	23	nmod	_	SpaceAfter=No
-27	.	.	PUNCT	FS	_	13	punct	_	_
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 8 10 nmod:poss	color:blue
+1	C'	ce	PRON	PD	PronType=Dem	4	nsubj	_	SpaceAfter=No
+2	est	être	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	le	le	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	résultat	résultat	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+5	de	de	ADP	E	_	7	case	_	_
+6	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	7	det	_	_
+7	politiques	politique	NOUN	S	Gender=Fem|Number=Plur	4	nmod	_	_
+8	discréditées	discrediter	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	7	acl	_	_
+9	de	de	ADP	E	_	10	case	_	_
+10	son	son	DET	AP	Gender=Masc|Number=Sing|PronType=Prs	8	nmod:poss	_	_
+11	parti	parti	NOUN	S	Gender=Masc|Number=Sing	8	obl	_	SpaceAfter=No
+12	,	,	PUNCT	FF	_	11	punct	_	_
+13	le	le	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
+14	parti	parti	NOUN	S	Gender=Masc|Number=Sing	11	appos	_	_
+15	conservateur	conservateur	ADJ	A	Gender=Masc|Number=Sing	14	amod	_	SpaceAfter=No
+16	.	.	PUNCT	FS	_	4	punct	_	_
 
 ~~~
 

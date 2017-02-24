@@ -27,7 +27,7 @@ The most frequent other feature values with which `PRON` and `Polite` co-occurre
 
 2 [de-pos/DET]() tokens (0% of all `DET` tokens) have a non-empty value of `Polite`.
 
-The most frequent other feature values with which `DET` and `Polite` co-occurred: <tt><a href="Case.html">Case</a>=Acc</tt> (2; 100%), <tt><a href="Definite.html">Definite</a>=EMPTY</tt> (2; 100%), <tt><a href="PronType.html">PronType</a>=Prs</tt> (2; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (2; 100%).
+The most frequent other feature values with which `DET` and `Polite` co-occurred: <tt><a href="Definite.html">Definite</a>=EMPTY</tt> (2; 100%), <tt><a href="PronType.html">PronType</a>=Prs</tt> (2; 100%), <tt><a href="Case.html">Case</a>=Acc</tt> (2; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (2; 100%).
 
 `DET` tokens may have the following values of `Polite`:
 

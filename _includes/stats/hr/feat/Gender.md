@@ -186,7 +186,7 @@ The most frequent other feature values with which `DET` and `Gender` co-occurred
 
 5668 [hr-pos/VERB]() tokens (35% of all `VERB` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `VERB` and `Gender` co-occurred: <tt><a href="Voice.html">Voice</a>=Act</tt> (5668; 100%), <tt><a href="Tense.html">Tense</a>=Past</tt> (5668; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (5668; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (5668; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (5668; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (4123; 73%).
+The most frequent other feature values with which `VERB` and `Gender` co-occurred: <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (5668; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (5668; 100%), <tt><a href="Tense.html">Tense</a>=Past</tt> (5668; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (5668; 100%), <tt><a href="Voice.html">Voice</a>=Act</tt> (5668; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (4123; 73%).
 
 `VERB` tokens may have the following values of `Gender`:
 
@@ -216,7 +216,7 @@ The most frequent other feature values with which `PRON` and `Gender` co-occurre
 
 <table>
   <tr><th>Paradigm <i>on</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Acc</tt></td><td><em>ga, njega</em></td><td><em>je, ju, nju</em></td><td><em>ga, nj, njega</em></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Acc</tt></td><td><em>ga, njega</em></td><td><em>je, ju, nju</em></td><td><em>ga, njega, nj</em></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Dat</tt></td><td><em>mu, njemu</em></td><td><em>joj, njoj</em></td><td></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Gen</tt></td><td><em>njega</em></td><td><em>nje, je</em></td><td></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Ins</tt></td><td><em>njim, Njime</em></td><td><em>njom, njome</em></td><td><em>njime, njim</em></td></tr>
@@ -228,7 +228,7 @@ The most frequent other feature values with which `PRON` and `Gender` co-occurre
 
 609 [hr-pos/AUX]() tokens (5% of all `AUX` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `AUX` and `Gender` co-occurred: <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (609; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (609; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (607; 100%), <tt><a href="Tense.html">Tense</a>=Past</tt> (607; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (492; 81%).
+The most frequent other feature values with which `AUX` and `Gender` co-occurred: <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (609; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (609; 100%), <tt><a href="Tense.html">Tense</a>=Past</tt> (607; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (607; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (492; 81%).
 
 `AUX` tokens may have the following values of `Gender`:
 

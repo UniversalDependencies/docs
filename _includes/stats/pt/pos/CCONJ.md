@@ -11,7 +11,7 @@ The 10 most frequent `CCONJ` lemmas: <em>e, mas, ou, nem, quer, /, mais, &, and,
 
 The 10 most frequent `CCONJ` types:  <em>e, mas, ou, nem, quer, /, mais, &, and, tampouco</em>
 
-The 10 most frequent ambiguous lemmas: <em>e</em> ([CCONJ]() 4061, [PROPN]() 45, [ADP]() 2, [NOUN]() 1, [SCONJ]() 1), <em>ou</em> ([CCONJ]() 342, [ADP]() 9), <em>nem</em> ([CCONJ]() 52, [ADV]() 30, [ADP]() 12), <em>quer</em> ([CCONJ]() 10, [ADP]() 2), <em>/</em> ([PUNCT]() 31, [ADP]() 11, [CCONJ]() 4, [PROPN]() 1), <em>mais</em> ([ADV]() 670, [NOUN]() 31, [CCONJ]() 4, [PRON]() 2, [PROPN]() 1, [ADP]() 1), <em>&</em> ([PROPN]() 14, [NOUN]() 1, [CCONJ]() 1), <em>and</em> ([PROPN]() 9, [CCONJ]() 1, [X]() 1), <em>tampouco</em> ([ADV]() 2, [CCONJ]() 1), <em>tanto</em> ([DET]() 26, [ADV]() 23, [PRON]() 5, [NOUN]() 3, [CCONJ]() 1)
+The 10 most frequent ambiguous lemmas: <em>e</em> ([CCONJ]() 4061, [PROPN]() 45, [ADP]() 2, [SCONJ]() 1, [NOUN]() 1), <em>ou</em> ([CCONJ]() 342, [ADP]() 9), <em>nem</em> ([CCONJ]() 52, [ADV]() 30, [ADP]() 12), <em>quer</em> ([CCONJ]() 10, [ADP]() 2), <em>/</em> ([PUNCT]() 31, [ADP]() 11, [CCONJ]() 4, [PROPN]() 1), <em>mais</em> ([ADV]() 670, [NOUN]() 31, [CCONJ]() 4, [PRON]() 2, [PROPN]() 1, [ADP]() 1), <em>&</em> ([PROPN]() 14, [CCONJ]() 1, [NOUN]() 1), <em>and</em> ([PROPN]() 9, [X]() 1, [CCONJ]() 1), <em>tampouco</em> ([ADV]() 2, [CCONJ]() 1), <em>tanto</em> ([DET]() 26, [ADV]() 23, [PRON]() 5, [NOUN]() 3, [CCONJ]() 1)
 
 The 10 most frequent ambiguous types:  <em>e</em> ([CCONJ]() 3902, [PROPN]() 45, [ADP]() 3, [SCONJ]() 1, [NOUN]() 1), <em>ou</em> ([CCONJ]() 319, [ADP]() 8), <em>nem</em> ([CCONJ]() 49, [ADV]() 25, [ADP]() 10), <em>quer</em> ([VERB]() 36, [CCONJ]() 9, [ADP]() 2), <em>/</em> ([PUNCT]() 31, [ADP]() 11, [CCONJ]() 4, [PROPN]() 1), <em>mais</em> ([ADV]() 638, [DET]() 67, [NOUN]() 29, [PRON]() 18, [CCONJ]() 4, [ADP]() 1, [PROPN]() 1), <em>&</em> ([PROPN]() 14, [CCONJ]() 1, [NOUN]() 1), <em>and</em> ([PROPN]() 9, [CCONJ]() 1, [X]() 1), <em>tanto</em> ([ADV]() 20, [DET]() 6, [NOUN]() 3, [CCONJ]() 1, [PRON]() 1)
 
@@ -113,7 +113,7 @@ The 10 most frequent `CCONJ` types:  <em>e, que, mas, ou, se, eo, ea, quando, co
 
 The 10 most frequent ambiguous lemmas: <em>_</em> ([NOUN]() 51670, [PUNCT]() 37916, [PROPN]() 29660, [ADP]() 27823, [VERB]() 26752, [DET]() 23518, [ADJ]() 13618, [CCONJ]() 9896, [ADV]() 8825, [NUM]() 7639, [PRON]() 6681, [AUX]() 4729, [PART]() 687, [X]() 472)
 
-The 10 most frequent ambiguous types:  <em>e</em> ([CCONJ]() 5319, [ADJ]() 13, [X]() 9, [ADP]() 2, [AUX]() 2, [DET]() 1), <em>que</em> ([PRON]() 2673, [CCONJ]() 2020, [ADP]() 107, [DET]() 6, [NOUN]() 3, [X]() 1), <em>mas</em> ([CCONJ]() 460, [ADV]() 1), <em>se</em> ([PRON]() 687, [PART]() 362, [CCONJ]() 173, [ADP]() 3, [PROPN]() 1), <em>eo</em> ([CCONJ]() 218, [ADP]() 1), <em>ea</em> ([CCONJ]() 210, [VERB]() 1), <em>quando</em> ([CCONJ]() 139, [ADV]() 93, [ADP]() 2), <em>como</em> ([ADP]() 649, [CCONJ]() 84, [ADV]() 61), <em>porque</em> ([CCONJ]() 99, [ADV]() 5), <em>enquanto</em> ([CCONJ]() 56, [ADV]() 4, [ADP]() 4)
+The 10 most frequent ambiguous types:  <em>e</em> ([CCONJ]() 5319, [ADJ]() 13, [X]() 9, [ADP]() 2, [AUX]() 2, [DET]() 1), <em>que</em> ([PRON]() 2673, [CCONJ]() 2020, [ADP]() 107, [DET]() 6, [NOUN]() 3, [X]() 1), <em>mas</em> ([CCONJ]() 460, [ADV]() 1), <em>se</em> ([PRON]() 687, [PART]() 362, [CCONJ]() 173, [ADP]() 3, [PROPN]() 1), <em>eo</em> ([CCONJ]() 218, [ADP]() 1), <em>ea</em> ([CCONJ]() 210, [VERB]() 1), <em>quando</em> ([CCONJ]() 139, [ADV]() 93, [ADP]() 2), <em>como</em> ([ADP]() 649, [CCONJ]() 84, [ADV]() 61), <em>porque</em> ([CCONJ]() 99, [ADV]() 5), <em>enquanto</em> ([CCONJ]() 56, [ADP]() 4, [ADV]() 4)
 
 
 * <em>e</em>
@@ -158,8 +158,8 @@ The 10 most frequent ambiguous types:  <em>e</em> ([CCONJ]() 5319, [ADJ]() 13, [
   * [ADV]() 5: <em>Bem ... Nem sei <b>porque</b> estou aqui dando dicas .</em>
 * <em>enquanto</em>
   * [CCONJ]() 56: <em><b>enquanto</b> en a memória Flash o acesso é direto ;</em>
-  * [ADV]() 4: <em>Por <b>enquanto</b> , nenhuma empresa foi confirmada .</em>
   * [ADP]() 4: <em>Russomanno , <b>enquanto</b> isso , enfrentou algumas críticas em tom mais ameno .</em>
+  * [ADV]() 4: <em>Por <b>enquanto</b> , nenhuma empresa foi confirmada .</em>
 
 ## Morphology
 

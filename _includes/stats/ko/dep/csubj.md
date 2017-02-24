@@ -59,17 +59,20 @@ The following 4 pairs of parts of speech are connected with `csubj`: [ko-pos/VER
 
 
 ~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 3 csubj	color:blue
-1	내가	_	PRON	PRON	_	3	nsubj	_	_
-2	어딜	_	NOUN	NOUN	_	3	obj	_	_
-3	가든	_	VERB	PREDCOMP	_	5	csubj	_	_
-4	뭔	_	DET	DET	_	5	det	_	_
-5	상관	_	NOUN	NOUN	_	0	root	_	SpaceAfter=No
-6	?	?	PUNCT	?	_	5	punct	_	_
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 8 7 csubj	color:blue
+1	중요한	_	ADJ	ADJ	_	2	amod	_	_
+2	건	_	NOUN	NOUN	_	8	nsubj	_	_
+3	이	_	DET	DET	_	4	det	_	_
+4	분위기를	_	NOUN	NOUN	_	7	obj	_	_
+5	어떻게	_	ADV	ADV	_	7	advmod	_	_
+6	끝까지	_	ADV	ADV	_	7	advmod	_	_
+7	이어가느냐가	_	NOUN	NOUN	_	8	csubj	_	_
+8	중요하다	_	ADJ	ADJ	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	.	_	8	punct	_	_
 
 ~~~
 

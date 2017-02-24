@@ -13,7 +13,7 @@ The 10 most frequent `ADV` types:  <em>tak, bardzo, jak, teraz, tam, tu, wczoraj
 
 The 10 most frequent ambiguous lemmas: <em>jak</em> ([ADV]() 80, [ADP]() 29, [CCONJ]() 6), <em>wczoraj</em> ([ADV]() 55, [NOUN]() 2), <em>dziś</em> ([ADV]() 31, [NOUN]() 10), <em>kiedy</em> ([ADV]() 25, [SCONJ]() 12), <em>prawdopodobnie</em> ([ADV]() 21, [PART]() 3), <em>rano</em> ([ADV]() 18, [NOUN]() 9), <em>mało</em> ([ADV]() 16, [NUM]() 2), <em>trochę</em> ([ADV]() 11, [NUM]() 3), <em>zbyt</em> ([ADV]() 11, [PART]() 9, [NOUN]() 1), <em>dużo</em> ([NUM]() 12, [ADV]() 10)
 
-The 10 most frequent ambiguous types:  <em>jak</em> ([ADV]() 43, [ADP]() 28, [CCONJ]() 6), <em>wczoraj</em> ([ADV]() 40, [NOUN]() 2), <em>dziś</em> ([ADV]() 20, [NOUN]() 10), <em>kiedy</em> ([ADV]() 11, [SCONJ]() 6), <em>prawdopodobnie</em> ([ADV]() 12, [PART]() 1), <em>razem</em> ([NOUN]() 18, [ADV]() 12), <em>trochę</em> ([ADV]() 9, [NUM]() 3), <em>zbyt</em> ([ADV]() 11, [PART]() 8), <em>dzisiaj</em> ([ADV]() 7, [NOUN]() 7), <em>chyba</em> ([PART]() 13, [ADV]() 6)
+The 10 most frequent ambiguous types:  <em>jak</em> ([ADV]() 43, [ADP]() 28, [CCONJ]() 6), <em>wczoraj</em> ([ADV]() 40, [NOUN]() 2), <em>dziś</em> ([ADV]() 20, [NOUN]() 10), <em>kiedy</em> ([ADV]() 11, [SCONJ]() 6), <em>prawdopodobnie</em> ([ADV]() 12, [PART]() 1), <em>razem</em> ([NOUN]() 18, [ADV]() 12), <em>trochę</em> ([ADV]() 9, [NUM]() 3), <em>zbyt</em> ([ADV]() 11, [PART]() 8), <em>dzisiaj</em> ([NOUN]() 7, [ADV]() 7), <em>chyba</em> ([PART]() 13, [ADV]() 6)
 
 
 * <em>jak</em>
@@ -42,8 +42,8 @@ The 10 most frequent ambiguous types:  <em>jak</em> ([ADV]() 43, [ADP]() 28, [CC
   * [ADV]() 11: <em>Nawet u mnie nie byli , bo formalności wizowe trwały <b>zbyt</b> długo .</em>
   * [PART]() 8: <em>Na to jest <b>zbyt</b> wielkim tchórzem .</em>
 * <em>dzisiaj</em>
-  * [ADV]() 7: <em>Maszewski Teatr Krzyk wystąpi <b>dzisiaj</b> w Gdańsku .</em>
   * [NOUN]() 7: <em>- Ja już chyba , chłopak , tobie na <b>dzisiaj</b> podziękuję .</em>
+  * [ADV]() 7: <em>Maszewski Teatr Krzyk wystąpi <b>dzisiaj</b> w Gdańsku .</em>
 * <em>chyba</em>
   * [PART]() 13: <em>- Każdy twórca marzy <b>chyba</b> , żeby odnieść wielki sukces .</em>
   * [ADV]() 6: <em>Barku <b>chyba</b> nie ma , to błąd .</em>

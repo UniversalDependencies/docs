@@ -11,7 +11,7 @@ The 10 most frequent `X` lemmas: <em>P, S, carvi, lebetina, maculata, papaya, ф
 
 The 10 most frequent `X` types:  <em>P, S, carvi, lebetina, maculata, papaya, фак, ю</em>
 
-The 10 most frequent ambiguous lemmas: <em>ю</em> ([X]() 1, [PRON]() 1)
+The 10 most frequent ambiguous lemmas: <em>ю</em> ([PRON]() 1, [X]() 1)
 
 The 10 most frequent ambiguous types:  <em>ю</em> ([X]() 1, [PRON]() 1)
 

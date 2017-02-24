@@ -16,7 +16,7 @@ The feature is used with 3 part-of-speech tags: [nl-pos/DET]() (4052; 2% instanc
 
 4052 [nl-pos/DET]() tokens (19% of all `DET` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `DET` and `Gender` co-occurred: <tt><a href="PronType.html">PronType</a>=Art</tt> (3990; 98%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (3959; 98%), <tt><a href="Definite.html">Definite</a>=Def</tt> (3959; 98%).
+The most frequent other feature values with which `DET` and `Gender` co-occurred: <tt><a href="PronType.html">PronType</a>=Art</tt> (3990; 98%), <tt><a href="Definite.html">Definite</a>=Def</tt> (3959; 98%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (3959; 98%).
 
 `DET` tokens may have the following values of `Gender`:
 
@@ -67,10 +67,10 @@ The most frequent other feature values with which `ADP` and `Gender` co-occurred
 The 10 most frequent relations where parent and child node agree in `Gender`:
 <tt>X --[<a href="../dep/compound.html">compound</a>]--> X</tt> (283; 100%),
 <tt>X --[<a href="../dep/mark.html">mark</a>]--> X</tt> (21; 100%),
-<tt>ADP --[<a href="../dep/det.html">det</a>]--> DET</tt> (1; 100%),
 <tt>X --[<a href="../dep/conj.html">conj</a>]--> X</tt> (1; 100%),
 <tt>X --[<a href="../dep/nsubj.html">nsubj</a>]--> X</tt> (1; 100%),
-<tt>X --[<a href="../dep/cop.html">cop</a>]--> X</tt> (1; 100%).
+<tt>X --[<a href="../dep/cop.html">cop</a>]--> X</tt> (1; 100%),
+<tt>ADP --[<a href="../dep/det.html">det</a>]--> DET</tt> (1; 100%).
 
 
 

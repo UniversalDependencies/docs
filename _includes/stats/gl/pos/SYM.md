@@ -5,7 +5,7 @@
 ## Treebank Statistics (UD_Galician)
 
 There are 14 `SYM` lemmas (0%), 14 `SYM` types (0%) and 474 `SYM` tokens (0%).
-Out of 15 observed tags, the rank of `SYM` is: 11 in number of lemmas, 11 in number of types and 14 in number of tokens.
+Out of 16 observed tags, the rank of `SYM` is: 11 in number of lemmas, 12 in number of types and 15 in number of tokens.
 
 The 10 most frequent `SYM` lemmas: <em>%, _, =, *, §, ±, ´, &, +, <</em>
 
@@ -22,7 +22,7 @@ The 10 most frequent ambiguous types:  <em>_</em> ([SYM]() 116, [PUNCT]() 58)
 
 ## Morphology
 
-The form / lemma ratio of `SYM` is 1.000000 (the average of all parts of speech is 1.505536).
+The form / lemma ratio of `SYM` is 1.000000 (the average of all parts of speech is 1.508250).
 
 The 1st highest number of forms (1) was observed with the lemma “%”: <em>%</em>.
 
@@ -35,9 +35,9 @@ The 3rd highest number of forms (1) was observed with the lemma “*”: <em>*</
 
 ## Relations
 
-`SYM` nodes are attached to their parents using 7 different relations: [gl-dep/nmod]() (300; 63% instances), [gl-dep/punct]() (156; 33% instances), [gl-dep/amod]() (6; 1% instances), [gl-dep/dobj]() (6; 1% instances), [gl-dep/nsubj]() (3; 1% instances), [gl-dep/ccomp]() (2; 0% instances), [gl-dep/cop]() (1; 0% instances)
+`SYM` nodes are attached to their parents using 7 different relations: [gl-dep/nmod]() (300; 63% instances), [gl-dep/punct]() (156; 33% instances), [gl-dep/amod]() (6; 1% instances), [gl-dep/obj]() (6; 1% instances), [gl-dep/nsubj]() (3; 1% instances), [gl-dep/ccomp]() (2; 0% instances), [gl-dep/xcomp]() (1; 0% instances)
 
-Parents of `SYM` nodes belong to 6 different parts of speech: [NUM]() (320; 68% instances), [NOUN]() (102; 22% instances), [VERB]() (30; 6% instances), [PROPN]() (14; 3% instances), [ADJ]() (6; 1% instances), [PRON]() (2; 0% instances)
+Parents of `SYM` nodes belong to 7 different parts of speech: [NUM]() (320; 68% instances), [NOUN]() (104; 22% instances), [VERB]() (25; 5% instances), [PROPN]() (14; 3% instances), [ADJ]() (8; 2% instances), [PRON]() (2; 0% instances), [ADP]() (1; 0% instances)
 
 474 (100%) `SYM` nodes are leaves.
 

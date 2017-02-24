@@ -75,14 +75,14 @@ The most frequent other feature values with which `AUX` and `VerbForm` co-occurr
   <tr><td><tt><a href="Mood.html">Mood</a>=Imp|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=2</tt></td><td><em>budite</em></td><td></td><td></td></tr>
   <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=1|<a href="Polarity.html">Polarity</a>=Neg|<a href="Tense.html">Tense</a>=Pres</tt></td><td><em>nisam</em></td><td></td><td></td></tr>
   <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=1|<a href="Tense.html">Tense</a>=Pres</tt></td><td><em>sam, nisam, jesam</em></td><td></td><td></td></tr>
-  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=2|<a href="Tense.html">Tense</a>=Pres</tt></td><td><em>si, jesi, nisi</em></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=2|<a href="Tense.html">Tense</a>=Pres</tt></td><td><em>si, nisi, jesi</em></td><td></td><td></td></tr>
   <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3|<a href="Polarity.html">Polarity</a>=Neg|<a href="Tense.html">Tense</a>=Pres</tt></td><td><em>nije</em></td><td></td><td></td></tr>
   <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Imp</tt></td><td><em>bijaše</em></td><td></td><td></td></tr>
   <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Pres</tt></td><td><em>je, nije, bude, jest, jeste</em></td><td></td><td></td></tr>
   <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=1|<a href="Polarity.html">Polarity</a>=Neg|<a href="Tense.html">Tense</a>=Pres</tt></td><td><em>nismo</em></td><td></td><td></td></tr>
   <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=1|<a href="Tense.html">Tense</a>=Pres</tt></td><td><em>smo, nismo, jesmo, budemo</em></td><td></td><td></td></tr>
   <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=2|<a href="Polarity.html">Polarity</a>=Neg|<a href="Tense.html">Tense</a>=Pres</tt></td><td><em>niste</em></td><td></td><td></td></tr>
-  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=2|<a href="Tense.html">Tense</a>=Pres</tt></td><td><em>ste, niste, Jeste, budete</em></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=2|<a href="Tense.html">Tense</a>=Pres</tt></td><td><em>ste, Jeste, niste, budete</em></td><td></td><td></td></tr>
   <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=3|<a href="Polarity.html">Polarity</a>=Neg|<a href="Tense.html">Tense</a>=Pres</tt></td><td><em>nisu</em></td><td></td><td></td></tr>
   <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Pres</tt></td><td><em>su, nisu, budu, jesu, biti</em></td><td></td><td></td></tr>
 </table>
@@ -123,9 +123,9 @@ The 10 most frequent relations where parent and child node agree in `VerbForm`:
 <tt>ADJ --[<a href="../dep/conj.html">conj</a>]--> ADJ</tt> (80; 65%),
 <tt>VERB --[<a href="../dep/conj.html">conj</a>]--> AUX</tt> (32; 70%),
 <tt>AUX --[<a href="../dep/conj.html">conj</a>]--> VERB</tt> (28; 74%),
-<tt>AUX --[<a href="../dep/advcl.html">advcl</a>]--> VERB</tt> (17; 77%),
-<tt>VERB --[<a href="../dep/ccomp.html">ccomp</a>]--> AUX</tt> (17; 59%),
 <tt>AUX --[<a href="../dep/ccomp.html">ccomp</a>]--> VERB</tt> (17; 85%),
-<tt>VERB --[<a href="../dep/obj.html">obj</a>]--> VERB</tt> (9; 82%),
-<tt>VERB --[<a href="../dep/advmod.html">advmod</a>]--> VERB</tt> (9; 69%).
+<tt>VERB --[<a href="../dep/ccomp.html">ccomp</a>]--> AUX</tt> (17; 59%),
+<tt>AUX --[<a href="../dep/advcl.html">advcl</a>]--> VERB</tt> (17; 77%),
+<tt>VERB --[<a href="../dep/advmod.html">advmod</a>]--> VERB</tt> (9; 69%),
+<tt>VERB --[<a href="../dep/obj.html">obj</a>]--> VERB</tt> (9; 82%).
 

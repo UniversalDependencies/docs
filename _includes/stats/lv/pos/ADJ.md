@@ -11,7 +11,7 @@ The 10 most frequent `ADJ` lemmas: <em>liels, liela, jauns, jauna, pedagoģisks,
 
 The 10 most frequent `ADJ` types:  <em>pedagoģisko, 2012., 1., nacionālās, 2., iespējams, 3., jaunu, liela, liels</em>
 
-The 10 most frequent ambiguous lemmas: <em>liels</em> ([ADJ]() 63, [NOUN]() 2), <em>pāris</em> ([ADJ]() 7, [NOUN]() 5, [ADV]() 1), <em>normatīvs</em> ([ADJ]() 4, [NOUN]() 1), <em>plāns</em> ([NOUN]() 15, [ADJ]() 4), <em>7</em> ([NUM]() 5, [ADJ]() 1), <em>XV</em> ([ADJ]() 1, [SYM]() 1), <em>bieži</em> ([ADV]() 17, [ADJ]() 1), <em>cauri</em> ([ADV]() 3, [ADJ]() 1), <em>jebkura</em> ([DET]() 2, [ADJ]() 1), <em>jebkurš</em> ([DET]() 7, [PRON]() 1, [ADJ]() 1)
+The 10 most frequent ambiguous lemmas: <em>liels</em> ([ADJ]() 63, [NOUN]() 2), <em>pāris</em> ([ADJ]() 7, [NOUN]() 5, [ADV]() 1), <em>normatīvs</em> ([ADJ]() 4, [NOUN]() 1), <em>plāns</em> ([NOUN]() 15, [ADJ]() 4), <em>7</em> ([NUM]() 5, [ADJ]() 1), <em>XV</em> ([SYM]() 1, [ADJ]() 1), <em>bieži</em> ([ADV]() 17, [ADJ]() 1), <em>cauri</em> ([ADV]() 3, [ADJ]() 1), <em>jebkura</em> ([DET]() 2, [ADJ]() 1), <em>jebkurš</em> ([DET]() 7, [PRON]() 1, [ADJ]() 1)
 
 The 10 most frequent ambiguous types:  <em>liela</em> ([ADJ]() 15, [NOUN]() 1), <em>otrās</em> ([ADJ]() 11, [NUM]() 1), <em>pāris</em> ([ADJ]() 7, [ADV]() 1), <em>pirmā</em> ([ADJ]() 3, [PROPN]() 1), <em>noteiktu</em> ([ADJ]() 4, [VERB]() 4), <em>balti</em> ([ADJ]() 3, [NOUN]() 1), <em>skaistus</em> ([ADJ]() 3, [NOUN]() 1), <em>atsevišķi</em> ([ADV]() 4, [ADJ]() 2), <em>ievērojamu</em> ([ADJ]() 2, [VERB]() 2), <em>ilgas</em> ([ADJ]() 2, [NOUN]() 1)
 

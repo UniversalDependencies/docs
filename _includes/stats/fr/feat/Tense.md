@@ -89,7 +89,7 @@ The most frequent other feature values with which `AUX` and `Tense` co-occurred:
 
 3 [fr-pos/NOUN]() tokens (0% of all `NOUN` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `NOUN` and `Tense` co-occurred: <tt><a href="Gender.html">Gender</a>=Fem</tt> (2; 67%), <tt><a href="Number.html">Number</a>=Sing</tt> (2; 67%).
+The most frequent other feature values with which `NOUN` and `Tense` co-occurred: <tt><a href="Number.html">Number</a>=Sing</tt> (2; 67%), <tt><a href="Gender.html">Gender</a>=Fem</tt> (2; 67%).
 
 `NOUN` tokens may have the following values of `Tense`:
 
@@ -102,8 +102,8 @@ The 10 most frequent relations where parent and child node agree in `Tense`:
 <tt>VERB --[<a href="../dep/conj.html">conj</a>]--> VERB</tt> (1948; 74%),
 <tt>VERB --[<a href="../dep/appos.html">appos</a>]--> VERB</tt> (3; 60%),
 <tt>AUX --[<a href="../dep/conj.html">conj</a>]--> AUX</tt> (2; 67%),
-<tt>VERB --[<a href="../dep/compound.html">compound</a>]--> VERB</tt> (1; 100%),
-<tt>VERB --[<a href="../dep/mark.html">mark</a>]--> VERB</tt> (1; 100%).
+<tt>VERB --[<a href="../dep/mark.html">mark</a>]--> VERB</tt> (1; 100%),
+<tt>VERB --[<a href="../dep/compound.html">compound</a>]--> VERB</tt> (1; 100%).
 
 
 
@@ -197,7 +197,7 @@ The feature is used with 2 part-of-speech tags: [fr-pos/VERB]() (3697; 6% instan
 
 3697 [fr-pos/VERB]() tokens (78% of all `VERB` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (3058; 83%), <tt><a href="Number.html">Number</a>=Sing</tt> (2417; 65%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (2141; 58%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (2141; 58%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (2141; 58%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (1860; 50%).
+The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (3058; 83%), <tt><a href="Number.html">Number</a>=Sing</tt> (2417; 65%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (2141; 58%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (2141; 58%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (2141; 58%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (1860; 50%).
 
 `VERB` tokens may have the following values of `Tense`:
 

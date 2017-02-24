@@ -16,7 +16,7 @@ The feature is used with 1 part-of-speech tags: [en-pos/VERB]() (1319; 1% instan
 
 1319 [en-pos/VERB]() tokens (5% of all `VERB` tokens) have a non-empty value of `Voice`.
 
-The most frequent other feature values with which `VERB` and `Voice` co-occurred: <tt><a href="Tense.html">Tense</a>=Past</tt> (1319; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (1319; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (1319; 100%).
+The most frequent other feature values with which `VERB` and `Voice` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (1319; 100%), <tt><a href="Tense.html">Tense</a>=Past</tt> (1319; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (1319; 100%).
 
 `VERB` tokens may have the following values of `Voice`:
 

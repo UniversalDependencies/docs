@@ -16,7 +16,7 @@ The feature is used with 1 part-of-speech tags: [pt-pos/NOUN]() (1; 0% instances
 
 1 [pt-pos/NOUN]() tokens (0% of all `NOUN` tokens) have a non-empty value of `Foreign`.
 
-The most frequent other feature values with which `NOUN` and `Foreign` co-occurred: <tt><a href="Number.html">Number</a>=EMPTY</tt> (1; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (1; 100%).
+The most frequent other feature values with which `NOUN` and `Foreign` co-occurred: <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (1; 100%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (1; 100%).
 
 `NOUN` tokens may have the following values of `Foreign`:
 

@@ -25,7 +25,7 @@ The feature is used with 3 part-of-speech tags: [eu-pos/PART]() (1172; 1% instan
 
 149 [eu-pos/VERB]() tokens (1% of all `VERB` tokens) have a non-empty value of `Polarity`.
 
-The most frequent other feature values with which `VERB` and `Polarity` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=EMPTY</tt> (149; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (149; 100%), <tt><a href="Aspect.html">Aspect</a>=Prog</tt> (149; 100%), <tt><a href="Person[abs].html">Person[abs]</a>=3</tt> (149; 100%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (138; 93%), <tt><a href="Number[abs].html">Number[abs]</a>=Sing</tt> (115; 77%).
+The most frequent other feature values with which `VERB` and `Polarity` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=EMPTY</tt> (149; 100%), <tt><a href="Person[abs].html">Person[abs]</a>=3</tt> (149; 100%), <tt><a href="Aspect.html">Aspect</a>=Prog</tt> (149; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (149; 100%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (138; 93%), <tt><a href="Number[abs].html">Number[abs]</a>=Sing</tt> (115; 77%).
 
 `VERB` tokens may have the following values of `Polarity`:
 

@@ -36,7 +36,7 @@ The most frequent other feature values with which `DET` and `Gender` co-occurred
   <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Number.html">Number</a>=Sing|<a href="PronType.html">PronType</a>=Dem</tt></td><td><em>dessen, den</em></td><td></td><td><em>die</em></td><td><em>das</em></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Number.html">Number</a>=Sing|<a href="PronType.html">PronType</a>=Rel</tt></td><td><em>dessen, den</em></td><td></td><td><em>die</em></td><td><em>das</em></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Number.html">Number</a>=Plur|<a href="PronType.html">PronType</a>=Dem</tt></td><td></td><td></td><td></td><td><em>das</em></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Dat|<a href="Definite.html">Definite</a>=Def|<a href="Number.html">Number</a>=Sing|<a href="PronType.html">PronType</a>=Art</tt></td><td></td><td><em>dem</em></td><td><em>der, den, dem, die</em></td><td></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Dat|<a href="Definite.html">Definite</a>=Def|<a href="Number.html">Number</a>=Sing|<a href="PronType.html">PronType</a>=Art</tt></td><td></td><td><em>dem</em></td><td><em>der, die, den, dem</em></td><td></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Dat|<a href="Definite.html">Definite</a>=Def|<a href="Number.html">Number</a>=Plur|<a href="PronType.html">PronType</a>=Art</tt></td><td><em>den</em></td><td></td><td><em>den</em></td><td><em>den</em></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Dat|<a href="Number.html">Number</a>=Sing|<a href="PronType.html">PronType</a>=Dem</tt></td><td></td><td><em>dem</em></td><td><em>derer</em></td><td></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Dat|<a href="Number.html">Number</a>=Sing|<a href="PronType.html">PronType</a>=Rel</tt></td><td></td><td><em>dem</em></td><td><em>der</em></td><td></td></tr>
@@ -173,7 +173,7 @@ The most frequent other feature values with which `NUM` and `Gender` co-occurred
 
 4 [de-pos/VERB]() tokens (0% of all `VERB` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `VERB` and `Gender` co-occurred: <tt><a href="Number.html">Number</a>=Sing</tt> (4; 100%), <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (4; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (4; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (4; 100%), <tt><a href="VerbForm.html">VerbForm</a>=EMPTY</tt> (3; 75%).
+The most frequent other feature values with which `VERB` and `Gender` co-occurred: <tt><a href="Person.html">Person</a>=EMPTY</tt> (4; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (4; 100%), <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (4; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (4; 100%), <tt><a href="VerbForm.html">VerbForm</a>=EMPTY</tt> (3; 75%).
 
 `VERB` tokens may have the following values of `Gender`:
 

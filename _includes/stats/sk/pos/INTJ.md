@@ -13,7 +13,7 @@ The 10 most frequent `INTJ` types:  <em>Mhm, haló, pozor, Aha, Amen, BUM, KLAP,
 
 The 10 most frequent ambiguous lemmas: <em>pozor</em> ([INTJ]() 5, [NOUN]() 3), <em>hotovo</em> ([INTJ]() 1, [NOUN]() 1), <em>pravdaže</em> ([PART]() 2, [INTJ]() 1)
 
-The 10 most frequent ambiguous types:  <em>pozor</em> ([NOUN]() 2, [INTJ]() 1), <em>Hotovo</em> ([NOUN]() 1, [INTJ]() 1), <em>Pravdaže</em> ([INTJ]() 1, [PART]() 1)
+The 10 most frequent ambiguous types:  <em>pozor</em> ([NOUN]() 2, [INTJ]() 1), <em>Hotovo</em> ([NOUN]() 1, [INTJ]() 1), <em>Pravdaže</em> ([PART]() 1, [INTJ]() 1)
 
 
 * <em>pozor</em>
@@ -23,8 +23,8 @@ The 10 most frequent ambiguous types:  <em>pozor</em> ([NOUN]() 2, [INTJ]() 1), 
   * [NOUN]() 1: <em><b>Hotovo</b> ! “ víťazoslávne sa rehotala Uršuľa .</em>
   * [INTJ]() 1: <em><b>Hotovo</b> !</em>
 * <em>Pravdaže</em>
-  * [INTJ]() 1: <em>“ <b>Pravdaže</b> , poklad môj , “ odvetila mamička .</em>
   * [PART]() 1: <em>“ <b>Pravdaže</b> , “ odvetila svätojánska muška a zasvietila jasnejšie .</em>
+  * [INTJ]() 1: <em>“ <b>Pravdaže</b> , poklad môj , “ odvetila mamička .</em>
 
 ## Morphology
 

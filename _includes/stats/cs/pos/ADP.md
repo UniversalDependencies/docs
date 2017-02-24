@@ -106,7 +106,7 @@ The 10 most frequent `ADP` lemmas: <em>v, na, s, z, k, o, pro, do, za, při</em>
 
 The 10 most frequent `ADP` types:  <em>v, na, s, z, o, k, pro, do, ve, za</em>
 
-The 10 most frequent ambiguous lemmas: <em>v</em> ([ADP]() 12513, [NOUN]() 3), <em>s</em> ([ADP]() 3748, [PART]() 13), <em>z</em> ([ADP]() 3624, [NOUN]() 2), <em>bez</em> ([ADP]() 343, [NOUN]() 1), <em>kolem</em> ([ADP]() 142, [ADV]() 3), <em>vedle</em> ([ADP]() 98, [ADV]() 3), <em>místo</em> ([NOUN]() 353, [ADP]() 48, [SCONJ]() 2), <em>de</em> ([ADP]() 29, [NOUN]() 1), <em>a</em> ([CCONJ]() 15159, [ADP]() 4), <em>vstříc</em> ([ADP]() 4, [ADV]() 4)
+The 10 most frequent ambiguous lemmas: <em>v</em> ([ADP]() 12513, [NOUN]() 3), <em>s</em> ([ADP]() 3748, [PART]() 13), <em>z</em> ([ADP]() 3624, [NOUN]() 2), <em>bez</em> ([ADP]() 343, [NOUN]() 1), <em>kolem</em> ([ADP]() 142, [ADV]() 3), <em>vedle</em> ([ADP]() 98, [ADV]() 3), <em>místo</em> ([NOUN]() 353, [ADP]() 48, [SCONJ]() 2), <em>de</em> ([ADP]() 29, [NOUN]() 1), <em>a</em> ([CCONJ]() 15159, [ADP]() 4), <em>vstříc</em> ([ADV]() 4, [ADP]() 4)
 
 The 10 most frequent ambiguous types:  <em>v</em> ([ADP]() 9074, [NOUN]() 3), <em>na</em> ([ADP]() 6456, [CCONJ]() 1), <em>s</em> ([ADP]() 3046, [PART]() 13), <em>z</em> ([ADP]() 2782, [NOUN]() 2), <em>se</em> ([PRON]() 7555, [ADP]() 589), <em>kolem</em> ([ADP]() 132, [ADV]() 3, [NOUN]() 1), <em>vzhledem</em> ([ADP]() 75, [NOUN]() 4), <em>pomocí</em> ([ADP]() 93, [NOUN]() 17), <em>vedle</em> ([ADP]() 69, [ADV]() 3), <em>během</em> ([ADP]() 49, [NOUN]() 1)
 

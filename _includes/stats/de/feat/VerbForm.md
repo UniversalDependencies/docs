@@ -16,7 +16,7 @@ The feature is used with 2 part-of-speech tags: [de-pos/VERB]() (22984; 8% insta
 
 22984 [de-pos/VERB]() tokens (98% of all `VERB` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (18361; 80%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (18361; 80%), <tt><a href="Person.html">Person</a>=3</tt> (13339; 58%).
+The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (18361; 80%), <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (18361; 80%), <tt><a href="Person.html">Person</a>=3</tt> (13339; 58%).
 
 `VERB` tokens may have the following values of `VerbForm`:
 

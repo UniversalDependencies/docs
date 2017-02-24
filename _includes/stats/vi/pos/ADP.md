@@ -13,7 +13,7 @@ The 10 most frequent `ADP` types:  <em>của, với, trong, ở, cho, để, đ�
 
 The 10 most frequent ambiguous lemmas: <em>của</em> ([ADP]() 322, [NOUN]() 1), <em>với</em> ([ADP]() 174, [CCONJ]() 10, [VERB]() 1), <em>trong</em> ([ADP]() 171, [NOUN]() 13), <em>ở</em> ([ADP]() 131, [VERB]() 47), <em>cho</em> ([ADP]() 118, [VERB]() 72, [X]() 3), <em>để</em> ([ADP]() 109, [VERB]() 23), <em>đến</em> ([ADP]() 103, [VERB]() 71, [X]() 14, [PART]() 7), <em>từ</em> ([ADP]() 101, [NOUN]() 1, [VERB]() 1), <em>về</em> ([ADP]() 83, [VERB]() 78, [X]() 16), <em>vào</em> ([ADP]() 72, [VERB]() 43, [X]() 25)
 
-The 10 most frequent ambiguous types:  <em>của</em> ([ADP]() 322, [NOUN]() 1), <em>với</em> ([ADP]() 174, [CCONJ]() 10, [VERB]() 1), <em>trong</em> ([ADP]() 171, [NOUN]() 13), <em>ở</em> ([ADP]() 131, [VERB]() 47), <em>cho</em> ([ADP]() 118, [VERB]() 72, [X]() 3), <em>để</em> ([ADP]() 109, [VERB]() 23), <em>đến</em> ([ADP]() 103, [VERB]() 71, [X]() 14, [PART]() 7), <em>từ</em> ([ADP]() 101, [VERB]() 1, [NOUN]() 1), <em>về</em> ([ADP]() 83, [VERB]() 78, [X]() 16), <em>vào</em> ([ADP]() 72, [VERB]() 43, [X]() 25)
+The 10 most frequent ambiguous types:  <em>của</em> ([ADP]() 322, [NOUN]() 1), <em>với</em> ([ADP]() 174, [CCONJ]() 10, [VERB]() 1), <em>trong</em> ([ADP]() 171, [NOUN]() 13), <em>ở</em> ([ADP]() 131, [VERB]() 47), <em>cho</em> ([ADP]() 118, [VERB]() 72, [X]() 3), <em>để</em> ([ADP]() 109, [VERB]() 23), <em>đến</em> ([ADP]() 103, [VERB]() 71, [X]() 14, [PART]() 7), <em>từ</em> ([ADP]() 101, [NOUN]() 1, [VERB]() 1), <em>về</em> ([ADP]() 83, [VERB]() 78, [X]() 16), <em>vào</em> ([ADP]() 72, [VERB]() 43, [X]() 25)
 
 
 * <em>của</em>
@@ -43,8 +43,8 @@ The 10 most frequent ambiguous types:  <em>của</em> ([ADP]() 322, [NOUN]() 1),
   * [PART]() 7: <em>nơi đây có <b>đến</b> ba chiếc đèn pin của CSGT chia nhau thành hai nhóm đón hai chiều xe lên xuống .</em>
 * <em>từ</em>
   * [ADP]() 101: <em>Tùng hào hứng thêm khi gặp những đoàn khách du lịch đến <b>từ</b> Hà Nội .</em>
-  * [VERB]() 1: <em>ở đây ông còn một người bạn thân tên Học đang làm phó văn phòng và cũng <b>từ</b> miền Nam ra .</em>
   * [NOUN]() 1: <em>cách an táng này người ta thường gọi bằng <b>từ</b> " xóc chéo " .</em>
+  * [VERB]() 1: <em>ở đây ông còn một người bạn thân tên Học đang làm phó văn phòng và cũng <b>từ</b> miền Nam ra .</em>
 * <em>về</em>
   * [ADP]() 83: <em>Nhiều thông tin <b>về</b> chiến tranh VN được đưa trên báo Nhân Đạo .</em>
   * [VERB]() 78: <em>hôm đó <b>về</b> nhà Tùng rất ngán mẹ biết tin này .</em>

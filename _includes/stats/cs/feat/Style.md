@@ -48,7 +48,7 @@ The most frequent other feature values with which `ADV` and `Style` co-occurred:
 
 272 [cs-pos/PRON]() tokens (1% of all `PRON` tokens) have a non-empty value of `Style`.
 
-The most frequent other feature values with which `PRON` and `Style` co-occurred: <tt><a href="PrepCase.html">PrepCase</a>=EMPTY</tt> (271; 100%), <tt><a href="PronType.html">PronType</a>=Prs</tt> (270; 99%), <tt><a href="Variant.html">Variant</a>=EMPTY</tt> (269; 99%), <tt><a href="Reflex.html">Reflex</a>=EMPTY</tt> (269; 99%), <tt><a href="Person.html">Person</a>=3</tt> (267; 98%), <tt><a href="Case.html">Case</a>=Acc</tt> (267; 98%), <tt><a href="Number.html">Number</a>=Sing</tt> (267; 98%), <tt><a href="Gender.html">Gender</a>=Masc,Neut</tt> (263; 97%).
+The most frequent other feature values with which `PRON` and `Style` co-occurred: <tt><a href="PrepCase.html">PrepCase</a>=EMPTY</tt> (271; 100%), <tt><a href="PronType.html">PronType</a>=Prs</tt> (270; 99%), <tt><a href="Reflex.html">Reflex</a>=EMPTY</tt> (269; 99%), <tt><a href="Variant.html">Variant</a>=EMPTY</tt> (269; 99%), <tt><a href="Case.html">Case</a>=Acc</tt> (267; 98%), <tt><a href="Number.html">Number</a>=Sing</tt> (267; 98%), <tt><a href="Person.html">Person</a>=3</tt> (267; 98%), <tt><a href="Gender.html">Gender</a>=Masc,Neut</tt> (263; 97%).
 
 `PRON` tokens may have the following values of `Style`:
 
@@ -66,7 +66,7 @@ The most frequent other feature values with which `PRON` and `Style` co-occurred
 
 158 [cs-pos/VERB]() tokens (0% of all `VERB` tokens) have a non-empty value of `Style`.
 
-The most frequent other feature values with which `VERB` and `Style` co-occurred: <tt><a href="Polarity.html">Polarity</a>=Pos</tt> (145; 92%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (118; 75%), <tt><a href="Aspect.html">Aspect</a>=EMPTY</tt> (104; 66%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (104; 66%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (104; 66%), <tt><a href="Voice.html">Voice</a>=Act</tt> (87; 55%).
+The most frequent other feature values with which `VERB` and `Style` co-occurred: <tt><a href="Polarity.html">Polarity</a>=Pos</tt> (145; 92%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (118; 75%), <tt><a href="Aspect.html">Aspect</a>=EMPTY</tt> (104; 66%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (104; 66%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (104; 66%), <tt><a href="Voice.html">Voice</a>=Act</tt> (87; 55%).
 
 `VERB` tokens may have the following values of `Style`:
 
@@ -134,7 +134,7 @@ The most frequent other feature values with which `DET` and `Style` co-occurred:
 
 19 [cs-pos/AUX]() tokens (0% of all `AUX` tokens) have a non-empty value of `Style`.
 
-The most frequent other feature values with which `AUX` and `Style` co-occurred: <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (19; 100%), <tt><a href="Polarity.html">Polarity</a>=Pos</tt> (19; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (16; 84%), <tt><a href="Person.html">Person</a>=3</tt> (15; 79%), <tt><a href="Number.html">Number</a>=Sing</tt> (15; 79%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (14; 74%), <tt><a href="Voice.html">Voice</a>=Act</tt> (14; 74%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (14; 74%).
+The most frequent other feature values with which `AUX` and `Style` co-occurred: <tt><a href="Polarity.html">Polarity</a>=Pos</tt> (19; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (19; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (16; 84%), <tt><a href="Person.html">Person</a>=3</tt> (15; 79%), <tt><a href="Number.html">Number</a>=Sing</tt> (15; 79%), <tt><a href="Voice.html">Voice</a>=Act</tt> (14; 74%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (14; 74%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (14; 74%).
 
 `AUX` tokens may have the following values of `Style`:
 
@@ -177,16 +177,6 @@ The most frequent other feature values with which `ADP` and `Style` co-occurred:
 
 * `Arch` (4; 100% of non-empty `Style`): <em>neb</em>
 
-### `NUM`
-
-2 [cs-pos/NUM]() tokens (0% of all `NUM` tokens) have a non-empty value of `Style`.
-
-The most frequent other feature values with which `NUM` and `Style` co-occurred: <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (2; 100%), <tt><a href="Number.html">Number</a>=Plur</tt> (2; 100%), <tt><a href="NumValue.html">NumValue</a>=1,2,3</tt> (2; 100%), <tt><a href="NumForm.html">NumForm</a>=Word</tt> (2; 100%), <tt><a href="NumType.html">NumType</a>=Card</tt> (2; 100%), <tt><a href="Case.html">Case</a>=Dat</tt> (2; 100%).
-
-`NUM` tokens may have the following values of `Style`:
-
-* `Arch` (2; 100% of non-empty `Style`): <em>stě</em>
-
 ### `INTJ`
 
 2 [cs-pos/INTJ]() tokens (2% of all `INTJ` tokens) have a non-empty value of `Style`.
@@ -196,13 +186,23 @@ The most frequent other feature values with which `NUM` and `Style` co-occurred:
 * `Coll` (1; 50% of non-empty `Style`): <em>Hergot</em>
 * `Vrnc` (1; 50% of non-empty `Style`): <em>danaj</em>
 
+### `NUM`
+
+2 [cs-pos/NUM]() tokens (0% of all `NUM` tokens) have a non-empty value of `Style`.
+
+The most frequent other feature values with which `NUM` and `Style` co-occurred: <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (2; 100%), <tt><a href="NumType.html">NumType</a>=Card</tt> (2; 100%), <tt><a href="Case.html">Case</a>=Dat</tt> (2; 100%), <tt><a href="NumForm.html">NumForm</a>=Word</tt> (2; 100%), <tt><a href="Number.html">Number</a>=Plur</tt> (2; 100%), <tt><a href="NumValue.html">NumValue</a>=1,2,3</tt> (2; 100%).
+
+`NUM` tokens may have the following values of `Style`:
+
+* `Arch` (2; 100% of non-empty `Style`): <em>stě</em>
+
 ## Relations with Agreement in `Style`
 
 The 10 most frequent relations where parent and child node agree in `Style`:
 <tt>ADJ --[<a href="../dep/conj.html">conj</a>]--> NOUN</tt> (3; 60%),
 <tt>VERB --[<a href="../dep/nmod.html">nmod</a>]--> PRON</tt> (2; 100%),
-<tt>PROPN --[<a href="../dep/xcomp.html">xcomp</a>]--> VERB</tt> (1; 100%),
-<tt>ADV --[<a href="../dep/dep.html">dep</a>]--> ADJ</tt> (1; 100%).
+<tt>ADV --[<a href="../dep/dep.html">dep</a>]--> ADJ</tt> (1; 100%),
+<tt>PROPN --[<a href="../dep/xcomp.html">xcomp</a>]--> VERB</tt> (1; 100%).
 
 
 
@@ -222,7 +222,7 @@ The feature is used with 9 part-of-speech tags: [cs-pos/PRON]() (109; 0% instanc
 
 109 [cs-pos/PRON]() tokens (1% of all `PRON` tokens) have a non-empty value of `Style`.
 
-The most frequent other feature values with which `PRON` and `Style` co-occurred: <tt><a href="PrepCase.html">PrepCase</a>=EMPTY</tt> (109; 100%), <tt><a href="Reflex.html">Reflex</a>=EMPTY</tt> (109; 100%), <tt><a href="Variant.html">Variant</a>=EMPTY</tt> (109; 100%), <tt><a href="Gender.html">Gender</a>=Masc,Neut</tt> (102; 94%), <tt><a href="PronType.html">PronType</a>=Prs</tt> (102; 94%), <tt><a href="Case.html">Case</a>=Acc</tt> (102; 94%), <tt><a href="Number.html">Number</a>=Sing</tt> (102; 94%), <tt><a href="Person.html">Person</a>=3</tt> (102; 94%).
+The most frequent other feature values with which `PRON` and `Style` co-occurred: <tt><a href="PrepCase.html">PrepCase</a>=EMPTY</tt> (109; 100%), <tt><a href="Variant.html">Variant</a>=EMPTY</tt> (109; 100%), <tt><a href="Reflex.html">Reflex</a>=EMPTY</tt> (109; 100%), <tt><a href="Gender.html">Gender</a>=Masc,Neut</tt> (102; 94%), <tt><a href="Number.html">Number</a>=Sing</tt> (102; 94%), <tt><a href="Case.html">Case</a>=Acc</tt> (102; 94%), <tt><a href="Person.html">Person</a>=3</tt> (102; 94%), <tt><a href="PronType.html">PronType</a>=Prs</tt> (102; 94%).
 
 `PRON` tokens may have the following values of `Style`:
 
@@ -259,7 +259,7 @@ The most frequent other feature values with which `ADV` and `Style` co-occurred:
 
 52 [cs-pos/VERB]() tokens (0% of all `VERB` tokens) have a non-empty value of `Style`.
 
-The most frequent other feature values with which `VERB` and `Style` co-occurred: <tt><a href="Polarity.html">Polarity</a>=Pos</tt> (52; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (49; 94%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (39; 75%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (39; 75%), <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (36; 69%), <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (36; 69%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (36; 69%), <tt><a href="VerbForm.html">VerbForm</a>=Inf</tt> (36; 69%), <tt><a href="Aspect.html">Aspect</a>=EMPTY</tt> (33; 63%).
+The most frequent other feature values with which `VERB` and `Style` co-occurred: <tt><a href="Polarity.html">Polarity</a>=Pos</tt> (52; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (49; 94%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (39; 75%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (39; 75%), <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (36; 69%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (36; 69%), <tt><a href="VerbForm.html">VerbForm</a>=Inf</tt> (36; 69%), <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (36; 69%), <tt><a href="Aspect.html">Aspect</a>=EMPTY</tt> (33; 63%).
 
 `VERB` tokens may have the following values of `Style`:
 
@@ -289,7 +289,7 @@ The most frequent other feature values with which `ADJ` and `Style` co-occurred:
 
 34 [cs-pos/AUX]() tokens (0% of all `AUX` tokens) have a non-empty value of `Style`.
 
-The most frequent other feature values with which `AUX` and `Style` co-occurred: <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (34; 100%), <tt><a href="Polarity.html">Polarity</a>=Pos</tt> (34; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (32; 94%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (32; 94%), <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (32; 94%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (32; 94%), <tt><a href="VerbForm.html">VerbForm</a>=Inf</tt> (32; 94%), <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (32; 94%).
+The most frequent other feature values with which `AUX` and `Style` co-occurred: <tt><a href="Polarity.html">Polarity</a>=Pos</tt> (34; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (34; 100%), <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (32; 94%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (32; 94%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (32; 94%), <tt><a href="VerbForm.html">VerbForm</a>=Inf</tt> (32; 94%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (32; 94%), <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (32; 94%).
 
 `AUX` tokens may have the following values of `Style`:
 
@@ -327,7 +327,7 @@ The most frequent other feature values with which `PROPN` and `Style` co-occurre
 
 1 [cs-pos/DET]() tokens (0% of all `DET` tokens) have a non-empty value of `Style`.
 
-The most frequent other feature values with which `DET` and `Style` co-occurred: <tt><a href="Poss.html">Poss</a>=Yes</tt> (1; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (1; 100%), <tt><a href="Number[psor].html">Number[psor]</a>=EMPTY</tt> (1; 100%), <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (1; 100%), <tt><a href="Number.html">Number</a>=Plur</tt> (1; 100%), <tt><a href="Case.html">Case</a>=Acc</tt> (1; 100%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (1; 100%), <tt><a href="PronType.html">PronType</a>=Prs</tt> (1; 100%).
+The most frequent other feature values with which `DET` and `Style` co-occurred: <tt><a href="Poss.html">Poss</a>=Yes</tt> (1; 100%), <tt><a href="Case.html">Case</a>=Acc</tt> (1; 100%), <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (1; 100%), <tt><a href="Number[psor].html">Number[psor]</a>=EMPTY</tt> (1; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (1; 100%), <tt><a href="Number.html">Number</a>=Plur</tt> (1; 100%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (1; 100%), <tt><a href="PronType.html">PronType</a>=Prs</tt> (1; 100%).
 
 `DET` tokens may have the following values of `Style`:
 
@@ -352,31 +352,31 @@ It occurs with 2 different values: `Arch`, `Coll`.
 4 lemmas (0%) occur at least once with a non-empty value of `Style`.
 The feature is used with 3 part-of-speech tags: [cs-pos/ADJ]() (2; 0% instances), [cs-pos/PRON]() (2; 0% instances), [cs-pos/VERB]() (1; 0% instances).
 
-### `ADJ`
-
-2 [cs-pos/ADJ]() tokens (0% of all `ADJ` tokens) have a non-empty value of `Style`.
-
-The most frequent other feature values with which `ADJ` and `Style` co-occurred: <tt><a href="Degree.html">Degree</a>=Pos</tt> (2; 100%), <tt><a href="Case.html">Case</a>=Nom</tt> (2; 100%), <tt><a href="Number.html">Number</a>=Plur</tt> (2; 100%), <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (2; 100%), <tt><a href="Polarity.html">Polarity</a>=Pos</tt> (2; 100%), <tt><a href="Gender.html">Gender</a>=Fem</tt> (2; 100%).
-
-`ADJ` tokens may have the following values of `Style`:
-
-* `Coll` (2; 100% of non-empty `Style`): <em>Dlouhodobý, Krátkodobý</em>
-
 ### `PRON`
 
 2 [cs-pos/PRON]() tokens (0% of all `PRON` tokens) have a non-empty value of `Style`.
 
-The most frequent other feature values with which `PRON` and `Style` co-occurred: <tt><a href="Reflex.html">Reflex</a>=EMPTY</tt> (2; 100%), <tt><a href="Gender.html">Gender</a>=Masc,Neut</tt> (2; 100%), <tt><a href="Variant.html">Variant</a>=EMPTY</tt> (2; 100%), <tt><a href="Case.html">Case</a>=Acc</tt> (2; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (2; 100%), <tt><a href="PronType.html">PronType</a>=Prs</tt> (2; 100%).
+The most frequent other feature values with which `PRON` and `Style` co-occurred: <tt><a href="Variant.html">Variant</a>=EMPTY</tt> (2; 100%), <tt><a href="Reflex.html">Reflex</a>=EMPTY</tt> (2; 100%), <tt><a href="PronType.html">PronType</a>=Prs</tt> (2; 100%), <tt><a href="Gender.html">Gender</a>=Masc,Neut</tt> (2; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (2; 100%), <tt><a href="Case.html">Case</a>=Acc</tt> (2; 100%).
 
 `PRON` tokens may have the following values of `Style`:
 
 * `Arch` (2; 100% of non-empty `Style`): <em>jej</em>
 
+### `ADJ`
+
+2 [cs-pos/ADJ]() tokens (0% of all `ADJ` tokens) have a non-empty value of `Style`.
+
+The most frequent other feature values with which `ADJ` and `Style` co-occurred: <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (2; 100%), <tt><a href="Polarity.html">Polarity</a>=Pos</tt> (2; 100%), <tt><a href="Case.html">Case</a>=Nom</tt> (2; 100%), <tt><a href="Gender.html">Gender</a>=Fem</tt> (2; 100%), <tt><a href="Degree.html">Degree</a>=Pos</tt> (2; 100%), <tt><a href="Number.html">Number</a>=Plur</tt> (2; 100%).
+
+`ADJ` tokens may have the following values of `Style`:
+
+* `Coll` (2; 100% of non-empty `Style`): <em>Dlouhodobý, Krátkodobý</em>
+
 ### `VERB`
 
 1 [cs-pos/VERB]() tokens (0% of all `VERB` tokens) have a non-empty value of `Style`.
 
-The most frequent other feature values with which `VERB` and `Style` co-occurred: <tt><a href="Polarity.html">Polarity</a>=Pos</tt> (1; 100%), <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (1; 100%), <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (1; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (1; 100%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (1; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (1; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Inf</tt> (1; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (1; 100%).
+The most frequent other feature values with which `VERB` and `Style` co-occurred: <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (1; 100%), <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (1; 100%), <tt><a href="Polarity.html">Polarity</a>=Pos</tt> (1; 100%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (1; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Inf</tt> (1; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (1; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (1; 100%), <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (1; 100%).
 
 `VERB` tokens may have the following values of `Style`:
 

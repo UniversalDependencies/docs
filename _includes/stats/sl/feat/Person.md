@@ -44,7 +44,7 @@ The most frequent other feature values with which `AUX` and `Person` co-occurred
 
 5583 [sl-pos/VERB]() tokens (43% of all `VERB` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (5583; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (5583; 100%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (5328; 95%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (5245; 94%), <tt><a href="Number.html">Number</a>=Sing</tt> (3291; 59%), <tt><a href="Aspect.html">Aspect</a>=Imp</tt> (3096; 55%).
+The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (5583; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (5583; 100%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (5328; 95%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (5245; 94%), <tt><a href="Number.html">Number</a>=Sing</tt> (3291; 59%), <tt><a href="Aspect.html">Aspect</a>=Imp</tt> (3096; 55%).
 
 `VERB` tokens may have the following values of `Person`:
 
@@ -108,8 +108,8 @@ The most frequent other feature values with which `DET` and `Person` co-occurred
 The 10 most frequent relations where parent and child node agree in `Person`:
 <tt>VERB --[<a href="../dep/conj.html">conj</a>]--> VERB</tt> (377; 69%),
 <tt>PRON --[<a href="../dep/csubj.html">csubj</a>]--> VERB</tt> (1; 100%),
-<tt>AUX --[<a href="../dep/conj.html">conj</a>]--> VERB</tt> (1; 100%),
-<tt>VERB --[<a href="../dep/fixed.html">fixed</a>]--> VERB</tt> (1; 100%).
+<tt>VERB --[<a href="../dep/fixed.html">fixed</a>]--> VERB</tt> (1; 100%),
+<tt>AUX --[<a href="../dep/conj.html">conj</a>]--> VERB</tt> (1; 100%).
 
 
 
@@ -215,11 +215,11 @@ The 10 most frequent relations where parent and child node agree in `Person`:
 <tt>VERB --[<a href="../dep/conj.html">conj</a>]--> VERB</tt> (73; 60%),
 <tt>VERB --[<a href="../dep/reparandum.html">reparandum</a>]--> VERB</tt> (24; 75%),
 <tt>AUX --[<a href="../dep/reparandum.html">reparandum</a>]--> VERB</tt> (2; 100%),
-<tt>DET --[<a href="../dep/parataxis.html">parataxis</a>]--> DET</tt> (1; 100%),
-<tt>VERB --[<a href="../dep/advcl.html">advcl</a>]--> PRON</tt> (1; 100%),
-<tt>PRON --[<a href="../dep/reparandum.html">reparandum</a>]--> PRON</tt> (1; 100%),
-<tt>VERB --[<a href="../dep/vocative.html">vocative</a>]--> PRON</tt> (1; 100%),
 <tt>AUX --[<a href="../dep/reparandum.html">reparandum</a>]--> AUX</tt> (1; 100%),
+<tt>PRON --[<a href="../dep/reparandum.html">reparandum</a>]--> PRON</tt> (1; 100%),
+<tt>VERB --[<a href="../dep/advcl.html">advcl</a>]--> PRON</tt> (1; 100%),
+<tt>DET --[<a href="../dep/parataxis.html">parataxis</a>]--> DET</tt> (1; 100%),
+<tt>VERB --[<a href="../dep/vocative.html">vocative</a>]--> PRON</tt> (1; 100%),
 <tt>AUX --[<a href="../dep/nsubj.html">nsubj</a>]--> PRON</tt> (1; 100%),
 <tt>DET --[<a href="../dep/reparandum.html">reparandum</a>]--> DET</tt> (1; 100%).
 

@@ -102,7 +102,7 @@ The 10 most frequent `VERB` types:  <em>je, má, mají, musí, může, jde, lze,
 
 The 10 most frequent ambiguous lemmas: <em>mít</em> ([VERB]() 2285, [AUX]() 5), <em>být</em> ([AUX]() 13843, [VERB]() 1797), <em>moci</em> ([VERB]() 1402, [AUX]() 5), <em>muset</em> ([VERB]() 671, [AUX]() 2), <em>stát</em> ([VERB]() 338, [NOUN]() 169), <em>znát</em> ([VERB]() 110, [ADJ]() 1), <em>vyžadovat</em> ([VERB]() 106, [AUX]() 1), <em>růst</em> ([NOUN]() 104, [VERB]() 57), <em>vzrůst</em> ([VERB]() 32, [NOUN]() 13), <em>bývat</em> ([AUX]() 84, [VERB]() 29)
 
-The 10 most frequent ambiguous types:  <em>je</em> ([AUX]() 4329, [VERB]() 716, [PRON]() 334), <em>má</em> ([VERB]() 717, [AUX]() 1, [DET]() 1), <em>musí</em> ([VERB]() 363, [AUX]() 1), <em>může</em> ([VERB]() 365, [AUX]() 1), <em>jsou</em> ([AUX]() 1350, [VERB]() 258), <em>mohou</em> ([VERB]() 235, [AUX]() 1), <em>měl</em> ([VERB]() 138, [AUX]() 2), <em>měla</em> ([VERB]() 125, [AUX]() 1), <em>bylo</em> ([AUX]() 529, [VERB]() 102), <em>není</em> ([AUX]() 401, [VERB]() 82)
+The 10 most frequent ambiguous types:  <em>je</em> ([AUX]() 4329, [VERB]() 716, [PRON]() 334), <em>má</em> ([VERB]() 717, [DET]() 1, [AUX]() 1), <em>musí</em> ([VERB]() 363, [AUX]() 1), <em>může</em> ([VERB]() 365, [AUX]() 1), <em>jsou</em> ([AUX]() 1350, [VERB]() 258), <em>mohou</em> ([VERB]() 235, [AUX]() 1), <em>měl</em> ([VERB]() 138, [AUX]() 2), <em>měla</em> ([VERB]() 125, [AUX]() 1), <em>bylo</em> ([AUX]() 529, [VERB]() 102), <em>není</em> ([AUX]() 401, [VERB]() 82)
 
 
 * <em>je</em>
@@ -111,8 +111,8 @@ The 10 most frequent ambiguous types:  <em>je</em> ([AUX]() 4329, [VERB]() 716, 
   * [PRON]() 334: <em>Z převážné většiny ploch <b>je</b> však vybírají brigádníci ručně .</em>
 * <em>má</em>
   * [VERB]() 717: <em>V dnešní době <b>má</b> kosmetika , tedy péče o zdraví a krásu , nový obsah .</em>
-  * [AUX]() 1: <em>Každý <b>má</b> vlastní vztah k událostem a faktům , která dokument uvádí a zobecňuje , a každý by ovšem měl také využít svých zkušeností z nedávných těžkých let , aby by sám přispěl k velkému dění , jímž naše odbory postupně obnovují svůj revoluční charakter a masový vliv , i v tom smyslu Závěry ukazují směr , kudy vést konkrétní a účinný boj s pozůstatky či opětovnými projevy reformistických tendencí v odborové práci a jak i kam tuto každodenní činnost zaměřovat , aby by sloužila dělnické třídě v souladu se zájmy i její historickou úlohou .</em>
   * [DET]() 1: <em>Pozvala mne k sobě do Krasnodaru <b>má</b> přítelkyně Sima Chakurate , se kterou jsme se poznaly v době druhé světové války v koncentračním táboře Ravensbrücku , kde jsme prožily krutých dva a půl roku .</em>
+  * [AUX]() 1: <em>Každý <b>má</b> vlastní vztah k událostem a faktům , která dokument uvádí a zobecňuje , a každý by ovšem měl také využít svých zkušeností z nedávných těžkých let , aby by sám přispěl k velkému dění , jímž naše odbory postupně obnovují svůj revoluční charakter a masový vliv , i v tom smyslu Závěry ukazují směr , kudy vést konkrétní a účinný boj s pozůstatky či opětovnými projevy reformistických tendencí v odborové práci a jak i kam tuto každodenní činnost zaměřovat , aby by sloužila dělnické třídě v souladu se zájmy i její historickou úlohou .</em>
 * <em>musí</em>
   * [VERB]() 363: <em>Právo na náhradu <b>musí</b> uplatnit u správy domu bez zbytečného odkladu .</em>
   * [AUX]() 1: <em>Minimální šířka bočních i čelních přesahů dvou vložek <b>musí</b> být bezpodmínečně u lepenkových vložek # * a # * u vláknitých .</em>
@@ -192,7 +192,7 @@ The 10 most frequent `VERB` types:  <em>obsahuje, uvede, rozumí, může, vést,
 
 The 10 most frequent ambiguous lemmas: <em>být</em> ([AUX]() 412, [VERB]() 11), <em>stát</em> ([NOUN]() 25, [VERB]() 7)
 
-The 10 most frequent ambiguous types:  <em>je</em> ([AUX]() 133, [PRON]() 8, [VERB]() 7), <em>delší</em> ([ADJ]() 14, [VERB]() 4), <em>koupí</em> ([VERB]() 2, [NOUN]() 2), <em>bude</em> ([AUX]() 12, [VERB]() 1), <em>daní</em> ([NOUN]() 2, [VERB]() 1), <em>jsou</em> ([AUX]() 110, [VERB]() 1), <em>nejsou</em> ([AUX]() 38, [VERB]() 1), <em>není</em> ([AUX]() 29, [VERB]() 1), <em>vlastní</em> ([ADJ]() 8, [VERB]() 1)
+The 10 most frequent ambiguous types:  <em>je</em> ([AUX]() 133, [PRON]() 8, [VERB]() 7), <em>delší</em> ([ADJ]() 14, [VERB]() 4), <em>koupí</em> ([NOUN]() 2, [VERB]() 2), <em>bude</em> ([AUX]() 12, [VERB]() 1), <em>daní</em> ([NOUN]() 2, [VERB]() 1), <em>jsou</em> ([AUX]() 110, [VERB]() 1), <em>nejsou</em> ([AUX]() 38, [VERB]() 1), <em>není</em> ([AUX]() 29, [VERB]() 1), <em>vlastní</em> ([ADJ]() 8, [VERB]() 1)
 
 
 * <em>je</em>
@@ -203,8 +203,8 @@ The 10 most frequent ambiguous types:  <em>je</em> ([AUX]() 133, [PRON]() 8, [VE
   * [ADJ]() 14: <em>Účetní období bezprostředně předcházející změně účetního období může být kratší nebo i <b>delší</b> než uvedených dvanáct měsíců .</em>
   * [VERB]() 4: <em>Samostatné movité věci a soubory movitých věcí se samostatným technicko-ekonomickým určením s dobou použitelnosti <b>delší</b> než jeden rok nevykázané v položce "B.II.3. Samostatné movité věci a soubory movitých věcí" se považují za drobný hmotný majetek , o kterém účetní jednotka účtuje jako o zásobách .</em>
 * <em>koupí</em>
-  * [VERB]() 2: <em>(10) Položka "B.II.9. Oceňovací rozdíl k nabytému majetku" obsahuje kladný ( aktivní ) nebo záporný ( pasivní ) rozdíl mezi oceněním podniku nebo jeho části nabytého zejména <b>koupí</b> , vkladem nebo oceněním majetku a závazků v rámci přeměn společnosti a souhrnem ocenění jeho jednotlivých složek majetku v účetnictví účetní jednotky prodávající , vkládající , zanikající nebo rozdělované odštěpením sníženým o převzaté závazky .</em>
   * [NOUN]() 2: <em>(3) Stavy jednotlivých složek majetku a závazků , rezerv , oceňovacích rozdílů k úplatně nabytému majetku podle odstavce 1 se převedou k prvnímu dni účetního období jako počáteční zůstatky příslušných rozvahových účtů ; neuplatněná část výdajů u finančního pronájmu s následnou <b>koupí</b> najatého hmotného majetku se uvede jako počáteční zůstatek účtu určeného k zachycení nákladů příštích období v účtové skupině 38 .</em>
+  * [VERB]() 2: <em>(10) Položka "B.II.9. Oceňovací rozdíl k nabytému majetku" obsahuje kladný ( aktivní ) nebo záporný ( pasivní ) rozdíl mezi oceněním podniku nebo jeho části nabytého zejména <b>koupí</b> , vkladem nebo oceněním majetku a závazků v rámci přeměn společnosti a souhrnem ocenění jeho jednotlivých složek majetku v účetnictví účetní jednotky prodávající , vkládající , zanikající nebo rozdělované odštěpením sníženým o převzaté závazky .</em>
 * <em>bude</em>
   * [AUX]() 12: <em>(2) Pokud je derivát součástí finančního nástroje , účetní jednotka stanoví , zda <b>bude</b> účtovat o vloženém derivátu samostatně nebo zda využije možnost o vložených derivátech neúčtovat .</em>
   * [VERB]() 1: <em>(1) Pokud zákon o přeměnách vyžaduje ocenění jmění při přeshraniční přeměně společnosti zanikající zahraniční osoby nebo části zahraniční osoby rozdělované odštěpením a není-li toto ocenění jmění vykázáno v její účetní závěrce sestavené nejpozději ke dni předcházejícímu rozhodný den , nástupnická účetní jednotka , která má nebo má mít sídlo v České republice , nebo přejímající společník , který je nebo <b>bude</b> účetní jednotkou , použije při účtování o ocenění reálnou hodnotou § 54 obdobně , s výjimkou postupu podle § 54 odst. 6 , jelikož v tomto případě nástupnická účetní jednotka nebo přejímající společník , který je účetní jednotkou , nepřebírá ocenění majetku a závazků reálnou hodnotou , ale účtuje o tomto ocenění .</em>

@@ -13,7 +13,7 @@ The 10 most frequent `CCONJ` types:  <em>eta, ere, baina, edo, berriz, arren, or
 
 The 10 most frequent ambiguous lemmas: <em>berriz</em> ([CCONJ]() 77, [ADV]() 20), <em>gainera</em> ([CCONJ]() 61, [ADV]() 11, [ADP]() 7), <em>zein</em> ([DET]() 35, [CCONJ]() 27, [ADV]() 1), <em>alta</em> ([CCONJ]() 12, [NOUN]() 1), <em>ezik</em> ([CCONJ]() 12, [ADV]() 1), <em>orduan</em> ([ADV]() 23, [CCONJ]() 12), <em>ostera</em> ([CCONJ]() 10, [ADV]() 3), <em>alegia</em> ([CCONJ]() 9, [NOUN]() 4), <em>hots</em> ([CCONJ]() 6, [NOUN]() 4), <em>baino</em> ([X]() 67, [CCONJ]() 4)
 
-The 10 most frequent ambiguous types:  <em>baina</em> ([CCONJ]() 367, [VERB]() 1), <em>berriz</em> ([CCONJ]() 77, [ADV]() 19, [ADJ]() 1), <em>gainera</em> ([CCONJ]() 27, [ADP]() 7, [ADV]() 4, [NOUN]() 1), <em>aldiz</em> ([NOUN]() 34, [CCONJ]() 31), <em>zein</em> ([CCONJ]() 27, [DET]() 23), <em>alta</em> ([NOUN]() 1, [CCONJ]() 1), <em>ezik</em> ([CCONJ]() 12, [ADV]() 1), <em>orduan</em> ([ADV]() 18, [NOUN]() 6, [CCONJ]() 5), <em>ostera</em> ([CCONJ]() 10, [ADV]() 3), <em>bada</em> ([AUX]() 30, [VERB]() 16, [CCONJ]() 6)
+The 10 most frequent ambiguous types:  <em>baina</em> ([CCONJ]() 367, [VERB]() 1), <em>berriz</em> ([CCONJ]() 77, [ADV]() 19, [ADJ]() 1), <em>gainera</em> ([CCONJ]() 27, [ADP]() 7, [ADV]() 4, [NOUN]() 1), <em>aldiz</em> ([NOUN]() 34, [CCONJ]() 31), <em>zein</em> ([CCONJ]() 27, [DET]() 23), <em>alta</em> ([CCONJ]() 1, [NOUN]() 1), <em>ezik</em> ([CCONJ]() 12, [ADV]() 1), <em>orduan</em> ([ADV]() 18, [NOUN]() 6, [CCONJ]() 5), <em>ostera</em> ([CCONJ]() 10, [ADV]() 3), <em>bada</em> ([AUX]() 30, [VERB]() 16, [CCONJ]() 6)
 
 
 * <em>baina</em>
@@ -35,8 +35,8 @@ The 10 most frequent ambiguous types:  <em>baina</em> ([CCONJ]() 367, [VERB]() 1
   * [CCONJ]() 27: <em>Marka onena egin zuten ziabogan <b>zein</b> helmugan .</em>
   * [DET]() 23: <em>Horrenbestez , zaila da jakitea <b>zein</b> maila erakutsiko duten .</em>
 * <em>alta</em>
-  * [NOUN]() 1: <em>Gaixoa lehenengotaz sendatuta dagoela ikusten dutenean , <b>alta</b> ematen zaio .</em>
   * [CCONJ]() 1: <em>Tikok , berriz , hobera egin du eta Padillak atzo bertan eman zion <b>alta</b> .</em>
+  * [NOUN]() 1: <em>Gaixoa lehenengotaz sendatuta dagoela ikusten dutenean , <b>alta</b> ematen zaio .</em>
 * <em>ezik</em>
   * [CCONJ]() 12: <em>Bertsolari batzuk , bertsotan ez <b>ezik</b> , antzerkian ere arituko dira .</em>
   * [ADV]() 1: <em>Berriki arte denek atxiki dute grafia xaharra , nik <b>ezik</b> , Baiona eta Arantzazuko legeak hastetik aplikatu bainizkion euskalkiari ere .</em>

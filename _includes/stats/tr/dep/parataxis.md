@@ -46,40 +46,6 @@ The following 4 pairs of parts of speech are connected with `parataxis`: [tr-pos
 
 
 ~~~ conllu
-# visual-style 15	bgColor:blue
-# visual-style 15	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 15 parataxis	color:blue
-1	Eğer	eğer	CCONJ	Conj	_	6	nmod	_	_
-2	sözünü	söz	NOUN	Noun	Case=Acc|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	4	nmod	_	_
-3	ettiğiniz	et	VERB	Verb	Aspect=Perf|Mood=Ind|Number[psor]=Plur|Person[psor]=2|Polarity=Pos|Tense=Past|VerbForm=Part	2	compound:lvc	_	_
-4	şey	şey	NOUN	Noun	Case=Nom|Number=Sing|Person=3	6	nsubj	_	_
-5	virtual	virtual	ADJ	Adj	_	6	amod	_	_
-6	parçacıklar	parçacık	NOUN	Noun	Case=Nom|Number=Plur|Person=3	22	obl	_	_
-7	sa	i	AUX	Zero	Aspect=Perf|Mood=Cnd|Number=Sing|Person=3|Tense=Pres	6	cop	_	_
-8	(	(	PUNCT	Punc	_	15	punct	_	SpaceAfter=No
-9	aşağıda	aşağı	ADJ	NAdj	Case=Loc|Number=Sing|Person=3	11	amod	_	_
-10	ki	ki	ADP	Rel	_	9	case	_	_
-11	satırlarda	satır	NOUN	Noun	Case=Loc|Number=Plur|Person=3	13	obl	_	_
-12	Verschuur'dan	Verschuur	PROPN	Prop	Case=Abl|Number=Sing|Person=3	13	obl	_	_
-13	yapılan	yap	VERB	Verb	Aspect=Perf|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Pass	14	acl	_	_
-14	alıntıya	alıntı	NOUN	Noun	Case=Dat|Number=Sing|Person=3	15	obl	_	_
-15	bakınız	bak	VERB	Verb	Aspect=Perf|Mood=Imp|Number=Plur|Person=2|Polarity=Pos|Tense=Pres	6	parataxis	_	SpaceAfter=No
-16	)	)	PUNCT	Punc	_	15	punct	_	_
-17	durum	durum	NOUN	Noun	Case=Nom|Number=Sing|Person=3	21	nsubj	_	_
-18	hala	hala	ADV	Adverb	_	21	advmod	_	_
-19	inandırıcı	inandırıcı	ADJ	Adj	_	20	amod	_	_
-20	olmaktan	ol	VERB	Verb	Aspect=Perf|Case=Abl|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Vnoun	21	nmod	_	_
-21	uzak	uzak	ADJ	Adj	_	22	obj	_	_
-22	demek	de	VERB	Verb	Aspect=Perf|Case=Nom|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Vnoun	0	root	_	_
-23	tir	i	AUX	Zero	Aspect=Perf|Mood=Gen|Number=Sing|Person=3|Tense=Pres	22	cop	_	_
-24	.	.	PUNCT	Punc	_	22	punct	_	_
-
-~~~
-
-
-~~~ conllu
 # visual-style 36	bgColor:blue
 # visual-style 36	fgColor:white
 # visual-style 31	bgColor:blue
@@ -125,6 +91,40 @@ The following 4 pairs of parts of speech are connected with `parataxis`: [tr-pos
 38	oluyorlar	ol	VERB	Verb	Aspect=Prog|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Polite=Infm|Tense=Pres	36	compound	_	SpaceAfter=No
 39	)	)	PUNCT	Punc	_	30	punct	_	SpaceAfter=No
 40	.	.	PUNCT	Punc	_	30	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 15	bgColor:blue
+# visual-style 15	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 15 parataxis	color:blue
+1	Eğer	eğer	CCONJ	Conj	_	6	nmod	_	_
+2	sözünü	söz	NOUN	Noun	Case=Acc|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	4	nmod	_	_
+3	ettiğiniz	et	VERB	Verb	Aspect=Perf|Mood=Ind|Number[psor]=Plur|Person[psor]=2|Polarity=Pos|Tense=Past|VerbForm=Part	2	compound:lvc	_	_
+4	şey	şey	NOUN	Noun	Case=Nom|Number=Sing|Person=3	6	nsubj	_	_
+5	virtual	virtual	ADJ	Adj	_	6	amod	_	_
+6	parçacıklar	parçacık	NOUN	Noun	Case=Nom|Number=Plur|Person=3	22	obl	_	_
+7	sa	i	AUX	Zero	Aspect=Perf|Mood=Cnd|Number=Sing|Person=3|Tense=Pres	6	cop	_	_
+8	(	(	PUNCT	Punc	_	15	punct	_	SpaceAfter=No
+9	aşağıda	aşağı	ADJ	NAdj	Case=Loc|Number=Sing|Person=3	11	amod	_	_
+10	ki	ki	ADP	Rel	_	9	case	_	_
+11	satırlarda	satır	NOUN	Noun	Case=Loc|Number=Plur|Person=3	13	obl	_	_
+12	Verschuur'dan	Verschuur	PROPN	Prop	Case=Abl|Number=Sing|Person=3	13	obl	_	_
+13	yapılan	yap	VERB	Verb	Aspect=Perf|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Pass	14	acl	_	_
+14	alıntıya	alıntı	NOUN	Noun	Case=Dat|Number=Sing|Person=3	15	obl	_	_
+15	bakınız	bak	VERB	Verb	Aspect=Perf|Mood=Imp|Number=Plur|Person=2|Polarity=Pos|Tense=Pres	6	parataxis	_	SpaceAfter=No
+16	)	)	PUNCT	Punc	_	15	punct	_	_
+17	durum	durum	NOUN	Noun	Case=Nom|Number=Sing|Person=3	21	nsubj	_	_
+18	hala	hala	ADV	Adverb	_	21	advmod	_	_
+19	inandırıcı	inandırıcı	ADJ	Adj	_	20	amod	_	_
+20	olmaktan	ol	VERB	Verb	Aspect=Perf|Case=Abl|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Vnoun	21	nmod	_	_
+21	uzak	uzak	ADJ	Adj	_	22	obj	_	_
+22	demek	de	VERB	Verb	Aspect=Perf|Case=Nom|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Vnoun	0	root	_	_
+23	tir	i	AUX	Zero	Aspect=Perf|Mood=Gen|Number=Sing|Person=3|Tense=Pres	22	cop	_	_
+24	.	.	PUNCT	Punc	_	22	punct	_	_
 
 ~~~
 

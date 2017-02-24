@@ -47,7 +47,7 @@ The most frequent other feature values with which `VERB` and `VerbForm` co-occur
   <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Pres</tt></td><td><em>son</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><a href="Mood.html">Mood</a>=Sub|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Imp</tt></td><td><em>fuese</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><a href="Mood.html">Mood</a>=Sub|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Pres</tt></td><td><em>sea</em></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><a href="Mood.html">Mood</a>=Sub|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Imp</tt></td><td><em>fueran, fuesen, fueron, Eran</em></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Sub|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Imp</tt></td><td><em>fueran, fuesen, Eran, fueron</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><a href="Mood.html">Mood</a>=Sub|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Pres</tt></td><td><em>sean</em></td><td></td><td></td><td></td></tr>
 </table>
 
@@ -137,7 +137,7 @@ The most frequent other feature values with which `ADJ` and `VerbForm` co-occurr
 
 39 [es-pos/X]() tokens (2% of all `X` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `X` and `VerbForm` co-occurred: <tt><a href="Number.html">Number</a>=EMPTY</tt> (28; 72%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (28; 72%).
+The most frequent other feature values with which `X` and `VerbForm` co-occurred: <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (28; 72%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (28; 72%).
 
 `X` tokens may have the following values of `VerbForm`:
 
@@ -174,8 +174,8 @@ The 10 most frequent relations where parent and child node agree in `VerbForm`:
 <tt>VERB --[<a href="../dep/cc.html">cc</a>]--> VERB</tt> (17; 74%),
 <tt>VERB --[<a href="../dep/dep.html">dep</a>]--> VERB</tt> (4; 80%),
 <tt>VERB --[<a href="../dep/nsubj.html">nsubj</a>]--> VERB</tt> (3; 75%),
-<tt>AUX --[<a href="../dep/acl:relcl.html">acl:relcl</a>]--> VERB</tt> (2; 100%),
-<tt>AUX --[<a href="../dep/advcl.html">advcl</a>]--> VERB</tt> (2; 67%).
+<tt>AUX --[<a href="../dep/advcl.html">advcl</a>]--> VERB</tt> (2; 67%),
+<tt>AUX --[<a href="../dep/acl:relcl.html">acl:relcl</a>]--> VERB</tt> (2; 100%).
 
 
 
@@ -321,7 +321,7 @@ The most frequent other feature values with which `ADV` and `VerbForm` co-occurr
 
 1 [es-pos/NOUN]() tokens (0% of all `NOUN` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `NOUN` and `VerbForm` co-occurred: <tt><a href="Gender.html">Gender</a>=Masc</tt> (1; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (1; 100%).
+The most frequent other feature values with which `NOUN` and `VerbForm` co-occurred: <tt><a href="Number.html">Number</a>=Sing</tt> (1; 100%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (1; 100%).
 
 `NOUN` tokens may have the following values of `VerbForm`:
 

@@ -41,7 +41,7 @@ The most frequent other feature values with which `NOUN` and `Case` co-occurred:
   <tr><th>Paradigm <i>talde</i></th><th><tt>Abs</tt></th><th><tt>Erg</tt></th><th><tt>Dat</tt></th><th><tt>Gen</tt></th><th><tt>Loc</tt></th><th><tt>Ins</tt></th><th><tt>Par</tt></th><th><tt>Ess</tt></th><th><tt>Com</tt></th><th><tt>Ine</tt></th><th><tt>All</tt></th><th><tt>Abl</tt></th></tr>
   <tr><td><tt>_</tt></td><td></td><td></td><td></td><td><em>taldeen, taldearen</em></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
   <tr><td><tt><a href="Animacy.html">Animacy</a>=Inan|<a href="Definite.html">Definite</a>=Def|<a href="Number.html">Number</a>=Sing</tt></td><td><em>taldea</em></td><td><em>taldeak</em></td><td><em>taldeari</em></td><td><em>taldearen</em></td><td><em>taldeko, talderako</em></td><td></td><td></td><td></td><td><em>taldearekin</em></td><td><em>taldean, taldearengan</em></td><td><em>taldera</em></td><td><em>taldetik</em></td></tr>
-  <tr><td><tt><a href="Animacy.html">Animacy</a>=Inan|<a href="Definite.html">Definite</a>=Def|<a href="Number.html">Number</a>=Plur</tt></td><td><em>taldeak, taldeok</em></td><td><em>taldeek, taldeok, taldekoek</em></td><td><em>taldeei</em></td><td><em>taldeen</em></td><td><em>taldeetako</em></td><td></td><td></td><td></td><td></td><td><em>taldeetan</em></td><td><em>taldeetara</em></td><td><em>taldeetatik</em></td></tr>
+  <tr><td><tt><a href="Animacy.html">Animacy</a>=Inan|<a href="Definite.html">Definite</a>=Def|<a href="Number.html">Number</a>=Plur</tt></td><td><em>taldeak, taldeok</em></td><td><em>taldeek, taldekoek, taldeok</em></td><td><em>taldeei</em></td><td><em>taldeen</em></td><td><em>taldeetako</em></td><td></td><td></td><td></td><td></td><td><em>taldeetan</em></td><td><em>taldeetara</em></td><td><em>taldeetatik</em></td></tr>
   <tr><td><tt><a href="Animacy.html">Animacy</a>=Inan|<a href="Definite.html">Definite</a>=Ind</tt></td><td><em>talde</em></td><td><em>taldek</em></td><td></td><td><em>talderen</em></td><td></td><td><em>Taldez</em></td><td><em>talderik</em></td><td><em>taldetzat</em></td><td></td><td></td><td></td><td></td></tr>
   <tr><td><tt><a href="Definite.html">Definite</a>=Def|<a href="Number.html">Number</a>=Sing</tt></td><td><em>Taldea</em></td><td></td><td></td><td><em>Taldearen</em></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
   <tr><td><tt><a href="Definite.html">Definite</a>=Def|<a href="Number.html">Number</a>=Plur</tt></td><td><em>Taldeak</em></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
@@ -342,8 +342,8 @@ The 10 most frequent relations where parent and child node agree in `Case`:
 <tt>NOUN --[<a href="../dep/appos.html">appos</a>]--> NOUN</tt> (60; 54%),
 <tt>NOUN --[<a href="../dep/nsubj.html">nsubj</a>]--> DET</tt> (48; 68%),
 <tt>ADJ --[<a href="../dep/nsubj.html">nsubj</a>]--> DET</tt> (29; 100%),
-<tt>NOUN --[<a href="../dep/obj.html">obj</a>]--> NOUN</tt> (27; 56%),
 <tt>NOUN --[<a href="../dep/conj.html">conj</a>]--> PROPN</tt> (27; 52%),
+<tt>NOUN --[<a href="../dep/obj.html">obj</a>]--> NOUN</tt> (27; 56%),
 <tt>ADJ --[<a href="../dep/nsubj.html">nsubj</a>]--> PROPN</tt> (19; 66%),
 <tt>DET --[<a href="../dep/nsubj.html">nsubj</a>]--> NOUN</tt> (16; 76%).
 

@@ -73,7 +73,7 @@ The most frequent other feature values with which `ADV` and `PronType` co-occurr
 
 46 [ro-pos/NUM]() tokens (1% of all `NUM` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `NUM` and `PronType` co-occurred: <tt><a href="NumForm.html">NumForm</a>=EMPTY</tt> (46; 100%), <tt><a href="NumType.html">NumType</a>=Card</tt> (46; 100%), <tt><a href="Number.html">Number</a>=Plur</tt> (46; 100%), <tt><a href="Gender.html">Gender</a>=Fem</tt> (30; 65%).
+The most frequent other feature values with which `NUM` and `PronType` co-occurred: <tt><a href="NumForm.html">NumForm</a>=EMPTY</tt> (46; 100%), <tt><a href="Number.html">Number</a>=Plur</tt> (46; 100%), <tt><a href="NumType.html">NumType</a>=Card</tt> (46; 100%), <tt><a href="Gender.html">Gender</a>=Fem</tt> (30; 65%).
 
 `NUM` tokens may have the following values of `PronType`:
 
@@ -88,9 +88,9 @@ The 10 most frequent relations where parent and child node agree in `PronType`:
 <tt>PRON --[<a href="../dep/fixed.html">fixed</a>]--> DET</tt> (5; 100%),
 <tt>DET --[<a href="../dep/conj.html">conj</a>]--> PRON</tt> (4; 100%),
 <tt>ADV --[<a href="../dep/conj.html">conj</a>]--> ADV</tt> (2; 67%),
-<tt>DET --[<a href="../dep/conj.html">conj</a>]--> DET</tt> (1; 100%),
+<tt>PRON --[<a href="../dep/nmod:pmod.html">nmod:pmod</a>]--> PRON</tt> (1; 100%),
+<tt>DET --[<a href="../dep/amod.html">amod</a>]--> DET</tt> (1; 100%),
 <tt>PRON --[<a href="../dep/conj.html">conj</a>]--> ADV</tt> (1; 100%),
 <tt>PRON --[<a href="../dep/orphan.html">orphan</a>]--> PRON</tt> (1; 100%),
-<tt>DET --[<a href="../dep/amod.html">amod</a>]--> DET</tt> (1; 100%),
-<tt>PRON --[<a href="../dep/nmod:pmod.html">nmod:pmod</a>]--> PRON</tt> (1; 100%).
+<tt>DET --[<a href="../dep/conj.html">conj</a>]--> DET</tt> (1; 100%).
 

@@ -170,12 +170,12 @@ The 10 most frequent `SYM` types:  <em>%, -%</em>
 
 The 10 most frequent ambiguous lemmas: <em>_</em> ([NOUN]() 12161, [PUNCT]() 8085, [VERB]() 8020, [ADP]() 6788, [DET]() 6429, [PRON]() 6303, [ADJ]() 4270, [ADV]() 3700, [AUX]() 3539, [PROPN]() 2257, [CCONJ]() 2081, [PART]() 1703, [SCONJ]() 1231, [NUM]() 462, [INTJ]() 122, [X]() 41, [SYM]() 5)
 
-The 10 most frequent ambiguous types:  <em>%</em> ([SYM]() 3, [NOUN]() 3), <em>-%</em> ([SYM]() 2, [NOUN]() 1)
+The 10 most frequent ambiguous types:  <em>%</em> ([NOUN]() 3, [SYM]() 3), <em>-%</em> ([SYM]() 2, [NOUN]() 1)
 
 
 * <em>%</em>
-  * [SYM]() 3: <em>SELECT asterisk FROM Customers WHERE Country Like U <b>%</b></em>
   * [NOUN]() 3: <em>For example , you can filter for the top 25 <b>%</b> or bottom 25 <b>%</b> of salespeople based on the number of orders handled .</em>
+  * [SYM]() 3: <em>SELECT asterisk FROM Customers WHERE Country Like U <b>%</b></em>
 * <em>-%</em>
   * [SYM]() 2: <em>The flat-rate approach produces more risk of overcompensation , which is why we have set the margin at 2.6 <b>-%</b> .</em>
   * [NOUN]() 1: <em>The only product of any significance is canned tomatoes , but even they account for no more than 7 <b>-%</b> of the market .</em>

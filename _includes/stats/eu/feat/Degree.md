@@ -72,7 +72,7 @@ The most frequent other feature values with which `NOUN` and `Degree` co-occurre
 
 7 [eu-pos/VERB]() tokens (0% of all `VERB` tokens) have a non-empty value of `Degree`.
 
-The most frequent other feature values with which `VERB` and `Degree` co-occurred: <tt><a href="Aspect.html">Aspect</a>=EMPTY</tt> (7; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (7; 100%), <tt><a href="Person[abs].html">Person[abs]</a>=EMPTY</tt> (7; 100%), <tt><a href="Case.html">Case</a>=Abs</tt> (7; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (7; 100%), <tt><a href="Number[abs].html">Number[abs]</a>=EMPTY</tt> (7; 100%).
+The most frequent other feature values with which `VERB` and `Degree` co-occurred: <tt><a href="Number[abs].html">Number[abs]</a>=EMPTY</tt> (7; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (7; 100%), <tt><a href="Case.html">Case</a>=Abs</tt> (7; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (7; 100%), <tt><a href="Aspect.html">Aspect</a>=EMPTY</tt> (7; 100%), <tt><a href="Person[abs].html">Person[abs]</a>=EMPTY</tt> (7; 100%).
 
 `VERB` tokens may have the following values of `Degree`:
 
@@ -84,7 +84,7 @@ The most frequent other feature values with which `VERB` and `Degree` co-occurre
 
 3 [eu-pos/ADP]() tokens (0% of all `ADP` tokens) have a non-empty value of `Degree`.
 
-The most frequent other feature values with which `ADP` and `Degree` co-occurred: <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (3; 100%), <tt><a href="Definite.html">Definite</a>=Def</tt> (3; 100%), <tt><a href="Number.html">Number</a>=Plur</tt> (3; 100%).
+The most frequent other feature values with which `ADP` and `Degree` co-occurred: <tt><a href="Number.html">Number</a>=Plur</tt> (3; 100%), <tt><a href="Definite.html">Definite</a>=Def</tt> (3; 100%), <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (3; 100%).
 
 `ADP` tokens may have the following values of `Degree`:
 

@@ -81,7 +81,7 @@ The most frequent other feature values with which `AUX` and `Person` co-occurred
   <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Plur|<a href="Tense.html">Tense</a>=Pres|<a href="VerbForm.html">VerbForm</a>=Fin|<a href="Voice.html">Voice</a>=Act</tt></td><td>ہےں</td><td></td><td>ہےں, ہیں, ہوں, ہے</td></tr>
   <tr><td><tt><a href="Mood.html">Mood</a>=Sub|<a href="Number.html">Number</a>=Plur|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td></td><td></td><td>ہیں</td></tr>
   <tr><td><tt><a href="Number.html">Number</a>=Sing</tt></td><td>ہوں</td><td></td><td></td></tr>
-  <tr><td><tt><a href="Number.html">Number</a>=Sing|<a href="Voice.html">Voice</a>=Act</tt></td><td>ہوں</td><td></td><td>ہے, ہوں</td></tr>
+  <tr><td><tt><a href="Number.html">Number</a>=Sing|<a href="Voice.html">Voice</a>=Act</tt></td><td>ہوں</td><td></td><td>ہوں, ہے</td></tr>
 </table>
 
 `Person` seems to be **lexical feature** of `AUX`. 91% lemmas (43) occur only with one value of `Person`.
@@ -106,10 +106,10 @@ The most frequent other feature values with which `PRON` and `Person` co-occurre
   <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Number.html">Number</a>=Sing|<a href="Polite.html">Polite</a>=Form</tt></td><td>اپنے</td><td></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Number.html">Number</a>=Sing</tt></td><td>اپنے</td><td>اپنے</td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Sing|<a href="Polite.html">Polite</a>=Form</tt></td><td>اپنے</td><td></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Sing</tt></td><td>اپنا, اپنے</td><td>اپنا</td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Sing</tt></td><td>اپنے, اپنا</td><td>اپنا</td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Gender.html">Gender</a>=Fem|<a href="Number.html">Number</a>=Sing|<a href="Polite.html">Polite</a>=Form</tt></td><td>اپنی</td><td></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Number.html">Number</a>=Sing|<a href="Polite.html">Polite</a>=Form</tt></td><td>اپنے</td><td></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Number.html">Number</a>=Sing</tt></td><td>اپنا, اپنے</td><td>اپنا, اپنے</td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Number.html">Number</a>=Sing</tt></td><td>اپنے, اپنا</td><td>اپنا, اپنے</td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Nom</tt></td><td></td><td>اپنے</td></tr>
 </table>
 
@@ -178,7 +178,7 @@ The most frequent other feature values with which `VERB` and `Person` co-occurre
   <tr><td><tt><a href="Gender.html">Gender</a>=Masc|<a href="Mood.html">Mood</a>=Sub|<a href="Number.html">Number</a>=Plur|<a href="VerbForm.html">VerbForm</a>=Fin|<a href="Voice.html">Voice</a>=Act</tt></td><td></td><td>کریں</td></tr>
   <tr><td><tt><a href="Gender.html">Gender</a>=Masc|<a href="Mood.html">Mood</a>=Sub|<a href="Number.html">Number</a>=Plur|<a href="VerbForm.html">VerbForm</a>=Fin|<a href="Voice.html">Voice</a>=Pass</tt></td><td></td><td>کریں</td></tr>
   <tr><td><tt><a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Sing</tt></td><td></td><td>کیے, کر</td></tr>
-  <tr><td><tt><a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Sing|<a href="Voice.html">Voice</a>=Act</tt></td><td></td><td>کیا, کریں_گے, کرےگا, کر</td></tr>
+  <tr><td><tt><a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Sing|<a href="Voice.html">Voice</a>=Act</tt></td><td></td><td>کیا, کرےگا, کریں_گے, کر</td></tr>
   <tr><td><tt><a href="Gender.html">Gender</a>=Fem|<a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Tense.html">Tense</a>=Fut|<a href="VerbForm.html">VerbForm</a>=Fin|<a href="Voice.html">Voice</a>=Act</tt></td><td></td><td>کرےگی, کریں_گی, کریگی</td></tr>
   <tr><td><tt><a href="Gender.html">Gender</a>=Fem|<a href="Mood.html">Mood</a>=Sub|<a href="Number.html">Number</a>=Plur|<a href="VerbForm.html">VerbForm</a>=Fin|<a href="Voice.html">Voice</a>=Pass</tt></td><td></td><td>کریں</td></tr>
   <tr><td><tt><a href="Gender.html">Gender</a>=Fem|<a href="Number.html">Number</a>=Sing|<a href="VerbForm.html">VerbForm</a>=Inf|<a href="Voice.html">Voice</a>=Pass</tt></td><td></td><td>کرنی</td></tr>
@@ -190,10 +190,10 @@ The most frequent other feature values with which `VERB` and `Person` co-occurre
   <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Tense.html">Tense</a>=Fut|<a href="VerbForm.html">VerbForm</a>=Fin|<a href="Voice.html">Voice</a>=Act</tt></td><td>کروںگا</td><td>کرےگی, کرےگا, کریںگے</td></tr>
   <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Tense.html">Tense</a>=Fut|<a href="VerbForm.html">VerbForm</a>=Fin|<a href="Voice.html">Voice</a>=Pass</tt></td><td></td><td>کرےگا</td></tr>
   <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Plur|<a href="Tense.html">Tense</a>=Fut|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td></td><td>گے</td></tr>
-  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Plur|<a href="Tense.html">Tense</a>=Fut|<a href="VerbForm.html">VerbForm</a>=Fin|<a href="Voice.html">Voice</a>=Act</tt></td><td>کریں_گے</td><td>کریں_گے, کریںگے, کریں, کرےگا</td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Plur|<a href="Tense.html">Tense</a>=Fut|<a href="VerbForm.html">VerbForm</a>=Fin|<a href="Voice.html">Voice</a>=Act</tt></td><td>کریں_گے</td><td>کریں_گے, کریںگے, کرےگا, کریں</td></tr>
   <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Tense.html">Tense</a>=Fut|<a href="VerbForm.html">VerbForm</a>=Fin|<a href="Voice.html">Voice</a>=Act</tt></td><td></td><td>کریں_گے</td></tr>
   <tr><td><tt><a href="Mood.html">Mood</a>=Sub|<a href="Number.html">Number</a>=Sing|<a href="VerbForm.html">VerbForm</a>=Fin|<a href="Voice.html">Voice</a>=Act</tt></td><td></td><td>کرے, کریں</td></tr>
-  <tr><td><tt><a href="Mood.html">Mood</a>=Sub|<a href="Number.html">Number</a>=Sing|<a href="VerbForm.html">VerbForm</a>=Fin|<a href="Voice.html">Voice</a>=Pass</tt></td><td></td><td>کریں, کرے</td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Sub|<a href="Number.html">Number</a>=Sing|<a href="VerbForm.html">VerbForm</a>=Fin|<a href="Voice.html">Voice</a>=Pass</tt></td><td></td><td>کرے, کریں</td></tr>
   <tr><td><tt><a href="Mood.html">Mood</a>=Sub|<a href="Number.html">Number</a>=Plur|<a href="VerbForm.html">VerbForm</a>=Fin|<a href="Voice.html">Voice</a>=Act</tt></td><td></td><td>کریں, کرے</td></tr>
   <tr><td><tt><a href="Mood.html">Mood</a>=Sub|<a href="Number.html">Number</a>=Plur|<a href="VerbForm.html">VerbForm</a>=Fin|<a href="Voice.html">Voice</a>=Pass</tt></td><td></td><td>کریں</td></tr>
   <tr><td><tt><a href="Mood.html">Mood</a>=Sub|<a href="VerbForm.html">VerbForm</a>=Fin|<a href="Voice.html">Voice</a>=Act</tt></td><td></td><td>کریں</td></tr>
@@ -202,7 +202,7 @@ The most frequent other feature values with which `VERB` and `Person` co-occurre
   <tr><td><tt><a href="Number.html">Number</a>=Sing|<a href="Voice.html">Voice</a>=Act</tt></td><td>کروں</td><td>کرے</td></tr>
   <tr><td><tt><a href="Number.html">Number</a>=Sing|<a href="Voice.html">Voice</a>=Pass</tt></td><td></td><td>کرے</td></tr>
   <tr><td><tt><a href="Number.html">Number</a>=Plur|<a href="Voice.html">Voice</a>=Act</tt></td><td></td><td>کرو</td></tr>
-  <tr><td><tt><a href="Voice.html">Voice</a>=Act</tt></td><td></td><td>کریں, کر</td></tr>
+  <tr><td><tt><a href="Voice.html">Voice</a>=Act</tt></td><td></td><td>کر, کریں</td></tr>
 </table>
 
 `Person` seems to be **lexical feature** of `VERB`. 94% lemmas (113) occur only with one value of `Person`.
@@ -252,7 +252,7 @@ The most frequent other feature values with which `ADJ` and `Person` co-occurred
 
 35 [ur-pos/PART]() tokens (1% of all `PART` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `PART` and `Person` co-occurred: <tt><a href="Polarity.html">Polarity</a>=EMPTY</tt> (35; 100%), <tt><a href="PronType.html">PronType</a>=EMPTY</tt> (35; 100%).
+The most frequent other feature values with which `PART` and `Person` co-occurred: <tt><a href="PronType.html">PronType</a>=EMPTY</tt> (35; 100%), <tt><a href="Polarity.html">Polarity</a>=EMPTY</tt> (35; 100%).
 
 `PART` tokens may have the following values of `Person`:
 
@@ -288,7 +288,7 @@ The most frequent other feature values with which `NUM` and `Person` co-occurred
 
 5 [ur-pos/X]() tokens (23% of all `X` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `X` and `Person` co-occurred: <tt><a href="Number.html">Number</a>=Sing</tt> (5; 100%), <tt><a href="Foreign.html">Foreign</a>=EMPTY</tt> (5; 100%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (5; 100%), <tt><a href="Case.html">Case</a>=Nom</tt> (3; 60%).
+The most frequent other feature values with which `X` and `Person` co-occurred: <tt><a href="Gender.html">Gender</a>=Masc</tt> (5; 100%), <tt><a href="Foreign.html">Foreign</a>=EMPTY</tt> (5; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (5; 100%), <tt><a href="Case.html">Case</a>=Nom</tt> (3; 60%).
 
 `X` tokens may have the following values of `Person`:
 

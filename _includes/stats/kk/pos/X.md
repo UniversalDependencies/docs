@@ -11,7 +11,7 @@ The 10 most frequent `X` lemmas: <em>бала, болып, деп, дүниег�
 
 The 10 most frequent `X` types:  <em>бала, болып, деп, дүниеге, ибн, керек, іске, қалай</em>
 
-The 10 most frequent ambiguous lemmas: <em>бала</em> ([NOUN]() 12, [X]() 1), <em>керек</em> ([ADJ]() 1, [X]() 1)
+The 10 most frequent ambiguous lemmas: <em>бала</em> ([NOUN]() 12, [X]() 1), <em>керек</em> ([X]() 1, [ADJ]() 1)
 
 The 10 most frequent ambiguous types:  <em>бала</em> ([NOUN]() 9, [X]() 1), <em>болып</em> ([AUX]() 1, [X]() 1), <em>деп</em> ([VERB]() 4, [X]() 1), <em>керек</em> ([ADJ]() 1, [X]() 1)
 

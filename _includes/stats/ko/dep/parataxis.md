@@ -51,40 +51,29 @@ The following 14 pairs of parts of speech are connected with `parataxis`: [ko-po
 
 
 ~~~ conllu
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 19	bgColor:blue
-# visual-style 19	fgColor:white
-# visual-style 19 9 parataxis	color:blue
-1	_	_	PROPN	_	_	3	advcl	_	_
-2	_	_	ADP	_	_	1	case	_	_
-3	_	_	VERB	_	_	9	advmod	_	_
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 15	bgColor:blue
+# visual-style 15	fgColor:white
+# visual-style 15 6 parataxis	color:blue
+1	_	_	NOUN	_	_	3	conj	_	_
+2	_	_	CONJ	_	_	1	cc	_	_
+3	_	_	NOUN	_	_	6	nsubj	_	_
 4	_	_	PART	_	_	3	case	_	_
-5	_	_	NUM	_	_	6	nummmod	_	_
-6	_	_	NOUN	_	_	9	nmod	_	_
+5	_	_	ADV	_	_	6	advmod	_	_
+6	_	_	VERB	_	_	15	parataxis	_	_
 7	_	_	PART	_	_	6	case	_	_
-8	_	_	ADJ	_	_	9	advmod	_	_
-9	_	_	NOUN	_	_	19	parataxis	_	_
-10	_	_	PUNCT	_	_	9	punct	_	_
-11	_	_	PUNCT	_	_	18	punct	_	_
-12	_	_	PUNCT	_	_	15	punct	_	_
-13	_	_	NOUN	_	_	15	name	_	_
-14	_	_	PUNCT	_	_	15	punct	_	_
-15	_	_	PROPN	_	_	17	nmod	_	_
-16	_	_	NOUN	_	_	17	nmod	_	_
-17	_	_	NOUN	_	_	18	dep	_	_
-18	_	_	PUNCT	_	_	19	punct	_	_
-19	_	_	PART	_	_	21	case	_	_
-20	_	_	NUM	_	_	21	nummmod	_	_
-21	_	_	NOUN	_	_	27	advcl	_	_
-22	_	_	ADP	_	_	21	case	_	_
-23	_	_	PRON	_	_	25	acl	_	_
-24	_	_	PART	_	_	23	case	_	_
-25	_	_	NOUN	_	_	27	nsubj	_	_
-26	_	_	PART	_	_	25	case	_	_
-27	_	_	VERB	_	_	0	root	_	_
-28	_	_	PART	_	_	27	case	_	_
-29	_	_	PUNCT	_	_	28	punct	_	_
+8	_	_	VERB	_	_	6	advmod	_	_
+9	_	_	PART	_	_	8	case	_	_
+10	_	_	NOUN	_	_	11	nmod	_	_
+11	_	_	NOUN	_	_	13	dobj	_	_
+12	_	_	PART	_	_	11	case	_	_
+13	_	_	VERB	_	_	14	advmod	_	_
+14	_	_	NOUN	_	_	15	nsubj	_	_
+15	_	_	ADV	_	_	0	root	_	_
+16	_	_	PART	_	_	15	case	_	_
+17	_	_	PART	_	_	16	case	_	_
+18	_	_	PUNCT	_	_	17	punct	_	_
 
 ~~~
 

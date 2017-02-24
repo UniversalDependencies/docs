@@ -38,7 +38,7 @@ The most frequent other feature values with which `NOUN` and `Number[psor]` co-o
 
 142 [fi-pos/VERB]() tokens (1% of all `VERB` tokens) have a non-empty value of `Number[psor]`.
 
-The most frequent other feature values with which `VERB` and `Number[psor]` co-occurred: <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (142; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (142; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (142; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (125; 88%), <tt><a href="Voice.html">Voice</a>=Act</tt> (121; 85%), <tt><a href="InfForm.html">InfForm</a>=EMPTY</tt> (84; 59%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (84; 59%), <tt><a href="Degree.html">Degree</a>=Pos</tt> (84; 59%).
+The most frequent other feature values with which `VERB` and `Number[psor]` co-occurred: <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (142; 100%), <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (142; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (142; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (125; 88%), <tt><a href="Voice.html">Voice</a>=Act</tt> (121; 85%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (84; 59%), <tt><a href="Degree.html">Degree</a>=Pos</tt> (84; 59%), <tt><a href="InfForm.html">InfForm</a>=EMPTY</tt> (84; 59%).
 
 `VERB` tokens may have the following values of `Number[psor]`:
 
@@ -99,15 +99,6 @@ The most frequent other feature values with which `PRON` and `Number[psor]` co-o
   <tr><td><tt><a href="Case.html">Case</a>=Par|<a href="Number.html">Number</a>=Sing|<a href="Number[psor].html">Number[psor]</a>=Sing|<a href="Person[psor].html">Person[psor]</a>=2</tt></td><td></td><td><em>itseäsi</em></td></tr>
 </table>
 
-### `ADJ`
-
-13 [fi-pos/ADJ]() tokens (0% of all `ADJ` tokens) have a non-empty value of `Number[psor]`.
-
-The most frequent other feature values with which `ADJ` and `Number[psor]` co-occurred: <tt><a href="Degree.html">Degree</a>=Pos</tt> (12; 92%), <tt><a href="Number.html">Number</a>=Plur</tt> (7; 54%).
-
-`ADJ` tokens may have the following values of `Number[psor]`:
-
-
 ### `ADP`
 
 13 [fi-pos/ADP]() tokens (0% of all `ADP` tokens) have a non-empty value of `Number[psor]`.
@@ -124,11 +115,20 @@ The most frequent other feature values with which `ADP` and `Number[psor]` co-oc
   <tr><td><tt><a href="Number[psor].html">Number[psor]</a>=Sing|<a href="Person[psor].html">Person[psor]</a>=2|<a href="Style.html">Style</a>=Coll</tt></td><td></td><td><em>kanssas</em></td></tr>
 </table>
 
+### `ADJ`
+
+13 [fi-pos/ADJ]() tokens (0% of all `ADJ` tokens) have a non-empty value of `Number[psor]`.
+
+The most frequent other feature values with which `ADJ` and `Number[psor]` co-occurred: <tt><a href="Degree.html">Degree</a>=Pos</tt> (12; 92%), <tt><a href="Number.html">Number</a>=Plur</tt> (7; 54%).
+
+`ADJ` tokens may have the following values of `Number[psor]`:
+
+
 ### `AUX`
 
 12 [fi-pos/AUX]() tokens (0% of all `AUX` tokens) have a non-empty value of `Number[psor]`.
 
-The most frequent other feature values with which `AUX` and `Number[psor]` co-occurred: <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (12; 100%), <tt><a href="Voice.html">Voice</a>=Act</tt> (12; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (12; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (12; 100%), <tt><a href="Polarity.html">Polarity</a>=EMPTY</tt> (12; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (9; 75%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (7; 58%).
+The most frequent other feature values with which `AUX` and `Number[psor]` co-occurred: <tt><a href="Polarity.html">Polarity</a>=EMPTY</tt> (12; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (12; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (12; 100%), <tt><a href="Voice.html">Voice</a>=Act</tt> (12; 100%), <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (12; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (9; 75%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (7; 58%).
 
 `AUX` tokens may have the following values of `Number[psor]`:
 
@@ -199,7 +199,7 @@ The most frequent other feature values with which `NOUN` and `Number[psor]` co-o
 
 133 [fi-pos/VERB]() tokens (0% of all `VERB` tokens) have a non-empty value of `Number[psor]`.
 
-The most frequent other feature values with which `VERB` and `Number[psor]` co-occurred: <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (133; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (133; 100%), <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (133; 100%), <tt><a href="Voice.html">Voice</a>=Act</tt> (99; 74%), <tt><a href="VerbForm.html">VerbForm</a>=Inf</tt> (68; 51%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (68; 51%), <tt><a href="InfForm.html">InfForm</a>=EMPTY</tt> (68; 51%), <tt><a href="PartForm.html">PartForm</a>=EMPTY</tt> (68; 51%).
+The most frequent other feature values with which `VERB` and `Number[psor]` co-occurred: <tt><a href="Person.html">Person</a>=EMPTY</tt> (133; 100%), <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (133; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (133; 100%), <tt><a href="Voice.html">Voice</a>=Act</tt> (99; 74%), <tt><a href="InfForm.html">InfForm</a>=EMPTY</tt> (68; 51%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (68; 51%), <tt><a href="PartForm.html">PartForm</a>=EMPTY</tt> (68; 51%), <tt><a href="VerbForm.html">VerbForm</a>=Inf</tt> (68; 51%).
 
 `VERB` tokens may have the following values of `Number[psor]`:
 
@@ -286,6 +286,15 @@ The most frequent other feature values with which `ADJ` and `Number[psor]` co-oc
   <tr><td><tt><a href="Case.html">Case</a>=Par|<a href="Number[psor].html">Number[psor]</a>=Sing|<a href="Person[psor].html">Person[psor]</a>=2</tt></td><td></td><td><em>parastasi</em></td></tr>
 </table>
 
+### `AUX`
+
+5 [fi-pos/AUX]() tokens (0% of all `AUX` tokens) have a non-empty value of `Number[psor]`.
+
+The most frequent other feature values with which `AUX` and `Number[psor]` co-occurred: <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (5; 100%), <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (5; 100%), <tt><a href="Voice.html">Voice</a>=Act</tt> (5; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (5; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Inf</tt> (3; 60%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (3; 60%).
+
+`AUX` tokens may have the following values of `Number[psor]`:
+
+
 ### `PROPN`
 
 5 [fi-pos/PROPN]() tokens (0% of all `PROPN` tokens) have a non-empty value of `Number[psor]`.
@@ -295,20 +304,11 @@ The most frequent other feature values with which `PROPN` and `Number[psor]` co-
 `PROPN` tokens may have the following values of `Number[psor]`:
 
 
-### `AUX`
-
-5 [fi-pos/AUX]() tokens (0% of all `AUX` tokens) have a non-empty value of `Number[psor]`.
-
-The most frequent other feature values with which `AUX` and `Number[psor]` co-occurred: <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (5; 100%), <tt><a href="Voice.html">Voice</a>=Act</tt> (5; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (5; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (5; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Inf</tt> (3; 60%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (3; 60%).
-
-`AUX` tokens may have the following values of `Number[psor]`:
-
-
 ### `NUM`
 
 1 [fi-pos/NUM]() tokens (0% of all `NUM` tokens) have a non-empty value of `Number[psor]`.
 
-The most frequent other feature values with which `NUM` and `Number[psor]` co-occurred: <tt><a href="NumType.html">NumType</a>=Card</tt> (1; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (1; 100%), <tt><a href="Case.html">Case</a>=Nom</tt> (1; 100%).
+The most frequent other feature values with which `NUM` and `Number[psor]` co-occurred: <tt><a href="NumType.html">NumType</a>=Card</tt> (1; 100%), <tt><a href="Case.html">Case</a>=Nom</tt> (1; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (1; 100%).
 
 `NUM` tokens may have the following values of `Number[psor]`:
 

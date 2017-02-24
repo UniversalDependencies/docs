@@ -41,47 +41,6 @@ The following 5 pairs of parts of speech are connected with `csubj`: [cop-pos/DE
 
 
 ~~~ conllu
-# visual-style 28	bgColor:blue
-# visual-style 28	fgColor:white
-# visual-style 23	bgColor:blue
-# visual-style 23	fgColor:white
-# visual-style 23 28 csubj	color:blue
-1	ⲡⲉϫⲉ	ⲡⲉϫⲉ	VERB	VBD	_	0	root	_	_
-2	ⲛⲉϥ	ⲡⲉϥ	DET	PPOS	_	3	det	_	_
-3	ⲙⲁⲑⲏⲧⲏⲥ	ⲙⲁⲑⲏⲧⲏⲥ	NOUN	N	_	1	nsubj	_	_
-4	ⲛⲁ	ⲛⲁ	ADP	PREP	_	5	case	_	_
-5	ϥ	ⲛⲧⲟϥ	PRON	PPERO	_	1	obl	_	_
-6	ϫⲉ	ϫⲉ	CCONJ	CONJ	_	8	mark	_	_
-7	ⲕ	ⲛⲧⲟⲕ	PRON	PPERS	_	8	nsubj	_	_
-8	ⲛⲁⲩ	ⲛⲁⲩ	VERB	V	_	1	ccomp	_	_
-9	ⲉ	ⲉ	ADP	PREP	_	11	case	_	_
-10	ⲡ	ⲡ	DET	ART	_	11	det	_	_
-11	ⲙⲏⲏϣⲉ	ⲙⲏⲏϣⲉ	NOUN	N	_	8	obl	_	_
-12	ⲉⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	13	mark	_	_
-13	ⲑⲗⲓⲃⲉ	ⲑⲗⲓⲃⲉ	VERB	V	_	11	acl	_	_
-14	ⲙⲙⲟ	ⲛ	ADP	PREP	_	15	case	_	_
-15	ⲕ	ⲛⲧⲟⲕ	PRON	PPERO	_	13	obj	_	_
-16	ⲉⲧⲃⲉ	ⲉⲧⲃⲉ	ADP	PREP	_	17	case	_	_
-17	ⲡⲁⲓ	ⲡⲁⲓ	DET	PDEM	_	19	obl	_	_
-18	ⲕ	ⲛⲧⲟⲕ	PRON	PPERS	_	19	nsubj	_	_
-19	ϫⲱ	ϫⲱ	VERB	V	_	8	parataxis	_	_
-20	ⲙⲙⲟ	ⲛ	ADP	PREP	_	21	case	_	_
-21	ⲥ	ⲛⲧⲟⲥ	PRON	PPERO	_	19	obj	_	_
-22	ϫⲉ	ϫⲉ	CCONJ	CONJ	_	23	mark	_	_
-23	ⲛⲓⲙ	ⲛⲓⲙ	PRON	PINT	_	19	ccomp	_	_
-24	ⲡⲉ	ⲡⲉ	PRON	COP	_	23	cop	_	_
-25	ⲛⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	28	mark	_	_
-26	ⲁ	ⲁ	AUX	APST	_	28	aux	_	_
-27	ϥ	ⲛⲧⲟϥ	PRON	PPERS	_	28	nsubj	_	_
-28	ϫⲱϩ	ϫⲱϩ	VERB	V	_	23	csubj	_	_
-29	ⲉⲣⲟ	ⲉ	ADP	PREP	_	30	case	_	_
-30	ⲓ	ⲁⲛⲟⲕ	PRON	PPERO	_	28	obl	_	_
-31	.	.	PUNCT	PUNCT	_	1	punct	_	_
-
-~~~
-
-
-~~~ conllu
 # visual-style 22	bgColor:blue
 # visual-style 22	fgColor:white
 # visual-style 20	bgColor:blue
@@ -111,6 +70,38 @@ The following 5 pairs of parts of speech are connected with `csubj`: [cop-pos/DE
 22	ⲁⲁ	ⲉⲓⲣⲉ	VERB	V	_	20	csubj	_	_
 23	ϥ	ⲛⲧⲟϥ	PRON	PPERO	_	22	obj	_	_
 24	.	.	PUNCT	PUNCT	_	4	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 8 csubj	color:blue
+1	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	3	cc	_	_
+2	ϩⲉⲛ	ⲟⲩ	DET	ART	_	3	det	_	_
+3	ⲕⲟⲟⲩⲉ	ⲕⲉ	NOUN	N	_	0	root	_	_
+4	ⲛⲉ	ⲡⲉ	PRON	COP	_	3	cop	_	_
+5	ⲛⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	8	mark	_	_
+6	ⲁ	ⲁ	AUX	APST	_	8	aux	_	_
+7	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	_	8	nsubj	_	_
+8	ϫⲟⲟⲩ	ϫⲟⲟⲩ	VERB	V	_	3	csubj	_	_
+9	ⲉϩⲣⲁⲓ	ⲉϩⲣⲁⲓ	ADV	ADV	_	8	advmod	_	_
+10	ⲉ	ⲉ	ADP	PREP	_	12	case	_	_
+11	ⲛ	ⲡ	DET	ART	_	12	det	_	_
+12	ϣⲟⲛⲧⲉ	ϣⲟⲛⲧⲉ	NOUN	N	_	8	obl	_	_
+13	ⲉⲧⲉ	ⲉⲧⲉ	PART	CFOC	_	14	mark	_	_
+14	ⲛⲁⲓ	ⲡⲁⲓ	DET	PDEM	_	3	acl	_	_
+15	ⲛⲉ	ⲡ	PRON	COP	_	14	cop	_	_
+16	ⲛⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	19	mark	_	_
+17	ⲁ	ⲁ	AUX	APST	_	19	aux	_	_
+18	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	_	19	nsubj	_	_
+19	ⲥⲱⲧⲙ	ⲥⲱⲧⲙ	VERB	V	_	14	csubj	_	_
+20	ⲉ	ⲉ	ADP	PREP	_	22	case	_	_
+21	ⲡ	ⲡ	DET	ART	_	22	det	_	_
+22	ϣⲁϫⲉ	ϣⲁϫⲉ	NOUN	N	_	19	obl	_	_
 
 ~~~
 

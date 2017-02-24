@@ -16,7 +16,7 @@ The feature is used with 2 part-of-speech tags: [tr-pos/VERB]() (9113; 19% insta
 
 9113 [tr-pos/VERB]() tokens (100% of all `VERB` tokens) have a non-empty value of `Aspect`.
 
-The most frequent other feature values with which `VERB` and `Aspect` co-occurred: <tt><a href="Polarity.html">Polarity</a>=Pos</tt> (8104; 89%), <tt><a href="Polite.html">Polite</a>=EMPTY</tt> (7977; 88%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (7883; 87%), <tt><a href="Number[psor].html">Number[psor]</a>=EMPTY</tt> (7736; 85%), <tt><a href="Person[psor].html">Person[psor]</a>=EMPTY</tt> (7736; 85%), <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (7675; 84%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (7346; 81%), <tt><a href="VerbForm.html">VerbForm</a>=EMPTY</tt> (5224; 57%).
+The most frequent other feature values with which `VERB` and `Aspect` co-occurred: <tt><a href="Polarity.html">Polarity</a>=Pos</tt> (8104; 89%), <tt><a href="Polite.html">Polite</a>=EMPTY</tt> (7977; 88%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (7883; 87%), <tt><a href="Person[psor].html">Person[psor]</a>=EMPTY</tt> (7736; 85%), <tt><a href="Number[psor].html">Number[psor]</a>=EMPTY</tt> (7736; 85%), <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (7675; 84%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (7346; 81%), <tt><a href="VerbForm.html">VerbForm</a>=EMPTY</tt> (5224; 57%).
 
 `VERB` tokens may have the following values of `Aspect`:
 

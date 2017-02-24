@@ -27,7 +27,7 @@ The most frequent other feature values with which `DET` and `Definite` co-occurr
 
 601 [ga-pos/NOUN]() tokens (16% of all `NOUN` tokens) have a non-empty value of `Definite`.
 
-The most frequent other feature values with which `NOUN` and `Definite` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=EMPTY</tt> (601; 100%), <tt><a href="Form.html">Form</a>=EMPTY</tt> (601; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (495; 82%), <tt><a href="Case.html">Case</a>=NomAcc</tt> (439; 73%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (392; 65%).
+The most frequent other feature values with which `NOUN` and `Definite` co-occurred: <tt><a href="Form.html">Form</a>=EMPTY</tt> (601; 100%), <tt><a href="VerbForm.html">VerbForm</a>=EMPTY</tt> (601; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (495; 82%), <tt><a href="Case.html">Case</a>=NomAcc</tt> (439; 73%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (392; 65%).
 
 `NOUN` tokens may have the following values of `Definite`:
 
@@ -71,7 +71,7 @@ The most frequent other feature values with which `NUM` and `Definite` co-occurr
 
 1 [ga-pos/X]() tokens (1% of all `X` tokens) have a non-empty value of `Definite`.
 
-The most frequent other feature values with which `X` and `Definite` co-occurred: <tt><a href="Dialect.html">Dialect</a>=Ulster</tt> (1; 100%), <tt><a href="Abbr.html">Abbr</a>=EMPTY</tt> (1; 100%), <tt><a href="PronType.html">PronType</a>=EMPTY</tt> (1; 100%).
+The most frequent other feature values with which `X` and `Definite` co-occurred: <tt><a href="PronType.html">PronType</a>=EMPTY</tt> (1; 100%), <tt><a href="Abbr.html">Abbr</a>=EMPTY</tt> (1; 100%), <tt><a href="Dialect.html">Dialect</a>=Ulster</tt> (1; 100%).
 
 `X` tokens may have the following values of `Definite`:
 

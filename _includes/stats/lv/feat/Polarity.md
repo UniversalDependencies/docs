@@ -16,7 +16,7 @@ The feature is used with 2 part-of-speech tags: [lv-pos/VERB]() (5568; 12% insta
 
 5568 [lv-pos/VERB]() tokens (77% of all `VERB` tokens) have a non-empty value of `Polarity`.
 
-The most frequent other feature values with which `VERB` and `Polarity` co-occurred: <tt><a href="Aspect.html">Aspect</a>=EMPTY</tt> (5568; 100%), <tt><a href="Degree.html">Degree</a>=EMPTY</tt> (5568; 100%), <tt><a href="Definite.html">Definite</a>=EMPTY</tt> (5568; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (5568; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (5568; 100%), <tt><a href="Reflex.html">Reflex</a>=EMPTY</tt> (4845; 87%), <tt><a href="Voice.html">Voice</a>=Act</tt> (4777; 86%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (4777; 86%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (4645; 83%), <tt><a href="Evident.html">Evident</a>=Fh,Nfh</tt> (4291; 77%).
+The most frequent other feature values with which `VERB` and `Polarity` co-occurred: <tt><a href="Aspect.html">Aspect</a>=EMPTY</tt> (5568; 100%), <tt><a href="Definite.html">Definite</a>=EMPTY</tt> (5568; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (5568; 100%), <tt><a href="Degree.html">Degree</a>=EMPTY</tt> (5568; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (5568; 100%), <tt><a href="Reflex.html">Reflex</a>=EMPTY</tt> (4845; 87%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (4777; 86%), <tt><a href="Voice.html">Voice</a>=Act</tt> (4777; 86%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (4645; 83%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (4291; 77%).
 
 `VERB` tokens may have the following values of `Polarity`:
 

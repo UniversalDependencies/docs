@@ -16,7 +16,7 @@ The feature is used with 2 part-of-speech tags: [kk-pos/VERB]() (20; 4% instance
 
 20 [kk-pos/VERB]() tokens (26% of all `VERB` tokens) have a non-empty value of `Aspect`.
 
-The most frequent other feature values with which `VERB` and `Aspect` co-occurred: <tt><a href="Number.html">Number</a>=EMPTY</tt> (20; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (20; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (20; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (20; 100%), <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (20; 100%), <tt><a href="Polarity.html">Polarity</a>=EMPTY</tt> (19; 95%), <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (18; 90%), <tt><a href="VerbForm.html">VerbForm</a>=Conv</tt> (12; 60%).
+The most frequent other feature values with which `VERB` and `Aspect` co-occurred: <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (20; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (20; 100%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (20; 100%), <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (20; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (20; 100%), <tt><a href="Polarity.html">Polarity</a>=EMPTY</tt> (19; 95%), <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (18; 90%), <tt><a href="VerbForm.html">VerbForm</a>=Conv</tt> (12; 60%).
 
 `VERB` tokens may have the following values of `Aspect`:
 
@@ -30,7 +30,7 @@ The most frequent other feature values with which `VERB` and `Aspect` co-occurre
 
 2 [kk-pos/AUX]() tokens (8% of all `AUX` tokens) have a non-empty value of `Aspect`.
 
-The most frequent other feature values with which `AUX` and `Aspect` co-occurred: <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (2; 100%), <tt><a href="Polarity.html">Polarity</a>=EMPTY</tt> (2; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (2; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (2; 100%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (2; 100%).
+The most frequent other feature values with which `AUX` and `Aspect` co-occurred: <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (2; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (2; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (2; 100%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (2; 100%), <tt><a href="Polarity.html">Polarity</a>=EMPTY</tt> (2; 100%).
 
 `AUX` tokens may have the following values of `Aspect`:
 

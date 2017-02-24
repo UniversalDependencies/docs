@@ -16,7 +16,7 @@ The feature is used with 1 part-of-speech tags: [la-pos/VERB]() (1603; 9% instan
 
 1603 [la-pos/VERB]() tokens (43% of all `VERB` tokens) have a non-empty value of `Aspect`.
 
-The most frequent other feature values with which `VERB` and `Aspect` co-occurred: <tt><a href="Tense.html">Tense</a>=Past</tt> (1579; 99%), <tt><a href="Number.html">Number</a>=Sing</tt> (1144; 71%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (1058; 66%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (1058; 66%), <tt><a href="Voice.html">Voice</a>=Act</tt> (1040; 65%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (1019; 64%), <tt><a href="Person.html">Person</a>=3</tt> (816; 51%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (805; 50%).
+The most frequent other feature values with which `VERB` and `Aspect` co-occurred: <tt><a href="Tense.html">Tense</a>=Past</tt> (1579; 99%), <tt><a href="Number.html">Number</a>=Sing</tt> (1144; 71%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (1058; 66%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (1058; 66%), <tt><a href="Voice.html">Voice</a>=Act</tt> (1040; 65%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (1019; 64%), <tt><a href="Person.html">Person</a>=3</tt> (816; 51%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (805; 50%).
 
 `VERB` tokens may have the following values of `Aspect`:
 
@@ -90,7 +90,7 @@ The most frequent other feature values with which `VERB` and `Aspect` co-occurre
 
 445 [la-pos/AUX]() tokens (4% of all `AUX` tokens) have a non-empty value of `Aspect`.
 
-The most frequent other feature values with which `AUX` and `Aspect` co-occurred: <tt><a href="Voice.html">Voice</a>=Act</tt> (401; 90%), <tt><a href="Person.html">Person</a>=3</tt> (396; 89%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (396; 89%), <tt><a href="Number.html">Number</a>=Sing</tt> (331; 74%), <tt><a href="Mood.html">Mood</a>=Sub</tt> (275; 62%), <tt><a href="Tense.html">Tense</a>=Imp</tt> (273; 61%).
+The most frequent other feature values with which `AUX` and `Aspect` co-occurred: <tt><a href="Voice.html">Voice</a>=Act</tt> (401; 90%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (396; 89%), <tt><a href="Person.html">Person</a>=3</tt> (396; 89%), <tt><a href="Number.html">Number</a>=Sing</tt> (331; 74%), <tt><a href="Mood.html">Mood</a>=Sub</tt> (275; 62%), <tt><a href="Tense.html">Tense</a>=Imp</tt> (273; 61%).
 
 `AUX` tokens may have the following values of `Aspect`:
 

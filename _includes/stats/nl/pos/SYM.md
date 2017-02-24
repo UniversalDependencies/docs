@@ -72,9 +72,9 @@ The 10 most frequent `SYM` lemmas: <em>%, &, 6-2, 7-5, 6-4, km², 6-3, 4-6, 6-1,
 
 The 10 most frequent `SYM` types:  <em>%, &, 6-2, 7-5, 6-4, km², 6-3, 4-6, 6-1, m</em>
 
-The 10 most frequent ambiguous lemmas: <em>&</em> ([SYM]() 21, [PUNCT]() 8), <em>1965</em> ([NUM]() 7, [SYM]() 6), <em>km</em> ([SYM]() 5, [NOUN]() 5, [X]() 2), <em>1966</em> ([NUM]() 12, [SYM]() 2), <em>Z</em> ([SYM]() 2, [PROPN]() 1), <em>1/8</em> ([SYM]() 1, [NUM]() 1), <em>7</em> ([NUM]() 26, [SYM]() 1), <em>8</em> ([NUM]() 18, [SYM]() 1), <em>Art</em> ([PROPN]() 6, [SYM]() 1), <em>o.a.</em> ([X]() 15, [SYM]() 1)
+The 10 most frequent ambiguous lemmas: <em>&</em> ([SYM]() 21, [PUNCT]() 8), <em>1965</em> ([NUM]() 7, [SYM]() 6), <em>km</em> ([NOUN]() 5, [SYM]() 5, [X]() 2), <em>1966</em> ([NUM]() 12, [SYM]() 2), <em>Z</em> ([SYM]() 2, [PROPN]() 1), <em>1/8</em> ([SYM]() 1, [NUM]() 1), <em>7</em> ([NUM]() 26, [SYM]() 1), <em>8</em> ([NUM]() 18, [SYM]() 1), <em>Art</em> ([PROPN]() 6, [SYM]() 1), <em>o.a.</em> ([X]() 15, [SYM]() 1)
 
-The 10 most frequent ambiguous types:  <em>&</em> ([SYM]() 21, [PUNCT]() 8), <em>1965</em> ([NUM]() 7, [SYM]() 6), <em>km</em> ([NOUN]() 5, [SYM]() 5, [X]() 2), <em>1966</em> ([NUM]() 12, [SYM]() 2), <em>Z</em> ([SYM]() 2, [PROPN]() 1), <em>1/8</em> ([SYM]() 1, [NUM]() 1), <em>1955-1975</em> ([SYM]() 1, [NUM]() 1), <em>1977-1978</em> ([NUM]() 1, [SYM]() 1), <em>7</em> ([NUM]() 24, [SYM]() 1), <em>8</em> ([NUM]() 18, [SYM]() 1)
+The 10 most frequent ambiguous types:  <em>&</em> ([SYM]() 21, [PUNCT]() 8), <em>1965</em> ([NUM]() 7, [SYM]() 6), <em>km</em> ([NOUN]() 5, [SYM]() 5, [X]() 2), <em>1966</em> ([NUM]() 12, [SYM]() 2), <em>Z</em> ([SYM]() 2, [PROPN]() 1), <em>1/8</em> ([SYM]() 1, [NUM]() 1), <em>1955-1975</em> ([NUM]() 1, [SYM]() 1), <em>1977-1978</em> ([SYM]() 1, [NUM]() 1), <em>7</em> ([NUM]() 24, [SYM]() 1), <em>8</em> ([NUM]() 18, [SYM]() 1)
 
 
 * <em>&</em>
@@ -97,11 +97,11 @@ The 10 most frequent ambiguous types:  <em>&</em> ([SYM]() 21, [PUNCT]() 8), <em
   * [SYM]() 1: <em><b>1/8</b> finale : Kim Clijsters ( 2 ) - Agnieszka Radwanska : 6-2 , 6-2</em>
   * [NUM]() 1: <em>Denkend dat ze volledig genezen is van haar virus , gaat Henin naar de US Open waar ze in de <b>1/8</b> finales verliest van Nadia Petrova .</em>
 * <em>1955-1975</em>
-  * [SYM]() 1: <em>Frans Van der Elst : <b>1955-1975</b></em>
   * [NUM]() 1: <em>Hij werd partijvoorzitter ( <b>1955-1975</b> ) , Kamerlid ( 1958-1974 ) en senator ( 1974-1985 ) .</em>
+  * [SYM]() 1: <em>Frans Van der Elst : <b>1955-1975</b></em>
 * <em>1977-1978</em>
-  * [NUM]() 1: <em>Het vertrouwen van de Vlaams-nationalisten in Van der Elst kwam voor het eerst onder zware druk toen de Volksunie de Egmont- en de Stuyvenbergakkoorden ondertekende en toetrad tot de Belgische regering ( <b>1977-1978</b> ) .</em>
   * [SYM]() 1: <em>Het doek hing dan op verschillende plaatsen : Venetië ( 1950 ) , Casino van Knokke ( 1971 ) , Museum voor Schone Kunsten te Oostende ( <b>1977-1978</b> ) , in bruikleen aan het Koninklijk Museum voor Schone Kunsten te Antwerpen , Chicago en New York ( 1976 ) , Künsthaus te Zürich ( 1983 ) .</em>
+  * [NUM]() 1: <em>Het vertrouwen van de Vlaams-nationalisten in Van der Elst kwam voor het eerst onder zware druk toen de Volksunie de Egmont- en de Stuyvenbergakkoorden ondertekende en toetrad tot de Belgische regering ( <b>1977-1978</b> ) .</em>
 * <em>7</em>
   * [NUM]() 24: <em>Lilian zelf overleed op <b>7</b> juni 2002 .</em>
   * [SYM]() 1: <em><b>7</b> .</em>

@@ -35,37 +35,6 @@ The following 3 pairs of parts of speech are connected with `compound:prt`: [ga-
 
 
 ~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 3 compound:prt	color:blue
-1	Bíonn	bí	VERB	PresImp	_	0	root	_	_
-2	suas	suas	ADV	Dir	_	1	advmod	_	_
-3	le	le	ADP	Simp	_	2	compound:prt	_	_
-4	céad	céad	NUM	Num	NumType=Card	5	nummod	_	_
-5	cineál	cineál	NOUN	Noun	Case=NomAcc|Gender=Masc|Number=Sing	1	nsubj	_	_
-6	éagsúil	éagsúil	ADJ	Adj	Case=NomAcc|Gender=Masc|Number=Sing	5	amod	_	_
-7	aimsire	aimsir	NOUN	Noun	Case=Gen|Gender=Fem|Number=Sing	5	compound	_	_
-8	agus	agus	CCONJ	Coord	_	9	cc	_	_
-9	feiniméan	feiniméan	NOUN	Noun	Case=NomAcc|Gender=Masc|Number=Sing	5	conj	_	_
-10	aimsire	aimsir	NOUN	Noun	Case=Gen|Gender=Fem|Number=Sing	9	compound	_	_
-11	san	i	ADP	Art	Number=Sing|PronType=Art	12	case	_	_
-12	áireamh	áireamh	NOUN	Noun	Case=NomAcc|Gender=Masc|Number=Sing	9	nmod	_	_
-13	ag	ag	ADP	Simp	_	14	case	_	_
-14	meitéareolaithe	meitéareolaí	NOUN	Noun	Case=NomAcc|Gender=Masc|Number=Plur	1	obl	_	SpaceAfter=No
-15	,	,	PUNCT	Punct	_	17	punct	_	_
-16	ón	ó	ADP	Art	Number=Sing|PronType=Art	17	case	_	_
-17	gceobhrán	ceobhrán	NOUN	Noun	Case=NomAcc|Form=Ecl|Gender=Masc|Number=Sing	1	obl	_	_
-18	go	go	ADP	Cmpd	PrepForm=Cmpd	20	case	_	_
-19	dtí	dtí	ADP	Cmpd	_	18	fixed	_	_
-20	tornádónna	tornádó	NOUN	Noun	Case=NomAcc|Gender=Masc|Number=Plur	17	nmod	_	SpaceAfter=No
-21	.	.	PUNCT	.	_	1	punct	_	_
-
-~~~
-
-
-~~~ conllu
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 2	bgColor:blue
@@ -115,6 +84,37 @@ The following 3 pairs of parts of speech are connected with `compound:prt`: [ga-
 42	bheidh	bí	VERB	FutInd	Form=Len|Mood=Ind|Tense=Fut	37	csubj:cleft	_	_
 43	siad	siad	PRON	Pers	Number=Plur|Person=3	42	nsubj	_	SpaceAfter=No
 44	.	.	PUNCT	.	_	11	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 3 compound:prt	color:blue
+1	Bíonn	bí	VERB	PresImp	_	0	root	_	_
+2	suas	suas	ADV	Dir	_	1	advmod	_	_
+3	le	le	ADP	Simp	_	2	compound:prt	_	_
+4	céad	céad	NUM	Num	NumType=Card	5	nummod	_	_
+5	cineál	cineál	NOUN	Noun	Case=NomAcc|Gender=Masc|Number=Sing	1	nsubj	_	_
+6	éagsúil	éagsúil	ADJ	Adj	Case=NomAcc|Gender=Masc|Number=Sing	5	amod	_	_
+7	aimsire	aimsir	NOUN	Noun	Case=Gen|Gender=Fem|Number=Sing	5	compound	_	_
+8	agus	agus	CCONJ	Coord	_	9	cc	_	_
+9	feiniméan	feiniméan	NOUN	Noun	Case=NomAcc|Gender=Masc|Number=Sing	5	conj	_	_
+10	aimsire	aimsir	NOUN	Noun	Case=Gen|Gender=Fem|Number=Sing	9	compound	_	_
+11	san	i	ADP	Art	Number=Sing|PronType=Art	12	case	_	_
+12	áireamh	áireamh	NOUN	Noun	Case=NomAcc|Gender=Masc|Number=Sing	9	nmod	_	_
+13	ag	ag	ADP	Simp	_	14	case	_	_
+14	meitéareolaithe	meitéareolaí	NOUN	Noun	Case=NomAcc|Gender=Masc|Number=Plur	1	obl	_	SpaceAfter=No
+15	,	,	PUNCT	Punct	_	17	punct	_	_
+16	ón	ó	ADP	Art	Number=Sing|PronType=Art	17	case	_	_
+17	gceobhrán	ceobhrán	NOUN	Noun	Case=NomAcc|Form=Ecl|Gender=Masc|Number=Sing	1	obl	_	_
+18	go	go	ADP	Cmpd	PrepForm=Cmpd	20	case	_	_
+19	dtí	dtí	ADP	Cmpd	_	18	fixed	_	_
+20	tornádónna	tornádó	NOUN	Noun	Case=NomAcc|Gender=Masc|Number=Plur	17	nmod	_	SpaceAfter=No
+21	.	.	PUNCT	.	_	1	punct	_	_
 
 ~~~
 

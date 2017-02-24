@@ -36,7 +36,7 @@ The most frequent other feature values with which `NOUN` and `Number[psor]` co-o
 
 1377 [tr-pos/VERB]() tokens (15% of all `VERB` tokens) have a non-empty value of `Number[psor]`.
 
-The most frequent other feature values with which `VERB` and `Number[psor]` co-occurred: <tt><a href="Person.html">Person</a>=EMPTY</tt> (1377; 100%), <tt><a href="Polite.html">Polite</a>=EMPTY</tt> (1377; 100%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (1377; 100%), <tt><a href="Aspect.html">Aspect</a>=Perf</tt> (1375; 100%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (1309; 95%), <tt><a href="Polarity.html">Polarity</a>=Pos</tt> (1245; 90%), <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (1122; 81%), <tt><a href="Person[psor].html">Person[psor]</a>=3</tt> (1098; 80%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (1016; 74%), <tt><a href="Tense.html">Tense</a>=Past</tt> (861; 63%).
+The most frequent other feature values with which `VERB` and `Number[psor]` co-occurred: <tt><a href="Person.html">Person</a>=EMPTY</tt> (1377; 100%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (1377; 100%), <tt><a href="Polite.html">Polite</a>=EMPTY</tt> (1377; 100%), <tt><a href="Aspect.html">Aspect</a>=Perf</tt> (1375; 100%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (1309; 95%), <tt><a href="Polarity.html">Polarity</a>=Pos</tt> (1245; 90%), <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (1122; 81%), <tt><a href="Person[psor].html">Person[psor]</a>=3</tt> (1098; 80%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (1016; 74%), <tt><a href="Tense.html">Tense</a>=Past</tt> (861; 63%).
 
 `VERB` tokens may have the following values of `Number[psor]`:
 
@@ -179,7 +179,7 @@ The most frequent other feature values with which `NUM` and `Number[psor]` co-oc
 
 13 [tr-pos/PROPN]() tokens (1% of all `PROPN` tokens) have a non-empty value of `Number[psor]`.
 
-The most frequent other feature values with which `PROPN` and `Number[psor]` co-occurred: <tt><a href="Number.html">Number</a>=Sing</tt> (13; 100%), <tt><a href="Person.html">Person</a>=3</tt> (13; 100%), <tt><a href="Case.html">Case</a>=Nom</tt> (8; 62%).
+The most frequent other feature values with which `PROPN` and `Number[psor]` co-occurred: <tt><a href="Person.html">Person</a>=3</tt> (13; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (13; 100%), <tt><a href="Case.html">Case</a>=Nom</tt> (8; 62%).
 
 `PROPN` tokens may have the following values of `Number[psor]`:
 
@@ -188,9 +188,9 @@ The most frequent other feature values with which `PROPN` and `Number[psor]` co-
 
 The 10 most frequent relations where parent and child node agree in `Number[psor]`:
 <tt>VERB --[<a href="../dep/conj.html">conj</a>]--> VERB</tt> (63; 79%),
-<tt>ADJ --[<a href="../dep/conj.html">conj</a>]--> ADJ</tt> (6; 55%),
-<tt>PRON --[<a href="../dep/compound:redup.html">compound:redup</a>]--> PRON</tt> (6; 100%),
 <tt>NOUN --[<a href="../dep/compound:redup.html">compound:redup</a>]--> NOUN</tt> (6; 60%),
+<tt>PRON --[<a href="../dep/compound:redup.html">compound:redup</a>]--> PRON</tt> (6; 100%),
+<tt>ADJ --[<a href="../dep/conj.html">conj</a>]--> ADJ</tt> (6; 55%),
 <tt>ADP --[<a href="../dep/nmod:poss.html">nmod:poss</a>]--> VERB</tt> (2; 100%),
 <tt>NUM --[<a href="../dep/conj.html">conj</a>]--> NUM</tt> (1; 100%),
 <tt>ADP --[<a href="../dep/nmod:poss.html">nmod:poss</a>]--> ADJ</tt> (1; 100%).

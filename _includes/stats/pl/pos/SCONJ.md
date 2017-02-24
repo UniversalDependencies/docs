@@ -13,7 +13,7 @@ The 10 most frequent `SCONJ` types:  <em>że, bo, gdy, by, aby, żeby, jeśli, g
 
 The 10 most frequent ambiguous lemmas: <em>że</em> ([SCONJ]() 521, [PART]() 1), <em>gdy</em> ([SCONJ]() 55, [ADV]() 1), <em>choć</em> ([SCONJ]() 18, [PART]() 3), <em>kiedy</em> ([ADV]() 25, [SCONJ]() 12), <em>jakby</em> ([SCONJ]() 10, [PART]() 7), <em>chociaż</em> ([PART]() 4, [SCONJ]() 4), <em>aż</em> ([PART]() 21, [CCONJ]() 2, [SCONJ]() 1)
 
-The 10 most frequent ambiguous types:  <em>że</em> ([SCONJ]() 508, [PART]() 1), <em>gdy</em> ([SCONJ]() 29, [ADV]() 1), <em>by</em> ([AUX]() 149, [SCONJ]() 48), <em>choć</em> ([SCONJ]() 13, [PART]() 3), <em>kiedy</em> ([ADV]() 11, [SCONJ]() 6), <em>jakby</em> ([SCONJ]() 8, [PART]() 6), <em>ze</em> ([ADP]() 111, [SCONJ]() 9), <em>nim</em> ([PRON]() 44, [SCONJ]() 3), <em>chociaż</em> ([SCONJ]() 4, [PART]() 4), <em>Aż</em> ([PART]() 4, [SCONJ]() 1)
+The 10 most frequent ambiguous types:  <em>że</em> ([SCONJ]() 508, [PART]() 1), <em>gdy</em> ([SCONJ]() 29, [ADV]() 1), <em>by</em> ([AUX]() 149, [SCONJ]() 48), <em>choć</em> ([SCONJ]() 13, [PART]() 3), <em>kiedy</em> ([ADV]() 11, [SCONJ]() 6), <em>jakby</em> ([SCONJ]() 8, [PART]() 6), <em>ze</em> ([ADP]() 111, [SCONJ]() 9), <em>nim</em> ([PRON]() 44, [SCONJ]() 3), <em>chociaż</em> ([PART]() 4, [SCONJ]() 4), <em>Aż</em> ([PART]() 4, [SCONJ]() 1)
 
 
 * <em>że</em>
@@ -41,8 +41,8 @@ The 10 most frequent ambiguous types:  <em>że</em> ([SCONJ]() 508, [PART]() 1),
   * [PRON]() 44: <em>Wywar odcedzić i ugotować w <b>nim</b> pokrojone w kostkę ziemniaki .</em>
   * [SCONJ]() 3: <em>Córy moje , <b>nim</b> siądą , przejrzą się do lustra .</em>
 * <em>chociaż</em>
-  * [SCONJ]() 4: <em>Obniża cenę do połowy , <b>chociaż</b> cena zależy też od stanu podręcznika .</em>
   * [PART]() 4: <em>Niech <b>chociaż</b> pan Vens wróci .</em>
+  * [SCONJ]() 4: <em>Obniża cenę do połowy , <b>chociaż</b> cena zależy też od stanu podręcznika .</em>
 * <em>Aż</em>
   * [PART]() 4: <em><b>Aż</b> pęcznieję z dumy .</em>
   * [SCONJ]() 1: <em><b>Aż</b> w końcu podział ten został przezwyciężony .</em>

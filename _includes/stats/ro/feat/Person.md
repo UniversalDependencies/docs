@@ -59,7 +59,7 @@ The most frequent other feature values with which `PRON` and `Person` co-occurre
 
 6534 [ro-pos/AUX]() tokens (84% of all `AUX` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `AUX` and `Person` co-occurred: <tt><a href="Number.html">Number</a>=Sing</tt> (4118; 63%), <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (4027; 62%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (4025; 62%), <tt><a href="VerbForm.html">VerbForm</a>=EMPTY</tt> (4025; 62%).
+The most frequent other feature values with which `AUX` and `Person` co-occurred: <tt><a href="Number.html">Number</a>=Sing</tt> (4118; 63%), <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (4027; 62%), <tt><a href="VerbForm.html">VerbForm</a>=EMPTY</tt> (4025; 62%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (4025; 62%).
 
 `AUX` tokens may have the following values of `Person`:
 
@@ -70,7 +70,7 @@ The most frequent other feature values with which `AUX` and `Person` co-occurred
 
 <table>
   <tr><th>Paradigm <i>fi</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
-  <tr><td><tt><a href="Mood.html">Mood</a>=Imp|<a href="Number.html">Number</a>=Sing</tt></td><td></td><td><em>fii, fi</em></td><td></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Imp|<a href="Number.html">Number</a>=Sing</tt></td><td></td><td><em>fi, fii</em></td><td></td></tr>
   <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Tense.html">Tense</a>=Imp</tt></td><td></td><td><em>erai</em></td><td><em>era</em></td></tr>
   <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Tense.html">Tense</a>=Past</tt></td><td></td><td></td><td><em>fu</em></td></tr>
   <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Tense.html">Tense</a>=Pqp</tt></td><td></td><td></td><td><em>fusese</em></td></tr>

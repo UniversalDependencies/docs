@@ -33,23 +33,6 @@ The following 5 pairs of parts of speech are connected with `aux:pass`: [it-pos/
 
 
 ~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 2 aux:pass	color:blue
-1	Quando	quando	ADV	B	_	3	advmod	_	_
-2	venne	venire	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	aux:pass	_	_
-3	fabbricato	fabbricato	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
-4	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
-5	primo	primo	ADJ	NO	Gender=Masc|Number=Sing|NumType=Ord	6	amod	_	_
-6	asciugacapelli	asciugacapelli	NOUN	S	Gender=Masc	3	nsubj:pass	_	SpaceAfter=No
-7	?	?	PUNCT	FS	_	3	punct	_	_
-
-~~~
-
-
-~~~ conllu
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 8	bgColor:blue
@@ -64,6 +47,23 @@ The following 5 pairs of parts of speech are connected with `aux:pass`: [it-pos/
 7	molto	molto	ADV	B	_	8	advmod	_	_
 8	lunghe	lungo	ADJ	A	Gender=Fem|Number=Plur	1	advcl	_	SpaceAfter=No
 9	.	.	PUNCT	FS	_	1	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 2 aux:pass	color:blue
+1	Quando	quando	ADV	B	_	3	advmod	_	_
+2	venne	venire	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	aux:pass	_	_
+3	fabbricato	fabbricato	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+4	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+5	primo	primo	ADJ	NO	Gender=Masc|Number=Sing|NumType=Ord	6	amod	_	_
+6	asciugacapelli	asciugacapelli	NOUN	S	Gender=Masc	3	nsubj:pass	_	SpaceAfter=No
+7	?	?	PUNCT	FS	_	3	punct	_	_
 
 ~~~
 

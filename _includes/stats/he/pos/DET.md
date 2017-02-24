@@ -11,7 +11,7 @@ The 10 most frequent `DET` lemmas: ה, כול, _, כמה, רוב, מספר, הר
 
 The 10 most frequent `DET` types:  ה, ה_, כל, כמה, רוב, מספר, הרבה, שום, אף, שאר
 
-The 10 most frequent ambiguous lemmas: ה ([DET]() 14980, [SCONJ]() 677, [X]() 7), כול ([DET]() 496, [NOUN]() 30, [ADV]() 1), _ ([PUNCT]() 16916, [NUM]() 1759, [ADP]() 535, [NOUN]() 338, [VERB]() 248, [DET]() 229, [ADJ]() 187, [ADV]() 155, [PRON]() 129, [X]() 109, [CCONJ]() 102, [AUX]() 88, [SCONJ]() 47, [PROPN]() 24, [PART]() 17), רוב ([DET]() 33, [NOUN]() 14), מספר ([NOUN]() 33, [DET]() 31), הרבה ([DET]() 30, [ADV]() 20, [VERB]() 13), שום ([DET]() 29, [PROPN]() 1, [NOUN]() 1), אף ([CCONJ]() 95, [DET]() 18, [NOUN]() 13), שאר ([NOUN]() 18, [DET]() 13), מרבית ([DET]() 12, [NOUN]() 2)
+The 10 most frequent ambiguous lemmas: ה ([DET]() 14980, [SCONJ]() 677, [X]() 7), כול ([DET]() 496, [NOUN]() 30, [ADV]() 1), _ ([PUNCT]() 16916, [NUM]() 1759, [ADP]() 535, [NOUN]() 338, [VERB]() 248, [DET]() 229, [ADJ]() 187, [ADV]() 155, [PRON]() 129, [X]() 109, [CCONJ]() 102, [AUX]() 88, [SCONJ]() 47, [PROPN]() 24, [PART]() 17), רוב ([DET]() 33, [NOUN]() 14), מספר ([NOUN]() 33, [DET]() 31), הרבה ([DET]() 30, [ADV]() 20, [VERB]() 13), שום ([DET]() 29, [NOUN]() 1, [PROPN]() 1), אף ([CCONJ]() 95, [DET]() 18, [NOUN]() 13), שאר ([NOUN]() 18, [DET]() 13), מרבית ([DET]() 12, [NOUN]() 2)
 
 The 10 most frequent ambiguous types:  ה ([DET]() 12444, [SCONJ]() 678, [X]() 21), ה_ ([DET]() 2748, [X]() 8), רוב ([DET]() 33, [NOUN]() 10), מספר ([DET]() 31, [NOUN]() 26, [VERB]() 5), הרבה ([DET]() 30, [ADV]() 20, [VERB]() 3, [X]() 1), שום ([DET]() 29, [PROPN]() 1, [NOUN]() 1), אף ([CCONJ]() 95, [DET]() 18, [NOUN]() 12, [ADV]() 9), שאר ([NOUN]() 17, [DET]() 13), מרבית ([DET]() 12, [NOUN]() 1), מחצית ([NOUN]() 12, [DET]() 11, [X]() 1)
 

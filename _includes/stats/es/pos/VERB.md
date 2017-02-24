@@ -13,7 +13,7 @@ The 10 most frequent `VERB` types:  <em>es, fue, son, eran, era, tiene, encuentr
 
 The 10 most frequent ambiguous lemmas: <em>ser</em> ([VERB]() 5906, [AUX]() 1686, [NOUN]() 48, [PROPN]() 25, [X]() 7, [PART]() 1, [DET]() 1, [CCONJ]() 1), <em>tener</em> ([VERB]() 1243, [AUX]() 102, [PROPN]() 1), <em>hacer</em> ([VERB]() 762, [NOUN]() 6, [AUX]() 4, [ADP]() 2), <em>estar</em> ([VERB]() 724, [AUX]() 440, [X]() 2, [PROPN]() 1), <em>dar</em> ([VERB]() 421, [ADP]() 9, [PROPN]() 6, [X]() 2, [AUX]() 1), <em>haber</em> ([AUX]() 1762, [VERB]() 359, [PROPN]() 7, [NOUN]() 5, [X]() 2, [ADV]() 1), <em>decir</em> ([VERB]() 341, [PROPN]() 1), <em>ver</em> ([VERB]() 289, [NOUN]() 9, [PROPN]() 4, [X]() 1), <em>llegar</em> ([VERB]() 273, [AUX]() 31), <em>llevar</em> ([VERB]() 240, [AUX]() 5, [NOUN]() 1, [PROPN]() 1)
 
-The 10 most frequent ambiguous types:  <em>es</em> ([VERB]() 2586, [AUX]() 175, [X]() 3, [PROPN]() 3), <em>fue</em> ([AUX]() 652, [VERB]() 603, [X]() 1, [PART]() 1), <em>son</em> ([VERB]() 481, [AUX]() 66, [NOUN]() 1, [PROPN]() 1), <em>eran</em> ([VERB]() 471, [AUX]() 20), <em>era</em> ([VERB]() 417, [AUX]() 39, [NOUN]() 12, [PROPN]() 1), <em>tiene</em> ([VERB]() 373, [AUX]() 8), <em>ser</em> ([VERB]() 277, [AUX]() 173, [NOUN]() 26, [X]() 1), <em>está</em> ([VERB]() 212, [AUX]() 165, [X]() 1), <em>hacer</em> ([VERB]() 191, [NOUN]() 4, [AUX]() 2), <em>hay</em> ([VERB]() 150, [AUX]() 31, [X]() 1, [ADV]() 1)
+The 10 most frequent ambiguous types:  <em>es</em> ([VERB]() 2586, [AUX]() 175, [X]() 3, [PROPN]() 3), <em>fue</em> ([AUX]() 652, [VERB]() 603, [PART]() 1, [X]() 1), <em>son</em> ([VERB]() 481, [AUX]() 66, [NOUN]() 1, [PROPN]() 1), <em>eran</em> ([VERB]() 471, [AUX]() 20), <em>era</em> ([VERB]() 417, [AUX]() 39, [NOUN]() 12, [PROPN]() 1), <em>tiene</em> ([VERB]() 373, [AUX]() 8), <em>ser</em> ([VERB]() 277, [AUX]() 173, [NOUN]() 26, [X]() 1), <em>está</em> ([VERB]() 212, [AUX]() 165, [X]() 1), <em>hacer</em> ([VERB]() 191, [NOUN]() 4, [AUX]() 2), <em>hay</em> ([VERB]() 150, [AUX]() 31, [ADV]() 1, [X]() 1)
 
 
 * <em>es</em>
@@ -24,8 +24,8 @@ The 10 most frequent ambiguous types:  <em>es</em> ([VERB]() 2586, [AUX]() 175, 
 * <em>fue</em>
   * [AUX]() 652: <em>La sentencia de este caso <b>fue</b> publicada por orden virreinal en 1783 .</em>
   * [VERB]() 603: <em>En general , el daño en Gran Caimán no <b>fue</b> severo .</em>
-  * [X]() 1: <em>El sencillo fue <b>fue</b> su primero lanzado en formato maxi con más de 4 canciones , y e fueron agregados numerosas remezclas y versiones alternativas de la canción original .</em>
   * [PART]() 1: <em>Después <b>fue</b> a la Universidad de Cambridge donde se interesó por la física y la química .</em>
+  * [X]() 1: <em>El sencillo fue <b>fue</b> su primero lanzado en formato maxi con más de 4 canciones , y e fueron agregados numerosas remezclas y versiones alternativas de la canción original .</em>
 * <em>son</em>
   * [VERB]() 481: <em>Ambos <b>son</b> químicamente idénticos .</em>
   * [AUX]() 66: <em>A pesar de esto las benzodiazepinas <b>son</b> todavía extensamente recetadas .</em>
@@ -58,8 +58,8 @@ The 10 most frequent ambiguous types:  <em>es</em> ([VERB]() 2586, [AUX]() 175, 
 * <em>hay</em>
   * [VERB]() 150: <em>Aun <b>hay</b> otros reclutados por el Ejército Blanco .</em>
   * [AUX]() 31: <em>Mi primera impresión no fue buena , todo <b>hay</b> que decir lo .</em>
-  * [X]() 1: <em>En la empresa también trabaja Juan Pablo quien es el nuevo socio , quien lucha por convertir a Alma en una modelo , Alma se da cuanta de que el trabaja alli y decide no firmar el contrato , la malvada de Abigail llega a la agencia y le informa a su primo que Alma estaba <b>hay</b> , el cual la busca y la regresa a su casa .</em>
   * [ADV]() 1: <em>En la empresa también trabaja Juan Pablo quien es el nuevo socio , quien lucha por convertir a Alma en una modelo , Alma se da cuanta de que el trabaja alli y decide no firmar el contrato , la malvada de Abigail llega a la agencia y le informa a su primo que Alma estaba <b>hay</b> , el cual la busca y la regresa a su casa .</em>
+  * [X]() 1: <em>En la empresa también trabaja Juan Pablo quien es el nuevo socio , quien lucha por convertir a Alma en una modelo , Alma se da cuanta de que el trabaja alli y decide no firmar el contrato , la malvada de Abigail llega a la agencia y le informa a su primo que Alma estaba <b>hay</b> , el cual la busca y la regresa a su casa .</em>
 
 ## Morphology
 
@@ -113,7 +113,7 @@ The 10 most frequent `VERB` lemmas: <em>tener, hacer, decir, dar, ver, querer, l
 
 The 10 most frequent `VERB` types:  <em>tiene, dijo, hacer, tienen, aseguró, explicó, dar, afirmó, señaló, tener</em>
 
-The 10 most frequent ambiguous lemmas: <em>tener</em> ([VERB]() 1547, [AUX]() 35, [SCONJ]() 4, [ADP]() 1, [NOUN]() 1), <em>hacer</em> ([VERB]() 950, [AUX]() 337, [NOUN]() 4), <em>decir</em> ([VERB]() 820, [NOUN]() 49, [AUX]() 46), <em>dar</em> ([VERB]() 566, [ADP]() 8, [AUX]() 7, [ADJ]() 1), <em>ver</em> ([VERB]() 351, [AUX]() 27, [NOUN]() 8), <em>querer</em> ([VERB]() 349, [AUX]() 15, [NOUN]() 1), <em>llevar</em> ([VERB]() 330, [AUX]() 11, [NOUN]() 1), <em>estar</em> ([AUX]() 1176, [VERB]() 318, [NOUN]() 1), <em>poner</em> ([VERB]() 313, [AUX]() 4), <em>asegurar</em> ([VERB]() 310, [AUX]() 17)
+The 10 most frequent ambiguous lemmas: <em>tener</em> ([VERB]() 1547, [AUX]() 35, [SCONJ]() 4, [NOUN]() 1, [ADP]() 1), <em>hacer</em> ([VERB]() 950, [AUX]() 337, [NOUN]() 4), <em>decir</em> ([VERB]() 820, [NOUN]() 49, [AUX]() 46), <em>dar</em> ([VERB]() 566, [ADP]() 8, [AUX]() 7, [ADJ]() 1), <em>ver</em> ([VERB]() 351, [AUX]() 27, [NOUN]() 8), <em>querer</em> ([VERB]() 349, [AUX]() 15, [NOUN]() 1), <em>llevar</em> ([VERB]() 330, [AUX]() 11, [NOUN]() 1), <em>estar</em> ([AUX]() 1176, [VERB]() 318, [NOUN]() 1), <em>poner</em> ([VERB]() 313, [AUX]() 4), <em>asegurar</em> ([VERB]() 310, [AUX]() 17)
 
 The 10 most frequent ambiguous types:  <em>tiene</em> ([VERB]() 470, [AUX]() 9), <em>hacer</em> ([VERB]() 307, [AUX]() 34, [NOUN]() 4), <em>tienen</em> ([VERB]() 181, [AUX]() 1), <em>dar</em> ([VERB]() 157, [AUX]() 6), <em>tener</em> ([VERB]() 136, [AUX]() 10, [NOUN]() 1), <em>hizo</em> ([VERB]() 132, [AUX]() 12), <em>quiere</em> ([VERB]() 118, [AUX]() 3), <em>ganar</em> ([VERB]() 116, [AUX]() 2), <em>tuvo</em> ([VERB]() 110, [AUX]() 1), <em>hace</em> ([AUX]() 221, [VERB]() 111)
 

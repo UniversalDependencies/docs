@@ -13,7 +13,7 @@ The 10 most frequent `ADV` types:  <em>so, just, when, very, also, how, now, eve
 
 The 10 most frequent ambiguous lemmas: <em>so</em> ([ADV]() 520, [SCONJ]() 71, [X]() 2, [VERB]() 1), <em>when</em> ([ADV]() 428, [X]() 1), <em>very</em> ([ADV]() 390, [ADJ]() 5), <em>how</em> ([ADV]() 288, [NOUN]() 1), <em>even</em> ([ADV]() 247, [VERB]() 2), <em>then</em> ([ADV]() 246, [ADP]() 4, [SCONJ]() 2, [DET]() 1, [PRON]() 1), <em>there</em> ([PRON]() 419, [ADV]() 237, [X]() 1), <em>only</em> ([ADV]() 235, [ADJ]() 63), <em>as</em> ([ADP]() 436, [SCONJ]() 390, [ADV]() 218, [AUX]() 1), <em>here</em> ([ADV]() 207, [VERB]() 1)
 
-The 10 most frequent ambiguous types:  <em>so</em> ([ADV]() 415, [SCONJ]() 71), <em>when</em> ([ADV]() 332, [X]() 1), <em>very</em> ([ADV]() 353, [ADJ]() 5), <em>how</em> ([ADV]() 201, [NOUN]() 1), <em>even</em> ([ADV]() 218, [VERB]() 1), <em>then</em> ([ADV]() 203, [ADP]() 4, [SCONJ]() 2, [DET]() 1, [PRON]() 1), <em>there</em> ([PRON]() 272, [ADV]() 233, [X]() 1), <em>only</em> ([ADV]() 223, [ADJ]() 61), <em>as</em> ([ADP]() 390, [SCONJ]() 339, [ADV]() 206, [AUX]() 1), <em>here</em> ([ADV]() 154, [VERB]() 1)
+The 10 most frequent ambiguous types:  <em>so</em> ([ADV]() 415, [SCONJ]() 71), <em>when</em> ([ADV]() 332, [X]() 1), <em>very</em> ([ADV]() 353, [ADJ]() 5), <em>how</em> ([ADV]() 201, [NOUN]() 1), <em>even</em> ([ADV]() 218, [VERB]() 1), <em>then</em> ([ADV]() 203, [ADP]() 4, [SCONJ]() 2, [PRON]() 1, [DET]() 1), <em>there</em> ([PRON]() 272, [ADV]() 233, [X]() 1), <em>only</em> ([ADV]() 223, [ADJ]() 61), <em>as</em> ([ADP]() 390, [SCONJ]() 339, [ADV]() 206, [AUX]() 1), <em>here</em> ([ADV]() 154, [VERB]() 1)
 
 
 * <em>so</em>
@@ -35,8 +35,8 @@ The 10 most frequent ambiguous types:  <em>so</em> ([ADV]() 415, [SCONJ]() 71), 
   * [ADV]() 203: <em>If you r in the USA and venture into Cuba <b>then</b> u need a passport</em>
   * [ADP]() 4: <em>Skin will be darker but lighter <b>then</b> the Silkies .</em>
   * [SCONJ]() 2: <em>Enjoy those 2 days it better <b>then</b> not going at all .!</em>
-  * [DET]() 1: <em>Nobody likes the Parisians , even <b>then</b> Parisians do n't like Parisians .</em>
   * [PRON]() 1: <em>I called the next morning to let <b>then</b> know my wife would be driving in .</em>
+  * [DET]() 1: <em>Nobody likes the Parisians , even <b>then</b> Parisians do n't like Parisians .</em>
 * <em>there</em>
   * [PRON]() 272: <em>Read the entire article ; <b>there</b> 's a punchline , too .</em>
   * [ADV]() 233: <em>I look forward to seeing you all <b>there</b> .</em>

@@ -11,9 +11,9 @@ The 10 most frequent `DET` lemmas: <em>an, na, a, seo, sin, aon, eile, gach, mo,
 
 The 10 most frequent `DET` types:  <em>an, na, a, seo, sin, aon, eile, gach, mo, cibé</em>
 
-The 10 most frequent ambiguous lemmas: <em>an</em> ([DET]() 621, [PART]() 2), <em>a</em> ([PART]() 485, [DET]() 97, [X]() 2, [ADV]() 1, [ADP]() 1, [NOUN]() 1), <em>seo</em> ([DET]() 68, [PRON]() 15, [X]() 7, [AUX]() 2), <em>sin</em> ([DET]() 67, [PRON]() 65, [X]() 10, [AUX]() 2), <em>aon</em> ([DET]() 46, [NUM]() 6, [NOUN]() 1), <em>uile</em> ([DET]() 7, [ADJ]() 1), <em>do</em> ([ADP]() 153, [PART]() 39, [DET]() 5), <em>cé</em> ([PRON]() 8, [SCONJ]() 5, [DET]() 2, [NOUN]() 1, [AUX]() 1), <em>siúd</em> ([PRON]() 10, [DET]() 1), <em>ár</em> ([DET]() 1, [NOUN]() 1)
+The 10 most frequent ambiguous lemmas: <em>an</em> ([DET]() 621, [PART]() 2), <em>a</em> ([PART]() 485, [DET]() 97, [X]() 2, [NOUN]() 1, [ADP]() 1, [ADV]() 1), <em>seo</em> ([DET]() 68, [PRON]() 15, [X]() 7, [AUX]() 2), <em>sin</em> ([DET]() 67, [PRON]() 65, [X]() 10, [AUX]() 2), <em>aon</em> ([DET]() 46, [NUM]() 6, [NOUN]() 1), <em>uile</em> ([DET]() 7, [ADJ]() 1), <em>do</em> ([ADP]() 153, [PART]() 39, [DET]() 5), <em>cé</em> ([PRON]() 8, [SCONJ]() 5, [DET]() 2, [NOUN]() 1, [AUX]() 1), <em>siúd</em> ([PRON]() 10, [DET]() 1), <em>ár</em> ([DET]() 1, [NOUN]() 1)
 
-The 10 most frequent ambiguous types:  <em>an</em> ([DET]() 600, [AUX]() 2, [PART]() 1), <em>a</em> ([PART]() 482, [DET]() 98, [X]() 1, [ADV]() 1, [ADP]() 1, [NOUN]() 1), <em>seo</em> ([DET]() 68, [PRON]() 14), <em>sin</em> ([DET]() 67, [PRON]() 55), <em>aon</em> ([DET]() 43, [NUM]() 4, [NOUN]() 1), <em>do</em> ([ADP]() 43, [PART]() 8, [DET]() 5), <em>cén</em> ([PRON]() 4, [DET]() 1), <em>haon</em> ([DET]() 2, [NUM]() 1), <em>uilig</em> ([DET]() 2, [ADJ]() 1), <em>a'</em> ([ADP]() 1, [DET]() 1)
+The 10 most frequent ambiguous types:  <em>an</em> ([DET]() 600, [AUX]() 2, [PART]() 1), <em>a</em> ([PART]() 482, [DET]() 98, [NOUN]() 1, [X]() 1, [ADP]() 1, [ADV]() 1), <em>seo</em> ([DET]() 68, [PRON]() 14), <em>sin</em> ([DET]() 67, [PRON]() 55), <em>aon</em> ([DET]() 43, [NUM]() 4, [NOUN]() 1), <em>do</em> ([ADP]() 43, [PART]() 8, [DET]() 5), <em>cén</em> ([PRON]() 4, [DET]() 1), <em>haon</em> ([DET]() 2, [NUM]() 1), <em>uilig</em> ([DET]() 2, [ADJ]() 1), <em>a'</em> ([DET]() 1, [ADP]() 1)
 
 
 * <em>an</em>
@@ -23,10 +23,10 @@ The 10 most frequent ambiguous types:  <em>an</em> ([DET]() 600, [AUX]() 2, [PAR
 * <em>a</em>
   * [PART]() 482: <em>Ansin nach deas mar <b>a</b> bheadh an scéal a'm ?</em>
   * [DET]() 98: <em>Ansin nuair a shocair an gleo d' éist siad , ach ní chuala siad <b>a</b> dhath .</em>
-  * [X]() 1: <em>Sa Deibhí bíonn seacht siolla sa líne freisin , ach bíonn siolla sa bhreis i bhfocal deireanach b ar <b>a</b> , agus in d ar c .</em>
-  * [ADV]() 1: <em>Tá sé ráite ag tráchtairí áirithe , agus go minic acu siúd ar mhian leo caitheamh anuas ar Chonradh na Gaeilge agus díspeagadh a dhéanamh ar ghluaiseacht an náisiúnachais chultúrtha i gcoitinne in Éirinn , gur gluaiseacht neo-thraidisiúnta thar <b>a</b> bheith coimeádach amach is amach a bhí ann .</em>
-  * [ADP]() 1: <em>' Anonn leis de chéim mhall go dtí an bord gur thosaigh <b>a</b> chaint , agus an uile fhocal uaidh ag fuaimniú go glé ar an aer .</em>
   * [NOUN]() 1: <em>Lena linn sin tá líon na ndaoine dífhostaithe ag dul i méid i rith an ama ( cionn is nach bhfuil sé de bhéasa ag daoine <b>a</b> thuilleadh dul ar an imirce mar a rinne a muintir rompu , a shílfeá ó bheith ag éisteacht le daoine áirithe ) .</em>
+  * [X]() 1: <em>Sa Deibhí bíonn seacht siolla sa líne freisin , ach bíonn siolla sa bhreis i bhfocal deireanach b ar <b>a</b> , agus in d ar c .</em>
+  * [ADP]() 1: <em>' Anonn leis de chéim mhall go dtí an bord gur thosaigh <b>a</b> chaint , agus an uile fhocal uaidh ag fuaimniú go glé ar an aer .</em>
+  * [ADV]() 1: <em>Tá sé ráite ag tráchtairí áirithe , agus go minic acu siúd ar mhian leo caitheamh anuas ar Chonradh na Gaeilge agus díspeagadh a dhéanamh ar ghluaiseacht an náisiúnachais chultúrtha i gcoitinne in Éirinn , gur gluaiseacht neo-thraidisiúnta thar <b>a</b> bheith coimeádach amach is amach a bhí ann .</em>
 * <em>seo</em>
   * [DET]() 68: <em>Ach níor mhair an cumann beag carthanach <b>seo</b> ach seal .</em>
   * [PRON]() 14: <em>Post ilghnéitheach é <b>seo</b> bunaithe san oifig den chuid is mó .</em>
@@ -51,8 +51,8 @@ The 10 most frequent ambiguous types:  <em>an</em> ([DET]() 600, [AUX]() 2, [PAR
   * [DET]() 2: <em>' Maróidh tú <b>uilig</b> mé , ' ar sé .</em>
   * [ADJ]() 1: <em>I dteannta an eolais seo <b>uilig</b> , tá nótaí praiticiúla ann do thurasóirí agus bhunadh na háite araon .</em>
 * <em>a'</em>
-  * [ADP]() 1: <em>Bhfuil cop-on ar bith <b>a'</b> t ?</em>
   * [DET]() 1: <em>Lá de 'n tsaoghal ní cuirfí suim cnaipe gan chos sa sracadh céadna , ach anois , ba lugha ná frigh í máthair <b>a'</b> droch-adhbhair .</em>
+  * [ADP]() 1: <em>Bhfuil cop-on ar bith <b>a'</b> t ?</em>
 
 ## Morphology
 

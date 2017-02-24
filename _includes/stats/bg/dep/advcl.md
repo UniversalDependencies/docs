@@ -31,6 +31,25 @@ The following 25 pairs of parts of speech are connected with `advcl`: [bg-pos/VE
 
 
 ~~~ conllu
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 1 advcl	color:blue
+1	Изглежда	изглежда	VERB	Vniif-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	advcl	_	SpaceAfter=No
+2	,	,	PUNCT	punct	_	1	punct	_	_
+3	любопитството	любопитство	NOUN	Ncnsd	Definite=Def|Gender=Neut|Number=Sing	6	nsubj	_	_
+4	й	неин	PRON	Psot--3--f	Person=3|Poss=Yes|PronType=Prs	3	det	_	_
+5	бе	съм	AUX	Vxitf-t3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	6	cop	_	_
+6	по-силно	силен	ADJ	Ansi	Definite=Ind|Degree=Cmp|Gender=Neut|Number=Sing	0	root	_	_
+7	от	от	ADP	R	_	8	case	_	_
+8	всичко	всеки	PRON	Pce-os-n	Case=Nom|Gender=Neut|Number=Sing|PronType=Tot	6	obl	_	SpaceAfter=No
+9	.	.	PUNCT	punct	_	6	punct	_	_
+
+~~~
+
+
+~~~ conllu
 # visual-style 9	bgColor:blue
 # visual-style 9	fgColor:white
 # visual-style 5	bgColor:blue
@@ -47,25 +66,6 @@ The following 25 pairs of parts of speech are connected with `advcl`: [bg-pos/VE
 9	забави	забавя-(се)	VERB	Vpptf-o3s	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	5	advcl	_	_
 10	доста	доста	ADV	Dq	Degree=Pos	9	advmod	_	SpaceAfter=No
 11	.	.	PUNCT	punct	_	5	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 1 advcl	color:blue
-1	Изглежда	изглежда	VERB	Vniif-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	advcl	_	SpaceAfter=No
-2	,	,	PUNCT	punct	_	1	punct	_	_
-3	любопитството	любопитство	NOUN	Ncnsd	Definite=Def|Gender=Neut|Number=Sing	6	nsubj	_	_
-4	й	неин	PRON	Psot--3--f	Person=3|Poss=Yes|PronType=Prs	3	det	_	_
-5	бе	съм	AUX	Vxitf-t3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	6	cop	_	_
-6	по-силно	силен	ADJ	Ansi	Definite=Ind|Degree=Cmp|Gender=Neut|Number=Sing	0	root	_	_
-7	от	от	ADP	R	_	8	case	_	_
-8	всичко	всеки	PRON	Pce-os-n	Case=Nom|Gender=Neut|Number=Sing|PronType=Tot	6	obl	_	SpaceAfter=No
-9	.	.	PUNCT	punct	_	6	punct	_	_
 
 ~~~
 

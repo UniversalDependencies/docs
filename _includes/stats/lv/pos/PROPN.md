@@ -11,7 +11,7 @@ The 10 most frequent `PROPN` lemmas: <em>latvija, Sofija, Eiropa, rīga, Andris,
 
 The 10 most frequent `PROPN` types:  <em>Latvijas, Sofija, Eiropas, Latvijā, SIA, Andris, ZAAO, LETA, Rīgas, Jelgavas</em>
 
-The 10 most frequent ambiguous lemmas: <em>vilks</em> ([NOUN]() 2, [PROPN]() 2), <em>Sanī</em> ([PROPN]() 16, [NOUN]() 2), <em>Itālija</em> ([PROPN]() 5, [NOUN]() 1), <em>Nozare.lv</em> ([PROPN]() 5, [SYM]() 2), <em>Dievs</em> ([PROPN]() 3, [NOUN]() 1), <em>Savākšana</em> ([PROPN]() 3, [NOUN]() 1), <em>Firmas.lv</em> ([PROPN]() 2, [SYM]() 1), <em>direktīva</em> ([NOUN]() 47, [PROPN]() 2), <em>liepāja</em> ([PROPN]() 2, [NOUN]() 2), <em>Balodis</em> ([PROPN]() 1, [NOUN]() 1)
+The 10 most frequent ambiguous lemmas: <em>vilks</em> ([PROPN]() 2, [NOUN]() 2), <em>Sanī</em> ([PROPN]() 16, [NOUN]() 2), <em>Itālija</em> ([PROPN]() 5, [NOUN]() 1), <em>Nozare.lv</em> ([PROPN]() 5, [SYM]() 2), <em>Dievs</em> ([PROPN]() 3, [NOUN]() 1), <em>Savākšana</em> ([PROPN]() 3, [NOUN]() 1), <em>Firmas.lv</em> ([PROPN]() 2, [SYM]() 1), <em>direktīva</em> ([NOUN]() 47, [PROPN]() 2), <em>liepāja</em> ([NOUN]() 2, [PROPN]() 2), <em>Balodis</em> ([NOUN]() 1, [PROPN]() 1)
 
 The 10 most frequent ambiguous types:  <em>LETA</em> ([PROPN]() 20, [SYM]() 1), <em>Vilks</em> ([PROPN]() 17, [NOUN]() 1), <em>Sanī</em> ([PROPN]() 16, [NOUN]() 2), <em>Baltijas</em> ([PROPN]() 9, [NOUN]() 1), <em>ES</em> ([PROPN]() 9, [SYM]() 2), <em>Mēness</em> ([PROPN]() 4, [NOUN]() 1), <em>Itālijas</em> ([PROPN]() 3, [NOUN]() 1), <em>Nozare.lv</em> ([PROPN]() 3, [SYM]() 2), <em>Tomass</em> ([PROPN]() 3, [NOUN]() 2), <em>Firmas.lv</em> ([PROPN]() 2, [SYM]() 1)
 

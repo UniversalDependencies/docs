@@ -11,9 +11,9 @@ The 10 most frequent `DET` lemmas: तद्, इदम्, एतद्, यद
 
 The 10 most frequent `DET` types:  तत्, तया, तस्य, तेन, स, अयम्, इदम्, एनम्, तम्, ते
 
-The 10 most frequent ambiguous lemmas: तद् ([PRON]() 46, [DET]() 31, [ADV]() 9, [NOUN]() 1, [X]() 1), इदम् ([PRON]() 8, [DET]() 5), एतद् ([PRON]() 7, [DET]() 5), यद् ([PRON]() 14, [DET]() 4), क ([PRON]() 11, [DET]() 3), एन ([DET]() 2, [PRON]() 2), अदस् ([PRON]() 3, [DET]() 1), एव ([ADV]() 3, [DET]() 1), त्वद् ([PRON]() 10, [DET]() 1), सर्व ([ADJ]() 2, [DET]() 1, [NOUN]() 1)
+The 10 most frequent ambiguous lemmas: तद् ([PRON]() 46, [DET]() 31, [ADV]() 9, [NOUN]() 1, [X]() 1), इदम् ([PRON]() 8, [DET]() 5), एतद् ([PRON]() 7, [DET]() 5), यद् ([PRON]() 14, [DET]() 4), क ([PRON]() 11, [DET]() 3), एन ([PRON]() 2, [DET]() 2), अदस् ([PRON]() 3, [DET]() 1), एव ([ADV]() 3, [DET]() 1), त्वद् ([PRON]() 10, [DET]() 1), सर्व ([ADJ]() 2, [NOUN]() 1, [DET]() 1)
 
-The 10 most frequent ambiguous types:  तत् ([DET]() 11, [PRON]() 8, [ADV]() 7), तया ([DET]() 3, [PRON]() 1), तस्य ([PRON]() 9, [DET]() 3), तेन ([DET]() 3, [PRON]() 1), स ([PRON]() 5, [DET]() 3, [NOUN]() 1), अयम् ([PRON]() 4, [DET]() 2), इदम् ([PRON]() 3, [DET]() 2, [NOUN]() 1), एनम् ([DET]() 2, [PRON]() 1), तम् ([PRON]() 2, [DET]() 2), ते ([PRON]() 2, [DET]() 2)
+The 10 most frequent ambiguous types:  तत् ([DET]() 11, [PRON]() 8, [ADV]() 7), तया ([DET]() 3, [PRON]() 1), तस्य ([PRON]() 9, [DET]() 3), तेन ([DET]() 3, [PRON]() 1), स ([PRON]() 5, [DET]() 3, [NOUN]() 1), अयम् ([PRON]() 4, [DET]() 2), इदम् ([PRON]() 3, [DET]() 2, [NOUN]() 1), एनम् ([DET]() 2, [PRON]() 1), तम् ([PRON]() 2, [DET]() 2), ते ([DET]() 2, [PRON]() 2)
 
 
 * तत्
@@ -47,8 +47,8 @@ The 10 most frequent ambiguous types:  तत् ([DET]() 11, [PRON]() 8, [ADV](
   * [PRON]() 2: ततः रथकारः <b>तम्</b> आह
   * [DET]() 2: अथ विष्णुशर्म <b>तम्</b> राजानम् उच्यते
 * ते
-  * [PRON]() 2: <b>ते</b> अपि तानि अधीत्य मास षट्केन यथा उक्तह् संवृत्ताḥ
   * [DET]() 2: एतस्मिन् अन्तरे <b>ते</b> वानराः यथा इच्छया क्रीडितुम् आरब्धम्
+  * [PRON]() 2: <b>ते</b> अपि तानि अधीत्य मास षट्केन यथा उक्तह् संवृत्ताḥ
 
 ## Morphology
 

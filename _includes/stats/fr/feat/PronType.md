@@ -146,7 +146,7 @@ The most frequent other feature values with which `ADV` and `PronType` co-occurr
 
 1 [fr-pos/ADJ]() tokens (0% of all `ADJ` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `ADJ` and `PronType` co-occurred: <tt><a href="Number.html">Number</a>=Sing</tt> (1; 100%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (1; 100%).
+The most frequent other feature values with which `ADJ` and `PronType` co-occurred: <tt><a href="Gender.html">Gender</a>=Masc</tt> (1; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (1; 100%).
 
 `ADJ` tokens may have the following values of `PronType`:
 
@@ -223,8 +223,8 @@ The most frequent other feature values with which `ADV` and `PronType` co-occurr
 
 The 10 most frequent relations where parent and child node agree in `PronType`:
 <tt>PRON --[<a href="../dep/nmod.html">nmod</a>]--> PRON</tt> (14; 78%),
-<tt>PRON --[<a href="../dep/dep.html">dep</a>]--> PRON</tt> (3; 75%),
 <tt>PRON --[<a href="../dep/conj.html">conj</a>]--> PRON</tt> (3; 100%),
+<tt>PRON --[<a href="../dep/dep.html">dep</a>]--> PRON</tt> (3; 75%),
 <tt>PRON --[<a href="../dep/fixed.html">fixed</a>]--> PRON</tt> (2; 67%),
 <tt>PRON --[<a href="../dep/acl:relcl.html">acl:relcl</a>]--> PRON</tt> (1; 100%).
 

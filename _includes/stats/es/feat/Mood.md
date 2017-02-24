@@ -79,8 +79,8 @@ The 10 most frequent relations where parent and child node agree in `Mood`:
 <tt>VERB --[<a href="../dep/parataxis.html">parataxis</a>]--> VERB</tt> (373; 53%),
 <tt>VERB --[<a href="../dep/acl:relcl.html">acl:relcl</a>]--> VERB</tt> (16; 52%),
 <tt>VERB --[<a href="../dep/cc.html">cc</a>]--> VERB</tt> (15; 65%),
-<tt>AUX --[<a href="../dep/conj.html">conj</a>]--> AUX</tt> (2; 100%),
 <tt>VERB --[<a href="../dep/advcl.html">advcl</a>]--> AUX</tt> (2; 67%),
+<tt>AUX --[<a href="../dep/conj.html">conj</a>]--> AUX</tt> (2; 100%),
 <tt>AUX --[<a href="../dep/advcl.html">advcl</a>]--> VERB</tt> (2; 67%),
 <tt>VERB --[<a href="../dep/mark.html">mark</a>]--> AUX</tt> (1; 100%),
 <tt>VERB --[<a href="../dep/dep.html">dep</a>]--> AUX</tt> (1; 100%).

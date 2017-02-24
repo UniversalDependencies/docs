@@ -25,9 +25,9 @@ The most frequent other feature values with which `NOUN` and `Gender` co-occurre
 * `EMPTY` (10): <em>kino, Sanī, foto, Cukini, alibi, auto</em>
 
 <table>
-  <tr><th>Paradigm <i>būvkompānija</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Number.html">Number</a>=Sing</tt></td><td></td><td><em>būvkompāniju</em></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Number.html">Number</a>=Plur</tt></td><td><em>Būvkompāniju</em></td><td><em>būvkompāniju</em></td></tr>
+  <tr><th>Paradigm <i>slepkava</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>
+  <tr><td><tt><a href="Number.html">Number</a>=Sing</tt></td><td><em>slepkava</em></td><td></td></tr>
+  <tr><td><tt><a href="Number.html">Number</a>=Plur</tt></td><td></td><td><em>slepkavas</em></td></tr>
 </table>
 
 `Gender` seems to be **lexical feature** of `NOUN`. 100% lemmas (2769) occur only with one value of `Gender`.
@@ -45,14 +45,11 @@ The most frequent other feature values with which `ADJ` and `Gender` co-occurred
 * `EMPTY` (325): <em>2012., 1., 2., 3., 2010., 2011., 2007., 4., 2013., 7.</em>
 
 <table>
-  <tr><th>Paradigm <i>balta</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Number.html">Number</a>=Sing</tt></td><td></td><td><em>baltu</em></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Number.html">Number</a>=Plur</tt></td><td></td><td><em>baltās, baltas</em></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Dat|<a href="Number.html">Number</a>=Plur</tt></td><td></td><td><em>baltām</em></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Number.html">Number</a>=Plur</tt></td><td></td><td><em>balto</em></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Loc|<a href="Number.html">Number</a>=Sing</tt></td><td><em>baltajā</em></td><td></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Number.html">Number</a>=Sing</tt></td><td></td><td><em>balta</em></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Number.html">Number</a>=Plur</tt></td><td></td><td><em>baltas</em></td></tr>
+  <tr><th>Paradigm <i>skaists</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Degree.html">Degree</a>=Pos|<a href="Number.html">Number</a>=Plur</tt></td><td><em>skaistus</em></td><td></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Degree.html">Degree</a>=Pos|<a href="Number.html">Number</a>=Sing</tt></td><td><em>skaists</em></td><td><em>skaista</em></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Degree.html">Degree</a>=Pos|<a href="Number.html">Number</a>=Plur</tt></td><td><em>skaisti</em></td><td></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Degree.html">Degree</a>=Cmp|<a href="Number.html">Number</a>=Sing</tt></td><td><em>skaistāks</em></td><td></td></tr>
 </table>
 
 `Gender` seems to be **lexical feature** of `ADJ`. 99% lemmas (787) occur only with one value of `Gender`.
@@ -94,9 +91,9 @@ The most frequent other feature values with which `PROPN` and `Gender` co-occurr
 * `EMPTY` (336): <em>SIA, ZAAO, Pillar, IKP, UNESCO, DUS, LETA, ST, EEK, ES</em>
 
 <table>
-  <tr><th>Paradigm <i>Sinēve</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Acc</tt></td><td><em>Sinēvi</em></td><td></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Nom</tt></td><td></td><td><em>Sinēve</em></td></tr>
+  <tr><th>Paradigm <i>Seisums</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Gen</tt></td><td><em>Seisuma</em></td><td></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Nom</tt></td><td></td><td><em>Seisuma</em></td></tr>
 </table>
 
 `Gender` seems to be **lexical feature** of `PROPN`. 99% lemmas (508) occur only with one value of `Gender`.
@@ -105,7 +102,7 @@ The most frequent other feature values with which `PROPN` and `Gender` co-occurr
 
 1400 [lv-pos/VERB]() tokens (19% of all `VERB` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `VERB` and `Gender` co-occurred: <tt><a href="Person.html">Person</a>=EMPTY</tt> (1400; 100%), <tt><a href="Polarity.html">Polarity</a>=EMPTY</tt> (1400; 100%), <tt><a href="Evident.html">Evident</a>=EMPTY</tt> (1400; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (1400; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (1381; 99%), <tt><a href="Degree.html">Degree</a>=Pos</tt> (1380; 99%), <tt><a href="Reflex.html">Reflex</a>=EMPTY</tt> (1292; 92%), <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (1176; 84%), <tt><a href="Aspect.html">Aspect</a>=Perf</tt> (1175; 84%), <tt><a href="Tense.html">Tense</a>=Past</tt> (1175; 84%).
+The most frequent other feature values with which `VERB` and `Gender` co-occurred: <tt><a href="Person.html">Person</a>=EMPTY</tt> (1400; 100%), <tt><a href="Evident.html">Evident</a>=EMPTY</tt> (1400; 100%), <tt><a href="Polarity.html">Polarity</a>=EMPTY</tt> (1400; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (1400; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (1381; 99%), <tt><a href="Degree.html">Degree</a>=Pos</tt> (1380; 99%), <tt><a href="Reflex.html">Reflex</a>=EMPTY</tt> (1292; 92%), <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (1176; 84%), <tt><a href="Aspect.html">Aspect</a>=Perf</tt> (1175; 84%), <tt><a href="Tense.html">Tense</a>=Past</tt> (1175; 84%).
 
 `VERB` tokens may have the following values of `Gender`:
 

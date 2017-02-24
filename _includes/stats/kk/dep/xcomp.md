@@ -48,27 +48,6 @@ The following 3 pairs of parts of speech are connected with `xcomp`: [kk-pos/VER
 
 
 ~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 1 xcomp	color:blue
-1	Шешуі	шеш	VERB	v	Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3|VerbForm=Ger	3	xcomp	_	_
-2	деп	деп	X	x	_	3	dep	_	_
-3	атауға	ата	VERB	v	Case=Dat|VerbForm=Ger	4	ccomp	_	_
-4	болатын	бол	VERB	v	Aspect=Imp|VerbForm=Part	10	advcl	_	_
-5	болса	бол	AUX	v	Mood=Cnd|Number=Sing|Person=3|VerbForm=Conv	4	cop	_	SpaceAfter=No
-6	,	,	PUNCT	cm	_	5	punct	_	_
-7	адамның	адам	NOUN	n	Case=Gen	8	nmod:poss	_	_
-8	шешуі	шеш	VERB	v	Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3|VerbForm=Ger	10	nsubj	_	_
-9	жалғыз	жалғыз	ADJ	adj	_	10	amod	_	_
-10	өлім	өлім	NOUN	n	Case=Nom	0	root	_	SpaceAfter=No
-11	.	.	PUNCT	sent	_	10	punct	_	_
-
-~~~
-
-
-~~~ conllu
 # visual-style 16	bgColor:blue
 # visual-style 16	fgColor:white
 # visual-style 17	bgColor:blue
@@ -93,6 +72,27 @@ The following 3 pairs of parts of speech are connected with `xcomp`: [kk-pos/VER
 17	қылсын	қыл	VERB	v	Mood=Opt|Number=Sing|Person=3|VerbForm=Fin	10	parataxis	_	_
 18	Шолпан	Шолпан	PROPN	np	Case=Nom|Gender=Fem	17	nsubj	_	SpaceAfter=No
 19	!	!	PUNCT	sent	_	17	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 1 xcomp	color:blue
+1	Шешуі	шеш	VERB	v	Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3|VerbForm=Ger	3	xcomp	_	_
+2	деп	деп	X	x	_	3	dep	_	_
+3	атауға	ата	VERB	v	Case=Dat|VerbForm=Ger	4	ccomp	_	_
+4	болатын	бол	VERB	v	Aspect=Imp|VerbForm=Part	10	advcl	_	_
+5	болса	бол	AUX	v	Mood=Cnd|Number=Sing|Person=3|VerbForm=Conv	4	cop	_	SpaceAfter=No
+6	,	,	PUNCT	cm	_	5	punct	_	_
+7	адамның	адам	NOUN	n	Case=Gen	8	nmod:poss	_	_
+8	шешуі	шеш	VERB	v	Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3|VerbForm=Ger	10	nsubj	_	_
+9	жалғыз	жалғыз	ADJ	adj	_	10	amod	_	_
+10	өлім	өлім	NOUN	n	Case=Nom	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	sent	_	10	punct	_	_
 
 ~~~
 

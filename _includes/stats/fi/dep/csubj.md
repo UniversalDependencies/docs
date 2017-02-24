@@ -55,40 +55,24 @@ The following 6 pairs of parts of speech are connected with `csubj`: [fi-pos/VER
 
 
 ~~~ conllu
-# visual-style 18	bgColor:blue
-# visual-style 18	fgColor:white
-# visual-style 16	bgColor:blue
-# visual-style 16	fgColor:white
-# visual-style 16 18 csubj	color:blue
-1	Tiedän	tietää	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-2	myös	myös	ADV	Adv	_	6	advmod	_	SpaceAfter=No
-3	,	,	PUNCT	Punct	_	6	punct	_	_
-4	että	että	SCONJ	C	_	6	mark	_	_
-5	on	olla	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	aux	_	_
-6	olemassa	olla	VERB	V	Case=Ine|InfForm=3|Number=Sing|VerbForm=Inf|Voice=Act	1	ccomp	_	_
-7	ihan	ihan	ADV	Adv	_	8	advmod	_	_
-8	valmiitakin	valmis	ADJ	A	Case=Par|Clitic=Kin|Degree=Pos|Number=Plur	11	amod	_	_
-9	Arduinoon	Arduino	PROPN	N	Case=Ill|Number=Sing	10	obl	_	_
-10	pohjautuvia	pohjautua	VERB	V	Case=Par|Degree=Pos|Number=Plur|PartForm=Pres|VerbForm=Part|Voice=Act	11	acl	_	_
-11	time-lapse	time-lapse	X	Foreign	Foreign=Yes	6	nsubj	_	_
-12	dollyja	dolly	X	Foreign	Foreign=Yes	11	flat:foreign	_	_
-13	ajastimilla	ajastin	NOUN	N	Case=Ade|Number=Plur	11	nmod	_	SpaceAfter=No
-14	,	,	PUNCT	Punct	_	16	punct	_	_
-15	mutta	mutta	CCONJ	C	_	16	cc	_	_
-16	tarkoituksena	tarkoitus	NOUN	N	Case=Ess|Number=Sing	1	conj	_	_
-17	on	olla	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	16	cop	_	_
-18	tehdä	tehdä	VERB	V	InfForm=1|Number=Sing|VerbForm=Inf|Voice=Act	16	csubj	_	_
-19	kaikki	kaikki	PRON	Pron	Case=Nom|Number=Sing|PronType=Ind	18	obj	_	_
-20	alusta	alku	NOUN	N	Case=Ela|Number=Sing	18	obl	_	_
-21	lähtien	lähtien	ADP	Adp	AdpType=Post	20	case	_	_
-22	itse	itse	ADV	Adv	_	18	advmod	_	SpaceAfter=No
-23	,	,	PUNCT	Punct	_	27	punct	_	_
-24	joten	joten	ADV	Adv	_	27	advmod	_	_
-25	ne	se	PRON	Pron	Case=Nom|Number=Plur|PronType=Dem	27	nsubj	_	_
-26	eivät	ei	AUX	V	Number=Plur|Person=3|Polarity=Neg|VerbForm=Fin|Voice=Act	27	aux	_	_
-27	tule	tulla	VERB	V	Connegative=Yes|Mood=Ind|Tense=Pres|VerbForm=Fin	16	acl:relcl	_	_
-28	kyseeseen	kyse	NOUN	N	Case=Ill|Number=Sing	27	obl	_	SpaceAfter=No
-29	.	.	PUNCT	Punct	_	1	punct	_	_
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 8 csubj	color:blue
+1	Lisäksi	lisäksi	ADV	Adv	_	4	advmod	_	_
+2	julkisuuteen	julkisuus	NOUN	N	Case=Ill|Number=Sing	4	obl	_	_
+3	on	olla	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	aux	_	_
+4	tullut	tulla	VERB	V	Case=Nom|Degree=Pos|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Act	0	root	_	_
+5	ilmi	ilmi	ADV	Adv	_	4	compound:prt	_	SpaceAfter=No
+6	,	,	PUNCT	Punct	_	8	punct	_	_
+7	että	että	SCONJ	C	_	8	mark	_	_
+8	Vasemmistoliitolla	Vasemmistoliitto	PROPN	N	Case=Ade|Number=Sing	4	csubj	_	_
+9	ja	ja	CCONJ	C	_	10	cc	_	_
+10	Tradekalla	Tradeka	PROPN	N	Case=Ade|Number=Sing	8	conj	4:csubj	_
+11	on	olla	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	cop:own	_	_
+12	markkinointiyhteistyösopimus	markkinointi#yhteis#työ#sopimus	NOUN	N	Case=Nom|Number=Sing	8	nsubj:cop	10:nsubj:cop	SpaceAfter=No
+13	.	.	PUNCT	Punct	_	4	punct	_	_
 
 ~~~
 

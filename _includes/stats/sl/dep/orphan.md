@@ -15,28 +15,6 @@ The following 19 pairs of parts of speech are connected with `orphan`: [sl-pos/A
 
 
 ~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 3 orphan	color:blue
-1	lahko	lahko	ADV	Rgp	Degree=Pos	0	root	_	word=loh|msd=Rsn
-2	pa	pa	CCONJ	Cc	_	1	advmod	_	word=pa|msd=Vp
-3	da	da	SCONJ	Cs	_	4	orphan	_	word=da|msd=Vd
-4	nikoli	nikoli	ADV	Rgp	Degree=Pos	1	csubj	_	word=nkol|msd=Rsn
-5	no	no	PART	Q	_	1	discourse	_	word=no|msd=L
-6	ampak	ampak	CCONJ	Cc	_	8	cc	_	word=ampak|msd=Vp
-7	bolj	bolj	ADV	Rgc	Degree=Cmp	8	reparandum	_	word=bolj|msd=Rsr
-8	bolj	bolj	ADV	Rgc	Degree=Cmp	4	orphan	_	word=bolj|msd=Rsr
-9	saj	saj	CCONJ	Cc	_	11	cc	_	word=sej|msd=Vp
-10	si	biti	AUX	Va-r2s-n	Mood=Ind|Number=Sing|Person=2|Polarity=Pos|Tense=Pres|VerbForm=Fin	11	aux	_	word=s|msd=Gp-sde-n
-11	videl	videti	VERB	Vmbp-sm	Gender=Masc|Number=Sing|VerbForm=Part	1	parataxis:restart	_	word=vidu|msd=Ggvd-em
-12	[gap]	[gap]	X	X	_	1	punct	_	word=[gap]|msd=N
-
-~~~
-
-
-~~~ conllu
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 2	bgColor:blue
@@ -86,6 +64,28 @@ The following 19 pairs of parts of speech are connected with `orphan`: [sl-pos/A
 13	med	med	ADP	Sa	Case=Acc	14	case	_	word=med|msd=Dt
 14	nezasebne	nezaseben	ADJ	Agpmpa	Case=Acc|Degree=Pos|Gender=Masc|Number=Plur	12	obl	_	word=nezasebne|msd=Ppnmmt
 15	super	super	ADV	Rgp	Degree=Pos	12	discourse	_	word=super|msd=Rsn
+
+~~~
+
+
+~~~ conllu
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 3 orphan	color:blue
+1	lahko	lahko	ADV	Rgp	Degree=Pos	0	root	_	word=loh|msd=Rsn
+2	pa	pa	CCONJ	Cc	_	1	advmod	_	word=pa|msd=Vp
+3	da	da	SCONJ	Cs	_	4	orphan	_	word=da|msd=Vd
+4	nikoli	nikoli	ADV	Rgp	Degree=Pos	1	csubj	_	word=nkol|msd=Rsn
+5	no	no	PART	Q	_	1	discourse	_	word=no|msd=L
+6	ampak	ampak	CCONJ	Cc	_	8	cc	_	word=ampak|msd=Vp
+7	bolj	bolj	ADV	Rgc	Degree=Cmp	8	reparandum	_	word=bolj|msd=Rsr
+8	bolj	bolj	ADV	Rgc	Degree=Cmp	4	orphan	_	word=bolj|msd=Rsr
+9	saj	saj	CCONJ	Cc	_	11	cc	_	word=sej|msd=Vp
+10	si	biti	AUX	Va-r2s-n	Mood=Ind|Number=Sing|Person=2|Polarity=Pos|Tense=Pres|VerbForm=Fin	11	aux	_	word=s|msd=Gp-sde-n
+11	videl	videti	VERB	Vmbp-sm	Gender=Masc|Number=Sing|VerbForm=Part	1	parataxis:restart	_	word=vidu|msd=Ggvd-em
+12	[gap]	[gap]	X	X	_	1	punct	_	word=[gap]|msd=N
 
 ~~~
 

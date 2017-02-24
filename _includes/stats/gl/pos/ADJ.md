@@ -5,7 +5,7 @@
 ## Treebank Statistics (UD_Galician)
 
 There are 1858 `ADJ` lemmas (19%), 2810 `ADJ` types (19%) and 8945 `ADJ` tokens (8%).
-Out of 15 observed tags, the rank of `ADJ` is: 2 in number of lemmas, 3 in number of types and 6 in number of tokens.
+Out of 16 observed tags, the rank of `ADJ` is: 2 in number of lemmas, 3 in number of types and 6 in number of tokens.
 
 The 10 most frequent `ADJ` lemmas: <em>maior, novo, galego, social, público, económico, xeral, seguinte, primeiro, importante</em>
 
@@ -50,7 +50,7 @@ The 10 most frequent ambiguous types:  <em>medio</em> ([ADJ]() 46, [NOUN]() 40),
 
 ## Morphology
 
-The form / lemma ratio of `ADJ` is 1.512379 (the average of all parts of speech is 1.505536).
+The form / lemma ratio of `ADJ` is 1.512379 (the average of all parts of speech is 1.508250).
 
 The 1st highest number of forms (5) was observed with the lemma “claro”: <em>clara, claras, claro, claros, clarísimas</em>.
 
@@ -58,28 +58,34 @@ The 2nd highest number of forms (4) was observed with the lemma “adecuado”: 
 
 The 3rd highest number of forms (4) was observed with the lemma “alimentario”: <em>alimentaria, alimentarias, alimentario, alimentarios</em>.
 
-`ADJ` does not occur with any features.
+`ADJ` occurs with 1 features: [gl-feat/Foreign]() (5; 0% instances)
+
+`ADJ` occurs with 1 feature-value pairs: `Foreign=Yes`
+
+`ADJ` occurs with 2 feature combinations.
+The most frequent feature combination is `_` (8940 tokens).
+Examples: <em>maior, xeral, social, seguinte, importante, medio, ambiental, galego, anterior, diferentes</em>
 
 
 ## Relations
 
-`ADJ` nodes are attached to their parents using 11 different relations: [gl-dep/amod]() (7542; 84% instances), [gl-dep/cop]() (643; 7% instances), [gl-dep/dep]() (402; 4% instances), [gl-dep/nmod]() (234; 3% instances), [gl-dep/nsubj]() (43; 0% instances), [gl-dep/det]() (28; 0% instances), [gl-dep/ccomp]() (23; 0% instances), [gl-dep/dobj]() (20; 0% instances), [gl-dep/case]() (7; 0% instances), [gl-dep/foreign]() (2; 0% instances), [gl-dep/root]() (1; 0% instances)
+`ADJ` nodes are attached to their parents using 13 different relations: [gl-dep/amod]() (7542; 84% instances), [gl-dep/dep]() (409; 5% instances), [gl-dep/ccomp]() (209; 2% instances), [gl-dep/xcomp]() (206; 2% instances), [gl-dep/root]() (185; 2% instances), [gl-dep/nmod]() (161; 2% instances), [gl-dep/obl]() (77; 1% instances), [gl-dep/obj]() (60; 1% instances), [gl-dep/nsubj]() (44; 0% instances), [gl-dep/det]() (28; 0% instances), [gl-dep/case]() (19; 0% instances), [gl-dep/flat]() (4; 0% instances), [gl-dep/aux]() (1; 0% instances)
 
-Parents of `ADJ` nodes belong to 14 different parts of speech: [NOUN]() (7237; 81% instances), [VERB]() (768; 9% instances), [ADJ]() (450; 5% instances), [ADP]() (337; 4% instances), [PROPN]() (67; 1% instances), [PRON]() (26; 0% instances), [NUM]() (20; 0% instances), [DET]() (18; 0% instances), [ADV]() (7; 0% instances), [SCONJ]() (7; 0% instances), [PART]() (4; 0% instances), [CONJ]() (2; 0% instances), [PUNCT]() (1; 0% instances), [ROOT]() (1; 0% instances)
+Parents of `ADJ` nodes belong to 13 different parts of speech: [NOUN]() (7502; 84% instances), [VERB]() (532; 6% instances), [ADJ]() (504; 6% instances), [ROOT]() (185; 2% instances), [PROPN]() (68; 1% instances), [ADP]() (42; 0% instances), [PRON]() (37; 0% instances), [NUM]() (24; 0% instances), [ADV]() (19; 0% instances), [DET]() (19; 0% instances), [SCONJ]() (7; 0% instances), [PART]() (4; 0% instances), [CCONJ]() (2; 0% instances)
 
-7312 (82%) `ADJ` nodes are leaves.
+7010 (78%) `ADJ` nodes are leaves.
 
-894 (10%) `ADJ` nodes have one child.
+702 (8%) `ADJ` nodes have one child.
 
-530 (6%) `ADJ` nodes have two children.
+551 (6%) `ADJ` nodes have two children.
 
-209 (2%) `ADJ` nodes have three or more children.
+682 (8%) `ADJ` nodes have three or more children.
 
-The highest child degree of a `ADJ` node is 12.
+The highest child degree of a `ADJ` node is 13.
 
-Children of `ADJ` nodes are attached using 15 different relations: [gl-dep/det]() (772; 28% instances), [gl-dep/case]() (588; 22% instances), [gl-dep/cc]() (410; 15% instances), [gl-dep/dep]() (380; 14% instances), [gl-dep/punct]() (289; 11% instances), [gl-dep/ccomp]() (77; 3% instances), [gl-dep/amod]() (76; 3% instances), [gl-dep/neg]() (66; 2% instances), [gl-dep/advmod]() (38; 1% instances), [gl-dep/nmod]() (20; 1% instances), [gl-dep/mark]() (12; 0% instances), [gl-dep/foreign]() (3; 0% instances), [gl-dep/aux]() (1; 0% instances), [gl-dep/cop]() (1; 0% instances), [gl-dep/nsubj]() (1; 0% instances)
+Children of `ADJ` nodes are attached using 18 different relations: [gl-dep/det]() (798; 16% instances), [gl-dep/punct]() (666; 13% instances), [gl-dep/obl]() (659; 13% instances), [gl-dep/cc]() (491; 10% instances), [gl-dep/cop]() (433; 9% instances), [gl-dep/case]() (423; 8% instances), [gl-dep/dep]() (405; 8% instances), [gl-dep/nsubj]() (391; 8% instances), [gl-dep/ccomp]() (276; 6% instances), [gl-dep/advmod]() (170; 3% instances), [gl-dep/mark]() (125; 2% instances), [gl-dep/amod]() (83; 2% instances), [gl-dep/aux]() (42; 1% instances), [gl-dep/xcomp]() (31; 1% instances), [gl-dep/flat]() (10; 0% instances), [gl-dep/iobj]() (3; 0% instances), [gl-dep/nmod]() (2; 0% instances), [gl-dep/obj]() (1; 0% instances)
 
-Children of `ADJ` nodes belong to 15 different parts of speech: [ADP]() (597; 22% instances), [ADV]() (475; 17% instances), [ADJ]() (450; 16% instances), [CONJ]() (396; 14% instances), [DET]() (339; 12% instances), [PUNCT]() (286; 10% instances), [PART]() (67; 2% instances), [VERB]() (54; 2% instances), [NOUN]() (21; 1% instances), [PRON]() (20; 1% instances), [SCONJ]() (13; 0% instances), [NUM]() (6; 0% instances), [SYM]() (6; 0% instances), [PROPN]() (3; 0% instances), [INTJ]() (1; 0% instances)
+Children of `ADJ` nodes belong to 16 different parts of speech: [NOUN]() (833; 17% instances), [PUNCT]() (661; 13% instances), [ADV]() (548; 11% instances), [ADJ]() (504; 10% instances), [CCONJ]() (472; 9% instances), [AUX]() (433; 9% instances), [VERB]() (384; 8% instances), [ADP]() (374; 7% instances), [DET]() (372; 7% instances), [SCONJ]() (129; 3% instances), [PRON]() (111; 2% instances), [PART]() (108; 2% instances), [PROPN]() (42; 1% instances), [NUM]() (29; 1% instances), [SYM]() (8; 0% instances), [INTJ]() (1; 0% instances)
 
 
 
@@ -96,7 +102,7 @@ The 10 most frequent `ADJ` types:  <em>galega, novo, mellor, actual, política, 
 
 The 10 most frequent ambiguous lemmas: <em>galego</em> ([ADJ]() 39, [NOUN]() 17, [PROPN]() 1), <em>político</em> ([ADJ]() 18, [NOUN]() 3), <em>mellor</em> ([ADJ]() 15, [ADV]() 4), <em>propio</em> ([ADJ]() 11, [DET]() 6), <em>público</em> ([ADJ]() 9, [NOUN]() 5), <em>nacionalista</em> ([ADJ]() 8, [NOUN]() 7), <em>claro</em> ([ADJ]() 7, [ADV]() 2), <em>europeo</em> ([ADJ]() 7, [NOUN]() 1), <em>socialista</em> ([NOUN]() 12, [ADJ]() 7), <em>común</em> ([ADJ]() 6, [NOUN]() 1)
 
-The 10 most frequent ambiguous types:  <em>galega</em> ([ADJ]() 23, [PROPN]() 1), <em>mellor</em> ([ADJ]() 10, [ADV]() 4), <em>política</em> ([ADJ]() 9, [NOUN]() 9), <em>galego</em> ([NOUN]() 8, [ADJ]() 5), <em>claro</em> ([ADJ]() 6, [ADV]() 2), <em>común</em> ([ADJ]() 5, [NOUN]() 1), <em>galegos</em> ([NOUN]() 7, [ADJ]() 4), <em>certo</em> ([ADJ]() 4, [DET]() 2), <em>libre</em> ([ADJ]() 4, [ADV]() 2), <em>longo</em> ([ADJ]() 4, [NOUN]() 1)
+The 10 most frequent ambiguous types:  <em>galega</em> ([ADJ]() 23, [PROPN]() 1), <em>mellor</em> ([ADJ]() 10, [ADV]() 4), <em>política</em> ([NOUN]() 9, [ADJ]() 9), <em>galego</em> ([NOUN]() 8, [ADJ]() 5), <em>claro</em> ([ADJ]() 6, [ADV]() 2), <em>común</em> ([ADJ]() 5, [NOUN]() 1), <em>galegos</em> ([NOUN]() 7, [ADJ]() 4), <em>certo</em> ([ADJ]() 4, [DET]() 2), <em>libre</em> ([ADJ]() 4, [ADV]() 2), <em>longo</em> ([ADJ]() 4, [NOUN]() 1)
 
 
 * <em>galega</em>
@@ -106,8 +112,8 @@ The 10 most frequent ambiguous types:  <em>galega</em> ([ADJ]() 23, [PROPN]() 1)
   * [ADJ]() 10: <em>Dende entón considero o o <b>mellor</b> profesor que tiven .</em>
   * [ADV]() 4: <em>Concretamente en esta resulta dificil sinalar as máis salientábeis , as <b>mellor</b> configuradas .</em>
 * <em>política</em>
-  * [ADJ]() 9: <em>A larvada guerra <b>política</b> que se mantén entre o mandatario branquiazul e o Concello facía inviábel , como en moitas outras cousas , a súa materialización .</em>
   * [NOUN]() 9: <em>Quen vai marcar agora a <b>política</b> en o concello ?</em>
+  * [ADJ]() 9: <em>A larvada guerra <b>política</b> que se mantén entre o mandatario branquiazul e o Concello facía inviábel , como en moitas outras cousas , a súa materialización .</em>
 * <em>galego</em>
   * [NOUN]() 8: <em>Para Arias non hai lugar a a polémica sobre se deben traducir obras como o Quixote a o <b>galego</b> .</em>
   * [ADJ]() 5: <em>Os topónimos terán , como única forma oficial a galega e corresponderá lle a o Goberno <b>galego</b> determinar os nomes de lugar .</em>

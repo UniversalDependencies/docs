@@ -16,7 +16,7 @@ The feature is used with 2 part-of-speech tags: [et-pos/VERB]() (273; 1% instanc
 
 273 [et-pos/VERB]() tokens (5% of all `VERB` tokens) have a non-empty value of `Connegative`.
 
-The most frequent other feature values with which `VERB` and `Connegative` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (273; 100%), <tt><a href="Voice.html">Voice</a>=Act</tt> (265; 97%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (261; 96%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (261; 96%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (252; 92%), <tt><a href="Tense.html">Tense</a>=Past</tt> (141; 52%).
+The most frequent other feature values with which `VERB` and `Connegative` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (273; 100%), <tt><a href="Voice.html">Voice</a>=Act</tt> (265; 97%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (261; 96%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (261; 96%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (252; 92%), <tt><a href="Tense.html">Tense</a>=Past</tt> (141; 52%).
 
 `VERB` tokens may have the following values of `Connegative`:
 
@@ -28,7 +28,7 @@ The most frequent other feature values with which `VERB` and `Connegative` co-oc
 
 40 [et-pos/AUX]() tokens (3% of all `AUX` tokens) have a non-empty value of `Connegative`.
 
-The most frequent other feature values with which `AUX` and `Connegative` co-occurred: <tt><a href="Polarity.html">Polarity</a>=EMPTY</tt> (40; 100%), <tt><a href="Voice.html">Voice</a>=Act</tt> (40; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (40; 100%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (40; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (40; 100%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (36; 90%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (28; 70%).
+The most frequent other feature values with which `AUX` and `Connegative` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (40; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (40; 100%), <tt><a href="Voice.html">Voice</a>=Act</tt> (40; 100%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (40; 100%), <tt><a href="Polarity.html">Polarity</a>=EMPTY</tt> (40; 100%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (36; 90%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (28; 70%).
 
 `AUX` tokens may have the following values of `Connegative`:
 

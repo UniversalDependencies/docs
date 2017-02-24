@@ -13,7 +13,7 @@ The 10 most frequent `PROPN` types:  中國、 美國、 日本、 香港、 李
 
 The 10 most frequent ambiguous lemmas: 美 ([PROPN]() 61, [PART]() 1), 王 ([PROPN]() 55, [PART]() 19, [NOUN]() 5), 日 ([NOUN]() 348, [PROPN]() 50, [PART]() 6, [NUM]() 2), 英 ([PROPN]() 50, [NOUN]() 1), 張 ([PROPN]() 41, [NOUN]() 16), 中 ([ADP]() 344, [NOUN]() 44, [PROPN]() 40, [VERB]() 3, [PART]() 2), 林 ([PROPN]() 23, [PART]() 4, [NOUN]() 1), 港 ([PROPN]() 23, [PART]() 12), 周 ([PROPN]() 21, [NOUN]() 5, [PART]() 1), 清 ([PROPN]() 20, [NOUN]() 2, [PART]() 2)
 
-The 10 most frequent ambiguous types:  美 ([PROPN]() 61, [PART]() 1), 王 ([PROPN]() 55, [PART]() 19, [NOUN]() 5), 日 ([NOUN]() 348, [PROPN]() 50, [PART]() 6, [NUM]() 2), 英 ([PROPN]() 50, [NOUN]() 1), 張 ([PROPN]() 41, [NOUN]() 16), 中 ([ADP]() 344, [NOUN]() 44, [PROPN]() 40, [VERB]() 3, [PART]() 2), 林 ([PROPN]() 23, [PART]() 4, [NOUN]() 1), 港 ([PROPN]() 23, [PART]() 12), 周 ([PROPN]() 21, [NOUN]() 5, [PART]() 1), 清 ([PROPN]() 20, [PART]() 2, [NOUN]() 2)
+The 10 most frequent ambiguous types:  美 ([PROPN]() 61, [PART]() 1), 王 ([PROPN]() 55, [PART]() 19, [NOUN]() 5), 日 ([NOUN]() 348, [PROPN]() 50, [PART]() 6, [NUM]() 2), 英 ([PROPN]() 50, [NOUN]() 1), 張 ([PROPN]() 41, [NOUN]() 16), 中 ([ADP]() 344, [NOUN]() 44, [PROPN]() 40, [VERB]() 3, [PART]() 2), 林 ([PROPN]() 23, [PART]() 4, [NOUN]() 1), 港 ([PROPN]() 23, [PART]() 12), 周 ([PROPN]() 21, [NOUN]() 5, [PART]() 1), 清 ([PROPN]() 20, [NOUN]() 2, [PART]() 2)
 
 
 * 美
@@ -53,8 +53,8 @@ The 10 most frequent ambiguous types:  美 ([PROPN]() 61, [PART]() 1), 王 ([PRO
   * [PART]() 1: 上映 第四 周 為 日本 黃金 <b>周</b> 過後 的 第一 周 , 柯南 歷屆 劇場 版 票房 通常 從 這 時期 開始 增幅 放緩 , 但 M 17 卻 依然 成 為 周 票房 榜 冠軍 , 蟬聯 四 周 冠軍 .
 * 清
   * [PROPN]() 20: 元朝 末年 發展 到 巔峰 , 明 中葉 後 逐漸 被 新興 的 崑山 腔 所 替代 , 並 演化 為 明 <b>清</b> 的 主要 戲劇 ---- 傳奇 .
-  * [PART]() 2: 日本 麻將 中 , <b>清</b> 一 色 和 混 一 色 統稱 為 染手 .
   * [NOUN]() 2: 三 <b>清</b> 殿 、 純陽 殿 、 重陽 殿 的 壁畫 和 彩畫 都 很 精美 , 其中 三 <b>清</b> 殿 內 《 朝元 圖 》 壁畫 是 中國 現存 規模 最大 、 題材 最 豐富 的 元代 壁畫 .
+  * [PART]() 2: 日本 麻將 中 , <b>清</b> 一 色 和 混 一 色 統稱 為 染手 .
 
 ## Morphology
 

@@ -11,7 +11,7 @@ The 10 most frequent `INTJ` lemmas: <em>beno, alde, dzast, ea, kaixo, tira, a, a
 
 The 10 most frequent `INTJ` types:  <em>beno, alde, Kaixo, Tira, dzast, ea, A, Bof, Eskerrak, Jesus</em>
 
-The 10 most frequent ambiguous lemmas: <em>alde</em> ([NOUN]() 87, [ADP]() 58, [INTJ]() 4), <em>ea</em> ([X]() 7, [INTJ]() 2), <em>tira</em> ([INTJ]() 2, [NOUN]() 2), <em>a</em> ([NOUN]() 4, [INTJ]() 1)
+The 10 most frequent ambiguous lemmas: <em>alde</em> ([NOUN]() 87, [ADP]() 58, [INTJ]() 4), <em>ea</em> ([X]() 7, [INTJ]() 2), <em>tira</em> ([NOUN]() 2, [INTJ]() 2), <em>a</em> ([NOUN]() 4, [INTJ]() 1)
 
 The 10 most frequent ambiguous types:  <em>alde</em> ([NOUN]() 22, [ADP]() 19, [INTJ]() 4), <em>ea</em> ([X]() 7, [INTJ]() 2, [CCONJ]() 1), <em>A</em> ([NOUN]() 2, [INTJ]() 1), <em>Jesus</em> ([PROPN]() 3, [INTJ]() 1), <em>ene</em> ([PRON]() 1, [INTJ]() 1)
 

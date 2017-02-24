@@ -11,7 +11,7 @@ The 10 most frequent `NOUN` lemmas: <em>бала, жан, адам, жыл, жа
 
 The 10 most frequent `NOUN` types:  <em>бала, жасы, жылдың, ханшайым, Эдуард, адамның, жаны, жылы, жұмбақ, ортасында</em>
 
-The 10 most frequent ambiguous lemmas: <em>бала</em> ([NOUN]() 12, [X]() 1), <em>жас</em> ([NOUN]() 4, [ADJ]() 2), <em>Эдуард</em> ([NOUN]() 2, [PROPN]() 1), <em>Елизавета</em> ([PROPN]() 5, [NOUN]() 1), <em>жалын</em> ([NOUN]() 1, [VERB]() 1), <em>қой</em> ([VERB]() 1, [NOUN]() 1)
+The 10 most frequent ambiguous lemmas: <em>бала</em> ([NOUN]() 12, [X]() 1), <em>жас</em> ([NOUN]() 4, [ADJ]() 2), <em>Эдуард</em> ([NOUN]() 2, [PROPN]() 1), <em>Елизавета</em> ([PROPN]() 5, [NOUN]() 1), <em>жалын</em> ([NOUN]() 1, [VERB]() 1), <em>қой</em> ([NOUN]() 1, [VERB]() 1)
 
 The 10 most frequent ambiguous types:  <em>бала</em> ([NOUN]() 9, [X]() 1), <em>Эдуард</em> ([NOUN]() 2, [PROPN]() 1), <em>Елизавета</em> ([PROPN]() 5, [NOUN]() 1), <em>қой</em> ([PART]() 1, [NOUN]() 1)
 

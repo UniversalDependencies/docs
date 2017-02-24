@@ -11,7 +11,7 @@ The 10 most frequent `VERB` lemmas: <em>moći, imati, kazati, trebati, reći, iz
 
 The 10 most frequent `VERB` types:  <em>može, izjavio, rekao, ima, kazao, kaže, treba, mogu, nema, mora</em>
 
-The 10 most frequent ambiguous lemmas: <em>moći</em> ([VERB]() 651, [AUX]() 1), <em>imati</em> ([VERB]() 432, [ADV]() 5), <em>kazati</em> ([VERB]() 377, [ADV]() 3, [ADJ]() 1), <em>reći</em> ([VERB]() 243, [ADV]() 6, [ADJ]() 4), <em>izjaviti</em> ([VERB]() 229, [ADV]() 1), <em>raditi</em> ([VERB]() 179, [ADJ]() 1, [ADV]() 1), <em>željeti</em> ([VERB]() 142, [AUX]() 1, [ADV]() 1), <em>očekivati</em> ([VERB]() 109, [ADJ]() 4, [ADV]() 1), <em>smatrati</em> ([VERB]() 104, [ADV]() 1, [ADJ]() 1), <em>doći</em> ([VERB]() 96, [ADV]() 1)
+The 10 most frequent ambiguous lemmas: <em>moći</em> ([VERB]() 651, [AUX]() 1), <em>imati</em> ([VERB]() 432, [ADV]() 5), <em>kazati</em> ([VERB]() 377, [ADV]() 3, [ADJ]() 1), <em>reći</em> ([VERB]() 243, [ADV]() 6, [ADJ]() 4), <em>izjaviti</em> ([VERB]() 229, [ADV]() 1), <em>raditi</em> ([VERB]() 179, [ADJ]() 1, [ADV]() 1), <em>željeti</em> ([VERB]() 142, [ADV]() 1, [AUX]() 1), <em>očekivati</em> ([VERB]() 109, [ADJ]() 4, [ADV]() 1), <em>smatrati</em> ([VERB]() 104, [ADV]() 1, [ADJ]() 1), <em>doći</em> ([VERB]() 96, [ADV]() 1)
 
 The 10 most frequent ambiguous types:  <em>mora</em> ([VERB]() 91, [NOUN]() 14), <em>radi</em> ([VERB]() 62, [ADP]() 10, [ADV]() 1), <em>žele</em> ([VERB]() 41, [AUX]() 1), <em>nalazi</em> ([VERB]() 40, [NOUN]() 1), <em>tvrdi</em> ([VERB]() 35, [ADJ]() 3), <em>pomoći</em> ([VERB]() 33, [NOUN]() 26), <em>nalaze</em> ([VERB]() 33, [NOUN]() 1), <em>iznosi</em> ([VERB]() 31, [NOUN]() 1), <em>dobiti</em> ([VERB]() 29, [NOUN]() 7), <em>postaje</em> ([VERB]() 25, [NOUN]() 8)
 

@@ -80,7 +80,7 @@ The most frequent other feature values with which `VERB` and `Number` co-occurre
 
 7782 [sk-pos/ADJ]() tokens (100% of all `ADJ` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `ADJ` and `Number` co-occurred: <tt><a href="Degree.html">Degree</a>=Pos</tt> (7142; 92%), <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (6827; 88%), <tt><a href="VerbForm.html">VerbForm</a>=EMPTY</tt> (6798; 87%), <tt><a href="Polarity.html">Polarity</a>=EMPTY</tt> (6798; 87%), <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (4485; 58%).
+The most frequent other feature values with which `ADJ` and `Number` co-occurred: <tt><a href="Degree.html">Degree</a>=Pos</tt> (7142; 92%), <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (6827; 88%), <tt><a href="Polarity.html">Polarity</a>=EMPTY</tt> (6798; 87%), <tt><a href="VerbForm.html">VerbForm</a>=EMPTY</tt> (6798; 87%), <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (4485; 58%).
 
 `ADJ` tokens may have the following values of `Number`:
 
@@ -280,7 +280,7 @@ The most frequent other feature values with which `NUM` and `Number` co-occurred
 
 31 [sk-pos/ADV]() tokens (1% of all `ADV` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `ADV` and `Number` co-occurred: <tt><a href="PronType.html">PronType</a>=EMPTY</tt> (31; 100%), <tt><a href="Degree.html">Degree</a>=EMPTY</tt> (31; 100%).
+The most frequent other feature values with which `ADV` and `Number` co-occurred: <tt><a href="Degree.html">Degree</a>=EMPTY</tt> (31; 100%), <tt><a href="PronType.html">PronType</a>=EMPTY</tt> (31; 100%).
 
 `ADV` tokens may have the following values of `Number`:
 
@@ -299,7 +299,7 @@ The most frequent other feature values with which `ADV` and `Number` co-occurred
 
 1 [sk-pos/X]() tokens (0% of all `X` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `X` and `Number` co-occurred: <tt><a href="Abbr.html">Abbr</a>=Yes</tt> (1; 100%), <tt><a href="Foreign.html">Foreign</a>=EMPTY</tt> (1; 100%), <tt><a href="Hyph.html">Hyph</a>=EMPTY</tt> (1; 100%).
+The most frequent other feature values with which `X` and `Number` co-occurred: <tt><a href="Hyph.html">Hyph</a>=EMPTY</tt> (1; 100%), <tt><a href="Abbr.html">Abbr</a>=Yes</tt> (1; 100%), <tt><a href="Foreign.html">Foreign</a>=EMPTY</tt> (1; 100%).
 
 `X` tokens may have the following values of `Number`:
 

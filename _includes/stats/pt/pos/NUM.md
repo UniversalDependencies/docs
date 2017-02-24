@@ -11,9 +11,9 @@ The 10 most frequent `NUM` lemmas: <em>um, dois, três, mil, cento, quatro, cinc
 
 The 10 most frequent `NUM` types:  <em>um, dois, três, mil, uma, cento, duas, quatro, cinco, 15</em>
 
-The 10 most frequent ambiguous lemmas: <em>um</em> ([DET]() 3050, [NUM]() 360, [PROPN]() 16, [PRON]() 11, [ADP]() 2, [NOUN]() 1), <em>dois</em> ([NUM]() 336, [NOUN]() 1), <em>mil</em> ([NUM]() 181, [NOUN]() 2, [ADP]() 1), <em>cento</em> ([NUM]() 129, [PROPN]() 3), <em>cinco</em> ([NUM]() 81, [PROPN]() 1), <em>30</em> ([NUM]() 57, [PROPN]() 1), <em>20</em> ([NUM]() 49, [PROPN]() 3), <em>uma</em> ([NUM]() 42, [ADP]() 13, [DET]() 10, [NOUN]() 4, [PROPN]() 1, [ADJ]() 1), <em>1</em> ([NUM]() 37, [PROPN]() 13), <em>sete</em> ([NUM]() 36, [PROPN]() 2)
+The 10 most frequent ambiguous lemmas: <em>um</em> ([DET]() 3050, [NUM]() 360, [PROPN]() 16, [PRON]() 11, [ADP]() 2, [NOUN]() 1), <em>dois</em> ([NUM]() 336, [NOUN]() 1), <em>mil</em> ([NUM]() 181, [NOUN]() 2, [ADP]() 1), <em>cento</em> ([NUM]() 129, [PROPN]() 3), <em>cinco</em> ([NUM]() 81, [PROPN]() 1), <em>30</em> ([NUM]() 57, [PROPN]() 1), <em>20</em> ([NUM]() 49, [PROPN]() 3), <em>uma</em> ([NUM]() 42, [ADP]() 13, [DET]() 10, [NOUN]() 4, [ADJ]() 1, [PROPN]() 1), <em>1</em> ([NUM]() 37, [PROPN]() 13), <em>sete</em> ([NUM]() 36, [PROPN]() 2)
 
-The 10 most frequent ambiguous types:  <em>um</em> ([DET]() 1524, [NUM]() 227, [PROPN]() 16, [PRON]() 2, [ADP]() 2, [NOUN]() 1), <em>dois</em> ([NUM]() 211, [NOUN]() 1), <em>mil</em> ([NUM]() 180, [NOUN]() 2, [ADP]() 1), <em>uma</em> ([DET]() 1358, [NUM]() 128, [ADP]() 11, [NOUN]() 3, [PRON]() 3, [ADJ]() 1, [PROPN]() 1), <em>cento</em> ([NUM]() 129, [PROPN]() 3), <em>cinco</em> ([NUM]() 75, [PROPN]() 1), <em>30</em> ([NUM]() 57, [PROPN]() 1), <em>20</em> ([NUM]() 49, [PROPN]() 3), <em>1</em> ([NUM]() 37, [PROPN]() 13), <em>sete</em> ([NUM]() 33, [PROPN]() 2)
+The 10 most frequent ambiguous types:  <em>um</em> ([DET]() 1524, [NUM]() 227, [PROPN]() 16, [PRON]() 2, [ADP]() 2, [NOUN]() 1), <em>dois</em> ([NUM]() 211, [NOUN]() 1), <em>mil</em> ([NUM]() 180, [NOUN]() 2, [ADP]() 1), <em>uma</em> ([DET]() 1358, [NUM]() 128, [ADP]() 11, [NOUN]() 3, [PRON]() 3, [PROPN]() 1, [ADJ]() 1), <em>cento</em> ([NUM]() 129, [PROPN]() 3), <em>cinco</em> ([NUM]() 75, [PROPN]() 1), <em>30</em> ([NUM]() 57, [PROPN]() 1), <em>20</em> ([NUM]() 49, [PROPN]() 3), <em>1</em> ([NUM]() 37, [PROPN]() 13), <em>sete</em> ([NUM]() 33, [PROPN]() 2)
 
 
 * <em>um</em>
@@ -36,8 +36,8 @@ The 10 most frequent ambiguous types:  <em>um</em> ([DET]() 1524, [NUM]() 227, [
   * [ADP]() 11: <em>Com a mesma hombridade que exibe mais <b>uma</b> vez .</em>
   * [NOUN]() 3: <em>Estas imagens que publicamos de Cartier-Bresson , Robert Capa , Eve Arnold ou Dennis Stock , entre outros , demonstra , <b>uma</b> vez mais , a vocação totalizadora de a Magnum , a capacidade em acompanhar de perto fenómenos mais importantes de a história de a humanidade .</em>
   * [PRON]() 3: <em>A maior parte de as cerca de 260 pessoas desalojadas instalou então abrigos improvisados em <b>uma</b> de as ruas de a urbanização .</em>
-  * [ADJ]() 1: <em>Em os últimos dias o ritmo tornou se frenético , « manipularam se mais de <b>uma</b> centena de documentos e mapas » , garante de la Peña .</em>
   * [PROPN]() 1: <em>De a série Soluções , o « PC é mais que <b>uma</b> máquina de escrever » é o lançamento de a Ariadne ( 132 págs . )</em>
+  * [ADJ]() 1: <em>Em os últimos dias o ritmo tornou se frenético , « manipularam se mais de <b>uma</b> centena de documentos e mapas » , garante de la Peña .</em>
 * <em>cento</em>
   * [NUM]() 129: <em>O índice Hang Seng caiu 2,47 por <b>cento</b> , fechando em os 5481,61 pontos .</em>
   * [PROPN]() 3: <em>Meyer publicou esta informação em um romance , que depois adaptou a o cinema , com o título justamente de « A Solução a sete e meio por <b>cento</b> » ( talvez haja melhor tradução para « The 7,5 per cent Solution » : « Uma Solução a sete e meio por <b>cento</b> » , « Sete e meio por <b>cento</b> de Solução » ? )</em>

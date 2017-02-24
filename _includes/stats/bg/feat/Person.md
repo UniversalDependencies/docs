@@ -16,7 +16,7 @@ The feature is used with 4 part-of-speech tags: [bg-pos/VERB]() (13068; 9% insta
 
 13068 [bg-pos/VERB]() tokens (84% of all `VERB` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (13068; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (13068; 100%), <tt><a href="Definite.html">Definite</a>=EMPTY</tt> (13068; 100%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (12817; 98%), <tt><a href="Voice.html">Voice</a>=Act</tt> (12817; 98%), <tt><a href="Number.html">Number</a>=Sing</tt> (9179; 70%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (8879; 68%), <tt><a href="Aspect.html">Aspect</a>=Imp</tt> (7565; 58%).
+The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (13068; 100%), <tt><a href="Definite.html">Definite</a>=EMPTY</tt> (13068; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (13068; 100%), <tt><a href="Voice.html">Voice</a>=Act</tt> (12817; 98%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (12817; 98%), <tt><a href="Number.html">Number</a>=Sing</tt> (9179; 70%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (8879; 68%), <tt><a href="Aspect.html">Aspect</a>=Imp</tt> (7565; 58%).
 
 `VERB` tokens may have the following values of `Person`:
 
@@ -99,7 +99,7 @@ The most frequent other feature values with which `AUX` and `Person` co-occurred
 
 352 [bg-pos/DET]() tokens (16% of all `DET` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `DET` and `Person` co-occurred: <tt><a href="Case.html">Case</a>=EMPTY</tt> (352; 100%), <tt><a href="PronType.html">PronType</a>=Prs</tt> (352; 100%), <tt><a href="Poss.html">Poss</a>=Yes</tt> (352; 100%), <tt><a href="Definite.html">Definite</a>=Def</tt> (257; 73%), <tt><a href="Number.html">Number</a>=Sing</tt> (232; 66%).
+The most frequent other feature values with which `DET` and `Person` co-occurred: <tt><a href="PronType.html">PronType</a>=Prs</tt> (352; 100%), <tt><a href="Poss.html">Poss</a>=Yes</tt> (352; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (352; 100%), <tt><a href="Definite.html">Definite</a>=Def</tt> (257; 73%), <tt><a href="Number.html">Number</a>=Sing</tt> (232; 66%).
 
 `DET` tokens may have the following values of `Person`:
 
@@ -117,7 +117,7 @@ The most frequent other feature values with which `DET` and `Person` co-occurred
   <tr><td><tt><a href="Definite.html">Definite</a>=Ind|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Sing</tt></td><td><em>мой</em></td><td></td><td><em>негов, неин</em></td></tr>
   <tr><td><tt><a href="Definite.html">Definite</a>=Ind|<a href="Gender.html">Gender</a>=Fem|<a href="Number.html">Number</a>=Sing</tt></td><td><em>моя</em></td><td></td><td><em>негова, нейна</em></td></tr>
   <tr><td><tt><a href="Definite.html">Definite</a>=Ind|<a href="Gender.html">Gender</a>=Neut|<a href="Number.html">Number</a>=Sing</tt></td><td><em>мое</em></td><td><em>твое</em></td><td><em>негово</em></td></tr>
-  <tr><td><tt><a href="Definite.html">Definite</a>=Ind|<a href="Number.html">Number</a>=Plur</tt></td><td><em>мои</em></td><td></td><td><em>негови, нейни</em></td></tr>
+  <tr><td><tt><a href="Definite.html">Definite</a>=Ind|<a href="Number.html">Number</a>=Plur</tt></td><td><em>мои</em></td><td></td><td><em>нейни, негови</em></td></tr>
 </table>
 
 ## Relations with Agreement in `Person`

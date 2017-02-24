@@ -85,7 +85,7 @@ The most frequent other feature values with which `X` and `Degree` co-occurred: 
 
 953 [nl-pos/DET]() tokens (4% of all `DET` tokens) have a non-empty value of `Degree`.
 
-The most frequent other feature values with which `DET` and `Degree` co-occurred: <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (953; 100%), <tt><a href="Definite.html">Definite</a>=EMPTY</tt> (953; 100%), <tt><a href="PronType.html">PronType</a>=Ind</tt> (953; 100%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (934; 98%).
+The most frequent other feature values with which `DET` and `Degree` co-occurred: <tt><a href="Definite.html">Definite</a>=EMPTY</tt> (953; 100%), <tt><a href="PronType.html">PronType</a>=Ind</tt> (953; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (953; 100%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (934; 98%).
 
 `DET` tokens may have the following values of `Degree`:
 
@@ -106,7 +106,7 @@ The most frequent other feature values with which `DET` and `Degree` co-occurred
 
 8 [nl-pos/NUM]() tokens (0% of all `NUM` tokens) have a non-empty value of `Degree`.
 
-The most frequent other feature values with which `NUM` and `Degree` co-occurred: <tt><a href="Definite.html">Definite</a>=Def</tt> (8; 100%), <tt><a href="NumForm.html">NumForm</a>=EMPTY</tt> (8; 100%), <tt><a href="NumType.html">NumType</a>=Card</tt> (8; 100%).
+The most frequent other feature values with which `NUM` and `Degree` co-occurred: <tt><a href="NumForm.html">NumForm</a>=EMPTY</tt> (8; 100%), <tt><a href="Definite.html">Definite</a>=Def</tt> (8; 100%), <tt><a href="NumType.html">NumType</a>=Card</tt> (8; 100%).
 
 `NUM` tokens may have the following values of `Degree`:
 
@@ -117,7 +117,7 @@ The most frequent other feature values with which `NUM` and `Degree` co-occurred
 
 4 [nl-pos/VERB]() tokens (0% of all `VERB` tokens) have a non-empty value of `Degree`.
 
-The most frequent other feature values with which `VERB` and `Degree` co-occurred: <tt><a href="Aspect.html">Aspect</a>=EMPTY</tt> (4; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (4; 100%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (4; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (4; 100%), <tt><a href="VerbType.html">VerbType</a>=EMPTY</tt> (4; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (4; 100%).
+The most frequent other feature values with which `VERB` and `Degree` co-occurred: <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (4; 100%), <tt><a href="Aspect.html">Aspect</a>=EMPTY</tt> (4; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (4; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (4; 100%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (4; 100%), <tt><a href="VerbType.html">VerbType</a>=EMPTY</tt> (4; 100%).
 
 `VERB` tokens may have the following values of `Degree`:
 

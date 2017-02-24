@@ -133,32 +133,14 @@ The following 17 pairs of parts of speech are connected with `appos`: [sl-pos/NO
 
 
 ~~~ conllu
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 8 9 appos	color:blue
-1	in	in	CCONJ	Cc	_	3	cc	_	word=in|msd=Vp
-2	kaj	kaj	PRON	Pq-nsa	Case=Acc|Gender=Neut|Number=Sing|PronType=Int	3	obj	_	word=kaj|msd=Zv-set
-3	imata	imeti	VERB	Vmpr3d-n	Aspect=Imp|Mood=Ind|Number=Dual|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	0	root	_	word=mata|msd=Ggnstd-n
-4	skupnega	skupen	ADJ	Agpnsg	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	3	xcomp	_	word=skupnega|msd=Ppnser
-5	eee	eee	INTJ	I	_	8	discourse:filler	_	word=eee|msd=M
-6	ti	ta	DET	Pd-fdn	Case=Nom|Gender=Fem|Number=Dual|PronType=Dem	8	det	_	word=ti|msd=Zk-zdi
-7	dve	dva	NUM	Mlcfdn	Case=Nom|Gender=Fem|Number=Dual|NumForm=Word|NumType=Card	8	nummod	_	word=dve|msd=Kbgzdi
-8	skupini	skupina	NOUN	Ncfdn	Case=Nom|Gender=Fem|Number=Dual	3	nsubj	_	word=skupini|msd=Sozdi
-9	psihološki	psihološki	ADJ	Agpmpn	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	8	appos	_	word=psihološki|msd=Ppnmmi
-10	pa	pa	CCONJ	Cc	_	12	cc	_	word=pa|msd=Vp
-11	eee	eee	INTJ	I	_	12	discourse:filler	_	word=eee|msd=M
-12	fiziološki	fiziološki	ADJ	Agpmpn	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	9	conj	_	word=fiziološki|msd=Ppnmmi
-13	ja	ja	PART	Q	_	3	parataxis	_	word=ja|msd=L
-14	…	…	PUNCT	Z	_	3	punct	_	word=…|msd=U
-15	točno	točno	ADV	Rgp	Degree=Pos	16	advmod	_	word=točno|msd=Rsn
-16	tako	tako	ADV	Rgp	Degree=Pos	20	discourse	_	word=tako|msd=Rsn
-17	ja	ja	PART	Q	_	20	discourse	_	word=ja|msd=L
-18	ja	ja	PART	Q	_	20	discourse	_	word=ja|msd=L
-19	so	biti	AUX	Va-r3p-n	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	20	cop	_	word=so|msd=Gp-stm-n
-20	notranji	notranji	ADJ	Agpmpn	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	3	parataxis	_	word=notranji|msd=Ppnmmi
-21	ja	ja	PART	Q	_	20	discourse	_	word=ja|msd=L
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 3 appos	color:blue
+1	aha	aha	INTJ	I	_	2	discourse	_	word=aha|msd=M
+2	[name:address]	[name:address]	PROPN	X	_	0	root	_	word=[name:address]|msd=N
+3	[name:address]	[name:address]	PROPN	X	_	2	appos	_	word=[name:address]|msd=N
 
 ~~~
 

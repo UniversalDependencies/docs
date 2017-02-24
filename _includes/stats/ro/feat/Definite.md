@@ -90,7 +90,7 @@ The most frequent other feature values with which `NUM` and `Definite` co-occurr
 
 373 [ro-pos/DET]() tokens (3% of all `DET` tokens) have a non-empty value of `Definite`.
 
-The most frequent other feature values with which `DET` and `Definite` co-occurred: <tt><a href="PronType.html">PronType</a>=Art</tt> (373; 100%), <tt><a href="Position.html">Position</a>=EMPTY</tt> (373; 100%), <tt><a href="Poss.html">Poss</a>=EMPTY</tt> (373; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (373; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (370; 99%), <tt><a href="Case.html">Case</a>=Dat,Gen</tt> (289; 77%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (270; 72%).
+The most frequent other feature values with which `DET` and `Definite` co-occurred: <tt><a href="Position.html">Position</a>=EMPTY</tt> (373; 100%), <tt><a href="PronType.html">PronType</a>=Art</tt> (373; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (373; 100%), <tt><a href="Poss.html">Poss</a>=EMPTY</tt> (373; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (370; 99%), <tt><a href="Case.html">Case</a>=Dat,Gen</tt> (289; 77%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (270; 72%).
 
 `DET` tokens may have the following values of `Definite`:
 
@@ -125,7 +125,7 @@ The 10 most frequent relations where parent and child node agree in `Definite`:
 <tt>ADJ --[<a href="../dep/conj.html">conj</a>]--> NOUN</tt> (84; 80%),
 <tt>NOUN --[<a href="../dep/parataxis.html">parataxis</a>]--> NOUN</tt> (49; 51%),
 <tt>NOUN --[<a href="../dep/conj.html">conj</a>]--> ADJ</tt> (31; 72%),
-<tt>ADJ --[<a href="../dep/xcomp.html">xcomp</a>]--> NOUN</tt> (26; 74%),
 <tt>ADJ --[<a href="../dep/amod.html">amod</a>]--> ADJ</tt> (26; 62%),
+<tt>ADJ --[<a href="../dep/xcomp.html">xcomp</a>]--> NOUN</tt> (26; 74%),
 <tt>ADJ --[<a href="../dep/advmod.html">advmod</a>]--> ADJ</tt> (25; 93%).
 

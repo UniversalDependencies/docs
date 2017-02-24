@@ -65,7 +65,7 @@ The most frequent other feature values with which `VERB` and `Mood` co-occurred:
 
 10 [ga-pos/PART]() tokens (1% of all `PART` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `PART` and `Mood` co-occurred: <tt><a href="PronType.html">PronType</a>=EMPTY</tt> (10; 100%), <tt><a href="PartType.html">PartType</a>=Vb</tt> (10; 100%), <tt><a href="Polarity.html">Polarity</a>=Neg</tt> (8; 80%).
+The most frequent other feature values with which `PART` and `Mood` co-occurred: <tt><a href="PartType.html">PartType</a>=Vb</tt> (10; 100%), <tt><a href="PronType.html">PronType</a>=EMPTY</tt> (10; 100%), <tt><a href="Polarity.html">Polarity</a>=Neg</tt> (8; 80%).
 
 `PART` tokens may have the following values of `Mood`:
 
@@ -88,7 +88,7 @@ The most frequent other feature values with which `AUX` and `Mood` co-occurred: 
 
 4 [ga-pos/X]() tokens (3% of all `X` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `X` and `Mood` co-occurred: <tt><a href="PronType.html">PronType</a>=EMPTY</tt> (4; 100%), <tt><a href="Abbr.html">Abbr</a>=EMPTY</tt> (4; 100%), <tt><a href="Dialect.html">Dialect</a>=Munster</tt> (4; 100%).
+The most frequent other feature values with which `X` and `Mood` co-occurred: <tt><a href="Dialect.html">Dialect</a>=Munster</tt> (4; 100%), <tt><a href="PronType.html">PronType</a>=EMPTY</tt> (4; 100%), <tt><a href="Abbr.html">Abbr</a>=EMPTY</tt> (4; 100%).
 
 `X` tokens may have the following values of `Mood`:
 
@@ -110,9 +110,9 @@ The 10 most frequent relations where parent and child node agree in `Mood`:
 <tt>VERB --[<a href="../dep/ccomp.html">ccomp</a>]--> VERB</tt> (67; 86%),
 <tt>VERB --[<a href="../dep/xcomp.html">xcomp</a>]--> VERB</tt> (4; 67%),
 <tt>VERB --[<a href="../dep/csubj:cop.html">csubj:cop</a>]--> VERB</tt> (2; 100%),
-<tt>X --[<a href="../dep/advmod.html">advmod</a>]--> PART</tt> (2; 100%),
 <tt>VERB --[<a href="../dep/csubj:cleft.html">csubj:cleft</a>]--> VERB</tt> (2; 67%),
-<tt>VERB --[<a href="../dep/obl.html">obl</a>]--> VERB</tt> (1; 100%),
+<tt>X --[<a href="../dep/advmod.html">advmod</a>]--> PART</tt> (2; 100%),
 <tt>X --[<a href="../dep/conj.html">conj</a>]--> VERB</tt> (1; 100%),
-<tt>X --[<a href="../dep/conj.html">conj</a>]--> X</tt> (1; 100%).
+<tt>X --[<a href="../dep/advcl.html">advcl</a>]--> VERB</tt> (1; 100%),
+<tt>VERB --[<a href="../dep/obl.html">obl</a>]--> VERB</tt> (1; 100%).
 

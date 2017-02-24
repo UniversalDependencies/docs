@@ -101,7 +101,7 @@ The 10 most frequent `NOUN` lemmas: <em>opera, anno, parte, paese, lavoro, dirit
 
 The 10 most frequent `NOUN` types:  <em>anni, opere, parte, commissione, opera, lavoro, vita, paesi, modo, crescita</em>
 
-The 10 most frequent ambiguous lemmas: <em>critico</em> ([NOUN]() 28, [ADJ]() 4), <em>onorevole</em> ([NOUN]() 27, [ADJ]() 7), <em>cosa</em> ([NOUN]() 19, [PRON]() 3), <em>pubblico</em> ([ADJ]() 25, [NOUN]() 19), <em>particolare</em> ([NOUN]() 18, [ADJ]() 11), <em>amico</em> ([NOUN]() 15, [ADJ]() 1), <em>romanzo</em> ([NOUN]() 15, [ADJ]() 3), <em>studioso</em> ([NOUN]() 15, [ADJ]() 1), <em>via</em> ([NOUN]() 13, [ADV]() 1, [ADP]() 1), <em>verso</em> ([ADP]() 13, [NOUN]() 12)
+The 10 most frequent ambiguous lemmas: <em>critico</em> ([NOUN]() 28, [ADJ]() 4), <em>onorevole</em> ([NOUN]() 27, [ADJ]() 7), <em>cosa</em> ([NOUN]() 19, [PRON]() 3), <em>pubblico</em> ([ADJ]() 25, [NOUN]() 19), <em>particolare</em> ([NOUN]() 18, [ADJ]() 11), <em>amico</em> ([NOUN]() 15, [ADJ]() 1), <em>romanzo</em> ([NOUN]() 15, [ADJ]() 3), <em>studioso</em> ([NOUN]() 15, [ADJ]() 1), <em>via</em> ([NOUN]() 13, [ADP]() 1, [ADV]() 1), <em>verso</em> ([ADP]() 13, [NOUN]() 12)
 
 The 10 most frequent ambiguous types:  <em>lavoro</em> ([NOUN]() 57, [VERB]() 1), <em>stati</em> ([NOUN]() 31, [AUX]() 22, [VERB]() 2), <em>prodotti</em> ([NOUN]() 27, [VERB]() 1), <em>consiglio</em> ([NOUN]() 14, [VERB]() 1), <em>stato</em> ([AUX]() 43, [NOUN]() 20), <em>fatto</em> ([NOUN]() 19, [VERB]() 12), <em>pubblico</em> ([NOUN]() 19, [ADJ]() 6), <em>particolare</em> ([NOUN]() 17, [ADJ]() 9), <em>volta</em> ([NOUN]() 17, [VERB]() 5), <em>politica</em> ([NOUN]() 15, [ADJ]() 7)
 

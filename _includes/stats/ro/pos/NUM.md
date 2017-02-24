@@ -11,9 +11,9 @@ The 10 most frequent `NUM` lemmas: <em>doi, 1, 2, prim, 3, trei, 4, 5, 6, patru<
 
 The 10 most frequent `NUM` types:  <em>1, 2, 3, două, 4, trei, 5, 6, primul, doi</em>
 
-The 10 most frequent ambiguous lemmas: <em>prim</em> ([NUM]() 233, [ADJ]() 1), <em>întâi</em> ([NUM]() 14, [ADV]() 12), <em>dintâi</em> ([NUM]() 8, [ADV]() 1), <em>X</em> ([NOUN]() 17, [NUM]() 2), <em>iv</em> ([NUM]() 1, [NOUN]() 1), <em>xi</em> ([NOUN]() 1, [NUM]() 1)
+The 10 most frequent ambiguous lemmas: <em>prim</em> ([NUM]() 233, [ADJ]() 1), <em>întâi</em> ([NUM]() 14, [ADV]() 12), <em>dintâi</em> ([NUM]() 8, [ADV]() 1), <em>X</em> ([NOUN]() 17, [NUM]() 2), <em>iv</em> ([NOUN]() 1, [NUM]() 1), <em>xi</em> ([NOUN]() 1, [NUM]() 1)
 
-The 10 most frequent ambiguous types:  <em>I</em> ([NUM]() 53, [NOUN]() 8, [PRON]() 5), <em>ii</em> ([NOUN]() 4, [NUM]() 1), <em>primele</em> ([NUM]() 28, [NOUN]() 1), <em>iv</em> ([NUM]() 1, [NOUN]() 1), <em>nouă</em> ([ADJ]() 27, [NUM]() 7, [PRON]() 1), <em>dintâi</em> ([NUM]() 8, [ADV]() 1), <em>V</em> ([NOUN]() 11, [NUM]() 7), <em>VI</em> ([NUM]() 6, [PRON]() 1), <em>primei</em> ([NUM]() 6, [NOUN]() 1), <em>primelor</em> ([NUM]() 5, [NOUN]() 1)
+The 10 most frequent ambiguous types:  <em>I</em> ([NUM]() 53, [NOUN]() 8, [PRON]() 5), <em>ii</em> ([NOUN]() 4, [NUM]() 1), <em>primele</em> ([NUM]() 28, [NOUN]() 1), <em>iv</em> ([NOUN]() 1, [NUM]() 1), <em>nouă</em> ([ADJ]() 27, [NUM]() 7, [PRON]() 1), <em>dintâi</em> ([NUM]() 8, [ADV]() 1), <em>V</em> ([NOUN]() 11, [NUM]() 7), <em>VI</em> ([NUM]() 6, [PRON]() 1), <em>primei</em> ([NUM]() 6, [NOUN]() 1), <em>primelor</em> ([NUM]() 5, [NOUN]() 1)
 
 
 * <em>I</em>
@@ -27,8 +27,8 @@ The 10 most frequent ambiguous types:  <em>I</em> ([NUM]() 53, [NOUN]() 8, [PRON
   * [NUM]() 28: <em>În secolul al XIII -lea sunt atestate <b>primele</b> cnezate la sud de Carpați .</em>
   * [NOUN]() 1: <em>De aceea , este necesar să se prevadă că acordurile privind <b>primele</b> comerciale nu sunt scutite .</em>
 * <em>iv</em>
-  * [NUM]() 1: <em>Se pot deroga de la art. 3 ( iii ) servicii de presă , radio , televiziune , producție cinematografică , servicii de poștă și telecomunicații , ambulanță , servicii de pompieri și protecție civilă ; ( <b>iv</b> ) producția , transportul și distribuția de gaze , apă și electricitate , colectarea reziduurilor menajere și instalațiile de incinerare ; ( v ) sectoare în care procesul de muncă nu poate fi întrerupt din motive tehnice ; ( vi ) lucrătorii din domeniul transportului de călători pe linii urbane regulate ;</em>
   * [NOUN]() 1: <em>( <b>iv</b> ) fonduri de investiții elvețiene care , la data intrării în vigoare a prezentului acord sau la o dată ulterioară , sunt scutite de impozitul anticipat în Elveția pentru sumele plătite persoanelor fizice care sunt rezidente ale unui stat membru .</em>
+  * [NUM]() 1: <em>Se pot deroga de la art. 3 ( iii ) servicii de presă , radio , televiziune , producție cinematografică , servicii de poștă și telecomunicații , ambulanță , servicii de pompieri și protecție civilă ; ( <b>iv</b> ) producția , transportul și distribuția de gaze , apă și electricitate , colectarea reziduurilor menajere și instalațiile de incinerare ; ( v ) sectoare în care procesul de muncă nu poate fi întrerupt din motive tehnice ; ( vi ) lucrătorii din domeniul transportului de călători pe linii urbane regulate ;</em>
 * <em>nouă</em>
   * [ADJ]() 27: <em>De îndată ce o <b>nouă</b> relație sau slujbă apărea , începea să se strice .</em>
   * [NUM]() 7: <em>Scrisoarea continua astfel , consumând două coli de corespondență , plus o foaie , în total <b>nouă</b> pagini .</em>

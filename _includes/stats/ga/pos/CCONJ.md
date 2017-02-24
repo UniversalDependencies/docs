@@ -13,7 +13,7 @@ The 10 most frequent `CCONJ` types:  <em>agus, nó, ná, is, no, ach, Gus</em>
 
 The 10 most frequent ambiguous lemmas: <em>agus</em> ([CCONJ]() 386, [SCONJ]() 9), <em>ná</em> ([CCONJ]() 40, [PART]() 6, [SCONJ]() 4), <em>ach</em> ([SCONJ]() 88, [CCONJ]() 3)
 
-The 10 most frequent ambiguous types:  <em>agus</em> ([CCONJ]() 351, [SCONJ]() 6), <em>ná</em> ([CCONJ]() 40, [PART]() 4, [SCONJ]() 4), <em>is</em> ([AUX]() 44, [CCONJ]() 26, [PART]() 10, [SCONJ]() 3), <em>ach</em> ([SCONJ]() 67, [CCONJ]() 2)
+The 10 most frequent ambiguous types:  <em>agus</em> ([CCONJ]() 351, [SCONJ]() 6), <em>ná</em> ([CCONJ]() 40, [SCONJ]() 4, [PART]() 4), <em>is</em> ([AUX]() 44, [CCONJ]() 26, [PART]() 10, [SCONJ]() 3), <em>ach</em> ([SCONJ]() 67, [CCONJ]() 2)
 
 
 * <em>agus</em>
@@ -21,8 +21,8 @@ The 10 most frequent ambiguous types:  <em>agus</em> ([CCONJ]() 351, [SCONJ]() 6
   * [SCONJ]() 6: <em>Amach liom arís go siopa mór Revington's <b>agus</b> ar ámharaí an tsaoil bhí ceant ar siúl ann .</em>
 * <em>ná</em>
   * [CCONJ]() 40: <em>Níor mhasla gan bhrí <b>ná</b> caint gan éifeacht a bhí san fhocal sin twaddle .</em>
-  * [PART]() 4: <em>Cad ina thaobh <b>ná</b> haithneodh , <b>ná</b> fuil sé do mo mhúineadh ?</em>
   * [SCONJ]() 4: <em>' Dhera , mo thrua mhór sibh , ' arsa an Mórach , ' <b>ná</b> raibh naonúr acu ag mo mháthairse , agus <b>ná</b> fuair sí ainm dos gach aoinne acu !</em>
+  * [PART]() 4: <em>Cad ina thaobh <b>ná</b> haithneodh , <b>ná</b> fuil sé do mo mhúineadh ?</em>
 * <em>is</em>
   * [AUX]() 44: <em>Limistéar na Meánmhara <b>is</b> áit dúcháis don Rós Mhuire .</em>
   * [CCONJ]() 26: <em>' Athraíonn sí a haigne ansin chomh luath <b>is</b> a chastar ar a chéile iad !</em>

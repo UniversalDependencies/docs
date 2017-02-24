@@ -16,7 +16,7 @@ The feature is used with 3 part-of-speech tags: [tr-pos/VERB]() (9113; 19% insta
 
 9113 [tr-pos/VERB]() tokens (100% of all `VERB` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="Polarity.html">Polarity</a>=Pos</tt> (8104; 89%), <tt><a href="Polite.html">Polite</a>=EMPTY</tt> (7977; 88%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (7883; 87%), <tt><a href="Number[psor].html">Number[psor]</a>=EMPTY</tt> (7736; 85%), <tt><a href="Person[psor].html">Person[psor]</a>=EMPTY</tt> (7736; 85%), <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (7675; 84%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (7346; 81%), <tt><a href="Aspect.html">Aspect</a>=Perf</tt> (7004; 77%), <tt><a href="VerbForm.html">VerbForm</a>=EMPTY</tt> (5224; 57%).
+The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="Polarity.html">Polarity</a>=Pos</tt> (8104; 89%), <tt><a href="Polite.html">Polite</a>=EMPTY</tt> (7977; 88%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (7883; 87%), <tt><a href="Person[psor].html">Person[psor]</a>=EMPTY</tt> (7736; 85%), <tt><a href="Number[psor].html">Number[psor]</a>=EMPTY</tt> (7736; 85%), <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (7675; 84%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (7346; 81%), <tt><a href="Aspect.html">Aspect</a>=Perf</tt> (7004; 77%), <tt><a href="VerbForm.html">VerbForm</a>=EMPTY</tt> (5224; 57%).
 
 `VERB` tokens may have the following values of `Tense`:
 
@@ -163,19 +163,19 @@ The most frequent other feature values with which `AUX` and `Tense` co-occurred:
   <tr><th>Paradigm <i>i</i></th><th><tt>Pres</tt></th><th><tt>Past</tt></th></tr>
   <tr><td><tt><a href="Evident.html">Evident</a>=Nfh|<a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=1</tt></td><td></td><td><em>ymışım</em></td></tr>
   <tr><td><tt><a href="Evident.html">Evident</a>=Nfh|<a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=2</tt></td><td></td><td><em>mışsın</em></td></tr>
-  <tr><td><tt><a href="Evident.html">Evident</a>=Nfh|<a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3</tt></td><td></td><td><em>mış, ymiş, ymış, eymiş, ymuş, edenmiş, immiş, miş, ostakoviç'miş, müş</em></td></tr>
+  <tr><td><tt><a href="Evident.html">Evident</a>=Nfh|<a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3</tt></td><td></td><td><em>mış, ymiş, eymiş, ymış, ymuş, immiş, edenmiş, müş, miş, ostakoviç'miş</em></td></tr>
   <tr><td><tt><a href="Evident.html">Evident</a>=Nfh|<a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3|<a href="VerbForm.html">VerbForm</a>=Conv</tt></td><td></td><td><em>ymişçesine</em></td></tr>
   <tr><td><tt><a href="Evident.html">Evident</a>=Nfh|<a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=1</tt></td><td></td><td><em>ymışız</em></td></tr>
   <tr><td><tt><a href="Mood.html">Mood</a>=Cnd|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=1</tt></td><td><em>sem</em></td><td></td></tr>
-  <tr><td><tt><a href="Mood.html">Mood</a>=Cnd|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3</tt></td><td><em>sa, se, yse, siyse, imse, ysa</em></td><td></td></tr>
-  <tr><td><tt><a href="Mood.html">Mood</a>=Gen|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3</tt></td><td><em>dır, dir, dur, tir, tır, tur, dür, edir, ledir, tür, 'dır, ir, üdür</em></td><td></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Cnd|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3</tt></td><td><em>sa, se, yse, ysa, siyse, imse</em></td><td></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Gen|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3</tt></td><td><em>dır, dir, dur, tir, tır, tur, dür, edir, tür, ledir, 'dır, ir, üdür</em></td><td></td></tr>
   <tr><td><tt><a href="Mood.html">Mood</a>=Gen|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=2</tt></td><td><em>sinizdir</em></td><td></td></tr>
   <tr><td><tt><a href="Mood.html">Mood</a>=Gen|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=3</tt></td><td><em>lerdir, lardır, dırlar, etinlerdir, durlar</em></td><td></td></tr>
-  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=1</tt></td><td><em>im, yim, yım, ım, yum, üm</em></td><td><em>ydim, ydım, tum, ydum, dim, dım, düm, dum, tım</em></td></tr>
-  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=2</tt></td><td><em>sın, usevisin, sin, eredesin, sun, s'ın</em></td><td><em>erdeydin, ydin, din</em></td></tr>
-  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3</tt></td><td></td><td><em>ydi, dı, ydı, tu, ydu, tı, ti, di, du, dü, eydi, tü, ydü, 'dı, eredeydi, 'ydi, 'ydı, 'di</em></td></tr>
-  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=1</tt></td><td><em>ız, yız, iz, yiz, yüz, yuz</em></td><td><em>ydik, ydık, dik</em></td></tr>
-  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=2</tt></td><td><em>sınız, imsiniz, eredesiniz, sunuz, lırsınız</em></td><td><em>ydınız</em></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=1</tt></td><td><em>im, yim, yım, ım, yum, üm</em></td><td><em>ydim, ydım, ydum, tum, dim, dum, düm, dım, tım</em></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=2</tt></td><td><em>sın, s'ın, usevisin, sun, eredesin, sin</em></td><td><em>ydin, erdeydin, din</em></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3</tt></td><td></td><td><em>ydi, dı, ydı, tu, ydu, tı, di, ti, du, eydi, dü, 'dı, tü, 'ydı, ydü, eredeydi, 'ydi, 'di</em></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=1</tt></td><td><em>yız, ız, iz, yiz, yüz, yuz</em></td><td><em>ydik, ydık, dik</em></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=2</tt></td><td><em>sınız, imsiniz, sunuz, lırsınız, eredesiniz</em></td><td><em>ydınız</em></td></tr>
   <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=3</tt></td><td><em>ler, lar</em></td><td><em>ydılar, tılar, dular, ydiler</em></td></tr>
   <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="VerbForm.html">VerbForm</a>=Conv</tt></td><td><em>ken, yken, irerken</em></td><td></td></tr>
 </table>
@@ -197,6 +197,6 @@ The 10 most frequent relations where parent and child node agree in `Tense`:
 <tt>VERB --[<a href="../dep/compound.html">compound</a>]--> VERB</tt> (32; 60%),
 <tt>VERB --[<a href="../dep/compound:redup.html">compound:redup</a>]--> VERB</tt> (18; 95%),
 <tt>VERB --[<a href="../dep/parataxis.html">parataxis</a>]--> VERB</tt> (3; 60%),
-<tt>VERB --[<a href="../dep/obl.html">obl</a>]--> VERB</tt> (1; 100%),
-<tt>VERB --[<a href="../dep/case.html">case</a>]--> VERB</tt> (1; 100%).
+<tt>VERB --[<a href="../dep/case.html">case</a>]--> VERB</tt> (1; 100%),
+<tt>VERB --[<a href="../dep/obl.html">obl</a>]--> VERB</tt> (1; 100%).
 

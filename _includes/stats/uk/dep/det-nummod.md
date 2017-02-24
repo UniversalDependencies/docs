@@ -63,19 +63,27 @@ The following 4 pairs of parts of speech are connected with `det:nummod`: [uk-po
 
 
 ~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
-# visual-style 2 1 det:nummod	color:blue
-1	Багато	багато	ADV	Rp	Degree=Pos	2	det:nummod	_	_
-2	років	рік	NOUN	Ncmpgn	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	4	obl	_	_
-3	я	я	PRON	Pp-1-ysnn	Animacy=Anim|Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_
-4	носив	носити	VERB	Vmpis-sm	Aspect=Imp|Gender=Masc|Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
-5	його	він	PRON	Pp-3m-san	Case=Acc|Gender=Masc|Person=3|PronType=Prs	4	obj	_	_
-6	на	на	ADP	Spsl	Case=Loc	7	case	_	_
-7	грудях	груди	NOUN	Nc-pln	Animacy=Inan|Case=Loc|Number=Ptan	4	obl	_	SpaceAfter=No
-8	.	.	PUNCT	U	_	4	punct	_	_
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 2 det:nummod	color:blue
+1	Для	для	ADP	Spsg	Case=Gen	2	case	_	_
+2	однієї	один	DET	Pi--f-sga	Case=Gen|Gender=Fem|PronType=Ind	4	det:nummod	_	_
+3	з	з	ADP	Spsg	Case=Gen	4	case	_	_
+4	них	вони	PRON	Pp-3--pgn	Case=Gen|Number=Plur|Person=3|PrepCase=Pre|PronType=Prs	6	obl	_	_
+5	був	бути	AUX	Vapis-sm	Aspect=Imp|Gender=Masc|Mood=Ind|Tense=Past|VerbForm=Fin	6	aux:pass	_	_
+6	вибраний	вибраний	ADJ	Ap-msnf-ep	Aspect=Perf|Case=Nom|Gender=Masc|VerbForm=Part|Voice=Pass	0	root	_	_
+7	готельний	готельний	ADJ	Ao-msnf	Case=Nom|Gender=Masc	8	amod	_	_
+8	номер	номер	NOUN	Ncmsnn	Animacy=Inan|Case=Nom|Gender=Masc	6	nsubj:pass	_	SpaceAfter=No
+9	,	,	PUNCT	U	_	12	punct	_	_
+10	вікна	вікно	NOUN	Ncnpnn	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	12	nsubj	_	_
+11	якого	який	DET	Pr--m-sga	Case=Gen|Gender=Masc|PronType=Rel	12	obl	_	_
+12	виходили	виходити	VERB	Vmpis-p	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin	8	acl	_	_
+13	на	на	ADP	Spsa	Case=Acc	14	case	_	_
+14	дах	дах	NOUN	Ncmsan	Animacy=Inan|Case=Acc|Gender=Masc	12	obl	_	_
+15	Опери	опера	NOUN	Ncfsgn	Animacy=Inan|Case=Gen|Gender=Fem	14	nmod	_	SpaceAfter=No
+16	.	.	PUNCT	U	_	6	punct	_	_
 
 ~~~
 

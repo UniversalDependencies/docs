@@ -11,7 +11,7 @@ The 10 most frequent `CCONJ` lemmas: च, इति, इव, वा
 
 The 10 most frequent `CCONJ` types:  च, इति, इव, वा
 
-The 10 most frequent ambiguous lemmas: इति ([ADV]() 4, [CCONJ]() 1), इव ([CCONJ]() 1, [ADV]() 1)
+The 10 most frequent ambiguous lemmas: इति ([ADV]() 4, [CCONJ]() 1), इव ([ADV]() 1, [CCONJ]() 1)
 
 The 10 most frequent ambiguous types:  इति ([ADV]() 4, [CCONJ]() 1), इव ([CCONJ]() 1, [ADV]() 1)
 

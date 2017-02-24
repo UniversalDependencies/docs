@@ -16,7 +16,7 @@ The feature is used with 2 part-of-speech tags: [fi-pos/VERB]() (4728; 3% instan
 
 4728 [fi-pos/VERB]() tokens (19% of all `VERB` tokens) have a non-empty value of `InfForm`.
 
-The most frequent other feature values with which `VERB` and `InfForm` co-occurred: <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (4728; 100%), <tt><a href="PartForm.html">PartForm</a>=EMPTY</tt> (4728; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Inf</tt> (4728; 100%), <tt><a href="Degree.html">Degree</a>=EMPTY</tt> (4728; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (4728; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (4728; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (4664; 99%), <tt><a href="Voice.html">Voice</a>=Act</tt> (4664; 99%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (2774; 59%).
+The most frequent other feature values with which `VERB` and `InfForm` co-occurred: <tt><a href="PartForm.html">PartForm</a>=EMPTY</tt> (4728; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Inf</tt> (4728; 100%), <tt><a href="Degree.html">Degree</a>=EMPTY</tt> (4728; 100%), <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (4728; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (4728; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (4728; 100%), <tt><a href="Voice.html">Voice</a>=Act</tt> (4664; 99%), <tt><a href="Number.html">Number</a>=Sing</tt> (4664; 99%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (2774; 59%).
 
 `VERB` tokens may have the following values of `InfForm`:
 
@@ -41,7 +41,7 @@ The most frequent other feature values with which `VERB` and `InfForm` co-occurr
 
 321 [fi-pos/AUX]() tokens (3% of all `AUX` tokens) have a non-empty value of `InfForm`.
 
-The most frequent other feature values with which `AUX` and `InfForm` co-occurred: <tt><a href="Number.html">Number</a>=Sing</tt> (321; 100%), <tt><a href="Voice.html">Voice</a>=Act</tt> (321; 100%), <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (321; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Inf</tt> (321; 100%), <tt><a href="Polarity.html">Polarity</a>=EMPTY</tt> (321; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (321; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (321; 100%).
+The most frequent other feature values with which `AUX` and `InfForm` co-occurred: <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (321; 100%), <tt><a href="Voice.html">Voice</a>=Act</tt> (321; 100%), <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (321; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (321; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (321; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Inf</tt> (321; 100%), <tt><a href="Polarity.html">Polarity</a>=EMPTY</tt> (321; 100%).
 
 `AUX` tokens may have the following values of `InfForm`:
 
@@ -89,7 +89,7 @@ The feature is used with 2 part-of-speech tags: [fi-pos/VERB]() (4619; 3% instan
 
 4619 [fi-pos/VERB]() tokens (15% of all `VERB` tokens) have a non-empty value of `InfForm`.
 
-The most frequent other feature values with which `VERB` and `InfForm` co-occurred: <tt><a href="PartForm.html">PartForm</a>=EMPTY</tt> (4619; 100%), <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (4619; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (4619; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (4619; 100%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (4619; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Inf</tt> (4619; 100%), <tt><a href="Voice.html">Voice</a>=Act</tt> (4586; 99%), <tt><a href="Case.html">Case</a>=Lat</tt> (2920; 63%).
+The most frequent other feature values with which `VERB` and `InfForm` co-occurred: <tt><a href="Number.html">Number</a>=EMPTY</tt> (4619; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Inf</tt> (4619; 100%), <tt><a href="PartForm.html">PartForm</a>=EMPTY</tt> (4619; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (4619; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (4619; 100%), <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (4619; 100%), <tt><a href="Voice.html">Voice</a>=Act</tt> (4586; 99%), <tt><a href="Case.html">Case</a>=Lat</tt> (2920; 63%).
 
 `VERB` tokens may have the following values of `InfForm`:
 
@@ -116,7 +116,7 @@ The most frequent other feature values with which `VERB` and `InfForm` co-occurr
 
 168 [fi-pos/AUX]() tokens (5% of all `AUX` tokens) have a non-empty value of `InfForm`.
 
-The most frequent other feature values with which `AUX` and `InfForm` co-occurred: <tt><a href="Voice.html">Voice</a>=Act</tt> (168; 100%), <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (168; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Inf</tt> (168; 100%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (168; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (168; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (168; 100%).
+The most frequent other feature values with which `AUX` and `InfForm` co-occurred: <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (168; 100%), <tt><a href="Voice.html">Voice</a>=Act</tt> (168; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (168; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (168; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Inf</tt> (168; 100%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (168; 100%).
 
 `AUX` tokens may have the following values of `InfForm`:
 

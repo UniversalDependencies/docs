@@ -196,7 +196,7 @@ The most frequent other feature values with which `PRON` and `Case` co-occurred:
 
 10244 [cs-pos/NUM]() tokens (28% of all `NUM` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `NUM` and `Case` co-occurred: <tt><a href="NumForm.html">NumForm</a>=Word</tt> (9949; 97%), <tt><a href="NumType.html">NumType</a>=Card</tt> (9949; 97%), <tt><a href="NumValue.html">NumValue</a>=1,2,3</tt> (7058; 69%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (6067; 59%), <tt><a href="Number.html">Number</a>=Plur</tt> (5415; 53%).
+The most frequent other feature values with which `NUM` and `Case` co-occurred: <tt><a href="NumType.html">NumType</a>=Card</tt> (9949; 97%), <tt><a href="NumForm.html">NumForm</a>=Word</tt> (9949; 97%), <tt><a href="NumValue.html">NumValue</a>=1,2,3</tt> (7058; 69%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (6067; 59%), <tt><a href="Number.html">Number</a>=Plur</tt> (5415; 53%).
 
 `NUM` tokens may have the following values of `Case`:
 
@@ -413,7 +413,7 @@ The most frequent other feature values with which `PROPN` and `Case` co-occurred
 
 2420 [cs-pos/NUM]() tokens (34% of all `NUM` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `NUM` and `Case` co-occurred: <tt><a href="NumType.html">NumType</a>=Card</tt> (2365; 98%), <tt><a href="NumForm.html">NumForm</a>=Word</tt> (2365; 98%), <tt><a href="NumValue.html">NumValue</a>=1,2,3</tt> (1930; 80%), <tt><a href="Number.html">Number</a>=Plur</tt> (1262; 52%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (1247; 52%).
+The most frequent other feature values with which `NUM` and `Case` co-occurred: <tt><a href="NumForm.html">NumForm</a>=Word</tt> (2365; 98%), <tt><a href="NumType.html">NumType</a>=Card</tt> (2365; 98%), <tt><a href="NumValue.html">NumValue</a>=1,2,3</tt> (1930; 80%), <tt><a href="Number.html">Number</a>=Plur</tt> (1262; 52%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (1247; 52%).
 
 `NUM` tokens may have the following values of `Case`:
 
@@ -565,7 +565,7 @@ The most frequent other feature values with which `PRON` and `Case` co-occurred:
 
 275 [cs-pos/DET]() tokens (68% of all `DET` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `DET` and `Case` co-occurred: <tt><a href="Gender[psor].html">Gender[psor]</a>=EMPTY</tt> (261; 95%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (261; 95%), <tt><a href="Number[psor].html">Number[psor]</a>=EMPTY</tt> (261; 95%), <tt><a href="Poss.html">Poss</a>=EMPTY</tt> (243; 88%), <tt><a href="PronType.html">PronType</a>=Dem</tt> (233; 85%), <tt><a href="Number.html">Number</a>=Sing</tt> (188; 68%).
+The most frequent other feature values with which `DET` and `Case` co-occurred: <tt><a href="Number[psor].html">Number[psor]</a>=EMPTY</tt> (261; 95%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (261; 95%), <tt><a href="Gender[psor].html">Gender[psor]</a>=EMPTY</tt> (261; 95%), <tt><a href="Poss.html">Poss</a>=EMPTY</tt> (243; 88%), <tt><a href="PronType.html">PronType</a>=Dem</tt> (233; 85%), <tt><a href="Number.html">Number</a>=Sing</tt> (188; 68%).
 
 `DET` tokens may have the following values of `Case`:
 
@@ -593,7 +593,7 @@ The most frequent other feature values with which `DET` and `Case` co-occurred: 
 
 46 [cs-pos/NUM]() tokens (15% of all `NUM` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `NUM` and `Case` co-occurred: <tt><a href="NumForm.html">NumForm</a>=Word</tt> (46; 100%), <tt><a href="NumType.html">NumType</a>=Card</tt> (46; 100%), <tt><a href="NumValue.html">NumValue</a>=1,2,3</tt> (38; 83%), <tt><a href="Number.html">Number</a>=Sing</tt> (34; 74%).
+The most frequent other feature values with which `NUM` and `Case` co-occurred: <tt><a href="NumType.html">NumType</a>=Card</tt> (46; 100%), <tt><a href="NumForm.html">NumForm</a>=Word</tt> (46; 100%), <tt><a href="NumValue.html">NumValue</a>=1,2,3</tt> (38; 83%), <tt><a href="Number.html">Number</a>=Sing</tt> (34; 74%).
 
 `NUM` tokens may have the following values of `Case`:
 
@@ -617,7 +617,7 @@ The most frequent other feature values with which `NUM` and `Case` co-occurred: 
 
 2 [cs-pos/VERB]() tokens (0% of all `VERB` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `VERB` and `Case` co-occurred: <tt><a href="Person.html">Person</a>=EMPTY</tt> (2; 100%), <tt><a href="Voice.html">Voice</a>=Pass</tt> (2; 100%), <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (2; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (2; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (2; 100%), <tt><a href="Gender.html">Gender</a>=Fem</tt> (2; 100%), <tt><a href="Polarity.html">Polarity</a>=Pos</tt> (2; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (2; 100%).
+The most frequent other feature values with which `VERB` and `Case` co-occurred: <tt><a href="Polarity.html">Polarity</a>=Pos</tt> (2; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (2; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (2; 100%), <tt><a href="Voice.html">Voice</a>=Pass</tt> (2; 100%), <tt><a href="Gender.html">Gender</a>=Fem</tt> (2; 100%), <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (2; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (2; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (2; 100%).
 
 `VERB` tokens may have the following values of `Case`:
 
@@ -628,7 +628,7 @@ The most frequent other feature values with which `VERB` and `Case` co-occurred:
 
 1 [cs-pos/AUX]() tokens (0% of all `AUX` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `AUX` and `Case` co-occurred: <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (1; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (1; 100%), <tt><a href="Number.html">Number</a>=Plur</tt> (1; 100%), <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (1; 100%), <tt><a href="VerbForm.html">VerbForm</a>=EMPTY</tt> (1; 100%), <tt><a href="Polarity.html">Polarity</a>=Pos</tt> (1; 100%), <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (1; 100%).
+The most frequent other feature values with which `AUX` and `Case` co-occurred: <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (1; 100%), <tt><a href="Number.html">Number</a>=Plur</tt> (1; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (1; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (1; 100%), <tt><a href="Polarity.html">Polarity</a>=Pos</tt> (1; 100%), <tt><a href="VerbForm.html">VerbForm</a>=EMPTY</tt> (1; 100%), <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (1; 100%).
 
 `AUX` tokens may have the following values of `Case`:
 

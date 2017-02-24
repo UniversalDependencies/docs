@@ -16,7 +16,7 @@ The feature is used with 4 part-of-speech tags: [uk-pos/VERB]() (1277; 10% insta
 
 1277 [uk-pos/VERB]() tokens (82% of all `VERB` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (1192; 93%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (1192; 93%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (1011; 79%), <tt><a href="Aspect.html">Aspect</a>=Imp</tt> (856; 67%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (696; 55%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (666; 52%).
+The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="Mood.html">Mood</a>=Ind</tt> (1192; 93%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (1192; 93%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (1011; 79%), <tt><a href="Aspect.html">Aspect</a>=Imp</tt> (856; 67%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (696; 55%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (666; 52%).
 
 `VERB` tokens may have the following values of `Tense`:
 
@@ -41,7 +41,7 @@ The most frequent other feature values with which `VERB` and `Tense` co-occurred
 
 150 [uk-pos/AUX]() tokens (87% of all `AUX` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `AUX` and `Tense` co-occurred: <tt><a href="Aspect.html">Aspect</a>=Imp</tt> (150; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (149; 99%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (149; 99%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (129; 86%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (104; 69%).
+The most frequent other feature values with which `AUX` and `Tense` co-occurred: <tt><a href="Aspect.html">Aspect</a>=Imp</tt> (150; 100%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (149; 99%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (149; 99%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (129; 86%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (104; 69%).
 
 `AUX` tokens may have the following values of `Tense`:
 
@@ -66,7 +66,7 @@ The most frequent other feature values with which `AUX` and `Tense` co-occurred:
 
 4 [uk-pos/NOUN]() tokens (0% of all `NOUN` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `NOUN` and `Tense` co-occurred: <tt><a href="Number.html">Number</a>=Ptan</tt> (3; 75%), <tt><a href="Case.html">Case</a>=Gen</tt> (3; 75%), <tt><a href="Animacy.html">Animacy</a>=Anim</tt> (3; 75%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (3; 75%).
+The most frequent other feature values with which `NOUN` and `Tense` co-occurred: <tt><a href="Animacy.html">Animacy</a>=Anim</tt> (3; 75%), <tt><a href="Case.html">Case</a>=Gen</tt> (3; 75%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (3; 75%), <tt><a href="Number.html">Number</a>=Ptan</tt> (3; 75%).
 
 `NOUN` tokens may have the following values of `Tense`:
 
@@ -77,7 +77,7 @@ The most frequent other feature values with which `NOUN` and `Tense` co-occurred
 
 1 [uk-pos/ADJ]() tokens (0% of all `ADJ` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `ADJ` and `Tense` co-occurred: <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (1; 100%), <tt><a href="Voice.html">Voice</a>=Act</tt> (1; 100%), <tt><a href="Aspect.html">Aspect</a>=Imp</tt> (1; 100%), <tt><a href="Gender.html">Gender</a>=Fem</tt> (1; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (1; 100%), <tt><a href="Degree.html">Degree</a>=EMPTY</tt> (1; 100%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (1; 100%), <tt><a href="Case.html">Case</a>=Acc</tt> (1; 100%).
+The most frequent other feature values with which `ADJ` and `Tense` co-occurred: <tt><a href="Voice.html">Voice</a>=Act</tt> (1; 100%), <tt><a href="Case.html">Case</a>=Acc</tt> (1; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (1; 100%), <tt><a href="Aspect.html">Aspect</a>=Imp</tt> (1; 100%), <tt><a href="Gender.html">Gender</a>=Fem</tt> (1; 100%), <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (1; 100%), <tt><a href="Degree.html">Degree</a>=EMPTY</tt> (1; 100%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (1; 100%).
 
 `ADJ` tokens may have the following values of `Tense`:
 

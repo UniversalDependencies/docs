@@ -16,7 +16,7 @@ The feature is used with 2 part-of-speech tags: [got-pos/ADJ]() (211; 0% instanc
 
 211 [got-pos/ADJ]() tokens (5% of all `ADJ` tokens) have a non-empty value of `Reflex`.
 
-The most frequent other feature values with which `ADJ` and `Reflex` co-occurred: <tt><a href="Person.html">Person</a>=3</tt> (211; 100%), <tt><a href="Strength.html">Strength</a>=EMPTY</tt> (211; 100%), <tt><a href="Poss.html">Poss</a>=Yes</tt> (211; 100%), <tt><a href="Degree.html">Degree</a>=EMPTY</tt> (211; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (142; 67%).
+The most frequent other feature values with which `ADJ` and `Reflex` co-occurred: <tt><a href="Person.html">Person</a>=3</tt> (211; 100%), <tt><a href="Degree.html">Degree</a>=EMPTY</tt> (211; 100%), <tt><a href="Poss.html">Poss</a>=Yes</tt> (211; 100%), <tt><a href="Strength.html">Strength</a>=EMPTY</tt> (211; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (142; 67%).
 
 `ADJ` tokens may have the following values of `Reflex`:
 

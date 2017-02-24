@@ -116,7 +116,7 @@ The most frequent other feature values with which `PART` and `PronType` co-occur
 
 1 [uk-pos/AUX]() tokens (1% of all `AUX` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `AUX` and `PronType` co-occurred: <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (1; 100%), <tt><a href="Aspect.html">Aspect</a>=EMPTY</tt> (1; 100%), <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (1; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (1; 100%), <tt><a href="Number.html">Number</a>=Plur</tt> (1; 100%), <tt><a href="VerbForm.html">VerbForm</a>=EMPTY</tt> (1; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (1; 100%).
+The most frequent other feature values with which `AUX` and `PronType` co-occurred: <tt><a href="Aspect.html">Aspect</a>=EMPTY</tt> (1; 100%), <tt><a href="VerbForm.html">VerbForm</a>=EMPTY</tt> (1; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (1; 100%), <tt><a href="Number.html">Number</a>=Plur</tt> (1; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (1; 100%), <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (1; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (1; 100%).
 
 `AUX` tokens may have the following values of `PronType`:
 
@@ -126,8 +126,8 @@ The most frequent other feature values with which `AUX` and `PronType` co-occurr
 ## Relations with Agreement in `PronType`
 
 The 10 most frequent relations where parent and child node agree in `PronType`:
-<tt>PRON --[<a href="../dep/nmod.html">nmod</a>]--> PRON</tt> (2; 100%),
-<tt>PRON --[<a href="../dep/parataxis.html">parataxis</a>]--> PRON</tt> (2; 100%),
 <tt>ADV --[<a href="../dep/conj.html">conj</a>]--> ADV</tt> (2; 100%),
+<tt>PRON --[<a href="../dep/parataxis.html">parataxis</a>]--> PRON</tt> (2; 100%),
+<tt>PRON --[<a href="../dep/nmod.html">nmod</a>]--> PRON</tt> (2; 100%),
 <tt>PRON --[<a href="../dep/conj.html">conj</a>]--> ADV</tt> (1; 100%).
 

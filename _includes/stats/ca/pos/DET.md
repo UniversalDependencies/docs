@@ -13,7 +13,7 @@ The 10 most frequent `DET` types:  <em>la, el, l', les, els, un, una, aquest, se
 
 The 10 most frequent ambiguous lemmas: <em>el</em> ([DET]() 45934, [PRON]() 3), <em>un</em> ([DET]() 7780, [PRON]() 860, [NUM]() 280), <em>aquest</em> ([DET]() 2857, [PRON]() 181), <em>seu</em> ([DET]() 2590, [NOUN]() 73, [PRON]() 27, [ADJ]() 2), <em>tot</em> ([DET]() 803, [PRON]() 484, [ADV]() 39), <em>altre</em> ([DET]() 601, [PRON]() 245, [NOUN]() 3, [PROPN]() 1), <em>mateix</em> ([DET]() 356, [NOUN]() 60, [PRON]() 50, [ADV]() 18, [ADJ]() 1), <em>algun</em> ([DET]() 252, [PRON]() 126), <em>divers</em> ([DET]() 201, [ADJ]() 26, [PRON]() 2), <em>cap</em> ([NOUN]() 285, [DET]() 194, [PRON]() 19, [ADP]() 6, [PROPN]() 4)
 
-The 10 most frequent ambiguous types:  <em>la</em> ([DET]() 15380, [PRON]() 204), <em>el</em> ([DET]() 9017, [PRON]() 195), <em>l'</em> ([DET]() 7915, [PRON]() 153), <em>les</em> ([DET]() 4954, [PRON]() 100), <em>els</em> ([DET]() 3753, [PRON]() 223), <em>un</em> ([DET]() 4009, [PRON]() 540, [NUM]() 149), <em>una</em> ([DET]() 3278, [NUM]() 126, [PRON]() 97, [NOUN]() 2), <em>aquest</em> ([DET]() 1136, [PRON]() 45), <em>seva</em> ([DET]() 1086, [ADJ]() 2, [PRON]() 2, [NOUN]() 1), <em>aquesta</em> ([DET]() 890, [PRON]() 43, [PROPN]() 1)
+The 10 most frequent ambiguous types:  <em>la</em> ([DET]() 15380, [PRON]() 204), <em>el</em> ([DET]() 9017, [PRON]() 195), <em>l'</em> ([DET]() 7915, [PRON]() 153), <em>les</em> ([DET]() 4954, [PRON]() 100), <em>els</em> ([DET]() 3753, [PRON]() 223), <em>un</em> ([DET]() 4009, [PRON]() 540, [NUM]() 149), <em>una</em> ([DET]() 3278, [NUM]() 126, [PRON]() 97, [NOUN]() 2), <em>aquest</em> ([DET]() 1136, [PRON]() 45), <em>seva</em> ([DET]() 1086, [PRON]() 2, [ADJ]() 2, [NOUN]() 1), <em>aquesta</em> ([DET]() 890, [PRON]() 43, [PROPN]() 1)
 
 
 * <em>la</em>
@@ -45,8 +45,8 @@ The 10 most frequent ambiguous types:  <em>la</em> ([DET]() 15380, [PRON]() 204)
   * [PRON]() 45: <em>- Serà també assembleari , <b>aquest</b> ?</em>
 * <em>seva</em>
   * [DET]() 1086: <em>Com que no ho estava , va demanar el seu telèfon i la <b>seva</b> adreça .</em>
-  * [ADJ]() 2: <em>" Programa , programa , programa " , va dir Trias , fent <b>seva</b> una frase a què recorre habitualment Julio Anguita .</em>
   * [PRON]() 2: <em>La teoria és que una de les causes de la caiguda d' un 61% dels beneficis de BA el 1998 han estat les pèrdues de la <b>seva</b> subsidiària barata , que competeix directament amb easyJet en un segment del comerç aeri que fa tres anys ni existia .</em>
+  * [ADJ]() 2: <em>" Programa , programa , programa " , va dir Trias , fent <b>seva</b> una frase a què recorre habitualment Julio Anguita .</em>
   * [NOUN]() 1: <em>La gran part de les informacions , grans o petites , que els lectors de tot el món llegeixen al " seu " diari , escolten a la " seva " emissora de ràdio o veuen a la " seva " televisió procedeixen , no dels " seus " periodistes , sinó d' una agència de notícies , a la qual no poden dir <b>seva</b> perquè no saben ni que existeix , o si ho saben , no saben exactament a què es dedica .</em>
 * <em>aquesta</em>
   * [DET]() 890: <em>El trasplantat va morir , i <b>aquesta</b> pràctica va passar a ser tabú .</em>

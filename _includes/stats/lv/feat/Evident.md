@@ -17,7 +17,7 @@ The feature is used with 1 part-of-speech tags: [lv-pos/VERB]() (4292; 10% insta
 
 4292 [lv-pos/VERB]() tokens (60% of all `VERB` tokens) have a non-empty value of `Evident`.
 
-The most frequent other feature values with which `VERB` and `Evident` co-occurred: <tt><a href="Aspect.html">Aspect</a>=EMPTY</tt> (4292; 100%), <tt><a href="Voice.html">Voice</a>=Act</tt> (4292; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (4292; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (4292; 100%), <tt><a href="Degree.html">Degree</a>=EMPTY</tt> (4292; 100%), <tt><a href="Definite.html">Definite</a>=EMPTY</tt> (4292; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (4292; 100%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (4292; 100%), <tt><a href="Polarity.html">Polarity</a>=Pos</tt> (3783; 88%), <tt><a href="Reflex.html">Reflex</a>=EMPTY</tt> (3735; 87%).
+The most frequent other feature values with which `VERB` and `Evident` co-occurred: <tt><a href="Voice.html">Voice</a>=Act</tt> (4292; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (4292; 100%), <tt><a href="Degree.html">Degree</a>=EMPTY</tt> (4292; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (4292; 100%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (4292; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (4292; 100%), <tt><a href="Definite.html">Definite</a>=EMPTY</tt> (4292; 100%), <tt><a href="Aspect.html">Aspect</a>=EMPTY</tt> (4292; 100%), <tt><a href="Polarity.html">Polarity</a>=Pos</tt> (3783; 88%), <tt><a href="Reflex.html">Reflex</a>=EMPTY</tt> (3735; 87%).
 
 `VERB` tokens may have the following values of `Evident`:
 

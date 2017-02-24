@@ -13,7 +13,7 @@ The 10 most frequent `PRON` types:  <em>se, ga, jih, si, jo, mu, mi, kaj, kar, j
 
 The 10 most frequent ambiguous lemmas: <em>on</em> ([PRON]() 1401, [X]() 1), <em>jaz</em> ([PRON]() 442, [NOUN]() 2), <em>kaj</em> ([PRON]() 129, [ADV]() 18), <em>kar</em> ([PRON]() 129, [ADV]() 94), <em>nič</em> ([PRON]() 63, [ADV]() 16), <em>nekaj</em> ([DET]() 171, [PRON]() 60)
 
-The 10 most frequent ambiguous types:  <em>si</em> ([PRON]() 219, [AUX]() 23, [VERB]() 3), <em>jo</em> ([PRON]() 201, [X]() 1), <em>mu</em> ([PRON]() 143, [X]() 2), <em>kaj</em> ([PRON]() 95, [ADV]() 17), <em>kar</em> ([PRON]() 95, [ADV]() 85), <em>nekaj</em> ([DET]() 152, [PRON]() 53), <em>nič</em> ([PRON]() 41, [ADV]() 16), <em>vas</em> ([PRON]() 36, [NOUN]() 8), <em>ti</em> ([DET]() 14, [PRON]() 14), <em>te</em> ([DET]() 77, [PRON]() 14)
+The 10 most frequent ambiguous types:  <em>si</em> ([PRON]() 219, [AUX]() 23, [VERB]() 3), <em>jo</em> ([PRON]() 201, [X]() 1), <em>mu</em> ([PRON]() 143, [X]() 2), <em>kaj</em> ([PRON]() 95, [ADV]() 17), <em>kar</em> ([PRON]() 95, [ADV]() 85), <em>nekaj</em> ([DET]() 152, [PRON]() 53), <em>nič</em> ([PRON]() 41, [ADV]() 16), <em>vas</em> ([PRON]() 36, [NOUN]() 8), <em>ti</em> ([PRON]() 14, [DET]() 14), <em>te</em> ([DET]() 77, [PRON]() 14)
 
 
 * <em>si</em>
@@ -42,8 +42,8 @@ The 10 most frequent ambiguous types:  <em>si</em> ([PRON]() 219, [AUX]() 23, [V
   * [PRON]() 36: <em>Naj bo tako , čeprav <b>vas</b> nihče ne bo podpiral , in daleč boste prišli .</em>
   * [NOUN]() 8: <em>Z leti sem spoznal , da je Fara nenavadno zanimiva <b>vas</b> .</em>
 * <em>ti</em>
-  * [DET]() 14: <em>V zadnjih 20 letih so se <b>ti</b> cilji stalno spreminjali .</em>
   * [PRON]() 14: <em>» Oho , <b>ti</b> si pa poln keša ! « ga je občudujoče pogledala Karmen .</em>
+  * [DET]() 14: <em>V zadnjih 20 letih so se <b>ti</b> cilji stalno spreminjali .</em>
 * <em>te</em>
   * [DET]() 77: <em>Če <b>te</b> ne bi bilo , ne bi pomagal niti izredno ugoden splet okoliščin .</em>
   * [PRON]() 14: <em>Ne , če <b>te</b> hočejo pokončati , <b>te</b> bodo našli kjerkoli .</em>

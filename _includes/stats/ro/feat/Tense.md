@@ -76,7 +76,7 @@ The most frequent other feature values with which `AUX` and `Tense` co-occurred:
 
 5 [ro-pos/PART]() tokens (0% of all `PART` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `PART` and `Tense` co-occurred: <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (5; 100%), <tt><a href="PartType.html">PartType</a>=EMPTY</tt> (5; 100%), <tt><a href="Polarity.html">Polarity</a>=EMPTY</tt> (5; 100%).
+The most frequent other feature values with which `PART` and `Tense` co-occurred: <tt><a href="Polarity.html">Polarity</a>=EMPTY</tt> (5; 100%), <tt><a href="PartType.html">PartType</a>=EMPTY</tt> (5; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (5; 100%).
 
 `PART` tokens may have the following values of `Tense`:
 

@@ -16,7 +16,7 @@ The feature is used with 2 part-of-speech tags: [fr-pos/VERB]() (639; 1% instanc
 
 639 [fr-pos/VERB]() tokens (13% of all `VERB` tokens) have a non-empty value of `Voice`.
 
-The most frequent other feature values with which `VERB` and `Voice` co-occurred: <tt><a href="Person.html">Person</a>=EMPTY</tt> (639; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (639; 100%), <tt><a href="Tense.html">Tense</a>=Past</tt> (639; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (639; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (405; 63%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (395; 62%).
+The most frequent other feature values with which `VERB` and `Voice` co-occurred: <tt><a href="Person.html">Person</a>=EMPTY</tt> (639; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (639; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (639; 100%), <tt><a href="Tense.html">Tense</a>=Past</tt> (639; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (405; 63%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (395; 62%).
 
 `VERB` tokens may have the following values of `Voice`:
 
@@ -29,7 +29,7 @@ The most frequent other feature values with which `VERB` and `Voice` co-occurred
 
 18 [fr-pos/AUX]() tokens (1% of all `AUX` tokens) have a non-empty value of `Voice`.
 
-The most frequent other feature values with which `AUX` and `Voice` co-occurred: <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (18; 100%), <tt><a href="Tense.html">Tense</a>=Past</tt> (18; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (18; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (18; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (15; 83%).
+The most frequent other feature values with which `AUX` and `Voice` co-occurred: <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (18; 100%), <tt><a href="Tense.html">Tense</a>=Past</tt> (18; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (18; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (18; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (15; 83%).
 
 `AUX` tokens may have the following values of `Voice`:
 

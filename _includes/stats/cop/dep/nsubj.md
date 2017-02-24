@@ -6,12 +6,12 @@
 
 This relation is universal.
 
-933 nodes (11%) are attached to their parents as `nsubj`.
+932 nodes (11%) are attached to their parents as `nsubj`.
 
-836 instances of `nsubj` (90%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.29796355841372.
+835 instances of `nsubj` (90%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.29613733905579.
 
-The following 22 pairs of parts of speech are connected with `nsubj`: [cop-pos/VERB]()-[cop-pos/PRON]() (756; 81% instances), [cop-pos/VERB]()-[cop-pos/NOUN]() (96; 10% instances), [cop-pos/NOUN]()-[cop-pos/PRON]() (16; 2% instances), [cop-pos/PRON]()-[cop-pos/DET]() (11; 1% instances), [cop-pos/VERB]()-[cop-pos/PROPN]() (11; 1% instances), [cop-pos/PRON]()-[cop-pos/NOUN]() (10; 1% instances), [cop-pos/DET]()-[cop-pos/NOUN]() (7; 1% instances), [cop-pos/VERB]()-[cop-pos/DET]() (5; 1% instances), [cop-pos/NOUN]()-[cop-pos/NOUN]() (4; 0% instances), [cop-pos/PRON]()-[cop-pos/PRON]() (3; 0% instances), [cop-pos/DET]()-[cop-pos/DET]() (2; 0% instances), [cop-pos/VERB]()-[cop-pos/NUM]() (2; 0% instances), [cop-pos/ADV]()-[cop-pos/PRON]() (1; 0% instances), [cop-pos/DET]()-[cop-pos/PRON]() (1; 0% instances), [cop-pos/NOUN]()-[cop-pos/ADP]() (1; 0% instances), [cop-pos/NOUN]()-[cop-pos/DET]() (1; 0% instances), [cop-pos/NUM]()-[cop-pos/PRON]() (1; 0% instances), [cop-pos/PART]()-[cop-pos/NOUN]() (1; 0% instances), [cop-pos/PART]()-[cop-pos/NUM]() (1; 0% instances), [cop-pos/PROPN]()-[cop-pos/ADP]() (1; 0% instances), [cop-pos/PROPN]()-[cop-pos/DET]() (1; 0% instances), [cop-pos/PROPN]()-[cop-pos/NOUN]() (1; 0% instances).
+The following 22 pairs of parts of speech are connected with `nsubj`: [cop-pos/VERB]()-[cop-pos/PRON]() (756; 81% instances), [cop-pos/VERB]()-[cop-pos/NOUN]() (96; 10% instances), [cop-pos/NOUN]()-[cop-pos/PRON]() (15; 2% instances), [cop-pos/PRON]()-[cop-pos/DET]() (11; 1% instances), [cop-pos/VERB]()-[cop-pos/PROPN]() (11; 1% instances), [cop-pos/PRON]()-[cop-pos/NOUN]() (10; 1% instances), [cop-pos/DET]()-[cop-pos/NOUN]() (7; 1% instances), [cop-pos/VERB]()-[cop-pos/DET]() (5; 1% instances), [cop-pos/NOUN]()-[cop-pos/NOUN]() (4; 0% instances), [cop-pos/PRON]()-[cop-pos/PRON]() (3; 0% instances), [cop-pos/DET]()-[cop-pos/DET]() (2; 0% instances), [cop-pos/VERB]()-[cop-pos/NUM]() (2; 0% instances), [cop-pos/ADV]()-[cop-pos/PRON]() (1; 0% instances), [cop-pos/DET]()-[cop-pos/PRON]() (1; 0% instances), [cop-pos/NOUN]()-[cop-pos/ADP]() (1; 0% instances), [cop-pos/NOUN]()-[cop-pos/DET]() (1; 0% instances), [cop-pos/NUM]()-[cop-pos/PRON]() (1; 0% instances), [cop-pos/PART]()-[cop-pos/NOUN]() (1; 0% instances), [cop-pos/PART]()-[cop-pos/NUM]() (1; 0% instances), [cop-pos/PROPN]()-[cop-pos/ADP]() (1; 0% instances), [cop-pos/PROPN]()-[cop-pos/DET]() (1; 0% instances), [cop-pos/PROPN]()-[cop-pos/NOUN]() (1; 0% instances).
 
 
 ~~~ conllu
@@ -64,18 +64,36 @@ The following 22 pairs of parts of speech are connected with `nsubj`: [cop-pos/V
 
 
 ~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 7 4 nsubj	color:blue
-1	ⲁ	ⲁ	AUX	APST	_	3	aux	_	_
-2	ϥ	ⲛⲧⲟϥ	PRON	PPERS	_	3	nsubj	_	_
-3	ⲁϩⲉⲣⲁⲧ	ⲱϩⲉ	VERB	V	_	0	root	_	_
-4	ϥ	ⲛⲧⲟϥ	PRON	PPERS	_	7	nsubj	_	_
-5	ⲉ	ⲉ	ADP	PREP	_	7	case	_	_
-6	ⲡⲉ	ⲡ	DET	ART	_	7	det	_	_
-7	ϣⲗⲏⲗ	ϣⲗⲏⲗ	NOUN	N	_	3	obl	_	_
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 2 nsubj	color:blue
+1	ⲛⲉ	ⲛⲉⲣⲉ	AUX	CPRET	_	5	mark	_	_
+2	ⲥ	ⲛⲧⲟⲥ	PRON	PPERS	_	5	nsubj	_	_
+3	ⲙ	ⲛ	ADP	PREP	_	5	case	_	_
+4	ⲡ	ⲡ	DET	ART	_	5	det	_	_
+5	ⲙⲁ	ⲙⲁ	NOUN	N	_	0	root	_	_
+6	ⲇⲉ	ⲇⲉ	PART	PTC	_	5	advmod	_	_
+7	ⲉⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	8	mark	_	_
+8	ⲙⲙⲁⲩ	ⲙⲙⲁⲩ	ADV	ADV	_	5	acl	_	_
+9	ϩⲁⲣⲁⲧ	ϩⲁⲣⲁⲧ	ADP	PREP	_	10	case	_	_
+10	ϥ	ⲛⲧⲟϥ	PRON	PPERO	_	5	nmod	_	_
+11	ⲙ	ⲛ	ADP	PREP	_	13	case	_	_
+12	ⲡ	ⲡ	DET	ART	_	13	det	_	_
+13	ⲧⲟⲟⲩ	ⲧⲟⲟⲩ	NOUN	N	_	5	nmod	_	_
+14	ⲛϭⲓ	ⲛϭⲓ	PART	PTC	_	16	case	_	_
+15	ⲟⲩ	ⲟⲩ	DET	ART	_	16	det	_	_
+16	ⲛⲟϭ	ⲛⲟϭ	NOUN	N	_	5	dislocated	_	_
+17	ⲛ	ⲛ	ADP	PREP	_	18	case	_	_
+18	ⲁⲅⲉⲗⲏ	ⲁⲅⲉⲗⲏ	NOUN	N	_	16	nmod	_	_
+19	ⲛ	ⲛ	ADP	PREP	_	20	case	_	_
+20	ⲣⲓⲣ	ⲣⲓⲣ	NOUN	N	_	18	nmod	_	_
+21	ⲉ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	23	mark	_	_
+22	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	_	23	nsubj	_	_
+23	ⲙⲟⲟⲛⲉ	ⲙⲟⲟⲛⲉ	VERB	V	_	20	acl	_	_
+24	ⲙⲙⲟ	ⲛ	ADP	PREP	_	25	case	_	_
+25	ⲥ	ⲛⲧⲟⲥ	PRON	PPERO	_	23	obj	_	_
 
 ~~~
 

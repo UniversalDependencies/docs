@@ -16,7 +16,7 @@ The feature is used with 2 part-of-speech tags: [ur-pos/X]() (7; 0% instances), 
 
 7 [ur-pos/X]() tokens (32% of all `X` tokens) have a non-empty value of `Foreign`.
 
-The most frequent other feature values with which `X` and `Foreign` co-occurred: <tt><a href="Person.html">Person</a>=EMPTY</tt> (7; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (7; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (7; 100%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (7; 100%).
+The most frequent other feature values with which `X` and `Foreign` co-occurred: <tt><a href="Case.html">Case</a>=EMPTY</tt> (7; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (7; 100%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (7; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (7; 100%).
 
 `X` tokens may have the following values of `Foreign`:
 
@@ -26,7 +26,7 @@ The most frequent other feature values with which `X` and `Foreign` co-occurred:
 
 1 [ur-pos/NOUN]() tokens (0% of all `NOUN` tokens) have a non-empty value of `Foreign`.
 
-The most frequent other feature values with which `NOUN` and `Foreign` co-occurred: <tt><a href="Person.html">Person</a>=EMPTY</tt> (1; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (1; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (1; 100%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (1; 100%).
+The most frequent other feature values with which `NOUN` and `Foreign` co-occurred: <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (1; 100%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (1; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (1; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (1; 100%).
 
 `NOUN` tokens may have the following values of `Foreign`:
 

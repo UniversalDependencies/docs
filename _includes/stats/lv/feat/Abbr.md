@@ -16,7 +16,7 @@ The feature is used with 2 part-of-speech tags: [lv-pos/PROPN]() (277; 1% instan
 
 277 [lv-pos/PROPN]() tokens (15% of all `PROPN` tokens) have a non-empty value of `Abbr`.
 
-The most frequent other feature values with which `PROPN` and `Abbr` co-occurred: <tt><a href="Case.html">Case</a>=EMPTY</tt> (277; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (277; 100%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (277; 100%).
+The most frequent other feature values with which `PROPN` and `Abbr` co-occurred: <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (277; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (277; 100%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (277; 100%).
 
 `PROPN` tokens may have the following values of `Abbr`:
 

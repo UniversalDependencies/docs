@@ -16,7 +16,7 @@ The feature is used with 3 part-of-speech tags: [ur-pos/AUX]() (4455; 4% instanc
 
 4455 [ur-pos/AUX]() tokens (49% of all `AUX` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `AUX` and `Tense` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (4455; 100%), <tt><a href="Aspect.html">Aspect</a>=EMPTY</tt> (4455; 100%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (4455; 100%), <tt><a href="Person.html">Person</a>=3</tt> (3788; 85%), <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (3420; 77%), <tt><a href="Number.html">Number</a>=Sing</tt> (3341; 75%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (3019; 68%).
+The most frequent other feature values with which `AUX` and `Tense` co-occurred: <tt><a href="Aspect.html">Aspect</a>=EMPTY</tt> (4455; 100%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (4455; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (4455; 100%), <tt><a href="Person.html">Person</a>=3</tt> (3788; 85%), <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (3420; 77%), <tt><a href="Number.html">Number</a>=Sing</tt> (3341; 75%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (3019; 68%).
 
 `AUX` tokens may have the following values of `Tense`:
 
@@ -31,7 +31,7 @@ The most frequent other feature values with which `AUX` and `Tense` co-occurred:
   <tr><td><tt><a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3|<a href="Polite.html">Polite</a>=Form</tt></td><td>ہیں</td><td></td></tr>
   <tr><td><tt><a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3|<a href="Polite.html">Polite</a>=Form|<a href="Voice.html">Voice</a>=Act</tt></td><td>ہیں</td><td></td></tr>
   <tr><td><tt><a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3</tt></td><td>ہے, ہیں</td><td></td></tr>
-  <tr><td><tt><a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3|<a href="Voice.html">Voice</a>=Act</tt></td><td>ہے, ہیں</td><td></td></tr>
+  <tr><td><tt><a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3|<a href="Voice.html">Voice</a>=Act</tt></td><td>ہیں, ہے</td><td></td></tr>
   <tr><td><tt><a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Sing</tt></td><td>ہیں, ہے</td><td></td></tr>
   <tr><td><tt><a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Sing|<a href="Voice.html">Voice</a>=Act</tt></td><td>ہیں</td><td></td></tr>
   <tr><td><tt><a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=3</tt></td><td>ہیں, ہےں</td><td></td></tr>
@@ -53,7 +53,7 @@ The most frequent other feature values with which `AUX` and `Tense` co-occurred:
   <tr><td><tt><a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3|<a href="Polite.html">Polite</a>=Form</tt></td><td>ہیں, ہےں</td><td></td></tr>
   <tr><td><tt><a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3|<a href="Polite.html">Polite</a>=Form|<a href="Voice.html">Voice</a>=Act</tt></td><td>ہیں, ہےں</td><td>ہوں_گے</td></tr>
   <tr><td><tt><a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3</tt></td><td>ہے, ہےں, ہیں, ہوں</td><td></td></tr>
-  <tr><td><tt><a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3|<a href="Voice.html">Voice</a>=Act</tt></td><td>ہے, ہےں, ہیں, ہوں</td><td>ہوں_گے, ہوںگے</td></tr>
+  <tr><td><tt><a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3|<a href="Voice.html">Voice</a>=Act</tt></td><td>ہے, ہےں, ہیں, ہوں</td><td>ہوںگے, ہوں_گے</td></tr>
   <tr><td><tt><a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3|<a href="Voice.html">Voice</a>=Pass</tt></td><td>ہے</td><td></td></tr>
   <tr><td><tt><a href="Number.html">Number</a>=Sing</tt></td><td>ہے, ہےں, ہوں</td><td></td></tr>
   <tr><td><tt><a href="Number.html">Number</a>=Sing|<a href="Voice.html">Voice</a>=Act</tt></td><td>ہے</td><td></td></tr>
@@ -95,8 +95,8 @@ The most frequent other feature values with which `VERB` and `Tense` co-occurred
   <tr><td><tt><a href="Gender.html">Gender</a>=Fem|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3|<a href="Voice.html">Voice</a>=Act</tt></td><td></td><td>ہوں_گی</td></tr>
   <tr><td><tt><a href="Gender.html">Gender</a>=Fem|<a href="Number.html">Number</a>=Sing|<a href="Voice.html">Voice</a>=Act</tt></td><td></td><td>ہوگی</td></tr>
   <tr><td><tt><a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3|<a href="Polite.html">Polite</a>=Form|<a href="Voice.html">Voice</a>=Act</tt></td><td></td><td>ہوں_گے</td></tr>
-  <tr><td><tt><a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3|<a href="Voice.html">Voice</a>=Act</tt></td><td></td><td>ہونگے, ہوں_گے</td></tr>
-  <tr><td><tt><a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=3|<a href="Voice.html">Voice</a>=Act</tt></td><td></td><td>ہونگے, ہوگی, ہوں_گے</td></tr>
+  <tr><td><tt><a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3|<a href="Voice.html">Voice</a>=Act</tt></td><td></td><td>ہوں_گے, ہونگے</td></tr>
+  <tr><td><tt><a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=3|<a href="Voice.html">Voice</a>=Act</tt></td><td></td><td>ہونگے, ہوں_گے, ہوگی</td></tr>
   <tr><td><tt><a href="Voice.html">Voice</a>=Act</tt></td><td>ہو</td><td></td></tr>
 </table>
 
@@ -106,7 +106,7 @@ The most frequent other feature values with which `VERB` and `Tense` co-occurred
 
 1 [ur-pos/PROPN]() tokens (0% of all `PROPN` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `PROPN` and `Tense` co-occurred: <tt><a href="Case.html">Case</a>=EMPTY</tt> (1; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (1; 100%), <tt><a href="Person.html">Person</a>=3</tt> (1; 100%), <tt><a href="Number.html">Number</a>=Plur</tt> (1; 100%).
+The most frequent other feature values with which `PROPN` and `Tense` co-occurred: <tt><a href="Number.html">Number</a>=Plur</tt> (1; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (1; 100%), <tt><a href="Person.html">Person</a>=3</tt> (1; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (1; 100%).
 
 `PROPN` tokens may have the following values of `Tense`:
 

@@ -61,48 +61,63 @@ The following 9 pairs of parts of speech are connected with `dislocated`: [he-po
 
 
 ~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 11	bgColor:blue
-# visual-style 11	fgColor:white
-# visual-style 11 2 dislocated	color:blue
-1	"	_	PUNCT	PUNCT	_	11	punct	_	_
-2	זה	זה	PRON	PRON	Gender=Masc|Number=Sing|Person=3	11	dislocated	_	_
-3	ש	ש	SCONJ	SCONJ	_	6	mark	_	_
-4	מכבי	מכבי	PROPN	PROPN	_	6	nsubj	_	_
-5	כבר	כבר	ADV	ADV	_	6	advmod	_	_
-6	נוצח	נוצח	VERB	VERB	Gender=Masc|HebBinyan=PUAL|Number=Sing|Person=3|Tense=Past|Voice=Pass	2	acl:relcl	_	_
-7	ב	ב	ADP	ADP	_	9	case	_	_
-8	שני	שניים	NUM	NUM	Definite=Cons|Gender=Masc|Number=Plur	9	nummod	_	_
-9	משחקים	משחק	NOUN	NOUN	Gender=Masc|Number=Plur	6	obl	_	_
-10	,	_	PUNCT	PUNCT	_	11	punct	_	_
-11	אין	אין	AUX	AUX	VerbType=Mod	35	ccomp	_	_
-12	בו	ב	ADP	ADP	_	13	case	_	_
-13	_הוא	הוא	PRON	PRON	Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	obl	_	_
-14	לטשטש	טשטש	VERB	VERB	HebBinyan=PIEL|VerbForm=Inf|Voice=Act	11	xcomp	_	_
-15	את	את	PART	PART	Case=Acc	17	case:acc	_	_
-16	ה	ה	DET	DET	PronType=Art	17	det:def	_	_
-17	עובדה	עובדה	NOUN	NOUN	Gender=Fem|Number=Sing	14	obj	_	_
-18	ש	ש	SCONJ	SCONJ	_	24	mark	_	_
-19	ה	ה	DET	DET	PronType=Art	20	det:def	_	_
-20	פועל	פועל	NOUN	NOUN	Gender=Masc|Number=Sing	24	nsubj	_	_
-21	ירושלים	ירושלים	PROPN	PROPN	_	20	flat:name	_	_
-22	היה	היה	VERB	VERB	Gender=Masc|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbType=Cop	24	aux	_	_
-23	ה	ה	DET	DET	PronType=Art	24	det:def	_	_
-24	בולט	בולט	ADJ	ADJ	Gender=Masc|Number=Sing	17	acl:relcl	_	_
-25	ב	ב	ADP	ADP	_	27	case	_	_
-26	ה_	ה	DET	DET	PronType=Art	27	det:def	_	_
-27	ליגה	ליגה	NOUN	NOUN	Gender=Fem|Number=Sing	24	advmod	_	_
-28	ו	ו	CCONJ	CCONJ	_	32	cc	_	_
-29	מקום_	מקום	NOUN	NOUN	Definite=Def|Gender=Masc|Number=Sing	32	nsubj	_	_
-30	_של_	של	ADP	ADP	_	31	case:gen	_	_
-31	_הוא	הוא	PRON	PRON	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	29	nmod:poss	_	_
-32	מוצדק	הוצדק	VERB	VERB	Gender=Masc|HebBinyan=HUFAL|Number=Sing|Person=1,2,3|VerbForm=Part|Voice=Pass	24	conj	_	_
-33	"	_	PUNCT	PUNCT	_	11	punct	_	_
-34	,	_	PUNCT	PUNCT	_	35	punct	_	_
-35	אומר	אמר	VERB	VERB	Gender=Masc|HebBinyan=PAAL|Number=Sing|Person=1,2,3|VerbForm=Part|Voice=Act	0	root	_	_
-36	שרף	שרף	NOUN	NOUN	Gender=Masc|Number=Sing	35	nsubj	_	_
-37	.	_	PUNCT	PUNCT	_	35	punct	_	_
+# visual-style 30	bgColor:blue
+# visual-style 30	fgColor:white
+# visual-style 41	bgColor:blue
+# visual-style 41	fgColor:white
+# visual-style 41 30 dislocated	color:blue
+1	היה	היה	VERB	VERB	Gender=Masc|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbType=Cop	4	aux	_	_
+2	זה	זה	PRON	PRON	Gender=Masc|Number=Sing|Person=3	4	nsubj	_	_
+3	בלתי	בלתי	ADV	ADV	Prefix=Yes	4	advmod	_	_
+4	נמנע	נמנע	VERB	VERB	Gender=Masc|HebBinyan=NIFAL|Number=Sing|Person=1,2,3|VerbForm=Part|Voice=Mid	0	root	_	_
+5	ש	ש	SCONJ	SCONJ	_	13	mark	_	_
+6	ב	ב	ADP	ADP	_	7	case	_	_
+7	פני	פנים	NOUN	NOUN	Definite=Cons|Gender=Fem,Masc|Number=Plur	13	obl	_	_
+8	חלק	חלק	NOUN	NOUN	Gender=Masc|Number=Sing	7	compound:smixut	_	_
+9	זה	זה	PRON	PRON	Gender=Masc|Number=Sing|Person=3|PronType=Dem	8	amod	_	_
+10	של	של	PART	PART	Case=Gen	12	case:gen	_	_
+11	ה	ה	DET	DET	PronType=Art	12	det:def	_	_
+12	ציבור	ציבור	NOUN	NOUN	Gender=Masc|Number=Sing	8	nmod	_	_
+13	תעמוד	עמד	VERB	VERB	Gender=Fem|HebBinyan=PAAL|Number=Sing|Person=3|Tense=Fut|Voice=Act	4	acl	_	_
+14	ברירה	ברירה	NOUN	NOUN	Gender=Fem|Number=Sing	13	nsubj	_	_
+15	אכזרית	אכזרי	ADJ	ADJ	Gender=Fem|Number=Sing	14	amod	_	_
+16	,	_	PUNCT	PUNCT	_	14	punct	_	_
+17	ה	ה	SCONJ	SCONJ	_	18	mark	_	_
+18	מוצאת	מצא	VERB	VERB	Gender=Fem|Number=Sing|Person=1,2,3|VerbForm=Part	14	acl:relcl	_	_
+19	יום	יום	NOUN	NOUN	Gender=Masc|Number=Sing	18	dep	_	_
+20	-	_	PUNCT	PUNCT	_	19	punct	_	_
+21	יום	יום	NOUN	NOUN	Gender=Masc|Number=Sing	19	nmod	_	_
+22	את	את	PART	PART	Case=Acc	23	case:acc	_	_
+23	חיזוק_	חיזוק	NOUN	NOUN	Definite=Def|Gender=Masc|Number=Sing	18	obj	_	_
+24	_של_	של	ADP	ADP	_	25	case:gen	_	_
+25	_היא	הוא	PRON	PRON	Case=Gen|Gender=Fem|Number=Sing|Person=3|PronType=Prs	23	nmod:poss	_	_
+26	ב	ב	ADP	ADP	_	28	case	_	_
+27	ה_	ה	DET	DET	PronType=Art	28	det:def	_	_
+28	מציאות	מציאות	NOUN	NOUN	Gender=Fem|Number=Sing	18	obl	_	_
+29	:	_	PUNCT	PUNCT	_	4	punct	_	_
+30	המשך_	המשך	NOUN	NOUN	Definite=Def|Gender=Masc|Number=Sing	41	dislocated	_	_
+31	_של_	של	ADP	ADP	_	32	case:gen	_	_
+32	_הוא	הוא	PRON	PRON	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	30	nmod:poss	_	_
+33	של	של	PART	PART	Case=Gen	35	case:gen	_	_
+34	ה	ה	DET	DET	PronType=Art	35	det:def	_	_
+35	מצב	מצב	NOUN	NOUN	Gender=Masc|Number=Sing	30	nmod:poss	_	_
+36	ה	ה	DET	DET	PronType=Art	37	det:def	_	_
+37	קיים	קיים	ADJ	ADJ	Gender=Masc|Number=Sing	35	amod	_	_
+38	משמע_	משמע	NOUN	NOUN	Definite=Def|Gender=Masc|Number=Sing	41	nsubj	_	_
+39	_של_	של	ADP	ADP	_	40	case:gen	_	_
+40	_הוא	הוא	PRON	PRON	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	38	nmod:poss	_	_
+41	מלחמה	מלחמה	NOUN	NOUN	Gender=Fem|Number=Sing	4	conj:discourse	_	_
+42	יום	יום	NOUN	NOUN	Gender=Masc|Number=Sing	41	amod	_	_
+43	-	_	PUNCT	PUNCT	_	42	punct	_	_
+44	יומית	יומי	ADJ	ADJ	Gender=Fem|Number=Sing	42	dep	_	_
+45	ב	ב	ADP	ADP	_	47	case	_	_
+46	כל	כול	DET	DET	Definite=Cons	47	det	_	_
+47	חצר	חצר	NOUN	NOUN	Gender=Fem|Number=Sing	41	nmod	_	_
+48	,	_	PUNCT	PUNCT	_	41	punct	_	_
+49	ב	ב	ADP	ADP	_	51	case	_	_
+50	כל	כול	DET	DET	Definite=Cons	51	det	_	_
+51	סופרמרקט	סופרמרקט	NOUN	NOUN	Gender=Masc|Number=Sing	41	nmod	_	_
+52	.	_	PUNCT	PUNCT	_	4	punct	_	_
 
 ~~~
 

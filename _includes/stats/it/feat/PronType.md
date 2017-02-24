@@ -88,8 +88,8 @@ The most frequent other feature values with which `ADJ` and `PronType` co-occurr
 The 10 most frequent relations where parent and child node agree in `PronType`:
 <tt>PRON --[<a href="../dep/conj.html">conj</a>]--> PRON</tt> (32; 82%),
 <tt>DET --[<a href="../dep/conj.html">conj</a>]--> DET</tt> (2; 100%),
-<tt>PRON --[<a href="../dep/orphan.html">orphan</a>]--> PRON</tt> (1; 100%),
-<tt>PRON --[<a href="../dep/expl.html">expl</a>]--> PRON</tt> (1; 100%).
+<tt>PRON --[<a href="../dep/expl.html">expl</a>]--> PRON</tt> (1; 100%),
+<tt>PRON --[<a href="../dep/orphan.html">orphan</a>]--> PRON</tt> (1; 100%).
 
 
 

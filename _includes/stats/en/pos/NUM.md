@@ -11,9 +11,9 @@ The 10 most frequent `NUM` lemmas: <em>one, two, 2, 3, 5, 1, 4, 10, three, 6</em
 
 The 10 most frequent `NUM` types:  <em>one, two, 2, 3, 5, 1, 4, 10, three, 6</em>
 
-The 10 most frequent ambiguous lemmas: <em>one</em> ([NUM]() 415, [NOUN]() 127, [PRON]() 25, [VERB]() 1), <em>2</em> ([NUM]() 139, [X]() 30, [PROPN]() 1, [PART]() 1), <em>3</em> ([NUM]() 116, [X]() 17, [NOUN]() 1), <em>5</em> ([NUM]() 103, [X]() 4), <em>1</em> ([NUM]() 101, [X]() 31), <em>4</em> ([NUM]() 93, [X]() 13, [ADP]() 1), <em>10</em> ([NUM]() 89, [X]() 2), <em>6</em> ([NUM]() 59, [X]() 2), <em>20</em> ([NUM]() 58, [NOUN]() 5), <em>m</em> ([NUM]() 46, [NOUN]() 17, [PROPN]() 2)
+The 10 most frequent ambiguous lemmas: <em>one</em> ([NUM]() 415, [NOUN]() 127, [PRON]() 25, [VERB]() 1), <em>2</em> ([NUM]() 139, [X]() 30, [PART]() 1, [PROPN]() 1), <em>3</em> ([NUM]() 116, [X]() 17, [NOUN]() 1), <em>5</em> ([NUM]() 103, [X]() 4), <em>1</em> ([NUM]() 101, [X]() 31), <em>4</em> ([NUM]() 93, [X]() 13, [ADP]() 1), <em>10</em> ([NUM]() 89, [X]() 2), <em>6</em> ([NUM]() 59, [X]() 2), <em>20</em> ([NUM]() 58, [NOUN]() 5), <em>m</em> ([NUM]() 46, [NOUN]() 17, [PROPN]() 2)
 
-The 10 most frequent ambiguous types:  <em>one</em> ([NUM]() 368, [NOUN]() 88, [PRON]() 22), <em>2</em> ([NUM]() 139, [X]() 30, [PART]() 1, [PROPN]() 1), <em>3</em> ([NUM]() 116, [X]() 17), <em>5</em> ([NUM]() 103, [X]() 4), <em>1</em> ([NUM]() 101, [X]() 31), <em>4</em> ([NUM]() 93, [X]() 13, [ADP]() 1), <em>10</em> ([NUM]() 89, [X]() 2), <em>6</em> ([NUM]() 59, [X]() 2), <em>20</em> ([NUM]() 58, [NOUN]() 3), <em>m</em> ([NUM]() 41, [AUX]() 20, [NOUN]() 11, [PROPN]() 2, [VERB]() 1)
+The 10 most frequent ambiguous types:  <em>one</em> ([NUM]() 368, [NOUN]() 88, [PRON]() 22), <em>2</em> ([NUM]() 139, [X]() 30, [PROPN]() 1, [PART]() 1), <em>3</em> ([NUM]() 116, [X]() 17), <em>5</em> ([NUM]() 103, [X]() 4), <em>1</em> ([NUM]() 101, [X]() 31), <em>4</em> ([NUM]() 93, [X]() 13, [ADP]() 1), <em>10</em> ([NUM]() 89, [X]() 2), <em>6</em> ([NUM]() 59, [X]() 2), <em>20</em> ([NUM]() 58, [NOUN]() 3), <em>m</em> ([NUM]() 41, [AUX]() 20, [NOUN]() 11, [PROPN]() 2, [VERB]() 1)
 
 
 * <em>one</em>
@@ -23,8 +23,8 @@ The 10 most frequent ambiguous types:  <em>one</em> ([NUM]() 368, [NOUN]() 88, [
 * <em>2</em>
   * [NUM]() 139: <em>Analyst Team <b>2</b> : Coach : Doug Sewell</em>
   * [X]() 30: <em>* <b>2</b> . The second ingredient is words , more precisely lies . *</em>
-  * [PART]() 1: <em>hi everyone .... just hav my hands on my new OLYMPUS X940 digital camera .. wel , i always wanted <b>2</b> hav one by sony .. but anyways , ended up having olympus X940 from my dad ....... does any1 already has it ?</em>
   * [PROPN]() 1: <em>and it seems this is the FIRST site of ragnarok <b>2</b> hahaha since the site is new send me your suggestions and comments</em>
+  * [PART]() 1: <em>hi everyone .... just hav my hands on my new OLYMPUS X940 digital camera .. wel , i always wanted <b>2</b> hav one by sony .. but anyways , ended up having olympus X940 from my dad ....... does any1 already has it ?</em>
 * <em>3</em>
   * [NUM]() 116: <em><b>3</b> TO 4 DAYS if you are lucky on average it takes about 6 days .</em>
   * [X]() 17: <em>* <b>3</b> . The third aspect is money . *</em>

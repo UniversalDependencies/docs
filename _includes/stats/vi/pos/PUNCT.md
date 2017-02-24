@@ -11,7 +11,7 @@ The 10 most frequent `PUNCT` lemmas: <em>., ,, ", :, ..., ?, -, !, LBKT, RBKT</e
 
 The 10 most frequent `PUNCT` types:  <em>., ,, ", :, ..., ?, -, !, LBKT, RBKT</em>
 
-The 10 most frequent ambiguous lemmas: <em>photo</em> ([PUNCT]() 1, [VERB]() 1)
+The 10 most frequent ambiguous lemmas: <em>photo</em> ([VERB]() 1, [PUNCT]() 1)
 
 The 10 most frequent ambiguous types:  <em>photo</em> ([VERB]() 1, [PUNCT]() 1)
 

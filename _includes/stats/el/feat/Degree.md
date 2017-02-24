@@ -16,7 +16,7 @@ The feature is used with 2 part-of-speech tags: [el-pos/ADJ]() (181; 0% instance
 
 181 [el-pos/ADJ]() tokens (4% of all `ADJ` tokens) have a non-empty value of `Degree`.
 
-The most frequent other feature values with which `ADJ` and `Degree` co-occurred: <tt><a href="Number.html">Number</a>=Sing</tt> (93; 51%), <tt><a href="Gender.html">Gender</a>=Fem</tt> (91; 50%), <tt><a href="Case.html">Case</a>=Acc</tt> (91; 50%).
+The most frequent other feature values with which `ADJ` and `Degree` co-occurred: <tt><a href="Number.html">Number</a>=Sing</tt> (93; 51%), <tt><a href="Case.html">Case</a>=Acc</tt> (91; 50%), <tt><a href="Gender.html">Gender</a>=Fem</tt> (91; 50%).
 
 `ADJ` tokens may have the following values of `Degree`:
 

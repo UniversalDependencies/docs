@@ -13,7 +13,7 @@ The 10 most frequent `PROPN` types:  <em>Gaeilge, Seán, Fraince, Átha, Éirinn
 
 The 10 most frequent ambiguous lemmas: <em>Cliath</em> ([PROPN]() 5, [NOUN]() 1), <em>Éireannach</em> ([PROPN]() 4, [ADJ]() 1), <em>Gearmáin</em> ([PROPN]() 3, [NOUN]() 1), <em>Eaglais</em> ([PROPN]() 2, [NOUN]() 1), <em>Muire</em> ([PROPN]() 2, [NOUN]() 1), <em>mí</em> ([NOUN]() 6, [PROPN]() 2), <em>Bean</em> ([PROPN]() 1, [NOUN]() 1), <em>Mór</em> ([ADJ]() 2, [PROPN]() 1), <em>gleann</em> ([NOUN]() 1, [PROPN]() 1), <em>inis</em> ([VERB]() 2, [PROPN]() 1)
 
-The 10 most frequent ambiguous types:  <em>Cliath</em> ([PROPN]() 5, [NOUN]() 1), <em>Eaglais</em> ([PROPN]() 2, [NOUN]() 1), <em>Fianna</em> ([PROPN]() 2, [NOUN]() 1), <em>mí</em> ([NOUN]() 2, [PROPN]() 1), <em>Ard</em> ([ADJ]() 2, [PROPN]() 1), <em>Bean</em> ([NOUN]() 1, [PROPN]() 1), <em>Muire</em> ([PROPN]() 1, [NOUN]() 1), <em>don</em> ([ADP]() 25, [PROPN]() 1), <em>Éireannach</em> ([PROPN]() 1, [ADJ]() 1)
+The 10 most frequent ambiguous types:  <em>Cliath</em> ([PROPN]() 5, [NOUN]() 1), <em>Eaglais</em> ([PROPN]() 2, [NOUN]() 1), <em>Fianna</em> ([PROPN]() 2, [NOUN]() 1), <em>mí</em> ([NOUN]() 2, [PROPN]() 1), <em>Ard</em> ([ADJ]() 2, [PROPN]() 1), <em>Bean</em> ([PROPN]() 1, [NOUN]() 1), <em>Muire</em> ([NOUN]() 1, [PROPN]() 1), <em>don</em> ([ADP]() 25, [PROPN]() 1), <em>Éireannach</em> ([ADJ]() 1, [PROPN]() 1)
 
 
 * <em>Cliath</em>
@@ -32,17 +32,17 @@ The 10 most frequent ambiguous types:  <em>Cliath</em> ([PROPN]() 5, [NOUN]() 1)
   * [ADJ]() 2: <em>Tá an teach a bhí ag an mhinistéir ansin , ' An Lios ' , an teach inar thug Dúbhglas de h-Íde an chuid ba mhó dá óige , ina sheasamh fós , timpeall céad slat isteach ón bhóthar idir Dún Gar agus Bealach an Doirín agus ceathrú mhíle ó shéipéal Eaglais na hÉireann a raibh athair Dhúbhglais chun a bheith ina reachtaire ann ar an Phortach <b>Ard</b> .</em>
   * [PROPN]() 1: <em>Orthu siúd bhí John Baptist Crozier , eaglaiseach a bhí ina Ardeaspag ar <b>Ard</b> Mhacha i ndeireadh a shaoil .</em>
 * <em>Bean</em>
-  * [NOUN]() 1: <em><b>Bean</b> Uasal : Cén dul as a bhí agam ?</em>
   * [PROPN]() 1: <em>Anne-Marie Nic Dhonncha <b>Bean</b> phósta agus máthair Anne-Marie a chasann pubcheol rithimiúil Chonamara go gairmiúil .</em>
+  * [NOUN]() 1: <em><b>Bean</b> Uasal : Cén dul as a bhí agam ?</em>
 * <em>Muire</em>
-  * [PROPN]() 1: <em>Fuair sí post ansin in Oifig na Deoise , i Halla Naomh <b>Muire</b> .</em>
   * [NOUN]() 1: <em>Dia's <b>Muire</b> duit ... ... sea ... ... .</em>
+  * [PROPN]() 1: <em>Fuair sí post ansin in Oifig na Deoise , i Halla Naomh <b>Muire</b> .</em>
 * <em>don</em>
   * [ADP]() 25: <em>Limistéar na Meánmhara is áit dúcháis <b>don</b> Rós Mhuire .</em>
   * [PROPN]() 1: <em>Is de bharr a chontúirt <b>don</b> neodracht mhíleata is mó a bhí imní , sin agus an tslí shotalach ar chaith na páirtithe , na ceardchumainn , eagras na bhfostóirí , agus an Cliarlathas Caitliceach leis an bpobal tráth an Reifrinn .</em>
 * <em>Éireannach</em>
-  * [PROPN]() 1: <em>Má tá boird stáit agus comhlachtai stáir in Éirinn ag dul ag fógairt mar ' phacáiste ' ar leith d' Éirinn , má tá RTÉ ag dul i gcomhar le Sky maidir le dáileadh na mbealach teilifís <b>Éireannach</b> ar bhosca digiteach Sky ar fud na tíre ( cinneadh atá tar éis an-gheit a bhaint as oifig an Aire de Valera , deirtear linn ) níor cheart cur suas leis an neamhaird ar leith a dhéananna meáin na Sasasanach ar Éirinn de ghnáth .</em>
   * [ADJ]() 1: <em>Chuimhneofaí ar an Reibiliúnaí <b>Éireannach</b> mar laoch-ghunnadóir , miongháire doiléir os cionn cóta trinse , ag stánadh amach as an stair ar an ngrianghrafadóir fadó , fadó .</em>
+  * [PROPN]() 1: <em>Má tá boird stáit agus comhlachtai stáir in Éirinn ag dul ag fógairt mar ' phacáiste ' ar leith d' Éirinn , má tá RTÉ ag dul i gcomhar le Sky maidir le dáileadh na mbealach teilifís <b>Éireannach</b> ar bhosca digiteach Sky ar fud na tíre ( cinneadh atá tar éis an-gheit a bhaint as oifig an Aire de Valera , deirtear linn ) níor cheart cur suas leis an neamhaird ar leith a dhéananna meáin na Sasasanach ar Éirinn de ghnáth .</em>
 
 ## Morphology
 

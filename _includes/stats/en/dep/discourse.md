@@ -130,19 +130,20 @@ The following 12 pairs of parts of speech are connected with `discourse`: [en-po
 
 
 ~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
-# visual-style 7 1 discourse	color:blue
-1	_	_	INTJ	UH	_	7	discourse	_	_
-2	_	_	PUNCT	,	_	7	punct	_	_
-3	_	_	PRON	PRP	_	7	nsubj	_	_
-4	_	_	VERB	VBD	_	7	cop	_	_
-5	_	_	DET	DT	_	7	det	_	_
-6	_	_	ADJ	JJ	_	7	amod	_	_
-7	_	_	NOUN	NN	_	0	root	_	_
-8	_	_	PUNCT	.	_	7	punct	_	_
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 7 discourse	color:blue
+1	_	_	PRON	PRP	_	4	nsubj	_	_
+2	_	_	AUX	VBZ	_	4	aux	_	_
+3	_	_	PART	RB	_	4	neg	_	_
+4	_	_	VERB	VB	_	0	root	_	_
+5	_	_	NOUN	NN	_	4	dobj	_	_
+6	_	_	PUNCT	,	_	4	punct	_	_
+7	_	_	VERB	VBZ	_	4	discourse	_	_
+8	_	_	PRON	PRP	_	7	nsubj	_	_
+9	_	_	PUNCT	.	_	4	punct	_	_
 
 ~~~
 
@@ -260,28 +261,56 @@ The following 5 pairs of parts of speech are connected with `discourse`: [en-pos
 
 
 ~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 16	bgColor:blue
-# visual-style 16	fgColor:white
-# visual-style 16 1 discourse	color:blue
-1	Yes	yes	INTJ	_	_	16	discourse	_	SpaceAfter=No
-2	,	,	PUNCT	FF	_	1	punct	_	_
-3	being	be	AUX	VA	Number=Sing|Tense=Pres|VerbForm=Part	5	cop	_	_
-4	better	better	ADV	B	_	5	advmod	_	_
-5	connected	connect	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	16	csubj	_	_
-6	with	with	ADP	E	_	8	case	_	_
-7	each	each	DET	DI	PronType=Ind	8	det	_	_
-8	other	other	ADJ	A	Degree=Pos	5	obl	_	SpaceAfter=No
-9	,	,	PUNCT	FF	_	5	punct	_	_
-10	through	through	ADP	E	_	11	case	_	_
-11	Facebook	Facebook	PROPN	SP	_	5	obl	_	_
-12	or	or	CCONJ	CC	_	13	cc	_	_
-13	Twitter	Twitter	PROPN	SP	_	11	conj	_	SpaceAfter=No
-14	,	,	PUNCT	FF	_	5	punct	_	_
-15	is	be	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	cop	_	_
-16	valuable	valuable	ADJ	A	Degree=Pos	0	root	_	SpaceAfter=No
-17	.	.	PUNCT	FS	_	16	punct	_	_
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 12	bgColor:blue
+# visual-style 12	fgColor:white
+# visual-style 12 8 discourse	color:blue
+1	The	the	DET	RD	Definite=Def|PronType=Art	3	det	_	_
+2	italicised	italicised	ADJ	A	Degree=Pos	3	amod	_	_
+3	phrase	phrase	NOUN	S	Number=Sing	39	nsubj	_	_
+4	parodying	parody	VERB	V	Number=Sing|Tense=Pres|VerbForm=Part	3	acl	_	_
+5	the	the	DET	RD	Definite=Def|PronType=Art	6	det	_	_
+6	line	line	NOUN	S	Number=Sing	4	obj	_	_
+7	"	"	PUNCT	FB	_	12	punct	_	SpaceAfter=No
+8	Oh	Oh	PROPN	SP	_	12	discourse	_	SpaceAfter=No
+9	,	,	PUNCT	FF	_	8	punct	_	_
+10	tiger	tiger	NOUN	S	Number=Sing	12	nmod	_	SpaceAfter=No
+11	's	's	PART	PART	_	10	case	_	_
+12	heart	heart	NOUN	S	Number=Sing	6	parataxis	_	_
+13	wrapped	wrap	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	12	acl	_	_
+14	in	in	ADP	E	_	18	case	_	_
+15	a	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	16	det	_	_
+16	woman	woman	NOUN	S	Number=Sing	18	nmod	_	SpaceAfter=No
+17	's	's	PART	PART	_	16	case	_	_
+18	hide	hide	NOUN	S	Number=Sing	13	obl	_	SpaceAfter=No
+19	"	"	PUNCT	FB	_	12	punct	_	_
+20	from	from	ADP	E	_	23	case	_	_
+21	Shakespeare	Shakespeare	PROPN	SP	_	23	nmod	_	SpaceAfter=No
+22	's	's	PART	PART	_	21	case	_	_
+23	Henry	Henry	PROPN	SP	_	6	nmod	_	_
+24	VI	sixth	ADJ	NO	Degree=Pos|NumType=Ord	23	flat	_	SpaceAfter=No
+25	,	,	PUNCT	FF	_	23	punct	_	_
+26	Part	part	NOUN	S	Number=Sing	23	appos	_	_
+27	3	3	NUM	N	NumType=Card	26	nummod	_	SpaceAfter=No
+28	,	,	PUNCT	FF	_	26	punct	_	_
+29	along	along	ADP	E	_	32	case	_	_
+30	with	with	ADP	E	_	29	fixed	_	_
+31	the	the	DET	RD	Definite=Def|PronType=Art	32	det	_	_
+32	pun	pun	NOUN	S	Number=Sing	3	conj	_	_
+33	"	"	PUNCT	FB	_	34	punct	_	SpaceAfter=No
+34	Shake	Shake	PROPN	SP	_	32	nmod	_	SpaceAfter=No
+35	-	-	PUNCT	FF	_	34	punct	_	SpaceAfter=No
+36	Scene	Scene	PROPN	SP	_	34	compound	_	SpaceAfter=No
+37	"	"	PUNCT	FB	_	34	punct	_	SpaceAfter=No
+38	,	,	PUNCT	FF	_	32	punct	_	_
+39	identifies	identify	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+40	Shakespeare	Shakespeare	PROPN	SP	_	39	obj	_	_
+41	as	as	ADP	E	_	44	case	_	_
+42	Greene	Greene	PROPN	SP	_	44	nmod	_	SpaceAfter=No
+43	's	's	PART	PART	_	42	case	_	_
+44	target	target	NOUN	S	Number=Sing	39	obl	_	SpaceAfter=No
+45	.	.	PUNCT	FS	_	39	punct	_	_
 
 ~~~
 
@@ -289,30 +318,20 @@ The following 5 pairs of parts of speech are connected with `discourse`: [en-pos
 ~~~ conllu
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 7 1 discourse	color:blue
-1	Yes	yes	INTJ	_	_	7	discourse	_	SpaceAfter=No
-2	,	,	PUNCT	FF	_	1	punct	_	_
-3	Mr	mister	NOUN	S	Gender=Masc|Number=Sing	7	vocative	_	_
-4	Evans	Evans	PROPN	SP	_	3	flat	_	SpaceAfter=No
-5	,	,	PUNCT	FF	_	3	punct	_	_
-6	I	I	PRON	PE	Number=Sing|Person=1|PronType=Prs	7	nsubj	_	_
-7	feel	feel	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
-8	an	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	9	det	_	_
-9	initiative	initiative	NOUN	S	Number=Sing	17	nsubj	_	_
-10	of	of	ADP	E	_	12	case	_	_
-11	the	the	DET	RD	Definite=Def|PronType=Art	12	det	_	_
-12	type	type	NOUN	S	Number=Sing	9	nmod	_	_
-13	you	you	PRON	PE	Person=2|PronType=Prs	16	nsubj	_	_
-14	have	have	AUX	VA	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	16	aux	_	_
-15	just	just	ADV	B	_	16	advmod	_	_
-16	suggested	suggest	VERB	V	Tense=Past|VerbForm=Part	12	acl:relcl	_	_
-17	would	will	AUX	VM	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	20	aux	_	_
-18	be	be	AUX	VA	VerbForm=Inf	20	cop	_	_
-19	entirely	entirely	ADV	B	_	20	advmod	_	_
-20	appropriate	appropriate	ADJ	A	Degree=Pos	7	ccomp	_	SpaceAfter=No
-21	.	.	PUNCT	FS	_	7	punct	_	_
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 1 discourse	color:blue
+1	Please	please	ADV	B	_	2	discourse	_	_
+2	rise	rise	NOUN	S	Number=Sing	0	root	_	SpaceAfter=No
+3	,	,	PUNCT	FF	_	2	punct	_	_
+4	then	then	ADV	B	_	2	advmod	_	SpaceAfter=No
+5	,	,	PUNCT	FF	_	4	punct	_	_
+6	for	for	ADP	E	_	10	case	_	_
+7	this	this	DET	DD	Number=Sing|PronType=Dem	8	det	_	_
+8	minute	minute	NOUN	S	Number=Sing	10	nmod	_	SpaceAfter=No
+9	's	's	PART	PART	_	8	case	_	_
+10	silence	silence	NOUN	S	Number=Sing	2	nmod	_	SpaceAfter=No
+11	.	.	PUNCT	FS	_	2	punct	_	_
 
 ~~~
 

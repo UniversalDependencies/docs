@@ -13,7 +13,7 @@ The 10 most frequent `CCONJ` types:  <em>un, bet, vai, arī, gan, tomēr, ne, ta
 
 The 10 most frequent ambiguous lemmas: <em>bet</em> ([CCONJ]() 222, [PART]() 8), <em>vai</em> ([PART]() 101, [CCONJ]() 68, [SCONJ]() 33), <em>arī</em> ([PART]() 182, [CCONJ]() 56, [SCONJ]() 14), <em>gan</em> ([CCONJ]() 54, [PART]() 29, [SCONJ]() 12), <em>tomēr</em> ([CCONJ]() 23, [PART]() 15), <em>ne</em> ([PART]() 48, [CCONJ]() 21), <em>taču</em> ([CCONJ]() 20, [PART]() 15), <em>tikai</em> ([PART]() 93, [CCONJ]() 9), <em>kā</em> ([SCONJ]() 157, [ADV]() 101, [PART]() 51, [CCONJ]() 7), <em>nu</em> ([PART]() 36, [ADV]() 13, [CCONJ]() 7, [INTJ]() 3)
 
-The 10 most frequent ambiguous types:  <em>bet</em> ([CCONJ]() 130, [PART]() 8), <em>vai</em> ([CCONJ]() 64, [PART]() 46, [SCONJ]() 33), <em>arī</em> ([PART]() 166, [CCONJ]() 56, [SCONJ]() 14), <em>gan</em> ([CCONJ]() 51, [PART]() 28, [SCONJ]() 12), <em>tomēr</em> ([PART]() 12, [CCONJ]() 11), <em>ne</em> ([PART]() 44, [CCONJ]() 20), <em>taču</em> ([CCONJ]() 13, [PART]() 13), <em>tikai</em> ([PART]() 84, [CCONJ]() 9), <em>kā</em> ([SCONJ]() 151, [ADV]() 60, [PART]() 51, [CCONJ]() 7, [PRON]() 6, [DET]() 1), <em>nu</em> ([PART]() 15, [ADV]() 12, [CCONJ]() 7, [INTJ]() 1)
+The 10 most frequent ambiguous types:  <em>bet</em> ([CCONJ]() 130, [PART]() 8), <em>vai</em> ([CCONJ]() 64, [PART]() 46, [SCONJ]() 33), <em>arī</em> ([PART]() 166, [CCONJ]() 56, [SCONJ]() 14), <em>gan</em> ([CCONJ]() 51, [PART]() 28, [SCONJ]() 12), <em>tomēr</em> ([PART]() 12, [CCONJ]() 11), <em>ne</em> ([PART]() 44, [CCONJ]() 20), <em>taču</em> ([PART]() 13, [CCONJ]() 13), <em>tikai</em> ([PART]() 84, [CCONJ]() 9), <em>kā</em> ([SCONJ]() 151, [ADV]() 60, [PART]() 51, [CCONJ]() 7, [PRON]() 6, [DET]() 1), <em>nu</em> ([PART]() 15, [ADV]() 12, [CCONJ]() 7, [INTJ]() 1)
 
 
 * <em>bet</em>
@@ -38,8 +38,8 @@ The 10 most frequent ambiguous types:  <em>bet</em> ([CCONJ]() 130, [PART]() 8),
   * [PART]() 44: <em>vispār <b>ne</b> fotogrāfija</em>
   * [CCONJ]() 20: <em>Man nebija līdzi <b>ne</b> avīzes , <b>ne</b> grāmatas .</em>
 * <em>taču</em>
-  * [CCONJ]() 13: <em>Es dzirdu balsis , <b>taču</b> nesaprotu , ko tās saka .</em>
   * [PART]() 13: <em>Es <b>taču</b> negaidīju atbildi .</em>
+  * [CCONJ]() 13: <em>Es dzirdu balsis , <b>taču</b> nesaprotu , ko tās saka .</em>
 * <em>tikai</em>
   * [PART]() 84: <em>Es pasūtīju <b>tikai</b> tēju .</em>
   * [CCONJ]() 9: <em>Bibliotēka domāta ne <b>tikai</b> lasīšanai , bet arī sarunām</em>

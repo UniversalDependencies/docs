@@ -13,7 +13,7 @@ The 10 most frequent `X` types:  <em>C, L, M, A, Aefulanum, Cn, Q, Ti, adcedere,
 
 The 10 most frequent ambiguous lemmas: <em>C1</em> ([X]() 5, [NOUN]() 1), <em>L1</em> ([X]() 4, [NOUN]() 2), <em>M1</em> ([X]() 4, [NOUN]() 1), <em>Q1</em> ([NOUN]() 2, [X]() 1), <em>accedo1</em> ([VERB]() 4, [X]() 1), <em>ceterus1</em> ([ADJ]() 8, [NOUN]() 2, [PRON]() 2, [X]() 1), <em>mitto1</em> ([VERB]() 15, [X]() 1)
 
-The 10 most frequent ambiguous types:  <em>C</em> ([X]() 5, [NOUN]() 3), <em>L</em> ([NOUN]() 4, [X]() 4), <em>M</em> ([X]() 4, [NOUN]() 3), <em>A</em> ([ADP]() 3, [X]() 1), <em>Q</em> ([NOUN]() 4, [X]() 1), <em>adcedere</em> ([X]() 1, [VERB]() 1), <em>ceteris</em> ([X]() 1, [NOUN]() 1), <em>quom</em> ([SCONJ]() 7, [X]() 1)
+The 10 most frequent ambiguous types:  <em>C</em> ([X]() 5, [NOUN]() 3), <em>L</em> ([NOUN]() 4, [X]() 4), <em>M</em> ([X]() 4, [NOUN]() 3), <em>A</em> ([ADP]() 3, [X]() 1), <em>Q</em> ([NOUN]() 4, [X]() 1), <em>adcedere</em> ([X]() 1, [VERB]() 1), <em>ceteris</em> ([NOUN]() 1, [X]() 1), <em>quom</em> ([SCONJ]() 7, [X]() 1)
 
 
 * <em>C</em>
@@ -35,8 +35,8 @@ The 10 most frequent ambiguous types:  <em>C</em> ([X]() 5, [NOUN]() 3), <em>L</
   * [X]() 1: <em>praeterea se missum a M . Crasso , qui Catilinae nuntiaret , ne eum Lentulus et Cethegus que alii ex coniuratione deprehensi terrerent , que eo magis properaret ad urbem <b>adcedere</b> , quo et ceterorum animos reficeret et illi facilius e periculo eriperentur .</em>
   * [VERB]() 1: <em>ne cunctetur ipse propius <b>adcedere</b> .</em>
 * <em>ceteris</em>
-  * [X]() 1: <em>At Romae Lentulus cum <b>ceteris</b> , qui principes coniurationis erant , paratis ut videbatur magnis copiis constituerant , uti , quom Catilina in agrum Aefulanum cum exercitu venisset , L . Bestia tribunus plebis contione habita quereretur de actionibus Ciceronis que belli gravissumi invidiam optumo consuli inponeret :</em>
   * [NOUN]() 1: <em>idem fit <b>ceteris</b> per praetores .</em>
+  * [X]() 1: <em>At Romae Lentulus cum <b>ceteris</b> , qui principes coniurationis erant , paratis ut videbatur magnis copiis constituerant , uti , quom Catilina in agrum Aefulanum cum exercitu venisset , L . Bestia tribunus plebis contione habita quereretur de actionibus Ciceronis que belli gravissumi invidiam optumo consuli inponeret :</em>
 * <em>quom</em>
   * [SCONJ]() 7: <em>Quom vos considero , milites , et <b>quom</b> facta vostra aestumo , magna me spes victoriae tenet .</em>
   * [X]() 1: <em>ceterum mihi in dies magis animus accenditur , <b>quom</b> considero , quae condicio vitae futura sit , nisi nosmet ipsi vindicamus in libertatem .</em>
@@ -167,15 +167,15 @@ The 10 most frequent `X` types:  <em>καὶ, τὸ, δὲ, τὸν, Κικέρ�
 
 The 10 most frequent ambiguous lemmas: <em>greek.expression</em> ([X]() 401, [ADV]() 7, [VERB]() 1, [NOUN]() 1), <em>Heli</em> ([X]() 2, [PROPN]() 1), <em>calendar.expression</em> ([ADV]() 7, [X]() 2)
 
-The 10 most frequent ambiguous types:  <em>Heli</em> ([X]() 2, [PROPN]() 1), <em>Σπάρταν</em> ([ADV]() 1, [X]() 1)
+The 10 most frequent ambiguous types:  <em>Heli</em> ([X]() 2, [PROPN]() 1), <em>Σπάρταν</em> ([X]() 1, [ADV]() 1)
 
 
 * <em>Heli</em>
   * [X]() 2: <em><b>Heli</b> <b>Heli</b> lema sabacthani</em>
   * [PROPN]() 1: <em>et ipse Iesus erat incipiens quasi annorum triginta ut putabatur filius Ioseph qui fuit <b>Heli</b> qui fuit Matthat qui fuit Levi qui fuit Melchi qui fuit Iannae qui fuit Ioseph qui fuit Matthathiae qui fuit Amos qui fuit Naum qui fuit Esli qui fuit Naggae qui fuit Maath qui fuit Matthathiae qui fuit Semei qui fuit Iosech qui fuit Ioda qui fuit Iohanna qui fuit Resa qui fuit Zorobabel qui fuit Salathihel qui fuit Neri qui fuit Melchi qui fuit Addi qui fuit Cosam qui fuit Helmadam qui fuit Her qui fuit Iesu qui fuit Eliezer qui fuit Iorim qui fuit Matthat qui fuit Levi qui fuit Symeon qui fuit Iuda qui fuit Ioseph qui fuit Iona qui fuit Eliachim qui fuit Melea qui fuit Menna qui fuit Matthata qui fuit Nathan qui fuit David qui fuit Iesse qui fuit Obed qui fuit Booz qui fuit Salmon qui fuit Naasson qui fuit Aminadab qui fuit Aram qui fuit Esrom qui fuit Phares qui fuit Iudae qui fuit Iacob qui fuit Isaac qui fuit Abraham qui fuit Thare qui fuit Nachor qui fuit Seruch qui fuit Ragau qui fuit Phalec qui fuit Eber qui fuit Sale qui fuit Cainan qui fuit Arfaxat qui fuit Sem qui fuit Noe qui fuit Lamech qui fuit Mathusalae qui fuit Enoch qui fuit Iared qui fuit Malelehel qui fuit Cainan qui fuit Enos qui fuit Seth qui fuit Adam qui fuit Dei</em>
 * <em>Σπάρταν</em>
-  * [ADV]() 1: <em>meos bonos viros illos quos significas et eam quam mihi dicis obtigisse <b>Σπάρταν</b> non modo numquam deseram sed etiam si ego ab illa deserar tamen in mea pristina sententia permanebo</em>
   * [X]() 1: <em><b>Σπάρταν</b> ἔλαχες</em>
+  * [ADV]() 1: <em>meos bonos viros illos quos significas et eam quam mihi dicis obtigisse <b>Σπάρταν</b> non modo numquam deseram sed etiam si ego ab illa deserar tamen in mea pristina sententia permanebo</em>
 
 ## Morphology
 

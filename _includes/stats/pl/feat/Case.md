@@ -59,7 +59,7 @@ The most frequent other feature values with which `ADP` and `Case` co-occurred: 
 
 6888 [pl-pos/ADJ]() tokens (98% of all `ADJ` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `ADJ` and `Case` co-occurred: <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (5663; 82%), <tt><a href="VerbForm.html">VerbForm</a>=EMPTY</tt> (5663; 82%), <tt><a href="Polarity.html">Polarity</a>=EMPTY</tt> (5662; 82%), <tt><a href="Aspect.html">Aspect</a>=EMPTY</tt> (5662; 82%), <tt><a href="Degree.html">Degree</a>=Pos</tt> (5425; 79%), <tt><a href="Number.html">Number</a>=Sing</tt> (4772; 69%), <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (3778; 55%).
+The most frequent other feature values with which `ADJ` and `Case` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=EMPTY</tt> (5663; 82%), <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (5663; 82%), <tt><a href="Polarity.html">Polarity</a>=EMPTY</tt> (5662; 82%), <tt><a href="Aspect.html">Aspect</a>=EMPTY</tt> (5662; 82%), <tt><a href="Degree.html">Degree</a>=Pos</tt> (5425; 79%), <tt><a href="Number.html">Number</a>=Sing</tt> (4772; 69%), <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (3778; 55%).
 
 `ADJ` tokens may have the following values of `Case`:
 
@@ -139,7 +139,7 @@ The most frequent other feature values with which `PRON` and `Case` co-occurred:
 
 1697 [pl-pos/DET]() tokens (100% of all `DET` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `DET` and `Case` co-occurred: <tt><a href="Reflex.html">Reflex</a>=EMPTY</tt> (1519; 90%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (1499; 88%), <tt><a href="Number[psor].html">Number[psor]</a>=EMPTY</tt> (1499; 88%), <tt><a href="Poss.html">Poss</a>=EMPTY</tt> (1321; 78%), <tt><a href="Number.html">Number</a>=Sing</tt> (1076; 63%), <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (851; 50%).
+The most frequent other feature values with which `DET` and `Case` co-occurred: <tt><a href="Reflex.html">Reflex</a>=EMPTY</tt> (1519; 90%), <tt><a href="Number[psor].html">Number[psor]</a>=EMPTY</tt> (1499; 88%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (1499; 88%), <tt><a href="Poss.html">Poss</a>=EMPTY</tt> (1321; 78%), <tt><a href="Number.html">Number</a>=Sing</tt> (1076; 63%), <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (851; 50%).
 
 `DET` tokens may have the following values of `Case`:
 
@@ -181,7 +181,7 @@ The most frequent other feature values with which `NUM` and `Case` co-occurred: 
 
 <table>
   <tr><th>Paradigm <i>trzy</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th><th><tt>Gen</tt></th><th><tt>Loc</tt></th><th><tt>Ins</tt></th></tr>
-  <tr><td><tt><a href="Animacy.html">Animacy</a>=Hum|<a href="Gender.html">Gender</a>=Masc</tt></td><td><em>trzej, trzech</em></td><td><em>trzech</em></td><td><em>trzem</em></td><td><em>trzech</em></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Animacy.html">Animacy</a>=Hum|<a href="Gender.html">Gender</a>=Masc</tt></td><td><em>trzech, trzej</em></td><td><em>trzech</em></td><td><em>trzem</em></td><td><em>trzech</em></td><td></td><td></td></tr>
   <tr><td><tt><a href="Animacy.html">Animacy</a>=Inan|<a href="Gender.html">Gender</a>=Masc</tt></td><td><em>trzy</em></td><td><em>trzy</em></td><td></td><td><em>trzech</em></td><td><em>trzech</em></td><td><em>trzema</em></td></tr>
   <tr><td><tt><a href="Animacy.html">Animacy</a>=Nhum|<a href="Gender.html">Gender</a>=Masc</tt></td><td></td><td><em>trzy</em></td><td></td><td><em>trzech</em></td><td></td><td></td></tr>
   <tr><td><tt><a href="Gender.html">Gender</a>=Fem</tt></td><td><em>trzy</em></td><td><em>Trzy</em></td><td></td><td><em>trzech</em></td><td></td><td></td></tr>

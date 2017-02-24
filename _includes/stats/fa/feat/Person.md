@@ -67,7 +67,7 @@ The most frequent other feature values with which `AUX` and `Person` co-occurred
   <tr><td><tt><a href="Mood.html">Mood</a>=Sub|<a href="Number.html">Number</a>=Plur|<a href="Polarity.html">Polarity</a>=Neg|<a href="Tense.html">Tense</a>=Pres</tt></td><td></td><td>نشوید</td><td></td></tr>
   <tr><td><tt><a href="Mood.html">Mood</a>=Sub|<a href="Number.html">Number</a>=Plur|<a href="Tense.html">Tense</a>=Pres</tt></td><td>شویم</td><td></td><td>شوند, کنند</td></tr>
   <tr><td><tt><a href="Number.html">Number</a>=Sing|<a href="Polarity.html">Polarity</a>=Neg|<a href="VerbForm.html">VerbForm</a>=Part</tt></td><td></td><td></td><td>نشده</td></tr>
-  <tr><td><tt><a href="Number.html">Number</a>=Sing|<a href="Tense.html">Tense</a>=Past</tt></td><td>شدم</td><td></td><td>شد, می‌شد, نشد, نمی‌شد, می‌کرد, کرد</td></tr>
+  <tr><td><tt><a href="Number.html">Number</a>=Sing|<a href="Tense.html">Tense</a>=Past</tt></td><td>شدم</td><td></td><td>شد, می‌شد, نشد, نمی‌شد, کرد, می‌کرد</td></tr>
   <tr><td><tt><a href="Number.html">Number</a>=Sing|<a href="Tense.html">Tense</a>=Pres</tt></td><td>می‌شوم</td><td></td><td>می‌شود, نمی‌شود</td></tr>
   <tr><td><tt><a href="Number.html">Number</a>=Sing|<a href="VerbForm.html">VerbForm</a>=Part</tt></td><td>شده‌ام, میشده‌ام</td><td>شده‌ای</td><td>شده, نشده</td></tr>
   <tr><td><tt><a href="Number.html">Number</a>=Plur|<a href="Polarity.html">Polarity</a>=Neg|<a href="Tense.html">Tense</a>=Past</tt></td><td></td><td></td><td>نشده‌اند</td></tr>

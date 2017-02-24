@@ -11,7 +11,7 @@ The 10 most frequent `ADJ` lemmas: <em>good, other, great, best, new, many, more
 
 The 10 most frequent `ADJ` types:  <em>good, other, great, best, new, many, more, same, last, first</em>
 
-The 10 most frequent ambiguous lemmas: <em>good</em> ([ADJ]() 356, [NOUN]() 8, [ADV]() 1, [INTJ]() 1), <em>other</em> ([ADJ]() 306, [NOUN]() 49, [ADV]() 3), <em>great</em> ([ADJ]() 293, [ADV]() 1), <em>best</em> ([ADJ]() 233, [ADV]() 19), <em>new</em> ([ADJ]() 233, [VERB]() 3, [NOUN]() 2), <em>many</em> ([ADJ]() 196, [DET]() 2, [NOUN]() 1), <em>more</em> ([ADJ]() 196, [ADV]() 150), <em>last</em> ([ADJ]() 139, [VERB]() 17, [ADV]() 1), <em>first</em> ([ADJ]() 122, [ADV]() 64, [NOUN]() 4), <em>few</em> ([ADJ]() 119, [NOUN]() 2)
+The 10 most frequent ambiguous lemmas: <em>good</em> ([ADJ]() 356, [NOUN]() 8, [INTJ]() 1, [ADV]() 1), <em>other</em> ([ADJ]() 306, [NOUN]() 49, [ADV]() 3), <em>great</em> ([ADJ]() 293, [ADV]() 1), <em>best</em> ([ADJ]() 233, [ADV]() 19), <em>new</em> ([ADJ]() 233, [VERB]() 3, [NOUN]() 2), <em>many</em> ([ADJ]() 196, [DET]() 2, [NOUN]() 1), <em>more</em> ([ADJ]() 196, [ADV]() 150), <em>last</em> ([ADJ]() 139, [VERB]() 17, [ADV]() 1), <em>first</em> ([ADJ]() 122, [ADV]() 64, [NOUN]() 4), <em>few</em> ([ADJ]() 119, [NOUN]() 2)
 
 The 10 most frequent ambiguous types:  <em>good</em> ([ADJ]() 306, [NOUN]() 8, [ADV]() 1), <em>other</em> ([ADJ]() 298, [ADV]() 2), <em>great</em> ([ADJ]() 205, [ADV]() 1), <em>best</em> ([ADJ]() 168, [ADV]() 17), <em>new</em> ([ADJ]() 225, [VERB]() 3, [NOUN]() 1), <em>many</em> ([ADJ]() 173, [DET]() 2, [NOUN]() 1), <em>more</em> ([ADJ]() 185, [ADV]() 143), <em>last</em> ([ADJ]() 125, [VERB]() 7, [ADV]() 1), <em>first</em> ([ADJ]() 111, [ADV]() 51, [NOUN]() 3), <em>few</em> ([ADJ]() 117, [NOUN]() 2)
 

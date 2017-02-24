@@ -26,14 +26,14 @@ The feature is used with 11 part-of-speech tags: [nl-pos/NOUN]() (31766; 16% ins
 
 <table>
   <tr><th>Paradigm <i>jaar</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
-  <tr><td><tt></tt></td><td><em>jaar, natuurbeschermingsjaar, filmjaar, cursusjaar, verslagjaar</em></td><td><em>jaren, jeugdjaren, bezettingsjaren</em></td></tr>
+  <tr><td><tt></tt></td><td><em>jaar, natuurbeschermingsjaar, verslagjaar, filmjaar, cursusjaar</em></td><td><em>jaren, jeugdjaren, bezettingsjaren</em></td></tr>
 </table>
 
 ### `VERB`
 
 9496 [nl-pos/VERB]() tokens (48% of all `VERB` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="Mood.html">Mood</a>=Ind</tt> (9441; 99%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (9441; 99%), <tt><a href="Aspect.html">Aspect</a>=Imp</tt> (9441; 99%), <tt><a href="VerbType.html">VerbType</a>=EMPTY</tt> (7582; 80%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (5702; 60%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (4968; 52%).
+The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (9441; 99%), <tt><a href="Aspect.html">Aspect</a>=Imp</tt> (9441; 99%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (9441; 99%), <tt><a href="VerbType.html">VerbType</a>=EMPTY</tt> (7582; 80%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (5702; 60%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (4968; 52%).
 
 `VERB` tokens may have the following values of `Number`:
 
@@ -167,7 +167,7 @@ The most frequent other feature values with which `X` and `Number` co-occurred: 
 
 257 [nl-pos/NUM]() tokens (7% of all `NUM` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `NUM` and `Number` co-occurred: <tt><a href="NumForm.html">NumForm</a>=EMPTY</tt> (257; 100%), <tt><a href="NumType.html">NumType</a>=Card</tt> (257; 100%), <tt><a href="Definite.html">Definite</a>=Def</tt> (257; 100%).
+The most frequent other feature values with which `NUM` and `Number` co-occurred: <tt><a href="NumType.html">NumType</a>=Card</tt> (257; 100%), <tt><a href="NumForm.html">NumForm</a>=EMPTY</tt> (257; 100%), <tt><a href="Definite.html">Definite</a>=Def</tt> (257; 100%).
 
 `NUM` tokens may have the following values of `Number`:
 
@@ -209,7 +209,7 @@ The most frequent other feature values with which `ADP` and `Number` co-occurred
 
 4 [nl-pos/ADV]() tokens (0% of all `ADV` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `ADV` and `Number` co-occurred: <tt><a href="Degree.html">Degree</a>=EMPTY</tt> (4; 100%), <tt><a href="PronType.html">PronType</a>=EMPTY</tt> (4; 100%), <tt><a href="PartType.html">PartType</a>=EMPTY</tt> (4; 100%).
+The most frequent other feature values with which `ADV` and `Number` co-occurred: <tt><a href="PronType.html">PronType</a>=EMPTY</tt> (4; 100%), <tt><a href="Degree.html">Degree</a>=EMPTY</tt> (4; 100%), <tt><a href="PartType.html">PartType</a>=EMPTY</tt> (4; 100%).
 
 `ADV` tokens may have the following values of `Number`:
 

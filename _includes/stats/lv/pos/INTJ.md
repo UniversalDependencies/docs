@@ -13,7 +13,7 @@ The 10 most frequent `INTJ` types:  <em>lūdzu, vau, Ak, Klau, Paldies, labrīt,
 
 The 10 most frequent ambiguous lemmas: <em>nu</em> ([PART]() 36, [ADV]() 13, [CCONJ]() 7, [INTJ]() 3), <em>paldies</em> ([INTJ]() 2, [PART]() 1), <em>aha</em> ([PART]() 2, [INTJ]() 1), <em>nudien</em> ([INTJ]() 1, [PART]() 1)
 
-The 10 most frequent ambiguous types:  <em>lūdzu</em> ([INTJ]() 5, [VERB]() 2), <em>Paldies</em> ([INTJ]() 3, [PART]() 1), <em>nu</em> ([PART]() 15, [ADV]() 12, [CCONJ]() 7, [INTJ]() 1), <em>ej</em> ([VERB]() 1, [INTJ]() 1), <em>Aha</em> ([PART]() 2, [INTJ]() 1), <em>Vai</em> ([PART]() 54, [CCONJ]() 4, [INTJ]() 1)
+The 10 most frequent ambiguous types:  <em>lūdzu</em> ([INTJ]() 5, [VERB]() 2), <em>Paldies</em> ([INTJ]() 3, [PART]() 1), <em>nu</em> ([PART]() 15, [ADV]() 12, [CCONJ]() 7, [INTJ]() 1), <em>ej</em> ([INTJ]() 1, [VERB]() 1), <em>Aha</em> ([PART]() 2, [INTJ]() 1), <em>Vai</em> ([PART]() 54, [CCONJ]() 4, [INTJ]() 1)
 
 
 * <em>lūdzu</em>
@@ -28,8 +28,8 @@ The 10 most frequent ambiguous types:  <em>lūdzu</em> ([INTJ]() 5, [VERB]() 2),
   * [CCONJ]() 7: <em>a ) vai <b>nu</b> nolēmusi sākt procesu ,</em>
   * [INTJ]() 1: <em>Viņš tādos vakaros gaidīja mani uz mūsu ielas stūra , sēdēja , savas mašīnas siltajā , smacīgajā tumsā paslēpies , ugunis izslēdzis , smēķēja , domāja , gaidīja ; es nācu steidzīgiem soļiem , nosalušās rokas dziļi mēteļa kabatās , zodu paslēpusi pūkainajā mākslīgas zvērādas apkaklē , katrā solī un sirdspukstā apzinādamās , ka viņš mani redz , mani vēro , smēķē , gaida , kaut ko domā , gaida ; es esmu neveikla , es vienmēr esmu jutusies neveikla , mazliet par garu , mazliet par platu , man trūkst līdzsvara sajūtas , un melno pēdu raksts uz baltā trotuāra celiņa aiz manis stiepjas drusku juceklīgs , pie mašīnas durtiņām tas aprausies pēkšņi , bet tik un tā pēc pārdesmit minūtēm viss jau atkal būs balts vai arī citas pēdas nojauks manējo rakstu ; viņš atver durtiņas , kad esmu dažus soļus no mašīnas , pārliecas pāri pasažieru sēdeklim , - klikt - tās ir vaļā tieši tai mirklī , kad es esmu klāt , es iesēžos žigli , viņš pārlaiž steidzīgu skatu ielai - neviens nav redzējis - un tai pašā acumirklī saņem manus aukstos pirkstus savā lielajā plaukstā , viegls skūpsts uz lūpām , - <b>nu</b> sveika , saule .</em>
 * <em>ej</em>
-  * [VERB]() 1: <em>- Beidz nu , <b>ej</b> nost !</em>
   * [INTJ]() 1: <em>" Ej , <b>ej</b> .</em>
+  * [VERB]() 1: <em>- Beidz nu , <b>ej</b> nost !</em>
 * <em>Aha</em>
   * [PART]() 2: <em>- <b>Aha</b> , labi .</em>
   * [INTJ]() 1: <em>- <b>Aha</b> .</em>

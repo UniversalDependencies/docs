@@ -11,7 +11,7 @@ The 10 most frequent `ADP` lemmas: <em>на, в, за, от, с, по, до, с�
 
 The 10 most frequent `ADP` types:  <em>на, в, за, от, с, по, до, след, като, през</em>
 
-The 10 most frequent ambiguous lemmas: <em>в</em> ([ADP]() 3012, [NOUN]() 1, [PROPN]() 1), <em>с</em> ([ADP]() 1313, [PROPN]() 1), <em>като</em> ([ADP]() 301, [SCONJ]() 168), <em>преди</em> ([ADP]() 153, [ADV]() 3), <em>под</em> ([ADP]() 77, [NOUN]() 5), <em>у</em> ([ADP]() 71, [PROPN]() 3), <em>зад</em> ([ADP]() 36, [NOUN]() 1), <em>край</em> ([NOUN]() 87, [ADP]() 36), <em>против</em> ([ADP]() 14, [ADV]() 1), <em>/</em> ([PUNCT]() 9, [ADP]() 2)
+The 10 most frequent ambiguous lemmas: <em>в</em> ([ADP]() 3012, [PROPN]() 1, [NOUN]() 1), <em>с</em> ([ADP]() 1313, [PROPN]() 1), <em>като</em> ([ADP]() 301, [SCONJ]() 168), <em>преди</em> ([ADP]() 153, [ADV]() 3), <em>под</em> ([ADP]() 77, [NOUN]() 5), <em>у</em> ([ADP]() 71, [PROPN]() 3), <em>зад</em> ([ADP]() 36, [NOUN]() 1), <em>край</em> ([NOUN]() 87, [ADP]() 36), <em>против</em> ([ADP]() 14, [ADV]() 1), <em>/</em> ([PUNCT]() 9, [ADP]() 2)
 
 The 10 most frequent ambiguous types:  <em>като</em> ([ADP]() 290, [SCONJ]() 142), <em>преди</em> ([ADP]() 115, [ADV]() 1), <em>под</em> ([ADP]() 70, [NOUN]() 1), <em>край</em> ([ADP]() 32, [NOUN]() 10), <em>против</em> ([ADP]() 14, [ADV]() 1), <em>:</em> ([PUNCT]() 204, [ADP]() 12), <em>/</em> ([PUNCT]() 9, [ADP]() 2, [CCONJ]() 1), <em>-</em> ([PUNCT]() 853, [PROPN]() 4, [CCONJ]() 2, [ADP]() 1), <em>благодарение</em> ([NOUN]() 4, [ADP]() 1), <em>независимо</em> ([ADV]() 7, [ADP]() 1, [ADJ]() 1)
 

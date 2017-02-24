@@ -13,7 +13,7 @@ The 10 most frequent `PRON` types:  <em>sé, é, sin, sí, siad, iad, féin, mé
 
 The 10 most frequent ambiguous lemmas: <em>sé</em> ([PRON]() 118, [NUM]() 2), <em>sin</em> ([DET]() 67, [PRON]() 65, [X]() 10, [AUX]() 2), <em>féin</em> ([PRON]() 25, [NOUN]() 1, [ADV]() 1), <em>seo</em> ([DET]() 68, [PRON]() 15, [X]() 7, [AUX]() 2), <em>siúd</em> ([PRON]() 10, [DET]() 1), <em>cé</em> ([PRON]() 8, [SCONJ]() 5, [DET]() 2, [NOUN]() 1, [AUX]() 1)
 
-The 10 most frequent ambiguous types:  <em>sé</em> ([PRON]() 118, [NUM]() 2), <em>sin</em> ([DET]() 67, [PRON]() 55), <em>féin</em> ([PRON]() 25, [ADV]() 1), <em>seo</em> ([DET]() 68, [PRON]() 14), <em>siúd</em> ([PRON]() 8, [DET]() 1), <em>cén</em> ([PRON]() 4, [DET]() 1), <em>san</em> ([ADP]() 28, [X]() 10, [PRON]() 4), <em>cé</em> ([SCONJ]() 4, [NOUN]() 1, [PRON]() 1)
+The 10 most frequent ambiguous types:  <em>sé</em> ([PRON]() 118, [NUM]() 2), <em>sin</em> ([DET]() 67, [PRON]() 55), <em>féin</em> ([PRON]() 25, [ADV]() 1), <em>seo</em> ([DET]() 68, [PRON]() 14), <em>siúd</em> ([PRON]() 8, [DET]() 1), <em>cén</em> ([PRON]() 4, [DET]() 1), <em>san</em> ([ADP]() 28, [X]() 10, [PRON]() 4), <em>cé</em> ([SCONJ]() 4, [PRON]() 1, [NOUN]() 1)
 
 
 * <em>sé</em>
@@ -40,8 +40,8 @@ The 10 most frequent ambiguous types:  <em>sé</em> ([PRON]() 118, [NUM]() 2), <
   * [PRON]() 4: <em>As <b>san</b> go dtí Fromista , áit a bhfuil séipéal álainn ón 11ú céad sa stíl Rómhánach .</em>
 * <em>cé</em>
   * [SCONJ]() 4: <em>Roghnaigh an bogha an banlaoch Clothra , <b>cé</b> nach raibh sí ach ina girseach ag an am .</em>
-  * [NOUN]() 1: <em>Ar fhágaint slán agus beannacht age <b>cé</b> na Coise an tráthnóna aoibhinn caithiseach Domhnaigh seo dhúinn , agus agena a raibh do dhaoine ina seasamh ann , cé go raibh cuid mhaith ann san am gcéanna , ní raibh cuma na hainnise ná na bochtanacht ar aon duine acu , rud ná beadh im chumas do rá leo anois dá mbeinn ann , comh fada lem thuairim .</em>
   * [PRON]() 1: <em>Ansin faigh amach <b>cé</b> mhéad fuinnimh a bheidh le fáil as gach ceann de na béilí seo agus déan comparáid idir an iontógáil fuinnimh iomlán agus an iontógáil atá molta i dTábla 1.4 .</em>
+  * [NOUN]() 1: <em>Ar fhágaint slán agus beannacht age <b>cé</b> na Coise an tráthnóna aoibhinn caithiseach Domhnaigh seo dhúinn , agus agena a raibh do dhaoine ina seasamh ann , cé go raibh cuid mhaith ann san am gcéanna , ní raibh cuma na hainnise ná na bochtanacht ar aon duine acu , rud ná beadh im chumas do rá leo anois dá mbeinn ann , comh fada lem thuairim .</em>
 
 ## Morphology
 

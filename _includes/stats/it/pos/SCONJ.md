@@ -11,9 +11,9 @@ The 10 most frequent `SCONJ` lemmas: <em>che, se, quando, perché, come, mentre,
 
 The 10 most frequent `SCONJ` types:  <em>che, se, quando, perché, come, mentre, qualora, dopo, purché, finché</em>
 
-The 10 most frequent ambiguous lemmas: <em>che</em> ([PRON]() 2226, [SCONJ]() 1230, [DET]() 236, [ADP]() 32, [CCONJ]() 30), <em>se</em> ([SCONJ]() 667, [PRON]() 44, [ADV]() 3, [NOUN]() 1, [CCONJ]() 1), <em>quando</em> ([SCONJ]() 334, [ADV]() 202, [PRON]() 2, [CCONJ]() 1), <em>perché</em> ([SCONJ]() 189, [ADV]() 30, [NOUN]() 2), <em>come</em> ([ADP]() 475, [ADV]() 232, [SCONJ]() 172, [CCONJ]() 4, [PRON]() 1, [X]() 1), <em>mentre</em> ([SCONJ]() 106, [CCONJ]() 16), <em>dopo</em> ([ADP]() 226, [ADV]() 45, [SCONJ]() 33, [NOUN]() 1), <em>finché</em> ([SCONJ]() 17, [ADV]() 1), <em>sebbene</em> ([SCONJ]() 14, [CCONJ]() 3), <em>perciò</em> ([ADV]() 24, [SCONJ]() 7)
+The 10 most frequent ambiguous lemmas: <em>che</em> ([PRON]() 2226, [SCONJ]() 1230, [DET]() 236, [ADP]() 32, [CCONJ]() 30), <em>se</em> ([SCONJ]() 667, [PRON]() 44, [ADV]() 3, [CCONJ]() 1, [NOUN]() 1), <em>quando</em> ([SCONJ]() 334, [ADV]() 202, [PRON]() 2, [CCONJ]() 1), <em>perché</em> ([SCONJ]() 189, [ADV]() 30, [NOUN]() 2), <em>come</em> ([ADP]() 475, [ADV]() 232, [SCONJ]() 172, [CCONJ]() 4, [PRON]() 1, [X]() 1), <em>mentre</em> ([SCONJ]() 106, [CCONJ]() 16), <em>dopo</em> ([ADP]() 226, [ADV]() 45, [SCONJ]() 33, [NOUN]() 1), <em>finché</em> ([SCONJ]() 17, [ADV]() 1), <em>sebbene</em> ([SCONJ]() 14, [CCONJ]() 3), <em>perciò</em> ([ADV]() 24, [SCONJ]() 7)
 
-The 10 most frequent ambiguous types:  <em>che</em> ([PRON]() 2204, [SCONJ]() 1222, [DET]() 89, [ADP]() 32, [CCONJ]() 30), <em>se</em> ([SCONJ]() 445, [PRON]() 69, [ADV]() 2, [CCONJ]() 1, [NOUN]() 1), <em>quando</em> ([SCONJ]() 252, [ADV]() 6, [PRON]() 2, [CCONJ]() 1), <em>perché</em> ([SCONJ]() 163, [ADV]() 15, [NOUN]() 2), <em>come</em> ([ADP]() 452, [SCONJ]() 147, [ADV]() 66, [CCONJ]() 4, [PRON]() 1), <em>mentre</em> ([SCONJ]() 95, [CCONJ]() 16), <em>dopo</em> ([ADP]() 171, [ADV]() 44, [SCONJ]() 24, [NOUN]() 1), <em>sebbene</em> ([SCONJ]() 9, [CCONJ]() 3), <em>perciò</em> ([ADV]() 8, [SCONJ]() 7), <em>appena</em> ([ADV]() 30, [SCONJ]() 5)
+The 10 most frequent ambiguous types:  <em>che</em> ([PRON]() 2204, [SCONJ]() 1222, [DET]() 89, [ADP]() 32, [CCONJ]() 30), <em>se</em> ([SCONJ]() 445, [PRON]() 69, [ADV]() 2, [NOUN]() 1, [CCONJ]() 1), <em>quando</em> ([SCONJ]() 252, [ADV]() 6, [PRON]() 2, [CCONJ]() 1), <em>perché</em> ([SCONJ]() 163, [ADV]() 15, [NOUN]() 2), <em>come</em> ([ADP]() 452, [SCONJ]() 147, [ADV]() 66, [CCONJ]() 4, [PRON]() 1), <em>mentre</em> ([SCONJ]() 95, [CCONJ]() 16), <em>dopo</em> ([ADP]() 171, [ADV]() 44, [SCONJ]() 24, [NOUN]() 1), <em>sebbene</em> ([SCONJ]() 9, [CCONJ]() 3), <em>perciò</em> ([ADV]() 8, [SCONJ]() 7), <em>appena</em> ([ADV]() 30, [SCONJ]() 5)
 
 
 * <em>che</em>
@@ -26,8 +26,8 @@ The 10 most frequent ambiguous types:  <em>che</em> ([PRON]() 2204, [SCONJ]() 12
   * [SCONJ]() 445: <em>Se pensi a queste cose , <b>se</b> ci rifletti su finisci per sbagliare .</em>
   * [PRON]() 69: <em>No , non <b>se</b> ne parla " .</em>
   * [ADV]() 2: <em>Claudia sarà contenta , ma io non benedico nessun matrimonio , sono un padre democratico , decideranno loro <b>se</b> e quando " .</em>
-  * [CCONJ]() 1: <em>Tutt' a il più si può accennare a qualche " scappatella " in una coppia condannata a vivere insieme per il resto di i suoi giorni , di un " tradimento " temporaneo anche <b>se</b> pericoloso , visto che ha subito ripercussioni planetarie .</em>
   * [NOUN]() 1: <em>Accompagnato da elementi di cautela e da vari " <b>se</b> " .</em>
+  * [CCONJ]() 1: <em>Tutt' a il più si può accennare a qualche " scappatella " in una coppia condannata a vivere insieme per il resto di i suoi giorni , di un " tradimento " temporaneo anche <b>se</b> pericoloso , visto che ha subito ripercussioni planetarie .</em>
 * <em>quando</em>
   * [SCONJ]() 252: <em>Certo , <b>quando</b> si mette a fare la piccola democristiana non mi piace .</em>
   * [ADV]() 6: <em>Ecco come , dove , <b>quando</b> , in tema di rilassamento .</em>
@@ -107,7 +107,7 @@ The 10 most frequent `SCONJ` lemmas: <em>che, se, quando, come, perché, mentre,
 
 The 10 most frequent `SCONJ` types:  <em>che, se, quando, come, perché, mentre, sebbene, affinché, dopo, dove</em>
 
-The 10 most frequent ambiguous lemmas: <em>che</em> ([PRON]() 313, [SCONJ]() 283, [CCONJ]() 16, [ADP]() 9, [DET]() 1, [ADV]() 1), <em>se</em> ([SCONJ]() 66, [PRON]() 3), <em>come</em> ([ADP]() 129, [SCONJ]() 32, [ADV]() 11), <em>perché</em> ([SCONJ]() 24, [ADV]() 2), <em>mentre</em> ([SCONJ]() 22, [CCONJ]() 2), <em>sebbene</em> ([SCONJ]() 7, [CCONJ]() 1), <em>dopo</em> ([ADP]() 33, [ADV]() 6, [SCONJ]() 5), <em>dove</em> ([ADV]() 8, [SCONJ]() 3), <em>comunque</em> ([ADV]() 4, [SCONJ]() 2), <em>benché</em> ([SCONJ]() 1, [CCONJ]() 1)
+The 10 most frequent ambiguous lemmas: <em>che</em> ([PRON]() 313, [SCONJ]() 283, [CCONJ]() 16, [ADP]() 9, [ADV]() 1, [DET]() 1), <em>se</em> ([SCONJ]() 66, [PRON]() 3), <em>come</em> ([ADP]() 129, [SCONJ]() 32, [ADV]() 11), <em>perché</em> ([SCONJ]() 24, [ADV]() 2), <em>mentre</em> ([SCONJ]() 22, [CCONJ]() 2), <em>sebbene</em> ([SCONJ]() 7, [CCONJ]() 1), <em>dopo</em> ([ADP]() 33, [ADV]() 6, [SCONJ]() 5), <em>dove</em> ([ADV]() 8, [SCONJ]() 3), <em>comunque</em> ([ADV]() 4, [SCONJ]() 2), <em>benché</em> ([SCONJ]() 1, [CCONJ]() 1)
 
 The 10 most frequent ambiguous types:  <em>che</em> ([PRON]() 313, [SCONJ]() 283, [CCONJ]() 16, [ADP]() 9, [ADV]() 1), <em>se</em> ([SCONJ]() 56, [PRON]() 5), <em>come</em> ([ADP]() 121, [SCONJ]() 23, [ADV]() 6), <em>perché</em> ([SCONJ]() 18, [ADV]() 1), <em>mentre</em> ([SCONJ]() 19, [CCONJ]() 2), <em>sebbene</em> ([SCONJ]() 3, [CCONJ]() 1), <em>dopo</em> ([ADP]() 19, [ADV]() 6, [SCONJ]() 2), <em>dove</em> ([ADV]() 8, [SCONJ]() 3), <em>benché</em> ([SCONJ]() 1, [CCONJ]() 1), <em>malgrado</em> ([ADP]() 2, [SCONJ]() 1)
 

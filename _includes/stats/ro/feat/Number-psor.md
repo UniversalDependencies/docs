@@ -18,7 +18,7 @@ The feature is used with 2 part-of-speech tags: [ro-pos/DET]() (917; 0% instance
 
 917 [ro-pos/DET]() tokens (8% of all `DET` tokens) have a non-empty value of `Number[psor]`.
 
-The most frequent other feature values with which `DET` and `Number[psor]` co-occurred: <tt><a href="PronType.html">PronType</a>=Prs</tt> (917; 100%), <tt><a href="Position.html">Position</a>=EMPTY</tt> (917; 100%), <tt><a href="Poss.html">Poss</a>=Yes</tt> (917; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (737; 80%), <tt><a href="Person.html">Person</a>=3</tt> (714; 78%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (485; 53%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (485; 53%).
+The most frequent other feature values with which `DET` and `Number[psor]` co-occurred: <tt><a href="Position.html">Position</a>=EMPTY</tt> (917; 100%), <tt><a href="Poss.html">Poss</a>=Yes</tt> (917; 100%), <tt><a href="PronType.html">PronType</a>=Prs</tt> (917; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (737; 80%), <tt><a href="Person.html">Person</a>=3</tt> (714; 78%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (485; 53%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (485; 53%).
 
 `DET` tokens may have the following values of `Number[psor]`:
 
@@ -33,7 +33,7 @@ The most frequent other feature values with which `DET` and `Number[psor]` co-oc
 
 54 [ro-pos/PRON]() tokens (0% of all `PRON` tokens) have a non-empty value of `Number[psor]`.
 
-The most frequent other feature values with which `PRON` and `Number[psor]` co-occurred: <tt><a href="PronType.html">PronType</a>=Prs</tt> (54; 100%), <tt><a href="Reflex.html">Reflex</a>=EMPTY</tt> (54; 100%), <tt><a href="Strength.html">Strength</a>=EMPTY</tt> (54; 100%), <tt><a href="Variant.html">Variant</a>=EMPTY</tt> (54; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (38; 70%), <tt><a href="Person.html">Person</a>=3</tt> (35; 65%).
+The most frequent other feature values with which `PRON` and `Number[psor]` co-occurred: <tt><a href="Variant.html">Variant</a>=EMPTY</tt> (54; 100%), <tt><a href="Strength.html">Strength</a>=EMPTY</tt> (54; 100%), <tt><a href="PronType.html">PronType</a>=Prs</tt> (54; 100%), <tt><a href="Reflex.html">Reflex</a>=EMPTY</tt> (54; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (38; 70%), <tt><a href="Person.html">Person</a>=3</tt> (35; 65%).
 
 `PRON` tokens may have the following values of `Number[psor]`:
 

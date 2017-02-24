@@ -103,7 +103,7 @@ The most frequent other feature values with which `PROPN` and `Case` co-occurred
 
 3994 [sl-pos/DET]() tokens (85% of all `DET` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `DET` and `Case` co-occurred: <tt><a href="Number[psor].html">Number[psor]</a>=EMPTY</tt> (3262; 82%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (3262; 82%), <tt><a href="Number.html">Number</a>=Sing</tt> (2834; 71%), <tt><a href="Poss.html">Poss</a>=EMPTY</tt> (2833; 71%).
+The most frequent other feature values with which `DET` and `Case` co-occurred: <tt><a href="Person.html">Person</a>=EMPTY</tt> (3262; 82%), <tt><a href="Number[psor].html">Number[psor]</a>=EMPTY</tt> (3262; 82%), <tt><a href="Number.html">Number</a>=Sing</tt> (2834; 71%), <tt><a href="Poss.html">Poss</a>=EMPTY</tt> (2833; 71%).
 
 `DET` tokens may have the following values of `Case`:
 

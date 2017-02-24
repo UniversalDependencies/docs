@@ -27,15 +27,15 @@ The most frequent other feature values with which `VERB` and `Aspect` co-occurre
 <table>
   <tr><th>Paradigm <i>کر</i></th><th><tt>Imp</tt></th><th><tt>Perf</tt></th></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3</tt></td><td></td><td>کیے</td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Sing</tt></td><td></td><td>کئے, کیے</td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Sing</tt></td><td></td><td>کیے, کئے</td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Gender.html">Gender</a>=Fem|<a href="Number.html">Number</a>=Sing</tt></td><td></td><td>کی</td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Number.html">Number</a>=Sing</tt></td><td></td><td>کیے</td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Acc</tt></td><td></td><td>کیے, کرنے, کی</td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Acc</tt></td><td></td><td>کرنے, کیے, کی</td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Gender.html">Gender</a>=Fem|<a href="Number.html">Number</a>=Sing|<a href="Voice.html">Voice</a>=Act</tt></td><td></td><td>کی</td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Person.html">Person</a>=3|<a href="Voice.html">Voice</a>=Act</tt></td><td></td><td>کی</td></tr>
   <tr><td><tt><a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3|<a href="Polite.html">Polite</a>=Form|<a href="Voice.html">Voice</a>=Act</tt></td><td>کرتے</td><td>کئے</td></tr>
-  <tr><td><tt><a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3</tt></td><td></td><td>کیا, کئے, کیے</td></tr>
-  <tr><td><tt><a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3|<a href="Voice.html">Voice</a>=Act</tt></td><td></td><td>کیا, کئے, کر, کی</td></tr>
+  <tr><td><tt><a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3</tt></td><td></td><td>کئے, کیا, کیے</td></tr>
+  <tr><td><tt><a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3|<a href="Voice.html">Voice</a>=Act</tt></td><td></td><td>کیا, کئے, کی, کر</td></tr>
   <tr><td><tt><a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3|<a href="Voice.html">Voice</a>=Pass</tt></td><td></td><td>کیے, کئے</td></tr>
   <tr><td><tt><a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Sing</tt></td><td>کرتے, کرتا</td><td>کیا, کئے, کیے, کرتے</td></tr>
   <tr><td><tt><a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Sing|<a href="Voice.html">Voice</a>=Act</tt></td><td>کرتا, کرتے</td><td>کیا, کیے, کئے, کر, کی</td></tr>
@@ -44,7 +44,7 @@ The most frequent other feature values with which `VERB` and `Aspect` co-occurre
   <tr><td><tt><a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=3|<a href="Voice.html">Voice</a>=Act</tt></td><td></td><td>کئے, کیے, کیں</td></tr>
   <tr><td><tt><a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=3|<a href="Voice.html">Voice</a>=Pass</tt></td><td></td><td>کیے</td></tr>
   <tr><td><tt><a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Plur</tt></td><td>کرتے</td><td>کیے, کئے</td></tr>
-  <tr><td><tt><a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Plur|<a href="Voice.html">Voice</a>=Act</tt></td><td>کرتے</td><td>کیے, کریں, کئے</td></tr>
+  <tr><td><tt><a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Plur|<a href="Voice.html">Voice</a>=Act</tt></td><td>کرتے</td><td>کیے, کئے, کریں</td></tr>
   <tr><td><tt><a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Plur|<a href="Voice.html">Voice</a>=Pass</tt></td><td></td><td>کیے, کئے</td></tr>
   <tr><td><tt><a href="Gender.html">Gender</a>=Masc|<a href="Person.html">Person</a>=3</tt></td><td></td><td>کیے</td></tr>
   <tr><td><tt><a href="Gender.html">Gender</a>=Masc|<a href="Voice.html">Voice</a>=Act</tt></td><td></td><td>کیے</td></tr>
@@ -57,16 +57,16 @@ The most frequent other feature values with which `VERB` and `Aspect` co-occurre
   <tr><td><tt><a href="Gender.html">Gender</a>=Fem|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=3|<a href="Voice.html">Voice</a>=Act</tt></td><td></td><td>کیں</td></tr>
   <tr><td><tt><a href="Gender.html">Gender</a>=Fem|<a href="Number.html">Number</a>=Plur|<a href="Voice.html">Voice</a>=Act</tt></td><td>کرتیں</td><td>کیں</td></tr>
   <tr><td><tt><a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3|<a href="Polite.html">Polite</a>=Form|<a href="Voice.html">Voice</a>=Act</tt></td><td></td><td>کریں</td></tr>
-  <tr><td><tt><a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3|<a href="Voice.html">Voice</a>=Act</tt></td><td></td><td>کرے, کریں, کی</td></tr>
+  <tr><td><tt><a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3|<a href="Voice.html">Voice</a>=Act</tt></td><td></td><td>کرے, کی, کریں</td></tr>
   <tr><td><tt><a href="Number.html">Number</a>=Sing</tt></td><td>کرتے</td><td>کیے</td></tr>
-  <tr><td><tt><a href="Number.html">Number</a>=Sing|<a href="Voice.html">Voice</a>=Act</tt></td><td></td><td>کرے, کیے, کریں</td></tr>
+  <tr><td><tt><a href="Number.html">Number</a>=Sing|<a href="Voice.html">Voice</a>=Act</tt></td><td></td><td>کرے, کریں, کیے</td></tr>
   <tr><td><tt><a href="Number.html">Number</a>=Sing|<a href="Voice.html">Voice</a>=Pass</tt></td><td></td><td>کئے</td></tr>
   <tr><td><tt><a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=3|<a href="Polite.html">Polite</a>=Form|<a href="Voice.html">Voice</a>=Act</tt></td><td></td><td>کیے</td></tr>
   <tr><td><tt><a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=3</tt></td><td></td><td>کئے</td></tr>
   <tr><td><tt><a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=3|<a href="Voice.html">Voice</a>=Act</tt></td><td></td><td>کیے, کئے, کریں</td></tr>
   <tr><td><tt><a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=3|<a href="Voice.html">Voice</a>=Pass</tt></td><td></td><td>کئے</td></tr>
   <tr><td><tt><a href="Number.html">Number</a>=Plur</tt></td><td>کرتے</td><td>کیے, کئے, کیں</td></tr>
-  <tr><td><tt><a href="Number.html">Number</a>=Plur|<a href="Voice.html">Voice</a>=Act</tt></td><td></td><td>کریں, کئے, کرے, کیے, کیں</td></tr>
+  <tr><td><tt><a href="Number.html">Number</a>=Plur|<a href="Voice.html">Voice</a>=Act</tt></td><td></td><td>کریں, کئے, کیے, کیں, کرے</td></tr>
   <tr><td><tt><a href="Number.html">Number</a>=Plur|<a href="Voice.html">Voice</a>=Pass</tt></td><td></td><td>کیے, کئے, کیا</td></tr>
   <tr><td><tt></tt></td><td>کرتے</td><td>کیے, کئے, کیا</td></tr>
   <tr><td><tt><a href="Voice.html">Voice</a>=Act</tt></td><td>کرتا</td><td>کریں, کیے, کرے, کئے</td></tr>
@@ -77,7 +77,7 @@ The most frequent other feature values with which `VERB` and `Aspect` co-occurre
 
 3416 [ur-pos/AUX]() tokens (38% of all `AUX` tokens) have a non-empty value of `Aspect`.
 
-The most frequent other feature values with which `AUX` and `Aspect` co-occurred: <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (3416; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (3416; 100%), <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (3416; 100%), <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (3404; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (2854; 84%), <tt><a href="Number.html">Number</a>=Sing</tt> (2406; 70%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (1932; 57%).
+The most frequent other feature values with which `AUX` and `Aspect` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (3416; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (3416; 100%), <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (3416; 100%), <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (3404; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (2854; 84%), <tt><a href="Number.html">Number</a>=Sing</tt> (2406; 70%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (1932; 57%).
 
 `AUX` tokens may have the following values of `Aspect`:
 
@@ -96,10 +96,10 @@ The most frequent other feature values with which `AUX` and `Aspect` co-occurred
   <tr><td><tt><a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Plur</tt></td><td>جاتے</td><td>گئے, گیا, جانے, گئیں</td></tr>
   <tr><td><tt><a href="Gender.html">Gender</a>=Masc|<a href="Person.html">Person</a>=3|<a href="Polite.html">Polite</a>=Form</tt></td><td></td><td>گئے</td></tr>
   <tr><td><tt><a href="Gender.html">Gender</a>=Masc|<a href="Person.html">Person</a>=3</tt></td><td>جاتا, جاتے</td><td>گیا</td></tr>
-  <tr><td><tt><a href="Gender.html">Gender</a>=Masc</tt></td><td>جاتا</td><td>جائے, گیا</td></tr>
+  <tr><td><tt><a href="Gender.html">Gender</a>=Masc</tt></td><td>جاتا</td><td>گیا, جائے</td></tr>
   <tr><td><tt><a href="Gender.html">Gender</a>=Fem|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3|<a href="Polite.html">Polite</a>=Form</tt></td><td></td><td>گئیں</td></tr>
   <tr><td><tt><a href="Gender.html">Gender</a>=Fem|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3</tt></td><td>جاتی</td><td>گئی, گئیں</td></tr>
-  <tr><td><tt><a href="Gender.html">Gender</a>=Fem|<a href="Number.html">Number</a>=Sing</tt></td><td>جاتی</td><td>گئی, جانی, گئیں, جائے, ہے, تھی</td></tr>
+  <tr><td><tt><a href="Gender.html">Gender</a>=Fem|<a href="Number.html">Number</a>=Sing</tt></td><td>جاتی</td><td>گئی, جانی, ہے, گئیں, جائے, تھی</td></tr>
   <tr><td><tt><a href="Gender.html">Gender</a>=Fem|<a href="Number.html">Number</a>=Plur</tt></td><td></td><td>گئیں</td></tr>
   <tr><td><tt><a href="Gender.html">Gender</a>=Fem</tt></td><td>جاتی</td><td></td></tr>
   <tr><td><tt><a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3</tt></td><td></td><td>جائے, گئے</td></tr>
@@ -138,7 +138,7 @@ The most frequent other feature values with which `ADP` and `Aspect` co-occurred
 
 4 [ur-pos/NOUN]() tokens (0% of all `NOUN` tokens) have a non-empty value of `Aspect`.
 
-The most frequent other feature values with which `NOUN` and `Aspect` co-occurred: <tt><a href="Gender.html">Gender</a>=Masc</tt> (3; 75%), <tt><a href="Number.html">Number</a>=Sing</tt> (3; 75%).
+The most frequent other feature values with which `NOUN` and `Aspect` co-occurred: <tt><a href="Number.html">Number</a>=Sing</tt> (3; 75%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (3; 75%).
 
 `NOUN` tokens may have the following values of `Aspect`:
 
@@ -149,7 +149,7 @@ The most frequent other feature values with which `NOUN` and `Aspect` co-occurre
 
 2 [ur-pos/PRON]() tokens (0% of all `PRON` tokens) have a non-empty value of `Aspect`.
 
-The most frequent other feature values with which `PRON` and `Aspect` co-occurred: <tt><a href="PronType.html">PronType</a>=EMPTY</tt> (2; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (2; 100%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (2; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (2; 100%), <tt><a href="Polite.html">Polite</a>=EMPTY</tt> (2; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (2; 100%).
+The most frequent other feature values with which `PRON` and `Aspect` co-occurred: <tt><a href="Person.html">Person</a>=EMPTY</tt> (2; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (2; 100%), <tt><a href="Polite.html">Polite</a>=EMPTY</tt> (2; 100%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (2; 100%), <tt><a href="PronType.html">PronType</a>=EMPTY</tt> (2; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (2; 100%).
 
 `PRON` tokens may have the following values of `Aspect`:
 
@@ -160,12 +160,23 @@ The most frequent other feature values with which `PRON` and `Aspect` co-occurre
 
 2 [ur-pos/DET]() tokens (0% of all `DET` tokens) have a non-empty value of `Aspect`.
 
-The most frequent other feature values with which `DET` and `Aspect` co-occurred: <tt><a href="Person.html">Person</a>=EMPTY</tt> (2; 100%), <tt><a href="PronType.html">PronType</a>=Int</tt> (2; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (2; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (2; 100%).
+The most frequent other feature values with which `DET` and `Aspect` co-occurred: <tt><a href="PronType.html">PronType</a>=Int</tt> (2; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (2; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (2; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (2; 100%).
 
 `DET` tokens may have the following values of `Aspect`:
 
 * `Perf` (2; 100% of non-empty `Aspect`): کیا
 * `EMPTY` (2257): اس، یہ، ان، کئی، تمام، اسی، کچھ، ایسے، کوئی، ہر
+
+### `ADV`
+
+1 [ur-pos/ADV]() tokens (0% of all `ADV` tokens) have a non-empty value of `Aspect`.
+
+The most frequent other feature values with which `ADV` and `Aspect` co-occurred: <tt><a href="AdvType.html">AdvType</a>=EMPTY</tt> (1; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (1; 100%), <tt><a href="AdpType.html">AdpType</a>=EMPTY</tt> (1; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (1; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (1; 100%), <tt><a href="Person.html">Person</a>=3</tt> (1; 100%).
+
+`ADV` tokens may have the following values of `Aspect`:
+
+* `Perf` (1; 100% of non-empty `Aspect`): چاہے
+* `EMPTY` (1260): پیش، بعد، پہلے، پھر، بہت، سے، مزید، انتہائی، دوبارہ، دوران
 
 ### `CCONJ`
 
@@ -176,22 +187,11 @@ The most frequent other feature values with which `DET` and `Aspect` co-occurred
 * `Perf` (1; 100% of non-empty `Aspect`): آیا
 * `EMPTY` (2909): اور، و، لیکن، جبکہ، تاہم، یا، مگر، نیز، لہذا، آیا
 
-### `ADV`
-
-1 [ur-pos/ADV]() tokens (0% of all `ADV` tokens) have a non-empty value of `Aspect`.
-
-The most frequent other feature values with which `ADV` and `Aspect` co-occurred: <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (1; 100%), <tt><a href="AdvType.html">AdvType</a>=EMPTY</tt> (1; 100%), <tt><a href="Person.html">Person</a>=3</tt> (1; 100%), <tt><a href="AdpType.html">AdpType</a>=EMPTY</tt> (1; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (1; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (1; 100%).
-
-`ADV` tokens may have the following values of `Aspect`:
-
-* `Perf` (1; 100% of non-empty `Aspect`): چاہے
-* `EMPTY` (1260): پیش، بعد، پہلے، پھر، بہت، سے، مزید، انتہائی، دوبارہ، دوران
-
 ### `PART`
 
 1 [ur-pos/PART]() tokens (0% of all `PART` tokens) have a non-empty value of `Aspect`.
 
-The most frequent other feature values with which `PART` and `Aspect` co-occurred: <tt><a href="PronType.html">PronType</a>=EMPTY</tt> (1; 100%), <tt><a href="Polarity.html">Polarity</a>=EMPTY</tt> (1; 100%).
+The most frequent other feature values with which `PART` and `Aspect` co-occurred: <tt><a href="Polarity.html">Polarity</a>=EMPTY</tt> (1; 100%), <tt><a href="PronType.html">PronType</a>=EMPTY</tt> (1; 100%).
 
 `PART` tokens may have the following values of `Aspect`:
 
@@ -202,7 +202,7 @@ The most frequent other feature values with which `PART` and `Aspect` co-occurre
 
 1 [ur-pos/PROPN]() tokens (0% of all `PROPN` tokens) have a non-empty value of `Aspect`.
 
-The most frequent other feature values with which `PROPN` and `Aspect` co-occurred: <tt><a href="Person.html">Person</a>=EMPTY</tt> (1; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (1; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (1; 100%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (1; 100%).
+The most frequent other feature values with which `PROPN` and `Aspect` co-occurred: <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (1; 100%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (1; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (1; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (1; 100%).
 
 `PROPN` tokens may have the following values of `Aspect`:
 

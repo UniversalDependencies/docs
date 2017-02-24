@@ -11,9 +11,9 @@ The 10 most frequent `PROPN` lemmas: <em>Polska, Warszawa, Polak, Europa, Piotr,
 
 The 10 most frequent `PROPN` types:  <em>Polski, Polsce, Warszawie, Polska, Adam, Andrzej, Polaków, SLD, Warszawy, PiS</em>
 
-The 10 most frequent ambiguous lemmas: <em>SA</em> ([PROPN]() 5, [X]() 1), <em>C</em> ([X]() 1, [PROPN]() 1), <em>D</em> ([PROPN]() 1, [X]() 1), <em>M</em> ([X]() 5, [PROPN]() 1), <em>Nocny</em> ([ADJ]() 1, [PROPN]() 1)
+The 10 most frequent ambiguous lemmas: <em>SA</em> ([PROPN]() 5, [X]() 1), <em>C</em> ([X]() 1, [PROPN]() 1), <em>D</em> ([X]() 1, [PROPN]() 1), <em>M</em> ([X]() 5, [PROPN]() 1), <em>Nocny</em> ([PROPN]() 1, [ADJ]() 1)
 
-The 10 most frequent ambiguous types:  <em>Polski</em> ([PROPN]() 28, [ADJ]() 2), <em>Polska</em> ([PROPN]() 13, [ADJ]() 3), <em>Bóg</em> ([PROPN]() 5, [NOUN]() 3), <em>SA</em> ([PROPN]() 5, [X]() 1), <em>Panie</em> ([PROPN]() 4, [NOUN]() 4), <em>Woli</em> ([PROPN]() 4, [NOUN]() 1), <em>Pan</em> ([NOUN]() 46, [PROPN]() 3), <em>Zachodu</em> ([PROPN]() 3, [NOUN]() 2), <em>PO</em> ([PROPN]() 2, [ADP]() 1), <em>Tygodnia</em> ([PROPN]() 2, [NOUN]() 1)
+The 10 most frequent ambiguous types:  <em>Polski</em> ([PROPN]() 28, [ADJ]() 2), <em>Polska</em> ([PROPN]() 13, [ADJ]() 3), <em>Bóg</em> ([PROPN]() 5, [NOUN]() 3), <em>SA</em> ([PROPN]() 5, [X]() 1), <em>Panie</em> ([NOUN]() 4, [PROPN]() 4), <em>Woli</em> ([PROPN]() 4, [NOUN]() 1), <em>Pan</em> ([NOUN]() 46, [PROPN]() 3), <em>Zachodu</em> ([PROPN]() 3, [NOUN]() 2), <em>PO</em> ([PROPN]() 2, [ADP]() 1), <em>Tygodnia</em> ([PROPN]() 2, [NOUN]() 1)
 
 
 * <em>Polski</em>
@@ -29,8 +29,8 @@ The 10 most frequent ambiguous types:  <em>Polski</em> ([PROPN]() 28, [ADJ]() 2)
   * [PROPN]() 5: <em>– W HSW <b>SA</b> trwa obecnie wielkie liczenie .</em>
   * [X]() 1: <em>Na przełomie czerwca i lipca Stomil - Olsztyn <b>SA</b> zamierza oddać do użytku budowany właśnie magazyn opon .</em>
 * <em>Panie</em>
-  * [PROPN]() 4: <em>Od wolnej woli wybaw nas , <b>Panie</b> .</em>
   * [NOUN]() 4: <em>- <b>Panie</b> podchorąży , niech się pan pośpieszy .</em>
+  * [PROPN]() 4: <em>Od wolnej woli wybaw nas , <b>Panie</b> .</em>
 * <em>Woli</em>
   * [PROPN]() 4: <em>Na uwagę zasługuje grupa OrangeTheJuice ze Stalowej <b>Woli</b> .</em>
   * [NOUN]() 1: <em>Drużynowymi finałami zakończona została w poniedziałek rywalizacja pływaków o medale i dolarowe premie w Igrzyskach Dobrej <b>Woli</b> .</em>

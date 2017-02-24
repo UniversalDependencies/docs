@@ -82,7 +82,7 @@ The most frequent other feature values with which `PRON` and `PronType` co-occur
   <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Plur</tt></td><td></td><td><em>οἳ, τὰ, οἵ, οἱ</em></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=3</tt></td><td><em>οἱ, οἳ, ὃ, οἵ</em></td><td></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Gender.html">Gender</a>=Fem|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3</tt></td><td><em>ἣ, ἡ</em></td><td></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Gender.html">Gender</a>=Fem|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=3</tt></td><td><em>αἳ, αἵ, αἱ</em></td><td></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Gender.html">Gender</a>=Fem|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=3</tt></td><td><em>αἳ, αἱ, αἵ</em></td><td></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Gender.html">Gender</a>=Neut|<a href="Number.html">Number</a>=Sing</tt></td><td></td><td><em>τὸ, ὁ, ὅ</em></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Gender.html">Gender</a>=Neut|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3</tt></td><td><em>ὃ, τὸ, ὁ</em></td><td></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Gender.html">Gender</a>=Neut|<a href="Number.html">Number</a>=Plur</tt></td><td></td><td><em>τά, τὰ</em></td></tr>
@@ -103,7 +103,7 @@ The most frequent other feature values with which `ADV` and `PronType` co-occurr
 
 <table>
   <tr><th>Paradigm <i>ὡς</i></th><th><tt>Int</tt></th><th><tt>Rel</tt></th></tr>
-  <tr><td><tt></tt></td><td><em>ὡς, ὥς</em></td><td><em>ὡς, ὥς, ὣς, ὧς</em></td></tr>
+  <tr><td><tt></tt></td><td><em>ὡς, ὥς</em></td><td><em>ὡς, ὥς, ὧς, ὣς</em></td></tr>
 </table>
 
 `PronType` seems to be **lexical feature** of `ADV`. 91% lemmas (29) occur only with one value of `PronType`.

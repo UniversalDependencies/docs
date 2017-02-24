@@ -16,13 +16,23 @@ The feature is used with 3 part-of-speech tags: [ca-pos/NOUN]() (1475; 0% instan
 
 1475 [ca-pos/NOUN]() tokens (2% of all `NOUN` tokens) have a non-empty value of `AdvType`.
 
-The most frequent other feature values with which `NOUN` and `AdvType` co-occurred: <tt><a href="Number.html">Number</a>=EMPTY</tt> (1475; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (1475; 100%).
+The most frequent other feature values with which `NOUN` and `AdvType` co-occurred: <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (1475; 100%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (1475; 100%).
 
 `NOUN` tokens may have the following values of `AdvType`:
 
 * `Tim` (1475; 100% of non-empty `AdvType`): <em>1999, divendres, diumenge, 1998, dimecres, dilluns, dissabte, 2001, dijous, 2000</em>
 
 `AdvType` seems to be **lexical feature** of `NOUN`. 100% lemmas (281) occur only with one value of `AdvType`.
+
+### `SYM`
+
+1 [ca-pos/SYM]() tokens (0% of all `SYM` tokens) have a non-empty value of `AdvType`.
+
+The most frequent other feature values with which `SYM` and `AdvType` co-occurred: <tt><a href="NumForm.html">NumForm</a>=EMPTY</tt> (1; 100%), <tt><a href="NumType.html">NumType</a>=EMPTY</tt> (1; 100%).
+
+`SYM` tokens may have the following values of `AdvType`:
+
+* `Tim` (1; 100% of non-empty `AdvType`): <em>22,7%</em>
 
 ### `ADV`
 
@@ -33,16 +43,6 @@ The most frequent other feature values with which `ADV` and `AdvType` co-occurre
 `ADV` tokens may have the following values of `AdvType`:
 
 * `Tim` (1; 100% of non-empty `AdvType`): <em>més</em>
-
-### `SYM`
-
-1 [ca-pos/SYM]() tokens (0% of all `SYM` tokens) have a non-empty value of `AdvType`.
-
-The most frequent other feature values with which `SYM` and `AdvType` co-occurred: <tt><a href="NumType.html">NumType</a>=EMPTY</tt> (1; 100%), <tt><a href="NumForm.html">NumForm</a>=EMPTY</tt> (1; 100%).
-
-`SYM` tokens may have the following values of `AdvType`:
-
-* `Tim` (1; 100% of non-empty `AdvType`): <em>22,7%</em>
 
 ## Relations with Agreement in `AdvType`
 

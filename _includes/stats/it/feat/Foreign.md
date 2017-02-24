@@ -45,8 +45,8 @@ The most frequent other feature values with which `NOUN` and `Foreign` co-occurr
 The 10 most frequent relations where parent and child node agree in `Foreign`:
 <tt>X --[<a href="../dep/flat:foreign.html">flat:foreign</a>]--> X</tt> (100; 100%),
 <tt>X --[<a href="../dep/nmod.html">nmod</a>]--> X</tt> (3; 100%),
-<tt>X --[<a href="../dep/conj.html">conj</a>]--> X</tt> (2; 100%),
 <tt>PROPN --[<a href="../dep/flat:name.html">flat:name</a>]--> PROPN</tt> (2; 67%),
+<tt>X --[<a href="../dep/conj.html">conj</a>]--> X</tt> (2; 100%),
 <tt>X --[<a href="../dep/compound.html">compound</a>]--> X</tt> (1; 100%).
 
 

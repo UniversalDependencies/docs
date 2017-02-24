@@ -57,22 +57,23 @@ The following 12 pairs of parts of speech are connected with `csubj`: [lv-pos/VE
 
 
 ~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 5 csubj	color:blue
-1	Man	es	PRON	pp10sdn	Case=Dat|Number=Sing|Person=1|PronType=Prs	2	obl	_	_
-2	šķiet	šķist	VERB	vmnipi130an	Evident=Fh,Nfh|Mood=Ind|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
-3	,	,	PUNCT	zc	_	5	punct	_	_
-4	ka	ka	SCONJ	css	_	5	mark	_	_
-5	laba	laba	ADJ	affsnnp	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	2	csubj	_	_
-6	ir	būt	VERB	vcnipii30an	Evident=Fh,Nfh|Mood=Ind|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	5	cop	_	_
-7	dzeja	dzeja	NOUN	ncfsn4	Case=Nom|Gender=Fem|Number=Sing	5	nsubj	_	SpaceAfter=No
-8	,	,	PUNCT	zc	_	10	punct	_	_
-9	jaunie	jauns	ADJ	afmpnyp	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	10	amod	_	_
-10	autori	autors	NOUN	ncmpn1	Case=Nom|Gender=Masc|Number=Plur	7	conj	_	SpaceAfter=No
-11	.	.	PUNCT	zs	_	2	punct	_	_
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 7 csubj	color:blue
+1	Vai	vai	PART	qs	_	3	discourse	_	_
+2	nav	nebūt	VERB	vcnipii30ay	Evident=Fh,Nfh|Mood=Ind|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act	3	cop	_	_
+3	jocīgi	jocīgs	ADJ	afmpnnp	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	0	root	_	SpaceAfter=No
+4	,	,	PUNCT	zc	_	7	punct	_	_
+5	ka	ka	SCONJ	css	_	7	mark	_	_
+6	viņa	viņa	PRON	pp3fsnn	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	_
+7	nezina	nezināt	VERB	vmnipt330ay	Evident=Fh,Nfh|Mood=Ind|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act	3	csubj	_	SpaceAfter=No
+8	,	,	PUNCT	zc	_	9	punct	_	_
+9	kas	kas	PRON	pq000nn	Case=Nom|PronType=Int	7	ccomp	_	_
+10	viņa	viņa	PRON	pp3fsnn	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	9	nsubj	_	_
+11	ir	būt	VERB	vcnipii30an	Evident=Fh,Nfh|Mood=Ind|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	9	cop	_	SpaceAfter=No
+12	?	?	PUNCT	zs	_	3	punct	_	_
 
 ~~~
 

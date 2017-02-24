@@ -11,7 +11,7 @@ The 10 most frequent `VERB` lemmas: <em>εἰμί, ἔχω, γίγνομαι, φ
 
 The 10 most frequent `VERB` types:  <em>ἦν, εἶναι, προσέφη, ἔχων, φάτο, γενέσθαι, προσηύδα, ἐστὶ, ἔχει, εἰπὼν</em>
 
-The 10 most frequent ambiguous lemmas: <em>ἔχω</em> ([VERB]() 825, [X]() 1), <em>φύω</em> ([VERB]() 56, [X]() 1), <em>συμβάλλω</em> ([VERB]() 23, [X]() 1), <em>φροντίζω</em> ([VERB]() 11, [ADV]() 1), <em>φαέθω</em> ([VERB]() 2, [NOUN]() 1), <em>πρό</em> ([ADP]() 71, [ADV]() 12, [VERB]() 1), <em>ἄνω</em> ([ADV]() 10, [VERB]() 1, [ADP]() 1)
+The 10 most frequent ambiguous lemmas: <em>ἔχω</em> ([VERB]() 825, [X]() 1), <em>φύω</em> ([VERB]() 56, [X]() 1), <em>συμβάλλω</em> ([VERB]() 23, [X]() 1), <em>φροντίζω</em> ([VERB]() 11, [ADV]() 1), <em>φαέθω</em> ([VERB]() 2, [NOUN]() 1), <em>πρό</em> ([ADP]() 71, [ADV]() 12, [VERB]() 1), <em>ἄνω</em> ([ADV]() 10, [ADP]() 1, [VERB]() 1)
 
 The 10 most frequent ambiguous types:  <em>ἦ</em> ([ADV]() 167, [VERB]() 60, [CCONJ]() 19), <em>ἄρχοντος</em> ([VERB]() 20, [NOUN]() 1), <em>εἰδὼς</em> ([VERB]() 17, [NOUN]() 1), <em>ἔστ̓</em> ([VERB]() 17, [SCONJ]() 1), <em>ὄντα</em> ([VERB]() 15, [NOUN]() 1), <em>ἄγε</em> ([ADV]() 45, [VERB]() 12), <em>θάρσει</em> ([VERB]() 11, [NOUN]() 1), <em>δοκεῖς</em> ([VERB]() 9, [NOUN]() 1), <em>μένει</em> ([VERB]() 9, [NOUN]() 5), <em>οἴω</em> ([VERB]() 7, [ADJ]() 1)
 
@@ -100,9 +100,9 @@ The 10 most frequent `VERB` lemmas: <em>λέγω, γίγνομαι, ἔχω, π�
 
 The 10 most frequent `VERB` types:  <em>εἶπεν, λέγει, ἐγένετο, λέγω, λέγων, λέγοντες, ἔχει, γενέσθαι, ἔχων, δεῖ</em>
 
-The 10 most frequent ambiguous lemmas: <em>ἄνω</em> ([ADV]() 20, [ADP]() 2, [VERB]() 2), <em>εἰκός</em> ([NOUN]() 11, [VERB]() 1), <em>θύρα</em> ([NOUN]() 44, [VERB]() 1), <em>ἐπί</em> ([ADP]() 1360, [ADV]() 7, [SCONJ]() 2, [VERB]() 1)
+The 10 most frequent ambiguous lemmas: <em>ἄνω</em> ([ADV]() 20, [VERB]() 2, [ADP]() 2), <em>εἰκός</em> ([NOUN]() 11, [VERB]() 1), <em>θύρα</em> ([NOUN]() 44, [VERB]() 1), <em>ἐπί</em> ([ADP]() 1360, [ADV]() 7, [SCONJ]() 2, [VERB]() 1)
 
-The 10 most frequent ambiguous types:  <em>ποιήσει</em> ([VERB]() 17, [NOUN]() 1), <em>ὑπάρχων</em> ([VERB]() 13, [NOUN]() 1), <em>ἔα</em> ([VERB]() 8, [INTJ]() 1), <em>ὥρα</em> ([NOUN]() 30, [VERB]() 7), <em>ἀσθενῶν</em> ([VERB]() 5, [ADJ]() 2), <em>ταπεινώσει</em> ([VERB]() 3, [NOUN]() 1), <em>δόξῃ</em> ([NOUN]() 19, [VERB]() 2), <em>κλίνῃ</em> ([VERB]() 2, [NOUN]() 2), <em>οἰκότα</em> ([NOUN]() 2, [VERB]() 2), <em>ἄρχοντας</em> ([NOUN]() 5, [VERB]() 2)
+The 10 most frequent ambiguous types:  <em>ποιήσει</em> ([VERB]() 17, [NOUN]() 1), <em>ὑπάρχων</em> ([VERB]() 13, [NOUN]() 1), <em>ἔα</em> ([VERB]() 8, [INTJ]() 1), <em>ὥρα</em> ([NOUN]() 30, [VERB]() 7), <em>ἀσθενῶν</em> ([VERB]() 5, [ADJ]() 2), <em>ταπεινώσει</em> ([VERB]() 3, [NOUN]() 1), <em>δόξῃ</em> ([NOUN]() 19, [VERB]() 2), <em>κλίνῃ</em> ([NOUN]() 2, [VERB]() 2), <em>οἰκότα</em> ([VERB]() 2, [NOUN]() 2), <em>ἄρχοντας</em> ([NOUN]() 5, [VERB]() 2)
 
 
 * <em>ποιήσει</em>
@@ -127,11 +127,11 @@ The 10 most frequent ambiguous types:  <em>ποιήσει</em> ([VERB]() 17, [NO
   * [NOUN]() 19: <em>οὐδὲ Σολομὼν ἐν πάσῃ τῇ <b>δόξῃ</b> αὐτοῦ περιεβάλετο ὡς ἓν τούτων</em>
   * [VERB]() 2: <em>μή τίς με <b>δόξῃ</b> ἄφρονα εἶναι</em>
 * <em>κλίνῃ</em>
-  * [VERB]() 2: <em>ὁ δὲ υἱὸς τοῦ ἀνθρώπου οὐκ ἔχει ποῦ τὴν κεφαλὴν <b>κλίνῃ</b></em>
   * [NOUN]() 2: <em>ὃς δ’ ἂν ἐν πολέμῳ τῶν βασιλέων ἀποθάνῃ τούτῳ δὲ εἴδωλον σκευάσαντες ἐν <b>κλίνῃ</b> εὖ ἐστρωμένῃ ἐκφέρουσι</em>
+  * [VERB]() 2: <em>ὁ δὲ υἱὸς τοῦ ἀνθρώπου οὐκ ἔχει ποῦ τὴν κεφαλὴν <b>κλίνῃ</b></em>
 * <em>οἰκότα</em>
-  * [NOUN]() 2: <em>ὦ βασιλεῦ τὰ μὲν <b>οἰκότα</b> εἴρηκας</em>
   * [VERB]() 2: <em>οὕτω ὦν καὶ τὰ ἀπὸ τῆς νήσου τῆς ἐπὶ Λιβύῃ κειμένης <b>οἰκότα</b> ἐστὶ ἀληθείῃ</em>
+  * [NOUN]() 2: <em>ὦ βασιλεῦ τὰ μὲν <b>οἰκότα</b> εἴρηκας</em>
 * <em>ἄρχοντας</em>
   * [NOUN]() 5: <em>ἀπικόμενος δὲ ἐπὶ τοὺς <b>ἄρχοντας</b> ἔλεγε</em>
   * [VERB]() 2: <em>παυσάμενος δὲ βασίλευε τῶν σεωυτοῦ καὶ ἡμέας ἀνέχευ ὁρέων <b>ἄρχοντας</b> τῶν περ ἄρχομεν</em>

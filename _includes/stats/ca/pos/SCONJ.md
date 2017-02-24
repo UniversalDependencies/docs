@@ -11,9 +11,9 @@ The 10 most frequent `SCONJ` lemmas: <em>que, com, perquè, si, quan, segons, me
 
 The 10 most frequent `SCONJ` types:  <em>que, com, perquè, si, quan, segons, mentre, on, perqu, Como</em>
 
-The 10 most frequent ambiguous lemmas: <em>que</em> ([PRON]() 6414, [SCONJ]() 6036, [CCONJ]() 4, [DET]() 1), <em>com</em> ([SCONJ]() 1649, [PRON]() 95, [ADP]() 2, [ADV]() 1, [NOUN]() 1), <em>perquè</em> ([SCONJ]() 571, [NOUN]() 3), <em>si</em> ([SCONJ]() 545, [NOUN]() 10), <em>quan</em> ([SCONJ]() 412, [PRON]() 45, [NOUN]() 2), <em>segons</em> ([ADP]() 610, [SCONJ]() 219, [PROPN]() 1), <em>mentre</em> ([CCONJ]() 145, [SCONJ]() 89), <em>on</em> ([PRON]() 395, [SCONJ]() 10, [PROPN]() 7, [NOUN]() 1), <em>abans</em> ([ADV]() 207, [NOUN]() 1, [SCONJ]() 1), <em>conforme</em> ([ADJ]() 2, [SCONJ]() 1)
+The 10 most frequent ambiguous lemmas: <em>que</em> ([PRON]() 6414, [SCONJ]() 6036, [CCONJ]() 4, [DET]() 1), <em>com</em> ([SCONJ]() 1649, [PRON]() 95, [ADP]() 2, [ADV]() 1, [NOUN]() 1), <em>perquè</em> ([SCONJ]() 571, [NOUN]() 3), <em>si</em> ([SCONJ]() 545, [NOUN]() 10), <em>quan</em> ([SCONJ]() 412, [PRON]() 45, [NOUN]() 2), <em>segons</em> ([ADP]() 610, [SCONJ]() 219, [PROPN]() 1), <em>mentre</em> ([CCONJ]() 145, [SCONJ]() 89), <em>on</em> ([PRON]() 395, [SCONJ]() 10, [PROPN]() 7, [NOUN]() 1), <em>abans</em> ([ADV]() 207, [SCONJ]() 1, [NOUN]() 1), <em>conforme</em> ([ADJ]() 2, [SCONJ]() 1)
 
-The 10 most frequent ambiguous types:  <em>que</em> ([PRON]() 6414, [SCONJ]() 6004, [CCONJ]() 4), <em>com</em> ([SCONJ]() 1588, [PRON]() 84, [ADP]() 2, [ADV]() 1, [NOUN]() 1), <em>perquè</em> ([SCONJ]() 556, [NOUN]() 3), <em>si</em> ([SCONJ]() 424, [PRON]() 12, [NOUN]() 10), <em>quan</em> ([SCONJ]() 357, [PRON]() 44, [NOUN]() 2), <em>segons</em> ([ADP]() 298, [SCONJ]() 153, [NOUN]() 7, [ADJ]() 3, [PROPN]() 1), <em>mentre</em> ([CCONJ]() 132, [SCONJ]() 78), <em>on</em> ([PRON]() 391, [SCONJ]() 10, [PROPN]() 7, [NOUN]() 1), <em>abans</em> ([ADV]() 190, [NOUN]() 1, [SCONJ]() 1), <em>conforme</em> ([ADJ]() 2, [SCONJ]() 1)
+The 10 most frequent ambiguous types:  <em>que</em> ([PRON]() 6414, [SCONJ]() 6004, [CCONJ]() 4), <em>com</em> ([SCONJ]() 1588, [PRON]() 84, [ADP]() 2, [NOUN]() 1, [ADV]() 1), <em>perquè</em> ([SCONJ]() 556, [NOUN]() 3), <em>si</em> ([SCONJ]() 424, [PRON]() 12, [NOUN]() 10), <em>quan</em> ([SCONJ]() 357, [PRON]() 44, [NOUN]() 2), <em>segons</em> ([ADP]() 298, [SCONJ]() 153, [NOUN]() 7, [ADJ]() 3, [PROPN]() 1), <em>mentre</em> ([CCONJ]() 132, [SCONJ]() 78), <em>on</em> ([PRON]() 391, [SCONJ]() 10, [PROPN]() 7, [NOUN]() 1), <em>abans</em> ([ADV]() 190, [SCONJ]() 1, [NOUN]() 1), <em>conforme</em> ([ADJ]() 2, [SCONJ]() 1)
 
 
 * <em>que</em>
@@ -24,8 +24,8 @@ The 10 most frequent ambiguous types:  <em>que</em> ([PRON]() 6414, [SCONJ]() 60
   * [SCONJ]() 1588: <em>L' agència era tan controlada <b>com</b> antiquada .</em>
   * [PRON]() 84: <em>Cal esperar a veure <b>com</b> evolucionarà .</em>
   * [ADP]() 2: <em>La processada , en canvi , va atribuir els fets a " certs problemes " , mentre que la víctima es va limitar a dir que " ens vàrem barallar <b>com</b> homes " .</em>
-  * [ADV]() 1: <em>Vázquez va ser condemnada per assassinat , tal com va demanar l' acusació particular , i no per homicidi - cosa que comporta una pena menor - <b>com</b> reclamava la fiscalia .</em>
   * [NOUN]() 1: <em>La decisió , del consell d' administració de la cadena , obeeix al fet que l' extensió <b>com</b> és " més internacional i comercial " , segons Jordi Vilardell , responsable del departament a TVC .</em>
+  * [ADV]() 1: <em>Vázquez va ser condemnada per assassinat , tal com va demanar l' acusació particular , i no per homicidi - cosa que comporta una pena menor - <b>com</b> reclamava la fiscalia .</em>
 * <em>perquè</em>
   * [SCONJ]() 556: <em>No tinc por de tornar a França , <b>perquè</b> tot es va acabar .</em>
   * [NOUN]() 3: <em>El plat fort d' aquesta edició especial és una tertúlia en què el president de la Generalitat , Jordi Pujol , i el bisbe auxiliar de Barcelona , Joan Carrera , expliquen el <b>perquè</b> de les seves creences cristianes .</em>
@@ -53,8 +53,8 @@ The 10 most frequent ambiguous types:  <em>que</em> ([PRON]() 6414, [SCONJ]() 60
   * [NOUN]() 1: <em>Una vegada obtinguda la firma electrònica - que caduca al cap de dos anys - és possible pagar impostos <b>on</b> line , sol·licitar devolucions , saber immediatament quina informació té l' Agència Tributària sobre un mateix , demanar una rectificació d' una autoliquidació , presentar un recurs o obtenir un certificat d' haver declarat a través d' internet .</em>
 * <em>abans</em>
   * [ADV]() 190: <em>L' empresa ja havia acomiadat 8.000 persones <b>abans</b> d' anunciar el pla .</em>
-  * [NOUN]() 1: <em>" Desgraciadament - afegeixen al PSC - hi ha un <b>abans</b> i un després del 96 , i les alarmes d' incompliments de terminis per al TGV a Catalunya i l' enllaç amb França s' han produït en els últims dos anys " .</em>
   * [SCONJ]() 1: <em>Cruz ha explicat , a més , que els interins estan obligats a esgotar el seu període de vacances <b>abans</b> no es resolgui el concurs de la seva plaça , i que si la mobilitat alenteix l' agilitat dels jutjats , " perquè cada un de nou que ve ha d' aprendre el funcionament " , aquesta normativa sobre les vacances " encara ho empitjora " .</em>
+  * [NOUN]() 1: <em>" Desgraciadament - afegeixen al PSC - hi ha un <b>abans</b> i un després del 96 , i les alarmes d' incompliments de terminis per al TGV a Catalunya i l' enllaç amb França s' han produït en els últims dos anys " .</em>
 * <em>conforme</em>
   * [ADJ]() 2: <em>A Barcelona s' ha produït a més a més una magnífica coincidència per matar dos pardals d' un tret : els escandalosos i pendulars bevedors de cervesa eren els seguidors anglesos , mentre que els alemanys no es comportaven tampoc <b>conforme</b> al tòpic que els correspon .</em>
   * [SCONJ]() 1: <em>Paral·lelament , el jutge ha relatat que rebia queixes dels interns <b>conforme</b> no havien estat visitats .</em>

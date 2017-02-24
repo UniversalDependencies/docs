@@ -11,7 +11,7 @@ The 10 most frequent `ADJ` lemmas: <em>жалғыз, жоқ, бастапқы, �
 
 The 10 most frequent `ADJ` types:  <em>жалғыз, жоқ, бастапқы, жас, қасиетті, Ақ, Бітеу, арғы, аулақта, ағылшын</em>
 
-The 10 most frequent ambiguous lemmas: <em>жас</em> ([NOUN]() 4, [ADJ]() 2), <em>жат</em> ([ADJ]() 2, [VERB]() 2), <em>бар</em> ([ADJ]() 1, [VERB]() 1), <em>керек</em> ([ADJ]() 1, [X]() 1)
+The 10 most frequent ambiguous lemmas: <em>жас</em> ([NOUN]() 4, [ADJ]() 2), <em>жат</em> ([VERB]() 2, [ADJ]() 2), <em>бар</em> ([VERB]() 1, [ADJ]() 1), <em>керек</em> ([X]() 1, [ADJ]() 1)
 
 The 10 most frequent ambiguous types:  <em>керек</em> ([ADJ]() 1, [X]() 1)
 

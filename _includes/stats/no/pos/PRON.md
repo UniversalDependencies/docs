@@ -11,7 +11,7 @@ The 10 most frequent `PRON` lemmas: <em>det, som, jeg, vi, han, de, seg, hun, du
 
 The 10 most frequent `PRON` types:  <em>det, som, jeg, han, vi, de, seg, hun, du, dette</em>
 
-The 10 most frequent ambiguous lemmas: <em>det</em> ([PRON]() 4907, [DET]() 1008, [X]() 2), <em>som</em> ([PRON]() 3019, [ADP]() 1282, [SCONJ]() 24, [X]() 2), <em>jeg</em> ([PRON]() 2517, [NOUN]() 4), <em>vi</em> ([PRON]() 1984, [NOUN]() 1), <em>de</em> ([PRON]() 1489, [DET]() 1233, [PROPN]() 11, [X]() 5, [ADV]() 1), <em>du</em> ([PRON]() 748, [NOUN]() 1), <em>dette</em> ([PRON]() 525, [DET]() 154), <em>man</em> ([PRON]() 439, [NOUN]() 1, [X]() 1), <em>den</em> ([DET]() 1368, [PRON]() 408), <em>noe</em> ([PRON]() 290, [DET]() 15)
+The 10 most frequent ambiguous lemmas: <em>det</em> ([PRON]() 4907, [DET]() 1008, [X]() 2), <em>som</em> ([PRON]() 3019, [ADP]() 1282, [SCONJ]() 24, [X]() 2), <em>jeg</em> ([PRON]() 2517, [NOUN]() 4), <em>vi</em> ([PRON]() 1984, [NOUN]() 1), <em>de</em> ([PRON]() 1489, [DET]() 1233, [PROPN]() 11, [X]() 5, [ADV]() 1), <em>du</em> ([PRON]() 748, [NOUN]() 1), <em>dette</em> ([PRON]() 525, [DET]() 154), <em>man</em> ([PRON]() 439, [X]() 1, [NOUN]() 1), <em>den</em> ([DET]() 1368, [PRON]() 408), <em>noe</em> ([PRON]() 290, [DET]() 15)
 
 The 10 most frequent ambiguous types:  <em>det</em> ([PRON]() 3400, [DET]() 845, [X]() 2), <em>som</em> ([PRON]() 3019, [ADP]() 1209, [X]() 2), <em>jeg</em> ([PRON]() 1314, [NOUN]() 4), <em>vi</em> ([PRON]() 1127, [NOUN]() 1), <em>de</em> ([DET]() 1072, [PRON]() 960, [PROPN]() 11, [X]() 5, [ADV]() 1), <em>du</em> ([PRON]() 531, [NOUN]() 1), <em>dette</em> ([PRON]() 337, [DET]() 126), <em>man</em> ([PRON]() 390, [NOUN]() 1, [X]() 1), <em>den</em> ([DET]() 1162, [PRON]() 332), <em>meg</em> ([PRON]() 399, [ADP]() 1)
 

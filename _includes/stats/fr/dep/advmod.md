@@ -113,25 +113,6 @@ The following 22 pairs of parts of speech are connected with `advmod`: [fr-pos/V
 
 
 ~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 4 advmod	color:blue
-1	Ça	ce	PRON	PD	PronType=Dem	5	nsubj	_	_
-2	peut	pouvoir	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	_
-3	être	être	AUX	VA	VerbForm=Inf	5	cop	_	_
-4	très	très	ADV	B	_	5	advmod	_	_
-5	compliqué	compliqué	ADJ	A	Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
-6	,	,	PUNCT	FF	_	5	punct	_	_
-7	l'	le	DET	RD	Definite=Def|Number=Sing|PronType=Art	8	det	_	SpaceAfter=No
-8	océan	océan	NOUN	S	Gender=Masc|Number=Sing	5	dislocated	_	SpaceAfter=No
-9	.	.	PUNCT	FS	_	5	punct	_	_
-
-~~~
-
-
-~~~ conllu
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 6	bgColor:blue
@@ -149,6 +130,25 @@ The following 22 pairs of parts of speech are connected with `advmod`: [fr-pos/V
 10	l'	le	DET	RD	Definite=Def|Number=Sing|PronType=Art	11	det	_	SpaceAfter=No
 11	oeuvre	oeuvre	NOUN	S	Gender=Fem|Number=Sing	8	nmod	_	SpaceAfter=No
 12	.	.	PUNCT	FS	_	6	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 4 advmod	color:blue
+1	Ça	ce	PRON	PD	PronType=Dem	5	nsubj	_	_
+2	peut	pouvoir	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	_
+3	être	être	AUX	VA	VerbForm=Inf	5	cop	_	_
+4	très	très	ADV	B	_	5	advmod	_	_
+5	compliqué	compliqué	ADJ	A	Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+6	,	,	PUNCT	FF	_	5	punct	_	_
+7	l'	le	DET	RD	Definite=Def|Number=Sing|PronType=Art	8	det	_	SpaceAfter=No
+8	océan	océan	NOUN	S	Gender=Masc|Number=Sing	5	dislocated	_	SpaceAfter=No
+9	.	.	PUNCT	FS	_	5	punct	_	_
 
 ~~~
 

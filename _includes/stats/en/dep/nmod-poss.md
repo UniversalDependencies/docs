@@ -253,23 +253,19 @@ The following 8 pairs of parts of speech are connected with `nmod:poss`: [en-pos
 ~~~ conllu
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 7 6 nmod:poss	color:blue
-1	Naturally	_	ADV	_	_	5	advmod	_	_
-2	the	_	DET	DEF	_	3	det	_	_
-3	Commission	_	NOUN	SG-NOM	_	5	nsubj	_	_
-4	will	_	AUX	PRES-AUX	_	5	aux	_	_
-5	do	_	VERB	INF	_	0	root	_	_
-6	its	_	PRON	SG-GEN	_	7	nmod:poss	_	_
-7	best	_	ADJ	SPL	_	5	xcomp	_	_
-8	to	_	PART	_	_	9	mark	_	_
-9	ensure	_	VERB	INF	_	7	acl	_	_
-10	that	_	SCONJ	_	_	13	mark	_	_
-11	progress	_	NOUN	SG-NOM	_	13	nsubj:pass	_	_
-12	is	_	AUX	PRES-AUX	_	13	aux	_	_
-13	made	_	VERB	PASS	_	9	ccomp	_	SpaceAfter=No
-14	.	_	PUNCT	Period	_	5	punct	_	_
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 8 6 nmod:poss	color:blue
+1	Perhaps	_	ADV	_	_	4	advmod	_	_
+2	he	_	PRON	PERS-P3SG-NOM	_	4	nsubj	_	_
+3	simply	_	ADV	_	_	4	advmod	_	_
+4	remarked	_	VERB	PAST	_	0	root	_	_
+5	upon	_	ADP	_	_	8	case	_	_
+6	his	_	PRON	P3SG-GEN	_	8	nmod:poss	_	_
+7	own	_	ADJ	POS	_	8	amod	_	_
+8	getting	_	VERB	ING	_	4	advcl	_	_
+9	older	_	ADJ	CMP	_	8	xcomp	_	SpaceAfter=No
+10	;	_	PUNCT	Semicolon	_	4	punct	_	_
 
 ~~~
 

@@ -84,7 +84,7 @@ The most frequent other feature values with which `PRON` and `Typo` co-occurred:
 
 10 [fi-pos/AUX]() tokens (0% of all `AUX` tokens) have a non-empty value of `Typo`.
 
-The most frequent other feature values with which `AUX` and `Typo` co-occurred: <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (9; 90%), <tt><a href="Voice.html">Voice</a>=Act</tt> (9; 90%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (8; 80%), <tt><a href="Number.html">Number</a>=Sing</tt> (8; 80%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (6; 60%), <tt><a href="Polarity.html">Polarity</a>=EMPTY</tt> (6; 60%).
+The most frequent other feature values with which `AUX` and `Typo` co-occurred: <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (9; 90%), <tt><a href="Voice.html">Voice</a>=Act</tt> (9; 90%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (8; 80%), <tt><a href="Number.html">Number</a>=Sing</tt> (8; 80%), <tt><a href="Polarity.html">Polarity</a>=EMPTY</tt> (6; 60%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (6; 60%).
 
 `AUX` tokens may have the following values of `Typo`:
 
@@ -116,6 +116,14 @@ The most frequent other feature values with which `NUM` and `Typo` co-occurred: 
 
 * `Yes` (2; 100% of non-empty `Typo`): <em>kahden, miljoona</em>
 
+### `INTJ`
+
+1 [fi-pos/INTJ]() tokens (1% of all `INTJ` tokens) have a non-empty value of `Typo`.
+
+`INTJ` tokens may have the following values of `Typo`:
+
+* `Yes` (1; 100% of non-empty `Typo`): <em>joo.</em>
+
 ### `ADP`
 
 1 [fi-pos/ADP]() tokens (0% of all `ADP` tokens) have a non-empty value of `Typo`.
@@ -126,21 +134,13 @@ The most frequent other feature values with which `ADP` and `Typo` co-occurred: 
 
 * `Yes` (1; 100% of non-empty `Typo`): <em>sekaan.</em>
 
-### `INTJ`
-
-1 [fi-pos/INTJ]() tokens (1% of all `INTJ` tokens) have a non-empty value of `Typo`.
-
-`INTJ` tokens may have the following values of `Typo`:
-
-* `Yes` (1; 100% of non-empty `Typo`): <em>joo.</em>
-
 ## Relations with Agreement in `Typo`
 
 The 10 most frequent relations where parent and child node agree in `Typo`:
 <tt>PROPN --[<a href="../dep/goeswith.html">goeswith</a>]--> PROPN</tt> (1; 100%),
-<tt>VERB --[<a href="../dep/advcl.html">advcl</a>]--> NOUN</tt> (1; 100%),
-<tt>ADV --[<a href="../dep/goeswith.html">goeswith</a>]--> ADV</tt> (1; 100%),
 <tt>VERB --[<a href="../dep/goeswith.html">goeswith</a>]--> VERB</tt> (1; 100%),
 <tt>PROPN --[<a href="../dep/acl:relcl.html">acl:relcl</a>]--> VERB</tt> (1; 100%),
+<tt>VERB --[<a href="../dep/advcl.html">advcl</a>]--> NOUN</tt> (1; 100%),
+<tt>ADV --[<a href="../dep/goeswith.html">goeswith</a>]--> ADV</tt> (1; 100%),
 <tt>NOUN --[<a href="../dep/goeswith.html">goeswith</a>]--> NOUN</tt> (1; 100%).
 

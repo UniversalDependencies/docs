@@ -130,7 +130,7 @@ The most frequent other feature values with which `AUX` and `Number` co-occurred
 
 <table>
   <tr><th>Paradigm <i>haber</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
-  <tr><td><tt><a href="Gender.html">Gender</a>=Masc</tt></td><td><em>han, haber</em></td><td></td></tr>
+  <tr><td><tt><a href="Gender.html">Gender</a>=Masc</tt></td><td><em>haber, han</em></td><td></td></tr>
   <tr><td><tt><a href="Gender.html">Gender</a>=Fem|<a href="Person.html">Person</a>=3</tt></td><td></td><td><em>has</em></td></tr>
   <tr><td><tt><a href="Mood.html">Mood</a>=Cnd|<a href="Person.html">Person</a>=3</tt></td><td><em>habría</em></td><td><em>habrían</em></td></tr>
   <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Person.html">Person</a>=1|<a href="Tense.html">Tense</a>=Imp</tt></td><td></td><td><em>habíamos</em></td></tr>
@@ -420,7 +420,7 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
 
 2596 [es-pos/NUM]() tokens (33% of all `NUM` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `NUM` and `Number` co-occurred: <tt><a href="NumType.html">NumType</a>=Card</tt> (2595; 100%), <tt><a href="NumForm.html">NumForm</a>=EMPTY</tt> (2595; 100%).
+The most frequent other feature values with which `NUM` and `Number` co-occurred: <tt><a href="NumForm.html">NumForm</a>=EMPTY</tt> (2595; 100%), <tt><a href="NumType.html">NumType</a>=Card</tt> (2595; 100%).
 
 `NUM` tokens may have the following values of `Number`:
 

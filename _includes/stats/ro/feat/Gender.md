@@ -81,7 +81,7 @@ The most frequent other feature values with which `DET` and `Gender` co-occurred
 
 7036 [ro-pos/VERB]() tokens (33% of all `VERB` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `VERB` and `Gender` co-occurred: <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (7036; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (7036; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (7036; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (7036; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (5156; 73%).
+The most frequent other feature values with which `VERB` and `Gender` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (7036; 100%), <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (7036; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (7036; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (7036; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (5156; 73%).
 
 `VERB` tokens may have the following values of `Gender`:
 
@@ -134,7 +134,7 @@ The most frequent other feature values with which `NUM` and `Gender` co-occurred
 
 547 [ro-pos/AUX]() tokens (7% of all `AUX` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `AUX` and `Gender` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (547; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (547; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (547; 100%), <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (547; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (547; 100%).
+The most frequent other feature values with which `AUX` and `Gender` co-occurred: <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (547; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (547; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (547; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (547; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (547; 100%).
 
 `AUX` tokens may have the following values of `Gender`:
 

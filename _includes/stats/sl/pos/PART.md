@@ -100,9 +100,9 @@ The 10 most frequent `PART` lemmas: <em>ne, ja, tudi, še, že, no, samo, pač, 
 
 The 10 most frequent `PART` types:  <em>ne, ja, tudi, še, že, no, samo, pač, seveda, naj</em>
 
-The 10 most frequent ambiguous lemmas: <em>da</em> ([SCONJ]() 342, [PART]() 11, [X]() 1), <em>prav</em> ([PART]() 11, [ADV]() 7), <em>več</em> ([DET]() 22, [PART]() 11), <em>sicer</em> ([CCONJ]() 14, [PART]() 10), <em>ravno</em> ([PART]() 4, [ADV]() 1), <em>edino</em> ([ADV]() 1, [PART]() 1)
+The 10 most frequent ambiguous lemmas: <em>da</em> ([SCONJ]() 342, [PART]() 11, [X]() 1), <em>prav</em> ([PART]() 11, [ADV]() 7), <em>več</em> ([DET]() 22, [PART]() 11), <em>sicer</em> ([CCONJ]() 14, [PART]() 10), <em>ravno</em> ([PART]() 4, [ADV]() 1), <em>edino</em> ([PART]() 1, [ADV]() 1)
 
-The 10 most frequent ambiguous types:  <em>še</em> ([PART]() 141, [X]() 1), <em>samo</em> ([PART]() 74, [ADJ]() 1), <em>ma</em> ([PART]() 12, [X]() 1), <em>da</em> ([SCONJ]() 342, [VERB]() 11, [PART]() 11, [X]() 1), <em>prav</em> ([PART]() 11, [ADV]() 7, [VERB]() 1), <em>več</em> ([DET]() 22, [PART]() 11), <em>sicer</em> ([CCONJ]() 14, [PART]() 10), <em>celo</em> ([PART]() 6, [ADJ]() 2), <em>ravno</em> ([PART]() 4, [ADV]() 1), <em>edino</em> ([PART]() 1, [ADJ]() 1, [ADV]() 1)
+The 10 most frequent ambiguous types:  <em>še</em> ([PART]() 141, [X]() 1), <em>samo</em> ([PART]() 74, [ADJ]() 1), <em>ma</em> ([PART]() 12, [X]() 1), <em>da</em> ([SCONJ]() 342, [VERB]() 11, [PART]() 11, [X]() 1), <em>prav</em> ([PART]() 11, [ADV]() 7, [VERB]() 1), <em>več</em> ([DET]() 22, [PART]() 11), <em>sicer</em> ([CCONJ]() 14, [PART]() 10), <em>celo</em> ([PART]() 6, [ADJ]() 2), <em>ravno</em> ([PART]() 4, [ADV]() 1), <em>edino</em> ([ADV]() 1, [ADJ]() 1, [PART]() 1)
 
 
 * <em>še</em>
@@ -136,9 +136,9 @@ The 10 most frequent ambiguous types:  <em>še</em> ([PART]() 141, [X]() 1), <em
   * [PART]() 4: <em><b>ravno</b> prav <b>ravno</b> pravšnja eee eee moč mora biti a ne</em>
   * [ADV]() 1: <em><b>ravno</b> ne … vav … kam pa greš ?</em>
 * <em>edino</em>
-  * [PART]() 1: <em>ne <b>edino</b> če starši se trudijo ne ampak ja ja ja</em>
-  * [ADJ]() 1: <em><b>edino</b> če od prodaje [gap]</em>
   * [ADV]() 1: <em><b>edino</b> to da se nisi bal da te bo kdo počil kje</em>
+  * [ADJ]() 1: <em><b>edino</b> če od prodaje [gap]</em>
+  * [PART]() 1: <em>ne <b>edino</b> če starši se trudijo ne ampak ja ja ja</em>
 
 ## Morphology
 

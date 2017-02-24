@@ -11,7 +11,7 @@ The 10 most frequent `AUX` lemmas: ⲁ, ⲛⲁ, ⲛⲧⲉ, ⲛⲉⲣⲉ, ϣⲁ�
 
 The 10 most frequent `AUX` types:  ⲁ, ⲛⲁ, ⲛ, ⲛⲉ, ϣⲁ, ⲙⲡ, ⲙⲡⲉ, ⲛⲧⲉ, ⲛⲛⲉ, ⲧⲣⲉ
 
-The 10 most frequent ambiguous lemmas: ⲁ ([AUX]() 287, [NOUN]() 1), ⲛⲁ ([ADP]() 97, [AUX]() 58, [VERB]() 4, [NOUN]() 1, [DET]() 1), ⲛⲧⲉ ([AUX]() 56, [ADV]() 3, [ADP]() 2), ⲧⲣⲉ ([VERB]() 18, [AUX]() 6, [NOUN]() 1), ⲙⲉ ([NOUN]() 3, [AUX]() 2), ⲉⲣϣⲁⲛ ([SCONJ]() 5, [AUX]() 1), ⲙⲁ ([NOUN]() 25, [AUX]() 1)
+The 10 most frequent ambiguous lemmas: ⲁ ([AUX]() 287, [NOUN]() 1), ⲛⲁ ([ADP]() 97, [AUX]() 58, [VERB]() 4, [DET]() 1, [NOUN]() 1), ⲛⲧⲉ ([AUX]() 56, [ADV]() 3, [ADP]() 2), ⲧⲣⲉ ([VERB]() 18, [AUX]() 6, [NOUN]() 1), ⲙⲉ ([NOUN]() 3, [AUX]() 2), ⲉⲣϣⲁⲛ ([SCONJ]() 5, [AUX]() 1), ⲙⲁ ([NOUN]() 25, [AUX]() 1)
 
 The 10 most frequent ambiguous types:  ⲁ ([AUX]() 287, [NOUN]() 1), ⲛⲁ ([ADP]() 88, [AUX]() 58, [DET]() 9, [VERB]() 4, [NOUN]() 1), ⲛ ([ADP]() 316, [DET]() 131, [AUX]() 49, [ADV]() 19, [PRON]() 13, [VERB]() 1), ⲛⲉ ([AUX]() 40, [DET]() 30, [PRON]() 15), ϣⲁ ([AUX]() 19, [ADP]() 12, [VERB]() 1), ⲛⲧⲉ ([AUX]() 7, [ADP]() 2), ⲧⲣⲉ ([VERB]() 18, [AUX]() 6, [NOUN]() 1), ϣⲁⲣⲉ ([AUX]() 2, [VERB]() 1), ⲙⲉ ([NOUN]() 3, [AUX]() 2), ⲉⲣϣⲁⲛ ([SCONJ]() 5, [AUX]() 1)
 

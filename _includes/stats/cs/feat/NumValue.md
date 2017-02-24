@@ -29,7 +29,7 @@ The most frequent other feature values with which `NUM` and `NumValue` co-occurr
 
 27 [cs-pos/ADJ]() tokens (0% of all `ADJ` tokens) have a non-empty value of `NumValue`.
 
-The most frequent other feature values with which `ADJ` and `NumValue` co-occurred: <tt><a href="Number.html">Number</a>=Plur</tt> (27; 100%), <tt><a href="Degree.html">Degree</a>=EMPTY</tt> (27; 100%), <tt><a href="Polarity.html">Polarity</a>=EMPTY</tt> (27; 100%), <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (17; 63%).
+The most frequent other feature values with which `ADJ` and `NumValue` co-occurred: <tt><a href="Polarity.html">Polarity</a>=EMPTY</tt> (27; 100%), <tt><a href="Degree.html">Degree</a>=EMPTY</tt> (27; 100%), <tt><a href="Number.html">Number</a>=Plur</tt> (27; 100%), <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (17; 63%).
 
 `ADJ` tokens may have the following values of `NumValue`:
 
@@ -70,7 +70,7 @@ The most frequent other feature values with which `NUM` and `NumValue` co-occurr
 
 10 [cs-pos/ADJ]() tokens (0% of all `ADJ` tokens) have a non-empty value of `NumValue`.
 
-The most frequent other feature values with which `ADJ` and `NumValue` co-occurred: <tt><a href="Number.html">Number</a>=Plur</tt> (10; 100%), <tt><a href="Degree.html">Degree</a>=EMPTY</tt> (10; 100%), <tt><a href="Polarity.html">Polarity</a>=EMPTY</tt> (10; 100%), <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (7; 70%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (6; 60%).
+The most frequent other feature values with which `ADJ` and `NumValue` co-occurred: <tt><a href="Degree.html">Degree</a>=EMPTY</tt> (10; 100%), <tt><a href="Polarity.html">Polarity</a>=EMPTY</tt> (10; 100%), <tt><a href="Number.html">Number</a>=Plur</tt> (10; 100%), <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (7; 70%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (6; 60%).
 
 `ADJ` tokens may have the following values of `NumValue`:
 

@@ -57,7 +57,7 @@ The most frequent other feature values with which `VERB` and `Voice` co-occurred
 
 163 [ru-pos/AUX]() tokens (16% of all `AUX` tokens) have a non-empty value of `Voice`.
 
-The most frequent other feature values with which `AUX` and `Voice` co-occurred: <tt><a href="Mood.html">Mood</a>=Ind</tt> (140; 86%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (140; 86%), <tt><a href="Aspect.html">Aspect</a>=Imp</tt> (132; 81%), <tt><a href="Number.html">Number</a>=Sing</tt> (127; 78%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (123; 75%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (109; 67%), <tt><a href="Person.html">Person</a>=3</tt> (109; 67%).
+The most frequent other feature values with which `AUX` and `Voice` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (140; 86%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (140; 86%), <tt><a href="Aspect.html">Aspect</a>=Imp</tt> (132; 81%), <tt><a href="Number.html">Number</a>=Sing</tt> (127; 78%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (123; 75%), <tt><a href="Person.html">Person</a>=3</tt> (109; 67%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (109; 67%).
 
 `AUX` tokens may have the following values of `Voice`:
 

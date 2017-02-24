@@ -11,7 +11,7 @@ The 10 most frequent `DET` lemmas: <em>to, ktorý, jeho, ten, svoj, môj, všeto
 
 The 10 most frequent `DET` types:  <em>to, jeho, jej, ktoré, ktorý, ten, ich, tom, ktorá, toho</em>
 
-The 10 most frequent ambiguous lemmas: <em>to</em> ([DET]() 813, [PART]() 6, [CCONJ]() 1), <em>ten</em> ([DET]() 270, [PART]() 1), <em>toto</em> ([DET]() 79, [PART]() 2), <em>iný</em> ([DET]() 77, [ADJ]() 1, [NOUN]() 1), <em>každý</em> ([DET]() 74, [ADJ]() 2), <em>istý</em> ([ADJ]() 19, [DET]() 19), <em>ta</em> ([DET]() 2, [X]() 1), <em>všakovaký</em> ([ADJ]() 1, [DET]() 1)
+The 10 most frequent ambiguous lemmas: <em>to</em> ([DET]() 813, [PART]() 6, [CCONJ]() 1), <em>ten</em> ([DET]() 270, [PART]() 1), <em>toto</em> ([DET]() 79, [PART]() 2), <em>iný</em> ([DET]() 77, [NOUN]() 1, [ADJ]() 1), <em>každý</em> ([DET]() 74, [ADJ]() 2), <em>istý</em> ([DET]() 19, [ADJ]() 19), <em>ta</em> ([DET]() 2, [X]() 1), <em>všakovaký</em> ([ADJ]() 1, [DET]() 1)
 
 The 10 most frequent ambiguous types:  <em>to</em> ([DET]() 598, [PART]() 5, [CCONJ]() 1), <em>jej</em> ([PRON]() 133, [DET]() 121), <em>ich</em> ([PRON]() 108, [DET]() 68), <em>všetko</em> ([DET]() 47, [PRON]() 5), <em>všetky</em> ([DET]() 38, [PRON]() 2), <em>toto</em> ([DET]() 22, [PART]() 2), <em>všetci</em> ([DET]() 20, [PRON]() 2), <em>všetkých</em> ([DET]() 34, [PRON]() 2), <em>tým</em> ([DET]() 19, [SCONJ]() 2), <em>iné</em> ([DET]() 22, [ADJ]() 1)
 

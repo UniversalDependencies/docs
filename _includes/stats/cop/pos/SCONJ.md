@@ -11,7 +11,7 @@ The 10 most frequent `SCONJ` lemmas: ⲉⲧⲉⲣⲉ, ⲉⲣⲉ, ⲛⲧⲉⲣⲉ
 
 The 10 most frequent `SCONJ` types:  ⲉ, ⲉⲧ, ⲛⲧⲉⲣⲉ, ⲛⲧ, ⲉⲧⲉ, ⲉⲣⲉ, ⲉⲛⲧ, ⲛⲧⲉⲣ, ⲉⲣϣⲁⲛ, ⲉⲧⲉⲣⲉ
 
-The 10 most frequent ambiguous lemmas: ⲉⲧⲉⲣⲉ ([SCONJ]() 197, [PART]() 3), ⲉⲣⲉ ([SCONJ]() 151, [PART]() 44, [ADP]() 2), ⲉⲣϣⲁⲛ ([SCONJ]() 5, [AUX]() 1), ⲉⲧⲉ ([SCONJ]() 1, [PART]() 1)
+The 10 most frequent ambiguous lemmas: ⲉⲧⲉⲣⲉ ([SCONJ]() 197, [PART]() 3), ⲉⲣⲉ ([SCONJ]() 151, [PART]() 44, [ADP]() 2), ⲉⲣϣⲁⲛ ([SCONJ]() 5, [AUX]() 1), ⲉⲧⲉ ([PART]() 1, [SCONJ]() 1)
 
 The 10 most frequent ambiguous types:  ⲉ ([ADP]() 189, [SCONJ]() 146, [PART]() 35, [PRON]() 1), ⲛⲧ ([SCONJ]() 28, [PART]() 8, [VERB]() 1), ⲉⲧⲉ ([SCONJ]() 20, [PART]() 1), ⲉⲣⲉ ([SCONJ]() 16, [PART]() 4), ⲉⲣϣⲁⲛ ([SCONJ]() 5, [AUX]() 1)
 

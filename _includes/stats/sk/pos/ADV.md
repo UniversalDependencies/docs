@@ -13,7 +13,7 @@ The 10 most frequent `ADV` types:  <em>potom, tu, veľmi, tam, tak, opäť, kde,
 
 The 10 most frequent ambiguous lemmas: <em>tu</em> ([ADV]() 114, [PART]() 2), <em>tam</em> ([ADV]() 93, [PART]() 1), <em>tak</em> ([ADV]() 77, [PART]() 46, [CCONJ]() 23, [X]() 1), <em>ako</em> ([SCONJ]() 269, [ADV]() 51, [PART]() 1), <em>dobre</em> ([ADV]() 48, [PART]() 3, [ADJ]() 1), <em>stále</em> ([ADV]() 46, [PART]() 1), <em>už</em> ([PART]() 90, [ADV]() 44), <em>napokon</em> ([ADV]() 37, [PART]() 6), <em>spolu</em> ([ADV]() 34, [ADP]() 4), <em>domov</em> ([ADV]() 32, [PROPN]() 2, [NOUN]() 1)
 
-The 10 most frequent ambiguous types:  <em>potom</em> ([ADV]() 58, [NOUN]() 1), <em>tu</em> ([ADV]() 89, [PART]() 2), <em>tam</em> ([ADV]() 83, [PART]() 1), <em>tak</em> ([ADV]() 66, [CCONJ]() 23, [PART]() 18, [X]() 1), <em>ako</em> ([SCONJ]() 233, [ADV]() 21), <em>stále</em> ([ADV]() 35, [PART]() 1, [ADJ]() 1), <em>už</em> ([PART]() 65, [ADV]() 33), <em>napokon</em> ([ADV]() 17, [PART]() 2), <em>spolu</em> ([ADV]() 30, [ADP]() 2), <em>domov</em> ([ADV]() 32, [NOUN]() 2)
+The 10 most frequent ambiguous types:  <em>potom</em> ([ADV]() 58, [NOUN]() 1), <em>tu</em> ([ADV]() 89, [PART]() 2), <em>tam</em> ([ADV]() 83, [PART]() 1), <em>tak</em> ([ADV]() 66, [CCONJ]() 23, [PART]() 18, [X]() 1), <em>ako</em> ([SCONJ]() 233, [ADV]() 21), <em>stále</em> ([ADV]() 35, [ADJ]() 1, [PART]() 1), <em>už</em> ([PART]() 65, [ADV]() 33), <em>napokon</em> ([ADV]() 17, [PART]() 2), <em>spolu</em> ([ADV]() 30, [ADP]() 2), <em>domov</em> ([ADV]() 32, [NOUN]() 2)
 
 
 * <em>potom</em>
@@ -35,8 +35,8 @@ The 10 most frequent ambiguous types:  <em>potom</em> ([ADV]() 58, [NOUN]() 1), 
   * [ADV]() 21: <em>Obyčajne majú väčší objem <b>ako</b> klasické karimatky .</em>
 * <em>stále</em>
   * [ADV]() 35: <em>Dozvedel som sa a <b>stále</b> tomu neviem uveriť .</em>
-  * [PART]() 1: <em>Pokračovala v nezmenenom tempe <b>stále</b> bližšie k jeho stolu .</em>
   * [ADJ]() 1: <em>Jednoduché je <b>stále</b> a nemenné ; prislúcha ideám .</em>
+  * [PART]() 1: <em>Pokračovala v nezmenenom tempe <b>stále</b> bližšie k jeho stolu .</em>
 * <em>už</em>
   * [PART]() 65: <em>" Naša mačka je <b>už</b> druhý deň veľmi nepokojná .</em>
   * [ADV]() 33: <em>O kulte jaštera svedčia <b>už</b> spomenuté rúčky čiaš .</em>

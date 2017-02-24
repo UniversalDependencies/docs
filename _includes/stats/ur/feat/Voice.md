@@ -26,7 +26,7 @@ The most frequent other feature values with which `VERB` and `Voice` co-occurred
 
 <table>
   <tr><th>Paradigm <i>کر</i></th><th><tt>Act</tt></th><th><tt>Pass</tt></th></tr>
-  <tr><td><tt>_</tt></td><td>کر, کریں, کی, کروا, کیں, کرے, کئے</td><td>کر, کیے, کئے, کیا</td></tr>
+  <tr><td><tt>_</tt></td><td>کر, کریں, کی, کروا, کئے, کرے, کیں</td><td>کر, کیے, کیا, کئے</td></tr>
   <tr><td><tt><a href="Aspect.html">Aspect</a>=Imp|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3|<a href="Polite.html">Polite</a>=Form|<a href="VerbForm.html">VerbForm</a>=Part</tt></td><td>کرتے</td><td></td></tr>
   <tr><td><tt><a href="Aspect.html">Aspect</a>=Imp|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Sing|<a href="VerbForm.html">VerbForm</a>=Part</tt></td><td>کرتا, کرتے</td><td></td></tr>
   <tr><td><tt><a href="Aspect.html">Aspect</a>=Imp|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Plur|<a href="VerbForm.html">VerbForm</a>=Part</tt></td><td>کرتے</td><td></td></tr>
@@ -38,8 +38,8 @@ The most frequent other feature values with which `VERB` and `Voice` co-occurred
   <tr><td><tt><a href="Aspect.html">Aspect</a>=Perf|<a href="Case.html">Case</a>=Nom|<a href="Person.html">Person</a>=3|<a href="VerbForm.html">VerbForm</a>=Part</tt></td><td>کی</td><td></td></tr>
   <tr><td><tt><a href="Aspect.html">Aspect</a>=Perf|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3|<a href="Polite.html">Polite</a>=Form|<a href="VerbForm.html">VerbForm</a>=Part</tt></td><td>کئے</td><td></td></tr>
   <tr><td><tt><a href="Aspect.html">Aspect</a>=Perf|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3|<a href="VerbForm.html">VerbForm</a>=Part</tt></td><td>کیا, کئے, کی, کر</td><td>کیے, کئے</td></tr>
-  <tr><td><tt><a href="Aspect.html">Aspect</a>=Perf|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Sing|<a href="VerbForm.html">VerbForm</a>=Part</tt></td><td>کیا, کیے, کئے, کی, کر</td><td>کیا, کئے, کیے</td></tr>
-  <tr><td><tt><a href="Aspect.html">Aspect</a>=Perf|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=3|<a href="VerbForm.html">VerbForm</a>=Part</tt></td><td>کئے, کیے, کیں</td><td>کیے</td></tr>
+  <tr><td><tt><a href="Aspect.html">Aspect</a>=Perf|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Sing|<a href="VerbForm.html">VerbForm</a>=Part</tt></td><td>کیا, کیے, کئے, کر, کی</td><td>کیا, کئے, کیے</td></tr>
+  <tr><td><tt><a href="Aspect.html">Aspect</a>=Perf|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=3|<a href="VerbForm.html">VerbForm</a>=Part</tt></td><td>کیے, کئے, کیں</td><td>کیے</td></tr>
   <tr><td><tt><a href="Aspect.html">Aspect</a>=Perf|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Plur|<a href="VerbForm.html">VerbForm</a>=Part</tt></td><td>کیے, کئے, کریں</td><td>کیے, کئے</td></tr>
   <tr><td><tt><a href="Aspect.html">Aspect</a>=Perf|<a href="Gender.html">Gender</a>=Masc|<a href="VerbForm.html">VerbForm</a>=Part</tt></td><td>کیے</td><td></td></tr>
   <tr><td><tt><a href="Aspect.html">Aspect</a>=Perf|<a href="Gender.html">Gender</a>=Fem|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3|<a href="VerbForm.html">VerbForm</a>=Part</tt></td><td>کی</td><td>کی</td></tr>
@@ -48,11 +48,11 @@ The most frequent other feature values with which `VERB` and `Voice` co-occurred
   <tr><td><tt><a href="Aspect.html">Aspect</a>=Perf|<a href="Gender.html">Gender</a>=Fem|<a href="Number.html">Number</a>=Plur|<a href="VerbForm.html">VerbForm</a>=Part</tt></td><td>کیں</td><td></td></tr>
   <tr><td><tt><a href="Aspect.html">Aspect</a>=Perf|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3|<a href="Polite.html">Polite</a>=Form|<a href="VerbForm.html">VerbForm</a>=Part</tt></td><td>کریں</td><td></td></tr>
   <tr><td><tt><a href="Aspect.html">Aspect</a>=Perf|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3|<a href="VerbForm.html">VerbForm</a>=Part</tt></td><td>کرے, کی, کریں</td><td></td></tr>
-  <tr><td><tt><a href="Aspect.html">Aspect</a>=Perf|<a href="Number.html">Number</a>=Sing|<a href="VerbForm.html">VerbForm</a>=Part</tt></td><td>کرے, کریں, کیے</td><td>کئے</td></tr>
+  <tr><td><tt><a href="Aspect.html">Aspect</a>=Perf|<a href="Number.html">Number</a>=Sing|<a href="VerbForm.html">VerbForm</a>=Part</tt></td><td>کرے, کیے, کریں</td><td>کئے</td></tr>
   <tr><td><tt><a href="Aspect.html">Aspect</a>=Perf|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=3|<a href="Polite.html">Polite</a>=Form|<a href="VerbForm.html">VerbForm</a>=Part</tt></td><td>کیے</td><td></td></tr>
   <tr><td><tt><a href="Aspect.html">Aspect</a>=Perf|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=3|<a href="VerbForm.html">VerbForm</a>=Part</tt></td><td>کیے, کئے, کریں</td><td>کئے</td></tr>
-  <tr><td><tt><a href="Aspect.html">Aspect</a>=Perf|<a href="Number.html">Number</a>=Plur|<a href="VerbForm.html">VerbForm</a>=Part</tt></td><td>کریں, کئے, کرے, کیں, کیے</td><td>کیے, کئے, کیا</td></tr>
-  <tr><td><tt><a href="Aspect.html">Aspect</a>=Perf|<a href="VerbForm.html">VerbForm</a>=Part</tt></td><td>کریں, کیے, کرے, کئے</td><td>کریں, کیے, کئے</td></tr>
+  <tr><td><tt><a href="Aspect.html">Aspect</a>=Perf|<a href="Number.html">Number</a>=Plur|<a href="VerbForm.html">VerbForm</a>=Part</tt></td><td>کریں, کئے, کیے, کیں, کرے</td><td>کیے, کئے, کیا</td></tr>
+  <tr><td><tt><a href="Aspect.html">Aspect</a>=Perf|<a href="VerbForm.html">VerbForm</a>=Part</tt></td><td>کریں, کیے, کرے, کئے</td><td>کیے, کریں, کئے</td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Gender.html">Gender</a>=Fem|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3</tt></td><td></td><td>کی</td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="VerbForm.html">VerbForm</a>=Inf</tt></td><td>کرنے, کرنا</td><td>کرنے</td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Nom</tt></td><td>کر</td><td></td></tr>
@@ -69,8 +69,8 @@ The most frequent other feature values with which `VERB` and `Voice` co-occurred
   <tr><td><tt><a href="Gender.html">Gender</a>=Masc|<a href="Mood.html">Mood</a>=Sub|<a href="Number.html">Number</a>=Sing|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td></td><td>کریں</td></tr>
   <tr><td><tt><a href="Gender.html">Gender</a>=Masc|<a href="Mood.html">Mood</a>=Sub|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=3|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td>کریں</td><td>کریں</td></tr>
   <tr><td><tt><a href="Gender.html">Gender</a>=Masc|<a href="Mood.html">Mood</a>=Sub|<a href="Number.html">Number</a>=Plur|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td>کریں</td><td>کریں</td></tr>
-  <tr><td><tt><a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Sing</tt></td><td>کرےگا, کر, کہا, کیا</td><td>کیا</td></tr>
-  <tr><td><tt><a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3</tt></td><td>کیا, کریں_گے, کرےگا, کر</td><td></td></tr>
+  <tr><td><tt><a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Sing</tt></td><td>کیا, کہا, کرےگا, کر</td><td>کیا</td></tr>
+  <tr><td><tt><a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3</tt></td><td>کیا, کرےگا, کر, کریں_گے</td><td></td></tr>
   <tr><td><tt><a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Sing|<a href="VerbForm.html">VerbForm</a>=Inf</tt></td><td>کرنا, کرنے</td><td>کرنا</td></tr>
   <tr><td><tt><a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Plur|<a href="VerbForm.html">VerbForm</a>=Inf</tt></td><td>کرنے</td><td>کرنے</td></tr>
   <tr><td><tt><a href="Gender.html">Gender</a>=Fem|<a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Fut|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td>کرےگی, کریں_گی, کریگی</td><td></td></tr>
@@ -91,11 +91,11 @@ The most frequent other feature values with which `VERB` and `Voice` co-occurred
   <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Fut|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td>کرےگی, کرےگا, کریںگے</td><td>کرےگا</td></tr>
   <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Tense.html">Tense</a>=Fut|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td>کریں_گے</td><td></td></tr>
   <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=1|<a href="Tense.html">Tense</a>=Fut|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td>کریں_گے</td><td></td></tr>
-  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Fut|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td>کریں_گے, کریںگے, کریں, کرےگا</td><td></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Fut|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td>کریں_گے, کریںگے, کرےگا, کریں</td><td></td></tr>
   <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Plur|<a href="Tense.html">Tense</a>=Fut|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td>کریںگے, کریں_گے</td><td></td></tr>
   <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Fut|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td>کریں_گے</td><td></td></tr>
   <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Tense.html">Tense</a>=Fut|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td>کریں_گے, کریںگے</td><td></td></tr>
-  <tr><td><tt><a href="Mood.html">Mood</a>=Sub|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td>کرے, کریں</td><td>کرے, کریں</td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Sub|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td>کرے, کریں</td><td>کریں, کرے</td></tr>
   <tr><td><tt><a href="Mood.html">Mood</a>=Sub|<a href="Number.html">Number</a>=Sing|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td>کریں, کرے</td><td>کریں</td></tr>
   <tr><td><tt><a href="Mood.html">Mood</a>=Sub|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=3|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td>کریں, کرے</td><td>کریں</td></tr>
   <tr><td><tt><a href="Mood.html">Mood</a>=Sub|<a href="Number.html">Number</a>=Plur|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td>کریں, کرے</td><td>کریں</td></tr>
@@ -156,7 +156,7 @@ The most frequent other feature values with which `AUX` and `Voice` co-occurred:
 
 4 [ur-pos/NOUN]() tokens (0% of all `NOUN` tokens) have a non-empty value of `Voice`.
 
-The most frequent other feature values with which `NOUN` and `Voice` co-occurred: <tt><a href="Person.html">Person</a>=3</tt> (4; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (4; 100%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (3; 75%), <tt><a href="Case.html">Case</a>=Nom</tt> (3; 75%).
+The most frequent other feature values with which `NOUN` and `Voice` co-occurred: <tt><a href="Person.html">Person</a>=3</tt> (4; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (4; 100%), <tt><a href="Case.html">Case</a>=Nom</tt> (3; 75%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (3; 75%).
 
 `NOUN` tokens may have the following values of `Voice`:
 
@@ -191,7 +191,7 @@ The most frequent other feature values with which `ADJ` and `Voice` co-occurred:
 
 1 [ur-pos/PRON]() tokens (0% of all `PRON` tokens) have a non-empty value of `Voice`.
 
-The most frequent other feature values with which `PRON` and `Voice` co-occurred: <tt><a href="Polite.html">Polite</a>=EMPTY</tt> (1; 100%), <tt><a href="PronType.html">PronType</a>=Prs</tt> (1; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (1; 100%), <tt><a href="Case.html">Case</a>=Acc</tt> (1; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (1; 100%), <tt><a href="Person.html">Person</a>=3</tt> (1; 100%).
+The most frequent other feature values with which `PRON` and `Voice` co-occurred: <tt><a href="Person.html">Person</a>=3</tt> (1; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (1; 100%), <tt><a href="PronType.html">PronType</a>=Prs</tt> (1; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (1; 100%), <tt><a href="Polite.html">Polite</a>=EMPTY</tt> (1; 100%), <tt><a href="Case.html">Case</a>=Acc</tt> (1; 100%).
 
 `PRON` tokens may have the following values of `Voice`:
 

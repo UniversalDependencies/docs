@@ -11,7 +11,7 @@ The 10 most frequent `DET` lemmas: _
 
 The 10 most frequent `DET` types:  پارچە، جۈپ، ئوتلام، سىقىم، مو
 
-The 10 most frequent ambiguous lemmas: _ ([NOUN]() 584, [VERB]() 323, [PUNCT]() 188, [ADJ]() 181, [PRON]() 143, [AUX]() 65, [NUM]() 60, [CCONJ]() 35, [ADV]() 31, [ADP]() 31, [PART]() 13, [DET]() 8)
+The 10 most frequent ambiguous lemmas: _ ([NOUN]() 584, [VERB]() 323, [PUNCT]() 188, [ADJ]() 181, [PRON]() 143, [AUX]() 65, [NUM]() 60, [CCONJ]() 35, [ADP]() 31, [ADV]() 31, [PART]() 13, [DET]() 8)
 
 The 10 most frequent ambiguous types:  
 

@@ -11,7 +11,7 @@ The 10 most frequent `ADP` lemmas: <em>i, av, för, på, till, med, om, från, v
 
 The 10 most frequent `ADP` types:  <em>i, av, för, på, till, med, om, från, vid, under</em>
 
-The 10 most frequent ambiguous lemmas: <em>i</em> ([ADP]() 2023, [NOUN]() 1, [NUM]() 1, [ADJ]() 1), <em>för</em> ([ADP]() 988, [ADV]() 25, [CCONJ]() 7, [VERB]() 5), <em>till</em> ([ADP]() 812, [ADV]() 4), <em>med</em> ([ADP]() 728, [ADV]() 3), <em>om</em> ([ADP]() 327, [SCONJ]() 244, [ADV]() 4), <em>vid</em> ([ADP]() 211, [ADV]() 3, [ADJ]() 2), <em>under</em> ([ADP]() 175, [ADV]() 12), <em>efter</em> ([ADP]() 106, [ADV]() 1, [SCONJ]() 1), <em>utan</em> ([ADP]() 72, [CCONJ]() 54), <em>över</em> ([ADP]() 51, [ADV]() 23)
+The 10 most frequent ambiguous lemmas: <em>i</em> ([ADP]() 2023, [NUM]() 1, [ADJ]() 1, [NOUN]() 1), <em>för</em> ([ADP]() 988, [ADV]() 25, [CCONJ]() 7, [VERB]() 5), <em>till</em> ([ADP]() 812, [ADV]() 4), <em>med</em> ([ADP]() 728, [ADV]() 3), <em>om</em> ([ADP]() 327, [SCONJ]() 244, [ADV]() 4), <em>vid</em> ([ADP]() 211, [ADV]() 3, [ADJ]() 2), <em>under</em> ([ADP]() 175, [ADV]() 12), <em>efter</em> ([ADP]() 106, [ADV]() 1, [SCONJ]() 1), <em>utan</em> ([ADP]() 72, [CCONJ]() 54), <em>över</em> ([ADP]() 51, [ADV]() 23)
 
 The 10 most frequent ambiguous types:  <em>för</em> ([ADP]() 899, [ADV]() 24, [VERB]() 5, [CCONJ]() 3), <em>till</em> ([ADP]() 788, [ADV]() 3), <em>med</em> ([ADP]() 705, [ADV]() 3), <em>om</em> ([ADP]() 324, [SCONJ]() 177, [ADV]() 4), <em>under</em> ([ADP]() 147, [ADV]() 11), <em>efter</em> ([ADP]() 92, [SCONJ]() 1, [ADV]() 1), <em>utan</em> ([ADP]() 68, [CCONJ]() 53), <em>över</em> ([ADP]() 51, [ADV]() 19), <em>ur</em> ([ADP]() 34, [ADV]() 7), <em>åt</em> ([ADP]() 39, [ADV]() 5, [VERB]() 1)
 

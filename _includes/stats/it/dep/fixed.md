@@ -144,27 +144,31 @@ The following 15 pairs of parts of speech are connected with `fixed`: [it-pos/AD
 
 
 ~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 5 fixed	color:blue
-1	Il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
-2	tasso	tasso	NOUN	S	Gender=Masc|Number=Sing	15	nsubj	_	_
-3	ottenuto	ottenere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	2	acl	_	_
-4	grazie	grazie	NOUN	S	_	7	case	_	_
-5	a	a	ADP	E	_	4	fixed	_	_
-6	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	7	det	_	_
-7	inserzioni	inserzione	NOUN	S	Gender=Fem|Number=Plur	3	obl	_	_
-8	di	di	ADP	E	_	9	case	_	_
-9	Facebook	Facebook	PROPN	SP	_	7	nmod	_	_
-10	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	aux	_	_
-11	stato	essere	AUX	VA	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	15	cop	_	_
-12	di	di	ADP	E	_	15	case	_	_
-13	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
-14	25	25	NUM	N	NumType=Card	15	nummod	_	SpaceAfter=No
-15	%	%	SYM	X	_	0	root	_	SpaceAfter=No
-16	.	.	PUNCT	FS	_	15	punct	_	_
+# visual-style 17	bgColor:blue
+# visual-style 17	fgColor:white
+# visual-style 16	bgColor:blue
+# visual-style 16	fgColor:white
+# visual-style 16 17 fixed	color:blue
+1	A	a	ADP	E	_	3	case	_	_
+2	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	fine	fine	NOUN	S	Gender=Fem|Number=Sing	11	obl	_	SpaceAfter=No
+4	,	,	PUNCT	FF	_	3	punct	_	_
+5	però	però	ADV	B	_	11	advmod	_	SpaceAfter=No
+6	,	,	PUNCT	FF	_	5	punct	_	_
+7	questa	questo	DET	DD	Gender=Fem|Number=Sing|PronType=Dem	8	det	_	_
+8	codipendenza	codipendenza	NOUN	S	Gender=Fem|Number=Sing	11	nsubj:pass	_	_
+9	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	11	expl	_	_
+10	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	aux:pass	_	_
+11	rivelata	rivelare	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+12	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
+13	matrimonio	matrimonio	NOUN	S	Gender=Masc|Number=Sing	11	xcomp	_	_
+14	di	di	ADP	E	_	15	case	_	_
+15	convenienza	convenienza	NOUN	S	Gender=Fem|Number=Sing	13	nmod	_	_
+16	più	più	ADV	B	_	19	advmod	_	_
+17	che	che	SCONJ	CS	_	16	fixed	_	_
+18	d'	di	ADP	E	_	19	case	_	SpaceAfter=No
+19	amore	amore	NOUN	S	Gender=Masc|Number=Sing	15	nmod	_	SpaceAfter=No
+20	.	.	PUNCT	FS	_	11	punct	_	_
 
 ~~~
 

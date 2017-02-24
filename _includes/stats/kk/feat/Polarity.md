@@ -16,7 +16,7 @@ The feature is used with 2 part-of-speech tags: [kk-pos/VERB]() (10; 2% instance
 
 10 [kk-pos/VERB]() tokens (13% of all `VERB` tokens) have a non-empty value of `Polarity`.
 
-The most frequent other feature values with which `VERB` and `Polarity` co-occurred: <tt><a href="Aspect.html">Aspect</a>=EMPTY</tt> (9; 90%), <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (9; 90%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (8; 80%), <tt><a href="Tense.html">Tense</a>=Past</tt> (7; 70%), <tt><a href="Person.html">Person</a>=3</tt> (6; 60%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (6; 60%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (6; 60%), <tt><a href="Number.html">Number</a>=Sing</tt> (6; 60%).
+The most frequent other feature values with which `VERB` and `Polarity` co-occurred: <tt><a href="Aspect.html">Aspect</a>=EMPTY</tt> (9; 90%), <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (9; 90%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (8; 80%), <tt><a href="Tense.html">Tense</a>=Past</tt> (7; 70%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (6; 60%), <tt><a href="Person.html">Person</a>=3</tt> (6; 60%), <tt><a href="Number.html">Number</a>=Sing</tt> (6; 60%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (6; 60%).
 
 `VERB` tokens may have the following values of `Polarity`:
 
@@ -26,7 +26,7 @@ The most frequent other feature values with which `VERB` and `Polarity` co-occur
 
 3 [kk-pos/AUX]() tokens (12% of all `AUX` tokens) have a non-empty value of `Polarity`.
 
-The most frequent other feature values with which `AUX` and `Polarity` co-occurred: <tt><a href="Number.html">Number</a>=Sing</tt> (3; 100%), <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (2; 67%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (2; 67%), <tt><a href="Person.html">Person</a>=3</tt> (2; 67%).
+The most frequent other feature values with which `AUX` and `Polarity` co-occurred: <tt><a href="Number.html">Number</a>=Sing</tt> (3; 100%), <tt><a href="Person.html">Person</a>=3</tt> (2; 67%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (2; 67%), <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (2; 67%).
 
 `AUX` tokens may have the following values of `Polarity`:
 

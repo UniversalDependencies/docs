@@ -175,7 +175,7 @@ The most frequent other feature values with which `DET` and `Number` co-occurred
 
 33 [be-pos/AUX]() tokens (97% of all `AUX` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `AUX` and `Number` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (33; 100%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (33; 100%), <tt><a href="Voice.html">Voice</a>=Act</tt> (33; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (28; 85%), <tt><a href="Tense.html">Tense</a>=Fut</tt> (23; 70%), <tt><a href="Aspect.html">Aspect</a>=Perf</tt> (23; 70%), <tt><a href="Person.html">Person</a>=3</tt> (19; 58%).
+The most frequent other feature values with which `AUX` and `Number` co-occurred: <tt><a href="Mood.html">Mood</a>=Ind</tt> (33; 100%), <tt><a href="Voice.html">Voice</a>=Act</tt> (33; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (33; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (28; 85%), <tt><a href="Tense.html">Tense</a>=Fut</tt> (23; 70%), <tt><a href="Aspect.html">Aspect</a>=Perf</tt> (23; 70%), <tt><a href="Person.html">Person</a>=3</tt> (19; 58%).
 
 `AUX` tokens may have the following values of `Number`:
 

@@ -16,7 +16,7 @@ The feature is used with 1 part-of-speech tags: [la-pos/NUM]() (719; 0% instance
 
 719 [la-pos/NUM]() tokens (35% of all `NUM` tokens) have a non-empty value of `NumForm`.
 
-The most frequent other feature values with which `NUM` and `NumForm` co-occurred: <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (719; 100%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (719; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (719; 100%), <tt><a href="Degree.html">Degree</a>=EMPTY</tt> (719; 100%), <tt><a href="NumType.html">NumType</a>=EMPTY</tt> (719; 100%).
+The most frequent other feature values with which `NUM` and `NumForm` co-occurred: <tt><a href="Degree.html">Degree</a>=EMPTY</tt> (719; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (719; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (719; 100%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (719; 100%), <tt><a href="NumType.html">NumType</a>=EMPTY</tt> (719; 100%).
 
 `NUM` tokens may have the following values of `NumForm`:
 

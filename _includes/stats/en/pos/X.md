@@ -11,9 +11,9 @@ The 10 most frequent `X` lemmas: <em>etc, 1, 2, etc., 3, carol.st.clair@enron.co
 
 The 10 most frequent `X` types:  <em>etc, 1, 2, etc., 3, carol.st.clair@enron.com, 4, a, -, mid</em>
 
-The 10 most frequent ambiguous lemmas: <em>1</em> ([NUM]() 101, [X]() 31), <em>2</em> ([NUM]() 139, [X]() 30, [PROPN]() 1, [PART]() 1), <em>etc.</em> ([X]() 20, [NOUN]() 1), <em>3</em> ([NUM]() 116, [X]() 17, [NOUN]() 1), <em>4</em> ([NUM]() 93, [X]() 13, [ADP]() 1), <em>a</em> ([DET]() 4781, [NOUN]() 19, [X]() 13, [ADV]() 5, [ADP]() 4, [CCONJ]() 1, [PART]() 1, [AUX]() 1), <em>-</em> ([PUNCT]() 1478, [SYM]() 105, [X]() 11), <em>mid</em> ([X]() 9, [ADJ]() 1), <em>over</em> ([ADP]() 146, [ADV]() 53, [X]() 9, [SCONJ]() 6, [NOUN]() 2), <em>s</em> ([PART]() 86, [X]() 9, [PRON]() 7, [NOUN]() 3, [PROPN]() 1)
+The 10 most frequent ambiguous lemmas: <em>1</em> ([NUM]() 101, [X]() 31), <em>2</em> ([NUM]() 139, [X]() 30, [PART]() 1, [PROPN]() 1), <em>etc.</em> ([X]() 20, [NOUN]() 1), <em>3</em> ([NUM]() 116, [X]() 17, [NOUN]() 1), <em>4</em> ([NUM]() 93, [X]() 13, [ADP]() 1), <em>a</em> ([DET]() 4781, [NOUN]() 19, [X]() 13, [ADV]() 5, [ADP]() 4, [PART]() 1, [CCONJ]() 1, [AUX]() 1), <em>-</em> ([PUNCT]() 1478, [SYM]() 105, [X]() 11), <em>mid</em> ([X]() 9, [ADJ]() 1), <em>over</em> ([ADP]() 146, [ADV]() 53, [X]() 9, [SCONJ]() 6, [NOUN]() 2), <em>s</em> ([PART]() 86, [X]() 9, [PRON]() 7, [NOUN]() 3, [PROPN]() 1)
 
-The 10 most frequent ambiguous types:  <em>1</em> ([NUM]() 101, [X]() 31), <em>2</em> ([NUM]() 139, [X]() 30, [PART]() 1, [PROPN]() 1), <em>etc.</em> ([X]() 19, [NOUN]() 1), <em>3</em> ([NUM]() 116, [X]() 17), <em>4</em> ([NUM]() 93, [X]() 13, [ADP]() 1), <em>a</em> ([DET]() 4063, [X]() 7, [ADV]() 5, [NOUN]() 5, [ADP]() 4, [AUX]() 1, [PART]() 1, [CCONJ]() 1), <em>-</em> ([PUNCT]() 1460, [SYM]() 105, [X]() 11), <em>mid</em> ([X]() 7, [ADJ]() 1), <em>over</em> ([ADP]() 137, [ADV]() 50, [SCONJ]() 6, [X]() 5, [NOUN]() 1), <em>s</em> ([AUX]() 87, [PART]() 85, [X]() 9, [VERB]() 8, [PRON]() 7, [NOUN]() 2, [PROPN]() 1)
+The 10 most frequent ambiguous types:  <em>1</em> ([NUM]() 101, [X]() 31), <em>2</em> ([NUM]() 139, [X]() 30, [PROPN]() 1, [PART]() 1), <em>etc.</em> ([X]() 19, [NOUN]() 1), <em>3</em> ([NUM]() 116, [X]() 17), <em>4</em> ([NUM]() 93, [X]() 13, [ADP]() 1), <em>a</em> ([DET]() 4063, [X]() 7, [ADV]() 5, [NOUN]() 5, [ADP]() 4, [CCONJ]() 1, [AUX]() 1, [PART]() 1), <em>-</em> ([PUNCT]() 1460, [SYM]() 105, [X]() 11), <em>mid</em> ([X]() 7, [ADJ]() 1), <em>over</em> ([ADP]() 137, [ADV]() 50, [SCONJ]() 6, [X]() 5, [NOUN]() 1), <em>s</em> ([AUX]() 87, [PART]() 85, [X]() 9, [VERB]() 8, [PRON]() 7, [NOUN]() 2, [PROPN]() 1)
 
 
 * <em>1</em>
@@ -22,8 +22,8 @@ The 10 most frequent ambiguous types:  <em>1</em> ([NUM]() 101, [X]() 31), <em>2
 * <em>2</em>
   * [NUM]() 139: <em>Analyst Team <b>2</b> : Coach : Doug Sewell</em>
   * [X]() 30: <em>* <b>2</b> . The second ingredient is words , more precisely lies . *</em>
-  * [PART]() 1: <em>hi everyone .... just hav my hands on my new OLYMPUS X940 digital camera .. wel , i always wanted <b>2</b> hav one by sony .. but anyways , ended up having olympus X940 from my dad ....... does any1 already has it ?</em>
   * [PROPN]() 1: <em>and it seems this is the FIRST site of ragnarok <b>2</b> hahaha since the site is new send me your suggestions and comments</em>
+  * [PART]() 1: <em>hi everyone .... just hav my hands on my new OLYMPUS X940 digital camera .. wel , i always wanted <b>2</b> hav one by sony .. but anyways , ended up having olympus X940 from my dad ....... does any1 already has it ?</em>
 * <em>etc.</em>
   * [X]() 19: <em>All comments , suggestions , <b>etc.</b> are appreciated .</em>
   * [NOUN]() 1: <em>1 . In Section 1.1 , there should be a parentheses after <b>etc.</b> in the 5th line .</em>
@@ -40,9 +40,9 @@ The 10 most frequent ambiguous types:  <em>1</em> ([NUM]() 101, [X]() 31), <em>2
   * [ADV]() 5: <em>Also , any tour recommendations would be very helpful <b>a</b> well .</em>
   * [NOUN]() 5: <em>Top range of bike , cheap prices , excellent <b>a</b> +++</em>
   * [ADP]() 4: <em>Big deal kind <b>a</b> stuff .</em>
+  * [CCONJ]() 1: <em>But word of advice if you 're get your girlfriend a laptop make sure it s a good brand <b>a</b> not something like DELL , Acer , Asus , eMachines etc .</em>
   * [AUX]() 1: <em>yea i guess but rabbits <b>a</b> easily escape a pen or another rabbit could get in there and that rabbit could be the opposite gender .</em>
   * [PART]() 1: <em>I feel X - BOX is a very smooth system i own it like 3 years , it s very compatible to previous versions and mostly important i was very comfortable with the User Interface and the JOYSTICK .... coz you do nt wan <b>a</b> hold a joystick that gives you discomfort .</em>
-  * [CCONJ]() 1: <em>But word of advice if you 're get your girlfriend a laptop make sure it s a good brand <b>a</b> not something like DELL , Acer , Asus , eMachines etc .</em>
 * <em>-</em>
   * [PUNCT]() 1460: <em>TEHRAN ( AFP ) <b>-</b></em>
   * [SYM]() 105: <em>Intercept : <b>-</b> 0.3931 ( 0.0076 )</em>
@@ -185,12 +185,12 @@ The 10 most frequent `X` types:  <em>XSLT, XSL, SA, W3C, .xsl, DB, OLE, XSD, .ad
 
 The 10 most frequent ambiguous lemmas: <em>_</em> ([NOUN]() 12161, [PUNCT]() 8085, [VERB]() 8020, [ADP]() 6788, [DET]() 6429, [PRON]() 6303, [ADJ]() 4270, [ADV]() 3700, [AUX]() 3539, [PROPN]() 2257, [CCONJ]() 2081, [PART]() 1703, [SCONJ]() 1231, [NUM]() 462, [INTJ]() 122, [X]() 41, [SYM]() 5)
 
-The 10 most frequent ambiguous types:  <em>XSD</em> ([X]() 2, [PROPN]() 2)
+The 10 most frequent ambiguous types:  <em>XSD</em> ([PROPN]() 2, [X]() 2)
 
 
 * <em>XSD</em>
-  * [X]() 2: <em>Access supports the XML Schema standard ( <b>XSD</b> ) .</em>
   * [PROPN]() 2: <em>Export the data schema using XML Schema standard ( <b>XSD</b> ) .</em>
+  * [X]() 2: <em>Access supports the XML Schema standard ( <b>XSD</b> ) .</em>
 
 ## Morphology
 
@@ -234,7 +234,7 @@ The 10 most frequent `X` lemmas: <em>La, s, ', Comédie, humaine, -, de, le, Cha
 
 The 10 most frequent `X` types:  <em>La, s, ', Comédie, humaine, -, De, Le, Chagrin, Illusions</em>
 
-The 10 most frequent ambiguous lemmas: <em>La</em> ([X]() 15, [PROPN]() 1), <em>'</em> ([PART]() 33, [PUNCT]() 12, [X]() 10, [ADP]() 1), <em>Comédie</em> ([X]() 9, [PROPN]() 1), <em>-</em> ([PUNCT]() 289, [X]() 6, [NUM]() 1), <em>de</em> ([ADP]() 2, [X]() 1), <em>le</em> ([DET]() 2, [X]() 1), <em>Goriot</em> ([X]() 2, [PROPN]() 1), <em>a</em> ([DET]() 758, [X]() 1), <em>du</em> ([X]() 2, [ADP]() 1, [PROPN]() 1), <em>Cousin</em> ([X]() 1, [PROPN]() 1)
+The 10 most frequent ambiguous lemmas: <em>La</em> ([X]() 15, [PROPN]() 1), <em>'</em> ([PART]() 33, [PUNCT]() 12, [X]() 10, [ADP]() 1), <em>Comédie</em> ([X]() 9, [PROPN]() 1), <em>-</em> ([PUNCT]() 289, [X]() 6, [NUM]() 1), <em>de</em> ([ADP]() 2, [X]() 1), <em>le</em> ([DET]() 2, [X]() 1), <em>Goriot</em> ([X]() 2, [PROPN]() 1), <em>a</em> ([DET]() 758, [X]() 1), <em>du</em> ([X]() 2, [PROPN]() 1, [ADP]() 1), <em>Cousin</em> ([X]() 1, [PROPN]() 1)
 
 The 10 most frequent ambiguous types:  <em>La</em> ([X]() 15, [PROPN]() 1, [DET]() 1), <em>'</em> ([PART]() 33, [PUNCT]() 12, [X]() 10), <em>Comédie</em> ([X]() 9, [PROPN]() 1), <em>-</em> ([PUNCT]() 289, [X]() 6), <em>De</em> ([PROPN]() 18, [X]() 5), <em>Le</em> ([X]() 5, [DET]() 2), <em>Illusions</em> ([X]() 4, [NOUN]() 1), <em>Goriot</em> ([X]() 2, [PROPN]() 1), <em>a</em> ([DET]() 626, [X]() 1), <em>du</em> ([X]() 2, [ADP]() 1, [PROPN]() 1)
 

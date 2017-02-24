@@ -11,9 +11,9 @@ The 10 most frequent `X` lemmas: <em>in, pole, position, dream, jet, shopping, b
 
 The 10 most frequent `X` types:  <em>in, pole, position, dream, jet, shopping, body, center, centers, computing</em>
 
-The 10 most frequent ambiguous lemmas: <em>in</em> ([X]() 4, [PROPN]() 2), <em>pole</em> ([X]() 4, [NOUN]() 2, [ADJ]() 2), <em>shopping</em> ([NOUN]() 10, [X]() 3), <em>ski</em> ([X]() 1, [PROPN]() 1), <em>and</em> ([PROPN]() 9, [CCONJ]() 1, [X]() 1), <em>art</em> ([X]() 1, [NOUN]() 1), <em>blues</em> ([NOUN]() 7, [X]() 1), <em>cheques</em> ([X]() 1, [NOUN]() 1), <em>culpa</em> ([NOUN]() 2, [X]() 1), <em>fax</em> ([NOUN]() 10, [X]() 1)
+The 10 most frequent ambiguous lemmas: <em>in</em> ([X]() 4, [PROPN]() 2), <em>pole</em> ([X]() 4, [NOUN]() 2, [ADJ]() 2), <em>shopping</em> ([NOUN]() 10, [X]() 3), <em>ski</em> ([PROPN]() 1, [X]() 1), <em>and</em> ([PROPN]() 9, [X]() 1, [CCONJ]() 1), <em>art</em> ([NOUN]() 1, [X]() 1), <em>blues</em> ([NOUN]() 7, [X]() 1), <em>cheques</em> ([NOUN]() 1, [X]() 1), <em>culpa</em> ([NOUN]() 2, [X]() 1), <em>fax</em> ([NOUN]() 10, [X]() 1)
 
-The 10 most frequent ambiguous types:  <em>in</em> ([X]() 4, [PROPN]() 2), <em>pole</em> ([X]() 4, [ADJ]() 2, [NOUN]() 2), <em>shopping</em> ([NOUN]() 9, [X]() 3), <em>England</em> ([X]() 1, [PROPN]() 1), <em>USA</em> ([PROPN]() 1, [X]() 1), <em>and</em> ([PROPN]() 9, [CCONJ]() 1, [X]() 1), <em>blues</em> ([NOUN]() 6, [X]() 1), <em>cheques</em> ([NOUN]() 2, [X]() 1), <em>culpa</em> ([NOUN]() 1, [X]() 1), <em>fax</em> ([NOUN]() 10, [X]() 1)
+The 10 most frequent ambiguous types:  <em>in</em> ([X]() 4, [PROPN]() 2), <em>pole</em> ([X]() 4, [ADJ]() 2, [NOUN]() 2), <em>shopping</em> ([NOUN]() 9, [X]() 3), <em>England</em> ([PROPN]() 1, [X]() 1), <em>USA</em> ([PROPN]() 1, [X]() 1), <em>and</em> ([PROPN]() 9, [CCONJ]() 1, [X]() 1), <em>blues</em> ([NOUN]() 6, [X]() 1), <em>cheques</em> ([NOUN]() 2, [X]() 1), <em>culpa</em> ([X]() 1, [NOUN]() 1), <em>fax</em> ([NOUN]() 10, [X]() 1)
 
 
 * <em>in</em>
@@ -27,8 +27,8 @@ The 10 most frequent ambiguous types:  <em>in</em> ([X]() 4, [PROPN]() 2), <em>p
   * [NOUN]() 9: <em>O <b>shopping</b> West Plaza já começou sua promoção de Dia de as Mães .</em>
   * [X]() 3: <em>Sendas investe em <b>shopping</b> center em o Rio</em>
 * <em>England</em>
-  * [X]() 1: <em>Em os meios diplomáticos há , aliás , quem interprete estas manifestações de « sensibilidade » em relação a a questão de Timor por parte de o Executivo de Tony Blair com uma tentativa de compensar a má imagem criada com as significativas exportações de armas « made in <b>England</b> » rumo a a Indonésia .</em>
   * [PROPN]() 1: <em>E a portar se a a Cintra , não dando cavaco , sequer , a o jogador , que até já vendera a casa lá em a Old <b>England</b> .</em>
+  * [X]() 1: <em>Em os meios diplomáticos há , aliás , quem interprete estas manifestações de « sensibilidade » em relação a a questão de Timor por parte de o Executivo de Tony Blair com uma tentativa de compensar a má imagem criada com as significativas exportações de armas « made in <b>England</b> » rumo a a Indonésia .</em>
 * <em>USA</em>
   * [PROPN]() 1: <em>Segundo o jornal « <b>USA</b> Today » , a revista publicará fotos em as quais Harding aparece mantendo relações sexuais com seu ex-marido , Jeff Gillooly .</em>
   * [X]() 1: <em>Temporada « made in <b>USA</b> »</em>
@@ -43,8 +43,8 @@ The 10 most frequent ambiguous types:  <em>in</em> ([X]() 4, [PROPN]() 2), <em>p
   * [NOUN]() 2: <em>O custo de o processamento de os <b>cheques</b> é de US$ 0,70 por folha .</em>
   * [X]() 1: <em>De esse modo , apenas parte de o fundo de viagem seria empregada em a compra de « traveler <b>cheques</b> » ou cédulas .</em>
 * <em>culpa</em>
-  * [NOUN]() 1: <em>Schumacher põe <b>culpa</b> em degrau</em>
   * [X]() 1: <em>Como em um grandioso « mea <b>culpa</b> » , os últimos filmes que Eastwood dirigiu « Os Imperdoáveis » e « Um Mundo Perfeito » apontam justamente para uma crise de o herói , de sua autoridade restauradora , de sua integridade monolítica .</em>
+  * [NOUN]() 1: <em>Schumacher põe <b>culpa</b> em degrau</em>
 * <em>fax</em>
   * [NOUN]() 10: <em>Em Curitiba , as comemorações vão incluir envio de <b>fax</b> , plantio de árvores e passeatas .</em>
   * [X]() 1: <em>Sobre o controle antidoping , a Fifa estabelecerá uma « <b>fax</b> hotline » , em operação 24 horas por dia , para que os médicos de as delegações consultem a organização de a Copa antes de fornecer qualquer medicamento a seus jogadores .</em>

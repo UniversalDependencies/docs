@@ -72,6 +72,21 @@ The most frequent other feature values with which `DET` and `PronType` co-occurr
   <tr><td><tt><a href="Case.html">Case</a>=Tra</tt></td><td></td><td><em>igaks</em></td></tr>
 </table>
 
+### `ADJ`
+
+54 [et-pos/ADJ]() tokens (2% of all `ADJ` tokens) have a non-empty value of `PronType`.
+
+The most frequent other feature values with which `ADJ` and `PronType` co-occurred: <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (54; 100%), <tt><a href="VerbForm.html">VerbForm</a>=EMPTY</tt> (54; 100%), <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (54; 100%), <tt><a href="Degree.html">Degree</a>=EMPTY</tt> (54; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (43; 80%).
+
+`ADJ` tokens may have the following values of `PronType`:
+
+* `Dem` (25; 46% of non-empty `PronType`): <em>sama, selline, niisugune, sellised, sellist, säärast, niisuguseid, niisugust, samal, samasugune</em>
+* `Ind` (23; 43% of non-empty `PronType`): <em>muud, mingi, mingeid, muu, Mingis, igale, mingit, muid, muudki, muule</em>
+* `Rel` (6; 11% of non-empty `PronType`): <em>milline, milliseid, millised, millist</em>
+* `EMPTY` (2216): <em>hea, suur, püha, vana, noor, esimest, terve, tugev, väike, raske</em>
+
+`PronType` seems to be **lexical feature** of `ADJ`. 100% lemmas (11) occur only with one value of `PronType`.
+
 ### `ADV`
 
 54 [et-pos/ADV]() tokens (2% of all `ADV` tokens) have a non-empty value of `PronType`.
@@ -87,25 +102,10 @@ The most frequent other feature values with which `DET` and `PronType` co-occurr
   <tr><td><tt></tt></td><td><em>kas</em></td><td><em>kas</em></td></tr>
 </table>
 
-### `ADJ`
-
-54 [et-pos/ADJ]() tokens (2% of all `ADJ` tokens) have a non-empty value of `PronType`.
-
-The most frequent other feature values with which `ADJ` and `PronType` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=EMPTY</tt> (54; 100%), <tt><a href="Degree.html">Degree</a>=EMPTY</tt> (54; 100%), <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (54; 100%), <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (54; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (43; 80%).
-
-`ADJ` tokens may have the following values of `PronType`:
-
-* `Dem` (25; 46% of non-empty `PronType`): <em>sama, selline, niisugune, sellised, sellist, säärast, niisuguseid, niisugust, samal, samasugune</em>
-* `Ind` (23; 43% of non-empty `PronType`): <em>muud, mingi, mingeid, muu, Mingis, igale, mingit, muid, muudki, muule</em>
-* `Rel` (6; 11% of non-empty `PronType`): <em>milline, milliseid, millised, millist</em>
-* `EMPTY` (2216): <em>hea, suur, püha, vana, noor, esimest, terve, tugev, väike, raske</em>
-
-`PronType` seems to be **lexical feature** of `ADJ`. 100% lemmas (11) occur only with one value of `PronType`.
-
 ## Relations with Agreement in `PronType`
 
 The 10 most frequent relations where parent and child node agree in `PronType`:
 <tt>PRON --[<a href="../dep/nmod:poss.html">nmod:poss</a>]--> PRON</tt> (2; 100%),
-<tt>ADJ --[<a href="../dep/det.html">det</a>]--> DET</tt> (1; 100%),
-<tt>PRON --[<a href="../dep/parataxis.html">parataxis</a>]--> PRON</tt> (1; 100%).
+<tt>PRON --[<a href="../dep/parataxis.html">parataxis</a>]--> PRON</tt> (1; 100%),
+<tt>ADJ --[<a href="../dep/det.html">det</a>]--> DET</tt> (1; 100%).
 

@@ -20,28 +20,6 @@ The following 2 pairs of parts of speech are connected with `reparandum`: [da-po
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 1 reparandum	color:blue
-1	Vil	ville	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	6	reparandum	_	_
-2	du	du	PRON	_	Case=Nom|Gender=Com|Number=Sing|Person=2|PronType=Prs	1	nsubj	_	_
-3	...	...	PUNCT	_	_	1	punct	_	_
-4	vil	ville	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	6	aux	_	_
-5	du	du	PRON	_	Case=Nom|Gender=Com|Number=Sing|Person=2|PronType=Prs	6	nsubj	_	_
-6	gifte	gifte	VERB	_	VerbForm=Inf|Voice=Act	0	root	_	_
-7	dig	du	PRON	_	Case=Acc|Gender=Com|Number=Sing|Person=2|PronType=Prs	6	obj	_	_
-8	med	med	ADP	_	AdpType=Prep	9	case	_	_
-9	mig	jeg	PRON	_	Case=Acc|Gender=Com|Number=Sing|Person=1|PronType=Prs	6	obl	_	_
-10	,	,	PUNCT	_	_	6	punct	_	_
-11	Trine	Trine	PROPN	_	_	6	vocative	_	_
-12	?	?	PUNCT	_	_	6	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 1 reparandum	color:blue
 1	Jeg	jeg	PRON	_	Case=Nom|Gender=Com|Number=Sing|Person=1|PronType=Prs	6	reparandum	_	_
 2	...	...	PUNCT	_	_	1	punct	_	_
 3	åh	åh	INTJ	_	_	10	discourse	_	_
@@ -58,6 +36,28 @@ The following 2 pairs of parts of speech are connected with `reparandum`: [da-po
 14	hendes	hendes	DET	_	Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	15	det	_	_
 15	hjerne	hjerne	NOUN	_	Definite=Ind|Gender=Com|Number=Sing	10	obl	_	_
 16	.	.	PUNCT	_	_	10	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 1 reparandum	color:blue
+1	Vil	ville	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	6	reparandum	_	_
+2	du	du	PRON	_	Case=Nom|Gender=Com|Number=Sing|Person=2|PronType=Prs	1	nsubj	_	_
+3	...	...	PUNCT	_	_	1	punct	_	_
+4	vil	ville	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	6	aux	_	_
+5	du	du	PRON	_	Case=Nom|Gender=Com|Number=Sing|Person=2|PronType=Prs	6	nsubj	_	_
+6	gifte	gifte	VERB	_	VerbForm=Inf|Voice=Act	0	root	_	_
+7	dig	du	PRON	_	Case=Acc|Gender=Com|Number=Sing|Person=2|PronType=Prs	6	obj	_	_
+8	med	med	ADP	_	AdpType=Prep	9	case	_	_
+9	mig	jeg	PRON	_	Case=Acc|Gender=Com|Number=Sing|Person=1|PronType=Prs	6	obl	_	_
+10	,	,	PUNCT	_	_	6	punct	_	_
+11	Trine	Trine	PROPN	_	_	6	vocative	_	_
+12	?	?	PUNCT	_	_	6	punct	_	_
 
 ~~~
 

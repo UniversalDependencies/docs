@@ -11,7 +11,7 @@ The 10 most frequent `X` lemmas: <em>the, of, and, in, to, you, a, is, on, again
 
 The 10 most frequent `X` types:  <em>the, of, and, in, to, you, a, is, on, again</em>
 
-The 10 most frequent ambiguous lemmas: <em>the</em> ([X]() 30, [DET]() 4), <em>of</em> ([X]() 25, [ADP]() 1), <em>and</em> ([X]() 19, [CCONJ]() 1, [NOUN]() 1), <em>in</em> ([X]() 16, [ADJ]() 2), <em>to</em> ([NUM]() 312, [X]() 11), <em>you</em> ([X]() 9, [PRON]() 1), <em>a</em> ([X]() 7, [NOUN]() 7, [INTJ]() 1), <em>is</em> ([NOUN]() 12, [X]() 6, [VERB]() 1), <em>on</em> ([X]() 7, [ADP]() 2), <em>de</em> ([PRON]() 1489, [DET]() 1233, [PROPN]() 11, [X]() 5, [ADV]() 1)
+The 10 most frequent ambiguous lemmas: <em>the</em> ([X]() 30, [DET]() 4), <em>of</em> ([X]() 25, [ADP]() 1), <em>and</em> ([X]() 19, [CCONJ]() 1, [NOUN]() 1), <em>in</em> ([X]() 16, [ADJ]() 2), <em>to</em> ([NUM]() 312, [X]() 11), <em>you</em> ([X]() 9, [PRON]() 1), <em>a</em> ([NOUN]() 7, [X]() 7, [INTJ]() 1), <em>is</em> ([NOUN]() 12, [X]() 6, [VERB]() 1), <em>on</em> ([X]() 7, [ADP]() 2), <em>de</em> ([PRON]() 1489, [DET]() 1233, [PROPN]() 11, [X]() 5, [ADV]() 1)
 
 The 10 most frequent ambiguous types:  <em>the</em> ([X]() 30, [DET]() 4), <em>of</em> ([X]() 25, [ADP]() 1), <em>and</em> ([X]() 19, [CCONJ]() 1, [NOUN]() 1), <em>in</em> ([X]() 16, [ADJ]() 2), <em>to</em> ([NUM]() 290, [X]() 11), <em>you</em> ([X]() 9, [PRON]() 1), <em>a</em> ([X]() 7, [ADJ]() 4, [NOUN]() 2, [INTJ]() 1), <em>is</em> ([X]() 6, [NOUN]() 3, [VERB]() 1), <em>on</em> ([X]() 7, [ADP]() 2), <em>de</em> ([DET]() 1072, [PRON]() 960, [PROPN]() 11, [X]() 5, [ADV]() 1)
 

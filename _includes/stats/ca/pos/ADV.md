@@ -11,9 +11,9 @@ The 10 most frequent `ADV` lemmas: <em>no, més, també, ja, després, ahir, avu
 
 The 10 most frequent `ADV` types:  <em>no, més, també, ja, després, ahir, avui, molt, només, ara</em>
 
-The 10 most frequent ambiguous lemmas: <em>no</em> ([ADV]() 2518, [PART]() 121, [NOUN]() 7), <em>més</em> ([ADV]() 1972, [NOUN]() 3), <em>també</em> ([ADV]() 899, [NOUN]() 20), <em>després</em> ([ADV]() 520, [PROPN]() 1, [NOUN]() 1), <em>ahir</em> ([ADV]() 508, [NOUN]() 1), <em>avui</em> ([ADV]() 397, [NOUN]() 3, [PROPN]() 1), <em>molt</em> ([ADV]() 396, [DET]() 166, [PRON]() 28, [NOUN]() 2), <em>ara</em> ([ADV]() 350, [NOUN]() 65), <em>fins</em> ([ADP]() 406, [ADV]() 210), <em>abans</em> ([ADV]() 207, [NOUN]() 1, [SCONJ]() 1)
+The 10 most frequent ambiguous lemmas: <em>no</em> ([ADV]() 2518, [PART]() 121, [NOUN]() 7), <em>més</em> ([ADV]() 1972, [NOUN]() 3), <em>també</em> ([ADV]() 899, [NOUN]() 20), <em>després</em> ([ADV]() 520, [PROPN]() 1, [NOUN]() 1), <em>ahir</em> ([ADV]() 508, [NOUN]() 1), <em>avui</em> ([ADV]() 397, [NOUN]() 3, [PROPN]() 1), <em>molt</em> ([ADV]() 396, [DET]() 166, [PRON]() 28, [NOUN]() 2), <em>ara</em> ([ADV]() 350, [NOUN]() 65), <em>fins</em> ([ADP]() 406, [ADV]() 210), <em>abans</em> ([ADV]() 207, [SCONJ]() 1, [NOUN]() 1)
 
-The 10 most frequent ambiguous types:  <em>no</em> ([ADV]() 2349, [PART]() 70, [NOUN]() 7), <em>més</em> ([ADV]() 1941, [NOUN]() 3), <em>també</em> ([ADV]() 755, [NOUN]() 20), <em>després</em> ([ADV]() 423, [NOUN]() 1, [PROPN]() 1), <em>ahir</em> ([ADV]() 486, [NOUN]() 1), <em>avui</em> ([ADV]() 379, [NOUN]() 3, [PROPN]() 1), <em>molt</em> ([ADV]() 393, [DET]() 6, [NOUN]() 2, [PRON]() 1), <em>ara</em> ([ADV]() 308, [NOUN]() 58), <em>encara</em> ([ADV]() 284, [VERB]() 1), <em>fins</em> ([ADP]() 385, [ADV]() 189, [NOUN]() 4)
+The 10 most frequent ambiguous types:  <em>no</em> ([ADV]() 2349, [PART]() 70, [NOUN]() 7), <em>més</em> ([ADV]() 1941, [NOUN]() 3), <em>també</em> ([ADV]() 755, [NOUN]() 20), <em>després</em> ([ADV]() 423, [PROPN]() 1, [NOUN]() 1), <em>ahir</em> ([ADV]() 486, [NOUN]() 1), <em>avui</em> ([ADV]() 379, [NOUN]() 3, [PROPN]() 1), <em>molt</em> ([ADV]() 393, [DET]() 6, [NOUN]() 2, [PRON]() 1), <em>ara</em> ([ADV]() 308, [NOUN]() 58), <em>encara</em> ([ADV]() 284, [VERB]() 1), <em>fins</em> ([ADP]() 385, [ADV]() 189, [NOUN]() 4)
 
 
 * <em>no</em>
@@ -28,8 +28,8 @@ The 10 most frequent ambiguous types:  <em>no</em> ([ADV]() 2349, [PART]() 70, [
   * [NOUN]() 20: <em>I ho diuen no només els socialistes , sinó <b>també</b> alguns conservadors .</em>
 * <em>després</em>
   * [ADV]() 423: <em>I <b>després</b> tenim un vot castellanoparlant que ha estat apropat al PSC .</em>
-  * [NOUN]() 1: <em>" Desgraciadament - afegeixen al PSC - hi ha un abans i un <b>després</b> del 96 , i les alarmes d' incompliments de terminis per al TGV a Catalunya i l' enllaç amb França s' han produït en els últims dos anys " .</em>
   * [PROPN]() 1: <em>El filòsof , teòleg , i cap acadèmic de la Càtedra Ramon Llull-Blanquerna , Francesc Torralba , ha estat guardonat avui amb el 19è premi d' Assaig Josep Vallverdú per l' assaig ' Un altre món és possible ? Educar <b>després</b> de l' onze de setembre ' , una reflexió sobre el desafiament educatiu que plantegen els atemptats de l' 11 de setembre .</em>
+  * [NOUN]() 1: <em>" Desgraciadament - afegeixen al PSC - hi ha un abans i un <b>després</b> del 96 , i les alarmes d' incompliments de terminis per al TGV a Catalunya i l' enllaç amb França s' han produït en els últims dos anys " .</em>
 * <em>ahir</em>
   * [ADV]() 486: <em>Fins <b>ahir</b> havien mort 15 terroristes i 4 militars .</em>
   * [NOUN]() 1: <em>L' establiment va estar tancat al públic durant tot el dia d' <b>ahir</b> , després de la denúncia que dimecres passat va interposar el Servei de Protecció de la Naturalesa ( Seprona ) , unitat de la Guàrdia Civil responsable de temes mediambientals .</em>

@@ -11,7 +11,7 @@ The 10 most frequent `NOUN` lemmas: <em>res1, amor1, Catilina1, res, vox1, terra
 
 The 10 most frequent `NOUN` types:  <em>rem, res, Catilina, rei, Cynthia, bello, amor, urbe, vocem, hominum</em>
 
-The 10 most frequent ambiguous lemmas: <em>qui1</em> ([PRON]() 277, [NOUN]() 21, [ADJ]() 1, [SCONJ]() 1), <em>nihil</em> ([NOUN]() 13, [ADV]() 1), <em>Manlius1</em> ([NOUN]() 4, [ADJ]() 2), <em>fors</em> ([NOUN]() 4, [ADV]() 1), <em>nihil1</em> ([NOUN]() 4, [ADV]() 2), <em>omnes1</em> ([NOUN]() 4, [ADJ]() 1), <em>sancio1</em> ([NOUN]() 4, [ADJ]() 1), <em>omnis1</em> ([ADJ]() 51, [NOUN]() 3), <em>Gabinius1</em> ([ADJ]() 3, [NOUN]() 2), <em>Hercules1</em> ([NOUN]() 2, [INTJ]() 2)
+The 10 most frequent ambiguous lemmas: <em>qui1</em> ([PRON]() 277, [NOUN]() 21, [SCONJ]() 1, [ADJ]() 1), <em>nihil</em> ([NOUN]() 13, [ADV]() 1), <em>Manlius1</em> ([NOUN]() 4, [ADJ]() 2), <em>fors</em> ([NOUN]() 4, [ADV]() 1), <em>nihil1</em> ([NOUN]() 4, [ADV]() 2), <em>omnes1</em> ([NOUN]() 4, [ADJ]() 1), <em>sancio1</em> ([NOUN]() 4, [ADJ]() 1), <em>omnis1</em> ([ADJ]() 51, [NOUN]() 3), <em>Gabinius1</em> ([ADJ]() 3, [NOUN]() 2), <em>Hercules1</em> ([INTJ]() 2, [NOUN]() 2)
 
 The 10 most frequent ambiguous types:  <em>nihil</em> ([NOUN]() 11, [ADV]() 2), <em>nomen</em> ([NOUN]() 13, [ADJ]() 1), <em>omnia</em> ([ADJ]() 14, [NOUN]() 10), <em>modo</em> ([ADV]() 19, [NOUN]() 7), <em>quae</em> ([PRON]() 58, [NOUN]() 5), <em>qui</em> ([PRON]() 83, [NOUN]() 5, [SCONJ]() 1), <em>sociis</em> ([NOUN]() 5, [ADJ]() 1), <em>L</em> ([NOUN]() 4, [X]() 4), <em>Q</em> ([NOUN]() 4, [X]() 1), <em>c</em> ([CCONJ]() 2, [NOUN]() 1)
 

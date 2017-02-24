@@ -16,7 +16,7 @@ The feature is used with 10 part-of-speech tags: [ur-pos/NOUN]() (20; 0% instanc
 
 20 [ur-pos/NOUN]() tokens (0% of all `NOUN` tokens) have a non-empty value of `Echo`.
 
-The most frequent other feature values with which `NOUN` and `Echo` co-occurred: <tt><a href="Number.html">Number</a>=Sing</tt> (18; 90%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (17; 85%), <tt><a href="Case.html">Case</a>=Nom</tt> (11; 55%), <tt><a href="Person.html">Person</a>=3</tt> (11; 55%).
+The most frequent other feature values with which `NOUN` and `Echo` co-occurred: <tt><a href="Number.html">Number</a>=Sing</tt> (18; 90%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (17; 85%), <tt><a href="Person.html">Person</a>=3</tt> (11; 55%), <tt><a href="Case.html">Case</a>=Nom</tt> (11; 55%).
 
 `NOUN` tokens may have the following values of `Echo`:
 
@@ -36,7 +36,7 @@ The most frequent other feature values with which `ADJ` and `Echo` co-occurred: 
 
 9 [ur-pos/PRON]() tokens (0% of all `PRON` tokens) have a non-empty value of `Echo`.
 
-The most frequent other feature values with which `PRON` and `Echo` co-occurred: <tt><a href="Person.html">Person</a>=EMPTY</tt> (9; 100%), <tt><a href="Polite.html">Polite</a>=EMPTY</tt> (9; 100%), <tt><a href="PronType.html">PronType</a>=Prs</tt> (9; 100%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (8; 89%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (7; 78%), <tt><a href="Case.html">Case</a>=Acc</tt> (6; 67%).
+The most frequent other feature values with which `PRON` and `Echo` co-occurred: <tt><a href="PronType.html">PronType</a>=Prs</tt> (9; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (9; 100%), <tt><a href="Polite.html">Polite</a>=EMPTY</tt> (9; 100%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (8; 89%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (7; 78%), <tt><a href="Case.html">Case</a>=Acc</tt> (6; 67%).
 
 `PRON` tokens may have the following values of `Echo`:
 
@@ -46,7 +46,7 @@ The most frequent other feature values with which `PRON` and `Echo` co-occurred:
 
 7 [ur-pos/ADP]() tokens (0% of all `ADP` tokens) have a non-empty value of `Echo`.
 
-The most frequent other feature values with which `ADP` and `Echo` co-occurred: <tt><a href="Number.html">Number</a>=Sing</tt> (7; 100%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (7; 100%), <tt><a href="Case.html">Case</a>=Nom</tt> (7; 100%), <tt><a href="AdpType.html">AdpType</a>=Post</tt> (6; 86%).
+The most frequent other feature values with which `ADP` and `Echo` co-occurred: <tt><a href="Number.html">Number</a>=Sing</tt> (7; 100%), <tt><a href="Case.html">Case</a>=Nom</tt> (7; 100%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (7; 100%), <tt><a href="AdpType.html">AdpType</a>=Post</tt> (6; 86%).
 
 `ADP` tokens may have the following values of `Echo`:
 
@@ -66,11 +66,21 @@ The most frequent other feature values with which `NUM` and `Echo` co-occurred: 
 
 4 [ur-pos/ADV]() tokens (0% of all `ADV` tokens) have a non-empty value of `Echo`.
 
-The most frequent other feature values with which `ADV` and `Echo` co-occurred: <tt><a href="Person.html">Person</a>=EMPTY</tt> (4; 100%), <tt><a href="AdpType.html">AdpType</a>=EMPTY</tt> (4; 100%), <tt><a href="AdvType.html">AdvType</a>=EMPTY</tt> (4; 100%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (3; 75%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (3; 75%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (3; 75%).
+The most frequent other feature values with which `ADV` and `Echo` co-occurred: <tt><a href="AdpType.html">AdpType</a>=EMPTY</tt> (4; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (4; 100%), <tt><a href="AdvType.html">AdvType</a>=EMPTY</tt> (4; 100%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (3; 75%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (3; 75%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (3; 75%).
 
 `ADV` tokens may have the following values of `Echo`:
 
 * `Rdp` (4; 100% of non-empty `Echo`): بار، جیسے، فوقتاً
+
+### `VERB`
+
+2 [ur-pos/VERB]() tokens (0% of all `VERB` tokens) have a non-empty value of `Echo`.
+
+The most frequent other feature values with which `VERB` and `Echo` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (2; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (2; 100%), <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (2; 100%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (2; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (2; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (2; 100%), <tt><a href="Aspect.html">Aspect</a>=Imp</tt> (2; 100%).
+
+`VERB` tokens may have the following values of `Echo`:
+
+* `Rdp` (2; 100% of non-empty `Echo`): جاتے
 
 ### `PART`
 
@@ -82,21 +92,11 @@ The most frequent other feature values with which `PART` and `Echo` co-occurred:
 
 * `Rdp` (2; 100% of non-empty `Echo`): کم
 
-### `VERB`
-
-2 [ur-pos/VERB]() tokens (0% of all `VERB` tokens) have a non-empty value of `Echo`.
-
-The most frequent other feature values with which `VERB` and `Echo` co-occurred: <tt><a href="Number.html">Number</a>=EMPTY</tt> (2; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (2; 100%), <tt><a href="Aspect.html">Aspect</a>=Imp</tt> (2; 100%), <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (2; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (2; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (2; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (2; 100%).
-
-`VERB` tokens may have the following values of `Echo`:
-
-* `Rdp` (2; 100% of non-empty `Echo`): جاتے
-
 ### `DET`
 
 1 [ur-pos/DET]() tokens (0% of all `DET` tokens) have a non-empty value of `Echo`.
 
-The most frequent other feature values with which `DET` and `Echo` co-occurred: <tt><a href="Person.html">Person</a>=EMPTY</tt> (1; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (1; 100%), <tt><a href="PronType.html">PronType</a>=Ind</tt> (1; 100%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (1; 100%).
+The most frequent other feature values with which `DET` and `Echo` co-occurred: <tt><a href="Person.html">Person</a>=EMPTY</tt> (1; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (1; 100%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (1; 100%), <tt><a href="PronType.html">PronType</a>=Ind</tt> (1; 100%).
 
 `DET` tokens may have the following values of `Echo`:
 
@@ -106,7 +106,7 @@ The most frequent other feature values with which `DET` and `Echo` co-occurred: 
 
 1 [ur-pos/PROPN]() tokens (0% of all `PROPN` tokens) have a non-empty value of `Echo`.
 
-The most frequent other feature values with which `PROPN` and `Echo` co-occurred: <tt><a href="Case.html">Case</a>=EMPTY</tt> (1; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (1; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (1; 100%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (1; 100%).
+The most frequent other feature values with which `PROPN` and `Echo` co-occurred: <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (1; 100%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (1; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (1; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (1; 100%).
 
 `PROPN` tokens may have the following values of `Echo`:
 

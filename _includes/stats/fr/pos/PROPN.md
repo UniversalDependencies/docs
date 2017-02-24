@@ -11,7 +11,7 @@ The 10 most frequent `PROPN` lemmas: <em>France, Paris, Europe, États-Unis, Jea
 
 The 10 most frequent `PROPN` types:  <em>France, Paris, Europe, États-Unis, Jean, Maroc, Espagne, la, New, York</em>
 
-The 10 most frequent ambiguous lemmas: <em>la</em> ([PROPN]() 3, [NOUN]() 1, [DET]() 1, [ADV]() 1), <em>New</em> ([PROPN]() 62, [X]() 1), <em>York</em> ([PROPN]() 61, [X]() 1), <em>le</em> ([DET]() 42233, [PRON]() 859, [PROPN]() 3), <em>The</em> ([PROPN]() 42, [X]() 1), <em>sud</em> ([NOUN]() 122, [ADJ]() 2, [PROPN]() 1), <em>saint</em> ([NOUN]() 30, [PROPN]() 9, [ADJ]() 8), <em>de</em> ([ADP]() 30816, [PROPN]() 24), <em>ONU</em> ([PROPN]() 29, [X]() 1), <em>El</em> ([PROPN]() 25, [X]() 1)
+The 10 most frequent ambiguous lemmas: <em>la</em> ([PROPN]() 3, [ADV]() 1, [NOUN]() 1, [DET]() 1), <em>New</em> ([PROPN]() 62, [X]() 1), <em>York</em> ([PROPN]() 61, [X]() 1), <em>le</em> ([DET]() 42233, [PRON]() 859, [PROPN]() 3), <em>The</em> ([PROPN]() 42, [X]() 1), <em>sud</em> ([NOUN]() 122, [ADJ]() 2, [PROPN]() 1), <em>saint</em> ([NOUN]() 30, [PROPN]() 9, [ADJ]() 8), <em>de</em> ([ADP]() 30816, [PROPN]() 24), <em>ONU</em> ([PROPN]() 29, [X]() 1), <em>El</em> ([PROPN]() 25, [X]() 1)
 
 The 10 most frequent ambiguous types:  <em>la</em> ([DET]() 9506, [PRON]() 108, [PROPN]() 3, [ADV]() 1, [NOUN]() 1), <em>New</em> ([PROPN]() 62, [ADJ]() 2, [X]() 1), <em>York</em> ([PROPN]() 61, [X]() 1), <em>Nord</em> ([PROPN]() 51, [NOUN]() 11), <em>le</em> ([DET]() 13505, [PRON]() 280, [PROPN]() 3), <em>The</em> ([PROPN]() 42, [DET]() 42, [X]() 1), <em>sud</em> ([NOUN]() 93, [ADJ]() 2, [PROPN]() 1), <em>Grand</em> ([PROPN]() 36, [ADJ]() 11), <em>saint</em> ([PROPN]() 9, [NOUN]() 8, [ADJ]() 4), <em>de</em> ([ADP]() 25926, [DET]() 419, [PROPN]() 24, [ADV]() 1)
 
@@ -109,9 +109,9 @@ The 10 most frequent `PROPN` lemmas: <em>Facebook, Pericles, Europe, CE, CEE, Ko
 
 The 10 most frequent `PROPN` types:  <em>Facebook, Pericles, Europe, CE, CEE, Koch, Commons, Creative, Galles, Européenne</em>
 
-The 10 most frequent ambiguous lemmas: <em>CE</em> ([PROPN]() 9, [PRON]() 4), <em>PME</em> ([PROPN]() 1, [NOUN]() 1)
+The 10 most frequent ambiguous lemmas: <em>CE</em> ([PROPN]() 9, [PRON]() 4), <em>PME</em> ([NOUN]() 1, [PROPN]() 1)
 
-The 10 most frequent ambiguous types:  <em>CE</em> ([PROPN]() 10, [PRON]() 4), <em>Conseil</em> ([NOUN]() 3, [PROPN]() 1), <em>Contrat</em> ([NOUN]() 2, [PROPN]() 1), <em>De</em> ([ADP]() 4, [PROPN]() 1), <em>En</em> ([ADP]() 17, [PROPN]() 1), <em>PME</em> ([NOUN]() 1, [PROPN]() 1), <em>Partage</em> ([PROPN]() 1, [NOUN]() 1), <em>États</em> ([NOUN]() 2, [PROPN]() 1)
+The 10 most frequent ambiguous types:  <em>CE</em> ([PROPN]() 10, [PRON]() 4), <em>Conseil</em> ([NOUN]() 3, [PROPN]() 1), <em>Contrat</em> ([NOUN]() 2, [PROPN]() 1), <em>De</em> ([ADP]() 4, [PROPN]() 1), <em>En</em> ([ADP]() 17, [PROPN]() 1), <em>PME</em> ([NOUN]() 1, [PROPN]() 1), <em>Partage</em> ([NOUN]() 1, [PROPN]() 1), <em>États</em> ([NOUN]() 2, [PROPN]() 1)
 
 
 * <em>CE</em>
@@ -133,8 +133,8 @@ The 10 most frequent ambiguous types:  <em>CE</em> ([PROPN]() 10, [PRON]() 4), <
   * [NOUN]() 1: <em>( 28 ) En ce qui concerne la formation et l' information en matière d' écoconception destinée à les <b>PME</b> , il peut être judicieux d' envisager des activités complémentaires .</em>
   * [PROPN]() 1: <em>( 22 ) Lors de l' élaboration de les mesures d' exécution et de son plan de travail , la commission devrait consulter des représentants de les états membres , ainsi que les parties intéressées concernées par le groupe de produits , par exemple le secteur de production , y compris les <b>PME</b> et le secteur artisanal , les syndicats , les opérateurs commerciaux , les détaillants , les importateurs , les associations de protection de l' environnement et les organisations de consommateurs .</em>
 * <em>Partage</em>
-  * [PROPN]() 1: <em>L' acceptant peut reproduire , distribuer , représenter ou communiquer à le public une oeuvre dite dérivée y compris par voie numérique uniquement sous les termes de ce contrat , ou d' une version ultérieure de ce contrat comprenant les mêmes options de le contrat que le présent contrat , ou un contrat Creative Commons Icommons comprenant les mêmes options de le contrat que le présent contrat ( par exemple paternité - pas d' utilisation commerciale - <b>Partage</b> de les conditions initiales à l' Identique 2.0 Japon ) .</em>
   * [NOUN]() 1: <em>Paternité - Pas d' utilisation commerciale - <b>Partage</b> de les conditions initiales a l' identique .</em>
+  * [PROPN]() 1: <em>L' acceptant peut reproduire , distribuer , représenter ou communiquer à le public une oeuvre dite dérivée y compris par voie numérique uniquement sous les termes de ce contrat , ou d' une version ultérieure de ce contrat comprenant les mêmes options de le contrat que le présent contrat , ou un contrat Creative Commons Icommons comprenant les mêmes options de le contrat que le présent contrat ( par exemple paternité - pas d' utilisation commerciale - <b>Partage</b> de les conditions initiales à l' Identique 2.0 Japon ) .</em>
 * <em>États</em>
   * [NOUN]() 2: <em>Ces mesures de sauvegarde ne peuvent pas être utilisées comme moyen de discrimination arbitraire ou de restriction déguisée de les échanges commerciaux entre les <b>États</b> membres .</em>
   * [PROPN]() 1: <em>En effet , les reportages de les médias montrent particulièrement que l' Europe perd rapidement de le terrain vis-à-vis de les <b>États</b> Unis dans les industries de la haute technologie de l' avenir , en pleine croissance .</em>
@@ -187,7 +187,7 @@ The 10 most frequent `PROPN` types:  <em>Aclasta, Angiox, paris, commission, Jac
 
 The 10 most frequent ambiguous lemmas: <em>commission</em> ([NOUN]() 55, [PROPN]() 43), <em>conseil</em> ([PROPN]() 27, [NOUN]() 23), <em>Reuters</em> ([PROPN]() 13, [X]() 1), <em>UE</em> ([PROPN]() 7, [NOUN]() 1), <em>société</em> ([NOUN]() 21, [PROPN]() 1), <em>banque</em> ([NOUN]() 8, [PROPN]() 5), <em>van</em> ([PROPN]() 1, [X]() 1), <em>Koweit</em> ([PROPN]() 4, [NOUN]() 1), <em>république</em> ([NOUN]() 11, [PROPN]() 1), <em>Beirut</em> ([PROPN]() 3, [X]() 1)
 
-The 10 most frequent ambiguous types:  <em>commission</em> ([NOUN]() 31, [PROPN]() 1), <em>conseil</em> ([NOUN]() 17, [PROPN]() 1), <em>Reuters</em> ([PROPN]() 13, [X]() 1), <em>Parti</em> ([PROPN]() 7, [NOUN]() 3, [VERB]() 1), <em>UE</em> ([PROPN]() 7, [NOUN]() 1), <em>société</em> ([NOUN]() 15, [PROPN]() 1), <em>Guerre</em> ([NOUN]() 8, [PROPN]() 5), <em>Ligue</em> ([PROPN]() 5, [NOUN]() 1), <em>van</em> ([PROPN]() 1, [X]() 1), <em>Koweit</em> ([PROPN]() 4, [NOUN]() 1)
+The 10 most frequent ambiguous types:  <em>commission</em> ([NOUN]() 31, [PROPN]() 1), <em>conseil</em> ([NOUN]() 17, [PROPN]() 1), <em>Reuters</em> ([PROPN]() 13, [X]() 1), <em>Parti</em> ([PROPN]() 7, [NOUN]() 3, [VERB]() 1), <em>UE</em> ([PROPN]() 7, [NOUN]() 1), <em>société</em> ([NOUN]() 15, [PROPN]() 1), <em>Guerre</em> ([NOUN]() 8, [PROPN]() 5), <em>Ligue</em> ([PROPN]() 5, [NOUN]() 1), <em>van</em> ([X]() 1, [PROPN]() 1), <em>Koweit</em> ([PROPN]() 4, [NOUN]() 1)
 
 
 * <em>commission</em>
@@ -216,8 +216,8 @@ The 10 most frequent ambiguous types:  <em>commission</em> ([NOUN]() 31, [PROPN]
   * [PROPN]() 5: <em>Eulalie Lechat , la soeur de le caporal Lechat , avait elle aussi créé un comité en 1923 avec l' aide de la <b>Ligue</b> de les Droits de l' Homme .</em>
   * [NOUN]() 1: <em>Dès la fin de la guerre , la veuve de Théophile Maupas , soutenue par la <b>Ligue</b> de les droits de l' Homme contactée dès le mois d' avril 1915 , entama un combat pour la réhabilitation de son époux et de les autres caporaux fusillés de Souain ;</em>
 * <em>van</em>
-  * [PROPN]() 1: <em>Non , Madame <b>van</b> der Laan , vous devriez savoir qu' à les termes de le règlement , cette demande aurait dû être introduite selon les formes et dans les temps , ce qui n' a pas été le cas .</em>
   * [X]() 1: <em>C' est Renaud <b>van</b> Ruymbeke qui reprendra alors ce dossier qui s' enlisera dans les sables de le secret défense .</em>
+  * [PROPN]() 1: <em>Non , Madame <b>van</b> der Laan , vous devriez savoir qu' à les termes de le règlement , cette demande aurait dû être introduite selon les formes et dans les temps , ce qui n' a pas été le cas .</em>
 * <em>Koweit</em>
   * [PROPN]() 4: <em>[ ... ] Les Irakiens ont tout détruit à le <b>Koweit</b> .</em>
   * [NOUN]() 1: <em>L' association Citizens for a Free Kuwait , organisée par le gouvernement de le <b>Koweit</b> exilé avait commandé cette campagne à la compagnie de relations publiques Hill & Knowlton ( pour la somme de 10 millions de dollars [ 1 ] ) .</em>

@@ -279,6 +279,26 @@ The following 8 pairs of parts of speech are connected with `acl`: [en-pos/NOUN]
 
 
 ~~~ conllu
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 9 acl	color:blue
+1	"	"	PUNCT	FB	_	3	punct	_	SpaceAfter=No
+2	He	he	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+3	announced	announce	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+4	his	his	DET	AP	Poss=Yes|PronType=Prs	5	nmod:poss	_	_
+5	intention	intention	NOUN	S	Number=Sing	3	obj	_	_
+6	to	to	PART	PART	_	9	mark	_	_
+7	be	be	AUX	VA	VerbForm=Inf	9	cop	_	_
+8	a	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	9	det	_	_
+9	writer	writer	NOUN	S	Number=Sing	5	acl	_	SpaceAfter=No
+10	.	.	PUNCT	FS	_	3	punct	_	_
+
+~~~
+
+
+~~~ conllu
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 2	bgColor:blue
@@ -302,26 +322,6 @@ The following 8 pairs of parts of speech are connected with `acl`: [en-pos/NOUN]
 16	social	social	ADJ	A	Degree=Pos	17	amod	_	_
 17	protection	protection	NOUN	S	Number=Sing	13	obj	_	SpaceAfter=No
 18	.	.	PUNCT	FS	_	13	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 9 acl	color:blue
-1	"	"	PUNCT	FB	_	3	punct	_	SpaceAfter=No
-2	He	he	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
-3	announced	announce	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
-4	his	his	DET	AP	Poss=Yes|PronType=Prs	5	nmod:poss	_	_
-5	intention	intention	NOUN	S	Number=Sing	3	obj	_	_
-6	to	to	PART	PART	_	9	mark	_	_
-7	be	be	AUX	VA	VerbForm=Inf	9	cop	_	_
-8	a	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	9	det	_	_
-9	writer	writer	NOUN	S	Number=Sing	5	acl	_	SpaceAfter=No
-10	.	.	PUNCT	FS	_	3	punct	_	_
 
 ~~~
 

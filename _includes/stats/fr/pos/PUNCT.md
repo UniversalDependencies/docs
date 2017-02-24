@@ -11,9 +11,9 @@ The 10 most frequent `PUNCT` lemmas: <em>,, ., (, ), «, ", », :, !, ?</em>
 
 The 10 most frequent `PUNCT` types:  <em>,, ., (, ), «, ", », :, !, ?</em>
 
-The 10 most frequent ambiguous lemmas: <em>"</em> ([PUNCT]() 899, [SYM]() 4), <em>/</em> ([PUNCT]() 120, [SYM]() 1), <em>'</em> ([PUNCT]() 29, [SYM]() 2), <em>x</em> ([PUNCT]() 3, [X]() 2, [SYM]() 1, [NOUN]() 1), <em>*</em> ([SYM]() 3, [PUNCT]() 2), <em>+</em> ([SYM]() 16, [PUNCT]() 1), <em>></em> ([SYM]() 1, [PUNCT]() 1)
+The 10 most frequent ambiguous lemmas: <em>"</em> ([PUNCT]() 899, [SYM]() 4), <em>/</em> ([PUNCT]() 120, [SYM]() 1), <em>'</em> ([PUNCT]() 29, [SYM]() 2), <em>x</em> ([PUNCT]() 3, [X]() 2, [NOUN]() 1, [SYM]() 1), <em>*</em> ([SYM]() 3, [PUNCT]() 2), <em>+</em> ([SYM]() 16, [PUNCT]() 1), <em>></em> ([PUNCT]() 1, [SYM]() 1)
 
-The 10 most frequent ambiguous types:  <em>"</em> ([PUNCT]() 899, [SYM]() 4), <em>/</em> ([PUNCT]() 120, [SYM]() 1), <em>'</em> ([PUNCT]() 29, [SYM]() 2), <em>x</em> ([PUNCT]() 3, [X]() 2, [SYM]() 1, [NOUN]() 1), <em>*</em> ([SYM]() 3, [PUNCT]() 2), <em>+</em> ([SYM]() 16, [PUNCT]() 1), <em>></em> ([SYM]() 1, [PUNCT]() 1)
+The 10 most frequent ambiguous types:  <em>"</em> ([PUNCT]() 899, [SYM]() 4), <em>/</em> ([PUNCT]() 120, [SYM]() 1), <em>'</em> ([PUNCT]() 29, [SYM]() 2), <em>x</em> ([PUNCT]() 3, [X]() 2, [SYM]() 1, [NOUN]() 1), <em>*</em> ([SYM]() 3, [PUNCT]() 2), <em>+</em> ([SYM]() 16, [PUNCT]() 1), <em>></em> ([PUNCT]() 1, [SYM]() 1)
 
 
 * <em>"</em>
@@ -37,8 +37,8 @@ The 10 most frequent ambiguous types:  <em>"</em> ([PUNCT]() 899, [SYM]() 4), <e
   * [SYM]() 16: <em>Donc censure à Canal <b>+</b> , il n' y a pas eu .</em>
   * [PUNCT]() 1: <em>D' un nom de personne Ballo <b>+</b> Heim .</em>
 * <em>></em>
-  * [SYM]() 1: <em>Elle s' accompagne d' une anémie isolée et d' une sidéroblastose médullaire <b>></b> 15 % .</em>
   * [PUNCT]() 1: <em>Ces barres d' outils ont généralement des fonctionnalités permettant à le webmaster de mieux se rendre compte de la sémantique de sa page , c'est-à-dire généralement de son rendu avec d' autres styles , exemple avec la Web Developer Toolbar pour Firefox : fonctionnalité CSS <b>></b> Désactiver les styles CSS , les nombreux styles alternatifs sur Opera .</em>
+  * [SYM]() 1: <em>Elle s' accompagne d' une anémie isolée et d' une sidéroblastose médullaire <b>></b> 15 % .</em>
 
 ## Morphology
 

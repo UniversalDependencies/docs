@@ -16,7 +16,7 @@ The feature is used with 2 part-of-speech tags: [sl-pos/NOUN]() (1770; 1% instan
 
 1770 [sl-pos/NOUN]() tokens (7% of all `NOUN` tokens) have a non-empty value of `Animacy`.
 
-The most frequent other feature values with which `NOUN` and `Animacy` co-occurred: <tt><a href="Gender.html">Gender</a>=Masc</tt> (1770; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (1770; 100%), <tt><a href="Case.html">Case</a>=Acc</tt> (1770; 100%).
+The most frequent other feature values with which `NOUN` and `Animacy` co-occurred: <tt><a href="Case.html">Case</a>=Acc</tt> (1770; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (1770; 100%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (1770; 100%).
 
 `NOUN` tokens may have the following values of `Animacy`:
 
@@ -35,7 +35,7 @@ The most frequent other feature values with which `NOUN` and `Animacy` co-occurr
 
 240 [sl-pos/PROPN]() tokens (6% of all `PROPN` tokens) have a non-empty value of `Animacy`.
 
-The most frequent other feature values with which `PROPN` and `Animacy` co-occurred: <tt><a href="Gender.html">Gender</a>=Masc</tt> (240; 100%), <tt><a href="Case.html">Case</a>=Acc</tt> (240; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (240; 100%).
+The most frequent other feature values with which `PROPN` and `Animacy` co-occurred: <tt><a href="Case.html">Case</a>=Acc</tt> (240; 100%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (240; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (240; 100%).
 
 `PROPN` tokens may have the following values of `Animacy`:
 
@@ -69,7 +69,7 @@ The feature is used with 2 part-of-speech tags: [sl-pos/NOUN]() (239; 1% instanc
 
 239 [sl-pos/NOUN]() tokens (10% of all `NOUN` tokens) have a non-empty value of `Animacy`.
 
-The most frequent other feature values with which `NOUN` and `Animacy` co-occurred: <tt><a href="Number.html">Number</a>=Sing</tt> (239; 100%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (239; 100%), <tt><a href="Case.html">Case</a>=Acc</tt> (238; 100%).
+The most frequent other feature values with which `NOUN` and `Animacy` co-occurred: <tt><a href="Gender.html">Gender</a>=Masc</tt> (239; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (239; 100%), <tt><a href="Case.html">Case</a>=Acc</tt> (238; 100%).
 
 `NOUN` tokens may have the following values of `Animacy`:
 
@@ -98,6 +98,6 @@ The most frequent other feature values with which `PROPN` and `Animacy` co-occur
 The 10 most frequent relations where parent and child node agree in `Animacy`:
 <tt>NOUN --[<a href="../dep/reparandum.html">reparandum</a>]--> NOUN</tt> (4; 100%),
 <tt>NOUN --[<a href="../dep/parataxis.html">parataxis</a>]--> NOUN</tt> (2; 67%),
-<tt>PROPN --[<a href="../dep/conj.html">conj</a>]--> PROPN</tt> (1; 100%),
-<tt>PROPN --[<a href="../dep/flat:name.html">flat:name</a>]--> PROPN</tt> (1; 100%).
+<tt>PROPN --[<a href="../dep/flat:name.html">flat:name</a>]--> PROPN</tt> (1; 100%),
+<tt>PROPN --[<a href="../dep/conj.html">conj</a>]--> PROPN</tt> (1; 100%).
 

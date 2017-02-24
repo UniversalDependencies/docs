@@ -15,31 +15,6 @@ The following 3 pairs of parts of speech are connected with `orphan`: [bg-pos/AD
 
 
 ~~~ conllu
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 9 orphan	color:blue
-1	Тоест	тоест	CCONJ	Cc	_	4	cc	_	SpaceAfter=No
-2	,	,	PUNCT	punct	_	1	punct	_	_
-3	за	за	ADP	R	_	4	case	_	_
-4	възстановяване	възстановяване	NOUN	Ncnsi	Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
-5	на	на	ADP	R	_	10	case	_	_
-6	мирните	мирен	ADJ	A-pd	Definite=Def|Degree=Pos|Number=Plur	10	amod	_	SpaceAfter=No
-7	,	,	PUNCT	punct	_	10	punct	_	_
-8	на	на	ADP	R	_	5	orphan	_	_
-9	политическите	политически	ADJ	A-pd	Definite=Def|Degree=Pos|Number=Plur	6	orphan	_	_
-10	усилия	усилие	NOUN	Ncnpi	Definite=Ind|Gender=Neut|Number=Plur	4	nmod	_	_
-11	за	за	ADP	R	_	12	case	_	_
-12	решаване	решаване	NOUN	Ncnsi	Definite=Ind|Gender=Neut|Number=Sing	10	nmod	_	_
-13	на	на	ADP	R	_	14	case	_	_
-14	кризата	криза	NOUN	Ncfsd	Definite=Def|Gender=Fem|Number=Sing	12	nmod	_	SpaceAfter=No
-15	.	.	PUNCT	punct	_	4	punct	_	_
-
-~~~
-
-
-~~~ conllu
 # visual-style 22	bgColor:blue
 # visual-style 22	fgColor:white
 # visual-style 15	bgColor:blue
@@ -71,6 +46,31 @@ The following 3 pairs of parts of speech are connected with `orphan`: [bg-pos/AD
 24	Народното	народен	ADJ	Ansd	Definite=Def|Degree=Pos|Gender=Neut|Number=Sing	25	amod	_	_
 25	събрание	събрание	NOUN	Ncnsi	Definite=Ind|Gender=Neut|Number=Sing	22	nmod	_	SpaceAfter=No
 26	.	.	PUNCT	punct	_	5	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 9 orphan	color:blue
+1	Тоест	тоест	CCONJ	Cc	_	4	cc	_	SpaceAfter=No
+2	,	,	PUNCT	punct	_	1	punct	_	_
+3	за	за	ADP	R	_	4	case	_	_
+4	възстановяване	възстановяване	NOUN	Ncnsi	Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
+5	на	на	ADP	R	_	10	case	_	_
+6	мирните	мирен	ADJ	A-pd	Definite=Def|Degree=Pos|Number=Plur	10	amod	_	SpaceAfter=No
+7	,	,	PUNCT	punct	_	10	punct	_	_
+8	на	на	ADP	R	_	5	orphan	_	_
+9	политическите	политически	ADJ	A-pd	Definite=Def|Degree=Pos|Number=Plur	6	orphan	_	_
+10	усилия	усилие	NOUN	Ncnpi	Definite=Ind|Gender=Neut|Number=Plur	4	nmod	_	_
+11	за	за	ADP	R	_	12	case	_	_
+12	решаване	решаване	NOUN	Ncnsi	Definite=Ind|Gender=Neut|Number=Sing	10	nmod	_	_
+13	на	на	ADP	R	_	14	case	_	_
+14	кризата	криза	NOUN	Ncfsd	Definite=Def|Gender=Fem|Number=Sing	12	nmod	_	SpaceAfter=No
+15	.	.	PUNCT	punct	_	4	punct	_	_
 
 ~~~
 

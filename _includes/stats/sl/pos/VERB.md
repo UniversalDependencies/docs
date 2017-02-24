@@ -102,14 +102,14 @@ The 10 most frequent `VERB` types:  <em>je, veš, vem, mislim, bilo, ni, recimo,
 
 The 10 most frequent ambiguous lemmas: <em>biti</em> ([AUX]() 1267, [VERB]() 449), <em>peti</em> ([ADJ]() 5, [VERB]() 2)
 
-The 10 most frequent ambiguous types:  <em>je</em> ([AUX]() 461, [VERB]() 196, [PRON]() 2, [INTJ]() 2), <em>mislim</em> ([VERB]() 53, [NOUN]() 1), <em>bilo</em> ([VERB]() 36, [AUX]() 14), <em>ni</em> ([AUX]() 44, [VERB]() 36), <em>so</em> ([AUX]() 135, [VERB]() 29, [X]() 2), <em>bo</em> ([AUX]() 65, [VERB]() 22), <em>bil</em> ([AUX]() 25, [VERB]() 21), <em>pravi</em> ([VERB]() 18, [ADJ]() 1), <em>si</em> ([AUX]() 34, [PRON]() 33, [VERB]() 16), <em>bom</em> ([AUX]() 15, [VERB]() 14)
+The 10 most frequent ambiguous types:  <em>je</em> ([AUX]() 461, [VERB]() 196, [INTJ]() 2, [PRON]() 2), <em>mislim</em> ([VERB]() 53, [NOUN]() 1), <em>bilo</em> ([VERB]() 36, [AUX]() 14), <em>ni</em> ([AUX]() 44, [VERB]() 36), <em>so</em> ([AUX]() 135, [VERB]() 29, [X]() 2), <em>bo</em> ([AUX]() 65, [VERB]() 22), <em>bil</em> ([AUX]() 25, [VERB]() 21), <em>pravi</em> ([VERB]() 18, [ADJ]() 1), <em>si</em> ([AUX]() 34, [PRON]() 33, [VERB]() 16), <em>bom</em> ([AUX]() 15, [VERB]() 14)
 
 
 * <em>je</em>
   * [AUX]() 461: <em>ja lionizem <b>je</b> tudi morda največja socialna mreža v svetu</em>
   * [VERB]() 196: <em>na vrhu <b>je</b> tako kot si rekla en šef lahko sta tudi dva</em>
-  * [PRON]() 2: <em>sploh če <b>je</b> ne prebereš mislim tako da jo prebereš</em>
   * [INTJ]() 2: <em>veš kadar sem prišel v maribor ne <b>je</b> zdaj pa macdonald's tu ne <b>je</b> zdaj pa bom jaz tu non stop ne ja ja prvi prvi dan sem že šel ne pa te naslednji teden teden sem tudi šel pa za mesec dni sem tudi hodil pa non stop sem hodil zdaj pa niti ne povoham ga dokler grem mimo ker mi je totalno out no eh hodi v pizdo [gap]</em>
+  * [PRON]() 2: <em>sploh če <b>je</b> ne prebereš mislim tako da jo prebereš</em>
 * <em>mislim</em>
   * [VERB]() 53: <em>sploh če je ne prebereš <b>mislim</b> tako da jo prebereš</em>
   * [NOUN]() 1: <em>ful je bilo vroče <b>mislim</b> krakow je ful lep šla sva čisto na slepo</em>

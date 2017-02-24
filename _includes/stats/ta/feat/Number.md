@@ -81,7 +81,7 @@ The most frequent other feature values with which `AUX` and `Number` co-occurred
 
 437 [ta-pos/VERB]() tokens (37% of all `VERB` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="Polarity.html">Polarity</a>=Pos</tt> (435; 100%), <tt><a href="Voice.html">Voice</a>=Act</tt> (434; 99%), <tt><a href="Person.html">Person</a>=3</tt> (414; 95%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (300; 69%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (300; 69%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (299; 68%), <tt><a href="Polite.html">Polite</a>=EMPTY</tt> (294; 67%), <tt><a href="Gender.html">Gender</a>=Neut</tt> (270; 62%), <tt><a href="Tense.html">Tense</a>=Past</tt> (234; 54%).
+The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="Polarity.html">Polarity</a>=Pos</tt> (435; 100%), <tt><a href="Voice.html">Voice</a>=Act</tt> (434; 99%), <tt><a href="Person.html">Person</a>=3</tt> (414; 95%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (300; 69%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (300; 69%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (299; 68%), <tt><a href="Polite.html">Polite</a>=EMPTY</tt> (294; 67%), <tt><a href="Gender.html">Gender</a>=Neut</tt> (270; 62%), <tt><a href="Tense.html">Tense</a>=Past</tt> (234; 54%).
 
 `VERB` tokens may have the following values of `Number`:
 
@@ -152,8 +152,8 @@ The 10 most frequent relations where parent and child node agree in `Number`:
 <tt>PROPN --[<a href="../dep/nmod.html">nmod</a>]--> PROPN</tt> (177; 98%),
 <tt>PROPN --[<a href="../dep/nmod.html">nmod</a>]--> NOUN</tt> (139; 95%),
 <tt>NOUN --[<a href="../dep/conj.html">conj</a>]--> NOUN</tt> (82; 87%),
-<tt>VERB --[<a href="../dep/nsubj.html">nsubj</a>]--> PROPN</tt> (82; 52%),
 <tt>PROPN --[<a href="../dep/conj.html">conj</a>]--> PROPN</tt> (82; 100%),
+<tt>VERB --[<a href="../dep/nsubj.html">nsubj</a>]--> PROPN</tt> (82; 52%),
 <tt>NOUN --[<a href="../dep/obl.html">obl</a>]--> NOUN</tt> (49; 82%),
 <tt>NOUN --[<a href="../dep/nmod.html">nmod</a>]--> PRON</tt> (35; 74%),
 <tt>NOUN --[<a href="../dep/obj.html">obj</a>]--> NOUN</tt> (20; 61%).

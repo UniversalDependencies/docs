@@ -34,6 +34,39 @@ The following 3 pairs of parts of speech are connected with `dep`: [ug-pos/VERB]
 
 
 ~~~ conllu
+# visual-style 11	bgColor:blue
+# visual-style 11	fgColor:white
+# visual-style 15	bgColor:blue
+# visual-style 15	fgColor:white
+# visual-style 15 11 dep	color:blue
+1	بۇنداق	_	PRON	P	_	2	det	_	Translit=bundaq
+2	چاغلاردا	_	NOUN	N	_	21	nmod:tmod	_	Translit=chaghlarda
+3	سەن	_	PRON	P	_	21	nsubj	_	Translit=sen
+4	مەھەللە	_	NOUN	N	_	5	nmod:poss	_	Translit=mehelle
+5	كوچىسىنىڭ	_	NOUN	N	_	6	nmod:poss	_	Translit=kochisining
+6	ئارقىسىدىكى	_	NOUN	N	_	16	amod	_	Translit=arqisidiki
+7	ئەمدىلەتىن	_	NOUN	N	_	11	advmod	_	Translit=emdiletin
+8	بالا	_	NOUN	N	_	9	nmod:poss	_	Translit=bala
+9	بويى	_	ADP	R	_	10	nsubj	_	Translit=boyi
+10	بولۇپ	_	VERB	V	_	11	advmod	_	Translit=bolup
+11	ئۆسكەن	_	VERB	V	_	15	dep	_	Translit=ösken
+12	قويۇق	_	ADJ	A	_	15	amod	_	SpaceAfter=No|Translit=qoyuq
+13	،	_	PUNCT	Y	_	12	punct	_	Translit=,
+14	دىمىق	_	ADJ	A	_	12	conj	_	Translit=dimiq
+15	قوناقلىق	_	NOUN	N	_	16	nmod	_	Translit=qonaqliq
+16	بويىدا	_	NOUN	N	_	21	obl	_	Translit=boyida
+17	ئۇزاقتىن	_	ADJ	A	_	19	compound:redup	_	Translit=uzaqtin
+18	-	_	PUNCT	Y	_	17	punct	_	Translit=-
+19	ئۇزاق	_	ADJ	A	_	21	advmod	_	Translit=uzaq
+20	مۇڭلىنىپ	_	VERB	V	_	21	advmod	_	Translit=munglinip
+21	ئولتۇرۇپ	_	VERB	V	_	0	root	_	Translit=olturup
+22	كېتەتتىڭ	_	AUX	V	_	21	aux	_	SpaceAfter=No|Translit=këtetting
+23	.	_	PUNCT	Y	_	22	punct	_	Translit=.
+
+~~~
+
+
+~~~ conllu
 # visual-style 12	bgColor:blue
 # visual-style 12	fgColor:white
 # visual-style 35	bgColor:blue
@@ -75,39 +108,6 @@ The following 3 pairs of parts of speech are connected with `dep`: [ug-pos/VERB]
 34	ئەسلا	_	ADV	D	_	35	advmod	_	Translit=esla
 35	كۆكلەتمەيسەن	_	VERB	V	_	0	root	_	SpaceAfter=No|Translit=kökletmeysen
 36	.	_	PUNCT	Y	_	35	punct	_	Translit=.
-
-~~~
-
-
-~~~ conllu
-# visual-style 11	bgColor:blue
-# visual-style 11	fgColor:white
-# visual-style 15	bgColor:blue
-# visual-style 15	fgColor:white
-# visual-style 15 11 dep	color:blue
-1	بۇنداق	_	PRON	P	_	2	det	_	Translit=bundaq
-2	چاغلاردا	_	NOUN	N	_	21	nmod:tmod	_	Translit=chaghlarda
-3	سەن	_	PRON	P	_	21	nsubj	_	Translit=sen
-4	مەھەللە	_	NOUN	N	_	5	nmod:poss	_	Translit=mehelle
-5	كوچىسىنىڭ	_	NOUN	N	_	6	nmod:poss	_	Translit=kochisining
-6	ئارقىسىدىكى	_	NOUN	N	_	16	amod	_	Translit=arqisidiki
-7	ئەمدىلەتىن	_	NOUN	N	_	11	advmod	_	Translit=emdiletin
-8	بالا	_	NOUN	N	_	9	nmod:poss	_	Translit=bala
-9	بويى	_	ADP	R	_	10	nsubj	_	Translit=boyi
-10	بولۇپ	_	VERB	V	_	11	advmod	_	Translit=bolup
-11	ئۆسكەن	_	VERB	V	_	15	dep	_	Translit=ösken
-12	قويۇق	_	ADJ	A	_	15	amod	_	SpaceAfter=No|Translit=qoyuq
-13	،	_	PUNCT	Y	_	12	punct	_	Translit=,
-14	دىمىق	_	ADJ	A	_	12	conj	_	Translit=dimiq
-15	قوناقلىق	_	NOUN	N	_	16	nmod	_	Translit=qonaqliq
-16	بويىدا	_	NOUN	N	_	21	obl	_	Translit=boyida
-17	ئۇزاقتىن	_	ADJ	A	_	19	compound:redup	_	Translit=uzaqtin
-18	-	_	PUNCT	Y	_	17	punct	_	Translit=-
-19	ئۇزاق	_	ADJ	A	_	21	advmod	_	Translit=uzaq
-20	مۇڭلىنىپ	_	VERB	V	_	21	advmod	_	Translit=munglinip
-21	ئولتۇرۇپ	_	VERB	V	_	0	root	_	Translit=olturup
-22	كېتەتتىڭ	_	AUX	V	_	21	aux	_	SpaceAfter=No|Translit=këtetting
-23	.	_	PUNCT	Y	_	22	punct	_	Translit=.
 
 ~~~
 

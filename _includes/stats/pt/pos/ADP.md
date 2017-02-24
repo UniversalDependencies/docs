@@ -11,9 +11,9 @@ The 10 most frequent `ADP` lemmas: <em>de, em, a, por, para, com, como, entre, s
 
 The 10 most frequent `ADP` types:  <em>de, em, a, por, para, com, como, entre, sobre, sem</em>
 
-The 10 most frequent ambiguous lemmas: <em>de</em> ([ADP]() 16845, [NOUN]() 6, [ADJ]() 2, [PROPN]() 2), <em>em</em> ([ADP]() 6113, [PROPN]() 8, [NOUN]() 3, [ADJ]() 1), <em>a</em> ([ADP]() 3942, [PRON]() 30, [DET]() 28, [PROPN]() 14, [NOUN]() 5, [ADV]() 3), <em>por</em> ([ADP]() 2094, [NOUN]() 6, [PROPN]() 3, [ADV]() 2), <em>para</em> ([ADP]() 1882, [PROPN]() 2, [NOUN]() 1, [ADV]() 1), <em>com</em> ([ADP]() 1509, [NOUN]() 1, [PROPN]() 1), <em>como</em> ([ADP]() 405, [ADV]() 215, [NOUN]() 29, [SCONJ]() 23), <em>sobre</em> ([ADP]() 333, [PROPN]() 4), <em>sem</em> ([ADP]() 205, [PROPN]() 3, [ADV]() 2), <em>até</em> ([ADP]() 190, [ADV]() 58, [NOUN]() 1)
+The 10 most frequent ambiguous lemmas: <em>de</em> ([ADP]() 16845, [NOUN]() 6, [ADJ]() 2, [PROPN]() 2), <em>em</em> ([ADP]() 6113, [PROPN]() 8, [NOUN]() 3, [ADJ]() 1), <em>a</em> ([ADP]() 3942, [PRON]() 30, [DET]() 28, [PROPN]() 14, [NOUN]() 5, [ADV]() 3), <em>por</em> ([ADP]() 2094, [NOUN]() 6, [PROPN]() 3, [ADV]() 2), <em>para</em> ([ADP]() 1882, [PROPN]() 2, [ADV]() 1, [NOUN]() 1), <em>com</em> ([ADP]() 1509, [PROPN]() 1, [NOUN]() 1), <em>como</em> ([ADP]() 405, [ADV]() 215, [NOUN]() 29, [SCONJ]() 23), <em>sobre</em> ([ADP]() 333, [PROPN]() 4), <em>sem</em> ([ADP]() 205, [PROPN]() 3, [ADV]() 2), <em>até</em> ([ADP]() 190, [ADV]() 58, [NOUN]() 1)
 
-The 10 most frequent ambiguous types:  <em>de</em> ([ADP]() 16718, [NOUN]() 5, [ADJ]() 2, [PROPN]() 1), <em>em</em> ([ADP]() 5584, [PROPN]() 8, [NOUN]() 3, [ADJ]() 1), <em>a</em> ([DET]() 9174, [ADP]() 3836, [PRON]() 88, [PROPN]() 14, [NOUN]() 3, [ADV]() 2), <em>por</em> ([ADP]() 1998, [PROPN]() 3, [NOUN]() 3, [ADV]() 1), <em>para</em> ([ADP]() 1756, [PROPN]() 2, [NOUN]() 1, [ADV]() 1), <em>com</em> ([ADP]() 1426, [NOUN]() 1, [PROPN]() 1), <em>como</em> ([ADP]() 386, [ADV]() 189, [NOUN]() 29, [SCONJ]() 9), <em>entre</em> ([ADP]() 318, [VERB]() 1), <em>sobre</em> ([ADP]() 327, [PROPN]() 4), <em>sem</em> ([ADP]() 185, [PROPN]() 3, [ADV]() 2)
+The 10 most frequent ambiguous types:  <em>de</em> ([ADP]() 16718, [NOUN]() 5, [ADJ]() 2, [PROPN]() 1), <em>em</em> ([ADP]() 5584, [PROPN]() 8, [NOUN]() 3, [ADJ]() 1), <em>a</em> ([DET]() 9174, [ADP]() 3836, [PRON]() 88, [PROPN]() 14, [NOUN]() 3, [ADV]() 2), <em>por</em> ([ADP]() 1998, [NOUN]() 3, [PROPN]() 3, [ADV]() 1), <em>para</em> ([ADP]() 1756, [PROPN]() 2, [NOUN]() 1, [ADV]() 1), <em>com</em> ([ADP]() 1426, [PROPN]() 1, [NOUN]() 1), <em>como</em> ([ADP]() 386, [ADV]() 189, [NOUN]() 29, [SCONJ]() 9), <em>entre</em> ([ADP]() 318, [VERB]() 1), <em>sobre</em> ([ADP]() 327, [PROPN]() 4), <em>sem</em> ([ADP]() 185, [PROPN]() 3, [ADV]() 2)
 
 
 * <em>de</em>
@@ -35,8 +35,8 @@ The 10 most frequent ambiguous types:  <em>de</em> ([ADP]() 16718, [NOUN]() 5, [
   * [ADV]() 2: <em>não só as técnicas utilizadas não demonstram nada , como as conclusões se baseiam em falácias , como todo o processo nada tem <b>a</b> ver com Ciência , a o contrário de o que as máquinas de propaganda pretendem fazer crer .</em>
 * <em>por</em>
   * [ADP]() 1998: <em>O homem fuma entre 11 e 20 cigarros <b>por</b> dia e a mulher , entre 5 e 10 .</em>
-  * [PROPN]() 3: <em>Meyer publicou esta informação em um romance , que depois adaptou a o cinema , com o título justamente de « A Solução a sete e meio <b>por</b> cento » ( talvez haja melhor tradução para « The 7,5 per cent Solution » : « Uma Solução a sete e meio <b>por</b> cento » , « Sete e meio <b>por</b> cento de Solução » ? )</em>
   * [NOUN]() 3: <em>Christian Fittipaldi , <b>por</b> sua vez , negocia com a Tyrrell .</em>
+  * [PROPN]() 3: <em>Meyer publicou esta informação em um romance , que depois adaptou a o cinema , com o título justamente de « A Solução a sete e meio <b>por</b> cento » ( talvez haja melhor tradução para « The 7,5 per cent Solution » : « Uma Solução a sete e meio <b>por</b> cento » , « Sete e meio <b>por</b> cento de Solução » ? )</em>
   * [ADV]() 1: <em>se Guímaro era corrupto , quem eram os corruptores e <b>por</b> que motivo não foram igualmente presentes a o juiz de o Tribunal de Instrução Criminal ?</em>
 * <em>para</em>
   * [ADP]() 1756: <em>Diariamente , está promovendo desfiles de moda <b>para</b> seus consumidores .</em>
@@ -45,8 +45,8 @@ The 10 most frequent ambiguous types:  <em>de</em> ([ADP]() 16718, [NOUN]() 5, [
   * [ADV]() 1: <em>Os lobos não têm fronteiras , <b>para</b> além de as que eles próprios delimitam .</em>
 * <em>com</em>
   * [ADP]() 1426: <em>Ela tem também textos <b>com</b> explicações sobre cada item pesquisado .</em>
-  * [NOUN]() 1: <em>Optávamos por filmar em Portugal porque era demasiado difícil em o Chile , onde as autoridades não vêem <b>com</b> bons olhos , ainda hoje , uma recriação cinematográfica de o golpe de estado contra Salvador Allende .</em>
   * [PROPN]() 1: <em>Hoje e amanhã , decorrem em a Sala Polivalente de o Acarte as últimas de « Josa <b>com</b> o Violino Mágico » de os London Puppet Players .</em>
+  * [NOUN]() 1: <em>Optávamos por filmar em Portugal porque era demasiado difícil em o Chile , onde as autoridades não vêem <b>com</b> bons olhos , ainda hoje , uma recriação cinematográfica de o golpe de estado contra Salvador Allende .</em>
 * <em>como</em>
   * [ADP]() 386: <em>O bacalhau <b>como</b> pano de fundo</em>
   * [ADV]() 189: <em>Não se sabe ainda <b>como</b> Oosterbroek morreu .</em>
@@ -117,24 +117,24 @@ The 10 most frequent `ADP` types:  <em>de, en, a, em, para, por, com, como, entr
 
 The 10 most frequent ambiguous lemmas: <em>_</em> ([NOUN]() 51670, [PUNCT]() 37916, [PROPN]() 29660, [ADP]() 27823, [VERB]() 26752, [DET]() 23518, [ADJ]() 13618, [CCONJ]() 9896, [ADV]() 8825, [NUM]() 7639, [PRON]() 6681, [AUX]() 4729, [PART]() 687, [X]() 472)
 
-The 10 most frequent ambiguous types:  <em>de</em> ([ADP]() 21603, [CCONJ]() 2, [VERB]() 1, [DET]() 1, [PROPN]() 1, [PRON]() 1), <em>a</em> ([DET]() 11752, [ADP]() 3456, [PRON]() 59, [VERB]() 5, [X]() 2, [PROPN]() 1, [CCONJ]() 1), <em>em</em> ([ADP]() 3073, [ADV]() 1), <em>para</em> ([ADP]() 2689, [AUX]() 2, [PART]() 1, [NOUN]() 1), <em>por</em> ([ADP]() 2572, [VERB]() 1, [X]() 1), <em>como</em> ([ADP]() 649, [CCONJ]() 84, [ADV]() 61), <em>entre</em> ([ADP]() 399, [VERB]() 2, [NOUN]() 1), <em>até</em> ([ADP]() 279, [ADV]() 105, [CCONJ]() 1), <em>nesta</em> ([ADP]() 263, [X]() 2), <em>segundo</em> ([ADP]() 101, [ADJ]() 96, [NOUN]() 12, [CCONJ]() 6, [ADV]() 1)
+The 10 most frequent ambiguous types:  <em>de</em> ([ADP]() 21603, [CCONJ]() 2, [PROPN]() 1, [VERB]() 1, [PRON]() 1, [DET]() 1), <em>a</em> ([DET]() 11752, [ADP]() 3456, [PRON]() 59, [VERB]() 5, [X]() 2, [CCONJ]() 1, [PROPN]() 1), <em>em</em> ([ADP]() 3073, [ADV]() 1), <em>para</em> ([ADP]() 2689, [AUX]() 2, [PART]() 1, [NOUN]() 1), <em>por</em> ([ADP]() 2572, [VERB]() 1, [X]() 1), <em>como</em> ([ADP]() 649, [CCONJ]() 84, [ADV]() 61), <em>entre</em> ([ADP]() 399, [VERB]() 2, [NOUN]() 1), <em>até</em> ([ADP]() 279, [ADV]() 105, [CCONJ]() 1), <em>nesta</em> ([ADP]() 263, [X]() 2), <em>segundo</em> ([ADP]() 101, [ADJ]() 96, [NOUN]() 12, [CCONJ]() 6, [ADV]() 1)
 
 
 * <em>de</em>
   * [ADP]() 21603: <em>Ver também a lista <b>de</b> entidades que tenham emitido selos postais .</em>
   * [CCONJ]() 2: <em>O Biscoito de a Teixeira é feito a a base de farinha , açúcar , limão , sal e fermento , e o respectivo segredo de família , depois <b>de</b> misturados , os ingredientes são levados a cozer em forno de lenha .</em>
-  * [VERB]() 1: <em>A nomeação de o catarinense Ary Joel Lanzarin para presidir o BNB pegou de surpresa os integrantes de a bancada cearense en o Congresso Nacional , que não escondem a preocupação com o fato de Ary Abreu desconhecer a realidade nordestina e <b>de</b> até o momento , ter dirigido o setor de micros e pequenas empresas de o Banco de o Brasil .</em>
-  * [DET]() 1: <em>O modo protegido ( 16 bits e 32 bits ) : Em computação , <b>de</b> modo protegido , também chamado de modo de endereço virtual protegido , é um modo operacional de x86 compatível com unidades de processamento central ( CPU ) .</em>
   * [PROPN]() 1: <em>" A o contrário do que foi publicado nesta quarta - feira , 9 de janeiro , por o jornal O Estado de São Paulo , a Secretaria <b>de</b> Comunicação de o Ministério Público Federal informa que o procurador - geral de a República ainda não iniciou a análise de o depoimento de Marcos Valério , pois aguardava o término de o julgamento de a AP [ Ação Penal ] 470 [ o processo de o mensalão ] " , diz trecho de a nota .</em>
+  * [VERB]() 1: <em>A nomeação de o catarinense Ary Joel Lanzarin para presidir o BNB pegou de surpresa os integrantes de a bancada cearense en o Congresso Nacional , que não escondem a preocupação com o fato de Ary Abreu desconhecer a realidade nordestina e <b>de</b> até o momento , ter dirigido o setor de micros e pequenas empresas de o Banco de o Brasil .</em>
   * [PRON]() 1: <em>Sobre o aumento en o número de cadeiras en a Câmara Municipal de Colombo , o petista afirmou que a mudança segue determinação de o Congresso Nacional , que , por meio de a implantação de a emenda 58 , redefiniu o número de vereadores <b>de</b> cada município deve ter , tendo por base a proporcionalidade com a faixa populacional .</em>
+  * [DET]() 1: <em>O modo protegido ( 16 bits e 32 bits ) : Em computação , <b>de</b> modo protegido , também chamado de modo de endereço virtual protegido , é um modo operacional de x86 compatível com unidades de processamento central ( CPU ) .</em>
 * <em>a</em>
   * [DET]() 11752: <em>Ver também <b>a</b> lista de entidades que tenham emitido selos postais .</em>
   * [ADP]() 3456: <em>" Não podemos fazer outra coisa que sair <b>a</b> as ruas .</em>
   * [PRON]() 59: <em>A região maisafetada por a falta de água é <b>a</b> de o bairro Tangarás .</em>
   * [VERB]() 5: <em>A confirmação saiu agora <b>a</b> pouco .</em>
   * [X]() 2: <em>Em 1928 , Wilhelm Ackermann definiu uma função 3 - argumentos \ phi ( <b>a</b> , b , n ) que evoluiu gradualmente para uma função de dois argumentos , conhecida como a função de Ackermann .</em>
-  * [PROPN]() 1: <em>A segunda parte nos proporcionou maravilhas como Polk Salad Annie , You've Lost That Loving Feeling , You Don't Have To Say You Love Me , I Got <b>a</b> Woman , Bridge Over Troubled Water e Suspicious Minds , sendo esta última a canção que mais agitou e mais arrancou aplausos por parte de o público presente .</em>
   * [CCONJ]() 1: <em>Pode - se citar ainda o programa Saúde Itinerante Cuidando de os Seus Olhos , durante o qual foram realizadas desde consultas oftalmológicas <b>a</b> cirurgias de catarata , pterígio , dacriociste -- infecção de a pálpebra inferior -- e descolamento de retina .</em>
+  * [PROPN]() 1: <em>A segunda parte nos proporcionou maravilhas como Polk Salad Annie , You've Lost That Loving Feeling , You Don't Have To Say You Love Me , I Got <b>a</b> Woman , Bridge Over Troubled Water e Suspicious Minds , sendo esta última a canção que mais agitou e mais arrancou aplausos por parte de o público presente .</em>
 * <em>em</em>
   * [ADP]() 3073: <em>O jogo começou movimentado e <b>em</b> alta velocidade .</em>
   * [ADV]() 1: <em>Em países como Brasil e Rússia , en o entanto , os índices são <b>em</b> mais elevados : 80 % en o Brasil e 78 % en a Rússia acreditam que a corrupção limita o acesso a a educação .</em>

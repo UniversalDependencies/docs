@@ -33,27 +33,6 @@ The following 16 pairs of parts of speech are connected with `advcl`: [el-pos/VE
 
 
 ~~~ conllu
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 10 advcl	color:blue
-1	Θα	θα	PART	PART	_	2	aux	_	_
-2	αναφερθώ	αναφέρω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|VerbForm=Fin|Voice=Pass	0	root	_	_
-3	στη	στου	ADP	ADP	Case=Acc|Gender=Fem|Number=Sing	4	case	_	_
-4	συνέχεια	συνέχεια	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	2	obl	_	_
-5	στους	στου	ADP	ADP	Case=Acc|Gender=Masc|Number=Plur	6	case	_	_
-6	τομείς	τομέας	NOUN	NOUN	Case=Acc|Gender=Masc|Number=Plur	2	obl	_	_
-7	όπου	όπου	ADV	ADV	_	10	advmod	_	_
-8	δεν	δεν	PART	PART	_	10	advmod	_	_
-9	το	εγώ	PRON	PRON	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	10	obj	_	_
-10	έπραξε	πράττω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	6	advcl	_	SpaceAfter=No
-11	.	.	PUNCT	PUNCT	_	2	punct	_	_
-
-~~~
-
-
-~~~ conllu
 # visual-style 9	bgColor:blue
 # visual-style 9	fgColor:white
 # visual-style 14	bgColor:blue
@@ -76,6 +55,27 @@ The following 16 pairs of parts of speech are connected with `advcl`: [el-pos/VE
 15	και	και	CCONJ	CCONJ	_	16	cc	_	_
 16	σύνθετα	σύνθετος	ADJ	ADJ	Case=Nom|Gender=Neut|Number=Plur	14	conj	_	SpaceAfter=No
 17	.	.	PUNCT	PUNCT	_	14	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 10 advcl	color:blue
+1	Θα	θα	PART	PART	_	2	aux	_	_
+2	αναφερθώ	αναφέρω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|VerbForm=Fin|Voice=Pass	0	root	_	_
+3	στη	στου	ADP	ADP	Case=Acc|Gender=Fem|Number=Sing	4	case	_	_
+4	συνέχεια	συνέχεια	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	2	obl	_	_
+5	στους	στου	ADP	ADP	Case=Acc|Gender=Masc|Number=Plur	6	case	_	_
+6	τομείς	τομέας	NOUN	NOUN	Case=Acc|Gender=Masc|Number=Plur	2	obl	_	_
+7	όπου	όπου	ADV	ADV	_	10	advmod	_	_
+8	δεν	δεν	PART	PART	_	10	advmod	_	_
+9	το	εγώ	PRON	PRON	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	10	obj	_	_
+10	έπραξε	πράττω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	6	advcl	_	SpaceAfter=No
+11	.	.	PUNCT	PUNCT	_	2	punct	_	_
 
 ~~~
 

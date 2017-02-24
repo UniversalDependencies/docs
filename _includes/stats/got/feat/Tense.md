@@ -16,7 +16,7 @@ The feature is used with 1 part-of-speech tags: [got-pos/VERB]() (10295; 23% ins
 
 10295 [got-pos/VERB]() tokens (100% of all `VERB` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="Voice.html">Voice</a>=Act</tt> (9454; 92%), <tt><a href="Strength.html">Strength</a>=EMPTY</tt> (8203; 80%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (8203; 80%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (8202; 80%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (7521; 73%), <tt><a href="Number.html">Number</a>=Sing</tt> (6359; 62%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (5995; 58%).
+The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="Voice.html">Voice</a>=Act</tt> (9454; 92%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (8203; 80%), <tt><a href="Strength.html">Strength</a>=EMPTY</tt> (8203; 80%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (8202; 80%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (7521; 73%), <tt><a href="Number.html">Number</a>=Sing</tt> (6359; 62%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (5995; 58%).
 
 `VERB` tokens may have the following values of `Tense`:
 
@@ -49,7 +49,7 @@ The most frequent other feature values with which `VERB` and `Tense` co-occurred
   <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=2|<a href="VerbForm.html">VerbForm</a>=Fin|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>sijuþ, siuþ</em></td><td><em>wesuþ</em></td></tr>
   <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=3|<a href="VerbForm.html">VerbForm</a>=Fin|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>sind</em></td><td><em>wesun</em></td></tr>
   <tr><td><tt><a href="Mood.html">Mood</a>=Opt|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=1|<a href="VerbForm.html">VerbForm</a>=Fin|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>sijau</em></td><td></td></tr>
-  <tr><td><tt><a href="Mood.html">Mood</a>=Opt|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=2|<a href="VerbForm.html">VerbForm</a>=Fin|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>sijais, siais</em></td><td><em>weseis, weiseis</em></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Opt|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=2|<a href="VerbForm.html">VerbForm</a>=Fin|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>sijais, siais</em></td><td><em>weiseis, weseis</em></td></tr>
   <tr><td><tt><a href="Mood.html">Mood</a>=Opt|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3|<a href="VerbForm.html">VerbForm</a>=Fin|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>sijai, siai</em></td><td><em>wesi</em></td></tr>
   <tr><td><tt><a href="Mood.html">Mood</a>=Opt|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=1|<a href="VerbForm.html">VerbForm</a>=Fin|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>sijaima</em></td><td><em>weseima</em></td></tr>
   <tr><td><tt><a href="Mood.html">Mood</a>=Opt|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=2|<a href="VerbForm.html">VerbForm</a>=Fin|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>sijaiþ, sijaid</em></td><td><em>weseiþ</em></td></tr>

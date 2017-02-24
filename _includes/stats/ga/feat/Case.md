@@ -66,7 +66,7 @@ The most frequent other feature values with which `PROPN` and `Case` co-occurred
 
 251 [ga-pos/ADJ]() tokens (36% of all `ADJ` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `ADJ` and `Case` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=EMPTY</tt> (251; 100%), <tt><a href="Degree.html">Degree</a>=EMPTY</tt> (251; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (196; 78%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (139; 55%).
+The most frequent other feature values with which `ADJ` and `Case` co-occurred: <tt><a href="Degree.html">Degree</a>=EMPTY</tt> (251; 100%), <tt><a href="VerbForm.html">VerbForm</a>=EMPTY</tt> (251; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (196; 78%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (139; 55%).
 
 `ADJ` tokens may have the following values of `Case`:
 
@@ -76,7 +76,7 @@ The most frequent other feature values with which `ADJ` and `Case` co-occurred: 
 
 <table>
   <tr><th>Paradigm <i>mór</i></th><th><tt>Gen</tt></th><th><tt>NomAcc</tt></th></tr>
-  <tr><td><tt><a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Sing</tt></td><td><em>mhóir</em></td><td><em>mór, mhór, ró-mhór</em></td></tr>
+  <tr><td><tt><a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Sing</tt></td><td><em>mhóir</em></td><td><em>mór, ró-mhór, mhór</em></td></tr>
   <tr><td><tt><a href="Gender.html">Gender</a>=Fem|<a href="Number.html">Number</a>=Sing</tt></td><td></td><td><em>mhór</em></td></tr>
   <tr><td><tt><a href="NounType.html">NounType</a>=NotSlender|<a href="Number.html">Number</a>=Plur</tt></td><td></td><td><em>móra</em></td></tr>
   <tr><td><tt><a href="NounType.html">NounType</a>=Strong|<a href="Number.html">Number</a>=Plur</tt></td><td><em>móra</em></td><td></td></tr>
@@ -88,12 +88,23 @@ The most frequent other feature values with which `ADJ` and `Case` co-occurred: 
 
 137 [ga-pos/DET]() tokens (11% of all `DET` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `DET` and `Case` co-occurred: <tt><a href="Gender.html">Gender</a>=Fem</tt> (137; 100%), <tt><a href="PronType.html">PronType</a>=Art</tt> (137; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (137; 100%), <tt><a href="Definite.html">Definite</a>=Def</tt> (137; 100%).
+The most frequent other feature values with which `DET` and `Case` co-occurred: <tt><a href="Gender.html">Gender</a>=Fem</tt> (137; 100%), <tt><a href="PronType.html">PronType</a>=Art</tt> (137; 100%), <tt><a href="Definite.html">Definite</a>=Def</tt> (137; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (137; 100%).
 
 `DET` tokens may have the following values of `Case`:
 
 * `Gen` (137; 100% of non-empty `Case`): <em>na</em>
 * `EMPTY` (1139): <em>an, na, a, seo, sin, aon, eile, gach, mo, cibé</em>
+
+### `VERB`
+
+1 [ga-pos/VERB]() tokens (0% of all `VERB` tokens) have a non-empty value of `Case`.
+
+The most frequent other feature values with which `VERB` and `Case` co-occurred: <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (1; 100%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (1; 100%), <tt><a href="Form.html">Form</a>=EMPTY</tt> (1; 100%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (1; 100%).
+
+`VERB` tokens may have the following values of `Case`:
+
+* `NomAcc` (1; 100% of non-empty `Case`): <em>Tá's</em>
+* `EMPTY` (1098): <em>bhí, tá, raibh, bhfuil, atá, beidh, bheidh, thug, mbeidh, bíonn</em>
 
 ### `X`
 
@@ -105,17 +116,6 @@ The most frequent other feature values with which `X` and `Case` co-occurred: <t
 
 * `NomAcc` (1; 100% of non-empty `Case`): <em>open</em>
 * `EMPTY` (150): <em>san, (1), (2), so, (c), (4), (a), (b), Uimh., FÁS</em>
-
-### `VERB`
-
-1 [ga-pos/VERB]() tokens (0% of all `VERB` tokens) have a non-empty value of `Case`.
-
-The most frequent other feature values with which `VERB` and `Case` co-occurred: <tt><a href="Form.html">Form</a>=EMPTY</tt> (1; 100%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (1; 100%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (1; 100%), <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (1; 100%).
-
-`VERB` tokens may have the following values of `Case`:
-
-* `NomAcc` (1; 100% of non-empty `Case`): <em>Tá's</em>
-* `EMPTY` (1098): <em>bhí, tá, raibh, bhfuil, atá, beidh, bheidh, thug, mbeidh, bíonn</em>
 
 ## Relations with Agreement in `Case`
 
@@ -129,5 +129,5 @@ The 10 most frequent relations where parent and child node agree in `Case`:
 <tt>NOUN --[<a href="../dep/nsubj.html">nsubj</a>]--> NOUN</tt> (12; 60%),
 <tt>PROPN --[<a href="../dep/conj.html">conj</a>]--> NOUN</tt> (8; 80%),
 <tt>PROPN --[<a href="../dep/nmod.html">nmod</a>]--> PROPN</tt> (8; 89%),
-<tt>PROPN --[<a href="../dep/conj.html">conj</a>]--> PROPN</tt> (7; 100%).
+<tt>PROPN --[<a href="../dep/appos.html">appos</a>]--> NOUN</tt> (7; 78%).
 

@@ -16,7 +16,7 @@ The feature is used with 2 part-of-speech tags: [got-pos/VERB]() (2092; 5% insta
 
 2092 [got-pos/VERB]() tokens (20% of all `VERB` tokens) have a non-empty value of `Strength`.
 
-The most frequent other feature values with which `VERB` and `Strength` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (2092; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (2092; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (2092; 100%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (1625; 78%), <tt><a href="Case.html">Case</a>=Nom</tt> (1561; 75%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (1499; 72%), <tt><a href="Voice.html">Voice</a>=Act</tt> (1499; 72%), <tt><a href="Number.html">Number</a>=Sing</tt> (1265; 60%).
+The most frequent other feature values with which `VERB` and `Strength` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (2092; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (2092; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (2092; 100%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (1625; 78%), <tt><a href="Case.html">Case</a>=Nom</tt> (1561; 75%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (1499; 72%), <tt><a href="Voice.html">Voice</a>=Act</tt> (1499; 72%), <tt><a href="Number.html">Number</a>=Sing</tt> (1265; 60%).
 
 `VERB` tokens may have the following values of `Strength`:
 
@@ -97,7 +97,7 @@ The 10 most frequent relations where parent and child node agree in `Strength`:
 <tt>ADJ --[<a href="../dep/advmod.html">advmod</a>]--> ADJ</tt> (5; 56%),
 <tt>VERB --[<a href="../dep/appos.html">appos</a>]--> VERB</tt> (2; 100%),
 <tt>ADJ --[<a href="../dep/advcl.html">advcl</a>]--> ADJ</tt> (2; 100%),
-<tt>VERB --[<a href="../dep/amod.html">amod</a>]--> ADJ</tt> (1; 100%),
 <tt>ADJ --[<a href="../dep/obl.html">obl</a>]--> VERB</tt> (1; 100%),
+<tt>VERB --[<a href="../dep/amod.html">amod</a>]--> ADJ</tt> (1; 100%),
 <tt>ADJ --[<a href="../dep/flat.html">flat</a>]--> ADJ</tt> (1; 100%).
 

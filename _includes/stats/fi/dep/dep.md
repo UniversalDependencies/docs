@@ -15,24 +15,6 @@ The following 5 pairs of parts of speech are connected with `dep`: [fi-pos/ADJ](
 
 
 ~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 2 dep	color:blue
-1	*	*	PUNCT	Punct	_	4	punct	_	_
-2	yy	yy	SYM	Symb	_	4	dep	_	_
-3	-	-	PUNCT	Punct	_	2	punct	_	_
-4	kopioi	kopioida	VERB	V	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	0	root	_	_
-5	kursorin	kursori	NOUN	N	Case=Gen|Number=Sing	7	obl	_	_
-6	alla	alla	ADP	Adp	AdpType=Post	5	case	_	_
-7	oleva	olla	VERB	V	Case=Nom|Degree=Pos|Number=Sing|PartForm=Pres|VerbForm=Part|Voice=Act	8	acl	_	_
-8	rivi	rivi	NOUN	N	Case=Nom|Number=Sing	4	obj	_	_
-
-~~~
-
-
-~~~ conllu
 # visual-style 10	bgColor:blue
 # visual-style 10	fgColor:white
 # visual-style 11	bgColor:blue
@@ -53,6 +35,24 @@ The following 5 pairs of parts of speech are connected with `dep`: [fi-pos/ADJ](
 13	samasta	sama	PRON	Pron	Case=Ela|Number=Sing|PronType=Ind	14	det	_	_
 14	teemasta	teema	NOUN	N	Case=Ela|Number=Sing	12	nmod	_	SpaceAfter=No
 15	.	.	PUNCT	Punct	_	5	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 2 dep	color:blue
+1	*	*	PUNCT	Punct	_	4	punct	_	_
+2	yy	yy	SYM	Symb	_	4	dep	_	_
+3	-	-	PUNCT	Punct	_	2	punct	_	_
+4	kopioi	kopioida	VERB	V	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	0	root	_	_
+5	kursorin	kursori	NOUN	N	Case=Gen|Number=Sing	7	obl	_	_
+6	alla	alla	ADP	Adp	AdpType=Post	5	case	_	_
+7	oleva	olla	VERB	V	Case=Nom|Degree=Pos|Number=Sing|PartForm=Pres|VerbForm=Part|Voice=Act	8	acl	_	_
+8	rivi	rivi	NOUN	N	Case=Nom|Number=Sing	4	obj	_	_
 
 ~~~
 
@@ -92,6 +92,21 @@ The following 44 pairs of parts of speech are connected with `dep`: [fi-pos/NOUN
 
 
 ~~~ conllu
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 4 dep	color:blue
+1	Olen	olla	VERB	V,Act,Ind,Pres,Sg1	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2	lähdössä	lähtö	NOUN	N,Sg,Ine	Case=Ine|Number=Sing	1	nmod	_	_
+3	ulkomaille	ulkomaa	NOUN	N,Pl,All	Case=All|Number=Plur	2	nmod	_	_
+4	koulutettavaksi	kouluttaa	VERB	V,Pass,PcpVa,Sg,Tra	Case=Tra|Number=Sing|PartForm=Pres|VerbForm=Part|Voice=Pass	2	dep	_	Missed-Rel=advl
+5	.	.	PUNCT	Pun	_	4	punct	_	_
+
+~~~
+
+
+~~~ conllu
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 7	bgColor:blue
@@ -105,21 +120,6 @@ The following 44 pairs of parts of speech are connected with `dep`: [fi-pos/NOUN
 6	eiku	eikun	PART	Pcle	Style=Coll	7	dep	_	Missed-Rel=phrm
 7	hetkinen	hetkinen	NOUN	N,Sg,Nom	Case=Nom|Number=Sing	4	conj	_	_
 8	.	.	PUNCT	Pun	_	7	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 4 dep	color:blue
-1	Olen	olla	VERB	V,Act,Ind,Pres,Sg1	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-2	lähdössä	lähtö	NOUN	N,Sg,Ine	Case=Ine|Number=Sing	1	nmod	_	_
-3	ulkomaille	ulkomaa	NOUN	N,Pl,All	Case=All|Number=Plur	2	nmod	_	_
-4	koulutettavaksi	kouluttaa	VERB	V,Pass,PcpVa,Sg,Tra	Case=Tra|Number=Sing|PartForm=Pres|VerbForm=Part|Voice=Pass	2	dep	_	Missed-Rel=advl
-5	.	.	PUNCT	Pun	_	4	punct	_	_
 
 ~~~
 

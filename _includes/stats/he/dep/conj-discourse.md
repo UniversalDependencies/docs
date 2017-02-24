@@ -41,31 +41,6 @@ The following 18 pairs of parts of speech are connected with `conj:discourse`: [
 
 
 ~~~ conllu
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 9 conj:discourse	color:blue
-1	ה	ה	DET	DET	PronType=Art	2	det:def	_	_
-2	ארוטיקה	ארוטיקה	NOUN	NOUN	Gender=Fem|Number=Sing	3	nsubj	_	_
-3	עוסקת	עסק	VERB	VERB	Gender=Fem|HebBinyan=PAAL|Number=Sing|Person=1,2,3|VerbForm=Part|Voice=Act	0	root	_	_
-4	ב	ב	ADP	ADP	_	6	case	_	_
-5	ה_	ה	DET	DET	PronType=Art	6	det:def	_	_
-6	פרט	פרט	NOUN	NOUN	Gender=Masc|Number=Sing	3	iobj	_	_
-7	,	_	PUNCT	PUNCT	_	3	punct	_	_
-8	היא	הוא	PRON	PRON	Gender=Fem|Number=Sing|Person=3|PronType=Prs	9	nsubj	_	_
-9	הכרזת	הכרזה	NOUN	NOUN	Definite=Cons|Gender=Fem|Number=Sing	3	conj:discourse	_	_
-10	ה	ה	DET	DET	PronType=Art	11	det:def	_	_
-11	עצמאות	עצמאות	NOUN	NOUN	Gender=Fem|Number=Sing	9	compound:smixut	_	_
-12	של	של	PART	PART	Case=Gen	14	case:gen	_	_
-13	ה	ה	DET	DET	PronType=Art	14	det:def	_	_
-14	אדם	אדם	NOUN	NOUN	Gender=Masc|Number=Sing	9	nmod:poss	_	_
-15	.	_	PUNCT	PUNCT	_	3	punct	_	_
-
-~~~
-
-
-~~~ conllu
 # visual-style 21	bgColor:blue
 # visual-style 21	fgColor:white
 # visual-style 3	bgColor:blue
@@ -94,6 +69,31 @@ The following 18 pairs of parts of speech are connected with `conj:discourse`: [
 21	שונה	שונה	ADJ	ADJ	Gender=Masc|Number=Sing	3	conj:discourse	_	_
 22	לחלוטין	לחלוטין	ADV	ADV	_	21	advmod	_	_
 23	.	_	PUNCT	PUNCT	_	3	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 9 conj:discourse	color:blue
+1	ה	ה	DET	DET	PronType=Art	2	det:def	_	_
+2	ארוטיקה	ארוטיקה	NOUN	NOUN	Gender=Fem|Number=Sing	3	nsubj	_	_
+3	עוסקת	עסק	VERB	VERB	Gender=Fem|HebBinyan=PAAL|Number=Sing|Person=1,2,3|VerbForm=Part|Voice=Act	0	root	_	_
+4	ב	ב	ADP	ADP	_	6	case	_	_
+5	ה_	ה	DET	DET	PronType=Art	6	det:def	_	_
+6	פרט	פרט	NOUN	NOUN	Gender=Masc|Number=Sing	3	iobj	_	_
+7	,	_	PUNCT	PUNCT	_	3	punct	_	_
+8	היא	הוא	PRON	PRON	Gender=Fem|Number=Sing|Person=3|PronType=Prs	9	nsubj	_	_
+9	הכרזת	הכרזה	NOUN	NOUN	Definite=Cons|Gender=Fem|Number=Sing	3	conj:discourse	_	_
+10	ה	ה	DET	DET	PronType=Art	11	det:def	_	_
+11	עצמאות	עצמאות	NOUN	NOUN	Gender=Fem|Number=Sing	9	compound:smixut	_	_
+12	של	של	PART	PART	Case=Gen	14	case:gen	_	_
+13	ה	ה	DET	DET	PronType=Art	14	det:def	_	_
+14	אדם	אדם	NOUN	NOUN	Gender=Masc|Number=Sing	9	nmod:poss	_	_
+15	.	_	PUNCT	PUNCT	_	3	punct	_	_
 
 ~~~
 

@@ -18,7 +18,7 @@ The feature is used with 3 part-of-speech tags: [kk-pos/VERB]() (34; 6% instance
 
 34 [kk-pos/VERB]() tokens (44% of all `VERB` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="Case.html">Case</a>=EMPTY</tt> (34; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (34; 100%), <tt><a href="Aspect.html">Aspect</a>=EMPTY</tt> (34; 100%), <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (32; 94%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (29; 85%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (28; 82%), <tt><a href="Polarity.html">Polarity</a>=EMPTY</tt> (28; 82%), <tt><a href="Tense.html">Tense</a>=Past</tt> (22; 65%).
+The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="Number.html">Number</a>=Sing</tt> (34; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (34; 100%), <tt><a href="Aspect.html">Aspect</a>=EMPTY</tt> (34; 100%), <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (32; 94%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (29; 85%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (28; 82%), <tt><a href="Polarity.html">Polarity</a>=EMPTY</tt> (28; 82%), <tt><a href="Tense.html">Tense</a>=Past</tt> (22; 65%).
 
 `VERB` tokens may have the following values of `Person`:
 
@@ -51,7 +51,7 @@ The most frequent other feature values with which `AUX` and `Person` co-occurred
 
 4 [kk-pos/PRON]() tokens (22% of all `PRON` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="Number[psor].html">Number[psor]</a>=EMPTY</tt> (4; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (4; 100%), <tt><a href="PronType.html">PronType</a>=Prs</tt> (4; 100%), <tt><a href="Person[psor].html">Person[psor]</a>=EMPTY</tt> (4; 100%).
+The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="Number[psor].html">Number[psor]</a>=EMPTY</tt> (4; 100%), <tt><a href="PronType.html">PronType</a>=Prs</tt> (4; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (4; 100%), <tt><a href="Person[psor].html">Person[psor]</a>=EMPTY</tt> (4; 100%).
 
 `PRON` tokens may have the following values of `Person`:
 

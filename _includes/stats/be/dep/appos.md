@@ -70,28 +70,51 @@ The following 8 pairs of parts of speech are connected with `appos`: [be-pos/NOU
 
 
 ~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 6 appos	color:blue
-1	Найбуйнейшая	найбуйнейшы	ADJ	JJS	Case=Nom|Degree=Sup|Gender=Fem|Number=Sing	3	amod	_	_
-2	юрыдычная	юрыдычны	ADJ	JJL	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	3	amod	_	_
-3	карпарацыя	карпарацыя	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	12	nsubj	_	_
-4	Паўднёвай	паўднёвы	ADJ	JJL	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	5	amod	_	_
-5	Карэі	карэя	PROPN	NNP	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	3	nmod	_	_
-6	Daeryook	daeryook	X	X	_	3	appos	_	_
-7	&amp;	&amp;	SYM	SYM	_	6	flat	_	_
-8	Aju	aju	X	X	_	6	flat	_	_
-9	Internatonal	internatonal	X	X	_	6	flat	_	_
-10	Law	law	X	X	_	6	flat	_	_
-11	Firm	firm	X	X	_	6	flat	_	_
-12	зацікавілася	зацікавіцца	VERB	VBC	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	_
-13	інвестыцыйнымі	інвестыцыйны	ADJ	JJL	Case=Ins|Degree=Pos|Number=Plur	14	amod	_	_
-14	магчымасцямі	магчымасць	NOUN	NN	Animacy=Inan|Case=Ins|Gender=Fem|Number=Plur	12	obj	_	_
-15	эканомікі	эканоміка	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	14	nmod	_	_
-16	Беларусі	беларусь	PROPN	NNP	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	15	nmod	_	SpaceAfter=No
-17	.	.	PUNCT	PUNCT	_	12	punct	_	_
+# visual-style 35	bgColor:blue
+# visual-style 35	fgColor:white
+# visual-style 32	bgColor:blue
+# visual-style 32	fgColor:white
+# visual-style 32 35 appos	color:blue
+1	У	у	ADP	IN	_	2	case	_	_
+2	аўторак	аўторак	NOUN	NN	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	16	obl	_	SpaceAfter=No
+3	,	,	PUNCT	PUNCT	_	2	punct	_	_
+4	20	20	ADJ	ORD	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	5	amod	_	_
+5	сакавіка	сакавік	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	16	obj	_	SpaceAfter=No
+6	,	,	PUNCT	PUNCT	_	5	punct	_	_
+7	брытанская	брытанскi	ADJ	JJL	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	8	amod	_	_
+8	газета	газета	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	16	nsubj	_	_
+9	Daily	daily	X	X	_	8	flat	_	_
+10	Telegraph	telegraph	X	X	_	9	flat	_	_
+11	са	са	ADP	IN	_	12	case	_	_
+12	спасылкай	спасылка	NOUN	NN	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	16	obl	_	_
+13	на	на	ADP	IN	_	15	case	_	_
+14	дыпламатычныя	дыпламатычны	ADJ	JJL	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	15	amod	_	_
+15	крыніцы	крынік	NOUN	NN	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	12	nmod	_	_
+16	паведаміла	паведаміць	VERB	VBC	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+17	,	,	PUNCT	PUNCT	_	26	punct	_	_
+18	што	што	SCONJ	IN	_	26	mark	_	_
+19	кіраўнікі	кіраўнік	NOUN	NN	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	26	nsubj	_	_
+20	МЗС	мзс	PROPN	NNP	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	19	nmod	_	_
+21	ЕС	ес	PROPN	NNP	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	20	nmod	_	SpaceAfter=No
+22	,	,	PUNCT	PUNCT	_	23	punct	_	_
+23	у	у	ADP	IN	_	26	parataxis	_	_
+24	прыватнасці	прыватнасць	NOUN	NN	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	23	fixed	_	SpaceAfter=No
+25	,	,	PUNCT	PUNCT	_	23	punct	_	_
+26	уключаць	уключаць	VERB	VBC	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	16	ccomp	_	_
+27	у	у	ADP	IN	_	30	case	_	_
+28	"	"	PUNCT	PUNCT	_	30	punct	_	SpaceAfter=No
+29	чорны	чорны	ADJ	JJL	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	30	amod	_	_
+30	спіс	спіс	NOUN	NN	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	26	obl	_	SpaceAfter=No
+31	"	"	PUNCT	PUNCT	_	30	punct	_	_
+32	Асму	асма	PROPN	NNP	Animacy=Anim|Case=Acc|Gender=Fem|Number=Sing	26	obj	_	_
+33	Асад	асад	PROPN	NNP	Animacy=Anim|Case=Acc|Gender=Fem|Number=Sing	32	flat	_	SpaceAfter=No
+34	,	,	PUNCT	PUNCT	_	35	punct	_	_
+35	жонку	жонка	NOUN	NN	Animacy=Anim|Case=Acc|Gender=Fem|Number=Sing	32	appos	_	_
+36	прэзідэнта	прэзідэнт	NOUN	NN	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	35	nmod	_	_
+37	краіны	краіна	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	36	nmod	_	_
+38	Башара	башар	PROPN	NNP	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	36	flat	_	_
+39	Асада	асад	PROPN	NNP	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	38	flat	_	SpaceAfter=No
+40	.	.	PUNCT	PUNCT	_	16	punct	_	_
 
 ~~~
 

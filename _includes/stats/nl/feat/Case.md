@@ -57,7 +57,7 @@ The most frequent other feature values with which `PRON` and `Case` co-occurred:
 
 946 [nl-pos/VERB]() tokens (5% of all `VERB` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `VERB` and `Case` co-occurred: <tt><a href="Aspect.html">Aspect</a>=EMPTY</tt> (946; 100%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (946; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (946; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (946; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (946; 100%), <tt><a href="VerbType.html">VerbType</a>=EMPTY</tt> (946; 100%), <tt><a href="Subcat.html">Subcat</a>=Intr</tt> (546; 58%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (519; 55%).
+The most frequent other feature values with which `VERB` and `Case` co-occurred: <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (946; 100%), <tt><a href="Aspect.html">Aspect</a>=EMPTY</tt> (946; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (946; 100%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (946; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (946; 100%), <tt><a href="VerbType.html">VerbType</a>=EMPTY</tt> (946; 100%), <tt><a href="Subcat.html">Subcat</a>=Intr</tt> (546; 58%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (519; 55%).
 
 `VERB` tokens may have the following values of `Case`:
 
@@ -91,7 +91,7 @@ The most frequent other feature values with which `X` and `Case` co-occurred: <t
 
 175 [nl-pos/DET]() tokens (1% of all `DET` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `DET` and `Case` co-occurred: <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (174; 99%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (171; 98%), <tt><a href="PronType.html">PronType</a>=Ind</tt> (107; 61%), <tt><a href="Definite.html">Definite</a>=EMPTY</tt> (107; 61%).
+The most frequent other feature values with which `DET` and `Case` co-occurred: <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (174; 99%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (171; 98%), <tt><a href="Definite.html">Definite</a>=EMPTY</tt> (107; 61%), <tt><a href="PronType.html">PronType</a>=Ind</tt> (107; 61%).
 
 `DET` tokens may have the following values of `Case`:
 
@@ -133,7 +133,7 @@ The most frequent other feature values with which `NOUN` and `Case` co-occurred:
 
 10 [nl-pos/AUX]() tokens (0% of all `AUX` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `AUX` and `Case` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (10; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (10; 100%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (10; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (10; 100%), <tt><a href="Aspect.html">Aspect</a>=EMPTY</tt> (10; 100%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (9; 90%), <tt><a href="VerbType.html">VerbType</a>=EMPTY</tt> (8; 80%).
+The most frequent other feature values with which `AUX` and `Case` co-occurred: <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (10; 100%), <tt><a href="Aspect.html">Aspect</a>=EMPTY</tt> (10; 100%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (10; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (10; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (10; 100%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (9; 90%), <tt><a href="VerbType.html">VerbType</a>=EMPTY</tt> (8; 80%).
 
 `AUX` tokens may have the following values of `Case`:
 
@@ -144,7 +144,7 @@ The most frequent other feature values with which `AUX` and `Case` co-occurred: 
 
 3 [nl-pos/NUM]() tokens (0% of all `NUM` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `NUM` and `Case` co-occurred: <tt><a href="Definite.html">Definite</a>=Def</tt> (3; 100%), <tt><a href="NumForm.html">NumForm</a>=EMPTY</tt> (3; 100%), <tt><a href="NumType.html">NumType</a>=Card</tt> (3; 100%).
+The most frequent other feature values with which `NUM` and `Case` co-occurred: <tt><a href="NumForm.html">NumForm</a>=EMPTY</tt> (3; 100%), <tt><a href="NumType.html">NumType</a>=Card</tt> (3; 100%), <tt><a href="Definite.html">Definite</a>=Def</tt> (3; 100%).
 
 `NUM` tokens may have the following values of `Case`:
 
@@ -164,7 +164,7 @@ The 10 most frequent relations where parent and child node agree in `Case`:
 <tt>ADJ --[<a href="../dep/cc.html">cc</a>]--> ADJ</tt> (3; 100%),
 <tt>X --[<a href="../dep/conj.html">conj</a>]--> X</tt> (2; 100%),
 <tt>X --[<a href="../dep/dep.html">dep</a>]--> X</tt> (1; 100%),
-<tt>NUM --[<a href="../dep/compound.html">compound</a>]--> NUM</tt> (1; 100%).
+<tt>VERB --[<a href="../dep/amod.html">amod</a>]--> ADJ</tt> (1; 100%).
 
 
 

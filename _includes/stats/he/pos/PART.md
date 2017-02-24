@@ -11,7 +11,7 @@ The 10 most frequent `PART` lemmas: של, את, _, כש, מש
 
 The 10 most frequent `PART` types:  של, את, את_, שלהם, אותה, שלו, כש, שלה, אותם, אתכם
 
-The 10 most frequent ambiguous lemmas: של ([ADP]() 2533, [PART]() 1960), את ([PART]() 1832, [ADP]() 18), _ ([PUNCT]() 16916, [NUM]() 1759, [ADP]() 535, [NOUN]() 338, [VERB]() 248, [DET]() 229, [ADJ]() 187, [ADV]() 155, [PRON]() 129, [X]() 109, [CCONJ]() 102, [AUX]() 88, [SCONJ]() 47, [PROPN]() 24, [PART]() 17), כש ([SCONJ]() 105, [ADP]() 4, [PART]() 4), מש ([PART]() 1, [ADP]() 1, [SCONJ]() 1)
+The 10 most frequent ambiguous lemmas: של ([ADP]() 2533, [PART]() 1960), את ([PART]() 1832, [ADP]() 18), _ ([PUNCT]() 16916, [NUM]() 1759, [ADP]() 535, [NOUN]() 338, [VERB]() 248, [DET]() 229, [ADJ]() 187, [ADV]() 155, [PRON]() 129, [X]() 109, [CCONJ]() 102, [AUX]() 88, [SCONJ]() 47, [PROPN]() 24, [PART]() 17), כש ([SCONJ]() 105, [PART]() 4, [ADP]() 4), מש ([PART]() 1, [ADP]() 1, [SCONJ]() 1)
 
 The 10 most frequent ambiguous types:  של ([PART]() 1942, [ADP]() 2, [X]() 1), את ([PART]() 1595, [PRON]() 1), אותה ([PRON]() 26, [PART]() 6), כש ([SCONJ]() 105, [ADP]() 6, [PART]() 4), שלה ([PART]() 4, [ADP]() 1), אותם ([PRON]() 10, [PART]() 2), אותו ([PRON]() 33, [PART]() 1), אותן ([PRON]() 7, [PART]() 1), אתו ([ADP]() 6, [PART]() 1), אתם ([PRON]() 10, [ADP]() 2, [PART]() 1)
 

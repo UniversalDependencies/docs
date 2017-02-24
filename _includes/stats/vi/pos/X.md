@@ -11,9 +11,9 @@ The 10 most frequent `X` lemmas: <em>không, đã, cũng, lại, sẽ, rất, đ
 
 The 10 most frequent `X` types:  <em>không, đã, cũng, lại, sẽ, rất, được, chỉ, đang, ra</em>
 
-The 10 most frequent ambiguous lemmas: <em>lại</em> ([X]() 162, [VERB]() 3), <em>được</em> ([VERB]() 148, [X]() 92, [ADJ]() 1, [PART]() 1), <em>chỉ</em> ([X]() 79, [VERB]() 1, [NOUN]() 1), <em>ra</em> ([X]() 67, [VERB]() 52, [ADP]() 5), <em>mới</em> ([X]() 49, [ADJ]() 18), <em>đều</em> ([X]() 43, [ADJ]() 1), <em>còn</em> ([X]() 38, [VERB]() 26, [CCONJ]() 11), <em>có thể</em> ([X]() 32, [ADJ]() 10), <em>cứ</em> ([X]() 29, [VERB]() 1), <em>lên</em> ([X]() 35, [VERB]() 31, [ADP]() 8)
+The 10 most frequent ambiguous lemmas: <em>lại</em> ([X]() 162, [VERB]() 3), <em>được</em> ([VERB]() 148, [X]() 92, [PART]() 1, [ADJ]() 1), <em>chỉ</em> ([X]() 79, [VERB]() 1, [NOUN]() 1), <em>ra</em> ([X]() 67, [VERB]() 52, [ADP]() 5), <em>mới</em> ([X]() 49, [ADJ]() 18), <em>đều</em> ([X]() 43, [ADJ]() 1), <em>còn</em> ([X]() 38, [VERB]() 26, [CCONJ]() 11), <em>có thể</em> ([X]() 32, [ADJ]() 10), <em>cứ</em> ([X]() 29, [VERB]() 1), <em>lên</em> ([X]() 35, [VERB]() 31, [ADP]() 8)
 
-The 10 most frequent ambiguous types:  <em>lại</em> ([X]() 162, [VERB]() 3), <em>được</em> ([VERB]() 148, [X]() 92, [ADJ]() 1, [PART]() 1), <em>chỉ</em> ([X]() 79, [NOUN]() 1, [VERB]() 1), <em>ra</em> ([X]() 67, [VERB]() 52, [ADP]() 5), <em>mới</em> ([X]() 49, [ADJ]() 18), <em>đều</em> ([X]() 43, [ADJ]() 1), <em>còn</em> ([X]() 38, [VERB]() 26, [CCONJ]() 11), <em>có thể</em> ([X]() 32, [ADJ]() 10), <em>cứ</em> ([X]() 29, [VERB]() 1), <em>lên</em> ([X]() 35, [VERB]() 31, [ADP]() 8)
+The 10 most frequent ambiguous types:  <em>lại</em> ([X]() 162, [VERB]() 3), <em>được</em> ([VERB]() 148, [X]() 92, [PART]() 1, [ADJ]() 1), <em>chỉ</em> ([X]() 79, [VERB]() 1, [NOUN]() 1), <em>ra</em> ([X]() 67, [VERB]() 52, [ADP]() 5), <em>mới</em> ([X]() 49, [ADJ]() 18), <em>đều</em> ([X]() 43, [ADJ]() 1), <em>còn</em> ([X]() 38, [VERB]() 26, [CCONJ]() 11), <em>có thể</em> ([X]() 32, [ADJ]() 10), <em>cứ</em> ([X]() 29, [VERB]() 1), <em>lên</em> ([X]() 35, [VERB]() 31, [ADP]() 8)
 
 
 * <em>lại</em>
@@ -22,12 +22,12 @@ The 10 most frequent ambiguous types:  <em>lại</em> ([X]() 162, [VERB]() 3), <
 * <em>được</em>
   * [VERB]() 148: <em>Và tôi <b>được</b> cử sang VN để giúp người VN chống phát xít Nhật .</em>
   * [X]() 92: <em>Nếu Tùng học <b>được</b> hai tuần nghiêm túc thì mẹ mua xe .</em>
-  * [ADJ]() 1: <em>bởi rứa mình bàn với đám trai trẻ : hay là dân mình phải học cho <b>được</b> cái nghề ni ?</em>
   * [PART]() 1: <em>việc này liên quan nhiều khâu , qua khâu khác là của người khác , không sờ mó tới <b>được</b> " .</em>
+  * [ADJ]() 1: <em>bởi rứa mình bàn với đám trai trẻ : hay là dân mình phải học cho <b>được</b> cái nghề ni ?</em>
 * <em>chỉ</em>
   * [X]() 79: <em>Tôi <b>chỉ</b> là người phát triển thêm tình hữu nghị đó " .</em>
-  * [NOUN]() 1: <em>trong tủ cá nhân của 12 csgt , đội đặc nhiệm lập biên bản tạm giữ 160 triệu đồng , hơn 160 <b>chỉ</b> vàng ...</em>
   * [VERB]() 1: <em>Chính sách đã có , các cơ quan <b>chỉ</b> việc vận dụng hợp lý , không nhất thiết việc gì cũng phải báo cáo lên trên nữa .</em>
+  * [NOUN]() 1: <em>trong tủ cá nhân của 12 csgt , đội đặc nhiệm lập biên bản tạm giữ 160 triệu đồng , hơn 160 <b>chỉ</b> vàng ...</em>
 * <em>ra</em>
   * [X]() 67: <em>Tôi sinh <b>ra</b> trong gia đình nghèo .</em>
   * [VERB]() 52: <em><b>ra</b> ngoài một mình nhiều thì dễ bị lộ .</em>

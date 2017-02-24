@@ -123,6 +123,28 @@ The following 45 pairs of parts of speech are connected with `orphan`: [no-pos/N
 
 
 ~~~ conllu
+# visual-style 11	bgColor:blue
+# visual-style 11	fgColor:white
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 9 11 orphan	color:blue
+1	Då	då	ADV	_	_	4	advmod	_	_
+2	var	vere	AUX	_	Mood=Ind|Tense=Past|VerbForm=Fin	4	cop	_	_
+3	Erika	Erika	NOUN	_	Gender=Fem	4	nsubj	_	_
+4	femten	femten	NUM	_	Number=Plur|NumType=Card	0	root	_	SpaceAfter=No
+5	,	$,	PUNCT	_	_	3	punct	_	_
+6	Laura	Laura	PROPN	_	_	4	conj	_	_
+7	tolv	tolv	NUM	_	Number=Plur|NumType=Card	6	orphan	_	_
+8	og	og	CCONJ	_	_	9	cc	_	_
+9	Molly	Molly	PROPN	_	_	4	conj	_	_
+10	fem	fem	NUM	_	Number=Plur|NumType=Card	11	nummod	_	_
+11	år	år	NOUN	_	Definite=Ind|Gender=Neut|Number=Plur	9	orphan	_	SpaceAfter=No
+12	.	$.	PUNCT	_	_	4	punct	_	_
+
+~~~
+
+
+~~~ conllu
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
 # visual-style 6	bgColor:blue
@@ -139,27 +161,6 @@ The following 45 pairs of parts of speech are connected with `orphan`: [no-pos/N
 9	som	som	ADP	_	_	10	case	_	_
 10	ingenting	ingenting	PRON	_	Number=Sing|Polarity=Neg|PronType=Neg	7	obl	_	SpaceAfter=No
 11	.	$.	PUNCT	_	_	4	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 8 10 orphan	color:blue
-1	-	$-	PUNCT	_	_	5	punct	_	_
-2	Norske	norsk	ADJ	_	Degree=Pos|Number=Plur	3	amod	_	_
-3	politikarar	politikar	NOUN	_	Definite=Ind|Gender=Masc|Number=Plur	5	nsubj	_	_
-4	er	vere	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	5	cop	_	_
-5	interesserte	interessere	ADJ	_	Number=Plur|VerbForm=Part	0	root	_	SpaceAfter=No
-6	,	$,	PUNCT	_	_	5	punct	_	_
-7	men	men	CCONJ	_	_	8	cc	_	_
-8	mest	mykje	ADJ	_	Definite=Ind|Degree=Sup	5	conj	_	_
-9	på	på	ADP	_	_	10	case	_	_
-10	papiret	papir	NOUN	_	Definite=Def|Gender=Neut|Number=Sing	8	orphan	_	SpaceAfter=No
-11	.	$.	PUNCT	_	_	5	punct	_	_
 
 ~~~
 

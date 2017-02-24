@@ -81,7 +81,7 @@ The most frequent other feature values with which `PRON` and `PronType` co-occur
 
 46 [ga-pos/VERB]() tokens (4% of all `VERB` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `VERB` and `PronType` co-occurred: <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (46; 100%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (46; 100%), <tt><a href="Form.html">Form</a>=EMPTY</tt> (45; 98%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (44; 96%).
+The most frequent other feature values with which `VERB` and `PronType` co-occurred: <tt><a href="Mood.html">Mood</a>=Ind</tt> (46; 100%), <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (46; 100%), <tt><a href="Form.html">Form</a>=EMPTY</tt> (45; 98%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (44; 96%).
 
 `VERB` tokens may have the following values of `PronType`:
 
@@ -105,7 +105,7 @@ The most frequent other feature values with which `AUX` and `PronType` co-occurr
 
 17 [ga-pos/X]() tokens (11% of all `X` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `X` and `PronType` co-occurred: <tt><a href="Abbr.html">Abbr</a>=EMPTY</tt> (17; 100%), <tt><a href="Dialect.html">Dialect</a>=Munster</tt> (17; 100%).
+The most frequent other feature values with which `X` and `PronType` co-occurred: <tt><a href="Dialect.html">Dialect</a>=Munster</tt> (17; 100%), <tt><a href="Abbr.html">Abbr</a>=EMPTY</tt> (17; 100%).
 
 `X` tokens may have the following values of `PronType`:
 

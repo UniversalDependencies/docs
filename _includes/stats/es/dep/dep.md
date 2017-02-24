@@ -60,25 +60,21 @@ The following 91 pairs of parts of speech are connected with `dep`: [es-pos/NOUN
 
 
 ~~~ conllu
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 3 dep	color:blue
-1	La	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
-2	1	1	NUM	_	NumType=Card	4	nummod	_	_
-3	ª	ª	SYM	_	_	2	dep	_	_
-4	Iglesia	iglesia	NOUN	_	_	7	nsubj:pass	_	_
-5	Presbiteriana	presbiteriano	ADJ	_	_	4	amod	_	_
-6	fue	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	aux:pass	_	_
-7	creada	crear	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
-8	en	en	ADP	_	_	9	case	_	_
-9	12	12	NUM	_	NumType=Card	7	obl	_	_
-10	de	de	ADP	_	_	11	case	_	_
-11	marzo	marzo	PROPN	_	_	9	nmod	_	_
-12	de	de	ADP	_	_	13	case	_	_
-13	1922	1922	NUM	_	NumType=Card	11	nmod	_	SpaceAfter=No
-14	.	.	PUNCT	_	_	7	punct	_	_
+# visual-style 3 4 dep	color:blue
+1	La	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	cadena	cadena	NOUN	_	Gender=Fem|Number=Sing	5	nsubj	_	_
+3	Al	al	PROPN	_	Gender=Masc|Number=Sing	2	appos	_	_
+4	Yazira	yazira	PROPN	_	_	3	dep	_	_
+5	afirma	afirmar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	que	que	SCONJ	_	_	7	mark	_	_
+7	hay	haber	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	ccomp	_	_
+8	95	95	NUM	_	NumType=Card	9	nummod	_	_
+9	muertos	muerto	NOUN	_	Gender=Masc|Number=Plur	7	obj	_	SpaceAfter=No
+10	.	.	PUNCT	_	_	5	punct	_	_
 
 ~~~
 

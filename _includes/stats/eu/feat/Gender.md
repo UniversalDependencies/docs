@@ -42,7 +42,7 @@ The most frequent other feature values with which `AUX` and `Gender` co-occurred
 
 29 [eu-pos/VERB]() tokens (0% of all `VERB` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `VERB` and `Gender` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=EMPTY</tt> (29; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (29; 100%), <tt><a href="Aspect.html">Aspect</a>=Prog</tt> (29; 100%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (27; 93%), <tt><a href="Person[abs].html">Person[abs]</a>=3</tt> (27; 93%), <tt><a href="Number[abs].html">Number[abs]</a>=Sing</tt> (22; 76%).
+The most frequent other feature values with which `VERB` and `Gender` co-occurred: <tt><a href="Case.html">Case</a>=EMPTY</tt> (29; 100%), <tt><a href="Aspect.html">Aspect</a>=Prog</tt> (29; 100%), <tt><a href="VerbForm.html">VerbForm</a>=EMPTY</tt> (29; 100%), <tt><a href="Person[abs].html">Person[abs]</a>=3</tt> (27; 93%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (27; 93%), <tt><a href="Number[abs].html">Number[abs]</a>=Sing</tt> (22; 76%).
 
 `VERB` tokens may have the following values of `Gender`:
 
@@ -59,7 +59,7 @@ The most frequent other feature values with which `VERB` and `Gender` co-occurre
   <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number[abs].html">Number[abs]</a>=Plur|<a href="Person[abs].html">Person[abs]</a>=3</tt></td><td><em>dituk</em></td><td></td></tr>
   <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number[abs].html">Number[abs]</a>=Sing|<a href="Number[erg].html">Number[erg]</a>=Plur|<a href="Person[abs].html">Person[abs]</a>=3|<a href="Person[erg].html">Person[erg]</a>=1</tt></td><td></td><td><em>dinagu</em></td></tr>
   <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number[abs].html">Number[abs]</a>=Sing|<a href="Number[erg].html">Number[erg]</a>=Sing|<a href="Person[abs].html">Person[abs]</a>=3|<a href="Person[erg].html">Person[erg]</a>=1</tt></td><td></td><td><em>dinat, ninan</em></td></tr>
-  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number[abs].html">Number[abs]</a>=Sing|<a href="Number[erg].html">Number[erg]</a>=Sing|<a href="Person[abs].html">Person[abs]</a>=3|<a href="Person[erg].html">Person[erg]</a>=3</tt></td><td><em>zian, dik</em></td><td><em>din</em></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number[abs].html">Number[abs]</a>=Sing|<a href="Number[erg].html">Number[erg]</a>=Sing|<a href="Person[abs].html">Person[abs]</a>=3|<a href="Person[erg].html">Person[erg]</a>=3</tt></td><td><em>dik, zian</em></td><td><em>din</em></td></tr>
   <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number[abs].html">Number[abs]</a>=Sing|<a href="Person[abs].html">Person[abs]</a>=1</tt></td><td></td><td><em>naun</em></td></tr>
   <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number[abs].html">Number[abs]</a>=Sing|<a href="Person[abs].html">Person[abs]</a>=3</tt></td><td><em>duk</em></td><td><em>dun, zunan</em></td></tr>
 </table>

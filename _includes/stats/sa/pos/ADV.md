@@ -11,7 +11,7 @@ The 10 most frequent `ADV` lemmas: अथ, अपि, एवम्, तत्र
 
 The 10 most frequent `ADV` types:  अथ, अपि, एवम्, ततः, तत्र, अत्र, तत्, यथा, कथम्, इति
 
-The 10 most frequent ambiguous lemmas: तत्र ([ADV]() 9, [PRON]() 1), तद् ([PRON]() 46, [DET]() 31, [ADV]() 9, [NOUN]() 1, [X]() 1), इति ([ADV]() 4, [CCONJ]() 1), एव ([ADV]() 3, [DET]() 1), न ([PART]() 22, [ADV]() 2), अर्थ ([NOUN]() 16, [ADV]() 1), इव ([CCONJ]() 1, [ADV]() 1), एक ([NUM]() 1, [ADV]() 1), कियत् ([ADV]() 1, [PRON]() 1), परम् ([ADJ]() 1, [ADV]() 1)
+The 10 most frequent ambiguous lemmas: तत्र ([ADV]() 9, [PRON]() 1), तद् ([PRON]() 46, [DET]() 31, [ADV]() 9, [NOUN]() 1, [X]() 1), इति ([ADV]() 4, [CCONJ]() 1), एव ([ADV]() 3, [DET]() 1), न ([PART]() 22, [ADV]() 2), अर्थ ([NOUN]() 16, [ADV]() 1), इव ([ADV]() 1, [CCONJ]() 1), एक ([ADV]() 1, [NUM]() 1), कियत् ([PRON]() 1, [ADV]() 1), परम् ([ADV]() 1, [ADJ]() 1)
 
 The 10 most frequent ambiguous types:  तत्र ([ADV]() 9, [PRON]() 1), तत् ([DET]() 11, [PRON]() 8, [ADV]() 7), कथम् ([ADV]() 5, [PRON]() 1), इति ([ADV]() 4, [CCONJ]() 1), एव ([ADV]() 3, [DET]() 1), न ([PART]() 22, [ADV]() 2), अर्थम् ([NOUN]() 8, [ADV]() 1), इव ([CCONJ]() 1, [ADV]() 1), कदाचित् ([ADV]() 1, [DET]() 1), कदाचिद् ([ADV]() 1, [DET]() 1)
 

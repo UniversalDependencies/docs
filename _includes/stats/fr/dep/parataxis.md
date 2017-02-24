@@ -130,6 +130,30 @@ The following 3 pairs of parts of speech are connected with `parataxis`: [fr-pos
 
 
 ~~~ conllu
+# visual-style 11	bgColor:blue
+# visual-style 11	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 11 parataxis	color:blue
+1	Certains	certain	DET	DI	Gender=Masc|Number=Plur|PronType=Ind	5	nsubj	_	_
+2	étaient	être	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+3	de	de	ADP	E	_	5	case	_	_
+4	la	le	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	viande	viande	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+6	de	de	ADP	E	_	7	case	_	_
+7	baleine	baleine	NOUN	S	Gender=Fem|Number=Sing	5	nmod	_	_
+8	illégale	illégal	ADJ	A	Gender=Fem|Number=Sing	7	amod	_	SpaceAfter=No
+9	,	,	PUNCT	FF	_	5	punct	_	_
+10	soit	être	AUX	VA	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	aux:pass	_	_
+11	dit	dire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	5	parataxis	_	_
+12	en	en	ADP	E	_	13	mark	_	_
+13	passant	passer	VERB	V	VerbForm=Ger	11	advcl	_	SpaceAfter=No
+14	.	.	PUNCT	FS	_	5	punct	_	_
+
+~~~
+
+
+~~~ conllu
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 2	bgColor:blue
@@ -188,30 +212,6 @@ The following 3 pairs of parts of speech are connected with `parataxis`: [fr-pos
 51	de	de	ADP	E	_	52	case	_	_
 52	travail	travail	NOUN	S	Gender=Masc|Number=Sing	50	nmod	_	SpaceAfter=No
 53	.	.	PUNCT	FS	_	2	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 11	bgColor:blue
-# visual-style 11	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 11 parataxis	color:blue
-1	Certains	certain	DET	DI	Gender=Masc|Number=Plur|PronType=Ind	5	nsubj	_	_
-2	étaient	être	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
-3	de	de	ADP	E	_	5	case	_	_
-4	la	le	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
-5	viande	viande	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
-6	de	de	ADP	E	_	7	case	_	_
-7	baleine	baleine	NOUN	S	Gender=Fem|Number=Sing	5	nmod	_	_
-8	illégale	illégal	ADJ	A	Gender=Fem|Number=Sing	7	amod	_	SpaceAfter=No
-9	,	,	PUNCT	FF	_	5	punct	_	_
-10	soit	être	AUX	VA	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	aux:pass	_	_
-11	dit	dire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	5	parataxis	_	_
-12	en	en	ADP	E	_	13	mark	_	_
-13	passant	passer	VERB	V	VerbForm=Ger	11	advcl	_	SpaceAfter=No
-14	.	.	PUNCT	FS	_	5	punct	_	_
 
 ~~~
 

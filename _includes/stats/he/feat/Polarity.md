@@ -16,7 +16,7 @@ The feature is used with 2 part-of-speech tags: [he-pos/VERB]() (1620; 1% instan
 
 1620 [he-pos/VERB]() tokens (11% of all `VERB` tokens) have a non-empty value of `Polarity`.
 
-The most frequent other feature values with which `VERB` and `Polarity` co-occurred: <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (1620; 100%), <tt><a href="VerbType.html">VerbType</a>=Cop</tt> (1620; 100%), <tt><a href="HebBinyan.html">HebBinyan</a>=EMPTY</tt> (1620; 100%), <tt><a href="Person.html">Person</a>=3</tt> (1482; 91%), <tt><a href="Number.html">Number</a>=Sing</tt> (1171; 72%), <tt><a href="VerbForm.html">VerbForm</a>=EMPTY</tt> (858; 53%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (840; 52%).
+The most frequent other feature values with which `VERB` and `Polarity` co-occurred: <tt><a href="HebBinyan.html">HebBinyan</a>=EMPTY</tt> (1620; 100%), <tt><a href="VerbType.html">VerbType</a>=Cop</tt> (1620; 100%), <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (1620; 100%), <tt><a href="Person.html">Person</a>=3</tt> (1482; 91%), <tt><a href="Number.html">Number</a>=Sing</tt> (1171; 72%), <tt><a href="VerbForm.html">VerbForm</a>=EMPTY</tt> (858; 53%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (840; 52%).
 
 `VERB` tokens may have the following values of `Polarity`:
 

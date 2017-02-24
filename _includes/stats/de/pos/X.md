@@ -11,9 +11,9 @@ The 10 most frequent `X` lemmas: <em>z.B., u.a., =, %, b., /, etc., †, werden,
 
 The 10 most frequent `X` types:  <em>z.B., u.a., =, %, B., /, etc., †, &amp;, *</em>
 
-The 10 most frequent ambiguous lemmas: <em>z.B.</em> ([X]() 22, [ADV]() 3), <em>u.a.</em> ([X]() 16, [ADV]() 4, [ADP]() 1), <em>=</em> ([X]() 16, [PUNCT]() 10), <em>%</em> ([NOUN]() 93, [X]() 14), <em>/</em> ([PUNCT]() 249, [X]() 10, [ADP]() 4, [PROPN]() 2), <em>werden</em> ([AUX]() 3191, [VERB]() 371, [X]() 9, [PROPN]() 2, [PUNCT]() 1, [NOUN]() 1), <em>&amp;</em> ([NOUN]() 26, [X]() 8), <em>*</em> ([X]() 8, [NOUN]() 1, [PUNCT]() 1), <em>a</em> ([PROPN]() 11, [X]() 4, [ADP]() 1), <em>z.</em> ([ADP]() 12, [X]() 8)
+The 10 most frequent ambiguous lemmas: <em>z.B.</em> ([X]() 22, [ADV]() 3), <em>u.a.</em> ([X]() 16, [ADV]() 4, [ADP]() 1), <em>=</em> ([X]() 16, [PUNCT]() 10), <em>%</em> ([NOUN]() 93, [X]() 14), <em>/</em> ([PUNCT]() 249, [X]() 10, [ADP]() 4, [PROPN]() 2), <em>werden</em> ([AUX]() 3191, [VERB]() 371, [X]() 9, [PROPN]() 2, [PUNCT]() 1, [NOUN]() 1), <em>&amp;</em> ([NOUN]() 26, [X]() 8), <em>*</em> ([X]() 8, [PUNCT]() 1, [NOUN]() 1), <em>a</em> ([PROPN]() 11, [X]() 4, [ADP]() 1), <em>z.</em> ([ADP]() 12, [X]() 8)
 
-The 10 most frequent ambiguous types:  <em>z.B.</em> ([X]() 22, [ADV]() 3), <em>u.a.</em> ([X]() 16, [ADV]() 4, [ADP]() 1), <em>=</em> ([X]() 16, [PUNCT]() 10), <em>%</em> ([NOUN]() 93, [X]() 14), <em>B.</em> ([X]() 13, [NOUN]() 13, [PROPN]() 4), <em>/</em> ([PUNCT]() 249, [X]() 10, [ADP]() 4, [PROPN]() 2), <em>&amp;</em> ([NOUN]() 26, [X]() 8), <em>*</em> ([X]() 8, [NOUN]() 1, [PUNCT]() 1), <em>a</em> ([PROPN]() 11, [X]() 4, [ADP]() 1), <em>z.</em> ([ADP]() 12, [X]() 8)
+The 10 most frequent ambiguous types:  <em>z.B.</em> ([X]() 22, [ADV]() 3), <em>u.a.</em> ([X]() 16, [ADV]() 4, [ADP]() 1), <em>=</em> ([X]() 16, [PUNCT]() 10), <em>%</em> ([NOUN]() 93, [X]() 14), <em>B.</em> ([X]() 13, [NOUN]() 13, [PROPN]() 4), <em>/</em> ([PUNCT]() 249, [X]() 10, [ADP]() 4, [PROPN]() 2), <em>&amp;</em> ([NOUN]() 26, [X]() 8), <em>*</em> ([X]() 8, [PUNCT]() 1, [NOUN]() 1), <em>a</em> ([PROPN]() 11, [X]() 4, [ADP]() 1), <em>z.</em> ([ADP]() 12, [X]() 8)
 
 
 * <em>z.B.</em>
@@ -43,8 +43,8 @@ The 10 most frequent ambiguous types:  <em>z.B.</em> ([X]() 22, [ADV]() 3), <em>
   * [X]() 8: <em>B <b>&amp;</b> S ist ein Car - Audio - Spezialist wie man ihn nur hier findet !</em>
 * <em>*</em>
   * [X]() 8: <em>Juni 1340 , ( <b>*</b> um 1310 / 1320 ;</em>
-  * [NOUN]() 1: <em>Die A <b>*</b> Teens waren eine schwedische Popgruppe , die 1998 in Stockholm als ABBA Teens gegründet wurde und sich 2004 auflöste .</em>
   * [PUNCT]() 1: <em>Aus der Ehe ging die Tochter Kari Hilde Hodne French ( <b>*</b> 1949 ) hervor , die sich ebenfalls in der Flüchtlingsarbeit in Indien und der Menschenrechtsarbeit in Afghanistan engagierte .</em>
+  * [NOUN]() 1: <em>Die A <b>*</b> Teens waren eine schwedische Popgruppe , die 1998 in Stockholm als ABBA Teens gegründet wurde und sich 2004 auflöste .</em>
 * <em>a</em>
   * [PROPN]() 11: <em>Das erstmals in dem Jahre 1799 von Rabbiner Wolf Heidenheim in Rödelheim bei Frankfurt <b>a</b> .</em>
   * [X]() 4: <em>Bekannt war er auch für seine Porträtbüsten ( u. <b>a</b> .</em>

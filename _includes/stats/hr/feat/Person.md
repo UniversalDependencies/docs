@@ -32,7 +32,7 @@ The most frequent other feature values with which `AUX` and `Person` co-occurred
   <tr><td><tt><a href="Mood.html">Mood</a>=Imp|<a href="Number.html">Number</a>=Plur</tt></td><td></td><td><em>budite</em></td><td></td></tr>
   <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Polarity.html">Polarity</a>=Neg|<a href="Tense.html">Tense</a>=Pres</tt></td><td><em>nisam</em></td><td></td><td><em>nije</em></td></tr>
   <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Tense.html">Tense</a>=Imp</tt></td><td></td><td></td><td><em>bijaše</em></td></tr>
-  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Tense.html">Tense</a>=Pres</tt></td><td><em>sam, nisam, jesam</em></td><td><em>si, nisi, jesi</em></td><td><em>je, nije, bude, jest, jeste</em></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Tense.html">Tense</a>=Pres</tt></td><td><em>sam, nisam, jesam</em></td><td><em>si, jesi, nisi</em></td><td><em>je, nije, bude, jest, jeste</em></td></tr>
   <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Plur|<a href="Polarity.html">Polarity</a>=Neg|<a href="Tense.html">Tense</a>=Pres</tt></td><td><em>nismo</em></td><td><em>niste</em></td><td><em>nisu</em></td></tr>
   <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Plur|<a href="Tense.html">Tense</a>=Pres</tt></td><td><em>smo, nismo, jesmo, budemo</em></td><td><em>ste, niste, Jeste, budete</em></td><td><em>su, nisu, budu, jesu, biti</em></td></tr>
 </table>
@@ -41,7 +41,7 @@ The most frequent other feature values with which `AUX` and `Person` co-occurred
 
 7264 [hr-pos/VERB]() tokens (45% of all `VERB` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (7264; 100%), <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (7264; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (7264; 100%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (7049; 97%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (7042; 97%), <tt><a href="Number.html">Number</a>=Sing</tt> (4467; 61%).
+The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (7264; 100%), <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (7264; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (7264; 100%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (7049; 97%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (7042; 97%), <tt><a href="Number.html">Number</a>=Sing</tt> (4467; 61%).
 
 `VERB` tokens may have the following values of `Person`:
 
@@ -90,13 +90,13 @@ The most frequent other feature values with which `DET` and `Person` co-occurred
 
 The 10 most frequent relations where parent and child node agree in `Person`:
 <tt>VERB --[<a href="../dep/conj.html">conj</a>]--> VERB</tt> (667; 65%),
-<tt>AUX --[<a href="../dep/conj.html">conj</a>]--> VERB</tt> (16; 57%),
 <tt>AUX --[<a href="../dep/ccomp.html">ccomp</a>]--> VERB</tt> (16; 80%),
+<tt>AUX --[<a href="../dep/conj.html">conj</a>]--> VERB</tt> (16; 57%),
 <tt>AUX --[<a href="../dep/advcl.html">advcl</a>]--> VERB</tt> (12; 67%),
 <tt>VERB --[<a href="../dep/obj.html">obj</a>]--> VERB</tt> (7; 70%),
 <tt>VERB --[<a href="../dep/nsubj:pass.html">nsubj:pass</a>]--> PRON</tt> (6; 75%),
 <tt>PRON --[<a href="../dep/aux.html">aux</a>]--> AUX</tt> (2; 67%),
-<tt>AUX --[<a href="../dep/advcl.html">advcl</a>]--> AUX</tt> (1; 100%),
 <tt>PRON --[<a href="../dep/advcl.html">advcl</a>]--> VERB</tt> (1; 100%),
-<tt>VERB --[<a href="../dep/advcl.html">advcl</a>]--> PRON</tt> (1; 100%).
+<tt>VERB --[<a href="../dep/advcl.html">advcl</a>]--> PRON</tt> (1; 100%),
+<tt>AUX --[<a href="../dep/advcl.html">advcl</a>]--> AUX</tt> (1; 100%).
 

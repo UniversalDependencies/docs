@@ -11,7 +11,7 @@ The 10 most frequent `X` lemmas: 的、 了、 A、 the、 的話、 JR、 B、 
 
 The 10 most frequent `X` types:  的、 了、 A、 the、 的話、 JR、 B、 Google、 NBA、 of
 
-The 10 most frequent ambiguous lemmas: 的 ([PART]() 4975, [X]() 122), 了 ([PART]() 668, [X]() 41, [VERB]() 2), , ([PUNCT]() 6953, [X]() 4, [ADV]() 1, [NUM]() 1), ( ([PUNCT]() 500, [X]() 3), ) ([PUNCT]() 500, [X]() 3), Casey ([X]() 3, [PROPN]() 1), James ([X]() 2, [PROPN]() 1), °C ([X]() 2, [NOUN]() 1), 之 ([PART]() 233, [PRON]() 22, [X]() 1), 台 ([PART]() 36, [NOUN]() 10, [PROPN]() 8, [X]() 1)
+The 10 most frequent ambiguous lemmas: 的 ([PART]() 4975, [X]() 122), 了 ([PART]() 668, [X]() 41, [VERB]() 2), , ([PUNCT]() 6953, [X]() 4, [NUM]() 1, [ADV]() 1), ( ([PUNCT]() 500, [X]() 3), ) ([PUNCT]() 500, [X]() 3), Casey ([X]() 3, [PROPN]() 1), James ([X]() 2, [PROPN]() 1), °C ([X]() 2, [NOUN]() 1), 之 ([PART]() 233, [PRON]() 22, [X]() 1), 台 ([PART]() 36, [NOUN]() 10, [PROPN]() 8, [X]() 1)
 
 The 10 most frequent ambiguous types:  的 ([PART]() 4975, [X]() 122), 了 ([PART]() 668, [X]() 41, [VERB]() 2), , ([PUNCT]() 6953, [X]() 4, [NUM]() 1, [ADV]() 1), ( ([PUNCT]() 500, [X]() 3), ) ([PUNCT]() 500, [X]() 3), Casey ([X]() 3, [PROPN]() 1), James ([X]() 2, [PROPN]() 1), °C ([X]() 2, [NOUN]() 1), 之 ([PART]() 233, [PRON]() 22, [X]() 1), 台 ([PART]() 36, [NOUN]() 10, [PROPN]() 8, [X]() 1)
 

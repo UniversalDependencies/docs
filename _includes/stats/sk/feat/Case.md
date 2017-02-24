@@ -37,7 +37,7 @@ The most frequent other feature values with which `NOUN` and `Case` co-occurred:
 
 7753 [sk-pos/ADJ]() tokens (100% of all `ADJ` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `ADJ` and `Case` co-occurred: <tt><a href="Degree.html">Degree</a>=Pos</tt> (7142; 92%), <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (6798; 88%), <tt><a href="VerbForm.html">VerbForm</a>=EMPTY</tt> (6798; 88%), <tt><a href="Polarity.html">Polarity</a>=EMPTY</tt> (6798; 88%), <tt><a href="Number.html">Number</a>=Sing</tt> (5714; 74%), <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (4470; 58%).
+The most frequent other feature values with which `ADJ` and `Case` co-occurred: <tt><a href="Degree.html">Degree</a>=Pos</tt> (7142; 92%), <tt><a href="Polarity.html">Polarity</a>=EMPTY</tt> (6798; 88%), <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (6798; 88%), <tt><a href="VerbForm.html">VerbForm</a>=EMPTY</tt> (6798; 88%), <tt><a href="Number.html">Number</a>=Sing</tt> (5714; 74%), <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (4470; 58%).
 
 `ADJ` tokens may have the following values of `Case`:
 
@@ -206,7 +206,7 @@ The most frequent other feature values with which `ADV` and `Case` co-occurred: 
 
 11 [sk-pos/VERB]() tokens (0% of all `VERB` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `VERB` and `Case` co-occurred: <tt><a href="Polarity.html">Polarity</a>=Pos</tt> (11; 100%), <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (11; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (11; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (11; 100%), <tt><a href="Aspect.html">Aspect</a>=EMPTY</tt> (11; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (11; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (8; 73%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (7; 64%), <tt><a href="Animacy.html">Animacy</a>=Anim</tt> (7; 64%).
+The most frequent other feature values with which `VERB` and `Case` co-occurred: <tt><a href="Aspect.html">Aspect</a>=EMPTY</tt> (11; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (11; 100%), <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (11; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (11; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (11; 100%), <tt><a href="Polarity.html">Polarity</a>=Pos</tt> (11; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (8; 73%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (7; 64%), <tt><a href="Animacy.html">Animacy</a>=Anim</tt> (7; 64%).
 
 `VERB` tokens may have the following values of `Case`:
 

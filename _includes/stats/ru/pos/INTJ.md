@@ -11,9 +11,9 @@ The 10 most frequent `INTJ` lemmas: <em>ах, о, ох, а, та-да-дам, э
 
 The 10 most frequent `INTJ` types:  <em>ах, о, ох, Эх, а, та-да-дам, ой, Ай, Алло, Н-да</em>
 
-The 10 most frequent ambiguous lemmas: <em>о</em> ([ADP]() 3607, [INTJ]() 11, [PROPN]() 2, [NOUN]() 2), <em>ох</em> ([INTJ]() 6, [PROPN]() 1, [PART]() 1), <em>а</em> ([CCONJ]() 5028, [PROPN]() 14, [INTJ]() 4, [PART]() 4, [X]() 4, [NOUN]() 1), <em>щелк</em> ([INTJ]() 2, [NOUN]() 1), <em>ага</em> ([PART]() 2, [INTJ]() 1), <em>ау</em> ([INTJ]() 1, [NOUN]() 1), <em>бух</em> ([INTJ]() 1, [X]() 1), <em>есть</em> ([VERB]() 42, [INTJ]() 1)
+The 10 most frequent ambiguous lemmas: <em>о</em> ([ADP]() 3607, [INTJ]() 11, [PROPN]() 2, [NOUN]() 2), <em>ох</em> ([INTJ]() 6, [PART]() 1, [PROPN]() 1), <em>а</em> ([CCONJ]() 5028, [PROPN]() 14, [INTJ]() 4, [PART]() 4, [X]() 4, [NOUN]() 1), <em>щелк</em> ([INTJ]() 2, [NOUN]() 1), <em>ага</em> ([PART]() 2, [INTJ]() 1), <em>ау</em> ([INTJ]() 1, [NOUN]() 1), <em>бух</em> ([INTJ]() 1, [X]() 1), <em>есть</em> ([VERB]() 42, [INTJ]() 1)
 
-The 10 most frequent ambiguous types:  <em>о</em> ([ADP]() 2681, [INTJ]() 5, [NOUN]() 1), <em>ох</em> ([INTJ]() 3, [PART]() 1), <em>а</em> ([CCONJ]() 3431, [X]() 4, [INTJ]() 3, [PART]() 1), <em>Ау</em> ([INTJ]() 1, [NOUN]() 1), <em>Господи</em> ([NOUN]() 5, [PROPN]() 3, [INTJ]() 1), <em>бух</em> ([X]() 1, [INTJ]() 1), <em>есть</em> ([VERB]() 1066, [AUX]() 178, [INTJ]() 1), <em>э</em> ([NOUN]() 5, [ADJ]() 1, [INTJ]() 1)
+The 10 most frequent ambiguous types:  <em>о</em> ([ADP]() 2681, [INTJ]() 5, [NOUN]() 1), <em>ох</em> ([INTJ]() 3, [PART]() 1), <em>а</em> ([CCONJ]() 3431, [X]() 4, [INTJ]() 3, [PART]() 1), <em>Ау</em> ([NOUN]() 1, [INTJ]() 1), <em>Господи</em> ([NOUN]() 5, [PROPN]() 3, [INTJ]() 1), <em>бух</em> ([X]() 1, [INTJ]() 1), <em>есть</em> ([VERB]() 1066, [AUX]() 178, [INTJ]() 1), <em>э</em> ([NOUN]() 5, [ADJ]() 1, [INTJ]() 1)
 
 
 * <em>о</em>
@@ -29,8 +29,8 @@ The 10 most frequent ambiguous types:  <em>о</em> ([ADP]() 2681, [INTJ]() 5, [N
   * [INTJ]() 3: <em>- Как _ он нас , <b>а</b> ? . .</em>
   * [PART]() 1: <em>- И с чего это тебя разносит , <b>а</b> ?</em>
 * <em>Ау</em>
-  * [INTJ]() 1: <em>- <b>Ау</b> , - сказал он миролюбиво и вздрогнул : над домом пролетел самолет .</em>
   * [NOUN]() 1: <em><b>Ау</b> !</em>
+  * [INTJ]() 1: <em>- <b>Ау</b> , - сказал он миролюбиво и вздрогнул : над домом пролетел самолет .</em>
 * <em>Господи</em>
   * [NOUN]() 5: <em><b>Господи</b> ! недопустимо так унижать людей !</em>
   * [PROPN]() 3: <em>Ну так , <b>Господи</b> , с кем не бывает ?</em>

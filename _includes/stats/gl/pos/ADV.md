@@ -5,7 +5,7 @@
 ## Treebank Statistics (UD_Galician)
 
 There are 334 `ADV` lemmas (3%), 335 `ADV` types (2%) and 2599 `ADV` tokens (2%).
-Out of 15 observed tags, the rank of `ADV` is: 6 in number of lemmas, 6 in number of types and 9 in number of tokens.
+Out of 16 observed tags, the rank of `ADV` is: 6 in number of lemmas, 6 in number of types and 9 in number of tokens.
 
 The 10 most frequent `ADV` lemmas: <em>máis, tamén, así, xa, tanto, aínda, moi, só, dentro, ademais</em>
 
@@ -51,7 +51,7 @@ The 10 most frequent ambiguous types:  <em>tanto</em> ([ADV]() 95, [DET]() 3), <
 
 ## Morphology
 
-The form / lemma ratio of `ADV` is 1.002994 (the average of all parts of speech is 1.505536).
+The form / lemma ratio of `ADV` is 1.002994 (the average of all parts of speech is 1.508250).
 
 The 1st highest number of forms (2) was observed with the lemma “igual”: <em>igual, igualmente</em>.
 
@@ -59,28 +59,34 @@ The 2nd highest number of forms (1) was observed with the lemma “abaixo”: <e
 
 The 3rd highest number of forms (1) was observed with the lemma “abondo”: <em>abondo</em>.
 
-`ADV` does not occur with any features.
+`ADV` occurs with 1 features: [gl-feat/Foreign]() (1; 0% instances)
+
+`ADV` occurs with 1 feature-value pairs: `Foreign=Yes`
+
+`ADV` occurs with 2 feature combinations.
+The most frequent feature combination is `_` (2598 tokens).
+Examples: <em>máis, tamén, así, xa, tanto, aínda, moi, só, dentro, ademais</em>
 
 
 ## Relations
 
-`ADV` nodes are attached to their parents using 11 different relations: [gl-dep/case]() (1362; 52% instances), [gl-dep/advmod]() (555; 21% instances), [gl-dep/det]() (530; 20% instances), [gl-dep/cc]() (91; 4% instances), [gl-dep/nmod]() (24; 1% instances), [gl-dep/cop]() (15; 1% instances), [gl-dep/ccomp]() (7; 0% instances), [gl-dep/dep]() (7; 0% instances), [gl-dep/root]() (6; 0% instances), [gl-dep/amod]() (1; 0% instances), [gl-dep/foreign]() (1; 0% instances)
+`ADV` nodes are attached to their parents using 13 different relations: [gl-dep/case]() (1362; 52% instances), [gl-dep/advmod]() (555; 21% instances), [gl-dep/det]() (530; 20% instances), [gl-dep/cc]() (91; 4% instances), [gl-dep/obl]() (19; 1% instances), [gl-dep/ccomp]() (14; 1% instances), [gl-dep/root]() (11; 0% instances), [gl-dep/dep]() (8; 0% instances), [gl-dep/nmod]() (5; 0% instances), [gl-dep/amod]() (1; 0% instances), [gl-dep/flat]() (1; 0% instances), [gl-dep/obj]() (1; 0% instances), [gl-dep/xcomp]() (1; 0% instances)
 
-Parents of `ADV` nodes belong to 13 different parts of speech: [VERB]() (1488; 57% instances), [ADJ]() (475; 18% instances), [ADP]() (258; 10% instances), [NOUN]() (160; 6% instances), [ADV]() (111; 4% instances), [SCONJ]() (48; 2% instances), [NUM]() (28; 1% instances), [DET]() (17; 1% instances), [ROOT]() (6; 0% instances), [PRON]() (4; 0% instances), [PROPN]() (2; 0% instances), [CONJ]() (1; 0% instances), [PUNCT]() (1; 0% instances)
+Parents of `ADV` nodes belong to 12 different parts of speech: [VERB]() (1430; 55% instances), [ADJ]() (548; 21% instances), [NOUN]() (330; 13% instances), [ADV]() (116; 4% instances), [SCONJ]() (48; 2% instances), [ADP]() (42; 2% instances), [NUM]() (34; 1% instances), [DET]() (21; 1% instances), [PRON]() (12; 0% instances), [ROOT]() (11; 0% instances), [PROPN]() (5; 0% instances), [CCONJ]() (2; 0% instances)
 
-1920 (74%) `ADV` nodes are leaves.
+1857 (71%) `ADV` nodes are leaves.
 
-421 (16%) `ADV` nodes have one child.
+409 (16%) `ADV` nodes have one child.
 
-207 (8%) `ADV` nodes have two children.
+238 (9%) `ADV` nodes have two children.
 
-51 (2%) `ADV` nodes have three or more children.
+95 (4%) `ADV` nodes have three or more children.
 
-The highest child degree of a `ADV` node is 5.
+The highest child degree of a `ADV` node is 6.
 
-Children of `ADV` nodes are attached using 11 different relations: [gl-dep/punct]() (436; 44% instances), [gl-dep/case]() (231; 23% instances), [gl-dep/det]() (111; 11% instances), [gl-dep/ccomp]() (106; 11% instances), [gl-dep/advmod]() (35; 4% instances), [gl-dep/nummod]() (25; 3% instances), [gl-dep/nmod]() (21; 2% instances), [gl-dep/cc]() (15; 2% instances), [gl-dep/dep]() (8; 1% instances), [gl-dep/mark]() (7; 1% instances), [gl-dep/aux]() (1; 0% instances)
+Children of `ADV` nodes are attached using 14 different relations: [gl-dep/punct]() (500; 41% instances), [gl-dep/obl]() (219; 18% instances), [gl-dep/ccomp]() (132; 11% instances), [gl-dep/case]() (118; 10% instances), [gl-dep/det]() (115; 9% instances), [gl-dep/advmod]() (40; 3% instances), [gl-dep/nummod]() (25; 2% instances), [gl-dep/cc]() (16; 1% instances), [gl-dep/mark]() (12; 1% instances), [gl-dep/cop]() (11; 1% instances), [gl-dep/dep]() (10; 1% instances), [gl-dep/xcomp]() (7; 1% instances), [gl-dep/nsubj]() (5; 0% instances), [gl-dep/aux]() (1; 0% instances)
 
-Children of `ADV` nodes belong to 13 different parts of speech: [PUNCT]() (436; 44% instances), [ADP]() (240; 24% instances), [ADV]() (111; 11% instances), [VERB]() (66; 7% instances), [DET]() (35; 4% instances), [NOUN]() (26; 3% instances), [NUM]() (25; 3% instances), [PRON]() (16; 2% instances), [CONJ]() (14; 1% instances), [PART]() (10; 1% instances), [SCONJ]() (8; 1% instances), [ADJ]() (7; 1% instances), [PROPN]() (2; 0% instances)
+Children of `ADV` nodes belong to 14 different parts of speech: [PUNCT]() (500; 41% instances), [NOUN]() (195; 16% instances), [ADP]() (131; 11% instances), [ADV]() (116; 10% instances), [VERB]() (83; 7% instances), [NUM]() (45; 4% instances), [DET]() (39; 3% instances), [PRON]() (20; 2% instances), [ADJ]() (19; 2% instances), [CCONJ]() (15; 1% instances), [SCONJ]() (13; 1% instances), [PART]() (12; 1% instances), [PROPN]() (12; 1% instances), [AUX]() (11; 1% instances)
 
 
 
@@ -97,7 +103,7 @@ The 10 most frequent `ADV` types:  <em>non, máis, como, así, tamén, xa, moi, 
 
 The 10 most frequent ambiguous lemmas: <em>máis</em> ([ADV]() 60, [PROPN]() 1), <em>como</em> ([ADV]() 53, [SCONJ]() 30), <em>moito</em> ([ADV]() 31, [DET]() 17, [PRON]() 1), <em>tanto</em> ([ADV]() 21, [PRON]() 3, [DET]() 2), <em>só</em> ([ADV]() 17, [ADJ]() 4), <em>si</em> ([ADV]() 9, [PRON]() 2), <em>nunca</em> ([ADV]() 8, [PROPN]() 1), <em>mesmo</em> ([DET]() 14, [PRON]() 8, [ADV]() 5), <em>arredor</em> ([ADV]() 4, [NOUN]() 1), <em>mais</em> ([SCONJ]() 12, [ADV]() 4)
 
-The 10 most frequent ambiguous types:  <em>como</em> ([ADV]() 44, [SCONJ]() 29), <em>só</em> ([ADV]() 15, [ADJ]() 3), <em>tanto</em> ([ADV]() 9, [PRON]() 3), <em>si</em> ([ADV]() 8, [PRON]() 2), <em>moito</em> ([ADV]() 7, [DET]() 4, [PRON]() 1), <em>mesmo</em> ([DET]() 10, [PRON]() 5, [ADV]() 5), <em>arredor</em> ([ADV]() 4, [NOUN]() 1), <em>mais</em> ([SCONJ]() 9, [ADV]() 3), <em>mellor</em> ([ADJ]() 10, [ADV]() 4), <em>canto</em> ([ADV]() 3, [PRON]() 2)
+The 10 most frequent ambiguous types:  <em>como</em> ([ADV]() 44, [SCONJ]() 29), <em>só</em> ([ADV]() 15, [ADJ]() 3), <em>tanto</em> ([ADV]() 9, [PRON]() 3), <em>si</em> ([ADV]() 8, [PRON]() 2), <em>moito</em> ([ADV]() 7, [DET]() 4, [PRON]() 1), <em>mesmo</em> ([DET]() 10, [ADV]() 5, [PRON]() 5), <em>arredor</em> ([ADV]() 4, [NOUN]() 1), <em>mais</em> ([SCONJ]() 9, [ADV]() 3), <em>mellor</em> ([ADJ]() 10, [ADV]() 4), <em>canto</em> ([ADV]() 3, [PRON]() 2)
 
 
 * <em>como</em>
@@ -118,8 +124,8 @@ The 10 most frequent ambiguous types:  <em>como</em> ([ADV]() 44, [SCONJ]() 29),
   * [PRON]() 1: <em>Ademais se o alumno vai ser profesor de escola ou de música en xeral serve de <b>moito</b> ter certas nocións básicas para realizar acompañamentos .</em>
 * <em>mesmo</em>
   * [DET]() 10: <em>Quixera un Maragall con o <b>mesmo</b> peso que ten en o Estado .</em>
-  * [PRON]() 5: <em>A miña postura sobre iso vén de longo e o <b>mesmo</b> sucede con o meu partido .</em>
   * [ADV]() 5: <em>Os preámbulos de a guerra ianqui sempre comezan así : avisos a o mundo de que o terrorismo utiliza bases de o país que os imperialistas queren atacar , ou de que nace alí <b>mesmo</b> .</em>
+  * [PRON]() 5: <em>A miña postura sobre iso vén de longo e o <b>mesmo</b> sucede con o meu partido .</em>
 * <em>arredor</em>
   * [ADV]() 4: <em>Cada ano acaban a carreira en Galicia <b>arredor</b> de cen xornalistas .</em>
   * [NOUN]() 1: <em>As artes visuais avanzaron porque están a o noso <b>arredor</b> .</em>

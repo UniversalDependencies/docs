@@ -11,9 +11,9 @@ The 10 most frequent `PROPN` lemmas: <em>Praha, ČR, Evropa, LN, Jan, Jiří, N�
 
 The 10 most frequent `PROPN` types:  <em>Praha, ČR, Praze, LN, USA, ODS, J, Jiří, Jan, OSN</em>
 
-The 10 most frequent ambiguous lemmas: <em>J</em> ([PROPN]() 381, [ADJ]() 24), <em>M</em> ([PROPN]() 219, [NOUN]() 8), <em>V</em> ([PROPN]() 183, [NUM]() 21, [NOUN]() 7, [ADJ]() 5), <em>A</em> ([PROPN]() 158, [ADJ]() 8, [NOUN]() 8), <em>York</em> ([PROPN]() 145, [ADJ]() 4), <em>P</em> ([PROPN]() 127, [ADJ]() 4, [NOUN]() 2), <em>čt</em> ([NOUN]() 4, [PROPN]() 2), <em>S</em> ([PROPN]() 108, [ADJ]() 11, [NOUN]() 2), <em>r</em> ([NOUN]() 5, [ADV]() 1, [PROPN]() 1), <em>F</em> ([PROPN]() 85, [ADJ]() 10, [NOUN]() 9)
+The 10 most frequent ambiguous lemmas: <em>J</em> ([PROPN]() 381, [ADJ]() 24), <em>M</em> ([PROPN]() 219, [NOUN]() 8), <em>V</em> ([PROPN]() 183, [NUM]() 21, [NOUN]() 7, [ADJ]() 5), <em>A</em> ([PROPN]() 158, [NOUN]() 8, [ADJ]() 8), <em>York</em> ([PROPN]() 145, [ADJ]() 4), <em>P</em> ([PROPN]() 127, [ADJ]() 4, [NOUN]() 2), <em>čt</em> ([NOUN]() 4, [PROPN]() 2), <em>S</em> ([PROPN]() 108, [ADJ]() 11, [NOUN]() 2), <em>r</em> ([NOUN]() 5, [PROPN]() 1, [ADV]() 1), <em>F</em> ([PROPN]() 85, [ADJ]() 10, [NOUN]() 9)
 
-The 10 most frequent ambiguous types:  <em>J</em> ([PROPN]() 381, [ADJ]() 24, [NOUN]() 3), <em>M</em> ([PROPN]() 219, [NOUN]() 35), <em>V</em> ([ADP]() 3315, [PROPN]() 183, [NUM]() 21, [NOUN]() 15, [ADJ]() 6), <em>A</em> ([CCONJ]() 933, [PROPN]() 158, [NOUN]() 54, [ADJ]() 19, [X]() 1), <em>Rusko</em> ([PROPN]() 132, [ADJ]() 3), <em>P</em> ([PROPN]() 127, [ADJ]() 15, [NOUN]() 10, [ADP]() 1), <em>Německo</em> ([PROPN]() 119, [ADJ]() 2), <em>S</em> ([ADP]() 414, [PROPN]() 109, [NOUN]() 25, [ADJ]() 13), <em>r</em> ([NOUN]() 351, [PROPN]() 1, [ADV]() 1), <em>Plzeň</em> ([PROPN]() 89, [NOUN]() 20)
+The 10 most frequent ambiguous types:  <em>J</em> ([PROPN]() 381, [ADJ]() 24, [NOUN]() 3), <em>M</em> ([PROPN]() 219, [NOUN]() 35), <em>V</em> ([ADP]() 3315, [PROPN]() 183, [NUM]() 21, [NOUN]() 15, [ADJ]() 6), <em>A</em> ([CCONJ]() 933, [PROPN]() 158, [NOUN]() 54, [ADJ]() 19, [X]() 1), <em>Rusko</em> ([PROPN]() 132, [ADJ]() 3), <em>P</em> ([PROPN]() 127, [ADJ]() 15, [NOUN]() 10, [ADP]() 1), <em>Německo</em> ([PROPN]() 119, [ADJ]() 2), <em>S</em> ([ADP]() 414, [PROPN]() 109, [NOUN]() 25, [ADJ]() 13), <em>r</em> ([NOUN]() 351, [ADV]() 1, [PROPN]() 1), <em>Plzeň</em> ([PROPN]() 89, [NOUN]() 20)
 
 
 * <em>J</em>
@@ -53,8 +53,8 @@ The 10 most frequent ambiguous types:  <em>J</em> ([PROPN]() 381, [ADJ]() 24, [N
   * [ADJ]() 13: <em>Velký úspěch má v poslední době také program <b>S</b> . P . Z .</em>
 * <em>r</em>
   * [NOUN]() 351: <em>Skutečnost <b>r</b> . 1992</em>
-  * [PROPN]() 1: <em>( <b>r</b> ) ( ČT 1 - 20.30 )</em>
   * [ADV]() 1: <em>Uwe Fink z Arizonské univerzity zkoumal spektra Yamakovy komety ( 1988 <b>r</b> ) a zjistil , že prakticky neobsahuje molekulární uhlík a kyan , čímž se výrazně liší od běžných komet .</em>
+  * [PROPN]() 1: <em>( <b>r</b> ) ( ČT 1 - 20.30 )</em>
 * <em>Plzeň</em>
   * [PROPN]() 89: <em><b>Plzeň</b> -</em>
   * [NOUN]() 20: <em>Likérka <b>Plzeň</b> Božkov míří ke 3000 Kč .</em>
@@ -111,7 +111,7 @@ The 10 most frequent `PROPN` lemmas: <em>Praha, KSČ, ROH, SSSR, ÚJČ, SSM, ČS
 
 The 10 most frequent `PROPN` types:  <em>KSČ, Praze, ROH, SSSR, ÚJČ, SSM, ČSAV, ČSSR, Praha, Škoda</em>
 
-The 10 most frequent ambiguous lemmas: <em>hora</em> ([NOUN]() 24, [PROPN]() 19), <em>VB</em> ([PROPN]() 22, [NOUN]() 4), <em>Vyšehrad</em> ([PROPN]() 8, [NOUN]() 1), <em>KRB</em> ([PROPN]() 6, [NOUN]() 1), <em>Janský</em> ([PROPN]() 5, [ADJ]() 3), <em>most</em> ([NOUN]() 42, [PROPN]() 1), <em>KS</em> ([NOUN]() 3, [PROPN]() 3), <em>MP</em> ([PROPN]() 3, [NOUN]() 1), <em>SRPŠ</em> ([PROPN]() 3, [NOUN]() 1), <em>NVP</em> ([NOUN]() 2, [PROPN]() 2)
+The 10 most frequent ambiguous lemmas: <em>hora</em> ([NOUN]() 24, [PROPN]() 19), <em>VB</em> ([PROPN]() 22, [NOUN]() 4), <em>Vyšehrad</em> ([PROPN]() 8, [NOUN]() 1), <em>KRB</em> ([PROPN]() 6, [NOUN]() 1), <em>Janský</em> ([PROPN]() 5, [ADJ]() 3), <em>most</em> ([NOUN]() 42, [PROPN]() 1), <em>KS</em> ([PROPN]() 3, [NOUN]() 3), <em>MP</em> ([PROPN]() 3, [NOUN]() 1), <em>SRPŠ</em> ([PROPN]() 3, [NOUN]() 1), <em>NVP</em> ([PROPN]() 2, [NOUN]() 2)
 
 The 10 most frequent ambiguous types:  <em>Praha</em> ([PROPN]() 100, [NOUN]() 1), <em>Škoda</em> ([PROPN]() 66, [NOUN]() 4), <em>Země</em> ([PROPN]() 29, [NOUN]() 6), <em>VB</em> ([PROPN]() 22, [NOUN]() 4), <em>Slunce</em> ([PROPN]() 13, [NOUN]() 2), <em>Svoboda</em> ([PROPN]() 10, [NOUN]() 1), <em>horách</em> ([PROPN]() 5, [NOUN]() 2), <em>Králík</em> ([PROPN]() 9, [NOUN]() 3), <em>Měsíce</em> ([PROPN]() 9, [NOUN]() 4), <em>Karpaty</em> ([PROPN]() 8, [NOUN]() 1)
 

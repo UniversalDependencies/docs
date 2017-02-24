@@ -58,7 +58,7 @@ The most frequent other feature values with which `VERB` and `Number` co-occurre
   <tr><td><tt><a href="Person.html">Person</a>=3|<a href="Polarity.html">Polarity</a>=Neg|<a href="Tense.html">Tense</a>=Past</tt></td><td></td><td>نکردند</td></tr>
   <tr><td><tt><a href="Person.html">Person</a>=3|<a href="Polarity.html">Polarity</a>=Neg|<a href="Tense.html">Tense</a>=Pres</tt></td><td>نمی‌کند, نمی‌شود</td><td>نمی‌کنند</td></tr>
   <tr><td><tt><a href="Person.html">Person</a>=3|<a href="Polarity.html">Polarity</a>=Neg|<a href="VerbForm.html">VerbForm</a>=Part</tt></td><td>نکرده, نشده</td><td>نکرده‌اند</td></tr>
-  <tr><td><tt><a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Past</tt></td><td>کرد, می‌کرد, شد, نکرد, می‌شد, نشد, نمی‌شد, کرده</td><td>کردند, می‌کردند, شدند, می‌شدند, کنند</td></tr>
+  <tr><td><tt><a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Past</tt></td><td>کرد, می‌کرد, شد, نکرد, می‌شد, نشد, نمی‌شد, کرده</td><td>کردند, می‌کردند, شدند, کنند, می‌شدند</td></tr>
   <tr><td><tt><a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Pres</tt></td><td>می‌کند, می‌شود, نمی‌شود</td><td>می‌کنند, می‌شوند</td></tr>
   <tr><td><tt><a href="Person.html">Person</a>=3|<a href="VerbForm.html">VerbForm</a>=Part</tt></td><td>کرده, شده</td><td>کرده‌اند</td></tr>
 </table>
@@ -107,7 +107,7 @@ The most frequent other feature values with which `AUX` and `Number` co-occurred
   <tr><td><tt><a href="Person.html">Person</a>=3|<a href="Polarity.html">Polarity</a>=Neg|<a href="Tense.html">Tense</a>=Past</tt></td><td></td><td>نشده‌اند</td></tr>
   <tr><td><tt><a href="Person.html">Person</a>=3|<a href="Polarity.html">Polarity</a>=Neg|<a href="Tense.html">Tense</a>=Pres</tt></td><td></td><td>نمی‌شوند</td></tr>
   <tr><td><tt><a href="Person.html">Person</a>=3|<a href="Polarity.html">Polarity</a>=Neg|<a href="VerbForm.html">VerbForm</a>=Part</tt></td><td>نشده</td><td>نشده‌اند</td></tr>
-  <tr><td><tt><a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Past</tt></td><td>شد, می‌شد, نشد, نمی‌شد, کرد, می‌کرد</td><td>شدند, می‌شدند</td></tr>
+  <tr><td><tt><a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Past</tt></td><td>شد, می‌شد, نشد, نمی‌شد, می‌کرد, کرد</td><td>شدند, می‌شدند</td></tr>
   <tr><td><tt><a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Pres</tt></td><td>می‌شود, نمی‌شود</td><td>می‌شوند, نمی‌شوند, می‌کنند</td></tr>
   <tr><td><tt><a href="Person.html">Person</a>=3|<a href="VerbForm.html">VerbForm</a>=Part</tt></td><td>شده, نشده</td><td></td></tr>
 </table>

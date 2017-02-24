@@ -15,20 +15,6 @@ The following 3 pairs of parts of speech are connected with `nsubj:pass`: [sa-po
 
 
 ~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 3 nsubj:pass	color:blue
-1	अथवा	अथVअ	ADV	_	_	4	advmod	_	Translit=athavā|LTranslit=athaVa
-2	साधू	साधु	ADV	_	Case=Acc	4	advmod	_	Translit=sādhū|LTranslit=sādhu
-3	इदम्	इदम्	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	4	nsubj:pass	_	Translit=idam|LTranslit=idam
-4	उच्यते	वच्	VERB	_	Aspect=Perf|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	Translit=ucyate|LTranslit=vac
-
-~~~
-
-
-~~~ conllu
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 3	bgColor:blue
@@ -44,6 +30,20 @@ The following 3 pairs of parts of speech are connected with `nsubj:pass`: [sa-po
 8	न	न	PART	_	Polarity=Neg	10	advmod	_	Translit=na|LTranslit=na
 9	क्षीरम्	क्षीर	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	10	obj	_	Translit=kṣīram|LTranslit=kṣīra
 10	ददाति	दा	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	advcl	_	Translit=dadāti|LTranslit=dā
+
+~~~
+
+
+~~~ conllu
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 3 nsubj:pass	color:blue
+1	अथवा	अथVअ	ADV	_	_	4	advmod	_	Translit=athavā|LTranslit=athaVa
+2	साधू	साधु	ADV	_	Case=Acc	4	advmod	_	Translit=sādhū|LTranslit=sādhu
+3	इदम्	इदम्	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	4	nsubj:pass	_	Translit=idam|LTranslit=idam
+4	उच्यते	वच्	VERB	_	Aspect=Perf|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	Translit=ucyate|LTranslit=vac
 
 ~~~
 

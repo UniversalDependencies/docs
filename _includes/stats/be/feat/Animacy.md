@@ -111,7 +111,7 @@ The most frequent other feature values with which `DET` and `Animacy` co-occurre
 
 9 [be-pos/X]() tokens (20% of all `X` tokens) have a non-empty value of `Animacy`.
 
-The most frequent other feature values with which `X` and `Animacy` co-occurred: <tt><a href="Number.html">Number</a>=Sing</tt> (9; 100%), <tt><a href="Case.html">Case</a>=Gen</tt> (9; 100%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (9; 100%).
+The most frequent other feature values with which `X` and `Animacy` co-occurred: <tt><a href="Number.html">Number</a>=Sing</tt> (9; 100%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (9; 100%), <tt><a href="Case.html">Case</a>=Gen</tt> (9; 100%).
 
 `X` tokens may have the following values of `Animacy`:
 
@@ -122,7 +122,7 @@ The most frequent other feature values with which `X` and `Animacy` co-occurred:
 
 8 [be-pos/NUM]() tokens (7% of all `NUM` tokens) have a non-empty value of `Animacy`.
 
-The most frequent other feature values with which `NUM` and `Animacy` co-occurred: <tt><a href="Case.html">Case</a>=Acc</tt> (8; 100%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (8; 100%).
+The most frequent other feature values with which `NUM` and `Animacy` co-occurred: <tt><a href="Gender.html">Gender</a>=Masc</tt> (8; 100%), <tt><a href="Case.html">Case</a>=Acc</tt> (8; 100%).
 
 `NUM` tokens may have the following values of `Animacy`:
 
@@ -139,7 +139,7 @@ The most frequent other feature values with which `NUM` and `Animacy` co-occurre
 
 5 [be-pos/VERB]() tokens (1% of all `VERB` tokens) have a non-empty value of `Animacy`.
 
-The most frequent other feature values with which `VERB` and `Animacy` co-occurred: <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (5; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (5; 100%), <tt><a href="Voice.html">Voice</a>=Pass</tt> (5; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (5; 100%), <tt><a href="Aspect.html">Aspect</a>=Perf</tt> (4; 80%), <tt><a href="Tense.html">Tense</a>=Past</tt> (4; 80%), <tt><a href="Number.html">Number</a>=Sing</tt> (3; 60%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (3; 60%).
+The most frequent other feature values with which `VERB` and `Animacy` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (5; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (5; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (5; 100%), <tt><a href="Voice.html">Voice</a>=Pass</tt> (5; 100%), <tt><a href="Tense.html">Tense</a>=Past</tt> (4; 80%), <tt><a href="Aspect.html">Aspect</a>=Perf</tt> (4; 80%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (3; 60%), <tt><a href="Number.html">Number</a>=Sing</tt> (3; 60%).
 
 `VERB` tokens may have the following values of `Animacy`:
 
@@ -158,5 +158,5 @@ The 10 most frequent relations where parent and child node agree in `Animacy`:
 <tt>NOUN --[<a href="../dep/obl.html">obl</a>]--> NOUN</tt> (14; 78%),
 <tt>NOUN --[<a href="../dep/nsubj.html">nsubj</a>]--> NOUN</tt> (12; 75%),
 <tt>NOUN --[<a href="../dep/nummod:gov.html">nummod:gov</a>]--> NOUN</tt> (10; 91%),
-<tt>NOUN --[<a href="../dep/nummod.html">nummod</a>]--> NOUN</tt> (9; 100%).
+<tt>PROPN --[<a href="../dep/nmod.html">nmod</a>]--> PROPN</tt> (9; 100%).
 

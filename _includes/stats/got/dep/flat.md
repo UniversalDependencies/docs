@@ -16,6 +16,35 @@ The following 2 pairs of parts of speech are connected with `flat`: [got-pos/ADJ
 
 
 ~~~ conllu
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 8 flat	color:blue
+1	jah	jah	CCONJ	C-	_	2	cc	_	ref=MARK_1.13
+2	was	wisan#1	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=MARK_1.13
+3	in	in	ADP	R-	_	5	case	_	ref=MARK_1.13
+4	þizai	sa	DET	Pd	Case=Dat|Gender=Fem|Number=Sing	5	det	_	ref=MARK_1.13
+5	auþidai	auþida	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	9	obl	_	ref=MARK_1.13
+6	dage	dags	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	7	nmod	_	ref=MARK_1.13
+7	fidwor	fidwor	NUM	Ma	Case=Acc|Gender=Neut|Number=Plur	9	obl	_	ref=MARK_1.13
+8	tiguns	tigjus	NUM	Ma	Case=Acc|Gender=Neut|Number=Plur	7	flat	_	ref=MARK_1.13
+9	fraisans	fraisan	VERB	V-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Pass	2	xcomp	_	ref=MARK_1.13
+10	fram	fram	ADP	R-	_	11	case	_	ref=MARK_1.13
+11	Satanin	Satana	PROPN	Ne	Case=Dat|Gender=Masc|Number=Sing	9	obl:agent	_	ref=MARK_1.13
+12	jah	jah	CCONJ	C-	_	2	cc	_	ref=MARK_1.13
+13	was	wisan#1	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	ref=MARK_1.13
+14	miþ	miþ	ADP	R-	_	15	case	_	ref=MARK_1.13
+15	diuzam	dius*	NOUN	Nb	Case=Dat|Gender=Neut|Number=Plur	13	xcomp	_	ref=MARK_1.13
+16	jah	jah	CCONJ	C-	_	2	cc	_	ref=MARK_1.13
+17	aggileis	aggilus	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	18	nsubj	_	ref=MARK_1.13
+18	andbahtidedun	andbahtjan	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	ref=MARK_1.13
+19	imma	is	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	18	iobj	_	ref=MARK_1.13
+
+~~~
+
+
+~~~ conllu
 # visual-style 31	bgColor:blue
 # visual-style 31	fgColor:white
 # visual-style 30	bgColor:blue
@@ -78,35 +107,6 @@ The following 2 pairs of parts of speech are connected with `flat`: [got-pos/ADJ
 55	anawairþin	anawairþs	ADJ	A-	Case=Dat|Degree=Pos|Gender=Masc,Neut|Number=Sing|Strength=Weak	53	nmod	_	ref=MARK_10.30
 56	libain	libains	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	29	conj	_	ref=MARK_10.30
 57	aiweinon	aiweins	ADJ	A-	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Strength=Weak	56	amod	_	ref=MARK_10.30
-
-~~~
-
-
-~~~ conllu
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 7 8 flat	color:blue
-1	jah	jah	CCONJ	C-	_	2	cc	_	ref=MARK_1.13
-2	was	wisan#1	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=MARK_1.13
-3	in	in	ADP	R-	_	5	case	_	ref=MARK_1.13
-4	þizai	sa	DET	Pd	Case=Dat|Gender=Fem|Number=Sing	5	det	_	ref=MARK_1.13
-5	auþidai	auþida	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	9	obl	_	ref=MARK_1.13
-6	dage	dags	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	7	nmod	_	ref=MARK_1.13
-7	fidwor	fidwor	NUM	Ma	Case=Acc|Gender=Neut|Number=Plur	9	obl	_	ref=MARK_1.13
-8	tiguns	tigjus	NUM	Ma	Case=Acc|Gender=Neut|Number=Plur	7	flat	_	ref=MARK_1.13
-9	fraisans	fraisan	VERB	V-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Pass	2	xcomp	_	ref=MARK_1.13
-10	fram	fram	ADP	R-	_	11	case	_	ref=MARK_1.13
-11	Satanin	Satana	PROPN	Ne	Case=Dat|Gender=Masc|Number=Sing	9	obl:agent	_	ref=MARK_1.13
-12	jah	jah	CCONJ	C-	_	2	cc	_	ref=MARK_1.13
-13	was	wisan#1	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	ref=MARK_1.13
-14	miþ	miþ	ADP	R-	_	15	case	_	ref=MARK_1.13
-15	diuzam	dius*	NOUN	Nb	Case=Dat|Gender=Neut|Number=Plur	13	xcomp	_	ref=MARK_1.13
-16	jah	jah	CCONJ	C-	_	2	cc	_	ref=MARK_1.13
-17	aggileis	aggilus	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	18	nsubj	_	ref=MARK_1.13
-18	andbahtidedun	andbahtjan	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	ref=MARK_1.13
-19	imma	is	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	18	iobj	_	ref=MARK_1.13
 
 ~~~
 

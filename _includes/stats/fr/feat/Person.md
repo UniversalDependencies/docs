@@ -16,7 +16,7 @@ The feature is used with 3 part-of-speech tags: [fr-pos/VERB]() (12563; 3% insta
 
 12563 [fr-pos/VERB]() tokens (41% of all `VERB` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (12563; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (12563; 100%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (12111; 96%), <tt><a href="Number.html">Number</a>=Sing</tt> (9981; 79%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (9922; 79%).
+The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (12563; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (12563; 100%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (12111; 96%), <tt><a href="Number.html">Number</a>=Sing</tt> (9981; 79%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (9922; 79%).
 
 `VERB` tokens may have the following values of `Person`:
 
@@ -104,12 +104,12 @@ The 10 most frequent relations where parent and child node agree in `Person`:
 <tt>VERB --[<a href="../dep/conj.html">conj</a>]--> VERB</tt> (1176; 66%),
 <tt>PRON --[<a href="../dep/acl:relcl.html">acl:relcl</a>]--> VERB</tt> (152; 53%),
 <tt>PRON --[<a href="../dep/expl.html">expl</a>]--> PRON</tt> (46; 90%),
-<tt>PRON --[<a href="../dep/conj.html">conj</a>]--> PRON</tt> (4; 57%),
 <tt>VERB --[<a href="../dep/dislocated.html">dislocated</a>]--> PRON</tt> (4; 57%),
+<tt>PRON --[<a href="../dep/conj.html">conj</a>]--> PRON</tt> (4; 57%),
 <tt>AUX --[<a href="../dep/expl.html">expl</a>]--> PRON</tt> (3; 100%),
-<tt>AUX --[<a href="../dep/conj.html">conj</a>]--> AUX</tt> (2; 67%),
-<tt>VERB --[<a href="../dep/advcl.html">advcl</a>]--> PRON</tt> (2; 100%),
-<tt>AUX --[<a href="../dep/conj.html">conj</a>]--> VERB</tt> (2; 67%).
+<tt>PRON --[<a href="../dep/reparandum.html">reparandum</a>]--> PRON</tt> (2; 100%),
+<tt>AUX --[<a href="../dep/conj.html">conj</a>]--> VERB</tt> (2; 67%),
+<tt>AUX --[<a href="../dep/conj.html">conj</a>]--> AUX</tt> (2; 67%).
 
 
 
@@ -194,7 +194,7 @@ The most frequent other feature values with which `AUX` and `Person` co-occurred
 
 2 [fr-pos/DET]() tokens (0% of all `DET` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `DET` and `Person` co-occurred: <tt><a href="Definite.html">Definite</a>=EMPTY</tt> (2; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (2; 100%), <tt><a href="Gender.html">Gender</a>=Fem</tt> (2; 100%), <tt><a href="PronType.html">PronType</a>=Art</tt> (2; 100%).
+The most frequent other feature values with which `DET` and `Person` co-occurred: <tt><a href="Number.html">Number</a>=Sing</tt> (2; 100%), <tt><a href="Gender.html">Gender</a>=Fem</tt> (2; 100%), <tt><a href="PronType.html">PronType</a>=Art</tt> (2; 100%), <tt><a href="Definite.html">Definite</a>=EMPTY</tt> (2; 100%).
 
 `DET` tokens may have the following values of `Person`:
 
@@ -282,7 +282,7 @@ The most frequent other feature values with which `PRON` and `Person` co-occurre
 
 1561 [fr-pos/VERB]() tokens (33% of all `VERB` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (1561; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (1561; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (1561; 100%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (1476; 95%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (1203; 77%), <tt><a href="Number.html">Number</a>=Sing</tt> (1130; 72%).
+The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (1561; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (1561; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (1561; 100%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (1476; 95%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (1203; 77%), <tt><a href="Number.html">Number</a>=Sing</tt> (1130; 72%).
 
 `VERB` tokens may have the following values of `Person`:
 

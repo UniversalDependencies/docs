@@ -40,7 +40,7 @@ The most frequent other feature values with which `PROPN` and `Person` co-occurr
 
 477 [ta-pos/AUX]() tokens (76% of all `AUX` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `AUX` and `Person` co-occurred: <tt><a href="Polarity.html">Polarity</a>=Pos</tt> (466; 98%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (419; 88%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (419; 88%), <tt><a href="Voice.html">Voice</a>=Act</tt> (401; 84%), <tt><a href="Polite.html">Polite</a>=EMPTY</tt> (392; 82%), <tt><a href="Number.html">Number</a>=Sing</tt> (355; 74%), <tt><a href="Gender.html">Gender</a>=Neut</tt> (351; 74%).
+The most frequent other feature values with which `AUX` and `Person` co-occurred: <tt><a href="Polarity.html">Polarity</a>=Pos</tt> (466; 98%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (419; 88%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (419; 88%), <tt><a href="Voice.html">Voice</a>=Act</tt> (401; 84%), <tt><a href="Polite.html">Polite</a>=EMPTY</tt> (392; 82%), <tt><a href="Number.html">Number</a>=Sing</tt> (355; 74%), <tt><a href="Gender.html">Gender</a>=Neut</tt> (351; 74%).
 
 `AUX` tokens may have the following values of `Person`:
 
@@ -68,7 +68,7 @@ The most frequent other feature values with which `AUX` and `Person` co-occurred
 
 437 [ta-pos/VERB]() tokens (37% of all `VERB` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="Polarity.html">Polarity</a>=Pos</tt> (435; 100%), <tt><a href="Voice.html">Voice</a>=Act</tt> (434; 99%), <tt><a href="Number.html">Number</a>=Sing</tt> (351; 80%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (300; 69%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (300; 69%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (299; 68%), <tt><a href="Polite.html">Polite</a>=EMPTY</tt> (294; 67%), <tt><a href="Gender.html">Gender</a>=Neut</tt> (270; 62%), <tt><a href="Tense.html">Tense</a>=Past</tt> (234; 54%).
+The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="Polarity.html">Polarity</a>=Pos</tt> (435; 100%), <tt><a href="Voice.html">Voice</a>=Act</tt> (434; 99%), <tt><a href="Number.html">Number</a>=Sing</tt> (351; 80%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (300; 69%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (300; 69%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (299; 68%), <tt><a href="Polite.html">Polite</a>=EMPTY</tt> (294; 67%), <tt><a href="Gender.html">Gender</a>=Neut</tt> (270; 62%), <tt><a href="Tense.html">Tense</a>=Past</tt> (234; 54%).
 
 `VERB` tokens may have the following values of `Person`:
 
@@ -109,7 +109,7 @@ The most frequent other feature values with which `PRON` and `Person` co-occurre
   <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Number.html">Number</a>=Sing</tt></td><td>தன்னுடைய</td><td></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Number.html">Number</a>=Sing|<a href="Reflex.html">Reflex</a>=Yes</tt></td><td></td><td>தனது</td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Number.html">Number</a>=Plur</tt></td><td></td><td>தங்கள்</td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Number.html">Number</a>=Plur|<a href="Reflex.html">Reflex</a>=Yes</tt></td><td></td><td>தங்களின், தங்களது</td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Number.html">Number</a>=Plur|<a href="Reflex.html">Reflex</a>=Yes</tt></td><td></td><td>தங்களது, தங்களின்</td></tr>
 </table>
 
 `Person` seems to be **lexical feature** of `PRON`. 96% lemmas (24) occur only with one value of `Person`.
@@ -131,7 +131,7 @@ The most frequent other feature values with which `NUM` and `Person` co-occurred
 
 15 [ta-pos/PART]() tokens (2% of all `PART` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `PART` and `Person` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=Ger</tt> (15; 100%), <tt><a href="Polarity.html">Polarity</a>=Pos</tt> (15; 100%).
+The most frequent other feature values with which `PART` and `Person` co-occurred: <tt><a href="Polarity.html">Polarity</a>=Pos</tt> (15; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Ger</tt> (15; 100%).
 
 `PART` tokens may have the following values of `Person`:
 

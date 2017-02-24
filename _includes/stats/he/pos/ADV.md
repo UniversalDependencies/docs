@@ -11,7 +11,7 @@ The 10 most frequent `ADV` lemmas: לא, גם, יותר, רק, מה, _, עוד, 
 
 The 10 most frequent `ADV` types:  לא, גם, יותר, רק, מה, עוד, כך, אתמול, כבר, ביותר
 
-The 10 most frequent ambiguous lemmas: מה ([ADV]() 163, [PRON]() 5), _ ([PUNCT]() 16916, [NUM]() 1759, [ADP]() 535, [NOUN]() 338, [VERB]() 248, [DET]() 229, [ADJ]() 187, [ADV]() 155, [PRON]() 129, [X]() 109, [CCONJ]() 102, [AUX]() 88, [SCONJ]() 47, [PROPN]() 24, [PART]() 17), עוד ([ADV]() 134, [PROPN]() 1, [NOUN]() 1), כך ([PRON]() 189, [ADV]() 113, [PROPN]() 32), מי ([ADV]() 91, [PRON]() 3), שם ([ADV]() 90, [NOUN]() 76, [VERB]() 17), כן ([ADV]() 67, [NOUN]() 1, [ADJ]() 1), אי ([ADV]() 58, [NOUN]() 19), פעם ([NOUN]() 44, [ADV]() 37), פחות ([ADV]() 36, [ADJ]() 3)
+The 10 most frequent ambiguous lemmas: מה ([ADV]() 163, [PRON]() 5), _ ([PUNCT]() 16916, [NUM]() 1759, [ADP]() 535, [NOUN]() 338, [VERB]() 248, [DET]() 229, [ADJ]() 187, [ADV]() 155, [PRON]() 129, [X]() 109, [CCONJ]() 102, [AUX]() 88, [SCONJ]() 47, [PROPN]() 24, [PART]() 17), עוד ([ADV]() 134, [NOUN]() 1, [PROPN]() 1), כך ([PRON]() 189, [ADV]() 113, [PROPN]() 32), מי ([ADV]() 91, [PRON]() 3), שם ([ADV]() 90, [NOUN]() 76, [VERB]() 17), כן ([ADV]() 67, [NOUN]() 1, [ADJ]() 1), אי ([ADV]() 58, [NOUN]() 19), פעם ([NOUN]() 44, [ADV]() 37), פחות ([ADV]() 36, [ADJ]() 3)
 
 The 10 most frequent ambiguous types:  יותר ([ADV]() 217, [VERB]() 1), עוד ([ADV]() 132, [ADP]() 4, [NOUN]() 1), כך ([PRON]() 189, [ADV]() 113, [PROPN]() 34), מי ([ADV]() 91, [NOUN]() 3), שם ([ADV]() 90, [NOUN]() 31, [VERB]() 6), אין ([VERB]() 152, [ADV]() 71, [AUX]() 14, [NOUN]() 2), כן ([ADV]() 67, [PRON]() 48), אי ([ADV]() 58, [NOUN]() 18), פעם ([ADV]() 37, [NOUN]() 29), פחות ([ADV]() 36, [X]() 1)
 

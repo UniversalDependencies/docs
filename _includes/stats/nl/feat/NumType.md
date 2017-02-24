@@ -28,7 +28,7 @@ The most frequent other feature values with which `NUM` and `NumType` co-occurre
 
 953 [nl-pos/DET]() tokens (4% of all `DET` tokens) have a non-empty value of `NumType`.
 
-The most frequent other feature values with which `DET` and `NumType` co-occurred: <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (953; 100%), <tt><a href="Definite.html">Definite</a>=EMPTY</tt> (953; 100%), <tt><a href="PronType.html">PronType</a>=Ind</tt> (953; 100%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (934; 98%).
+The most frequent other feature values with which `DET` and `NumType` co-occurred: <tt><a href="Definite.html">Definite</a>=EMPTY</tt> (953; 100%), <tt><a href="PronType.html">PronType</a>=Ind</tt> (953; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (953; 100%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (934; 98%).
 
 `DET` tokens may have the following values of `NumType`:
 
@@ -41,7 +41,7 @@ The most frequent other feature values with which `DET` and `NumType` co-occurre
 
 506 [nl-pos/ADJ]() tokens (4% of all `ADJ` tokens) have a non-empty value of `NumType`.
 
-The most frequent other feature values with which `ADJ` and `NumType` co-occurred: <tt><a href="Case.html">Case</a>=EMPTY</tt> (506; 100%), <tt><a href="Variant.html">Variant</a>=EMPTY</tt> (506; 100%), <tt><a href="Degree.html">Degree</a>=EMPTY</tt> (506; 100%).
+The most frequent other feature values with which `ADJ` and `NumType` co-occurred: <tt><a href="Variant.html">Variant</a>=EMPTY</tt> (506; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (506; 100%), <tt><a href="Degree.html">Degree</a>=EMPTY</tt> (506; 100%).
 
 `ADJ` tokens may have the following values of `NumType`:
 
@@ -61,6 +61,6 @@ The 10 most frequent relations where parent and child node agree in `NumType`:
 <tt>ADJ --[<a href="../dep/conj.html">conj</a>]--> ADJ</tt> (9; 69%),
 <tt>NUM --[<a href="../dep/cc.html">cc</a>]--> NUM</tt> (6; 100%),
 <tt>DET --[<a href="../dep/conj.html">conj</a>]--> DET</tt> (4; 67%),
-<tt>DET --[<a href="../dep/det:nummod.html">det:nummod</a>]--> DET</tt> (3; 100%),
-<tt>NUM --[<a href="../dep/conj.html">conj</a>]--> DET</tt> (3; 75%).
+<tt>NUM --[<a href="../dep/conj.html">conj</a>]--> DET</tt> (3; 75%),
+<tt>DET --[<a href="../dep/det:nummod.html">det:nummod</a>]--> DET</tt> (3; 100%).
 

@@ -16,7 +16,7 @@ The feature is used with 2 part-of-speech tags: [bg-pos/PRON]() (1362; 1% instan
 
 1362 [bg-pos/PRON]() tokens (15% of all `PRON` tokens) have a non-empty value of `Poss`.
 
-The most frequent other feature values with which `PRON` and `Poss` co-occurred: <tt><a href="PronType.html">PronType</a>=Prs</tt> (1362; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (1362; 100%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (1362; 100%), <tt><a href="Reflex.html">Reflex</a>=EMPTY</tt> (756; 56%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (756; 56%).
+The most frequent other feature values with which `PRON` and `Poss` co-occurred: <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (1362; 100%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (1362; 100%), <tt><a href="PronType.html">PronType</a>=Prs</tt> (1362; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (756; 56%), <tt><a href="Reflex.html">Reflex</a>=EMPTY</tt> (756; 56%).
 
 `PRON` tokens may have the following values of `Poss`:
 
@@ -27,7 +27,7 @@ The most frequent other feature values with which `PRON` and `Poss` co-occurred:
 
 465 [bg-pos/DET]() tokens (22% of all `DET` tokens) have a non-empty value of `Poss`.
 
-The most frequent other feature values with which `DET` and `Poss` co-occurred: <tt><a href="Case.html">Case</a>=EMPTY</tt> (465; 100%), <tt><a href="PronType.html">PronType</a>=Prs</tt> (465; 100%), <tt><a href="Definite.html">Definite</a>=Def</tt> (342; 74%), <tt><a href="Number.html">Number</a>=Sing</tt> (305; 66%).
+The most frequent other feature values with which `DET` and `Poss` co-occurred: <tt><a href="PronType.html">PronType</a>=Prs</tt> (465; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (465; 100%), <tt><a href="Definite.html">Definite</a>=Def</tt> (342; 74%), <tt><a href="Number.html">Number</a>=Sing</tt> (305; 66%).
 
 `DET` tokens may have the following values of `Poss`:
 

@@ -37,32 +37,6 @@ The following 7 pairs of parts of speech are connected with `advmod`: [kk-pos/VE
 
 
 ~~~ conllu
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 9 8 advmod	color:blue
-1	Бітеу	бітеу	ADJ	adj	_	2	amod	_	_
-2	жара	жара	NOUN	n	Case=Nom	0	root	_	_
-3	болды	бол	AUX	v	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	cop	_	SpaceAfter=No
-4	,	,	PUNCT	cm	_	2	punct	_	_
-5	жалғыз	жалғыз	ADJ	adj	_	6	advmod	_	_
-6	өртенді	өртен	VERB	v	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	parataxis	_	SpaceAfter=No
-7	,	,	PUNCT	cm	_	6	punct	_	_
-8	жалғыз	жалғыз	ADJ	adj	_	9	advmod	_	_
-9	жылады	жыла	VERB	v	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	parataxis	_	SpaceAfter=No
-10	,	,	PUNCT	cm	_	9	punct	_	_
-11	дүниеден	дүние	NOUN	n	Case=Abl	12	obl	_	_
-12	безді	без	VERB	v	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	parataxis	_	SpaceAfter=No
-13	,	,	PUNCT	cm	_	12	punct	_	_
-14	сопы	сопы	NOUN	n	Case=Nom	2	parataxis	_	_
-15	болды	бол	AUX	v	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	14	cop	_	SpaceAfter=No
-16	.	.	PUNCT	sent	_	14	punct	_	_
-
-~~~
-
-
-~~~ conllu
 # visual-style 23	bgColor:blue
 # visual-style 23	fgColor:white
 # visual-style 22	bgColor:blue
@@ -94,6 +68,28 @@ The following 7 pairs of parts of speech are connected with `advmod`: [kk-pos/VE
 24	айтушы	айт	VERB	v	Mood=Pot|VerbForm=Part	0	root	_	_
 25	еді	е	AUX	cop	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	24	cop	_	SpaceAfter=No
 26	.	.	PUNCT	sent	_	24	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 1 advmod	color:blue
+1	Қанша	қанша	PRON	prn	Case=Nom|PronType=Int	2	advmod	_	_
+2	жалынса	жалын	VERB	v	Mood=Cnd|Number=Sing|Person=3|VerbForm=Conv	11	advcl	_	_
+3	да	да	ADV	postadv	_	2	advmod	_	_
+4	,	,	PUNCT	cm	_	6	punct	_	_
+5	қанша	қанша	PRON	prn	Case=Nom|PronType=Int	6	advmod	_	_
+6	жыласа	жыла	VERB	v	Mood=Cnd|Number=Sing|Person=3|VerbForm=Conv	2	conj	_	_
+7	да	да	ADV	postadv	_	6	advmod	_	_
+8	Жасаған	Жасаған	PROPN	np	Case=Nom	11	nsubj	_	_
+9	оған	ол	PRON	prn	Case=Dat|Number=Sing|Person=3|PronType=Prs	11	obl	_	_
+10	бала	бала	NOUN	n	Case=Nom	11	obj	_	_
+11	бермеді	бер	VERB	v	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
+12	.	.	PUNCT	sent	_	11	punct	_	_
 
 ~~~
 

@@ -13,7 +13,7 @@ The 10 most frequent `NUM` types:  <em>jedan, tri, dva, dvije, jedna, pet, četi
 
 The 10 most frequent ambiguous lemmas: <em>pet</em> ([NUM]() 65, [ADJ]() 1), <em>300</em> ([NUM]() 16, [ADJ]() 1), <em>600</em> ([NUM]() 6, [ADJ]() 1), <em>sto</em> ([NUM]() 6, [SYM]() 1), <em>160</em> ([NUM]() 5, [ADJ]() 1), <em>54</em> ([NUM]() 4, [ADJ]() 2), <em>89</em> ([NUM]() 3, [ADJ]() 1), <em>dvoje</em> ([NOUN]() 5, [NUM]() 3), <em>jednom</em> ([ADV]() 17, [NUM]() 3), <em>nula</em> ([NUM]() 3, [NOUN]() 1)
 
-The 10 most frequent ambiguous types:  <em>jednom</em> ([NUM]() 38, [ADV]() 15), <em>dvoje</em> ([NOUN]() 4, [VERB]() 2, [NUM]() 1), <em>17.</em> ([ADJ]() 22, [NUM]() 1), <em>2.0</em> ([NUM]() 1, [ADP]() 1), <em>20-ak</em> ([ADV]() 1, [NUM]() 1), <em>30-ak</em> ([NUM]() 1, [ADV]() 1), <em>mlrd.</em> ([NOUN]() 1, [NUM]() 1), <em>oboje</em> ([NOUN]() 2, [NUM]() 1), <em>petnaestak</em> ([NUM]() 1, [NOUN]() 1), <em>prva</em> ([ADJ]() 30, [NUM]() 1)
+The 10 most frequent ambiguous types:  <em>jednom</em> ([NUM]() 38, [ADV]() 15), <em>dvoje</em> ([NOUN]() 4, [VERB]() 2, [NUM]() 1), <em>17.</em> ([ADJ]() 22, [NUM]() 1), <em>2.0</em> ([ADP]() 1, [NUM]() 1), <em>20-ak</em> ([ADV]() 1, [NUM]() 1), <em>30-ak</em> ([ADV]() 1, [NUM]() 1), <em>mlrd.</em> ([NOUN]() 1, [NUM]() 1), <em>oboje</em> ([NOUN]() 2, [NUM]() 1), <em>petnaestak</em> ([NUM]() 1, [NOUN]() 1), <em>prva</em> ([ADJ]() 30, [NUM]() 1)
 
 
 * <em>jednom</em>
@@ -27,14 +27,14 @@ The 10 most frequent ambiguous types:  <em>jednom</em> ([NUM]() 38, [ADV]() 15),
   * [ADJ]() 22: <em>Kosovo je proglasilo neovisnost <b>17.</b> veljače .</em>
   * [NUM]() 1: <em>Među žrtvama <b>17.</b> Studenog nekoliko je časnika Sjedinjenih Država , drugi strani diplomati i suprug grčke ministrice vanjskih poslova Dore Bakoyannis .</em>
 * <em>2.0</em>
-  * [NUM]() 1: <em>Toshibin bi se tablet trebao zvati Folio 100 te bi trebao imati 16 GB memorije , podršku za b g n Wi-Fi , Bluetooth i 3G te utor za SD kartice i HDMI te USB <b>2.0</b> priključke .</em>
   * [ADP]() 1: <em>Njegov album " My World <b>2.0</b> " , od početka godine prodan je u SAD-u u dva milijuna primjeraka .</em>
+  * [NUM]() 1: <em>Toshibin bi se tablet trebao zvati Folio 100 te bi trebao imati 16 GB memorije , podršku za b g n Wi-Fi , Bluetooth i 3G te utor za SD kartice i HDMI te USB <b>2.0</b> priključke .</em>
 * <em>20-ak</em>
   * [ADV]() 1: <em>Snježna oluja Q zahvatila je <b>20-ak</b> saveznih država u SAD-u i otežala živote više od 60 milijuna stanovnika , paralizirajući u potpunosti promet na pojedinim područjima , javlja CNN .</em>
   * [NUM]() 1: <em>Bez obzira na to kojim je romanom čitatelj ušao u Mayevo carstvo - mimo opsežnog Winnetoua dovoljno je spomenuti tek nekoliko naslova : Blago u Srebrnom jezeru , Sin lovca na medvjede , Sablast Llana Estacada i još njih <b>20-ak</b> samo o Divljem zapadu - u njemu je želio ostati .</em>
 * <em>30-ak</em>
-  * [NUM]() 1: <em>Godinama je imovina investicijskih fondova rasla gotovo geometrijskom progresijom te je 2007. dosegnula <b>30-ak</b> milijardi kuna ( mirovinski fondovi 21 milijardu ) , no u samo godinu dana okopnila je za više od dvije trećine ( na 9,8 milijardi kuna ) .</em>
   * [ADV]() 1: <em>- Najradije se sjećam <b>30-ak</b> autobusa koji su razvozili radnike u prvu , drugu i treću smjenu .</em>
+  * [NUM]() 1: <em>Godinama je imovina investicijskih fondova rasla gotovo geometrijskom progresijom te je 2007. dosegnula <b>30-ak</b> milijardi kuna ( mirovinski fondovi 21 milijardu ) , no u samo godinu dana okopnila je za više od dvije trećine ( na 9,8 milijardi kuna ) .</em>
 * <em>mlrd.</em>
   * [NOUN]() 1: <em>Vlada je najavila golem ciklus investicija u energetskom sektoru veći od 3,8 <b>mlrd.</b> eura , a za njih treba privući strane investitore .</em>
   * [NUM]() 1: <em>Srpska vlada ove godine očekuje i dodatnih 2 <b>mlrd.</b> eura izravnih investicija .</em>

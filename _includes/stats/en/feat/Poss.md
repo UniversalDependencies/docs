@@ -46,7 +46,7 @@ The feature is used with 2 part-of-speech tags: [en-pos/DET]() (514; 1% instance
 
 514 [en-pos/DET]() tokens (13% of all `DET` tokens) have a non-empty value of `Poss`.
 
-The most frequent other feature values with which `DET` and `Poss` co-occurred: <tt><a href="Definite.html">Definite</a>=EMPTY</tt> (514; 100%), <tt><a href="PronType.html">PronType</a>=Prs</tt> (514; 100%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (403; 78%).
+The most frequent other feature values with which `DET` and `Poss` co-occurred: <tt><a href="PronType.html">PronType</a>=Prs</tt> (514; 100%), <tt><a href="Definite.html">Definite</a>=EMPTY</tt> (514; 100%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (403; 78%).
 
 `DET` tokens may have the following values of `Poss`:
 
@@ -57,7 +57,7 @@ The most frequent other feature values with which `DET` and `Poss` co-occurred: 
 
 6 [en-pos/PRON]() tokens (0% of all `PRON` tokens) have a non-empty value of `Poss`.
 
-The most frequent other feature values with which `PRON` and `Poss` co-occurred: <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (6; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (6; 100%), <tt><a href="PronType.html">PronType</a>=Prs</tt> (6; 100%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (5; 83%).
+The most frequent other feature values with which `PRON` and `Poss` co-occurred: <tt><a href="Person.html">Person</a>=EMPTY</tt> (6; 100%), <tt><a href="PronType.html">PronType</a>=Prs</tt> (6; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (6; 100%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (5; 83%).
 
 `PRON` tokens may have the following values of `Poss`:
 

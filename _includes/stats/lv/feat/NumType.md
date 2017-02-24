@@ -29,7 +29,7 @@ The most frequent other feature values with which `NUM` and `NumType` co-occurre
 
 395 [lv-pos/ADJ]() tokens (15% of all `ADJ` tokens) have a non-empty value of `NumType`.
 
-The most frequent other feature values with which `ADJ` and `NumType` co-occurred: <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (325; 82%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (325; 82%), <tt><a href="Degree.html">Degree</a>=EMPTY</tt> (325; 82%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (325; 82%).
+The most frequent other feature values with which `ADJ` and `NumType` co-occurred: <tt><a href="Number.html">Number</a>=EMPTY</tt> (325; 82%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (325; 82%), <tt><a href="Degree.html">Degree</a>=EMPTY</tt> (325; 82%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (325; 82%).
 
 `ADJ` tokens may have the following values of `NumType`:
 
@@ -42,7 +42,7 @@ The most frequent other feature values with which `ADJ` and `NumType` co-occurre
 
 3 [lv-pos/ADV]() tokens (0% of all `ADV` tokens) have a non-empty value of `NumType`.
 
-The most frequent other feature values with which `ADV` and `NumType` co-occurred: <tt><a href="Degree.html">Degree</a>=EMPTY</tt> (3; 100%), <tt><a href="PronType.html">PronType</a>=EMPTY</tt> (3; 100%).
+The most frequent other feature values with which `ADV` and `NumType` co-occurred: <tt><a href="PronType.html">PronType</a>=EMPTY</tt> (3; 100%), <tt><a href="Degree.html">Degree</a>=EMPTY</tt> (3; 100%).
 
 `ADV` tokens may have the following values of `NumType`:
 

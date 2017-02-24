@@ -49,18 +49,34 @@ The following 8 pairs of parts of speech are connected with `nummod`: [grc-pos/N
 
 
 ~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 5 nummod	color:blue
-1	οὔκουν	οὔκουν	ADV	d--------	_	2	advmod	_	_
-2	ἰσοῦμαι	ἰσόω	VERB	v1spie---	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	_
-3	σφῷν	σύ	PRON	p-d----d-	Case=Dat|Number=Dual	2	obj	_	_
-4	ἐγὼ	ἐγώ	PRON	p-s---mn-	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	_
-5	δυοῖν	δύο	NUM	m--------	_	3	nummod	_	_
-6	τρίτος	τρίτος	ADJ	a-s---mn-	Case=Nom|Gender=Masc|Number=Sing	4	xcomp	_	SpaceAfter=No
-7	;	;	PUNCT	u--------	_	2	punct	_	_
+# visual-style 16	bgColor:blue
+# visual-style 16	fgColor:white
+# visual-style 15	bgColor:blue
+# visual-style 15	fgColor:white
+# visual-style 15 16 nummod	color:blue
+1	ἐμοὶ	ἐγώ	PRON	p-s---md-	Case=Dat|Gender=Masc|Number=Sing	3	obj	_	_
+2	δὲ	δέ	ADV	d--------	_	3	advmod	_	_
+3	δοκεῖ	δοκέω	VERB	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4	μάλιστα	μάλιστα	ADV	d--------	_	6	advmod	_	_
+5	τοσούτους	τοσοῦτος	ADJ	a-p---ma-	Case=Acc|Gender=Masc|Number=Plur	8	amod	_	_
+6	ἀποδεῖξαι	ἀποδείκνυμι	VERB	v--ana---	Tense=Past|VerbForm=Inf|Voice=Act	3	csubj	_	_
+7	τοὺς	ὁ	DET	l-p---ma-	Case=Acc|Gender=Masc|Number=Plur	8	det	_	_
+8	γέροντας	γέρων	NOUN	n-p---ma-	Case=Acc|Gender=Masc|Number=Plur	6	obj	_	_
+9	ὅπως	ὅπως	SCONJ	c--------	_	13	mark	_	_
+10	οἱ	ὁ	DET	l-p---mn-	Case=Nom|Gender=Masc|Number=Plur	11	det	_	_
+11	πάντες	πᾶς	ADJ	a-p---mn-	Case=Nom|Gender=Masc|Number=Plur	13	nsubj	_	_
+12	εἶεν	εἰμί	VERB	v3ppoa---	Mood=Opt|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	13	cop	_	_
+13	τριάκοντα	τριάκοντα	NUM	m--------	_	5	advcl	_	SpaceAfter=No
+14	,	,	PUNCT	u--------	_	22	punct	_	_
+15	τοῖς	ὁ	DET	l-p---md-	Case=Dat|Gender=Masc|Number=Plur	22	det	_	_
+16	ὀκτὼ	ὀκτώ	NUM	m--------	_	15	nummod	_	_
+17	καὶ	καί	CCONJ	c--------	_	16	cc	_	_
+18	εἴκοσι	εἴκοσι	NUM	m--------	_	16	conj	_	_
+19	τοῖν	ὁ	DET	l-d---mg-	Case=Gen|Gender=Masc|Number=Dual	21	det	_	_
+20	δυοῖν	δύο	ADJ	a-d---mg-	Case=Gen|Gender=Masc|Number=Dual	21	nmod	_	_
+21	βασιλέοιν	βασιλεύς	NOUN	n-d---mg-	Case=Gen|Gender=Masc|Number=Dual	22	nsubj	_	_
+22	προστιθεμένοιν	προστίθημι	VERB	v-dppemg-	Case=Gen|Gender=Masc|Number=Dual|Tense=Pres|VerbForm=Part|Voice=Mid	13	advmod	_	SpaceAfter=No
+23	.	.	PUNCT	u--------	_	3	punct	_	_
 
 ~~~
 

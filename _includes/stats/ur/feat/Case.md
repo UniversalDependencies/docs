@@ -72,7 +72,7 @@ The most frequent other feature values with which `ADP` and `Case` co-occurred: 
   <tr><td><tt><a href="AdpType.html">AdpType</a>=Post|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=3</tt></td><td>کے</td><td></td></tr>
   <tr><td><tt><a href="AdpType.html">AdpType</a>=Post|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=3|<a href="Polite.html">Polite</a>=Form</tt></td><td>کے</td><td>کے</td></tr>
   <tr><td><tt><a href="AdpType.html">AdpType</a>=Post|<a href="Gender.html">Gender</a>=Fem</tt></td><td></td><td>کی</td></tr>
-  <tr><td><tt><a href="AdpType.html">AdpType</a>=Post|<a href="Gender.html">Gender</a>=Fem|<a href="Number.html">Number</a>=Sing</tt></td><td>کی, کو, کا, کے</td><td>کی, کے, کا, والی</td></tr>
+  <tr><td><tt><a href="AdpType.html">AdpType</a>=Post|<a href="Gender.html">Gender</a>=Fem|<a href="Number.html">Number</a>=Sing</tt></td><td>کی, کو, کے, کا</td><td>کی, کے, کا, والی</td></tr>
   <tr><td><tt><a href="AdpType.html">AdpType</a>=Post|<a href="Gender.html">Gender</a>=Fem|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3</tt></td><td>کی</td><td></td></tr>
   <tr><td><tt><a href="AdpType.html">AdpType</a>=Post|<a href="Gender.html">Gender</a>=Fem|<a href="Number.html">Number</a>=Plur</tt></td><td>کی</td><td>کی</td></tr>
   <tr><td><tt><a href="AdpType.html">AdpType</a>=Post|<a href="Number.html">Number</a>=Sing</tt></td><td>کا</td><td></td></tr>
@@ -126,7 +126,7 @@ The most frequent other feature values with which `PRON` and `Case` co-occurred:
   <tr><td><tt><a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3|<a href="Polite.html">Polite</a>=Form|<a href="PronType.html">PronType</a>=Prs</tt></td><td>انہیں, اِنھیں</td><td></td><td></td><td>انہیں</td><td>ان</td></tr>
   <tr><td><tt><a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3|<a href="Poss.html">Poss</a>=Yes|<a href="PronType.html">PronType</a>=Prs</tt></td><td></td><td>اس, ان</td><td></td><td></td><td></td></tr>
   <tr><td><tt><a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3|<a href="PronType.html">PronType</a>=Dem</tt></td><td></td><td></td><td></td><td>یہ, اس</td><td>اس, ان</td></tr>
-  <tr><td><tt><a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3|<a href="PronType.html">PronType</a>=Prs</tt></td><td>اسے, انہیں</td><td></td><td></td><td>یہ, اس, ان</td><td>اس, ان, اسی, اِس, اسے, یہ</td></tr>
+  <tr><td><tt><a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3|<a href="PronType.html">PronType</a>=Prs</tt></td><td>اسے, انہیں</td><td></td><td></td><td>یہ, اس, ان</td><td>اس, ان, اِس, اسی, اسے, یہ</td></tr>
   <tr><td><tt><a href="Number.html">Number</a>=Sing|<a href="PronType.html">PronType</a>=Prs</tt></td><td></td><td></td><td></td><td></td><td>اسی, یہی</td></tr>
   <tr><td><tt><a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=3|<a href="Polite.html">Polite</a>=Form|<a href="Poss.html">Poss</a>=Yes|<a href="PronType.html">PronType</a>=Prs</tt></td><td></td><td>ان</td><td></td><td></td><td></td></tr>
   <tr><td><tt><a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=3|<a href="Polite.html">Polite</a>=Form|<a href="PronType.html">PronType</a>=Prs</tt></td><td>انہیں, ان</td><td></td><td></td><td></td><td>ان</td></tr>
@@ -134,7 +134,7 @@ The most frequent other feature values with which `PRON` and `Case` co-occurred:
   <tr><td><tt><a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=3|<a href="PronType.html">PronType</a>=Dem</tt></td><td></td><td></td><td></td><td></td><td>ان</td></tr>
   <tr><td><tt><a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=3|<a href="PronType.html">PronType</a>=Prs</tt></td><td>انہیں</td><td></td><td></td><td>یہ, ان, انھیں</td><td>ان, یہ</td></tr>
   <tr><td><tt><a href="Person.html">Person</a>=3|<a href="Polite.html">Polite</a>=Form|<a href="PronType.html">PronType</a>=Prs</tt></td><td>انہیں</td><td></td><td></td><td>انہیں</td><td></td></tr>
-  <tr><td><tt><a href="PronType.html">PronType</a>=Prs</tt></td><td></td><td></td><td>ازیں</td><td>یہاں, یہ, یہی</td><td>اسی, ازیں</td></tr>
+  <tr><td><tt><a href="PronType.html">PronType</a>=Prs</tt></td><td></td><td></td><td>ازیں</td><td>یہاں, یہی, یہ</td><td>اسی, ازیں</td></tr>
 </table>
 
 ### `DET`
@@ -183,7 +183,7 @@ The most frequent other feature values with which `VERB` and `Case` co-occurred:
   <tr><td><tt><a href="Aspect.html">Aspect</a>=Perf|<a href="Gender.html">Gender</a>=Fem|<a href="Number.html">Number</a>=Sing|<a href="VerbForm.html">VerbForm</a>=Part|<a href="Voice.html">Voice</a>=Act</tt></td><td>کی</td><td></td></tr>
   <tr><td><tt><a href="Aspect.html">Aspect</a>=Perf|<a href="Number.html">Number</a>=Sing|<a href="VerbForm.html">VerbForm</a>=Part</tt></td><td></td><td>کیے</td></tr>
   <tr><td><tt><a href="Aspect.html">Aspect</a>=Perf|<a href="Person.html">Person</a>=3|<a href="VerbForm.html">VerbForm</a>=Part|<a href="Voice.html">Voice</a>=Act</tt></td><td>کی</td><td></td></tr>
-  <tr><td><tt><a href="Aspect.html">Aspect</a>=Perf|<a href="VerbForm.html">VerbForm</a>=Part</tt></td><td></td><td>کیے, کرنے, کی</td></tr>
+  <tr><td><tt><a href="Aspect.html">Aspect</a>=Perf|<a href="VerbForm.html">VerbForm</a>=Part</tt></td><td></td><td>کرنے, کی, کیے</td></tr>
   <tr><td><tt><a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Sing|<a href="VerbForm.html">VerbForm</a>=Inf</tt></td><td>کرنا</td><td></td></tr>
   <tr><td><tt><a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=3|<a href="Voice.html">Voice</a>=Act</tt></td><td>کر</td><td></td></tr>
   <tr><td><tt><a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Plur|<a href="VerbForm.html">VerbForm</a>=Inf</tt></td><td></td><td>کرنے</td></tr>
@@ -262,7 +262,7 @@ The most frequent other feature values with which `NUM` and `Case` co-occurred: 
 
 49 [ur-pos/PART]() tokens (2% of all `PART` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `PART` and `Case` co-occurred: <tt><a href="PronType.html">PronType</a>=EMPTY</tt> (49; 100%), <tt><a href="Polarity.html">Polarity</a>=EMPTY</tt> (49; 100%).
+The most frequent other feature values with which `PART` and `Case` co-occurred: <tt><a href="Polarity.html">Polarity</a>=EMPTY</tt> (49; 100%), <tt><a href="PronType.html">PronType</a>=EMPTY</tt> (49; 100%).
 
 `PART` tokens may have the following values of `Case`:
 
@@ -283,7 +283,7 @@ The most frequent other feature values with which `PART` and `Case` co-occurred:
 
 8 [ur-pos/X]() tokens (36% of all `X` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `X` and `Case` co-occurred: <tt><a href="Foreign.html">Foreign</a>=EMPTY</tt> (8; 100%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (6; 75%), <tt><a href="Number.html">Number</a>=Sing</tt> (5; 63%), <tt><a href="Person.html">Person</a>=3</tt> (5; 63%).
+The most frequent other feature values with which `X` and `Case` co-occurred: <tt><a href="Foreign.html">Foreign</a>=EMPTY</tt> (8; 100%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (6; 75%), <tt><a href="Person.html">Person</a>=3</tt> (5; 63%), <tt><a href="Number.html">Number</a>=Sing</tt> (5; 63%).
 
 `X` tokens may have the following values of `Case`:
 

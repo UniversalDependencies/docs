@@ -16,7 +16,7 @@ The feature is used with 1 part-of-speech tags: [la-pos/PRON]() (1803; 1% instan
 
 1803 [la-pos/PRON]() tokens (7% of all `PRON` tokens) have a non-empty value of `Reflex`.
 
-The most frequent other feature values with which `PRON` and `Reflex` co-occurred: <tt><a href="Degree.html">Degree</a>=Pos</tt> (1803; 100%), <tt><a href="PronType.html">PronType</a>=Prs</tt> (1803; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (1503; 83%), <tt><a href="Case.html">Case</a>=Acc</tt> (1221; 68%).
+The most frequent other feature values with which `PRON` and `Reflex` co-occurred: <tt><a href="PronType.html">PronType</a>=Prs</tt> (1803; 100%), <tt><a href="Degree.html">Degree</a>=Pos</tt> (1803; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (1503; 83%), <tt><a href="Case.html">Case</a>=Acc</tt> (1221; 68%).
 
 `PRON` tokens may have the following values of `Reflex`:
 
@@ -41,7 +41,7 @@ The feature is used with 2 part-of-speech tags: [la-pos/ADJ]() (866; 1% instance
 
 866 [la-pos/ADJ]() tokens (6% of all `ADJ` tokens) have a non-empty value of `Reflex`.
 
-The most frequent other feature values with which `ADJ` and `Reflex` co-occurred: <tt><a href="Poss.html">Poss</a>=Yes</tt> (866; 100%), <tt><a href="Degree.html">Degree</a>=EMPTY</tt> (866; 100%), <tt><a href="Person.html">Person</a>=3</tt> (866; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (507; 59%).
+The most frequent other feature values with which `ADJ` and `Reflex` co-occurred: <tt><a href="Person.html">Person</a>=3</tt> (866; 100%), <tt><a href="Degree.html">Degree</a>=EMPTY</tt> (866; 100%), <tt><a href="Poss.html">Poss</a>=Yes</tt> (866; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (507; 59%).
 
 `ADJ` tokens may have the following values of `Reflex`:
 

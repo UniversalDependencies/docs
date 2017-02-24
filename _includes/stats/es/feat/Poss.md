@@ -29,7 +29,7 @@ The most frequent other feature values with which `DET` and `Poss` co-occurred: 
 
 22 [es-pos/PRON]() tokens (0% of all `PRON` tokens) have a non-empty value of `Poss`.
 
-The most frequent other feature values with which `PRON` and `Poss` co-occurred: <tt><a href="PrepCase.html">PrepCase</a>=EMPTY</tt> (22; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (22; 100%), <tt><a href="Reflex.html">Reflex</a>=EMPTY</tt> (22; 100%), <tt><a href="PronType.html">PronType</a>=Prs</tt> (20; 91%), <tt><a href="Number.html">Number</a>=Sing</tt> (16; 73%).
+The most frequent other feature values with which `PRON` and `Poss` co-occurred: <tt><a href="Case.html">Case</a>=EMPTY</tt> (22; 100%), <tt><a href="Reflex.html">Reflex</a>=EMPTY</tt> (22; 100%), <tt><a href="PrepCase.html">PrepCase</a>=EMPTY</tt> (22; 100%), <tt><a href="PronType.html">PronType</a>=Prs</tt> (20; 91%), <tt><a href="Number.html">Number</a>=Sing</tt> (16; 73%).
 
 `PRON` tokens may have the following values of `Poss`:
 
@@ -54,7 +54,7 @@ The feature is used with 2 part-of-speech tags: [es-pos/DET]() (4906; 1% instanc
 
 4906 [es-pos/DET]() tokens (7% of all `DET` tokens) have a non-empty value of `Poss`.
 
-The most frequent other feature values with which `DET` and `Poss` co-occurred: <tt><a href="Definite.html">Definite</a>=EMPTY</tt> (4906; 100%), <tt><a href="PronType.html">PronType</a>=Prs</tt> (4906; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (4645; 95%), <tt><a href="Number.html">Number</a>=Sing</tt> (3620; 74%).
+The most frequent other feature values with which `DET` and `Poss` co-occurred: <tt><a href="PronType.html">PronType</a>=Prs</tt> (4906; 100%), <tt><a href="Definite.html">Definite</a>=EMPTY</tt> (4906; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (4645; 95%), <tt><a href="Number.html">Number</a>=Sing</tt> (3620; 74%).
 
 `DET` tokens may have the following values of `Poss`:
 
@@ -67,7 +67,7 @@ The most frequent other feature values with which `DET` and `Poss` co-occurred: 
 
 62 [es-pos/PRON]() tokens (0% of all `PRON` tokens) have a non-empty value of `Poss`.
 
-The most frequent other feature values with which `PRON` and `Poss` co-occurred: <tt><a href="PronType.html">PronType</a>=Prs</tt> (62; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (62; 100%), <tt><a href="Person.html">Person</a>=3</tt> (45; 73%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (38; 61%), <tt><a href="Number.html">Number</a>=Sing</tt> (38; 61%).
+The most frequent other feature values with which `PRON` and `Poss` co-occurred: <tt><a href="Case.html">Case</a>=EMPTY</tt> (62; 100%), <tt><a href="PronType.html">PronType</a>=Prs</tt> (62; 100%), <tt><a href="Person.html">Person</a>=3</tt> (45; 73%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (38; 61%), <tt><a href="Number.html">Number</a>=Sing</tt> (38; 61%).
 
 `PRON` tokens may have the following values of `Poss`:
 

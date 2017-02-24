@@ -11,9 +11,9 @@ The 10 most frequent `CCONJ` lemmas: <em>et, ou, mais, car, ni, and, or, donc, e
 
 The 10 most frequent `CCONJ` types:  <em>et, ou, mais, car, ni, and, or, donc, e, und</em>
 
-The 10 most frequent ambiguous lemmas: <em>ou</em> ([CCONJ]() 880, [ADV]() 1), <em>car</em> ([CCONJ]() 120, [NOUN]() 4), <em>and</em> ([CCONJ]() 24, [SCONJ]() 4, [PROPN]() 3, [X]() 1), <em>or</em> ([NOUN]() 48, [CCONJ]() 13, [X]() 1, [PROPN]() 1), <em>donc</em> ([ADV]() 173, [CCONJ]() 11), <em>e</em> ([CCONJ]() 3, [X]() 1, [NOUN]() 1), <em>y</em> ([ADV]() 285, [PRON]() 232, [CCONJ]() 3, [X]() 1), <em>i</em> ([X]() 3, [CCONJ]() 1)
+The 10 most frequent ambiguous lemmas: <em>ou</em> ([CCONJ]() 880, [ADV]() 1), <em>car</em> ([CCONJ]() 120, [NOUN]() 4), <em>and</em> ([CCONJ]() 24, [SCONJ]() 4, [PROPN]() 3, [X]() 1), <em>or</em> ([NOUN]() 48, [CCONJ]() 13, [PROPN]() 1, [X]() 1), <em>donc</em> ([ADV]() 173, [CCONJ]() 11), <em>e</em> ([CCONJ]() 3, [NOUN]() 1, [X]() 1), <em>y</em> ([ADV]() 285, [PRON]() 232, [CCONJ]() 3, [X]() 1), <em>i</em> ([X]() 3, [CCONJ]() 1)
 
-The 10 most frequent ambiguous types:  <em>ou</em> ([CCONJ]() 876, [PRON]() 7), <em>car</em> ([CCONJ]() 116, [NOUN]() 2), <em>and</em> ([CCONJ]() 22, [SCONJ]() 4, [PROPN]() 3, [X]() 1), <em>or</em> ([NOUN]() 45, [CCONJ]() 2, [PROPN]() 1, [X]() 1), <em>donc</em> ([ADV]() 170, [CCONJ]() 11), <em>e</em> ([CCONJ]() 3, [NOUN]() 1, [X]() 1), <em>y</em> ([ADV]() 284, [PRON]() 227, [CCONJ]() 3, [X]() 1), <em>ans</em> ([NOUN]() 336, [CCONJ]() 1), <em>est</em> ([AUX]() 4957, [VERB]() 205, [NOUN]() 44, [ADJ]() 3, [CCONJ]() 1, [X]() 1), <em>i</em> ([X]() 3, [CCONJ]() 1, [PRON]() 1)
+The 10 most frequent ambiguous types:  <em>ou</em> ([CCONJ]() 876, [PRON]() 7), <em>car</em> ([CCONJ]() 116, [NOUN]() 2), <em>and</em> ([CCONJ]() 22, [SCONJ]() 4, [PROPN]() 3, [X]() 1), <em>or</em> ([NOUN]() 45, [CCONJ]() 2, [PROPN]() 1, [X]() 1), <em>donc</em> ([ADV]() 170, [CCONJ]() 11), <em>e</em> ([CCONJ]() 3, [NOUN]() 1, [X]() 1), <em>y</em> ([ADV]() 284, [PRON]() 227, [CCONJ]() 3, [X]() 1), <em>ans</em> ([NOUN]() 336, [CCONJ]() 1), <em>est</em> ([AUX]() 4957, [VERB]() 205, [NOUN]() 44, [ADJ]() 3, [X]() 1, [CCONJ]() 1), <em>i</em> ([X]() 3, [PRON]() 1, [CCONJ]() 1)
 
 
 * <em>ou</em>
@@ -52,12 +52,12 @@ The 10 most frequent ambiguous types:  <em>ou</em> ([CCONJ]() 876, [PRON]() 7), 
   * [VERB]() 205: <em>Elle fonce et c' <b>est</b> cette audace qui est récompensée .</em>
   * [NOUN]() 44: <em>Elles sont situées à l' <b>est</b> de la République serbe de Bosnie .</em>
   * [ADJ]() 3: <em>Environ 84 autres sont encerclés sur la partie <b>est</b> de l' île , capturés et jugés .</em>
-  * [CCONJ]() 1: <em>De ce château , il ne reste actuellement que des restes passifs : quelques communs et une annexe : la Jardinnerie et la Serrurerie et le Mardelin , des aqueducs souterrains , des caves , ses trois sources , son réservoir inférieur , ses fossés , <b>est</b> bien sûr ses bois de le parc ... Victor Petit .</em>
   * [X]() 1: <em>Créé en 1964 par Pierre Billon , Sifca <b>est</b> est alors le premier groupe privé Ivoirien .</em>
+  * [CCONJ]() 1: <em>De ce château , il ne reste actuellement que des restes passifs : quelques communs et une annexe : la Jardinnerie et la Serrurerie et le Mardelin , des aqueducs souterrains , des caves , ses trois sources , son réservoir inférieur , ses fossés , <b>est</b> bien sûr ses bois de le parc ... Victor Petit .</em>
 * <em>i</em>
   * [X]() 3: <em>Elle comprend notamment le célèbre diamant Koh - <b>i</b> Nor ( « montagne de lumière » ) .</em>
-  * [CCONJ]() 1: <em>La Coma <b>i</b> la Pedra est une commune de la comarque de le Solsonès , dans la Province de Lleida ( Lérida , en castillan ) , en communauté autonome espagnole de Catalogne .</em>
   * [PRON]() 1: <em>Les paroles sont très simple et très vite assimilées par le clubber qui s' empressera de chanter en cœur " Pump it , Pump it " , " Let me see your booty " , " You cant see me , <b>i</b> can see you " .</em>
+  * [CCONJ]() 1: <em>La Coma <b>i</b> la Pedra est une commune de la comarque de le Solsonès , dans la Province de Lleida ( Lérida , en castillan ) , en communauté autonome espagnole de Catalogne .</em>
 
 ## Morphology
 
@@ -107,7 +107,7 @@ The 10 most frequent `CCONJ` types:  <em>et, ou, mais, ni, soit, qu', que, Ma</e
 
 The 10 most frequent ambiguous lemmas: <em>que</em> ([SCONJ]() 237, [PRON]() 37, [ADP]() 18, [ADV]() 7, [CCONJ]() 5)
 
-The 10 most frequent ambiguous types:  <em>soit</em> ([AUX]() 10, [CCONJ]() 4, [VERB]() 2), <em>qu'</em> ([SCONJ]() 60, [PRON]() 14, [ADP]() 4, [CCONJ]() 3, [ADV]() 2), <em>que</em> ([SCONJ]() 177, [PRON]() 25, [ADP]() 14, [ADV]() 5, [CCONJ]() 2), <em>Ma</em> ([CCONJ]() 1, [DET]() 1)
+The 10 most frequent ambiguous types:  <em>soit</em> ([AUX]() 10, [CCONJ]() 4, [VERB]() 2), <em>qu'</em> ([SCONJ]() 60, [PRON]() 14, [ADP]() 4, [CCONJ]() 3, [ADV]() 2), <em>que</em> ([SCONJ]() 177, [PRON]() 25, [ADP]() 14, [ADV]() 5, [CCONJ]() 2), <em>Ma</em> ([DET]() 1, [CCONJ]() 1)
 
 
 * <em>soit</em>
@@ -127,8 +127,8 @@ The 10 most frequent ambiguous types:  <em>soit</em> ([AUX]() 10, [CCONJ]() 4, [
   * [ADV]() 5: <em>Ces mesures n' entrent en vigueur <b>que</b> sous réserve et à la date de l' entrée en vigueur de le présent traité .</em>
   * [CCONJ]() 2: <em>En conséquence , le caractère transnational et pluridisciplinaire exigé par l' article 3 de la décision Pericles a été respecté , puisqu' il est recherché tant sur le plan de l' expérience professionnelle de les participants <b>que</b> de le contenu de les actions .</em>
 * <em>Ma</em>
-  * [CCONJ]() 1: <em><b>Ma</b> c' est aussi une tragédie pour les gens qui les mangent parce qu' ils ne savent pas que c' est de la viande toxique .</em>
   * [DET]() 1: <em><b>Ma</b> question porte sur un sujet qui est à l' ordre de le jour de le jeudi et que je soulèverai donc une nouvelle fois .</em>
+  * [CCONJ]() 1: <em><b>Ma</b> c' est aussi une tragédie pour les gens qui les mangent parce qu' ils ne savent pas que c' est de la viande toxique .</em>
 
 ## Morphology
 

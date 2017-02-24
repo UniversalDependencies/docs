@@ -112,28 +112,6 @@ The following 3 pairs of parts of speech are connected with `iobj`: [it-pos/VERB
 
 
 ~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 2 iobj	color:blue
-1	E	e	CCONJ	CC	_	3	cc	_	_
-2	vi	vi	PRON	PC	Clitic=Yes|PronType=Prs	3	iobj	_	_
-3	lancio	lancio	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
-4	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	5	det	_	SpaceAfter=No
-5	idea	idea	NOUN	S	Gender=Fem|Number=Sing	3	obj	_	_
-6	che	che	SCONJ	CS	_	9	mark	_	_
-7	queste	questo	PRON	PD	Gender=Fem|Number=Plur|PronType=Dem	9	nsubj	_	_
-8	siano	essere	AUX	VA	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	_
-9	membrane	membrana	NOUN	S	Gender=Fem|Number=Plur	5	acl	_	_
-10	neurologiche	neurologico	ADJ	A	Gender=Fem|Number=Plur	9	amod	_	_
-11	estese	esteso	ADJ	A	Gender=Fem|Number=Plur	9	amod	_	SpaceAfter=No
-12	.	.	PUNCT	FS	_	3	punct	_	_
-
-~~~
-
-
-~~~ conllu
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 4	bgColor:blue
@@ -170,6 +148,28 @@ The following 3 pairs of parts of speech are connected with `iobj`: [it-pos/VERB
 29	mio	mio	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	30	det:poss	_	_
 30	gruppo	gruppo	NOUN	S	Gender=Masc|Number=Sing	26	nmod	_	SpaceAfter=No
 31	.	.	PUNCT	FS	_	4	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 2 iobj	color:blue
+1	E	e	CCONJ	CC	_	3	cc	_	_
+2	vi	vi	PRON	PC	Clitic=Yes|PronType=Prs	3	iobj	_	_
+3	lancio	lancio	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+4	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	5	det	_	SpaceAfter=No
+5	idea	idea	NOUN	S	Gender=Fem|Number=Sing	3	obj	_	_
+6	che	che	SCONJ	CS	_	9	mark	_	_
+7	queste	questo	PRON	PD	Gender=Fem|Number=Plur|PronType=Dem	9	nsubj	_	_
+8	siano	essere	AUX	VA	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	_
+9	membrane	membrana	NOUN	S	Gender=Fem|Number=Plur	5	acl	_	_
+10	neurologiche	neurologico	ADJ	A	Gender=Fem|Number=Plur	9	amod	_	_
+11	estese	esteso	ADJ	A	Gender=Fem|Number=Plur	9	amod	_	SpaceAfter=No
+12	.	.	PUNCT	FS	_	3	punct	_	_
 
 ~~~
 

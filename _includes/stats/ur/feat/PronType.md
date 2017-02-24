@@ -48,7 +48,7 @@ The most frequent other feature values with which `PRON` and `PronType` co-occur
   <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=3|<a href="Polite.html">Polite</a>=Form</tt></td><td>انہوں</td><td></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Gender.html">Gender</a>=Fem|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3</tt></td><td></td><td>اسی</td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Number.html">Number</a>=Sing</tt></td><td>اسی, یہی</td><td></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3</tt></td><td>اس, ان, اِس, اسی, یہ, اسے</td><td>اس, ان</td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3</tt></td><td>اس, ان, اسی, اِس, یہ, اسے</td><td>اس, ان</td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3|<a href="Polite.html">Polite</a>=Form</tt></td><td>ان</td><td></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=3</tt></td><td>ان, یہ</td><td>ان</td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=3|<a href="Polite.html">Polite</a>=Form</tt></td><td>ان</td><td></td></tr>
@@ -105,9 +105,9 @@ The 10 most frequent relations where parent and child node agree in `PronType`:
 <tt>PRON --[<a href="../dep/compound.html">compound</a>]--> PRON</tt> (9; 100%),
 <tt>PRON --[<a href="../dep/nsubj.html">nsubj</a>]--> PRON</tt> (6; 67%),
 <tt>PRON --[<a href="../dep/mark.html">mark</a>]--> PRON</tt> (4; 100%),
-<tt>PRON --[<a href="../dep/conj.html">conj</a>]--> PRON</tt> (3; 100%),
 <tt>PRON --[<a href="../dep/advmod.html">advmod</a>]--> PRON</tt> (3; 75%),
-<tt>PRON --[<a href="../dep/dep.html">dep</a>]--> PRON</tt> (2; 100%),
-<tt>PRON --[<a href="../dep/aux.html">aux</a>]--> PRON</tt> (2; 67%),
-<tt>PRON --[<a href="../dep/obj.html">obj</a>]--> PRON</tt> (2; 100%).
+<tt>PRON --[<a href="../dep/conj.html">conj</a>]--> PRON</tt> (3; 100%),
+<tt>DET --[<a href="../dep/conj.html">conj</a>]--> DET</tt> (2; 100%),
+<tt>PRON --[<a href="../dep/obj.html">obj</a>]--> PRON</tt> (2; 100%),
+<tt>PRON --[<a href="../dep/aux.html">aux</a>]--> PRON</tt> (2; 67%).
 

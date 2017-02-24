@@ -33,7 +33,7 @@ The most frequent other feature values with which `ADP` and `Variant` co-occurre
 
 1285 [pl-pos/PRON]() tokens (33% of all `PRON` tokens) have a non-empty value of `Variant`.
 
-The most frequent other feature values with which `PRON` and `Variant` co-occurred: <tt><a href="PronType.html">PronType</a>=Prs</tt> (1285; 100%), <tt><a href="Reflex.html">Reflex</a>=EMPTY</tt> (1285; 100%), <tt><a href="Person.html">Person</a>=3</tt> (1058; 82%), <tt><a href="Number.html">Number</a>=Sing</tt> (973; 76%), <tt><a href="PrepCase.html">PrepCase</a>=Npr</tt> (836; 65%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (820; 64%).
+The most frequent other feature values with which `PRON` and `Variant` co-occurred: <tt><a href="Reflex.html">Reflex</a>=EMPTY</tt> (1285; 100%), <tt><a href="PronType.html">PronType</a>=Prs</tt> (1285; 100%), <tt><a href="Person.html">Person</a>=3</tt> (1058; 82%), <tt><a href="Number.html">Number</a>=Sing</tt> (973; 76%), <tt><a href="PrepCase.html">PrepCase</a>=Npr</tt> (836; 65%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (820; 64%).
 
 `PRON` tokens may have the following values of `Variant`:
 
@@ -123,7 +123,7 @@ The most frequent other feature values with which `PRON` and `Variant` co-occurr
 
 561 [pl-pos/AUX]() tokens (27% of all `AUX` tokens) have a non-empty value of `Variant`.
 
-The most frequent other feature values with which `AUX` and `Variant` co-occurred: <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (561; 100%), <tt><a href="Aspect.html">Aspect</a>=Imp</tt> (561; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (561; 100%), <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (561; 100%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (561; 100%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (561; 100%), <tt><a href="Person.html">Person</a>=1</tt> (504; 90%), <tt><a href="Number.html">Number</a>=Sing</tt> (445; 79%).
+The most frequent other feature values with which `AUX` and `Variant` co-occurred: <tt><a href="Tense.html">Tense</a>=Pres</tt> (561; 100%), <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (561; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (561; 100%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (561; 100%), <tt><a href="Aspect.html">Aspect</a>=Imp</tt> (561; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (561; 100%), <tt><a href="Person.html">Person</a>=1</tt> (504; 90%), <tt><a href="Number.html">Number</a>=Sing</tt> (445; 79%).
 
 `AUX` tokens may have the following values of `Variant`:
 

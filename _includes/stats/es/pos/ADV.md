@@ -11,9 +11,9 @@ The 10 most frequent `ADV` lemmas: <em>no, más, también, mucho, donde, ya, ade
 
 The 10 most frequent `ADV` types:  <em>no, más, también, muy, donde, ya, además, así, después, sólo</em>
 
-The 10 most frequent ambiguous lemmas: <em>no</em> ([ADV]() 1664, [PROPN]() 14, [X]() 9), <em>más</em> ([ADV]() 1391, [ADJ]() 2, [PRON]() 1, [PROPN]() 1, [X]() 1, [CCONJ]() 1), <em>mucho</em> ([ADV]() 565, [DET]() 214, [PRON]() 147, [ADJ]() 3, [PROPN]() 2, [X]() 1), <em>donde</em> ([ADV]() 447, [SCONJ]() 2), <em>ya</em> ([ADV]() 402, [X]() 31, [PROPN]() 3), <em>así</em> ([ADV]() 306, [ADJ]() 1, [SCONJ]() 1, [PROPN]() 1), <em>después</em> ([ADV]() 293, [ADJ]() 21, [ADP]() 2, [NOUN]() 1), <em>sólo</em> ([ADV]() 210, [ADJ]() 1), <em>bien</em> ([ADV]() 195, [NOUN]() 29, [PROPN]() 3), <em>antes</em> ([ADV]() 173, [ADJ]() 2, [NOUN]() 2)
+The 10 most frequent ambiguous lemmas: <em>no</em> ([ADV]() 1664, [PROPN]() 14, [X]() 9), <em>más</em> ([ADV]() 1391, [ADJ]() 2, [CCONJ]() 1, [X]() 1, [PROPN]() 1, [PRON]() 1), <em>mucho</em> ([ADV]() 565, [DET]() 214, [PRON]() 147, [ADJ]() 3, [PROPN]() 2, [X]() 1), <em>donde</em> ([ADV]() 447, [SCONJ]() 2), <em>ya</em> ([ADV]() 402, [X]() 31, [PROPN]() 3), <em>así</em> ([ADV]() 306, [PROPN]() 1, [ADJ]() 1, [SCONJ]() 1), <em>después</em> ([ADV]() 293, [ADJ]() 21, [ADP]() 2, [NOUN]() 1), <em>sólo</em> ([ADV]() 210, [ADJ]() 1), <em>bien</em> ([ADV]() 195, [NOUN]() 29, [PROPN]() 3), <em>antes</em> ([ADV]() 173, [NOUN]() 2, [ADJ]() 2)
 
-The 10 most frequent ambiguous types:  <em>no</em> ([ADV]() 1481, [X]() 8, [PROPN]() 6), <em>más</em> ([ADV]() 1354, [ADJ]() 2, [X]() 1, [CCONJ]() 1, [PRON]() 1), <em>donde</em> ([ADV]() 444, [SCONJ]() 2), <em>ya</em> ([ADV]() 374, [X]() 31), <em>así</em> ([ADV]() 237, [SCONJ]() 1, [ADJ]() 1), <em>después</em> ([ADV]() 232, [ADJ]() 21, [NOUN]() 1, [ADP]() 1), <em>sólo</em> ([ADV]() 189, [ADJ]() 1), <em>bien</em> ([ADV]() 193, [NOUN]() 12, [PROPN]() 2), <em>antes</em> ([ADV]() 147, [NOUN]() 2, [ADJ]() 2), <em>entonces</em> ([ADV]() 135, [NOUN]() 1)
+The 10 most frequent ambiguous types:  <em>no</em> ([ADV]() 1481, [X]() 8, [PROPN]() 6), <em>más</em> ([ADV]() 1354, [ADJ]() 2, [PRON]() 1, [X]() 1, [CCONJ]() 1), <em>donde</em> ([ADV]() 444, [SCONJ]() 2), <em>ya</em> ([ADV]() 374, [X]() 31), <em>así</em> ([ADV]() 237, [ADJ]() 1, [SCONJ]() 1), <em>después</em> ([ADV]() 232, [ADJ]() 21, [NOUN]() 1, [ADP]() 1), <em>sólo</em> ([ADV]() 189, [ADJ]() 1), <em>bien</em> ([ADV]() 193, [NOUN]() 12, [PROPN]() 2), <em>antes</em> ([ADV]() 147, [NOUN]() 2, [ADJ]() 2), <em>entonces</em> ([ADV]() 135, [NOUN]() 1)
 
 
 * <em>no</em>
@@ -23,9 +23,9 @@ The 10 most frequent ambiguous types:  <em>no</em> ([ADV]() 1481, [X]() 8, [PROP
 * <em>más</em>
   * [ADV]() 1354: <em>La ciudad <b>más</b> cercana a Ist es Zadar .</em>
   * [ADJ]() 2: <em>Yo voy intentar ser lo <b>más</b> objetivo posible .</em>
+  * [PRON]() 1: <em>El impacto socio económico que habrá en la zona es <b>más</b> que significativo .</em>
   * [X]() 1: <em>Graba el disco " Jalisco " con excelentes temas como son : " La veintiuna " , " Jalisco " , " Pobre triste y olvidado " , " Es mentira , es mentira " , y también graba el disco " Alberto Vazquez con mariachi " con te <b>más</b> como : " De que te quiero , te quiero " , " Ella " , " Anoche me acosté con tu recuerdo " la cual le pedían mucho en presentaciones en televisión así como en conciertos , a finales de ese año es internado en el hostipal muy grabe por una pancreatitis , ( inflamación de el pancreas ) de el cual se recupero y regresó a los escenarios .</em>
   * [CCONJ]() 1: <em>Enterado Francisco Pizarro , envía una tropa a hacer les frente , <b>más</b> los incas los hacen retroceder .</em>
-  * [PRON]() 1: <em>El impacto socio económico que habrá en la zona es <b>más</b> que significativo .</em>
 * <em>donde</em>
   * [ADV]() 444: <em>Fue llevado hasta el hospital de Verona en helicóptero <b>donde</b> falleció .</em>
   * [SCONJ]() 2: <em>E insistió en su argumento de la víspera , donde ya mostraba que no tenía intención de disolver por la fuerza las concentraciones : " La policía , <b>donde</b> hay un problema , para resolver lo no crea otro , ni dos , ni tres " , informa Iñigo Aduriz .</em>
@@ -34,8 +34,8 @@ The 10 most frequent ambiguous types:  <em>no</em> ([ADV]() 1481, [X]() 8, [PROP
   * [X]() 31: <em>Me estafó a mí <b>ya</b> los proveedores de material .</em>
 * <em>así</em>
   * [ADV]() 237: <em>Fue nombrado <b>así</b> en honor a el ingeniero británico Francis Brockton .</em>
-  * [SCONJ]() 1: <em>Las misiones son casos , en donde los jugadores consiguen sus propios acceso a un mapa específico , <b>así</b> pueden haber varios jugadores que procuran matar a un Raid Boss en un Dungeon dentro de sus propias misiones , sin interferir entre ellos .</em>
   * [ADJ]() 1: <em>Stevenage deriva de el Inglés Antiguo , significando algo <b>así</b> como " ( el lugar de ) el fuerte roble " .</em>
+  * [SCONJ]() 1: <em>Las misiones son casos , en donde los jugadores consiguen sus propios acceso a un mapa específico , <b>así</b> pueden haber varios jugadores que procuran matar a un Raid Boss en un Dungeon dentro de sus propias misiones , sin interferir entre ellos .</em>
 * <em>después</em>
   * [ADV]() 232: <em>Fernando el Católico lo ratificó un mes <b>después</b> .</em>
   * [ADJ]() 21: <em>Descendió de categoría 3 años <b>después</b> .</em>

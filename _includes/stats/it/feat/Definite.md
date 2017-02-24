@@ -34,7 +34,7 @@ The most frequent other feature values with which `DET` and `Definite` co-occurr
 
 2 [it-pos/PRON]() tokens (0% of all `PRON` tokens) have a non-empty value of `Definite`.
 
-The most frequent other feature values with which `PRON` and `Definite` co-occurred: <tt><a href="Gender.html">Gender</a>=Fem</tt> (2; 100%), <tt><a href="PronType.html">PronType</a>=Art</tt> (2; 100%), <tt><a href="Clitic.html">Clitic</a>=Yes</tt> (2; 100%), <tt><a href="Number.html">Number</a>=Plur</tt> (2; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (2; 100%).
+The most frequent other feature values with which `PRON` and `Definite` co-occurred: <tt><a href="Gender.html">Gender</a>=Fem</tt> (2; 100%), <tt><a href="Number.html">Number</a>=Plur</tt> (2; 100%), <tt><a href="Clitic.html">Clitic</a>=Yes</tt> (2; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (2; 100%), <tt><a href="PronType.html">PronType</a>=Art</tt> (2; 100%).
 
 `PRON` tokens may have the following values of `Definite`:
 

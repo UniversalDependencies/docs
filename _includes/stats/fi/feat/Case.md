@@ -150,7 +150,7 @@ The most frequent other feature values with which `PROPN` and `Case` co-occurred
 
 8516 [fi-pos/VERB]() tokens (34% of all `VERB` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `VERB` and `Case` co-occurred: <tt><a href="Person.html">Person</a>=EMPTY</tt> (8516; 100%), <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (8516; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (8516; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (6798; 80%), <tt><a href="InfForm.html">InfForm</a>=EMPTY</tt> (6562; 77%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (6562; 77%), <tt><a href="Degree.html">Degree</a>=Pos</tt> (6553; 77%), <tt><a href="Voice.html">Voice</a>=Act</tt> (6024; 71%).
+The most frequent other feature values with which `VERB` and `Case` co-occurred: <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (8516; 100%), <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (8516; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (8516; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (6798; 80%), <tt><a href="InfForm.html">InfForm</a>=EMPTY</tt> (6562; 77%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (6562; 77%), <tt><a href="Degree.html">Degree</a>=Pos</tt> (6553; 77%), <tt><a href="Voice.html">Voice</a>=Act</tt> (6024; 71%).
 
 `VERB` tokens may have the following values of `Case`:
 
@@ -222,7 +222,7 @@ The most frequent other feature values with which `NUM` and `Case` co-occurred: 
 
 519 [fi-pos/AUX]() tokens (5% of all `AUX` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `AUX` and `Case` co-occurred: <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (519; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (519; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (519; 100%), <tt><a href="Polarity.html">Polarity</a>=EMPTY</tt> (519; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (474; 91%), <tt><a href="Voice.html">Voice</a>=Act</tt> (455; 88%), <tt><a href="Number.html">Number</a>=Sing</tt> (435; 84%).
+The most frequent other feature values with which `AUX` and `Case` co-occurred: <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (519; 100%), <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (519; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (519; 100%), <tt><a href="Polarity.html">Polarity</a>=EMPTY</tt> (519; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (474; 91%), <tt><a href="Voice.html">Voice</a>=Act</tt> (455; 88%), <tt><a href="Number.html">Number</a>=Sing</tt> (435; 84%).
 
 `AUX` tokens may have the following values of `Case`:
 
@@ -374,7 +374,7 @@ The most frequent other feature values with which `PRON` and `Case` co-occurred:
 
 9040 [fi-pos/VERB]() tokens (30% of all `VERB` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `VERB` and `Case` co-occurred: <tt><a href="Person.html">Person</a>=EMPTY</tt> (9040; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (9040; 100%), <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (9040; 100%), <tt><a href="Voice.html">Voice</a>=Act</tt> (7354; 81%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (4621; 51%), <tt><a href="VerbForm.html">VerbForm</a>=Inf</tt> (4619; 51%), <tt><a href="PartForm.html">PartForm</a>=EMPTY</tt> (4619; 51%).
+The most frequent other feature values with which `VERB` and `Case` co-occurred: <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (9040; 100%), <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (9040; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (9040; 100%), <tt><a href="Voice.html">Voice</a>=Act</tt> (7354; 81%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (4621; 51%), <tt><a href="VerbForm.html">VerbForm</a>=Inf</tt> (4619; 51%), <tt><a href="PartForm.html">PartForm</a>=EMPTY</tt> (4619; 51%).
 
 `VERB` tokens may have the following values of `Case`:
 
@@ -552,7 +552,7 @@ The most frequent other feature values with which `NUM` and `Case` co-occurred: 
 
 324 [fi-pos/AUX]() tokens (9% of all `AUX` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `AUX` and `Case` co-occurred: <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (324; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (324; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (324; 100%), <tt><a href="Voice.html">Voice</a>=Act</tt> (317; 98%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (168; 52%), <tt><a href="VerbForm.html">VerbForm</a>=Inf</tt> (168; 52%).
+The most frequent other feature values with which `AUX` and `Case` co-occurred: <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (324; 100%), <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (324; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (324; 100%), <tt><a href="Voice.html">Voice</a>=Act</tt> (317; 98%), <tt><a href="VerbForm.html">VerbForm</a>=Inf</tt> (168; 52%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (168; 52%).
 
 `AUX` tokens may have the following values of `Case`:
 

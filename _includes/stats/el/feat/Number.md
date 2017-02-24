@@ -52,7 +52,7 @@ The most frequent other feature values with which `DET` and `Number` co-occurred
   <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Gender.html">Gender</a>=Masc</tt></td><td><em>του</em></td><td><em>των</em></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Gender.html">Gender</a>=Fem</tt></td><td><em>της, τις</em></td><td><em>των</em></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Gender.html">Gender</a>=Neut</tt></td><td><em>του</em></td><td><em>των</em></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Gender.html">Gender</a>=Masc</tt></td><td><em>ο, το, O</em></td><td><em>οι</em></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Gender.html">Gender</a>=Masc</tt></td><td><em>ο, O, το</em></td><td><em>οι</em></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Gender.html">Gender</a>=Fem</tt></td><td><em>η</em></td><td><em>οι</em></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Gender.html">Gender</a>=Neut</tt></td><td><em>το</em></td><td><em>τα</em></td></tr>
 </table>
@@ -166,7 +166,7 @@ The most frequent other feature values with which `ADP` and `Number` co-occurred
 
 437 [el-pos/AUX]() tokens (100% of all `AUX` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `AUX` and `Number` co-occurred: <tt><a href="Voice.html">Voice</a>=Pass</tt> (437; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (437; 100%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (437; 100%), <tt><a href="Aspect.html">Aspect</a>=Imp</tt> (428; 98%), <tt><a href="Person.html">Person</a>=3</tt> (415; 95%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (352; 81%).
+The most frequent other feature values with which `AUX` and `Number` co-occurred: <tt><a href="Voice.html">Voice</a>=Pass</tt> (437; 100%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (437; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (437; 100%), <tt><a href="Aspect.html">Aspect</a>=Imp</tt> (428; 98%), <tt><a href="Person.html">Person</a>=3</tt> (415; 95%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (352; 81%).
 
 `AUX` tokens may have the following values of `Number`:
 

@@ -113,65 +113,6 @@ The following 3 pairs of parts of speech are connected with `iobj`: [fr-pos/VERB
 
 
 ~~~ conllu
-# visual-style 11	bgColor:blue
-# visual-style 11	fgColor:white
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 9 11 iobj	color:blue
-1	À	à	ADP	E	_	3	case	_	_
-2	l'	le	DET	RD	Definite=Def|Number=Sing|PronType=Art	3	det	_	SpaceAfter=No
-3	exception	exception	NOUN	S	Gender=Fem|Number=Sing	27	obl	_	_
-4	de	de	ADP	E	_	6	case	_	_
-5	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	6	det	_	_
-6	fins	fin	NOUN	S	Gender=Fem|Number=Plur	3	nmod	_	_
-7	limitées	limiter	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	6	acl	_	_
-8	à	à	ADP	E	_	9	mark	_	_
-9	informer	informer	VERB	V	VerbForm=Inf	7	xcomp	_	_
-10	le	le	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
-11	public	public	NOUN	S	Gender=Masc|Number=Sing	9	iobj	_	_
-12	que	que	SCONJ	CS	_	16	mark	_	_
-13	l'	le	DET	RD	Definite=Def|Number=Sing|PronType=Art	14	det	_	SpaceAfter=No
-14	oeuvre	oeuvre	NOUN	S	Gender=Fem|Number=Sing	16	nsubj:pass	_	_
-15	est	être	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	aux:pass	_	_
-16	mise	mettre	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	9	ccomp	_	_
-17	à	à	ADP	E	_	18	case	_	_
-18	disposition	disposition	NOUN	S	Gender=Fem|Number=Sing	16	obl	_	_
-19	sous	sous	ADP	E	_	20	case	_	_
-20	CPCC	CPCC	PROPN	SP	_	16	obl	_	SpaceAfter=No
-21	,	,	PUNCT	FF	_	3	punct	_	_
-22	aucune	aucun	PRON	PI	Gender=Fem|Number=Sing|PronType=Ind	27	nsubj	_	_
-23	de	de	ADP	E	_	25	case	_	_
-24	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	25	det	_	_
-25	parties	partie	NOUN	S	Gender=Fem|Number=Plur	22	nmod	_	_
-26	n'	ne	PART	PART	Polarity=Neg	27	advmod	_	SpaceAfter=No
-27	utilisera	utiliser	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
-28	la	le	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	29	det	_	_
-29	marque	marque	NOUN	S	Gender=Fem|Number=Sing	27	obj	_	_
-30	«	«	PUNCT	FB	_	31	punct	_	SpaceAfter=No
-31	Creative	Creative	PROPN	SP	_	29	nmod	_	_
-32	Commons	Commons	PROPN	SP	_	31	flat:name	_	SpaceAfter=No
-33	»	»	PUNCT	FB	_	31	punct	_	_
-34	ou	ou	CCONJ	CC	_	37	cc	_	_
-35	toute	tout	DET	T	Gender=Fem|Number=Sing|PronType=Tot	37	det	_	_
-36	autre	autre	DET	DI	Gender=Masc|Number=Sing|PronType=Ind	37	det	_	_
-37	indication	indication	NOUN	S	Gender=Fem|Number=Sing	29	conj	_	_
-38	ou	ou	CCONJ	CC	_	39	cc	_	_
-39	logo	logo	NOUN	S	Gender=Masc|Number=Sing	37	conj	_	_
-40	afférent	afférent	ADJ	A	Gender=Masc|Number=Sing	39	amod	_	_
-41	sans	sans	ADP	E	_	43	case	_	_
-42	le	le	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	43	det	_	_
-43	consentement	consentement	NOUN	S	Gender=Masc|Number=Sing	27	obl	_	_
-44	préalable	préalable	ADJ	A	Number=Sing	43	amod	_	_
-45	écrit	écrit	ADJ	A	Gender=Masc|Number=Sing	43	amod	_	_
-46	de	de	ADP	E	_	47	case	_	_
-47	Creative	Creative	PROPN	SP	_	43	nmod	_	_
-48	Commons	Commons	PROPN	SP	_	47	flat:name	_	SpaceAfter=No
-49	.	.	PUNCT	FS	_	27	punct	_	_
-
-~~~
-
-
-~~~ conllu
 # visual-style 40	bgColor:blue
 # visual-style 40	fgColor:white
 # visual-style 42	bgColor:blue
@@ -229,6 +170,65 @@ The following 3 pairs of parts of speech are connected with `iobj`: [fr-pos/VERB
 50	l'	le	DET	RD	Definite=Def|Number=Sing|PronType=Art	51	det	_	SpaceAfter=No
 51	environnement	environnement	NOUN	S	Gender=Masc|Number=Sing	47	nmod	_	SpaceAfter=No
 52	.	.	PUNCT	FS	_	5	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 11	bgColor:blue
+# visual-style 11	fgColor:white
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 9 11 iobj	color:blue
+1	À	à	ADP	E	_	3	case	_	_
+2	l'	le	DET	RD	Definite=Def|Number=Sing|PronType=Art	3	det	_	SpaceAfter=No
+3	exception	exception	NOUN	S	Gender=Fem|Number=Sing	27	obl	_	_
+4	de	de	ADP	E	_	6	case	_	_
+5	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	6	det	_	_
+6	fins	fin	NOUN	S	Gender=Fem|Number=Plur	3	nmod	_	_
+7	limitées	limiter	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	6	acl	_	_
+8	à	à	ADP	E	_	9	mark	_	_
+9	informer	informer	VERB	V	VerbForm=Inf	7	xcomp	_	_
+10	le	le	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+11	public	public	NOUN	S	Gender=Masc|Number=Sing	9	iobj	_	_
+12	que	que	SCONJ	CS	_	16	mark	_	_
+13	l'	le	DET	RD	Definite=Def|Number=Sing|PronType=Art	14	det	_	SpaceAfter=No
+14	oeuvre	oeuvre	NOUN	S	Gender=Fem|Number=Sing	16	nsubj:pass	_	_
+15	est	être	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	aux:pass	_	_
+16	mise	mettre	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	9	ccomp	_	_
+17	à	à	ADP	E	_	18	case	_	_
+18	disposition	disposition	NOUN	S	Gender=Fem|Number=Sing	16	obl	_	_
+19	sous	sous	ADP	E	_	20	case	_	_
+20	CPCC	CPCC	PROPN	SP	_	16	obl	_	SpaceAfter=No
+21	,	,	PUNCT	FF	_	3	punct	_	_
+22	aucune	aucun	PRON	PI	Gender=Fem|Number=Sing|PronType=Ind	27	nsubj	_	_
+23	de	de	ADP	E	_	25	case	_	_
+24	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	25	det	_	_
+25	parties	partie	NOUN	S	Gender=Fem|Number=Plur	22	nmod	_	_
+26	n'	ne	PART	PART	Polarity=Neg	27	advmod	_	SpaceAfter=No
+27	utilisera	utiliser	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
+28	la	le	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	29	det	_	_
+29	marque	marque	NOUN	S	Gender=Fem|Number=Sing	27	obj	_	_
+30	«	«	PUNCT	FB	_	31	punct	_	SpaceAfter=No
+31	Creative	Creative	PROPN	SP	_	29	nmod	_	_
+32	Commons	Commons	PROPN	SP	_	31	flat:name	_	SpaceAfter=No
+33	»	»	PUNCT	FB	_	31	punct	_	_
+34	ou	ou	CCONJ	CC	_	37	cc	_	_
+35	toute	tout	DET	T	Gender=Fem|Number=Sing|PronType=Tot	37	det	_	_
+36	autre	autre	DET	DI	Gender=Masc|Number=Sing|PronType=Ind	37	det	_	_
+37	indication	indication	NOUN	S	Gender=Fem|Number=Sing	29	conj	_	_
+38	ou	ou	CCONJ	CC	_	39	cc	_	_
+39	logo	logo	NOUN	S	Gender=Masc|Number=Sing	37	conj	_	_
+40	afférent	afférent	ADJ	A	Gender=Masc|Number=Sing	39	amod	_	_
+41	sans	sans	ADP	E	_	43	case	_	_
+42	le	le	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	43	det	_	_
+43	consentement	consentement	NOUN	S	Gender=Masc|Number=Sing	27	obl	_	_
+44	préalable	préalable	ADJ	A	Number=Sing	43	amod	_	_
+45	écrit	écrit	ADJ	A	Gender=Masc|Number=Sing	43	amod	_	_
+46	de	de	ADP	E	_	47	case	_	_
+47	Creative	Creative	PROPN	SP	_	43	nmod	_	_
+48	Commons	Commons	PROPN	SP	_	47	flat:name	_	SpaceAfter=No
+49	.	.	PUNCT	FS	_	27	punct	_	_
 
 ~~~
 

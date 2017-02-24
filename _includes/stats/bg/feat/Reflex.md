@@ -16,7 +16,7 @@ The feature is used with 2 part-of-speech tags: [bg-pos/PRON]() (3510; 2% instan
 
 3510 [bg-pos/PRON]() tokens (39% of all `PRON` tokens) have a non-empty value of `Reflex`.
 
-The most frequent other feature values with which `PRON` and `Reflex` co-occurred: <tt><a href="Person.html">Person</a>=EMPTY</tt> (3510; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (3510; 100%), <tt><a href="PronType.html">PronType</a>=Prs</tt> (3510; 100%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (3510; 100%), <tt><a href="Poss.html">Poss</a>=EMPTY</tt> (2904; 83%), <tt><a href="Case.html">Case</a>=Acc</tt> (2666; 76%).
+The most frequent other feature values with which `PRON` and `Reflex` co-occurred: <tt><a href="Number.html">Number</a>=EMPTY</tt> (3510; 100%), <tt><a href="PronType.html">PronType</a>=Prs</tt> (3510; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (3510; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (3510; 100%), <tt><a href="Poss.html">Poss</a>=EMPTY</tt> (2904; 83%), <tt><a href="Case.html">Case</a>=Acc</tt> (2666; 76%).
 
 `PRON` tokens may have the following values of `Reflex`:
 
@@ -27,7 +27,7 @@ The most frequent other feature values with which `PRON` and `Reflex` co-occurre
 
 113 [bg-pos/DET]() tokens (5% of all `DET` tokens) have a non-empty value of `Reflex`.
 
-The most frequent other feature values with which `DET` and `Reflex` co-occurred: <tt><a href="Person.html">Person</a>=EMPTY</tt> (113; 100%), <tt><a href="PronType.html">PronType</a>=Prs</tt> (113; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (113; 100%), <tt><a href="Poss.html">Poss</a>=Yes</tt> (113; 100%), <tt><a href="Definite.html">Definite</a>=Def</tt> (85; 75%), <tt><a href="Number.html">Number</a>=Sing</tt> (73; 65%).
+The most frequent other feature values with which `DET` and `Reflex` co-occurred: <tt><a href="PronType.html">PronType</a>=Prs</tt> (113; 100%), <tt><a href="Poss.html">Poss</a>=Yes</tt> (113; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (113; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (113; 100%), <tt><a href="Definite.html">Definite</a>=Def</tt> (85; 75%), <tt><a href="Number.html">Number</a>=Sing</tt> (73; 65%).
 
 `DET` tokens may have the following values of `Reflex`:
 

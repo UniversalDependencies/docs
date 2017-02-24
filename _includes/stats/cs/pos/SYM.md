@@ -135,12 +135,12 @@ The 10 most frequent `SYM` types:  <em>%, +, /</em>
 
 The 10 most frequent ambiguous lemmas: <em>/</em> ([SYM]() 2, [PUNCT]() 2)
 
-The 10 most frequent ambiguous types:  <em>/</em> ([SYM]() 2, [PUNCT]() 2)
+The 10 most frequent ambiguous types:  <em>/</em> ([PUNCT]() 2, [SYM]() 2)
 
 
 * <em>/</em>
-  * [SYM]() 2: <em>Odpisová sazba na jednotku těženého množství ( Kč <b>/</b> t , Kč <b>/</b> m je podílem pořizovací ceny ložiska na jednotlivém pozemku a zásob nevyhrazeného nerostu ( t , m prokázaných geologickým průzkumem na tomto pozemku .</em>
   * [PUNCT]() 2: <em>(4) Rozdíl mezi součtem počátečních zůstatků nově otevřených účtů aktiv a mezi součtem počátečních zůstatků nově otevřených účtů pasiv se uvede na účet v účtové skupině 49 , a to v závislosti na povaze zjištěného rozdílu ( + <b>/</b> - ) jako zůstatek aktivní nebo pasivní .</em>
+  * [SYM]() 2: <em>Odpisová sazba na jednotku těženého množství ( Kč <b>/</b> t , Kč <b>/</b> m je podílem pořizovací ceny ložiska na jednotlivém pozemku a zásob nevyhrazeného nerostu ( t , m prokázaných geologickým průzkumem na tomto pozemku .</em>
 
 ## Morphology
 

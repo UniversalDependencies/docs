@@ -13,7 +13,7 @@ The 10 most frequent `ADV` types:  <em>juga, akan, dapat, telah, lebih, kemudian
 
 The 10 most frequent ambiguous lemmas: <em>_</em> ([NOUN]() 24724, [PROPN]() 20630, [PUNCT]() 16504, [VERB]() 10952, [ADP]() 10866, [ADV]() 4270, [ADJ]() 4144, [NUM]() 3979, [PRON]() 3936, [DET]() 3594, [CCONJ]() 3284, [SCONJ]() 1333, [AUX]() 960, [PART]() 541, [SYM]() 388, [X]() 38)
 
-The 10 most frequent ambiguous types:  <em>juga</em> ([ADV]() 318, [CCONJ]() 9, [ADP]() 1), <em>akan</em> ([ADV]() 233, [ADP]() 14, [CCONJ]() 2), <em>dapat</em> ([ADV]() 228, [VERB]() 4), <em>kemudian</em> ([ADV]() 146, [SCONJ]() 4, [ADJ]() 2, [ADP]() 1), <em>hanya</em> ([ADV]() 115, [ADP]() 1, [CCONJ]() 1), <em>masih</em> ([ADV]() 92, [VERB]() 2), <em>bisa</em> ([ADV]() 87, [VERB]() 5), <em>banyak</em> ([ADV]() 79, [DET]() 30, [NOUN]() 1, [ADJ]() 1, [PUNCT]() 1), <em>apakah</em> ([ADV]() 31, [NOUN]() 8, [SCONJ]() 5, [ADJ]() 2), <em>harus</em> ([ADV]() 73, [VERB]() 4)
+The 10 most frequent ambiguous types:  <em>juga</em> ([ADV]() 318, [CCONJ]() 9, [ADP]() 1), <em>akan</em> ([ADV]() 233, [ADP]() 14, [CCONJ]() 2), <em>dapat</em> ([ADV]() 228, [VERB]() 4), <em>kemudian</em> ([ADV]() 146, [SCONJ]() 4, [ADJ]() 2, [ADP]() 1), <em>hanya</em> ([ADV]() 115, [CCONJ]() 1, [ADP]() 1), <em>masih</em> ([ADV]() 92, [VERB]() 2), <em>bisa</em> ([ADV]() 87, [VERB]() 5), <em>banyak</em> ([ADV]() 79, [DET]() 30, [ADJ]() 1, [PUNCT]() 1, [NOUN]() 1), <em>apakah</em> ([ADV]() 31, [NOUN]() 8, [SCONJ]() 5, [ADJ]() 2), <em>harus</em> ([ADV]() 73, [VERB]() 4)
 
 
 * <em>juga</em>
@@ -34,8 +34,8 @@ The 10 most frequent ambiguous types:  <em>juga</em> ([ADV]() 318, [CCONJ]() 9, 
   * [ADP]() 1: <em>Camara memulai karier juniornya di klub Étoile Lusitana <b>kemudian</b> memulai karier seniornya di klub tersebut .</em>
 * <em>hanya</em>
   * [ADV]() 115: <em>Fenomena ini <b>hanya</b> terjadi lagi pada Desember 2117 dan Desember 2125 .</em>
-  * [ADP]() 1: <em>ISP yang tersambung ke IIX tanpa biaya lebar pita , <b>hanya</b> biaya sambungan fisik sepeti serat optik , jalur nirkabel ataupun sewaan , yang berbeda - beda .</em>
   * [CCONJ]() 1: <em>Hanya dua musim berada di kasta kedua kompetisi sepakbola nasional , tim berjuluk Laskar Padjadjaran sukses menembus pentas tertinggi sepakbola nasional kala itu , divisi utama . Sayang karena hanya dua musim berada di divisi utama , tim ini kembali degradasi ke divisi I . Menariknya , <b>hanya</b> satu musim turun kasta , tim ini pun kembali ke divisi utama .</em>
+  * [ADP]() 1: <em>ISP yang tersambung ke IIX tanpa biaya lebar pita , <b>hanya</b> biaya sambungan fisik sepeti serat optik , jalur nirkabel ataupun sewaan , yang berbeda - beda .</em>
 * <em>masih</em>
   * [ADV]() 92: <em>Bagaimanakah kelanjutan kisah para remaja yang <b>masih</b> di bawah umur ini ?</em>
   * [VERB]() 2: <em>Pohon ini mirip dengan Telopea , yang <b>masih</b> dalam kerabat dekat dengan tanaman ini .</em>
@@ -45,9 +45,9 @@ The 10 most frequent ambiguous types:  <em>juga</em> ([ADV]() 318, [CCONJ]() 9, 
 * <em>banyak</em>
   * [ADV]() 79: <em>Desain Romulan <b>banyak</b> terinspirasi oleh desainer Italia Carlo Scarpa .</em>
   * [DET]() 30: <em>Tetapi Ia berkata kepada mereka : `` Berapa <b>banyak</b> roti yang ada padamu ?</em>
-  * [NOUN]() 1: <em>Di album Sgt . Pepper's Lonely Hearts Club Band , band ini juga menggunakan beragam alat musik India dalam lagu ' Within You Without You ' , klarinet di ' When I ' m Sixty - Four ' , alat musik gesek di ' She's Leaving Home ' , harpsicord di ' Fixing a Hole ' , harmonium di ' Being the Benefit of Mr . Kite ' dan masih <b>banyak</b> lagi .</em>
   * [ADJ]() 1: <em>Bila pengguna ingin berbahasa Indonesia , dapat bergabung dengan # bawel , # pondok , # indo , # puncak , dan masih <b>banyak</b> lagi .</em>
   * [PUNCT]() 1: <em>Saat burung kembali ke koloni , ia akan menari dengan <b>banyak</b> pasangan , namun setelah beberapa tahun ia akan memilih satu sebagai pasangan yang akan bertahan seumur hidup .</em>
+  * [NOUN]() 1: <em>Di album Sgt . Pepper's Lonely Hearts Club Band , band ini juga menggunakan beragam alat musik India dalam lagu ' Within You Without You ' , klarinet di ' When I ' m Sixty - Four ' , alat musik gesek di ' She's Leaving Home ' , harpsicord di ' Fixing a Hole ' , harmonium di ' Being the Benefit of Mr . Kite ' dan masih <b>banyak</b> lagi .</em>
 * <em>apakah</em>
   * [ADV]() 31: <em>Bau <b>apakah</b> yang tercium olehku ?</em>
   * [NOUN]() 8: <em>`` Untuk <b>apakah</b> kamu pergi ke padang gurun ?</em>

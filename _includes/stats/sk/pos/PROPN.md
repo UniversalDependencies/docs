@@ -11,9 +11,9 @@ The 10 most frequent `PROPN` lemmas: <em>maja, chris, winston, aladin, vilko, Ma
 
 The 10 most frequent `PROPN` types:  <em>Maja, Chris, Winston, Aladin, Mauglí, Lori, Jazmína, Vilko, Blythe, Herkules</em>
 
-The 10 most frequent ambiguous lemmas: <em>maja</em> ([PROPN]() 165, [NOUN]() 1), <em>aba</em> ([PROPN]() 28, [NOUN]() 1), <em>irma</em> ([PROPN]() 25, [NOUN]() 1), <em>boh</em> ([NOUN]() 19, [PROPN]() 18), <em>Balú</em> ([PROPN]() 17, [VERB]() 1, [ADJ]() 1), <em>profesor</em> ([PROPN]() 12, [NOUN]() 11), <em>pán</em> ([NOUN]() 15, [PROPN]() 12), <em>rus</em> ([PROPN]() 11, [NOUN]() 1), <em>rýchlik</em> ([PROPN]() 9, [NOUN]() 1), <em>Mauglího</em> ([PROPN]() 8, [ADJ]() 1)
+The 10 most frequent ambiguous lemmas: <em>maja</em> ([PROPN]() 165, [NOUN]() 1), <em>aba</em> ([PROPN]() 28, [NOUN]() 1), <em>irma</em> ([PROPN]() 25, [NOUN]() 1), <em>boh</em> ([NOUN]() 19, [PROPN]() 18), <em>Balú</em> ([PROPN]() 17, [ADJ]() 1, [VERB]() 1), <em>profesor</em> ([PROPN]() 12, [NOUN]() 11), <em>pán</em> ([NOUN]() 15, [PROPN]() 12), <em>rus</em> ([PROPN]() 11, [NOUN]() 1), <em>rýchlik</em> ([PROPN]() 9, [NOUN]() 1), <em>Mauglího</em> ([PROPN]() 8, [ADJ]() 1)
 
-The 10 most frequent ambiguous types:  <em>Maja</em> ([PROPN]() 140, [NOUN]() 1), <em>Abu</em> ([PROPN]() 28, [NOUN]() 1), <em>Baghíra</em> ([PROPN]() 22, [ADJ]() 1), <em>Balú</em> ([PROPN]() 17, [ADJ]() 1, [VERB]() 1), <em>Irma</em> ([PROPN]() 16, [NOUN]() 1), <em>Maju</em> ([PROPN]() 13, [NOUN]() 1), <em>Makulienka</em> ([PROPN]() 13, [NOUN]() 1), <em>Boh</em> ([PROPN]() 9, [NOUN]() 1), <em>Rusi</em> ([PROPN]() 9, [NOUN]() 1), <em>Mauglího</em> ([PROPN]() 8, [ADJ]() 2)
+The 10 most frequent ambiguous types:  <em>Maja</em> ([PROPN]() 140, [NOUN]() 1), <em>Abu</em> ([PROPN]() 28, [NOUN]() 1), <em>Baghíra</em> ([PROPN]() 22, [ADJ]() 1), <em>Balú</em> ([PROPN]() 17, [VERB]() 1, [ADJ]() 1), <em>Irma</em> ([PROPN]() 16, [NOUN]() 1), <em>Maju</em> ([PROPN]() 13, [NOUN]() 1), <em>Makulienka</em> ([PROPN]() 13, [NOUN]() 1), <em>Boh</em> ([PROPN]() 9, [NOUN]() 1), <em>Rusi</em> ([PROPN]() 9, [NOUN]() 1), <em>Mauglího</em> ([PROPN]() 8, [ADJ]() 2)
 
 
 * <em>Maja</em>
@@ -27,8 +27,8 @@ The 10 most frequent ambiguous types:  <em>Maja</em> ([PROPN]() 140, [NOUN]() 1)
   * [ADJ]() 1: <em>“ Zomrel , “ povedal <b>Baghíra</b> .</em>
 * <em>Balú</em>
   * [PROPN]() 17: <em>“ To je ono ! “ zvolal <b>Balú</b> .</em>
-  * [ADJ]() 1: <em>“ Musíš byť statočný , ako bol <b>Balú</b> , “ odvetil .</em>
   * [VERB]() 1: <em>“ <b>Balú</b> , ty žiješ ! “ zvolal Mauglí a hodil sa mu okolo krku .</em>
+  * [ADJ]() 1: <em>“ Musíš byť statočný , ako bol <b>Balú</b> , “ odvetil .</em>
 * <em>Irma</em>
   * [PROPN]() 16: <em><b>Irma</b> neuverí rozprávkam , vyľaká sa .</em>
   * [NOUN]() 1: <em>Podľa Irminých pokynov – samotná <b>Irma</b> vybavovala všelijaké formality – ma poprosili , aby som odišiel z domu a vrátil sa podľa možnosti až večer .</em>

@@ -11,9 +11,9 @@ The 10 most frequent `AUX` lemmas: <em>vara, kunna, ha, skola, måste, komma, f�
 
 The 10 most frequent `AUX` types:  <em>är, kan, har, skall, måste, vara, kommer, skulle, ska, var</em>
 
-The 10 most frequent ambiguous lemmas: <em>vara</em> ([AUX]() 1227, [VERB]() 200, [NOUN]() 22, [ADV]() 8, [PRON]() 8, [DET]() 6), <em>kunna</em> ([AUX]() 572, [VERB]() 10), <em>ha</em> ([VERB]() 460, [AUX]() 421, [INTJ]() 2), <em>skola</em> ([AUX]() 348, [NOUN]() 46, [VERB]() 5), <em>måste</em> ([AUX]() 151, [NOUN]() 1, [VERB]() 1), <em>komma</em> ([VERB]() 131, [AUX]() 110), <em>få</em> ([VERB]() 301, [AUX]() 102, [ADJ]() 12, [PRON]() 1), <em>vilja</em> ([AUX]() 78, [VERB]() 12, [NOUN]() 8), <em>böra</em> ([AUX]() 74, [VERB]() 1), <em>behöva</em> ([VERB]() 46, [AUX]() 41)
+The 10 most frequent ambiguous lemmas: <em>vara</em> ([AUX]() 1227, [VERB]() 200, [NOUN]() 22, [PRON]() 8, [ADV]() 8, [DET]() 6), <em>kunna</em> ([AUX]() 572, [VERB]() 10), <em>ha</em> ([VERB]() 460, [AUX]() 421, [INTJ]() 2), <em>skola</em> ([AUX]() 348, [NOUN]() 46, [VERB]() 5), <em>måste</em> ([AUX]() 151, [VERB]() 1, [NOUN]() 1), <em>komma</em> ([VERB]() 131, [AUX]() 110), <em>få</em> ([VERB]() 301, [AUX]() 102, [ADJ]() 12, [PRON]() 1), <em>vilja</em> ([AUX]() 78, [VERB]() 12, [NOUN]() 8), <em>böra</em> ([AUX]() 74, [VERB]() 1), <em>behöva</em> ([VERB]() 46, [AUX]() 41)
 
-The 10 most frequent ambiguous types:  <em>är</em> ([AUX]() 969, [VERB]() 141), <em>kan</em> ([AUX]() 475, [VERB]() 5), <em>har</em> ([AUX]() 372, [VERB]() 310), <em>skall</em> ([AUX]() 149, [VERB]() 2), <em>måste</em> ([AUX]() 150, [VERB]() 1, [NOUN]() 1), <em>vara</em> ([AUX]() 126, [VERB]() 25, [NOUN]() 6), <em>kommer</em> ([AUX]() 98, [VERB]() 64), <em>ska</em> ([AUX]() 89, [VERB]() 3), <em>var</em> ([AUX]() 77, [VERB]() 19, [PRON]() 17, [DET]() 14, [ADV]() 9), <em>får</em> ([VERB]() 117, [AUX]() 65)
+The 10 most frequent ambiguous types:  <em>är</em> ([AUX]() 969, [VERB]() 141), <em>kan</em> ([AUX]() 475, [VERB]() 5), <em>har</em> ([AUX]() 372, [VERB]() 310), <em>skall</em> ([AUX]() 149, [VERB]() 2), <em>måste</em> ([AUX]() 150, [NOUN]() 1, [VERB]() 1), <em>vara</em> ([AUX]() 126, [VERB]() 25, [NOUN]() 6), <em>kommer</em> ([AUX]() 98, [VERB]() 64), <em>ska</em> ([AUX]() 89, [VERB]() 3), <em>var</em> ([AUX]() 77, [VERB]() 19, [PRON]() 17, [DET]() 14, [ADV]() 9), <em>får</em> ([VERB]() 117, [AUX]() 65)
 
 
 * <em>är</em>
@@ -30,8 +30,8 @@ The 10 most frequent ambiguous types:  <em>är</em> ([AUX]() 969, [VERB]() 141),
   * [VERB]() 2: <em>På samma gång <b>skall</b> en miljon barn till skolan .</em>
 * <em>måste</em>
   * [AUX]() 150: <em>Det <b>måste</b> också bli en mer praktisk syn på barnuppfostran .</em>
-  * [VERB]() 1: <em>Till det som <b>måste</b> bort - och där har vi väl numera hunnit rätt långt - hör naturligtvis alla ' måste ' kring ett äktenskaps ingående .</em>
   * [NOUN]() 1: <em>Till det som måste bort - och där har vi väl numera hunnit rätt långt - hör naturligtvis alla ' <b>måste</b> ' kring ett äktenskaps ingående .</em>
+  * [VERB]() 1: <em>Till det som <b>måste</b> bort - och där har vi väl numera hunnit rätt långt - hör naturligtvis alla ' måste ' kring ett äktenskaps ingående .</em>
 * <em>vara</em>
   * [AUX]() 126: <em>Man har anledning att <b>vara</b> pessimistisk .</em>
   * [VERB]() 25: <em>Vilka får <b>vara</b> med ?</em>

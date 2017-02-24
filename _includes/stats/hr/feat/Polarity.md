@@ -25,7 +25,7 @@ The feature is used with 5 part-of-speech tags: [hr-pos/PART]() (808; 0% instanc
 
 262 [hr-pos/AUX]() tokens (2% of all `AUX` tokens) have a non-empty value of `Polarity`.
 
-The most frequent other feature values with which `AUX` and `Polarity` co-occurred: <tt><a href="Mood.html">Mood</a>=Ind</tt> (262; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (262; 100%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (262; 100%), <tt><a href="Person.html">Person</a>=3</tt> (245; 94%), <tt><a href="Number.html">Number</a>=Sing</tt> (188; 72%).
+The most frequent other feature values with which `AUX` and `Polarity` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (262; 100%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (262; 100%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (262; 100%), <tt><a href="Person.html">Person</a>=3</tt> (245; 94%), <tt><a href="Number.html">Number</a>=Sing</tt> (188; 72%).
 
 `AUX` tokens may have the following values of `Polarity`:
 

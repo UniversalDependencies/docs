@@ -98,26 +98,24 @@ The following 8 pairs of parts of speech are connected with `compound`: [ko-pos/
 
 
 ~~~ conllu
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 10 8 compound	color:blue
-1	_	_	NOUN	_	_	3	nsubj	_	_
-2	_	_	PART	_	_	1	case	_	_
-3	_	_	ADV	_	_	10	amod	_	_
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 1 compound	color:blue
+1	_	_	PROPN	_	_	3	compound	_	_
+2	_	_	PUNCT	_	_	3	punct	_	_
+3	_	_	PRON	_	_	10	nsubj	_	_
 4	_	_	PART	_	_	3	case	_	_
-5	_	_	PART	_	_	4	case	_	_
-6	_	_	NOUN	_	_	10	compound	_	_
-7	_	_	PART	_	_	6	case	_	_
-8	_	_	VERB	_	_	10	compound	_	_
+5	_	_	NOUN	_	_	10	advcl	_	_
+6	_	_	ADV	_	_	7	advmod	_	_
+7	_	_	ADJ	_	_	8	advmod	_	_
+8	_	_	NOUN	_	_	10	nsubj	_	_
 9	_	_	PART	_	_	8	case	_	_
-10	_	_	NOUN	_	_	12	nsubj	_	_
-11	_	_	ADV	_	_	12	advmod	_	_
-12	_	_	VERB	_	_	13	advmod	_	_
-13	_	_	VERB	_	_	0	root	_	_
-14	_	_	PART	_	_	13	case	_	_
-15	_	_	PUNCT	_	_	14	punct	_	_
+10	_	_	VERB	_	_	0	root	_	_
+11	_	_	PART	_	_	10	case	_	_
+12	_	_	PART	_	_	11	case	_	_
+13	_	_	PUNCT	_	_	12	punct	_	_
 
 ~~~
 

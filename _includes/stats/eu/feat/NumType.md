@@ -23,7 +23,7 @@ The feature is used with 1 part-of-speech tags: [eu-pos/NUM]() (3703; 4% instanc
 
 <table>
   <tr><th>Paradigm <i>lehen</i></th><th><tt>Card</tt></th><th><tt>Ord</tt></th></tr>
-  <tr><td><tt></tt></td><td><em>LEHEN</em></td><td><em>lehen, lehena, Lehenak, lehenek</em></td></tr>
+  <tr><td><tt></tt></td><td><em>LEHEN</em></td><td><em>lehen, lehena, lehenek, Lehenak</em></td></tr>
 </table>
 
 `NumType` seems to be **lexical feature** of `NUM`. 100% lemmas (613) occur only with one value of `NumType`.

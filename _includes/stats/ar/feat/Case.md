@@ -31,7 +31,7 @@ The most frequent other feature values with which `NOUN` and `Case` co-occurred:
   <tr><td><tt><a href="Definite.html">Definite</a>=Cons|<a href="Number.html">Number</a>=Plur</tt></td><td>أيام</td><td>ايام, أيام</td><td>أيام</td></tr>
   <tr><td><tt><a href="Definite.html">Definite</a>=Def|<a href="Number.html">Number</a>=Sing</tt></td><td>اليوم</td><td>اليوم</td><td>اليوم</td></tr>
   <tr><td><tt><a href="Definite.html">Definite</a>=Def|<a href="Number.html">Number</a>=Dual</tt></td><td></td><td></td><td>اليومين</td></tr>
-  <tr><td><tt><a href="Definite.html">Definite</a>=Def|<a href="Number.html">Number</a>=Plur</tt></td><td>الايام, الأيام</td><td>الأيام, الايام</td><td>الايام, الأيام</td></tr>
+  <tr><td><tt><a href="Definite.html">Definite</a>=Def|<a href="Number.html">Number</a>=Plur</tt></td><td>الأيام, الايام</td><td>الأيام, الايام</td><td>الايام, الأيام</td></tr>
   <tr><td><tt><a href="Definite.html">Definite</a>=Ind|<a href="Number.html">Number</a>=Sing</tt></td><td>يوم</td><td>يوما, يوماً</td><td>يوم</td></tr>
   <tr><td><tt><a href="Definite.html">Definite</a>=Ind|<a href="Number.html">Number</a>=Dual</tt></td><td></td><td>يومين</td><td>يومين</td></tr>
   <tr><td><tt><a href="Definite.html">Definite</a>=Ind|<a href="Number.html">Number</a>=Plur</tt></td><td></td><td>اياما</td><td>أيام, ايام</td></tr>
@@ -81,13 +81,13 @@ The most frequent other feature values with which `PRON` and `Case` co-occurred:
   <tr><th>Paradigm <i>هُوَ</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Gen</tt></th></tr>
   <tr><td><tt><a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=1</tt></td><td>أنا, انا</td><td>ني</td><td>ي</td></tr>
   <tr><td><tt><a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=2</tt></td><td>أنت</td><td>ك</td><td>ك</td></tr>
-  <tr><td><tt><a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3</tt></td><td>هو</td><td>ه</td><td>ه, إدانته, زنزانته, مستقبله, استعداداته, حكومته, والده, لاراضيه, تجهيزه, انتشاره, بلاده, طائرته, وغربه</td></tr>
+  <tr><td><tt><a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3</tt></td><td>هو</td><td>ه</td><td>ه, وغربه, انتشاره, طائرته, بلاده, لاراضيه, إدانته, استعداداته, تجهيزه, مستقبله, زنزانته, حكومته, والده</td></tr>
   <tr><td><tt><a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Dual|<a href="Person.html">Person</a>=3</tt></td><td>هما</td><td>هما</td><td>هما</td></tr>
   <tr><td><tt><a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=1</tt></td><td>نحن</td><td>نا</td><td>نا, لمساعدتنا</td></tr>
   <tr><td><tt><a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=2</tt></td><td>انتم, أنتم</td><td>كم</td><td>كم</td></tr>
-  <tr><td><tt><a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=3</tt></td><td>هم</td><td>هم</td><td>هم, بلادهم, بهم, بأنفسهم, لهم, شفائهم</td></tr>
+  <tr><td><tt><a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=3</tt></td><td>هم</td><td>هم</td><td>هم, شفائهم, بأنفسهم, بهم, لهم, بلادهم</td></tr>
   <tr><td><tt><a href="Gender.html">Gender</a>=Fem|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=2</tt></td><td></td><td></td><td>ك</td></tr>
-  <tr><td><tt><a href="Gender.html">Gender</a>=Fem|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3</tt></td><td>هي, هى, وهي</td><td>ها</td><td>ها, بفقدانها, بهويتها, مستشفياتها, أهدافها, تخصيصها, إليها, مواجهتها, أعضائها, بضمانها, نهايتها, تجارتها</td></tr>
+  <tr><td><tt><a href="Gender.html">Gender</a>=Fem|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3</tt></td><td>هي, هى, وهي</td><td>ها</td><td>ها, تخصيصها, بضمانها, نهايتها, أهدافها, أعضائها, بهويتها, مواجهتها, تجارتها, بفقدانها, إليها, مستشفياتها</td></tr>
   <tr><td><tt><a href="Gender.html">Gender</a>=Fem|<a href="Number.html">Number</a>=Dual|<a href="Person.html">Person</a>=3</tt></td><td>هما</td><td>هما</td><td>هما</td></tr>
   <tr><td><tt><a href="Gender.html">Gender</a>=Fem|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=3</tt></td><td>هن</td><td>هن</td><td>هن</td></tr>
 </table>
@@ -318,7 +318,7 @@ The most frequent other feature values with which `ADP` and `Case` co-occurred: 
 
 214 [ar-pos/VERB]() tokens (0% of all `VERB` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `VERB` and `Case` co-occurred: <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (214; 100%), <tt><a href="Aspect.html">Aspect</a>=EMPTY</tt> (214; 100%), <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (214; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (193; 90%), <tt><a href="Number.html">Number</a>=Sing</tt> (187; 87%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (152; 71%).
+The most frequent other feature values with which `VERB` and `Case` co-occurred: <tt><a href="Aspect.html">Aspect</a>=EMPTY</tt> (214; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (214; 100%), <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (214; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (193; 90%), <tt><a href="Number.html">Number</a>=Sing</tt> (187; 87%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (152; 71%).
 
 `VERB` tokens may have the following values of `Case`:
 
@@ -331,7 +331,7 @@ The most frequent other feature values with which `VERB` and `Case` co-occurred:
 
 92 [ar-pos/AUX]() tokens (1% of all `AUX` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `AUX` and `Case` co-occurred: <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (92; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (92; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (88; 96%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (87; 95%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (76; 83%).
+The most frequent other feature values with which `AUX` and `Case` co-occurred: <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (92; 100%), <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (92; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (88; 96%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (87; 95%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (76; 83%).
 
 `AUX` tokens may have the following values of `Case`:
 
@@ -357,7 +357,7 @@ The most frequent other feature values with which `DET` and `Case` co-occurred: 
 
 48 [ar-pos/X]() tokens (5% of all `X` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `X` and `Case` co-occurred: <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (48; 100%), <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (48; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (47; 98%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (43; 90%).
+The most frequent other feature values with which `X` and `Case` co-occurred: <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (48; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (48; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (47; 98%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (43; 90%).
 
 `X` tokens may have the following values of `Case`:
 

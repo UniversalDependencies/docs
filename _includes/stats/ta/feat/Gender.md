@@ -26,7 +26,7 @@ The most frequent other feature values with which `NOUN` and `Gender` co-occurre
 
 <table>
   <tr><th>Paradigm <i>மக்கள்</i></th><th><tt>Neut</tt></th><th><tt>Com</tt></th></tr>
-  <tr><td><tt><a href="Animacy.html">Animacy</a>=Anim|<a href="Case.html">Case</a>=Acc|<a href="Number.html">Number</a>=Plur</tt></td><td></td><td>மக்களைக், மக்களை</td></tr>
+  <tr><td><tt><a href="Animacy.html">Animacy</a>=Anim|<a href="Case.html">Case</a>=Acc|<a href="Number.html">Number</a>=Plur</tt></td><td></td><td>மக்களை, மக்களைக்</td></tr>
   <tr><td><tt><a href="Animacy.html">Animacy</a>=Anim|<a href="Case.html">Case</a>=Dat|<a href="Number.html">Number</a>=Plur</tt></td><td></td><td>மக்களுக்கு</td></tr>
   <tr><td><tt><a href="Animacy.html">Animacy</a>=Anim|<a href="Case.html">Case</a>=Gen|<a href="Number.html">Number</a>=Plur</tt></td><td></td><td>மக்களின்</td></tr>
   <tr><td><tt><a href="Animacy.html">Animacy</a>=Anim|<a href="Case.html">Case</a>=Loc|<a href="Number.html">Number</a>=Plur</tt></td><td></td><td>மக்களிடம்</td></tr>
@@ -51,7 +51,7 @@ The most frequent other feature values with which `PROPN` and `Gender` co-occurr
 <table>
   <tr><th>Paradigm <i>தமிழர்</i></th><th><tt>Neut</tt></th><th><tt>Com</tt></th></tr>
   <tr><td><tt><a href="Animacy.html">Animacy</a>=Anim|<a href="Case.html">Case</a>=Acc|<a href="Number.html">Number</a>=Plur</tt></td><td></td><td>தமிழர்களை, தமிழர்களைச்</td></tr>
-  <tr><td><tt><a href="Animacy.html">Animacy</a>=Anim|<a href="Case.html">Case</a>=Dat|<a href="Number.html">Number</a>=Plur</tt></td><td></td><td>தமிழர்களுக்க், தமிழர்களுக்கு, தமிழர்களுக்குத்</td></tr>
+  <tr><td><tt><a href="Animacy.html">Animacy</a>=Anim|<a href="Case.html">Case</a>=Dat|<a href="Number.html">Number</a>=Plur</tt></td><td></td><td>தமிழர்களுக்க், தமிழர்களுக்குத், தமிழர்களுக்கு</td></tr>
   <tr><td><tt><a href="Animacy.html">Animacy</a>=Anim|<a href="Case.html">Case</a>=Nom|<a href="Number.html">Number</a>=Plur</tt></td><td></td><td>தமிழர்களின்</td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Loc|<a href="Number.html">Number</a>=Plur</tt></td><td>தமிழர்களிடம்</td><td></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Number.html">Number</a>=Sing</tt></td><td>தமிழர்</td><td></td></tr>
@@ -124,7 +124,7 @@ The most frequent other feature values with which `PRON` and `Gender` co-occurre
 
 16 [ta-pos/NUM]() tokens (6% of all `NUM` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `NUM` and `Gender` co-occurred: <tt><a href="NumForm.html">NumForm</a>=Digit</tt> (9; 56%), <tt><a href="NumType.html">NumType</a>=EMPTY</tt> (9; 56%).
+The most frequent other feature values with which `NUM` and `Gender` co-occurred: <tt><a href="NumType.html">NumType</a>=EMPTY</tt> (9; 56%), <tt><a href="NumForm.html">NumForm</a>=Digit</tt> (9; 56%).
 
 `NUM` tokens may have the following values of `Gender`:
 
@@ -138,7 +138,7 @@ The most frequent other feature values with which `NUM` and `Gender` co-occurred
 
 15 [ta-pos/PART]() tokens (2% of all `PART` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `PART` and `Gender` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=Ger</tt> (15; 100%), <tt><a href="Polarity.html">Polarity</a>=Pos</tt> (15; 100%).
+The most frequent other feature values with which `PART` and `Gender` co-occurred: <tt><a href="Polarity.html">Polarity</a>=Pos</tt> (15; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Ger</tt> (15; 100%).
 
 `PART` tokens may have the following values of `Gender`:
 

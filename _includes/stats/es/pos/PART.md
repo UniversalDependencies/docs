@@ -11,9 +11,9 @@ The 10 most frequent `PART` lemmas: <em>ex, hola, re, co, ir, l, abandono, adio,
 
 The 10 most frequent `PART` types:  <em>Hola, ex, re, L, co, Gram, Trans, Vamos, Vaya, Vice</em>
 
-The 10 most frequent ambiguous lemmas: <em>ex</em> ([X]() 43, [PART]() 4, [ADJ]() 3, [NOUN]() 1, [PROPN]() 1), <em>re</em> ([X]() 5, [PART]() 3, [PROPN]() 2, [NOUN]() 1), <em>co</em> ([X]() 9, [PART]() 2, [PROPN]() 1), <em>ir</em> ([VERB]() 164, [AUX]() 135, [PROPN]() 19, [PART]() 2, [DET]() 1), <em>l</em> ([X]() 6, [PART]() 2, [PROPN]() 1), <em>abandono</em> ([NOUN]() 7, [PART]() 1), <em>ficha</em> ([VERB]() 4, [PART]() 1, [NOUN]() 1), <em>hoc</em> ([X]() 3, [PART]() 1), <em>post</em> ([X]() 4, [PROPN]() 1, [PART]() 1), <em>pre</em> ([X]() 6, [PART]() 1)
+The 10 most frequent ambiguous lemmas: <em>ex</em> ([X]() 43, [PART]() 4, [ADJ]() 3, [PROPN]() 1, [NOUN]() 1), <em>re</em> ([X]() 5, [PART]() 3, [PROPN]() 2, [NOUN]() 1), <em>co</em> ([X]() 9, [PART]() 2, [PROPN]() 1), <em>ir</em> ([VERB]() 164, [AUX]() 135, [PROPN]() 19, [PART]() 2, [DET]() 1), <em>l</em> ([X]() 6, [PART]() 2, [PROPN]() 1), <em>abandono</em> ([NOUN]() 7, [PART]() 1), <em>ficha</em> ([VERB]() 4, [PART]() 1, [NOUN]() 1), <em>hoc</em> ([X]() 3, [PART]() 1), <em>post</em> ([X]() 4, [PART]() 1, [PROPN]() 1), <em>pre</em> ([X]() 6, [PART]() 1)
 
-The 10 most frequent ambiguous types:  <em>ex</em> ([X]() 42, [PART]() 4, [ADJ]() 3, [NOUN]() 1), <em>re</em> ([X]() 5, [PART]() 3, [PROPN]() 1), <em>L</em> ([X]() 5, [PART]() 2, [PROPN]() 1), <em>co</em> ([X]() 9, [PART]() 1), <em>Trans</em> ([X]() 1, [PART]() 1), <em>Vamos</em> ([PART]() 1, [AUX]() 1), <em>Vaya</em> ([PART]() 1, [DET]() 1), <em>Vice</em> ([X]() 1, [PART]() 1), <em>abandono</em> ([NOUN]() 7, [PART]() 1), <em>ficha</em> ([VERB]() 4, [NOUN]() 1, [PART]() 1)
+The 10 most frequent ambiguous types:  <em>ex</em> ([X]() 42, [PART]() 4, [ADJ]() 3, [NOUN]() 1), <em>re</em> ([X]() 5, [PART]() 3, [PROPN]() 1), <em>L</em> ([X]() 5, [PART]() 2, [PROPN]() 1), <em>co</em> ([X]() 9, [PART]() 1), <em>Trans</em> ([PART]() 1, [X]() 1), <em>Vamos</em> ([PART]() 1, [AUX]() 1), <em>Vaya</em> ([PART]() 1, [DET]() 1), <em>Vice</em> ([X]() 1, [PART]() 1), <em>abandono</em> ([NOUN]() 7, [PART]() 1), <em>ficha</em> ([VERB]() 4, [NOUN]() 1, [PART]() 1)
 
 
 * <em>ex</em>
@@ -33,8 +33,8 @@ The 10 most frequent ambiguous types:  <em>ex</em> ([X]() 42, [PART]() 4, [ADJ](
   * [X]() 9: <em>Fue <b>co</b> - descubridor de un elemento químico : el americio .</em>
   * [PART]() 1: <em>Conducido por Horacio Villalobos y sus <b>co</b> - conductores Paula Sánchez , Aníbal Santiago , Jean Duverger .</em>
 * <em>Trans</em>
-  * [X]() 1: <em>Iran fue derrotado , los yacimientos ocupados y el valioso Ferrocarril <b>Trans</b> - Iraní puesto en manos aliadas .</em>
   * [PART]() 1: <em>La Red Transeuropea de Transporte ( a veces denominado en plural , en inglés <b>Trans</b> - European Transport Networks , abreviado como TEN - T ) son un conjunto planificado de redes prioritarias de transporte pensadas para facilitar la comunicación de personas y mercancías a lo largo de toda la Unión Europea .</em>
+  * [X]() 1: <em>Iran fue derrotado , los yacimientos ocupados y el valioso Ferrocarril <b>Trans</b> - Iraní puesto en manos aliadas .</em>
 * <em>Vamos</em>
   * [PART]() 1: <em><b>Vamos</b> , que si vuelvo a la Rioja , ¡ no cambio de hotel por nada de el mundo !</em>
   * [AUX]() 1: <em><b>Vamos</b> a trabajar estos 15 días que tenemos , porque sabemos que tenemos mucha llegada a gol " , apuntó .</em>

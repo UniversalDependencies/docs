@@ -98,7 +98,7 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
 
 80 [sv-pos/NUM]() tokens (6% of all `NUM` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `NUM` and `Number` co-occurred: <tt><a href="NumType.html">NumType</a>=Card</tt> (80; 100%), <tt><a href="Case.html">Case</a>=Nom</tt> (80; 100%).
+The most frequent other feature values with which `NUM` and `Number` co-occurred: <tt><a href="Case.html">Case</a>=Nom</tt> (80; 100%), <tt><a href="NumType.html">NumType</a>=Card</tt> (80; 100%).
 
 `NUM` tokens may have the following values of `Number`:
 
@@ -109,7 +109,7 @@ The most frequent other feature values with which `NUM` and `Number` co-occurred
 
 39 [sv-pos/VERB]() tokens (0% of all `VERB` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="Tense.html">Tense</a>=Past</tt> (39; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (39; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (39; 100%), <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (39; 100%).
+The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (39; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (39; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (39; 100%), <tt><a href="Tense.html">Tense</a>=Past</tt> (39; 100%).
 
 `VERB` tokens may have the following values of `Number`:
 

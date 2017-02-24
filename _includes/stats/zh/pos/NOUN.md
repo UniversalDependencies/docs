@@ -13,7 +13,7 @@ The 10 most frequent `NOUN` types:  年、 個、 月、 日、 人、 等、 �
 
 The 10 most frequent ambiguous lemmas: 年 ([NOUN]() 1380, [PART]() 4), 人 ([NOUN]() 349, [PART]() 222, [VERB]() 1), 日 ([NOUN]() 348, [PROPN]() 50, [PART]() 6, [NUM]() 2), 等 ([NOUN]() 208, [VERB]() 3), 種 ([NOUN]() 164, [PART]() 5, [VERB]() 1), 次 ([NOUN]() 145, [VERB]() 3, [PART]() 3, [NUM]() 1), 名 ([NOUN]() 110, [PART]() 5, [VERB]() 3), 大學 ([NOUN]() 110, [PROPN]() 1), 世界 ([NOUN]() 97, [PROPN]() 1), 米 ([NOUN]() 79, [PART]() 1)
 
-The 10 most frequent ambiguous types:  年 ([NOUN]() 1380, [PART]() 4), 日 ([NOUN]() 348, [PROPN]() 50, [PART]() 6, [NUM]() 2), 人 ([NOUN]() 332, [PART]() 222, [VERB]() 1), 等 ([NOUN]() 208, [VERB]() 3), 種 ([NOUN]() 164, [PART]() 5, [VERB]() 1), 次 ([NOUN]() 145, [VERB]() 3, [PART]() 3, [NUM]() 1), 名 ([NOUN]() 110, [PART]() 5, [VERB]() 3), 大學 ([NOUN]() 110, [PROPN]() 1), 世界 ([NOUN]() 97, [PROPN]() 1), 米 ([NOUN]() 79, [PART]() 1)
+The 10 most frequent ambiguous types:  年 ([NOUN]() 1380, [PART]() 4), 日 ([NOUN]() 348, [PROPN]() 50, [PART]() 6, [NUM]() 2), 人 ([NOUN]() 332, [PART]() 222, [VERB]() 1), 等 ([NOUN]() 208, [VERB]() 3), 種 ([NOUN]() 164, [PART]() 5, [VERB]() 1), 次 ([NOUN]() 145, [PART]() 3, [VERB]() 3, [NUM]() 1), 名 ([NOUN]() 110, [PART]() 5, [VERB]() 3), 大學 ([NOUN]() 110, [PROPN]() 1), 世界 ([NOUN]() 97, [PROPN]() 1), 米 ([NOUN]() 79, [PART]() 1)
 
 
 * 年
@@ -37,8 +37,8 @@ The 10 most frequent ambiguous types:  年 ([NOUN]() 1380, [PART]() 4), 日 ([NO
   * [VERB]() 1: 有些 <b>種</b> 的 花 是 兩 性 同花 的 , 有些 是 單 性 的 .
 * 次
   * [NOUN]() 145: 古 巨基 於 2006 年度 得到 四 台 聯頒 音樂 大獎 歌曲 大獎 成 為 繼 陳 慧琳 之後 連續 奪得 最多 <b>次</b> 歌曲 獎 的 歌手 .
-  * [VERB]() 3: 若 以 生產 量 來 看 , 乙二胺 是 產量 第二 高 的 二胺 , 僅 <b>次</b> 於 己二胺 - 尼龍 66 的 原料 之 一 .
   * [PART]() 3: 這 個 結果 來 自 於 <b>次</b> 文化 成員 多樣 化 的 喜好 .
+  * [VERB]() 3: 若 以 生產 量 來 看 , 乙二胺 是 產量 第二 高 的 二胺 , 僅 <b>次</b> 於 己二胺 - 尼龍 66 的 原料 之 一 .
   * [NUM]() 1: 2 月 2 日 , 中 日 代表 在 外交 部 迎賓 館 開始 極端 秘密 的 會談 , 中 方 代表 是 外交 部 長 陸 徵祥 和 <b>次</b> 長 曹 汝霖 .
 * 名
   * [NOUN]() 110: 他 每天 趕 著 馬車 到 災區 逐村 收養 災童 , 總 人數 近 800 <b>名</b> .

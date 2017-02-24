@@ -13,7 +13,7 @@ The 10 most frequent `DET` types:  <em>ini, itu, sebuah, tersebut, satu, seorang
 
 The 10 most frequent ambiguous lemmas: <em>_</em> ([NOUN]() 24724, [PROPN]() 20630, [PUNCT]() 16504, [VERB]() 10952, [ADP]() 10866, [ADV]() 4270, [ADJ]() 4144, [NUM]() 3979, [PRON]() 3936, [DET]() 3594, [CCONJ]() 3284, [SCONJ]() 1333, [AUX]() 960, [PART]() 541, [SYM]() 388, [X]() 38)
 
-The 10 most frequent ambiguous types:  <em>ini</em> ([DET]() 1035, [NOUN]() 3), <em>itu</em> ([DET]() 370, [NOUN]() 5, [CCONJ]() 4, [PRON]() 1, [SCONJ]() 1), <em>satu</em> ([DET]() 189, [NUM]() 86, [NOUN]() 17, [ADJ]() 1), <em>seorang</em> ([DET]() 171, [NOUN]() 5, [PRON]() 1), <em>beberapa</em> ([DET]() 143, [ADJ]() 1, [NOUN]() 1), <em>salah</em> ([DET]() 145, [NOUN]() 21, [ADJ]() 2, [ADV]() 1, [VERB]() 1), <em>berbagai</em> ([DET]() 87, [ADJ]() 1), <em>semua</em> ([DET]() 64, [NOUN]() 3, [ADV]() 1), <em>masing</em> ([DET]() 45, [ADV]() 6, [NOUN]() 2, [ADJ]() 2), <em>sebagian</em> ([DET]() 35, [NOUN]() 12, [ADV]() 3)
+The 10 most frequent ambiguous types:  <em>ini</em> ([DET]() 1035, [NOUN]() 3), <em>itu</em> ([DET]() 370, [NOUN]() 5, [CCONJ]() 4, [PRON]() 1, [SCONJ]() 1), <em>satu</em> ([DET]() 189, [NUM]() 86, [NOUN]() 17, [ADJ]() 1), <em>seorang</em> ([DET]() 171, [NOUN]() 5, [PRON]() 1), <em>beberapa</em> ([DET]() 143, [ADJ]() 1, [NOUN]() 1), <em>salah</em> ([DET]() 145, [NOUN]() 21, [ADJ]() 2, [VERB]() 1, [ADV]() 1), <em>berbagai</em> ([DET]() 87, [ADJ]() 1), <em>semua</em> ([DET]() 64, [NOUN]() 3, [ADV]() 1), <em>masing</em> ([DET]() 45, [ADV]() 6, [ADJ]() 2, [NOUN]() 2), <em>sebagian</em> ([DET]() 35, [NOUN]() 12, [ADV]() 3)
 
 
 * <em>ini</em>
@@ -42,8 +42,8 @@ The 10 most frequent ambiguous types:  <em>ini</em> ([DET]() 1035, [NOUN]() 3), 
   * [DET]() 145: <em>Ryan Hidayat ( ) adalah <b>salah</b> satu aktor pria Indonesia .</em>
   * [NOUN]() 21: <em>Hobbit adalah <b>salah</b> satu jenis bangsa makhluk fiktif dalam karya fantasi Tolkien .</em>
   * [ADJ]() 2: <em>Aliran ini memiliki ajaran yang bervariasi mengenai Kristologi Yesus : Doketisme merupakan <b>salah</b> satu aliran dari Gnostisisme yang ada pada saat itu .</em>
-  * [ADV]() 1: <em>Bandar Karya adalah <b>salah</b> satu desa di wilayah kecamatan Tabukan , Kabupaten Barito Kuala , Provinsi Kalimantan Selatan , Indonesia .</em>
   * [VERB]() 1: <em>Maka dari itu , Sia membiarkan jiwa Kikyou bersemayam dalam diri Sia . Dan beginilah akibatnya , Rin seringkali <b>salah</b> paham akibat kelakuan Sia yang tiba - tiba centil ini walaupun sebenarnya itu adalah ulah Kikyou .</em>
+  * [ADV]() 1: <em>Bandar Karya adalah <b>salah</b> satu desa di wilayah kecamatan Tabukan , Kabupaten Barito Kuala , Provinsi Kalimantan Selatan , Indonesia .</em>
 * <em>berbagai</em>
   * [DET]() 87: <em>Perusahaan ini menghasilkan <b>berbagai</b> macam perlengkapan komputer .</em>
   * [ADJ]() 1: <em>Pada masa mudanya sebagai aktifis Himpunan Mahasiswa Islam , ide dan gagasannya tentang sekularisasi dan pluralisme pernah menimbulkan kontroversi dan mendapat banyak perhatian dari <b>berbagai</b> kalangan masyarakat .</em>
@@ -54,8 +54,8 @@ The 10 most frequent ambiguous types:  <em>ini</em> ([DET]() 1035, [NOUN]() 3), 
 * <em>masing</em>
   * [DET]() 45: <em>Apakah mereka bisa menyelesaikan semua masalah <b>masing</b> <b>masing</b> ?</em>
   * [ADV]() 6: <em>Pemenang dari seleksi nasional akan ditentukan oleh juri dan penonton , dengan <b>masing</b> - <b>masing</b> mendapatkan 50 % hak suara .</em>
-  * [NOUN]() 2: <em>Edisi sampul tipis muncul pada 1981 dan 1984 , <b>masing</b> - <b>masing</b> dari EJ Brill dan Harper .</em>
   * [ADJ]() 2: <em>Kronik Cina mencatat bahwa pada periode 1079 dan 1088 , San - fo - tsi masih mengirimkan utusan , <b>masing</b> - <b>masing</b> dari Kien - pi ( Jambi ) dan Pa - lin - fong ( Palembang ) .</em>
+  * [NOUN]() 2: <em>Edisi sampul tipis muncul pada 1981 dan 1984 , <b>masing</b> - <b>masing</b> dari EJ Brill dan Harper .</em>
 * <em>sebagian</em>
   * [DET]() 35: <em>Banjir juga membuat <b>sebagian</b> jalur kereta api lumpuh .</em>
   * [NOUN]() 12: <em>Desa ini memiliki jumlah penduduknya <b>sebagian</b> besar bersuku daerah Flores .</em>

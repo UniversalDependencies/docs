@@ -11,9 +11,9 @@ The 10 most frequent `PRON` lemmas: <em>qui1, is1, ego1, ille1, hic1, tu1, quis1
 
 The 10 most frequent `PRON` types:  <em>qui, mihi, quae, te, me, quid, ego, se, eius, quis</em>
 
-The 10 most frequent ambiguous lemmas: <em>qui1</em> ([PRON]() 277, [NOUN]() 21, [ADJ]() 1, [SCONJ]() 1), <em>is1</em> ([PRON]() 160, [ADJ]() 1), <em>hic1</em> ([PRON]() 107, [ADV]() 4), <em>quis1</em> ([PRON]() 80, [NOUN]() 1), <em>meus</em> ([PRON]() 45, [ADJ]() 12), <em>suus</em> ([PRON]() 34, [ADJ]() 2), <em>noster</em> ([PRON]() 33, [ADJ]() 2), <em>uterque</em> ([PRON]() 7, [ADJ]() 2), <em>aliquis</em> ([PRON]() 3, [ADV]() 1), <em>amplus1</em> ([ADV]() 5, [PRON]() 2, [ADJ]() 2)
+The 10 most frequent ambiguous lemmas: <em>qui1</em> ([PRON]() 277, [NOUN]() 21, [SCONJ]() 1, [ADJ]() 1), <em>is1</em> ([PRON]() 160, [ADJ]() 1), <em>hic1</em> ([PRON]() 107, [ADV]() 4), <em>quis1</em> ([PRON]() 80, [NOUN]() 1), <em>meus</em> ([PRON]() 45, [ADJ]() 12), <em>suus</em> ([PRON]() 34, [ADJ]() 2), <em>noster</em> ([PRON]() 33, [ADJ]() 2), <em>uterque</em> ([PRON]() 7, [ADJ]() 2), <em>aliquis</em> ([PRON]() 3, [ADV]() 1), <em>amplus1</em> ([ADV]() 5, [ADJ]() 2, [PRON]() 2)
 
-The 10 most frequent ambiguous types:  <em>qui</em> ([PRON]() 83, [NOUN]() 5, [SCONJ]() 1), <em>quae</em> ([PRON]() 58, [NOUN]() 5), <em>ea</em> ([PRON]() 35, [ADJ]() 1), <em>quod</em> ([SCONJ]() 37, [PRON]() 31, [NOUN]() 2), <em>quem</em> ([PRON]() 19, [NOUN]() 1), <em>eum</em> ([PRON]() 20, [NOUN]() 1), <em>quam</em> ([ADV]() 30, [PRON]() 18, [SCONJ]() 5, [NOUN]() 1), <em>mea</em> ([PRON]() 17, [ADJ]() 6), <em>quibus</em> ([PRON]() 14, [NOUN]() 2), <em>quo</em> ([PRON]() 15, [ADV]() 15, [SCONJ]() 3, [NOUN]() 1)
+The 10 most frequent ambiguous types:  <em>qui</em> ([PRON]() 83, [NOUN]() 5, [SCONJ]() 1), <em>quae</em> ([PRON]() 58, [NOUN]() 5), <em>ea</em> ([PRON]() 35, [ADJ]() 1), <em>quod</em> ([SCONJ]() 37, [PRON]() 31, [NOUN]() 2), <em>quem</em> ([PRON]() 19, [NOUN]() 1), <em>eum</em> ([PRON]() 20, [NOUN]() 1), <em>quam</em> ([ADV]() 30, [PRON]() 18, [SCONJ]() 5, [NOUN]() 1), <em>mea</em> ([PRON]() 17, [ADJ]() 6), <em>quibus</em> ([PRON]() 14, [NOUN]() 2), <em>quo</em> ([ADV]() 15, [PRON]() 15, [SCONJ]() 3, [NOUN]() 1)
 
 
 * <em>qui</em>
@@ -48,8 +48,8 @@ The 10 most frequent ambiguous types:  <em>qui</em> ([PRON]() 83, [NOUN]() 5, [S
   * [PRON]() 14: <em><b>quibus</b> mihi videntur ludibrio fuisse divitiae :</em>
   * [NOUN]() 2: <em><b>quibus</b> in classibus pugnaverunt praeter remiges millia hominum tria circiter .</em>
 * <em>quo</em>
-  * [PRON]() 15: <em><b>quo</b> autem pacto illi Appenninum atque illas pruinas ac nivis perferent ?</em>
   * [ADV]() 15: <em><b>quo</b> usque tandem abutere , Catilina , patientia nostra ?</em>
+  * [PRON]() 15: <em><b>quo</b> autem pacto illi Appenninum atque illas pruinas ac nivis perferent ?</em>
   * [SCONJ]() 3: <em>praeterea Gabinium arcessit , <b>quo</b> maior auctoritas sermoni inesset .</em>
   * [NOUN]() 1: <em>Aram Fortunae Reducis ante aedes Honoris et Virtutis ad portam Capenam pro reditu meo senatus consacravit , in qua pontifices et virgines Vestales anniversarium sacrificium facere iussit eo die <b>quo</b> , consulibus Q. Lucretio et M. Vinicio , in urbem ex Syria redieram , et diem Augustalia ex cognomine nostro appellavit .</em>
 

@@ -67,7 +67,7 @@ The most frequent other feature values with which `ADJ` and `Gender` co-occurred
 
 <table>
   <tr><th>Paradigm <i>premier</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>
-  <tr><td><tt><a href="Number.html">Number</a>=Sing</tt></td><td><em>premier, 1er, Ier, 1e, 1</em></td><td><em>première, 1re, 1ère</em></td></tr>
+  <tr><td><tt><a href="Number.html">Number</a>=Sing</tt></td><td><em>premier, 1er, Ier, 1e, 1</em></td><td><em>première, 1ère, 1re</em></td></tr>
   <tr><td><tt><a href="Number.html">Number</a>=Plur</tt></td><td><em>premiers</em></td><td><em>premières</em></td></tr>
 </table>
 
@@ -75,7 +75,7 @@ The most frequent other feature values with which `ADJ` and `Gender` co-occurred
 
 10913 [fr-pos/VERB]() tokens (36% of all `VERB` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `VERB` and `Gender` co-occurred: <tt><a href="Tense.html">Tense</a>=Past</tt> (10913; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (10913; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (10913; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (10913; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (8770; 80%).
+The most frequent other feature values with which `VERB` and `Gender` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (10913; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (10913; 100%), <tt><a href="Tense.html">Tense</a>=Past</tt> (10913; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (10913; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (8770; 80%).
 
 `VERB` tokens may have the following values of `Gender`:
 
@@ -104,7 +104,7 @@ The most frequent other feature values with which `PRON` and `Gender` co-occurre
 <table>
   <tr><th>Paradigm <i>il</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>
   <tr><td><tt><a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=2</tt></td><td><em>-Tu</em></td><td></td></tr>
-  <tr><td><tt><a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3</tt></td><td><em>il, -il, t-il, Lui</em></td><td><em>-elle, elle</em></td></tr>
+  <tr><td><tt><a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3</tt></td><td><em>il, -il, Lui, t-il</em></td><td><em>-elle, elle</em></td></tr>
   <tr><td><tt><a href="Number.html">Number</a>=Sing</tt></td><td><em>﻿Lui</em></td><td></td></tr>
   <tr><td><tt><a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=3</tt></td><td><em>ils, -ils</em></td><td><em>elles, -elles</em></td></tr>
 </table>
@@ -113,7 +113,7 @@ The most frequent other feature values with which `PRON` and `Gender` co-occurre
 
 912 [fr-pos/AUX]() tokens (7% of all `AUX` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `AUX` and `Gender` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (912; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (912; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (912; 100%), <tt><a href="Tense.html">Tense</a>=Past</tt> (912; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (911; 100%).
+The most frequent other feature values with which `AUX` and `Gender` co-occurred: <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (912; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (912; 100%), <tt><a href="Tense.html">Tense</a>=Past</tt> (912; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (912; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (911; 100%).
 
 `AUX` tokens may have the following values of `Gender`:
 
@@ -230,7 +230,7 @@ The most frequent other feature values with which `ADJ` and `Gender` co-occurred
 
 458 [fr-pos/VERB]() tokens (29% of all `VERB` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `VERB` and `Gender` co-occurred: <tt><a href="Person.html">Person</a>=EMPTY</tt> (458; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (456; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (456; 100%), <tt><a href="Tense.html">Tense</a>=Past</tt> (455; 99%), <tt><a href="Number.html">Number</a>=Sing</tt> (289; 63%).
+The most frequent other feature values with which `VERB` and `Gender` co-occurred: <tt><a href="Person.html">Person</a>=EMPTY</tt> (458; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (456; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (456; 100%), <tt><a href="Tense.html">Tense</a>=Past</tt> (455; 99%), <tt><a href="Number.html">Number</a>=Sing</tt> (289; 63%).
 
 `VERB` tokens may have the following values of `Gender`:
 
@@ -239,9 +239,9 @@ The most frequent other feature values with which `VERB` and `Gender` co-occurre
 * `EMPTY` (1100): <em>a, faire, concernant, est, convient, fait, ont, dire, font, pense</em>
 
 <table>
-  <tr><th>Paradigm <i>concerner</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>
-  <tr><td><tt><a href="Number.html">Number</a>=Sing</tt></td><td><em>concerné</em></td><td></td></tr>
-  <tr><td><tt><a href="Number.html">Number</a>=Plur</tt></td><td><em>concernés</em></td><td><em>concernées</em></td></tr>
+  <tr><th>Paradigm <i>dire</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>
+  <tr><td><tt><a href="Number.html">Number</a>=Sing</tt></td><td><em>dit</em></td><td><em>dite</em></td></tr>
+  <tr><td><tt><a href="Number.html">Number</a>=Plur</tt></td><td></td><td><em>dites</em></td></tr>
 </table>
 
 ### `PRON`
@@ -265,7 +265,7 @@ The most frequent other feature values with which `PRON` and `Gender` co-occurre
 
 37 [fr-pos/AUX]() tokens (6% of all `AUX` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `AUX` and `Gender` co-occurred: <tt><a href="Number.html">Number</a>=Sing</tt> (37; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (37; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (37; 100%), <tt><a href="Tense.html">Tense</a>=Past</tt> (37; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (37; 100%).
+The most frequent other feature values with which `AUX` and `Gender` co-occurred: <tt><a href="Number.html">Number</a>=Sing</tt> (37; 100%), <tt><a href="Tense.html">Tense</a>=Past</tt> (37; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (37; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (37; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (37; 100%).
 
 `AUX` tokens may have the following values of `Gender`:
 
@@ -360,7 +360,7 @@ The most frequent other feature values with which `ADJ` and `Gender` co-occurred
 
 1837 [fr-pos/VERB]() tokens (39% of all `VERB` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `VERB` and `Gender` co-occurred: <tt><a href="Person.html">Person</a>=EMPTY</tt> (1837; 100%), <tt><a href="Tense.html">Tense</a>=Past</tt> (1837; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (1837; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (1837; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (1281; 70%), <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (1205; 66%).
+The most frequent other feature values with which `VERB` and `Gender` co-occurred: <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (1837; 100%), <tt><a href="Tense.html">Tense</a>=Past</tt> (1837; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (1837; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (1837; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (1281; 70%), <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (1205; 66%).
 
 `VERB` tokens may have the following values of `Gender`:
 
@@ -414,7 +414,7 @@ The most frequent other feature values with which `PRON` and `Gender` co-occurre
 
 65 [fr-pos/AUX]() tokens (3% of all `AUX` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `AUX` and `Gender` co-occurred: <tt><a href="Person.html">Person</a>=EMPTY</tt> (65; 100%), <tt><a href="Tense.html">Tense</a>=Past</tt> (65; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (65; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (65; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (50; 77%).
+The most frequent other feature values with which `AUX` and `Gender` co-occurred: <tt><a href="Person.html">Person</a>=EMPTY</tt> (65; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (65; 100%), <tt><a href="Tense.html">Tense</a>=Past</tt> (65; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (65; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (50; 77%).
 
 `AUX` tokens may have the following values of `Gender`:
 

@@ -16,7 +16,7 @@ The feature is used with 3 part-of-speech tags: [ar-pos/VERB]() (18700; 7% insta
 
 18700 [ar-pos/VERB]() tokens (100% of all `VERB` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="Voice.html">Voice</a>=Act</tt> (17671; 94%), <tt><a href="Number.html">Number</a>=Sing</tt> (17503; 94%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (11786; 63%), <tt><a href="Aspect.html">Aspect</a>=Perf</tt> (9908; 53%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (9908; 53%), <tt><a href="VerbForm.html">VerbForm</a>=EMPTY</tt> (9908; 53%).
+The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="Voice.html">Voice</a>=Act</tt> (17671; 94%), <tt><a href="Number.html">Number</a>=Sing</tt> (17503; 94%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (11786; 63%), <tt><a href="Aspect.html">Aspect</a>=Perf</tt> (9908; 53%), <tt><a href="VerbForm.html">VerbForm</a>=EMPTY</tt> (9908; 53%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (9908; 53%).
 
 `VERB` tokens may have the following values of `Person`:
 
@@ -65,10 +65,10 @@ The most frequent other feature values with which `PRON` and `Person` co-occurre
   <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Gender.html">Gender</a>=Fem|<a href="Number.html">Number</a>=Sing</tt></td><td></td><td></td><td>ها</td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Gender.html">Gender</a>=Fem|<a href="Number.html">Number</a>=Dual</tt></td><td></td><td></td><td>هما</td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Gender.html">Gender</a>=Fem|<a href="Number.html">Number</a>=Plur</tt></td><td></td><td></td><td>هن</td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Sing</tt></td><td>ي</td><td>ك</td><td>ه, استعداداته, حكومته, لاراضيه, والده, تجهيزه, إدانته, زنزانته, مستقبله, بلاده, طائرته, وغربه, انتشاره</td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Sing</tt></td><td>ي</td><td>ك</td><td>ه, إدانته, استعداداته, حكومته, والده, مستقبله, زنزانته, تجهيزه, انتشاره, وغربه, لاراضيه, طائرته, بلاده</td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Dual</tt></td><td></td><td></td><td>هما</td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Plur</tt></td><td>نا, لمساعدتنا</td><td>كم</td><td>هم, لهم, شفائهم, بهم, بلادهم, بأنفسهم</td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Gender.html">Gender</a>=Fem|<a href="Number.html">Number</a>=Sing</tt></td><td></td><td>ك</td><td>ها, بضمانها, مستشفياتها, إليها, أهدافها, مواجهتها, أعضائها, تخصيصها, بهويتها, بفقدانها, نهايتها, تجارتها</td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Plur</tt></td><td>نا, لمساعدتنا</td><td>كم</td><td>هم, بأنفسهم, شفائهم, لهم, بهم, بلادهم</td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Gender.html">Gender</a>=Fem|<a href="Number.html">Number</a>=Sing</tt></td><td></td><td>ك</td><td>ها, بضمانها, تخصيصها, أعضائها, أهدافها, بهويتها, نهايتها, مستشفياتها, مواجهتها, تجارتها, إليها, بفقدانها</td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Gender.html">Gender</a>=Fem|<a href="Number.html">Number</a>=Dual</tt></td><td></td><td></td><td>هما</td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Gender.html">Gender</a>=Fem|<a href="Number.html">Number</a>=Plur</tt></td><td></td><td></td><td>هن</td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Sing</tt></td><td>أنا, انا</td><td>أنت</td><td>هو</td></tr>
@@ -83,7 +83,7 @@ The most frequent other feature values with which `PRON` and `Person` co-occurre
 
 605 [ar-pos/AUX]() tokens (100% of all `AUX` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `AUX` and `Person` co-occurred: <tt><a href="Number.html">Number</a>=Sing</tt> (582; 96%), <tt><a href="Voice.html">Voice</a>=Act</tt> (559; 92%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (379; 63%), <tt><a href="Aspect.html">Aspect</a>=Perf</tt> (346; 57%), <tt><a href="VerbForm.html">VerbForm</a>=EMPTY</tt> (346; 57%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (346; 57%).
+The most frequent other feature values with which `AUX` and `Person` co-occurred: <tt><a href="Number.html">Number</a>=Sing</tt> (582; 96%), <tt><a href="Voice.html">Voice</a>=Act</tt> (559; 92%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (379; 63%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (346; 57%), <tt><a href="Aspect.html">Aspect</a>=Perf</tt> (346; 57%), <tt><a href="VerbForm.html">VerbForm</a>=EMPTY</tt> (346; 57%).
 
 `AUX` tokens may have the following values of `Person`:
 
@@ -211,7 +211,7 @@ The most frequent other feature values with which `PROPN` and `Person` co-occurr
 
 400 [ar-pos/NOUN]() tokens (0% of all `NOUN` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `NOUN` and `Person` co-occurred: <tt><a href="Number.html">Number</a>=Sing</tt> (335; 84%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (271; 68%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (271; 68%), <tt><a href="Definite.html">Definite</a>=EMPTY</tt> (243; 61%).
+The most frequent other feature values with which `NOUN` and `Person` co-occurred: <tt><a href="Number.html">Number</a>=Sing</tt> (335; 84%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (271; 68%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (271; 68%), <tt><a href="Definite.html">Definite</a>=EMPTY</tt> (243; 61%).
 
 `NOUN` tokens may have the following values of `Person`:
 

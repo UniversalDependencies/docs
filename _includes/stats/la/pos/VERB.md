@@ -11,9 +11,9 @@ The 10 most frequent `VERB` lemmas: <em>sum1, dico2, habeo1, possum1, video1, fa
 
 The 10 most frequent `VERB` types:  <em>est, vidi, erat, audivi, esse, inquit, fuit, habere, dixit, habet</em>
 
-The 10 most frequent ambiguous lemmas: <em>mitto1</em> ([VERB]() 15, [X]() 1), <em>contineo</em> ([VERB]() 7, [ADV]() 1), <em>tueor</em> ([VERB]() 5, [ADV]() 1), <em>accedo1</em> ([VERB]() 4, [X]() 1), <em>memoro1</em> ([VERB]() 4, [NOUN]() 2), <em>mereo</em> ([ADV]() 5, [VERB]() 3), <em>rego</em> ([VERB]() 3, [ADV]() 3), <em>attendo1</em> ([VERB]() 2, [ADV]() 1), <em>consto</em> ([VERB]() 2, [ADV]() 1), <em>subeo</em> ([VERB]() 2, [ADV]() 2)
+The 10 most frequent ambiguous lemmas: <em>mitto1</em> ([VERB]() 15, [X]() 1), <em>contineo</em> ([VERB]() 7, [ADV]() 1), <em>tueor</em> ([VERB]() 5, [ADV]() 1), <em>accedo1</em> ([VERB]() 4, [X]() 1), <em>memoro1</em> ([VERB]() 4, [NOUN]() 2), <em>mereo</em> ([ADV]() 5, [VERB]() 3), <em>rego</em> ([VERB]() 3, [ADV]() 3), <em>attendo1</em> ([VERB]() 2, [ADV]() 1), <em>consto</em> ([VERB]() 2, [ADV]() 1), <em>subeo</em> ([ADV]() 2, [VERB]() 2)
 
-The 10 most frequent ambiguous types:  <em>facta</em> ([NOUN]() 4, [VERB]() 4), <em>uti</em> ([SCONJ]() 9, [VERB]() 4, [ADV]() 1), <em>factum</em> ([NOUN]() 2, [VERB]() 2), <em>sapiens</em> ([VERB]() 2, [ADJ]() 1), <em>usus</em> ([VERB]() 2, [NOUN]() 1), <em>adcedere</em> ([X]() 1, [VERB]() 1), <em>consuli</em> ([NOUN]() 4, [VERB]() 1), <em>consulis</em> ([NOUN]() 3, [VERB]() 1), <em>cubitum</em> ([NOUN]() 1, [VERB]() 1), <em>dicam</em> ([NOUN]() 1, [VERB]() 1)
+The 10 most frequent ambiguous types:  <em>facta</em> ([NOUN]() 4, [VERB]() 4), <em>uti</em> ([SCONJ]() 9, [VERB]() 4, [ADV]() 1), <em>factum</em> ([NOUN]() 2, [VERB]() 2), <em>sapiens</em> ([VERB]() 2, [ADJ]() 1), <em>usus</em> ([VERB]() 2, [NOUN]() 1), <em>adcedere</em> ([X]() 1, [VERB]() 1), <em>consuli</em> ([NOUN]() 4, [VERB]() 1), <em>consulis</em> ([NOUN]() 3, [VERB]() 1), <em>cubitum</em> ([VERB]() 1, [NOUN]() 1), <em>dicam</em> ([NOUN]() 1, [VERB]() 1)
 
 
 * <em>facta</em>
@@ -42,8 +42,8 @@ The 10 most frequent ambiguous types:  <em>facta</em> ([NOUN]() 4, [VERB]() 4), 
   * [NOUN]() 3: <em>homo enim videlicet timidus aut etiam permodestus vocem <b>consulis</b> ferre non potuit ;</em>
   * [VERB]() 1: <em>non iubeo , sed , si me <b>consulis</b> , suadeo .</em>
 * <em>cubitum</em>
-  * [NOUN]() 1: <em>sic ait in molli fixa toro <b>cubitum</b> :</em>
   * [VERB]() 1: <em>nam cum possessor uillae nouus seu forte seu temptandi causa <b>cubitum</b> se eo contulisset , euenit ut post paucissimas noctis horas exturbatus inde subita ui et incerta paene semianimis cum strato simul ante fores inueniretur .</em>
+  * [NOUN]() 1: <em>sic ait in molli fixa toro <b>cubitum</b> :</em>
 * <em>dicam</em>
   * [NOUN]() 1: <em>de qua quam verissume potero <b>dicam</b> .</em>
   * [VERB]() 1: <em>quale te <b>dicam</b> bonum Antehac fuisse , tales cum sint reliquiae ?</em>

@@ -13,7 +13,7 @@ The 10 most frequent `X` types:  <em>O, sv, tzv, EÚ, SR, v, USA, j, a, N</em>
 
 The 10 most frequent ambiguous lemmas: <em>o</em> ([ADP]() 408, [X]() 22), <em>v</em> ([ADP]() 1527, [X]() 14, [NUM]() 1), <em>a</em> ([CCONJ]() 2169, [PART]() 88, [X]() 12), <em>po</em> ([ADP]() 253, [X]() 6), <em>nato</em> ([ADV]() 5, [X]() 4), <em>k</em> ([ADP]() 283, [X]() 3), <em>na</em> ([ADP]() 1495, [X]() 3), <em>film</em> ([NOUN]() 20, [X]() 2), <em>i</em> ([CCONJ]() 68, [PART]() 29, [NUM]() 20, [X]() 2), <em>?</em> ([PUNCT]() 396, [X]() 1)
 
-The 10 most frequent ambiguous types:  <em>O</em> ([ADP]() 38, [X]() 22), <em>v</em> ([ADP]() 1071, [X]() 5), <em>a</em> ([CCONJ]() 2045, [X]() 3, [PRON]() 1, [PART]() 1), <em>po</em> ([ADP]() 186, [X]() 6), <em>K</em> ([ADP]() 9, [X]() 3), <em>na</em> ([ADP]() 1322, [X]() 2), <em>Film</em> ([X]() 2, [NOUN]() 1), <em>I</em> ([NUM]() 20, [PART]() 4, [CCONJ]() 3, [X]() 2), <em>Básnické</em> ([X]() 1, [ADJ]() 1), <em>Jana</em> ([PROPN]() 1, [X]() 1)
+The 10 most frequent ambiguous types:  <em>O</em> ([ADP]() 38, [X]() 22), <em>v</em> ([ADP]() 1071, [X]() 5), <em>a</em> ([CCONJ]() 2045, [X]() 3, [PART]() 1, [PRON]() 1), <em>po</em> ([ADP]() 186, [X]() 6), <em>K</em> ([ADP]() 9, [X]() 3), <em>na</em> ([ADP]() 1322, [X]() 2), <em>Film</em> ([X]() 2, [NOUN]() 1), <em>I</em> ([NUM]() 20, [PART]() 4, [CCONJ]() 3, [X]() 2), <em>Básnické</em> ([X]() 1, [ADJ]() 1), <em>Jana</em> ([PROPN]() 1, [X]() 1)
 
 
 * <em>O</em>
@@ -25,8 +25,8 @@ The 10 most frequent ambiguous types:  <em>O</em> ([ADP]() 38, [X]() 22), <em>v<
 * <em>a</em>
   * [CCONJ]() 2045: <em>Hospodárstvo KĽDR je na kolenách <b>a</b> deti hladujú .</em>
   * [X]() 3: <em>* Povídky ironické <b>a</b> sentimentální</em>
-  * [PRON]() 1: <em>Táto práca <b>a</b> vyznačuje chaotickosťou usporiadania materiálu .</em>
   * [PART]() 1: <em>“ No <b>a</b> ?</em>
+  * [PRON]() 1: <em>Táto práca <b>a</b> vyznačuje chaotickosťou usporiadania materiálu .</em>
 * <em>po</em>
   * [ADP]() 186: <em>KĽDR je však na kolenách počas kalamity aj <b>po</b> nej .</em>
   * [X]() 6: <em>Neprihovorím sa mu <b>po</b> taliansky .</em>

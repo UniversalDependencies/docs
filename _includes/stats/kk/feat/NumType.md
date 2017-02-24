@@ -16,7 +16,7 @@ The feature is used with 1 part-of-speech tags: [kk-pos/NUM]() (19; 4% instances
 
 19 [kk-pos/NUM]() tokens (100% of all `NUM` tokens) have a non-empty value of `NumType`.
 
-The most frequent other feature values with which `NUM` and `NumType` co-occurred: <tt><a href="Person[psor].html">Person[psor]</a>=EMPTY</tt> (15; 79%), <tt><a href="Number[psor].html">Number[psor]</a>=EMPTY</tt> (15; 79%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (15; 79%).
+The most frequent other feature values with which `NUM` and `NumType` co-occurred: <tt><a href="Number[psor].html">Number[psor]</a>=EMPTY</tt> (15; 79%), <tt><a href="Person[psor].html">Person[psor]</a>=EMPTY</tt> (15; 79%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (15; 79%).
 
 `NUM` tokens may have the following values of `NumType`:
 

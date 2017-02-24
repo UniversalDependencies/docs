@@ -199,7 +199,7 @@ The most frequent other feature values with which `AUX` and `Number` co-occurred
   <tr><td><tt><a href="Case.html">Case</a>=Abs|<a href="Mood.html">Mood</a>=Cnd|<a href="Person[abs].html">Person[abs]</a>=3|<a href="Person[erg].html">Person[erg]</a>=3</tt></td><td><em>lukeena</em></td><td></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Abs|<a href="Mood.html">Mood</a>=Ind|<a href="Person[abs].html">Person[abs]</a>=1|<a href="Person[erg].html">Person[erg]</a>=3</tt></td><td></td><td><em>gaituztenak</em></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Abs|<a href="Mood.html">Mood</a>=Ind|<a href="Person[abs].html">Person[abs]</a>=3|<a href="Person[dat].html">Person[dat]</a>=1|<a href="Person[erg].html">Person[erg]</a>=3</tt></td><td><em>didana, zidatena</em></td><td><em>zidatenak</em></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Abs|<a href="Mood.html">Mood</a>=Ind|<a href="Person[abs].html">Person[abs]</a>=3|<a href="Person[dat].html">Person[dat]</a>=3|<a href="Person[erg].html">Person[erg]</a>=3</tt></td><td><em>diona, diotena, ziona, zizkiona</em></td><td><em>diotenak, dienak</em></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Abs|<a href="Mood.html">Mood</a>=Ind|<a href="Person[abs].html">Person[abs]</a>=3|<a href="Person[dat].html">Person[dat]</a>=3|<a href="Person[erg].html">Person[erg]</a>=3</tt></td><td><em>diona, zizkiona, ziona, diotena</em></td><td><em>dienak, diotenak</em></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Abs|<a href="Mood.html">Mood</a>=Ind|<a href="Person[abs].html">Person[abs]</a>=3|<a href="Person[erg].html">Person[erg]</a>=1</tt></td><td><em>nuena</em></td><td></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Abs|<a href="Mood.html">Mood</a>=Ind|<a href="Person[abs].html">Person[abs]</a>=3|<a href="Person[erg].html">Person[erg]</a>=3</tt></td><td><em>duena, zuena, dutena, dituena, zutena, dutenetakoa, dutenena</em></td><td><em>dutenak, dituztenak, dituenak, zituztenak</em></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Ben|<a href="Mood.html">Mood</a>=Ind|<a href="Person[abs].html">Person[abs]</a>=3|<a href="Person[erg].html">Person[erg]</a>=3</tt></td><td><em>zuenarentzat</em></td><td></td></tr>
@@ -212,16 +212,16 @@ The most frequent other feature values with which `AUX` and `Number` co-occurred
   <tr><td><tt><a href="Case.html">Case</a>=Dat|<a href="Mood.html">Mood</a>=Ind|<a href="Person[abs].html">Person[abs]</a>=3|<a href="Person[erg].html">Person[erg]</a>=3</tt></td><td><em>duenari</em></td><td><em>zituenei</em></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Erg|<a href="Mood.html">Mood</a>=Ind|<a href="Person[abs].html">Person[abs]</a>=3|<a href="Person[dat].html">Person[dat]</a>=3|<a href="Person[erg].html">Person[erg]</a>=3</tt></td><td><em>ziotenak</em></td><td><em>diotenek</em></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Erg|<a href="Mood.html">Mood</a>=Ind|<a href="Person[abs].html">Person[abs]</a>=3|<a href="Person[erg].html">Person[erg]</a>=1</tt></td><td><em>dudanak</em></td><td></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Erg|<a href="Mood.html">Mood</a>=Ind|<a href="Person[abs].html">Person[abs]</a>=3|<a href="Person[erg].html">Person[erg]</a>=3</tt></td><td><em>duenak, zuenak</em></td><td><em>dutenek, dituztenek</em></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Mood.html">Mood</a>=Ind|<a href="Person[abs].html">Person[abs]</a>=3|<a href="Person[erg].html">Person[erg]</a>=3</tt></td><td><em>duenaren, dutenaren</em></td><td><em>dutenen, dituztenen</em></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Loc|<a href="Mood.html">Mood</a>=Ind|<a href="Person[abs].html">Person[abs]</a>=3|<a href="Person[erg].html">Person[erg]</a>=3</tt></td><td><em>duteneko, zuteneko</em></td><td></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Erg|<a href="Mood.html">Mood</a>=Ind|<a href="Person[abs].html">Person[abs]</a>=3|<a href="Person[erg].html">Person[erg]</a>=3</tt></td><td><em>duenak, zuenak</em></td><td><em>dituztenek, dutenek</em></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Mood.html">Mood</a>=Ind|<a href="Person[abs].html">Person[abs]</a>=3|<a href="Person[erg].html">Person[erg]</a>=3</tt></td><td><em>dutenaren, duenaren</em></td><td><em>dutenen, dituztenen</em></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Loc|<a href="Mood.html">Mood</a>=Ind|<a href="Person[abs].html">Person[abs]</a>=3|<a href="Person[erg].html">Person[erg]</a>=3</tt></td><td><em>zuteneko, duteneko</em></td><td></td></tr>
 </table>
 
 ### `PRON`
 
 22 [eu-pos/PRON]() tokens (4% of all `PRON` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="PronType.html">PronType</a>=EMPTY</tt> (22; 100%), <tt><a href="Definite.html">Definite</a>=Def</tt> (22; 100%).
+The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="Definite.html">Definite</a>=Def</tt> (22; 100%), <tt><a href="PronType.html">PronType</a>=EMPTY</tt> (22; 100%).
 
 `PRON` tokens may have the following values of `Number`:
 

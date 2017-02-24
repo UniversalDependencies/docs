@@ -11,9 +11,9 @@ The 10 most frequent `CCONJ` lemmas: و، که، یا، اما، ولی، هم،
 
 The 10 most frequent `CCONJ` types:  و، که، یا، اما، ولی، هم، بلکه، همچنین، نیز، بخصوص
 
-The 10 most frequent ambiguous lemmas: و ([CCONJ]() 6252, [X]() 12, [SCONJ]() 2, [NOUN]() 2), که ([SCONJ]() 3024, [CCONJ]() 320, [ADV]() 1), اما ([CCONJ]() 243, [SCONJ]() 2, [X]() 1), ولی ([CCONJ]() 124, [SCONJ]() 2, [NOUN]() 1), هم ([SCONJ]() 423, [PRON]() 61, [CCONJ]() 55), بلکه ([CCONJ]() 47, [SCONJ]() 1), همچنین ([SCONJ]() 48, [CCONJ]() 35), نیز ([SCONJ]() 259, [CCONJ]() 20), _ ([NOUN]() 4853, [VERB]() 1384, [ADJ]() 1367, [ADV]() 194, [NUM]() 152, [AUX]() 98, [X]() 92, [PUNCT]() 90, [PRON]() 35, [ADP]() 32, [INTJ]() 18, [SCONJ]() 12, [CCONJ]() 5, [DET]() 4), وقتی ([SCONJ]() 87, [CCONJ]() 5, [NOUN]() 2)
+The 10 most frequent ambiguous lemmas: و ([CCONJ]() 6252, [X]() 12, [NOUN]() 2, [SCONJ]() 2), که ([SCONJ]() 3024, [CCONJ]() 320, [ADV]() 1), اما ([CCONJ]() 243, [SCONJ]() 2, [X]() 1), ولی ([CCONJ]() 124, [SCONJ]() 2, [NOUN]() 1), هم ([SCONJ]() 423, [PRON]() 61, [CCONJ]() 55), بلکه ([CCONJ]() 47, [SCONJ]() 1), همچنین ([SCONJ]() 48, [CCONJ]() 35), نیز ([SCONJ]() 259, [CCONJ]() 20), _ ([NOUN]() 4853, [VERB]() 1384, [ADJ]() 1367, [ADV]() 194, [NUM]() 152, [AUX]() 98, [X]() 92, [PUNCT]() 90, [PRON]() 35, [ADP]() 32, [INTJ]() 18, [SCONJ]() 12, [CCONJ]() 5, [DET]() 4), وقتی ([SCONJ]() 87, [CCONJ]() 5, [NOUN]() 2)
 
-The 10 most frequent ambiguous types:  و ([CCONJ]() 6252, [X]() 12, [SCONJ]() 2, [NOUN]() 2, [PART]() 1), که ([SCONJ]() 3024, [CCONJ]() 320, [ADV]() 1), اما ([CCONJ]() 243, [SCONJ]() 2, [X]() 1), ولی ([CCONJ]() 124, [SCONJ]() 2, [NOUN]() 1), هم ([SCONJ]() 423, [PRON]() 61, [CCONJ]() 55), بلکه ([CCONJ]() 47, [SCONJ]() 1), همچنین ([SCONJ]() 48, [CCONJ]() 35), نیز ([SCONJ]() 259, [CCONJ]() 20), بخصوص ([CCONJ]() 6, [SCONJ]() 6), وقتی ([SCONJ]() 87, [CCONJ]() 5, [NOUN]() 2)
+The 10 most frequent ambiguous types:  و ([CCONJ]() 6252, [X]() 12, [SCONJ]() 2, [NOUN]() 2, [PART]() 1), که ([SCONJ]() 3024, [CCONJ]() 320, [ADV]() 1), اما ([CCONJ]() 243, [SCONJ]() 2, [X]() 1), ولی ([CCONJ]() 124, [SCONJ]() 2, [NOUN]() 1), هم ([SCONJ]() 423, [PRON]() 61, [CCONJ]() 55), بلکه ([CCONJ]() 47, [SCONJ]() 1), همچنین ([SCONJ]() 48, [CCONJ]() 35), نیز ([SCONJ]() 259, [CCONJ]() 20), بخصوص ([SCONJ]() 6, [CCONJ]() 6), وقتی ([SCONJ]() 87, [CCONJ]() 5, [NOUN]() 2)
 
 
 * و
@@ -48,8 +48,8 @@ The 10 most frequent ambiguous types:  و ([CCONJ]() 6252, [X]() 12, [SCONJ]() 2
   * [SCONJ]() 259: دست زدن او بعد از سکوت <b>نیز</b> ادامه دارد .
   * [CCONJ]() 20: و <b>نیز</b> تصویر کاملی از سلطنت معاویه ، که انسان کامل وارسته‌ای مثل حجر بن عدی را گردن می‌زند .
 * بخصوص
-  * [CCONJ]() 6: و <b>بخصوص</b> گسترش روابط مطلوب بین ترکیه و ایران را در برابر غارتگری صهیونیست‌ها می‌طلبد .
   * [SCONJ]() 6: این گروه اعلام کرد : گرده گیاهان یک عامل تحریک‌کننده شناخته‌شده بروز آلرژیها <b>بخصوص</b> تب یونجه و آسم است .
+  * [CCONJ]() 6: و <b>بخصوص</b> گسترش روابط مطلوب بین ترکیه و ایران را در برابر غارتگری صهیونیست‌ها می‌طلبد .
 * وقتی
   * [SCONJ]() 87: مادر می‌گوید چه لذتی دارد <b>وقتی</b> که آدم می‌گوید قبول باشد .
   * [CCONJ]() 5: نترس تا <b>وقتی</b> من این جا هستم آن‌ها به تو شلیک نمی‌کنند .

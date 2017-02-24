@@ -13,7 +13,7 @@ The 10 most frequent `VERB` types:  <em>bhí, tá, raibh, bhfuil, atá, beidh, b
 
 The 10 most frequent ambiguous lemmas: <em>tar</em> ([VERB]() 25, [ADP]() 13), <em>bain</em> ([VERB]() 19, [ADJ]() 1), <em>cuir</em> ([VERB]() 19, [X]() 1), <em>faigh</em> ([VERB]() 19, [X]() 1), <em>dar</em> ([VERB]() 6, [SCONJ]() 1), <em>meas</em> ([VERB]() 6, [NOUN]() 6), <em>scríobh</em> ([VERB]() 4, [NOUN]() 2), <em>úsáid</em> ([NOUN]() 6, [VERB]() 4), <em>rith</em> ([ADP]() 5, [VERB]() 3, [NOUN]() 1), <em>crom</em> ([VERB]() 2, [ADJ]() 1)
 
-The 10 most frequent ambiguous types:  <em>bhfuil</em> ([VERB]() 44, [NOUN]() 1), <em>dar</em> ([VERB]() 3, [SCONJ]() 1), <em>scríobh</em> ([VERB]() 3, [NOUN]() 2), <em>fuil</em> ([VERB]() 2, [NOUN]() 1), <em>rith</em> ([ADP]() 5, [VERB]() 2), <em>Roinne</em> ([VERB]() 1, [NOUN]() 1), <em>ar</em> ([ADP]() 305, [PART]() 9, [AUX]() 7, [ADV]() 6, [VERB]() 1), <em>baineann</em> ([VERB]() 1, [ADJ]() 1), <em>fheadar</em> ([VERB]() 1, [NOUN]() 1), <em>gheall</em> ([NOUN]() 3, [VERB]() 1)
+The 10 most frequent ambiguous types:  <em>bhfuil</em> ([VERB]() 44, [NOUN]() 1), <em>dar</em> ([VERB]() 3, [SCONJ]() 1), <em>scríobh</em> ([VERB]() 3, [NOUN]() 2), <em>fuil</em> ([VERB]() 2, [NOUN]() 1), <em>rith</em> ([ADP]() 5, [VERB]() 2), <em>Roinne</em> ([VERB]() 1, [NOUN]() 1), <em>ar</em> ([ADP]() 305, [PART]() 9, [AUX]() 7, [ADV]() 6, [VERB]() 1), <em>baineann</em> ([ADJ]() 1, [VERB]() 1), <em>fheadar</em> ([NOUN]() 1, [VERB]() 1), <em>gheall</em> ([NOUN]() 3, [VERB]() 1)
 
 
 * <em>bhfuil</em>
@@ -41,11 +41,11 @@ The 10 most frequent ambiguous types:  <em>bhfuil</em> ([VERB]() 44, [NOUN]() 1)
   * [ADV]() 6: <em>Bhíodh tithe aitheantais acu ag gabháil ann , ag teacht <b>ar</b> ais agus ag ceann scríbe .</em>
   * [VERB]() 1: <em>' Maróidh tú uilig mé , ' <b>ar</b> sé .</em>
 * <em>baineann</em>
-  * [VERB]() 1: <em>Is leis na scáileanna a chaitheann réada faoi sholas na gréine is mó a bheimid ag plé anseo , ach <b>baineann</b> na prionsabail chéanna leis an solas saorga .</em>
   * [ADJ]() 1: <em>an cairpéal ( <b>baineann</b> ) agus an staimín ( fireann ) ; is iad codanna an chairpéil an stiogma , an stíl agus an tsíollann ; is iad an t-antar agus an fasc codanna an staimín ; cuidíonn na piotail , a bhíonn dathannach de ghnáth , chun feithidí a mhealladh chun an bhlátha chun é a phailniú ; cosnaíonn na siopail , a bhíonn glas de ghnáth agus a luíonn lasmuigh de na piotail , an bláth agus é ina bhachlóg .</em>
+  * [VERB]() 1: <em>Is leis na scáileanna a chaitheann réada faoi sholas na gréine is mó a bheimid ag plé anseo , ach <b>baineann</b> na prionsabail chéanna leis an solas saorga .</em>
 * <em>fheadar</em>
-  * [VERB]() 1: <em>Chuirfeadh sé seo spás níos fearr ar fáil do na leanaí agus don mhúinteoir ' Is dócha go bhfuil céad éigin litir scríofa againn agus n' <b>fheadar</b> cad é an méid glaoch gutháin atá déanta ach níl fachta againn go dtí seo ach oifigiúlacht agus constaicí gan dealramh .</em>
   * [NOUN]() 1: <em>Ní <b>fheadar</b> cén fáth nár tugadh an liathróid do na cúil níos luaithe sa lae nuair a bhí sé soiléir go raibh an lámh in uachtar ag tosaithe na Fraince .</em>
+  * [VERB]() 1: <em>Chuirfeadh sé seo spás níos fearr ar fáil do na leanaí agus don mhúinteoir ' Is dócha go bhfuil céad éigin litir scríofa againn agus n' <b>fheadar</b> cad é an méid glaoch gutháin atá déanta ach níl fachta againn go dtí seo ach oifigiúlacht agus constaicí gan dealramh .</em>
 * <em>gheall</em>
   * [NOUN]() 3: <em>Is deacair treo na gaoithe a mheas ar uairibh , sa ghnáthgharraí cúil sa bhaile go háirithe , mar <b>gheall</b> ar na foirgnimh agus na crainn mórthimpeall .</em>
   * [VERB]() 1: <em>IS É IS PAITRIARC ann , duine ar oibrigh cumhacht Dé tríd chun an cine daonna a shlánú , duine ar <b>gheall</b> Dia dó bheith páirteach in obair an tslánaithe sin .</em>

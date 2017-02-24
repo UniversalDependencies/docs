@@ -8,25 +8,33 @@ This relation is universal.
 
 19359 nodes (18%) are attached to their parents as `case`.
 
-16952 instances of `case` (88%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.79141484580815.
+17971 instances of `case` (93%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.07794824112816.
 
-The following 38 pairs of parts of speech are connected with `case`: [gl-pos/NOUN]()-[gl-pos/ADP]() (9941; 51% instances), [gl-pos/VERB]()-[gl-pos/ADP]() (5526; 29% instances), [gl-pos/VERB]()-[gl-pos/ADV]() (1361; 7% instances), [gl-pos/ADP]()-[gl-pos/ADP]() (583; 3% instances), [gl-pos/ADJ]()-[gl-pos/ADP]() (580; 3% instances), [gl-pos/VERB]()-[gl-pos/VERB]() (394; 2% instances), [gl-pos/NUM]()-[gl-pos/ADP]() (346; 2% instances), [gl-pos/ADV]()-[gl-pos/ADP]() (229; 1% instances), [gl-pos/VERB]()-[gl-pos/NOUN]() (79; 0% instances), [gl-pos/VERB]()-[gl-pos/PRON]() (76; 0% instances), [gl-pos/PROPN]()-[gl-pos/ADP]() (57; 0% instances), [gl-pos/PRON]()-[gl-pos/ADP]() (55; 0% instances), [gl-pos/NOUN]()-[gl-pos/SCONJ]() (29; 0% instances), [gl-pos/VERB]()-[gl-pos/SCONJ]() (26; 0% instances), [gl-pos/DET]()-[gl-pos/ADP]() (23; 0% instances), [gl-pos/ADJ]()-[gl-pos/PRON]() (7; 0% instances), [gl-pos/VERB]()-[gl-pos/ADJ]() (7; 0% instances), [gl-pos/VERB]()-[gl-pos/PART]() (5; 0% instances), [gl-pos/SCONJ]()-[gl-pos/ADP]() (4; 0% instances), [gl-pos/ADP]()-[gl-pos/PRON]() (3; 0% instances), [gl-pos/PUNCT]()-[gl-pos/PRON]() (3; 0% instances), [gl-pos/VERB]()-[gl-pos/NUM]() (3; 0% instances), [gl-pos/VERB]()-[gl-pos/PROPN]() (3; 0% instances), [gl-pos/ADP]()-[gl-pos/NOUN]() (2; 0% instances), [gl-pos/ADV]()-[gl-pos/PRON]() (2; 0% instances), [gl-pos/NOUN]()-[gl-pos/PRON]() (2; 0% instances), [gl-pos/PROPN]()-[gl-pos/SCONJ]() (2; 0% instances), [gl-pos/ADJ]()-[gl-pos/ADV]() (1; 0% instances), [gl-pos/CONJ]()-[gl-pos/PART]() (1; 0% instances), [gl-pos/DET]()-[gl-pos/PRON]() (1; 0% instances), [gl-pos/NUM]()-[gl-pos/PRON]() (1; 0% instances), [gl-pos/NUM]()-[gl-pos/PUNCT]() (1; 0% instances), [gl-pos/NUM]()-[gl-pos/SCONJ]() (1; 0% instances), [gl-pos/PART]()-[gl-pos/PRON]() (1; 0% instances), [gl-pos/PRON]()-[gl-pos/PRON]() (1; 0% instances), [gl-pos/PROPN]()-[gl-pos/PRON]() (1; 0% instances), [gl-pos/VERB]()-[gl-pos/CONJ]() (1; 0% instances), [gl-pos/VERB]()-[gl-pos/DET]() (1; 0% instances).
+The following 54 pairs of parts of speech are connected with `case`: [gl-pos/NOUN]()-[gl-pos/ADP]() (13946; 72% instances), [gl-pos/VERB]()-[gl-pos/ADP]() (1352; 7% instances), [gl-pos/VERB]()-[gl-pos/ADV]() (1267; 7% instances), [gl-pos/PROPN]()-[gl-pos/ADP]() (663; 3% instances), [gl-pos/NUM]()-[gl-pos/ADP]() (434; 2% instances), [gl-pos/PRON]()-[gl-pos/ADP]() (380; 2% instances), [gl-pos/ADJ]()-[gl-pos/ADP]() (327; 2% instances), [gl-pos/VERB]()-[gl-pos/VERB]() (309; 2% instances), [gl-pos/ADV]()-[gl-pos/ADP]() (116; 1% instances), [gl-pos/VERB]()-[gl-pos/NOUN]() (86; 0% instances), [gl-pos/VERB]()-[gl-pos/PRON]() (68; 0% instances), [gl-pos/ADP]()-[gl-pos/ADP]() (59; 0% instances), [gl-pos/ADJ]()-[gl-pos/ADV]() (43; 0% instances), [gl-pos/DET]()-[gl-pos/ADP]() (41; 0% instances), [gl-pos/NOUN]()-[gl-pos/ADV]() (40; 0% instances), [gl-pos/ADJ]()-[gl-pos/VERB]() (35; 0% instances), [gl-pos/NOUN]()-[gl-pos/SCONJ]() (29; 0% instances), [gl-pos/VERB]()-[gl-pos/SCONJ]() (26; 0% instances), [gl-pos/PUNCT]()-[gl-pos/ADP]() (24; 0% instances), [gl-pos/VERB]()-[gl-pos/ADJ]() (15; 0% instances), [gl-pos/ADJ]()-[gl-pos/PRON]() (12; 0% instances), [gl-pos/NOUN]()-[gl-pos/VERB]() (11; 0% instances), [gl-pos/ADP]()-[gl-pos/ADV]() (10; 0% instances), [gl-pos/NOUN]()-[gl-pos/PRON]() (10; 0% instances), [gl-pos/VERB]()-[gl-pos/PART]() (5; 0% instances), [gl-pos/ADJ]()-[gl-pos/NOUN]() (4; 0% instances), [gl-pos/ADP]()-[gl-pos/VERB]() (4; 0% instances), [gl-pos/CCONJ]()-[gl-pos/ADP]() (3; 0% instances), [gl-pos/NOUN]()-[gl-pos/ADJ]() (3; 0% instances), [gl-pos/NOUN]()-[gl-pos/NOUN]() (3; 0% instances), [gl-pos/VERB]()-[gl-pos/NUM]() (3; 0% instances), [gl-pos/VERB]()-[gl-pos/PROPN]() (3; 0% instances), [gl-pos/ADP]()-[gl-pos/NOUN]() (2; 0% instances), [gl-pos/ADP]()-[gl-pos/PRON]() (2; 0% instances), [gl-pos/ADV]()-[gl-pos/PRON]() (2; 0% instances), [gl-pos/PRON]()-[gl-pos/ADV]() (2; 0% instances), [gl-pos/PROPN]()-[gl-pos/SCONJ]() (2; 0% instances), [gl-pos/SCONJ]()-[gl-pos/ADP]() (2; 0% instances), [gl-pos/ADJ]()-[gl-pos/ADJ]() (1; 0% instances), [gl-pos/ADJ]()-[gl-pos/DET]() (1; 0% instances), [gl-pos/AUX]()-[gl-pos/ADP]() (1; 0% instances), [gl-pos/CCONJ]()-[gl-pos/PART]() (1; 0% instances), [gl-pos/DET]()-[gl-pos/PRON]() (1; 0% instances), [gl-pos/DET]()-[gl-pos/VERB]() (1; 0% instances), [gl-pos/NUM]()-[gl-pos/PRON]() (1; 0% instances), [gl-pos/NUM]()-[gl-pos/PUNCT]() (1; 0% instances), [gl-pos/NUM]()-[gl-pos/SCONJ]() (1; 0% instances), [gl-pos/PART]()-[gl-pos/PRON]() (1; 0% instances), [gl-pos/PRON]()-[gl-pos/PRON]() (1; 0% instances), [gl-pos/PRON]()-[gl-pos/VERB]() (1; 0% instances), [gl-pos/PROPN]()-[gl-pos/PRON]() (1; 0% instances), [gl-pos/PROPN]()-[gl-pos/VERB]() (1; 0% instances), [gl-pos/SCONJ]()-[gl-pos/VERB]() (1; 0% instances), [gl-pos/VERB]()-[gl-pos/CCONJ]() (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 5 case	color:blue
-1	En	en	ADP	SPS00	_	0	root	_	Treeler:sentence
-2	1985	1985	NUM	Z	_	1	nmod	_	Treeler:sn
-3	a	o	DET	DA0FS0	_	4	det	_	Treeler:spec
-4	Administración	administración	NOUN	NCFS000	_	1	nmod	_	Treeler:sn
-5	de	de	ADP	SPS00	_	4	case	_	Treeler:sp
-6	St	st	PROPN	NP00000	_	5	nmod	_	Treeler:sn
-7	.	.	PUNCT	Fp	_	1	punct	_	Treeler:f
+# visual-style 11	bgColor:blue
+# visual-style 11	fgColor:white
+# visual-style 13	bgColor:blue
+# visual-style 13	fgColor:white
+# visual-style 13 11 case	color:blue
+1	Así	así	ADV	RG	_	2	det	_	Treeler:spec
+2	mesmo	mesmo	ADV	RG	_	5	case	_	SpaceAfter=No|ToDo=case-upos|Treeler:cc
+3	,	,	PUNCT	Fc	_	2	punct	_	Treeler:f
+4	serán	ser	VERB	VSIF3P0	_	5	aux	_	Treeler:v
+5	publicados	publicar	VERB	VMP00PM	_	0	root	_	Treeler:sentence
+6	en	en	ADP	SPS00	_	9	case	_	Treeler:cc
+7	o	o	DET	DA0MS0	_	9	det	_	Treeler:spec
+8	"	"	PUNCT	Fe	_	9	punct	_	SpaceAfter=No|Treeler:f
+9	Boletín	boletín	NOUN	NCMS000	_	5	obl	_	Treeler:sn
+10	Oficial	oficial	ADJ	AQ0CS0	_	9	amod	_	Treeler:s.a
+11	de	de	ADP	SPS00	_	13	case	_	Treeler:sp
+12	el	el	PRON	PP3MS000	_	13	nmod	_	Treeler:sn
+13	Estado	estado	NOUN	NCMS000	_	9	nmod	_	SpaceAfter=No|Treeler:sn
+14	"	"	PUNCT	Fe	_	9	punct	_	SpaceAfter=No|Treeler:f
+15	.	.	PUNCT	Fp	_	5	punct	_	Treeler:f
 
 ~~~
 
@@ -34,23 +42,23 @@ The following 38 pairs of parts of speech are connected with `case`: [gl-pos/NOU
 ~~~ conllu
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 6 case	color:blue
-1	Así	así	ADV	RG	_	2	det	_	Treeler:spec
-2	mesmo	mesmo	ADV	RG	_	5	case	_	Treeler:cc
-3	,	,	PUNCT	Fc	_	2	punct	_	Treeler:f
-4	serán	ser	VERB	VSIF3P0	_	5	aux	_	Treeler:v
-5	publicados	publicar	VERB	VMP00PM	_	0	root	_	Treeler:sentence
-6	en	en	ADP	SPS00	_	5	case	_	Treeler:cc
-7	o	o	DET	DA0MS0	_	9	det	_	Treeler:spec
-8	"	"	PUNCT	Fe	_	9	punct	_	Treeler:f
-9	Boletín	boletín	NOUN	NCMS000	_	6	nmod	_	Treeler:sn
-10	Oficial	oficial	ADJ	AQ0CS0	_	9	amod	_	Treeler:s.a
-11	de	de	ADP	SPS00	_	9	case	_	Treeler:sp
-12	el	el	PRON	PP3MS000	_	11	nmod	_	Treeler:sn
-13	Estado	estado	NOUN	NCMS000	_	11	nmod	_	Treeler:sn
-14	"	"	PUNCT	Fe	_	9	punct	_	Treeler:f
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 6 case	color:blue
+1	Ningunha	ningún	DET	DI0FS0	_	5	det	_	Treeler:spec
+2	de	de	ADP	SPS00	_	3	case	_	Treeler:s
+3	elas	el	PRON	PP3FP000	_	1	nmod	_	Treeler:sn
+4	se	se	PRON	PP3CN000	_	5	obj	_	Treeler:cd
+5	chegou	chegar	VERB	VMIS3S0	_	0	root	_	Treeler:sentence
+6	a	a	ADP	SPS00	_	7	case	_	Treeler:creg
+7	instalar	instalar	VERB	VMN0000	_	5	ccomp	_	Treeler:S
+8	por	por	ADP	SPS00	_	10	case	_	Treeler:cc
+9	a	o	DET	DA0FS0	_	10	det	_	Treeler:spec
+10	oposición	oposición	NOUN	NCFS000	_	7	obl	_	Treeler:sn
+11	directa	directo	ADJ	AQ0FS0	_	10	amod	_	Treeler:s.a
+12	de	de	ADP	SPS00	_	14	case	_	Treeler:sp
+13	a	o	DET	DA0FS0	_	14	det	_	Treeler:spec
+14	poboación	poboación	NOUN	NCFS000	_	10	nmod	_	SpaceAfter=No|Treeler:sn
 15	.	.	PUNCT	Fp	_	5	punct	_	Treeler:f
 
 ~~~
@@ -63,19 +71,19 @@ The following 38 pairs of parts of speech are connected with `case`: [gl-pos/NOU
 # visual-style 5	fgColor:white
 # visual-style 5 2 case	color:blue
 1	Así	así	ADV	RG	_	2	det	_	Treeler:spec
-2	mesmo	mesmo	ADV	RG	_	5	case	_	Treeler:cc
+2	mesmo	mesmo	ADV	RG	_	5	case	_	SpaceAfter=No|ToDo=case-upos|Treeler:cc
 3	,	,	PUNCT	Fc	_	2	punct	_	Treeler:f
 4	serán	ser	VERB	VSIF3P0	_	5	aux	_	Treeler:v
 5	publicados	publicar	VERB	VMP00PM	_	0	root	_	Treeler:sentence
-6	en	en	ADP	SPS00	_	5	case	_	Treeler:cc
+6	en	en	ADP	SPS00	_	9	case	_	Treeler:cc
 7	o	o	DET	DA0MS0	_	9	det	_	Treeler:spec
-8	"	"	PUNCT	Fe	_	9	punct	_	Treeler:f
-9	Boletín	boletín	NOUN	NCMS000	_	6	nmod	_	Treeler:sn
+8	"	"	PUNCT	Fe	_	9	punct	_	SpaceAfter=No|Treeler:f
+9	Boletín	boletín	NOUN	NCMS000	_	5	obl	_	Treeler:sn
 10	Oficial	oficial	ADJ	AQ0CS0	_	9	amod	_	Treeler:s.a
-11	de	de	ADP	SPS00	_	9	case	_	Treeler:sp
-12	el	el	PRON	PP3MS000	_	11	nmod	_	Treeler:sn
-13	Estado	estado	NOUN	NCMS000	_	11	nmod	_	Treeler:sn
-14	"	"	PUNCT	Fe	_	9	punct	_	Treeler:f
+11	de	de	ADP	SPS00	_	13	case	_	Treeler:sp
+12	el	el	PRON	PP3MS000	_	13	nmod	_	Treeler:sn
+13	Estado	estado	NOUN	NCMS000	_	9	nmod	_	SpaceAfter=No|Treeler:sn
+14	"	"	PUNCT	Fe	_	9	punct	_	SpaceAfter=No|Treeler:f
 15	.	.	PUNCT	Fp	_	5	punct	_	Treeler:f
 
 ~~~

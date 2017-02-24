@@ -155,70 +155,6 @@ The following 7 pairs of parts of speech are connected with `orphan`: [en-pos/NO
 
 
 ~~~ conllu
-# visual-style 42	bgColor:blue
-# visual-style 42	fgColor:white
-# visual-style 39	bgColor:blue
-# visual-style 39	fgColor:white
-# visual-style 39 42 orphan	color:blue
-1	Neither	neither	CCONJ	CC	_	2	cc	_	_
-2	Marx	Marx	PROPN	SP	_	7	nsubj	_	_
-3	nor	nor	CCONJ	CC	_	5	cc	_	_
-4	the	the	DET	RD	Definite=Def|PronType=Art	5	det	_	_
-5	physiocrats	physiocrats	NOUN	S	Gender=Fem|Number=Plur	2	conj	_	_
-6	could	can	AUX	VM	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	7	aux	_	_
-7	imagine	imagine	VERB	V	VerbForm=Inf	0	root	_	_
-8	the	the	DET	RD	Definite=Def|PronType=Art	14	det	_	_
-9	great	great	ADJ	A	Degree=Pos	14	amod	_	_
-10	many	many	ADJ	A	Degree=Pos	14	amod	_	_
-11	well	well	ADV	B	_	13	advmod	_	SpaceAfter=No
-12	-	-	PUNCT	FF	_	11	punct	_	SpaceAfter=No
-13	paid	pay	VERB	V	Tense=Past|VerbForm=Part	14	acl	_	_
-14	things	thing	NOUN	S	Number=Plur	7	obj	_	_
-15	that	that	PRON	PR	PronType=Rel	18	obj	_	_
-16	we	we	PRON	PE	Number=Plur|Person=1|PronType=Prs	18	nsubj	_	_
-17	could	can	AUX	VM	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	18	aux	_	_
-18	find	find	VERB	V	VerbForm=Inf	14	acl:relcl	_	_
-19	to	to	PART	PART	_	20	mark	_	_
-20	do	do	VERB	V	VerbForm=Inf	18	advcl	_	_
-21	once	once	SCONJ	CS	_	25	mark	_	_
-22	we	we	PRON	PE	Number=Plur|Person=1|PronType=Prs	25	nsubj	_	_
-23	no	no	ADV	B	PronType=Neg	24	advmod	_	_
-24	longer	longer	ADV	B	Degree=Cmp	25	advmod	_	_
-25	needed	need	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	20	advcl	_	_
-26	to	to	PART	PART	_	27	mark	_	_
-27	employ	employ	VERB	V	VerbForm=Inf	25	xcomp	_	_
-28	60	60	NUM	N	NumType=Card	29	nummod	_	SpaceAfter=No
-29	%	%	SYM	X	_	27	obj	_	_
-30	of	of	ADP	E	_	33	case	_	_
-31	the	the	DET	RD	Definite=Def|PronType=Art	33	det	_	_
-32	labor	labor	NOUN	S	Number=Sing	33	nmod	_	_
-33	force	force	NOUN	S	Number=Sing	29	nmod	_	_
-34	in	in	ADP	E	_	35	case	_	_
-35	agriculture	agriculture	NOUN	S	Gender=Fem|Number=Sing	27	obl	_	_
-36	and	and	CCONJ	CC	_	39	cc	_	_
-37	another	another	DET	RI	Definite=Ind|Number=Sing|PronType=Art	39	det	_	_
-38	20	20	NUM	N	NumType=Card	39	nummod	_	SpaceAfter=No
-39	%	%	SYM	X	_	27	conj	_	_
-40	in	in	ADP	E	_	42	case	_	_
-41	hand	hand	NOUN	S	Number=Sing	42	nmod	_	_
-42	spinning	spinning	NOUN	S	Number=Sing	39	orphan	_	SpaceAfter=No
-43	,	,	PUNCT	FF	_	45	punct	_	_
-44	handloom	handloom	NOUN	S	Number=Sing	45	nmod	_	_
-45	weaving	weaving	NOUN	S	Number=Sing	42	conj	_	SpaceAfter=No
-46	,	,	PUNCT	FF	_	49	punct	_	_
-47	and	and	CCONJ	CC	_	49	cc	_	_
-48	land	land	ADJ	A	Degree=Pos	49	amod	_	_
-49	transport	transport	NOUN	S	Number=Sing	42	conj	_	_
-50	via	via	ADP	E	_	51	case	_	_
-51	horse	horse	NOUN	S	Number=Sing	49	nmod	_	_
-52	and	and	CCONJ	CC	_	53	cc	_	_
-53	cart	cart	NOUN	S	Number=Sing	51	conj	_	SpaceAfter=No
-54	.	.	PUNCT	FS	_	7	punct	_	_
-
-~~~
-
-
-~~~ conllu
 # visual-style 21	bgColor:blue
 # visual-style 21	fgColor:white
 # visual-style 16	bgColor:blue
@@ -246,6 +182,46 @@ The following 7 pairs of parts of speech are connected with `orphan`: [en-pos/NO
 20	in	in	ADP	E	_	21	case	_	_
 21	1807	1807	NUM	N	NumType=Card	16	orphan	_	SpaceAfter=No
 22	.	.	PUNCT	FS	_	8	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 21	bgColor:blue
+# visual-style 21	fgColor:white
+# visual-style 17	bgColor:blue
+# visual-style 17	fgColor:white
+# visual-style 17 21 orphan	color:blue
+1	"	"	PUNCT	FB	_	7	punct	_	SpaceAfter=No
+2	In	in	ADP	E	_	5	case	_	_
+3	his	his	DET	AP	Poss=Yes|PronType=Prs	5	nmod:poss	_	_
+4	own	own	ADJ	A	Degree=Pos	5	amod	_	_
+5	novels	novel	NOUN	S	Number=Plur	7	obl	_	_
+6	James	James	PROPN	SP	_	7	nsubj	_	_
+7	explored	explore	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+8	more	more	ADJ	A	Degree=Cmp	7	obj	_	_
+9	of	of	ADP	E	_	12	case	_	_
+10	the	the	DET	RD	Definite=Def|PronType=Art	12	det	_	_
+11	psychological	psychological	ADJ	A	Degree=Pos	12	amod	_	_
+12	motives	motive	NOUN	S	Number=Plur	8	obl	_	_
+13	of	of	ADP	E	_	15	case	_	_
+14	the	the	DET	RD	Definite=Def|PronType=Art	15	det	_	_
+15	characters	character	NOUN	S	Number=Plur	12	nmod	_	_
+16	and	and	CCONJ	CC	_	17	cc	_	_
+17	less	less	ADJ	A	Degree=Cmp	8	conj	_	_
+18	of	of	ADP	E	_	21	case	_	_
+19	the	the	DET	RD	Definite=Def|PronType=Art	21	det	_	_
+20	historical	historic	ADJ	A	Degree=Pos	21	amod	_	_
+21	sweep	sweep	NOUN	S	Number=Sing	17	orphan	_	_
+22	exhibited	exhibit	VERB	V	Tense=Past|VerbForm=Part	21	acl	_	_
+23	by	by	ADP	E	_	24	case	_	_
+24	Balzac	Balzac	PROPN	SP	_	22	obl:agent	_	_
+25	-	-	PUNCT	FF	_	7	punct	_	_
+26	a	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	29	det	_	_
+27	conscious	conscious	ADJ	A	Degree=Pos	29	amod	_	_
+28	style	style	NOUN	S	Number=Sing	29	nmod	_	_
+29	preference	preference	NOUN	S	Number=Sing	7	appos	_	SpaceAfter=No
+30	.	.	PUNCT	FS	_	7	punct	_	_
 
 ~~~
 

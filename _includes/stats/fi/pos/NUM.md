@@ -101,13 +101,13 @@ The 10 most frequent `NUM` types:  <em>kaksi, yksi, kolme, kymmenen, viisi, kahd
 
 The 10 most frequent ambiguous lemmas: <em>yksi</em> ([NUM]() 215, [DET]() 29, [PRON]() 7), <em>viisi</em> ([NUM]() 119, [NOUN]() 1), <em>puoli</em> ([NUM]() 81, [NOUN]() 37), <em>pari</em> ([NUM]() 57, [NOUN]() 9), <em>kuusi</em> ([NUM]() 30, [PROPN]() 2, [NOUN]() 1), <em>nolla</em> ([NUM]() 3, [NOUN]() 2)
 
-The 10 most frequent ambiguous types:  <em>yksi</em> ([NUM]() 81, [PRON]() 1, [DET]() 1), <em>pari</em> ([NUM]() 35, [NOUN]() 5), <em>yhden</em> ([NUM]() 36, [DET]() 5), <em>puoli</em> ([NUM]() 26, [NOUN]() 6), <em>yks</em> ([NUM]() 14, [DET]() 7), <em>puolet</em> ([NUM]() 13, [ADV]() 1), <em>yhtä</em> ([ADV]() 42, [NUM]() 12, [DET]() 6, [PRON]() 2), <em>puolen</em> ([NUM]() 6, [ADV]() 3, [NOUN]() 1), <em>sataa</em> ([VERB]() 12, [NUM]() 8), <em>yhteen</em> ([ADV]() 9, [NUM]() 5)
+The 10 most frequent ambiguous types:  <em>yksi</em> ([NUM]() 81, [DET]() 1, [PRON]() 1), <em>pari</em> ([NUM]() 35, [NOUN]() 5), <em>yhden</em> ([NUM]() 36, [DET]() 5), <em>puoli</em> ([NUM]() 26, [NOUN]() 6), <em>yks</em> ([NUM]() 14, [DET]() 7), <em>puolet</em> ([NUM]() 13, [ADV]() 1), <em>yhtä</em> ([ADV]() 42, [NUM]() 12, [DET]() 6, [PRON]() 2), <em>puolen</em> ([NUM]() 6, [ADV]() 3, [NOUN]() 1), <em>sataa</em> ([VERB]() 12, [NUM]() 8), <em>yhteen</em> ([ADV]() 9, [NUM]() 5)
 
 
 * <em>yksi</em>
   * [NUM]() 81: <em>Minua hitsaa <b>yksi</b> juttu</em>
-  * [PRON]() 1: <em>Kekkosen voiman päivinä <b>yksi</b> jos toinenkin selvästi pelkäsi esiintyä avoimesti .</em>
   * [DET]() 1: <em>Susanna Lahtisen oppilaat ovat esikoululaisia Luxemburgissa - <b>yksi</b> heistä on hänen oma nelivuotias Saimansa .</em>
+  * [PRON]() 1: <em>Kekkosen voiman päivinä <b>yksi</b> jos toinenkin selvästi pelkäsi esiintyä avoimesti .</em>
 * <em>pari</em>
   * [NUM]() 35: <em>Istuin koneen ääressä koko aamun , paitsi <b>pari</b> kertaa kävin kahvilla .</em>
   * [NOUN]() 5: <em>Susanna ja Petri ovat nyt lopullisesti <b>pari</b> .</em>

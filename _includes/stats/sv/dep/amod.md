@@ -160,6 +160,21 @@ The following 3 pairs of parts of speech are connected with `amod`: [sv-pos/ADJ]
 
 
 ~~~ conllu
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 3 amod	color:blue
+1	KLÄ-PÅ.NEDERDEL	_	X	?	_	0	root	_	_
+2	KLÄ-PÅ.ÖVERDEL	_	X	?	_	1	conj	_	_
+3	VARM	_	ADJ	JJ	_	4	amod	_	_
+4	KLÄDER	_	NOUN	NN	_	1	dobj	_	_
+5	MÖSSA(G)	_	X	?	_	4	conj	_	_
+
+~~~
+
+
+~~~ conllu
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 4	bgColor:blue
@@ -202,21 +217,6 @@ The following 3 pairs of parts of speech are connected with `amod`: [sv-pos/ADJ]
 8	PRO1	_	PRON	PN	_	6	conj	_	_
 9	TECKNA.FLYT	_	VERB	VB	_	7	conj	_	_
 10	PEK	_	PRON	PEK	_	1	conj	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 3 amod	color:blue
-1	KLÄ-PÅ.NEDERDEL	_	X	?	_	0	root	_	_
-2	KLÄ-PÅ.ÖVERDEL	_	X	?	_	1	conj	_	_
-3	VARM	_	ADJ	JJ	_	4	amod	_	_
-4	KLÄDER	_	NOUN	NN	_	1	dobj	_	_
-5	MÖSSA(G)	_	X	?	_	4	conj	_	_
 
 ~~~
 

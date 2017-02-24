@@ -40,30 +40,6 @@ The following 11 pairs of parts of speech are connected with `dep`: [ro-pos/NOUN
 
 
 ~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 4 dep	color:blue
-1	Caracteristicile	caracteristică	NOUN	Ncfpry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Plur	0	root	_	_
-2	produsului	produs	NOUN	Ncmsoy	Case=Dat,Gen|Definite=Def|Gender=Masc|Number=Sing	1	nmod	_	_
-3	(	(	PUNCT	LPAR	_	4	punct	_	SpaceAfter=No
-4	produselor	produs	NOUN	Ncfpoy	Case=Dat,Gen|Definite=Def|Gender=Fem|Number=Plur	2	dep	_	SpaceAfter=No
-5	)	)	PUNCT	RPAR	_	4	punct	_	_
-6	care	care	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	7	nsubj	_	_
-7	urmează	urma	VERB	Vmip3	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	2	acl	_	_
-8	să	să	PART	Qs	Mood=Sub	10	mark	_	_
-9	fie	fi	AUX	Vasp3	Mood=Sub|Person=3|Tense=Pres|VerbForm=Fin	10	aux:pass	_	_
-10	cântărit	cântări	VERB	Vmp--sm	Gender=Masc|Number=Sing|VerbForm=Part	7	ccomp	_	_
-11	(	(	PUNCT	LPAR	_	12	punct	_	SpaceAfter=No
-12	e	e	NOUN	Ncm--n	Definite=Ind|Gender=Masc	10	dep	_	SpaceAfter=No
-13	)	)	PUNCT	RPAR	_	12	punct	_	SpaceAfter=No
-14	.	.	PUNCT	PERIOD	_	1	punct	_	_
-
-~~~
-
-
-~~~ conllu
 # visual-style 13	bgColor:blue
 # visual-style 13	fgColor:white
 # visual-style 11	bgColor:blue
@@ -84,6 +60,30 @@ The following 11 pairs of parts of speech are connected with `dep`: [ro-pos/NOUN
 13	ș.a.	ș.a.	PRON	Yp	Abbr=Yes	11	dep	_	SpaceAfter=No
 14	)	)	PUNCT	RPAR	_	11	punct	_	SpaceAfter=No
 15	.	.	PUNCT	PERIOD	_	4	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 4 dep	color:blue
+1	Caracteristicile	caracteristică	NOUN	Ncfpry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Plur	0	root	_	_
+2	produsului	produs	NOUN	Ncmsoy	Case=Dat,Gen|Definite=Def|Gender=Masc|Number=Sing	1	nmod	_	_
+3	(	(	PUNCT	LPAR	_	4	punct	_	SpaceAfter=No
+4	produselor	produs	NOUN	Ncfpoy	Case=Dat,Gen|Definite=Def|Gender=Fem|Number=Plur	2	dep	_	SpaceAfter=No
+5	)	)	PUNCT	RPAR	_	4	punct	_	_
+6	care	care	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	7	nsubj	_	_
+7	urmează	urma	VERB	Vmip3	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	2	acl	_	_
+8	să	să	PART	Qs	Mood=Sub	10	mark	_	_
+9	fie	fi	AUX	Vasp3	Mood=Sub|Person=3|Tense=Pres|VerbForm=Fin	10	aux:pass	_	_
+10	cântărit	cântări	VERB	Vmp--sm	Gender=Masc|Number=Sing|VerbForm=Part	7	ccomp	_	_
+11	(	(	PUNCT	LPAR	_	12	punct	_	SpaceAfter=No
+12	e	e	NOUN	Ncm--n	Definite=Ind|Gender=Masc	10	dep	_	SpaceAfter=No
+13	)	)	PUNCT	RPAR	_	12	punct	_	SpaceAfter=No
+14	.	.	PUNCT	PERIOD	_	1	punct	_	_
 
 ~~~
 

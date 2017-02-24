@@ -55,7 +55,7 @@ The most frequent other feature values with which `PRON` and `Person` co-occurre
 
 123 [ga-pos/DET]() tokens (10% of all `DET` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `DET` and `Person` co-occurred: <tt><a href="PronType.html">PronType</a>=EMPTY</tt> (123; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (123; 100%), <tt><a href="Definite.html">Definite</a>=EMPTY</tt> (123; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (89; 72%).
+The most frequent other feature values with which `DET` and `Person` co-occurred: <tt><a href="PronType.html">PronType</a>=EMPTY</tt> (123; 100%), <tt><a href="Definite.html">Definite</a>=EMPTY</tt> (123; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (123; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (89; 72%).
 
 `DET` tokens may have the following values of `Person`:
 
@@ -96,7 +96,7 @@ The most frequent other feature values with which `VERB` and `Person` co-occurre
 
 5 [ga-pos/X]() tokens (3% of all `X` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `X` and `Person` co-occurred: <tt><a href="PronType.html">PronType</a>=EMPTY</tt> (5; 100%), <tt><a href="Abbr.html">Abbr</a>=EMPTY</tt> (5; 100%), <tt><a href="Dialect.html">Dialect</a>=Munster</tt> (3; 60%).
+The most frequent other feature values with which `X` and `Person` co-occurred: <tt><a href="Abbr.html">Abbr</a>=EMPTY</tt> (5; 100%), <tt><a href="PronType.html">PronType</a>=EMPTY</tt> (5; 100%), <tt><a href="Dialect.html">Dialect</a>=Munster</tt> (3; 60%).
 
 `X` tokens may have the following values of `Person`:
 
@@ -109,7 +109,7 @@ The most frequent other feature values with which `X` and `Person` co-occurred: 
 
 1 [ga-pos/AUX]() tokens (0% of all `AUX` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `AUX` and `Person` co-occurred: <tt><a href="Form.html">Form</a>=EMPTY</tt> (1; 100%), <tt><a href="PronType.html">PronType</a>=EMPTY</tt> (1; 100%), <tt><a href="Polarity.html">Polarity</a>=EMPTY</tt> (1; 100%), <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (1; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Cop</tt> (1; 100%).
+The most frequent other feature values with which `AUX` and `Person` co-occurred: <tt><a href="PronType.html">PronType</a>=EMPTY</tt> (1; 100%), <tt><a href="Form.html">Form</a>=EMPTY</tt> (1; 100%), <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (1; 100%), <tt><a href="Polarity.html">Polarity</a>=EMPTY</tt> (1; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Cop</tt> (1; 100%).
 
 `AUX` tokens may have the following values of `Person`:
 
@@ -122,6 +122,6 @@ The 10 most frequent relations where parent and child node agree in `Person`:
 <tt>VERB --[<a href="../dep/conj.html">conj</a>]--> VERB</tt> (6; 75%),
 <tt>PRON --[<a href="../dep/conj.html">conj</a>]--> PRON</tt> (5; 100%),
 <tt>ADP --[<a href="../dep/conj.html">conj</a>]--> ADP</tt> (4; 80%),
-<tt>X --[<a href="../dep/obl:prep.html">obl:prep</a>]--> ADP</tt> (1; 100%),
-<tt>X --[<a href="../dep/conj.html">conj</a>]--> X</tt> (1; 100%).
+<tt>X --[<a href="../dep/conj.html">conj</a>]--> X</tt> (1; 100%),
+<tt>X --[<a href="../dep/obl:prep.html">obl:prep</a>]--> ADP</tt> (1; 100%).
 

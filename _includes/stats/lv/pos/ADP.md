@@ -13,7 +13,7 @@ The 10 most frequent `ADP` types:  <em>par, ar, no, uz, pēc, pie, pa, līdz, be
 
 The 10 most frequent ambiguous lemmas: <em>pie</em> ([ADP]() 125, [PART]() 1), <em>līdz</em> ([ADP]() 46, [ADV]() 13, [SCONJ]() 1), <em>pirms</em> ([ADP]() 20, [ADV]() 8, [SCONJ]() 2), <em>kopš</em> ([ADP]() 12, [SCONJ]() 1), <em>pāri</em> ([ADV]() 17, [ADP]() 2), <em>ārpus</em> ([ADP]() 1, [ADV]() 1)
 
-The 10 most frequent ambiguous types:  <em>pie</em> ([ADP]() 111, [PART]() 1), <em>līdz</em> ([ADP]() 43, [ADV]() 6), <em>pirms</em> ([ADP]() 16, [ADV]() 8, [SCONJ]() 2), <em>kopš</em> ([ADP]() 8, [SCONJ]() 1), <em>pāri</em> ([ADV]() 16, [NOUN]() 2, [ADP]() 2), <em>ārpus</em> ([ADV]() 1, [ADP]() 1)
+The 10 most frequent ambiguous types:  <em>pie</em> ([ADP]() 111, [PART]() 1), <em>līdz</em> ([ADP]() 43, [ADV]() 6), <em>pirms</em> ([ADP]() 16, [ADV]() 8, [SCONJ]() 2), <em>kopš</em> ([ADP]() 8, [SCONJ]() 1), <em>pāri</em> ([ADV]() 16, [ADP]() 2, [NOUN]() 2), <em>ārpus</em> ([ADP]() 1, [ADV]() 1)
 
 
 * <em>pie</em>
@@ -31,11 +31,11 @@ The 10 most frequent ambiguous types:  <em>pie</em> ([ADP]() 111, [PART]() 1), <
   * [SCONJ]() 1: <em>Igauņi šo materiālu krāj , <b>kopš</b> uzzināja , ka ir doma šādu rūpnīcu būvēt .</em>
 * <em>pāri</em>
   * [ADV]() 16: <em>- Viņš man <b>pāri</b> nedarīs , - meitene pēkšņi ļoti pārliecināti teica .</em>
-  * [NOUN]() 2: <em>Piesūciniet kokvilnas zeķes ar siltu augu eļļu un uzvelciet tās kājās , un virsū uzvelciet plastikāta maisiņus , bet uz tiem uzvelciet vēl vienu zeķu <b>pāri</b> .</em>
   * [ADP]() 2: <em>Bārmenis uzsauca <b>pāri</b> zālei : - Sanī , tu ko dzersi ?</em>
+  * [NOUN]() 2: <em>Piesūciniet kokvilnas zeķes ar siltu augu eļļu un uzvelciet tās kājās , un virsū uzvelciet plastikāta maisiņus , bet uz tiem uzvelciet vēl vienu zeķu <b>pāri</b> .</em>
 * <em>ārpus</em>
-  * [ADV]() 1: <em>Ūdens vārāmā kanna , kas nestrādā , trīs sienas kontakti , kas vados karājas <b>ārpus</b> sienas , ceturtais aiznaglots ar finiera kvadrātiņu .</em>
   * [ADP]() 1: <em>Jutos <b>ārpus</b> visa , kas šeit notiek , un tāpēc ļoti brīvi .</em>
+  * [ADV]() 1: <em>Ūdens vārāmā kanna , kas nestrādā , trīs sienas kontakti , kas vados karājas <b>ārpus</b> sienas , ceturtais aiznaglots ar finiera kvadrātiņu .</em>
 
 ## Morphology
 

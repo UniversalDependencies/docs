@@ -11,7 +11,7 @@ The 10 most frequent `PROPN` lemmas: <em>bush, US, Iraq, al, enron, united, Iran
 
 The 10 most frequent `PROPN` types:  <em>bush, US, Iraq, al, enron, united, Iran, New, China, states</em>
 
-The 10 most frequent ambiguous lemmas: <em>bush</em> ([NOUN]() 1, [PROPN]() 1), <em>al</em> ([PROPN]() 44, [X]() 1), <em>enron</em> ([X]() 5, [PROPN]() 2), <em>united</em> ([PROPN]() 3, [ADJ]() 1), <em>president</em> ([NOUN]() 16, [PROPN]() 14), <em>may</em> ([AUX]() 204, [PROPN]() 1), <em>mike</em> ([PROPN]() 1, [X]() 1), <em>north</em> ([NOUN]() 5, [ADV]() 5, [ADJ]() 2, [PROPN]() 2), <em>mark</em> ([NOUN]() 12, [VERB]() 12, [PROPN]() 2, [X]() 1), <em>thursday</em> ([PROPN]() 2, [NOUN]() 1)
+The 10 most frequent ambiguous lemmas: <em>bush</em> ([PROPN]() 1, [NOUN]() 1), <em>al</em> ([PROPN]() 44, [X]() 1), <em>enron</em> ([X]() 5, [PROPN]() 2), <em>united</em> ([PROPN]() 3, [ADJ]() 1), <em>president</em> ([NOUN]() 16, [PROPN]() 14), <em>may</em> ([AUX]() 204, [PROPN]() 1), <em>mike</em> ([PROPN]() 1, [X]() 1), <em>north</em> ([NOUN]() 5, [ADV]() 5, [PROPN]() 2, [ADJ]() 2), <em>mark</em> ([NOUN]() 12, [VERB]() 12, [PROPN]() 2, [X]() 1), <em>thursday</em> ([PROPN]() 2, [NOUN]() 1)
 
 The 10 most frequent ambiguous types:  <em>al</em> ([PROPN]() 44, [X]() 1), <em>united</em> ([PROPN]() 3, [ADJ]() 1), <em>New</em> ([PROPN]() 81, [ADJ]() 5, [NOUN]() 1), <em>states</em> ([NOUN]() 10, [VERB]() 5, [PROPN]() 5), <em>John</em> ([PROPN]() 67, [X]() 2), <em>president</em> ([PROPN]() 14, [NOUN]() 11), <em>may</em> ([AUX]() 200, [PROPN]() 1), <em>July</em> ([PROPN]() 44, [ADV]() 1), <em>National</em> ([PROPN]() 44, [ADJ]() 5), <em>Sara</em> ([PROPN]() 37, [X]() 3)
 
@@ -247,7 +247,7 @@ The 10 most frequent `PROPN` lemmas: <em>Shakespeare, Balzac, Ukraine, Europe, F
 
 The 10 most frequent `PROPN` types:  <em>Shakespeare, Balzac, Ukraine, Europe, Facebook, US, Pericles, China, De, Henry</em>
 
-The 10 most frequent ambiguous lemmas: <em>De</em> ([PROPN]() 18, [X]() 5), <em>South</em> ([PROPN]() 12, [NOUN]() 2), <em>European</em> ([ADJ]() 39, [PROPN]() 8, [NOUN]() 4), <em>King</em> ([PROPN]() 8, [NOUN]() 1), <em>February</em> ([PROPN]() 5, [NOUN]() 1), <em>French</em> ([ADJ]() 6, [PROPN]() 5), <em>Sri</em> ([PROPN]() 3, [NOUN]() 1), <em>Chinese</em> ([ADJ]() 2, [PROPN]() 2), <em>Ukrainian</em> ([ADJ]() 5, [PROPN]() 2, [NOUN]() 2), <em>du</em> ([X]() 2, [ADP]() 1, [PROPN]() 1)
+The 10 most frequent ambiguous lemmas: <em>De</em> ([PROPN]() 18, [X]() 5), <em>South</em> ([PROPN]() 12, [NOUN]() 2), <em>European</em> ([ADJ]() 39, [PROPN]() 8, [NOUN]() 4), <em>King</em> ([PROPN]() 8, [NOUN]() 1), <em>February</em> ([PROPN]() 5, [NOUN]() 1), <em>French</em> ([ADJ]() 6, [PROPN]() 5), <em>Sri</em> ([PROPN]() 3, [NOUN]() 1), <em>Chinese</em> ([PROPN]() 2, [ADJ]() 2), <em>Ukrainian</em> ([ADJ]() 5, [NOUN]() 2, [PROPN]() 2), <em>du</em> ([X]() 2, [PROPN]() 1, [ADP]() 1)
 
 The 10 most frequent ambiguous types:  <em>De</em> ([PROPN]() 18, [X]() 5), <em>South</em> ([PROPN]() 12, [NOUN]() 4, [ADJ]() 2), <em>Union</em> ([PROPN]() 9, [NOUN]() 2), <em>European</em> ([ADJ]() 40, [PROPN]() 8, [NOUN]() 2), <em>King</em> ([NOUN]() 12, [PROPN]() 8), <em>Marx</em> ([PROPN]() 8, [NOUN]() 3), <em>United</em> ([PROPN]() 7, [ADJ]() 1), <em>Derivative</em> ([PROPN]() 6, [ADJ]() 1), <em>Collective</em> ([PROPN]() 5, [NOUN]() 1, [ADJ]() 1), <em>French</em> ([ADJ]() 6, [PROPN]() 5)
 

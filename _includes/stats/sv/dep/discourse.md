@@ -197,10 +197,10 @@ The following 3 pairs of parts of speech are connected with `discourse`: [sv-pos
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 4 discourse	color:blue
-1	FINNAS*INTE	_	VERB	VB	_	0	root	_	_
-2	FINNAS*INTE	_	VERB	VB	_	1	conj	_	_
-3	GLOSA:(PD)@z	_	X	?	_	1	dep	_	_
-4	PU@g	_	INTJ	G	_	1	discourse	_	_
+1	TRÖTT	_	VERB	VBS	_	0	root	_	_
+2	glosa@&	_	X	?	_	3	reparandum	_	_
+3	MÖRK	_	VERB	VBS	_	1	conj	_	_
+4	LÅTA-VARA@z	_	X	G	_	1	discourse	_	_
 
 ~~~
 
@@ -211,10 +211,10 @@ The following 3 pairs of parts of speech are connected with `discourse`: [sv-pos
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 4 discourse	color:blue
-1	TRÖTT	_	VERB	VBS	_	0	root	_	_
-2	glosa@&	_	X	?	_	3	reparandum	_	_
-3	MÖRK	_	VERB	VBS	_	1	conj	_	_
-4	LÅTA-VARA@z	_	X	G	_	1	discourse	_	_
+1	FINNAS*INTE	_	VERB	VB	_	0	root	_	_
+2	FINNAS*INTE	_	VERB	VB	_	1	conj	_	_
+3	GLOSA:(PD)@z	_	X	?	_	1	dep	_	_
+4	PU@g	_	INTJ	G	_	1	discourse	_	_
 
 ~~~
 

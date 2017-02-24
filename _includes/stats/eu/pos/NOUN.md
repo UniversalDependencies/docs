@@ -13,7 +13,7 @@ The 10 most frequent `NOUN` types:  <em>behar, nahi, euskal, talde, urte, aukera
 
 The 10 most frequent ambiguous lemmas: <em>behar</em> ([NOUN]() 287, [ADJ]() 6), <em>herri</em> ([NOUN]() 164, [PROPN]() 2), <em>egun</em> ([NOUN]() 156, [ADV]() 57), <em>jokalari</em> ([NOUN]() 145, [ADJ]() 5), <em>aurre</em> ([NOUN]() 111, [ADP]() 70), <em>alde</em> ([NOUN]() 87, [ADP]() 58, [INTJ]() 4), <em>lagun</em> ([NOUN]() 85, [ADJ]() 3), <em>buru</em> ([NOUN]() 84, [ADP]() 4), <em>bide</em> ([NOUN]() 76, [ADP]() 25), <em>modu</em> ([NOUN]() 65, [ADP]() 2)
 
-The 10 most frequent ambiguous types:  <em>behar</em> ([NOUN]() 249, [ADJ]() 5), <em>nahi</em> ([NOUN]() 179, [ADV]() 1, [VERB]() 1), <em>jokalari</em> ([NOUN]() 61, [ADJ]() 1), <em>ezin</em> ([NOUN]() 57, [VERB]() 1), <em>egun</em> ([NOUN]() 39, [ADV]() 36), <em>lagun</em> ([NOUN]() 50, [ADJ]() 1), <em>ostean</em> ([NOUN]() 48, [ADP]() 12, [ADV]() 10), <em>aurretik</em> ([NOUN]() 39, [ADP]() 16), <em>San</em> ([NOUN]() 37, [PROPN]() 2, [ADJ]() 1), <em>aldiz</em> ([NOUN]() 34, [CCONJ]() 31)
+The 10 most frequent ambiguous types:  <em>behar</em> ([NOUN]() 249, [ADJ]() 5), <em>nahi</em> ([NOUN]() 179, [VERB]() 1, [ADV]() 1), <em>jokalari</em> ([NOUN]() 61, [ADJ]() 1), <em>ezin</em> ([NOUN]() 57, [VERB]() 1), <em>egun</em> ([NOUN]() 39, [ADV]() 36), <em>lagun</em> ([NOUN]() 50, [ADJ]() 1), <em>ostean</em> ([NOUN]() 48, [ADP]() 12, [ADV]() 10), <em>aurretik</em> ([NOUN]() 39, [ADP]() 16), <em>San</em> ([NOUN]() 37, [PROPN]() 2, [ADJ]() 1), <em>aldiz</em> ([NOUN]() 34, [CCONJ]() 31)
 
 
 * <em>behar</em>
@@ -21,8 +21,8 @@ The 10 most frequent ambiguous types:  <em>behar</em> ([NOUN]() 249, [ADJ]() 5),
   * [ADJ]() 5: <em>Eta gure amak esaten zuen errespetua irabazi egin <b>behar</b> dela .</em>
 * <em>nahi</em>
   * [NOUN]() 179: <em>" Egun horretan jokatu <b>nahi</b> genuen .</em>
-  * [ADV]() 1: <em>Sailkapen nagusian <b>nahi</b> bezain aurrean ez dira izaten inoiz , eta etapak irabaztea nekeza egiten zaie , arriskutsuak baitira eta motzean lotzen baitituzte .</em>
   * [VERB]() 1: <em>Baina saldotik irten eta zeure gisara ibili <b>nahi</b> baduzu , berehalaxe zigortuko zaitu saldoak .</em>
+  * [ADV]() 1: <em>Sailkapen nagusian <b>nahi</b> bezain aurrean ez dira izaten inoiz , eta etapak irabaztea nekeza egiten zaie , arriskutsuak baitira eta motzean lotzen baitituzte .</em>
 * <em>jokalari</em>
   * [NOUN]() 61: <em>Azkenik , bere <b>jokalari</b> ezaugarriak jakinarazi zizkigun :</em>
   * [ADJ]() 1: <em>ATHLETICEKO eta Alaveseko bi <b>jokalari</b> elkartu ditugu mahai baten inguruan , igandeko derbiaren atarian .</em>

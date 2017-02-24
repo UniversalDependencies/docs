@@ -11,7 +11,7 @@ The 10 most frequent `PUNCT` lemmas: ,、 .、 、、 (、 )、 」、 「、 �
 
 The 10 most frequent `PUNCT` types:  ,、 .、 、、 (、 )、 」、 「、 》、 《、 ·
 
-The 10 most frequent ambiguous lemmas: , ([PUNCT]() 6953, [X]() 4, [ADV]() 1, [NUM]() 1), 、 ([PUNCT]() 1154, [NUM]() 2), ( ([PUNCT]() 500, [X]() 3), ) ([PUNCT]() 500, [X]() 3)
+The 10 most frequent ambiguous lemmas: , ([PUNCT]() 6953, [X]() 4, [NUM]() 1, [ADV]() 1), 、 ([PUNCT]() 1154, [NUM]() 2), ( ([PUNCT]() 500, [X]() 3), ) ([PUNCT]() 500, [X]() 3)
 
 The 10 most frequent ambiguous types:  , ([PUNCT]() 6953, [X]() 4, [NUM]() 1, [ADV]() 1), 、 ([PUNCT]() 1154, [NUM]() 2), ( ([PUNCT]() 500, [X]() 3), ) ([PUNCT]() 500, [X]() 3)
 

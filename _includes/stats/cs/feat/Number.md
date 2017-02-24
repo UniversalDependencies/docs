@@ -149,7 +149,7 @@ The most frequent other feature values with which `PROPN` and `Number` co-occurr
 
 42651 [cs-pos/DET]() tokens (87% of all `DET` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="Person.html">Person</a>=EMPTY</tt> (38822; 91%), <tt><a href="Number[psor].html">Number[psor]</a>=EMPTY</tt> (38822; 91%), <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (37127; 87%), <tt><a href="Poss.html">Poss</a>=EMPTY</tt> (34491; 81%).
+The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="Number[psor].html">Number[psor]</a>=EMPTY</tt> (38822; 91%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (38822; 91%), <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (37127; 87%), <tt><a href="Poss.html">Poss</a>=EMPTY</tt> (34491; 81%).
 
 `DET` tokens may have the following values of `Number`:
 
@@ -296,7 +296,7 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
 
 10268 [cs-pos/NUM]() tokens (28% of all `NUM` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `NUM` and `Number` co-occurred: <tt><a href="NumType.html">NumType</a>=Card</tt> (9973; 97%), <tt><a href="NumForm.html">NumForm</a>=Word</tt> (9973; 97%), <tt><a href="NumValue.html">NumValue</a>=1,2,3</tt> (7079; 69%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (6091; 59%).
+The most frequent other feature values with which `NUM` and `Number` co-occurred: <tt><a href="NumForm.html">NumForm</a>=Word</tt> (9973; 97%), <tt><a href="NumType.html">NumType</a>=Card</tt> (9973; 97%), <tt><a href="NumValue.html">NumValue</a>=1,2,3</tt> (7079; 69%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (6091; 59%).
 
 `NUM` tokens may have the following values of `Number`:
 
@@ -611,7 +611,7 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
 
 2420 [cs-pos/NUM]() tokens (34% of all `NUM` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `NUM` and `Number` co-occurred: <tt><a href="NumForm.html">NumForm</a>=Word</tt> (2365; 98%), <tt><a href="NumType.html">NumType</a>=Card</tt> (2365; 98%), <tt><a href="NumValue.html">NumValue</a>=1,2,3</tt> (1930; 80%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (1247; 52%).
+The most frequent other feature values with which `NUM` and `Number` co-occurred: <tt><a href="NumType.html">NumType</a>=Card</tt> (2365; 98%), <tt><a href="NumForm.html">NumForm</a>=Word</tt> (2365; 98%), <tt><a href="NumValue.html">NumValue</a>=1,2,3</tt> (1930; 80%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (1247; 52%).
 
 `NUM` tokens may have the following values of `Number`:
 
@@ -710,7 +710,7 @@ The most frequent other feature values with which `ADJ` and `Number` co-occurred
 
 1224 [cs-pos/VERB]() tokens (86% of all `VERB` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="Polarity.html">Polarity</a>=Pos</tt> (1095; 89%), <tt><a href="Voice.html">Voice</a>=Act</tt> (1046; 85%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (966; 79%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (966; 79%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (966; 79%), <tt><a href="Person.html">Person</a>=3</tt> (966; 79%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (965; 79%).
+The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="Polarity.html">Polarity</a>=Pos</tt> (1095; 89%), <tt><a href="Voice.html">Voice</a>=Act</tt> (1046; 85%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (966; 79%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (966; 79%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (966; 79%), <tt><a href="Person.html">Person</a>=3</tt> (966; 79%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (965; 79%).
 
 `VERB` tokens may have the following values of `Number`:
 
@@ -793,7 +793,7 @@ The most frequent other feature values with which `AUX` and `Number` co-occurred
 
 283 [cs-pos/DET]() tokens (70% of all `DET` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="Person.html">Person</a>=EMPTY</tt> (261; 92%), <tt><a href="Number[psor].html">Number[psor]</a>=EMPTY</tt> (261; 92%), <tt><a href="Gender[psor].html">Gender[psor]</a>=EMPTY</tt> (261; 92%), <tt><a href="Poss.html">Poss</a>=EMPTY</tt> (243; 86%), <tt><a href="PronType.html">PronType</a>=Dem</tt> (233; 82%).
+The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="Person.html">Person</a>=EMPTY</tt> (261; 92%), <tt><a href="Gender[psor].html">Gender[psor]</a>=EMPTY</tt> (261; 92%), <tt><a href="Number[psor].html">Number[psor]</a>=EMPTY</tt> (261; 92%), <tt><a href="Poss.html">Poss</a>=EMPTY</tt> (243; 86%), <tt><a href="PronType.html">PronType</a>=Dem</tt> (233; 82%).
 
 `DET` tokens may have the following values of `Number`:
 
@@ -826,7 +826,7 @@ The most frequent other feature values with which `DET` and `Number` co-occurred
 
 46 [cs-pos/NUM]() tokens (15% of all `NUM` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `NUM` and `Number` co-occurred: <tt><a href="NumForm.html">NumForm</a>=Word</tt> (46; 100%), <tt><a href="NumType.html">NumType</a>=Card</tt> (46; 100%), <tt><a href="NumValue.html">NumValue</a>=1,2,3</tt> (38; 83%).
+The most frequent other feature values with which `NUM` and `Number` co-occurred: <tt><a href="NumType.html">NumType</a>=Card</tt> (46; 100%), <tt><a href="NumForm.html">NumForm</a>=Word</tt> (46; 100%), <tt><a href="NumValue.html">NumValue</a>=1,2,3</tt> (38; 83%).
 
 `NUM` tokens may have the following values of `Number`:
 

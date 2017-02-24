@@ -39,7 +39,7 @@ The most frequent other feature values with which `NOUN` and `Animacy` co-occurr
 
 3131 [pl-pos/ADJ]() tokens (45% of all `ADJ` tokens) have a non-empty value of `Animacy`.
 
-The most frequent other feature values with which `ADJ` and `Animacy` co-occurred: <tt><a href="Gender.html">Gender</a>=Masc</tt> (3131; 100%), <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (2608; 83%), <tt><a href="Polarity.html">Polarity</a>=EMPTY</tt> (2608; 83%), <tt><a href="VerbForm.html">VerbForm</a>=EMPTY</tt> (2608; 83%), <tt><a href="Aspect.html">Aspect</a>=EMPTY</tt> (2587; 83%), <tt><a href="Degree.html">Degree</a>=Pos</tt> (2473; 79%), <tt><a href="Number.html">Number</a>=Sing</tt> (2118; 68%).
+The most frequent other feature values with which `ADJ` and `Animacy` co-occurred: <tt><a href="Gender.html">Gender</a>=Masc</tt> (3131; 100%), <tt><a href="Polarity.html">Polarity</a>=EMPTY</tt> (2608; 83%), <tt><a href="VerbForm.html">VerbForm</a>=EMPTY</tt> (2608; 83%), <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (2608; 83%), <tt><a href="Aspect.html">Aspect</a>=EMPTY</tt> (2587; 83%), <tt><a href="Degree.html">Degree</a>=Pos</tt> (2473; 79%), <tt><a href="Number.html">Number</a>=Sing</tt> (2118; 68%).
 
 `ADJ` tokens may have the following values of `Animacy`:
 
@@ -69,7 +69,7 @@ The most frequent other feature values with which `ADJ` and `Animacy` co-occurre
 
 2802 [pl-pos/VERB]() tokens (29% of all `VERB` tokens) have a non-empty value of `Animacy`.
 
-The most frequent other feature values with which `VERB` and `Animacy` co-occurred: <tt><a href="Voice.html">Voice</a>=Act</tt> (2802; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (2802; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (2802; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (2802; 100%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (2802; 100%), <tt><a href="Tense.html">Tense</a>=Past</tt> (2802; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (2033; 73%), <tt><a href="Aspect.html">Aspect</a>=Perf</tt> (1777; 63%).
+The most frequent other feature values with which `VERB` and `Animacy` co-occurred: <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (2802; 100%), <tt><a href="Voice.html">Voice</a>=Act</tt> (2802; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (2802; 100%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (2802; 100%), <tt><a href="Tense.html">Tense</a>=Past</tt> (2802; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (2802; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (2033; 73%), <tt><a href="Aspect.html">Aspect</a>=Perf</tt> (1777; 63%).
 
 `VERB` tokens may have the following values of `Animacy`:
 
@@ -110,7 +110,7 @@ The most frequent other feature values with which `PROPN` and `Animacy` co-occur
 
 1117 [pl-pos/PRON]() tokens (29% of all `PRON` tokens) have a non-empty value of `Animacy`.
 
-The most frequent other feature values with which `PRON` and `Animacy` co-occurred: <tt><a href="Reflex.html">Reflex</a>=EMPTY</tt> (1117; 100%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (1117; 100%), <tt><a href="PronType.html">PronType</a>=Prs</tt> (975; 87%), <tt><a href="Number.html">Number</a>=Sing</tt> (798; 71%), <tt><a href="Person.html">Person</a>=3</tt> (659; 59%).
+The most frequent other feature values with which `PRON` and `Animacy` co-occurred: <tt><a href="Gender.html">Gender</a>=Masc</tt> (1117; 100%), <tt><a href="Reflex.html">Reflex</a>=EMPTY</tt> (1117; 100%), <tt><a href="PronType.html">PronType</a>=Prs</tt> (975; 87%), <tt><a href="Number.html">Number</a>=Sing</tt> (798; 71%), <tt><a href="Person.html">Person</a>=3</tt> (659; 59%).
 
 `PRON` tokens may have the following values of `Animacy`:
 
@@ -200,7 +200,7 @@ The most frequent other feature values with which `NUM` and `Animacy` co-occurre
 
 203 [pl-pos/AUX]() tokens (10% of all `AUX` tokens) have a non-empty value of `Animacy`.
 
-The most frequent other feature values with which `AUX` and `Animacy` co-occurred: <tt><a href="Variant.html">Variant</a>=EMPTY</tt> (203; 100%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (203; 100%), <tt><a href="Tense.html">Tense</a>=Past</tt> (203; 100%), <tt><a href="Voice.html">Voice</a>=Act</tt> (203; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (203; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (203; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (203; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (158; 78%), <tt><a href="Aspect.html">Aspect</a>=Imp</tt> (144; 71%).
+The most frequent other feature values with which `AUX` and `Animacy` co-occurred: <tt><a href="Tense.html">Tense</a>=Past</tt> (203; 100%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (203; 100%), <tt><a href="Variant.html">Variant</a>=EMPTY</tt> (203; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (203; 100%), <tt><a href="Voice.html">Voice</a>=Act</tt> (203; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (203; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (203; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (158; 78%), <tt><a href="Aspect.html">Aspect</a>=Imp</tt> (144; 71%).
 
 `AUX` tokens may have the following values of `Animacy`:
 

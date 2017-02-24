@@ -36,6 +36,32 @@ The following 4 pairs of parts of speech are connected with `nsubj:pass`: [uk-po
 
 
 ~~~ conllu
+# visual-style 12	bgColor:blue
+# visual-style 12	fgColor:white
+# visual-style 13	bgColor:blue
+# visual-style 13	fgColor:white
+# visual-style 13 12 nsubj:pass	color:blue
+1	Дівчата	дівча	NOUN	Ncnpny	Animacy=Anim|Case=Nom|Gender=Neut|Number=Plur	2	nsubj	_	_
+2	бігають	бігати	VERB	Vmpip3p	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	повільніше	повільніше	ADV	Rc	Degree=Cmp	2	advmod	_	_
+4	ніж	ніж	SCONJ	Css	_	5	mark	_	_
+5	хлопці	хлопець	NOUN	Ncmpny	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	2	advcl	_	_
+6	через	через	ADP	Spsa	Case=Acc	7	case	_	_
+7	особливості	особливість	NOUN	Ncfpan	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	2	obl	_	_
+8	будови	будова	NOUN	Ncfsgn	Animacy=Inan|Case=Gen|Gender=Fem	7	nmod	_	_
+9	тазу	таз	NOUN	Ncmsgn	Animacy=Inan|Case=Gen|Gender=Masc|Style=Odd	8	nmod	_	SpaceAfter=No
+10	,	,	PUNCT	U	_	13	punct	_	_
+11	чи	чи	CCONJ	Ccs	_	13	cc	_	_
+12	це	це	PRON	Pd--nnsnn	Animacy=Inan|Case=Nom|Gender=Neut|PronType=Dem	13	nsubj:pass	_	_
+13	зумовлено	зумовити	VERB	Vmeo	Aspect=Perf|Mood=Ind|Person=0|VerbForm=Fin	2	conj	_	_
+14	гормональними	гормональний	ADJ	Ao--pif	Case=Ins|Number=Plur	15	amod	_	_
+15	причинами	причина	NOUN	Ncfpin	Animacy=Inan|Case=Ins|Gender=Fem|Number=Plur	13	obl	_	SpaceAfter=No
+16	?	?	PUNCT	U	_	2	punct	_	_
+
+~~~
+
+
+~~~ conllu
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 2	bgColor:blue
@@ -47,32 +73,6 @@ The following 4 pairs of parts of speech are connected with `nsubj:pass`: [uk-po
 4	уявою	уява	NOUN	Ncfsin	Animacy=Inan|Case=Ins|Gender=Fem	2	obl	_	_
 5	автора	автор	NOUN	Ncmsgy	Animacy=Anim|Case=Gen|Gender=Masc	4	nmod	_	SpaceAfter=No
 6	.	.	PUNCT	U	_	2	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 11	bgColor:blue
-# visual-style 11	fgColor:white
-# visual-style 12	bgColor:blue
-# visual-style 12	fgColor:white
-# visual-style 12 11 nsubj:pass	color:blue
-1	Йшлося	йтися	VERB	Vmpis-sn	Aspect=Imp|Gender=Neut|Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
-2	ще	ще	PART	Q	_	6	discourse	_	_
-3	й	й	PART	Q	_	6	discourse	_	_
-4	через	через	ADP	Spsa	Case=Acc	6	case	_	_
-5	горіхові	горіховий	ADJ	Ao--pasn	Animacy=Inan|Case=Acc|Number=Plur	6	amod	_	_
-6	ліси	ліс	NOUN	Ncmpan	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	1	obl	_	SpaceAfter=No
-7	,	,	PUNCT	U	_	12	punct	_	_
-8	де	де	ADV	Pr------r	PronType=Rel	12	advmod	_	_
-9	під	під	ADP	Spsi	Case=Ins	10	case	_	_
-10	ногами	нога	NOUN	Ncfpin	Animacy=Inan|Case=Ins|Gender=Fem|Number=Plur	12	obl	_	_
-11	горіхи	горіх	NOUN	Ncmpnn	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	12	nsubj:pass	_	_
-12	укладалися	укладатися	VERB	Vmpis-p	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin	6	acl	_	_
-13	у	у	ADP	Spsa	Case=Acc	15	case	_	_
-14	багаторічні	багаторічний	ADJ	Ao--pasn	Animacy=Inan|Case=Acc|Number=Plur	15	amod	_	_
-15	шари	шар	NOUN	Ncmpan	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	12	obl	_	SpaceAfter=No
-16	.	.	PUNCT	U	_	1	punct	_	_
 
 ~~~
 

@@ -38,31 +38,6 @@ The following 5 pairs of parts of speech are connected with `cop`: [cop-pos/DET]
 
 
 ~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 7 cop	color:blue
-1	ⲏ	ⲏ	CCONJ	CONJ	_	3	cc	_	_
-2	ⲕⲉ	ⲕⲉ	DET	ART	_	3	det	_	_
-3	ⲙⲓⲛⲉ	ⲙⲓⲛⲉ	NOUN	N	_	0	root	_	_
-4	ⲛ	ⲛ	ADP	PREP	_	5	case	_	_
-5	ⲇⲓⲱⲅⲙⲟⲥ	ⲇⲓⲱⲅⲙⲟⲥ	NOUN	N	_	3	nmod	_	_
-6	ⲁⲛ	ⲁⲛ	ADV	NEG	Polarity=Neg	3	advmod	_	_
-7	ⲧⲉ	ⲡⲉ	PRON	COP	_	3	cop	_	_
-8	ⲧⲁⲓ	ⲡⲁⲓ	DET	PDEM	_	3	nsubj	_	_
-9	ⲉ	ⲉⲣⲉ	SCONJ	CCIRC	_	11	mark	_	_
-10	ⲧⲉⲧⲛ	ⲛⲧⲱⲧⲛ	PRON	PPERS	_	11	nsubj	_	_
-11	ⲡⲏⲧ	ⲡⲱⲧ	VERB	VSTAT	_	8	advcl	_	_
-12	ⲛⲥⲁ	ⲛⲥⲁ	ADP	PREP	_	14	case	_	_
-13	ⲛ	ⲡ	DET	ART	_	14	det	_	_
-14	ⲣⲱⲙⲉ	ⲣⲱⲙⲉ	NOUN	N	_	11	obl	_	_
-15	,	,	PUNCT	PUNCT	_	3	punct	_	_
-
-~~~
-
-
-~~~ conllu
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 1	bgColor:blue
@@ -87,6 +62,31 @@ The following 5 pairs of parts of speech are connected with `cop`: [cop-pos/DET]
 17	ⲁⲁ	ⲉⲓⲣⲉ	VERB	V	_	15	xcomp	_	_
 18	ϥ	ⲛⲧⲟϥ	PRON	PPERO	_	17	obj	_	_
 19	·	·	PUNCT	PUNCT	_	1	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 7 cop	color:blue
+1	ⲏ	ⲏ	CCONJ	CONJ	_	3	cc	_	_
+2	ⲕⲉ	ⲕⲉ	DET	ART	_	3	det	_	_
+3	ⲙⲓⲛⲉ	ⲙⲓⲛⲉ	NOUN	N	_	0	root	_	_
+4	ⲛ	ⲛ	ADP	PREP	_	5	case	_	_
+5	ⲇⲓⲱⲅⲙⲟⲥ	ⲇⲓⲱⲅⲙⲟⲥ	NOUN	N	_	3	nmod	_	_
+6	ⲁⲛ	ⲁⲛ	ADV	NEG	Polarity=Neg	3	advmod	_	_
+7	ⲧⲉ	ⲡⲉ	PRON	COP	_	3	cop	_	_
+8	ⲧⲁⲓ	ⲡⲁⲓ	DET	PDEM	_	3	nsubj	_	_
+9	ⲉ	ⲉⲣⲉ	SCONJ	CCIRC	_	11	mark	_	_
+10	ⲧⲉⲧⲛ	ⲛⲧⲱⲧⲛ	PRON	PPERS	_	11	nsubj	_	_
+11	ⲡⲏⲧ	ⲡⲱⲧ	VERB	VSTAT	_	8	advcl	_	_
+12	ⲛⲥⲁ	ⲛⲥⲁ	ADP	PREP	_	14	case	_	_
+13	ⲛ	ⲡ	DET	ART	_	14	det	_	_
+14	ⲣⲱⲙⲉ	ⲣⲱⲙⲉ	NOUN	N	_	11	obl	_	_
+15	,	,	PUNCT	PUNCT	_	3	punct	_	_
 
 ~~~
 

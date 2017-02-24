@@ -16,7 +16,7 @@ The feature is used with 1 part-of-speech tags: [ar-pos/NUM]() (492; 0% instance
 
 492 [ar-pos/NUM]() tokens (7% of all `NUM` tokens) have a non-empty value of `NumValue`.
 
-The most frequent other feature values with which `NUM` and `NumValue` co-occurred: <tt><a href="NumForm.html">NumForm</a>=Word</tt> (492; 100%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (492; 100%), <tt><a href="Case.html">Case</a>=Gen</tt> (290; 59%), <tt><a href="Definite.html">Definite</a>=Cons</tt> (290; 59%).
+The most frequent other feature values with which `NUM` and `NumValue` co-occurred: <tt><a href="Number.html">Number</a>=EMPTY</tt> (492; 100%), <tt><a href="NumForm.html">NumForm</a>=Word</tt> (492; 100%), <tt><a href="Case.html">Case</a>=Gen</tt> (290; 59%), <tt><a href="Definite.html">Definite</a>=Cons</tt> (290; 59%).
 
 `NUM` tokens may have the following values of `NumValue`:
 

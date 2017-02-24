@@ -60,21 +60,30 @@ The following 7 pairs of parts of speech are connected with `compound`: [ru-pos/
 
 
 ~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 8 5 compound	color:blue
-1	Население	НАСЕЛЕНИЕ	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	3	nsubj	_	_
-2	Новогригоровки	НОВОГРИГОРОВКА	PROPN	NNP	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	1	nmod	_	_
-3	составляет	СОСТАВЛЯТЬ	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-4	более	БОЛЕЕ	ADV	RBR	Degree=Cmp	8	advmod	_	_
-5	2	2	ADV	AFX	_	8	compound	_	_
-6	-	-	PUNCT	-	_	5	goeswith	_	_
-7	х	А	NUM	CD	Animacy=Anim|Case=Gen|Gender=Fem|NumType=Card	5	goeswith	_	_
-8	тысяч	ТЫСЯЧА	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	9	nummod:gov	_	_
-9	человек	ЧЕЛОВЕК	NOUN	NN	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	3	obj	_	SpaceAfter=No
-10	.	.	PUNCT	.	_	3	punct	_	_
+# visual-style 15	bgColor:blue
+# visual-style 15	fgColor:white
+# visual-style 17	bgColor:blue
+# visual-style 17	fgColor:white
+# visual-style 17 15 compound	color:blue
+1	Фотоаппаратов	ФОТОАППАРАТ	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	14	obl	_	_
+2	``	``	PUNCT	``	_	3	punct	_	SpaceAfter=No
+3	Смена	СМЕНА	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	1	appos	_	_
+4	-	-	PUNCT	-	_	3	goeswith	_	_
+5	Рапид	РАПИД	ADV	AFX	_	3	goeswith	_	_
+6	&#39;&#39;	&#39;&#39;	PUNCT	&#39;&#39;	_	9	punct	_	_
+7	и	И	CCONJ	CC	_	9	cc	_	_
+8	``	``	PUNCT	``	_	9	punct	_	SpaceAfter=No
+9	Смена	СМЕНА	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	3	conj	_	_
+10	-	-	PUNCT	-	_	9	goeswith	_	_
+11	SL	SL	ADV	AFX	_	9	goeswith	_	_
+12	&#39;&#39;	&#39;&#39;	PUNCT	&#39;&#39;	_	9	punct	_	_
+13	было	БЫТЬ	AUX	VBC	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	14	aux:pass	_	_
+14	выпущено	ВЫПУСТИТЬ	VERB	VBNH	Animacy=Inan|Aspect=Perf|Case=Nom|Gender=Neut|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	_
+15	597	597	NUM	CD	Case=Nom|NumType=Card	17	compound	_	_
+16	тыс.	ТЫС.	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	17	compound	_	_
+17	935	935	NUM	CD	Case=Nom|NumType=Card	18	nummod:gov	_	_
+18	шт	ШТ	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	14	nsubj:pass	_	SpaceAfter=No
+19	.	.	PUNCT	.	_	14	punct	_	_
 
 ~~~
 

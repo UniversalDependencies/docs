@@ -61,7 +61,7 @@ The most frequent other feature values with which `ADJ` and `Case` co-occurred: 
   <tr><td><tt><a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Plur</tt></td><td></td><td><em>magnos</em></td><td></td><td><em>magnorum</em></td><td></td><td><em>maxumis</em></td></tr>
   <tr><td><tt><a href="Gender.html">Gender</a>=Fem|<a href="Number.html">Number</a>=Sing</tt></td><td><em>magna, maxuma</em></td><td><em>magnam, maxumam</em></td><td></td><td><em>magnae</em></td><td></td><td><em>magna, maxuma</em></td></tr>
   <tr><td><tt><a href="Gender.html">Gender</a>=Fem|<a href="Number.html">Number</a>=Plur</tt></td><td><em>magnae</em></td><td><em>magnas, maxumas</em></td><td><em>magnis</em></td><td></td><td></td><td><em>magnis</em></td></tr>
-  <tr><td><tt><a href="Gender.html">Gender</a>=Neut|<a href="Number.html">Number</a>=Sing</tt></td><td><em>maxumum, magnum</em></td><td><em>magnum</em></td><td></td><td><em>magni</em></td><td></td><td><em>magno, maxumo</em></td></tr>
+  <tr><td><tt><a href="Gender.html">Gender</a>=Neut|<a href="Number.html">Number</a>=Sing</tt></td><td><em>magnum, maxumum</em></td><td><em>magnum</em></td><td></td><td><em>magni</em></td><td></td><td><em>magno, maxumo</em></td></tr>
   <tr><td><tt><a href="Gender.html">Gender</a>=Neut|<a href="Number.html">Number</a>=Plur</tt></td><td><em>magna</em></td><td><em>magna</em></td><td></td><td></td><td></td><td><em>magnis, maxumis</em></td></tr>
 </table>
 
@@ -267,7 +267,7 @@ The most frequent other feature values with which `ADJ` and `Case` co-occurred: 
 
 10451 [la-pos/VERB]() tokens (26% of all `VERB` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `VERB` and `Case` co-occurred: <tt><a href="Person.html">Person</a>=EMPTY</tt> (10451; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (10451; 100%), <tt><a href="Degree.html">Degree</a>=Pos</tt> (10394; 99%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (8678; 83%), <tt><a href="Number.html">Number</a>=Sing</tt> (7926; 76%), <tt><a href="Voice.html">Voice</a>=Pass</tt> (6561; 63%), <tt><a href="Aspect.html">Aspect</a>=Perf</tt> (5500; 53%), <tt><a href="Tense.html">Tense</a>=Past</tt> (5500; 53%).
+The most frequent other feature values with which `VERB` and `Case` co-occurred: <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (10451; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (10451; 100%), <tt><a href="Degree.html">Degree</a>=Pos</tt> (10394; 99%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (8678; 83%), <tt><a href="Number.html">Number</a>=Sing</tt> (7926; 76%), <tt><a href="Voice.html">Voice</a>=Pass</tt> (6561; 63%), <tt><a href="Aspect.html">Aspect</a>=Perf</tt> (5500; 53%), <tt><a href="Tense.html">Tense</a>=Past</tt> (5500; 53%).
 
 `VERB` tokens may have the following values of `Case`:
 
@@ -296,7 +296,7 @@ The most frequent other feature values with which `VERB` and `Case` co-occurred:
 
 3791 [la-pos/DET]() tokens (100% of all `DET` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `DET` and `Case` co-occurred: <tt><a href="Degree.html">Degree</a>=Pos</tt> (3790; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (2378; 63%), <tt><a href="PronType.html">PronType</a>=Ind</tt> (1951; 51%), <tt><a href="Poss.html">Poss</a>=EMPTY</tt> (1951; 51%).
+The most frequent other feature values with which `DET` and `Case` co-occurred: <tt><a href="Degree.html">Degree</a>=Pos</tt> (3790; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (2378; 63%), <tt><a href="Poss.html">Poss</a>=EMPTY</tt> (1951; 51%), <tt><a href="PronType.html">PronType</a>=Ind</tt> (1951; 51%).
 
 `DET` tokens may have the following values of `Case`:
 
@@ -367,7 +367,7 @@ The most frequent other feature values with which `NUM` and `Case` co-occurred: 
 
 55 [la-pos/AUX]() tokens (0% of all `AUX` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `AUX` and `Case` co-occurred: <tt><a href="Person.html">Person</a>=EMPTY</tt> (55; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (55; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (51; 93%), <tt><a href="Voice.html">Voice</a>=Pass</tt> (37; 67%), <tt><a href="Tense.html">Tense</a>=Past</tt> (34; 62%), <tt><a href="Number.html">Number</a>=Sing</tt> (30; 55%).
+The most frequent other feature values with which `AUX` and `Case` co-occurred: <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (55; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (55; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (51; 93%), <tt><a href="Voice.html">Voice</a>=Pass</tt> (37; 67%), <tt><a href="Tense.html">Tense</a>=Past</tt> (34; 62%), <tt><a href="Number.html">Number</a>=Sing</tt> (30; 55%).
 
 `AUX` tokens may have the following values of `Case`:
 
@@ -452,7 +452,7 @@ The most frequent other feature values with which `NOUN` and `Case` co-occurred:
 
 15547 [la-pos/ADJ]() tokens (100% of all `ADJ` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `ADJ` and `Case` co-occurred: <tt><a href="Poss.html">Poss</a>=EMPTY</tt> (12534; 81%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (12534; 81%), <tt><a href="Number.html">Number</a>=Sing</tt> (9578; 62%), <tt><a href="Degree.html">Degree</a>=EMPTY</tt> (8173; 53%).
+The most frequent other feature values with which `ADJ` and `Case` co-occurred: <tt><a href="Person.html">Person</a>=EMPTY</tt> (12534; 81%), <tt><a href="Poss.html">Poss</a>=EMPTY</tt> (12534; 81%), <tt><a href="Number.html">Number</a>=Sing</tt> (9578; 62%), <tt><a href="Degree.html">Degree</a>=EMPTY</tt> (8173; 53%).
 
 `ADJ` tokens may have the following values of `Case`:
 
@@ -620,7 +620,7 @@ The most frequent other feature values with which `NUM` and `Case` co-occurred: 
 
 41 [la-pos/AUX]() tokens (1% of all `AUX` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `AUX` and `Case` co-occurred: <tt><a href="Person.html">Person</a>=EMPTY</tt> (41; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (41; 100%), <tt><a href="Aspect.html">Aspect</a>=EMPTY</tt> (41; 100%), <tt><a href="Tense.html">Tense</a>=Fut</tt> (41; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (41; 100%), <tt><a href="Voice.html">Voice</a>=Act</tt> (41; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (30; 73%).
+The most frequent other feature values with which `AUX` and `Case` co-occurred: <tt><a href="Tense.html">Tense</a>=Fut</tt> (41; 100%), <tt><a href="Aspect.html">Aspect</a>=EMPTY</tt> (41; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (41; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (41; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (41; 100%), <tt><a href="Voice.html">Voice</a>=Act</tt> (41; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (30; 73%).
 
 `AUX` tokens may have the following values of `Case`:
 

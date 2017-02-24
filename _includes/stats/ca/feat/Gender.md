@@ -89,7 +89,7 @@ The most frequent other feature values with which `ADP` and `Gender` co-occurred
 
 6000 [ca-pos/VERB]() tokens (17% of all `VERB` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `VERB` and `Gender` co-occurred: <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (6000; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (6000; 100%), <tt><a href="Tense.html">Tense</a>=Past</tt> (6000; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (6000; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (5783; 96%).
+The most frequent other feature values with which `VERB` and `Gender` co-occurred: <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (6000; 100%), <tt><a href="Tense.html">Tense</a>=Past</tt> (6000; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (6000; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (6000; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (5783; 96%).
 
 `VERB` tokens may have the following values of `Gender`:
 
@@ -146,7 +146,7 @@ The most frequent other feature values with which `NUM` and `Gender` co-occurred
 
 707 [ca-pos/AUX]() tokens (3% of all `AUX` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `AUX` and `Gender` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (707; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (707; 100%), <tt><a href="Tense.html">Tense</a>=Past</tt> (707; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (707; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (694; 98%).
+The most frequent other feature values with which `AUX` and `Gender` co-occurred: <tt><a href="Tense.html">Tense</a>=Past</tt> (707; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (707; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (707; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (707; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (694; 98%).
 
 `AUX` tokens may have the following values of `Gender`:
 
@@ -167,15 +167,6 @@ The most frequent other feature values with which `ADV` and `Gender` co-occurred
 * `Masc` (56; 100% of non-empty `Gender`): <em>més, fins, enfront, entorn, enllà, quant, prop, enmig</em>
 * `EMPTY` (13805): <em>no, més, també, ja, després, ahir, avui, molt, només, ara</em>
 
-### `PROPN`
-
-1 [ca-pos/PROPN]() tokens (0% of all `PROPN` tokens) have a non-empty value of `Gender`.
-
-`PROPN` tokens may have the following values of `Gender`:
-
-* `Masc` (1; 100% of non-empty `Gender`): <em>Justícia</em>
-* `EMPTY` (41152): <em>Catalunya, Barcelona, Generalitat, Govern, sant, Ajuntament, Girona, CiU, PP, Josep</em>
-
 ### `SYM`
 
 1 [ca-pos/SYM]() tokens (0% of all `SYM` tokens) have a non-empty value of `Gender`.
@@ -186,6 +177,15 @@ The most frequent other feature values with which `SYM` and `Gender` co-occurred
 
 * `Masc` (1; 100% of non-empty `Gender`): <em>1%</em>
 * `EMPTY` (4044): <em>', %, 50%, 10%, 30%, 40%, 1%, 2%, 20%, 25%</em>
+
+### `PROPN`
+
+1 [ca-pos/PROPN]() tokens (0% of all `PROPN` tokens) have a non-empty value of `Gender`.
+
+`PROPN` tokens may have the following values of `Gender`:
+
+* `Masc` (1; 100% of non-empty `Gender`): <em>Justícia</em>
+* `EMPTY` (41152): <em>Catalunya, Barcelona, Generalitat, Govern, sant, Ajuntament, Girona, CiU, PP, Josep</em>
 
 ## Relations with Agreement in `Gender`
 

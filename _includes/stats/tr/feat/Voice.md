@@ -16,7 +16,7 @@ The feature is used with 1 part-of-speech tags: [tr-pos/VERB]() (1438; 3% instan
 
 1438 [tr-pos/VERB]() tokens (16% of all `VERB` tokens) have a non-empty value of `Voice`.
 
-The most frequent other feature values with which `VERB` and `Voice` co-occurred: <tt><a href="Polarity.html">Polarity</a>=Pos</tt> (1322; 92%), <tt><a href="Polite.html">Polite</a>=EMPTY</tt> (1290; 90%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (1282; 89%), <tt><a href="Person[psor].html">Person[psor]</a>=EMPTY</tt> (1183; 82%), <tt><a href="Number[psor].html">Number[psor]</a>=EMPTY</tt> (1183; 82%), <tt><a href="Aspect.html">Aspect</a>=Perf</tt> (1162; 81%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (1116; 78%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (787; 55%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (787; 55%).
+The most frequent other feature values with which `VERB` and `Voice` co-occurred: <tt><a href="Polarity.html">Polarity</a>=Pos</tt> (1322; 92%), <tt><a href="Polite.html">Polite</a>=EMPTY</tt> (1290; 90%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (1282; 89%), <tt><a href="Number[psor].html">Number[psor]</a>=EMPTY</tt> (1183; 82%), <tt><a href="Person[psor].html">Person[psor]</a>=EMPTY</tt> (1183; 82%), <tt><a href="Aspect.html">Aspect</a>=Perf</tt> (1162; 81%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (1116; 78%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (787; 55%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (787; 55%).
 
 `VERB` tokens may have the following values of `Voice`:
 

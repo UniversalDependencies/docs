@@ -50,19 +50,20 @@ The following 5 pairs of parts of speech are connected with `obl:agent`: [got-po
 
 
 ~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 6 obl:agent	color:blue
-1	þanuh	þanuh	ADV	Df	_	2	advmod	_	ref=MATT_27.9
-2	usfullnoda	us-fullnan	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=MATT_27.9
-3	þata	sa	DET	Pd	Case=Nom|Gender=Neut|Number=Sing	4	det	_	ref=MATT_27.9
-4	qiþano	qiþan	VERB	V-	Aspect=Perf|Case=Nom|Gender=Neut|Number=Sing|Strength=Weak|Tense=Past|VerbForm=Part|Voice=Pass	2	nsubj	_	ref=MATT_27.9
-5	þairh	þairh	ADP	R-	_	6	case	_	ref=MATT_27.9
-6	Iairaimian	Iairaimias*	PROPN	Ne	Case=Acc|Gender=Masc|Number=Sing	4	obl:agent	_	ref=MATT_27.9
-7	praufetu	praufetes	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	6	appos	_	ref=MATT_27.9
-8	qiþandan	qiþan	VERB	V-	Case=Acc|Gender=Masc|Number=Sing|Strength=Weak|Tense=Pres|VerbForm=Part|Voice=Act	4	advcl	_	ref=MATT_27.9
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 9 obl:agent	color:blue
+1	jah	jah	CCONJ	C-	_	3	cc	_	ref=LUKE_4.15
+2	is	is	PRON	Pp	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	ref=LUKE_4.15
+3	laisida	laisjan	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=LUKE_4.15
+4	in	in	ADP	R-	_	5	case	_	ref=LUKE_4.15
+5	gaqumþim	gaqumþs	NOUN	Nb	Case=Dat|Gender=Fem|Number=Plur	3	obl	_	ref=LUKE_4.15
+6	ize	is	PRON	Pp	Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs	5	det	_	ref=LUKE_4.15
+7	mikilids	mikiljan	VERB	V-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Pass	3	advcl	_	ref=LUKE_4.15
+8	fram	fram	ADP	R-	_	9	case	_	ref=LUKE_4.15
+9	allaim	alls	ADJ	Px	Case=Dat|Gender=Masc|Number=Plur	7	obl:agent	_	ref=LUKE_4.15
 
 ~~~
 

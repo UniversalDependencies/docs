@@ -13,7 +13,7 @@ The 10 most frequent `SCONJ` types:  <em>karena, bahwa, namun, ketika, sehingga,
 
 The 10 most frequent ambiguous lemmas: <em>_</em> ([NOUN]() 24724, [PROPN]() 20630, [PUNCT]() 16504, [VERB]() 10952, [ADP]() 10866, [ADV]() 4270, [ADJ]() 4144, [NUM]() 3979, [PRON]() 3936, [DET]() 3594, [CCONJ]() 3284, [SCONJ]() 1333, [AUX]() 960, [PART]() 541, [SYM]() 388, [X]() 38)
 
-The 10 most frequent ambiguous types:  <em>karena</em> ([SCONJ]() 135, [CCONJ]() 41, [ADP]() 15), <em>bahwa</em> ([SCONJ]() 153, [ADP]() 20, [PRON]() 7, [CCONJ]() 2, [ADV]() 1), <em>namun</em> ([SCONJ]() 69, [CCONJ]() 11, [ADP]() 1), <em>ketika</em> ([SCONJ]() 53, [ADV]() 5, [ADP]() 4, [NOUN]() 3, [CCONJ]() 2), <em>sehingga</em> ([SCONJ]() 79, [ADP]() 4), <em>maka</em> ([SCONJ]() 43, [CCONJ]() 5, [DET]() 1), <em>jika</em> ([SCONJ]() 32, [ADP]() 1, [CCONJ]() 1), <em>setelah</em> ([ADP]() 65, [SCONJ]() 31, [ADV]() 10, [CCONJ]() 3), <em>sementara</em> ([SCONJ]() 22, [ADJ]() 12, [ADV]() 3, [CCONJ]() 1), <em>yaitu</em> ([ADV]() 71, [SCONJ]() 40, [ADP]() 9, [CCONJ]() 6, [DET]() 1)
+The 10 most frequent ambiguous types:  <em>karena</em> ([SCONJ]() 135, [CCONJ]() 41, [ADP]() 15), <em>bahwa</em> ([SCONJ]() 153, [ADP]() 20, [PRON]() 7, [CCONJ]() 2, [ADV]() 1), <em>namun</em> ([SCONJ]() 69, [CCONJ]() 11, [ADP]() 1), <em>ketika</em> ([SCONJ]() 53, [ADV]() 5, [ADP]() 4, [NOUN]() 3, [CCONJ]() 2), <em>sehingga</em> ([SCONJ]() 79, [ADP]() 4), <em>maka</em> ([SCONJ]() 43, [CCONJ]() 5, [DET]() 1), <em>jika</em> ([SCONJ]() 32, [CCONJ]() 1, [ADP]() 1), <em>setelah</em> ([ADP]() 65, [SCONJ]() 31, [ADV]() 10, [CCONJ]() 3), <em>sementara</em> ([SCONJ]() 22, [ADJ]() 12, [ADV]() 3, [CCONJ]() 1), <em>yaitu</em> ([ADV]() 71, [SCONJ]() 40, [ADP]() 9, [CCONJ]() 6, [DET]() 1)
 
 
 * <em>karena</em>
@@ -45,8 +45,8 @@ The 10 most frequent ambiguous types:  <em>karena</em> ([SCONJ]() 135, [CCONJ]()
   * [DET]() 1: <em>Semakin jauh , <b>maka</b> warnanya berubah dari jingga menjadi biru .</em>
 * <em>jika</em>
   * [SCONJ]() 32: <em>Bagaimana jugakah reaksi Rendra <b>jika</b> mengetahui hal tersebut ?</em>
-  * [ADP]() 1: <em>Studi organisme yang beragam ini mengandung arti bahwa bidang ini sering dipecah ke dalam satuan - satuan yang lebih sederhana dan terfokus , yang menggunakan teknik umum , malahan <b>jika</b> bidang ini tak mempelajari organisme atau penyakit yang sama .</em>
   * [CCONJ]() 1: <em>Yaksa : Hal apakah yang <b>jika</b> ditinggalkan membuat seseorang dicintai , bahagia dan kaya ?</em>
+  * [ADP]() 1: <em>Studi organisme yang beragam ini mengandung arti bahwa bidang ini sering dipecah ke dalam satuan - satuan yang lebih sederhana dan terfokus , yang menggunakan teknik umum , malahan <b>jika</b> bidang ini tak mempelajari organisme atau penyakit yang sama .</em>
 * <em>setelah</em>
   * [ADP]() 65: <em>Apa yang akan ANISSA lakukan <b>setelah</b> tahu semua rencana busuk Safira ?</em>
   * [SCONJ]() 31: <em>Itu <b>setelah</b> mereka menumbangkan tiga tim dari kasta tertinggi Superliga .</em>

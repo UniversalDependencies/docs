@@ -37,7 +37,7 @@ The most frequent other feature values with which `DET` and `PronType` co-occurr
   <tr><td><tt><a href="Definite.html">Definite</a>=Def|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Sing</tt></td><td><em>o, os, a</em></td><td></td></tr>
   <tr><td><tt><a href="Definite.html">Definite</a>=Def|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Plur</tt></td><td><em>os, o</em></td><td></td></tr>
   <tr><td><tt><a href="Definite.html">Definite</a>=Def|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Unsp</tt></td><td><em>o(s)</em></td><td></td></tr>
-  <tr><td><tt><a href="Definite.html">Definite</a>=Def|<a href="Gender.html">Gender</a>=Fem</tt></td><td><em>as, a</em></td><td></td></tr>
+  <tr><td><tt><a href="Definite.html">Definite</a>=Def|<a href="Gender.html">Gender</a>=Fem</tt></td><td><em>a, as</em></td><td></td></tr>
   <tr><td><tt><a href="Definite.html">Definite</a>=Def|<a href="Gender.html">Gender</a>=Fem|<a href="Number.html">Number</a>=Sing</tt></td><td><em>a, as</em></td><td></td></tr>
   <tr><td><tt><a href="Definite.html">Definite</a>=Def|<a href="Gender.html">Gender</a>=Fem|<a href="Number.html">Number</a>=Plur</tt></td><td><em>as</em></td><td></td></tr>
   <tr><td><tt><a href="Definite.html">Definite</a>=Def|<a href="Number.html">Number</a>=Sing</tt></td><td><em>o</em></td><td></td></tr>
@@ -109,8 +109,8 @@ The 10 most frequent relations where parent and child node agree in `PronType`:
 <tt>PRON --[<a href="../dep/fixed.html">fixed</a>]--> DET</tt> (12; 67%),
 <tt>DET --[<a href="../dep/fixed.html">fixed</a>]--> PRON</tt> (6; 67%),
 <tt>PRON --[<a href="../dep/parataxis.html">parataxis</a>]--> PRON</tt> (2; 100%),
-<tt>DET --[<a href="../dep/flat:name.html">flat:name</a>]--> DET</tt> (1; 100%),
-<tt>PRON --[<a href="../dep/obj.html">obj</a>]--> PRON</tt> (1; 100%).
+<tt>PRON --[<a href="../dep/obj.html">obj</a>]--> PRON</tt> (1; 100%),
+<tt>DET --[<a href="../dep/flat:name.html">flat:name</a>]--> DET</tt> (1; 100%).
 
 
 

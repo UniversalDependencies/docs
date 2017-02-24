@@ -11,7 +11,7 @@ The 10 most frequent `PROPN` lemmas: <em>Ελλάδα, Ευρώπη, Ρωσία,
 
 The 10 most frequent `PROPN` types:  <em>Ελλάδα, Ευρώπη, Ρωσία, Τουρκία, Γαλλία, Ομπάμα, Γερμανίας, Ευρώπης, Ελλάδας, Αθήνα</em>
 
-The 10 most frequent ambiguous lemmas: <em>Αμερικανός</em> ([PROPN]() 14, [ADJ]() 6), <em>φίλιππος</em> ([PROPN]() 10, [ADJ]() 1), <em>Έλληνας</em> ([PROPN]() 9, [ADJ]() 1), <em>ευρωπαίος</em> ([ADJ]() 1, [PROPN]() 1), <em>σταυρός</em> ([PROPN]() 9, [NOUN]() 1), <em>Παναγία</em> ([PROPN]() 8, [NOUN]() 1), <em>θιβετιανός</em> ([PROPN]() 8, [ADJ]() 3), <em>Ελσίνκι</em> ([PROPN]() 6, [X]() 1), <em>Ιταλία</em> ([PROPN]() 6, [NOUN]() 1), <em>Κινέζος</em> ([PROPN]() 5, [NOUN]() 1)
+The 10 most frequent ambiguous lemmas: <em>Αμερικανός</em> ([PROPN]() 14, [ADJ]() 6), <em>φίλιππος</em> ([PROPN]() 10, [ADJ]() 1), <em>Έλληνας</em> ([PROPN]() 9, [ADJ]() 1), <em>ευρωπαίος</em> ([PROPN]() 1, [ADJ]() 1), <em>σταυρός</em> ([PROPN]() 9, [NOUN]() 1), <em>Παναγία</em> ([PROPN]() 8, [NOUN]() 1), <em>θιβετιανός</em> ([PROPN]() 8, [ADJ]() 3), <em>Ελσίνκι</em> ([PROPN]() 6, [X]() 1), <em>Ιταλία</em> ([PROPN]() 6, [NOUN]() 1), <em>Κινέζος</em> ([PROPN]() 5, [NOUN]() 1)
 
 The 10 most frequent ambiguous types:  <em>Κάστρο</em> ([X]() 20, [PROPN]() 8), <em>Σταυρού</em> ([PROPN]() 7, [NOUN]() 1), <em>Ελσίνκι</em> ([PROPN]() 6, [X]() 1), <em>Έλληνες</em> ([PROPN]() 4, [ADJ]() 1), <em>Βίδο</em> ([PROPN]() 4, [NOUN]() 1, [X]() 1), <em>Ιανουαρίου</em> ([PROPN]() 4, [NOUN]() 4), <em>Κάιντα</em> ([X]() 6, [PROPN]() 4), <em>Κινέζοι</em> ([PROPN]() 4, [NOUN]() 1), <em>Τζων</em> ([X]() 5, [PROPN]() 4), <em>Βασιλείου</em> ([PROPN]() 3, [NOUN]() 1)
 

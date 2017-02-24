@@ -13,7 +13,7 @@ The 10 most frequent `ADP` types:  <em>in, du, bi, us, ana, miþ, fram, at, þai
 
 The 10 most frequent ambiguous lemmas: <em>in</em> ([ADP]() 1509, [SCONJ]() 3), <em>du</em> ([ADP]() 717, [ADV]() 2), <em>ana</em> ([ADP]() 194, [ADV]() 1), <em>fram</em> ([ADP]() 151, [ADV]() 2), <em>faura</em> ([ADP]() 39, [ADV]() 4), <em>fairra</em> ([ADP]() 10, [ADV]() 3), <em>neƕa</em> ([ADP]() 9, [ADV]() 5), <em>ufaro</em> ([ADP]() 2, [ADV]() 1), <em>alja</em> ([ADV]() 6, [CCONJ]() 5, [ADP]() 1, [SCONJ]() 1), <em>ūtana</em> ([ADV]() 2, [ADP]() 1)
 
-The 10 most frequent ambiguous types:  <em>in</em> ([ADP]() 1505, [SCONJ]() 3), <em>du</em> ([ADP]() 705, [ADV]() 2), <em>ana</em> ([ADP]() 194, [ADV]() 1), <em>faura</em> ([ADP]() 39, [ADV]() 4), <em>fairra</em> ([ADP]() 10, [ADV]() 3), <em>neƕa</em> ([ADP]() 9, [ADV]() 5), <em>ufaro</em> ([ADP]() 2, [ADV]() 1), <em>alja</em> ([ADV]() 6, [CCONJ]() 5, [ADP]() 1, [ADJ]() 1, [SCONJ]() 1), <em>utana</em> ([ADV]() 2, [ADP]() 1)
+The 10 most frequent ambiguous types:  <em>in</em> ([ADP]() 1505, [SCONJ]() 3), <em>du</em> ([ADP]() 705, [ADV]() 2), <em>ana</em> ([ADP]() 194, [ADV]() 1), <em>faura</em> ([ADP]() 39, [ADV]() 4), <em>fairra</em> ([ADP]() 10, [ADV]() 3), <em>neƕa</em> ([ADP]() 9, [ADV]() 5), <em>ufaro</em> ([ADP]() 2, [ADV]() 1), <em>alja</em> ([ADV]() 6, [CCONJ]() 5, [ADJ]() 1, [ADP]() 1, [SCONJ]() 1), <em>utana</em> ([ADV]() 2, [ADP]() 1)
 
 
 * <em>in</em>
@@ -40,8 +40,8 @@ The 10 most frequent ambiguous types:  <em>in</em> ([ADP]() 1505, [SCONJ]() 3), 
 * <em>alja</em>
   * [ADV]() 6: <em>ni ƕashun þiuþeigs <b>alja</b> ains guþ</em>
   * [CCONJ]() 5: <em><b>alja</b> so managei þaiei ni kunnun witoþ fraqiþanai sind</em>
-  * [ADP]() 1: <em>waila laisari bi sunjai qast þatei ains ist jah nist anþar <b>alja</b> imma</em>
   * [ADJ]() 1: <em>unte ni <b>alja</b> meljam izwis alja þoei anakunnaiþ aiþþau jah ufkunnaiþ</em>
+  * [ADP]() 1: <em>waila laisari bi sunjai qast þatei ains ist jah nist anþar <b>alja</b> imma</em>
   * [SCONJ]() 1: <em>sildaleikja ei swa sprauto afwandjanda af þamma laþondin izwis in anstai Xristaus du anþaramma aiwaggelja þatei nist anþar <b>alja</b> sumai sind þai drobjandans izwis jah wiljandans inwandjan aiwaggeli Xristaus</em>
 * <em>utana</em>
   * [ADV]() 2: <em><b>utana</b> waihjons</em>

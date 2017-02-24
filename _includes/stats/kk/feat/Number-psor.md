@@ -36,7 +36,7 @@ The most frequent other feature values with which `NOUN` and `Number[psor]` co-o
 
 6 [kk-pos/PRON]() tokens (33% of all `PRON` tokens) have a non-empty value of `Number[psor]`.
 
-The most frequent other feature values with which `PRON` and `Number[psor]` co-occurred: <tt><a href="Person[psor].html">Person[psor]</a>=3</tt> (6; 100%), <tt><a href="PronType.html">PronType</a>=Ref</tt> (6; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (6; 100%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (6; 100%).
+The most frequent other feature values with which `PRON` and `Number[psor]` co-occurred: <tt><a href="Number.html">Number</a>=EMPTY</tt> (6; 100%), <tt><a href="Person[psor].html">Person[psor]</a>=3</tt> (6; 100%), <tt><a href="PronType.html">PronType</a>=Ref</tt> (6; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (6; 100%).
 
 `PRON` tokens may have the following values of `Number[psor]`:
 
@@ -45,7 +45,7 @@ The most frequent other feature values with which `PRON` and `Number[psor]` co-o
 
 6 [kk-pos/VERB]() tokens (8% of all `VERB` tokens) have a non-empty value of `Number[psor]`.
 
-The most frequent other feature values with which `VERB` and `Number[psor]` co-occurred: <tt><a href="Number.html">Number</a>=EMPTY</tt> (6; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (6; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (6; 100%), <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (6; 100%), <tt><a href="Aspect.html">Aspect</a>=EMPTY</tt> (6; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Ger</tt> (6; 100%), <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (5; 83%), <tt><a href="Polarity.html">Polarity</a>=EMPTY</tt> (5; 83%), <tt><a href="Case.html">Case</a>=Nom</tt> (4; 67%).
+The most frequent other feature values with which `VERB` and `Number[psor]` co-occurred: <tt><a href="Person.html">Person</a>=EMPTY</tt> (6; 100%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (6; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Ger</tt> (6; 100%), <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (6; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (6; 100%), <tt><a href="Aspect.html">Aspect</a>=EMPTY</tt> (6; 100%), <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (5; 83%), <tt><a href="Polarity.html">Polarity</a>=EMPTY</tt> (5; 83%), <tt><a href="Case.html">Case</a>=Nom</tt> (4; 67%).
 
 `VERB` tokens may have the following values of `Number[psor]`:
 
@@ -72,7 +72,7 @@ The most frequent other feature values with which `ADJ` and `Number[psor]` co-oc
 
 1 [kk-pos/PROPN]() tokens (3% of all `PROPN` tokens) have a non-empty value of `Number[psor]`.
 
-The most frequent other feature values with which `PROPN` and `Number[psor]` co-occurred: <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (1; 100%), <tt><a href="Case.html">Case</a>=Gen</tt> (1; 100%).
+The most frequent other feature values with which `PROPN` and `Number[psor]` co-occurred: <tt><a href="Case.html">Case</a>=Gen</tt> (1; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (1; 100%).
 
 `PROPN` tokens may have the following values of `Number[psor]`:
 

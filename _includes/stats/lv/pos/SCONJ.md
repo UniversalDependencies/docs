@@ -11,9 +11,9 @@ The 10 most frequent `SCONJ` lemmas: <em>ka, kā, lai, ja, jo, vai, nekā, arī,
 
 The 10 most frequent `SCONJ` types:  <em>ka, kā, lai, ja, jo, vai, nekā, arī, gan, kamēr</em>
 
-The 10 most frequent ambiguous lemmas: <em>ka</em> ([SCONJ]() 354, [PART]() 1), <em>kā</em> ([SCONJ]() 157, [ADV]() 101, [PART]() 51, [CCONJ]() 7), <em>lai</em> ([SCONJ]() 96, [PART]() 24), <em>ja</em> ([SCONJ]() 79, [PART]() 1), <em>jo</em> ([SCONJ]() 48, [PART]() 9, [CCONJ]() 2), <em>vai</em> ([PART]() 101, [CCONJ]() 68, [SCONJ]() 33), <em>arī</em> ([PART]() 182, [CCONJ]() 56, [SCONJ]() 14), <em>gan</em> ([CCONJ]() 54, [PART]() 29, [SCONJ]() 12), <em>kamēr</em> ([ADV]() 5, [SCONJ]() 5), <em>tiklīdz</em> ([SCONJ]() 4, [ADV]() 1)
+The 10 most frequent ambiguous lemmas: <em>ka</em> ([SCONJ]() 354, [PART]() 1), <em>kā</em> ([SCONJ]() 157, [ADV]() 101, [PART]() 51, [CCONJ]() 7), <em>lai</em> ([SCONJ]() 96, [PART]() 24), <em>ja</em> ([SCONJ]() 79, [PART]() 1), <em>jo</em> ([SCONJ]() 48, [PART]() 9, [CCONJ]() 2), <em>vai</em> ([PART]() 101, [CCONJ]() 68, [SCONJ]() 33), <em>arī</em> ([PART]() 182, [CCONJ]() 56, [SCONJ]() 14), <em>gan</em> ([CCONJ]() 54, [PART]() 29, [SCONJ]() 12), <em>kamēr</em> ([SCONJ]() 5, [ADV]() 5), <em>tiklīdz</em> ([SCONJ]() 4, [ADV]() 1)
 
-The 10 most frequent ambiguous types:  <em>kā</em> ([SCONJ]() 151, [ADV]() 60, [PART]() 51, [CCONJ]() 7, [PRON]() 6, [DET]() 1), <em>lai</em> ([SCONJ]() 78, [PART]() 20), <em>ja</em> ([SCONJ]() 39, [PART]() 1), <em>jo</em> ([SCONJ]() 41, [PART]() 8, [CCONJ]() 1), <em>vai</em> ([CCONJ]() 64, [PART]() 46, [SCONJ]() 33), <em>nekā</em> ([SCONJ]() 31, [PRON]() 6), <em>arī</em> ([PART]() 166, [CCONJ]() 56, [SCONJ]() 14), <em>gan</em> ([CCONJ]() 51, [PART]() 28, [SCONJ]() 12), <em>kamēr</em> ([SCONJ]() 5, [ADV]() 5), <em>tiklīdz</em> ([ADV]() 1, [SCONJ]() 1)
+The 10 most frequent ambiguous types:  <em>kā</em> ([SCONJ]() 151, [ADV]() 60, [PART]() 51, [CCONJ]() 7, [PRON]() 6, [DET]() 1), <em>lai</em> ([SCONJ]() 78, [PART]() 20), <em>ja</em> ([SCONJ]() 39, [PART]() 1), <em>jo</em> ([SCONJ]() 41, [PART]() 8, [CCONJ]() 1), <em>vai</em> ([CCONJ]() 64, [PART]() 46, [SCONJ]() 33), <em>nekā</em> ([SCONJ]() 31, [PRON]() 6), <em>arī</em> ([PART]() 166, [CCONJ]() 56, [SCONJ]() 14), <em>gan</em> ([CCONJ]() 51, [PART]() 28, [SCONJ]() 12), <em>kamēr</em> ([ADV]() 5, [SCONJ]() 5), <em>tiklīdz</em> ([SCONJ]() 1, [ADV]() 1)
 
 
 * <em>kā</em>
@@ -49,11 +49,11 @@ The 10 most frequent ambiguous types:  <em>kā</em> ([SCONJ]() 151, [ADV]() 60, 
   * [PART]() 28: <em>" Tā <b>gan</b> , bet dienā apkārtne ir savādāka .</em>
   * [SCONJ]() 12: <em>Nekurina nemaz , lai <b>gan</b> ārā ir auksts .</em>
 * <em>kamēr</em>
-  * [SCONJ]() 5: <em>Māmiņa drīz pieceļas no galda un aizgriežas ... bet tētis sāk lidināties pie griestiem , <b>kamēr</b> Tomass turpina sēdēt un skatās .</em>
   * [ADV]() 5: <em>Uz mitrām rokām , <b>kamēr</b> tās nav nožuvušas , ieteicams iemasēt eļļu vai krēmu .</em>
+  * [SCONJ]() 5: <em>Māmiņa drīz pieceļas no galda un aizgriežas ... bet tētis sāk lidināties pie griestiem , <b>kamēr</b> Tomass turpina sēdēt un skatās .</em>
 * <em>tiklīdz</em>
-  * [ADV]() 1: <em>Kas ir tas , kas liek zaļajai augu vielai kilogramiem vien celties un velties no nedzīvās zemes augšup , <b>tiklīdz</b> laiks kļūst siltāks un ir izzudušas pēdējās sniega pēdas ?</em>
   * [SCONJ]() 1: <em>Tāpat notika arī pretējā virzienā : <b>tiklīdz</b> viņa spēja iejusties stāvoklī , ka kādu dienu viņas vairs nemaz nebūs , tā viņai tūlīt kļuva arī skaidrs , cik bezgala vērtīga ir dzīvība .</em>
+  * [ADV]() 1: <em>Kas ir tas , kas liek zaļajai augu vielai kilogramiem vien celties un velties no nedzīvās zemes augšup , <b>tiklīdz</b> laiks kļūst siltāks un ir izzudušas pēdējās sniega pēdas ?</em>
 
 ## Morphology
 

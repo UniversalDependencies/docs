@@ -133,44 +133,32 @@ The following 5 pairs of parts of speech are connected with `aux`: [fr-pos/VERB]
 ~~~ conllu
 # visual-style 13	bgColor:blue
 # visual-style 13	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 13 aux	color:blue
-1	(	(	PUNCT	FB	_	2	punct	_	SpaceAfter=No
-2	30	30	NUM	N	NumType=Card	4	nummod	_	SpaceAfter=No
-3	)	)	PUNCT	FB	_	2	punct	_	_
-4	Une	un	PRON	PE	Gender=Fem|Number=Sing|Person=3|PronType=Prs	0	root	_	_
-5	de	de	ADP	E	_	8	case	_	_
-6	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	8	det	_	_
-7	principales	principal	ADJ	A	Gender=Fem|Number=Plur	8	amod	_	_
-8	fonctions	fonctions	NOUN	S	Gender=Fem|Number=Plur	4	nmod	_	_
-9	de	de	ADP	E	_	11	case	_	_
-10	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	11	det	_	_
-11	normes	normes	NOUN	S	Gender=Fem|Number=Plur	8	nmod	_	_
-12	harmonisées	harmoniser	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	11	acl	_	_
-13	devrait	devoir	AUX	VM	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	_
-14	être	être	AUX	VA	VerbForm=Inf	4	cop	_	_
-15	d'	de	ADP	E	_	16	mark	_	SpaceAfter=No
-16	aider	aider	VERB	V	VerbForm=Inf	4	csubj	_	_
-17	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	18	det	_	_
-18	fabricants	fabricant	NOUN	S	Gender=Masc|Number=Plur	16	obj	_	_
-19	dans	dans	ADP	E	_	21	case	_	_
-20	l'	le	DET	RD	Definite=Def|Number=Sing|PronType=Art	21	det	_	SpaceAfter=No
-21	application	application	NOUN	S	Gender=Fem|Number=Sing	16	obl	_	_
-22	de	de	ADP	E	_	24	case	_	_
-23	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	24	det	_	_
-24	mesures	mesure	NOUN	S	Gender=Fem|Number=Plur	21	nmod	_	_
-25	d'	de	ADP	E	_	26	case	_	SpaceAfter=No
-26	exécution	exécution	NOUN	S	Gender=Fem|Number=Sing	24	nmod	_	_
-27	adoptées	adopter	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	24	acl	_	_
-28	dans	dans	ADP	E	_	30	case	_	_
-29	le	le	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	30	det	_	_
-30	cadre	cadre	NOUN	S	Gender=Masc|Number=Sing	27	obl	_	_
-31	de	de	ADP	E	_	34	case	_	_
-32	la	le	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	34	det	_	_
-33	présente	présent	ADJ	A	Gender=Fem|Number=Sing	34	amod	_	_
-34	directive	directive	NOUN	S	Gender=Fem|Number=Sing	30	nmod	_	SpaceAfter=No
-35	.	.	PUNCT	FS	_	4	punct	_	_
+# visual-style 17	bgColor:blue
+# visual-style 17	fgColor:white
+# visual-style 17 13 aux	color:blue
+1	La	le	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	plupart	plupart	NOUN	S	Gender=Fem|Number=Sing	7	nsubj	_	_
+3	d'	de	ADP	E	_	5	case	_	SpaceAfter=No
+4	entre	entre	ADP	E	_	3	fixed	_	_
+5	vous	vous	PRON	PE	Number=Plur|Person=2|PronType=Prs	2	nmod	_	_
+6	ne	ne	PART	PART	Polarity=Neg	7	advmod	_	_
+7	savent	savoir	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+8	peut-être	peut-être	ADV	_	_	7	advmod	_	_
+9	pas	pas	ADV	BN	Polarity=Neg	7	advmod	_	_
+10	que	que	SCONJ	CS	_	17	mark	_	_
+11	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	12	det	_	_
+12	champignons	champignon	NOUN	S	Gender=Masc|Number=Plur	17	nsubj	_	_
+13	ont	avoir	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	17	aux	_	_
+14	été	être	AUX	VA	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	17	cop	_	_
+15	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	17	det	_	_
+16	premiers	premier	ADJ	NO	Gender=Masc|Number=Plur|NumType=Ord	17	amod	_	_
+17	organismes	organisme	NOUN	S	Gender=Masc|Number=Plur	7	ccomp	_	_
+18	à	à	ADP	E	_	19	mark	_	_
+19	venir	venir	VERB	V	VerbForm=Inf	17	acl	_	_
+20	sur	sur	ADP	E	_	22	case	_	_
+21	la	le	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	22	det	_	_
+22	terre	terre	NOUN	S	Gender=Fem|Number=Sing	19	obl	_	SpaceAfter=No
+23	.	.	PUNCT	FS	_	7	punct	_	_
 
 ~~~
 

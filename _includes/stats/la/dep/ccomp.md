@@ -59,27 +59,56 @@ The following 4 pairs of parts of speech are connected with `ccomp`: [la-pos/VER
 
 
 ~~~ conllu
-# visual-style 13	bgColor:blue
-# visual-style 13	fgColor:white
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 1 13 ccomp	color:blue
-1	magis	magis1	ADV	d--------	_	15	advmod	_	_
-2	quid	quis1	PRON	p-s---nn-	Case=Nom|Gender=Neut|Number=Sing	4	nsubj	_	_
-3	se	sui1	PRON	p-p---mb-	Case=Abl|Gender=Masc|Number=Plur	4	obj	_	_
-4	dignum	dignus1	ADJ	a-s---nn-	Case=Nom|Gender=Neut|Number=Sing	15	obj	_	_
-5	foret	sum1	VERB	v3sisa---	Aspect=Imp|Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	4	cop	_	SpaceAfter=No
-6	,	comma1	PUNCT	u--------	_	13	punct	_	_
-7	quam	quam1	ADV	d--------	_	13	mark	_	_
-8	quid	quis1	PRON	p-s---nn-	Case=Nom|Gender=Neut|Number=Sing	13	nsubj	_	_
-9	in	in1	ADP	r--------	_	10	case	_	_
-10	illos	ille1	PRON	p-p---ma-	Case=Acc|Gender=Masc|Number=Plur	12	obl	_	_
-11	iure	jus1	NOUN	n-s---nb-	Case=Abl|Gender=Neut|Number=Sing	12	advmod	_	_
-12	fieri	fio1	VERB	v--pnp---	Tense=Pres|VerbForm=Inf|Voice=Pass	13	xcomp	_	_
-13	posset	possum1	VERB	v3sisa---	Aspect=Imp|Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	ccomp	_	SpaceAfter=No
-14	,	comma1	PUNCT	u--------	_	7	punct	_	_
-15	quaerebant	quaero1	VERB	v3piia---	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
-16	.	punc1	PUNCT	u--------	_	15	punct	_	_
+# visual-style 35	bgColor:blue
+# visual-style 35	fgColor:white
+# visual-style 33	bgColor:blue
+# visual-style 33	fgColor:white
+# visual-style 33 35 ccomp	color:blue
+1	'	'	PUNCT	u--------	_	13	punct	_	_
+2	ita	ita	ADV	d--------	_	13	advmod	_	_
+3	mihi	ego	PRON	p-s---md-	Case=Dat|Gender=Masc|Number=Sing	13	obj	_	_
+4	saluam	salvus	ADJ	a-s---fa-	Case=Acc|Gender=Fem|Number=Sing	7	xcomp	_	_
+5	ac	atque	CCONJ	c--------	_	4	cc	_	_
+6	sospitem	sospes	ADJ	a-s---fa-	Case=Acc|Gender=Fem|Number=Sing	4	conj	_	_
+7	rem	res	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	9	obj	_	_
+8	p.	publicus	ADJ	a-s---fa-	Case=Acc|Gender=Fem|Number=Sing	7	amod	_	_
+9	sistere	sisto	VERB	v--pna---	Tense=Pres|VerbForm=Inf|Voice=Act	13	csubj	_	_
+10	in	in	ADP	r--------	_	12	case	_	_
+11	sua	suus	PRON	p-s---fb-	Case=Abl|Gender=Fem|Number=Sing	12	nmod	_	_
+12	sede	sedes	NOUN	n-s---fb-	Case=Abl|Gender=Fem|Number=Sing	9	obl	_	_
+13	liceat	licet	VERB	v3spsa---	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+14	atque	atque	CCONJ	c--------	_	9	cc	_	_
+15	eius	is	PRON	p-s---fg-	Case=Gen|Gender=Fem|Number=Sing	16	nmod	_	_
+16	rei	res	NOUN	n-s---fg-	Case=Gen|Gender=Fem|Number=Sing	17	nmod	_	_
+17	fructum	fructus2	NOUN	n-s---ma-	Case=Acc|Gender=Masc|Number=Sing	18	obj	_	_
+18	percipere	percipio	VERB	v--pna---	Tense=Pres|VerbForm=Inf|Voice=Act	9	conj	_	SpaceAfter=No
+19	,	,	PUNCT	u--------	_	21	punct	_	_
+20	quem	qui1	PRON	p-s---ma-	Case=Acc|Gender=Masc|Number=Sing	21	obj	_	_
+21	peto	peto	VERB	v1spia---	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	17	acl	_	SpaceAfter=No
+22	,	,	PUNCT	u--------	_	21	punct	_	_
+23	ut	ut	SCONJ	c--------	_	27	mark	_	_
+24	optimi	bonus	ADJ	a-s---mgs	Case=Gen|Degree=Sup|Gender=Masc|Number=Sing	25	amod	_	_
+25	status	status2	NOUN	n-s---mg-	Case=Gen|Gender=Masc|Number=Sing	26	nmod	_	_
+26	auctor	auctor	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	27	xcomp	_	_
+27	dicar	dico2	VERB	v1spsp---	Mood=Sub|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Pass	13	advcl	_	_
+28	et	et	CCONJ	c--------	_	27	cc	_	_
+29	moriens	morior	VERB	v-sppdmn-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	31	advcl	_	_
+30	ut	ut	SCONJ	c--------	_	31	mark	_	_
+31	feram	fero	VERB	v1spsa---	Mood=Sub|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	27	conj	_	_
+32	mecum	ego	PRON	p-s---mb-	Case=Abl|Gender=Masc|Number=Sing	31	advmod	_	_
+33	spem	spes	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	31	obj	_	SpaceAfter=No
+34	,	,	PUNCT	u--------	_	35	punct	_	_
+35	mansura	maneo	VERB	v-pfpana-	Case=Acc|Gender=Neut|Number=Plur|Tense=Fut|VerbForm=Part|Voice=Act	33	ccomp	_	_
+36	in	in	ADP	r--------	_	37	case	_	_
+37	uestigio	vestigium	NOUN	n-s---nb-	Case=Abl|Gender=Neut|Number=Sing	35	obl	_	_
+38	suo	suus	PRON	p-s---nb-	Case=Abl|Gender=Neut|Number=Sing	37	nmod	_	_
+39	fundamenta	fundamentum	NOUN	n-p---na-	Case=Acc|Gender=Neut|Number=Plur	35	nsubj	_	_
+40	rei	res	NOUN	n-s---fg-	Case=Gen|Gender=Fem|Number=Sing	39	nmod	_	_
+41	p.	publicus	ADJ	a-s---fg-	Case=Gen|Gender=Fem|Number=Sing	40	amod	_	_
+42	quae	qui1	PRON	p-p---na-	Case=Acc|Gender=Neut|Number=Plur	43	obj	_	_
+43	iecero	jacio	VERB	v1stia---	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	39	acl	_	SpaceAfter=No
+44	.	.	PUNCT	u--------	_	13	punct	_	_
+45	'	'	PUNCT	u--------	_	13	punct	_	_
 
 ~~~
 

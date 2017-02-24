@@ -67,7 +67,7 @@ The most frequent other feature values with which `DET` and `Person` co-occurred
 
 22 [uk-pos/AUX]() tokens (13% of all `AUX` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `AUX` and `Person` co-occurred: <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (22; 100%), <tt><a href="Aspect.html">Aspect</a>=Imp</tt> (22; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (22; 100%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (21; 95%), <tt><a href="Number.html">Number</a>=Sing</tt> (18; 82%).
+The most frequent other feature values with which `AUX` and `Person` co-occurred: <tt><a href="Aspect.html">Aspect</a>=Imp</tt> (22; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (22; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (22; 100%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (21; 95%), <tt><a href="Number.html">Number</a>=Sing</tt> (18; 82%).
 
 `AUX` tokens may have the following values of `Person`:
 

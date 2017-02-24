@@ -11,9 +11,9 @@ The 10 most frequent `CCONJ` lemmas: <em>y, o, pero, que, e, como, ni, sino, mie
 
 The 10 most frequent `CCONJ` types:  <em>y, o, pero, que, e, como, ni, sino, mientras, si</em>
 
-The 10 most frequent ambiguous lemmas: <em>y</em> ([CCONJ]() 10083, [SCONJ]() 1, [NOUN]() 1), <em>o</em> ([CCONJ]() 1061, [X]() 4, [DET]() 3, [PROPN]() 3, [ADV]() 1), <em>pero</em> ([CCONJ]() 693, [NOUN]() 3), <em>que</em> ([SCONJ]() 6085, [PRON]() 883, [CCONJ]() 662, [DET]() 9, [X]() 6, [PROPN]() 3, [ADV]() 2, [PART]() 1), <em>e</em> ([CCONJ]() 231, [X]() 10, [PROPN]() 10, [DET]() 1), <em>como</em> ([ADP]() 1618, [CCONJ]() 219, [SCONJ]() 120, [ADV]() 58, [VERB]() 2, [PROPN]() 1), <em>ni</em> ([CCONJ]() 149, [ADV]() 9, [SCONJ]() 1), <em>sino</em> ([CCONJ]() 86, [ADV]() 5, [ADJ]() 1, [X]() 1, [PROPN]() 1, [VERB]() 1), <em>mientras</em> ([SCONJ]() 100, [ADV]() 58, [CCONJ]() 52, [ADP]() 1), <em>si</em> ([SCONJ]() 305, [CCONJ]() 32, [ADV]() 17, [X]() 5, [PROPN]() 2)
+The 10 most frequent ambiguous lemmas: <em>y</em> ([CCONJ]() 10083, [NOUN]() 1, [SCONJ]() 1), <em>o</em> ([CCONJ]() 1061, [X]() 4, [PROPN]() 3, [DET]() 3, [ADV]() 1), <em>pero</em> ([CCONJ]() 693, [NOUN]() 3), <em>que</em> ([SCONJ]() 6085, [PRON]() 883, [CCONJ]() 662, [DET]() 9, [X]() 6, [PROPN]() 3, [ADV]() 2, [PART]() 1), <em>e</em> ([CCONJ]() 231, [X]() 10, [PROPN]() 10, [DET]() 1), <em>como</em> ([ADP]() 1618, [CCONJ]() 219, [SCONJ]() 120, [ADV]() 58, [VERB]() 2, [PROPN]() 1), <em>ni</em> ([CCONJ]() 149, [ADV]() 9, [SCONJ]() 1), <em>sino</em> ([CCONJ]() 86, [ADV]() 5, [VERB]() 1, [X]() 1, [ADJ]() 1, [PROPN]() 1), <em>mientras</em> ([SCONJ]() 100, [ADV]() 58, [CCONJ]() 52, [ADP]() 1), <em>si</em> ([SCONJ]() 305, [CCONJ]() 32, [ADV]() 17, [X]() 5, [PROPN]() 2)
 
-The 10 most frequent ambiguous types:  <em>y</em> ([CCONJ]() 10020, [NOUN]() 1), <em>o</em> ([CCONJ]() 1060, [X]() 2, [ADV]() 1), <em>pero</em> ([CCONJ]() 596, [NOUN]() 3), <em>que</em> ([SCONJ]() 6075, [PRON]() 883, [CCONJ]() 662, [DET]() 8, [X]() 6, [PROPN]() 2, [ADV]() 2, [PART]() 1), <em>e</em> ([CCONJ]() 230, [X]() 6, [DET]() 1), <em>como</em> ([ADP]() 1538, [CCONJ]() 216, [SCONJ]() 100, [ADV]() 56, [VERB]() 2), <em>ni</em> ([CCONJ]() 146, [ADV]() 7, [SCONJ]() 1), <em>sino</em> ([CCONJ]() 86, [ADV]() 5, [X]() 1, [PROPN]() 1, [VERB]() 1), <em>mientras</em> ([SCONJ]() 76, [ADV]() 43, [CCONJ]() 43), <em>si</em> ([SCONJ]() 245, [CCONJ]() 20, [ADV]() 17, [X]() 3, [PROPN]() 1)
+The 10 most frequent ambiguous types:  <em>y</em> ([CCONJ]() 10020, [NOUN]() 1), <em>o</em> ([CCONJ]() 1060, [X]() 2, [ADV]() 1), <em>pero</em> ([CCONJ]() 596, [NOUN]() 3), <em>que</em> ([SCONJ]() 6075, [PRON]() 883, [CCONJ]() 662, [DET]() 8, [X]() 6, [ADV]() 2, [PROPN]() 2, [PART]() 1), <em>e</em> ([CCONJ]() 230, [X]() 6, [DET]() 1), <em>como</em> ([ADP]() 1538, [CCONJ]() 216, [SCONJ]() 100, [ADV]() 56, [VERB]() 2), <em>ni</em> ([CCONJ]() 146, [ADV]() 7, [SCONJ]() 1), <em>sino</em> ([CCONJ]() 86, [ADV]() 5, [VERB]() 1, [X]() 1, [PROPN]() 1), <em>mientras</em> ([SCONJ]() 76, [CCONJ]() 43, [ADV]() 43), <em>si</em> ([SCONJ]() 245, [CCONJ]() 20, [ADV]() 17, [X]() 3, [PROPN]() 1)
 
 
 * <em>y</em>
@@ -32,8 +32,8 @@ The 10 most frequent ambiguous types:  <em>y</em> ([CCONJ]() 10020, [NOUN]() 1),
   * [CCONJ]() 662: <em>Así <b>que</b> debemos dar le la bienvenida a el nuevo sistema .</em>
   * [DET]() 8: <em>El que sabe de Sushi comprobará que no hay un sushi igual en Valencia y a <b>que</b> precio !</em>
   * [X]() 6: <em>De este modo , el tomar agua cuando uno tiene sed , no es un acto egoísta aun <b>que</b> responda a un interés propio ;</em>
-  * [PROPN]() 2: <em>El libro Las 100 mejores películas <b>que</b> nunca has visto allá de la Mat incluye en su lista , afirmando que " la película funciona en un nivel casi de Shakespeare " .</em>
   * [ADV]() 2: <em>Menos mal <b>que</b> nos respalda nuestra trayectoria y la fidelidad de nuestros profesores y alumnos .</em>
+  * [PROPN]() 2: <em>El libro Las 100 mejores películas <b>que</b> nunca has visto allá de la Mat incluye en su lista , afirmando que " la película funciona en un nivel casi de Shakespeare " .</em>
   * [PART]() 1: <em>Además <b>que</b> en otras creperías de valladolid los crepes son más grandes y más baratos .</em>
 * <em>e</em>
   * [CCONJ]() 230: <em>También se alimenta de frutos <b>e</b> insectos .</em>
@@ -52,13 +52,13 @@ The 10 most frequent ambiguous types:  <em>y</em> ([CCONJ]() 10020, [NOUN]() 1),
 * <em>sino</em>
   * [CCONJ]() 86: <em>No es un órgano de el reino , <b>sino</b> de el rey para controlar a el reino .</em>
   * [ADV]() 5: <em>Es de lo mejorcito que hay en el sur , <b>sino</b> el mejor .</em>
+  * [VERB]() 1: <em>En este caso particular , no solo cuentan los abuelos paternos , Roder Rosano y su esposa María Elena , <b>sino</b> además sus tíos , Leonardo , Selena y Diego , los que tienen su propia situación económica y familiar , pero que son solidariamente responsables frente a la desidia de su familiar directo Darío Rosano .</em>
   * [X]() 1: <em>Un partido con sabor a Copa de el Rey , sobre todo viendo que se espera para el mes de Mayo <b>sino</b> surjen más retrasos entre el Sevilla y el Atlético de Madrid , dos equipos venidos a más .</em>
   * [PROPN]() 1: <em>Entre las pizas en las que ha intervenido figuran Yerma , Nuestra Natacha ( 1966 ) , La casa de las chivas ( 1969 ) , de Jaime Salom , Lisístrata ( 1972 ) , de Aristófanes , Divinas palabras ( 1973 ) , de Valle - Inclán , Esperando a Godot ( 1978 ) , de Samuel Beckett , La señorita de Tacna ( 1983 ) , de Vargas Llosa , Don Álvaro o la fuerza de el <b>sino</b> ( 1983 ) , de el Duque de Rivas o El público ( 1987 ) , de Federico García Lorca .</em>
-  * [VERB]() 1: <em>En este caso particular , no solo cuentan los abuelos paternos , Roder Rosano y su esposa María Elena , <b>sino</b> además sus tíos , Leonardo , Selena y Diego , los que tienen su propia situación económica y familiar , pero que son solidariamente responsables frente a la desidia de su familiar directo Darío Rosano .</em>
 * <em>mientras</em>
   * [SCONJ]() 76: <em>Las víctimas de Rogue quedan inconscientes <b>mientras</b> ella mantiene sus poderes .</em>
-  * [ADV]() 43: <em>Luego el Silverio se despide <b>mientras</b> que afuera la tempestad arrecia .</em>
   * [CCONJ]() 43: <em>La primera era más de corte aristocrático , <b>mientras</b> que los fariseos estaban más con el pueblo .</em>
+  * [ADV]() 43: <em>Luego el Silverio se despide <b>mientras</b> que afuera la tempestad arrecia .</em>
 * <em>si</em>
   * [SCONJ]() 245: <em>El albergue está muy chulo , <b>si</b> vuelvo a Valencia volvería sin dudar lo .</em>
   * [CCONJ]() 20: <em>Malas caras y como <b>si</b> te hicieran un favor por atender te .</em>
@@ -118,7 +118,7 @@ The 10 most frequent `CCONJ` lemmas: <em>y, pero, o, e, ni, sino, mientras, i, u
 
 The 10 most frequent `CCONJ` types:  <em>y, pero, o, e, ni, sino, mientras, i, u, bien</em>
 
-The 10 most frequent ambiguous lemmas: <em>y</em> ([CCONJ]() 10627, [ADP]() 1), <em>pero</em> ([CCONJ]() 1137, [NOUN]() 1), <em>e</em> ([CCONJ]() 299, [NOUN]() 4), <em>ni</em> ([CCONJ]() 294, [ADV]() 52), <em>sino</em> ([CCONJ]() 214, [ADV]() 1), <em>mientras</em> ([CCONJ]() 162, [SCONJ]() 126, [ADV]() 18), <em>i</em> ([CCONJ]() 30, [NOUN]() 1), <em>bien</em> ([ADV]() 241, [NOUN]() 36, [CCONJ]() 7), <em>como</em> ([SCONJ]() 1699, [ADP]() 45, [PRON]() 13, [CCONJ]() 5), <em>mas</em> ([CCONJ]() 2, [ADV]() 2)
+The 10 most frequent ambiguous lemmas: <em>y</em> ([CCONJ]() 10627, [ADP]() 1), <em>pero</em> ([CCONJ]() 1137, [NOUN]() 1), <em>e</em> ([CCONJ]() 299, [NOUN]() 4), <em>ni</em> ([CCONJ]() 294, [ADV]() 52), <em>sino</em> ([CCONJ]() 214, [ADV]() 1), <em>mientras</em> ([CCONJ]() 162, [SCONJ]() 126, [ADV]() 18), <em>i</em> ([CCONJ]() 30, [NOUN]() 1), <em>bien</em> ([ADV]() 241, [NOUN]() 36, [CCONJ]() 7), <em>como</em> ([SCONJ]() 1699, [ADP]() 45, [PRON]() 13, [CCONJ]() 5), <em>mas</em> ([ADV]() 2, [CCONJ]() 2)
 
 The 10 most frequent ambiguous types:  <em>y</em> ([CCONJ]() 10345, [ADP]() 1), <em>pero</em> ([CCONJ]() 840, [NOUN]() 1), <em>ni</em> ([CCONJ]() 274, [ADV]() 49), <em>sino</em> ([CCONJ]() 214, [ADV]() 1), <em>mientras</em> ([CCONJ]() 146, [SCONJ]() 86, [ADV]() 7), <em>i</em> ([CCONJ]() 30, [NOUN]() 1), <em>bien</em> ([ADV]() 237, [NOUN]() 19, [CCONJ]() 7), <em>como</em> ([SCONJ]() 1624, [ADP]() 42, [PRON]() 13, [CCONJ]() 5), <em>Mas</em> ([PROPN]() 29, [CCONJ]() 2), <em>más</em> ([ADV]() 1631, [CCONJ]() 2)
 

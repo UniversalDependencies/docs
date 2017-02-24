@@ -11,16 +11,16 @@ The 10 most frequent `ADP` lemmas: <em>in, von, mit, zu, an, auf, für, als, nac
 
 The 10 most frequent `ADP` types:  <em>in, von, mit, zu, an, auf, für, als, nach, bei</em>
 
-The 10 most frequent ambiguous lemmas: <em>in</em> ([ADP]() 7464, [PROPN]() 47, [NOUN]() 3), <em>von</em> ([ADP]() 3362, [PROPN]() 212, [X]() 4), <em>mit</em> ([ADP]() 2244, [ADV]() 9, [PROPN]() 2, [PART]() 1), <em>zu</em> ([ADP]() 2145, [PART]() 951, [ADV]() 59, [PROPN]() 25, [AUX]() 1, [ADJ]() 1), <em>an</em> ([ADP]() 1781, [PROPN]() 30, [PART]() 7, [NOUN]() 3, [ADV]() 1), <em>auf</em> ([ADP]() 1607, [NOUN]() 1, [PART]() 1), <em>für</em> ([ADP]() 1470, [PROPN]() 65, [NOUN]() 3, [ADV]() 2, [ADJ]() 1), <em>als</em> ([ADP]() 1358, [SCONJ]() 143, [CCONJ]() 123, [ADV]() 18, [PART]() 1, [PROPN]() 1), <em>nach</em> ([ADP]() 1188, [ADV]() 12, [PROPN]() 1, [SCONJ]() 1), <em>bei</em> ([ADP]() 1142, [PROPN]() 1, [NOUN]() 1)
+The 10 most frequent ambiguous lemmas: <em>in</em> ([ADP]() 7464, [PROPN]() 47, [NOUN]() 3), <em>von</em> ([ADP]() 3362, [PROPN]() 212, [X]() 4), <em>mit</em> ([ADP]() 2244, [ADV]() 9, [PROPN]() 2, [PART]() 1), <em>zu</em> ([ADP]() 2145, [PART]() 951, [ADV]() 59, [PROPN]() 25, [AUX]() 1, [ADJ]() 1), <em>an</em> ([ADP]() 1781, [PROPN]() 30, [PART]() 7, [NOUN]() 3, [ADV]() 1), <em>auf</em> ([ADP]() 1607, [NOUN]() 1, [PART]() 1), <em>für</em> ([ADP]() 1470, [PROPN]() 65, [NOUN]() 3, [ADV]() 2, [ADJ]() 1), <em>als</em> ([ADP]() 1358, [SCONJ]() 143, [CCONJ]() 123, [ADV]() 18, [PROPN]() 1, [PART]() 1), <em>nach</em> ([ADP]() 1188, [ADV]() 12, [SCONJ]() 1, [PROPN]() 1), <em>bei</em> ([ADP]() 1142, [PROPN]() 1, [NOUN]() 1)
 
-The 10 most frequent ambiguous types:  <em>in</em> ([ADP]() 6485, [PROPN]() 36, [PRON]() 2, [NOUN]() 2), <em>von</em> ([ADP]() 3208, [PROPN]() 209), <em>mit</em> ([ADP]() 2073, [ADV]() 9, [PROPN]() 2, [PART]() 1), <em>zu</em> ([ADP]() 2008, [PART]() 951, [ADV]() 58, [PROPN]() 24, [ADJ]() 1), <em>an</em> ([ADP]() 1686, [PROPN]() 24, [PART]() 7, [NOUN]() 1, [ADV]() 1), <em>auf</em> ([ADP]() 1508, [NOUN]() 1, [PART]() 1), <em>für</em> ([ADP]() 1361, [PROPN]() 63, [NOUN]() 3, [ADV]() 2, [ADJ]() 1), <em>als</em> ([ADP]() 1254, [CCONJ]() 120, [SCONJ]() 81, [ADV]() 15, [PROPN]() 1, [PART]() 1), <em>nach</em> ([ADP]() 871, [ADV]() 11, [SCONJ]() 1, [PROPN]() 1), <em>aus</em> ([ADP]() 940, [PART]() 9, [ADV]() 4)
+The 10 most frequent ambiguous types:  <em>in</em> ([ADP]() 6485, [PROPN]() 36, [NOUN]() 2, [PRON]() 2), <em>von</em> ([ADP]() 3208, [PROPN]() 209), <em>mit</em> ([ADP]() 2073, [ADV]() 9, [PROPN]() 2, [PART]() 1), <em>zu</em> ([ADP]() 2008, [PART]() 951, [ADV]() 58, [PROPN]() 24, [ADJ]() 1), <em>an</em> ([ADP]() 1686, [PROPN]() 24, [PART]() 7, [NOUN]() 1, [ADV]() 1), <em>auf</em> ([ADP]() 1508, [PART]() 1, [NOUN]() 1), <em>für</em> ([ADP]() 1361, [PROPN]() 63, [NOUN]() 3, [ADV]() 2, [ADJ]() 1), <em>als</em> ([ADP]() 1254, [CCONJ]() 120, [SCONJ]() 81, [ADV]() 15, [PROPN]() 1, [PART]() 1), <em>nach</em> ([ADP]() 871, [ADV]() 11, [SCONJ]() 1, [PROPN]() 1), <em>aus</em> ([ADP]() 940, [PART]() 9, [ADV]() 4)
 
 
 * <em>in</em>
   * [ADP]() 6485: <em>Nach einem viertel Jahr hielt ich ein duftendes Wunder <b>in</b> den Händen .</em>
   * [PROPN]() 36: <em>Es erschien auf dem Album Why Do Fools Fall <b>in</b> Love .</em>
-  * [PRON]() 2: <em>Mason lehnte Nashs Angebot anfangs ab , aber als Nash <b>in</b> fragte , was ihn zu einem Wechsel zu Nash Motors bewegen könnte , forderte er , dass Kelvinator in diesem Geschäft eingeschlossen sein müsste .</em>
   * [NOUN]() 2: <em>Check <b>in</b> war sehr schnell .</em>
+  * [PRON]() 2: <em>Mason lehnte Nashs Angebot anfangs ab , aber als Nash <b>in</b> fragte , was ihn zu einem Wechsel zu Nash Motors bewegen könnte , forderte er , dass Kelvinator in diesem Geschäft eingeschlossen sein müsste .</em>
 * <em>von</em>
   * [ADP]() 3208: <em>Hab ' ich vorher noch <b>von</b> keinem Optiker geboten bekommen .</em>
   * [PROPN]() 209: <em>Helmold <b>von</b> Bosau nannte es 1170 Zuerin , Zwerin .</em>
@@ -43,8 +43,8 @@ The 10 most frequent ambiguous types:  <em>in</em> ([ADP]() 6485, [PROPN]() 36, 
   * [ADV]() 1: <em>Die Telekom stellt von sofort <b>an</b> alle ausländischen Ansagedienste wieder auf Handvermittlung um .</em>
 * <em>auf</em>
   * [ADP]() 1508: <em>Ich freu mich <b>auf</b> meinen nächsten Besuch in dem Winter !</em>
-  * [NOUN]() 1: <em>Dennoch konnte er in der darauffolgenden Spielzeit nicht den Abstieg des Teams von Celta de Vigo verhindern , mit dem er danach nochmals <b>auf</b> - und wieder abstieg .</em>
   * [PART]() 1: <em>20 % der Fälle <b>auf</b> und geht mit einer mittleren Prothesenstandzeit von 3,2 Jahren einher .</em>
+  * [NOUN]() 1: <em>Dennoch konnte er in der darauffolgenden Spielzeit nicht den Abstieg des Teams von Celta de Vigo verhindern , mit dem er danach nochmals <b>auf</b> - und wieder abstieg .</em>
 * <em>für</em>
   * [ADP]() 1361: <em>Es war <b>für</b> mich Ausgangspunkt zu einer Parfümkreation .</em>
   * [PROPN]() 63: <em>1985 übernahm er eine Rolle in dem Film Was <b>für</b> ein Genie .</em>

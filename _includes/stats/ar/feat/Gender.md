@@ -47,7 +47,7 @@ The most frequent other feature values with which `ADJ` and `Gender` co-occurred
 
 18750 [ar-pos/VERB]() tokens (100% of all `VERB` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `VERB` and `Gender` co-occurred: <tt><a href="Person.html">Person</a>=3</tt> (18489; 99%), <tt><a href="Voice.html">Voice</a>=Act</tt> (17671; 94%), <tt><a href="Number.html">Number</a>=Sing</tt> (17540; 94%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (9908; 53%), <tt><a href="VerbForm.html">VerbForm</a>=EMPTY</tt> (9908; 53%), <tt><a href="Aspect.html">Aspect</a>=Perf</tt> (9908; 53%).
+The most frequent other feature values with which `VERB` and `Gender` co-occurred: <tt><a href="Person.html">Person</a>=3</tt> (18489; 99%), <tt><a href="Voice.html">Voice</a>=Act</tt> (17671; 94%), <tt><a href="Number.html">Number</a>=Sing</tt> (17540; 94%), <tt><a href="VerbForm.html">VerbForm</a>=EMPTY</tt> (9908; 53%), <tt><a href="Aspect.html">Aspect</a>=Perf</tt> (9908; 53%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (9908; 53%).
 
 `VERB` tokens may have the following values of `Gender`:
 
@@ -92,11 +92,11 @@ The most frequent other feature values with which `PRON` and `Gender` co-occurre
   <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=3</tt></td><td>هم</td><td>هن</td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=1</tt></td><td>ي</td><td></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=2</tt></td><td>ك</td><td>ك</td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3</tt></td><td>ه, انتشاره, بلاده, طائرته, وغربه, زنزانته, إدانته, مستقبله, والده, لاراضيه, حكومته, استعداداته, تجهيزه</td><td>ها, تجارتها, نهايتها, بضمانها, أهدافها, مستشفياتها, مواجهتها, إليها, أعضائها, تخصيصها, بهويتها, بفقدانها</td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3</tt></td><td>ه, والده, حكومته, مستقبله, زنزانته, تجهيزه, إدانته, استعداداته, لاراضيه, بلاده, طائرته, انتشاره, وغربه</td><td>ها, مواجهتها, إليها, بفقدانها, تجارتها, مستشفياتها, نهايتها, أهدافها, أعضائها, بهويتها, تخصيصها, بضمانها</td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Number.html">Number</a>=Dual|<a href="Person.html">Person</a>=3</tt></td><td>هما</td><td>هما</td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=1</tt></td><td>نا, لمساعدتنا</td><td></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=2</tt></td><td>كم</td><td></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=3</tt></td><td>هم, لهم, شفائهم, بلادهم, بهم, بأنفسهم</td><td>هن</td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=3</tt></td><td>هم, بهم, بلادهم, لهم, شفائهم, بأنفسهم</td><td>هن</td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=1</tt></td><td>أنا, انا</td><td></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=2</tt></td><td>أنت</td><td></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3</tt></td><td>هو</td><td>هي, هى, وهي</td></tr>

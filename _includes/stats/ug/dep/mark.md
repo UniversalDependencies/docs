@@ -31,29 +31,41 @@ The following 5 pairs of parts of speech are connected with `mark`: [ug-pos/VERB
 
 
 ~~~ conllu
-# visual-style 12	bgColor:blue
-# visual-style 12	fgColor:white
-# visual-style 11	bgColor:blue
-# visual-style 11	fgColor:white
-# visual-style 11 12 mark	color:blue
-1	سەن	_	PRON	P	_	16	nsubj	_	Translit=sen
-2	تىزىڭنى	_	NOUN	N	_	5	obj	_	Translit=tizingni
-3	مەھكەم	_	ADJ	A	_	5	advmod	_	Translit=mehkem
-4	قۇچاقلاپ	_	VERB	V	_	5	compound:lvc	_	Translit=quchaqlap
-5	تۇرغان	_	VERB	V	_	9	acl	_	Translit=turghan
-6	يۇمشاق	_	ADJ	A	_	9	amod	_	Translit=yumshaq
-7	ۋە	_	CCONJ	C	_	8	cc	_	Translit=we
-8	ئاق	_	ADJ	A	_	6	conj	_	Translit=aq
-9	بىلەكلىرىڭ	_	NOUN	N	_	10	nmod:poss	_	Translit=bilekliring
-10	ئۈستىدە	_	NOUN	N	_	13	obl	_	Translit=üstide
-11	ماغدۇرسىز	_	VERB	V	_	13	acl	_	Translit=maghdursiz
-12	ھالەتتە	_	NOUN	N	_	11	mark	_	Translit=halette
-13	ياتقان	_	VERB	V	_	14	acl	_	Translit=yatqan
-14	بېشىڭنى	_	NOUN	N	_	15	obj	_	Translit=bëshingni
-15	كۆتۈرمەيلا	_	NOUN	N	_	16	advcl	_	Translit=kötürmeyla
-16	سوراپ	_	VERB	V	_	0	root	_	Translit=sorap
-17	قالدىڭ	_	AUX	V	_	16	aux	_	SpaceAfter=No|Translit=qalding
-18	.	_	PUNCT	Y	_	17	punct	_	Translit=.
+# visual-style 15	bgColor:blue
+# visual-style 15	fgColor:white
+# visual-style 14	bgColor:blue
+# visual-style 14	fgColor:white
+# visual-style 14 15 mark	color:blue
+1	مەن	_	PRON	P	_	29	nsubj	_	Translit=men
+2	ئىچىمنىڭ	_	NOUN	N	_	3	nsubj	_	Translit=ichimning
+3	قىزىپ	_	VERB	V	_	8	advcl	_	SpaceAfter=No|Translit=qizip
+4	،	_	PUNCT	Y	_	3	punct	_	Translit=,
+5	كالپۇكلىرىمنىڭ	_	NOUN	N	_	6	nsubj	_	Translit=kalpuklirimning
+6	قۇرۇپ	_	VERB	V	_	8	advcl	_	Translit=qurup
+7	گەز	_	VERB	V	_	8	compound	_	Translit=gez
+8	باغلاۋاتقانلىقىنى	_	VERB	V	_	29	obj	_	SpaceAfter=No|Translit=baghlawatqanliqini
+9	،	_	PUNCT	Y	_	8	punct	_	Translit=,
+10	ئۇچۇق	_	NOUN	N	_	11	nsubj	_	Translit=uchuq
+11	چىققاندەك	_	NOUN	N	_	13	advmod	_	Translit=chiqqandek
+12	تىكەنلىشىپ	_	VERB	V	_	13	compound:lvc	_	Translit=tikenliship
+13	كەتكەن	_	VERB	V	_	14	acl	_	Translit=ketken
+14	تىلىمدىن	_	NOUN	N	_	24	nmod	_	Translit=tilimdin
+15	ئىبارەت	_	ADP	R	_	14	mark	_	Translit=ibaret
+16	بىر	_	NUM	M	_	17	nummod	_	Translit=bir
+17	پارچە	_	DET	Q	_	23	amod	_	Translit=parche
+18	يۇمشاق	_	ADJ	A	_	23	amod	_	SpaceAfter=No|Translit=yumshaq
+19	،	_	PUNCT	Y	_	18	punct	_	Translit=,
+20	ئىسسىق	_	ADJ	A	_	18	conj	_	SpaceAfter=No|Translit=issiq
+21	،	_	PUNCT	Y	_	18	punct	_	Translit=,
+22	نەم	_	ADJ	A	_	18	conj	_	Translit=nem
+23	گۆش	_	NOUN	N	_	24	nmod:poss	_	Translit=gösh
+24	پارچىسىنىڭ	_	NOUN	N	_	27	nsubj	_	Translit=parchisining
+25	تاڭلىيىمغا	_	NOUN	N	_	27	obl	_	Translit=tangliyimgha
+26	چاپلىشىپ	_	VERB	V	_	27	compound:lvc	_	Translit=chapliship
+27	كېتىۋاتقانلىقىنى	_	VERB	V	_	8	conj	_	Translit=këtiwatqanliqini
+28	ھېس	_	NOUN	N	_	29	compound	_	Translit=hës
+29	قىلاتتىم	_	VERB	V	_	0	root	_	SpaceAfter=No|Translit=qilattim
+30	.	_	PUNCT	Y	_	29	punct	_	Translit=.
 
 ~~~
 

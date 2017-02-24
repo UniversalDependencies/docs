@@ -11,9 +11,9 @@ The 10 most frequent `ADJ` lemmas: <em>nhiều, cùng, khác, gần, nhỏ, đú
 
 The 10 most frequent `ADJ` types:  <em>nhiều, cùng, khác, gần, nhỏ, đúng, sau, lớn, cao, mới</em>
 
-The 10 most frequent ambiguous lemmas: <em>cùng</em> ([ADJ]() 42, [CCONJ]() 12, [X]() 3, [ADP]() 2), <em>gần</em> ([ADJ]() 32, [X]() 3, [VERB]() 1), <em>nhỏ</em> ([ADJ]() 22, [NOUN]() 1), <em>sau</em> ([ADP]() 55, [NOUN]() 21, [ADJ]() 20), <em>lớn</em> ([ADJ]() 19, [VERB]() 8), <em>mới</em> ([X]() 49, [ADJ]() 18), <em>trước</em> ([ADP]() 29, [ADJ]() 16, [NOUN]() 12), <em>phải</em> ([VERB]() 125, [ADJ]() 17), <em>rõ</em> ([ADJ]() 15, [X]() 1, [VERB]() 1), <em>hơn</em> ([X]() 29, [ADJ]() 13)
+The 10 most frequent ambiguous lemmas: <em>cùng</em> ([ADJ]() 42, [CCONJ]() 12, [X]() 3, [ADP]() 2), <em>gần</em> ([ADJ]() 32, [X]() 3, [VERB]() 1), <em>nhỏ</em> ([ADJ]() 22, [NOUN]() 1), <em>sau</em> ([ADP]() 55, [NOUN]() 21, [ADJ]() 20), <em>lớn</em> ([ADJ]() 19, [VERB]() 8), <em>mới</em> ([X]() 49, [ADJ]() 18), <em>trước</em> ([ADP]() 29, [ADJ]() 16, [NOUN]() 12), <em>phải</em> ([VERB]() 125, [ADJ]() 17), <em>rõ</em> ([ADJ]() 15, [VERB]() 1, [X]() 1), <em>hơn</em> ([X]() 29, [ADJ]() 13)
 
-The 10 most frequent ambiguous types:  <em>cùng</em> ([ADJ]() 42, [CCONJ]() 12, [X]() 3, [ADP]() 2), <em>gần</em> ([ADJ]() 32, [X]() 3, [VERB]() 1), <em>nhỏ</em> ([ADJ]() 22, [NOUN]() 1), <em>sau</em> ([ADP]() 55, [NOUN]() 21, [ADJ]() 20), <em>lớn</em> ([ADJ]() 19, [VERB]() 8), <em>mới</em> ([X]() 49, [ADJ]() 18), <em>trước</em> ([ADP]() 29, [ADJ]() 16, [NOUN]() 12), <em>phải</em> ([VERB]() 125, [ADJ]() 17), <em>rõ</em> ([ADJ]() 15, [VERB]() 1, [X]() 1), <em>hơn</em> ([X]() 29, [ADJ]() 13)
+The 10 most frequent ambiguous types:  <em>cùng</em> ([ADJ]() 42, [CCONJ]() 12, [X]() 3, [ADP]() 2), <em>gần</em> ([ADJ]() 32, [X]() 3, [VERB]() 1), <em>nhỏ</em> ([ADJ]() 22, [NOUN]() 1), <em>sau</em> ([ADP]() 55, [NOUN]() 21, [ADJ]() 20), <em>lớn</em> ([ADJ]() 19, [VERB]() 8), <em>mới</em> ([X]() 49, [ADJ]() 18), <em>trước</em> ([ADP]() 29, [ADJ]() 16, [NOUN]() 12), <em>phải</em> ([VERB]() 125, [ADJ]() 17), <em>rõ</em> ([ADJ]() 15, [X]() 1, [VERB]() 1), <em>hơn</em> ([X]() 29, [ADJ]() 13)
 
 
 * <em>cùng</em>
@@ -47,8 +47,8 @@ The 10 most frequent ambiguous types:  <em>cùng</em> ([ADJ]() 42, [CCONJ]() 12,
   * [ADJ]() 17: <em>nhà Hải không <b>phải</b> như địa chỉ Tùng biết .</em>
 * <em>rõ</em>
   * [ADJ]() 15: <em>để biết <b>rõ</b> hơn , Hùng phải dùng " thuốc thử " với đối tượng nghi vấn .</em>
-  * [VERB]() 1: <em>nhiều gia đình trong số họ đã dắt díu nhau đi đâu , chính anh Đại bây giờ cũng không <b>rõ</b> .</em>
   * [X]() 1: <em>lần này Thọ xưng <b>rõ</b> danh tính với bà LBKT vì là chỗ thân tình LBKT và tâm sự chuyện gia đình đang có rắc rối .</em>
+  * [VERB]() 1: <em>nhiều gia đình trong số họ đã dắt díu nhau đi đâu , chính anh Đại bây giờ cũng không <b>rõ</b> .</em>
 * <em>hơn</em>
   * [X]() 29: <em>Phong trào lan truyền mạnh mẽ <b>hơn</b> .</em>
   * [ADJ]() 13: <em>đến nước này thì không thể chịu đựng <b>hơn</b> được nữa .</em>

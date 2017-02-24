@@ -20,36 +20,36 @@ The following 1 pairs of parts of speech are connected with `vocative`: [lt-pos/
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
 # visual-style 8 6 vocative	color:blue
-1	„	„	PUNCT	PUNCT	_	2	punct	_	„|_
-2	Užsparniai	užsparnis	NOUN	NN	Case=Nom|Gender=Masc|Number=Plur	0	root	_	|_
-3	,	,	PUNCT	PUNCT	_	2	punct	_	,|_
-4	su*a	su*a	INTJ	UH	_	2	discourse	_	suka|_
-5	!	!	PUNCT	PUNCT	_	2	punct	_	!|_
-6	Vade	Vadas	PROPN	NNP	Case=Loc|Gender=Masc|Number=Sing	8	vocative	_	Commander|_
-7	,	,	PUNCT	PUNCT	_	6	punct	_	,|_
-8	krentame	kristi	VERB	VBC	Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Reflex=No|Tense=Pres	2	parataxis	_	drop|_
-9	!	!	PUNCT	PUNCT	_	8	punct	_	!|_
-10	“	“	PUNCT	PUNCT	_	8	punct	_	“|_
-11	,	,	PUNCT	PUNCT	_	2	punct	_	,|_
-12	–	–	PUNCT	PUNCT	_	2	punct	_	_|_
-13	tokie	toks	PRON	DT	Case=Nom|Gender=Masc|Number=Plur	2	parataxis	_	such|_
-14	buvo	būti	AUX	VBC	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Reflex=No|Tense=PastSimp	13	cop	_	there is no|_
-15	paskutiniai	paskutinis	ADJ	JJL	Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Plur	22	amod	_	last|_
-16	lėktuvo	lėktuvas	NOUN	NN	Case=Gen|Gender=Masc|Number=Sing	18	nmod	_	airplane|_
-17	Tu-154	tu-154	PROPN	NNP	Case=Nom|Number=Sing	16	flat	_	Tu-154|_
-18	kapitono	kapitonas	NOUN	NN	Case=Gen|Gender=Masc|Number=Sing	19	nmod	_	captain|_
-19	padėjėjo	padėjėjas	NOUN	NN	Case=Gen|Gender=Masc|Number=Sing	22	nmod	_	assistant|_
-20	Aleksandro	Aleksandras	PROPN	NNP	Case=Gen|Gender=Masc|Number=Sing	19	flat	_	Alexander|_
-21	Rovenskio	Rovenskis	PROPN	NNP	Case=Gen|Gender=Masc|Number=Sing	20	flat	_	Rovensky|_
-22	žodžiai	žodis	NOUN	NN	Case=Nom|Gender=Masc|Number=Plur	13	nsubj	_	word|_
-23	,	,	PUNCT	PUNCT	_	25	punct	_	,|_
-24	kuriuos	kuris	PRON	WPA	Case=Acc|Gender=Masc|Number=Plur	25	nmod	_	which|_
-25	įrašė	įrašyti	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Reflex=No|Tense=PastSimp	16	acl:relcl	_	write|_
-26	savirašis	savirašis	ADJ	JJL	Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos	27	amod	_	self-writing|_
-27	prietaisas	prietaisas	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing	25	nsubj	_	device|_
-28	MARS	MARS	PROPN	NNP	_	27	flat	_	MARS|_
-29	BM	BM	PROPN	NNP	_	27	flat	_	BM|_
-30	.	.	PUNCT	PUNCT	_	2	punct	_	.|_
+1	„	„	PUNCT	PUNCT	_	2	punct	_	En=„|SpaceAfter=No
+2	Užsparniai	užsparnis	NOUN	NN	Case=Nom|Gender=Masc|Number=Plur	0	root	_	En=flaps|SpaceAfter=No
+3	,	,	PUNCT	PUNCT	_	2	punct	_	En=,
+4	su*a	su*a	INTJ	UH	_	2	discourse	_	En=fuck|SpaceAfter=No
+5	!	!	PUNCT	PUNCT	_	2	punct	_	En=!
+6	Vade	Vadas	PROPN	NNP	Case=Loc|Gender=Masc|Number=Sing	8	vocative	_	En=Commander|SpaceAfter=No
+7	,	,	PUNCT	PUNCT	_	6	punct	_	En=,
+8	krentame	kristi	VERB	VBC	Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Reflex=No|Tense=Pres|VerbForm=Fin|Voice=Act	2	parataxis	_	En=drop|SpaceAfter=No
+9	!	!	PUNCT	PUNCT	_	8	punct	_	En=!|SpaceAfter=No
+10	“	“	PUNCT	PUNCT	_	8	punct	_	En=“|SpaceAfter=No
+11	,	,	PUNCT	PUNCT	_	2	punct	_	En=,
+12	–	–	PUNCT	PUNCT	_	2	punct	_	En=_
+13	tokie	toks	PRON	DT	Case=Nom|Gender=Masc|Number=Plur	2	parataxis	_	En=such
+14	buvo	būti	AUX	VBC	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Reflex=No|Tense=Past|VerbForm=Fin|Voice=Act	13	cop	_	En=be
+15	paskutiniai	paskutinis	ADJ	JJL	Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Plur	22	amod	_	En=last
+16	lėktuvo	lėktuvas	NOUN	NN	Case=Gen|Gender=Masc|Number=Sing	18	nmod	_	En=airplane
+17	Tu-154	tu-154	PROPN	NNP	Case=Nom|Gender=Masc|Number=Sing	16	appos	_	En=Tu-154
+18	kapitono	kapitonas	NOUN	NN	Case=Gen|Gender=Masc|Number=Sing	19	nmod	_	En=captain
+19	padėjėjo	padėjėjas	NOUN	NN	Case=Gen|Gender=Masc|Number=Sing	20	nmod	_	En=assistant
+20	Aleksandro	Aleksandras	PROPN	NNP	Case=Gen|Gender=Masc|Number=Sing	22	nmod	_	En=Alexander
+21	Rovenskio	Rovenskis	PROPN	NNP	Case=Gen|Gender=Masc|Number=Sing	20	flat	_	En=Rovensky
+22	žodžiai	žodis	NOUN	NN	Case=Nom|Gender=Masc|Number=Plur	13	nsubj	_	En=word|SpaceAfter=No
+23	,	,	PUNCT	PUNCT	_	25	punct	_	En=,
+24	kuriuos	kuris	PRON	WPA	Case=Acc|Gender=Masc|Number=Plur	25	nmod	_	En=which
+25	įrašė	įrašyti	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Reflex=No|Tense=Past|VerbForm=Fin|Voice=Act	16	acl:relcl	_	En=write
+26	savirašis	savirašis	ADJ	JJL	Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	27	amod	_	En=self-writing
+27	prietaisas	prietaisas	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing	25	nsubj	_	En=device
+28	MARS	MARS	PROPN	NNP	_	27	appos	_	En=MARS
+29	BM	BM	PROPN	NNP	_	27	flat	_	En=BM|SpaceAfter=No
+30	.	.	PUNCT	PUNCT	_	2	punct	_	En=.
 
 ~~~
 

@@ -36,7 +36,7 @@ The most frequent other feature values with which `DET` and `Polarity` co-occurr
 
 9 [fr-pos/PRON]() tokens (0% of all `PRON` tokens) have a non-empty value of `Polarity`.
 
-The most frequent other feature values with which `PRON` and `Polarity` co-occurred: <tt><a href="Person.html">Person</a>=EMPTY</tt> (9; 100%), <tt><a href="PronType.html">PronType</a>=EMPTY</tt> (9; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (9; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (8; 89%).
+The most frequent other feature values with which `PRON` and `Polarity` co-occurred: <tt><a href="Person.html">Person</a>=EMPTY</tt> (9; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (9; 100%), <tt><a href="PronType.html">PronType</a>=EMPTY</tt> (9; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (8; 89%).
 
 `PRON` tokens may have the following values of `Polarity`:
 

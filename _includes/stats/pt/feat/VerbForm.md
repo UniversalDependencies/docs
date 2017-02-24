@@ -132,11 +132,20 @@ The most frequent other feature values with which `PROPN` and `VerbForm` co-occu
 * `Part` (6; 100% of non-empty `VerbForm`): <em>visto, dado</em>
 * `EMPTY` (18121): <em>Paulo, São, Portugal, Brasil, José, Porto, Governo, Nacional, Lisboa, João</em>
 
+### `INTJ`
+
+1 [pt-pos/INTJ]() tokens (2% of all `INTJ` tokens) have a non-empty value of `VerbForm`.
+
+`INTJ` tokens may have the following values of `VerbForm`:
+
+* `Fin` (1; 100% of non-empty `VerbForm`): <em>viu</em>
+* `EMPTY` (42): <em>não, Rarará, é, Adeus, Ah, Ai, Alô, BINGO, Deus, Droga</em>
+
 ### `PRON`
 
 1 [pt-pos/PRON]() tokens (0% of all `PRON` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `PRON` and `VerbForm` co-occurred: <tt><a href="Gender.html">Gender</a>=Unsp</tt> (1; 100%), <tt><a href="Person.html">Person</a>=3</tt> (1; 100%), <tt><a href="PronType.html">PronType</a>=Prs</tt> (1; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (1; 100%), <tt><a href="Case.html">Case</a>=Acc</tt> (1; 100%).
+The most frequent other feature values with which `PRON` and `VerbForm` co-occurred: <tt><a href="Case.html">Case</a>=Acc</tt> (1; 100%), <tt><a href="Gender.html">Gender</a>=Unsp</tt> (1; 100%), <tt><a href="Person.html">Person</a>=3</tt> (1; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (1; 100%), <tt><a href="PronType.html">PronType</a>=Prs</tt> (1; 100%).
 
 `PRON` tokens may have the following values of `VerbForm`:
 
@@ -154,15 +163,6 @@ The most frequent other feature values with which `ADJ` and `VerbForm` co-occurr
 * `Part` (1; 100% of non-empty `VerbForm`): <em>cotados</em>
 * `EMPTY` (11284): <em>maior, primeiro, primeira, novo, grande, nova, mesmo, melhor, grandes, nacional</em>
 
-### `INTJ`
-
-1 [pt-pos/INTJ]() tokens (2% of all `INTJ` tokens) have a non-empty value of `VerbForm`.
-
-`INTJ` tokens may have the following values of `VerbForm`:
-
-* `Fin` (1; 100% of non-empty `VerbForm`): <em>viu</em>
-* `EMPTY` (42): <em>não, Rarará, é, Adeus, Ah, Ai, Alô, BINGO, Deus, Droga</em>
-
 ## Relations with Agreement in `VerbForm`
 
 The 10 most frequent relations where parent and child node agree in `VerbForm`:
@@ -170,6 +170,6 @@ The 10 most frequent relations where parent and child node agree in `VerbForm`:
 <tt>VERB --[<a href="../dep/ccomp.html">ccomp</a>]--> VERB</tt> (631; 55%),
 <tt>VERB --[<a href="../dep/parataxis.html">parataxis</a>]--> VERB</tt> (105; 77%),
 <tt>VERB --[<a href="../dep/conj.html">conj</a>]--> AUX</tt> (1; 100%),
-<tt>AUX --[<a href="../dep/conj.html">conj</a>]--> VERB</tt> (1; 100%),
-<tt>AUX --[<a href="../dep/cop.html">cop</a>]--> AUX</tt> (1; 100%).
+<tt>AUX --[<a href="../dep/cop.html">cop</a>]--> AUX</tt> (1; 100%),
+<tt>AUX --[<a href="../dep/conj.html">conj</a>]--> VERB</tt> (1; 100%).
 

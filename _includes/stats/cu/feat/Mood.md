@@ -16,7 +16,7 @@ The feature is used with 1 part-of-speech tags: [cu-pos/VERB]() (8731; 18% insta
 
 8731 [cu-pos/VERB]() tokens (72% of all `VERB` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="Case.html">Case</a>=EMPTY</tt> (8731; 100%), <tt><a href="Strength.html">Strength</a>=EMPTY</tt> (8731; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (8731; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (8731; 100%), <tt><a href="Voice.html">Voice</a>=Act</tt> (8730; 100%), <tt><a href="Person.html">Person</a>=3</tt> (6264; 72%), <tt><a href="Number.html">Number</a>=Sing</tt> (5918; 68%), <tt><a href="Aspect.html">Aspect</a>=EMPTY</tt> (4772; 55%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (4530; 52%).
+The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="Case.html">Case</a>=EMPTY</tt> (8731; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (8731; 100%), <tt><a href="Strength.html">Strength</a>=EMPTY</tt> (8731; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (8731; 100%), <tt><a href="Voice.html">Voice</a>=Act</tt> (8730; 100%), <tt><a href="Person.html">Person</a>=3</tt> (6264; 72%), <tt><a href="Number.html">Number</a>=Sing</tt> (5918; 68%), <tt><a href="Aspect.html">Aspect</a>=EMPTY</tt> (4772; 55%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (4530; 52%).
 
 `VERB` tokens may have the following values of `Mood`:
 
@@ -41,7 +41,7 @@ The most frequent other feature values with which `VERB` and `Mood` co-occurred:
   <tr><td><tt><a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=1|<a href="Tense.html">Tense</a>=Fut</tt></td><td><em>бѫдѫ</em></td><td></td><td></td></tr>
   <tr><td><tt><a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=1|<a href="Tense.html">Tense</a>=Pres</tt></td><td><em>есмъ, есмь</em></td><td></td><td><em>бимь, бимъ</em></td></tr>
   <tr><td><tt><a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=2|<a href="Tense.html">Tense</a>=Fut</tt></td><td><em>бѫдеши</em></td><td></td><td></td></tr>
-  <tr><td><tt><a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=2|<a href="Tense.html">Tense</a>=Pres</tt></td><td><em>еси, си, е҅си</em></td><td><em>бѫди</em></td><td><em>би</em></td></tr>
+  <tr><td><tt><a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=2|<a href="Tense.html">Tense</a>=Pres</tt></td><td><em>еси, е҅си, си</em></td><td><em>бѫди</em></td><td><em>би</em></td></tr>
   <tr><td><tt><a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Fut</tt></td><td><em>бѫдетъ, бодетъ, бѫде</em></td><td></td><td></td></tr>
   <tr><td><tt><a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Pres</tt></td><td><em>естъ, есть, е҅стъ, е</em></td><td><em>бѫди</em></td><td><em>би</em></td></tr>
   <tr><td><tt><a href="Number.html">Number</a>=Dual|<a href="Person.html">Person</a>=1|<a href="Tense.html">Tense</a>=Pres</tt></td><td><em>есвѣ</em></td><td></td><td></td></tr>

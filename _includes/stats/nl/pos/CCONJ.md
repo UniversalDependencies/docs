@@ -11,7 +11,7 @@ The 10 most frequent `CCONJ` lemmas: <em>en, maar, of, want, zowel, als, doch, n
 
 The 10 most frequent `CCONJ` types:  <em>en, maar, of, want, zowel, als, doch, noch, alsmede, o</em>
 
-The 10 most frequent ambiguous lemmas: <em>en</em> ([CCONJ]() 2955, [ADP]() 126, [PROPN]() 7, [DET]() 1), <em>maar</em> ([CCONJ]() 516, [ADV]() 139, [X]() 19), <em>of</em> ([CCONJ]() 272, [SCONJ]() 97, [X]() 26, [PROPN]() 14, [DET]() 9, [VERB]() 1), <em>zowel</em> ([CCONJ]() 45, [SCONJ]() 1), <em>als</em> ([SCONJ]() 733, [ADP]() 25, [CCONJ]() 24), <em>o</em> ([CCONJ]() 2, [INTJ]() 1), <em>een</em> ([DET]() 4272, [X]() 49, [NUM]() 19, [PROPN]() 3, [CCONJ]() 2), <em>E</em> ([NOUN]() 2, [CCONJ]() 1), <em>oftewel</em> ([PROPN]() 1, [CCONJ]() 1), <em>zet</em> ([VERB]() 83, [AUX]() 4, [NOUN]() 4, [CCONJ]() 1)
+The 10 most frequent ambiguous lemmas: <em>en</em> ([CCONJ]() 2955, [ADP]() 126, [PROPN]() 7, [DET]() 1), <em>maar</em> ([CCONJ]() 516, [ADV]() 139, [X]() 19), <em>of</em> ([CCONJ]() 272, [SCONJ]() 97, [X]() 26, [PROPN]() 14, [DET]() 9, [VERB]() 1), <em>zowel</em> ([CCONJ]() 45, [SCONJ]() 1), <em>als</em> ([SCONJ]() 733, [ADP]() 25, [CCONJ]() 24), <em>o</em> ([CCONJ]() 2, [INTJ]() 1), <em>een</em> ([DET]() 4272, [X]() 49, [NUM]() 19, [PROPN]() 3, [CCONJ]() 2), <em>E</em> ([NOUN]() 2, [CCONJ]() 1), <em>oftewel</em> ([PROPN]() 1, [CCONJ]() 1), <em>zet</em> ([VERB]() 83, [NOUN]() 4, [AUX]() 4, [CCONJ]() 1)
 
 The 10 most frequent ambiguous types:  <em>en</em> ([CCONJ]() 2848, [ADP]() 126, [PROPN]() 7), <em>maar</em> ([CCONJ]() 352, [ADV]() 139, [X]() 19), <em>of</em> ([CCONJ]() 262, [SCONJ]() 89, [X]() 26, [PROPN]() 14, [DET]() 9), <em>zowel</em> ([CCONJ]() 41, [SCONJ]() 1), <em>als</em> ([SCONJ]() 630, [ADP]() 25, [CCONJ]() 24), <em>E</em> ([NOUN]() 2, [CCONJ]() 1)
 

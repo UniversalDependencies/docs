@@ -294,8 +294,8 @@ The 10 most frequent relations where parent and child node agree in `VerbForm`:
 <tt>VERB --[<a href="../dep/orphan.html">orphan</a>]--> VERB</tt> (20; 83%),
 <tt>VERB --[<a href="../dep/acl.html">acl</a>]--> VERB</tt> (9; 56%),
 <tt>ADJ --[<a href="../dep/orphan.html">orphan</a>]--> ADJ</tt> (5; 63%),
-<tt>ADJ --[<a href="../dep/advmod.html">advmod</a>]--> ADJ</tt> (1; 100%),
-<tt>VERB --[<a href="../dep/aux.html">aux</a>]--> ADJ</tt> (1; 100%).
+<tt>ADJ --[<a href="../dep/acl.html">acl</a>]--> ADJ</tt> (1; 100%),
+<tt>VERB --[<a href="../dep/flat:foreign.html">flat:foreign</a>]--> VERB</tt> (1; 100%).
 
 
 
@@ -315,7 +315,7 @@ The feature is used with 3 part-of-speech tags: [cs-pos/VERB]() (1428; 5% instan
 
 1428 [cs-pos/VERB]() tokens (100% of all `VERB` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="Polarity.html">Polarity</a>=Pos</tt> (1297; 91%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (1170; 82%), <tt><a href="Voice.html">Voice</a>=Act</tt> (1046; 73%), <tt><a href="Person.html">Person</a>=3</tt> (966; 68%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (966; 68%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (965; 68%), <tt><a href="Number.html">Number</a>=Sing</tt> (752; 53%).
+The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="Polarity.html">Polarity</a>=Pos</tt> (1297; 91%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (1170; 82%), <tt><a href="Voice.html">Voice</a>=Act</tt> (1046; 73%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (966; 68%), <tt><a href="Person.html">Person</a>=3</tt> (966; 68%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (965; 68%), <tt><a href="Number.html">Number</a>=Sing</tt> (752; 53%).
 
 `VERB` tokens may have the following values of `VerbForm`:
 
@@ -368,7 +368,7 @@ The most frequent other feature values with which `AUX` and `VerbForm` co-occurr
 
 215 [cs-pos/ADJ]() tokens (5% of all `ADJ` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `ADJ` and `VerbForm` co-occurred: <tt><a href="Polarity.html">Polarity</a>=Pos</tt> (215; 100%), <tt><a href="Degree.html">Degree</a>=EMPTY</tt> (215; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (132; 61%), <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (122; 57%).
+The most frequent other feature values with which `ADJ` and `VerbForm` co-occurred: <tt><a href="Degree.html">Degree</a>=EMPTY</tt> (215; 100%), <tt><a href="Polarity.html">Polarity</a>=Pos</tt> (215; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (132; 61%), <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (122; 57%).
 
 `ADJ` tokens may have the following values of `VerbForm`:
 
@@ -383,7 +383,7 @@ The 10 most frequent relations where parent and child node agree in `VerbForm`:
 <tt>VERB --[<a href="../dep/conj.html">conj</a>]--> VERB</tt> (125; 81%),
 <tt>VERB --[<a href="../dep/advcl.html">advcl</a>]--> VERB</tt> (40; 59%),
 <tt>VERB --[<a href="../dep/parataxis.html">parataxis</a>]--> VERB</tt> (16; 94%),
-<tt>VERB --[<a href="../dep/csubj:pass.html">csubj:pass</a>]--> VERB</tt> (1; 100%),
+<tt>AUX --[<a href="../dep/conj.html">conj</a>]--> VERB</tt> (1; 100%),
 <tt>VERB --[<a href="../dep/appos.html">appos</a>]--> VERB</tt> (1; 100%),
-<tt>AUX --[<a href="../dep/conj.html">conj</a>]--> VERB</tt> (1; 100%).
+<tt>VERB --[<a href="../dep/csubj:pass.html">csubj:pass</a>]--> VERB</tt> (1; 100%).
 

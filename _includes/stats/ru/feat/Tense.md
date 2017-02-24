@@ -16,7 +16,7 @@ The feature is used with 2 part-of-speech tags: [ru-pos/VERB]() (6219; 7% instan
 
 6219 [ru-pos/VERB]() tokens (85% of all `VERB` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="Variant.html">Variant</a>=EMPTY</tt> (5399; 87%), <tt><a href="Number.html">Number</a>=Sing</tt> (4537; 73%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (4485; 72%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (4406; 71%), <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (4406; 71%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (4389; 71%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (4389; 71%), <tt><a href="Aspect.html">Aspect</a>=Imp</tt> (3223; 52%), <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (3165; 51%).
+The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="Variant.html">Variant</a>=EMPTY</tt> (5399; 87%), <tt><a href="Number.html">Number</a>=Sing</tt> (4537; 73%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (4485; 72%), <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (4406; 71%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (4406; 71%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (4389; 71%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (4389; 71%), <tt><a href="Aspect.html">Aspect</a>=Imp</tt> (3223; 52%), <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (3165; 51%).
 
 `VERB` tokens may have the following values of `Tense`:
 
@@ -39,7 +39,7 @@ The most frequent other feature values with which `VERB` and `Tense` co-occurred
 
 910 [ru-pos/AUX]() tokens (91% of all `AUX` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `AUX` and `Tense` co-occurred: <tt><a href="Mood.html">Mood</a>=Ind</tt> (890; 98%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (890; 98%), <tt><a href="Aspect.html">Aspect</a>=Imp</tt> (789; 87%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (755; 83%), <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (750; 82%), <tt><a href="Number.html">Number</a>=Sing</tt> (739; 81%).
+The most frequent other feature values with which `AUX` and `Tense` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (890; 98%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (890; 98%), <tt><a href="Aspect.html">Aspect</a>=Imp</tt> (789; 87%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (755; 83%), <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (750; 82%), <tt><a href="Number.html">Number</a>=Sing</tt> (739; 81%).
 
 `AUX` tokens may have the following values of `Tense`:
 
@@ -171,5 +171,5 @@ The 10 most frequent relations where parent and child node agree in `Tense`:
 <tt>VERB --[<a href="../dep/cc.html">cc</a>]--> VERB</tt> (12; 86%),
 <tt>AUX --[<a href="../dep/cop.html">cop</a>]--> AUX</tt> (7; 100%),
 <tt>VERB --[<a href="../dep/acl:relcl.html">acl:relcl</a>]--> VERB</tt> (3; 60%),
-<tt>AUX --[<a href="../dep/aux:pass.html">aux:pass</a>]--> AUX</tt> (2; 100%).
+<tt>AUX --[<a href="../dep/aux.html">aux</a>]--> AUX</tt> (2; 100%).
 

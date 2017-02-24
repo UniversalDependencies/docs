@@ -11,7 +11,7 @@ The 10 most frequent `ADV` lemmas: <em>вельмі, таксама, раней,
 
 The 10 most frequent `ADV` types:  <em>вельмі, таксама, раней, ўжо, больш, разам, ужо, добра, па-беларуску, таму</em>
 
-The 10 most frequent ambiguous lemmas: <em>таксама</em> ([ADV]() 13, [PART]() 6, [CCONJ]() 1), <em>ўжо</em> ([ADV]() 8, [PART]() 2), <em>таму</em> ([ADV]() 5, [SCONJ]() 1), <em>як</em> ([SCONJ]() 31, [ADV]() 5, [CCONJ]() 1), <em>шмат</em> ([ADV]() 3, [NUM]() 2), <em>насустрач</em> ([ADV]() 2, [ADP]() 1), <em>так</em> ([ADV]() 2, [CCONJ]() 1), <em>важна</em> ([ADV]() 1, [VERB]() 1)
+The 10 most frequent ambiguous lemmas: <em>таксама</em> ([ADV]() 13, [PART]() 6, [CCONJ]() 1), <em>ўжо</em> ([ADV]() 8, [PART]() 2), <em>таму</em> ([ADV]() 5, [SCONJ]() 1), <em>як</em> ([SCONJ]() 31, [ADV]() 5, [CCONJ]() 1), <em>шмат</em> ([ADV]() 3, [NUM]() 2), <em>насустрач</em> ([ADV]() 2, [ADP]() 1), <em>так</em> ([ADV]() 2, [CCONJ]() 1), <em>важна</em> ([VERB]() 1, [ADV]() 1)
 
 The 10 most frequent ambiguous types:  <em>таксама</em> ([ADV]() 10, [PART]() 6), <em>ўжо</em> ([ADV]() 8, [PART]() 2), <em>разам</em> ([ADV]() 5, [NOUN]() 1), <em>таму</em> ([ADV]() 3, [SCONJ]() 1), <em>як</em> ([SCONJ]() 10, [ADV]() 3, [CCONJ]() 1), <em>шмат</em> ([ADV]() 3, [NUM]() 2), <em>насустрач</em> ([ADV]() 2, [ADP]() 1), <em>важна</em> ([ADV]() 1, [VERB]() 1)
 

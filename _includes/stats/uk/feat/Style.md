@@ -30,7 +30,7 @@ The most frequent other feature values with which `NOUN` and `Style` co-occurred
 
 10 [uk-pos/VERB]() tokens (1% of all `VERB` tokens) have a non-empty value of `Style`.
 
-The most frequent other feature values with which `VERB` and `Style` co-occurred: <tt><a href="Mood.html">Mood</a>=Ind</tt> (10; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (10; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (8; 80%), <tt><a href="Aspect.html">Aspect</a>=Imp</tt> (7; 70%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (6; 60%), <tt><a href="Tense.html">Tense</a>=Past</tt> (6; 60%).
+The most frequent other feature values with which `VERB` and `Style` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (10; 100%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (10; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (8; 80%), <tt><a href="Aspect.html">Aspect</a>=Imp</tt> (7; 70%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (6; 60%), <tt><a href="Tense.html">Tense</a>=Past</tt> (6; 60%).
 
 `VERB` tokens may have the following values of `Style`:
 
@@ -41,7 +41,7 @@ The most frequent other feature values with which `VERB` and `Style` co-occurred
 
 8 [uk-pos/ADJ]() tokens (1% of all `ADJ` tokens) have a non-empty value of `Style`.
 
-The most frequent other feature values with which `ADJ` and `Style` co-occurred: <tt><a href="Degree.html">Degree</a>=EMPTY</tt> (8; 100%), <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (8; 100%), <tt><a href="VerbForm.html">VerbForm</a>=EMPTY</tt> (6; 75%), <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (6; 75%), <tt><a href="Aspect.html">Aspect</a>=EMPTY</tt> (6; 75%), <tt><a href="Number.html">Number</a>=Plur</tt> (5; 63%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (5; 63%).
+The most frequent other feature values with which `ADJ` and `Style` co-occurred: <tt><a href="Degree.html">Degree</a>=EMPTY</tt> (8; 100%), <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (8; 100%), <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (6; 75%), <tt><a href="VerbForm.html">VerbForm</a>=EMPTY</tt> (6; 75%), <tt><a href="Aspect.html">Aspect</a>=EMPTY</tt> (6; 75%), <tt><a href="Number.html">Number</a>=Plur</tt> (5; 63%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (5; 63%).
 
 `ADJ` tokens may have the following values of `Style`:
 
@@ -52,29 +52,29 @@ The most frequent other feature values with which `ADJ` and `Style` co-occurred:
 
 2 [uk-pos/PROPN]() tokens (1% of all `PROPN` tokens) have a non-empty value of `Style`.
 
-The most frequent other feature values with which `PROPN` and `Style` co-occurred: <tt><a href="NameType.html">NameType</a>=EMPTY</tt> (2; 100%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (2; 100%), <tt><a href="Animacy.html">Animacy</a>=Inan</tt> (2; 100%).
+The most frequent other feature values with which `PROPN` and `Style` co-occurred: <tt><a href="Gender.html">Gender</a>=Masc</tt> (2; 100%), <tt><a href="Animacy.html">Animacy</a>=Inan</tt> (2; 100%), <tt><a href="NameType.html">NameType</a>=EMPTY</tt> (2; 100%).
 
 `PROPN` tokens may have the following values of `Style`:
 
 * `Odd` (2; 100% of non-empty `Style`): <em>Ноттінгему, Станиславові</em>
 
-### `ADV`
-
-1 [uk-pos/ADV]() tokens (0% of all `ADV` tokens) have a non-empty value of `Style`.
-
-The most frequent other feature values with which `ADV` and `Style` co-occurred: <tt><a href="Degree.html">Degree</a>=EMPTY</tt> (1; 100%), <tt><a href="PronType.html">PronType</a>=Dem</tt> (1; 100%).
-
-`ADV` tokens may have the following values of `Style`:
-
-* `Odd` (1; 100% of non-empty `Style`): <em>тепера</em>
-
 ### `DET`
 
 1 [uk-pos/DET]() tokens (0% of all `DET` tokens) have a non-empty value of `Style`.
 
-The most frequent other feature values with which `DET` and `Style` co-occurred: <tt><a href="PronType.html">PronType</a>=Prs</tt> (1; 100%), <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (1; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (1; 100%), <tt><a href="Poss.html">Poss</a>=Yes</tt> (1; 100%), <tt><a href="Number.html">Number</a>=Plur</tt> (1; 100%), <tt><a href="Person.html">Person</a>=3</tt> (1; 100%), <tt><a href="Case.html">Case</a>=Gen</tt> (1; 100%).
+The most frequent other feature values with which `DET` and `Style` co-occurred: <tt><a href="Number.html">Number</a>=Plur</tt> (1; 100%), <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (1; 100%), <tt><a href="PronType.html">PronType</a>=Prs</tt> (1; 100%), <tt><a href="Case.html">Case</a>=Gen</tt> (1; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (1; 100%), <tt><a href="Person.html">Person</a>=3</tt> (1; 100%), <tt><a href="Poss.html">Poss</a>=Yes</tt> (1; 100%).
 
 `DET` tokens may have the following values of `Style`:
 
 * `Odd` (1; 100% of non-empty `Style`): <em>їх</em>
+
+### `ADV`
+
+1 [uk-pos/ADV]() tokens (0% of all `ADV` tokens) have a non-empty value of `Style`.
+
+The most frequent other feature values with which `ADV` and `Style` co-occurred: <tt><a href="PronType.html">PronType</a>=Dem</tt> (1; 100%), <tt><a href="Degree.html">Degree</a>=EMPTY</tt> (1; 100%).
+
+`ADV` tokens may have the following values of `Style`:
+
+* `Odd` (1; 100% of non-empty `Style`): <em>тепера</em>
 

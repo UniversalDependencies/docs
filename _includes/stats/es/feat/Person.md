@@ -94,7 +94,7 @@ The most frequent other feature values with which `AUX` and `Person` co-occurred
   <tr><td><tt><a href="Gender.html">Gender</a>=Fem|<a href="Number.html">Number</a>=Plur</tt></td><td></td><td></td><td><em>has</em></td></tr>
   <tr><td><tt><a href="Mood.html">Mood</a>=Cnd|<a href="Number.html">Number</a>=Sing</tt></td><td></td><td></td><td><em>habría</em></td></tr>
   <tr><td><tt><a href="Mood.html">Mood</a>=Cnd|<a href="Number.html">Number</a>=Plur</tt></td><td></td><td></td><td><em>habrían</em></td></tr>
-  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Tense.html">Tense</a>=Fut</tt></td><td></td><td></td><td><em>Habría, habrá</em></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Tense.html">Tense</a>=Fut</tt></td><td></td><td></td><td><em>habrá, Habría</em></td></tr>
   <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Tense.html">Tense</a>=Imp</tt></td><td></td><td></td><td><em>había, habría</em></td></tr>
   <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Tense.html">Tense</a>=Past</tt></td><td></td><td></td><td><em>hubo</em></td></tr>
   <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Tense.html">Tense</a>=Pres</tt></td><td><em>he</em></td><td><em>has</em></td><td><em>ha, hay</em></td></tr>
@@ -288,7 +288,7 @@ The most frequent other feature values with which `PRON` and `Person` co-occurre
   <tr><td><tt><a href="Gender.html">Gender</a>=Fem|<a href="Number.html">Number</a>=Plur|<a href="PronType.html">PronType</a>=Prs</tt></td><td></td><td><em>ellas, les</em></td></tr>
   <tr><td><tt><a href="Number.html">Number</a>=Sing</tt></td><td><em>me</em></td><td></td></tr>
   <tr><td><tt><a href="Number.html">Number</a>=Sing|<a href="PronType.html">PronType</a>=Prs</tt></td><td></td><td><em>ello</em></td></tr>
-  <tr><td><tt><a href="Number.html">Number</a>=Plur|<a href="PronType.html">PronType</a>=Prs</tt></td><td></td><td><em>Les, se</em></td></tr>
+  <tr><td><tt><a href="Number.html">Number</a>=Plur|<a href="PronType.html">PronType</a>=Prs</tt></td><td></td><td><em>se, Les</em></td></tr>
   <tr><td><tt><a href="PrepCase.html">PrepCase</a>=Pre|<a href="PronType.html">PronType</a>=Prs</tt></td><td></td><td><em>sí, consigo</em></td></tr>
   <tr><td><tt><a href="PronType.html">PronType</a>=Prs</tt></td><td></td><td><em>se</em></td></tr>
 </table>
@@ -297,7 +297,7 @@ The most frequent other feature values with which `PRON` and `Person` co-occurre
 
 4906 [es-pos/DET]() tokens (7% of all `DET` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `DET` and `Person` co-occurred: <tt><a href="Definite.html">Definite</a>=EMPTY</tt> (4906; 100%), <tt><a href="PronType.html">PronType</a>=Prs</tt> (4906; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (4645; 95%), <tt><a href="Number.html">Number</a>=Sing</tt> (3620; 74%).
+The most frequent other feature values with which `DET` and `Person` co-occurred: <tt><a href="PronType.html">PronType</a>=Prs</tt> (4906; 100%), <tt><a href="Definite.html">Definite</a>=EMPTY</tt> (4906; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (4645; 95%), <tt><a href="Number.html">Number</a>=Sing</tt> (3620; 74%).
 
 `DET` tokens may have the following values of `Person`:
 

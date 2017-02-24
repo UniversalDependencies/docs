@@ -11,9 +11,9 @@ The 10 most frequent `PRON` lemmas: <em>él, que, yo, uno, este, cual, quien, t�
 
 The 10 most frequent `PRON` types:  <em>se, lo, que, le, la, me, uno, cual, los, nos</em>
 
-The 10 most frequent ambiguous lemmas: <em>él</em> ([PRON]() 8676, [DET]() 13), <em>que</em> ([SCONJ]() 6085, [PRON]() 883, [CCONJ]() 662, [DET]() 9, [X]() 6, [PROPN]() 3, [ADV]() 2, [PART]() 1), <em>uno</em> ([DET]() 7461, [PRON]() 524, [NUM]() 102, [NOUN]() 2, [PROPN]() 2, [ADJ]() 1, [X]() 1), <em>este</em> ([DET]() 1584, [PRON]() 434, [NOUN]() 45, [VERB]() 45, [AUX]() 22, [PROPN]() 11), <em>cual</em> ([PRON]() 324, [NOUN]() 18, [ADV]() 1, [ADJ]() 1), <em>quien</em> ([PRON]() 237, [NOUN]() 8), <em>tú</em> ([PRON]() 237, [DET]() 1), <em>todo</em> ([DET]() 591, [PRON]() 229, [PROPN]() 6, [ADJ]() 1, [VERB]() 1, [PART]() 1, [NOUN]() 1), <em>otro</em> ([DET]() 684, [PRON]() 203, [ADJ]() 2, [PROPN]() 1, [X]() 1, [NOUN]() 1), <em>tanto</em> ([PRON]() 158, [ADV]() 129, [DET]() 26, [NOUN]() 8, [CCONJ]() 4, [SCONJ]() 1)
+The 10 most frequent ambiguous lemmas: <em>él</em> ([PRON]() 8676, [DET]() 13), <em>que</em> ([SCONJ]() 6085, [PRON]() 883, [CCONJ]() 662, [DET]() 9, [X]() 6, [PROPN]() 3, [ADV]() 2, [PART]() 1), <em>uno</em> ([DET]() 7461, [PRON]() 524, [NUM]() 102, [PROPN]() 2, [NOUN]() 2, [X]() 1, [ADJ]() 1), <em>este</em> ([DET]() 1584, [PRON]() 434, [NOUN]() 45, [VERB]() 45, [AUX]() 22, [PROPN]() 11), <em>cual</em> ([PRON]() 324, [NOUN]() 18, [ADV]() 1, [ADJ]() 1), <em>quien</em> ([PRON]() 237, [NOUN]() 8), <em>tú</em> ([PRON]() 237, [DET]() 1), <em>todo</em> ([DET]() 591, [PRON]() 229, [PROPN]() 6, [VERB]() 1, [PART]() 1, [NOUN]() 1, [ADJ]() 1), <em>otro</em> ([DET]() 684, [PRON]() 203, [ADJ]() 2, [PROPN]() 1, [NOUN]() 1, [X]() 1), <em>tanto</em> ([PRON]() 158, [ADV]() 129, [DET]() 26, [NOUN]() 8, [CCONJ]() 4, [SCONJ]() 1)
 
-The 10 most frequent ambiguous types:  <em>que</em> ([SCONJ]() 6075, [PRON]() 883, [CCONJ]() 662, [DET]() 8, [X]() 6, [PROPN]() 2, [ADV]() 2, [PART]() 1), <em>le</em> ([PRON]() 628, [DET]() 1), <em>la</em> ([DET]() 12973, [PRON]() 379), <em>uno</em> ([PRON]() 287, [NUM]() 18, [DET]() 1, [PROPN]() 1), <em>cual</em> ([PRON]() 287, [ADV]() 1), <em>los</em> ([DET]() 4807, [PRON]() 235), <em>una</em> ([DET]() 3186, [PRON]() 177, [NUM]() 34, [NOUN]() 2, [X]() 1), <em>les</em> ([PRON]() 160, [DET]() 1), <em>todo</em> ([DET]() 167, [PRON]() 160, [PROPN]() 1, [NOUN]() 1), <em>tanto</em> ([PRON]() 153, [ADV]() 22, [DET]() 8, [NOUN]() 4, [CCONJ]() 3, [SCONJ]() 1)
+The 10 most frequent ambiguous types:  <em>que</em> ([SCONJ]() 6075, [PRON]() 883, [CCONJ]() 662, [DET]() 8, [X]() 6, [ADV]() 2, [PROPN]() 2, [PART]() 1), <em>le</em> ([PRON]() 628, [DET]() 1), <em>la</em> ([DET]() 12973, [PRON]() 379), <em>uno</em> ([PRON]() 287, [NUM]() 18, [DET]() 1, [PROPN]() 1), <em>cual</em> ([PRON]() 287, [ADV]() 1), <em>los</em> ([DET]() 4807, [PRON]() 235), <em>una</em> ([DET]() 3186, [PRON]() 177, [NUM]() 34, [NOUN]() 2, [X]() 1), <em>les</em> ([PRON]() 160, [DET]() 1), <em>todo</em> ([DET]() 167, [PRON]() 160, [NOUN]() 1, [PROPN]() 1), <em>tanto</em> ([PRON]() 153, [ADV]() 22, [DET]() 8, [NOUN]() 4, [CCONJ]() 3, [SCONJ]() 1)
 
 
 * <em>que</em>
@@ -22,8 +22,8 @@ The 10 most frequent ambiguous types:  <em>que</em> ([SCONJ]() 6075, [PRON]() 88
   * [CCONJ]() 662: <em>Así <b>que</b> debemos dar le la bienvenida a el nuevo sistema .</em>
   * [DET]() 8: <em>El que sabe de Sushi comprobará que no hay un sushi igual en Valencia y a <b>que</b> precio !</em>
   * [X]() 6: <em>De este modo , el tomar agua cuando uno tiene sed , no es un acto egoísta aun <b>que</b> responda a un interés propio ;</em>
-  * [PROPN]() 2: <em>El libro Las 100 mejores películas <b>que</b> nunca has visto allá de la Mat incluye en su lista , afirmando que " la película funciona en un nivel casi de Shakespeare " .</em>
   * [ADV]() 2: <em>Menos mal <b>que</b> nos respalda nuestra trayectoria y la fidelidad de nuestros profesores y alumnos .</em>
+  * [PROPN]() 2: <em>El libro Las 100 mejores películas <b>que</b> nunca has visto allá de la Mat incluye en su lista , afirmando que " la película funciona en un nivel casi de Shakespeare " .</em>
   * [PART]() 1: <em>Además <b>que</b> en otras creperías de valladolid los crepes son más grandes y más baratos .</em>
 * <em>le</em>
   * [PRON]() 628: <em>Se <b>le</b> atribuye el mismo origen a el ganado cimarrón equino pampeano .</em>
@@ -54,8 +54,8 @@ The 10 most frequent ambiguous types:  <em>que</em> ([SCONJ]() 6075, [PRON]() 88
 * <em>todo</em>
   * [DET]() 167: <em>Tiene <b>todo</b> lo que necesitas para relajar te y pasar un buen rato .</em>
   * [PRON]() 160: <em>No <b>todo</b> es precio y cantidad .</em>
-  * [PROPN]() 1: <em>El primer libro titula La chica que lo tenía <b>todo</b> ( en inglés The Girl Who Had Everything ) , en donde narra su vida como modelo .</em>
   * [NOUN]() 1: <em>El uso de hardware y software comercial permite fáciles y sobre <b>todo</b> poco costosas modernizaciones , algo muy interesante a largo plazo .</em>
+  * [PROPN]() 1: <em>El primer libro titula La chica que lo tenía <b>todo</b> ( en inglés The Girl Who Had Everything ) , en donde narra su vida como modelo .</em>
 * <em>tanto</em>
   * [PRON]() 153: <em>Se puede comer <b>tanto</b> afuera como adentro .</em>
   * [ADV]() 22: <em>Estos supuestos son ciertos en cualquier lengua , por <b>tanto</b> universales .</em>
@@ -116,9 +116,9 @@ The 10 most frequent `PRON` lemmas: <em>que, él, se, yo, uno, donde, quien, tod
 
 The 10 most frequent `PRON` types:  <em>que, se, le, lo, me, donde, nos, uno, quien, la</em>
 
-The 10 most frequent ambiguous lemmas: <em>que</em> ([PRON]() 7660, [SCONJ]() 7064, [NOUN]() 3, [AUX]() 2, [CCONJ]() 1), <em>él</em> ([PRON]() 6901, [PROPN]() 1, [ADJ]() 1), <em>se</em> ([PRON]() 2069, [PROPN]() 2, [NOUN]() 1), <em>yo</em> ([PRON]() 1044, [NOUN]() 1, [PROPN]() 1), <em>uno</em> ([DET]() 8571, [PRON]() 658, [NOUN]() 8, [NUM]() 6, [X]() 1), <em>donde</em> ([PRON]() 375, [SCONJ]() 7, [ADV]() 1), <em>todo</em> ([DET]() 799, [PRON]() 367, [NOUN]() 2), <em>este</em> ([DET]() 1765, [PRON]() 305, [NOUN]() 12, [ADJ]() 3, [PROPN]() 1), <em>otro</em> ([DET]() 674, [PRON]() 291, [ADJ]() 19), <em>ese</em> ([DET]() 642, [PRON]() 243, [NOUN]() 2)
+The 10 most frequent ambiguous lemmas: <em>que</em> ([PRON]() 7660, [SCONJ]() 7064, [NOUN]() 3, [AUX]() 2, [CCONJ]() 1), <em>él</em> ([PRON]() 6901, [PROPN]() 1, [ADJ]() 1), <em>se</em> ([PRON]() 2069, [PROPN]() 2, [NOUN]() 1), <em>yo</em> ([PRON]() 1044, [PROPN]() 1, [NOUN]() 1), <em>uno</em> ([DET]() 8571, [PRON]() 658, [NOUN]() 8, [NUM]() 6, [X]() 1), <em>donde</em> ([PRON]() 375, [SCONJ]() 7, [ADV]() 1), <em>todo</em> ([DET]() 799, [PRON]() 367, [NOUN]() 2), <em>este</em> ([DET]() 1765, [PRON]() 305, [NOUN]() 12, [ADJ]() 3, [PROPN]() 1), <em>otro</em> ([DET]() 674, [PRON]() 291, [ADJ]() 19), <em>ese</em> ([DET]() 642, [PRON]() 243, [NOUN]() 2)
 
-The 10 most frequent ambiguous types:  <em>que</em> ([PRON]() 7655, [SCONJ]() 7033, [AUX]() 6, [CCONJ]() 1), <em>se</em> ([PRON]() 5605, [PROPN]() 2, [NOUN]() 1, [VERB]() 1), <em>le</em> ([PRON]() 917, [PROPN]() 2), <em>lo</em> ([DET]() 1051, [PRON]() 716), <em>me</em> ([PRON]() 358, [NOUN]() 2, [PROPN]() 1), <em>donde</em> ([PRON]() 373, [SCONJ]() 6, [ADV]() 1), <em>uno</em> ([PRON]() 290, [NOUN]() 8, [NUM]() 5, [DET]() 2, [X]() 1), <em>la</em> ([DET]() 16655, [PRON]() 288), <em>les</em> ([PRON]() 264, [DET]() 7), <em>todo</em> ([PRON]() 235, [DET]() 234, [NOUN]() 2)
+The 10 most frequent ambiguous types:  <em>que</em> ([PRON]() 7655, [SCONJ]() 7033, [AUX]() 6, [CCONJ]() 1), <em>se</em> ([PRON]() 5605, [PROPN]() 2, [VERB]() 1, [NOUN]() 1), <em>le</em> ([PRON]() 917, [PROPN]() 2), <em>lo</em> ([DET]() 1051, [PRON]() 716), <em>me</em> ([PRON]() 358, [NOUN]() 2, [PROPN]() 1), <em>donde</em> ([PRON]() 373, [SCONJ]() 6, [ADV]() 1), <em>uno</em> ([PRON]() 290, [NOUN]() 8, [NUM]() 5, [DET]() 2, [X]() 1), <em>la</em> ([DET]() 16655, [PRON]() 288), <em>les</em> ([PRON]() 264, [DET]() 7), <em>todo</em> ([PRON]() 235, [DET]() 234, [NOUN]() 2)
 
 
 * <em>que</em>
@@ -129,8 +129,8 @@ The 10 most frequent ambiguous types:  <em>que</em> ([PRON]() 7655, [SCONJ]() 70
 * <em>se</em>
   * [PRON]() 5605: <em>Cuando alguien <b>se</b> asomaba <b>se</b> quedaba enganchado .</em>
   * [PROPN]() 2: <em>" Europa se desliza hacia lo desconocido " , rezaba el diario Daily Telegraph en su portada , mientras que The Times escogió el titular " Europa <b>se</b> lanza al agua " .</em>
-  * [NOUN]() 1: <em>Mi querido Joaquín Ruiz-Giménez : Estas semanas atrás , en que hemos asistido a la presentación de la revista Claves , me han traído irremediablemente a la memoria las jornadas fundacionales de Cuadernos para el Diálogo , un empeño , si bien <b>se</b> mira , muy similar en muchas cosas al que ahora ve la luz .</em>
   * [VERB]() 1: <em>" Espero que si mi propuesta sale adelante , a más de uno <b>se</b> le caiga la cara de vergüenza " .</em>
+  * [NOUN]() 1: <em>Mi querido Joaquín Ruiz-Giménez : Estas semanas atrás , en que hemos asistido a la presentación de la revista Claves , me han traído irremediablemente a la memoria las jornadas fundacionales de Cuadernos para el Diálogo , un empeño , si bien <b>se</b> mira , muy similar en muchas cosas al que ahora ve la luz .</em>
 * <em>le</em>
   * [PRON]() 917: <em>Para poder dar <b>le</b> la bienvenida como se merece cuando regrese al timón .</em>
   * [PROPN]() 2: <em>El actor francés , de 66 años , representaba el papel principal de la obra Frederick ou <b>le</b> Boulevard du Crime en un teatro de Brest ( Francia ) .</em>

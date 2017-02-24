@@ -61,41 +61,35 @@ The following 7 pairs of parts of speech are connected with `csubj:pass`: [ro-po
 
 
 ~~~ conllu
-# visual-style 25	bgColor:blue
-# visual-style 25	fgColor:white
-# visual-style 17	bgColor:blue
-# visual-style 17	fgColor:white
-# visual-style 17 25 csubj:pass	color:blue
-1	(	(	PUNCT	LPAR	_	2	punct	_	SpaceAfter=No
-2	23	23	NUM	Mc-p-d	Number=Plur|NumForm=Digit|NumType=Card	17	parataxis	_	SpaceAfter=No
-3	)	)	PUNCT	RPAR	_	2	punct	_	_
-4	În	în	ADP	Spsa	AdpType=Prep|Case=Acc	5	case	_	_
-5	vederea	vedere	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	17	obl	_	_
-6	armonizării	armonizare	NOUN	Ncfsoy	Case=Dat,Gen|Definite=Def|Gender=Fem|Number=Sing	5	nmod	_	_
-7	și	și	CCONJ	Crssp	Polarity=Pos	8	cc	_	_
-8	facilitării	facilitare	NOUN	Ncfsoy	Case=Dat,Gen|Definite=Def|Gender=Fem|Number=Sing	6	conj	_	_
-9	procedurilor	procedură	NOUN	Ncfpoy	Case=Dat,Gen|Definite=Def|Gender=Fem|Number=Plur	6	nmod	_	_
-10	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	11	case	_	_
-11	import	import	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	9	nmod	_	_
-12	la	la	ADP	Spsa	AdpType=Prep|Case=Acc	13	case	_	_
-13	frontierele	frontieră	NOUN	Ncfpry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Plur	11	nmod	_	_
-14	Comunității	comunitate	NOUN	Ncfsoy	Case=Dat,Gen|Definite=Def|Gender=Fem|Number=Sing	13	nmod	_	SpaceAfter=No
-15	,	,	PUNCT	COMMA	_	5	punct	_	_
-16	este	fi	AUX	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	cop	_	_
-17	necesar	necesar	ADV	Rgp	Degree=Pos	0	root	_	_
-18	ca	ca	ADV	Rc	_	25	mark	_	_
-19	fiecare	fiecare	DET	Di3-sr---e	Case=Acc,Nom|Number=Sing|Person=3|Position=Prenom|PronType=Ind	20	det	_	_
-20	lot	lot	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	25	nsubj:pass	_	_
-21	destinat	destina	VERB	Vmp--sm	Gender=Masc|Number=Sing|VerbForm=Part	20	acl	_	_
-22	importului	import	NOUN	Ncmsoy	Case=Dat,Gen|Definite=Def|Gender=Masc|Number=Sing	21	iobj	_	_
-23	să	să	PART	Qs	Mood=Sub	25	mark	_	_
-24	fie	fi	AUX	Vasp3	Mood=Sub|Person=3|Tense=Pres|VerbForm=Fin	25	aux:pass	_	_
-25	însoțit	însoți	VERB	Vmp--sm	Gender=Masc|Number=Sing|VerbForm=Part	17	csubj:pass	_	_
-26	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	27	case	_	_
-27	certificatul	certificat	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	25	nmod:agent	_	_
-28	sanitar-veterinar	sanitar-veterinar	ADJ	Afpms-n	Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	27	amod	_	_
-29	corespunzător	corespunzător	ADJ	Afpms-n	Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	27	amod	_	SpaceAfter=No
-30	.	.	PUNCT	PERIOD	_	17	punct	_	_
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 8 csubj:pass	color:blue
+1	"	"	PUNCT	DBLQ	_	4	punct	_	SpaceAfter=No
+2	S-	sine	PRON	Px3--a--y-----w	Case=Acc|Person=3|PronType=Prs|Reflex=Yes|Strength=Weak|Variant=Short	4	expl:pass	_	SpaceAfter=No
+3	a	avea	AUX	Va--3s	Number=Sing|Person=3	4	aux	_	_
+4	stabilit	stabili	VERB	Vmp--sm	Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	_
+5	că	că	SCONJ	Csssp	Polarity=Pos	8	mark	_	_
+6	cel	cel	DET	Tdmsr	Case=Acc,Nom|Gender=Masc|Number=Sing|PronType=Dem	8	det	_	_
+7	mai	mai	ADV	Rp	_	8	advmod	_	_
+8	bine	bine	ADV	Rgp	Degree=Pos	4	csubj:pass	_	_
+9	este	fi	AUX	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_
+10	să	să	PART	Qs	Mood=Sub	11	mark	_	_
+11	jucăm	juca	VERB	Vmip1p	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	8	csubj	_	_
+12	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	13	case	_	_
+13	Sala	sală	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	11	obl	_	_
+14	B.N.R.	B.N.R.	NOUN	Yn	Abbr=Yes	13	nmod	_	SpaceAfter=No
+15	"	"	PUNCT	DBLQ	_	4	punct	_	SpaceAfter=No
+16	,	,	PUNCT	COMMA	_	18	punct	_	_
+17	a	avea	AUX	Va--3s	Number=Sing|Person=3	18	aux	_	_
+18	declarat	declara	VERB	Vmp--sm	Gender=Masc|Number=Sing|VerbForm=Part	4	parataxis	_	_
+19	căpitanul	căpitan	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	18	nsubj	_	_
+20	echipei	echipă	NOUN	Ncfsoy	Case=Dat,Gen|Definite=Def|Gender=Fem|Number=Sing	19	nmod	_	SpaceAfter=No
+21	,	,	PUNCT	COMMA	_	22	punct	_	_
+22	Otilia	Otilia	PROPN	Np	_	19	appos	_	_
+23	Bădescu	Bădescu	PROPN	Np	_	22	flat	_	SpaceAfter=No
+24	.	.	PUNCT	PERIOD	_	4	punct	_	_
 
 ~~~
 

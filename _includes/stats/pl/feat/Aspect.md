@@ -16,7 +16,7 @@ The feature is used with 4 part-of-speech tags: [pl-pos/VERB]() (9182; 13% insta
 
 9182 [pl-pos/VERB]() tokens (97% of all `VERB` tokens) have a non-empty value of `Aspect`.
 
-The most frequent other feature values with which `VERB` and `Aspect` co-occurred: <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (6380; 69%), <tt><a href="Number.html">Number</a>=Sing</tt> (5911; 64%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (5589; 61%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (5589; 61%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (4873; 53%), <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (4873; 53%).
+The most frequent other feature values with which `VERB` and `Aspect` co-occurred: <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (6380; 69%), <tt><a href="Number.html">Number</a>=Sing</tt> (5911; 64%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (5589; 61%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (5589; 61%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (4873; 53%), <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (4873; 53%).
 
 `VERB` tokens may have the following values of `Aspect`:
 
@@ -100,7 +100,7 @@ The 10 most frequent relations where parent and child node agree in `Aspect`:
 <tt>ADJ --[<a href="../dep/aux:pass.html">aux:pass</a>]--> AUX</tt> (181; 70%),
 <tt>VERB --[<a href="../dep/ccomp.html">ccomp</a>]--> AUX</tt> (4; 67%),
 <tt>AUX --[<a href="../dep/advcl.html">advcl</a>]--> VERB</tt> (2; 100%),
-<tt>ADJ --[<a href="../dep/conj.html">conj</a>]--> AUX</tt> (1; 100%),
+<tt>VERB --[<a href="../dep/punct.html">punct</a>]--> VERB</tt> (1; 100%),
 <tt>AUX --[<a href="../dep/aux.html">aux</a>]--> AUX</tt> (1; 100%),
-<tt>VERB --[<a href="../dep/punct.html">punct</a>]--> VERB</tt> (1; 100%).
+<tt>ADJ --[<a href="../dep/conj.html">conj</a>]--> AUX</tt> (1; 100%).
 

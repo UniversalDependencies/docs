@@ -13,7 +13,7 @@ The 10 most frequent `VERB` types:  <em>há, disse, tem, fazer, diz, ter, é, ve
 
 The 10 most frequent ambiguous lemmas: <em>ter</em> ([VERB]() 642, [AUX]() 558), <em>fazer</em> ([VERB]() 510, [AUX]() 1), <em>dizer</em> ([VERB]() 480, [NOUN]() 4), <em>haver</em> ([VERB]() 337, [AUX]() 41, [ADP]() 1), <em>dar</em> ([VERB]() 235, [PROPN]() 2), <em>ser</em> ([AUX]() 3241, [VERB]() 213, [NOUN]() 9, [ADV]() 6), <em>ficar</em> ([VERB]() 172, [AUX]() 11), <em>ver</em> ([VERB]() 167, [PROPN]() 4, [NOUN]() 1, [INTJ]() 1), <em>ir</em> ([AUX]() 358, [VERB]() 158), <em>passar</em> ([VERB]() 143, [AUX]() 41)
 
-The 10 most frequent ambiguous types:  <em>há</em> ([VERB]() 184, [ADP]() 36, [AUX]() 3), <em>tem</em> ([VERB]() 184, [AUX]() 105), <em>fazer</em> ([VERB]() 128, [AUX]() 1), <em>ter</em> ([AUX]() 139, [VERB]() 98), <em>é</em> ([AUX]() 986, [VERB]() 87, [ADP]() 27, [ADV]() 15, [PROPN]() 3, [INTJ]() 1), <em>ver</em> ([VERB]() 74, [NOUN]() 1), <em>foi</em> ([AUX]() 466, [VERB]() 61, [ADV]() 7), <em>têm</em> ([VERB]() 53, [AUX]() 53), <em>teve</em> ([VERB]() 52, [AUX]() 9), <em>dizer</em> ([VERB]() 50, [NOUN]() 4)
+The 10 most frequent ambiguous types:  <em>há</em> ([VERB]() 184, [ADP]() 36, [AUX]() 3), <em>tem</em> ([VERB]() 184, [AUX]() 105), <em>fazer</em> ([VERB]() 128, [AUX]() 1), <em>ter</em> ([AUX]() 139, [VERB]() 98), <em>é</em> ([AUX]() 986, [VERB]() 87, [ADP]() 27, [ADV]() 15, [PROPN]() 3, [INTJ]() 1), <em>ver</em> ([VERB]() 74, [NOUN]() 1), <em>foi</em> ([AUX]() 466, [VERB]() 61, [ADV]() 7), <em>têm</em> ([AUX]() 53, [VERB]() 53), <em>teve</em> ([VERB]() 52, [AUX]() 9), <em>dizer</em> ([VERB]() 50, [NOUN]() 4)
 
 
 * <em>há</em>
@@ -44,8 +44,8 @@ The 10 most frequent ambiguous types:  <em>há</em> ([VERB]() 184, [ADP]() 36, [
   * [VERB]() 61: <em>A chegada a o hotel <b>foi</b> a as 12h10 ( 16h10 em Brasília ) .</em>
   * [ADV]() 7: <em>Por acaso até <b>foi</b> uma menina que se enfiou em o teu pára-quedas . »</em>
 * <em>têm</em>
-  * [VERB]() 53: <em>A bem dizer , todos <b>têm</b> razão .</em>
   * [AUX]() 53: <em>Os acordos de concertação social <b>têm</b> vigorado sempre por um ano .</em>
+  * [VERB]() 53: <em>A bem dizer , todos <b>têm</b> razão .</em>
 * <em>teve</em>
   * [VERB]() 52: <em>Foi em 1913 que a aventura <b>teve</b> início .</em>
   * [AUX]() 9: <em>E , assim , tudo o que os afro-americanos faziam bem <b>teve</b> de ser colocado em termos que menosprezassem a qualidade em questão .</em>
@@ -107,15 +107,15 @@ The 10 most frequent `VERB` types:  <em>é, foi, tem, disse, está, são, há, s
 
 The 10 most frequent ambiguous lemmas: <em>_</em> ([NOUN]() 51670, [PUNCT]() 37916, [PROPN]() 29660, [ADP]() 27823, [VERB]() 26752, [DET]() 23518, [ADJ]() 13618, [CCONJ]() 9896, [ADV]() 8825, [NUM]() 7639, [PRON]() 6681, [AUX]() 4729, [PART]() 687, [X]() 472)
 
-The 10 most frequent ambiguous types:  <em>é</em> ([VERB]() 1365, [AUX]() 207, [PROPN]() 1, [PART]() 1, [ADV]() 1), <em>foi</em> ([AUX]() 683, [VERB]() 394, [PROPN]() 1, [PART]() 1), <em>tem</em> ([VERB]() 311, [AUX]() 79), <em>está</em> ([VERB]() 269, [AUX]() 103), <em>são</em> ([VERB]() 222, [AUX]() 85, [ADJ]() 4), <em>há</em> ([VERB]() 188, [AUX]() 1), <em>ser</em> ([AUX]() 325, [VERB]() 193, [NOUN]() 7, [PROPN]() 1), <em>era</em> ([VERB]() 149, [AUX]() 39, [NOUN]() 6), <em>estão</em> ([VERB]() 149, [AUX]() 65), <em>fazer</em> ([VERB]() 145, [NOUN]() 1)
+The 10 most frequent ambiguous types:  <em>é</em> ([VERB]() 1365, [AUX]() 207, [ADV]() 1, [PROPN]() 1, [PART]() 1), <em>foi</em> ([AUX]() 683, [VERB]() 394, [PROPN]() 1, [PART]() 1), <em>tem</em> ([VERB]() 311, [AUX]() 79), <em>está</em> ([VERB]() 269, [AUX]() 103), <em>são</em> ([VERB]() 222, [AUX]() 85, [ADJ]() 4), <em>há</em> ([VERB]() 188, [AUX]() 1), <em>ser</em> ([AUX]() 325, [VERB]() 193, [NOUN]() 7, [PROPN]() 1), <em>era</em> ([VERB]() 149, [AUX]() 39, [NOUN]() 6), <em>estão</em> ([VERB]() 149, [AUX]() 65), <em>fazer</em> ([VERB]() 145, [NOUN]() 1)
 
 
 * <em>é</em>
   * [VERB]() 1365: <em>A Nina <b>é</b> a chance de ele ser feliz .</em>
   * [AUX]() 207: <em>A confusão de identidade <b>é</b> levada com destreza por a diretora .</em>
+  * [ADV]() 1: <em>Eu não me detenho muito en as análises a respeito de 2010 porque <b>é</b> muito pouco tempo .</em>
   * [PROPN]() 1: <em>Já o candidato Carlos Amastha ( PP ) , coligação " Um novo caminho <b>é</b> possível " , grava programa eleitoral , faz reunião com coordenadores de campanha e se prepara para o debate .</em>
   * [PART]() 1: <em>Pois <b>é</b> , o ronco de os motores é alto com qualquer tempo .</em>
-  * [ADV]() 1: <em>Eu não me detenho muito en as análises a respeito de 2010 porque <b>é</b> muito pouco tempo .</em>
 * <em>foi</em>
   * [AUX]() 683: <em>Dois anos depois , ele <b>foi</b> preso -- e eu nunca o vi novamente .</em>
   * [VERB]() 394: <em>Você <b>foi</b> a única coisa boa que eu fiz en a vida .</em>

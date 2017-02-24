@@ -41,7 +41,7 @@ The most frequent other feature values with which `PRON` and `Case` co-occurred:
 
 797 [bg-pos/DET]() tokens (37% of all `DET` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `DET` and `Case` co-occurred: <tt><a href="Person.html">Person</a>=EMPTY</tt> (797; 100%), <tt><a href="Poss.html">Poss</a>=EMPTY</tt> (797; 100%), <tt><a href="Definite.html">Definite</a>=EMPTY</tt> (639; 80%), <tt><a href="Number.html">Number</a>=Sing</tt> (613; 77%).
+The most frequent other feature values with which `DET` and `Case` co-occurred: <tt><a href="Poss.html">Poss</a>=EMPTY</tt> (797; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (797; 100%), <tt><a href="Definite.html">Definite</a>=EMPTY</tt> (639; 80%), <tt><a href="Number.html">Number</a>=Sing</tt> (613; 77%).
 
 `DET` tokens may have the following values of `Case`:
 
@@ -60,7 +60,7 @@ The most frequent other feature values with which `DET` and `Case` co-occurred: 
 
 23 [bg-pos/ADJ]() tokens (0% of all `ADJ` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `ADJ` and `Case` co-occurred: <tt><a href="Definite.html">Definite</a>=EMPTY</tt> (23; 100%), <tt><a href="VerbForm.html">VerbForm</a>=EMPTY</tt> (23; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (23; 100%), <tt><a href="Aspect.html">Aspect</a>=EMPTY</tt> (23; 100%), <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (23; 100%), <tt><a href="Degree.html">Degree</a>=Pos</tt> (23; 100%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (23; 100%).
+The most frequent other feature values with which `ADJ` and `Case` co-occurred: <tt><a href="Degree.html">Degree</a>=Pos</tt> (23; 100%), <tt><a href="Aspect.html">Aspect</a>=EMPTY</tt> (23; 100%), <tt><a href="Definite.html">Definite</a>=EMPTY</tt> (23; 100%), <tt><a href="VerbForm.html">VerbForm</a>=EMPTY</tt> (23; 100%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (23; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (23; 100%), <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (23; 100%).
 
 `ADJ` tokens may have the following values of `Case`:
 
@@ -73,7 +73,7 @@ The most frequent other feature values with which `ADJ` and `Case` co-occurred: 
 
 5 [bg-pos/PROPN]() tokens (0% of all `PROPN` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `PROPN` and `Case` co-occurred: <tt><a href="Definite.html">Definite</a>=EMPTY</tt> (5; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (5; 100%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (4; 80%).
+The most frequent other feature values with which `PROPN` and `Case` co-occurred: <tt><a href="Number.html">Number</a>=Sing</tt> (5; 100%), <tt><a href="Definite.html">Definite</a>=EMPTY</tt> (5; 100%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (4; 80%).
 
 `PROPN` tokens may have the following values of `Case`:
 

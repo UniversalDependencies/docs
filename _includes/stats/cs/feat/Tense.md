@@ -16,7 +16,7 @@ The feature is used with 3 part-of-speech tags: [cs-pos/VERB]() (97291; 7% insta
 
 97291 [cs-pos/VERB]() tokens (81% of all `VERB` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="Voice.html">Voice</a>=Act</tt> (97291; 100%), <tt><a href="Polarity.html">Polarity</a>=Pos</tt> (86911; 89%), <tt><a href="Number.html">Number</a>=Sing</tt> (61718; 63%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (52717; 54%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (52699; 54%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (52699; 54%).
+The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="Voice.html">Voice</a>=Act</tt> (97291; 100%), <tt><a href="Polarity.html">Polarity</a>=Pos</tt> (86911; 89%), <tt><a href="Number.html">Number</a>=Sing</tt> (61718; 63%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (52717; 54%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (52699; 54%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (52699; 54%).
 
 `VERB` tokens may have the following values of `Tense`:
 
@@ -143,7 +143,7 @@ The feature is used with 3 part-of-speech tags: [cs-pos/VERB]() (31799; 7% insta
 
 31799 [cs-pos/VERB]() tokens (80% of all `VERB` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="Voice.html">Voice</a>=Act</tt> (31799; 100%), <tt><a href="Polarity.html">Polarity</a>=Pos</tt> (29023; 91%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (21430; 67%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (21424; 67%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (21424; 67%), <tt><a href="Number.html">Number</a>=Sing</tt> (18350; 58%), <tt><a href="Person.html">Person</a>=3</tt> (18045; 57%).
+The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="Voice.html">Voice</a>=Act</tt> (31799; 100%), <tt><a href="Polarity.html">Polarity</a>=Pos</tt> (29023; 91%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (21430; 67%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (21424; 67%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (21424; 67%), <tt><a href="Number.html">Number</a>=Sing</tt> (18350; 58%), <tt><a href="Person.html">Person</a>=3</tt> (18045; 57%).
 
 `VERB` tokens may have the following values of `Tense`:
 
@@ -262,7 +262,7 @@ The feature is used with 3 part-of-speech tags: [cs-pos/VERB]() (1046; 4% instan
 
 1046 [cs-pos/VERB]() tokens (73% of all `VERB` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="Voice.html">Voice</a>=Act</tt> (1046; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (966; 92%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (966; 92%), <tt><a href="Person.html">Person</a>=3</tt> (966; 92%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (966; 92%), <tt><a href="Polarity.html">Polarity</a>=Pos</tt> (918; 88%), <tt><a href="Number.html">Number</a>=Sing</tt> (689; 66%).
+The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="Voice.html">Voice</a>=Act</tt> (1046; 100%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (966; 92%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (966; 92%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (966; 92%), <tt><a href="Person.html">Person</a>=3</tt> (966; 92%), <tt><a href="Polarity.html">Polarity</a>=Pos</tt> (918; 88%), <tt><a href="Number.html">Number</a>=Sing</tt> (689; 66%).
 
 `VERB` tokens may have the following values of `Tense`:
 
@@ -283,7 +283,7 @@ The most frequent other feature values with which `VERB` and `Tense` co-occurred
 
 367 [cs-pos/AUX]() tokens (84% of all `AUX` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `AUX` and `Tense` co-occurred: <tt><a href="Voice.html">Voice</a>=Act</tt> (367; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (329; 90%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (329; 90%), <tt><a href="Person.html">Person</a>=3</tt> (329; 90%), <tt><a href="Polarity.html">Polarity</a>=Pos</tt> (320; 87%), <tt><a href="Number.html">Number</a>=Sing</tt> (187; 51%).
+The most frequent other feature values with which `AUX` and `Tense` co-occurred: <tt><a href="Voice.html">Voice</a>=Act</tt> (367; 100%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (329; 90%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (329; 90%), <tt><a href="Person.html">Person</a>=3</tt> (329; 90%), <tt><a href="Polarity.html">Polarity</a>=Pos</tt> (320; 87%), <tt><a href="Number.html">Number</a>=Sing</tt> (187; 51%).
 
 `AUX` tokens may have the following values of `Tense`:
 
@@ -325,6 +325,6 @@ The 10 most frequent relations where parent and child node agree in `Tense`:
 <tt>VERB --[<a href="../dep/conj.html">conj</a>]--> VERB</tt> (102; 75%),
 <tt>VERB --[<a href="../dep/advcl.html">advcl</a>]--> VERB</tt> (39; 59%),
 <tt>VERB --[<a href="../dep/parataxis.html">parataxis</a>]--> VERB</tt> (16; 94%),
-<tt>VERB --[<a href="../dep/appos.html">appos</a>]--> VERB</tt> (1; 100%),
-<tt>VERB --[<a href="../dep/csubj:pass.html">csubj:pass</a>]--> VERB</tt> (1; 100%).
+<tt>VERB --[<a href="../dep/csubj:pass.html">csubj:pass</a>]--> VERB</tt> (1; 100%),
+<tt>VERB --[<a href="../dep/appos.html">appos</a>]--> VERB</tt> (1; 100%).
 

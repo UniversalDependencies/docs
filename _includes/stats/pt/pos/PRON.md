@@ -11,7 +11,7 @@ The 10 most frequent `PRON` lemmas: <em>que, se, ele, o, eu, ela, isso, quem, el
 
 The 10 most frequent `PRON` types:  <em>que, se, o, ele, isso, quem, lhe, tudo, eles, ela</em>
 
-The 10 most frequent ambiguous lemmas: <em>que</em> ([PRON]() 2542, [SCONJ]() 1545, [ADV]() 86, [NOUN]() 53, [DET]() 18, [PROPN]() 12, [ADP]() 9, [X]() 1), <em>se</em> ([PRON]() 1380, [SCONJ]() 266, [ADP]() 2), <em>o</em> ([DET]() 26587, [PRON]() 506, [PROPN]() 9, [NOUN]() 4, [ADP]() 3), <em>ela</em> ([PRON]() 167, [NOUN]() 1), <em>isso</em> ([PRON]() 160, [NOUN]() 1), <em>quem</em> ([PRON]() 133, [ADV]() 1), <em>tudo</em> ([PRON]() 106, [DET]() 3), <em>outro</em> ([DET]() 266, [PRON]() 94, [NOUN]() 1), <em>este</em> ([DET]() 557, [PRON]() 86), <em>qual</em> ([PRON]() 84, [DET]() 17, [INTJ]() 1, [ADV]() 1)
+The 10 most frequent ambiguous lemmas: <em>que</em> ([PRON]() 2542, [SCONJ]() 1545, [ADV]() 86, [NOUN]() 53, [DET]() 18, [PROPN]() 12, [ADP]() 9, [X]() 1), <em>se</em> ([PRON]() 1380, [SCONJ]() 266, [ADP]() 2), <em>o</em> ([DET]() 26587, [PRON]() 506, [PROPN]() 9, [NOUN]() 4, [ADP]() 3), <em>ela</em> ([PRON]() 167, [NOUN]() 1), <em>isso</em> ([PRON]() 160, [NOUN]() 1), <em>quem</em> ([PRON]() 133, [ADV]() 1), <em>tudo</em> ([PRON]() 106, [DET]() 3), <em>outro</em> ([DET]() 266, [PRON]() 94, [NOUN]() 1), <em>este</em> ([DET]() 557, [PRON]() 86), <em>qual</em> ([PRON]() 84, [DET]() 17, [ADV]() 1, [INTJ]() 1)
 
 The 10 most frequent ambiguous types:  <em>que</em> ([PRON]() 2536, [SCONJ]() 1537, [ADV]() 86, [NOUN]() 53, [DET]() 15, [PROPN]() 12, [ADP]() 9, [X]() 1), <em>se</em> ([PRON]() 1362, [SCONJ]() 180, [ADP]() 2), <em>o</em> ([DET]() 9876, [PRON]() 494, [PROPN]() 9, [NOUN]() 4), <em>isso</em> ([PRON]() 147, [NOUN]() 1), <em>quem</em> ([PRON]() 101, [ADV]() 1), <em>tudo</em> ([PRON]() 89, [DET]() 3), <em>ela</em> ([PRON]() 75, [NOUN]() 1), <em>a</em> ([DET]() 9174, [ADP]() 3836, [PRON]() 88, [PROPN]() 14, [NOUN]() 3, [ADV]() 2), <em>me</em> ([PRON]() 82, [PROPN]() 2), <em>os</em> ([DET]() 3204, [PRON]() 76, [ADP]() 5, [PROPN]() 4)
 
@@ -116,7 +116,7 @@ The 10 most frequent `PRON` types:  <em>que, se, ele, isso, o, ela, um, eu, eles
 
 The 10 most frequent ambiguous lemmas: <em>_</em> ([NOUN]() 51670, [PUNCT]() 37916, [PROPN]() 29660, [ADP]() 27823, [VERB]() 26752, [DET]() 23518, [ADJ]() 13618, [CCONJ]() 9896, [ADV]() 8825, [NUM]() 7639, [PRON]() 6681, [AUX]() 4729, [PART]() 687, [X]() 472)
 
-The 10 most frequent ambiguous types:  <em>que</em> ([PRON]() 2673, [CCONJ]() 2020, [ADP]() 107, [DET]() 6, [NOUN]() 3, [X]() 1), <em>se</em> ([PRON]() 687, [PART]() 362, [CCONJ]() 173, [ADP]() 3, [PROPN]() 1), <em>o</em> ([DET]() 14809, [PRON]() 204, [ADP]() 1, [X]() 1, [PROPN]() 1), <em>ela</em> ([PRON]() 122, [NOUN]() 3), <em>um</em> ([DET]() 1545, [PRON]() 154, [NUM]() 105, [NOUN]() 1), <em>você</em> ([PRON]() 80, [PROPN]() 1), <em>uma</em> ([DET]() 1467, [NUM]() 82, [PRON]() 78), <em>qual</em> ([PRON]() 72, [DET]() 8), <em>me</em> ([PRON]() 64, [ADP]() 1), <em>nós</em> ([PRON]() 35, [NOUN]() 7)
+The 10 most frequent ambiguous types:  <em>que</em> ([PRON]() 2673, [CCONJ]() 2020, [ADP]() 107, [DET]() 6, [NOUN]() 3, [X]() 1), <em>se</em> ([PRON]() 687, [PART]() 362, [CCONJ]() 173, [ADP]() 3, [PROPN]() 1), <em>o</em> ([DET]() 14809, [PRON]() 204, [PROPN]() 1, [X]() 1, [ADP]() 1), <em>ela</em> ([PRON]() 122, [NOUN]() 3), <em>um</em> ([DET]() 1545, [PRON]() 154, [NUM]() 105, [NOUN]() 1), <em>você</em> ([PRON]() 80, [PROPN]() 1), <em>uma</em> ([DET]() 1467, [NUM]() 82, [PRON]() 78), <em>qual</em> ([PRON]() 72, [DET]() 8), <em>me</em> ([PRON]() 64, [ADP]() 1), <em>nós</em> ([PRON]() 35, [NOUN]() 7)
 
 
 * <em>que</em>
@@ -135,9 +135,9 @@ The 10 most frequent ambiguous types:  <em>que</em> ([PRON]() 2673, [CCONJ]() 20
 * <em>o</em>
   * [DET]() 14809: <em>O couro de <b>o</b> peixe sempre rende " , conta .</em>
   * [PRON]() 204: <em>Dois anos depois , ele foi preso -- e eu nunca <b>o</b> vi novamente .</em>
-  * [ADP]() 1: <em>Como mostra minha defesa , as reuniões en a Casa Civil com representantes de bancos e empresários são compatíveis com a função de ministro e em momento algum , como atestam os testemunhos , foram <b>o</b> fórum para discutir empréstimos .</em>
-  * [X]() 1: <em>Aproveita ai muito os ultimos dias e vamos com certeza tomar variasss \ <b>o</b> / 2 semanas atrás</em>
   * [PROPN]() 1: <em>En o entanto , em conjunto com a Paróquia de Aver - <b>o</b> - Mar , a paróquia encontra - se a esboçar uma igreja interparoquial de grandes dimensões , dado que a construção em altura domina o Agro - Velho .</em>
+  * [X]() 1: <em>Aproveita ai muito os ultimos dias e vamos com certeza tomar variasss \ <b>o</b> / 2 semanas atrás</em>
+  * [ADP]() 1: <em>Como mostra minha defesa , as reuniões en a Casa Civil com representantes de bancos e empresários são compatíveis com a função de ministro e em momento algum , como atestam os testemunhos , foram <b>o</b> fórum para discutir empréstimos .</em>
 * <em>ela</em>
   * [PRON]() 122: <em>Logo Maria descobre que <b>ela</b> está grávida .</em>
   * [NOUN]() 3: <em>Eu não desejo mal para <b>ela</b> , mas ela não precisa ter essa agressividade comigo .</em>

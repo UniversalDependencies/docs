@@ -77,7 +77,7 @@ The most frequent other feature values with which `AUX` and `Mood` co-occurred: 
 
 922 [ur-pos/VERB]() tokens (9% of all `VERB` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="Aspect.html">Aspect</a>=EMPTY</tt> (922; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (922; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (921; 100%), <tt><a href="Voice.html">Voice</a>=Act</tt> (809; 88%), <tt><a href="Person.html">Person</a>=3</tt> (645; 70%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (610; 66%), <tt><a href="Number.html">Number</a>=Sing</tt> (546; 59%).
+The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (922; 100%), <tt><a href="Aspect.html">Aspect</a>=EMPTY</tt> (922; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (921; 100%), <tt><a href="Voice.html">Voice</a>=Act</tt> (809; 88%), <tt><a href="Person.html">Person</a>=3</tt> (645; 70%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (610; 66%), <tt><a href="Number.html">Number</a>=Sing</tt> (546; 59%).
 
 `VERB` tokens may have the following values of `Mood`:
 
@@ -90,7 +90,7 @@ The most frequent other feature values with which `VERB` and `Mood` co-occurred:
   <tr><th>Paradigm <i>کر</i></th><th><tt>Ind</tt></th><th><tt>Imp</tt></th><th><tt>Sub</tt></th></tr>
   <tr><td><tt><a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3|<a href="Polite.html">Polite</a>=Form|<a href="Tense.html">Tense</a>=Fut|<a href="Voice.html">Voice</a>=Act</tt></td><td>کریں_گے, کریںگے</td><td></td><td></td></tr>
   <tr><td><tt><a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3|<a href="Polite.html">Polite</a>=Form|<a href="Voice.html">Voice</a>=Act</tt></td><td></td><td></td><td>کریں_گے, کریں</td></tr>
-  <tr><td><tt><a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Fut|<a href="Voice.html">Voice</a>=Act</tt></td><td>کریں_گے, کرےگا, کریگا</td><td></td><td></td></tr>
+  <tr><td><tt><a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Fut|<a href="Voice.html">Voice</a>=Act</tt></td><td>کریں_گے, کریگا, کرےگا</td><td></td><td></td></tr>
   <tr><td><tt><a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3|<a href="Voice.html">Voice</a>=Act</tt></td><td></td><td></td><td>کریں, کرے</td></tr>
   <tr><td><tt><a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3|<a href="Voice.html">Voice</a>=Pass</tt></td><td></td><td></td><td>کریں</td></tr>
   <tr><td><tt><a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Sing|<a href="Tense.html">Tense</a>=Fut|<a href="Voice.html">Voice</a>=Act</tt></td><td>کریں_گے</td><td></td><td></td></tr>
@@ -112,7 +112,7 @@ The most frequent other feature values with which `VERB` and `Mood` co-occurred:
   <tr><td><tt><a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Fut|<a href="Voice.html">Voice</a>=Act</tt></td><td>کرےگی, کرےگا, کریںگے</td><td></td><td></td></tr>
   <tr><td><tt><a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Fut|<a href="Voice.html">Voice</a>=Pass</tt></td><td>کرےگا</td><td></td><td></td></tr>
   <tr><td><tt><a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3|<a href="Voice.html">Voice</a>=Act</tt></td><td></td><td></td><td>کرے, کریں</td></tr>
-  <tr><td><tt><a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3|<a href="Voice.html">Voice</a>=Pass</tt></td><td></td><td></td><td>کرے, کریں</td></tr>
+  <tr><td><tt><a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3|<a href="Voice.html">Voice</a>=Pass</tt></td><td></td><td></td><td>کریں, کرے</td></tr>
   <tr><td><tt><a href="Number.html">Number</a>=Sing|<a href="Tense.html">Tense</a>=Fut|<a href="Voice.html">Voice</a>=Act</tt></td><td>کریں_گے</td><td></td><td></td></tr>
   <tr><td><tt><a href="Number.html">Number</a>=Sing</tt></td><td></td><td></td><td>کریں</td></tr>
   <tr><td><tt><a href="Number.html">Number</a>=Sing|<a href="Voice.html">Voice</a>=Act</tt></td><td></td><td></td><td>کریں, کرے</td></tr>

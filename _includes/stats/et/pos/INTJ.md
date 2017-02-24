@@ -11,9 +11,9 @@ The 10 most frequent `INTJ` lemmas: <em>no, noh, ah, no_jah, kok, aitäh, issand
 
 The 10 most frequent `INTJ` types:  <em>no, noh, ah, nojah, kok, Aitäh, Issand, Oh, kurat, ooo</em>
 
-The 10 most frequent ambiguous lemmas: <em>kok</em> ([INTJ]() 3, [NOUN]() 3), <em>issand</em> ([INTJ]() 2, [NOUN]() 2), <em>kurat</em> ([NOUN]() 4, [INTJ]() 2), <em>vaat</em> ([INTJ]() 2, [NOUN]() 1), <em>soo</em> ([NOUN]() 2, [INTJ]() 1)
+The 10 most frequent ambiguous lemmas: <em>kok</em> ([NOUN]() 3, [INTJ]() 3), <em>issand</em> ([INTJ]() 2, [NOUN]() 2), <em>kurat</em> ([NOUN]() 4, [INTJ]() 2), <em>vaat</em> ([INTJ]() 2, [NOUN]() 1), <em>soo</em> ([NOUN]() 2, [INTJ]() 1)
 
-The 10 most frequent ambiguous types:  <em>kok</em> ([NOUN]() 3, [INTJ]() 2), <em>kurat</em> ([NOUN]() 2, [INTJ]() 1), <em>Hommikust</em> ([INTJ]() 1, [NOUN]() 1), <em>palun</em> ([VERB]() 1, [INTJ]() 1)
+The 10 most frequent ambiguous types:  <em>kok</em> ([NOUN]() 3, [INTJ]() 2), <em>kurat</em> ([NOUN]() 2, [INTJ]() 1), <em>Hommikust</em> ([NOUN]() 1, [INTJ]() 1), <em>palun</em> ([INTJ]() 1, [VERB]() 1)
 
 
 * <em>kok</em>
@@ -23,11 +23,11 @@ The 10 most frequent ambiguous types:  <em>kok</em> ([NOUN]() 3, [INTJ]() 2), <e
   * [NOUN]() 2: <em>Kurat neid teab , <b>kurat</b> neid teab ... aga näe , elavad ja mängivad .</em>
   * [INTJ]() 1: <em>Siis oli veel nõukogude võim , <b>kurat</b> ! " saavutab Sõmera hääl kõrgpunkti .</em>
 * <em>Hommikust</em>
-  * [INTJ]() 1: <em><b>Hommikust</b> Eesti , Soome ja Setumaa .</em>
   * [NOUN]() 1: <em><b>Hommikust</b> õhtuni liigutasime toole .</em>
+  * [INTJ]() 1: <em><b>Hommikust</b> Eesti , Soome ja Setumaa .</em>
 * <em>palun</em>
-  * [VERB]() 1: <em>" Juudas , <b>palun</b> ära tee ! " hüüatas Kris peaaegu tahtmatult , kui nad ühest järsemast kurvist peaaegu välja oleksid lennanud .</em>
   * [INTJ]() 1: <em>" Selgitage <b>palun</b> lühidalt , mis on blanko-idosseeritud puhas Pardakonossment ! "</em>
+  * [VERB]() 1: <em>" Juudas , <b>palun</b> ära tee ! " hüüatas Kris peaaegu tahtmatult , kui nad ühest järsemast kurvist peaaegu välja oleksid lennanud .</em>
 
 ## Morphology
 

@@ -16,7 +16,7 @@ The feature is used with 2 part-of-speech tags: [lv-pos/VERB]() (1388; 3% instan
 
 1388 [lv-pos/VERB]() tokens (19% of all `VERB` tokens) have a non-empty value of `Definite`.
 
-The most frequent other feature values with which `VERB` and `Definite` co-occurred: <tt><a href="Polarity.html">Polarity</a>=EMPTY</tt> (1388; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (1388; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (1388; 100%), <tt><a href="Evident.html">Evident</a>=EMPTY</tt> (1388; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (1382; 100%), <tt><a href="Degree.html">Degree</a>=Pos</tt> (1381; 99%), <tt><a href="Reflex.html">Reflex</a>=EMPTY</tt> (1287; 93%), <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (1180; 85%), <tt><a href="Aspect.html">Aspect</a>=Perf</tt> (1176; 85%), <tt><a href="Tense.html">Tense</a>=Past</tt> (1176; 85%).
+The most frequent other feature values with which `VERB` and `Definite` co-occurred: <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (1388; 100%), <tt><a href="Evident.html">Evident</a>=EMPTY</tt> (1388; 100%), <tt><a href="Polarity.html">Polarity</a>=EMPTY</tt> (1388; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (1388; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (1382; 100%), <tt><a href="Degree.html">Degree</a>=Pos</tt> (1381; 99%), <tt><a href="Reflex.html">Reflex</a>=EMPTY</tt> (1287; 93%), <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (1180; 85%), <tt><a href="Aspect.html">Aspect</a>=Perf</tt> (1176; 85%), <tt><a href="Tense.html">Tense</a>=Past</tt> (1176; 85%).
 
 `VERB` tokens may have the following values of `Definite`:
 
@@ -43,7 +43,7 @@ The most frequent other feature values with which `VERB` and `Definite` co-occur
 
 70 [lv-pos/ADJ]() tokens (3% of all `ADJ` tokens) have a non-empty value of `Definite`.
 
-The most frequent other feature values with which `ADJ` and `Definite` co-occurred: <tt><a href="Degree.html">Degree</a>=Pos</tt> (70; 100%), <tt><a href="NumType.html">NumType</a>=Ord</tt> (70; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (60; 86%), <tt><a href="Gender.html">Gender</a>=Fem</tt> (42; 60%).
+The most frequent other feature values with which `ADJ` and `Definite` co-occurred: <tt><a href="NumType.html">NumType</a>=Ord</tt> (70; 100%), <tt><a href="Degree.html">Degree</a>=Pos</tt> (70; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (60; 86%), <tt><a href="Gender.html">Gender</a>=Fem</tt> (42; 60%).
 
 `ADJ` tokens may have the following values of `Definite`:
 

@@ -91,7 +91,7 @@ The most frequent other feature values with which `PART` and `Tense` co-occurred
 
 2 [ga-pos/X]() tokens (1% of all `X` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `X` and `Tense` co-occurred: <tt><a href="Dialect.html">Dialect</a>=Munster</tt> (2; 100%), <tt><a href="Abbr.html">Abbr</a>=EMPTY</tt> (2; 100%), <tt><a href="PronType.html">PronType</a>=EMPTY</tt> (2; 100%).
+The most frequent other feature values with which `X` and `Tense` co-occurred: <tt><a href="PronType.html">PronType</a>=EMPTY</tt> (2; 100%), <tt><a href="Abbr.html">Abbr</a>=EMPTY</tt> (2; 100%), <tt><a href="Dialect.html">Dialect</a>=Munster</tt> (2; 100%).
 
 `X` tokens may have the following values of `Tense`:
 
@@ -113,9 +113,9 @@ The 10 most frequent relations where parent and child node agree in `Tense`:
 <tt>VERB --[<a href="../dep/conj.html">conj</a>]--> VERB</tt> (76; 89%),
 <tt>VERB --[<a href="../dep/advcl.html">advcl</a>]--> VERB</tt> (56; 68%),
 <tt>VERB --[<a href="../dep/ccomp.html">ccomp</a>]--> VERB</tt> (41; 54%),
-<tt>X --[<a href="../dep/conj.html">conj</a>]--> VERB</tt> (1; 100%),
-<tt>VERB --[<a href="../dep/mark:prt.html">mark:prt</a>]--> AUX</tt> (1; 100%),
 <tt>VERB --[<a href="../dep/acl:relcl.html">acl:relcl</a>]--> VERB</tt> (1; 100%),
+<tt>X --[<a href="../dep/conj.html">conj</a>]--> VERB</tt> (1; 100%),
+<tt>X --[<a href="../dep/mark:prt.html">mark:prt</a>]--> PART</tt> (1; 100%),
 <tt>X --[<a href="../dep/advcl.html">advcl</a>]--> VERB</tt> (1; 100%),
-<tt>X --[<a href="../dep/mark:prt.html">mark:prt</a>]--> PART</tt> (1; 100%).
+<tt>VERB --[<a href="../dep/mark:prt.html">mark:prt</a>]--> AUX</tt> (1; 100%).
 

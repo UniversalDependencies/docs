@@ -27,8 +27,8 @@ The feature is used with 1 part-of-speech tags: [el-pos/X]() (844; 2% instances)
 The 10 most frequent relations where parent and child node agree in `Foreign`:
 <tt>X --[<a href="../dep/nmod.html">nmod</a>]--> X</tt> (225; 100%),
 <tt>X --[<a href="../dep/conj.html">conj</a>]--> X</tt> (27; 100%),
-<tt>X --[<a href="../dep/appos.html">appos</a>]--> X</tt> (1; 100%),
-<tt>X --[<a href="../dep/compound.html">compound</a>]--> X</tt> (1; 100%),
 <tt>X --[<a href="../dep/case.html">case</a>]--> X</tt> (1; 100%),
-<tt>X --[<a href="../dep/orphan.html">orphan</a>]--> X</tt> (1; 100%).
+<tt>X --[<a href="../dep/compound.html">compound</a>]--> X</tt> (1; 100%),
+<tt>X --[<a href="../dep/orphan.html">orphan</a>]--> X</tt> (1; 100%),
+<tt>X --[<a href="../dep/appos.html">appos</a>]--> X</tt> (1; 100%).
 

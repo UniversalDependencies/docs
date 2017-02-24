@@ -16,7 +16,7 @@ The feature is used with 2 part-of-speech tags: [de-pos/DET]() (1841; 1% instanc
 
 1841 [de-pos/DET]() tokens (5% of all `DET` tokens) have a non-empty value of `Poss`.
 
-The most frequent other feature values with which `DET` and `Poss` co-occurred: <tt><a href="Definite.html">Definite</a>=EMPTY</tt> (1841; 100%), <tt><a href="PronType.html">PronType</a>=Prs</tt> (1841; 100%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (1839; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (1839; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (1839; 100%).
+The most frequent other feature values with which `DET` and `Poss` co-occurred: <tt><a href="PronType.html">PronType</a>=Prs</tt> (1841; 100%), <tt><a href="Definite.html">Definite</a>=EMPTY</tt> (1841; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (1839; 100%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (1839; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (1839; 100%).
 
 `DET` tokens may have the following values of `Poss`:
 

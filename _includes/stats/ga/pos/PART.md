@@ -11,18 +11,18 @@ The 10 most frequent `PART` lemmas: <em>a, go, nach, ní, do, gur, ó, ar, is, i
 
 The 10 most frequent `PART` types:  <em>a, go, nach, ní, d', gur, Ó, ar, is, do</em>
 
-The 10 most frequent ambiguous lemmas: <em>a</em> ([PART]() 485, [DET]() 97, [X]() 2, [ADV]() 1, [ADP]() 1, [NOUN]() 1), <em>go</em> ([PART]() 146, [ADP]() 44, [SCONJ]() 12, [NOUN]() 5, [ADV]() 2, [ADJ]() 1), <em>ní</em> ([PART]() 40, [NOUN]() 4), <em>do</em> ([ADP]() 153, [PART]() 39, [DET]() 5), <em>ó</em> ([ADP]() 83, [PART]() 18, [SCONJ]() 2), <em>ar</em> ([ADP]() 384, [PART]() 11, [ADV]() 7, [VERB]() 1, [AUX]() 1), <em>is</em> ([AUX]() 217, [PART]() 11), <em>i</em> ([ADP]() 440, [PART]() 9), <em>de</em> ([ADP]() 175, [PART]() 6, [SCONJ]() 2), <em>ná</em> ([CCONJ]() 40, [PART]() 6, [SCONJ]() 4)
+The 10 most frequent ambiguous lemmas: <em>a</em> ([PART]() 485, [DET]() 97, [X]() 2, [NOUN]() 1, [ADP]() 1, [ADV]() 1), <em>go</em> ([PART]() 146, [ADP]() 44, [SCONJ]() 12, [NOUN]() 5, [ADV]() 2, [ADJ]() 1), <em>ní</em> ([PART]() 40, [NOUN]() 4), <em>do</em> ([ADP]() 153, [PART]() 39, [DET]() 5), <em>ó</em> ([ADP]() 83, [PART]() 18, [SCONJ]() 2), <em>ar</em> ([ADP]() 384, [PART]() 11, [ADV]() 7, [AUX]() 1, [VERB]() 1), <em>is</em> ([AUX]() 217, [PART]() 11), <em>i</em> ([ADP]() 440, [PART]() 9), <em>de</em> ([ADP]() 175, [PART]() 6, [SCONJ]() 2), <em>ná</em> ([CCONJ]() 40, [PART]() 6, [SCONJ]() 4)
 
-The 10 most frequent ambiguous types:  <em>a</em> ([PART]() 482, [DET]() 98, [X]() 1, [ADV]() 1, [ADP]() 1, [NOUN]() 1), <em>go</em> ([PART]() 142, [ADP]() 42, [SCONJ]() 12, [NOUN]() 5, [ADV]() 2, [ADJ]() 1), <em>nach</em> ([PART]() 37, [AUX]() 12), <em>ní</em> ([PART]() 19, [AUX]() 12, [NOUN]() 2), <em>d'</em> ([ADP]() 24, [PART]() 21), <em>gur</em> ([PART]() 22, [AUX]() 21), <em>Ó</em> ([PART]() 17, [ADP]() 1), <em>ar</em> ([ADP]() 305, [PART]() 9, [AUX]() 7, [ADV]() 6, [VERB]() 1), <em>is</em> ([AUX]() 44, [CCONJ]() 26, [PART]() 10, [SCONJ]() 3), <em>do</em> ([ADP]() 43, [PART]() 8, [DET]() 5)
+The 10 most frequent ambiguous types:  <em>a</em> ([PART]() 482, [DET]() 98, [NOUN]() 1, [X]() 1, [ADP]() 1, [ADV]() 1), <em>go</em> ([PART]() 142, [ADP]() 42, [SCONJ]() 12, [NOUN]() 5, [ADV]() 2, [ADJ]() 1), <em>nach</em> ([PART]() 37, [AUX]() 12), <em>ní</em> ([PART]() 19, [AUX]() 12, [NOUN]() 2), <em>d'</em> ([ADP]() 24, [PART]() 21), <em>gur</em> ([PART]() 22, [AUX]() 21), <em>Ó</em> ([PART]() 17, [ADP]() 1), <em>ar</em> ([ADP]() 305, [PART]() 9, [AUX]() 7, [ADV]() 6, [VERB]() 1), <em>is</em> ([AUX]() 44, [CCONJ]() 26, [PART]() 10, [SCONJ]() 3), <em>do</em> ([ADP]() 43, [PART]() 8, [DET]() 5)
 
 
 * <em>a</em>
   * [PART]() 482: <em>Ansin nach deas mar <b>a</b> bheadh an scéal a'm ?</em>
   * [DET]() 98: <em>Ansin nuair a shocair an gleo d' éist siad , ach ní chuala siad <b>a</b> dhath .</em>
-  * [X]() 1: <em>Sa Deibhí bíonn seacht siolla sa líne freisin , ach bíonn siolla sa bhreis i bhfocal deireanach b ar <b>a</b> , agus in d ar c .</em>
-  * [ADV]() 1: <em>Tá sé ráite ag tráchtairí áirithe , agus go minic acu siúd ar mhian leo caitheamh anuas ar Chonradh na Gaeilge agus díspeagadh a dhéanamh ar ghluaiseacht an náisiúnachais chultúrtha i gcoitinne in Éirinn , gur gluaiseacht neo-thraidisiúnta thar <b>a</b> bheith coimeádach amach is amach a bhí ann .</em>
-  * [ADP]() 1: <em>' Anonn leis de chéim mhall go dtí an bord gur thosaigh <b>a</b> chaint , agus an uile fhocal uaidh ag fuaimniú go glé ar an aer .</em>
   * [NOUN]() 1: <em>Lena linn sin tá líon na ndaoine dífhostaithe ag dul i méid i rith an ama ( cionn is nach bhfuil sé de bhéasa ag daoine <b>a</b> thuilleadh dul ar an imirce mar a rinne a muintir rompu , a shílfeá ó bheith ag éisteacht le daoine áirithe ) .</em>
+  * [X]() 1: <em>Sa Deibhí bíonn seacht siolla sa líne freisin , ach bíonn siolla sa bhreis i bhfocal deireanach b ar <b>a</b> , agus in d ar c .</em>
+  * [ADP]() 1: <em>' Anonn leis de chéim mhall go dtí an bord gur thosaigh <b>a</b> chaint , agus an uile fhocal uaidh ag fuaimniú go glé ar an aer .</em>
+  * [ADV]() 1: <em>Tá sé ráite ag tráchtairí áirithe , agus go minic acu siúd ar mhian leo caitheamh anuas ar Chonradh na Gaeilge agus díspeagadh a dhéanamh ar ghluaiseacht an náisiúnachais chultúrtha i gcoitinne in Éirinn , gur gluaiseacht neo-thraidisiúnta thar <b>a</b> bheith coimeádach amach is amach a bhí ann .</em>
 * <em>go</em>
   * [PART]() 142: <em>Níor chúis iontais í <b>go</b> hiomlán gur ghlaoigh sé ar Melissa .</em>
   * [ADP]() 42: <em>Agus as <b>go</b> brách leo .</em>

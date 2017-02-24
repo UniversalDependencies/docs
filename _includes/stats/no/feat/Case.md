@@ -86,7 +86,7 @@ The most frequent other feature values with which `ADJ` and `Case` co-occurred: 
 
 3 [no-pos/NUM]() tokens (0% of all `NUM` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `NUM` and `Case` co-occurred: <tt><a href="NumType.html">NumType</a>=Card</tt> (3; 100%), <tt><a href="Number.html">Number</a>=Plur</tt> (3; 100%).
+The most frequent other feature values with which `NUM` and `Case` co-occurred: <tt><a href="Number.html">Number</a>=Plur</tt> (3; 100%), <tt><a href="NumType.html">NumType</a>=Card</tt> (3; 100%).
 
 `NUM` tokens may have the following values of `Case`:
 

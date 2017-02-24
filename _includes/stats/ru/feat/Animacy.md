@@ -106,7 +106,7 @@ The most frequent other feature values with which `PROPN` and `Animacy` co-occur
 
 1813 [ru-pos/VERB]() tokens (25% of all `VERB` tokens) have a non-empty value of `Animacy`.
 
-The most frequent other feature values with which `VERB` and `Animacy` co-occurred: <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (1813; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (1813; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (1813; 100%), <tt><a href="Tense.html">Tense</a>=Past</tt> (1449; 80%), <tt><a href="Aspect.html">Aspect</a>=Perf</tt> (1367; 75%), <tt><a href="Voice.html">Voice</a>=Pass</tt> (1295; 71%), <tt><a href="Number.html">Number</a>=Sing</tt> (1243; 69%), <tt><a href="Case.html">Case</a>=Nom</tt> (1187; 65%), <tt><a href="Variant.html">Variant</a>=EMPTY</tt> (993; 55%).
+The most frequent other feature values with which `VERB` and `Animacy` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (1813; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (1813; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (1813; 100%), <tt><a href="Tense.html">Tense</a>=Past</tt> (1449; 80%), <tt><a href="Aspect.html">Aspect</a>=Perf</tt> (1367; 75%), <tt><a href="Voice.html">Voice</a>=Pass</tt> (1295; 71%), <tt><a href="Number.html">Number</a>=Sing</tt> (1243; 69%), <tt><a href="Case.html">Case</a>=Nom</tt> (1187; 65%), <tt><a href="Variant.html">Variant</a>=EMPTY</tt> (993; 55%).
 
 `VERB` tokens may have the following values of `Animacy`:
 
@@ -243,7 +243,7 @@ The most frequent other feature values with which `PRON` and `Animacy` co-occurr
 
 25 [ru-pos/AUX]() tokens (2% of all `AUX` tokens) have a non-empty value of `Animacy`.
 
-The most frequent other feature values with which `AUX` and `Animacy` co-occurred: <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (25; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (25; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (20; 80%), <tt><a href="Tense.html">Tense</a>=Past</tt> (19; 76%), <tt><a href="Number.html">Number</a>=Sing</tt> (18; 72%), <tt><a href="Aspect.html">Aspect</a>=Perf</tt> (15; 60%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (13; 52%).
+The most frequent other feature values with which `AUX` and `Animacy` co-occurred: <tt><a href="Person.html">Person</a>=EMPTY</tt> (25; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (25; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (20; 80%), <tt><a href="Tense.html">Tense</a>=Past</tt> (19; 76%), <tt><a href="Number.html">Number</a>=Sing</tt> (18; 72%), <tt><a href="Aspect.html">Aspect</a>=Perf</tt> (15; 60%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (13; 52%).
 
 `AUX` tokens may have the following values of `Animacy`:
 
@@ -305,7 +305,7 @@ The most frequent other feature values with which `NOUN` and `Animacy` co-occurr
   <tr><td><tt><a href="Case.html">Case</a>=Dat|<a href="Number.html">Number</a>=Sing</tt></td><td><em>человеку</em></td><td></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Dat|<a href="Number.html">Number</a>=Plur</tt></td><td><em>людям</em></td><td></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Number.html">Number</a>=Sing</tt></td><td><em>человека, чел.</em></td><td></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Number.html">Number</a>=Plur</tt></td><td><em>людей, человек, чел., человеков, чел</em></td><td><em>чел</em></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Number.html">Number</a>=Plur</tt></td><td><em>людей, человек, чел., чел, человеков</em></td><td><em>чел</em></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Ins|<a href="Number.html">Number</a>=Sing</tt></td><td><em>человеком</em></td><td></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Ins|<a href="Number.html">Number</a>=Plur</tt></td><td><em>людьми</em></td><td></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Loc|<a href="Number.html">Number</a>=Sing</tt></td><td><em>человеке</em></td><td></td></tr>
@@ -414,7 +414,7 @@ The most frequent other feature values with which `NUM` and `Animacy` co-occurre
 
 1236 [ru-pos/VERB]() tokens (1% of all `VERB` tokens) have a non-empty value of `Animacy`.
 
-The most frequent other feature values with which `VERB` and `Animacy` co-occurred: <tt><a href="Case.html">Case</a>=Acc</tt> (1236; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (1236; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (1236; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (1236; 100%), <tt><a href="Number.html">Number</a>=Plur</tt> (742; 60%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (742; 60%), <tt><a href="Tense.html">Tense</a>=Past</tt> (687; 56%), <tt><a href="Aspect.html">Aspect</a>=Perf</tt> (627; 51%).
+The most frequent other feature values with which `VERB` and `Animacy` co-occurred: <tt><a href="Person.html">Person</a>=EMPTY</tt> (1236; 100%), <tt><a href="Case.html">Case</a>=Acc</tt> (1236; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (1236; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (1236; 100%), <tt><a href="Number.html">Number</a>=Plur</tt> (742; 60%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (742; 60%), <tt><a href="Tense.html">Tense</a>=Past</tt> (687; 56%), <tt><a href="Aspect.html">Aspect</a>=Perf</tt> (627; 51%).
 
 `VERB` tokens may have the following values of `Animacy`:
 
@@ -437,7 +437,7 @@ The most frequent other feature values with which `VERB` and `Animacy` co-occurr
 
 42 [ru-pos/DET]() tokens (0% of all `DET` tokens) have a non-empty value of `Animacy`.
 
-The most frequent other feature values with which `DET` and `Animacy` co-occurred: <tt><a href="Case.html">Case</a>=Acc</tt> (39; 93%), <tt><a href="Number.html">Number</a>=Sing</tt> (39; 93%), <tt><a href="Gender.html">Gender</a>=Neut</tt> (36; 86%).
+The most frequent other feature values with which `DET` and `Animacy` co-occurred: <tt><a href="Number.html">Number</a>=Sing</tt> (39; 93%), <tt><a href="Case.html">Case</a>=Acc</tt> (39; 93%), <tt><a href="Gender.html">Gender</a>=Neut</tt> (36; 86%).
 
 `DET` tokens may have the following values of `Animacy`:
 

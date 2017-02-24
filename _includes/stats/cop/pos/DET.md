@@ -11,7 +11,7 @@ The 10 most frequent `DET` lemmas: ⲡ, ⲟⲩ, ⲡⲉϥ, ⲡⲉⲕ, ⲡⲉⲩ, 
 
 The 10 most frequent `DET` types:  ⲡ, ⲛ, ⲧ, ⲟⲩ, ϩⲉⲛ, ⲧⲉ, ⲡⲉ, ⲛⲉ, ⲡⲉⲕ, ⲛⲉⲩ
 
-The 10 most frequent ambiguous lemmas: ⲡ ([DET]() 627, [PRON]() 4), ⲟⲩ ([DET]() 144, [PRON]() 13), ⲕⲉ ([DET]() 20, [NOUN]() 10), ϩⲛ ([ADP]() 162, [DET]() 1), ϭⲉ ([PART]() 9, [DET]() 1), ⲛⲁ ([ADP]() 97, [AUX]() 58, [VERB]() 4, [NOUN]() 1, [DET]() 1)
+The 10 most frequent ambiguous lemmas: ⲡ ([DET]() 627, [PRON]() 4), ⲟⲩ ([DET]() 144, [PRON]() 13), ⲕⲉ ([DET]() 20, [NOUN]() 10), ϩⲛ ([ADP]() 162, [DET]() 1), ϭⲉ ([PART]() 9, [DET]() 1), ⲛⲁ ([ADP]() 97, [AUX]() 58, [VERB]() 4, [DET]() 1, [NOUN]() 1)
 
 The 10 most frequent ambiguous types:  ⲛ ([ADP]() 316, [DET]() 131, [AUX]() 49, [ADV]() 19, [PRON]() 13, [VERB]() 1), ⲧ ([DET]() 105, [PRON]() 3), ⲟⲩ ([PRON]() 165, [DET]() 79), ⲧⲉ ([DET]() 49, [PRON]() 7, [NOUN]() 1), ⲡⲉ ([DET]() 38, [PRON]() 31, [NOUN]() 3), ⲛⲉ ([AUX]() 40, [DET]() 30, [PRON]() 15), ⲙ ([ADP]() 131, [DET]() 12), ⲩ ([PRON]() 230, [DET]() 12), ⲛⲁ ([ADP]() 88, [AUX]() 58, [DET]() 9, [VERB]() 4, [NOUN]() 1), ⲛⲏ ([ADP]() 9, [DET]() 2)
 

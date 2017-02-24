@@ -16,7 +16,7 @@ The feature is used with 4 part-of-speech tags: [pl-pos/VERB]() (3593; 5% instan
 
 3593 [pl-pos/VERB]() tokens (38% of all `VERB` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (3593; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (3593; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (3593; 100%), <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (3593; 100%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (3446; 96%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (3446; 96%), <tt><a href="Aspect.html">Aspect</a>=Imp</tt> (3069; 85%), <tt><a href="Number.html">Number</a>=Sing</tt> (2591; 72%).
+The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (3593; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (3593; 100%), <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (3593; 100%), <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (3593; 100%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (3446; 96%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (3446; 96%), <tt><a href="Aspect.html">Aspect</a>=Imp</tt> (3069; 85%), <tt><a href="Number.html">Number</a>=Sing</tt> (2591; 72%).
 
 `VERB` tokens may have the following values of `Person`:
 
@@ -36,7 +36,7 @@ The most frequent other feature values with which `VERB` and `Person` co-occurre
 
 1464 [pl-pos/PRON]() tokens (37% of all `PRON` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="Reflex.html">Reflex</a>=EMPTY</tt> (1464; 100%), <tt><a href="PronType.html">PronType</a>=Prs</tt> (1464; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (1058; 72%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (975; 67%), <tt><a href="Variant.html">Variant</a>=Long</tt> (945; 65%), <tt><a href="PrepCase.html">PrepCase</a>=Npr</tt> (836; 57%), <tt><a href="Animacy.html">Animacy</a>=Hum</tt> (795; 54%).
+The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="PronType.html">PronType</a>=Prs</tt> (1464; 100%), <tt><a href="Reflex.html">Reflex</a>=EMPTY</tt> (1464; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (1058; 72%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (975; 67%), <tt><a href="Variant.html">Variant</a>=Long</tt> (945; 65%), <tt><a href="PrepCase.html">PrepCase</a>=Npr</tt> (836; 57%), <tt><a href="Animacy.html">Animacy</a>=Hum</tt> (795; 54%).
 
 `PRON` tokens may have the following values of `Person`:
 
@@ -74,7 +74,7 @@ The most frequent other feature values with which `AUX` and `Person` co-occurred
 
 198 [pl-pos/DET]() tokens (12% of all `DET` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `DET` and `Person` co-occurred: <tt><a href="Poss.html">Poss</a>=Yes</tt> (198; 100%), <tt><a href="PronType.html">PronType</a>=Prs</tt> (198; 100%), <tt><a href="Reflex.html">Reflex</a>=EMPTY</tt> (198; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (148; 75%), <tt><a href="Number[psor].html">Number[psor]</a>=Sing</tt> (105; 53%), <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (104; 53%).
+The most frequent other feature values with which `DET` and `Person` co-occurred: <tt><a href="Reflex.html">Reflex</a>=EMPTY</tt> (198; 100%), <tt><a href="Poss.html">Poss</a>=Yes</tt> (198; 100%), <tt><a href="PronType.html">PronType</a>=Prs</tt> (198; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (148; 75%), <tt><a href="Number[psor].html">Number[psor]</a>=Sing</tt> (105; 53%), <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (104; 53%).
 
 `DET` tokens may have the following values of `Person`:
 
@@ -86,6 +86,6 @@ The most frequent other feature values with which `DET` and `Person` co-occurred
 
 The 10 most frequent relations where parent and child node agree in `Person`:
 <tt>VERB --[<a href="../dep/conj.html">conj</a>]--> VERB</tt> (261; 67%),
-<tt>VERB --[<a href="../dep/punct.html">punct</a>]--> VERB</tt> (1; 100%),
-<tt>VERB --[<a href="../dep/xcomp.html">xcomp</a>]--> PRON</tt> (1; 100%).
+<tt>VERB --[<a href="../dep/xcomp.html">xcomp</a>]--> PRON</tt> (1; 100%),
+<tt>VERB --[<a href="../dep/punct.html">punct</a>]--> VERB</tt> (1; 100%).
 

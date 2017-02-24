@@ -11,9 +11,9 @@ The 10 most frequent `PART` lemmas: <em>не, навіть, ще, ж, лише, 
 
 The 10 most frequent `PART` types:  <em>не, навіть, ще, ж, лише, і, й, аж, саме, таки</em>
 
-The 10 most frequent ambiguous lemmas: <em>ще</em> ([ADV]() 21, [PART]() 16), <em>і</em> ([CCONJ]() 271, [PART]() 13), <em>й</em> ([CCONJ]() 37, [PART]() 11), <em>саме</em> ([PART]() 7, [ADV]() 1), <em>то</em> ([SCONJ]() 8, [PART]() 6, [PRON]() 6, [CCONJ]() 4), <em>чи</em> ([CCONJ]() 9, [PART]() 6, [SCONJ]() 3), <em>тільки</em> ([PART]() 5, [ADV]() 2, [SCONJ]() 1), <em>просто</em> ([PART]() 4, [ADV]() 1), <em>якраз</em> ([PART]() 4, [ADV]() 4), <em>а</em> ([CCONJ]() 64, [PART]() 3)
+The 10 most frequent ambiguous lemmas: <em>ще</em> ([ADV]() 21, [PART]() 16), <em>і</em> ([CCONJ]() 271, [PART]() 13), <em>й</em> ([CCONJ]() 37, [PART]() 11), <em>саме</em> ([PART]() 7, [ADV]() 1), <em>то</em> ([SCONJ]() 8, [PRON]() 6, [PART]() 6, [CCONJ]() 4), <em>чи</em> ([CCONJ]() 9, [PART]() 6, [SCONJ]() 3), <em>тільки</em> ([PART]() 5, [ADV]() 2, [SCONJ]() 1), <em>просто</em> ([PART]() 4, [ADV]() 1), <em>якраз</em> ([PART]() 4, [ADV]() 4), <em>а</em> ([CCONJ]() 64, [PART]() 3)
 
-The 10 most frequent ambiguous types:  <em>ще</em> ([ADV]() 19, [PART]() 14), <em>і</em> ([CCONJ]() 258, [PART]() 9), <em>й</em> ([CCONJ]() 36, [PART]() 11), <em>саме</em> ([PART]() 5, [DET]() 1, [ADV]() 1), <em>то</em> ([SCONJ]() 8, [PART]() 4, [CCONJ]() 4, [PRON]() 2), <em>чи</em> ([CCONJ]() 8, [PART]() 4, [SCONJ]() 3), <em>тільки</em> ([PART]() 5, [ADV]() 1, [SCONJ]() 1), <em>просто</em> ([PART]() 4, [ADV]() 1), <em>якраз</em> ([PART]() 2, [ADV]() 1), <em>а</em> ([CCONJ]() 46, [PART]() 2)
+The 10 most frequent ambiguous types:  <em>ще</em> ([ADV]() 19, [PART]() 14), <em>і</em> ([CCONJ]() 258, [PART]() 9), <em>й</em> ([CCONJ]() 36, [PART]() 11), <em>саме</em> ([PART]() 5, [ADV]() 1, [DET]() 1), <em>то</em> ([SCONJ]() 8, [PART]() 4, [CCONJ]() 4, [PRON]() 2), <em>чи</em> ([CCONJ]() 8, [PART]() 4, [SCONJ]() 3), <em>тільки</em> ([PART]() 5, [SCONJ]() 1, [ADV]() 1), <em>просто</em> ([PART]() 4, [ADV]() 1), <em>якраз</em> ([PART]() 2, [ADV]() 1), <em>а</em> ([CCONJ]() 46, [PART]() 2)
 
 
 * <em>ще</em>
@@ -27,8 +27,8 @@ The 10 most frequent ambiguous types:  <em>ще</em> ([ADV]() 19, [PART]() 14), 
   * [PART]() 11: <em>Колючим дротом було оточено ще <b>й</b> багато лісу навколо зони .</em>
 * <em>саме</em>
   * [PART]() 5: <em>І <b>саме</b> долар , а не купонами за курсом .</em>
-  * [DET]() 1: <em>Таке <b>саме</b> діялося із молоком .</em>
   * [ADV]() 1: <em>Я <b>саме</b> йшов на пошту , щоб послати Вам усі важливіші інформації про те , як стоїть справа з друкуванням Вашої книжки .</em>
+  * [DET]() 1: <em>Таке <b>саме</b> діялося із молоком .</em>
 * <em>то</em>
   * [SCONJ]() 8: <em>Судячи з того , що я бачу на 4 поверсі , <b>то</b> так .</em>
   * [PART]() 4: <em>Виявилося , що <b>то</b> були два долари .</em>
@@ -40,8 +40,8 @@ The 10 most frequent ambiguous types:  <em>ще</em> ([ADV]() 19, [PART]() 14), 
   * [SCONJ]() 3: <em>Серед ночі дорослі йшли купатися , а ми залягали у кущах полину , пильнуючи , <b>чи</b> не треба буде рятувати тата .</em>
 * <em>тільки</em>
   * [PART]() 5: <em>Як <b>тільки</b> випогоджувалося , ми лізли на дах і смолили шпари .</em>
-  * [ADV]() 1: <em>Але <b>тільки</b> взимку .</em>
   * [SCONJ]() 1: <em>Точну ціну колоди опублікую через кілька днів , як <b>тільки</b> своє слово скаже типографія .</em>
+  * [ADV]() 1: <em>Але <b>тільки</b> взимку .</em>
 * <em>просто</em>
   * [PART]() 4: <em>Тож <b>просто</b> на вулиці ми познайомилися з Джоном .</em>
   * [ADV]() 1: <em>Їхня чорна баня стояла <b>просто</b> над Пслухом .</em>

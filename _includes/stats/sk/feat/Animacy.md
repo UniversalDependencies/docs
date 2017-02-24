@@ -40,7 +40,7 @@ The most frequent other feature values with which `NOUN` and `Animacy` co-occurr
 
 4629 [sk-pos/VERB]() tokens (36% of all `VERB` tokens) have a non-empty value of `Animacy`.
 
-The most frequent other feature values with which `VERB` and `Animacy` co-occurred: <tt><a href="Gender.html">Gender</a>=Masc</tt> (4629; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (4629; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (4629; 100%), <tt><a href="Tense.html">Tense</a>=Past</tt> (4622; 100%), <tt><a href="Polarity.html">Polarity</a>=Pos</tt> (4272; 92%), <tt><a href="Number.html">Number</a>=Sing</tt> (3892; 84%), <tt><a href="Person.html">Person</a>=3</tt> (3775; 82%), <tt><a href="Aspect.html">Aspect</a>=Perf</tt> (2829; 61%).
+The most frequent other feature values with which `VERB` and `Animacy` co-occurred: <tt><a href="Gender.html">Gender</a>=Masc</tt> (4629; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (4629; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (4629; 100%), <tt><a href="Tense.html">Tense</a>=Past</tt> (4622; 100%), <tt><a href="Polarity.html">Polarity</a>=Pos</tt> (4272; 92%), <tt><a href="Number.html">Number</a>=Sing</tt> (3892; 84%), <tt><a href="Person.html">Person</a>=3</tt> (3775; 82%), <tt><a href="Aspect.html">Aspect</a>=Perf</tt> (2829; 61%).
 
 `VERB` tokens may have the following values of `Animacy`:
 
@@ -65,7 +65,7 @@ The most frequent other feature values with which `VERB` and `Animacy` co-occurr
 
 3297 [sk-pos/ADJ]() tokens (42% of all `ADJ` tokens) have a non-empty value of `Animacy`.
 
-The most frequent other feature values with which `ADJ` and `Animacy` co-occurred: <tt><a href="Gender.html">Gender</a>=Masc</tt> (3297; 100%), <tt><a href="Degree.html">Degree</a>=Pos</tt> (2972; 90%), <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (2830; 86%), <tt><a href="Polarity.html">Polarity</a>=EMPTY</tt> (2816; 85%), <tt><a href="VerbForm.html">VerbForm</a>=EMPTY</tt> (2816; 85%), <tt><a href="Number.html">Number</a>=Sing</tt> (2328; 71%).
+The most frequent other feature values with which `ADJ` and `Animacy` co-occurred: <tt><a href="Gender.html">Gender</a>=Masc</tt> (3297; 100%), <tt><a href="Degree.html">Degree</a>=Pos</tt> (2972; 90%), <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (2830; 86%), <tt><a href="VerbForm.html">VerbForm</a>=EMPTY</tt> (2816; 85%), <tt><a href="Polarity.html">Polarity</a>=EMPTY</tt> (2816; 85%), <tt><a href="Number.html">Number</a>=Sing</tt> (2328; 71%).
 
 `ADJ` tokens may have the following values of `Animacy`:
 
@@ -144,7 +144,7 @@ The most frequent other feature values with which `DET` and `Animacy` co-occurre
 
 961 [sk-pos/PRON]() tokens (16% of all `PRON` tokens) have a non-empty value of `Animacy`.
 
-The most frequent other feature values with which `PRON` and `Animacy` co-occurred: <tt><a href="Reflex.html">Reflex</a>=EMPTY</tt> (961; 100%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (961; 100%), <tt><a href="PronType.html">PronType</a>=Prs</tt> (821; 85%), <tt><a href="Number.html">Number</a>=Sing</tt> (774; 81%).
+The most frequent other feature values with which `PRON` and `Animacy` co-occurred: <tt><a href="Gender.html">Gender</a>=Masc</tt> (961; 100%), <tt><a href="Reflex.html">Reflex</a>=EMPTY</tt> (961; 100%), <tt><a href="PronType.html">PronType</a>=Prs</tt> (821; 85%), <tt><a href="Number.html">Number</a>=Sing</tt> (774; 81%).
 
 `PRON` tokens may have the following values of `Animacy`:
 
@@ -154,7 +154,7 @@ The most frequent other feature values with which `PRON` and `Animacy` co-occurr
 
 <table>
   <tr><th>Paradigm <i>on</i></th><th><tt>Anim</tt></th><th><tt>Inan</tt></th></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Number.html">Number</a>=Sing</tt></td><td><em>ho, Jeho, neho</em></td><td><em>ho</em></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Number.html">Number</a>=Sing</tt></td><td><em>ho, neho, Jeho</em></td><td><em>ho</em></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Number.html">Number</a>=Plur</tt></td><td><em>ich, nich</em></td><td><em>ich, ne</em></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Dat|<a href="Number.html">Number</a>=Sing</tt></td><td><em>mu, nemu, jemu</em></td><td><em>nemu, mu</em></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Dat|<a href="Number.html">Number</a>=Plur</tt></td><td><em>im, nim</em></td><td><em>im, nim</em></td></tr>
@@ -172,7 +172,7 @@ The most frequent other feature values with which `PRON` and `Animacy` co-occurr
 
 290 [sk-pos/AUX]() tokens (9% of all `AUX` tokens) have a non-empty value of `Animacy`.
 
-The most frequent other feature values with which `AUX` and `Animacy` co-occurred: <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (290; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (290; 100%), <tt><a href="Aspect.html">Aspect</a>=Imp</tt> (290; 100%), <tt><a href="Tense.html">Tense</a>=Past</tt> (290; 100%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (290; 100%), <tt><a href="Person.html">Person</a>=3</tt> (271; 93%), <tt><a href="Polarity.html">Polarity</a>=Pos</tt> (271; 93%), <tt><a href="Number.html">Number</a>=Sing</tt> (248; 86%).
+The most frequent other feature values with which `AUX` and `Animacy` co-occurred: <tt><a href="Gender.html">Gender</a>=Masc</tt> (290; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (290; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (290; 100%), <tt><a href="Tense.html">Tense</a>=Past</tt> (290; 100%), <tt><a href="Aspect.html">Aspect</a>=Imp</tt> (290; 100%), <tt><a href="Person.html">Person</a>=3</tt> (271; 93%), <tt><a href="Polarity.html">Polarity</a>=Pos</tt> (271; 93%), <tt><a href="Number.html">Number</a>=Sing</tt> (248; 86%).
 
 `AUX` tokens may have the following values of `Animacy`:
 
@@ -216,7 +216,7 @@ The most frequent other feature values with which `NUM` and `Animacy` co-occurre
 
 31 [sk-pos/ADV]() tokens (1% of all `ADV` tokens) have a non-empty value of `Animacy`.
 
-The most frequent other feature values with which `ADV` and `Animacy` co-occurred: <tt><a href="PronType.html">PronType</a>=EMPTY</tt> (31; 100%), <tt><a href="Degree.html">Degree</a>=EMPTY</tt> (31; 100%).
+The most frequent other feature values with which `ADV` and `Animacy` co-occurred: <tt><a href="Degree.html">Degree</a>=EMPTY</tt> (31; 100%), <tt><a href="PronType.html">PronType</a>=EMPTY</tt> (31; 100%).
 
 `ADV` tokens may have the following values of `Animacy`:
 
@@ -227,7 +227,7 @@ The most frequent other feature values with which `ADV` and `Animacy` co-occurre
 
 1 [sk-pos/X]() tokens (0% of all `X` tokens) have a non-empty value of `Animacy`.
 
-The most frequent other feature values with which `X` and `Animacy` co-occurred: <tt><a href="Hyph.html">Hyph</a>=EMPTY</tt> (1; 100%), <tt><a href="Foreign.html">Foreign</a>=EMPTY</tt> (1; 100%), <tt><a href="Abbr.html">Abbr</a>=Yes</tt> (1; 100%).
+The most frequent other feature values with which `X` and `Animacy` co-occurred: <tt><a href="Foreign.html">Foreign</a>=EMPTY</tt> (1; 100%), <tt><a href="Abbr.html">Abbr</a>=Yes</tt> (1; 100%), <tt><a href="Hyph.html">Hyph</a>=EMPTY</tt> (1; 100%).
 
 `X` tokens may have the following values of `Animacy`:
 

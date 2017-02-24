@@ -13,7 +13,7 @@ The 10 most frequent `VERB` types:  <em>ir, bija, nav, var, būs, nebija, varēt
 
 The 10 most frequent ambiguous lemmas: <em>nebūt</em> ([VERB]() 234, [PART]() 1), <em>sacīt</em> ([VERB]() 41, [NOUN]() 1), <em>pieiet</em> ([VERB]() 10, [ADJ]() 1), <em>nozīmēt</em> ([VERB]() 7, [NOUN]() 2), <em>pamatot</em> ([VERB]() 5, [ADV]() 1), <em>ilgt</em> ([VERB]() 2, [ADV]() 1), <em>klāt</em> ([ADV]() 10, [VERB]() 2), <em>null</em> ([PUNCT]() 1, [VERB]() 1)
 
-The 10 most frequent ambiguous types:  <em>gribu</em> ([VERB]() 7, [NOUN]() 1), <em>atbalsta</em> ([VERB]() 5, [NOUN]() 4), <em>noteiktu</em> ([ADJ]() 4, [VERB]() 4), <em>nozīmē</em> ([NOUN]() 6, [VERB]() 5), <em>Protams</em> ([VERB]() 4, [PART]() 3), <em>lūdzu</em> ([INTJ]() 5, [VERB]() 2), <em>vēlas</em> ([VERB]() 4, [ADJ]() 1), <em>bijušo</em> ([VERB]() 2, [ADJ]() 1), <em>stāstu</em> ([VERB]() 3, [NOUN]() 3), <em>ej</em> ([VERB]() 1, [INTJ]() 1)
+The 10 most frequent ambiguous types:  <em>gribu</em> ([VERB]() 7, [NOUN]() 1), <em>atbalsta</em> ([VERB]() 5, [NOUN]() 4), <em>noteiktu</em> ([ADJ]() 4, [VERB]() 4), <em>nozīmē</em> ([NOUN]() 6, [VERB]() 5), <em>Protams</em> ([VERB]() 4, [PART]() 3), <em>lūdzu</em> ([INTJ]() 5, [VERB]() 2), <em>vēlas</em> ([VERB]() 4, [ADJ]() 1), <em>bijušo</em> ([VERB]() 2, [ADJ]() 1), <em>stāstu</em> ([NOUN]() 3, [VERB]() 3), <em>ej</em> ([INTJ]() 1, [VERB]() 1)
 
 
 * <em>gribu</em>
@@ -41,11 +41,11 @@ The 10 most frequent ambiguous types:  <em>gribu</em> ([VERB]() 7, [NOUN]() 1), 
   * [VERB]() 2: <em>Piedāvājam sarunu ar <b>bijušo</b> prezidenta kancelejas vadītāju un baņķieri , tagad – uzņēmēju Mārtiņu Bondaru .</em>
   * [ADJ]() 1: <em>KNAB šo lietu sāka 2010. gadā , kad vasarā aizturēja <b>bijušo</b> " Latvenergo " prezidentu Kārli Miķelsonu , viņa vietnieku Aigaru Meļko , kā arī AS " Sadales tīkls " valdes priekšsēdētāju Ivaru Liuziniku un viņa vietnieku Andreju Stalažu .</em>
 * <em>stāstu</em>
-  * [VERB]() 3: <em>- Bet es taču <b>stāstu</b> tev ! - Sanī drusku sadusmota atcirta .</em>
   * [NOUN]() 3: <em>Katra šūna glabā sevī manas dzīves <b>stāstu</b> , katra grumba atmiņas par pagātni ...</em>
+  * [VERB]() 3: <em>- Bet es taču <b>stāstu</b> tev ! - Sanī drusku sadusmota atcirta .</em>
 * <em>ej</em>
-  * [VERB]() 1: <em>- Beidz nu , <b>ej</b> nost !</em>
   * [INTJ]() 1: <em>" Ej , <b>ej</b> .</em>
+  * [VERB]() 1: <em>- Beidz nu , <b>ej</b> nost !</em>
 
 ## Morphology
 

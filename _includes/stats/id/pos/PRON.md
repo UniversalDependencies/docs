@@ -13,15 +13,15 @@ The 10 most frequent `PRON` types:  <em>yang, ia, mereka, dia, kita, aku, kamu, 
 
 The 10 most frequent ambiguous lemmas: <em>_</em> ([NOUN]() 24724, [PROPN]() 20630, [PUNCT]() 16504, [VERB]() 10952, [ADP]() 10866, [ADV]() 4270, [ADJ]() 4144, [NUM]() 3979, [PRON]() 3936, [DET]() 3594, [CCONJ]() 3284, [SCONJ]() 1333, [AUX]() 960, [PART]() 541, [SYM]() 388, [X]() 38)
 
-The 10 most frequent ambiguous types:  <em>yang</em> ([PRON]() 2719, [CCONJ]() 8, [PROPN]() 5, [PART]() 1, [NOUN]() 1), <em>dia</em> ([PRON]() 86, [PROPN]() 1), <em>kamu</em> ([PRON]() 29, [NOUN]() 7, [PROPN]() 2), <em>kami</em> ([PRON]() 23, [PROPN]() 1), <em>dirinya</em> ([PRON]() 22, [NOUN]() 1), <em>siapa</em> ([NOUN]() 9, [PRON]() 6), <em>nya</em> ([PRON]() 13, [NOUN]() 3, [DET]() 2, [PART]() 1), <em>sendiri</em> ([ADJ]() 50, [ADV]() 10, [PRON]() 9, [DET]() 3, [NOUN]() 1), <em>Perang</em> ([PROPN]() 17, [PRON]() 7, [NOUN]() 2), <em>bahwa</em> ([SCONJ]() 153, [ADP]() 20, [PRON]() 7, [CCONJ]() 2, [ADV]() 1)
+The 10 most frequent ambiguous types:  <em>yang</em> ([PRON]() 2719, [CCONJ]() 8, [PROPN]() 5, [NOUN]() 1, [PART]() 1), <em>dia</em> ([PRON]() 86, [PROPN]() 1), <em>kamu</em> ([PRON]() 29, [NOUN]() 7, [PROPN]() 2), <em>kami</em> ([PRON]() 23, [PROPN]() 1), <em>dirinya</em> ([PRON]() 22, [NOUN]() 1), <em>siapa</em> ([NOUN]() 9, [PRON]() 6), <em>nya</em> ([PRON]() 13, [NOUN]() 3, [DET]() 2, [PART]() 1), <em>sendiri</em> ([ADJ]() 50, [ADV]() 10, [PRON]() 9, [DET]() 3, [NOUN]() 1), <em>Perang</em> ([PROPN]() 17, [PRON]() 7, [NOUN]() 2), <em>bahwa</em> ([SCONJ]() 153, [ADP]() 20, [PRON]() 7, [CCONJ]() 2, [ADV]() 1)
 
 
 * <em>yang</em>
   * [PRON]() 2719: <em>Liburan <b>yang</b> indah mendadak menjadi penuh darah .</em>
   * [CCONJ]() 8: <em>Baru adalah sebuah desa <b>yang</b> termasuk dalam kecamatan Dusun Selatan , Barito Selatan , Kalimantan Tengah .</em>
   * [PROPN]() 5: <em>Pavlovsky adalah presiden dari Yayasan Politik <b>yang</b> Efektif ( , FEP ) , ( , FEP ) .</em>
-  * [PART]() 1: <em>Mereka mulai bermain di klub - klub di New York City di bawah serangkaian nama band <b>yang</b> berbeda , sebelum menetapkan nama " Kool &amp; The Gang " pada tahun 1968 .</em>
   * [NOUN]() 1: <em>Hendaknya para gembala mempertimbang - kan aspirasi <b>yang</b> dikemukakan kaum awam ” ( Lumen Gentium 37 ) .</em>
+  * [PART]() 1: <em>Mereka mulai bermain di klub - klub di New York City di bawah serangkaian nama band <b>yang</b> berbeda , sebelum menetapkan nama " Kool &amp; The Gang " pada tahun 1968 .</em>
 * <em>dia</em>
   * [PRON]() 86: <em>Akankah <b>dia</b> masih mengingat Ibu dan kampung halamannya ?</em>
   * [PROPN]() 1: <em>Maka sakit hatilah Asa karena perkataan pelihat itu , sehingga ia memasukkannya ke dalam penjara , sebab memang ia sangat marah terhadap <b>dia</b> karena perkara itu .</em>

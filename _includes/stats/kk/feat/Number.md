@@ -31,23 +31,12 @@ The most frequent other feature values with which `VERB` and `Number` co-occurre
 
 20 [kk-pos/AUX]() tokens (80% of all `AUX` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `AUX` and `Number` co-occurred: <tt><a href="Person.html">Person</a>=3</tt> (17; 85%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (17; 85%), <tt><a href="Polarity.html">Polarity</a>=EMPTY</tt> (17; 85%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (15; 75%), <tt><a href="Tense.html">Tense</a>=Past</tt> (14; 70%).
+The most frequent other feature values with which `AUX` and `Number` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (17; 85%), <tt><a href="Person.html">Person</a>=3</tt> (17; 85%), <tt><a href="Polarity.html">Polarity</a>=EMPTY</tt> (17; 85%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (15; 75%), <tt><a href="Tense.html">Tense</a>=Past</tt> (14; 70%).
 
 `AUX` tokens may have the following values of `Number`:
 
 * `Sing` (20; 100% of non-empty `Number`): <em>еді, болды, болмаса, болса, болсам, гөр, емес, көрме</em>
 * `EMPTY` (5): <em>болатын, болушы, болуға, болып, болғандықтан</em>
-
-### `PRON`
-
-4 [kk-pos/PRON]() tokens (22% of all `PRON` tokens) have a non-empty value of `Number`.
-
-The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="Person[psor].html">Person[psor]</a>=EMPTY</tt> (4; 100%), <tt><a href="PronType.html">PronType</a>=Prs</tt> (4; 100%), <tt><a href="Number[psor].html">Number[psor]</a>=EMPTY</tt> (4; 100%), <tt><a href="Person.html">Person</a>=3</tt> (4; 100%).
-
-`PRON` tokens may have the following values of `Number`:
-
-* `Sing` (4; 100% of non-empty `Number`): <em>оның, ол, оған</em>
-* `EMPTY` (14): <em>не, қанша, өзінше, өзінің, Кім, ешкімге, осы, өзі, өзіндей</em>
 
 ### `NOUN`
 
@@ -59,6 +48,17 @@ The most frequent other feature values with which `NOUN` and `Number` co-occurre
 
 * `Plur` (4; 100% of non-empty `Number`): <em>келіншектермен, ойлар, ойларға, қыздарының</em>
 * `EMPTY` (138): <em>бала, жасы, жылдың, ханшайым, Эдуард, адамның, жаны, жылы, жұмбақ, ортасында</em>
+
+### `PRON`
+
+4 [kk-pos/PRON]() tokens (22% of all `PRON` tokens) have a non-empty value of `Number`.
+
+The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="Person[psor].html">Person[psor]</a>=EMPTY</tt> (4; 100%), <tt><a href="Number[psor].html">Number[psor]</a>=EMPTY</tt> (4; 100%), <tt><a href="PronType.html">PronType</a>=Prs</tt> (4; 100%), <tt><a href="Person.html">Person</a>=3</tt> (4; 100%).
+
+`PRON` tokens may have the following values of `Number`:
+
+* `Sing` (4; 100% of non-empty `Number`): <em>оның, ол, оған</em>
+* `EMPTY` (14): <em>не, қанша, өзінше, өзінің, Кім, ешкімге, осы, өзі, өзіндей</em>
 
 ## Relations with Agreement in `Number`
 

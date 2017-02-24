@@ -16,7 +16,7 @@ The feature is used with 1 part-of-speech tags: [el-pos/NOUN]() (284; 1% instanc
 
 284 [el-pos/NOUN]() tokens (3% of all `NOUN` tokens) have a non-empty value of `Abbr`.
 
-The most frequent other feature values with which `NOUN` and `Abbr` co-occurred: <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (284; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (284; 100%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (284; 100%).
+The most frequent other feature values with which `NOUN` and `Abbr` co-occurred: <tt><a href="Number.html">Number</a>=EMPTY</tt> (284; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (284; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (284; 100%).
 
 `NOUN` tokens may have the following values of `Abbr`:
 

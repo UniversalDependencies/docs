@@ -16,7 +16,7 @@ The feature is used with 3 part-of-speech tags: [fa-pos/VERB]() (1636; 1% instan
 
 1636 [fa-pos/VERB]() tokens (15% of all `VERB` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (1608; 98%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (1608; 98%), <tt><a href="Person.html">Person</a>=3</tt> (1563; 96%), <tt><a href="Number.html">Number</a>=Sing</tt> (1376; 84%).
+The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (1608; 98%), <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (1608; 98%), <tt><a href="Person.html">Person</a>=3</tt> (1563; 96%), <tt><a href="Number.html">Number</a>=Sing</tt> (1376; 84%).
 
 `VERB` tokens may have the following values of `VerbForm`:
 

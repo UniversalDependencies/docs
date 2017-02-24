@@ -13,7 +13,7 @@ The 10 most frequent `ADP` types:  <em>de, a, d', en, del, per, amb, al, dels, a
 
 The 10 most frequent ambiguous lemmas: <em>de</em> ([ADP]() 32714, [NOUN]() 1), <em>a</em> ([ADP]() 11127, [NOUN]() 9, [VERB]() 1, [AUX]() 1), <em>en</em> ([ADP]() 6294, [PRON]() 306, [DET]() 8), <em>per</em> ([ADP]() 5796, [ADV]() 1), <em>al</em> ([ADP]() 3817, [DET]() 1), <em>sobre</em> ([ADP]() 642, [ADV]() 8, [NOUN]() 5), <em>segons</em> ([ADP]() 610, [SCONJ]() 219, [PROPN]() 1), <em>durant</em> ([ADP]() 486, [ADV]() 1), <em>fins</em> ([ADP]() 406, [ADV]() 210), <em>sense</em> ([ADP]() 308, [PROPN]() 4)
 
-The 10 most frequent ambiguous types:  <em>de</em> ([ADP]() 25859, [NOUN]() 1), <em>a</em> ([ADP]() 10685, [AUX]() 1, [NOUN]() 1), <em>en</em> ([ADP]() 5619, [PRON]() 81, [DET]() 8), <em>per</em> ([ADP]() 5420, [ADV]() 1), <em>al</em> ([ADP]() 2848, [DET]() 1), <em>sobre</em> ([ADP]() 633, [ADV]() 8, [NOUN]() 4), <em>segons</em> ([ADP]() 298, [SCONJ]() 153, [NOUN]() 7, [ADJ]() 3, [PROPN]() 1), <em>fins</em> ([ADP]() 385, [ADV]() 189, [NOUN]() 4), <em>sense</em> ([ADP]() 295, [PROPN]() 4), <em>contra</em> ([ADP]() 293, [NOUN]() 48, [PROPN]() 6)
+The 10 most frequent ambiguous types:  <em>de</em> ([ADP]() 25859, [NOUN]() 1), <em>a</em> ([ADP]() 10685, [NOUN]() 1, [AUX]() 1), <em>en</em> ([ADP]() 5619, [PRON]() 81, [DET]() 8), <em>per</em> ([ADP]() 5420, [ADV]() 1), <em>al</em> ([ADP]() 2848, [DET]() 1), <em>sobre</em> ([ADP]() 633, [ADV]() 8, [NOUN]() 4), <em>segons</em> ([ADP]() 298, [SCONJ]() 153, [NOUN]() 7, [ADJ]() 3, [PROPN]() 1), <em>fins</em> ([ADP]() 385, [ADV]() 189, [NOUN]() 4), <em>sense</em> ([ADP]() 295, [PROPN]() 4), <em>contra</em> ([ADP]() 293, [NOUN]() 48, [PROPN]() 6)
 
 
 * <em>de</em>
@@ -21,8 +21,8 @@ The 10 most frequent ambiguous types:  <em>de</em> ([ADP]() 25859, [NOUN]() 1), 
   * [NOUN]() 1: <em>El president de la Generalitat , Jordi Pujol , afirma que mai ha perdut la fe cristiana ni s' ha plantejat " deixar de creure " , encara que admet que ha hagut <b>de</b> " adequar " la seva fe als canvis que s' han produït en aquest segle .</em>
 * <em>a</em>
   * [ADP]() 10685: <em>També s' ha fet una ofrena simbòlica <b>a</b> ' la Moreneta ' .</em>
-  * [AUX]() 1: <em>Una introducció per donar ne <b>a</b> conèixer els aspectes bàsics i un apartat dedicat a l' espai que han ocupat les campanes en el folklore popular completen l' exposició .</em>
   * [NOUN]() 1: <em>Evidentment no justifico ni ' <b>a</b> ' ni ' b ' , ans al contrari .</em>
+  * [AUX]() 1: <em>Una introducció per donar ne <b>a</b> conèixer els aspectes bàsics i un apartat dedicat a l' espai que han ocupat les campanes en el folklore popular completen l' exposició .</em>
 * <em>en</em>
   * [ADP]() 5619: <em>Hi ha peces valorades <b>en</b> 3.500.000 pessetes .</em>
   * [PRON]() 81: <em>De fet , <b>en</b> va ser el progenitor intel·lectual i emocional .</em>

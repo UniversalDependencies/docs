@@ -54,16 +54,17 @@ The following 6 pairs of parts of speech are connected with `dobj`: [sv-pos/VERB
 
 
 ~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 1 4 dobj	color:blue
-1	KLÄ-PÅ.NEDERDEL	_	X	?	_	0	root	_	_
-2	KLÄ-PÅ.ÖVERDEL	_	X	?	_	1	conj	_	_
-3	VARM	_	ADJ	JJ	_	4	amod	_	_
-4	KLÄDER	_	NOUN	NN	_	1	dobj	_	_
-5	MÖSSA(G)	_	X	?	_	4	conj	_	_
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 5 dobj	color:blue
+1	KLÄ-PÅ.HUVUDDEL	_	X	?	_	0	root	_	_
+2	HAND(G)+HANTERA@p	_	VERB	VBAV	_	1	conj	_	_
+3	SPRINGA(Lb)	_	VERB	VB	_	1	conj	_	_
+4	ENTITET(Yb)+FÖRFLYTTA@p	_	VERB	VBAV	_	1	conj	_	_
+5	MÖSSA(G)	_	X	?	_	6	dobj	_	_
+6	LÅTA-VARA	_	X	G	_	1	conj	_	_
 
 ~~~
 

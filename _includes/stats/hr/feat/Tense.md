@@ -16,7 +16,7 @@ The feature is used with 3 part-of-speech tags: [hr-pos/VERB]() (12717; 7% insta
 
 12717 [hr-pos/VERB]() tokens (79% of all `VERB` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="Number.html">Number</a>=Sing</tt> (8555; 67%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (7049; 55%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (7049; 55%), <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (7049; 55%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (7049; 55%).
+The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="Number.html">Number</a>=Sing</tt> (8555; 67%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (7049; 55%), <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (7049; 55%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (7049; 55%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (7049; 55%).
 
 `VERB` tokens may have the following values of `Tense`:
 
@@ -69,13 +69,13 @@ The most frequent other feature values with which `AUX` and `Tense` co-occurred:
   <tr><td><tt><a href="Mood.html">Mood</a>=Cnd|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=3|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td></td><td><em>bi</em></td><td></td></tr>
   <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=1|<a href="Polarity.html">Polarity</a>=Neg|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td><em>nisam</em></td><td></td><td></td></tr>
   <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=1|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td><em>sam, nisam, jesam</em></td><td></td><td></td></tr>
-  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=2|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td><em>si, jesi, nisi</em></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=2|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td><em>si, nisi, jesi</em></td><td></td><td></td></tr>
   <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3|<a href="Polarity.html">Polarity</a>=Neg|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td><em>nije</em></td><td></td><td></td></tr>
   <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td><em>je, nije, bude, jest, jeste</em></td><td></td><td><em>bijaše</em></td></tr>
   <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=1|<a href="Polarity.html">Polarity</a>=Neg|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td><em>nismo</em></td><td></td><td></td></tr>
   <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=1|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td><em>smo, nismo, jesmo, budemo</em></td><td></td><td></td></tr>
   <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=2|<a href="Polarity.html">Polarity</a>=Neg|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td><em>niste</em></td><td></td><td></td></tr>
-  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=2|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td><em>ste, niste, Jeste, budete</em></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=2|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td><em>ste, Jeste, niste, budete</em></td><td></td><td></td></tr>
   <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=3|<a href="Polarity.html">Polarity</a>=Neg|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td><em>nisu</em></td><td></td><td></td></tr>
   <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=3|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td><em>su, nisu, budu, jesu, biti</em></td><td></td><td></td></tr>
 </table>
@@ -108,5 +108,5 @@ The 10 most frequent relations where parent and child node agree in `Tense`:
 <tt>VERB --[<a href="../dep/ccomp.html">ccomp</a>]--> AUX</tt> (15; 54%),
 <tt>VERB --[<a href="../dep/advmod.html">advmod</a>]--> VERB</tt> (8; 67%),
 <tt>AUX --[<a href="../dep/conj.html">conj</a>]--> AUX</tt> (7; 64%),
-<tt>VERB --[<a href="../dep/obj.html">obj</a>]--> VERB</tt> (3; 60%).
+<tt>ADV --[<a href="../dep/conj.html">conj</a>]--> ADV</tt> (3; 75%).
 

@@ -130,30 +130,23 @@ The following 7 pairs of parts of speech are connected with `nummod`: [sv-pos/NO
 
 
 ~~~ conllu
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 9 8 nummod	color:blue
-1	På	_	ADP	_	_	3	case	_	_
-2	samma	_	ADJ	POS-IND	_	3	amod	_	_
-3	sätt	_	NOUN	IND-NOM	_	4	obl	_	_
-4	valde	_	VERB	PAST-ACT	_	0	root	_	_
-5	han	_	PRON	PERS-P3SG-NOM	_	4	nsubj	_	_
-6	ut	_	ADV	_	_	4	compound:prt	_	_
-7	de	_	DET	PL-DEF	_	9	det	_	_
-8	tre	_	NUM	CARD-PL	_	9	nummod	_	_
-9	andra	_	ADJ	CMP-DEF	_	4	xcomp	_	_
-10	att	_	PART	_	_	11	mark	_	_
-11	spela	_	VERB	INF-ACT	_	4	xcomp	_	_
-12	de	_	DET	PL-DEF	_	13	det	_	_
-13	roller	_	NOUN	PL-IND-NOM	_	11	obj	_	_
-14	som	_	SCONJ	REL	_	16	mark	_	_
-15	var	_	AUX	PAST-ACT	_	16	cop	_	_
-16	avsedda	_	VERB	AD-PL-IND	_	13	acl:relcl	_	_
-17	för	_	ADP	_	_	18	case	_	_
-18	dem	_	PRON	PERS-P3PL-ACC	_	16	obl	_	SpaceAfter=No
-19	.	_	PUNCT	Period	_	4	punct	_	_
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 6 nummod	color:blue
+1	Frågorna	_	NOUN	PL-DEF-NOM	_	10	nsubj:pass	_	_
+2	nr	_	NOUN	SG-IND-NOM	_	3	nmod	_	_
+3	60	_	NUM	ID	_	1	nummod	_	_
+4	till	_	ADP	_	_	6	case	_	_
+5	nr	_	NOUN	SG-IND-NOM	_	6	nmod	_	_
+6	11	_	NUM	ID	_	3	nummod	_	_
+7	kommer	_	AUX	PRES-AUX	_	10	aux	_	_
+8	därför	_	ADV	_	_	10	advmod	_	_
+9	att	_	PART	_	_	10	mark	_	_
+10	besvaras	_	VERB	INF-PASS	_	0	root	_	_
+11	skriftligen	_	ADV	_	_	10	advmod	_	SpaceAfter=No
+12	.	_	PUNCT	Period	_	10	punct	_	_
 
 ~~~
 

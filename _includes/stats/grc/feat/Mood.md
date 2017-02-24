@@ -28,11 +28,11 @@ The most frequent other feature values with which `VERB` and `Mood` co-occurred:
 
 <table>
   <tr><th>Paradigm <i>εἰμί</i></th><th><tt>Ind</tt></th><th><tt>Imp</tt></th><th><tt>Sub</tt></th><th><tt>Opt</tt></th></tr>
-  <tr><td><tt><a href="Aspect.html">Aspect</a>=Imp|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=1|<a href="Tense.html">Tense</a>=Past|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>ἦ, ἔα, ἦν, ἔσκον, ἦα</em></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Aspect.html">Aspect</a>=Imp|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=1|<a href="Tense.html">Tense</a>=Past|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>ἦ, ἔα, ἔσκον, ἦν, ἦα</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><a href="Aspect.html">Aspect</a>=Imp|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=1|<a href="Tense.html">Tense</a>=Past|<a href="Voice.html">Voice</a>=Mid</tt></td><td><em>ἔσκον</em></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><a href="Aspect.html">Aspect</a>=Imp|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=2|<a href="Tense.html">Tense</a>=Past|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>ἦσθα, ἦσθ̓, ἔησθα, ἔας</em></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><a href="Aspect.html">Aspect</a>=Imp|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Past</tt></td><td><em>ἔσκεν, ἔσκε</em></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><a href="Aspect.html">Aspect</a>=Imp|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Past|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>ἦν, ἦεν, ἔην, ἔσκε, εἴη, ἔσκον</em></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Aspect.html">Aspect</a>=Imp|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=2|<a href="Tense.html">Tense</a>=Past|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>ἦσθα, ἦσθ̓, ἔας, ἔησθα</em></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Aspect.html">Aspect</a>=Imp|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Past</tt></td><td><em>ἔσκε, ἔσκεν</em></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Aspect.html">Aspect</a>=Imp|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Past|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>ἦν, ἦεν, ἔην, ἔσκε, ἔσκον, εἴη</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><a href="Aspect.html">Aspect</a>=Imp|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Past|<a href="Voice.html">Voice</a>=Mid</tt></td><td><em>ἔσκε, ἔσκεν</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><a href="Aspect.html">Aspect</a>=Imp|<a href="Number.html">Number</a>=Dual|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Past|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>ἤστην</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><a href="Aspect.html">Aspect</a>=Imp|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=1|<a href="Tense.html">Tense</a>=Past|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>ἦμεν</em></td><td></td><td></td><td></td></tr>
@@ -43,13 +43,13 @@ The most frequent other feature values with which `VERB` and `Mood` co-occurred:
   <tr><td><tt><a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=1|<a href="Tense.html">Tense</a>=Pres|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>εἰμι, εἰμὶ, εἰμ̓, εἰμί, εἴμ̓</em></td><td></td><td><em>ἔω, ὦ</em></td><td><em>εἴην</em></td></tr>
   <tr><td><tt><a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=2|<a href="Tense.html">Tense</a>=Fut</tt></td><td><em>ἔσῃ</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=2|<a href="Tense.html">Tense</a>=Fut|<a href="Voice.html">Voice</a>=Mid</tt></td><td><em>ἔσει, ἔσσεαι, ἔσσῃ</em></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=2|<a href="Tense.html">Tense</a>=Pres|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>ἐσσι, εἶ, ἐσσί, εἰς</em></td><td></td><td><em>ᾖς</em></td><td><em>εἴης</em></td></tr>
+  <tr><td><tt><a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=2|<a href="Tense.html">Tense</a>=Pres|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>ἐσσι, εἶ, εἰς, ἐσσί</em></td><td></td><td><em>ᾖς</em></td><td><em>εἴης</em></td></tr>
   <tr><td><tt><a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Fut</tt></td><td><em>ἔσται, ἔσσεται</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Fut|<a href="Voice.html">Voice</a>=Mid</tt></td><td><em>ἔσται, ἔσσεται, ἐσσεῖται</em></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Pres|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>ἐστὶ, ἐστι, ἐστιν, ἐστί, ἐστὶν, ἔστι, ἔστ̓, ἐστίν, ἐστ̓, ἔστιν, ἔσθ̓, ἐσθ̓, στί, κἄστ̓</em></td><td><em>ἔστω</em></td><td><em>ᾖ, ᾖσιν, ἔῃ</em></td><td><em>εἴη</em></td></tr>
+  <tr><td><tt><a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Pres|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>ἐστὶ, ἐστι, ἐστιν, ἐστί, ἐστὶν, ἔστι, ἔστ̓, ἐστίν, ἐστ̓, ἔστιν, ἔσθ̓, στί, ἐσθ̓, κἄστ̓</em></td><td><em>ἔστω</em></td><td><em>ᾖ, ἔῃ, ᾖσιν</em></td><td><em>εἴη</em></td></tr>
   <tr><td><tt><a href="Number.html">Number</a>=Dual|<a href="Person.html">Person</a>=2|<a href="Tense.html">Tense</a>=Pres|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>ἐστὸν, ἐστόν</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=1|<a href="Tense.html">Tense</a>=Fut|<a href="Voice.html">Voice</a>=Mid</tt></td><td><em>ἐσσόμεσθα</em></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=1|<a href="Tense.html">Tense</a>=Pres|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>εἰμὲν, εἰμεν, ἐσμὲν, ἐσμέν, ἐσμεν</em></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=1|<a href="Tense.html">Tense</a>=Pres|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>εἰμεν, εἰμὲν, ἐσμὲν, ἐσμέν, ἐσμεν</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=2|<a href="Tense.html">Tense</a>=Fut|<a href="Voice.html">Voice</a>=Mid</tt></td><td><em>ἔσεσθε</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=2|<a href="Tense.html">Tense</a>=Pres|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>ἐστε, ἐστὲ, ἔστ̓</em></td><td><em>ἔστε</em></td><td></td><td></td></tr>
   <tr><td><tt><a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Fut|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>ἔσονται</em></td><td></td><td></td><td></td></tr>
@@ -61,7 +61,7 @@ The most frequent other feature values with which `VERB` and `Mood` co-occurred:
 
 3 [grc-pos/X]() tokens (8% of all `X` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `X` and `Mood` co-occurred: <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (3; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (3; 100%), <tt><a href="Number.html">Number</a>=Plur</tt> (2; 67%).
+The most frequent other feature values with which `X` and `Mood` co-occurred: <tt><a href="Case.html">Case</a>=EMPTY</tt> (3; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (3; 100%), <tt><a href="Number.html">Number</a>=Plur</tt> (2; 67%).
 
 `X` tokens may have the following values of `Mood`:
 
@@ -93,7 +93,7 @@ The feature is used with 2 part-of-speech tags: [grc-pos/VERB]() (22164; 11% ins
 
 22164 [grc-pos/VERB]() tokens (60% of all `VERB` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (22164; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (22164; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (22164; 100%), <tt><a href="Person.html">Person</a>=3</tt> (15935; 72%), <tt><a href="Voice.html">Voice</a>=Act</tt> (15520; 70%), <tt><a href="Number.html">Number</a>=Sing</tt> (14539; 66%), <tt><a href="Tense.html">Tense</a>=Past</tt> (13643; 62%).
+The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (22164; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (22164; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (22164; 100%), <tt><a href="Person.html">Person</a>=3</tt> (15935; 72%), <tt><a href="Voice.html">Voice</a>=Act</tt> (15520; 70%), <tt><a href="Number.html">Number</a>=Sing</tt> (14539; 66%), <tt><a href="Tense.html">Tense</a>=Past</tt> (13643; 62%).
 
 `VERB` tokens may have the following values of `Mood`:
 
@@ -111,13 +111,13 @@ The most frequent other feature values with which `VERB` and `Mood` co-occurred:
   <tr><td><tt><a href="Aspect.html">Aspect</a>=Imp|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=2|<a href="Tense.html">Tense</a>=Past|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>ἐλέγετε</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><a href="Aspect.html">Aspect</a>=Imp|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Past|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>ἔλεγον, ἔλεγόν, ἔλεγαν</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><a href="Aspect.html">Aspect</a>=Perf|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=1|<a href="Tense.html">Tense</a>=Past|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>εἶπον, εἶπα, εἶπόν, εἴρηκα, συνέλεξα, ἔλεξα</em></td><td></td><td><em>εἴπω</em></td><td></td></tr>
-  <tr><td><tt><a href="Aspect.html">Aspect</a>=Perf|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=2|<a href="Tense.html">Tense</a>=Past|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>εἴρηκας, εἶπας, εἶπες</em></td><td><em>εἰπὲ, εἰπὸν, εἰπέ, εἰπόν, εἶπε</em></td><td><em>εἴπῃς</em></td><td></td></tr>
-  <tr><td><tt><a href="Aspect.html">Aspect</a>=Perf|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Past|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>εἶπεν, εἶπε, εἶπέν, ἔλεξε, εἴρηκεν, ἔλεξέ, εἴρηκέν, εἶπέ, ἔλεξεν, εἰπέ</em></td><td><em>εἰπάτω</em></td><td><em>εἴπῃ</em></td><td><em>εἴποι</em></td></tr>
+  <tr><td><tt><a href="Aspect.html">Aspect</a>=Perf|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=2|<a href="Tense.html">Tense</a>=Past|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>εἶπας, εἴρηκας, εἶπες</em></td><td><em>εἰπὲ, εἰπὸν, εἰπέ, εἶπε, εἰπόν</em></td><td><em>εἴπῃς</em></td><td></td></tr>
+  <tr><td><tt><a href="Aspect.html">Aspect</a>=Perf|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Past|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>εἶπεν, εἶπε, εἶπέν, ἔλεξε, εἴρηκεν, εἴρηκέν, ἔλεξέ, εἶπέ, εἰπέ, ἔλεξεν</em></td><td><em>εἰπάτω</em></td><td><em>εἴπῃ</em></td><td><em>εἴποι</em></td></tr>
   <tr><td><tt><a href="Aspect.html">Aspect</a>=Perf|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Past|<a href="Voice.html">Voice</a>=Pass</tt></td><td><em>εἴρηται, ἐρρέθη, εἴρηταί, εἰρέθη</em></td><td><em>εἰρήσθω</em></td><td></td><td></td></tr>
   <tr><td><tt><a href="Aspect.html">Aspect</a>=Perf|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=1|<a href="Tense.html">Tense</a>=Past|<a href="Voice.html">Voice</a>=Act</tt></td><td></td><td></td><td><em>εἴπωμεν</em></td><td></td></tr>
   <tr><td><tt><a href="Aspect.html">Aspect</a>=Perf|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=2|<a href="Tense.html">Tense</a>=Past|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>εἴπατε</em></td><td><em>εἴπατε, εἴπατέ</em></td><td><em>εἴπητε, εἴπητέ</em></td><td></td></tr>
-  <tr><td><tt><a href="Aspect.html">Aspect</a>=Perf|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Past|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>εἶπαν, εἶπον, εἶπόν, ἔλεξαν, εἰρήκασιν, εἶπάν</em></td><td><em>εἰπάτωσαν</em></td><td><em>εἴπωσιν</em></td><td></td></tr>
-  <tr><td><tt><a href="Aspect.html">Aspect</a>=Perf|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Past|<a href="Voice.html">Voice</a>=Pass</tt></td><td><em>εἰρέαται, ἐρρέθησαν, εἰρέαταί</em></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Aspect.html">Aspect</a>=Perf|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Past|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>εἶπαν, εἶπον, εἶπόν, εἰρήκασιν, ἔλεξαν, εἶπάν</em></td><td><em>εἰπάτωσαν</em></td><td><em>εἴπωσιν</em></td><td></td></tr>
+  <tr><td><tt><a href="Aspect.html">Aspect</a>=Perf|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Past|<a href="Voice.html">Voice</a>=Pass</tt></td><td><em>εἰρέαταί, ἐρρέθησαν, εἰρέαται</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=1|<a href="Tense.html">Tense</a>=Fut|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>ἐρῶ, ἐρέω</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=1|<a href="Tense.html">Tense</a>=Pres|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>λέγω</em></td><td></td><td><em>λέγω</em></td><td></td></tr>
   <tr><td><tt><a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=2|<a href="Tense.html">Tense</a>=Fut|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>ἐρεῖς</em></td><td></td><td></td><td></td></tr>
@@ -134,7 +134,7 @@ The most frequent other feature values with which `VERB` and `Mood` co-occurred:
   <tr><td><tt><a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=2|<a href="Tense.html">Tense</a>=Fut|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>ἐρεῖτε, ἐρεῖτέ</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=2|<a href="Tense.html">Tense</a>=Pres|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>λέγετε</em></td><td><em>λέγετε, Λέγετέ</em></td><td><em>λέγητε</em></td><td></td></tr>
   <tr><td><tt><a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Fut|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>ἐροῦσιν, ἐροῦσίν</em></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Pres|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>λέγουσι, λέγουσιν, λέγουσί, λέγουσίν</em></td><td><em>λεγόντων</em></td><td><em>λέγωσιν</em></td><td><em>λέγοιεν</em></td></tr>
+  <tr><td><tt><a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Pres|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>λέγουσι, λέγουσιν, λέγουσίν, λέγουσί</em></td><td><em>λεγόντων</em></td><td><em>λέγωσιν</em></td><td><em>λέγοιεν</em></td></tr>
   <tr><td><tt><a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Pres|<a href="Voice.html">Voice</a>=Pass</tt></td><td><em>λέγονται, λέγονταί</em></td><td></td><td></td><td></td></tr>
 </table>
 
@@ -142,7 +142,7 @@ The most frequent other feature values with which `VERB` and `Mood` co-occurred:
 
 2743 [grc-pos/AUX]() tokens (75% of all `AUX` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `AUX` and `Mood` co-occurred: <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (2743; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (2743; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (2743; 100%), <tt><a href="Voice.html">Voice</a>=Act</tt> (2523; 92%), <tt><a href="Person.html">Person</a>=3</tt> (2272; 83%), <tt><a href="Number.html">Number</a>=Sing</tt> (2085; 76%), <tt><a href="Aspect.html">Aspect</a>=EMPTY</tt> (2008; 73%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (1810; 66%).
+The most frequent other feature values with which `AUX` and `Mood` co-occurred: <tt><a href="Case.html">Case</a>=EMPTY</tt> (2743; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (2743; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (2743; 100%), <tt><a href="Voice.html">Voice</a>=Act</tt> (2523; 92%), <tt><a href="Person.html">Person</a>=3</tt> (2272; 83%), <tt><a href="Number.html">Number</a>=Sing</tt> (2085; 76%), <tt><a href="Aspect.html">Aspect</a>=EMPTY</tt> (2008; 73%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (1810; 66%).
 
 `AUX` tokens may have the following values of `Mood`:
 
@@ -186,6 +186,6 @@ The 10 most frequent relations where parent and child node agree in `Mood`:
 <tt>VERB --[<a href="../dep/ccomp.html">ccomp</a>]--> AUX</tt> (21; 54%),
 <tt>VERB --[<a href="../dep/parataxis.html">parataxis</a>]--> AUX</tt> (9; 90%),
 <tt>AUX --[<a href="../dep/conj.html">conj</a>]--> AUX</tt> (8; 67%),
-<tt>AUX --[<a href="../dep/advcl.html">advcl</a>]--> AUX</tt> (2; 100%),
-<tt>VERB --[<a href="../dep/csubj:pass.html">csubj:pass</a>]--> AUX</tt> (2; 100%).
+<tt>VERB --[<a href="../dep/csubj:pass.html">csubj:pass</a>]--> AUX</tt> (2; 100%),
+<tt>AUX --[<a href="../dep/advcl.html">advcl</a>]--> AUX</tt> (2; 100%).
 

@@ -27,7 +27,7 @@ The most frequent other feature values with which `ADJ` and `Degree` co-occurred
 
 <table>
   <tr><th>Paradigm <i>голям</i></th><th><tt>Pos</tt></th><th><tt>Cmp</tt></th><th><tt>Sup</tt></th></tr>
-  <tr><td><tt><a href="Definite.html">Definite</a>=Def|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Sing</tt></td><td><em>големият, големия</em></td><td></td><td><em>най-големият, най-големия</em></td></tr>
+  <tr><td><tt><a href="Definite.html">Definite</a>=Def|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Sing</tt></td><td><em>големият, големия</em></td><td></td><td><em>най-големия, най-големият</em></td></tr>
   <tr><td><tt><a href="Definite.html">Definite</a>=Def|<a href="Gender.html">Gender</a>=Fem|<a href="Number.html">Number</a>=Sing</tt></td><td><em>голямата</em></td><td><em>по-голямата</em></td><td><em>най-голямата</em></td></tr>
   <tr><td><tt><a href="Definite.html">Definite</a>=Def|<a href="Gender.html">Gender</a>=Neut|<a href="Number.html">Number</a>=Sing</tt></td><td></td><td><em>по-голямото</em></td><td><em>най-голямото</em></td></tr>
   <tr><td><tt><a href="Definite.html">Definite</a>=Def|<a href="Number.html">Number</a>=Plur</tt></td><td><em>големите</em></td><td><em>по-големите</em></td><td><em>най-големите</em></td></tr>
@@ -76,7 +76,7 @@ The most frequent other feature values with which `PROPN` and `Degree` co-occurr
 
 5 [bg-pos/VERB]() tokens (0% of all `VERB` tokens) have a non-empty value of `Degree`.
 
-The most frequent other feature values with which `VERB` and `Degree` co-occurred: <tt><a href="Person.html">Person</a>=EMPTY</tt> (5; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (5; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (5; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (4; 80%), <tt><a href="Aspect.html">Aspect</a>=Perf</tt> (4; 80%), <tt><a href="Number.html">Number</a>=Plur</tt> (4; 80%), <tt><a href="Definite.html">Definite</a>=Def</tt> (3; 60%), <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (3; 60%), <tt><a href="Voice.html">Voice</a>=Pass</tt> (3; 60%).
+The most frequent other feature values with which `VERB` and `Degree` co-occurred: <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (5; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (5; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (5; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (4; 80%), <tt><a href="Aspect.html">Aspect</a>=Perf</tt> (4; 80%), <tt><a href="Number.html">Number</a>=Plur</tt> (4; 80%), <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (3; 60%), <tt><a href="Voice.html">Voice</a>=Pass</tt> (3; 60%), <tt><a href="Definite.html">Definite</a>=Def</tt> (3; 60%).
 
 `VERB` tokens may have the following values of `Degree`:
 
@@ -93,8 +93,8 @@ The 10 most frequent relations where parent and child node agree in `Degree`:
 <tt>ADV --[<a href="../dep/conj.html">conj</a>]--> ADV</tt> (43; 90%),
 <tt>ADV --[<a href="../dep/fixed.html">fixed</a>]--> ADV</tt> (23; 100%),
 <tt>ADJ --[<a href="../dep/nsubj.html">nsubj</a>]--> ADJ</tt> (4; 67%),
-<tt>ADV --[<a href="../dep/csubj.html">csubj</a>]--> ADJ</tt> (2; 67%),
-<tt>ADJ --[<a href="../dep/obl.html">obl</a>]--> ADJ</tt> (2; 67%),
 <tt>ADJ --[<a href="../dep/advcl.html">advcl</a>]--> ADJ</tt> (2; 100%),
+<tt>ADJ --[<a href="../dep/obl.html">obl</a>]--> ADJ</tt> (2; 67%),
+<tt>ADV --[<a href="../dep/csubj.html">csubj</a>]--> ADJ</tt> (2; 67%),
 <tt>ADV --[<a href="../dep/nsubj.html">nsubj</a>]--> ADV</tt> (1; 100%).
 

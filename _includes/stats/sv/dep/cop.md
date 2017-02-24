@@ -155,6 +155,26 @@ The following 2 pairs of parts of speech are connected with `cop`: [sv-pos/ADJ](
 
 
 ~~~ conllu
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 4 cop	color:blue
+1	JA@ub@z	_	INTJ	INTERJ	_	9	discourse	_	_
+2	POJKE	_	NOUN	NN	_	9	nsubj	_	_
+3	LITEN-PERSON@kl	_	NOUN	NNKL	_	2	compound	_	_
+4	SE-UT	_	VERB	VB	_	2	cop	_	_
+5	SJU_ÅTTA	_	NUM	RG	_	6	nummod	_	_
+6	ÅR@b	_	NOUN	NN	_	2	acl:relcl	_	_
+7	HUND	_	NOUN	NN	_	2	conj	_	_
+8	SITTA(VVb)	_	VERB	VBAV?/VB?	_	7	acl:relcl	_	_
+9	TITTA-PÅ@z	_	VERB	VB	_	0	root	_	_
+10	TITTA-PÅ	_	VERB	VB	_	9	conj	_	_
+
+~~~
+
+
+~~~ conllu
 # visual-style 12	bgColor:blue
 # visual-style 12	fgColor:white
 # visual-style 13	bgColor:blue
@@ -177,26 +197,6 @@ The following 2 pairs of parts of speech are connected with `cop`: [sv-pos/ADJ](
 15	SITTA(Vb)@hd	_	VERB	VBAV	_	3	dep	_	_
 16	VARELSE(Vb)+HOPPA-UPP@p	_	VERB	VBAV	_	3	conj	_	_
 17	PASSIVERAD@z	_	ADJ	JJ	_	3	conj	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 4 cop	color:blue
-1	JA@ub@z	_	INTJ	INTERJ	_	9	discourse	_	_
-2	POJKE	_	NOUN	NN	_	9	nsubj	_	_
-3	LITEN-PERSON@kl	_	NOUN	NNKL	_	2	compound	_	_
-4	SE-UT	_	VERB	VB	_	2	cop	_	_
-5	SJU_ÅTTA	_	NUM	RG	_	6	nummod	_	_
-6	ÅR@b	_	NOUN	NN	_	2	acl:relcl	_	_
-7	HUND	_	NOUN	NN	_	2	conj	_	_
-8	SITTA(VVb)	_	VERB	VBAV?/VB?	_	7	acl:relcl	_	_
-9	TITTA-PÅ@z	_	VERB	VB	_	0	root	_	_
-10	TITTA-PÅ	_	VERB	VB	_	9	conj	_	_
 
 ~~~
 

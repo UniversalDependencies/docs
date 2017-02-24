@@ -62,7 +62,7 @@ The most frequent other feature values with which `AUX` and `Mood` co-occurred: 
 
 5584 [sl-pos/VERB]() tokens (43% of all `VERB` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (5584; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (5584; 100%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (5245; 94%), <tt><a href="Person.html">Person</a>=3</tt> (4123; 74%), <tt><a href="Number.html">Number</a>=Sing</tt> (3291; 59%), <tt><a href="Aspect.html">Aspect</a>=Imp</tt> (3096; 55%).
+The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (5584; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (5584; 100%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (5245; 94%), <tt><a href="Person.html">Person</a>=3</tt> (4123; 74%), <tt><a href="Number.html">Number</a>=Sing</tt> (3291; 59%), <tt><a href="Aspect.html">Aspect</a>=Imp</tt> (3096; 55%).
 
 `VERB` tokens may have the following values of `Mood`:
 
@@ -122,7 +122,7 @@ The feature is used with 2 part-of-speech tags: [sl-pos/VERB]() (1652; 8% instan
 
 1652 [sl-pos/VERB]() tokens (64% of all `VERB` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (1652; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (1652; 100%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (1459; 88%), <tt><a href="Number.html">Number</a>=Sing</tt> (1171; 71%), <tt><a href="Polarity.html">Polarity</a>=EMPTY</tt> (1153; 70%).
+The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (1652; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (1652; 100%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (1459; 88%), <tt><a href="Number.html">Number</a>=Sing</tt> (1171; 71%), <tt><a href="Polarity.html">Polarity</a>=EMPTY</tt> (1153; 70%).
 
 `VERB` tokens may have the following values of `Mood`:
 

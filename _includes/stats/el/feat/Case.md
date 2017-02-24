@@ -49,7 +49,7 @@ The most frequent other feature values with which `DET` and `Case` co-occurred: 
 
 <table>
   <tr><th>Paradigm <i>ο</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th><th><tt>Gen</tt></th></tr>
-  <tr><td><tt><a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Sing</tt></td><td><em>ο, O, το</em></td><td><em>τον, το</em></td><td></td><td><em>του</em></td></tr>
+  <tr><td><tt><a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Sing</tt></td><td><em>ο, το, O</em></td><td><em>τον, το</em></td><td></td><td><em>του</em></td></tr>
   <tr><td><tt><a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Plur</tt></td><td><em>οι</em></td><td><em>τους</em></td><td></td><td><em>των</em></td></tr>
   <tr><td><tt><a href="Gender.html">Gender</a>=Fem|<a href="Number.html">Number</a>=Sing</tt></td><td><em>η</em></td><td><em>την, τη</em></td><td><em>τη</em></td><td><em>της, τις</em></td></tr>
   <tr><td><tt><a href="Gender.html">Gender</a>=Fem|<a href="Number.html">Number</a>=Plur</tt></td><td><em>οι</em></td><td><em>τις</em></td><td></td><td><em>των</em></td></tr>
@@ -155,7 +155,7 @@ The most frequent other feature values with which `NUM` and `Case` co-occurred: 
 
 101 [el-pos/VERB]() tokens (2% of all `VERB` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `VERB` and `Case` co-occurred: <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (101; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (101; 100%), <tt><a href="Aspect.html">Aspect</a>=Perf</tt> (101; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (101; 100%), <tt><a href="Voice.html">Voice</a>=Pass</tt> (101; 100%), <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (101; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (60; 59%).
+The most frequent other feature values with which `VERB` and `Case` co-occurred: <tt><a href="Voice.html">Voice</a>=Pass</tt> (101; 100%), <tt><a href="Aspect.html">Aspect</a>=Perf</tt> (101; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (101; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (101; 100%), <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (101; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (101; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (60; 59%).
 
 `VERB` tokens may have the following values of `Case`:
 

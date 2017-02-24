@@ -13,7 +13,7 @@ The 10 most frequent `ADV` types:  <em>non, ne, iam, tamen, quam, ita, magis, nu
 
 The 10 most frequent ambiguous lemmas: <em>ne1</em> ([ADV]() 49, [SCONJ]() 36), <em>quam1</em> ([ADV]() 16, [SCONJ]() 5), <em>magnus1</em> ([ADJ]() 93, [ADV]() 13), <em>ut</em> ([SCONJ]() 31, [ADV]() 13), <em>facilis1</em> ([ADV]() 12, [ADJ]() 6), <em>ante1</em> ([ADV]() 9, [ADP]() 3), <em>quo1</em> ([ADV]() 9, [SCONJ]() 3), <em>etiam1</em> ([ADV]() 8, [CCONJ]() 3), <em>multus</em> ([ADJ]() 19, [ADV]() 8), <em>malus1</em> ([ADJ]() 23, [ADV]() 7)
 
-The 10 most frequent ambiguous types:  <em>ne</em> ([ADV]() 49, [SCONJ]() 35, [INTJ]() 1), <em>quam</em> ([ADV]() 30, [PRON]() 18, [SCONJ]() 5, [NOUN]() 1), <em>modo</em> ([ADV]() 19, [NOUN]() 7), <em>quo</em> ([PRON]() 15, [ADV]() 15, [SCONJ]() 3, [NOUN]() 1), <em>ut</em> ([SCONJ]() 70, [ADV]() 14), <em>facile</em> ([ADV]() 13, [ADJ]() 2), <em>quasi</em> ([ADV]() 11, [SCONJ]() 1), <em>ante</em> ([ADV]() 9, [ADP]() 6), <em>vero</em> ([ADV]() 9, [NOUN]() 2), <em>etiam</em> ([CCONJ]() 33, [ADV]() 8)
+The 10 most frequent ambiguous types:  <em>ne</em> ([ADV]() 49, [SCONJ]() 35, [INTJ]() 1), <em>quam</em> ([ADV]() 30, [PRON]() 18, [SCONJ]() 5, [NOUN]() 1), <em>modo</em> ([ADV]() 19, [NOUN]() 7), <em>quo</em> ([ADV]() 15, [PRON]() 15, [SCONJ]() 3, [NOUN]() 1), <em>ut</em> ([SCONJ]() 70, [ADV]() 14), <em>facile</em> ([ADV]() 13, [ADJ]() 2), <em>quasi</em> ([ADV]() 11, [SCONJ]() 1), <em>ante</em> ([ADV]() 9, [ADP]() 6), <em>vero</em> ([ADV]() 9, [NOUN]() 2), <em>etiam</em> ([CCONJ]() 33, [ADV]() 8)
 
 
 * <em>ne</em>
@@ -29,8 +29,8 @@ The 10 most frequent ambiguous types:  <em>ne</em> ([ADV]() 49, [SCONJ]() 35, [I
   * [ADV]() 19: <em>Magno me metu liberaveris , <b>modo</b> inter me atque te murus intersit .</em>
   * [NOUN]() 7: <em>quae tecum , Catilina , sic agit et quodam <b>modo</b> tacita loquitur :</em>
 * <em>quo</em>
-  * [PRON]() 15: <em><b>quo</b> autem pacto illi Appenninum atque illas pruinas ac nivis perferent ?</em>
   * [ADV]() 15: <em><b>quo</b> usque tandem abutere , Catilina , patientia nostra ?</em>
+  * [PRON]() 15: <em><b>quo</b> autem pacto illi Appenninum atque illas pruinas ac nivis perferent ?</em>
   * [SCONJ]() 3: <em>praeterea Gabinium arcessit , <b>quo</b> maior auctoritas sermoni inesset .</em>
   * [NOUN]() 1: <em>Aram Fortunae Reducis ante aedes Honoris et Virtutis ad portam Capenam pro reditu meo senatus consacravit , in qua pontifices et virgines Vestales anniversarium sacrificium facere iussit eo die <b>quo</b> , consulibus Q. Lucretio et M. Vinicio , in urbem ex Syria redieram , et diem Augustalia ex cognomine nostro appellavit .</em>
 * <em>ut</em>
@@ -195,7 +195,7 @@ The 10 most frequent `ADV` types:  <em>non, autem, enim, ne, et, ergo, quam, ut,
 
 The 10 most frequent ambiguous lemmas: <em>ne</em> ([ADV]() 697, [SCONJ]() 242), <em>et</em> ([CCONJ]() 8395, [ADV]() 459, [ADJ]() 1), <em>ut</em> ([SCONJ]() 1298, [ADV]() 250), <em>expression</em> ([ADV]() 148, [NOUN]() 1), <em>calendar</em> ([ADV]() 137, [NOUN]() 1), <em>modo</em> ([ADV]() 112, [SCONJ]() 5), <em>nisi</em> ([ADV]() 108, [SCONJ]() 58), <em>hic</em> ([ADJ]() 1139, [DET]() 626, [ADV]() 73), <em>tamquam</em> ([ADV]() 60, [SCONJ]() 1), <em>quasi</em> ([ADV]() 54, [SCONJ]() 9)
 
-The 10 most frequent ambiguous types:  <em>non</em> ([ADV]() 2170, [ADJ]() 14), <em>ne</em> ([ADV]() 688, [SCONJ]() 242), <em>et</em> ([CCONJ]() 8394, [ADV]() 459, [ADJ]() 1), <em>quam</em> ([ADV]() 334, [PRON]() 138, [SCONJ]() 40, [DET]() 3, [ADJ]() 2), <em>ut</em> ([SCONJ]() 1255, [ADV]() 295), <em>etiam</em> ([ADV]() 280, [SCONJ]() 2), <em>modo</em> ([ADV]() 112, [NOUN]() 17, [SCONJ]() 5), <em>magis</em> ([ADV]() 110, [NOUN]() 3), <em>nisi</em> ([ADV]() 108, [SCONJ]() 57), <em>eo</em> ([PRON]() 212, [ADV]() 75, [DET]() 56, [ADJ]() 2, [VERB]() 2)
+The 10 most frequent ambiguous types:  <em>non</em> ([ADV]() 2170, [ADJ]() 14), <em>ne</em> ([ADV]() 688, [SCONJ]() 242), <em>et</em> ([CCONJ]() 8394, [ADV]() 459, [ADJ]() 1), <em>quam</em> ([ADV]() 334, [PRON]() 138, [SCONJ]() 40, [DET]() 3, [ADJ]() 2), <em>ut</em> ([SCONJ]() 1255, [ADV]() 295), <em>etiam</em> ([ADV]() 280, [SCONJ]() 2), <em>modo</em> ([ADV]() 112, [NOUN]() 17, [SCONJ]() 5), <em>magis</em> ([ADV]() 110, [NOUN]() 3), <em>nisi</em> ([ADV]() 108, [SCONJ]() 57), <em>eo</em> ([PRON]() 212, [ADV]() 75, [DET]() 56, [VERB]() 2, [ADJ]() 2)
 
 
 * <em>non</em>
@@ -234,8 +234,8 @@ The 10 most frequent ambiguous types:  <em>non</em> ([ADV]() 2170, [ADJ]() 14), 
   * [PRON]() 212: <em>iustitia enim Dei in <b>eo</b> revelatur ex fide in fidem sicut scriptum est</em>
   * [ADV]() 75: <em>itaque <b>eo</b> me servavi</em>
   * [DET]() 56: <em>In <b>eo</b> proelio ex equitibus nostris interficiuntur quattuor et septuaginta</em>
-  * [ADJ]() 2: <em><b>eo</b> magis timidos perterrent milites</em>
   * [VERB]() 2: <em><b>eo</b> domine</em>
+  * [ADJ]() 2: <em><b>eo</b> magis timidos perterrent milites</em>
 
 ## Morphology
 

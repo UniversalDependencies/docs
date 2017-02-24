@@ -58,7 +58,7 @@ The most frequent other feature values with which `PRON` and `Gender` co-occurre
 
 3816 [da-pos/DET]() tokens (76% of all `DET` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `DET` and `Gender` co-occurred: <tt><a href="Number.html">Number</a>=Sing</tt> (3816; 100%), <tt><a href="Poss.html">Poss</a>=EMPTY</tt> (3482; 91%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (3482; 91%), <tt><a href="Number[psor].html">Number[psor]</a>=EMPTY</tt> (3482; 91%), <tt><a href="PronType.html">PronType</a>=Ind</tt> (2209; 58%).
+The most frequent other feature values with which `DET` and `Gender` co-occurred: <tt><a href="Number.html">Number</a>=Sing</tt> (3816; 100%), <tt><a href="Number[psor].html">Number[psor]</a>=EMPTY</tt> (3482; 91%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (3482; 91%), <tt><a href="Poss.html">Poss</a>=EMPTY</tt> (3482; 91%), <tt><a href="PronType.html">PronType</a>=Ind</tt> (2209; 58%).
 
 `DET` tokens may have the following values of `Gender`:
 
@@ -93,7 +93,7 @@ The most frequent other feature values with which `ADJ` and `Gender` co-occurred
 
 2 [da-pos/VERB]() tokens (0% of all `VERB` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `VERB` and `Gender` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (2; 100%), <tt><a href="Definite.html">Definite</a>=Def</tt> (2; 100%), <tt><a href="Tense.html">Tense</a>=Past</tt> (2; 100%), <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (2; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (2; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (2; 100%).
+The most frequent other feature values with which `VERB` and `Gender` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (2; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (2; 100%), <tt><a href="Definite.html">Definite</a>=Def</tt> (2; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (2; 100%), <tt><a href="Tense.html">Tense</a>=Past</tt> (2; 100%), <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (2; 100%).
 
 `VERB` tokens may have the following values of `Gender`:
 

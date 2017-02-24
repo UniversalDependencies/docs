@@ -11,9 +11,9 @@ The 10 most frequent `AUX` lemmas: <em>biti, htjeti, bilo, Ivan, autor, bivati, 
 
 The 10 most frequent `AUX` types:  <em>je, su, će, bi, biti, nije, smo, bilo, bio, sam</em>
 
-The 10 most frequent ambiguous lemmas: <em>biti</em> ([AUX]() 10334, [ADV]() 5), <em>htjeti</em> ([AUX]() 1306, [VERB]() 50), <em>bilo</em> ([PART]() 27, [CCONJ]() 4, [AUX]() 3), <em>Ivan</em> ([PROPN]() 19, [AUX]() 1), <em>autor</em> ([NOUN]() 25, [AUX]() 1), <em>bivati</em> ([AUX]() 1, [VERB]() 1), <em>budeti</em> ([AUX]() 1, [VERB]() 1), <em>davati</em> ([VERB]() 25, [ADV]() 1, [AUX]() 1, [NOUN]() 1), <em>moći</em> ([VERB]() 651, [AUX]() 1), <em>smjeti</em> ([VERB]() 18, [AUX]() 1)
+The 10 most frequent ambiguous lemmas: <em>biti</em> ([AUX]() 10334, [ADV]() 5), <em>htjeti</em> ([AUX]() 1306, [VERB]() 50), <em>bilo</em> ([PART]() 27, [CCONJ]() 4, [AUX]() 3), <em>Ivan</em> ([PROPN]() 19, [AUX]() 1), <em>autor</em> ([NOUN]() 25, [AUX]() 1), <em>bivati</em> ([AUX]() 1, [VERB]() 1), <em>budeti</em> ([AUX]() 1, [VERB]() 1), <em>davati</em> ([VERB]() 25, [NOUN]() 1, [ADV]() 1, [AUX]() 1), <em>moći</em> ([VERB]() 651, [AUX]() 1), <em>smjeti</em> ([VERB]() 18, [AUX]() 1)
 
-The 10 most frequent ambiguous types:  <em>je</em> ([AUX]() 5655, [PRON]() 29), <em>su</em> ([AUX]() 1775, [ADP]() 1), <em>biti</em> ([AUX]() 406, [NOUN]() 2), <em>bilo</em> ([AUX]() 170, [PART]() 27, [CCONJ]() 4), <em>sam</em> ([AUX]() 136, [ADJ]() 22), <em>bit</em> ([AUX]() 67, [NOUN]() 1), <em>si</em> ([PRON]() 15, [AUX]() 4), <em>Ivan</em> ([PROPN]() 15, [AUX]() 1), <em>autor</em> ([NOUN]() 9, [AUX]() 1), <em>budete</em> ([AUX]() 1, [VERB]() 1)
+The 10 most frequent ambiguous types:  <em>je</em> ([AUX]() 5655, [PRON]() 29), <em>su</em> ([AUX]() 1775, [ADP]() 1), <em>biti</em> ([AUX]() 406, [NOUN]() 2), <em>bilo</em> ([AUX]() 170, [PART]() 27, [CCONJ]() 4), <em>sam</em> ([AUX]() 136, [ADJ]() 22), <em>bit</em> ([AUX]() 67, [NOUN]() 1), <em>si</em> ([PRON]() 15, [AUX]() 4), <em>Ivan</em> ([PROPN]() 15, [AUX]() 1), <em>autor</em> ([NOUN]() 9, [AUX]() 1), <em>budete</em> ([VERB]() 1, [AUX]() 1)
 
 
 * <em>je</em>
@@ -45,8 +45,8 @@ The 10 most frequent ambiguous types:  <em>je</em> ([AUX]() 5655, [PRON]() 29), 
   * [NOUN]() 9: <em>On je <b>autor</b> famoznog Zakona o strateškim investicijama .</em>
   * [AUX]() 1: <em>SETH GODIN je marketinški stručnjak i <b>autor</b> deset međunarodnih bestsellera koji su promijenili način na koji ljudi razmišljaju o marketingu , promjenama i poslu .</em>
 * <em>budete</em>
-  * [AUX]() 1: <em>Kad se već morate družiti s računalom , jer ste preumorni da <b>budete</b> konobarica i prestari za pijanisticu , neka vas pisanje uveseljava .</em>
   * [VERB]() 1: <em>Zato je svojoj subraći i suradnicima govorio : Tražim da <b>budete</b> sveti .</em>
+  * [AUX]() 1: <em>Kad se već morate družiti s računalom , jer ste preumorni da <b>budete</b> konobarica i prestari za pijanisticu , neka vas pisanje uveseljava .</em>
 
 ## Morphology
 

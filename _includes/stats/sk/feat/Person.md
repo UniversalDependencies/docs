@@ -16,7 +16,7 @@ The feature is used with 3 part-of-speech tags: [sk-pos/VERB]() (11699; 13% inst
 
 11699 [sk-pos/VERB]() tokens (91% of all `VERB` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="Polarity.html">Polarity</a>=Pos</tt> (10598; 91%), <tt><a href="Number.html">Number</a>=Sing</tt> (9587; 82%), <tt><a href="Tense.html">Tense</a>=Past</tt> (8572; 73%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (8572; 73%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (8572; 73%), <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (7077; 60%), <tt><a href="Aspect.html">Aspect</a>=Perf</tt> (6018; 51%).
+The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="Polarity.html">Polarity</a>=Pos</tt> (10598; 91%), <tt><a href="Number.html">Number</a>=Sing</tt> (9587; 82%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (8572; 73%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (8572; 73%), <tt><a href="Tense.html">Tense</a>=Past</tt> (8572; 73%), <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (7077; 60%), <tt><a href="Aspect.html">Aspect</a>=Perf</tt> (6018; 51%).
 
 `VERB` tokens may have the following values of `Person`:
 
@@ -98,7 +98,7 @@ The most frequent other feature values with which `AUX` and `Person` co-occurred
 
 29 [sk-pos/ADJ]() tokens (0% of all `ADJ` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `ADJ` and `Person` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (29; 100%), <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (29; 100%), <tt><a href="Degree.html">Degree</a>=EMPTY</tt> (29; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (29; 100%), <tt><a href="Polarity.html">Polarity</a>=Pos</tt> (29; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (27; 93%), <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (15; 52%).
+The most frequent other feature values with which `ADJ` and `Person` co-occurred: <tt><a href="Polarity.html">Polarity</a>=Pos</tt> (29; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (29; 100%), <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (29; 100%), <tt><a href="Degree.html">Degree</a>=EMPTY</tt> (29; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (29; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (27; 93%), <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (15; 52%).
 
 `ADJ` tokens may have the following values of `Person`:
 
@@ -121,8 +121,8 @@ The 10 most frequent relations where parent and child node agree in `Person`:
 <tt>VERB --[<a href="../dep/advcl.html">advcl</a>]--> VERB</tt> (472; 71%),
 <tt>VERB --[<a href="../dep/csubj.html">csubj</a>]--> VERB</tt> (35; 57%),
 <tt>VERB --[<a href="../dep/parataxis.html">parataxis</a>]--> VERB</tt> (24; 67%),
-<tt>VERB --[<a href="../dep/compound.html">compound</a>]--> VERB</tt> (5; 100%),
 <tt>VERB --[<a href="../dep/csubj:pass.html">csubj:pass</a>]--> VERB</tt> (5; 56%),
+<tt>VERB --[<a href="../dep/compound.html">compound</a>]--> VERB</tt> (5; 100%),
 <tt>VERB --[<a href="../dep/appos.html">appos</a>]--> VERB</tt> (2; 100%),
 <tt>ADJ --[<a href="../dep/conj.html">conj</a>]--> ADJ</tt> (1; 100%).
 

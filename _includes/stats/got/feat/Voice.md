@@ -16,7 +16,7 @@ The feature is used with 1 part-of-speech tags: [got-pos/VERB]() (10295; 23% ins
 
 10295 [got-pos/VERB]() tokens (100% of all `VERB` tokens) have a non-empty value of `Voice`.
 
-The most frequent other feature values with which `VERB` and `Voice` co-occurred: <tt><a href="Strength.html">Strength</a>=EMPTY</tt> (8203; 80%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (8203; 80%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (8202; 80%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (7521; 73%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (6610; 64%), <tt><a href="Number.html">Number</a>=Sing</tt> (6359; 62%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (5995; 58%).
+The most frequent other feature values with which `VERB` and `Voice` co-occurred: <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (8203; 80%), <tt><a href="Strength.html">Strength</a>=EMPTY</tt> (8203; 80%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (8202; 80%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (7521; 73%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (6610; 64%), <tt><a href="Number.html">Number</a>=Sing</tt> (6359; 62%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (5995; 58%).
 
 `VERB` tokens may have the following values of `Voice`:
 

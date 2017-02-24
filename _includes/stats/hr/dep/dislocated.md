@@ -57,6 +57,46 @@ The following 7 pairs of parts of speech are connected with `dislocated`: [hr-po
 
 
 ~~~ conllu
+# visual-style 21	bgColor:blue
+# visual-style 21	fgColor:white
+# visual-style 22	bgColor:blue
+# visual-style 22	fgColor:white
+# visual-style 22 21 dislocated	color:blue
+1	Popust	Popust	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	18	parataxis	_	_
+2	tijekom	tijekom	ADP	_	Case=Gen	3	case	_	_
+3	trajanja	trajanje	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	1	nmod	_	_
+4	manifestacije	manifestacija	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	3	nmod	_	_
+5	Do	do	ADP	_	Case=Gen	6	case	_	_
+6	kraja	kraj	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	4	nmod	_	_
+7	Dana	dan	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	6	nmod	_	_
+8	trgovine	trgovina	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	4	nmod	_	_
+9	BiH	BiH	PROPN	_	Case=Gen|Gender=Fem|Number=Sing	8	nmod	_	SpaceAfter=No
+10	,	,	PUNCT	_	_	13	punct	_	_
+11	koji	koji	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Int,Rel	13	nsubj	_	_
+12	će	htjeti	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	aux	_	_
+13	trajati	trajati	VERB	_	VerbForm=Inf	1	acl	_	_
+14	do	do	ADP	_	Case=Gen	16	case	_	_
+15	30.	30.	ADJ	_	NumType=Ord	16	amod	_	_
+16	lipnja	lipanj	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	13	obl	_	SpaceAfter=No
+17	,	,	PUNCT	_	_	13	punct	_	_
+18	predviđeno	predvidjeti	ADJ	_	Case=Nom|Definite=Def|Degree=Pos|Gender=Neut|Number=Sing|VerbForm=Part|Voice=Pass	0	root	_	_
+19	je	biti	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	aux:pass	_	_
+20	održavanje	održavanje	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	18	nsubj:pass	_	_
+21	i	i	CCONJ	_	_	22	dislocated	_	_
+22	drugih	drugi	ADJ	_	Case=Gen|Gender=Masc|Number=Plur|NumType=Ord	23	amod	_	_
+23	sadržaja	sadržaj	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	20	nmod	_	SpaceAfter=No
+24	,	,	PUNCT	_	_	29	punct	_	_
+25	kojima	koji	DET	_	Case=Ins|Gender=Masc|Number=Plur|PronType=Int,Rel	29	obl	_	_
+26	je	biti	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	29	aux:pass	_	_
+27	manifestacija	manifestacija	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	29	nsubj:pass	_	_
+28	dodatno	dodatno	ADV	_	Degree=Pos	29	advmod	_	_
+29	obogaćena	obogatiti	ADJ	_	Case=Nom|Definite=Def|Degree=Pos|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass	23	acl	_	SpaceAfter=No
+30	.	.	PUNCT	_	_	18	punct	_	_
+
+~~~
+
+
+~~~ conllu
 # visual-style 20	bgColor:blue
 # visual-style 20	fgColor:white
 # visual-style 21	bgColor:blue
@@ -91,31 +131,6 @@ The following 7 pairs of parts of speech are connected with `dislocated`: [hr-po
 27	Božju	božji	ADJ	_	Case=Acc|Definite=Def|Degree=Pos|Gender=Fem|Number=Sing|Poss=Yes	28	amod	_	_
 28	snagu	snaga	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	25	obl	_	SpaceAfter=No
 29	.	.	PUNCT	_	_	14	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 12	bgColor:blue
-# visual-style 12	fgColor:white
-# visual-style 12 1 dislocated	color:blue
-1	Ili	ili	CCONJ	_	_	12	dislocated	_	SpaceAfter=No
-2	,	,	PUNCT	_	_	3	punct	_	_
-3	kazao	kazati	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	12	parataxis	_	_
-4	je	biti	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	_
-5	Traykov	Traykov	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	_
-6	u	u	ADP	_	Case=Loc	7	case	_	_
-7	intervjuu	intervju	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	3	obl	_	_
-8	sofijskoj	sofijski	ADJ	_	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing	10	amod	_	_
-9	Novoj	nov	ADJ	_	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing	10	compound	_	_
-10	TV	TV	PROPN	_	Case=Dat|Gender=Fem|Number=Sing	7	obj	_	SpaceAfter=No
-11	,	,	PUNCT	_	_	3	punct	_	_
-12	pronaći	pronaći	VERB	_	VerbForm=Inf	0	root	_	_
-13	drugi	drugi	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	14	amod	_	_
-14	put	put	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	12	obj	_	SpaceAfter=No
-15	.	.	PUNCT	_	_	12	punct	_	_
 
 ~~~
 

@@ -13,7 +13,7 @@ The 10 most frequent `ADV` types:  也、 並、 而、 但、 不、 所、 都
 
 The 10 most frequent ambiguous lemmas: 也 ([ADV]() 290, [CCONJ]() 6), 並 ([ADV]() 283, [CCONJ]() 14), 而 ([ADV]() 283, [CCONJ]() 11), 不 ([ADV]() 180, [PART]() 3), 所 ([ADV]() 138, [NOUN]() 22, [PART]() 21), 都 ([ADV]() 133, [PART]() 1, [NOUN]() 1), 曾 ([ADV]() 105, [PROPN]() 8), 則 ([ADV]() 102, [NOUN]() 3), 就 ([ADV]() 96, [ADP]() 4), 已 ([ADV]() 95, [VERB]() 1)
 
-The 10 most frequent ambiguous types:  也 ([ADV]() 290, [CCONJ]() 6), 並 ([ADV]() 283, [CCONJ]() 14), 而 ([ADV]() 283, [CCONJ]() 11), 不 ([ADV]() 180, [PART]() 3), 所 ([ADV]() 138, [NOUN]() 22, [PART]() 21), 都 ([ADV]() 133, [NOUN]() 1, [PART]() 1), 曾 ([ADV]() 105, [PROPN]() 8), 則 ([ADV]() 102, [NOUN]() 3), 就 ([ADV]() 96, [ADP]() 4), 已 ([ADV]() 95, [VERB]() 1)
+The 10 most frequent ambiguous types:  也 ([ADV]() 290, [CCONJ]() 6), 並 ([ADV]() 283, [CCONJ]() 14), 而 ([ADV]() 283, [CCONJ]() 11), 不 ([ADV]() 180, [PART]() 3), 所 ([ADV]() 138, [NOUN]() 22, [PART]() 21), 都 ([ADV]() 133, [PART]() 1, [NOUN]() 1), 曾 ([ADV]() 105, [PROPN]() 8), 則 ([ADV]() 102, [NOUN]() 3), 就 ([ADV]() 96, [ADP]() 4), 已 ([ADV]() 95, [VERB]() 1)
 
 
 * 也
@@ -34,8 +34,8 @@ The 10 most frequent ambiguous types:  也 ([ADV]() 290, [CCONJ]() 6), 並 ([ADV
   * [PART]() 21: 於是 羅馬 的 異端 裁判 <b>所</b> 成立 , 由 羅馬 教廷 控制 .
 * 都
   * [ADV]() 133: 但是 迪士尼 的 公主 們 不會 <b>都</b> 太 侷限 於 一 個 範圍 之內 了 嗎 ?
-  * [NOUN]() 1: 比較 有 代表 性 的 有 北京 大學 中 文 系 袁 毓林 先生 , 比如 他 對 漢 語 「 <b>都</b> 」 的 研究 .
   * [PART]() 1: 新宿 御苑 是 日本 東京 <b>都</b> 橫跨 新宿 區 與 澀谷 區 的 庭園 , 面積 58.3 公頃 .
+  * [NOUN]() 1: 比較 有 代表 性 的 有 北京 大學 中 文 系 袁 毓林 先生 , 比如 他 對 漢 語 「 <b>都</b> 」 的 研究 .
 * 曾
   * [ADV]() 105: 理學 家 朱 熹 任 漳州 知府 時 , 也 <b>曾</b> 禁止 當地 戲曲 演出 .
   * [PROPN]() 8: <b>曾</b> 成傑 案 是 湘西 非法 集資 系列 案件 中 的 一 件 .

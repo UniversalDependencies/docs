@@ -42,7 +42,7 @@ The most frequent other feature values with which `ADJ` and `Poss` co-occurred: 
 
 The 10 most frequent relations where parent and child node agree in `Poss`:
 <tt>ADJ --[<a href="../dep/conj.html">conj</a>]--> ADJ</tt> (4; 100%),
+<tt>ADJ --[<a href="../dep/compound.html">compound</a>]--> ADJ</tt> (1; 100%),
 <tt>DET --[<a href="../dep/flat.html">flat</a>]--> DET</tt> (1; 100%),
-<tt>ADJ --[<a href="../dep/flat.html">flat</a>]--> ADJ</tt> (1; 100%),
-<tt>ADJ --[<a href="../dep/compound.html">compound</a>]--> ADJ</tt> (1; 100%).
+<tt>ADJ --[<a href="../dep/flat.html">flat</a>]--> ADJ</tt> (1; 100%).
 

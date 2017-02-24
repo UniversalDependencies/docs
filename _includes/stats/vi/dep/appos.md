@@ -77,16 +77,32 @@ The following 5 pairs of parts of speech are connected with `appos`: [vi-pos/NOU
 ~~~ conllu
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 4 appos	color:blue
-1	"	"	PUNCT	"	_	2	punct	_	SpaceAfter=No
-2	tôi	tôi	PROPN	P	_	0	root	_	SpaceAfter=No
-3	,	,	PUNCT	,	_	2	punct	_	_
-4	Hùng	Hùng	NOUN	Np	_	2	appos	_	_
-5	đây	đây	PROPN	P	_	2	det	_	SpaceAfter=No
-6	"	"	PUNCT	"	_	2	punct	_	SpaceAfter=No
-7	.	.	PUNCT	.	_	2	punct	_	_
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 4 appos	color:blue
+1	vợ	vợ	NOUN	N	_	14	nsubj	_	SpaceAfter=No
+2	,	,	PUNCT	,	_	3	punct	_	_
+3	con	con	NOUN	N	_	1	conj	_	_
+4	và	và	SCONJ	CC	_	1	appos	_	_
+5	ông bà	ông bà	NOUN	N	_	1	conj	_	SpaceAfter=No
+6	,	,	PUNCT	,	_	8	punct	_	_
+7	các	các	DET	L	_	8	det	_	_
+8	anh	anh	NOUN	N	_	1	conj	_	_
+9	các	các	DET	L	_	8	det	_	_
+10	chị	chị	NOUN	N	_	8	compound	_	_
+11	nhà	nhà	NOUN	N	_	8	compound	_	_
+12	vợ	vợ	NOUN	N	_	11	compound	_	_
+13	đã	đã	X	R	_	14	advmod	_	_
+14	khổ sở	khổ sở	ADJ	A	_	0	root	_	_
+15	vì	vì	ADP	E	_	18	case	_	_
+16	mấy	mấy	DET	L	_	18	det	_	_
+17	đứa	đứa	NOUN	Nc	_	18	compound	_	_
+18	con	con	NOUN	N	_	14	nmod	_	_
+19	nhà	nhà	NOUN	N	_	18	compound	_	_
+20	mình	mình	PROPN	P	_	19	det	_	_
+21	lắm	lắm	X	R	_	14	advmod	_	_
+22	rồi	rồi	X	R	_	14	advmod	_	SpaceAfter=No
+23	.	.	PUNCT	.	_	14	punct	_	_
 
 ~~~
 

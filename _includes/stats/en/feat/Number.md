@@ -73,7 +73,7 @@ The most frequent other feature values with which `AUX` and `Number` co-occurred
 
 2141 [en-pos/VERB]() tokens (8% of all `VERB` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="Mood.html">Mood</a>=Ind</tt> (2136; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (2136; 100%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (2016; 94%).
+The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (2136; 100%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (2136; 100%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (2016; 94%).
 
 `VERB` tokens may have the following values of `Number`:
 

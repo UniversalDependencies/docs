@@ -86,7 +86,7 @@ The most frequent other feature values with which `VERB` and `Tense` co-occurred
 
 13281 [no-pos/AUX]() tokens (90% of all `AUX` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `AUX` and `Tense` co-occurred: <tt><a href="Mood.html">Mood</a>=Ind</tt> (13281; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (13281; 100%).
+The most frequent other feature values with which `AUX` and `Tense` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (13281; 100%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (13281; 100%).
 
 `AUX` tokens may have the following values of `Tense`:
 

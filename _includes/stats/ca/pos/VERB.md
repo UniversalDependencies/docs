@@ -13,7 +13,7 @@ The 10 most frequent `VERB` types:  <em>fer, té, ha, fet, tenir, dir, donar, ex
 
 The 10 most frequent ambiguous lemmas: <em>fer</em> ([VERB]() 1385, [AUX]() 351, [ADJ]() 2, [ADP]() 1), <em>tenir</em> ([VERB]() 1279, [AUX]() 16, [ADP]() 4), <em>haver</em> ([AUX]() 6746, [VERB]() 709), <em>dir</em> ([VERB]() 555, [NOUN]() 56, [AUX]() 43), <em>donar</em> ([VERB]() 406, [AUX]() 13), <em>presentar</em> ([VERB]() 387, [AUX]() 3), <em>explicar</em> ([VERB]() 341, [AUX]() 5), <em>demanar</em> ([VERB]() 339, [AUX]() 8, [NOUN]() 1), <em>passar</em> ([VERB]() 334, [AUX]() 18, [NOUN]() 1), <em>arribar</em> ([VERB]() 313, [AUX]() 46)
 
-The 10 most frequent ambiguous types:  <em>fer</em> ([VERB]() 579, [AUX]() 82), <em>ha</em> ([AUX]() 4126, [VERB]() 415), <em>fet</em> ([NOUN]() 234, [VERB]() 227, [ADJ]() 20, [AUX]() 15), <em>tenir</em> ([VERB]() 197, [AUX]() 8), <em>dir</em> ([VERB]() 189, [NOUN]() 56, [AUX]() 25), <em>donar</em> ([VERB]() 186, [AUX]() 9), <em>dit</em> ([VERB]() 175, [NOUN]() 4, [ADJ]() 4), <em>arribar</em> ([VERB]() 157, [AUX]() 29), <em>fa</em> ([AUX]() 204, [VERB]() 151, [NOUN]() 127), <em>aconseguir</em> ([VERB]() 140, [AUX]() 20)
+The 10 most frequent ambiguous types:  <em>fer</em> ([VERB]() 579, [AUX]() 82), <em>ha</em> ([AUX]() 4126, [VERB]() 415), <em>fet</em> ([NOUN]() 234, [VERB]() 227, [ADJ]() 20, [AUX]() 15), <em>tenir</em> ([VERB]() 197, [AUX]() 8), <em>dir</em> ([VERB]() 189, [NOUN]() 56, [AUX]() 25), <em>donar</em> ([VERB]() 186, [AUX]() 9), <em>dit</em> ([VERB]() 175, [ADJ]() 4, [NOUN]() 4), <em>arribar</em> ([VERB]() 157, [AUX]() 29), <em>fa</em> ([AUX]() 204, [VERB]() 151, [NOUN]() 127), <em>aconseguir</em> ([VERB]() 140, [AUX]() 20)
 
 
 * <em>fer</em>
@@ -39,8 +39,8 @@ The 10 most frequent ambiguous types:  <em>fer</em> ([VERB]() 579, [AUX]() 82), 
   * [AUX]() 9: <em>De totes maneres , Bloomberg va voler <b>donar</b> un missatge d' optimisme als seus ciutadans : " El futur només reserva coses bones per a Nova York " .</em>
 * <em>dit</em>
   * [VERB]() 175: <em>" Fam per Catalunya i negoci per a uns quants espavilats " , ha <b>dit</b> .</em>
-  * [NOUN]() 4: <em>A mi no m' ha escollit a <b>dit</b> ningú .</em>
   * [ADJ]() 4: <em>L' objectiu , <b>dit</b> clarament , és desallotjar Pujol .</em>
+  * [NOUN]() 4: <em>A mi no m' ha escollit a <b>dit</b> ningú .</em>
 * <em>arribar</em>
   * [VERB]() 157: <em>El 1980 va <b>arribar</b> la debacle .</em>
   * [AUX]() 29: <em>No vaig <b>arribar</b> a tocar mai amb Tito Puente .</em>

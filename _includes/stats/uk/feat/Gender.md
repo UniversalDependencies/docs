@@ -37,7 +37,7 @@ The most frequent other feature values with which `NOUN` and `Gender` co-occurre
 
 752 [uk-pos/ADJ]() tokens (67% of all `ADJ` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `ADJ` and `Gender` co-occurred: <tt><a href="Number.html">Number</a>=EMPTY</tt> (752; 100%), <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (681; 91%), <tt><a href="VerbForm.html">VerbForm</a>=EMPTY</tt> (679; 90%), <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (679; 90%), <tt><a href="Aspect.html">Aspect</a>=EMPTY</tt> (679; 90%), <tt><a href="Degree.html">Degree</a>=EMPTY</tt> (509; 68%).
+The most frequent other feature values with which `ADJ` and `Gender` co-occurred: <tt><a href="Number.html">Number</a>=EMPTY</tt> (752; 100%), <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (681; 91%), <tt><a href="Aspect.html">Aspect</a>=EMPTY</tt> (679; 90%), <tt><a href="VerbForm.html">VerbForm</a>=EMPTY</tt> (679; 90%), <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (679; 90%), <tt><a href="Degree.html">Degree</a>=EMPTY</tt> (509; 68%).
 
 `ADJ` tokens may have the following values of `Gender`:
 
@@ -58,7 +58,7 @@ The most frequent other feature values with which `ADJ` and `Gender` co-occurred
 
 581 [uk-pos/VERB]() tokens (37% of all `VERB` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `VERB` and `Gender` co-occurred: <tt><a href="Person.html">Person</a>=EMPTY</tt> (581; 100%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (581; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (581; 100%), <tt><a href="Tense.html">Tense</a>=Past</tt> (581; 100%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (581; 100%), <tt><a href="Aspect.html">Aspect</a>=Imp</tt> (332; 57%).
+The most frequent other feature values with which `VERB` and `Gender` co-occurred: <tt><a href="Number.html">Number</a>=EMPTY</tt> (581; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (581; 100%), <tt><a href="Tense.html">Tense</a>=Past</tt> (581; 100%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (581; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (581; 100%), <tt><a href="Aspect.html">Aspect</a>=Imp</tt> (332; 57%).
 
 `VERB` tokens may have the following values of `Gender`:
 
@@ -97,7 +97,7 @@ The most frequent other feature values with which `PROPN` and `Gender` co-occurr
 
 327 [uk-pos/PRON]() tokens (45% of all `PRON` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `PRON` and `Gender` co-occurred: <tt><a href="Number.html">Number</a>=EMPTY</tt> (327; 100%), <tt><a href="PronType.html">PronType</a>=Prs</tt> (174; 53%), <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (173; 53%), <tt><a href="Person.html">Person</a>=3</tt> (173; 53%), <tt><a href="Case.html">Case</a>=Nom</tt> (167; 51%).
+The most frequent other feature values with which `PRON` and `Gender` co-occurred: <tt><a href="Number.html">Number</a>=EMPTY</tt> (327; 100%), <tt><a href="PronType.html">PronType</a>=Prs</tt> (174; 53%), <tt><a href="Person.html">Person</a>=3</tt> (173; 53%), <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (173; 53%), <tt><a href="Case.html">Case</a>=Nom</tt> (167; 51%).
 
 `PRON` tokens may have the following values of `Gender`:
 
@@ -144,7 +144,7 @@ The most frequent other feature values with which `DET` and `Gender` co-occurred
 
 103 [uk-pos/AUX]() tokens (60% of all `AUX` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `AUX` and `Gender` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (103; 100%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (103; 100%), <tt><a href="Tense.html">Tense</a>=Past</tt> (103; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (103; 100%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (103; 100%), <tt><a href="Aspect.html">Aspect</a>=Imp</tt> (103; 100%).
+The most frequent other feature values with which `AUX` and `Gender` co-occurred: <tt><a href="Person.html">Person</a>=EMPTY</tt> (103; 100%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (103; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (103; 100%), <tt><a href="Aspect.html">Aspect</a>=Imp</tt> (103; 100%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (103; 100%), <tt><a href="Tense.html">Tense</a>=Past</tt> (103; 100%).
 
 `AUX` tokens may have the following values of `Gender`:
 

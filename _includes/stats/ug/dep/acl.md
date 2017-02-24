@@ -65,20 +65,39 @@ The following 5 pairs of parts of speech are connected with `acl`: [ug-pos/NOUN]
 
 
 ~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 7 6 acl	color:blue
-1	ئەمەلىيەتتە	_	NOUN	N	_	7	advmod	_	Translit=emeliyette
-2	مېنىڭ	_	PRON	P	_	6	nmod:poss	_	Translit=mëning
-3	بۇ	_	PRON	P	_	5	det	_	Translit=bu
-4	قاباھەتلىك	_	NOUN	N	_	5	amod	_	Translit=qabahetlik
-5	رېئاللىقنى	_	NOUN	N	_	6	obj	_	Translit=rëalliqni
-6	كۆرگۈم	_	VERB	V	_	7	acl	_	Translit=körgüm
-7	يوق	_	ADJ	A	_	0	root	_	Translit=yoq
-8	ئىدى	_	AUX	V	_	7	cop	_	SpaceAfter=No|Translit=idi
-9	.	_	PUNCT	Y	_	8	punct	_	Translit=.
+# visual-style 15	bgColor:blue
+# visual-style 15	fgColor:white
+# visual-style 18	bgColor:blue
+# visual-style 18	fgColor:white
+# visual-style 18 15 acl	color:blue
+1	مەن	_	PRON	P	_	27	nsubj	_	Translit=men
+2	بولسام	_	AUX	V	_	1	cop	_	Translit=bolsam
+3	شەكىل	_	NOUN	N	_	4	obj	_	Translit=shekil
+4	ئۆزگەرتىپ	_	VERB	V	_	19	advcl	_	Translit=özgertip
+5	ئۆزۈم	_	PRON	P	_	7	nsubj	_	Translit=özüm
+6	قەدىرلەپ	_	NOUN	N	_	7	advmod	_	Translit=qedirlep
+7	سۆيگەن	_	VERB	V	_	9	acl	_	Translit=söygen
+8	بىر	_	NUM	M	_	9	nummod	_	Translit=bir
+9	قىزنىڭ	_	NOUN	N	_	10	nmod:poss	_	Translit=qizning
+10	تومۇرىدىكى	_	NOUN	N	_	14	amod	_	Translit=tomuridiki
+11	ئىسسىق	_	ADJ	A	_	14	aux	_	SpaceAfter=No|Translit=issiq
+12	،	_	PUNCT	Y	_	11	punct	_	Translit=,
+13	قىزىل	_	ADJ	A	_	14	amod	_	Translit=qizil
+14	قېنىنى	_	NOUN	N	_	15	obj	_	Translit=qënini
+15	شوراۋاتقان	_	NOUN	N	_	18	acl	_	Translit=shorawatqan
+16	يەتتە	_	NUM	M	_	17	nummod	_	Translit=yette
+17	باشلىق	_	NOUN	N	_	18	amod	_	Translit=bashliq
+18	يالماۋۇزغا	_	NOUN	N	_	19	obl	_	Translit=yalmawuzgha
+19	ئايلىنىپ	_	VERB	V	_	27	advcl	_	SpaceAfter=No|Translit=aylinip
+20	،	_	PUNCT	Y	_	19	punct	_	Translit=,
+21	كىمدۇر	_	PRON	P	_	22	compound	_	Translit=kimdur
+22	بىرىنىڭ	_	NUM	M	_	26	nmod:poss	_	Translit=birining
+23	ئاتلىق	_	ADJ	A	_	24	advmod	_	Translit=atliq
+24	كېلىپ	_	VERB	V	_	26	advcl	_	Translit=këlip
+25	مېنى	_	PRON	P	_	26	obj	_	Translit=mëni
+26	ئۆلتۈرۈۋېتىشىنى	_	VERB	V	_	27	obj	_	Translit=öltürüwëtishini
+27	كۈتەتتىم	_	VERB	V	_	0	root	_	SpaceAfter=No|Translit=kütettim
+28	.	_	PUNCT	Y	_	27	punct	_	Translit=.
 
 ~~~
 

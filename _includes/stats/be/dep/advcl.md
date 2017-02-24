@@ -42,6 +42,28 @@ The following 9 pairs of parts of speech are connected with `advcl`: [be-pos/VER
 
 
 ~~~ conllu
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 11	bgColor:blue
+# visual-style 11	fgColor:white
+# visual-style 11 7 advcl	color:blue
+1	А	а	CCONJ	CC	_	11	cc	_	_
+2	калі	калі	SCONJ	IN	_	7	mark	_	_
+3	беларусы	беларус	NOUN	NN	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	7	nsubj	_	_
+4	не	не	PART	UH	_	7	advmod	_	_
+5	будуць	быць	AUX	VBC	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	7	aux	_	_
+6	мяне	я	PRON	PRP	Case=Acc|Number=Sing|Person=1	7	obj	_	_
+7	разумець	разумець	VERB	VB	Aspect=Imp|VerbForm=Inf|Voice=Act	11	advcl	_	SpaceAfter=No
+8	,	,	PUNCT	PUNCT	_	7	punct	_	_
+9	гэта	гэта	PRON	DT	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	11	nsubj	_	_
+10	іх	іх	DET	PRP$	_	11	det	_	_
+11	праблема	праблема	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
+12	.	.	PUNCT	PUNCT	_	11	punct	_	_
+
+~~~
+
+
+~~~ conllu
 # visual-style 20	bgColor:blue
 # visual-style 20	fgColor:white
 # visual-style 9	bgColor:blue
@@ -70,28 +92,6 @@ The following 9 pairs of parts of speech are connected with `advcl`: [be-pos/VER
 21	святлоадбівальных	святлоадбівальны	ADJ	JJL	Case=Gen|Degree=Pos|Number=Plur	22	amod	_	_
 22	элементаў	элемент	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	20	nmod	_	SpaceAfter=No
 23	.	.	PUNCT	PUNCT	_	9	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 11	bgColor:blue
-# visual-style 11	fgColor:white
-# visual-style 11 7 advcl	color:blue
-1	А	а	CCONJ	CC	_	11	cc	_	_
-2	калі	калі	SCONJ	IN	_	7	mark	_	_
-3	беларусы	беларус	NOUN	NN	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	7	nsubj	_	_
-4	не	не	PART	UH	_	7	advmod	_	_
-5	будуць	быць	AUX	VBC	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	7	aux	_	_
-6	мяне	я	PRON	PRP	Case=Acc|Number=Sing|Person=1	7	obj	_	_
-7	разумець	разумець	VERB	VB	Aspect=Imp|VerbForm=Inf|Voice=Act	11	advcl	_	SpaceAfter=No
-8	,	,	PUNCT	PUNCT	_	7	punct	_	_
-9	гэта	гэта	PRON	DT	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	11	nsubj	_	_
-10	іх	іх	DET	PRP$	_	11	det	_	_
-11	праблема	праблема	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
-12	.	.	PUNCT	PUNCT	_	11	punct	_	_
 
 ~~~
 

@@ -34,6 +34,27 @@ The following 5 pairs of parts of speech are connected with `orphan`: [lv-pos/NO
 
 
 ~~~ conllu
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 2 orphan	color:blue
+1	Par	par	ADP	spsan	_	2	case	_	_
+2	ko	kas	PRON	pq000an	Case=Acc|PronType=Int	4	orphan	_	_
+3	man	es	PRON	pp10sdn	Case=Dat|Number=Sing|Person=1|PronType=Prs	4	obl	_	_
+4	tas	tas	PRON	pd0msnn	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	7	parataxis	_	SpaceAfter=No
+5	,	,	PUNCT	zc	_	7	punct	_	_
+6	es	es	PRON	pp10snn	Case=Nom|Number=Sing|Person=1|PronType=Prs	7	nsubj	_	_
+7	domāju	domāt	VERB	vmnipt21san	Evident=Fh,Nfh|Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+8	,	,	PUNCT	zc	_	10	punct	_	_
+9	par	par	ADP	spsan	_	10	case	_	_
+10	ko	kas	PRON	pq000an	Case=Acc|PronType=Int	2	conj	_	SpaceAfter=No
+11	.	.	PUNCT	zs	_	4	punct	_	_
+
+~~~
+
+
+~~~ conllu
 # visual-style 26	bgColor:blue
 # visual-style 26	fgColor:white
 # visual-style 17	bgColor:blue
@@ -66,27 +87,6 @@ The following 5 pairs of parts of speech are connected with `orphan`: [lv-pos/NO
 25	līdzekļu	līdzeklis	NOUN	ncmpg2	Case=Gen|Gender=Masc|Number=Plur	26	nmod	_	_
 26	legalizēšanu	legalizēšana	NOUN	ncfsa4	Case=Acc|Gender=Fem|Number=Sing	17	orphan	_	SpaceAfter=No
 27	.	.	PUNCT	zs	_	5	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 2 orphan	color:blue
-1	Par	par	ADP	spsan	_	2	case	_	_
-2	ko	kas	PRON	pq000an	Case=Acc|PronType=Int	4	orphan	_	_
-3	man	es	PRON	pp10sdn	Case=Dat|Number=Sing|Person=1|PronType=Prs	4	obl	_	_
-4	tas	tas	PRON	pd0msnn	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	7	parataxis	_	SpaceAfter=No
-5	,	,	PUNCT	zc	_	7	punct	_	_
-6	es	es	PRON	pp10snn	Case=Nom|Number=Sing|Person=1|PronType=Prs	7	nsubj	_	_
-7	domāju	domāt	VERB	vmnipt21san	Evident=Fh,Nfh|Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
-8	,	,	PUNCT	zc	_	10	punct	_	_
-9	par	par	ADP	spsan	_	10	case	_	_
-10	ko	kas	PRON	pq000an	Case=Acc|PronType=Int	2	conj	_	SpaceAfter=No
-11	.	.	PUNCT	zs	_	4	punct	_	_
 
 ~~~
 

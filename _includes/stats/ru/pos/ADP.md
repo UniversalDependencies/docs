@@ -11,7 +11,7 @@ The 10 most frequent `ADP` lemmas: <em>В, НА, С, ПО, ИЗ, К, ОТ, ЗА,
 
 The 10 most frequent `ADP` types:  <em>в, на, с, по, из, к, от, за, для, до</em>
 
-The 10 most frequent ambiguous lemmas: <em>В</em> ([ADP]() 3601, [NOUN]() 2, [PROPN]() 1), <em>С</em> ([ADP]() 841, [NOUN]() 5, [ADV]() 1, [X]() 1), <em>ПО</em> ([ADP]() 539, [NOUN]() 2, [PROPN]() 1, [CCONJ]() 1), <em>ПОСЛЕ</em> ([ADP]() 171, [ADV]() 1), <em>КАК</em> ([ADP]() 165, [ADV]() 64, [SCONJ]() 21, [CCONJ]() 4), <em>ПРИ</em> ([ADP]() 158, [ADV]() 2, [NOUN]() 1), <em>О</em> ([ADP]() 151, [ADV]() 2), <em>ВО</em> ([ADP]() 126, [ADV]() 2), <em>У</em> ([ADP]() 117, [PROPN]() 1, [ADV]() 1), <em>ПОД</em> ([ADP]() 83, [ADV]() 1)
+The 10 most frequent ambiguous lemmas: <em>В</em> ([ADP]() 3601, [NOUN]() 2, [PROPN]() 1), <em>С</em> ([ADP]() 841, [NOUN]() 5, [ADV]() 1, [X]() 1), <em>ПО</em> ([ADP]() 539, [NOUN]() 2, [PROPN]() 1, [CCONJ]() 1), <em>ПОСЛЕ</em> ([ADP]() 171, [ADV]() 1), <em>КАК</em> ([ADP]() 165, [ADV]() 64, [SCONJ]() 21, [CCONJ]() 4), <em>ПРИ</em> ([ADP]() 158, [ADV]() 2, [NOUN]() 1), <em>О</em> ([ADP]() 151, [ADV]() 2), <em>ВО</em> ([ADP]() 126, [ADV]() 2), <em>У</em> ([ADP]() 117, [ADV]() 1, [PROPN]() 1), <em>ПОД</em> ([ADP]() 83, [ADV]() 1)
 
 The 10 most frequent ambiguous types:  <em>с</em> ([ADP]() 741, [NOUN]() 2, [X]() 1), <em>по</em> ([ADP]() 460, [CCONJ]() 1), <em>после</em> ([ADP]() 83, [ADV]() 1), <em>как</em> ([ADP]() 154, [ADV]() 62, [SCONJ]() 16, [CCONJ]() 4), <em>при</em> ([ADP]() 133, [NOUN]() 1, [ADV]() 1), <em>у</em> ([ADP]() 97, [ADV]() 1), <em>под</em> ([ADP]() 77, [ADV]() 1), <em>об</em> ([ADP]() 26, [NOUN]() 1), <em>чем</em> ([ADP]() 22, [SCONJ]() 4, [PRON]() 2), <em>типа</em> ([ADP]() 12, [NOUN]() 9)
 
@@ -98,9 +98,9 @@ The 10 most frequent `ADP` lemmas: <em>в, на, с, по, к, из, о, для,
 
 The 10 most frequent `ADP` types:  <em>в, на, с, по, к, из, для, от, о, за</em>
 
-The 10 most frequent ambiguous lemmas: <em>в</em> ([ADP]() 30036, [PROPN]() 4), <em>на</em> ([ADP]() 12829, [VERB]() 3), <em>с</em> ([ADP]() 8988, [PROPN]() 4, [NOUN]() 4), <em>по</em> ([ADP]() 5626, [PROPN]() 4, [NOUN]() 1), <em>о</em> ([ADP]() 3607, [INTJ]() 11, [PROPN]() 2, [NOUN]() 2), <em>у</em> ([ADP]() 2450, [PROPN]() 2), <em>до</em> ([ADP]() 1747, [NOUN]() 2), <em>после</em> ([ADP]() 1007, [ADV]() 5), <em>перед</em> ([ADP]() 378, [NOUN]() 1), <em>против</em> ([ADP]() 302, [ADV]() 11)
+The 10 most frequent ambiguous lemmas: <em>в</em> ([ADP]() 30036, [PROPN]() 4), <em>на</em> ([ADP]() 12829, [VERB]() 3), <em>с</em> ([ADP]() 8988, [NOUN]() 4, [PROPN]() 4), <em>по</em> ([ADP]() 5626, [PROPN]() 4, [NOUN]() 1), <em>о</em> ([ADP]() 3607, [INTJ]() 11, [PROPN]() 2, [NOUN]() 2), <em>у</em> ([ADP]() 2450, [PROPN]() 2), <em>до</em> ([ADP]() 1747, [NOUN]() 2), <em>после</em> ([ADP]() 1007, [ADV]() 5), <em>перед</em> ([ADP]() 378, [NOUN]() 1), <em>против</em> ([ADP]() 302, [ADV]() 11)
 
-The 10 most frequent ambiguous types:  <em>в</em> ([ADP]() 25592, [NOUN]() 4), <em>на</em> ([ADP]() 11888, [VERB]() 3), <em>с</em> ([ADP]() 7769, [NOUN]() 3, [DET]() 3), <em>о</em> ([ADP]() 2681, [INTJ]() 5, [NOUN]() 1), <em>до</em> ([ADP]() 1649, [NOUN]() 2), <em>после</em> ([ADP]() 780, [ADV]() 5), <em>против</em> ([ADP]() 294, [ADV]() 11), <em>про</em> ([ADP]() 177, [X]() 1), <em>прежде</em> ([ADP]() 147, [ADV]() 50), <em>вокруг</em> ([ADP]() 134, [ADV]() 19)
+The 10 most frequent ambiguous types:  <em>в</em> ([ADP]() 25592, [NOUN]() 4), <em>на</em> ([ADP]() 11888, [VERB]() 3), <em>с</em> ([ADP]() 7769, [DET]() 3, [NOUN]() 3), <em>о</em> ([ADP]() 2681, [INTJ]() 5, [NOUN]() 1), <em>до</em> ([ADP]() 1649, [NOUN]() 2), <em>после</em> ([ADP]() 780, [ADV]() 5), <em>против</em> ([ADP]() 294, [ADV]() 11), <em>про</em> ([ADP]() 177, [X]() 1), <em>прежде</em> ([ADP]() 147, [ADV]() 50), <em>вокруг</em> ([ADP]() 134, [ADV]() 19)
 
 
 * <em>в</em>
@@ -111,8 +111,8 @@ The 10 most frequent ambiguous types:  <em>в</em> ([ADP]() 25592, [NOUN]() 4), 
   * [VERB]() 3: <em>За все перенесенные тяготы и несчастья - и вот <b>на</b> тебе ! "</em>
 * <em>с</em>
   * [ADP]() 7769: <em>Их преодоление , как правило , связано <b>с</b> опасностью .</em>
-  * [NOUN]() 3: <em>Следующими идут аттосекунды ( 1 ас = 10^-18 <b>с</b> ) .</em>
   * [DET]() 3: <em>Закон Литовской ССР от 18 мая <b>с</b> . г . " О внесении изменений в Конституцию ( Основной Закон ) Литовской ССР " в ст . 70 установил , что " в республике действуют только ее Верховным Советом или путем референдума принятые законы .</em>
+  * [NOUN]() 3: <em>Следующими идут аттосекунды ( 1 ас = 10^-18 <b>с</b> ) .</em>
 * <em>о</em>
   * [ADP]() 2681: <em>Однако вопрос <b>о</b> его смысле длительное время вызывал ожесточённые споры .</em>
   * [INTJ]() 5: <em>И доколе , <b>о</b> соотечественники , будем мы терпеть кривду и уроны ?</em>

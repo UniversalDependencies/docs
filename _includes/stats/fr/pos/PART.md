@@ -11,9 +11,9 @@ The 10 most frequent `PART` lemmas: <em>l', t, 's, ci, ne, là, ex, to, up, 's'<
 
 The 10 most frequent `PART` types:  <em>l', -t, 's, -ci, n', -là, ne, ci, ex, to</em>
 
-The 10 most frequent ambiguous lemmas: <em>l'</em> ([PART]() 156, [DET]() 2, [PROPN]() 2), <em>t</em> ([PART]() 80, [NOUN]() 1), <em>'s</em> ([PART]() 28, [X]() 5), <em>ci</em> ([PART]() 8, [ADV]() 1), <em>ne</em> ([ADV]() 1559, [PART]() 8), <em>là</em> ([ADV]() 75, [PART]() 4), <em>ex</em> ([NOUN]() 4, [PART]() 2, [INTJ]() 2, [ADP]() 2, [X]() 1), <em>to</em> ([ADP]() 6, [PART]() 2), <em>di</em> ([ADP]() 22, [PROPN]() 1, [PART]() 1, [X]() 1), <em>not</em> ([ADV]() 2, [PART]() 1)
+The 10 most frequent ambiguous lemmas: <em>l'</em> ([PART]() 156, [PROPN]() 2, [DET]() 2), <em>t</em> ([PART]() 80, [NOUN]() 1), <em>'s</em> ([PART]() 28, [X]() 5), <em>ci</em> ([PART]() 8, [ADV]() 1), <em>ne</em> ([ADV]() 1559, [PART]() 8), <em>là</em> ([ADV]() 75, [PART]() 4), <em>ex</em> ([NOUN]() 4, [INTJ]() 2, [PART]() 2, [ADP]() 2, [X]() 1), <em>to</em> ([ADP]() 6, [PART]() 2), <em>di</em> ([ADP]() 22, [X]() 1, [PART]() 1, [PROPN]() 1), <em>not</em> ([ADV]() 2, [PART]() 1)
 
-The 10 most frequent ambiguous types:  <em>l'</em> ([DET]() 6061, [PRON]() 259, [PART]() 149, [PROPN]() 2), <em>'s</em> ([PART]() 29, [X]() 5, [AUX]() 3, [VERB]() 1), <em>-ci</em> ([PART]() 6, [ADV]() 1), <em>n'</em> ([ADV]() 764, [PART]() 5), <em>-là</em> ([ADV]() 10, [PART]() 3), <em>ne</em> ([ADV]() 774, [PART]() 3, [VERB]() 1), <em>ci</em> ([PART]() 2, [ADV]() 1), <em>ex</em> ([NOUN]() 4, [ADP]() 2, [PART]() 2, [INTJ]() 2, [X]() 1), <em>to</em> ([ADP]() 5, [PART]() 1), <em>di</em> ([ADP]() 22, [PROPN]() 1, [PART]() 1, [X]() 1)
+The 10 most frequent ambiguous types:  <em>l'</em> ([DET]() 6061, [PRON]() 259, [PART]() 149, [PROPN]() 2), <em>'s</em> ([PART]() 29, [X]() 5, [AUX]() 3, [VERB]() 1), <em>-ci</em> ([PART]() 6, [ADV]() 1), <em>n'</em> ([ADV]() 764, [PART]() 5), <em>-là</em> ([ADV]() 10, [PART]() 3), <em>ne</em> ([ADV]() 774, [PART]() 3, [VERB]() 1), <em>ci</em> ([PART]() 2, [ADV]() 1), <em>ex</em> ([NOUN]() 4, [INTJ]() 2, [PART]() 2, [ADP]() 2, [X]() 1), <em>to</em> ([ADP]() 5, [PART]() 1), <em>di</em> ([ADP]() 22, [PROPN]() 1, [PART]() 1, [X]() 1)
 
 
 * <em>l'</em>
@@ -44,9 +44,9 @@ The 10 most frequent ambiguous types:  <em>l'</em> ([DET]() 6061, [PRON]() 259, 
   * [ADV]() 1: <em>Cinq ans plus tard elle acheta 35 appareils de plus , d' une version légèrement améliorée , qu' elle désigna cette fois <b>ci</b> L-27B .</em>
 * <em>ex</em>
   * [NOUN]() 4: <em>Cette colline héberge d' ailleurs le réservoir municipal qui alimente une bonne partie de la commune ( L' Epinoy par <b>ex</b> ) .</em>
-  * [ADP]() 2: <em>Les membres de le Conseil législatif siègent <b>ex</b> officio .</em>
-  * [PART]() 2: <em>La ville compte ou a compté de très nombreux résidents célèbres dont Diana Ross , Mel Gibson , le catcheur de la WWE Triple H ( Paul Levesque ) , Tommy Hilfiger , Richard Attias , Vince McMahon , Patricia MacDonald et Cécilia Attias , <b>ex</b> Sarkozy .</em>
   * [INTJ]() 2: <em>Son titre est enregistré à le Répertoire national de les certifications professionnelles ( <b>ex</b> homologation ) .</em>
+  * [PART]() 2: <em>La ville compte ou a compté de très nombreux résidents célèbres dont Diana Ross , Mel Gibson , le catcheur de la WWE Triple H ( Paul Levesque ) , Tommy Hilfiger , Richard Attias , Vince McMahon , Patricia MacDonald et Cécilia Attias , <b>ex</b> Sarkozy .</em>
+  * [ADP]() 2: <em>Les membres de le Conseil législatif siègent <b>ex</b> officio .</em>
   * [X]() 1: <em>Certaines erreurs judiciaires résultent d' une entente de la police et de la justice dans un but médiatique ( <b>ex</b> : affaire d' Outreau ) .</em>
 * <em>to</em>
   * [ADP]() 5: <em>Elle est également parue en face B de le single Somebody <b>to</b> Love , en avril de la même année .</em>

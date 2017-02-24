@@ -35,6 +35,28 @@ The following 5 pairs of parts of speech are connected with `dislocated`: [no-po
 
 
 ~~~ conllu
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 5 dislocated	color:blue
+1	Men	men	CCONJ	_	_	3	cc	_	_
+2	fremdeles	fremdeles	ADV	_	_	3	advmod	_	_
+3	er	være	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	det	det	PRON	_	Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	expl	_	_
+5	noen	noen	PRON	_	Gender=Fem,Masc|Number=Sing|Person=3|PronType=Ind,Prs	3	dislocated	_	_
+6	som	som	PRON	_	PronType=Rel	7	nsubj	_	_
+7	ønsker	ønske	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	5	acl:relcl	_	_
+8	å	å	PART	_	_	9	mark	_	_
+9	bo	bo	VERB	_	VerbForm=Inf	7	xcomp	_	_
+10	i	i	ADP	_	_	11	case	_	_
+11	Tafjord	Tafjord	PROPN	_	_	9	obl	_	SpaceAfter=No
+12	.	$.	PUNCT	_	_	3	punct	_	_
+
+~~~
+
+
+~~~ conllu
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 3	bgColor:blue
@@ -53,28 +75,6 @@ The following 5 pairs of parts of speech are connected with `dislocated`: [no-po
 11	politisk	politisk	ADJ	_	Definite=Ind|Degree=Pos|Number=Sing	12	amod	_	_
 12	overvåking	overvåking	NOUN	_	Definite=Ind|Gender=Fem|Number=Sing	10	obj	_	SpaceAfter=No
 13	.	$.	PUNCT	_	_	3	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 5 dislocated	color:blue
-1	Men	men	CCONJ	_	_	3	cc	_	_
-2	fremdeles	fremdeles	ADV	_	_	3	advmod	_	_
-3	er	være	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	_
-4	det	det	PRON	_	Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	expl	_	_
-5	noen	noen	PRON	_	Gender=Fem,Masc|Number=Sing|Person=3|PronType=Ind,Prs	3	dislocated	_	_
-6	som	som	PRON	_	PronType=Rel	7	nsubj	_	_
-7	ønsker	ønske	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	5	acl:relcl	_	_
-8	å	å	PART	_	_	9	mark	_	_
-9	bo	bo	VERB	_	VerbForm=Inf	7	xcomp	_	_
-10	i	i	ADP	_	_	11	case	_	_
-11	Tafjord	Tafjord	PROPN	_	_	9	obl	_	SpaceAfter=No
-12	.	$.	PUNCT	_	_	3	punct	_	_
 
 ~~~
 

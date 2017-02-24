@@ -16,7 +16,7 @@ The feature is used with 6 part-of-speech tags: [hr-pos/NOUN]() (2903; 2% instan
 
 2903 [hr-pos/NOUN]() tokens (6% of all `NOUN` tokens) have a non-empty value of `Animacy`.
 
-The most frequent other feature values with which `NOUN` and `Animacy` co-occurred: <tt><a href="Gender.html">Gender</a>=Masc</tt> (2903; 100%), <tt><a href="Case.html">Case</a>=Acc</tt> (2903; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (2903; 100%).
+The most frequent other feature values with which `NOUN` and `Animacy` co-occurred: <tt><a href="Case.html">Case</a>=Acc</tt> (2903; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (2903; 100%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (2903; 100%).
 
 `NOUN` tokens may have the following values of `Animacy`:
 
@@ -35,7 +35,7 @@ The most frequent other feature values with which `NOUN` and `Animacy` co-occurr
 
 614 [hr-pos/ADJ]() tokens (3% of all `ADJ` tokens) have a non-empty value of `Animacy`.
 
-The most frequent other feature values with which `ADJ` and `Animacy` co-occurred: <tt><a href="Number.html">Number</a>=Sing</tt> (614; 100%), <tt><a href="Case.html">Case</a>=Acc</tt> (614; 100%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (614; 100%), <tt><a href="Degree.html">Degree</a>=Pos</tt> (514; 84%), <tt><a href="Definite.html">Definite</a>=Def</tt> (443; 72%).
+The most frequent other feature values with which `ADJ` and `Animacy` co-occurred: <tt><a href="Gender.html">Gender</a>=Masc</tt> (614; 100%), <tt><a href="Case.html">Case</a>=Acc</tt> (614; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (614; 100%), <tt><a href="Degree.html">Degree</a>=Pos</tt> (514; 84%), <tt><a href="Definite.html">Definite</a>=Def</tt> (443; 72%).
 
 `ADJ` tokens may have the following values of `Animacy`:
 
@@ -56,7 +56,7 @@ The most frequent other feature values with which `ADJ` and `Animacy` co-occurre
 
 574 [hr-pos/PROPN]() tokens (5% of all `PROPN` tokens) have a non-empty value of `Animacy`.
 
-The most frequent other feature values with which `PROPN` and `Animacy` co-occurred: <tt><a href="Gender.html">Gender</a>=Masc</tt> (574; 100%), <tt><a href="Case.html">Case</a>=Acc</tt> (574; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (574; 100%).
+The most frequent other feature values with which `PROPN` and `Animacy` co-occurred: <tt><a href="Number.html">Number</a>=Sing</tt> (574; 100%), <tt><a href="Case.html">Case</a>=Acc</tt> (574; 100%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (574; 100%).
 
 `PROPN` tokens may have the following values of `Animacy`:
 
@@ -92,7 +92,7 @@ The most frequent other feature values with which `PRON` and `Animacy` co-occurr
 
 320 [hr-pos/DET]() tokens (5% of all `DET` tokens) have a non-empty value of `Animacy`.
 
-The most frequent other feature values with which `DET` and `Animacy` co-occurred: <tt><a href="Case.html">Case</a>=Acc</tt> (320; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (320; 100%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (320; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (282; 88%), <tt><a href="Number[psor].html">Number[psor]</a>=EMPTY</tt> (282; 88%), <tt><a href="Poss.html">Poss</a>=EMPTY</tt> (179; 56%).
+The most frequent other feature values with which `DET` and `Animacy` co-occurred: <tt><a href="Case.html">Case</a>=Acc</tt> (320; 100%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (320; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (320; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (282; 88%), <tt><a href="Number[psor].html">Number[psor]</a>=EMPTY</tt> (282; 88%), <tt><a href="Poss.html">Poss</a>=EMPTY</tt> (179; 56%).
 
 `DET` tokens may have the following values of `Animacy`:
 
@@ -109,7 +109,7 @@ The most frequent other feature values with which `DET` and `Animacy` co-occurre
 
 47 [hr-pos/NUM]() tokens (2% of all `NUM` tokens) have a non-empty value of `Animacy`.
 
-The most frequent other feature values with which `NUM` and `Animacy` co-occurred: <tt><a href="Case.html">Case</a>=Acc</tt> (47; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (47; 100%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (47; 100%), <tt><a href="NumType.html">NumType</a>=Card</tt> (47; 100%).
+The most frequent other feature values with which `NUM` and `Animacy` co-occurred: <tt><a href="Gender.html">Gender</a>=Masc</tt> (47; 100%), <tt><a href="Case.html">Case</a>=Acc</tt> (47; 100%), <tt><a href="NumType.html">NumType</a>=Card</tt> (47; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (47; 100%).
 
 `NUM` tokens may have the following values of `Animacy`:
 

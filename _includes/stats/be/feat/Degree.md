@@ -41,7 +41,7 @@ The most frequent other feature values with which `ADJ` and `Degree` co-occurred
 
 8 [be-pos/VERB]() tokens (1% of all `VERB` tokens) have a non-empty value of `Degree`.
 
-The most frequent other feature values with which `VERB` and `Degree` co-occurred: <tt><a href="Number.html">Number</a>=EMPTY</tt> (8; 100%), <tt><a href="Aspect.html">Aspect</a>=EMPTY</tt> (8; 100%), <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (8; 100%), <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (8; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (8; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (8; 100%), <tt><a href="VerbForm.html">VerbForm</a>=EMPTY</tt> (8; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (8; 100%).
+The most frequent other feature values with which `VERB` and `Degree` co-occurred: <tt><a href="Aspect.html">Aspect</a>=EMPTY</tt> (8; 100%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (8; 100%), <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (8; 100%), <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (8; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (8; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (8; 100%), <tt><a href="VerbForm.html">VerbForm</a>=EMPTY</tt> (8; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (8; 100%).
 
 `VERB` tokens may have the following values of `Degree`:
 
@@ -53,7 +53,7 @@ The most frequent other feature values with which `VERB` and `Degree` co-occurre
 
 1 [be-pos/DET]() tokens (1% of all `DET` tokens) have a non-empty value of `Degree`.
 
-The most frequent other feature values with which `DET` and `Degree` co-occurred: <tt><a href="Gender.html">Gender</a>=Masc</tt> (1; 100%), <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (1; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (1; 100%), <tt><a href="Case.html">Case</a>=Loc</tt> (1; 100%).
+The most frequent other feature values with which `DET` and `Degree` co-occurred: <tt><a href="Gender.html">Gender</a>=Masc</tt> (1; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (1; 100%), <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (1; 100%), <tt><a href="Case.html">Case</a>=Loc</tt> (1; 100%).
 
 `DET` tokens may have the following values of `Degree`:
 
@@ -69,6 +69,6 @@ The 10 most frequent relations where parent and child node agree in `Degree`:
 <tt>ADJ --[<a href="../dep/amod.html">amod</a>]--> ADJ</tt> (5; 100%),
 <tt>ADJ --[<a href="../dep/flat.html">flat</a>]--> ADJ</tt> (3; 100%),
 <tt>ADV --[<a href="../dep/conj.html">conj</a>]--> ADV</tt> (2; 100%),
-<tt>ADJ --[<a href="../dep/conj.html">conj</a>]--> ADV</tt> (1; 100%),
-<tt>ADJ --[<a href="../dep/obl.html">obl</a>]--> ADJ</tt> (1; 100%).
+<tt>ADJ --[<a href="../dep/obl.html">obl</a>]--> ADJ</tt> (1; 100%),
+<tt>ADJ --[<a href="../dep/conj.html">conj</a>]--> ADV</tt> (1; 100%).
 

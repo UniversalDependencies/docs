@@ -11,7 +11,7 @@ The 10 most frequent `X` lemmas: <em>metri_pătrați, K., alia, inter, mot, -a, 
 
 The 10 most frequent `X` types:  <em>mp, K., alia, inter, mot, -a, ACTIVE, American, A­, Book</em>
 
-The 10 most frequent ambiguous lemmas: <em>-a</em> ([DET]() 23, [X]() 1), <em>New</em> ([PROPN]() 6, [X]() 1), <em>car</em> ([NOUN]() 2, [X]() 1), <em>coli</em> ([X]() 1, [PROPN]() 1), <em>de</em> ([ADP]() 8779, [SCONJ]() 8, [X]() 1), <em>in</em> ([ADP]() 23, [X]() 1, [NOUN]() 1), <em>la</em> ([ADP]() 3119, [X]() 1), <em>of</em> ([NOUN]() 3, [X]() 1), <em>rectificator</em> ([ADJ]() 2, [X]() 1), <em>vas</em> ([NOUN]() 13, [X]() 1)
+The 10 most frequent ambiguous lemmas: <em>-a</em> ([DET]() 23, [X]() 1), <em>New</em> ([PROPN]() 6, [X]() 1), <em>car</em> ([NOUN]() 2, [X]() 1), <em>coli</em> ([PROPN]() 1, [X]() 1), <em>de</em> ([ADP]() 8779, [SCONJ]() 8, [X]() 1), <em>in</em> ([ADP]() 23, [X]() 1, [NOUN]() 1), <em>la</em> ([ADP]() 3119, [X]() 1), <em>of</em> ([NOUN]() 3, [X]() 1), <em>rectificator</em> ([ADJ]() 2, [X]() 1), <em>vas</em> ([NOUN]() 13, [X]() 1)
 
 The 10 most frequent ambiguous types:  <em>-a</em> ([AUX]() 26, [DET]() 23, [X]() 1), <em>New</em> ([PROPN]() 6, [X]() 1), <em>au</em> ([AUX]() 747, [VERB]() 65, [X]() 1), <em>car</em> ([NOUN]() 1, [X]() 1), <em>coli</em> ([NOUN]() 2, [PROPN]() 1, [X]() 1), <em>de</em> ([ADP]() 8568, [SCONJ]() 3, [X]() 1), <em>in</em> ([ADP]() 18, [X]() 1, [NOUN]() 1), <em>la</em> ([ADP]() 2978, [X]() 1), <em>of</em> ([NOUN]() 3, [X]() 1), <em>rectificator</em> ([ADJ]() 2, [X]() 1)
 

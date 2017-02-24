@@ -31,8 +31,8 @@ The 10 most frequent relations where parent and child node agree in `NumType`:
 <tt>NUM --[<a href="../dep/list.html">list</a>]--> NUM</tt> (8; 100%),
 <tt>NUM --[<a href="../dep/nmod.html">nmod</a>]--> NUM</tt> (8; 100%),
 <tt>NUM --[<a href="../dep/nummod.html">nummod</a>]--> NUM</tt> (5; 100%),
-<tt>NUM --[<a href="../dep/parataxis.html">parataxis</a>]--> NUM</tt> (4; 100%),
 <tt>NUM --[<a href="../dep/appos.html">appos</a>]--> NUM</tt> (4; 100%),
+<tt>NUM --[<a href="../dep/parataxis.html">parataxis</a>]--> NUM</tt> (4; 100%),
 <tt>NUM --[<a href="../dep/nummod:gov.html">nummod:gov</a>]--> NUM</tt> (3; 100%),
 <tt>NUM --[<a href="../dep/goeswith.html">goeswith</a>]--> NUM</tt> (2; 100%),
 <tt>NUM --[<a href="../dep/compound.html">compound</a>]--> NUM</tt> (1; 100%).

@@ -38,7 +38,7 @@ The most frequent other feature values with which `X` and `Abbr` co-occurred: <t
 
 5 [et-pos/PROPN]() tokens (0% of all `PROPN` tokens) have a non-empty value of `Abbr`.
 
-The most frequent other feature values with which `PROPN` and `Abbr` co-occurred: <tt><a href="Case.html">Case</a>=EMPTY</tt> (5; 100%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (5; 100%).
+The most frequent other feature values with which `PROPN` and `Abbr` co-occurred: <tt><a href="Number.html">Number</a>=EMPTY</tt> (5; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (5; 100%).
 
 `PROPN` tokens may have the following values of `Abbr`:
 
@@ -63,6 +63,6 @@ The most frequent other feature values with which `PROPN` and `Abbr` co-occurred
 ## Relations with Agreement in `Abbr`
 
 The 10 most frequent relations where parent and child node agree in `Abbr`:
-<tt>NOUN --[<a href="../dep/flat.html">flat</a>]--> SYM</tt> (1; 100%),
-<tt>NOUN --[<a href="../dep/flat.html">flat</a>]--> NOUN</tt> (1; 100%).
+<tt>NOUN --[<a href="../dep/flat.html">flat</a>]--> NOUN</tt> (1; 100%),
+<tt>NOUN --[<a href="../dep/flat.html">flat</a>]--> SYM</tt> (1; 100%).
 

@@ -11,17 +11,17 @@ The 10 most frequent `ADJ` lemmas: महत्, सकल, गम्भीर, 
 
 The 10 most frequent `ADJ` types:  महान्, गम्भीर, सकल, अगामीनि, अतिरस्कृतः, अप्राप्तकालं, असम्भाव्याम्, आद्यः, उचित, उत्पन्नौ
 
-The 10 most frequent ambiguous lemmas: महत् ([ADJ]() 4, [NOUN]() 2), सर्व ([ADJ]() 2, [DET]() 1, [NOUN]() 1), पर ([NOUN]() 1, [ADJ]() 1), परम् ([ADJ]() 1, [ADV]() 1), प्रथम ([ADJ]() 1, [ADV]() 1)
+The 10 most frequent ambiguous lemmas: महत् ([ADJ]() 4, [NOUN]() 2), सर्व ([ADJ]() 2, [NOUN]() 1, [DET]() 1), पर ([ADJ]() 1, [NOUN]() 1), परम् ([ADV]() 1, [ADJ]() 1), प्रथम ([ADJ]() 1, [ADV]() 1)
 
-The 10 most frequent ambiguous types:  परम् ([ADV]() 1, [ADJ]() 1), प्रथमम् ([ADV]() 1, [ADJ]() 1)
+The 10 most frequent ambiguous types:  परम् ([ADJ]() 1, [ADV]() 1), प्रथमम् ([ADJ]() 1, [ADV]() 1)
 
 
 * परम्
-  * [ADV]() 1: अस्ति एवम् <b>परम्</b> अहम् देश काल वित् अपि
   * [ADJ]() 1: अथ तत् अवस्थम् आलोक्य वर्धमानः <b>परम्</b> विषाद अगमत्
+  * [ADV]() 1: अस्ति एवम् <b>परम्</b> अहम् देश काल वित् अपि
 * प्रथमम्
-  * [ADV]() 1: <b>प्रथमम्</b> अहम् शृणोमि अथ लिखामि
   * [ADJ]() 1: अथातः प्रारभ्यते मित्रभेदो नाम <b>प्रथमम्</b> तन्त्र
+  * [ADV]() 1: <b>प्रथमम्</b> अहम् शृणोमि अथ लिखामि
 
 ## Morphology
 

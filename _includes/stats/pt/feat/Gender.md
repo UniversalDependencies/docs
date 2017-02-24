@@ -188,7 +188,7 @@ The most frequent other feature values with which `ADV` and `Gender` co-occurred
 
 22 [pt-pos/AUX]() tokens (0% of all `AUX` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `AUX` and `Gender` co-occurred: <tt><a href="Person.html">Person</a>=EMPTY</tt> (22; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (22; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (22; 100%), <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (22; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (16; 73%).
+The most frequent other feature values with which `AUX` and `Gender` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (22; 100%), <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (22; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (22; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (22; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (16; 73%).
 
 `AUX` tokens may have the following values of `Gender`:
 
@@ -265,7 +265,7 @@ The feature is used with 1 part-of-speech tags: [pt-pos/DET]() (18999; 7% instan
 
 18999 [pt-pos/DET]() tokens (45% of all `DET` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `DET` and `Gender` co-occurred: <tt><a href="Definite.html">Definite</a>=Def</tt> (18999; 100%), <tt><a href="PronType.html">PronType</a>=Art</tt> (18999; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (15867; 84%).
+The most frequent other feature values with which `DET` and `Gender` co-occurred: <tt><a href="PronType.html">PronType</a>=Art</tt> (18999; 100%), <tt><a href="Definite.html">Definite</a>=Def</tt> (18999; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (15867; 84%).
 
 `DET` tokens may have the following values of `Gender`:
 

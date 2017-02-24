@@ -16,7 +16,7 @@ The feature is used with 1 part-of-speech tags: [no-pos/VERB]() (1047; 0% instan
 
 1047 [no-pos/VERB]() tokens (3% of all `VERB` tokens) have a non-empty value of `Voice`.
 
-The most frequent other feature values with which `VERB` and `Voice` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (582; 56%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (582; 56%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (581; 55%).
+The most frequent other feature values with which `VERB` and `Voice` co-occurred: <tt><a href="Mood.html">Mood</a>=Ind</tt> (582; 56%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (582; 56%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (581; 55%).
 
 `VERB` tokens may have the following values of `Voice`:
 

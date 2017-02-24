@@ -11,9 +11,9 @@ The 10 most frequent `SYM` lemmas: <em>*, %, Re, &, a, ***, LDz, OV, lpp., a.</e
 
 The 10 most frequent `SYM` types:  <em>*, %, Re, &, a, ***, LDz, OV, lpp., A.</em>
 
-The 10 most frequent ambiguous lemmas: <em>a</em> ([SYM]() 9, [CCONJ]() 2, [X]() 1), <em>Nozare.lv</em> ([PROPN]() 5, [SYM]() 2), <em>es</em> ([PRON]() 522, [SYM]() 2), <em>14.00</em> ([SYM]() 1, [NUM]() 1), <em>Firmas.lv</em> ([PROPN]() 2, [SYM]() 1), <em>XV</em> ([ADJ]() 1, [SYM]() 1)
+The 10 most frequent ambiguous lemmas: <em>a</em> ([SYM]() 9, [CCONJ]() 2, [X]() 1), <em>Nozare.lv</em> ([PROPN]() 5, [SYM]() 2), <em>es</em> ([PRON]() 522, [SYM]() 2), <em>14.00</em> ([NUM]() 1, [SYM]() 1), <em>Firmas.lv</em> ([PROPN]() 2, [SYM]() 1), <em>XV</em> ([SYM]() 1, [ADJ]() 1)
 
-The 10 most frequent ambiguous types:  <em>Re</em> ([SYM]() 30, [INTJ]() 1), <em>a</em> ([SYM]() 9, [X]() 1, [CCONJ]() 1), <em>ES</em> ([PROPN]() 9, [SYM]() 2), <em>Nozare.lv</em> ([PROPN]() 3, [SYM]() 2), <em>14.00</em> ([NUM]() 1, [SYM]() 1), <em>Firmas.lv</em> ([PROPN]() 2, [SYM]() 1), <em>LETA</em> ([PROPN]() 20, [SYM]() 1), <em>XV</em> ([ADJ]() 1, [SYM]() 1)
+The 10 most frequent ambiguous types:  <em>Re</em> ([SYM]() 30, [INTJ]() 1), <em>a</em> ([SYM]() 9, [X]() 1, [CCONJ]() 1), <em>ES</em> ([PROPN]() 9, [SYM]() 2), <em>Nozare.lv</em> ([PROPN]() 3, [SYM]() 2), <em>14.00</em> ([SYM]() 1, [NUM]() 1), <em>Firmas.lv</em> ([PROPN]() 2, [SYM]() 1), <em>LETA</em> ([PROPN]() 20, [SYM]() 1), <em>XV</em> ([ADJ]() 1, [SYM]() 1)
 
 
 * <em>Re</em>
@@ -30,8 +30,8 @@ The 10 most frequent ambiguous types:  <em>Re</em> ([SYM]() 30, [INTJ]() 1), <em
   * [PROPN]() 3: <em>Notikušas izmaiņas būvfirmas SIA " Re & Re " valdē , biznesa portālu " <b>Nozare.lv</b> " informēja " Re & Re " pārstāve Mārīte Straume .</em>
   * [SYM]() 2: <em>Par panākumiem līdzšinējā profesionālajā karjerā un jaunajiem izaicinājumiem VAS " Latvijas dzelzceļš " viceprezidenta amatā ekspresintervijā " <b>Nozare.lv</b> " stāsta Kaspars Ozoliņš , kurš darbu turpinās arī kā satiksmes ministra padomnieks .</em>
 * <em>14.00</em>
-  * [NUM]() 1: <em>12. jūlijā <b>14.00</b> Malienas tautas namā - disenīte bērniem un pusaudžiem .</em>
   * [SYM]() 1: <em>Andra Vilka grāmatas " Grūtupa fenomens " atvēršanas svētki š.g. 15. novembrī plkst. <b>14.00</b> Jāņa Rozes grāmatnīcā Kr. Barona ielā 5</em>
+  * [NUM]() 1: <em>12. jūlijā <b>14.00</b> Malienas tautas namā - disenīte bērniem un pusaudžiem .</em>
 * <em>Firmas.lv</em>
   * [PROPN]() 2: <em>" <b>Firmas.lv</b> " informācija liecina , ka " RusLatNafta " ( iepriekšējais nosaukums - " Dinaz Group " ) reģistrēta 2000. gadā .</em>
   * [SYM]() 1: <em>SIA " RusLatNafta " apgrozījums 2011. gadā bijis 14,98 miljoni latu , bet peļņa - 5945 lati , liecina " <b>Firmas.lv</b> " informācija .</em>

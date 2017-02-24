@@ -49,7 +49,7 @@ The most frequent other feature values with which `AUX` and `Tense` co-occurred:
   <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=1|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td><em>am</em></td><td><em>was</em></td></tr>
   <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td><em>is, 's, s, ’s, ai</em></td><td><em>was</em></td></tr>
   <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td></td><td><em>was</em></td></tr>
-  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td><em>are, 'm, 're, m, r, re, ai, is, ’m</em></td><td><em>were</em></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td><em>are, 'm, 're, m, r, re, ai, ’m, is</em></td><td><em>were</em></td></tr>
   <tr><td><tt><a href="VerbForm.html">VerbForm</a>=Part</tt></td><td></td><td><em>been</em></td></tr>
 </table>
 
@@ -91,7 +91,7 @@ The most frequent other feature values with which `VERB` and `Tense` co-occurred
   <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=1|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td><em>have</em></td><td></td></tr>
   <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td><em>has</em></td><td></td></tr>
   <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Plur|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td><em>have</em></td><td></td></tr>
-  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Person.html">Person</a>=3|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td></td><td><em>had, h, ad</em></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Person.html">Person</a>=3|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td></td><td><em>had, ad, h</em></td></tr>
   <tr><td><tt><a href="Number.html">Number</a>=Sing|<a href="VerbForm.html">VerbForm</a>=Part</tt></td><td><em>having</em></td><td></td></tr>
   <tr><td><tt><a href="VerbForm.html">VerbForm</a>=Part</tt></td><td></td><td><em>had</em></td></tr>
 </table>
@@ -124,8 +124,8 @@ The most frequent other feature values with which `AUX` and `Tense` co-occurred:
 
 The 10 most frequent relations where parent and child node agree in `Tense`:
 <tt>VERB --[<a href="../dep/conj.html">conj</a>]--> VERB</tt> (147; 63%),
-<tt>VERB --[<a href="../dep/acl:relcl.html">acl:relcl</a>]--> VERB</tt> (2; 100%),
 <tt>AUX --[<a href="../dep/conj.html">conj</a>]--> AUX</tt> (2; 100%),
+<tt>VERB --[<a href="../dep/acl:relcl.html">acl:relcl</a>]--> VERB</tt> (2; 100%),
 <tt>VERB --[<a href="../dep/nsubj:pass.html">nsubj:pass</a>]--> VERB</tt> (1; 100%),
 <tt>VERB --[<a href="../dep/goeswith.html">goeswith</a>]--> VERB</tt> (1; 100%).
 

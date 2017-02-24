@@ -11,15 +11,15 @@ The 10 most frequent `INTJ` lemmas: <em>please, yes, no, well, hi, ok, like, hey
 
 The 10 most frequent `INTJ` types:  <em>please, yes, no, well, hi, ok, like, hey, lol, oh</em>
 
-The 10 most frequent ambiguous lemmas: <em>please</em> ([INTJ]() 298, [ADJ]() 1, [VERB]() 1), <em>yes</em> ([INTJ]() 73, [NOUN]() 2), <em>no</em> ([DET]() 281, [INTJ]() 48, [ADV]() 31, [X]() 1, [NOUN]() 1), <em>well</em> ([ADV]() 183, [INTJ]() 47, [ADJ]() 10, [NOUN]() 3), <em>ok</em> ([ADJ]() 39, [INTJ]() 25, [ADV]() 3), <em>like</em> ([ADP]() 189, [VERB]() 187, [SCONJ]() 93, [INTJ]() 24, [ADJ]() 9, [ADV]() 1), <em>oh</em> ([INTJ]() 17, [ADV]() 1), <em>anyway</em> ([ADV]() 21, [INTJ]() 8), <em>sorry</em> ([ADJ]() 27, [INTJ]() 8), <em>okay</em> ([ADJ]() 11, [INTJ]() 7)
+The 10 most frequent ambiguous lemmas: <em>please</em> ([INTJ]() 298, [VERB]() 1, [ADJ]() 1), <em>yes</em> ([INTJ]() 73, [NOUN]() 2), <em>no</em> ([DET]() 281, [INTJ]() 48, [ADV]() 31, [NOUN]() 1, [X]() 1), <em>well</em> ([ADV]() 183, [INTJ]() 47, [ADJ]() 10, [NOUN]() 3), <em>ok</em> ([ADJ]() 39, [INTJ]() 25, [ADV]() 3), <em>like</em> ([ADP]() 189, [VERB]() 187, [SCONJ]() 93, [INTJ]() 24, [ADJ]() 9, [ADV]() 1), <em>oh</em> ([INTJ]() 17, [ADV]() 1), <em>anyway</em> ([ADV]() 21, [INTJ]() 8), <em>sorry</em> ([ADJ]() 27, [INTJ]() 8), <em>okay</em> ([ADJ]() 11, [INTJ]() 7)
 
-The 10 most frequent ambiguous types:  <em>please</em> ([INTJ]() 133, [ADJ]() 1, [VERB]() 1), <em>yes</em> ([INTJ]() 28, [NOUN]() 1), <em>no</em> ([DET]() 229, [INTJ]() 33, [ADV]() 25, [VERB]() 2, [NOUN]() 1, [X]() 1), <em>well</em> ([ADV]() 175, [INTJ]() 14, [ADJ]() 10, [NOUN]() 2), <em>ok</em> ([ADJ]() 22, [ADV]() 3, [INTJ]() 3), <em>like</em> ([ADP]() 179, [VERB]() 158, [SCONJ]() 91, [INTJ]() 18, [ADJ]() 9, [ADV]() 1), <em>oh</em> ([INTJ]() 4, [ADV]() 1), <em>anyway</em> ([ADV]() 13, [INTJ]() 1), <em>sorry</em> ([ADJ]() 15, [INTJ]() 4), <em>okay</em> ([ADJ]() 11, [INTJ]() 3)
+The 10 most frequent ambiguous types:  <em>please</em> ([INTJ]() 133, [VERB]() 1, [ADJ]() 1), <em>yes</em> ([INTJ]() 28, [NOUN]() 1), <em>no</em> ([DET]() 229, [INTJ]() 33, [ADV]() 25, [VERB]() 2, [NOUN]() 1, [X]() 1), <em>well</em> ([ADV]() 175, [INTJ]() 14, [ADJ]() 10, [NOUN]() 2), <em>ok</em> ([ADJ]() 22, [ADV]() 3, [INTJ]() 3), <em>like</em> ([ADP]() 179, [VERB]() 158, [SCONJ]() 91, [INTJ]() 18, [ADJ]() 9, [ADV]() 1), <em>oh</em> ([INTJ]() 4, [ADV]() 1), <em>anyway</em> ([ADV]() 13, [INTJ]() 1), <em>sorry</em> ([ADJ]() 15, [INTJ]() 4), <em>okay</em> ([ADJ]() 11, [INTJ]() 3)
 
 
 * <em>please</em>
   * [INTJ]() 133: <em>If you can make it , <b>please</b> come !</em>
-  * [ADJ]() 1: <em>I was very happy with the customer service and even more <b>please</b> with the portion size , to go box set up and quality of the food for the price .</em>
   * [VERB]() 1: <em>In a Hadith the Messenger of Allah explains that the souls of the martyrs are in the hearts of green birds that fly wherever they <b>please</b> in the Paradise .</em>
+  * [ADJ]() 1: <em>I was very happy with the customer service and even more <b>please</b> with the portion size , to go box set up and quality of the food for the price .</em>
 * <em>yes</em>
   * [INTJ]() 28: <em>The Moldovan airline is Aerocom , and <b>yes</b> , it 's one of Victor Bout 's .</em>
   * [NOUN]() 1: <em>Yes , yes and <b>yes</b> .</em>
@@ -173,7 +173,7 @@ The 10 most frequent `INTJ` types:  <em>yes, well, no, oh, please, eh, Ah, Adieu
 
 The 10 most frequent ambiguous lemmas: <em>_</em> ([NOUN]() 12161, [PUNCT]() 8085, [VERB]() 8020, [ADP]() 6788, [DET]() 6429, [PRON]() 6303, [ADJ]() 4270, [ADV]() 3700, [AUX]() 3539, [PROPN]() 2257, [CCONJ]() 2081, [PART]() 1703, [SCONJ]() 1231, [NUM]() 462, [INTJ]() 122, [X]() 41, [SYM]() 5)
 
-The 10 most frequent ambiguous types:  <em>well</em> ([ADV]() 32, [INTJ]() 6), <em>no</em> ([DET]() 82, [ADV]() 19, [PRON]() 7, [INTJ]() 7), <em>please</em> ([INTJ]() 5, [VERB]() 1)
+The 10 most frequent ambiguous types:  <em>well</em> ([ADV]() 32, [INTJ]() 6), <em>no</em> ([DET]() 82, [ADV]() 19, [INTJ]() 7, [PRON]() 7), <em>please</em> ([INTJ]() 5, [VERB]() 1)
 
 
 * <em>well</em>
@@ -182,8 +182,8 @@ The 10 most frequent ambiguous types:  <em>well</em> ([ADV]() 32, [INTJ]() 6), <
 * <em>no</em>
   * [DET]() 82: <em>Anyway , it 's <b>no</b> big deal . It 's just a book .</em>
   * [ADV]() 19: <em>Surely <b>no</b> more than a minute or two .</em>
-  * [PRON]() 7: <em>If there 's a father of the state , it 's got to be him or <b>no</b> one .</em>
   * [INTJ]() 7: <em>But <b>no</b> , that did not seem possible .</em>
+  * [PRON]() 7: <em>If there 's a father of the state , it 's got to be him or <b>no</b> one .</em>
 * <em>please</em>
   * [INTJ]() 5: <em>No questions , <b>please</b> , the young man said at last .</em>
   * [VERB]() 1: <em>Or was Mr Eichelberger simply an executive with a client to <b>please</b> and a job to do a pure professional ?</em>

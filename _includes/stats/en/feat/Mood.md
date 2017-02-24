@@ -52,7 +52,7 @@ The most frequent other feature values with which `AUX` and `Mood` co-occurred: 
   <tr><td><tt><a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Pres</tt></td><td><em>is, 's, s, ’s, ai</em></td><td></td></tr>
   <tr><td><tt><a href="Number.html">Number</a>=Sing|<a href="Tense.html">Tense</a>=Past</tt></td><td><em>was</em></td><td></td></tr>
   <tr><td><tt><a href="Tense.html">Tense</a>=Past</tt></td><td><em>were</em></td><td></td></tr>
-  <tr><td><tt><a href="Tense.html">Tense</a>=Pres</tt></td><td><em>are, 'm, 're, m, r, re, ai, is, ’m</em></td><td></td></tr>
+  <tr><td><tt><a href="Tense.html">Tense</a>=Pres</tt></td><td><em>are, 'm, 're, m, r, re, ai, ’m, is</em></td><td></td></tr>
   <tr><td><tt></tt></td><td></td><td><em>be</em></td></tr>
 </table>
 
@@ -60,9 +60,9 @@ The most frequent other feature values with which `AUX` and `Mood` co-occurred: 
 
 The 10 most frequent relations where parent and child node agree in `Mood`:
 <tt>VERB --[<a href="../dep/conj.html">conj</a>]--> VERB</tt> (929; 60%),
-<tt>AUX --[<a href="../dep/parataxis.html">parataxis</a>]--> VERB</tt> (2; 100%),
 <tt>AUX --[<a href="../dep/cop.html">cop</a>]--> AUX</tt> (2; 100%),
 <tt>VERB --[<a href="../dep/list.html">list</a>]--> VERB</tt> (2; 67%),
+<tt>AUX --[<a href="../dep/parataxis.html">parataxis</a>]--> VERB</tt> (2; 100%),
 <tt>AUX --[<a href="../dep/aux.html">aux</a>]--> AUX</tt> (1; 100%),
 <tt>VERB --[<a href="../dep/compound:prt.html">compound:prt</a>]--> VERB</tt> (1; 100%).
 

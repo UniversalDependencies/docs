@@ -16,7 +16,7 @@ The feature is used with 2 part-of-speech tags: [ar-pos/VERB]() (18700; 7% insta
 
 18700 [ar-pos/VERB]() tokens (100% of all `VERB` tokens) have a non-empty value of `Aspect`.
 
-The most frequent other feature values with which `VERB` and `Aspect` co-occurred: <tt><a href="Person.html">Person</a>=3</tt> (18489; 99%), <tt><a href="Voice.html">Voice</a>=Act</tt> (17671; 94%), <tt><a href="Number.html">Number</a>=Sing</tt> (17503; 94%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (11786; 63%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (9908; 53%), <tt><a href="VerbForm.html">VerbForm</a>=EMPTY</tt> (9908; 53%).
+The most frequent other feature values with which `VERB` and `Aspect` co-occurred: <tt><a href="Person.html">Person</a>=3</tt> (18489; 99%), <tt><a href="Voice.html">Voice</a>=Act</tt> (17671; 94%), <tt><a href="Number.html">Number</a>=Sing</tt> (17503; 94%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (11786; 63%), <tt><a href="VerbForm.html">VerbForm</a>=EMPTY</tt> (9908; 53%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (9908; 53%).
 
 `VERB` tokens may have the following values of `Aspect`:
 
@@ -45,7 +45,7 @@ The most frequent other feature values with which `VERB` and `Aspect` co-occurre
 
 605 [ar-pos/AUX]() tokens (100% of all `AUX` tokens) have a non-empty value of `Aspect`.
 
-The most frequent other feature values with which `AUX` and `Aspect` co-occurred: <tt><a href="Person.html">Person</a>=3</tt> (596; 99%), <tt><a href="Number.html">Number</a>=Sing</tt> (582; 96%), <tt><a href="Voice.html">Voice</a>=Act</tt> (559; 92%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (379; 63%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (346; 57%), <tt><a href="VerbForm.html">VerbForm</a>=EMPTY</tt> (346; 57%).
+The most frequent other feature values with which `AUX` and `Aspect` co-occurred: <tt><a href="Person.html">Person</a>=3</tt> (596; 99%), <tt><a href="Number.html">Number</a>=Sing</tt> (582; 96%), <tt><a href="Voice.html">Voice</a>=Act</tt> (559; 92%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (379; 63%), <tt><a href="VerbForm.html">VerbForm</a>=EMPTY</tt> (346; 57%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (346; 57%).
 
 `AUX` tokens may have the following values of `Aspect`:
 
@@ -83,8 +83,8 @@ The 10 most frequent relations where parent and child node agree in `Aspect`:
 <tt>VERB --[<a href="../dep/appos.html">appos</a>]--> VERB</tt> (6; 86%),
 <tt>VERB --[<a href="../dep/orphan.html">orphan</a>]--> VERB</tt> (2; 100%),
 <tt>VERB --[<a href="../dep/mark.html">mark</a>]--> VERB</tt> (2; 67%),
-<tt>VERB --[<a href="../dep/advmod.html">advmod</a>]--> VERB</tt> (1; 100%),
-<tt>VERB --[<a href="../dep/advmod:emph.html">advmod:emph</a>]--> VERB</tt> (1; 100%).
+<tt>VERB --[<a href="../dep/csubj:pass.html">csubj:pass</a>]--> VERB</tt> (1; 100%),
+<tt>VERB --[<a href="../dep/advmod.html">advmod</a>]--> VERB</tt> (1; 100%).
 
 
 

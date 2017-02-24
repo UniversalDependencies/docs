@@ -62,11 +62,11 @@ The most frequent other feature values with which `DET` and `Number` co-occurred
   <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Gender.html">Gender</a>=Fem|<a href="PronType.html">PronType</a>=Rel</tt></td><td><em>die</em></td><td></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Gender.html">Gender</a>=Neut|<a href="PronType.html">PronType</a>=Dem</tt></td><td><em>das</em></td><td><em>das</em></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Gender.html">Gender</a>=Neut|<a href="PronType.html">PronType</a>=Rel</tt></td><td><em>das</em></td><td></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="PronType.html">PronType</a>=Dem</tt></td><td></td><td><em>das, dessen, Die</em></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="PronType.html">PronType</a>=Dem</tt></td><td></td><td><em>dessen, Die, das</em></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="PronType.html">PronType</a>=Rel</tt></td><td></td><td><em>dessen, die</em></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Dat|<a href="Definite.html">Definite</a>=Def|<a href="Gender.html">Gender</a>=Masc,Neut|<a href="PronType.html">PronType</a>=Art</tt></td><td><em>dem</em></td><td></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Dat|<a href="Definite.html">Definite</a>=Def|<a href="Gender.html">Gender</a>=Masc|<a href="PronType.html">PronType</a>=Art</tt></td><td></td><td><em>den</em></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Dat|<a href="Definite.html">Definite</a>=Def|<a href="Gender.html">Gender</a>=Fem|<a href="PronType.html">PronType</a>=Art</tt></td><td><em>der, die, den, dem</em></td><td><em>den</em></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Dat|<a href="Definite.html">Definite</a>=Def|<a href="Gender.html">Gender</a>=Fem|<a href="PronType.html">PronType</a>=Art</tt></td><td><em>der, dem, den, die</em></td><td><em>den</em></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Dat|<a href="Definite.html">Definite</a>=Def|<a href="Gender.html">Gender</a>=Neut|<a href="PronType.html">PronType</a>=Art</tt></td><td></td><td><em>den</em></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Dat|<a href="Definite.html">Definite</a>=Def|<a href="PronType.html">PronType</a>=Art</tt></td><td></td><td><em>den, des, dem</em></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Dat|<a href="Gender.html">Gender</a>=Masc,Neut|<a href="PronType.html">PronType</a>=Dem</tt></td><td><em>dem</em></td><td></td></tr>
@@ -100,7 +100,7 @@ The most frequent other feature values with which `DET` and `Number` co-occurred
 
 12609 [de-pos/VERB]() tokens (54% of all `VERB` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (12605; 100%), <tt><a href="Person.html">Person</a>=3</tt> (12180; 97%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (8700; 69%), <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (8700; 69%).
+The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (12605; 100%), <tt><a href="Person.html">Person</a>=3</tt> (12180; 97%), <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (8700; 69%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (8700; 69%).
 
 `VERB` tokens may have the following values of `Number`:
 
@@ -200,7 +200,7 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
   <tr><td><tt><a href="Case.html">Case</a>=Dat|<a href="Gender.html">Gender</a>=Fem|<a href="PronType.html">PronType</a>=Rel</tt></td><td></td><td><em>deren</em></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Dat|<a href="PronType.html">PronType</a>=Dem</tt></td><td></td><td><em>deren</em></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Gender.html">Gender</a>=Masc|<a href="PronType.html">PronType</a>=Dem</tt></td><td><em>deren, der, dessen</em></td><td></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Gender.html">Gender</a>=Masc|<a href="PronType.html">PronType</a>=Rel</tt></td><td><em>dessen, deren</em></td><td><em>deren</em></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Gender.html">Gender</a>=Masc|<a href="PronType.html">PronType</a>=Rel</tt></td><td><em>deren, dessen</em></td><td><em>deren</em></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Gender.html">Gender</a>=Fem|<a href="PronType.html">PronType</a>=Dem</tt></td><td><em>die</em></td><td></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Gender.html">Gender</a>=Neut|<a href="PronType.html">PronType</a>=Dem</tt></td><td><em>das</em></td><td></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="PronType.html">PronType</a>=Dem</tt></td><td></td><td><em>die</em></td></tr>
@@ -264,15 +264,6 @@ The most frequent other feature values with which `NUM` and `Number` co-occurred
 * `Sing` (2; 100% of non-empty `Number`): <em>als</em>
 * `EMPTY` (30770): <em>in, von, mit, zu, an, auf, für, als, nach, bei</em>
 
-### `SCONJ`
-
-1 [de-pos/SCONJ]() tokens (0% of all `SCONJ` tokens) have a non-empty value of `Number`.
-
-`SCONJ` tokens may have the following values of `Number`:
-
-* `Sing` (1; 100% of non-empty `Number`): <em>dass</em>
-* `EMPTY` (1657): <em>dass, da, als, wenn, daß, nachdem, weil, während, ob, wie</em>
-
 ### `ADV`
 
 1 [de-pos/ADV]() tokens (0% of all `ADV` tokens) have a non-empty value of `Number`.
@@ -281,6 +272,15 @@ The most frequent other feature values with which `NUM` and `Number` co-occurred
 
 * `Sing` (1; 100% of non-empty `Number`): <em>mehr</em>
 * `EMPTY` (13690): <em>auch, nur, noch, sehr, so, dort, wieder, heute, hier, jedoch</em>
+
+### `SCONJ`
+
+1 [de-pos/SCONJ]() tokens (0% of all `SCONJ` tokens) have a non-empty value of `Number`.
+
+`SCONJ` tokens may have the following values of `Number`:
+
+* `Sing` (1; 100% of non-empty `Number`): <em>dass</em>
+* `EMPTY` (1657): <em>dass, da, als, wenn, daß, nachdem, weil, während, ob, wie</em>
 
 ## Relations with Agreement in `Number`
 

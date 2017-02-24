@@ -16,7 +16,7 @@ The feature is used with 3 part-of-speech tags: [ga-pos/NOUN]() (118; 1% instanc
 
 118 [ga-pos/NOUN]() tokens (3% of all `NOUN` tokens) have a non-empty value of `NounType`.
 
-The most frequent other feature values with which `NOUN` and `NounType` co-occurred: <tt><a href="Number.html">Number</a>=Plur</tt> (118; 100%), <tt><a href="VerbForm.html">VerbForm</a>=EMPTY</tt> (118; 100%), <tt><a href="Case.html">Case</a>=Gen</tt> (118; 100%), <tt><a href="Form.html">Form</a>=EMPTY</tt> (98; 83%), <tt><a href="Definite.html">Definite</a>=EMPTY</tt> (91; 77%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (87; 74%).
+The most frequent other feature values with which `NOUN` and `NounType` co-occurred: <tt><a href="Number.html">Number</a>=Plur</tt> (118; 100%), <tt><a href="Case.html">Case</a>=Gen</tt> (118; 100%), <tt><a href="VerbForm.html">VerbForm</a>=EMPTY</tt> (118; 100%), <tt><a href="Form.html">Form</a>=EMPTY</tt> (98; 83%), <tt><a href="Definite.html">Definite</a>=EMPTY</tt> (91; 77%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (87; 74%).
 
 `NOUN` tokens may have the following values of `NounType`:
 
@@ -29,7 +29,7 @@ The most frequent other feature values with which `NOUN` and `NounType` co-occur
 
 43 [ga-pos/ADJ]() tokens (6% of all `ADJ` tokens) have a non-empty value of `NounType`.
 
-The most frequent other feature values with which `ADJ` and `NounType` co-occurred: <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (43; 100%), <tt><a href="Degree.html">Degree</a>=EMPTY</tt> (43; 100%), <tt><a href="VerbForm.html">VerbForm</a>=EMPTY</tt> (43; 100%), <tt><a href="Number.html">Number</a>=Plur</tt> (43; 100%), <tt><a href="Case.html">Case</a>=NomAcc</tt> (35; 81%).
+The most frequent other feature values with which `ADJ` and `NounType` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=EMPTY</tt> (43; 100%), <tt><a href="Degree.html">Degree</a>=EMPTY</tt> (43; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (43; 100%), <tt><a href="Number.html">Number</a>=Plur</tt> (43; 100%), <tt><a href="Case.html">Case</a>=NomAcc</tt> (35; 81%).
 
 `ADJ` tokens may have the following values of `NounType`:
 

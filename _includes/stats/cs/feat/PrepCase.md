@@ -16,7 +16,7 @@ The feature is used with 2 part-of-speech tags: [cs-pos/PRON]() (4366; 0% instan
 
 4366 [cs-pos/PRON]() tokens (11% of all `PRON` tokens) have a non-empty value of `PrepCase`.
 
-The most frequent other feature values with which `PRON` and `PrepCase` co-occurred: <tt><a href="Variant.html">Variant</a>=EMPTY</tt> (4366; 100%), <tt><a href="Reflex.html">Reflex</a>=EMPTY</tt> (4366; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (2654; 61%), <tt><a href="PronType.html">PronType</a>=Prs</tt> (2431; 56%), <tt><a href="Person.html">Person</a>=3</tt> (2431; 56%).
+The most frequent other feature values with which `PRON` and `PrepCase` co-occurred: <tt><a href="Variant.html">Variant</a>=EMPTY</tt> (4366; 100%), <tt><a href="Reflex.html">Reflex</a>=EMPTY</tt> (4366; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (2654; 61%), <tt><a href="Person.html">Person</a>=3</tt> (2431; 56%), <tt><a href="PronType.html">PronType</a>=Prs</tt> (2431; 56%).
 
 `PRON` tokens may have the following values of `PrepCase`:
 
@@ -55,7 +55,7 @@ The most frequent other feature values with which `PRON` and `PrepCase` co-occur
 
 1 [cs-pos/DET]() tokens (0% of all `DET` tokens) have a non-empty value of `PrepCase`.
 
-The most frequent other feature values with which `DET` and `PrepCase` co-occurred: <tt><a href="Poss.html">Poss</a>=EMPTY</tt> (1; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (1; 100%), <tt><a href="Gender.html">Gender</a>=Fem</tt> (1; 100%), <tt><a href="PronType.html">PronType</a>=Rel</tt> (1; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (1; 100%), <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (1; 100%), <tt><a href="Number[psor].html">Number[psor]</a>=EMPTY</tt> (1; 100%), <tt><a href="Case.html">Case</a>=Nom</tt> (1; 100%).
+The most frequent other feature values with which `DET` and `PrepCase` co-occurred: <tt><a href="Gender.html">Gender</a>=Fem</tt> (1; 100%), <tt><a href="Case.html">Case</a>=Nom</tt> (1; 100%), <tt><a href="Poss.html">Poss</a>=EMPTY</tt> (1; 100%), <tt><a href="PronType.html">PronType</a>=Rel</tt> (1; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (1; 100%), <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (1; 100%), <tt><a href="Number[psor].html">Number[psor]</a>=EMPTY</tt> (1; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (1; 100%).
 
 `DET` tokens may have the following values of `PrepCase`:
 
@@ -79,7 +79,7 @@ The feature is used with 2 part-of-speech tags: [cs-pos/PRON]() (1778; 0% instan
 
 1778 [cs-pos/PRON]() tokens (11% of all `PRON` tokens) have a non-empty value of `PrepCase`.
 
-The most frequent other feature values with which `PRON` and `PrepCase` co-occurred: <tt><a href="Reflex.html">Reflex</a>=EMPTY</tt> (1778; 100%), <tt><a href="Variant.html">Variant</a>=EMPTY</tt> (1778; 100%), <tt><a href="PronType.html">PronType</a>=Rel</tt> (954; 54%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (954; 54%), <tt><a href="Number.html">Number</a>=Sing</tt> (923; 52%).
+The most frequent other feature values with which `PRON` and `PrepCase` co-occurred: <tt><a href="Variant.html">Variant</a>=EMPTY</tt> (1778; 100%), <tt><a href="Reflex.html">Reflex</a>=EMPTY</tt> (1778; 100%), <tt><a href="PronType.html">PronType</a>=Rel</tt> (954; 54%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (954; 54%), <tt><a href="Number.html">Number</a>=Sing</tt> (923; 52%).
 
 `PRON` tokens may have the following values of `PrepCase`:
 
@@ -115,7 +115,7 @@ The most frequent other feature values with which `PRON` and `PrepCase` co-occur
 
 1 [cs-pos/DET]() tokens (0% of all `DET` tokens) have a non-empty value of `PrepCase`.
 
-The most frequent other feature values with which `DET` and `PrepCase` co-occurred: <tt><a href="Case.html">Case</a>=Nom</tt> (1; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (1; 100%), <tt><a href="Number[psor].html">Number[psor]</a>=EMPTY</tt> (1; 100%), <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (1; 100%), <tt><a href="PronType.html">PronType</a>=Rel</tt> (1; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (1; 100%), <tt><a href="Gender.html">Gender</a>=Fem</tt> (1; 100%), <tt><a href="Poss.html">Poss</a>=EMPTY</tt> (1; 100%).
+The most frequent other feature values with which `DET` and `PrepCase` co-occurred: <tt><a href="Person.html">Person</a>=EMPTY</tt> (1; 100%), <tt><a href="Number[psor].html">Number[psor]</a>=EMPTY</tt> (1; 100%), <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (1; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (1; 100%), <tt><a href="Poss.html">Poss</a>=EMPTY</tt> (1; 100%), <tt><a href="Case.html">Case</a>=Nom</tt> (1; 100%), <tt><a href="Gender.html">Gender</a>=Fem</tt> (1; 100%), <tt><a href="PronType.html">PronType</a>=Rel</tt> (1; 100%).
 
 `DET` tokens may have the following values of `PrepCase`:
 
@@ -139,7 +139,7 @@ The feature is used with 1 part-of-speech tags: [cs-pos/PRON]() (67; 0% instance
 
 67 [cs-pos/PRON]() tokens (8% of all `PRON` tokens) have a non-empty value of `PrepCase`.
 
-The most frequent other feature values with which `PRON` and `PrepCase` co-occurred: <tt><a href="Reflex.html">Reflex</a>=EMPTY</tt> (67; 100%), <tt><a href="Variant.html">Variant</a>=EMPTY</tt> (67; 100%), <tt><a href="PronType.html">PronType</a>=Rel</tt> (54; 81%), <tt><a href="Number.html">Number</a>=Sing</tt> (34; 51%).
+The most frequent other feature values with which `PRON` and `PrepCase` co-occurred: <tt><a href="Variant.html">Variant</a>=EMPTY</tt> (67; 100%), <tt><a href="Reflex.html">Reflex</a>=EMPTY</tt> (67; 100%), <tt><a href="PronType.html">PronType</a>=Rel</tt> (54; 81%), <tt><a href="Number.html">Number</a>=Sing</tt> (34; 51%).
 
 `PRON` tokens may have the following values of `PrepCase`:
 

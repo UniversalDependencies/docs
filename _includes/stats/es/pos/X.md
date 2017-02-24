@@ -11,7 +11,7 @@ The 10 most frequent `X` lemmas: <em>ex, hab, 's, etc., ya, c, ², x, i, mm</em>
 
 The 10 most frequent `X` types:  <em>ex, hab, 's, etc., ya, C, ², x, i, mm</em>
 
-The 10 most frequent ambiguous lemmas: <em>ex</em> ([X]() 43, [PART]() 4, [ADJ]() 3, [NOUN]() 1, [PROPN]() 1), <em>hab</em> ([X]() 39, [NOUN]() 23, [VERB]() 3), <em>'s</em> ([X]() 36, [PROPN]() 3), <em>ya</em> ([ADV]() 402, [X]() 31, [PROPN]() 3), <em>c</em> ([X]() 27, [PROPN]() 9, [NOUN]() 4), <em>²</em> ([SYM]() 299, [X]() 18, [NUM]() 16), <em>x</em> ([X]() 17, [NUM]() 10, [PROPN]() 8), <em>i</em> ([NUM]() 52, [PROPN]() 22, [CCONJ]() 20, [X]() 16), <em>mm</em> ([NOUN]() 20, [X]() 15), <em>c.</em> ([X]() 14, [PROPN]() 6, [NOUN]() 1)
+The 10 most frequent ambiguous lemmas: <em>ex</em> ([X]() 43, [PART]() 4, [ADJ]() 3, [PROPN]() 1, [NOUN]() 1), <em>hab</em> ([X]() 39, [NOUN]() 23, [VERB]() 3), <em>'s</em> ([X]() 36, [PROPN]() 3), <em>ya</em> ([ADV]() 402, [X]() 31, [PROPN]() 3), <em>c</em> ([X]() 27, [PROPN]() 9, [NOUN]() 4), <em>²</em> ([SYM]() 299, [X]() 18, [NUM]() 16), <em>x</em> ([X]() 17, [NUM]() 10, [PROPN]() 8), <em>i</em> ([NUM]() 52, [PROPN]() 22, [CCONJ]() 20, [X]() 16), <em>mm</em> ([NOUN]() 20, [X]() 15), <em>c.</em> ([X]() 14, [PROPN]() 6, [NOUN]() 1)
 
 The 10 most frequent ambiguous types:  <em>ex</em> ([X]() 42, [PART]() 4, [ADJ]() 3, [NOUN]() 1), <em>hab</em> ([X]() 39, [NOUN]() 23, [VERB]() 3), <em>'s</em> ([X]() 36, [PROPN]() 3), <em>ya</em> ([ADV]() 374, [X]() 31), <em>C</em> ([X]() 27, [PROPN]() 8, [NOUN]() 4), <em>²</em> ([SYM]() 299, [X]() 18, [NUM]() 16), <em>x</em> ([X]() 11, [PROPN]() 1), <em>i</em> ([CCONJ]() 20, [X]() 6, [PROPN]() 1), <em>mm</em> ([NOUN]() 20, [X]() 14), <em>C.</em> ([X]() 14, [PROPN]() 6, [NOUN]() 1)
 
@@ -108,15 +108,15 @@ The 10 most frequent `X` types:  <em>tanto, uno</em>
 
 The 10 most frequent ambiguous lemmas: <em>tanto</em> ([ADV]() 327, [NOUN]() 105, [DET]() 67, [PRON]() 5, [X]() 1), <em>uno</em> ([DET]() 8571, [PRON]() 658, [NOUN]() 8, [NUM]() 6, [X]() 1)
 
-The 10 most frequent ambiguous types:  <em>tanto</em> ([ADV]() 113, [NOUN]() 96, [DET]() 17, [X]() 1, [PRON]() 1), <em>uno</em> ([PRON]() 290, [NOUN]() 8, [NUM]() 5, [DET]() 2, [X]() 1)
+The 10 most frequent ambiguous types:  <em>tanto</em> ([ADV]() 113, [NOUN]() 96, [DET]() 17, [PRON]() 1, [X]() 1), <em>uno</em> ([PRON]() 290, [NOUN]() 8, [NUM]() 5, [DET]() 2, [X]() 1)
 
 
 * <em>tanto</em>
   * [ADV]() 113: <em>Las cosas no han cambiado <b>tanto</b> , brodel ( hermano ) .</em>
   * [NOUN]() 96: <em>Pero Germán de Granda es un hombre apasionado y , por <b>tanto</b> , ingenuo .</em>
   * [DET]() 17: <em>¿ Por qué <b>tanto</b> tiempo ? - - .</em>
-  * [X]() 1: <em>" Tengo que sentir me al cien por cien , porque si estoy a un <b>tanto</b> por ciento inferior será perjudicial para mí y para el equipo " , explicó el central , que pasará una prueba física .</em>
   * [PRON]() 1: <em>Al mismo tiempo , se dan cita miles de especialistas en distintas materias : los abogados alemanes celebran su encuentro anual , otro <b>tanto</b> sucede con los médicos , y expertos internacionales preparan a partir del viernes la cumbre de líderes reformistas .</em>
+  * [X]() 1: <em>" Tengo que sentir me al cien por cien , porque si estoy a un <b>tanto</b> por ciento inferior será perjudicial para mí y para el equipo " , explicó el central , que pasará una prueba física .</em>
 * <em>uno</em>
   * [PRON]() 290: <em>Cuando un grupo está comiendo , <b>uno</b> de ellos permanece de centinela .</em>
   * [NOUN]() 8: <em>La federación , en un comunicado , recuerda que Colombia iniciará su retención el <b>uno</b> de octubre , fecha en la que comienza su cosecha de café .</em>

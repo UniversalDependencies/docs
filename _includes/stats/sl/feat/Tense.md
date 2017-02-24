@@ -49,7 +49,7 @@ The most frequent other feature values with which `AUX` and `Tense` co-occurred:
 
 5328 [sl-pos/VERB]() tokens (41% of all `VERB` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (5328; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (5328; 100%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (5328; 100%), <tt><a href="Person.html">Person</a>=3</tt> (4123; 77%), <tt><a href="Number.html">Number</a>=Sing</tt> (3271; 61%), <tt><a href="Aspect.html">Aspect</a>=Imp</tt> (3022; 57%).
+The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="Mood.html">Mood</a>=Ind</tt> (5328; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (5328; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (5328; 100%), <tt><a href="Person.html">Person</a>=3</tt> (4123; 77%), <tt><a href="Number.html">Number</a>=Sing</tt> (3271; 61%), <tt><a href="Aspect.html">Aspect</a>=Imp</tt> (3022; 57%).
 
 `VERB` tokens may have the following values of `Tense`:
 
@@ -83,8 +83,8 @@ The most frequent other feature values with which `VERB` and `Tense` co-occurred
 The 10 most frequent relations where parent and child node agree in `Tense`:
 <tt>VERB --[<a href="../dep/conj.html">conj</a>]--> VERB</tt> (379; 73%),
 <tt>VERB --[<a href="../dep/parataxis.html">parataxis</a>]--> VERB</tt> (238; 50%),
-<tt>VERB --[<a href="../dep/fixed.html">fixed</a>]--> VERB</tt> (1; 100%),
-<tt>AUX --[<a href="../dep/conj.html">conj</a>]--> VERB</tt> (1; 100%).
+<tt>AUX --[<a href="../dep/conj.html">conj</a>]--> VERB</tt> (1; 100%),
+<tt>VERB --[<a href="../dep/fixed.html">fixed</a>]--> VERB</tt> (1; 100%).
 
 
 

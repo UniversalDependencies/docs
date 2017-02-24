@@ -50,7 +50,7 @@ The most frequent other feature values with which `VERB` and `VerbForm` co-occur
 
 10188 [nl-pos/AUX]() tokens (100% of all `AUX` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `AUX` and `VerbForm` co-occurred: <tt><a href="Subcat.html">Subcat</a>=EMPTY</tt> (9073; 89%), <tt><a href="VerbType.html">VerbType</a>=EMPTY</tt> (8977; 88%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (8581; 84%), <tt><a href="Aspect.html">Aspect</a>=Imp</tt> (8581; 84%), <tt><a href="Number.html">Number</a>=Sing</tt> (6814; 67%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (6016; 59%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (5470; 54%).
+The most frequent other feature values with which `AUX` and `VerbForm` co-occurred: <tt><a href="Subcat.html">Subcat</a>=EMPTY</tt> (9073; 89%), <tt><a href="VerbType.html">VerbType</a>=EMPTY</tt> (8977; 88%), <tt><a href="Aspect.html">Aspect</a>=Imp</tt> (8581; 84%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (8581; 84%), <tt><a href="Number.html">Number</a>=Sing</tt> (6814; 67%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (6016; 59%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (5470; 54%).
 
 `AUX` tokens may have the following values of `VerbForm`:
 
@@ -84,7 +84,7 @@ The most frequent other feature values with which `AUX` and `VerbForm` co-occurr
   <tr><td><tt><a href="Mood.html">Mood</a>=Sub</tt></td><td><em>zij, ware</em></td><td></td><td></td></tr>
   <tr><td><tt><a href="Mood.html">Mood</a>=Sub|<a href="VerbType.html">VerbType</a>=Aux,Cop</tt></td><td><em>ware, zij</em></td><td></td><td></td></tr>
   <tr><td><tt><a href="Subcat.html">Subcat</a>=Intr</tt></td><td></td><td><em>zijn</em></td><td></td></tr>
-  <tr><td><tt><a href="Subcat.html">Subcat</a>=Intr|<a href="Tense.html">Tense</a>=Past</tt></td><td></td><td></td><td><em>weggeweest, geweest</em></td></tr>
+  <tr><td><tt><a href="Subcat.html">Subcat</a>=Intr|<a href="Tense.html">Tense</a>=Past</tt></td><td></td><td></td><td><em>geweest, weggeweest</em></td></tr>
   <tr><td><tt><a href="Tense.html">Tense</a>=Past</tt></td><td></td><td></td><td><em>geweest</em></td></tr>
   <tr><td><tt><a href="Tense.html">Tense</a>=Past|<a href="VerbType.html">VerbType</a>=Aux,Cop</tt></td><td></td><td></td><td><em>geweest</em></td></tr>
   <tr><td><tt><a href="VerbType.html">VerbType</a>=Aux,Cop</tt></td><td></td><td><em>zijn</em></td><td></td></tr>
@@ -196,7 +196,7 @@ The most frequent other feature values with which `AUX` and `VerbForm` co-occurr
 The 10 most frequent relations where parent and child node agree in `VerbForm`:
 <tt>VERB --[<a href="../dep/conj.html">conj</a>]--> VERB</tt> (317; 66%),
 <tt>VERB --[<a href="../dep/parataxis.html">parataxis</a>]--> VERB</tt> (73; 63%),
-<tt>AUX --[<a href="../dep/conj.html">conj</a>]--> VERB</tt> (1; 100%),
 <tt>VERB --[<a href="../dep/appos.html">appos</a>]--> VERB</tt> (1; 100%),
+<tt>AUX --[<a href="../dep/conj.html">conj</a>]--> VERB</tt> (1; 100%),
 <tt>VERB --[<a href="../dep/nmod.html">nmod</a>]--> VERB</tt> (1; 100%).
 

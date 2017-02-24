@@ -101,7 +101,7 @@ The 10 most frequent `NOUN` types:  <em>dan, redu, strani, jutro, bistvu, koncu,
 
 The 10 most frequent ambiguous lemmas: <em>dan</em> ([NOUN]() 29, [ADJ]() 1), <em>konec</em> ([NOUN]() 21, [ADP]() 1), <em>svet</em> ([NOUN]() 5, [ADJ]() 1), <em>a</em> ([ADV]() 96, [INTJ]() 7, [NOUN]() 4, [CCONJ]() 3), <em>kot</em> ([SCONJ]() 60, [NOUN]() 4), <em>minus</em> ([NOUN]() 4, [X]() 1), <em>moški</em> ([NOUN]() 3, [ADJ]() 2), <em>dolg</em> ([NOUN]() 2, [ADJ]() 2), <em>gol</em> ([NOUN]() 2, [ADJ]() 1), <em>kamen</em> ([NOUN]() 2, [ADJ]() 1)
 
-The 10 most frequent ambiguous types:  <em>a</em> ([ADV]() 96, [INTJ]() 7, [NOUN]() 4, [CCONJ]() 3, [X]() 3), <em>konec</em> ([NOUN]() 4, [ADP]() 1), <em>kot</em> ([SCONJ]() 60, [NOUN]() 4), <em>minus</em> ([NOUN]() 4, [X]() 1), <em>dela</em> ([NOUN]() 3, [X]() 1), <em>igra</em> ([VERB]() 2, [NOUN]() 2), <em>psi</em> ([NOUN]() 2, [X]() 1), <em>reči</em> ([VERB]() 7, [NOUN]() 2), <em>vodi</em> ([NOUN]() 2, [VERB]() 1), <em>d</em> ([X]() 6, [NOUN]() 1)
+The 10 most frequent ambiguous types:  <em>a</em> ([ADV]() 96, [INTJ]() 7, [NOUN]() 4, [CCONJ]() 3, [X]() 3), <em>konec</em> ([NOUN]() 4, [ADP]() 1), <em>kot</em> ([SCONJ]() 60, [NOUN]() 4), <em>minus</em> ([NOUN]() 4, [X]() 1), <em>dela</em> ([NOUN]() 3, [X]() 1), <em>igra</em> ([NOUN]() 2, [VERB]() 2), <em>psi</em> ([NOUN]() 2, [X]() 1), <em>reči</em> ([VERB]() 7, [NOUN]() 2), <em>vodi</em> ([NOUN]() 2, [VERB]() 1), <em>d</em> ([X]() 6, [NOUN]() 1)
 
 
 * <em>a</em>
@@ -123,8 +123,8 @@ The 10 most frequent ambiguous types:  <em>a</em> ([ADV]() 96, [INTJ]() 7, [NOUN
   * [NOUN]() 3: <em>vrtičkarji imate gotovo aprila veliko <b>dela</b></em>
   * [X]() 1: <em>ampak nisem s [gap] pa še zmeraj jaz nekaj za jezike bil spe [gap] spet eee sem jaz cvek pisal če sem če smo eee <b>dela</b> [gap] delal sem pol mat [gap] mi [gap] takrat je bila eee matura ne diploma na poklicni šoli ker sem jaz prvo končal</em>
 * <em>igra</em>
-  * [VERB]() 2: <em>bartosz bosacki je izkušen nogometaš triintridesetletni branilec ki <b>igra</b> za lech iz poznanja</em>
   * [NOUN]() 2: <em>tvoja <b>igra</b> tvoj premierni hitri kviz se začenja zdaj</em>
+  * [VERB]() 2: <em>bartosz bosacki je izkušen nogometaš triintridesetletni branilec ki <b>igra</b> za lech iz poznanja</em>
 * <em>psi</em>
   * [NOUN]() 2: <em>alora smo rekli bom jih nesemo domov višto ker jaz sem zmeraj imela mačke doma in mene mačke so me sem zmeraj imela samo mačke quindi imam boljši odnos z njimi kakor s s <b>psi</b> ne anche če <b>psi</b> so mi super zlati</em>
   * [X]() 1: <em>eem eee <b>psi</b> [gap] psihološki fiziološki eee fizikalni pa socialni dejavniki učenja</em>

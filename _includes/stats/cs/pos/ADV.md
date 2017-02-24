@@ -198,7 +198,7 @@ The 10 most frequent `ADV` types:  <em>zejména, dále, popřípadě, napříkla
 
 The 10 most frequent ambiguous lemmas: <em>tak</em> ([ADV]() 15, [CCONJ]() 1), <em>včetně</em> ([ADP]() 35, [ADV]() 7)
 
-The 10 most frequent ambiguous types:  <em>tak</em> ([ADV]() 15, [CCONJ]() 1), <em>včetně</em> ([ADP]() 35, [ADV]() 7), <em>tuto</em> ([DET]() 7, [ADV]() 4), <em>celkem</em> ([ADV]() 3, [NOUN]() 2), <em>výše</em> ([NOUN]() 26, [ADV]() 3), <em>jednou</em> ([ADV]() 2, [NUM]() 2)
+The 10 most frequent ambiguous types:  <em>tak</em> ([ADV]() 15, [CCONJ]() 1), <em>včetně</em> ([ADP]() 35, [ADV]() 7), <em>tuto</em> ([DET]() 7, [ADV]() 4), <em>celkem</em> ([ADV]() 3, [NOUN]() 2), <em>výše</em> ([NOUN]() 26, [ADV]() 3), <em>jednou</em> ([NUM]() 2, [ADV]() 2)
 
 
 * <em>tak</em>
@@ -217,8 +217,8 @@ The 10 most frequent ambiguous types:  <em>tak</em> ([ADV]() 15, [CCONJ]() 1), <
   * [NOUN]() 26: <em>(5) Rezervy není možné používat k úpravám <b>výše</b> ocenění aktiv .</em>
   * [ADV]() 3: <em>(1) V konsolidovaném výkazu zisku a ztráty se uvádí <b>výše</b> nákladů a výnosů odděleně za běžné účetní období a minulé účetní období .</em>
 * <em>jednou</em>
-  * [ADV]() 2: <em>Takovouto změnu účetního období může účetní jednotka v běžném účetním období provést pouze <b>jednou</b> .</em>
   * [NUM]() 2: <em>(3) Pokud je v případě uvedeném v odstavci 2 alespoň <b>jednou</b> z nástupnických účetních jednotek účetní jednotka , která má nebo má mít sídlo v České republice , použijí zanikající účetní jednotka i nástupnická účetní jednotka při účtování o ocenění majetku a závazků reálnou hodnotou § 54 obdobně .</em>
+  * [ADV]() 2: <em>Takovouto změnu účetního období může účetní jednotka v běžném účetním období provést pouze <b>jednou</b> .</em>
 
 ## Morphology
 

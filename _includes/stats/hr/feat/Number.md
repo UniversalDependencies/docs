@@ -78,7 +78,7 @@ The most frequent other feature values with which `ADJ` and `Number` co-occurred
   <tr><td><tt><a href="Case.html">Case</a>=Dat|<a href="Degree.html">Degree</a>=Sup|<a href="Gender.html">Gender</a>=Masc</tt></td><td><em>najvećem</em></td><td></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Definite.html">Definite</a>=Def|<a href="Degree.html">Degree</a>=Pos|<a href="Gender.html">Gender</a>=Masc</tt></td><td><em>velikog, velikoga</em></td><td><em>velikih</em></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Definite.html">Definite</a>=Def|<a href="Degree.html">Degree</a>=Pos|<a href="Gender.html">Gender</a>=Fem</tt></td><td><em>velike</em></td><td><em>velikih</em></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Definite.html">Definite</a>=Def|<a href="Degree.html">Degree</a>=Pos|<a href="Gender.html">Gender</a>=Neut</tt></td><td><em>najvećeg, velikog</em></td><td><em>velikih</em></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Definite.html">Definite</a>=Def|<a href="Degree.html">Degree</a>=Pos|<a href="Gender.html">Gender</a>=Neut</tt></td><td><em>velikog, najvećeg</em></td><td><em>velikih</em></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Definite.html">Definite</a>=Def|<a href="Degree.html">Degree</a>=Cmp|<a href="Gender.html">Gender</a>=Masc</tt></td><td><em>većeg</em></td><td><em>većih</em></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Definite.html">Definite</a>=Def|<a href="Degree.html">Degree</a>=Cmp|<a href="Gender.html">Gender</a>=Fem</tt></td><td><em>veće</em></td><td></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Definite.html">Definite</a>=Def|<a href="Degree.html">Degree</a>=Sup|<a href="Gender.html">Gender</a>=Masc</tt></td><td><em>najvećeg</em></td><td><em>najvećih</em></td></tr>
@@ -142,7 +142,7 @@ The most frequent other feature values with which `ADJ` and `Number` co-occurred
 
 12932 [hr-pos/VERB]() tokens (81% of all `VERB` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (7264; 56%), <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (7264; 56%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (7264; 56%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (7049; 55%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (7042; 54%).
+The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (7264; 56%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (7264; 56%), <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (7264; 56%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (7049; 55%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (7042; 54%).
 
 `VERB` tokens may have the following values of `Number`:
 
@@ -209,7 +209,7 @@ The most frequent other feature values with which `AUX` and `Number` co-occurred
   <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Person.html">Person</a>=1|<a href="Polarity.html">Polarity</a>=Neg|<a href="Tense.html">Tense</a>=Pres|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td><em>nisam</em></td><td><em>nismo</em></td></tr>
   <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Person.html">Person</a>=1|<a href="Tense.html">Tense</a>=Pres|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td><em>sam, nisam, jesam</em></td><td><em>smo, nismo, jesmo, budemo</em></td></tr>
   <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Person.html">Person</a>=2|<a href="Polarity.html">Polarity</a>=Neg|<a href="Tense.html">Tense</a>=Pres|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td></td><td><em>niste</em></td></tr>
-  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Person.html">Person</a>=2|<a href="Tense.html">Tense</a>=Pres|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td><em>si, jesi, nisi</em></td><td><em>ste, Jeste, niste, budete</em></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Person.html">Person</a>=2|<a href="Tense.html">Tense</a>=Pres|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td><em>si, nisi, jesi</em></td><td><em>ste, Jeste, niste, budete</em></td></tr>
   <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Person.html">Person</a>=3|<a href="Polarity.html">Polarity</a>=Neg|<a href="Tense.html">Tense</a>=Pres|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td><em>nije</em></td><td><em>nisu</em></td></tr>
   <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Imp|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td><em>bijaše</em></td><td></td></tr>
   <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Pres|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td><em>je, nije, bude, jest, jeste</em></td><td><em>su, nisu, budu, jesu, biti</em></td></tr>
@@ -327,7 +327,7 @@ The most frequent other feature values with which `NUM` and `Number` co-occurred
 
 1 [hr-pos/ADV]() tokens (0% of all `ADV` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `ADV` and `Number` co-occurred: <tt><a href="PronType.html">PronType</a>=Ind</tt> (1; 100%), <tt><a href="Degree.html">Degree</a>=Sup</tt> (1; 100%).
+The most frequent other feature values with which `ADV` and `Number` co-occurred: <tt><a href="Degree.html">Degree</a>=Sup</tt> (1; 100%), <tt><a href="PronType.html">PronType</a>=Ind</tt> (1; 100%).
 
 `ADV` tokens may have the following values of `Number`:
 

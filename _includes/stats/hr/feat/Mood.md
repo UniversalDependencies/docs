@@ -41,7 +41,7 @@ The most frequent other feature values with which `AUX` and `Mood` co-occurred: 
   <tr><td><tt><a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=1|<a href="Tense.html">Tense</a>=Pres</tt></td><td><em>smo, nismo, jesmo, budemo</em></td><td></td><td></td></tr>
   <tr><td><tt><a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=2|<a href="Polarity.html">Polarity</a>=Neg|<a href="Tense.html">Tense</a>=Pres</tt></td><td><em>niste</em></td><td></td><td></td></tr>
   <tr><td><tt><a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=2|<a href="Tense.html">Tense</a>=Past</tt></td><td></td><td></td><td><em>biste, bi</em></td></tr>
-  <tr><td><tt><a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=2|<a href="Tense.html">Tense</a>=Pres</tt></td><td><em>ste, niste, Jeste, budete</em></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=2|<a href="Tense.html">Tense</a>=Pres</tt></td><td><em>ste, Jeste, niste, budete</em></td><td></td><td></td></tr>
   <tr><td><tt><a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=2</tt></td><td></td><td><em>budite</em></td><td></td></tr>
   <tr><td><tt><a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=3|<a href="Polarity.html">Polarity</a>=Neg|<a href="Tense.html">Tense</a>=Pres</tt></td><td><em>nisu</em></td><td></td><td></td></tr>
   <tr><td><tt><a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Past</tt></td><td></td><td></td><td><em>bi</em></td></tr>
@@ -54,7 +54,7 @@ The most frequent other feature values with which `AUX` and `Mood` co-occurred: 
 
 7264 [hr-pos/VERB]() tokens (45% of all `VERB` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (7264; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (7264; 100%), <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (7264; 100%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (7042; 97%), <tt><a href="Person.html">Person</a>=3</tt> (6138; 84%), <tt><a href="Number.html">Number</a>=Sing</tt> (4467; 61%).
+The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (7264; 100%), <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (7264; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (7264; 100%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (7042; 97%), <tt><a href="Person.html">Person</a>=3</tt> (6138; 84%), <tt><a href="Number.html">Number</a>=Sing</tt> (4467; 61%).
 
 `VERB` tokens may have the following values of `Mood`:
 

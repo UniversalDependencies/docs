@@ -15,6 +15,45 @@ The following 3 pairs of parts of speech are connected with `appos`: [lv-pos/NOU
 
 
 ~~~ conllu
+# visual-style 18	bgColor:blue
+# visual-style 18	fgColor:white
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 8 18 appos	color:blue
+1	Savukārt	savukārt	ADV	r0q	_	7	advmod	_	_
+2	jau	jau	ADV	r0t	_	3	advmod	_	_
+3	tuvākajā	tuvs	ADJ	afmslyc	Case=Loc|Degree=Cmp|Gender=Masc|Number=Sing	4	amod	_	_
+4	laikā	laiks	NOUN	ncmsl1	Case=Loc|Gender=Masc|Number=Sing	7	obl	_	_
+5	Pillar	Pillar	PROPN	np0sn0	Case=Nom|Number=Sing	7	nsubj	_	_
+6	pilnībā	pilnībā	ADV	r0m	_	7	advmod	_	_
+7	pabeigs	pabeigt	VERB	vmnift130an	Evident=Fh,Nfh|Mood=Ind|Person=3|Polarity=Pos|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	_
+8	vienu	viens	NUM	mcsmsav	Case=Acc|Gender=Masc|Number=Sing|NumType=Card	7	obj	_	_
+9	no	no	ADP	sppdy	_	13	case	_	_
+10	ekskluzīvākajiem	ekskluzīvs	ADJ	afmpdyc	Case=Dat|Degree=Cmp|Gender=Masc|Number=Plur	13	amod	_	_
+11	nekustamā	nekustams	ADJ	armsgyp	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	12	amod	_	_
+12	īpašuma	īpašums	NOUN	ncmsg1	Case=Gen|Gender=Masc|Number=Sing	13	nmod	_	_
+13	projektiem	projekts	NOUN	ncmpd1	Case=Dat|Gender=Masc|Number=Plur	8	compound	_	_
+14	visā	visa	DET	pg0fsln	Case=Loc|Gender=Fem|Number=Sing|PronType=Tot	15	det	_	_
+15	Rīgā	Rīga	PROPN	npfsl4	Case=Loc|Gender=Fem|Number=Sing	13	acl	_	_
+16	-	-	PUNCT	zd	_	18	punct	_	_
+17	"	"	PUNCT	zq	_	18	punct	_	SpaceAfter=No
+18	Elizabetes	Elizabete	PROPN	npfsg5	Case=Gen|Gender=Fem|Number=Sing	8	appos	_	_
+19	Park	Park	X	xf	Foreign=Yes	18	flat:name	_	_
+20	House	House	X	xf	Foreign=Yes	18	flat:name	_	SpaceAfter=No
+21	"	"	PUNCT	zq	_	18	punct	_	_
+22	Rīgas	Rīga	PROPN	npfsg4	Case=Gen|Gender=Fem|Number=Sing	23	nmod	_	_
+23	centrā	centrs	NOUN	ncmsl1	Case=Loc|Gender=Masc|Number=Sing	18	acl	_	SpaceAfter=No
+24	,	,	PUNCT	zc	_	27	punct	_	_
+25	Elizabetes	Elizabete	PROPN	npfsg5	Case=Gen|Gender=Fem|Number=Sing	26	nmod	_	_
+26	ielā	iela	NOUN	ncfsl4	Case=Loc|Gender=Fem|Number=Sing	27	nmod	_	_
+27	21	21	NUM	xn	NumType=Card	23	conj	_	SpaceAfter=No
+28	a	a	SYM	xx	_	27	amod	_	SpaceAfter=No
+29	.	.	PUNCT	zs	_	7	punct	_	_
+
+~~~
+
+
+~~~ conllu
 # visual-style 12	bgColor:blue
 # visual-style 12	fgColor:white
 # visual-style 10	bgColor:blue
@@ -54,45 +93,6 @@ The following 3 pairs of parts of speech are connected with `appos`: [lv-pos/NOU
 32	un	un	CCONJ	ccs	_	33	cc	_	_
 33	tirdzniecība	tirdzniecība	NOUN	ncfsn4	Case=Nom|Gender=Fem|Number=Sing	29	conj	_	SpaceAfter=No
 34	.	.	PUNCT	zs	_	7	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 18	bgColor:blue
-# visual-style 18	fgColor:white
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 8 18 appos	color:blue
-1	Savukārt	savukārt	ADV	r0q	_	7	advmod	_	_
-2	jau	jau	ADV	r0t	_	3	advmod	_	_
-3	tuvākajā	tuvs	ADJ	afmslyc	Case=Loc|Degree=Cmp|Gender=Masc|Number=Sing	4	amod	_	_
-4	laikā	laiks	NOUN	ncmsl1	Case=Loc|Gender=Masc|Number=Sing	7	obl	_	_
-5	Pillar	Pillar	PROPN	np0sn0	Case=Nom|Number=Sing	7	nsubj	_	_
-6	pilnībā	pilnībā	ADV	r0m	_	7	advmod	_	_
-7	pabeigs	pabeigt	VERB	vmnift130an	Evident=Fh,Nfh|Mood=Ind|Person=3|Polarity=Pos|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	_
-8	vienu	viens	NUM	mcsmsav	Case=Acc|Gender=Masc|Number=Sing|NumType=Card	7	obj	_	_
-9	no	no	ADP	sppdy	_	13	case	_	_
-10	ekskluzīvākajiem	ekskluzīvs	ADJ	afmpdyc	Case=Dat|Degree=Cmp|Gender=Masc|Number=Plur	13	amod	_	_
-11	nekustamā	nekustams	ADJ	armsgyp	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	12	amod	_	_
-12	īpašuma	īpašums	NOUN	ncmsg1	Case=Gen|Gender=Masc|Number=Sing	13	nmod	_	_
-13	projektiem	projekts	NOUN	ncmpd1	Case=Dat|Gender=Masc|Number=Plur	8	compound	_	_
-14	visā	visa	DET	pg0fsln	Case=Loc|Gender=Fem|Number=Sing|PronType=Tot	15	det	_	_
-15	Rīgā	Rīga	PROPN	npfsl4	Case=Loc|Gender=Fem|Number=Sing	13	acl	_	_
-16	-	-	PUNCT	zd	_	18	punct	_	_
-17	"	"	PUNCT	zq	_	18	punct	_	SpaceAfter=No
-18	Elizabetes	Elizabete	PROPN	npfsg5	Case=Gen|Gender=Fem|Number=Sing	8	appos	_	_
-19	Park	Park	X	xf	Foreign=Yes	18	flat:name	_	_
-20	House	House	X	xf	Foreign=Yes	18	flat:name	_	SpaceAfter=No
-21	"	"	PUNCT	zq	_	18	punct	_	_
-22	Rīgas	Rīga	PROPN	npfsg4	Case=Gen|Gender=Fem|Number=Sing	23	nmod	_	_
-23	centrā	centrs	NOUN	ncmsl1	Case=Loc|Gender=Masc|Number=Sing	18	acl	_	SpaceAfter=No
-24	,	,	PUNCT	zc	_	27	punct	_	_
-25	Elizabetes	Elizabete	PROPN	npfsg5	Case=Gen|Gender=Fem|Number=Sing	26	nmod	_	_
-26	ielā	iela	NOUN	ncfsl4	Case=Loc|Gender=Fem|Number=Sing	27	nmod	_	_
-27	21	21	NUM	xn	NumType=Card	23	conj	_	SpaceAfter=No
-28	a	a	SYM	xx	_	27	amod	_	SpaceAfter=No
-29	.	.	PUNCT	zs	_	7	punct	_	_
 
 ~~~
 

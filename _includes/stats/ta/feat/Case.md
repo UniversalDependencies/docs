@@ -29,9 +29,8 @@ The most frequent other feature values with which `NOUN` and `Case` co-occurred:
 * `Nom` (1808; 66% of non-empty `Case`): அரசு, நாடுகள், தலைவர், செயலாளர், முதல்வர், பேர், ஆண்டு, மக்கள், அதிகாரிகள், அமைச்சர்
 
 <table>
-  <tr><th>Paradigm <i>நாடு</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th><th><tt>Gen</tt></th><th><tt>Loc</tt></th></tr>
-  <tr><td><tt><a href="Number.html">Number</a>=Sing</tt></td><td>நாடு</td><td>நாட்டைச்</td><td></td><td>நாட்டின்</td><td>நாட்டில்</td></tr>
-  <tr><td><tt><a href="Number.html">Number</a>=Plur</tt></td><td>நாடுகள்</td><td>நாடுகளைப்</td><td>நாடுகளுக்க்</td><td>நாடுகளின்</td><td>நாடுகளில்</td></tr>
+  <tr><th>Paradigm <i>அரசு</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th><th><tt>Gen</tt></th><th><tt>Loc</tt></th></tr>
+  <tr><td><tt></tt></td><td>அரசு, அரச், அரசுப்</td><td>அரசை, அரசைக்</td><td>அரசுக்கு</td><td>அரசின், அரசினுடைய</td><td>அரசிடம்</td></tr>
 </table>
 
 ### `PROPN`
@@ -52,7 +51,7 @@ The most frequent other feature values with which `PROPN` and `Case` co-occurred
 
 <table>
   <tr><th>Paradigm <i>இந்தியா</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th><th><tt>Gen</tt></th><th><tt>Loc</tt></th></tr>
-  <tr><td><tt></tt></td><td>இந்தியா, இந்தியாவ்</td><td>இந்தியாவைச்</td><td>இந்தியாவுக்கு, இந்தியாவுக்குச், இந்தியாவுக்க்</td><td>இந்தியாவின்</td><td>இந்தியாவில்</td></tr>
+  <tr><td><tt></tt></td><td>இந்தியா, இந்தியாவ்</td><td>இந்தியாவைச்</td><td>இந்தியாவுக்கு, இந்தியாவுக்க், இந்தியாவுக்குச்</td><td>இந்தியாவின்</td><td>இந்தியாவில்</td></tr>
 </table>
 
 `Case` seems to be **lexical feature** of `PROPN`. 91% lemmas (396) occur only with one value of `Case`.
@@ -82,7 +81,7 @@ The most frequent other feature values with which `PRON` and `Case` co-occurred:
 
 137 [ta-pos/VERB]() tokens (12% of all `VERB` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `VERB` and `Case` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=Ger</tt> (137; 100%), <tt><a href="Gender.html">Gender</a>=Neut</tt> (137; 100%), <tt><a href="Polite.html">Polite</a>=EMPTY</tt> (137; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (137; 100%), <tt><a href="Person.html">Person</a>=3</tt> (137; 100%), <tt><a href="Polarity.html">Polarity</a>=Pos</tt> (136; 99%), <tt><a href="Number.html">Number</a>=Sing</tt> (136; 99%), <tt><a href="Voice.html">Voice</a>=Act</tt> (135; 99%), <tt><a href="Tense.html">Tense</a>=Fut</tt> (78; 57%).
+The most frequent other feature values with which `VERB` and `Case` co-occurred: <tt><a href="Polite.html">Polite</a>=EMPTY</tt> (137; 100%), <tt><a href="Person.html">Person</a>=3</tt> (137; 100%), <tt><a href="Gender.html">Gender</a>=Neut</tt> (137; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Ger</tt> (137; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (137; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (136; 99%), <tt><a href="Polarity.html">Polarity</a>=Pos</tt> (136; 99%), <tt><a href="Voice.html">Voice</a>=Act</tt> (135; 99%), <tt><a href="Tense.html">Tense</a>=Fut</tt> (78; 57%).
 
 `VERB` tokens may have the following values of `Case`:
 
@@ -105,7 +104,7 @@ The most frequent other feature values with which `VERB` and `Case` co-occurred:
 
 58 [ta-pos/AUX]() tokens (9% of all `AUX` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `AUX` and `Case` co-occurred: <tt><a href="Gender.html">Gender</a>=Neut</tt> (58; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Ger</tt> (58; 100%), <tt><a href="Polarity.html">Polarity</a>=Pos</tt> (58; 100%), <tt><a href="Person.html">Person</a>=3</tt> (58; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (58; 100%), <tt><a href="Polite.html">Polite</a>=EMPTY</tt> (58; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (58; 100%), <tt><a href="Voice.html">Voice</a>=Act</tt> (49; 84%).
+The most frequent other feature values with which `AUX` and `Case` co-occurred: <tt><a href="Person.html">Person</a>=3</tt> (58; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (58; 100%), <tt><a href="Polite.html">Polite</a>=EMPTY</tt> (58; 100%), <tt><a href="Polarity.html">Polarity</a>=Pos</tt> (58; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Ger</tt> (58; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (58; 100%), <tt><a href="Gender.html">Gender</a>=Neut</tt> (58; 100%), <tt><a href="Voice.html">Voice</a>=Act</tt> (49; 84%).
 
 `AUX` tokens may have the following values of `Case`:
 
@@ -146,7 +145,7 @@ The most frequent other feature values with which `NUM` and `Case` co-occurred: 
 
 15 [ta-pos/PART]() tokens (2% of all `PART` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `PART` and `Case` co-occurred: <tt><a href="Polarity.html">Polarity</a>=Pos</tt> (15; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Ger</tt> (15; 100%).
+The most frequent other feature values with which `PART` and `Case` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=Ger</tt> (15; 100%), <tt><a href="Polarity.html">Polarity</a>=Pos</tt> (15; 100%).
 
 `PART` tokens may have the following values of `Case`:
 

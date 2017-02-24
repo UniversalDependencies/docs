@@ -16,7 +16,7 @@ The feature is used with 2 part-of-speech tags: [fr-pos/VERB]() (30441; 8% insta
 
 30441 [fr-pos/VERB]() tokens (100% of all `VERB` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (19528; 64%), <tt><a href="Number.html">Number</a>=Sing</tt> (18751; 62%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (17878; 59%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (17878; 59%).
+The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (19528; 64%), <tt><a href="Number.html">Number</a>=Sing</tt> (18751; 62%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (17878; 59%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (17878; 59%).
 
 `VERB` tokens may have the following values of `VerbForm`:
 
@@ -108,9 +108,9 @@ The 10 most frequent relations where parent and child node agree in `VerbForm`:
 <tt>VERB --[<a href="../dep/conj.html">conj</a>]--> VERB</tt> (2392; 78%),
 <tt>VERB --[<a href="../dep/dep.html">dep</a>]--> VERB</tt> (6; 55%),
 <tt>VERB --[<a href="../dep/compound.html">compound</a>]--> VERB</tt> (4; 100%),
-<tt>AUX --[<a href="../dep/conj.html">conj</a>]--> AUX</tt> (2; 67%),
 <tt>AUX --[<a href="../dep/fixed.html">fixed</a>]--> VERB</tt> (2; 100%),
 <tt>AUX --[<a href="../dep/conj.html">conj</a>]--> VERB</tt> (2; 67%),
+<tt>AUX --[<a href="../dep/conj.html">conj</a>]--> AUX</tt> (2; 67%),
 <tt>VERB --[<a href="../dep/mark.html">mark</a>]--> VERB</tt> (1; 100%).
 
 

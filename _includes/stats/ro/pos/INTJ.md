@@ -13,21 +13,21 @@ The 10 most frequent `INTJ` types:  <em>iată, vai, Ei, Ia, Păi, iaca, zău, Ah
 
 The 10 most frequent ambiguous lemmas: <em>o</em> ([PART]() 5, [INTJ]() 1)
 
-The 10 most frequent ambiguous types:  <em>Ei</em> ([PRON]() 12, [INTJ]() 2), <em>Ia</em> ([VERB]() 2, [INTJ]() 2), <em>O</em> ([DET]() 104, [NOUN]() 8, [PRON]() 7, [AUX]() 1, [INTJ]() 1), <em>mă</em> ([PRON]() 81, [INTJ]() 1)
+The 10 most frequent ambiguous types:  <em>Ei</em> ([PRON]() 12, [INTJ]() 2), <em>Ia</em> ([INTJ]() 2, [VERB]() 2), <em>O</em> ([DET]() 104, [NOUN]() 8, [PRON]() 7, [INTJ]() 1, [AUX]() 1), <em>mă</em> ([PRON]() 81, [INTJ]() 1)
 
 
 * <em>Ei</em>
   * [PRON]() 12: <em><b>Ei</b> se hrănesc aproape exclusiv cu pește .</em>
   * [INTJ]() 2: <em><b>Ei</b> bine , nu a fost așa .</em>
 * <em>Ia</em>
-  * [VERB]() 2: <em>- <b>Ia</b> , Treanță , îl îndemnă starostele , ia , că n- o să -ți cadă dinții .</em>
   * [INTJ]() 2: <em><b>Ia</b> lasă -te în adânc !</em>
+  * [VERB]() 2: <em>- <b>Ia</b> , Treanță , îl îndemnă starostele , ia , că n- o să -ți cadă dinții .</em>
 * <em>O</em>
   * [DET]() 104: <em><b>O</b> plăcere -avea : de lacomi , de neghiobi , să -și râză -n lege !</em>
   * [NOUN]() 8: <em>Pinul M specifică spațiul de memorie adresat ( fizică sau I / <b>O</b> ) .</em>
   * [PRON]() 7: <em><b>O</b> dusese acasă , în servietă , cu sentimentul vinovăției .</em>
-  * [AUX]() 1: <em><b>O</b> fi " simpatie " de genul feminin , dar se folosește și la masculin tot așa .</em>
   * [INTJ]() 1: <em><b>O</b> , mamă , dulce mamă , din negură de vremi Pe freamătul de frunze la tine tu mă chemi .</em>
+  * [AUX]() 1: <em><b>O</b> fi " simpatie " de genul feminin , dar se folosește și la masculin tot așa .</em>
 * <em>mă</em>
   * [PRON]() 81: <em>Iată astă -seară <b>mă</b> regăsești în duh , în claritatea și curajul duhului .</em>
   * [INTJ]() 1: <em>― Uite ce e , <b>mă</b> neică , după cum vezi , greu să se hotărască între noi cine să plătească .</em>

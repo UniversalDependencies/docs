@@ -129,8 +129,8 @@ The 10 most frequent relations where parent and child node agree in `Person`:
 <tt>VERB --[<a href="../dep/expl.html">expl</a>]--> PRON</tt> (682; 75%),
 <tt>VERB --[<a href="../dep/parataxis.html">parataxis</a>]--> VERB</tt> (86; 72%),
 <tt>PRON --[<a href="../dep/conj.html">conj</a>]--> PRON</tt> (3; 60%),
-<tt>PRON --[<a href="../dep/obj.html">obj</a>]--> PRON</tt> (1; 100%),
 <tt>AUX --[<a href="../dep/cop.html">cop</a>]--> AUX</tt> (1; 100%),
-<tt>PRON --[<a href="../dep/parataxis.html">parataxis</a>]--> PRON</tt> (1; 100%),
-<tt>AUX --[<a href="../dep/conj.html">conj</a>]--> VERB</tt> (1; 100%).
+<tt>AUX --[<a href="../dep/conj.html">conj</a>]--> VERB</tt> (1; 100%),
+<tt>PRON --[<a href="../dep/obj.html">obj</a>]--> PRON</tt> (1; 100%),
+<tt>PRON --[<a href="../dep/parataxis.html">parataxis</a>]--> PRON</tt> (1; 100%).
 

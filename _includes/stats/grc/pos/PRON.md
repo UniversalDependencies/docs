@@ -106,7 +106,7 @@ The 10 most frequent `PRON` lemmas: <em>αὐτός, ἐγώ, ὑμεῖς, ὅ�
 
 The 10 most frequent `PRON` types:  <em>αὐτοῦ, αὐτῷ, αὐτὸν, αὐτῶν, ὑμῖν, μου, ὑμῶν, αὐτοῖς, ὑμᾶς, σου</em>
 
-The 10 most frequent ambiguous lemmas: <em>αὐτός</em> ([PRON]() 5437, [DET]() 342, [ADJ]() 216), <em>ὁ</em> ([DET]() 26313, [PRON]() 1251, [ADJ]() 30), <em>οὗ</em> ([PRON]() 240, [ADV]() 25), <em>οἷος</em> ([PRON]() 50, [ADJ]() 27), <em>ὁπόσος</em> ([PRON]() 7, [ADJ]() 1), <em>πηλίκος</em> ([ADJ]() 1, [PRON]() 1), <em>ὁποδαπός</em> ([PRON]() 1, [ADJ]() 1)
+The 10 most frequent ambiguous lemmas: <em>αὐτός</em> ([PRON]() 5437, [DET]() 342, [ADJ]() 216), <em>ὁ</em> ([DET]() 26313, [PRON]() 1251, [ADJ]() 30), <em>οὗ</em> ([PRON]() 240, [ADV]() 25), <em>οἷος</em> ([PRON]() 50, [ADJ]() 27), <em>ὁπόσος</em> ([PRON]() 7, [ADJ]() 1), <em>πηλίκος</em> ([PRON]() 1, [ADJ]() 1), <em>ὁποδαπός</em> ([ADJ]() 1, [PRON]() 1)
 
 The 10 most frequent ambiguous types:  <em>αὐτοῦ</em> ([PRON]() 1310, [ADV]() 29, [DET]() 19, [ADJ]() 2), <em>αὐτῷ</em> ([PRON]() 828, [DET]() 26, [ADJ]() 1), <em>αὐτὸν</em> ([PRON]() 667, [DET]() 34, [ADJ]() 1), <em>αὐτῶν</em> ([PRON]() 656, [DET]() 24, [ADJ]() 2), <em>αὐτοῖς</em> ([PRON]() 503, [DET]() 1, [ADJ]() 1), <em>σου</em> ([PRON]() 359, [ADJ]() 2), <em>οἱ</em> ([DET]() 1567, [PRON]() 344), <em>τί</em> ([PRON]() 308, [ADJ]() 8, [DET]() 2), <em>αὐτόν</em> ([PRON]() 291, [DET]() 4, [ADJ]() 1), <em>ὃ</em> ([PRON]() 249, [ADJ]() 2)
 

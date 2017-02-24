@@ -11,9 +11,9 @@ The 10 most frequent `NUM` lemmas: <em>två, en, tre, 1, 2, 20, 1970, 3, fyra, 1
 
 The 10 most frequent `NUM` types:  <em>två, tre, 1, en, 2, 20, ett, 1970, 3, fyra</em>
 
-The 10 most frequent ambiguous lemmas: <em>två</em> ([NUM]() 88, [ADJ]() 18, [PRON]() 1), <em>en</em> ([DET]() 3049, [NUM]() 80, [ADJ]() 63, [PRON]() 44), <em>tre</em> ([NUM]() 59, [ADJ]() 6), <em>fyra</em> ([NUM]() 19, [ADJ]() 8), <em>sex</em> ([NUM]() 12, [NOUN]() 1), <em>tio</em> ([NUM]() 12, [ADJ]() 2), <em>fem</em> ([NUM]() 10, [ADJ]() 3), <em>åtta</em> ([NUM]() 5, [ADJ]() 1), <em>i</em> ([ADP]() 2023, [NOUN]() 1, [NUM]() 1, [ADJ]() 1)
+The 10 most frequent ambiguous lemmas: <em>två</em> ([NUM]() 88, [ADJ]() 18, [PRON]() 1), <em>en</em> ([DET]() 3049, [NUM]() 80, [ADJ]() 63, [PRON]() 44), <em>tre</em> ([NUM]() 59, [ADJ]() 6), <em>fyra</em> ([NUM]() 19, [ADJ]() 8), <em>sex</em> ([NUM]() 12, [NOUN]() 1), <em>tio</em> ([NUM]() 12, [ADJ]() 2), <em>fem</em> ([NUM]() 10, [ADJ]() 3), <em>åtta</em> ([NUM]() 5, [ADJ]() 1), <em>i</em> ([ADP]() 2023, [NUM]() 1, [ADJ]() 1, [NOUN]() 1)
 
-The 10 most frequent ambiguous types:  <em>en</em> ([DET]() 1000, [NUM]() 50, [PRON]() 29), <em>ett</em> ([DET]() 484, [NUM]() 25, [PRON]() 4), <em>sex</em> ([NUM]() 11, [NOUN]() 1), <em>I</em> ([ADP]() 209, [ADJ]() 1, [NUM]() 1, [NOUN]() 1, [PROPN]() 1)
+The 10 most frequent ambiguous types:  <em>en</em> ([DET]() 1000, [NUM]() 50, [PRON]() 29), <em>ett</em> ([DET]() 484, [NUM]() 25, [PRON]() 4), <em>sex</em> ([NUM]() 11, [NOUN]() 1), <em>I</em> ([ADP]() 209, [NOUN]() 1, [ADJ]() 1, [NUM]() 1, [PROPN]() 1)
 
 
 * <em>en</em>
@@ -29,9 +29,9 @@ The 10 most frequent ambiguous types:  <em>en</em> ([DET]() 1000, [NUM]() 50, [P
   * [NOUN]() 1: <em>Kyrkan har all anledning att tala öppet och realistiskt både om <b>sex</b> och om äktenskap , och i det avseendet är mycket vunnet när man i vår tid avskaffat allt smussel .</em>
 * <em>I</em>
   * [ADP]() 209: <em><b>I</b> och med att kvinnan axlar mer krävande uppgifter får hon högre lön .</em>
+  * [NOUN]() 1: <em>På <b>I</b> 12 i Eksjö tog en kompanichef för ett pansarvärnskompani saken i egna händer .</em>
   * [ADJ]() 1: <em>1 <b>I</b> Kor. 7:2 .</em>
   * [NUM]() 1: <em>De åldersgrupper , som lekcirkeln i första hand är tänkt för är - förutom babybarnen - småbarn ( 1-3 år ) , förskolebarn ( 4-6 år ) , skolbarn <b>I</b> ( 7-9 år ) och skolbarn II ( 10-12 år ) .</em>
-  * [NOUN]() 1: <em>På <b>I</b> 12 i Eksjö tog en kompanichef för ett pansarvärnskompani saken i egna händer .</em>
   * [PROPN]() 1: <em>De nationalitetsbeteckningar som bör användas i förbindelse med postnummer till utlandet är följande : Belgien B Danmark DK Finland SF Frankrike F Italien <b>I</b> Liechtenstein FL Norge N Schweiz CH Västtyskland D Österrike A</em>
 
 ## Morphology
@@ -88,7 +88,7 @@ The 10 most frequent `NUM` types:  <em>två, tre, en, fem, sex, tio, 1, 2000, fy
 
 The 10 most frequent ambiguous lemmas: <em>_</em> ([NOUN]() 11462, [VERB]() 8134, [ADP]() 7148, [PUNCT]() 6980, [PRON]() 6631, [ADV]() 4925, [ADJ]() 4444, [DET]() 3508, [AUX]() 2803, [CCONJ]() 2463, [SCONJ]() 2183, [PROPN]() 2158, [PART]() 1442, [NUM]() 339, [INTJ]() 143, [X]() 15, [SYM]() 9)
 
-The 10 most frequent ambiguous types:  <em>en</em> ([DET]() 1220, [PRON]() 40, [NUM]() 18), <em>1</em> ([NUM]() 10, [ADJ]() 1), <em>3</em> ([NUM]() 3, [ADJ]() 1), <em>ett</em> ([DET]() 560, [PRON]() 5, [NUM]() 2), <em>12</em> ([NUM]() 2, [ADJ]() 1), <em>30</em> ([NUM]() 2, [ADJ]() 1), <em>22</em> ([ADJ]() 2, [NUM]() 1), <em>4</em> ([ADJ]() 1, [NUM]() 1)
+The 10 most frequent ambiguous types:  <em>en</em> ([DET]() 1220, [PRON]() 40, [NUM]() 18), <em>1</em> ([NUM]() 10, [ADJ]() 1), <em>3</em> ([NUM]() 3, [ADJ]() 1), <em>ett</em> ([DET]() 560, [PRON]() 5, [NUM]() 2), <em>12</em> ([NUM]() 2, [ADJ]() 1), <em>30</em> ([NUM]() 2, [ADJ]() 1), <em>22</em> ([ADJ]() 2, [NUM]() 1), <em>4</em> ([NUM]() 1, [ADJ]() 1)
 
 
 * <em>en</em>
@@ -115,8 +115,8 @@ The 10 most frequent ambiguous types:  <em>en</em> ([DET]() 1220, [PRON]() 40, [
   * [ADJ]() 2: <em>Parlamentet beslutade att ta upp det brådskande förfarandet den <b>22</b> mars .</em>
   * [NUM]() 1: <em>Det handlar om ändringsförslagen nummer <b>22</b> , 23 , 37 och 38 .</em>
 * <em>4</em>
-  * [ADJ]() 1: <em>Vi har gjort det : den <b>4</b> februari offentliggjorde vi en mycket exakt kommuniké som tar upp de frågor som ni har nämnt .</em>
   * [NUM]() 1: <em><b>4</b> Det inre fältets element upprepas för varje element i de yttre fältet .</em>
+  * [ADJ]() 1: <em>Vi har gjort det : den <b>4</b> februari offentliggjorde vi en mycket exakt kommuniké som tar upp de frågor som ni har nämnt .</em>
 
 ## Morphology
 

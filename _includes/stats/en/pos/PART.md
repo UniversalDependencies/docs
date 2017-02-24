@@ -11,9 +11,9 @@ The 10 most frequent `PART` lemmas: <em>to, not, 's, s, ', na, ta, too, -s, 2</e
 
 The 10 most frequent `PART` types:  <em>to, not, n't, 's, s, nt, ', ’s, na, n’t</em>
 
-The 10 most frequent ambiguous lemmas: <em>to</em> ([PART]() 3616, [ADP]() 1999, [SCONJ]() 73, [ADV]() 8, [NOUN]() 2, [VERB]() 1), <em>not</em> ([PART]() 1791, [ADV]() 173, [CCONJ]() 15), <em>'s</em> ([PART]() 644, [PRON]() 14), <em>s</em> ([PART]() 86, [X]() 9, [PRON]() 7, [NOUN]() 3, [PROPN]() 1), <em>'</em> ([PUNCT]() 222, [PART]() 36, [NOUN]() 7, [AUX]() 1), <em>ta</em> ([PART]() 5, [ADP]() 4), <em>too</em> ([ADV]() 135, [PART]() 2, [ADP]() 1), <em>2</em> ([NUM]() 139, [X]() 30, [PROPN]() 1, [PART]() 1), <em>`s</em> ([AUX]() 9, [PART]() 1), <em>a</em> ([DET]() 4781, [NOUN]() 19, [X]() 13, [ADV]() 5, [ADP]() 4, [CCONJ]() 1, [PART]() 1, [AUX]() 1)
+The 10 most frequent ambiguous lemmas: <em>to</em> ([PART]() 3616, [ADP]() 1999, [SCONJ]() 73, [ADV]() 8, [NOUN]() 2, [VERB]() 1), <em>not</em> ([PART]() 1791, [ADV]() 173, [CCONJ]() 15), <em>'s</em> ([PART]() 644, [PRON]() 14), <em>s</em> ([PART]() 86, [X]() 9, [PRON]() 7, [NOUN]() 3, [PROPN]() 1), <em>'</em> ([PUNCT]() 222, [PART]() 36, [NOUN]() 7, [AUX]() 1), <em>ta</em> ([PART]() 5, [ADP]() 4), <em>too</em> ([ADV]() 135, [PART]() 2, [ADP]() 1), <em>2</em> ([NUM]() 139, [X]() 30, [PART]() 1, [PROPN]() 1), <em>`s</em> ([AUX]() 9, [PART]() 1), <em>a</em> ([DET]() 4781, [NOUN]() 19, [X]() 13, [ADV]() 5, [ADP]() 4, [PART]() 1, [CCONJ]() 1, [AUX]() 1)
 
-The 10 most frequent ambiguous types:  <em>to</em> ([PART]() 3572, [ADP]() 1976, [SCONJ]() 71, [ADV]() 8, [NOUN]() 2, [VERB]() 1), <em>not</em> ([PART]() 891, [ADV]() 148, [CCONJ]() 13), <em>'s</em> ([PART]() 614, [AUX]() 343, [VERB]() 53, [PRON]() 14), <em>s</em> ([AUX]() 87, [PART]() 85, [X]() 9, [VERB]() 8, [PRON]() 7, [NOUN]() 2, [PROPN]() 1), <em>'</em> ([PUNCT]() 218, [PART]() 33, [NOUN]() 7), <em>’s</em> ([PART]() 29, [AUX]() 11, [VERB]() 3, [PRON]() 1), <em>ta</em> ([PART]() 5, [ADP]() 3), <em>’</em> ([PART]() 3, [PUNCT]() 2), <em>n</em> ([PART]() 2, [CCONJ]() 1, [NOUN]() 1), <em>too</em> ([ADV]() 126, [PART]() 2, [ADP]() 1)
+The 10 most frequent ambiguous types:  <em>to</em> ([PART]() 3572, [ADP]() 1976, [SCONJ]() 71, [ADV]() 8, [NOUN]() 2, [VERB]() 1), <em>not</em> ([PART]() 891, [ADV]() 148, [CCONJ]() 13), <em>'s</em> ([PART]() 614, [AUX]() 343, [VERB]() 53, [PRON]() 14), <em>s</em> ([AUX]() 87, [PART]() 85, [X]() 9, [VERB]() 8, [PRON]() 7, [NOUN]() 2, [PROPN]() 1), <em>'</em> ([PUNCT]() 218, [PART]() 33, [NOUN]() 7), <em>’s</em> ([PART]() 29, [AUX]() 11, [VERB]() 3, [PRON]() 1), <em>ta</em> ([PART]() 5, [ADP]() 3), <em>’</em> ([PART]() 3, [PUNCT]() 2), <em>n</em> ([PART]() 2, [NOUN]() 1, [CCONJ]() 1), <em>too</em> ([ADV]() 126, [PART]() 2, [ADP]() 1)
 
 
 * <em>to</em>
@@ -57,8 +57,8 @@ The 10 most frequent ambiguous types:  <em>to</em> ([PART]() 3572, [ADP]() 1976,
   * [PUNCT]() 2: <em>The Irish weather works on the ‘ four seasons in a day <b>’</b> principle , which basic­ally means that you ca n’t predict a thing when it comes to the behaviour of the sky .</em>
 * <em>n</em>
   * [PART]() 2: <em>I du <b>n</b> no how they did it , but Scottish friends --- this is THE REAL DEAL .</em>
-  * [CCONJ]() 1: <em>i want to be able to use it in my car , out <b>n</b> about etc ... i guess like an iphone , but that s later on and , i know what they are so no suggestions on just goin out to buy one i m talking about right now just for an ipod ??.</em>
   * [NOUN]() 1: <em>it has 14 mega pixel camera ... <b>n</b> 4 x wide optical zoom ...</em>
+  * [CCONJ]() 1: <em>i want to be able to use it in my car , out <b>n</b> about etc ... i guess like an iphone , but that s later on and , i know what they are so no suggestions on just goin out to buy one i m talking about right now just for an ipod ??.</em>
 * <em>too</em>
   * [ADV]() 126: <em>Read the entire article ; there 's a punchline , <b>too</b> .</em>
   * [PART]() 2: <em>( you can take breaks if you have <b>too</b> ) and repeat the steps after about 2 hours .</em>

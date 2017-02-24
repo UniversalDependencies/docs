@@ -5,7 +5,7 @@
 ## Treebank Statistics (UD_Galician)
 
 There are 34 `PRON` lemmas (0%), 46 `PRON` types (0%) and 4715 `PRON` tokens (4%).
-Out of 15 observed tags, the rank of `PRON` is: 7 in number of lemmas, 8 in number of types and 7 in number of tokens.
+Out of 16 observed tags, the rank of `PRON` is: 7 in number of lemmas, 8 in number of types and 7 in number of tokens.
 
 The 10 most frequent `PRON` lemmas: <em>se, que, como, o, el, lle, cando, onde, me, nos</em>
 
@@ -54,7 +54,7 @@ The 10 most frequent ambiguous types:  <em>se</em> ([PRON]() 1722, [SCONJ]() 36)
 
 ## Morphology
 
-The form / lemma ratio of `PRON` is 1.352941 (the average of all parts of speech is 1.505536).
+The form / lemma ratio of `PRON` is 1.352941 (the average of all parts of speech is 1.508250).
 
 The 1st highest number of forms (4) was observed with the lemma “el”: <em>el, ela, elas, eles</em>.
 
@@ -62,28 +62,34 @@ The 2nd highest number of forms (4) was observed with the lemma “o”: <em>a, 
 
 The 3rd highest number of forms (3) was observed with the lemma “cuxo”: <em>cuxa, cuxas, cuxo</em>.
 
-`PRON` does not occur with any features.
+`PRON` occurs with 1 features: [gl-feat/Foreign]() (2; 0% instances)
+
+`PRON` occurs with 1 feature-value pairs: `Foreign=Yes`
+
+`PRON` occurs with 2 feature combinations.
+The most frequent feature combination is `_` (4713 tokens).
+Examples: <em>se, que, como, cando, os, o, onde, lle, me, nos</em>
 
 
 ## Relations
 
-`PRON` nodes are attached to their parents using 14 different relations: [gl-dep/nsubj]() (1591; 34% instances), [gl-dep/dobj]() (1287; 27% instances), [gl-dep/dep]() (934; 20% instances), [gl-dep/nmod]() (418; 9% instances), [gl-dep/iobj]() (230; 5% instances), [gl-dep/case]() (98; 2% instances), [gl-dep/cop]() (59; 1% instances), [gl-dep/det]() (39; 1% instances), [gl-dep/ccomp]() (27; 1% instances), [gl-dep/cc]() (14; 0% instances), [gl-dep/aux]() (8; 0% instances), [gl-dep/amod]() (6; 0% instances), [gl-dep/foreign]() (2; 0% instances), [gl-dep/root]() (2; 0% instances)
+`PRON` nodes are attached to their parents using 15 different relations: [gl-dep/nsubj]() (1590; 34% instances), [gl-dep/obj]() (1289; 27% instances), [gl-dep/dep]() (934; 20% instances), [gl-dep/obl]() (256; 5% instances), [gl-dep/iobj]() (230; 5% instances), [gl-dep/nmod]() (162; 3% instances), [gl-dep/case]() (99; 2% instances), [gl-dep/ccomp]() (41; 1% instances), [gl-dep/det]() (39; 1% instances), [gl-dep/xcomp]() (32; 1% instances), [gl-dep/cc]() (14; 0% instances), [gl-dep/root]() (12; 0% instances), [gl-dep/aux]() (8; 0% instances), [gl-dep/amod]() (6; 0% instances), [gl-dep/flat]() (3; 0% instances)
 
-Parents of `PRON` nodes belong to 14 different parts of speech: [VERB]() (4040; 86% instances), [ADP]() (449; 10% instances), [NOUN]() (137; 3% instances), [PRON]() (27; 1% instances), [ADJ]() (20; 0% instances), [ADV]() (16; 0% instances), [PUNCT]() (8; 0% instances), [DET]() (6; 0% instances), [PROPN]() (5; 0% instances), [NUM]() (2; 0% instances), [ROOT]() (2; 0% instances), [CONJ]() (1; 0% instances), [PART]() (1; 0% instances), [SCONJ]() (1; 0% instances)
+Parents of `PRON` nodes belong to 13 different parts of speech: [VERB]() (4132; 88% instances), [NOUN]() (320; 7% instances), [ADJ]() (111; 2% instances), [ADP]() (54; 1% instances), [PRON]() (38; 1% instances), [ADV]() (20; 0% instances), [PROPN]() (12; 0% instances), [ROOT]() (12; 0% instances), [DET]() (8; 0% instances), [NUM]() (5; 0% instances), [CCONJ]() (1; 0% instances), [PART]() (1; 0% instances), [SCONJ]() (1; 0% instances)
 
-4297 (91%) `PRON` nodes are leaves.
+4091 (87%) `PRON` nodes are leaves.
 
-352 (7%) `PRON` nodes have one child.
+310 (7%) `PRON` nodes have one child.
 
-55 (1%) `PRON` nodes have two children.
+207 (4%) `PRON` nodes have two children.
 
-11 (0%) `PRON` nodes have three or more children.
+107 (2%) `PRON` nodes have three or more children.
 
-The highest child degree of a `PRON` node is 4.
+The highest child degree of a `PRON` node is 7.
 
-Children of `PRON` nodes are attached using 16 different relations: [gl-dep/det]() (241; 49% instances), [gl-dep/nmod]() (84; 17% instances), [gl-dep/case]() (56; 11% instances), [gl-dep/punct]() (35; 7% instances), [gl-dep/amod]() (20; 4% instances), [gl-dep/ccomp]() (18; 4% instances), [gl-dep/iobj]() (16; 3% instances), [gl-dep/advmod]() (4; 1% instances), [gl-dep/cc]() (4; 1% instances), [gl-dep/cop]() (4; 1% instances), [gl-dep/dep]() (4; 1% instances), [gl-dep/dobj]() (4; 1% instances), [gl-dep/aux]() (2; 0% instances), [gl-dep/mark]() (2; 0% instances), [gl-dep/foreign]() (1; 0% instances), [gl-dep/nsubj]() (1; 0% instances)
+Children of `PRON` nodes are attached using 16 different relations: [gl-dep/case]() (384; 34% instances), [gl-dep/det]() (242; 22% instances), [gl-dep/nmod]() (184; 17% instances), [gl-dep/punct]() (119; 11% instances), [gl-dep/ccomp]() (43; 4% instances), [gl-dep/xcomp]() (35; 3% instances), [gl-dep/amod]() (21; 2% instances), [gl-dep/nsubj]() (17; 2% instances), [gl-dep/iobj]() (16; 1% instances), [gl-dep/cc]() (12; 1% instances), [gl-dep/cop]() (12; 1% instances), [gl-dep/advmod]() (9; 1% instances), [gl-dep/aux]() (7; 1% instances), [gl-dep/dep]() (5; 0% instances), [gl-dep/mark]() (4; 0% instances), [gl-dep/obj]() (4; 0% instances)
 
-Children of `PRON` nodes belong to 14 different parts of speech: [DET]() (248; 50% instances), [ADP]() (70; 14% instances), [NOUN]() (54; 11% instances), [PUNCT]() (34; 7% instances), [PRON]() (27; 5% instances), [ADJ]() (26; 5% instances), [VERB]() (18; 4% instances), [PROPN]() (5; 1% instances), [ADV]() (4; 1% instances), [CONJ]() (4; 1% instances), [SCONJ]() (2; 0% instances), [SYM]() (2; 0% instances), [NUM]() (1; 0% instances), [PART]() (1; 0% instances)
+Children of `PRON` nodes belong to 15 different parts of speech: [ADP]() (403; 36% instances), [DET]() (251; 23% instances), [NOUN]() (131; 12% instances), [PUNCT]() (118; 11% instances), [VERB]() (81; 7% instances), [PRON]() (38; 3% instances), [ADJ]() (37; 3% instances), [ADV]() (12; 1% instances), [AUX]() (12; 1% instances), [PROPN]() (11; 1% instances), [CCONJ]() (10; 1% instances), [SCONJ]() (4; 0% instances), [PART]() (3; 0% instances), [SYM]() (2; 0% instances), [NUM]() (1; 0% instances)
 
 
 

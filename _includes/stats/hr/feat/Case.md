@@ -115,7 +115,7 @@ The most frequent other feature values with which `PROPN` and `Case` co-occurred
 
 6606 [hr-pos/DET]() tokens (98% of all `DET` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `DET` and `Case` co-occurred: <tt><a href="Number[psor].html">Number[psor]</a>=EMPTY</tt> (5852; 89%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (5852; 89%), <tt><a href="Poss.html">Poss</a>=EMPTY</tt> (5168; 78%), <tt><a href="Number.html">Number</a>=Sing</tt> (4503; 68%).
+The most frequent other feature values with which `DET` and `Case` co-occurred: <tt><a href="Person.html">Person</a>=EMPTY</tt> (5852; 89%), <tt><a href="Number[psor].html">Number[psor]</a>=EMPTY</tt> (5852; 89%), <tt><a href="Poss.html">Poss</a>=EMPTY</tt> (5168; 78%), <tt><a href="Number.html">Number</a>=Sing</tt> (4503; 68%).
 
 `DET` tokens may have the following values of `Case`:
 
@@ -163,7 +163,7 @@ The most frequent other feature values with which `PRON` and `Case` co-occurred:
   <tr><th>Paradigm <i>on</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th><th><tt>Gen</tt></th><th><tt>Loc</tt></th><th><tt>Ins</tt></th></tr>
   <tr><td><tt><a href="Gender.html">Gender</a>=Masc</tt></td><td><em>on</em></td><td><em>ga, njega</em></td><td><em>mu, njemu</em></td><td><em>njega</em></td><td><em>njemu</em></td><td><em>njim, Njime</em></td></tr>
   <tr><td><tt><a href="Gender.html">Gender</a>=Fem</tt></td><td><em>ona</em></td><td><em>je, ju, nju</em></td><td><em>joj, njoj</em></td><td><em>nje, je</em></td><td><em>njoj</em></td><td><em>njom, njome</em></td></tr>
-  <tr><td><tt><a href="Gender.html">Gender</a>=Neut</tt></td><td><em>ono</em></td><td><em>ga, nj, njega</em></td><td></td><td></td><td></td><td><em>njime, njim</em></td></tr>
+  <tr><td><tt><a href="Gender.html">Gender</a>=Neut</tt></td><td><em>ono</em></td><td><em>ga, njega, nj</em></td><td></td><td></td><td></td><td><em>njime, njim</em></td></tr>
 </table>
 
 ### `NUM`
@@ -197,24 +197,13 @@ The most frequent other feature values with which `NUM` and `Case` co-occurred: 
 
 3 [hr-pos/AUX]() tokens (0% of all `AUX` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `AUX` and `Case` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=EMPTY</tt> (3; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (3; 100%), <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (3; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (3; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (2; 67%).
+The most frequent other feature values with which `AUX` and `Case` co-occurred: <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (3; 100%), <tt><a href="VerbForm.html">VerbForm</a>=EMPTY</tt> (3; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (3; 100%), <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (3; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (2; 67%).
 
 `AUX` tokens may have the following values of `Case`:
 
 * `Acc` (1; 33% of non-empty `Case`): <em>za</em>
 * `Nom` (2; 67% of non-empty `Case`): <em>Ivan, autor</em>
 * `EMPTY` (11652): <em>je, su, će, bi, biti, nije, smo, bilo, bio, sam</em>
-
-### `SYM`
-
-1 [hr-pos/SYM]() tokens (1% of all `SYM` tokens) have a non-empty value of `Case`.
-
-The most frequent other feature values with which `SYM` and `Case` co-occurred: <tt><a href="NumType.html">NumType</a>=EMPTY</tt> (1; 100%).
-
-`SYM` tokens may have the following values of `Case`:
-
-* `Gen` (1; 100% of non-empty `Case`): <em>%</em>
-* `EMPTY` (101): <em>%, 50%, 20%, 30%, 9%, $, 13%, 14%, 16%, 40%</em>
 
 ### `ADV`
 
@@ -226,6 +215,17 @@ The most frequent other feature values with which `ADV` and `Case` co-occurred: 
 
 * `Gen` (1; 100% of non-empty `Case`): <em>najviše</em>
 * `EMPTY` (8039): <em>samo, više, još, također, već, kada, sada, međutim, tako, uvijek</em>
+
+### `SYM`
+
+1 [hr-pos/SYM]() tokens (1% of all `SYM` tokens) have a non-empty value of `Case`.
+
+The most frequent other feature values with which `SYM` and `Case` co-occurred: <tt><a href="NumType.html">NumType</a>=EMPTY</tt> (1; 100%).
+
+`SYM` tokens may have the following values of `Case`:
+
+* `Gen` (1; 100% of non-empty `Case`): <em>%</em>
+* `EMPTY` (101): <em>%, 50%, 20%, 30%, 9%, $, 13%, 14%, 16%, 40%</em>
 
 ## Relations with Agreement in `Case`
 

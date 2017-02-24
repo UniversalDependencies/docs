@@ -54,6 +54,38 @@ The following 5 pairs of parts of speech are connected with `csubjpass`: [en-pos
 
 
 ~~~ conllu
+# visual-style 19	bgColor:blue
+# visual-style 19	fgColor:white
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 8 19 csubjpass	color:blue
+1	_	_	VERB	VBG	_	8	advcl	_	_
+2	_	_	ADP	IN	_	4	case	_	_
+3	_	_	ADJ	JJ	_	4	amod	_	_
+4	_	_	NOUN	NNS	_	1	nmod	_	_
+5	_	_	PUNCT	,	_	8	punct	_	_
+6	_	_	PRON	PRP	_	8	expl	_	_
+7	_	_	AUX	VBD	_	8	auxpass	_	_
+8	_	_	VERB	VBN	_	0	root	_	_
+9	_	_	SCONJ	IN	_	19	mark	_	_
+10	_	_	NOUN	NN	_	19	nsubj	_	_
+11	_	_	CONJ	CC	_	10	cc	_	_
+12	_	_	NOUN	NN	_	10	conj	_	_
+13	_	_	PUNCT	,	_	10	punct	_	_
+14	_	_	NOUN	NN	_	10	conj	_	_
+15	_	_	CONJ	CC	_	10	cc	_	_
+16	_	_	NOUN	NN	_	17	compound	_	_
+17	_	_	PROPN	NNP	_	10	conj	_	_
+18	_	_	VERB	VBP	_	19	cop	_	_
+19	_	_	ADJ	JJ	_	8	csubjpass	_	_
+20	_	_	SCONJ	IN	_	21	mark	_	_
+21	_	_	VERB	VBG	_	19	advcl	_	_
+22	_	_	PUNCT	.	_	8	punct	_	_
+
+~~~
+
+
+~~~ conllu
 # visual-style 12	bgColor:blue
 # visual-style 12	fgColor:white
 # visual-style 7	bgColor:blue
@@ -83,38 +115,6 @@ The following 5 pairs of parts of speech are connected with `csubjpass`: [en-pos
 22	_	_	PROPN	NNP	_	7	conj	_	_
 23	_	_	PROPN	NNP	_	22	name	_	_
 24	_	_	PUNCT	.	_	7	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 19	bgColor:blue
-# visual-style 19	fgColor:white
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 8 19 csubjpass	color:blue
-1	_	_	VERB	VBG	_	8	advcl	_	_
-2	_	_	ADP	IN	_	4	case	_	_
-3	_	_	ADJ	JJ	_	4	amod	_	_
-4	_	_	NOUN	NNS	_	1	nmod	_	_
-5	_	_	PUNCT	,	_	8	punct	_	_
-6	_	_	PRON	PRP	_	8	expl	_	_
-7	_	_	AUX	VBD	_	8	auxpass	_	_
-8	_	_	VERB	VBN	_	0	root	_	_
-9	_	_	SCONJ	IN	_	19	mark	_	_
-10	_	_	NOUN	NN	_	19	nsubj	_	_
-11	_	_	CONJ	CC	_	10	cc	_	_
-12	_	_	NOUN	NN	_	10	conj	_	_
-13	_	_	PUNCT	,	_	10	punct	_	_
-14	_	_	NOUN	NN	_	10	conj	_	_
-15	_	_	CONJ	CC	_	10	cc	_	_
-16	_	_	NOUN	NN	_	17	compound	_	_
-17	_	_	PROPN	NNP	_	10	conj	_	_
-18	_	_	VERB	VBP	_	19	cop	_	_
-19	_	_	ADJ	JJ	_	8	csubjpass	_	_
-20	_	_	SCONJ	IN	_	21	mark	_	_
-21	_	_	VERB	VBG	_	19	advcl	_	_
-22	_	_	PUNCT	.	_	8	punct	_	_
 
 ~~~
 

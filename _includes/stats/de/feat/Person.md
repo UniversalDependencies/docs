@@ -82,7 +82,7 @@ The most frequent other feature values with which `PRON` and `Person` co-occurre
   <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Gender.html">Gender</a>=Fem|<a href="Number.html">Number</a>=Sing|<a href="Poss.html">Poss</a>=Yes</tt></td><td></td><td><em>ihre</em></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Number.html">Number</a>=Plur|<a href="Polite.html">Polite</a>=Infm</tt></td><td><em>ihr, euch</em></td><td></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Poss.html">Poss</a>=Yes</tt></td><td></td><td><em>ihr</em></td></tr>
-  <tr><td><tt><a href="Poss.html">Poss</a>=Yes</tt></td><td></td><td><em>ihre, ihrem, ihr, ihren, ihrer</em></td></tr>
+  <tr><td><tt><a href="Poss.html">Poss</a>=Yes</tt></td><td></td><td><em>ihre, ihr, ihrem, ihrer, ihren</em></td></tr>
 </table>
 
 `Person` seems to be **lexical feature** of `PRON`. 93% lemmas (14) occur only with one value of `Person`.
@@ -114,7 +114,7 @@ The most frequent other feature values with which `AUX` and `Person` co-occurred
 
 1841 [de-pos/DET]() tokens (5% of all `DET` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `DET` and `Person` co-occurred: <tt><a href="Definite.html">Definite</a>=EMPTY</tt> (1841; 100%), <tt><a href="PronType.html">PronType</a>=Prs</tt> (1841; 100%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (1839; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (1839; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (1839; 100%).
+The most frequent other feature values with which `DET` and `Person` co-occurred: <tt><a href="PronType.html">PronType</a>=Prs</tt> (1841; 100%), <tt><a href="Definite.html">Definite</a>=EMPTY</tt> (1841; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (1839; 100%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (1839; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (1839; 100%).
 
 `DET` tokens may have the following values of `Person`:
 

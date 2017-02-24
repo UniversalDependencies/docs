@@ -105,7 +105,7 @@ The 10 most frequent `CCONJ` lemmas: <em>ja, mutta, tai, vai, vaan, sekä, eli, 
 
 The 10 most frequent `CCONJ` types:  <em>ja, mutta, tai, vai, vaan, sekä, eli, että, mut, kuin</em>
 
-The 10 most frequent ambiguous lemmas: <em>ja</em> ([CCONJ]() 2873, [PART]() 2), <em>mutta</em> ([CCONJ]() 533, [SCONJ]() 1), <em>vaan</em> ([CCONJ]() 110, [PART]() 77), <em>eli</em> ([CCONJ]() 52, [PART]() 12), <em>että</em> ([SCONJ]() 1583, [CCONJ]() 35, [PART]() 3), <em>kuin</em> ([SCONJ]() 583, [CCONJ]() 22), <em>elikkä</em> ([PART]() 4, [CCONJ]() 4), <em>joskaan</em> ([CCONJ]() 4, [SCONJ]() 1), <em>vaikka</em> ([SCONJ]() 181, [PART]() 66, [CCONJ]() 3), <em>joskin</em> ([SCONJ]() 5, [CCONJ]() 2)
+The 10 most frequent ambiguous lemmas: <em>ja</em> ([CCONJ]() 2873, [PART]() 2), <em>mutta</em> ([CCONJ]() 533, [SCONJ]() 1), <em>vaan</em> ([CCONJ]() 110, [PART]() 77), <em>eli</em> ([CCONJ]() 52, [PART]() 12), <em>että</em> ([SCONJ]() 1583, [CCONJ]() 35, [PART]() 3), <em>kuin</em> ([SCONJ]() 583, [CCONJ]() 22), <em>elikkä</em> ([CCONJ]() 4, [PART]() 4), <em>joskaan</em> ([CCONJ]() 4, [SCONJ]() 1), <em>vaikka</em> ([SCONJ]() 181, [PART]() 66, [CCONJ]() 3), <em>joskin</em> ([SCONJ]() 5, [CCONJ]() 2)
 
 The 10 most frequent ambiguous types:  <em>ja</em> ([CCONJ]() 2737, [PART]() 2), <em>vaan</em> ([CCONJ]() 110, [PART]() 66), <em>eli</em> ([CCONJ]() 52, [VERB]() 5), <em>että</em> ([SCONJ]() 1244, [CCONJ]() 35, [VERB]() 2), <em>mut</em> ([CCONJ]() 20, [PRON]() 2), <em>kuin</em> ([SCONJ]() 553, [CCONJ]() 22), <em>elikkä</em> ([CCONJ]() 4, [PART]() 1), <em>joskaan</em> ([CCONJ]() 4, [SCONJ]() 1), <em>joskin</em> ([SCONJ]() 5, [CCONJ]() 2), <em>vaikka</em> ([SCONJ]() 124, [PART]() 58, [CCONJ]() 2)
 

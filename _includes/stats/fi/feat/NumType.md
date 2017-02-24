@@ -16,7 +16,7 @@ The feature is used with 2 part-of-speech tags: [fi-pos/NUM]() (4180; 2% instanc
 
 4180 [fi-pos/NUM]() tokens (94% of all `NUM` tokens) have a non-empty value of `NumType`.
 
-The most frequent other feature values with which `NUM` and `NumType` co-occurred: <tt><a href="Number.html">Number</a>=EMPTY</tt> (3065; 73%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (3065; 73%).
+The most frequent other feature values with which `NUM` and `NumType` co-occurred: <tt><a href="Case.html">Case</a>=EMPTY</tt> (3065; 73%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (3065; 73%).
 
 `NUM` tokens may have the following values of `NumType`:
 
@@ -48,9 +48,9 @@ The 10 most frequent relations where parent and child node agree in `NumType`:
 <tt>ADJ --[<a href="../dep/conj.html">conj</a>]--> ADJ</tt> (23; 88%),
 <tt>NUM --[<a href="../dep/obl.html">obl</a>]--> NUM</tt> (7; 100%),
 <tt>NUM --[<a href="../dep/nmod.html">nmod</a>]--> NUM</tt> (5; 100%),
-<tt>ADJ --[<a href="../dep/flat.html">flat</a>]--> ADJ</tt> (2; 100%),
 <tt>ADJ --[<a href="../dep/flat:name.html">flat:name</a>]--> ADJ</tt> (2; 100%),
-<tt>NUM --[<a href="../dep/advcl.html">advcl</a>]--> NUM</tt> (1; 100%).
+<tt>ADJ --[<a href="../dep/flat.html">flat</a>]--> ADJ</tt> (2; 100%),
+<tt>NUM --[<a href="../dep/goeswith.html">goeswith</a>]--> NUM</tt> (1; 100%).
 
 
 

@@ -45,27 +45,29 @@ The following 4 pairs of parts of speech are connected with `csubj`: [tr-pos/VER
 
 
 ~~~ conllu
-# visual-style 11	bgColor:blue
-# visual-style 11	fgColor:white
-# visual-style 14	bgColor:blue
-# visual-style 14	fgColor:white
-# visual-style 14 11 csubj	color:blue
-1	Ecevit	Ecevit	PROPN	Prop	Case=Nom|Number=Sing|Person=3	2	nmod:poss	_	_
-2	partisinin	parti	NOUN	Noun	Case=Gen|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	3	nmod:poss	_	_
-3	bakanlarıyla	bakan	NOUN	Noun	Case=Ins|Number=Plur|Number[psor]=Sing|Person=3|Person[psor]=3	7	obl	_	_
-4	protokolün	protokol	NOUN	Noun	Case=Gen|Number=Sing|Person=3	6	nmod:poss	_	_
-5	bir	bir	NUM	ANum	NumType=Card	6	det	_	_
-6	tarafında	taraf	NOUN	Noun	Case=Loc|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	7	obl	_	_
-7	otururken	otur	VERB	Verb	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Aor|VerbForm=Conv	14	nmod	_	SpaceAfter=No
+# visual-style 15	bgColor:blue
+# visual-style 15	fgColor:white
+# visual-style 17	bgColor:blue
+# visual-style 17	fgColor:white
+# visual-style 17 15 csubj	color:blue
+1	Gözlem	gözlem	NOUN	Noun	Case=Nom|Number=Sing|Person=3	7	nsubj	_	_
+2	ve	ve	CCONJ	Conj	_	3	cc	_	_
+3	deneyler	deney	NOUN	Noun	Case=Nom|Number=Plur|Person=3	1	conj	_	_
+4	öngörüler	öngörü	NOUN	Noun	Case=Nom|Number=Plur|Person=3	5	nmod:poss	_	_
+5	doğrultusunda	doğrultu	NOUN	Noun	Case=Loc|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	7	obl	_	_
+6	sonuçlar	sonuç	NOUN	Noun	Case=Nom|Number=Plur|Person=3	7	obj	_	_
+7	verirse	ver	VERB	Verb	Aspect=Imp|Mood=Cnd|Number=Sing|Person=3|Polarity=Pos|Tense=Aor	11	nmod	_	SpaceAfter=No
 8	,	,	PUNCT	Punc	_	7	punct	_	_
-9	diğer	diğer	ADJ	Adj	_	10	amod	_	_
-10	tarafta	taraf	NOUN	Noun	Case=Loc|Number=Sing|Person=3	14	nmod	_	_
-11	Chp	Chp	NOUN	Abr	Abbr=Yes|Case=Nom|Number=Sing|Person=3	14	csubj	_	_
-12	'li	li	ADP	With	_	11	case	_	_
-13	ler	i	AUX	Zero	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Pres	11	cop	_	_
-14	yer	yer	NOUN	Noun	Case=Nom|Number=Sing|Person=3	0	root	_	_
-15	aldı	al	VERB	Verb	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Past	14	compound	_	SpaceAfter=No
-16	.	.	PUNCT	Punc	_	14	punct	_	_
+9	kuram	kuram	NOUN	Noun	Case=Nom|Number=Sing|Person=3	10	nsubj	_	_
+10	kanıtlandı	kanıtla	VERB	Verb	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Past|Voice=Pass	11	nsubj	_	_
+11	denmez	de	VERB	Verb	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Aor|Voice=Pass	0	root	_	SpaceAfter=No
+12	,	,	PUNCT	Punc	_	17	punct	_	_
+13	kuram	kuram	NOUN	Noun	Case=Nom|Number=Sing|Person=3	15	nsubj	_	_
+14	gözlemlerle	gözlem	NOUN	Noun	Case=Ins|Number=Plur|Person=3	15	obl	_	_
+15	tutarlı	tutarlı	ADJ	NAdj	Case=Nom|Number=Sing|Person=3	17	csubj	_	_
+16	dır	i	AUX	Zero	Aspect=Perf|Mood=Gen|Number=Sing|Person=3|Tense=Pres	15	cop	_	_
+17	denir	de	VERB	Verb	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Aor|Voice=Pass	11	conj	_	SpaceAfter=No
+18	.	.	PUNCT	Punc	_	17	punct	_	_
 
 ~~~
 

@@ -16,7 +16,7 @@ The feature is used with 2 part-of-speech tags: [got-pos/ADJ]() (1933; 4% instan
 
 1933 [got-pos/ADJ]() tokens (49% of all `ADJ` tokens) have a non-empty value of `Degree`.
 
-The most frequent other feature values with which `ADJ` and `Degree` co-occurred: <tt><a href="Person.html">Person</a>=EMPTY</tt> (1933; 100%), <tt><a href="Poss.html">Poss</a>=EMPTY</tt> (1933; 100%), <tt><a href="Strength.html">Strength</a>=Strong</tt> (1320; 68%), <tt><a href="Number.html">Number</a>=Sing</tt> (1190; 62%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (1086; 56%).
+The most frequent other feature values with which `ADJ` and `Degree` co-occurred: <tt><a href="Poss.html">Poss</a>=EMPTY</tt> (1933; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (1933; 100%), <tt><a href="Strength.html">Strength</a>=Strong</tt> (1320; 68%), <tt><a href="Number.html">Number</a>=Sing</tt> (1190; 62%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (1086; 56%).
 
 `ADJ` tokens may have the following values of `Degree`:
 
@@ -65,7 +65,7 @@ The most frequent other feature values with which `ADJ` and `Degree` co-occurred
 
 117 [got-pos/ADV]() tokens (3% of all `ADV` tokens) have a non-empty value of `Degree`.
 
-The most frequent other feature values with which `ADV` and `Degree` co-occurred: <tt><a href="Polarity.html">Polarity</a>=EMPTY</tt> (117; 100%), <tt><a href="PronType.html">PronType</a>=EMPTY</tt> (117; 100%).
+The most frequent other feature values with which `ADV` and `Degree` co-occurred: <tt><a href="PronType.html">PronType</a>=EMPTY</tt> (117; 100%), <tt><a href="Polarity.html">Polarity</a>=EMPTY</tt> (117; 100%).
 
 `ADV` tokens may have the following values of `Degree`:
 

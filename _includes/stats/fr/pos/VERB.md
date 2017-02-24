@@ -13,7 +13,7 @@ The 10 most frequent `VERB` types:  <em>fait, a, né, faire, est, située, situ�
 
 The 10 most frequent ambiguous lemmas: <em>faire</em> ([VERB]() 971, [AUX]() 4), <em>avoir</em> ([AUX]() 3243, [VERB]() 856, [NOUN]() 1), <em>être</em> ([AUX]() 8903, [VERB]() 525, [NOUN]() 9), <em>devenir</em> ([VERB]() 280, [NOUN]() 1), <em>voir</em> ([VERB]() 226, [AUX]() 8, [ADV]() 1), <em>dire</em> ([VERB]() 200, [NOUN]() 1), <em>rester</em> ([VERB]() 176, [AUX]() 8), <em>venir</em> ([VERB]() 148, [AUX]() 15), <em>aller</em> ([VERB]() 125, [AUX]() 119, [NOUN]() 2), <em>sortir</em> ([VERB]() 120, [NOUN]() 2)
 
-The 10 most frequent ambiguous types:  <em>fait</em> ([VERB]() 430, [NOUN]() 124, [AUX]() 1), <em>a</em> ([AUX]() 1772, [VERB]() 354, [ADP]() 22, [X]() 4, [DET]() 4, [NOUN]() 1, [PROPN]() 1), <em>né</em> ([VERB]() 262, [NOUN]() 1), <em>est</em> ([AUX]() 4957, [VERB]() 205, [NOUN]() 44, [ADJ]() 3, [CCONJ]() 1, [X]() 1), <em>situé</em> ([VERB]() 140, [ADJ]() 1), <em>ont</em> ([AUX]() 534, [VERB]() 112), <em>voir</em> ([VERB]() 94, [SCONJ]() 3, [ADV]() 1), <em>mort</em> ([VERB]() 90, [NOUN]() 82, [ADJ]() 7), <em>reste</em> ([VERB]() 87, [NOUN]() 37, [AUX]() 2), <em>connu</em> ([VERB]() 73, [ADJ]() 1)
+The 10 most frequent ambiguous types:  <em>fait</em> ([VERB]() 430, [NOUN]() 124, [AUX]() 1), <em>a</em> ([AUX]() 1772, [VERB]() 354, [ADP]() 22, [DET]() 4, [X]() 4, [PROPN]() 1, [NOUN]() 1), <em>né</em> ([VERB]() 262, [NOUN]() 1), <em>est</em> ([AUX]() 4957, [VERB]() 205, [NOUN]() 44, [ADJ]() 3, [X]() 1, [CCONJ]() 1), <em>situé</em> ([VERB]() 140, [ADJ]() 1), <em>ont</em> ([AUX]() 534, [VERB]() 112), <em>voir</em> ([VERB]() 94, [SCONJ]() 3, [ADV]() 1), <em>mort</em> ([VERB]() 90, [NOUN]() 82, [ADJ]() 7), <em>reste</em> ([VERB]() 87, [NOUN]() 37, [AUX]() 2), <em>connu</em> ([VERB]() 73, [ADJ]() 1)
 
 
 * <em>fait</em>
@@ -24,10 +24,10 @@ The 10 most frequent ambiguous types:  <em>fait</em> ([VERB]() 430, [NOUN]() 124
   * [AUX]() 1772: <em>Le gardien algérien <b>a</b> lui aussi laissé filer le ballon dans ses buts .</em>
   * [VERB]() 354: <em>Elle <b>a</b> le statut de ville depuis 1957 .</em>
   * [ADP]() 22: <em>Emily Hirst est née <b>a</b> Vancouver à le Canada .</em>
-  * [X]() 4: <em>On peut modifier <b>a</b> posteriori la couleur et le nom d' un objet , mais ceci se fait avec une boîte de dialogue modale qui cache la figure .</em>
   * [DET]() 4: <em>En anglais elle porte d' ailleurs le nom de sail of <b>a</b> lugger , ou lugsail , c'est-à-dire voile de lougre .</em>
-  * [NOUN]() 1: <em>Ce toponyme suggère le nom d' un homme germain , Alaman , marquant une origine ethnique , à lequel a été ajouté le suffixe -onem , le <b>a</b> initial pris pour la préposition à ayant disparu par aphérèse .</em>
+  * [X]() 4: <em>On peut modifier <b>a</b> posteriori la couleur et le nom d' un objet , mais ceci se fait avec une boîte de dialogue modale qui cache la figure .</em>
   * [PROPN]() 1: <em>San Felice <b>a</b> Cancello est une commune italienne de la province de Caserte dans la région Campanie en Italie .</em>
+  * [NOUN]() 1: <em>Ce toponyme suggère le nom d' un homme germain , Alaman , marquant une origine ethnique , à lequel a été ajouté le suffixe -onem , le <b>a</b> initial pris pour la préposition à ayant disparu par aphérèse .</em>
 * <em>né</em>
   * [VERB]() 262: <em>Berislav Klobučar , <b>né</b> à Zagreb , est un chef d' orchestre croate .</em>
   * [NOUN]() 1: <em>Leur premier <b>né</b> Tvrtko devient Ban de Bosnie puis roi de Bosnie en 1337 .</em>
@@ -36,8 +36,8 @@ The 10 most frequent ambiguous types:  <em>fait</em> ([VERB]() 430, [NOUN]() 124
   * [VERB]() 205: <em>Elle fonce et c' <b>est</b> cette audace qui est récompensée .</em>
   * [NOUN]() 44: <em>Elles sont situées à l' <b>est</b> de la République serbe de Bosnie .</em>
   * [ADJ]() 3: <em>Environ 84 autres sont encerclés sur la partie <b>est</b> de l' île , capturés et jugés .</em>
-  * [CCONJ]() 1: <em>De ce château , il ne reste actuellement que des restes passifs : quelques communs et une annexe : la Jardinnerie et la Serrurerie et le Mardelin , des aqueducs souterrains , des caves , ses trois sources , son réservoir inférieur , ses fossés , <b>est</b> bien sûr ses bois de le parc ... Victor Petit .</em>
   * [X]() 1: <em>Créé en 1964 par Pierre Billon , Sifca <b>est</b> est alors le premier groupe privé Ivoirien .</em>
+  * [CCONJ]() 1: <em>De ce château , il ne reste actuellement que des restes passifs : quelques communs et une annexe : la Jardinnerie et la Serrurerie et le Mardelin , des aqueducs souterrains , des caves , ses trois sources , son réservoir inférieur , ses fossés , <b>est</b> bien sûr ses bois de le parc ... Victor Petit .</em>
 * <em>situé</em>
   * [VERB]() 140: <em>Il est <b>situé</b> sur Cat Island .</em>
   * [ADJ]() 1: <em>Un séjour de rêve dans un gîte confortable , tranquille et bien <b>situé</b> à le centre-ville de Montréal .</em>
@@ -114,7 +114,7 @@ The 10 most frequent `VERB` types:  <em>a, fait, faire, dite, concernant, est, c
 
 The 10 most frequent ambiguous lemmas: <em>avoir</em> ([AUX]() 149, [VERB]() 76), <em>dire</em> ([VERB]() 27, [NOUN]() 1), <em>être</em> ([AUX]() 349, [VERB]() 19, [NOUN]() 1), <em>savoir</em> ([VERB]() 17, [AUX]() 1), <em>suivre</em> ([VERB]() 7, [AUX]() 5), <em>ajouter</em> ([VERB]() 4, [ADJ]() 1), <em>aller</em> ([AUX]() 10, [VERB]() 4), <em>intégrer</em> ([VERB]() 3, [ADJ]() 1), <em>vouloir</em> ([AUX]() 24, [VERB]() 3), <em>pouvoir</em> ([AUX]() 60, [NOUN]() 3, [VERB]() 2)
 
-The 10 most frequent ambiguous types:  <em>a</em> ([AUX]() 66, [VERB]() 38, [X]() 2, [ADP]() 1), <em>fait</em> ([VERB]() 22, [NOUN]() 7), <em>est</em> ([AUX]() 130, [VERB]() 11, [NOUN]() 1), <em>ont</em> ([AUX]() 42, [VERB]() 9), <em>avoir</em> ([VERB]() 4, [AUX]() 4), <em>demande</em> ([NOUN]() 4, [VERB]() 4), <em>présente</em> ([ADJ]() 16, [VERB]() 4), <em>ait</em> ([AUX]() 6, [VERB]() 3), <em>avons</em> ([AUX]() 6, [VERB]() 3), <em>suivi</em> ([VERB]() 3, [NOUN]() 1)
+The 10 most frequent ambiguous types:  <em>a</em> ([AUX]() 66, [VERB]() 38, [X]() 2, [ADP]() 1), <em>fait</em> ([VERB]() 22, [NOUN]() 7), <em>est</em> ([AUX]() 130, [VERB]() 11, [NOUN]() 1), <em>ont</em> ([AUX]() 42, [VERB]() 9), <em>avoir</em> ([AUX]() 4, [VERB]() 4), <em>demande</em> ([VERB]() 4, [NOUN]() 4), <em>présente</em> ([ADJ]() 16, [VERB]() 4), <em>ait</em> ([AUX]() 6, [VERB]() 3), <em>avons</em> ([AUX]() 6, [VERB]() 3), <em>suivi</em> ([VERB]() 3, [NOUN]() 1)
 
 
 * <em>a</em>
@@ -133,11 +133,11 @@ The 10 most frequent ambiguous types:  <em>a</em> ([AUX]() 66, [VERB]() 38, [X](
   * [AUX]() 42: <em>Et ils <b>ont</b> existé pendant des dizaines de millions d' années .</em>
   * [VERB]() 9: <em>Les modifications n' <b>ont</b> pas lieu d' être .</em>
 * <em>avoir</em>
-  * [VERB]() 4: <em>Vous devez <b>avoir</b> à le moins 13 ans pour pouvoir vous inscrire sur Facebook .</em>
   * [AUX]() 4: <em>Après <b>avoir</b> sporulé , ils pourrissent .</em>
+  * [VERB]() 4: <em>Vous devez <b>avoir</b> à le moins 13 ans pour pouvoir vous inscrire sur Facebook .</em>
 * <em>demande</em>
-  * [NOUN]() 4: <em>( Le parlement rejette la <b>demande</b> avec 164 voix pour , 166 voix contre et 7 abstentions ) .</em>
   * [VERB]() 4: <em>Je <b>demande</b> que cette décision soit reconsidérée car ce n' est pas le cas .</em>
+  * [NOUN]() 4: <em>( Le parlement rejette la <b>demande</b> avec 164 voix pour , 166 voix contre et 7 abstentions ) .</em>
 * <em>présente</em>
   * [ADJ]() 16: <em>Tous ont droit à une protection égale contre toute discrimination qui violerait la <b>présente</b> déclaration et contre toute provocation à une telle discrimination .</em>
   * [VERB]() 4: <em>Et je vous <b>présente</b> un concept selon lequel ce sont des membranes neurologiques étendues .</em>

@@ -38,7 +38,7 @@ The most frequent other feature values with which `NOUN` and `Number` co-occurre
 
 7902 [pl-pos/VERB]() tokens (83% of all `VERB` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (5100; 65%), <tt><a href="Aspect.html">Aspect</a>=Imp</tt> (4680; 59%), <tt><a href="Tense.html">Tense</a>=Past</tt> (4309; 55%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (4309; 55%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (4309; 55%), <tt><a href="Voice.html">Voice</a>=Act</tt> (4309; 55%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (4309; 55%).
+The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (5100; 65%), <tt><a href="Aspect.html">Aspect</a>=Imp</tt> (4680; 59%), <tt><a href="Tense.html">Tense</a>=Past</tt> (4309; 55%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (4309; 55%), <tt><a href="Voice.html">Voice</a>=Act</tt> (4309; 55%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (4309; 55%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (4309; 55%).
 
 `VERB` tokens may have the following values of `Number`:
 
@@ -196,7 +196,7 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
 
 1743 [pl-pos/AUX]() tokens (85% of all `AUX` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `AUX` and `Number` co-occurred: <tt><a href="Aspect.html">Aspect</a>=Imp</tt> (1604; 92%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (1345; 77%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (1345; 77%), <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (1345; 77%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (1344; 77%), <tt><a href="Variant.html">Variant</a>=EMPTY</tt> (1182; 68%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (1137; 65%).
+The most frequent other feature values with which `AUX` and `Number` co-occurred: <tt><a href="Aspect.html">Aspect</a>=Imp</tt> (1604; 92%), <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (1345; 77%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (1345; 77%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (1345; 77%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (1344; 77%), <tt><a href="Variant.html">Variant</a>=EMPTY</tt> (1182; 68%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (1137; 65%).
 
 `AUX` tokens may have the following values of `Number`:
 
@@ -228,7 +228,7 @@ The most frequent other feature values with which `AUX` and `Number` co-occurred
 
 1697 [pl-pos/DET]() tokens (100% of all `DET` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="Reflex.html">Reflex</a>=EMPTY</tt> (1519; 90%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (1499; 88%), <tt><a href="Number[psor].html">Number[psor]</a>=EMPTY</tt> (1499; 88%), <tt><a href="Poss.html">Poss</a>=EMPTY</tt> (1321; 78%), <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (851; 50%).
+The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="Reflex.html">Reflex</a>=EMPTY</tt> (1519; 90%), <tt><a href="Number[psor].html">Number[psor]</a>=EMPTY</tt> (1499; 88%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (1499; 88%), <tt><a href="Poss.html">Poss</a>=EMPTY</tt> (1321; 78%), <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (851; 50%).
 
 `DET` tokens may have the following values of `Number`:
 

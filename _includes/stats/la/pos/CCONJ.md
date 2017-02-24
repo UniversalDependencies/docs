@@ -13,7 +13,7 @@ The 10 most frequent `CCONJ` types:  <em>et, que, atque, sed, ac, nec, aut, etia
 
 The 10 most frequent ambiguous lemmas: <em>et1</em> ([CCONJ]() 401, [ADV]() 2), <em>nam1</em> ([CCONJ]() 18, [ADV]() 1), <em>vel1</em> ([CCONJ]() 10, [ADV]() 2), <em>igitur1</em> ([CCONJ]() 8, [ADV]() 2), <em>vel</em> ([CCONJ]() 6, [ADV]() 1), <em>etiam1</em> ([ADV]() 8, [CCONJ]() 3), <em>neu1</em> ([CCONJ]() 2, [ADV]() 1), <em>neve1</em> ([CCONJ]() 2, [ADV]() 2), <em>quoque</em> ([ADV]() 4, [CCONJ]() 2), <em>enim</em> ([SCONJ]() 8, [CCONJ]() 1)
 
-The 10 most frequent ambiguous types:  <em>et</em> ([CCONJ]() 541, [ADV]() 2), <em>etiam</em> ([CCONJ]() 33, [ADV]() 8), <em>nam</em> ([CCONJ]() 27, [ADV]() 1), <em>vel</em> ([CCONJ]() 14, [ADV]() 3), <em>igitur</em> ([CCONJ]() 8, [ADV]() 2), <em>c</em> ([CCONJ]() 2, [NOUN]() 1), <em>neu</em> ([CCONJ]() 2, [ADV]() 1), <em>neve</em> ([CCONJ]() 2, [ADV]() 2), <em>quoque</em> ([ADV]() 7, [PRON]() 4, [CCONJ]() 2)
+The 10 most frequent ambiguous types:  <em>et</em> ([CCONJ]() 541, [ADV]() 2), <em>etiam</em> ([CCONJ]() 33, [ADV]() 8), <em>nam</em> ([CCONJ]() 27, [ADV]() 1), <em>vel</em> ([CCONJ]() 14, [ADV]() 3), <em>igitur</em> ([CCONJ]() 8, [ADV]() 2), <em>c</em> ([CCONJ]() 2, [NOUN]() 1), <em>neu</em> ([CCONJ]() 2, [ADV]() 1), <em>neve</em> ([ADV]() 2, [CCONJ]() 2), <em>quoque</em> ([ADV]() 7, [PRON]() 4, [CCONJ]() 2)
 
 
 * <em>et</em>
@@ -38,8 +38,8 @@ The 10 most frequent ambiguous types:  <em>et</em> ([CCONJ]() 541, [ADV]() 2), <
   * [CCONJ]() 2: <em><b>neu</b> , si quid petiit , ingrata fronte negaris , <b>neu</b> tibi pro vano verba benigna cadant .</em>
   * [ADV]() 1: <em><b>neu</b> quis de iis postea ad senatum referat neve cum populo agat ;</em>
 * <em>neve</em>
-  * [CCONJ]() 2: <em>tu cave ne tristi cupias pugnare puellae , <b>neve</b> superba loqui , <b>neve</b> tacere diu ;</em>
   * [ADV]() 2: <em>neu quis de iis postea ad senatum referat <b>neve</b> cum populo agat ;</em>
+  * [CCONJ]() 2: <em>tu cave ne tristi cupias pugnare puellae , <b>neve</b> superba loqui , <b>neve</b> tacere diu ;</em>
 * <em>quoque</em>
   * [ADV]() 7: <em>Consulatum <b>quoque</b> tum annuum et perpetuum mihi delatum non recepi .</em>
   * [PRON]() 4: <em>Nero a pessimo <b>quoque</b> semper desiderabitur :</em>

@@ -19,7 +19,7 @@ The feature is used with 2 part-of-speech tags: [cs-pos/DET]() (3852; 0% instanc
 
 3852 [cs-pos/DET]() tokens (8% of all `DET` tokens) have a non-empty value of `Gender[psor]`.
 
-The most frequent other feature values with which `DET` and `Gender[psor]` co-occurred: <tt><a href="Person.html">Person</a>=3</tt> (3852; 100%), <tt><a href="Number[psor].html">Number[psor]</a>=Sing</tt> (3852; 100%), <tt><a href="Poss.html">Poss</a>=Yes</tt> (3852; 100%), <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (3786; 98%), <tt><a href="PronType.html">PronType</a>=Prs</tt> (3514; 91%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (2922; 76%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (2846; 74%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (2566; 67%).
+The most frequent other feature values with which `DET` and `Gender[psor]` co-occurred: <tt><a href="Person.html">Person</a>=3</tt> (3852; 100%), <tt><a href="Poss.html">Poss</a>=Yes</tt> (3852; 100%), <tt><a href="Number[psor].html">Number[psor]</a>=Sing</tt> (3852; 100%), <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (3786; 98%), <tt><a href="PronType.html">PronType</a>=Prs</tt> (3514; 91%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (2922; 76%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (2846; 74%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (2566; 67%).
 
 `DET` tokens may have the following values of `Gender[psor]`:
 
@@ -83,7 +83,7 @@ The feature is used with 2 part-of-speech tags: [cs-pos/DET]() (1551; 0% instanc
 
 1551 [cs-pos/DET]() tokens (8% of all `DET` tokens) have a non-empty value of `Gender[psor]`.
 
-The most frequent other feature values with which `DET` and `Gender[psor]` co-occurred: <tt><a href="Poss.html">Poss</a>=Yes</tt> (1551; 100%), <tt><a href="Person.html">Person</a>=3</tt> (1551; 100%), <tt><a href="Number[psor].html">Number[psor]</a>=Sing</tt> (1551; 100%), <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (1514; 98%), <tt><a href="PronType.html">PronType</a>=Prs</tt> (1331; 86%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (1159; 75%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (1086; 70%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (984; 63%).
+The most frequent other feature values with which `DET` and `Gender[psor]` co-occurred: <tt><a href="Person.html">Person</a>=3</tt> (1551; 100%), <tt><a href="Number[psor].html">Number[psor]</a>=Sing</tt> (1551; 100%), <tt><a href="Poss.html">Poss</a>=Yes</tt> (1551; 100%), <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (1514; 98%), <tt><a href="PronType.html">PronType</a>=Prs</tt> (1331; 86%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (1159; 75%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (1086; 70%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (984; 63%).
 
 `DET` tokens may have the following values of `Gender[psor]`:
 
@@ -111,7 +111,7 @@ The most frequent other feature values with which `DET` and `Gender[psor]` co-oc
 
 645 [cs-pos/ADJ]() tokens (1% of all `ADJ` tokens) have a non-empty value of `Gender[psor]`.
 
-The most frequent other feature values with which `ADJ` and `Gender[psor]` co-occurred: <tt><a href="Degree.html">Degree</a>=EMPTY</tt> (645; 100%), <tt><a href="Polarity.html">Polarity</a>=EMPTY</tt> (645; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (506; 78%), <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (370; 57%).
+The most frequent other feature values with which `ADJ` and `Gender[psor]` co-occurred: <tt><a href="Polarity.html">Polarity</a>=EMPTY</tt> (645; 100%), <tt><a href="Degree.html">Degree</a>=EMPTY</tt> (645; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (506; 78%), <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (370; 57%).
 
 `ADJ` tokens may have the following values of `Gender[psor]`:
 
@@ -144,7 +144,7 @@ The feature is used with 2 part-of-speech tags: [cs-pos/DET]() (68; 0% instances
 
 68 [cs-pos/DET]() tokens (17% of all `DET` tokens) have a non-empty value of `Gender[psor]`.
 
-The most frequent other feature values with which `DET` and `Gender[psor]` co-occurred: <tt><a href="Poss.html">Poss</a>=Yes</tt> (68; 100%), <tt><a href="Person.html">Person</a>=3</tt> (68; 100%), <tt><a href="Number[psor].html">Number[psor]</a>=Sing</tt> (68; 100%), <tt><a href="PronType.html">PronType</a>=Prs</tt> (62; 91%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (54; 79%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (49; 72%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (46; 68%).
+The most frequent other feature values with which `DET` and `Gender[psor]` co-occurred: <tt><a href="Person.html">Person</a>=3</tt> (68; 100%), <tt><a href="Number[psor].html">Number[psor]</a>=Sing</tt> (68; 100%), <tt><a href="Poss.html">Poss</a>=Yes</tt> (68; 100%), <tt><a href="PronType.html">PronType</a>=Prs</tt> (62; 91%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (54; 79%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (49; 72%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (46; 68%).
 
 `DET` tokens may have the following values of `Gender[psor]`:
 
@@ -168,7 +168,7 @@ The most frequent other feature values with which `DET` and `Gender[psor]` co-oc
 
 1 [cs-pos/ADJ]() tokens (0% of all `ADJ` tokens) have a non-empty value of `Gender[psor]`.
 
-The most frequent other feature values with which `ADJ` and `Gender[psor]` co-occurred: <tt><a href="Polarity.html">Polarity</a>=EMPTY</tt> (1; 100%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (1; 100%), <tt><a href="Animacy.html">Animacy</a>=Anim</tt> (1; 100%), <tt><a href="Degree.html">Degree</a>=EMPTY</tt> (1; 100%), <tt><a href="Case.html">Case</a>=Nom</tt> (1; 100%), <tt><a href="Number.html">Number</a>=Plur</tt> (1; 100%).
+The most frequent other feature values with which `ADJ` and `Gender[psor]` co-occurred: <tt><a href="Case.html">Case</a>=Nom</tt> (1; 100%), <tt><a href="Polarity.html">Polarity</a>=EMPTY</tt> (1; 100%), <tt><a href="Degree.html">Degree</a>=EMPTY</tt> (1; 100%), <tt><a href="Animacy.html">Animacy</a>=Anim</tt> (1; 100%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (1; 100%), <tt><a href="Number.html">Number</a>=Plur</tt> (1; 100%).
 
 `ADJ` tokens may have the following values of `Gender[psor]`:
 

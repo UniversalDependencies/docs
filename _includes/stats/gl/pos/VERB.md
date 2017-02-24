@@ -4,21 +4,39 @@
 
 ## Treebank Statistics (UD_Galician)
 
-There are 1467 `VERB` lemmas (15%), 4193 `VERB` types (29%) and 11441 `VERB` tokens (10%).
-Out of 15 observed tags, the rank of `VERB` is: 3 in number of lemmas, 2 in number of types and 4 in number of tokens.
+There are 1467 `VERB` lemmas (15%), 4183 `VERB` types (29%) and 10227 `VERB` tokens (9%).
+Out of 16 observed tags, the rank of `VERB` is: 3 in number of lemmas, 2 in number of types and 5 in number of tokens.
 
-The 10 most frequent `VERB` lemmas: <em>ser, poder, ter, estar, deber, facer, realizar, establecer, dar, haber</em>
+The 10 most frequent `VERB` lemmas: <em>poder, ter, ser, deber, facer, realizar, establecer, dar, haber, presentar</em>
 
-The 10 most frequent `VERB` types:  <em>é, son, ser, pode, ter, ten, está, sexa, foi, hai</em>
+The 10 most frequent `VERB` types:  <em>pode, ter, ten, hai, poden, debe, ser, teñen, poderá, é</em>
 
-The 10 most frequent ambiguous lemmas: <em>ser</em> ([VERB]() 1290, [NOUN]() 6), <em>umha</em> ([VERB]() 2, [NOUN]() 2), <em>i+d+i</em> ([VERB]() 1, [PROPN]() 1), <em>rsu</em> ([PROPN]() 3, [VERB]() 1)
+The 10 most frequent ambiguous lemmas: <em>ser</em> ([AUX]() 1041, [VERB]() 249, [NOUN]() 6), <em>estar</em> ([AUX]() 173, [VERB]() 74), <em>umha</em> ([NOUN]() 2, [VERB]() 2), <em>i+d+i</em> ([PROPN]() 1, [VERB]() 1), <em>rsu</em> ([PROPN]() 3, [VERB]() 1)
 
-The 10 most frequent ambiguous types:  <em>era</em> ([VERB]() 25, [NOUN]() 2), <em>dito</em> ([VERB]() 15, [NOUN]() 1), <em>figura</em> ([VERB]() 15, [NOUN]() 5), <em>fixo</em> ([VERB]() 16, [ADJ]() 3), <em>previsto</em> ([VERB]() 16, [ADJ]() 1), <em>derivados</em> ([VERB]() 13, [NOUN]() 2), <em>mostra</em> ([NOUN]() 18, [VERB]() 11), <em>previstos</em> ([VERB]() 11, [ADJ]() 1), <em>conta</em> ([NOUN]() 61, [VERB]() 7), <em>disposto</em> ([VERB]() 8, [ADJ]() 8)
+The 10 most frequent ambiguous types:  <em>ser</em> ([AUX]() 115, [VERB]() 60), <em>é</em> ([AUX]() 445, [VERB]() 44), <em>foi</em> ([AUX]() 46, [VERB]() 23), <em>son</em> ([AUX]() 169, [VERB]() 20), <em>está</em> ([AUX]() 69, [VERB]() 19), <em>están</em> ([AUX]() 41, [VERB]() 18), <em>foron</em> ([VERB]() 18, [AUX]() 15), <em>dito</em> ([VERB]() 15, [NOUN]() 1), <em>figura</em> ([VERB]() 15, [NOUN]() 5), <em>fixo</em> ([VERB]() 16, [ADJ]() 3)
 
 
-* <em>era</em>
-  * [VERB]() 25: <em>Esqueceran se de a fala e esa Galiza <b>era</b> para min estranxeira , chorei en as súas portas e fun me de a súa beira .</em>
-  * [NOUN]() 2: <em>Pero ese " Contrato Social " inicial e que tan bos resultados deu durante a <b>era</b> histórica que agora termina nunca foi estático .</em>
+* <em>ser</em>
+  * [AUX]() 115: <em>Todos estes países deixaron de <b>ser</b> os principais en a actualidade por a competencia vía prezos de países coma Marrocos .</em>
+  * [VERB]() 60: <em>En segundo lugar , as motivacións de unha parella para desexar ter un fillo poden <b>ser</b> , e de feito o son , moi diversas .</em>
+* <em>é</em>
+  * [AUX]() 445: <em>A diferenza máis inmediata entre a varicela en vacinados e non vacinados <b>é</b> o número de lesións que provocan .</em>
+  * [VERB]() 44: <em>Como saber que <b>é</b> o que realmente hai que manter , apoiar ou preservar de a propia diversidade cultural local ?</em>
+* <em>foi</em>
+  * [AUX]() 46: <em>Os impostos directos aportaron o 64,2 % de a recadación efectuada en Galicia e a súa taxa de variación <b>foi</b> de o 14,6 % .</em>
+  * [VERB]() 23: <em>A planta de tratamento de pilas <b>foi</b> financiada por o Ministerio de o Medio Ambiente , que transferiu a súa propiedade a a Xunta en febreiro de 1998 .</em>
+* <em>son</em>
+  * [AUX]() 169: <em>E agora retomamos a pregunta de o principio : <b>son</b> nova e teño unha idea ¿ e agora que ?</em>
+  * [VERB]() 20: <em>Asi , o saldo de a balanza por conta de capital consiste en : As exportacións de bens son créditos e as de capital <b>son</b> débedas .</em>
+* <em>está</em>
+  * [AUX]() 69: <em>Son un pulsar de o meu día a día en Tiruchy , dez anos de querer cambiar o mundo , esa cousa que <b>está</b> tan deostada .</em>
+  * [VERB]() 19: <em>A idea é boa , pero é difícil de levar a cabo xa que en esas datas a maioría de xente xa <b>está</b> en Galicia .</em>
+* <em>están</em>
+  * [AUX]() 41: <em>A súa primeira intención é ser enfermeira pero os postos <b>están</b> xa cubertos e ela está disposta a ir a a fronte .</em>
+  * [VERB]() 18: <em>Outra consecuencia de a situación laboral galega son os desequilibrios territoriais que se veñen producindo e que nos últimos anos se <b>están</b> agudizando .</em>
+* <em>foron</em>
+  * [VERB]() 18: <em>Os datos para este traballo <b>foron</b> tomados de a enquisa realizada ás pemes de Vigo e de a súa área metropolitana durante o ano 2000 .</em>
+  * [AUX]() 15: <em>Durante a campaña <b>foron</b> se introducindo algúns aparatos de alta tecnoloxía , para obter máis datos acerca de a pesca .</em>
 * <em>dito</em>
   * [VERB]() 15: <em>Cando un saldo dubidoso fose cobrado posteriormente a a súa dedución , computará se como ingreso en o exercicio en que se produza o <b>dito</b> cobramento .</em>
   * [NOUN]() 1: <em>O <b>dito</b> Real decreto regula o réxime de autorizacións administrativas , a acreditación de o persoal , as obrigas de os titulares de ditas instalacións e de as actividades de inspección e control .</em>
@@ -28,57 +46,45 @@ The 10 most frequent ambiguous types:  <em>era</em> ([VERB]() 25, [NOUN]() 2), <
 * <em>fixo</em>
   * [VERB]() 16: <em>De calquera xeito , tampouco era o canarés a lingua materna de dúas de as tres aldeas , o cal me <b>fixo</b> sentir mellor .</em>
   * [ADJ]() 3: <em>A formación bruta de capital <b>fixo</b> rexistrou un incremento de o 7,2 % en 2005 , máis de dous puntos por riba de o experimentado en o ano anterior .</em>
-* <em>previsto</em>
-  * [VERB]() 16: <em>En moitos casos resulta útil pintar o deseño <b>previsto</b> de a incisión para non perder as referencias cando preparemos o campo .</em>
-  * [ADJ]() 1: <em>Se puede encontrar una descripción de las actividades formativas , junto con su calendario <b>previsto</b> , y de las herramientas metodológicas existentes en la página web de el Igape ( www.Igape.es ) .</em>
-* <em>derivados</em>
-  * [VERB]() 13: <em>Porque ademáis de o grave problema de emisión de tóxicos , en a incineración queiman-se plásticos <b>derivados</b> de o petróleo que pouco teñen de renovábeis .</em>
-  * [NOUN]() 2: <em>Exponse que en a data de o 7 de maio de 2004 por parte de a comisión paritaria de o convenio colectivo de <b>derivados</b> de o cemento de a provincia de a Coruña , chegou se a o acordo de modificación de o vixente convenio colectivo en os seguintes ter me os :</em>
-* <em>mostra</em>
-  * [NOUN]() 18: <em>Unha <b>mostra</b> de o castelán como cultura dominante vemos a nos periódicos , cando traducen as entrevistas en galego para o castelán .</em>
-  * [VERB]() 11: <em>Citemos como <b>mostra</b> , para evitar reiteracións , que en o capítulo CII de o libro I menciona se o Reino de Galicia ( Ibídem , 1994 : 242 ) .</em>
-* <em>previstos</em>
-  * [VERB]() 11: <em>O mesmo se pode dicir de o plan de a Xunta , pois de os 1.600 millóns de euros anunciados , 781 millóns xa estaban <b>previstos</b> .</em>
-  * [ADJ]() 1: <em>Prever a creación de as infraestructuras adicionais que se consideren necesarias para lograr os obxectivos <b>previstos</b> e estudia-las posibilidades de optimización de os resultados económico-ambientais de as xa existentes .</em>
-* <em>conta</em>
-  * [NOUN]() 61: <em>Por a <b>conta</b> , os homes presentan unha taxa de paro de o 7,2 % en Galicia , dúas décimas por riba de a media estatal .</em>
-  * [VERB]() 7: <em>A Coruña é a provincia que <b>conta</b> con o maior número de empresas de fábrica de pensos con 45 mentres que Ourense é a provincia con o menor número con só 3 .</em>
-* <em>disposto</em>
-  * [VERB]() 8: <em>Trata se de unha protección xurisdiccional singular , instrumental de o <b>disposto</b> en a lei especial sobre eses instrumentos de o tráfico xurídico .</em>
-  * [ADJ]() 8: <em>Non obstante , non se procederá a o cerramento cando o titular exercitase o seu dereito de transmisión de acordo con o <b>disposto</b> en esta lei .</em>
 
 ## Morphology
 
-The form / lemma ratio of `VERB` is 2.858214 (the average of all parts of speech is 1.505536).
+The form / lemma ratio of `VERB` is 2.851397 (the average of all parts of speech is 1.508250).
 
-The 1st highest number of forms (24) was observed with the lemma “ser”: <em>era, eran, es, foi, for, fora, foran, foron, fose, fosen, fun, sendo, ser, seremos, seren, será, serán, sería, serían, sexa, sexan, somos, son, é</em>.
+The 1st highest number of forms (22) was observed with the lemma “considerar”: <em>considera, consideraba, consideraban, considerada, consideradas, considerado, considerados, consideramos, consideran, considerando, considerar, considerara, consideraren, considerariamos, considerarmos, consideraron, considerará, considerarán, considerarían, considere, consideren, considerou</em>.
 
-The 2nd highest number of forms (22) was observed with the lemma “considerar”: <em>considera, consideraba, consideraban, considerada, consideradas, considerado, considerados, consideramos, consideran, considerando, considerar, considerara, consideraren, considerariamos, considerarmos, consideraron, considerará, considerarán, considerarían, considere, consideren, considerou</em>.
+The 2nd highest number of forms (22) was observed with the lemma “poder”: <em>pode, podemos, poden, podendo, poder, poderemos, poderes, poderiamos, poderá, poderán, podería, poderían, poida, poidamos, poidan, puidemos, puideran, puideren, puideron, puidese, puidesen, puido</em>.
 
-The 3rd highest number of forms (22) was observed with the lemma “poder”: <em>pode, podemos, poden, podendo, poder, poderemos, poderes, poderiamos, poderá, poderán, podería, poderían, poida, poidamos, poidan, puidemos, puideran, puideren, puideron, puidese, puidesen, puido</em>.
+The 3rd highest number of forms (22) was observed with the lemma “ter”: <em>temos, ten, tendo, ter, teremos, terá, terán, tería, terían, teña, teñan, teñen, teño, tido, tivemos, tivera, tiveron, tivese, tivo, tiña, tiñamos, tiñan</em>.
 
-`VERB` does not occur with any features.
+`VERB` occurs with 1 features: [gl-feat/Foreign]() (20; 0% instances)
+
+`VERB` occurs with 1 feature-value pairs: `Foreign=Yes`
+
+`VERB` occurs with 2 feature combinations.
+The most frequent feature combination is `_` (10207 tokens).
+Examples: <em>pode, ter, ten, hai, poden, debe, ser, teñen, poderá, é</em>
 
 
 ## Relations
 
-`VERB` nodes are attached to their parents using 13 different relations: [gl-dep/ccomp]() (5397; 47% instances), [gl-dep/root]() (2975; 26% instances), [gl-dep/aux]() (1066; 9% instances), [gl-dep/dobj]() (622; 5% instances), [gl-dep/cop]() (397; 3% instances), [gl-dep/case]() (394; 3% instances), [gl-dep/dep]() (226; 2% instances), [gl-dep/nsubj]() (190; 2% instances), [gl-dep/nmod]() (145; 1% instances), [gl-dep/foreign]() (25; 0% instances), [gl-dep/punct]() (2; 0% instances), [gl-dep/det]() (1; 0% instances), [gl-dep/nummod]() (1; 0% instances)
+`VERB` nodes are attached to their parents using 14 different relations: [gl-dep/ccomp]() (5023; 49% instances), [gl-dep/root]() (2489; 24% instances), [gl-dep/aux]() (1063; 10% instances), [gl-dep/obj]() (534; 5% instances), [gl-dep/case]() (363; 4% instances), [gl-dep/dep]() (214; 2% instances), [gl-dep/xcomp]() (188; 2% instances), [gl-dep/nsubj]() (184; 2% instances), [gl-dep/nmod]() (93; 1% instances), [gl-dep/obl]() (50; 0% instances), [gl-dep/flat]() (22; 0% instances), [gl-dep/punct]() (2; 0% instances), [gl-dep/det]() (1; 0% instances), [gl-dep/nummod]() (1; 0% instances)
 
-Parents of `VERB` nodes belong to 11 different parts of speech: [VERB]() (4127; 36% instances), [ROOT]() (2975; 26% instances), [NOUN]() (2731; 24% instances), [ADP]() (1407; 12% instances), [ADV]() (66; 1% instances), [ADJ]() (54; 0% instances), [PROPN]() (32; 0% instances), [NUM]() (24; 0% instances), [PRON]() (18; 0% instances), [SCONJ]() (5; 0% instances), [PUNCT]() (2; 0% instances)
+Parents of `VERB` nodes belong to 12 different parts of speech: [VERB]() (3783; 37% instances), [NOUN]() (3260; 32% instances), [ROOT]() (2489; 24% instances), [ADJ]() (384; 4% instances), [ADV]() (83; 1% instances), [PRON]() (81; 1% instances), [ADP]() (74; 1% instances), [PROPN]() (33; 0% instances), [NUM]() (28; 0% instances), [SCONJ]() (8; 0% instances), [DET]() (3; 0% instances), [AUX]() (1; 0% instances)
 
-1732 (15%) `VERB` nodes are leaves.
+1666 (16%) `VERB` nodes are leaves.
 
-1839 (16%) `VERB` nodes have one child.
+1299 (13%) `VERB` nodes have one child.
 
-1736 (15%) `VERB` nodes have two children.
+1607 (16%) `VERB` nodes have two children.
 
-6134 (54%) `VERB` nodes have three or more children.
+5655 (55%) `VERB` nodes have three or more children.
 
-The highest child degree of a `VERB` node is 14.
+The highest child degree of a `VERB` node is 17.
 
-Children of `VERB` nodes are attached using 17 different relations: [gl-dep/case]() (7482; 23% instances), [gl-dep/dobj]() (5814; 18% instances), [gl-dep/nsubj]() (5145; 16% instances), [gl-dep/punct]() (4899; 15% instances), [gl-dep/cop]() (1721; 5% instances), [gl-dep/ccomp]() (1336; 4% instances), [gl-dep/aux]() (1065; 3% instances), [gl-dep/dep]() (1065; 3% instances), [gl-dep/mark]() (1055; 3% instances), [gl-dep/cc]() (1007; 3% instances), [gl-dep/det]() (581; 2% instances), [gl-dep/advmod]() (482; 1% instances), [gl-dep/iobj]() (425; 1% instances), [gl-dep/foreign]() (52; 0% instances), [gl-dep/amod]() (42; 0% instances), [gl-dep/nmod]() (39; 0% instances), [gl-dep/neg]() (1; 0% instances)
+Children of `VERB` nodes are attached using 19 different relations: [gl-dep/obj]() (5807; 20% instances), [gl-dep/obl]() (4395; 15% instances), [gl-dep/nsubj]() (4317; 15% instances), [gl-dep/punct]() (4297; 14% instances), [gl-dep/case]() (3135; 11% instances), [gl-dep/ccomp]() (1735; 6% instances), [gl-dep/dep]() (1047; 4% instances), [gl-dep/aux]() (972; 3% instances), [gl-dep/cc]() (908; 3% instances), [gl-dep/mark]() (862; 3% instances), [gl-dep/det]() (552; 2% instances), [gl-dep/advmod]() (451; 2% instances), [gl-dep/iobj]() (421; 1% instances), [gl-dep/xcomp]() (413; 1% instances), [gl-dep/cop]() (229; 1% instances), [gl-dep/amod]() (97; 0% instances), [gl-dep/flat]() (41; 0% instances), [gl-dep/nmod]() (1; 0% instances), [gl-dep/nummod]() (1; 0% instances)
 
-Children of `VERB` nodes belong to 15 different parts of speech: [NOUN]() (7054; 22% instances), [ADP]() (6262; 19% instances), [PUNCT]() (4875; 15% instances), [VERB]() (4127; 13% instances), [PRON]() (4040; 13% instances), [ADV]() (1488; 5% instances), [SCONJ]() (1091; 3% instances), [CONJ]() (957; 3% instances), [ADJ]() (768; 2% instances), [DET]() (644; 2% instances), [PART]() (426; 1% instances), [PROPN]() (261; 1% instances), [NUM]() (186; 1% instances), [SYM]() (30; 0% instances), [INTJ]() (2; 0% instances)
+Children of `VERB` nodes belong to 16 different parts of speech: [NOUN]() (9936; 33% instances), [PUNCT]() (4279; 14% instances), [PRON]() (4132; 14% instances), [VERB]() (3783; 13% instances), [ADP]() (1976; 7% instances), [ADV]() (1430; 5% instances), [SCONJ]() (895; 3% instances), [CCONJ]() (858; 3% instances), [DET]() (614; 2% instances), [ADJ]() (532; 2% instances), [PART]() (360; 1% instances), [PROPN]() (358; 1% instances), [NUM]() (272; 1% instances), [AUX]() (229; 1% instances), [SYM]() (25; 0% instances), [INTJ]() (2; 0% instances)
 
 
 

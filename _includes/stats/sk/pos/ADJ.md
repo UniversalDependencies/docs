@@ -11,14 +11,14 @@ The 10 most frequent `ADJ` lemmas: <em>veľký, prvý, celý, druhý, nový, ďa
 
 The 10 most frequent `ADJ` types:  <em>celý, druhý, prvý, veľký, ďalšie, nové, verejných, nový, ďalší, druhej</em>
 
-The 10 most frequent ambiguous lemmas: <em>vysoký</em> ([ADJ]() 46, [NOUN]() 2), <em>známy</em> ([ADJ]() 33, [NOUN]() 4), <em>mladý</em> ([ADJ]() 31, [NOUN]() 3), <em>silný</em> ([ADJ]() 24, [ADV]() 1), <em>rád</em> ([ADJ]() 22, [NOUN]() 8, [PROPN]() 2), <em>istý</em> ([ADJ]() 19, [DET]() 19), <em>neznámy</em> ([ADJ]() 18, [NOUN]() 1), <em>milý</em> ([ADJ]() 15, [NOUN]() 1), <em>mŕtvy</em> ([ADJ]() 14, [NOUN]() 4), <em>schopný</em> ([ADJ]() 13, [NOUN]() 2)
+The 10 most frequent ambiguous lemmas: <em>vysoký</em> ([ADJ]() 46, [NOUN]() 2), <em>známy</em> ([ADJ]() 33, [NOUN]() 4), <em>mladý</em> ([ADJ]() 31, [NOUN]() 3), <em>silný</em> ([ADJ]() 24, [ADV]() 1), <em>rád</em> ([ADJ]() 22, [NOUN]() 8, [PROPN]() 2), <em>istý</em> ([DET]() 19, [ADJ]() 19), <em>neznámy</em> ([ADJ]() 18, [NOUN]() 1), <em>milý</em> ([ADJ]() 15, [NOUN]() 1), <em>mŕtvy</em> ([ADJ]() 14, [NOUN]() 4), <em>schopný</em> ([ADJ]() 13, [NOUN]() 2)
 
-The 10 most frequent ambiguous types:  <em>rád</em> ([ADJ]() 3, [NOUN]() 3), <em>lepšie</em> ([ADJ]() 7, [ADV]() 1, [NOUN]() 1), <em>isté</em> ([DET]() 6, [ADJ]() 5), <em>mnohých</em> ([ADJ]() 5, [NUM]() 2), <em>radšej</em> ([ADJ]() 2, [PART]() 1), <em>vysokej</em> ([ADJ]() 4, [NOUN]() 1), <em>zlá</em> ([NOUN]() 2, [ADJ]() 2), <em>známy</em> ([ADJ]() 6, [NOUN]() 2), <em>konkrétne</em> ([ADJ]() 5, [ADV]() 1), <em>istý</em> ([ADJ]() 3, [DET]() 3)
+The 10 most frequent ambiguous types:  <em>rád</em> ([NOUN]() 3, [ADJ]() 3), <em>lepšie</em> ([ADJ]() 7, [ADV]() 1, [NOUN]() 1), <em>isté</em> ([DET]() 6, [ADJ]() 5), <em>mnohých</em> ([ADJ]() 5, [NUM]() 2), <em>radšej</em> ([ADJ]() 2, [PART]() 1), <em>vysokej</em> ([ADJ]() 4, [NOUN]() 1), <em>zlá</em> ([NOUN]() 2, [ADJ]() 2), <em>známy</em> ([ADJ]() 6, [NOUN]() 2), <em>konkrétne</em> ([ADJ]() 5, [ADV]() 1), <em>istý</em> ([ADJ]() 3, [DET]() 3)
 
 
 * <em>rád</em>
-  * [ADJ]() 3: <em>“ Ty <b>rád</b> vyjednávaš , “ povedal Herkules .</em>
   * [NOUN]() 3: <em>Rytiersky <b>rád</b></em>
+  * [ADJ]() 3: <em>“ Ty <b>rád</b> vyjednávaš , “ povedal Herkules .</em>
 * <em>lepšie</em>
   * [ADJ]() 7: <em>“ Ďakujem , “ povedala som , lebo nič <b>lepšie</b> mi nenapadlo .</em>
   * [ADV]() 1: <em>“ Nie je zlý , hoci <b>lepšie</b> mi chutí náš . “</em>

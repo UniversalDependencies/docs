@@ -11,7 +11,7 @@ The 10 most frequent `ADJ` lemmas: <em>ευρωπαϊκός, όλος, πολύ�
 
 The 10 most frequent `ADJ` types:  <em>ευρωπαϊκή, ευρωπαϊκό, νέα, όλα, σημαντικό, όλες, ευρωπαϊκής, μεγάλη, πολλές, σημαντική</em>
 
-The 10 most frequent ambiguous lemmas: <em>όλος</em> ([ADJ]() 111, [ADV]() 1), <em>νέος</em> ([ADJ]() 98, [NOUN]() 7, [ADV]() 1), <em>σημαντικός</em> ([ADJ]() 64, [ADV]() 1), <em>πολιτικός</em> ([ADJ]() 46, [NOUN]() 11, [ADV]() 1), <em>οικονομικός</em> ([ADJ]() 39, [ADV]() 2), <em>τελευταίος</em> ([ADJ]() 32, [ADV]() 1), <em>δημόσιος</em> ([ADJ]() 30, [NOUN]() 3), <em>νότιος</em> ([ADJ]() 25, [ADV]() 2), <em>άγιος</em> ([ADJ]() 23, [NOUN]() 1, [PROPN]() 1), <em>δυνατός</em> ([ADJ]() 22, [ADV]() 7)
+The 10 most frequent ambiguous lemmas: <em>όλος</em> ([ADJ]() 111, [ADV]() 1), <em>νέος</em> ([ADJ]() 98, [NOUN]() 7, [ADV]() 1), <em>σημαντικός</em> ([ADJ]() 64, [ADV]() 1), <em>πολιτικός</em> ([ADJ]() 46, [NOUN]() 11, [ADV]() 1), <em>οικονομικός</em> ([ADJ]() 39, [ADV]() 2), <em>τελευταίος</em> ([ADJ]() 32, [ADV]() 1), <em>δημόσιος</em> ([ADJ]() 30, [NOUN]() 3), <em>νότιος</em> ([ADJ]() 25, [ADV]() 2), <em>άγιος</em> ([ADJ]() 23, [PROPN]() 1, [NOUN]() 1), <em>δυνατός</em> ([ADJ]() 22, [ADV]() 7)
 
 The 10 most frequent ambiguous types:  <em>όλα</em> ([ADJ]() 27, [ADV]() 1), <em>σημαντικό</em> ([ADJ]() 27, [ADV]() 1), <em>τελευταία</em> ([ADJ]() 14, [ADV]() 1), <em>πολιτικών</em> ([ADJ]() 12, [NOUN]() 3), <em>βόρεια</em> ([ADV]() 6, [ADJ]() 3), <em>Αγίου</em> ([ADJ]() 10, [NOUN]() 1), <em>νέου</em> ([ADJ]() 8, [ADV]() 1), <em>νέων</em> ([ADJ]() 10, [NOUN]() 5), <em>πολιτικές</em> ([ADJ]() 9, [NOUN]() 2), <em>πολιτική</em> ([NOUN]() 30, [ADJ]() 9)
 

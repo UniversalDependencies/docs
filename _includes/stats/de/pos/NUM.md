@@ -13,7 +13,7 @@ The 10 most frequent `NUM` types:  <em>zwei, drei, vier, 2007, 2006, 2009, fünf
 
 The 10 most frequent ambiguous lemmas: <em>zwei</em> ([NUM]() 335, [PROPN]() 3, [NOUN]() 2), <em>drei</em> ([NUM]() 160, [PROPN]() 4, [NOUN]() 2), <em>2009</em> ([NUM]() 73, [PROPN]() 1), <em>2008</em> ([NUM]() 71, [PROPN]() 1), <em>ein</em> ([DET]() 5030, [PRON]() 173, [ADV]() 137, [NUM]() 71, [NOUN]() 5, [PROPN]() 4), <em>1</em> ([NUM]() 70, [PROPN]() 25), <em>sechs</em> ([NUM]() 69, [NOUN]() 1), <em>2</em> ([NUM]() 63, [PROPN]() 15), <em>5</em> ([NUM]() 59, [PROPN]() 5), <em>3</em> ([NUM]() 58, [PROPN]() 13, [ADJ]() 1)
 
-The 10 most frequent ambiguous types:  <em>zwei</em> ([NUM]() 309, [PROPN]() 2, [NOUN]() 1), <em>drei</em> ([NUM]() 150, [NOUN]() 2, [PROPN]() 2), <em>2009</em> ([NUM]() 73, [PROPN]() 1), <em>2008</em> ([NUM]() 71, [PROPN]() 1), <em>1</em> ([NUM]() 70, [PROPN]() 25), <em>sechs</em> ([NUM]() 67, [NOUN]() 1), <em>2</em> ([NUM]() 63, [PROPN]() 15), <em>5</em> ([NUM]() 59, [PROPN]() 5), <em>3</em> ([NUM]() 58, [PROPN]() 13, [ADJ]() 1), <em>2000</em> ([NUM]() 57, [PROPN]() 7)
+The 10 most frequent ambiguous types:  <em>zwei</em> ([NUM]() 309, [PROPN]() 2, [NOUN]() 1), <em>drei</em> ([NUM]() 150, [PROPN]() 2, [NOUN]() 2), <em>2009</em> ([NUM]() 73, [PROPN]() 1), <em>2008</em> ([NUM]() 71, [PROPN]() 1), <em>1</em> ([NUM]() 70, [PROPN]() 25), <em>sechs</em> ([NUM]() 67, [NOUN]() 1), <em>2</em> ([NUM]() 63, [PROPN]() 15), <em>5</em> ([NUM]() 59, [PROPN]() 5), <em>3</em> ([NUM]() 58, [PROPN]() 13, [ADJ]() 1), <em>2000</em> ([NUM]() 57, [PROPN]() 7)
 
 
 * <em>zwei</em>
@@ -22,8 +22,8 @@ The 10 most frequent ambiguous types:  <em>zwei</em> ([NUM]() 309, [PROPN]() 2, 
   * [NOUN]() 1: <em>In der Folgezeit konnte sich Zipoites gegen Lysimachos und <b>zwei</b> seiner Generäle behaupten .</em>
 * <em>drei</em>
   * [NUM]() 150: <em>Die Medikamentenprüfung erfolgt in <b>drei</b> Etappen :</em>
-  * [NOUN]() 2: <em>Die <b>drei</b> bildeten die fünfte Langzeitbesatzung , die ab Juni 2002 auf der Station arbeitete .</em>
   * [PROPN]() 2: <em>Die historisch wertvollen Glasmalereien zeigen auf der linken unteren Scheibe Maria sitzend mit dem Jesuskind und auf der unteren rechten Scheibe die Anbetung der Heiligen <b>drei</b> Könige .</em>
+  * [NOUN]() 2: <em>Die <b>drei</b> bildeten die fünfte Langzeitbesatzung , die ab Juni 2002 auf der Station arbeitete .</em>
 * <em>2009</em>
   * [NUM]() 73: <em><b>2009</b> bin ich zu dem Unternehmen Mentor Coaching gekommen .</em>
   * [PROPN]() 1: <em>Dieses Einfühlungsvermögen stellt auch die Voraussetzung für sein Engagement in dem Zusammenhang mit der TV - Casting - Dokusoap Dein Song 2008 und <b>2009</b> dar , in der er sich in dem Auftrag des ZDF / KIKA für das Gelingen der Musikproduktionen verantwortlich zeichnete .</em>

@@ -54,7 +54,7 @@ The most frequent other feature values with which `DET` and `Case` co-occurred: 
   <tr><td><tt><a href="Definite.html">Definite</a>=Def|<a href="Gender.html">Gender</a>=Masc,Neut|<a href="Number.html">Number</a>=Sing|<a href="PronType.html">PronType</a>=Art</tt></td><td><em>dem, des</em></td><td><em>dem</em></td><td><em>dem</em></td><td><em>des</em></td></tr>
   <tr><td><tt><a href="Definite.html">Definite</a>=Def|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Sing|<a href="PronType.html">PronType</a>=Art</tt></td><td><em>der, den</em></td><td><em>den</em></td><td></td><td></td></tr>
   <tr><td><tt><a href="Definite.html">Definite</a>=Def|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Plur|<a href="PronType.html">PronType</a>=Art</tt></td><td><em>die, der, Das</em></td><td><em>die, den</em></td><td><em>den</em></td><td></td></tr>
-  <tr><td><tt><a href="Definite.html">Definite</a>=Def|<a href="Gender.html">Gender</a>=Fem|<a href="Number.html">Number</a>=Sing|<a href="PronType.html">PronType</a>=Art</tt></td><td><em>die</em></td><td><em>die, der</em></td><td><em>der, die, den, dem</em></td><td><em>der</em></td></tr>
+  <tr><td><tt><a href="Definite.html">Definite</a>=Def|<a href="Gender.html">Gender</a>=Fem|<a href="Number.html">Number</a>=Sing|<a href="PronType.html">PronType</a>=Art</tt></td><td><em>die</em></td><td><em>die, der</em></td><td><em>der, dem, den, die</em></td><td><em>der</em></td></tr>
   <tr><td><tt><a href="Definite.html">Definite</a>=Def|<a href="Gender.html">Gender</a>=Fem|<a href="Number.html">Number</a>=Plur|<a href="PronType.html">PronType</a>=Art</tt></td><td><em>die, den</em></td><td><em>die, den</em></td><td><em>den</em></td><td><em>der</em></td></tr>
   <tr><td><tt><a href="Definite.html">Definite</a>=Def|<a href="Gender.html">Gender</a>=Neut|<a href="Number.html">Number</a>=Sing|<a href="PronType.html">PronType</a>=Art</tt></td><td><em>das</em></td><td><em>das, dem</em></td><td></td><td></td></tr>
   <tr><td><tt><a href="Definite.html">Definite</a>=Def|<a href="Gender.html">Gender</a>=Neut|<a href="Number.html">Number</a>=Plur|<a href="PronType.html">PronType</a>=Art</tt></td><td><em>die, das</em></td><td><em>die, den</em></td><td><em>den</em></td><td><em>der</em></td></tr>
@@ -73,9 +73,9 @@ The most frequent other feature values with which `DET` and `Case` co-occurred: 
   <tr><td><tt><a href="Gender.html">Gender</a>=Neut|<a href="Number.html">Number</a>=Sing|<a href="PronType.html">PronType</a>=Rel</tt></td><td><em>das</em></td><td><em>das</em></td><td></td><td></td></tr>
   <tr><td><tt><a href="Gender.html">Gender</a>=Neut|<a href="Number.html">Number</a>=Plur|<a href="PronType.html">PronType</a>=Dem</tt></td><td><em>die</em></td><td><em>das</em></td><td><em>dessen</em></td><td></td></tr>
   <tr><td><tt><a href="Gender.html">Gender</a>=Neut|<a href="Number.html">Number</a>=Plur|<a href="PronType.html">PronType</a>=Rel</tt></td><td></td><td></td><td><em>dessen</em></td><td></td></tr>
-  <tr><td><tt><a href="Number.html">Number</a>=Plur|<a href="PronType.html">PronType</a>=Dem</tt></td><td><em>dessen, das, die</em></td><td><em>Die, das, dessen</em></td><td><em>dessen</em></td><td></td></tr>
+  <tr><td><tt><a href="Number.html">Number</a>=Plur|<a href="PronType.html">PronType</a>=Dem</tt></td><td><em>dessen, das, die</em></td><td><em>das, dessen, Die</em></td><td><em>dessen</em></td><td></td></tr>
   <tr><td><tt><a href="Number.html">Number</a>=Plur|<a href="PronType.html">PronType</a>=Rel</tt></td><td><em>die</em></td><td><em>dessen, die</em></td><td><em>dessen</em></td><td></td></tr>
-  <tr><td><tt><a href="PronType.html">PronType</a>=Rel</tt></td><td><em>die, der</em></td><td><em>den</em></td><td><em>dem, der</em></td><td></td></tr>
+  <tr><td><tt><a href="PronType.html">PronType</a>=Rel</tt></td><td><em>der, die</em></td><td><em>den</em></td><td><em>dem, der</em></td><td></td></tr>
 </table>
 
 ### `PRON`
@@ -97,15 +97,15 @@ The most frequent other feature values with which `PRON` and `Case` co-occurred:
 <table>
   <tr><th>Paradigm <i>der</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th><th><tt>Gen</tt></th></tr>
   <tr><td><tt><a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Sing|<a href="PronType.html">PronType</a>=Dem</tt></td><td><em>deren, der, dessen</em></td><td><em>deren, dessen</em></td><td></td><td></td></tr>
-  <tr><td><tt><a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Sing|<a href="PronType.html">PronType</a>=Rel</tt></td><td><em>dessen, deren</em></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Sing|<a href="PronType.html">PronType</a>=Rel</tt></td><td><em>deren, dessen</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Plur|<a href="PronType.html">PronType</a>=Rel</tt></td><td><em>deren</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><a href="Gender.html">Gender</a>=Fem|<a href="Number.html">Number</a>=Sing|<a href="PronType.html">PronType</a>=Dem</tt></td><td><em>die</em></td><td><em>die</em></td><td><em>der</em></td><td></td></tr>
   <tr><td><tt><a href="Gender.html">Gender</a>=Fem|<a href="Number.html">Number</a>=Plur|<a href="PronType.html">PronType</a>=Dem</tt></td><td></td><td><em>die</em></td><td><em>dessen</em></td><td></td></tr>
   <tr><td><tt><a href="Gender.html">Gender</a>=Fem|<a href="Number.html">Number</a>=Plur|<a href="PronType.html">PronType</a>=Rel</tt></td><td></td><td></td><td><em>deren</em></td><td></td></tr>
   <tr><td><tt><a href="Gender.html">Gender</a>=Neut|<a href="Number.html">Number</a>=Sing|<a href="PronType.html">PronType</a>=Dem</tt></td><td><em>das</em></td><td><em>das</em></td><td></td><td></td></tr>
   <tr><td><tt><a href="Number.html">Number</a>=Plur|<a href="PronType.html">PronType</a>=Dem</tt></td><td><em>die</em></td><td><em>die</em></td><td><em>deren</em></td><td></td></tr>
-  <tr><td><tt><a href="Number.html">Number</a>=Plur|<a href="PronType.html">PronType</a>=Rel</tt></td><td></td><td><em>deren, dessen</em></td><td></td><td></td></tr>
-  <tr><td><tt><a href="PronType.html">PronType</a>=Dem</tt></td><td><em>das, die, der, den, des</em></td><td><em>das, die, den</em></td><td><em>dem, der, denen, den, Dessen</em></td><td><em>dessen, dem</em></td></tr>
+  <tr><td><tt><a href="Number.html">Number</a>=Plur|<a href="PronType.html">PronType</a>=Rel</tt></td><td></td><td><em>dessen, deren</em></td><td></td><td></td></tr>
+  <tr><td><tt><a href="PronType.html">PronType</a>=Dem</tt></td><td><em>das, die, der, des, den</em></td><td><em>das, die, den</em></td><td><em>dem, der, denen, den, Dessen</em></td><td><em>dessen, dem</em></td></tr>
   <tr><td><tt><a href="PronType.html">PronType</a>=Rel</tt></td><td><em>die, der, das, den, dem</em></td><td><em>die, den, das, dem</em></td><td><em>dem, denen, der</em></td><td><em>der</em></td></tr>
 </table>
 
@@ -180,7 +180,7 @@ The most frequent other feature values with which `NUM` and `Case` co-occurred: 
 
 5 [de-pos/VERB]() tokens (0% of all `VERB` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `VERB` and `Case` co-occurred: <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (5; 100%), <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (5; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (5; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (4; 80%), <tt><a href="VerbForm.html">VerbForm</a>=EMPTY</tt> (4; 80%).
+The most frequent other feature values with which `VERB` and `Case` co-occurred: <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (5; 100%), <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (5; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (5; 100%), <tt><a href="VerbForm.html">VerbForm</a>=EMPTY</tt> (4; 80%), <tt><a href="Number.html">Number</a>=Sing</tt> (4; 80%).
 
 `VERB` tokens may have the following values of `Case`:
 
@@ -199,15 +199,6 @@ The most frequent other feature values with which `VERB` and `Case` co-occurred:
 * `Nom` (1; 33% of non-empty `Case`): <em>What</em>
 * `EMPTY` (353): <em>z.B., u.a., =, %, B., /, etc., †, &amp;, *</em>
 
-### `ADP`
-
-2 [de-pos/ADP]() tokens (0% of all `ADP` tokens) have a non-empty value of `Case`.
-
-`ADP` tokens may have the following values of `Case`:
-
-* `Nom` (2; 100% of non-empty `Case`): <em>als</em>
-* `EMPTY` (30770): <em>in, von, mit, zu, an, auf, für, als, nach, bei</em>
-
 ### `ADV`
 
 2 [de-pos/ADV]() tokens (0% of all `ADV` tokens) have a non-empty value of `Case`.
@@ -217,6 +208,15 @@ The most frequent other feature values with which `VERB` and `Case` co-occurred:
 * `Acc` (1; 50% of non-empty `Case`): <em>mehr</em>
 * `Nom` (1; 50% of non-empty `Case`): <em>Genau</em>
 * `EMPTY` (13689): <em>auch, nur, noch, sehr, so, dort, wieder, heute, hier, jedoch</em>
+
+### `ADP`
+
+2 [de-pos/ADP]() tokens (0% of all `ADP` tokens) have a non-empty value of `Case`.
+
+`ADP` tokens may have the following values of `Case`:
+
+* `Nom` (2; 100% of non-empty `Case`): <em>als</em>
+* `EMPTY` (30770): <em>in, von, mit, zu, an, auf, für, als, nach, bei</em>
 
 ### `SCONJ`
 

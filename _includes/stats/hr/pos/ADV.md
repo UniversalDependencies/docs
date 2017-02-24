@@ -11,22 +11,22 @@ The 10 most frequent `ADV` lemmas: <em>mnogo, samo, još, također, već, kada, 
 
 The 10 most frequent `ADV` types:  <em>samo, više, još, također, već, kada, sada, međutim, tako, uvijek</em>
 
-The 10 most frequent ambiguous lemmas: <em>samo</em> ([ADV]() 299, [PART]() 2, [SCONJ]() 1, [CCONJ]() 1), <em>već</em> ([ADV]() 185, [CCONJ]() 4, [SCONJ]() 1), <em>kada</em> ([ADV]() 175, [SCONJ]() 18), <em>međutim</em> ([ADV]() 141, [SCONJ]() 1), <em>dobro</em> ([ADV]() 140, [NOUN]() 13, [ADJ]() 8), <em>tako</em> ([ADV]() 140, [SCONJ]() 32, [PART]() 2), <em>oko</em> ([ADV]() 119, [ADP]() 73, [NOUN]() 20, [PROPN]() 1, [X]() 1), <em>posto</em> ([ADV]() 107, [NOUN]() 87), <em>kako</em> ([SCONJ]() 995, [ADV]() 100, [PART]() 2, [CCONJ]() 1), <em>uključivati</em> ([ADV]() 71, [VERB]() 40)
+The 10 most frequent ambiguous lemmas: <em>samo</em> ([ADV]() 299, [PART]() 2, [CCONJ]() 1, [SCONJ]() 1), <em>već</em> ([ADV]() 185, [CCONJ]() 4, [SCONJ]() 1), <em>kada</em> ([ADV]() 175, [SCONJ]() 18), <em>međutim</em> ([ADV]() 141, [SCONJ]() 1), <em>dobro</em> ([ADV]() 140, [NOUN]() 13, [ADJ]() 8), <em>tako</em> ([ADV]() 140, [SCONJ]() 32, [PART]() 2), <em>oko</em> ([ADV]() 119, [ADP]() 73, [NOUN]() 20, [X]() 1, [PROPN]() 1), <em>posto</em> ([ADV]() 107, [NOUN]() 87), <em>kako</em> ([SCONJ]() 995, [ADV]() 100, [PART]() 2, [CCONJ]() 1), <em>uključivati</em> ([ADV]() 71, [VERB]() 40)
 
-The 10 most frequent ambiguous types:  <em>samo</em> ([ADV]() 277, [ADJ]() 3, [CCONJ]() 1, [SCONJ]() 1, [PART]() 1), <em>više</em> ([ADV]() 273, [ADP]() 13, [ADJ]() 4, [PART]() 4), <em>već</em> ([ADV]() 175, [CCONJ]() 4, [SCONJ]() 1), <em>kada</em> ([ADV]() 153, [SCONJ]() 11), <em>tako</em> ([ADV]() 114, [SCONJ]() 32, [PART]() 2), <em>oko</em> ([ADV]() 107, [ADP]() 72, [NOUN]() 4, [X]() 1), <em>posto</em> ([ADV]() 107, [NOUN]() 87), <em>kako</em> ([SCONJ]() 956, [ADV]() 91, [PART]() 2, [CCONJ]() 1), <em>dobro</em> ([ADV]() 76, [ADJ]() 24, [NOUN]() 5), <em>gotovo</em> ([ADV]() 58, [ADJ]() 1)
+The 10 most frequent ambiguous types:  <em>samo</em> ([ADV]() 277, [ADJ]() 3, [SCONJ]() 1, [CCONJ]() 1, [PART]() 1), <em>više</em> ([ADV]() 273, [ADP]() 13, [PART]() 4, [ADJ]() 4), <em>već</em> ([ADV]() 175, [CCONJ]() 4, [SCONJ]() 1), <em>kada</em> ([ADV]() 153, [SCONJ]() 11), <em>tako</em> ([ADV]() 114, [SCONJ]() 32, [PART]() 2), <em>oko</em> ([ADV]() 107, [ADP]() 72, [NOUN]() 4, [X]() 1), <em>posto</em> ([ADV]() 107, [NOUN]() 87), <em>kako</em> ([SCONJ]() 956, [ADV]() 91, [PART]() 2, [CCONJ]() 1), <em>dobro</em> ([ADV]() 76, [ADJ]() 24, [NOUN]() 5), <em>gotovo</em> ([ADV]() 58, [ADJ]() 1)
 
 
 * <em>samo</em>
   * [ADV]() 277: <em>Pričinjena šteta <b>samo</b> na infrastrukturi iznosi oko 175 milijuna eura .</em>
   * [ADJ]() 3: <em>" Proći će mnogo godina dok se smanjenje priljeva otpada iz rijeka odrazi na <b>samo</b> more . "</em>
-  * [CCONJ]() 1: <em>Poruka tog proračuna građanima jest da glasaju za sadašnju vlast koja će , ako opet pobijedi na izborima , već 2012. morati dirati u sva ta prava , <b>samo</b> što će za građane tada biti kasno - ističe Darinko Kosor , predsjednik HSLS-a , stranke koja je još donedavno činila dio vladajuće koalicije .</em>
   * [SCONJ]() 1: <em>Ta je izjava autentična , <b>samo</b> što , kada ju je izgovorio , Eduardo nije mislio na Slavena Leticu , već na Slavena Bilića .</em>
+  * [CCONJ]() 1: <em>Poruka tog proračuna građanima jest da glasaju za sadašnju vlast koja će , ako opet pobijedi na izborima , već 2012. morati dirati u sva ta prava , <b>samo</b> što će za građane tada biti kasno - ističe Darinko Kosor , predsjednik HSLS-a , stranke koja je još donedavno činila dio vladajuće koalicije .</em>
   * [PART]() 1: <em>Bilo je <b>samo</b> pitanje vremena kada će se u moru raznih web-aplikacija pojaviti servis koji nudi ekstrakciju podataka iz raznih vrsta arhiva .</em>
 * <em>više</em>
   * [ADV]() 273: <em>Ima samo jedna u Beču , no to je bila <b>više</b> politička odluka .</em>
   * [ADP]() 13: <em>Srbija i Crna Gora pravi su izbor za investiranje iz <b>više</b> razloga .</em>
-  * [ADJ]() 4: <em>I stope incidencije i stope smrtnosti <b>više</b> su u muškaraca nego u žena .</em>
   * [PART]() 4: <em>Kao rezultat toga BiH <b>više</b> neće biti jedina zemlja u Europi koja nema takvu vrstu poreza .</em>
+  * [ADJ]() 4: <em>I stope incidencije i stope smrtnosti <b>više</b> su u muškaraca nego u žena .</em>
 * <em>već</em>
   * [ADV]() 175: <em>Hoćemo li u tome uspjeti ne ovisi samo o nama , <b>već</b> i o našim susjedima .</em>
   * [CCONJ]() 4: <em>Načertanije nisu pamflet <b>već</b> program koji srbijanska politika nekada više , a nekada manje uspješno provodi od XIX . stoljeća do naših dana .</em>

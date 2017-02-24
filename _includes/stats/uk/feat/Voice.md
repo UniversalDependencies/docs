@@ -16,7 +16,7 @@ The feature is used with 2 part-of-speech tags: [uk-pos/ADJ]() (128; 1% instance
 
 128 [uk-pos/ADJ]() tokens (11% of all `ADJ` tokens) have a non-empty value of `Voice`.
 
-The most frequent other feature values with which `ADJ` and `Voice` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (128; 100%), <tt><a href="Degree.html">Degree</a>=EMPTY</tt> (122; 95%), <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (113; 88%), <tt><a href="Aspect.html">Aspect</a>=Perf</tt> (113; 88%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (73; 57%).
+The most frequent other feature values with which `ADJ` and `Voice` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (128; 100%), <tt><a href="Degree.html">Degree</a>=EMPTY</tt> (122; 95%), <tt><a href="Aspect.html">Aspect</a>=Perf</tt> (113; 88%), <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (113; 88%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (73; 57%).
 
 `ADJ` tokens may have the following values of `Voice`:
 

@@ -5,7 +5,7 @@
 ## Treebank Statistics (UD_Galician)
 
 There are 774 `NUM` lemmas (8%), 774 `NUM` types (5%) and 1868 `NUM` tokens (2%).
-Out of 15 observed tags, the rank of `NUM` is: 4 in number of lemmas, 4 in number of types and 10 in number of tokens.
+Out of 16 observed tags, the rank of `NUM` is: 4 in number of lemmas, 4 in number of types and 10 in number of tokens.
 
 The 10 most frequent `NUM` lemmas: <em>2, 1, 5, 3, 2003, 20, 2002, 2005, 2004, 10</em>
 
@@ -49,7 +49,7 @@ The 10 most frequent ambiguous types:  <em>1</em> ([NUM]() 53, [PROPN]() 1), <em
 
 ## Morphology
 
-The form / lemma ratio of `NUM` is 1.000000 (the average of all parts of speech is 1.505536).
+The form / lemma ratio of `NUM` is 1.000000 (the average of all parts of speech is 1.508250).
 
 The 1st highest number of forms (1) was observed with the lemma “$29,3”: <em>$29,3</em>.
 
@@ -57,28 +57,34 @@ The 2nd highest number of forms (1) was observed with the lemma “-0,22”: <em
 
 The 3rd highest number of forms (1) was observed with the lemma “-0,6”: <em>-0,6</em>.
 
-`NUM` does not occur with any features.
+`NUM` occurs with 1 features: [gl-feat/Foreign]() (58; 3% instances)
+
+`NUM` occurs with 1 feature-value pairs: `Foreign=Yes`
+
+`NUM` occurs with 2 feature combinations.
+The most frequent feature combination is `_` (1810 tokens).
+Examples: <em>2, 1, 5, 3, 2003, 20, 2002, 2005, 2004, 10</em>
 
 
 ## Relations
 
-`NUM` nodes are attached to their parents using 13 different relations: [gl-dep/nmod]() (1072; 57% instances), [gl-dep/det]() (324; 17% instances), [gl-dep/nummod]() (110; 6% instances), [gl-dep/dobj]() (77; 4% instances), [gl-dep/nsubj]() (70; 4% instances), [gl-dep/amod]() (66; 4% instances), [gl-dep/dep]() (64; 3% instances), [gl-dep/foreign]() (58; 3% instances), [gl-dep/ccomp]() (15; 1% instances), [gl-dep/cop]() (7; 0% instances), [gl-dep/case]() (3; 0% instances), [gl-dep/aux]() (1; 0% instances), [gl-dep/cc]() (1; 0% instances)
+`NUM` nodes are attached to their parents using 15 different relations: [gl-dep/nmod]() (930; 50% instances), [gl-dep/det]() (324; 17% instances), [gl-dep/obl]() (143; 8% instances), [gl-dep/nummod]() (110; 6% instances), [gl-dep/obj]() (77; 4% instances), [gl-dep/nsubj]() (71; 4% instances), [gl-dep/amod]() (66; 4% instances), [gl-dep/dep]() (64; 3% instances), [gl-dep/flat]() (56; 3% instances), [gl-dep/ccomp]() (17; 1% instances), [gl-dep/case]() (3; 0% instances), [gl-dep/xcomp]() (3; 0% instances), [gl-dep/root]() (2; 0% instances), [gl-dep/aux]() (1; 0% instances), [gl-dep/cc]() (1; 0% instances)
 
-Parents of `NUM` nodes belong to 12 different parts of speech: [NOUN]() (824; 44% instances), [ADP]() (503; 27% instances), [VERB]() (186; 10% instances), [NUM]() (124; 7% instances), [DET]() (107; 6% instances), [PROPN]() (74; 4% instances), [ADV]() (25; 1% instances), [PUNCT]() (16; 1% instances), [ADJ]() (6; 0% instances), [CONJ]() (1; 0% instances), [PRON]() (1; 0% instances), [SCONJ]() (1; 0% instances)
+Parents of `NUM` nodes belong to 12 different parts of speech: [NOUN]() (1122; 60% instances), [VERB]() (272; 15% instances), [NUM]() (157; 8% instances), [DET]() (109; 6% instances), [PROPN]() (84; 4% instances), [ADV]() (45; 2% instances), [ADP]() (43; 2% instances), [ADJ]() (29; 2% instances), [CCONJ]() (2; 0% instances), [ROOT]() (2; 0% instances), [SCONJ]() (2; 0% instances), [PRON]() (1; 0% instances)
 
-1024 (55%) `NUM` nodes are leaves.
+878 (47%) `NUM` nodes are leaves.
 
-228 (12%) `NUM` nodes have one child.
+275 (15%) `NUM` nodes have one child.
 
-336 (18%) `NUM` nodes have two children.
+260 (14%) `NUM` nodes have two children.
 
-280 (15%) `NUM` nodes have three or more children.
+455 (24%) `NUM` nodes have three or more children.
 
 The highest child degree of a `NUM` node is 9.
 
-Children of `NUM` nodes are attached using 15 different relations: [gl-dep/det]() (464; 25% instances), [gl-dep/punct]() (413; 22% instances), [gl-dep/nmod]() (390; 21% instances), [gl-dep/case]() (349; 19% instances), [gl-dep/cc]() (86; 5% instances), [gl-dep/dep]() (66; 4% instances), [gl-dep/advmod]() (28; 2% instances), [gl-dep/ccomp]() (27; 1% instances), [gl-dep/amod]() (26; 1% instances), [gl-dep/dobj]() (6; 0% instances), [gl-dep/foreign]() (3; 0% instances), [gl-dep/nsubj]() (2; 0% instances), [gl-dep/nummod]() (2; 0% instances), [gl-dep/cop]() (1; 0% instances), [gl-dep/mark]() (1; 0% instances)
+Children of `NUM` nodes are attached using 16 different relations: [gl-dep/nmod]() (753; 30% instances), [gl-dep/punct]() (569; 23% instances), [gl-dep/det]() (466; 19% instances), [gl-dep/case]() (437; 17% instances), [gl-dep/cc]() (95; 4% instances), [gl-dep/dep]() (67; 3% instances), [gl-dep/advmod]() (34; 1% instances), [gl-dep/ccomp]() (28; 1% instances), [gl-dep/amod]() (26; 1% instances), [gl-dep/obj]() (6; 0% instances), [gl-dep/flat]() (5; 0% instances), [gl-dep/cop]() (4; 0% instances), [gl-dep/mark]() (3; 0% instances), [gl-dep/xcomp]() (3; 0% instances), [gl-dep/nsubj]() (2; 0% instances), [gl-dep/nummod]() (2; 0% instances)
 
-Children of `NUM` nodes belong to 13 different parts of speech: [DET]() (453; 24% instances), [PUNCT]() (408; 22% instances), [ADP]() (358; 19% instances), [SYM]() (320; 17% instances), [NUM]() (124; 7% instances), [CONJ]() (77; 4% instances), [NOUN]() (35; 2% instances), [ADV]() (28; 2% instances), [VERB]() (24; 1% instances), [ADJ]() (20; 1% instances), [PROPN]() (13; 1% instances), [PRON]() (2; 0% instances), [SCONJ]() (2; 0% instances)
+Children of `NUM` nodes belong to 14 different parts of speech: [PUNCT]() (564; 23% instances), [DET]() (454; 18% instances), [ADP]() (449; 18% instances), [NOUN]() (339; 14% instances), [SYM]() (320; 13% instances), [NUM]() (157; 6% instances), [CCONJ]() (86; 3% instances), [ADV]() (34; 1% instances), [PROPN]() (32; 1% instances), [VERB]() (28; 1% instances), [ADJ]() (24; 1% instances), [PRON]() (5; 0% instances), [AUX]() (4; 0% instances), [SCONJ]() (4; 0% instances)
 
 
 
@@ -93,7 +99,7 @@ The 10 most frequent `NUM` lemmas: <em>primeiro, dous, tres, catro, segundo, 199
 
 The 10 most frequent `NUM` types:  <em>tres, catro, primeira, 1990, cinco, dez, dous, dúas, segunda, 17</em>
 
-The 10 most frequent ambiguous lemmas: <em>segundo</em> ([NUM]() 5, [ADP]() 3), <em>un</em> ([DET]() 265, [PRON]() 17, [NUM]() 4), <em>doce</em> ([NUM]() 2, [ADJ]() 1), <em>2004</em> ([PROPN]() 1, [NUM]() 1)
+The 10 most frequent ambiguous lemmas: <em>segundo</em> ([NUM]() 5, [ADP]() 3), <em>un</em> ([DET]() 265, [PRON]() 17, [NUM]() 4), <em>doce</em> ([NUM]() 2, [ADJ]() 1), <em>2004</em> ([NUM]() 1, [PROPN]() 1)
 
 The 10 most frequent ambiguous types:  <em>un</em> ([DET]() 149, [PRON]() 8, [NUM]() 3), <em>doce</em> ([NUM]() 2, [ADJ]() 1), <em>2004</em> ([PROPN]() 1, [NUM]() 1), <em>segundo</em> ([ADP]() 2, [NUM]() 1), <em>unha</em> ([DET]() 95, [PRON]() 7, [NUM]() 1)
 

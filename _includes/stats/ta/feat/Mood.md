@@ -44,7 +44,7 @@ The most frequent other feature values with which `AUX` and `Mood` co-occurred: 
 
 315 [ta-pos/VERB]() tokens (27% of all `VERB` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="Case.html">Case</a>=EMPTY</tt> (315; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (315; 100%), <tt><a href="Polarity.html">Polarity</a>=Pos</tt> (314; 100%), <tt><a href="Voice.html">Voice</a>=Act</tt> (314; 100%), <tt><a href="Person.html">Person</a>=3</tt> (277; 88%), <tt><a href="Number.html">Number</a>=Sing</tt> (215; 68%), <tt><a href="Tense.html">Tense</a>=Past</tt> (182; 58%), <tt><a href="Polite.html">Polite</a>=EMPTY</tt> (172; 55%).
+The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (315; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (315; 100%), <tt><a href="Voice.html">Voice</a>=Act</tt> (314; 100%), <tt><a href="Polarity.html">Polarity</a>=Pos</tt> (314; 100%), <tt><a href="Person.html">Person</a>=3</tt> (277; 88%), <tt><a href="Number.html">Number</a>=Sing</tt> (215; 68%), <tt><a href="Tense.html">Tense</a>=Past</tt> (182; 58%), <tt><a href="Polite.html">Polite</a>=EMPTY</tt> (172; 55%).
 
 `VERB` tokens may have the following values of `Mood`:
 
@@ -70,7 +70,7 @@ The most frequent other feature values with which `VERB` and `Mood` co-occurred:
 
 1 [ta-pos/PART]() tokens (0% of all `PART` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `PART` and `Mood` co-occurred: <tt><a href="Polarity.html">Polarity</a>=Pos</tt> (1; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (1; 100%).
+The most frequent other feature values with which `PART` and `Mood` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (1; 100%), <tt><a href="Polarity.html">Polarity</a>=Pos</tt> (1; 100%).
 
 `PART` tokens may have the following values of `Mood`:
 

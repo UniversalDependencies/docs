@@ -37,27 +37,6 @@ The following 5 pairs of parts of speech are connected with `advcl`: [kk-pos/VER
 
 
 ~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 10 4 advcl	color:blue
-1	Шешуі	шеш	VERB	v	Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3|VerbForm=Ger	3	xcomp	_	_
-2	деп	деп	X	x	_	3	dep	_	_
-3	атауға	ата	VERB	v	Case=Dat|VerbForm=Ger	4	ccomp	_	_
-4	болатын	бол	VERB	v	Aspect=Imp|VerbForm=Part	10	advcl	_	_
-5	болса	бол	AUX	v	Mood=Cnd|Number=Sing|Person=3|VerbForm=Conv	4	cop	_	SpaceAfter=No
-6	,	,	PUNCT	cm	_	5	punct	_	_
-7	адамның	адам	NOUN	n	Case=Gen	8	nmod:poss	_	_
-8	шешуі	шеш	VERB	v	Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3|VerbForm=Ger	10	nsubj	_	_
-9	жалғыз	жалғыз	ADJ	adj	_	10	amod	_	_
-10	өлім	өлім	NOUN	n	Case=Nom	0	root	_	SpaceAfter=No
-11	.	.	PUNCT	sent	_	10	punct	_	_
-
-~~~
-
-
-~~~ conllu
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 8	bgColor:blue
@@ -80,6 +59,27 @@ The following 5 pairs of parts of speech are connected with `advcl`: [kk-pos/VER
 15	еді	е	AUX	cop	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	14	cop	_	_
 16	Шолпан	Шолпан	PROPN	np	Case=Nom|Gender=Fem	14	nsubj	_	SpaceAfter=No
 17	...	...	PUNCT	sent	_	14	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 10 4 advcl	color:blue
+1	Шешуі	шеш	VERB	v	Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3|VerbForm=Ger	3	xcomp	_	_
+2	деп	деп	X	x	_	3	dep	_	_
+3	атауға	ата	VERB	v	Case=Dat|VerbForm=Ger	4	ccomp	_	_
+4	болатын	бол	VERB	v	Aspect=Imp|VerbForm=Part	10	advcl	_	_
+5	болса	бол	AUX	v	Mood=Cnd|Number=Sing|Person=3|VerbForm=Conv	4	cop	_	SpaceAfter=No
+6	,	,	PUNCT	cm	_	5	punct	_	_
+7	адамның	адам	NOUN	n	Case=Gen	8	nmod:poss	_	_
+8	шешуі	шеш	VERB	v	Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3|VerbForm=Ger	10	nsubj	_	_
+9	жалғыз	жалғыз	ADJ	adj	_	10	amod	_	_
+10	өлім	өлім	NOUN	n	Case=Nom	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	sent	_	10	punct	_	_
 
 ~~~
 

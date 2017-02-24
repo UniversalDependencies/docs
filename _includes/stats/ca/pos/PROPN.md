@@ -11,9 +11,9 @@ The 10 most frequent `PROPN` lemmas: <em>Catalunya, barcelona, Govern, generalit
 
 The 10 most frequent `PROPN` types:  <em>Catalunya, Barcelona, Generalitat, Govern, sant, Ajuntament, Girona, CiU, PP, Josep</em>
 
-The 10 most frequent ambiguous lemmas: <em>generalitat</em> ([NOUN]() 2, [PROPN]() 1), <em>sant</em> ([NOUN]() 3, [PROPN]() 1, [ADJ]() 1), <em>ajuntament</em> ([NOUN]() 131, [PROPN]() 1), <em>estat</em> ([NOUN]() 114, [PROPN]() 5), <em>consell</em> ([NOUN]() 59, [PROPN]() 3), <em>Pla</em> ([PROPN]() 136, [NOUN]() 1), <em>cultura</em> ([NOUN]() 69, [PROPN]() 3), <em>ambient</em> ([NOUN]() 31, [PROPN]() 24, [ADJ]() 2), <em>medi</em> ([NOUN]() 23, [PROPN]() 22), <em>internet</em> ([NOUN]() 20, [PROPN]() 3)
+The 10 most frequent ambiguous lemmas: <em>generalitat</em> ([NOUN]() 2, [PROPN]() 1), <em>sant</em> ([NOUN]() 3, [ADJ]() 1, [PROPN]() 1), <em>ajuntament</em> ([NOUN]() 131, [PROPN]() 1), <em>estat</em> ([NOUN]() 114, [PROPN]() 5), <em>consell</em> ([NOUN]() 59, [PROPN]() 3), <em>Pla</em> ([PROPN]() 136, [NOUN]() 1), <em>cultura</em> ([NOUN]() 69, [PROPN]() 3), <em>ambient</em> ([NOUN]() 31, [PROPN]() 24, [ADJ]() 2), <em>medi</em> ([NOUN]() 23, [PROPN]() 22), <em>internet</em> ([NOUN]() 20, [PROPN]() 3)
 
-The 10 most frequent ambiguous types:  <em>Catalunya</em> ([PROPN]() 706, [NOUN]() 1), <em>Govern</em> ([PROPN]() 398, [NOUN]() 1), <em>sant</em> ([NOUN]() 2, [PROPN]() 1), <em>Ajuntament</em> ([PROPN]() 275, [NOUN]() 2), <em>estat</em> ([AUX]() 475, [NOUN]() 95, [VERB]() 18, [PROPN]() 1), <em>Pla</em> ([PROPN]() 136, [NOUN]() 2), <em>Santa</em> ([PROPN]() 96, [NOUN]() 1), <em>cultura</em> ([NOUN]() 62, [PROPN]() 3), <em>Medi</em> ([PROPN]() 90, [NOUN]() 1), <em>ambient</em> ([NOUN]() 28, [ADJ]() 2, [PROPN]() 2)
+The 10 most frequent ambiguous types:  <em>Catalunya</em> ([PROPN]() 706, [NOUN]() 1), <em>Govern</em> ([PROPN]() 398, [NOUN]() 1), <em>sant</em> ([NOUN]() 2, [PROPN]() 1), <em>Ajuntament</em> ([PROPN]() 275, [NOUN]() 2), <em>estat</em> ([AUX]() 475, [NOUN]() 95, [VERB]() 18, [PROPN]() 1), <em>Pla</em> ([PROPN]() 136, [NOUN]() 2), <em>Santa</em> ([PROPN]() 96, [NOUN]() 1), <em>cultura</em> ([NOUN]() 62, [PROPN]() 3), <em>Medi</em> ([PROPN]() 90, [NOUN]() 1), <em>ambient</em> ([NOUN]() 28, [PROPN]() 2, [ADJ]() 2)
 
 
 * <em>Catalunya</em>
@@ -47,8 +47,8 @@ The 10 most frequent ambiguous types:  <em>Catalunya</em> ([PROPN]() 706, [NOUN]
   * [NOUN]() 1: <em>Segons Josep Amat , vicepresident primer del CILMA . , aquest programa " té com a objectiu preservar els espais perifèrics d' aquestes poblacions , que no són urbanitzables , però que també se 'ls pot treure un rendiment amb la creació de rutes turístiques , i altres activitats compatibles amb el <b>Medi</b> Ambient " .</em>
 * <em>ambient</em>
   * [NOUN]() 28: <em>L' <b>ambient</b> es caldejava .</em>
-  * [ADJ]() 2: <em>" El CILMA té com a principal objectiu dinamitzar , coordinar i impulsar projectes relacionats amb el medi <b>ambient</b> " - sentencia Amat - .</em>
   * [PROPN]() 2: <em>La proposició presentada per Joan Boada , diputat-portaveu d' IC-V , considera que cal donar un ús social i públic a tot l' espai expropiat - no només als habitatges - els anys seixanta , evitant ' una simple cessió dels habitatges per part de Medi <b>ambient</b> a entitats o institucions ' .</em>
+  * [ADJ]() 2: <em>" El CILMA té com a principal objectiu dinamitzar , coordinar i impulsar projectes relacionats amb el medi <b>ambient</b> " - sentencia Amat - .</em>
 
 ## Morphology
 

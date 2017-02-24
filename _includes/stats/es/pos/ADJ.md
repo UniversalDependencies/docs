@@ -13,7 +13,7 @@ The 10 most frequent `ADJ` types:  <em>gran, primera, primer, mismo, mayor, nuev
 
 The 10 most frequent ambiguous lemmas: <em>primero</em> ([ADJ]() 614, [NOUN]() 44, [PROPN]() 27, [ADV]() 23), <em>nuevo</em> ([ADJ]() 396, [PROPN]() 40, [NOUN]() 7, [ADV]() 1), <em>mismo</em> ([ADJ]() 314, [NOUN]() 100, [PRON]() 8, [ADV]() 1), <em>gran</em> ([ADJ]() 266, [PROPN]() 47), <em>mayor</em> ([ADJ]() 226, [NOUN]() 10, [PROPN]() 9, [ADV]() 2, [X]() 1), <em>principal</em> ([ADJ]() 195, [PROPN]() 3, [NOUN]() 2), <em>buen</em> ([ADJ]() 193, [PROPN]() 4, [NOUN]() 1), <em>segundo</em> ([ADJ]() 186, [NOUN]() 46, [PROPN]() 27, [VERB]() 1), <em>último</em> ([ADJ]() 184, [NOUN]() 61, [PROPN]() 2, [X]() 1), <em>pequeño</em> ([ADJ]() 180, [NOUN]() 6, [PROPN]() 2)
 
-The 10 most frequent ambiguous types:  <em>primera</em> ([ADJ]() 236, [NOUN]() 12), <em>primer</em> ([ADJ]() 240, [PROPN]() 1), <em>mismo</em> ([ADJ]() 197, [NOUN]() 52, [PRON]() 3, [ADV]() 1), <em>mayor</em> ([ADJ]() 183, [NOUN]() 4, [PROPN]() 2, [ADV]() 2, [X]() 1), <em>nuevo</em> ([ADJ]() 175, [ADV]() 1), <em>estadounidense</em> ([ADJ]() 151, [NOUN]() 2), <em>total</em> ([ADJ]() 133, [NOUN]() 79), <em>mejor</em> ([ADJ]() 116, [ADV]() 27, [NOUN]() 24), <em>grandes</em> ([ADJ]() 111, [NOUN]() 9), <em>nueva</em> ([ADJ]() 111, [NOUN]() 3)
+The 10 most frequent ambiguous types:  <em>primera</em> ([ADJ]() 236, [NOUN]() 12), <em>primer</em> ([ADJ]() 240, [PROPN]() 1), <em>mismo</em> ([ADJ]() 197, [NOUN]() 52, [PRON]() 3, [ADV]() 1), <em>mayor</em> ([ADJ]() 183, [NOUN]() 4, [ADV]() 2, [PROPN]() 2, [X]() 1), <em>nuevo</em> ([ADJ]() 175, [ADV]() 1), <em>estadounidense</em> ([ADJ]() 151, [NOUN]() 2), <em>total</em> ([ADJ]() 133, [NOUN]() 79), <em>mejor</em> ([ADJ]() 116, [ADV]() 27, [NOUN]() 24), <em>grandes</em> ([ADJ]() 111, [NOUN]() 9), <em>nueva</em> ([ADJ]() 111, [NOUN]() 3)
 
 
 * <em>primera</em>
@@ -30,8 +30,8 @@ The 10 most frequent ambiguous types:  <em>primera</em> ([ADJ]() 236, [NOUN]() 1
 * <em>mayor</em>
   * [ADJ]() 183: <em>Esta obra se erige en la plaza <b>mayor</b> de Bogotá desde 1848 .</em>
   * [NOUN]() 4: <em>El <b>mayor</b> fue quien anunció a Alejandro que Darío había sido arrestado por Besos .</em>
-  * [PROPN]() 2: <em>El paso también conocido con el nombre de " primer y <b>mayor</b> paso bajo el cielo " ( chino : 天下第一 雄关 ) , no debe confundir se con el " Primer Paso bajo el Cielo " ( chino : 天下第一 关 ) , un nombre de el Paso Shanhai en el extremo oriental de la Gran Muralla , cerca de Qinhuangdao , en Hebei .</em>
   * [ADV]() 2: <em>La ubicación en Hobart tiene una tienda que contiene la mayor parte de la línea " Botanic Choice " y también vende productos a el por <b>mayor</b> .</em>
+  * [PROPN]() 2: <em>El paso también conocido con el nombre de " primer y <b>mayor</b> paso bajo el cielo " ( chino : 天下第一 雄关 ) , no debe confundir se con el " Primer Paso bajo el Cielo " ( chino : 天下第一 关 ) , un nombre de el Paso Shanhai en el extremo oriental de la Gran Muralla , cerca de Qinhuangdao , en Hebei .</em>
   * [X]() 1: <em>La ciudad se administra mediante un alcalde ( <b>mayor</b> ) elegido cada cuatro años , y un concejo ( Common Council ) de doce miembros ( alderpersons ) elegidos cada dos años en base a uno por cada uno de los doce distritos electorales municipales .</em>
 * <em>nuevo</em>
   * [ADJ]() 175: <em>Así que debemos dar le la bienvenida a el <b>nuevo</b> sistema .</em>

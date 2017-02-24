@@ -11,9 +11,9 @@ The 10 most frequent `CCONJ` lemmas: <em>i, o, però, ni, sinó, mentre, y, que,
 
 The 10 most frequent `CCONJ` types:  <em>i, o, però, ni, sinó, mentre, y, que, bé, et</em>
 
-The 10 most frequent ambiguous lemmas: <em>però</em> ([CCONJ]() 694, [ADV]() 79, [PROPN]() 1), <em>ni</em> ([CCONJ]() 241, [ADV]() 27), <em>sinó</em> ([CCONJ]() 156, [SCONJ]() 1), <em>mentre</em> ([CCONJ]() 145, [SCONJ]() 89), <em>que</em> ([PRON]() 6414, [SCONJ]() 6036, [CCONJ]() 4, [DET]() 1), <em>bé</em> ([NOUN]() 90, [ADV]() 72, [CCONJ]() 1), <em>et</em> ([CCONJ]() 1, [PROPN]() 1)
+The 10 most frequent ambiguous lemmas: <em>però</em> ([CCONJ]() 694, [ADV]() 79, [PROPN]() 1), <em>ni</em> ([CCONJ]() 241, [ADV]() 27), <em>sinó</em> ([CCONJ]() 156, [SCONJ]() 1), <em>mentre</em> ([CCONJ]() 145, [SCONJ]() 89), <em>que</em> ([PRON]() 6414, [SCONJ]() 6036, [CCONJ]() 4, [DET]() 1), <em>bé</em> ([NOUN]() 90, [ADV]() 72, [CCONJ]() 1), <em>et</em> ([PROPN]() 1, [CCONJ]() 1)
 
-The 10 most frequent ambiguous types:  <em>però</em> ([CCONJ]() 545, [ADV]() 61, [PROPN]() 1), <em>ni</em> ([CCONJ]() 229, [ADV]() 24), <em>sinó</em> ([CCONJ]() 155, [SCONJ]() 1), <em>mentre</em> ([CCONJ]() 132, [SCONJ]() 78), <em>que</em> ([PRON]() 6414, [SCONJ]() 6004, [CCONJ]() 4), <em>bé</em> ([NOUN]() 80, [ADV]() 72, [CCONJ]() 1), <em>et</em> ([PRON]() 10, [CCONJ]() 1, [PROPN]() 1)
+The 10 most frequent ambiguous types:  <em>però</em> ([CCONJ]() 545, [ADV]() 61, [PROPN]() 1), <em>ni</em> ([CCONJ]() 229, [ADV]() 24), <em>sinó</em> ([CCONJ]() 155, [SCONJ]() 1), <em>mentre</em> ([CCONJ]() 132, [SCONJ]() 78), <em>que</em> ([PRON]() 6414, [SCONJ]() 6004, [CCONJ]() 4), <em>bé</em> ([NOUN]() 80, [ADV]() 72, [CCONJ]() 1), <em>et</em> ([PRON]() 10, [PROPN]() 1, [CCONJ]() 1)
 
 
 * <em>però</em>
@@ -39,8 +39,8 @@ The 10 most frequent ambiguous types:  <em>però</em> ([CCONJ]() 545, [ADV]() 61
   * [CCONJ]() 1: <em>El diputat al Congrés per Girona , Jordi de Juan , ha proposat que es constitueixi un consorci de composició paritària entre el Ministeri de Foment , la Generalitat i l' Ajuntament per dur a terme l' ordenació urbanística de la superfície que quedi lliure un cop eliminat el viaducte , <b>bé</b> per a aprofitament urbanístic o bé per a un altre tipus d' ús .</em>
 * <em>et</em>
   * [PRON]() 10: <em>Reconeix , tanmateix , que " la immediatesa <b>et</b> treu perspectiva " .</em>
-  * [CCONJ]() 1: <em>I que cada govern del món tingui la pròpia agència de notícies , que proporciona " informació " , a preus ridículs , a tothom que s' hi abona , i sovint fins i tot a qui no s' hi abona : gratis <b>et</b> amore .</em>
   * [PROPN]() 1: <em>Escenes parlades , escenes cantades i escenes que fan servir totes dues maneres , hi ha de tot a T' estimo , ets perfecte ... ja <b>et</b> canviaré .</em>
+  * [CCONJ]() 1: <em>I que cada govern del món tingui la pròpia agència de notícies , que proporciona " informació " , a preus ridículs , a tothom que s' hi abona , i sovint fins i tot a qui no s' hi abona : gratis <b>et</b> amore .</em>
 
 ## Morphology
 

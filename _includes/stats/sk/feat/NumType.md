@@ -43,7 +43,7 @@ The most frequent other feature values with which `ADV` and `NumType` co-occurre
 
 58 [sk-pos/DET]() tokens (1% of all `DET` tokens) have a non-empty value of `NumType`.
 
-The most frequent other feature values with which `DET` and `NumType` co-occurred: <tt><a href="Poss.html">Poss</a>=EMPTY</tt> (58; 100%), <tt><a href="Number[psor].html">Number[psor]</a>=EMPTY</tt> (58; 100%), <tt><a href="Gender[psor].html">Gender[psor]</a>=EMPTY</tt> (58; 100%), <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (51; 88%), <tt><a href="Gender.html">Gender</a>=Neut</tt> (45; 78%), <tt><a href="Number.html">Number</a>=Sing</tt> (44; 76%), <tt><a href="PronType.html">PronType</a>=Ind</tt> (42; 72%), <tt><a href="Case.html">Case</a>=Acc</tt> (30; 52%).
+The most frequent other feature values with which `DET` and `NumType` co-occurred: <tt><a href="Number[psor].html">Number[psor]</a>=EMPTY</tt> (58; 100%), <tt><a href="Gender[psor].html">Gender[psor]</a>=EMPTY</tt> (58; 100%), <tt><a href="Poss.html">Poss</a>=EMPTY</tt> (58; 100%), <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (51; 88%), <tt><a href="Gender.html">Gender</a>=Neut</tt> (45; 78%), <tt><a href="Number.html">Number</a>=Sing</tt> (44; 76%), <tt><a href="PronType.html">PronType</a>=Ind</tt> (42; 72%), <tt><a href="Case.html">Case</a>=Acc</tt> (30; 52%).
 
 `DET` tokens may have the following values of `NumType`:
 

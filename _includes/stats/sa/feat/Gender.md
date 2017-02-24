@@ -51,7 +51,7 @@ The most frequent other feature values with which `PRON` and `Gender` co-occurre
   <tr><th>Paradigm <i>तद्</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Abl|<a href="Number.html">Number</a>=Sing</tt></td><td>तस्मात्</td><td></td><td>तस्मात्</td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Abl|<a href="Number.html">Number</a>=Plur</tt></td><td>तान्</td><td></td><td></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Number.html">Number</a>=Sing</tt></td><td>तत्, तम्</td><td></td><td></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Number.html">Number</a>=Sing</tt></td><td>तम्, तत्</td><td></td><td></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Number.html">Number</a>=Plur</tt></td><td></td><td></td><td>तानि</td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Dat|<a href="Number.html">Number</a>=Sing</tt></td><td>तस्मै</td><td></td><td></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Number.html">Number</a>=Sing|<a href="Poss.html">Poss</a>=Yes</tt></td><td>तस्य</td><td></td><td></td></tr>
@@ -67,7 +67,7 @@ The most frequent other feature values with which `PRON` and `Gender` co-occurre
 
 59 [sa-pos/VERB]() tokens (25% of all `VERB` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `VERB` and `Gender` co-occurred: <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (59; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (59; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (59; 100%), <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (58; 98%), <tt><a href="Number.html">Number</a>=Sing</tt> (53; 90%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (37; 63%), <tt><a href="Case.html">Case</a>=Nom</tt> (34; 58%).
+The most frequent other feature values with which `VERB` and `Gender` co-occurred: <tt><a href="Person.html">Person</a>=EMPTY</tt> (59; 100%), <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (59; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (59; 100%), <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (58; 98%), <tt><a href="Number.html">Number</a>=Sing</tt> (53; 90%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (37; 63%), <tt><a href="Case.html">Case</a>=Nom</tt> (34; 58%).
 
 `VERB` tokens may have the following values of `Gender`:
 
@@ -150,7 +150,7 @@ The most frequent other feature values with which `PROPN` and `Gender` co-occurr
 
 16 [sa-pos/X]() tokens (80% of all `X` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `X` and `Gender` co-occurred: <tt><a href="Person.html">Person</a>=EMPTY</tt> (16; 100%), <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (16; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (13; 81%), <tt><a href="Case.html">Case</a>=Nom</tt> (11; 69%), <tt><a href="VerbForm.html">VerbForm</a>=EMPTY</tt> (10; 63%).
+The most frequent other feature values with which `X` and `Gender` co-occurred: <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (16; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (16; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (13; 81%), <tt><a href="Case.html">Case</a>=Nom</tt> (11; 69%), <tt><a href="VerbForm.html">VerbForm</a>=EMPTY</tt> (10; 63%).
 
 `X` tokens may have the following values of `Gender`:
 

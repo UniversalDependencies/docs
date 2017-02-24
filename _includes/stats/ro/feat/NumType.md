@@ -45,8 +45,8 @@ The 10 most frequent relations where parent and child node agree in `NumType`:
 <tt>NUM --[<a href="../dep/compound.html">compound</a>]--> NUM</tt> (35; 100%),
 <tt>NUM --[<a href="../dep/parataxis.html">parataxis</a>]--> NUM</tt> (3; 100%),
 <tt>NUM --[<a href="../dep/appos.html">appos</a>]--> NUM</tt> (1; 100%),
+<tt>NUM --[<a href="../dep/fixed.html">fixed</a>]--> NUM</tt> (1; 100%),
 <tt>NUM --[<a href="../dep/acl.html">acl</a>]--> NUM</tt> (1; 100%),
-<tt>NUM --[<a href="../dep/nmod.html">nmod</a>]--> NUM</tt> (1; 100%),
 <tt>NUM --[<a href="../dep/dep.html">dep</a>]--> NUM</tt> (1; 100%),
-<tt>NUM --[<a href="../dep/fixed.html">fixed</a>]--> NUM</tt> (1; 100%).
+<tt>NUM --[<a href="../dep/nmod.html">nmod</a>]--> NUM</tt> (1; 100%).
 

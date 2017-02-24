@@ -114,7 +114,7 @@ The 10 most frequent `ADV` types:  <em>não, mais, também, já, ainda, onde, mu
 
 The 10 most frequent ambiguous lemmas: <em>_</em> ([NOUN]() 51670, [PUNCT]() 37916, [PROPN]() 29660, [ADP]() 27823, [VERB]() 26752, [DET]() 23518, [ADJ]() 13618, [CCONJ]() 9896, [ADV]() 8825, [NUM]() 7639, [PRON]() 6681, [AUX]() 4729, [PART]() 687, [X]() 472)
 
-The 10 most frequent ambiguous types:  <em>não</em> ([ADV]() 1217, [NOUN]() 2), <em>mais</em> ([ADV]() 736, [DET]() 106, [CCONJ]() 4), <em>ainda</em> ([ADV]() 358, [NOUN]() 1), <em>muito</em> ([ADV]() 228, [DET]() 20, [PRON]() 4), <em>depois</em> ([ADV]() 154, [NUM]() 1, [NOUN]() 1), <em>além</em> ([ADV]() 105, [NOUN]() 8), <em>hoje</em> ([ADV]() 129, [NOUN]() 2), <em>assim</em> ([ADV]() 97, [CCONJ]() 1, [PROPN]() 1), <em>só</em> ([ADV]() 112, [ADJ]() 3), <em>bem</em> ([ADV]() 123, [NOUN]() 5, [PART]() 2)
+The 10 most frequent ambiguous types:  <em>não</em> ([ADV]() 1217, [NOUN]() 2), <em>mais</em> ([ADV]() 736, [DET]() 106, [CCONJ]() 4), <em>ainda</em> ([ADV]() 358, [NOUN]() 1), <em>muito</em> ([ADV]() 228, [DET]() 20, [PRON]() 4), <em>depois</em> ([ADV]() 154, [NUM]() 1, [NOUN]() 1), <em>além</em> ([ADV]() 105, [NOUN]() 8), <em>hoje</em> ([ADV]() 129, [NOUN]() 2), <em>assim</em> ([ADV]() 97, [PROPN]() 1, [CCONJ]() 1), <em>só</em> ([ADV]() 112, [ADJ]() 3), <em>bem</em> ([ADV]() 123, [NOUN]() 5, [PART]() 2)
 
 
 * <em>não</em>
@@ -143,8 +143,8 @@ The 10 most frequent ambiguous types:  <em>não</em> ([ADV]() 1217, [NOUN]() 2),
   * [NOUN]() 2: <em>Penso muito en o <b>hoje</b> .</em>
 * <em>assim</em>
   * [ADV]() 97: <em>Por que tratam a gente <b>assim</b> ? "</em>
-  * [CCONJ]() 1: <em>De acordo com as informações fornecidas por Marli Sampaio , que é a presidente de a entidade conhecida como SOS Consumidores , <b>assim</b> que a decisão for publicada en o Diário Oficial de o Estado de São Paulo , as multas já poderão começar a serem aplicadas a os estabelecimento comerciais que não fornecerem as embalagens biodegradáveis ou de papel .</em>
   * [PROPN]() 1: <em>Dessa nova fase de sua carreira destacam - se as canções " Vai ser <b>assim</b> " , de sua autoria e lançada em 1970 , e " Pouco a pouco " , em parceria com César Augusto , sucesso de 1983 .</em>
+  * [CCONJ]() 1: <em>De acordo com as informações fornecidas por Marli Sampaio , que é a presidente de a entidade conhecida como SOS Consumidores , <b>assim</b> que a decisão for publicada en o Diário Oficial de o Estado de São Paulo , as multas já poderão começar a serem aplicadas a os estabelecimento comerciais que não fornecerem as embalagens biodegradáveis ou de papel .</em>
 * <em>só</em>
   * [ADV]() 112: <em>Jandir Sampaio , pai de Bruno , era <b>só</b> cuidados .</em>
   * [ADJ]() 3: <em>" Não há um <b>só</b> lugar em Natal que não tenha a marca de o nosso trabalho .</em>

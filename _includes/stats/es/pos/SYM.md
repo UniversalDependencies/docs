@@ -11,7 +11,7 @@ The 10 most frequent `SYM` lemmas: <em>%, ², km, $, º, °, a, €, m, ª</em>
 
 The 10 most frequent `SYM` types:  <em>%, ², km, $, º, °, a, €, m, ª</em>
 
-The 10 most frequent ambiguous lemmas: <em>²</em> ([SYM]() 299, [X]() 18, [NUM]() 16), <em>km</em> ([NOUN]() 281, [SYM]() 122), <em>$</em> ([SYM]() 79, [NOUN]() 42), <em>º</em> ([SYM]() 56, [NOUN]() 2), <em>°</em> ([SYM]() 40, [PROPN]() 2), <em>a</em> ([ADP]() 8688, [PROPN]() 35, [SYM]() 30, [SCONJ]() 14, [DET]() 12, [AUX]() 1, [X]() 1, [NOUN]() 1), <em>m</em> ([SYM]() 24, [NOUN]() 21, [PROPN]() 4), <em>ª</em> ([SYM]() 24, [PROPN]() 1), <em>/</em> ([PUNCT]() 189, [SYM]() 22), <em>+</em> ([SYM]() 18, [PUNCT]() 1)
+The 10 most frequent ambiguous lemmas: <em>²</em> ([SYM]() 299, [X]() 18, [NUM]() 16), <em>km</em> ([NOUN]() 281, [SYM]() 122), <em>$</em> ([SYM]() 79, [NOUN]() 42), <em>º</em> ([SYM]() 56, [NOUN]() 2), <em>°</em> ([SYM]() 40, [PROPN]() 2), <em>a</em> ([ADP]() 8688, [PROPN]() 35, [SYM]() 30, [SCONJ]() 14, [DET]() 12, [NOUN]() 1, [X]() 1, [AUX]() 1), <em>m</em> ([SYM]() 24, [NOUN]() 21, [PROPN]() 4), <em>ª</em> ([SYM]() 24, [PROPN]() 1), <em>/</em> ([PUNCT]() 189, [SYM]() 22), <em>+</em> ([SYM]() 18, [PUNCT]() 1)
 
 The 10 most frequent ambiguous types:  <em>²</em> ([SYM]() 299, [X]() 18, [NUM]() 16), <em>km</em> ([NOUN]() 280, [SYM]() 120), <em>$</em> ([SYM]() 79, [NOUN]() 42), <em>º</em> ([SYM]() 56, [NOUN]() 2), <em>°</em> ([SYM]() 40, [PROPN]() 2), <em>a</em> ([ADP]() 8431, [SYM]() 21, [SCONJ]() 14, [PROPN]() 7, [DET]() 3, [AUX]() 1), <em>m</em> ([NOUN]() 21, [SYM]() 18), <em>ª</em> ([SYM]() 24, [PROPN]() 1), <em>/</em> ([PUNCT]() 189, [SYM]() 22), <em>+</em> ([SYM]() 18, [PUNCT]() 1)
 
@@ -106,7 +106,7 @@ The 10 most frequent `SYM` types:  <em>', %, 20%, 50%, 60%, 10%, 25%, 30%, 80%, 
 
 The 10 most frequent ambiguous lemmas: <em>'</em> ([SYM]() 84, [PUNCT]() 10), <em>20</em> ([NUM]() 123, [SYM]() 6), <em>10</em> ([NUM]() 77, [SYM]() 4, [NOUN]() 2), <em>25</em> ([NUM]() 59, [SYM]() 4), <em>2.2</em> ([NUM]() 3, [SYM]() 3), <em>95</em> ([NUM]() 10, [SYM]() 3), <em>1.5</em> ([NUM]() 7, [SYM]() 2), <em>15</em> ([NUM]() 74, [SYM]() 2), <em>40</em> ([NUM]() 36, [SYM]() 2, [NOUN]() 2), <em>50</em> ([NUM]() 53, [SYM]() 2)
 
-The 10 most frequent ambiguous types:  <em>'</em> ([SYM]() 84, [PUNCT]() 10), <em>a</em> ([ADP]() 8846, [NOUN]() 6, [SYM]() 2), <em>b</em> ([SYM]() 2, [NOUN]() 1), <em>8</em> ([NUM]() 25, [SYM]() 1), <em>9</em> ([NUM]() 25, [SYM]() 1), <em>c</em> ([NOUN]() 1, [SYM]() 1)
+The 10 most frequent ambiguous types:  <em>'</em> ([SYM]() 84, [PUNCT]() 10), <em>a</em> ([ADP]() 8846, [NOUN]() 6, [SYM]() 2), <em>b</em> ([SYM]() 2, [NOUN]() 1), <em>8</em> ([NUM]() 25, [SYM]() 1), <em>9</em> ([NUM]() 25, [SYM]() 1), <em>c</em> ([SYM]() 1, [NOUN]() 1)
 
 
 * <em>'</em>
@@ -126,8 +126,8 @@ The 10 most frequent ambiguous types:  <em>'</em> ([SYM]() 84, [PUNCT]() 10), <e
   * [NUM]() 25: <em>Este año , el primero tuvo lugar el día <b>9</b> y ayer se celebró el segundo .</em>
   * [SYM]() 1: <em><b>9</b> Como de esta confusión resulta el dogmatismo , que es el final de la animación de la razón , al salvaguardar la preponderancia decisiva de las razones prácticas , la filosofía favorece - el designio de la Naturaleza - , que es el de mantener constantemente despiertas y activas las facultades del sujeto y apartar de él un sueño letárgico .</em>
 * <em>c</em>
-  * [NOUN]() 1: <em>El tercer tipo ( <b>c</b> ) de materiales orgánicos conductores , en los que se encuadra la labor investigadora de los autores , son los llamados complejos de transferencia de carga o , abreviadamente , C .</em>
   * [SYM]() 1: <em>Con propósito de claridad y sistematización , clasificaremos los - metales orgánicos - en los tres tipos fundamentales que actualmente se conocen : a Polímeros orgánicos covalentes ; b Metalomacrociclos poliméricos ; <b>c</b> Complejos de transferencia de carga .</em>
+  * [NOUN]() 1: <em>El tercer tipo ( <b>c</b> ) de materiales orgánicos conductores , en los que se encuadra la labor investigadora de los autores , son los llamados complejos de transferencia de carga o , abreviadamente , C .</em>
 
 ## Morphology
 

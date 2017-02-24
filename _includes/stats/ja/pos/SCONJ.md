@@ -11,15 +11,15 @@ The 10 most frequent `SCONJ` lemmas: て, が, と, ので, ため, ば, たり,
 
 The 10 most frequent `SCONJ` types:  て, が, と, ので, ため, で, ば, たり, ながら, から
 
-The 10 most frequent ambiguous lemmas: て ([SCONJ]() 4473, [PROPN]() 2), が ([ADP]() 3888, [SCONJ]() 700), と ([ADP]() 2949, [SCONJ]() 487), ため ([SCONJ]() 218, [NOUN]() 100), ば ([SCONJ]() 117, [NOUN]() 4), から ([ADP]() 927, [SCONJ]() 53), ところが ([CCONJ]() 9, [SCONJ]() 1), とも ([NOUN]() 30, [SCONJ]() 1, [PROPN]() 1)
+The 10 most frequent ambiguous lemmas: て ([SCONJ]() 4473, [PROPN]() 2), が ([ADP]() 3888, [SCONJ]() 700), と ([ADP]() 2949, [SCONJ]() 487), ため ([SCONJ]() 218, [NOUN]() 100), ば ([SCONJ]() 117, [NOUN]() 4), から ([ADP]() 927, [SCONJ]() 53), ところが ([CCONJ]() 9, [SCONJ]() 1), とも ([NOUN]() 30, [PROPN]() 1, [SCONJ]() 1)
 
-The 10 most frequent ambiguous types:  て ([SCONJ]() 4321, [AUX]() 2, [PROPN]() 2), が ([ADP]() 3887, [SCONJ]() 700), と ([ADP]() 2937, [SCONJ]() 487), ため ([SCONJ]() 218, [NOUN]() 100), で ([ADP]() 2582, [AUX]() 443, [SCONJ]() 135, [CCONJ]() 8, [VERB]() 6), ば ([SCONJ]() 117, [NOUN]() 4), たり ([SCONJ]() 72, [VERB]() 2), から ([ADP]() 927, [SCONJ]() 53), し ([AUX]() 2352, [VERB]() 808, [SCONJ]() 38), に ([ADP]() 5055, [AUX]() 562, [PART]() 32, [SCONJ]() 16)
+The 10 most frequent ambiguous types:  て ([SCONJ]() 4321, [PROPN]() 2, [AUX]() 2), が ([ADP]() 3887, [SCONJ]() 700), と ([ADP]() 2937, [SCONJ]() 487), ため ([SCONJ]() 218, [NOUN]() 100), で ([ADP]() 2582, [AUX]() 443, [SCONJ]() 135, [CCONJ]() 8, [VERB]() 6), ば ([SCONJ]() 117, [NOUN]() 4), たり ([SCONJ]() 72, [VERB]() 2), から ([ADP]() 927, [SCONJ]() 53), し ([AUX]() 2352, [VERB]() 808, [SCONJ]() 38), に ([ADP]() 5055, [AUX]() 562, [PART]() 32, [SCONJ]() 16)
 
 
 * て
   * [SCONJ]() 4321: 私 は 初めて だっ た ん だ けど 思っ <b>て</b> い た より も 魚 は 新鮮 でし た 。
-  * [AUX]() 2: ただし モーション が 大きい ため 相手 が 近く に いる とき は なかなか 打 <b>て</b> ない 。
   * [PROPN]() 2: やがて モデル や CM の 仕事 を 径 <b>て</b> 1978 年 に デビュー する 。
+  * [AUX]() 2: ただし モーション が 大きい ため 相手 が 近く に いる とき は なかなか 打 <b>て</b> ない 。
 * が
   * [ADP]() 3887: ただし 、 50 周年 ソング に 変更 後 は 、 ED も 歌 つき の もの <b>が</b> 使わ れ た 。
   * [SCONJ]() 700: ほとんど は 浅海生 だ <b>が</b> 、 水深 数 百 m ほど の 深海 まで 生息 する もの も いる 。

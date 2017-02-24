@@ -13,7 +13,7 @@ The 10 most frequent `ADV` types:  <em>kā, jau, vēl, tad, kad, tā, tik, kur, 
 
 The 10 most frequent ambiguous lemmas: <em>kā</em> ([SCONJ]() 157, [ADV]() 101, [PART]() 51, [CCONJ]() 7), <em>jau</em> ([ADV]() 93, [PART]() 28), <em>vēl</em> ([ADV]() 88, [PART]() 3), <em>tad</em> ([ADV]() 85, [PART]() 17), <em>tā</em> ([PRON]() 151, [ADV]() 67, [DET]() 37, [PART]() 12, [CCONJ]() 2), <em>tik</em> ([ADV]() 66, [PART]() 4), <em>labi</em> ([ADV]() 36, [PART]() 1), <em>te</em> ([ADV]() 25, [CCONJ]() 7, [PART]() 1), <em>bieži</em> ([ADV]() 17, [ADJ]() 1), <em>pāri</em> ([ADV]() 17, [ADP]() 2)
 
-The 10 most frequent ambiguous types:  <em>kā</em> ([SCONJ]() 151, [ADV]() 60, [PART]() 51, [CCONJ]() 7, [PRON]() 6, [DET]() 1), <em>jau</em> ([ADV]() 88, [PART]() 28), <em>vēl</em> ([ADV]() 81, [PART]() 3), <em>tad</em> ([ADV]() 68, [PART]() 15), <em>tā</em> ([PRON]() 66, [ADV]() 53, [DET]() 25, [PART]() 8, [CCONJ]() 2), <em>tik</em> ([ADV]() 64, [PART]() 3), <em>tur</em> ([ADV]() 27, [VERB]() 2), <em>labi</em> ([ADV]() 24, [ADJ]() 2, [PART]() 1), <em>te</em> ([ADV]() 20, [CCONJ]() 6, [PART]() 1), <em>pāri</em> ([ADV]() 16, [NOUN]() 2, [ADP]() 2)
+The 10 most frequent ambiguous types:  <em>kā</em> ([SCONJ]() 151, [ADV]() 60, [PART]() 51, [CCONJ]() 7, [PRON]() 6, [DET]() 1), <em>jau</em> ([ADV]() 88, [PART]() 28), <em>vēl</em> ([ADV]() 81, [PART]() 3), <em>tad</em> ([ADV]() 68, [PART]() 15), <em>tā</em> ([PRON]() 66, [ADV]() 53, [DET]() 25, [PART]() 8, [CCONJ]() 2), <em>tik</em> ([ADV]() 64, [PART]() 3), <em>tur</em> ([ADV]() 27, [VERB]() 2), <em>labi</em> ([ADV]() 24, [ADJ]() 2, [PART]() 1), <em>te</em> ([ADV]() 20, [CCONJ]() 6, [PART]() 1), <em>pāri</em> ([ADV]() 16, [ADP]() 2, [NOUN]() 2)
 
 
 * <em>kā</em>
@@ -54,8 +54,8 @@ The 10 most frequent ambiguous types:  <em>kā</em> ([SCONJ]() 151, [ADV]() 60, 
   * [PART]() 1: <em>Ziņkāre jaucās ar vieglu nepatiku pret visu apkārtējo un nelāgu nojausmu , ka varbūt šī <b>te</b> , ko redzu , ir tā īstā dzīve , ko gadiem esmu meklējusi nepareizās vietās .</em>
 * <em>pāri</em>
   * [ADV]() 16: <em>- Viņš man <b>pāri</b> nedarīs , - meitene pēkšņi ļoti pārliecināti teica .</em>
-  * [NOUN]() 2: <em>Piesūciniet kokvilnas zeķes ar siltu augu eļļu un uzvelciet tās kājās , un virsū uzvelciet plastikāta maisiņus , bet uz tiem uzvelciet vēl vienu zeķu <b>pāri</b> .</em>
   * [ADP]() 2: <em>Bārmenis uzsauca <b>pāri</b> zālei : - Sanī , tu ko dzersi ?</em>
+  * [NOUN]() 2: <em>Piesūciniet kokvilnas zeķes ar siltu augu eļļu un uzvelciet tās kājās , un virsū uzvelciet plastikāta maisiņus , bet uz tiem uzvelciet vēl vienu zeķu <b>pāri</b> .</em>
 
 ## Morphology
 

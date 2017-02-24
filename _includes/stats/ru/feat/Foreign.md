@@ -16,7 +16,7 @@ The feature is used with 4 part-of-speech tags: [ru-pos/PROPN]() (2024; 0% insta
 
 2024 [ru-pos/PROPN]() tokens (6% of all `PROPN` tokens) have a non-empty value of `Foreign`.
 
-The most frequent other feature values with which `PROPN` and `Foreign` co-occurred: <tt><a href="Number.html">Number</a>=EMPTY</tt> (2014; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (2014; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (2014; 100%), <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (2014; 100%).
+The most frequent other feature values with which `PROPN` and `Foreign` co-occurred: <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (2014; 100%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (2014; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (2014; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (2014; 100%).
 
 `PROPN` tokens may have the following values of `Foreign`:
 
@@ -38,7 +38,7 @@ The most frequent other feature values with which `PROPN` and `Foreign` co-occur
 
 3 [ru-pos/ADJ]() tokens (0% of all `ADJ` tokens) have a non-empty value of `Foreign`.
 
-The most frequent other feature values with which `ADJ` and `Foreign` co-occurred: <tt><a href="Number.html">Number</a>=EMPTY</tt> (3; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (3; 100%), <tt><a href="Degree.html">Degree</a>=EMPTY</tt> (3; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (3; 100%).
+The most frequent other feature values with which `ADJ` and `Foreign` co-occurred: <tt><a href="Number.html">Number</a>=EMPTY</tt> (3; 100%), <tt><a href="Degree.html">Degree</a>=EMPTY</tt> (3; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (3; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (3; 100%).
 
 `ADJ` tokens may have the following values of `Foreign`:
 
@@ -48,7 +48,7 @@ The most frequent other feature values with which `ADJ` and `Foreign` co-occurre
 
 2 [ru-pos/NOUN]() tokens (0% of all `NOUN` tokens) have a non-empty value of `Foreign`.
 
-The most frequent other feature values with which `NOUN` and `Foreign` co-occurred: <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (2; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (2; 100%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (2; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (2; 100%).
+The most frequent other feature values with which `NOUN` and `Foreign` co-occurred: <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (2; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (2; 100%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (2; 100%), <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (2; 100%).
 
 `NOUN` tokens may have the following values of `Foreign`:
 
@@ -66,5 +66,5 @@ The 10 most frequent relations where parent and child node agree in `Foreign`:
 <tt>PROPN --[<a href="../dep/flat.html">flat</a>]--> PROPN</tt> (12; 71%),
 <tt>X --[<a href="../dep/fixed.html">fixed</a>]--> X</tt> (3; 100%),
 <tt>X --[<a href="../dep/conj.html">conj</a>]--> X</tt> (2; 100%),
-<tt>ADJ --[<a href="../dep/flat.html">flat</a>]--> PROPN</tt> (1; 100%).
+<tt>PROPN --[<a href="../dep/flat:name.html">flat:name</a>]--> X</tt> (1; 100%).
 

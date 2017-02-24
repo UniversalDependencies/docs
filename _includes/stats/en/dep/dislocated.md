@@ -15,6 +15,27 @@ The following 2 pairs of parts of speech are connected with `dislocated`: [en-po
 
 
 ~~~ conllu
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 10 5 dislocated	color:blue
+1	anyways	anyways	ADV	RB	_	5	discourse	_	SpaceAfter=No
+2	,	,	PUNCT	,	_	5	punct	_	_
+3	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	_
+4	mezza	mezza	NOUN	NN	Number=Sing	5	compound	_	_
+5	luna	luna	NOUN	NN	Number=Sing	10	dislocated	_	SpaceAfter=No
+6	:	:	PUNCT	:	_	5	punct	_	_
+7	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	9	nsubj	_	_
+8	should	should	AUX	MD	VerbForm=Fin	9	aux	_	_
+9	try	try	VERB	VB	VerbForm=Inf	0	root	_	_
+10	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	9	obj	_	SpaceAfter=No
+11	.	.	PUNCT	.	_	5	punct	_	_
+
+~~~
+
+
+~~~ conllu
 # visual-style 20	bgColor:blue
 # visual-style 20	fgColor:white
 # visual-style 32	bgColor:blue
@@ -56,27 +77,6 @@ The following 2 pairs of parts of speech are connected with `dislocated`: [en-po
 34	over	over	ADP	RP	_	33	compound:prt	_	_
 35	office	office	NOUN	NN	Number=Sing	33	obj	_	SpaceAfter=No
 36	.	.	PUNCT	.	_	14	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 10 5 dislocated	color:blue
-1	anyways	anyways	ADV	RB	_	5	discourse	_	SpaceAfter=No
-2	,	,	PUNCT	,	_	5	punct	_	_
-3	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	_
-4	mezza	mezza	NOUN	NN	Number=Sing	5	compound	_	_
-5	luna	luna	NOUN	NN	Number=Sing	10	dislocated	_	SpaceAfter=No
-6	:	:	PUNCT	:	_	5	punct	_	_
-7	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	9	nsubj	_	_
-8	should	should	AUX	MD	VerbForm=Fin	9	aux	_	_
-9	try	try	VERB	VB	VerbForm=Inf	0	root	_	_
-10	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	9	obj	_	SpaceAfter=No
-11	.	.	PUNCT	.	_	5	punct	_	_
 
 ~~~
 
@@ -232,27 +232,6 @@ The following 4 pairs of parts of speech are connected with `dislocated`: [en-po
 
 
 ~~~ conllu
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 7 10 dislocated	color:blue
-1	It	it	PRON	PE	Number=Sing|Person=3|PronType=Prs	7	nsubj	_	_
-2	can	can	AUX	VM	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	7	aux	_	_
-3	be	be	AUX	VA	VerbForm=Inf	7	cop	_	_
-4	a	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	7	det	_	_
-5	very	very	ADV	B	_	6	advmod	_	_
-6	complicated	complicated	ADJ	A	Degree=Pos	7	amod	_	_
-7	thing	thing	NOUN	S	Number=Sing	0	root	_	SpaceAfter=No
-8	,	,	PUNCT	FF	_	7	punct	_	_
-9	the	the	DET	RD	Definite=Def|PronType=Art	10	det	_	_
-10	ocean	ocean	NOUN	S	Number=Sing	7	dislocated	_	SpaceAfter=No
-11	.	.	PUNCT	FS	_	7	punct	_	_
-
-~~~
-
-
-~~~ conllu
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 6	bgColor:blue
@@ -283,25 +262,41 @@ The following 4 pairs of parts of speech are connected with `dislocated`: [en-po
 
 
 ~~~ conllu
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 2 dislocated	color:blue
+1	Those	that	DET	DD	Number=Plur|PronType=Dem	2	det	_	_
+2	females	female	NOUN	S	Number=Plur	7	dislocated	_	SpaceAfter=No
+3	,	,	PUNCT	FF	_	2	punct	_	_
+4	they	they	PRON	PE	Number=Plur|Person=3|PronType=Prs	7	nsubj	_	SpaceAfter=No
+5	're	be	AUX	VA	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	7	aux	_	_
+6	not	not	PART	PART	Polarity=Neg	5	advmod	_	_
+7	trying	try	VERB	V	VerbForm=Ger	0	root	_	_
+8	to	to	ADP	E	_	7	xcomp	_	SpaceAfter=No
+9	.	.	PUNCT	FS	_	7	punct	_	_
+
+~~~
+
+
+~~~ conllu
 # visual-style 10	bgColor:blue
 # visual-style 10	fgColor:white
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 8 10 dislocated	color:blue
-1	And	and	CCONJ	CC	_	8	cc	_	_
-2	it	it	PRON	PE	Number=Sing|Person=3|PronType=Prs	8	nsubj	_	_
-3	can	can	AUX	VM	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	8	aux	_	_
-4	be	be	AUX	VA	VerbForm=Inf	8	cop	_	_
-5	a	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	8	det	_	_
-6	very	very	ADV	B	_	7	advmod	_	_
-7	complicated	complicated	ADJ	A	Degree=Pos	8	amod	_	_
-8	thing	thing	NOUN	S	Number=Sing	0	root	_	SpaceAfter=No
-9	,	,	PUNCT	FF	_	8	punct	_	_
-10	what	what	PRON	PQ	PronType=Int	8	dislocated	_	_
-11	human	human	ADJ	A	Degree=Pos	12	amod	_	_
-12	health	health	NOUN	S	Number=Sing	10	nsubj	_	_
-13	is	be	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	SpaceAfter=No
-14	.	.	PUNCT	FS	_	8	punct	_	_
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 10 dislocated	color:blue
+1	It	it	PRON	PE	Number=Sing|Person=3|PronType=Prs	7	nsubj	_	_
+2	can	can	AUX	VM	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	7	aux	_	_
+3	be	be	AUX	VA	VerbForm=Inf	7	cop	_	_
+4	a	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	7	det	_	_
+5	very	very	ADV	B	_	6	advmod	_	_
+6	complicated	complicated	ADJ	A	Degree=Pos	7	amod	_	_
+7	thing	thing	NOUN	S	Number=Sing	0	root	_	SpaceAfter=No
+8	,	,	PUNCT	FF	_	7	punct	_	_
+9	the	the	DET	RD	Definite=Def|PronType=Art	10	det	_	_
+10	ocean	ocean	NOUN	S	Number=Sing	7	dislocated	_	SpaceAfter=No
+11	.	.	PUNCT	FS	_	7	punct	_	_
 
 ~~~
 

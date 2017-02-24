@@ -49,25 +49,17 @@ The following 10 pairs of parts of speech are connected with `discourse`: [ro-po
 ~~~ conllu
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 10 1 discourse	color:blue
-1	Dar	dar	CCONJ	Ccssp	Polarity=Pos	10	discourse	_	SpaceAfter=No
-2	,	,	PUNCT	COMMA	_	4	punct	_	_
-3	mă	eu	PRON	Pp1-sa--------w	Case=Acc|Number=Sing|Person=1|PronType=Prs|Strength=Weak	4	expl:pv	_	_
-4	rog	ruga	VERB	Vmip1s	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	10	parataxis	_	SpaceAfter=No
-5	,	,	PUNCT	COMMA	_	4	punct	_	_
-6	pe	pe	ADP	Spsa	AdpType=Prep|Case=Acc	7	case	_	_
-7	duduca	duducă	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	15	obj	_	_
-8	Luluța	Luluța	PROPN	Np	_	7	appos	_	_
-9	nu	nu	PART	Qz	Polarity=Neg	10	advmod	_	_
-10	știți	ști	VERB	Vmip2p	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
-11	unde	unde	ADV	Rw	PronType=Int,Rel	15	advmod	_	SpaceAfter=No
-12	-aș	avea	AUX	Va--1s----y	Number=Sing|Person=1|Variant=Short	13	aux	_	_
-13	putea	putea	VERB	Vmnp	Tense=Pres|VerbForm=Inf	10	ccomp	_	SpaceAfter=No
-14	-o	el	PRON	Pp3fsa--y-----w	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs|Strength=Weak|Variant=Short	15	expl	_	_
-15	găsi	găsi	VERB	Vmnp	Tense=Pres|VerbForm=Inf	13	ccomp	_	SpaceAfter=No
-16	?	?	PUNCT	QUEST	_	10	punct	_	_
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 1 discourse	color:blue
+1	Ei	ei	INTJ	I	_	7	discourse	_	_
+2	bine	bine	ADV	Rgp	Degree=Pos	1	fixed	_	SpaceAfter=No
+3	,	,	PUNCT	COMMA	_	1	punct	_	_
+4	nu	nu	PART	Qz	Polarity=Neg	7	advmod	_	_
+5	a	avea	AUX	Va--3s	Number=Sing|Person=3	7	aux	_	_
+6	fost	fi	AUX	Vmp--sm	Gender=Masc|Number=Sing|VerbForm=Part	7	cop	_	_
+7	așa	așa	ADV	Rgp	Degree=Pos	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	PERIOD	_	7	punct	_	_
 
 ~~~
 

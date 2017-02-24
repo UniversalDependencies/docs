@@ -11,7 +11,7 @@ The 10 most frequent `NOUN` lemmas: <em>año, parte, población, ciudad, vez, pe
 
 The 10 most frequent `NOUN` types:  <em>años, año, parte, población, ciudad, personas, municipio, estado, km, familia</em>
 
-The 10 most frequent ambiguous lemmas: <em>año</em> ([NOUN]() 1022, [PROPN]() 6), <em>parte</em> ([NOUN]() 461, [VERB]() 2, [PROPN]() 1), <em>ciudad</em> ([NOUN]() 391, [PROPN]() 39), <em>vez</em> ([NOUN]() 374, [PROPN]() 1, [X]() 1), <em>persona</em> ([NOUN]() 361, [PROPN]() 2), <em>estado</em> ([NOUN]() 317, [PROPN]() 78, [VERB]() 4), <em>familia</em> ([NOUN]() 312, [PROPN]() 6), <em>país</em> ([NOUN]() 295, [PROPN]() 23), <em>día</em> ([NOUN]() 282, [PROPN]() 12), <em>equipo</em> ([NOUN]() 281, [PROPN]() 2)
+The 10 most frequent ambiguous lemmas: <em>año</em> ([NOUN]() 1022, [PROPN]() 6), <em>parte</em> ([NOUN]() 461, [VERB]() 2, [PROPN]() 1), <em>ciudad</em> ([NOUN]() 391, [PROPN]() 39), <em>vez</em> ([NOUN]() 374, [X]() 1, [PROPN]() 1), <em>persona</em> ([NOUN]() 361, [PROPN]() 2), <em>estado</em> ([NOUN]() 317, [PROPN]() 78, [VERB]() 4), <em>familia</em> ([NOUN]() 312, [PROPN]() 6), <em>país</em> ([NOUN]() 295, [PROPN]() 23), <em>día</em> ([NOUN]() 282, [PROPN]() 12), <em>equipo</em> ([NOUN]() 281, [PROPN]() 2)
 
 The 10 most frequent ambiguous types:  <em>años</em> ([NOUN]() 511, [PROPN]() 3), <em>año</em> ([NOUN]() 500, [PROPN]() 1), <em>parte</em> ([NOUN]() 417, [VERB]() 2), <em>ciudad</em> ([NOUN]() 328, [PROPN]() 2), <em>estado</em> ([NOUN]() 208, [VERB]() 18, [AUX]() 11, [PROPN]() 1), <em>km</em> ([NOUN]() 280, [SYM]() 120), <em>familia</em> ([NOUN]() 273, [PROPN]() 2), <em>forma</em> ([NOUN]() 199, [VERB]() 25), <em>día</em> ([NOUN]() 167, [PROPN]() 1), <em>embargo</em> ([NOUN]() 171, [ADV]() 3)
 

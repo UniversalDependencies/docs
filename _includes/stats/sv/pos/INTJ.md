@@ -13,7 +13,7 @@ The 10 most frequent `INTJ` types:  <em>ja, Jo, nej, ha, ho, Javisst, Jodå, Nå
 
 The 10 most frequent ambiguous lemmas: <em>ja</em> ([INTJ]() 9, [NOUN]() 1), <em>ha</em> ([VERB]() 460, [AUX]() 421, [INTJ]() 2), <em>visst</em> ([ADV]() 3, [INTJ]() 1)
 
-The 10 most frequent ambiguous types:  <em>ja</em> ([INTJ]() 3, [NOUN]() 1), <em>ha</em> ([VERB]() 92, [AUX]() 21, [INTJ]() 1), <em>visst</em> ([ADJ]() 10, [INTJ]() 1, [ADV]() 1)
+The 10 most frequent ambiguous types:  <em>ja</em> ([INTJ]() 3, [NOUN]() 1), <em>ha</em> ([VERB]() 92, [AUX]() 21, [INTJ]() 1), <em>visst</em> ([ADJ]() 10, [ADV]() 1, [INTJ]() 1)
 
 
 * <em>ja</em>
@@ -25,8 +25,8 @@ The 10 most frequent ambiguous types:  <em>ja</em> ([INTJ]() 3, [NOUN]() 1), <em
   * [INTJ]() 1: <em>' Ha <b>ha</b> .</em>
 * <em>visst</em>
   * [ADJ]() 10: <em>Den av makarna som bäst behärskar ett <b>visst</b> område dominerar där .</em>
-  * [INTJ]() 1: <em>Jo <b>visst</b> har vi sjukförsäkring , sex kronor om dagen .</em>
   * [ADV]() 1: <em>Avlöning , säger någon , <b>visst</b> får jag avlöning , min man lägger alla pengarna på bordet då han kommer hem på avlöningsdagen .</em>
+  * [INTJ]() 1: <em>Jo <b>visst</b> har vi sjukförsäkring , sex kronor om dagen .</em>
 
 ## Morphology
 
@@ -76,7 +76,7 @@ The 10 most frequent `INTJ` types:  <em>ja, nej, Jaså, tja, Å, Jamen, nå, tac
 
 The 10 most frequent ambiguous lemmas: <em>_</em> ([NOUN]() 11462, [VERB]() 8134, [ADP]() 7148, [PUNCT]() 6980, [PRON]() 6631, [ADV]() 4925, [ADJ]() 4444, [DET]() 3508, [AUX]() 2803, [CCONJ]() 2463, [SCONJ]() 2183, [PROPN]() 2158, [PART]() 1442, [NUM]() 339, [INTJ]() 143, [X]() 15, [SYM]() 9)
 
-The 10 most frequent ambiguous types:  <em>Å</em> ([INTJ]() 5, [ADP]() 1), <em>nå</em> ([VERB]() 2, [INTJ]() 1), <em>tack</em> ([NOUN]() 2, [INTJ]() 2), <em>skål</em> ([INTJ]() 1, [NOUN]() 1), <em>ursäkta</em> ([VERB]() 1, [INTJ]() 1)
+The 10 most frequent ambiguous types:  <em>Å</em> ([INTJ]() 5, [ADP]() 1), <em>nå</em> ([VERB]() 2, [INTJ]() 1), <em>tack</em> ([INTJ]() 2, [NOUN]() 2), <em>skål</em> ([INTJ]() 1, [NOUN]() 1), <em>ursäkta</em> ([VERB]() 1, [INTJ]() 1)
 
 
 * <em>Å</em>
@@ -86,8 +86,8 @@ The 10 most frequent ambiguous types:  <em>Å</em> ([INTJ]() 5, [ADP]() 1), <em>
   * [VERB]() 2: <em>Att förbli poet under sådana förhållanden är kanske att <b>nå</b> in till politikens hjärta .</em>
   * [INTJ]() 1: <em>Jag fick se en del av dem och ... <b>nå</b> , det ska vi inte tala om nu .</em>
 * <em>tack</em>
-  * [NOUN]() 2: <em>Herr ordförande ! många <b>tack</b> till herr Barzanti .</em>
   * [INTJ]() 2: <em>men <b>tack</b> vare oljeeldningen var det skönt och ombonat inne i husets kokong , som skimrade i varmt röda toner ,</em>
+  * [NOUN]() 2: <em>Herr ordförande ! många <b>tack</b> till herr Barzanti .</em>
 * <em>skål</em>
   * [INTJ]() 1: <em>Nåja -- <b>skål</b> för alla galningar ! sade Wentz och fattade entusiastiskt sitt glas .</em>
   * [NOUN]() 1: <em>Kattluckan skramlade och moster Petunias hand dök upp och sköt in en <b>skål</b> med burksoppa i rummet .</em>

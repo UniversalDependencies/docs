@@ -13,7 +13,7 @@ The 10 most frequent `CCONJ` types:  <em>thì, nhưng, như, là, mà, nếu, r�
 
 The 10 most frequent ambiguous lemmas: <em>như</em> ([CCONJ]() 94, [ADJ]() 9), <em>là</em> ([AUX]() 280, [CCONJ]() 70, [VERB]() 4, [PART]() 1), <em>mà</em> ([CCONJ]() 66, [PART]() 4), <em>rồi</em> ([CCONJ]() 41, [X]() 18, [PART]() 3), <em>nên</em> ([CCONJ]() 35, [VERB]() 10, [X]() 1), <em>hay</em> ([CCONJ]() 25, [X]() 3, [VERB]() 1), <em>còn</em> ([X]() 38, [VERB]() 26, [CCONJ]() 11), <em>cùng</em> ([ADJ]() 42, [CCONJ]() 12, [X]() 3, [ADP]() 2), <em>với</em> ([ADP]() 174, [CCONJ]() 10, [VERB]() 1), <em>chứ</em> ([CCONJ]() 8, [X]() 1, [PART]() 1)
 
-The 10 most frequent ambiguous types:  <em>như</em> ([CCONJ]() 94, [ADJ]() 9), <em>là</em> ([AUX]() 280, [CCONJ]() 70, [VERB]() 4, [PART]() 1), <em>mà</em> ([CCONJ]() 66, [PART]() 4), <em>rồi</em> ([CCONJ]() 41, [X]() 18, [PART]() 3), <em>nên</em> ([CCONJ]() 35, [VERB]() 10, [X]() 1), <em>hay</em> ([CCONJ]() 25, [X]() 3, [VERB]() 1), <em>còn</em> ([X]() 38, [VERB]() 26, [CCONJ]() 11), <em>cùng</em> ([ADJ]() 42, [CCONJ]() 12, [X]() 3, [ADP]() 2), <em>với</em> ([ADP]() 174, [CCONJ]() 10, [VERB]() 1), <em>chứ</em> ([CCONJ]() 8, [PART]() 1, [X]() 1)
+The 10 most frequent ambiguous types:  <em>như</em> ([CCONJ]() 94, [ADJ]() 9), <em>là</em> ([AUX]() 280, [CCONJ]() 70, [VERB]() 4, [PART]() 1), <em>mà</em> ([CCONJ]() 66, [PART]() 4), <em>rồi</em> ([CCONJ]() 41, [X]() 18, [PART]() 3), <em>nên</em> ([CCONJ]() 35, [VERB]() 10, [X]() 1), <em>hay</em> ([CCONJ]() 25, [X]() 3, [VERB]() 1), <em>còn</em> ([X]() 38, [VERB]() 26, [CCONJ]() 11), <em>cùng</em> ([ADJ]() 42, [CCONJ]() 12, [X]() 3, [ADP]() 2), <em>với</em> ([ADP]() 174, [CCONJ]() 10, [VERB]() 1), <em>chứ</em> ([CCONJ]() 8, [X]() 1, [PART]() 1)
 
 
 * <em>như</em>
@@ -54,8 +54,8 @@ The 10 most frequent ambiguous types:  <em>như</em> ([CCONJ]() 94, [ADJ]() 9), 
   * [VERB]() 1: <em>chủ quán hẹn như đinh đóng cột <b>với</b> Bình rằng mai , kia quay lại đây sẽ có .</em>
 * <em>chứ</em>
   * [CCONJ]() 8: <em>Tại sao địa chỉ hắn nhắn tin là vợ Thọ <b>chứ</b> không là người khác ?</em>
-  * [PART]() 1: <em>khi xưa 16 tuổi mình còn dám tình nguyện nhập ngũ để đi đánh Mỹ , giờ có gì phải sợ <b>chứ</b> .</em>
   * [X]() 1: <em>đoàn tàu đó dừng lại , <b>chứ</b> không thì hôm nay tôi đã không có mặt với các bạn tại đây .</em>
+  * [PART]() 1: <em>khi xưa 16 tuổi mình còn dám tình nguyện nhập ngũ để đi đánh Mỹ , giờ có gì phải sợ <b>chứ</b> .</em>
 
 ## Morphology
 

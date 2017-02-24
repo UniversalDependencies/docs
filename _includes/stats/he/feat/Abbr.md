@@ -64,19 +64,11 @@ The most frequent other feature values with which `X` and `Abbr` co-occurred: <t
 
 2 [he-pos/NUM]() tokens (0% of all `NUM` tokens) have a non-empty value of `Abbr`.
 
-The most frequent other feature values with which `NUM` and `Abbr` co-occurred: <tt><a href="Definite.html">Definite</a>=EMPTY</tt> (2; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (2; 100%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (2; 100%).
+The most frequent other feature values with which `NUM` and `Abbr` co-occurred: <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (2; 100%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (2; 100%), <tt><a href="Definite.html">Definite</a>=EMPTY</tt> (2; 100%).
 
 `NUM` tokens may have the following values of `Abbr`:
 
 * `Yes` (2; 100% of non-empty `Abbr`): י"ד, ת"ק
-
-### `CCONJ`
-
-1 [he-pos/CCONJ]() tokens (0% of all `CCONJ` tokens) have a non-empty value of `Abbr`.
-
-`CCONJ` tokens may have the following values of `Abbr`:
-
-* `Yes` (1; 100% of non-empty `Abbr`): ע"ף
 
 ### `ADV`
 
@@ -87,4 +79,12 @@ The most frequent other feature values with which `ADV` and `Abbr` co-occurred: 
 `ADV` tokens may have the following values of `Abbr`:
 
 * `Yes` (1; 100% of non-empty `Abbr`): רצ"ב
+
+### `CCONJ`
+
+1 [he-pos/CCONJ]() tokens (0% of all `CCONJ` tokens) have a non-empty value of `Abbr`.
+
+`CCONJ` tokens may have the following values of `Abbr`:
+
+* `Yes` (1; 100% of non-empty `Abbr`): ע"ף
 

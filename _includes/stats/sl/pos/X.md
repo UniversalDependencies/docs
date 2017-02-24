@@ -11,9 +11,9 @@ The 10 most frequent `X` lemmas: <em>dr., t., d., oz., sv., de, of, P., i., the<
 
 The 10 most frequent `X` types:  <em>dr., t., d., oz., sv., de, of, P., i., the</em>
 
-The 10 most frequent ambiguous lemmas: <em>V.</em> ([X]() 3, [NUM]() 1), <em>da</em> ([SCONJ]() 1598, [PART]() 5, [X]() 2), <em>les</em> ([NOUN]() 9, [X]() 2), <em>a</em> ([CCONJ]() 82, [ADV]() 2, [X]() 1), <em>del</em> ([NOUN]() 112, [X]() 1), <em>do</em> ([ADP]() 322, [X]() 1), <em>in</em> ([CCONJ]() 2937, [ADV]() 4, [X]() 1), <em>life</em> ([NOUN]() 1, [X]() 1), <em>on</em> ([PRON]() 1401, [X]() 1), <em>pa</em> ([CCONJ]() 868, [X]() 1)
+The 10 most frequent ambiguous lemmas: <em>V.</em> ([X]() 3, [NUM]() 1), <em>da</em> ([SCONJ]() 1598, [PART]() 5, [X]() 2), <em>les</em> ([NOUN]() 9, [X]() 2), <em>a</em> ([CCONJ]() 82, [ADV]() 2, [X]() 1), <em>del</em> ([NOUN]() 112, [X]() 1), <em>do</em> ([ADP]() 322, [X]() 1), <em>in</em> ([CCONJ]() 2937, [ADV]() 4, [X]() 1), <em>life</em> ([X]() 1, [NOUN]() 1), <em>on</em> ([PRON]() 1401, [X]() 1), <em>pa</em> ([CCONJ]() 868, [X]() 1)
 
-The 10 most frequent ambiguous types:  <em>de</em> ([X]() 8, [VERB]() 1), <em>sta</em> ([AUX]() 175, [VERB]() 6, [X]() 4), <em>V.</em> ([X]() 3, [NUM]() 1), <em>Les</em> ([PROPN]() 2, [X]() 2), <em>da</em> ([SCONJ]() 1557, [VERB]() 8, [X]() 2, [PART]() 1), <em>mu</em> ([PRON]() 143, [X]() 2), <em>A</em> ([CCONJ]() 29, [NOUN]() 6, [ADV]() 1, [X]() 1), <em>Art</em> ([X]() 1, [PROPN]() 1), <em>Life</em> ([X]() 1, [NOUN]() 1), <em>National</em> ([PROPN]() 2, [X]() 1)
+The 10 most frequent ambiguous types:  <em>de</em> ([X]() 8, [VERB]() 1), <em>sta</em> ([AUX]() 175, [VERB]() 6, [X]() 4), <em>V.</em> ([X]() 3, [NUM]() 1), <em>Les</em> ([PROPN]() 2, [X]() 2), <em>da</em> ([SCONJ]() 1557, [VERB]() 8, [X]() 2, [PART]() 1), <em>mu</em> ([PRON]() 143, [X]() 2), <em>A</em> ([CCONJ]() 29, [NOUN]() 6, [ADV]() 1, [X]() 1), <em>Art</em> ([PROPN]() 1, [X]() 1), <em>Life</em> ([X]() 1, [NOUN]() 1), <em>National</em> ([PROPN]() 2, [X]() 1)
 
 
 * <em>de</em>
@@ -43,8 +43,8 @@ The 10 most frequent ambiguous types:  <em>de</em> ([X]() 8, [VERB]() 1), <em>st
   * [ADV]() 1: <em><b>A</b> veste , koliko žensk takole zapusti svoje partnerje in se potem vrnejo … ?</em>
   * [X]() 1: <em>MEMOIRS OF <b>A</b> WOMAN TRAVELLING ALONE .</em>
 * <em>Art</em>
-  * [X]() 1: <em>Danes je zvrst in vse njene izpeljave bolj znana pod izrazom performans ( Performance <b>Art</b> ) .</em>
   * [PROPN]() 1: <em>Janez Pipan , ravnatelj ljubljanske Drame , mi je zaupal režijo gledališke uspešnice <b>Art</b> , ki jo je napisala naturalizirana Francozinja Yasmina Reza .</em>
+  * [X]() 1: <em>Danes je zvrst in vse njene izpeljave bolj znana pod izrazom performans ( Performance <b>Art</b> ) .</em>
 * <em>Life</em>
   * [X]() 1: <em>Louise Hay v svoji uspešnici You Can Heal Your <b>Life</b> ( Svoje življenje lahko ozdravite sami ) piše :</em>
   * [NOUN]() 1: <em>Harrisonov prijatelj Michael Palin iz ekipe Leteči cirkus Montyja Pytona mu je nekoč namreč potožil , da mu je zmanjkalo denarja za film The <b>Life</b> of Brian .</em>
@@ -104,7 +104,7 @@ The 10 most frequent `X` lemmas: <em>[gap], _, [pause], [speaker:laughter], [aud
 
 The 10 most frequent `X` types:  <em>[gap], [pause], [speaker:laughter], [audience:laughter], [:voice], [all:laughter], s, [incident], j, n</em>
 
-The 10 most frequent ambiguous lemmas: <em>da</em> ([SCONJ]() 342, [PART]() 11, [X]() 1), <em>in</em> ([CCONJ]() 285, [X]() 1, [ADV]() 1), <em>ka</em> ([SCONJ]() 15, [X]() 1), <em>la</em> ([X]() 1, [ADV]() 1), <em>minus</em> ([NOUN]() 4, [X]() 1), <em>od</em> ([ADP]() 49, [X]() 1), <em>ti</em> ([PRON]() 132, [X]() 1, [INTJ]() 1)
+The 10 most frequent ambiguous lemmas: <em>da</em> ([SCONJ]() 342, [PART]() 11, [X]() 1), <em>in</em> ([CCONJ]() 285, [ADV]() 1, [X]() 1), <em>ka</em> ([SCONJ]() 15, [X]() 1), <em>la</em> ([ADV]() 1, [X]() 1), <em>minus</em> ([NOUN]() 4, [X]() 1), <em>od</em> ([ADP]() 49, [X]() 1), <em>ti</em> ([PRON]() 132, [X]() 1, [INTJ]() 1)
 
 The 10 most frequent ambiguous types:  <em>s</em> ([ADP]() 50, [X]() 23), <em>p</em> ([X]() 11, [NOUN]() 1), <em>z</em> ([ADP]() 81, [X]() 10), <em>m</em> ([X]() 8, [INTJ]() 4), <em>do</em> ([ADP]() 55, [X]() 7), <em>v</em> ([ADP]() 306, [X]() 7, [NOUN]() 1), <em>d</em> ([X]() 6, [NOUN]() 1), <em>k</em> ([X]() 6, [ADP]() 4, [SCONJ]() 1), <em>ka</em> ([SCONJ]() 15, [X]() 6), <em>po</em> ([ADP]() 55, [X]() 5)
 

@@ -11,9 +11,9 @@ The 10 most frequent `PROPN` lemmas: 日本, 東京, m, アメリカ, 中国, a,
 
 The 10 most frequent `PROPN` types:  日本, 東京, m, アメリカ, 中国, a, ドイツ, 台湾, km, フランス
 
-The 10 most frequent ambiguous lemmas: アメリカ ([PROPN]() 40, [NOUN]() 2), フランス ([PROPN]() 19, [NOUN]() 1), 文 ([PROPN]() 10, [NOUN]() 9), 米 ([NOUN]() 16, [PROPN]() 7), K ([NOUN]() 6, [PROPN]() 6), 一人 ([ADV]() 8, [PROPN]() 6), 仏 ([PROPN]() 5, [NOUN]() 1), 日 ([NOUN]() 486, [PROPN]() 5), 李 ([PROPN]() 5, [NOUN]() 3), 欧州 ([PROPN]() 5, [NOUN]() 1)
+The 10 most frequent ambiguous lemmas: アメリカ ([PROPN]() 40, [NOUN]() 2), フランス ([PROPN]() 19, [NOUN]() 1), 文 ([PROPN]() 10, [NOUN]() 9), 米 ([NOUN]() 16, [PROPN]() 7), K ([PROPN]() 6, [NOUN]() 6), 一人 ([ADV]() 8, [PROPN]() 6), 仏 ([PROPN]() 5, [NOUN]() 1), 日 ([NOUN]() 486, [PROPN]() 5), 李 ([PROPN]() 5, [NOUN]() 3), 欧州 ([PROPN]() 5, [NOUN]() 1)
 
-The 10 most frequent ambiguous types:  アメリカ ([PROPN]() 40, [NOUN]() 2), フランス ([PROPN]() 19, [NOUN]() 1), 文 ([PROPN]() 10, [NOUN]() 9), 米 ([NOUN]() 16, [PROPN]() 7), K ([PROPN]() 6, [NOUN]() 6), 一人 ([ADV]() 8, [PROPN]() 6), 仏 ([PROPN]() 5, [NOUN]() 1), 日 ([NOUN]() 486, [PROPN]() 5), 李 ([PROPN]() 5, [NOUN]() 3), 欧州 ([PROPN]() 5, [NOUN]() 1)
+The 10 most frequent ambiguous types:  アメリカ ([PROPN]() 40, [NOUN]() 2), フランス ([PROPN]() 19, [NOUN]() 1), 文 ([PROPN]() 10, [NOUN]() 9), 米 ([NOUN]() 16, [PROPN]() 7), K ([NOUN]() 6, [PROPN]() 6), 一人 ([ADV]() 8, [PROPN]() 6), 仏 ([PROPN]() 5, [NOUN]() 1), 日 ([NOUN]() 486, [PROPN]() 5), 李 ([PROPN]() 5, [NOUN]() 3), 欧州 ([PROPN]() 5, [NOUN]() 1)
 
 
 * アメリカ
@@ -29,8 +29,8 @@ The 10 most frequent ambiguous types:  アメリカ ([PROPN]() 40, [NOUN]() 2), 
   * [NOUN]() 16: 男性 は 29,371 <b>米</b> ドル に対して 女性 は 20,701 <b>米</b> ドル の 平均的 な 収入 が ある 。
   * [PROPN]() 7: 欧 <b>米</b> で は 頭文字 を 取っ て 「 SMT 」 と 略 さ れる 。
 * K
-  * [PROPN]() 6: <b>K</b> & amp ; M ライフ サポート カンパニー 第 三 住設 の 自宅 で も ある 。
   * [NOUN]() 6: たとえば グラファイト の 間 に カリウム が 入り込む C 8 <b>K</b> 、 C 21 <b>K</b> 、 C 36 <b>K</b> 、 C 48 <b>K</b> など が ある 。
+  * [PROPN]() 6: <b>K</b> & amp ; M ライフ サポート カンパニー 第 三 住設 の 自宅 で も ある 。
 * 一人
   * [ADV]() 8: 白鵬 は 昨年 春場所 から 11 場所 連続 の <b>一人</b> 横綱 。
   * [PROPN]() 6: 「 ヌーボー ・ グループ 」 の <b>一人</b> で 、 評論家 。
@@ -93,7 +93,7 @@ The 10 most frequent `PROPN` lemmas: _, ロシア-Rossiya, トウキョウ, ム�
 
 The 10 most frequent `PROPN` types:  _
 
-The 10 most frequent ambiguous lemmas: _ ([NOUN]() 52356, [ADP]() 40131, [PUNCT]() 20670, [AUX]() 7362, [SCONJ]() 6334, [NUM]() 6286, [VERB]() 6156, [ADJ]() 2302, [PART]() 1887, [CONJ]() 1517, [PROPN]() 1293, [ADV]() 1200, [SYM]() 865, [PRON]() 102, [DET]() 68, [INTJ]() 8), オオイタ ([PROPN]() 9, [ADV]() 1), カール-Karl ([NOUN]() 1, [PROPN]() 1)
+The 10 most frequent ambiguous lemmas: _ ([NOUN]() 52356, [ADP]() 40131, [PUNCT]() 20670, [AUX]() 7362, [SCONJ]() 6334, [NUM]() 6286, [VERB]() 6156, [ADJ]() 2302, [PART]() 1887, [CONJ]() 1517, [PROPN]() 1293, [ADV]() 1200, [SYM]() 865, [PRON]() 102, [DET]() 68, [INTJ]() 8), オオイタ ([PROPN]() 9, [ADV]() 1), カール-Karl ([PROPN]() 1, [NOUN]() 1)
 
 The 10 most frequent ambiguous types:  _ ([NOUN]() 59392, [ADP]() 40132, [PUNCT]() 20670, [AUX]() 20538, [VERB]() 17383, [NUM]() 7782, [SCONJ]() 6539, [PROPN]() 5774, [ADJ]() 3509, [CONJ]() 1977, [ADV]() 1949, [PART]() 1921, [SYM]() 865, [DET]() 751, [PRON]() 744, [INTJ]() 17)
 

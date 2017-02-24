@@ -196,7 +196,7 @@ The 10 most frequent `PRON` types:  <em>se, které, která, který, to, kterých
 
 The 10 most frequent ambiguous lemmas: <em>který</em> ([PRON]() 321, [DET]() 1), <em>jenž</em> ([PRON]() 54, [DET]() 15), <em>tento</em> ([DET]() 213, [PRON]() 2), <em>žádný</em> ([PRON]() 2, [DET]() 2), <em>některý</em> ([DET]() 4, [PRON]() 1)
 
-The 10 most frequent ambiguous types:  <em>se</em> ([PRON]() 309, [ADP]() 28), <em>kterým</em> ([PRON]() 18, [DET]() 1), <em>je</em> ([AUX]() 133, [PRON]() 8, [VERB]() 7), <em>jehož</em> ([DET]() 4, [PRON]() 1), <em>t</em> ([NOUN]() 1, [PRON]() 1), <em>tímto</em> ([DET]() 3, [PRON]() 1)
+The 10 most frequent ambiguous types:  <em>se</em> ([PRON]() 309, [ADP]() 28), <em>kterým</em> ([PRON]() 18, [DET]() 1), <em>je</em> ([AUX]() 133, [PRON]() 8, [VERB]() 7), <em>jehož</em> ([DET]() 4, [PRON]() 1), <em>t</em> ([PRON]() 1, [NOUN]() 1), <em>tímto</em> ([DET]() 3, [PRON]() 1)
 
 
 * <em>se</em>
@@ -213,8 +213,8 @@ The 10 most frequent ambiguous types:  <em>se</em> ([PRON]() 309, [ADP]() 28), <
   * [DET]() 4: <em>(7) Technické zhodnocení , k <b>jehož</b> účtování a odpisování je oprávněna jiná účetní jednotka než vlastník majetku , se odepíše v průběhu používání technického zhodnocení .</em>
   * [PRON]() 1: <em>(6) Účetní jednotka stanoví , zda bude o všech derivátech účtovat jako o derivátech k obchodování nebo využije možnost účtovat o nich jako o zajišťovacích derivátech v souladu s její strategií řízení finančních rizik ; za derivát se nepovažuje smluvní vztah , <b>jehož</b> předmětem je koupě , prodej nebo užívání komodity , a očekává se jeho splnění dodáním komodity .</em>
 * <em>t</em>
-  * [NOUN]() 1: <em>Odpisová sazba na jednotku těženého množství ( Kč / <b>t</b> , Kč / m je podílem pořizovací ceny ložiska na jednotlivém pozemku a zásob nevyhrazeného nerostu ( t , m prokázaných geologickým průzkumem na tomto pozemku .</em>
   * [PRON]() 1: <em>Odpisová sazba na jednotku těženého množství ( Kč / t , Kč / m je podílem pořizovací ceny ložiska na jednotlivém pozemku a zásob nevyhrazeného nerostu ( <b>t</b> , m prokázaných geologickým průzkumem na tomto pozemku .</em>
+  * [NOUN]() 1: <em>Odpisová sazba na jednotku těženého množství ( Kč / <b>t</b> , Kč / m je podílem pořizovací ceny ložiska na jednotlivém pozemku a zásob nevyhrazeného nerostu ( t , m prokázaných geologickým průzkumem na tomto pozemku .</em>
 * <em>tímto</em>
   * [DET]() 3: <em>(1) Účetní jednotky sestavují v případech stanovených <b>tímto</b> zákonem účetní závěrku .</em>
   * [PRON]() 1: <em>Do okamžiku schválení účetní závěrky , nejpozději však do konce následujícího účetního období , může účetní jednotka pouze z důvodů , že obsah položek účetní závěrky neodpovídá skutečnému stavu , již uzavřené účetní knihy opět otevřít a provést případnou opravu účetních zápisů a sestavit novou účetní závěrku , která se <b>tímto</b> stává účetní závěrkou podle tohoto zákona .</em>

@@ -16,7 +16,7 @@ The feature is used with 2 part-of-speech tags: [sl-pos/NUM]() (1779; 1% instanc
 
 1779 [sl-pos/NUM]() tokens (100% of all `NUM` tokens) have a non-empty value of `NumType`.
 
-The most frequent other feature values with which `NUM` and `NumType` co-occurred: <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (1335; 75%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (1098; 62%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (1098; 62%), <tt><a href="NumForm.html">NumForm</a>=Digit</tt> (1079; 61%).
+The most frequent other feature values with which `NUM` and `NumType` co-occurred: <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (1335; 75%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (1098; 62%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (1098; 62%), <tt><a href="NumForm.html">NumForm</a>=Digit</tt> (1079; 61%).
 
 `NUM` tokens may have the following values of `NumType`:
 
@@ -30,7 +30,7 @@ The most frequent other feature values with which `NUM` and `NumType` co-occurre
 
 295 [sl-pos/ADJ]() tokens (2% of all `ADJ` tokens) have a non-empty value of `NumType`.
 
-The most frequent other feature values with which `ADJ` and `NumType` co-occurred: <tt><a href="Definite.html">Definite</a>=EMPTY</tt> (295; 100%), <tt><a href="Degree.html">Degree</a>=EMPTY</tt> (295; 100%), <tt><a href="VerbForm.html">VerbForm</a>=EMPTY</tt> (295; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (235; 80%).
+The most frequent other feature values with which `ADJ` and `NumType` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=EMPTY</tt> (295; 100%), <tt><a href="Degree.html">Degree</a>=EMPTY</tt> (295; 100%), <tt><a href="Definite.html">Definite</a>=EMPTY</tt> (295; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (235; 80%).
 
 `ADJ` tokens may have the following values of `NumType`:
 
@@ -93,9 +93,9 @@ The most frequent other feature values with which `ADJ` and `NumType` co-occurre
 The 10 most frequent relations where parent and child node agree in `NumType`:
 <tt>NUM --[<a href="../dep/flat.html">flat</a>]--> NUM</tt> (33; 100%),
 <tt>NUM --[<a href="../dep/conj.html">conj</a>]--> NUM</tt> (23; 100%),
-<tt>ADJ --[<a href="../dep/conj.html">conj</a>]--> ADJ</tt> (4; 67%),
 <tt>NUM --[<a href="../dep/fixed.html">fixed</a>]--> NUM</tt> (4; 100%),
+<tt>ADJ --[<a href="../dep/conj.html">conj</a>]--> ADJ</tt> (4; 67%),
 <tt>ADJ --[<a href="../dep/reparandum.html">reparandum</a>]--> ADJ</tt> (2; 100%),
-<tt>NUM --[<a href="../dep/reparandum.html">reparandum</a>]--> NUM</tt> (1; 100%),
-<tt>NUM --[<a href="../dep/nummod.html">nummod</a>]--> NUM</tt> (1; 100%).
+<tt>NUM --[<a href="../dep/nummod.html">nummod</a>]--> NUM</tt> (1; 100%),
+<tt>NUM --[<a href="../dep/reparandum.html">reparandum</a>]--> NUM</tt> (1; 100%).
 

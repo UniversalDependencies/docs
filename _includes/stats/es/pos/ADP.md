@@ -11,9 +11,9 @@ The 10 most frequent `ADP` lemmas: <em>de, en, a, por, con, para, como, entre, d
 
 The 10 most frequent `ADP` types:  <em>de, en, a, por, con, para, como, entre, desde, sobre</em>
 
-The 10 most frequent ambiguous lemmas: <em>de</em> ([ADP]() 32440, [PROPN]() 14, [X]() 8, [VERB]() 6, [DET]() 1), <em>en</em> ([ADP]() 12212, [PROPN]() 5, [X]() 5), <em>a</em> ([ADP]() 8688, [PROPN]() 35, [SYM]() 30, [SCONJ]() 14, [DET]() 12, [AUX]() 1, [X]() 1, [NOUN]() 1), <em>por</em> ([ADP]() 3779, [PROPN]() 2, [SCONJ]() 2, [NOUN]() 1, [VERB]() 1), <em>con</em> ([ADP]() 3616, [PROPN]() 2, [X]() 1), <em>para</em> ([ADP]() 2079, [SCONJ]() 301, [CCONJ]() 12, [X]() 2, [ADV]() 2, [VERB]() 1, [PROPN]() 1), <em>como</em> ([ADP]() 1618, [CCONJ]() 219, [SCONJ]() 120, [ADV]() 58, [VERB]() 2, [PROPN]() 1), <em>entre</em> ([ADP]() 647, [PROPN]() 4, [VERB]() 3), <em>sobre</em> ([ADP]() 490, [PROPN]() 1, [X]() 1), <em>durante</em> ([ADP]() 482, [ADV]() 2)
+The 10 most frequent ambiguous lemmas: <em>de</em> ([ADP]() 32440, [PROPN]() 14, [X]() 8, [VERB]() 6, [DET]() 1), <em>en</em> ([ADP]() 12212, [X]() 5, [PROPN]() 5), <em>a</em> ([ADP]() 8688, [PROPN]() 35, [SYM]() 30, [SCONJ]() 14, [DET]() 12, [NOUN]() 1, [X]() 1, [AUX]() 1), <em>por</em> ([ADP]() 3779, [PROPN]() 2, [SCONJ]() 2, [VERB]() 1, [NOUN]() 1), <em>con</em> ([ADP]() 3616, [PROPN]() 2, [X]() 1), <em>para</em> ([ADP]() 2079, [SCONJ]() 301, [CCONJ]() 12, [X]() 2, [ADV]() 2, [PROPN]() 1, [VERB]() 1), <em>como</em> ([ADP]() 1618, [CCONJ]() 219, [SCONJ]() 120, [ADV]() 58, [VERB]() 2, [PROPN]() 1), <em>entre</em> ([ADP]() 647, [PROPN]() 4, [VERB]() 3), <em>sobre</em> ([ADP]() 490, [X]() 1, [PROPN]() 1), <em>durante</em> ([ADP]() 482, [ADV]() 2)
 
-The 10 most frequent ambiguous types:  <em>de</em> ([ADP]() 32214, [VERB]() 6, [X]() 6), <em>en</em> ([ADP]() 10916, [PROPN]() 5, [X]() 4), <em>a</em> ([ADP]() 8431, [SYM]() 21, [SCONJ]() 14, [PROPN]() 7, [DET]() 3, [AUX]() 1), <em>por</em> ([ADP]() 3559, [SCONJ]() 2, [VERB]() 1, [NOUN]() 1), <em>para</em> ([ADP]() 1975, [SCONJ]() 297, [CCONJ]() 12, [X]() 2, [VERB]() 1), <em>como</em> ([ADP]() 1538, [CCONJ]() 216, [SCONJ]() 100, [ADV]() 56, [VERB]() 2), <em>entre</em> ([ADP]() 588, [VERB]() 3), <em>sobre</em> ([ADP]() 477, [X]() 1), <em>hasta</em> ([ADP]() 456, [ADV]() 25), <em>sin</em> ([ADP]() 315, [PART]() 1)
+The 10 most frequent ambiguous types:  <em>de</em> ([ADP]() 32214, [VERB]() 6, [X]() 6), <em>en</em> ([ADP]() 10916, [PROPN]() 5, [X]() 4), <em>a</em> ([ADP]() 8431, [SYM]() 21, [SCONJ]() 14, [PROPN]() 7, [DET]() 3, [AUX]() 1), <em>por</em> ([ADP]() 3559, [SCONJ]() 2, [NOUN]() 1, [VERB]() 1), <em>para</em> ([ADP]() 1975, [SCONJ]() 297, [CCONJ]() 12, [X]() 2, [VERB]() 1), <em>como</em> ([ADP]() 1538, [CCONJ]() 216, [SCONJ]() 100, [ADV]() 56, [VERB]() 2), <em>entre</em> ([ADP]() 588, [VERB]() 3), <em>sobre</em> ([ADP]() 477, [X]() 1), <em>hasta</em> ([ADP]() 456, [ADV]() 25), <em>sin</em> ([ADP]() 315, [PART]() 1)
 
 
 * <em>de</em>
@@ -34,8 +34,8 @@ The 10 most frequent ambiguous types:  <em>de</em> ([ADP]() 32214, [VERB]() 6, [
 * <em>por</em>
   * [ADP]() 3559: <em>Aun hay otros reclutados <b>por</b> el Ejército Blanco .</em>
   * [SCONJ]() 2: <em>Lo cual es una ventaja , <b>por</b> que como vayas a la sesión de las 22:00 a cualquier cine de las afueras de Valencia no tienes forma de volver con el transporte publico</em>
-  * [VERB]() 1: <em>Actualmente no es concebible la práctica médica sin el uso de algún tipo de delantal ( dependiendo cual sea el contexto de el uso ) , muchos hospitales en la total extensión de el planeta han normado o han asumido la importancia de la normación de el uso de el delantal , <b>por</b> lo tanto ya no sólo es algo un mecanismo ejecutorial o un accesorio , sino que es un ritual pauteado bajo las normativas que se entrecruzan en la totalidad de el mundo de la medicina .</em>
   * [NOUN]() 1: <em>En el 34 <b>por</b> ciento de los casos de abuso repotado , los entrevistados dijeron que fueron los mismos gendarmes quienes cometierron los abusos .</em>
+  * [VERB]() 1: <em>Actualmente no es concebible la práctica médica sin el uso de algún tipo de delantal ( dependiendo cual sea el contexto de el uso ) , muchos hospitales en la total extensión de el planeta han normado o han asumido la importancia de la normación de el uso de el delantal , <b>por</b> lo tanto ya no sólo es algo un mecanismo ejecutorial o un accesorio , sino que es un ritual pauteado bajo las normativas que se entrecruzan en la totalidad de el mundo de la medicina .</em>
 * <em>para</em>
   * [ADP]() 1975: <em>Ir a este colegio , <b>para</b> mí la peor experiencia de mi vida .</em>
   * [SCONJ]() 297: <em>Es necesario que habilite JavaScript <b>para</b> leer los comentarios .</em>
@@ -115,13 +115,13 @@ The 10 most frequent `ADP` types:  <em>de, en, a, del, por, con, para, al, entre
 
 The 10 most frequent ambiguous lemmas: <em>de</em> ([ADP]() 30060, [ADV]() 2, [NOUN]() 1, [AUX]() 1), <em>en</em> ([ADP]() 12632, [NOUN]() 2), <em>a</em> ([ADP]() 9102, [NOUN]() 9, [SYM]() 2), <em>por</em> ([ADP]() 4748, [ADV]() 1), <em>sobre</em> ([ADP]() 811, [NOUN]() 6), <em>desde</em> ([ADP]() 591, [NOUN]() 20), <em>hasta</em> ([ADP]() 528, [ADV]() 43), <em>según</em> ([ADP]() 438, [SCONJ]() 136, [NOUN]() 1), <em>contra</em> ([ADP]() 398, [NOUN]() 60, [PROPN]() 3, [INTJ]() 1), <em>tras</em> ([ADP]() 390, [NOUN]() 1)
 
-The 10 most frequent ambiguous types:  <em>de</em> ([ADP]() 29879, [AUX]() 1, [NOUN]() 1), <em>a</em> ([ADP]() 8846, [NOUN]() 6, [SYM]() 2), <em>por</em> ([ADP]() 4479, [ADV]() 1), <em>para</em> ([ADP]() 3264, [VERB]() 1), <em>entre</em> ([ADP]() 752, [VERB]() 7, [AUX]() 1), <em>sobre</em> ([ADP]() 778, [NOUN]() 3), <em>desde</em> ([ADP]() 522, [NOUN]() 15), <em>hasta</em> ([ADP]() 480, [ADV]() 36), <em>según</em> ([ADP]() 266, [SCONJ]() 108, [NOUN]() 1), <em>contra</em> ([ADP]() 392, [NOUN]() 58, [PROPN]() 3)
+The 10 most frequent ambiguous types:  <em>de</em> ([ADP]() 29879, [NOUN]() 1, [AUX]() 1), <em>a</em> ([ADP]() 8846, [NOUN]() 6, [SYM]() 2), <em>por</em> ([ADP]() 4479, [ADV]() 1), <em>para</em> ([ADP]() 3264, [VERB]() 1), <em>entre</em> ([ADP]() 752, [VERB]() 7, [AUX]() 1), <em>sobre</em> ([ADP]() 778, [NOUN]() 3), <em>desde</em> ([ADP]() 522, [NOUN]() 15), <em>hasta</em> ([ADP]() 480, [ADV]() 36), <em>según</em> ([ADP]() 266, [SCONJ]() 108, [NOUN]() 1), <em>contra</em> ([ADP]() 392, [NOUN]() 58, [PROPN]() 3)
 
 
 * <em>de</em>
   * [ADP]() 29879: <em>- Ya sé qué ocurre - explicó una <b>de</b> mis hijas - .</em>
-  * [AUX]() 1: <em>Llorenç Serra Ferrer trató ayer <b>de</b> restarle a Juan Román Riquelme el protagonismo que había adquirido después de que el Boca Júniors y el Barça anunciaran un principio de acuerdo para su traspaso .</em>
   * [NOUN]() 1: <em>Como máximo , el poliacetileno de alta cristalinidad puede alcanzar una conductividad <b>de</b> .</em>
+  * [AUX]() 1: <em>Llorenç Serra Ferrer trató ayer <b>de</b> restarle a Juan Román Riquelme el protagonismo que había adquirido después de que el Boca Júniors y el Barça anunciaran un principio de acuerdo para su traspaso .</em>
 * <em>a</em>
   * [ADP]() 8846: <em>Estabas arriba con el gozo puesto y <b>a</b> punto de ganar .</em>
   * [NOUN]() 6: <em>Suponen los primeros ( <b>a</b> ) el empleo de polímeros derivados de acetileno o heterociclos a los que se somete a - dopado - .</em>
