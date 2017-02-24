@@ -21,9 +21,6 @@ See [here](release_checklist.html) for the checklist for data contributors.
   It will also collect information such as the list of contributors (we need this metadata for Lindat).
 * <strong>Specific for release 2.0 and the CoNLL shared task:</strong> There will be no test data, and possibly even no training data, if everything what is left needs to be labeled as dev data. However, the dev data should be released in three different forms: 1. the full annotation that we've been always releasing; 2. the form that the systems participating in the shared task will get on input, i.e. raw text without even sentence boundaries; 3. the intermediate form, which is a CoNLL-U file, but it does not contain syntactic annotation, and everything else (sentence segmentation, tokenization, morphology) is predicted by UDPipe. If there is only dev data and no training data, it will have to be processed in the 10-fold fashion.
   * The release script must know the list of treebanks that are included in the shared task. Only these treebanks will have the detokenized and predicted versions mentioned above. Only these treebanks will be also checked again that their repository does not contain the test data. The remaining treebanks (e.g. Coptic, Sanskrit, Tamil) are allowed to include v2 test data.
-* Update the list of licenses for Lindat. See the [LICENSE repository](https://github.com/UniversalDependencies/LICENSE).
-  Send the new list to Lindat so they add it to their menu (they like to get it as a diff file against the previous license;
-  they can be reached at lindat-help@ufal.mff.cuni.cz).
 * Update statistics in the `stats.xml` file in each repository:<br />
   <code>for i in UD_* ; do echo $i ; cd $i ; ( cat *.conllu | ../tools/conllu-stats.pl > stats.xml ) ; git add stats.xml ; git commit -m 'Updated statistics.' ; git push ; cd .. ; echo ; done</code>
 * Run the same script again (but with different settings) and generate the long statistics that are displayed in the docs:
@@ -61,6 +58,9 @@ See [here](release_checklist.html) for the checklist for data contributors.
   And this is how you remove it from Github: `git push origin :refs/tags/r1.3`.
   WARNING: The following command tags all UD repositories, including those that are not part of the current release.<br />
   <code>for i in UD_* docs tools ; do pushd $i ; git tag r1.4 ; git push --tags ; popd ; echo ; done</code>
+* Update the list of licenses for Lindat. See the [LICENSE repository](https://github.com/UniversalDependencies/LICENSE).
+  Send the new list to Lindat so they add it to their menu (they like to get it as a diff file against the previous license;
+  they can be reached at lindat-help@ufal.mff.cuni.cz).
 * Once the Lindat staff make the new license list available in their system, we can
   [create a new Lindat item](https://lindat.mff.cuni.cz/repository/xmlui/submit) for the new version of UD.
   (The server starts by asking you to “select a community”. Choose LINDAT / CLARIN.
