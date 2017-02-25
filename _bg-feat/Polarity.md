@@ -1,12 +1,12 @@
 ---
 layout: feature
-title: 'Negative'
+title: 'Polarity'
 shortdef: 'whether the word can be or is negated'
 ---
 
-Negativeness
+Polarity
 
-Negativeness is typically a feature of [verbs](u-pos/VERB),
+Polarity is typically a feature of [verbs](u-pos/VERB),
 [adjectives](u-pos/ADJ), sometimes also [adverbs](u-pos/ADV) and
 [nouns](u-pos/NOUN) in languages that negate using bound
 morphemes. 
