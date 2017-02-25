@@ -45,14 +45,14 @@ See [here](release_checklist.html) for the checklist for data contributors.
     Note that this is archiving the MarkDown _source code_ of the documentation. See below for archiving the corresponding HTML.
   * The surface form of documentation (i.e. the web content visible to the reader) is automatically generated in a separate Github repository. WARNING! Many folders contain generated files `AUX.html` and `aux.html` (besides `AUX_.html` and `aux_.html`). These should _not_ be included in the package because that might prevent people from unpacking it in MS Windows (although some unpacking programs, like 7zip, will be able to overcome this by simply renaming the file to `_aux.html` before unpacking it). Note furthermore that we currently cannot force Jekyll (the page generator) to make all hyperlinks relative in order for the pages to work well offline. Many hyperlinks will be broken when viewing the pages, and the user will have to open individual pages from the file manager instead. However, it may still be useful to provide the HTML rendering, especially because of the embedded tree visualizations.
 * Make the release packages temporarily available for download somewhere and ask the treebank providers to check them before we archive them in Lindat.
-* Tag the current commit in all repositories with the tag of the current release (`git tag r1.3` for UD 1.3).
+* Tag the current commit in all repositories with the tag of the current release (`git tag r2.0` for UD 2.0).
   Push the tag to Github: `git push origin --tags`.
-  You may even tag a particular commit retroactively: `git tag -a r1.3 9fceb02`.
+  You may even tag a particular commit retroactively: `git tag -a r2.0 9fceb02`.
   If the repository is updated after you assigned the tag and you need to re-assign the tag to a newer commit,
-  this is how you remove the tag from where it is now: `git tag -d r1.3`.
-  And this is how you remove it from Github: `git push origin :refs/tags/r1.3`.
+  this is how you remove the tag from where it is now: `git tag -d r2.0`.
+  And this is how you remove it from Github: `git push origin :refs/tags/r2.0`.
   WARNING: The following command tags all UD repositories, including those that are not part of the current release.<br />
-  <code>for i in UD_* docs tools ; do pushd $i ; git tag r1.4 ; git push --tags ; popd ; echo ; done</code>
+  <code>for i in UD_* docs tools ; do echo $i ; cd $i ; git tag r2.0 ; git push --tags ; cd .. ; echo ; done</code>
 * Update the list of licenses for Lindat. See the [LICENSE repository](https://github.com/UniversalDependencies/LICENSE).
   Send the new list to Lindat so they add it to their menu (they like to get it as a diff file against the previous license;
   they can be reached at lindat-help@ufal.mff.cuni.cz).
