@@ -35,6 +35,8 @@ See [here](release_checklist.html) for the checklist for data contributors.
   <code>for i in UD_* ; do echo $i ; cd $i ; if ( git status | grep conflict ) ; then echo XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX CONFLICT XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX ; else echo OK ; fi ; cd .. ; echo ; done</code>
 * After resolving the conflicts do not forget to checkout the `dev` branch again! (If there were no conflicts, we are already back in `dev`.)<br />
   <code>for i in UD_* ; do echo $i ; cd $i ; git checkout dev ; cd .. ; echo ; done</code>
+* Generate raw text files from all CoNLL-U files. At present we do not maintain the raw files in the Github repositories. We only generate them for the release (they are needed in the CoNLL shared task) and then remove them again.<br />
+  <code>for i in UD_* ; do echo $i ; cd $i ; l=$(ls | grep ud-dev.conllu | perl -e '$x=<STDIN>; $x =~ m/(\S+)-ud-dev\.conllu/; print $1;') ; if [ "$l" = "" ] ; then echo Unknown language code ; else for j in *.conllu ; do ../tools/conllu_to_text.pl --lang $l < $j > $(basename $j .conllu).txt ; done ; fi ; cd .. ; done</code>
 * The following steps are now performed by the script <tt>tools/package_ud_release.sh</tt>.
   You must first open the script and manually modify the RELEASE number on one of the initial lines! (This should become a
   command-line argument in the future.)
