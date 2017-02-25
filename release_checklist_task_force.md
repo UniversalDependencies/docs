@@ -34,7 +34,7 @@ See [here](release_checklist.html) for the checklist for data contributors.
 * Check for conflicts from the previous step. If people misbehaved and pushed commits to `master`, even after a revert automatic merging may no longer be possible. We must resolve all conflicts manually before going on! The conflicted repositories are still switched to the `master` branch and git will not allow any further operations with them!<br />
   <code>for i in UD_* ; do echo $i ; cd $i ; if ( git status | grep conflict ) ; then echo XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX CONFLICT XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX ; else echo OK ; fi ; cd .. ; echo ; done</code>
 * After resolving the conflicts do not forget to checkout the `dev` branch again! (If there were no conflicts, we are already back in `dev`.)<br />
-  <code>for i in UD_* ; do pushd $i ; git checkout dev ; popd ; echo ; done</code>
+  <code>for i in UD_* ; do echo $i ; cd $i ; git checkout dev ; cd .. ; echo ; done</code>
 * The following steps are now performed by the script <tt>tools/package_ud_release.sh</tt>.
   You must first open the script and manually modify the RELEASE number on one of the initial lines! (This should become a
   command-line argument in the future.)
