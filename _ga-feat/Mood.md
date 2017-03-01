@@ -43,5 +43,5 @@ In Irish, the subjunctive mood is used to express a wish, or something that is n
 #### Examples
 
 * _Go <b>n-imí</b> an diabhal do bhóthar_ "<b>May</b> the devil <b>be</b> gone from your way"
-* _go <b>raibh</b> sé_ "that he <b>was</b>"
+* _I nDáil na bhFlaitheas go <b>raibh</b> sé_ "that he <b>was</b>"
 * _gan stoc a <b>shéide</b>_ "without a trumpet to <b>blow</b>"
