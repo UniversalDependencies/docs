@@ -28,20 +28,22 @@ The conditional mood is used to express actions that are hypothetical or contrar
 
 ### `Imp` : imperative mood
 
-The imperative mood is used to give a command, express advice, or make a request. The imperative in Irish can be found in all 3 persons, both singular and plural, though the 1st person singular is usually 
+The imperative mood is used to give a command, express advice, or make a request. 
 
 ####  Examples
 
 * _<b>Ná habair</b> liom_ "<b>Don't tell</b> me"
 * _<b>bígí</b> ar ais anseo_ "<b>be</b> back here"
-* _<b>Chuiridís</b> oilithrigh amach_ "<b>they sent</b> the pilgrims out"
+* _<b>Chuiridís</b> oilithrigh amach_ "let them <b>send</b> the pilgrims out"
 
 ### `Sub` : subjunctive mood
 
-In Irish, the subjunctive mood is used to express a wish, or something that is not directly stated to be factual. It is normally formed with the particle <b>go</b> followed by the verb in the subjunctive form.
+In Irish, the subjunctive mood is used to express a wish, or something that is not directly stated to be factual. It is normally formed with the particle <b>go</b> (positive) or <b>nár</b> (negative) followed by the verb in the subjunctive form. <b>Sula</b> 'before' is sometimes also used.
 
 #### Examples
 
 * _Go <b>n-imí</b> an diabhal do bhóthar_ "<b>May</b> the devil <b>be</b> gone from your way"
 * _I nDáil na bhFlaitheas go <b>raibh</b> sé_ "that he <b>was</b>"
+* _
+* _
 * _gan stoc a <b>shéide</b>_ "without a trumpet to <b>blow</b>"
