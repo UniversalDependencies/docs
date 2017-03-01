@@ -66,7 +66,8 @@ the [UD mailing list](http://stp.lingfil.uu.se/mailman/listinfo/ud).
 
 The data is released through LINDAT/CLARIN.
 
-* Version 1.4 treebanks are available at <a href="http://hdl.handle.net/11234/1-1827">http://hdl.handle.net/11234/1-1827</a>. 64 treebanks, 47 languages, released November 15, 2016.
+* Version 2.0 treebanks are available at <a href="http://hdl.handle.net/11234/1-1976">http://hdl.handle.net/11234/1-1976</a>. 70 treebanks, 50 languages, released March 1, 2017.
+* Version 1.4 treebanks are archived at http://hdl.handle.net/11234/1-1827. 64 treebanks, 47 languages, released November 15, 2016.
 * Version 1.3 treebanks are archived at http://hdl.handle.net/11234/1-1699. 54 treebanks, 40 languages, released May 15, 2016.
 * Version 1.2 treebanks are archived at http://hdl.handle.net/11234/1-1548. 37 treebanks, 33 languages, released Nov 15, 2015.
 * Version 1.1 treebanks are archived at http://hdl.handle.net/11234/LRT-1478. 19 treebanks, 18 languages, released May 15, 2015.
