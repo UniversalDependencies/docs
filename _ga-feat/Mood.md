@@ -13,8 +13,8 @@ The indicative mood can be considered the default form of a verb. A verb in the 
 #### Examples
 
 * _<b>deirim</b>_ "I say"
-* _<b>Conas atá sé?</b>_ "How is he?"
-* _<b>Breacfaidh mé síos</b>_ "I will jot down"
+* _Conas <b>atá</b> sé?_ "How is he?"
+* _<b>Breacfaidh</b> mé <b>síos</b>_ "I will <b>jot down</b>"
 
 ### `Cnd` : conditional mood
 
@@ -22,7 +22,7 @@ The conditional mood is used to express actions that are hypothetical or contrar
 
 #### Examples
 
-* _<b>ólfadh sé</b>_ "he would drink"
+* _<b>ólfadh</b> sé_ "he would drink"
 * _<b>Dá bhfeicfeá</b>_ "if you saw"
 * _<b>go bhfeicfeadh sé</b>_ "that he would see"
 
