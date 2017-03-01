@@ -12,30 +12,30 @@ Cardinal numbers can be divided into those without nouns (used in counting, givi
 
 #### Examples
 
-##### Without reference to nouns:
+##### Counting, etc.:
 * _<b>a haon</b>_ "one"
 * _<b>a seacht</b>_ "seven"
 * _<b>a sé</b> a chlog_ "six o' clock"
 
-##### With reference to nouns:
+##### Numbers qualifying nouns:
 * _<b>dhá</b> bhliain_ "two years"
 * _<b>naoi</b> gcapall <b>déag</b>_ "nineteen horses"
 * _<b>seasca</b> punt_ "sixty pounds"
 
 ### `Pers` : personal numerals
 
-The personal numerals are used for counting people. This system of counting differs from that used with other nouns in the numbers 1 - 12, after that, the form is the same as the cardinal form, or a combination of the two forms.
+The personal numerals are used for counting people. From numbers 1-12 this system of counting differs from that used with other nouns, after that, the form is the same as the cardinal form, or a combination of the two forms.
 
 #### Examples
 
-* _<b>duine amháin</b>_ "one person"
+* _duine <b>amháin</b>_ "one person"
 * _<b>beirt</b>_ "two people"
 * _<b>aon</b> bhean <b>dhéag</b>_ "eleven women"
 * _<b>seasca</b> fear_ "sixty men"
 
 ### `Ord` : ordinal numbers
 
-Ordinal numbers provide a label to objects to order them. In Irish, the form uses the definite particle <b>an</b>. (see [Definite]()). The English abbreviation "th" appended to a numeral, is given in Irish as <b>ú</b>.
+Ordinal numbers can be used to show order of items. In Irish, the form uses the definite particle <b>an</b>. (see [Definite]()). The English abbreviation "th" appended to a numeral, is given in Irish as <b>ú</b>.
 
 #### Examples
 
