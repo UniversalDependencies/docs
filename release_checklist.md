@@ -77,6 +77,7 @@ The readme file contains metadata used to generate the overview table on the UD 
 
 The table on the front page is automatically generated from special lines in the `README.txt` or `README.md` file for every language. This means that in order to add a new language, also its repository must be created, minimally with the readme file. Here is an example of the language metadata block from the [Finnish README file](https://github.com/UniversalDependencies/UD_Finnish/blob/master/README.txt) 
 
+    === Machine-readable metadata (DO NOT REMOVE!) ================================
     Documentation status: complete
     Data source: semi-automatic
     Data available since: UD v1.0
@@ -84,6 +85,7 @@ The table on the front page is automatically generated from special lines in the
     Genre: blog wiki legal news fiction
     Contributors: Ginter, Filip; Kanerva, Jenna; Laippala, Veronika; Missilä, Anna; Pyysalo, Sampo
     Contact: turku@treebank.org
+    ===============================================================================
 
 This block can be anywhere in the readme file. The properties are as follows:
 
