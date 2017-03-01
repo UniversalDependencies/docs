@@ -14,10 +14,10 @@ Cardinal numbers can be divided into those without nouns (used in counting, givi
 
 * _<b>a haon</b>_ "one"
 * _<b>a seacht</b>_ "seven"
-* _<b>a sé a chlog</b>_ "six o' clock"
-* _<b>dhá bhliain</b>_ "two years"
-* _<b>naoi gcapall déag</b>_ "nineteen horses"
-* _<b>seasca punt</b>_ "sixty pounds"
+* _<b>a sé</b> a chlog_ "six o' clock"
+* _<b>dhá</b> bhliain_ "two years"
+* _<b>naoi</b> gcapall <b>déag</b>_ "nineteen horses"
+* _<b>seasca</b> punt_ "sixty pounds"
 
 ### `Pers` : personal numerals
 
@@ -27,15 +27,15 @@ The personal numerals are used for counting people. This system of counting diff
 
 * _<b>duine amháin</b>_ "one person"
 * _<b>beirt</b>_ "two people"
-* _<b>aon bhean dhéag</b>_ "eleven women"
-* _<b>seasca fear</b>_ "sixty men"
+* _<b>aon</b> bhean <b>dhéag</b>_ "eleven women"
+* _<b>seasca</b> fear_ "sixty men"
 
 ### `Ord` : ordinal numbers
 
-Ordinal numbers provide a label to objects to order them. In Irish, the form uses the definite particle <b>an</b>. (see [Definite]())
+Ordinal numbers provide a label to objects to order them. In Irish, the form uses the definite particle <b>an</b>. (see [Definite]()). The English abbreviation "th" appended to a numeral, is given in Irish as <b>ú</b>.
 
 #### Examples
 
-* _<b>an chéad lá</b>_ "the first day"
-* _<b>an dara dóigh</b>_ "the second prospect"
-* _<b>an 17ú Marta</b>_ "the 17th of March"
+* _<b>an chéad</b> lá_ "the first day"
+* _<b>an dara</b> dóigh_ "the second prospect"
+* _<b>an 17ú</b> Marta_ "the 17th of March"
