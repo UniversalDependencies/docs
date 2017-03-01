@@ -12,9 +12,12 @@ Cardinal numbers can be divided into those without nouns (used in counting, givi
 
 #### Examples
 
+##### Without reference to nouns:
 * _<b>a haon</b>_ "one"
 * _<b>a seacht</b>_ "seven"
 * _<b>a sé</b> a chlog_ "six o' clock"
+
+##### With reference to nouns:
 * _<b>dhá</b> bhliain_ "two years"
 * _<b>naoi</b> gcapall <b>déag</b>_ "nineteen horses"
 * _<b>seasca</b> punt_ "sixty pounds"
@@ -23,7 +26,7 @@ Cardinal numbers can be divided into those without nouns (used in counting, givi
 
 The personal numerals are used for counting people. This system of counting differs from that used with other nouns in the numbers 1 - 12, after that, the form is the same as the cardinal form, or a combination of the two forms.
 
-### Examples
+#### Examples
 
 * _<b>duine amháin</b>_ "one person"
 * _<b>beirt</b>_ "two people"
