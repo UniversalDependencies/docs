@@ -44,6 +44,7 @@ The genitive case indicates possesion or ownership. It's use is similar to the u
 
 * _dearadh an <b>stáitse</b>_ "outloook of the <b>state</b>"
 * _mac an <b>fhir</b>_ "son of the <b>man</b>"
+* _an <b>Aontais Eorpaigh</b>_ "the European Union"
 
 ### `Dat` : dative case
 
