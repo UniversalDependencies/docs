@@ -22,9 +22,9 @@ The conditional mood is used to express actions that are hypothetical or contrar
 
 #### Examples
 
-* _<b>ólfadh</b> sé_ "he would drink"
-* _<b>Dá bhfeicfeá</b>_ "if you saw"
-* _<b>go bhfeicfeadh sé</b>_ "that he would see"
+* _<b>ólfadh</b> sé_ "he <b>would drink</b>"
+* _Dá <b>bhfeicfeá</b>_ "if you <b>saw</b>"
+* _go <b>bhfeicfeadh</b> sé_ "that he <b>would see</b>"
 
 ### `Imp` : imperative mood
 
@@ -32,9 +32,9 @@ The imperative mood is used to give a command, express advice, or make a request
 
 ####  Examples
 
-* _<b>Ná habair liom</b>_ "Don't tell me"
-* _<b>bígí ar ais anseo</b>_ "be back here"
-* _<b>Chuiridís oilithrigh amach</b>_ "they sent the pilgrims out"
+* _<b>Ná habair</b> liom_ "<b>Don't tell</b> me"
+* _<b>bígí</b> ar ais anseo_ "<b>be</b> back here"
+* _<b>Chuiridís</b> oilithrigh amach_ "<b>they sent</b> the pilgrims out"
 
 ### `Sub` : subjunctive mood
 
@@ -42,6 +42,6 @@ In Irish, the subjunctive mood is used to express a wish, or something that is n
 
 #### Examples
 
-* _<b>Go n-imí an diabhal do bhóthar</b>_ "May the devil be gone from your way"
-* _<b>go raibh sé</b>_ "that he be"
-* _<b>na Roinne Oideachais</b>_ "the Departement of Education"
+* _Go <b>n-imí</b> an diabhal do bhóthar_ "<b>May</b> the devil <b>be</b> gone from your way"
+* _go <b>raibh</b> sé_ "that he <b>was</b>"
+* _gan stoc a <b>shéide</b>_ "without a trumpet to <b>blow</b>"
