@@ -34,6 +34,11 @@ In Bulgarian the auxiliary verbs are varieties of the verb 'to be':
 
 _Modal verbs_ count as [main verbs](VERB) in BulTreeBank tagset and they are thus tagged `VERB`.
 
+Also, the following verbal particles (Tx) are viewed as auxiliaries:
+
+- _да_ / _da_ "to" 
+- _ще_ / _shte_ "will"
+
 
 ### Examples
 
