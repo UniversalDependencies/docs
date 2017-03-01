@@ -4,11 +4,11 @@ title: 'Number'
 shortdef: 'number'
 ---
 
-Number is an inflectional feature of nouns and other parts of speech (adjectives, verbs) that mark agreement with nouns.
+Number is an inflectional feature of nouns and other parts of speech (verbs, articles) that mark agreement with nouns.
 
 ### `Sing`:singular
 
-A singular noun denotes one person, animal or thing. Adjectives and referents must also be singular to agree with them.
+A singular noun (or pronoun) denotes one person, animal or thing. Adjectives and referents must also be singular to agree with them.
 
 #### Examples
 
@@ -18,7 +18,7 @@ A singular noun denotes one person, animal or thing. Adjectives and referents mu
 
 ### `Plur`:plural
 
-A plural noun denotes several persons, animals or things. Adjectives and referents must also be in the plural to agree with them.
+A plural noun (or pronoun) denotes several persons, animals or things. Adjectives and referents must also be in the plural to agree with them.
 
 #### Examples
 
