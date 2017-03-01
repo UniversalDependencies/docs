@@ -12,5 +12,5 @@ The autonomous voice is formed with a different verb ending: <b>-t(e)ar</b> in t
 
 #### Examples
 
-* _<b>Tugadh an bhreith</b>_ "the verdict was given"
-* _<b>rugadh iníon óg rua d'Eithne</b>_ "a young redheaded daughter was born to Eithne"
+* _<b>Tugadh</b> an bhreith_ "the verdict <b>was given</b>"
+* _<b>rugadh</b> iníon óg rua d'Eithne_ "a young redheaded daughter <b>was born</b> to Eithne"
