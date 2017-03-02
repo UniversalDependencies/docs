@@ -73,8 +73,8 @@ See [here](release_checklist.html) for the checklist for data contributors.
 <small><code style='color:lightgrey'>
 path=$(pwd) ;
 cd /net/data ;
-tar xzf $path/release-1.4/ud-treebanks-v1.4.tgz ;
-mv ud-treebanks-v1.4 universal-dependencies-1.4 ;
+tar xzf $path/release-2.0/ud-treebanks-v2.0.tgz ;
+mv ud-treebanks-v2.0 universal-dependencies-2.0 ;
 cd $HAMLEDT ;
 perl ./populate_ud14.pl
 \# copy metadata to biblio
