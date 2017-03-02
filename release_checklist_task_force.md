@@ -76,7 +76,7 @@ cd /net/data ;
 tar xzf $path/release-2.0/ud-treebanks-v2.0.tgz ;
 mv ud-treebanks-v2.0 universal-dependencies-2.0 ;
 cd $HAMLEDT ;
-perl ./populate_ud14.pl
+perl ./populate_ud20.pl
 \# copy metadata to biblio
 </code></small>
 
