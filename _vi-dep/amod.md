@@ -10,6 +10,7 @@ NP.
 <pre><code class="language-sdparse">Nam ăn cá sống 。
 amod(cá, sống)
 det:pmod(Cô, ấy)
+dobj(ăn, cá)
 nsubj(ăn, Nam)
 punct(ăn, 。)
 </code></pre>
