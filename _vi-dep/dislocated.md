@@ -4,5 +4,14 @@ title: 'dislocated'
 shortdef: 'dislocated elements'
 ---
 
-This document is a placeholder for the language-specific documentation
-for `dislocated`.
+The dislocated relation is used for fronted or postposed elements that do not fulfill the usual core
+grammatical relations of a sentence. These elements often appear to be in the periphery of the
+sentence, and may be separated off with a comma intonation.
+
+<pre><code class="language-sdparse">Cây này , lá to 。
+dislocated(to, Cây)
+det:pmod(Cây, này)
+nsubj(to, lá)
+punct(to, ,)
+punct(to, 。)
+</code></pre>
