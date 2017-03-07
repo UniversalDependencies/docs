@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-03-03T22:50:39Z">2017-03-03T22:50:39 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-03-07T00:02:44Z">2017-03-07T00:02:44 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -206,31 +206,25 @@ python ../../tools/validate.py --lang eu ../../UD-dev-branches/UD_Basque/eu-ud-t
 <span class="doublewidespan" style="padding-left:3em">UD Belarusian</span>
 <span class="widespan">be</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-03-02T10:06:28Z">2017-03-02T10:06:28 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-03-07T00:02:43Z">2017-03-07T00:02:43 zulu</time></span>
 </div>
 <div>
 <pre>
-python ../../tools/validate_repo_metadata.py ../../UD-dev-branches/UD_Belarusian
-
-
-
-******************
-
-python ../../tools/validate.py --lang be ../../UD-dev-branches/UD_Belarusian/be-ud-dev.conllu
+python tools/validate.py --lang be UD-dev-branches/UD_Belarusian/be-ud-dev.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python ../../tools/validate.py --lang be ../../UD-dev-branches/UD_Belarusian/be-ud-test.conllu
+python tools/validate.py --lang be UD-dev-branches/UD_Belarusian/be-ud-test.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python ../../tools/validate.py --lang be ../../UD-dev-branches/UD_Belarusian/be-ud-train.conllu
+python tools/validate.py --lang be UD-dev-branches/UD_Belarusian/be-ud-train.conllu
 
 *** PASSED ***
 
