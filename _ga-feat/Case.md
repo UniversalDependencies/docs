@@ -4,7 +4,7 @@ title: 'Case'
 shortdef: 'case'
 ---
 
-Case is an inflectional feature of nouns and other parts of speech (adjectives) that mark agreement with nouns.
+Case is an inflectional feature of nouns and other parts of speech (adjectives, verbs, articles) that mark agreement with nouns.
 
 In Irish four cases are used: common (which covers nominative and accusative case), vocative, genitive and dative. These cases are labelled respectively as `NomAcc`, `Voc`, `Gen`, and `Dat`.
 
