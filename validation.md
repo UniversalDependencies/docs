@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-03-07T00:02:44Z">2017-03-07T00:02:44 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-03-07T00:04:18Z">2017-03-07T00:04:18 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -205,28 +205,60 @@ python ../../tools/validate.py --lang eu ../../UD-dev-branches/UD_Basque/eu-ud-t
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD Belarusian</span>
 <span class="widespan">be</span>
-<span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-03-07T00:02:43Z">2017-03-07T00:02:43 zulu</time></span>
+<span class="validationfail">FAIL</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-03-07T00:04:18Z">2017-03-07T00:04:18 zulu</time></span>
 </div>
 <div>
 <pre>
 python tools/validate.py --lang be UD-dev-branches/UD_Belarusian/be-ud-dev.conllu
 
-*** PASSED ***
+[Line                   137]: Unknown UD DEPREL: advmod:discourse
+[Line                   289]: Unknown UD DEPREL: advmod:discourse
+*** FAILED *** with 2 errors
+Syntax errors: 2
 
 
 ******************
 
 python tools/validate.py --lang be UD-dev-branches/UD_Belarusian/be-ud-test.conllu
 
-*** PASSED ***
+[Line                   283]: Unknown UD DEPREL: advmod:discourse
+[Line                   360]: Unknown UD DEPREL: advmod:discourse
+[Line                   393]: Unknown UD DEPREL: advmod:discourse
+[Line                   426]: Unknown UD DEPREL: advmod:discourse
+[Line                   483]: Unknown UD DEPREL: advmod:discourse
+[Line                   513]: Unknown UD DEPREL: advmod:discourse
+[Line                   833]: Unknown UD DEPREL: advmod:discourse
+[Line                   854]: Unknown UD DEPREL: advmod:discourse
+[Line                   1273]: Unknown UD DEPREL: advmod:discourse
+*** FAILED *** with 9 errors
+Syntax errors: 9
 
 
 ******************
 
 python tools/validate.py --lang be UD-dev-branches/UD_Belarusian/be-ud-train.conllu
 
-*** PASSED ***
+[Line                   442]: Unknown UD DEPREL: advmod:discourse
+[Line                   469]: Unknown UD DEPREL: advmod:discourse
+[Line                   615]: Unknown UD DEPREL: advmod:discourse
+[Line                   752]: Unknown UD DEPREL: advmod:discourse
+[Line                   1026]: Unknown UD DEPREL: advmod:discourse
+[Line                   1104]: Unknown UD DEPREL: advmod:discourse
+[Line                   1143]: Unknown UD DEPREL: advmod:discourse
+[Line                   1179]: Unknown UD DEPREL: advmod:discourse
+[Line                   1478]: Unknown UD DEPREL: advmod:discourse
+[Line                   1479]: Unknown UD DEPREL: advmod:discourse
+[Line                   1530]: Unknown UD DEPREL: advmod:discourse
+[Line                   1555]: Unknown UD DEPREL: advmod:discourse
+[Line                   2312]: Unknown UD DEPREL: advmod:discourse
+[Line                   3006]: Unknown UD DEPREL: advmod:discourse
+[Line                   3295]: Unknown UD DEPREL: advmod:discourse
+[Line                   3333]: Unknown UD DEPREL: advmod:discourse
+[Line                   3702]: Unknown UD DEPREL: advmod:discourse
+[Line                   3835]: Unknown UD DEPREL: advmod:discourse
+*** FAILED *** with 18 errors
+Syntax errors: 18
 
 
 ******************
