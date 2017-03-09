@@ -25,6 +25,6 @@ Localizers (also known as 方位詞 / _fāngwèicí_), typically indicate spa
 
 ### Examples
 
-- 在 / zài, 對 / duì, 跟 / gēn, 用 / yòng, 幫 / bāng, 為了 / wèile, etc. (coverbs)
-- 把 / bǎ, 將 / jiāng, 被 / bèi (valence markers)
-- (之)上 / (zhī)shàng, (以)下 / (yǐ)xià, 內 / nèi, 後 / hòu, 前 / qián, 中 / zhōng, 時 / shí, etc. (localizers)
+- 在 / _zài_, 對 / _duì_, 跟 / _gēn_, 用 / _yòng_, 幫 / _bāng_, 為了 / _wèile_, etc. (coverbs)
+- 把 / _bǎ_, 將 / _jiāng_, 被 / _bèi_ (valence markers)
+- (之)上 / _(zhī)shàng_, (以)下 / _(yǐ)xià_, 內 / _nèi_, 後 / _hòu_, 前 / _qián_, 中 / _zhōng_, 時 / _shí_, etc. (localizers)
