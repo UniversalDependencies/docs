@@ -9,9 +9,9 @@ udver: '2'
 
 Adverbs (副詞 / _fùcí_) typically modify verbs, adjectives, and other adverbs for such categories as time, manner, degree, frequency, or negation.
 
-- 你 <b>慢慢/ADV</b> 説/VERB / _nǐ <b>mànman</b> shuō_ "Speak slowly."
-- 她 <b>非常/ADV</b> 快樂/ADJ / _tā <b>fēicháng</b> kuàilè_ "She is extremely happy."
-- 他們 <b>很/ADV</b> <b>早/ADV</b> 起來 / _tāmen <b>hěn</b> <b>zǎo</b> qǐlái_ "They get up very early."
+- 你 <b>慢慢</b>/ADV 説/VERB / _nǐ <b>mànman</b> shuō_ "Speak slowly."
+- 她 <b>非常</b>/ADV 快樂/ADJ / _tā <b>fēicháng</b> kuàilè_ "She is extremely happy."
+- 他們 <b>很</b>/ADV <b>早</b>/ADV 起來/VERB / _tāmen <b>hěn</b> <b>zǎo</b> qǐlái_ "They get up very early."
 
 Some adverbs also modify clauses with conjunctive and discursive functions.
 
