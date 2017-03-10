@@ -4,5 +4,14 @@ title: 'PronType'
 shortdef: 'pronominal type'
 ---
 
-This document is a placeholder for the language-specific documentation
-for `PronType`.
+### `Art` : articles
+
+### `Dem` : demonstrative
+
+### `Ind` : indefinite
+
+### `Int` : interrogative
+
+### `Prs` : person
+
+### `Rel` : relative
