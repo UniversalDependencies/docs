@@ -14,9 +14,9 @@ These compounds run the range of:
   - (equivalents of these in other languages may be labeled with `compound:lvc`) 
 - (ii) neither the verb or noun can be considered the semantic head (i.e., an exocentric compound)
   - e.g., 讀␣書 / _dú-shū_ read-book "study"
-- (iii) situations where the verb carries the semantic weight over a redundant or relatively empty noun
-  - e.g., 睡␣覺 / _shuì-jiào_ sleep-sense "sleep"
-  - in the example, the noun 覺 no longer has a modern lexical usage and the verb 睡 can be used on its own to convey the same meaning
+- (iii) situations where the verb carries the semantic weight over a relatively empty noun or the noun is semantically redundant
+  - e.g., 睡␣覺 / _shuì-jiào_ sleep(verb)-sleep(noun) "sleep"
+  - in the example, the noun 覺 no longer has a modern lexical usage independently and the verb 睡 can be used on its own to convey the same meaning
 
 All of the above cases have the same syntactic distribution, where the object behaves like a direct object of the verb. Verb-object compounds never take another object as direct object, and the object can be separated from the verb as in regular non-compound situations. 
 
