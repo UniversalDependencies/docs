@@ -43,7 +43,7 @@ we adopt an extension of the original CoNLL-X token indexing scheme, where words
 while (multiword) tokens are indexed with integer ranges like 1-2 or 3-5. 
 Lines representing such tokens are inserted before the first word in the range.
 These ranges must be nonempty and must not overlap.
-They have a FORM value – the string that occurs in the sentence – but have an underscore in all the remaining fields
+They have a FORM value – the string that occurs in the sentence – but have an underscore in all the remaining fields except MISC
 (because the token represents multiple words, each with its own lemma, part-of-speech tag, syntactic head, and so on). 
 This is illustrated in the following annotation snippet,
 showing only the first three fields for the Spanish sentence _vámonos al mar_ (let's go to the sea):
@@ -70,20 +70,6 @@ We extract the raw token sequence by skipping all integer IDs that are included 
     3-4    al        _
     5      mar       mar		
 
-<!--To facilitate the use of CoNLL-U treebanks, we provide a script that extracts either the annotated _word_ sequence (with
-the original integer IDs) or the raw _token_ sequence with a heuristic mapping of morphological and syntactic annotation and plain integer indexing (like [the traditional CoNLL-X format](http://ilk.uvt.nl/conll/#dataformat)). Moreover, to 
-facilitate parser evaluation for languages with nondeterministic word segmentation, we also provide a mapping to a format
-where tokens are indexed with integers and words (if needed) with decimals. We refer to this scheme as _token indexing,_
-in contrast to the _word indexing_ scheme used as the offical treebank representation. Our running example looks as follows with token indexing:
-
-    1      vámonos   _
-    1.1    vamos     ir
-    1.2    nos       nosotros
-    2      al        _
-    2.1    a         a
-    2.2    el        el
-    3      mar       mar		
--->
 To accommodate the use of empty nodes for the analysis of ellipsis in the enhanced dependency representation, we adopt
 a further extension of the indexing scheme from v2. It is possible to insert one or more empty nodes indexed _i_.1, _i_.2, etc. immediately after a word with index _i_ (where _i_ = 0 for sentence-initial empty nodes). Note that the the numbers after the decimal point must form a sequence starting at 1, i.e. it is not allowed to skip _i_.1 and use _i_.2. Here is an example showing the use of an empty node in the analysis of the sentence _Sue likes coffee and Bill tea_:
 
