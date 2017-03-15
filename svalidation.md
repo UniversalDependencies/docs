@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- Syntactic validation'
 udver:  '2'
 ---
 
-Regenerated <time class="timeago" datetime="2017-03-13T04:20:10Z">2017-03-13T04:20:10 zulu</time>
+Regenerated <time class="timeago" datetime="2017-03-15T21:23:45Z">2017-03-15T21:23:45 zulu</time>
 
 # Aux chain
 
@@ -7962,6 +7962,9 @@ Search expression: `NOUN <case _`
 <tr><td>UD_Catalan</td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=NOUN+%3Ccase+_&db=UD_Catalan-dev">306</a></td>
 </tr>
+<tr><td>UD_Coptic</td>
+<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=NOUN+%3Ccase+_&db=UD_Coptic-dev">1</a></td>
+</tr>
 <tr><td>UD_Croatian</td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=NOUN+%3Ccase+_&db=UD_Croatian-dev">20</a></td>
 </tr>
@@ -8100,6 +8103,13 @@ Search expression: `NOUN <case _`
 </div>
 <div>
 <a href="http://bionlp-www.utu.fi/dep_search/query?search=NOUN+%3Ccase+_&db=UD_Catalan-dev">Go to search</a><p/>
+</div>
+<div>
+<span class="doublewidespan" style="padding-left:3em">UD_Coptic</span>
+<span class="widespan">1 hits</span>
+</div>
+<div>
+<a href="http://bionlp-www.utu.fi/dep_search/query?search=NOUN+%3Ccase+_&db=UD_Coptic-dev">Go to search</a><p/>
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_Croatian</span>

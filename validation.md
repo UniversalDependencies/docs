@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-03-13T04:20:27Z">2017-03-13T04:20:27 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-03-15T21:23:55Z">2017-03-15T21:23:55 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -307,25 +307,25 @@ No data
 <span class="doublewidespan" style="padding-left:3em">UD Coptic</span>
 <span class="widespan">cop</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-03-08T17:14:44Z">2017-03-08T17:14:44 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-03-15T21:23:55Z">2017-03-15T21:23:55 zulu</time></span>
 </div>
 <div>
 <pre>
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang cop /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Coptic/cop-ud-dev.conllu
+python tools/validate.py --lang cop UD-dev-branches/UD_Coptic/cop-ud-dev.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang cop /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Coptic/cop-ud-test.conllu
+python tools/validate.py --lang cop UD-dev-branches/UD_Coptic/cop-ud-test.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang cop /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Coptic/cop-ud-train.conllu
+python tools/validate.py --lang cop UD-dev-branches/UD_Coptic/cop-ud-train.conllu
 
 *** PASSED ***
 
