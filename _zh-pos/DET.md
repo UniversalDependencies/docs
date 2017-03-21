@@ -2,7 +2,7 @@
 layout: postag
 title: 'DET'
 shortdef: 'determiner'
-udver: '2
+udver: '2'
 ---
 
 ### Definition
