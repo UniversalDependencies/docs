@@ -12,6 +12,7 @@ This feature appears most commonly as an `inifitive` construction, which functio
 The infinitive verb form functions as a noun. The inifitive is always preceded by a particle or a preposition. Following a particle, the verb form takes lenition.
 
 #### Examples
+
 ##### Introduced by particle
 * _a d<b>h</b>éanamh_ "to do"
 * _a c<b>h</b>ur_ "to put"
@@ -43,6 +44,7 @@ The copula verb form usually functions as a copula verb, though it can also be u
 The participle verb form functions as an adjective. It can be used to modify the head noun, or to introduce an adjectival predicate complement. (see [xcomp:pred](ga-dep/xcomp:pred)) The participle is usually inflected by adding the suffix <b>-te</b> (<b>-the</b>) or <b>-ta</b> (<b>-tha</b>) to the lemma. 
 
 #### Examples
+
 ##### Adjectival modifier
 * _Gailge <b>briste</b>_ "<b>broken</b> Irish"
 * _na ndaoine <b>fásta</b>_ "the adults" _lit. "the <b>grown</b> people"_
@@ -58,6 +60,7 @@ The participle verb form functions as an adjective. It can be used to modify the
 Verbal nouns are nouns that take the form of a verb. They may be used to introduce a clausal complement, (see [xcomp](ga-dep/xcomp)), as a conjunct, or as a root of the sentence. The noun is preceded by the preposition <b>ag</b> which loosely translates to "in the process of" in this situation.
 
 #### Examples
+
 * _beidh Máire Andrews <b>ag insint</b> scéalta difriúla_ "Mary Andrews will be <b>telling</b> different stories"
 * _bhí Bhreandán <b>ag caitheamh</b> a chuid airgid_ "Brendan was <b>spending</b> his money"
 * _Bhí Éamonn <b>ag obair</b> go lánaimsireach_ "Eamon was <b>working</b> full-time" 
