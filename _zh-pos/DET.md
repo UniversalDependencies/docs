@@ -9,7 +9,7 @@ udver: '2
 
 Determiners are words that modify nouns or noun phrases and express the reference of the noun phrase in context. 
 
-Note that Chinese does not traditionally define determiners as its own word class, but categorizes them as pronouns or adjectives. For this reason, in the UD framework some words in Chinese may function as determiners (DET) in one syntactic context (i.e., when modifying a noun) and as pronouns (PRON) in another context (i.e., as a nominal or head of nominal phrase).
+Note that Chinese does not traditionally define determiners as a separate word class, but categorizes them as pronouns and/or adjectives. For this reason, in the UD framework some words in Chinese may function as determiners and be tagged DET in one syntactic context (i.e., when modifying a noun), and as pronouns (tagged PRON) in another context (i.e., as a nominal or head of nominal phrase).
 
 ### Examples
 
