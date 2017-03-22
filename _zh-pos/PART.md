@@ -24,7 +24,7 @@ In Chinese, particles include the genitive/relativizer/nominalizer marker 的 / 
 - Adverbializer 地
   - 他 慢慢 <b>地</b> 跑 ／ _tā mànmàn <b>de</b> pǎo_ "He's running slowly."
 - Etc. marker
-  - 這裡 有 梨子，橘子，<b>等等</b> ／ _zhèlǐ yǒu lízǐ, jūzǐ, <b>děngděng</b>_ "There are pears, mandarins, etc. here."
+  - 這裡 有 梨子，橘子，<b>等等</b> ／ _zhèlǐ yǒu lízǐ, jūzǐ, <b>děngděng</b>_ "There are pears, oranges, etc. here."
 - Sentence-final particles
   - 你 想 去 <b>嗎</b> ？ ／ _nǐ xiǎng qù <b>ma</b>_ "Do you want to go?"
   - 我們 一起 去 <b>吧</b> ／ _wǒmen yīqǐ qù <b>ba</b>_ "Let's go together."
