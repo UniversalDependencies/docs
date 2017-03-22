@@ -11,7 +11,7 @@ A subordinating conjunction is a conjunction that links constructions by making 
 
 Subordinating conjunctions in Chinese include all markers of subordinate clauses, including conditional clauses, temporal clauses, purpose clauses, etc.
 
-In paired clauses where both clauses are marked by a conjunctive word, we treat the first clause as subordinate and thus its conjunctive word as SCONJ, whereas the one in the second, main clause as an adverb (ADV). For example, 雖然/SCONJ... 可是/ADV... / _suīrán... kěshì... "Although... however...".
+In paired clauses where both clauses are marked by a conjunctive word and the first is subordinate to the second, we treat the conjunctive word in the first clause as SCONJ, whereas the one in the second, main clause as an adverb (ADV) (e.g., 雖然/SCONJ... 可是/ADV... / _suīrán... kěshì..._ "Although... however...").
 
 The object relativizer 所 / _suǒ_ is also tagged SCONJ.
 
