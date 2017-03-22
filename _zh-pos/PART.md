@@ -9,12 +9,14 @@ udver: '2'
 
 Particles are function words that must be associated with another word, phrase, or clause to impart meaning and that do not satisfy definitions of other universal parts of speech (such as ADP, AUX, CCONJ, or SCONJ). 
 
-In Chinese, particles include the genitive/relativizer/nominalizer marker 的 / _de_, 得 / _de_ in V-得 extent/descriptive constructions (see `compound:ext`), the manner adverbializer 地 / _de_, the "et cetera" markers 等(等) / _děng(děng)_, and 句末助詞 / _jùmuò zhùcí_ sentence-final particles.
+In Chinese, particles include the genitive/associative/relativizer/nominalizer marker 的 / _de_, 得 / _de_ in V-得 extent/descriptive constructions (see `compound:ext`), the manner adverbializer 地 / _de_, the "et cetera" markers 等(等) / _děng(děng)_, and 句末助詞 / _jùmuò zhùcí_ sentence-final particles.
 
 ### Examples
 
 - Genitive 的
   - 狗 <b>的</b> 尾巴 ／ _gǒu <b>de</b> wěibā_ "a dog's tail"
+- Associative 的
+  - 高興 <b>的</b> 孩子 / _gāoxìng <b>de</b> háizi_ "happy children"
 - Relativizer 的
   - 走路 <b>的</b> 人 ／ _zǒulù <b>de</b> rén_ "people who are walking"
 - Nominalizer 的
