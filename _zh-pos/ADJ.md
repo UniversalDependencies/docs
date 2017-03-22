@@ -21,6 +21,9 @@ Note that ordinal numerals such as 第一 / _dìyī_ "first" and 第三 / _di�
 
 ### Examples
 
-* 好 / _hǎo_ "good", 美麗 / _měilì_ "beautiful", 小 / _xiǎo_ "small", 老 / _lǎo_ "old" (形容詞 / _xíngróngcí_)
-* 金 / _jīn_ "gold(en)", 男 / _nán_ "male", 慢性 / _mànxìng_ "slow acting" (區別詞 / _qūbiécí_)
-* 第一 / _dìyī_ "first", 第三 / _dìsān_ "third", 第五十三 / _dìwǔshísān_ "fifty-third" (ordinal numbers)
+- 形容詞 / _xíngróngcí_
+  - 好 / _hǎo_ "good", 美麗 / _měilì_ "beautiful", 小 / _xiǎo_ "small", 老 / _lǎo_ "old"
+- 區別詞 / _qūbiécí_
+  - 金 / _jīn_ "gold(en)", 男 / _nán_ "male", 慢性 / _mànxìng_ "slow acting"
+- ordinal numbers
+  - 第一 / _dìyī_ "first", 第三 / _dìsān_ "third", 第五十三 / _dìwǔshísān_ "fifty-third"
