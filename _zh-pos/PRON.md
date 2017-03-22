@@ -26,7 +26,7 @@ Pronouns are words that substitute for nouns or noun phrases, whose meaning is r
 - Manner pronouns
   - 這樣(子) / zhèyàng(zi) "thus, this way, like this" (also ADV), 那樣(子) / nàyàng(zi) "that way, like that"
 - Interrogative pronouns
-  - 什麼 / _shénme_ "what", 何 / _hé_ "what", 多少 / _duōshǎo_ "how many", 哪裡 / nǎlǐ "where", 哪樣 ／ _nǎyàng_ "which kind/type/way", 何樣 / _héyàng_ "what kind/type/way", 怎樣 / _zěnyàng_ "how" (also ADV)
+  - 誰 / _shéi_ "who", 什麼 / _shénme_ "what", 多少 / _duōshǎo_ "how many", 哪裡 / nǎlǐ "where", 哪樣 ／ _nǎyàng_ "which kind/type/way", 何樣 / _héyàng_ "what kind/type/way", 怎樣 / _zěnyàng_ "how" (also ADV)
 - Other
   - X + 方: 對方 / _duìfāng_ "the other party", 雙方 / _shuāngfag_ "both parties", 己方 / _jǐfāng_ "one's own side/party", 一方 / _yīfāng_ "one party", 三方 / _sānfāng_ "all three parties", etc.
   - X + 者: 前者 / _qiánzhě_ "the former", 後者 / _hòuzhě_ "the latter", 二者 / _èrzhě_ "the two", 三者 / _sānzhě_ "the three", etc.
