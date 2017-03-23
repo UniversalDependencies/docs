@@ -9,7 +9,7 @@ udver: '2'
 
 A numeral is a word, functioning most typically as a determiner, a pronoun or an adjective, that expresses a number and a relation to the number, such as quantity, sequence, frequency or fraction.
 
-Cardinal numerals are covered by NUM regardless of syntactic function and regardless of whether they are expressed as words (五 / _wǔ_ "five") or digits (5). By contrast, ordinal numerals are always tagged ADJ.
+Cardinal numerals are covered by `NUM` regardless of syntactic function and regardless of whether they are expressed as words (五 / _wǔ_ "five") or digits (5). By contrast, ordinal numerals are always tagged <a>`ADJ`</a>.
 
 ### Examples
 
