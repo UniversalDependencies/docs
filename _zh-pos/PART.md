@@ -9,7 +9,7 @@ udver: '2'
 
 Particles are function words that must be associated with another word, phrase, or clause to impart meaning and that do not satisfy definitions of other universal parts of speech (such as `ADP`, `AUX`, `CCONJ`, or `SCONJ`). 
 
-In Chinese, particles include the genitive/associative/relativizer/nominalizer marker 的 / _de_; 得 / _de_ in V-得 extent/descriptive constructions (see <a>`compound:ext`</a>); the manner adverbializer 地 / _de_; the "et cetera" markers 等(等) / _děng(děng)_; and sentence-final particles (句末助詞 / _jùmuò zhùcí_).
+In Chinese, particles include the genitive/associative/relativizer/nominalizer marker 的 / _de_; 得 / _de_ in V-得 extent/descriptive constructions (see <a>`compound:ext`</a>); the manner adverbializer 地 / _de_; the "et cetera" markers 等(等) / _děng(děng)_; sentence-final particles (句末助詞 / _jùmuò zhùcí_); and the object relativizer 所 / _suǒ_.
 
 ### Examples
 
@@ -32,3 +32,5 @@ In Chinese, particles include the genitive/associative/relativizer/nominalizer m
   - 我們 一起 去 <b>吧</b> ／ _wǒmen yīqǐ qù <b>ba</b>_ "Let's go together."
   - 他 只 是 一 個 人 <b>而已</b> ／ _tā zh ǐshì yī gè rén <b>éryǐ</b>_ "He's just one person."
   - 他們 一定 來 <b>的</b> ／ _tāmen yīdìng lái <b>de</b>_ "They will definitely come."
+- Object relativizer 所
+  - 他<b>所</b>戴的帽子 / _tā <b>suǒ</b> dài de màozi_ "the hat that he wears"
