@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-03-20T14:48:30Z">2017-03-20T14:48:30 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-03-23T15:05:02Z">2017-03-23T15:05:02 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -1021,21 +1021,63 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang got /home/ginter/UD_PRO
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD Greek</span>
 <span class="widespan">el</span>
-<span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-03-08T17:19:40Z">2017-03-08T17:19:40 zulu</time></span>
+<span class="validationfail">FAIL</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-03-23T15:04:58Z">2017-03-23T15:04:58 zulu</time></span>
 </div>
 <div>
 <pre>
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang el /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Greek/el-ud-dev.conllu
+python tools/validate.py --lang el UD-dev-branches/UD_Greek/el-ud-dev.conllu
 
-*** PASSED ***
+[Line                   392]: Unknown UD DEPREL: xcomp:sc
+[Line                   512]: Unknown UD DEPREL: xcomp:sc
+[Line                   597]: Unknown UD DEPREL: xcomp:sc
+[Line                   682]: Unknown UD DEPREL: xcomp:sc
+[Line                   840]: Unknown UD DEPREL: xcomp:sc
+[Line                   946]: Unknown UD DEPREL: xcomp:sc
+[Line                   1003]: Unknown UD DEPREL: xcomp:sc
+[Line                   1041]: Unknown UD DEPREL: obl:iobj
+[Line                   1194]: Unknown UD DEPREL: xcomp:sc
+[Line                   1656]: Unknown UD DEPREL: xcomp:sc
+[Line                   1751]: Unknown UD DEPREL: xcomp:sc
+[Line                   2521]: Unknown UD DEPREL: obl:iobj
+[Line                   2792]: Unknown UD DEPREL: obl:iobj
+[Line                   2976]: Unknown UD DEPREL: xcomp:sc
+[Line                   3428]: Unknown UD DEPREL: xcomp:sc
+[Line                   4033]: Unknown UD DEPREL: xcomp:sc
+[Line                   4222]: Unknown UD DEPREL: xcomp:sc
+[Line                   4265]: Unknown UD DEPREL: xcomp:sc
+[Line                   4291]: Unknown UD DEPREL: xcomp:sc
+...suppressing further errors regarding Syntax
+*** FAILED *** with 62 errors
+Syntax errors: 62
 
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang el /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Greek/el-ud-train.conllu
+python tools/validate.py --lang el UD-dev-branches/UD_Greek/el-ud-train.conllu
 
-*** PASSED ***
+[Line                   675]: Unknown UD DEPREL: xcomp:sc
+[Line                   697]: Unknown UD DEPREL: xcomp:sc
+[Line                   704]: Unknown UD DEPREL: xcomp:oc
+[Line                   1268]: Unknown UD DEPREL: xcomp:sc
+[Line                   1270]: Unknown UD DEPREL: xcomp:sc
+[Line                   1377]: Unknown UD DEPREL: obl:iobj
+[Line                   1425]: Unknown UD DEPREL: xcomp:sc
+[Line                   1431]: Unknown UD DEPREL: xcomp:sc
+[Line                   1609]: Unknown UD DEPREL: obl:iobj
+[Line                   1613]: Unknown UD DEPREL: xcomp:sc
+[Line                   1734]: Unknown UD DEPREL: xcomp:sc
+[Line                   2279]: Unknown UD DEPREL: xcomp:sc
+[Line                   2496]: Unknown UD DEPREL: obl:iobj
+[Line                   2565]: Unknown UD DEPREL: xcomp:sc
+[Line                   2636]: Unknown UD DEPREL: xcomp:oc
+[Line                   2669]: Unknown UD DEPREL: obl:iobj
+[Line                   2908]: Unknown UD DEPREL: xcomp:sc
+[Line                   2957]: Unknown UD DEPREL: xcomp:sc
+[Line                   2980]: Unknown UD DEPREL: xcomp:sc
+...suppressing further errors regarding Syntax
+*** FAILED *** with 357 errors
+Syntax errors: 357
 
 
 ******************
