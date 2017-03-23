@@ -32,21 +32,21 @@ Note that although some adverbs express temporal information, many common time e
 
 ### Examples
 
-- **Manner adverbs**
+- Manner adverbs
   - 慢慢 / _mànman_ "slowly", 互相 ／ _hùxiāng_ "mutually"
-- **Temporal, aspectual, and modal adverbs**
+- Temporal, aspectual, and modal adverbs
   - 即將 / _jíjiāng_ "about to", 將 / _jiāng_ "will", (正)在 / _(zhèng)zài_ "in progress", 寧可 / _nìngkě_ "would rather", 可能 / _kěnéng_ "possibly" (NB: also ADJ "possible" and NOUN "possibility")
-- **Conjunctive adverbs**
+- Conjunctive adverbs
   - 所以 / _suǒyǐ_ "therefore", 卻 / _què_ "however", 例如 / _lìrú_ "for example", 然後 / _ránhòu_ "afterwards", 那 / _nà_ "then; in that case", 就 / _jiù_ "then; as a result"
-- **Frequency and duration adverbs**
+- Frequency and duration adverbs
   - 經常 / _jīngcháng_ "often", 一下 / _yīxià_ "once; for a little while", 多次 / _duōcì_ "many times"
-- **Negation adverbs**
+- Negation adverbs
   - 不 / _bù_ "not", 未 / _wèi_ "not yet", 永不 / _yóngbù_ "never"
-- **Numeral-modifying adverbs**
+- Numeral-modifying adverbs
   - 大概 / _dàgài_ "approximately", 差不多 / _chàbùduō_ "almost", 不足 / _bùzú_ "less than", 至少 / _zhìshǎo_ "at least", 最多 / _zuìduō_ "at most"
-- **Noun-modifying adverbs**
+- Noun-modifying adverbs
   - 連 / _lián_ "even", 又 / _yòu_ "another"
-- **Pronominal adverbs**
+- Pronominal adverbs
   - 怎樣 / _zěnyàng_ "how", 這樣 / _zhèyàng_ "this way, like this, thus", 那麼 / _nàme_ "so", 為什麼 / _wèishéme_ "why"
-- **Other**
+- Other
   - 都 / _dōu_ "also; all", 也 / _yě_ "also", 才 / _cái_ "then and only then", 越來越 _yüèláiyüè_ "more and more", 當然 / _dāngrán_ "of course", 難道 / _nándào_ "could/must it be that...?"
