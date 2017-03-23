@@ -7,7 +7,7 @@ udver: '2'
 
 ### Definition
 
-Nouns are a part of speech typically denoting a person, place, thing, animal or idea.
+Nouns are a part of speech typically denoting a person, place, thing, animal, or idea.
 
 The NOUN tag is intended for common nouns only. See <a>`PROPN`</a> for proper nouns and <a>`PRON`</a> for pronouns.
 
