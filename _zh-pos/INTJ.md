@@ -11,7 +11,7 @@ An interjection is a word that is used most often as an exclamation or part of a
 
 Note that words primarily belonging to another part of speech retain their original category when used in exclamations. For example, 是！ / _shì_ "Yes!" would still be tagged VERB.
 
-Onomatopoeic words (擬聲詞 / _nǐshēngcí_) should only be treated as interjections if they are used as an exclamation (e.g., 喵! / _miāo_ "Meow!"), otherwise they should be tagged according to their syntactic function in context (often as adverbs in Chinese, e.g., 他們**嘰嘰喳喳**地聊天 / _tāmen jījīzhāzhā de liáotiān_ "They chat _jijizhazha-ly_ (i.e., lively, noisily, etc.).").
+Onomatopoeic words (擬聲詞 / _nǐshēngcí_) should only be treated as interjections if they are used as an exclamation (e.g., 喵! / _miāo_ "Meow!"), otherwise they should be tagged according to their syntactic function in context (often as adverbs in Chinese, e.g., 他們**嘰嘰喳喳**地聊天 / _tāmen jījizhāzhā de liáotiān_ "They chat _jijizhazha-ly_ (i.e., lively, noisily, etc.).").
 
 ### Examples
 
