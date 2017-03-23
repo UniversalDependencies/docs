@@ -14,7 +14,7 @@ Punctuation is not taken to include logograms such as _$_, _%_, and _§_, which 
 ### Examples
 
 - Period: 。
-- Comma: ，, 、 
-- Quotation marks: ‘, ’, “, ”,「, 」, 『, 』
-- Title marks: 《, 》
+- Comma: ， 、 
+- Quotation marks: ‘ ’ “ ”「 」 『 』
+- Title marks: 《 》
 
