@@ -9,9 +9,9 @@ udver: '2'
 
 Nouns are a part of speech typically denoting a person, place, thing, animal or idea.
 
-The NOUN tag is intended for common nouns only. See PROPN for proper nouns and PRON for pronouns.
+The NOUN tag is intended for common nouns only. See <a>`PROPN`</a> for proper nouns and <a>`PRON`</a> for pronouns.
 
-As a special case, classifiers (量詞 / _liàngcí_) are also tagged NOUN per UD guidelines. Their classifier status may be preserved in the feature column (FEATS) as `NounType=CLf`.
+As a special case, classifiers (量詞 / _liàngcí_) are also tagged `NOUN` per UD guidelines. Their classifier status may be preserved in the feature column (FEATS) as `NounType=CLf`.
 
 ### Examples
 
