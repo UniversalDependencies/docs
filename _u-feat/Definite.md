@@ -32,6 +32,7 @@ indefinite, i.e. “any (one) stick”.
 #### Examples
 
 * [en] _<b>a</b> dog_
+* [sv] _<b>en hund</b>_ “a dog”
 
 ### <a name="Spec">`Spec`</a>: specific indefinite
 
@@ -45,6 +46,7 @@ indefinite, i.e. “any (one) stick”.
 #### Examples
 
 * [en] _<b>the</b> dog_
+* [sv] _<b>hunden</b>_ “the dog”
 
 ### <a name="Cons">`Cons`</a>: construct state / reduced definiteness
 
