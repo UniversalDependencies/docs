@@ -37,6 +37,7 @@ available [here](docsv1/index.html).
 # Upcoming UD-related events
 
   * [CoNLL 2017 Shared Task: Multilingual Parsing from Raw Text to Universal Dependencies](http://universaldependencies.org/conll17/)
+  * [EACL 2017 Tutorial on Universal Dependencies (UDW 2017)](http://universaldependencies.org/eacl17tutorial/)
   * [NoDaLiDa Workshop on Universal Dependencies (UDW 2017)](http://universaldependencies.org/udw17/)
 
 # Want to know more about UD?
