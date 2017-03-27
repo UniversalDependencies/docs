@@ -5,7 +5,7 @@ shortdef: 'classifier'
 udver: '2'
 ---
 
-The `clf` relation is used in noun phrases where a numeral or determiner modifying the head noun is accompanied by a classifier. The classifier is attached to the numeral if a numeral is present, or else to the determiner.
+The `clf` relation is used in noun phrases where a cardinal numeral (1,3), an ordinal numeral (2), or a determiner (3,4) modifying the head noun is accompanied by a classifier. The classifier is attached to the numeral if a numeral is present, or else to the determiner. Note that ordinal numerals are tagged <a>`ADJ`</a> and labeled <a>`amod`</a> in relation to the noun; they are the only words tagged `ADJ` that can be accompanied by a classifier.
 
 ~~~ conllu
 # visual-style 1 2 clf	color:blue
@@ -21,6 +21,22 @@ The `clf` relation is used in noun phrases where a numeral or determiner modifyi
 2	ball	_	_	_	_	0	_	_	_
 3	of	_	_	_	_	0	_	_	_
 4	fire"	_	_	_	_	0	_	_	_
+
+~~~
+
+~~~ conllu
+# visual-style 1 2 clf	color:blue
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+1	第一	_	ADJ	_	_	3	amod	_	one
+2	位	_	NOUN	_	_	1	clf	_	CL:person
+3	老師	_	NOUN	_	_	0	root	_	teacher
+
+1	"the	_	_	_	_	0	_	_	_
+2	first	_	_	_	_	0	_	_	_
+3	teacher	_	_	_	_	0	_	_	_
 
 ~~~
 
