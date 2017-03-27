@@ -34,17 +34,16 @@ A clausal complement is a full clause that functions like an object of verb. It 
 The subject of the embedded clause may sometimes be absent, but pragmatically understood, such as in the below example where the thing being mentioned as being stinky may be a room or a pair of socks that was previously discussed or known to be the topic of discussion. 
 
 ~~~ conllu
-# visual-style 4 6 ccomp	color:blue
+# visual-style 2 4 ccomp	color:blue
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-1	你	_	PRON	_	_	4	nsubj	_	2SG
-2	有	_	VERB	_	_	4	aux	_	PERF
-3	否	_	ADV	_	_	2	conj	_	NEG
-4	覺得	_	VERB	_	_	0	root	_	think
-5	很	_	ADV	_	_	6	advmod	_	very
-6	臭	_	ADJ	_	_	4	ccomp	_	stinky
+1	你	_	PRON	_	_	2	nsubj	_	2SG
+2	覺得	_	VERB	_	_	0	root	_	think
+3	很	_	ADV	_	_	4	advmod	_	very
+4	臭	_	ADJ	_	_	2	ccomp	_	stinky
+5	嗎	_	PART	_	_	2	discourse:sp	_	Q
 
 1	"Do	_	_	_	_	0	_	_	_
 2	you	_	_	_	_	0	_	_	_
