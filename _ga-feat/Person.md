@@ -21,7 +21,7 @@ The second person refers to the listener. The singular first person denotes just
 
 #### Examples
 
-* _<b>An bhfeiceann tú</b>_ "Do you see"
+* _An <b>bhfeiceann</b> tú_ "Do you <b>see</b>"
 * _<b>Amharcaigí</b> anois an méid atá déanta agam!_ "<b>Look</b> at the amount I've done!"
 
 ### `3` : third person
@@ -30,5 +30,5 @@ The third person refers to one or more persons who are not present, i.e. neither
 
 #### Examples
 
-* _<b>Tugann sé</b> neart eolais dúinn_ "<b>He gives</b> us plenty of information"
-* _<b>Déanann siad</b> poll_ "<b>They make</b> a hole"
+* _<b>Tugann</b> sé neart eolais dúinn_ "He <b>gives</b> us plenty of information"
+* _<b>Déanann</b> siad poll_ "They <b>make</b> a hole"
