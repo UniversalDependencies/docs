@@ -19,7 +19,7 @@ There are two situations in Mandarin for which we apply the `appos` relation. Th
 2	的	_	PART	_	_	1	case	_	GEN
 3	老闆娘	_	NOUN	_	_	0	root	_	female-boss
 4	楊	_	PROPN	_	_	5	compound	_	Yang
-5	姑娘	_	NOUN	_	_	3	appos	_	Ms.
+5	女士	_	NOUN	_	_	3	appos	_	Ms.
 
 1	"my	_	_	_	_	0	_	_	_
 2	boss	_	_	_	_	0	_	_	_
