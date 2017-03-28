@@ -158,3 +158,34 @@ In more formal registers, the negative adverb 否 _fǒu_ may replace the NEG + 
 
 ~~~
 
+Note that the "et cetera" particle 等(等) / _děng(děng)_ is treated as the final conjunct in a series of conjuncts.
+
+~~~ conllu
+# visual-style 5 8 conj	color:blue
+# visual-style 5 7 conj	color:blue
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+1	這裡	_	PRON	_	_	3	nsubj	_	here
+2	能	_	AUX	_	_	3	aux	_	can
+3	買	_	ADV	_	_	0	root	_	buy
+4	到	_	VERB	_	_	3	compound:vv	_	arrive
+5	臭豆腐	_	NOUN	_	_	3	obj	_	stinky-tofu
+6	、	_	PUNCT	_	_	7	punct	_	_
+7	滷水蛋	_	PUNCT	_	_	5	conj	_	brined-eggs
+8	等等	_	PART	_	_	5	conj	_	etc.
+
+1	"One	_	_	_	_	0	_	_	_
+2	can	_	_	_	_	0	_	_	_
+3	buy	_	_	_	_	0	_	_	_
+4	stinky	_	_	_	_	0	_	_	_
+5	tofu,	_	_	_	_	0	_	_	_
+6	brined	_	_	_	_	0	_	_	_
+7	eggs,	_	_	_	_	0	_	_	_
+8	etc.	_	_	_	_	0	_	_	_
+8	here."	_	_	_	_	0	_	_	_
+
+~~~
