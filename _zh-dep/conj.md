@@ -186,6 +186,6 @@ Note that the "et cetera" particle 等(等) / _děng(děng)_ is treated as the f
 6	brined	_	_	_	_	0	_	_	_
 7	eggs,	_	_	_	_	0	_	_	_
 8	etc.	_	_	_	_	0	_	_	_
-8	here."	_	_	_	_	0	_	_	_
+9	here."	_	_	_	_	0	_	_	_
 
 ~~~
