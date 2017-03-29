@@ -5,9 +5,9 @@ shortdef: 'verb-verb compound'
 udver: '2'
 ---
 
-This relation is used for verb-verb compounds where the second verb covers what are known as "resultative complements" and "phase complements" in Chinese linguistics. Here we will call them resultative and phase _compounds_ to avoid confusion between the different definitions of "complement" between Chinese-specific terminology and general linguistics terminology. 
+This relation is used for verb-verb and verb-adjective compounds where the second verb/adjective covers what are known as "resultative complements" and "phase complements" in Chinese linguistics. Here we will call them resultative and phase _compounds_ to avoid confusion between the different definitions of "complement" between Chinese-specific terminology and general linguistics terminology. 
 
-A special feature of these compounds (as well as directional compounds; see [compound:dir]()) is that the affirmative potential 得 _de_ and negative potential 不 _bù_ can intervene between the two verbs (see examples (2) and (4)). However, unlike directional compounds, this is the only situation in which the verb-verb compound can be separated.
+A special feature of these compounds (as well as directional compounds; see [compound:dir]()) is that the affirmative potential 得 _de_ and negative potential 不 _bù_ can intervene between the compound (see examples (2) and (5)). However, unlike directional compounds, this is the only situation in which the resultative and phase compounds can be separated.
 
 ### Resultative compounds
 
@@ -55,6 +55,26 @@ Sometimes the compound may be idiomatic as well (2).
 7	through	_	_	_	_	0	_	_	_
 8	by	_	_	_	_	0	_	_	_
 9	doing)	_	_	_	_	0	_	_	_
+
+~~~
+
+Note that in Chinese resultative compounds the second verb can be an adjective, in which case `compound:vv` is still the appropriate relation to link the two:
+
+~~~ conllu
+# visual-style 2 3 compound:vv	color:blue
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+1	他	_	PRON	_	_	2	nsubj	_	3SG.M
+2	哭	_	VERB	_	_	0	root	_	cry
+3	累	_	ADJ	_	_	2	compound:vv	_	tired
+4	了	_	AUX	_	_	2	aux	_	PERF
+
+1	"He	_	_	_	_	0	_	_	_
+2	cried	_	_	_	_	0	_	_	_
+3	himself	_	_	_	_	0	_	_	_
+4	tired."	_	_	_	_	0	_	_	_
 
 ~~~
 
