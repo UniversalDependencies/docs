@@ -1,7 +1,7 @@
 ---
 layout: relation
-title: 'name'
-shortdef: 'name'
+title: 'flat'
+shortdef: 'flat'
 ---
 
 `flat` is one of the relations for compounding in UD.
