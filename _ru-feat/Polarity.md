@@ -1,7 +1,7 @@
 ---
 layout: feature
-title: 'Negative'
-shortdef: 'whether the word can be or is negated'
+title: 'Polarity'
+shortdef: 'whether the word has polarity or not'
 ---
 
 In Russian, negation is done both by using the bound morpheme _не-_
@@ -11,10 +11,10 @@ the feature of negativeness.
 It applies to [verbs](ru-pos/VERB),
 [adjectives](ru-pos/ADJ), sometimes also [adverbs](ru-pos/ADV) and
 even [nouns](ru-pos/NOUN).
-(Most nouns have just `Negative=Pos`;
-deverbative nouns can have also `Negative=Neg`.)
+(Most nouns have just `Polarity=Pos`;
+deverbative nouns can have also `Polarity=Neg`.)
 
-Note that `Negative=Neg` is not the same thing as
+Note that `Polaritye=Neg` is not the same thing as
 [PronType]()`=Neg`. For pronouns and other pronominal parts of speech
 there is no such binary opposition as for verbs and adjectives. (There
 is no such thing as “affirmative pronoun”.)
@@ -28,7 +28,7 @@ is no such thing as “affirmative pronoun”.)
 * _<b>хорошо</b>&nbsp;_ “nicely”
 * _<b>приятие</b>&nbsp;_ “acceptance”
 
-### Neg: negative
+### Polarity: negative
 
 #### Examples
 
