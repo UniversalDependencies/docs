@@ -13,32 +13,32 @@ Accusative example:
 
 ~~~ sdparse
 Я купил машину . \n I have-bought car .
-dobj(купил, машину)
-dobj(have-bought, car)
+obj(купил, машину)
+obj(have-bought, car)
 ~~~
 
 Genitive example:
 
 ~~~ sdparse
 Я не боюсь этого . \n I-am not afraid of this .
-dobj(боюсь, этого)
-dobj(afraid, this)
+obj(боюсь, этого)
+obj(afraid, this)
 ~~~
 
 Dative example:
 
 ~~~ sdparse
 Но это не соответствует действительности . \n But this not corresponds to-reality .
-dobj(соответствует, действительности)
-dobj(corresponds, to-reality)
+obj(соответствует, действительности)
+obj(corresponds, to-reality)
 ~~~
 
 Instrumental example:
 
 ~~~ sdparse
 Президент руководит страной . \n The President rules the country .
-dobj(руководит, страной)
-dobj(rules, country)
+obj(руководит, страной)
+obj(rules, country)
 ~~~
 
 In general, if there is only one object, it should be labeled `obj`,
