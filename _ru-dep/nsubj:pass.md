@@ -1,6 +1,6 @@
 ---
 layout: relation
-title: 'nsubjpass'
+title: 'nsubj:pass'
 shortdef: 'passive nominal subject'
 ---
 
@@ -9,15 +9,15 @@ subject of a passive clause.
 
 ~~~ sdparse
 Шварценберг был побеждён Земаном . \n Schwarzenberg was defeated by-Zeman .
-nsubjpass(побеждён, Шварценберг)
-nsubjpass(defeated, Schwarzenberg)
+nsubj:pass(побеждён, Шварценберг)
+nsubj:pass(defeated, Schwarzenberg)
 ~~~
 
 Reflexive passive (the meaning is “This will be solved tomorrow.”)
 
 ~~~ sdparse
 Это решится завтра . \n This will-be-solved tomorrow .
-nsubjpass(решится, Это)
-nsubjpass(will-be-solved, This)
+nsubj:pass(решится, Это)
+nsubj:pass(will-be-solved, This)
 ~~~
 
