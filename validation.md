@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-03-30T12:29:57Z">2017-03-30T12:29:57 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-04-02T15:57:29Z">2017-04-02T15:57:29 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -560,11 +560,11 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang en /home/ginter/UD_PROJ
 <span class="doublewidespan" style="padding-left:3em">UD English-ESL</span>
 <span class="widespan">en esl</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-03-30T12:21:17Z">2017-03-30T12:21:17 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-04-02T15:57:24Z">2017-04-02T15:57:24 zulu</time></span>
 </div>
 <div>
 <pre>
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang en_esl /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_English-ESL/en_esl-ud-dev.conllu
+python tools/validate.py --lang en_esl UD-dev-branches/UD_English-ESL/en_esl-ud-dev.conllu
 
 [Line                   15]: Unknown UD DEPREL: neg
 [Line                   17]: Unknown UD DEPREL: dobj
@@ -634,7 +634,7 @@ Syntax errors: 794
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang en_esl /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_English-ESL/en_esl-ud-train.conllu
+python tools/validate.py --lang en_esl UD-dev-branches/UD_English-ESL/en_esl-ud-train.conllu
 
 [Line                   13]: Unknown UPOS tag: CONJ
 [Line                   18]: Unknown UD DEPREL: dobj
