@@ -1,10 +1,10 @@
 ---
 layout: feature
 title: 'Polarity'
-shortdef: 'whether the word has polarity or not'
+shortdef: 'polarity'
 ---
 
-In Russian, negation is done both by using the bound morpheme _не-_
+Polarity in Russian is a feature of verbs, adjectives, adverbs and nouns used to express negation. Negation in Russian is done both by using the bound morpheme _не-_
 and an independent negating particle (equivalent to English “not”). Words that can take the morpheme/particle of negation have
 the feature of negativeness.
 
