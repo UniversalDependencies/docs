@@ -4,7 +4,7 @@ title: 'Negative'
 shortdef: 'whether the word can be or is negated'
 ---
 
-There is no word for "yes" or "no" in Irish. Instead, a negative particle is used in combinationg with the verb to give a negative polarity to the construction. 
+There is no word for "yes" or "no" in Irish. Instead, a negative particle is used in combination with the verb to give a negative polarity. 
 
 The negative particle _ní_* is used before verbs in almost every tense, except the past. It causes lenition where this is possible, otherwise there is no change. In the past tense the particle is written as _níor_, and doesn't affect the inflection. 
 
