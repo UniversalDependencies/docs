@@ -34,13 +34,6 @@ amod(карта, его)
 amod(card, his)
 ~~~
 
-`nmod` is also used for temporal nominal modifiers:
-
-~~~ sdparse
-Последний раз мы разговаривали зимой . \n Last time we talked in-winter .
-nmod(разговаривали, зимой)
-nmod(talked, in-winter)
-~~~
 
 ## Agreeing attribute of a noun
 
