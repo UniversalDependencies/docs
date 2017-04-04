@@ -4,9 +4,8 @@ title: 'nmod'
 shortdef: 'nominal modifier'
 ---
 
-The `nmod` relation is used for nominal modifiers. They depend either
-on another noun (group “noun dependents”) or on a predicate (group
-“non-core dependents of clausal predicates”).
+The `nmod` relation is used for nominal modifiers. They depend 
+on another noun (group “noun dependents”).
 
 `nmod` is a [noun](cs-pos/NOUN) (or noun phrase) functioning as a
 non-core (oblique) argument or adjunct.
