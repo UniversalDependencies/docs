@@ -14,7 +14,7 @@ The noun can also indicate definiteness, though treatment depends on case, gende
 
 #### Nominative case
 
-In the nominative case (see [Case:NomAcc]()) nouns undergo some changes following the definite article _<b>an</b>_; most feminine nouns are lenited after the definite article, while feminine nouns beginning with 's' will become 'ts'. Meanwhile, masculine nouns beginning with a vowel get the prefix 't-'.
+In the nominative case (see [Case]()) nouns undergo some changes following the definite article _<b>an</b>_; most feminine nouns are lenited after the definite article, while feminine nouns beginning with 's' will become 'ts'. Meanwhile, masculine nouns beginning with a vowel get the prefix 't-'.
 
 Following the plural definite article _<b>na</b>_, both masculine and feminine nouns beginning with a vowel receive the prefix 'h'.
 
@@ -29,7 +29,7 @@ Following the plural definite article _<b>na</b>_, both masculine and feminine n
 
 #### Genitive
 
-In the genitive case (see [Case:Gen]()) the singular definite article _<b>an</b>_ is only used with masculine nouns. In this case, masculine nouns behave like feminine nouns in the nominative case, most masculine nouns beginning with a consonant are lenited, and those beginning with a 's' change to 'ts'. However, nouns beginning with a vowel remain the same.
+In the genitive case (see [Case]()) the singular definite article _<b>an</b>_ is only used with masculine nouns. In this case, masculine nouns behave like feminine nouns in the nominative case, most masculine nouns beginning with a consonant are lenited, and those beginning with a 's' change to 'ts'. However, nouns beginning with a vowel remain the same.
 
 The plural definite article _<b>na</b>_ is used with feminine singular nouns. In this case, feminine singular nouns beginning with a vowel are prefixed by 'h', while those beginning with a consonant don't change. For plural nouns, _<b>na</b>_ causes an eclipses where the nouns begin with a consonant. Plural nouns beginning with a vowel receive the prefix '-n'.
 
