@@ -11,8 +11,8 @@ predicates.
 
 ~~~ sdparse
 Последний раз мы разговаривали зимой . \n Last time we talked in-winter .
-nmod(разговаривали, зимой)
-nmod(talked, in-winter)
+obl(разговаривали, зимой)
+obl(talked, in-winter)
 ~~~
 
 One subtype of `obl` is introduced in Russian: [obl:agent]() for agents of passive verbs.
