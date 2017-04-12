@@ -16,12 +16,12 @@ the information about case conditions.
 Пять мужчин играло в карты . \n Five men played cards .
 nummod:gov(мужчин, Пять)
 nsubj(играло, мужчин)
-dobj(играло, карты)
+obj(играло, карты)
 case(карты, в)
 punct(играло, .-6)
 nummod:gov(men, Five)
 nsubj(played, men)
-dobj(played, cards)
+obj(played, cards)
 punct(played, .-12)
 ~~~
 
