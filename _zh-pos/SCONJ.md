@@ -17,7 +17,7 @@ In paired clauses where both clauses are marked by a conjunctive word and the fi
 
 - 如果 / _rúguǒ_ "if", 的話 / _dehuà_ "if"
 - 雖然 / _suīrán_ "although"
-- 盡管 / _jìnguǎn_ "even if"
+- 儘管 / _jǐnguǎn_ "even if"
 - 無論 / _wúlùn_ "no matter"
 - "in order to": 來 / _lái_, 去 / _qù_, 以 / _yǐ_
   - 伸出你的手<b>來</b>看看 / _shēn chū nǐ de shǒu <b>lái</b> kànkan_ "stretch out your hand (in order) to take a look"
