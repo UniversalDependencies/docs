@@ -12,8 +12,8 @@ have to be promoted to clausal head.
 Павел заказал говядину , а Мария свинину . \n Pavel  ordered beef and Maria pork .
 nsubj(заказал, Павел)
 nsubj(ordered, Pavel)
-dobj(заказал, говядину)
-dobj(ordered, beef)
+obj(заказал, говядину)
+obj(ordered, beef)
 conj(Павел, Мария)
 conj(Pavel, Maria)
 orphan(говядину, свинину)
