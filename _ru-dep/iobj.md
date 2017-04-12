@@ -5,7 +5,7 @@ shortdef: 'indirect object'
 ---
 
 The indirect object of a verb is any nominal phrase that is a core
-argument of the verb but is not its subject or [direct object](dobj).
+argument of the verb but is not its subject or [direct object](obj).
 The prototypical example is the recipient of ditransitive verbs of
 exchange:
 
@@ -22,27 +22,27 @@ In the following Russian example, the verb takes two arguments. One of them is d
 
 ~~~ sdparse
 Он преподает моей дочери математику . \n He teaches my daughter.Dat maths.Acc .
-dobj(преподает, математику)
+obj(преподает, математику)
 iobj(преподает, дочери)
-dobj(teaches, maths.Acc)
+obj(teaches, maths.Acc)
 iobj(teaches, daughter.Dat)
 ~~~
 
 In general, if there is just one object, it should be labeled
-[dobj](), regardless of the morphological case or semantic role.
+[obj](), regardless of the morphological case or semantic role.
 For example, _преподавать_ “to teach” can take either the subject matter or the recipient as the only object,
-and in both cases it would be analyzed as the [dobj]():
+and in both cases it would be analyzed as the [obj]():
 
 ~~~ sdparse
 Он преподает математику . \n He teaches maths .
-dobj(преподает, математику)
-dobj(teaches, maths)
+obj(преподает, математику)
+obj(teaches, maths)
 ~~~
 
 ~~~ sdparse
 Он преподает студентам . \n He teaches students .
-dobj(преподает, студентам)
-dobj(teaches, students)
+obj(преподает, студентам)
+obj(teaches, students)
 ~~~
 
 The one exception is when there is a clausal complement.
@@ -60,10 +60,10 @@ ccomp(told, they-needed)
 ~~~ sdparse
 Она рассказала студентам свой план . \n She told students her plan .
 iobj(рассказала, студентам)
-dobj(рассказала, план)
+obj(рассказала, план)
 iobj(told, students)
-dobj(told, plan)
+obj(told, plan)
 ~~~
 
-If there are two or more objects, one of them should be [dobj]() and the others should be `iobj`. In such cases it is necessary to decide what is the most directly affected object _(patient)_, and the Accusative [ru-feat/Case]() has priority over the Dative, Instrumental, and Genitive cases.
+If there are two or more objects, one of them should be [obj]() and the others should be `iobj`. In such cases it is necessary to decide what is the most directly affected object _(patient)_, and the Accusative [ru-feat/Case]() has priority over the Dative, Instrumental, and Genitive cases.
 
