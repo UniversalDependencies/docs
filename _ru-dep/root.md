@@ -29,8 +29,8 @@ _И что он на это ?_
 ROOT И что он на это ? \n ROOT And what he to it ?
 root(ROOT-1, И)
 root(ROOT-9, And)
-dobj(И, что)
-dobj(And, what)
+obj(И, что)
+obj(And, what)
 nmod(И, это)
 nmod(And, it)
 case(это, на)
