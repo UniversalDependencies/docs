@@ -1,21 +1,18 @@
 ---
 layout: relation
-title: 'mwe'
-shortdef: 'multi-word expression'
+title: 'fixed'
+shortdef: 'fixed multiword expression'
 ---
 
-The multi-word expression (modifier) relation is one of the
-relations for compounding and it is intended for function words.
-In Russian it is used for multi-word prepositions.
-The leftmost word is the head and all the other words are attached as its `mwe` modifiers.
+The fixed relation is one of the three relations (compound, fixed, flat) for special kinds of multiword expressions. It is used for fixed grammaticized expressions that behave like function words or short adverbials. The first word is always taken as the head, with all subsequent words as direct dependents.In Russian it is used for multi-word prepositions.
 
 ~~~ sdparse
 В отличие от тебя , мне нечего стыдиться . \n In contrast to you , I-have nothing to-be-ashamed .
-mwe(В, отличие)
-mwe(В, от)
+fixed(В, отличие)
+fixed(В, от)
 case(тебя, В)
-mwe(In, contrast)
-mwe(In, to)
+fixed(In, contrast)
+fixed(In, to)
 case(you, In)
 ~~~
 
@@ -24,12 +21,12 @@ by emphasizers and other words:
 
 ~~~ sdparse
 в сравнении , например , с долгом \n in comparison , for-example , to loans
-mwe(в, сравнении)
-mwe(в, с)
+fixed(в, сравнении)
+fixed(в, с)
 case(долгом, в)
 advmod:emph(долгом, например)
-mwe(in, comparison)
-mwe(in, to)
+fixed(in, comparison)
+fixed(in, to)
 case(loans, in)
 advmod:emph(loans, for-example)
 ~~~
