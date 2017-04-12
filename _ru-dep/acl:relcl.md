@@ -14,8 +14,8 @@ acl:relcl(мужчину, любит)
 acl:relcl(man, loves)
 nsubj(любит, который)
 nsubj(loves, who)
-dobj(любит, тебя)
-dobj(loves, you)
+obj(любит, тебя)
+obj(loves, you)
 ~~~
 
 ~~~ sdparse
@@ -24,8 +24,8 @@ acl:relcl(мужчину, любишь)
 acl:relcl(man, love)
 nsubj(любишь, ты)
 nsubj(love, you)
-dobj(любишь, которого)
-dobj(love, who)
+obj(любишь, которого)
+obj(love, who)
 ~~~
 
 
