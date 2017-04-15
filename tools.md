@@ -27,6 +27,8 @@ If you would like to have your tool added to this page, please write the
   * [UDAPI](#udapi)
   * [WebAnno](#webanno)
   * [DgAnnotator](#DgAnnotator)
+  * [Arborator](#Arborator)
+  * [Deptreeviz](#Deptreeviz)
 
 ## UD-maintained tools
 
@@ -183,3 +185,12 @@ WebAnno 3.0.0 does not support the CoNLL-U 2.0 format at this time.
 * License: AGPL-3.0 (open source)
 * Homepage: <https://arborator.ilpga.fr/>
 * References: Gerdes, Kim (2013), Collaborative Dependency Annotation. In: Proceedings of the Second International Conference on Dependency Linguistics (DepLing 2013). Prague, 88–97. 
+
+### Deptreeviz
+
+* Category: tree visualization (SVG graphics)
+* Platform: Any
+* Implementation: Java
+* License: Apache License 2.0 (open source)
+* Homepage: <https://gitlab.com/nats/deptreeviz>
+* References: Sven Zimmer, Arne Köhn
