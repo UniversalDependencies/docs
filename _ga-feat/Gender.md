@@ -12,8 +12,8 @@ In general, words ending in a broad consonant are masculine. Exceptions include 
 
 #### Examples
 
-* _Lean an <b>madra</b> í._ "The <b>dog</b> followed her."
-* _Dúirt sé nár <b>múinteoir</b> é._ "He said that he wasn't a <b>teacher</b>."
+* _madra_ "dog"
+* _múinteoir_ "teacher"
 
 ### `Fem` : feminine gender
 
@@ -21,5 +21,5 @@ In general, words ending in a slender consonant are feminine. Exceptions include
 
 #### Examples
 
-* _Labhair <b>Éire</b> le Donn ansin._ "<b>Ireland</b> speaks with Donn there."
-* _Na <b>néaróga</b> fós go dona._ "The <b>nerves</b> (are) still bad." 
+* _Éire_ "Ireland"
+* _néaróga_ "nerves" 
