@@ -12,7 +12,7 @@ The form of a strong plural remains unchanged regardless of grammatical case, i.
 
 #### Examples
  
-* _ bláthanna_ “flowers” (nomacc, gen)
+* _bláthanna_ “flowers” (nomacc, gen)
 * _oibreacha_ “works” (nomacc, gen)
 * _cótaí_ “coats” (nomacc, gen)
 
