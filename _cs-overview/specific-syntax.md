@@ -22,10 +22,10 @@ different [cases](cs-feat/Case) and these forms differ from the normal, irreflex
 The clitic forms _se, si_ are very frequent and serve various purposes.
 Their default function is to represent object that is identical to the subject of the same
 verb. The test is that they could be substituted by a normal personal pronoun.
-Such instances are attached to the verb as [cs-dep/dobj]() or [cs-dep/iobj]().
+Such instances are attached to the verb as [cs-dep/obj]() or [cs-dep/iobj]().
 
 * _Jan <b>se</b> bude bránit._ “Jan will defend himself.”
-  (`dobj`; substitution is grammatical:
+  (`obj`; substitution is grammatical:
   _Jan <b>ho</b> bude bránit._ “Jan will defend him.”)
 * _Barbora <b>si</b> přidělí osobního strážce._ “Barbora will assign herself a bodyguard.”
   (`iobj`; substitution is grammatical:
@@ -33,8 +33,8 @@ Such instances are attached to the verb as [cs-dep/dobj]() or [cs-dep/iobj]().
 
 ~~~ sdparse
 Jan se bude bránit . \n Jan himself will defend .
-dobj(bránit, se)
-dobj(defend, himself)
+obj(bránit, se)
+obj(defend, himself)
 ~~~
 
 ~~~ sdparse
@@ -44,7 +44,7 @@ iobj(will-assign, herself)
 ~~~
 
 The Czech reflexive pronoun is also used in reciprocal actions where other languages use
-a special reciprocal pronoun. These instances are still attached as `dobj` or `iobj`,
+a special reciprocal pronoun. These instances are still attached as `obj` or `iobj`,
 respectively:
 
 * _Jan a Marie <b>se</b> políbili._ “Jan and Marie kissed each other.”
@@ -52,8 +52,8 @@ respectively:
 
 ~~~ sdparse
 Jan a Marie se políbili . \n Jan and Marie each-other kissed .
-dobj(políbili, se)
-dobj(kissed, each-other)
+obj(políbili, se)
+obj(kissed, each-other)
 ~~~
 
 If the reflexive pronoun can be substituted by another nominal but it is not a core argument
@@ -201,8 +201,8 @@ We lean towards minimizing the postulation of unobserved structure and opt to tr
 více závisí na stavu linky než na rychlosti přístroje \n more depends on state of-line than on speed of-device
 advmod(závisí, více)
 advmod(depends, more)
-dobj(závisí, stavu)
-dobj(depends, state)
+obj(závisí, stavu)
+obj(depends, state)
 case(stavu, na-3)
 case(state, on-13)
 nmod(stavu, linky)
@@ -259,8 +259,8 @@ when the comparative complement is reduced to just a nominal:
 Petr má více peněz než Pavel . \n Petr has more money than Pavel .
 nsubj(má, Petr-1)
 nsubj(has, Petr-9)
-dobj(má, peněz)
-dobj(has, money)
+obj(má, peněz)
+obj(has, money)
 det:numgov(peněz, více)
 det:numgov(money, more)
 nmod(více, Pavel-6)
@@ -333,8 +333,8 @@ a determiner, then one orphan is selected as the main dependent and it gets prom
 
 ~~~ sdparse
 Zatímco mně zbylo pět malých zelených jablíček , Petra měla tři velká červená . \n While to-me remained five small green apples , Petra had three big red .
-dobj(měla, červená)
-dobj(had, red)
+obj(měla, červená)
+obj(had, red)
 nummod(červená, tři)
 nummod(red, three)
 amod(červená, velká)
@@ -359,8 +359,8 @@ without inserting an empty node for the missing verb:
 Pavel si objednal hovězí a Markéta vepřové . \n Pavel himself ordered beef and Markéta pork .
 nsubj(objednal, Pavel-1)
 nsubj(ordered, Pavel-10)
-dobj(objednal, hovězí)
-dobj(ordered, beef)
+obj(objednal, hovězí)
+obj(ordered, beef)
 remnant(Pavel-1, Markéta-6)
 remnant(Pavel-10, Markéta-15)
 remnant(hovězí, vepřové)
@@ -384,8 +384,8 @@ the head (root) position and the other orphans are attached to it.
 ROOT A co na to MF ? \n ROOT And what to it MF ?
 root(ROOT-1, A)
 root(ROOT-9, And)
-dobj(A, co)
-dobj(And, what)
+obj(A, co)
+obj(And, what)
 nmod(A, to-5)
 nmod(And, it)
 case(to-5, na)

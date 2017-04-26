@@ -13,8 +13,8 @@ head gets elided).
 Pavel si objednal hovězí a Markéta vepřové . \n Pavel himself ordered beef and Markéta pork .
 nsubj(objednal, Pavel-1)
 nsubj(ordered, Pavel-10)
-dobj(objednal, hovězí)
-dobj(ordered, beef)
+obj(objednal, hovězí)
+obj(ordered, beef)
 remnant(Pavel-1, Markéta-6)
 remnant(Pavel-10, Markéta-15)
 remnant(hovězí, vepřové)

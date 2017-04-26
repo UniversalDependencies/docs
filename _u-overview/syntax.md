@@ -7,8 +7,8 @@ udver: '2'
 
 # Syntax: General Principles
 
-Syntactic annotation in the UD scheme consists of typed dependency relations between words. The _basic_ dependency representation forms a tree, where exactly one word is the head of the sentence, dependent on a notional ROOT and all other words are dependent 
-on another word in the sentence, as exemplified below (where we explicitly represent the root dependency which will 
+Syntactic annotation in the UD scheme consists of typed dependency relations between words. The _basic_ dependency representation forms a tree, where exactly one word is the head of the sentence, dependent on a notional ROOT and all other words are dependent
+on another word in the sentence, as exemplified below (where we explicitly represent the root dependency which will
 otherwise be left implicit).
 
 ~~~ sdparse
@@ -24,7 +24,7 @@ obj(buy, apple)
 ~~~
 
 In addition to the basic dependency representation, which is obligatory for all UD treebanks, it is possible to give an _enhanced_ dependency representation, which adds (and in a few cases changes) relations in order to give a more complete
-basis for semantic interpretation. The enhanced representation is in general 
+basis for semantic interpretation. The enhanced representation is in general
 not a tree but a general graph structure, as shown below (enhanced dependencies in blue).
 
 ~~~ conllu
@@ -57,12 +57,12 @@ In the rest of this document, we discuss the fundamental principles of our depen
 
 The goal of the typed dependency relations is a set of broadly observed "universal dependencies" that work across languages. Such dependencies seek to maximize parallelism by allowing the same grammatical relation to be annotated the same way across languages, while making enough crucial distinctions such that different things can be differentiated. Two things should be noted from the outset:
 
-* The goal of parallelism has limits: The standard does not postulate and annotate "empty" things that do not appear in various languages, and it allows the use of language-specific refinements of universal dependencies to represent particular relations of language-particular importance. 
-* The notion of dependency has limits: Not all grammatical relations can be reduced to binary asymmetric relations between a syntactic head and a subordinate element, and some of our typed "dependency" relations therefore must be understood as convenient encodings of other relations without implications about syntactic headedness. 
+* The goal of parallelism has limits: The standard does not postulate and annotate "empty" things that do not appear in various languages, and it allows the use of language-specific refinements of universal dependencies to represent particular relations of language-particular importance.
+* The notion of dependency has limits: Not all grammatical relations can be reduced to binary asymmetric relations between a syntactic head and a subordinate element, and some of our typed "dependency" relations therefore must be understood as convenient encodings of other relations without implications about syntactic headedness.
 
 <!-- This holds in particular for relations used to analyze multiword expressions, coordination and function words.-->
 
-We now try to lay down some general principles that should guide the use of universal dependencies to achieve as much parallelism as possible (but not more) across languages. 
+We now try to lay down some general principles that should guide the use of universal dependencies to achieve as much parallelism as possible (but not more) across languages.
 
 ## The Primacy of Content Words
 
@@ -142,8 +142,8 @@ amod(tancor, lučšij)
 
 ## The Status of Function Words
 
-The primacy of content words implies that function words normally do not have dependents of their own. 
-In particular, it means that multiple function words related to the same content word always appear as 
+The primacy of content words implies that function words normally do not have dependents of their own.
+In particular, it means that multiple function words related to the same content word always appear as
 siblings, never in a nested structure, regardless of their interpretation.
 A typical case is that of auxiliary verbs, which never depend on each other.
 
@@ -155,7 +155,7 @@ aux:pass(injured, been)
 </div>
 
 Note that copula verbs are also counted as auxiliaries in this respect. In copula constructions, auxiliaries
-will therefore often be attached to predicates that are not verbs. 
+will therefore often be attached to predicates that are not verbs.
 
 <div id="s3b" class="sd-parse">
 She could have been sick .
@@ -174,12 +174,12 @@ nummod(books, three)
 </div>
 
 We are aware that the choice to treat function words formally as dependents of content words is at odds with some
-versions of dependency grammar, which prefer the opposite relation for many syntactic constructions. 
-We prefer to view the relations between content words and function words, not as dependency relations in the narrow 
-sense, but as operations that modify the grammatical category of the content word so that it can participate in 
-different dependency relations with other content words. We refer to these relations as _functional relations_ or 
-_function word relations_ when we want to emphasize that they are different from dependency relations between content words. 
-This view makes function words functionally (but not structurally) similar to morphological operations and is compatible with Tesnière's notion of the nucleus as the locus of syntactic dependencies.  
+versions of dependency grammar, which prefer the opposite relation for many syntactic constructions.
+We prefer to view the relations between content words and function words, not as dependency relations in the narrow
+sense, but as operations that modify the grammatical category of the content word so that it can participate in
+different dependency relations with other content words. We refer to these relations as _functional relations_ or
+_function word relations_ when we want to emphasize that they are different from dependency relations between content words.
+This view makes function words functionally (but not structurally) similar to morphological operations and is compatible with Tesnière's notion of the nucleus as the locus of syntactic dependencies.
 
 Nevertheless, there are four important exceptions to the rule that function words do not take dependents:
 
@@ -260,8 +260,8 @@ case(midnight, before)
 advmod(midnight, right)
 </div>
 
-The analysis here is that _right_ modifies the entire phrase _before midnight_ and therefore attaches to _midnight_, 
-which is the head of this phrase. (It is a general property of dependency trees that phrase modification is 
+The analysis here is that _right_ modifies the entire phrase _before midnight_ and therefore attaches to _midnight_,
+which is the head of this phrase. (It is a general property of dependency trees that phrase modification is
 structurally indistinguishable from head modification.) Further support for this analysis comes from the possibility
 of replacing _before midnight_ by the adverb _then_.
 
@@ -280,15 +280,15 @@ To sum up, our treatment of function word modifiers can be expressed in three pr
   2. Other function words can also take (other) light adverbial modifiers.
   3. When in doubt, prefer a flat structure where function words attach to a content word.
 
-Note also that the language-specific documentation should specify what words (if any) are treated as pure function words 
+Note also that the language-specific documentation should specify what words (if any) are treated as pure function words
 in that language.
 
 ### Promotion by Head Elision
 
 When the natural head of a function word is elided, the function word will be "promoted"
-to the function normally assumed by the content word head. This type of analysis should 
+to the function normally assumed by the content word head. This type of analysis should
 in general be preferred over an analysis using the [u-dep/orphan]() relation, because it disrupts
-the structure less. The orphan analysis of ellipsis should only be used when there is no function word 
+the structure less. The orphan analysis of ellipsis should only be used when there is no function word
 that can be promoted. The following examples illustrate promotion of auxiliaries, prepositions
 and subordinating conjunctions.
 
@@ -316,7 +316,7 @@ ccomp(know, how)
 ## The Taxonomy of Typed Dependencies
 
 We now review some of the key ideas underlying our taxonomy of typed dependency relations, focusing first on the central
-dependency relations between content words. 
+dependency relations between content words.
 
 ### Core Arguments vs. Oblique Modifiers
 
@@ -338,7 +338,7 @@ Syntactically, there is not a single criterion which can be used crosslinguistic
 
 At the end of the day, the distinction must be drawn and documented on language particular grounds. For example, many languages have certain verbs which take arguments in oblique cases such as dative or an experiencer case, but these arguments should be regarded as core arguments based on their syntactic behavior being parallel to the arguments of other transitive verbs.
 
-#### Avoiding an argument/adjunct distinction 
+#### Avoiding an argument/adjunct distinction
 
 Many grammatical frameworks suggest that some obliques are selected by or are arguments of a head (for instance, a source argument of _from the Queen_ is an argument of the head _receive_), while other obliques are general adjuncts, which can appear with any predicate without the head selecting for them (for instance, a temporal argument such as _after the holidays_).
 
@@ -351,7 +351,7 @@ The core-oblique distinction is generally accepted in language typology as being
 
 ### A Mixed Functional-Structural System
 
-One major role of dependencies is to represent function, but the Universal Dependencies also encode structural notions. 
+One major role of dependencies is to represent function, but the Universal Dependencies also encode structural notions.
 On the structural side, languages are taken to principally involve three things:
 
 * Nominal phrases (which are the usual means of entity expression, but may also be used for other things)
@@ -402,9 +402,9 @@ To classify dependents of the main predicate in a clause, the UD taxonomy obeys 
 - capture clausal modifiers of nouns that do not take the form of a relative clause
 
 Additional distinctions (for example, with respect to voice) can be captured via language-specific subtypes
-(such as `nsubj:pass` for the subject of a passivized verb). 
+(such as `nsubj:pass` for the subject of a passivized verb).
 Note that the UD taxonomy does not attempt to differentiate finite from nonfinite clauses.
- 
+
 ### Coordination
 
 We treat coordinate structures asymmetrically:
@@ -422,8 +422,8 @@ cc(went, and)
 ### Multiword Expressions
 
 Multiword expressions (MWEs) are combinations of words that (in some respect and to different degrees) behave
-as lexical units rather than compositional syntactic phrases. The UD taxonomy contains three special relations 
-for analyzing MWEs: 
+as lexical units rather than compositional syntactic phrases. The UD taxonomy contains three special relations
+for analyzing MWEs:
 
 * [u-dep/fixed]() is used to analyze fixed grammaticized function-word MWEs like _in spite of_ (see above)
 * [u-dep/flat]() is used to analyze exocentric semi-fixed MWEs like _Barack Obama_ with no clear head
@@ -461,16 +461,16 @@ obj(bought, enclosure)
 
 ### Special Relations
 
-Besides core dependency relations, functional relations, and relations for analyzing coordination, MWEs and punctuation, 
-the UD taxonomy includes a number of special relations for handling things like orthographic errors in text, disfluencies in speech, and list structures without internal syntactic structure. 
+Besides core dependency relations, functional relations, and relations for analyzing coordination, MWEs and punctuation,
+the UD taxonomy includes a number of special relations for handling things like orthographic errors in text, disfluencies in speech, and list structures without internal syntactic structure.
 
-<!--Some of the universal relations do not really encode syntactic dependency relations but are used to represent 
-punctuation, various kinds of multiword units, or unanalyzable segments. The use of these relations is subject 
+<!--Some of the universal relations do not really encode syntactic dependency relations but are used to represent
+punctuation, various kinds of multiword units, or unanalyzable segments. The use of these relations is subject
 to special restrictions explained below.
 
 Tokens with the relation [u-dep/punct]() always attach to content words (except in cases of ellipsis) and can never have dependents.
 
-Since `punct` is not a normal dependency relation, the usual criteria for determining the head word do not apply. 
+Since `punct` is not a normal dependency relation, the usual criteria for determining the head word do not apply.
 Instead, we use the following principles:
 
 1. A punctuation mark separating coordinated units is attached to the first conjunct.
@@ -480,7 +480,7 @@ Instead, we use the following principles:
 
 <div id="punct1" class="sd-parse">
 We have apples , pears , oranges , and bananas .
-dobj(have, apples)
+obj(have, apples)
 conj(apples, pears)
 conj(apples, oranges)
 conj(apples, bananas)

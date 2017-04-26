@@ -31,11 +31,11 @@ the information about case conditions.
 Kolik mužů hrálo karty ? \n How-many men played cards ?
 det:numgov(mužů, Kolik)
 nsubj(hrálo, mužů)
-dobj(hrálo, karty)
+obj(hrálo, karty)
 punct(hrálo, ?-5)
 det:numgov(men, How-many)
 nsubj(played, men)
-dobj(played, cards)
+obj(played, cards)
 punct(played, ?-11)
 ~~~
 

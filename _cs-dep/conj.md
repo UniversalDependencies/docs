@@ -18,8 +18,8 @@ conj(old, wise)
 
 ~~~ sdparse
 Máme jablka , hrušky , pomeranče a banány . \n We-have apples , pears , oranges and bananas .
-dobj(Máme, jablka)
-dobj(We-have, apples)
+obj(Máme, jablka)
+obj(We-have, apples)
 conj(jablka, hrušky)
 conj(jablka, pomeranče)
 conj(jablka, banány)

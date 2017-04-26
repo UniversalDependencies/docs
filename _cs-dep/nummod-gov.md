@@ -28,11 +28,11 @@ the information about case conditions.
 Pět mužů hrálo karty . \n Five men played cards .
 nummod:gov(mužů, Pět)
 nsubj(hrálo, mužů)
-dobj(hrálo, karty)
+obj(hrálo, karty)
 punct(hrálo, .-5)
 nummod:gov(men, Five)
 nsubj(played, men)
-dobj(played, cards)
+obj(played, cards)
 punct(played, .-11)
 ~~~
 

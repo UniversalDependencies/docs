@@ -99,7 +99,7 @@ If the main predicate is elided, we use simple promotion only if there is an `au
 Example:
 
 ~~~ sdparse
-Sue likes pasta and Peter does , too . 
+Sue likes pasta and Peter does , too .
 
 nsubj(likes-2, Sue-1)
 obj(likes-2, pasta-3)
@@ -109,7 +109,7 @@ advmod(does-6, too-8)
 ~~~
 
 ~~~ sdparse
-Sue is hungry and Peter is , too . 
+Sue is hungry and Peter is , too .
 
 nsubj(hungry-3, Sue-1)
 cop(hungry-3, is-2)
@@ -155,7 +155,7 @@ obj(like-2, tea-3)
 conj(like-2, you-5)
 cc(you-5, and-4)
 orphan(you-5, coffee-6)
-~~~ 
+~~~
 
 ~~~ sdparse
 Mary wants to buy a book and Jenny a CD .
@@ -165,7 +165,7 @@ xcomp(wants-2, buy-4)
 obj(buy-4, book-6)
 conj(wants-2, Jenny-8)
 orphan(Jenny-8, CD-10)
-~~~ 
+~~~
 
 ~~~ sdparse
 They had left the company , many for good .
@@ -184,15 +184,15 @@ xcomp(wants-2, buy-4)
 obj(buy-4, book-6)
 root(ROOT, Jenny)
 orphan(Jenny, CD)
-~~~ 
+~~~
 
-Note that the `orphan` relation is only used when an ordinary relation would be misleading (for example, when attaching an object to a subject). In particular, the ordinary `cc` relation should be used for the coordinating conjunction, which attaches to the pseudo-constituent formed through the `orphan` dependency. 
+Note that the `orphan` relation is only used when an ordinary relation would be misleading (for example, when attaching an object to a subject). In particular, the ordinary `cc` relation should be used for the coordinating conjunction, which attaches to the pseudo-constituent formed through the `orphan` dependency.
 
 ## Multiword Expressions
 
 Multiword expressions (MWEs) are combinations of words that (in some respect and to different degrees) behave
-as lexical units rather than compositional syntactic phrases. The UD taxonomy contains three special relations 
-for analyzing MWEs: 
+as lexical units rather than compositional syntactic phrases. The UD taxonomy contains three special relations
+for analyzing MWEs:
 
 * [u-dep/fixed]() are used to analyze fixed grammaticized MWEs like _in spite of_ (see above)
 * [u-dep/flat]() are used to analyze exocentric semi-fixed MWEs like _Barack Obama_
@@ -241,7 +241,7 @@ Y can be of a range of syntactic types, leading to surface forms such as those e
 
 We note that the head of the whole construction appears to be the head of the X phrase. We can simply say:
 
-*  _Commitment is important._ 
+*  _Commitment is important._
 *  _Get the cash to him soon._
 *  _I put in flour._
 
@@ -381,7 +381,7 @@ mark(sober, than)
 advcl(better, sober)
 ~~~
 
-In general, we treat whatever remnant that remains as still an [u-dep/advcl](), as above. 
+In general, we treat whatever remnant that remains as still an [u-dep/advcl](), as above.
 
 However, a limiting case of this is that only a nominal is present:
 
@@ -446,17 +446,17 @@ advmod(year, more)
 ## Paratactic Constructions
 
 The [parataxis]() relation is used to analyze a number of constructions where clauses are combined
-by relations that are looser than standard coordination. 
+by relations that are looser than standard coordination.
 
 ### Side-by-side sentences ("run-on sentences")
 
-The [parataxis]() relation is used for a pair of what could have been standalone sentences, 
+The [parataxis]() relation is used for a pair of what could have been standalone sentences,
 but which are being treated together as a single sentence. This may happen because sentence
 segmentation of the sentence was done primarily following the presence of sentence-final punctuation,
 and these clauses are joined by punctuation such as a colon or comma, or not delimited by punctuation
 at all. In a spoken corpus, it may happen because what is labeled as a sentence is more
 commonly an utterance turn. Even if the treebanker is doing the sentence division, it may
-happen because there seems to be a clear discourse relation linking two clauses. 
+happen because there seems to be a clear discourse relation linking two clauses.
 Sometimes there are more than two sentences joined in this way. In this case we make all the later sentences
 dependents of the first one, to maximize similarity to the analysis used for conjunction.
 
@@ -484,14 +484,14 @@ parataxis(left, said)
 ~~~
 
 there are paraphrases that convey essentially the same meaning but
-with a different syntactic structure. When the reported speech is embedded in a subordinate clause (with or 
+with a different syntactic structure. When the reported speech is embedded in a subordinate clause (with or
 without an overt complementizer _that_), the subordinate clause is a [ccomp]() of the speech verb. When the
 reported speech follows the speech verb and is separated by a colon, the reported speech forms a main clause
 that attaches to the preceding main clause with a [parataxis]() relation, hence with the speech verb as its head.
 However, when the speech verb occurs as a medial or final parenthetical, the relation is reversed and the speech
-verb is treated as a [parataxis]() of the reported speech. 
+verb is treated as a [parataxis]() of the reported speech.
 This analysis is not uncontroversial but follows many authorities, such as Huddleston and Pullum (2002),
-_The Cambridge Grammar of the English Language_ (see chapter 11, section 9). 
+_The Cambridge Grammar of the English Language_ (see chapter 11, section 9).
 
 ~~~ sdparse
 John said that the guy left early in the morning .
@@ -525,12 +525,12 @@ parataxis(left, said)
 
 An argument for this analysis is that in the cases analyzed as embedding, the entire clause
 can be further embedded (_I was taken aback when John said the guy left early in the morning._),
-while this is not possible with medial or final placement of the speech verb 
+while this is not possible with medial or final placement of the speech verb
 (_*I was taken aback when the guy left early this morning, John said._).
 
 ### News Article Bylines
 
-We have used the parataxis relation to connect the parts of a news article byline. 
+We have used the parataxis relation to connect the parts of a news article byline.
 There does not seem to be a better relation to use.
 
 ~~~ sdparse
@@ -581,9 +581,9 @@ I agree , we should apply for membership .
 parataxis(agree, apply)
 ~~~
 
-## Punctuation 
+## Punctuation
 
-Tokens with the relation [u-dep/punct]() always attach to content words (except in cases of ellipsis) and can never have dependents. Since `punct` is not a normal dependency relation, the usual criteria for determining the head word do not apply. 
+Tokens with the relation [u-dep/punct]() always attach to content words (except in cases of ellipsis) and can never have dependents. Since `punct` is not a normal dependency relation, the usual criteria for determining the head word do not apply.
 Instead, we use the following principles:
 
 1. A punctuation mark separating coordinated units is attached to the immediately following conjunct.
@@ -593,7 +593,7 @@ Instead, we use the following principles:
 
 <div id="punct1" class="sd-parse">
 We have apples , pears , oranges , and bananas .
-dobj(have, apples)
+obj(have, apples)
 conj(apples, pears)
 conj(apples, oranges)
 conj(apples, bananas)

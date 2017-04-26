@@ -81,7 +81,7 @@ occurrences in the same paragraph)
   * _Иван лучший танцор_ / _Ivan lučšij tancor_ “Ivan is the best dancer”
   * राम इवान से भी बेहतर है / _rāma ivāna se bhī behatara hai_ “Ram is even better than Ivan”
 * To emphasize part of an example, use the `<b>` tag. For example, `_<b>Which</b> car_` renders as follows: _<b>Which</b> car_.
-  * To emphasize text that is not part of an example, use `_light emphasis_` (rendering as _light emphasis_) or `**heavy emphasis**` (**heavy emphasis**), but _not_ the `<b>` tag. 
+  * To emphasize text that is not part of an example, use `_light emphasis_` (rendering as _light emphasis_) or `**heavy emphasis**` (**heavy emphasis**), but _not_ the `<b>` tag.
 * If an in-line example shall contain a verbose translation, it is also italics and without quotes, separated by the non-italics abbreviation “lit.” Multi-word expressions that correspond to one token in the original language are joined by a hyphen. The verbose translation is followed by a fluent English translation in its usual format.
   * _Seděla na lavičce pod mostem._ lit. _She-sat on bench under bridge._ “She was sitting on a bench under the bridge.”
 * If it is necessary / expedient to identify the language of the example, it is either identified in plain English (such as German _ich bin gekommen_ “I have come”) or the ISO 639 language code in square brackets is used as shortcut (such as [de] _ich bin gekommen_ “I have come”).
@@ -125,12 +125,12 @@ is generated from this input:
     A copula is the relation between the complement of a copular verb and
     the copular verb *to be* (only).  (We normally take a copula as a dependent of its
     complement.)
-    
+
     ~~~ sdparse
     Bill is an honest man
     cop(man, is)
     ~~~
-    
+
     ~~~ sdparse
     Ivan is the best dancer
     nsubj(dancer-5, Ivan-1)
@@ -138,7 +138,7 @@ is generated from this input:
     det(dancer-5, the-3)
     amod(dancer-5, best-4)
     ~~~
-    
+
     The copula *be* is not treated as the
     head of a clause, but rather the dependent of a lexical predicate, as exemplified above.
 
@@ -189,11 +189,11 @@ document instead of the "real" documents.
 
 To edit the actual documentation, first find the page you're
 interested in. For example, to navigate to the documentation for the
-English language `dobj` (direct object) dependency:
+English language `obj` (direct object) dependency:
 
 * Start from the homepage ([http://universaldependencies.org/](http://universaldependencies.org/))
 * Click on the "English relations index" link (go to [http://universaldependencies.org/en/dep/index.html](http://universaldependencies.org/en/dep/index.html))
-* Click on the "dobj" link (go to [http://universaldependencies.org/en/dep/dobj.html](http://universaldependencies.org/en/dep/dobj.html))
+* Click on the "obj" link (go to [http://universaldependencies.org/en/dep/obj.html](http://universaldependencies.org/en/dep/obj.html))
 
 Then, edit and save your changes:
 

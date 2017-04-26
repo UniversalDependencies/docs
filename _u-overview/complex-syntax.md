@@ -11,7 +11,7 @@ udver: '2'
 * [Subordinate clauses](#subordination)
 * [Secondary predicates](#secondary-predicates)
 
-## Coordination 
+## Coordination
 
 Complex clauses involving coordination arise when two main clauses or two subordinate clauses at the same level are
 linked in a coordinate structure, which may or may not involve an overt coordinating conjunction. We treat coordinate structures asymmetrically by taking the first conjunct as the head with all other conjuncts attached to it via the [u-dep/conj]() relation. Coordinating conjunctions and punctuation delimiting the conjuncts are attached to the immediately following conjunct using the [u-dep/cc]() and [u-dep/punct]() relations respectively.
@@ -39,17 +39,17 @@ As a special case, the first conjunct may be implicit or part of an earlier sent
 ~~~ sdparse
 And then we left .
 cc(left, And)
-~~~ 
+~~~
 
-### Ellipsis in Clause Coordination 
+### Ellipsis in Clause Coordination
 
 Coordination is often combined with _ellipsis_, where one or more of the normally obligatory constituents
-of a clause or omitted because they can be inferred from material in another conjunct. 
+of a clause or omitted because they can be inferred from material in another conjunct.
 
 If the main predicate is elided, an associated `aux` or `cop` can be promoted to head of the clause.
 
 ~~~ sdparse
-Sue likes pasta and Peter does , too . 
+Sue likes pasta and Peter does , too .
 
 nsubj(likes-2, Sue-1)
 obj(likes-2, pasta-3)
@@ -59,7 +59,7 @@ advmod(does-6, too-8)
 ~~~
 
 ~~~ sdparse
-Sue is hungry and Peter is , too . 
+Sue is hungry and Peter is , too .
 
 nsubj(hungry-3, Sue-1)
 cop(hungry-3, is-2)
@@ -77,9 +77,9 @@ nsubj(like-2, I-1)
 obj(like-2, tea-3)
 nsubj(coffee-6, you-5)
 conj(like-2, coffee-6)
-~~~ 
+~~~
 
-In such cases, we therefore use the special `orphan` relation to attach siblings to the promoted element. 
+In such cases, we therefore use the special `orphan` relation to attach siblings to the promoted element.
 
 ~~~ sdparse
 I like tea and you coffee .
@@ -89,7 +89,7 @@ obj(like-2, tea-3)
 conj(like-2, you-5)
 cc(you-5, and-4)
 orphan(you-5, coffee-6)
-~~~ 
+~~~
 
 ~~~ sdparse
 Mary wants to buy a book and Jenny a CD .
@@ -99,7 +99,7 @@ xcomp(wants-2, buy-4)
 obj(buy-4, book-6)
 conj(wants-2, Jenny-8)
 orphan(Jenny-8, CD-10)
-~~~ 
+~~~
 
 ~~~ sdparse
 They had left the company , many for good .
@@ -118,14 +118,14 @@ xcomp(wants-2, buy-4)
 obj(buy-4, book-6)
 root(ROOT, Jenny)
 orphan(Jenny, CD)
-~~~ 
+~~~
 
-Note that the `orphan` relation is only used when an ordinary relation would be misleading (for example, when attaching an object to a subject). In particular, the ordinary `cc` relation should be used for the coordinating conjunction, which attaches to the pseudo-constituent formed through the `orphan` dependency. 
+Note that the `orphan` relation is only used when an ordinary relation would be misleading (for example, when attaching an object to a subject). In particular, the ordinary `cc` relation should be used for the coordinating conjunction, which attaches to the pseudo-constituent formed through the `orphan` dependency.
 
 ## Subordination
 
 Complex clauses involving subordination arise because a core or non-core dependent is realized as a clausal structure.
-We distinguish four basic types: 
+We distinguish four basic types:
 
 1. Clausal subjects ([u-dep/csubj]()).
 2. Clausal complements (objects), divided into those with obligatory control ([u-dep/xcomp]()) and those without ([u-dep/ccomp]()).
@@ -156,7 +156,7 @@ csubj:pass(received, said)
 
 ### Clausal Complements (Objects)
 
-A clausal complement of a verb or adjective is a dependent clause 
+A clausal complement of a verb or adjective is a dependent clause
 which is a core argument. That is, it functions like an object of the verb, or
 adjective.
 
@@ -224,7 +224,7 @@ nsubj(is, problem)
 (In these cases, the copula is treated as a head to preserve the integrity of clause boundaries and prevent one predicate to
 be assigned two subjects. This is not an optimal solution given the analysis of equational constructions involving nominals, where one of the nominals is treated as the head, but it is the preferred solution for now.)
 
-### Adverbial Clause Modifiers 
+### Adverbial Clause Modifiers
 
 An adverbial clause modifier is a clause which modifies a verb or other predicate (adjective, etc.),
 as a modifier not as a core complement. This includes things such as a temporal clause, consequence, conditional clause, purpose
@@ -252,7 +252,7 @@ advcl(upset, talked)
 
 ### Adnominal Clause Modifiers
 
-An adnominal clause modifier is a clause which modifies a nominal. 
+An adnominal clause modifier is a clause which modifies a nominal.
 
 ~~~ sdparse
 the issues as he sees them
@@ -260,12 +260,12 @@ acl(issues, sees)
 ~~~
 
 ~~~ sdparse
-Cette affaire à suivre \n This case to follow 
+Cette affaire à suivre \n This case to follow
 acl(affaire, suivre)
 ~~~
 
-This relation is also used for optional depictives. The adjective is taken to modify the nominal of 
-which it provides a secondary predication. 
+This relation is also used for optional depictives. The adjective is taken to modify the nominal of
+which it provides a secondary predication.
 
 ~~~ sdparse
 She entered the room sad
@@ -277,8 +277,8 @@ He painted the model naked
 acl(model, naked)
 ~~~
 
-A relative clause is a special type of adnominal clause, characterized by finiteness and usually omission of 
-the modified noun in the embedded clause. Some languages use a language-particular subtype for 
+A relative clause is a special type of adnominal clause, characterized by finiteness and usually omission of
+the modified noun in the embedded clause. Some languages use a language-particular subtype for
 the traditional class of relative clauses.
 
 ~~~ sdparse
@@ -286,8 +286,8 @@ I saw the man you love
 acl(man, love)
 ~~~
 
-Some languages allow finite clausal complements for nouns with 
-a subset of nouns like *fact* or *report*. These look roughly like relative clauses, but do not have any 
+Some languages allow finite clausal complements for nouns with
+a subset of nouns like *fact* or *report*. These look roughly like relative clauses, but do not have any
 omitted role in the dependent clause. This is the class of "content
 clauses" in Huddleston and Pullum 2002). These are also analyzed as `acl`.
 
@@ -318,7 +318,7 @@ Huddleston and Pullum (2002) “The Cambridge Grammar of the English Language”
 * _The pond froze **solid**._ [optional, resultative, intransitive host]
 * _He painted the house **blue**._ [optional, resultative, transitive host]
 
-In UD, obligatory predicatives are always treated as an `xcomp`: The secondary predicate is attached as an `xcomp` of the main predicate. In most cases, as well as an adjective depictive, you can use a verbal or nominal predicate in the same position (e.g., _He looked [an idiot]_; _This made me [seethe with anger]_). 
+In UD, obligatory predicatives are always treated as an `xcomp`: The secondary predicate is attached as an `xcomp` of the main predicate. In most cases, as well as an adjective depictive, you can use a verbal or nominal predicate in the same position (e.g., _He looked [an idiot]_; _This made me [seethe with anger]_).
 
 ~~~ sdparse
 She declared the cake beautiful .
@@ -347,7 +347,7 @@ xcomp(jmenovat, generálem)
 
 The relation `xcomp` is used for core arguments of clausal predicates,
 so it will not be used for some other instances of secondary predication.
-Optional depictives are analyzed as adjuncts, and made the [acl]() of the nominal that they semantically modify (if one is present). 
+Optional depictives are analyzed as adjuncts, and made the [acl]() of the nominal that they semantically modify (if one is present).
 
 For instance, in _She entered the room sad_ we also have a double predication
 (she entered the room; she was sad).
@@ -381,7 +381,7 @@ advcl(Vstoupila, smutná)
 advcl(She-entered, sad)
 ~~~
 
-The remaining, most subtle case is optional resultatives. For these, 
+The remaining, most subtle case is optional resultatives. For these,
 we uniformly use `xcomp`:
 
 ~~~ sdparse
@@ -393,7 +393,7 @@ xcomp(painted, blue)
 Even though the resultative is optional here, one may argue that it is still a complement (an argument) of the higher verb
 (he is painting something blue), in a way that is not true of depictives. Such an analysis of optional resultatives as core arguments is adopted for English by Huddleston and Pullum (p. 262). In LFG terms, we would say that the verb has acquired a new
 subcategorization frame by application of a lexical rule, and that this frame
-includes an additional `xcomp` argument. Such an analysis is buttressed by the fact that normally intransitive verbs like _to bark_ can also form similar resultatives by gaining a new subcategorization which adds both a `dobj` and an `xcomp`, as in the example below.
+includes an additional `xcomp` argument. Such an analysis is buttressed by the fact that normally intransitive verbs like _to bark_ can also form similar resultatives by gaining a new subcategorization which adds both a `obj` and an `xcomp`, as in the example below.
 
 ~~~ sdparse
 The dog barked the neighbors awake .

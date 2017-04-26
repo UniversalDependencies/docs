@@ -5,7 +5,7 @@ shortdef: 'punctuation'
 ---
 
 This is used for any piece of punctuation in a clause.
-See 
+See
 
 ~~~ sdparse
 Jdi domů ! \n Go home !
@@ -14,7 +14,7 @@ punct(Go, !-7)
 ~~~
 
 Tokens with the relation `punct` always attach to content words (except in cases of ellipsis) and can never have dependents.
-Since `punct` is not a normal dependency relation, the usual criteria for determining the head word do not apply. 
+Since `punct` is not a normal dependency relation, the usual criteria for determining the head word do not apply.
 Instead, we use the following principles:
 
 1. A punctuation mark separating coordinated units is attached to the first conjunct.
@@ -24,8 +24,8 @@ Instead, we use the following principles:
 
 ~~~ sdparse
 Máme jablka , hrušky , pomeranče a banány . \n We-have apples , pears , oranges and bananas .
-dobj(Máme, jablka)
-dobj(We-have, apples)
+obj(Máme, jablka)
+obj(We-have, apples)
 conj(jablka, hrušky)
 conj(jablka, pomeranče)
 conj(jablka, banány)

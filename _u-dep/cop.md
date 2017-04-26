@@ -27,7 +27,7 @@ amod(dancer-5, best-4)
 
 The copula *be* is not treated as the head of a clause, but rather the nonverbal predicate, as exemplified above.
 
-Such an analysis is motivated by the fact that many languages often or always lack an overt copula in such 
+Such an analysis is motivated by the fact that many languages often or always lack an overt copula in such
 constructions, as in the the following Russian example:
 
 ~~~ sdparse
@@ -44,7 +44,7 @@ nsubj(free, Email)
 ~~~
 
 This analysis is adopted also when the predicate is a prepositional phrase, provided that the same copula
-(or absence thereof) is used here, in which case the nominal part of the 
+(or absence thereof) is used here, in which case the nominal part of the
 prepositional phrase is the head of the clause.
 
 ~~~ sdparse
@@ -63,7 +63,7 @@ copula language:
 ~~~ sdparse
 I judge Ivan the best dancer
 nsubj(judge-2, I-1)
-dobj(judge-2, Ivan-3)
+obj(judge-2, Ivan-3)
 xcomp(judge-2, dancer-6)
 det(dancer-6, the-4)
 amod(dancer-6, best-5)

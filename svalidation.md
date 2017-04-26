@@ -2709,7 +2709,7 @@ Correct example:
 ~~~ sdparse
 
 This is a fact that we cannot ignore . You know that we cannot ignore it .
-dobj(ignore-8, that-5)
+obj(ignore-8, that-5)
 mark(ignore-15, that-12)
 
 ~~~
@@ -6030,7 +6030,7 @@ Search expression: `_ >nsubj|>csubj|>nsubj:pass|>csubj:pass _ >nsubj|>csubj|>nsu
 
 # Maximum one object
 
-<b>DEBUGGING TEST. NONZERO HITS DOES NOT MEAN THE DATA IS INVALID.</b> No predicate can have more than one direct object. Ccomp counts as direct object. (To certain extent xcomp does too, but dobj can co-occur with xcomp in cases of secondary predication, thus this test does not look at xcomp.)
+<b>DEBUGGING TEST. NONZERO HITS DOES NOT MEAN THE DATA IS INVALID.</b> No predicate can have more than one direct object. Ccomp counts as direct object. (To certain extent xcomp does too, but obj can co-occur with xcomp in cases of secondary predication, thus this test does not look at xcomp.)
 
 Search expression: `_ >obj|>ccomp _ >obj|>ccomp _`
 

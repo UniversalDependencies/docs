@@ -30,8 +30,8 @@ _A co na to [říká] MF?_
 ROOT A co na to MF ? \n ROOT And what to it MF ?
 root(ROOT-1, A)
 root(ROOT-9, And)
-dobj(A, co)
-dobj(And, what)
+obj(A, co)
+obj(And, what)
 nmod(A, to-5)
 nmod(And, it)
 case(to-5, na)

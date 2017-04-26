@@ -28,7 +28,7 @@ cc(left, And)
 
 <div id="punct1" class="sd-parse">
 We have apples , pears , oranges , and bananas .
-dobj(have, apples)
+obj(have, apples)
 conj(apples, pears)
 conj(apples, oranges)
 conj(apples, bananas)

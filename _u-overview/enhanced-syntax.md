@@ -78,7 +78,7 @@ The _basic_ trees lack a subject dependency between a controlled verb and its co
 </table>
 
 
-## Ellipsis 
+## Ellipsis
 
 (See also the guidelines on [ellipsis](specific-syntax.html#ellipsis).)
 
@@ -395,7 +395,7 @@ When the subject is attached to a control or raising predicate, there is a depen
 
 ### Conjoined modifiers
 
-Each conjunct in a conjoined modifier phrase gets attached to the governor of the modifier phrase. For example, the following phrase contains a conjoined adjectival phrase that modifies a noun. In the enhanced representation, there is an additional `amod` relation between the noun _river_ and the second conjunct _wide_. 
+Each conjunct in a conjoined modifier phrase gets attached to the governor of the modifier phrase. For example, the following phrase contains a conjoined adjectival phrase that modifies a noun. In the enhanced representation, there is an additional `amod` relation between the noun _river_ and the second conjunct _wide_.
 
 <table> <!--a long and wide river-->
 <tbody><tr><td width="600">
@@ -420,7 +420,7 @@ Each conjunct in a conjoined modifier phrase gets attached to the governor of th
 
 ## Relative clauses
 
-In _basic_ trees, relative pronouns are attached to the main predicate of the relative clause (typically with a `nsubj` or `dobj` relation). In the corresponding _enhanced_ graphs, the relative pronoun is attached to what it is referring to with the special `ref` relation and the governor of the relative clause is attached as an argument to the main predicate of the relative clause. Note that such graphs contain a cycle.
+In _basic_ trees, relative pronouns are attached to the main predicate of the relative clause (typically with a `nsubj` or `obj` relation). In the corresponding _enhanced_ graphs, the relative pronoun is attached to what it is referring to with the special `ref` relation and the governor of the relative clause is attached as an argument to the main predicate of the relative clause. Note that such graphs contain a cycle.
 
 <table> <!--the boy who lived-->
 <tbody><tr><td width="600">
