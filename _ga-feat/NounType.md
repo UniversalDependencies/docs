@@ -34,12 +34,14 @@ A final consonant is termed broad if the preceding vowel is broad (a, á, o, ó,
 
 #### Examples
 
-* _dathanna príomhúla_
-* _nótaí praiticiúla_
+* _dath<b>a</b>nna príomhúla_
+* _n<b>ó</b>taí praiticiúla_
 
 ### `Slender` : slender consonants
 
 A final consonant is termed slender if the preceding vowel is slender (e, é, i, í).
 
-* _na heagrais dheonacha_
-* _thuaithe cháilitheacha_
+#### Examples
+
+* _na heagra<b>i</b>s dheonacha_
+* _thua<b>i</b>the cháilitheacha_
