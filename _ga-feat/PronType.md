@@ -1,7 +1,7 @@
 ---
 layout: feature
 title: 'PronType'
-shortdef: 'pronoun type'
+shortdef: 'pronominal type'
 ---
 
 ### `Art` : articles
