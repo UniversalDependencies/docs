@@ -12,9 +12,9 @@ The indicative mood can be considered the default form of a verb. A verb in the 
 
 #### Examples
 
-* _<b>deirim</b>_ "I say"
-* _Conas <b>atá</b> sé?_ "How is he?"
-* _<b>Breacfaidh</b> mé <b>síos</b>_ "I will <b>jot down</b>"
+* _deirim_ "I say"
+* _thug sé_ "he gave"
+* _caithfidh mé_ "I will have to_
 
 ### `Cnd` : conditional mood
 
@@ -44,6 +44,4 @@ In Irish, the subjunctive mood is used to express a wish, or something that is n
 
 * _Go <b>n-imí</b> an diabhal do bhóthar_ "<b>May</b> the devil <b>be</b> gone from your way"
 * _I nDáil na bhFlaitheas go <b>raibh</b> sé_ "that he <b>was</b>"
-* _
-* _
 * _gan stoc a <b>shéide</b>_ "without a trumpet to <b>blow</b>"
