@@ -22,9 +22,9 @@ The conditional mood is used to express actions that are hypothetical or contrar
 
 #### Examples
 
-* _<b>ólfadh</b> sé_ "he <b>would drink</b>"
+* _<b>Ólfadh</b> sé_ "He <b>would drink</b>"
 * _Dá <b>bhfeicfeá</b>_ "if you <b>saw</b>"
-* _go <b>bhfeicfeadh</b> sé_ "that he <b>would see</b>"
+* _...go <b>bhfeicfeadh</b> sé_ "...that he <b>would see</b>"
 
 ### `Imp` : imperative mood
 
