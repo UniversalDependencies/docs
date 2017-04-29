@@ -16,12 +16,12 @@ udver: '2'
   * [Language-specific features](ext-feat-index.html)
   * [Conversion from other tagsets](tagset-conversion/index.html)
 * Syntax
-  * [General principles](u/overview/syntax.html)
+  * [General principles](u/overview/syntax.html) (content words, function words, dependency relation taxonomy)
   * Basic dependencies
     * [Simple clauses](u/overview/simple-syntax.html)
     * [Nominals](u/overview/nominal-syntax.html)
     * [Complex clauses](u/overview/complex-syntax.html)
-    * [Other constructions](u/overview/specific-syntax.html)
+    * [Other constructions](u/overview/specific-syntax.html) (coordination, ellipsis, MWEs, comparatives, parataxis, punctuation)
   * [Enhanced dependencies](u/overview/enhanced-syntax.html)
   * [Universal dependency relations](u/dep/index.html) ([single document](u/dep/all.html))
   * [Language-specific relations](ext-dep-index.html)
