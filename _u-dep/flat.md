@@ -8,7 +8,7 @@ udver: '2'
 The `flat` relation is one of three relations for multiword expressions multiword expressions (MWEs) in UD 
 (the other two being [fixed]() and [compound]()). It is used for exocentric (headless) semi-fixed MWEs like
 names (_Hillary Rodham Clinton_) and dates (_24 December_). It contrasts with [fixed](), which applies to
-to completely fixed grammaticized (function word-like) MWEs (like _in spite of_), and with [compound](), which applies to
+completely fixed grammaticized (function word-like) MWEs (like _in spite of_), and with [compound](), which applies to
 endocentric (headed) MWEs (like _apple pie_).
 
 Flat MWEs are annotated with a flat structure, where all subsequent words in the expression are attached to the 
