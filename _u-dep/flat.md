@@ -43,7 +43,8 @@ New York
 flat(New, York)
 ~~~
 
-Titles/honorifics are also analyzed using the `flat` relation.
+Titles/honorifics are also analyzed using the `flat` relation. Note that some titles are complex
+and have their own internal syntactic structure. Such structure is shown with regular relations embedded under `flat`:
 
 ~~~ sdparse
 Mr. Smith
@@ -53,6 +54,20 @@ flat(Mr., Smith)
 ~~~ sdparse
 President Obama
 flat(President, Obama)
+~~~
+
+~~~ sdparse
+French actor Gaspard Ulliel
+amod(actor-2, French-1)
+flat(actor-2, Gaspard-3)
+flat(actor-2, Ulliel-4)
+~~~
+
+~~~ sdparse
+der Milliardär Ross Perot \n the millionaire Ross Perot
+det(Milliardär-2, der-1)
+flat(Milliardär-2, Ross-3)
+flat(Milliardär-2, Perot-4)
 ~~~
 
 By contrast, names that have a regular syntactic structure, like _The Lord of the Rings_ and _Captured By
@@ -83,7 +98,7 @@ compound(Conservation-3, Resources-2)
 compound(Service-4, Conservation-3)
 ~~~
 
-In addition, regular syntactic relations are used: (i) for a modifying determiner or (ii) to connect 
+In addition, regular syntactic relations are used: (i) for a modifying determiner or similar function word and (ii) to connect 
 together the words of a description or name which involve embedded prepositional phrases, sentences, etc.,
 when these relations are (i) recognized in the language being annotated (i.e., the analyses below are for
 French, German, and Spanish, not English) and (ii) deemed not to be grammaticalized to the extent that the original role
@@ -145,8 +160,8 @@ flat(Al-1, Arabiya-2)
 nsubj(organization-7, Al-1)
 ~~~
 
-And in Modern German, these prepositions have generally just become a fossilized part of a family name 
-and appear without the given name. Again, here, analysis as `flat` seems appropriate:
+And in Modern German or French, these prepositions have generally just become a fossilized part of a family name 
+and regularly appear without the given name. Again, here, analysis as `flat` seems correct:
 
 ~~~ sdparse
 Von Hohenlohe gewann das Rennen . \n Von Hohenlohe won the race .
@@ -165,12 +180,18 @@ flat(Leland-1, Stanford-2)
 flat(Leland-1, Jr.-3)
 ~~~
 
+### Some further notes on relations for names
+
+_This paragraph briefly records some of the arguments that have been made in the past on relations for name structure. It is an issue over which there has historically been variation and about which there is some continuing debate._ Examples like 
+_French actor Gaspard Ulliel:_ Some treebanks have used `nmod` for titles and honorifics like _Mr._ or _French actor_. Most people think this is inappropriate, since an `nmod` dependent should be a full phrase, which will typically take its own case as a modifier in a cased language. In contrast, these titles seem to be part of the same phrase as the name that follows them; they show case agreement concord in a cased language. Some grammatical traditions, descending from Latin, call _French actor_ in such cases a "fixed (or close) apposition" and take the name as the head. UD has restricted the `appos` relation to following appositives (corresponding to "loose (or wide) apposition" in the Latin tradition). The relation `appos` is only used when you have two full nominals, typically joined loosely, and often separated by a punctuation mark like a comma. So `appos` is not correct for these cases. Sometimes the relation `compound` has been used, but this does not seem right. It implies headedness, and titles do not usually behave like compounds: in German, they are not joined to the following words, as compounds are normally joined in German, and they appear at the beginning of names in both German and Hebrew, even though German compounds are head last and Hebrew compounds are head first. So `compound` does not seem appropriate either. Some UDv1 treebanks used `name` for honorifics like _Mr._, although some felt that was wrong and `name` should be restricted to joining the proper nouns of multi-word names. In UDv2, `name` was removed and replaced by `flat`, which allowed a broader notion of a chunk of unheaded material. In the UDv2 guidelines, cases of both titles and honorifics are joined to names with `flat`.
+
+
 ## Dates and Complex Numerals
 
 Date expressions come in many shapes and forms across languages. In some cases, they have a very clear syntactic
 structure, as in _the 4th of July_, and should be annotated with regular dependency relations. In other cases, they
 have a flat structure with no clearly discernible head, as in _1 December 2016_, in which case the `flat` relation 
-should be used.
+should be used. 
 
 ~~~ sdparse
 the 4th of July
