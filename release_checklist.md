@@ -201,7 +201,8 @@ Every treebank should be accompanied by a set of language-specific guidelines at
 4. Relations: What universal relations are not used? What language-specific subtypes have been added?
 
 There are <a href="contributing_language_specific.html">more detailed guidelines for language-specific documentation.</a>
-Also see the general guidelines about <a href="contributing.html">how to contribute.</a>
+Also see the general guidelines about <a href="contributing.html">how to contribute</a> (which covers the conventions used in 
+writing UD documentation, such as how to format examples). 
 
 # Building the release
 
