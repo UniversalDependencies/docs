@@ -46,13 +46,56 @@ Paul Mnuchin , the senior Oregon state senator
 appos(Mnuchin-2, senator-8)
 ~~~
 
-As is often the case, there are borderline cases. In formal writing, punctuation is often a good signal of apposition, 
-but there are certainly cases that feel like apposition where no punctuation is used:
+As is often the case, there are borderline cases. In formal writing, punctuation is usually a good signal of apposition, 
+but there are certainly cases of apposition where no punctuation is used:
 
 ~~~ sdparse
 the leader of the militant Lebanese Shiite group Hassan Nasrallah
 appos(group-8, Hassan-9)
 flat(Hassan-9, Nasrallah-10)
+~~~
+
+Good tests include to ask whether the two halves are full nominals, whether the two halves can be swapped or not, and whether 
+there is case or agreement concord (in a language with rich morphology). So we have:
+
+~~~ sdparse
+I met the French actor Gaspard Ulliel
+nsubj(met-2, I-1)
+det(actor-5, the-3)
+amod(actor-5, French-4)
+obj(met-2, actor-5)
+appos(actor-5, Gaspard-6)
+flat(Gaspard-6, Ulliel-7)
+~~~
+
+~~~ sdparse
+I met Gaspard Ulliel the French actor 
+nsubj(met-2, I-1)
+obj(met-2, Gaspard-3)
+flat(Gaspard-3, Ulliel-4)
+det(actor-7, the-5)
+amod(actor-7, French-6)
+appos(Gaspard-3, actor-7)
+~~~
+
+~~~ sdparse
+I met Gaspard Ulliel , the French actor 
+nsubj(met-2, I-1)
+obj(met-2, Gaspard-3)
+flat(Gaspard-3, Ulliel-4)
+punct(Gaspard-3, ,-5)
+det(actor-8, the-6)
+amod(actor-8, French-7)
+appos(Gaspard-3, actor-8)
+~~~
+
+~~~ sdparse
+I met French actor Gaspard Ulliel
+nsubj(met-2, I-1)
+amod(actor-4, French-3)
+obj(met-2, actor-4)
+flat(actor-4, Gaspard-5)
+flat(actor-4, Ulliel-6)
 ~~~
 
 While items like abbreviations are generally reversable, the determiner test suggested above doesn't quite work there, since the determiner seems to belong with the main item:
