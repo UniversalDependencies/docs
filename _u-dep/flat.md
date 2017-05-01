@@ -64,7 +64,7 @@ flat(actor-2, Ulliel-4)
 ~~~
 
 ~~~ sdparse
-der Milliardär Ross Perot \n the millionaire Ross Perot
+der Milliardär Ross Perot \n the billionaire Ross Perot
 det(Milliardär-2, der-1)
 flat(Milliardär-2, Ross-3)
 flat(Milliardär-2, Perot-4)
