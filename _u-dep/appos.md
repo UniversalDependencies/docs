@@ -31,8 +31,11 @@ where the title is less than a full nominal, and reversal is impossible or would
 full nominal. We seem to have only one nominal not two here. For example:
 
 > President Obama
+
 > \*Obama President
+
 > state senator Paul Mnuchin
+
 > \*Paul Mnuchin state senator
 
 `appos` should not be used in such cases. However, often an apposition can be made by using a fuller form, such as:
@@ -42,12 +45,13 @@ Paul Mnuchin , the senior Oregon state senator
 appos(Mnuchin-2, senator-8)
 ~~~
 
-However, as is often the case, there are borderline cases. In formal writing, punctuation is often a good signal of apposition, 
+As is often the case, there are borderline cases. In formal writing, punctuation is often a good signal of apposition, 
 but there are certainly cases that feel like apposition where no punctuation is used:
 
 ~~~ sdparse
-the leader of the militant Lebanese Shiite group Hezbollah
-appos(group-8, Hezbollah-9)
+the leader of the militant Lebanese Shiite group Hassan Nasrallah
+appos(group-8, Hassan-9)
+flat(Hassan-9, Nasrallah-10)
 ~~~
 
 While items like abbreviations are generally reversable, the determiner test suggested above doesn't quite work there, since the determiner seems to belong with the main item:
@@ -87,7 +91,7 @@ conj(German, French)
 cc(French, or)
 ~~~
 
-*appos* is also used to link key-value pairs in addresses, signatures, etc. (see also the [list]() label):
+*appos* is also used to link key-value pairs in addresses, signature blocs, etc. (see also the [list]() label):
 
 ~~~ sdparse
 Steve Jones Phone: 555-9814 Email: jones@abc.edf
