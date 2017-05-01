@@ -64,13 +64,18 @@ flat(actor-2, Ulliel-4)
 ~~~
 
 ~~~ sdparse
-der Milliardär Ross Perot \n the billionaire Ross Perot
-det(Milliardär-2, der-1)
-flat(Milliardär-2, Ross-3)
-flat(Milliardär-2, Perot-4)
+Milliardär Ross Perot \n billionaire Ross Perot
+flat(Milliardär-1, Ross-2)
+flat(Milliardär-1, Perot-3)
 ~~~
 
-By contrast, names that have a regular syntactic structure, like _The Lord of the Rings_ and _Captured By
+However if the two halves of a descriptive title and a name appear to be two separate nominals, 
+then analysis with `flat` is not appropriate, and [u-dep/appos]() is appropriate. These cases are often set off by
+punctuation, such as a comma, but no punctuation may appear in more informal text. 
+You can generally test for such examples by asking if the two halves can be reversed; if they can, it is probably an `appos`; 
+see the examples there.
+
+In contrast to the above, names that have a regular syntactic structure, like _The Lord of the Rings_ and _Captured By
 Aliens_, should be annotated with regular syntactic relations.
 
 ~~~ sdparse
