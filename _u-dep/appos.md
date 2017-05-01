@@ -27,8 +27,9 @@ appos(Corporation-4, ABC-6)
 
 `appos` is intended to be used between two nominals. In general, modulo punctuation, the two halves of an apposition can be switched. 
 For example, you could also say _My brother, Sam, arrived._ There are somewhat similar constructions with titles 
-where the title is less than a full nominal, and reversal is impossible or would require insertion of a determiner to make a 
-full nominal. We seem to have only one nominal not two here. For example:
+where the title is less than a full nominal, such as _state senator Paul Mnuchin_, where reversal is impossible 
+or would require insertion of a determiner to make a 
+full nominal. Some grammatical traditions, descending from Latin, call _state senator_ in such cases a “fixed (or close) apposition” and take the name as the head. However, we seem to have only one nominal not two here. For example:
 
 > President Obama
 
@@ -38,7 +39,7 @@ full nominal. We seem to have only one nominal not two here. For example:
 
 > \*Paul Mnuchin state senator
 
-`appos` should not be used in such cases. However, often an apposition can be made by using a fuller form, such as:
+`appos` should not be used in such cases. However, the examples can usually be rendered in a fuller form, corresponding to “loose (or wide) apposition” in the Latin tradition, where there are two full phrases. Then the relation `appos` is appropriate, for example:
 
 ~~~ sdparse
 Paul Mnuchin , the senior Oregon state senator
@@ -91,7 +92,7 @@ conj(German, French)
 cc(French, or)
 ~~~
 
-*appos* is also used to link key-value pairs in addresses, signature blocs, etc. (see also the [list]() label):
+`appos` is also used to link key-value pairs in addresses, signature blocs, etc. (see also the [list]() label):
 
 ~~~ sdparse
 Steve Jones Phone: 555-9814 Email: jones@abc.edf
