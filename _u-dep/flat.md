@@ -85,8 +85,9 @@ compound(Service-4, Conservation-3)
 
 In addition, regular syntactic relations are used: (i) for a modifying determiner or (ii) to connect 
 together the words of a description or name which involve embedded prepositional phrases, sentences, etc.,
-when these relations are recognized in the language being annotated (i.e., the analyses below are for
-French, German, and Spanish, not English).
+when these relations are (i) recognized in the language being annotated (i.e., the analyses below are for
+French, German, and Spanish, not English) and (ii) deemed not to be grammaticalized to the extent that the original role
+of the function words has been lost.
 
 ~~~ sdparse
 Le Japon
@@ -115,7 +116,8 @@ nmod(Río-1, Plata-4)
 ~~~
 
 The above analyses of _Ludwig van Beethoven_ and _Miguel de Cervantes y Saavedra_ assume that _van_ resp. _de_ are prepositions.
-This is true in the languages of the names' origin, but it can be expected to change when the name is used in foreign text. For example,
+This is true in the languages of the names' origin, but it can be expected to change when the name is used in foreign text 
+or when sufficient grammaticalization has taken place. For example,
 when names like this are annotated in English, the appropriate analysis is as a `flat` name:
 
 ~~~ sdparse
@@ -141,6 +143,15 @@ flat(Río-1, Plata-4)
 Al Arabiya is a Saudi-owned news organization
 flat(Al-1, Arabiya-2)
 nsubj(organization-7, Al-1)
+~~~
+
+And in Modern German, these prepositions have generally just become a fossilized part of a family name 
+and appear without the given name. Again, here, analysis as `flat` seems appropriate:
+
+~~~ sdparse
+Von Hohenlohe gewann das Rennen . \n Von Hohenlohe won the race .
+flat(Von-1, Hohenlohe-2)
+nsubj(gewann-3, Von-1)
 ~~~
 
 In the case of proper entities named after people, e.g. _Leland Stanford Jr. University_, the `flat` relation 
