@@ -6,7 +6,7 @@ udver: '2'
 ---
 
 An appositional modifier of a noun is a nominal immediately following
-the first noun that serves to define or modify that noun. It includes
+the first noun that serves to define, modify, name, or describe that noun. It includes
 parenthesized examples, as well as defining abbreviations in one of
 these structures.
 
@@ -25,7 +25,47 @@ The Australian Broadcasting Corporation ( ABC )
 appos(Corporation-4, ABC-6)
 ~~~
 
-In case of more than one appositive nominal, all nouns should be marked as modifying the first noun, rather than being chained:
+`appos` is intended to be used between two nominals. In general, modulo punctuation, the two halves of an apposition can be switched. 
+For example, you could also say _My brother, Sam, arrived._ There are somewhat similar constructions with titles 
+where the title is less than a full nominal, and reversal is impossible or would require insertion of a determiner to make a 
+full nominal. We seem to have only one nominal not two here. For example:
+
+> President Obama
+> \*Obama President
+> state senator Paul Mnuchin
+> \*Paul Mnuchin state senator
+
+`appos` should not be used in such cases. However, often an apposition can be made by using a fuller form, such as:
+
+~~~ sdparse
+Paul Mnuchin , the senior Oregon state senator
+appos(Mnuchin-2, senator-8)
+~~~
+
+However, as is often the case, there are borderline cases. In formal writing, punctuation is often a good signal of apposition, 
+but there are certainly cases that feel like apposition where no punctuation is used:
+
+~~~ sdparse
+the leader of the militant Lebanese Shiite group Hezbollah
+appos(group-8, Hezbollah-9)
+~~~
+
+While items like abbreviations are generally reversable, the determiner test suggested above doesn't quite work there, since the determiner seems to belong with the main item:
+
+~~~ sdparse
+The ABC ( Australian Broadcasting Corporation )
+appos(ABC-2, Corporation-6)
+~~~
+
+While `appos` is normally between two nominals, there are a few cases where there is a relation with a clause, 
+such as when describing facts or events for which `appos` still feels appropriate:
+
+~~~ sdparse
+This problem , that people could lower their tax rates by choosing to become corporations , might become acute .
+appos(problem-2, lower-7)
+~~~
+
+In the rare cases of more than one appositive nominal, all nouns should be marked as modifying the first noun, rather than being chained:
 
 ~~~ sdparse
 Sam , my brother , John 's cousin , arrived
@@ -36,7 +76,7 @@ appos(Sam-1, cousin-8)
 Note however that nested apposition cannot be completely excluded. It may occur in combination with coordination:
 
 ~~~ sdparse
-You can choose between four subjects : language ( German or French ) , economy , technology and art .
+You can choose between four subjects , language ( German or French ) , economy , technology and art .
 appos(subjects, language)
 conj(language, economy)
 conj(language, technology)
