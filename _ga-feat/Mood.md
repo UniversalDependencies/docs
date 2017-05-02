@@ -12,13 +12,13 @@ The indicative mood can be considered the default form of a verb. A verb in the 
 
 #### Examples
 
-* _deirim_ "I say"
-* _thug sé_ "he gave"
-* _caithfidh mé_ "I will have to_
+* _Deirim_ "I say"
+* _Thug sé_ "He gave"
+* _Caithfidh mé_ "I will have to"
 
 ### `Cnd` : conditional mood
 
-The conditional mood is used to express actions that are hypothetical or contrary to known fact. In Irish, the conditional is expressed in two different verb endings; these endings begin with the suffix -<b>f</b>- or -<b>ó</b>-. In all but the 3rd person singular and the 2nd person plural, the verb endings are synthetic and do not require a subject pronoun. Conditional clauses are often introduced using <b>go</b> or <b>dá</b>.
+The conditional mood is used to express actions that are hypothetical. In Irish, the conditional is expressed in two different verb endings; these endings begin with the suffix _<b>-f-</b>_ or _<b>-ó-</b>_. In all but the 3rd person singular and the 2nd person plural, the verb endings are synthetic and do not require a subject pronoun. Conditional clauses are often introduced using <b>go</b> or <b>dá</b>.
 
 #### Examples
 
@@ -33,15 +33,14 @@ The imperative mood is used to give a command, express advice, or make a request
 ####  Examples
 
 * _<b>Ná habair</b> liom_ "<b>Don't tell</b> me"
-* _<b>bígí</b> ar ais anseo_ "<b>be</b> back here"
-* _<b>Chuiridís</b> oilithrigh amach_ "let them <b>send</b> the pilgrims out"
+* _<b>Bígí</b> ar ais anseo_ "<b>Be</b> back here"
+* _<b>Chuiridís</b> oilithrigh amach_ "Let them <b>send</b> the pilgrims out"
 
 ### `Sub` : subjunctive mood
 
-In Irish, the subjunctive mood is used to express a wish, or something that is not directly stated to be factual. It is normally formed with the particle <b>go</b> (positive) or <b>nár</b> (negative) followed by the verb in the subjunctive form. <b>Sula</b> 'before' is sometimes also used.
+In Irish, the subjunctive mood is used to express a wish or an uncertainty. It is normally formed with the particle <b>go</b> (positive) or <b>nár</b> (negative) followed by the verb in the subjunctive form. <b>Sula</b> 'before' is sometimes also used. The subjunctive is not widely used in Irish.
 
 #### Examples
 
 * _Go <b>n-imí</b> an diabhal do bhóthar_ "<b>May</b> the devil <b>be</b> gone from your way"
-* _I nDáil na bhFlaitheas go <b>raibh</b> sé_ "that he <b>was</b>"
-* _gan stoc a <b>shéide</b>_ "without a trumpet to <b>blow</b>"
+* _...i nDáil na bhFlaitheas go <b>raibh</b> sé_ "...that he <b>was</b>"
