@@ -4,7 +4,7 @@ title: 'Definite'
 shortdef: 'definiteness or state'
 ---
 
-In Irish, definiteness is indicated through the use of a definite particle singular _<b>an</b>_ or plural _<b>na</b>_ (also used with feminine singular in genitive case, see below), much like the definite article "the" in English. There is no indefinite particle, with nouns considered indefinite unless otherwise indicated.
+In Irish, definiteness is indicated through the use of a definite article singular _<b>an</b>_ or plural _<b>na</b>_ (also used with feminine singular in genitive case, see below), much like the definite article "the" in English. There is no indefinite particle, with nouns considered indefinite unless otherwise indicated.
 
 ### `Def` : definite
 
@@ -14,9 +14,7 @@ The noun can also indicate definiteness, though treatment depends on case, gende
 
 #### Nominative case
 
-In the nominative case (see [Case]()) nouns undergo some changes following the definite article _<b>an</b>_; most feminine nouns are lenited after the definite article, while feminine nouns beginning with 's' will become 'ts'. Meanwhile, masculine nouns beginning with a vowel get the prefix 't-'.
-
-Following the plural definite article _<b>na</b>_, both masculine and feminine nouns beginning with a vowel receive the prefix 'h'.
+In the nominative case (see [Case]()) nouns undergo some changes following the definite article _<b>an</b>_; most feminine nouns are lenited after the definite article, while feminine nouns beginning with 's' are eclipsed, becoming '<b>t</b>s'. Meanwhile, masculine nouns beginning with a vowel get the prefix 't-'.
 
 #### Examples
 
@@ -24,6 +22,11 @@ Following the plural definite article _<b>na</b>_, both masculine and feminine n
 * _an f<b>h</b>arraige_ "the sea"
 * _an <b>t</b>seachtain_ "the week"
 * _an <b>t-</b>aonad_ "the unit"
+
+Following the plural definite article _<b>na</b>_, both masculine and feminine nouns beginning with a vowel receive the prefix 'h'.
+
+#### Examples
+
 * _na buntáistí_ "the advantages"
 * _na <b>h</b>ábhair_ "the subjects"
 
