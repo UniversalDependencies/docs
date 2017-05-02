@@ -18,33 +18,36 @@ In the nominative case (see [Case]()) nouns undergo some changes following the d
 
 #### Examples
 
-* _an bua_ "the win"
-* _an f<b>h</b>arraige_ "the sea"
-* _an <b>t</b>seachtain_ "the week"
-* _an <b>t-</b>aonad_ "the unit"
+* _<b>an</b> bua_ "the win"
+* _<b>an</b> f<b>h</b>arraige_ "the sea"
+* _<b>an t</b>seachtain_ "the week"
+* _<b>an t-</b>aonad_ "the unit"
 
 Following the plural definite article _<b>na</b>_, both masculine and feminine nouns beginning with a vowel receive the prefix 'h'.
 
 #### Examples
 
-* _na buntáistí_ "the advantages"
-* _na <b>h</b>ábhair_ "the subjects"
+* _<b>na</b> buntáistí_ "the advantages"
+* _<b>na h</b>ábhair_ "the subjects"
 
 #### Genitive
 
 In the genitive case (see [Case]()) the singular definite article _<b>an</b>_ is only used with masculine nouns. In this case, masculine nouns behave like feminine nouns in the nominative case, most masculine nouns beginning with a consonant are lenited, and those beginning with a 's' change to 'ts'. However, nouns beginning with a vowel remain the same.
 
-The plural definite article _<b>na</b>_ is used with feminine singular nouns. In this case, feminine singular nouns beginning with a vowel are prefixed by 'h', while those beginning with a consonant don't change. For plural nouns, _<b>na</b>_ causes an eclipses where the nouns begin with a consonant. Plural nouns beginning with a vowel receive the prefix '-n'.
+#### Examples
+
+* _imeachtaí <b>an</b> Éirí Amach "activities of the uprising"
+* _chumas <b>an</b> p<b>h</b>áiste_ "ability of the child"
+* _biaiste <b>an t</b>samhraidh_ "season of summer"
+
+The plural definite article _<b>na</b>_ is used with feminine singular nouns. In this case, feminine singular nouns beginning with a vowel are prefixed by 'h', while those beginning with a consonant don't change. For plural nouns, _<b>na</b>_ triggers eclipsis where nouns begin with a consonant. Plural nouns beginning with a vowel are eclipsed by the prefix 'n-'.
 
 #### Examples
 
-* _imeachtaí an Éirí_ "activities of the successful"
-* _chumas an p<b>h</b>áiste_ "ability of the child"
-* _biaiste an <b>t</b>samhraidh_ "season of summer"
-* _thitim na <b>h</b>oíche_ "fall of the night"
-* _óga na tíre_ "young of the country"
-* _eagras na <b>bh</b>fostóirí_ "organisation of the employers"
-* _measc na <b>n-</b>ábhar_ "middle of the subjects"
+* _thitim <b>na h</b>oíche_ "fall of the night"
+* _óga <b>na</b> tíre_ "young of the country"
+* _eagras <b>na bh</b>fostóirí_ "organisation of the employers"
+* _measc <b>na n-</b>ábhar_ "middle of the subjects"
 
 ### `Ind` : indefinite
 
