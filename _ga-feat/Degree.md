@@ -17,13 +17,13 @@ States the quality of an object without comparing that quality to those of any o
 
 `Sup` : superlative, third degree
 
-In Irish, the comparative and the superlative form is the same. In both cases, the adjective is written in the genitive case. Both the comparative and the superlative require a particle prefix. For the comparative degree, this is _níos_ which corresponds to the English "more". The superlative degree has particle _is_, which can be loosely translated as "the most".
+In Irish, the comparative and the superlative form is the same. In both cases, the adjective is written in the genitive case. Both the comparative and the superlative require a degree particle. For the comparative degree, this is _níos_ which corresponds to the English "more". The particle _is_ (loosely translated as "the most") is used to indicate the superlative degree.
 
 #### Examples
 
-* _níos fada_ "longer"
-* _níos mó_ "bigger"
+* _<b>níos</b> fada_ "longer"
+* _<b>níos</b> mó_ "bigger"
 
-* _is fearr_ "the best"
-* _is mó_ "the biggest"
+* _<b>is</b> fearr_ "the best"
+* _<b>is</b> mó_ "the biggest"
 
