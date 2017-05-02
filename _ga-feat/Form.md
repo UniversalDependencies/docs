@@ -7,7 +7,7 @@ One of the characteristics of Irish is its tendency for initial mutation to occu
 
 ### `Ecl` : eclipsis
 
-This feature occurs when the initial consonant or vowel of a word is eclipsed by a prefixing consonant. This is either a voiced consonant for voiceless consonants, or a nasalised consonant for voiced consonants. Vowels are eclipsed by adding _<b>n-</b>_ or _<b>-t</b>_. Not every consonant can experience eclipsis.
+This feature occurs when the initial consonant or vowel of a word is eclipsed by a prefixing consonant. This is either a voiced consonant for voiceless consonants, or a nasalised consonant for voiced consonants. Vowels are eclipsed by adding _<b>n-</b>_ or _<b>t-</b>_. Not every consonant can experience eclipsis.
 
 Eclipsis will happen in a number of environments:
 
@@ -21,7 +21,7 @@ Eclipsis will happen in a number of environments:
 #### Examples
 
 * _a <b>g</b>cuid iarrachtaí_ “their efforts”
-* _seacht <b>m</b>blian_ “seven years”
+* _seacht <b>m</b>bliana_ “seven years”
 * _i <b>n</b>Gaeilge_ “in Irish”
 * _costas na <b>n-</b>oibreacha_ “cost of the works” 
 * _ar an <b>bh</b>focal_ “on the word”
@@ -29,14 +29,14 @@ Eclipsis will happen in a number of environments:
 
 ### `Emp` : emphatic
 
-The emphatic form is a special form a word takes to mark the emphatic in Irish.
+The emphatic form is a special form a word takes to mark emphasis in Irish.
 
 #### Examples
 
 * _dom_ “to me”
-* _do<b>mhsa</b>_ “to me (emph)”
+* _dom<b>sa</b>_ “to me (emph)”
 * _a deirim_ “I said”
-* _a deirim<b>se</b>_ “I said (emph)”
+* _a deirim<b>se</b>_ “I (emph) said”
 
 ### `Len` : lenition
 
@@ -45,7 +45,7 @@ Lenition is one of the most common means of initial mutation. When lenited, <b>h
 These are some of the environments that trigger lenition:
 
 * following the definite article (see [Definite]() for specifics)
-* following the vocative particle _<b>a</b>_
+* following the vocative particle _<b>a</b>_ (see [PartType](), [Case]())
 * after certain adjectives (singular possessive pronouns, _<b>uile, aon, dhá,</b>_ etc.)
 * after certain simple prepositions (_<b>a,  de, do, faoi,</b>_ etc.)
 * following the past tense of the copula _<b>is</b>_
@@ -70,7 +70,7 @@ In cases where a word causes neither lenition nor eclipsis and ends in a vowel, 
 
 * _go <b>h</b>álainn_ “lovely”
 * _na <b>h</b>eisimirce_ “emigration”
-* _de h-Íde_ “from Íde”
+* _de <b>h-</b>Íde_ “from Íde”
 * _ní <b>h</b>amháin_ “not only”
 
 ### `VF` : Vowel form
