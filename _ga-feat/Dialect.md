@@ -8,7 +8,7 @@ In Irish, three main dialects are found, with certain grammatical and lexical va
 
 `Connaught` : Connaught dialect
 
-The Connaught dialect is the variety of Irish spoken mostly in the province of Connaught in the west of Ireland. Only one instance of Connaught dialect is currently present in the treebank.
+The Connaught dialect is the variety of Irish spoken mostly in the province of Connaught in the west of Ireland.
 
 ### Examples
 
@@ -16,7 +16,7 @@ The Connaught dialect is the variety of Irish spoken mostly in the province of C
 
 `Munster` : Munster dialect
 
-The Munster dialect is the variety of Irish spoken mostly in the province of Munster in the south of Ireland. Most of the instances of dialect variation in the treebank are of Muster variety.
+The Munster dialect is the variety of Irish spoken mostly in the province of Munster in the south of Ireland. Most of the instances of dialect variation in the treebank are of Munster variety.
 
 ### Examples
 
@@ -26,11 +26,11 @@ The Munster dialect is the variety of Irish spoken mostly in the province of Mun
 
 `Ulster` : Ulster dialect
 
-The Ulster dialect is the variety of Irish spoken mostly in the province of Ulster in the north of Ireland, mostly limited to the county of Donegal. 
+The Ulster dialect is the variety of Irish spoken mostly in the province of Ulster in the north of Ireland. 
 
 ### Examples
 
 * _domhsa (standard: dom)_ "for me"
 * _fá (standard: faoi)_ "under"
-* _cha (standard: ní)_ (negation)
+* _cha (standard: ní)_ negation
 
