@@ -3,11 +3,13 @@ layout: feature
 title: 'Form'
 shortdef: 'Form'
 ---
-One of the characteristics of Irish is its tendency for initial mutation to occur in certain circumstances. This is triggered by the preceding word and affects the spelling of nouns, adjectives and verbs.
+One of the characteristics of Irish is its tendency for initial mutation to occur in certain circumstances. This is triggered by the preceding word and affects the spelling of nouns, adjectives and verbs. Nouns in Irish are divided into classes according to the way they are inflected to form the genitive singular. There are five such noun-classes or declensions. (The Christian Brothers, 1994)
 
 ### `Ecl` : eclipsis
 
-This feature occurs when the initial consonant or vowel of a word is eclipsed by a prefixing consonant. This is either a voiced consonant for voiceless consonants, or a nasalised consonant for voiced consonants. Vowels are eclipsed by adding _<b>n-</b>_ or _<b>t-</b>_. Not every consonant can experience eclipsis.
+This feature occurs when the initial consonant or vowel of a word is eclipsed by a prefixing consonant. This is either a voiced consonant for voiceless consonants, (e.g. /tʲ/ → /dʲ/, /k/ → /g/) or a nasalised consonant for voiced consonants (e.g. /dʲ/ → /nʲ/, /g/ → /ŋ/). Vowels are eclipsed by adding _<b>n-</b>_ or _<b>t-</b>_. 
+
+Not every consonant can experience eclipsis. The consonants that can be eclipsed in Irish are: p, b, t, d, c, g and f.
 
 Eclipsis will happen in a number of environments:
 
@@ -40,7 +42,7 @@ The emphatic form is a special form a word takes to mark emphasis in Irish.
 
 ### `Len` : lenition
 
-Lenition is one of the most common means of initial mutation. When lenited, <b>h</b> is added immediately after the initial consonant. 
+Lenition is by far the most common means of initial mutation in the treebank. When lenited, <b>h</b> is added immediately after the initial consonant. 
 
 These are some of the environments that trigger lenition:
 
