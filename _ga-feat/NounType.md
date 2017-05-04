@@ -4,7 +4,7 @@ title: 'NounType'
 shortdef: 'NounType'
 ---
 
-In Irish, noun forms fall into certain groups, that can change the spelling of the noun itself or surrounding words in certain contexts.
+In Irish, noun forms fall into certain groups or declentions (see [Form]()). These nouns follow patterns of inflection depending on gender, number and case. The noun type feature affects the form of modifying adjectives, and so is a feature of both parts of speech.
 
 ### `Strong` : strong plurals
 
@@ -12,20 +12,20 @@ The form of a strong plural remains unchanged regardless of grammatical case, i.
 
 #### Examples
  
-* _bláthanna_ “flowers” (nomacc, gen)
-* _oibreacha_ “works” (nomacc, gen)
-* _cótaí_ “coats” (nomacc, gen)
+* _bláthanna_ “flowers” (nominative, accusative, genitive)
+* _oibreacha_ “works” (nominative, accusative, genitive)
+* _cótaí_ “coats” (nominative, accusative, genitive)
 
 ### `Weak` : weak plurals
 
-Unlike the strong plural, a weak plural noun changes form depending on case. 
+Unlike the strong plural, a weak plural noun is different in the nominative, accusative and genitive cases.
 
 #### Examples
 
-* _focail_ “words” (nomacc)
-* _focal_ “words” (gen)
-* _Aontais_ “Unions” (nomacc)
-* _Aontas_ “Unions” (gen)
+* _focail_ “words” (nominative, accusative)
+* _focal_ “words” (genitive)
+* _Aontais_ “Unions” (nominative, accusative)
+* _Aontas_ “Unions” (genitive)
 
 Adjectives in Irish can have endings that are slender or not slender (broad). Depending on how the preceding noun ends, the form of the adjective can change.
 
