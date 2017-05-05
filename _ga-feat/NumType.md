@@ -8,18 +8,18 @@ Irish numeral forms inflect to demonstrate different grammatical roles.
 
 ### `Card` : cardinal numbers
 
-Cardinal numbers can be divided into those without nouns (used in counting, giving the time, etc.), and those with nouns. Those used without nouns use a particle <b>a</b> that is absent in those used with nouns.
+Cardinal numbers can be divided into those without nouns (used in counting, giving the time, etc.), and those with nouns. Those used without nouns use a particle _<b>a</b>_ that is absent in those used with nouns. This particle triggers h-prefix in numbers beginning with a vowel (_aon, ocht_).
 
 #### Examples
 
 ##### Counting, etc.:
-* _<b>a haon</b>_ "one"
-* _<b>a seacht</b>_ "seven"
-* _<b>a sé</b> a chlog_ "six o' clock"
+* _<b>a h</b>aon_ "one"
+* _<b>a</b> seacht_ "seven"
+* _<b>a</b> sé a chlog_ "six o' clock"
 
 ##### Numbers qualifying nouns:
-* _<b>dhá</b> bhliain_ "two years"
-* _<b>naoi</b> gcapall <b>déag</b>_ "nineteen horses"
+* _<b>dhá</b> b<b>h</b>liain_ "two years"
+* _<b>naoi</b> <b>g</b>capall <b>déag</b>_ "nineteen horses"
 * _<b>seasca</b> punt_ "sixty pounds"
 
 ### `Pers` : personal numerals
@@ -28,14 +28,14 @@ The personal numerals are used for counting people. From numbers 1-12 this syste
 
 #### Examples
 
-* _duine <b>amháin</b>_ "one person"
+* _duine <b>amháin</b>_ "<b>one</b> person"
 * _<b>beirt</b>_ "two people"
-* _<b>aon</b> bhean <b>dhéag</b>_ "eleven women"
+* _<b>aon</b> b<b>h</b>ean <b>dhéag</b>_ "eleven women"
 * _<b>seasca</b> fear_ "sixty men"
 
 ### `Ord` : ordinal numbers
 
-Ordinal numbers can be used to show order of items. In Irish, the form uses the definite particle <b>an</b>. (see [Definite]()). The English abbreviation "th" appended to a numeral, is given in Irish as <b>ú</b>.
+Ordinal numbers can be used to show order of items. In Irish, the form uses the definite article _an_. (see [Definite]()). The English abbreviation "th" appended to a numeral (as in eigh<b>th</b>), is given in Irish as _<b>-ú</b>_.
 
 #### Examples
 
