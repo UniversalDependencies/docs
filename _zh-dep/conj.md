@@ -189,3 +189,25 @@ Note that the "et cetera" particle 等(等) / _děng(děng)_ is treated as the f
 9	here."	_	_	_	_	0	_	_	_
 
 ~~~
+
+Another special case where `conj` is used is in the paired adjacent prepositional phrases indicating a span of distance, time, etc., introduced by prepositions such as 從... 到... / _cóng dào_ "from... to...", 由... 到... / _yóu dào_ "from... to...":
+
+~~~ conllu
+# visual-style 2 4 conj	color:blue
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+1	從	_	ADP	_	_	2	case	_	from
+2	星期一	_	NOUN	_	_	5	obl:tmod	_	Monday
+3	到	_	ADP	_	_	4	case	_	to
+4	星期三	_	NOUN	_	_	2	conj	_	Wednesday
+5	關門	_	VERB	_	_	0	root	_	close
+
+1	"Closed	_	_	_	_	0	_	_	_
+2	from	_	_	_	_	0	_	_	_
+3	Monday	_	_	_	_	0	_	_	_
+4	to	_	_	_	_	0	_	_	_
+5	Wednesday"	_	_	_	_	0	_	_	_
+
+~~~
