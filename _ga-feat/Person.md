@@ -33,5 +33,5 @@ The third person refers to one or more persons who are not present, i.e. neither
 
 #### Examples
 
-* _Dúnann <b>sé/sí/siad</b>_ "He/she/they close
-* _Tuigeann <b>sé/sí/siad</b>_ "He/she/they understand
+* _Dúnann <b>sé/sí/siad</b>_ "He/she/they close(s)
+* _Tuigeann <b>sé/sí/siad</b>_ "He/she/they understand(s)
