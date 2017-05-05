@@ -50,3 +50,4 @@ Note that although some adverbs express temporal information, many common time e
   - 怎樣 / _zěnyàng_ "how", 這樣 / _zhèyàng_ "this way, like this, thus", 那麼 / _nàme_ "so", 為什麼 / _wèishéme_ "why"
 - Other
   - 都 / _dōu_ "also; all", 也 / _yě_ "also", 才 / _cái_ "then and only then", 越來越 _yüèláiyüè_ "more and more", 當然 / _dāngrán_ "of course", 難道 / _nándào_ "could/must it be that...?"
+  - "for example" adverbs: 比如 / _bǐrú_, 比如說 / _bǐrúshuō_, 例如 / _lìrú_, 譬如 / _pìrú_
