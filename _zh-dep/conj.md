@@ -190,7 +190,7 @@ Note that the "et cetera" particle 等(等) / _děng(děng)_ is treated as the f
 
 ~~~
 
-Another special case where `conj` is used is in the paired adjacent prepositional phrases indicating a span of distance, time, etc., introduced by prepositions such as 從... 到... / _cóng dào_ "from... to...", 由... 到... / _yóu dào_ "from... to...":
+Another special case where `conj` is used is in the paired adjacent prepositional phrases indicating a span of distance, time, etc., introduced by prepositions such as 從... 到... / _cóng dào_ "from... to...", 由... 到... / _yóu dào_ "from... to..." -- the second prepositional phrase is treated as a conjunct of the first:
 
 ~~~ conllu
 # visual-style 2 4 conj	color:blue
