@@ -7,7 +7,7 @@ udver: '2'
 
 An appositional modifier is a pronoun or noun (phrase) that follows and defines or modifies another noun (phrase). The dependent comes immediately after the head.
 
-There are two situations in Mandarin for which we apply the `appos` relation. The classical example involves the appositional modifier defining the specific individual(s) which the first noun (phrase) refers to.
+There are three situations in Mandarin for which we apply the `appos` relation. The classical example involves the appositional modifier defining the specific individual(s) which the first noun (phrase) refers to.
 
 ~~~ conllu
 # visual-style 3 5 appos	color:blue
@@ -51,5 +51,27 @@ In the second situation, the second noun phrase describes (rather than specifies
 5	of	_	_	_	_	0	_	_	_
 6	them	_	_	_	_	0	_	_	_
 7	wrote"	_	_	_	_	0	_	_	_
+
+~~~
+
+In another situation, a noun indicating a reference location may be followed by a pronoun, such as 那邊 / _nàbiān_ 'there' and 這裡 / _zhèlǐ_ 'here', indicating proximity to the speaker. These pronouns are treated as `appos` dependents of the noun preceding them.
+
+~~~ conllu
+# visual-style 3 4 appos	color:blue
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+1	他們	_	PRON	_	_	2	nsubj	_	3PL
+2	在	_	VERB	_	_	0	root	_	be-at
+3	門口	_	NOUN	_	_	2	obj	_	doorway
+4	那邊	_	PRON	_	_	3	appos	_	there
+
+1	"They're	_	_	_	_	0	_	_	_
+2	by	_	_	_	_	0	_	_	_
+3	the	_	_	_	_	0	_	_	_
+4	doorway	_	_	_	_	0	_	_	_
+5	over	_	_	_	_	0	_	_	_
+6	there."	_	_	_	_	0	_	_	_
 
 ~~~
