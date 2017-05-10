@@ -67,9 +67,3 @@ A list of all compound prepositions is as follows:
 <td><em><b>tar éis</b> an dinnéir</em></td><td>"after dinner"</td>
 <td><em><b>thar ceann</b> an dochtúra</em></td><td>"on behalf of the doctor"</td></tr>
 </table>
-
-#### Examples
-
-* _tar éis_ “after”
-* _ar feadh_ “for” (length of time)
-* _de réir_ “according to”
