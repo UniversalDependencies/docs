@@ -4,7 +4,7 @@ title: 'Tense'
 shortdef: 'tense'
 ---
 
-Tense is a feature that specifies the time when the action took / takes / will take place, in relation to the current moment or to another action in the utterance.
+Tense is a feature that specifies the time when the action took / takes / will take place, in relation to the current moment or to another action in the utterance. Verbs in Irish are divided into regular and irregular conjugations. Regular verbs fall into one of two conjugation patterns; short verbs (e.g. _mol, bris_) and long verbs (e.g. _ceannaigh, éirigh_). Verb endings can be either broad or slender (see [NounType]()).
 
 ### `Past` : past tense
 
