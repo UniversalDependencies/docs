@@ -24,5 +24,9 @@ The autonomous voice is formed with a different verb ending: <b>-t(e)ar</b> in t
 <td><em>casadh</em></td>
 <td><em>casfar</em></td>
 <td><em>chasfaí</em></td></tr>
-
+<tr><td><em>Déan</em> "To make/do"</td>
+<td><em>déantar</em></td>
+<td><em>rinneadh</em></td>
+<td><em>déanfar</em></td>
+<td><em>dhéanfaí</em></td></tr>
 </table>
