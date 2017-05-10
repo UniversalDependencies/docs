@@ -6,11 +6,11 @@ shortdef: 'reflexive'
 
 ###  `Yes` : it is reflexive 
 
-The reflexive feature is a boolean feature of pronouns or determiners. It tells whether the word is reflexive, i.e. it refers to the subject of its clause.
+The reflexive form is a feature of pronouns or determiners. It tells whether the word is reflexive, i.e. it refers to the subject of its clause.
 
 In Irish, the reflexive pronoun is <b>féin</b>
 
 #### Examples
 
-* _bhí fhios agam cheana <b>féin</b>_ "I already knew"
+* _bhí fhios agam cheana <b>féin</b>_ "I (myself) already knew"
 * _bhí a chiall <b>féin</b> do gach duine ina thaibhreamh <b>féin</b>_ "Everybody's <b>own</b> meaning was in his <b>own</b> dream"
