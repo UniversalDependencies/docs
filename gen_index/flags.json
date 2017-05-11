@@ -12,6 +12,7 @@
 "Cantonese":"HK",
 "Catalan":"ES-CT",
 "Chinese":"CN",
+"Chinese-CFL":"CN",
 "Chinese-HK":"CN",
 "Coptic":"COP",
 "Croatian":"HR",
@@ -30,6 +31,7 @@
 "Finnish":"FI",
 "Finnish-FTB":"FI",
 "French":"FR",
+"French-FTB":"FR",
 "French-ParTUT":"FR",
 "French-Sequoia":"FR",
 "Galician":"ES-GA",
@@ -84,6 +86,7 @@
 "Tamil":"IN",
 "Turkish":"TR",
 "Ukrainian":"UA",
+"Upper_Sorbian":"HSB",
 "Urdu":"IN",
 "Uyghur":"CN",
 "Vietnamese":"VN"
