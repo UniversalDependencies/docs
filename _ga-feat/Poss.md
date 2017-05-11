@@ -21,7 +21,7 @@ The following table describes the determiners and the morphological changes they
 <tr><td><em>a</em></td><td>eclipsis</td><td>eclipsis</td><td><em>a <b>g</b>cóta</em></td><td><em>a <b>n-</b>athair</em></td></tr>
 </table>
 
-Possesive prepositions can assimilate these determiners into the preposition. The following noun will inflect accordingly.
+Certain prepositions (e.g. _faoi_ "under", _i_ "in", _le_ "with") in Irish can absorb the possessive determiners to become possessive prepositions. For instance, _le_ + _ár_ becomes _lenár_. The noun attached to the prepostion will inflect accordingly.
 
 #### Examples:
 
