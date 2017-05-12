@@ -61,8 +61,8 @@ Verbal nouns are nouns that take the form of a verb. They may be used to introdu
 
 #### Examples
 
-* _beidh Máire Andrews <b>ag insint</b> scéalta difriúla_ "Mary Andrews will be <b>telling</b> different stories"
-* _bhí Bhreandán <b>ag caitheamh</b> a chuid airgid_ "Brendan was <b>spending</b> his money"
+* _Beidh Máire Andrews <b>ag insint</b> scéalta difriúla_ "Mary Andrews will be <b>telling</b> different stories"
+* _Bhí Bhreandán <b>ag caitheamh</b> a chuid airgid_ "Brendan was <b>spending</b> his money"
 * _Bhí Éamonn <b>ag obair</b> go lánaimsireach_ "Eamon was <b>working</b> full-time" 
 
 
