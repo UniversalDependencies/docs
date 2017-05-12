@@ -6,7 +6,7 @@ shortdef: 'PrepForm'
 
 ### `Cmpd` : compound preposition
 
-In Irish, a simple preposition can be combined with a noun to give a compound preposition. Nouns following compound prepositions are inflected in the genitive case.
+In Irish, a simple preposition can be combined with a noun to give a compound preposition. Nouns following compound prepositions are inflected in the genitive case (see [Case]()).
 
 A list of all compound prepositions is as follows: 
 
@@ -67,3 +67,5 @@ A list of all compound prepositions is as follows:
 <td><em><b>tar éis</b> an dinnéir</em></td><td>"after dinner"</td>
 <td><em><b>thar ceann</b> an dochtúra</em></td><td>"on behalf of the doctor"</td></tr>
 </table>
+
+###### Examples taken from Christian Brothers 1994.
