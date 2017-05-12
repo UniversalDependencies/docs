@@ -4,7 +4,7 @@ title: 'Tense'
 shortdef: 'tense'
 ---
 
-Tense is a feature that specifies the time when the action took / takes / will take place, in relation to the current moment or to another action in the utterance. Verbs in Irish are divided into regular and irregular conjugations. Regular verbs fall into one of two conjugation patterns; short verbs (e.g. _mol, bris_) and long verbs (e.g. _ceannaigh, éirigh_). Verb endings can be either broad or slender (see [NounType]()).
+Tense is a feature that specifies the time when the action took / takes / will take place, in relation to the current moment or to another action in the utterance. Verbs in Irish can be regular and irregular (e.g. _bí_ "to be"). Regular verbs fall into two conjugation patterns; one for short verbs (e.g. _tit, fan_) and one for long verbs (e.g. _tosaigh_). Verb endings vary depending on if the stem is broad or slender (see [NounType]()).
 
 ### `Past` : past tense
 
@@ -12,21 +12,27 @@ The past tense denotes actions that happened before the current moment. In Irish
 
 #### Examples
 
-* _<b>Bhí</b> a ngruanna faoi lasadh._ "Their cheeks <b>were</b> glowing."
-* _<b>D'fhan</b> sé ansin inné._ "He <b>stayed</b> there yesterday."
+* _T<b>h</b>it tú_ "You fell"
+* _<b>D'</b>f<b>h</b>an sé_ "He stayed"
+* _T<b>h</b>osaigh sí_ "She will start"
+* _<b>Bhí</b> síad_ "They were"
 
 ### `Pres` : present tense
 
-The present tense denotes actions that are happening right now or that habitually happen. 
+The present tense denotes actions that are happening right now or that habitually happen. The present tense paradigm is usually created from adding endings to the lemma of the short verb (e.g. _fan_ + 1st sing ending -> _fanaim_). Long verbs are shortened first (e.g. _tosaigh_ -> _tos-_ + endings).
 
 #### Examples
 
-* _<b>Tá</b> sé ina chodladh._ "He <b>is</b> asleep."
-* _<b>Dathaíonn</b> siad na pictiúir._ "They <b>colour in</b> the pictures."
+* _Tit<b>eann</b> tú_ "You fall"
+* _Fan<b>ann</b> sé_ "He stays"
+* _Tos<b>aíonn</b> sí_ "She starts"
+* _<b>Bíonn</b> siad_ "They are"
 
 ### `Fut` : future tense
 
-The future tense denotes actions that will happen after the current moment. In Irish, the future is indicated by the addition of a -f-, or -ó- suffix, with endings depending on person.
+The future tense denotes actions that will happen after the current moment. In Irish, the future is indicated by the addition of a -f-, or -ó- suffix, with endings depending on person (see [Person]()).
 
-* _<b>Caithfidh</b> mé sin a fhoghlaim!_ "I <b>have</b> to learn that!"
-* _<b>Tosóidh</b> an cheolchoirm ar 8pm._ "The concert <b>will start</b> at 8PM."
+* _Tit<b>fidh</b> tú_ "You will fall"
+* _Fan<b>faidh</b> sé_ "He will stay"
+* _Tos<b>óidh</b> sí_ "She will start"
+* _<b>Beidh</b> siad_ "They will be"
