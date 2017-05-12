@@ -90,7 +90,7 @@ Verbal particles include the positive particles _<b>a, gur</b>_ and the negative
 
 * _is ann <b>a</b> bhí cónaí ar Cholm_ “it was there <b>that</b> Colm lived”
 * _<b>gur</b> thit na caighdeáin_ “<b>that</b> the standards had fallen”
-* _ní bheidh sé_ “he will <b>not</b>”
+* _<b>ní</b> bheidh sé_ “he will <b>not</b>”
 
 ### `Voc` : vocative 
 
