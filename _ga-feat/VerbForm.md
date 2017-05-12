@@ -5,23 +5,23 @@ shortdef: 'form of verb or deverbative'
 ---
 
 In Irish, verb form is a feature of words which have the appearance of a verb, although they function as other parts of speech. 
-This feature appears most commonly as an `inifitive` construction, which functions as a noun. This feature also appears as a `copula`, a `particle` or a `verbal noun`.
+This feature appears most commonly as an `infinitive` construction, which functions as a noun. This feature also appears as a `copula`, a `particle` or a `verbal noun`.
 
 ### `Inf` : infinitive
 
-The infinitive verb form functions as a noun. The inifitive is always preceded by a particle or a preposition. Following a particle, the verb form takes lenition.
+The infinitive verb form is the same the verbal noun. The infinitive is always preceded by the infinitive particle _<b>a</b>_. This particle causes lenition in the verb, where possible (see [Form]()).
 
 #### Examples
 
 ##### Introduced by particle
-* _a d<b>h</b>éanamh_ "to do"
-* _a c<b>h</b>ur_ "to put"
-* _a rá_ "to talk"
+* _<b>a</b> d<b>h</b>éanamh_ "to do"
+* _<b>a</b> c<b>h</b>ur_ "to put"
+* _<b>a</b> rá_ "to talk"
 
 ##### Introduced by preposition
 * _le déanamh_ "to do"
 * _chun féachaint_ "to see"
-* _á rá_ "to talk"
+* _á rá_ "being said/saying"
 
 ### `Cop` : copula
 
@@ -30,7 +30,7 @@ The copula verb form usually functions as a copula verb, though it can also be u
 #### Examples
 
 * _<b>Is</b> mise Briain_ "I <b>am</b> Brian"
-* _<b>is</b> é an watt (W) an t-aonad cumhachta_ "The watt (W) is the unit of power"
+* _<b>Is</b> é an watt (W) an t-aonad cumhachta_ "The watt (W) is the unit of power"
 
 * _<b>Dá</b> mba mise thú_ "If I <b>were</b> you"
 * _<b>Más</b> rud é_ "<b>if</b> it <b>is</b> a thing"
@@ -41,12 +41,12 @@ The copula verb form usually functions as a copula verb, though it can also be u
 
 ### `Part` : participle
 
-The participle verb form functions as an adjective. It can be used to modify the head noun, or to introduce an adjectival predicate complement. (see [xcomp:pred](ga-dep/xcomp:pred)) The participle is usually inflected by adding the suffix <b>-te</b> (<b>-the</b>) or <b>-ta</b> (<b>-tha</b>) to the lemma. 
+The participle verb form indicates a verbal adjective. It can be used to modify the head noun, or to introduce an adjectival predicate complement. (see [xcomp:pred](ga-dep/xcomp:pred)) The participle is usually inflected by adding the suffix <b>-te</b> (<b>-the</b>) or <b>-ta</b> (<b>-tha</b>) to the lemma. 
 
 #### Examples
 
 ##### Adjectival modifier
-* _Gailge <b>briste</b>_ "<b>broken</b> Irish"
+* _Gaeilge <b>briste</b>_ "<b>broken</b> Irish"
 * _na ndaoine <b>fásta</b>_ "the adults" _lit. "the <b>grown</b> people"_
 * _Dé Domhnaigh seo <b>caite</b>_ "this <b>past</b> Sunday"
 
