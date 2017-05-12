@@ -36,7 +36,7 @@ In the genitive case (see [Case]()) the singular definite article _<b>an</b>_ is
 
 #### Examples
 
-* _imeachtaí <b>an</b> Éirí Amach "activities of the uprising"
+* _imeachtaí <b>an</b> Éirí Amach_ "activities of the uprising"
 * _chumas <b>an</b> p<b>h</b>áiste_ "ability of the child"
 * _biaiste <b>an t</b>samhraidh_ "season of summer"
 
