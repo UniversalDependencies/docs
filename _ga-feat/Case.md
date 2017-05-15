@@ -17,7 +17,7 @@ This word form is used for subjects and objects of a clause, and predicates of a
 
 ##### Subjects:
 * _Tosóidh an <b>cheolchoirm</b> ar 8pm_ "The <b>concert</b> will start at 8pm"
-* _bhris an <b>bord</b> ina dhá leath_ "The <b>board</b> broke into two halves"
+* _Bhris an <b>bord</b> ina dhá leath_ "The <b>board</b> broke into two halves"
 
 ##### Objects:
 * _Cuireann Paul an <b>píosa</b> seo chugainn_ "Paul offers this <b>piece</b> to us"
@@ -34,7 +34,7 @@ The vocative case is used to mark a noun as being the addresse. It is preceded b
 #### Examples
 
 * _'Slán leat, <b>a</b> D<b>h</b>oráid!_ "Goodbye, Dorád!"
-* _<b>a</b> d<b>h</b>aoine uaisle_ "ladies and gentlemen"
+* _<b>A</b> d<b>h</b>aoine uaisle_ "ladies and gentlemen"
 
 ### `Gen` : genitive case
 
