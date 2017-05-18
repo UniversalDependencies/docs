@@ -905,6 +905,20 @@ collections:
   lt-overview:
     output: true
 #
+# Dargwa
+#
+  dar-pos:
+    output: true
+    permalink: /dar/pos/:path.html
+  dar-feat:
+    output: true
+    permalink: /dar/feat/:path.html
+  dar-dep:
+    output: true
+    permalink: /dar/dep/:path.html
+  dar-overview:
+    output: true
+#
 # Template
 #
   template-pos:
