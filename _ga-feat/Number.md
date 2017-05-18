@@ -4,35 +4,49 @@ title: 'Number'
 shortdef: 'number'
 ---
 
-Number is an inflectional feature of nouns and other parts of speech (determiners, adjectives, prepositions, verbs, etc.) that mark agreement with nouns. Words can be either singular or plural. Verb endings frequently inflect depending on number and person, across many moods and tenses.
+Number is an inflectional feature of nouns and other parts of speech (determiners, adjectives, prepositions, verbs, etc.) that mark agreement with nouns. Nouns may have different singular and plural forms in each case (see [Form]() for more on the noun declensions). 
 
-### `Sing`: singular
+Verb endings frequently synthesise to show number and person. The first person singular and plural are always synthetic, while the other paradigms (except 3rd person singular) can be synthetic depending on [Mood]() and [Tense]().
 
-A singular noun (or pronoun) denotes one person, animal or thing.
+Words can be either singular or plural.
 
-#### Examples
-
-##### Adjectival agreement
-* _an duine <b>rialta</b>_ "the <b>regular</b> person"
-* _shruth leictreach <b>ró-mhór</b>_ "<b>excessive</b> electric current"
-
-##### Verbal agreement
-* _deirim_ "I say"
-* _cheapfá_ "you would think"
-* _bíodh_ "be" (3rd person singular)
+### `Sing` : singular
 
 ### `Plur`: plural
 
-A plural noun (or pronoun) denotes several persons, animals or things.
-
 #### Examples
 
-##### Adjectival agreement
-* _<b>fiacla</b> sealadacha_ "temporary <b>teeth</b>"
-* _na <b>himroeirí</b> áitiúla_ "the local <b>players</b>"
-* _na <b>focail</b> crua_ "the cruel <b>words</b>"
+Noun forms in singular and plural
+<table>
+<tr><td>Declension</td><td>Case</td><td>Singular</td><td>Plural</td></tr>
+<tr><td>First</td><td>Nominative</td><td>bád</td><td>báid</td></tr>
+<tr><td>First</td><td>Genitive</td><td>báid</td><td>bád</td></tr>
+<tr><td>Second</td><td>Nominative</td><td>fuinneog</td><td>fuinneoga</td></tr>
+<tr><td>Second</td><td>Genitive</td><td>fuinneoige</td><td>fuinneog</td></tr>
+<tr><td>Third</td><td>Nominative</td><td>am</td><td>amanna</td></tr>
+<tr><td>Third</td><td>Genitive</td><td>ama</td><td>ammana</td></tr>
+</table>
 
-##### Verbal agreement
-* _táimid_ "we are"
-* _bígí_ "be" (2nd person plural)
-* _chuireadar_ "they put"
+Verb Forms for _deir_ ("say"), _ól_ ("drink"), and _imigh_("leave"):
+<table>
+<tr><td>Person</td><td>Singular</td><td>Plural</td></tr>
+<tr><td>1st (present ind.)</td><td>Deir<b>im</b></td><td>Deir<b>imid</b></td></tr>
+<tr><td></td><td>Ól<b>aim</b></td><td>Ól<b>aimid</b></td></tr>
+<tr><td></td><td>Im<b>ím</b></td><td>Im<b>ímid</b></td></tr>
+<tr><td>2nd (imperative)</td><td><b>Abair</b></td><td>Ab<b>raigí</b></td></tr>
+<tr><td></td><td><b>Ól</b></td><td>Ól<b>aigí</b></td></tr>
+<tr><td></td><td><b>Imigh</b></td><td>Im<b>ígí</b></td></tr>
+<tr><td>3rd (conditional)</td><td>Deir<b>fadh sé</b></td><td>Deir<b>faidís</b></td></tr>
+<tr><td></td><td>Ól<b>fadh sé</b></td><td>Ól<b>faidís</b></td></tr>
+<tr><td></td><td>D'im<b>feadh sé</b></td><td>D'im<b>fidís</b></td></tr>
+</table>
+
+Adjectival agreement 
+<table>
+<tr><td>Noun Phrase</td><td>Singular</td><td>Plural</td></tr>
+<tr><td><em>An duine</em></td><td>áitiúl</td><td></td></tr><tr>
+<td><em>Na daoine</em></td><td></td><td>áitiúla</td></tr>
+<tr><td><em>focal</em></td><td>béasach</td><td></td></tr>
+<tr><td><em>focail</em></td><td></td><td>béasacha</td></tr>
+</table>
+
