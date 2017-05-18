@@ -370,6 +370,22 @@
     "lang_name": "Danish"
   }, 
   {
+    "lang_code": "dar", 
+    "contributors": [
+      {
+        "full": "Sasha Kozhukhar", 
+        "last": "Kozhukhar", 
+        "first": "Sasha"
+      }, 
+      {
+        "full": "Olga Lyashevskaya", 
+        "last": "Lyashevskaya", 
+        "first": "Olga"
+      }
+    ], 
+    "lang_name": "Dargwa"
+  }, 
+  {
     "lang_code": "nl", 
     "contributors": [
       {
