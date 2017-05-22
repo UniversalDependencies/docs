@@ -21,7 +21,6 @@ When a clause is the passive subject of a verb, the `csubj:pass` relation is use
 5	人	_	NOUN	_	_	6	obl:agent	_	people
 6	發現	_	VERB	_	_	0	root	_	discover
 
-
 1	"Her	_	_	_	_	0	_	_	_
 2	changing	_	_	_	_	0	_	_	_
 3	clothes	_	_	_	_	0	_	_	_
