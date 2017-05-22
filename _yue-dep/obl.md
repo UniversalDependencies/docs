@@ -5,7 +5,7 @@ shortdef: 'oblique nominal'
 udver: '2'
 ---
 
-The `obl` relation is used for nominals functioning as a non-core argument or adjunct of a predicate, where the nominal may include some nominal marker. In Mandarin Chinese this may include prepositional phrases (1), and a few preverbal coverb phrases where we treat the coverbs as prepositions instead of verbs (these are coverbs where verbal marking is not allowed, such as 為咗 / _wai4zo5_ 'for, for the sake of', 由 / _jau4_ 'from', 向 / _hoeng6_ 'toward'; see 2 and 3). In each of these situations, the nominal is an `obl` dependent of the predicate, and governs its marker (tagged as ADP in all cases) in a `case` relation. 
+The `obl` relation is used for nominals functioning as a non-core argument or adjunct of a predicate, where the nominal may include some nominal marker. In Mandarin Chinese this may include prepositional phrases (1), and a few preverbal coverb phrases where we treat the coverbs as prepositions instead of verbs (these are coverbs where verbal marking is not allowed, such as 為咗 / _wai4zo5_ 'for, for the sake of', 由 / _jau4_ 'from'; see 2 and 3). In each of these situations, the nominal is an `obl` dependent of the predicate, and governs its marker (tagged as ADP in all cases) in a `case` relation. 
 
 For nominals introduced by 畀 _bei2_ and 將 _zoeng1_ in preverbal position, see [obl:agent]() and [obl:patient](), respectively.
 
@@ -64,23 +64,25 @@ The relation can also be used for nominals that don’t include a nominal marker
 # visual-style 2	fgColor:white
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
-1	向	_	ADP	_	_	2	case	_	toward
-2	右	_	NOUN	_	_	3	obl	_	right
+1	由	_	ADP	_	_	2	case	_	toward
+2	呢邊	_	PRON	_	_	3	obl	_	this-side
 3	行	_	VERB	_	_	0	root	_	walk
-4	就	_	ADV	_	_	5	advmod	_	then
-5	見	_	VERB	_	_	3	conj	_	see
-6	到	_	VERB	_	_	5	compound:vv	_	arrive
-7	嘅	_	PART	_	_	5	discourse:sp	_	SP
-8	喇	_	PART	_	_	5	discourse:sp	_	SP
+4	過去	_	VERB	_	_	3	compound:dir	_	go-over
+5	就	_	ADV	_	_	6	advmod	_	then
+6	見	_	VERB	_	_	3	conj	_	see
+7	到	_	VERB	_	_	6	compound:vv	_	arrive
+8	嘅	_	PART	_	_	6	discourse:sp	_	SP
+9	喇	_	PART	_	_	6	discourse:sp	_	SP
 
 1	"Walk	_	_	_	_	0	_	_	_
-2	to	_	_	_	_	0	_	_	_
-3	the	_	_	_	_	0	_	_	_
-4	right	_	_	_	_	0	_	_	_
-5	and	_	_	_	_	0	_	_	_
-6	you'll	_	_	_	_	0	_	_	_
-7	see	_	_	_	_	0	_	_	_
-8	it."	_	_	_	_	0	_	_	_
+2	over	_	_	_	_	0	_	_	_
+3	from	_	_	_	_	0	_	_	_
+4	this	_	_	_	_	0	_	_	_
+5	side	_	_	_	_	0	_	_	_
+6	and	_	_	_	_	0	_	_	_
+7	you'll	_	_	_	_	0	_	_	_
+8	see	_	_	_	_	0	_	_	_
+9	it."	_	_	_	_	0	_	_	_
 
 ~~~
 
