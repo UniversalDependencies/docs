@@ -9,7 +9,7 @@ The `obl` relation is used for nominals functioning as a non-core argument or ad
 
 For nominals introduced by 畀 _bei2_ and 將 _zoeng1_ in preverbal position, see [obl:agent]() and [obl:patient](), respectively.
 
-The relation can also be used for nominals that don’t include a nominal marker, specifically locational pronouns and nouns, such as 呢度 / _ni1dou6_ "here", 	嗰度 / _nàlǐ_ "there", 前面 / _qiánmiàn_ "front side" (4). For temporal nouns functioning as adjuncts, see [obl:tmod]().
+The relation can also be used for nominals that don’t include a nominal marker, specifically locational pronouns and nouns, such as 呢度 / _ni1dou6_ "here", 	嗰度 / _go2dou6_ "there", 前面 / _cin4min6_ "front side" (4). For temporal nouns functioning as adjuncts, see [obl:tmod]().
 
 ~~~ conllu
 # visual-style 2 7 obl	color:blue
