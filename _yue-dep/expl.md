@@ -43,9 +43,10 @@ In Cantonese, expletive (1) and pleonastic (2) uses of the pronoun 佢 / _keoi5_
 
 1	"Just	_	_	_	_	0	_	_	_
 2	throw	_	_	_	_	0	_	_	_
-3	it	_	_	_	_	0	_	_	_
-4	all	_	_	_	_	0	_	_	_
-5	away!"	_	_	_	_	0	_	_	_
+3	all	_	_	_	_	0	_	_	_
+4	the	_	_	_	_	0	_	_	_
+5	stuff	_	_	_	_	0	_	_	_
+6	away!"	_	_	_	_	0	_	_	_
 
 ~~~
 
