@@ -53,7 +53,7 @@ The subject of the embedded clause may sometimes be absent, but pragmatically un
 4	it's	_	_	_	_	0	_	_	_
 5	very	_	_	_	_	0	_	_	_
 6	stinky?"	_	_	_	_	0	_	_	_
-7	(talking	_	_	_	_	0	_ _	_	_
+7	(talking	_	_	_	_	0	_	_	_
 8	about	_	_	_	_	0	_	_	_
 9	a	_	_	_	_	0	_	_	_
 10	room,	_	_	_	_	0	_	_	_
