@@ -82,7 +82,7 @@ The object of a transitive verb is its second core argument after its subject. I
 4	説	_	VERB	_	_	0	root	_	say
 5	去	_	VERB	_	_	4	ccomp	_	go
 6	福岡	_	PROPN	_	_	5	obj	_	Fukuoka
-7	看	_	VERB	_	_	5	conj	_	see
+7	看	_	VERB	_	_	5	advcl	_	see
 8	別人	_	PRON	_	_	7	obj	_	others
 9	耕作	_	VERB	_	_	7	xcomp	_	farm
 
