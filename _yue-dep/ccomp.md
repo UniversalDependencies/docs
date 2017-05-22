@@ -43,7 +43,7 @@ The subject of the embedded clause may sometimes be absent, but pragmatically un
 2	覺	_	VERB	_	_	0	root	_	think
 3	唔	_	ADV	_	_	4	advmod	_	NEG
 4	覺得	_	VERB	_	_	2	conj	_	think
-5	好	_	ADV	_	_	4	advmod	_	very
+5	好	_	ADV	_	_	6	advmod	_	very
 6	臭	_	ADJ	_	_	2	ccomp	_	stinky
 7	呀	_	PART	_	_	2	discourse:sp	_	SP
 
@@ -53,7 +53,7 @@ The subject of the embedded clause may sometimes be absent, but pragmatically un
 4	it's	_	_	_	_	0	_	_	_
 5	very	_	_	_	_	0	_	_	_
 6	stinky?"	_	_	_	_	0	_	_	_
-7	(talking	_	_	_	_	0	_ 	_	_
+7	(talking	_	_	_	_	0	_ _	_	_
 8	about	_	_	_	_	0	_	_	_
 9	a	_	_	_	_	0	_	_	_
 10	room,	_	_	_	_	0	_	_	_
