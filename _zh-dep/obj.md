@@ -5,7 +5,9 @@ shortdef: 'object'
 udver: '2'
 ---
 
-The object of a transitive verb is its second core argument after its subject. If a third argument, an indirect object, is present, that object is marked as [iobj]() (2), but if the only object present is an indirect object, it is still marked as `obj` (3). 
+The object of a transitive verb is its second core argument after its subject. If a third argument, an indirect object without a preposition\*, is present, that object is marked as [iobj]() (2), but if the only object present is an indirect object, it is still marked as `obj` (3). 
+
+\* Note that indirect objects preceded by a preposition are treated as [obl]() (oblique).
 
 ~~~ conllu
 # visual-style 1 3 obj	color:blue
