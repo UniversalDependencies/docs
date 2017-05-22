@@ -21,7 +21,7 @@ When the silent subject of `xcomp` is obligatorily coreferent with the subject o
 4	決定	_	VERB	_	_	0	root	_	decide
 5	咗	_	AUX	_	_	4	aux	_	PERF
 6	換	_	VERB	_	_	4	xcomp	_	change
-7	車	_	NOUN	_	_	5	obj	_	car
+7	車	_	NOUN	_	_	6	obj	_	car
 8	啦	_	PART	_	_	4	discourse:sp	_	SP
 
 1	"I	_	_	_	_	0	_	_	_
@@ -32,8 +32,8 @@ When the silent subject of `xcomp` is obligatorily coreferent with the subject o
 6	cars	_	_	_	_	0	_	_	_
 7	from	_	_	_	_	0	_	_	_
 8	the	_	_	_	_	0	_	_	_
-8	very	_	_	_	_	0	_	_	_
-8	beginning."	_	_	_	_	0	_	_	_
+9	very	_	_	_	_	0	_	_	_
+10	beginning."	_	_	_	_	0	_	_	_
 
 ~~~
 
@@ -108,7 +108,7 @@ Note that the complement may be simply a nominal predicate, where the structure 
 2	我	_	PRON	_	_	1	obj	_	1SG
 3	羅	_	PROPN	_	_	4	compound	_	Law
 4	生	_	NOUN	_	_	1	xcomp	_	Mr.
-4	吖	_	PART	_	_	1	discourse:sp	_	SP
+5	啦	_	PART	_	_	1	discourse:sp	_	SP
 
 1	"Call	_	_	_	_	0	_	_	_
 2	me	_	_	_	_	0	_	_	_
