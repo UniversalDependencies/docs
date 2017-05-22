@@ -16,7 +16,7 @@ In Cantonese, expletive (1) and pleonastic (2) uses of the pronoun 佢 / _keoi5_
 1	喊	_	VERB	_	_	0	root	_	cry
 2	飽	_	ADJ	_	_	1	compound:vv	_	full
 3	佢	_	PRON	_	_	1	expl	_	yesterday
-4	啦	_	PART	_	_	5	advmod	_	only
+4	啦	_	PART	_	_	1	discourse:sp	_	SP
 
 1	"Go	_	_	_	_	0	_	_	_
 2	ahead	_	_	_	_	0	_	_	_
@@ -39,7 +39,7 @@ In Cantonese, expletive (1) and pleonastic (2) uses of the pronoun 佢 / _keoi5_
 3	啲	_	NOUN	_	_	4	det	_	CL:plural
 4	嘢	_	NOUN	_	_	1	obj	_	stuff
 5	佢	_	PRON	_	_	1	expl	_	3SG
-4	啦	_	PART	_	_	1	discourse:sp	_	SP
+6	啦	_	PART	_	_	1	discourse:sp	_	SP
 
 1	"Just	_	_	_	_	0	_	_	_
 2	throw	_	_	_	_	0	_	_	_
