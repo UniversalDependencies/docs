@@ -34,7 +34,7 @@ The coordinating conjunction links a conjunction word to its immediately followi
 # visual-style 7	fgColor:white
 1	佢	_	PRON	_	_	2	nsubj	_	3SG
 2	去	_	VERB	_	_	0	root	_	go
-3	，	_	PUNCT	_	_	7	cc	_	_
+3	，	_	PUNCT	_	_	7	punct	_	_
 4	但係	_	CCONJ	_	_	7	cc	_	but
 5	我	_	PRON	_	_	7	nsubj	_	1SG
 6	唔	_	ADV	_	_	7	advmod	_	NEG
@@ -45,6 +45,6 @@ The coordinating conjunction links a conjunction word to its immediately followi
 3	but	_	_	_	_	0	_	_	_
 4	I'm	_	_	_	_	0	_	_	_
 5	not	_	_	_	_	0	_	_	_
-5	going."	_	_	_	_	0	_	_	_
+6	going."	_	_	_	_	0	_	_	_
 
 ~~~
