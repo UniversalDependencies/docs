@@ -15,7 +15,7 @@ The `reparandum` relation is used for disfluencies that are subsequently repaire
 # visual-style 3	fgColor:white
 1	就	_	ADV	_	_	3	reparandum	_	then
 2	-	_	PUNCT	_	_	1	punct	_	_
-3	就	_	ADV	_	_	7	advmod	_	then
+3	就	_	ADV	_	_	4	advmod	_	then
 4	聽	_	ADP	_	_	0	root	_	listen-to
 5	你	_	PRON	_	_	4	obj	_	2SG
 6	喇	_	PART	_	_	4	discourse:sp	_	SP
