@@ -5,7 +5,7 @@ shortdef: 'numeric modifier'
 udver: '2'
 ---
 
-A numeric modifier is a modifier that is a numeral word or phrase preceding the noun or noun phrase it modifies. Ordinal numbers such as 第一 / _dìyī_ "first" and 第二 / _dìèr_ "second" should also be treated with `nummod` because they have the same syntactic distribution as cardinal numbers. 
+A numeric modifier is a modifier that is a numeral word or phrase preceding the noun or noun phrase it modifies. Ordinal numbers such as 第一 / _dìyī_ "first" and 第二 / _dìèr_ "second" should also be treated with `amod` (and tagged `ADJ`) to conform to UD guidelines. 
 
 Numeric modifiers are always attached to the head of the noun phrase.
 
