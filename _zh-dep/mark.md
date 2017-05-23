@@ -5,7 +5,7 @@ shortdef: 'marker'
 udver: '2'
 ---
 
-The `mark` relation applies to a function word that marks a subordinate clause. It can be distributed at its beginning (1,3) or at its end (2,4). We take a broad definition of "subordinate" to include adverbial clauses of any kind (see [advcl]()), as well as relative clauses formed with 所 _suǒ_ (5).
+The `mark` relation applies to a function word that marks a subordinate clause. It can be distributed at its beginning (1,3) or at its end (2,4). We take a broad definition of "subordinate" to include adverbial clauses of any kind (see [advcl]()).
 
 For relative clauses, nominalized clauses, and adjectives formed with 的 _de_, see [mark:rel](). For the manner adverbializer 地 _de_, see [mark:adv]().
 
@@ -111,31 +111,3 @@ For relative clauses, nominalized clauses, and adjectives formed with 的 _de_, 
 10	happy."	_	_	_	_	0	_	_	_
 
 ~~~
-
-~~~ conllu
-# visual-style 6 5 mark	color:blue
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-1	木村	_	PROPN	_	_	6	nsubj	_	Kimura
-2	在	_	ADP	_	_	3	case	_	in
-3	劇	_	NOUN	_	_	6	obl	_	show
-4	中	_	ADP	_	_	3	case:loc	_	middle
-5	所	_	SCONJ	_	_	6	mark	_	REL
-6	戴	_	VERB	_	_	8	acl	_	wear
-7	的	_	PART	_	_	6	mark:rel	_	REL
-8	手鍊	_	NOUN	_	_	0	root	_	bracelet
-
-1	"the	_	_	_	_	0	_	_	_
-2	bracelet	_	_	_	_	0	_	_	_
-3	that	_	_	_	_	0	_	_	_
-4	Kimura	_	_	_	_	0	_	_	_
-5	wears	_	_	_	_	0	_	_	_
-6	in	_	_	_	_	0	_	_	_
-7	the	_	_	_	_	0	_	_	_
-8	show"	_	_	_	_	0	_	_	_
-
-~~~
-
-
