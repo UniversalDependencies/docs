@@ -18,13 +18,13 @@ There are three situations in Cantonese for which we apply the `appos` relation.
 1	我	_	PRON	_	_	3	nmod	_	1SG
 2	嘅	_	PART	_	_	1	case	_	GEN
 3	老闆娘	_	NOUN	_	_	0	root	_	female-boss
-4	楊	_	PROPN	_	_	5	compound	_	Yang
+4	楊	_	PROPN	_	_	5	compound	_	Yeung
 5	小姐	_	NOUN	_	_	3	appos	_	Ms.
 
 1	"my	_	_	_	_	0	_	_	_
 2	boss	_	_	_	_	0	_	_	_
 3	Ms.	_	_	_	_	0	_	_	_
-4	Yang"	_	_	_	_	0	_	_	_
+4	Yeung"	_	_	_	_	0	_	_	_
 
 ~~~
 
