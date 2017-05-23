@@ -50,15 +50,15 @@ Sometimes the compound may be idiomatic as well (2).
 1	"can't	_	_	_	_	0	_	_	_
 2	figure	_	_	_	_	0	_	_	_
 3	out	_	_	_	_	0	_	_	_
-3	/	_	_	_	_	0	_	_	_
-3	take	_	_	_	_	0	_	_	_
-3	things	_	_	_	_	0	_	_	_
-3	to	_	_	_	_	0	_	_	_
-3	heart	_	_	_	_	0	_	_	_
-4	(lit.	_	_	_	_	0	_	_	_
-5	can't	_	_	_	_	0	_	_	_
-6	think	_	_	_	_	0	_	_	_
-7	through)."	_	_	_	_	0	_	_	_
+4	/	_	_	_	_	0	_	_	_
+5	take	_	_	_	_	0	_	_	_
+6	things	_	_	_	_	0	_	_	_
+7	to	_	_	_	_	0	_	_	_
+8	heart	_	_	_	_	0	_	_	_
+9	(lit.	_	_	_	_	0	_	_	_
+10	can't	_	_	_	_	0	_	_	_
+11	think	_	_	_	_	0	_	_	_
+12	through)."	_	_	_	_	0	_	_	_
 
 ~~~
 
