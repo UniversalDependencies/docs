@@ -5,7 +5,7 @@ shortdef: 'compound'
 udver: '2'
 ---
 
-The `compound relation` is used primarily for noun-noun compounds (for verb and verb-object compounds, see [compound:dir](), [compound:ext](), [compound:vo](), and [compound:vv]()). This applies to any nominal preceding and modifying another nominal unless the relationship between the two is a possessive one (see [nmod]()). The latter nominal is typically the head of the compound. 
+The `compound` relation is used primarily for noun-noun compounds (for verb and verb-object compounds, see [compound:dir](), [compound:ext](), [compound:vo](), and [compound:vv]()). This applies to any nominal preceding and modifying another nominal unless the relationship between the two is a possessive one (see [nmod]()). The latter nominal is typically the head of the compound. 
 
 ~~~ conllu
 # visual-style 2 1 compound	color:blue
@@ -58,7 +58,7 @@ Names preceding titles or relationship roles are also treated as noun compounds,
 
 ~~~
 
-Internal compounding should always be parsed first. For example, in (3) the last two nouns 職業 介紹所 _employment agency_ form a compound first before compounding with the proper noun 威威 _Weiwei_, but in (4) 警察 招募 _police recruitment_ form a compound first before compounding further with 廣告 _advertisement_.
+Internal compounding should always be parsed first. For example, in (3) the last two nouns 職業 介紹所 _employment agency_ form a compound first before compounding with the proper noun 威威 _Weiwei_; but in (4), 警察 招募 _police recruitment_ form a compound first before compounding further with 廣告 _advertisement_.
 
 ~~~ conllu
 # visual-style 2 1 compound	color:blue
