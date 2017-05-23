@@ -127,9 +127,9 @@ The `ccomp` relation is also used for the copula 係 _hai6_ when its argument is
 
 ~~~
 
-### 係...(嘅) constructions
+### 係...((嚟)嘅) constructions
 
-The cleft-like focus constructions involving 係 _hai6_ and 係...嘅 _hai6...ge3_ are treated similarly to copular constructions with a clausal complement illustrated in (5).  In these constructions 係 _hai6_ is considered the head, and the verb phrase or clause following it its clausal complement. Any noun phrase or adverbial to the left of 係 _hai6_ is treated as a [dislocated]() dependent of 係 _hai6_ (rather than subject, adjunct, or oblique nominal of the complement clause), unless the adverbial is meant to modify 係 _hai6_ itself. Note that clausal subjects to the left of 係 _hai6_ are also treated as [dislocated](). The sentence-final particle 嘅 _ge3_ is attached to the complement clause (although note that (i) 嘅 _ge3_ may also be a nominalizer or a genitive marker on a nominal predicate depending on the context, (ii) other final particles with an initial _g-_ sound may occur in place of 嘅 _ge3_, such as 㗎 _gaa3_ and 咖嘛 _ga1maa3_).
+The cleft-like focus constructions involving 係 _hai6_ and 係...(嚟)嘅 _hai6...(lei4) ge3_ are treated similarly to copular constructions with a clausal complement illustrated in (5).  In these constructions 係 _hai6_ is considered the head, and the verb phrase or clause following it its clausal complement. Any noun phrase or adverbial to the left of 係 _hai6_ is treated as a [dislocated]() dependent of 係 _hai6_ (rather than subject, adjunct, or oblique nominal of the complement clause), unless the adverbial is meant to modify 係 _hai6_ itself. Note that clausal subjects to the left of 係 _hai6_ are also treated as [dislocated](). The sentence-final particle 嘅 _ge3_ is attached to the complement clause (although note that (i) 嘅 _ge3_ may also be a nominalizer or a genitive marker on a nominal predicate depending on the context (unless preceded by the final particle 嚟 _lei4_), (ii) other final particles with an initial _g-_ sound may occur in place of 嘅 _ge3_, such as 㗎 _gaa3_ and 咖嘛 _ga1maa3_).
 
 ~~~ conllu
 # visual-style 2 3 ccomp	color:blue
