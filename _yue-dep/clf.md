@@ -5,7 +5,7 @@ shortdef: 'classifier'
 udver: '2'
 ---
 
-The `clf` relation is used in noun phrases where a cardinal numeral (1,3), an ordinal numeral (2), or a determiner (3,4) modifying the head noun is accompanied by a classifier. The classifier is attached to the numeral if a numeral is present, or else to the determiner. Note that ordinal numerals are tagged <a>`ADJ`</a> and labeled <a>`amod`</a> in relation to the noun; they are the only words tagged `ADJ` that can be accompanied by a classifier.
+The `clf` relation is used in noun phrases where a cardinal numeral (1,4), an ordinal numeral (2), or a determiner (3) modifying the head noun is accompanied by a classifier. The classifier is attached to the numeral if a numeral is present, or else to the determiner. Note that ordinal numerals are tagged <a>`ADJ`</a> and labeled <a>`amod`</a> in relation to the noun; they are the only words tagged `ADJ` that can be accompanied by a classifier.
 
 ~~~ conllu
 # visual-style 1 2 clf	color:blue
@@ -74,7 +74,7 @@ The `clf` relation is used in noun phrases where a cardinal numeral (1,3), an or
 
 ### Non-`clf` functions of Mandarin classifiers
 
-In other constructions involving classifiers, they are annotated with other syntax relations. First, in Cantonese a classifier may also be considered to function as a determiner when a noun phrase starts with a bare classifier, as in (4, 5).
+In other constructions involving classifiers, they are annotated with other syntax relations. First, in Cantonese a classifier may also be considered to function as a determiner when a noun phrase starts with a bare classifier, as in (5, 6).
 
 ~~~ conllu
 1	切	_	VERB	_	_	0	root	_	cut
@@ -91,17 +91,17 @@ In other constructions involving classifiers, they are annotated with other synt
 1	隻	_	NOUN	_	_	2	det	_	CL
 2	貓	_	NOUN	_	_	3	nsubj	_	cat
 3	跌	_	VERB	_	_	0	root	_	fall
-4	咗	_	AUX	_	_	3	aux	_	PERF
-5	落去	_	VERB	_	_	3	compound:dir	_	go-down
+4	低	_	ADJ	_	_	3	compound:vv	_	low
+5	咗	_	AUX	_	_	3	aux	_	PERF
 
 1	"the	_	_	_	_	0	_	_	_
 2	cat	_	_	_	_	0	_	_	_
-3	fell"	_	_	_	_	0	_	_	_
-4	off"	_	_	_	_	0	_	_	_
+3	fell	_	_	_	_	0	_	_	_
+4	down"	_	_	_	_	0	_	_	_
 
 ~~~
 
-Second, if a noun phrase does not have a regular noun, then the classifier is promoted to head of the noun phrase and any numeral or determiner would depend on the classifier, such as in (6) and (7). 
+Second, if a noun phrase does not have a regular noun, then the classifier is promoted to head of the noun phrase and any numeral or determiner would depend on the classifier, such as in (7) and (8). 
 
 ~~~ conllu
 1	畀	_	VERB	_	_	0	root	_	give
