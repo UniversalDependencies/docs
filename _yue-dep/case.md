@@ -135,10 +135,10 @@ Postpositions, also known as "localizers", are labeled with [case:loc]() instead
 # visual-style 3	fgColor:white
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
-1	受害者	_	NOUN	_	_	2	case	_	victim
-2	終於	_	ADV	_	_	2	case	_	finally
-3	被	_	ADP	_	_	2	case	_	by
-4	警察	_	NOUN	_	_	3	obl:agent	_	police
+1	受害者	_	NOUN	_	_	5	nsubj:pass	_	victim
+2	終於	_	ADV	_	_	5	case	_	finally
+3	被	_	ADP	_	_	4	case	_	by
+4	警察	_	NOUN	_	_	5	obl:agent	_	police
 5	拯救	_	VERB	_	_	0	root	_	rescue
 
 1	"The	_	_	_	_	0	_	_	_
