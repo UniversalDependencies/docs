@@ -126,10 +126,12 @@ We also use this function for the VERB + NEG + VERB (or AUX + NEG + AUX) interro
 
 1	"Do	_	_	_	_	0	_	_	_
 2	you	_	_	_	_	0	_	_	_
-3	drink	_	_	_	_	0	_	_	_
-4	coffee	_	_	_	_	0	_	_	_
-5	(or	_	_	_	_	0	_	_	_
-6	not)?"	_	_	_	_	0	_	_	_
+3	(want	_	_	_	_	0	_	_	_
+3	to)	_	_	_	_	0	_	_	_
+4	drink	_	_	_	_	0	_	_	_
+5	coffee	_	_	_	_	0	_	_	_
+6	(or	_	_	_	_	0	_	_	_
+7	not)?"	_	_	_	_	0	_	_	_
 
 ~~~
 
