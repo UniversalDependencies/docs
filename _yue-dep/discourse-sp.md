@@ -61,8 +61,8 @@ More than one sentence-final particles may appear at the end of the same clause 
 1	"It	_	_	_	_	0	_	_	_
 2	costs?	_	_	_	_	0	_	_	_
 3	/	_	_	_	_	0	_	_	_
-4	I	_	_	_	_	0	_	_	_
-5	have	_	_	_	_	0	_	_	_
+4	One	_	_	_	_	0	_	_	_
+5	has	_	_	_	_	0	_	_	_
 6	to	_	_	_	_	0	_	_	_
 7	pay?"	_	_	_	_	0	_	_	_
 
