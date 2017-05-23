@@ -91,11 +91,11 @@ Parataxis is a relation for "side-by-side sentences" including reported speech (
 ~~~
 
 ~~~ conllu
-# visual-style 4 10 parataxis	color:blue
+# visual-style 4 9 parataxis	color:blue
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
 1	佢	_	PRON	_	_	4	nsubj	_	3SG.M
 2	係	_	VERB	_	_	4	cop	_	be
 3	紀律	_	NOUN	_	_	4	compound	_	discipline
