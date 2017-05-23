@@ -91,7 +91,7 @@ In other constructions involving classifiers, they are annotated with other synt
 1	隻	_	NOUN	_	_	2	det	_	CL
 2	貓	_	NOUN	_	_	3	nsubj	_	cat
 3	跌	_	VERB	_	_	0	root	_	fall
-4	低	_	ADJ	_	_	3	compound:vv	_	low
+4	低	_	VERB	_	_	3	compound:dir	_	lower
 5	咗	_	AUX	_	_	3	aux	_	PERF
 
 1	"the	_	_	_	_	0	_	_	_
