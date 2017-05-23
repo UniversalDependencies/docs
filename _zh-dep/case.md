@@ -85,11 +85,11 @@ Postpositions, also known as "localizers", are labeled with [case:loc]() instead
 ~~~
 
 ~~~ conllu
-# visual-style 5 4 case	color:blue
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
+# visual-style 2 1 case	color:blue
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
 1	把	_	ADP	_	_	2	case	_	BA
 2	他們	_	PRON	_	_	3	obl:patient	_	3PL
 3	藏	_	VERB	_	_	0	root	_	hide
@@ -111,7 +111,7 @@ Postpositions, also known as "localizers", are labeled with [case:loc]() instead
 # visual-style 3	fgColor:white
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
-1	我們	_	PRON	_	_	7	nsubj	_	3PL
+1	我們	_	PRON	_	_	7	nsubj	_	1PL
 2	應該	_	AUX	_	_	7	aux	_	should
 3	比	_	ADP	_	_	4	case	_	COMP
 4	他們	_	PRON	_	_	7	obl	_	3PL
