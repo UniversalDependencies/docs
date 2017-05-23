@@ -7,7 +7,7 @@ udver: '2'
 
 Sentence particles, also commonly known as "sentence-final particles" in Chinese linguistics, occur at the end of clauses and sentences and have a wide range of functions including modifying the modality of a sentence or its proposition, and expressing discourse and pragmatic information. They are linked to the main predicate as `discourse:sp` dependents (we place them under an extension of `discourse` under a loose interpretation of "discourse").
 
-Common sentence-final particles in Cantonese include: 嘅 _ge3_, 嘑 _laa3_, 喇 _laa1_, 囉 _lo4_, 唧 _zek1_, 吖 _aa1_, 喎 _wo3_, 呀嘛 _a1maa3_, 先 _sin1_, 添 _tim1_, among many others. (Note that many sentence-final particles can be written in multiple ways and some characters can also represent different particles that differ only in tone; there is no official standard so the characters used and the transliterated pronunciations provided here are not meant to be definitive). 
+Common sentence-final particles in Cantonese include: 嘅 _ge3_, 嘑 _laa3_, 喇 _laa1_, 囉 _lo4_, 唧 _zek1_, 吖 _aa1_, 喎 _wo3_, 呀嘛 _a1maa3_, 先 _sin1_, 添 _tim1_, among many others. (Note that many sentence-final particles can be written in multiple ways and some characters can also represent different particles that differ only in tone; there is no official standard so the characters used here are not meant to be a definitive guide). 
 
 For a list of tag interjections/particles that should not be confused with sentence-final particles, see [discourse]().
 
