@@ -5,9 +5,9 @@ shortdef: 'conjunct'
 udver: '2'
 ---
 
-A conjunct is a relation between two elements that are coordinated. The first conjunct is the head of all following conjuncts. However, any conjunction words and punctuation in between conjuncts depend on their immediately following conjunct.
+A conjunct is a relation between two elements that are coordinated. The first conjunct is the head of all following conjuncts. However, any conjunction words (tagged [CCONJ]()) and punctuation in between conjuncts depend on their immediately following conjunct.
 
-The elements can be connected by a coordinating conjunction (1), or simply juxtaposed next to each other without or with punctuation (2). 
+The elements can be connected by a coordinating conjunction (1), or simply juxtaposed next to each other with or without punctuation (2). 
 
 ~~~ conllu
 # visual-style 1 3 conj	color:blue
