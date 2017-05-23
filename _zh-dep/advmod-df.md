@@ -5,7 +5,7 @@ shortdef: 'duration or frequency adverbial modifier'
 udver: '2'
 ---
 
-The relation `advmod:df` is used for a noun phrase headed by a classifier expressing the duration or the frequency of the event expressed by the main predicate. The duration (1) and frequency (2) phrases can be post-verbal as well as pre-verbal (3-4).
+The relation `advmod:df` is used for a noun phrase usually headed by a classifier expressing the duration or the frequency of the event expressed by the main predicate. The duration (1) and frequency (2) phrases can be post-verbal as well as pre-verbal (3-4).
 
 For nominal time expressions and adverbial time expressions that provide a time frame rather than a duration, use [obl:tmod]() and [advmod](), respectively.
 
