@@ -14,7 +14,7 @@ The `flat` relation is used to link names without internal structure (unlikely i
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 1	弗羅倫斯	_	PROPN	_	_	0	root	_	Florence
-2	·	_	PUNCT	_	_	1	punct	_	_
+2	·	_	PUNCT	_	_	3	punct	_	_
 3	南丁格爾	_	PROPN	_	_	1	flat	_	Nightingale
 
 1	"Florence	_	_	_	_	0	_	_	_
