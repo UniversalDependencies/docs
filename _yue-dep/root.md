@@ -75,7 +75,7 @@ The root of a sentence is the predicate of the main clause. This may be a verb (
 2	佢	_	PRON	_	_	3	nsubj	_	3SG.M
 3	會	_	AUX	_	_	1	root	_	will
 
-1	"He	_	_	_	_	0	_	_	_
+1	"She	_	_	_	_	0	_	_	_
 2	will	_	_	_	_	0	_	_	_
 3	(do	_	_	_	_	0	_	_	_
 4	it)."	_	_	_	_	0	_	_	_
