@@ -31,11 +31,11 @@ When an adjective modifying a noun is followed by the particle 嘅 before the no
 When the particle 嘅 is used after a clause turning it into a relative clause that modifies the following noun, the particle is a `mark:rel` dependent of the main verb of the relative clause.
 
 ~~~ conllu
-# visual-style 6 7 mark:rel	color:blue
+# visual-style 5 6 mark:rel	color:blue
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
 1	阿明	_	PROPN	_	_	5	nsubj	_	Ming
 2	喺	_	ADP	_	_	3	case	_	in
 3	劇	_	NOUN	_	_	5	obl	_	show
