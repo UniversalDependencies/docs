@@ -36,7 +36,22 @@ The `clf` relation is used in noun phrases where a cardinal numeral (1,3), an or
 
 1	"the	_	_	_	_	0	_	_	_
 2	first	_	_	_	_	0	_	_	_
-3	teacher	_	_	_	_	0	_	_	_
+3	teacher"	_	_	_	_	0	_	_	_
+
+~~~
+
+~~~ conllu
+# visual-style 1 2 clf	color:blue
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+1	這	_	DET	_	_	3	det	_	this
+2	本	_	NOUN	_	_	1	clf	_	CL:book
+3	書	_	NOUN	_	_	0	root	_	book
+
+1	"this	_	_	_	_	0	_	_	_
+2	book"	_	_	_	_	0	_	_	_
 
 ~~~
 
@@ -54,21 +69,6 @@ The `clf` relation is used in noun phrases where a cardinal numeral (1,3), an or
 1	"this	_	_	_	_	0	_	_	_
 2	goodwill	_	_	_	_	0	_	_	_
 3	competition"	_	_	_	_	0	_	_	_
-
-~~~
-
-~~~ conllu
-# visual-style 1 2 clf	color:blue
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-1	這	_	DET	_	_	3	det	_	this
-2	本	_	NOUN	_	_	1	clf	_	CL:book
-3	書	_	NOUN	_	_	0	root	_	book
-
-1	"this	_	_	_	_	0	_	_	_
-2	book"	_	_	_	_	0	_	_	_
 
 ~~~
 
