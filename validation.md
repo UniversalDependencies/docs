@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-05-24T19:13:53Z">2017-05-24T19:13:53 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-05-24T19:26:09Z">2017-05-24T19:26:09 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -230,12 +230,26 @@ python tools/validate.py --lang bg UD-dev-branches/UD_Bulgarian/bg-ud-train.conl
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD Buryat</span>
 <span class="widespan">bxr</span>
-<span class="validationfail">EMPTY</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-05-24T18:24:56Z">2017-05-24T18:24:56 zulu</time></span>
+<span class="validationpass">PASS</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-05-24T19:26:08Z">2017-05-24T19:26:08 zulu</time></span>
 </div>
 <div>
 <pre>
-No data
+python tools/validate.py --lang bxr UD-dev-branches/UD_Buryat/bxr-ud-sample.conllu
+
+*** PASSED ***
+
+
+******************
+
+python tools/validate.py --lang bxr UD-dev-branches/UD_Buryat/bxr-ud-test.conllu
+
+*** PASSED ***
+
+
+******************
+
+
 </pre>
 </div>
 <div>
