@@ -933,6 +933,20 @@ collections:
   sme-overview:
     output: true
 #
+# Upper_Sorbian
+#
+  hsb-pos:
+    output: true
+    permalink: /hsb/pos/:path.html
+  hsb-feat:
+    output: true
+    permalink: /hsb/feat/:path.html
+  hsb-dep:
+    output: true
+    permalink: /hsb/dep/:path.html
+  hsb-overview:
+    output: true
+#
 # Template
 #
   template-pos:
