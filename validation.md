@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-05-24T18:49:01Z">2017-05-24T18:49:01 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-05-24T18:49:30Z">2017-05-24T18:49:30 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -1394,11 +1394,11 @@ python tools/validate.py --lang ja UD-dev-branches/UD_Japanese/ja-ud-train.conll
 <span class="doublewidespan" style="padding-left:3em">UD Japanese-KTC</span>
 <span class="widespan">ja ktc</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-03-30T12:24:13Z">2017-03-30T12:24:13 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-05-24T18:49:22Z">2017-05-24T18:49:22 zulu</time></span>
 </div>
 <div>
 <pre>
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang ja_ktc /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Japanese-KTC/ja_ktc-ud-dev.conllu
+python tools/validate.py --lang ja_ktc UD-dev-branches/UD_Japanese-KTC/ja_ktc-ud-dev.conllu
 
 [Line                   10]: Missing the sent_id attribute.
 [Line                   10]: Missing the text attribute.
@@ -1468,7 +1468,7 @@ Syntax errors: 1953
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang ja_ktc /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Japanese-KTC/ja_ktc-ud-train.conllu
+python tools/validate.py --lang ja_ktc UD-dev-branches/UD_Japanese-KTC/ja_ktc-ud-train.conllu
 
 [Line                   3]: Unknown UD DEPREL: name
 [Line                   34]: Unknown UD DEPREL: mwe
