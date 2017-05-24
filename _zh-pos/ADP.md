@@ -11,7 +11,7 @@ The Chinese `ADP` covers three categories of function words analyzed as adpositi
 
 Chinese coverbs introduce an extra participant/argument to the event/main verb in a clause (but note that many coverbs may also function as main verbs).
 
-- 他 <b>對</b> 我 做 了 很 殘忍 的 事情 ／ _ā <b>duì</b> wǒ zuò le hěn cánrěn de shìqíng_ "He did some cruel things to me."
+- 他 <b>對</b> 我 做 了 很 殘忍 的 事情 ／ _tā <b>duì</b> wǒ zuò le hěn cánrěn de shìqíng_ "He did some cruel things to me."
 
 Valence markers such as the "disposal" 把 / _bǎ_ and the "long passive" 被 / _bèi_ (when followed by an agent noun) are also tagged `ADP` (however, the "short passive" 被 / _bèi_ when not followed by a noun should be tagged <a>`AUX`</a>).
 
