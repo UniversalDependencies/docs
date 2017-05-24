@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-05-24T18:24:10Z">2017-05-24T18:24:10 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-05-24T18:24:45Z">2017-05-24T18:24:45 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -199,18 +199,18 @@ python tools/validate.py --lang be UD-dev-branches/UD_Belarusian/be-ud-train.con
 <span class="doublewidespan" style="padding-left:3em">UD Bulgarian</span>
 <span class="widespan">bg</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-03-30T12:17:00Z">2017-03-30T12:17:00 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-05-24T18:24:35Z">2017-05-24T18:24:35 zulu</time></span>
 </div>
 <div>
 <pre>
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang bg /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Bulgarian/bg-ud-dev.conllu
+python tools/validate.py --lang bg UD-dev-branches/UD_Bulgarian/bg-ud-dev.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang bg /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Bulgarian/bg-ud-train.conllu
+python tools/validate.py --lang bg UD-dev-branches/UD_Bulgarian/bg-ud-train.conllu
 
 *** PASSED ***
 
