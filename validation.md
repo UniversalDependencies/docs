@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-05-24T18:43:20Z">2017-05-24T18:43:20 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-05-24T18:43:47Z">2017-05-24T18:43:47 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -1064,7 +1064,7 @@ python tools/validate.py --lang got UD-dev-branches/UD_Gothic/got-ud-train.conll
 <span class="doublewidespan" style="padding-left:3em">UD Greek</span>
 <span class="widespan">el</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-04-24T10:05:59Z">2017-04-24T10:05:59 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-05-24T18:43:42Z">2017-05-24T18:43:42 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -1092,6 +1092,13 @@ python tools/validate.py --lang el UD-dev-branches/UD_Greek/el-ud-dev.conllu
 ...suppressing further errors regarding Syntax
 *** FAILED *** with 62 errors
 Syntax errors: 62
+
+
+******************
+
+python tools/validate.py --lang el UD-dev-branches/UD_Greek/el-ud-test.conllu
+
+*** PASSED ***
 
 
 ******************
