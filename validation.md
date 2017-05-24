@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-05-24T18:43:47Z">2017-05-24T18:43:47 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-05-24T18:44:24Z">2017-05-24T18:44:24 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -1138,18 +1138,25 @@ Syntax errors: 357
 <span class="doublewidespan" style="padding-left:3em">UD Hebrew</span>
 <span class="widespan">he</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-03-30T12:22:58Z">2017-03-30T12:22:58 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-05-24T18:44:12Z">2017-05-24T18:44:12 zulu</time></span>
 </div>
 <div>
 <pre>
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang he /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Hebrew/he-ud-dev.conllu
+python tools/validate.py --lang he UD-dev-branches/UD_Hebrew/he-ud-dev.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang he /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Hebrew/he-ud-train.conllu
+python tools/validate.py --lang he UD-dev-branches/UD_Hebrew/he-ud-test.conllu
+
+*** PASSED ***
+
+
+******************
+
+python tools/validate.py --lang he UD-dev-branches/UD_Hebrew/he-ud-train.conllu
 
 *** PASSED ***
 
