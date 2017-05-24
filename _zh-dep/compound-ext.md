@@ -5,7 +5,7 @@ shortdef: 'extent and descriptive verb compound'
 udver: '2'
 ---
 
-This relation is used for two closely related constructions known in Chinese linguistics as "descriptive complements" and "complements of extent". We treat them both in the same way with regards to the particle 得 _de_, where the particle is a `compound:ext` dependent of the verb it follows (with the idea that the addition of 得 changes the valence structure of the verb such that it  takes a clause or secondary predicate, instead of a noun or noun phrase, as its complement. 
+This relation is used for two closely related constructions known in Chinese linguistics as "descriptive complements" and "complements of extent". We treat them both in the same way with regards to the particle 得 _de_, where the particle is a `compound:ext` dependent of the verb it follows (with the idea that the addition of 得 changes the valence structure of the verb such that it takes a(n additional) clause or secondary predicate as its complement.
 
 Descriptive complements (1) are treated as [xcomp]() dependents of the compounded verb (since they include a predicative adjective without a subject).
 

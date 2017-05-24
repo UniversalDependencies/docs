@@ -59,7 +59,7 @@ The matrix verb may require both a non-clausal object and a clausal complement:
 
 ~~~
 
-In the case of "object control", the subject of the clausal complement is obligatorily coreferent with the direct object of the higher clause. Chinese “pivotal constructions” are considered to fall under this category. Some matrix verbs that may take a clausal complement with object control include 麻煩 / _máfán_ "trouble", 勸 / _quàn_ "advise", 派 / _pài_ "dispatch", 求 / _qiú_ "beg", / 委託 _wěituō_ "entrust", 請 / _qǐng_ "asl", 命令 / _mìnglìng_ "order", 叫 / _jiào_ "tell", 原諒 / _yuánliàng_ "forgive", 恭喜 / _gōngxǐ_ "congratulate", 批評 / _pīpíng_ "criticize", among others (however, note that some of these verbs may also take just a non-clausal object).
+In the case of "object control", the subject of the clausal complement is obligatorily coreferent with the direct object of the higher clause. Many Chinese “pivotal constructions” are considered to fall under this category. Some matrix verbs that may take a clausal complement with object control include 麻煩 / _máfán_ "trouble", 勸 / _quàn_ "advise", 派 / _pài_ "dispatch", 求 / _qiú_ "beg", / 委託 _wěituō_ "entrust", 請 / _qǐng_ "ask", 命令 / _mìnglìng_ "order", 叫 / _jiào_ "tell", 原諒 / _yuánliàng_ "forgive", 恭喜 / _gōngxǐ_ "congratulate", 批評 / _pīpíng_ "criticize", among others (however, note that some of these verbs may also take just a non-clausal object).
 
 ~~~ conllu
 # visual-style 2 7 xcomp	color:blue
@@ -139,7 +139,7 @@ Additionally, `xcomp` is used when the predicate or clause following a V-得 ext
 # visual-style 2	fgColor:white
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
-1	我	_	PRON	_	_	2	nsubj	_	1SG
+1	你	_	PRON	_	_	2	nsubj	_	1SG
 2	説	_	VERB	_	_	0	root	_	say
 3	得	_	PART	_	_	2	compound:ext	_	DE
 4	對	_	ADJ	_	_	2	xcomp	_	correct

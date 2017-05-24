@@ -5,7 +5,7 @@ shortdef: 'orphan'
 udver: '2'
 ---
 
-The `orphan` relation is used for verb ellipsis in Mandarin (specifically, gapping or gapping-like phenomena; see Tang, 2001). One of elements in the clause with the elided verb is promoted, and all other elements would be connected to the verb would be connected to the promoted head as `orphan` dependents if their original relationship to the elided verb no longer applies in their current link to the promoted head.
+The `orphan` relation is used for verb ellipsis in Mandarin (specifically, gapping or gapping-like phenomena; see Tang, 2001). One of elements in the clause with the elided verb is promoted, and all other elements that would have been connected to the verb would now be connected to the promoted head as `orphan` dependents if their original relationship to the elided verb no longer applies in their current link to the promoted head.
 
 ~~~ conllu
 # visual-style 8 11 orphan	color:blue

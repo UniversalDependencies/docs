@@ -86,12 +86,13 @@ Modifier words that may be modified by an adverb include numerals (4) and quanti
 # visual-style 1	fgColor:white
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
-1	很	_	ADV	_	_	2	advmod	_	very
+1	太	_	ADV	_	_	2	advmod	_	too
 2	多	_	DET	_	_	3	det	_	many
 3	人	_	NOUN	_	_	0	root	_	people
 
-1	"many	_	_	_	_	0	_	_	_
-2	people"	_	_	_	_	0	_	_	_
+1	"too	_	_	_	_	0	_	_	_
+2	many	_	_	_	_	0	_	_	_
+3	people"	_	_	_	_	0	_	_	_
 
 ~~~
 

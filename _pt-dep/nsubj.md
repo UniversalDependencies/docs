@@ -12,7 +12,7 @@ the proto-agent argument due to valence changing operations.) This nominal may b
 or it may be a pronoun or relative pronoun, or in ellipsis contexts, other things such as an adjective.
 
 ~~~ sdparse
-Euller fez mais duas jogadas .
+Euler fez mais duas jogadas .
 nsubj(fez, Euler)
 ~~~
 

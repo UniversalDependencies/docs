@@ -37,7 +37,7 @@ Common sentence-final particles in Mandarin include: 吧 _ba_, 的 _de_, 啦 _la
 
 ~~~
 
-More than one sentence-final particles may appear at the end of the same clause or sentence.
+More than one sentence-final particle may appear at the end of the same clause or sentence.
 
 ~~~ conllu
 # visual-style 2 4 discourse:sp	color:blue

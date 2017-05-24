@@ -101,7 +101,7 @@ Parataxis is a relation for "side-by-side sentences" including reported speech (
 2	是	_	VERB	_	_	4	cop	_	be
 3	紀律	_	NOUN	_	_	4	compound	_	discipline
 4	部隊	_	NOUN	_	_	0	root	_	team
-5	，	_	PUNCT	_	_	10	reparandum	_	_
+5	，	_	PUNCT	_	_	10	punct	_	_
 6	你	_	PRON	_	_	10	nsubj	_	2SG
 7	也	_	ADV	_	_	10	advmod	_	also
 8	將	_	ADV	_	_	10	advmod	_	soon
