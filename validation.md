@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-05-24T18:34:14Z">2017-05-24T18:34:14 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-05-24T18:34:30Z">2017-05-24T18:34:30 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -435,18 +435,18 @@ python tools/validate.py --lang cs_cac UD-dev-branches/UD_Czech-CAC/cs_cac-ud-tr
 <span class="doublewidespan" style="padding-left:3em">UD Czech-CLTT</span>
 <span class="widespan">cs cltt</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-03-30T12:20:34Z">2017-03-30T12:20:34 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-05-24T18:34:28Z">2017-05-24T18:34:28 zulu</time></span>
 </div>
 <div>
 <pre>
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang cs_cltt /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Czech-CLTT/cs_cltt-ud-dev.conllu
+python tools/validate.py --lang cs_cltt UD-dev-branches/UD_Czech-CLTT/cs_cltt-ud-dev.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang cs_cltt /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Czech-CLTT/cs_cltt-ud-train.conllu
+python tools/validate.py --lang cs_cltt UD-dev-branches/UD_Czech-CLTT/cs_cltt-ud-train.conllu
 
 *** PASSED ***
 
