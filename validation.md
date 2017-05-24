@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-05-24T18:52:50Z">2017-05-24T18:52:50 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-05-24T18:53:50Z">2017-05-24T18:53:50 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -1752,18 +1752,25 @@ No data
 <span class="doublewidespan" style="padding-left:3em">UD Norwegian-Bokmaal</span>
 <span class="widespan">no bokmaal</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-03-30T12:25:05Z">2017-03-30T12:25:05 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-05-24T18:53:30Z">2017-05-24T18:53:30 zulu</time></span>
 </div>
 <div>
 <pre>
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang no_bokmaal /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Norwegian-Bokmaal/no_bokmaal-ud-dev.conllu
+python tools/validate.py --lang no_bokmaal UD-dev-branches/UD_Norwegian-Bokmaal/no_bokmaal-ud-dev.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang no_bokmaal /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Norwegian-Bokmaal/no_bokmaal-ud-train.conllu
+python tools/validate.py --lang no_bokmaal UD-dev-branches/UD_Norwegian-Bokmaal/no_bokmaal-ud-test.conllu
+
+*** PASSED ***
+
+
+******************
+
+python tools/validate.py --lang no_bokmaal UD-dev-branches/UD_Norwegian-Bokmaal/no_bokmaal-ud-train.conllu
 
 *** PASSED ***
 
