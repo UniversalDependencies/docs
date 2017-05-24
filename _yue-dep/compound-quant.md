@@ -5,7 +5,7 @@ shortdef: 'verb-quantifier compound'
 udver: '2'
 ---
 
-Among the many verbal particles in Cantonese are affixal quantifiers 埋 / _maai4_ (\~"also") and 晒 / _saai3_ (\~"all") (Lee, 2012; we exclude 開 / _hoi1_ for syntactic distributional reasons); they may scope over any arguments in the clause or even the predicate. They attach after verbs (1) and can be intervened by the potential 得 / _dak1_ or the negative potential 唔 / _m4_ (2), but differ from verb-verb compounds ([compound:vv]()) in that they can co-occur with them, in which case they are attached after the verb-verb compounds (3).
+Among the many verbal particles in Cantonese are affixal quantifiers 埋 / _maai4_ (\~"also") and 晒 / _saai3_ (\~"all") (Lee, 2012; we exclude 開 / _hoi1_ for syntactic distributional reasons); they may scope over any argument in the clause or even the predicate. They attach after verbs (1) and can be intervened by the potential 得 / _dak1_ or the negative potential 唔 / _m4_ (2), but differ from verb-verb compounds ([compound:vv]()) in that they can co-occur with them, in which case they are attached after the verb-verb compounds (3).
 
 ~~~ conllu
 # visual-style 2 3 compound:quant	color:blue
