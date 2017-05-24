@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-05-24T18:57:34Z">2017-05-24T18:57:34 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-05-24T18:58:21Z">2017-05-24T18:58:21 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -1944,18 +1944,25 @@ python tools/validate.py --lang pt UD-dev-branches/UD_Portuguese/pt-ud-train.con
 <span class="doublewidespan" style="padding-left:3em">UD Portuguese-BR</span>
 <span class="widespan">pt br</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-03-30T12:26:15Z">2017-03-30T12:26:15 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-05-24T18:58:05Z">2017-05-24T18:58:05 zulu</time></span>
 </div>
 <div>
 <pre>
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang pt_br /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Portuguese-BR/pt_br-ud-dev.conllu
+python tools/validate.py --lang pt_br UD-dev-branches/UD_Portuguese-BR/pt_br-ud-dev.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang pt_br /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Portuguese-BR/pt_br-ud-train.conllu
+python tools/validate.py --lang pt_br UD-dev-branches/UD_Portuguese-BR/pt_br-ud-test.conllu
+
+*** PASSED ***
+
+
+******************
+
+python tools/validate.py --lang pt_br UD-dev-branches/UD_Portuguese-BR/pt_br-ud-train.conllu
 
 *** PASSED ***
 
