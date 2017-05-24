@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-05-24T18:40:52Z">2017-05-24T18:40:52 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-05-24T18:41:13Z">2017-05-24T18:41:13 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -904,18 +904,25 @@ python tools/validate.py --lang fr_partut UD-dev-branches/UD_French-ParTUT/fr_pa
 <span class="doublewidespan" style="padding-left:3em">UD French-Sequoia</span>
 <span class="widespan">fr sequoia</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-03-30T12:22:21Z">2017-03-30T12:22:21 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-05-24T18:41:08Z">2017-05-24T18:41:08 zulu</time></span>
 </div>
 <div>
 <pre>
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang fr_sequoia /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_French-Sequoia/fr_sequoia-ud-dev.conllu
+python tools/validate.py --lang fr_sequoia UD-dev-branches/UD_French-Sequoia/fr_sequoia-ud-dev.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang fr_sequoia /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_French-Sequoia/fr_sequoia-ud-train.conllu
+python tools/validate.py --lang fr_sequoia UD-dev-branches/UD_French-Sequoia/fr_sequoia-ud-test.conllu
+
+*** PASSED ***
+
+
+******************
+
+python tools/validate.py --lang fr_sequoia UD-dev-branches/UD_French-Sequoia/fr_sequoia-ud-train.conllu
 
 *** PASSED ***
 
