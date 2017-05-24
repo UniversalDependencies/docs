@@ -18,7 +18,7 @@ Coverb phrases in Cantonese are roughly equivalent to prepositional phrases in o
 3	佢	_	PRON	_	_	2	obj	_	3SG
 4	做	_	VERB	_	_	0	root	_	do
 5	咗	_	AUX	_	_	4	aux	_	PERF
-6	功課	_	NOUN	_	_	2	obj	_	homework
+6	功課	_	NOUN	_	_	4	obj	_	homework
 
 1	"I	_	_	_	_	0	_	_	_
 2	did	_	_	_	_	0	_	_	_
