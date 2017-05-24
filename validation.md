@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-05-24T18:21:33Z">2017-05-24T18:21:33 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-05-24T18:23:29Z">2017-05-24T18:23:29 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -110,25 +110,25 @@ No data
 <span class="doublewidespan" style="padding-left:3em">UD Arabic-NYUAD</span>
 <span class="widespan">ar nyuad</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-03-30T12:15:52Z">2017-03-30T12:15:52 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-05-24T18:22:31Z">2017-05-24T18:22:31 zulu</time></span>
 </div>
 <div>
 <pre>
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang ar_nyuad /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Arabic-NYUAD/ar_nyuad-ud-dev.conllu
+python tools/validate.py --lang ar_nyuad UD-dev-branches/UD_Arabic-NYUAD/ar_nyuad-ud-dev.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang ar_nyuad /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Arabic-NYUAD/ar_nyuad-ud-test.conllu
+python tools/validate.py --lang ar_nyuad UD-dev-branches/UD_Arabic-NYUAD/ar_nyuad-ud-test.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang ar_nyuad /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Arabic-NYUAD/ar_nyuad-ud-train.conllu
+python tools/validate.py --lang ar_nyuad UD-dev-branches/UD_Arabic-NYUAD/ar_nyuad-ud-train.conllu
 
 *** PASSED ***
 
