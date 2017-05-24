@@ -1,7 +1,7 @@
 ---
 layout: relation
 title: 'mark:rel'
-shortdef: 'adjectival, relativizer, and nominalizer 嘅 GE3'
+shortdef: 'adjectival, relativizer, and nominalizer GE'
 udver: '2'
 ---
 
