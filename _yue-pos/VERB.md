@@ -18,5 +18,5 @@ Despite its use in copular constructions, 係 / _hai6_ "be" is tagged as a verb 
 - 呼吸 / _fu1kap1_ "breathe"
 - 鍾意 / _zung1ji3_ "like"
 - 決定 / _kyut3ding6_ "decide"
-- 有 / _yau5_ "have; own; exist"
+- 有 / _jau5_ "have; own; exist"
 - 係 / _hai6_ "be; exist"
