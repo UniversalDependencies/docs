@@ -919,6 +919,20 @@ collections:
   dar-overview:
     output: true
 #
+# North_Sami
+#
+  sme-pos:
+    output: true
+    permalink: /sme/pos/:path.html
+  sme-feat:
+    output: true
+    permalink: /sme/feat/:path.html
+  sme-dep:
+    output: true
+    permalink: /sme/dep/:path.html
+  sme-overview:
+    output: true
+#
 # Template
 #
   template-pos:
