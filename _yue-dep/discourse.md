@@ -133,7 +133,7 @@ The particle 呢 _ne1/le1_ can also be used as a hesitation marker.
 4	琴日	_	NOUN	_	_	7	obl:tmod	_	yesterday
 5	呢	_	PART	_	_	4	discourse	_	PART
 6	，	_	PUNCT	_	_	5	punct	_	_
-7	見	_	VERB	_	_	0	root 	_	see
+7	見	_	VERB	_	_	0	root	_	see
 8	到	_	VERB	_	_	7	compound:vv	_	arrive
 9	隻	_	NOUN	_	_	10	det	_	CL
 10	老鼠	_	NOUN	_	_	7	obj	_	mouse
@@ -142,10 +142,10 @@ The particle 呢 _ne1/le1_ can also be used as a hesitation marker.
 
 1	"I,	_	_	_	_	0	_	_	_
 2	uh...	_	_	_	_	0	_	_	_
-2	yesterday...	_	_	_	_	0	_	_	_
-3	saw	_	_	_	_	0	_	_	_
-4	a	_	_	_	_	0	_	_	_
-5	mouse!"	_	_	_	_	0	_	_	_
+3	yesterday...	_	_	_	_	0	_	_	_
+4	saw	_	_	_	_	0	_	_	_
+5	a	_	_	_	_	0	_	_	_
+6	mouse!"	_	_	_	_	0	_	_	_
 
 ~~~
 
