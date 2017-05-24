@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-05-24T18:49:30Z">2017-05-24T18:49:30 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-05-24T18:49:49Z">2017-05-24T18:49:49 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -1545,11 +1545,18 @@ Syntax errors: 9850
 <span class="doublewidespan" style="padding-left:3em">UD Kazakh</span>
 <span class="widespan">kk</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-03-30T12:24:22Z">2017-03-30T12:24:22 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-05-24T18:49:47Z">2017-05-24T18:49:47 zulu</time></span>
 </div>
 <div>
 <pre>
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang kk /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Kazakh/kk-ud-dev.conllu
+python tools/validate.py --lang kk UD-dev-branches/UD_Kazakh/kk-ud-dev.conllu
+
+*** PASSED ***
+
+
+******************
+
+python tools/validate.py --lang kk UD-dev-branches/UD_Kazakh/kk-ud-test.conllu
 
 *** PASSED ***
 
