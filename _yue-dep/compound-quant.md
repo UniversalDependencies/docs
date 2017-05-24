@@ -58,7 +58,7 @@ Among the many verbal particles in Cantonese are affixal quantifiers 埋 / _maai
 2	打	_	VERB	_	_	0	root	_	hit
 3	爛	_	VERB	_	_	2	compound:vv	_	break
 4	埋	_	PART	_	_	2	compound:quant	_	QF
-5	哋	_	NOUN	_	_	6	det	_	CL:PL
+5	啲	_	NOUN	_	_	6	det	_	CL:PL
 6	碗	_	NOUN	_	_	2	obj	_	bowl
 7	嘑	_	PART	_	_	2	discourse:sp	_	SP
 
