@@ -2137,6 +2137,17 @@
     "lang_name": "Marathi"
   }, 
   {
+    "lang_code": "sme", 
+    "contributors": [
+      {
+        "full": "Francis Tyers", 
+        "last": "Tyers", 
+        "first": "Francis"
+      }
+    ], 
+    "lang_name": "North_Sami"
+  }, 
+  {
     "lang_code": "no_bokmaal", 
     "contributors": [
       {
@@ -3109,7 +3120,18 @@
   }, 
   {
     "lang_code": "hsb", 
-    "contributors": [], 
+    "contributors": [
+      {
+        "full": "Daniel Zeman", 
+        "last": "Zeman", 
+        "first": "Daniel"
+      }, 
+      {
+        "full": "Anna Nedoluzhko", 
+        "last": "Nedoluzhko", 
+        "first": "Anna"
+      }
+    ], 
     "lang_name": "Upper_Sorbian"
   }, 
   {
