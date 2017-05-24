@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-05-24T18:46:30Z">2017-05-24T18:46:30 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-05-24T18:46:55Z">2017-05-24T18:46:55 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -1241,18 +1241,25 @@ python tools/validate.py --lang hu UD-dev-branches/UD_Hungarian/hu-ud-train.conl
 <span class="doublewidespan" style="padding-left:3em">UD Indonesian</span>
 <span class="widespan">id</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-03-30T12:23:37Z">2017-03-30T12:23:37 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-05-24T18:46:48Z">2017-05-24T18:46:48 zulu</time></span>
 </div>
 <div>
 <pre>
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang id /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Indonesian/id-ud-dev.conllu
+python tools/validate.py --lang id UD-dev-branches/UD_Indonesian/id-ud-dev.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang id /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Indonesian/id-ud-train.conllu
+python tools/validate.py --lang id UD-dev-branches/UD_Indonesian/id-ud-test.conllu
+
+*** PASSED ***
+
+
+******************
+
+python tools/validate.py --lang id UD-dev-branches/UD_Indonesian/id-ud-train.conllu
 
 *** PASSED ***
 
