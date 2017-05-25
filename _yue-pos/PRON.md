@@ -21,7 +21,7 @@ Pronouns are words that substitute for nouns or noun phrases, whose meaning is r
   - 有啲 / _jau5di1_ "some", 好多 / _hou2do1_ "many", 大部分 / _daai6bou6fan6_ "the majority", 唔少 / _m4siu2_ "not few", 多數 / _do1sou3_ "most", 其他 / _kei4taa1_ "the other ones"
 - Locational pronouns
   - "here": 呢度 / _ni1dou6_, 呢邊 / _ni1bin1_,  呢處 / _ni1syu3_
-  - "there": 嗰度 / _go2dou6_, 嗰邊 / _go2bin1_, 嗰處 / _go2syu3)
+  - "there": 嗰度 / _go2dou6_, 嗰邊 / _go2bin1_, 嗰處 / _go2syu3_
 - Manner pronouns
   - 咁樣 / _gam2joeng2_ "thus, this way, like this" (also ADV)
 - Interrogative pronouns
