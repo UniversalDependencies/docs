@@ -82,7 +82,7 @@ Clauses can also be coordinated (3).
 7	I	_	_	_	_	0	_	_	_
 8	feel	_	_	_	_	0	_	_	_
 9	very	_	_	_	_	0	_	_	_
-10	sleep,	_	_	_	_	0	_	_	_
+10	sleepy,	_	_	_	_	0	_	_	_
 11	too."	_	_	_	_	0	_	_	_
 
 ~~~
