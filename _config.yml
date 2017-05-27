@@ -947,6 +947,20 @@ collections:
   hsb-overview:
     output: true
 #
+# Romansh
+#
+  rm-pos:
+    output: true
+    permalink: /rm/pos/:path.html
+  rm-feat:
+    output: true
+    permalink: /rm/feat/:path.html
+  rm-dep:
+    output: true
+    permalink: /rm/dep/:path.html
+  rm-overview:
+    output: true
+#
 # Template
 #
   template-pos:
