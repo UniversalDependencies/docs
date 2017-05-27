@@ -2442,6 +2442,38 @@
     "lang_name": "Romanian"
   }, 
   {
+    "lang_code": "rm", 
+    "contributors": [
+      {
+        "full": "Sascha Brawer", 
+        "last": "Brawer", 
+        "first": "Sascha"
+      }, 
+      {
+        "full": "Martin Cantieni", 
+        "last": "Cantieni", 
+        "first": "Martin"
+      }
+    ], 
+    "lang_name": "Romansh"
+  }, 
+  {
+    "lang_code": "rm_sursilv", 
+    "contributors": [
+      {
+        "full": "Sascha Brawer", 
+        "last": "Brawer", 
+        "first": "Sascha"
+      }, 
+      {
+        "full": "Martin Cantieni", 
+        "last": "Cantieni", 
+        "first": "Martin"
+      }
+    ], 
+    "lang_name": "Romansh-Sursilv"
+  }, 
+  {
     "lang_code": "ru", 
     "contributors": [
       {
