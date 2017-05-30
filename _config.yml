@@ -961,6 +961,20 @@ collections:
   rm-overview:
     output: true
 #
+# Naija
+#
+  pcm-pos:
+    output: true
+    permalink: /pcm/pos/:path.html
+  pcm-feat:
+    output: true
+    permalink: /pcm/feat/:path.html
+  pcm-dep:
+    output: true
+    permalink: /pcm/dep/:path.html
+  pcm-overview:
+    output: true
+#
 # Template
 #
   template-pos:
