@@ -1003,6 +1003,20 @@ collections:
   hy-overview:
     output: true
 #
+# Maltese
+#
+  mt-pos:
+    output: true
+    permalink: /mt/pos/:path.html
+  mt-feat:
+    output: true
+    permalink: /mt/feat/:path.html
+  mt-dep:
+    output: true
+    permalink: /mt/dep/:path.html
+  mt-overview:
+    output: true
+#
 # Template
 #
   template-pos:
