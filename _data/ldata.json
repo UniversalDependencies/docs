@@ -1166,6 +1166,17 @@
     "lang_name": "French-Sequoia"
   }, 
   {
+    "lang_code": "fr_spoken", 
+    "contributors": [
+      {
+        "full": "Kim Gerdes", 
+        "last": "Gerdes", 
+        "first": "Kim"
+      }
+    ], 
+    "lang_name": "French-Spoken"
+  }, 
+  {
     "lang_code": "gl", 
     "contributors": [
       {
@@ -2137,6 +2148,17 @@
     "lang_name": "Marathi"
   }, 
   {
+    "lang_code": "pcm", 
+    "contributors": [
+      {
+        "full": "Kim Gerdes", 
+        "last": "Gerdes", 
+        "first": "Kim"
+      }
+    ], 
+    "lang_name": "Naija"
+  }, 
+  {
     "lang_code": "sme", 
     "contributors": [
       {
@@ -2194,6 +2216,17 @@
       }
     ], 
     "lang_name": "Old_Church_Slavonic"
+  }, 
+  {
+    "lang_code": "fro", 
+    "contributors": [
+      {
+        "full": "Kim Gerdes", 
+        "last": "Gerdes", 
+        "first": "Kim"
+      }
+    ], 
+    "lang_name": "Old_French"
   }, 
   {
     "lang_code": "fa", 
