@@ -989,6 +989,20 @@ collections:
   fro-overview:
     output: true
 #
+# Armenian
+#
+  hy-pos:
+    output: true
+    permalink: /hy/pos/:path.html
+  hy-feat:
+    output: true
+    permalink: /hy/feat/:path.html
+  hy-dep:
+    output: true
+    permalink: /hy/dep/:path.html
+  hy-overview:
+    output: true
+#
 # Template
 #
   template-pos:
