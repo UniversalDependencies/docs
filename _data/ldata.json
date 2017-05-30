@@ -156,6 +156,17 @@
     "lang_name": "Arabic-PUD"
   }, 
   {
+    "lang_code": "hy", 
+    "contributors": [
+      {
+        "full": "Marat M. Yavrumyan", 
+        "last": "Yavrumyan", 
+        "first": "Marat M."
+      }
+    ], 
+    "lang_name": "Armenian"
+  }, 
+  {
     "lang_code": "eu", 
     "contributors": [
       {
@@ -2135,6 +2146,32 @@
       }
     ], 
     "lang_name": "Lithuanian-Alksnis"
+  }, 
+  {
+    "lang_code": "mt", 
+    "contributors": [
+      {
+        "full": "Daniel Zeman", 
+        "last": "Zeman", 
+        "first": "Daniel"
+      }, 
+      {
+        "full": "Martin Popel", 
+        "last": "Popel", 
+        "first": "Martin"
+      }, 
+      {
+        "full": "Mike Rosner", 
+        "last": "Rosner", 
+        "first": "Mike"
+      }, 
+      {
+        "full": "Vinit Ravishankar", 
+        "last": "Ravishankar", 
+        "first": "Vinit"
+      }
+    ], 
+    "lang_name": "Maltese"
   }, 
   {
     "lang_code": "mr", 
