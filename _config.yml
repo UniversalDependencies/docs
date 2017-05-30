@@ -975,6 +975,20 @@ collections:
   pcm-overview:
     output: true
 #
+# Old_French
+#
+  fro-pos:
+    output: true
+    permalink: /fro/pos/:path.html
+  fro-feat:
+    output: true
+    permalink: /fro/feat/:path.html
+  fro-dep:
+    output: true
+    permalink: /fro/dep/:path.html
+  fro-overview:
+    output: true
+#
 # Template
 #
   template-pos:
