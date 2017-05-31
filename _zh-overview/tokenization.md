@@ -15,11 +15,11 @@ udver: '2'
 
 In addition to following the same tokenization guidelines as UD Chinese-HK, the UD Chinese-CFL treebank also addresses word segmentation issues caused by learner mistakes as follows.
 
-Non-words are allowed only when there are spelling errors resulting from orthographic or phonetic confusion. An orthographic confusion must involve characters with similar appearance, e.g., between 了 and 子 in *花花公了.
+Non-words are allowed only when there are spelling errors resulting from orthographic or phonetic confusion. An orthographic confusion must involve characters with similar appearance, e.g., between 了 and 子 in \*花花公了.
 
-Phonetic confusion must involve characters with the same pronunciation but different tones, e.g., between 關 and 管 in the sentence *不關多貴我也買; or, characters with easily confusable pairs such as {j, zh} and {x, sh}.
+Phonetic confusion must involve characters with the same pronunciation but different tones, e.g., between 關 and 管 in the sentence \*不關多貴我也買; or, characters with easily confusable pairs such as {j, zh} and {x, sh}.
 
-In these cases, the lemma of the misspelt word is its corrected version. For example, the lemma of 花花公了 is 花花公子, and the lemma of 不關 is 不管.
+In these cases, the lemma of the misspelt word is its corrected version. For example, the lemma of \*花花公了 is 花花公子, and the lemma of 不關 is 不管.
 
 ## UD Chinese-HK 
 
