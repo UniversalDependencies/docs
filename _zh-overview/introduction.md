@@ -23,7 +23,7 @@ Links: <a href="https://github.com/UniversalDependencies/UD_Chinese/">Github rep
 
 ## UD Chinese-CFL
 
-More information on this treebank along with brief descriptions of its annotation guidelines are available at the link below.
+More information on this treebank along with brief descriptions of its annotation guidelines are available at the link below as well as in sub-sections within various webpages of the UD guidelines for Chinese.
 
 Links: <a href="https://github.com/UniversalDependencies/UD_Chinese-CFL/">Github repository</a>
 
