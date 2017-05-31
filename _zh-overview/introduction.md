@@ -7,9 +7,10 @@ udver: '2'
 
 # Introduction
 
-UD currently contains one released treebank, with another upcoming treebank:
+UD currently contains the following released and developing treebanks:
 
 - UD Chinese is wiki data annotated by Google
+- UD Chinese-CFL is a corpus of essays written by learners of Chinese as a foreign language (CFL)
 - UD Chinese-HK is the Mandarin Chinese part of a Mandarin-Cantonese parallel treebank, to be released in late 2017
 
 Below we give a brief description of each treebank. More information can be found in the respective github repositories.
@@ -19,6 +20,12 @@ Below we give a brief description of each treebank. More information can be foun
 Detailed documentation of this treebank including treatment of tokenization, morphology, and syntax is not currently available.
 
 Links: <a href="https://github.com/UniversalDependencies/UD_Chinese/">Github repository</a>
+
+## UD Chinese-CFL
+
+More information on this treebank along with brief descriptions of its annotation guidelines are available at the link below.
+
+Links: <a href="https://github.com/UniversalDependencies/UD_Chinese-CFL/">Github repository</a>
 
 ## UD Chinese-HK
 
