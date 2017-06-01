@@ -16,7 +16,7 @@ The `nsubj` relation is used between a nominal phrase and its determiner.
 1	we	_	PRON	_	_	2	nsubj	_	_
 2	see	_	VERB	_	_	0	root	_	_
 3	di	_	DET	_	_	4	det	_	_
-4	man	_	NOUN	_	_	2 obj	_	_
+4	man	_	NOUN	_	_	2	obj	_	_
 
 1	we	_	_	_	_	0	_	_	_
 2	saw	_	_	_	_	0	_	_	_
