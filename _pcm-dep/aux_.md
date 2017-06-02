@@ -29,3 +29,13 @@ The relation `aux` is used between between an axuiliary verb and the main verb o
 5	thing	_	_	_	_	0	_	_	_	
 
 ~~~
+
+The auxiliaries of Naija include :
+
+- come
+- dey
+- don
+- fit
+- for
+- go
+- make
