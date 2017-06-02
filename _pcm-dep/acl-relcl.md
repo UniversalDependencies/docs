@@ -24,7 +24,7 @@ The acl:relcl relation is used between a relative clause and its head.
 
 1	what	_	_	_	_	0	_	_	_
 2	we	_	_	_	_	0	_	_	_
-3 call	_	_	_	_	0	_	_	_
+3	call	_	_	_	_	0	_	_	_
 4	speed	_	_	_	_	0	_	_	_
 5	limiting	_	_	_	_	0	_	_	_
 6	device	_	_	_	_	0	_	_	_
