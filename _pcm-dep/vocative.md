@@ -2,7 +2,23 @@
 layout: relation
 title: 'vocative'
 shortdef: 'vocative'
+udver: '2'
 ---
 
-This document is a placeholder for the language-specific documentation
-for `vocative`.
+The `vocative` relation is used when someone is being addressed directly in a dialogue. The addressee’s name is a dependant of the governor of the sentence addressing them.
+
+~~~ conllu
+# visual-style 3 1 vocative	color:blue
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+1	babe	babe	NOUN	NOUN	_	3	vocative	_	_
+2	how	how	ADV	ADV	_	3	advmod	_	_
+3	far	far	ADV	ADV	_	0	root	_	_
+
+1	Babe	_	_	_	_	0	_	_	_
+2	how	_	_	_	_	0	_	_	_
+3	are	_	_	_	_	0	_	_	_
+4	you	_	_	_	_	0	_	_	_
+~~~
