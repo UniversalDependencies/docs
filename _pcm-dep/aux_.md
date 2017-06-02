@@ -26,6 +26,6 @@ The relation `aux` is used between between an axuiliary verb and the main verb o
 2	have	_	_	_	_	0	_	_	_
 3	discovered	_	_	_	_	0	_	_	_
 4	this	_	_	_	_	0	_	_	_	
-4	thing	_	_	_	_	0	_	_	_	
+5	thing	_	_	_	_	0	_	_	_	
 
 ~~~
