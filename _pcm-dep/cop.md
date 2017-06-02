@@ -8,7 +8,7 @@ udver: '2'
 The cop relation is used between a function word and the subject to a nonverbal predicate.
 
 ~~~ conllu
-# visual-style 2 1 cop	color:blue
+# visual-style 3 1 cop	color:blue
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 2	bgColor:blue
