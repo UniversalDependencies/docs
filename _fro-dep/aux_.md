@@ -25,7 +25,7 @@ for `aux`.
 ~~~
 
 ~~~ conllu
-# visual-style 11 4 aux:pass	color:blue
+# visual-style 11 4 aux\:pass	color:blue
 # visual-style 9	bgColor:blue
 # visual-style 9	fgColor:white
 # visual-style 11	bgColor:blue
