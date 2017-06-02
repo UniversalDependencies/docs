@@ -5,10 +5,10 @@ shortdef: 'nominal subject'
 udver: '2'
 ---
 
-The `nsubj` relation is used between a nominal phrase and its determiner.
+The `nsubj` relation is used between a clausal phrase and its subject.
 
 ~~~ conllu
-# visual-style 2 1 det	color:blue
+# visual-style 2 1 subj	color:blue
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 2	bgColor:blue
