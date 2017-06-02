@@ -14,7 +14,7 @@ for `amod`.
 # visual-style 1	fgColor:white
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
-1	Tenez	_	VERB	VERcjg	morph=VFin	0	root	_	_
+1	Tenez	_	VERB	VERcjg	_	0	root	_	_
 2	les	_	DET	DETdef	_	3	det	_	_
 3	clefs	_	NOUN	NOMcom	_	1	obj	_	_
 4	de	_	ADP	PRE	_	6	case	_	_
@@ -32,7 +32,7 @@ for `amod`.
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 1	Si	_	ADV	ADVgen	_	2	advmod	_	_
-2	remeindreient	_	VERB	VERcjg	morph=VFin	0	root	_	_
+2	remeindreient	_	VERB	VERcjg	_	0	root	_	_
 3	les	_	DET	DETdef	_	5	det	_	_
 4	merveilluses	_	ADJ	ADJqua	_	5	amod	_	_
 5	oz	_	NOUN	NOMcom	_	2	nsubj	_	_
