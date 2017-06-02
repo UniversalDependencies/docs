@@ -5,7 +5,7 @@ shortdef: 'open clausal complement'
 udver: '2'
 ---
 
-The `xcomp` relation is used for clausal complements of verbs which function like objects, but unlike [ccomp]() lack an explicit subject. The clause inherits its subject from  higher up in the tree.
+The `xcomp` relation is used for clausal complements of verbs which function like objects, but unlike [ccomp]() lack an explicit subject. The reference of the subject is determined by an argument external to the xcomp clause, which means that the clause inherits its subject from  higher up in the tree.
 
 
 ~~~ conllu
@@ -27,4 +27,6 @@ The `xcomp` relation is used for clausal complements of verbs which function lik
 5	this	_	_	_	_	0	_	_	_
 6	car	_	_	_	_	0	_	_	_
 ~~~
+
+### Secondary predicates
 
