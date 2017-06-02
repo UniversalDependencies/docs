@@ -2,6 +2,7 @@
 layout: relation
 title: 'cop'
 shortdef: 'copula'
+udver: '2'
 ---
 
 The cop relation is used between a function word and the subject to a nonverbal predicate.
