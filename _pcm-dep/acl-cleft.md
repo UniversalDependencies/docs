@@ -6,6 +6,7 @@ udver: '2'
 ---
 
 The acl:cleft relation is used between a cleft clause and its head.
+This link is not used if a clause or an adverb is clefted
 
 ~~~ conllu
 # visual-style 3 7 acl:cleft	color:blue
