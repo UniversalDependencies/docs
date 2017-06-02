@@ -1,7 +1,7 @@
 ---
 layout: relation
 title: 'compound:svc'
-shortdef: 'serial verbs compound'
+shortdef: 'serial verb compounds'
 udver: '2'
 ---
 The relation `compound:svc` is used for serial verb constructions. In this type of construction, several verbs are combined to describe the same action. The verbs in a serial verb construction share the same subject but not necessarily the same object.
