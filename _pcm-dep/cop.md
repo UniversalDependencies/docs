@@ -11,8 +11,8 @@ The cop relation is used between a function word and the subject to a nonverbal 
 # visual-style 3 1 cop	color:blue
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
 1	na	_	PART	_	_	3	cop	_	_
 2	big	_	ADJ	_	_	3	amod	_	_
 3	lie	_	NOUN	_	_	0	root	_	_
