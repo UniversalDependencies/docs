@@ -5,7 +5,7 @@ shortdef: 'nominal subject'
 udver: '2'
 ---
 
-The `nsubj` relation is used between a verb and its subject.
+The `nsubj` relation is used between a clause and its nominal subject.
 
 ~~~ conllu
 # visual-style 2 1 nsubj	color:blue
