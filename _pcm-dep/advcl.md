@@ -17,7 +17,7 @@ The `advcl` relation is used between an adverbial clause and the verb or other p
 2	di	_	DET	_	_	3	det	_	_
 3	danger	_	NOUN	_	_	0	root	_	_
 4	wen	_	SCONJ	_	_	5	mark	_	_
-5	dey	_	PART	_	_	3	acl	_	_
+5	dey	_	VERB	_	_	3	advcl	_	_
 6	alcohol	_	NOUN	_	_	5	obj	_	_
 7	be	_	PART	_	_	3	acl:cleft	_	_
 8	dat	_	PRON	_	_	7	nsubj	_	_
