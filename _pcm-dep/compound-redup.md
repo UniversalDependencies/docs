@@ -5,7 +5,7 @@ shortdef: 'reduplicated compound'
 udver: '2'
 ---
 
-The `compound:redup` relation is used for reduplicated compounds. In Naija reduplication is used to intensify the meaning of an adverb or an adjective.
+The `compound:redup` relation is used for reduplicated compounds. There is a reduplication when a token is followed by one or several occurences of the same token. In Naija reduplication is used to intensify the meaning of an adverb or an adjective.
 
 ~~~ conllu
 # visual-style 4 5 compound:redup	color:blue
