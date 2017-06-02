@@ -14,7 +14,6 @@ for `cop`.
 # visual-style 1	fgColor:white
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
-
 1	Pinabels	_	PROPN	NOMpro	_	3	nsubj	_	_
 2	est	_	VERB	VERcjg	_	3	cop	_	_
 3	forz	_	ADJ	ADJqua	_	0	root	_	_
