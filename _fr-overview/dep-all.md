@@ -3,6 +3,7 @@ layout: base
 title:  'Dependencies'
 generated: 'true'
 permalink: fr/dep/all.html
+udver: '2'
 ---
 
 # Dependencies
