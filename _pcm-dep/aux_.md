@@ -2,10 +2,10 @@
 layout: relation
 title: 'aux'
 shortdef: 'auxiliary'
+udver: '2'
 # The filename "aux" is not allowed on Windows, so we redirect instead
 # (see https://github.com/UniversalDependencies/docs/issues/20)
 redirect_from: "pcm/dep/aux.html"
-udver: '2'
 ---
 
 The relation `aux` is used between an auxiliary verb and the governor of a predicate (verb, adverb...). Auxiliaries are used to express TAME (Time, Aspect, Mood, Evidentiality). In Naija auxiliaries precede the predicate and there can be several of them attached to the same governor.
