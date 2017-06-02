@@ -9,10 +9,10 @@ The `vocative` relation is used when someone is being addressed directly in a di
 
 ~~~ conllu
 # visual-style 3 1 vocative	color:blue
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
 1	babe	babe	NOUN	NOUN	_	3	vocative	_	_
 2	how	how	ADV	ADV	_	3	advmod	_	_
 3	far	far	ADV	ADV	_	0	root	_	_
