@@ -17,8 +17,8 @@ The `xcomp` relation is used for clausal complements of verbs which function lik
 1	I	I	PRON	PRON	_	2	nsubj	_	_
 2	want	want	VERB	VERB	_	0	root	_	_
 3	drive	drive	VERB	VERB	_	2	xcomp	_	_
-4 dis this  DET DET _ 5 det _ _
-5 car car NOUN  NOUN  _ 3 obj _ _
+4	dis	this	DET	DET	_	5	det	_	_
+5	car	car	NOUN	NOUN	_	3	obj	_	_
 
 1	I	_	_	_	_	0	_	_	_
 2	want	_	_	_	_	0	_	_	_
