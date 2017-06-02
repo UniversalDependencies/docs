@@ -7,6 +7,7 @@ udver: '2'
 
 This document is a placeholder for the language-specific documentation
 for `cop`.
+
 ~~~ conllu
 # visual-style 2 1 det	color:blue
 # visual-style 1	bgColor:blue
