@@ -8,7 +8,7 @@ udver: '2'
 The `csubj` relation is used when the subject of a clause is a clause in itself. The governor need not be a verb, it can also be an adjective.
 
 ~~~ conllu
-# visual-style 6 3 det	color:blue
+# visual-style 6 3 csubj	color:blue
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 6	bgColor:blue
