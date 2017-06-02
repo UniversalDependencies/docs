@@ -24,8 +24,3 @@ The cop relation is used between a function word and the subject to a nonverbal 
 5	lie	_	_	_	_	0	_	_	_
 
 ~~~
-
-The copulas of Naija include :
-
-- be (dey)
-- na
