@@ -26,6 +26,8 @@ The relation `compound:svc` is used for serial verb constructions. In this type 
 6	work	_	_	_	_	0	_	_	_
 ~~~
 
+### Comparatives
+
 In Naija serial verbs constructions are also used for comparatives. In these constructions the adjective which is being used to draw the comparison is followed by the verb _pass_.
 
 ~~~ conllu
