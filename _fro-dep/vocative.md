@@ -15,7 +15,7 @@ for `vocative`.
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 1	Seignurs	_	NOUN	NOMcom	_	12	vocative	_	_
-2	barons	_	NOUN	NOMcom	_	1	nmod	_	_
+2	barons	_	NOUN	NOMcom	_	1	appos	_	_
 3	dist	_	VERB	VERcjg	_	12	parataxis	_	_
 4	li	_	DET	DETdef	_	5	det	_	_
 5	emperere	_	NOUN	NOMcom	_	3	nsubj	_	_
