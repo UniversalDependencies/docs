@@ -13,7 +13,6 @@ The acl:relcl relation is used between a relative clause and its head.
 # visual-style 1	fgColor:white
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
-
 1	wetin	_	PRON	_	_	0	root	_	_
 2	we	_	PRON	_	_	4	nsubj	_	_
 3	dey	_	AUX	_	_	4	aux	_	_
@@ -25,8 +24,7 @@ The acl:relcl relation is used between a relative clause and its head.
 1	what	_	_	_	_	0	_	_	_
 2	we	_	_	_	_	0	_	_	_
 3	call	_	_	_	_	0	_	_	_
-4	speed	 _	_	_	_	0	_	_	_
+4	speed	_	_	_	_	0	_	_	_	
 5	limiting	_	_	_	_	0	_	_	_
-6	device	_	_	_	_	0	_	_	_
-
+6	device	_	_	_	_	0	_	_	_	
 ~~~
