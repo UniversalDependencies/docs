@@ -24,8 +24,7 @@ The `xcomp` relation is used for clausal complements of verbs which function lik
 2	want	_	_	_	_	0	_	_	_
 3	to	_	_	_	_	0	_	_	_
 4	drive	_	_	_	_	0	_	_	_
-5 this	_	_	_	_	0	_	_	_
-6 car	_	_	_	_	0	_	_	_
+5	this	_	_	_	_	0	_	_	_
+6	car	_	_	_	_	0	_	_	_
 ~~~
-
 
