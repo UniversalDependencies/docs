@@ -9,11 +9,11 @@ This document is a placeholder for the language-specific documentation
 for `dislocated`.
 
 ~~~ conllu
-# visual-style 2 1 det	color:blue
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
+# visual-style 7 2 dislocated	color:blue
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
 1	Li	_	DET	DETdef	_	2	det	_	_
 2	quens	_	NOUN	NOMcom	_	7	dislocated	_	_
 3	Rollant	_	PROPN	NOMpro	_	2	appos	_	_
