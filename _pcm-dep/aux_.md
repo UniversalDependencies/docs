@@ -7,7 +7,7 @@ shortdef: 'auxiliary'
 redirect_from: "pcm/dep/aux.html"
 ---
 
-The relation `aux` is used between between an axuiliary verb and the main verb of a clause. Auxiliaries are used to express TAME (Time, Aspect, Mood, Evidentiality). In Naija auxiliaries precede the verb and there can be several of them attached to the same governor.
+The relation `aux` is used between between an auxiliary verb and the main verb of a clause. Auxiliaries are used to express TAME (Time, Aspect, Mood, Evidentiality). In Naija auxiliaries precede the verb and there can be several of them attached to the same governor.
 
 
 ~~~ conllu
