@@ -5,7 +5,7 @@ shortdef: 'direct speech'
 udver: '2'
 ---
 
-The relation `parataxis:obj` is used between a verb introducing direct speech and the head of the direct speech.
+The relation `parataxis:obj` is used between a verb introducing direct speech and the govenor of the direct speech.
 
 ~~~ conllu
 # visual-style 2 6 parataxis:obj	color:blue
