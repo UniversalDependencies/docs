@@ -6,7 +6,25 @@ udver: '2'
 ---
 The relation `compound:svc` is used for serial verb constructions. In this type of construction, several verbs are combined to describe the same action. The verbs in a serial verb construction share the same subject but not necessarily the same object.
 
+~~~ conllu
+# visual-style 2 4 compound:svc	color:blue
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+1	dem	them	PRON	PRON	_	2	nsubj	_
+2	enter	enter	VERB	VERB	_	0	root	_	_
+3	bus	bus	NOUN	NOUN	_	2	obj	_	_
+4	go	go	VERB	VERB	_	2	compound:svc	_	_
+5	work	work	NOUN	NOUN	_	4	obj	_	_
 
+1	They	_	_	_	_	0	_	_	_
+2	take	_	_	_	_	0	_	_	_
+3	the	_	_	_	_	0	_	_	_
+4	bus	_	_	_	_	0	_	_	_
+5	to	_	_	_	_	0	_	_	_
+6	work	_	_	_	_	0	_	_	_
+~~~
 
 In Naija serial verbs constructions are also used for comparatives.
 
