@@ -14,7 +14,6 @@ for `nsubj`.
 # visual-style 1	fgColor:white
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
-
 1	Messe	_	NOUN	NOMcom	_	7	obj	_	_
 2	e	_	CCONJ	CONcoo	_	3	cc	_	_
 3	matines	_	NOUN	NOMcom	_	1	conj	_	_
