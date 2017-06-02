@@ -8,11 +8,11 @@ udver: '2'
 The `advcl` relation is used between an adverbial clause and the verb or other predicate it modifies.
 
 ~~~ conllu
-# visual-style 2 1 advcl	color:blue
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
+# visual-style 3 5 advcl	color:blue
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
 1	na	_	PART	_	_	3	cop	_	_
 2	di	_	DET	_	_	3	det	_	_
 3	danger	_	NOUN	_	_	0	root	_	_
