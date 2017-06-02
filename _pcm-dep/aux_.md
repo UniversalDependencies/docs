@@ -7,7 +7,7 @@ shortdef: 'auxiliary'
 redirect_from: "pcm/dep/aux.html"
 ---
 
-The relation `aux` is used between an auxiliary verb and the main verb of a clause. Auxiliaries are used to express TAME (Time, Aspect, Mood, Evidentiality). In Naija auxiliaries precede the verb and there can be several of them attached to the same governor.
+The relation `aux` is used between an auxiliary verb and the governor of a predicate (verb, adverb...). Auxiliaries are used to express TAME (Time, Aspect, Mood, Evidentiality). In Naija auxiliaries precede the predicate and there can be several of them attached to the same governor.
 
 
 ~~~ conllu
@@ -53,6 +53,38 @@ The relation `aux` is used between an auxiliary verb and the main verb of a clau
 4	Ogere	_	_	_	_	0	_	_	_	
 ~~~
 
+~~~ conllu
+# visual-style 4 3 aux	color:blue
+# visual-style 7 6 aux	color:blue
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+1	if	if	SCONJ	SCONJ	_	4	mark	_	_
+2	im	he	PRON	PRON	_	4	nsubj	_	_
+3	don	have	AUX	AUX	_	4	aux	_	_
+4	ready	ready	ADV	ADV	_	7	advcl	_	_
+5	you	you	PRON	PRON	_	7	nsubj	_	_
+6	fit	can	AUX	AUX	_	7	aux	_	_
+7	come	come	VERB	VERB	_	8	root	_	_
+8	meet	meet	VERB	VERB	_	8	xcomp	_	_
+9	am	he	PRON	PRON	_	8	obj	_	_
+
+1	If	_	_	_	_	0	_	_	_
+2	he	_	_	_	_	0	_	_	_
+3	is	_	_	_	_	0	_	_	_
+4	ready	_	_	_	_	0	_	_	_	
+5	you	_	_	_	_	0	_	_	_	
+6	can	_	_	_	_	0	_	_	_	
+7	come	_	_	_	_	0	_	_	_
+8	to	_	_	_	_	0	_	_	_
+9	see	_	_	_	_	0	_	_	_
+10	him	_	_	_	_	0	_	_	_	
+~~~
 
 The auxiliaries of Naija include :
 
