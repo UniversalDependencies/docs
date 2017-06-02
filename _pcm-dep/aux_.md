@@ -71,7 +71,7 @@ The relation `aux` is used between an auxiliary verb and the governor of a predi
 5	you	you	PRON	PRON	_	7	nsubj	_	_
 6	fit	can	AUX	AUX	_	7	aux	_	_
 7	come	come	VERB	VERB	_	8	root	_	_
-8	meet	meet	VERB	VERB	_	8	xcomp	_	_
+8	meet	meet	VERB	VERB	_	7	xcomp	_	_
 9	am	he	PRON	PRON	_	8	obj	_	_
 
 1	If	_	_	_	_	0	_	_	_
