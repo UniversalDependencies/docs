@@ -30,6 +30,30 @@ The relation `aux` is used between between an auxiliary verb and the main verb o
 
 ~~~
 
+
+~~~ conllu
+# visual-style 4 2 aux	color:blue
+# visual-style 4 3 aux	color:blue
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+1	im	he	PRON	PRON	_	4	nsubj	_	_
+2	go	will	AUX	AUX	_	4	aux	_	_
+3	come	come	AUX	VERB	_	4	aux	_	_
+4	reach	arrive	VERB	VERB	_	0	root	_	_
+5	Ogere	Ogere	PROPN	PROPN	_	4	obj	_	_
+6	now	now	ADV	ADV	_	4	advmod	_	_
+
+1	On	_	_	_	_	0	_	_	_
+2	getting	_	_	_	_	0	_	_	_
+3	to	_	_	_	_	0	_	_	_
+4	Ogere	_	_	_	_	0	_	_	_	
+~~~
+
+
 The auxiliaries of Naija include :
 
 - come
