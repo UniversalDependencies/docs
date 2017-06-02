@@ -25,6 +25,7 @@ for `nmod`.
 9	terre	_	NOUN	NOMcom	_	2	obl	_	_
 10	de	_	ADP	PRE	_	11	case	_	_
 11	Israel	_	PROPN	NOMpro	_	9	nmod	_	_
+
 ~~~
 
 ~~~ conllu
@@ -38,4 +39,5 @@ for `nmod`.
 3	entend	_	VERB	VERcjg	_	0	root	_	_
 4	l'	_	DET	DETdef	_	5	det	_	_
 5	estorie	_	NOUN	NOMcom	_	3	obj	_	_
+
 ~~~
