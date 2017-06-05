@@ -8,11 +8,11 @@ udver: '2'
 The `nmod` relation is used for nominal dependants of another noun or noun phrase.
 
 ~~~ conllu
-# visual-style 2 1 nmod	color:blue
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
+# visual-style 7 6 nmod	color:blue
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
 1	im	_	PRON	_	_	2	nmod:poss	_	_
 2	daughter	_	NOUN	_	_	3	nsubj	_	_
 3	fall	_	VERB	_	_	0	root	_	_
