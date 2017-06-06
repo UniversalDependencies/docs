@@ -9,11 +9,11 @@ The ccomp:cleft relation is used between a clefted clause or a clefted adverb an
 
 
 ~~~ conllu
-# visual-style 2 5 ccomp:cleft	color:blue
+# visual-style 2 6 ccomp:cleft	color:blue
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
 1	na	_	PART	_	_	2	mark	_	_
 2	so	_	ADV	_	_	0	root	_	_
 3	di	_	DET	_	_	4	det	_	_
