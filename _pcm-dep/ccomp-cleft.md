@@ -27,6 +27,19 @@ The clefted elements can be identified by the presence of the copulative particl
 10	go	_	AUX	_	_	11	aux	_	_
 11	die	_	VERB	_	_	6	obl	_	_
 
+
+1	be	_	_	_	_	0	_	_	_
+2	how 	_	_	_	_	0	_	_	_
+3	the	_	_	_	_	0	_	_	_
+4	bleeding	_	_	_	_	0	_	_	_	
+5	will	_	_	_	_	0	_	_	_
+6	continue	_	_	_	_	0	_	_	_
+7	till	_	_	_	_	0	_	_	_	
+8	the	_	_	_	_	0	_	_	_	
+9	person	_	_	_	_	0	_	_	_	
+10	will	_	_	_	_	0	_	_	_	
+11	die	_	_	_	_	0	_	_	_	
+
 1	That	_	_	_	_	0	_	_	_
 2	is	_	_	_	_	0	_	_	_
 3	how	_	_	_	_	0	_	_	_
@@ -34,7 +47,7 @@ The clefted elements can be identified by the presence of the copulative particl
 5	bleeding	_	_	_	_	0	_	_	_
 6	will	_	_	_	_	0	_	_	_
 7	continue	_	_	_	_	0	_	_	_	
-8	until	_	_	_	_	0	_	_	_	
+8	till	_	_	_	_	0	_	_	_	
 9	the	_	_	_	_	0	_	_	_	
 10	person	_	_	_	_	0	_	_	_	
 11	dies	_	_	_	_	0	_	_	_	
