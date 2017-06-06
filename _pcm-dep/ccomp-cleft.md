@@ -35,5 +35,6 @@ The ccomp:cleft relation is used between a clefted clause or a clefted adverb an
 8	until	_	_	_	_	0	_	_	_	
 9	the	_	_	_	_	0	_	_	_	
 10	person	_	_	_	_	0	_	_	_	
-11 dies	_	_	_	_	0	_	_	_	
+11	dies	_	_	_	_	0	_	_	_	
+
 ~~~
