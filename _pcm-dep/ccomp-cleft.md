@@ -32,7 +32,7 @@ The ccomp:cleft relation is used between a clefted clause or a clefted adverb an
 5	bleeding	_	_	_	_	0	_	_	_
 6	will	_	_	_	_	0	_	_	_
 7	continue	_	_	_	_	0	_	_	_	
-8	till	_	_	_	_	0	_	_	_	
+8	until	_	_	_	_	0	_	_	_	
 9	the	_	_	_	_	0	_	_	_	
 10	person	_	_	_	_	0	_	_	_	
 11 dies	_	_	_	_	0	_	_	_	
