@@ -34,6 +34,7 @@ The xcomp relation is also used in constructions that are known as _secondary pr
 In this type of construction there are two predicates mixed in one clause, and each of the predicates constitutes a core argument.
 
 The 2 predicates in the following example are:
+
 - something is given a name
 - this name is "hemorrage"
 
