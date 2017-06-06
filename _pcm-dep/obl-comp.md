@@ -1,7 +1,7 @@
 ---
 layout: relation
 title: 'obl:comp'
-shortdef: 'oblique complement'
+shortdef: 'core oblique complement'
 udver: '2'
 ---
 
