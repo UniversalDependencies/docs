@@ -32,5 +32,3 @@ The clefted elements can often be identified by the presence of the copulative p
 5	of	_	_	_	_	0	_	_	_
 6	alcohol	_	_	_	_	0	_	_	_	
 ~~~
-
-The particule "na" is often a marker of clefts.
