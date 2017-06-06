@@ -5,7 +5,7 @@ shortdef: 'cleft clause modifier'
 udver: '2'
 ---
 
-The acl:cleft relation is used between a cleft clause and its head.
+The acl:cleft relation is used between a cleft phrase and its head.
 This link is not used if a clause or an adverb is clefted
 
 ~~~ conllu
