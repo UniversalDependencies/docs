@@ -5,7 +5,7 @@ shortdef: 'dislocated elements'
 udver: '2'
 ---
 
-The dislocated relation is used between a dislocated clause or phrase and its head.
+The `dislocated` relation is used between a dislocated clause or phrase and its head. In Naija dislocations are used for topicalization. 
 
 ~~~ conllu
 # visual-style 5 2 dislocated	color:blue
