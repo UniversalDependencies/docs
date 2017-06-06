@@ -5,7 +5,9 @@ shortdef: 'ccomp:cleft'
 udver: '2'
 ---
 
-The ccomp:cleft relation is used between a clefted clause or a clefted adverb and its head.
+The ccomp:cleft relation is used between a clefted clause or adverb and its head. When the clefted element is nominal however, we use the [acl:cleft]() relation. In Naija clefts are used for focalization.
+
+The clefted elements can be identified by the presence of the copulative particle _na_ .
 
 ~~~ conllu
 # visual-style 2 6 ccomp:cleft	color:blue
@@ -13,7 +15,7 @@ The ccomp:cleft relation is used between a clefted clause or a clefted adverb an
 # visual-style 2	fgColor:white
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
-1	na	_	PART	_	_	2	mark	_	_
+1	na	_	PART	_	_	2	cop	_	_
 2	so	_	ADV	_	_	0	root	_	_
 3	di	_	DET	_	_	4	det	_	_
 4	bleed	_	NOUN	_	_	6	nsubj	_	_
