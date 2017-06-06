@@ -8,7 +8,7 @@ udver: '2'
 The dislocated relation is used between a dislocated clause or phrase and its head.
 
 ~~~ conllu
-# visual-style 2 5 dislocated	color:blue
+# visual-style 5 2 dislocated	color:blue
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 5	bgColor:blue
