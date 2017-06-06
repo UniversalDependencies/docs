@@ -5,7 +5,7 @@ shortdef: 'adverbial modifier'
 udver: '2'
 ---
 
-The `advmod` relation is used between an adverbial phrase and the predicate or word it modifies.
+The `advmod` relation is used between an adverbial phrase and the predicate or modifier word (adjective,adverb) it modifies.
 
 ~~~ conllu
 # visual-style 4 3 advmod	color:blue
