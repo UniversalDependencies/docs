@@ -33,6 +33,10 @@ The `xcomp` relation is used for clausal complements of verbs which function lik
 The xcomp relation is also used in constructions that are known as _secondary predicates_.
 In this type of construction there are two predicates mixed in one clause, and each of the predicates constitutes a core argument.
 
+The 2 predicates in the following example are:
+- something is given a name
+- this name is "hemorrage"
+
 ~~~ conllu
 # visual-style 6 7 xcomp	color:blue
 # visual-style 6	bgColor:blue
