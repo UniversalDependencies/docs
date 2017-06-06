@@ -25,6 +25,15 @@ The clefted elements can often be identified by the presence of the copulative p
 7	be	_	VERB	_	_	3	acl:cleft	_
 8	dat	_	PRON	_	_	7	nsubj	_
 
+1	be	_	_	_	_	0	_	_	_
+2	the	_	_	_	_	0	_	_	_
+3	danger	_	_	_	_	0	_	_	_
+4	when	_	_	_	_	0	_	_	_	
+5	exist	_	_	_	_	0	_	_	_
+6	alcohol	_	_	_	_	0	_	_	_	
+7	be	_	_	_	_	0	_	_	_
+8	that	_	_	_	_	0	_	_	_	
+
 1	Those	_	_	_	_	0	_	_	_
 2	are	_	_	_	_	0	_	_	_
 3	the	_	_	_	_	0	_	_	_
