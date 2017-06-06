@@ -1,12 +1,14 @@
 ---
 layout: relation
 title: 'acl:cleft'
-shortdef: 'cleft clause modifier'
+shortdef: 'clefted phrase modifier'
 udver: '2'
 ---
 
-The acl:cleft relation is used between a clefted phrase and its head.
-This link is not used if a clause or an adverb is clefted
+The acl:cleft relation is used between a clefted phrase and its head. When the clefted element is a clause or an adverb, we use the [ccomp:cleft]() relation instead.
+
+The clefted elements can often be identified by the presence of the copulative particle _na_ which is described in more details on the [PART]() page.
+
 
 ~~~ conllu
 # visual-style 3 7 acl:cleft	color:blue
