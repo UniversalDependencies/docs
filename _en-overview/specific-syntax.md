@@ -951,7 +951,7 @@ When the subject is not an argument of the higher clause, then the lower clause 
 root(-ROOT-, helpful)
 csubj(helpful, solve)
 nsubj(solve, John)
-mark(solve, for)
+mark(solve, For)
 ~~~
 
 When the subject _is_ an argument of the higher clause, the lower verb phrase (in its gerund form) or its object (in its nominative form) can be fronted, displacing the expletive and maintaining its `csubj` label. In the latter case, the clause is no longer a `csubj`, being instead analyzed as an `xcomp`.
