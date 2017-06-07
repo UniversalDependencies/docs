@@ -8,7 +8,7 @@ udver: '2'
 The `case` relation is used for case-marking elements. These elements are treated as dependents of the noun or clause they attach to or introduce.
 
 ~~~ conllu
-# visual-style 12 11 advmod:emph	color:blue
+# visual-style 12 11 case	color:blue
 # visual-style 12	bgColor:blue
 # visual-style 12	fgColor:white
 # visual-style 11	bgColor:blue
