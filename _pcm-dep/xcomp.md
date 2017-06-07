@@ -20,12 +20,20 @@ The `xcomp` relation is used for clausal complements of verbs which function lik
 4	dis	this	DET	DET	_	5	det	_	_
 5	car	car	NOUN	NOUN	_	3	obj	_	_
 
+
+1	I	_	_	_	_	0	_	_	_
+2	want	_	_	_	_	0	_	_	_
+3	drive	_	_	_	_	0	_	_	_
+4	this	_	_	_	_	0	_	_	_
+5	car	_	_	_	_	0	_	_	_
+
 1	I	_	_	_	_	0	_	_	_
 2	want	_	_	_	_	0	_	_	_
 3	to	_	_	_	_	0	_	_	_
 4	drive	_	_	_	_	0	_	_	_
 5	this	_	_	_	_	0	_	_	_
 6	car	_	_	_	_	0	_	_	_
+
 ~~~
 
 ### Secondary predicates
@@ -53,6 +61,14 @@ The 2 predicates in the following example are:
 7	hemorrage	hemorrage	NOUN	NOUN	_	6	xcomp	_	_
 
 
+1	that	_	_	_	_	0	_	_	_
+2	is	_	_	_	_	0	_	_	_
+3	what	_	_	_	_	0	_	_	_
+4	they	_	_	_	_	0	_	_	_
+5	dey	_	_	_	_	0	_	_	_
+6	call	_	_	_	_	0	_	_	_
+7	hemorrage	_	_	_	_	0	_	_	_
+
 1	This	_	_	_	_	0	_	_	_
 2	is	_	_	_	_	0	_	_	_
 3	what	_	_	_	_	0	_	_	_
@@ -60,4 +76,5 @@ The 2 predicates in the following example are:
 5	call	_	_	_	_	0	_	_	_
 6	a	_	_	_	_	0	_	_	_
 7	hemorrage	_	_	_	_	0	_	_	_
+
 ~~~
