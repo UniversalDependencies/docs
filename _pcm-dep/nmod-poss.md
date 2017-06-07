@@ -21,7 +21,7 @@ The `nmod:poss` relation is used between a nominal clause and its possessive det
 6	for	for	ADP	ADP	_	9	case	_	_
 7	our	our	PRON	PRON	_	9	nmod:poss	_	_
 8	national	national	ADJ	ADP	_	9	amod	_	_
-9	headquarters	deadquarters	NOUN	NOUN	_	3	obl	_	_
+9	headquarters	headquarter	NOUN	NOUN	_	3	obl	_	_
 
 
 1	we	_	_	_	_	0	_	_	_
