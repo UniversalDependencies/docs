@@ -23,10 +23,19 @@ The `compound:prt` relation is used for the particles of idiomatic phrasal verbs
 5	di	the	DET	DET	_	6	det	_	_
 6	rain	rain	NOUN	NOUN	_	3	obj	_	_
 
+
+1	JUS	_	_	_	_	0	_	_	_
+2	God	_	_	_	_	0	_	_	_
+3	send	_	_	_	_	0	_	_	_
+4	down	_	_	_	_	0	_	_	_
+5	the	_	_	_	_	0	_	_	_
+6	rain	_	_	_	_	0	_	_	_
+
 1	Let	_	_	_	_	0	_	_	_
 2	God	_	_	_	_	0	_	_	_
 3	send	_	_	_	_	0	_	_	_
 4	down	_	_	_	_	0	_	_	_
 5	the	_	_	_	_	0	_	_	_
 6	rain	_	_	_	_	0	_	_	_
+
 ~~~
