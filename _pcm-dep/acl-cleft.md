@@ -7,7 +7,7 @@ udver: '2'
 
 The acl:cleft relation is used between a clefted phrase and its head. When the clefted element is a clause or an adverb, we use the [ccomp:cleft]() relation instead.
 
-The clefted elements can often be identified by the presence of the copulative particle _na_ which is described in more details on the [PART]() page.
+The clefted elements can often be identified by the presence of the copulative particle _na_. On the other hand, the particle _naim_ is often used as a marker in the second part of the cleft. Both of these particles are described in more details on the [PART]() page.
 
 
 ~~~ conllu
