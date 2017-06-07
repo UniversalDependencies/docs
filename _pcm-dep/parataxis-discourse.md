@@ -5,7 +5,7 @@ shortdef: 'parataxis:discourse'
 udver: '2'
 ---
 
-The `parataxis:discourse` relation is used for associated illocutionary units which are clausal, such as tag questions. For other discourse elements such as interjections we use the standard relation [discourse]().
+The `parataxis:discourse` relation is used for associated illocutionary units which are clausal. For other discourse elements such as interjections we use the standard relation [discourse]().
 
 
 ~~~ conllu
