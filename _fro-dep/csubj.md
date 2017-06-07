@@ -9,11 +9,11 @@ This document is a placeholder for the language-specific documentation
 for `csubj`.
 
 ~~~ conllu
-# visual-style 7 4 csubj	color:blue
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
+# visual-style 10 7 csubj	color:blue
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
 1	Ki	_	PRON	PROrel	_	7	nsubj	_	_
 2	or	_	ADV	ADVgen	_	7	advmod	_	_
 3	ne	_	ADV	ADVneg	_	7	advmod	_	_
