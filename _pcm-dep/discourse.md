@@ -17,14 +17,14 @@ The`discourse` relation is used for interjections and other discourse particles 
 2	I	I	PRON	PRON	_	4	nsubj	_	_
 3	go	will	AUX	AUX	_	4	aux	_	_
 4	fit	can	AUX	AUX	_	4	aux	_	_
-4	go	go	VERB	VERB	_	0	root	_	_
+5	go	go	VERB	VERB	_	0	root	_	_
 
 
 1	mtschew	_	_	_	_	0	_	_	_
 2	I	_	_	_	_	0	_	_	_
 3	will	_	_	_	_	0	_	_	_
 4	can	_	_	_	_	0	_	_	_
-4	go	_	_	_	_	0	_	_	_
+5	go	_	_	_	_	0	_	_	_
 
 1	mtschew	_	_	_	_	0	_	_	_
 2	I	_	_	_	_	0	_	_	_
