@@ -5,5 +5,24 @@ shortdef: 'case marking'
 udver: '2'
 ---
 
-This document is a placeholder for the language-specific documentation
-for `case`.
+The `case` relation is used for case-marking elements. These elements are treated as dependents of the noun or clause they attach to or introduce.
+
+~~~ conllu
+# visual-style 12 11 advmod:emph	color:blue
+# visual-style 12	bgColor:blue
+# visual-style 12	fgColor:white
+# visual-style 11	bgColor:blue
+# visual-style 11	fgColor:white
+1	our	our	PRON	PRON	_	5	nmod:poss	_	_
+2	work	work	NOUN	NOUN	_	3	nsubj	_	_
+3	na	be	VERB	PART	_	0	root	_	_
+4	to	to	ADP	ADP	_	5	mark	_	_
+5	ensure	ensure	VERB	VERB	_	3	ccomp	_	_
+6	sey	that	SCONJ	SCONJ	_	10	mark	_	_
+7	accident	accident	NOUN	NOUN	_	10	nsubj	_	_
+8	no	not	PART	PART	_	10	advmod	_	_
+9	too	too	ADV	ADV	_	10	advmod	_	_
+10	happen	happen	VERB	VERB	_	5	ccomp	_	_
+11	for	for	ADP	ADP	_	12	case	_	_
+12	road	road	NOUN	NOUN	_	10	obl:ad	_	_
+~~~
