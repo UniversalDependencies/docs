@@ -23,11 +23,11 @@ The `advcl` relation is used between an adverbial clause and the verb or other p
 8	dat	that	PRON	PRON	_	7	nsubj	_	_
 
 
-1	na	_	_	_	_	0	_	_	_
+1	be	_	_	_	_	0	_	_	_
 2	the	_	_	_	_	0	_	_	_
 3	danger	_	_	_	_	0	_	_	_
-4	wen	_	_	_	_	0	_	_	_
-5	be	_	_	_	_	0	_	_	_
+4	when	_	_	_	_	0	_	_	_
+5	exists	_	_	_	_	0	_	_	_
 6	alcohol	_	_	_	_	0	_	_	_
 7	be	_	_	_	_	0	_	_	_
 8	that	_	_	_	_	0	_	_	_
@@ -38,5 +38,4 @@ The `advcl` relation is used between an adverbial clause and the verb or other p
 4	dangers	_	_	_	_	0	_	_	_
 5	of	_	_	_	_	0	_	_	_
 6	alcohol	_	_	_	_	0	_	_	_
-
 ~~~
