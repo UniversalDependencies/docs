@@ -7,7 +7,7 @@ udver: '2'
 
 The `compound` relation is one of three relations for multiword expressions (MWEs) (the other two being fixed and flat). It is used for :
 
-- noun compounds 
+- noun compounds:
 
 ~~~ conllu
 # visual-style 2 1 compound	color:blue
@@ -20,7 +20,7 @@ The `compound` relation is one of three relations for multiword expressions (MWE
 ~~~
 
 
-- particle verbs (with the subtype [compound:prt]() )
+- particle verbs (with the subtype [compound:prt]() ):
 
 ~~~ conllu
 # visual-style 1 2 compound:prt	color:blue
@@ -33,7 +33,7 @@ The `compound` relation is one of three relations for multiword expressions (MWE
 ~~~
 
 
-- reduplicated compounds (with the subtype [compound:redup]() )
+- reduplicated compounds (with the subtype [compound:redup]() ):
 
 ~~~ conllu
 # visual-style 2 3 compound:redup	color:blue
@@ -47,7 +47,7 @@ The `compound` relation is one of three relations for multiword expressions (MWE
 ~~~
 
 
-- serial verbs (with the subtype [compound:svc]() )
+- serial verbs (with the subtype [compound:svc]() ):
 
 ~~~ conllu
 # visual-style 2 4 compound:svc	color:blue
