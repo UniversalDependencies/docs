@@ -18,6 +18,12 @@ The relation `compound:svc` is used for serial verb constructions. In this type 
 4	go	go	VERB	VERB	_	2	compound:svc	_	_
 5	work	work	NOUN	NOUN	_	4	obj	_	_
 
+1	they	_	_	_	_	0	_	_	_
+2	enter	_	_	_	_	0	_	_	_
+3	bus	_	_	_	_	0	_	_	_
+4	go	_	_	_	_	0	_	_	_
+5	work	_	_	_	_	0	_	_	_
+
 1	They	_	_	_	_	0	_	_	_
 2	take	_	_	_	_	0	_	_	_
 3	the	_	_	_	_	0	_	_	_
@@ -44,6 +50,15 @@ In Naija serial verbs constructions are also used for comparatives. In these con
 6	fall	fall	VERB	VERB	_	2	advcl	_	_
 7	like	like	ADP	ADP	_	8	case	_	_
 8	dis	this	DET	DET	_	6	obl	_	_
+
+1	farmers	_	_	_	_	0	_	_	_
+2	happy	_	_	_	_	0	_	_	_
+3	COMP	_	_	_	_	0	_	_	_
+4	when	_	_	_	_	0	_	_	_
+5	rain	_	_	_	_	0	_	_	_
+6	fall	_	_	_	_	0	_	_	_
+7	like	_	_	_	_	0	_	_	_
+8	this	_	_	_	_	0	_	_	_
 
 1	Farmers	_	_	_	_	0	_	_	_
 2	become	_	_	_	_	0	_	_	_
