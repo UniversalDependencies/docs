@@ -13,7 +13,6 @@ The `conj:dicto` relation is used instead of `reparandum` for disfluent elements
 # visual-style 8	fgColor:white
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
-
 1	you	you	PRON	PRON	_	3	nsubj	_	_
 2	don	PERF	AUX	AUX	_	3	aux	_	_
 3	lose	lose	VERB	VERB	_	0	root	_	_
