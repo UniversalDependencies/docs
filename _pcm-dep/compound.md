@@ -22,6 +22,17 @@ The `compound` relation is one of three relations for multiword expressions (MWE
 
 - particle verbs (with the subtype [compound:prt]() )
 
+~~~ conllu
+# visual-style 1 2 compound:prt	color:blue
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+1	send	send	VERB	VERB	_	0	root	_	_
+2	down	down	ADP	ADP	_	1	compound:prt	_	_
+~~~
+
+
 - reduplicated compounds (with the subtype [compound:redup]() )
 
 - serial verbs (with the subtype [compound:svc]() )
