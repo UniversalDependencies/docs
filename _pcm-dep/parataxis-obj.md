@@ -22,6 +22,16 @@ The relation `parataxis:obj` is used between a verb introducing direct speech an
 7	dis	this	DET	DET	_	8	det	_	_
 8	animal	animal	NOUN	NOUN	_	6	obj	_	_
 
+
+1	They	_	_	_	_	0	_	_	_
+2	say	_	_	_	_	0	_	_	_
+3	ah	_	_	_	_	0	_	_	_
+4	ah	_	_	_	_	0	_	_	_
+5	who	_	_	_	_	0	_	_	_
+6	kill	_	_	_	_	0	_	_	_
+7	this	_	_	_	_	0	_	_	_
+8	animal	_	_	_	_	0	_	_	_
+
 1	They	_	_	_	_	0	_	_	_
 2	say	_	_	_	_	0	_	_	_
 3	"ah"	_	_	_	_	0	_	_	_
@@ -30,6 +40,7 @@ The relation `parataxis:obj` is used between a verb introducing direct speech an
 6	killed	_	_	_	_	0	_	_	_
 7	this	_	_	_	_	0	_	_	_
 8	animal	_	_	_	_	0	_	_	_
+
 ~~~
 
 
