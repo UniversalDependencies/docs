@@ -5,7 +5,7 @@ shortdef: 'discourse element'
 udver: '2'
 ---
 
-The`discourse` relation is used for interjections and other discourse particles elements.
+The`discourse` relation is used for interjections and other discourse particles elements which are not clausal. For clausal discourse markers we use the relation [parataxis:discourse]()
 
 ~~~ conllu
 # visual-style 5 1 discourse	color:blue
@@ -30,5 +30,4 @@ The`discourse` relation is used for interjections and other discourse particles 
 2	I	_	_	_	_	0	_	_	_
 3	can	_	_	_	_	0	_	_	_
 4	pass	_	_	_	_	0	_	_	_
-
 ~~~
