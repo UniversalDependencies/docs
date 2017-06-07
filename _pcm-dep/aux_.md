@@ -49,10 +49,17 @@ The relation `aux` is used between an auxiliary verb and the governor of a predi
 # visual-style 3	fgColor:white
 1	im	he	PRON	PRON	_	4	nsubj	_	_
 2	go	will	AUX	AUX	_	4	aux	_	_
-3	come	come	AUX	VERB	_	4	aux	_	_
+3	come	come	AUX	AUX	_	4	aux	_	_
 4	reach	arrive	VERB	VERB	_	0	root	_	_
 5	Ogere	Ogere	PROPN	PROPN	_	4	obj	_	_
 6	now	now	ADV	ADV	_	4	advmod	_	_
+
+1	him	_	_	_	_	0	_	_	_
+2	will	_	_	_	_	0	_	_	_
+3	REAL	_	_	_	_	0	_	_	_
+4	arrive	_	_	_	_	0	_	_	_
+5	Ogere	_	_	_	_	0	_	_	_
+6	now	_	_	_	_	0	_	_	_	
 
 1	On	_	_	_	_	0	_	_	_
 2	getting	_	_	_	_	0	_	_	_
