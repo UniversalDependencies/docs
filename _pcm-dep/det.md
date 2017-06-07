@@ -18,6 +18,11 @@ The `det` relation is used between a nominal phrase and its determiner.
 3	no	_	PART	_	_	4	advmod	_	_
 4	good	_	ADJ	_	_	0	root	_	_
 
+1	this	_	_	_	_	0	_	_	_
+2	thing	_	_	_	_	0	_	_	_
+3	not	_	_	_	_	0	_	_	_
+4	good	_	_	_	_	0	_	_	_
+
 1	This	_	_	_	_	0	_	_	_
 2	thing	_	_	_	_	0	_	_	_
 3	is	_	_	_	_	0	_	_	_
