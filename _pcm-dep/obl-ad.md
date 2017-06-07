@@ -22,6 +22,16 @@ The `obl:ad` relation is used for nominal elements which are not core arguments.
 7	like	like	ADP	ADP	_	8	case	_	_
 8	dis	this	DET	DET	_	6	obl:ad	_	_
 
+
+1	farmer	_	_	_	_	0	_	_	_
+2	happy	_	_	_	_	0	_	_	_
+3	pass	_	_	_	_	0	_	_	_
+4	when	_	_	_	_	0	_	_	_
+5	rain	_	_	_	_	0	_	_	_
+6	fall	_	_	_	_	0	_	_	_
+7	like	_	_	_	_	0	_	_	_
+8	this	_	_	_	_	0	_	_	_
+
 1	Farmers	_	_	_	_	0	_	_	_
 2	become	_	_	_	_	0	_	_	_
 3	happier	_	_	_	_	0	_	_	_
@@ -30,6 +40,7 @@ The `obl:ad` relation is used for nominal elements which are not core arguments.
 6	falls	_	_	_	_	0	_	_	_
 7	like	_	_	_	_	0	_	_	_
 8	this	_	_	_	_	0	_	_	_
+
 ~~~
 
 On the other hand, when the nominal element is an argument we use either [obj]() if it's a direct object, or [obl:comp]() when the argument is introduced by a preposition.
