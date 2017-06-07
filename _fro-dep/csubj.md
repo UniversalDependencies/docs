@@ -2,13 +2,14 @@
 layout: relation
 title: 'csubj'
 shortdef: 'clausal subject'
+udver: '2'
 ---
 
 This document is a placeholder for the language-specific documentation
 for `csubj`.
 
 ~~~ conllu
-# visual-style 7 4 nsubj	color:blue
+# visual-style 7 4 csubj	color:blue
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 7	bgColor:blue
