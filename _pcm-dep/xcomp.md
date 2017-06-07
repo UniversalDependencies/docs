@@ -62,10 +62,10 @@ The 2 predicates in the following example are:
 
 
 1	that	_	_	_	_	0	_	_	_
-2	is	_	_	_	_	0	_	_	_
+2	be	_	_	_	_	0	_	_	_
 3	what	_	_	_	_	0	_	_	_
 4	they	_	_	_	_	0	_	_	_
-5	dey	_	_	_	_	0	_	_	_
+5	CONT	_	_	_	_	0	_	_	_
 6	call	_	_	_	_	0	_	_	_
 7	hemorrage	_	_	_	_	0	_	_	_
 
