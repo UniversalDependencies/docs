@@ -24,4 +24,29 @@ The `parataxis:conj` relation is used between juxtaposed clauses. The clauses ar
 9	scatter	scatter	VERB	VERB	_	3	parataxis:conj	_	_
 10	your	your	PRON	PRON	_	11	nmod:poss	_	_
 11	mind	mind	NOUN	NOUN	_	9	obj	_	_
+
+1	it	_	_	_	_	0	_	_	_
+2	can	_	_	_	_	0	_	_	_
+3	make	_	_	_	_	0	_	_	_
+4	you	_	_	_	_	0	_	_	_
+5	loose	_	_	_	_	0	_	_	_
+6	control	_	_	_	_	0	_	_	_
+7	it	_	_	_	_	0	_	_	_
+8	can	_	_	_	_	0	_	_	_
+9	scatter	_	_	_	_	0	_	_	_
+10	your	_	_	_	_	0	_	_	_
+11	mind	_	_	_	_	0	_	_	_
+
+1	It	_	_	_	_	0	_	_	_
+2	may	_	_	_	_	0	_	_	_
+3	make	_	_	_	_	0	_	_	_
+4	you	_	_	_	_	0	_	_	_
+5	loose	_	_	_	_	0	_	_	_
+6	control	_	_	_	_	0	_	_	_
+7	.	_	_	_	_	0	_	_	_
+8	It	_	_	_	_	0	_	_	_
+9	can	_	_	_	_	0	_	_	_
+10	scatter	_	_	_	_	0	_	_	_
+11	your	_	_	_	_	0	_	_	_
+12	mind	_	_	_	_	0	_	_	_
 ~~~
