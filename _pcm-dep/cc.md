@@ -5,7 +5,7 @@ shortdef: 'coordinating conjunction'
 udver: '2'
 ---
 
-The `cc` relation is used for coordinating conjunctions, i.e conjunctions which link together conjunct elements. The governor of the conjunction if the first conjunct in the paradigm. The relations used between conjuncts are described in more details on the [conj:coord]() and [conj:dicto]() pages.
+The `cc` relation is used for coordinating conjunctions, i.e conjunctions which link together conjunct elements. The governor of the conjunction if the first conjunct in the paradigm. The relations used between conjuncts are described in more details on the [conj:coord](), [conj:dicto]() and [conj:appos]() pages.
 
 ~~~ conllu
 # visual-style 7 8 cc	color:blue
