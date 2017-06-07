@@ -13,7 +13,6 @@ The `advmod:emph` relation is used for a special class of adverbial modifiers. T
 # visual-style 8	fgColor:white
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
-
 1	sotay	sotay	SCONJ	SCONJ	_	5	mark	_	_
 2	ground	ground	NOUN	NOUN	_	5	nsubj	_	_
 3	sef	self	PART	PART	_	5	advmod:emph	_	_
