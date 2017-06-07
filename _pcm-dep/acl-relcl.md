@@ -5,7 +5,7 @@ shortdef: 'relative clause modifier'
 udver: '2'
 ---
 
-The acl:relcl relation is used between a relative clause and its head.
+The `acl:relcl` relation is used for relative clauses modifying nominal elements.
 
 ~~~ conllu
 # visual-style 1 4 acl:relcl	color:blue
@@ -23,7 +23,7 @@ The acl:relcl relation is used between a relative clause and its head.
 
 1	what	_	_	_	_	0	_	_	_
 2	we	_	_	_	_	0	_	_	_
-3	be	_	_	_	_	0	_	_	_
+3	CONT	_	_	_	_	0	_	_	_
 4	call	_	_	_	_	0	_	_	_	
 5	speed	_	_	_	_	0	_	_	_
 6	limiting	_	_	_	_	0	_	_	_
