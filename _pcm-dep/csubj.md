@@ -28,7 +28,6 @@ The `csubj` relation is used when the subject of a clause is a clause in itself.
 5	not	_	_	_	_	0	_	_	_
 6	good	_	_	_	_	0	_	_	_
 
-
 1	That	_	_	_	_	0	_	_	_
 2	is	_	_	_	_	0	_	_	_
 3	why	_	_	_	_	0	_	_	_
