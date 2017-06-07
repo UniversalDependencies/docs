@@ -25,7 +25,7 @@ The `obl:ad` relation is used for nominal elements which are not core arguments.
 
 1	farmer	_	_	_	_	0	_	_	_
 2	happy	_	_	_	_	0	_	_	_
-3	pass	_	_	_	_	0	_	_	_
+3	COMP	_	_	_	_	0	_	_	_
 4	when	_	_	_	_	0	_	_	_
 5	rain	_	_	_	_	0	_	_	_
 6	fall	_	_	_	_	0	_	_	_
@@ -43,4 +43,4 @@ The `obl:ad` relation is used for nominal elements which are not core arguments.
 
 ~~~
 
-On the other hand, when the nominal element is an argument we use either [obj]() if it's a direct object, or [obl:comp]() when the argument is introduced by a preposition.
+On the other hand, when the nominal element is an argument we use [obj]() if it's a direct object, or [obl:comp]() if the argument is introduced by a preposition.
