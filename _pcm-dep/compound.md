@@ -35,4 +35,16 @@ The `compound` relation is one of three relations for multiword expressions (MWE
 
 - reduplicated compounds (with the subtype [compound:redup]() )
 
+~~~ conllu
+# visual-style 2 3 compound:redup	color:blue
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+1	work	work	VERB	VERB	_	0	root	_	_
+2	well	well	ADV	ADV	_	1	advmod	_	_
+3	well	well	ADV	ADV	_	2	compound:redup	_	_
+~~~
+
+
 - serial verbs (with the subtype [compound:svc]() )
