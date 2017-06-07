@@ -29,8 +29,8 @@ The `advcl` relation is used between an adverbial clause and the verb or other p
 4	wen	_	_	_	_	0	_	_	_
 5	be	_	_	_	_	0	_	_	_
 6	alcohol	_	_	_	_	0	_	_	_
-6	be	_	_	_	_	0	_	_	_
-6	that	_	_	_	_	0	_	_	_
+7	be	_	_	_	_	0	_	_	_
+8	that	_	_	_	_	0	_	_	_
 
 1	those	_	_	_	_	0	_	_	_
 2	are	_	_	_	_	0	_	_	_
