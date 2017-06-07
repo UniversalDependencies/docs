@@ -88,6 +88,16 @@ The relation `aux` is used between an auxiliary verb and the governor of a predi
 8	meet	meet	VERB	VERB	_	7	xcomp	_	_
 9	am	he	PRON	PRON	_	8	obj	_	_
 
+1	if	_	_	_	_	0	_	_	_
+2	him	_	_	_	_	0	_	_	_
+3	PERF	_	_	_	_	0	_	_	_
+4	ready	_	_	_	_	0	_	_	_	
+5	you	_	_	_	_	0	_	_	_	
+6	can	_	_	_	_	0	_	_	_	
+7	come	_	_	_	_	0	_	_	_
+8	meet	_	_	_	_	0	_	_	_
+9	him	_	_	_	_	0	_	_	_
+
 1	If	_	_	_	_	0	_	_	_
 2	he	_	_	_	_	0	_	_	_
 3	is	_	_	_	_	0	_	_	_
