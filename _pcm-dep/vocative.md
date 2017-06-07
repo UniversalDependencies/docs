@@ -17,6 +17,11 @@ The `vocative` relation is used when someone is being addressed directly in a di
 2	how	how	ADV	ADV	_	3	advmod	_	_
 3	far	far	ADV	ADV	_	0	root	_	_
 
+
+1	Babe	_	_	_	_	0	_	_	_
+2	how	_	_	_	_	0	_	_	_
+3	far	_	_	_	_	0	_	_	_
+
 1	Babe	_	_	_	_	0	_	_	_
 2	how	_	_	_	_	0	_	_	_
 3	are	_	_	_	_	0	_	_	_
