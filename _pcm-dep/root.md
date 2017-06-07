@@ -5,5 +5,4 @@ shortdef: 'root'
 udver: '2'
 ---
 
-This document is a placeholder for the language-specific documentation
-for `root`.
+The `root` relation is used between the fake node ROOT (which is not represented explicitly in the CoNLL-U) at index 0, and the root of the sentence which is being analyzed. There should only be one node with the root dependency relation in every tree.
