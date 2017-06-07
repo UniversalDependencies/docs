@@ -21,7 +21,7 @@ The `obl:comp` relation is used for arguments which are introduced by a preposit
 6	accident	accident	NOUN	NOUN	_	4	obl:comp	_	_
 
 1	speed	_	_	_	_	0	_	_	_
-2	he	_	_	_	_	0	_	_	_
+2	it	_	_	_	_	0	_	_	_
 3	be	_	_	_	_	0	_	_	_
 4	lead	_	_	_	_	0	_	_	_
 5	to	_	_	_	_	0	_	_	_
