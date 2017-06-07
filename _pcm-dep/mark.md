@@ -44,6 +44,6 @@ The `mark` link is used between a marker and its head. A marker is the word intr
 8	given	_	_	_	_	0	_	_	_
 9	brith	_	_	_	_	0	_	_	_
 10	to	_	_	_	_	0	_	_	_
-11 another	_	_	_	_	0	_	_	_
+11	another	_	_	_	_	0	_	_	_
 
 ~~~
