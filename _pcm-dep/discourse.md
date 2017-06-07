@@ -8,15 +8,15 @@ udver: '2'
 The`discourse` relation is used for interjections and other discourse particles elements.
 
 ~~~ conllu
-# visual-style 2 1 discourse	color:blue
+# visual-style 5 1 discourse	color:blue
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-1	mtschew	mtschew	INTJ	INTJ	_	4	discourse	_	_
-2	I	I	PRON	PRON	_	4	nsubj	_	_
-3	go	will	AUX	AUX	_	4	aux	_	_
-4	fit	can	AUX	AUX	_	4	aux	_	_
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+1	mtschew	mtschew	INTJ	INTJ	_	5	discourse	_	_
+2	I	I	PRON	PRON	_	5	nsubj	_	_
+3	go	will	AUX	AUX	_	5	aux	_	_
+4	fit	can	AUX	AUX	_	5	aux	_	_
 5	go	go	VERB	VERB	_	0	root	_	_
 
 
