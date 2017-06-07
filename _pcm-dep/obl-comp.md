@@ -22,7 +22,7 @@ The `obl:comp` relation is used for arguments which are introduced by a preposit
 
 1	speed	_	_	_	_	0	_	_	_
 2	it	_	_	_	_	0	_	_	_
-3	be	_	_	_	_	0	_	_	_
+3	CONT	_	_	_	_	0	_	_	_
 4	lead	_	_	_	_	0	_	_	_
 5	to	_	_	_	_	0	_	_	_
 6	accident	_	_	_	_	0	_	_	_
