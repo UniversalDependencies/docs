@@ -19,10 +19,18 @@ The `compound:redup` relation is used for reduplicated compounds. There is a red
 4	well	well	ADV	ADV	_	3	advmod	_	_
 5	well	well	ADV	ADV	_	4	compound:redup	_	_
 
+
+1	This	_	_	_	_	0	_	_	_
+2	plan	_	_	_	_	0	_	_	_
+3	work	_	_	_	_	0	_	_	_
+4	well	_	_	_	_	0	_	_	_
+5	well	_	_	_	_	0	_	_	_
+
 1	This	_	_	_	_	0	_	_	_
 2	plan	_	_	_	_	0	_	_	_
 3	worked	_	_	_	_	0	_	_	_
 4	very	_	_	_	_	0	_	_	_
 5	well	_	_	_	_	0	_	_	_
+
 ~~~
 
