@@ -24,6 +24,12 @@ The relation `aux` is used between an auxiliary verb and the governor of a predi
 5	thing	thing	NOUN	NOUN	_	3	obj	_
 
 1	we	_	_	_	_	0	_	_	_
+2	PERF	_	_	_	_	0	_	_	_
+3	discover	_	_	_	_	0	_	_	_
+4	this	_	_	_	_	0	_	_	_	
+5	thing	_	_	_	_	0	_	_	_	
+
+1	we	_	_	_	_	0	_	_	_
 2	have	_	_	_	_	0	_	_	_
 3	discovered	_	_	_	_	0	_	_	_
 4	this	_	_	_	_	0	_	_	_	
