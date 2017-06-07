@@ -26,7 +26,6 @@ The `iobj` relation is used for dative objects of the verb when the verb has mor
 4	I	_	_	_	_	0	_	_	_
 5	question	_	_	_	_	0	_	_	_
 
-
 1	ask	_	_	_	_	0	_	_	_
 2	me	_	_	_	_	0	_	_	_
 3	questions	_	_	_	_	0	_	_	_
