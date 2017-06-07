@@ -8,14 +8,14 @@ udver: '2'
 The `advmod:emph` relation is used for a special class of adverbial modifiers. These modifiers emphasize or intensify their governor.
 
 ~~~ conllu
-# visual-style 5 8 conj:dicto	color:blue
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
+# visual-style 2 5 advmod:emph	color:blue
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 1	sotay	sotay	SCONJ	SCONJ	_	5	mark	_	_
 2	ground	ground	NOUN	NOUN	_	5	nsubj	_	_
-3	sef	self	PART	PART	_	5	advmod:emph	_	_
+3	sef	self	PART	PART	_	2	advmod:emph	_	_
 4	go	will	AUX	AUX	_	5	aux	_	_
 5	soft	soft	ADJ	ADJ	_	0	root	_	_
 6	proper	proper	ADV	ADV	_	5	advmod	_	_
