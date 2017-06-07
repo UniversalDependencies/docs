@@ -19,7 +19,7 @@ The `parataxis:discourse` relation is used for associated illocutionary units wh
 3	follow	follow	VERB	VERB	_	0	root	_	_
 4	am	he	PRON	PRON	_	3	obj	_	_
 5	at	at	ADP	ADP	_	6	case	_	_
-6	time	time	NOUN	NOUN	_	3	obl	_	_
+6	time	time	NOUN	NOUN	_	3	obl:ad	_	_
 7	God	God	PROPN	PROPN	_	8	nsubj	_	_
 8	forbid	forbid	VERB	VERB	_	3	parataxis:discourse	_	
 ~~~
