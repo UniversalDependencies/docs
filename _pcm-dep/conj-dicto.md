@@ -5,7 +5,7 @@ shortdef: 'conj:dicto'
 udver: '2'
 ---
 
-The `conj:dicto` relation is used instead of `reparandum` for disfluent elements. This choice is meant to emphasize the similarity between reformulations, elaborations and ordinary coordinations.
+The `conj:dicto` relation is used instead of the standard relation `reparandum` for disfluent elements and reformulations. This choice is meant to emphasize the similarity between reformulations, elaborations and ordinary coordinations.
 
 ~~~ conllu
 # visual-style 5 8 conj:dicto	color:blue
