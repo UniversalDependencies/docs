@@ -71,18 +71,4 @@ The `dislocated` relation is used between a dislocated clause or phrase and its 
 14	CONT	_	_	_	_	0	_	_	_	
 15	cause	_	_	_	_	0	_	_	_
 16	it	_	_	_	_	0	_	_	_
-
-1	fifty	_	_	_	_	0	_	_	_
-2	eight	_	_	_	_	0	_	_	_
-3	percent	_	_	_	_	0	_	_	_
-4	of	_	_	_	_	0	_	_	_	
-5	accidents	_	_	_	_	0	_	_	_
-6	happening	_	_	_	_	0	_	_	_
-7	on	_	_	_	_	0	_	_	_
-8	the	_	_	_	_	0	_	_	_	
-9	road	_	_	_	_	0	_	_	_
-10	are	_	_	_	_	0	_	_	_
-11	caused	_	_	_	_	0	_	_	_
-12	by	_	_	_	_	0	_	_	_
-13	overspeeding	_	_	_	_	0	_	_	_	
 ~~~
