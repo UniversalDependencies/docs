@@ -7,7 +7,7 @@ udver: '2'
 
 The `ccomp:cleft` relation is used between a clefted clause or adverb and its head. When the clefted element is nominal however, we use the [acl:cleft]() relation. In Naija clefts are used for focalization.
 
-The clefted elements can often be identified by the presence of the copulative particle _na_. On the other hand, the particle _naim_ is often used as a marker in the second part of the cleft. Both of these particles are described in more details on the [PART]() page.
+Clefted elements can often be identified by the presence of the copulative particle _na_ which is described in more details on the [PART]() page. On the other hand _naim_ , which is described on the [ADV]() page, is often used as a marker in the second part of the cleft. 
 
 ~~~ conllu
 # visual-style 2 6 ccomp:cleft	color:blue
