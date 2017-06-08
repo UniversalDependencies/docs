@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-06-07T11:51:32Z">2017-06-07T11:51:32 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-06-08T07:16:35Z">2017-06-08T07:16:35 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -174,25 +174,25 @@ python tools/validate.py --lang eu UD-dev-branches/UD_Basque/eu-ud-train.conllu
 <span class="doublewidespan" style="padding-left:3em">UD Belarusian</span>
 <span class="widespan">be</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-06-07T11:51:31Z">2017-06-07T11:51:31 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-06-08T07:16:34Z">2017-06-08T07:16:34 zulu</time></span>
 </div>
 <div>
 <pre>
-python tools/validate.py --lang be UD-dev-branches/UD_Belarusian/be-ud-dev.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang be /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Belarusian/be-ud-dev.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python tools/validate.py --lang be UD-dev-branches/UD_Belarusian/be-ud-test.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang be /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Belarusian/be-ud-test.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python tools/validate.py --lang be UD-dev-branches/UD_Belarusian/be-ud-train.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang be /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Belarusian/be-ud-train.conllu
 
 [Line                   4861]: Unknown UD DEPREL: nsubj:pass
 [Line                   4922]: Unknown UD DEPREL: nsubj:pass
@@ -261,7 +261,7 @@ python tools/validate.py --lang bxr UD-dev-branches/UD_Buryat/bxr-ud-test.conllu
 <span class="doublewidespan" style="padding-left:3em">UD Cantonese</span>
 <span class="widespan">yue</span>
 <span class="validationfail">EMPTY</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-05-31T14:08:50Z">2017-05-31T14:08:50 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-06-08T07:16:35Z">2017-06-08T07:16:35 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -329,7 +329,7 @@ python tools/validate.py --lang zh UD-dev-branches/UD_Chinese/zh-ud-train.conllu
 <span class="doublewidespan" style="padding-left:3em">UD Chinese-HK</span>
 <span class="widespan">zh hk</span>
 <span class="validationfail">EMPTY</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-05-31T14:03:33Z">2017-05-31T14:03:33 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-06-08T07:16:35Z">2017-06-08T07:16:35 zulu</time></span>
 </div>
 <div>
 <pre>
