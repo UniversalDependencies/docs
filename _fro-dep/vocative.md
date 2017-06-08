@@ -9,11 +9,11 @@ This document is a placeholder for the language-specific documentation
 for `vocative`.
 
 ~~~ conllu
-# visual-style 2 1 det	color:blue
+# visual-style 12 1 det	color:blue
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
+# visual-style 12	bgColor:blue
+# visual-style 12	fgColor:white
 1	Seignurs	_	NOUN	NOMcom	_	12	vocative	_	_
 2	barons	_	NOUN	NOMcom	_	1	appos	_	_
 3	dist	_	VERB	VERcjg	_	12	parataxis	_	_
