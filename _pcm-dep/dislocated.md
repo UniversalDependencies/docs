@@ -31,3 +31,27 @@ The `dislocated` relation is used between a dislocated clause or phrase and its 
 4	was	_	_	_	_	0	_	_	_	
 5	driving	_	_	_	_	0	_	_	_
 ~~~
+
+~~~ conllu
+# visual-style 12 3 dislocated	color:blue
+# visual-style 12	bgColor:blue
+# visual-style 12	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3 fgColor:white
+1	fifty	fifty	NUM	NUM	_	2	compound	_	_
+2	eight	eight	NUM	NUM	_	3	nummod	_	_
+3	percent	percent	NOUN	NOUN	_	12	dislocated	_	_
+4	of	of	ADP	ADP	_	5	case	_	_
+5	accident	accident	NOUN	NOUN	_	3	nmod	_	_
+6	wey	where	SCONJ	SCONJ	_	8	mark	_	_
+7	im	he	PRON	PRON	_	8	nsubj	_	_
+8	happen	happen	VERB	VERB	_	5	acl:relcl	_	_
+9	for	for	ADP	ADP	_	16	case	_	_
+10	road	road	NOUN	NOUN	_	8	obl:ad	_	_
+11	na	na	PART	PART	_	12	cop	_	_
+12	overspeeding	overspeeding	NOUN	NOUN	_	0	root	_	_
+13	naim	naim	ADV	SCONJ	_	15	mark	_	_
+14	dey	be	AUX	AUX	_	15	aux	_	_
+15	cause	cause	VERB	VERB	_	12	acl:cleft	_	_
+16	am	he	PRON	PRON	_	15	obj	_	_
+~~~
