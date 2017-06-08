@@ -50,8 +50,39 @@ The `dislocated` relation is used between a dislocated clause or phrase and its 
 10	road	road	NOUN	NOUN	_	8	obl:ad	_	_
 11	na	na	PART	PART	_	12	cop	_	_
 12	overspeeding	overspeeding	NOUN	NOUN	_	0	root	_	_
-13	naim	naim	ADV	SCONJ	_	15	mark	_	_
+13	naim	naim	ADV	ADV	_	15	mark	_	_
 14	dey	be	AUX	AUX	_	15	aux	_	_
 15	cause	cause	VERB	VERB	_	12	acl:cleft	_	_
 16	am	he	PRON	PRON	_	15	obj	_	_
+
+1	fifty	_	_	_	_	0	_	_	_
+2	eight	_	_	_	_	0	_	_	_
+3	percent	_	_	_	_	0	_	_	_
+4	of	_	_	_	_	0	_	_	_	
+5	accident	_	_	_	_	0	_	_	_
+6	that	_	_	_	_	0	_	_	_
+7	it	_	_	_	_	0	_	_	_
+8	happen	_	_	_	_	0	_	_	_
+9	on	_	_	_	_	0	_	_	_	
+10	road	_	_	_	_	0	_	_	_
+11	be	_	_	_	_	0	_	_	_
+12	overspeeding	_	_	_	_	0	_	_	_
+13	then	_	_	_	_	0	_	_	_
+14	CONT	_	_	_	_	0	_	_	_	
+15	cause	_	_	_	_	0	_	_	_
+16	it	_	_	_	_	0	_	_	_
+
+1	fifty	_	_	_	_	0	_	_	_
+2	eight	_	_	_	_	0	_	_	_
+3	percent	_	_	_	_	0	_	_	_
+4	of	_	_	_	_	0	_	_	_	
+5	accidents	_	_	_	_	0	_	_	_
+6	happening	_	_	_	_	0	_	_	_
+7	on	_	_	_	_	0	_	_	_
+8	the	_	_	_	_	0	_	_	_	
+9	road	_	_	_	_	0	_	_	_
+10	are	_	_	_	_	0	_	_	_
+11	caused	_	_	_	_	0	_	_	_
+12	by	_	_	_	_	0	_	_	_
+13	overspeeding	_	_	_	_	0	_	_	_	
 ~~~
