@@ -1159,7 +1159,7 @@ In the canonical case, _wh_-clauses function as interrogative clauses or as adve
 
 ~~~sdparse
 I need to know who you are planning to leave with .
-dobj(leave, who)
+nmod(leave, who)
 case(who, with)
 ccomp(know, leave)
 ~~~
