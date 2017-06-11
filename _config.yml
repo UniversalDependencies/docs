@@ -1017,6 +1017,20 @@ collections:
   mt-overview:
     output: true
 #
+# Afrikaans
+#
+  af-pos:
+    output: true
+    permalink: /af/pos/:path.html
+  af-feat:
+    output: true
+    permalink: /af/feat/:path.html
+  af-dep:
+    output: true
+    permalink: /af/dep/:path.html
+  af-overview:
+    output: true
+#
 # Template
 #
   template-pos:
