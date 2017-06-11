@@ -1,5 +1,16 @@
 [
   {
+    "lang_code": "af", 
+    "contributors": [
+      {
+        "full": "Peter Dirix", 
+        "last": "Dirix", 
+        "first": "Peter"
+      }
+    ], 
+    "lang_name": "Afrikaans"
+  }, 
+  {
     "lang_code": "am", 
     "contributors": [
       {
@@ -91,6 +102,16 @@
         "full": "Aljoscha Burchardt", 
         "last": "Burchardt", 
         "first": "Aljoscha"
+      }, 
+      {
+        "full": "Kim Harris", 
+        "last": "Harris", 
+        "first": "Kim"
+      }, 
+      {
+        "full": "Katrin Marheinecke", 
+        "last": "Marheinecke", 
+        "first": "Katrin"
       }, 
       {
         "full": "Slav Petrov", 
@@ -367,6 +388,16 @@
         "full": "Aljoscha Burchardt", 
         "last": "Burchardt", 
         "first": "Aljoscha"
+      }, 
+      {
+        "full": "Kim Harris", 
+        "last": "Harris", 
+        "first": "Kim"
+      }, 
+      {
+        "full": "Katrin Marheinecke", 
+        "last": "Marheinecke", 
+        "first": "Katrin"
       }, 
       {
         "full": "Slav Petrov", 
@@ -768,6 +799,16 @@
         "first": "Aljoscha"
       }, 
       {
+        "full": "Kim Harris", 
+        "last": "Harris", 
+        "first": "Kim"
+      }, 
+      {
+        "full": "Katrin Marheinecke", 
+        "last": "Marheinecke", 
+        "first": "Katrin"
+      }, 
+      {
         "full": "Slav Petrov", 
         "last": "Petrov", 
         "first": "Slav"
@@ -1072,6 +1113,16 @@
         "first": "Aljoscha"
       }, 
       {
+        "full": "Kim Harris", 
+        "last": "Harris", 
+        "first": "Kim"
+      }, 
+      {
+        "full": "Katrin Marheinecke", 
+        "last": "Marheinecke", 
+        "first": "Katrin"
+      }, 
+      {
         "full": "Slav Petrov", 
         "last": "Petrov", 
         "first": "Slav"
@@ -1259,6 +1310,21 @@
         "first": "Aljoscha"
       }, 
       {
+        "full": "Georg Rehm", 
+        "last": "Rehm", 
+        "first": "Georg"
+      }, 
+      {
+        "full": "Kim Harris", 
+        "last": "Harris", 
+        "first": "Kim"
+      }, 
+      {
+        "full": "Katrin Marheinecke", 
+        "last": "Marheinecke", 
+        "first": "Katrin"
+      }, 
+      {
         "full": "Slav Petrov", 
         "last": "Petrov", 
         "first": "Slav"
@@ -1394,6 +1460,16 @@
         "first": "Aljoscha"
       }, 
       {
+        "full": "Kim Harris", 
+        "last": "Harris", 
+        "first": "Kim"
+      }, 
+      {
+        "full": "Katrin Marheinecke", 
+        "last": "Marheinecke", 
+        "first": "Katrin"
+      }, 
+      {
         "full": "Slav Petrov", 
         "last": "Petrov", 
         "first": "Slav"
@@ -1522,6 +1598,16 @@
         "first": "Aljoscha"
       }, 
       {
+        "full": "Kim Harris", 
+        "last": "Harris", 
+        "first": "Kim"
+      }, 
+      {
+        "full": "Katrin Marheinecke", 
+        "last": "Marheinecke", 
+        "first": "Katrin"
+      }, 
+      {
         "full": "Slav Petrov", 
         "last": "Petrov", 
         "first": "Slav"
@@ -1638,6 +1724,16 @@
         "full": "Aljoscha Burchardt", 
         "last": "Burchardt", 
         "first": "Aljoscha"
+      }, 
+      {
+        "full": "Kim Harris", 
+        "last": "Harris", 
+        "first": "Kim"
+      }, 
+      {
+        "full": "Katrin Marheinecke", 
+        "last": "Marheinecke", 
+        "first": "Katrin"
       }, 
       {
         "full": "Slav Petrov", 
@@ -1839,6 +1935,16 @@
         "first": "Aljoscha"
       }, 
       {
+        "full": "Kim Harris", 
+        "last": "Harris", 
+        "first": "Kim"
+      }, 
+      {
+        "full": "Katrin Marheinecke", 
+        "last": "Marheinecke", 
+        "first": "Katrin"
+      }, 
+      {
         "full": "Slav Petrov", 
         "last": "Petrov", 
         "first": "Slav"
@@ -1967,6 +2073,16 @@
         "first": "Aljoscha"
       }, 
       {
+        "full": "Kim Harris", 
+        "last": "Harris", 
+        "first": "Kim"
+      }, 
+      {
+        "full": "Katrin Marheinecke", 
+        "last": "Marheinecke", 
+        "first": "Katrin"
+      }, 
+      {
         "full": "Slav Petrov", 
         "last": "Petrov", 
         "first": "Slav"
@@ -2042,6 +2158,11 @@
         "full": "Memduh G\u00f6k\u0131rmak", 
         "last": "G\u00f6k\u0131rmak", 
         "first": "Memduh"
+      }, 
+      {
+        "full": "Francis Tyers", 
+        "last": "Tyers", 
+        "first": "Francis"
       }
     ], 
     "lang_name": "Kurmanji"
@@ -2198,6 +2319,16 @@
   {
     "lang_code": "sme", 
     "contributors": [
+      {
+        "full": "Trond Trosterud", 
+        "last": "Trosterud", 
+        "first": "Trond"
+      }, 
+      {
+        "full": "Lene Antonsen", 
+        "last": "Antonsen", 
+        "first": "Lene"
+      }, 
       {
         "full": "Francis Tyers", 
         "last": "Tyers", 
@@ -2408,6 +2539,16 @@
         "first": "Aljoscha"
       }, 
       {
+        "full": "Kim Harris", 
+        "last": "Harris", 
+        "first": "Kim"
+      }, 
+      {
+        "full": "Katrin Marheinecke", 
+        "last": "Marheinecke", 
+        "first": "Katrin"
+      }, 
+      {
         "full": "Slav Petrov", 
         "last": "Petrov", 
         "first": "Slav"
@@ -2581,6 +2722,16 @@
         "full": "Aljoscha Burchardt", 
         "last": "Burchardt", 
         "first": "Aljoscha"
+      }, 
+      {
+        "full": "Kim Harris", 
+        "last": "Harris", 
+        "first": "Kim"
+      }, 
+      {
+        "full": "Katrin Marheinecke", 
+        "last": "Marheinecke", 
+        "first": "Katrin"
       }, 
       {
         "full": "Slav Petrov", 
@@ -2864,6 +3015,16 @@
         "first": "Aljoscha"
       }, 
       {
+        "full": "Kim Harris", 
+        "last": "Harris", 
+        "first": "Kim"
+      }, 
+      {
+        "full": "Katrin Marheinecke", 
+        "last": "Marheinecke", 
+        "first": "Katrin"
+      }, 
+      {
         "full": "Slav Petrov", 
         "last": "Petrov", 
         "first": "Slav"
@@ -3030,6 +3191,16 @@
         "first": "Aljoscha"
       }, 
       {
+        "full": "Kim Harris", 
+        "last": "Harris", 
+        "first": "Kim"
+      }, 
+      {
+        "full": "Katrin Marheinecke", 
+        "last": "Marheinecke", 
+        "first": "Katrin"
+      }, 
+      {
         "full": "Slav Petrov", 
         "last": "Petrov", 
         "first": "Slav"
@@ -3140,6 +3311,16 @@
         "full": "Aljoscha Burchardt", 
         "last": "Burchardt", 
         "first": "Aljoscha"
+      }, 
+      {
+        "full": "Kim Harris", 
+        "last": "Harris", 
+        "first": "Kim"
+      }, 
+      {
+        "full": "Katrin Marheinecke", 
+        "last": "Marheinecke", 
+        "first": "Katrin"
       }, 
       {
         "full": "Slav Petrov", 
