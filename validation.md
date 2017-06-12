@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-06-12T13:43:36Z">2017-06-12T13:43:36 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-06-12T13:44:10Z">2017-06-12T13:44:10 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -3067,7 +3067,7 @@ python tools/validate.py --lang sl_sst UD-dev-branches/UD_Slovenian-SST/sl_sst-u
 <span class="doublewidespan" style="padding-left:3em">UD Somali</span>
 <span class="widespan">so</span>
 <span class="validationfail">EMPTY</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-05-24T19:04:46Z">2017-05-24T19:04:46 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-06-12T13:44:10Z">2017-06-12T13:44:10 zulu</time></span>
 </div>
 <div>
 <pre>
