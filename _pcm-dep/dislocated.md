@@ -74,4 +74,26 @@ The dislocated constituent is realized twice: once in its entirety "fitfy eight 
 14	CONT	_	_	_	_	0	_	_	_	
 15	cause	_	_	_	_	0	_	_	_
 16	it	_	_	_	_	0	_	_	_
+
+1	And	_	_	_	_	0	_	_	_
+2	we	_	_	_	_	0	_	_	_
+3	have	_	_	_	_	0	_	_	_
+4	discovered	_	_	_	_	0	_	_	_	
+5	that	_	_	_	_	0	_	_	_
+6	fifty	_	_	_	_	0	_	_	_
+7	eight	_	_	_	_	0	_	_	_
+8	percent	_	_	_	_	0	_	_	_
+9	of	_	_	_	_	0	_	_	_	
+10	all	_	_	_	_	0	_	_	_
+11	the	_	_	_	_	0	_	_	_
+12	accidents	_	_	_	_	0	_	_	_
+13	that	_	_	_	_	0	_	_	_
+14	happen	_	_	_	_	0	_	_	_	
+15	on	_	_	_	_	0	_	_	_
+16	the	_	_	_	_	0	_	_	_
+17	road	_	_	_	_	0	_	_	_
+18	is	_	_	_	_	0	_	_	_
+19	caused	_	_	_	_	0	_	_	_
+20	by	_	_	_	_	0	_	_	_
+21	overspeeding	_	_	_	_	0	_	_	_	
 ~~~
