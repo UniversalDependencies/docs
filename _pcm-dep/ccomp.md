@@ -16,7 +16,7 @@ The `ccomp` link is used for clausal dependents which are core arguments when th
 1	dem	they	PRON	PRON	_	3	nsubj	_	_
 2	just	just	ADV	ADV	_	3	advmod	_	_
 3	tell	tell	VERB	VERB	_	0	root	_	_
-4	am	he	PRON	PRON	_	3	obj	_	_
+4	am	he	PRON	PRON	_	3	iobj	_	_
 5	sey	that	SCONJ	SCONJ	_	8	mark	_	_
 6	im	he	PRON	PRON	_	7	nmod:poss	_	_
 7	daughter	daughter	NOUN	NOUN	_	8	nsubj	_	_
