@@ -12,11 +12,11 @@ udver: '2'
 + copulative particle of focalization
 
 ~~~ conllu
-# visual-style 4 2 cop	color:blue
+# visual-style 3 2 cop	color:blue
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
 1	but	but	CCONJ	CCONJ	_	3	cc	_	_
 2	na	na	PART	PART	_	3	cop	_	_
 3	landlord	landlord	NOUN	NOUN	_	0	root	_	_
@@ -41,29 +41,14 @@ udver: '2'
 10	well	_	_	_	_	0	_	_	_	
 11	yo	_	_	_	_	0	_	_	_	
 
-1	But	_	_	_	_	0	_	_	_
-2	it	_	_	_	_	0	_	_	_
-3	is	_	_	_	_	0	_	_	_
-4	the	_	_	_	_	0	_	_	_	
-5	landlords	_	_	_	_	0	_	_	_
-6	that	_	_	_	_	0	_	_	_
-7	the	_	_	_	_	0	_	_	_	
-8	matter	_	_	_	_	0	_	_	_	
-9	really	_	_	_	_	0	_	_	_	
-10	concerns	_	_	_	_	0	_	_	_	
-
 ~~~
 
 + cas particulier: root (?)
 
 
 ~~~ conllu
-# visual-style 0 4 cop	color:blue
-# visual-style 0	bgColor:blue
-# visual-style 0	fgColor:white
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
-0 ROOT	_	_	_	_	0	_	_	_	
 1	poor	poor	ADJ	ADJ	_	2	amod	_	_
 2	man	man	NOUN	NOUN	_	3	nmod	_	_
 3	prayer	prayer	NOUN	NOUN	_	4	nsubj	_	_
