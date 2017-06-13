@@ -5,9 +5,9 @@ shortdef: 'oblique complement'
 udver: '2'
 ---
 
-The `obl:comp` relation is used for arguments which are introduced by a preposition. 
+The `obl:comp` relation is used for nominal arguments which are introduced by a preposition. 
 
-We introduce this relation to distinguish these elements, which are subcategorized, from oblique elements which are not core arguments but adjuncts, and will be annotated as [obl:ad]().
+We introduce this relation to distinguish these elements, which are subcategorized, from oblique elements which are not arguments but adjuncts, and will be annotated as [obl:ad]().
 
 ~~~ conllu
 # visual-style 4 6 obl:comp	color:blue
