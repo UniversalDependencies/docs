@@ -29,12 +29,12 @@ udver: '2'
 * [CoNLL-U format](format.html)
 
 <small>
-This is the online documentation for Universal Dependencies, version 2 (2016-12-01). 
-<strong><font color="red">Note:</font></strong> The treebanks listed below still follow the v1 guidelines 
+This is the online documentation for Universal Dependencies, version 2 (2016-12-01).
+<strong><font color="red">Note:</font></strong> The treebanks listed below still follow the v1 guidelines
 available [here](docsv1/index.html).
 </small>
 
-# Upcoming UD-related events
+# UD-related events in 2017
 
   * [CoNLL 2017 Shared Task: Multilingual Parsing from Raw Text to Universal Dependencies](http://universaldependencies.org/conll17/)
   * [EACL 2017 Tutorial on Universal Dependencies](http://universaldependencies.org/eacl17tutorial/)
