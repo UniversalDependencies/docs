@@ -5,7 +5,7 @@ shortdef: 'indirect object'
 udver: '2'
 ---
 
-The `iobj` relation is used for dative objects of the verb when the verb has more than one object. If there is only one object, it should be labeled [obj]() regardless of its morphological case. 
+The `iobj` relation is used for dative objects of the verb when the verb already has an object or a complement. If there is only one object, it should be labeled [obj]() regardless of its morphological case. 
 
 ~~~ conllu
 # visual-style 3 4 iobj	color:blue
