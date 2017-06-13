@@ -5,7 +5,7 @@ shortdef: 'clausal complement'
 udver: '2'
 ---
 
-The `ccomp` link is used for clausal dependents which are core arguments when the subject is not controlled. However, when the subject is controlled, we use the [xcomp]() link.
+The `ccomp` link is used for clausal dependents which are core arguments, when the subject is not controlled. However, when the subject is controlled, we use the [xcomp]() link.
 
 ~~~ conllu
 # visual-style 3 8 ccomp	color:blue
