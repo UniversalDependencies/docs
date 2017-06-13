@@ -21,7 +21,7 @@ The `csubj` relation is used when the subject of a clause is a clause in itself.
 6	good	good	ADJ	ADJ	_	2	ccomp:cleft	_	_
 
 
-1	Be	_	_	_	_	0	_	_	_
+1	be	_	_	_	_	0	_	_	_
 2	why	_	_	_	_	0	_	_	_
 3	drink	_	_	_	_	0	_	_	_
 4	drive	_	_	_	_	0	_	_	_
