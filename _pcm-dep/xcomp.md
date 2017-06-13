@@ -52,9 +52,9 @@ The 2 predicates in the following example are:
 # visual-style 6	fgColor:white
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
-1	dat	that	PRON	PRO	_	2	nsubj	_	_
-2	na	is	VERB	VERB	_	0	root	_	_
-3	whetin	what	PRON	PRON	_	2	obj	_	_
+1	dat	that	PRON	PRO	_	3	nsubj	_	_
+2	na	is	VERB	VERB	_	3	cop	_	_
+3	whetin	what	PRON	PRON	_	0	root	_	_
 4	dem	they	PRON	PRON	_	6	nsubj	_	_
 5	dey	dey	AUX	AUX	_	6	aux	_	_
 6	call	call	VERB	VERB	_	3	acl:relcl	_	_
