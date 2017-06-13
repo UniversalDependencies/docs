@@ -33,11 +33,11 @@ The `iobj` relation is used for dative objects of the verb when the verb already
 ~~~
 
 ~~~ conllu
-# visual-style 3 8 ccomp	color:blue
+# visual-style 3 4 iobj	color:blue
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
 1	dem	they	PRON	PRON	_	3	nsubj	_	_
 2	just	just	ADV	ADV	_	3	advmod	_	_
 3	tell	tell	VERB	VERB	_	0	root	_	_
