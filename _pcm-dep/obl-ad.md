@@ -5,7 +5,7 @@ shortdef: 'oblique adjunct'
 udver: '2'
 ---
 
-The `obl:ad` relation is used for nominal adjuncts. On the other hand, when the nominal element is an argument we use [obj]() if it's a direct object, or [obl:comp]() if the argument is introduced by a preposition.
+The `obl:ad` relation is used for nominal adjuncts.
 
 ~~~ conllu
 # visual-style 6 8 obl:ad	color:blue
@@ -81,3 +81,4 @@ The `obl:ad` relation is used for nominal adjuncts. On the other hand, when the 
 9	time	_	_	_	_	0	_	_	_
 ~~~
 
+On the other hand, when the nominal element is an argument we use [obj]() if it's a direct object, or [obl:comp]() if the argument is introduced by a preposition.
