@@ -30,9 +30,3 @@ The `det` relation is used between a nominal phrase and its determiner.
 5	good	_	_	_	_	0	_	_	_
 
 ~~~
-
-The determiners of Naija include :
-
-- dem
-- di
-- dis/dese
