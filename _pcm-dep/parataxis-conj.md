@@ -9,10 +9,10 @@ The `parataxis:conj` relation is used between juxtaposed clauses. The clauses ar
 
 ~~~ conllu
 # visual-style 3 9 parataxis:conj	color:blue
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
 1	im	he	PRON	PRON	_	3	nsubj	_	_
 2	fit	can	AUX	AUX	_	3	aux	_	_
 3	make	let	VERB	VERB	_	0	root	_	_
