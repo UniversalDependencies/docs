@@ -10,7 +10,7 @@ In FrenchSpoken the `conj:appos` relation is used instead of `appos` for apposit
 Here is an example :
 
 ~~~ sdparse
-Bruno, mon oncle, est un grand fan de rugby \n Bruno, my uncle, is a big fan of rugby
+Bruno , mon oncle, est un grand fan de rugby \n Bruno, my uncle, is a big fan of rugby
 conj:appos(Bruno, oncle)
 ~~~
 
