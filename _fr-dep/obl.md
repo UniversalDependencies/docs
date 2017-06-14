@@ -17,8 +17,8 @@ obl:mod(mange, heures)
 ~~~
 
 ~~~ sdparse
-Max habite à Paris . \n Max lives in a big city.
-obl:comp(habite, ville)
+Max habite à Paris . \n Max lives in Paris.
+obl:comp(habite, Paris)
 ~~~
 
 ~~~ sdparse
