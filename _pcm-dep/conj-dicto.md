@@ -1,7 +1,7 @@
 ---
 layout: relation
 title: 'conj:dicto'
-shortdef: 'conj:dicto'
+shortdef: 'disfluency, reformulation, elaboration'
 udver: '2'
 ---
 
