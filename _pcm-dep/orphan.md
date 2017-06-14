@@ -1,7 +1,7 @@
 ---
 layout: relation
-title: 'nsubj'
-shortdef: 'nominal subject'
+title: 'orphan'
+shortdef: 'orphan'
 udver: '2'
 ---
 
