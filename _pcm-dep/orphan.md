@@ -12,9 +12,9 @@ The `orphan` relation is used in cases of head ellipsis where simple promotion w
 In order to have only one subtree for each pile of disluencies or reformulations we use the orphan relation if needed, and consider the absence of the predicate for the repeated element as an ellipsis.
 
 ~~~ conllu
-# visual-style 5 8 conj:dicto	color:blue
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
+# visual-style 7 5 orphan	color:blue
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 1	if	if	SCONJ	SCONJ	_	8	mark	_	_
