@@ -7,7 +7,7 @@ udver: '2'
 
 # Specific constructions
 
-## na
+### na
 
 + copulative particle of focalization
 
@@ -43,16 +43,13 @@ udver: '2'
 
 ~~~
 
-+ cas particulier: root (?)
-
-
 ~~~ conllu
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 1	poor	poor	ADJ	ADJ	_	2	amod	_	_
 2	man	man	NOUN	NOUN	_	3	nmod	_	_
-3	prayer	prayer	NOUN	NOUN	_	4	nsubj	_	_
-4	na	na	VERB	PART	_	0	root	_	_
+3	prayer	prayer	NOUN	NOUN	_	3	nsubj	_	_
+4	na	na	VERB	PART	_	6	cop	_	_
 5	God	God	PROPN	PROPN	_	6	nsubj	_	_
-6	dey	be	AUX	AUX	_	4	parataxis:obj	_	_
+6	dey	be	AUX	AUX	_	0	root	_	_
 ~~~
