@@ -16,6 +16,6 @@ obl:periph(devrait, avis)
 Example from FrenchSpoken :
 
 ~~~ sdparse
-pour l' Idépendant du midi c'est la gifle \n
+pour l' Indépendant du midi c'est la gifle \n
 obl:periph(gifle, Indépendant)
 ~~~
