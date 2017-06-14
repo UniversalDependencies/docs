@@ -33,4 +33,34 @@ In order to have only one subtree for each pile of disluencies or reformulations
 14	arrest	arrest	VERB	VERB	_	12	xcomp	_	_
 15	una	you	PRON	PRON	_	16	nmod:poss	_	_
 16	moto	moto	NOUN	NOUN	_	14	obj	_	_
+
+1	if	_	_	_	_	0	_	_	_
+2	the	_	_	_	_	0	_	_	_
+3	X	_	_	_	_	0	_	_	_
+4	X	_	_	_	_	0	_	_	_
+5	if	_	_	_	_	0	_	_	_
+6	the	_	_	_	_	0	_	_	_
+7	enforcement	_	_	_	_	0	_	_	_
+8	start	_	_	_	_	0	_	_	_
+9	now	_	_	_	_	0	_	_	_
+10	we	_	_	_	_	0	_	_	_
+11	will	_	_	_	_	0	_	_	_
+12	begin	_	_	_	_	0	_	_	_
+13	CONT	_	_	_	_	0	_	_	_
+14	arrest	_	_	_	_	0	_	_	_
+15	you guys	_	_	_	_	0	_	_	_
+16	moto	_	_	_	_	0	_	_	_
+
+1	if	_	_	_	_	0	_	_	_
+2	the	_	_	_	_	0	_	_	_
+3	enforcement	_	_	_	_	0	_	_	_
+4	starts	_	_	_	_	0	_	_	_
+5	now	_	_	_	_	0	_	_	_
+6	we	_	_	_	_	0	_	_	_
+7	would	_	_	_	_	0	_	_	_
+8	begin	_	_	_	_	0	_	_	_
+9	to	_	_	_	_	0	_	_	_
+10	arrest	_	_	_	_	0	_	_	_
+11	your	_	_	_	_	0	_	_	_
+12	vehicles	_	_	_	_	0	_	_	_
 ~~~
