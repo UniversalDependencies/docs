@@ -10,7 +10,7 @@ In FrenchSpoken the `nmod:appos` relation is used for appositions which modify n
 Here are a few examples :
 
 ~~~ sdparse
-Le journal Libération a refusé de dévoiler ses sources concernant le dossier Fillon. \n The newspaper Liberation refused to reveal its sources in the fillon case.
+Le journal Libération a refusé de dévoiler ses sources concernant le dossier Fillon . \n The newspaper Liberation refused to reveal its sources in the fillon case.
 nmod:appos(journal, Libération)
 nmod:appos(dossier, Fillon)
 ~~~
