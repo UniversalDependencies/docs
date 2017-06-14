@@ -1,7 +1,7 @@
 ---
 layout: relation
 title: 'parataxis:parenth'
-shortdef: 'parataxis:parenth'
+shortdef: 'parenthesis'
 udver: '2'
 ---
 
