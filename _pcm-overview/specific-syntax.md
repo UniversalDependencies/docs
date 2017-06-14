@@ -44,6 +44,9 @@ udver: '2'
 ~~~
 
 ~~~ conllu
+# visual-style 6 4 cop	color:blue
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 1	poor	poor	ADJ	ADJ	_	2	amod	_	_
