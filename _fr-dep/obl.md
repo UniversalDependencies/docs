@@ -17,12 +17,12 @@ obl:mod(mange, heures)
 ~~~
 
 ~~~ sdparse
-Max habite dans une grande ville. \n Max lives in a big city.
+Max habite à Paris . \n Max lives in a big city.
 obl:comp(habite, ville)
 ~~~
 
 ~~~ sdparse
-Selon ma voisine, le gardien vole parfois des colis. \n According to my neighbour, the caretaker sometimes steals packages.
+Selon ma voisine , le gardien vole parfois des colis. \n According to my neighbour, the caretaker sometimes steals packages.
 obl:periph(vole, voisine)
 ~~~
 
