@@ -5,7 +5,7 @@ shortdef: 'conj:dicto'
 udver: '2'
 ---
 
-The `conj:dicto` relation is used instead of the standard relation `reparandum` for disfluent elements and reformulations. This choice is meant to emphasize the similarity between reformulations, elaborations and ordinary coordinations.
+The `conj:dicto` relation is used instead of the standard relation `reparandum` for disfluent elements and reformulations. This choice is meant to emphasize the similarity between reformulations, elaborations and ordinary coordinations. 
 
 ~~~ conllu
 # visual-style 5 8 conj:dicto	color:blue
@@ -42,6 +42,10 @@ The `conj:dicto` relation is used instead of the standard relation `reparandum` 
 9	thinking	_	_	_	_	0	_	_	_
 10	faculty	_	_	_	_	0	_	_	_
 ~~~
+
+
+Conjunctions are treated asymetrically with the first conjunct as the head, and all the other conjuncts as dependants of this element.
+
 
 ~~~ conllu
 # visual-style 3 4 conj:dicto	color:blue
