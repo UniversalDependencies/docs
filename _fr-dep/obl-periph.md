@@ -9,13 +9,13 @@ In FrenchSpoken, the `obl:periph` relation is used for nominals which are not re
 The specificity of an `obl:periph`, compared to an [obl:mod](), is that the `obl:periph` nominal cannot be cleaved. In addition, the `obl:periph` nominal cannot be moved inside the core of the sentence, unless it is put in parenthesis.
 
 ~~~ sdparse
-A mon avis, Pierre devrait rester là. \n In my opinion, Pierre should stay there.
+A mon avis , Pierre devrait rester là. \n In my opinion, Pierre should stay there.
 obl:periph(devrait, avis)
 ~~~
 
 Example from FrenchSpoken :
 
 ~~~ sdparse
-pour l'Idépendant du midi c'est la gifle \n
+pour l' Idépendant du midi c'est la gifle \n
 obl:periph(gifle, Indépendant)
 ~~~
