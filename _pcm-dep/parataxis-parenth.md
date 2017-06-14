@@ -5,7 +5,7 @@ shortdef: 'parenthesis'
 udver: '2'
 ---
 
-The relation `parataxis:parenth` is used when the there is an autonomous illocutionary present inside another one.
+The relation `parataxis:parenth` is used when the there is an autonomous illocutionary unit present inside another one.
 
 
 ~~~ conllu
