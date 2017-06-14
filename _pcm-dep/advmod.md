@@ -47,4 +47,26 @@ The `advmod` relation is used between an adverbial phrase and the predicate or m
 9	carry	carry	VERB	VERB	_	0	root	_	_
 10	you	you	PRON	PRON	_	9	obj	_	_
 11	comot	leave	VERB	VERB	_	9	compound:svc	_	_
+
+1	if	_	_	_	_	0	_	_	_
+2	we	_	_	_	_	0	_	_	_
+3	marry	_	_	_	_	0	_	_	_
+4	completely	_	_	_	_	0	_	_	_
+5	they	_	_	_	_	0	_	_	_
+6	not	_	_	_	_	0	_	_	_
+7	will	_	_	_	_	0	_	_	_
+8	can	_	_	_	_	0	_	_	_
+9	carry	_	_	_	_	0	_	_	_
+10	you	_	_	_	_	0	_	_	_
+11	leave	_	_	_	_	0	_	_	_
+
+1	If	_	_	_	_	0	_	_	_
+2	we	_	_	_	_	0	_	_	_
+3	have	_	_	_	_	0	_	_	_
+4	got	_	_	_	_	0	_	_	_
+5	married	_	_	_	_	0	_	_	_
+6	they	_	_	_	_	0	_	_	_
+7	can't	_	_	_	_	0	_	_	_
+8	separate	_	_	_	_	0	_	_	_
+9	us	_	_	_	_	0	_	_	_
 ~~~
