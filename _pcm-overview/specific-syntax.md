@@ -46,11 +46,12 @@ udver: '2'
 - root : special case, otherwise dey would have two nsubj dependents
 
 ~~~ conllu
-# visual-style 6 4 cop	color:blue
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
+# visual-style 0 4 root	color:blue
+# visual-style 0	bgColor:blue
+# visual-style 0	fgColor:white
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
+0	ROOT	_	_	_	_	0	_	_	_	
 1	poor	poor	ADJ	ADJ	_	2	amod	_	_
 2	man	man	NOUN	NOUN	_	3	nmod	_	_
 3	prayer	prayer	NOUN	NOUN	_	4	nsubj	_	_
