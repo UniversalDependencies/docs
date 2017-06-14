@@ -16,7 +16,7 @@ The `acl:relcl` relation is used for relative clauses modifying nominal elements
 1	wetin	what	PRON	PRON	_	0	root	_	_
 2	we	we	PRON	PRON	_	4	nsubj	_	_
 3	dey	be	AUX	AUX	_	4	aux	_	_
-4	call	call	VERB	VERB	_	1	acl:cleft	_	_
+4	call	call	VERB	VERB	_	1	acl:relcl	_	_
 5	speed	speed	NOUN	NOUN	_	6	nmod	_
 6	limiting	limiting	ADJ	ADJ	_	7	amod	_
 7	device	device	NOUN	NOUN	_	4	obj	_
