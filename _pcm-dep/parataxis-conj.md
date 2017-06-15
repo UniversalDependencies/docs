@@ -50,3 +50,8 @@ The `parataxis:conj` relation is used between juxtaposed clauses. The clauses ar
 11	your	_	_	_	_	0	_	_	_
 12	mind	_	_	_	_	0	_	_	_
 ~~~
+
+### Parallel constructions
+
+Parallel constructions often appear in Naija for sequential constructions.
+
