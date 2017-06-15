@@ -56,24 +56,53 @@ The `parataxis:conj` relation is used between juxtaposed clauses. The clauses ar
 Parallel constructions often appear in Naija for sequential constructions.
 
 ~~~ conllu
-# visual-style 5 9 parataxis:conj	color:blue
-# visual-style 5 14 parataxis:conj	color:blue
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 14	bgColor:blue
-# visual-style 14	fgColor:white
+# visual-style 4 8 parataxis:conj	color:blue
+# visual-style 4 12 parataxis:conj	color:blue
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 12	bgColor:blue
+# visual-style 12	fgColor:white
 1	hundred	hundred	NUM	NUM	_	2	nummod	_	_
 2	level	level	NOUN	VERB	_	4	nsubj	_	_
 3	don	PERF	AUX	AUX	_	4	aux	_	_
 4	pass	pass	VERB	VERB	_	0	root	_	_
-6	two	two	NUM	NUM	_	7	nummod	_	_
-7	hundred	hundred	NOUN	NUM	_	9	nsubj	_	_
-8	don	PERF	AUX	AUX	_	9	aux	_	_
-9	pass	pass	VERB	VERB	_	4	parataxis:conj	_	_
-11	three	three	NUM	NUM	_	12	nummod	_	_
-12	hundred	hundred	NOUN	NUM	_	14	nsubj	_	_
-13	don	PERF	AUX	AUX	_	14	aux	_	_
-14	pass	pass	VERB	VERB	_	4	parataxis:conj	_	_
+5	two	two	NUM	NUM	_	6	nummod	_	_
+6	hundred	hundred	NOUN	NUM	_	8	nsubj	_	_
+7	don	PERF	AUX	AUX	_	8	aux	_	_
+8	pass	pass	VERB	VERB	_	4	parataxis:conj	_	_
+9	three	three	NUM	NUM	_	10	nummod	_	_
+10	hundred	hundred	NOUN	NUM	_	12	nsubj	_	_
+11	don	PERF	AUX	AUX	_	12	aux	_	_
+12	pass	pass	VERB	VERB	_	4	parataxis:conj	_	_
+
+1	hundred	_	_	_	_	0	_	_	_
+2	level	_	_	_	_	0	_	_	_
+3	PERF	_	_	_	_	0	_	_	_
+4	exceed	_	_	_	_	0	_	_	_
+5	two	_	_	_	_	0	_	_	_
+6	hundred	_	_	_	_	0	_	_	_
+7	PERF	_	_	_	_	0	_	_	_
+8	exceed	_	_	_	_	0	_	_	_
+9	three	_	_	_	_	0	_	_	_
+10	hundred	_	_	_	_	0	_	_	_
+11	PERF	_	_	_	_	0	_	_	_
+12	exceed	_	_	_	_	0	_	_	_
+
+1	One	_	_	_	_	0	_	_	_
+2	hundred	_	_	_	_	0	_	_	_
+3	level	_	_	_	_	0	_	_	_
+4	has	_	_	_	_	0	_	_	_
+5	passed	_	_	_	_	0	_	_	_
+6	,	_	_	_	_	0	_	_	_
+7	two	_	_	_	_	0	_	_	_
+8	hundred	_	_	_	_	0	_	_	_
+9	has	_	_	_	_	0	_	_	_
+10	passed	_	_	_	_	0	_	_	_
+11	,	_	_	_	_	0	_	_	_
+12	three	_	_	_	_	0	_	_	_
+13	hundred	_	_	_	_	0	_	_	_
+14	has	_	_	_	_	0	_	_	_
+15	passed	_	_	_	_	0	_	_	_
 ~~~
