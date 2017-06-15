@@ -10,9 +10,9 @@ for `obl:periph`.
 
 
 ~~~ conllu
-# visual-style 13 2 obl:periph	color:blue
-# visual-style 13	bgColor:blue
-# visual-style 13	fgColor:white
+# visual-style 11 2 obl:periph	color:blue
+# visual-style 11	bgColor:blue
+# visual-style 11	fgColor:white
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 1	any	any	DET	DET	_	2	det	_	_
