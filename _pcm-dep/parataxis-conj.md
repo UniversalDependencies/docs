@@ -55,3 +55,25 @@ The `parataxis:conj` relation is used between juxtaposed clauses. The clauses ar
 
 Parallel constructions often appear in Naija for sequential constructions.
 
+~~~ conllu
+# visual-style 5 9 parataxis:conj	color:blue
+# visual-style 5 14 parataxis:conj	color:blue
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 14	bgColor:blue
+# visual-style 14	fgColor:white
+1	hundred	hundred	NUM	NUM	_	2	nummod	_	_
+2	level	level	NOUN	VERB	_	4	nsubj	_	_
+3	don	PERF	AUX	AUX	_	4	aux	_	_
+4	pass	pass	VERB	VERB	_	0	root	_	_
+6	two	two	NUM	NUM	_	7	nummod	_	_
+7	hundred	hundred	NOUN	NUM	_	9	nsubj	_	_
+8	don	PERF	AUX	AUX	_	9	aux	_	_
+9	pass	pass	VERB	VERB	_	4	parataxis:conj	_	_
+11	three	three	NUM	NUM	_	12	nummod	_	_
+12	hundred	hundred	NOUN	NUM	_	14	nsubj	_	_
+13	don	PERF	AUX	AUX	_	14	aux	_	_
+14	pass	pass	VERB	VERB	_	4	parataxis:conj	_	_
+~~~
