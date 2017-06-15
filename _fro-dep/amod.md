@@ -9,11 +9,11 @@ This document is a placeholder for the language-specific documentation
 for `amod`.
 
 ~~~ conllu
-# visual-style 2 1 det	color:blue
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
+# visual-style 7 6 amod	color:blue
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
 1	Tenez	_	VERB	VERcjg	_	0	root	_	_
 2	les	_	DET	DETdef	_	3	det	_	_
 3	clefs	_	NOUN	NOMcom	_	1	obj	_	_
@@ -26,11 +26,11 @@ for `amod`.
 
 
 ~~~ conllu
-# visual-style 2 1 det	color:blue
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
+# visual-style 5 4 amod	color:blue
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
 1	Si	_	ADV	ADVgen	_	2	advmod	_	_
 2	remeindreient	_	VERB	VERcjg	_	0	root	_	_
 3	les	_	DET	DETdef	_	5	det	_	_
