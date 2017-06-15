@@ -53,7 +53,7 @@ The `parataxis:conj` relation is used between juxtaposed clauses. The clauses ar
 
 ### Parallel constructions
 
-Parallel constructions often appear in Naija for sequential constructions.
+Parallel constructions are a special case of juxtaposed clauses, in which a single syntactic pattern is repeated several times. Parallel constructions often appear in Naija for sequential constructions.
 
 ~~~ conllu
 # visual-style 4 8 parataxis:conj	color:blue
