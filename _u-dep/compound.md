@@ -30,3 +30,5 @@ nsubj(bé, Musa)
 compound:svc(bé, lá)
 obj(bé, èbi)
 ~~~
+
+The `compound` relation (nor any subtype thereof) is not used to link an inherently reflexive verb with the reflexive morpheme, despite the similarity of this construction to particle verbs. The current UD guideline is to use an appropriate [subtype](/2015-08-23-uppsala/clitics.html) of the [expl]() relation.
