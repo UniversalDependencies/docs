@@ -198,6 +198,17 @@
     "lang_name": "Armenian"
   }, 
   {
+    "lang_code": "bn", 
+    "contributors": [
+      {
+        "full": "Siratun Jannat", 
+        "last": "Jannat", 
+        "first": "Siratun"
+      }
+    ], 
+    "lang_name": "Bangla"
+  }, 
+  {
     "lang_code": "eu", 
     "contributors": [
       {
