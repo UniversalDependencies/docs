@@ -2,7 +2,13 @@
 layout: postag
 title: 'ADV'
 shortdef: 'adverb'
+udver: '2'
 ---
 
-This document is a placeholder for the language-specific documentation
-for `ADV`.
+### Definiton 
+
+Adverbs are words that typically modify [VERB]() for such categories as time, place, direction or manner. They may also modify [ADJ]() and other adverbs
+
+### The adverbs of Naija include :
+
+- so (used to focalize the attention) : <b>So</b> na bad thing.
