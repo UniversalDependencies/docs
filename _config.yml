@@ -1031,6 +1031,20 @@ collections:
   af-overview:
     output: true
 #
+# Bangla
+#
+  bn-pos:
+    output: true
+    permalink: /bn/pos/:path.html
+  bn-feat:
+    output: true
+    permalink: /bn/feat/:path.html
+  bn-dep:
+    output: true
+    permalink: /bn/dep/:path.html
+  bn-overview:
+    output: true
+#
 # Template
 #
   template-pos:
