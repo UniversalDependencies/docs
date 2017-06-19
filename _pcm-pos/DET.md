@@ -14,6 +14,6 @@ However note that numerals are consistently annotated as `NUM`.
 
 - di (singular definite article) : Now see <b>di</b> process
 - dem (plural definite article) : <b>Dem</b> no dey send
-- dis / dese (singular demonstrative pronoun) : na me park <b>dis</b> car
+- dis (singular demonstrative pronoun) : na me park <b>dis</b> car
 - dese (plural demonstrative pronoun) : so <b>dese</b> kind thing no good
 
