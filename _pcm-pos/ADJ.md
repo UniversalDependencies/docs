@@ -5,7 +5,6 @@ shortdef: 'adjective'
 udver: '2'
 ---
 
-
 ### Definition
 
 Adjectives are words that typically modify nouns and specify their properties or attributes. They may also function as predicates.
