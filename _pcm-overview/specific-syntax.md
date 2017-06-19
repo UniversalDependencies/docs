@@ -7,6 +7,22 @@ udver: '2'
 
 # Specific constructions
 
+### Serial Verb Constructions
+
+#### Comparatives
+
+#### Superlatives
+
+### Clefts
+
+### Dislocations
+
+### Paratactic constructions
+
+#### Juxtaposition
+
+#### Reported Speech
+
 ### na
 
 + copulative particle of focalization
