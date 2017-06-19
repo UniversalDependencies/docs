@@ -16,11 +16,13 @@ Auxiliaries can be root.
 
 ### The auxiliaries of Naija include :
 - come (realis mood) : But if we <b>come</b> look di matter well.
+  - [VERB](): See dat car wey dey <b>come</b>.
 - dey (continuous aspect) : Because as you <b>dey</b> use phone and <b>dey</b> do two thing at di same time.
   - [VERB](): But dis kind thing for no happen o if di railing <b>dey</b> as e suppose to <b>dey</b>.
 - don (perfect aspect) : So ma people we <b>don</b> show again as we dey always show.
-- fit (similar to modal auxiliary <i>can</i>) : Dem <b>fit</b> reach too.
+- fit (similar to modal auxiliary <i>can</i>) : Dem <b>fit</b> reach too. 
 - for (hypothetical mood) : But dis kind thing <b>for</b> no happen o.
 - go (prospective aspect, future) : Nobody <b>go</b> ever talk sey rain do bad thing o.
   - [VERB](): Wey rain wata fit pass <b>go</b> under.
 - make (jussive mood) : <b>Make</b> we talk true sef o.
+  - [VERB](): <b>Make> sure sey you no leave am.
