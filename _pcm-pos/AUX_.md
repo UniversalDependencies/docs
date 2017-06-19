@@ -25,4 +25,4 @@ Auxiliaries can be root.
 - go (prospective aspect, future) : Nobody <b>go</b> ever talk sey rain do bad thing o.
   - [VERB](): Wey rain wata fit pass <b>go</b> under.
 - make (jussive mood) : <b>Make</b> we talk true sef o.
-  - [VERB](): <b>Make> sure sey you no leave am.
+  - [VERB](): <b>Make</b> sure sey you no leave am.
