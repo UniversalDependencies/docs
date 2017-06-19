@@ -65,7 +65,7 @@ The determiners of Naija include :
 2	me	I	PRON	PRON	_	0	root	_	_
 3	park	park	VERB	VERB	_	2	acl:cleft	_	_
 4	dis	this	DET	DET	_	5	det	_	_	
-5	car	car	NOUN NOUN	_	3 obj	_	_	
+5	car	car	NOUN	NOU	_	3	obj	_	_	
 
 1	na	_	_	_	_	0	_	_	_
 2	I	_	_	_	_	0	_	_	_
@@ -91,8 +91,8 @@ The determiners of Naija include :
 2	dese	these	DET	DET	_	4	det	_	_
 3	kind	kind	NOUN	NOUN	_	4	nmod	_	_
 4	thing	thing	NOUN	NOUN	_	0	root	_	_	
-5	no	not	PART PART	_	6 advmod	_	_	
-6	good	good ADJ ADJ	_	4 amod	_	_	
+5	no not	PART PART	_	6 advmod	_	_	
+6	good good ADJ ADJ	_	4 amod	_	_	
 
 1	so	_	_	_	_	0	_	_	_
 2	these	_	_	_	_	0	_	_	_
