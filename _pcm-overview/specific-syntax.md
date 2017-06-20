@@ -7,6 +7,45 @@ udver: '2'
 
 # Specific constructions
 
+### Double object construction
+
+~~~ conllu
+# visual-style 3 4 obj	color:blue
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 5 7 obj	color:blue
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+1	God	God	PROPN	PROPN	_	3	nsubj	_	_
+2	just	just	ADV	ADV	_	3	advmod	_	_
+3	carry	carry	VERB	VERB	_	0	root	_	_
+4	am	he	PRON	PRON	_	3	obj	_	_
+5	give	give	VERB	VERB	_	3	compound:svc	_	_
+6	dat	that	DET	PRON	_	5	det	_	_
+7	pastor	pastor	NOUN	NOUN	_	5	obj	_	_
+
+1	God	_	_	_	_	0	_	_	_
+2	just	_	_	_	_	0	_	_	_
+3	carry 	_	_	_	_	0	_	_	_
+4	it	_	_	_	_	0	_	_	_
+5	give	_	_	_	_	0	_	_	_
+6	that	_	_	_	_	0	_	_	_
+7	pastor	_	_	_	_	0	_	_	_
+
+1	God	_	_	_	_	0	_	_	_
+2	just	_	_	_	_	0	_	_	_
+3	gave 	_	_	_	_	0	_	_	_
+4	it	_	_	_	_	0	_	_	_
+5	to	_	_	_	_	0	_	_	_
+6	the	_	_	_	_	0	_	_	_
+7	pastor	_	_	_	_	0	_	_	_	
+
+~~~
+
 ### Serial Verb Constructions
 
 #### Comparatives
