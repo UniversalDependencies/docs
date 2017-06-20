@@ -5,7 +5,7 @@ shortdef: 'oblique adjunct'
 udver: '2'
 ---
 
-The `obl:ad` relation is used for nominal adjuncts.
+The `obl:ad` relation is used for nominal adjuncts whcih are governed by their heads. For nominal adjuncts which are not governed we use [obl:periph]().
 
 ~~~ conllu
 # visual-style 6 8 obl:ad	color:blue
