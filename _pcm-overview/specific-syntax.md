@@ -116,3 +116,28 @@ When the complement of the copula is clausal and contains its own subject, the c
 5	God	God	PROPN	PROPN	_	6	nsubj	_	_
 6	dey	be	AUX	AUX	_	4	parataxis:obj	_	_
 ~~~
+
+### negative construction
+
+Negation is marked with the particule <i>no</i> before a verb, an auxiliary or an adjective.
+
+~~~ conllu
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+1	Im	he	PRON	PRON	_	3	nsubj	_	_
+2	no	not	PART	PART	_	3	advmod	_	_
+3	see	see	VERB	VERB	_	0	root	_	_
+4	you	you	PRON	PRON	_	3	obj	_	_
+
+1	he	_	_	_	_	0	_	_	_
+2	not	_	_	_	_	0	_	_	_
+3	see 	_	_	_	_	0	_	_	_
+4	you	_	_	_	_	0	_	_	_
+
+1	he	_	_	_	_	0	_	_	_
+2	does	_	_	_	_	0	_	_	_
+3	not 	_	_	_	_	0	_	_	_
+4	see	_	_	_	_	0	_	_	_
+5	you	_	_	_	_	0	_	_	_
+
+~~~
