@@ -88,6 +88,37 @@ The relation `compound:svc` is used for serial verb constructions. In this type 
 11	do	_	_	_	_	0	_	_	_
 ~~~
 
+An adjective may be used in place of a verb in a serial verb construction.
+
+~~~ conllu
+# visual-style 3 4 compound:svc	color:blue
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+1	di	the	DET	DET	_	2	det	_	_
+2	guy	guy	NOUN	NOUN	_	3	nsubj	_	_
+3	fine	fine	ADJ	ADJ	_	0	root	_	_
+4	reach	arrive	VERB	VERB	_	3	compound:svc	_	_
+5	me	I	PRON	PRON	_	4	obj	_	_
+
+1	the	_	_	_	_	0	_	_	_
+2	guy	_	_	_	_	0	_	_	_
+3	fine	_	_	_	_	0	_	_	_
+4	reach	_	_	_	_	0	_	_	_
+5	me	_	_	_	_	0	_	_	_
+
+1	Is	_	_	_	_	0	_	_	_
+2	the	_	_	_	_	0	_	_	_
+3	guy	_	_	_	_	0	_	_	_
+4	as	_	_	_	_	0	_	_	_
+5	handsome	_	_	_	_	0	_	_	_
+6	as	_	_	_	_	0	_	_	_
+7	I	_	_	_	_	0	_	_	_
+8	am	_	_	_	_	0	_	_	_
+~~~
+
+
 ### Comparatives
 
 In Naija serial verbs constructions are also used for comparatives. In these constructions the adjective which is being used to draw the comparison is followed by the verb _pass_.
