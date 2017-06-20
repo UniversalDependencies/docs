@@ -100,7 +100,7 @@ udver: '2'
 
 - root
 
-When the complement of the copula is clausal and contains it's own subject, the copula becomes the head so as to avoid having two nsubj dependents for the head of the complement.
+When the complement of the copula is clausal and contains its own subject, the copula becomes the head so as to avoid having two nsubj dependents for the head of the complement.
 
 ~~~ conllu
 # visual-style 0 4 root	color:blue
