@@ -25,7 +25,7 @@ udver: '2'
 3	carry	carry	VERB	VERB	_	0	root	_	_
 4	am	he	PRON	PRON	_	3	obj	_	_
 5	give	give	VERB	VERB	_	3	compound:svc	_	_
-6	dat	that	DET	PRON	_	5	det	_	_
+6	dat	that	DET	PRON	_	7	det	_	_
 7	pastor	pastor	NOUN	NOUN	_	5	obj	_	_
 
 1	God	_	_	_	_	0	_	_	_
