@@ -5,8 +5,7 @@ shortdef: 'vocative'
 udver: '2'
 ---
 
-This document is a placeholder for the language-specific documentation
-for `vocative`.
+The `vocative` relation is used to mark a dialogue participant addressed.
 
 ~~~ conllu
 # visual-style 12 1 det	color:blue
