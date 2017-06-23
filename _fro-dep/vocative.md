@@ -8,7 +8,7 @@ udver: '2'
 The `vocative` relation is used to mark a dialogue participant addressed.
 
 ~~~ conllu
-# visual-style 12 1 det	color:blue
+# visual-style 12 1 vocative	color:blue
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 12	bgColor:blue
