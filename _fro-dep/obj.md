@@ -5,7 +5,7 @@ shortdef: 'object'
 udver: '2'
 ---
 
-The object (`obj`) of a verb is the second most core argument of a verb after the subject. This argument is nominal (noun or pronoun).
+The object (`obj`) of a verb is the second most core argument of a verb before or after the subject. This argument is nominal (noun or pronoun).
 (See [ccomp]() for when the object is clausal.)
 
 ~~~ conllu
