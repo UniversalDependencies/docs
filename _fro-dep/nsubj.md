@@ -57,5 +57,4 @@ Note that in Old French, `nsubj` is not always expressed.
 10	un	_	DET	DETndf	_	11	det	_	_
 11	conte	_	NOUN	NOMcom	_	7	conj	_	_
 
-
 ~~~
