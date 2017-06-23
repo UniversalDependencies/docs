@@ -27,7 +27,7 @@ The indirect object (`iobj`) of a verb is any nominal phrase that is a core argu
 For nominal dependents of verbs, adjectives, and adverbs, it gets analyzed with the `obl` relation:
 
 ~~~ conllu
-# visual-style 2 4 iobj	color:blue
+# visual-style 2 4 obl	color:blue
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 2	bgColor:blue
