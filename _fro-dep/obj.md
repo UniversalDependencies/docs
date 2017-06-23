@@ -25,20 +25,20 @@ The object (`obj`) of a verb is the second most core argument of a verb before o
 ~~~
 
 ~~~ conllu
-# visual-style 4 2 obj	color:blue
+# visual-style 9 2 obj	color:blue
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
 1	Se	_	ADV	ADVgen	_	9	advmod	_	_
 2	l'	_	PRON	PROper	_	9	obj	_	_
-3	eut	_	VERB	VERcjg	morph=VFin	9	aux	_	_
+3	eut	_	VERB	VERcjg	_	9	aux	_	_
 4	en	_	ADP	PRE	_	6	case	_	_
 5	l'	_	DET	DETdef	_	6	det	_	_
 6	angle	_	NOUN	NOMcom	_	9	obl	_	_
 7	a	_	ADP	PRE	_	8	case	_	_
 8	force	_	NOUN	NOMcom	_	9	obl	_	_
-9	mis	_	VERB	VERppe	morph=VPar	0	root	_	_
+9	mis	_	VERB	VERppe	_	0	root	_	_
 
 ~~~
 
