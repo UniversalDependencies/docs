@@ -24,6 +24,7 @@ When there is an empty argument in a grammatical subject position (expletive), i
 
 ~~~
 
+
 The governor of the nsubj relation might not always be a verb: when the verb is a copular verb, the root of the clause is the complement of the copular verb, which can be an adjective or noun, including a noun marked by a preposition, as in the examples below.
 
 ~~~ conllu
@@ -39,6 +40,7 @@ The governor of the nsubj relation might not always be a verb: when the verb is 
 5	gaie	_	ADJ	ADJqua	_	3	conj	_	_
 
 ~~~
+
 
 Note that in Old French, `nsubj` is not always expressed.
 
