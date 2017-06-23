@@ -45,7 +45,7 @@ The governor of the nsubj relation might not always be a verb: when the verb is 
 Note that in Old French, `nsubj` is not always expressed.
 
 ~~~ conllu
-1	Mais	_	CCONJ	CONcoo	_	2	cc	_	_
+1	Mais	_	CCONJ	CONcoo	_	2	cc:nc	_	_
 2	prendés	_	VERB	VERcjg	_	0	root	_	_
 3	le	_	DET	DETdef	_	4	det	_	_
 4	fille	_	NOUN	NOMcom	_	2	obj	_	_
