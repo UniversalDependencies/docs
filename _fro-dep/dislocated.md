@@ -5,8 +5,6 @@ shortdef: 'dislocated elements'
 udver: '2'
 ---
 
-fronted or postposed
-
 The `dislocated` relation is used for fronted or postposed elements. 
 The dislocated elements are attached to the same governor as the dependent that they double for. 
 
