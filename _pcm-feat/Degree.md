@@ -11,7 +11,7 @@ This feature can take two values :
 + Cmp : comparative
 + Sup : superlative
 
-* Note: The 1st degree marked in English morphology `Pos` is left without feature in our dictionary.
+Note: The 1st degree marked in English morphology `Pos` is left without feature in our dictionary.
 
 ### `Cmp`: comparative
 
@@ -30,4 +30,4 @@ An object is compared to as a set of other objects on the basis of an attribute.
 * _biggest_
 
 
-* Note: most adjectives and adverbs in Naija do not have a `Degree` feature because comparatives and superlatives are based on serial verb constructions, e.g. _fine pass_, _fine pass all_. 
+Note: most adjectives and adverbs in Naija do not have a `Degree` feature because comparatives and superlatives are based on serial verb constructions, e.g. _fine pass_, _fine pass all_. 
