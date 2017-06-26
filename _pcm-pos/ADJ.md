@@ -8,6 +8,7 @@ udver: '2'
 ### Definition
 
 Adjectives are words that typically modify nouns and specify their properties or attributes. They may also function as predicates.
+
 The `ADJ` tag is intended for ordinary adjectives only, see [DET]() for determiners and [NUM]() for numerals.
 
 In Naija, adjectives are always preposed except when they act as the root.
