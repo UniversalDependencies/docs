@@ -14,7 +14,7 @@ There are three values for this feature :
 + Jus : jussive
 
 
-The `Ind` `Imp` values are only carried by instances of verbs following the English morphology, e.g _teaches, teaching, taught..._
+The `Ind` and `Imp` values are only carried by instances of verbs following the English morphology, e.g _teaches, teaching, taught..._
 
 ### `Ind`: indicative
 
