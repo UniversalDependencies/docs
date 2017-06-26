@@ -19,6 +19,7 @@ The particle is considered copulative when it is used to link a subject with its
 #### Example
 
 * _<b>na</b> big lie_ "it's a big lie"
+
 Note : _na_ is a copulative particle frequently used for focalization, such as in [clefts](pcm-overview/specific-syntax#clefts)
 
 ### `Disc`: discourse
