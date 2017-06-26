@@ -5,8 +5,7 @@ shortdef: 'aspect'
 udver: '2'
 ---
 
-This document is a placeholder for the language-specific documentation
-for `Aspect`.
+In Naija, aspect is a lexical feature of [auxiliaries](pcm-pos/AUX) that specifies the duration and completion of processes in time.
 
 This feature can take three values :
 
