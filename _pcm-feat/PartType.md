@@ -5,7 +5,7 @@ shortdef: 'type of particle'
 udver: '2'
 ---
 
-The [particles](pcm-pos/PART) of Niaja perform different functions. We use the `PartType` feature to distinguish these roles.
+We use the `PartType` feature to distinguish the different roles performed by the [particles](pcm-pos/PART) of Naija.
 
 This feature can take two values :
 
