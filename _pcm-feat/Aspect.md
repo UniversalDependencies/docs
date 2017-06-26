@@ -20,7 +20,7 @@ This feature can take three values :
 
 #### Example
 
-* _come_
+* _tire go <b>come</b> burst_ "the tire would explode"
 
 ### `Imp`: imperfect
 
