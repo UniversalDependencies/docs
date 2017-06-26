@@ -8,6 +8,7 @@ udver: '2'
 In Naija,  `Degree` is a feature of [adjectives](pcm-pos/ADJ) and [adverbs](pcm-pos/ADV).
 
 This feature can take two values :
+
 + Cmp : comparative
 + Sup : superlative
 
