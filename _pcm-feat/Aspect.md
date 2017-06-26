@@ -28,7 +28,7 @@ The imperfect aspect is used to indicate ongoing processes.
 
 #### Example
 
-* _dey_
+* _you get blow out tire for road as you <b>dey</b> travel_ "you get a blown out tire on the road as you are travelling"
 
 ### `Perf`: perfect
 
