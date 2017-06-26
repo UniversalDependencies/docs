@@ -5,7 +5,7 @@ shortdef: 'tense'
 udver: '2'
 ---
 
-In Naija, `Tense` is a feature of [auxiliaries](pcm-pos/AUX) and [verbs](pcm-pos/VERB) which specifies the time when the action took / takes / will take place, in relation to the current moment or to another action in the utterance.
+In Naija, `Tense` is a feature of [auxiliaries](pcm-pos/AUX) and [verbs](pcm-pos/VERB) which specifies the time when the action took / takes / will take place, in relation to nother process or the utterance itself.
 
 
 There are three values for this feature :
