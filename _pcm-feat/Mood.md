@@ -33,7 +33,7 @@ The `Ind` `Imp` values are only carried by instances of verbs following the Engl
 
 ### `Jus`: jussive
 
-The `Jus` aspect is used to exhort someone to do something. It is carried by the auxiliary _make_.
+The jussive aspect is used to exhort someone to do something. It is carried by the auxiliary _make_.
 
 #### Example
 
