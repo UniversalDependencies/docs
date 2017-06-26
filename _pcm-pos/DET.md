@@ -7,8 +7,10 @@ udver: '2'
 
 ### Definition
 
-Determiners are words that modify nouns or noun phrases and express the reference of the noun phrase in context. That is, a determiner may indicate whether the noun is referring to a definite or indefinite element of a class, to an element belonging to a specified person or thing, etc.
-However note that numerals are consistently annotated as `NUM`.
+Determiners are words that modify nouns or noun phrases and express the reference of the noun phrase in context. That is, a determiner may indicate whether the noun is referring to a definite or indefinite element of a class.
+
+Numerals are annotated as [NUM]() and possessive determiners are annotated as [PRON]().
+
 
 ### The determiners of Naija include :
 
