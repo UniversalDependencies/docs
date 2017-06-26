@@ -13,7 +13,7 @@ context.
 Possessive pronouns and personal pronoun are annotated as pronouns.
 
 
-### The pronouns of Naija include :
+### Examples of pronouns in Naija :
 
 - first-person, singular
   - I (personal pronoun, subject) : <b>I</b> want drive.
