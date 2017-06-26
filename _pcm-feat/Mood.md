@@ -37,4 +37,4 @@ The `Jus` aspect is used to exhort someone to do something. It is carried by the
 
 #### Example
 
-* _ <b>make</b> you dey tink of oda people _ "you should think of other people"
+* _<b>make</b> you dey tink of oda people_ "you should think of other people"
