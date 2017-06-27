@@ -12,12 +12,12 @@ In Naija, articles carry a `Definite` feature which can take two values:
 
 ### `Spec`: specific indefinite
 
-#### Examples
+#### Example
 
 *  _im get <b>one</b> latest phone like dat_ "he got one of those latest phones"
 
 ### `Def`: definite
 
-#### Examples
+#### Example
 
 *  _you dey do two tins at <b>di</b> same time_ "you are doing two things at the same time"
