@@ -15,7 +15,7 @@ udver: '2'
 </table>
 
 In Naija, Person is typically a feature of personal, possessive and reciprocal
-[pronouns](u-pos/PRON).
+[pronouns](pcm-pos/PRON).
 
 ### <a name="1">`1`</a>: first person
 
