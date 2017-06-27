@@ -81,4 +81,37 @@ The `obl:ad` relation is used for nominal adjuncts whcih are governed by their h
 9	time	_	_	_	_	0	_	_	_
 ~~~
 
-On the other hand, when the nominal element is an argument we use [obj]() if it's a direct object, or [obl:comp]() if the argument is introduced by a preposition.
+`obl:ad` is used regardless of the presence of a preposition before the adjunct :
+
+~~~ conllu
+# visual-style 5 6 obl:ad	color:blue
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+1	I	I	PRON	PRON	_	5	nsubj	_	_
+2	no	no	PART	PART	_	5	advmod	_	_
+3	go	go	AUX	AUX	_	5	aux	_	_
+4	dey	dey	AUX	AUX	_	5	aux	_	_
+5	sleep	sleep	VERB	VERB	_	0	root	_	_
+6	kitchen	kitchen	NOUN	NOUN	_	5	obl:ad	_	_
+
+1	I	_	_	_	_	0	_	_	_
+2	not	_	_	_	_	0	_	_	_
+3	PROSP	_	_	_	_	0	_	_	_
+4	CONT	_	_	_	_	0	_	_	_
+5	sleep	_	_	_	_	0	_	_	_
+6	kitchen	_	_	_	_	0	_	_	_
+	_
+
+1	I	_	_	_	_	0	_	_	_
+2	won't	_	_	_	_	0	_	_	_
+3	be	_	_	_	_	0	_	_	_
+4	sleeping	_	_	_	_	0	_	_	_
+5	in	_	_	_	_	0	_	_	_
+6	the	_	_	_	_	0	_	_	_
+7	kitchen	_	_	_	_	0	_	_	_
+~~~
+
+
+On the other hand, when the nominal element is not an adjunct but an argument we use [obj]() if it's a direct object, or [obl:comp]() if the argument is introduced by a preposition.
