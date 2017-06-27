@@ -17,7 +17,7 @@ In Naija, `Case` is an inflectional feature of [pronouns](pcm-pos/PRON).
 
 Case helps specify the role of the noun phrase in the sentence. 
 
-### <a name="Nom">`Nom`</a>: nominative / direct
+### <a name="Nom">`Nom`</a>: nominative
 
 Typically used when a personal pronoun is used as the subject of a clause.
 
@@ -33,7 +33,7 @@ Typically used when a personal pronoun is used as the subject of a clause.
 * _<b>de</b>_ "they"
 
 
-### <a name="Acc">`Acc`</a>: accusative / oblique
+### <a name="Acc">`Acc`</a>: accusative
 
 Typically used when a personal pronoun is used as a complement for a predicate.
 
