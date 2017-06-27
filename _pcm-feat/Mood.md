@@ -5,18 +5,20 @@ shortdef: 'mood'
 udver: '2'
 ---
 
+<table class="typeindex" border="1">
+<tr>
+  <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
+  <td><a href="#Ind">Ind</a></td>
+  <td><a href="#Imp">Imp</a></td>
+  <td><a href="#Jus">Jus</a></td>
+</tr>
+</table>
+
 In Naija the `Mood` feature which expresses modality is a feature of [auxiliaries](pcm-pos/AUX) and [verbs](pcm-pos/VERB).
-
-There are three values for this feature :
-
-+ Ind : indicative (?)
-+ Imp : imperative (?)
-+ Jus : jussive
-
 
 The `Ind` and `Imp` values are only carried by instances of verbs following the English morphology, e.g _teaches, teaching, taught..._
 
-### `Ind`: indicative
+### <a name="Ind">`Ind`</a>: indicative
 
 
 
@@ -24,14 +26,14 @@ The `Ind` and `Imp` values are only carried by instances of verbs following the 
 
 
 
-### `Imp`: imperative
+### <a name="Imp">`Imp`</a>: imperative
 
 
 #### Example
 
 
 
-### `Jus`: jussive
+### <a name="Jus">`Jus`</a>: jussive
 
 The jussive aspect is used to exhort someone to do something. It is carried by the auxiliary _make_.
 
