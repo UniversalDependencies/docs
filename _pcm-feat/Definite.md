@@ -14,10 +14,7 @@ udver: '2'
 </table>
 
 
-In Naija, articles carry a `Definite` feature which can take two values:
-
-+ `Spec`: specific indefinite
-+ `Def`: definite
+In Naija, articles carry a `Definite` feature.
 
 ### <a name="Spec">`Spec`</a>: specific indefinite
 
