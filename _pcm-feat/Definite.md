@@ -5,18 +5,27 @@ shortdef: 'definiteness or state'
 udver: '2'
 ---
 
+<table class="typeindex" border="1">
+<tr>
+  <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
+  <td><a href="#Spec">Spec</a></td>
+  <td><a href="#Def">Def</a></td>
+</tr>
+</table>
+
+
 In Naija, articles carry a `Definite` feature which can take two values:
 
 + `Spec`: specific indefinite
 + `Def`: definite
 
-### `Spec`: specific indefinite
+### <a name="Spec">`Spec`</a>: specific indefinite
 
 #### Example
 
 *  _im get <b>one</b> latest phone like dat_ "he got one of those latest phones"
 
-### `Def`: definite
+### <a name="Def">`Def`</a>: definite
 
 #### Example
 
