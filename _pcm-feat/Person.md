@@ -36,7 +36,7 @@ optionally some third persons too.
 
 #### Examples
 
-* _<b>you</b< go enter Lagos Ibadan expressway_ "you would enter Lagos Ibadan expressway"
+* _<b>you</b> go enter Lagos Ibadan expressway_ "you would enter Lagos Ibadan expressway"
 * _some of <b>una</b> no know_ "some of you don't know"
 
 ### <a name="3">`3`</a>: third person
