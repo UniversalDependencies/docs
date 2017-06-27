@@ -5,6 +5,16 @@ shortdef: 'tense'
 udver: '2'
 ---
 
+
+<table class="typeindex" border="1">
+<tr>
+  <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
+  <td><a href="#Past">Past</a></td>
+  <td><a href="#Pres">Pres</a></td>
+    <td><a href="#Prosp">Prosp</a></td>
+</tr>
+</table>
+
 In Naija, `Tense` is a feature of [auxiliaries](pcm-pos/AUX) and [verbs](pcm-pos/VERB) which specifies the time when the action took / takes / will take place, in relation to another process or the utterance itself.
 
 
@@ -15,7 +25,7 @@ There are three values for this feature :
 + Prosp : prospective
 
 
-### `Past`: past
+### <a name="Past">`Past`</a>: past
 
 The past tense is ued to indicate that the process is situated in the past in relation to another process or the utterance itself.
 
@@ -23,7 +33,7 @@ The past tense is ued to indicate that the process is situated in the past in re
 
 * _I <b>bin</b> go school_ "I went to school"
 
-### `Pres`: present
+### <a name="Pres">`Pres`</a>: present
 
 The present tense is used to situate the process in present time.
 
@@ -31,7 +41,7 @@ The present tense is used to situate the process in present time.
 
 
 
-### `Prosp`: prospective
+### <a name="Prosp">`Prosp`</a>: prospective
 
 The prospective tense is used to indicate that the process has not yet taken place. It is situated in the future in relation to another process or the utterance itself.
 
