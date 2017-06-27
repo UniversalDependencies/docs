@@ -5,16 +5,20 @@ shortdef: 'degree of comparison'
 udver: '2'
 ---
 
+
+<table class="typeindex" border="1">
+<tr>
+  <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
+  <td><a href="#Cmp">Cmp</a></td>
+  <td><a href="#Sup">Sup</a></td>
+</tr>
+</table>
+
 In Naija,  `Degree` is a feature of [adjectives](pcm-pos/ADJ) and [adverbs](pcm-pos/ADV).
-
-This feature can take two values :
-
-+ Cmp : comparative
-+ Sup : superlative
 
 Note: The 1st degree marked in English morphology `Pos` is left without feature in our dictionary.
 
-### `Cmp`: comparative
+### <a name="Cmp">`Cmp`</a>: comparative
 
 An object is compared to another on the basis of an attribute.
 
@@ -22,7 +26,7 @@ An object is compared to another on the basis of an attribute.
 
 * _bigger_
 
-### `Sup`: superlative
+### <a name="Sup">`Sup`</a>: superlative
 
 An object is compared to as a set of other objects on the basis of an attribute.
 
