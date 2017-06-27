@@ -9,7 +9,7 @@ This feature appears most commonly as an `infinitive` construction, which functi
 
 ### `Inf` : infinitive
 
-The infinitive verb form is the same the verbal noun. The infinitive is always preceded by the infinitive particle _<b>a</b>_. This particle causes lenition in the verb, where possible (see [Form]()).
+The infinitive verb form is the same as the verbal noun. The infinitive is always preceded by the infinitive particle _<b>a</b>_. This particle causes lenition in the verb, where possible (see [Form]()).
 
 #### Examples
 
@@ -25,19 +25,19 @@ The infinitive verb form is the same the verbal noun. The infinitive is always p
 
 ### `Cop` : copula
 
-The copula verb form usually functions as a copula verb, though it can also be used as a mark, to introduce a complement clause, or as the root of the sentence. The copula takes many forms - predominately <b>is</b>, as well as <b>gur</b>, <b>ba</b>, <b>ní</b>, etc. (see [cop](ga-dep/cop)) 
+The copula verb form usually functions as a copula verb, though it can also be used as a mark, to introduce a complement clause, or as the root of the sentence. The order of elements in a copula construction is in general: copula, predicate (new or focussed information), and subject. 
 
 #### Examples
 
 * _<b>Is</b> mise Briain_ "I <b>am</b> Brian"
 * _<b>Is</b> é an watt (W) an t-aonad cumhachta_ "The watt (W) is the unit of power"
 
+In the Irish treebank, the copula verb usually appears in its present tense form _is_, but has many other forms. It can combine wih other subordinate conjuctions or negative particles to form contractions, such as <b>gur</b>, <b>ba</b>, <b>ní</b>, etc. Also, the form of the verb _bí_ changes with respect to tense, mood and context (see [Form](ga/feat/all.html#vf--vowel-form)).
+
 * _<b>Dá</b> mba mise thú_ "If I <b>were</b> you"
 * _<b>Más</b> rud é_ "<b>if</b> it <b>is</b> a thing"
-* _<b>Ar</b> mhaith leat_ "<b>would</b> you like"
-
-* _<b>Sin</b> a bhfuil ann_ "<b>That is</b> what is there"
-* _<b>Cén</b> fáth a ndeachaigh sé amach?_ "For <b>what</b> reason did he go out?"
+* _<b>Ar</b> mhaith leat_ "<b>would</b> you like?"
+* _Dúirt sé <b>gur</b> múinteoir é_ "He said that he <b>was</b> a teacher"
 
 ### `Part` : participle
 
@@ -50,14 +50,13 @@ The participle verb form indicates a verbal adjective. It can be used to modify 
 * _na ndaoine <b>fásta</b>_ "the adults" _lit. "the <b>grown</b> people"_
 * _Dé Domhnaigh seo <b>caite</b>_ "this <b>past</b> Sunday"
 
-##### Introducing complement clause
 * _Tá gearán <b>déanta</b> ag Unison_ "Unison have <b>made</b> a complaint"
 * _An mothaíonn tú <b>sábháilte</b>?_ "Do you feel <b>safe</b>?"
 * _Tá a lán <b>scríofa</b> ar an ábhar seo_ "There's a lot <b>written</b> on this topic"
 
 ### `Vnoun` : verbal noun
 
-Verbal nouns are nouns that take the form of a verb. They may be used to introduce a clausal complement, (see [xcomp](ga-dep/xcomp)), as a conjunct, or as a root of the sentence. The noun is preceded by the preposition <b>ag</b> which loosely translates to "in the process of" in this situation.
+Verbal nouns are similar to an infinitive verb in English, however they function as a noun rather than a verb. They may be used to introduce a clausal complement, (see [xcomp](ga-dep/xcomp)), as a conjunct, or as a root of the sentence. The noun is preceded by the preposition <b>ag</b> which loosely translates to "in the process of" in this context. The object of the verbal noun is in the genitive case (see [Case](ga/feat/all.html#gen--genitive-case)).
 
 #### Examples
 
