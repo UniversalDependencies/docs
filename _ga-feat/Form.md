@@ -66,7 +66,7 @@ These are some of the environments that trigger lenition:
 
 ### `HPref` : h-prefix
 
-In cases where a word causes neither lenition nor eclipsis and ends in a vowel, it will cause a h-prefix to attach the following word if that word begins with a vowel. 
+When two vowels come together in Irish, a h-prefix is inserted before the second vowel in order to simplify pronunciation.
 
 #### Examples
 
