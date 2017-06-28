@@ -1,7 +1,7 @@
 -
   name: Aux chain
   required_empty: true
-  expr: _ <aux (_ <aux _)
+  expr: "_ <aux|<aux:pass|<cop (_ <aux|<aux:pass|<cop _)"
   desc: Auxiliary dependencies should not form a chain.
   pos_ex: "Do you think that he will have left when we come ?\naux(think, Do)\naux(left, will)\naux(left, have)"
   neg_ex: "Do you think that he will have left when we come ?\naux(think, Do)\naux(have, will)\naux(left, have)"
