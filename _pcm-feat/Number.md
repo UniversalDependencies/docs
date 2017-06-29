@@ -11,3 +11,14 @@ udver: '2'
   <td><a href="#Plur">Plur</a></td>
 </tr>
 </table>
+
+This feature typically applies to [nouns](pcm-pos/NOUN), [pronouns](pcm-pos/PRON) and [determiners](pcm-pos/DET).
+
+### <a name="Sing">`Sing`</a>: singular
+
+#### Example
+
+### <a name="Plur">`Plur`</a>: plural
+
+#### Example
+
