@@ -50,6 +50,60 @@ udver: '2'
 
 #### Comparatives
 
+In Naija, comparatives follow the same pattern as SVCs, with the adjective acting like a verb, followed by the verb “pass” which is its dependant.
+
+~~~ conllu
+# visual-style 3 4 obj	color:blue
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 5 7 obj	color:blue
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+1	na	na	PART	PART	_	3	cop	_	_
+2	di	the	DET DET	_	3	det	_	_
+3	time	time	NOUN NOUN	_	0	root	_	_
+4	wey	where	SCONJ	SCONJ	_	6	mark	_	_
+5	dem	they	PRON PRON	_	6	nsubj	_	_
+6	drink	drink	VERB VERB	_	3	acl:relcl	_	_
+7	na	na	PART	PART	_	11	mark	_	_
+8	im	he	PRON	PRON	_	7	goeswith	_	_
+9	dem	they	PRON	PRON	_	11	nsubj	_	_
+10	dey	be	AUX	AUX	_	11	aux	_	_
+11	sharp	sharp	ADJ	ADJ	_	3	acl:cleft	_	_
+12	pass	pass	VERB	VERB	_	11	compound:svc	_	_
+
+1	na	_	_	_	_	0	_	_	_
+2	the	_	_	_	_	0	_	_	_
+3	time 	_	_	_	_	0	_	_	_
+4	where	_	_	_	_	0	_	_	_
+5	they	_	_	_	_	0	_	_	_
+6	drink	_	_	_	_	0	_	_	_
+7	na	_	_	_	_	0	_	_	_
+8	he	_	_	_	_	0	_	_	_
+9	they	_	_	_	_	0	_	_	_
+10	be	_	_	_	_	0	_	_	_
+11	sharp	_	_	_	_	0	_	_	_
+12	pass	_	_	_	_	0	_	_	_
+
+1	it	_	_	_	_	0	_	_	_
+2	is	_	_	_	_	0	_	_	_
+3	when 	_	_	_	_	0	_	_	_
+4	they	_	_	_	_	0	_	_	_
+5	have	_	_	_	_	0	_	_	_
+6	taken	_	_	_	_	0	_	_	_
+7	alcohol	_	_	_	_	0	_	_	_	
+8	that	_	_	_	_	0	_	_	_	
+9	they	_	_	_	_	0	_	_	_	
+10	are	_	_	_	_	0	_	_	_	
+11 sharper	_	_	_	_	0	_	_	_	
+
+~~~
+
+
 #### Superlatives
 
 ### Clefts
