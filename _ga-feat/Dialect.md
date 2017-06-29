@@ -4,7 +4,7 @@ title: 'Dialect'
 shortdef: 'Dialect'
 ---
 
-In Irish, three main dialects are found, with certain grammatical and lexical variations between the dialects. Words or grammatical features in the treebank which were judged to belong to a particular dialect were marked with the Dialect feature.
+In Irish, there are three main dialects, with certain grammatical and lexical variations between the dialects. Words or grammatical features in the treebank which were judged to belong to a particular dialect were marked with the Dialect feature.
 
 `Connaught` : Connaught dialect
 
