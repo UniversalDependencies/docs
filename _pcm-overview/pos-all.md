@@ -25,4 +25,3 @@ The following table lists the part of speech used in UD v2 for Naija.
 {% endif %}
 <a href="{{ site.git_edit }}/{% if p.collection %}{{ p.relative_path }}{% else %}{{ p.path }}{% endif %}" target="#">edit {{ p.title }}</a>
 {% endfor %}
-
