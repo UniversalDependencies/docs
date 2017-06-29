@@ -24,7 +24,7 @@ The relation `aux` is used between an auxiliary verb and the governor of a predi
 5	thing	thing	NOUN	NOUN	_	3	obj	_
 
 1	we	_	_	_	_	0	_	_	_
-2	PERF	_	_	_	_	0	_	_	_
+2	have	_	_	_	_	0	_	_	_
 3	discover	_	_	_	_	0	_	_	_
 4	this	_	_	_	_	0	_	_	_	
 5	thing	_	_	_	_	0	_	_	_	
@@ -56,7 +56,7 @@ The relation `aux` is used between an auxiliary verb and the governor of a predi
 
 1	him	_	_	_	_	0	_	_	_
 2	will	_	_	_	_	0	_	_	_
-3	REAL	_	_	_	_	0	_	_	_
+3	come	_	_	_	_	0	_	_	_
 4	arrive	_	_	_	_	0	_	_	_
 5	Ogere	_	_	_	_	0	_	_	_
 6	now	_	_	_	_	0	_	_	_	
@@ -66,6 +66,8 @@ The relation `aux` is used between an auxiliary verb and the governor of a predi
 3	to	_	_	_	_	0	_	_	_
 4	Ogere	_	_	_	_	0	_	_	_	
 ~~~
+
+An auxiliary might be dependent on an adjective or an adverb, such as in the example below :
 
 ~~~ conllu
 # visual-style 4 3 aux	color:blue
@@ -90,7 +92,7 @@ The relation `aux` is used between an auxiliary verb and the governor of a predi
 
 1	if	_	_	_	_	0	_	_	_
 2	him	_	_	_	_	0	_	_	_
-3	PERF	_	_	_	_	0	_	_	_
+3	have	_	_	_	_	0	_	_	_
 4	ready	_	_	_	_	0	_	_	_	
 5	you	_	_	_	_	0	_	_	_	
 6	can	_	_	_	_	0	_	_	_	
