@@ -29,7 +29,7 @@ The plural is used when refering to several person, animals or things.
 
 Note : the [particles](pcm-pos/PART) _dem_ also has a plural value.
 
-#### Example
+#### Examples
 
 + _I happy sey <b>una</b> give me dis opportunity to talk_ "I am happy that you all have given me this opportunity to talk."
 + _I no dey interested in all <b>dose</b> wahala wey you dey talk_ " I am not interested in all those problems that you have been talking about."
