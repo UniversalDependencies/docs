@@ -40,7 +40,7 @@ Emphatic determiners emphasize the nominal they depend on. There are similaritie
 
 #### Example
 
-* _dat oder person <b>sef</b> im leave pikin leave wife for house_ "that other person too left their child and wife at home"
+* _dat oder person <b>sef</b> im leave pikin for house_ "that other person too left their child at home"
 
 ### <a name="Int">`Int`</a>: interrogative pronoun, determiner or adverb
 
