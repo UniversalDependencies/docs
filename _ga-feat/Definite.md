@@ -10,7 +10,7 @@ In Irish, definiteness is indicated through the use of a definite article singul
 
 Determiners _<b>an</b>_ and _<b>na</b>_ are both definite, as mentioned above.
 
-The noun can also indicate definiteness, though treatment depends on case, gender and number. 
+In the case of a genitive construction (eg _hata fhir an bhaile_ "the hat of the man of the town"), the noun can also indicate definiteness, though treatment depends on gender and number. 
 
 #### Nominative case
 
