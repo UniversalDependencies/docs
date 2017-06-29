@@ -30,7 +30,7 @@ Unlike the strong plural, a weak plural noun is different in the nominative, acc
 Adjectives in Irish can have endings that are slender or not slender (broad). Depending on how the preceding noun ends, the form of the adjective can change.
 
 ### `NotSlender` : broad consonants
-A final consonant is termed broad if the preceding vowel is broad (a, á, o, ó, u, ú). 
+A final consonant is termed broad if the preceding vowel is broad (a, á, o, ó, u, ú). The feature 'NotSlender' applies to adjectives qualifying a noun that ends in a broad consonant or a vowel.
 
 #### Examples
 
@@ -39,7 +39,7 @@ A final consonant is termed broad if the preceding vowel is broad (a, á, o, ó,
 
 ### `Slender` : slender consonants
 
-A final consonant is termed slender if the preceding vowel is slender (e, é, i, í).
+A final consonant is termed slender if the preceding vowel is slender (e, é, i, í). The feature 'Slender' applies to adjectives qualifying a noun that ends in a slender consonant.
 
 #### Examples
 
