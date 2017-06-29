@@ -26,7 +26,7 @@ Article is a special case of determiner that bears the feature of [definiteness]
 #### Examples
 
 * _I go see <b>one</b> pastor_ "I went to see a pastor"
-* _nobody know wetin to call <b>di</b> ting. "Nobody knows what to call the thing"
+* _nobody know wetin to call <b>di</b> ting._ "Nobody knows what to call the thing"
 
 ### <a name="Dem">`Dem`</a>:  demonstrative determiner or adverb
 
