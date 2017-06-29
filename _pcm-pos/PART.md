@@ -12,7 +12,7 @@ other universal parts of speech. Particles may encode grammatical categories suc
 
 ### The particles of Naija include :
 
-- na (copulative particle of focalization, marker of cleft clause) : 
+- na (copulative particle of focalization, marker of cleft clause) : <b>Na</b> our work we dey do.
 - no (negation) : and im <b>no</b> suppose be like dat.
 - to : And make we try drive <b>to</b> stay alive.
 - sha : we <b>sha</b> carry di man comot carry am go hospital.
