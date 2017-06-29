@@ -22,7 +22,7 @@ udver: '2'
 
 Article is a special case of determiner that bears the feature of [definiteness](Definite).
 
-#### Example
+#### Examples
 
 * _I go see <b>one</b> pastor_ "I went to see a pastor"
 * _nobody know wetin to call <b>di</b> ting. "Nobody knows what to call the thing"
@@ -52,14 +52,20 @@ Adverbial pronouns such as _wetin, what, which, who, whoever whose_ have this va
 
 ### <a name="Prs">`Prs`</a>: personal pronouns
 
+See also the [Poss]() feature that distinguishes normal personal
+pronouns from possessives. Note that `Prs` also includes reflexive
+personal/possessive pronouns.
 
+The personal pronouns of Naija include _me, I/a, ma, you, your, him, im, e, am, we us, our, una, de_
 
 #### Example
 
-
++ _<b>dem</b> go carry dis one_ "they will carry this one"
++ _forget <b>im</b>_ "forget him"
 
 ### <a name="Rcp">`Rcp`</a>: reciprocal pronoun
 
 
-
-#### Example
++ we we
++ una una
++ dem dem
