@@ -17,6 +17,7 @@ udver: '2'
 </tr>
 </table>
 
+This feature typically applies to [pronouns](pcm-pos/PRON) and [determiners](pcm-pos/DET)
 
 ### <a name="Art">`Art`</a>: article
 
