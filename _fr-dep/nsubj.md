@@ -35,6 +35,6 @@ nsubj(confiant, on)
 ~~~
 
 ~~~ sdparse
-les programmes ont aussi des erreurs \n programs also contain mistakes
-nsubj(ont, programmes)
+l'art est le reflet de la société \ art is the reflection of society
+nsubj(reflet, art)
 ~~~
