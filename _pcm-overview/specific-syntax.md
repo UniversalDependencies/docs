@@ -64,10 +64,10 @@ In Naija, comparatives follow the same pattern as SVCs, with the adjective actin
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 1	na	na	PART	PART	_	3	cop	_	_
-2	di	the	DET DET	_	3	det	_	_
+2	di	the	DET	DET	_	3	det	_	_
 3	time	time	NOUN NOUN	_	0	root	_	_
 4	wey	where	SCONJ	SCONJ	_	6	mark	_	_
-5	dem	they	PRON PRON	_	6	nsubj	_	_
+5	dem	they	PRON	PRON	_	6	nsubj	_	_
 6	drink	drink	VERB VERB	_	3	acl:relcl	_	_
 7	na	na	PART	PART	_	11	mark	_	_
 8	im	he	PRON	PRON	_	7	goeswith	_	_
@@ -99,7 +99,7 @@ In Naija, comparatives follow the same pattern as SVCs, with the adjective actin
 8	that	_	_	_	_	0	_	_	_	
 9	they	_	_	_	_	0	_	_	_	
 10	are	_	_	_	_	0	_	_	_	
-11 sharper	_	_	_	_	0	_	_	_	
+11	sharper	_	_	_	_	0	_	_	_	
 
 ~~~
 
