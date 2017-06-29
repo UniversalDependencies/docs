@@ -13,7 +13,7 @@ expresses a semantic relationship between them.
 
 For _subordinating conjunctions,_ see [SCONJ]().
 
-### The coordinating conjunction of Naija include :
+### The coordinating conjunctions of Naija include :
 
 - and : You dey use phone <b>and</b> you dey drive.
 - or : If you want drink and drive drink wata <b>or</b> drink coke.
