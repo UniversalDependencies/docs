@@ -8,7 +8,7 @@ udver: '2'
 
 # POS tags
 
-The following table lists the part of speech used in UD v2 for Naija.
+The following table lists the part of speech used in UD v2 for Naija. 
 
 {% include pcm-pos-table.html %}
 
