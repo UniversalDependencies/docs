@@ -53,22 +53,17 @@ udver: '2'
 In Naija, comparatives follow the same pattern as SVCs, with the adjective acting like a verb, followed by the verb “pass” which is its dependant.
 
 ~~~ conllu
-# visual-style 3 4 obj	color:blue
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 5 7 obj	color:blue
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
+# visual-style 11 12 obj	color:blue
+# visual-style 11	bgColor:blue
+# visual-style 11	fgColor:white
+# visual-style 12	bgColor:blue
+# visual-style 12	fgColor:white
 1	na	na	PART	PART	_	3	cop	_	_
 2	di	the	DET	DET	_	3	det	_	_
 3	time	time	NOUN NOUN	_	0	root	_	_
 4	wey	where	SCONJ	SCONJ	_	6	mark	_	_
 5	dem	they	PRON	PRON	_	6	nsubj	_	_
-6	drink	drink	VERB VERB	_	3	acl:relcl	_	_
+6	drink	drink	VERB	VERB	_	3	acl:relcl	_	_
 7	na	na	PART	PART	_	11	mark	_	_
 8	im	he	PRON	PRON	_	7	goeswith	_	_
 9	dem	they	PRON	PRON	_	11	nsubj	_	_
