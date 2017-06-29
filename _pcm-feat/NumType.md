@@ -14,7 +14,7 @@ udver: '2'
 </tr>
 </table>
 
-### <a name="Card">`Card`</a>: cardinal number or corresponding interrogative / relative / indefinite / demonstrative word
+### <a name="Card">`Card`</a>: cardinal number
 
 This value is used for cardinal numbers, i.e tokens which are used to count.
 
@@ -22,7 +22,7 @@ This value is used for cardinal numbers, i.e tokens which are used to count.
 
 + _you go bring <b> five hundred </b> naira_ "you will bring five hundred naira"
 
-### <a name="Ord">`Ord`</a>: ordinal number or corresponding interrogative / relative / indefinite / demonstrative word
+### <a name="Ord">`Ord`</a>: ordinal number
 
  This value is used for ordinal numbers, i.e tokens indicating a position or rank such as _second, fourth_...
 
