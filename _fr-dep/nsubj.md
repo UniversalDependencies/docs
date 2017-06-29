@@ -35,6 +35,6 @@ nsubj(confiant, on)
 ~~~
 
 ~~~ sdparse
-l'art est le reflet de la société \ art is the reflection of society
+l' art est le reflet de la société \n art is the reflection of society
 nsubj(reflet, art)
 ~~~
