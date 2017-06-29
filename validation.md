@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-06-27T06:47:22Z">2017-06-27T06:47:22 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-06-29T11:01:45Z">2017-06-29T11:01:45 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -1506,28 +1506,42 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang gl_treegal /home/ginter
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD German</span>
 <span class="widespan">de</span>
-<span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-06-25T17:07:53Z">2017-06-25T17:07:53 zulu</time></span>
+<span class="validationfail">FAIL</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-06-29T11:01:26Z">2017-06-29T11:01:26 zulu</time></span>
 </div>
 <div>
 <pre>
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang de /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_German/de-ud-dev.conllu
+python tools/validate.py --lang de UD-dev-branches/UD_German/de-ud-dev.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang de /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_German/de-ud-test.conllu
+python tools/validate.py --lang de UD-dev-branches/UD_German/de-ud-test.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang de /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_German/de-ud-train.conllu
+python tools/validate.py --lang de UD-dev-branches/UD_German/de-ud-train.conllu
 
-*** PASSED ***
+[Line                   49614]: SpaceAfter=No is missing in the MISC field of node #8-9 because the text is 'im.'
+[Line                   242315]: Unknown attribute-value pair AdpType=Prep
+[Line                   242320]: Unknown attribute-value pair AdpType=Prep
+[Line                   253990]: Unknown attribute-value pair AdpType=Prep
+[Line                   253994]: Unknown attribute-value pair AdpType=Prep
+[Line                   264956]: Unknown attribute-value pair AdpType=Prep
+[Line                   274540]: Unknown attribute-value pair AdpType=Prep
+[Line                   290796]: Unknown attribute-value pair AdpType=Prep
+[Line                   292802]: Unknown attribute-value pair AdpType=Prep
+[Line                   292925]: Unknown attribute-value pair AdpType=Prep
+[Line                   306120]: Unknown attribute-value pair AdpType=Prep
+[Line                   309237]: Unknown attribute-value pair AdpType=Prep
+*** FAILED *** with 12 errors
+Metadata errors: 1
+Morpho errors: 11
 
 
 ******************
