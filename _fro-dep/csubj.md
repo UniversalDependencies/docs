@@ -5,8 +5,8 @@ shortdef: 'clausal subject'
 udver: '2'
 ---
 
-This document is a placeholder for the language-specific documentation
-for `csubj`.
+A clausal subject (`csubj`) is a clausal syntactic subject of a clause, i.e., the subject is itself a clause. 
+The governor of this relation might not always be a verb: when the verb is a copular verb, the root of the clause is the complement of the copular verb. The dependent is the main lexical verb or other predicate of the subject clause. 
 
 ~~~ conllu
 # visual-style 10 7 csubj	color:blue
