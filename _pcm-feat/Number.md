@@ -27,6 +27,8 @@ The singular is used when refering to one person, animal or thing.
 
 The plural is used when refering to several person, animals or things. 
 
+Note : the [particles](pcm-pos/PART) _dem_ also has a plural value.
+
 #### Example
 
 + _I happy sey <b>una</b> give me dis opportunity to talk_ "I am happy that you all have given me this opportunity to talk."
