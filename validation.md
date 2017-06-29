@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-06-29T13:32:25Z">2017-06-29T13:32:25 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-06-29T14:16:48Z">2017-06-29T14:16:48 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -1506,8 +1506,8 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang gl_treegal /home/ginter
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD German</span>
 <span class="widespan">de</span>
-<span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-06-29T13:32:07Z">2017-06-29T13:32:07 zulu</time></span>
+<span class="validationpass">PASS</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-06-29T14:16:29Z">2017-06-29T14:16:29 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -1527,9 +1527,7 @@ python tools/validate.py --lang de UD-dev-branches/UD_German/de-ud-test.conllu
 
 python tools/validate.py --lang de UD-dev-branches/UD_German/de-ud-train.conllu
 
-[Line                   49614]: SpaceAfter=No is missing in the MISC field of node #8-9 because the text is 'im.'
-*** FAILED *** with 1 errors
-Metadata errors: 1
+*** PASSED ***
 
 
 ******************
