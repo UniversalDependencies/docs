@@ -16,3 +16,50 @@ udver: '2'
   <td><a href="#Rcp">Rcp</a></td>
 </tr>
 </table>
+
+
+### <a name="Art">`Art`</a>: article
+
+Article is a special case of determiner that bears the feature of [definiteness](Definite).
+
+#### Example
+
+* _I go see <b>one</b> pastor_ "I went to see a pastor"
+* _nobody know wetin to call <b>di</b> ting. "Nobody knows what to call the thing"
+
+### <a name="Dem">`Dem`</a>:  demonstrative determiner or adverb
+
+#### Example
+
+* _na me park <b>dis</b> car_ "I'm the one who parked this car"
+
+### <a name="Emp">`Emp`</a>: emphatic determiner
+
+Emphatic determiners emphasize the nominal they depend on. There are similarities with reflexive and demonstrative pronouns / determiners.
+
+#### Example
+
+* _dat oder person <b>sef</b> im leave pikin leave wife for house_ "that other person too left their child and wife at home"
+
+### <a name="Int">`Int`</a>: interrogative pronoun, determiner or adverb
+
+Adverbial pronouns such as _wetin, what, which, who, whoever whose_ have this value unless they mark the beginning of a [relative clause](pcm-dep/acl:relcl) or a [cleft](http://universaldependencies.org/pcm/overview/specific-syntax.html#clefts)
+.
+
+#### Example
+
+* _<b>who</b> know wetin make di trailer driver lose control of im steer_ "who knows what made the driver of the trailer lose control of the steer ?"
+
+### <a name="Prs">`Prs`</a>: personal pronouns
+
+
+
+#### Example
+
+
+
+### <a name="Rcp">`Rcp`</a>: reciprocal pronoun
+
+
+
+#### Example
