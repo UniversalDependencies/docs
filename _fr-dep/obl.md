@@ -32,7 +32,7 @@ case(Paris, à)
 ~~~ sdparse
 Selon ma voisine , le gardien vole parfois des colis. \n According to my neighbour, the caretaker sometimes steals packages.
 obl:periph(vole, voisine)
-case(voisine, selon)
+case(voisine, Selon)
 ~~~
 
 
