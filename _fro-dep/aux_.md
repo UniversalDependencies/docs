@@ -7,9 +7,7 @@ shortdef: 'auxiliary'
 redirect_from: "fro/dep/aux.html"
 udver: '2'
 ---
-
-This document is a placeholder for the language-specific documentation
-for `aux`.
+An `aux` (auxiliary) of a clause is a function word associated with a verbal predicate that expresses categories such as tense, mood, aspect, voice or evidentiality. 
 
 ~~~ conllu
 # visual-style 4 3 aux	color:blue
@@ -24,6 +22,7 @@ for `aux`.
 
 ~~~
 
+Auxiliares used to construct the passive voice are also labeled aux:pass.
 ~~~ conllu
 # visual-style 11 4 aux\:pass	color:blue
 # visual-style 9	bgColor:blue
@@ -44,3 +43,18 @@ for `aux`.
 
 ~~~
 
+In Old French, modal verbs are considered as semi-auxiliaries.
+These semi-auxiliaries include voloir, devoir, povoir, savoir, soloir.
+
+~~~ conllu
+# visual-style 4 3 aux	color:blue
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+1	Mais	_	CCONJ	CONcoo	_	4	cc:nc	_	_
+2	je	_	PRON	PROper	_	4	nsubj	_	_
+3	doi	_	VERB	VERcjg	_	4	aux	_	_
+4	plorer	_	VERB	VERinf	_	0	root	_	_
+
+~~~
