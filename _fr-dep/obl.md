@@ -7,6 +7,12 @@ udver: '2'
 
 In UDv2, the `obl` relation is used for a nominal dependent of a verb. However, this dependent is neither a subject (for which we use the [nsubj]() relation) nor a direct object (for which we use the [obj]() relation).
 
+~~~ sdparse
+Sara donne une fleur à Tom. \n Sara gives a flower to Tom.
+obl(donne, Tom)
+case(Tom, à)
+~~~
+
 In FrenchSpoken, we use the [obl:mod]() relation when the dependent is a modifier of the verb and the [obl:comp]() relation when the dependent is a core argument of the verb. We also use the [obl:periph]() relation for some of the non-core nominal dependents of the verb.
 
 Here are a few examples :
