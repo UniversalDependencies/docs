@@ -12,6 +12,7 @@ Here is an example from FrenchSpoken :
 ~~~ sdparse
 vous sortez euh de la euh commune de Pontamafrey \n you go out uh of the uh municipality of Pontamafrey
 obl:comp(sortez, commune)
+case(commune, de)
 ~~~
 
 For prepositional phrases which are not required by the verb (or the adjective) but modify the verb (or the adjective), we use the [obl:mod]() relation.
