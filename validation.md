@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-06-29T14:16:48Z">2017-06-29T14:16:48 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-07-01T13:24:54Z">2017-07-01T13:24:54 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -3071,12 +3071,64 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang sa /home/ginter/UD_PROJ
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD Serbian</span>
 <span class="widespan">sr</span>
-<span class="validationfail">EMPTY</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-06-25T17:14:21Z">2017-06-25T17:14:21 zulu</time></span>
+<span class="validationfail">FAIL</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-07-01T13:24:48Z">2017-07-01T13:24:48 zulu</time></span>
 </div>
 <div>
 <pre>
-No data
+python tools/validate.py --lang sr UD-dev-branches/UD_Serbian/sr-ud.conllu
+
+[Line                   272]: Unknown UD DEPREL: det:numgov
+[Line                   453]: Unknown UD DEPREL: nummod:gov
+[Line                   492]: Unknown UD DEPREL: det:numgov
+[Line                   633]: Unknown UD DEPREL: nummod:gov
+[Line                   654]: Unknown UD DEPREL: nummod:gov
+[Line                   711]: Unknown UD DEPREL: det:numgov
+[Line                   776]: Unknown UD DEPREL: det:numgov
+[Line                   856]: Unknown UD DEPREL: nummod:gov
+[Line                   927]: Unknown UD DEPREL: nummod:gov
+[Line                   944]: Unknown UD DEPREL: nummod:gov
+[Line                   954]: Unknown UD DEPREL: nummod:gov
+[Line                   1224]: Unknown UD DEPREL: nummod:gov
+[Line                   1236]: Unknown UD DEPREL: nummod:gov
+[Line                   1244]: Unknown UD DEPREL: nummod:gov
+[Line                   1267]: Unknown UD DEPREL: nummod:gov
+[Line                   1557]: Unknown UD DEPREL: nummod:gov
+[Line                   1988]: Unknown UD DEPREL: det:numgov
+[Line                   2180]: Unknown UD DEPREL: det:numgov
+[Line                   2215]: Unknown UD DEPREL: nummod:gov
+...suppressing further errors regarding Syntax
+[Line                   6815]: Unknown attribute-value pair NumType=Gen
+[Line                   6837]: Unknown attribute-value pair NumType=Gen
+[Line                   6864]: Unknown attribute-value pair NumType=Gen
+[Line                   9480]: Unknown attribute-value pair NumType=Gen
+[Line                   11898]: Unknown attribute-value pair NumType=Gen
+[Line                   14779]: Unknown attribute-value pair NumType=Gen
+[Line                   15853]: Unknown attribute-value pair NumType=Gen
+[Line                   16157]: Unknown attribute-value pair NumType=Gen
+[Line                   17755]: Unknown attribute-value pair NumType=Gen
+[Line                   18449]: Unknown attribute-value pair NumType=Gen
+[Line                   19803]: Unknown attribute-value pair NumType=Gen
+[Line                   24339]: Unknown attribute-value pair NumType=Gen
+[Line                   24688]: Unknown attribute-value pair NumType=Gen
+[Line                   27643]: Unknown attribute-value pair NumType=Gen
+[Line                   28127]: Unknown attribute-value pair NumType=Gen
+[Line                   28271]: Unknown attribute-value pair NumType=Gen
+[Line                   28284]: Unknown attribute-value pair NumType=Gen
+[Line                   34630]: Unknown attribute-value pair NumType=Gen
+[Line                   34928]: Unknown attribute-value pair NumType=Gen
+...suppressing further errors regarding Morpho
+*** FAILED *** with 753 errors
+Morpho errors: 35
+Syntax errors: 718
+The language-specific file /home/ginter/UD_PROJHOOK/tools/data/deprel.sr does not exist.
+The language-specific file /home/ginter/UD_PROJHOOK/tools/data/feat_val.sr does not exist.
+python conllu-stats.py --catvals=langspec yourdata/*.conllu > /home/ginter/UD_PROJHOOK/tools/data/feat_val.sr
+
+
+******************
+
+
 </pre>
 </div>
 <div>
