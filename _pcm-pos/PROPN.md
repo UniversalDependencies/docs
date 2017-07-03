@@ -9,6 +9,8 @@ udver: '2'
 
 A proper noun is a noun (or nominal content word) that is the name (or part of the name) of a specific individual, place, or object.
 
+See [NOUN]() for nouns and [PRON]() for pronouns.
+
 ### Examples in Naija : 
 
 - Right now we dey <b>Ifesinachi</b> park for <b>Dugbe</b> for <b>Ibadan</b>.
