@@ -24,7 +24,7 @@ The `compound:prt` relation is used for the particles of idiomatic phrasal verbs
 6	rain	rain	NOUN	NOUN	_	3	obj	_	_
 
 
-1	JUS	_	_	_	_	0	_	_	_
+1	let	_	_	_	_	0	_	_	_
 2	God	_	_	_	_	0	_	_	_
 3	send	_	_	_	_	0	_	_	_
 4	down	_	_	_	_	0	_	_	_
