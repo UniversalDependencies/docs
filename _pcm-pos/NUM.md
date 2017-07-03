@@ -11,6 +11,8 @@ A numeral is a word, functioning most typically as a determiner,
 adjective or pronoun, that expresses a number and a relation to the
 number, such as quantity, sequence, frequency or fraction.
 
+See [DET]() for determiners.
+
 ### Examples in Naija
 
 - <b>Fifty eight</b> percent of accident wey im happen for road na overspeeding naim dey cause am.
