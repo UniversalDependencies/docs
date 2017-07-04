@@ -150,7 +150,7 @@ In Naija, two links are used for cleft sentences :
 # visual-style 4	fgColor:white
 1	na	na	PART	PART	_	3	cop	_	_
 2	our	our	PRON	PRON	_	3	nmod:pass	_	_
-3	right	right	NOUN NOUN	_	0	root	_	_
+3	right	right	NOUN	NOUN	_	0	root	_	_
 4	be	be	VERB	VERB	_	3	acl:cleft	_	_
 5	dat	that	PRON	PRON	_	4	nsubj	_	_
 
