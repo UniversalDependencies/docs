@@ -143,11 +143,11 @@ In Naija, two links are used for cleft sentences :
 - [acl:cleft]() in other cases.
 
 ~~~ conllu
-# visual-style 2 6 ccomp:cleft	color:blue
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
+# visual-style 3 4 ccomp:cleft	color:blue
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
 1	na	na	PART	PART	_	3	cop	_	_
 2	our	our	PRON	PRON	_	3	nmod:pass	_	_
 3	right	right	NOUN NOUN	_	0	root	_	_
