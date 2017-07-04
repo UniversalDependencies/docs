@@ -106,6 +106,7 @@ In Naija, comparatives follow the same pattern as SVCs, with the adjective actin
 A cleft sentence is a complex sentence (one having a main clause and a dependent clause) that has a meaning that could be expressed by a simple sentence. Clefts typically put a particular constituent into focus.
 
 In Naija, two links are used for cleft sentences : 
+
 - [ccomp:cleft]() is used when a clause or an adverb is clefted
 
 ~~~ conllu
@@ -116,7 +117,7 @@ In Naija, two links are used for cleft sentences :
 # visual-style 6	fgColor:white
 1	na	na	PART	PART	_	2	cop	_	_
 2	why	why	ADV	ADV	_	0	root	_	_
-3	drink	drink	VERB VERB	_	6	csubj	_	_
+3	drink	drink	VERB	VERB	_	6	csubj	_	_
 4	drive	drive	VERB	VERB	_	3	compound:svc	_	_
 5	no	not	PART	PART	_	6	advmod	_	_
 6	good	good	ADJ	ADJ	_	2	ccomp:cleft	_	_
