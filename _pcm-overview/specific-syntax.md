@@ -169,8 +169,6 @@ In Naija, two links are used for cleft sentences :
 
 We can also note that the “na” particle is used as a mark of focalization.
 
-
-
 ### Dislocations
 
 ### Paratactic constructions
@@ -178,6 +176,87 @@ We can also note that the “na” particle is used as a mark of focalization.
 #### Juxtaposition
 
 #### Reported Speech
+
+- indirect speech 
+
+In naija, indirect speech are often introduced by the subordinate conjunction "sey" and the link [ccomp]() is used.
+
+~~~ conllu
+# visual-style 3 8 ccomp	color:blue
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+1	dem	they	PRON	PRON	_	3	nsubj	_	_
+2	just	just	ADV	ADV	_	3	advmod	_	_
+3	tell	tell	VERB	VERB	_	0	root	_	_
+4	am	he	PRON	PRON	_	3	iobj	_	_
+5	sey	that	SCONJ	SCONJ	_	8	mark	_	_
+6	im	he	PRON	PRON	_	7	nmod:poss	_	_
+7	daughter	daughter	NOUN	NOUN	_	8	nsubj	_	_
+8	fall	fall	VERB	VERB	_	3	ccomp	_	_
+
+1	they	_	_	_	_	0	_	_	_
+2	just	_	_	_	_	0	_	_	_
+3	tell 	_	_	_	_	0	_	_	_
+4	he	_	_	_	_	0	_	_	_
+5	that	_	_	_	_	0	_	_	_
+6	he	_	_	_	_	0	_	_	_
+7	daughter	_	_	_	_	0	_	_	_
+8	fall	_	_	_	_	0	_	_	_
+
+1	they	_	_	_	_	0	_	_	_
+2	just	_	_	_	_	0	_	_	_
+3	told 	_	_	_	_	0	_	_	_
+4	him	_	_	_	_	0	_	_	_
+5	that	_	_	_	_	0	_	_	_
+6	his	_	_	_	_	0	_	_	_
+7	daughter	_	_	_	_	0	_	_	_
+8	fell	_	_	_	_	0	_	_	_
+
+~~~
+
+- direct speech
+
+For direct speech, the link [parataxis:obj]() is used.
+
+~~~ conllu
+# visual-style 2 6 parataxis:obj	color:blue
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+1	dem	they	PRON	PRON	_	2	nsubj	_	_
+2	say	say	VERB	VERB	_	0	root	_	_
+3	"ah"	"ah"	INTJ	INTJ	_	6	discourse	_	_
+4	"ah"	"ah"	INTJ	INTJ	_	3	goeswith	_	_
+5	who	who	PRON	PRON	_	6	nsubj	_	_
+6	kill	kill	VERB	VERB	_	2	parataxis:obj	_	_
+7	dis	this	DET	DET	_	8	det	_	_
+8	animal	animal	NOUN	NOUN	_	6	obj	_	_
+
+
+1	They	_	_	_	_	0	_	_	_
+2	say	_	_	_	_	0	_	_	_
+3	ah	_	_	_	_	0	_	_	_
+4	ah	_	_	_	_	0	_	_	_
+5	who	_	_	_	_	0	_	_	_
+6	kill	_	_	_	_	0	_	_	_
+7	this	_	_	_	_	0	_	_	_
+8	animal	_	_	_	_	0	_	_	_
+
+1	They	_	_	_	_	0	_	_	_
+2	say	_	_	_	_	0	_	_	_
+3	"ah"	_	_	_	_	0	_	_	_
+4	"ah"	_	_	_	_	0	_	_	_
+5	who	_	_	_	_	0	_	_	_
+6	killed	_	_	_	_	0	_	_	_
+7	this	_	_	_	_	0	_	_	_
+8	animal	_	_	_	_	0	_	_	_
+
+~~~
 
 ### na
 
