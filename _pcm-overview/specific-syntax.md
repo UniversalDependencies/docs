@@ -103,6 +103,73 @@ In Naija, comparatives follow the same pattern as SVCs, with the adjective actin
 
 ### Clefts
 
+A cleft sentence is a complex sentence (one having a main clause and a dependent clause) that has a meaning that could be expressed by a simple sentence. Clefts typically put a particular constituent into focus.
+
+In Naija, two links are used for cleft sentences : 
+- [ccomp:cleft]() is used when a clause or an adverb is clefted
+
+~~~ conllu
+# visual-style 2 6 ccomp:cleft	color:blue
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+1	na	na	PART	PART	_	2	cop	_	_
+2	why	why	ADV	ADV	_	0	root	_	_
+3	drink	drink	VERB VERB	_	6	csubj	_	_
+4	drive	drive	VERB	VERB	_	3	compound:svc	_	_
+5	no	not	PART	PART	_	6	advmod	_	_
+6	good	good	ADJ	ADJ	_	2	ccomp:cleft	_	_
+
+1	na	_	_	_	_	0	_	_	_
+2	why	_	_	_	_	0	_	_	_
+3	drink 	_	_	_	_	0	_	_	_
+4	drive	_	_	_	_	0	_	_	_
+5	not	_	_	_	_	0	_	_	_
+6	good	_	_	_	_	0	_	_	_
+
+1	That	_	_	_	_	0	_	_	_
+2	is	_	_	_	_	0	_	_	_
+3	why 	_	_	_	_	0	_	_	_
+4	drunk	_	_	_	_	0	_	_	_
+5	driving	_	_	_	_	0	_	_	_
+6	is	_	_	_	_	0	_	_	_
+7	not	_	_	_	_	0	_	_	_	
+8	good	_	_	_	_	0	_	_	_	
+
+~~~
+
+- [acl:cleft]() in other cases.
+
+~~~ conllu
+# visual-style 2 6 ccomp:cleft	color:blue
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+1	na	na	PART	PART	_	3	cop	_	_
+2	our	our	PRON	PRON	_	3	nmod:pass	_	_
+3	right	right	NOUN NOUN	_	0	root	_	_
+4	be	be	VERB	VERB	_	3	acl:cleft	_	_
+5	dat	that	PRON	PRON	_	4	nsubj	_	_
+
+1	na	_	_	_	_	0	_	_	_
+2	our	_	_	_	_	0	_	_	_
+3	right 	_	_	_	_	0	_	_	_
+4	be	_	_	_	_	0	_	_	_
+5	that	_	_	_	_	0	_	_	_
+
+1	It	_	_	_	_	0	_	_	_
+2	is	_	_	_	_	0	_	_	_
+3	our 	_	_	_	_	0	_	_	_
+4	right	_	_	_	_	0	_	_	_
+
+~~~
+
+We can also note that the “na” particle is used as a mark of focalization.
+
+
+
 ### Dislocations
 
 ### Paratactic constructions
