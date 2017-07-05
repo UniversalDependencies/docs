@@ -1,0 +1,16 @@
+---
+layout: relation
+title: 'nsubj:expl'
+shortdef: 'expletiv nominal subject'
+udver: '2'
+---
+
+In FrenchSpoken we decided not to use the [expl]() relation. Instead we only use a subrelation for impersonal constructions:
+
+~~~ sdparse
+il est arrivé un malheur \n something bad happened
+nsubj:expl(arrivé, il)
+nsubj:quasi(arrivé, malheur)
+~~~
+
+The use of the `nsubj:expl` relation also enables us to differenciate between a few structures.
