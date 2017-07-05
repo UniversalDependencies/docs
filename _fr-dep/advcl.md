@@ -29,5 +29,5 @@ In FrenchSpoken we also use the `advcl`relation. Here are some examples:
 ~~~ sdparse
 ils ont fait médecine parce que euh ça va être un métier stable \n they studied medecine because uh it's gonna be a steady job
 advcl(fait, va)
-mark(va, parce que)
+mark(va, parce)
 ~~~
