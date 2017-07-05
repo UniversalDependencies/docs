@@ -44,10 +44,9 @@ obj(souvient, se)
 For euphonic elements, we consider them as allomorphs. For example in _a-t-elle bien dormi ?_ we consider that _-t-elle_ is an allomorph of the pronoun _elle_:
 
 ~~~ sdparse
-a - t - elle bien dormi ? \n did she sleep well?
-nsubj(a,-)
-goeswith(-,t)
-goeswith(t,-)
+a -t - elle bien dormi ? \n did she sleep well?
+nsubj(a,-t)
+goeswith(-t,-)
 goeswith(-,elle)
 ~~~
 
