@@ -31,3 +31,9 @@ ils ont fait médecine parce que euh ça va être un métier stable \n they stud
 advcl(fait, va)
 mark(va, parce)
 ~~~
+
+~~~ sdparse
+ça donne un aspect plus moderne quand même si tu mets le tissu tout autour \n it gives a more modern look if you put the fabric all around 
+advcl(donne, mets)
+mark(mets, si)
+~~~
