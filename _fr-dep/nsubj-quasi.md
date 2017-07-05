@@ -1,6 +1,6 @@
 ---
 layout: relation
-title: 'nsubj:expl'
+title: 'nsubj:quasi'
 shortdef: 'quasi nominal subject'
 udver: '2'
 ---
