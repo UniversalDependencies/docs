@@ -1,7 +1,7 @@
 ---
 layout: relation
 title: 'nsubj:expl'
-shortdef: 'expletiv nominal subject'
+shortdef: 'expletive nominal subject'
 udver: '2'
 ---
 
