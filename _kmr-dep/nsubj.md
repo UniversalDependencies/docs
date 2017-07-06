@@ -12,9 +12,9 @@ nsubj(Şerlok, ez)
 nsubj(Sherlock, I)
 ~~~
 ~~~ sdparse
-Ez kenîm û min got : ... \n I laughed and I said : ...
-nsubj(kenîn, ez)
-nsubj(laugh, I)
-nsubj(gotin, min)
-nsubj(say, me)
+Ez kenîm û min got : ... \n I laughed and I‌ said : ...
+nsubj(kenîm, Ez)
+nsubj(laughed, I)
+nsubj(got, min)
+nsubj(said, I‌)
 ~~~
