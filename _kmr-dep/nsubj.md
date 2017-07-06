@@ -8,7 +8,7 @@ shortdef: 'nominal subject'
 
 ~~~ sdparse
 Ez Şerlok Holmes im, ev jî hevalê min ê ezîz Wetsin e . \n I am Sherlock Holmes  , and this is my dear friend Watson .
-nsubj(Şerlok, ez)
+nsubj(Şerlok, Ez)
 nsubj(Sherlock, I)
 ~~~
 ~~~ sdparse
