@@ -1,7 +1,7 @@
 ---
 layout: relation
-title: 'dobj'
-shortdef: 'direct object'
+title: 'obj'
+shortdef: 'object'
 ---
 
 `obj` relations are used for noun phrases that are objects of their clauses. Due to Kurmanji's split ergativity, they are usually inflected in the oblique (or the superseding construct), but when they are objects of transitive verbs in a past tense they are inflected in the nominative case.
