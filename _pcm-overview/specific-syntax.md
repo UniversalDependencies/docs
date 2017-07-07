@@ -53,7 +53,7 @@ udver: '2'
 In Naija, comparatives follow the same pattern as SVCs, with the adjective acting like a verb, followed by the verb “pass” which is its dependant.
 
 ~~~ conllu
-# visual-style 11 12 obj	color:blue
+# visual-style 11 12 compound:svc	color:blue
 # visual-style 11	bgColor:blue
 # visual-style 11	fgColor:white
 # visual-style 12	bgColor:blue
@@ -143,7 +143,7 @@ In Naija, two links are used for cleft sentences :
 - [acl:cleft]() in other cases.
 
 ~~~ conllu
-# visual-style 3 4 ccomp:cleft	color:blue
+# visual-style 3 4 acl:cleft	color:blue
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 4	bgColor:blue
