@@ -7,6 +7,7 @@ udver: '2'
 
 In Naija we do not to use the expl relation. Instead we use the `nsubj:expl` subrelation for impersonal constructions:
 
+
 # visual-style 2 1 nsubj:expl	color:blue
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
