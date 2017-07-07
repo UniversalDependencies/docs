@@ -18,7 +18,7 @@ See the link [iobj]() for dative objects of the verb when a verb has more than o
 1	you	you	PRON	PRON	_	3	nsubj	_	_
 2	go	will	AUX	AUX	_	3	aux	_	_
 3	change	change	VERB	VERB	_	0	root	_	_
-4	di the	DET	DET	_	5	det	_	_
+4	di	the	DET	DET	_	5	det	_	_
 5	tyre	tyre	NOUN	NOUN	_	3	obj	_	_
 
 1	you	_	_	_	_	0	_	_	_
