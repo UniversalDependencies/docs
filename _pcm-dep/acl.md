@@ -5,5 +5,6 @@ shortdef: 'clausal modifier of noun'
 udver: '2'
 ---
 
-This document is a placeholder for the language-specific documentation
-for `acl`.
+The `acl` relation is used for clausal modifier of noun.
+
+See [acl:cleft]() for clefted modifiers and [acl:relcl]() for relative clauses.

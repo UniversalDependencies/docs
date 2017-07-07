@@ -23,7 +23,7 @@ The `conj:dicto` relation is used instead of the standard relation `reparandum` 
 8	faculty	faculty	NOUN	NOUN	_	5	conj:dicto	_	_
 
 1	you	_	_	_	_	0	_	_	_
-2	PERF	_	_	_	_	0	_	_	_
+2	have	_	_	_	_	0	_	_	_
 3	lose	_	_	_	_	0	_	_	_
 4	your	_	_	_	_	0	_	_	_
 5	think	_	_	_	_	0	_	_	_
@@ -85,7 +85,7 @@ Conjunctions are treated asymetrically with the first conjunct as the head, and 
 10	we	_	_	_	_	0	_	_	_
 11	will	_	_	_	_	0	_	_	_
 12	begin	_	_	_	_	0	_	_	_
-13	CONT	_	_	_	_	0	_	_	_
+13	be	_	_	_	_	0	_	_	_
 14	arrest	_	_	_	_	0	_	_	_
 15	you guys	_	_	_	_	0	_	_	_
 16	moto	_	_	_	_	0	_	_	_

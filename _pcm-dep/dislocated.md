@@ -22,7 +22,7 @@ The `dislocated` relation is used between a dislocated clause or phrase and its 
 1	one	_	_	_	_	0	_	_	_
 2	man	_	_	_	_	0	_	_	_
 3	he	_	_	_	_	0	_	_	_
-4	CONT	_	_	_	_	0	_	_	_	
+4	be	_	_	_	_	0	_	_	_	
 5	drive	_	_	_	_	0	_	_	_
 
 1	one	_	_	_	_	0	_	_	_
@@ -71,7 +71,7 @@ The dislocated constituent is realized twice: once in its entirety "fitfy eight 
 11	be	_	_	_	_	0	_	_	_
 12	overspeeding	_	_	_	_	0	_	_	_
 13	naim	_	_	_	_	0	_	_	_
-14	CONT	_	_	_	_	0	_	_	_	
+14	be	_	_	_	_	0	_	_	_	
 15	cause	_	_	_	_	0	_	_	_
 16	it	_	_	_	_	0	_	_	_
 

@@ -2,6 +2,7 @@
 layout: relation
 title: 'advcl'
 shortdef: 'adverbial clause modifier'
+udver: '2'
 ---
 
 An adverbial clause modifier is a clause which modifies a verb or other predicate (adjective, etc.),
@@ -21,4 +22,18 @@ advcl(dire, sais)
 ~~~ sdparse
 Il faut venir tôt pour avoir de la place \n One needs to get there early to have a seat
 advcl(venir, avoir)
+~~~
+
+In FrenchSpoken we also use the `advcl`relation. Here are some examples:
+
+~~~ sdparse
+ils ont fait médecine parce que euh ça va être un métier stable \n they studied medecine because uh it's gonna be a steady job
+advcl(fait, va)
+mark(va, parce)
+~~~
+
+~~~ sdparse
+ça donne un aspect plus moderne quand même si tu mets le tissu tout autour \n it gives a more modern look if you put the fabric all around 
+advcl(donne, mets)
+mark(mets, si)
 ~~~

@@ -16,7 +16,7 @@ Words can be either singular or plural.
 
 #### Examples
 
-Noun forms in singular and plural
+Noun forms in singular and plural for _bád_ ("boat"), _fuinneog_ ("window"), and _am_ ("time"):
 <table>
 <tr><td>Declension</td><td>Case</td><td>Singular</td><td>Plural</td></tr>
 <tr><td>First</td><td>Nominative</td><td>bád</td><td>báid</td></tr>
@@ -41,12 +41,12 @@ Verb Forms for _deir_ ("say"), _ól_ ("drink"), and _imigh_("leave"):
 <tr><td></td><td>D'im<b>feadh sé</b></td><td>D'im<b>fidís</b></td></tr>
 </table>
 
-Adjectival agreement 
+Adjectival agreement:
 <table>
-<tr><td>Noun Phrase</td><td>Singular</td><td>Plural</td></tr>
-<tr><td><em>An duine</em></td><td>áitiúl</td><td></td></tr><tr>
-<td><em>Na daoine</em></td><td></td><td>áitiúla</td></tr>
-<tr><td><em>focal</em></td><td>béasach</td><td></td></tr>
-<tr><td><em>focail</em></td><td></td><td>béasacha</td></tr>
+<tr><td>Noun Phrase</td><td>Singular</td><td>Plural</td><td>English</td></tr>
+<tr><td><em>An duine</em></td><td>áitiúl</td><td></td><td>"the local person"</td></tr><tr>
+<td><em>Na daoine</em></td><td></td><td>áitiúla</td><td>"the local people"</td></tr>
+<tr><td><em>focal</em></td><td>béasach</td><td></td><td>"a polite word"</td></tr>
+<tr><td><em>focail</em></td><td></td><td>béasacha</td><td>"polite words"</td></tr>
 </table>
 

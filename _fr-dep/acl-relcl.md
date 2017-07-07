@@ -1,7 +1,8 @@
 ---
 layout: relation
-title:  'acl:relcl'
-shortdef : 'relative clause modifier'
+title: 'acl:relcl'
+shortdef: 'relative clause modifier'
+udver: '2'
 ---
 
 The `acl:relcl` relation is used for relative clauses modifying
@@ -14,3 +15,13 @@ acl:relcl(homme, aime)
 nsubj(aime, qui)
 dobj(aime, t')
 ~~~
+
+In FrenchSpoken we also use the `acl:relcl`relation. Here is an example from FrenchSpoken:
+
+~~~ sdparse
+j'ai eu envie d' être un intellectuel qui marque son temps \n I wanted to be an intellectual who marks his time 
+acl:relcl(intellectuel, marque)
+nsubj(marque, qui)
+~~~
+
+N.B.: In FrenchSpoken we use a special relation for cleft sentences : the [acl:cleft]() relation.

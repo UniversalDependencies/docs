@@ -21,7 +21,7 @@ The `conj:coord` relation is used between conjuncts which are in the same paradi
 5	ogogoro	ogogoro	NOUN	NOUN	_	4	conj:coord	_	_
 
 1	them	_	_	_	_	0	_	_	_
-2	CONT	_	_	_	_	0	_	_	_
+2	be	_	_	_	_	0	_	_	_
 3	drink	_	_	_	_	0	_	_	_
 4	liquor	_	_	_	_	0	_	_	_
 5	schnaps	_	_	_	_	0	_	_	_

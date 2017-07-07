@@ -25,7 +25,7 @@ The `obl:ad` relation is used for nominal adjuncts whcih are governed by their h
 
 1	farmer	_	_	_	_	0	_	_	_
 2	happy	_	_	_	_	0	_	_	_
-3	COMP	_	_	_	_	0	_	_	_
+3	exceed	_	_	_	_	0	_	_	_
 4	when	_	_	_	_	0	_	_	_
 5	rain	_	_	_	_	0	_	_	_
 6	fall	_	_	_	_	0	_	_	_
@@ -61,7 +61,7 @@ The `obl:ad` relation is used for nominal adjuncts whcih are governed by their h
 
 
 1	you	_	_	_	_	0	_	_	_
-2	CONT	_	_	_	_	0	_	_	_
+2	be	_	_	_	_	0	_	_	_
 3	do	_	_	_	_	0	_	_	_
 4	two	_	_	_	_	0	_	_	_
 5	thing	_	_	_	_	0	_	_	_
@@ -98,8 +98,8 @@ The `obl:ad` relation is used for nominal adjuncts whcih are governed by their h
 
 1	I	_	_	_	_	0	_	_	_
 2	not	_	_	_	_	0	_	_	_
-3	PROSP	_	_	_	_	0	_	_	_
-4	CONT	_	_	_	_	0	_	_	_
+3	will	_	_	_	_	0	_	_	_
+4	be	_	_	_	_	0	_	_	_
 5	sleep	_	_	_	_	0	_	_	_
 6	kitchen	_	_	_	_	0	_	_	_
 	_

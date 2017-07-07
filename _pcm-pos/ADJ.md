@@ -13,7 +13,7 @@ The `ADJ` tag is intended for ordinary adjectives only, see [DET]() for determin
 
 In Naija, adjectives are always preposed except when they act as the root.
 
-### Examples :
+### The adjectives of Naija include : 
 
 - small : Make im no leave <b>small</b> chance for us to thank am.
 - big : Na <b>big</b> lie.

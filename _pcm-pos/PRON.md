@@ -12,6 +12,8 @@ context.
 
 Possessive pronouns and personal pronoun are annotated as pronouns.
 
+See [PROPN]() for proper nouns and [NOUN]() for nouns.
+
 
 ### Examples of pronouns in Naija :
 

@@ -12,3 +12,4 @@ Adverbs are words that typically modify [VERB]() for such categories as time, pl
 ### The adverbs of Naija include :
 
 - so (used to focalize the attention) : <b>So</b> na bad thing.
+- naim (used as a marker in the second part of a cleft phrase) : So <b>naim</b> different different people dem come from different group.

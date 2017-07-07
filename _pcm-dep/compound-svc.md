@@ -61,7 +61,7 @@ The relation `compound:svc` is used for serial verb constructions. In this type 
 
 1	so	_	_	_	_	0	_	_	_
 2	we	_	_	_	_	0	_	_	_
-3	PERF	_	_	_	_	0	_	_	_
+3	have	_	_	_	_	0	_	_	_
 4	carry	_	_	_	_	0	_	_	_
 5	the	_	_	_	_	0	_	_	_
 6	matter	_	_	_	_	0	_	_	_
@@ -69,7 +69,7 @@ The relation `compound:svc` is used for serial verb constructions. In this type 
 8	again	_	_	_	_	0	_	_	_
 9	as	_	_	_	_	0	_	_	_
 10	we	_	_	_	_	0	_	_	_
-11	CONT	_	_	_	_	0	_	_	_
+11	be	_	_	_	_	0	_	_	_
 12	always	_	_	_	_	0	_	_	_
 13	carry	_	_	_	_	0	_	_	_
 14	it	_	_	_	_	0	_	_	_
@@ -140,7 +140,7 @@ In Naija serial verbs constructions are also used for comparatives. In these con
 
 1	farmers	_	_	_	_	0	_	_	_
 2	happy	_	_	_	_	0	_	_	_
-3	COMP	_	_	_	_	0	_	_	_
+3	exceed	_	_	_	_	0	_	_	_
 4	when	_	_	_	_	0	_	_	_
 5	rain	_	_	_	_	0	_	_	_
 6	fall	_	_	_	_	0	_	_	_

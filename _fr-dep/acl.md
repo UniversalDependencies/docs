@@ -2,6 +2,7 @@
 layout: relation
 title: 'acl'
 shortdef: 'clausal modifier of noun'
+udver: '2'
 ---
 
 `acl` is used for finite and non-finite clauses that modify a noun, including cases of secondary predication. 
@@ -31,3 +32,12 @@ The `acl` relation is also used for secondary predicates modifying a nominal:
 Il quitta la pièce pleurant . \n He left the room crying .
 acl(Il, pleurant)
 ~~~
+
+In FrenchSpoken we also use the `acl` relation. 
+
+~~~ sdparse
+on va donc avoir nos regards braqués sur l'hémisphère sud \n so we will be focused on the southern hemisphere
+acl(regards, braqués)
+~~~ 
+
+N.B.: In FrenchSpoken we use another subtype of `acl` for cleft sentences : the `acl:cleft` relation.

@@ -204,6 +204,26 @@
         "full": "Siratun Jannat", 
         "last": "Jannat", 
         "first": "Siratun"
+      }, 
+      {
+        "full": "Mizanur Rahoman", 
+        "last": "Rahoman", 
+        "first": "Mizanur"
+      }, 
+      {
+        "full": "Shafi Sourov", 
+        "last": "Sourov", 
+        "first": "Shafi"
+      }, 
+      {
+        "full": "Jannatul Ferdaousi", 
+        "last": "Ferdaousi", 
+        "first": "Jannatul"
+      }, 
+      {
+        "full": "Syeda Shahzadi", 
+        "last": "Shahzadi", 
+        "first": "Syeda"
       }
     ], 
     "lang_name": "Bangla"
@@ -1016,8 +1036,8 @@
     "lang_code": "fi_pud", 
     "contributors": [
       {
-        "full": "Jenna Kannerva", 
-        "last": "Kannerva", 
+        "full": "Jenna Kanerva", 
+        "last": "Kanerva", 
         "first": "Jenna"
       }, 
       {

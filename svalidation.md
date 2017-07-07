@@ -4,13 +4,13 @@ title:  'Universal Dependencies --- Syntactic validation'
 udver:  '2'
 ---
 
-Regenerated <time class="timeago" datetime="2017-06-27T06:46:54Z">2017-06-27T06:46:54 zulu</time>
+Regenerated <time class="timeago" datetime="2017-07-06T15:58:37Z">2017-07-06T15:58:37 zulu</time>
 
 # Aux chain
 
 Auxiliary dependencies should not form a chain.
 
-Search expression: `_ <aux (_ <aux _)`
+Search expression: `_ <aux|<aux:pass|<cop (_ <aux|<aux:pass|<cop _)`
 
 Correct example:
 
@@ -45,19 +45,8 @@ aux(left, have)
 </div>
 <div>
 <table>
-<tr><th/> <th>ADP</th><th>AUX</th> </tr>
-<tr><td>UD_Urdu</td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=ADP+%3Caux+%28_+%3Caux+_%29&db=UD_Urdu-dev">1</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=AUX+%3Caux+%28_+%3Caux+_%29&db=UD_Urdu-dev">2340</a></td>
-</tr>
+<tr><th/>  </tr>
 </table>
-</div>
-<div>
-<span class="doublewidespan" style="padding-left:3em">UD_Urdu</span>
-<span class="widespan">2341 hits</span>
-</div>
-<div>
-<a href="http://bionlp-www.utu.fi/dep_search/query?search=_+%3Caux+%28_+%3Caux+_%29&db=UD_Urdu-dev">Go to search</a><p/>
 </div>
 </div>
 
