@@ -7,17 +7,13 @@ udver: '2'
 
 # Specific constructions
 
-<table class="typeindex" border="1">
-<tr>
-  <td style="background-color:cornflowerblue;color:white"><strong>Specific constructions</strong> </td>
-  <td><a href="#DoubleObj">Double object construction</a></td>
-  <td><a href="#SVC">Serial verb construction</a></td>
-  <td><a href="#Clefts">Cleft sentences</a></td>
-  <td><a href="#Disl">Dislocation</a></td>
-  <td><a href="#Neg">Negative construction</a></td>
-  <td><a href="#Speech">Reported Speech</a></td>
-</tr>
-</table>
++ [Double object construction](#DoubleObj)
++ [Serial verb construction](#SVC)
++ [Cleft sentences](#Clefts)
++ [Dislocation](#Disl)
++ [Negative construction](#Neg)
++ [Reported Speech](#Speech)
+
 
 ### <a name="DoubleObj">Double object construction</a>
 
