@@ -224,7 +224,7 @@ In naija, indirect speech are often introduced by the subordinate conjunction "s
 
 - direct speech
 
-For direct speech, the link [parataxis:obj]() is used.
+For direct speech, the link [parataxis:obj]() is used. Direct speech can be identified through the use of first person pronouns and interjections.
 
 ~~~ conllu
 # visual-style 2 6 parataxis:obj	color:blue
