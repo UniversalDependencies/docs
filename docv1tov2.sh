@@ -7,18 +7,18 @@
 
 # The CONJ POS tag has been renamed CCONJ. Rename all CONJ files in all languages and in the template.
 for i in _*-pos ; do
-  lc=`perl -e '$d=qq('$i'); $d=~m/_(.*)-pos/; print $1;`
+  lc=`perl -e '$d=qq('$i'); $d=~m/_(.*)-pos/; print $1;'`
   echo $lc
   if [ -e "$i/CCONJ.md" ] ; then
     echo $i/CCONJ.md already exists.
   else
-    # git mv $i/CONJ.md $i/CCONJ.md
-    # tmp=`mktemp docv1tov2-tmp-XXX`
-    # perl -pe 's/title:\s*\x{27}CONJ\x{27}/title: \x{27}CCONJ\x{27}\nredirect_from: "'$lc'\/pos\/CONJ.html"/' < $i > $tmp ; mv $tmp $i
+    git mv $i/CONJ.md $i/CCONJ.md
+    tmp=`mktemp docv1tov2-tmp-XXX`
+    perl -pe 's/title:\s*\x{27}CONJ\x{27}/title: \x{27}CCONJ\x{27}\nredirect_from: "'$lc'\/pos\/CONJ.html"/' < $i > $tmp ; mv $tmp $i
   fi
   # Edit links to CONJ from any other POS documentation file.
   for j in $i/*.md ; do
-    # perl -pe 's/\[CONJ\]\(\)/[CCONJ]()/g; s/\[(.*?)\]\(..\/pos\/CONJ\)/[$1](..\/pos\/CCONJ)/;' < $j > $tmp ; mv $tmp $j
+    perl -pe 's/\[CONJ\]\(\)/[CCONJ]()/g; s/\[(.*?)\]\(..\/pos\/CONJ\)/[$1](..\/pos\/CCONJ)/;' < $j > $tmp ; mv $tmp $j
   done
 done
 # git commit -a -m 'Renamed CONJ to CCONJ everywhere.'

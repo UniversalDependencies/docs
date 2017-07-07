@@ -11,7 +11,7 @@ by making one of them a constituent of the other. The subordinating
 conjunction typically marks the incorporated constituent which has the
 status of a (subordinate) clause.
 
-For _coordinating conjunctions,_ see [CONJ]().
+For _coordinating conjunctions,_ see [CCONJ]().
 
 ### Examples
 

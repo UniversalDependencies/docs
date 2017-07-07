@@ -15,7 +15,7 @@ However, there are a few words that form subordinate clauses, notably _ki_ and _
 The question particle _mI_ (_mı/mi/mu/mü_) and clitic _dA_ (_da/de_) may also form subordinate clauses.
 We also mark the words, such as _madem_ and _eğer_, that are syntactically and semantically redundant but signal beginning of a subordinate clause.
 
-For _coordinating conjunctions,_ see [CONJ]().
+For _coordinating conjunctions,_ see [CCONJ]().
 
 ### Examples
 

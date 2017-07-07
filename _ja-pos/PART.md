@@ -6,7 +6,7 @@ shortdef: 'particle'
 
 ### Definition
 
-`PART` for Japanese covers functional words which are not classified into [ADP](), [CONJ]() nor [SCONJ]().
+`PART` for Japanese covers functional words which are not classified into [ADP](), [CCONJ]() nor [SCONJ]().
 Namely, `PART` corresponds to final postpositional particles, `particle(phrase_final` / 助詞-終助詞 in UniDic,
 and suffixes to change the category of phrases. 
 
