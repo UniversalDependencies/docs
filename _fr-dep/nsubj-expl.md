@@ -13,23 +13,13 @@ nsubj:expl(arrivé, il)
 nsubj:quasi(arrivé, malheur)
 ~~~
 
-N.B.: we also decided to use the [nsubj:quasi]() relation to annotate the other dependent of the predicate.
-
-The use of the `nsubj:expl` relation also enables us to mark the difference between a few structures.
-For example the temporal use of _il y a_ (i.e. when _il y a_ works like an adposition) to the other uses of _il y a_:
-
 ~~~ sdparse
-Paul est arrivé il y a trois jours . \n Paul arrived three days ago.
-fixed(il, y)
-fixed(y, a)
-case(jours, il)
+il faudra acheter un porte-bonheur \n we will have to buy a lucky charm
+nsubj:expl(faudra, il)
+csubj:quasi(faudra, acheter)
 ~~~
 
-~~~ sdparse
-Il y a trois livres sur la table. \n There are three books on the table.
-nsubj:expl(a, Il)
-advmod(a, y)
-~~~
+N.B.: we decided to use the [nsubj:quasi]() relation to annotate the other dependent of the predicate when it is a nominal and the [csubj:quasi]() when it is a clause.
 
 
 `nsubj:expl` also enables us to differenciate between cleft and presentative constructions, in the case where they both use  _c'est_ (or _c'était_, _ce sont_ etc.):
