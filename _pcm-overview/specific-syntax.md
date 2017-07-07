@@ -193,7 +193,7 @@ In Naija cleft sentences are sometimes marked using the _na_ particle and _naim_
 In dislocated phrase, the constituent (it can be an argument or an adjunct) is found outside of the boundaries of the clause it belongs to. This is marked prosodically. This type of construction is annoted with the link [dislocated]().
 
 ~~~ conllu
-# visual-style 11 1 acl:cleft	color:blue
+# visual-style 11 1 dislocated	color:blue
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 11	bgColor:blue
