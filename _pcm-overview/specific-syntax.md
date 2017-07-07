@@ -7,7 +7,19 @@ udver: '2'
 
 # Specific constructions
 
-### Double object construction
+<table class="typeindex" border="1">
+<tr>
+  <td style="background-color:cornflowerblue;color:white"><strong>Specific constructions</strong> </td>
+  <td><a href="#DoubleObj">Double object construction</a></td>
+  <td><a href="#SVC">Serial verb construction</a></td>
+  <td><a href="#Clefts">Cleft sentences</a></td>
+  <td><a href="#Disl">Dislocation</a></td>
+  <td><a href="#Neg">Negative construction</a></td>
+  <td><a href="#Speech">Reported Speech</a></td>
+</tr>
+</table>
+
+### <a name="DoubleObj">Double object construction</a>
 
 ~~~ conllu
 # visual-style 3 4 obj	color:blue
@@ -46,7 +58,7 @@ udver: '2'
 
 ~~~
 
-### Serial Verb Constructions
+### <a name="SVC">Serial Verb Constructions</a>
 
 #### Comparatives
 
@@ -101,7 +113,7 @@ In Naija, comparatives follow the same pattern as SVCs, with the adjective actin
 
 #### Superlatives
 
-### Clefts
+### <a name="Clefts">Cleft sentences</a>
 
 A cleft sentence is a complex sentence (one having a main clause and a dependent clause) that has a meaning that could be expressed by a simple sentence. Clefts typically put a particular constituent into focus.
 
@@ -173,13 +185,13 @@ In Naija cleft sentences are sometimes marked using the _na_ particle and _naim_
 + na [main] naim [dependent]
 
 
-### Dislocations
+### <a name="Disl">Dislocations</a>
 
 ### Paratactic constructions
 
 #### Juxtaposition
 
-#### Reported Speech
+#### <a name="Speech">Reported Speech</a>
 
 - indirect speech 
 
@@ -317,7 +329,7 @@ When the complement of the copula is clausal and contains its own subject, the c
 6	dey	be	AUX	AUX	_	4	parataxis:obj	_	_
 ~~~
 
-### negative construction
+### <a name="Neg">negative construction</a>
 
 Negation is marked with the particule <i>no</i> before a verb, an auxiliary or an adjective.
 
