@@ -14,8 +14,9 @@ udver: '2'
 + [Negative construction](#Neg)
 + [Reported Speech](#Speech)
 
+<a name="DoubleObj"></a>
 
-### <a name="DoubleObj">Double object construction</a>
+### Double object construction
 
 ~~~ conllu
 # visual-style 3 4 obj	color:blue
@@ -54,7 +55,9 @@ udver: '2'
 
 ~~~
 
-### <a name="SVC">Serial Verb Constructions</a>
+<a name="SVC"></a>
+
+### Serial Verb Constructions
 
 #### Comparatives
 
@@ -109,7 +112,9 @@ In Naija, comparatives follow the same pattern as SVCs, with the adjective actin
 
 #### Superlatives
 
-### <a name="Clefts">Cleft sentences</a>
+<a name="Clefts"></a>
+
+### Cleft sentences
 
 A cleft sentence is a complex sentence (one having a main clause and a dependent clause) that has a meaning that could be expressed by a simple sentence. Clefts typically put a particular constituent into focus.
 
@@ -181,13 +186,17 @@ In Naija cleft sentences are sometimes marked using the _na_ particle and _naim_
 + na [main] naim [dependent]
 
 
-### <a name="Disl">Dislocations</a>
+<a name="Disl"></a>
+
+### Dislocations
 
 ### Paratactic constructions
 
 #### Juxtaposition
 
-#### <a name="Speech">Reported Speech</a>
+<a name="Speech"></a>
+
+#### Reported Speech
 
 - indirect speech 
 
@@ -325,7 +334,9 @@ When the complement of the copula is clausal and contains its own subject, the c
 6	dey	be	AUX	AUX	_	4	parataxis:obj	_	_
 ~~~
 
-### <a name="Neg">negative construction</a>
+<a name="Neg"></a>
+
+### negative construction
 
 Negation is marked with the particule <i>no</i> before a verb, an auxiliary or an adjective.
 
