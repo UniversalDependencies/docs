@@ -109,7 +109,6 @@ In Naija, comparatives follow the same pattern as SVCs, with the adjective actin
 
 ~~~
 
-
 #### Superlatives
 
 <a name="Clefts"></a>
@@ -195,7 +194,60 @@ In Naija cleft sentences are sometimes marked using the _na_ particle and _naim_
 
 #### Juxtaposition
 
-<a name="Speech"></a>
+The clauses are juxtaposed when they are independent from one another. It is often the case in parallel constructions which are used for sequential construction in Naija. This type of construction is similar to coordinated conjuncts and therefore annotated as a special type of coordination: [parataxis:conj]().
+
+~~~ conllu
+# visual-style 3 7 parataxis:conj	color:blue
+# visual-style 3 11 parataxis:conj	color:blue
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 11	bgColor:blue
+# visual-style 11	fgColor:white
+1	you	you	PRON	PRON	_	3	nsubj	_	_
+2	go	will	AUX	AUX	_	3	aux	_	_
+3	wash	wash	VERB	VERB	_	0	root	_	_
+4	plate	plate	NOUN	NOUN	_	3	obj	_	_
+5	you	you	PRON	PRON	_	7	nsubj	_	_
+6	go	will	AUX	AUX	_	7	aux	_	_
+7	do	do	VERB	VERB	_	3	parataxis:conj	_	_
+8	everything	everything	NOUN	NOUN	_	7	obj	_	_
+9	you	you	PRON	PRON	_	11	nsubj	_	_
+10	go	will	AUX	AUX	_	11	aux	_	_
+11	sweep	sweep	VERB	VERB	_	3	parataxis:conj	_	_
+12	floor	floor	NOUN	NOUN	_	11	obj	_	_
+
+1	you	_	_	_	_	0	_	_	_
+2	will	_	_	_	_	0	_	_	_
+3	wash 	_	_	_	_	0	_	_	_
+4	plate	_	_	_	_	0	_	_	_
+5	you	_	_	_	_	0	_	_	_
+6	will	_	_	_	_	0	_	_	_
+7	do	_	_	_	_	0	_	_	_
+8	everything	_	_	_	_	0	_	_	_
+9	you	_	_	_	_	0	_	_	_
+10	go	_	_	_	_	0	_	_	_
+11	sweep	_	_	_	_	0	_	_	_
+12	floor	_	_	_	_	0	_	_	_
+
+1	you	_	_	_	_	0	_	_	_
+2	will	_	_	_	_	0	_	_	_
+3	wash 	_	_	_	_	0	_	_	_
+4	the	_	_	_	_	0	_	_	_
+5	plate	_	_	_	_	0	_	_	_
+6	you	_	_	_	_	0	_	_	_
+7	will	_	_	_	_	0	_	_	_
+8	do	_	_	_	_	0	_	_	_
+9	everything	_	_	_	_	0	_	_	_
+10	you	_	_	_	_	0	_	_	_
+11	will	_	_	_	_	0	_	_	_
+12	sweep	_	_	_	_	0	_	_	_
+13	the	_	_	_	_	0	_	_	_
+14	floor	_	_	_	_	0	_	_	_
+
+
+~~~
 
 #### Reported Speech
 
