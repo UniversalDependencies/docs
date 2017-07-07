@@ -19,7 +19,7 @@ In Naija we do not to use the expl relation. Instead we use the `nsubj:expl` sub
 3	one	one	DET	DET	_	4	det	_	_
 4	man	man	NOUN	NOUN	_	2	obj	_	_
 5	wey	where	SCONJ	SCONJ	_	6	mark	_	_
-6	come	come	VERB	VERB	_	4	acl:relcl	_	_
+6	come	come	VERB	VERB	_	4	acl:cleft	_	_
 7	for	for	ADP	ADP	_	9	case	_	_
 8	our	our	PRON	PRON	_	9	nmod:poss	_	_
 9	house	house	NOUN	NOUN	_	6	obl:comp	_	_
