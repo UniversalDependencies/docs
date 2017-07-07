@@ -298,6 +298,8 @@ The clauses are juxtaposed when they are independent from one another. It is oft
 
 ~~~
 
+<a name="Speech"></a>
+
 #### Reported Speech
 
 - indirect speech 
