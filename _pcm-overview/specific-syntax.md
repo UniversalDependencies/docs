@@ -181,6 +181,7 @@ In Naija, two links are used for cleft sentences :
 ~~~
 
 In Naija cleft sentences are sometimes marked using the _na_ particle and _naim_ adverb as follows:
+
 + na [main] [dependent]
 + naim [main] [dependent]
 + na [main] naim [dependent]
