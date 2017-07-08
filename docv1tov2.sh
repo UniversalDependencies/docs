@@ -34,7 +34,7 @@ function rename_label
     # Update the label in references from all md files.
     for c in overview pos feat dep ; do
       for i in _*-$c ; do
-        echo $i
+        echo $i s/$old/$new/g
         for j in $i/*.md ; do
           perl -pe 's/\['$old'\]\(\)/['$new']()/g; s/\[(.*?)\]\('$old'\)/[$1]('$new')/; s/\[(.*?)\]\(..\/'$type'\/'$old'\)/[$1](..\/'$type'\/'$new')/; s/\`'$old'\`/\`'$new'\`/g;' < $j > $tmp
           mv $tmp $j
@@ -43,7 +43,7 @@ function rename_label
     done
     # Update the label in references from the tables of labels.
     for j in _includes/*.html ; do
-      echo $j
+      echo $j s/$old/$new/g
       perl -pe 's/<a>'$old'<\/a>/<a>'$new'<\/a>/g' < $j > $tmp
       mv $tmp $j
     done
@@ -57,4 +57,5 @@ function rename_label
 
 tmp=`mktemp docv1tov2-tmp-XXX`
 
-rename_label pos CONJ CCONJ
+#rename_label pos CONJ CCONJ
+rename_label feat Negative Polarity
