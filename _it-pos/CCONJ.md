@@ -1,6 +1,7 @@
 ---
 layout: postag
-title: 'CONJ'
+title: 'CCONJ'
+redirect_from: "it/pos/CONJ.html"
 shortdef: 'coordinating conjunction'
 ---
 
