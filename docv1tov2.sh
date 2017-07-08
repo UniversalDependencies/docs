@@ -31,6 +31,22 @@ function rename_label
         mv $tmp $i/$tmp.md
       fi
     done
+    # Update the label in references from all md files.
+    for c in overview pos feat dep ; do
+      for i in _*-$c ; do
+        echo $i
+        for j in $i/*.md ; do
+          perl -pe 's/\['$old'\]\(\)/['$new']()/g; s/\[(.*?)\]\('$old'\)/[$1]('$new')/; s/\[(.*?)\]\(..\/'$type'\/'$old'\)/[$1](..\/'$type'\/'$new')/; s/\`'$old'\`/\`'$new'\`/g;' < $j > $tmp
+          mv $tmp $j
+        done
+      done
+    done
+    # Update the label in references from the tables of labels.
+    for j in _includes/*.html ; do
+      echo $j
+      perl -pe 's/<a>'$old'<\/a>/<a>'$new'<\/a>/g' < $j > $tmp
+      mv $tmp $j
+    done
 }
 
 
@@ -41,21 +57,4 @@ function rename_label
 
 tmp=`mktemp docv1tov2-tmp-XXX`
 
-# The CONJ POS tag has been renamed CCONJ. Rename all CONJ files in all languages and in the template.
 rename_label pos CONJ CCONJ
-
-for c in overview pos feat dep ; do
-  for i in _*-$c ; do
-    echo $i
-    for j in $i/*.md ; do
-      perl -pe 's/\[CONJ\]\(\)/[CCONJ]()/g; s/\[(.*?)\]\(CONJ\)/[$1](CCONJ)/; s/\[(.*?)\]\(..\/pos\/CONJ\)/[$1](..\/pos\/CCONJ)/; s/\`CONJ\`/\`CCONJ\`/g;' < $j > $tmp
-      mv $tmp $j
-    done
-  done
-done
-for j in _includes/*.html ; do
-  echo $j
-  perl -pe 's/<a>CONJ<\/a>/<a>CCONJ<\/a>/g' < $j > $tmp
-  mv $tmp $j
-done
-# git commit -a -m 'Renamed CONJ to CCONJ everywhere.'
