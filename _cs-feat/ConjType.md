@@ -5,7 +5,7 @@ shortdef: 'conjunction type'
 ---
 
 This feature further subclassifies the parts of speech [cs-pos/CONJ]() and [cs-pos/SCONJ]();
-in Czech, it is used only with `CONJ`. The main distinction between coordinating and
+in Czech, it is used only with `CCONJ`. The main distinction between coordinating and
 subordinating conjunctions is done already at the part-of-speech level.
 
 ### `Oper`: mathematical operator

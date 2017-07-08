@@ -240,7 +240,7 @@ aux(öldürecek, değiller)
   a construction like *Ahmet de Ali de aradı* 'Ahmet and Ali both
   called', we still attach the clitic to the preceding word, but mark
   coordination without a conjunction, in this case the POS tag is
-  `CONJ`. 
+  `CCONJ`. 
   
   If it is used with the meaning of 'but', e.g., *içerim de,
   arabayı kim kullanacak?* 'I would/can drink, but (then) who will
