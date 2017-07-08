@@ -48,7 +48,7 @@ is no such thing as "affirmative pronoun".)
 The `Polarity` feature can be also used to distinguish response
 [interjections](u-pos/INTJ) _yes_ and _no_.
 
-Note: `Polarity` was called `Negative` in the version 1 of UD guidelines and it is renamed in version 2.
+Note: `Polarity` was called `Polarity` in the version 1 of UD guidelines and it is renamed in version 2.
 
 ### <a name="Pos">`Pos`</a>: positive, affirmative
 
