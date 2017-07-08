@@ -23,7 +23,7 @@ for c in overview pos feat dep ; do
   for i in _*-$c ; do
     echo $i
     for j in $i/*.md ; do
-      perl -pe 's/\[CONJ\]\(\)/[CCONJ]()/g; s/\[(.*?)\]\(..\/pos\/CONJ\)/[$1](..\/pos\/CCONJ)/;' < $j > $tmp
+      perl -pe 's/\[CONJ\]\(\)/[CCONJ]()/g; s/\[(.*?)\]\(CONJ\)/[$1](CCONJ)/; s/\[(.*?)\]\(..\/pos\/CONJ\)/[$1](..\/pos\/CCONJ)/;' < $j > $tmp
       mv $tmp $j
     done
   done
