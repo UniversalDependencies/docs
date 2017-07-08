@@ -23,8 +23,8 @@ function rename_label
     for i in _*-$type ; do
       lc=`perl -e '$d=qq('$i'); $d=~m/_(.*)-$type/; print $1;'`
       echo $lc $type $old '-->' $new
-      if [ -e "$i/$old.md" ] ; then
-        echo $i/$old.md already exists.
+      if [ -e "$i/$new.md" ] ; then
+        echo $i/$new.md already exists.
       else
         git mv $i/$old.md $i/$new.md
         perl -pe 's/title:\s*\x{27}'$old'\x{27}/title: \x{27}'$new'\x{27}\nredirect_from: "'$lc'\/'$type'\/'$old'.html"/;' < $i/$new.md > $tmp
