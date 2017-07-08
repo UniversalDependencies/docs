@@ -9,7 +9,7 @@ shortdef: 'particle'
 Particles are function words that must be associated with another word
 or phrase to impart meaning and that do not satisfy definitions of
 other universal parts of speech (e.g. [adpositions](ADP),
-[coordinating conjunctions](CONJ), [subordinating conjunctions](SCONJ)
+[coordinating conjunctions](CCONJ), [subordinating conjunctions](SCONJ)
 or [auxiliary verbs](AUX)).  Particles may encode grammatical
 categories such as negation, mood, tense etc. Czech particles are
 not inflected.
