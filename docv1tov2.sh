@@ -5,27 +5,6 @@
 ### sure what you're doing and know how to clean up the repo if
 ### anything goes wrong.
 
-tmp=`mktemp docv1tov2-tmp-XXX`
-
-# The CONJ POS tag has been renamed CCONJ. Rename all CONJ files in all languages and in the template.
-rename_label pos CONJ CCONJ
-
-for c in overview pos feat dep ; do
-  for i in _*-$c ; do
-    echo $i
-    for j in $i/*.md ; do
-      perl -pe 's/\[CONJ\]\(\)/[CCONJ]()/g; s/\[(.*?)\]\(CONJ\)/[$1](CCONJ)/; s/\[(.*?)\]\(..\/pos\/CONJ\)/[$1](..\/pos\/CCONJ)/; s/\`CONJ\`/\`CCONJ\`/g;' < $j > $tmp
-      mv $tmp $j
-    done
-  done
-done
-for j in _includes/*.html ; do
-  echo $j
-  perl -pe 's/<a>CONJ<\/a>/<a>CCONJ<\/a>/g' < $j > $tmp
-  mv $tmp $j
-done
-# git commit -a -m 'Renamed CONJ to CCONJ everywhere.'
-
 
 
 #------------------------------------------------------------------------------
@@ -53,3 +32,30 @@ function rename_label
       fi
     done
 }
+
+
+
+#------------------------------------------------------------------------------
+# MAIN
+#------------------------------------------------------------------------------
+
+tmp=`mktemp docv1tov2-tmp-XXX`
+
+# The CONJ POS tag has been renamed CCONJ. Rename all CONJ files in all languages and in the template.
+rename_label pos CONJ CCONJ
+
+for c in overview pos feat dep ; do
+  for i in _*-$c ; do
+    echo $i
+    for j in $i/*.md ; do
+      perl -pe 's/\[CONJ\]\(\)/[CCONJ]()/g; s/\[(.*?)\]\(CONJ\)/[$1](CCONJ)/; s/\[(.*?)\]\(..\/pos\/CONJ\)/[$1](..\/pos\/CCONJ)/; s/\`CONJ\`/\`CCONJ\`/g;' < $j > $tmp
+      mv $tmp $j
+    done
+  done
+done
+for j in _includes/*.html ; do
+  echo $j
+  perl -pe 's/<a>CONJ<\/a>/<a>CCONJ<\/a>/g' < $j > $tmp
+  mv $tmp $j
+done
+# git commit -a -m 'Renamed CONJ to CCONJ everywhere.'
