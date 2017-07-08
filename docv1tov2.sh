@@ -14,13 +14,17 @@ for i in _*-pos ; do
   #else
     #git mv $i/CONJ.md $i/CCONJ.md
     tmp=`mktemp docv1tov2-tmp-XXX`
-    perl -pe 's/title:\s*\x{27}CONJ\x{27}/title: \x{27}CCONJ\x{27}\nredirect_from: "'$lc'\/pos\/CONJ.html"/' < $i/CCONJ.md > $tmp
+    perl -pe 's/title:\s*\x{27}CONJ\x{27}/title: \x{27}CCONJ\x{27}\nredirect_from: "'$lc'\/pos\/CONJ.html"/; s/\`CONJ\`/\`CCONJ\`/g;' < $i/CCONJ.md > $tmp
     mv $tmp $i/CCONJ.md
   #fi
   # Edit links to CONJ from any other POS documentation file.
-  for j in $i/*.md ; do
-    perl -pe 's/\[CONJ\]\(\)/[CCONJ]()/g; s/\[(.*?)\]\(..\/pos\/CONJ\)/[$1](..\/pos\/CCONJ)/;' < $j > $tmp
-    mv $tmp $j
+done
+for c in overview pos feat dep ; do
+  for i in _*-$c ; do
+    for j in $i/*.md ; do
+      perl -pe 's/\[CONJ\]\(\)/[CCONJ]()/g; s/\[(.*?)\]\(..\/pos\/CONJ\)/[$1](..\/pos\/CCONJ)/;' < $j > $tmp
+      mv $tmp $j
+    done
   done
 done
 # git commit -a -m 'Renamed CONJ to CCONJ everywhere.'

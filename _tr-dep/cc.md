@@ -4,7 +4,7 @@ title: 'cc'
 shortdef: 'coordinating conjunction'
 ---
 
-A `cc` is the relation between the first conjunct and the [coordinating conjunction](../pos/CONJ) delimiting another conjunct.
+A `cc` is the relation between the first conjunct and the [coordinating conjunction](../pos/CCONJ) delimiting another conjunct.
 
 Note that we currently diverge from UD specification by marking the last conjunct as the head.
 See the [conj]() relation, for more information.

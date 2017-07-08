@@ -19,4 +19,4 @@ A coordinating conjunction is a word that links words or larger constituents wit
 
 #### Conversion from JOS
 
-All conjunctions with Type=coordinating become `CONJ`.
+All conjunctions with Type=coordinating become `CCONJ`.

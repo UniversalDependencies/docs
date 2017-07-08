@@ -13,7 +13,7 @@ For *subordinating* conjunctions, see [SCONJ]().
 
 In correlative (paired) coordinating conjuctions such as _sekä - että_
 "both - and" and _joko - tai_ "either - or", both words are annotated
-`CONJ` (see also [cc:preconj]()).
+`CCONJ` (see also [cc:preconj]()).
 
 #### Examples
 

@@ -12,7 +12,7 @@ expresses a semantic relationship between them.
 For *subordinating* conjunctions, see [SCONJ]().
 
 In correlative (paired) coordinating conjuctions such as _είτε - είτε_ or 
-_ή - ή_ "either - or", both words are annotated `CONJ`.
+_ή - ή_ "either - or", both words are annotated `CCONJ`.
 
 #### Examples
 

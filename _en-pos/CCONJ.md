@@ -5,4 +5,4 @@ redirect_from: "en/pos/CONJ.html"
 shortdef: 'coordinating conjunction'
 ---
 
-The English `CONJ` corresponds to PTB CC.
+The English `CCONJ` corresponds to PTB CC.

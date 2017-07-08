@@ -7,7 +7,7 @@ shortdef: 'coordinating conjunction'
 
 ### Definition
 
-`CONJ` in Japanese is tagged for `conjunction` / 接続詞 in UniDic and 
+`CCONJ` in Japanese is tagged for `conjunction` / 接続詞 in UniDic and 
 postpositional particles to represent coordination.  
 
 ### Examples
