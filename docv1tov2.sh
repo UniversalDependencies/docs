@@ -28,7 +28,7 @@ function rename_label
       else
         git mv $i/$old.md $i/$new.md
         perl -pe 's/title:\s*\x{27}'$old'\x{27}/title: \x{27}'$new'\x{27}\nredirect_from: "'$lc'\/'$type'\/'$old'.html"/;' < $i/$new.md > $tmp
-        mv $tmp $i/$tmp.md
+        mv $tmp $i/$new.md
       fi
     done
     # Update the label in references from all md files.
