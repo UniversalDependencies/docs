@@ -2,7 +2,16 @@
 layout: feature
 title: 'Gender[psor]'
 shortdef: 'possessor’s gender'
+udver: '2'
 ---
+
+<table class="typeindex" border="1">
+<tr>
+  <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
+  <td><a href="#Fem">Fem</a></td>
+  <td><a href="#Masc">Masc</a></td>
+</tr>
+</table>
 
 Possessive adjectives and pronouns may have two different genders: that of the
 possessed object (gender agreement with modified noun) and that of
@@ -14,7 +23,7 @@ one of the suffixes _-ův, -ova, -ovo,_
 and the feminine gender implies using
 one of _-in, -ina, -ino._
 
-### `Masc`: masculine possessor
+### <a name="Masc">`Masc`</a>: masculine possessor
 
 #### Examples
 
@@ -22,7 +31,7 @@ one of _-in, -ina, -ino._
 * _<b>otcova dcera</b>_ “father's daughter” `Gender[psor]=Masc|Gender=Fem`
 * _<b>otcovo dítě</b>_ “father's child” `Gender[psor]=Masc|Gender=Neut`
 
-### `Fem`: feminine possessor
+### <a name="Fem">`Fem`</a>: feminine possessor
 
 #### Examples
 
