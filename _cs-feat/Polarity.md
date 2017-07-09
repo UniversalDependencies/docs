@@ -17,15 +17,17 @@ udver: '2'
 In Czech, negation is mostly done using the bound morpheme _ne-,_
 and an independent negating particle (equivalent to English “not”)
 is rarely seen. Words that can take the morpheme of negation have
-the feature of negativeness.
+the feature of polarity.
 
 It applies to [verbs](cs-pos/VERB),
 [adjectives](cs-pos/ADJ), sometimes also [adverbs](cs-pos/ADV) and
 even [nouns](cs-pos/NOUN).
-(Most nouns have just `Negative=Pos`;
-deverbative nouns can have also `Negative=Neg`.)
+(Most nouns have just `Polarity=Pos`;
+deverbative nouns can have also `Polarity=Neg`.
+Occasionally, other nouns can be negated to denote the complement of the original noun:
+_plavec_ “swimmer” vs. _neplavec_ “non-swimmer”.)
 
-Note that `Negative=Neg` is not the same thing as
+Note that `Polarity=Neg` is not the same thing as
 [PronType]()`=Neg`. For pronouns and other pronominal parts of speech
 there is no such binary opposition as for verbs and adjectives. (There
 is no such thing as “affirmative pronoun”.)
