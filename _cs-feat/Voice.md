@@ -19,7 +19,7 @@ such as subject and object, to semantic roles, such as agent and patient.
 ### <a name="Act">`Act`</a>: active voice
 
 The subject of the verb is the doer of the action (agent), the object
-is affected by the action (pacient).
+is affected by the action (patient).
 
 All finite verb forms and the active/past participles are tagged `Voice=Act`.
 
