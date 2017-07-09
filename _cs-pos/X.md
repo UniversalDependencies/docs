@@ -2,6 +2,7 @@
 layout: postag
 title: 'X'
 shortdef: 'other'
+udver: '2'
 ---
 
 ### Definition
@@ -11,8 +12,9 @@ a real part-of-speech category.
 
 A special usage of `X` is for cases of code-switching where it is not
 possible (or meaningful) to analyze the intervening language
-grammatically (and where the dependency relation _foreign_ is
-typically used in the syntactic analysis).
+grammatically (and where the dependency relation [flat](../dep/flat) is
+typically used in the syntactic analysis;
+on the morphological layer, these words should use the feature [Foreign=Yes](../feat/Foreign)).
 This rarely applies to the PDT data where many foreign words are tagged with their original
 part of speech.
 
