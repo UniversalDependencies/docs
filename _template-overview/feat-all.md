@@ -3,6 +3,7 @@ layout: base
 title:  'Features'
 generated: 'true'
 permalink: template/feat/all.html
+udver: '2'
 ---
 
 # Features

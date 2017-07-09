@@ -58,8 +58,10 @@ function templates_are_v2
 {
     for i in _template-* ; do
         for j in $i/*.md ; do
-            if ! [ grep udver $j ] ; then
+            if ! grep -q udver $j ; then
                 echo $j
+                perl -CDS -e 'while(<>) { if(m/^---/) { $n++; print("udver: \x{27}2\x{27}\n") if($n==2); } print; }' < $j > $tmp
+                mv $tmp $j
             fi
         done
     done
