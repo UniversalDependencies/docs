@@ -28,7 +28,7 @@ dependency is the main predicate of the relative clause.
 
 For UD Finnish, relative markers are be mapped to the syntactic role
 that the relative is playing in the relative clause, such as `nsubj`
-or `dobj`. This information is present in the second annotation layer
+or `obj`. This information is present in the second annotation layer
 of the TDT corpus.
 
 <!-- TODO Annotation of relative clauses is more closely examined in Section [relclauses](#sec-relclauses). -->
@@ -354,9 +354,9 @@ gapping.
 Finally, there are two minor changes made in the SD hierarchy. First,
 as prepositional objects are no longer needed in the Finnish-specific
 scheme due to the changes made to handling adpositional phrases, and
-as indirect objects do not occur in Finnish, the type [`dobj`]() was
+as indirect objects do not occur in Finnish, the type [`obj`]() was
 the sole subtype of the intermediate, unused type [`obj`](), we have
-removed this intermediate type, and made [`dobj`]() a direct subtype
+removed this intermediate type, and made [`obj`]() a direct subtype
 of [`complement`]().
 
 Second, the [`neg`]() dependency type, for marking negations, has been

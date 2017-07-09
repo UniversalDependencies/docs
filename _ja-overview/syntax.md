@@ -26,7 +26,7 @@ for the definition of each label.
 |-------|-------------|----------|
 | `nsubj`  | Nominal subjects (typically a postpositional phrase with a case marker が / <i>ga</i> or sometimes with は / <i>wa</i>)</td> | 太郎 が / <i>Taro ga</i> "Taro-NOM" &lt;-`nsubj`- 走る / <i>hashiru</i> "run" |
 | `nsubjpass` | Nominal subjects in passive forms | 太郎 が / <i>Taro ga</i> "Taro-NOM" &lt;-`nsubjpass`- ほめ られる / <i>home rareru</i> "praise-PASSIVE" |
-| `dobj` | Direct object (typically a postpositional phrase with a case marker を / <i>o</i>) | ご飯 を / <i>gohan o</i> "rice-ACC" &lt;-`dobj`- 食べる / <i>taberu</i> "eat" |
+| `obj` | Direct object (typically a postpositional phrase with a case marker を / <i>o</i>) | ご飯 を / <i>gohan o</i> "rice-ACC" &lt;-`obj`- 食べる / <i>taberu</i> "eat" |
 | `iobj` | Indirect object (typicall a postpositional phrase with a case marker に / <i>ni</i>) | 花子 に / <i>Hanako ni</i> "Hanako-ACC" &lt;-`iobj`- あげる / <i>ageru</i> "give" |
 | `csubj` | Clausal subjects introduced by a nominal marker の / <i>no</i> | 太郎 が 怒ら れる の は / Taro ga okora reru no ha "that-TOPIC Taro is punished" &lt;-`csubj`- いやだ / iyada "dislike" |
 | `csubjpass` | Clausal subjects in passive forms | 言っ た の が / <i>It ta no ga</i> "that-NOM (someone) said" &lt;-`csubjpass`- 悔やま れる / <i>kuyama reru</i> "regret-PASSIVE" |

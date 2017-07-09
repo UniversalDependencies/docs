@@ -28,7 +28,7 @@ following UD dependency relations are not applied in UD Finnish:
 Finnish existential clauses do not contain an expletive there, nor do
 passive clauses have a subject. What is considered the passive subject
 in e.g. English is the direct object in Finnish, and thus the
-corresponding type, [`dobj`]() is used instead, or in the case of a
+corresponding type, [`obj`]() is used instead, or in the case of a
 clause acting as the direct object, it is marked as a clausal
 complement ([`ccomp`]()). Finally, indirect objects do not occur in
 Finnish, as regardless of word order, the corresponding argument is
@@ -103,7 +103,7 @@ to (nearly) corresponding UD Finnish labels. (See also [issue
 |--------------|---------------------|---------------------|
 
 The TDT dependency type `rel` is not mapped to any single UD type.
-Instead we use any normal dependency relation to catch the syntactic function of the relativizer (for example `nsubj` or `dobj`).
+Instead we use any normal dependency relation to catch the syntactic function of the relativizer (for example `nsubj` or `obj`).
 
 Additionally, the following dependency relations cannot be directly
 created by mapping existing TDT annotations and may thus not occur in

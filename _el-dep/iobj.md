@@ -5,7 +5,7 @@ shortdef: 'indirect object'
 ---
 
 The indirect object of a verb is any nominal structure that is a core
-argument of the verb but is not its subject or [direct object](dobj).
+argument of the verb but is not its subject or [direct object](obj).
 The prototypical example is the recipient of ditransitive verbs of exchange,
 that is often realized as a nominal element preceded by a σε-preposition. 
 
@@ -68,7 +68,7 @@ iobj(πήραν, Του)
 obj(πήραν, χιλιάρικα)
 ~~~
 
-When two objects in accusative are present, one of them is annotated as `dobj` and the other as [iobj]().  Generally, the most directly affected object _(patient)_ is marked as `dobj`.
+When two objects in accusative are present, one of them is annotated as `obj` and the other as [iobj]().  Generally, the most directly affected object _(patient)_ is marked as `obj`.
 
 ~~~ sdparse
 Διδάσκει τα παιδιά.Acc ιστορία.Acc
@@ -76,7 +76,7 @@ obj(Διδάσκει, ιστορία.Acc)
 iobj(Διδάσκει, παιδιά.Acc)
 ~~~
 
-If there is just one object, it should be labeled [dobj](), regardless of the morphological case or semantic role. For example,  _διδάσκω_ can take either the subject matter or the recipient as the only object, and in both cases it would be analyzed as the [dobj]():
+If there is just one object, it should be labeled [obj](), regardless of the morphological case or semantic role. For example,  _διδάσκω_ can take either the subject matter or the recipient as the only object, and in both cases it would be analyzed as the [obj]():
 
 ~~~ sdparse
 Διδάσκει μαθηματικά

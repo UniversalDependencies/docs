@@ -262,9 +262,9 @@ will be completely implemented in future versions of the parser.
 `edu.stanford.nlp.trees.UniversalEnglishGrammaticalRelations.DISCOURSE_ELEMENT`
 
 
-### `dobj`: `dobj`
+### `obj`: `obj`
 
-`dobj` relations in SD are still annotated as [`dobj`](en-dep/dobj) in UD.
+`obj` relations in SD are still annotated as [`obj`](en-dep/dobj) in UD.
 
 #### GrammaticalRelation object:
 `edu.stanford.nlp.trees.UniversalEnglishGrammaticalRelations.DIRECT_OBJECT`

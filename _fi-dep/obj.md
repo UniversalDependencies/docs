@@ -4,7 +4,7 @@ title:  'dobj'
 shortdef : 'direct object'
 ---
 
-The dependency type `dobj` is used for (nominal) direct objects of the
+The dependency type `obj` is used for (nominal) direct objects of the
 verb.
 
 <!-- fname:dobj1.pdf -->
@@ -18,7 +18,7 @@ punct(sulki-2, .-4)
 As in Finnish a passive clause does not have a subject, and what in
 English would be considered the passive subject, is in Finnish the
 direct object, the type `nsubjpass` is not used in TDT, but the type
-`dobj` is used instead.
+`obj` is used instead.
 
 <!-- fname:dobj2.pdf -->
 ~~~ sdparse

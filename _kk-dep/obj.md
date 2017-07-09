@@ -4,7 +4,7 @@ title:  'dobj'
 shortdef : 'direct object'
 ---
 
-The dependency type `dobj` is used for (nominal) direct objects of the
+The dependency type `obj` is used for (nominal) direct objects of the
 verb. 
 
 Direct objects are typically in "nominative" (unmarked, indefinite

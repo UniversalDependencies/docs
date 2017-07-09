@@ -24,7 +24,7 @@ dobj(văd, Mara)
 expl(văd, O)
 ~~~
 
-Romanian allows for the occurrence of two Accusative objects with some (uses of certain) verbs: the [+Animate] object (the direct object in traditional grammar terms) is anlysed here as `iobj`, while the other Accusative object (the secondary object in traditional grammar terms) is `dobj`:
+Romanian allows for the occurrence of two Accusative objects with some (uses of certain) verbs: the [+Animate] object (the direct object in traditional grammar terms) is anlysed here as `iobj`, while the other Accusative object (the secondary object in traditional grammar terms) is `obj`:
 
 ~~~ sdparse
 Bunica i-a învățat pe copii o poezie . \n Grandmother-the them-has taught PE children a poem .

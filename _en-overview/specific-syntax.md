@@ -94,7 +94,7 @@ mark(predicting, with)
 
 ### Core arguments
 
-UD makes a distinction between core arguments and other dependents of predicates. In English, the UD relations that can designate core arguments are `nsubj`, `nsubjpass`, `dobj` and `iobj` for nominal arguments, and `ccomp`, `xcomp`, `csubj` and `csubjpass` for clausal arguments.
+UD makes a distinction between core arguments and other dependents of predicates. In English, the UD relations that can designate core arguments are `nsubj`, `nsubjpass`, `obj` and `iobj` for nominal arguments, and `ccomp`, `xcomp`, `csubj` and `csubjpass` for clausal arguments.
 
 `nsubj` and `nsubjpass` are used for external arguments of any predicate (as in the examples above); the only difference is that `nsubjpass` is used in passive-voice clauses.
 
@@ -137,9 +137,9 @@ expl(is, There)
 nsubj(is, dinner)
 ~~~
 
-The internal argument labels, `dobj` and `iobj`, are exclusive to verbal predicates and a handful of adjectives (namely: *worth*, *like* and *unlike*, following Huddleston and Pullum (2001)).
+The internal argument labels, `obj` and `iobj`, are exclusive to verbal predicates and a handful of adjectives (namely: *worth*, *like* and *unlike*, following Huddleston and Pullum (2001)).
 
-The distinction between `dobj` and `iobj` is strictly syntactic; `iobj` is reserved for "second objects" with restricted theta-roles, and is relatively rare in English. Only when another internal argument is present can `iobj` occur.
+The distinction between `obj` and `iobj` is strictly syntactic; `iobj` is reserved for "second objects" with restricted theta-roles, and is relatively rare in English. Only when another internal argument is present can `iobj` occur.
 
 ~~~sdparse
 They gave me the trip as a gift.
@@ -147,7 +147,7 @@ iobj(gave, me)
 dobj(gave, trip)
 ~~~
 
-The other internal argument need not be nominal. In English, some verbs can take a nominal complement and a clausal complement together. In the case of these verbs, the nominal complement is always thematically restricted, which suggests it is an `iobj` serving as a "second object" to the clausal complement. For that reason, the clausal complement label `ccomp` never cooccurs with `dobj`, but does cooccur with `dobj`.
+The other internal argument need not be nominal. In English, some verbs can take a nominal complement and a clausal complement together. In the case of these verbs, the nominal complement is always thematically restricted, which suggests it is an `iobj` serving as a "second object" to the clausal complement. For that reason, the clausal complement label `ccomp` never cooccurs with `obj`, but does cooccur with `obj`.
 
 ~~~sdparse
 I told them that I 'm planning to come visit .
@@ -155,7 +155,7 @@ ccomp(told, planning)
 iobj(told, them)
 ~~~
 
-However, the same observation does not hold of verbs that take open complements, labeled `xcomp` (more on this label below). Those can clearly cooccur with thematically unrestricted objects under some verbs. For that reason, nominal complements cooccuring with `xcomp` are uniformly labeled `dobj`, and never `iobj`.
+However, the same observation does not hold of verbs that take open complements, labeled `xcomp` (more on this label below). Those can clearly cooccur with thematically unrestricted objects under some verbs. For that reason, nominal complements cooccuring with `xcomp` are uniformly labeled `obj`, and never `iobj`.
 
 ~~~sdparse
 I told them to expect my visit.
@@ -454,7 +454,7 @@ compound(extract, tea)
 
 ### The nominal domain: nominal and prepositional phrases
 
-Nominal and prepositional phrases are uniformly organized around their nominal lexical head in UD. In addition to their argument roles, labeled `nsubj`, `nsubjpass`, `dobj` and `iobj`, nominal phrases can have roles as noncore dependents. In these roles, they are labeled `nmod` (and subtypes). Commonly, noncore dependents are realized as prepositional phrases.
+Nominal and prepositional phrases are uniformly organized around their nominal lexical head in UD. In addition to their argument roles, labeled `nsubj`, `nsubjpass`, `obj` and `iobj`, nominal phrases can have roles as noncore dependents. In these roles, they are labeled `nmod` (and subtypes). Commonly, noncore dependents are realized as prepositional phrases.
 
 #### Prepositions
 
@@ -1214,7 +1214,7 @@ nsubj(transpired, events)
 root(-ROOT-, why)
 ~~~
 
-The phrase _no matter_ is analyzed as taking a `dobj` complement in, e.g., _no matter the cost_. When it takes free relative object, that object is also analyzed according to the rules above.
+The phrase _no matter_ is analyzed as taking a `obj` complement in, e.g., _no matter the cost_. When it takes free relative object, that object is also analyzed according to the rules above.
 
 ~~~sdparse
 No matter what progress we make as individuals, we will never achieve real health until ...

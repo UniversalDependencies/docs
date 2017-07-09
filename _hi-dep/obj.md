@@ -5,4 +5,4 @@ shortdef: 'direct object'
 ---
 
 This document is a placeholder for the language-specific documentation
-for `dobj`.
+for `obj`.

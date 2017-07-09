@@ -98,7 +98,7 @@ The `remnant` relation is used when no predicational material is
 present. In contrast, in right-node-raising (RNR) and VP-ellipsis
 constructions in which some kind of predicational or verbal material
 is still present, the `remnant` relation is not used. In RNR, the
-verbs are coordinated and the object is a [dobj]() of the first verb:
+verbs are coordinated and the object is a [obj]() of the first verb:
 
 ~~~ sdparse
 João comprou e comeu uma maçã

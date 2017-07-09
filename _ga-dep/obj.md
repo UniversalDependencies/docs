@@ -4,7 +4,7 @@ title: 'dobj'
 shortdef: 'direct object'
 ---
 
-The `dobj` label is used to mark the relationship between a verb and its direct object.
+The `obj` label is used to mark the relationship between a verb and its direct object.
 
 ### Examples
 
@@ -24,7 +24,7 @@ eolas a chur ar fáil \n information to put at available
 dobj(chur, eolas)
 ~~~
 
-Impersonal/autonomous verbs are used to create phrases similar to the English passive. However, unlike English, the object does not become the subject of this verb form, and remains labelled as `dobj`.
+Impersonal/autonomous verbs are used to create phrases similar to the English passive. However, unlike English, the object does not become the subject of this verb form, and remains labelled as `obj`.
 
 _An lá a cuireadh <b>é</b>_ 'The day <b>he</b> was buried'
 
