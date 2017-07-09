@@ -2,7 +2,16 @@
 layout: feature
 title: 'PrepCase'
 shortdef: 'case form sensitive to prepositions'
+udver: '2'
 ---
+
+<table class="typeindex" border="1">
+<tr>
+  <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
+  <td><a href="#Npr">Npr</a></td>
+  <td><a href="#Pre">Pre</a></td>
+</tr>
+</table>
 
 Some personal pronouns
 have different forms depending on whether they are objects of
@@ -11,7 +20,7 @@ prepositions or not.
 Default empty value means that the word form is neutral w.r.t.
 prepositions.
 
-### Npr: non-prepositional case
+### <a name="Npr">`Npr`</a>: non-prepositional case
 
 This word form must not be used after a preposition.
 
@@ -19,7 +28,7 @@ This word form must not be used after a preposition.
 
 * _<b>jeho</b>, <b>jemu</b>, <b>jím</b>_ “him” (`Gen,Acc`, `Dat`, `Ins`)
 
-### Pre: prepositional case
+### <a name="Pre">`Pre`</a>: prepositional case
 
 This word form must be used after a preposition.
 
