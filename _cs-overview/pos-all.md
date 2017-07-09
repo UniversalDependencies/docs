@@ -3,6 +3,7 @@ layout: base
 title:  'POS tags'
 generated: 'true'
 permalink: cs/pos/all.html
+udver: '2'
 ---
 
 # POS tags
@@ -14,7 +15,7 @@ permalink: cs/pos/all.html
 {% assign sorted = site.cs-pos | sort: 'title' %}{% for p in sorted %}
 <a id="al-cs-pos/{{ p.title }}" class="al-dest"/>
 <h2><code>{{ p.title }}</code>: {{ p.shortdef }}</h2>
-{% if p.content contains "<!--details-->" %}    
+{% if p.content contains "<!--details-->" %}
 {{ p.content | split:"<!--details-->" | first }}
 <a href="{{ p.title }}" class="al-doc">See details</a>
 {% else %}
