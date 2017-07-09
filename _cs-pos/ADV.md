@@ -2,6 +2,7 @@
 layout: postag
 title: 'ADV'
 shortdef: 'adverb'
+udver: '2'
 ---
 
 ### Definition
@@ -24,7 +25,7 @@ them as numerals.
 The same holds for multiplicative numerals
 _(jednou, sedmkrát, stopadesátkrát).&nbsp;_
 
-Note that Czech transgressives (also called adverbial participles)
+Note that Czech transgressives (also called adverbial participles or converbs)
 are tagged [VERB](), not `ADV`.
 
 ### Examples
