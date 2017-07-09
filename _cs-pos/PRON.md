@@ -2,6 +2,7 @@
 layout: postag
 title: 'PRON'
 shortdef: 'pronoun'
+udver: '2'
 ---
 
 ### Definition
@@ -18,10 +19,12 @@ order to annotate the same thing same way across languages.
 
 For instance, _tohle&nbsp;_ “this” is traditionally called pronoun in
 Czech grammar, regardless of context (the notion of determiners does
-not exist in Czech grammar). To make the annotation parallel across
-languages, it should be now tagged `PRON` in _<b>Tohle</b> jsem viděl
-včera.&nbsp;_ “I saw <b>this</b> yesterday.” and `DET` in
-_<b>Tohle</b> auto jsem viděl včera.&nbsp;_ “I saw <b>this</b> car yesterday.”
+not exist in the traditional Czech grammar).
+In UD v2, _tohle_ is tagged `DET`.
+
+Unlike in UD v1, we no longer use the dependency tree to distinguish between determiners and pronouns.
+Instead, we use a pre-defined list of lemmas that are `DET` if their PDT tag indicates pronoun.
+See also [here](../../sla/pos/PRON.html) for a Slavic-wide discussion of the distinction between determiners and pronouns.
 
 ### Examples
 
