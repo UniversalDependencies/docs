@@ -36,7 +36,7 @@ documented in proper sections later.
   the second `nmod` modifying either the predicate or another noun
   phrase. If the *-lA* phrase modifies the subject (and it is clearly
   not a conjunction), we always attach it to the predicate. This
-  avoids `remnant` relations where subject is not expressed in the sentence (see below for other missing heads).
+  avoids `orphan` relations where subject is not expressed in the sentence (see below for other missing heads).
   
   Note that as in English PP attachment ambiguity, the `nmod` case can be ambiguous:
 
@@ -53,7 +53,7 @@ documented in proper sections later.
   Yesterday a   friend.P3S-lA  see.PAST.1SG
   `I saw (him/her) with a friend (of him/her)'.
   ```
-  In this case, we connect the phrase with *-lA* to the predicate with `remnant` relation.
+  In this case, we connect the phrase with *-lA* to the predicate with `orphan` relation.
 
   In case of coordination, if the second conjunct is a pronoun, it can
   be omitted. 
@@ -66,7 +66,7 @@ documented in proper sections later.
   *-lA* in these cases is almost always ambiguous between a case
   marker and conjunction. If the second component is missing, and the context
   does not clearly indicate a conjunction, we use `nmod`. Otherwise, we
-  use `remnant`.
+  use `orphan`.
 
 * Modal adverbs like *acaba* 'I wonder', *bakalım* 'let's see',
   *yoksa* 'if not' are linked to the main predicate using `discourse`

@@ -77,7 +77,7 @@ for the definition of each label.
 | `list` | Listing | 1. 東京 / <i>Tokyo</i> "Tokyo" &lt;-`list`- 2. 大阪 / <i>Osaka</i> "Osaka"</td></tr>
 | `dislocated` | a topic phrase (typically a prepositionalphrase with topic marker は / <i>ha</i>) | 象 は / <i>zo wa</i> "elephant-TOPIC" &lt;-`dislocated`- 鼻 が 長い / <i>hana ga nagai</i> "nose is long" |
 | `parataxis` | Listing of sentences | 「 太郎 は 花子 が 好き 。 / <i>Taro wa Hanako ga suki .</i> "Taro loves Hanako." &lt;-`parataxis`- 次郎 は 梅子 が 好き 。 / <i>Jiro wa Umeko ga suki .</i> "Jiro loves Umeko" 」 と 三郎 が 言っ た / <i>to Saburo ga it ta</i> "Saburo said" |
-| `remnant` | used to annotate head-less coordination (see the definition in Universal Dependencies for details) | |
+| `orphan` | used to annotate head-less coordination (see the definition in Universal Dependencies for details) | |
 | `reparandum` | speech repair |  |
 
 ## Special clausal dependents

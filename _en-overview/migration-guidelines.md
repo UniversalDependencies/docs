@@ -536,7 +536,7 @@ The UD represenation also introduces the following new relations which did not e
 * [`dislocated`](en-dep/dislocated)
 * [`foreign`](en-dep/foreign)
 * [`list`](en-dep/list)
-* [`remnant`](en-dep/remnant)
+* [`orphan`](en-dep/remnant)
 * [`vocative`](en-dep/vocative)
 
 ## _Enhanced_ Universal Depencies

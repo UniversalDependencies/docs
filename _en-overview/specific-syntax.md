@@ -764,7 +764,7 @@ nmod(talked, about)
 
 #### Gapping / Stripping
 
-In 'gapping' constructions, where the head of a clause has been elided but two arguments that contrast with arguments in the antecedent clause remain, and 'stripping' constructions, where the head of a clause has been elided but one contrasting argument and one polarity adverbial such as _not_ or _only_ remain, the `remnant` relation is used between the remaining constituents and the words they contrast with:
+In 'gapping' constructions, where the head of a clause has been elided but two arguments that contrast with arguments in the antecedent clause remain, and 'stripping' constructions, where the head of a clause has been elided but one contrasting argument and one polarity adverbial such as _not_ or _only_ remain, the `orphan` relation is used between the remaining constituents and the words they contrast with:
 
 ~~~sdparse
 it took another 20 mins to get our orders and a further 45 mins till our starters landed on our table.

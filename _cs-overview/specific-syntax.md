@@ -368,7 +368,7 @@ remnant(beef, pork)
 ~~~
 
 Sometimes a verb is missing but there is no coordination and no overt copy of the verb,
-hence we cannot use the `remnant` analysis.
+hence we cannot use the `orphan` analysis.
 In particular, there are sentence-like segments that lack the main verb:
 _A co na to [říká] MF?_
 “And what [does] MF [say] to it?”

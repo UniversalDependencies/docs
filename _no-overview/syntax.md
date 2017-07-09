@@ -14,7 +14,7 @@ et. al. (2014) and further described in the NDT guidelines (Kinn
 et. al.).
 The conversion has not been manually checked. There are a few known discrepancies from UD:
 
-* `remnant` elements in ellipsis are not attached to their correlate
+* `orphan` elements in ellipsis are not attached to their correlate
   but rather to the main verb, since information about correct
   correlate is not present in the original annotation
 * no `fixed` analysis in the treebank. This is also information that is not present in the original data.
