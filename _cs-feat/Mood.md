@@ -47,8 +47,8 @@ happen.
 
 Czech has present conditional and past conditional, both formed periphrastically using
 the past participle of the content verb, and a special form of the [auxiliary verb](cs-pos/AUX)
-_být._ The special form is historically _aorist tense,_ but the tense does not exist
-in modern Czech, so the auxiliary form is better described by `Mood=Cnd`.
+_být._ The special form resembles forms of the historic _aorist tense,_ which disappeared from
+Czech during the 15th century.
 
 The past participle of the content verb is not marked as conditional
 because it can also be used in past indicative.
