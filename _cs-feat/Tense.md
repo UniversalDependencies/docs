@@ -2,13 +2,23 @@
 layout: feature
 title: 'Tense'
 shortdef: 'tense'
+udver: '2'
 ---
+
+<table class="typeindex" border="1">
+<tr>
+  <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
+  <td><a href="#Fut">Fut</a></td>
+  <td><a href="#Past">Past</a></td>
+  <td><a href="#Pres">Pres</a></td>
+</tr>
+</table>
 
 Tense is a feature that specifies the time when the action took /
 takes / will take place, in relation to the current moment or to
 another action in the utterance.
 
-### `Past`: past tense
+### <a name="Past">`Past`</a>: past tense
 
 The past tense denotes actions that happened before the current
 moment. Past tense in Czech consists of the past participle
@@ -25,7 +35,7 @@ The participle has `Tense=Past`, even though it can also be used to form present
 * _<b>Šel</b> jsi domů.&nbsp;_ “You have <b>gone</b> home.”
 * _<b>Šel</b> domů.&nbsp;_ “He has <b>gone</b> home.”
 
-### `Pres`: present tense
+### <a name="Pres">`Pres`</a>: present tense
 
 The present tense denotes actions that are happening right now or that
 usually happen.
@@ -39,7 +49,7 @@ but they will still be marked `Tense=Pres`.
 * _<b>Přijdu</b> domů.&nbsp;_ “I <b>will come</b> home.” (_Přijít&nbsp;_ is a perfective verb.)
 * _<b>Jdu</b> domů.&nbsp;_ “I <b>go / am going</b> home.” (_Jít&nbsp;_ is an imperfective verb.)
 
-### `Fut`: future tense
+### <a name="Fut">`Fut`</a>: future tense
 
 The future tense denotes actions that will happen after the current
 moment. Future tense in Czech is formed in one of three ways, depending of the verb:
