@@ -2,7 +2,15 @@
 layout: feature
 title: 'Hyph'
 shortdef: 'hyphenated compound or part of it'
+udver: '2'
 ---
+
+<table class="typeindex" border="1">
+<tr>
+  <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
+  <td><a href="#Yes">Yes</a></td>
+</tr>
+</table>
 
 Boolean feature. Is this the first part of a hyphenated compound?
 
@@ -11,7 +19,7 @@ tokenization. The last part, _slovenský,&nbsp;_ is an independent adjective wit
 paradigm. However, the first part, _česko,&nbsp;_ is a form that does not occur elsewhere than in
 compounds (the independent form would be _český_).
 
-### Yes: it is part of hyphenated compound
+### <a name="Yes">`Yes`</a>: it is part of hyphenated compound
 
 #### Examples
 
