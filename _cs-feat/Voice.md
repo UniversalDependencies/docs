@@ -14,7 +14,7 @@ udver: '2'
 </table>
 
 Voice is a feature of verbs that helps map the traditional syntactic functions,
-such as subject and object, to semantic roles, such as agent and pacient.
+such as subject and object, to semantic roles, such as agent and patient.
 
 ### <a name="Act">`Act`</a>: active voice
 
