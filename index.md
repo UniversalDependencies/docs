@@ -30,8 +30,8 @@ udver: '2'
 
 <small>
 This is the online documentation for Universal Dependencies, version 2 (2016-12-01).
-<strong><font color="red">Note:</font></strong> The treebanks listed below still follow the v1 guidelines
-available [here](docsv1/index.html).
+<strong><font color="red">Note:</font></strong> An archived version of the v1 guidelines
+is available [here](docsv1/index.html).
 </small>
 
 # UD-related events in 2017
