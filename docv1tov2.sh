@@ -52,6 +52,22 @@ function rename_label
 
 
 #------------------------------------------------------------------------------
+# Marks all template pages as v2-compliant.
+#------------------------------------------------------------------------------
+function templates_are_v2
+{
+    for i in _template-* ; do
+        for j in $i/*.md ; do
+            if ! [ grep udver $j ] ; then
+                echo $j
+            fi
+        done
+    done
+}
+
+
+
+#------------------------------------------------------------------------------
 # MAIN
 #------------------------------------------------------------------------------
 
@@ -62,5 +78,6 @@ tmp=`mktemp docv1tov2-tmp-XXX`
 #rename_label dep dobj obj
 #rename_label dep mwe fixed
 #rename_label dep name flat
-rename_label dep remnant orphan
+#rename_label dep remnant orphan
+templates_are_v2
 
