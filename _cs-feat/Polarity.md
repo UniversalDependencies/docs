@@ -3,7 +3,16 @@ layout: feature
 title: 'Polarity'
 redirect_from: "cs/feat/Negative.html"
 shortdef: 'whether the word can be or is negated'
+udver: '2'
 ---
+
+<table class="typeindex" border="1">
+<tr>
+  <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
+  <td><a href="#Neg">Neg</a></td>
+  <td><a href="#Pos">Pos</a></td>
+</tr>
+</table>
 
 In Czech, negation is mostly done using the bound morpheme _ne-,_
 and an independent negating particle (equivalent to English “not”)
@@ -21,7 +30,7 @@ Note that `Negative=Neg` is not the same thing as
 there is no such binary opposition as for verbs and adjectives. (There
 is no such thing as “affirmative pronoun”.)
 
-### `Pos`: positive, affirmative
+### <a name="Pos">`Pos`</a>: positive, affirmative
 
 #### Examples
 
@@ -30,7 +39,7 @@ is no such thing as “affirmative pronoun”.)
 * _<b>pěkně</b>&nbsp;_ “nicely”
 * _<b>přijetí</b>&nbsp;_ “acceptance”
 
-### Neg: negative
+### <a name="Neg">`Neg`</a>: negative
 
 #### Examples
 
