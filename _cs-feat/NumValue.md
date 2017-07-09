@@ -2,7 +2,17 @@
 layout: feature
 title: 'NumValue'
 shortdef: 'numeric value'
+udver: '2'
 ---
+
+<table class="typeindex" border="1">
+<tr>
+  <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
+  <td><a href="#1">1</a></td>
+  <td><a href="#2">2</a></td>
+  <td><a href="#3">3</a></td>
+</tr>
+</table>
 
 In Czech, number “one” agrees with the counted noun in [Gender](), [Number]()
 and [Case](). Number “two” agrees in gender and case and numbers “three”
@@ -20,14 +30,14 @@ together behaves as neuter singular (this is important for subject-verb agreemen
 Specific behavior of low-value numerals is the reason why there is a separate feature
 to mark these numerals.
 
-### `1`: numeric value 1
+### <a name="1">`1`</a>: numeric value 1
 
 * _jeden, jedna, jedno_ “one”
 
-### `2`: numeric value 2
+### <a name="2">`2`</a>: numeric value 2
 
 * _dva, dvě_ “two”
 
-### `3`: numeric value 3 or 4
+### <a name="3">`3`</a>: numeric value 3 or 4
 
 * _tři_ “three”, _čtyři_ “four”
