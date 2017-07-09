@@ -2,7 +2,17 @@
 layout: feature
 title: 'Gender'
 shortdef: 'gender'
+udver: '2'
 ---
+
+<table class="typeindex" border="1">
+<tr>
+  <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
+  <td><a href="#Fem">Fem</a></td>
+  <td><a href="#Masc">Masc</a></td>
+  <td><a href="#Neut">Neut</a></td>
+</tr>
+</table>
 
 Gender is a lexical feature of [nouns](cs-pos/NOUN) and inflectional feature
 of other parts of speech ([adjectives](cs-pos/ADJ), [verbs](cs-pos/VERB)) that mark agreement with
@@ -10,7 +20,7 @@ nouns. There are three values of gender: masculine, feminine, and neuter.
 
 See also the related feature of [Animacy]().
 
-### `Masc`: masculine gender
+### <a name="Masc">`Masc`</a>: masculine gender
 
 Nouns denoting male persons are masculine. Other nouns may be also
 grammatically masculine, without any relation to sex.
@@ -24,7 +34,7 @@ grammatically masculine, without any relation to sex.
 * _<b>předseda</b>&nbsp;_ “chairman”
 * _<b>soudce</b>&nbsp;_ “judge”
 
-### `Fem`: feminine gender
+### <a name="Fem">`Fem`</a>: feminine gender
 
 Nouns denoting female persons are feminine. Other nouns may be also
 grammatically feminine, without any relation to sex.
@@ -36,7 +46,7 @@ grammatically feminine, without any relation to sex.
 * _<b>píseň</b>&nbsp;_ “song”
 * _<b>kost</b>&nbsp;_ “bone”
 
-### `Neut`: neuter gender
+### <a name="Neut">`Neut`</a>: neuter gender
 
 This third gender is for nouns that are neither
 masculine nor feminine (grammatically).
