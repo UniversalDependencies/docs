@@ -65,7 +65,7 @@ for the definition of each label.
 | label | description | examples |
 |-------|-------------|----------|
 | `compound` | Noun compounds, verb compounds | 構文 / <i>kobun</i> "syntax" &lt;-`compound`- 解析 / <i>kaiseki</i> "analysis", 泳ぎ / <i>oyogi</i> "swim" &lt;-`compound`- 着く / <i>tsuku</i> "reach" |
-| `name` | Proper noun compounds | 山田 / <i>Yamada</i> "Yamada" -`name`-&gt; 太郎 / <i>Taro</i> "Taro" |
+| `flat` | Proper noun compounds | 山田 / <i>Yamada</i> "Yamada" -`flat`-&gt; 太郎 / <i>Taro</i> "Taro" |
 | `fixed` | Multi-word functional expressions | に / <i>ni</i> -`fixed`-&gt; よって / <i>yotte</i> "by", かも / <i>kamo</i> -`fixed`-&gt; しれ / <i>shire</i> -`fixed`-&gt; ない / <i>nai</i> (maybe) |
 | `foreign` | Foreign words in non-Japanese characters | google &lt;-`foreign`- docs |
 | `goeswith` | used when a word is somehow split into tokens | |

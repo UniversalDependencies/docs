@@ -5,7 +5,7 @@ shortdef : 'compound'
 ---
 
 `compound` is one of the three UD relations UD for compounding,
-together with [fixed]() and [name]().
+together with [fixed]() and [flat]().
 
 Nouns should modify appropriate noun in the compound in order to respect the branching structure.
 

@@ -60,5 +60,6 @@ tmp=`mktemp docv1tov2-tmp-XXX`
 #rename_label pos CONJ CCONJ
 #rename_label feat Negative Polarity
 #rename_label dep dobj obj
-rename_label dep mwe fixed
+#rename_label dep mwe fixed
+rename_label dep name flat
 

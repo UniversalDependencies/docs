@@ -6,14 +6,14 @@ shortdef: 'multi-word expression'
 ---
 
 The multi-word expression (modifier) relation is one of the three
-relations ([compound](), `fixed`, [name]()) for compounding.
+relations ([compound](), `fixed`, [flat]()) for compounding.
 It is used for certain fixed grammaticized expressions that behave
 like function words or short adverbials.
 
 The scope of `fixed` annotation corresponds roughly to the *fixed
 expressions* category of
 [Sag et al.](http://lingo.stanford.edu/pubs/WP-2001-03.pdf), but
-excludes any relations in scope of [name]() or [compound]().
+excludes any relations in scope of [flat]() or [compound]().
 Additionally, limited morphosyntactic variation may be allowed
 for MWEs in exceptional cases.
 

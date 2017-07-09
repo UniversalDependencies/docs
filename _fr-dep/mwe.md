@@ -5,7 +5,7 @@ shortdef: 'multi-word expression'
 ---
 
 The multi-word expression (modifier) relation is one of the three
-relations ([compound](), `fixed`, [name]()) for compounding.
+relations ([compound](), `fixed`, [flat]()) for compounding.
 It is used for certain fixed grammaticized expressions that behave
 like function words or short adverbials. 
 

@@ -39,8 +39,8 @@ amod(card, his)
 
 `nmod` noun phrases attached to nouns are usually in the genitive [ru-feat/Case]() and follow the modified noun.
 However, there is also a different kind of `nmod` that precedes the modified noun and agrees with it in case and number.
-A typical example is a title attached to a name of a person. The relation is similar to the [name]() relation
-that links the first and the last name, but it is not labeled `name` because the title is not part of the name:
+A typical example is a title attached to a name of a person. The relation is similar to the [flat]() relation
+that links the first and the last name, but it is not labeled `flat` because the title is not part of the name:
 
 ~~~ sdparse
 российский президент Владимир Владимирович Путин \n Russian president Vladimir Vladimirovich Putin
