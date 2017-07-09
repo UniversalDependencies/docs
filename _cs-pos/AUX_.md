@@ -5,6 +5,7 @@ shortdef: 'auxiliary verb'
 # The filename "aux" is not allowed on Windows, so we redirect instead
 # (see https://github.com/UniversalDependencies/docs/issues/20)
 redirect_from: "cs/pos/AUX.html"
+udver: '2'
 ---
 
 ### Definition
@@ -34,7 +35,7 @@ grammatical distinctions not carried by the lexical verb.
   _dělali <b>jsme</b>_ “we did.`Masc`”.
 
 - Conditional mood.
-  Conditional form (historically aorist) of _být_ is combined with past participle
+  Conditional form of _být_ is combined with past participle
   of the lexical verb. The auxiliary expresses person and number,
   the participle expresses gender and number:
   _dělal <b>bych</b>_ “I would do.`Masc`”,
@@ -54,19 +55,20 @@ grammatical distinctions not carried by the lexical verb.
   _<b>buď</b> udělán_ “be done”,
   _<b>být</b> udělán_ “to be done”.
 
-Note that the verb _být_ will not be tagged `AUX` if it is used as
-[copula](cs-dep/cop) (_Moje auto <b>je</b> nové._ “My car <b>is</b> new.”)
-or as a content verb (_V&nbsp;Praze <b>je</b> nové divadlo._ “There <b>is</b> a new theatre in Prague.”)
-It will be tagged [VERB]() in these cases.
-It is also possible that an auxiliary _<b>být</b>_ modifies a lexical _být_
-(_V&nbsp;Praze <b>by</b> bylo nové divadlo._ “There <b>would</b> be a new theatre in Prague.”)
+In UD v1, where copulas were not tagged `AUX`, many instances of _být_ were tagged `VERB`.
+In UD v2, copulas are tagged `AUX` and the definition of copula sentences has been extended
+to location-existentials (_V&nbsp;Praze <b>je</b> nové divadlo._ “There <b>is</b> a new theatre in Prague.”)
+Hence almost all occurrences of _být_ should be now tagged `AUX`.
+Only pure existentials without location (_Vůle <b>je</b> a vždycky <b>byla</b>._ “There <b>is</b> and always <b>was</b> the will.”)
+have a non-auxiliary _být,_ which should be tagged `VERB`.
 
 Note that the passive participle may be also used as nominal predicate with copula.
 Hence it may be difficult to distinguish a passive construction from a copula construction.
 The former focuses on the process while the latter emphasizes the result.
+However, since copulas are now tagged `AUX`, the distinction no longer affects the part-of-speech tag:
 
 - Passive: _Smlouva <b>byla</b>.`AUX` podepsána v&nbsp;Bílém domě._ &nbsp; “The contract was signed in the White House.”
-- Copula: _Smlouva <b>byla</b>.`VERB` podepsána červeným inkoustem._ &nbsp; “The contract was signed in red ink.”
+- Copula: _Smlouva <b>byla</b>.`AUX` podepsána červeným inkoustem._ &nbsp; “The contract was signed in red ink.”
 
 ### Modal verbs are not auxiliaries
 
