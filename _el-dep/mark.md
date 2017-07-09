@@ -75,7 +75,7 @@ conj(μάθει, δουλέψει)
 aux(δουλέψει, να)
 ~~~
 
-For certain multiword subordinate conjunctions, we use combinations of the `mark` and the [mwe](mwe) relations. 
+For certain multiword subordinate conjunctions, we use combinations of the `mark` and the [mwe](fixed) relations. 
 
 ~~~ sdparse
 Αν και βρίσκεται στο σωστό δρόμο χρειάζεται περισσότερο χρόνο

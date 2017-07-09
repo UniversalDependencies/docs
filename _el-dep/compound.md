@@ -40,5 +40,5 @@ nummod(ευρώ, εκατομμύρια)
 
 The two other compounding relations are:
 
-- [mwe]() for fixed grammaticized expressions with function words
+- [fixed]() for fixed grammaticized expressions with function words
 - [name]() for proper nouns constituted of multiple nominal elements

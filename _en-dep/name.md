@@ -5,7 +5,7 @@ shortdef: 'name'
 ---
 
 `name` is one of the three relations for compounding in UD (together
-with [compound]() and [mwe]()).
+with [compound]() and [fixed]()).
 It is used for proper nouns constituted of multiple nominal
 elements. For example, `name` would be used between the words of
 _Hillary Rodham Clinton, New York,_ or _Carl XVI Gustaf_ but not to

@@ -34,7 +34,7 @@ Ma non è il caso di pensare
 cc(caso, Ma)
 ~~~
 
-Elements that can assume the role of <code>cc</code> are POS tagged as <code>CONJ</code> and <code>SCONJ</code>, but there are also some <code>ADV</code> elements that have the role of conjunctions because they are used in a multiword expressions (for more on that see [mwe]()).
+Elements that can assume the role of <code>cc</code> are POS tagged as <code>CONJ</code> and <code>SCONJ</code>, but there are also some <code>ADV</code> elements that have the role of conjunctions because they are used in a multiword expressions (for more on that see [fixed]()).
 
 ~~~ sdparse
 Il nome di Sartori , così come il quello di Alma , compare .

@@ -4,7 +4,7 @@ title: 'name'
 shortdef: 'name'
 ---
 
-`name` is one of the three relations for compounding in UD (together with [compound]() and [mwe]()). It is used for proper nouns constituted of multiple nominal elements. 
+`name` is one of the three relations for compounding in UD (together with [compound]() and [fixed]()). It is used for proper nouns constituted of multiple nominal elements. 
 Words joined by `name` should all be part of a minimal noun phrase; otherwise, regular syntactic relations should be used.  
 In general, names are annotated in a flat, head-initial structure, in which all words in the name modify the first one using the `name` label.
 

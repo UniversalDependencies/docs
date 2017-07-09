@@ -394,9 +394,9 @@ I felt as if I was in an over priced Olive Garden .
 goeswith(priced, over)
 ~~~
 
-The other two relations, `mwe` and `compound`, are more interesting. The main difference between them is that `mwe` applies between function words and other function words or lexical words, while `compound` applies only between lexical words.
+The other two relations, `fixed` and `compound`, are more interesting. The main difference between them is that `fixed` applies between function words and other function words or lexical words, while `compound` applies only between lexical words.
 
-The `mwe` relation is used sparingly. In general, the relation is used in grammaticalized uses of two or more function words together, often giving rise to noncompositional meaning. Since words joined by the `mwe` relation often have equal claim to the status of head, any such construction is, by convention, head-initial.
+The `fixed` relation is used sparingly. In general, the relation is used in grammaticalized uses of two or more function words together, often giving rise to noncompositional meaning. Since words joined by the `fixed` relation often have equal claim to the status of head, any such construction is, by convention, head-initial.
 
 ~~~sdparse
 How come no one bothers to ask any questions in this section ?
@@ -418,7 +418,7 @@ case(reasons, due)
 
 When the multiword expression is composed of more than two words, all non-head words attach directly to the head, in a flat structure.
 
-Decisions about what should be annotated as a multiword expression are difficult due to the fact that such expressions exist in a continuous spectrum between phrases built via fully productive rules on the one hand, and fixed lexicalized expressions on the other. A series of criteria can be used to rule out the `mwe` label: optionality of one word in the construction; meaning compositionality;  availability of variants in which one of the words is substituted.
+Decisions about what should be annotated as a multiword expression are difficult due to the fact that such expressions exist in a continuous spectrum between phrases built via fully productive rules on the one hand, and fixed lexicalized expressions on the other. A series of criteria can be used to rule out the `fixed` label: optionality of one word in the construction; meaning compositionality;  availability of variants in which one of the words is substituted.
 
 The `compound` relation, on the other hand, can be used freely to represent productive phrase-building. The difference is that `compound` is used when a string of words joined together are analyzed as a single lexical unit that behaves as a head (i.e., an X^0 node) rather than as a constituent (i.e., an XP node) in the sentence.
 

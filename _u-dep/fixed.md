@@ -10,7 +10,7 @@ The `fixed` relation is one of the three relations for multiword expressions (MW
 It is used for certain fixed grammaticized expressions that behave
 like function words or short adverbials.
 
-**New from v2:** The `fixed` relation replaces the old `mwe` relation to prevent misunderstanding regarding its scope.
+**New from v2:** The `fixed` relation replaces the old `fixed` relation to prevent misunderstanding regarding its scope.
 
 The scope of `fixed` MWEs corresponds roughly to the *fixed
 expressions* category of

@@ -306,12 +306,12 @@ of the pleonastic _it_ differently.
 `edu.stanford.nlp.trees.UniversalEnglishGrammaticalRelations.MARKER`
 
 
-### <b>`mwe`: `mwe`</b>
+### <b>`fixed`: `fixed`</b>
 
-`mwe` relations in SD are still annotated as [`mwe`](en-dep/mwe) in UD.
+`fixed` relations in SD are still annotated as [`fixed`](en-dep/mwe) in UD.
 
 However, the list of expressions which are considered multi-word expressions has changed. See the 
-description of the [`mwe` relation](en-dep/mwe) for the list of multi-word expressions.
+description of the [`fixed` relation](en-dep/mwe) for the list of multi-word expressions.
 
 #### GrammaticalRelation object:
 `edu.stanford.nlp.trees.UniversalEnglishGrammaticalRelations.MULTI_WORD_EXPRESSION`

@@ -14,7 +14,7 @@ expressions, such as _invece di_ "instead of", _a causa di_ "because of", _davan
 component words are then still tagged according to their basic use
 (i.e. _a_ is `ADP`, _causa_ is [NOUN](), _di_ is `ADP`) and their status as a
 multi-word expression is accounted for at the level of syntactic annotation.
-See [mwe]() for more details on the representation of multi-word expressions.
+See [fixed]() for more details on the representation of multi-word expressions.
 
 Italian prepositions are also used for introducing non-finite clausal complements, as in _Maria ha deciso <b>di</b> partire_ "Mary decided to leave" or _Maria è andata <b>a</b> congratularsi con loro_ "Mary went to congratulate them".
 
