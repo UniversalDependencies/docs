@@ -2,7 +2,21 @@
 layout: feature
 title: 'Case'
 shortdef: 'case'
+udver: '2'
 ---
+
+<table class="typeindex" border="1">
+<tr>
+  <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
+  <td><a href="#Acc">Acc</a></td>
+  <td><a href="#Dat">Dat</a></td>
+  <td><a href="#Gen">Gen</a></td>
+  <td><a href="#Ins">Ins</a></td>
+  <td><a href="#Loc">Loc</a></td>
+  <td><a href="#Nom">Nom</a></td>
+  <td><a href="#Voc">Voc</a></td>
+</tr>
+</table>
 
 Case is an inflectional feature of [nouns](cs-pos/NOUN) and
 other parts of speech ([adjectives](cs-pos/ADJ),
@@ -35,12 +49,12 @@ adpositions and other words will determine that the noun phrase must
 be in a particular grammatical case to fill a particular valency slot
 (semantic role).
 
-### `Nom`: nominative
+### <a name="Nom">`Nom`</a>: nominative
 
 The base form of the noun, also used as citation form (lemma).
 This is the word form used for subjects of clauses.
 
-### `Gen`: genitive
+### <a name="Gen">`Gen`</a>: genitive
 
 Prototypical meaning of genitive is that the noun phrase somehow
 belongs to its governor; it would often be translated by the English
@@ -69,7 +83,7 @@ preposition _bez&nbsp;_ always requires its argument to be in genitive.
 * _Praha je hlavní město <b>České republiky</b>.&nbsp;_ “Prague is the
   capital <b>of the Czech Republic</b>.”
 
-### `Dat`: dative
+### <a name="Dat">`Dat`</a>: dative
 
 This is the word form often used for indirect objects of verbs.
 
@@ -79,12 +93,12 @@ This is the word form often used for indirect objects of verbs.
   (_svému bratrovi&nbsp;_ “my brother” is dative and
   _dárek&nbsp;_ “present” is accusative.)
 
-### `Acc`: accusative
+### <a name="Acc">`Acc`</a>: accusative
 
 Perhaps the second most widely spread morphological case.
 This is the word form most frequently used for direct objects of verbs.
 
-### `Voc`: vocative
+### <a name="Voc">`Voc`</a>: vocative
 
 The vocative case is a special form of noun used to address
 someone. Thus it predominantly appears with animate nouns (see the
@@ -96,7 +110,7 @@ restriction and inanimate things can be addressed as well.
 * _Co myslíš, <b>Filipe</b>?&nbsp;_ “What do you think,
   <b>Filip</b>?”
 
-### `Loc`: locative
+### <a name="Loc">`Loc`</a>: locative
 
 The locative case often expresses location in space or time, which
 gave it its name. As elsewhere, non-locational meanings also exist and
@@ -114,7 +128,7 @@ combination with prepositions.
 * _Mluvili jsme tam o <b>morfologii</b>.&nbsp;_ “We talked there about
   <b>morphology</b>.” (Non-locational non-temporal example)
 
-### `Ins`: instrumental
+### <a name="Ins">`Ins`</a>: instrumental
 
 The role from which the name of the instrumental case is derived is
 that the noun is used as instrument to do something (as in _psát
