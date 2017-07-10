@@ -2,6 +2,7 @@
 layout: relation
 title: 'iobj'
 shortdef: 'indirect object'
+udver: '2'
 ---
 
 The indirect object of a verb is any nominal phrase that is a core
@@ -75,7 +76,9 @@ most directly affected object _(patient)._
 ### Prague Dependency Treebank
 
 The manual annotation of the PDT does not distinguish direct and indirect objects.
-Therefore all non-clausal dependents labeled `Obj` in PDT are currently labeled `obj`
+Therefore most non-clausal dependents labeled `Obj` in PDT are currently labeled `obj`
 in the converted data, even if it results in two or more direct objects attached to one verb.
+Occasionally a heuristic was used: if there are two objects, one of them accusative and the other dative, then the former is obj and the latter iobj.
+But such heuristics do not cover all possible objects, and even ditransitive verbs may occur without one of their objects because of ellipsis.
 In future, the valency lexicon <a href="http://ufal.mff.cuni.cz/vallex">Vallex</a>
 could be used to identify the main object.
