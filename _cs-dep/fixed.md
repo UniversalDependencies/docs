@@ -3,20 +3,21 @@ layout: relation
 title: 'fixed'
 redirect_from: "cs/dep/mwe.html"
 shortdef: 'multi-word expression'
+udver: '2'
 ---
 
-The multi-word expression (modifier) relation is one of the
-relations for compounding and it is intended for function words.
+The `fixed` multi-word expression relation is one of the
+relations for compounding and it is intended mostly for function words.
 In Czech it is used for multi-word prepositions.
 The leftmost word is the head and all the other words are attached as its `fixed` modifiers.
 
 ~~~ sdparse
 Na rozdíl od tebe já se nemám zač stydět . \n In contrast to you I myself have-not of-what to-be-ashamed .
-mwe(Na, rozdíl)
-mwe(Na, od)
+fixed(Na, rozdíl)
+fixed(Na, od)
 case(tebe, Na)
-mwe(In, contrast)
-mwe(In, to)
+fixed(In, contrast)
+fixed(In, to)
 case(you, In)
 ~~~
 
@@ -25,12 +26,12 @@ by emphasizers and other words:
 
 ~~~ sdparse
 ve srovnání například s úvěry \n in comparison for-example to loans
-mwe(ve, srovnání)
-mwe(ve, s)
+fixed(ve, srovnání)
+fixed(ve, s)
 case(úvěry, ve)
 advmod:emph(úvěry, například)
-mwe(in, comparison)
-mwe(in, to)
+fixed(in, comparison)
+fixed(in, to)
 case(loans, in)
 advmod:emph(loans, for-example)
 ~~~
@@ -49,6 +50,6 @@ nmod(zřízen, jehož)
 nmod(created, whose)
 case(jehož, na)
 case(whose, on)
-mwe(na, základě)
-mwe(on, basis)
+fixed(na, základě)
+fixed(on, basis)
 ~~~
