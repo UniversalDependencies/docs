@@ -26,9 +26,9 @@ The `ccomp` link is used for clausal dependents which are core arguments, when t
 1	they	_	_	_	_	0	_	_	_
 2	just	_	_	_	_	0	_	_	_
 3	tell	_	_	_	_	0	_	_	_
-4	he	_	_	_	_	0	_	_	_
+4	him	_	_	_	_	0	_	_	_
 5	that	_	_	_	_	0	_	_	_
-6	he	_	_	_	_	0	_	_	_
+6	his	_	_	_	_	0	_	_	_
 7	daughter	_	_	_	_	0	_	_	_
 8	fall	_	_	_	_	0	_	_	_
 
