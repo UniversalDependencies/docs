@@ -2,6 +2,7 @@
 layout: base
 title:  'Syntax'
 permalink: cs/overview/syntax.html
+udver: '2'
 ---
 
 # Syntax
