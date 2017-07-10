@@ -2,6 +2,7 @@
 layout: relation
 title: 'case'
 shortdef: 'case marking'
+udver: '2'
 ---
 
 Czech uses a combination of oblique morphological cases and prepositions to express semantic case.
