@@ -20,7 +20,7 @@ there is just one node with the `root` dependency relation in every
 tree. If the main predicate is not present (due to
 [ellipsis](http://universaldependencies.org/cs/overview/specific-syntax.html#ellipsis))
 and there are
-multiple orphaned dependents, the leftmost dependent is promoted to
+multiple orphaned dependents, the dependent that is highest in the obliqueness hierarchy is promoted to
 the head (root) position and the other orphans are attached to it.
 
 An example sentence-like segment that lacks the main verb:
