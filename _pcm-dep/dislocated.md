@@ -5,7 +5,7 @@ shortdef: 'dislocated elements'
 udver: '2'
 ---
 
-The `dislocated` relation is used between a dislocated clause or phrase and its head. A constituent (argument or adjunct) is dislocated when it is found outside the boundaries of the clause it belongs to. In Naija dislocations are used for topicalization. 
+The `dislocated` relation is used between a dislocated clause or phrase and its head. A constituent (argument or adjunct) is dislocated when it is found outside the boundaries of the clause it belongs to.
 
 ~~~ conllu
 # visual-style 5 2 dislocated	color:blue
