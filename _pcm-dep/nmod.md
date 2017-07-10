@@ -27,7 +27,7 @@ The `nmod` relation is used for nominal dependants of another noun or noun phras
 3	fall	_	_	_	_	0	_	_	_
 4	from	_	_	_	_	0	_	_	_
 5	three	_	_	_	_	0	_	_	_
-6	story	_	_	_	_	0	_	_	_
+6	storey	_	_	_	_	0	_	_	_
 7	building	_	_	_	_	0	_	_	_
 
 1	his	_	_	_	_	0	_	_	_
@@ -36,7 +36,7 @@ The `nmod` relation is used for nominal dependants of another noun or noun phras
 4	from	_	_	_	_	0	_	_	_
 5	a	_	_	_	_	0	_	_	_
 6	three	_	_	_	_	0	_	_	_
-7	story	_	_	_	_	0	_	_	_
+7	storey	_	_	_	_	0	_	_	_
 8	building	_	_	_	_	0	_	_	_
 
 ~~~
