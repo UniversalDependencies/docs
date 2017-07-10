@@ -6,7 +6,6 @@ udver: '2'
 ---
 
 In FrenchSpoken, the `obl:mod` relation is used for nominal adjuncts. They can be (but are not always) introduced by a preposition.
-N.B.: In UDv1 the [nmod]() relation was used for nominal dependents of verbs, adjectives, and adverbs. In UDv2, we use the `obl` relation (or one of its sub-categorisations) for these dependents.
 
 Here is an example from FrenchSpoken :
 
