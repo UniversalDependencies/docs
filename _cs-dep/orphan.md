@@ -2,7 +2,7 @@
 layout: relation
 title: 'orphan'
 redirect_from: "cs/dep/remnant.html"
-shortdef: 'remnant in ellipsis'
+shortdef: 'connecting orphaned arguments of elided predicate'
 udver: '2'
 ---
 
