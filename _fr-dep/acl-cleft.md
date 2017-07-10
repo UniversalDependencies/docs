@@ -5,8 +5,8 @@ shortdef: 'cleft clause modifier'
 udver: '2'
 ---
 
-In FrenchSpoken we use the `acl:cleft` relation to link the clefted nominal element and cleft clause in a cleft construction. 
-When the clefted element is a clause or an adverb, we use the ccomp:cleft relation instead.
+In FrenchSpoken we use the `acl:cleft` relation to link the clefted nominal element (i.e. the head of the cleft construction) and the clause of the cleft sentence.
+When the clefted element is a clause or an adverb, we use the [ccomp:cleft]() relation instead.
 
 ~~~ sdparse
 Les vendanges commencent aujourd'hui. C' est un vigneron du coin qui me l'a dit .
