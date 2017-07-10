@@ -2,6 +2,7 @@
 layout: relation
 title: 'det:nummod'
 shortdef: 'pronominal quantifier agreeing in case with the noun'
+udver: '2'
 ---
 
 Pronominal quantifiers are labeled `det:nummod` or [det:numgov]() instead of [det]()
