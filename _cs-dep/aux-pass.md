@@ -1,7 +1,8 @@
 ---
 layout: relation
-title: 'auxpass'
+title: 'aux:pass'
 shortdef: 'passive auxiliary'
+udver: '2'
 ---
 
 A passive auxiliary of a clause is a form of the [auxiliary verb](cs-pos/AUX) _být_ “to be”
@@ -9,20 +10,20 @@ used to construct the periphrastic passive voice (in any tense or in the infinit
 
 ~~~ sdparse
 Kennedy byl zabit . \n Kennedy was killed .
-auxpass(zabit, byl)
-auxpass(killed, was)
+aux:pass(zabit, byl)
+aux:pass(killed, was)
 ~~~
 
 ~~~ sdparse
 Kennedy bude zabit . \n Kennedy will-be killed .
-auxpass(zabit, bude)
-auxpass(killed, will-be)
+aux:pass(zabit, bude)
+aux:pass(killed, will-be)
 ~~~
 
 ~~~ sdparse
 Kennedy netušil , že jeho osudem je být zabit . \n Kennedy did-not-anticipate that his fate is to-be killed .
-auxpass(zabit, být)
-auxpass(killed, to-be)
+aux:pass(zabit, být)
+aux:pass(killed, to-be)
 ~~~
 
 Note that the passive participle may be also used as nominal predicate with [copula](cop).
@@ -33,8 +34,8 @@ The former focuses on the process while the latter emphasizes the result.
 
 ~~~ sdparse
 Smlouva byla podepsána v Bílém domě . \n Contract was signed in White House .
-auxpass(podepsána, byla)
-auxpass(signed, was)
+aux:pass(podepsána, byla)
+aux:pass(signed, was)
 ~~~
 
 - Copula:
