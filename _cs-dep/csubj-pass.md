@@ -1,21 +1,22 @@
 ---
 layout: relation
-title: 'csubjpass'
+title: 'csubj:pass'
 shortdef: 'clausal passive subject'
+udver: '2'
 ---
 
 A clausal passive subject is a clausal syntactic subject of a passive clause.
 
 ~~~ sdparse
 Bylo mi doporučeno , abych to velmi dobře zvážil . \n It-has-been to-me recommended , that-I it very well weigh .
-csubjpass(doporučeno, zvážil)
-csubjpass(recommended, weigh)
+csubj:pass(doporučeno, zvážil)
+csubj:pass(recommended, weigh)
 ~~~
 
 Reflexive passive (the meaning is “You are not expected to come before nine o'clock.”)
 
 ~~~ sdparse
 Nepředpokládá se , že přijdete před devátou . \n It-does-not-expect itself , that you-will-come before nine .
-csubjpass(Nepředpokládá, přijdete)
-csubjpass(It-does-not-expect, you-will-come)
+csubj:pass(Nepředpokládá, přijdete)
+csubj:pass(It-does-not-expect, you-will-come)
 ~~~
