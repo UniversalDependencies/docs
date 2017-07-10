@@ -1,7 +1,7 @@
 ---
 layout: relation
-title: 'nmod'
-shortdef: 'nominal modifier'
+title: 'obl'
+shortdef: 'oblique argument or adjunct'
 udver: '2'
 ---
 
