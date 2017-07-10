@@ -2,6 +2,7 @@
 layout: relation
 title: 'advmod'
 shortdef: 'adverbial modifier'
+udver: '2'
 ---
 
 An adverbial modifier of a word is a (non-clausal) [adverb](cs-pos/ADV)
@@ -13,7 +14,7 @@ by adverbs, adpositional phrases, or nouns in particular morphological
 [cases](cs-feat/Case).
 We differentiate adverbials realized as adverbs (`advmod`) and
 adverbials realized by noun phrases or adpositional phrases
-([nmod]()).
+([obl]()).
 
 ~~~ sdparse
 geneticky upravené potraviny \n genetically modified food
