@@ -33,7 +33,7 @@ The `dislocated` relation is used between a dislocated clause or phrase and its 
 ~~~
 
 
-The dislocated constituent is resumed by the pronoun am. . The pronominalized constituent plays the role of object for the verb cause:
+The dislocated constituent is replicated by the _am_ pronoun. The pronominalized constituent plays the role of object for the verb cause:
 
 ~~~ conllu
 # visual-style 12 3 dislocated	color:blue
