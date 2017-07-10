@@ -8,7 +8,7 @@ udver: '2'
 redirect_from: "pcm/dep/aux.html"
 ---
 
-The relation `aux` is used between an auxiliary verb and the governor of a predicate (verb, adverb, adjective...). Auxiliaries are used to express TAME (Time, Aspect, Mood, Evidentiality). In Naija auxiliaries precede the predicate and there can be several of them attached to the same governor.
+The relation `aux` is  used between an auxiliary verb and a predicate (verb, adverb, adjective...). Auxiliaries are used to express TAME (Time, Aspect, Mood, Evidentiality). In Naija auxiliaries precede the predicate and there can be several of them attached to the same governor.
 
 
 ~~~ conllu
@@ -129,3 +129,5 @@ Some of these auxiliaries can also be used as the main verb of a clause:
 - fit
 - go
 - make
+
+See more about the auxiliaries in the [AUX]() page.
