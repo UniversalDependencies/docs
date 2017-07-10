@@ -15,11 +15,6 @@ advcl(produit, faisait)
 ~~~
 
 ~~~ sdparse
-Si tu sais qui l'a fait, tu devrais le dire au professeur \n If you know who did it, you should tell the teacher
-advcl(dire, sais)
-~~~
-
-~~~ sdparse
 Il faut venir tôt pour avoir de la place \n One needs to get there early to have a seat
 advcl(venir, avoir)
 ~~~
