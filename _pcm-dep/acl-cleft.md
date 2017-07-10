@@ -44,18 +44,18 @@ Clefted elements can often be identified by the presence of the copulative parti
 
 
 ~~~ conllu
-# visual-style 3 7 acl:cleft	color:blue
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
+# visual-style 4 7 acl:cleft	color:blue
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
-1	na	_	PART	_	_	3	cop	_	_
-2	only	_	DET	_	_	3	det	_	_
-3	di	_	NOUN	_	_	0	root	_	_
-4	living	_	SCONJ	_	_	5	mark	_	_
-5	naim	_	VERB	_	_	3	advcl	_
-6	dey	_	NOUN	_	_	5	obj	_
-7	celebrate	_	VERB	_	_	3	acl:cleft	_
+1	na	na	PART	PART	_	4	cop	_	_
+2	only	only	ADV	ADV	_	4	advmod	_	_
+3	di	the	DET	DET	_	4	det	_	_
+4	living	living	NOUN	NOUN	_	0	root	_	_
+5	naim	naim	ADV	ADV	_	7	mark	_
+6	dey	be	AUX	AUX	_	7	aux	_
+7	celebrate	celebrate	VERB	VERB	_	4	acl:cleft	_
 
 1	na	_	_	_	_	0	_	_	_
 2	only	_	_	_	_	0	_	_	_
