@@ -47,7 +47,7 @@ obj(He-teaches, students)
 ~~~
 
 The one exception is when there is a clausal complement.
-Then the clausal complement is regarded as a “clausal direct object” and an object nominal will be an iobj, parallel to
+Then the clausal complement is regarded as a “clausal direct object” and an object nominal will be an `iobj`, parallel to
 the simple ditransitive case:
 
 ~~~ sdparse
