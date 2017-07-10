@@ -2,6 +2,7 @@
 layout: relation
 title: 'cop'
 shortdef: 'copula'
+udver: '2'
 ---
 
 A copula is the relation between the nominal predicate _(přísudek jmenný)_ and
@@ -34,8 +35,8 @@ The former focuses on the process while the latter emphasizes the result.
 
 ~~~ sdparse
 Smlouva byla podepsána v Bílém domě . \n Contract was signed in White House .
-auxpass(podepsána, byla)
-auxpass(signed, was)
+aux:pass(podepsána, byla)
+aux:pass(signed, was)
 ~~~
 
 ~~~ sdparse
@@ -45,17 +46,16 @@ cop(signed, was)
 ~~~
 
 The nominal predicate may also be expressed using a prepositional phrase.
-However, not every occurrence of _být_ “to be” with a prepositional phrase is a copula with a nominal predicate.
-Phrases expressing the state of the subject are predicates, e.g. _Lenka je v kondici_ “Lenka is in shape”.
-In contrast, prepositional phrases specifying location are not predicates.
-The verb _být_ is understood as the existential “to be” in such cases, and thus it itself is the predicate, not just a copula.
+Phrases expressing the state of the subject are clear predicates, e.g. _Lenka je v kondici_ “Lenka is in shape”.
+Under the v2 guidelines, prepositional phrases expressing locations are also considered predicates, to increase parallelism across languages.
 
-Thus the following two sentences receive parallel analyses:
+Thus the following sentences receive parallel analyses:
 
 - _Lenka je skvělá._ “Lenka is brilliant.”
 - _Lenka je v kondici._ “Lenka is in shape.”
+- _Lenka je v kuchyni._ “Lenka is in the kitchen.”
 
-The following two will be parallel, too:
+In contrast, the following two are no longer parallel:
 
 - _Lenka je v kuchyni._ “Lenka is in the kitchen.”
 - _Lenka zůstala v kuchyni._ “Lenka stayed in the kitchen.”
