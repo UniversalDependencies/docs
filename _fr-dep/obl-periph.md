@@ -1,7 +1,7 @@
 ---
 layout: relation
 title: 'obl:periph'
-shortdef: 'oblique peripheral nominal'
+shortdef: 'peripheral oblique nominal'
 udver: '2'
 ---
 
