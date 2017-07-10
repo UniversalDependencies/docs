@@ -18,8 +18,8 @@ The relation is not used to attach adjectives to nouns within multi-word names o
 
 ~~~ sdparse
 Prezident Václav Havel včera navštívil Český Krumlov . \n President Václav Havel yesterday visited Český Krumlov .
-name(Václav-2, Havel-3)
-name(Václav-11, Havel-12)
+flat(Václav-2, Havel-3)
+flat(Václav-11, Havel-12)
 nmod(Václav-2, Prezident)
 nmod(Václav-11, President)
 amod(Krumlov-7, Český-6)
