@@ -1,7 +1,7 @@
 ---
 layout: relation
 title: 'conj:appos'
-shortdef: 'conjunct apposition'
+shortdef: 'apposed conjunct'
 udver: '2'
 ---
 
