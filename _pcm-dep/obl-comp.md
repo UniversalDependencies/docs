@@ -5,6 +5,8 @@ shortdef: 'oblique complement'
 udver: '2'
 ---
 
+obl is split in three subrelations: [obl:ad](), [obl:comp](), and [obl:periph]().
+
 The `obl:comp` relation is used for nominal arguments which are introduced by a preposition. 
 
 We introduce this relation to distinguish these elements, which are subcategorized, from oblique elements which are not arguments but adjuncts, and will be annotated as [obl:ad]().
