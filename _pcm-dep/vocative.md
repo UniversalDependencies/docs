@@ -5,7 +5,7 @@ shortdef: 'vocative'
 udver: '2'
 ---
 
-The `vocative` relation is used when someone is being addressed directly in a dialogue. The addressee’s name is a dependant of the governor of the sentence addressing them.
+The `vocative` relation is used when someone is being addressed directly in a dialogue. The addressee’s name is a dependent of the governor of the sentence addressing them.
 
 ~~~ conllu
 # visual-style 3 1 vocative	color:blue
@@ -13,7 +13,7 @@ The `vocative` relation is used when someone is being addressed directly in a di
 # visual-style 3	fgColor:white
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
-1	babe	babe	NOUN	NOUN	_	3	vocative	_	_
+1	Babe	babe	NOUN	NOUN	_	3	vocative	_	_
 2	how	how	ADV	ADV	_	3	advmod	_	_
 3	far	far	ADV	ADV	_	0	root	_	_
 
