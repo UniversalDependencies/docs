@@ -16,7 +16,7 @@ advmod(venue, quand)
 
 In FrenchSpoken we try to use the `fixed` relation as little as possible and instead to syntactically analyse as many expression as we can.
 
-However the `fixed` relation enables enables us to differenciate between different structures, for example between the temporal use of _il y a_ (i.e. when _il y a_ works like an adposition) and the other uses of _il y a_:
+However the `fixed` relation enables us to mark the difference between several structures, for example between the temporal use of _il y a_ (i.e. when _il y a_ works like an adposition) and the other uses of _il y a_.
 The _il y a_ that works like an adposition is annotated with `fixed`:
 
 ~~~ sdparse
