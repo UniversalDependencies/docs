@@ -3,6 +3,7 @@ layout: relation
 title: 'flat'
 redirect_from: "cs/dep/name.html"
 shortdef: 'personal name'
+udver: '2'
 ---
 
 `flat` is one of the relations for compounding in UD.
