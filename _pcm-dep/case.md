@@ -13,7 +13,7 @@ The `case` relation is used for case-marking elements. These elements are treate
 # visual-style 12	fgColor:white
 # visual-style 11	bgColor:blue
 # visual-style 11	fgColor:white
-1	our	our	PRON	PRON	_	5	nmod:poss	_	_
+1	our	our	PRON	PRON	_	2	nmod:poss	_	_
 2	work	work	NOUN	NOUN	_	3	nsubj	_	_
 3	na	be	VERB	PART	_	0	root	_	_
 4	to	to	ADP	ADP	_	5	mark	_	_
