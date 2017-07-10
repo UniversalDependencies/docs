@@ -2,6 +2,7 @@
 layout: relation
 title: 'expl:pass'
 shortdef: 'reflexive pronoun used in reflexive passive'
+udver: '2'
 ---
 
 Reflexive pronouns (see the feature [cs-feat/Reflex]()) are used in various constructions in Czech,

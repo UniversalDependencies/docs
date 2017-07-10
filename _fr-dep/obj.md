@@ -12,11 +12,23 @@ Il mange un sandwich . \n He eats a sandwich .
 obj(mange, sandwich)
 ~~~
 
-The `obj` relation is also used for a reflexive pronoun in pronominal verb when the pronoun is a direct object of the verb. When the grammatical relation of the pronoun is not a direct object nor an indirect object (as in _se douter_ "to suspect"), the pronoun gets analyzed as `expl`.
+The `obj` relation is also used for a reflexive pronoun in pronominal verb when the pronoun is a direct object of the verb.
 
 ~~~ sdparse
 Il se lave . \n He washes himself .
 obj(lave, se)
+~~~
+
+When the pronoun is a part of a fixed verbal expression that is syntactically regular, we can analyze it with `obj`:
+
+~~~ sdparse
+se douter \n to suspect
+obj(douter, se)
+~~~
+
+~~~ sdparse
+se souvenir \n to remember
+obj(souvenir, se)
 ~~~
 
 In FrenchSpoken we also use the `obj` relation :
