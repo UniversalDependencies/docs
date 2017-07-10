@@ -2,6 +2,7 @@
 layout: relation
 title: 'punct'
 shortdef: 'punctuation'
+udver: '2'
 ---
 
 This is used for any piece of punctuation in a clause.
@@ -17,7 +18,7 @@ Tokens with the relation `punct` always attach to content words (except in cases
 Since `punct` is not a normal dependency relation, the usual criteria for determining the head word do not apply.
 Instead, we use the following principles:
 
-1. A punctuation mark separating coordinated units is attached to the first conjunct.
+1. A punctuation mark separating coordinated units is attached to the following conjunct.
 2. A punctuation mark preceding or following a subordinated unit is attached to this unit.
 3. Within the relevant unit, a punctuation mark is attached at the highest possible node that preserves projectivity.
 4. Paired punctuation marks (quotes and brackets) should be attached to the same word unless that would create non-projectivity. This word is usually the head of the phrase enclosed in the paired punctuation.
@@ -32,12 +33,12 @@ conj(jablka, banány)
 conj(apples, pears)
 conj(apples, oranges)
 conj(apples, bananas)
-cc(jablka, a)
-cc(apples, and)
-punct(jablka, ,-3)
-punct(jablka, ,-5)
-punct(apples, ,-13)
-punct(apples, ,-15)
+cc(banány, a)
+cc(bananas, and)
+punct(hrušky, ,-3)
+punct(pomeranče, ,-5)
+punct(pears, ,-13)
+punct(oranges, ,-15)
 ~~~
 
 ~~~ sdparse
