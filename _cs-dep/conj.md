@@ -2,11 +2,12 @@
 layout: relation
 title: 'conj'
 shortdef: 'conjunct'
+udver: '2'
 ---
 
 A conjunct is the relation between two elements connected by a
 coordinating conjunction, such as _and, or,_ or a comma or other punctuation.
-We treat coordination asymmetrically in what is known as the Stanford style:
+We treat coordination asymmetrically.
 The head of the relation is the first
 conjunct and all the other conjuncts depend on it via the `conj` relation.
 
@@ -26,12 +27,12 @@ conj(jablka, banány)
 conj(apples, pears)
 conj(apples, oranges)
 conj(apples, bananas)
-cc(jablka, a)
-cc(apples, and)
-punct(jablka, ,-3)
-punct(jablka, ,-5)
-punct(apples, ,-13)
-punct(apples, ,-15)
+cc(banány, a)
+cc(bananas, and)
+punct(hrušky, ,-3)
+punct(pomeranče, ,-5)
+punct(pears, ,-13)
+punct(oranges, ,-15)
 ~~~
 
 Coordinate clauses are treated the same way as coordination of other constituent types:
@@ -42,10 +43,10 @@ conj(Přišel, osprchoval)
 conj(Přišel, šel)
 conj(He-came, showered)
 conj(He-came, went)
-punct(Přišel, ,-3)
-punct(He-came, ,-15)
-cc(Přišel, a)
-cc(He-came, and)
+punct(osprchoval, ,-3)
+punct(showered, ,-15)
+cc(šel, a)
+cc(went, and)
 ~~~
 
 See [universal/conj](u-dep/conj) for more details on various coordination-related issues.
