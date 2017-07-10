@@ -11,7 +11,7 @@ When the other dependent is a nominal, we use the [nsubj:quasi]() relation.
 
 ~~~ sdparse
 Il faut que Pierre parte rapidement. \n Pierre must leave quickly.
-nsubj:expl(faut,il)
+nsubj:expl(faut,Il)
 csubj:quasi(faut,parte)
 mark(parte,que)
 ~~~
