@@ -2,16 +2,12 @@
 layout: relation
 title: 'nmod'
 shortdef: 'nominal modifier'
+udver: '2'
 ---
 
-The `nmod` relation is used for nominal modifiers. They depend either
-on another noun (group “noun dependents”) or on a predicate (group
-“non-core dependents of clausal predicates”).
+The `nmod` relation is used for nominal modifiers of nominals.
 
-`nmod` is a [noun](cs-pos/NOUN) (or noun phrase) functioning as a
-non-core (oblique) argument or adjunct.
-This means that it functionally corresponds to an adverbial when it attaches to a verb, adjective or other adverb.
-But when attaching to a noun, it usually corresponds to a non-agreeing attribute _(přívlastek neshodný)_
+It usually corresponds to a non-agreeing attribute _(přívlastek neshodný)_
 in genitive. (See below for an example of an agreeing attribute, _přívlastek shodný_.)
 
 In Czech the `nmod` relation covers only those possessives that are expressed using the genitive [cs-feat/Case]().
@@ -33,14 +29,6 @@ amod(office, director's)
 jeho kancelář \n his office
 det(kancelář, jeho)
 det(office, his)
-~~~
-
-`nmod` is also used for temporal nominal modifiers:
-
-~~~ sdparse
-Potkal jsem ho minulý čtvrtek . \n Met I-have him last Thursday .
-nmod(Potkal, čtvrtek)
-nmod(Met, Thursday)
 ~~~
 
 ## Agreeing attribute of a noun
