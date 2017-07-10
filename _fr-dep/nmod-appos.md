@@ -30,16 +30,6 @@ la région Auvergne
 nmod:appos(région, Auvergne)
 ~~~
 
-
-N.B.: for phrases like "la ville de Paris" we use the [nmod]() relation because of the preposition (which cannot be removed *la ville Paris)
-
-~~~ sdparse
-la ville de Paris
-nmod(ville, Paris)
-case(Paris, de)
-~~~
-
-
 ~~~ sdparse
 La rue Faidherbe et la place Voltaire sont situées dans le même quartier. \n Faidherbe street and place Voltaire are located in the same neigbourhood.
 nmod:appos(rue, Faidherbe)
@@ -49,6 +39,14 @@ nmod:appos(place, Voltaire)
 ~~~ sdparse
 Monsieur Dupont habitait près de la ligne Maginot. \n Mister Dupont lived close to the Maginot Line. 
 nmod:appos(Monsieur, Dupont)
+~~~
+
+N.B.: for phrases like "la ville de Paris" we use the [nmod]() relation because of the preposition (which cannot be removed *la ville Paris)
+
+~~~ sdparse
+la ville de Paris
+nmod(ville, Paris)
+case(Paris, de)
 ~~~
 
 We use `nmod:appos`, instead of flat, for "le président Macron", which follows in French the same pattern as other `nmod:appos`. The relation is also used between first and second name:
