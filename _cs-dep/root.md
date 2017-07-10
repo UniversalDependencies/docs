@@ -2,6 +2,7 @@
 layout: relation
 title: 'root'
 shortdef: 'root'
+udver: '2'
 ---
 
 The `root` grammatical relation points to the root of the sentence. A
@@ -28,16 +29,16 @@ _A co na to [říká] MF?_
 
 ~~~ sdparse
 ROOT A co na to MF ? \n ROOT And what to it MF ?
-root(ROOT-1, A)
-root(ROOT-9, And)
-obj(A, co)
-obj(And, what)
-nmod(A, to-5)
-nmod(And, it)
+root(ROOT-1, MF-6)
+root(ROOT-9, MF-14)
+orphan(MF-6, co)
+orphan(MF-14, what)
+orphan(MF-6, to-5)
+orphan(MF-14, it)
 case(to-5, na)
 case(it, to-12)
-nsubj(A, MF-6)
-nsubj(And, MF-14)
-punct(A, ?-7)
-punct(And, ?-15)
+cc(MF-6, A)
+cc(MF-14, And)
+punct(MF-6, ?-7)
+punct(MF-14, ?-15)
 ~~~
