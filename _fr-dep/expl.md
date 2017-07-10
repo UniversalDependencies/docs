@@ -7,7 +7,7 @@ udver: '2'
 
 Note that currenlty expletives are not annotated consistently in the French treebank.
 
-In FrenchSpoken we don't use the `expl`relation. The current definition sates that the `expl`relation should be used for "nominals that appear in an argument position of a predicate but which do not themselves satisfy any of the semantic roles of the predicate" (see the universal dependency page ([u-dep/expl]()). This definition seems to give more value to the semantic relations than to the syntactic relations.
+In FrenchSpoken we don't use the `expl`relation. The current definition sates that the `expl`relation should be used for "nominals that appear in an argument position of a predicate but which do not themselves satisfy any of the semantic roles of the predicate" (see the universal dependency page [u-dep/expl]()). This definition seems to give more value to the semantic relations than to the syntactic relations.
 That is why we will only use _expl_ as a subrelation for impersonal constructions. All other arguments (whether they satisfy a semantic role of the predicate or not) will be annotated with the usual syntactic dependency relations (nsubj, obj etc.). For further information see the following discussion: https://github.com/UniversalDependencies/docs/issues/461
 
 In FrenchSpoken we will thus use the [nsubj:expl]() relation for impersonal constructions such as:
