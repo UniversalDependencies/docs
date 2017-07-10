@@ -5,7 +5,7 @@ shortdef: 'coordinated conjunct'
 udver: '2'
 ---
 
-The `conj:coord` relation is used between conjuncts which are in the same paradigm, i.e they fulfill the same role in relation to their governor. Coordinating conjunctions such as "and" or "or" may connect the conjuncts, but they are not necessary. Conjunctions are treated asymetrically with the first conjunct as the head, and all the other conjuncts as dependants of this element.
+The `conj:coord` relation is used between conjuncts that are coordinated. Coordinating conjunctions such as "and" or "or" may connect the conjuncts, but they are not necessary. Conjunctions are treated asymetrically with the first conjunct as the head, and all the other conjuncts as dependants of this element.
 
 
 ~~~ conllu
