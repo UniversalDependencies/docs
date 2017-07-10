@@ -7,7 +7,7 @@ udver: '2'
 
 The `obl` relation is used for oblique nominal arguments and adjuncts of verbs, adjectives or adverbs.
 
-`nmod` is a [noun](cs-pos/NOUN) (or noun phrase) functioning as a
+`obl` is a [noun](cs-pos/NOUN) (or noun phrase) functioning as a
 non-core (oblique) argument or adjunct.
 This means that it functionally corresponds to an adverbial when it attaches to a verb, adjective or other adverb.
 
