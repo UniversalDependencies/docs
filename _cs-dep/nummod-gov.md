@@ -2,6 +2,7 @@
 layout: relation
 title: 'nummod:gov'
 shortdef: 'numeric modifier governing the case of the noun'
+udver: '2'
 ---
 
 `nummod:gov` differs from [nummod]()
