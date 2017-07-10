@@ -121,6 +121,7 @@ The auxiliaries of Naija include :
 - for
 - go
 - make
+- neva
 
 Some of these auxiliaries can also be used as the main verb of a clause:
 
