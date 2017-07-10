@@ -72,10 +72,10 @@ nsubj(shape, Lenka-7)
 
 ~~~ sdparse
 Lenka je v kuchyni . \n Lenka is in kitchen .
-nsubj(je, Lenka-1)
-nsubj(is, Lenka-7)
-nmod(je, kuchyni)
-nmod(is, kitchen)
+nsubj(kuchyni, Lenka-1)
+nsubj(kitchen, Lenka-7)
+cop(kuchyni, je)
+cop(kitchen, is)
 case(kuchyni, v)
 case(kitchen, in)
 ~~~
