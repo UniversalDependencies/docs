@@ -3,6 +3,7 @@ layout: relation
 title: 'orphan'
 redirect_from: "cs/dep/remnant.html"
 shortdef: 'remnant in ellipsis'
+udver: '2'
 ---
 
 The `orphan` relation is used to provide a satisfactory treatment of certain instances of
@@ -16,21 +17,10 @@ nsubj(objednal, Pavel-1)
 nsubj(ordered, Pavel-10)
 obj(objednal, hovězí)
 obj(ordered, beef)
-remnant(Pavel-1, Markéta-6)
-remnant(Pavel-10, Markéta-15)
-remnant(hovězí, vepřové)
-remnant(beef, pork)
+conj(Pavel-1, Markéta-6)
+conj(Pavel-10, Markéta-15)
+orphan(Markéta-6, vepřové)
+orphan(Markéta-15, pork)
+cc(Markéta-6, a)
+cc(Markéta-15, and)
 ~~~
-
-## Diffs
-
-### Prague Dependency Treebank
-
-At present the conversion of the PDT data to UD does not handle ellipsis properly
-and the `orphan` relation is not used.
-
-In the analytical layer of PDT, ellipsis
-(together with some other issues, such as the [vocative]()) is signalled by the
-dependency relation `ExD` (ex-dependent).
-All the `ExD` relations that are not vocatives or comparatives are currently just re-labeled [dep]()
-or [root]().
