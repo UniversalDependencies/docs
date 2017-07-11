@@ -23,7 +23,7 @@ le jour le plus long \n the longest day
 advmod(long, plus)
 ~~~
 
-In FrenchSpoken we use the `advmod` relation, here are a few examples:
+FrenchSpoken uses the `advmod` relation, here are a few examples:
 
 ~~~ sdparse
 je connaissais très bien Marc Allégret \n I knew Marc Allégret very well
@@ -36,3 +36,5 @@ c'est vraiment très agréable \n it's really very pleasant
 advmod(agréable, très)
 advmod(agréable, vraiment)
 ~~~
+
+For adverbial modifiers which are not governed by their heads, FrenchSpoken uses the [advmod:periph]() relation.
