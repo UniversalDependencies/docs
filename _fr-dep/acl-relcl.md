@@ -16,7 +16,7 @@ nsubj(aime, qui)
 dobj(aime, t')
 ~~~
 
-In FrenchSpoken we also use the `acl:relcl`relation. Here is an example from FrenchSpoken:
+FrenchSpoken also uses the `acl` relation, here is an example:
 
 ~~~ sdparse
 j'ai eu envie d' être un intellectuel qui marque son temps \n I wanted to be an intellectual who marks his time 
@@ -24,4 +24,4 @@ acl:relcl(intellectuel, marque)
 nsubj(marque, qui)
 ~~~
 
-N.B.: In FrenchSpoken we use a special relation for cleft sentences : the [acl:cleft]() relation.
+N.B.: For cleft sentences, FrenchSpoken uses a special subrelation: the [acl:cleft]() relation.
