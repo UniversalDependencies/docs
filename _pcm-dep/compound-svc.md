@@ -4,7 +4,7 @@ title: 'compound:svc'
 shortdef: 'serial verb compounds'
 udver: '2'
 ---
-The relation `compound:svc` is used for serial verb constructions. In this type of construction, several verbs are combined to describe the same action. The verbs in a serial verb construction share the same subject but not necessarily the same object.
+The relation `compound:svc` is used for serial verb constructions. In this type of construction, several verbs are combined to describe the same action. 
 
 ~~~ conllu
 # visual-style 2 4 compound:svc	color:blue
@@ -31,6 +31,8 @@ The relation `compound:svc` is used for serial verb constructions. In this type 
 5	to	_	_	_	_	0	_	_	_
 6	work	_	_	_	_	0	_	_	_
 ~~~
+
+The verbs in a serial verb construction share the same subject but not necessarily the same object.
 
 ~~~ conllu
 # visual-style 4 7 compound:svc	color:blue
