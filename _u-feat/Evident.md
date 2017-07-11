@@ -34,13 +34,13 @@ a language-specific feature (under the name `Evidentiality`) in UD v1 for Turkis
 
 #### Examples
 
-* [tr] _<b>geldi</b>_ (he/she/it came)
+* [tr] _<b>geldi</b>_ “he/she/it came” (and I was there and saw them coming)
 
 ### <a name="Nfh">`Nfh`</a>: non-firsthand
 
 #### Examples
 
-* [tr] _<b>gelmiş</b>_ (he/she/it has come)
+* [tr] _<b>gelmiş</b>_ “he/she/it has come” (I did not witness them coming but I know it because someone told me / because I see that they are there now)
 
 ### References
 
