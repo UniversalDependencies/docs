@@ -26,4 +26,4 @@ As for the POS, the hyphens could be tagged with PUNCT and the _t_ with PART (an
 This way of tokanizing and segmentating seems easier for the parsing and does not require an external source since we keep everything separated.	We also don't have to wonder where to attach the hyphens as they constitute separated tokens.
 Thus it becomes easier to automatically analyze together cases like _là-dessus_ and _là-bas_ where the hyphen belongs to the left part (_là-_ and _dessus_ or _bas_) and cases like _est-elle_ where we can choose to attach the hyphen to the right part (_-elle_).
 
-N.B.: This choice of segmentation and tokenization is arbitrary and other French treebanks could choose to do otherwise (for example they could consider _a-t-_ or _-t-elle_ as a token, or annotate the _-t-_ with `expl`).
+N.B.: This tokenizing and segmentating choice is arbitrary and other French treebanks could choose to do otherwise (for example they could consider _a-t-_ or _-t-elle_ as a token, or annotate the _-t-_ with `expl`).
