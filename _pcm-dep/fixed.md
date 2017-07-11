@@ -13,8 +13,8 @@ Naija makes little use of the fixed relation and instead analyzes these expressi
 
 
 ~~~ conllu
-# visual-style 2 4 mark	color:blue
-# visual-style 3 4 mark	color:blue
+# visual-style 4 2 mark	color:blue
+# visual-style 4 3 mark	color:blue
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 3	bgColor:blue
@@ -39,7 +39,7 @@ Naija makes little use of the fixed relation and instead analyzes these expressi
 16	maybe	maybe	ADV	ADV	_	21	advmod	_	_
 17	di	the	DET	DET	_	28	det	_	_
 18	man	man	NOUN	NOUN	_	21	nsubj	_	_
-19	for	for	AUX	ADP	_	12	aux	_	_
+19	for	for	AUX	ADP	_	21	aux	_	_
 20	no	not	PART	PART	_	21	advmod	_	_
 21	die	die	VERB	VERB	_	0	root	_	_
 
