@@ -24,6 +24,28 @@ The `fixed` relation is one of the relations used for multiword expressions (MWE
 8	of	of	ADP	ADP	_	10	case	_	_
 9	anoder	another	DET	DET	_	10	det	_	_
 10	car	car	NOUN	NOUN	_	7	nmod	_	_
+
+1	so	_	_	_	_	0	_	_	_
+2	that	_	_	_	_	0	_	_	_
+3	you	_	_	_	_	0	_	_	_
+4	not	_	_	_	_	0	_	_	_
+5	will	_	_	_	_	0	_	_	_
+6	enter	_	_	_	_	0	_	_	_
+7	mouth	_	_	_	_	0	_	_	_
+8	of	_	_	_	_	0	_	_	_
+9	another	_	_	_	_	0	_	_	_
+10	car	_	_	_	_	0	_	_	_
+
+1	so	_	_	_	_	0	_	_	_
+2	that	_	_	_	_	0	_	_	_
+3	you	_	_	_	_	0	_	_	_
+4	won't	_	_	_	_	0	_	_	_
+5	enter	_	_	_	_	0	_	_	_
+6	the	_	_	_	_	0	_	_	_
+7	way	_	_	_	_	0	_	_	_
+8	of	_	_	_	_	0	_	_	_
+9	another	_	_	_	_	0	_	_	_
+10	car	_	_	_	_	0	_	_	_
 ~~~
 
 Naija makes little use of the fixed relation and instead analyzes these expressions syntactically when possible. 
