@@ -24,4 +24,4 @@ acl:relcl(intellectuel, marque)
 nsubj(marque, qui)
 ~~~
 
-N.B.: For cleft sentences, FrenchSpoken uses a special subrelation: the [acl:cleft]() relation.
+N.B.: For cleft sentences, FrenchSpoken uses the [acl:cleft]() subrelation.
