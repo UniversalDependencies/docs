@@ -58,7 +58,7 @@ nsubj(est, Marie)
 expl(est, -elle)
 ~~~
 
-FrenchSpoken annotates the two subjects with `nsubj` (and follows these tokenizing rules [overview-fr/tokenization]()):
+FrenchSpoken annotates the two subjects with `nsubj` (and follows these tokenizing rules [fr-overview/tokenization]()):
 
 ~~~ sdparse
 Marie est - elle là ? \n Is Marie here?
