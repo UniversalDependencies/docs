@@ -42,4 +42,45 @@ Naija makes little use of the fixed relation and instead analyzes these expressi
 19	for	for	AUX	ADP	_	12	aux	_	_
 20	no	not	PART	PART	_	21	advmod	_	_
 21	die	die	VERB	VERB	_	0	root	_	_
+
+
+1	but	_	_	_	_	0	_	_	_
+2	if	_	_	_	_	0	_	_	_
+3	to	_	_	_	_	0	_	_	_
+4	say	_	_	_	_	0	_	_	_
+5	that	_	_	_	_	0	_	_	_
+6	man	_	_	_	_	0	_	_	_
+7	now	_	_	_	_	0	_	_	_
+8	he	_	_	_	_	0	_	_	_
+9	pull	_	_	_	_	0	_	_	_
+10	over	_	_	_	_	0	_	_	_
+11	he	_	_	_	_	0	_	_	_
+12	park	_	_	_	_	0	_	_	_
+13	answer	_	_	_	_	0	_	_	_
+14	the	_	_	_	_	0	_	_	_
+15	call	_	_	_	_	0	_	_	_
+16	maybe	_	_	_	_	0	_	_	_
+17	the	_	_	_	_	0	_	_	_
+18	man	_	_	_	_	0	_	_	_
+19	would	_	_	_	_	0	_	_	_
+20	not	_	_	_	_	0	_	_	_
+21	die	_	_	_	_	0	_	_	_
+
+
+1	But	_	_	_	_	0	_	_	_
+2	if	_	_	_	_	0	_	_	_
+3	the	_	_	_	_	0	_	_	_
+4	man	_	_	_	_	0	_	_	_
+5	pulled	_	_	_	_	0	_	_	_
+6	over	_	_	_	_	0	_	_	_
+7	parked	_	_	_	_	0	_	_	_
+8	answered	_	_	_	_	0	_	_	_
+9	the	_	_	_	_	0	_	_	_
+10	call	_	_	_	_	0	_	_	_
+11	maybe	_	_	_	_	0	_	_	_
+12	the	_	_	_	_	0	_	_	_
+13	man	_	_	_	_	0	_	_	_
+14	wouldn't	_	_	_	_	0	_	_	_
+15	have	_	_	_	_	0	_	_	_
+16	died	_	_	_	_	0	_	_	_
 ~~~
