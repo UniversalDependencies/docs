@@ -18,7 +18,7 @@ The first hyphen is the head (i.e. it receives the link `nsubj`) and the other t
 a - t - elle bien dormi ? \n did she sleep well?
 nsubj(a,-)
 goeswith(-,t)
-goeswith(-,-)
+goeswith(--2,--4)
 goeswith(-,elle)
 ~~~
 
