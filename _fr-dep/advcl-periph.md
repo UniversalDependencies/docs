@@ -5,10 +5,15 @@ shortdef: 'peripheral adverbial clause modifier'
 udver: '2'
 ---
 
-In FrenchSpoken we use the `advcl:periph` relation for adverbial clause modifiers that cannot be clefted and cannot be moved inside the core of the sentence, unless it is put in parenthesis.
-For other adverbial modifiers we still use the [advcl]() relation.
+FrenchSpoken uses the `advcl:periph` relation for adverbial clause modifiers that cannot be clefted and cannot be moved inside the core of the sentence, unless they are put in parenthesis.
+For other adverbial modifiers the [advcl]() relation is used.
 
 ~~~ sdparse
-Si tu sais qui l'a fait, tu devrais le dire au professeur \n If you know who did it, you should tell the teacher
-advcl:periph(dire, sais)
+Il doit être à la fac puisque sa voiture est dans le parking. \n He must be on the campus since his car is in the parking lot.
+advcl:periph(doit, parking)
+~~~
+
+~~~ sdparse
+Quand l'accident s'est produit, il faisait noir. \n When the accident happened, it was night.
+advcl:periph(faisait, produit)
 ~~~
