@@ -200,6 +200,16 @@ Note that columns 5 to 9 are collapsed in the following example.
     15    )            )            PUNCT   …   SpaceAfter=No
     16    .            .            PUNCT   …   _
 
+## Other Miscellaneous Attributes
+
+Besides `SpaceAfter=No`, there are some other token- or word-level attributes that may be useful in multiple treebanks.
+These are not required; but if this sort of information is available, it is desirable that it is encoded the same way in
+all treebanks.
+
+* `Translit` … transliteration or transcription of the word form to another writing system. Typically this attribute is used in languages that do not write using the Latin script, and the attribute provides some standard romanization.
+* `LTranslit` … analogy of `Translit` for lemmas.
+* `Gloss` … approximate translation of the word form or the lemma to another language (typically English). If the translation consists of multiple words, they are connected using a hyphen.
+
 # Sentence Boundaries and Comments
 
 There must be exactly one blank line _after_ every sentence, including the last sentence in the file.
