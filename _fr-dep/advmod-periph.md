@@ -1,6 +1,6 @@
 ---
 layout: relation
-title: 'advmod'
+title: 'advmod:periph'
 shortdef: 'peripheral adverbial modifier'
 udver: '2'
 ---
