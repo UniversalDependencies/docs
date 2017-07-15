@@ -43,5 +43,4 @@ The relation `parataxis:obj` is used between a verb introducing direct speech an
 
 ~~~
 
-
-The complementizer _sey_ is not used to introduce direct speech but indirect speech. For indirect speech, we use the [ccomp]() relation between the verb introducing the speech and the governor of the reported speech.
+For indirect speech, we use the [ccomp]() relation between the verb introducing the speech and the governor of the reported speech.
