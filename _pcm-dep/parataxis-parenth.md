@@ -8,7 +8,7 @@ udver: '2'
 The relation `parataxis:parenth` is used when there is an autonomous illocutionary unit present inside another one.
 
 
-In the example below, _I dey patrol_ could form an autonomous unit but is instead inserted inside another unit _na ma team naim dem just call us sey im don happen_. Therefore the `parataxis:parenth` relation is used between the root of the whole unit and the root of the parenthetical :
+In the example below, "_I dey patrol_" could potentially form an autonomous unit, but is instead inserted inside another unit "_na ma team naim dem just call us sey im don happen_". Therefore, the `parataxis:parenth` relation is used between the root of the whole unit, and the root of the parenthetical :
 
 ~~~ conllu
 # visual-style 3 6 parataxis:parenth	color:blue
