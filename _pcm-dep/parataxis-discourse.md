@@ -23,3 +23,5 @@ The `parataxis:discourse` relation is used for associated illocutionary units wh
 7	God	God	PROPN	PROPN	_	8	nsubj	_	_
 8	forbid	forbid	VERB	VERB	_	3	parataxis:discourse	_	
 ~~~
+
+Unlike [parentheticals](parataxis-parenth.html) associated units do not allow for expansions.
