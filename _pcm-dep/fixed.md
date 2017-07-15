@@ -63,12 +63,12 @@ Naija makes little use of the fixed relation and instead analyzes these expressi
 1	but	but	CCONJ	CCONJ	_	21	cc	_	_
 2	if	if	SCONJ	SCONJ	_	4	mark	_	_
 3	to	to	PART	ADP	_	4	mark	_	_
-4	say	say	VERB	VERB	_	21	advcl	_	_
+4	say	say	VERB	VERB	_	13	advcl	_	_
 5	dat	that	DET	PRON	_	6	det	_	_
 6	man	man	NOUN	NOUN	_	8	dislocated	_	_
 7	im	he	PRON	PRON	_	8	nsubj	_	_
 8	park	park	NOUN	NOUN	_	4	ccomp	_	_
-9	maybe	maybe	ADV	ADV	_	14	advmod	_	_
+9	maybe	maybe	ADV	ADV	_	13	advmod	_	_
 10	im	he	PRON	PRON	_	13	nsubj	_	_
 11	for	for	AUX	ADP	_	13	aux	_	_
 12	no	not	PART	PART	_	13	advmod	_	_
