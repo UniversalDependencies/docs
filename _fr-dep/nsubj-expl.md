@@ -41,4 +41,4 @@ nsubj:expl(ami, C')
 acl:cleft(ami, habite)
 ~~~
 
-N.B.: Note that we use two different subrelations for relative clauses ([acl:relcl]()) and for cleft sentences ([acl:cleft]()).
+N.B.: Note that we use two different subrelations for relative clauses ([acl:relcl]()) and for cleft sentences ([acl:cleft]()). Also see the [fr-overview/specific-syntax]() page.
