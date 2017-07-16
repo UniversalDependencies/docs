@@ -13,21 +13,21 @@ We analyze "qu'est-ce que ..." as follows: the first _qu'_ gets the true grammat
 
 ~~~ sdparse
 Qu' est - ce qu' un déliquant ? \n What is an offender?
-root(ROOT, Qu')
-cop(Qu',  est)
-expl(Qu', ce)
-mwe(ce, qu')
-nsubj(Qu', délinquant)
+root(ROOT,Qu')
+cop(Qu',est)
+expl(Qu',ce)
+mwe(ce,qu')
+nsubj(Qu',délinquant)
 ~~~
 
 ~~~ sdparse
 Qu' est - ce qu' il a fait ? \n What did he do ?
-root(ROOT, fait)
-dobj(fait, Qu')
-expl(fait, ce)
-mwe(ce, qu')
-cop(fait, est)
-nsubj(fait, il)
+root(ROOT,fait)
+dobj(fait,Qu')
+expl(fait,ce)
+mwe(ce,qu')
+cop(fait,est)
+nsubj(fait,il)
 ~~~
 
 ## Cleft sentences
@@ -80,18 +80,18 @@ The pronoun _ce_ is the head of the left part of the pseudo-cleft and governs th
 ~~~ sdparse
 Ce que j' aime, c' est le chocolat. \n Chocolate is what I like.
 cop(chocolat.,est)
-nsubj:expl(c')
+nsubj:expl(chocolat.,c')
 dislocated:cleft(chocolat.,Ce)
-acl:relcl(ce,aime)
+acl:relcl(Ce,aime)
 ~~~
 
 ~~~ sdparse
 Ce qui me fait peur, c' est que tu te casses une jambe. \n What scares me is that you break your leg.
 mark(casses,que)
 cop(casses,est)
-nsubj:expl(casses,c')
+nsubj:expl(casses,C')
 dislocated:cleft(casses,Ce)
-acl:relcl(ce,fait)
+acl:relcl(Ce,fait)
 ~~~
 
 
