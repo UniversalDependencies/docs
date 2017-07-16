@@ -38,5 +38,5 @@ cc(Patrick,et)
 ~~~ sdparse
 Je vais au chez le coiffeur. \n I'm going at to the hairdresser.
 conj:dicto(au,chez)
-case(coiffeur,au)
+case(coiffeur.,au)
 ~~~
