@@ -32,5 +32,5 @@ The `conj:appos` relation is used for appositions that respect the prosody of li
 
 ~~~ sdparse
 Sam , mon frère , est arrivé . \n Sam, my brother, arrived.
-conj:appos(Same, frère)
+conj:appos(Sam, frère)
 ~~~
