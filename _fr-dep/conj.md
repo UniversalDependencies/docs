@@ -22,21 +22,4 @@ conj(hésitation, retard)
 
 FrenchSpoken does not use the simple `conj` relation. Three different subrelations are used instead: [conj:appos](), [conj:coord]() and [conj:dicto]().
 
-~~~ sdparse
-Sa cousine , une grande psychiatre , habite à Charleville-Mézière. \n His cousin, a great psychiatrist, live in Charleville-Mézière.
-conj:appos(cousine,psychiatre)
-nsubj(habite,cousine)
-~~~
 
-~~~ sdparse
-Pierre et Patrick aiment rouler en moto. \n Pierre and Patrick like driving a motorcycle.
-conj:coord(Pierre,Patrick)
-nsubj(aiment,Pierre)
-cc(Patrick,et)
-~~~
-
-~~~ sdparse
-Je vais au chez le coiffeur. \n I'm going at to the hairdresser.
-conj:dicto(au,chez)
-case(coiffeur.,au)
-~~~
