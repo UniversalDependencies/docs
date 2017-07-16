@@ -20,7 +20,7 @@ Appelation d'origine contrôlée  ( AOC )
 appos(Appelation, AOC)
 ~~~
 
-In FrenchSpoken we don't use the `appos` relation anymore. Instead we have two subrelations [nmod:appos]() and [conj:appos]().
+In FrenchSpoken does not use the `appos` relation anymore. Instead there are two subrelations [nmod:appos]() and [conj:appos]().
 The `nmod:appos` relation is used for appositions which modify nominal elements.
 
 ~~~ sdparse
@@ -28,7 +28,7 @@ la place Voltaire
 nmod:appos(place, Voltaire)
 ~~~
 
-The `conj:appos` relation is used for appositions that respect the prosody of list (the elements of such an appositions are in the same paradigm):
+The `conj:appos` relation is used for appositions that respect the prosody of list (the elements of such an appositions are in the same paradigm and have the same referent):
 
 ~~~ sdparse
 Sam , mon frère , est arrivé . \n Sam, my brother, arrived.
