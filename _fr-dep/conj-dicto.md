@@ -18,7 +18,7 @@ case(coiffeur.,au)
 Example from FrenchSpoken:
 
 ~~~ sdparse
-c'est des choses dont vous parlez dans en classe euh \n
+c'est des choses dont vous parlez dans en classe euh \n These are things we talk about in in class.
 conj:dicto(dans, en)
 case(classe, dans)
 ~~~
