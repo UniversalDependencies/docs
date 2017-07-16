@@ -18,7 +18,7 @@ Et ce n'est pas la peine d'insister \n And it is not worth insisting
 cc(peine, Et)
 ~~~
 
-FrenchSpoken also uses this relation. Here are a few examples from FrenchSpoken:
+FrenchSpoken also uses the `cc` relation. However the standard `conj` relation is not used anymore and has been replaced by a few subrelations (see [conj]() for more details). Here are a few examples from FrenchSpoken:
  
  ~~~ sdparse
  et j'ai vraiment mal vécu ça \n and I really didn't live this well
@@ -27,6 +27,15 @@ FrenchSpoken also uses this relation. Here are a few examples from FrenchSpoken:
  
  ~~~ sdparse
 nous avons attendu sept ou huit heures dans la gare \n we waited for seven or eight hours at the station
-conj(sept, huit)
+conj:coord(sept, huit)
 cc(sept, ou)
+~~~ 
+
+In the following example, _c'est-à-dire_ is the coordinating conjunction in a [conj:appos]() relation :
+
+~~~ sdparse
+La fille du cousin du père de Zoé, c'est-à-dire la cousine de Zoé, est astronaute. \n The daughter of Zoe's dad's cousin, in other words Zoe's cousin, is an astronaut.
+conj:appos(fille,cousine)
+cc(cousine,c'est-à-dire)
+~~~ 
 
