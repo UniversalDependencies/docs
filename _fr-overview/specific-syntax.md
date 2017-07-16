@@ -2,6 +2,7 @@
 layout: base
 title:  'Syntax'
 permalink: fr/overview/specific-syntax.html
+udver: '2'
 ---
 
 # Specific constructions
@@ -13,7 +14,7 @@ We analyze "qu'est-ce que ..." as follows: the first _qu'_ gets the true grammat
 ~~~ sdparse
 Qu' est - ce qu' un déliquant ? \n What is an offender?
 root(ROOT, Qu')
-cop(est,  Qu')
+cop(Qu',  est)
 expl(Qu', ce)
 mwe(ce, qu')
 nsubj(Qu', délinquant)
@@ -45,8 +46,8 @@ nsubj(fait,qui)
 Les temps sont durs. C' est en faisant des compromis qu' on s'en sortira. \n Times are tough. That's by making compromises that we will be able to find a way out of misery.
 nusbj:expl(faisant,C')
 cop(faisant,est)
-ccomp:cleft(faisant,sortira)
-advcl(sortira,qu')
+ccomp:cleft(faisant,sortira.)
+advcl(sortira.,qu')
 ~~~
 
 ~~~ sdparse
@@ -78,9 +79,9 @@ The pronoun _ce_ is the head of the left part of the pseudo-cleft and governs th
 
 ~~~ sdparse
 Ce que j' aime, c' est le chocolat. \n Chocolate is what I like.
-cop(chocolat,est)
+cop(chocolat.,est)
 nsubj:expl(c')
-dislocated:cleft(chocolat,Ce)
+dislocated:cleft(chocolat.,Ce)
 acl:relcl(ce,aime)
 ~~~
 
