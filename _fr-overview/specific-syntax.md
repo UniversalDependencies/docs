@@ -12,8 +12,8 @@ udver: '2'
 We analyze "qu'est-ce que ..." as follows: the first _qu'_ gets the true grammatical relation given the sentence , _ce_ is an expletive, _est_ is a copula and the second _que_ is a mwe dependent on _ce_
 
 ~~~ sdparse
-Qu' est - ce qu' un déliquant ? \n What is an offender?
-root(ROOT,Qu')
+Qu' est - ce qu' un délinquant ? \n What is an offender?
+root(ROOT-0,Qu'-1)
 cop(Qu',est)
 expl(Qu',ce)
 mwe(ce,qu')
@@ -22,7 +22,7 @@ nsubj(Qu',délinquant)
 
 ~~~ sdparse
 Qu' est - ce qu' il a fait ? \n What did he do ?
-root(ROOT,fait)
+root(ROOT-0,fait-8)
 dobj(fait,Qu')
 expl(fait,ce)
 mwe(ce,qu')
@@ -78,7 +78,7 @@ This head governs the left part of the pseudo-cleft construction with a [fr-dep/
 The pronoun _ce_ is the head of the left part of the pseudo-cleft and governs the relative clause with a standard [fr-dep/acl:relcl]() link.
 
 ~~~ sdparse
-Ce que j' aime, c' est le chocolat. \n Chocolate is what I like.
+Ce que j' aime , c' est le chocolat. \n Chocolate is what I like.
 cop(chocolat.,est)
 nsubj:expl(chocolat.,c')
 dislocated:cleft(chocolat.,Ce)
@@ -89,7 +89,7 @@ acl:relcl(Ce,aime)
 Ce qui me fait peur, c' est que tu te casses une jambe. \n What scares me is that you break your leg.
 mark(casses,que)
 cop(casses,est)
-nsubj:expl(casses,C')
+nsubj:expl(casses,c')
 dislocated:cleft(casses,Ce)
 acl:relcl(Ce,fait)
 ~~~
