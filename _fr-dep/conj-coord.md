@@ -10,6 +10,13 @@ Conjunctions are treated asymetrically with the first conjunct as the head, and 
 Contrary to the conjuncts of a `conj:appos` relation, the conjuncts of a `conj:coord` relation do not have the same referent.
 
 ~~~ sdparse
+Pierre et Patrick aiment rouler en moto. \n Pierre and Patrick like driving a motorcycle.
+conj:coord(Pierre,Patrick)
+nsubj(aiment,Pierre)
+cc(Patrick,et)
+~~~
+
+~~~ sdparse
 J'ai acheté des tomates, des courgettes et des aubergines pour faire une ratatouille. \n I bought tomatoes, zucchinis and eggplants to cook a ratatouille.
 obj(tomates)
 conj:coord(tomates,courgettes)
