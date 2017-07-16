@@ -9,14 +9,14 @@ FrenchSpoken uses the `dislocated:cleft` relation in pseudo-cleft structures to 
 
 ~~~ sdparse
 Ce que Thérèse aime par-dessus tout, c' est la randonnée. \n What Thérèse likes more than anything is hiking.
-dislocated:cleft(randonnée,Ce)
+dislocated:cleft(randonnée.,Ce)
 acl:relcl(Ce,aime)
 ~~~
 
 ~~~ sdparse
 Ce qui m' embête, c'est que tu ne m'as pas appelée. \n What bothers me is that you didn't call.
-dislocated:cleft(appelée,Ce)
+dislocated:cleft(appelée.,Ce)
 acl:relcl(Ce,embête)
 ~~~
 
-N.B.: For more informations on pseudo-cleft sentences see the [fr-overview/specific-syntax]() page.
+N.B.: For more informations on pseudo-cleft sentences see the [specific-syntax]() page.
