@@ -23,4 +23,4 @@ Nager avec les dauphins ne me fait pas rêver. C'est explorer la forêt tropical
 ccomp:cleft(explorer, intéresse)
 ~~~ 
 
-N.B.: Also see the [fr-overview/specific-syntax]() page.
+N.B.: Also see the [specific-syntax](http://universaldependencies.org/fr/overview/specific-syntax.html) page.
