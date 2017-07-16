@@ -30,4 +30,4 @@ obj(ai,mari)
 acl:cleft(mari,réparateur)
 ~~~ 
 
-N.B.: `acl:cleft` is only used for clefted nominal subjects or objects. All other cases are annotated with the [ccomp:cleft]() relation (for example when the clefted element is a verb or an adverb).
+N.B.: `acl:cleft` is only used for clefted nominal subjects or objects. All other cases are annotated with the [ccomp:cleft]() relation (for example when the clefted element is a verb or an adverb). Also see the [fr-overview/specific-syntax]() page.
