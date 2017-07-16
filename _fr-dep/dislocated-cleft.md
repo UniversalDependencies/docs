@@ -19,4 +19,4 @@ dislocated:cleft(appelée.,Ce)
 acl:relcl(Ce,embête)
 ~~~
 
-N.B.: For more informations on pseudo-cleft sentences see the [fr/overview/specific-syntax]() page.
+N.B.: For more informations on pseudo-cleft sentences see the [fr-overview/specific-syntax]() page.
