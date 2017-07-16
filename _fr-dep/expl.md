@@ -36,7 +36,7 @@ N.B.: Here the pronoun is not an expletive but a part of a fixed verbal expressi
 
 
 In _a-t-elle bien dormi ?_, we consider the euphony marker _t_ in _a-t-elle_ as part as of the pronoun _elle_. This gives us an allomorphic form _-t-elle_  of the pronoun _elle_.
-Due to the tokenizing choices we made (see [fr-overview/tokenization]()), _a-t-elle_ is split in five tokens: _a_, _-_, _t_, _-_ and _elle_. 
+Due to the tokenizing choices we made (see the [tokenization](http://universaldependencies.org/fr/overview/tokenization.html) page), _a-t-elle_ is split in five tokens: _a_, _-_, _t_, _-_ and _elle_. 
 The first hyphen is the head (i.e. it receives the link `nsubj`) and the other tokens are linked with a goeswith:
 
 ~~~ sdparse
@@ -58,7 +58,7 @@ nsubj(est, Marie)
 expl(est, -elle)
 ~~~
 
-FrenchSpoken annotates the two subjects with `nsubj` (and follows these tokenizing rules [fr-overview/tokenization]()):
+FrenchSpoken annotates the two subjects with `nsubj` (and follows [these tokenizing rules](http://universaldependencies.org/fr/overview/tokenization.html)):
 
 ~~~ sdparse
 Marie est - elle là ? \n Is Marie here?
