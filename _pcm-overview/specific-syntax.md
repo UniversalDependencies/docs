@@ -208,7 +208,7 @@ In Naija, two links are used for cleft sentences :
 
 ~~~
 
-- [acl:cleft]() in other cases.
+- [acl:cleft]() is used when a nominal is clefted.
 
 ~~~ conllu
 # visual-style 3 4 acl:cleft	color:blue
@@ -241,6 +241,30 @@ In Naija cleft sentences are sometimes marked using the _na_ particle and _naim_
 + naim [main] [dependent]
 + na [main] naim [dependent]
 
+Sometimes however, they are not marked as in the example below :
+
+~~~ conllu
+# visual-style 3 4 acl:cleft	color:blue
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+1	wetin	wetin	PRON	_	_	4	acl:relcl	_	_
+2	I	I	PRON	_	_	4	nsubj	_	_
+3	dey	dey	AUX	_	_	4	aux	_	_
+4	follow	follow	VERB	_	_	0	root	_	_
+5	you	you	PRON	_	_	4	obj	_	_
+6	yarn	yarn	VERB	_	_	4	compound:svc	_	_
+7	dose	dose	DET	_	_	8	det	_	_
+8	people	people	NOUN	_	_	10	dislocated	_	_
+9	na	na	PART	_	_	10	cop	_	_
+10	tutorial	tutorial	NOUN	_	_	1	ccomp:cleft	_	_
+11	dem	dem	PRON	_	_	12	nsubj	_	_
+12	come	come	VERB	_	_	10	acl:cleft	_	_
+13	do	do	VERB	_	_	12	xcomp	_	_
+
+
+~~~
 
 <a name="Disl"></a>
 
