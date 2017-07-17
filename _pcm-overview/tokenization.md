@@ -2,9 +2,12 @@
 layout: base
 title:  'Tokenization'
 permalink: pcm/overview/tokenization.html
+udver : '2'
 ---
 
 # Tokenization
 
-This document is a placeholder for the language-specific overview of
-guidelines for tokenization.
+The tokenization in Naija follows the universal guidelines:
+
++ contractions are undone (e.g., _mey_ becomes two token _make I_.
++ the tokenization is based on white spaces and punctuations ( _'_ is not considered as a punctuation e.g., _o'clock, a'ah_)
