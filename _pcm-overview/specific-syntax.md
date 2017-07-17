@@ -248,11 +248,11 @@ In Naija cleft sentences are sometimes marked using the _na_ particle and _naim_
 Sometimes however, they are not marked as in the example below :
 
 ~~~ conllu
-# visual-style 3 4 acl:cleft	color:blue
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
+# visual-style 1 10 ccomp:cleft	color:blue
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
 1	wetin	wetin	PRON	_	_	4	acl:relcl	_	_
 2	I	I	PRON	_	_	4	nsubj	_	_
 3	dey	dey	AUX	_	_	4	aux	_	_
