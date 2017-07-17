@@ -89,6 +89,7 @@ In a Serial Verb Construction (SVC), several verbs are combined to describe the 
 
 In Naija this type of construction is not limited to verbs, it can also involve adjectives.
 
+~~~ conllu
 # visual-style 3 4 compound:svc	color:blue
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
