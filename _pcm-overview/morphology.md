@@ -24,17 +24,13 @@ The `LEMMA` field should contain the canonical or base form of the word, such as
 
 ## Part-of-Speech Tags
 
-The list of [universal POS tags](../../u/pos/index.html) is a fixed list containing 17 tags. It is possible that some tags will not be used in some languages. However, the list cannot be extended to cover language-specific extensions. Instead, more fine-grained classification of words can be achieved via the use of [features](../../pcm/feat/index.html) (see below).
+Naija uses the POS tags described in the [universal POS tags list](../../u/pos/index.html). This list cannot be extended to cover language-specific extensions. Instead, more fine-grained classification of words can be achieved via the use of [features](../../pcm/feat/index.html) (see below). Just one tag per word is expected, and it should not be empty (use the `X` tag instead of underscore if no other tag is appropriate).
 
-Just one tag per word is expected, and it should not be empty (use the `X` tag instead of underscore if no other tag is appropriate).
-
-The POS tags of Naija are listed [here](../../pcm/pos/index.html).
+A description of each POS tag can be accessed through [this page](../../pcm/pos/index.html).
 
 ## Features
 
-Features are additional pieces of information about the word, its part of speech and morphosyntactic properties. Every feature has the form `Name=Value` and every word can have any number of features, separated by the vertical bar, as in `Gender=Masc|Number=Sing`.
-
-The features of Naija are listed [here](../../pcm/feat/index.html).
+[Features](../../pcm/feat/index.html) are additional pieces of information about the word, its part of speech and morphosyntactic properties. Every feature has the form `Name=Value` and every word can have any number of features, separated by the vertical bar, as in `Gender=Masc|Number=Sing`.
 
 
 + There are two types of identifiers:
