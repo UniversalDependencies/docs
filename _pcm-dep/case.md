@@ -55,7 +55,7 @@ The `case` relation is used for case-marking elements. These elements are treate
 14	road	_	_	_	_	0	_	_	_
 ~~~
 
-Naija also uses `case` for verbal predicates when the adposition plays the same role that it would play for a nominal head. In the example below, _sey I no go dey around_ could be replaced by the noun _wahala_ and the adposition _like_ would behave in the same way.
+Naija also uses `case` for verbal predicates when the adposition plays the same role that it would play for a nominal head. In the example below, "_sey I no go dey around_" could be replaced by the noun "_wahala_" (_a problem_) without affecting the behavior of the adposition "_like_".
 
 ~~~ conllu
 # visual-style 10 5 case	color:blue
