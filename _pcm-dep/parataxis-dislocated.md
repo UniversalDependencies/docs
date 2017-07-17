@@ -23,7 +23,7 @@ They cannot be considered as illocutary units since they are not autonomous.
 7	come	come	AUX	VERB	_	9	aux	_	_
 8	dey	be	AUX	AUX	_	9	aux	_	_
 9	ask	ask	VERB	VERB	_	0	root	_	_
-10	yourself	yourself	PRON	PRON	_	9	obj	_	_
+10	yourself	yourself	PRON	PRON	_	9	iobj	_	_
 11	sey	that	SCONJ	SCONJ	_	14	mark	_	_
 12	how	how	ADV	ADV	_	14	advmod	_	_
 13	I	I	PRON	PRON	_	14	nsubj	_	_
