@@ -17,7 +17,7 @@ cc(Patrick,et)
 ~~~
 
 ~~~ sdparse
-J'ai acheté des tomates, des courgettes et des aubergines pour faire une ratatouille. \n I bought tomatoes, zucchinis and eggplants to cook a ratatouille.
+J'ai acheté des tomates , des courgettes et des aubergines pour faire une ratatouille. \n I bought tomatoes, zucchinis and eggplants to cook a ratatouille.
 obj(tomates)
 conj:coord(tomates,courgettes)
 conj:coord(tomates,aubergines)
@@ -30,3 +30,4 @@ cc(mère,ni)
 conj:coord(mère,père)
 cc(père,ni)
 nsubj(répondu,mère)
+~~~
