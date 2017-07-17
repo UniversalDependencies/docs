@@ -20,12 +20,12 @@ cc(peine, Et)
 
 FrenchSpoken also uses the `cc` relation. However the standard `conj` relation is not used anymore and has been replaced by a few subrelations (see [conj]() for more details). Here are a few examples from FrenchSpoken:
  
- ~~~ sdparse
- et j'ai vraiment mal vécu ça \n and I really didn't live this well
- cc(vécu, et)
- ~~~
+~~~ sdparse
+et j'ai vraiment mal vécu ça \n and I really didn't live this well
+cc(vécu, et)
+~~~
  
- ~~~ sdparse
+~~~ sdparse
 nous avons attendu sept ou huit heures dans la gare \n we waited for seven or eight hours at the station
 conj:coord(sept, huit)
 cc(sept, ou)
