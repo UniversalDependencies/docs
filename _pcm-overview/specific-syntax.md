@@ -59,9 +59,65 @@ udver: '2'
 
 ### Serial Verb Constructions
 
+In a Serial Verb Construction (SVC), several verbs are combined to describe the same action. These verbs share their subject, but not necessarily their objects. 
+
+~~~ conllu
+# visual-style 2 4 compound:svc	color:blue
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+1	dem	them	PRON	PRON	_	2	nsubj	_
+2	enter	enter	VERB	VERB	_	0	root	_	_
+3	bus	bus	NOUN	NOUN	_	2	obj	_	_
+4	go	go	VERB	VERB	_	2	compound:svc	_	_
+5	work	work	NOUN	NOUN	_	4	obj	_	_
+
+1	they	_	_	_	_	0	_	_	_
+2	enter	_	_	_	_	0	_	_	_
+3	bus	_	_	_	_	0	_	_	_
+4	go	_	_	_	_	0	_	_	_
+5	work	_	_	_	_	0	_	_	_
+
+1	They	_	_	_	_	0	_	_	_
+2	take	_	_	_	_	0	_	_	_
+3	the	_	_	_	_	0	_	_	_
+4	bus	_	_	_	_	0	_	_	_
+5	to	_	_	_	_	0	_	_	_
+6	work	_	_	_	_	0	_	_	_
+~~~
+
+In Naija this type of construction is not limited to verbs, it can also involve adjectives.
+
+# visual-style 3 4 compound:svc	color:blue
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+1	di	the	DET	DET	_	2	det	_	_
+2	guy	guy	NOUN	NOUN	_	3	nsubj	_	_
+3	fine	fine	ADJ	ADJ	_	0	root	_	_
+4	reach	arrive	VERB	VERB	_	3	compound:svc	_	_
+5	me	I	PRON	PRON	_	4	obj	_	_
+
+1	the	_	_	_	_	0	_	_	_
+2	guy	_	_	_	_	0	_	_	_
+3	fine	_	_	_	_	0	_	_	_
+4	reach	_	_	_	_	0	_	_	_
+5	me	_	_	_	_	0	_	_	_
+
+1	Is	_	_	_	_	0	_	_	_
+2	the	_	_	_	_	0	_	_	_
+3	guy	_	_	_	_	0	_	_	_
+4	as	_	_	_	_	0	_	_	_
+5	handsome	_	_	_	_	0	_	_	_
+6	as	_	_	_	_	0	_	_	_
+7	I	_	_	_	_	0	_	_	_
+8	am	_	_	_	_	0	_	_	_
+
 #### Comparatives
 
-In Naija, comparatives follow the same pattern as SVCs, with the adjective acting like a verb, followed by the verb “pass” which is its dependant.
+In Naija, comparatives follow the same pattern as SVCs, with the adjective acting like a verb, followed by the verb “pass” which is its dependent.
 
 ~~~ conllu
 # visual-style 11 12 compound:svc	color:blue
