@@ -26,8 +26,8 @@ cc(aubergines,et)
 
 ~~~ sdparse
 Ni sa mère , ni son père ont répondu à ses appels. \n Neither his mother nor his dad answered his phonecalls.
-cc(mère-3,ni-1)
+cc(mère,Ni)
 conj:coord(mère,père)
-cc(père-7,ni-5)
+cc(père,ni)
 nsubj(répondu,mère)
 ~~~
