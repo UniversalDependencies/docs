@@ -116,6 +116,9 @@ In Naija this type of construction is not limited to verbs, it can also involve 
 7	I	_	_	_	_	0	_	_	_
 8	am	_	_	_	_	0	_	_	_
 
+~~~
+
+
 #### Comparatives
 
 In Naija, comparatives follow the same pattern as SVCs, with the adjective acting like a verb, followed by the verb “pass” which is its dependent.
