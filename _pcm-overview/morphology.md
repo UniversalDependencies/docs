@@ -42,12 +42,12 @@ Features are additional pieces of information about the word, its part of speech
 + Canonical ordering: features of one word (appearing on the same line) are always ordered alphabetically; if a feature has multiple values, these are ordered alphabetically, too. This rule facilitates cases when it is necessary to compare feature sets of two words. Alphabetical sorting means that uppercase letters are considered identical to their lowercase counterparts. So for example, `Number` precedes `NumType` .
 + Description of individual features usually hints what parts of speech the feature is likely to appear with. This information is intended to help understand the typical usage of the feature; however, it is _not a strict rule!_ Applicability of features to parts of speech is very language-dependent and it should never be assumed that the feature cannot appear together with a particular POS tag.
 
-## Lexical Features
+### Lexical Features
 
 All of these can be considered attributes of lexemes or lemmas (rather than individual word forms) and they represent a fine-grained sub-classification of words.
 
 
-## Inflectional Features
+### Inflectional Features
 
 These are mostly features of word forms rather than lemmas. There are exceptions: for instance, gender of nouns is usually a lexical feature (all word forms of one lemma have the same gender). However, other parts of speech (adjectives, pronouns, verbs) may inflect for gender because of agreement with nouns.
 
