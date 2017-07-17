@@ -267,7 +267,19 @@ Sometimes however, they are not marked as in the example below :
 12	come	come	VERB	_	_	10	acl:cleft	_	_
 13	do	do	VERB	_	_	12	xcomp	_	_
 
-
+1	what	_	_	_	_	0	_	_	_
+2	I	_	_	_	_	0	_	_	_
+3	CONT 	_	_	_	_	0	_	_	_
+4	follow	_	_	_	_	0	_	_	_
+5	you	_	_	_	_	0	_	_	_
+6	talk	_	_	_	_	0	_	_	_
+7	those	_	_	_	_	0	_	_	_
+8	people	_	_	_	_	0	_	_	_
+9	be	_	_	_	_	0	_	_	_
+10	tutorial	_	_	_	_	0	_	_	_
+11	they	_	_	_	_	0	_	_	_
+12	come	_	_	_	_	0	_	_	_
+13	do	_	_	_	_	0	_	_	_
 ~~~
 
 <a name="Disl"></a>
