@@ -19,8 +19,8 @@ ccomp:cleft(longtemps, habite)
 ~~~
 
 ~~~ sdparse
-Nager avec les dauphins ne me fait pas rêver. C'est explorer la forêt tropicale qui m' intéresse. \n Swimming with the dolphins isn't my dream. It's exploring the rainforest that interests me.
-ccomp:cleft(explorer, intéresse)
+Nager avec les dauphins ne me fait pas rêver. C' est explorer la forêt tropicale qui m' intéresse. \n Swimming with the dolphins isn't my dream. It's exploring the rainforest that interests me.
+ccomp:cleft(explorer, intéresse.)
 ~~~ 
 
 N.B.: Also see the [specific-syntax](http://universaldependencies.org/fr/overview/specific-syntax.html) page.
