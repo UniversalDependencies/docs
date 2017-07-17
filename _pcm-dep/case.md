@@ -58,10 +58,11 @@ The `case` relation is used for case-marking elements. These elements are treate
 Naija also uses `case` for verbal predicates when the adposition plays the same role that it would play for a nominal head. In the example below, _sey I no go dey around_ could be replaced by the noun _wahala_ and the adposition _like_ would behave in the same way.
 
 ~~~ conllu
-# visual-style 12 11 case	color:blue
-# visual-style 12	bgColor:blue
-# visual-style 12	fgColor:white
-# visual-style 11	bgColor:blue
+# visual-style 10 5 case	color:blue
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
 1	but	but	CCONJ	CCONJ	_	4	cc	_	_
 2	im	he	PRON	PRON	_	4	nsubj	_	_
 3	come	come	AUX	VERB	_	4	aux	_	_
