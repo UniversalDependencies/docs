@@ -18,7 +18,7 @@ cc(Patrick,et)
 
 ~~~ sdparse
 J'ai acheté des tomates , des courgettes et des aubergines pour faire une ratatouille. \n I bought tomatoes, zucchinis and eggplants to cook a ratatouille.
-obj(tomates)
+obj(acheté,tomates)
 conj:coord(tomates,courgettes)
 conj:coord(tomates,aubergines)
 cc(aubergines,et)
@@ -26,8 +26,8 @@ cc(aubergines,et)
 
 ~~~ sdparse
 Ni sa mère , ni son père ont répondu à ses appels. \n Neither his mother nor his dad answered his phonecalls.
-cc(mère,ni)
+cc(mère-3,ni-1)
 conj:coord(mère,père)
-cc(père,ni)
+cc(père-7,ni-5)
 nsubj(répondu,mère)
 ~~~
