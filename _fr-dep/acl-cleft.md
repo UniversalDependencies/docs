@@ -24,7 +24,7 @@ acl:cleft(Marie,danse)
 ~~~ 
 
 ~~~ sdparse
-J' ai le mari de ma voisine qui est réparteur de voiture. \n I've got a neighbour whose husband is a car repairer.
+J' ai le mari de ma voisine qui est réparateur de voiture. \n I've got a neighbour whose husband is a car repairer.
 nsubj(ai,J')
 obj(ai,mari)
 acl:cleft(mari,réparateur)
