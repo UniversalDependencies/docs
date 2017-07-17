@@ -9,7 +9,7 @@ A coordinating conjunction relation holds between the head conjunct of a coordin
 
 ~~~ sdparse
 1500 euros par an et par enfant \n 1500 euros per child and per year
-cc(an, et)
+cc(enfant, et)
 conj(an, enfant)
 ~~~
 
@@ -18,7 +18,7 @@ Et ce n'est pas la peine d'insister \n And it is not worth insisting
 cc(peine, Et)
 ~~~
 
-FrenchSpoken also uses the `cc` relation. However the standard `conj` relation is not used anymore and has been replaced by a few subrelations (see [conj]() for more details). Here are a few examples from FrenchSpoken:
+FrenchSpoken also uses the `cc` relation. However the standard `conj` relation is not used anymore and has been replaced by a few subrelations (see [conj]() for more details). 
  
 ~~~ sdparse
 et j'ai vraiment mal vécu ça \n and I really didn't live this well
@@ -28,7 +28,7 @@ cc(vécu, et)
 ~~~ sdparse
 nous avons attendu sept ou huit heures dans la gare \n we waited for seven or eight hours at the station
 conj:coord(sept, huit)
-cc(sept, ou)
+cc(huit, ou)
 ~~~ 
 
 In the following example, _c'est-à-dire_ is the coordinating conjunction in a [conj:appos]() relation :
