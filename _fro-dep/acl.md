@@ -50,7 +50,7 @@ for `acl`.
 `acl` concerns clause modifiers of a noun too.
 
 ~~~ conllu
-# visual-style 6 15 acl:relcl	color:blue
+# visual-style 6 15 acl	color:blue
 # visual-style 15	bgColor:blue
 # visual-style 15	fgColor:white
 # visual-style 6	bgColor:blue
@@ -73,3 +73,21 @@ for `acl`.
 
 ~~~
 
+It is the case for some kind of secondary predication, or attributive structure too
+
+~~~ conllu
+# visual-style 7 8 acl	color:blue
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+1	Clers	_	ADJ	ADJqua	_	0	root	_	_
+2	est	_	VERB	VERcjg	_	1	cop	_	_
+3	li	_	DET	DETdef	_	4	det	_	_
+4	jurz	_	NOUN	NOMcom	_	1	nsubj	_	_
+5	e	_	CCONJ	CONcoo	_	7	cc	_	_
+6	li	_	DET	DETdef	_	7	det	_	_
+7	soleilz	_	NOUN	NOMcom	_	4	conj	_	_
+8	luisant	_	VERB	VERppa	_	7	acl	_	_
+
+~~~
