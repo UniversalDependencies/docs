@@ -21,3 +21,21 @@ An open clausal complement (`xcomp`) of a verb or an adjective is a predicative 
 5	querant	_	VERB	VERppa	_	3	xcomp	_	_
 
 ~~~
+
+
+The xcomp relation is also used in constructions that are known as secondary predicates or predicatives.
+
+~~~ conllu
+# visual-style 2 3 xcomp	color:blue
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+1	Sin	_	PRON	ADVgen.PROper	_	2	advmod	_	_
+2	getat	_	VERB	VERcjg	_	0	root	_	_
+3	mort	_	VERB	VERppe	_	2	xcomp	_	_
+4	Malpalin	_	PROPN	NOMpro	_	2	obj	_	_
+5	de	_	ADP	PRE	_	4	flat	_	_
+6	Nerbone	_	PROPN	NOMpro	_	4	flat	_	_
+
+~~~
