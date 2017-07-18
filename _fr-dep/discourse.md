@@ -2,6 +2,7 @@
 layout: relation
 title: 'discourse'
 shortdef: 'discourse element'
+udver: '2'
 ---
 
 This is used for interjections and other discourse particles and elements, which are not clearly linked to the structure of the sentence except in an expressive way.
@@ -17,3 +18,17 @@ Bref , une occasion à ne pas laisser passer \n In short, an opportunity that sh
 discourse(occasion, Bref)
 ~~~
 
+FrenchSpoken also uses the `discourse` relation. Here are some examples:
+
+~~~ sdparse
+je traverse euh face à la euh MDE \n I cross the road uh in front of the uh MDE
+discourse(traverse-2,euh-3)
+discourse(la-6,euh-7)
+~~~ 
+
+~~~ sdparse
+nah ça parait normal \n well it looks ok
+discourse(parait,bah)
+~~~
+
+N.B.: FrenchSpoken uses the [parataxis:discourse]() relation for sentential discourse markers.
