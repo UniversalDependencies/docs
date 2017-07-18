@@ -5,7 +5,7 @@ shortdef: 'clausal modifier of noun'
 udver: '2'
 ---
 
-The `acl` relation is used for finite and non-finite clauses that modify a noun. 
+The `acl` relation is used for clauses that modify a noun or an adjective. Adjectives can also have clausal complements with their own subject, in that case we use the [ccomp]() relation instead.
 
 ~~~ conllu
 # visual-style 8 10 acl	color:blue
