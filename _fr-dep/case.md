@@ -19,13 +19,13 @@ case(attendant, En)
  
  In FrenchSpoken we also use the `case` relation. Here are a few examples from FrenchSpoken:
  
- ~~~ sdparse
- je travaille dans le privé là \n I currently work in the private sector
- case(privé, dans)
- ~~~
+~~~ sdparse
+je travaille dans le privé là \n I currently work in the private sector
+case(privé, dans)
+~~~
  
- ~~~ sdparse
- un rassemblement devant le ministère de l'enseignement supérieur \n a gathering in front of the Ministry of Higher Education
- case(ministère, devant)
- case(enseignement, de)
- ~~~ 
+~~~ sdparse
+un rassemblement devant le ministère de l'enseignement supérieur \n a gathering in front of the Ministry of Higher Education
+case(ministère, devant)
+case(enseignement, de)
+~~~ 
