@@ -7,33 +7,10 @@ udver: '2'
 
 # Specific constructions
 
-## Qu'est-ce que ... ?
-
-We analyze "qu'est-ce que ..." as follows: the first _qu'_ gets the true grammatical relation given the sentence , _ce_ is an expletive, _est_ is a copula and the second _que_ is a mwe dependent on _ce_
-
-~~~ sdparse
-Qu' est - ce qu' un délinquant ? \n What is an offender?
-root(ROOT-0,Qu'-1)
-cop(Qu',est)
-expl(Qu',ce)
-mwe(ce,qu')
-nsubj(Qu',délinquant)
-~~~
-
-~~~ sdparse
-Qu' est - ce qu' il a fait ? \n What did he do ?
-root(ROOT-0,fait-8)
-dobj(fait,Qu')
-expl(fait,ce)
-mwe(ce,qu')
-cop(fait,est)
-nsubj(fait,il)
-~~~
-
 ## Cleft sentences
 
 FrenchSpoken analyzes cleft sentences with [fr-dep/acl:cleft]() when the clefted element is a nominal subject or object. All other clefted elements are analyzed with [fr-dep/ccomp:cleft]().
-For cleft sentences constructed with a _c'est_ (or _ce sont_, _c'était_ etc.), the clefted element is the head or the whole cleft sentence and the syntactical subject _c'_ receives a [fr-dep/nsubj:expl]() link.
+For cleft sentences constructed with a _c'est_ (or _ce sont_, _c'était_ etc.), the clefted element is the head of the whole cleft sentence and the syntactical subject _c'_ receives a [fr-dep/nsubj:expl]() link.
 
 ~~~ sdparse
 Notre jardin est vraiment magnifique. C' est notre jardinier qui a tout fait seul ! \n Our garden is truly beautiful. It's our gardener who did everything on his own!
@@ -64,17 +41,42 @@ In a presentative construction the pronoun _c'_ has an antecedent whereas the _c
 In the following example, _C'_ has an obvious antecedent: _notre jardinier_. The relative clause of the presentative construction is governed by _lui_ with a [fr-dep/acl:relcl]() relation (and not an `acl:cleft` relation).
 
 ~~~ sdparse
-Notre jardinier est excellent. C' est lui qui a fait tout ce merveilleux travail. \n Our gardener is excellent. He is the one who did all this wonderful work.
-nsubj(lui,C')
-acl:relcl(lui,fait)
-nsubj(fait,qui)
+Notre jardin est vraiment magnifque. C’est un endroit où j’ aime venir lire. \n Our garden is truly beautiful. It's a place where I like to come reading.
+nsubj(endroit,C')
+acl:relcl(endroit,aime)
+obl:mod(aime,où)
 ~~~ 
 
+## Qu'est-ce que ... ?
+
+_qu'est-ce que ..._ is actually a cleft construction. 
+For example the sentence _Qu'est-ce que tu lis ?_ (_What are you reading?_) corresponds to the sentence _C'est quoi que tu lis ?_. In the second sentence the cleft construction clearly appears: _quoi_ is the clefted element and _que tu lis_ the clause attached to it.
+_Qu'est-ce que ..._ is thus analyzed as a cleft sentence. The first _qu'_ (i.e. the clefted element) is the head of the whole sentence and governs the right part with an [fr-dep/acl:cleft]() or a [fr-dep/ccomp:cleft]() link.
+
+~~~ sdparse
+Qu' est - ce qu' un délinquant ? \n What is an offender?
+root(ROOT-0,Qu'-1)
+cop(Qu',est)
+nsubj:expl(Qu',ce)
+acl:cleft(Qu',délinquant)
+nsubj(qu',délinquant)
+~~~
+
+~~~ sdparse
+Qu' est - ce qu' il a fait ? \n What did he do ?
+root(ROOT-0,Qu'-8)
+cop(Qu',est)
+nsubj:expl(Qu',ce)
+acl:cleft(Qu',fait)
+obj(fait,qu')
+nsubj(fait,il)
+~~~
 
 ## Pseudo-cleft sentences
 
-To stay consistent with the analysis made for the cleft sentences, and thus to show the similarities between the two types of constructions, the head of a pseudo-cleft sentence is the element that follows the _c'est_ (or _c'était_ etc.) and the pronoun _c'_ is annotated with [fr-dep/nsubj:expl](). 
+To stay consistent with the analysis made for the cleft sentences, and thus to show the similarities between the two types of constructions, the head of a pseudo-cleft sentence is the element that follows the _c'est_ (or _c'était_ etc.).
 This head governs the left part of the pseudo-cleft construction with a [fr-dep/dislocated:cleft]() link. 
+However the pronoun _c'_ is not annotated with [fr-dep/nsubj:expl](). In the case of a pseudo-cleft sentence, it may be considered that _c'_ stands for dislocated complement (i.e. that _c'_ has an antecedent and is not an expletiv).
 The pronoun _ce_ is the head of the left part of the pseudo-cleft and governs the relative clause with a standard [fr-dep/acl:relcl]() link.
 
 ~~~ sdparse
