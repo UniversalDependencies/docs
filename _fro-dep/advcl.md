@@ -40,3 +40,22 @@ An adverbial clause modifier (`advcl`) is a clause which modifies a verb or othe
 6	ferant	_	VERB	VERppa	_	5	advcl	_	_
 
 ~~~
+
+Typical structure in Old French :
+
+~~~ conllu
+# visual-style 1 4 advcl	color:blue
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+1	Fait	_	VERB	VERcjg	_	0	root	_	_
+2	sun	_	DET	DETpos	_	3	det	_	_
+3	eslais	_	NOUN	NOMcom	_	1	obj	_	_
+4	veant	_	VERB	VERppa	_	1	advcl	_	_
+5	cent	_	DET	DETcar	_	6	nummod	_	_
+6	mil	_	DET	DETcar	_	7	nummod	_	_
+7	humes	_	NOUN	NOMcom	_	4	nsubj	_	_
+
+~~~ 
+
