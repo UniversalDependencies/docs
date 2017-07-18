@@ -23,7 +23,7 @@ In case of complex determiner, there are two `det` relations
 1	Tut	_	DET	DETind	_	3	det	_	_
 2	li	_	DET	DETdef	_	3	det	_	_
 3	païs	_	NOUN	NOMcom	_	4	nsubj	_	_
-3	en	_	ADV	PROadv	_	4	advmod	_	_
-4	reluist	_	VERB	VERcjg	_	0	root	_	_
+4	en	_	ADV	PROadv	_	4	advmod	_	_
+5	reluist	_	VERB	VERcjg	_	0	root	_	_
 
 ~~~
