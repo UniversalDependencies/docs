@@ -9,7 +9,7 @@ An open clausal complement (`xcomp`) of a verb or an adjective is a predicative 
 
 
 ~~~ conllu
-# visual-style 5 3 xcomp	color:blue
+# visual-style 3 5 xcomp	color:blue
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 3	bgColor:blue
