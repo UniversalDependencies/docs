@@ -80,7 +80,7 @@ Naija also uses `case` for verbal predicates when the adposition plays the same 
 3	REAL	_	_	_	_	0	_	_	_
 4	be	_	_	_	_	0	_	_	_
 5	like	_	_	_	_	0	_	_	_
-6	COMP	_	_	_	_	0	_	_	_
+6	that	_	_	_	_	0	_	_	_
 7	I	_	_	_	_	0	_	_	_
 8	not	_	_	_	_	0	_	_	_
 9	PROSP	_	_	_	_	0	_	_	_
