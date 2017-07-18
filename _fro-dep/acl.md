@@ -46,3 +46,30 @@ for `acl`.
 7	atent	_	VERB	VERcjg	_	4	acl:relcl	_	_
 
 ~~~
+
+`acl` concerns clause modifiers of a noun too.
+
+~~~ conllu
+# visual-style 6 15 acl:relcl	color:blue
+# visual-style 15	bgColor:blue
+# visual-style 15	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+1	La	_	ADV	ADVgen	_	4	advmod	_	_
+2	sus	_	ADV	ADVgen	_	4	advmod	_	_
+3	amunt	_	ADV	ADVgen	_	4	advmod	_	_
+4	pargetent	_	VERB	VERcjg	_	0	root	_	_
+5	tel	_	DET	DETind	_	6	det	_	_
+6	luiserne	_	NOUN	NOMcom	_	4	obj	_	_
+7	Par	_	ADP	PRE	_	9	case	_	_
+8	la	_	DET	DETdef	_	9	det	_	_
+9	noit	_	NOUN	NOMcom	_	15	obl	_	_
+10	la	_	DET	DETdef	_	11	det	_	_
+11	mer	_	NOUN	NOMcom	_	15	nsubj	_	_
+12	en	_	ADV	PROadv	_	15	advmod	_	_
+13	est	_	VERB	VERcjg	_	15	cop	_	_
+14	plus	_	ADV	ADVgen	_	15	advmod	_	_
+15	bele	_	ADJ	ADJqua	_	6	acl	_	_
+
+~~~
+
