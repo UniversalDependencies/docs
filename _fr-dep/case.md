@@ -17,7 +17,7 @@ En attendant , asseyez-vous ici \n While waiting, seat down here
 case(attendant, En)
 ~~~
  
- Here are a few examples from FrenchSpoken where the relation `case`is used:
+ Here are a few examples from FrenchSpoken with the relation `case`:
  
 ~~~ sdparse
 je travaille dans le privé là \n I currently work in the private sector
