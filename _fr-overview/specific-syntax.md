@@ -100,7 +100,7 @@ acl:relcl(Ce,fait)
 ### Causative
 
 In French causatives are typically constructed with the verb _faire_. 
-The head of a causative construction is the infinitiv verb, which governs _faire_ with a [fr-dep/aux:caus]() link. The syntactical subject of the sentence is annotated with [fr-dep/nsubj:caus](). The true agent of the action described by the causative will be linked to the infinitiv verb by an [fr-dep/obj:agent](), an [fr-dep/iobj:agent]() or an [fr-dep/obl:agent]() relation, depending on the syntactical function it has in the sentence.
+The head of a causative construction is the infinitive verb, which governs _faire_ with a [fr-dep/aux:caus]() link. The syntactical subject of the sentence is annotated with [fr-dep/nsubj:caus](). The true agent of the action described by the causative will be linked to the infinitive verb by an [fr-dep/obj:agent](), an [fr-dep/iobj:agent]() or an [fr-dep/obl:agent]() relation, depending on the syntactical function it has in the sentence.
 
 ~~~ sdparse
 J' ai fait changer les roues de la voiture par le garagiste. \n I made the mechanic change the car's wheels.
