@@ -27,7 +27,7 @@ discourse(la-6,euh-7)
 ~~~ 
 
 ~~~ sdparse
-nah ça parait normal \n well it looks ok
+bah ça parait normal \n well it looks ok
 discourse(parait,bah)
 ~~~
 
