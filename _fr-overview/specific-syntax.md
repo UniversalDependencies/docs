@@ -41,7 +41,7 @@ In a presentative construction the pronoun _c'_ has an antecedent whereas the _c
 In the following example, _C'_ has an obvious antecedent: _notre jardinier_. The relative clause of the presentative construction is governed by _lui_ with a [fr-dep/acl:relcl]() relation (and not an `acl:cleft` relation).
 
 ~~~ sdparse
-Notre jardin est vraiment magnifque. C’ est un endroit où j’ aime venir lire. \n Our garden is truly beautiful. It's a place where I like to come reading.
+Notre jardin est vraiment magnifique. C' est un endroit où j' aime venir lire. \n Our garden is truly beautiful. It's a place where I like to come reading.
 nsubj(endroit,C')
 acl:relcl(endroit,aime)
 obl:mod(aime,où)
