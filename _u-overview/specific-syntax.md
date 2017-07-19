@@ -587,7 +587,7 @@ Tokens with the relation [u-dep/punct]() always attach to content words (except 
 Instead, we use the following principles:
 
 1. A punctuation mark separating coordinated units is attached to the immediately following conjunct.
-2. A punctuation mark preceding or following a subordinated unit is attached to this unit.
+2. A punctuation mark preceding or following a dependent unit is attached to that unit.
 3. Within the relevant unit, a punctuation mark is attached at the highest possible node that preserves projectivity.
 4. Paired punctuation marks (quotes and brackets) should be attached to the same word unless that would create non-projectivity. This word is usually the head of the phrase enclosed in the paired punctuation.
 
@@ -626,3 +626,5 @@ punct(known-31, “-29)
 punct(known-31, ”-33)
 punct(Compare, .-34)
 </div>
+
+See also examples at [parataxis]().
