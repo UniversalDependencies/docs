@@ -13,7 +13,7 @@ The true agent of the action described by the sentence will either be anotated w
 Marie a fait asseoir Pierre. \n Marie made Pierre sit.
 aux:caus(asseoir,fait)
 nsubj:caus(asseoir,Marie)
-obj:agent(asseoir,Pierre)
+obj:agent(asseoir-4,Pierre-5)
 ~~~ 
 
 N.B.: For more details about the analysis of causatives see [this page](http://universaldependencies.org/fr/overview/specific-syntax.html#causative).
