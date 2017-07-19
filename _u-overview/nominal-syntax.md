@@ -26,20 +26,20 @@ obj(såg, den)
 
 A nominal head does not take any core arguments but may be associated with different types of modifiers:
 
-1. An `nmod` is a nominal phrase modifying the head of another nominal phrase, with or without a special case marker.
+1. An `nmod` is a nominal phrase modifying the head of another nominal phrase, with or without a special case marker. Treebanks may optionally use `nmod:poss` to distinguish non-adpositional possessives.
 2. An `appos` is a nominal phrase that follows the head of another nominal phrase and stands in a co-reference or other equivalence relation to it.
 3. An `amod` is an adjective modifying the head of a nominal phrase.
 4. A `nummod` is a numeral modifying the head of a nominal phrase.
 5. An `acl` is a clause modifying the head of a nominal phrase, with the relative clause `acl:relcl` as an important subtype.
 
 ~~~ sdparse
-the Chair 's office
-nmod(office-4, Chair-2)
+the office of the Chair
+nmod(office-2, Chair-5)
 ~~~
 
 ~~~ sdparse
-the office of the Chair
-nmod(office-2, Chair-5)
+the Chair 's office
+nmod:poss(office-4, Chair-2)
 ~~~
 
 ~~~ sdparse
