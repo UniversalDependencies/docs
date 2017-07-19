@@ -17,4 +17,4 @@ David , comment ça va ? \n David, how 's it going ?
 vocative(va, David)
 ~~~
 
-
+Currently FrenchSpoken does not use this relation.
