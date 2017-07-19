@@ -3,9 +3,10 @@ layout: relation
 title: 'orphan'
 redirect_from: "fr/dep/remnant.html"
 shortdef: 'remnant in ellipsis'
+udver: '2'
 ---
 
-The remnant relation is used to analyze cases of ellipsis where there is no function word that can be promoted to take the place of the elided content word. For a full discussion of its use, see the universal dependency description ([u-dep/remnant]()).
+The `orphan` relation is used to analyze cases of ellipsis where there is no function word that can be promoted to take the place of the elided content word. For a full discussion of its use, see the universal dependency description ([u-dep/orphan]()).
 
 Currently this construction is not correctly annotated in the French treebank.
 
