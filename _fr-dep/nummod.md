@@ -2,6 +2,7 @@
 layout: relation
 title: 'nummod'
 shortdef: 'numeric modifier'
+udver: '2'
 ---
 
 A numeric modifier of a noun is any number phrase that serves to
@@ -13,11 +14,11 @@ nummod(bonbons, 3)
 ~~~
 
 ~~~ sdparse
-Il perdit presque 13 pourcent  \n He lost almost 14 percent
+Il perdit presque 13 pourcent  \n He lost almost 13 percent
 nummod(pourcent, 13)
 ~~~
 
-Dates are annotated as follows: if present the month is the head, the day is _nummod_, and the year is _nmod_
+Dates are annotated as follows: if present the month is the head, the day and the year are _nummod_:
 
 ~~~ sdparse
 Elle est née le 12 décembre 2011  \n She was born on December 12 2011
@@ -25,4 +26,17 @@ nmod(née, décembre)
 nummod(décembre, 12)
 nmod(décembre, 2011)
 det(27, le)
+~~~
+
+Here are some examples from FrenchSpoken:
+
+~~~ sdparse
+et j'ai dit je gagne 300 francs par mois /n and I said I earn 300 francs a month
+nummod(francs,300)
+~~~
+
+~~~ sdparse
+je suis né à Alger en 1943 \n I was born in Algiers in 1943
+nummod(né,Alger)
+case(1943,en)
 ~~~
