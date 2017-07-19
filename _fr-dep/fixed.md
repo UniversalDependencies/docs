@@ -14,7 +14,7 @@ fixed(quand, même)
 advmod(venue, quand)
 ~~~
 
-Instead of using the `fixed` relation, FrenchSpoken syntactically analyzes as many expressions as possible.
+Instead of using the `fixed` relation, FrenchSpoken syntactically analyzes as many expressions as possible (i.e. the `fixed` relation is only used for syntactically irregular constructions).
 For instance, _il y a_ corresponds to two frozen expressions: a particular marker of clefting (_il y a trois libres sur la table_) and an adposition (_Paul est arrivé il y a trois jours_). The first is syntactically regular and is the analyzed with regular relations. The second is syntactically deviant and is analyzed with _fixed_:
 
 ~~~ sdparse
