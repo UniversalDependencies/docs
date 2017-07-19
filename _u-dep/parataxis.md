@@ -19,6 +19,8 @@ parataxis(Let, annoyed)
 ~~~ sdparse
 The guy , John said , left early in the morning
 parataxis(left, said)
+punct(said, ,-3)
+punct(said, ,-6)
 ~~~
 
 ## An inventory of constructions to which parataxis has been applied
