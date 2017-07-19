@@ -2,6 +2,7 @@
 layout: relation
 title: 'mark'
 shortdef: 'marker'
+udver: '2'
 ---
 
 A marker is the word introducing a clause subordinate to another clause. The marker is a dependent of the subordinate clause head. 
@@ -21,4 +22,12 @@ Prepositions introducing infinitives are also analyzed as `mark`.
 ~~~ sdparse
 Il faut arriver tôt pour avoir de la place \n One needs to get there early to have a seat
 mark(avoir, pour)
+~~~
+
+Note that in the phrase _dès que_, _que_ is considered as a marker by FrenchSpoken (and not analyzed with [fixed]() as it may be done in other French treebanks). _dès_ is thus analyzed as a preposition, dependent of the finite verb of the clause. The fact that the clause following the _dès_ can commute with a simple nominal phrase justifies this analysis. For instance, in the following example, _que son mari est arrivé_ (in _dès que son marie est arrivé_) can commute with _son arrivée_ (_dès son arrivée_).
+
+~~~ sdparse
+Muriel a quitté la pièce dès que son mari est arrivé. \n Muriel left the room as soon as her husband arrived.
+mark(arrivé,que)
+case(arrivé,dès)
 ~~~
