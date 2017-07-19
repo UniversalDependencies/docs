@@ -96,7 +96,32 @@ dislocated:cleft(casses,Ce)
 acl:relcl(Ce,fait)
 ~~~
 
+### Causative
 
+In French causatives are typically constructed with the verb _faire_. 
+The head of a causative construction is the infinitiv verb, which governs _faire_ with a [fr-dep/aux:caus]() link. The syntactical subject of the sentence is annotated with [fr-dep/nsubj:caus](). The true agent of the action described by the causative will be linked to the infinitiv verb by an [fr-dep/obj:agent](), an [fr-dep/iobj:agent]() or an [fr-dep/obl:agent]() relation, depending on the syntactical function it has in the sentence.
 
+~~~ sdparse
+J' ai fait changer les roues de la voiture par le garagiste. \n I made the mechanic change the car's wheels.
+aux:caus(changer,fait)
+nsubj:caus(changer,J')
+obj(changer,roues)
+obl:agent(changer,garagiste)
+~~~
 
+~~~ sdparse
+Ce magicien fait vraiment rêver les enfants. \n This magician really makes the kids dream.
+aux:caus(rêver,fait)
+nsubj:caus(rêver,magicien)
+obj:agent(rêver,enfants.)
+~~~
 
+~~~ sdparse
+Jean-Jacques n'était jamais venu donc je lui ai fait visiter toute ma maison. \n Jean-Jacques had never been to my place before so I showed him around.
+aux:caus(visiter,fait)
+nsubj:caus(visiter,je)
+iobj:agent(visiter,lui)
+obj(visiter,maison)
+~~~
+
+N.B.: For more details about the analysis of causatives, see [this discussion](https://gitlab.inria.fr/sequoia/deep-sequoia/issues/153#) (which is partly in English and partly in French).
