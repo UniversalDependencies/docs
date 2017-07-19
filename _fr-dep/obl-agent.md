@@ -1,7 +1,7 @@
 ---
 layout: relation
 title: 'obl:agent'
-shortdef: 'agentiv oblique'
+shortdef: 'agentive oblique'
 udver: '2'
 ---
 
