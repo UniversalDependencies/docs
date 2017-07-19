@@ -29,3 +29,5 @@ Il y a trois livres sur la table. \n There are three books on the table.
 nsubj:expl(a, Il)
 advmod(a, y)
 ~~~
+
+Complex determiners and complex prepositions, which are currently often analyzed with a `fixed` relation in some French treebanks, are respectively analyzed with the [det:comlex]() and [case:complex]() relations by FrenchSpoken.
