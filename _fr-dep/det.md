@@ -2,6 +2,7 @@
 layout: relation
 title: 'det'
 shortdef: 'determiner'
+udver: '2'
 ---
 
 A determiner is the relation between the head of a nominal phrase and its determiner. 
@@ -22,3 +23,12 @@ A possessive determiner is marked with the [nmod:poss]() relation:
 Mon ami  \n My friend
 nmod:poss(ami, Mon)
 ~~~
+
+The `det` relation is also used by FrenchSpoken:
+
+~~~ sdparse
+donc la vigilance sera accrue à ce moment -là \n so there will be increased vigilance at that time
+det(vigilance,la)
+det(moment,ce)
+~~~
+
