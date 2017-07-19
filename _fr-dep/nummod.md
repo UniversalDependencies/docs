@@ -31,8 +31,9 @@ det(27, le)
 Here are some examples from FrenchSpoken:
 
 ~~~ sdparse
-et j'ai dit je gagne 300 francs par mois /n and I said I earn 300 francs a month
-nummod(francs,300)
+et j'ai dit je gagne trois cents francs par mois /n and I said I earn three hundreds francs a month
+nummod(francs,trois)
+nummod(trois,cents)
 ~~~
 
 ~~~ sdparse
