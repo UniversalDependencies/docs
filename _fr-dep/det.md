@@ -17,7 +17,7 @@ Quel livre préfères-tu ? \n Which book do you prefer ?
 det(livre, Quel)
 ~~~
 
-A possessive determiner is marked with the [nmod:poss]() relation:
+In some French treebanks, possessive determiners are marked with the [nmod:poss]() relation:
 
 ~~~ sdparse
 Mon ami  \n My friend
@@ -32,3 +32,12 @@ det(vigilance,la)
 det(moment,ce)
 ~~~
 
+FrenchSpoken annotates possessive determiners with a `det` relation and does not use the `nmod:poss` relation.
+
+~~~ sdparse
+nous allons vous prouver l' efficacité de notre boule magique \n we will show you the efficiency of our magic ball
+det(boule,notre)
+det(efficacité,l')
+~~~
+
+N.B.: The [det:complex]() relation is used to analyze complex determiners.
