@@ -41,7 +41,7 @@ In a presentative construction the pronoun _c'_ has an antecedent whereas the _c
 In the following example, _C'_ has an obvious antecedent: _notre jardinier_. The relative clause of the presentative construction is governed by _lui_ with a [fr-dep/acl:relcl]() relation (and not an `acl:cleft` relation).
 
 ~~~ sdparse
-Notre jardin est vraiment magnifque. C’est un endroit où j’ aime venir lire. \n Our garden is truly beautiful. It's a place where I like to come reading.
+Notre jardin est vraiment magnifque. C’ est un endroit où j’ aime venir lire. \n Our garden is truly beautiful. It's a place where I like to come reading.
 nsubj(endroit,C')
 acl:relcl(endroit,aime)
 obl:mod(aime,où)
@@ -51,16 +51,7 @@ obl:mod(aime,où)
 
 _qu'est-ce que ..._ is actually a cleft construction. 
 For example the sentence _Qu'est-ce que tu lis ?_ (_What are you reading?_) corresponds to the sentence _C'est quoi que tu lis ?_. In the second sentence the cleft construction clearly appears: _quoi_ is the clefted element and _que tu lis_ the clause attached to it.
-_Qu'est-ce que ..._ is thus analyzed as a cleft sentence. The first _qu'_ (i.e. the clefted element) is the head of the whole sentence and governs the right part with an [fr-dep/acl:cleft]() or a [fr-dep/ccomp:cleft]() link.
-
-~~~ sdparse
-Qu' est - ce qu' un délinquant ? \n What is an offender?
-root(ROOT-0,Qu'-1)
-cop(Qu',est)
-nsubj:expl(Qu',ce)
-acl:cleft(Qu',délinquant)
-nsubj(qu',délinquant)
-~~~
+_Qu'est-ce que ..._ is thus analyzed as a cleft sentence. The first _qu'_ (i.e. the clefted element) is the head of the whole sentence and governs the right part with an [fr-dep/acl:cleft]() link.
 
 ~~~ sdparse
 Qu' est - ce qu' il a fait ? \n What did he do ?
@@ -71,6 +62,16 @@ acl:cleft(Qu',fait)
 obj(fait,qu')
 nsubj(fait,il)
 ~~~
+
+~~~ sdparse
+Qu' est - ce que tu as acheté au magasin ? \n What did you buy in the shop?
+cop(Qu',est)
+nsubj:expl(Qu',ce)
+acl:cleft(Qu',acheté)
+obj(acheté,que)
+nsubj(acheté,tu)
+~~~
+
 
 ## Pseudo-cleft sentences
 
@@ -106,7 +107,7 @@ J' ai fait changer les roues de la voiture par le garagiste. \n I made the mecha
 aux:caus(changer,fait)
 nsubj:caus(changer,J')
 obj(changer,roues)
-obl:agent(changer,garagiste)
+obl:agent(changer,garagiste.)
 ~~~
 
 ~~~ sdparse
@@ -121,7 +122,7 @@ Jean-Jacques n'était jamais venu donc je lui ai fait visiter toute ma maison. \
 aux:caus(visiter,fait)
 nsubj:caus(visiter,je)
 iobj:agent(visiter,lui)
-obj(visiter,maison)
+obj(visiter,maison.)
 ~~~
 
 N.B.: For more details about the analysis of causatives, see [this discussion](https://gitlab.inria.fr/sequoia/deep-sequoia/issues/153#) (which is partly in English and partly in French).
