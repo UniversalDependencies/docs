@@ -5,7 +5,7 @@ shortdef: 'parataxis'
 udver: '2'
 ---
 
-Naija does not uses `parataxis` as such but splits it into six subrelations:
+Naija does not uses `parataxis` as such, but splits it into six subrelations:
 
 + [parataxis:conj]() : for juxtaposed clauses
 
