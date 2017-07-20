@@ -8,11 +8,11 @@ udver: '2'
 The `det:predet` relation is used for predeterminers, i.e words that precede and modify the meaning of a determiner.
 
 ~~~ conllu
-# visual-style 2 1 det	color:blue
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
+# visual-style 8 7 det:predet	color:blue
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
 1	I	I	PRON	PRON	_	3	nsubj	_	_
 2	no	not	PART	PART	_	3	advmod	_	_
 3	dey	be	VERB	VERB	_	0	root	_	_
