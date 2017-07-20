@@ -17,7 +17,7 @@ The `expl` relation is not used in Naija. Instead, we use the `nsubj:expl` subre
 1	im	he	PRON	PRON	_	2	nsubj:expl	_	_
 2	get	get	VERB	VERB	_	0	root	_	_
 3	one	one	DET	DET	_	4	det	_	_
-4	man	man	NOUN	NOUN	_	2	obj	_	_
+4	man	man	NOUN	NOUN	_	2	nsubj:quasi	_	_
 5	wey	where	SCONJ	SCONJ	_	6	mark	_	_
 6	come	come	VERB	VERB	_	4	acl:cleft	_	_
 7	for	for	ADP	ADP	_	9	case	_	_
