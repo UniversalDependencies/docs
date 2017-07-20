@@ -9,7 +9,7 @@ FrenchSpoken uses the `acl:cleft` relation to link the clefted nominal element (
 The [nsubj:expl]() relation is used to annotate the syntactical subject of the cleft construction.
 
 ~~~ sdparse
-Les vendanges commencent aujourd'hui. C' est un vigneron du coin qui me l'a dit .
+Les vendanges commencent aujourd'hui. C' est un vigneron du coin qui me l'a dit . \n Harvest starts today. It's a wine-grower who told me so.
 nsubj:expl(vigneron, C')
 acl:cleft(vigneron, dit)
 nsubj(dit, qui)
