@@ -33,4 +33,4 @@ aux(changé,a)
 
 There is another subrelation used to annotate the causative constructions: the [aux:caus]() relation.
 
-N.B.: Modals like _pouvoir_, _vouloir_ etc. are annotated with an [aux]() relation in some corpora of the French treebank but FrenchSpoken does not consider them as auxiliary verbs. 
+N.B.: Modals like _pouvoir_, _vouloir_ etc. are annotated with an `aux` relation in some corpora of the French treebank but FrenchSpoken does not consider them as auxiliary verbs. 
