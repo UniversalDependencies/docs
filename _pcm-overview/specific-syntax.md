@@ -14,6 +14,7 @@ udver: '2'
 + [Juxtaposition](#Jux)
 + [Reported Speech](#Speech)
 + [Negative construction](#Neg)
++ [Copulative particle of focalization](#Na)
 
 
 <a name="DoubleObj"></a>
@@ -513,9 +514,9 @@ Negation is marked with the particule <i>no</i> before a verb, an auxiliary or a
 
 <a name="Na"></a>
 
-### Na
+### Copulative particle of focalization
 
-+ copulative particle of focalization
+In Naija _na_ is a copulative particle of focalization (often used in [clefts](#Clefts). It is usually a cop-dependent of its head :
 
 ~~~ conllu
 # visual-style 3 2 cop	color:blue
@@ -549,9 +550,7 @@ Negation is marked with the particule <i>no</i> before a verb, an auxiliary or a
 
 ~~~
 
-- root
-
-When the complement of the copula is clausal and contains its own subject, the copula becomes the head so as to avoid having two nsubj dependents for the head of the complement.
+However, when the complement of the copula is clausal and contains its own subject, the _na_ copula becomes the head so as to avoid having two nsubj dependents for the head of the complement:
 
 ~~~ conllu
 # visual-style 0 4 root	color:blue
