@@ -77,13 +77,13 @@ nsubj(acheté,tu)
 
 To stay consistent with the analysis made for the cleft sentences, and thus to show the similarities between the two types of constructions, the head of a pseudo-cleft sentence is the element that follows the _c'est_ (or _c'était_ etc.).
 This head governs the left part of the pseudo-cleft construction with a [fr-dep/dislocated:cleft]() link. 
-However the pronoun _c'_ is not annotated with [fr-dep/nsubj:expl](). In the case of a pseudo-cleft sentence, it may be considered that _c'_ stands for dislocated complement (i.e. that _c'_ has an antecedent and is not an expletiv).
+However the pronoun _c'_ is not annotated with [fr-dep/nsubj:expl]() (like it is done for clefts). In the case of a pseudo-cleft sentence, it may be considered that _c'_ stands for dislocated complement (i.e. that _c'_ has an antecedent and is not an expletiv), this pronoun is thus annotated with the standard [fr-dep/nsubj]().
 The pronoun _ce_ is the head of the left part of the pseudo-cleft and governs the relative clause with a standard [fr-dep/acl:relcl]() link.
 
 ~~~ sdparse
 Ce que j' aime , c' est le chocolat. \n Chocolate is what I like.
 cop(chocolat.,est)
-nsubj:expl(chocolat.,c')
+nsubj(chocolat.,c')
 dislocated:cleft(chocolat.,Ce)
 acl:relcl(Ce,aime)
 ~~~
@@ -92,7 +92,7 @@ acl:relcl(Ce,aime)
 Ce qui me fait peur, c' est que tu te casses une jambe. \n What scares me is that you break your leg.
 mark(casses,que)
 cop(casses,est)
-nsubj:expl(casses,c')
+nsubj(casses,c')
 dislocated:cleft(casses,Ce)
 acl:relcl(Ce,fait)
 ~~~
