@@ -2,6 +2,7 @@
 layout: relation
 title: 'list'
 shortdef: 'list'
+udver: '2'
 ---
 
 The `list` relation is used for chains of comparable items. It is not currently attested in the French treebank.
