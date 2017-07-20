@@ -13,9 +13,9 @@ udver: '2'
 </tr>
 </table>
 
-`VerbForm` is typically a feature of verbs. 
+`VerbForm` is typically a feature of [verbs](pcm-pos/VERB). 
 
-### <a name="Fin>`Fin`</a>: finite
+### <a name="Fin">`Fin`</a>: finite
 
 
 #### Example
