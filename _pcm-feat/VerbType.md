@@ -17,10 +17,10 @@ udver: '2'
 ## <a name="Ser">`Ser`</a>: serial
 
 
-Modifying verbs appearing in serial verb constructions are marked with the lexical feature VerbType=Ser
+Modifying verbs appearing in [serial verb constructions](pcm/overview/specific-syntax#SVC) are marked with the lexical feature `VerbType=Ser`
 
 
-#### Example
+#### Examples
 
 * _because God no go give us temptation wey go <b>pass</b> our power_ "because God will not give us temptation that is above our ability"
 * _im go fall <b>throway</b>_ "It would fall off"
