@@ -5,7 +5,7 @@ shortdef: 'oblique modifier'
 udver: '2'
 ---
 
-In FrenchSpoken, the `obl:mod` relation is used for nominal adjuncts. They can be (but are not always) introduced by a preposition.
+FrenchSpoken uses  the `obl:mod` relation for nominal adjuncts. They can be (but are not always) introduced by a preposition.
 
 Here is an example from FrenchSpoken :
 
