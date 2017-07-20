@@ -16,7 +16,7 @@ udver: '2'
 
 
 
-### <a name="Neg">`Ind`</a>: negative
+### <a name="Neg">`Neg`</a>: negative
 
 In Naija, function words which are used to negate are marked with the `Polarity` feature. This typically applies to some particles and auxiliaries.
 
@@ -29,8 +29,7 @@ In Naija, function words which are used to negate are marked with the `Polarity`
 * _we <b>neva</b> send our pikin go school_ "we haven't sent our child to school"
 
 
-### <a name="Neg">`Ind`</a>: negative
-
+### <a name="Pos">`Pos`</a>: positive
 Positive polarity (affirmativeness) is rarely, encoded using overt morphology. Naija uses it to distinguish response interjections yes and no.
 
 * _dem want come every day ? <b>yes</b>_ "Do they want to come every day ? Yes"
