@@ -1,9 +1,8 @@
 ---
 layout: relation
 title: 'det:predet'
-shortdef: 'det:predet'
+shortdef: 'predeterminer'
 udver: '2'
 ---
 
-This document is a placeholder for the language-specific documentation
-for `det:predet`.
+The `det:predet` relation is used for predeterminers, i.e words that precede and modify the meaning of a determiner.
