@@ -11,8 +11,10 @@ udver: '2'
 + [Serial verb construction](#SVC)
 + [Cleft sentences](#Clefts)
 + [Dislocation](#Disl)
-+ [Negative construction](#Neg)
++ [Juxtaposition](#Jux)
 + [Reported Speech](#Speech)
++ [Negative construction](#Neg)
+
 
 <a name="DoubleObj"></a>
 
@@ -169,7 +171,6 @@ In Naija, comparatives follow the same pattern as SVCs, with the adjective actin
 
 ~~~
 
-#### Superlatives
 
 <a name="Clefts"></a>
 
@@ -337,6 +338,8 @@ In dislocated phrase, the constituent (it can be an argument or an adjunct) is f
 
 ### Paratactic constructions
 
+<a name="Jux"></a>
+
 #### Juxtaposition
 
 The clauses are juxtaposed when they are independent from one another. It is often the case in parallel constructions which are used for sequential construction in Naija. This type of construction is similar to coordinated conjuncts and therefore annotated as a special type of coordination: [parataxis:conj]().
@@ -479,7 +482,38 @@ For direct speech, the link [parataxis:obj]() is used. Direct speech can be iden
 
 ~~~
 
-### na
+
+<a name="Neg"></a>
+
+### negative construction
+
+Negation is marked with the particule <i>no</i> before a verb, an auxiliary or an adjective.
+
+~~~ conllu
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+1	Im	he	PRON	PRON	_	3	nsubj	_	_
+2	no	not	PART	PART	_	3	advmod	_	_
+3	see	see	VERB	VERB	_	0	root	_	_
+4	you	you	PRON	PRON	_	3	obj	_	_
+
+1	he	_	_	_	_	0	_	_	_
+2	not	_	_	_	_	0	_	_	_
+3	see 	_	_	_	_	0	_	_	_
+4	you	_	_	_	_	0	_	_	_
+
+1	he	_	_	_	_	0	_	_	_
+2	does	_	_	_	_	0	_	_	_
+3	not 	_	_	_	_	0	_	_	_
+4	see	_	_	_	_	0	_	_	_
+5	you	_	_	_	_	0	_	_	_
+
+~~~
+
+
+<a name="Na"></a>
+
+### Na
 
 + copulative particle of focalization
 
@@ -534,29 +568,3 @@ When the complement of the copula is clausal and contains its own subject, the c
 6	dey	be	AUX	AUX	_	4	parataxis:obj	_	_
 ~~~
 
-<a name="Neg"></a>
-
-### negative construction
-
-Negation is marked with the particule <i>no</i> before a verb, an auxiliary or an adjective.
-
-~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-1	Im	he	PRON	PRON	_	3	nsubj	_	_
-2	no	not	PART	PART	_	3	advmod	_	_
-3	see	see	VERB	VERB	_	0	root	_	_
-4	you	you	PRON	PRON	_	3	obj	_	_
-
-1	he	_	_	_	_	0	_	_	_
-2	not	_	_	_	_	0	_	_	_
-3	see 	_	_	_	_	0	_	_	_
-4	you	_	_	_	_	0	_	_	_
-
-1	he	_	_	_	_	0	_	_	_
-2	does	_	_	_	_	0	_	_	_
-3	not 	_	_	_	_	0	_	_	_
-4	see	_	_	_	_	0	_	_	_
-5	you	_	_	_	_	0	_	_	_
-
-~~~
