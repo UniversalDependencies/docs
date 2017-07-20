@@ -7,14 +7,101 @@ udver: '2'
 
 # Specific constructions
 
++ Particles
+  - [Copulative particle of focalization](#Na)
+  - [Negative construction](#Neg)
 + [Double object construction](#DoubleObj)
 + [Serial verb construction](#SVC)
 + [Cleft sentences](#Clefts)
 + [Dislocation](#Disl)
-+ [Juxtaposition](#Jux)
-+ [Reported Speech](#Speech)
-+ [Negative construction](#Neg)
-+ [Copulative particle of focalization](#Na)
++ Paratactic constructions
+  - [Juxtaposition](#Jux)
+  - [Reported Speech](#Speech)
+
+
+<a name="Na"></a>
+
+### Copulative particle of focalization
+
+In Naija _na_ is a copulative particle of focalization (often used in [clefts](#Clefts). It is usually a cop-dependent of its head :
+
+~~~ conllu
+# visual-style 3 2 cop	color:blue
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+1	but	but	CCONJ	CCONJ	_	3	cc	_	_
+2	na	na	PART	PART	_	3	cop	_	_
+3	landlord	landlord	NOUN	NOUN	_	0	root	_	_
+4	dem	PL	PART	PART	_	3	det	_	_
+5	di	the	DET	DET	_	6	det	_	_
+6	matter	matter	NOUN	NOUN	_	8	nsubj	_	_
+7	come	come	AUX	AUX	_	8	aux	_	_
+8	concern	concern	VERB	VERB	_	3	acl:cleft	_	_
+9	well	well	ADV	ADV	_	8	advmod	_	_
+10	well	well	ADV	ADV	_	9	compound:redup	_	_
+11	o	yo	PART	PART	_	10	advmod:emph	_	_
+
+1	but	_	_	_	_	0	_	_	_
+2	be	_	_	_	_	0	_	_	_
+3	landlord 	_	_	_	_	0	_	_	_
+4	PL	_	_	_	_	0	_	_	_
+5	the	_	_	_	_	0	_	_	_
+6	matter	_	_	_	_	0	_	_	_
+7	REAL	_	_	_	_	0	_	_	_	
+8	concern	_	_	_	_	0	_	_	_	
+9	well	_	_	_	_	0	_	_	_	
+10	well	_	_	_	_	0	_	_	_	
+11	yo	_	_	_	_	0	_	_	_	
+
+~~~
+
+However, when the complement of the copula is clausal and contains its own subject, the _na_ copula becomes the head so as to avoid having two nsubj dependents for the head of the complement:
+
+~~~ conllu
+# visual-style 0 4 root	color:blue
+# visual-style 0	bgColor:blue
+# visual-style 0	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+0	ROOT	_	_	_	_	0	_	_	_	
+1	poor	poor	ADJ	ADJ	_	2	amod	_	_
+2	man	man	NOUN	NOUN	_	3	nmod	_	_
+3	prayer	prayer	NOUN	NOUN	_	4	nsubj	_	_
+4	na	na	VERB	PART	_	0	root	_	_
+5	God	God	PROPN	PROPN	_	6	nsubj	_	_
+6	dey	be	AUX	AUX	_	4	parataxis:obj	_	_
+~~~
+
+<a name="Neg"></a>
+
+### negative construction
+
+Negation is marked with the particule <i>no</i> before a verb, an auxiliary or an adjective.
+
+~~~ conllu
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+1	Im	he	PRON	PRON	_	3	nsubj	_	_
+2	no	not	PART	PART	_	3	advmod	_	_
+3	see	see	VERB	VERB	_	0	root	_	_
+4	you	you	PRON	PRON	_	3	obj	_	_
+
+1	he	_	_	_	_	0	_	_	_
+2	not	_	_	_	_	0	_	_	_
+3	see 	_	_	_	_	0	_	_	_
+4	you	_	_	_	_	0	_	_	_
+
+1	he	_	_	_	_	0	_	_	_
+2	does	_	_	_	_	0	_	_	_
+3	not 	_	_	_	_	0	_	_	_
+4	see	_	_	_	_	0	_	_	_
+5	you	_	_	_	_	0	_	_	_
+
+~~~
+
+
 
 
 <a name="DoubleObj"></a>
@@ -483,87 +570,4 @@ For direct speech, the link [parataxis:obj]() is used. Direct speech can be iden
 
 ~~~
 
-
-<a name="Neg"></a>
-
-### negative construction
-
-Negation is marked with the particule <i>no</i> before a verb, an auxiliary or an adjective.
-
-~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-1	Im	he	PRON	PRON	_	3	nsubj	_	_
-2	no	not	PART	PART	_	3	advmod	_	_
-3	see	see	VERB	VERB	_	0	root	_	_
-4	you	you	PRON	PRON	_	3	obj	_	_
-
-1	he	_	_	_	_	0	_	_	_
-2	not	_	_	_	_	0	_	_	_
-3	see 	_	_	_	_	0	_	_	_
-4	you	_	_	_	_	0	_	_	_
-
-1	he	_	_	_	_	0	_	_	_
-2	does	_	_	_	_	0	_	_	_
-3	not 	_	_	_	_	0	_	_	_
-4	see	_	_	_	_	0	_	_	_
-5	you	_	_	_	_	0	_	_	_
-
-~~~
-
-
-<a name="Na"></a>
-
-### Copulative particle of focalization
-
-In Naija _na_ is a copulative particle of focalization (often used in [clefts](#Clefts). It is usually a cop-dependent of its head :
-
-~~~ conllu
-# visual-style 3 2 cop	color:blue
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-1	but	but	CCONJ	CCONJ	_	3	cc	_	_
-2	na	na	PART	PART	_	3	cop	_	_
-3	landlord	landlord	NOUN	NOUN	_	0	root	_	_
-4	dem	PL	PART	PART	_	3	det	_	_
-5	di	the	DET	DET	_	6	det	_	_
-6	matter	matter	NOUN	NOUN	_	8	nsubj	_	_
-7	come	come	AUX	AUX	_	8	aux	_	_
-8	concern	concern	VERB	VERB	_	3	acl:cleft	_	_
-9	well	well	ADV	ADV	_	8	advmod	_	_
-10	well	well	ADV	ADV	_	9	compound:redup	_	_
-11	o	yo	PART	PART	_	10	advmod:emph	_	_
-
-1	but	_	_	_	_	0	_	_	_
-2	be	_	_	_	_	0	_	_	_
-3	landlord 	_	_	_	_	0	_	_	_
-4	PL	_	_	_	_	0	_	_	_
-5	the	_	_	_	_	0	_	_	_
-6	matter	_	_	_	_	0	_	_	_
-7	REAL	_	_	_	_	0	_	_	_	
-8	concern	_	_	_	_	0	_	_	_	
-9	well	_	_	_	_	0	_	_	_	
-10	well	_	_	_	_	0	_	_	_	
-11	yo	_	_	_	_	0	_	_	_	
-
-~~~
-
-However, when the complement of the copula is clausal and contains its own subject, the _na_ copula becomes the head so as to avoid having two nsubj dependents for the head of the complement:
-
-~~~ conllu
-# visual-style 0 4 root	color:blue
-# visual-style 0	bgColor:blue
-# visual-style 0	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-0	ROOT	_	_	_	_	0	_	_	_	
-1	poor	poor	ADJ	ADJ	_	2	amod	_	_
-2	man	man	NOUN	NOUN	_	3	nmod	_	_
-3	prayer	prayer	NOUN	NOUN	_	4	nsubj	_	_
-4	na	na	VERB	PART	_	0	root	_	_
-5	God	God	PROPN	PROPN	_	6	nsubj	_	_
-6	dey	be	AUX	AUX	_	4	parataxis:obj	_	_
-~~~
 
