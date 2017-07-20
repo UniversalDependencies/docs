@@ -15,7 +15,7 @@ The `cc` relation is used for coordinating conjunctions, i.e conjunctions which 
 # visual-style 6	fgColor:white
 1	im	he	PRON	PRON	_	3	nsubj	_	_
 2	just	just	ADV	ADV	_	3	advmod	_	_
-3	be	be	PART	PART	_	0	root	_	_
+3	be	be	VERB	VERB	_	0	root	_	_
 4	like	like	ADP	ADP	_	5	case	_	_
 5	ororo	ororo	NOUN	NOUN	_	3	obj	_	_
 6	and	and	CCONJ	CCONJ	_	7	cc	_	_
