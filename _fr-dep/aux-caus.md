@@ -10,7 +10,7 @@ The syntactical subject of the sentence (i.e. the causer) receives a [nsubj:caus
 The initial agent of the action described by the sentence is demoted and will either be anotated with an [iobj:agent](), an [obj:agent]() or an [obl:agent]() relation.
 
 ~~~ sdparse
-Marie a fait asseoir Pierre. \n Marie made Pierre sit.
+Marie a fait asseoir Pierre . \n Marie made Pierre sit.
 aux:caus(asseoir,fait)
 nsubj:caus(asseoir,Marie)
 obj:agent(asseoir-4,Pierre-5)
