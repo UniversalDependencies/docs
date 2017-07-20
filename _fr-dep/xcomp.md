@@ -33,3 +33,5 @@ xcomp(aimerais, enseigner)
 on pourrait imaginer des mélanges \n we could imagine some mixes
 xcomp(pourrait, imaginer)
 ~~~
+
+N.B.: For causative constructions (_Marie fait repeindre les murs à Jean-Pierre._ etc.) see the [specific syntax](http://universaldependencies.org/fr/overview/specific-syntax.html) page.
