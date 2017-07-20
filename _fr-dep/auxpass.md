@@ -22,4 +22,4 @@ auxpass(assassiné, été)
 aux(assassiné, a)
 ~~~
 
-Currently FrenchSpoken doesn't use the `auxpass` relation. 
+Currently FrenchSpoken does not use the `auxpass` relation. 
