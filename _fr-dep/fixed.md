@@ -21,7 +21,13 @@ mark(censé,alors)
 ~~~ 
 
 Instead of using the `fixed` relation, FrenchSpoken syntactically analyzes as many expressions as possible (i.e. the `fixed` relation is only used for syntactically irregular constructions).
-For instance, _il y a_ corresponds to two frozen expressions: a particular marker of clefting (_il y a trois libres sur la table_) and an adposition (_Paul est arrivé il y a trois jours_). The first is syntactically regular and is the analyzed with regular relations. The second is syntactically deviant and is analyzed with _fixed_:
+For instance, _il y a_ corresponds to two frozen expressions: a particular marker of clefting (_il y a trois libres sur la table_) and an adposition (_Paul est arrivé il y a trois jours_). The first is syntactically regular and is analyzed with regular relations. The second is syntactically deviant and is analyzed with _fixed_:
+
+~~~ sdparse
+Il y a trois livres sur la table. \n There are three books on the table.
+nsubj:expl(a, Il)
+advmod(a, y)
+~~~
 
 ~~~ sdparse
 Paul est arrivé il y a trois jours . \n Paul arrived three days ago.
@@ -30,10 +36,4 @@ fixed(il, a)
 case(jours, il)
 ~~~
 
-~~~ sdparse
-Il y a trois livres sur la table. \n There are three books on the table.
-nsubj:expl(a, Il)
-advmod(a, y)
-~~~
-
-Complex determiners and complex prepositions, which are currently often analyzed with a `fixed` relation in some French treebanks, are respectively analyzed with the [det:comlex]() and [case:complex]() relations by FrenchSpoken.
+Complex determiners and complex prepositions, which are currently often analyzed with a `fixed` relation in some corpora of the French treebank, are respectively analyzed with the [det:comlex]() and [case:complex]() relations by FrenchSpoken.
