@@ -21,7 +21,7 @@ In Naija, `Tense` is a feature of [auxiliaries](pcm-pos/AUX) and [verbs](pcm-pos
 There are three values for this feature :
 
 + Past : past
-+ Pres : present (?)
++ Pres : present
 + Prosp : prospective
 
 
