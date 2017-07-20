@@ -62,6 +62,12 @@ Sam spent everything he had
 acl:relcl(everything, had)
 ~~~
 
+~~~ sdparse
+Sam spent everything that he had
+acl:relcl(everything, had)
+obj(had, that)
+~~~
+
 ## Function Word Dependents
 
 Nominals may also contain the following typical function word dependents:
