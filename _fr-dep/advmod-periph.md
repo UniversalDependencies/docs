@@ -10,11 +10,11 @@ Peripheral adverbial modifiers (like all peripheral elements) cannot be moved in
 Other adverbial modifiers are annotated with the [advmod]() relation.
 
 ~~~ sdparse
-Franchement, tu aurais pu faire un effort. \n Honestly, you could have made an effort.
-advmod:periph(faire, franchement)
+Franchement , tu aurais pu faire un effort. \n Honestly, you could have made an effort.
+advmod:periph(faire, Franchement)
 ~~~
 
 ~~~ sdparse
 Apparemment James a déjà vendu sa voiture. \n Apparently James has already sold his car.
-advmod:periph(vendu, apparamment)
+advmod:periph(vendu, Apparamment)
 ~~~ 
