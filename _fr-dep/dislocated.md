@@ -17,7 +17,7 @@ dislocated(aime, Pierre)
 dobj(aime, l')
 ~~~
 
-In FrenchSpoken we also use the `dislocated` relation. Here are some examples from FrenchSpoken.
+Here are some examples from FrenchSpoken:
 
 ~~~ sdparse
 lui il avait passé les quatres nuits ou trois nuits à ramper dans les décombres \n He had spent the four nights or three nights crawling in the rubble 
