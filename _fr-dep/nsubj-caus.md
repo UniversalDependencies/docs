@@ -5,7 +5,7 @@ shortdef: 'causative nominal subject'
 udver: '2'
 ---
 
-In a causative construction, the `nsubj:caus` relation links the infinitive verb (i.e. the head of the sentence) to the syntactical subject of the sentence.
+In a causative construction, the `nsubj:caus` relation links the infinitive verb (i.e. the head of the sentence) to the syntactical subject of the sentence (i.e. the causer).
 The infinitive verb governs the causative verb with an [aux:caus]() relation.
 The true agent of the action described by the sentence is annotated with an [iobj:agent](), an [obj:agent]() or an [obl:agent]() relation.
 
