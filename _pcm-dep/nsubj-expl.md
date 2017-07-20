@@ -5,7 +5,7 @@ shortdef: 'expletive subject'
 udver: '2'
 ---
 
-In Naija we do not to use the expl relation. Instead we use the `nsubj:expl` subrelation for impersonal constructions:
+The `expl` relation is not used in Naija. Instead, we use the `nsubj:expl` subrelation for impersonal constructions:
 
 
 ~~~ conllu
