@@ -13,4 +13,4 @@ Qu'il avait triché était cru par tout le monde . \n That he cheated was believ
 csubjpass(cru, triché)
 ~~~
 
-Currently FrenchSpoken doesn't use the `csubjpass` relation.
+Currently FrenchSpoken does not use the `csubjpass` relation.
