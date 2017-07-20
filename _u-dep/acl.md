@@ -16,6 +16,21 @@ the issues as he sees them
 acl(issues, sees)
 ~~~
 
+~~~sdparse
+There are many online sites offering booking facilities .
+acl(sites, offering)
+~~~
+
+~~~sdparse
+I have a parakeet named cookie .
+acl(parakeet, named)
+~~~
+
+~~~sdparse
+I just want a simple way to get my discount .
+acl(way, get)
+~~~
+
 ~~~ sdparse
 Cette affaire à suivre \n This case to follow 
 acl(affaire, suivre)
@@ -34,11 +49,11 @@ acl(model, naked)
 ~~~
 
 A relative clause is an instance of `acl`, characterized by finiteness and usually omission of 
-the modified noun in the embedded clause. Some languages use a language-particular subtype for the traditional class of relative clauses.
+the modified noun in the embedded clause. Some languages use a language-particular subtype `acl:relcl` for the traditional class of relative clauses.
 
 ~~~ sdparse
 I saw the man you love
-acl(man, love)
+acl:relcl(man, love)
 ~~~
 
 Some languages allow finite clausal complements for nouns with 
