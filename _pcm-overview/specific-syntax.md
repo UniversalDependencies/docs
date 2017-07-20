@@ -13,7 +13,7 @@ udver: '2'
 + [Double object construction](#DoubleObj)
 + [Serial verb construction](#SVC)
 + [Cleft sentences](#Clefts)
-+ [Dislocation](#Disl)
++ [Dislocations](#Disl)
 + Paratactic constructions
   - [Juxtaposition](#Jux)
   - [Reported Speech](#Speech)
@@ -76,7 +76,7 @@ However, when the complement of the copula is clausal and contains its own subje
 
 <a name="Neg"></a>
 
-### negative construction
+### Negative construction
 
 Negation is marked with the particule <i>no</i> before a verb, an auxiliary or an adjective.
 
