@@ -12,14 +12,6 @@ Il m' envoie une lettre . \n He sends me a letter .
 iobj(envoie, m')
 ~~~
 
-In some French treebanks, when the indirect object is realized with a preposition, it gets analyzed with the [obl]() relation:
-
-~~~ sdparse
-Il envoie la lettre à la présidente . \n He sends the letter to the president .
-obl(envoie, présidente)
-case(présidente, à)
-~~~
-
 The `iobj`relation is also used for pronouns in prononimal verbs which are indirect objects:
 
 ~~~ sdparse
@@ -34,7 +26,15 @@ Nous vous conseillons ce charmant petit restaurant. \n We recommend you this lov
 iobj(conseillons, vous)
 ~~~
 
-However when the indirect object is realized with a preposition, it is not annoted with a simple [obl]() relation but with an [obl:comp]() relation instead:
+In some corpora of the French treebank, when the indirect object is realized with a preposition, it gets analyzed with the [obl]() relation:
+
+~~~ sdparse
+Il envoie la lettre à la présidente . \n He sends the letter to the president .
+obl(envoie, présidente)
+case(présidente, à)
+~~~
+
+However FrenchSpoken does not and uses an [obl:comp]() relation instead:
 
 ~~~ sdparse
 Il envoie la lettre à la présidente . \n He sends the letter to the president .
