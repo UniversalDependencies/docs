@@ -18,11 +18,7 @@ borrowed from Lexical-Functional Grammar.
 ~~~ sdparse
 He says that you like to swim
 ccomp(says, like)
-mark(like, that)
-xcomp(like, swim)
-mark(swim, to)
 ~~~
-
 
 ~~~ sdparse
 Sue asked George to respond to her offer
