@@ -262,16 +262,16 @@ In Naija, comparatives follow the same pattern as SVCs, with the adjective actin
 11	sharp	sharp	ADJ	ADJ	_	3	acl:cleft	_	_
 12	pass	pass	VERB	VERB	_	11	compound:svc	_	_
 
-1	na	_	_	_	_	0	_	_	_
+1	be	_	_	_	_	0	_	_	_
 2	the	_	_	_	_	0	_	_	_
 3	time 	_	_	_	_	0	_	_	_
 4	where	_	_	_	_	0	_	_	_
 5	they	_	_	_	_	0	_	_	_
 6	drink	_	_	_	_	0	_	_	_
-7	na	_	_	_	_	0	_	_	_
+7	be	_	_	_	_	0	_	_	_
 8	he	_	_	_	_	0	_	_	_
 9	they	_	_	_	_	0	_	_	_
-10	be	_	_	_	_	0	_	_	_
+10	CONT	_	_	_	_	0	_	_	_
 11	sharp	_	_	_	_	0	_	_	_
 12	pass	_	_	_	_	0	_	_	_
 
@@ -313,7 +313,7 @@ In Naija, two links are used for cleft sentences :
 5	no	not	PART	PART	_	6	advmod	_	_
 6	good	good	ADJ	ADJ	_	2	ccomp:cleft	_	_
 
-1	na	_	_	_	_	0	_	_	_
+1	be	_	_	_	_	0	_	_	_
 2	why	_	_	_	_	0	_	_	_
 3	drink 	_	_	_	_	0	_	_	_
 4	drive	_	_	_	_	0	_	_	_
@@ -345,7 +345,7 @@ In Naija, two links are used for cleft sentences :
 4	be	be	VERB	VERB	_	3	acl:cleft	_	_
 5	dat	that	PRON	PRON	_	4	nsubj	_	_
 
-1	na	_	_	_	_	0	_	_	_
+1	be	_	_	_	_	0	_	_	_
 2	our	_	_	_	_	0	_	_	_
 3	right 	_	_	_	_	0	_	_	_
 4	be	_	_	_	_	0	_	_	_
@@ -437,7 +437,7 @@ In dislocated phrase, the constituent (it can be an argument or an adjunct) is f
 9	they	_	_	_	_	0	_	_	_
 10	will	_	_	_	_	0	_	_	_
 11	fold	_	_	_	_	0	_	_	_
-12	he	_	_	_	_	0	_	_	_
+12	it	_	_	_	_	0	_	_	_
 
 1	Tires	_	_	_	_	0	_	_	_
 2	that	_	_	_	_	0	_	_	_
@@ -485,7 +485,7 @@ The clauses are juxtaposed when they are independent from one another. It is oft
 12	floor	floor	NOUN	NOUN	_	11	obj	_	_
 
 1	you	_	_	_	_	0	_	_	_
-2	will	_	_	_	_	0	_	_	_
+2	PROSP	_	_	_	_	0	_	_	_
 3	wash 	_	_	_	_	0	_	_	_
 4	plate	_	_	_	_	0	_	_	_
 5	you	_	_	_	_	0	_	_	_
@@ -493,7 +493,7 @@ The clauses are juxtaposed when they are independent from one another. It is oft
 7	do	_	_	_	_	0	_	_	_
 8	everything	_	_	_	_	0	_	_	_
 9	you	_	_	_	_	0	_	_	_
-10	go	_	_	_	_	0	_	_	_
+10	PROSP	_	_	_	_	0	_	_	_
 11	sweep	_	_	_	_	0	_	_	_
 12	floor	_	_	_	_	0	_	_	_
 
@@ -543,9 +543,9 @@ In naija, indirect speech are often introduced by the subordinate conjunction "s
 1	they	_	_	_	_	0	_	_	_
 2	just	_	_	_	_	0	_	_	_
 3	tell 	_	_	_	_	0	_	_	_
-4	he	_	_	_	_	0	_	_	_
+4	him	_	_	_	_	0	_	_	_
 5	that	_	_	_	_	0	_	_	_
-6	he	_	_	_	_	0	_	_	_
+6	his	_	_	_	_	0	_	_	_
 7	daughter	_	_	_	_	0	_	_	_
 8	fall	_	_	_	_	0	_	_	_
 
