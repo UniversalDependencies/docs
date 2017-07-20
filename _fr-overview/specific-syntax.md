@@ -132,7 +132,7 @@ N.B.: For more details about the analysis of causatives, see [this discussion](h
 
 Superlative constructions, _le/la/les plus ADJ_, are annotated as follows:
 The head of the construction is the noun. It governs the adjective with the usual [fr-dep/amod]() link and the determiner with a [fr-dep/det]() link. The _plus_ is annotated with an [fr-dep/advmod]() and is a dependant of the adjective.
-The noun modifier introduced by the preposition _de_ is attached to the noun, even though it seems to be a dependant more of the superlative constrcution than of the noun.
+The noun modifier introduced by the preposition _de_ is attached to the noun even though the noun modifier seems more attached to the superlative: _la plus haute tour du château_ can easily become _la tour la plus haute du château_.
 
 ~~~ sdparse
 Dans ce rayon se trouvent les plus beaux livres de la bibliothèque. \n On this shelf one can find the most beautiful books in the whole library.
@@ -156,11 +156,10 @@ det(les-7,réputés._9)
 When the superlative is in a [fr-dep/cop]() relation (and the noun is not present in the superlative construction), the head of the superlative construction is the adjective:
 
 ~~~ sdparse
-Ces maisons sont les plus vieilles. \n These houses are the oldest.
-advmod(vieilles,plus)
-det(vieilles,les)
-cop(vieilles,sont)
-nsubj(vieilles,maisons)
+Ces produits sont les plus vendus. \n These products are best-sellers
+det(vendus.,les)
+cop(vendus.,sont)
+nsubj(vvendus.,produits)
 ~~~
 
 ### Comparatives
