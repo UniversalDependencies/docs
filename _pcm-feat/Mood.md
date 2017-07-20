@@ -25,13 +25,14 @@ The `Ind` and `Imp` values are only carried by instances of verbs following the 
 #### Example
 
 
+* _you <b>say</b> grandma need push_ "You said grandma needs to be pushed"
 
 ### <a name="Imp">`Imp`</a>: imperative
 
 
 #### Example
 
-
+* _you want test me ? <b>give</b> me sample_ "You want to test me ? Give me a sample"
 
 ### <a name="Jus">`Jus`</a>: jussive
 
