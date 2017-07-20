@@ -5,7 +5,7 @@ shortdef: 'agentive oblique'
 udver: '2'
 ---
 
-In a causative construction, the `obl:agent` relation attaches the infinitive verb to his agent, when the latter is the syntactical oblique of the sentence.
+In a causative construction, the `obl:agent` relation attaches the infinitive verb to his agent, when the latter is the syntactical oblique of the sentence (this initial agent has been demoted and became the oblique complement of the causative construction).
 I.e a complement introduced by a preposition (see the page about the [obl]() relation).
 
 ~~~ sdparse
@@ -22,6 +22,6 @@ nsubj:caus(toiletter,Monique)
 obl:agent(toiletter,toiletteur)
 ~~~
 
-The infinitive verb governs the syntactical subject of the sentence with a [nsubj:caus]() relation and the causative verb with an [aux:caus]() relation.
+The infinitive verb governs the syntactical subject of the sentence (i.e. the causer) with a [nsubj:caus]() relation and the causative verb with an [aux:caus]() relation.
 
 N.B.: For more details about the analysis of causatives see [this page](http://universaldependencies.org/fr/overview/specific-syntax.html#causative).
