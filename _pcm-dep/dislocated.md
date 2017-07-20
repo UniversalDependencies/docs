@@ -5,7 +5,7 @@ shortdef: 'dislocated elements'
 udver: '2'
 ---
 
-The `dislocated` relation is used between a dislocated clause or phrase and its head. A constituent (argument or adjunct) is dislocated when it is found outside the boundaries of the clause it belongs to.
+The `dislocated` relation is used between a dislocated phrase and its head. A constituent (argument or adjunct) is dislocated when it is found outside the boundaries of the clause it belongs to.
 
 ~~~ conllu
 # visual-style 5 2 dislocated	color:blue
@@ -97,3 +97,5 @@ The dislocated constituent is replicated by the _am_ pronoun. The pronominalized
 20	by	_	_	_	_	0	_	_	_
 21	overspeeding	_	_	_	_	0	_	_	_	
 ~~~
+
+Note that in Naija the [parataxis:dislocated]() relation was introduced for pre-nucleus clauses that function like dislocations.  
