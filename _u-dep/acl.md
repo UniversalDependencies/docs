@@ -16,17 +16,17 @@ the issues as he sees them
 acl(issues, sees)
 ~~~
 
-~~~sdparse
+~~~ sdparse
 There are many online sites offering booking facilities .
 acl(sites, offering)
 ~~~
 
-~~~sdparse
+~~~ sdparse
 I have a parakeet named cookie .
 acl(parakeet, named)
 ~~~
 
-~~~sdparse
+~~~ sdparse
 I just want a simple way to get my discount .
 acl(way, get)
 ~~~
