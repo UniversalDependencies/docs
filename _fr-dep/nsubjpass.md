@@ -13,4 +13,4 @@ La course a été gagnée par le plus jeune participant . \n The race got won by
 nsubjpass(gagnée, participant)
 ~~~
 
-Currently FrenchSpoken doesn't use the `nsubjpass` relation.
+Currently FrenchSpoken does not use the `nsubjpass` relation.
