@@ -23,7 +23,7 @@ udver: '2'
 
 ### Copulative particle of focalization
 
-In Naija _na_ is a copulative particle of focalization (often used in [clefts](#Clefts). It is usually a cop-dependent of its head :
+In Naija _na_ is a copulative particle of focalization (often used in [clefts](#Clefts)). It is usually a cop-dependent of its head :
 
 ~~~ conllu
 # visual-style 3 2 cop	color:blue
