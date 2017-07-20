@@ -17,7 +17,7 @@ nsubj(dit, qui)
 
 ~~~ sdparse
 Il y a Marie qui danse dans la pièce. \n Marie dances in the room.
-nsubj:expl(a,Il)
+nsubj(a,Il)
 advmod(a,y)
 obj(a,Marie)
 acl:cleft(Marie,danse)
