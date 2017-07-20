@@ -16,8 +16,6 @@ amod(homme, honnête)
 det(homme, un)
 ~~~
 
-In the some corpora of the current French treebank, the following verbs are treated as copular ones: _être_, _devenir_, _rester_, _demeurer_, as well as in some constructions _appeler_, _intituler_, _nommer_, _réputer_, _élir_
-
 The `cop` relation can be found in FrenchSpoken:
 
 ~~~ sdparse
@@ -26,7 +24,8 @@ cop(fill,est)
 nsubj(fille,c')
 ~~~ 
 
-However note that the not all corpora of the French treebank treat the same verbs as copulas. For example, FrenchSpoken annotates _devenir_ like a regular verb.
+In some corpora of the current French treebank, the following verbs are treated as copular ones: _être_, _devenir_, _rester_, _demeurer_, as well as in some constructions _appeler_, _intituler_, _nommer_, _réputer_, _élir_
+However note that not all corpora of the French treebank treat the same verbs as copulas. For example, FrenchSpoken annotates _devenir_ like a regular verb.
 
 ~~~ sdparse
 il devient le sherpa du président \n he becomes the president's sherpa
