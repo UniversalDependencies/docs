@@ -20,7 +20,7 @@ The `cop` relation can be found in FrenchSpoken:
 
 ~~~ sdparse
 c' est une jeune fille pauvre \n it's a poor girl
-cop(fill,est)
+cop(fille,est)
 nsubj(fille,c')
 ~~~ 
 
