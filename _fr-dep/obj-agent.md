@@ -5,7 +5,7 @@ shortdef: 'agentive object'
 udver: '2'
 ---
 
-In a causative construction, the `obj:agent` relation attaches the infinitive verb to his agent, when the latter is the syntactical object of the sentence.
+In a causative construction, the `obj:agent` relation attaches the infinitive verb to his agent, when the latter is the syntactical object of the sentence (this initial agent has been demoted and becomes the object of the causative contruction).
 For example, in the following sentence, "ses petits" is the tue agent of the verb "sauter" (_Ses petits ont sauté dans la mare_). 
 This nominal phrase can be pronominalized as follows: _La cane les a fait sauter dans la mare._ The use of the pronoun _les_ clearly shows that "ses petits" is the syntactical object of the sentence.
 
@@ -17,12 +17,12 @@ obj:agent(sauter,petits)
 ~~~ 
 
 ~~~ sdparse
-Mon père a une femme de ménage. Il la fait venir le mercredi. \n My father has cleaning lady. He makes her come on wednesdays.
+Mon père a une femme de ménage. Il la fait venir le mercredi. \n My father has a cleaning lady. He makes her come on wednesdays.
 aux:caus(venir,fait)
 nsubj:caus(venir,Il)
 obj:agent(venir,la)
 ~~~
 
-The infinitive verb governs the syntactical subject of the sentence with a [nsubj:caus]() relation and the causative verb with an [aux:caus]() relation.
+The infinitive verb governs the syntactical subject of the sentence (i.e. the causer) with a [nsubj:caus]() relation and the causative verb with an [aux:caus]() relation.
 
 N.B.: For more details about the analysis of causatives see [this page](http://universaldependencies.org/fr/overview/specific-syntax.html#causative).
