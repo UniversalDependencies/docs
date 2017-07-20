@@ -24,7 +24,19 @@ Il faut arriver tôt pour avoir de la place \n One needs to get there early to h
 mark(avoir, pour)
 ~~~
 
-Note that in the phrase _dès que_, _que_ is considered as a marker by FrenchSpoken (and not analyzed with [fixed]() as it may be done in other French treebanks). _dès_ is thus analyzed as a preposition, dependent of the finite verb of the clause. The fact that the clause following the _dès_ can commute with a simple nominal phrase justifies this analysis. For instance, in the following example, _que son mari est arrivé_ (in _dès que son marie est arrivé_) can commute with _son arrivée_ (_dès son arrivée_).
+Here are some examples from FrenchSpoken:
+
+~~~ sdparse
+il faudra que les parents l' acceptent \n the parents will have to accept it
+mark(acceptent,que)
+~~~
+
+~~~ sdparse
+on n' arrive plus à maintenir des clientèles \n we can't manage to keep the customers anymore
+mark(maintenir,à)
+~~~
+
+Note that in the phrase _dès que_, _que_ is considered as a marker by FrenchSpoken (and not analyzed with [fixed]() as it may be done in other corpora of the French treebank). _dès_ is thus analyzed as a preposition, dependent of the finite verb of the clause. The fact that the clause following the _dès_ can commute with a simple nominal phrase justifies this analysis. For instance, in the following example, _que son mari est arrivé_ (in _dès que son marie est arrivé_) can commute with _son arrivée_ (_dès son arrivée_).
 
 ~~~ sdparse
 Muriel a quitté la pièce dès que son mari est arrivé. \n Muriel left the room as soon as her husband arrived.
