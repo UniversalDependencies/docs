@@ -19,7 +19,7 @@ The `det:predet` relation is used for predeterminers, i.e words that precede and
 4	interested	interested	ADJ	ADJ	_	3	obj	_	_
 5	in	in	ADP	ADP	_	8	case	_	_
 6	all	all	ADV	ADV	_	7	det:predet	_	_
-7	dose	those	DET	DET	_	6	det	_	_
+7	dose	those	DET	DET	_	8	det	_	_
 8	wahala	trouble	NOUN	NOUN	_	4	obl:comp	_	_
 9	wey	where	SCONJ	SCONJ	_	12	mark	_	_
 10	you	you	PRON	PRON	_	12	nsubj	_	_
