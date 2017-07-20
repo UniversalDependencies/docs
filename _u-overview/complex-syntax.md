@@ -167,6 +167,14 @@ mark(like, that)
 ~~~
 
 ~~~ sdparse
+He says that you like to swim
+ccomp(says, like)
+mark(like, that)
+xcomp(like, swim)
+mark(swim, to)
+~~~
+
+~~~ sdparse
 He says you like to swim
 ccomp(says, like)
 ~~~
