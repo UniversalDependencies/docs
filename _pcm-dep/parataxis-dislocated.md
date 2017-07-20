@@ -5,7 +5,7 @@ shortdef: 'parataxis:dislocated'
 udver: '2'
 ---
 
-The `parataxis:dislocated` relation is used for pre-nucleus clauses that function like dislocations.
+The `parataxis:dislocated` relation is used for pre-nucleus clauses that function like [dislocations](dislocated).
 They cannot be considered as illocutary units since they are not autonomous.
 
 ~~~ conllu
