@@ -40,6 +40,7 @@ The present tense is used to situate the process in present time.
 #### Example
 
 
+* _dat <b>means</b> you be student_ "That means you are a student"
 
 ### <a name="Prosp">`Prosp`</a>: prospective
 
