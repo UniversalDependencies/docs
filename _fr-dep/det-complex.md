@@ -11,7 +11,7 @@ Like complex prepositions (see the [case:complex]() relation), complex determine
 Here are come examples of complex determiners that follow the pattern "Adv+de+N" like _trop de chocolat_, _beaucoup de fraises_, _énormément d'étoiles_ etc. 
 
 ~~~ sdparse
-Pierre a mangé trop de chocolat. \n Pierre ate too much chocolate.
+Pierre a mangé trop de chocolat . \n Pierre ate too much chocolate.
 det:complex(chocolat,trop)
 case(chocolat,de)
 ~~~
