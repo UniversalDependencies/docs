@@ -1,7 +1,7 @@
 ---
 layout: relation
 title: 'case:complex'
-shortdef: 'complex case'
+shortdef: 'complex case marker'
 udver: '2'
 ---
 
@@ -27,7 +27,7 @@ case(côté,à)
 
 ~~~ sdparse
 Contrairement à toi et à ton frère, Patrick a fait des efforts pour être plus poli. \n Contrary to you and your brother, Patrick made some efforts to be more polite.
-case:complex(toi,contrairement)
+case:complex(toi,Contrairement)
 case(toi-3,à-2)
 case(frère-7,à-5)
 conj:coord(toi,frère)
