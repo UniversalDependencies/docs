@@ -29,3 +29,5 @@ un rassemblement devant le ministère de l' enseignement supérieur \n a gatheri
 case(ministère, devant)
 case(enseignement, de)
 ~~~ 
+
+For complex prepositions, FrenchSpoken uses the [case:complex]() relation.
