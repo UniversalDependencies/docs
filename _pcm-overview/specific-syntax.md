@@ -405,7 +405,7 @@ Sometimes however, they are not marked as in the example below :
 
 ### Dislocations
 
-In dislocated phrase, the constituent (it can be an argument or an adjunct) is found outside of the boundaries of the clause it belongs to. This is marked prosodically. This type of construction is annoted with the link [dislocated]().
+Dislocated constituents (it can be an argument or an adjunct) are found outside of the boundaries of the clause they belong to. This is marked prosodically. This type of construction is annoted with the link [dislocated]().
 
 ~~~ conllu
 # visual-style 11 1 dislocated	color:blue
@@ -521,7 +521,7 @@ The clauses are juxtaposed when they are independent from one another. It is oft
 
 - indirect speech 
 
-In naija, indirect speech are often introduced by the subordinate conjunction "sey" and the link [ccomp]() is used.
+In naija, indirect speech is often introduced by the subordinate conjunction "sey" and the link [ccomp]() is used.
 
 ~~~ conllu
 # visual-style 3 8 ccomp	color:blue
