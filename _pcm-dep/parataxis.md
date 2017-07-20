@@ -7,7 +7,7 @@ udver: '2'
 
 Naija does not uses `parataxis` as such, but splits it into six subrelations:
 
-+ [parataxis:conj]() : for juxtaposed clauses
++ [parataxis:conj]() : juxtaposed clauses
 
 ~~~ conllu
 # visual-style 3 9 parataxis:conj	color:blue
@@ -134,8 +134,8 @@ Naija does not uses `parataxis` as such, but splits it into six subrelations:
 
 ~~~
 
-+ [parataxis:insert]() : for inserts
-+ [parataxis:obj]() : for direct speech
++ [parataxis:insert]() :  inserts
++ [parataxis:obj]() :  direct speech
 
 ~~~ conllu
 # visual-style 2 6 parataxis:obj	color:blue
@@ -173,7 +173,7 @@ Naija does not uses `parataxis` as such, but splits it into six subrelations:
 
 ~~~
 
-+ [parataxis:parenth]() : for parentheticals
++ [parataxis:parenth]() : parentheticals
 
 ~~~ conllu
 # visual-style 3 6 parataxis:parenth	color:blue
