@@ -5,8 +5,8 @@ shortdef: 'complex case'
 udver: '2'
 ---
 
-The `case:complex` relation is used to analyze complex prepositions. In some French treebanks these prepositions are analyzed with a [fixed]() relation. 
-However FrenchSpoken does not consider them as fixed but intead as regular constructions. Like complex determiners (see the [det:complex]() relation), complex prepositions can be coordinated. 
+The `case:complex` relation is used to analyze complex prepositions. In some corpora of the French treebank these prepositions are analyzed with a [fixed]() relation. 
+However FrenchSpoken does not consider them as fixed but intead as regular constructions since like complex determiners (see the [det:complex]() relation), complex prepositions can be coordinated. 
 Moreover in complex prepositions containing a _de_, the contraction of the _de_ remains possible:
 _contrairement à toi et à ta mère_, _à côté du garage et de la maison_ etc.
 
