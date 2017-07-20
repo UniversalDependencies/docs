@@ -5,7 +5,7 @@ shortdef: 'expletive nominal subject'
 udver: '2'
 ---
 
-In FrenchSpoken we decided not to use the [expl]() relation. Instead we only use a subrelation for impersonal constructions:
+FrenchSpoken does not use the [expl]() relation. Instead there is subrelation used only for impersonal constructions:
 
 ~~~ sdparse
 il est arrivé un malheur \n something bad happened
@@ -19,8 +19,7 @@ nsubj:expl(faudra, il)
 csubj:quasi(faudra, acheter)
 ~~~
 
-N.B.: we decided to use the [nsubj:quasi]() relation to annotate the other dependent of the predicate when it is a nominal and the [csubj:quasi]() when it is a clause.
-
+N.B.: The [nsubj:quasi]() relation is used for the other dependent of the predicate when it is a nominal and the [csubj:quasi]() when it is a clause.
 
 `nsubj:expl` also enables us to differenciate between cleft and presentative constructions, in the case where they both use  _c'est_ (or _c'était_, _ce sont_ etc.):
 
