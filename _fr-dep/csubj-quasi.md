@@ -5,7 +5,7 @@ shortdef: 'quasi clausal subject'
 udver: '2'
 ---
 
-In FrenchSpoken we don't use the usual [expl]() relation and have instead decided to use only a subrelation for impersonal construction: [nsubj:expl]().
+FrenchSpoken does not use the usual [expl]() relation. There is instead a subrelation used only for impersonal construction: [nsubj:expl]().
 To annotate the other dependent of the predicate (i.e. not the dependent annotated with the `nsubj:expl` relation) we use the `csubj:quasi` relation, when this other dependent is a clause.
 When the other dependent is a nominal, we use the [nsubj:quasi]() relation.
 
