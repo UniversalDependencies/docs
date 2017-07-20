@@ -20,3 +20,5 @@ remnant(Marie-1, Miriam-7)
 case(Prague-9, à-8)
 remnant(Paris-5, Prague-9)
 ~~~
+
+Currently the `orphan` relation is not used in FrenchSpoken.
