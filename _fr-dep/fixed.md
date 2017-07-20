@@ -36,4 +36,4 @@ fixed(il, a)
 case(jours, il)
 ~~~
 
-Complex determiners and complex prepositions, which are currently often analyzed with a `fixed` relation in some corpora of the French treebank, are respectively analyzed with the [det:comlex]() and [case:complex]() relations by FrenchSpoken.
+Complex determiners and complex prepositions, which are currently often analyzed with a `fixed` relation in some corpora of the French treebank, are respectively analyzed with the [det:complex]() and [case:complex]() relations by FrenchSpoken.
