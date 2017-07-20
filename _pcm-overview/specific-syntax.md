@@ -41,7 +41,7 @@ In Naija _na_ is a copulative particle of focalization (often used in [clefts](#
 8	concern	concern	VERB	VERB	_	3	acl:cleft	_	_
 9	well	well	ADV	ADV	_	8	advmod	_	_
 10	well	well	ADV	ADV	_	9	compound:redup	_	_
-11	o	yo	PART	PART	_	10	advmod:emph	_	_
+11	o	o	PART	PART	_	10	advmod:emph	_	_
 
 1	but	_	_	_	_	0	_	_	_
 2	be	_	_	_	_	0	_	_	_
@@ -53,8 +53,21 @@ In Naija _na_ is a copulative particle of focalization (often used in [clefts](#
 8	concern	_	_	_	_	0	_	_	_	
 9	well	_	_	_	_	0	_	_	_	
 10	well	_	_	_	_	0	_	_	_	
-11	yo	_	_	_	_	0	_	_	_	
+11	EMP	_	_	_	_	0	_	_	_	
 
+
+1	but	_	_	_	_	0	_	_	_
+2	it	_	_	_	_	0	_	_	_
+3	is 	_	_	_	_	0	_	_	_
+4	the	_	_	_	_	0	_	_	_
+5	landlords	_	_	_	_	0	_	_	_
+6	who	_	_	_	_	0	_	_	_
+7	are	_	_	_	_	0	_	_	_	
+8	really	_	_	_	_	0	_	_	_	
+9	affected	_	_	_	_	0	_	_	_	
+10	by	_	_	_	_	0	_	_	_	
+11	this	_	_	_	_	0	_	_	_	
+12	matter	_	_	_	_	0	_	_	_	
 ~~~
 
 However, when the complement of the copula is clausal and contains its own subject, the _na_ copula becomes the head so as to avoid having two nsubj dependents for the head of the complement:
@@ -72,6 +85,23 @@ However, when the complement of the copula is clausal and contains its own subje
 4	na	na	VERB	PART	_	0	root	_	_
 5	God	God	PROPN	PROPN	_	6	nsubj	_	_
 6	dey	be	AUX	AUX	_	4	parataxis:obj	_	_
+
+1	poor	_	_	_	_	0	_	_	_
+2	man	_	_	_	_	0	_	_	_
+3	prayer 	_	_	_	_	0	_	_	_
+4	be	_	_	_	_	0	_	_	_
+5	god	_	_	_	_	0	_	_	_
+6	be	_	_	_	_	0	_	_	_
+
+1	The	_	_	_	_	0	_	_	_
+2	prayer	_	_	_	_	0	_	_	_
+3	of 	_	_	_	_	0	_	_	_
+4	poor	_	_	_	_	0	_	_	_
+5	men	_	_	_	_	0	_	_	_
+6	is	_	_	_	_	0	_	_	_
+7	God	_	_	_	_	0	_	_	_	
+8	exists	_	_	_	_	0	_	_	_	
+
 ~~~
 
 <a name="Neg"></a>
