@@ -5,7 +5,7 @@ shortdef: 'quasi subject'
 udver: '2'
 ---
 
-The `expl` relation is not used in Naija. The [nsubj:expl]() relation is used instead for impersonal constructions. To annotate the other dependent of the predicate (i.e. not the dependent annotated with the `nsubj:expl` relation) we use the `nsubj:quasi` relation. 
+The `expl` relation is not used in Naija. The [nsubj:expl]() relation is used instead for impersonal constructions. To annotate the quasi-subject which is the other dependent of the predicate we use the `nsubj:quasi` relation. 
 
 ~~~ conllu
 # visual-style 2 4 nsubj:quasi	color:blue
