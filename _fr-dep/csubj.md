@@ -12,7 +12,7 @@ Qu'il vienne m' embête . \n His coming bothers me.
 csubj(embête, vienne)
 ~~~
 
-In FrenchSpoken we also use the `csubj` relation. Here is an example from FrenchSpoken :
+Here is an example from FrenchSpoken :
 
 ~~~ sdparse
 créer des choses qui durent m'a paru être essentiel \n creating things that last seemed essential to me 
