@@ -25,7 +25,7 @@ Elle est née le 12 décembre 2011  \n She was born on December 12 2011
 nmod(née, décembre)
 nummod(décembre, 12)
 nmod(décembre, 2011)
-det(27, le)
+det(12, le)
 ~~~
 
 Here are some examples from FrenchSpoken:
