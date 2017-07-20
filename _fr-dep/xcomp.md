@@ -22,7 +22,7 @@ Je le considère comme un ami \n I consider him as a friend
 xcomp(considère, ami)
 ~~~
 
-In FrenchSopken we also use the `xcomp`relation. Here are examples from FrenchSpoken:
+Here are examples from FrenchSpoken:
 
 ~~~ sdparse
 j' aimerais enseigner dans un établissement public \n I'd like to teach in a public school
