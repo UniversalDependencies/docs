@@ -20,7 +20,7 @@ Appelation d'origine contrôlée  ( AOC )
 appos(Appelation, AOC)
 ~~~
 
-In FrenchSpoken does not use the `appos` relation anymore. Instead there are two subrelations [nmod:appos]() and [conj:appos]().
+FrenchSpoken does not use the `appos` relation anymore. Instead there are two subrelations [nmod:appos]() and [conj:appos]().
 The `nmod:appos` relation is used for appositions which modify nominal elements.
 
 ~~~ sdparse
