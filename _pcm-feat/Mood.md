@@ -26,6 +26,7 @@ The `Ind` and `Imp` values are only carried by instances of verbs following the 
 
 
 * _you <b>say</b> grandma need push_ "You said grandma needs to be pushed"
+* _dat <b>means</b> you be student_ "That means you are a student"
 
 ### <a name="Imp">`Imp`</a>: imperative
 
