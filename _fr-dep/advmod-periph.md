@@ -16,5 +16,5 @@ advmod:periph(faire, Franchement)
 
 ~~~ sdparse
 Apparemment James a déjà vendu sa voiture. \n Apparently James has already sold his car.
-advmod:periph(vendu, Apparamment)
+advmod:periph(vendu, Apparemment)
 ~~~ 
