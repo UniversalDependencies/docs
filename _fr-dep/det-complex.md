@@ -40,6 +40,6 @@ case(gens,de)
 ~~~ sdparse
 La plupart des bactéries ont été tuées par cet antibiotique. \n Most of the bacteria were killed by this antibiotic.
 det:complex(bactéries,plupart)
-det(plupart,la)
+det(plupart,La)
 case(bactéries,des)
 ~~~
