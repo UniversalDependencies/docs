@@ -16,12 +16,18 @@ nsubj(aime, qui)
 dobj(aime, t')
 ~~~
 
-FrenchSpoken also uses the `acl` relation, here is an example:
+FrenchSpoken also uses the `acl:relcl` relation:
 
 ~~~ sdparse
 j'ai eu envie d' être un intellectuel qui marque son temps \n I wanted to be an intellectual who marks his time 
 acl:relcl(intellectuel, marque)
 nsubj(marque, qui)
+~~~
+
+~~~ sdparse
+est-ce que vous avez des enseignants dont vous vous souvenez particulièrement \n do you have teachers of whom you have a strong memory
+acl:relcl(enseignants,souvenez)
+obl:comp(souvenez,dont)
 ~~~
 
 N.B.: For cleft sentences, FrenchSpoken uses the [acl:cleft]() subrelation.
