@@ -100,7 +100,8 @@ acl:relcl(Ce,fait)
 ### Causative
 
 In French causatives are typically constructed with the verb _faire_. 
-The head of a causative construction is the infinitive verb, which governs _faire_ with a [fr-dep/aux:caus]() link. The syntactical subject of the sentence is annotated with [fr-dep/nsubj:caus](). The true agent of the action described by the causative will be linked to the infinitive verb by an [fr-dep/obj:agent](), an [fr-dep/iobj:agent]() or an [fr-dep/obl:agent]() relation, depending on the syntactical function it has in the sentence.
+The new argument, the causer, which is the subject of the construction is annotated [nsubj:caus](), while the initial subject/agent of the verb is demoted and becomes either an object, an indirect object or an oblique complement of the causative construction.
+The head of a causative construction is the infinitive verb, which governs _faire_ with a [fr-dep/aux:caus]() link. The syntactical subject of the sentence (i.e. the causer) is annotated with [fr-dep/nsubj:caus](). The true agent of the action described by the causative will be linked to the infinitive verb by an [fr-dep/obj:agent](), an [fr-dep/iobj:agent]() or an [fr-dep/obl:agent]() relation, depending on the syntactical function it has in the sentence.
 
 ~~~ sdparse
 J' ai fait changer les roues de la voiture par le garagiste. \n I made the mechanic change the car's wheels.
@@ -126,3 +127,63 @@ obj(visiter,maison.)
 ~~~
 
 N.B.: For more details about the analysis of causatives, see [this discussion](https://gitlab.inria.fr/sequoia/deep-sequoia/issues/153#) (which is partly in English and partly in French).
+
+### Superlatives
+
+Superlative constructions, _le/la/les plus ADJ_, are annotated as follows:
+The head of the construction is the noun. It governs the adjective with the usual [fr-dep/amod]() link and the determiner with a [fr-dep/det]() link. The _plus_ is annotated with an [fr-dep/advmod]() and is a dependant of the adjective.
+The noun modifier introduced by the preposition _de_ is attached to the noun, even though it seems to be a dependant more of the superlative constrcution than of the noun.
+
+~~~ sdparse
+Dans ce rayon se trouvent les plus beaux livres de la bibliothèque. \n On this shelf one can find the most beautiful books in the whole library.
+det(livres,les)
+amod(livres,beaux)
+advmod(beaux,plus)
+nmod(livres,bibliothèque.)
+case(bibliothèque,de)
+~~~
+
+When the superlative is post-posed, the determiner is a dependant of the adjective:
+
+~~~ sdparse
+Il aime manger dans les restaurants les plus réputés. \n He likes to eat in the most renowned restaurants.
+det(restaurants-6,les-5)
+amod(restaurants-6,réputés.-9)
+advmod(plus,réputés.)
+det(les-7,réputés._9)
+~~~ 
+
+When the superlative is in a [fr-dep/cop]() relation (and the noun is not present in the superlative construction), the head of the superlative construction is the adjective:
+
+~~~ sdparse
+Ces maisons sont les plus vieilles. \n These houses are the oldest.
+advmod(vieilles,plus)
+det(vieilles,les)
+cop(vieilles,sont)
+nsubj(vieilles,maisons)
+~~~
+
+### Comparatives
+
+In comparative constructions, the adjective is the head. It governs the comparative adverb (_plus_, _moins_, _aussi_ etc.) with an [fr-dep/advmod]() link. The comparison element introduced by _que_ is analyzed with [fr-dep/advcl] and is a dependent of the adjective. _que_ is analyzed with [fr-dep/mark]().
+N.B.: Here is the [universal page](http://universaldependencies.org/u/overview/specific-syntax.html#comparatives) for the analysis of comparatives
+
+~~~ sdparse
+Mathilde est plus gentille que tu ne le penses. \n Mathilde is kinder than you think.
+nsubj(gentille,Mathilde)
+cop(gentille,est)
+advmod(gentille,plus)
+advcl(gentille,penses.)
+mark(penses.,que)
+~~~
+
+~~~ sdparse
+Patrick est aussi courageux que Pierre. \n Patrick is as brave as Pierre.
+nsubj(courageux,Patrick)
+cop(courageux,est)
+advmod(courageux,aussi)
+advcl(courageux,Pierre)
+mark(Pierre,que)
+~~~ 
+
+
