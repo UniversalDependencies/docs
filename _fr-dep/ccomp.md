@@ -18,10 +18,12 @@ Je suis certain qu'il l'a fait \n I am certain that he did it
 ccomp(certain, fait) 
 ~~~
 
-In FrenchSpoken, we also use the `ccomp` relation. Here is an example from FrenchSpoken:
+Here is an example from FrenchSpoken with a `ccomp`:
 
 ~~~ sdparse
 on ne peut pas exclure qu' il y ait quelque chose de grave \n it cannot be ruled out that there is something serious
 ccomp(exclure, ait) 
 mark(ait, qu')
 ~~~
+
+N.B.: FrenchSpoken uses the [ccomp:cleft]() relation to annotate some cases of cleft sentences.
