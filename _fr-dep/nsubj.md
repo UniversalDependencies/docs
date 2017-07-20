@@ -22,7 +22,7 @@ Maman est une bonne cuisinière . \n Mom is a good cook .
 nsubj(cuisinière, Maman)
 ~~~
 
-In FrenchSpoken we also use the `nsubj` relation :
+Here are some examples from FrenchSpoken with the `nsubj` relation :
 
 ~~~ sdparse
 je peux pas vous dire \n I can't tell you
