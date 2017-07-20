@@ -3,9 +3,10 @@ layout: relation
 title: 'flat'
 redirect_from: "fr/dep/name.html"
 shortdef: 'name'
+udver: '2'
 ---
 
-The name relation is one of the three relations for compounding in UD (together
+The `flat` relation is one of the three relations for MWE in UD (together
 with [compound]() and [fixed]()).
 It is used for proper nouns constituted of multiple nominal
 elements. For example, `flat` would be used between the words of
@@ -39,3 +40,5 @@ cc(Belle, et)
 det(Belle, La)
 det(Bête, la)
 ~~~
+
+FrenchSpoken uses [nmod:appos]() instead of `flat`.
