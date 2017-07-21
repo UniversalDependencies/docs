@@ -16,8 +16,6 @@ the issues as he sees them
 acl(issues, sees)
 ~~~
 
-<!-- hmm -->
-
 ~~~ sdparse
 There are many online sites offering booking facilities .
 acl(sites, offering)
