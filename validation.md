@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-07-22T12:20:17Z">2017-07-22T12:20:17 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-07-22T21:32:50Z">2017-07-22T21:32:50 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -3047,11 +3047,11 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang ru_syntagrus /home/gint
 <span class="doublewidespan" style="padding-left:3em">UD Sanskrit</span>
 <span class="widespan">sa</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-07-22T12:20:17Z">2017-07-22T12:20:17 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-07-22T21:32:50Z">2017-07-22T21:32:50 zulu</time></span>
 </div>
 <div>
 <pre>
-python tools/validate.py --lang sa UD-dev-branches/UD_Sanskrit/sa-ud-test.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang sa /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Sanskrit/sa-ud-test.conllu
 
 *** PASSED ***
 
