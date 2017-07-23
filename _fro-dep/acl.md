@@ -5,8 +5,48 @@ shortdef: 'clausal modifier of noun'
 udver: '2'
 ---
 
-This document is a placeholder for the language-specific documentation
-for `acl`.
+`acl` stands for finite and non-finite clauses that modify a nominal.
+
+It is the case for some kind of secondary predication, or attributive structure.
+
+~~~ conllu
+# visual-style 7 8 acl	color:blue
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+1	Clers	_	ADJ	ADJqua	_	0	root	_	_
+2	est	_	VERB	VERcjg	_	1	cop	_	_
+3	li	_	DET	DETdef	_	4	det	_	_
+4	jurz	_	NOUN	NOMcom	_	1	nsubj	_	_
+5	e	_	CCONJ	CONcoo	_	7	cc	_	_
+6	li	_	DET	DETdef	_	7	det	_	_
+7	soleilz	_	NOUN	NOMcom	_	4	conj	_	_
+8	luisant	_	VERB	VERppa	_	7	acl	_	_
+
+~~~
+
+~~~ conllu
+# visual-style 6 11 acl	color:blue
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 11	bgColor:blue
+# visual-style 11	fgColor:white
+1	desuz	_	ADP	PRE	_	3	case	_	_
+2	un	_	DET	DETndf	_	3	det	_	_
+3	arbres	_	NOUN	NOMcom	_	8	obl	_	_
+4	bel	_	ADJ	ADJqua	_	3	amod	_	_
+5	Quatre	_	DET	DETcar	_	6	nummod	_	_
+6	perruns	_	NOUN	NOMcom	_	8	obj	_	_
+7	i	_	ADV	PROadv	_	8	obl	_	_
+8	ad	_	VERB	VERcjg	_	0	root	_	_
+9	de	_	ADP	PRE	_	10	case	_	_
+10	marbre	_	NOUN	NOMcom	_	11	obl	_	_
+11	faiz	_	VERB	VERppe	_	6	acl	_	_
+
+~~~
+
+Old French uses a language-particular subtype `acl:relcl` for the traditional class of relative clauses. 
 
 ~~~ conllu
 # visual-style 3 6 acl:relcl	color:blue
@@ -47,47 +87,3 @@ for `acl`.
 
 ~~~
 
-`acl` concerns clause modifiers of a noun too.
-
-~~~ conllu
-# visual-style 6 15 acl	color:blue
-# visual-style 15	bgColor:blue
-# visual-style 15	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-1	La	_	ADV	ADVgen	_	4	advmod	_	_
-2	sus	_	ADV	ADVgen	_	4	advmod	_	_
-3	amunt	_	ADV	ADVgen	_	4	advmod	_	_
-4	pargetent	_	VERB	VERcjg	_	0	root	_	_
-5	tel	_	DET	DETind	_	6	det	_	_
-6	luiserne	_	NOUN	NOMcom	_	4	obj	_	_
-7	Par	_	ADP	PRE	_	9	case	_	_
-8	la	_	DET	DETdef	_	9	det	_	_
-9	noit	_	NOUN	NOMcom	_	15	obl	_	_
-10	la	_	DET	DETdef	_	11	det	_	_
-11	mer	_	NOUN	NOMcom	_	15	nsubj	_	_
-12	en	_	ADV	PROadv	_	15	advmod	_	_
-13	est	_	VERB	VERcjg	_	15	cop	_	_
-14	plus	_	ADV	ADVgen	_	15	advmod	_	_
-15	bele	_	ADJ	ADJqua	_	6	acl	_	_
-
-~~~
-
-It is the case for some kind of secondary predication, or attributive structure too
-
-~~~ conllu
-# visual-style 7 8 acl	color:blue
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-1	Clers	_	ADJ	ADJqua	_	0	root	_	_
-2	est	_	VERB	VERcjg	_	1	cop	_	_
-3	li	_	DET	DETdef	_	4	det	_	_
-4	jurz	_	NOUN	NOMcom	_	1	nsubj	_	_
-5	e	_	CCONJ	CONcoo	_	7	cc	_	_
-6	li	_	DET	DETdef	_	7	det	_	_
-7	soleilz	_	NOUN	NOMcom	_	4	conj	_	_
-8	luisant	_	VERB	VERppa	_	7	acl	_	_
-
-~~~
