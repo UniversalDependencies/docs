@@ -5,12 +5,11 @@ shortdef: 'clausal complement'
 udver: '2'
 ---
 
-This document is a placeholder for the language-specific documentation
-for `ccomp`.
+`ccomp`, is a clausal complement of a verb or adjective, and is a dependent clause which is a core argument. That is, it functions like an object of the verb, or adjective. Such clausal complements may be finite or nonfinite. 
 
 ~~~ conllu
-# visual-style 3 6 mark	color:blue
-# visual-style 6 13 mark	color:blue
+# visual-style 3 6 ccomp	color:blue
+# visual-style 6 13 ccomp	color:blue
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 3	bgColor:blue
@@ -44,3 +43,5 @@ for `ccomp`.
 23	Graal	_	PROPN	NOMpro	_	20	nmod	_	_
 
 ~~~
+
+However, if the clausal complement has no subject, the appropriate relation is `xcomp`.
