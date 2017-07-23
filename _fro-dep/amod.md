@@ -5,11 +5,10 @@ shortdef: 'adjectival modifier'
 udver: '2'
 ---
 
-This document is a placeholder for the language-specific documentation
-for `amod`.
+An adjectival modifier of a noun, `amod`, is any adjectival phrase that serves to modify the meaning of the noun.
 
 ~~~ conllu
-# visual-style 7 6 amod	color:blue
+# visual-style 6 7 amod	color:blue
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 7	bgColor:blue
