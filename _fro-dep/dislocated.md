@@ -16,7 +16,7 @@ The dislocated elements are attached to the same governor as the dependent that 
 # visual-style 7	fgColor:white
 1	Li	_	DET	DETdef	_	2	det	_	_
 2	quens	_	NOUN	NOMcom	_	7	dislocated	_	_
-3	Rollant	_	PROPN	NOMpro	_	2	appos	_	_
+3	Rollant	_	PROPN	NOMpro	_	2	flat	_	_
 4	il	_	PRON	PROper	_	7	nsubj	_	_
 5	est	_	VERB	VERcjg	_	7	cop	_	_
 6	mult	_	ADV	ADVgen	_	7	advmod	_	_
