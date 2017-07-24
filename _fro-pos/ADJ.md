@@ -11,7 +11,7 @@ Adjectives are words that typically modify nouns and specify their properties or
 
 Indefinites and adjectives are also annotated as `ADJ`.
 
-Cardinal adjective are annotated `NUM`.
+Cardinal adjectives are annotated `NUM`.
 
 ### Examples
 
