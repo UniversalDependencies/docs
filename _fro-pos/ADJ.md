@@ -18,9 +18,7 @@ Cardinal adjective are annotated `NUM`.
 - _grans/grande_
 - _biax_ 
 - _petis_
-
 - _tel_
 - _autre_
 - _tox_
-
 - _vostre_
