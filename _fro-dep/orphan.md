@@ -24,7 +24,7 @@ The `orphan` relation is used in cases of head ellipsis where simple promotion w
 8	papes	_	NOUN	NOMcom	_	11	nsubj	_	_
 9	Innocens	_	PROPN	NOMpro	_	8	flat	_	_
 10	estoit	_	VERB	VERcjg	_	11	cop	_	_
-11	apostoiles	_	NOUN	NOMcom	_	2	obl	_	_
+11	apostoiles	_	NOUN	NOMcom	_	2	advcl	_	_
 12	de	_	ADP	PRE	_	13	case	_	_
 13	Roume	_	PROPN	NOMpro	_	11	nmod	_	_
 14	et	_	CCONJ	CONcoo	_	15	cc	_	_
