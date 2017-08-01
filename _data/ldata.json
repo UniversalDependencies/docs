@@ -594,6 +594,17 @@
     "lang_name": "Czech-CLTT"
   }, 
   {
+    "lang_code": "cs_fictree", 
+    "contributors": [
+      {
+        "full": "Tom\u00e1\u0161 Jel\u00ednek", 
+        "last": "Jel\u00ednek", 
+        "first": "Tom\u00e1\u0161"
+      }
+    ], 
+    "lang_name": "Czech-FicTree"
+  }, 
+  {
     "lang_code": "cs_pud", 
     "contributors": [
       {
@@ -3212,6 +3223,22 @@
       }
     ], 
     "lang_name": "Tamil"
+  }, 
+  {
+    "lang_code": "te", 
+    "contributors": [
+      {
+        "full": "Sowmya V.B.", 
+        "last": "V.B.", 
+        "first": "Sowmya"
+      }, 
+      {
+        "full": "Taraka Rama", 
+        "last": "Rama", 
+        "first": "Taraka"
+      }
+    ], 
+    "lang_name": "Telugu"
   }, 
   {
     "lang_code": "th", 
