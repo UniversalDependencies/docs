@@ -1045,6 +1045,20 @@ collections:
   bn-overview:
     output: true
 #
+# Telugu
+#
+  te-pos:
+    output: true
+    permalink: /te/pos/:path.html
+  te-feat:
+    output: true
+    permalink: /te/feat/:path.html
+  te-dep:
+    output: true
+    permalink: /te/dep/:path.html
+  te-overview:
+    output: true
+#
 # Template
 #
   template-pos:
