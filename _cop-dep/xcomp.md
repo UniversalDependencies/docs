@@ -6,13 +6,15 @@ shortdef: 'open clausal complement'
 
 This label is used to mark dependent clauses that do not contain their own subject, most often infinitive object clauses. 
 
+## Use with infinitives
+
 ~~~ sdparse
 ⲧⲉⲧⲛ/PRON ⲕⲱ/VERB ⲙⲙⲟ/ADP ⲟⲩ/PRON ⲁⲛ/ADV ⲉ/ADP ⲥⲣϥⲉ/VERB ⲉ/ADP ⲁⲁ/VERB ϥ/PRON \n you do not let them engage in making it
 
 nsubj(ⲕⲱ, ⲧⲉⲧⲛ)
 dobj(ⲕⲱ, ⲟⲩ)
 case(ⲟⲩ, ⲙⲙⲟ)
-neg(ⲕⲱ, ⲁⲛ)
+advmod(ⲕⲱ, ⲁⲛ)
 xcomp(ⲕⲱ, ⲥⲣϥⲉ)
 mark(ⲥⲣϥⲉ, ⲉ-6)
 xcomp(ⲥⲣϥⲉ, ⲁⲁ)
@@ -22,6 +24,8 @@ det(ⲁⲁ, ϥ)
 
 Note how in the example above, the subject of both infinitives marked by ⲉ is the object of the main verb ⲕⲱ, which is external to the infinitive clauses. The infinitive clauses marked by xcomp are inheriting their subject argument from the main clause argument.
 
+## Use with causative ⲧⲣⲉ
+
 Additionally, the subordinate infinitive of the causative construction with ⲧⲣⲉ is also analyzed as xcomp, although the etymological subject of the auxiliary ⲧⲣⲉ is attached to the lexical infinitive as a subject. This facilitates syntactic recognition of the construction next to semantic argument structure extraction:
 
 ~~~ sdparse
@@ -30,7 +34,7 @@ Additionally, the subordinate infinitive of the causative construction with ⲧ�
 
 aux(ⲟⲩⲱϣ, ⲙⲡⲉ)
 nsubj(ⲟⲩⲱϣ, ⲕ)
-neg(ⲟⲩⲱϣ, ⲁⲛ)
+advmod(ⲟⲩⲱϣ, ⲁⲛ)
 cop(ⲟⲩϣⲱ, ⲡⲉ)
 xcomp(ⲟⲩⲱϣ, ⲧⲣⲉ)
 aux(ⲧⲣⲉ, ⲉ)
@@ -41,9 +45,23 @@ nmod(ϣⲏⲣⲉ, ⲛⲟⲩⲧⲉ)
 case(ⲛⲟⲩⲧⲉ, ⲙ)
 det(ⲛⲟⲩⲧⲉ, ⲡ)
 det(ⲡⲣⲟⲥⲫⲟⲣⲁ, ⲟⲩ)
-dobj(ϫⲓ, ⲡⲣⲟⲥⲫⲟⲣⲁ)
+obj(ϫⲓ, ⲡⲣⲟⲥⲫⲟⲣⲁ)
 
 ~~~
 
 Note that in the example above, the first xcomp is the normal infinitive case, with no explicit subject, but the second xcomp illustrates the causative construction: ‘sons’ are both the object of ‘making’ and subject of ‘carrying’.
 
+## Predicate of ϣⲱⲡⲉ 'become'
+
+Predicates of ϣⲱⲡⲉ 'become' (and stative ϣⲟⲟⲡ) are not considered objects, but are linked as `xcomp` to the verb. The preposition ⲛ is still marked as `case` in this construction. 
+
+~~~ sdparse
+
+ⲧⲉⲧⲛ ϣⲱⲡⲉ ⲛ ϫⲣⲟⲡ \n you become an obstacle
+
+xcomp(ϣⲱⲡⲉ, ϫⲣⲟⲡ)
+case(ϫⲣⲟⲡ, ⲛ)
+
+~~~
+
+This analysis effectively treats predicates of verbs of 'becoming' as a small clause: become(x,be(y)), with x serving as the overt subject of become, but also the external subject of the 'be' predication, much like a governed infinitive.
