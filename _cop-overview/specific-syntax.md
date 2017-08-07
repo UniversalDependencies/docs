@@ -59,3 +59,4 @@ The word ⲉϩⲟⲩⲉ ‘rather than’ is treated as a preposition modifying 
 
 nmod(ⲙⲟⲩ, ⲱⲛϩ)
 case(ⲱⲛϩ,ⲉϩⲟⲩⲉ)
+~~~
