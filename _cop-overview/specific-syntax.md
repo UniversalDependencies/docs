@@ -17,7 +17,7 @@ The small class of mostly Greek origin impersonal verbs takes subject clauses, s
 csubj(ⲉⲝⲉⲥⲧⲓ, ⲁⲁ)
 ~~~
 
-**Non-coordinating Greek conjunctions and particles**
+## Non-coordinating Greek conjunctions and particles
 
 Greek conjunctions and particles that are non-coordinating (i.e. not meaning ‘and/or’) are labeled as `advmod` to their associated predicate, as in the following example:
 
@@ -27,7 +27,7 @@ Greek conjunctions and particles that are non-coordinating (i.e. not meaning ‘
 advmod(ⲟⲩⲏϩ, ⲙⲏ)
 ~~~
 
-**Inverted modifying construction** - ⲛⲟϭ ⲛϭⲟⲙ
+## Inverted modifying construction - ⲛⲟϭ ⲛϭⲟⲙ
 
 Inverted modifiers of the type ⲛⲟϭ ⲛϭⲟⲙ ‘great power’ (lit. a ‘great of a power’), are analyzed in purely syntactic terms, such that the semantic modifier (ⲛⲟϭ, ⲕⲟⲩⲓ etc.) is the head, as shown below. The initial article also attaches to the syntactic head. The reason for this is primarily to allow for better parser performance, since making the second noun the head would be a very unusual exception. To find this construction we can look for the set of lexemes appearing in this configuration, most often ⲛⲟϭ and ⲕⲟⲩⲓ.
 
@@ -39,7 +39,7 @@ nmod(ⲛⲟϭ, ⲃⲁⲣⲟⲥ)
 case(ⲃⲁⲣⲟⲥ, ⲛ)
 ~~~
 
-**Independent possessive pronoun construction** – ⲡⲁ/ⲧⲁ/ⲛⲁ + noun phrase
+## Independent possessive pronoun construction – ⲡⲁ/ⲧⲁ/ⲛⲁ + noun phrase
 
 The independent possessive pronoun ‘that, which is of X, belongs to X’ is analyzed as the head of the phrase, and the possessor is attached as nmod to this:
 
@@ -47,5 +47,15 @@ The independent possessive pronoun ‘that, which is of X, belongs to X’ is an
 ⲛⲁ ⲡⲉ ⲭⲣⲓⲥⲧⲟⲥ \n that which is Christ's
 
 nmod(ⲛⲁ, ⲭⲣⲓⲥⲧⲟⲥ)
-det(ⲭⲣⲓⲥⲧⲟⲥ, ⲡⲉ
+det(ⲭⲣⲓⲥⲧⲟⲥ, ⲡⲉ)
 ~~~
+
+## Rather than - the preposition ⲉϩⲟⲩⲉ
+
+The word ⲉϩⲟⲩⲉ ‘rather than’ is treated as a preposition modifying the nominal it is contrasted with:
+
+~~~ sdparse
+ⲁ ⲧⲉⲧⲛ ⲥⲱⲧⲡ ⲛⲏ ⲧⲛ ⲙ ⲡ ⲙⲟⲩ · ⲉϩⲟⲩⲉ/ADP ⲡ ⲱⲛϩ
+
+nmod(ⲙⲟⲩ, ⲱⲛϩ)
+case(ⲱⲛϩ,ⲉϩⲟⲩⲉ)
