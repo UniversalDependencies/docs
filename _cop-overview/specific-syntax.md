@@ -55,7 +55,7 @@ det(ⲭⲣⲓⲥⲧⲟⲥ, ⲡⲉ)
 The word ⲉϩⲟⲩⲉ ‘rather than’ is treated as a preposition modifying the nominal it is contrasted with:
 
 ~~~ sdparse
-ⲁ ⲧⲉⲧⲛ ⲥⲱⲧⲡ ⲛⲏ ⲧⲛ ⲙ ⲡ ⲙⲟⲩ · ⲉϩⲟⲩⲉ/ADP ⲡ ⲱⲛϩ
+ⲁ ⲧⲉⲧⲛ ⲥⲱⲧⲡ ⲛⲏ ⲧⲛ ⲙ ⲡ ⲙⲟⲩ · ⲉϩⲟⲩⲉ/ADP ⲡ ⲱⲛϩ \n you have chosen for yourselves death, rather than life
 
 nmod(ⲙⲟⲩ, ⲱⲛϩ)
 case(ⲱⲛϩ,ⲉϩⲟⲩⲉ)
