@@ -64,7 +64,7 @@ case(ⲱⲛϩ,ⲉϩⲟⲩⲉ)
 In cases having a double preposition, ⲉϩⲟⲩⲉ ⲉ, both are attached as `case` to the alternative:
 
 ~~~ sdparse
-ⲁ ⲧⲉⲧⲛ ⲙⲉⲣⲉ ⲡ ⲕⲁⲕⲉ ⲉϩⲟⲩⲉ ⲉ ⲡ ⲟⲩⲟⲉⲓⲛ \n you have loved darkness, rather than light
+ⲁ ⲧⲉⲧⲛ ⲙⲉⲣⲉ ⲡ ⲕⲁⲕⲉ/N ⲉϩⲟⲩⲉ/ADP ⲉ/ADP ⲡ ⲟⲩⲟⲉⲓⲛ/N \n you have loved darkness, rather than light
 
 nmod(ⲕⲁⲕⲉ, ⲟⲩⲟⲉⲓⲛ)
 case(ⲟⲩⲟⲉⲓⲛ,ⲉϩⲟⲩⲉ)
