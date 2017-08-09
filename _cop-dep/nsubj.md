@@ -2,6 +2,7 @@
 layout: relation
 title: 'nsubj'
 shortdef: 'nominal subject'
+udver: '2'
 ---
 
 Designates the subject of a verb. The relation is from the lexical verb to the subject pronoun or noun, not from the auxiliary, as shown below. The annotation guidelines do not distinguish passive subjects, since the two forms of passive-like expressions in Coptic may be seen as syntactically indistinct from active:
@@ -13,8 +14,9 @@ Designates the subject of a verb. The relation is from the lexical verb to the s
 
 aux(ⲥⲟⲧⲡ, ⲁ)
 nsubj(ⲥⲟⲧⲡ, ⲩ)
-dobj(ⲥⲟⲧⲡ, ⲥ)
+obj(ⲥⲟⲧⲡ, ⲥ)
 ~~~
+
 **Stative passive:** formed by the morphological stative form (pos=VSTAT) with a transitive verb, however syntactically same as statal reading with intransitive verb:
 
 ~~~ sdparse
