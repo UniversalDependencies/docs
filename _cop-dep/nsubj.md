@@ -56,7 +56,7 @@ In pure existence predication, the existing entity is the subject, and the EXIST
 
 nsubj(ⲙⲛ, ⲛⲟⲩⲧⲉ) 
 det(ⲛⲟⲩⲧⲉ, ϭⲉ)
-nmod(ⲙⲛ, ⲕ)
+obl(ⲙⲛ, ⲕ)
 case(ⲕ, ⲛⲃⲗⲁ)
 ~~~
 
