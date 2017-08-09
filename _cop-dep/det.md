@@ -9,7 +9,7 @@ Function label for determiners, including definite and indefinite articles gover
 
 
 ~~~ sdparse
-ⲣⲱⲙⲉ/NOUN ⲛⲓⲙ/NOUN \n any man
+ⲣⲱⲙⲉ/NOUN ⲛⲓⲙ/PRON \n any man
 
 det(ⲣⲱⲙⲉ, ⲛⲓⲙ)
 ~~~
