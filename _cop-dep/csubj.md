@@ -2,6 +2,7 @@
 layout: relation
 title: 'csubj'
 shortdef: 'clausal subject'
+udver: '2'
 ---
 
 Used to mark the head of a clausal subject. The dependency goes from the predicate that governs the subject, to the local root (i.e. the predicate) of the subject clause. This construction is fairly rare, and the subject clause is often an infinitive clause, as shown below.
@@ -14,7 +15,7 @@ aux(ⲁⲛⲉⲭⲉ, ⲉ)
 cop(ⲡ, ⲡⲉ)
 acl(ⲡ, ⲉϣϣⲉ)
 mark(ⲉϣϣⲉ, ⲉⲧ)
-dobj(ⲁⲛⲉⲭⲉ, ⲕ)
+obj(ⲁⲛⲉⲭⲉ, ⲕ)
 case(ⲕ, ⲙⲙⲟ)
 ~~~
 
