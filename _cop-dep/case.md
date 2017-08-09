@@ -2,6 +2,7 @@
 layout: relation
 title: 'case'
 shortdef: 'case marking'
+udver: '2'
 ---
 
 Used for all prepositions, including the marker of accusative case ⲛ and all other prepositions, which are understood as ‘oblique’ cases. Nouns govern their prepositions as in all other Universal Dependency guidelines, and not the other way around.
