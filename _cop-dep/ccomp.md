@@ -2,6 +2,7 @@
 layout: relation
 title: 'ccomp'
 shortdef: 'clausal complement'
+udver: '2'
 ---
 
 Marks a complement clause, e.g. an object clause to a verb of saying (said that: …., saw that: …). The dependency goes from the main clause predicate to the subordinate clause predicate. Markers like ϫⲉ are governed by the `mark` function (see `mark`).
@@ -11,12 +12,12 @@ Marks a complement clause, e.g. an object clause to a verb of saying (said that:
 
 cc(ⲥⲟⲟⲩⲛ, ⲏ)
 nsubj(ⲥⲟⲟⲩⲛ, ϯ)
-neg(ⲥⲟⲟⲩⲛ, ⲁⲛ)
+advmod(ⲥⲟⲟⲩⲛ, ⲁⲛ)
 ccomp(ⲥⲟⲟⲩⲛ, ⲡⲁϩ)
 mark(ⲡⲁϩ, ϫⲉ)
 nsubj(ⲡⲁϩ, ⲕ)
 aux(ⲡⲁϩ, ⲛⲁ)
-dobj(ⲡⲁϩ, ⲟⲩ)
+obj(ⲡⲁϩ, ⲟⲩ)
 ~~~
 
 Note how the verb "know" (ⲥⲟⲟⲩⲛ) is the source of `ccomp`, and the subordinate clause main verb, "tear" (ⲡⲁϩ), is the target. 
