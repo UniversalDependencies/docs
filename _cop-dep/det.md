@@ -30,3 +30,21 @@ If a noun has both a normal article and ⲕⲉ, both are marked as `det`:
 det(ϩⲛⲁⲁⲩ, ⲕⲉ)
 det(ϩⲛⲁⲁⲩ, ϩⲉⲛ)
 ~~~
+
+## Possessive determiners
+
+Both pre-posed possessives and the old suffix pronouns are treated as determiners:
+
+~~~ sdparse
+ⲡⲉⲥ/DET ⲏⲓ/NOUN \n her house
+
+det(ⲏⲓ, ⲡⲉⲥ)
+~~~
+
+Note that the suffix possessors are pure pronouns, and are therefore tagged as PRON (but the relation is still `det`):
+
+~~~ sdparse
+ⲣⲛⲧ/NOUN ⲕ/PRON \n your name
+
+det(ⲣⲛⲧ, ⲕ)
+~~~
