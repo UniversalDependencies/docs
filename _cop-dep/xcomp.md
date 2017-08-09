@@ -2,6 +2,7 @@
 layout: relation
 title: 'xcomp'
 shortdef: 'open clausal complement'
+udver: '2'
 ---
 
 This label is used to mark dependent clauses that do not contain their own subject, most often infinitive object clauses. 
@@ -12,7 +13,7 @@ This label is used to mark dependent clauses that do not contain their own subje
 ⲧⲉⲧⲛ/PRON ⲕⲱ/VERB ⲙⲙⲟ/ADP ⲟⲩ/PRON ⲁⲛ/ADV ⲉ/ADP ⲥⲣϥⲉ/VERB ⲉ/ADP ⲁⲁ/VERB ϥ/PRON \n you do not let them engage in making it
 
 nsubj(ⲕⲱ, ⲧⲉⲧⲛ)
-dobj(ⲕⲱ, ⲟⲩ)
+obj(ⲕⲱ, ⲟⲩ)
 case(ⲟⲩ, ⲙⲙⲟ)
 advmod(ⲕⲱ, ⲁⲛ)
 xcomp(ⲕⲱ, ⲥⲣϥⲉ)
