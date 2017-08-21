@@ -33,7 +33,7 @@ Note that `obl` includes prepositional objects of verbs of perception, such as t
 
 nsubj(ⲥⲱⲧⲙ, ⲁⲣ)
 obl(ⲥⲱⲧⲙ, ⲓ)
-case(ⲉⲣⲟ, ⲓ)
+case(ⲓ, ⲉⲣⲟ)
 ~~~
 
 Prepositional objects are always `obl` and never marked as `obj`, unless they are marked by the object marker ⲛ in one of the durative tenses, according to Jernstedt's Law. 
