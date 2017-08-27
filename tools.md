@@ -91,7 +91,7 @@ of treebanks from [UD v1](http://universaldependencies.org/docsv1/) to v2 guidel
 
 ### CoNLL-U viewer
 
-A simple browser-based (JavaScript, i.e. client side) viewer of your CoNLL-U files. Open your file, see the tree, go to the next tree. Click on a node to see all its attributes. There is no way of jumping directly to a tree, neither by tree number, nor by searching attribute values.
+A simple browser-based (JavaScript, i.e. client side) viewer of your CoNLL-U files. Open your file, see the tree, go to the next tree. Click on a node to see all its attributes. Save the tree as an SVG graphics if needed. There is no way of jumping directly to a tree, neither by tree number, nor by searching attribute values.
 
 * Category: tree viewer
 * Platform: any (browser-based)
