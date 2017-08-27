@@ -36,6 +36,8 @@ The fields must additionally meet the following constraints:
 * Fields other than FORM and LEMMA must not contain space characters.
 * Underscore (_) is used to denote unspecified values in all fields except ID. Note that no format-level distinction is made for the rare cases where the FORM or LEMMA is the literal underscore – processing in such cases is application-dependent. Further, in UD treebanks the UPOSTAG, HEAD, and DEPREL columns are not allowed to be left unspecified.
 
+See the [tools page](tools.html) for a list of tools that work with the CoNLL-U format. There is also a simple JavaScript-based [CoNLL-U file viewer](conllu_viewer.html).
+
 # Words, Tokens and Empty Nodes
 
 To accommodate the representation of both words and (multiword) tokens (see [Tokenization and word segmentation](u/overview/tokenization.html)), 
