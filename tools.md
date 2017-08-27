@@ -20,6 +20,7 @@ If you would like to have your tool added to this page, please write the
   * Format conversion
 * [Third-party tools](#third-party-tools)
   * [brat rapid annotation tool](#brat-rapid-annotation-tool)
+  * [CoNLL-U viewer](#conll-u-viewer)
   * [DKPro Core CoNLL-U reader/writer support](#dkpro-core-conll-u-readerwriter)
   * [Treex](#treex)
   * [Tred](#tred)
@@ -87,6 +88,16 @@ of treebanks from [UD v1](http://universaldependencies.org/docsv1/) to v2 guidel
 * License: MIT (open source)
 * Homepage: <http://brat.nlplab.org/>
 * References: [Stenetorp et al. (2012)](http://anthology.aclweb.org/E/E12/E12-2021.pdf)
+
+### CoNLL-U viewer
+
+A simple browser-based (JavaScript, i.e. client side) viewer of your CoNLL-U files. Open your file, see the tree, go to the next tree. Click on a node to see all its attributes. There is no way of jumping directly to a tree, neither by tree number, nor by searching attribute values.
+
+* Category: tree viewer
+* Platform: any (browser-based)
+* Implementation: JavaScript
+* Credit: Milan Straka, Michal Sedlák
+* [Access here](conllu_viewer.html)
 
 ### DKPro Core CoNLL-U reader/writer
 
