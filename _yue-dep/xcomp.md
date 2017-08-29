@@ -51,7 +51,7 @@ The matrix verb may require both a non-clausal object and a clausal complement:
 4	以後	_	NOUN	_	_	6	obl:tmod	_	from-now-on
 5	唔	_	ADV	_	_	6	advmod	_	NEG
 6	講	_	VERB	_	_	2	xcomp	_	say
-7	大話	_	NOUN	_	_	4	obj	_	lie
+7	大話	_	NOUN	_	_	6	obj	_	lie
 
 1	"I	_	_	_	_	0	_	_	_
 2	promise	_	_	_	_	0	_	_	_
@@ -219,7 +219,7 @@ The predicate of the clausal complement is linked to the predicate adjective as 
 
 Since both `ccomp` and object-control `xcomp` may both contain an argument between the matrix verb and the embedded verb, confusion may arise as to which relation is appropriate. 
 
-We adopt a test from Chao (1968) -- originally for Mandarin but also applicable to Cantonese -- which allows one to separate "clausal objects" (`ccomp`) from "pivotal constructions" (object-control `xcomp`). In the case of `ccomp`, it is grammatical to dislocate the matrix verb with its subject to the end, while the same operation on an `xcomp` sentence would likely result in ungrammaticality:
+We adopt a test from Chao (1968) -- originally for Mandarin but apparently applicable to Cantonese as well -- which allows one to separate "clausal objects" (`ccomp`) from "pivotal constructions" (object-control `xcomp`). In the case of `ccomp`, it is grammatical to dislocate the matrix verb with its subject to the end, while the same operation on an `xcomp` sentence would likely result in ungrammaticality:
 
 **`ccomp`** |   | **`xcomp`**
 ----------- | - | -----------
