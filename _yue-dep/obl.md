@@ -21,7 +21,7 @@ The relation can also be used for nominals that don’t include a nominal marker
 2	寄	_	VERB	_	_	0	root	_	mail
 3	咗	_	AUX	_	_	2	aux	_	PERF
 4	封	_	NOUN	_	_	5	det	_	CL:letter
-5	信	_	NOUN	_	_	3	obj	_	letter
+5	信	_	NOUN	_	_	2	obj	_	letter
 6	畀	_	ADP	_	_	7	case	_	to
 7	我哋	_	PRON	_	_	2	obl	_	3PL
 
