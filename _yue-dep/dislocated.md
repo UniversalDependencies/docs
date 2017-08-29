@@ -91,17 +91,17 @@ However, this relation does not apply to arguments that appear in non-canonical 
 **Right dislocation** is also possible:
 
 ~~~ conllu
-# visual-style 1 6 dislocated	color:blue
+# visual-style 1 7 dislocated	color:blue
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
 1	嚟	_	VERB	_	_	0	root	_	come
 2	咗	_	AUX	_	_	1	aux	_	PERF
 3	未	_	ADV	_	_	1	advmod	_	yet
-4	呀	_	PUNCT	_	_	6	punct	_	SP
-5	，	_	PUNCT	_	_	6	punct	_	_
-6	你	_	PRON	_	_	6	nmod	_	2SG
+4	呀	_	PUNCT	_	_	1	discourse:sp	_	SP
+5	，	_	PUNCT	_	_	7	punct	_	_
+6	你	_	PRON	_	_	7	nmod	_	2SG
 7	細佬	_	NOUN	_	_	1	dislocated	_	younger-brother
 8	？	_	PUNCT	_	_	1	punct	_	_
 
