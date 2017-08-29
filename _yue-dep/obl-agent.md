@@ -13,7 +13,7 @@ The `obl:agent` relation is used to link an agent noun phrase to the main verb, 
 # visual-style 2	fgColor:white
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
-1	被	_	ADP	_	_	2	case	_	by
+1	畀	_	ADP	_	_	2	case	_	by
 2	我	_	PRON	_	_	3	obl:agent	_	1SG
 3	抌	_	VERB	_	_	0	root	_	throw-away
 4	咗	_	AUX	_	_	3	aux	_	PERF
@@ -35,7 +35,7 @@ If the agent is unknown or unspecified, the noun 人 / _jan4_ 'person' is used. 
 # visual-style 2	fgColor:white
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
-1	被	_	ADP	_	_	2	case	_	by
+1	畀	_	ADP	_	_	2	case	_	by
 2	人	_	PRON	_	_	3	obl:agent	_	person
 3	抌	_	VERB	_	_	0	root	_	throw-away
 4	咗	_	AUX	_	_	3	aux	_	PERF
