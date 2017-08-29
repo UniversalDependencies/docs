@@ -88,11 +88,11 @@ Additionally, 呀 _aa3_ and 喇 _laa1_ may be used to offset items in a list. In
 # visual-style 3	fgColor:white
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
-# visual-style 7 8 discourse	color:blue
+# visual-style 6 7 discourse	color:blue
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
 1	呢度	_	PRON	_	_	2	obl	_	here
 2	有	_	VERB	_	_	0	root	_	exist
 3	芒果	_	NOUN	_	_	2	obj	_	mango
@@ -100,9 +100,9 @@ Additionally, 呀 _aa3_ and 喇 _laa1_ may be used to offset items in a list. In
 5	，	_	PUNCT	_	_	6	punct	_	_
 6	龍眼	_	VERB	_	_	3	conj	_	longan
 7	喇	_	PART	_	_	6	discourse	_	SP
-8	，	_	PART	_	_	10	punct	_	_
-9	同埋	_	PART	_	_	10	cc	_	and
-10	荔枝	_	PART	_	_	3	conj	_	lychee
+8	，	_	PUNCT	_	_	10	punct	_	_
+9	同埋	_	CCONJ	_	_	10	cc	_	and
+10	荔枝	_	NOUN	_	_	3	conj	_	lychee
 
 1	"There	_	_	_	_	0	_	_	_
 2	are	_	_	_	_	0	_	_	_
