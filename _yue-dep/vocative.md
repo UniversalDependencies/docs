@@ -16,7 +16,7 @@ We use the `vocative` relation when the speaker of the sentence calls the addres
 1	爺爺	_	NOUN	_	_	3	vocative	_	grandpa
 2	，	_	PUNCT	_	_	1	punct	_	_
 3	過嚟	_	VERB	_	_	0	root	_	come-over
-4	吖	_	ADV	_	_	3	discourse:sp	_	SP
+4	吖	_	PART	_	_	3	discourse:sp	_	SP
 
 1	"Grandpa,	_	_	_	_	0	_	_	_
 2	come	_	_	_	_	0	_	_	_
