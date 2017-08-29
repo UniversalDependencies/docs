@@ -58,11 +58,11 @@ Some discourse markers appear at the end of an utterance/clause/sentence, but sh
 Particles 呀 _aa3_, 呀 _aa4_, 呢 _ne1/le1_, 喎 _wo3_ may occur after a topic in sentence-initial position; these have homophonous counterparts in sentence-final particles but should not be confused with them, and should be labelled `discourse` rather than [discourse:sp]().
 
 ~~~ conllu
-# visual-style 4 1 discourse	color:blue
+# visual-style 1 2 discourse	color:blue
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
 1	臭豆腐	_	NOUN	_	_	4	dislocated	_	stinky-tofu
 2	呀	_	PART	_	_	1	discourse	_	PART
 3	，	_	PUNCT	_	_	1	punct	_	_
