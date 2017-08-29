@@ -35,7 +35,7 @@ Coverb phrases in Cantonese are roughly equivalent to prepositional phrases in o
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 1	佢	_	PRON	_	_	5	nsubj	_	3SG
-2	同	_	VERB	_	_	5	advcl	_	with
+2	同	_	VERB	_	_	5	advcl:coverb	_	with
 3	得	_	AUX	_	_	2	aux	_	can
 4	我哋	_	PRON	_	_	2	obj	_	1PL
 5	傾偈	_	VERB	_	_	0	root	_	chat
