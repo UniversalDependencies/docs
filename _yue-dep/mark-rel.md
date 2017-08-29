@@ -38,7 +38,7 @@ When the particle 嘅 is used after a clause turning it into a relative clause t
 # visual-style 6	fgColor:white
 1	阿明	_	PROPN	_	_	5	nsubj	_	Ming
 2	喺	_	ADP	_	_	3	case	_	in
-3	劇	_	NOUN	_	_	5	obl	_	show
+3	電視劇	_	NOUN	_	_	5	obl	_	TV-show
 4	入面	_	ADP	_	_	3	case:loc	_	middle
 5	戴	_	VERB	_	_	7	acl	_	wear
 6	嘅	_	PART	_	_	5	mark:rel	_	REL
@@ -51,7 +51,8 @@ When the particle 嘅 is used after a clause turning it into a relative clause t
 5	wears	_	_	_	_	0	_	_	_
 6	in	_	_	_	_	0	_	_	_
 7	the	_	_	_	_	0	_	_	_
-8	show"	_	_	_	_	0	_	_	_
+8	TV	_	_	_	_	0	_	_	_
+9	show"	_	_	_	_	0	_	_	_
 
 ~~~
 
