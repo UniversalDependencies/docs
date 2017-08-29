@@ -47,11 +47,11 @@ A "directional verb compound" (known as "directional complement" in Chinese ling
 ~~~
 
 ~~~ conllu
-# visual-style 4 5 compound:dir	color:blue
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
+# visual-style 1 2 compound:dir	color:blue
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
 1	擺	_	VERB	_	_	0	root	_	put
 2	低	_	VERB	_	_	1	compound:dir	_	down
 3	啲	_	NOUN	_	_	4	det	_	CL:mass/plural
