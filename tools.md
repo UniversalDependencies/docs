@@ -20,6 +20,7 @@ If you would like to have your tool added to this page, please write the
   * Format conversion
 * [Third-party tools](#third-party-tools)
   * [brat rapid annotation tool](#brat-rapid-annotation-tool)
+  * [CL-CONLLU](#cl-conllu)  
   * [CoNLL-U viewer](#conll-u-viewer)
   * [DKPro Core CoNLL-U reader/writer support](#dkpro-core-conll-u-readerwriter)
   * [Treex](#treex)
@@ -88,6 +89,17 @@ of treebanks from [UD v1](http://universaldependencies.org/docsv1/) to v2 guidel
 * License: MIT (open source)
 * Homepage: <http://brat.nlplab.org/>
 * References: [Stenetorp et al. (2012)](http://anthology.aclweb.org/E/E12/E12-2021.pdf)
+
+### CL-CoNLL-U Library
+
+A Common Lisp library for various CoNLL-U-related operations. We have already functions for reading, writing, making queries, construct visualizations of sentences, compare trees etc. 
+
+* Category: library
+* Platform: any SO that runs a Common Lisp implementation
+* Implementation: Common Lisp
+* License: Apache License
+* Homepage: <https://github.com/own-pt/cl-conllu/>
+* References: http://arademaker.github.io/bibliography/tilic-stil-2017.html
 
 ### CoNLL-U viewer
 
