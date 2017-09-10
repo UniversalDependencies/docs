@@ -135,11 +135,11 @@ The head of the construction is the noun. It governs the adjective with the usua
 The noun modifier introduced by the preposition _de_ is attached to the noun even though the noun modifier seems more attached to the superlative: _la plus haute tour du château_ can easily become _la tour la plus haute du château_.
 
 ~~~ sdparse
-Dans ce rayon se trouvent les plus beaux livres de la bibliothèque. \n On this shelf one can find the most beautiful books in the whole library.
+Dans ce rayon se trouvent les plus beaux livres de la bibliothèque . \n On this shelf one can find the most beautiful books in the whole library.
 det(livres,les)
 amod(livres,beaux)
 advmod(beaux,plus)
-nmod(livres,bibliothèque.)
+nmod(livres,bibliothèque)
 case(bibliothèque,de)
 ~~~
 
@@ -149,8 +149,8 @@ When the superlative is post-posed, the determiner is a dependant of the adjecti
 Il aime manger dans les restaurants les plus réputés. \n He likes to eat in the most renowned restaurants.
 det(restaurants-6,les-5)
 amod(restaurants-6,réputés.-9)
-advmod(plus,réputés.)
-det(les-7,réputés._9)
+advmod(réputés.-9,plus-8)
+det(réputés.-9,les-7)
 ~~~ 
 
 When the superlative is in a [fr-dep/cop]() relation (and the noun is not present in the superlative construction), the head of the superlative construction is the adjective:
@@ -159,7 +159,7 @@ When the superlative is in a [fr-dep/cop]() relation (and the noun is not presen
 Ces produits sont les plus vendus. \n These products are best-sellers
 det(vendus.,les)
 cop(vendus.,sont)
-nsubj(vvendus.,produits)
+nsubj(vendus.,produits)
 ~~~
 
 ### Comparatives
@@ -177,12 +177,12 @@ mark(penses.,que)
 ~~~
 
 ~~~ sdparse
-Patrick est aussi courageux que Pierre. \n Patrick is as brave as Pierre.
-nsubj(courageux,Patrick)
-cop(courageux,est)
-advmod(courageux,aussi)
-advcl(courageux,Pierre)
-mark(Pierre,que)
+Patrick est aussi courageux que Pierre . \n Patrick is as brave as Pierre.
+nsubj(courageux-4,Patrick-1)
+cop(courageux-4,est-2)
+advmod(courageux-4,aussi-3)
+advcl(courageux-4,Pierre-6)
+mark(Pierre-6,que-5)
 ~~~ 
 
 
