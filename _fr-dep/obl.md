@@ -13,7 +13,7 @@ obl(donne, Tom)
 case(Tom, à)
 ~~~
 
-In FrenchSpoken, we use the [obl:mod]() relation when the dependent is a modifier of the verb and the [obl:comp]() relation when the dependent is a core argument of the verb. We also use the [obl:periph]() relation for some of the non-core nominal dependents of the verb.
+FrenchSpoken uses the [obl:mod]() relation when the dependent is a modifier of the verb and the [obl:comp]() relation when the dependent is a core argument of the verb. The [obl:periph]() relation is used to annotate some of the non-core nominal dependents of the verb.
 
 Here are a few examples :
 
