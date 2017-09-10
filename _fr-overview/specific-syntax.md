@@ -7,6 +7,14 @@ udver: '2'
 
 # Specific constructions
 
+The specific syntactic constructions detailed here are:
+-[cleft sentences](http://universaldependencies.org/fr/overview/specific-syntax.html#cleft-sentences)
+-["Qu'est-ce-que...?"](http://universaldependencies.org/fr/overview/specific-syntax.html#quest-ce-que--)
+-[Pseudo-cleft sentences](http://universaldependencies.org/fr/overview/specific-syntax.html#pseudo-cleft-sentences)
+-[causative constructions](http://universaldependencies.org/fr/overview/specific-syntax.html#causative)
+-[superlatives](http://universaldependencies.org/fr/overview/specific-syntax.html#superlatives)
+-[comparatives](http://universaldependencies.org/fr/overview/specific-syntax.html#comparatives)
+
 ## Cleft sentences
 
 FrenchSpoken analyzes cleft sentences with [fr-dep/acl:cleft]() when the clefted element is a nominal subject or object. All other clefted elements are analyzed with [fr-dep/ccomp:cleft]().
@@ -97,7 +105,7 @@ dislocated:cleft(casses,Ce)
 acl:relcl(Ce,fait)
 ~~~
 
-### Causative
+## Causative
 
 In French causatives are typically constructed with the verb _faire_. 
 The new argument, the causer, which is the subject of the construction is annotated [nsubj:caus](), while the initial subject/agent of the verb is demoted and becomes either an object, an indirect object or an oblique complement of the causative construction.
@@ -128,7 +136,7 @@ obj(visiter,maison.)
 
 N.B.: For more details about the analysis of causatives, see [this discussion](https://gitlab.inria.fr/sequoia/deep-sequoia/issues/153#) (which is partly in English and partly in French).
 
-### Superlatives
+## Superlatives
 
 Superlative constructions, _le/la/les plus ADJ_, are annotated as follows:
 The head of the construction is the noun. It governs the adjective with the usual [fr-dep/amod]() link and the determiner with a [fr-dep/det]() link. The _plus_ is annotated with an [fr-dep/advmod]() and is a dependant of the adjective.
@@ -162,7 +170,7 @@ cop(vendus.,sont)
 nsubj(vendus.,produits)
 ~~~
 
-### Comparatives
+## Comparatives
 
 In comparative constructions, the adjective is the head. It governs the comparative adverb (_plus_, _moins_, _aussi_ etc.) with an [fr-dep/advmod]() link. The comparison element introduced by _que_ is analyzed with [fr-dep/advcl] and is a dependent of the adjective. _que_ is analyzed with [fr-dep/mark]().
 N.B.: Here is the [universal page](http://universaldependencies.org/u/overview/specific-syntax.html#comparatives) for the analysis of comparatives
