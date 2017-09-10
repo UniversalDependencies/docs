@@ -7,13 +7,13 @@ udver: '2'
 
 # Specific constructions
 
-The specific syntactic constructions detailed here are:
--[cleft sentences](http://universaldependencies.org/fr/overview/specific-syntax.html#cleft-sentences)
--["Qu'est-ce-que...?"](http://universaldependencies.org/fr/overview/specific-syntax.html#quest-ce-que--)
--[Pseudo-cleft sentences](http://universaldependencies.org/fr/overview/specific-syntax.html#pseudo-cleft-sentences)
--[causative constructions](http://universaldependencies.org/fr/overview/specific-syntax.html#causative)
--[superlatives](http://universaldependencies.org/fr/overview/specific-syntax.html#superlatives)
--[comparatives](http://universaldependencies.org/fr/overview/specific-syntax.html#comparatives)
+The specific syntactic constructions detailed here are:\n
+-[cleft sentences](http://universaldependencies.org/fr/overview/specific-syntax.html#cleft-sentences)\n
+-["Qu'est-ce-que...?"](http://universaldependencies.org/fr/overview/specific-syntax.html#quest-ce-que--)\n
+-[Pseudo-cleft sentences](http://universaldependencies.org/fr/overview/specific-syntax.html#pseudo-cleft-sentences)\n
+-[causative constructions](http://universaldependencies.org/fr/overview/specific-syntax.html#causative)\n
+-[superlatives](http://universaldependencies.org/fr/overview/specific-syntax.html#superlatives)\n
+-[comparatives](http://universaldependencies.org/fr/overview/specific-syntax.html#comparatives)\n
 
 ## Cleft sentences
 
