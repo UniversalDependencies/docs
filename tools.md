@@ -90,7 +90,7 @@ of treebanks from [UD v1](http://universaldependencies.org/docsv1/) to v2 guidel
 * Homepage: <http://brat.nlplab.org/>
 * References: [Stenetorp et al. (2012)](http://anthology.aclweb.org/E/E12/E12-2021.pdf)
 
-### CL-CoNLL-U Library
+### CL-CoNLLU
 
 A Common Lisp library for various CoNLL-U-related operations. We have already functions for reading, writing, making queries, construct visualizations of sentences, compare trees etc. 
 
