@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-09-15T14:46:02Z">2017-09-15T14:46:02 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-09-15T15:20:36Z">2017-09-15T15:20:36 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -1401,28 +1401,65 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang fr_partut /home/ginter/
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD French-Sequoia</span>
 <span class="widespan">fr sequoia</span>
-<span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-07-02T16:12:52Z">2017-07-02T16:12:52 zulu</time></span>
+<span class="validationfail">FAIL</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-09-15T15:20:31Z">2017-09-15T15:20:31 zulu</time></span>
 </div>
 <div>
 <pre>
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang fr_sequoia /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_French-Sequoia/fr_sequoia-ud-dev.conllu
+python tools/validate.py --lang fr_sequoia UD-dev-branches/UD_French-Sequoia/fr_sequoia-ud-dev.conllu
 
-*** PASSED ***
+[Line                   1051]: Unknown UD DEPREL: aux:caus
+[Line                   2909]: Unknown UD DEPREL: aux:caus
+[Line                   4886]: Unknown UD DEPREL: aux:caus
+[Line                   6128]: Unknown UD DEPREL: aux:caus
+[Line                   8341]: Unknown UD DEPREL: aux:caus
+[Line                   8772]: Unknown UD DEPREL: aux:caus
+[Line                   10342]: Unknown UD DEPREL: aux:caus
+[Line                   10642]: Unknown UD DEPREL: aux:caus
+*** FAILED *** with 8 errors
+Syntax errors: 8
 
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang fr_sequoia /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_French-Sequoia/fr_sequoia-ud-test.conllu
+python tools/validate.py --lang fr_sequoia UD-dev-branches/UD_French-Sequoia/fr_sequoia-ud-test.conllu
 
-*** PASSED ***
+[Line                   2772]: Unknown UD DEPREL: aux:caus
+[Line                   3259]: Unknown UD DEPREL: aux:caus
+[Line                   4257]: Unknown UD DEPREL: aux:caus
+[Line                   4474]: Unknown UD DEPREL: aux:caus
+[Line                   8059]: Unknown UD DEPREL: aux:caus
+[Line                   8608]: Unknown UD DEPREL: aux:caus
+[Line                   8866]: Unknown UD DEPREL: aux:caus
+[Line                   9039]: Unknown UD DEPREL: aux:caus
+*** FAILED *** with 8 errors
+Syntax errors: 8
 
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang fr_sequoia /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_French-Sequoia/fr_sequoia-ud-train.conllu
+python tools/validate.py --lang fr_sequoia UD-dev-branches/UD_French-Sequoia/fr_sequoia-ud-train.conllu
 
-*** PASSED ***
+[Line                   1045]: Unknown UD DEPREL: aux:caus
+[Line                   2141]: Unknown UD DEPREL: aux:caus
+[Line                   3021]: Unknown UD DEPREL: aux:caus
+[Line                   4083]: Unknown UD DEPREL: aux:caus
+[Line                   4156]: Unknown UD DEPREL: aux:caus
+[Line                   4339]: Unknown UD DEPREL: aux:caus
+[Line                   4622]: Unknown UD DEPREL: aux:caus
+[Line                   5489]: Unknown UD DEPREL: aux:caus
+[Line                   9799]: Unknown UD DEPREL: aux:caus
+[Line                   31038]: Unknown UD DEPREL: aux:caus
+[Line                   32762]: Unknown UD DEPREL: aux:caus
+[Line                   34496]: Unknown UD DEPREL: aux:caus
+[Line                   35174]: Unknown UD DEPREL: aux:caus
+[Line                   35481]: Unknown UD DEPREL: aux:caus
+[Line                   40259]: Unknown UD DEPREL: aux:caus
+[Line                   46350]: Unknown UD DEPREL: aux:caus
+[Line                   46987]: Unknown UD DEPREL: aux:caus
+[Line                   52497]: Unknown UD DEPREL: aux:caus
+*** FAILED *** with 18 errors
+Syntax errors: 18
 
 
 ******************
