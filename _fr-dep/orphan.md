@@ -16,9 +16,9 @@ nsubj(été-3, Marie-1)
 nmod(été-3, Paris-5)
 case(Paris-5, à-4)
 cc(été-3, et-6)
-remnant(Marie-1, Miriam-7)
+orphan(Marie-1, Miriam-7)
 case(Prague-9, à-8)
-remnant(Paris-5, Prague-9)
+orphan(Paris-5, Prague-9)
 ~~~
 
 Currently the `orphan` relation is not used in FrenchSpoken.
