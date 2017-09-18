@@ -173,8 +173,7 @@ det(books, these)
 nummod(books, three)
 </div>
 
-We are aware that the choice to treat function words formally as dependents of content words is at odds with some
-versions of dependency grammar, which prefer the opposite relation for many syntactic constructions.
+We are aware that the choice to treat function words formally as dependents of content words is at odds with many versions of dependency grammar, which prefer the opposite relation for many syntactic constructions.
 We prefer to view the relations between content words and function words, not as dependency relations in the narrow
 sense, but as operations that modify the grammatical category of the content word so that it can participate in
 different dependency relations with other content words. We refer to these relations as _functional relations_ or
