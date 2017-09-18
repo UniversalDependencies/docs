@@ -30,7 +30,7 @@ udver: '2'
 * The pages for relations, POS tags, and the new construction pages should contain the universal as well as the language-specific guidelines on a single page.
   * The top part of the page contains the universal guidelines, similar to the ones we currently have with representative examples from a few languages and general descriptions of the relation/tag/construction.
   * The language-specific documentation should only contain things that are (e.g., examples in the language, noteworthy corner cases in the language, lists of lexical items that define a relation/tag/construction, etc.)
-  * Below the universal guidelines, there are buttons for each language (or some better UI element) that allows the user to toggle the visibility of the language-specific documentation. If there is a language-specific documentation for the selected language, it is shown below the univeral guidelines. 
+  * Below the universal guidelines, there are buttons for each language (or some better UI element) that allows the user to toggle the visibility of the language-specific documentation. If there is a language-specific documentation for the selected language, it is shown below the universal guidelines. 
   * The selected languages are stored in a cookie so that a user can select the languages they are interested in and when they browse the documentation, the language-specific documentation for that language is always shown.
   
   
@@ -42,7 +42,7 @@ udver: '2'
    * Structured page with the following information:
      * Example in ConLL-U or SD format
      * Language
-     * "Univesally-relevant": A flag that indicates whether this example is intended to demonstrate something that is relevant for multiple languages.
+     * "Universally-relevant": A flag that indicates whether this example is intended to demonstrate something that is relevant for multiple languages.
      * (optional): Discussion of the example
      * "Links" to construction/relation/tag pages. 
  
