@@ -56,5 +56,5 @@ udver: '2'
   
   
   
-  (I deliberatly did not mention morphological featues. As Dan pointed out, this format might not work as well for morphological features, as, for example, there are a large number of cases but most of them are irrelevant for most languages, and a user might not want to read about all of them when they are only interested in the values for a particular language.)
+  (I deliberately did not mention morphological featues. As Dan pointed out, this format might not work as well for morphological features, as, for example, there are a large number of cases but most of them are irrelevant for most languages, and a user might not want to read about all of them when they are only interested in the values for a particular language.)
  
