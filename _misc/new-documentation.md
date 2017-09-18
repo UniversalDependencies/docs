@@ -40,7 +40,7 @@ udver: '2'
   
  * _Example_ pages:
    * Structured page with the following information:
-     * Example in CONLL-U or SD format
+     * Example in ConLL-U or SD format
      * Language
      * "Univesally-relevant": A flag that indicates whether this example is intended to demonstrate something that is relevant for multiple languages.
      * (optional): Discussion of the example
@@ -53,6 +53,12 @@ udver: '2'
    * Markdown-formatted pages that follow a template and allow embedding of examples
  
  
+ * Search:
+   The search can be used to perform a full-text search of the documentation and to search for examples within the documentation.
+   
+ * Relations and POS tags are still linked in a table that highlights the organization of the tags/relations.
+ 
+ * Constructions are linked in an alphabetical sorted (or hierarchical?) list 
   
   
   
