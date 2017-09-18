@@ -6,7 +6,7 @@ udver: '2'
 
 # Ideas for New Documentation
 
-## Main issues:
+## Issues with current documentation:
 
 
 * The current documentation which is organized along relations rather than constructions makes it often hard to find the right analysis of a certain construction.
