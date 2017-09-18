@@ -54,10 +54,12 @@ udver: '2'
  
  * Link between examples and constructions:
    * Example pages show links to the constructions/relations that are relevant for the example.
-   * One can browse through the examples for selected languages that are relevant for a construction/relation.
+   * One can browse through the examples for selected languages that are relevant for a certain construction/relation/tag.
+ 
+ * Many GitHub discussion can probably be summarized with an example and a short description of what was discussed. Example pages might therefore make it easier to transfer results from discussions to the official documentation.
  
  * Search:
-   The search can be used to perform a full-text search of the documentation and to search for examples within the documentation.
+   * The search can be used to perform a full-text search of the documentation and to search for examples within the documentation.
    
  * Relations and POS tags are still linked in a table that highlights the organization of the tags/relations.
  
