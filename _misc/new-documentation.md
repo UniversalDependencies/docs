@@ -32,4 +32,29 @@ udver: '2'
   * The language-specific documentation should only contain things that are (e.g., examples in the language, noteworthy corner cases in the language, lists of lexical items that define a relation/tag/construction, etc.)
   * Below the universal guidelines, there are buttons for each language (or some better UI element) that allows the user to toggle the visibility of the language-specific documentation. If there is a language-specific documentation for the selected language, it is shown below the univeral guidelines. 
   * The selected languages are stored in a cookie so that a user can select the languages they are interested in and when they browse the documentation, the language-specific documentation for that language is always shown.
+  
+  
+ * _Construction_ pages and _relation/POS_ pages:
+  * Markdown-formatted pages similar to current relation pages.
+  * Examples are no longer part of the markup of the page but instead embedded from example pages (allows for a more structured search and reusing of examples on multiple pages).
+  
+ * _Example_ pages:
+  * Structured page with the following information:
+    * Example in CONLL-U or SD format
+    * Language
+    * "Univesally-relevant": A flag that indicates whether this example is intended to demonstrate something that is relevant for multiple languages.
+    * (optional): Discussion of the example
+    * "Links" to construction/relation/tag pages. 
+ 
+ * _General pages_:
+   * Markdown-formatted pages that allow embedding of examples
+   
+ * "_Treebank readme_":
+   * Markdown-formatted pages that follow a template and allow embedding of examples
+ 
+ 
+  
+  
+  
+  (I deliberatly did not mention morphological featues. As Dan pointed out, this format might not work as well for morphological features, as, for example, there are a large number of cases but most of them are irrelevant for most languages, and a user might not want to read about all of them when they are only interested in the values for a particular language.)
  
