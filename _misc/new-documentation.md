@@ -35,16 +35,16 @@ udver: '2'
   
   
  * _Construction_ pages and _relation/POS_ pages:
-  * Markdown-formatted pages similar to current relation pages.
-  * Examples are no longer part of the markup of the page but instead embedded from example pages (allows for a more structured search and reusing of examples on multiple pages).
+   * Markdown-formatted pages similar to current relation pages.
+   * Examples are no longer part of the markup of the page but instead embedded from example pages (allows for a more structured search and reusing of examples on multiple pages).
   
  * _Example_ pages:
-  * Structured page with the following information:
-    * Example in CONLL-U or SD format
-    * Language
-    * "Univesally-relevant": A flag that indicates whether this example is intended to demonstrate something that is relevant for multiple languages.
-    * (optional): Discussion of the example
-    * "Links" to construction/relation/tag pages. 
+   * Structured page with the following information:
+     * Example in CONLL-U or SD format
+     * Language
+     * "Univesally-relevant": A flag that indicates whether this example is intended to demonstrate something that is relevant for multiple languages.
+     * (optional): Discussion of the example
+     * "Links" to construction/relation/tag pages. 
  
  * _General pages_:
    * Markdown-formatted pages that allow embedding of examples
