@@ -52,6 +52,9 @@ udver: '2'
  * "_Treebank readme_":
    * Markdown-formatted pages that follow a template and allow embedding of examples
  
+ * Link between examples and constructions:
+   * Example pages show links to the constructions/relations that are relevant for the example.
+   * One can browse through the examples for selected languages that are relevant for a construction/relation.
  
  * Search:
    The search can be used to perform a full-text search of the documentation and to search for examples within the documentation.
