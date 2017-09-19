@@ -19,7 +19,7 @@ Pisa, September 18, 2017
 
 # Documentation
 
-(see also list of issues/ideas on this page)
+(see also list of issues/ideas on [this page](/misc/new-documentation.html))
 
 * There is a consensus that the website should be organized around constructions. This should make it easier to find how a construction should be analyzed and should provide a more holistic view on analysis (E.g., passives in English are purely a dependency phenomenon, whereas passives in Swedish concern dependencies and morphological features)
 * Majority of the discussion so far focused on how the website would be most useful for UD contributors. We should also consider other use cases and make sure the website also meets other users' needs.
