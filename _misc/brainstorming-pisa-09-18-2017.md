@@ -1,3 +1,10 @@
+---
+layout: base
+title:  'UD Brainstorming Meeting at Depling in Pisa'
+udver: '2'
+---
+
+
 # UD Brainstorming Meeting
 Pisa, September 18, 2017
 
