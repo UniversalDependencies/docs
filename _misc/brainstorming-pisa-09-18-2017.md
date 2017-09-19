@@ -10,14 +10,14 @@ Pisa, September 18, 2017
 
 ## Discussion points
 
-* Documentation
-* Constructions
-* Multi-word expressions
-* Treebank naming / flags
-* How to use the repositories?
-* Enhanced Dependencies
+* [Documentation](#documentation)
+* [Constructions](#constructions)
+* [Multi-word expressions](#multi-word-expressions)
+* [Treebank naming / flags](#flags)
+* [How to use the repositories?](#how-to-use-the-repositories)
+* [Enhanced dependencies](#enhanced-dependencies)
 
-# Documentation
+## Documentation
 
 (see also list of issues/ideas on [this page](/misc/new-documentation.html))
 
