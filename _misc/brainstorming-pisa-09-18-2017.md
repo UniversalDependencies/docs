@@ -33,4 +33,6 @@ Pisa, September 18, 2017
 * The search should be improved so that one can search for examples in the documentation.
 * We should consider having tags for pages to make it easier to find constructions etc.
 * First step should be to define the use cases and then go from there.
-* Working group: Filip Ginter, Dan Zeman, Alexandre Rademaker, Teresa Lynn, Sylvain Kahane, Jenna Kanerva, Marie-Catherine de Marneffe, Sebastian Schuster
+
+
+* **Working group**: Filip Ginter, Dan Zeman, Alexandre Rademaker, Teresa Lynn, Sylvain Kahane, Jenna Kanerva, Marie-Catherine de Marneffe, Sebastian Schuster
