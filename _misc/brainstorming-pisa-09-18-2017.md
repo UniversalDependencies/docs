@@ -69,6 +69,7 @@ Pisa, September 18, 2017
 		* Complex predicates (maybe part of MWEs?) - ?
 		* POS tags - Simonetta Montemagni
 		* Names - Joakim Nivre
+		* Apposition - ?
 
 
 
