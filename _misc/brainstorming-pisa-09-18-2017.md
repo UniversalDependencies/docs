@@ -56,7 +56,7 @@ Pisa, September 18, 2017
 	* Some documentation already exists:
 		* Coordination - ?
 		* Ellipsis - ?
-		* Nonverbal predicates - ?
+		* Nonverbal predicates with or without copula - ?
 		* Multi-word expression - Kim Gerdes (should perhaps be harmonized with work from PARSEME cost action)
 		* Comparative constructions - Dan Zeman
 		* Parataxis - Sylvain Kahane
