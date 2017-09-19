@@ -12,10 +12,10 @@ Pisa, September 18, 2017
 
 * Documentation
 * Constructions
-* Enhanced Dependencies
 * Multi-word expressions
 * Treebank naming / flags
 * How to use the repositories?
+* Enhanced Dependencies
 
 # Documentation
 
@@ -69,3 +69,32 @@ Pisa, September 18, 2017
 		* Complex predicates (maybe part of MWEs?) - ?
 		* POS tags - Simonetta Montemagni
 		* Names - Joakim Nivre
+
+
+
+## Multi-word expressions
+
+* Unclear what to do about POS tags of fixed expressions such as _in spite of_. Should we use the same tag for all parts of a fixed expression?
+* Unclear what to do about names. When should we provide a syntactic analysis for things like movie titles and when should it be a `flat` construction?
+
+* **Working group**: Kim Gerdes (as part of the "MWE" group above), Joakim Nivre (as part of the "names" group above).
+
+## Flags
+
+* The use of flags is not always appropriate for treebanks and in some cases, it can also be interpreted as taking a political stance.
+* **Decision**: Treebank maintainers can decide whether they want to have a flag displayed next to the treebank or not.
+
+## How to use the repositories?
+
+* Some groups use their own repositories for developing the treebanks and just use the UD repo to release their treebanks, while other groups use the UD repo for development and release.
+* There should be guidelines on how the official UD repositories can be used for developing the treebanks.
+* **Working Group**: Dan Zeman, Filip Ginter
+
+## Enhanced Dependencies:
+
+* Guidelines are not as mature as for basic dependencies at this point, especially for languages other than English.
+* There exist multiple proposals to go beyond what the v2 guidelines say (e.g., Candito et al. (2017)), and maybe we want to incorporate some of these into the official guidelines.
+* There might be an enhanced dependencies parsing track at the UD Shared Task 2018.
+* There is big interest from the NLP community in further developing the enhanced representation and providing it for more languages. (according to informal survey at EMNLP by Joakim).
+
+**Working Group**: Sebastian Schuster, Marie Candito
