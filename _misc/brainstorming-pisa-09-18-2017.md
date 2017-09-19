@@ -92,7 +92,7 @@ Pisa, September 18, 2017
 
 **Working Group**: Dan Zeman, Filip Ginter
 
-## Enhanced Dependencies:
+## Enhanced dependencies
 
 * Guidelines are not as mature as for basic dependencies at this point, especially for languages other than English.
 * There exist multiple proposals to go beyond what the v2 guidelines say (e.g., Candito et al. (2017)), and maybe we want to incorporate some of these into the official guidelines.
