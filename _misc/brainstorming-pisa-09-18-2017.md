@@ -36,7 +36,7 @@ Pisa, September 18, 2017
 * It is hard to find "controversial" sentences in treebanks. Often maintainers are uncertain about certain analyses but there is no way to flag that. There should be a method to flag these sentences in treebanks.
 
 
-* **Working group**: Filip Ginter, Dan Zeman, Alexandre Rademaker, Teresa Lynn, Sylvain Kahane, Jenna Kanerva, Marie-Catherine de Marneffe, Sebastian Schuster
+ **Working group**: Filip Ginter, Dan Zeman, Alexandre Rademaker, Teresa Lynn, Sylvain Kahane, Jenna Kanerva, Marie-Catherine de Marneffe, Sebastian Schuster
 
 
 
@@ -77,18 +77,20 @@ Pisa, September 18, 2017
 * Unclear what to do about POS tags of fixed expressions such as _in spite of_. Should we use the same tag for all parts of a fixed expression?
 * Unclear what to do about names. When should we provide a syntactic analysis for things like movie titles and when should it be a `flat` construction?
 
-* **Working group**: Kim Gerdes (as part of the "MWE" group above), Joakim Nivre (as part of the "names" group above).
+ **Working group**: Kim Gerdes (as part of the "MWE" group above), Joakim Nivre (as part of the "names" group above).
 
 ## Flags
 
 * The use of flags is not always appropriate for treebanks and in some cases, it can also be interpreted as taking a political stance.
-* **Decision**: Treebank maintainers can decide whether they want to have a flag displayed next to the treebank or not.
+
+**Decision**: Treebank maintainers can decide whether they want to have a flag displayed next to the treebank or not.
 
 ## How to use the repositories?
 
 * Some groups use their own repositories for developing the treebanks and just use the UD repo to release their treebanks, while other groups use the UD repo for development and release.
 * There should be guidelines on how the official UD repositories can be used for developing the treebanks.
-* **Working Group**: Dan Zeman, Filip Ginter
+
+**Working Group**: Dan Zeman, Filip Ginter
 
 ## Enhanced Dependencies:
 
