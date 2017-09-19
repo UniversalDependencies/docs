@@ -10,7 +10,7 @@
 * BUT: When considering new analyses/analyses that differ from current annotation practices, consider "Ginter's razor". Complex changes should only be made when they substantially improve things.
 * Constructions should have a holistic view on different annotation levels. They should not just be about dependency relations, but also discuss POS tags and morphology.
 
-* List of some constructions that should be discussed (and person responsible for working out the documentation):
+* List of some constructions that should be discussed (and person responsible for working out a proposal):
 	* Some documentation already exists:
 		* Coordination - ?
 		* Ellipsis - ?
