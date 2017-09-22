@@ -1872,6 +1872,22 @@
     "lang_name": "Italian-ParTUT"
   }, 
   {
+    "lang_code": "it_postwita", 
+    "contributors": [
+      {
+        "full": "Cristina Bosco", 
+        "last": "Bosco", 
+        "first": "Cristina"
+      }, 
+      {
+        "full": "Manuela Sanguinetti", 
+        "last": "Sanguinetti", 
+        "first": "Manuela"
+      }
+    ], 
+    "lang_name": "Italian-PoSTWITA"
+  }, 
+  {
     "lang_code": "ja", 
     "contributors": [
       {
@@ -3228,8 +3244,8 @@
     "lang_code": "te", 
     "contributors": [
       {
-        "full": "Sowmya V.B.", 
-        "last": "V.B.", 
+        "full": "Sowmya Vajjala", 
+        "last": "Vajjala", 
         "first": "Sowmya"
       }, 
       {
