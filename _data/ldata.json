@@ -80,22 +80,6 @@
     "lang_name": "Arabic"
   }, 
   {
-    "lang_code": "ar_ldc", 
-    "contributors": [
-      {
-        "full": "Nizar Habash", 
-        "last": "Habash", 
-        "first": "Nizar"
-      }, 
-      {
-        "full": "Dima Taji", 
-        "last": "Taji", 
-        "first": "Dima"
-      }
-    ], 
-    "lang_name": "Arabic-LDC"
-  }, 
-  {
     "lang_code": "ar_nyuad", 
     "contributors": [
       {
