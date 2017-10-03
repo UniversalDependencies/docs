@@ -1,6 +1,7 @@
 ---
 layout: base
 title: 'Tagset ru::syntagrus conversion to universal POS tags and features'
+udver: '2'
 ---
 
 <a href="index.html">all tables</a>
@@ -69,7 +70,7 @@ Tagset <tt>ru::syntagrus</tt>, total 374 tags.
   <tr style="background:lightgray"><td>ADV СРАВ</td><td>=&gt;</td><td>ADV</td><td>Degree=Cmp</td><td><em>больше, меньше, быстрей, дальше, позже</em></td></tr>
   <tr><td>ADV СРАВ СМЯГ</td><td>=&gt;</td><td>ADV</td><td>Degree=Cmp</td><td><em>поближе, поскорее, подальше</em></td></tr>
   <tr style="background:lightgray"><td>COM СЛ</td><td>=&gt;</td><td>X</td><td>Hyph=Yes</td><td><em>Про</em></td></tr>
-  <tr><td>CONJ</td><td>=&gt;</td><td>CONJ</td><td>_</td><td><em>и, что, а, как, но</em></td></tr>
+  <tr><td>CONJ</td><td>=&gt;</td><td>CCONJ</td><td>_</td><td><em>и, что, а, как, но</em></td></tr>
   <tr style="background:lightgray"><td>INTJ</td><td>=&gt;</td><td>INTJ</td><td>_</td><td><em>а, Ах, ого-го, Стоп, Ну-ну</em></td></tr>
   <tr><td>NID</td><td>=&gt;</td><td>X</td><td>_</td><td><em>,, ., ", -,  -</em></td></tr>
   <tr style="background:lightgray"><td>NUM</td><td>=&gt;</td><td>NUM</td><td>_</td><td><em>20, 2003, 2001, 5, 12</em></td></tr>
@@ -234,8 +235,8 @@ Tagset <tt>ru::syntagrus</tt>, total 374 tags.
   <tr><td>S МУЖ НЕОД СЛ</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Gender=Masc|Hyph=Yes</td><td><em>онлайн, Северо, целеуказателем, бизнес, тренинг</em></td></tr>
   <tr style="background:lightgray"><td>S МУЖ ОД СЛ</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Anim|Gender=Masc|Hyph=Yes</td><td><em>робото</em></td></tr>
   <tr><td>S СРЕД НЕОД СЛ</td><td>=&gt;</td><td>NOUN</td><td>Animacy=Inan|Gender=Neut|Hyph=Yes</td><td><em>ИТ, радио</em></td></tr>
-  <tr style="background:lightgray"><td>V НЕСОВ ДЕЕПР НЕПРОШ</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Tense=Fut,Pres|VerbForm=Trans</td><td><em>глядя, понимая, держа, говоря, пригибаясь</em></td></tr>
-  <tr><td>V НЕСОВ ДЕЕПР ПРОШ</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Tense=Past|VerbForm=Trans</td><td><em>Исследовав</em></td></tr>
+  <tr style="background:lightgray"><td>V НЕСОВ ДЕЕПР НЕПРОШ</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Tense=Fut,Pres|VerbForm=Conv</td><td><em>глядя, понимая, держа, говоря, пригибаясь</em></td></tr>
+  <tr><td>V НЕСОВ ДЕЕПР ПРОШ</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Tense=Past|VerbForm=Conv</td><td><em>Исследовав</em></td></tr>
   <tr style="background:lightgray"><td>V НЕСОВ ИЗЪЯВ НАСТ ЕД 2-Л</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin</td><td><em>есть</em></td></tr>
   <tr><td>V НЕСОВ ИЗЪЯВ НАСТ ЕД 3-Л</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin</td><td><em>есть, </em></td></tr>
   <tr style="background:lightgray"><td>V НЕСОВ ИЗЪЯВ НАСТ МН 3-Л</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin</td><td><em>есть</em></td></tr>
@@ -320,9 +321,9 @@ Tagset <tt>ru::syntagrus</tt>, total 374 tags.
   <tr><td>V НЕСОВ СТРАД ПРИЧ ПРОШ КР ЕД СРЕД</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Gender=Neut|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass</td><td><em>говорено</em></td></tr>
   <tr style="background:lightgray"><td>V НЕСОВ СТРАД ПРИЧ ПРОШ КР МН</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Number=Plur|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass</td><td><em>ранены</em></td></tr>
   <tr><td>V НЕСОВ СТРАД ПРИЧ ПРОШ МН ИМ</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Case=Nom|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass</td><td><em>использовавшиеся</em></td></tr>
-  <tr style="background:lightgray"><td>V СОВ ДЕЕПР НЕПРОШ</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Tense=Fut,Pres|VerbForm=Trans</td><td><em>прицелясь</em></td></tr>
-  <tr><td>V СОВ ДЕЕПР ПРОШ</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Tense=Past|VerbForm=Trans</td><td><em>взяв, поняв, склонив, согнувшись, Оторвавшись</em></td></tr>
-  <tr style="background:lightgray"><td>V СОВ ДЕЕПР ПРОШ НЕПРАВ</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Tense=Past|VerbForm=Trans</td><td><em>Притопав</em></td></tr>
+  <tr style="background:lightgray"><td>V СОВ ДЕЕПР НЕПРОШ</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Tense=Fut,Pres|VerbForm=Conv</td><td><em>прицелясь</em></td></tr>
+  <tr><td>V СОВ ДЕЕПР ПРОШ</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Tense=Past|VerbForm=Conv</td><td><em>взяв, поняв, склонив, согнувшись, Оторвавшись</em></td></tr>
+  <tr style="background:lightgray"><td>V СОВ ДЕЕПР ПРОШ НЕПРАВ</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Tense=Past|VerbForm=Conv</td><td><em>Притопав</em></td></tr>
   <tr><td>V СОВ ИЗЪЯВ НЕПРОШ ЕД 1-Л</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Fut,Pres|VerbForm=Fin</td><td><em>буду, упаду, стану, объясню, подложу</em></td></tr>
   <tr style="background:lightgray"><td>V СОВ ИЗЪЯВ НЕПРОШ ЕД 1-Л НЕСТАНД</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Fut,Pres|Typo=Yes|VerbForm=Fin</td><td><em>абэспэчу</em></td></tr>
   <tr><td>V СОВ ИЗЪЯВ НЕПРОШ ЕД 2-Л</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Fut,Pres|VerbForm=Fin</td><td><em>поедешь, Задержишь, оставишь, оберешься, Возьмешь</em></td></tr>

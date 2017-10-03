@@ -1,6 +1,7 @@
 ---
 layout: base
 title: 'Tagset ro::rdt conversion to universal POS tags and features'
+udver: '2'
 ---
 
 <a href="index.html">all tables</a>
@@ -24,7 +25,7 @@ Tagset <tt>ro::rdt</tt>, total 20 tags.
   <tr><td>art. nehot.</td><td>=&gt;</td><td>DET</td><td>Definite=Ind|PronType=Art</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>art. poses.</td><td>=&gt;</td><td>DET</td><td>Poss=Yes|PronType=Art</td><td><em></em></td></tr>
   <tr><td>conj. aux.</td><td>=&gt;</td><td>SCONJ</td><td>_</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>conj. coord.</td><td>=&gt;</td><td>CONJ</td><td>_</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>conj. coord.</td><td>=&gt;</td><td>CCONJ</td><td>_</td><td><em></em></td></tr>
   <tr><td>numeral</td><td>=&gt;</td><td>NUM</td><td>_</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>prepozitie</td><td>=&gt;</td><td>ADP</td><td>AdpType=Prep</td><td><em></em></td></tr>
   <tr><td>pron. dem.</td><td>=&gt;</td><td>DET</td><td>PronType=Dem</td><td><em></em></td></tr>
@@ -35,5 +36,5 @@ Tagset <tt>ro::rdt</tt>, total 20 tags.
   <tr style="background:lightgray"><td>verb aux.</td><td>=&gt;</td><td>AUX</td><td>_</td><td><em></em></td></tr>
   <tr><td>verb la infinitiv</td><td>=&gt;</td><td>VERB</td><td>VerbForm=Inf</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>verb la participiu</td><td>=&gt;</td><td>VERB</td><td>VerbForm=Part</td><td><em></em></td></tr>
-  <tr><td>verb nepred.</td><td>=&gt;</td><td>VERB</td><td>VerbForm=Inf,Trans</td><td><em></em></td></tr>
+  <tr><td>verb nepred.</td><td>=&gt;</td><td>VERB</td><td>VerbForm=Conv,Inf</td><td><em></em></td></tr>
 </table>
