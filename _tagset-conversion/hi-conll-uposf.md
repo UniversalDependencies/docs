@@ -1,6 +1,7 @@
 ---
 layout: base
 title: 'Tagset hi::conll conversion to universal POS tags and features'
+udver: '2'
 ---
 
 <a href="index.html">all tables</a>
@@ -16,7 +17,7 @@ The table requires manual postprocessing in order to provide accurate and comple
 Tagset <tt>hi::conll</tt>, total 3125 tags.
 
 <table>
-  <tr style="background:lightgray"><td>CC avy gen-|num-|pers-|case-|vib-|tam-|voicetype-</td><td>=&gt;</td><td>CONJ</td><td>_</td><td>कि, और, व, लेकिन, तो</td></tr>
+  <tr style="background:lightgray"><td>CC avy gen-|num-|pers-|case-|vib-|tam-|voicetype-</td><td>=&gt;</td><td>CCONJ</td><td>_</td><td>कि, और, व, लेकिन, तो</td></tr>
   <tr><td>DEM pn gen-|num-pl|pers-3|case-d|vib-|tam-|voicetype-</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Number=Plur|Person=3|PronType=Dem</td><td>ये, जो, वे, यही, यह</td></tr>
   <tr style="background:lightgray"><td>DEM pn gen-|num-pl|pers-3|case-o|vib-|tam-|voicetype-</td><td>=&gt;</td><td>DET</td><td>Case=Acc|Number=Plur|Person=3|PronType=Dem</td><td>इन, उन, जिन, उन्हीं, इन्हीं</td></tr>
   <tr><td>DEM pn gen-|num-sg|pers-3|case-d|vib-|tam-|voicetype-</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Number=Sing|Person=3|PronType=Dem</td><td>यह, जो, इस, यही, वह</td></tr>
@@ -37,7 +38,7 @@ Tagset <tt>hi::conll</tt>, total 3125 tags.
   <tr style="background:lightgray"><td>JJC adj gen-|num-|pers-|case-d|vib-|tam-|voicetype-</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom</td><td>गैर, उच्च, अस्त, ए, ग़ैर</td></tr>
   <tr><td>JJC adj gen-|num-|pers-|case-o|vib-|tam-|voicetype-</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc</td><td>उच्च, शाकाहार, गैर, हवाई, पदस्थ</td></tr>
   <tr style="background:lightgray"><td>JJC adj gen-|num-|pers-|case-|vib-|tam-|voicetype-</td><td>=&gt;</td><td>ADJ</td><td>_</td><td>गैर, उत्तरी, उच्च, अस्त, तितर</td></tr>
-  <tr><td>NEG avy gen-|num-|pers-|case-|vib-|tam-|voicetype-</td><td>=&gt;</td><td>PART</td><td>Negative=Neg|PronType=Neg</td><td>नहीं, न, बिना, ना, बगैर</td></tr>
+  <tr><td>NEG avy gen-|num-|pers-|case-|vib-|tam-|voicetype-</td><td>=&gt;</td><td>PART</td><td>Polarity=Neg|PronType=Neg</td><td>नहीं, न, बिना, ना, बगैर</td></tr>
   <tr style="background:lightgray"><td>NN n gen-f|num-pl|pers-3|case-d|vib-|tam-|voicetype-</td><td>=&gt;</td><td>NOUN</td><td>Case=Nom|Gender=Fem|Number=Plur|Person=3</td><td>तस्वीरें, बार, कंपनियां, महिलाएं, बातें</td></tr>
   <tr><td>NN n gen-f|num-pl|pers-3|case-o|vib-0_का_ओर|tam-|voicetype-</td><td>=&gt;</td><td>NOUN</td><td>Case=Acc|Gender=Fem|Number=Plur|Person=3</td><td>समस्याओं, गतिविधियों, हत्याओं, फसलों</td></tr>
   <tr style="background:lightgray"><td>NN n gen-f|num-pl|pers-3|case-o|vib-0_का_तरफ|tam-|voicetype-</td><td>=&gt;</td><td>NOUN</td><td>Case=Acc|Gender=Fem|Number=Plur|Person=3</td><td>सुविधाओं</td></tr>
@@ -653,19 +654,19 @@ Tagset <tt>hi::conll</tt>, total 3125 tags.
   <tr style="background:lightgray"><td>PRP pn gen-f|num-sg|pers-1|case-o|vib-|tam-kA|voicetype-</td><td>=&gt;</td><td>PRON</td><td>Case=Acc,Gen|Gender=Fem|Number=Sing|Person=1|Poss=Yes|PronType=Prs</td><td></td></tr>
   <tr><td>PRP pn gen-f|num-sg|pers-1|case-o|vib-|tam-|voicetype-</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Gender=Fem|Number=Sing|Person=1|PronType=Prs</td><td></td></tr>
   <tr style="background:lightgray"><td>PRP pn gen-f|num-sg|pers-1|case-o|vib-का|tam-kA|voicetype-</td><td>=&gt;</td><td>PRON</td><td>Case=Acc,Gen|Gender=Fem|Number=Sing|Person=1|Poss=Yes|PronType=Prs</td><td>मेरी</td></tr>
-  <tr><td>PRP pn gen-f|num-sg|pers-2h|case-d|vib-|tam-|voicetype-</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Gender=Fem|Number=Sing|Person=2|Polite=Pol|PronType=Prs</td><td></td></tr>
-  <tr style="background:lightgray"><td>PRP pn gen-f|num-sg|pers-2h|case-o|vib-|tam-kA|voicetype-</td><td>=&gt;</td><td>PRON</td><td>Case=Acc,Gen|Gender=Fem|Number=Sing|Person=2|Polite=Pol|Poss=Yes|PronType=Prs</td><td></td></tr>
-  <tr><td>PRP pn gen-f|num-sg|pers-2h|case-o|vib-|tam-|voicetype-</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Gender=Fem|Number=Sing|Person=2|Polite=Pol|PronType=Prs</td><td></td></tr>
-  <tr style="background:lightgray"><td>PRP pn gen-f|num-sg|pers-2h|case-o|vib-का|tam-kA|voicetype-</td><td>=&gt;</td><td>PRON</td><td>Case=Acc,Gen|Gender=Fem|Number=Sing|Person=2|Polite=Pol|Poss=Yes|PronType=Prs</td><td>आपकी</td></tr>
-  <tr><td>PRP pn gen-f|num-sg|pers-3h|case-d|vib-|tam-|voicetype-</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Gender=Fem|Number=Sing|Person=3|Polite=Pol|PronType=Prs</td><td></td></tr>
-  <tr style="background:lightgray"><td>PRP pn gen-f|num-sg|pers-3h|case-o|vib-0_ओर_से|tam-kA|voicetype-</td><td>=&gt;</td><td>PRON</td><td>Case=Acc,Gen|Gender=Fem|Number=Sing|Person=3|Polite=Pol|Poss=Yes|PronType=Prs</td><td>उनकी</td></tr>
-  <tr><td>PRP pn gen-f|num-sg|pers-3h|case-o|vib-0_तरफ_से|tam-kA|voicetype-</td><td>=&gt;</td><td>PRON</td><td>Case=Acc,Gen|Gender=Fem|Number=Sing|Person=3|Polite=Pol|Poss=Yes|PronType=Prs</td><td>उनकी</td></tr>
-  <tr style="background:lightgray"><td>PRP pn gen-f|num-sg|pers-3h|case-o|vib-0_वजह_से|tam-kA|voicetype-</td><td>=&gt;</td><td>PRON</td><td>Case=Acc,Gen|Gender=Fem|Number=Sing|Person=3|Polite=Pol|Poss=Yes|PronType=Prs</td><td>उनकी</td></tr>
-  <tr><td>PRP pn gen-f|num-sg|pers-3h|case-o|vib-|tam-kA|voicetype-</td><td>=&gt;</td><td>PRON</td><td>Case=Acc,Gen|Gender=Fem|Number=Sing|Person=3|Polite=Pol|Poss=Yes|PronType=Prs</td><td></td></tr>
-  <tr style="background:lightgray"><td>PRP pn gen-f|num-sg|pers-3h|case-o|vib-|tam-ko|voicetype-</td><td>=&gt;</td><td>PRON</td><td>Case=Acc,Dat|Gender=Fem|Number=Sing|Person=3|Polite=Pol|PronType=Prs</td><td></td></tr>
-  <tr><td>PRP pn gen-f|num-sg|pers-3h|case-o|vib-|tam-|voicetype-</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Gender=Fem|Number=Sing|Person=3|Polite=Pol|PronType=Prs</td><td></td></tr>
-  <tr style="background:lightgray"><td>PRP pn gen-f|num-sg|pers-3h|case-o|vib-का|tam-kA|voicetype-</td><td>=&gt;</td><td>PRON</td><td>Case=Acc,Gen|Gender=Fem|Number=Sing|Person=3|Polite=Pol|Poss=Yes|PronType=Prs</td><td>उनकी, इनकी</td></tr>
-  <tr><td>PRP pn gen-f|num-sg|pers-3h|case-o|vib-को|tam-ko|voicetype-</td><td>=&gt;</td><td>PRON</td><td>Case=Acc,Dat|Gender=Fem|Number=Sing|Person=3|Polite=Pol|PronType=Prs</td><td>उनकी</td></tr>
+  <tr><td>PRP pn gen-f|num-sg|pers-2h|case-d|vib-|tam-|voicetype-</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Gender=Fem|Number=Sing|Person=2|Polite=Form|PronType=Prs</td><td></td></tr>
+  <tr style="background:lightgray"><td>PRP pn gen-f|num-sg|pers-2h|case-o|vib-|tam-kA|voicetype-</td><td>=&gt;</td><td>PRON</td><td>Case=Acc,Gen|Gender=Fem|Number=Sing|Person=2|Polite=Form|Poss=Yes|PronType=Prs</td><td></td></tr>
+  <tr><td>PRP pn gen-f|num-sg|pers-2h|case-o|vib-|tam-|voicetype-</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Gender=Fem|Number=Sing|Person=2|Polite=Form|PronType=Prs</td><td></td></tr>
+  <tr style="background:lightgray"><td>PRP pn gen-f|num-sg|pers-2h|case-o|vib-का|tam-kA|voicetype-</td><td>=&gt;</td><td>PRON</td><td>Case=Acc,Gen|Gender=Fem|Number=Sing|Person=2|Polite=Form|Poss=Yes|PronType=Prs</td><td>आपकी</td></tr>
+  <tr><td>PRP pn gen-f|num-sg|pers-3h|case-d|vib-|tam-|voicetype-</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Gender=Fem|Number=Sing|Person=3|Polite=Form|PronType=Prs</td><td></td></tr>
+  <tr style="background:lightgray"><td>PRP pn gen-f|num-sg|pers-3h|case-o|vib-0_ओर_से|tam-kA|voicetype-</td><td>=&gt;</td><td>PRON</td><td>Case=Acc,Gen|Gender=Fem|Number=Sing|Person=3|Polite=Form|Poss=Yes|PronType=Prs</td><td>उनकी</td></tr>
+  <tr><td>PRP pn gen-f|num-sg|pers-3h|case-o|vib-0_तरफ_से|tam-kA|voicetype-</td><td>=&gt;</td><td>PRON</td><td>Case=Acc,Gen|Gender=Fem|Number=Sing|Person=3|Polite=Form|Poss=Yes|PronType=Prs</td><td>उनकी</td></tr>
+  <tr style="background:lightgray"><td>PRP pn gen-f|num-sg|pers-3h|case-o|vib-0_वजह_से|tam-kA|voicetype-</td><td>=&gt;</td><td>PRON</td><td>Case=Acc,Gen|Gender=Fem|Number=Sing|Person=3|Polite=Form|Poss=Yes|PronType=Prs</td><td>उनकी</td></tr>
+  <tr><td>PRP pn gen-f|num-sg|pers-3h|case-o|vib-|tam-kA|voicetype-</td><td>=&gt;</td><td>PRON</td><td>Case=Acc,Gen|Gender=Fem|Number=Sing|Person=3|Polite=Form|Poss=Yes|PronType=Prs</td><td></td></tr>
+  <tr style="background:lightgray"><td>PRP pn gen-f|num-sg|pers-3h|case-o|vib-|tam-ko|voicetype-</td><td>=&gt;</td><td>PRON</td><td>Case=Acc,Dat|Gender=Fem|Number=Sing|Person=3|Polite=Form|PronType=Prs</td><td></td></tr>
+  <tr><td>PRP pn gen-f|num-sg|pers-3h|case-o|vib-|tam-|voicetype-</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Gender=Fem|Number=Sing|Person=3|Polite=Form|PronType=Prs</td><td></td></tr>
+  <tr style="background:lightgray"><td>PRP pn gen-f|num-sg|pers-3h|case-o|vib-का|tam-kA|voicetype-</td><td>=&gt;</td><td>PRON</td><td>Case=Acc,Gen|Gender=Fem|Number=Sing|Person=3|Polite=Form|Poss=Yes|PronType=Prs</td><td>उनकी, इनकी</td></tr>
+  <tr><td>PRP pn gen-f|num-sg|pers-3h|case-o|vib-को|tam-ko|voicetype-</td><td>=&gt;</td><td>PRON</td><td>Case=Acc,Dat|Gender=Fem|Number=Sing|Person=3|Polite=Form|PronType=Prs</td><td>उनकी</td></tr>
   <tr style="background:lightgray"><td>PRP pn gen-f|num-sg|pers-3|case-d|vib-|tam-|voicetype-</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs</td><td></td></tr>
   <tr><td>PRP pn gen-f|num-sg|pers-3|case-o|vib-0_ओर_से|tam-kA|voicetype-</td><td>=&gt;</td><td>PRON</td><td>Case=Acc,Gen|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs</td><td>उसकी, उनकी</td></tr>
   <tr style="background:lightgray"><td>PRP pn gen-f|num-sg|pers-3|case-o|vib-0_ओर|tam-kA|voicetype-</td><td>=&gt;</td><td>PRON</td><td>Case=Acc,Gen|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs</td><td>इसकी</td></tr>
@@ -679,9 +680,9 @@ Tagset <tt>hi::conll</tt>, total 3125 tags.
   <tr style="background:lightgray"><td>PRP pn gen-f|num-|pers-1|case-o|vib-|tam-kA|voicetype-</td><td>=&gt;</td><td>PRON</td><td>Case=Acc,Gen|Gender=Fem|Person=1|Poss=Yes|PronType=Prs</td><td></td></tr>
   <tr><td>PRP pn gen-f|num-|pers-1|case-o|vib-|tam-|voicetype-</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Gender=Fem|Person=1|PronType=Prs</td><td></td></tr>
   <tr style="background:lightgray"><td>PRP pn gen-f|num-|pers-1|case-o|vib-का|tam-kA|voicetype-</td><td>=&gt;</td><td>PRON</td><td>Case=Acc,Gen|Gender=Fem|Person=1|Poss=Yes|PronType=Prs</td><td>मेरी, हमारी</td></tr>
-  <tr><td>PRP pn gen-f|num-|pers-3h|case-o|vib-|tam-kA|voicetype-</td><td>=&gt;</td><td>PRON</td><td>Case=Acc,Gen|Gender=Fem|Person=3|Polite=Pol|Poss=Yes|PronType=Prs</td><td></td></tr>
-  <tr style="background:lightgray"><td>PRP pn gen-f|num-|pers-3h|case-o|vib-|tam-|voicetype-</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Gender=Fem|Person=3|Polite=Pol|PronType=Prs</td><td></td></tr>
-  <tr><td>PRP pn gen-f|num-|pers-3h|case-o|vib-का|tam-kA|voicetype-</td><td>=&gt;</td><td>PRON</td><td>Case=Acc,Gen|Gender=Fem|Person=3|Polite=Pol|Poss=Yes|PronType=Prs</td><td>उनकी</td></tr>
+  <tr><td>PRP pn gen-f|num-|pers-3h|case-o|vib-|tam-kA|voicetype-</td><td>=&gt;</td><td>PRON</td><td>Case=Acc,Gen|Gender=Fem|Person=3|Polite=Form|Poss=Yes|PronType=Prs</td><td></td></tr>
+  <tr style="background:lightgray"><td>PRP pn gen-f|num-|pers-3h|case-o|vib-|tam-|voicetype-</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Gender=Fem|Person=3|Polite=Form|PronType=Prs</td><td></td></tr>
+  <tr><td>PRP pn gen-f|num-|pers-3h|case-o|vib-का|tam-kA|voicetype-</td><td>=&gt;</td><td>PRON</td><td>Case=Acc,Gen|Gender=Fem|Person=3|Polite=Form|Poss=Yes|PronType=Prs</td><td>उनकी</td></tr>
   <tr style="background:lightgray"><td>PRP pn gen-f|num-|pers-3|case-o|vib-0_ओर_से|tam-|voicetype-</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Gender=Fem|Person=3|PronType=Prs</td><td>अपनी</td></tr>
   <tr><td>PRP pn gen-f|num-|pers-3|case-o|vib-|tam-|voicetype-</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Gender=Fem|Person=3|PronType=Prs</td><td></td></tr>
   <tr style="background:lightgray"><td>PRP pn gen-m|num-pl|pers-1|case-d|vib-|tam-|voicetype-</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Gender=Masc|Number=Plur|Person=1|PronType=Prs</td><td>हम</td></tr>
@@ -693,10 +694,10 @@ Tagset <tt>hi::conll</tt>, total 3125 tags.
   <tr style="background:lightgray"><td>PRP pn gen-m|num-pl|pers-1|case-o|vib-|tam-kA|voicetype-</td><td>=&gt;</td><td>PRON</td><td>Case=Acc,Gen|Gender=Masc|Number=Plur|Person=1|Poss=Yes|PronType=Prs</td><td></td></tr>
   <tr><td>PRP pn gen-m|num-pl|pers-1|case-o|vib-|tam-|voicetype-</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Gender=Masc|Number=Plur|Person=1|PronType=Prs</td><td>अपने</td></tr>
   <tr style="background:lightgray"><td>PRP pn gen-m|num-pl|pers-1|case-o|vib-का|tam-kA|voicetype-</td><td>=&gt;</td><td>PRON</td><td>Case=Acc,Gen|Gender=Masc|Number=Plur|Person=1|Poss=Yes|PronType=Prs</td><td>हमारे</td></tr>
-  <tr><td>PRP pn gen-m|num-pl|pers-3h|case-d|vib-|tam-|voicetype-</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Gender=Masc|Number=Plur|Person=3|Polite=Pol|PronType=Prs</td><td></td></tr>
-  <tr style="background:lightgray"><td>PRP pn gen-m|num-pl|pers-3h|case-o|vib-|tam-kA|voicetype-</td><td>=&gt;</td><td>PRON</td><td>Case=Acc,Gen|Gender=Masc|Number=Plur|Person=3|Polite=Pol|Poss=Yes|PronType=Prs</td><td></td></tr>
-  <tr><td>PRP pn gen-m|num-pl|pers-3h|case-o|vib-|tam-|voicetype-</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Gender=Masc|Number=Plur|Person=3|Polite=Pol|PronType=Prs</td><td></td></tr>
-  <tr style="background:lightgray"><td>PRP pn gen-m|num-pl|pers-3h|case-o|vib-का|tam-kA|voicetype-</td><td>=&gt;</td><td>PRON</td><td>Case=Acc,Gen|Gender=Masc|Number=Plur|Person=3|Polite=Pol|Poss=Yes|PronType=Prs</td><td>उनके</td></tr>
+  <tr><td>PRP pn gen-m|num-pl|pers-3h|case-d|vib-|tam-|voicetype-</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Gender=Masc|Number=Plur|Person=3|Polite=Form|PronType=Prs</td><td></td></tr>
+  <tr style="background:lightgray"><td>PRP pn gen-m|num-pl|pers-3h|case-o|vib-|tam-kA|voicetype-</td><td>=&gt;</td><td>PRON</td><td>Case=Acc,Gen|Gender=Masc|Number=Plur|Person=3|Polite=Form|Poss=Yes|PronType=Prs</td><td></td></tr>
+  <tr><td>PRP pn gen-m|num-pl|pers-3h|case-o|vib-|tam-|voicetype-</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Gender=Masc|Number=Plur|Person=3|Polite=Form|PronType=Prs</td><td></td></tr>
+  <tr style="background:lightgray"><td>PRP pn gen-m|num-pl|pers-3h|case-o|vib-का|tam-kA|voicetype-</td><td>=&gt;</td><td>PRON</td><td>Case=Acc,Gen|Gender=Masc|Number=Plur|Person=3|Polite=Form|Poss=Yes|PronType=Prs</td><td>उनके</td></tr>
   <tr><td>PRP pn gen-m|num-pl|pers-3|case-d|vib-|tam-|voicetype-</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Gender=Masc|Number=Plur|Person=3|PronType=Prs</td><td>ऐसे, वे, जो, वैसे</td></tr>
   <tr style="background:lightgray"><td>PRP pn gen-m|num-pl|pers-3|case-o|vib-0_अलावा|tam-ke|voicetype-</td><td>=&gt;</td><td>PRON</td><td>Case=Acc,Gen|Gender=Masc|Number=Plur|Person=3|Poss=Yes|PronType=Prs</td><td>इनके</td></tr>
   <tr><td>PRP pn gen-m|num-pl|pers-3|case-o|vib-0_कारण|tam-ke|voicetype-</td><td>=&gt;</td><td>PRON</td><td>Case=Acc,Gen|Gender=Masc|Number=Plur|Person=3|Poss=Yes|PronType=Prs</td><td>जिसके, जिनके</td></tr>
@@ -720,41 +721,41 @@ Tagset <tt>hi::conll</tt>, total 3125 tags.
   <tr><td>PRP pn gen-m|num-sg|pers-1|case-o|vib-|tam-|voicetype-</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Gender=Masc|Number=Sing|Person=1|PronType=Prs</td><td></td></tr>
   <tr style="background:lightgray"><td>PRP pn gen-m|num-sg|pers-1|case-o|vib-का|tam-kA|voicetype-</td><td>=&gt;</td><td>PRON</td><td>Case=Acc,Gen|Gender=Masc|Number=Sing|Person=1|Poss=Yes|PronType=Prs</td><td>मेरे, मेरा</td></tr>
   <tr><td>PRP pn gen-m|num-sg|pers-1|case-o|vib-के|tam-ke|voicetype-</td><td>=&gt;</td><td>PRON</td><td>Case=Acc,Gen|Gender=Masc|Number=Sing|Person=1|Poss=Yes|PronType=Prs</td><td>मेरे</td></tr>
-  <tr style="background:lightgray"><td>PRP pn gen-m|num-sg|pers-2h|case-d|vib-|tam-|voicetype-</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Gender=Masc|Number=Sing|Person=2|Polite=Pol|PronType=Prs</td><td></td></tr>
-  <tr><td>PRP pn gen-m|num-sg|pers-2h|case-o|vib-0_पास|tam-ke|voicetype-</td><td>=&gt;</td><td>PRON</td><td>Case=Acc,Gen|Gender=Masc|Number=Sing|Person=2|Polite=Pol|Poss=Yes|PronType=Prs</td><td>आपके</td></tr>
-  <tr style="background:lightgray"><td>PRP pn gen-m|num-sg|pers-2h|case-o|vib-0_लिए|tam-ke|voicetype-</td><td>=&gt;</td><td>PRON</td><td>Case=Acc,Gen|Gender=Masc|Number=Sing|Person=2|Polite=Pol|Poss=Yes|PronType=Prs</td><td>आपके</td></tr>
-  <tr><td>PRP pn gen-m|num-sg|pers-2h|case-o|vib-0_सामने|tam-ke|voicetype-</td><td>=&gt;</td><td>PRON</td><td>Case=Acc,Gen|Gender=Masc|Number=Sing|Person=2|Polite=Pol|Poss=Yes|PronType=Prs</td><td>आपके</td></tr>
-  <tr style="background:lightgray"><td>PRP pn gen-m|num-sg|pers-2h|case-o|vib-|tam-kA|voicetype-</td><td>=&gt;</td><td>PRON</td><td>Case=Acc,Gen|Gender=Masc|Number=Sing|Person=2|Polite=Pol|Poss=Yes|PronType=Prs</td><td></td></tr>
-  <tr><td>PRP pn gen-m|num-sg|pers-2h|case-o|vib-|tam-|voicetype-</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Gender=Masc|Number=Sing|Person=2|Polite=Pol|PronType=Prs</td><td></td></tr>
-  <tr style="background:lightgray"><td>PRP pn gen-m|num-sg|pers-2h|case-o|vib-का|tam-kA|voicetype-</td><td>=&gt;</td><td>PRON</td><td>Case=Acc,Gen|Gender=Masc|Number=Sing|Person=2|Polite=Pol|Poss=Yes|PronType=Prs</td><td>आपके, आपका, तुम्हारे</td></tr>
+  <tr style="background:lightgray"><td>PRP pn gen-m|num-sg|pers-2h|case-d|vib-|tam-|voicetype-</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Gender=Masc|Number=Sing|Person=2|Polite=Form|PronType=Prs</td><td></td></tr>
+  <tr><td>PRP pn gen-m|num-sg|pers-2h|case-o|vib-0_पास|tam-ke|voicetype-</td><td>=&gt;</td><td>PRON</td><td>Case=Acc,Gen|Gender=Masc|Number=Sing|Person=2|Polite=Form|Poss=Yes|PronType=Prs</td><td>आपके</td></tr>
+  <tr style="background:lightgray"><td>PRP pn gen-m|num-sg|pers-2h|case-o|vib-0_लिए|tam-ke|voicetype-</td><td>=&gt;</td><td>PRON</td><td>Case=Acc,Gen|Gender=Masc|Number=Sing|Person=2|Polite=Form|Poss=Yes|PronType=Prs</td><td>आपके</td></tr>
+  <tr><td>PRP pn gen-m|num-sg|pers-2h|case-o|vib-0_सामने|tam-ke|voicetype-</td><td>=&gt;</td><td>PRON</td><td>Case=Acc,Gen|Gender=Masc|Number=Sing|Person=2|Polite=Form|Poss=Yes|PronType=Prs</td><td>आपके</td></tr>
+  <tr style="background:lightgray"><td>PRP pn gen-m|num-sg|pers-2h|case-o|vib-|tam-kA|voicetype-</td><td>=&gt;</td><td>PRON</td><td>Case=Acc,Gen|Gender=Masc|Number=Sing|Person=2|Polite=Form|Poss=Yes|PronType=Prs</td><td></td></tr>
+  <tr><td>PRP pn gen-m|num-sg|pers-2h|case-o|vib-|tam-|voicetype-</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Gender=Masc|Number=Sing|Person=2|Polite=Form|PronType=Prs</td><td></td></tr>
+  <tr style="background:lightgray"><td>PRP pn gen-m|num-sg|pers-2h|case-o|vib-का|tam-kA|voicetype-</td><td>=&gt;</td><td>PRON</td><td>Case=Acc,Gen|Gender=Masc|Number=Sing|Person=2|Polite=Form|Poss=Yes|PronType=Prs</td><td>आपके, आपका, तुम्हारे</td></tr>
   <tr><td>PRP pn gen-m|num-sg|pers-2|case-d|vib-|tam-|voicetype-</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Gender=Masc|Number=Sing|Person=2|PronType=Prs</td><td></td></tr>
   <tr style="background:lightgray"><td>PRP pn gen-m|num-sg|pers-2|case-o|vib-0_बारे_में|tam-ke|voicetype-</td><td>=&gt;</td><td>PRON</td><td>Case=Acc,Gen|Gender=Masc|Number=Sing|Person=2|Poss=Yes|PronType=Prs</td><td>तुम्हारे</td></tr>
   <tr><td>PRP pn gen-m|num-sg|pers-2|case-o|vib-|tam-kA|voicetype-</td><td>=&gt;</td><td>PRON</td><td>Case=Acc,Gen|Gender=Masc|Number=Sing|Person=2|Poss=Yes|PronType=Prs</td><td></td></tr>
   <tr style="background:lightgray"><td>PRP pn gen-m|num-sg|pers-2|case-o|vib-|tam-|voicetype-</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Gender=Masc|Number=Sing|Person=2|PronType=Prs</td><td></td></tr>
-  <tr><td>PRP pn gen-m|num-sg|pers-3h|case-d|vib-|tam-|voicetype-</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Gender=Masc|Number=Sing|Person=3|Polite=Pol|PronType=Prs</td><td>वे, वही</td></tr>
-  <tr style="background:lightgray"><td>PRP pn gen-m|num-sg|pers-3h|case-o|vib-0_अलावा|tam-ke|voicetype-</td><td>=&gt;</td><td>PRON</td><td>Case=Acc,Gen|Gender=Masc|Number=Sing|Person=3|Polite=Pol|Poss=Yes|PronType=Prs</td><td>उनके</td></tr>
-  <tr><td>PRP pn gen-m|num-sg|pers-3h|case-o|vib-0_ऊपर|tam-ke|voicetype-</td><td>=&gt;</td><td>PRON</td><td>Case=Acc,Gen|Gender=Masc|Number=Sing|Person=3|Polite=Pol|Poss=Yes|PronType=Prs</td><td>उनके</td></tr>
-  <tr style="background:lightgray"><td>PRP pn gen-m|num-sg|pers-3h|case-o|vib-0_खिलाफ|tam-ke|voicetype-</td><td>=&gt;</td><td>PRON</td><td>Case=Acc,Gen|Gender=Masc|Number=Sing|Person=3|Polite=Pol|Poss=Yes|PronType=Prs</td><td>उनके</td></tr>
-  <tr><td>PRP pn gen-m|num-sg|pers-3h|case-o|vib-0_जैसा|tam-ke|voicetype-</td><td>=&gt;</td><td>PRON</td><td>Case=Acc,Gen|Gender=Masc|Number=Sing|Person=3|Polite=Pol|Poss=Yes|PronType=Prs</td><td>उनके</td></tr>
-  <tr style="background:lightgray"><td>PRP pn gen-m|num-sg|pers-3h|case-o|vib-0_द्वारा|tam-ke|voicetype-</td><td>=&gt;</td><td>PRON</td><td>Case=Acc,Gen|Gender=Masc|Number=Sing|Person=3|Polite=Pol|Poss=Yes|PronType=Prs</td><td>उनके</td></tr>
-  <tr><td>PRP pn gen-m|num-sg|pers-3h|case-o|vib-0_पर|tam-|voicetype-</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Gender=Masc|Number=Sing|Person=3|Polite=Pol|PronType=Prs</td><td>उन</td></tr>
-  <tr style="background:lightgray"><td>PRP pn gen-m|num-sg|pers-3h|case-o|vib-0_पास|tam-ke|voicetype-</td><td>=&gt;</td><td>PRON</td><td>Case=Acc,Gen|Gender=Masc|Number=Sing|Person=3|Polite=Pol|Poss=Yes|PronType=Prs</td><td>उनके</td></tr>
-  <tr><td>PRP pn gen-m|num-sg|pers-3h|case-o|vib-0_बकौल|tam-kA|voicetype-</td><td>=&gt;</td><td>PRON</td><td>Case=Acc,Gen|Gender=Masc|Number=Sing|Person=3|Polite=Pol|Poss=Yes|PronType=Prs</td><td>उनके</td></tr>
-  <tr style="background:lightgray"><td>PRP pn gen-m|num-sg|pers-3h|case-o|vib-0_मुताबिक|tam-ke|voicetype-</td><td>=&gt;</td><td>PRON</td><td>Case=Acc,Gen|Gender=Masc|Number=Sing|Person=3|Polite=Pol|Poss=Yes|PronType=Prs</td><td>उनके</td></tr>
-  <tr><td>PRP pn gen-m|num-sg|pers-3h|case-o|vib-0_लिए|tam-ke|voicetype-</td><td>=&gt;</td><td>PRON</td><td>Case=Acc,Gen|Gender=Masc|Number=Sing|Person=3|Polite=Pol|Poss=Yes|PronType=Prs</td><td>उनके</td></tr>
-  <tr style="background:lightgray"><td>PRP pn gen-m|num-sg|pers-3h|case-o|vib-0_साथ|tam-ke|voicetype-</td><td>=&gt;</td><td>PRON</td><td>Case=Acc,Gen|Gender=Masc|Number=Sing|Person=3|Polite=Pol|Poss=Yes|PronType=Prs</td><td>उनके, इसके</td></tr>
-  <tr><td>PRP pn gen-m|num-sg|pers-3h|case-o|vib-0_हवाला_से|tam-ke|voicetype-</td><td>=&gt;</td><td>PRON</td><td>Case=Acc,Gen|Gender=Masc|Number=Sing|Person=3|Polite=Pol|Poss=Yes|PronType=Prs</td><td>उनके</td></tr>
-  <tr style="background:lightgray"><td>PRP pn gen-m|num-sg|pers-3h|case-o|vib-|tam-kA|voicetype-</td><td>=&gt;</td><td>PRON</td><td>Case=Acc,Gen|Gender=Masc|Number=Sing|Person=3|Polite=Pol|Poss=Yes|PronType=Prs</td><td></td></tr>
-  <tr><td>PRP pn gen-m|num-sg|pers-3h|case-o|vib-|tam-ko|voicetype-</td><td>=&gt;</td><td>PRON</td><td>Case=Acc,Dat|Gender=Masc|Number=Sing|Person=3|Polite=Pol|PronType=Prs</td><td></td></tr>
-  <tr style="background:lightgray"><td>PRP pn gen-m|num-sg|pers-3h|case-o|vib-|tam-ne|voicetype-</td><td>=&gt;</td><td>PRON</td><td>Case=Acc,Erg|Gender=Masc|Number=Sing|Person=3|Polite=Pol|PronType=Prs</td><td></td></tr>
-  <tr><td>PRP pn gen-m|num-sg|pers-3h|case-o|vib-|tam-se|voicetype-</td><td>=&gt;</td><td>PRON</td><td>Case=Acc,Ins|Gender=Masc|Number=Sing|Person=3|Polite=Pol|PronType=Prs</td><td></td></tr>
-  <tr style="background:lightgray"><td>PRP pn gen-m|num-sg|pers-3h|case-o|vib-|tam-|voicetype-</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Gender=Masc|Number=Sing|Person=3|Polite=Pol|PronType=Prs</td><td></td></tr>
-  <tr><td>PRP pn gen-m|num-sg|pers-3h|case-o|vib-का|tam-kA|voicetype-</td><td>=&gt;</td><td>PRON</td><td>Case=Acc,Gen|Gender=Masc|Number=Sing|Person=3|Polite=Pol|Poss=Yes|PronType=Prs</td><td>उनके, उनका, जिनका, इनका, उनकी</td></tr>
-  <tr style="background:lightgray"><td>PRP pn gen-m|num-sg|pers-3h|case-o|vib-का|tam-ke|voicetype-</td><td>=&gt;</td><td>PRON</td><td>Case=Acc,Gen|Gender=Masc|Number=Sing|Person=3|Polite=Pol|Poss=Yes|PronType=Prs</td><td>उनके</td></tr>
-  <tr><td>PRP pn gen-m|num-sg|pers-3h|case-o|vib-के|tam-ke|voicetype-</td><td>=&gt;</td><td>PRON</td><td>Case=Acc,Gen|Gender=Masc|Number=Sing|Person=3|Polite=Pol|Poss=Yes|PronType=Prs</td><td>उनके, जिनके</td></tr>
-  <tr style="background:lightgray"><td>PRP pn gen-m|num-sg|pers-3h|case-o|vib-को|tam-ko|voicetype-</td><td>=&gt;</td><td>PRON</td><td>Case=Acc,Dat|Gender=Masc|Number=Sing|Person=3|Polite=Pol|PronType=Prs</td><td>उन्हें</td></tr>
-  <tr><td>PRP pn gen-m|num-sg|pers-3h|case-o|vib-ने|tam-ne|voicetype-</td><td>=&gt;</td><td>PRON</td><td>Case=Acc,Erg|Gender=Masc|Number=Sing|Person=3|Polite=Pol|PronType=Prs</td><td>उन्होंने</td></tr>
-  <tr style="background:lightgray"><td>PRP pn gen-m|num-sg|pers-3h|case-o|vib-से|tam-se|voicetype-</td><td>=&gt;</td><td>PRON</td><td>Case=Acc,Ins|Gender=Masc|Number=Sing|Person=3|Polite=Pol|PronType=Prs</td><td>उनसे</td></tr>
+  <tr><td>PRP pn gen-m|num-sg|pers-3h|case-d|vib-|tam-|voicetype-</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Gender=Masc|Number=Sing|Person=3|Polite=Form|PronType=Prs</td><td>वे, वही</td></tr>
+  <tr style="background:lightgray"><td>PRP pn gen-m|num-sg|pers-3h|case-o|vib-0_अलावा|tam-ke|voicetype-</td><td>=&gt;</td><td>PRON</td><td>Case=Acc,Gen|Gender=Masc|Number=Sing|Person=3|Polite=Form|Poss=Yes|PronType=Prs</td><td>उनके</td></tr>
+  <tr><td>PRP pn gen-m|num-sg|pers-3h|case-o|vib-0_ऊपर|tam-ke|voicetype-</td><td>=&gt;</td><td>PRON</td><td>Case=Acc,Gen|Gender=Masc|Number=Sing|Person=3|Polite=Form|Poss=Yes|PronType=Prs</td><td>उनके</td></tr>
+  <tr style="background:lightgray"><td>PRP pn gen-m|num-sg|pers-3h|case-o|vib-0_खिलाफ|tam-ke|voicetype-</td><td>=&gt;</td><td>PRON</td><td>Case=Acc,Gen|Gender=Masc|Number=Sing|Person=3|Polite=Form|Poss=Yes|PronType=Prs</td><td>उनके</td></tr>
+  <tr><td>PRP pn gen-m|num-sg|pers-3h|case-o|vib-0_जैसा|tam-ke|voicetype-</td><td>=&gt;</td><td>PRON</td><td>Case=Acc,Gen|Gender=Masc|Number=Sing|Person=3|Polite=Form|Poss=Yes|PronType=Prs</td><td>उनके</td></tr>
+  <tr style="background:lightgray"><td>PRP pn gen-m|num-sg|pers-3h|case-o|vib-0_द्वारा|tam-ke|voicetype-</td><td>=&gt;</td><td>PRON</td><td>Case=Acc,Gen|Gender=Masc|Number=Sing|Person=3|Polite=Form|Poss=Yes|PronType=Prs</td><td>उनके</td></tr>
+  <tr><td>PRP pn gen-m|num-sg|pers-3h|case-o|vib-0_पर|tam-|voicetype-</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Gender=Masc|Number=Sing|Person=3|Polite=Form|PronType=Prs</td><td>उन</td></tr>
+  <tr style="background:lightgray"><td>PRP pn gen-m|num-sg|pers-3h|case-o|vib-0_पास|tam-ke|voicetype-</td><td>=&gt;</td><td>PRON</td><td>Case=Acc,Gen|Gender=Masc|Number=Sing|Person=3|Polite=Form|Poss=Yes|PronType=Prs</td><td>उनके</td></tr>
+  <tr><td>PRP pn gen-m|num-sg|pers-3h|case-o|vib-0_बकौल|tam-kA|voicetype-</td><td>=&gt;</td><td>PRON</td><td>Case=Acc,Gen|Gender=Masc|Number=Sing|Person=3|Polite=Form|Poss=Yes|PronType=Prs</td><td>उनके</td></tr>
+  <tr style="background:lightgray"><td>PRP pn gen-m|num-sg|pers-3h|case-o|vib-0_मुताबिक|tam-ke|voicetype-</td><td>=&gt;</td><td>PRON</td><td>Case=Acc,Gen|Gender=Masc|Number=Sing|Person=3|Polite=Form|Poss=Yes|PronType=Prs</td><td>उनके</td></tr>
+  <tr><td>PRP pn gen-m|num-sg|pers-3h|case-o|vib-0_लिए|tam-ke|voicetype-</td><td>=&gt;</td><td>PRON</td><td>Case=Acc,Gen|Gender=Masc|Number=Sing|Person=3|Polite=Form|Poss=Yes|PronType=Prs</td><td>उनके</td></tr>
+  <tr style="background:lightgray"><td>PRP pn gen-m|num-sg|pers-3h|case-o|vib-0_साथ|tam-ke|voicetype-</td><td>=&gt;</td><td>PRON</td><td>Case=Acc,Gen|Gender=Masc|Number=Sing|Person=3|Polite=Form|Poss=Yes|PronType=Prs</td><td>उनके, इसके</td></tr>
+  <tr><td>PRP pn gen-m|num-sg|pers-3h|case-o|vib-0_हवाला_से|tam-ke|voicetype-</td><td>=&gt;</td><td>PRON</td><td>Case=Acc,Gen|Gender=Masc|Number=Sing|Person=3|Polite=Form|Poss=Yes|PronType=Prs</td><td>उनके</td></tr>
+  <tr style="background:lightgray"><td>PRP pn gen-m|num-sg|pers-3h|case-o|vib-|tam-kA|voicetype-</td><td>=&gt;</td><td>PRON</td><td>Case=Acc,Gen|Gender=Masc|Number=Sing|Person=3|Polite=Form|Poss=Yes|PronType=Prs</td><td></td></tr>
+  <tr><td>PRP pn gen-m|num-sg|pers-3h|case-o|vib-|tam-ko|voicetype-</td><td>=&gt;</td><td>PRON</td><td>Case=Acc,Dat|Gender=Masc|Number=Sing|Person=3|Polite=Form|PronType=Prs</td><td></td></tr>
+  <tr style="background:lightgray"><td>PRP pn gen-m|num-sg|pers-3h|case-o|vib-|tam-ne|voicetype-</td><td>=&gt;</td><td>PRON</td><td>Case=Acc,Erg|Gender=Masc|Number=Sing|Person=3|Polite=Form|PronType=Prs</td><td></td></tr>
+  <tr><td>PRP pn gen-m|num-sg|pers-3h|case-o|vib-|tam-se|voicetype-</td><td>=&gt;</td><td>PRON</td><td>Case=Acc,Ins|Gender=Masc|Number=Sing|Person=3|Polite=Form|PronType=Prs</td><td></td></tr>
+  <tr style="background:lightgray"><td>PRP pn gen-m|num-sg|pers-3h|case-o|vib-|tam-|voicetype-</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Gender=Masc|Number=Sing|Person=3|Polite=Form|PronType=Prs</td><td></td></tr>
+  <tr><td>PRP pn gen-m|num-sg|pers-3h|case-o|vib-का|tam-kA|voicetype-</td><td>=&gt;</td><td>PRON</td><td>Case=Acc,Gen|Gender=Masc|Number=Sing|Person=3|Polite=Form|Poss=Yes|PronType=Prs</td><td>उनके, उनका, जिनका, इनका, उनकी</td></tr>
+  <tr style="background:lightgray"><td>PRP pn gen-m|num-sg|pers-3h|case-o|vib-का|tam-ke|voicetype-</td><td>=&gt;</td><td>PRON</td><td>Case=Acc,Gen|Gender=Masc|Number=Sing|Person=3|Polite=Form|Poss=Yes|PronType=Prs</td><td>उनके</td></tr>
+  <tr><td>PRP pn gen-m|num-sg|pers-3h|case-o|vib-के|tam-ke|voicetype-</td><td>=&gt;</td><td>PRON</td><td>Case=Acc,Gen|Gender=Masc|Number=Sing|Person=3|Polite=Form|Poss=Yes|PronType=Prs</td><td>उनके, जिनके</td></tr>
+  <tr style="background:lightgray"><td>PRP pn gen-m|num-sg|pers-3h|case-o|vib-को|tam-ko|voicetype-</td><td>=&gt;</td><td>PRON</td><td>Case=Acc,Dat|Gender=Masc|Number=Sing|Person=3|Polite=Form|PronType=Prs</td><td>उन्हें</td></tr>
+  <tr><td>PRP pn gen-m|num-sg|pers-3h|case-o|vib-ने|tam-ne|voicetype-</td><td>=&gt;</td><td>PRON</td><td>Case=Acc,Erg|Gender=Masc|Number=Sing|Person=3|Polite=Form|PronType=Prs</td><td>उन्होंने</td></tr>
+  <tr style="background:lightgray"><td>PRP pn gen-m|num-sg|pers-3h|case-o|vib-से|tam-se|voicetype-</td><td>=&gt;</td><td>PRON</td><td>Case=Acc,Ins|Gender=Masc|Number=Sing|Person=3|Polite=Form|PronType=Prs</td><td>उनसे</td></tr>
   <tr><td>PRP pn gen-m|num-sg|pers-3|case-d|vib-|tam-|voicetype-</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs</td><td>ऐसा, वही, परस्पर, यह, जो</td></tr>
   <tr style="background:lightgray"><td>PRP pn gen-m|num-sg|pers-3|case-o|vib-0_अनुसार|tam-ke|voicetype-</td><td>=&gt;</td><td>PRON</td><td>Case=Acc,Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs</td><td>इसके, जिसके</td></tr>
   <tr><td>PRP pn gen-m|num-sg|pers-3|case-o|vib-0_अलावा|tam-ke|voicetype-</td><td>=&gt;</td><td>PRON</td><td>Case=Acc,Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs</td><td>इसके, उनके</td></tr>
@@ -867,10 +868,10 @@ Tagset <tt>hi::conll</tt>, total 3125 tags.
   <tr style="background:lightgray"><td>PRP pn gen-|num-pl|pers-3|case-o|vib-में|tam-meM|voicetype-</td><td>=&gt;</td><td>PRON</td><td>Case=Acc,Ine|Number=Plur|Person=3|PronType=Prs</td><td>इनमें, उनमें, जिनमें</td></tr>
   <tr><td>PRP pn gen-|num-pl|pers-3|case-o|vib-से|tam-se|voicetype-</td><td>=&gt;</td><td>PRON</td><td>Case=Acc,Ins|Number=Plur|Person=3|PronType=Prs</td><td>उनसे, जिनसे, इनसे, सबसे</td></tr>
   <tr style="background:lightgray"><td>PRP pn gen-|num-pl|pers-|case-d|vib-|tam-|voicetype-</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Number=Plur|PronType=Prs</td><td>सभी, सब, अपने</td></tr>
-  <tr><td>PRP pn gen-|num-sg|pers-1h|case-d|vib-|tam-|voicetype-</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Number=Sing|Person=1|Polite=Pol|PronType=Prs</td><td></td></tr>
-  <tr style="background:lightgray"><td>PRP pn gen-|num-sg|pers-1h|case-o|vib-|tam-ne|voicetype-</td><td>=&gt;</td><td>PRON</td><td>Case=Acc,Erg|Number=Sing|Person=1|Polite=Pol|PronType=Prs</td><td></td></tr>
-  <tr><td>PRP pn gen-|num-sg|pers-1h|case-o|vib-|tam-|voicetype-</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Number=Sing|Person=1|Polite=Pol|PronType=Prs</td><td></td></tr>
-  <tr style="background:lightgray"><td>PRP pn gen-|num-sg|pers-1h|case-o|vib-ने|tam-ne|voicetype-</td><td>=&gt;</td><td>PRON</td><td>Case=Acc,Erg|Number=Sing|Person=1|Polite=Pol|PronType=Prs</td><td>हमने</td></tr>
+  <tr><td>PRP pn gen-|num-sg|pers-1h|case-d|vib-|tam-|voicetype-</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Number=Sing|Person=1|Polite=Form|PronType=Prs</td><td></td></tr>
+  <tr style="background:lightgray"><td>PRP pn gen-|num-sg|pers-1h|case-o|vib-|tam-ne|voicetype-</td><td>=&gt;</td><td>PRON</td><td>Case=Acc,Erg|Number=Sing|Person=1|Polite=Form|PronType=Prs</td><td></td></tr>
+  <tr><td>PRP pn gen-|num-sg|pers-1h|case-o|vib-|tam-|voicetype-</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Number=Sing|Person=1|Polite=Form|PronType=Prs</td><td></td></tr>
+  <tr style="background:lightgray"><td>PRP pn gen-|num-sg|pers-1h|case-o|vib-ने|tam-ne|voicetype-</td><td>=&gt;</td><td>PRON</td><td>Case=Acc,Erg|Number=Sing|Person=1|Polite=Form|PronType=Prs</td><td>हमने</td></tr>
   <tr><td>PRP pn gen-|num-sg|pers-1|case-d|vib-|tam-|voicetype-</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Number=Sing|Person=1|PronType=Prs</td><td>मैं</td></tr>
   <tr style="background:lightgray"><td>PRP pn gen-|num-sg|pers-1|case-o|vib-0_जैसा|tam-ke|voicetype-</td><td>=&gt;</td><td>PRON</td><td>Case=Acc,Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs</td><td>मेरे</td></tr>
   <tr><td>PRP pn gen-|num-sg|pers-1|case-o|vib-|tam-kA|voicetype-</td><td>=&gt;</td><td>PRON</td><td>Case=Acc,Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs</td><td></td></tr>
@@ -884,44 +885,44 @@ Tagset <tt>hi::conll</tt>, total 3125 tags.
   <tr><td>PRP pn gen-|num-sg|pers-1|case-o|vib-ने|tam-ne|voicetype-</td><td>=&gt;</td><td>PRON</td><td>Case=Acc,Erg|Number=Sing|Person=1|PronType=Prs</td><td>मैंने, हमने, मैने</td></tr>
   <tr style="background:lightgray"><td>PRP pn gen-|num-sg|pers-1|case-o|vib-में|tam-meM|voicetype-</td><td>=&gt;</td><td>PRON</td><td>Case=Acc,Ine|Number=Sing|Person=1|PronType=Prs</td><td>मुझमें</td></tr>
   <tr><td>PRP pn gen-|num-sg|pers-1|case-o|vib-से|tam-se|voicetype-</td><td>=&gt;</td><td>PRON</td><td>Case=Acc,Ins|Number=Sing|Person=1|PronType=Prs</td><td>मुझसे, हमसे</td></tr>
-  <tr style="background:lightgray"><td>PRP pn gen-|num-sg|pers-2h|case-d|vib-|tam-|voicetype-</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Number=Sing|Person=2|Polite=Pol|PronType=Prs</td><td>आप</td></tr>
-  <tr><td>PRP pn gen-|num-sg|pers-2h|case-o|vib-0_पास|tam-ke|voicetype-</td><td>=&gt;</td><td>PRON</td><td>Case=Acc,Gen|Number=Sing|Person=2|Polite=Pol|Poss=Yes|PronType=Prs</td><td>आपके</td></tr>
-  <tr style="background:lightgray"><td>PRP pn gen-|num-sg|pers-2h|case-o|vib-0_से|tam-|voicetype-</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Number=Sing|Person=2|Polite=Pol|PronType=Prs</td><td>आप</td></tr>
-  <tr><td>PRP pn gen-|num-sg|pers-2h|case-o|vib-|tam-kA|voicetype-</td><td>=&gt;</td><td>PRON</td><td>Case=Acc,Gen|Number=Sing|Person=2|Polite=Pol|Poss=Yes|PronType=Prs</td><td></td></tr>
-  <tr style="background:lightgray"><td>PRP pn gen-|num-sg|pers-2h|case-o|vib-|tam-ko|voicetype-</td><td>=&gt;</td><td>PRON</td><td>Case=Acc,Dat|Number=Sing|Person=2|Polite=Pol|PronType=Prs</td><td></td></tr>
-  <tr><td>PRP pn gen-|num-sg|pers-2h|case-o|vib-|tam-ne|voicetype-</td><td>=&gt;</td><td>PRON</td><td>Case=Acc,Erg|Number=Sing|Person=2|Polite=Pol|PronType=Prs</td><td></td></tr>
-  <tr style="background:lightgray"><td>PRP pn gen-|num-sg|pers-2h|case-o|vib-|tam-se|voicetype-</td><td>=&gt;</td><td>PRON</td><td>Case=Acc,Ins|Number=Sing|Person=2|Polite=Pol|PronType=Prs</td><td></td></tr>
-  <tr><td>PRP pn gen-|num-sg|pers-2h|case-o|vib-|tam-|voicetype-</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Number=Sing|Person=2|Polite=Pol|PronType=Prs</td><td>आप</td></tr>
-  <tr style="background:lightgray"><td>PRP pn gen-|num-sg|pers-2h|case-o|vib-का|tam-kA|voicetype-</td><td>=&gt;</td><td>PRON</td><td>Case=Acc,Gen|Number=Sing|Person=2|Polite=Pol|Poss=Yes|PronType=Prs</td><td>आपके</td></tr>
-  <tr><td>PRP pn gen-|num-sg|pers-2h|case-o|vib-को|tam-ko|voicetype-</td><td>=&gt;</td><td>PRON</td><td>Case=Acc,Dat|Number=Sing|Person=2|Polite=Pol|PronType=Prs</td><td>आपको</td></tr>
-  <tr style="background:lightgray"><td>PRP pn gen-|num-sg|pers-2h|case-o|vib-ने|tam-ne|voicetype-</td><td>=&gt;</td><td>PRON</td><td>Case=Acc,Erg|Number=Sing|Person=2|Polite=Pol|PronType=Prs</td><td>आपने</td></tr>
-  <tr><td>PRP pn gen-|num-sg|pers-2h|case-o|vib-से|tam-se|voicetype-</td><td>=&gt;</td><td>PRON</td><td>Case=Acc,Ins|Number=Sing|Person=2|Polite=Pol|PronType=Prs</td><td>आपसे</td></tr>
+  <tr style="background:lightgray"><td>PRP pn gen-|num-sg|pers-2h|case-d|vib-|tam-|voicetype-</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Number=Sing|Person=2|Polite=Form|PronType=Prs</td><td>आप</td></tr>
+  <tr><td>PRP pn gen-|num-sg|pers-2h|case-o|vib-0_पास|tam-ke|voicetype-</td><td>=&gt;</td><td>PRON</td><td>Case=Acc,Gen|Number=Sing|Person=2|Polite=Form|Poss=Yes|PronType=Prs</td><td>आपके</td></tr>
+  <tr style="background:lightgray"><td>PRP pn gen-|num-sg|pers-2h|case-o|vib-0_से|tam-|voicetype-</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Number=Sing|Person=2|Polite=Form|PronType=Prs</td><td>आप</td></tr>
+  <tr><td>PRP pn gen-|num-sg|pers-2h|case-o|vib-|tam-kA|voicetype-</td><td>=&gt;</td><td>PRON</td><td>Case=Acc,Gen|Number=Sing|Person=2|Polite=Form|Poss=Yes|PronType=Prs</td><td></td></tr>
+  <tr style="background:lightgray"><td>PRP pn gen-|num-sg|pers-2h|case-o|vib-|tam-ko|voicetype-</td><td>=&gt;</td><td>PRON</td><td>Case=Acc,Dat|Number=Sing|Person=2|Polite=Form|PronType=Prs</td><td></td></tr>
+  <tr><td>PRP pn gen-|num-sg|pers-2h|case-o|vib-|tam-ne|voicetype-</td><td>=&gt;</td><td>PRON</td><td>Case=Acc,Erg|Number=Sing|Person=2|Polite=Form|PronType=Prs</td><td></td></tr>
+  <tr style="background:lightgray"><td>PRP pn gen-|num-sg|pers-2h|case-o|vib-|tam-se|voicetype-</td><td>=&gt;</td><td>PRON</td><td>Case=Acc,Ins|Number=Sing|Person=2|Polite=Form|PronType=Prs</td><td></td></tr>
+  <tr><td>PRP pn gen-|num-sg|pers-2h|case-o|vib-|tam-|voicetype-</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Number=Sing|Person=2|Polite=Form|PronType=Prs</td><td>आप</td></tr>
+  <tr style="background:lightgray"><td>PRP pn gen-|num-sg|pers-2h|case-o|vib-का|tam-kA|voicetype-</td><td>=&gt;</td><td>PRON</td><td>Case=Acc,Gen|Number=Sing|Person=2|Polite=Form|Poss=Yes|PronType=Prs</td><td>आपके</td></tr>
+  <tr><td>PRP pn gen-|num-sg|pers-2h|case-o|vib-को|tam-ko|voicetype-</td><td>=&gt;</td><td>PRON</td><td>Case=Acc,Dat|Number=Sing|Person=2|Polite=Form|PronType=Prs</td><td>आपको</td></tr>
+  <tr style="background:lightgray"><td>PRP pn gen-|num-sg|pers-2h|case-o|vib-ने|tam-ne|voicetype-</td><td>=&gt;</td><td>PRON</td><td>Case=Acc,Erg|Number=Sing|Person=2|Polite=Form|PronType=Prs</td><td>आपने</td></tr>
+  <tr><td>PRP pn gen-|num-sg|pers-2h|case-o|vib-से|tam-se|voicetype-</td><td>=&gt;</td><td>PRON</td><td>Case=Acc,Ins|Number=Sing|Person=2|Polite=Form|PronType=Prs</td><td>आपसे</td></tr>
   <tr style="background:lightgray"><td>PRP pn gen-|num-sg|pers-2|case-d|vib-|tam-|voicetype-</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Number=Sing|Person=2|PronType=Prs</td><td></td></tr>
   <tr><td>PRP pn gen-|num-sg|pers-2|case-o|vib-|tam-ne|voicetype-</td><td>=&gt;</td><td>PRON</td><td>Case=Acc,Erg|Number=Sing|Person=2|PronType=Prs</td><td></td></tr>
   <tr style="background:lightgray"><td>PRP pn gen-|num-sg|pers-2|case-o|vib-|tam-|voicetype-</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Number=Sing|Person=2|PronType=Prs</td><td></td></tr>
   <tr><td>PRP pn gen-|num-sg|pers-2|case-o|vib-ने|tam-ne|voicetype-</td><td>=&gt;</td><td>PRON</td><td>Case=Acc,Erg|Number=Sing|Person=2|PronType=Prs</td><td>तुमने, आपने</td></tr>
-  <tr style="background:lightgray"><td>PRP pn gen-|num-sg|pers-3h|case-d|vib-|tam-|voicetype-</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Number=Sing|Person=3|Polite=Pol|PronType=Prs</td><td>वे, वो, ये, वह</td></tr>
-  <tr><td>PRP pn gen-|num-sg|pers-3h|case-o|vib-0_अलावा|tam-ke|voicetype-</td><td>=&gt;</td><td>PRON</td><td>Case=Acc,Gen|Number=Sing|Person=3|Polite=Pol|Poss=Yes|PronType=Prs</td><td>उनके</td></tr>
-  <tr style="background:lightgray"><td>PRP pn gen-|num-sg|pers-3h|case-o|vib-0_खिलाफ|tam-ke|voicetype-</td><td>=&gt;</td><td>PRON</td><td>Case=Acc,Gen|Number=Sing|Person=3|Polite=Pol|Poss=Yes|PronType=Prs</td><td>उनके</td></tr>
-  <tr><td>PRP pn gen-|num-sg|pers-3h|case-o|vib-0_पर|tam-|voicetype-</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Number=Sing|Person=3|Polite=Pol|PronType=Prs</td><td>उन</td></tr>
-  <tr style="background:lightgray"><td>PRP pn gen-|num-sg|pers-3h|case-o|vib-0_पास|tam-ke|voicetype-</td><td>=&gt;</td><td>PRON</td><td>Case=Acc,Gen|Number=Sing|Person=3|Polite=Pol|Poss=Yes|PronType=Prs</td><td>उनके</td></tr>
-  <tr><td>PRP pn gen-|num-sg|pers-3h|case-o|vib-0_मुताबिक|tam-ke|voicetype-</td><td>=&gt;</td><td>PRON</td><td>Case=Acc,Gen|Number=Sing|Person=3|Polite=Pol|Poss=Yes|PronType=Prs</td><td>उनके</td></tr>
-  <tr style="background:lightgray"><td>PRP pn gen-|num-sg|pers-3h|case-o|vib-0_लिए|tam-ke|voicetype-</td><td>=&gt;</td><td>PRON</td><td>Case=Acc,Gen|Number=Sing|Person=3|Polite=Pol|Poss=Yes|PronType=Prs</td><td>उनके</td></tr>
-  <tr><td>PRP pn gen-|num-sg|pers-3h|case-o|vib-0_विरोध_में|tam-ke|voicetype-</td><td>=&gt;</td><td>PRON</td><td>Case=Acc,Gen|Number=Sing|Person=3|Polite=Pol|Poss=Yes|PronType=Prs</td><td>उनके</td></tr>
-  <tr style="background:lightgray"><td>PRP pn gen-|num-sg|pers-3h|case-o|vib-0_साथ|tam-ke|voicetype-</td><td>=&gt;</td><td>PRON</td><td>Case=Acc,Gen|Number=Sing|Person=3|Polite=Pol|Poss=Yes|PronType=Prs</td><td>उनके</td></tr>
-  <tr><td>PRP pn gen-|num-sg|pers-3h|case-o|vib-|tam-kA|voicetype-</td><td>=&gt;</td><td>PRON</td><td>Case=Acc,Gen|Number=Sing|Person=3|Polite=Pol|Poss=Yes|PronType=Prs</td><td></td></tr>
-  <tr style="background:lightgray"><td>PRP pn gen-|num-sg|pers-3h|case-o|vib-|tam-ko|voicetype-</td><td>=&gt;</td><td>PRON</td><td>Case=Acc,Dat|Number=Sing|Person=3|Polite=Pol|PronType=Prs</td><td></td></tr>
-  <tr><td>PRP pn gen-|num-sg|pers-3h|case-o|vib-|tam-meM|voicetype-</td><td>=&gt;</td><td>PRON</td><td>Case=Acc,Ine|Number=Sing|Person=3|Polite=Pol|PronType=Prs</td><td></td></tr>
-  <tr style="background:lightgray"><td>PRP pn gen-|num-sg|pers-3h|case-o|vib-|tam-ne|voicetype-</td><td>=&gt;</td><td>PRON</td><td>Case=Acc,Erg|Number=Sing|Person=3|Polite=Pol|PronType=Prs</td><td></td></tr>
-  <tr><td>PRP pn gen-|num-sg|pers-3h|case-o|vib-|tam-se|voicetype-</td><td>=&gt;</td><td>PRON</td><td>Case=Acc,Ins|Number=Sing|Person=3|Polite=Pol|PronType=Prs</td><td></td></tr>
-  <tr style="background:lightgray"><td>PRP pn gen-|num-sg|pers-3h|case-o|vib-|tam-|voicetype-</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Number=Sing|Person=3|Polite=Pol|PronType=Prs</td><td>वे</td></tr>
-  <tr><td>PRP pn gen-|num-sg|pers-3h|case-o|vib-का|tam-kA|voicetype-</td><td>=&gt;</td><td>PRON</td><td>Case=Acc,Gen|Number=Sing|Person=3|Polite=Pol|Poss=Yes|PronType=Prs</td><td>उनके, उनकी, उनका</td></tr>
-  <tr style="background:lightgray"><td>PRP pn gen-|num-sg|pers-3h|case-o|vib-के|tam-ke|voicetype-</td><td>=&gt;</td><td>PRON</td><td>Case=Acc,Gen|Number=Sing|Person=3|Polite=Pol|Poss=Yes|PronType=Prs</td><td>उनके</td></tr>
-  <tr><td>PRP pn gen-|num-sg|pers-3h|case-o|vib-को|tam-ko|voicetype-</td><td>=&gt;</td><td>PRON</td><td>Case=Acc,Dat|Number=Sing|Person=3|Polite=Pol|PronType=Prs</td><td>उन्हें, उनको, जिन्हें, उनकी, इन्हें</td></tr>
-  <tr style="background:lightgray"><td>PRP pn gen-|num-sg|pers-3h|case-o|vib-ने|tam-ne|voicetype-</td><td>=&gt;</td><td>PRON</td><td>Case=Acc,Erg|Number=Sing|Person=3|Polite=Pol|PronType=Prs</td><td>उन्होंने, जिन्होंने, उसने, उन्होनें</td></tr>
-  <tr><td>PRP pn gen-|num-sg|pers-3h|case-o|vib-ने|tam-|voicetype-</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Number=Sing|Person=3|Polite=Pol|PronType=Prs</td><td>उन्होंने</td></tr>
-  <tr style="background:lightgray"><td>PRP pn gen-|num-sg|pers-3h|case-o|vib-में|tam-meM|voicetype-</td><td>=&gt;</td><td>PRON</td><td>Case=Acc,Ine|Number=Sing|Person=3|Polite=Pol|PronType=Prs</td><td>उनमें</td></tr>
-  <tr><td>PRP pn gen-|num-sg|pers-3h|case-o|vib-से|tam-se|voicetype-</td><td>=&gt;</td><td>PRON</td><td>Case=Acc,Ins|Number=Sing|Person=3|Polite=Pol|PronType=Prs</td><td>उनसे</td></tr>
+  <tr style="background:lightgray"><td>PRP pn gen-|num-sg|pers-3h|case-d|vib-|tam-|voicetype-</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Number=Sing|Person=3|Polite=Form|PronType=Prs</td><td>वे, वो, ये, वह</td></tr>
+  <tr><td>PRP pn gen-|num-sg|pers-3h|case-o|vib-0_अलावा|tam-ke|voicetype-</td><td>=&gt;</td><td>PRON</td><td>Case=Acc,Gen|Number=Sing|Person=3|Polite=Form|Poss=Yes|PronType=Prs</td><td>उनके</td></tr>
+  <tr style="background:lightgray"><td>PRP pn gen-|num-sg|pers-3h|case-o|vib-0_खिलाफ|tam-ke|voicetype-</td><td>=&gt;</td><td>PRON</td><td>Case=Acc,Gen|Number=Sing|Person=3|Polite=Form|Poss=Yes|PronType=Prs</td><td>उनके</td></tr>
+  <tr><td>PRP pn gen-|num-sg|pers-3h|case-o|vib-0_पर|tam-|voicetype-</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Number=Sing|Person=3|Polite=Form|PronType=Prs</td><td>उन</td></tr>
+  <tr style="background:lightgray"><td>PRP pn gen-|num-sg|pers-3h|case-o|vib-0_पास|tam-ke|voicetype-</td><td>=&gt;</td><td>PRON</td><td>Case=Acc,Gen|Number=Sing|Person=3|Polite=Form|Poss=Yes|PronType=Prs</td><td>उनके</td></tr>
+  <tr><td>PRP pn gen-|num-sg|pers-3h|case-o|vib-0_मुताबिक|tam-ke|voicetype-</td><td>=&gt;</td><td>PRON</td><td>Case=Acc,Gen|Number=Sing|Person=3|Polite=Form|Poss=Yes|PronType=Prs</td><td>उनके</td></tr>
+  <tr style="background:lightgray"><td>PRP pn gen-|num-sg|pers-3h|case-o|vib-0_लिए|tam-ke|voicetype-</td><td>=&gt;</td><td>PRON</td><td>Case=Acc,Gen|Number=Sing|Person=3|Polite=Form|Poss=Yes|PronType=Prs</td><td>उनके</td></tr>
+  <tr><td>PRP pn gen-|num-sg|pers-3h|case-o|vib-0_विरोध_में|tam-ke|voicetype-</td><td>=&gt;</td><td>PRON</td><td>Case=Acc,Gen|Number=Sing|Person=3|Polite=Form|Poss=Yes|PronType=Prs</td><td>उनके</td></tr>
+  <tr style="background:lightgray"><td>PRP pn gen-|num-sg|pers-3h|case-o|vib-0_साथ|tam-ke|voicetype-</td><td>=&gt;</td><td>PRON</td><td>Case=Acc,Gen|Number=Sing|Person=3|Polite=Form|Poss=Yes|PronType=Prs</td><td>उनके</td></tr>
+  <tr><td>PRP pn gen-|num-sg|pers-3h|case-o|vib-|tam-kA|voicetype-</td><td>=&gt;</td><td>PRON</td><td>Case=Acc,Gen|Number=Sing|Person=3|Polite=Form|Poss=Yes|PronType=Prs</td><td></td></tr>
+  <tr style="background:lightgray"><td>PRP pn gen-|num-sg|pers-3h|case-o|vib-|tam-ko|voicetype-</td><td>=&gt;</td><td>PRON</td><td>Case=Acc,Dat|Number=Sing|Person=3|Polite=Form|PronType=Prs</td><td></td></tr>
+  <tr><td>PRP pn gen-|num-sg|pers-3h|case-o|vib-|tam-meM|voicetype-</td><td>=&gt;</td><td>PRON</td><td>Case=Acc,Ine|Number=Sing|Person=3|Polite=Form|PronType=Prs</td><td></td></tr>
+  <tr style="background:lightgray"><td>PRP pn gen-|num-sg|pers-3h|case-o|vib-|tam-ne|voicetype-</td><td>=&gt;</td><td>PRON</td><td>Case=Acc,Erg|Number=Sing|Person=3|Polite=Form|PronType=Prs</td><td></td></tr>
+  <tr><td>PRP pn gen-|num-sg|pers-3h|case-o|vib-|tam-se|voicetype-</td><td>=&gt;</td><td>PRON</td><td>Case=Acc,Ins|Number=Sing|Person=3|Polite=Form|PronType=Prs</td><td></td></tr>
+  <tr style="background:lightgray"><td>PRP pn gen-|num-sg|pers-3h|case-o|vib-|tam-|voicetype-</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Number=Sing|Person=3|Polite=Form|PronType=Prs</td><td>वे</td></tr>
+  <tr><td>PRP pn gen-|num-sg|pers-3h|case-o|vib-का|tam-kA|voicetype-</td><td>=&gt;</td><td>PRON</td><td>Case=Acc,Gen|Number=Sing|Person=3|Polite=Form|Poss=Yes|PronType=Prs</td><td>उनके, उनकी, उनका</td></tr>
+  <tr style="background:lightgray"><td>PRP pn gen-|num-sg|pers-3h|case-o|vib-के|tam-ke|voicetype-</td><td>=&gt;</td><td>PRON</td><td>Case=Acc,Gen|Number=Sing|Person=3|Polite=Form|Poss=Yes|PronType=Prs</td><td>उनके</td></tr>
+  <tr><td>PRP pn gen-|num-sg|pers-3h|case-o|vib-को|tam-ko|voicetype-</td><td>=&gt;</td><td>PRON</td><td>Case=Acc,Dat|Number=Sing|Person=3|Polite=Form|PronType=Prs</td><td>उन्हें, उनको, जिन्हें, उनकी, इन्हें</td></tr>
+  <tr style="background:lightgray"><td>PRP pn gen-|num-sg|pers-3h|case-o|vib-ने|tam-ne|voicetype-</td><td>=&gt;</td><td>PRON</td><td>Case=Acc,Erg|Number=Sing|Person=3|Polite=Form|PronType=Prs</td><td>उन्होंने, जिन्होंने, उसने, उन्होनें</td></tr>
+  <tr><td>PRP pn gen-|num-sg|pers-3h|case-o|vib-ने|tam-|voicetype-</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Number=Sing|Person=3|Polite=Form|PronType=Prs</td><td>उन्होंने</td></tr>
+  <tr style="background:lightgray"><td>PRP pn gen-|num-sg|pers-3h|case-o|vib-में|tam-meM|voicetype-</td><td>=&gt;</td><td>PRON</td><td>Case=Acc,Ine|Number=Sing|Person=3|Polite=Form|PronType=Prs</td><td>उनमें</td></tr>
+  <tr><td>PRP pn gen-|num-sg|pers-3h|case-o|vib-से|tam-se|voicetype-</td><td>=&gt;</td><td>PRON</td><td>Case=Acc,Ins|Number=Sing|Person=3|Polite=Form|PronType=Prs</td><td>उनसे</td></tr>
   <tr style="background:lightgray"><td>PRP pn gen-|num-sg|pers-3|case-d|vib-|tam-|voicetype-</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Number=Sing|Person=3|PronType=Prs</td><td>यह, वह, कोई, जो, यही</td></tr>
   <tr><td>PRP pn gen-|num-sg|pers-3|case-o|vib-0_अतिरिक्त|tam-ke|voicetype-</td><td>=&gt;</td><td>PRON</td><td>Case=Acc,Gen|Number=Sing|Person=3|Poss=Yes|PronType=Prs</td><td>इसके</td></tr>
   <tr style="background:lightgray"><td>PRP pn gen-|num-sg|pers-3|case-o|vib-0_अलावा|tam-ke|voicetype-</td><td>=&gt;</td><td>PRON</td><td>Case=Acc,Gen|Number=Sing|Person=3|Poss=Yes|PronType=Prs</td><td>इसके</td></tr>
@@ -986,7 +987,7 @@ Tagset <tt>hi::conll</tt>, total 3125 tags.
   <tr><td>PRP pn gen-|num-sg|pers-|case-d|vib-|tam-|voicetype-</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Number=Sing|PronType=Prs</td><td>अपना, खुद, स्वयं, यह, ऐसा</td></tr>
   <tr style="background:lightgray"><td>PRP pn gen-|num-sg|pers-|case-o|vib-0_से|tam-|voicetype-</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Number=Sing|PronType=Prs</td><td>आप</td></tr>
   <tr><td>PRP pn gen-|num-sg|pers-|case-o|vib-|tam-|voicetype-</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Number=Sing|PronType=Prs</td><td>अपने</td></tr>
-  <tr style="background:lightgray"><td>PRP pn gen-|num-|pers-2h|case-d|vib-|tam-|voicetype-</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Person=2|Polite=Pol|PronType=Prs</td><td>आप</td></tr>
+  <tr style="background:lightgray"><td>PRP pn gen-|num-|pers-2h|case-d|vib-|tam-|voicetype-</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Person=2|Polite=Form|PronType=Prs</td><td>आप</td></tr>
   <tr><td>PRP pn gen-|num-|pers-3|case-d|vib-|tam-|voicetype-</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Person=3|PronType=Prs</td><td>कुछ, जो</td></tr>
   <tr style="background:lightgray"><td>PRP pn gen-|num-|pers-3|case-o|vib-0_बाद|tam-ke|voicetype-</td><td>=&gt;</td><td>PRON</td><td>Case=Acc,Gen|Person=3|Poss=Yes|PronType=Prs</td><td>इसके</td></tr>
   <tr><td>PRP pn gen-|num-|pers-3|case-o|vib-|tam-kA|voicetype-</td><td>=&gt;</td><td>PRON</td><td>Case=Acc,Gen|Person=3|Poss=Yes|PronType=Prs</td><td></td></tr>
@@ -1030,36 +1031,36 @@ Tagset <tt>hi::conll</tt>, total 3125 tags.
   <tr><td>PSP psp gen-m|num-sg|pers-|case-d|vib-|tam-|voicetype-</td><td>=&gt;</td><td>ADP</td><td>AdpType=Post|Case=Nom|Gender=Masc|Number=Sing</td><td>का, वाला, जैसा, के, वाले</td></tr>
   <tr style="background:lightgray"><td>PSP psp gen-m|num-sg|pers-|case-o|vib-|tam-|voicetype-</td><td>=&gt;</td><td>ADP</td><td>AdpType=Post|Case=Acc|Gender=Masc|Number=Sing</td><td>के, वाले, का, जैसे, की</td></tr>
   <tr><td>PSP psp gen-|num-|pers-|case-|vib-|tam-|voicetype-</td><td>=&gt;</td><td>ADP</td><td>AdpType=Post</td><td>में, को, के, ने, से</td></tr>
-  <tr style="background:lightgray"><td>QC num gen-|num-pl|pers-|case-d|vib-|tam-|voicetype-</td><td>=&gt;</td><td>NUM</td><td>Case=Nom|NumType=Card|Number=Plur</td><td>दोनों, सैकड़ों, हजारों, दसियों, लाखों</td></tr>
-  <tr><td>QC num gen-|num-pl|pers-|case-o|vib-0_का_जगह|tam-|voicetype-</td><td>=&gt;</td><td>NUM</td><td>Case=Acc|NumType=Card|Number=Plur</td><td>५, ७</td></tr>
-  <tr style="background:lightgray"><td>QC num gen-|num-pl|pers-|case-o|vib-0_का|tam-|voicetype-</td><td>=&gt;</td><td>NUM</td><td>Case=Acc|NumType=Card|Number=Plur</td><td>९.५, १३, छह, १३०२७</td></tr>
-  <tr><td>QC num gen-|num-pl|pers-|case-o|vib-0_के|tam-|voicetype-</td><td>=&gt;</td><td>NUM</td><td>Case=Acc|NumType=Card|Number=Plur</td><td>९.६, ४०</td></tr>
-  <tr style="background:lightgray"><td>QC num gen-|num-pl|pers-|case-o|vib-0_को|tam-|voicetype-</td><td>=&gt;</td><td>NUM</td><td>Case=Acc|NumType=Card|Number=Plur</td><td>28</td></tr>
-  <tr><td>QC num gen-|num-pl|pers-|case-o|vib-0_तक|tam-|voicetype-</td><td>=&gt;</td><td>NUM</td><td>Case=Acc|NumType=Card|Number=Plur</td><td>५.५</td></tr>
-  <tr style="background:lightgray"><td>QC num gen-|num-pl|pers-|case-o|vib-0_ने|tam-|voicetype-</td><td>=&gt;</td><td>NUM</td><td>Case=Acc|NumType=Card|Number=Plur</td><td>11</td></tr>
-  <tr><td>QC num gen-|num-pl|pers-|case-o|vib-0_में_से|tam-|voicetype-</td><td>=&gt;</td><td>NUM</td><td>Case=Acc|NumType=Card|Number=Plur</td><td>28, तीन</td></tr>
-  <tr style="background:lightgray"><td>QC num gen-|num-pl|pers-|case-o|vib-0_से_का|tam-|voicetype-</td><td>=&gt;</td><td>NUM</td><td>Case=Acc|NumType=Card|Number=Plur</td><td>1000</td></tr>
-  <tr><td>QC num gen-|num-pl|pers-|case-o|vib-0_से|tam-|voicetype-</td><td>=&gt;</td><td>NUM</td><td>Case=Acc|NumType=Card|Number=Plur</td><td>500, ३०००, दोनों, छह, 1000</td></tr>
-  <tr style="background:lightgray"><td>QC num gen-|num-pl|pers-|case-o|vib-|tam-|voicetype-</td><td>=&gt;</td><td>NUM</td><td>Case=Acc|NumType=Card|Number=Plur</td><td>दोनों, तीनों, हजारों, लाख, पांचों</td></tr>
-  <tr><td>QC num gen-|num-pl|pers-|case-|vib-0_का|tam-|voicetype-</td><td>=&gt;</td><td>NUM</td><td>NumType=Card|Number=Plur</td><td>दोनों</td></tr>
-  <tr style="background:lightgray"><td>QC num gen-|num-pl|pers-|case-|vib-0_को|tam-|voicetype-</td><td>=&gt;</td><td>NUM</td><td>NumType=Card|Number=Plur</td><td>दोनों</td></tr>
-  <tr><td>QC num gen-|num-pl|pers-|case-|vib-0_से|tam-|voicetype-</td><td>=&gt;</td><td>NUM</td><td>NumType=Card|Number=Plur</td><td>दोनों</td></tr>
-  <tr style="background:lightgray"><td>QC num gen-|num-pl|pers-|case-|vib-|tam-|voicetype-</td><td>=&gt;</td><td>NUM</td><td>NumType=Card|Number=Plur</td><td>दोनों, तीनों, हजारों, करोड़ों, सैकड़ों</td></tr>
+  <tr style="background:lightgray"><td>QC num gen-|num-pl|pers-|case-d|vib-|tam-|voicetype-</td><td>=&gt;</td><td>NUM</td><td>Case=Nom|Number=Plur|NumType=Card</td><td>दोनों, सैकड़ों, हजारों, दसियों, लाखों</td></tr>
+  <tr><td>QC num gen-|num-pl|pers-|case-o|vib-0_का_जगह|tam-|voicetype-</td><td>=&gt;</td><td>NUM</td><td>Case=Acc|Number=Plur|NumType=Card</td><td>५, ७</td></tr>
+  <tr style="background:lightgray"><td>QC num gen-|num-pl|pers-|case-o|vib-0_का|tam-|voicetype-</td><td>=&gt;</td><td>NUM</td><td>Case=Acc|Number=Plur|NumType=Card</td><td>९.५, १३, छह, १३०२७</td></tr>
+  <tr><td>QC num gen-|num-pl|pers-|case-o|vib-0_के|tam-|voicetype-</td><td>=&gt;</td><td>NUM</td><td>Case=Acc|Number=Plur|NumType=Card</td><td>९.६, ४०</td></tr>
+  <tr style="background:lightgray"><td>QC num gen-|num-pl|pers-|case-o|vib-0_को|tam-|voicetype-</td><td>=&gt;</td><td>NUM</td><td>Case=Acc|Number=Plur|NumType=Card</td><td>28</td></tr>
+  <tr><td>QC num gen-|num-pl|pers-|case-o|vib-0_तक|tam-|voicetype-</td><td>=&gt;</td><td>NUM</td><td>Case=Acc|Number=Plur|NumType=Card</td><td>५.५</td></tr>
+  <tr style="background:lightgray"><td>QC num gen-|num-pl|pers-|case-o|vib-0_ने|tam-|voicetype-</td><td>=&gt;</td><td>NUM</td><td>Case=Acc|Number=Plur|NumType=Card</td><td>11</td></tr>
+  <tr><td>QC num gen-|num-pl|pers-|case-o|vib-0_में_से|tam-|voicetype-</td><td>=&gt;</td><td>NUM</td><td>Case=Acc|Number=Plur|NumType=Card</td><td>28, तीन</td></tr>
+  <tr style="background:lightgray"><td>QC num gen-|num-pl|pers-|case-o|vib-0_से_का|tam-|voicetype-</td><td>=&gt;</td><td>NUM</td><td>Case=Acc|Number=Plur|NumType=Card</td><td>1000</td></tr>
+  <tr><td>QC num gen-|num-pl|pers-|case-o|vib-0_से|tam-|voicetype-</td><td>=&gt;</td><td>NUM</td><td>Case=Acc|Number=Plur|NumType=Card</td><td>500, ३०००, दोनों, छह, 1000</td></tr>
+  <tr style="background:lightgray"><td>QC num gen-|num-pl|pers-|case-o|vib-|tam-|voicetype-</td><td>=&gt;</td><td>NUM</td><td>Case=Acc|Number=Plur|NumType=Card</td><td>दोनों, तीनों, हजारों, लाख, पांचों</td></tr>
+  <tr><td>QC num gen-|num-pl|pers-|case-|vib-0_का|tam-|voicetype-</td><td>=&gt;</td><td>NUM</td><td>Number=Plur|NumType=Card</td><td>दोनों</td></tr>
+  <tr style="background:lightgray"><td>QC num gen-|num-pl|pers-|case-|vib-0_को|tam-|voicetype-</td><td>=&gt;</td><td>NUM</td><td>Number=Plur|NumType=Card</td><td>दोनों</td></tr>
+  <tr><td>QC num gen-|num-pl|pers-|case-|vib-0_से|tam-|voicetype-</td><td>=&gt;</td><td>NUM</td><td>Number=Plur|NumType=Card</td><td>दोनों</td></tr>
+  <tr style="background:lightgray"><td>QC num gen-|num-pl|pers-|case-|vib-|tam-|voicetype-</td><td>=&gt;</td><td>NUM</td><td>Number=Plur|NumType=Card</td><td>दोनों, तीनों, हजारों, करोड़ों, सैकड़ों</td></tr>
   <tr><td>QC num gen-|num-|pers-|case-|vib-|tam-|voicetype-</td><td>=&gt;</td><td>NUM</td><td>NumType=Card</td><td>एक, दो, तीन, करोड़, लाख</td></tr>
   <tr style="background:lightgray"><td>QCC num gen-|num-|pers-|case-|vib-|tam-|voicetype-</td><td>=&gt;</td><td>NUM</td><td>NumType=Card</td><td>एक, तीन, दो, हजार, ५०</td></tr>
   <tr><td>QF avy gen-|num-|pers-|case-|vib-|tam-|voicetype-</td><td>=&gt;</td><td>DET</td><td>PronType=Ind</td><td>कुछ, कई, सभी, कम, ज्यादा</td></tr>
   <tr style="background:lightgray"><td>QFC avy gen-|num-|pers-|case-|vib-|tam-|voicetype-</td><td>=&gt;</td><td>DET</td><td>PronType=Ind</td><td>कुछ, और, ढेर, कई, सबसे</td></tr>
-  <tr><td>QO num gen-f|num-sg|pers-|case-d|vib-|tam-|voicetype-</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Gender=Fem|NumType=Ord|Number=Sing</td><td>दूसरी, पहली, पांचवीं, चौथी, छठी</td></tr>
-  <tr style="background:lightgray"><td>QO num gen-f|num-sg|pers-|case-o|vib-|tam-|voicetype-</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Gender=Fem|NumType=Ord|Number=Sing</td><td>दूसरी, पहली, तीसरी, पांचवी, ११वीं</td></tr>
-  <tr><td>QO num gen-m|num-pl|pers-|case-o|vib-|tam-|voicetype-</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Gender=Masc|NumType=Ord|Number=Plur</td><td>दूसरे, पहले</td></tr>
-  <tr style="background:lightgray"><td>QO num gen-m|num-sg|pers-3|case-d|vib-|tam-|voicetype-</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Gender=Masc|NumType=Ord|Number=Sing|Person=3</td><td>दूसरा</td></tr>
-  <tr><td>QO num gen-m|num-sg|pers-|case-d|vib-|tam-|voicetype-</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Gender=Masc|NumType=Ord|Number=Sing</td><td>पहला, दूसरा, दूसरे, पहले, चौथे</td></tr>
-  <tr style="background:lightgray"><td>QO num gen-m|num-sg|pers-|case-o|vib-|tam-|voicetype-</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Gender=Masc|NumType=Ord|Number=Sing</td><td>दूसरे, पहले, तीसरे, चौथे, सातवें</td></tr>
+  <tr><td>QO num gen-f|num-sg|pers-|case-d|vib-|tam-|voicetype-</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Gender=Fem|Number=Sing|NumType=Ord</td><td>दूसरी, पहली, पांचवीं, चौथी, छठी</td></tr>
+  <tr style="background:lightgray"><td>QO num gen-f|num-sg|pers-|case-o|vib-|tam-|voicetype-</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Gender=Fem|Number=Sing|NumType=Ord</td><td>दूसरी, पहली, तीसरी, पांचवी, ११वीं</td></tr>
+  <tr><td>QO num gen-m|num-pl|pers-|case-o|vib-|tam-|voicetype-</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Gender=Masc|Number=Plur|NumType=Ord</td><td>दूसरे, पहले</td></tr>
+  <tr style="background:lightgray"><td>QO num gen-m|num-sg|pers-3|case-d|vib-|tam-|voicetype-</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Gender=Masc|Number=Sing|NumType=Ord|Person=3</td><td>दूसरा</td></tr>
+  <tr><td>QO num gen-m|num-sg|pers-|case-d|vib-|tam-|voicetype-</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Gender=Masc|Number=Sing|NumType=Ord</td><td>पहला, दूसरा, दूसरे, पहले, चौथे</td></tr>
+  <tr style="background:lightgray"><td>QO num gen-m|num-sg|pers-|case-o|vib-|tam-|voicetype-</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Gender=Masc|Number=Sing|NumType=Ord</td><td>दूसरे, पहले, तीसरे, चौथे, सातवें</td></tr>
   <tr><td>QO num gen-m|num-|pers-|case-d|vib-|tam-|voicetype-</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Gender=Masc|NumType=Ord</td><td>दूसरे</td></tr>
-  <tr style="background:lightgray"><td>QO num gen-|num-pl|pers-|case-o|vib-0_का|tam-|voicetype-</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|NumType=Ord|Number=Plur</td><td>१.५</td></tr>
-  <tr><td>QO num gen-|num-pl|pers-|case-o|vib-0_से|tam-|voicetype-</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|NumType=Ord|Number=Plur</td><td>दोनों</td></tr>
-  <tr style="background:lightgray"><td>QO num gen-|num-pl|pers-|case-o|vib-|tam-|voicetype-</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|NumType=Ord|Number=Plur</td><td></td></tr>
-  <tr><td>QO num gen-|num-pl|pers-|case-|vib-|tam-|voicetype-</td><td>=&gt;</td><td>ADJ</td><td>NumType=Ord|Number=Plur</td><td>दोनों</td></tr>
+  <tr style="background:lightgray"><td>QO num gen-|num-pl|pers-|case-o|vib-0_का|tam-|voicetype-</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Number=Plur|NumType=Ord</td><td>१.५</td></tr>
+  <tr><td>QO num gen-|num-pl|pers-|case-o|vib-0_से|tam-|voicetype-</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Number=Plur|NumType=Ord</td><td>दोनों</td></tr>
+  <tr style="background:lightgray"><td>QO num gen-|num-pl|pers-|case-o|vib-|tam-|voicetype-</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Number=Plur|NumType=Ord</td><td></td></tr>
+  <tr><td>QO num gen-|num-pl|pers-|case-|vib-|tam-|voicetype-</td><td>=&gt;</td><td>ADJ</td><td>Number=Plur|NumType=Ord</td><td>दोनों</td></tr>
   <tr style="background:lightgray"><td>QO num gen-|num-|pers-|case-|vib-|tam-|voicetype-</td><td>=&gt;</td><td>ADJ</td><td>NumType=Ord</td><td>प्रथम, द्वितीय, १४वीं</td></tr>
   <tr><td>RB adv gen-|num-|pers-|case-|vib-|tam-|voicetype-</td><td>=&gt;</td><td>ADV</td><td>_</td><td>फिर, जल्द, वहीं, फिलहाल, लगातार</td></tr>
   <tr style="background:lightgray"><td>RBC adv gen-|num-|pers-|case-|vib-|tam-|voicetype-</td><td>=&gt;</td><td>ADV</td><td>_</td><td>दो, जैसे, आनन, रोक, आड़े</td></tr>
@@ -1113,16 +1114,16 @@ Tagset <tt>hi::conll</tt>, total 3125 tags.
   <tr style="background:lightgray"><td>VAUX v gen-f|num-pl|pers-|case-|vib-या|tam-yA|voicetype-</td><td>=&gt;</td><td>AUX</td><td>Aspect=Perf|Gender=Fem|Number=Plur|VerbForm=Part</td><td>रही, दी, रहीं, हुई, दीं</td></tr>
   <tr><td>VAUX v gen-f|num-sg|pers-1|case-|vib-|tam-gA|voicetype-</td><td>=&gt;</td><td>AUX</td><td>Gender=Fem|Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin</td><td></td></tr>
   <tr style="background:lightgray"><td>VAUX v gen-f|num-sg|pers-1|case-|vib-गा|tam-gA|voicetype-</td><td>=&gt;</td><td>AUX</td><td>Gender=Fem|Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin</td><td>दूंगी, सकूंगी</td></tr>
-  <tr><td>VAUX v gen-f|num-sg|pers-2h|case-|vib-|tam-gA|voicetype-</td><td>=&gt;</td><td>AUX</td><td>Gender=Fem|Mood=Ind|Number=Sing|Person=2|Polite=Pol|Tense=Fut|VerbForm=Fin</td><td></td></tr>
-  <tr style="background:lightgray"><td>VAUX v gen-f|num-sg|pers-2h|case-|vib-गा|tam-gA|voicetype-</td><td>=&gt;</td><td>AUX</td><td>Gender=Fem|Mood=Ind|Number=Sing|Person=2|Polite=Pol|Tense=Fut|VerbForm=Fin</td><td>चाहेंगी</td></tr>
-  <tr><td>VAUX v gen-f|num-sg|pers-3h|case-|vib-|tam-WA|voicetype-</td><td>=&gt;</td><td>AUX</td><td>Gender=Fem|Mood=Ind|Number=Sing|Person=3|Polite=Pol|Tense=Past|VerbForm=Fin</td><td></td></tr>
-  <tr style="background:lightgray"><td>VAUX v gen-f|num-sg|pers-3h|case-|vib-|tam-gA|voicetype-</td><td>=&gt;</td><td>AUX</td><td>Gender=Fem|Mood=Ind|Number=Sing|Person=3|Polite=Pol|Tense=Fut|VerbForm=Fin</td><td></td></tr>
-  <tr><td>VAUX v gen-f|num-sg|pers-3h|case-|vib-|tam-wA|voicetype-</td><td>=&gt;</td><td>AUX</td><td>Aspect=Imp|Gender=Fem|Number=Sing|Person=3|Polite=Pol|VerbForm=Part</td><td></td></tr>
-  <tr style="background:lightgray"><td>VAUX v gen-f|num-sg|pers-3h|case-|vib-|tam-yA|voicetype-</td><td>=&gt;</td><td>AUX</td><td>Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Polite=Pol|VerbForm=Part</td><td></td></tr>
-  <tr><td>VAUX v gen-f|num-sg|pers-3h|case-|vib-गा|tam-gA|voicetype-</td><td>=&gt;</td><td>AUX</td><td>Gender=Fem|Mood=Ind|Number=Sing|Person=3|Polite=Pol|Tense=Fut|VerbForm=Fin</td><td>देंगी, जाएंगी</td></tr>
-  <tr style="background:lightgray"><td>VAUX v gen-f|num-sg|pers-3h|case-|vib-ता|tam-wA|voicetype-</td><td>=&gt;</td><td>AUX</td><td>Aspect=Imp|Gender=Fem|Number=Sing|Person=3|Polite=Pol|VerbForm=Part</td><td>सकती</td></tr>
-  <tr><td>VAUX v gen-f|num-sg|pers-3h|case-|vib-था|tam-WA|voicetype-</td><td>=&gt;</td><td>AUX</td><td>Gender=Fem|Mood=Ind|Number=Sing|Person=3|Polite=Pol|Tense=Past|VerbForm=Fin</td><td>थीं, थी</td></tr>
-  <tr style="background:lightgray"><td>VAUX v gen-f|num-sg|pers-3h|case-|vib-या|tam-yA|voicetype-</td><td>=&gt;</td><td>AUX</td><td>Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Polite=Pol|VerbForm=Part</td><td>रही, चुकी, हुई, सकीं, रहीं</td></tr>
+  <tr><td>VAUX v gen-f|num-sg|pers-2h|case-|vib-|tam-gA|voicetype-</td><td>=&gt;</td><td>AUX</td><td>Gender=Fem|Mood=Ind|Number=Sing|Person=2|Polite=Form|Tense=Fut|VerbForm=Fin</td><td></td></tr>
+  <tr style="background:lightgray"><td>VAUX v gen-f|num-sg|pers-2h|case-|vib-गा|tam-gA|voicetype-</td><td>=&gt;</td><td>AUX</td><td>Gender=Fem|Mood=Ind|Number=Sing|Person=2|Polite=Form|Tense=Fut|VerbForm=Fin</td><td>चाहेंगी</td></tr>
+  <tr><td>VAUX v gen-f|num-sg|pers-3h|case-|vib-|tam-WA|voicetype-</td><td>=&gt;</td><td>AUX</td><td>Gender=Fem|Mood=Ind|Number=Sing|Person=3|Polite=Form|Tense=Past|VerbForm=Fin</td><td></td></tr>
+  <tr style="background:lightgray"><td>VAUX v gen-f|num-sg|pers-3h|case-|vib-|tam-gA|voicetype-</td><td>=&gt;</td><td>AUX</td><td>Gender=Fem|Mood=Ind|Number=Sing|Person=3|Polite=Form|Tense=Fut|VerbForm=Fin</td><td></td></tr>
+  <tr><td>VAUX v gen-f|num-sg|pers-3h|case-|vib-|tam-wA|voicetype-</td><td>=&gt;</td><td>AUX</td><td>Aspect=Imp|Gender=Fem|Number=Sing|Person=3|Polite=Form|VerbForm=Part</td><td></td></tr>
+  <tr style="background:lightgray"><td>VAUX v gen-f|num-sg|pers-3h|case-|vib-|tam-yA|voicetype-</td><td>=&gt;</td><td>AUX</td><td>Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Polite=Form|VerbForm=Part</td><td></td></tr>
+  <tr><td>VAUX v gen-f|num-sg|pers-3h|case-|vib-गा|tam-gA|voicetype-</td><td>=&gt;</td><td>AUX</td><td>Gender=Fem|Mood=Ind|Number=Sing|Person=3|Polite=Form|Tense=Fut|VerbForm=Fin</td><td>देंगी, जाएंगी</td></tr>
+  <tr style="background:lightgray"><td>VAUX v gen-f|num-sg|pers-3h|case-|vib-ता|tam-wA|voicetype-</td><td>=&gt;</td><td>AUX</td><td>Aspect=Imp|Gender=Fem|Number=Sing|Person=3|Polite=Form|VerbForm=Part</td><td>सकती</td></tr>
+  <tr><td>VAUX v gen-f|num-sg|pers-3h|case-|vib-था|tam-WA|voicetype-</td><td>=&gt;</td><td>AUX</td><td>Gender=Fem|Mood=Ind|Number=Sing|Person=3|Polite=Form|Tense=Past|VerbForm=Fin</td><td>थीं, थी</td></tr>
+  <tr style="background:lightgray"><td>VAUX v gen-f|num-sg|pers-3h|case-|vib-या|tam-yA|voicetype-</td><td>=&gt;</td><td>AUX</td><td>Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Polite=Form|VerbForm=Part</td><td>रही, चुकी, हुई, सकीं, रहीं</td></tr>
   <tr><td>VAUX v gen-f|num-sg|pers-3|case-|vib-|tam-WA|voicetype-</td><td>=&gt;</td><td>AUX</td><td>Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin</td><td></td></tr>
   <tr style="background:lightgray"><td>VAUX v gen-f|num-sg|pers-3|case-|vib-|tam-gA|voicetype-</td><td>=&gt;</td><td>AUX</td><td>Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin</td><td></td></tr>
   <tr><td>VAUX v gen-f|num-sg|pers-3|case-|vib-|tam-wA|voicetype-</td><td>=&gt;</td><td>AUX</td><td>Aspect=Imp|Gender=Fem|Number=Sing|Person=3|VerbForm=Part</td><td></td></tr>
@@ -1163,22 +1164,22 @@ Tagset <tt>hi::conll</tt>, total 3125 tags.
   <tr style="background:lightgray"><td>VAUX v gen-m|num-pl|pers-|case-|vib-या१|tam-yA1|voicetype-</td><td>=&gt;</td><td>AUX</td><td>Aspect=Perf|Gender=Masc|Number=Plur|VerbForm=Part</td><td>गए, गये, गईं</td></tr>
   <tr><td>VAUX v gen-m|num-sg|pers-1|case-|vib-|tam-gA|voicetype-</td><td>=&gt;</td><td>AUX</td><td>Gender=Masc|Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin</td><td></td></tr>
   <tr style="background:lightgray"><td>VAUX v gen-m|num-sg|pers-1|case-|vib-गा|tam-gA|voicetype-</td><td>=&gt;</td><td>AUX</td><td>Gender=Masc|Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin</td><td>रहूंगा</td></tr>
-  <tr><td>VAUX v gen-m|num-sg|pers-2h|case-|vib-|tam-gA|voicetype-</td><td>=&gt;</td><td>AUX</td><td>Gender=Masc|Mood=Ind|Number=Sing|Person=2|Polite=Pol|Tense=Fut|VerbForm=Fin</td><td></td></tr>
-  <tr style="background:lightgray"><td>VAUX v gen-m|num-sg|pers-2h|case-|vib-|tam-wA|voicetype-</td><td>=&gt;</td><td>AUX</td><td>Aspect=Imp|Gender=Masc|Number=Sing|Person=2|Polite=Pol|VerbForm=Part</td><td></td></tr>
-  <tr><td>VAUX v gen-m|num-sg|pers-2h|case-|vib-गा|tam-gA|voicetype-</td><td>=&gt;</td><td>AUX</td><td>Gender=Masc|Mood=Ind|Number=Sing|Person=2|Polite=Pol|Tense=Fut|VerbForm=Fin</td><td>जाएंगे</td></tr>
-  <tr style="background:lightgray"><td>VAUX v gen-m|num-sg|pers-2h|case-|vib-ता|tam-wA|voicetype-</td><td>=&gt;</td><td>AUX</td><td>Aspect=Imp|Gender=Masc|Number=Sing|Person=2|Polite=Pol|VerbForm=Part</td><td>सकते</td></tr>
-  <tr><td>VAUX v gen-m|num-sg|pers-3h|case-|vib-|tam-WA|voicetype-</td><td>=&gt;</td><td>AUX</td><td>Gender=Masc|Mood=Ind|Number=Sing|Person=3|Polite=Pol|Tense=Past|VerbForm=Fin</td><td></td></tr>
-  <tr style="background:lightgray"><td>VAUX v gen-m|num-sg|pers-3h|case-|vib-|tam-gA|voicetype-</td><td>=&gt;</td><td>AUX</td><td>Gender=Masc|Mood=Ind|Number=Sing|Person=3|Polite=Pol|Tense=Fut|VerbForm=Fin</td><td></td></tr>
-  <tr><td>VAUX v gen-m|num-sg|pers-3h|case-|vib-|tam-hE|voicetype-</td><td>=&gt;</td><td>AUX</td><td>Gender=Masc|Mood=Ind|Number=Sing|Person=3|Polite=Pol|Tense=Pres|VerbForm=Fin</td><td></td></tr>
-  <tr style="background:lightgray"><td>VAUX v gen-m|num-sg|pers-3h|case-|vib-|tam-wA|voicetype-</td><td>=&gt;</td><td>AUX</td><td>Aspect=Imp|Gender=Masc|Number=Sing|Person=3|Polite=Pol|VerbForm=Part</td><td></td></tr>
-  <tr><td>VAUX v gen-m|num-sg|pers-3h|case-|vib-|tam-yA1|voicetype-</td><td>=&gt;</td><td>AUX</td><td>Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Polite=Pol|VerbForm=Part</td><td></td></tr>
-  <tr style="background:lightgray"><td>VAUX v gen-m|num-sg|pers-3h|case-|vib-|tam-yA|voicetype-</td><td>=&gt;</td><td>AUX</td><td>Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Polite=Pol|VerbForm=Part</td><td></td></tr>
-  <tr><td>VAUX v gen-m|num-sg|pers-3h|case-|vib-गा|tam-gA|voicetype-</td><td>=&gt;</td><td>AUX</td><td>Gender=Masc|Mood=Ind|Number=Sing|Person=3|Polite=Pol|Tense=Fut|VerbForm=Fin</td><td>जाएंगे, रहेंगे, पाएंगे, देंगे, लेंगे</td></tr>
-  <tr style="background:lightgray"><td>VAUX v gen-m|num-sg|pers-3h|case-|vib-ता|tam-wA|voicetype-</td><td>=&gt;</td><td>AUX</td><td>Aspect=Imp|Gender=Masc|Number=Sing|Person=3|Polite=Pol|VerbForm=Part</td><td>सकते, जाते, देते, पड़ते, करते</td></tr>
-  <tr><td>VAUX v gen-m|num-sg|pers-3h|case-|vib-था|tam-WA|voicetype-</td><td>=&gt;</td><td>AUX</td><td>Gender=Masc|Mood=Ind|Number=Sing|Person=3|Polite=Pol|Tense=Past|VerbForm=Fin</td><td>थे</td></tr>
-  <tr style="background:lightgray"><td>VAUX v gen-m|num-sg|pers-3h|case-|vib-या|tam-yA|voicetype-</td><td>=&gt;</td><td>AUX</td><td>Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Polite=Pol|VerbForm=Part</td><td>रहे, चुके, हुए, बैठे, सके</td></tr>
-  <tr><td>VAUX v gen-m|num-sg|pers-3h|case-|vib-या१|tam-yA1|voicetype-</td><td>=&gt;</td><td>AUX</td><td>Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Polite=Pol|VerbForm=Part</td><td>गए, गये</td></tr>
-  <tr style="background:lightgray"><td>VAUX v gen-m|num-sg|pers-3h|case-|vib-है|tam-hE|voicetype-</td><td>=&gt;</td><td>AUX</td><td>Gender=Masc|Mood=Ind|Number=Sing|Person=3|Polite=Pol|Tense=Pres|VerbForm=Fin</td><td>हैं</td></tr>
+  <tr><td>VAUX v gen-m|num-sg|pers-2h|case-|vib-|tam-gA|voicetype-</td><td>=&gt;</td><td>AUX</td><td>Gender=Masc|Mood=Ind|Number=Sing|Person=2|Polite=Form|Tense=Fut|VerbForm=Fin</td><td></td></tr>
+  <tr style="background:lightgray"><td>VAUX v gen-m|num-sg|pers-2h|case-|vib-|tam-wA|voicetype-</td><td>=&gt;</td><td>AUX</td><td>Aspect=Imp|Gender=Masc|Number=Sing|Person=2|Polite=Form|VerbForm=Part</td><td></td></tr>
+  <tr><td>VAUX v gen-m|num-sg|pers-2h|case-|vib-गा|tam-gA|voicetype-</td><td>=&gt;</td><td>AUX</td><td>Gender=Masc|Mood=Ind|Number=Sing|Person=2|Polite=Form|Tense=Fut|VerbForm=Fin</td><td>जाएंगे</td></tr>
+  <tr style="background:lightgray"><td>VAUX v gen-m|num-sg|pers-2h|case-|vib-ता|tam-wA|voicetype-</td><td>=&gt;</td><td>AUX</td><td>Aspect=Imp|Gender=Masc|Number=Sing|Person=2|Polite=Form|VerbForm=Part</td><td>सकते</td></tr>
+  <tr><td>VAUX v gen-m|num-sg|pers-3h|case-|vib-|tam-WA|voicetype-</td><td>=&gt;</td><td>AUX</td><td>Gender=Masc|Mood=Ind|Number=Sing|Person=3|Polite=Form|Tense=Past|VerbForm=Fin</td><td></td></tr>
+  <tr style="background:lightgray"><td>VAUX v gen-m|num-sg|pers-3h|case-|vib-|tam-gA|voicetype-</td><td>=&gt;</td><td>AUX</td><td>Gender=Masc|Mood=Ind|Number=Sing|Person=3|Polite=Form|Tense=Fut|VerbForm=Fin</td><td></td></tr>
+  <tr><td>VAUX v gen-m|num-sg|pers-3h|case-|vib-|tam-hE|voicetype-</td><td>=&gt;</td><td>AUX</td><td>Gender=Masc|Mood=Ind|Number=Sing|Person=3|Polite=Form|Tense=Pres|VerbForm=Fin</td><td></td></tr>
+  <tr style="background:lightgray"><td>VAUX v gen-m|num-sg|pers-3h|case-|vib-|tam-wA|voicetype-</td><td>=&gt;</td><td>AUX</td><td>Aspect=Imp|Gender=Masc|Number=Sing|Person=3|Polite=Form|VerbForm=Part</td><td></td></tr>
+  <tr><td>VAUX v gen-m|num-sg|pers-3h|case-|vib-|tam-yA1|voicetype-</td><td>=&gt;</td><td>AUX</td><td>Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Polite=Form|VerbForm=Part</td><td></td></tr>
+  <tr style="background:lightgray"><td>VAUX v gen-m|num-sg|pers-3h|case-|vib-|tam-yA|voicetype-</td><td>=&gt;</td><td>AUX</td><td>Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Polite=Form|VerbForm=Part</td><td></td></tr>
+  <tr><td>VAUX v gen-m|num-sg|pers-3h|case-|vib-गा|tam-gA|voicetype-</td><td>=&gt;</td><td>AUX</td><td>Gender=Masc|Mood=Ind|Number=Sing|Person=3|Polite=Form|Tense=Fut|VerbForm=Fin</td><td>जाएंगे, रहेंगे, पाएंगे, देंगे, लेंगे</td></tr>
+  <tr style="background:lightgray"><td>VAUX v gen-m|num-sg|pers-3h|case-|vib-ता|tam-wA|voicetype-</td><td>=&gt;</td><td>AUX</td><td>Aspect=Imp|Gender=Masc|Number=Sing|Person=3|Polite=Form|VerbForm=Part</td><td>सकते, जाते, देते, पड़ते, करते</td></tr>
+  <tr><td>VAUX v gen-m|num-sg|pers-3h|case-|vib-था|tam-WA|voicetype-</td><td>=&gt;</td><td>AUX</td><td>Gender=Masc|Mood=Ind|Number=Sing|Person=3|Polite=Form|Tense=Past|VerbForm=Fin</td><td>थे</td></tr>
+  <tr style="background:lightgray"><td>VAUX v gen-m|num-sg|pers-3h|case-|vib-या|tam-yA|voicetype-</td><td>=&gt;</td><td>AUX</td><td>Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Polite=Form|VerbForm=Part</td><td>रहे, चुके, हुए, बैठे, सके</td></tr>
+  <tr><td>VAUX v gen-m|num-sg|pers-3h|case-|vib-या१|tam-yA1|voicetype-</td><td>=&gt;</td><td>AUX</td><td>Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Polite=Form|VerbForm=Part</td><td>गए, गये</td></tr>
+  <tr style="background:lightgray"><td>VAUX v gen-m|num-sg|pers-3h|case-|vib-है|tam-hE|voicetype-</td><td>=&gt;</td><td>AUX</td><td>Gender=Masc|Mood=Ind|Number=Sing|Person=3|Polite=Form|Tense=Pres|VerbForm=Fin</td><td>हैं</td></tr>
   <tr><td>VAUX v gen-m|num-sg|pers-3|case-|vib-|tam-gA|voicetype-</td><td>=&gt;</td><td>AUX</td><td>Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin</td><td></td></tr>
   <tr style="background:lightgray"><td>VAUX v gen-m|num-sg|pers-3|case-|vib-गा|tam-gA|voicetype-</td><td>=&gt;</td><td>AUX</td><td>Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin</td><td>जाएगा, होगा, सकेगा, देगा, रहेगा</td></tr>
   <tr><td>VAUX v gen-m|num-sg|pers-|case-|vib-|tam-WA|voicetype-</td><td>=&gt;</td><td>AUX</td><td>Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin</td><td></td></tr>
@@ -1197,12 +1198,12 @@ Tagset <tt>hi::conll</tt>, total 3125 tags.
   <tr style="background:lightgray"><td>VAUX v gen-|num-pl|pers-3|case-|vib-है|tam-hE|voicetype-</td><td>=&gt;</td><td>AUX</td><td>Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin</td><td>हैं, है, हैँ</td></tr>
   <tr><td>VAUX v gen-|num-sg|pers-1|case-|vib-|tam-hE|voicetype-</td><td>=&gt;</td><td>AUX</td><td>Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin</td><td></td></tr>
   <tr style="background:lightgray"><td>VAUX v gen-|num-sg|pers-1|case-|vib-है|tam-hE|voicetype-</td><td>=&gt;</td><td>AUX</td><td>Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin</td><td>हूं, हूँ, है</td></tr>
-  <tr><td>VAUX v gen-|num-sg|pers-2h|case-|vib-|tam-hE|voicetype-</td><td>=&gt;</td><td>AUX</td><td>Mood=Ind|Number=Sing|Person=2|Polite=Pol|Tense=Pres|VerbForm=Fin</td><td></td></tr>
-  <tr style="background:lightgray"><td>VAUX v gen-|num-sg|pers-2h|case-|vib-है|tam-hE|voicetype-</td><td>=&gt;</td><td>AUX</td><td>Mood=Ind|Number=Sing|Person=2|Polite=Pol|Tense=Pres|VerbForm=Fin</td><td>हैं</td></tr>
+  <tr><td>VAUX v gen-|num-sg|pers-2h|case-|vib-|tam-hE|voicetype-</td><td>=&gt;</td><td>AUX</td><td>Mood=Ind|Number=Sing|Person=2|Polite=Form|Tense=Pres|VerbForm=Fin</td><td></td></tr>
+  <tr style="background:lightgray"><td>VAUX v gen-|num-sg|pers-2h|case-|vib-है|tam-hE|voicetype-</td><td>=&gt;</td><td>AUX</td><td>Mood=Ind|Number=Sing|Person=2|Polite=Form|Tense=Pres|VerbForm=Fin</td><td>हैं</td></tr>
   <tr><td>VAUX v gen-|num-sg|pers-2|case-|vib-|tam-hE|voicetype-</td><td>=&gt;</td><td>AUX</td><td>Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin</td><td></td></tr>
   <tr style="background:lightgray"><td>VAUX v gen-|num-sg|pers-2|case-|vib-है|tam-hE|voicetype-</td><td>=&gt;</td><td>AUX</td><td>Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin</td><td>है</td></tr>
-  <tr><td>VAUX v gen-|num-sg|pers-3h|case-|vib-|tam-hE|voicetype-</td><td>=&gt;</td><td>AUX</td><td>Mood=Ind|Number=Sing|Person=3|Polite=Pol|Tense=Pres|VerbForm=Fin</td><td></td></tr>
-  <tr style="background:lightgray"><td>VAUX v gen-|num-sg|pers-3h|case-|vib-है|tam-hE|voicetype-</td><td>=&gt;</td><td>AUX</td><td>Mood=Ind|Number=Sing|Person=3|Polite=Pol|Tense=Pres|VerbForm=Fin</td><td>हैं, है</td></tr>
+  <tr><td>VAUX v gen-|num-sg|pers-3h|case-|vib-|tam-hE|voicetype-</td><td>=&gt;</td><td>AUX</td><td>Mood=Ind|Number=Sing|Person=3|Polite=Form|Tense=Pres|VerbForm=Fin</td><td></td></tr>
+  <tr style="background:lightgray"><td>VAUX v gen-|num-sg|pers-3h|case-|vib-है|tam-hE|voicetype-</td><td>=&gt;</td><td>AUX</td><td>Mood=Ind|Number=Sing|Person=3|Polite=Form|Tense=Pres|VerbForm=Fin</td><td>हैं, है</td></tr>
   <tr><td>VAUX v gen-|num-sg|pers-3|case-|vib-|tam-eM|voicetype-</td><td>=&gt;</td><td>AUX</td><td>Mood=Sub|Number=Sing|Person=3|VerbForm=Fin</td><td></td></tr>
   <tr style="background:lightgray"><td>VAUX v gen-|num-sg|pers-3|case-|vib-|tam-hE|voicetype-</td><td>=&gt;</td><td>AUX</td><td>Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin</td><td>है</td></tr>
   <tr><td>VAUX v gen-|num-sg|pers-3|case-|vib-एं|tam-eM|voicetype-</td><td>=&gt;</td><td>AUX</td><td>Mood=Sub|Number=Sing|Person=3|VerbForm=Fin</td><td>जाए, सके, रहे, दे, पाये</td></tr>
@@ -1211,9 +1212,9 @@ Tagset <tt>hi::conll</tt>, total 3125 tags.
   <tr style="background:lightgray"><td>VAUX v gen-|num-|pers-|case-d|vib-ना|tam-nA|voicetype-</td><td>=&gt;</td><td>AUX</td><td>Case=Nom|VerbForm=Inf</td><td>जाना, पाना, रखना, देना</td></tr>
   <tr><td>VAUX v gen-|num-|pers-|case-o|vib-|tam-nA|voicetype-</td><td>=&gt;</td><td>AUX</td><td>Case=Acc|VerbForm=Inf</td><td></td></tr>
   <tr style="background:lightgray"><td>VAUX v gen-|num-|pers-|case-o|vib-ना|tam-nA|voicetype-</td><td>=&gt;</td><td>AUX</td><td>Case=Acc|VerbForm=Inf</td><td>जाने, देने, पाने, रखने, जाना</td></tr>
-  <tr><td>VAUX v gen-|num-|pers-|case-|vib-|tam-kara|voicetype-</td><td>=&gt;</td><td>AUX</td><td>VerbForm=Trans</td><td></td></tr>
+  <tr><td>VAUX v gen-|num-|pers-|case-|vib-|tam-kara|voicetype-</td><td>=&gt;</td><td>AUX</td><td>VerbForm=Conv</td><td></td></tr>
   <tr style="background:lightgray"><td>VAUX v gen-|num-|pers-|case-|vib-|tam-|voicetype-</td><td>=&gt;</td><td>AUX</td><td>_</td><td>जा, चाहिए, कर, हो, पड़</td></tr>
-  <tr><td>VAUX v gen-|num-|pers-|case-|vib-कर|tam-kara|voicetype-</td><td>=&gt;</td><td>AUX</td><td>VerbForm=Trans</td><td>कर, जाकर, फूंककर</td></tr>
+  <tr><td>VAUX v gen-|num-|pers-|case-|vib-कर|tam-kara|voicetype-</td><td>=&gt;</td><td>AUX</td><td>VerbForm=Conv</td><td>कर, जाकर, फूंककर</td></tr>
   <tr style="background:lightgray"><td>VM v gen-f|num-pl|pers-3|case-|vib-0_चुक+या_है|tam-|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Gender=Fem|Number=Plur|Person=3|Voice=Act</td><td>कर, जा, हो</td></tr>
   <tr><td>VM v gen-f|num-pl|pers-3|case-|vib-0_जा+ता_है|tam-|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Gender=Fem|Number=Plur|Person=3|Voice=Act</td><td>हो</td></tr>
   <tr style="background:lightgray"><td>VM v gen-f|num-pl|pers-3|case-|vib-0_जा+या1_है|tam-|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Gender=Fem|Number=Plur|Person=3|Voice=Act</td><td>ढक, खुल, हो</td></tr>
@@ -1335,39 +1336,39 @@ Tagset <tt>hi::conll</tt>, total 3125 tags.
   <tr style="background:lightgray"><td>VM v gen-f|num-sg|pers-1|case-|vib-या_है|tam-yA|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Gender=Fem|Number=Sing|Person=1|VerbForm=Part|Voice=Act</td><td>की</td></tr>
   <tr><td>VM v gen-f|num-sg|pers-2|case-|vib-|tam-yA|voicetype-passive</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Gender=Fem|Number=Sing|Person=2|VerbForm=Part|Voice=Pass</td><td></td></tr>
   <tr style="background:lightgray"><td>VM v gen-f|num-sg|pers-2|case-|vib-या_जा+या१_है|tam-yA|voicetype-passive</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Gender=Fem|Number=Sing|Person=2|VerbForm=Part|Voice=Pass</td><td>बेची</td></tr>
-  <tr><td>VM v gen-f|num-sg|pers-3h|case-|vib-0_चुक+या_है|tam-|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Gender=Fem|Number=Sing|Person=3|Polite=Pol|Voice=Act</td><td>कर, बोल</td></tr>
-  <tr style="background:lightgray"><td>VM v gen-f|num-sg|pers-3h|case-|vib-0_जा+या1_है|tam-|voicetype-passive</td><td>=&gt;</td><td>VERB</td><td>Gender=Fem|Number=Sing|Person=3|Polite=Pol|Voice=Pass</td><td>हो</td></tr>
-  <tr><td>VM v gen-f|num-sg|pers-3h|case-|vib-0_जा+या१_था|tam-|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Gender=Fem|Number=Sing|Person=3|Polite=Pol|Voice=Act</td><td>पहुंच</td></tr>
-  <tr style="background:lightgray"><td>VM v gen-f|num-sg|pers-3h|case-|vib-0_जा+या१_है|tam-|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Gender=Fem|Number=Sing|Person=3|Polite=Pol|Voice=Act</td><td>पहुंच</td></tr>
-  <tr><td>VM v gen-f|num-sg|pers-3h|case-|vib-0_रह+या_था|tam-|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Gender=Fem|Number=Sing|Person=3|Polite=Pol|Voice=Act</td><td>मिल</td></tr>
-  <tr style="background:lightgray"><td>VM v gen-f|num-sg|pers-3h|case-|vib-0_रह+या_है|tam-|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Gender=Fem|Number=Sing|Person=3|Polite=Pol|Voice=Act</td><td>लड़, कर, बना, बच, डर</td></tr>
-  <tr><td>VM v gen-f|num-sg|pers-3h|case-|vib-0_सक+ता_है|tam-|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Gender=Fem|Number=Sing|Person=3|Polite=Pol|Voice=Act</td><td>कर, ले</td></tr>
-  <tr style="background:lightgray"><td>VM v gen-f|num-sg|pers-3h|case-|vib-|tam-WA|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Gender=Fem|Mood=Ind|Number=Sing|Person=3|Polite=Pol|Tense=Past|VerbForm=Fin|Voice=Act</td><td></td></tr>
-  <tr><td>VM v gen-f|num-sg|pers-3h|case-|vib-|tam-gA|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Gender=Fem|Mood=Ind|Number=Sing|Person=3|Polite=Pol|Tense=Fut|VerbForm=Fin|Voice=Act</td><td></td></tr>
-  <tr style="background:lightgray"><td>VM v gen-f|num-sg|pers-3h|case-|vib-|tam-nA|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Gender=Fem|Number=Sing|Person=3|Polite=Pol|VerbForm=Inf|Voice=Act</td><td></td></tr>
-  <tr><td>VM v gen-f|num-sg|pers-3h|case-|vib-|tam-wA|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Gender=Fem|Number=Sing|Person=3|Polite=Pol|VerbForm=Part|Voice=Act</td><td></td></tr>
-  <tr style="background:lightgray"><td>VM v gen-f|num-sg|pers-3h|case-|vib-|tam-yA|voicetype-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Polite=Pol|VerbForm=Part</td><td></td></tr>
-  <tr><td>VM v gen-f|num-sg|pers-3h|case-|vib-|tam-yA|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Polite=Pol|VerbForm=Part|Voice=Act</td><td></td></tr>
-  <tr style="background:lightgray"><td>VM v gen-f|num-sg|pers-3h|case-|vib-|tam-yA|voicetype-passive</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Polite=Pol|VerbForm=Part|Voice=Pass</td><td></td></tr>
-  <tr><td>VM v gen-f|num-sg|pers-3h|case-|vib-|tam-|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Gender=Fem|Number=Sing|Person=3|Polite=Pol|Voice=Act</td><td></td></tr>
-  <tr style="background:lightgray"><td>VM v gen-f|num-sg|pers-3h|case-|vib-|tam-|voicetype-passive</td><td>=&gt;</td><td>VERB</td><td>Gender=Fem|Number=Sing|Person=3|Polite=Pol|Voice=Pass</td><td></td></tr>
-  <tr><td>VM v gen-f|num-sg|pers-3h|case-|vib-गा|tam-gA|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Gender=Fem|Mood=Ind|Number=Sing|Person=3|Polite=Pol|Tense=Fut|VerbForm=Fin|Voice=Act</td><td>करेंगी, होंगी, रहेंगी, जाएंगी, उतारेंगी</td></tr>
-  <tr style="background:lightgray"><td>VM v gen-f|num-sg|pers-3h|case-|vib-ता_रह+ता_है|tam-wA|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Gender=Fem|Number=Sing|Person=3|Polite=Pol|VerbForm=Part|Voice=Act</td><td>चिल्लाती</td></tr>
-  <tr><td>VM v gen-f|num-sg|pers-3h|case-|vib-ता_रह+या_है|tam-wA|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Gender=Fem|Number=Sing|Person=3|Polite=Pol|VerbForm=Part|Voice=Act</td><td>लेती</td></tr>
-  <tr style="background:lightgray"><td>VM v gen-f|num-sg|pers-3h|case-|vib-ता_रह+या|tam-wA|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Gender=Fem|Number=Sing|Person=3|Polite=Pol|VerbForm=Part|Voice=Act</td><td>तड़पती</td></tr>
-  <tr><td>VM v gen-f|num-sg|pers-3h|case-|vib-ता_है|tam-wA|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Gender=Fem|Number=Sing|Person=3|Polite=Pol|VerbForm=Part|Voice=Act</td><td>चाहती, कहती, जानती, करती, लेती</td></tr>
-  <tr style="background:lightgray"><td>VM v gen-f|num-sg|pers-3h|case-|vib-ता|tam-wA|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Gender=Fem|Number=Sing|Person=3|Polite=Pol|VerbForm=Part|Voice=Act</td><td>चाहतीं</td></tr>
-  <tr><td>VM v gen-f|num-sg|pers-3h|case-|vib-था|tam-WA|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Gender=Fem|Mood=Ind|Number=Sing|Person=3|Polite=Pol|Tense=Past|VerbForm=Fin|Voice=Act</td><td>थीं</td></tr>
-  <tr style="background:lightgray"><td>VM v gen-f|num-sg|pers-3h|case-|vib-ना_वाला_था|tam-nA|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Gender=Fem|Number=Sing|Person=3|Polite=Pol|VerbForm=Inf|Voice=Act</td><td>करने</td></tr>
-  <tr><td>VM v gen-f|num-sg|pers-3h|case-|vib-ना_वाला_है|tam-nA|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Gender=Fem|Number=Sing|Person=3|Polite=Pol|VerbForm=Inf|Voice=Act</td><td>लिखने</td></tr>
-  <tr style="background:lightgray"><td>VM v gen-f|num-sg|pers-3h|case-|vib-या_जा+या१|tam-yA|voicetype-passive</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Polite=Pol|VerbForm=Part|Voice=Pass</td><td>कराई</td></tr>
-  <tr><td>VM v gen-f|num-sg|pers-3h|case-|vib-या_था|tam-yA|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Polite=Pol|VerbForm=Part|Voice=Act</td><td>आई</td></tr>
-  <tr style="background:lightgray"><td>VM v gen-f|num-sg|pers-3h|case-|vib-या_दे+या|tam-yA|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Polite=Pol|VerbForm=Part|Voice=Act</td><td>दिखाई</td></tr>
-  <tr><td>VM v gen-f|num-sg|pers-3h|case-|vib-या_है|tam-yA|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Polite=Pol|VerbForm=Part|Voice=Act</td><td>जुटी</td></tr>
-  <tr style="background:lightgray"><td>VM v gen-f|num-sg|pers-3h|case-|vib-या_हो+या_था|tam-yA|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Polite=Pol|VerbForm=Part|Voice=Act</td><td>रखे</td></tr>
-  <tr><td>VM v gen-f|num-sg|pers-3h|case-|vib-या_हो+या_है|tam-yA|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Polite=Pol|VerbForm=Part|Voice=Act</td><td>जुड़ी</td></tr>
-  <tr style="background:lightgray"><td>VM v gen-f|num-sg|pers-3h|case-|vib-या|tam-yA|voicetype-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Polite=Pol|VerbForm=Part</td><td>पहनीं, पहुंची</td></tr>
-  <tr><td>VM v gen-f|num-sg|pers-3h|case-|vib-या|tam-yA|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Polite=Pol|VerbForm=Part|Voice=Act</td><td>आईं, टहलीं, भूलीं, मिलीं, रहीं</td></tr>
+  <tr><td>VM v gen-f|num-sg|pers-3h|case-|vib-0_चुक+या_है|tam-|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Gender=Fem|Number=Sing|Person=3|Polite=Form|Voice=Act</td><td>कर, बोल</td></tr>
+  <tr style="background:lightgray"><td>VM v gen-f|num-sg|pers-3h|case-|vib-0_जा+या1_है|tam-|voicetype-passive</td><td>=&gt;</td><td>VERB</td><td>Gender=Fem|Number=Sing|Person=3|Polite=Form|Voice=Pass</td><td>हो</td></tr>
+  <tr><td>VM v gen-f|num-sg|pers-3h|case-|vib-0_जा+या१_था|tam-|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Gender=Fem|Number=Sing|Person=3|Polite=Form|Voice=Act</td><td>पहुंच</td></tr>
+  <tr style="background:lightgray"><td>VM v gen-f|num-sg|pers-3h|case-|vib-0_जा+या१_है|tam-|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Gender=Fem|Number=Sing|Person=3|Polite=Form|Voice=Act</td><td>पहुंच</td></tr>
+  <tr><td>VM v gen-f|num-sg|pers-3h|case-|vib-0_रह+या_था|tam-|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Gender=Fem|Number=Sing|Person=3|Polite=Form|Voice=Act</td><td>मिल</td></tr>
+  <tr style="background:lightgray"><td>VM v gen-f|num-sg|pers-3h|case-|vib-0_रह+या_है|tam-|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Gender=Fem|Number=Sing|Person=3|Polite=Form|Voice=Act</td><td>लड़, कर, बना, बच, डर</td></tr>
+  <tr><td>VM v gen-f|num-sg|pers-3h|case-|vib-0_सक+ता_है|tam-|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Gender=Fem|Number=Sing|Person=3|Polite=Form|Voice=Act</td><td>कर, ले</td></tr>
+  <tr style="background:lightgray"><td>VM v gen-f|num-sg|pers-3h|case-|vib-|tam-WA|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Gender=Fem|Mood=Ind|Number=Sing|Person=3|Polite=Form|Tense=Past|VerbForm=Fin|Voice=Act</td><td></td></tr>
+  <tr><td>VM v gen-f|num-sg|pers-3h|case-|vib-|tam-gA|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Gender=Fem|Mood=Ind|Number=Sing|Person=3|Polite=Form|Tense=Fut|VerbForm=Fin|Voice=Act</td><td></td></tr>
+  <tr style="background:lightgray"><td>VM v gen-f|num-sg|pers-3h|case-|vib-|tam-nA|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Gender=Fem|Number=Sing|Person=3|Polite=Form|VerbForm=Inf|Voice=Act</td><td></td></tr>
+  <tr><td>VM v gen-f|num-sg|pers-3h|case-|vib-|tam-wA|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Gender=Fem|Number=Sing|Person=3|Polite=Form|VerbForm=Part|Voice=Act</td><td></td></tr>
+  <tr style="background:lightgray"><td>VM v gen-f|num-sg|pers-3h|case-|vib-|tam-yA|voicetype-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Polite=Form|VerbForm=Part</td><td></td></tr>
+  <tr><td>VM v gen-f|num-sg|pers-3h|case-|vib-|tam-yA|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Polite=Form|VerbForm=Part|Voice=Act</td><td></td></tr>
+  <tr style="background:lightgray"><td>VM v gen-f|num-sg|pers-3h|case-|vib-|tam-yA|voicetype-passive</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Polite=Form|VerbForm=Part|Voice=Pass</td><td></td></tr>
+  <tr><td>VM v gen-f|num-sg|pers-3h|case-|vib-|tam-|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Gender=Fem|Number=Sing|Person=3|Polite=Form|Voice=Act</td><td></td></tr>
+  <tr style="background:lightgray"><td>VM v gen-f|num-sg|pers-3h|case-|vib-|tam-|voicetype-passive</td><td>=&gt;</td><td>VERB</td><td>Gender=Fem|Number=Sing|Person=3|Polite=Form|Voice=Pass</td><td></td></tr>
+  <tr><td>VM v gen-f|num-sg|pers-3h|case-|vib-गा|tam-gA|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Gender=Fem|Mood=Ind|Number=Sing|Person=3|Polite=Form|Tense=Fut|VerbForm=Fin|Voice=Act</td><td>करेंगी, होंगी, रहेंगी, जाएंगी, उतारेंगी</td></tr>
+  <tr style="background:lightgray"><td>VM v gen-f|num-sg|pers-3h|case-|vib-ता_रह+ता_है|tam-wA|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Gender=Fem|Number=Sing|Person=3|Polite=Form|VerbForm=Part|Voice=Act</td><td>चिल्लाती</td></tr>
+  <tr><td>VM v gen-f|num-sg|pers-3h|case-|vib-ता_रह+या_है|tam-wA|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Gender=Fem|Number=Sing|Person=3|Polite=Form|VerbForm=Part|Voice=Act</td><td>लेती</td></tr>
+  <tr style="background:lightgray"><td>VM v gen-f|num-sg|pers-3h|case-|vib-ता_रह+या|tam-wA|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Gender=Fem|Number=Sing|Person=3|Polite=Form|VerbForm=Part|Voice=Act</td><td>तड़पती</td></tr>
+  <tr><td>VM v gen-f|num-sg|pers-3h|case-|vib-ता_है|tam-wA|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Gender=Fem|Number=Sing|Person=3|Polite=Form|VerbForm=Part|Voice=Act</td><td>चाहती, कहती, जानती, करती, लेती</td></tr>
+  <tr style="background:lightgray"><td>VM v gen-f|num-sg|pers-3h|case-|vib-ता|tam-wA|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Gender=Fem|Number=Sing|Person=3|Polite=Form|VerbForm=Part|Voice=Act</td><td>चाहतीं</td></tr>
+  <tr><td>VM v gen-f|num-sg|pers-3h|case-|vib-था|tam-WA|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Gender=Fem|Mood=Ind|Number=Sing|Person=3|Polite=Form|Tense=Past|VerbForm=Fin|Voice=Act</td><td>थीं</td></tr>
+  <tr style="background:lightgray"><td>VM v gen-f|num-sg|pers-3h|case-|vib-ना_वाला_था|tam-nA|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Gender=Fem|Number=Sing|Person=3|Polite=Form|VerbForm=Inf|Voice=Act</td><td>करने</td></tr>
+  <tr><td>VM v gen-f|num-sg|pers-3h|case-|vib-ना_वाला_है|tam-nA|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Gender=Fem|Number=Sing|Person=3|Polite=Form|VerbForm=Inf|Voice=Act</td><td>लिखने</td></tr>
+  <tr style="background:lightgray"><td>VM v gen-f|num-sg|pers-3h|case-|vib-या_जा+या१|tam-yA|voicetype-passive</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Polite=Form|VerbForm=Part|Voice=Pass</td><td>कराई</td></tr>
+  <tr><td>VM v gen-f|num-sg|pers-3h|case-|vib-या_था|tam-yA|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Polite=Form|VerbForm=Part|Voice=Act</td><td>आई</td></tr>
+  <tr style="background:lightgray"><td>VM v gen-f|num-sg|pers-3h|case-|vib-या_दे+या|tam-yA|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Polite=Form|VerbForm=Part|Voice=Act</td><td>दिखाई</td></tr>
+  <tr><td>VM v gen-f|num-sg|pers-3h|case-|vib-या_है|tam-yA|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Polite=Form|VerbForm=Part|Voice=Act</td><td>जुटी</td></tr>
+  <tr style="background:lightgray"><td>VM v gen-f|num-sg|pers-3h|case-|vib-या_हो+या_था|tam-yA|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Polite=Form|VerbForm=Part|Voice=Act</td><td>रखे</td></tr>
+  <tr><td>VM v gen-f|num-sg|pers-3h|case-|vib-या_हो+या_है|tam-yA|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Polite=Form|VerbForm=Part|Voice=Act</td><td>जुड़ी</td></tr>
+  <tr style="background:lightgray"><td>VM v gen-f|num-sg|pers-3h|case-|vib-या|tam-yA|voicetype-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Polite=Form|VerbForm=Part</td><td>पहनीं, पहुंची</td></tr>
+  <tr><td>VM v gen-f|num-sg|pers-3h|case-|vib-या|tam-yA|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Polite=Form|VerbForm=Part|Voice=Act</td><td>आईं, टहलीं, भूलीं, मिलीं, रहीं</td></tr>
   <tr style="background:lightgray"><td>VM v gen-f|num-sg|pers-3|case-d|vib-|tam-nA|voicetype-</td><td>=&gt;</td><td>VERB</td><td>Case=Nom|Gender=Fem|Number=Sing|Person=3|VerbForm=Inf</td><td></td></tr>
   <tr><td>VM v gen-f|num-sg|pers-3|case-d|vib-|tam-yA|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Case=Nom|Gender=Fem|Number=Sing|Person=3|VerbForm=Part|Voice=Act</td><td></td></tr>
   <tr style="background:lightgray"><td>VM v gen-f|num-sg|pers-3|case-d|vib-ना|tam-nA|voicetype-</td><td>=&gt;</td><td>VERB</td><td>Case=Nom|Gender=Fem|Number=Sing|Person=3|VerbForm=Inf</td><td>पहुंचानी</td></tr>
@@ -1643,10 +1644,10 @@ Tagset <tt>hi::conll</tt>, total 3125 tags.
   <tr style="background:lightgray"><td>VM v gen-m|num-pl|pers-1|case-|vib-ना_हो+गा|tam-nA|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Number=Plur|Person=1|VerbForm=Inf|Voice=Act</td><td>उठाने</td></tr>
   <tr><td>VM v gen-m|num-pl|pers-1|case-|vib-या_हो+या_था|tam-yA|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Gender=Masc|Number=Plur|Person=1|VerbForm=Part|Voice=Act</td><td>छेडे</td></tr>
   <tr style="background:lightgray"><td>VM v gen-m|num-pl|pers-1|case-|vib-या|tam-yA|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Gender=Masc|Number=Plur|Person=1|VerbForm=Part|Voice=Act</td><td>पहुंचे</td></tr>
-  <tr><td>VM v gen-m|num-pl|pers-2h|case-|vib-|tam-gA|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Mood=Ind|Number=Plur|Person=2|Polite=Pol|Tense=Fut|VerbForm=Fin|Voice=Act</td><td></td></tr>
-  <tr style="background:lightgray"><td>VM v gen-m|num-pl|pers-2h|case-|vib-गा|tam-gA|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Mood=Ind|Number=Plur|Person=2|Polite=Pol|Tense=Fut|VerbForm=Fin|Voice=Act</td><td>करेंगे</td></tr>
-  <tr><td>VM v gen-m|num-pl|pers-3h|case-|vib-|tam-yA|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Gender=Masc|Number=Plur|Person=3|Polite=Pol|VerbForm=Part|Voice=Act</td><td></td></tr>
-  <tr style="background:lightgray"><td>VM v gen-m|num-pl|pers-3h|case-|vib-या_है|tam-yA|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Gender=Masc|Number=Plur|Person=3|Polite=Pol|VerbForm=Part|Voice=Act</td><td>किए</td></tr>
+  <tr><td>VM v gen-m|num-pl|pers-2h|case-|vib-|tam-gA|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Mood=Ind|Number=Plur|Person=2|Polite=Form|Tense=Fut|VerbForm=Fin|Voice=Act</td><td></td></tr>
+  <tr style="background:lightgray"><td>VM v gen-m|num-pl|pers-2h|case-|vib-गा|tam-gA|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Mood=Ind|Number=Plur|Person=2|Polite=Form|Tense=Fut|VerbForm=Fin|Voice=Act</td><td>करेंगे</td></tr>
+  <tr><td>VM v gen-m|num-pl|pers-3h|case-|vib-|tam-yA|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Gender=Masc|Number=Plur|Person=3|Polite=Form|VerbForm=Part|Voice=Act</td><td></td></tr>
+  <tr style="background:lightgray"><td>VM v gen-m|num-pl|pers-3h|case-|vib-या_है|tam-yA|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Gender=Masc|Number=Plur|Person=3|Polite=Form|VerbForm=Part|Voice=Act</td><td>किए</td></tr>
   <tr><td>VM v gen-m|num-pl|pers-3|case-o|vib-0_जा+या१|tam-|voicetype-</td><td>=&gt;</td><td>VERB</td><td>Case=Acc|Gender=Masc|Number=Plur|Person=3</td><td>बीजे</td></tr>
   <tr style="background:lightgray"><td>VM v gen-m|num-pl|pers-3|case-o|vib-|tam-nA|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Case=Acc|Gender=Masc|Number=Plur|Person=3|VerbForm=Inf|Voice=Act</td><td></td></tr>
   <tr><td>VM v gen-m|num-pl|pers-3|case-o|vib-|tam-|voicetype-</td><td>=&gt;</td><td>VERB</td><td>Case=Acc|Gender=Masc|Number=Plur|Person=3</td><td></td></tr>
@@ -1893,93 +1894,93 @@ Tagset <tt>hi::conll</tt>, total 3125 tags.
   <tr style="background:lightgray"><td>VM v gen-m|num-sg|pers-1|case-|vib-ना_जा_रह+या_है|tam-nA|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Number=Sing|Person=1|VerbForm=Inf|Voice=Act</td><td>उठाने</td></tr>
   <tr><td>VM v gen-m|num-sg|pers-1|case-|vib-या_रहू+गा|tam-yA|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Gender=Masc|Number=Sing|Person=1|VerbForm=Part|Voice=Act</td><td>बना</td></tr>
   <tr style="background:lightgray"><td>VM v gen-m|num-sg|pers-1|case-|vib-या_है|tam-yA|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Gender=Masc|Number=Sing|Person=1|VerbForm=Part|Voice=Act</td><td>लगा</td></tr>
-  <tr><td>VM v gen-m|num-sg|pers-2h|case-|vib-0_रह+ए_है|tam-|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Number=Sing|Person=2|Polite=Pol|Voice=Act</td><td>कर</td></tr>
-  <tr style="background:lightgray"><td>VM v gen-m|num-sg|pers-2h|case-|vib-0_सक+ता_है|tam-|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Number=Sing|Person=2|Polite=Pol|Voice=Act</td><td>करवा, वसूल, खोज, कर</td></tr>
-  <tr><td>VM v gen-m|num-sg|pers-2h|case-|vib-|tam-eM|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Mood=Sub|Number=Sing|Person=2|Polite=Pol|VerbForm=Fin|Voice=Act</td><td></td></tr>
-  <tr style="background:lightgray"><td>VM v gen-m|num-sg|pers-2h|case-|vib-|tam-gA|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Mood=Ind|Number=Sing|Person=2|Polite=Pol|Tense=Fut|VerbForm=Fin|Voice=Act</td><td></td></tr>
-  <tr><td>VM v gen-m|num-sg|pers-2h|case-|vib-|tam-nA|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Number=Sing|Person=2|Polite=Pol|VerbForm=Inf|Voice=Act</td><td></td></tr>
-  <tr style="background:lightgray"><td>VM v gen-m|num-sg|pers-2h|case-|vib-|tam-wA|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Gender=Masc|Number=Sing|Person=2|Polite=Pol|VerbForm=Part|Voice=Act</td><td></td></tr>
-  <tr><td>VM v gen-m|num-sg|pers-2h|case-|vib-|tam-|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Number=Sing|Person=2|Polite=Pol|Voice=Act</td><td></td></tr>
-  <tr style="background:lightgray"><td>VM v gen-m|num-sg|pers-2h|case-|vib-एं|tam-eM|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Mood=Sub|Number=Sing|Person=2|Polite=Pol|VerbForm=Fin|Voice=Act</td><td>कीजिए</td></tr>
-  <tr><td>VM v gen-m|num-sg|pers-2h|case-|vib-गा|tam-gA|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Mood=Ind|Number=Sing|Person=2|Polite=Pol|Tense=Fut|VerbForm=Fin|Voice=Act</td><td>रहेंगे, पाएंगे, आएंगे</td></tr>
-  <tr style="background:lightgray"><td>VM v gen-m|num-sg|pers-2h|case-|vib-ता_है|tam-wA|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Gender=Masc|Number=Sing|Person=2|Polite=Pol|VerbForm=Part|Voice=Act</td><td>चाहते, करते, खोलते, समझते</td></tr>
-  <tr><td>VM v gen-m|num-sg|pers-2h|case-|vib-ना_दे+एं|tam-nA|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Number=Sing|Person=2|Polite=Pol|VerbForm=Inf|Voice=Act</td><td>लगाने</td></tr>
-  <tr style="background:lightgray"><td>VM v gen-m|num-sg|pers-3h|case-o|vib-|tam-nA|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Case=Acc|Gender=Masc|Number=Sing|Person=3|Polite=Pol|VerbForm=Inf|Voice=Act</td><td></td></tr>
-  <tr><td>VM v gen-m|num-sg|pers-3h|case-o|vib-ना_वाला_है|tam-nA|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Case=Acc|Gender=Masc|Number=Sing|Person=3|Polite=Pol|VerbForm=Inf|Voice=Act</td><td>जाने, करने</td></tr>
-  <tr style="background:lightgray"><td>VM v gen-m|num-sg|pers-3h|case-|vib-0_चुक+या_था|tam-|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Number=Sing|Person=3|Polite=Pol|Voice=Act</td><td>आ</td></tr>
-  <tr><td>VM v gen-m|num-sg|pers-3h|case-|vib-0_चुक+या_है|tam-|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Number=Sing|Person=3|Polite=Pol|Voice=Act</td><td>कह, कर, जीत, रह, दे</td></tr>
-  <tr style="background:lightgray"><td>VM v gen-m|num-sg|pers-3h|case-|vib-0_जा+ता_है|tam-|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Number=Sing|Person=3|Polite=Pol|Voice=Act</td><td>पलट</td></tr>
-  <tr><td>VM v gen-m|num-sg|pers-3h|case-|vib-0_जा+या1_है|tam-|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Number=Sing|Person=3|Polite=Pol|Voice=Act</td><td>घिर</td></tr>
-  <tr style="background:lightgray"><td>VM v gen-m|num-sg|pers-3h|case-|vib-0_जा+या१_था|tam-|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Number=Sing|Person=3|Polite=Pol|Voice=Act</td><td>हार, हो, बन, पहुंच</td></tr>
-  <tr><td>VM v gen-m|num-sg|pers-3h|case-|vib-0_जा+या१_है|tam-|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Number=Sing|Person=3|Polite=Pol|Voice=Act</td><td>हो, आ, भड़क, घिर, बह</td></tr>
-  <tr style="background:lightgray"><td>VM v gen-m|num-sg|pers-3h|case-|vib-0_दे+ता_था|tam-|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Number=Sing|Person=3|Polite=Pol|Voice=Act</td><td>रख</td></tr>
-  <tr><td>VM v gen-m|num-sg|pers-3h|case-|vib-0_दे+ता_है|tam-|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Number=Sing|Person=3|Polite=Pol|Voice=Act</td><td>छोड़</td></tr>
-  <tr style="background:lightgray"><td>VM v gen-m|num-sg|pers-3h|case-|vib-0_दे+या_जा+या१_है|tam-|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Number=Sing|Person=3|Polite=Pol|Voice=Act</td><td>कर</td></tr>
-  <tr><td>VM v gen-m|num-sg|pers-3h|case-|vib-0_पा+या_था|tam-|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Number=Sing|Person=3|Polite=Pol|Voice=Act</td><td>कर</td></tr>
-  <tr style="background:lightgray"><td>VM v gen-m|num-sg|pers-3h|case-|vib-0_पड़+ता_है|tam-|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Number=Sing|Person=3|Polite=Pol|Voice=Act</td><td>निकल</td></tr>
-  <tr><td>VM v gen-m|num-sg|pers-3h|case-|vib-0_रह+या_था|tam-|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Number=Sing|Person=3|Polite=Pol|Voice=Act</td><td>कर, दे, जा, बना, जता</td></tr>
-  <tr style="background:lightgray"><td>VM v gen-m|num-sg|pers-3h|case-|vib-0_रह+या_है|tam-|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Number=Sing|Person=3|Polite=Pol|Voice=Act</td><td>कर, जा, दे, आ, जूझ</td></tr>
-  <tr><td>VM v gen-m|num-sg|pers-3h|case-|vib-0_सक+ता_था|tam-|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Number=Sing|Person=3|Polite=Pol|Voice=Act</td><td>कर, दिला</td></tr>
-  <tr style="background:lightgray"><td>VM v gen-m|num-sg|pers-3h|case-|vib-0_सक+ता_है|tam-|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Number=Sing|Person=3|Polite=Pol|Voice=Act</td><td>कर, दे, ले, बना, रह</td></tr>
-  <tr><td>VM v gen-m|num-sg|pers-3h|case-|vib-|tam-WA|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Mood=Ind|Number=Sing|Person=3|Polite=Pol|Tense=Past|VerbForm=Fin|Voice=Act</td><td></td></tr>
-  <tr style="background:lightgray"><td>VM v gen-m|num-sg|pers-3h|case-|vib-|tam-gA|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Mood=Ind|Number=Sing|Person=3|Polite=Pol|Tense=Fut|VerbForm=Fin|Voice=Act</td><td></td></tr>
-  <tr><td>VM v gen-m|num-sg|pers-3h|case-|vib-|tam-gA|voicetype-passive</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Mood=Ind|Number=Sing|Person=3|Polite=Pol|Tense=Fut|VerbForm=Fin|Voice=Pass</td><td></td></tr>
-  <tr style="background:lightgray"><td>VM v gen-m|num-sg|pers-3h|case-|vib-|tam-nA|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Number=Sing|Person=3|Polite=Pol|VerbForm=Inf|Voice=Act</td><td></td></tr>
-  <tr><td>VM v gen-m|num-sg|pers-3h|case-|vib-|tam-wA|voicetype-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Gender=Masc|Number=Sing|Person=3|Polite=Pol|VerbForm=Part</td><td></td></tr>
-  <tr style="background:lightgray"><td>VM v gen-m|num-sg|pers-3h|case-|vib-|tam-wA|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Gender=Masc|Number=Sing|Person=3|Polite=Pol|VerbForm=Part|Voice=Act</td><td></td></tr>
-  <tr><td>VM v gen-m|num-sg|pers-3h|case-|vib-|tam-yA1|voicetype-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Polite=Pol|VerbForm=Part</td><td></td></tr>
-  <tr style="background:lightgray"><td>VM v gen-m|num-sg|pers-3h|case-|vib-|tam-yA1|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Polite=Pol|VerbForm=Part|Voice=Act</td><td></td></tr>
-  <tr><td>VM v gen-m|num-sg|pers-3h|case-|vib-|tam-yA|voicetype-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Polite=Pol|VerbForm=Part</td><td></td></tr>
-  <tr style="background:lightgray"><td>VM v gen-m|num-sg|pers-3h|case-|vib-|tam-yA|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Polite=Pol|VerbForm=Part|Voice=Act</td><td></td></tr>
-  <tr><td>VM v gen-m|num-sg|pers-3h|case-|vib-|tam-yA|voicetype-passive</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Polite=Pol|VerbForm=Part|Voice=Pass</td><td></td></tr>
-  <tr style="background:lightgray"><td>VM v gen-m|num-sg|pers-3h|case-|vib-|tam-|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Number=Sing|Person=3|Polite=Pol|Voice=Act</td><td>पहुंचे</td></tr>
-  <tr><td>VM v gen-m|num-sg|pers-3h|case-|vib-गा|tam-gA|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Mood=Ind|Number=Sing|Person=3|Polite=Pol|Tense=Fut|VerbForm=Fin|Voice=Act</td><td>करेंगे, होंगे, लेंगे, देंगे, जाएंगे</td></tr>
-  <tr style="background:lightgray"><td>VM v gen-m|num-sg|pers-3h|case-|vib-गा|tam-gA|voicetype-passive</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Mood=Ind|Number=Sing|Person=3|Polite=Pol|Tense=Fut|VerbForm=Fin|Voice=Pass</td><td>ठहरेंगे</td></tr>
-  <tr><td>VM v gen-m|num-sg|pers-3h|case-|vib-ता_था|tam-wA|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Gender=Masc|Number=Sing|Person=3|Polite=Pol|VerbForm=Part|Voice=Act</td><td>चाहते, समझते, बोलते, जाते, करते</td></tr>
-  <tr style="background:lightgray"><td>VM v gen-m|num-sg|pers-3h|case-|vib-ता_बन+या|tam-wA|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Gender=Masc|Number=Sing|Person=3|Polite=Pol|VerbForm=Part|Voice=Act</td><td>चलते</td></tr>
-  <tr><td>VM v gen-m|num-sg|pers-3h|case-|vib-ता_रह+गा|tam-wA|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Gender=Masc|Number=Sing|Person=3|Polite=Pol|VerbForm=Part|Voice=Act</td><td>लेते, बढ़ाते, निभाते</td></tr>
-  <tr style="background:lightgray"><td>VM v gen-m|num-sg|pers-3h|case-|vib-ता_रह+या_है|tam-wA|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Gender=Masc|Number=Sing|Person=3|Polite=Pol|VerbForm=Part|Voice=Act</td><td>ढूंढ़ते, मानते, करते</td></tr>
-  <tr><td>VM v gen-m|num-sg|pers-3h|case-|vib-ता_रह+या|tam-wA|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Gender=Masc|Number=Sing|Person=3|Polite=Pol|VerbForm=Part|Voice=Act</td><td>दबाते, कहते, करते, देते, बचते</td></tr>
-  <tr style="background:lightgray"><td>VM v gen-m|num-sg|pers-3h|case-|vib-ता_है|tam-wA|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Gender=Masc|Number=Sing|Person=3|Polite=Pol|VerbForm=Part|Voice=Act</td><td>चाहते, कहते, करते, बताते, देते</td></tr>
-  <tr><td>VM v gen-m|num-sg|pers-3h|case-|vib-ता_हो+एं|tam-wA|voicetype-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Gender=Masc|Number=Sing|Person=3|Polite=Pol|VerbForm=Part</td><td>देते</td></tr>
-  <tr style="background:lightgray"><td>VM v gen-m|num-sg|pers-3h|case-|vib-ता_हो+या|tam-wA|voicetype-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Gender=Masc|Number=Sing|Person=3|Polite=Pol|VerbForm=Part</td><td>उभरते, लगाते, करते</td></tr>
-  <tr><td>VM v gen-m|num-sg|pers-3h|case-|vib-ता|tam-wA|voicetype-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Gender=Masc|Number=Sing|Person=3|Polite=Pol|VerbForm=Part</td><td>करते</td></tr>
-  <tr style="background:lightgray"><td>VM v gen-m|num-sg|pers-3h|case-|vib-ता|tam-wA|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Gender=Masc|Number=Sing|Person=3|Polite=Pol|VerbForm=Part|Voice=Act</td><td>चाहते, भूलते, देते, आते, जानते</td></tr>
-  <tr><td>VM v gen-m|num-sg|pers-3h|case-|vib-था|tam-WA|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Mood=Ind|Number=Sing|Person=3|Polite=Pol|Tense=Past|VerbForm=Fin|Voice=Act</td><td>थे</td></tr>
-  <tr style="background:lightgray"><td>VM v gen-m|num-sg|pers-3h|case-|vib-ना_जा+या१_हो+या_था|tam-nA|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Number=Sing|Person=3|Polite=Pol|VerbForm=Inf|Voice=Act</td><td>लेने</td></tr>
-  <tr><td>VM v gen-m|num-sg|pers-3h|case-|vib-ना_जा_रह+या_है|tam-nA|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Number=Sing|Person=3|Polite=Pol|VerbForm=Inf|Voice=Act</td><td>करने</td></tr>
-  <tr style="background:lightgray"><td>VM v gen-m|num-sg|pers-3h|case-|vib-ना_वाला_था|tam-nA|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Number=Sing|Person=3|Polite=Pol|VerbForm=Inf|Voice=Act</td><td>आने</td></tr>
-  <tr><td>VM v gen-m|num-sg|pers-3h|case-|vib-ना_वाला_है|tam-nA|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Number=Sing|Person=3|Polite=Pol|VerbForm=Inf|Voice=Act</td><td>करने, होने, आने, आजमाने</td></tr>
-  <tr style="background:lightgray"><td>VM v gen-m|num-sg|pers-3h|case-|vib-ना_हो+गा|tam-nA|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Number=Sing|Person=3|Polite=Pol|VerbForm=Inf|Voice=Act</td><td>करने</td></tr>
-  <tr><td>VM v gen-m|num-sg|pers-3h|case-|vib-या_आ+या|tam-yA|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Polite=Pol|VerbForm=Part|Voice=Act</td><td>चले</td></tr>
-  <tr style="background:lightgray"><td>VM v gen-m|num-sg|pers-3h|case-|vib-या_कर+ता_था|tam-yA|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Polite=Pol|VerbForm=Part|Voice=Act</td><td>जाया</td></tr>
-  <tr><td>VM v gen-m|num-sg|pers-3h|case-|vib-या_जा+एं|tam-yA|voicetype-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Polite=Pol|VerbForm=Part</td><td>चुने</td></tr>
-  <tr style="background:lightgray"><td>VM v gen-m|num-sg|pers-3h|case-|vib-या_जा+एं|tam-yA|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Polite=Pol|VerbForm=Part|Voice=Act</td><td>चले</td></tr>
-  <tr><td>VM v gen-m|num-sg|pers-3h|case-|vib-या_जा+गा|tam-yA|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Polite=Pol|VerbForm=Part|Voice=Act</td><td>मारे</td></tr>
-  <tr style="background:lightgray"><td>VM v gen-m|num-sg|pers-3h|case-|vib-या_जा+ता_है|tam-yA|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Polite=Pol|VerbForm=Part|Voice=Act</td><td>माने</td></tr>
-  <tr><td>VM v gen-m|num-sg|pers-3h|case-|vib-या_जा+या१_था|tam-yA|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Polite=Pol|VerbForm=Part|Voice=Act</td><td>चले</td></tr>
-  <tr style="background:lightgray"><td>VM v gen-m|num-sg|pers-3h|case-|vib-या_जा+या१_है|tam-yA|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Polite=Pol|VerbForm=Part|Voice=Act</td><td>चले</td></tr>
-  <tr><td>VM v gen-m|num-sg|pers-3h|case-|vib-या_जा+या१_है|tam-yA|voicetype-passive</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Polite=Pol|VerbForm=Part|Voice=Pass</td><td>बनाए</td></tr>
-  <tr style="background:lightgray"><td>VM v gen-m|num-sg|pers-3h|case-|vib-या_जा+या१|tam-yA|voicetype-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Polite=Pol|VerbForm=Part</td><td>हटाए, किए, भेजे, पकड़े, रखे</td></tr>
-  <tr><td>VM v gen-m|num-sg|pers-3h|case-|vib-या_जा+या१|tam-yA|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Polite=Pol|VerbForm=Part|Voice=Act</td><td>किए, चले</td></tr>
-  <tr style="background:lightgray"><td>VM v gen-m|num-sg|pers-3h|case-|vib-या_था|tam-yA|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Polite=Pol|VerbForm=Part|Voice=Act</td><td>आए, हुए, पहुंचे, बैठे, रहे</td></tr>
-  <tr><td>VM v gen-m|num-sg|pers-3h|case-|vib-या_बैठ+या|tam-yA|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Polite=Pol|VerbForm=Part|Voice=Act</td><td>थमा</td></tr>
-  <tr style="background:lightgray"><td>VM v gen-m|num-sg|pers-3h|case-|vib-या_रख+गा|tam-yA|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Polite=Pol|VerbForm=Part|Voice=Act</td><td>बनाए</td></tr>
-  <tr><td>VM v gen-m|num-sg|pers-3h|case-|vib-या_रह+एं|tam-yA|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Polite=Pol|VerbForm=Part|Voice=Act</td><td>बने</td></tr>
-  <tr style="background:lightgray"><td>VM v gen-m|num-sg|pers-3h|case-|vib-या_रह+गा|tam-yA|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Polite=Pol|VerbForm=Part|Voice=Act</td><td>बने, डटे</td></tr>
-  <tr><td>VM v gen-m|num-sg|pers-3h|case-|vib-या_रह+या_था|tam-yA|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Polite=Pol|VerbForm=Part|Voice=Act</td><td>दिखा</td></tr>
-  <tr style="background:lightgray"><td>VM v gen-m|num-sg|pers-3h|case-|vib-या_रह+या|tam-yA|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Polite=Pol|VerbForm=Part|Voice=Act</td><td>लगे</td></tr>
-  <tr><td>VM v gen-m|num-sg|pers-3h|case-|vib-या_सक+ता_है|tam-yA|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Polite=Pol|VerbForm=Part|Voice=Act</td><td>हटा</td></tr>
-  <tr style="background:lightgray"><td>VM v gen-m|num-sg|pers-3h|case-|vib-या_है|tam-yA|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Polite=Pol|VerbForm=Part|Voice=Act</td><td>रहे, हुए, बने, बैठे, लौटे</td></tr>
-  <tr><td>VM v gen-m|num-sg|pers-3h|case-|vib-या_हो+या_था|tam-yA|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Polite=Pol|VerbForm=Part|Voice=Act</td><td>संभाले</td></tr>
-  <tr style="background:lightgray"><td>VM v gen-m|num-sg|pers-3h|case-|vib-या_हो+या_है|tam-yA|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Polite=Pol|VerbForm=Part|Voice=Act</td><td>लगे, जुटे, आए, अपनाए</td></tr>
-  <tr><td>VM v gen-m|num-sg|pers-3h|case-|vib-या_हो+या|tam-yA|voicetype-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Polite=Pol|VerbForm=Part</td><td>मंजे</td></tr>
-  <tr style="background:lightgray"><td>VM v gen-m|num-sg|pers-3h|case-|vib-या|tam-yA|voicetype-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Polite=Pol|VerbForm=Part</td><td>आए, पहुंचे, रहे, जुटे, बैठे</td></tr>
-  <tr><td>VM v gen-m|num-sg|pers-3h|case-|vib-या|tam-yA|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Polite=Pol|VerbForm=Part|Voice=Act</td><td>रहे, हुए, आए, पहुंचे, बने</td></tr>
-  <tr style="background:lightgray"><td>VM v gen-m|num-sg|pers-3h|case-|vib-या१_था|tam-yA1|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Polite=Pol|VerbForm=Part|Voice=Act</td><td>गए, गये</td></tr>
-  <tr><td>VM v gen-m|num-sg|pers-3h|case-|vib-या१_है|tam-yA1|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Polite=Pol|VerbForm=Part|Voice=Act</td><td>गए</td></tr>
-  <tr style="background:lightgray"><td>VM v gen-m|num-sg|pers-3h|case-|vib-या१|tam-yA1|voicetype-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Polite=Pol|VerbForm=Part</td><td>गए</td></tr>
-  <tr><td>VM v gen-m|num-sg|pers-3h|case-|vib-या१|tam-yA1|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Polite=Pol|VerbForm=Part|Voice=Act</td><td>गए, गये</td></tr>
+  <tr><td>VM v gen-m|num-sg|pers-2h|case-|vib-0_रह+ए_है|tam-|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Number=Sing|Person=2|Polite=Form|Voice=Act</td><td>कर</td></tr>
+  <tr style="background:lightgray"><td>VM v gen-m|num-sg|pers-2h|case-|vib-0_सक+ता_है|tam-|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Number=Sing|Person=2|Polite=Form|Voice=Act</td><td>करवा, वसूल, खोज, कर</td></tr>
+  <tr><td>VM v gen-m|num-sg|pers-2h|case-|vib-|tam-eM|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Mood=Sub|Number=Sing|Person=2|Polite=Form|VerbForm=Fin|Voice=Act</td><td></td></tr>
+  <tr style="background:lightgray"><td>VM v gen-m|num-sg|pers-2h|case-|vib-|tam-gA|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Mood=Ind|Number=Sing|Person=2|Polite=Form|Tense=Fut|VerbForm=Fin|Voice=Act</td><td></td></tr>
+  <tr><td>VM v gen-m|num-sg|pers-2h|case-|vib-|tam-nA|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Number=Sing|Person=2|Polite=Form|VerbForm=Inf|Voice=Act</td><td></td></tr>
+  <tr style="background:lightgray"><td>VM v gen-m|num-sg|pers-2h|case-|vib-|tam-wA|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Gender=Masc|Number=Sing|Person=2|Polite=Form|VerbForm=Part|Voice=Act</td><td></td></tr>
+  <tr><td>VM v gen-m|num-sg|pers-2h|case-|vib-|tam-|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Number=Sing|Person=2|Polite=Form|Voice=Act</td><td></td></tr>
+  <tr style="background:lightgray"><td>VM v gen-m|num-sg|pers-2h|case-|vib-एं|tam-eM|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Mood=Sub|Number=Sing|Person=2|Polite=Form|VerbForm=Fin|Voice=Act</td><td>कीजिए</td></tr>
+  <tr><td>VM v gen-m|num-sg|pers-2h|case-|vib-गा|tam-gA|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Mood=Ind|Number=Sing|Person=2|Polite=Form|Tense=Fut|VerbForm=Fin|Voice=Act</td><td>रहेंगे, पाएंगे, आएंगे</td></tr>
+  <tr style="background:lightgray"><td>VM v gen-m|num-sg|pers-2h|case-|vib-ता_है|tam-wA|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Gender=Masc|Number=Sing|Person=2|Polite=Form|VerbForm=Part|Voice=Act</td><td>चाहते, करते, खोलते, समझते</td></tr>
+  <tr><td>VM v gen-m|num-sg|pers-2h|case-|vib-ना_दे+एं|tam-nA|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Number=Sing|Person=2|Polite=Form|VerbForm=Inf|Voice=Act</td><td>लगाने</td></tr>
+  <tr style="background:lightgray"><td>VM v gen-m|num-sg|pers-3h|case-o|vib-|tam-nA|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Case=Acc|Gender=Masc|Number=Sing|Person=3|Polite=Form|VerbForm=Inf|Voice=Act</td><td></td></tr>
+  <tr><td>VM v gen-m|num-sg|pers-3h|case-o|vib-ना_वाला_है|tam-nA|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Case=Acc|Gender=Masc|Number=Sing|Person=3|Polite=Form|VerbForm=Inf|Voice=Act</td><td>जाने, करने</td></tr>
+  <tr style="background:lightgray"><td>VM v gen-m|num-sg|pers-3h|case-|vib-0_चुक+या_था|tam-|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Number=Sing|Person=3|Polite=Form|Voice=Act</td><td>आ</td></tr>
+  <tr><td>VM v gen-m|num-sg|pers-3h|case-|vib-0_चुक+या_है|tam-|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Number=Sing|Person=3|Polite=Form|Voice=Act</td><td>कह, कर, जीत, रह, दे</td></tr>
+  <tr style="background:lightgray"><td>VM v gen-m|num-sg|pers-3h|case-|vib-0_जा+ता_है|tam-|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Number=Sing|Person=3|Polite=Form|Voice=Act</td><td>पलट</td></tr>
+  <tr><td>VM v gen-m|num-sg|pers-3h|case-|vib-0_जा+या1_है|tam-|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Number=Sing|Person=3|Polite=Form|Voice=Act</td><td>घिर</td></tr>
+  <tr style="background:lightgray"><td>VM v gen-m|num-sg|pers-3h|case-|vib-0_जा+या१_था|tam-|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Number=Sing|Person=3|Polite=Form|Voice=Act</td><td>हार, हो, बन, पहुंच</td></tr>
+  <tr><td>VM v gen-m|num-sg|pers-3h|case-|vib-0_जा+या१_है|tam-|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Number=Sing|Person=3|Polite=Form|Voice=Act</td><td>हो, आ, भड़क, घिर, बह</td></tr>
+  <tr style="background:lightgray"><td>VM v gen-m|num-sg|pers-3h|case-|vib-0_दे+ता_था|tam-|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Number=Sing|Person=3|Polite=Form|Voice=Act</td><td>रख</td></tr>
+  <tr><td>VM v gen-m|num-sg|pers-3h|case-|vib-0_दे+ता_है|tam-|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Number=Sing|Person=3|Polite=Form|Voice=Act</td><td>छोड़</td></tr>
+  <tr style="background:lightgray"><td>VM v gen-m|num-sg|pers-3h|case-|vib-0_दे+या_जा+या१_है|tam-|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Number=Sing|Person=3|Polite=Form|Voice=Act</td><td>कर</td></tr>
+  <tr><td>VM v gen-m|num-sg|pers-3h|case-|vib-0_पा+या_था|tam-|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Number=Sing|Person=3|Polite=Form|Voice=Act</td><td>कर</td></tr>
+  <tr style="background:lightgray"><td>VM v gen-m|num-sg|pers-3h|case-|vib-0_पड़+ता_है|tam-|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Number=Sing|Person=3|Polite=Form|Voice=Act</td><td>निकल</td></tr>
+  <tr><td>VM v gen-m|num-sg|pers-3h|case-|vib-0_रह+या_था|tam-|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Number=Sing|Person=3|Polite=Form|Voice=Act</td><td>कर, दे, जा, बना, जता</td></tr>
+  <tr style="background:lightgray"><td>VM v gen-m|num-sg|pers-3h|case-|vib-0_रह+या_है|tam-|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Number=Sing|Person=3|Polite=Form|Voice=Act</td><td>कर, जा, दे, आ, जूझ</td></tr>
+  <tr><td>VM v gen-m|num-sg|pers-3h|case-|vib-0_सक+ता_था|tam-|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Number=Sing|Person=3|Polite=Form|Voice=Act</td><td>कर, दिला</td></tr>
+  <tr style="background:lightgray"><td>VM v gen-m|num-sg|pers-3h|case-|vib-0_सक+ता_है|tam-|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Number=Sing|Person=3|Polite=Form|Voice=Act</td><td>कर, दे, ले, बना, रह</td></tr>
+  <tr><td>VM v gen-m|num-sg|pers-3h|case-|vib-|tam-WA|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Mood=Ind|Number=Sing|Person=3|Polite=Form|Tense=Past|VerbForm=Fin|Voice=Act</td><td></td></tr>
+  <tr style="background:lightgray"><td>VM v gen-m|num-sg|pers-3h|case-|vib-|tam-gA|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Mood=Ind|Number=Sing|Person=3|Polite=Form|Tense=Fut|VerbForm=Fin|Voice=Act</td><td></td></tr>
+  <tr><td>VM v gen-m|num-sg|pers-3h|case-|vib-|tam-gA|voicetype-passive</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Mood=Ind|Number=Sing|Person=3|Polite=Form|Tense=Fut|VerbForm=Fin|Voice=Pass</td><td></td></tr>
+  <tr style="background:lightgray"><td>VM v gen-m|num-sg|pers-3h|case-|vib-|tam-nA|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Number=Sing|Person=3|Polite=Form|VerbForm=Inf|Voice=Act</td><td></td></tr>
+  <tr><td>VM v gen-m|num-sg|pers-3h|case-|vib-|tam-wA|voicetype-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Gender=Masc|Number=Sing|Person=3|Polite=Form|VerbForm=Part</td><td></td></tr>
+  <tr style="background:lightgray"><td>VM v gen-m|num-sg|pers-3h|case-|vib-|tam-wA|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Gender=Masc|Number=Sing|Person=3|Polite=Form|VerbForm=Part|Voice=Act</td><td></td></tr>
+  <tr><td>VM v gen-m|num-sg|pers-3h|case-|vib-|tam-yA1|voicetype-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Polite=Form|VerbForm=Part</td><td></td></tr>
+  <tr style="background:lightgray"><td>VM v gen-m|num-sg|pers-3h|case-|vib-|tam-yA1|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Polite=Form|VerbForm=Part|Voice=Act</td><td></td></tr>
+  <tr><td>VM v gen-m|num-sg|pers-3h|case-|vib-|tam-yA|voicetype-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Polite=Form|VerbForm=Part</td><td></td></tr>
+  <tr style="background:lightgray"><td>VM v gen-m|num-sg|pers-3h|case-|vib-|tam-yA|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Polite=Form|VerbForm=Part|Voice=Act</td><td></td></tr>
+  <tr><td>VM v gen-m|num-sg|pers-3h|case-|vib-|tam-yA|voicetype-passive</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Polite=Form|VerbForm=Part|Voice=Pass</td><td></td></tr>
+  <tr style="background:lightgray"><td>VM v gen-m|num-sg|pers-3h|case-|vib-|tam-|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Number=Sing|Person=3|Polite=Form|Voice=Act</td><td>पहुंचे</td></tr>
+  <tr><td>VM v gen-m|num-sg|pers-3h|case-|vib-गा|tam-gA|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Mood=Ind|Number=Sing|Person=3|Polite=Form|Tense=Fut|VerbForm=Fin|Voice=Act</td><td>करेंगे, होंगे, लेंगे, देंगे, जाएंगे</td></tr>
+  <tr style="background:lightgray"><td>VM v gen-m|num-sg|pers-3h|case-|vib-गा|tam-gA|voicetype-passive</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Mood=Ind|Number=Sing|Person=3|Polite=Form|Tense=Fut|VerbForm=Fin|Voice=Pass</td><td>ठहरेंगे</td></tr>
+  <tr><td>VM v gen-m|num-sg|pers-3h|case-|vib-ता_था|tam-wA|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Gender=Masc|Number=Sing|Person=3|Polite=Form|VerbForm=Part|Voice=Act</td><td>चाहते, समझते, बोलते, जाते, करते</td></tr>
+  <tr style="background:lightgray"><td>VM v gen-m|num-sg|pers-3h|case-|vib-ता_बन+या|tam-wA|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Gender=Masc|Number=Sing|Person=3|Polite=Form|VerbForm=Part|Voice=Act</td><td>चलते</td></tr>
+  <tr><td>VM v gen-m|num-sg|pers-3h|case-|vib-ता_रह+गा|tam-wA|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Gender=Masc|Number=Sing|Person=3|Polite=Form|VerbForm=Part|Voice=Act</td><td>लेते, बढ़ाते, निभाते</td></tr>
+  <tr style="background:lightgray"><td>VM v gen-m|num-sg|pers-3h|case-|vib-ता_रह+या_है|tam-wA|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Gender=Masc|Number=Sing|Person=3|Polite=Form|VerbForm=Part|Voice=Act</td><td>ढूंढ़ते, मानते, करते</td></tr>
+  <tr><td>VM v gen-m|num-sg|pers-3h|case-|vib-ता_रह+या|tam-wA|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Gender=Masc|Number=Sing|Person=3|Polite=Form|VerbForm=Part|Voice=Act</td><td>दबाते, कहते, करते, देते, बचते</td></tr>
+  <tr style="background:lightgray"><td>VM v gen-m|num-sg|pers-3h|case-|vib-ता_है|tam-wA|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Gender=Masc|Number=Sing|Person=3|Polite=Form|VerbForm=Part|Voice=Act</td><td>चाहते, कहते, करते, बताते, देते</td></tr>
+  <tr><td>VM v gen-m|num-sg|pers-3h|case-|vib-ता_हो+एं|tam-wA|voicetype-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Gender=Masc|Number=Sing|Person=3|Polite=Form|VerbForm=Part</td><td>देते</td></tr>
+  <tr style="background:lightgray"><td>VM v gen-m|num-sg|pers-3h|case-|vib-ता_हो+या|tam-wA|voicetype-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Gender=Masc|Number=Sing|Person=3|Polite=Form|VerbForm=Part</td><td>उभरते, लगाते, करते</td></tr>
+  <tr><td>VM v gen-m|num-sg|pers-3h|case-|vib-ता|tam-wA|voicetype-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Gender=Masc|Number=Sing|Person=3|Polite=Form|VerbForm=Part</td><td>करते</td></tr>
+  <tr style="background:lightgray"><td>VM v gen-m|num-sg|pers-3h|case-|vib-ता|tam-wA|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Gender=Masc|Number=Sing|Person=3|Polite=Form|VerbForm=Part|Voice=Act</td><td>चाहते, भूलते, देते, आते, जानते</td></tr>
+  <tr><td>VM v gen-m|num-sg|pers-3h|case-|vib-था|tam-WA|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Mood=Ind|Number=Sing|Person=3|Polite=Form|Tense=Past|VerbForm=Fin|Voice=Act</td><td>थे</td></tr>
+  <tr style="background:lightgray"><td>VM v gen-m|num-sg|pers-3h|case-|vib-ना_जा+या१_हो+या_था|tam-nA|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Number=Sing|Person=3|Polite=Form|VerbForm=Inf|Voice=Act</td><td>लेने</td></tr>
+  <tr><td>VM v gen-m|num-sg|pers-3h|case-|vib-ना_जा_रह+या_है|tam-nA|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Number=Sing|Person=3|Polite=Form|VerbForm=Inf|Voice=Act</td><td>करने</td></tr>
+  <tr style="background:lightgray"><td>VM v gen-m|num-sg|pers-3h|case-|vib-ना_वाला_था|tam-nA|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Number=Sing|Person=3|Polite=Form|VerbForm=Inf|Voice=Act</td><td>आने</td></tr>
+  <tr><td>VM v gen-m|num-sg|pers-3h|case-|vib-ना_वाला_है|tam-nA|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Number=Sing|Person=3|Polite=Form|VerbForm=Inf|Voice=Act</td><td>करने, होने, आने, आजमाने</td></tr>
+  <tr style="background:lightgray"><td>VM v gen-m|num-sg|pers-3h|case-|vib-ना_हो+गा|tam-nA|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Number=Sing|Person=3|Polite=Form|VerbForm=Inf|Voice=Act</td><td>करने</td></tr>
+  <tr><td>VM v gen-m|num-sg|pers-3h|case-|vib-या_आ+या|tam-yA|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Polite=Form|VerbForm=Part|Voice=Act</td><td>चले</td></tr>
+  <tr style="background:lightgray"><td>VM v gen-m|num-sg|pers-3h|case-|vib-या_कर+ता_था|tam-yA|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Polite=Form|VerbForm=Part|Voice=Act</td><td>जाया</td></tr>
+  <tr><td>VM v gen-m|num-sg|pers-3h|case-|vib-या_जा+एं|tam-yA|voicetype-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Polite=Form|VerbForm=Part</td><td>चुने</td></tr>
+  <tr style="background:lightgray"><td>VM v gen-m|num-sg|pers-3h|case-|vib-या_जा+एं|tam-yA|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Polite=Form|VerbForm=Part|Voice=Act</td><td>चले</td></tr>
+  <tr><td>VM v gen-m|num-sg|pers-3h|case-|vib-या_जा+गा|tam-yA|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Polite=Form|VerbForm=Part|Voice=Act</td><td>मारे</td></tr>
+  <tr style="background:lightgray"><td>VM v gen-m|num-sg|pers-3h|case-|vib-या_जा+ता_है|tam-yA|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Polite=Form|VerbForm=Part|Voice=Act</td><td>माने</td></tr>
+  <tr><td>VM v gen-m|num-sg|pers-3h|case-|vib-या_जा+या१_था|tam-yA|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Polite=Form|VerbForm=Part|Voice=Act</td><td>चले</td></tr>
+  <tr style="background:lightgray"><td>VM v gen-m|num-sg|pers-3h|case-|vib-या_जा+या१_है|tam-yA|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Polite=Form|VerbForm=Part|Voice=Act</td><td>चले</td></tr>
+  <tr><td>VM v gen-m|num-sg|pers-3h|case-|vib-या_जा+या१_है|tam-yA|voicetype-passive</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Polite=Form|VerbForm=Part|Voice=Pass</td><td>बनाए</td></tr>
+  <tr style="background:lightgray"><td>VM v gen-m|num-sg|pers-3h|case-|vib-या_जा+या१|tam-yA|voicetype-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Polite=Form|VerbForm=Part</td><td>हटाए, किए, भेजे, पकड़े, रखे</td></tr>
+  <tr><td>VM v gen-m|num-sg|pers-3h|case-|vib-या_जा+या१|tam-yA|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Polite=Form|VerbForm=Part|Voice=Act</td><td>किए, चले</td></tr>
+  <tr style="background:lightgray"><td>VM v gen-m|num-sg|pers-3h|case-|vib-या_था|tam-yA|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Polite=Form|VerbForm=Part|Voice=Act</td><td>आए, हुए, पहुंचे, बैठे, रहे</td></tr>
+  <tr><td>VM v gen-m|num-sg|pers-3h|case-|vib-या_बैठ+या|tam-yA|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Polite=Form|VerbForm=Part|Voice=Act</td><td>थमा</td></tr>
+  <tr style="background:lightgray"><td>VM v gen-m|num-sg|pers-3h|case-|vib-या_रख+गा|tam-yA|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Polite=Form|VerbForm=Part|Voice=Act</td><td>बनाए</td></tr>
+  <tr><td>VM v gen-m|num-sg|pers-3h|case-|vib-या_रह+एं|tam-yA|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Polite=Form|VerbForm=Part|Voice=Act</td><td>बने</td></tr>
+  <tr style="background:lightgray"><td>VM v gen-m|num-sg|pers-3h|case-|vib-या_रह+गा|tam-yA|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Polite=Form|VerbForm=Part|Voice=Act</td><td>बने, डटे</td></tr>
+  <tr><td>VM v gen-m|num-sg|pers-3h|case-|vib-या_रह+या_था|tam-yA|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Polite=Form|VerbForm=Part|Voice=Act</td><td>दिखा</td></tr>
+  <tr style="background:lightgray"><td>VM v gen-m|num-sg|pers-3h|case-|vib-या_रह+या|tam-yA|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Polite=Form|VerbForm=Part|Voice=Act</td><td>लगे</td></tr>
+  <tr><td>VM v gen-m|num-sg|pers-3h|case-|vib-या_सक+ता_है|tam-yA|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Polite=Form|VerbForm=Part|Voice=Act</td><td>हटा</td></tr>
+  <tr style="background:lightgray"><td>VM v gen-m|num-sg|pers-3h|case-|vib-या_है|tam-yA|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Polite=Form|VerbForm=Part|Voice=Act</td><td>रहे, हुए, बने, बैठे, लौटे</td></tr>
+  <tr><td>VM v gen-m|num-sg|pers-3h|case-|vib-या_हो+या_था|tam-yA|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Polite=Form|VerbForm=Part|Voice=Act</td><td>संभाले</td></tr>
+  <tr style="background:lightgray"><td>VM v gen-m|num-sg|pers-3h|case-|vib-या_हो+या_है|tam-yA|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Polite=Form|VerbForm=Part|Voice=Act</td><td>लगे, जुटे, आए, अपनाए</td></tr>
+  <tr><td>VM v gen-m|num-sg|pers-3h|case-|vib-या_हो+या|tam-yA|voicetype-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Polite=Form|VerbForm=Part</td><td>मंजे</td></tr>
+  <tr style="background:lightgray"><td>VM v gen-m|num-sg|pers-3h|case-|vib-या|tam-yA|voicetype-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Polite=Form|VerbForm=Part</td><td>आए, पहुंचे, रहे, जुटे, बैठे</td></tr>
+  <tr><td>VM v gen-m|num-sg|pers-3h|case-|vib-या|tam-yA|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Polite=Form|VerbForm=Part|Voice=Act</td><td>रहे, हुए, आए, पहुंचे, बने</td></tr>
+  <tr style="background:lightgray"><td>VM v gen-m|num-sg|pers-3h|case-|vib-या१_था|tam-yA1|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Polite=Form|VerbForm=Part|Voice=Act</td><td>गए, गये</td></tr>
+  <tr><td>VM v gen-m|num-sg|pers-3h|case-|vib-या१_है|tam-yA1|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Polite=Form|VerbForm=Part|Voice=Act</td><td>गए</td></tr>
+  <tr style="background:lightgray"><td>VM v gen-m|num-sg|pers-3h|case-|vib-या१|tam-yA1|voicetype-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Polite=Form|VerbForm=Part</td><td>गए</td></tr>
+  <tr><td>VM v gen-m|num-sg|pers-3h|case-|vib-या१|tam-yA1|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Polite=Form|VerbForm=Part|Voice=Act</td><td>गए, गये</td></tr>
   <tr style="background:lightgray"><td>VM v gen-m|num-sg|pers-3|case-d|vib-|tam-nA|voicetype-</td><td>=&gt;</td><td>VERB</td><td>Case=Nom|Gender=Masc|Number=Sing|Person=3|VerbForm=Inf</td><td></td></tr>
   <tr><td>VM v gen-m|num-sg|pers-3|case-d|vib-|tam-nA|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Case=Nom|Gender=Masc|Number=Sing|Person=3|VerbForm=Inf|Voice=Act</td><td></td></tr>
   <tr style="background:lightgray"><td>VM v gen-m|num-sg|pers-3|case-d|vib-|tam-yA|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Person=3|VerbForm=Part|Voice=Act</td><td></td></tr>
@@ -2063,8 +2064,8 @@ Tagset <tt>hi::conll</tt>, total 3125 tags.
   <tr style="background:lightgray"><td>VM v gen-m|num-sg|pers-3|case-|vib-|tam-gA|voicetype-</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin</td><td></td></tr>
   <tr><td>VM v gen-m|num-sg|pers-3|case-|vib-|tam-gA|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act</td><td></td></tr>
   <tr style="background:lightgray"><td>VM v gen-m|num-sg|pers-3|case-|vib-|tam-gA|voicetype-passive</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Pass</td><td></td></tr>
-  <tr><td>VM v gen-m|num-sg|pers-3|case-|vib-|tam-kara|voicetype-</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Number=Sing|Person=3|VerbForm=Trans</td><td></td></tr>
-  <tr style="background:lightgray"><td>VM v gen-m|num-sg|pers-3|case-|vib-|tam-kara|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Number=Sing|Person=3|VerbForm=Trans|Voice=Act</td><td></td></tr>
+  <tr><td>VM v gen-m|num-sg|pers-3|case-|vib-|tam-kara|voicetype-</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Number=Sing|Person=3|VerbForm=Conv</td><td></td></tr>
+  <tr style="background:lightgray"><td>VM v gen-m|num-sg|pers-3|case-|vib-|tam-kara|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Number=Sing|Person=3|VerbForm=Conv|Voice=Act</td><td></td></tr>
   <tr><td>VM v gen-m|num-sg|pers-3|case-|vib-|tam-nA|voicetype-</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Number=Sing|Person=3|VerbForm=Inf</td><td></td></tr>
   <tr style="background:lightgray"><td>VM v gen-m|num-sg|pers-3|case-|vib-|tam-nA|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Number=Sing|Person=3|VerbForm=Inf|Voice=Act</td><td></td></tr>
   <tr><td>VM v gen-m|num-sg|pers-3|case-|vib-|tam-nA|voicetype-passive</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Number=Sing|Person=3|VerbForm=Inf|Voice=Pass</td><td></td></tr>
@@ -2081,8 +2082,8 @@ Tagset <tt>hi::conll</tt>, total 3125 tags.
   <tr style="background:lightgray"><td>VM v gen-m|num-sg|pers-3|case-|vib-|tam-|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Number=Sing|Person=3|Voice=Act</td><td>उठा, चला</td></tr>
   <tr><td>VM v gen-m|num-sg|pers-3|case-|vib-|tam-|voicetype-passive</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Number=Sing|Person=3|Voice=Pass</td><td></td></tr>
   <tr style="background:lightgray"><td>VM v gen-m|num-sg|pers-3|case-|vib-एं|tam-eM|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Mood=Sub|Number=Sing|Person=3|VerbForm=Fin|Voice=Act</td><td>रहे, निकाले, बढ़े, पहुंचे</td></tr>
-  <tr><td>VM v gen-m|num-sg|pers-3|case-|vib-कर|tam-kara|voicetype-</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Number=Sing|Person=3|VerbForm=Trans</td><td>बनाकर, छिड़ककर, कर</td></tr>
-  <tr style="background:lightgray"><td>VM v gen-m|num-sg|pers-3|case-|vib-कर|tam-kara|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Number=Sing|Person=3|VerbForm=Trans|Voice=Act</td><td>भराकर</td></tr>
+  <tr><td>VM v gen-m|num-sg|pers-3|case-|vib-कर|tam-kara|voicetype-</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Number=Sing|Person=3|VerbForm=Conv</td><td>बनाकर, छिड़ककर, कर</td></tr>
+  <tr style="background:lightgray"><td>VM v gen-m|num-sg|pers-3|case-|vib-कर|tam-kara|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Number=Sing|Person=3|VerbForm=Conv|Voice=Act</td><td>भराकर</td></tr>
   <tr><td>VM v gen-m|num-sg|pers-3|case-|vib-गा|tam-gA|voicetype-</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin</td><td>होगा</td></tr>
   <tr style="background:lightgray"><td>VM v gen-m|num-sg|pers-3|case-|vib-गा|tam-gA|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act</td><td>होगा, करेगा, मिलेगा, रहेगा, देगा</td></tr>
   <tr><td>VM v gen-m|num-sg|pers-3|case-|vib-गा|tam-gA|voicetype-passive</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Pass</td><td>रहेगा, होगा</td></tr>
@@ -2448,9 +2449,9 @@ Tagset <tt>hi::conll</tt>, total 3125 tags.
   <tr><td>VM v gen-|num-pl|pers-1|case-|vib-एं|tam-eM|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Mood=Sub|Number=Plur|Person=1|VerbForm=Fin|Voice=Act</td><td>करें, कहें</td></tr>
   <tr style="background:lightgray"><td>VM v gen-|num-pl|pers-1|case-|vib-गा|tam-gA|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act</td><td>करेंगे</td></tr>
   <tr><td>VM v gen-|num-pl|pers-1|case-|vib-है|tam-hE|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act</td><td>हैं</td></tr>
-  <tr style="background:lightgray"><td>VM v gen-|num-pl|pers-2|case-|vib-|tam-ao|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Mood=Imp|Number=Plur|Person=2|Polite=Inf|VerbForm=Fin|Voice=Act</td><td></td></tr>
+  <tr style="background:lightgray"><td>VM v gen-|num-pl|pers-2|case-|vib-|tam-ao|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Mood=Imp|Number=Plur|Person=2|Polite=Infm|VerbForm=Fin|Voice=Act</td><td></td></tr>
   <tr><td>VM v gen-|num-pl|pers-2|case-|vib-|tam-wA|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Number=Plur|Person=2|VerbForm=Part|Voice=Act</td><td></td></tr>
-  <tr style="background:lightgray"><td>VM v gen-|num-pl|pers-2|case-|vib-ओ|tam-ao|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Mood=Imp|Number=Plur|Person=2|Polite=Inf|VerbForm=Fin|Voice=Act</td><td>करो, लो, देखो</td></tr>
+  <tr style="background:lightgray"><td>VM v gen-|num-pl|pers-2|case-|vib-ओ|tam-ao|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Mood=Imp|Number=Plur|Person=2|Polite=Infm|VerbForm=Fin|Voice=Act</td><td>करो, लो, देखो</td></tr>
   <tr><td>VM v gen-|num-pl|pers-2|case-|vib-ता_रह_जा+गा|tam-wA|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Number=Plur|Person=2|VerbForm=Part|Voice=Act</td><td>ढूंढ़ते</td></tr>
   <tr style="background:lightgray"><td>VM v gen-|num-pl|pers-3|case-o|vib-|tam-nA|voicetype-</td><td>=&gt;</td><td>VERB</td><td>Case=Acc|Number=Plur|Person=3|VerbForm=Inf</td><td></td></tr>
   <tr><td>VM v gen-|num-pl|pers-3|case-o|vib-ना_वाला|tam-nA|voicetype-</td><td>=&gt;</td><td>VERB</td><td>Case=Acc|Number=Plur|Person=3|VerbForm=Inf</td><td>करने, बनाने, लाने</td></tr>
@@ -2566,8 +2567,8 @@ Tagset <tt>hi::conll</tt>, total 3125 tags.
   <tr><td>VM v gen-|num-pl|pers-|case-|vib-|tam-WA|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act</td><td></td></tr>
   <tr style="background:lightgray"><td>VM v gen-|num-pl|pers-|case-|vib-|tam-eM|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Mood=Sub|Number=Plur|VerbForm=Fin|Voice=Act</td><td></td></tr>
   <tr><td>VM v gen-|num-pl|pers-|case-|vib-|tam-hE|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin|Voice=Act</td><td></td></tr>
-  <tr style="background:lightgray"><td>VM v gen-|num-pl|pers-|case-|vib-|tam-kara|voicetype-</td><td>=&gt;</td><td>VERB</td><td>Number=Plur|VerbForm=Trans</td><td></td></tr>
-  <tr><td>VM v gen-|num-pl|pers-|case-|vib-|tam-kara|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Number=Plur|VerbForm=Trans|Voice=Act</td><td></td></tr>
+  <tr style="background:lightgray"><td>VM v gen-|num-pl|pers-|case-|vib-|tam-kara|voicetype-</td><td>=&gt;</td><td>VERB</td><td>Number=Plur|VerbForm=Conv</td><td></td></tr>
+  <tr><td>VM v gen-|num-pl|pers-|case-|vib-|tam-kara|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Number=Plur|VerbForm=Conv|Voice=Act</td><td></td></tr>
   <tr style="background:lightgray"><td>VM v gen-|num-pl|pers-|case-|vib-|tam-nA|voicetype-</td><td>=&gt;</td><td>VERB</td><td>Number=Plur|VerbForm=Inf</td><td></td></tr>
   <tr><td>VM v gen-|num-pl|pers-|case-|vib-|tam-nA|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Number=Plur|VerbForm=Inf|Voice=Act</td><td></td></tr>
   <tr style="background:lightgray"><td>VM v gen-|num-pl|pers-|case-|vib-|tam-wA|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Number=Plur|VerbForm=Part|Voice=Act</td><td></td></tr>
@@ -2578,8 +2579,8 @@ Tagset <tt>hi::conll</tt>, total 3125 tags.
   <tr><td>VM v gen-|num-pl|pers-|case-|vib-|tam-|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Number=Plur|Voice=Act</td><td></td></tr>
   <tr style="background:lightgray"><td>VM v gen-|num-pl|pers-|case-|vib-|tam-|voicetype-passive</td><td>=&gt;</td><td>VERB</td><td>Number=Plur|Voice=Pass</td><td></td></tr>
   <tr><td>VM v gen-|num-pl|pers-|case-|vib-एं|tam-eM|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Mood=Sub|Number=Plur|VerbForm=Fin|Voice=Act</td><td>रहे, ले, करें</td></tr>
-  <tr style="background:lightgray"><td>VM v gen-|num-pl|pers-|case-|vib-कर_आ+या|tam-kara|voicetype-</td><td>=&gt;</td><td>VERB</td><td>Number=Plur|VerbForm=Trans</td><td>बहकर</td></tr>
-  <tr><td>VM v gen-|num-pl|pers-|case-|vib-कर_जा+या१|tam-kara|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Number=Plur|VerbForm=Trans|Voice=Act</td><td>लेकर</td></tr>
+  <tr style="background:lightgray"><td>VM v gen-|num-pl|pers-|case-|vib-कर_आ+या|tam-kara|voicetype-</td><td>=&gt;</td><td>VERB</td><td>Number=Plur|VerbForm=Conv</td><td>बहकर</td></tr>
+  <tr><td>VM v gen-|num-pl|pers-|case-|vib-कर_जा+या१|tam-kara|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Number=Plur|VerbForm=Conv|Voice=Act</td><td>लेकर</td></tr>
   <tr style="background:lightgray"><td>VM v gen-|num-pl|pers-|case-|vib-ता_रह_जा+या१|tam-wA|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Number=Plur|VerbForm=Part|Voice=Act</td><td>दबोचते</td></tr>
   <tr><td>VM v gen-|num-pl|pers-|case-|vib-था|tam-WA|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act</td><td>थे</td></tr>
   <tr style="background:lightgray"><td>VM v gen-|num-pl|pers-|case-|vib-ना_लग+या_था|tam-nA|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Number=Plur|VerbForm=Inf|Voice=Act</td><td>उड़ने</td></tr>
@@ -2606,89 +2607,89 @@ Tagset <tt>hi::conll</tt>, total 3125 tags.
   <tr><td>VM v gen-|num-pl|pers-|case-|vib-या_हो+या|tam-yA|voicetype-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Number=Plur|VerbForm=Part</td><td>हारे</td></tr>
   <tr style="background:lightgray"><td>VM v gen-|num-pl|pers-|case-|vib-या|tam-yA|voicetype-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Number=Plur|VerbForm=Part</td><td>जुड़े</td></tr>
   <tr><td>VM v gen-|num-pl|pers-|case-|vib-है|tam-hE|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin|Voice=Act</td><td>हैं</td></tr>
-  <tr style="background:lightgray"><td>VM v gen-|num-sg|pers-1h|case-|vib-|tam-hE|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Number=Sing|Person=1|Polite=Pol|Tense=Pres|VerbForm=Fin|Voice=Act</td><td></td></tr>
-  <tr><td>VM v gen-|num-sg|pers-1h|case-|vib-है|tam-hE|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Number=Sing|Person=1|Polite=Pol|Tense=Pres|VerbForm=Fin|Voice=Act</td><td>हैं</td></tr>
+  <tr style="background:lightgray"><td>VM v gen-|num-sg|pers-1h|case-|vib-|tam-hE|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Number=Sing|Person=1|Polite=Form|Tense=Pres|VerbForm=Fin|Voice=Act</td><td></td></tr>
+  <tr><td>VM v gen-|num-sg|pers-1h|case-|vib-है|tam-hE|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Number=Sing|Person=1|Polite=Form|Tense=Pres|VerbForm=Fin|Voice=Act</td><td>हैं</td></tr>
   <tr style="background:lightgray"><td>VM v gen-|num-sg|pers-1|case-|vib-0_दे+गा|tam-|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=1|Voice=Act</td><td>दे</td></tr>
   <tr><td>VM v gen-|num-sg|pers-1|case-|vib-0_सक+ऊँ|tam-|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=1|Voice=Act</td><td>कर</td></tr>
   <tr style="background:lightgray"><td>VM v gen-|num-sg|pers-1|case-|vib-0_सक+गा|tam-|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=1|Voice=Act</td><td>कर</td></tr>
   <tr><td>VM v gen-|num-sg|pers-1|case-|vib-|tam-hE|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act</td><td></td></tr>
   <tr style="background:lightgray"><td>VM v gen-|num-sg|pers-1|case-|vib-|tam-|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=1|Voice=Act</td><td></td></tr>
   <tr><td>VM v gen-|num-sg|pers-1|case-|vib-है|tam-hE|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act</td><td>हूं, हूँ</td></tr>
-  <tr style="background:lightgray"><td>VM v gen-|num-sg|pers-2h|case-|vib-0_जा+एं|tam-|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=2|Polite=Pol|Voice=Act</td><td>हो</td></tr>
-  <tr><td>VM v gen-|num-sg|pers-2h|case-|vib-0_जा+गा|tam-|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=2|Polite=Pol|Voice=Act</td><td>बन</td></tr>
-  <tr style="background:lightgray"><td>VM v gen-|num-sg|pers-2h|case-|vib-0_दे+एं|tam-|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=2|Polite=Pol|Voice=Act</td><td>भेज, छोड़, डाल, कर, करा</td></tr>
-  <tr><td>VM v gen-|num-sg|pers-2h|case-|vib-0_ले+ए|tam-|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=2|Polite=Pol|Voice=Act</td><td>डाल</td></tr>
-  <tr style="background:lightgray"><td>VM v gen-|num-sg|pers-2h|case-|vib-0_ले+एं|tam-|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=2|Polite=Pol|Voice=Act</td><td>कर, सुलगा</td></tr>
-  <tr><td>VM v gen-|num-sg|pers-2h|case-|vib-0_सक+ता|tam-|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=2|Polite=Pol|Voice=Act</td><td>ले, कर, सोच</td></tr>
-  <tr style="background:lightgray"><td>VM v gen-|num-sg|pers-2h|case-|vib-|tam-eM|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Mood=Sub|Number=Sing|Person=2|Polite=Pol|VerbForm=Fin|Voice=Act</td><td></td></tr>
-  <tr><td>VM v gen-|num-sg|pers-2h|case-|vib-|tam-hE|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Number=Sing|Person=2|Polite=Pol|Tense=Pres|VerbForm=Fin|Voice=Act</td><td></td></tr>
-  <tr style="background:lightgray"><td>VM v gen-|num-sg|pers-2h|case-|vib-|tam-nA|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=2|Polite=Pol|VerbForm=Inf|Voice=Act</td><td></td></tr>
-  <tr><td>VM v gen-|num-sg|pers-2h|case-|vib-|tam-|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=2|Polite=Pol|Voice=Act</td><td>हो</td></tr>
-  <tr style="background:lightgray"><td>VM v gen-|num-sg|pers-2h|case-|vib-एं|tam-eM|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Mood=Sub|Number=Sing|Person=2|Polite=Pol|VerbForm=Fin|Voice=Act</td><td>करें, डालिए, फंसे, दें, आइए</td></tr>
-  <tr><td>VM v gen-|num-sg|pers-2h|case-|vib-ना_चाह+एं|tam-nA|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=2|Polite=Pol|VerbForm=Inf|Voice=Act</td><td>जाना</td></tr>
-  <tr style="background:lightgray"><td>VM v gen-|num-sg|pers-2h|case-|vib-ना_चाह+गा|tam-nA|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=2|Polite=Pol|VerbForm=Inf|Voice=Act</td><td>लेना</td></tr>
-  <tr><td>VM v gen-|num-sg|pers-2h|case-|vib-है|tam-hE|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Number=Sing|Person=2|Polite=Pol|Tense=Pres|VerbForm=Fin|Voice=Act</td><td>हैं</td></tr>
-  <tr style="background:lightgray"><td>VM v gen-|num-sg|pers-2|case-|vib-|tam-ao|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Mood=Imp|Number=Sing|Person=2|Polite=Inf|VerbForm=Fin|Voice=Act</td><td></td></tr>
+  <tr style="background:lightgray"><td>VM v gen-|num-sg|pers-2h|case-|vib-0_जा+एं|tam-|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=2|Polite=Form|Voice=Act</td><td>हो</td></tr>
+  <tr><td>VM v gen-|num-sg|pers-2h|case-|vib-0_जा+गा|tam-|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=2|Polite=Form|Voice=Act</td><td>बन</td></tr>
+  <tr style="background:lightgray"><td>VM v gen-|num-sg|pers-2h|case-|vib-0_दे+एं|tam-|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=2|Polite=Form|Voice=Act</td><td>भेज, छोड़, डाल, कर, करा</td></tr>
+  <tr><td>VM v gen-|num-sg|pers-2h|case-|vib-0_ले+ए|tam-|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=2|Polite=Form|Voice=Act</td><td>डाल</td></tr>
+  <tr style="background:lightgray"><td>VM v gen-|num-sg|pers-2h|case-|vib-0_ले+एं|tam-|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=2|Polite=Form|Voice=Act</td><td>कर, सुलगा</td></tr>
+  <tr><td>VM v gen-|num-sg|pers-2h|case-|vib-0_सक+ता|tam-|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=2|Polite=Form|Voice=Act</td><td>ले, कर, सोच</td></tr>
+  <tr style="background:lightgray"><td>VM v gen-|num-sg|pers-2h|case-|vib-|tam-eM|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Mood=Sub|Number=Sing|Person=2|Polite=Form|VerbForm=Fin|Voice=Act</td><td></td></tr>
+  <tr><td>VM v gen-|num-sg|pers-2h|case-|vib-|tam-hE|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Number=Sing|Person=2|Polite=Form|Tense=Pres|VerbForm=Fin|Voice=Act</td><td></td></tr>
+  <tr style="background:lightgray"><td>VM v gen-|num-sg|pers-2h|case-|vib-|tam-nA|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=2|Polite=Form|VerbForm=Inf|Voice=Act</td><td></td></tr>
+  <tr><td>VM v gen-|num-sg|pers-2h|case-|vib-|tam-|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=2|Polite=Form|Voice=Act</td><td>हो</td></tr>
+  <tr style="background:lightgray"><td>VM v gen-|num-sg|pers-2h|case-|vib-एं|tam-eM|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Mood=Sub|Number=Sing|Person=2|Polite=Form|VerbForm=Fin|Voice=Act</td><td>करें, डालिए, फंसे, दें, आइए</td></tr>
+  <tr><td>VM v gen-|num-sg|pers-2h|case-|vib-ना_चाह+एं|tam-nA|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=2|Polite=Form|VerbForm=Inf|Voice=Act</td><td>जाना</td></tr>
+  <tr style="background:lightgray"><td>VM v gen-|num-sg|pers-2h|case-|vib-ना_चाह+गा|tam-nA|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=2|Polite=Form|VerbForm=Inf|Voice=Act</td><td>लेना</td></tr>
+  <tr><td>VM v gen-|num-sg|pers-2h|case-|vib-है|tam-hE|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Number=Sing|Person=2|Polite=Form|Tense=Pres|VerbForm=Fin|Voice=Act</td><td>हैं</td></tr>
+  <tr style="background:lightgray"><td>VM v gen-|num-sg|pers-2|case-|vib-|tam-ao|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Mood=Imp|Number=Sing|Person=2|Polite=Infm|VerbForm=Fin|Voice=Act</td><td></td></tr>
   <tr><td>VM v gen-|num-sg|pers-2|case-|vib-|tam-eM|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Mood=Sub|Number=Sing|Person=2|VerbForm=Fin|Voice=Act</td><td></td></tr>
   <tr style="background:lightgray"><td>VM v gen-|num-sg|pers-2|case-|vib-|tam-hE|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act</td><td></td></tr>
   <tr><td>VM v gen-|num-sg|pers-2|case-|vib-एं|tam-eM|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Mood=Sub|Number=Sing|Person=2|VerbForm=Fin|Voice=Act</td><td>रहे</td></tr>
-  <tr style="background:lightgray"><td>VM v gen-|num-sg|pers-2|case-|vib-ओ|tam-ao|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Mood=Imp|Number=Sing|Person=2|Polite=Inf|VerbForm=Fin|Voice=Act</td><td>बताओ, आओ, करो</td></tr>
+  <tr style="background:lightgray"><td>VM v gen-|num-sg|pers-2|case-|vib-ओ|tam-ao|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Mood=Imp|Number=Sing|Person=2|Polite=Infm|VerbForm=Fin|Voice=Act</td><td>बताओ, आओ, करो</td></tr>
   <tr><td>VM v gen-|num-sg|pers-2|case-|vib-है|tam-hE|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act</td><td>है</td></tr>
-  <tr style="background:lightgray"><td>VM v gen-|num-sg|pers-3h|case-o|vib-0_आ+या|tam-|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Case=Acc|Number=Sing|Person=3|Polite=Pol|Voice=Act</td><td>लौट</td></tr>
-  <tr><td>VM v gen-|num-sg|pers-3h|case-o|vib-|tam-nA|voicetype-</td><td>=&gt;</td><td>VERB</td><td>Case=Acc|Number=Sing|Person=3|Polite=Pol|VerbForm=Inf</td><td></td></tr>
-  <tr style="background:lightgray"><td>VM v gen-|num-sg|pers-3h|case-o|vib-|tam-|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Case=Acc|Number=Sing|Person=3|Polite=Pol|Voice=Act</td><td></td></tr>
-  <tr><td>VM v gen-|num-sg|pers-3h|case-o|vib-ना_का|tam-nA|voicetype-</td><td>=&gt;</td><td>VERB</td><td>Case=Acc|Number=Sing|Person=3|Polite=Pol|VerbForm=Inf</td><td>देखने, लगाने, रखने</td></tr>
-  <tr style="background:lightgray"><td>VM v gen-|num-sg|pers-3h|case-o|vib-ना_वाला|tam-nA|voicetype-</td><td>=&gt;</td><td>VERB</td><td>Case=Acc|Number=Sing|Person=3|Polite=Pol|VerbForm=Inf</td><td>करने, सोने, आने</td></tr>
-  <tr><td>VM v gen-|num-sg|pers-3h|case-|vib-0_आ+या|tam-|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=3|Polite=Pol|Voice=Act</td><td>लौट, ले</td></tr>
-  <tr style="background:lightgray"><td>VM v gen-|num-sg|pers-3h|case-|vib-0_चुक+एं_है|tam-|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=3|Polite=Pol|Voice=Act</td><td>रह, कर</td></tr>
-  <tr><td>VM v gen-|num-sg|pers-3h|case-|vib-0_चुक+एं|tam-|voicetype-</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=3|Polite=Pol</td><td>कर</td></tr>
-  <tr style="background:lightgray"><td>VM v gen-|num-sg|pers-3h|case-|vib-0_चुक+या_है|tam-|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=3|Polite=Pol|Voice=Act</td><td>जता, कर</td></tr>
-  <tr><td>VM v gen-|num-sg|pers-3h|case-|vib-0_चुक+या|tam-|voicetype-</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=3|Polite=Pol</td><td>कर, रह, हो, छोड़, बन</td></tr>
-  <tr style="background:lightgray"><td>VM v gen-|num-sg|pers-3h|case-|vib-0_चुक+या|tam-|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=3|Polite=Pol|Voice=Act</td><td>करा</td></tr>
-  <tr><td>VM v gen-|num-sg|pers-3h|case-|vib-0_जा+एं|tam-|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=3|Polite=Pol|Voice=Act</td><td>ले</td></tr>
-  <tr style="background:lightgray"><td>VM v gen-|num-sg|pers-3h|case-|vib-0_जा+गा|tam-|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=3|Polite=Pol|Voice=Act</td><td>हो, ले, लौट, पहुँच</td></tr>
-  <tr><td>VM v gen-|num-sg|pers-3h|case-|vib-0_जा+या|tam-|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=3|Polite=Pol|Voice=Act</td><td>हो</td></tr>
-  <tr style="background:lightgray"><td>VM v gen-|num-sg|pers-3h|case-|vib-0_जा+या१|tam-|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=3|Polite=Pol|Voice=Act</td><td>हो, पहुंच, आ, बन, जीत</td></tr>
-  <tr><td>VM v gen-|num-sg|pers-3h|case-|vib-0_जा_रह+या|tam-|voicetype-</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=3|Polite=Pol</td><td>ले</td></tr>
-  <tr style="background:lightgray"><td>VM v gen-|num-sg|pers-3h|case-|vib-0_दे+एं|tam-|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=3|Polite=Pol|Voice=Act</td><td>दे</td></tr>
-  <tr><td>VM v gen-|num-sg|pers-3h|case-|vib-0_दे+गा|tam-|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=3|Polite=Pol|Voice=Act</td><td>कर, बदल, करा</td></tr>
-  <tr style="background:lightgray"><td>VM v gen-|num-sg|pers-3h|case-|vib-0_पहुंचे+एं|tam-|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=3|Polite=Pol|Voice=Act</td><td>आ</td></tr>
-  <tr><td>VM v gen-|num-sg|pers-3h|case-|vib-0_पा+गा|tam-|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=3|Polite=Pol|Voice=Act</td><td>खेल, रख, उठा, दे</td></tr>
-  <tr style="background:lightgray"><td>VM v gen-|num-sg|pers-3h|case-|vib-0_पा+या|tam-|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=3|Polite=Pol|Voice=Act</td><td>रख, उठा, बना</td></tr>
-  <tr><td>VM v gen-|num-sg|pers-3h|case-|vib-0_पड़+या|tam-|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=3|Polite=Pol|Voice=Act</td><td>हंस</td></tr>
-  <tr style="background:lightgray"><td>VM v gen-|num-sg|pers-3h|case-|vib-0_बैठ+या|tam-|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=3|Polite=Pol|Voice=Act</td><td>दे, थमा, छेड़, बन</td></tr>
-  <tr><td>VM v gen-|num-sg|pers-3h|case-|vib-0_रह+एं_था|tam-|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=3|Polite=Pol|Voice=Act</td><td>सोच</td></tr>
-  <tr style="background:lightgray"><td>VM v gen-|num-sg|pers-3h|case-|vib-0_रह+एं|tam-|voicetype-</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=3|Polite=Pol</td><td>घूम</td></tr>
-  <tr><td>VM v gen-|num-sg|pers-3h|case-|vib-0_रह+या_है|tam-|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=3|Polite=Pol|Voice=Act</td><td>देख, ले, कर, दे</td></tr>
-  <tr style="background:lightgray"><td>VM v gen-|num-sg|pers-3h|case-|vib-0_रह+या|tam-|voicetype-</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=3|Polite=Pol</td><td>कर, जूझ, चल, बिता, रह</td></tr>
-  <tr><td>VM v gen-|num-sg|pers-3h|case-|vib-0_रह+या|tam-|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=3|Polite=Pol|Voice=Act</td><td>कर, आ</td></tr>
-  <tr style="background:lightgray"><td>VM v gen-|num-sg|pers-3h|case-|vib-0_ले+एं|tam-|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=3|Polite=Pol|Voice=Act</td><td>कर</td></tr>
-  <tr><td>VM v gen-|num-sg|pers-3h|case-|vib-0_ले+गा|tam-|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=3|Polite=Pol|Voice=Act</td><td>कर, ले</td></tr>
-  <tr style="background:lightgray"><td>VM v gen-|num-sg|pers-3h|case-|vib-0_सक+एं|tam-|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=3|Polite=Pol|Voice=Act</td><td>उठा, बन</td></tr>
-  <tr><td>VM v gen-|num-sg|pers-3h|case-|vib-0_सक+गा|tam-|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=3|Polite=Pol|Voice=Act</td><td>कर</td></tr>
-  <tr style="background:lightgray"><td>VM v gen-|num-sg|pers-3h|case-|vib-0_सक+ता|tam-|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=3|Polite=Pol|Voice=Act</td><td>कर, जा, रोक, कह, बच</td></tr>
-  <tr><td>VM v gen-|num-sg|pers-3h|case-|vib-0_सक+या|tam-|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=3|Polite=Pol|Voice=Act</td><td>हो, जा, करा</td></tr>
-  <tr style="background:lightgray"><td>VM v gen-|num-sg|pers-3h|case-|vib-|tam-eM|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Mood=Sub|Number=Sing|Person=3|Polite=Pol|VerbForm=Fin|Voice=Act</td><td></td></tr>
-  <tr><td>VM v gen-|num-sg|pers-3h|case-|vib-|tam-hE|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Number=Sing|Person=3|Polite=Pol|Tense=Pres|VerbForm=Fin|Voice=Act</td><td></td></tr>
-  <tr style="background:lightgray"><td>VM v gen-|num-sg|pers-3h|case-|vib-|tam-kara|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=3|Polite=Pol|VerbForm=Trans|Voice=Act</td><td></td></tr>
-  <tr><td>VM v gen-|num-sg|pers-3h|case-|vib-|tam-nA|voicetype-</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=3|Polite=Pol|VerbForm=Inf</td><td></td></tr>
-  <tr style="background:lightgray"><td>VM v gen-|num-sg|pers-3h|case-|vib-|tam-nA|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=3|Polite=Pol|VerbForm=Inf|Voice=Act</td><td></td></tr>
-  <tr><td>VM v gen-|num-sg|pers-3h|case-|vib-|tam-yA|voicetype-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Number=Sing|Person=3|Polite=Pol|VerbForm=Part</td><td></td></tr>
-  <tr style="background:lightgray"><td>VM v gen-|num-sg|pers-3h|case-|vib-|tam-yA|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Number=Sing|Person=3|Polite=Pol|VerbForm=Part|Voice=Act</td><td></td></tr>
-  <tr><td>VM v gen-|num-sg|pers-3h|case-|vib-|tam-|voicetype-</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=3|Polite=Pol</td><td></td></tr>
-  <tr style="background:lightgray"><td>VM v gen-|num-sg|pers-3h|case-|vib-|tam-|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=3|Polite=Pol|Voice=Act</td><td></td></tr>
-  <tr><td>VM v gen-|num-sg|pers-3h|case-|vib-एं|tam-eM|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Mood=Sub|Number=Sing|Person=3|Polite=Pol|VerbForm=Fin|Voice=Act</td><td>करें, दें, रखें, रहें, रोकें</td></tr>
-  <tr style="background:lightgray"><td>VM v gen-|num-sg|pers-3h|case-|vib-कर_रो+या|tam-kara|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=3|Polite=Pol|VerbForm=Trans|Voice=Act</td><td>लिपटकर</td></tr>
-  <tr><td>VM v gen-|num-sg|pers-3h|case-|vib-ना_जा+या१|tam-nA|voicetype-</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=3|Polite=Pol|VerbForm=Inf</td><td>लेने</td></tr>
-  <tr style="background:lightgray"><td>VM v gen-|num-sg|pers-3h|case-|vib-ना_दे+गा|tam-nA|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=3|Polite=Pol|VerbForm=Inf|Voice=Act</td><td>जाने</td></tr>
-  <tr><td>VM v gen-|num-sg|pers-3h|case-|vib-ना_लग+या|tam-nA|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=3|Polite=Pol|VerbForm=Inf|Voice=Act</td><td>जाने, देने</td></tr>
-  <tr style="background:lightgray"><td>VM v gen-|num-sg|pers-3h|case-|vib-या_जा+ना_वाला|tam-yA|voicetype-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Number=Sing|Person=3|Polite=Pol|VerbForm=Part</td><td>कहे</td></tr>
-  <tr><td>VM v gen-|num-sg|pers-3h|case-|vib-या_दे+या|tam-yA|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Number=Sing|Person=3|Polite=Pol|VerbForm=Part|Voice=Act</td><td>दिखाई</td></tr>
-  <tr style="background:lightgray"><td>VM v gen-|num-sg|pers-3h|case-|vib-या_रह+या|tam-yA|voicetype-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Number=Sing|Person=3|Polite=Pol|VerbForm=Part</td><td>जुड़े</td></tr>
-  <tr><td>VM v gen-|num-sg|pers-3h|case-|vib-या_है|tam-yA|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Number=Sing|Person=3|Polite=Pol|VerbForm=Part|Voice=Act</td><td>रहे, आए</td></tr>
-  <tr style="background:lightgray"><td>VM v gen-|num-sg|pers-3h|case-|vib-या|tam-yA|voicetype-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Number=Sing|Person=3|Polite=Pol|VerbForm=Part</td><td>आए, निकले, रहे</td></tr>
-  <tr><td>VM v gen-|num-sg|pers-3h|case-|vib-या|tam-yA|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Number=Sing|Person=3|Polite=Pol|VerbForm=Part|Voice=Act</td><td>रहे, आए, पहुंचे, बचे, बने</td></tr>
-  <tr style="background:lightgray"><td>VM v gen-|num-sg|pers-3h|case-|vib-है|tam-hE|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Number=Sing|Person=3|Polite=Pol|Tense=Pres|VerbForm=Fin|Voice=Act</td><td>हैं, है</td></tr>
+  <tr style="background:lightgray"><td>VM v gen-|num-sg|pers-3h|case-o|vib-0_आ+या|tam-|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Case=Acc|Number=Sing|Person=3|Polite=Form|Voice=Act</td><td>लौट</td></tr>
+  <tr><td>VM v gen-|num-sg|pers-3h|case-o|vib-|tam-nA|voicetype-</td><td>=&gt;</td><td>VERB</td><td>Case=Acc|Number=Sing|Person=3|Polite=Form|VerbForm=Inf</td><td></td></tr>
+  <tr style="background:lightgray"><td>VM v gen-|num-sg|pers-3h|case-o|vib-|tam-|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Case=Acc|Number=Sing|Person=3|Polite=Form|Voice=Act</td><td></td></tr>
+  <tr><td>VM v gen-|num-sg|pers-3h|case-o|vib-ना_का|tam-nA|voicetype-</td><td>=&gt;</td><td>VERB</td><td>Case=Acc|Number=Sing|Person=3|Polite=Form|VerbForm=Inf</td><td>देखने, लगाने, रखने</td></tr>
+  <tr style="background:lightgray"><td>VM v gen-|num-sg|pers-3h|case-o|vib-ना_वाला|tam-nA|voicetype-</td><td>=&gt;</td><td>VERB</td><td>Case=Acc|Number=Sing|Person=3|Polite=Form|VerbForm=Inf</td><td>करने, सोने, आने</td></tr>
+  <tr><td>VM v gen-|num-sg|pers-3h|case-|vib-0_आ+या|tam-|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=3|Polite=Form|Voice=Act</td><td>लौट, ले</td></tr>
+  <tr style="background:lightgray"><td>VM v gen-|num-sg|pers-3h|case-|vib-0_चुक+एं_है|tam-|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=3|Polite=Form|Voice=Act</td><td>रह, कर</td></tr>
+  <tr><td>VM v gen-|num-sg|pers-3h|case-|vib-0_चुक+एं|tam-|voicetype-</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=3|Polite=Form</td><td>कर</td></tr>
+  <tr style="background:lightgray"><td>VM v gen-|num-sg|pers-3h|case-|vib-0_चुक+या_है|tam-|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=3|Polite=Form|Voice=Act</td><td>जता, कर</td></tr>
+  <tr><td>VM v gen-|num-sg|pers-3h|case-|vib-0_चुक+या|tam-|voicetype-</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=3|Polite=Form</td><td>कर, रह, हो, छोड़, बन</td></tr>
+  <tr style="background:lightgray"><td>VM v gen-|num-sg|pers-3h|case-|vib-0_चुक+या|tam-|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=3|Polite=Form|Voice=Act</td><td>करा</td></tr>
+  <tr><td>VM v gen-|num-sg|pers-3h|case-|vib-0_जा+एं|tam-|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=3|Polite=Form|Voice=Act</td><td>ले</td></tr>
+  <tr style="background:lightgray"><td>VM v gen-|num-sg|pers-3h|case-|vib-0_जा+गा|tam-|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=3|Polite=Form|Voice=Act</td><td>हो, ले, लौट, पहुँच</td></tr>
+  <tr><td>VM v gen-|num-sg|pers-3h|case-|vib-0_जा+या|tam-|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=3|Polite=Form|Voice=Act</td><td>हो</td></tr>
+  <tr style="background:lightgray"><td>VM v gen-|num-sg|pers-3h|case-|vib-0_जा+या१|tam-|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=3|Polite=Form|Voice=Act</td><td>हो, पहुंच, आ, बन, जीत</td></tr>
+  <tr><td>VM v gen-|num-sg|pers-3h|case-|vib-0_जा_रह+या|tam-|voicetype-</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=3|Polite=Form</td><td>ले</td></tr>
+  <tr style="background:lightgray"><td>VM v gen-|num-sg|pers-3h|case-|vib-0_दे+एं|tam-|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=3|Polite=Form|Voice=Act</td><td>दे</td></tr>
+  <tr><td>VM v gen-|num-sg|pers-3h|case-|vib-0_दे+गा|tam-|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=3|Polite=Form|Voice=Act</td><td>कर, बदल, करा</td></tr>
+  <tr style="background:lightgray"><td>VM v gen-|num-sg|pers-3h|case-|vib-0_पहुंचे+एं|tam-|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=3|Polite=Form|Voice=Act</td><td>आ</td></tr>
+  <tr><td>VM v gen-|num-sg|pers-3h|case-|vib-0_पा+गा|tam-|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=3|Polite=Form|Voice=Act</td><td>खेल, रख, उठा, दे</td></tr>
+  <tr style="background:lightgray"><td>VM v gen-|num-sg|pers-3h|case-|vib-0_पा+या|tam-|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=3|Polite=Form|Voice=Act</td><td>रख, उठा, बना</td></tr>
+  <tr><td>VM v gen-|num-sg|pers-3h|case-|vib-0_पड़+या|tam-|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=3|Polite=Form|Voice=Act</td><td>हंस</td></tr>
+  <tr style="background:lightgray"><td>VM v gen-|num-sg|pers-3h|case-|vib-0_बैठ+या|tam-|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=3|Polite=Form|Voice=Act</td><td>दे, थमा, छेड़, बन</td></tr>
+  <tr><td>VM v gen-|num-sg|pers-3h|case-|vib-0_रह+एं_था|tam-|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=3|Polite=Form|Voice=Act</td><td>सोच</td></tr>
+  <tr style="background:lightgray"><td>VM v gen-|num-sg|pers-3h|case-|vib-0_रह+एं|tam-|voicetype-</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=3|Polite=Form</td><td>घूम</td></tr>
+  <tr><td>VM v gen-|num-sg|pers-3h|case-|vib-0_रह+या_है|tam-|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=3|Polite=Form|Voice=Act</td><td>देख, ले, कर, दे</td></tr>
+  <tr style="background:lightgray"><td>VM v gen-|num-sg|pers-3h|case-|vib-0_रह+या|tam-|voicetype-</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=3|Polite=Form</td><td>कर, जूझ, चल, बिता, रह</td></tr>
+  <tr><td>VM v gen-|num-sg|pers-3h|case-|vib-0_रह+या|tam-|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=3|Polite=Form|Voice=Act</td><td>कर, आ</td></tr>
+  <tr style="background:lightgray"><td>VM v gen-|num-sg|pers-3h|case-|vib-0_ले+एं|tam-|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=3|Polite=Form|Voice=Act</td><td>कर</td></tr>
+  <tr><td>VM v gen-|num-sg|pers-3h|case-|vib-0_ले+गा|tam-|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=3|Polite=Form|Voice=Act</td><td>कर, ले</td></tr>
+  <tr style="background:lightgray"><td>VM v gen-|num-sg|pers-3h|case-|vib-0_सक+एं|tam-|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=3|Polite=Form|Voice=Act</td><td>उठा, बन</td></tr>
+  <tr><td>VM v gen-|num-sg|pers-3h|case-|vib-0_सक+गा|tam-|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=3|Polite=Form|Voice=Act</td><td>कर</td></tr>
+  <tr style="background:lightgray"><td>VM v gen-|num-sg|pers-3h|case-|vib-0_सक+ता|tam-|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=3|Polite=Form|Voice=Act</td><td>कर, जा, रोक, कह, बच</td></tr>
+  <tr><td>VM v gen-|num-sg|pers-3h|case-|vib-0_सक+या|tam-|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=3|Polite=Form|Voice=Act</td><td>हो, जा, करा</td></tr>
+  <tr style="background:lightgray"><td>VM v gen-|num-sg|pers-3h|case-|vib-|tam-eM|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Mood=Sub|Number=Sing|Person=3|Polite=Form|VerbForm=Fin|Voice=Act</td><td></td></tr>
+  <tr><td>VM v gen-|num-sg|pers-3h|case-|vib-|tam-hE|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Number=Sing|Person=3|Polite=Form|Tense=Pres|VerbForm=Fin|Voice=Act</td><td></td></tr>
+  <tr style="background:lightgray"><td>VM v gen-|num-sg|pers-3h|case-|vib-|tam-kara|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=3|Polite=Form|VerbForm=Conv|Voice=Act</td><td></td></tr>
+  <tr><td>VM v gen-|num-sg|pers-3h|case-|vib-|tam-nA|voicetype-</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=3|Polite=Form|VerbForm=Inf</td><td></td></tr>
+  <tr style="background:lightgray"><td>VM v gen-|num-sg|pers-3h|case-|vib-|tam-nA|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=3|Polite=Form|VerbForm=Inf|Voice=Act</td><td></td></tr>
+  <tr><td>VM v gen-|num-sg|pers-3h|case-|vib-|tam-yA|voicetype-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Number=Sing|Person=3|Polite=Form|VerbForm=Part</td><td></td></tr>
+  <tr style="background:lightgray"><td>VM v gen-|num-sg|pers-3h|case-|vib-|tam-yA|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Number=Sing|Person=3|Polite=Form|VerbForm=Part|Voice=Act</td><td></td></tr>
+  <tr><td>VM v gen-|num-sg|pers-3h|case-|vib-|tam-|voicetype-</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=3|Polite=Form</td><td></td></tr>
+  <tr style="background:lightgray"><td>VM v gen-|num-sg|pers-3h|case-|vib-|tam-|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=3|Polite=Form|Voice=Act</td><td></td></tr>
+  <tr><td>VM v gen-|num-sg|pers-3h|case-|vib-एं|tam-eM|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Mood=Sub|Number=Sing|Person=3|Polite=Form|VerbForm=Fin|Voice=Act</td><td>करें, दें, रखें, रहें, रोकें</td></tr>
+  <tr style="background:lightgray"><td>VM v gen-|num-sg|pers-3h|case-|vib-कर_रो+या|tam-kara|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=3|Polite=Form|VerbForm=Conv|Voice=Act</td><td>लिपटकर</td></tr>
+  <tr><td>VM v gen-|num-sg|pers-3h|case-|vib-ना_जा+या१|tam-nA|voicetype-</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=3|Polite=Form|VerbForm=Inf</td><td>लेने</td></tr>
+  <tr style="background:lightgray"><td>VM v gen-|num-sg|pers-3h|case-|vib-ना_दे+गा|tam-nA|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=3|Polite=Form|VerbForm=Inf|Voice=Act</td><td>जाने</td></tr>
+  <tr><td>VM v gen-|num-sg|pers-3h|case-|vib-ना_लग+या|tam-nA|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=3|Polite=Form|VerbForm=Inf|Voice=Act</td><td>जाने, देने</td></tr>
+  <tr style="background:lightgray"><td>VM v gen-|num-sg|pers-3h|case-|vib-या_जा+ना_वाला|tam-yA|voicetype-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Number=Sing|Person=3|Polite=Form|VerbForm=Part</td><td>कहे</td></tr>
+  <tr><td>VM v gen-|num-sg|pers-3h|case-|vib-या_दे+या|tam-yA|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Number=Sing|Person=3|Polite=Form|VerbForm=Part|Voice=Act</td><td>दिखाई</td></tr>
+  <tr style="background:lightgray"><td>VM v gen-|num-sg|pers-3h|case-|vib-या_रह+या|tam-yA|voicetype-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Number=Sing|Person=3|Polite=Form|VerbForm=Part</td><td>जुड़े</td></tr>
+  <tr><td>VM v gen-|num-sg|pers-3h|case-|vib-या_है|tam-yA|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Number=Sing|Person=3|Polite=Form|VerbForm=Part|Voice=Act</td><td>रहे, आए</td></tr>
+  <tr style="background:lightgray"><td>VM v gen-|num-sg|pers-3h|case-|vib-या|tam-yA|voicetype-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Number=Sing|Person=3|Polite=Form|VerbForm=Part</td><td>आए, निकले, रहे</td></tr>
+  <tr><td>VM v gen-|num-sg|pers-3h|case-|vib-या|tam-yA|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Number=Sing|Person=3|Polite=Form|VerbForm=Part|Voice=Act</td><td>रहे, आए, पहुंचे, बचे, बने</td></tr>
+  <tr style="background:lightgray"><td>VM v gen-|num-sg|pers-3h|case-|vib-है|tam-hE|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Number=Sing|Person=3|Polite=Form|Tense=Pres|VerbForm=Fin|Voice=Act</td><td>हैं, है</td></tr>
   <tr><td>VM v gen-|num-sg|pers-3|case-d|vib-|tam-nA|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Case=Nom|Number=Sing|Person=3|VerbForm=Inf|Voice=Act</td><td></td></tr>
   <tr style="background:lightgray"><td>VM v gen-|num-sg|pers-3|case-d|vib-ना_है|tam-nA|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Case=Nom|Number=Sing|Person=3|VerbForm=Inf|Voice=Act</td><td>होना</td></tr>
   <tr><td>VM v gen-|num-sg|pers-3|case-d|vib-ना_हो+गा|tam-nA|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Case=Nom|Number=Sing|Person=3|VerbForm=Inf|Voice=Act</td><td>जोड़ना</td></tr>
@@ -2757,7 +2758,7 @@ Tagset <tt>hi::conll</tt>, total 3125 tags.
   <tr style="background:lightgray"><td>VM v gen-|num-sg|pers-3|case-|vib-0_सक+ता|tam-|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=3|Voice=Act</td><td>दे</td></tr>
   <tr><td>VM v gen-|num-sg|pers-3|case-|vib-0_सक+या|tam-|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=3|Voice=Act</td><td>कर</td></tr>
   <tr style="background:lightgray"><td>VM v gen-|num-sg|pers-3|case-|vib-0_है|tam-|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=3|Voice=Act</td><td>लगा, मिला, रखा, बढ़ा, जुड़ा</td></tr>
-  <tr><td>VM v gen-|num-sg|pers-3|case-|vib-|tam-ao|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Mood=Imp|Number=Sing|Person=3|Polite=Inf|VerbForm=Fin|Voice=Act</td><td></td></tr>
+  <tr><td>VM v gen-|num-sg|pers-3|case-|vib-|tam-ao|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Mood=Imp|Number=Sing|Person=3|Polite=Infm|VerbForm=Fin|Voice=Act</td><td></td></tr>
   <tr style="background:lightgray"><td>VM v gen-|num-sg|pers-3|case-|vib-|tam-eM|voicetype-</td><td>=&gt;</td><td>VERB</td><td>Mood=Sub|Number=Sing|Person=3|VerbForm=Fin</td><td></td></tr>
   <tr><td>VM v gen-|num-sg|pers-3|case-|vib-|tam-eM|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Mood=Sub|Number=Sing|Person=3|VerbForm=Fin|Voice=Act</td><td></td></tr>
   <tr style="background:lightgray"><td>VM v gen-|num-sg|pers-3|case-|vib-|tam-hE|voicetype-</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin</td><td></td></tr>
@@ -2774,7 +2775,7 @@ Tagset <tt>hi::conll</tt>, total 3125 tags.
   <tr><td>VM v gen-|num-sg|pers-3|case-|vib-|tam-|voicetype-passive</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=3|Voice=Pass</td><td></td></tr>
   <tr style="background:lightgray"><td>VM v gen-|num-sg|pers-3|case-|vib-एं|tam-eM|voicetype-</td><td>=&gt;</td><td>VERB</td><td>Mood=Sub|Number=Sing|Person=3|VerbForm=Fin</td><td>माने, फंसे, छिड़े, भरे, बदले</td></tr>
   <tr><td>VM v gen-|num-sg|pers-3|case-|vib-एं|tam-eM|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Mood=Sub|Number=Sing|Person=3|VerbForm=Fin|Voice=Act</td><td>करे, कराए, मिले, रखे, आए</td></tr>
-  <tr style="background:lightgray"><td>VM v gen-|num-sg|pers-3|case-|vib-ओ|tam-ao|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Mood=Imp|Number=Sing|Person=3|Polite=Inf|VerbForm=Fin|Voice=Act</td><td>बचाओ</td></tr>
+  <tr style="background:lightgray"><td>VM v gen-|num-sg|pers-3|case-|vib-ओ|tam-ao|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Mood=Imp|Number=Sing|Person=3|Polite=Infm|VerbForm=Fin|Voice=Act</td><td>बचाओ</td></tr>
   <tr><td>VM v gen-|num-sg|pers-3|case-|vib-ता_है|tam-wA|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Number=Sing|Person=3|VerbForm=Part|Voice=Act</td><td>होता</td></tr>
   <tr style="background:lightgray"><td>VM v gen-|num-sg|pers-3|case-|vib-ता_हो+या|tam-wA|voicetype-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Number=Sing|Person=3|VerbForm=Part</td><td>छेड़ते, पढ़ते</td></tr>
   <tr><td>VM v gen-|num-sg|pers-3|case-|vib-ता|tam-wA|voicetype-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Number=Sing|Person=3|VerbForm=Part</td><td>छटते</td></tr>
@@ -2898,7 +2899,7 @@ Tagset <tt>hi::conll</tt>, total 3125 tags.
   <tr><td>VM v gen-|num-sg|pers-|case-|vib-0_सक+या|tam-|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Voice=Act</td><td>हो, उबर, जा, बन, दे</td></tr>
   <tr style="background:lightgray"><td>VM v gen-|num-sg|pers-|case-|vib-0_हो+या|tam-|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Voice=Act</td><td>जमा</td></tr>
   <tr><td>VM v gen-|num-sg|pers-|case-|vib-|tam-eM|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Mood=Sub|Number=Sing|VerbForm=Fin|Voice=Act</td><td></td></tr>
-  <tr style="background:lightgray"><td>VM v gen-|num-sg|pers-|case-|vib-|tam-kara|voicetype-</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|VerbForm=Trans</td><td></td></tr>
+  <tr style="background:lightgray"><td>VM v gen-|num-sg|pers-|case-|vib-|tam-kara|voicetype-</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|VerbForm=Conv</td><td></td></tr>
   <tr><td>VM v gen-|num-sg|pers-|case-|vib-|tam-nA|voicetype-</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|VerbForm=Inf</td><td></td></tr>
   <tr style="background:lightgray"><td>VM v gen-|num-sg|pers-|case-|vib-|tam-nA|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|VerbForm=Inf|Voice=Act</td><td></td></tr>
   <tr><td>VM v gen-|num-sg|pers-|case-|vib-|tam-wA|voicetype-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Number=Sing|VerbForm=Part</td><td></td></tr>
@@ -2909,8 +2910,8 @@ Tagset <tt>hi::conll</tt>, total 3125 tags.
   <tr style="background:lightgray"><td>VM v gen-|num-sg|pers-|case-|vib-|tam-|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Voice=Act</td><td>छोड़</td></tr>
   <tr><td>VM v gen-|num-sg|pers-|case-|vib-|tam-|voicetype-passive</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Voice=Pass</td><td></td></tr>
   <tr style="background:lightgray"><td>VM v gen-|num-sg|pers-|case-|vib-एं|tam-eM|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Mood=Sub|Number=Sing|VerbForm=Fin|Voice=Act</td><td>मानें, लें, खेलें</td></tr>
-  <tr><td>VM v gen-|num-sg|pers-|case-|vib-कर_जा_रह+या|tam-kara|voicetype-</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|VerbForm=Trans</td><td>लेकर</td></tr>
-  <tr style="background:lightgray"><td>VM v gen-|num-sg|pers-|case-|vib-कर_हो+या|tam-kara|voicetype-</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|VerbForm=Trans</td><td>लेकर</td></tr>
+  <tr><td>VM v gen-|num-sg|pers-|case-|vib-कर_जा_रह+या|tam-kara|voicetype-</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|VerbForm=Conv</td><td>लेकर</td></tr>
+  <tr style="background:lightgray"><td>VM v gen-|num-sg|pers-|case-|vib-कर_हो+या|tam-kara|voicetype-</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|VerbForm=Conv</td><td>लेकर</td></tr>
   <tr><td>VM v gen-|num-sg|pers-|case-|vib-ता_हो+एं|tam-wA|voicetype-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Number=Sing|VerbForm=Part</td><td>बताते, लगाते, देखते</td></tr>
   <tr style="background:lightgray"><td>VM v gen-|num-sg|pers-|case-|vib-ता_हो+या|tam-wA|voicetype-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Number=Sing|VerbForm=Part</td><td>करते, थपथपाते, साधते, बताते, होते</td></tr>
   <tr><td>VM v gen-|num-sg|pers-|case-|vib-ता|tam-wA|voicetype-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Number=Sing|VerbForm=Part</td><td>पहुंचते</td></tr>
@@ -2957,12 +2958,12 @@ Tagset <tt>hi::conll</tt>, total 3125 tags.
   <tr style="background:lightgray"><td>VM v gen-|num-sg|pers-|case-|vib-या_रह_जा+या१|tam-yA|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Number=Sing|VerbForm=Part|Voice=Act</td><td>धरी</td></tr>
   <tr><td>VM v gen-|num-sg|pers-|case-|vib-या_समा_रह+या|tam-yA|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Number=Sing|VerbForm=Part|Voice=Act</td><td>फूले</td></tr>
   <tr style="background:lightgray"><td>VM v gen-|num-sg|pers-|case-|vib-या_हो+ना_का|tam-yA|voicetype-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Number=Sing|VerbForm=Part</td><td>फंसे, छिपे</td></tr>
-  <tr><td>VM v gen-|num-|pers-3h|case-|vib-|tam-yA|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Person=3|Polite=Pol|VerbForm=Part|Voice=Act</td><td></td></tr>
-  <tr style="background:lightgray"><td>VM v gen-|num-|pers-3h|case-|vib-या|tam-yA|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Person=3|Polite=Pol|VerbForm=Part|Voice=Act</td><td>पहुंचे</td></tr>
+  <tr><td>VM v gen-|num-|pers-3h|case-|vib-|tam-yA|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Person=3|Polite=Form|VerbForm=Part|Voice=Act</td><td></td></tr>
+  <tr style="background:lightgray"><td>VM v gen-|num-|pers-3h|case-|vib-या|tam-yA|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Person=3|Polite=Form|VerbForm=Part|Voice=Act</td><td>पहुंचे</td></tr>
   <tr><td>VM v gen-|num-|pers-3|case-|vib-|tam-hE|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act</td><td></td></tr>
-  <tr style="background:lightgray"><td>VM v gen-|num-|pers-3|case-|vib-|tam-kara|voicetype-</td><td>=&gt;</td><td>VERB</td><td>Person=3|VerbForm=Trans</td><td></td></tr>
+  <tr style="background:lightgray"><td>VM v gen-|num-|pers-3|case-|vib-|tam-kara|voicetype-</td><td>=&gt;</td><td>VERB</td><td>Person=3|VerbForm=Conv</td><td></td></tr>
   <tr><td>VM v gen-|num-|pers-3|case-|vib-|tam-wA|voicetype-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Person=3|VerbForm=Part</td><td></td></tr>
-  <tr style="background:lightgray"><td>VM v gen-|num-|pers-3|case-|vib-कर|tam-kara|voicetype-</td><td>=&gt;</td><td>VERB</td><td>Person=3|VerbForm=Trans</td><td>सोचकर, आकर</td></tr>
+  <tr style="background:lightgray"><td>VM v gen-|num-|pers-3|case-|vib-कर|tam-kara|voicetype-</td><td>=&gt;</td><td>VERB</td><td>Person=3|VerbForm=Conv</td><td>सोचकर, आकर</td></tr>
   <tr><td>VM v gen-|num-|pers-3|case-|vib-ता|tam-wA|voicetype-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Person=3|VerbForm=Part</td><td>पोछते</td></tr>
   <tr style="background:lightgray"><td>VM v gen-|num-|pers-3|case-|vib-है|tam-hE|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act</td><td>है</td></tr>
   <tr><td>VM v gen-|num-|pers-|case-d|vib-0_दे+ना|tam-|voicetype-</td><td>=&gt;</td><td>VERB</td><td>Case=Nom</td><td>कर</td></tr>
@@ -3058,9 +3059,9 @@ Tagset <tt>hi::conll</tt>, total 3125 tags.
   <tr><td>VM v gen-|num-|pers-|case-|vib-0_से|tam-|voicetype-</td><td>=&gt;</td><td>VERB</td><td>_</td><td>डूब</td></tr>
   <tr style="background:lightgray"><td>VM v gen-|num-|pers-|case-|vib-|tam-eM|voicetype-</td><td>=&gt;</td><td>VERB</td><td>Mood=Sub|VerbForm=Fin</td><td></td></tr>
   <tr><td>VM v gen-|num-|pers-|case-|vib-|tam-eM|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Mood=Sub|VerbForm=Fin|Voice=Act</td><td></td></tr>
-  <tr style="background:lightgray"><td>VM v gen-|num-|pers-|case-|vib-|tam-kara|voicetype-</td><td>=&gt;</td><td>VERB</td><td>VerbForm=Trans</td><td></td></tr>
-  <tr><td>VM v gen-|num-|pers-|case-|vib-|tam-kara|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>VerbForm=Trans|Voice=Act</td><td></td></tr>
-  <tr style="background:lightgray"><td>VM v gen-|num-|pers-|case-|vib-|tam-kara|voicetype-passive</td><td>=&gt;</td><td>VERB</td><td>VerbForm=Trans|Voice=Pass</td><td></td></tr>
+  <tr style="background:lightgray"><td>VM v gen-|num-|pers-|case-|vib-|tam-kara|voicetype-</td><td>=&gt;</td><td>VERB</td><td>VerbForm=Conv</td><td></td></tr>
+  <tr><td>VM v gen-|num-|pers-|case-|vib-|tam-kara|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>VerbForm=Conv|Voice=Act</td><td></td></tr>
+  <tr style="background:lightgray"><td>VM v gen-|num-|pers-|case-|vib-|tam-kara|voicetype-passive</td><td>=&gt;</td><td>VERB</td><td>VerbForm=Conv|Voice=Pass</td><td></td></tr>
   <tr><td>VM v gen-|num-|pers-|case-|vib-|tam-nA|voicetype-</td><td>=&gt;</td><td>VERB</td><td>VerbForm=Inf</td><td></td></tr>
   <tr style="background:lightgray"><td>VM v gen-|num-|pers-|case-|vib-|tam-nA|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>VerbForm=Inf|Voice=Act</td><td></td></tr>
   <tr><td>VM v gen-|num-|pers-|case-|vib-|tam-wA|voicetype-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|VerbForm=Part</td><td></td></tr>
@@ -3071,9 +3072,9 @@ Tagset <tt>hi::conll</tt>, total 3125 tags.
   <tr style="background:lightgray"><td>VM v gen-|num-|pers-|case-|vib-|tam-|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Voice=Act</td><td>हो, चाहिए, हों, दे, चला</td></tr>
   <tr><td>VM v gen-|num-|pers-|case-|vib-एं|tam-eM|voicetype-</td><td>=&gt;</td><td>VERB</td><td>Mood=Sub|VerbForm=Fin</td><td>जगे</td></tr>
   <tr style="background:lightgray"><td>VM v gen-|num-|pers-|case-|vib-एं|tam-eM|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Mood=Sub|VerbForm=Fin|Voice=Act</td><td>दे, मिले, दें, रहें, आए</td></tr>
-  <tr><td>VM v gen-|num-|pers-|case-|vib-कर|tam-kara|voicetype-</td><td>=&gt;</td><td>VERB</td><td>VerbForm=Trans</td><td>लेकर, करके, देकर, मिलकर, होकर</td></tr>
-  <tr style="background:lightgray"><td>VM v gen-|num-|pers-|case-|vib-कर|tam-kara|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>VerbForm=Trans|Voice=Act</td><td>लेकर</td></tr>
-  <tr><td>VM v gen-|num-|pers-|case-|vib-कर|tam-kara|voicetype-passive</td><td>=&gt;</td><td>VERB</td><td>VerbForm=Trans|Voice=Pass</td><td>बदलकर</td></tr>
+  <tr><td>VM v gen-|num-|pers-|case-|vib-कर|tam-kara|voicetype-</td><td>=&gt;</td><td>VERB</td><td>VerbForm=Conv</td><td>लेकर, करके, देकर, मिलकर, होकर</td></tr>
+  <tr style="background:lightgray"><td>VM v gen-|num-|pers-|case-|vib-कर|tam-kara|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>VerbForm=Conv|Voice=Act</td><td>लेकर</td></tr>
+  <tr><td>VM v gen-|num-|pers-|case-|vib-कर|tam-kara|voicetype-passive</td><td>=&gt;</td><td>VERB</td><td>VerbForm=Conv|Voice=Pass</td><td>बदलकर</td></tr>
   <tr style="background:lightgray"><td>VM v gen-|num-|pers-|case-|vib-ता_वक्त|tam-wA|voicetype-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|VerbForm=Part</td><td>लेते</td></tr>
   <tr><td>VM v gen-|num-|pers-|case-|vib-ता_समय|tam-wA|voicetype-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|VerbForm=Part</td><td>होते, जाते, बनाते</td></tr>
   <tr style="background:lightgray"><td>VM v gen-|num-|pers-|case-|vib-ता|tam-wA|voicetype-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|VerbForm=Part</td><td>रुकते, होते, पहुंचते, थिरकते</td></tr>
@@ -3099,7 +3100,7 @@ Tagset <tt>hi::conll</tt>, total 3125 tags.
   <tr style="background:lightgray"><td>VMC v gen-f|num-sg|pers-3|case-|vib-0_रह+या_है|tam-|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Gender=Fem|Number=Sing|Person=3|Voice=Act</td><td>आ</td></tr>
   <tr><td>VMC v gen-f|num-sg|pers-|case-|vib-ता|tam-wA|voicetype-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Gender=Fem|Number=Sing|VerbForm=Part</td><td>मिलती</td></tr>
   <tr style="background:lightgray"><td>VMC v gen-m|num-pl|pers-|case-|vib-ता|tam-wA|voicetype-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Gender=Masc|Number=Plur|VerbForm=Part</td><td>देखते</td></tr>
-  <tr><td>VMC v gen-m|num-sg|pers-3h|case-|vib-0_सक+ता_है|tam-|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Number=Sing|Person=3|Polite=Pol|Voice=Act</td><td>आ</td></tr>
+  <tr><td>VMC v gen-m|num-sg|pers-3h|case-|vib-0_सक+ता_है|tam-|voicetype-active</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Number=Sing|Person=3|Polite=Form|Voice=Act</td><td>आ</td></tr>
   <tr style="background:lightgray"><td>VMC v gen-m|num-sg|pers-|case-|vib-या|tam-yA|voicetype-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part</td><td>बैठे</td></tr>
   <tr><td>VMC v gen-m|num-|pers-|case-o|vib-ना_वाला_को|tam-nA|voicetype-</td><td>=&gt;</td><td>VERB</td><td>Case=Acc|Gender=Masc|VerbForm=Inf</td><td>खरीदने</td></tr>
   <tr style="background:lightgray"><td>VMC v gen-|num-pl|pers-|case-o|vib-ना_का|tam-nA|voicetype-</td><td>=&gt;</td><td>VERB</td><td>Case=Acc|Number=Plur|VerbForm=Inf</td><td>खाने, घुलने</td></tr>
