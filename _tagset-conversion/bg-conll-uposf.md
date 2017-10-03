@@ -1,6 +1,7 @@
 ---
 layout: base
 title: 'Tagset bg::conll conversion to universal POS tags and features'
+udver: '2'
 ---
 
 <a href="index.html">all tables</a>
@@ -29,9 +30,9 @@ Tagset <tt>bg::conll</tt>, total 533 tags.
   <tr style="background:lightgray"><td>A An gen=n|num=s|def=i</td><td>=&gt;</td><td>ADJ</td><td>Definite=Ind|Gender=Neut|Number=Sing</td><td><em>друго, ново, голямо, добро, национално</em></td></tr>
   <tr><td>A A num=p|def=d</td><td>=&gt;</td><td>ADJ</td><td>Definite=Def|Number=Plur</td><td><em>другите, последните, новите, българските, военните</em></td></tr>
   <tr style="background:lightgray"><td>A A num=p|def=i</td><td>=&gt;</td><td>ADJ</td><td>Definite=Ind|Number=Plur</td><td><em>други, нови, различни, големи, български</em></td></tr>
-  <tr><td>C Cc _</td><td>=&gt;</td><td>CONJ</td><td>_</td><td><em>но, както_и, ама, та, така_и</em></td></tr>
-  <tr style="background:lightgray"><td>C Cp _</td><td>=&gt;</td><td>CONJ</td><td>_</td><td><em>и, или, а, &amp;, /</em></td></tr>
-  <tr><td>C Cr _</td><td>=&gt;</td><td>CONJ</td><td>_</td><td><em>нито, ни, хем, било, ту</em></td></tr>
+  <tr><td>C Cc _</td><td>=&gt;</td><td>CCONJ</td><td>_</td><td><em>но, както_и, ама, та, така_и</em></td></tr>
+  <tr style="background:lightgray"><td>C Cp _</td><td>=&gt;</td><td>CCONJ</td><td>_</td><td><em>и, или, а, &amp;, /</em></td></tr>
+  <tr><td>C Cr _</td><td>=&gt;</td><td>CCONJ</td><td>_</td><td><em>нито, ни, хем, било, ту</em></td></tr>
   <tr style="background:lightgray"><td>C Cs _</td><td>=&gt;</td><td>SCONJ</td><td>_</td><td><em>че, за_да, ако, като, защото</em></td></tr>
   <tr><td>D D _</td><td>=&gt;</td><td>ADV</td><td>_</td><td><em>т._н., т.н., пр., Т._е.</em></td></tr>
   <tr style="background:lightgray"><td>D Dd _</td><td>=&gt;</td><td>ADV</td><td>AdvType=Mod</td><td><em>само, обаче, точно, особено, просто</em></td></tr>
@@ -50,28 +51,28 @@ Tagset <tt>bg::conll</tt>, total 533 tags.
   <tr><td>M Mc def=i</td><td>=&gt;</td><td>NUM</td><td>Definite=Ind|NumType=Card</td><td><em>три, четири, двама, четиринайсет, двадесет</em></td></tr>
   <tr style="background:lightgray"><td>M Mc gen=f|def=d</td><td>=&gt;</td><td>NUM</td><td>Definite=Def|Gender=Fem|NumType=Card</td><td><em>двете</em></td></tr>
   <tr><td>M Mc gen=f|def=i</td><td>=&gt;</td><td>NUM</td><td>Definite=Ind|Gender=Fem|NumType=Card</td><td><em>две</em></td></tr>
-  <tr style="background:lightgray"><td>M Mc gen=f|num=s|def=d</td><td>=&gt;</td><td>NUM</td><td>Definite=Def|Gender=Fem|NumType=Card|Number=Sing</td><td><em>едната</em></td></tr>
-  <tr><td>M Mc gen=f|num=s|def=i</td><td>=&gt;</td><td>NUM</td><td>Definite=Ind|Gender=Fem|NumType=Card|Number=Sing</td><td><em>една, 1, 0, една-единствена, 1/2</em></td></tr>
+  <tr style="background:lightgray"><td>M Mc gen=f|num=s|def=d</td><td>=&gt;</td><td>NUM</td><td>Definite=Def|Gender=Fem|Number=Sing|NumType=Card</td><td><em>едната</em></td></tr>
+  <tr><td>M Mc gen=f|num=s|def=i</td><td>=&gt;</td><td>NUM</td><td>Definite=Ind|Gender=Fem|Number=Sing|NumType=Card</td><td><em>една, 1, 0, една-единствена, 1/2</em></td></tr>
   <tr style="background:lightgray"><td>M Mc gen=m|def=d</td><td>=&gt;</td><td>NUM</td><td>Definite=Def|Gender=Masc|NumType=Card</td><td><em>двата</em></td></tr>
   <tr><td>M Mc gen=m|def=i</td><td>=&gt;</td><td>NUM</td><td>Definite=Ind|Gender=Masc|NumType=Card</td><td><em>два</em></td></tr>
-  <tr style="background:lightgray"><td>M Mc gen=m|num=s|def=f</td><td>=&gt;</td><td>NUM</td><td>Definite=Def|Gender=Masc|NumType=Card|Number=Sing</td><td><em>Единият</em></td></tr>
-  <tr><td>M Mc gen=m|num=s|def=i</td><td>=&gt;</td><td>NUM</td><td>Definite=Ind|Gender=Masc|NumType=Card|Number=Sing</td><td><em>един, 1, един-единствен</em></td></tr>
+  <tr style="background:lightgray"><td>M Mc gen=m|num=s|def=f</td><td>=&gt;</td><td>NUM</td><td>Definite=Def|Gender=Masc|Number=Sing|NumType=Card</td><td><em>Единият</em></td></tr>
+  <tr><td>M Mc gen=m|num=s|def=i</td><td>=&gt;</td><td>NUM</td><td>Definite=Ind|Gender=Masc|Number=Sing|NumType=Card</td><td><em>един, 1, един-единствен</em></td></tr>
   <tr style="background:lightgray"><td>M Mc gen=n|def=d</td><td>=&gt;</td><td>NUM</td><td>Definite=Def|Gender=Neut|NumType=Card</td><td><em>двете</em></td></tr>
   <tr><td>M Mc gen=n|def=i</td><td>=&gt;</td><td>NUM</td><td>Definite=Ind|Gender=Neut|NumType=Card</td><td><em>две</em></td></tr>
-  <tr style="background:lightgray"><td>M Mc gen=n|num=s|def=d</td><td>=&gt;</td><td>NUM</td><td>Definite=Def|Gender=Neut|NumType=Card|Number=Sing</td><td><em>едното</em></td></tr>
-  <tr><td>M Mc gen=n|num=s|def=i</td><td>=&gt;</td><td>NUM</td><td>Definite=Ind|Gender=Neut|NumType=Card|Number=Sing</td><td><em>1, едно</em></td></tr>
-  <tr style="background:lightgray"><td>M Md _</td><td>=&gt;</td><td>NUM</td><td>NumType=Card|PronType=Ind</td><td><em>много, повече, малко, повечето, по-малко</em></td></tr>
-  <tr><td>M Md def=d</td><td>=&gt;</td><td>NUM</td><td>Definite=Def|NumType=Card|PronType=Ind</td><td><em>повечето, най-малкото, Малкото</em></td></tr>
-  <tr style="background:lightgray"><td>M Md def=i</td><td>=&gt;</td><td>NUM</td><td>Definite=Ind|NumType=Card|PronType=Ind</td><td><em>много, повече, малко, по-малко, най-много</em></td></tr>
-  <tr><td>M Mo gen=f|num=s|def=d</td><td>=&gt;</td><td>ADJ</td><td>Definite=Def|Gender=Fem|NumType=Ord|Number=Sing</td><td><em>първата, втората, третата, 2000-ата, 89-ата</em></td></tr>
-  <tr style="background:lightgray"><td>M Mo gen=f|num=s|def=i</td><td>=&gt;</td><td>ADJ</td><td>Definite=Ind|Gender=Fem|NumType=Ord|Number=Sing</td><td><em>2000, 2001, 1998, 1999, втора</em></td></tr>
-  <tr><td>M Mo gen=m|num=s|def=f</td><td>=&gt;</td><td>ADJ</td><td>Definite=Def|Gender=Masc|NumType=Ord|Number=Sing</td><td><em>първият, вторият, 12-ят</em></td></tr>
-  <tr style="background:lightgray"><td>M Mo gen=m|num=s|def=h</td><td>=&gt;</td><td>ADJ</td><td>Definite=Def|Gender=Masc|NumType=Ord|Number=Sing</td><td><em>първия, втория, третия, 36-ия, 1-вия</em></td></tr>
-  <tr><td>M Mo gen=m|num=s|def=i</td><td>=&gt;</td><td>ADJ</td><td>Definite=Ind|Gender=Masc|NumType=Ord|Number=Sing</td><td><em>1, първи, 31, II, пръв</em></td></tr>
-  <tr style="background:lightgray"><td>M Mo gen=n|num=s|def=d</td><td>=&gt;</td><td>ADJ</td><td>Definite=Def|Gender=Neut|NumType=Ord|Number=Sing</td><td><em>първото, второто, осмото, третото, 13-о</em></td></tr>
-  <tr><td>M Mo gen=n|num=s|def=i</td><td>=&gt;</td><td>ADJ</td><td>Definite=Ind|Gender=Neut|NumType=Ord|Number=Sing</td><td><em>първо, второ, 2, 1, 3</em></td></tr>
-  <tr style="background:lightgray"><td>M Mo num=p|def=d</td><td>=&gt;</td><td>ADJ</td><td>Definite=Def|NumType=Ord|Number=Plur</td><td><em>първите, 12-те, 70-те, 5-те, 15-те</em></td></tr>
-  <tr><td>M Mo num=p|def=i</td><td>=&gt;</td><td>ADJ</td><td>Definite=Ind|NumType=Ord|Number=Plur</td><td><em>първи, трети, 2/3, 15-и, втори</em></td></tr>
+  <tr style="background:lightgray"><td>M Mc gen=n|num=s|def=d</td><td>=&gt;</td><td>NUM</td><td>Definite=Def|Gender=Neut|Number=Sing|NumType=Card</td><td><em>едното</em></td></tr>
+  <tr><td>M Mc gen=n|num=s|def=i</td><td>=&gt;</td><td>NUM</td><td>Definite=Ind|Gender=Neut|Number=Sing|NumType=Card</td><td><em>1, едно</em></td></tr>
+  <tr style="background:lightgray"><td>M Md _</td><td>=&gt;</td><td>DET</td><td>NumType=Card|PronType=Ind</td><td><em>много, повече, малко, повечето, по-малко</em></td></tr>
+  <tr><td>M Md def=d</td><td>=&gt;</td><td>DET</td><td>Definite=Def|NumType=Card|PronType=Ind</td><td><em>повечето, най-малкото, Малкото</em></td></tr>
+  <tr style="background:lightgray"><td>M Md def=i</td><td>=&gt;</td><td>DET</td><td>Definite=Ind|NumType=Card|PronType=Ind</td><td><em>много, повече, малко, по-малко, най-много</em></td></tr>
+  <tr><td>M Mo gen=f|num=s|def=d</td><td>=&gt;</td><td>ADJ</td><td>Definite=Def|Gender=Fem|Number=Sing|NumType=Ord</td><td><em>първата, втората, третата, 2000-ата, 89-ата</em></td></tr>
+  <tr style="background:lightgray"><td>M Mo gen=f|num=s|def=i</td><td>=&gt;</td><td>ADJ</td><td>Definite=Ind|Gender=Fem|Number=Sing|NumType=Ord</td><td><em>2000, 2001, 1998, 1999, втора</em></td></tr>
+  <tr><td>M Mo gen=m|num=s|def=f</td><td>=&gt;</td><td>ADJ</td><td>Definite=Def|Gender=Masc|Number=Sing|NumType=Ord</td><td><em>първият, вторият, 12-ят</em></td></tr>
+  <tr style="background:lightgray"><td>M Mo gen=m|num=s|def=h</td><td>=&gt;</td><td>ADJ</td><td>Definite=Def|Gender=Masc|Number=Sing|NumType=Ord</td><td><em>първия, втория, третия, 36-ия, 1-вия</em></td></tr>
+  <tr><td>M Mo gen=m|num=s|def=i</td><td>=&gt;</td><td>ADJ</td><td>Definite=Ind|Gender=Masc|Number=Sing|NumType=Ord</td><td><em>1, първи, 31, II, пръв</em></td></tr>
+  <tr style="background:lightgray"><td>M Mo gen=n|num=s|def=d</td><td>=&gt;</td><td>ADJ</td><td>Definite=Def|Gender=Neut|Number=Sing|NumType=Ord</td><td><em>първото, второто, осмото, третото, 13-о</em></td></tr>
+  <tr><td>M Mo gen=n|num=s|def=i</td><td>=&gt;</td><td>ADJ</td><td>Definite=Ind|Gender=Neut|Number=Sing|NumType=Ord</td><td><em>първо, второ, 2, 1, 3</em></td></tr>
+  <tr style="background:lightgray"><td>M Mo num=p|def=d</td><td>=&gt;</td><td>ADJ</td><td>Definite=Def|Number=Plur|NumType=Ord</td><td><em>първите, 12-те, 70-те, 5-те, 15-те</em></td></tr>
+  <tr><td>M Mo num=p|def=i</td><td>=&gt;</td><td>ADJ</td><td>Definite=Ind|Number=Plur|NumType=Ord</td><td><em>първи, трети, 2/3, 15-и, втори</em></td></tr>
   <tr style="background:lightgray"><td>M My _</td><td>=&gt;</td><td>NOUN</td><td>_</td><td><em>мнозина, малцина</em></td></tr>
   <tr><td>M My def=i</td><td>=&gt;</td><td>NOUN</td><td>Definite=Ind</td><td><em>Малцина</em></td></tr>
   <tr style="background:lightgray"><td>N N _</td><td>=&gt;</td><td>NOUN</td><td>Foreign=Yes</td><td><em>Р-300, Р-600, bug, Партидо_популар, Enlargement</em></td></tr>
@@ -123,8 +124,8 @@ Tagset <tt>bg::conll</tt>, total 533 tags.
   <tr style="background:lightgray"><td>P Pc ref=e|case=n|num=s|gen=m</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Gender=Masc|Number=Sing|PronType=Tot</td><td><em>всеки</em></td></tr>
   <tr><td>P Pc ref=e|case=n|num=s|gen=n</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Gender=Neut|Number=Sing|PronType=Tot</td><td><em>всичко, всяко</em></td></tr>
   <tr style="background:lightgray"><td>P Pc ref=l</td><td>=&gt;</td><td>ADV</td><td>AdvType=Loc|PronType=Tot</td><td><em>отвсякъде, навсякъде</em></td></tr>
-  <tr><td>P Pc ref=q|num=p|def=d</td><td>=&gt;</td><td>NUM</td><td>Definite=Def|Number=Plur|PronType=Tot</td><td><em>всичките</em></td></tr>
-  <tr style="background:lightgray"><td>P Pc ref=q|num=s|gen=n|def=d</td><td>=&gt;</td><td>NUM</td><td>Definite=Def|Gender=Neut|Number=Sing|PronType=Tot</td><td><em>всичкото</em></td></tr>
+  <tr><td>P Pc ref=q|num=p|def=d</td><td>=&gt;</td><td>DET</td><td>Definite=Def|Number=Plur|PronType=Tot</td><td><em>всичките</em></td></tr>
+  <tr style="background:lightgray"><td>P Pc ref=q|num=s|gen=n|def=d</td><td>=&gt;</td><td>DET</td><td>Definite=Def|Gender=Neut|Number=Sing|PronType=Tot</td><td><em>всичкото</em></td></tr>
   <tr><td>P Pc ref=t</td><td>=&gt;</td><td>ADV</td><td>AdvType=Tim|PronType=Tot</td><td><em>всякога</em></td></tr>
   <tr style="background:lightgray"><td>P Pd _</td><td>=&gt;</td><td>PRON</td><td>PronType=Dem</td><td><em>такъв, затова, затуй</em></td></tr>
   <tr><td>P Pd ref=a|num=p</td><td>=&gt;</td><td>DET</td><td>Number=Plur|PronType=Dem</td><td><em>такива</em></td></tr>
@@ -136,7 +137,7 @@ Tagset <tt>bg::conll</tt>, total 533 tags.
   <tr><td>P Pd ref=e|case=n|num=s|gen=n</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Gender=Neut|Number=Sing|PronType=Dem</td><td><em>това, онова, туй, затова</em></td></tr>
   <tr style="background:lightgray"><td>P Pd ref=l</td><td>=&gt;</td><td>ADV</td><td>AdvType=Loc|PronType=Dem</td><td><em>тук, там, оттам, нататък, дотук</em></td></tr>
   <tr><td>P Pd ref=m</td><td>=&gt;</td><td>ADV</td><td>AdvType=Man|PronType=Dem</td><td><em>така, тъй, иначе, така_и, по-така</em></td></tr>
-  <tr style="background:lightgray"><td>P Pd ref=q</td><td>=&gt;</td><td>NUM</td><td>PronType=Dem</td><td><em>толкова, толкоз</em></td></tr>
+  <tr style="background:lightgray"><td>P Pd ref=q</td><td>=&gt;</td><td>DET</td><td>PronType=Dem</td><td><em>толкова, толкоз</em></td></tr>
   <tr><td>P Pd ref=t</td><td>=&gt;</td><td>ADV</td><td>AdvType=Tim|PronType=Dem</td><td><em>тогава, оттогава, дотогава</em></td></tr>
   <tr style="background:lightgray"><td>P Pf def=i|ref=a|num=p</td><td>=&gt;</td><td>DET</td><td>Number=Plur|PronType=Ind</td><td><em>някакви, каквито_и_да_е</em></td></tr>
   <tr><td>P Pf def=i|ref=a|num=s|gen=f</td><td>=&gt;</td><td>DET</td><td>Gender=Fem|Number=Sing|PronType=Ind</td><td><em>някаква</em></td></tr>
@@ -160,7 +161,7 @@ Tagset <tt>bg::conll</tt>, total 533 tags.
   <tr><td>P Pf def=i|ref=l</td><td>=&gt;</td><td>ADV</td><td>AdvType=Loc|PronType=Ind</td><td><em>някъде, отнякъде, тук-там, нанякъде, донякъде</em></td></tr>
   <tr style="background:lightgray"><td>P Pf def=i|ref=m</td><td>=&gt;</td><td>ADV</td><td>AdvType=Man|PronType=Ind</td><td><em>някак</em></td></tr>
   <tr><td>P Pf def=i|ref=p|num=p</td><td>=&gt;</td><td>PRON</td><td>Number=Plur|Poss=Yes|PronType=Ind</td><td><em>нечии</em></td></tr>
-  <tr style="background:lightgray"><td>P Pf def=i|ref=q|def=i</td><td>=&gt;</td><td>NUM</td><td>Definite=Ind|PronType=Ind</td><td><em>няколко, неколцина</em></td></tr>
+  <tr style="background:lightgray"><td>P Pf def=i|ref=q|def=i</td><td>=&gt;</td><td>DET</td><td>Definite=Ind|PronType=Ind</td><td><em>няколко, неколцина</em></td></tr>
   <tr><td>P Pf def=i|ref=t</td><td>=&gt;</td><td>ADV</td><td>AdvType=Tim|PronType=Ind</td><td><em>някога, понякога</em></td></tr>
   <tr style="background:lightgray"><td>P Pi cause</td><td>=&gt;</td><td>ADV</td><td>AdvType=Cau|PronType=Int</td><td><em>защо</em></td></tr>
   <tr><td>P Pi ref=a|num=p</td><td>=&gt;</td><td>DET</td><td>Number=Plur|PronType=Int</td><td><em>какви, К'ви</em></td></tr>
@@ -176,23 +177,23 @@ Tagset <tt>bg::conll</tt>, total 533 tags.
   <tr><td>P Pi ref=m</td><td>=&gt;</td><td>ADV</td><td>AdvType=Man|PronType=Int</td><td><em>как</em></td></tr>
   <tr style="background:lightgray"><td>P Pi ref=p|num=s|gen=f</td><td>=&gt;</td><td>PRON</td><td>Gender=Fem|Number=Sing|Poss=Yes|PronType=Int</td><td><em>чия</em></td></tr>
   <tr><td>P Pi ref=p|num=s|gen=m</td><td>=&gt;</td><td>PRON</td><td>Gender=Masc|Number=Sing|Poss=Yes|PronType=Int</td><td><em>чий</em></td></tr>
-  <tr style="background:lightgray"><td>P Pi ref=q</td><td>=&gt;</td><td>NUM</td><td>PronType=Int</td><td><em>колко, доколко</em></td></tr>
+  <tr style="background:lightgray"><td>P Pi ref=q</td><td>=&gt;</td><td>DET</td><td>PronType=Int</td><td><em>колко, доколко</em></td></tr>
   <tr><td>P Pi ref=t</td><td>=&gt;</td><td>ADV</td><td>AdvType=Tim|PronType=Int</td><td><em>кога, докога</em></td></tr>
-  <tr style="background:lightgray"><td>P Pn _</td><td>=&gt;</td><td>PRON</td><td>Negative=Neg|PronType=Neg</td><td><em>нищо</em></td></tr>
-  <tr><td>P Pn ref=a|num=p</td><td>=&gt;</td><td>DET</td><td>Negative=Neg|Number=Plur|PronType=Neg</td><td><em>никакви</em></td></tr>
-  <tr style="background:lightgray"><td>P Pn ref=a|num=s|gen=f</td><td>=&gt;</td><td>DET</td><td>Gender=Fem|Negative=Neg|Number=Sing|PronType=Neg</td><td><em>никаква</em></td></tr>
-  <tr><td>P Pn ref=a|num=s|gen=m</td><td>=&gt;</td><td>DET</td><td>Gender=Masc|Negative=Neg|Number=Sing|PronType=Neg</td><td><em>никакъв</em></td></tr>
-  <tr style="background:lightgray"><td>P Pn ref=a|num=s|gen=n</td><td>=&gt;</td><td>DET</td><td>Gender=Neut|Negative=Neg|Number=Sing|PronType=Neg</td><td><em>никакво</em></td></tr>
-  <tr><td>P Pn ref=e|case=a|num=s|gen=m</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Gender=Masc|Negative=Neg|Number=Sing|PronType=Neg</td><td><em>никого</em></td></tr>
-  <tr style="background:lightgray"><td>P Pn ref=e|case=d|num=s|gen=m</td><td>=&gt;</td><td>PRON</td><td>Case=Dat|Gender=Masc|Negative=Neg|Number=Sing|PronType=Neg</td><td><em>никому</em></td></tr>
-  <tr><td>P Pn ref=e|case=n|num=s|gen=f</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Gender=Fem|Negative=Neg|Number=Sing|PronType=Neg</td><td><em>Никоя</em></td></tr>
-  <tr style="background:lightgray"><td>P Pn ref=e|case=n|num=s|gen=m</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Gender=Masc|Negative=Neg|Number=Sing|PronType=Neg</td><td><em>никой</em></td></tr>
-  <tr><td>P Pn ref=e|case=n|num=s|gen=n</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Gender=Neut|Negative=Neg|Number=Sing|PronType=Neg</td><td><em>никое</em></td></tr>
-  <tr style="background:lightgray"><td>P Pn ref=e|case=n|num=s|gen=n|def=d</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Definite=Def|Gender=Neut|Negative=Neg|Number=Sing|PronType=Neg</td><td><em></em></td></tr>
-  <tr><td>P Pn ref=l</td><td>=&gt;</td><td>ADV</td><td>AdvType=Loc|Negative=Neg|PronType=Neg</td><td><em>никъде, отникъде, доникъде</em></td></tr>
-  <tr style="background:lightgray"><td>P Pn ref=m</td><td>=&gt;</td><td>ADV</td><td>AdvType=Man|Negative=Neg|PronType=Neg</td><td><em>никак</em></td></tr>
-  <tr><td>P Pn ref=p|num=s|gen=f</td><td>=&gt;</td><td>PRON</td><td>Gender=Fem|Negative=Neg|Number=Sing|Poss=Yes|PronType=Neg</td><td><em>ничия</em></td></tr>
-  <tr style="background:lightgray"><td>P Pn ref=t</td><td>=&gt;</td><td>ADV</td><td>AdvType=Tim|Negative=Neg|PronType=Neg</td><td><em>никога</em></td></tr>
+  <tr style="background:lightgray"><td>P Pn _</td><td>=&gt;</td><td>PRON</td><td>Polarity=Neg|PronType=Neg</td><td><em>нищо</em></td></tr>
+  <tr><td>P Pn ref=a|num=p</td><td>=&gt;</td><td>DET</td><td>Number=Plur|Polarity=Neg|PronType=Neg</td><td><em>никакви</em></td></tr>
+  <tr style="background:lightgray"><td>P Pn ref=a|num=s|gen=f</td><td>=&gt;</td><td>DET</td><td>Gender=Fem|Number=Sing|Polarity=Neg|PronType=Neg</td><td><em>никаква</em></td></tr>
+  <tr><td>P Pn ref=a|num=s|gen=m</td><td>=&gt;</td><td>DET</td><td>Gender=Masc|Number=Sing|Polarity=Neg|PronType=Neg</td><td><em>никакъв</em></td></tr>
+  <tr style="background:lightgray"><td>P Pn ref=a|num=s|gen=n</td><td>=&gt;</td><td>DET</td><td>Gender=Neut|Number=Sing|Polarity=Neg|PronType=Neg</td><td><em>никакво</em></td></tr>
+  <tr><td>P Pn ref=e|case=a|num=s|gen=m</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Gender=Masc|Number=Sing|Polarity=Neg|PronType=Neg</td><td><em>никого</em></td></tr>
+  <tr style="background:lightgray"><td>P Pn ref=e|case=d|num=s|gen=m</td><td>=&gt;</td><td>PRON</td><td>Case=Dat|Gender=Masc|Number=Sing|Polarity=Neg|PronType=Neg</td><td><em>никому</em></td></tr>
+  <tr><td>P Pn ref=e|case=n|num=s|gen=f</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Gender=Fem|Number=Sing|Polarity=Neg|PronType=Neg</td><td><em>Никоя</em></td></tr>
+  <tr style="background:lightgray"><td>P Pn ref=e|case=n|num=s|gen=m</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Gender=Masc|Number=Sing|Polarity=Neg|PronType=Neg</td><td><em>никой</em></td></tr>
+  <tr><td>P Pn ref=e|case=n|num=s|gen=n</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Gender=Neut|Number=Sing|Polarity=Neg|PronType=Neg</td><td><em>никое</em></td></tr>
+  <tr style="background:lightgray"><td>P Pn ref=e|case=n|num=s|gen=n|def=d</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Definite=Def|Gender=Neut|Number=Sing|Polarity=Neg|PronType=Neg</td><td><em></em></td></tr>
+  <tr><td>P Pn ref=l</td><td>=&gt;</td><td>ADV</td><td>AdvType=Loc|Polarity=Neg|PronType=Neg</td><td><em>никъде, отникъде, доникъде</em></td></tr>
+  <tr style="background:lightgray"><td>P Pn ref=m</td><td>=&gt;</td><td>ADV</td><td>AdvType=Man|Polarity=Neg|PronType=Neg</td><td><em>никак</em></td></tr>
+  <tr><td>P Pn ref=p|num=s|gen=f</td><td>=&gt;</td><td>PRON</td><td>Gender=Fem|Number=Sing|Polarity=Neg|Poss=Yes|PronType=Neg</td><td><em>ничия</em></td></tr>
+  <tr style="background:lightgray"><td>P Pn ref=t</td><td>=&gt;</td><td>ADV</td><td>AdvType=Tim|Polarity=Neg|PronType=Neg</td><td><em>никога</em></td></tr>
   <tr><td>P Pp _</td><td>=&gt;</td><td>PRON</td><td>PronType=Prs</td><td><em>ви, вие, вас</em></td></tr>
   <tr style="background:lightgray"><td>P Pp ref=e|case=n|num=p|pers=1</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Number=Plur|Person=1|PronType=Prs</td><td><em>ние, ний</em></td></tr>
   <tr><td>P Pp ref=e|case=n|num=p|pers=2</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Number=Plur|Person=2|PronType=Prs</td><td><em>вие</em></td></tr>
@@ -259,7 +260,7 @@ Tagset <tt>bg::conll</tt>, total 533 tags.
   <tr style="background:lightgray"><td>P Pr ref=p|num=s|gen=f</td><td>=&gt;</td><td>PRON</td><td>Gender=Fem|Number=Sing|Poss=Yes|PronType=Rel</td><td><em>чиято</em></td></tr>
   <tr><td>P Pr ref=p|num=s|gen=m</td><td>=&gt;</td><td>PRON</td><td>Gender=Masc|Number=Sing|Poss=Yes|PronType=Rel</td><td><em>чийто</em></td></tr>
   <tr style="background:lightgray"><td>P Pr ref=p|num=s|gen=n</td><td>=&gt;</td><td>PRON</td><td>Gender=Neut|Number=Sing|Poss=Yes|PronType=Rel</td><td><em>чието</em></td></tr>
-  <tr><td>P Pr ref=q</td><td>=&gt;</td><td>NUM</td><td>PronType=Rel</td><td><em>колкото, отколкото, доколкото</em></td></tr>
+  <tr><td>P Pr ref=q</td><td>=&gt;</td><td>DET</td><td>PronType=Rel</td><td><em>колкото, отколкото, доколкото</em></td></tr>
   <tr style="background:lightgray"><td>P Pr ref=t</td><td>=&gt;</td><td>ADV</td><td>AdvType=Tim|PronType=Rel</td><td><em>когато, откакто, откак, докогато</em></td></tr>
   <tr><td>P Ps _</td><td>=&gt;</td><td>DET</td><td>Poss=Yes|PronType=Prs</td><td><em>ви, своя, вашата, вашето, вашите</em></td></tr>
   <tr style="background:lightgray"><td>P Ps ref=mp|form=f|num=p|pers=1|def=d</td><td>=&gt;</td><td>DET</td><td>Definite=Def|Number=Plur|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs|Variant=Long</td><td><em>нашите</em></td></tr>
@@ -345,12 +346,12 @@ Tagset <tt>bg::conll</tt>, total 533 tags.
   <tr style="background:lightgray"><td>P Ps ref=r|form=s|case=n</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Poss=Yes|PronType=Prs|Reflex=Yes|Variant=Short</td><td><em>си</em></td></tr>
   <tr><td>Punct Punct _</td><td>=&gt;</td><td>PUNCT</td><td>_</td><td><em>., ,, ", -, ?</em></td></tr>
   <tr style="background:lightgray"><td>R R _</td><td>=&gt;</td><td>ADP</td><td>AdpType=Prep</td><td><em>на, в, за, от, с</em></td></tr>
-  <tr><td>T Ta _</td><td>=&gt;</td><td>PART</td><td>Negative=Pos|PartType=Res</td><td><em>да</em></td></tr>
+  <tr><td>T Ta _</td><td>=&gt;</td><td>PART</td><td>PartType=Res|Polarity=Pos</td><td><em>да</em></td></tr>
   <tr style="background:lightgray"><td>T Te _</td><td>=&gt;</td><td>PART</td><td>PartType=Emp</td><td><em>пък, дори, чак, даже, Ами</em></td></tr>
   <tr><td>T Tg _</td><td>=&gt;</td><td>PART</td><td>Degree=Sup</td><td><em>по</em></td></tr>
   <tr style="background:lightgray"><td>T Ti _</td><td>=&gt;</td><td>PART</td><td>PronType=Int</td><td><em>ли, дали, нали, Нима, мигар</em></td></tr>
   <tr><td>T Tm _</td><td>=&gt;</td><td>PART</td><td>PartType=Mod</td><td><em>Дано, май, уж, да_не_би, Хайде</em></td></tr>
-  <tr style="background:lightgray"><td>T Tn _</td><td>=&gt;</td><td>PART</td><td>Negative=Neg|PartType=Res</td><td><em>не, нито</em></td></tr>
+  <tr style="background:lightgray"><td>T Tn _</td><td>=&gt;</td><td>PART</td><td>PartType=Res|Polarity=Neg</td><td><em>не, нито</em></td></tr>
   <tr><td>T Tv _</td><td>=&gt;</td><td>PART</td><td>PartType=Mod</td><td><em>нека, ето</em></td></tr>
   <tr style="background:lightgray"><td>T Tx _</td><td>=&gt;</td><td>PART</td><td>_</td><td><em>да, ще, би</em></td></tr>
   <tr><td>V V _</td><td>=&gt;</td><td>VERB</td><td>VerbForm=Inf</td><td><em>We_believe_you</em></td></tr>
@@ -408,7 +409,7 @@ Tagset <tt>bg::conll</tt>, total 533 tags.
   <tr><td>V Vpi trans=i|vform=c|voice=a|tense=r|num=s|gen=m|def=i</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Definite=Ind|Gender=Masc|Number=Sing|Subcat=Intr|Tense=Pres|VerbForm=Part|Voice=Act</td><td><em>действащ, преговарящ, присъстващ, дремещ, отговарящ</em></td></tr>
   <tr style="background:lightgray"><td>V Vpi trans=i|vform=c|voice=a|tense=r|num=s|gen=n|def=d</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Definite=Def|Gender=Neut|Number=Sing|Subcat=Intr|Tense=Pres|VerbForm=Part|Voice=Act</td><td><em>блестящото, Предстоящото, ставащото</em></td></tr>
   <tr><td>V Vpi trans=i|vform=c|voice=a|tense=r|num=s|gen=n|def=i</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Definite=Ind|Gender=Neut|Number=Sing|Subcat=Intr|Tense=Pres|VerbForm=Part|Voice=Act</td><td><em>смиряващо, справящо, преобладаващо</em></td></tr>
-  <tr style="background:lightgray"><td>V Vpi trans=i|vform=g</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Subcat=Intr|VerbForm=Trans</td><td><em>знаейки, Сядайки, падайки, Страдайки</em></td></tr>
+  <tr style="background:lightgray"><td>V Vpi trans=i|vform=g</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Subcat=Intr|VerbForm=Conv</td><td><em>знаейки, Сядайки, падайки, Страдайки</em></td></tr>
   <tr><td>V Vpi trans=t|mood=i|tense=m|pers=1|num=p</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Subcat=Tran|Tense=Imp|VerbForm=Fin</td><td><em>имахме, чувахме, любехме, очаквахме, борехме</em></td></tr>
   <tr style="background:lightgray"><td>V Vpi trans=t|mood=i|tense=m|pers=1|num=s</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Subcat=Tran|Tense=Imp|VerbForm=Fin</td><td><em>имах, мислех, исках, щях, чувствах</em></td></tr>
   <tr><td>V Vpi trans=t|mood=i|tense=m|pers=2|num=p</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Subcat=Tran|Tense=Imp|VerbForm=Fin</td><td><em>щяхте, имахте</em></td></tr>
@@ -454,7 +455,7 @@ Tagset <tt>bg::conll</tt>, total 533 tags.
   <tr><td>V Vpi trans=t|vform=c|voice=v|num=s|gen=m|def=i</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Definite=Ind|Gender=Masc|Number=Sing|Subcat=Tran|VerbForm=Part|Voice=Pass</td><td><em>подслушван, подлаган, избиран, критикуван, съден</em></td></tr>
   <tr style="background:lightgray"><td>V Vpi trans=t|vform=c|voice=v|num=s|gen=n|def=d</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Definite=Def|Gender=Neut|Number=Sing|Subcat=Tran|VerbForm=Part|Voice=Pass</td><td><em>очакваното, исканото, предлаганото, желаното, фокусираното</em></td></tr>
   <tr><td>V Vpi trans=t|vform=c|voice=v|num=s|gen=n|def=i</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Definite=Ind|Gender=Neut|Number=Sing|Subcat=Tran|VerbForm=Part|Voice=Pass</td><td><em>давано, обсъждано, белязано, коментирано, градено</em></td></tr>
-  <tr style="background:lightgray"><td>V Vpi trans=t|vform=g</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Subcat=Tran|VerbForm=Trans</td><td><em>приемайки, отчитайки, симулирайки, облягайки, смятайки</em></td></tr>
+  <tr style="background:lightgray"><td>V Vpi trans=t|vform=g</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Subcat=Tran|VerbForm=Conv</td><td><em>приемайки, отчитайки, симулирайки, облягайки, смятайки</em></td></tr>
   <tr><td>V Vpp _</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|VerbForm=Inf</td><td><em>арестуваният, избраният, обновеният, повлияният, пенсионираният</em></td></tr>
   <tr style="background:lightgray"><td>V Vpp aspect=p|trans=i|mood=i|tense=m|pers=3|num=p</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Subcat=Intr|Tense=Imp|VerbForm=Fin</td><td><em>разгоряха</em></td></tr>
   <tr><td>V Vpp aspect=p|trans=i|mood=i|tense=m|pers=3|num=s</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Subcat=Intr|Tense=Imp|VerbForm=Fin</td><td><em>отидеше, застанеше</em></td></tr>

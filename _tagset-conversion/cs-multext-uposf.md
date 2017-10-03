@@ -1,6 +1,7 @@
 ---
 layout: base
 title: 'Tagset cs::multext conversion to universal POS tags and features'
+udver: '2'
 ---
 
 <a href="index.html">all tables</a>
@@ -13,7 +14,7 @@ It uses only tags (+ features) as input, therefore it is only an approximation.
 Some tags can only be mapped if we also know the lemma or the syntactic context; such information has not been available here.
 The table requires manual postprocessing in order to provide accurate and complete information.
 
-Tagset <tt>cs::multext</tt>, total 1458 tags.
+Tagset <tt>cs::multext</tt>, total 1462 tags.
 
 <table>
   <tr style="background:lightgray"><td>Afcfpa---c</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Degree=Cmp|Gender=Fem|Number=Plur</td><td><em></em></td></tr>
@@ -212,7 +213,7 @@ Tagset <tt>cs::multext</tt>, total 1458 tags.
   <tr><td>As-nsl</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Gender=Neut|Number=Sing|Poss=Yes</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>As-nsn</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Gender=Neut|Number=Sing|Poss=Yes</td><td><em></em></td></tr>
   <tr><td>As-nsv</td><td>=&gt;</td><td>ADJ</td><td>Case=Voc|Gender=Neut|Number=Sing|Poss=Yes</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Cc</td><td>=&gt;</td><td>CONJ</td><td>_</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Cc</td><td>=&gt;</td><td>CCONJ</td><td>_</td><td><em></em></td></tr>
   <tr><td>Cs</td><td>=&gt;</td><td>SCONJ</td><td>_</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>Cs-----3</td><td>=&gt;</td><td>SCONJ</td><td>Person=3</td><td><em></em></td></tr>
   <tr><td>Cs----p1</td><td>=&gt;</td><td>SCONJ</td><td>Number=Plur|Person=1</td><td><em></em></td></tr>
@@ -482,71 +483,71 @@ Tagset <tt>cs::multext</tt>, total 1458 tags.
   <tr><td>Mo-p-r--2</td><td>=&gt;</td><td>ADJ</td><td>Number=Plur|NumForm=Roman|NumType=Ord|NumValue=2</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>Mo-p-r--3</td><td>=&gt;</td><td>ADJ</td><td>Number=Plur|NumForm=Roman|NumType=Ord|NumValue=3</td><td><em></em></td></tr>
   <tr><td>Mo---r--f</td><td>=&gt;</td><td>ADJ</td><td>NumForm=Roman|NumType=Ord</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Msfpal--2</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Gender=Fem|Number=Plur|NumForm=Word|NumType=Gen|NumValue=2</td><td><em></em></td></tr>
-  <tr><td>Msfpal--f</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Gender=Fem|Number=Plur|NumForm=Word|NumType=Gen</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Msfpal--i</td><td>=&gt;</td><td>DET</td><td>Case=Acc|Gender=Fem|Number=Plur|NumForm=Word|NumType=Gen|PronType=Ind</td><td><em></em></td></tr>
-  <tr><td>Msfpdl--f</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Gender=Fem|Number=Plur|NumForm=Word|NumType=Gen</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Msfpgl--1</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Gender=Fem|Number=Plur|NumForm=Word|NumType=Gen|NumValue=1</td><td><em></em></td></tr>
-  <tr><td>Msfpgl--f</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Gender=Fem|Number=Plur|NumForm=Word|NumType=Gen</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Msfpll--1</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Gender=Fem|Number=Plur|NumForm=Word|NumType=Gen|NumValue=1</td><td><em></em></td></tr>
-  <tr><td>Msfpll--f</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Gender=Fem|Number=Plur|NumForm=Word|NumType=Gen</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Msfpnl--2</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Gender=Fem|Number=Plur|NumForm=Word|NumType=Gen|NumValue=2</td><td><em></em></td></tr>
-  <tr><td>Msfpnl--f</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Gender=Fem|Number=Plur|NumForm=Word|NumType=Gen</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Msfpnl--i</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Gender=Fem|Number=Plur|NumForm=Word|NumType=Gen|PronType=Ind</td><td><em></em></td></tr>
-  <tr><td>Msfsal--2</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Gender=Fem|Number=Sing|NumForm=Word|NumType=Gen|NumValue=2</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Msfsal--f</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Gender=Fem|Number=Sing|NumForm=Word|NumType=Gen</td><td><em></em></td></tr>
-  <tr><td>Msfsdl--2</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Gender=Fem|Number=Sing|NumForm=Word|NumType=Gen|NumValue=2</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Msfsdl--f</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Gender=Fem|Number=Sing|NumForm=Word|NumType=Gen</td><td><em></em></td></tr>
-  <tr><td>Msfsgl--2</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Gender=Fem|Number=Sing|NumForm=Word|NumType=Gen|NumValue=2</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Msfsgl--f</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Gender=Fem|Number=Sing|NumForm=Word|NumType=Gen</td><td><em></em></td></tr>
-  <tr><td>Msfsil--2</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Gender=Fem|Number=Sing|NumForm=Word|NumType=Gen|NumValue=2</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Msfsil--f</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Gender=Fem|Number=Sing|NumForm=Word|NumType=Gen</td><td><em></em></td></tr>
-  <tr><td>Msfsll--2</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Gender=Fem|Number=Sing|NumForm=Word|NumType=Gen|NumValue=2</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Msfsll--f</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Gender=Fem|Number=Sing|NumForm=Word|NumType=Gen</td><td><em></em></td></tr>
-  <tr><td>Msfsnl--2</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Gender=Fem|Number=Sing|NumForm=Word|NumType=Gen|NumValue=2</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Msfsnl--f</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Gender=Fem|Number=Sing|NumForm=Word|NumType=Gen</td><td><em></em></td></tr>
-  <tr><td>Msmpal--2</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Gender=Masc|Number=Plur|NumForm=Word|NumType=Gen|NumValue=2</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Msmpal--i</td><td>=&gt;</td><td>DET</td><td>Case=Acc|Gender=Masc|Number=Plur|NumForm=Word|NumType=Gen|PronType=Ind</td><td><em></em></td></tr>
-  <tr><td>Msmpal--f</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Gender=Masc|Number=Plur|NumForm=Word|NumType=Gen</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Msmpdl--f</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Gender=Masc|Number=Plur|NumForm=Word|NumType=Gen</td><td><em></em></td></tr>
-  <tr><td>Msmpgl--1</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Gender=Masc|Number=Plur|NumForm=Word|NumType=Gen|NumValue=1</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Msmpll--1</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Gender=Masc|Number=Plur|NumForm=Word|NumType=Gen|NumValue=1</td><td><em></em></td></tr>
-  <tr><td>Msmpnl--1y</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur|NumForm=Word|NumType=Gen|NumValue=1</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Msmpnl--2n</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur|NumForm=Word|NumType=Gen|NumValue=2</td><td><em></em></td></tr>
-  <tr><td>Msmpnl--2y</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur|NumForm=Word|NumType=Gen|NumValue=2</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Msmpnl--fn</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur|NumForm=Word|NumType=Gen</td><td><em></em></td></tr>
-  <tr><td>Msmpnl--fy</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur|NumForm=Word|NumType=Gen</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Msmpnl--in</td><td>=&gt;</td><td>DET</td><td>Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur|NumForm=Word|NumType=Gen|PronType=Ind</td><td><em></em></td></tr>
-  <tr><td>Msmsal--2n</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|NumForm=Word|NumType=Gen|NumValue=2</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Msmsal--fn</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|NumForm=Word|NumType=Gen</td><td><em></em></td></tr>
-  <tr><td>Msmsal--fy</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing|NumForm=Word|NumType=Gen</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Msmsal--in</td><td>=&gt;</td><td>DET</td><td>Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|NumForm=Word|NumType=Gen|PronType=Ind</td><td><em></em></td></tr>
-  <tr><td>Msmsal--iy</td><td>=&gt;</td><td>DET</td><td>Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing|NumForm=Word|NumType=Gen|PronType=Ind</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Msmsdl--i</td><td>=&gt;</td><td>DET</td><td>Case=Dat|Gender=Masc|Number=Sing|NumForm=Word|NumType=Gen|PronType=Ind</td><td><em></em></td></tr>
-  <tr><td>Msmsgl--i</td><td>=&gt;</td><td>DET</td><td>Case=Gen|Gender=Masc|Number=Sing|NumForm=Word|NumType=Gen|PronType=Ind</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Msmsil--f</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Gender=Masc|Number=Sing|NumForm=Word|NumType=Gen</td><td><em></em></td></tr>
-  <tr><td>Msmsnl--1</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Gender=Masc|Number=Sing|NumForm=Word|NumType=Gen|NumValue=1</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Msmsnl--2</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Gender=Masc|Number=Sing|NumForm=Word|NumType=Gen|NumValue=2</td><td><em></em></td></tr>
-  <tr><td>Msmsnl--f</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Gender=Masc|Number=Sing|NumForm=Word|NumType=Gen</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Msmsnl--i</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Gender=Masc|Number=Sing|NumForm=Word|NumType=Gen|PronType=Ind</td><td><em></em></td></tr>
-  <tr><td>Msnpal--1</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Gender=Neut|Number=Plur|NumForm=Word|NumType=Gen|NumValue=1</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Msnpal--2</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Gender=Neut|Number=Plur|NumForm=Word|NumType=Gen|NumValue=2</td><td><em></em></td></tr>
-  <tr><td>Msnpal--f</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Gender=Neut|Number=Plur|NumForm=Word|NumType=Gen</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Msnpdl--f</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Gender=Neut|Number=Plur|NumForm=Word|NumType=Gen</td><td><em></em></td></tr>
-  <tr><td>Msnpgl--1</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Gender=Neut|Number=Plur|NumForm=Word|NumType=Gen|NumValue=1</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Msnpgl--f</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Gender=Neut|Number=Plur|NumForm=Word|NumType=Gen</td><td><em></em></td></tr>
-  <tr><td>Msnpll--1</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Gender=Neut|Number=Plur|NumForm=Word|NumType=Gen|NumValue=1</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Msnpll--f</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Gender=Neut|Number=Plur|NumForm=Word|NumType=Gen</td><td><em></em></td></tr>
-  <tr><td>Msnpnl--1</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Gender=Neut|Number=Plur|NumForm=Word|NumType=Gen|NumValue=1</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Msnpnl--f</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Gender=Neut|Number=Plur|NumForm=Word|NumType=Gen</td><td><em></em></td></tr>
-  <tr><td>Msnpnl--2</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Gender=Neut|Number=Plur|NumForm=Word|NumType=Gen|NumValue=2</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Msnsal--2</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Gender=Neut|Number=Sing|NumForm=Word|NumType=Gen|NumValue=2</td><td><em></em></td></tr>
-  <tr><td>Msnsal--f</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Gender=Neut|Number=Sing|NumForm=Word|NumType=Gen</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Msnsdl--i</td><td>=&gt;</td><td>DET</td><td>Case=Dat|Gender=Neut|Number=Sing|NumForm=Word|NumType=Gen|PronType=Ind</td><td><em></em></td></tr>
-  <tr><td>Msnsil--f</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Gender=Neut|Number=Sing|NumForm=Word|NumType=Gen</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Msnsnl--2</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Gender=Neut|Number=Sing|NumForm=Word|NumType=Gen|NumValue=2</td><td><em></em></td></tr>
-  <tr><td>Msnsnl--f</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Gender=Neut|Number=Sing|NumForm=Word|NumType=Gen</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Msnsnl--i</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Gender=Neut|Number=Sing|NumForm=Word|NumType=Gen|PronType=Ind</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Msfpal--2</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Gender=Fem|Number=Plur|NumForm=Word|NumType=Sets|NumValue=2</td><td><em></em></td></tr>
+  <tr><td>Msfpal--f</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Gender=Fem|Number=Plur|NumForm=Word|NumType=Sets</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Msfpal--i</td><td>=&gt;</td><td>DET</td><td>Case=Acc|Gender=Fem|Number=Plur|NumForm=Word|NumType=Sets|PronType=Ind</td><td><em></em></td></tr>
+  <tr><td>Msfpdl--f</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Gender=Fem|Number=Plur|NumForm=Word|NumType=Sets</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Msfpgl--1</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Gender=Fem|Number=Plur|NumForm=Word|NumType=Sets|NumValue=1</td><td><em></em></td></tr>
+  <tr><td>Msfpgl--f</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Gender=Fem|Number=Plur|NumForm=Word|NumType=Sets</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Msfpll--1</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Gender=Fem|Number=Plur|NumForm=Word|NumType=Sets|NumValue=1</td><td><em></em></td></tr>
+  <tr><td>Msfpll--f</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Gender=Fem|Number=Plur|NumForm=Word|NumType=Sets</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Msfpnl--2</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Gender=Fem|Number=Plur|NumForm=Word|NumType=Sets|NumValue=2</td><td><em></em></td></tr>
+  <tr><td>Msfpnl--f</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Gender=Fem|Number=Plur|NumForm=Word|NumType=Sets</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Msfpnl--i</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Gender=Fem|Number=Plur|NumForm=Word|NumType=Sets|PronType=Ind</td><td><em></em></td></tr>
+  <tr><td>Msfsal--2</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Gender=Fem|Number=Sing|NumForm=Word|NumType=Sets|NumValue=2</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Msfsal--f</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Gender=Fem|Number=Sing|NumForm=Word|NumType=Sets</td><td><em></em></td></tr>
+  <tr><td>Msfsdl--2</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Gender=Fem|Number=Sing|NumForm=Word|NumType=Sets|NumValue=2</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Msfsdl--f</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Gender=Fem|Number=Sing|NumForm=Word|NumType=Sets</td><td><em></em></td></tr>
+  <tr><td>Msfsgl--2</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Gender=Fem|Number=Sing|NumForm=Word|NumType=Sets|NumValue=2</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Msfsgl--f</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Gender=Fem|Number=Sing|NumForm=Word|NumType=Sets</td><td><em></em></td></tr>
+  <tr><td>Msfsil--2</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Gender=Fem|Number=Sing|NumForm=Word|NumType=Sets|NumValue=2</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Msfsil--f</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Gender=Fem|Number=Sing|NumForm=Word|NumType=Sets</td><td><em></em></td></tr>
+  <tr><td>Msfsll--2</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Gender=Fem|Number=Sing|NumForm=Word|NumType=Sets|NumValue=2</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Msfsll--f</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Gender=Fem|Number=Sing|NumForm=Word|NumType=Sets</td><td><em></em></td></tr>
+  <tr><td>Msfsnl--2</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Gender=Fem|Number=Sing|NumForm=Word|NumType=Sets|NumValue=2</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Msfsnl--f</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Gender=Fem|Number=Sing|NumForm=Word|NumType=Sets</td><td><em></em></td></tr>
+  <tr><td>Msmpal--2</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Gender=Masc|Number=Plur|NumForm=Word|NumType=Sets|NumValue=2</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Msmpal--i</td><td>=&gt;</td><td>DET</td><td>Case=Acc|Gender=Masc|Number=Plur|NumForm=Word|NumType=Sets|PronType=Ind</td><td><em></em></td></tr>
+  <tr><td>Msmpal--f</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Gender=Masc|Number=Plur|NumForm=Word|NumType=Sets</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Msmpdl--f</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Gender=Masc|Number=Plur|NumForm=Word|NumType=Sets</td><td><em></em></td></tr>
+  <tr><td>Msmpgl--1</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Gender=Masc|Number=Plur|NumForm=Word|NumType=Sets|NumValue=1</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Msmpll--1</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Gender=Masc|Number=Plur|NumForm=Word|NumType=Sets|NumValue=1</td><td><em></em></td></tr>
+  <tr><td>Msmpnl--1y</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur|NumForm=Word|NumType=Sets|NumValue=1</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Msmpnl--2n</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur|NumForm=Word|NumType=Sets|NumValue=2</td><td><em></em></td></tr>
+  <tr><td>Msmpnl--2y</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur|NumForm=Word|NumType=Sets|NumValue=2</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Msmpnl--fn</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur|NumForm=Word|NumType=Sets</td><td><em></em></td></tr>
+  <tr><td>Msmpnl--fy</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur|NumForm=Word|NumType=Sets</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Msmpnl--in</td><td>=&gt;</td><td>DET</td><td>Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur|NumForm=Word|NumType=Sets|PronType=Ind</td><td><em></em></td></tr>
+  <tr><td>Msmsal--2n</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|NumForm=Word|NumType=Sets|NumValue=2</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Msmsal--fn</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|NumForm=Word|NumType=Sets</td><td><em></em></td></tr>
+  <tr><td>Msmsal--fy</td><td>=&gt;</td><td>ADJ</td><td>Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing|NumForm=Word|NumType=Sets</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Msmsal--in</td><td>=&gt;</td><td>DET</td><td>Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|NumForm=Word|NumType=Sets|PronType=Ind</td><td><em></em></td></tr>
+  <tr><td>Msmsal--iy</td><td>=&gt;</td><td>DET</td><td>Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing|NumForm=Word|NumType=Sets|PronType=Ind</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Msmsdl--i</td><td>=&gt;</td><td>DET</td><td>Case=Dat|Gender=Masc|Number=Sing|NumForm=Word|NumType=Sets|PronType=Ind</td><td><em></em></td></tr>
+  <tr><td>Msmsgl--i</td><td>=&gt;</td><td>DET</td><td>Case=Gen|Gender=Masc|Number=Sing|NumForm=Word|NumType=Sets|PronType=Ind</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Msmsil--f</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Gender=Masc|Number=Sing|NumForm=Word|NumType=Sets</td><td><em></em></td></tr>
+  <tr><td>Msmsnl--1</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Gender=Masc|Number=Sing|NumForm=Word|NumType=Sets|NumValue=1</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Msmsnl--2</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Gender=Masc|Number=Sing|NumForm=Word|NumType=Sets|NumValue=2</td><td><em></em></td></tr>
+  <tr><td>Msmsnl--f</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Gender=Masc|Number=Sing|NumForm=Word|NumType=Sets</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Msmsnl--i</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Gender=Masc|Number=Sing|NumForm=Word|NumType=Sets|PronType=Ind</td><td><em></em></td></tr>
+  <tr><td>Msnpal--1</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Gender=Neut|Number=Plur|NumForm=Word|NumType=Sets|NumValue=1</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Msnpal--2</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Gender=Neut|Number=Plur|NumForm=Word|NumType=Sets|NumValue=2</td><td><em></em></td></tr>
+  <tr><td>Msnpal--f</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Gender=Neut|Number=Plur|NumForm=Word|NumType=Sets</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Msnpdl--f</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Gender=Neut|Number=Plur|NumForm=Word|NumType=Sets</td><td><em></em></td></tr>
+  <tr><td>Msnpgl--1</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Gender=Neut|Number=Plur|NumForm=Word|NumType=Sets|NumValue=1</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Msnpgl--f</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Gender=Neut|Number=Plur|NumForm=Word|NumType=Sets</td><td><em></em></td></tr>
+  <tr><td>Msnpll--1</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Gender=Neut|Number=Plur|NumForm=Word|NumType=Sets|NumValue=1</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Msnpll--f</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Gender=Neut|Number=Plur|NumForm=Word|NumType=Sets</td><td><em></em></td></tr>
+  <tr><td>Msnpnl--1</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Gender=Neut|Number=Plur|NumForm=Word|NumType=Sets|NumValue=1</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Msnpnl--f</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Gender=Neut|Number=Plur|NumForm=Word|NumType=Sets</td><td><em></em></td></tr>
+  <tr><td>Msnpnl--2</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Gender=Neut|Number=Plur|NumForm=Word|NumType=Sets|NumValue=2</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Msnsal--2</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Gender=Neut|Number=Sing|NumForm=Word|NumType=Sets|NumValue=2</td><td><em></em></td></tr>
+  <tr><td>Msnsal--f</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Gender=Neut|Number=Sing|NumForm=Word|NumType=Sets</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Msnsdl--i</td><td>=&gt;</td><td>DET</td><td>Case=Dat|Gender=Neut|Number=Sing|NumForm=Word|NumType=Sets|PronType=Ind</td><td><em></em></td></tr>
+  <tr><td>Msnsil--f</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Gender=Neut|Number=Sing|NumForm=Word|NumType=Sets</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Msnsnl--2</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Gender=Neut|Number=Sing|NumForm=Word|NumType=Sets|NumValue=2</td><td><em></em></td></tr>
+  <tr><td>Msnsnl--f</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Gender=Neut|Number=Sing|NumForm=Word|NumType=Sets</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Msnsnl--i</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Gender=Neut|Number=Sing|NumForm=Word|NumType=Sets|PronType=Ind</td><td><em></em></td></tr>
   <tr><td>Ncf</td><td>=&gt;</td><td>NOUN</td><td>Gender=Fem</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>Ncfdi</td><td>=&gt;</td><td>NOUN</td><td>Case=Ins|Gender=Fem|Number=Dual</td><td><em></em></td></tr>
   <tr><td>Ncfpa</td><td>=&gt;</td><td>NOUN</td><td>Case=Acc|Gender=Fem|Number=Plur</td><td><em></em></td></tr>
@@ -692,6 +693,8 @@ Tagset <tt>cs::multext</tt>, total 1458 tags.
   <tr><td>Pd-nsl--n-a--n</td><td>=&gt;</td><td>DET</td><td>Case=Loc|Gender=Neut|Number=Sing|PronType=Dem</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>Pd-nsn--n-a--n</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Gender=Neut|Number=Sing|PronType=Dem</td><td><em></em></td></tr>
   <tr><td>Pd-nsn--n-a--y</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Gender=Neut|Number=Sing|Person=2|PronType=Dem</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Pd2nsa--n-a--n</td><td>=&gt;</td><td>DET</td><td>Case=Acc|Gender=Neut|Number=Sing|Person=2|PronType=Dem</td><td><em></em></td></tr>
+  <tr><td>Pd2nsn--n-a--n</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Gender=Neut|Number=Sing|Person=2|PronType=Dem</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>Pg-fdi--n-a--n</td><td>=&gt;</td><td>DET</td><td>Case=Ins|Gender=Fem|Number=Dual|PronType=Tot</td><td><em></em></td></tr>
   <tr><td>Pg-fpa--n-a--n</td><td>=&gt;</td><td>DET</td><td>Case=Acc|Gender=Fem|Number=Plur|PronType=Tot</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>Pg-fpd--n-a--n</td><td>=&gt;</td><td>DET</td><td>Case=Dat|Gender=Fem|Number=Plur|PronType=Tot</td><td><em></em></td></tr>
@@ -1233,6 +1236,8 @@ Tagset <tt>cs::multext</tt>, total 1458 tags.
   <tr style="background:lightgray"><td>Px-nsi--nsa--n</td><td>=&gt;</td><td>DET</td><td>Case=Ins|Gender=Neut|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes</td><td><em></em></td></tr>
   <tr><td>Px-nsl--nsa--n</td><td>=&gt;</td><td>DET</td><td>Case=Loc|Gender=Neut|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>Px-nsn--nsa--n</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Gender=Neut|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes</td><td><em></em></td></tr>
+  <tr><td>Px2--a--ypn--n</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Person=2|PronType=Prs|Reflex=Yes|Variant=Short</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Px2--d--ypn--n</td><td>=&gt;</td><td>PRON</td><td>Case=Dat|Person=2|PronType=Prs|Reflex=Yes|Variant=Short</td><td><em></em></td></tr>
   <tr><td>Pz-fpa--n-a--n</td><td>=&gt;</td><td>DET</td><td>Case=Acc|Gender=Fem|Number=Plur|PronType=Neg</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>Pz-fpd--n-a--n</td><td>=&gt;</td><td>DET</td><td>Case=Dat|Gender=Fem|Number=Plur|PronType=Neg</td><td><em></em></td></tr>
   <tr><td>Pz-fpd--n-n--n</td><td>=&gt;</td><td>PRON</td><td>Case=Dat|Gender=Fem|Number=Plur|PronType=Neg</td><td><em></em></td></tr>
@@ -1297,181 +1302,181 @@ Tagset <tt>cs::multext</tt>, total 1458 tags.
   <tr style="background:lightgray"><td>Spsg</td><td>=&gt;</td><td>ADP</td><td>AdpType=Prep|Case=Gen</td><td><em></em></td></tr>
   <tr><td>Spsi</td><td>=&gt;</td><td>ADP</td><td>AdpType=Prep|Case=Ins</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>Spsl</td><td>=&gt;</td><td>ADP</td><td>AdpType=Prep|Case=Loc</td><td><em></em></td></tr>
-  <tr><td>Vaip1p-an</td><td>=&gt;</td><td>AUX</td><td>Mood=Ind|Negative=Pos|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Vaip1p-ay</td><td>=&gt;</td><td>AUX</td><td>Mood=Ind|Negative=Neg|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act</td><td><em></em></td></tr>
-  <tr><td>Vaip1s-an</td><td>=&gt;</td><td>AUX</td><td>Mood=Ind|Negative=Pos|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Vaip1s-ay</td><td>=&gt;</td><td>AUX</td><td>Mood=Ind|Negative=Neg|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act</td><td><em></em></td></tr>
-  <tr><td>Vaip2p-an</td><td>=&gt;</td><td>AUX</td><td>Mood=Ind|Negative=Pos|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Vaip2p-ay</td><td>=&gt;</td><td>AUX</td><td>Mood=Ind|Negative=Neg|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act</td><td><em></em></td></tr>
-  <tr><td>Vaip2s-an</td><td>=&gt;</td><td>AUX</td><td>Mood=Ind|Negative=Pos|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Vaip2s-ay</td><td>=&gt;</td><td>AUX</td><td>Mood=Ind|Negative=Neg|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act</td><td><em></em></td></tr>
-  <tr><td>Vaip3p-an</td><td>=&gt;</td><td>AUX</td><td>Mood=Ind|Negative=Pos|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Vaip3p-ay</td><td>=&gt;</td><td>AUX</td><td>Mood=Ind|Negative=Neg|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act</td><td><em></em></td></tr>
-  <tr><td>Vaip3s-an</td><td>=&gt;</td><td>AUX</td><td>Mood=Ind|Negative=Pos|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Vaip3s-ay</td><td>=&gt;</td><td>AUX</td><td>Mood=Ind|Negative=Neg|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act</td><td><em></em></td></tr>
-  <tr><td>Van----an----n</td><td>=&gt;</td><td>AUX</td><td>Negative=Pos|VerbForm=Inf|Voice=Act</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Van----ay----n</td><td>=&gt;</td><td>AUX</td><td>Negative=Neg|VerbForm=Inf|Voice=Act</td><td><em></em></td></tr>
-  <tr><td>Vaps-pfan----n</td><td>=&gt;</td><td>AUX</td><td>Gender=Fem|Negative=Pos|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Vaps-pfay----n</td><td>=&gt;</td><td>AUX</td><td>Gender=Fem|Negative=Neg|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
-  <tr><td>Vaps-pman---nn</td><td>=&gt;</td><td>AUX</td><td>Animacy=Inan|Gender=Masc|Negative=Pos|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Vaps-pman---yn</td><td>=&gt;</td><td>AUX</td><td>Animacy=Anim|Gender=Masc|Negative=Pos|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
-  <tr><td>Vaps-pmay---nn</td><td>=&gt;</td><td>AUX</td><td>Animacy=Inan|Gender=Masc|Negative=Neg|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Vaps-pmay---yn</td><td>=&gt;</td><td>AUX</td><td>Animacy=Anim|Gender=Masc|Negative=Neg|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
-  <tr><td>Vaps-pnan----n</td><td>=&gt;</td><td>AUX</td><td>Gender=Neut|Negative=Pos|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Vaps-pnay----n</td><td>=&gt;</td><td>AUX</td><td>Gender=Neut|Negative=Neg|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
-  <tr><td>Vaps-sfan----n</td><td>=&gt;</td><td>AUX</td><td>Gender=Fem|Negative=Pos|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Vaps-sfay----n</td><td>=&gt;</td><td>AUX</td><td>Gender=Fem|Negative=Neg|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
-  <tr><td>Vaps-sman----n</td><td>=&gt;</td><td>AUX</td><td>Gender=Masc|Negative=Pos|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Vaps-smay----n</td><td>=&gt;</td><td>AUX</td><td>Gender=Masc|Negative=Neg|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
-  <tr><td>Vaps-snan----n</td><td>=&gt;</td><td>AUX</td><td>Gender=Neut|Negative=Pos|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Vaps-snay----n</td><td>=&gt;</td><td>AUX</td><td>Gender=Neut|Negative=Neg|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
+  <tr><td>Vaip1p-an</td><td>=&gt;</td><td>AUX</td><td>Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Vaip1p-ay</td><td>=&gt;</td><td>AUX</td><td>Mood=Ind|Number=Plur|Person=1|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act</td><td><em></em></td></tr>
+  <tr><td>Vaip1s-an</td><td>=&gt;</td><td>AUX</td><td>Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Vaip1s-ay</td><td>=&gt;</td><td>AUX</td><td>Mood=Ind|Number=Sing|Person=1|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act</td><td><em></em></td></tr>
+  <tr><td>Vaip2p-an</td><td>=&gt;</td><td>AUX</td><td>Mood=Ind|Number=Plur|Person=2|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Vaip2p-ay</td><td>=&gt;</td><td>AUX</td><td>Mood=Ind|Number=Plur|Person=2|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act</td><td><em></em></td></tr>
+  <tr><td>Vaip2s-an</td><td>=&gt;</td><td>AUX</td><td>Mood=Ind|Number=Sing|Person=2|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Vaip2s-ay</td><td>=&gt;</td><td>AUX</td><td>Mood=Ind|Number=Sing|Person=2|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act</td><td><em></em></td></tr>
+  <tr><td>Vaip3p-an</td><td>=&gt;</td><td>AUX</td><td>Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Vaip3p-ay</td><td>=&gt;</td><td>AUX</td><td>Mood=Ind|Number=Plur|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act</td><td><em></em></td></tr>
+  <tr><td>Vaip3s-an</td><td>=&gt;</td><td>AUX</td><td>Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Vaip3s-ay</td><td>=&gt;</td><td>AUX</td><td>Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act</td><td><em></em></td></tr>
+  <tr><td>Van----an----n</td><td>=&gt;</td><td>AUX</td><td>Polarity=Pos|VerbForm=Inf|Voice=Act</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Van----ay----n</td><td>=&gt;</td><td>AUX</td><td>Polarity=Neg|VerbForm=Inf|Voice=Act</td><td><em></em></td></tr>
+  <tr><td>Vaps-pfan----n</td><td>=&gt;</td><td>AUX</td><td>Gender=Fem|Number=Plur|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Vaps-pfay----n</td><td>=&gt;</td><td>AUX</td><td>Gender=Fem|Number=Plur|Polarity=Neg|Tense=Past|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
+  <tr><td>Vaps-pman---nn</td><td>=&gt;</td><td>AUX</td><td>Animacy=Inan|Gender=Masc|Number=Plur|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Vaps-pman---yn</td><td>=&gt;</td><td>AUX</td><td>Animacy=Anim|Gender=Masc|Number=Plur|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
+  <tr><td>Vaps-pmay---nn</td><td>=&gt;</td><td>AUX</td><td>Animacy=Inan|Gender=Masc|Number=Plur|Polarity=Neg|Tense=Past|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Vaps-pmay---yn</td><td>=&gt;</td><td>AUX</td><td>Animacy=Anim|Gender=Masc|Number=Plur|Polarity=Neg|Tense=Past|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
+  <tr><td>Vaps-pnan----n</td><td>=&gt;</td><td>AUX</td><td>Gender=Neut|Number=Plur|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Vaps-pnay----n</td><td>=&gt;</td><td>AUX</td><td>Gender=Neut|Number=Plur|Polarity=Neg|Tense=Past|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
+  <tr><td>Vaps-sfan----n</td><td>=&gt;</td><td>AUX</td><td>Gender=Fem|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Vaps-sfay----n</td><td>=&gt;</td><td>AUX</td><td>Gender=Fem|Number=Sing|Polarity=Neg|Tense=Past|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
+  <tr><td>Vaps-sman----n</td><td>=&gt;</td><td>AUX</td><td>Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Vaps-smay----n</td><td>=&gt;</td><td>AUX</td><td>Gender=Masc|Number=Sing|Polarity=Neg|Tense=Past|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
+  <tr><td>Vaps-snan----n</td><td>=&gt;</td><td>AUX</td><td>Gender=Neut|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Vaps-snay----n</td><td>=&gt;</td><td>AUX</td><td>Gender=Neut|Number=Sing|Polarity=Neg|Tense=Past|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
   <tr><td>Vcc-1p</td><td>=&gt;</td><td>VERB</td><td>Mood=Cnd|Number=Plur|Person=1|VerbForm=Fin|VerbType=Cop</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>Vcc-1s</td><td>=&gt;</td><td>VERB</td><td>Mood=Cnd|Number=Sing|Person=1|VerbForm=Fin|VerbType=Cop</td><td><em></em></td></tr>
   <tr><td>Vcc-2p</td><td>=&gt;</td><td>VERB</td><td>Mood=Cnd|Number=Plur|Person=2|VerbForm=Fin|VerbType=Cop</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>Vcc-2s</td><td>=&gt;</td><td>VERB</td><td>Mood=Cnd|Number=Sing|Person=2|VerbForm=Fin|VerbType=Cop</td><td><em></em></td></tr>
   <tr><td>Vcc-3</td><td>=&gt;</td><td>VERB</td><td>Mood=Cnd|Person=3|VerbForm=Fin|VerbType=Cop</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Vcif1p-an</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Negative=Pos|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin|VerbType=Cop|Voice=Act</td><td><em></em></td></tr>
-  <tr><td>Vcif1p-ay</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Negative=Neg|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin|VerbType=Cop|Voice=Act</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Vcif1s-an</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Negative=Pos|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin|VerbType=Cop|Voice=Act</td><td><em></em></td></tr>
-  <tr><td>Vcif1s-ay</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Negative=Neg|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin|VerbType=Cop|Voice=Act</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Vcif2p-an</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Negative=Pos|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin|VerbType=Cop|Voice=Act</td><td><em></em></td></tr>
-  <tr><td>Vcif2p-ay</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Negative=Neg|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin|VerbType=Cop|Voice=Act</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Vcif2s-an</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Negative=Pos|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin|VerbType=Cop|Voice=Act</td><td><em></em></td></tr>
-  <tr><td>Vcif2s-ay</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Negative=Neg|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin|VerbType=Cop|Voice=Act</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Vcif3p-an</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Negative=Pos|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|VerbType=Cop|Voice=Act</td><td><em></em></td></tr>
-  <tr><td>Vcif3p-ay</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Negative=Neg|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|VerbType=Cop|Voice=Act</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Vcif3s-an</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Negative=Pos|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|VerbType=Cop|Voice=Act</td><td><em></em></td></tr>
-  <tr><td>Vcif3s-ay</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Negative=Neg|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|VerbType=Cop|Voice=Act</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Vcip1p-an</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Negative=Pos|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|VerbType=Cop|Voice=Act</td><td><em></em></td></tr>
-  <tr><td>Vcip1p-ay</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Negative=Neg|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|VerbType=Cop|Voice=Act</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Vcip1s-an</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Negative=Pos|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|VerbType=Cop|Voice=Act</td><td><em></em></td></tr>
-  <tr><td>Vcip1s-ay</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Negative=Neg|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|VerbType=Cop|Voice=Act</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Vcip2p-an</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Negative=Pos|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|VerbType=Cop|Voice=Act</td><td><em></em></td></tr>
-  <tr><td>Vcip2p-ay</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Negative=Neg|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|VerbType=Cop|Voice=Act</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Vcip2s-an</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Negative=Pos|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|VerbType=Cop|Voice=Act</td><td><em></em></td></tr>
-  <tr><td>Vcip2s-ay</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Negative=Neg|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|VerbType=Cop|Voice=Act</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Vcip3p-an</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Negative=Pos|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|VerbType=Cop|Voice=Act</td><td><em></em></td></tr>
-  <tr><td>Vcip3p-ay</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Negative=Neg|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|VerbType=Cop|Voice=Act</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Vcip3s-an</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Negative=Pos|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|VerbType=Cop|Voice=Act</td><td><em></em></td></tr>
-  <tr><td>Vcip3s-ay</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Negative=Neg|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|VerbType=Cop|Voice=Act</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Vcmp1p-ay</td><td>=&gt;</td><td>VERB</td><td>Mood=Imp|Negative=Neg|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|VerbType=Cop|Voice=Act</td><td><em></em></td></tr>
-  <tr><td>Vcmp2s-an</td><td>=&gt;</td><td>VERB</td><td>Mood=Imp|Negative=Pos|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|VerbType=Cop|Voice=Act</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Vcmp2s-ay</td><td>=&gt;</td><td>VERB</td><td>Mood=Imp|Negative=Neg|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|VerbType=Cop|Voice=Act</td><td><em></em></td></tr>
-  <tr><td>Vcn----an----n</td><td>=&gt;</td><td>VERB</td><td>Negative=Pos|VerbForm=Inf|VerbType=Cop|Voice=Act</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Vcn----ay----n</td><td>=&gt;</td><td>VERB</td><td>Negative=Neg|VerbForm=Inf|VerbType=Cop|Voice=Act</td><td><em></em></td></tr>
-  <tr><td>Vcps-pfan----n</td><td>=&gt;</td><td>VERB</td><td>Gender=Fem|Negative=Pos|Number=Plur|Tense=Past|VerbForm=Part|VerbType=Cop|Voice=Act</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Vcps-pfay----n</td><td>=&gt;</td><td>VERB</td><td>Gender=Fem|Negative=Neg|Number=Plur|Tense=Past|VerbForm=Part|VerbType=Cop|Voice=Act</td><td><em></em></td></tr>
-  <tr><td>Vcps-pman---nn</td><td>=&gt;</td><td>VERB</td><td>Animacy=Inan|Gender=Masc|Negative=Pos|Number=Plur|Tense=Past|VerbForm=Part|VerbType=Cop|Voice=Act</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Vcps-pman---yn</td><td>=&gt;</td><td>VERB</td><td>Animacy=Anim|Gender=Masc|Negative=Pos|Number=Plur|Tense=Past|VerbForm=Part|VerbType=Cop|Voice=Act</td><td><em></em></td></tr>
-  <tr><td>Vcps-pmay---nn</td><td>=&gt;</td><td>VERB</td><td>Animacy=Inan|Gender=Masc|Negative=Neg|Number=Plur|Tense=Past|VerbForm=Part|VerbType=Cop|Voice=Act</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Vcps-pmay---yn</td><td>=&gt;</td><td>VERB</td><td>Animacy=Anim|Gender=Masc|Negative=Neg|Number=Plur|Tense=Past|VerbForm=Part|VerbType=Cop|Voice=Act</td><td><em></em></td></tr>
-  <tr><td>Vcps-pnan----n</td><td>=&gt;</td><td>VERB</td><td>Gender=Neut|Negative=Pos|Number=Plur|Tense=Past|VerbForm=Part|VerbType=Cop|Voice=Act</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Vcps-pnay----n</td><td>=&gt;</td><td>VERB</td><td>Gender=Neut|Negative=Neg|Number=Plur|Tense=Past|VerbForm=Part|VerbType=Cop|Voice=Act</td><td><em></em></td></tr>
-  <tr><td>Vcps-sfan----n</td><td>=&gt;</td><td>VERB</td><td>Gender=Fem|Negative=Pos|Number=Sing|Tense=Past|VerbForm=Part|VerbType=Cop|Voice=Act</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Vcps-sfay----n</td><td>=&gt;</td><td>VERB</td><td>Gender=Fem|Negative=Neg|Number=Sing|Tense=Past|VerbForm=Part|VerbType=Cop|Voice=Act</td><td><em></em></td></tr>
-  <tr><td>Vcps-sman----n</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Negative=Pos|Number=Sing|Tense=Past|VerbForm=Part|VerbType=Cop|Voice=Act</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Vcps-smay----n</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Negative=Neg|Number=Sing|Tense=Past|VerbForm=Part|VerbType=Cop|Voice=Act</td><td><em></em></td></tr>
-  <tr><td>Vcps-snan----n</td><td>=&gt;</td><td>VERB</td><td>Gender=Neut|Negative=Pos|Number=Sing|Tense=Past|VerbForm=Part|VerbType=Cop|Voice=Act</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Vcps-snay----n</td><td>=&gt;</td><td>VERB</td><td>Gender=Neut|Negative=Neg|Number=Sing|Tense=Past|VerbForm=Part|VerbType=Cop|Voice=Act</td><td><em></em></td></tr>
-  <tr><td>Vmif1p-an</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Negative=Pos|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Vmif2p-an</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Negative=Pos|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin|Voice=Act</td><td><em></em></td></tr>
-  <tr><td>Vmif2s-an</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Negative=Pos|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin|Voice=Act</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Vmif3p-an</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Negative=Pos|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act</td><td><em></em></td></tr>
-  <tr><td>Vmif3s-an</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Negative=Pos|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Vmif3s-ay</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Negative=Neg|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act</td><td><em></em></td></tr>
-  <tr><td>Vmip1p-an</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Negative=Pos|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Vmip1p-ay</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Negative=Neg|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act</td><td><em></em></td></tr>
-  <tr><td>Vmip1s-an</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Negative=Pos|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Vmip1s-ay</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Negative=Neg|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act</td><td><em></em></td></tr>
-  <tr><td>Vmip2p-an</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Negative=Pos|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Vmip2p-ay</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Negative=Neg|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act</td><td><em></em></td></tr>
-  <tr><td>Vmip2s-an</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Negative=Pos|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Vmip2s-ay</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Negative=Neg|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act</td><td><em></em></td></tr>
-  <tr><td>Vmip3p-an</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Negative=Pos|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Vmip3p-ay</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Negative=Neg|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act</td><td><em></em></td></tr>
-  <tr><td>Vmip3s-an</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Negative=Pos|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Vmip3s-ay</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Negative=Neg|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act</td><td><em></em></td></tr>
-  <tr><td>Vmmp1p-an</td><td>=&gt;</td><td>VERB</td><td>Mood=Imp|Negative=Pos|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Vmmp1p-ay</td><td>=&gt;</td><td>VERB</td><td>Mood=Imp|Negative=Neg|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act</td><td><em></em></td></tr>
-  <tr><td>Vmmp2p-an</td><td>=&gt;</td><td>VERB</td><td>Mood=Imp|Negative=Pos|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Vmmp2p-ay</td><td>=&gt;</td><td>VERB</td><td>Mood=Imp|Negative=Neg|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act</td><td><em></em></td></tr>
-  <tr><td>Vmmp2s-an</td><td>=&gt;</td><td>VERB</td><td>Mood=Imp|Negative=Pos|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Vmmp2s-ay</td><td>=&gt;</td><td>VERB</td><td>Mood=Imp|Negative=Neg|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act</td><td><em></em></td></tr>
-  <tr><td>Vmn----an----n</td><td>=&gt;</td><td>VERB</td><td>Negative=Pos|VerbForm=Inf|Voice=Act</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Vmn----ay----n</td><td>=&gt;</td><td>VERB</td><td>Negative=Neg|VerbForm=Inf|Voice=Act</td><td><em></em></td></tr>
-  <tr><td>Vmp--pfpn----n</td><td>=&gt;</td><td>VERB</td><td>Gender=Fem|Negative=Pos|Number=Plur|VerbForm=Part|Voice=Pass</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Vmp--pmpn---nn</td><td>=&gt;</td><td>VERB</td><td>Animacy=Inan|Gender=Masc|Negative=Pos|Number=Plur|VerbForm=Part|Voice=Pass</td><td><em></em></td></tr>
-  <tr><td>Vmp--pmpn---yn</td><td>=&gt;</td><td>VERB</td><td>Animacy=Anim|Gender=Masc|Negative=Pos|Number=Plur|VerbForm=Part|Voice=Pass</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Vmp--pmpy---yn</td><td>=&gt;</td><td>VERB</td><td>Animacy=Anim|Gender=Masc|Negative=Neg|Number=Plur|VerbForm=Part|Voice=Pass</td><td><em></em></td></tr>
-  <tr><td>Vmp--pnpn----n</td><td>=&gt;</td><td>VERB</td><td>Gender=Neut|Negative=Pos|Number=Plur|VerbForm=Part|Voice=Pass</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Vmp--pnpy----n</td><td>=&gt;</td><td>VERB</td><td>Gender=Neut|Negative=Neg|Number=Plur|VerbForm=Part|Voice=Pass</td><td><em></em></td></tr>
-  <tr><td>Vmp--sfpn----n</td><td>=&gt;</td><td>VERB</td><td>Gender=Fem|Negative=Pos|Number=Sing|VerbForm=Part|Voice=Pass</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Vmp--sfpy----n</td><td>=&gt;</td><td>VERB</td><td>Gender=Fem|Negative=Neg|Number=Sing|VerbForm=Part|Voice=Pass</td><td><em></em></td></tr>
-  <tr><td>Vmp--smpn----n</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Negative=Pos|Number=Sing|VerbForm=Part|Voice=Pass</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Vmp--smpy----n</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Negative=Neg|Number=Sing|VerbForm=Part|Voice=Pass</td><td><em></em></td></tr>
-  <tr><td>Vmp--snpn----n</td><td>=&gt;</td><td>VERB</td><td>Gender=Neut|Negative=Pos|Number=Sing|VerbForm=Part|Voice=Pass</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Vmp--snpy----n</td><td>=&gt;</td><td>VERB</td><td>Gender=Neut|Negative=Neg|Number=Sing|VerbForm=Part|Voice=Pass</td><td><em></em></td></tr>
-  <tr><td>Vmps-pfan----n</td><td>=&gt;</td><td>VERB</td><td>Gender=Fem|Negative=Pos|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Vmps-pfay----n</td><td>=&gt;</td><td>VERB</td><td>Gender=Fem|Negative=Neg|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
-  <tr><td>Vmps-pman---nn</td><td>=&gt;</td><td>VERB</td><td>Animacy=Inan|Gender=Masc|Negative=Pos|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Vmps-pman---yn</td><td>=&gt;</td><td>VERB</td><td>Animacy=Anim|Gender=Masc|Negative=Pos|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
-  <tr><td>Vmps-pmay---nn</td><td>=&gt;</td><td>VERB</td><td>Animacy=Inan|Gender=Masc|Negative=Neg|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Vmps-pmay---yn</td><td>=&gt;</td><td>VERB</td><td>Animacy=Anim|Gender=Masc|Negative=Neg|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
-  <tr><td>Vmps-pnan----n</td><td>=&gt;</td><td>VERB</td><td>Gender=Neut|Negative=Pos|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Vmps-pnay----n</td><td>=&gt;</td><td>VERB</td><td>Gender=Neut|Negative=Neg|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
-  <tr><td>Vmps-sfan----n</td><td>=&gt;</td><td>VERB</td><td>Gender=Fem|Negative=Pos|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Vmps-sfan----y</td><td>=&gt;</td><td>VERB</td><td>Gender=Fem|Negative=Pos|Number=Sing|Person=2|Tense=Past|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
-  <tr><td>Vmps-sfay----n</td><td>=&gt;</td><td>VERB</td><td>Gender=Fem|Negative=Neg|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Vmps-sman----n</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Negative=Pos|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
-  <tr><td>Vmps-sman----y</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Negative=Pos|Number=Sing|Person=2|Tense=Past|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Vmps-smay----n</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Negative=Neg|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
-  <tr><td>Vmps-snan----n</td><td>=&gt;</td><td>VERB</td><td>Gender=Neut|Negative=Pos|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Vmps-snay----n</td><td>=&gt;</td><td>VERB</td><td>Gender=Neut|Negative=Neg|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
-  <tr><td>Vmtp-p-an</td><td>=&gt;</td><td>VERB</td><td>Negative=Pos|Number=Plur|Tense=Pres|VerbForm=Trans|Voice=Act</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Vmtp-p-ay</td><td>=&gt;</td><td>VERB</td><td>Negative=Neg|Number=Plur|Tense=Pres|VerbForm=Trans|Voice=Act</td><td><em></em></td></tr>
-  <tr><td>Vmtp-sfan</td><td>=&gt;</td><td>VERB</td><td>Gender=Fem|Negative=Pos|Number=Sing|Tense=Pres|VerbForm=Trans|Voice=Act</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Vmtp-sfay</td><td>=&gt;</td><td>VERB</td><td>Gender=Fem|Negative=Neg|Number=Sing|Tense=Pres|VerbForm=Trans|Voice=Act</td><td><em></em></td></tr>
-  <tr><td>Vmtp-sman</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Negative=Pos|Number=Sing|Tense=Pres|VerbForm=Trans|Voice=Act</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Vmtp-smay</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Negative=Neg|Number=Sing|Tense=Pres|VerbForm=Trans|Voice=Act</td><td><em></em></td></tr>
-  <tr><td>Vmtp-snan</td><td>=&gt;</td><td>VERB</td><td>Gender=Neut|Negative=Pos|Number=Sing|Tense=Pres|VerbForm=Trans|Voice=Act</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Vmtp-snay</td><td>=&gt;</td><td>VERB</td><td>Gender=Neut|Negative=Neg|Number=Sing|Tense=Pres|VerbForm=Trans|Voice=Act</td><td><em></em></td></tr>
-  <tr><td>Vmts-p-an</td><td>=&gt;</td><td>VERB</td><td>Negative=Pos|Number=Plur|Tense=Past|VerbForm=Trans|Voice=Act</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Vmts-sfan</td><td>=&gt;</td><td>VERB</td><td>Gender=Fem|Negative=Pos|Number=Sing|Tense=Past|VerbForm=Trans|Voice=Act</td><td><em></em></td></tr>
-  <tr><td>Vmts-sman</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Negative=Pos|Number=Sing|Tense=Past|VerbForm=Trans|Voice=Act</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Vmts-snan</td><td>=&gt;</td><td>VERB</td><td>Gender=Neut|Negative=Pos|Number=Sing|Tense=Past|VerbForm=Trans|Voice=Act</td><td><em></em></td></tr>
-  <tr><td>Voip1p-an</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Negative=Pos|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|VerbType=Mod|Voice=Act</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Voip1p-ay</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Negative=Neg|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|VerbType=Mod|Voice=Act</td><td><em></em></td></tr>
-  <tr><td>Voip1s-an</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Negative=Pos|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|VerbType=Mod|Voice=Act</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Voip1s-ay</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Negative=Neg|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|VerbType=Mod|Voice=Act</td><td><em></em></td></tr>
-  <tr><td>Voip2p-an</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Negative=Pos|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|VerbType=Mod|Voice=Act</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Voip2p-ay</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Negative=Neg|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|VerbType=Mod|Voice=Act</td><td><em></em></td></tr>
-  <tr><td>Voip2s-an</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Negative=Pos|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|VerbType=Mod|Voice=Act</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Voip2s-ay</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Negative=Neg|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|VerbType=Mod|Voice=Act</td><td><em></em></td></tr>
-  <tr><td>Voip3p-an</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Negative=Pos|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|VerbType=Mod|Voice=Act</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Voip3p-ay</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Negative=Neg|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|VerbType=Mod|Voice=Act</td><td><em></em></td></tr>
-  <tr><td>Voip3s-an</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Negative=Pos|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|VerbType=Mod|Voice=Act</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Voip3s-ay</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Negative=Neg|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|VerbType=Mod|Voice=Act</td><td><em></em></td></tr>
-  <tr><td>Vomp1p-an</td><td>=&gt;</td><td>VERB</td><td>Mood=Imp|Negative=Pos|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|VerbType=Mod|Voice=Act</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Vomp2p-an</td><td>=&gt;</td><td>VERB</td><td>Mood=Imp|Negative=Pos|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|VerbType=Mod|Voice=Act</td><td><em></em></td></tr>
-  <tr><td>Vomp2s-an</td><td>=&gt;</td><td>VERB</td><td>Mood=Imp|Negative=Pos|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|VerbType=Mod|Voice=Act</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Von----an----n</td><td>=&gt;</td><td>VERB</td><td>Negative=Pos|VerbForm=Inf|VerbType=Mod|Voice=Act</td><td><em></em></td></tr>
-  <tr><td>Von----ay----n</td><td>=&gt;</td><td>VERB</td><td>Negative=Neg|VerbForm=Inf|VerbType=Mod|Voice=Act</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Vop--snpn----n</td><td>=&gt;</td><td>VERB</td><td>Gender=Neut|Negative=Pos|Number=Sing|VerbForm=Part|VerbType=Mod|Voice=Pass</td><td><em></em></td></tr>
-  <tr><td>Vops-pfan----n</td><td>=&gt;</td><td>VERB</td><td>Gender=Fem|Negative=Pos|Number=Plur|Tense=Past|VerbForm=Part|VerbType=Mod|Voice=Act</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Vops-pfay----n</td><td>=&gt;</td><td>VERB</td><td>Gender=Fem|Negative=Neg|Number=Plur|Tense=Past|VerbForm=Part|VerbType=Mod|Voice=Act</td><td><em></em></td></tr>
-  <tr><td>Vops-pman---nn</td><td>=&gt;</td><td>VERB</td><td>Animacy=Inan|Gender=Masc|Negative=Pos|Number=Plur|Tense=Past|VerbForm=Part|VerbType=Mod|Voice=Act</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Vops-pman---yn</td><td>=&gt;</td><td>VERB</td><td>Animacy=Anim|Gender=Masc|Negative=Pos|Number=Plur|Tense=Past|VerbForm=Part|VerbType=Mod|Voice=Act</td><td><em></em></td></tr>
-  <tr><td>Vops-pmay---nn</td><td>=&gt;</td><td>VERB</td><td>Animacy=Inan|Gender=Masc|Negative=Neg|Number=Plur|Tense=Past|VerbForm=Part|VerbType=Mod|Voice=Act</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Vops-pmay---yn</td><td>=&gt;</td><td>VERB</td><td>Animacy=Anim|Gender=Masc|Negative=Neg|Number=Plur|Tense=Past|VerbForm=Part|VerbType=Mod|Voice=Act</td><td><em></em></td></tr>
-  <tr><td>Vops-pnan----n</td><td>=&gt;</td><td>VERB</td><td>Gender=Neut|Negative=Pos|Number=Plur|Tense=Past|VerbForm=Part|VerbType=Mod|Voice=Act</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Vops-pnay----n</td><td>=&gt;</td><td>VERB</td><td>Gender=Neut|Negative=Neg|Number=Plur|Tense=Past|VerbForm=Part|VerbType=Mod|Voice=Act</td><td><em></em></td></tr>
-  <tr><td>Vops-sfan----n</td><td>=&gt;</td><td>VERB</td><td>Gender=Fem|Negative=Pos|Number=Sing|Tense=Past|VerbForm=Part|VerbType=Mod|Voice=Act</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Vops-sfay----n</td><td>=&gt;</td><td>VERB</td><td>Gender=Fem|Negative=Neg|Number=Sing|Tense=Past|VerbForm=Part|VerbType=Mod|Voice=Act</td><td><em></em></td></tr>
-  <tr><td>Vops-sman----n</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Negative=Pos|Number=Sing|Tense=Past|VerbForm=Part|VerbType=Mod|Voice=Act</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Vops-smay----n</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Negative=Neg|Number=Sing|Tense=Past|VerbForm=Part|VerbType=Mod|Voice=Act</td><td><em></em></td></tr>
-  <tr><td>Vops-snan----n</td><td>=&gt;</td><td>VERB</td><td>Gender=Neut|Negative=Pos|Number=Sing|Tense=Past|VerbForm=Part|VerbType=Mod|Voice=Act</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Vops-snay----n</td><td>=&gt;</td><td>VERB</td><td>Gender=Neut|Negative=Neg|Number=Sing|Tense=Past|VerbForm=Part|VerbType=Mod|Voice=Act</td><td><em></em></td></tr>
-  <tr><td>Vots-sman</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Negative=Pos|Number=Sing|Tense=Past|VerbForm=Trans|VerbType=Mod|Voice=Act</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Vcif1p-an</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Fut|VerbForm=Fin|VerbType=Cop|Voice=Act</td><td><em></em></td></tr>
+  <tr><td>Vcif1p-ay</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Number=Plur|Person=1|Polarity=Neg|Tense=Fut|VerbForm=Fin|VerbType=Cop|Voice=Act</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Vcif1s-an</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Fut|VerbForm=Fin|VerbType=Cop|Voice=Act</td><td><em></em></td></tr>
+  <tr><td>Vcif1s-ay</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Number=Sing|Person=1|Polarity=Neg|Tense=Fut|VerbForm=Fin|VerbType=Cop|Voice=Act</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Vcif2p-an</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Number=Plur|Person=2|Polarity=Pos|Tense=Fut|VerbForm=Fin|VerbType=Cop|Voice=Act</td><td><em></em></td></tr>
+  <tr><td>Vcif2p-ay</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Number=Plur|Person=2|Polarity=Neg|Tense=Fut|VerbForm=Fin|VerbType=Cop|Voice=Act</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Vcif2s-an</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Number=Sing|Person=2|Polarity=Pos|Tense=Fut|VerbForm=Fin|VerbType=Cop|Voice=Act</td><td><em></em></td></tr>
+  <tr><td>Vcif2s-ay</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Number=Sing|Person=2|Polarity=Neg|Tense=Fut|VerbForm=Fin|VerbType=Cop|Voice=Act</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Vcif3p-an</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Fut|VerbForm=Fin|VerbType=Cop|Voice=Act</td><td><em></em></td></tr>
+  <tr><td>Vcif3p-ay</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Number=Plur|Person=3|Polarity=Neg|Tense=Fut|VerbForm=Fin|VerbType=Cop|Voice=Act</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Vcif3s-an</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Fut|VerbForm=Fin|VerbType=Cop|Voice=Act</td><td><em></em></td></tr>
+  <tr><td>Vcif3s-ay</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Fut|VerbForm=Fin|VerbType=Cop|Voice=Act</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Vcip1p-an</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|VerbType=Cop|Voice=Act</td><td><em></em></td></tr>
+  <tr><td>Vcip1p-ay</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Number=Plur|Person=1|Polarity=Neg|Tense=Pres|VerbForm=Fin|VerbType=Cop|Voice=Act</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Vcip1s-an</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|VerbType=Cop|Voice=Act</td><td><em></em></td></tr>
+  <tr><td>Vcip1s-ay</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Number=Sing|Person=1|Polarity=Neg|Tense=Pres|VerbForm=Fin|VerbType=Cop|Voice=Act</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Vcip2p-an</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Number=Plur|Person=2|Polarity=Pos|Tense=Pres|VerbForm=Fin|VerbType=Cop|Voice=Act</td><td><em></em></td></tr>
+  <tr><td>Vcip2p-ay</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Number=Plur|Person=2|Polarity=Neg|Tense=Pres|VerbForm=Fin|VerbType=Cop|Voice=Act</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Vcip2s-an</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Number=Sing|Person=2|Polarity=Pos|Tense=Pres|VerbForm=Fin|VerbType=Cop|Voice=Act</td><td><em></em></td></tr>
+  <tr><td>Vcip2s-ay</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Number=Sing|Person=2|Polarity=Neg|Tense=Pres|VerbForm=Fin|VerbType=Cop|Voice=Act</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Vcip3p-an</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|VerbType=Cop|Voice=Act</td><td><em></em></td></tr>
+  <tr><td>Vcip3p-ay</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Number=Plur|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin|VerbType=Cop|Voice=Act</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Vcip3s-an</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|VerbType=Cop|Voice=Act</td><td><em></em></td></tr>
+  <tr><td>Vcip3s-ay</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin|VerbType=Cop|Voice=Act</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Vcmp1p-ay</td><td>=&gt;</td><td>VERB</td><td>Mood=Imp|Number=Plur|Person=1|Polarity=Neg|Tense=Pres|VerbForm=Fin|VerbType=Cop|Voice=Act</td><td><em></em></td></tr>
+  <tr><td>Vcmp2s-an</td><td>=&gt;</td><td>VERB</td><td>Mood=Imp|Number=Sing|Person=2|Polarity=Pos|Tense=Pres|VerbForm=Fin|VerbType=Cop|Voice=Act</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Vcmp2s-ay</td><td>=&gt;</td><td>VERB</td><td>Mood=Imp|Number=Sing|Person=2|Polarity=Neg|Tense=Pres|VerbForm=Fin|VerbType=Cop|Voice=Act</td><td><em></em></td></tr>
+  <tr><td>Vcn----an----n</td><td>=&gt;</td><td>VERB</td><td>Polarity=Pos|VerbForm=Inf|VerbType=Cop|Voice=Act</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Vcn----ay----n</td><td>=&gt;</td><td>VERB</td><td>Polarity=Neg|VerbForm=Inf|VerbType=Cop|Voice=Act</td><td><em></em></td></tr>
+  <tr><td>Vcps-pfan----n</td><td>=&gt;</td><td>VERB</td><td>Gender=Fem|Number=Plur|Polarity=Pos|Tense=Past|VerbForm=Part|VerbType=Cop|Voice=Act</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Vcps-pfay----n</td><td>=&gt;</td><td>VERB</td><td>Gender=Fem|Number=Plur|Polarity=Neg|Tense=Past|VerbForm=Part|VerbType=Cop|Voice=Act</td><td><em></em></td></tr>
+  <tr><td>Vcps-pman---nn</td><td>=&gt;</td><td>VERB</td><td>Animacy=Inan|Gender=Masc|Number=Plur|Polarity=Pos|Tense=Past|VerbForm=Part|VerbType=Cop|Voice=Act</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Vcps-pman---yn</td><td>=&gt;</td><td>VERB</td><td>Animacy=Anim|Gender=Masc|Number=Plur|Polarity=Pos|Tense=Past|VerbForm=Part|VerbType=Cop|Voice=Act</td><td><em></em></td></tr>
+  <tr><td>Vcps-pmay---nn</td><td>=&gt;</td><td>VERB</td><td>Animacy=Inan|Gender=Masc|Number=Plur|Polarity=Neg|Tense=Past|VerbForm=Part|VerbType=Cop|Voice=Act</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Vcps-pmay---yn</td><td>=&gt;</td><td>VERB</td><td>Animacy=Anim|Gender=Masc|Number=Plur|Polarity=Neg|Tense=Past|VerbForm=Part|VerbType=Cop|Voice=Act</td><td><em></em></td></tr>
+  <tr><td>Vcps-pnan----n</td><td>=&gt;</td><td>VERB</td><td>Gender=Neut|Number=Plur|Polarity=Pos|Tense=Past|VerbForm=Part|VerbType=Cop|Voice=Act</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Vcps-pnay----n</td><td>=&gt;</td><td>VERB</td><td>Gender=Neut|Number=Plur|Polarity=Neg|Tense=Past|VerbForm=Part|VerbType=Cop|Voice=Act</td><td><em></em></td></tr>
+  <tr><td>Vcps-sfan----n</td><td>=&gt;</td><td>VERB</td><td>Gender=Fem|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|VerbType=Cop|Voice=Act</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Vcps-sfay----n</td><td>=&gt;</td><td>VERB</td><td>Gender=Fem|Number=Sing|Polarity=Neg|Tense=Past|VerbForm=Part|VerbType=Cop|Voice=Act</td><td><em></em></td></tr>
+  <tr><td>Vcps-sman----n</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|VerbType=Cop|Voice=Act</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Vcps-smay----n</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Number=Sing|Polarity=Neg|Tense=Past|VerbForm=Part|VerbType=Cop|Voice=Act</td><td><em></em></td></tr>
+  <tr><td>Vcps-snan----n</td><td>=&gt;</td><td>VERB</td><td>Gender=Neut|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|VerbType=Cop|Voice=Act</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Vcps-snay----n</td><td>=&gt;</td><td>VERB</td><td>Gender=Neut|Number=Sing|Polarity=Neg|Tense=Past|VerbForm=Part|VerbType=Cop|Voice=Act</td><td><em></em></td></tr>
+  <tr><td>Vmif1p-an</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Fut|VerbForm=Fin|Voice=Act</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Vmif2p-an</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Number=Plur|Person=2|Polarity=Pos|Tense=Fut|VerbForm=Fin|Voice=Act</td><td><em></em></td></tr>
+  <tr><td>Vmif2s-an</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Number=Sing|Person=2|Polarity=Pos|Tense=Fut|VerbForm=Fin|Voice=Act</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Vmif3p-an</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Fut|VerbForm=Fin|Voice=Act</td><td><em></em></td></tr>
+  <tr><td>Vmif3s-an</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Fut|VerbForm=Fin|Voice=Act</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Vmif3s-ay</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Fut|VerbForm=Fin|Voice=Act</td><td><em></em></td></tr>
+  <tr><td>Vmip1p-an</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Vmip1p-ay</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Number=Plur|Person=1|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act</td><td><em></em></td></tr>
+  <tr><td>Vmip1s-an</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Vmip1s-ay</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Number=Sing|Person=1|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act</td><td><em></em></td></tr>
+  <tr><td>Vmip2p-an</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Number=Plur|Person=2|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Vmip2p-ay</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Number=Plur|Person=2|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act</td><td><em></em></td></tr>
+  <tr><td>Vmip2s-an</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Number=Sing|Person=2|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Vmip2s-ay</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Number=Sing|Person=2|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act</td><td><em></em></td></tr>
+  <tr><td>Vmip3p-an</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Vmip3p-ay</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Number=Plur|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act</td><td><em></em></td></tr>
+  <tr><td>Vmip3s-an</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Vmip3s-ay</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act</td><td><em></em></td></tr>
+  <tr><td>Vmmp1p-an</td><td>=&gt;</td><td>VERB</td><td>Mood=Imp|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Vmmp1p-ay</td><td>=&gt;</td><td>VERB</td><td>Mood=Imp|Number=Plur|Person=1|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act</td><td><em></em></td></tr>
+  <tr><td>Vmmp2p-an</td><td>=&gt;</td><td>VERB</td><td>Mood=Imp|Number=Plur|Person=2|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Vmmp2p-ay</td><td>=&gt;</td><td>VERB</td><td>Mood=Imp|Number=Plur|Person=2|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act</td><td><em></em></td></tr>
+  <tr><td>Vmmp2s-an</td><td>=&gt;</td><td>VERB</td><td>Mood=Imp|Number=Sing|Person=2|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Vmmp2s-ay</td><td>=&gt;</td><td>VERB</td><td>Mood=Imp|Number=Sing|Person=2|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act</td><td><em></em></td></tr>
+  <tr><td>Vmn----an----n</td><td>=&gt;</td><td>VERB</td><td>Polarity=Pos|VerbForm=Inf|Voice=Act</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Vmn----ay----n</td><td>=&gt;</td><td>VERB</td><td>Polarity=Neg|VerbForm=Inf|Voice=Act</td><td><em></em></td></tr>
+  <tr><td>Vmp--pfpn----n</td><td>=&gt;</td><td>VERB</td><td>Gender=Fem|Number=Plur|Polarity=Pos|VerbForm=Part|Voice=Pass</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Vmp--pmpn---nn</td><td>=&gt;</td><td>VERB</td><td>Animacy=Inan|Gender=Masc|Number=Plur|Polarity=Pos|VerbForm=Part|Voice=Pass</td><td><em></em></td></tr>
+  <tr><td>Vmp--pmpn---yn</td><td>=&gt;</td><td>VERB</td><td>Animacy=Anim|Gender=Masc|Number=Plur|Polarity=Pos|VerbForm=Part|Voice=Pass</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Vmp--pmpy---yn</td><td>=&gt;</td><td>VERB</td><td>Animacy=Anim|Gender=Masc|Number=Plur|Polarity=Neg|VerbForm=Part|Voice=Pass</td><td><em></em></td></tr>
+  <tr><td>Vmp--pnpn----n</td><td>=&gt;</td><td>VERB</td><td>Gender=Neut|Number=Plur|Polarity=Pos|VerbForm=Part|Voice=Pass</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Vmp--pnpy----n</td><td>=&gt;</td><td>VERB</td><td>Gender=Neut|Number=Plur|Polarity=Neg|VerbForm=Part|Voice=Pass</td><td><em></em></td></tr>
+  <tr><td>Vmp--sfpn----n</td><td>=&gt;</td><td>VERB</td><td>Gender=Fem|Number=Sing|Polarity=Pos|VerbForm=Part|Voice=Pass</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Vmp--sfpy----n</td><td>=&gt;</td><td>VERB</td><td>Gender=Fem|Number=Sing|Polarity=Neg|VerbForm=Part|Voice=Pass</td><td><em></em></td></tr>
+  <tr><td>Vmp--smpn----n</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Number=Sing|Polarity=Pos|VerbForm=Part|Voice=Pass</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Vmp--smpy----n</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Number=Sing|Polarity=Neg|VerbForm=Part|Voice=Pass</td><td><em></em></td></tr>
+  <tr><td>Vmp--snpn----n</td><td>=&gt;</td><td>VERB</td><td>Gender=Neut|Number=Sing|Polarity=Pos|VerbForm=Part|Voice=Pass</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Vmp--snpy----n</td><td>=&gt;</td><td>VERB</td><td>Gender=Neut|Number=Sing|Polarity=Neg|VerbForm=Part|Voice=Pass</td><td><em></em></td></tr>
+  <tr><td>Vmps-pfan----n</td><td>=&gt;</td><td>VERB</td><td>Gender=Fem|Number=Plur|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Vmps-pfay----n</td><td>=&gt;</td><td>VERB</td><td>Gender=Fem|Number=Plur|Polarity=Neg|Tense=Past|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
+  <tr><td>Vmps-pman---nn</td><td>=&gt;</td><td>VERB</td><td>Animacy=Inan|Gender=Masc|Number=Plur|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Vmps-pman---yn</td><td>=&gt;</td><td>VERB</td><td>Animacy=Anim|Gender=Masc|Number=Plur|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
+  <tr><td>Vmps-pmay---nn</td><td>=&gt;</td><td>VERB</td><td>Animacy=Inan|Gender=Masc|Number=Plur|Polarity=Neg|Tense=Past|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Vmps-pmay---yn</td><td>=&gt;</td><td>VERB</td><td>Animacy=Anim|Gender=Masc|Number=Plur|Polarity=Neg|Tense=Past|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
+  <tr><td>Vmps-pnan----n</td><td>=&gt;</td><td>VERB</td><td>Gender=Neut|Number=Plur|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Vmps-pnay----n</td><td>=&gt;</td><td>VERB</td><td>Gender=Neut|Number=Plur|Polarity=Neg|Tense=Past|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
+  <tr><td>Vmps-sfan----n</td><td>=&gt;</td><td>VERB</td><td>Gender=Fem|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Vmps-sfan----y</td><td>=&gt;</td><td>VERB</td><td>Gender=Fem|Number=Sing|Person=2|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
+  <tr><td>Vmps-sfay----n</td><td>=&gt;</td><td>VERB</td><td>Gender=Fem|Number=Sing|Polarity=Neg|Tense=Past|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Vmps-sman----n</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
+  <tr><td>Vmps-sman----y</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Number=Sing|Person=2|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Vmps-smay----n</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Number=Sing|Polarity=Neg|Tense=Past|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
+  <tr><td>Vmps-snan----n</td><td>=&gt;</td><td>VERB</td><td>Gender=Neut|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Vmps-snay----n</td><td>=&gt;</td><td>VERB</td><td>Gender=Neut|Number=Sing|Polarity=Neg|Tense=Past|VerbForm=Part|Voice=Act</td><td><em></em></td></tr>
+  <tr><td>Vmtp-p-an</td><td>=&gt;</td><td>VERB</td><td>Number=Plur|Polarity=Pos|Tense=Pres|VerbForm=Conv|Voice=Act</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Vmtp-p-ay</td><td>=&gt;</td><td>VERB</td><td>Number=Plur|Polarity=Neg|Tense=Pres|VerbForm=Conv|Voice=Act</td><td><em></em></td></tr>
+  <tr><td>Vmtp-sfan</td><td>=&gt;</td><td>VERB</td><td>Gender=Fem|Number=Sing|Polarity=Pos|Tense=Pres|VerbForm=Conv|Voice=Act</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Vmtp-sfay</td><td>=&gt;</td><td>VERB</td><td>Gender=Fem|Number=Sing|Polarity=Neg|Tense=Pres|VerbForm=Conv|Voice=Act</td><td><em></em></td></tr>
+  <tr><td>Vmtp-sman</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Number=Sing|Polarity=Pos|Tense=Pres|VerbForm=Conv|Voice=Act</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Vmtp-smay</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Number=Sing|Polarity=Neg|Tense=Pres|VerbForm=Conv|Voice=Act</td><td><em></em></td></tr>
+  <tr><td>Vmtp-snan</td><td>=&gt;</td><td>VERB</td><td>Gender=Neut|Number=Sing|Polarity=Pos|Tense=Pres|VerbForm=Conv|Voice=Act</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Vmtp-snay</td><td>=&gt;</td><td>VERB</td><td>Gender=Neut|Number=Sing|Polarity=Neg|Tense=Pres|VerbForm=Conv|Voice=Act</td><td><em></em></td></tr>
+  <tr><td>Vmts-p-an</td><td>=&gt;</td><td>VERB</td><td>Number=Plur|Polarity=Pos|Tense=Past|VerbForm=Conv|Voice=Act</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Vmts-sfan</td><td>=&gt;</td><td>VERB</td><td>Gender=Fem|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Conv|Voice=Act</td><td><em></em></td></tr>
+  <tr><td>Vmts-sman</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Conv|Voice=Act</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Vmts-snan</td><td>=&gt;</td><td>VERB</td><td>Gender=Neut|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Conv|Voice=Act</td><td><em></em></td></tr>
+  <tr><td>Voip1p-an</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|VerbType=Mod|Voice=Act</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Voip1p-ay</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Number=Plur|Person=1|Polarity=Neg|Tense=Pres|VerbForm=Fin|VerbType=Mod|Voice=Act</td><td><em></em></td></tr>
+  <tr><td>Voip1s-an</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|VerbType=Mod|Voice=Act</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Voip1s-ay</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Number=Sing|Person=1|Polarity=Neg|Tense=Pres|VerbForm=Fin|VerbType=Mod|Voice=Act</td><td><em></em></td></tr>
+  <tr><td>Voip2p-an</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Number=Plur|Person=2|Polarity=Pos|Tense=Pres|VerbForm=Fin|VerbType=Mod|Voice=Act</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Voip2p-ay</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Number=Plur|Person=2|Polarity=Neg|Tense=Pres|VerbForm=Fin|VerbType=Mod|Voice=Act</td><td><em></em></td></tr>
+  <tr><td>Voip2s-an</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Number=Sing|Person=2|Polarity=Pos|Tense=Pres|VerbForm=Fin|VerbType=Mod|Voice=Act</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Voip2s-ay</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Number=Sing|Person=2|Polarity=Neg|Tense=Pres|VerbForm=Fin|VerbType=Mod|Voice=Act</td><td><em></em></td></tr>
+  <tr><td>Voip3p-an</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|VerbType=Mod|Voice=Act</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Voip3p-ay</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Number=Plur|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin|VerbType=Mod|Voice=Act</td><td><em></em></td></tr>
+  <tr><td>Voip3s-an</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|VerbType=Mod|Voice=Act</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Voip3s-ay</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin|VerbType=Mod|Voice=Act</td><td><em></em></td></tr>
+  <tr><td>Vomp1p-an</td><td>=&gt;</td><td>VERB</td><td>Mood=Imp|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|VerbType=Mod|Voice=Act</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Vomp2p-an</td><td>=&gt;</td><td>VERB</td><td>Mood=Imp|Number=Plur|Person=2|Polarity=Pos|Tense=Pres|VerbForm=Fin|VerbType=Mod|Voice=Act</td><td><em></em></td></tr>
+  <tr><td>Vomp2s-an</td><td>=&gt;</td><td>VERB</td><td>Mood=Imp|Number=Sing|Person=2|Polarity=Pos|Tense=Pres|VerbForm=Fin|VerbType=Mod|Voice=Act</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Von----an----n</td><td>=&gt;</td><td>VERB</td><td>Polarity=Pos|VerbForm=Inf|VerbType=Mod|Voice=Act</td><td><em></em></td></tr>
+  <tr><td>Von----ay----n</td><td>=&gt;</td><td>VERB</td><td>Polarity=Neg|VerbForm=Inf|VerbType=Mod|Voice=Act</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Vop--snpn----n</td><td>=&gt;</td><td>VERB</td><td>Gender=Neut|Number=Sing|Polarity=Pos|VerbForm=Part|VerbType=Mod|Voice=Pass</td><td><em></em></td></tr>
+  <tr><td>Vops-pfan----n</td><td>=&gt;</td><td>VERB</td><td>Gender=Fem|Number=Plur|Polarity=Pos|Tense=Past|VerbForm=Part|VerbType=Mod|Voice=Act</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Vops-pfay----n</td><td>=&gt;</td><td>VERB</td><td>Gender=Fem|Number=Plur|Polarity=Neg|Tense=Past|VerbForm=Part|VerbType=Mod|Voice=Act</td><td><em></em></td></tr>
+  <tr><td>Vops-pman---nn</td><td>=&gt;</td><td>VERB</td><td>Animacy=Inan|Gender=Masc|Number=Plur|Polarity=Pos|Tense=Past|VerbForm=Part|VerbType=Mod|Voice=Act</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Vops-pman---yn</td><td>=&gt;</td><td>VERB</td><td>Animacy=Anim|Gender=Masc|Number=Plur|Polarity=Pos|Tense=Past|VerbForm=Part|VerbType=Mod|Voice=Act</td><td><em></em></td></tr>
+  <tr><td>Vops-pmay---nn</td><td>=&gt;</td><td>VERB</td><td>Animacy=Inan|Gender=Masc|Number=Plur|Polarity=Neg|Tense=Past|VerbForm=Part|VerbType=Mod|Voice=Act</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Vops-pmay---yn</td><td>=&gt;</td><td>VERB</td><td>Animacy=Anim|Gender=Masc|Number=Plur|Polarity=Neg|Tense=Past|VerbForm=Part|VerbType=Mod|Voice=Act</td><td><em></em></td></tr>
+  <tr><td>Vops-pnan----n</td><td>=&gt;</td><td>VERB</td><td>Gender=Neut|Number=Plur|Polarity=Pos|Tense=Past|VerbForm=Part|VerbType=Mod|Voice=Act</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Vops-pnay----n</td><td>=&gt;</td><td>VERB</td><td>Gender=Neut|Number=Plur|Polarity=Neg|Tense=Past|VerbForm=Part|VerbType=Mod|Voice=Act</td><td><em></em></td></tr>
+  <tr><td>Vops-sfan----n</td><td>=&gt;</td><td>VERB</td><td>Gender=Fem|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|VerbType=Mod|Voice=Act</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Vops-sfay----n</td><td>=&gt;</td><td>VERB</td><td>Gender=Fem|Number=Sing|Polarity=Neg|Tense=Past|VerbForm=Part|VerbType=Mod|Voice=Act</td><td><em></em></td></tr>
+  <tr><td>Vops-sman----n</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|VerbType=Mod|Voice=Act</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Vops-smay----n</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Number=Sing|Polarity=Neg|Tense=Past|VerbForm=Part|VerbType=Mod|Voice=Act</td><td><em></em></td></tr>
+  <tr><td>Vops-snan----n</td><td>=&gt;</td><td>VERB</td><td>Gender=Neut|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|VerbType=Mod|Voice=Act</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Vops-snay----n</td><td>=&gt;</td><td>VERB</td><td>Gender=Neut|Number=Sing|Polarity=Neg|Tense=Past|VerbForm=Part|VerbType=Mod|Voice=Act</td><td><em></em></td></tr>
+  <tr><td>Vots-sman</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Conv|VerbType=Mod|Voice=Act</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>X</td><td>=&gt;</td><td>X</td><td>_</td><td><em></em></td></tr>
   <tr><td>Y</td><td>=&gt;</td><td>X</td><td>Abbr=Yes</td><td><em></em></td></tr>
 </table>
