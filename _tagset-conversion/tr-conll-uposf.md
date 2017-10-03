@@ -1,6 +1,7 @@
 ---
 layout: base
 title: 'Tagset tr::conll conversion to universal POS tags and features'
+udver: '2'
 ---
 
 <a href="index.html">all tables</a>
@@ -40,18 +41,18 @@ Tagset <tt>tr::conll</tt>, total 1112 tags.
   <tr><td>Adj Adj Without</td><td>=&gt;</td><td>ADJ</td><td>_</td><td><em>_, sessiz, savunmasız, anlamsız, gereksiz</em></td></tr>
   <tr style="background:lightgray"><td>Adj Adj _</td><td>=&gt;</td><td>ADJ</td><td>_</td><td><em>_, büyük, yeni, iyi, aynı</em></td></tr>
   <tr><td>Adj Zero _</td><td>=&gt;</td><td>ADJ</td><td>_</td><td><em>_, gelmiş, inanılmaz, kalmış, yerleştirilmiş</em></td></tr>
-  <tr style="background:lightgray"><td>Adv Adv AfterDoingSo</td><td>=&gt;</td><td>ADV</td><td>VerbForm=Trans</td><td><em>gidip, gelip, deyip, kesip, çıkıp</em></td></tr>
-  <tr><td>Adv Adv As</td><td>=&gt;</td><td>ADV</td><td>VerbForm=Trans</td><td><em>istemedikçe, ispat_edilmedikçe, arttıkça, konuştukça, sevdikçe</em></td></tr>
+  <tr style="background:lightgray"><td>Adv Adv AfterDoingSo</td><td>=&gt;</td><td>ADV</td><td>VerbForm=Conv</td><td><em>gidip, gelip, deyip, kesip, çıkıp</em></td></tr>
+  <tr><td>Adv Adv As</td><td>=&gt;</td><td>ADV</td><td>VerbForm=Conv</td><td><em>istemedikçe, ispat_edilmedikçe, arttıkça, konuştukça, sevdikçe</em></td></tr>
   <tr style="background:lightgray"><td>Adv Adv AsIf</td><td>=&gt;</td><td>ADV</td><td>_</td><td><em>güneşiymişçesine, okumuşçasına, etmişçesine, taparcasına, ağız_birliği_etmişçesine</em></td></tr>
-  <tr><td>Adv Adv ByDoingSo</td><td>=&gt;</td><td>ADV</td><td>VerbForm=Trans</td><td><em>olarak, diyerek, belirterek, koşarak, çekerek</em></td></tr>
+  <tr><td>Adv Adv ByDoingSo</td><td>=&gt;</td><td>ADV</td><td>VerbForm=Conv</td><td><em>olarak, diyerek, belirterek, koşarak, çekerek</em></td></tr>
   <tr style="background:lightgray"><td>Adv Adv Ly</td><td>=&gt;</td><td>ADV</td><td>_</td><td><em>hafifçe, rahatça, iyice, öylece, aptalca</em></td></tr>
   <tr><td>Adv Adv Since</td><td>=&gt;</td><td>ADV</td><td>_</td><td><em>yıldır, yıllardır, saattir</em></td></tr>
-  <tr style="background:lightgray"><td>Adv Adv SinceDoingSo</td><td>=&gt;</td><td>ADV</td><td>VerbForm=Trans</td><td><em>olalı, geleli, dönüşeli, başlayalı, terk_edeli</em></td></tr>
-  <tr><td>Adv Adv When</td><td>=&gt;</td><td>ADV</td><td>VerbForm=Trans</td><td><em>görünce, deyince, olunca, açılınca, _</em></td></tr>
-  <tr style="background:lightgray"><td>Adv Adv While</td><td>=&gt;</td><td>ADV</td><td>VerbForm=Trans</td><td><em>giderken, konuşurken, derken, çıkarken, _</em></td></tr>
-  <tr><td>Adv Adv WithoutHavingDoneSo</td><td>=&gt;</td><td>ADV</td><td>VerbForm=Trans</td><td><em>olmadan, düşünmeden, geçirmeden, fırsat_bırakmadan, çıkarmadan</em></td></tr>
+  <tr style="background:lightgray"><td>Adv Adv SinceDoingSo</td><td>=&gt;</td><td>ADV</td><td>VerbForm=Conv</td><td><em>olalı, geleli, dönüşeli, başlayalı, terk_edeli</em></td></tr>
+  <tr><td>Adv Adv When</td><td>=&gt;</td><td>ADV</td><td>VerbForm=Conv</td><td><em>görünce, deyince, olunca, açılınca, _</em></td></tr>
+  <tr style="background:lightgray"><td>Adv Adv While</td><td>=&gt;</td><td>ADV</td><td>VerbForm=Conv</td><td><em>giderken, konuşurken, derken, çıkarken, _</em></td></tr>
+  <tr><td>Adv Adv WithoutHavingDoneSo</td><td>=&gt;</td><td>ADV</td><td>VerbForm=Conv</td><td><em>olmadan, düşünmeden, geçirmeden, fırsat_bırakmadan, çıkarmadan</em></td></tr>
   <tr style="background:lightgray"><td>Adv Adv _</td><td>=&gt;</td><td>ADV</td><td>_</td><td><em>senedir</em></td></tr>
-  <tr><td>Conj Conj _</td><td>=&gt;</td><td>CONJ</td><td>_</td><td><em>ve, de, da, ki, ile</em></td></tr>
+  <tr><td>Conj Conj _</td><td>=&gt;</td><td>CCONJ</td><td>_</td><td><em>ve, de, da, ki, ile</em></td></tr>
   <tr style="background:lightgray"><td>Det Det _</td><td>=&gt;</td><td>DET</td><td>_</td><td><em>bir, bu, o, her, tüm</em></td></tr>
   <tr><td>Dup Dup _</td><td>=&gt;</td><td>X</td><td>Echo=Rdp</td><td><em>yok</em></td></tr>
   <tr style="background:lightgray"><td>Interj Interj _</td><td>=&gt;</td><td>INTJ</td><td>_</td><td><em>ya, Aman, tabi, a, hadi</em></td></tr>
@@ -568,7 +569,7 @@ Tagset <tt>tr::conll</tt>, total 1112 tags.
   <tr><td>Pron ReflexP A3sg|P3sg|Ins</td><td>=&gt;</td><td>PRON</td><td>Case=Ins|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3|PronType=Prs|Reflex=Yes</td><td><em>kendisiyle, _</em></td></tr>
   <tr style="background:lightgray"><td>Pron ReflexP A3sg|P3sg|Nom</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3|PronType=Prs|Reflex=Yes</td><td><em>kendi, kendisi</em></td></tr>
   <tr><td>Punc Punc _</td><td>=&gt;</td><td>PUNCT</td><td>_</td><td><em>., ,, ", ..., ?</em></td></tr>
-  <tr style="background:lightgray"><td>Ques Ques Narr|A3sg</td><td>=&gt;</td><td>PART</td><td>Number=Sing|Person=3|PronType=Int|Tense=Nar</td><td><em>miymiş, mıymış</em></td></tr>
+  <tr style="background:lightgray"><td>Ques Ques Narr|A3sg</td><td>=&gt;</td><td>PART</td><td>Evident=Nfh|Number=Sing|Person=3|PronType=Int|Tense=Past</td><td><em>miymiş, mıymış</em></td></tr>
   <tr><td>Ques Ques Past|A1sg</td><td>=&gt;</td><td>PART</td><td>Number=Sing|Person=1|PronType=Int|Tense=Past</td><td><em>mıydım</em></td></tr>
   <tr style="background:lightgray"><td>Ques Ques Past|A2sg</td><td>=&gt;</td><td>PART</td><td>Number=Sing|Person=2|PronType=Int|Tense=Past</td><td><em>miydin</em></td></tr>
   <tr><td>Ques Ques Past|A3sg</td><td>=&gt;</td><td>PART</td><td>Number=Sing|Person=3|PronType=Int|Tense=Past</td><td><em>mıydı, miydi, muydu</em></td></tr>
@@ -588,7 +589,7 @@ Tagset <tt>tr::conll</tt>, total 1112 tags.
   <tr><td>Verb Verb Able|Aor|A2sg</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=2|Tense=Aor</td><td><em>olabilirsin, içebilirsin, yiyebilirsin, görebilirsin</em></td></tr>
   <tr style="background:lightgray"><td>Verb Verb Able|Aor|A3pl</td><td>=&gt;</td><td>VERB</td><td>Number=Plur|Person=3|Tense=Aor</td><td><em>gidebilirler, koruyabilirler, değiştirebilirler, Bulabilirler, sorabilirler</em></td></tr>
   <tr><td>Verb Verb Able|Aor|A3sg</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=3|Tense=Aor</td><td><em>olabilir, neden_olabilir, gelebilir, girebilir, alabilir</em></td></tr>
-  <tr style="background:lightgray"><td>Verb Verb Able|Aor|Narr|A3sg</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=3|Tense=Aor,Nar</td><td><em>yapabilirmiş</em></td></tr>
+  <tr style="background:lightgray"><td>Verb Verb Able|Aor|Narr|A3sg</td><td>=&gt;</td><td>VERB</td><td>Evident=Nfh|Number=Sing|Person=3|Tense=Aor</td><td><em>yapabilirmiş</em></td></tr>
   <tr><td>Verb Verb Able|Aor|Past|A1pl</td><td>=&gt;</td><td>VERB</td><td>Number=Plur|Person=1|Tense=Aor,Past</td><td><em>çekebilirdik</em></td></tr>
   <tr style="background:lightgray"><td>Verb Verb Able|Aor|Past|A1sg</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=1|Tense=Aor,Past</td><td><em>bahse_girebilirdim, ayartabilirdim, bekleyebilirdim, alabilirdim, sığınabilirdim</em></td></tr>
   <tr><td>Verb Verb Able|Aor|Past|A3pl</td><td>=&gt;</td><td>VERB</td><td>Number=Plur|Person=3|Tense=Aor,Past</td><td><em></em></td></tr>
@@ -606,51 +607,51 @@ Tagset <tt>tr::conll</tt>, total 1112 tags.
   <tr><td>Verb Verb Able|Fut|Past|A1pl</td><td>=&gt;</td><td>VERB</td><td>Number=Plur|Person=1|Tense=Fut,Past</td><td><em>geçirebilecektik</em></td></tr>
   <tr style="background:lightgray"><td>Verb Verb Able|Fut|Past|A3pl</td><td>=&gt;</td><td>VERB</td><td>Number=Plur|Person=3|Tense=Fut,Past</td><td><em></em></td></tr>
   <tr><td>Verb Verb Able|Imp|A3sg</td><td>=&gt;</td><td>VERB</td><td>Mood=Imp|Number=Sing|Person=3</td><td><em>devredebilsin</em></td></tr>
-  <tr style="background:lightgray"><td>Verb Verb Able|Narr</td><td>=&gt;</td><td>VERB</td><td>Tense=Nar</td><td><em>_</em></td></tr>
-  <tr><td>Verb Verb Able|Narr|A3sg</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=3|Tense=Nar</td><td><em>kaçabilmiş</em></td></tr>
-  <tr style="background:lightgray"><td>Verb Verb Able|Narr|Cop|A3sg</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=3|Tense=Nar|VerbType=Cop</td><td><em>okşayabilmiştir</em></td></tr>
+  <tr style="background:lightgray"><td>Verb Verb Able|Narr</td><td>=&gt;</td><td>VERB</td><td>Evident=Nfh|Tense=Past</td><td><em>_</em></td></tr>
+  <tr><td>Verb Verb Able|Narr|A3sg</td><td>=&gt;</td><td>VERB</td><td>Evident=Nfh|Number=Sing|Person=3|Tense=Past</td><td><em>kaçabilmiş</em></td></tr>
+  <tr style="background:lightgray"><td>Verb Verb Able|Narr|Cop|A3sg</td><td>=&gt;</td><td>VERB</td><td>Evident=Nfh|Number=Sing|Person=3|Tense=Past|VerbType=Cop</td><td><em>okşayabilmiştir</em></td></tr>
   <tr><td>Verb Verb Able|Neces|A3sg</td><td>=&gt;</td><td>VERB</td><td>Mood=Nec|Number=Sing|Person=3</td><td><em>konuşabilmeli</em></td></tr>
   <tr style="background:lightgray"><td>Verb Verb Able|Neces|Cop|A3sg</td><td>=&gt;</td><td>VERB</td><td>Mood=Nec|Number=Sing|Person=3|VerbType=Cop</td><td><em>söyleyebilmelidir</em></td></tr>
-  <tr><td>Verb Verb Able|Neg</td><td>=&gt;</td><td>VERB</td><td>Negative=Neg</td><td><em>_</em></td></tr>
-  <tr style="background:lightgray"><td>Verb Verb Able|Neg|Aor</td><td>=&gt;</td><td>VERB</td><td>Negative=Neg|Tense=Aor</td><td><em>_</em></td></tr>
-  <tr><td>Verb Verb Able|Neg|Aor|A1pl</td><td>=&gt;</td><td>VERB</td><td>Negative=Neg|Number=Plur|Person=1|Tense=Aor</td><td><em>gözardı_edemeyiz, ihmal_edemeyiz</em></td></tr>
-  <tr style="background:lightgray"><td>Verb Verb Able|Neg|Aor|A1sg</td><td>=&gt;</td><td>VERB</td><td>Negative=Neg|Number=Sing|Person=1|Tense=Aor</td><td><em>yaşayamam, anlatamam, düşünemem, emin_olamam, gidemem</em></td></tr>
-  <tr><td>Verb Verb Able|Neg|Aor|A2pl</td><td>=&gt;</td><td>VERB</td><td>Negative=Neg|Number=Plur|Person=2|Tense=Aor</td><td><em>bilemezsiniz, bakamazsınız, geçemezsiniz, kuramazsınız, Bırakamazsınız</em></td></tr>
-  <tr style="background:lightgray"><td>Verb Verb Able|Neg|Aor|A2sg</td><td>=&gt;</td><td>VERB</td><td>Negative=Neg|Number=Sing|Person=2|Tense=Aor</td><td><em>Kurtulamazsın, emin_olamazsın, bilemezsin, bulamazsın, YAPAMAZSIN</em></td></tr>
-  <tr><td>Verb Verb Able|Neg|Aor|A3pl</td><td>=&gt;</td><td>VERB</td><td>Negative=Neg|Number=Plur|Person=3|Tense=Aor</td><td><em>yapamazlar, bulamazlar, beceremezler, hissedemezler</em></td></tr>
-  <tr style="background:lightgray"><td>Verb Verb Able|Neg|Aor|A3sg</td><td>=&gt;</td><td>VERB</td><td>Negative=Neg|Number=Sing|Person=3|Tense=Aor</td><td><em>çıkamaz, unutamaz, olamaz, götüremez, ilerleyemez</em></td></tr>
-  <tr><td>Verb Verb Able|Neg|Aor|Narr|A3sg</td><td>=&gt;</td><td>VERB</td><td>Negative=Neg|Number=Sing|Person=3|Tense=Aor,Nar</td><td><em>taklit_edilemezmiş</em></td></tr>
-  <tr style="background:lightgray"><td>Verb Verb Able|Neg|Aor|Past|A1sg</td><td>=&gt;</td><td>VERB</td><td>Negative=Neg|Number=Sing|Person=1|Tense=Aor,Past</td><td><em>olamazdım, yırtamazdım, diyemezdim</em></td></tr>
-  <tr><td>Verb Verb Able|Neg|Aor|Past|A3pl</td><td>=&gt;</td><td>VERB</td><td>Negative=Neg|Number=Plur|Person=3|Tense=Aor,Past</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Verb Verb Able|Neg|Aor|Past|A3sg</td><td>=&gt;</td><td>VERB</td><td>Negative=Neg|Number=Sing|Person=3|Tense=Aor,Past</td><td><em>olamazdı, dayanamazdı, bilemezdi, söylenemezdi</em></td></tr>
-  <tr><td>Verb Verb Able|Neg|Cond|Aor|A1sg</td><td>=&gt;</td><td>VERB</td><td>Mood=Cnd|Negative=Neg|Number=Sing|Person=1|Tense=Aor</td><td><em>bulamazsam</em></td></tr>
-  <tr style="background:lightgray"><td>Verb Verb Able|Neg|Cond|Aor|A2pl</td><td>=&gt;</td><td>VERB</td><td>Mood=Cnd|Negative=Neg|Number=Plur|Person=2|Tense=Aor</td><td><em>keşfedemezseniz</em></td></tr>
-  <tr><td>Verb Verb Able|Neg|Cond|Fut|A3sg</td><td>=&gt;</td><td>VERB</td><td>Mood=Cnd|Negative=Neg|Number=Sing|Person=3|Tense=Fut</td><td><em>Gelemeyecekse</em></td></tr>
-  <tr style="background:lightgray"><td>Verb Verb Able|Neg|Desr|A3sg</td><td>=&gt;</td><td>VERB</td><td>Mood=Des|Negative=Neg|Number=Sing|Person=3</td><td><em>bilemese</em></td></tr>
-  <tr><td>Verb Verb Able|Neg|Fut|A1sg</td><td>=&gt;</td><td>VERB</td><td>Negative=Neg|Number=Sing|Person=1|Tense=Fut</td><td><em>anlatamayacağım, yürütemeyeceğim, giremeyeceğim, göremeyeceğim, bulamayacağım</em></td></tr>
-  <tr style="background:lightgray"><td>Verb Verb Able|Neg|Fut|A3sg</td><td>=&gt;</td><td>VERB</td><td>Negative=Neg|Number=Sing|Person=3|Tense=Fut</td><td><em>olamayacak, söyleyemeyecek, katılamayacak, Giremeyecek, kurtulamayacak</em></td></tr>
-  <tr><td>Verb Verb Able|Neg|Narr</td><td>=&gt;</td><td>VERB</td><td>Negative=Neg|Tense=Nar</td><td><em>_</em></td></tr>
-  <tr style="background:lightgray"><td>Verb Verb Able|Neg|Narr|A1pl</td><td>=&gt;</td><td>VERB</td><td>Negative=Neg|Number=Plur|Person=1|Tense=Nar</td><td><em>yazamamışız</em></td></tr>
-  <tr><td>Verb Verb Able|Neg|Narr|A1sg</td><td>=&gt;</td><td>VERB</td><td>Negative=Neg|Number=Sing|Person=1|Tense=Nar</td><td><em>Kurtulamamışım</em></td></tr>
-  <tr style="background:lightgray"><td>Verb Verb Able|Neg|Narr|A2sg</td><td>=&gt;</td><td>VERB</td><td>Negative=Neg|Number=Sing|Person=2|Tense=Nar</td><td><em>satamamışsın</em></td></tr>
-  <tr><td>Verb Verb Able|Neg|Narr|A3sg</td><td>=&gt;</td><td>VERB</td><td>Negative=Neg|Number=Sing|Person=3|Tense=Nar</td><td><em>dayanamamış</em></td></tr>
-  <tr style="background:lightgray"><td>Verb Verb Able|Neg|Narr|Past|A1pl</td><td>=&gt;</td><td>VERB</td><td>Negative=Neg|Number=Plur|Person=1|Tense=Nar,Past</td><td><em>kavuşamamıştık</em></td></tr>
-  <tr><td>Verb Verb Able|Neg|Narr|Past|A1sg</td><td>=&gt;</td><td>VERB</td><td>Negative=Neg|Number=Sing|Person=1|Tense=Nar,Past</td><td><em>anlayamamıştım, bilememiştim, dayanamamıştım</em></td></tr>
-  <tr style="background:lightgray"><td>Verb Verb Able|Neg|Narr|Past|A3sg</td><td>=&gt;</td><td>VERB</td><td>Negative=Neg|Number=Sing|Person=3|Tense=Nar,Past</td><td><em>görememişti</em></td></tr>
-  <tr><td>Verb Verb Able|Neg|Past|A1pl</td><td>=&gt;</td><td>VERB</td><td>Negative=Neg|Number=Plur|Person=1|Tense=Past</td><td><em>tanıyamadık, oturtamadık, çıkaramadık, varamadık</em></td></tr>
-  <tr style="background:lightgray"><td>Verb Verb Able|Neg|Past|A1sg</td><td>=&gt;</td><td>VERB</td><td>Negative=Neg|Number=Sing|Person=1|Tense=Past</td><td><em>anlatamadım, anlayamadım, tutamadım, yazamadım, karşı_çıkamadım</em></td></tr>
-  <tr><td>Verb Verb Able|Neg|Past|A2pl</td><td>=&gt;</td><td>VERB</td><td>Negative=Neg|Number=Plur|Person=2|Tense=Past</td><td><em>duyamadınız, kavuşamadınız, geçiremediniz</em></td></tr>
-  <tr style="background:lightgray"><td>Verb Verb Able|Neg|Past|A3pl</td><td>=&gt;</td><td>VERB</td><td>Negative=Neg|Number=Plur|Person=3|Tense=Past</td><td><em>açamadılar, dayanamadılar</em></td></tr>
-  <tr><td>Verb Verb Able|Neg|Past|A3sg</td><td>=&gt;</td><td>VERB</td><td>Negative=Neg|Number=Sing|Person=3|Tense=Past</td><td><em>gelemedi, inanamadı, üretilemedi, unutamadı, sığamadı</em></td></tr>
-  <tr style="background:lightgray"><td>Verb Verb Able|Neg|Prog1|A1pl</td><td>=&gt;</td><td>VERB</td><td>Aspect=Prog|Negative=Neg|Number=Plur|Person=1</td><td><em>alamıyoruz, anlaşamıyoruz</em></td></tr>
-  <tr><td>Verb Verb Able|Neg|Prog1|A1sg</td><td>=&gt;</td><td>VERB</td><td>Aspect=Prog|Negative=Neg|Number=Sing|Person=1</td><td><em>bilemiyorum, giremiyorum, davranamıyorum, dayanamıyorum, soramıyorum</em></td></tr>
-  <tr style="background:lightgray"><td>Verb Verb Able|Neg|Prog1|A2pl</td><td>=&gt;</td><td>VERB</td><td>Aspect=Prog|Negative=Neg|Number=Plur|Person=2</td><td><em>buluşamıyorsunuz, anlatamıyorsunuz</em></td></tr>
-  <tr><td>Verb Verb Able|Neg|Prog1|A2sg</td><td>=&gt;</td><td>VERB</td><td>Aspect=Prog|Negative=Neg|Number=Sing|Person=2</td><td><em>tutamıyorsun, yapamıyorsun, satamıyorsun, dayanamıyorsun</em></td></tr>
-  <tr style="background:lightgray"><td>Verb Verb Able|Neg|Prog1|A3pl</td><td>=&gt;</td><td>VERB</td><td>Aspect=Prog|Negative=Neg|Number=Plur|Person=3</td><td><em>gelemiyorlar, sergileyemiyorlar</em></td></tr>
-  <tr><td>Verb Verb Able|Neg|Prog1|A3sg</td><td>=&gt;</td><td>VERB</td><td>Aspect=Prog|Negative=Neg|Number=Sing|Person=3</td><td><em>anlayamıyor, tamir_edemiyor, söyleyemiyor, inanamıyor, bulunamıyor</em></td></tr>
-  <tr style="background:lightgray"><td>Verb Verb Able|Neg|Prog1|Past|A1sg</td><td>=&gt;</td><td>VERB</td><td>Aspect=Prog|Negative=Neg|Number=Sing|Person=1|Tense=Past</td><td><em>geçemiyordum, beceremiyordum, çıkaramıyordum, varamıyordum, bulamıyordum</em></td></tr>
-  <tr><td>Verb Verb Able|Neg|Prog1|Past|A3pl</td><td>=&gt;</td><td>VERB</td><td>Aspect=Prog|Negative=Neg|Number=Plur|Person=3|Tense=Past</td><td><em>bulamıyorlardı, buluşamıyorlardı</em></td></tr>
-  <tr style="background:lightgray"><td>Verb Verb Able|Neg|Prog1|Past|A3sg</td><td>=&gt;</td><td>VERB</td><td>Aspect=Prog|Negative=Neg|Number=Sing|Person=3|Tense=Past</td><td><em>bilemiyordu, kapamıyordu, hazmedemiyordu, yediremiyordu, göze_alamıyordu</em></td></tr>
+  <tr><td>Verb Verb Able|Neg</td><td>=&gt;</td><td>VERB</td><td>Polarity=Neg</td><td><em>_</em></td></tr>
+  <tr style="background:lightgray"><td>Verb Verb Able|Neg|Aor</td><td>=&gt;</td><td>VERB</td><td>Polarity=Neg|Tense=Aor</td><td><em>_</em></td></tr>
+  <tr><td>Verb Verb Able|Neg|Aor|A1pl</td><td>=&gt;</td><td>VERB</td><td>Number=Plur|Person=1|Polarity=Neg|Tense=Aor</td><td><em>gözardı_edemeyiz, ihmal_edemeyiz</em></td></tr>
+  <tr style="background:lightgray"><td>Verb Verb Able|Neg|Aor|A1sg</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=1|Polarity=Neg|Tense=Aor</td><td><em>yaşayamam, anlatamam, düşünemem, emin_olamam, gidemem</em></td></tr>
+  <tr><td>Verb Verb Able|Neg|Aor|A2pl</td><td>=&gt;</td><td>VERB</td><td>Number=Plur|Person=2|Polarity=Neg|Tense=Aor</td><td><em>bilemezsiniz, bakamazsınız, geçemezsiniz, kuramazsınız, Bırakamazsınız</em></td></tr>
+  <tr style="background:lightgray"><td>Verb Verb Able|Neg|Aor|A2sg</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=2|Polarity=Neg|Tense=Aor</td><td><em>Kurtulamazsın, emin_olamazsın, bilemezsin, bulamazsın, YAPAMAZSIN</em></td></tr>
+  <tr><td>Verb Verb Able|Neg|Aor|A3pl</td><td>=&gt;</td><td>VERB</td><td>Number=Plur|Person=3|Polarity=Neg|Tense=Aor</td><td><em>yapamazlar, bulamazlar, beceremezler, hissedemezler</em></td></tr>
+  <tr style="background:lightgray"><td>Verb Verb Able|Neg|Aor|A3sg</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=3|Polarity=Neg|Tense=Aor</td><td><em>çıkamaz, unutamaz, olamaz, götüremez, ilerleyemez</em></td></tr>
+  <tr><td>Verb Verb Able|Neg|Aor|Narr|A3sg</td><td>=&gt;</td><td>VERB</td><td>Evident=Nfh|Number=Sing|Person=3|Polarity=Neg|Tense=Aor</td><td><em>taklit_edilemezmiş</em></td></tr>
+  <tr style="background:lightgray"><td>Verb Verb Able|Neg|Aor|Past|A1sg</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=1|Polarity=Neg|Tense=Aor,Past</td><td><em>olamazdım, yırtamazdım, diyemezdim</em></td></tr>
+  <tr><td>Verb Verb Able|Neg|Aor|Past|A3pl</td><td>=&gt;</td><td>VERB</td><td>Number=Plur|Person=3|Polarity=Neg|Tense=Aor,Past</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Verb Verb Able|Neg|Aor|Past|A3sg</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=3|Polarity=Neg|Tense=Aor,Past</td><td><em>olamazdı, dayanamazdı, bilemezdi, söylenemezdi</em></td></tr>
+  <tr><td>Verb Verb Able|Neg|Cond|Aor|A1sg</td><td>=&gt;</td><td>VERB</td><td>Mood=Cnd|Number=Sing|Person=1|Polarity=Neg|Tense=Aor</td><td><em>bulamazsam</em></td></tr>
+  <tr style="background:lightgray"><td>Verb Verb Able|Neg|Cond|Aor|A2pl</td><td>=&gt;</td><td>VERB</td><td>Mood=Cnd|Number=Plur|Person=2|Polarity=Neg|Tense=Aor</td><td><em>keşfedemezseniz</em></td></tr>
+  <tr><td>Verb Verb Able|Neg|Cond|Fut|A3sg</td><td>=&gt;</td><td>VERB</td><td>Mood=Cnd|Number=Sing|Person=3|Polarity=Neg|Tense=Fut</td><td><em>Gelemeyecekse</em></td></tr>
+  <tr style="background:lightgray"><td>Verb Verb Able|Neg|Desr|A3sg</td><td>=&gt;</td><td>VERB</td><td>Mood=Des|Number=Sing|Person=3|Polarity=Neg</td><td><em>bilemese</em></td></tr>
+  <tr><td>Verb Verb Able|Neg|Fut|A1sg</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=1|Polarity=Neg|Tense=Fut</td><td><em>anlatamayacağım, yürütemeyeceğim, giremeyeceğim, göremeyeceğim, bulamayacağım</em></td></tr>
+  <tr style="background:lightgray"><td>Verb Verb Able|Neg|Fut|A3sg</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=3|Polarity=Neg|Tense=Fut</td><td><em>olamayacak, söyleyemeyecek, katılamayacak, Giremeyecek, kurtulamayacak</em></td></tr>
+  <tr><td>Verb Verb Able|Neg|Narr</td><td>=&gt;</td><td>VERB</td><td>Evident=Nfh|Polarity=Neg|Tense=Past</td><td><em>_</em></td></tr>
+  <tr style="background:lightgray"><td>Verb Verb Able|Neg|Narr|A1pl</td><td>=&gt;</td><td>VERB</td><td>Evident=Nfh|Number=Plur|Person=1|Polarity=Neg|Tense=Past</td><td><em>yazamamışız</em></td></tr>
+  <tr><td>Verb Verb Able|Neg|Narr|A1sg</td><td>=&gt;</td><td>VERB</td><td>Evident=Nfh|Number=Sing|Person=1|Polarity=Neg|Tense=Past</td><td><em>Kurtulamamışım</em></td></tr>
+  <tr style="background:lightgray"><td>Verb Verb Able|Neg|Narr|A2sg</td><td>=&gt;</td><td>VERB</td><td>Evident=Nfh|Number=Sing|Person=2|Polarity=Neg|Tense=Past</td><td><em>satamamışsın</em></td></tr>
+  <tr><td>Verb Verb Able|Neg|Narr|A3sg</td><td>=&gt;</td><td>VERB</td><td>Evident=Nfh|Number=Sing|Person=3|Polarity=Neg|Tense=Past</td><td><em>dayanamamış</em></td></tr>
+  <tr style="background:lightgray"><td>Verb Verb Able|Neg|Narr|Past|A1pl</td><td>=&gt;</td><td>VERB</td><td>Evident=Fh,Nfh|Number=Plur|Person=1|Polarity=Neg|Tense=Past</td><td><em>kavuşamamıştık</em></td></tr>
+  <tr><td>Verb Verb Able|Neg|Narr|Past|A1sg</td><td>=&gt;</td><td>VERB</td><td>Evident=Fh,Nfh|Number=Sing|Person=1|Polarity=Neg|Tense=Past</td><td><em>anlayamamıştım, bilememiştim, dayanamamıştım</em></td></tr>
+  <tr style="background:lightgray"><td>Verb Verb Able|Neg|Narr|Past|A3sg</td><td>=&gt;</td><td>VERB</td><td>Evident=Fh,Nfh|Number=Sing|Person=3|Polarity=Neg|Tense=Past</td><td><em>görememişti</em></td></tr>
+  <tr><td>Verb Verb Able|Neg|Past|A1pl</td><td>=&gt;</td><td>VERB</td><td>Number=Plur|Person=1|Polarity=Neg|Tense=Past</td><td><em>tanıyamadık, oturtamadık, çıkaramadık, varamadık</em></td></tr>
+  <tr style="background:lightgray"><td>Verb Verb Able|Neg|Past|A1sg</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=1|Polarity=Neg|Tense=Past</td><td><em>anlatamadım, anlayamadım, tutamadım, yazamadım, karşı_çıkamadım</em></td></tr>
+  <tr><td>Verb Verb Able|Neg|Past|A2pl</td><td>=&gt;</td><td>VERB</td><td>Number=Plur|Person=2|Polarity=Neg|Tense=Past</td><td><em>duyamadınız, kavuşamadınız, geçiremediniz</em></td></tr>
+  <tr style="background:lightgray"><td>Verb Verb Able|Neg|Past|A3pl</td><td>=&gt;</td><td>VERB</td><td>Number=Plur|Person=3|Polarity=Neg|Tense=Past</td><td><em>açamadılar, dayanamadılar</em></td></tr>
+  <tr><td>Verb Verb Able|Neg|Past|A3sg</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=3|Polarity=Neg|Tense=Past</td><td><em>gelemedi, inanamadı, üretilemedi, unutamadı, sığamadı</em></td></tr>
+  <tr style="background:lightgray"><td>Verb Verb Able|Neg|Prog1|A1pl</td><td>=&gt;</td><td>VERB</td><td>Aspect=Prog|Number=Plur|Person=1|Polarity=Neg</td><td><em>alamıyoruz, anlaşamıyoruz</em></td></tr>
+  <tr><td>Verb Verb Able|Neg|Prog1|A1sg</td><td>=&gt;</td><td>VERB</td><td>Aspect=Prog|Number=Sing|Person=1|Polarity=Neg</td><td><em>bilemiyorum, giremiyorum, davranamıyorum, dayanamıyorum, soramıyorum</em></td></tr>
+  <tr style="background:lightgray"><td>Verb Verb Able|Neg|Prog1|A2pl</td><td>=&gt;</td><td>VERB</td><td>Aspect=Prog|Number=Plur|Person=2|Polarity=Neg</td><td><em>buluşamıyorsunuz, anlatamıyorsunuz</em></td></tr>
+  <tr><td>Verb Verb Able|Neg|Prog1|A2sg</td><td>=&gt;</td><td>VERB</td><td>Aspect=Prog|Number=Sing|Person=2|Polarity=Neg</td><td><em>tutamıyorsun, yapamıyorsun, satamıyorsun, dayanamıyorsun</em></td></tr>
+  <tr style="background:lightgray"><td>Verb Verb Able|Neg|Prog1|A3pl</td><td>=&gt;</td><td>VERB</td><td>Aspect=Prog|Number=Plur|Person=3|Polarity=Neg</td><td><em>gelemiyorlar, sergileyemiyorlar</em></td></tr>
+  <tr><td>Verb Verb Able|Neg|Prog1|A3sg</td><td>=&gt;</td><td>VERB</td><td>Aspect=Prog|Number=Sing|Person=3|Polarity=Neg</td><td><em>anlayamıyor, tamir_edemiyor, söyleyemiyor, inanamıyor, bulunamıyor</em></td></tr>
+  <tr style="background:lightgray"><td>Verb Verb Able|Neg|Prog1|Past|A1sg</td><td>=&gt;</td><td>VERB</td><td>Aspect=Prog|Number=Sing|Person=1|Polarity=Neg|Tense=Past</td><td><em>geçemiyordum, beceremiyordum, çıkaramıyordum, varamıyordum, bulamıyordum</em></td></tr>
+  <tr><td>Verb Verb Able|Neg|Prog1|Past|A3pl</td><td>=&gt;</td><td>VERB</td><td>Aspect=Prog|Number=Plur|Person=3|Polarity=Neg|Tense=Past</td><td><em>bulamıyorlardı, buluşamıyorlardı</em></td></tr>
+  <tr style="background:lightgray"><td>Verb Verb Able|Neg|Prog1|Past|A3sg</td><td>=&gt;</td><td>VERB</td><td>Aspect=Prog|Number=Sing|Person=3|Polarity=Neg|Tense=Past</td><td><em>bilemiyordu, kapamıyordu, hazmedemiyordu, yediremiyordu, göze_alamıyordu</em></td></tr>
   <tr><td>Verb Verb Able|Past|A1pl</td><td>=&gt;</td><td>VERB</td><td>Number=Plur|Person=1|Tense=Past</td><td><em>sokulabildik</em></td></tr>
   <tr style="background:lightgray"><td>Verb Verb Able|Past|A1sg</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=1|Tense=Past</td><td><em>bahsedebildim, gidebildim</em></td></tr>
   <tr><td>Verb Verb Able|Past|A2pl</td><td>=&gt;</td><td>VERB</td><td>Number=Plur|Person=2|Tense=Past</td><td><em>Verebildiniz</em></td></tr>
@@ -662,32 +663,32 @@ Tagset <tt>tr::conll</tt>, total 1112 tags.
   <tr><td>Verb Verb Able|Prog1|Past|A1sg</td><td>=&gt;</td><td>VERB</td><td>Aspect=Prog|Number=Sing|Person=1|Tense=Past</td><td><em>görebiliyordum</em></td></tr>
   <tr style="background:lightgray"><td>Verb Verb Able|Prog1|Past|A3sg</td><td>=&gt;</td><td>VERB</td><td>Aspect=Prog|Number=Sing|Person=3|Tense=Past</td><td><em>kurabiliyordu</em></td></tr>
   <tr><td>Verb Verb Acquire</td><td>=&gt;</td><td>VERB</td><td>_</td><td><em>_</em></td></tr>
-  <tr style="background:lightgray"><td>Verb Verb Acquire|Neg|Aor|A3sg</td><td>=&gt;</td><td>VERB</td><td>Negative=Neg|Number=Sing|Person=3|Tense=Aor</td><td><em>sinirlenmez</em></td></tr>
-  <tr><td>Verb Verb Acquire|Neg|Fut|A1pl</td><td>=&gt;</td><td>VERB</td><td>Negative=Neg|Number=Plur|Person=1|Tense=Fut</td><td><em>yaşlanmayacağız</em></td></tr>
-  <tr style="background:lightgray"><td>Verb Verb Acquire|Neg|Imp|A2sg</td><td>=&gt;</td><td>VERB</td><td>Mood=Imp|Negative=Neg|Number=Sing|Person=2</td><td><em>gevezelenme</em></td></tr>
-  <tr><td>Verb Verb Acquire|Neg|Narr</td><td>=&gt;</td><td>VERB</td><td>Negative=Neg|Tense=Nar</td><td><em>_</em></td></tr>
-  <tr style="background:lightgray"><td>Verb Verb Acquire|Pos</td><td>=&gt;</td><td>VERB</td><td>Negative=Pos</td><td><em>_</em></td></tr>
-  <tr><td>Verb Verb Acquire|Pos|Aor</td><td>=&gt;</td><td>VERB</td><td>Negative=Pos|Tense=Aor</td><td><em>_</em></td></tr>
-  <tr style="background:lightgray"><td>Verb Verb Acquire|Pos|Aor|A3pl</td><td>=&gt;</td><td>VERB</td><td>Negative=Pos|Number=Plur|Person=3|Tense=Aor</td><td><em></em></td></tr>
-  <tr><td>Verb Verb Acquire|Pos|Aor|A3sg</td><td>=&gt;</td><td>VERB</td><td>Negative=Pos|Number=Sing|Person=3|Tense=Aor</td><td><em>kirlenir</em></td></tr>
-  <tr style="background:lightgray"><td>Verb Verb Acquire|Pos|Cond|Fut|A3sg</td><td>=&gt;</td><td>VERB</td><td>Mood=Cnd|Negative=Pos|Number=Sing|Person=3|Tense=Fut</td><td><em></em></td></tr>
-  <tr><td>Verb Verb Acquire|Pos|Imp|A2sg</td><td>=&gt;</td><td>VERB</td><td>Mood=Imp|Negative=Pos|Number=Sing|Person=2</td><td><em>bildirilen</em></td></tr>
-  <tr style="background:lightgray"><td>Verb Verb Acquire|Pos|Imp|A3sg</td><td>=&gt;</td><td>VERB</td><td>Mood=Imp|Negative=Pos|Number=Sing|Person=3</td><td><em>yararlansın</em></td></tr>
-  <tr><td>Verb Verb Acquire|Pos|Narr</td><td>=&gt;</td><td>VERB</td><td>Negative=Pos|Tense=Nar</td><td><em>_</em></td></tr>
-  <tr style="background:lightgray"><td>Verb Verb Acquire|Pos|Narr|A3sg</td><td>=&gt;</td><td>VERB</td><td>Negative=Pos|Number=Sing|Person=3|Tense=Nar</td><td><em>kanlanmış, yankılanmış</em></td></tr>
-  <tr><td>Verb Verb Acquire|Pos|Narr|Cop|A3sg</td><td>=&gt;</td><td>VERB</td><td>Negative=Pos|Number=Sing|Person=3|Tense=Nar|VerbType=Cop</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Verb Verb Acquire|Pos|Narr|Past|A1sg</td><td>=&gt;</td><td>VERB</td><td>Negative=Pos|Number=Sing|Person=1|Tense=Nar,Past</td><td><em>Heyecanlanmıştım</em></td></tr>
-  <tr><td>Verb Verb Acquire|Pos|Narr|Past|A3sg</td><td>=&gt;</td><td>VERB</td><td>Negative=Pos|Number=Sing|Person=3|Tense=Nar,Past</td><td><em>heyecanlanmıştı, telaşlanmıştı, buğulanmıştı, Neticelenmişti, yaşlanmıştı</em></td></tr>
-  <tr style="background:lightgray"><td>Verb Verb Acquire|Pos|Opt|A3sg</td><td>=&gt;</td><td>VERB</td><td>Mood=Opt|Negative=Pos|Number=Sing|Person=3</td><td><em>efkarlana, sabırsızlana_sabırsızlana</em></td></tr>
-  <tr><td>Verb Verb Acquire|Pos|Past|A1sg</td><td>=&gt;</td><td>VERB</td><td>Negative=Pos|Number=Sing|Person=1|Tense=Past</td><td><em>Sinirlendim, etkilendim, soluklandım</em></td></tr>
-  <tr style="background:lightgray"><td>Verb Verb Acquire|Pos|Past|A3sg</td><td>=&gt;</td><td>VERB</td><td>Negative=Pos|Number=Sing|Person=3|Tense=Past</td><td><em>güçlendi, yüklendi</em></td></tr>
-  <tr><td>Verb Verb Acquire|Pos|Prog1|A1pl</td><td>=&gt;</td><td>VERB</td><td>Aspect=Prog|Negative=Pos|Number=Plur|Person=1</td><td><em>yararlanıyoruz</em></td></tr>
-  <tr style="background:lightgray"><td>Verb Verb Acquire|Pos|Prog1|A1sg</td><td>=&gt;</td><td>VERB</td><td>Aspect=Prog|Negative=Pos|Number=Sing|Person=1</td><td><em>Meraklanıyorum</em></td></tr>
-  <tr><td>Verb Verb Acquire|Pos|Prog1|A2sg</td><td>=&gt;</td><td>VERB</td><td>Aspect=Prog|Negative=Pos|Number=Sing|Person=2</td><td><em>yükleniyorsun</em></td></tr>
-  <tr style="background:lightgray"><td>Verb Verb Acquire|Pos|Prog1|A3pl</td><td>=&gt;</td><td>VERB</td><td>Aspect=Prog|Negative=Pos|Number=Plur|Person=3</td><td><em>yararlanıyorlar</em></td></tr>
-  <tr><td>Verb Verb Acquire|Pos|Prog1|A3sg</td><td>=&gt;</td><td>VERB</td><td>Aspect=Prog|Negative=Pos|Number=Sing|Person=3</td><td><em>kaynaklanıyor, kullanıyor, hesaplanıyor, hazırlanıyor, güçleniyor</em></td></tr>
-  <tr style="background:lightgray"><td>Verb Verb Acquire|Pos|Prog1|Past|A3sg</td><td>=&gt;</td><td>VERB</td><td>Aspect=Prog|Negative=Pos|Number=Sing|Person=3|Tense=Past</td><td><em></em></td></tr>
-  <tr><td>Verb Verb Acquire|Pos|Prog2|A3sg</td><td>=&gt;</td><td>VERB</td><td>Aspect=Prog|Negative=Pos|Number=Sing|Person=3</td><td><em>canlanmakta</em></td></tr>
+  <tr style="background:lightgray"><td>Verb Verb Acquire|Neg|Aor|A3sg</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=3|Polarity=Neg|Tense=Aor</td><td><em>sinirlenmez</em></td></tr>
+  <tr><td>Verb Verb Acquire|Neg|Fut|A1pl</td><td>=&gt;</td><td>VERB</td><td>Number=Plur|Person=1|Polarity=Neg|Tense=Fut</td><td><em>yaşlanmayacağız</em></td></tr>
+  <tr style="background:lightgray"><td>Verb Verb Acquire|Neg|Imp|A2sg</td><td>=&gt;</td><td>VERB</td><td>Mood=Imp|Number=Sing|Person=2|Polarity=Neg</td><td><em>gevezelenme</em></td></tr>
+  <tr><td>Verb Verb Acquire|Neg|Narr</td><td>=&gt;</td><td>VERB</td><td>Evident=Nfh|Polarity=Neg|Tense=Past</td><td><em>_</em></td></tr>
+  <tr style="background:lightgray"><td>Verb Verb Acquire|Pos</td><td>=&gt;</td><td>VERB</td><td>Polarity=Pos</td><td><em>_</em></td></tr>
+  <tr><td>Verb Verb Acquire|Pos|Aor</td><td>=&gt;</td><td>VERB</td><td>Polarity=Pos|Tense=Aor</td><td><em>_</em></td></tr>
+  <tr style="background:lightgray"><td>Verb Verb Acquire|Pos|Aor|A3pl</td><td>=&gt;</td><td>VERB</td><td>Number=Plur|Person=3|Polarity=Pos|Tense=Aor</td><td><em></em></td></tr>
+  <tr><td>Verb Verb Acquire|Pos|Aor|A3sg</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=3|Polarity=Pos|Tense=Aor</td><td><em>kirlenir</em></td></tr>
+  <tr style="background:lightgray"><td>Verb Verb Acquire|Pos|Cond|Fut|A3sg</td><td>=&gt;</td><td>VERB</td><td>Mood=Cnd|Number=Sing|Person=3|Polarity=Pos|Tense=Fut</td><td><em></em></td></tr>
+  <tr><td>Verb Verb Acquire|Pos|Imp|A2sg</td><td>=&gt;</td><td>VERB</td><td>Mood=Imp|Number=Sing|Person=2|Polarity=Pos</td><td><em>bildirilen</em></td></tr>
+  <tr style="background:lightgray"><td>Verb Verb Acquire|Pos|Imp|A3sg</td><td>=&gt;</td><td>VERB</td><td>Mood=Imp|Number=Sing|Person=3|Polarity=Pos</td><td><em>yararlansın</em></td></tr>
+  <tr><td>Verb Verb Acquire|Pos|Narr</td><td>=&gt;</td><td>VERB</td><td>Evident=Nfh|Polarity=Pos|Tense=Past</td><td><em>_</em></td></tr>
+  <tr style="background:lightgray"><td>Verb Verb Acquire|Pos|Narr|A3sg</td><td>=&gt;</td><td>VERB</td><td>Evident=Nfh|Number=Sing|Person=3|Polarity=Pos|Tense=Past</td><td><em>kanlanmış, yankılanmış</em></td></tr>
+  <tr><td>Verb Verb Acquire|Pos|Narr|Cop|A3sg</td><td>=&gt;</td><td>VERB</td><td>Evident=Nfh|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbType=Cop</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Verb Verb Acquire|Pos|Narr|Past|A1sg</td><td>=&gt;</td><td>VERB</td><td>Evident=Fh,Nfh|Number=Sing|Person=1|Polarity=Pos|Tense=Past</td><td><em>Heyecanlanmıştım</em></td></tr>
+  <tr><td>Verb Verb Acquire|Pos|Narr|Past|A3sg</td><td>=&gt;</td><td>VERB</td><td>Evident=Fh,Nfh|Number=Sing|Person=3|Polarity=Pos|Tense=Past</td><td><em>heyecanlanmıştı, telaşlanmıştı, buğulanmıştı, Neticelenmişti, yaşlanmıştı</em></td></tr>
+  <tr style="background:lightgray"><td>Verb Verb Acquire|Pos|Opt|A3sg</td><td>=&gt;</td><td>VERB</td><td>Mood=Opt|Number=Sing|Person=3|Polarity=Pos</td><td><em>efkarlana, sabırsızlana_sabırsızlana</em></td></tr>
+  <tr><td>Verb Verb Acquire|Pos|Past|A1sg</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=1|Polarity=Pos|Tense=Past</td><td><em>Sinirlendim, etkilendim, soluklandım</em></td></tr>
+  <tr style="background:lightgray"><td>Verb Verb Acquire|Pos|Past|A3sg</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=3|Polarity=Pos|Tense=Past</td><td><em>güçlendi, yüklendi</em></td></tr>
+  <tr><td>Verb Verb Acquire|Pos|Prog1|A1pl</td><td>=&gt;</td><td>VERB</td><td>Aspect=Prog|Number=Plur|Person=1|Polarity=Pos</td><td><em>yararlanıyoruz</em></td></tr>
+  <tr style="background:lightgray"><td>Verb Verb Acquire|Pos|Prog1|A1sg</td><td>=&gt;</td><td>VERB</td><td>Aspect=Prog|Number=Sing|Person=1|Polarity=Pos</td><td><em>Meraklanıyorum</em></td></tr>
+  <tr><td>Verb Verb Acquire|Pos|Prog1|A2sg</td><td>=&gt;</td><td>VERB</td><td>Aspect=Prog|Number=Sing|Person=2|Polarity=Pos</td><td><em>yükleniyorsun</em></td></tr>
+  <tr style="background:lightgray"><td>Verb Verb Acquire|Pos|Prog1|A3pl</td><td>=&gt;</td><td>VERB</td><td>Aspect=Prog|Number=Plur|Person=3|Polarity=Pos</td><td><em>yararlanıyorlar</em></td></tr>
+  <tr><td>Verb Verb Acquire|Pos|Prog1|A3sg</td><td>=&gt;</td><td>VERB</td><td>Aspect=Prog|Number=Sing|Person=3|Polarity=Pos</td><td><em>kaynaklanıyor, kullanıyor, hesaplanıyor, hazırlanıyor, güçleniyor</em></td></tr>
+  <tr style="background:lightgray"><td>Verb Verb Acquire|Pos|Prog1|Past|A3sg</td><td>=&gt;</td><td>VERB</td><td>Aspect=Prog|Number=Sing|Person=3|Polarity=Pos|Tense=Past</td><td><em></em></td></tr>
+  <tr><td>Verb Verb Acquire|Pos|Prog2|A3sg</td><td>=&gt;</td><td>VERB</td><td>Aspect=Prog|Number=Sing|Person=3|Polarity=Pos</td><td><em>canlanmakta</em></td></tr>
   <tr style="background:lightgray"><td>Verb Verb Aor</td><td>=&gt;</td><td>VERB</td><td>Tense=Aor</td><td><em></em></td></tr>
   <tr><td>Verb Verb Aor|A1pl</td><td>=&gt;</td><td>VERB</td><td>Number=Plur|Person=1|Tense=Aor</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>Verb Verb Aor|A1sg</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=1|Tense=Aor</td><td><em></em></td></tr>
@@ -695,91 +696,91 @@ Tagset <tt>tr::conll</tt>, total 1112 tags.
   <tr style="background:lightgray"><td>Verb Verb Aor|A2sg</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=2|Tense=Aor</td><td><em></em></td></tr>
   <tr><td>Verb Verb Aor|A3pl</td><td>=&gt;</td><td>VERB</td><td>Number=Plur|Person=3|Tense=Aor</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>Verb Verb Aor|A3sg</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=3|Tense=Aor</td><td><em></em></td></tr>
-  <tr><td>Verb Verb Aor|Narr|A3sg</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=3|Tense=Aor,Nar</td><td><em></em></td></tr>
+  <tr><td>Verb Verb Aor|Narr|A3sg</td><td>=&gt;</td><td>VERB</td><td>Evident=Nfh|Number=Sing|Person=3|Tense=Aor</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>Verb Verb Aor|Past|A1pl</td><td>=&gt;</td><td>VERB</td><td>Number=Plur|Person=1|Tense=Aor,Past</td><td><em></em></td></tr>
   <tr><td>Verb Verb Aor|Past|A1sg</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=1|Tense=Aor,Past</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>Verb Verb Aor|Past|A3pl</td><td>=&gt;</td><td>VERB</td><td>Number=Plur|Person=3|Tense=Aor,Past</td><td><em></em></td></tr>
   <tr><td>Verb Verb Aor|Past|A3sg</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=3|Tense=Aor,Past</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>Verb Verb Become</td><td>=&gt;</td><td>VERB</td><td>_</td><td><em>_</em></td></tr>
-  <tr><td>Verb Verb Become|Neg|Aor</td><td>=&gt;</td><td>VERB</td><td>Negative=Neg|Tense=Aor</td><td><em>_</em></td></tr>
-  <tr style="background:lightgray"><td>Verb Verb Become|Neg|Aor|A3sg</td><td>=&gt;</td><td>VERB</td><td>Negative=Neg|Number=Sing|Person=3|Tense=Aor</td><td><em>sakinleşmez</em></td></tr>
-  <tr><td>Verb Verb Become|Neg|Imp|A2sg</td><td>=&gt;</td><td>VERB</td><td>Mood=Imp|Negative=Neg|Number=Sing|Person=2</td><td><em>Elleşme</em></td></tr>
-  <tr style="background:lightgray"><td>Verb Verb Become|Pos</td><td>=&gt;</td><td>VERB</td><td>Negative=Pos</td><td><em>_</em></td></tr>
-  <tr><td>Verb Verb Become|Pos|Aor|A3sg</td><td>=&gt;</td><td>VERB</td><td>Negative=Pos|Number=Sing|Person=3|Tense=Aor</td><td><em>gerçekleşir</em></td></tr>
-  <tr style="background:lightgray"><td>Verb Verb Become|Pos|Aor|Past|A3pl</td><td>=&gt;</td><td>VERB</td><td>Negative=Pos|Number=Plur|Person=3|Tense=Aor,Past</td><td><em></em></td></tr>
-  <tr><td>Verb Verb Become|Pos|Desr|A3sg</td><td>=&gt;</td><td>VERB</td><td>Mood=Des|Negative=Pos|Number=Sing|Person=3</td><td><em>gerçekleşse</em></td></tr>
-  <tr style="background:lightgray"><td>Verb Verb Become|Pos|Narr|A3sg</td><td>=&gt;</td><td>VERB</td><td>Negative=Pos|Number=Sing|Person=3|Tense=Nar</td><td><em>sertleşmiş, seyrekleşmiş, vedalaşmış, yaygınlaşmış, gerçekleşmiş</em></td></tr>
-  <tr><td>Verb Verb Become|Pos|Narr|Cop|A3sg</td><td>=&gt;</td><td>VERB</td><td>Negative=Pos|Number=Sing|Person=3|Tense=Nar|VerbType=Cop</td><td><em>gerçekleşmiştir, yaygınlaşmıştır</em></td></tr>
-  <tr style="background:lightgray"><td>Verb Verb Become|Pos|Narr|Past|A3sg</td><td>=&gt;</td><td>VERB</td><td>Negative=Pos|Number=Sing|Person=3|Tense=Nar,Past</td><td><em>pembeleşmişti</em></td></tr>
-  <tr><td>Verb Verb Become|Pos|Past|A2pl</td><td>=&gt;</td><td>VERB</td><td>Negative=Pos|Number=Plur|Person=2|Tense=Past</td><td><em>iyileştiniz</em></td></tr>
-  <tr style="background:lightgray"><td>Verb Verb Become|Pos|Past|A2sg</td><td>=&gt;</td><td>VERB</td><td>Negative=Pos|Number=Sing|Person=2|Tense=Past</td><td><em>Sakinleştin</em></td></tr>
-  <tr><td>Verb Verb Become|Pos|Past|A3sg</td><td>=&gt;</td><td>VERB</td><td>Negative=Pos|Number=Sing|Person=3|Tense=Past</td><td><em>şaşılaştı, uzaklaştı</em></td></tr>
-  <tr style="background:lightgray"><td>Verb Verb Become|Pos|Prog1|A1pl</td><td>=&gt;</td><td>VERB</td><td>Aspect=Prog|Negative=Pos|Number=Plur|Person=1</td><td><em>uzaklaşıyoruz</em></td></tr>
-  <tr><td>Verb Verb Become|Pos|Prog1|A2sg</td><td>=&gt;</td><td>VERB</td><td>Aspect=Prog|Negative=Pos|Number=Sing|Person=2</td><td><em>tuhaflaşıyorsun</em></td></tr>
-  <tr style="background:lightgray"><td>Verb Verb Become|Pos|Prog1|A3sg</td><td>=&gt;</td><td>VERB</td><td>Aspect=Prog|Negative=Pos|Number=Sing|Person=3</td><td><em>gerçekleşiyor, uzaklaşıyor</em></td></tr>
-  <tr><td>Verb Verb Become|Pos|Prog1|Past|A3pl</td><td>=&gt;</td><td>VERB</td><td>Aspect=Prog|Negative=Pos|Number=Plur|Person=3|Tense=Past</td><td><em>saldırganlaşıyorlardı</em></td></tr>
-  <tr style="background:lightgray"><td>Verb Verb Become|Pos|Prog1|Past|A3sg</td><td>=&gt;</td><td>VERB</td><td>Aspect=Prog|Negative=Pos|Number=Sing|Person=3|Tense=Past</td><td><em>evleşiyordu, farklılaşıyordu</em></td></tr>
+  <tr><td>Verb Verb Become|Neg|Aor</td><td>=&gt;</td><td>VERB</td><td>Polarity=Neg|Tense=Aor</td><td><em>_</em></td></tr>
+  <tr style="background:lightgray"><td>Verb Verb Become|Neg|Aor|A3sg</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=3|Polarity=Neg|Tense=Aor</td><td><em>sakinleşmez</em></td></tr>
+  <tr><td>Verb Verb Become|Neg|Imp|A2sg</td><td>=&gt;</td><td>VERB</td><td>Mood=Imp|Number=Sing|Person=2|Polarity=Neg</td><td><em>Elleşme</em></td></tr>
+  <tr style="background:lightgray"><td>Verb Verb Become|Pos</td><td>=&gt;</td><td>VERB</td><td>Polarity=Pos</td><td><em>_</em></td></tr>
+  <tr><td>Verb Verb Become|Pos|Aor|A3sg</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=3|Polarity=Pos|Tense=Aor</td><td><em>gerçekleşir</em></td></tr>
+  <tr style="background:lightgray"><td>Verb Verb Become|Pos|Aor|Past|A3pl</td><td>=&gt;</td><td>VERB</td><td>Number=Plur|Person=3|Polarity=Pos|Tense=Aor,Past</td><td><em></em></td></tr>
+  <tr><td>Verb Verb Become|Pos|Desr|A3sg</td><td>=&gt;</td><td>VERB</td><td>Mood=Des|Number=Sing|Person=3|Polarity=Pos</td><td><em>gerçekleşse</em></td></tr>
+  <tr style="background:lightgray"><td>Verb Verb Become|Pos|Narr|A3sg</td><td>=&gt;</td><td>VERB</td><td>Evident=Nfh|Number=Sing|Person=3|Polarity=Pos|Tense=Past</td><td><em>sertleşmiş, seyrekleşmiş, vedalaşmış, yaygınlaşmış, gerçekleşmiş</em></td></tr>
+  <tr><td>Verb Verb Become|Pos|Narr|Cop|A3sg</td><td>=&gt;</td><td>VERB</td><td>Evident=Nfh|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbType=Cop</td><td><em>gerçekleşmiştir, yaygınlaşmıştır</em></td></tr>
+  <tr style="background:lightgray"><td>Verb Verb Become|Pos|Narr|Past|A3sg</td><td>=&gt;</td><td>VERB</td><td>Evident=Fh,Nfh|Number=Sing|Person=3|Polarity=Pos|Tense=Past</td><td><em>pembeleşmişti</em></td></tr>
+  <tr><td>Verb Verb Become|Pos|Past|A2pl</td><td>=&gt;</td><td>VERB</td><td>Number=Plur|Person=2|Polarity=Pos|Tense=Past</td><td><em>iyileştiniz</em></td></tr>
+  <tr style="background:lightgray"><td>Verb Verb Become|Pos|Past|A2sg</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=2|Polarity=Pos|Tense=Past</td><td><em>Sakinleştin</em></td></tr>
+  <tr><td>Verb Verb Become|Pos|Past|A3sg</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=3|Polarity=Pos|Tense=Past</td><td><em>şaşılaştı, uzaklaştı</em></td></tr>
+  <tr style="background:lightgray"><td>Verb Verb Become|Pos|Prog1|A1pl</td><td>=&gt;</td><td>VERB</td><td>Aspect=Prog|Number=Plur|Person=1|Polarity=Pos</td><td><em>uzaklaşıyoruz</em></td></tr>
+  <tr><td>Verb Verb Become|Pos|Prog1|A2sg</td><td>=&gt;</td><td>VERB</td><td>Aspect=Prog|Number=Sing|Person=2|Polarity=Pos</td><td><em>tuhaflaşıyorsun</em></td></tr>
+  <tr style="background:lightgray"><td>Verb Verb Become|Pos|Prog1|A3sg</td><td>=&gt;</td><td>VERB</td><td>Aspect=Prog|Number=Sing|Person=3|Polarity=Pos</td><td><em>gerçekleşiyor, uzaklaşıyor</em></td></tr>
+  <tr><td>Verb Verb Become|Pos|Prog1|Past|A3pl</td><td>=&gt;</td><td>VERB</td><td>Aspect=Prog|Number=Plur|Person=3|Polarity=Pos|Tense=Past</td><td><em>saldırganlaşıyorlardı</em></td></tr>
+  <tr style="background:lightgray"><td>Verb Verb Become|Pos|Prog1|Past|A3sg</td><td>=&gt;</td><td>VERB</td><td>Aspect=Prog|Number=Sing|Person=3|Polarity=Pos|Tense=Past</td><td><em>evleşiyordu, farklılaşıyordu</em></td></tr>
   <tr><td>Verb Verb Caus</td><td>=&gt;</td><td>VERB</td><td>Voice=Cau</td><td><em>_</em></td></tr>
-  <tr style="background:lightgray"><td>Verb Verb Caus|Neg</td><td>=&gt;</td><td>VERB</td><td>Negative=Neg|Voice=Cau</td><td><em>_</em></td></tr>
-  <tr><td>Verb Verb Caus|Neg|Aor|A1sg</td><td>=&gt;</td><td>VERB</td><td>Negative=Neg|Number=Sing|Person=1|Tense=Aor|Voice=Cau</td><td><em>ulaştırmam</em></td></tr>
-  <tr style="background:lightgray"><td>Verb Verb Caus|Neg|Aor|A3sg</td><td>=&gt;</td><td>VERB</td><td>Negative=Neg|Number=Sing|Person=3|Tense=Aor|Voice=Cau</td><td><em>değiştirmez, bitirir_bitirmez, batırmaz, mekanlaştırmaz, çektirir_çektirmez</em></td></tr>
-  <tr><td>Verb Verb Caus|Neg|Aor|Past|A1sg</td><td>=&gt;</td><td>VERB</td><td>Negative=Neg|Number=Sing|Person=1|Tense=Aor,Past|Voice=Cau</td><td><em>iki_ettirmezdim, kondurmazdım</em></td></tr>
-  <tr style="background:lightgray"><td>Verb Verb Caus|Neg|Desr|A3pl</td><td>=&gt;</td><td>VERB</td><td>Mood=Des|Negative=Neg|Number=Plur|Person=3|Voice=Cau</td><td><em>oluşturmasalar</em></td></tr>
-  <tr><td>Verb Verb Caus|Neg|Imp|A2sg</td><td>=&gt;</td><td>VERB</td><td>Mood=Imp|Negative=Neg|Number=Sing|Person=2|Voice=Cau</td><td><em>söyletme, Sulandırma, caydırma, karıştırma, yerleştirme</em></td></tr>
-  <tr style="background:lightgray"><td>Verb Verb Caus|Neg|Past|A1pl</td><td>=&gt;</td><td>VERB</td><td>Negative=Neg|Number=Plur|Person=1|Tense=Past|Voice=Cau</td><td><em>aldırmadık, doldurmadık</em></td></tr>
-  <tr><td>Verb Verb Caus|Neg|Past|A3sg</td><td>=&gt;</td><td>VERB</td><td>Negative=Neg|Number=Sing|Person=3|Tense=Past|Voice=Cau</td><td><em>değiştirmedi</em></td></tr>
-  <tr style="background:lightgray"><td>Verb Verb Caus|Pos</td><td>=&gt;</td><td>VERB</td><td>Negative=Pos|Voice=Cau</td><td><em>_</em></td></tr>
-  <tr><td>Verb Verb Caus|Pos|Aor</td><td>=&gt;</td><td>VERB</td><td>Negative=Pos|Tense=Aor|Voice=Cau</td><td><em>_</em></td></tr>
-  <tr style="background:lightgray"><td>Verb Verb Caus|Pos|Aor|A1pl</td><td>=&gt;</td><td>VERB</td><td>Negative=Pos|Number=Plur|Person=1|Tense=Aor|Voice=Cau</td><td><em>yaptırırız, doldururuz, gezdiririz, ulaştırırız</em></td></tr>
-  <tr><td>Verb Verb Caus|Pos|Aor|A1sg</td><td>=&gt;</td><td>VERB</td><td>Negative=Pos|Number=Sing|Person=1|Tense=Aor|Voice=Cau</td><td><em>değiştiririm</em></td></tr>
-  <tr style="background:lightgray"><td>Verb Verb Caus|Pos|Aor|A2pl</td><td>=&gt;</td><td>VERB</td><td>Negative=Pos|Number=Plur|Person=2|Tense=Aor|Voice=Cau</td><td><em>bitirirsiniz</em></td></tr>
-  <tr><td>Verb Verb Caus|Pos|Aor|A3pl</td><td>=&gt;</td><td>VERB</td><td>Negative=Pos|Number=Plur|Person=3|Tense=Aor|Voice=Cau</td><td><em>Bıktırırlar, üretirler</em></td></tr>
-  <tr style="background:lightgray"><td>Verb Verb Caus|Pos|Aor|A3sg</td><td>=&gt;</td><td>VERB</td><td>Negative=Pos|Number=Sing|Person=3|Tense=Aor|Voice=Cau</td><td><em>gerektirir, hissettirir, şaşırtır, katılaştırır, Sakinleştirir</em></td></tr>
-  <tr><td>Verb Verb Caus|Pos|Aor|Past|A3sg</td><td>=&gt;</td><td>VERB</td><td>Negative=Pos|Number=Sing|Person=3|Tense=Aor,Past|Voice=Cau</td><td><em>taş_çıkartırdı, harekete_geçirirdi, iliştirirdi</em></td></tr>
-  <tr style="background:lightgray"><td>Verb Verb Caus|Pos|Cond|Aor|A3pl</td><td>=&gt;</td><td>VERB</td><td>Mood=Cnd|Negative=Pos|Number=Plur|Person=3|Tense=Aor|Voice=Cau</td><td><em>köşeye_sıkıştırırlarsa</em></td></tr>
-  <tr><td>Verb Verb Caus|Pos|Desr|A1sg</td><td>=&gt;</td><td>VERB</td><td>Mood=Des|Negative=Pos|Number=Sing|Person=1|Voice=Cau</td><td><em>uzatsam</em></td></tr>
-  <tr style="background:lightgray"><td>Verb Verb Caus|Pos|Desr|A3sg</td><td>=&gt;</td><td>VERB</td><td>Mood=Des|Negative=Pos|Number=Sing|Person=3|Voice=Cau</td><td><em>uzatsa</em></td></tr>
-  <tr><td>Verb Verb Caus|Pos|Fut|A1pl</td><td>=&gt;</td><td>VERB</td><td>Negative=Pos|Number=Plur|Person=1|Tense=Fut|Voice=Cau</td><td><em>artıracağız, biriktireceğiz, kazandıracağız</em></td></tr>
-  <tr style="background:lightgray"><td>Verb Verb Caus|Pos|Fut|A1sg</td><td>=&gt;</td><td>VERB</td><td>Negative=Pos|Number=Sing|Person=1|Tense=Fut|Voice=Cau</td><td><em>damlatacağım, dinleteceğim</em></td></tr>
-  <tr><td>Verb Verb Caus|Pos|Fut|A2sg</td><td>=&gt;</td><td>VERB</td><td>Negative=Pos|Number=Sing|Person=2|Tense=Fut|Voice=Cau</td><td><em>çıkaracaksın</em></td></tr>
-  <tr style="background:lightgray"><td>Verb Verb Caus|Pos|Fut|A3pl</td><td>=&gt;</td><td>VERB</td><td>Negative=Pos|Number=Plur|Person=3|Tense=Fut|Voice=Cau</td><td><em>üretecekler, alıştıracaklar</em></td></tr>
-  <tr><td>Verb Verb Caus|Pos|Fut|A3sg</td><td>=&gt;</td><td>VERB</td><td>Negative=Pos|Number=Sing|Person=3|Tense=Fut|Voice=Cau</td><td><em>rahatlatacak, değerlendirecek</em></td></tr>
-  <tr style="background:lightgray"><td>Verb Verb Caus|Pos|Fut|Cop|A3sg</td><td>=&gt;</td><td>VERB</td><td>Negative=Pos|Number=Sing|Person=3|Tense=Fut|VerbType=Cop|Voice=Cau</td><td><em>doğuracaktır</em></td></tr>
-  <tr><td>Verb Verb Caus|Pos|Fut|Past|A1sg</td><td>=&gt;</td><td>VERB</td><td>Negative=Pos|Number=Sing|Person=1|Tense=Fut,Past|Voice=Cau</td><td><em>çıkaracaktım</em></td></tr>
-  <tr style="background:lightgray"><td>Verb Verb Caus|Pos|Imp|A2sg</td><td>=&gt;</td><td>VERB</td><td>Mood=Imp|Negative=Pos|Number=Sing|Person=2|Voice=Cau</td><td><em>Bastır, andır, Yerleştir, yaptır, vardır</em></td></tr>
-  <tr><td>Verb Verb Caus|Pos|Imp|A3sg</td><td>=&gt;</td><td>VERB</td><td>Mood=Imp|Negative=Pos|Number=Sing|Person=3|Voice=Cau</td><td><em>kapatsın, inandırsın</em></td></tr>
-  <tr style="background:lightgray"><td>Verb Verb Caus|Pos|Narr</td><td>=&gt;</td><td>VERB</td><td>Negative=Pos|Tense=Nar|Voice=Cau</td><td><em>_</em></td></tr>
-  <tr><td>Verb Verb Caus|Pos|Narr|A1pl</td><td>=&gt;</td><td>VERB</td><td>Negative=Pos|Number=Plur|Person=1|Tense=Nar|Voice=Cau</td><td><em>uydurmuşuz</em></td></tr>
-  <tr style="background:lightgray"><td>Verb Verb Caus|Pos|Narr|A2sg</td><td>=&gt;</td><td>VERB</td><td>Negative=Pos|Number=Sing|Person=2|Tense=Nar|Voice=Cau</td><td><em>inandırmışsın</em></td></tr>
-  <tr><td>Verb Verb Caus|Pos|Narr|A3pl</td><td>=&gt;</td><td>VERB</td><td>Negative=Pos|Number=Plur|Person=3|Tense=Nar|Voice=Cau</td><td><em>çektirmişler, çıkarmışlar, doldurmuşlar</em></td></tr>
-  <tr style="background:lightgray"><td>Verb Verb Caus|Pos|Narr|A3sg</td><td>=&gt;</td><td>VERB</td><td>Negative=Pos|Number=Sing|Person=3|Tense=Nar|Voice=Cau</td><td><em>bastırmış, bitirmiş, çoğaltmış, yetiştirmiş, ulaştırmış</em></td></tr>
-  <tr><td>Verb Verb Caus|Pos|Narr|Cop|A3pl</td><td>=&gt;</td><td>VERB</td><td>Negative=Pos|Number=Plur|Person=3|Tense=Nar|VerbType=Cop|Voice=Cau</td><td><em>kabul_ettirmişlerdir</em></td></tr>
-  <tr style="background:lightgray"><td>Verb Verb Caus|Pos|Narr|Cop|A3sg</td><td>=&gt;</td><td>VERB</td><td>Negative=Pos|Number=Sing|Person=3|Tense=Nar|VerbType=Cop|Voice=Cau</td><td><em>doğurmuştur, indirmiştir</em></td></tr>
-  <tr><td>Verb Verb Caus|Pos|Narr|Past|A1pl</td><td>=&gt;</td><td>VERB</td><td>Negative=Pos|Number=Plur|Person=1|Tense=Nar,Past|Voice=Cau</td><td><em>tutturmuştuk</em></td></tr>
-  <tr style="background:lightgray"><td>Verb Verb Caus|Pos|Narr|Past|A1sg</td><td>=&gt;</td><td>VERB</td><td>Negative=Pos|Number=Sing|Person=1|Tense=Nar,Past|Voice=Cau</td><td><em>seslendirmiştim, azaltmıştım</em></td></tr>
-  <tr><td>Verb Verb Caus|Pos|Narr|Past|A2sg</td><td>=&gt;</td><td>VERB</td><td>Negative=Pos|Number=Sing|Person=2|Tense=Nar,Past|Voice=Cau</td><td><em>benzetmiştin</em></td></tr>
-  <tr style="background:lightgray"><td>Verb Verb Caus|Pos|Narr|Past|A3pl</td><td>=&gt;</td><td>VERB</td><td>Negative=Pos|Number=Plur|Person=3|Tense=Nar,Past|Voice=Cau</td><td><em></em></td></tr>
-  <tr><td>Verb Verb Caus|Pos|Narr|Past|A3sg</td><td>=&gt;</td><td>VERB</td><td>Negative=Pos|Number=Sing|Person=3|Tense=Nar,Past|Voice=Cau</td><td><em>getirtmişti, bitirmişti, hızlandırmıştı, azaltmıştı, anlatmıştı</em></td></tr>
-  <tr style="background:lightgray"><td>Verb Verb Caus|Pos|Neces|A3sg</td><td>=&gt;</td><td>VERB</td><td>Mood=Nec|Negative=Pos|Number=Sing|Person=3|Voice=Cau</td><td><em>gözden_geçirmeli, değiştirmeli</em></td></tr>
-  <tr><td>Verb Verb Caus|Pos|Opt|A1pl</td><td>=&gt;</td><td>VERB</td><td>Mood=Opt|Negative=Pos|Number=Plur|Person=1|Voice=Cau</td><td><em>çıkaralım, bitirelim, değiştirelim, saldıralım, sürdürelim</em></td></tr>
-  <tr style="background:lightgray"><td>Verb Verb Caus|Pos|Opt|A3pl</td><td>=&gt;</td><td>VERB</td><td>Mood=Opt|Negative=Pos|Number=Plur|Person=3|Voice=Cau</td><td><em>bastıralar</em></td></tr>
-  <tr><td>Verb Verb Caus|Pos|Opt|A3sg</td><td>=&gt;</td><td>VERB</td><td>Mood=Opt|Negative=Pos|Number=Sing|Person=3|Voice=Cau</td><td><em>patlata_patlata</em></td></tr>
-  <tr style="background:lightgray"><td>Verb Verb Caus|Pos|Past|A1pl</td><td>=&gt;</td><td>VERB</td><td>Negative=Pos|Number=Plur|Person=1|Tense=Past|Voice=Cau</td><td><em>kolaylaştırdık, geçirdik, bastırdık</em></td></tr>
-  <tr><td>Verb Verb Caus|Pos|Past|A1sg</td><td>=&gt;</td><td>VERB</td><td>Negative=Pos|Number=Sing|Person=1|Tense=Past|Voice=Cau</td><td><em>geçirdim, bitirdim, kapattım, artırdım, bastırdım</em></td></tr>
-  <tr style="background:lightgray"><td>Verb Verb Caus|Pos|Past|A2pl</td><td>=&gt;</td><td>VERB</td><td>Negative=Pos|Number=Plur|Person=2|Tense=Past|Voice=Cau</td><td><em>Kapattınız</em></td></tr>
-  <tr><td>Verb Verb Caus|Pos|Past|A3pl</td><td>=&gt;</td><td>VERB</td><td>Negative=Pos|Number=Plur|Person=3|Tense=Past|Voice=Cau</td><td><em>kapattılar, çıkarttılar, yerleştirdiler, Koşturdular, anımsattılar</em></td></tr>
-  <tr style="background:lightgray"><td>Verb Verb Caus|Pos|Past|A3sg</td><td>=&gt;</td><td>VERB</td><td>Negative=Pos|Number=Sing|Person=3|Tense=Past|Voice=Cau</td><td><em>belirtti, bildirdi, uzattı, indirdi, kapattı</em></td></tr>
-  <tr><td>Verb Verb Caus|Pos|Prog1|A1sg</td><td>=&gt;</td><td>VERB</td><td>Aspect=Prog|Negative=Pos|Number=Sing|Person=1|Voice=Cau</td><td><em>kapatıyorum</em></td></tr>
-  <tr style="background:lightgray"><td>Verb Verb Caus|Pos|Prog1|A2sg</td><td>=&gt;</td><td>VERB</td><td>Aspect=Prog|Negative=Pos|Number=Sing|Person=2|Voice=Cau</td><td><em>şaşırtıyorsun, çıkarıyorsun, çekiştiriyorsun</em></td></tr>
-  <tr><td>Verb Verb Caus|Pos|Prog1|A3pl</td><td>=&gt;</td><td>VERB</td><td>Aspect=Prog|Negative=Pos|Number=Plur|Person=3|Voice=Cau</td><td><em>dalgalandırıyorlar, belirtiyorlar</em></td></tr>
-  <tr style="background:lightgray"><td>Verb Verb Caus|Pos|Prog1|A3sg</td><td>=&gt;</td><td>VERB</td><td>Aspect=Prog|Negative=Pos|Number=Sing|Person=3|Voice=Cau</td><td><em>karıştırıyor, korkutuyor, geçiriyor, koparıyor, sınırlandırıyor</em></td></tr>
-  <tr><td>Verb Verb Caus|Pos|Prog1|Narr|A3sg</td><td>=&gt;</td><td>VERB</td><td>Aspect=Prog|Negative=Pos|Number=Sing|Person=3|Tense=Nar|Voice=Cau</td><td><em>sürdürüyormuş</em></td></tr>
-  <tr style="background:lightgray"><td>Verb Verb Caus|Pos|Prog1|Past|A1sg</td><td>=&gt;</td><td>VERB</td><td>Aspect=Prog|Negative=Pos|Number=Sing|Person=1|Tense=Past|Voice=Cau</td><td><em>çıkarıyordum, koşturuyordum, gezdiriyordum, sıkılaştırıyordum, kaçırıyordum</em></td></tr>
-  <tr><td>Verb Verb Caus|Pos|Prog1|Past|A2sg</td><td>=&gt;</td><td>VERB</td><td>Aspect=Prog|Negative=Pos|Number=Sing|Person=2|Tense=Past|Voice=Cau</td><td><em>çıkarıyordun</em></td></tr>
-  <tr style="background:lightgray"><td>Verb Verb Caus|Pos|Prog1|Past|A3pl</td><td>=&gt;</td><td>VERB</td><td>Aspect=Prog|Negative=Pos|Number=Plur|Person=3|Tense=Past|Voice=Cau</td><td><em>çıkartıyorlardı, geçiriyorlardı, çıkarıyorlardı</em></td></tr>
-  <tr><td>Verb Verb Caus|Pos|Prog1|Past|A3sg</td><td>=&gt;</td><td>VERB</td><td>Aspect=Prog|Negative=Pos|Number=Sing|Person=3|Tense=Past|Voice=Cau</td><td><em>azaltıyordu, karıştırıyordu, uzatıyordu, tıkıştırıyordu, göz_kamaştırıyordu</em></td></tr>
-  <tr style="background:lightgray"><td>Verb Verb Caus|Pos|Prog2|A3sg</td><td>=&gt;</td><td>VERB</td><td>Aspect=Prog|Negative=Pos|Number=Sing|Person=3|Voice=Cau</td><td><em>oluşturmakta, kamulaştırmada</em></td></tr>
-  <tr><td>Verb Verb Caus|Pos|Prog2|Cop|A3sg</td><td>=&gt;</td><td>VERB</td><td>Aspect=Prog|Negative=Pos|Number=Sing|Person=3|VerbType=Cop|Voice=Cau</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Verb Verb Caus|Neg</td><td>=&gt;</td><td>VERB</td><td>Polarity=Neg|Voice=Cau</td><td><em>_</em></td></tr>
+  <tr><td>Verb Verb Caus|Neg|Aor|A1sg</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=1|Polarity=Neg|Tense=Aor|Voice=Cau</td><td><em>ulaştırmam</em></td></tr>
+  <tr style="background:lightgray"><td>Verb Verb Caus|Neg|Aor|A3sg</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=3|Polarity=Neg|Tense=Aor|Voice=Cau</td><td><em>değiştirmez, bitirir_bitirmez, batırmaz, mekanlaştırmaz, çektirir_çektirmez</em></td></tr>
+  <tr><td>Verb Verb Caus|Neg|Aor|Past|A1sg</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=1|Polarity=Neg|Tense=Aor,Past|Voice=Cau</td><td><em>iki_ettirmezdim, kondurmazdım</em></td></tr>
+  <tr style="background:lightgray"><td>Verb Verb Caus|Neg|Desr|A3pl</td><td>=&gt;</td><td>VERB</td><td>Mood=Des|Number=Plur|Person=3|Polarity=Neg|Voice=Cau</td><td><em>oluşturmasalar</em></td></tr>
+  <tr><td>Verb Verb Caus|Neg|Imp|A2sg</td><td>=&gt;</td><td>VERB</td><td>Mood=Imp|Number=Sing|Person=2|Polarity=Neg|Voice=Cau</td><td><em>söyletme, Sulandırma, caydırma, karıştırma, yerleştirme</em></td></tr>
+  <tr style="background:lightgray"><td>Verb Verb Caus|Neg|Past|A1pl</td><td>=&gt;</td><td>VERB</td><td>Number=Plur|Person=1|Polarity=Neg|Tense=Past|Voice=Cau</td><td><em>aldırmadık, doldurmadık</em></td></tr>
+  <tr><td>Verb Verb Caus|Neg|Past|A3sg</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=3|Polarity=Neg|Tense=Past|Voice=Cau</td><td><em>değiştirmedi</em></td></tr>
+  <tr style="background:lightgray"><td>Verb Verb Caus|Pos</td><td>=&gt;</td><td>VERB</td><td>Polarity=Pos|Voice=Cau</td><td><em>_</em></td></tr>
+  <tr><td>Verb Verb Caus|Pos|Aor</td><td>=&gt;</td><td>VERB</td><td>Polarity=Pos|Tense=Aor|Voice=Cau</td><td><em>_</em></td></tr>
+  <tr style="background:lightgray"><td>Verb Verb Caus|Pos|Aor|A1pl</td><td>=&gt;</td><td>VERB</td><td>Number=Plur|Person=1|Polarity=Pos|Tense=Aor|Voice=Cau</td><td><em>yaptırırız, doldururuz, gezdiririz, ulaştırırız</em></td></tr>
+  <tr><td>Verb Verb Caus|Pos|Aor|A1sg</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=1|Polarity=Pos|Tense=Aor|Voice=Cau</td><td><em>değiştiririm</em></td></tr>
+  <tr style="background:lightgray"><td>Verb Verb Caus|Pos|Aor|A2pl</td><td>=&gt;</td><td>VERB</td><td>Number=Plur|Person=2|Polarity=Pos|Tense=Aor|Voice=Cau</td><td><em>bitirirsiniz</em></td></tr>
+  <tr><td>Verb Verb Caus|Pos|Aor|A3pl</td><td>=&gt;</td><td>VERB</td><td>Number=Plur|Person=3|Polarity=Pos|Tense=Aor|Voice=Cau</td><td><em>Bıktırırlar, üretirler</em></td></tr>
+  <tr style="background:lightgray"><td>Verb Verb Caus|Pos|Aor|A3sg</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=3|Polarity=Pos|Tense=Aor|Voice=Cau</td><td><em>gerektirir, hissettirir, şaşırtır, katılaştırır, Sakinleştirir</em></td></tr>
+  <tr><td>Verb Verb Caus|Pos|Aor|Past|A3sg</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=3|Polarity=Pos|Tense=Aor,Past|Voice=Cau</td><td><em>taş_çıkartırdı, harekete_geçirirdi, iliştirirdi</em></td></tr>
+  <tr style="background:lightgray"><td>Verb Verb Caus|Pos|Cond|Aor|A3pl</td><td>=&gt;</td><td>VERB</td><td>Mood=Cnd|Number=Plur|Person=3|Polarity=Pos|Tense=Aor|Voice=Cau</td><td><em>köşeye_sıkıştırırlarsa</em></td></tr>
+  <tr><td>Verb Verb Caus|Pos|Desr|A1sg</td><td>=&gt;</td><td>VERB</td><td>Mood=Des|Number=Sing|Person=1|Polarity=Pos|Voice=Cau</td><td><em>uzatsam</em></td></tr>
+  <tr style="background:lightgray"><td>Verb Verb Caus|Pos|Desr|A3sg</td><td>=&gt;</td><td>VERB</td><td>Mood=Des|Number=Sing|Person=3|Polarity=Pos|Voice=Cau</td><td><em>uzatsa</em></td></tr>
+  <tr><td>Verb Verb Caus|Pos|Fut|A1pl</td><td>=&gt;</td><td>VERB</td><td>Number=Plur|Person=1|Polarity=Pos|Tense=Fut|Voice=Cau</td><td><em>artıracağız, biriktireceğiz, kazandıracağız</em></td></tr>
+  <tr style="background:lightgray"><td>Verb Verb Caus|Pos|Fut|A1sg</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=1|Polarity=Pos|Tense=Fut|Voice=Cau</td><td><em>damlatacağım, dinleteceğim</em></td></tr>
+  <tr><td>Verb Verb Caus|Pos|Fut|A2sg</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=2|Polarity=Pos|Tense=Fut|Voice=Cau</td><td><em>çıkaracaksın</em></td></tr>
+  <tr style="background:lightgray"><td>Verb Verb Caus|Pos|Fut|A3pl</td><td>=&gt;</td><td>VERB</td><td>Number=Plur|Person=3|Polarity=Pos|Tense=Fut|Voice=Cau</td><td><em>üretecekler, alıştıracaklar</em></td></tr>
+  <tr><td>Verb Verb Caus|Pos|Fut|A3sg</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=3|Polarity=Pos|Tense=Fut|Voice=Cau</td><td><em>rahatlatacak, değerlendirecek</em></td></tr>
+  <tr style="background:lightgray"><td>Verb Verb Caus|Pos|Fut|Cop|A3sg</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=3|Polarity=Pos|Tense=Fut|VerbType=Cop|Voice=Cau</td><td><em>doğuracaktır</em></td></tr>
+  <tr><td>Verb Verb Caus|Pos|Fut|Past|A1sg</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=1|Polarity=Pos|Tense=Fut,Past|Voice=Cau</td><td><em>çıkaracaktım</em></td></tr>
+  <tr style="background:lightgray"><td>Verb Verb Caus|Pos|Imp|A2sg</td><td>=&gt;</td><td>VERB</td><td>Mood=Imp|Number=Sing|Person=2|Polarity=Pos|Voice=Cau</td><td><em>Bastır, andır, Yerleştir, yaptır, vardır</em></td></tr>
+  <tr><td>Verb Verb Caus|Pos|Imp|A3sg</td><td>=&gt;</td><td>VERB</td><td>Mood=Imp|Number=Sing|Person=3|Polarity=Pos|Voice=Cau</td><td><em>kapatsın, inandırsın</em></td></tr>
+  <tr style="background:lightgray"><td>Verb Verb Caus|Pos|Narr</td><td>=&gt;</td><td>VERB</td><td>Evident=Nfh|Polarity=Pos|Tense=Past|Voice=Cau</td><td><em>_</em></td></tr>
+  <tr><td>Verb Verb Caus|Pos|Narr|A1pl</td><td>=&gt;</td><td>VERB</td><td>Evident=Nfh|Number=Plur|Person=1|Polarity=Pos|Tense=Past|Voice=Cau</td><td><em>uydurmuşuz</em></td></tr>
+  <tr style="background:lightgray"><td>Verb Verb Caus|Pos|Narr|A2sg</td><td>=&gt;</td><td>VERB</td><td>Evident=Nfh|Number=Sing|Person=2|Polarity=Pos|Tense=Past|Voice=Cau</td><td><em>inandırmışsın</em></td></tr>
+  <tr><td>Verb Verb Caus|Pos|Narr|A3pl</td><td>=&gt;</td><td>VERB</td><td>Evident=Nfh|Number=Plur|Person=3|Polarity=Pos|Tense=Past|Voice=Cau</td><td><em>yazdırmışlardı</em></td></tr>
+  <tr style="background:lightgray"><td>Verb Verb Caus|Pos|Narr|A3sg</td><td>=&gt;</td><td>VERB</td><td>Evident=Nfh|Number=Sing|Person=3|Polarity=Pos|Tense=Past|Voice=Cau</td><td><em>bastırmış, bitirmiş, çoğaltmış, yetiştirmiş, ulaştırmış</em></td></tr>
+  <tr><td>Verb Verb Caus|Pos|Narr|Cop|A3pl</td><td>=&gt;</td><td>VERB</td><td>Evident=Nfh|Number=Plur|Person=3|Polarity=Pos|Tense=Past|VerbType=Cop|Voice=Cau</td><td><em>kabul_ettirmişlerdir</em></td></tr>
+  <tr style="background:lightgray"><td>Verb Verb Caus|Pos|Narr|Cop|A3sg</td><td>=&gt;</td><td>VERB</td><td>Evident=Nfh|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbType=Cop|Voice=Cau</td><td><em>doğurmuştur, indirmiştir</em></td></tr>
+  <tr><td>Verb Verb Caus|Pos|Narr|Past|A1pl</td><td>=&gt;</td><td>VERB</td><td>Evident=Fh,Nfh|Number=Plur|Person=1|Polarity=Pos|Tense=Past|Voice=Cau</td><td><em>tutturmuştuk</em></td></tr>
+  <tr style="background:lightgray"><td>Verb Verb Caus|Pos|Narr|Past|A1sg</td><td>=&gt;</td><td>VERB</td><td>Evident=Fh,Nfh|Number=Sing|Person=1|Polarity=Pos|Tense=Past|Voice=Cau</td><td><em>seslendirmiştim, azaltmıştım</em></td></tr>
+  <tr><td>Verb Verb Caus|Pos|Narr|Past|A2sg</td><td>=&gt;</td><td>VERB</td><td>Evident=Fh,Nfh|Number=Sing|Person=2|Polarity=Pos|Tense=Past|Voice=Cau</td><td><em>benzetmiştin</em></td></tr>
+  <tr style="background:lightgray"><td>Verb Verb Caus|Pos|Narr|Past|A3pl</td><td>=&gt;</td><td>VERB</td><td>Evident=Fh,Nfh|Number=Plur|Person=3|Polarity=Pos|Tense=Past|Voice=Cau</td><td><em></em></td></tr>
+  <tr><td>Verb Verb Caus|Pos|Narr|Past|A3sg</td><td>=&gt;</td><td>VERB</td><td>Evident=Fh,Nfh|Number=Sing|Person=3|Polarity=Pos|Tense=Past|Voice=Cau</td><td><em>getirtmişti, bitirmişti, hızlandırmıştı, azaltmıştı, anlatmıştı</em></td></tr>
+  <tr style="background:lightgray"><td>Verb Verb Caus|Pos|Neces|A3sg</td><td>=&gt;</td><td>VERB</td><td>Mood=Nec|Number=Sing|Person=3|Polarity=Pos|Voice=Cau</td><td><em>gözden_geçirmeli, değiştirmeli</em></td></tr>
+  <tr><td>Verb Verb Caus|Pos|Opt|A1pl</td><td>=&gt;</td><td>VERB</td><td>Mood=Opt|Number=Plur|Person=1|Polarity=Pos|Voice=Cau</td><td><em>çıkaralım, bitirelim, değiştirelim, saldıralım, sürdürelim</em></td></tr>
+  <tr style="background:lightgray"><td>Verb Verb Caus|Pos|Opt|A3pl</td><td>=&gt;</td><td>VERB</td><td>Mood=Opt|Number=Plur|Person=3|Polarity=Pos|Voice=Cau</td><td><em>bastıralar</em></td></tr>
+  <tr><td>Verb Verb Caus|Pos|Opt|A3sg</td><td>=&gt;</td><td>VERB</td><td>Mood=Opt|Number=Sing|Person=3|Polarity=Pos|Voice=Cau</td><td><em>patlata_patlata</em></td></tr>
+  <tr style="background:lightgray"><td>Verb Verb Caus|Pos|Past|A1pl</td><td>=&gt;</td><td>VERB</td><td>Number=Plur|Person=1|Polarity=Pos|Tense=Past|Voice=Cau</td><td><em>kolaylaştırdık, geçirdik, bastırdık</em></td></tr>
+  <tr><td>Verb Verb Caus|Pos|Past|A1sg</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=1|Polarity=Pos|Tense=Past|Voice=Cau</td><td><em>geçirdim, bitirdim, kapattım, artırdım, bastırdım</em></td></tr>
+  <tr style="background:lightgray"><td>Verb Verb Caus|Pos|Past|A2pl</td><td>=&gt;</td><td>VERB</td><td>Number=Plur|Person=2|Polarity=Pos|Tense=Past|Voice=Cau</td><td><em>Kapattınız</em></td></tr>
+  <tr><td>Verb Verb Caus|Pos|Past|A3pl</td><td>=&gt;</td><td>VERB</td><td>Number=Plur|Person=3|Polarity=Pos|Tense=Past|Voice=Cau</td><td><em>kapattılar, çıkarttılar, yerleştirdiler, Koşturdular, anımsattılar</em></td></tr>
+  <tr style="background:lightgray"><td>Verb Verb Caus|Pos|Past|A3sg</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=3|Polarity=Pos|Tense=Past|Voice=Cau</td><td><em>belirtti, bildirdi, uzattı, indirdi, kapattı</em></td></tr>
+  <tr><td>Verb Verb Caus|Pos|Prog1|A1sg</td><td>=&gt;</td><td>VERB</td><td>Aspect=Prog|Number=Sing|Person=1|Polarity=Pos|Voice=Cau</td><td><em>kapatıyorum</em></td></tr>
+  <tr style="background:lightgray"><td>Verb Verb Caus|Pos|Prog1|A2sg</td><td>=&gt;</td><td>VERB</td><td>Aspect=Prog|Number=Sing|Person=2|Polarity=Pos|Voice=Cau</td><td><em>şaşırtıyorsun, çıkarıyorsun, çekiştiriyorsun</em></td></tr>
+  <tr><td>Verb Verb Caus|Pos|Prog1|A3pl</td><td>=&gt;</td><td>VERB</td><td>Aspect=Prog|Number=Plur|Person=3|Polarity=Pos|Voice=Cau</td><td><em>dalgalandırıyorlar, belirtiyorlar</em></td></tr>
+  <tr style="background:lightgray"><td>Verb Verb Caus|Pos|Prog1|A3sg</td><td>=&gt;</td><td>VERB</td><td>Aspect=Prog|Number=Sing|Person=3|Polarity=Pos|Voice=Cau</td><td><em>karıştırıyor, korkutuyor, geçiriyor, koparıyor, sınırlandırıyor</em></td></tr>
+  <tr><td>Verb Verb Caus|Pos|Prog1|Narr|A3sg</td><td>=&gt;</td><td>VERB</td><td>Aspect=Prog|Evident=Nfh|Number=Sing|Person=3|Polarity=Pos|Tense=Past|Voice=Cau</td><td><em>sürdürüyormuş</em></td></tr>
+  <tr style="background:lightgray"><td>Verb Verb Caus|Pos|Prog1|Past|A1sg</td><td>=&gt;</td><td>VERB</td><td>Aspect=Prog|Number=Sing|Person=1|Polarity=Pos|Tense=Past|Voice=Cau</td><td><em>çıkarıyordum, koşturuyordum, gezdiriyordum, sıkılaştırıyordum, kaçırıyordum</em></td></tr>
+  <tr><td>Verb Verb Caus|Pos|Prog1|Past|A2sg</td><td>=&gt;</td><td>VERB</td><td>Aspect=Prog|Number=Sing|Person=2|Polarity=Pos|Tense=Past|Voice=Cau</td><td><em>çıkarıyordun</em></td></tr>
+  <tr style="background:lightgray"><td>Verb Verb Caus|Pos|Prog1|Past|A3pl</td><td>=&gt;</td><td>VERB</td><td>Aspect=Prog|Number=Plur|Person=3|Polarity=Pos|Tense=Past|Voice=Cau</td><td><em>çıkartıyorlardı, geçiriyorlardı, çıkarıyorlardı</em></td></tr>
+  <tr><td>Verb Verb Caus|Pos|Prog1|Past|A3sg</td><td>=&gt;</td><td>VERB</td><td>Aspect=Prog|Number=Sing|Person=3|Polarity=Pos|Tense=Past|Voice=Cau</td><td><em>azaltıyordu, karıştırıyordu, uzatıyordu, tıkıştırıyordu, göz_kamaştırıyordu</em></td></tr>
+  <tr style="background:lightgray"><td>Verb Verb Caus|Pos|Prog2|A3sg</td><td>=&gt;</td><td>VERB</td><td>Aspect=Prog|Number=Sing|Person=3|Polarity=Pos|Voice=Cau</td><td><em>oluşturmakta, kamulaştırmada</em></td></tr>
+  <tr><td>Verb Verb Caus|Pos|Prog2|Cop|A3sg</td><td>=&gt;</td><td>VERB</td><td>Aspect=Prog|Number=Sing|Person=3|Polarity=Pos|VerbType=Cop|Voice=Cau</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>Verb Verb Cond|A1sg</td><td>=&gt;</td><td>VERB</td><td>Mood=Cnd|Number=Sing|Person=1</td><td><em></em></td></tr>
   <tr><td>Verb Verb Cond|A3sg</td><td>=&gt;</td><td>VERB</td><td>Mood=Cnd|Number=Sing|Person=3</td><td><em>değilse</em></td></tr>
   <tr style="background:lightgray"><td>Verb Verb Cond|Aor|A3sg</td><td>=&gt;</td><td>VERB</td><td>Mood=Cnd|Number=Sing|Person=3|Tense=Aor</td><td><em></em></td></tr>
@@ -797,280 +798,280 @@ Tagset <tt>tr::conll</tt>, total 1112 tags.
   <tr style="background:lightgray"><td>Verb Verb Hastily</td><td>=&gt;</td><td>VERB</td><td>_</td><td><em>_</em></td></tr>
   <tr><td>Verb Verb Hastily|Aor|A3sg</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=3|Tense=Aor</td><td><em>giriverir, yapıverir, siliniverir</em></td></tr>
   <tr style="background:lightgray"><td>Verb Verb Hastily|Imp|A2sg</td><td>=&gt;</td><td>VERB</td><td>Mood=Imp|Number=Sing|Person=2</td><td><em>tamir_ediver</em></td></tr>
-  <tr><td>Verb Verb Hastily|Narr|Past|A2sg</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=2|Tense=Nar,Past</td><td><em>tıraşlayıvermiştin</em></td></tr>
-  <tr style="background:lightgray"><td>Verb Verb Hastily|Narr|Past|A3sg</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=3|Tense=Nar,Past</td><td><em>atıvermişti, terk_edivermişti</em></td></tr>
+  <tr><td>Verb Verb Hastily|Narr|Past|A2sg</td><td>=&gt;</td><td>VERB</td><td>Evident=Fh,Nfh|Number=Sing|Person=2|Tense=Past</td><td><em>tıraşlayıvermiştin</em></td></tr>
+  <tr style="background:lightgray"><td>Verb Verb Hastily|Narr|Past|A3sg</td><td>=&gt;</td><td>VERB</td><td>Evident=Fh,Nfh|Number=Sing|Person=3|Tense=Past</td><td><em>atıvermişti, terk_edivermişti</em></td></tr>
   <tr><td>Verb Verb Hastily|Past|A3sg</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=3|Tense=Past</td><td><em>alıverdi, doluverdi, gidiverdi</em></td></tr>
   <tr style="background:lightgray"><td>Verb Verb Hastily|Prog1|A3sg</td><td>=&gt;</td><td>VERB</td><td>Aspect=Prog|Number=Sing|Person=3</td><td><em>takılıveriyor</em></td></tr>
   <tr><td>Verb Verb Imp|A2sg</td><td>=&gt;</td><td>VERB</td><td>Mood=Imp|Number=Sing|Person=2</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>Verb Verb Imp|A3sg</td><td>=&gt;</td><td>VERB</td><td>Mood=Imp|Number=Sing|Person=3</td><td><em></em></td></tr>
-  <tr><td>Verb Verb Narr</td><td>=&gt;</td><td>VERB</td><td>Tense=Nar</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Verb Verb Narr|A1pl</td><td>=&gt;</td><td>VERB</td><td>Number=Plur|Person=1|Tense=Nar</td><td><em></em></td></tr>
-  <tr><td>Verb Verb Narr|A1sg</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=1|Tense=Nar</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Verb Verb Narr|A2sg</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=2|Tense=Nar</td><td><em></em></td></tr>
-  <tr><td>Verb Verb Narr|A3pl</td><td>=&gt;</td><td>VERB</td><td>Number=Plur|Person=3|Tense=Nar</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Verb Verb Narr|A3sg</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=3|Tense=Nar</td><td><em>değilmiş</em></td></tr>
-  <tr><td>Verb Verb Narr|Cop|A3sg</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=3|Tense=Nar|VerbType=Cop</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Verb Verb Narr|Past|A1pl</td><td>=&gt;</td><td>VERB</td><td>Number=Plur|Person=1|Tense=Nar,Past</td><td><em></em></td></tr>
-  <tr><td>Verb Verb Narr|Past|A2sg</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=2|Tense=Nar,Past</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Verb Verb Narr|Past|A3sg</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=3|Tense=Nar,Past</td><td><em></em></td></tr>
+  <tr><td>Verb Verb Narr</td><td>=&gt;</td><td>VERB</td><td>Evident=Nfh|Tense=Past</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Verb Verb Narr|A1pl</td><td>=&gt;</td><td>VERB</td><td>Evident=Nfh|Number=Plur|Person=1|Tense=Past</td><td><em></em></td></tr>
+  <tr><td>Verb Verb Narr|A1sg</td><td>=&gt;</td><td>VERB</td><td>Evident=Nfh|Number=Sing|Person=1|Tense=Past</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Verb Verb Narr|A2sg</td><td>=&gt;</td><td>VERB</td><td>Evident=Nfh|Number=Sing|Person=2|Tense=Past</td><td><em></em></td></tr>
+  <tr><td>Verb Verb Narr|A3pl</td><td>=&gt;</td><td>VERB</td><td>Evident=Nfh|Number=Plur|Person=3|Tense=Past</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Verb Verb Narr|A3sg</td><td>=&gt;</td><td>VERB</td><td>Evident=Nfh|Number=Sing|Person=3|Tense=Past</td><td><em>değilmiş</em></td></tr>
+  <tr><td>Verb Verb Narr|Cop|A3sg</td><td>=&gt;</td><td>VERB</td><td>Evident=Nfh|Number=Sing|Person=3|Tense=Past|VerbType=Cop</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Verb Verb Narr|Past|A1pl</td><td>=&gt;</td><td>VERB</td><td>Evident=Fh,Nfh|Number=Plur|Person=1|Tense=Past</td><td><em></em></td></tr>
+  <tr><td>Verb Verb Narr|Past|A2sg</td><td>=&gt;</td><td>VERB</td><td>Evident=Fh,Nfh|Number=Sing|Person=2|Tense=Past</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Verb Verb Narr|Past|A3sg</td><td>=&gt;</td><td>VERB</td><td>Evident=Fh,Nfh|Number=Sing|Person=3|Tense=Past</td><td><em></em></td></tr>
   <tr><td>Verb Verb Neces|A3sg</td><td>=&gt;</td><td>VERB</td><td>Mood=Nec|Number=Sing|Person=3</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>Verb Verb Neces|Cop|A3sg</td><td>=&gt;</td><td>VERB</td><td>Mood=Nec|Number=Sing|Person=3|VerbType=Cop</td><td><em></em></td></tr>
-  <tr><td>Verb Verb Neg</td><td>=&gt;</td><td>VERB</td><td>Negative=Neg</td><td><em>_</em></td></tr>
-  <tr style="background:lightgray"><td>Verb Verb Neg|Aor</td><td>=&gt;</td><td>VERB</td><td>Negative=Neg|Tense=Aor</td><td><em>_</em></td></tr>
-  <tr><td>Verb Verb Neg|Aor|A1pl</td><td>=&gt;</td><td>VERB</td><td>Negative=Neg|Number=Plur|Person=1|Tense=Aor</td><td><em>Kalmayız, sürtüşmeyiz, Yemeyiz, sapmayız</em></td></tr>
-  <tr style="background:lightgray"><td>Verb Verb Neg|Aor|A1sg</td><td>=&gt;</td><td>VERB</td><td>Negative=Neg|Number=Sing|Person=1|Tense=Aor</td><td><em>bilmem, içmem, anlamam, uymam, Olmam</em></td></tr>
-  <tr><td>Verb Verb Neg|Aor|A2pl</td><td>=&gt;</td><td>VERB</td><td>Negative=Neg|Number=Plur|Person=2|Tense=Aor</td><td><em>çekmezsiniz, beğenmezsiniz</em></td></tr>
-  <tr style="background:lightgray"><td>Verb Verb Neg|Aor|A2sg</td><td>=&gt;</td><td>VERB</td><td>Negative=Neg|Number=Sing|Person=2|Tense=Aor</td><td><em>Düşünmezsin</em></td></tr>
-  <tr><td>Verb Verb Neg|Aor|A3pl</td><td>=&gt;</td><td>VERB</td><td>Negative=Neg|Number=Plur|Person=3|Tense=Aor</td><td><em>ayırmazlar, yetinmezler, sormazlar, doğmazlar, saklamazlar</em></td></tr>
-  <tr style="background:lightgray"><td>Verb Verb Neg|Aor|A3sg</td><td>=&gt;</td><td>VERB</td><td>Negative=Neg|Number=Sing|Person=3|Tense=Aor</td><td><em>olmaz, ister_istemez, konuşmaz, gerekmez, girmez</em></td></tr>
-  <tr><td>Verb Verb Neg|Aor|Narr|A3sg</td><td>=&gt;</td><td>VERB</td><td>Negative=Neg|Number=Sing|Person=3|Tense=Aor,Nar</td><td><em>dokunmazmış, vermezmiş, olmazmış, inanmazmış</em></td></tr>
-  <tr style="background:lightgray"><td>Verb Verb Neg|Aor|Past|A1sg</td><td>=&gt;</td><td>VERB</td><td>Negative=Neg|Number=Sing|Person=1|Tense=Aor,Past</td><td><em>bulunmazdım</em></td></tr>
-  <tr><td>Verb Verb Neg|Aor|Past|A3pl</td><td>=&gt;</td><td>VERB</td><td>Negative=Neg|Number=Plur|Person=3|Tense=Aor,Past</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Verb Verb Neg|Aor|Past|A3sg</td><td>=&gt;</td><td>VERB</td><td>Negative=Neg|Number=Sing|Person=3|Tense=Aor,Past</td><td><em>istemezdi, kaçmazdı, şaşmazdı, gerek_kalmazdı, getirmezdi</em></td></tr>
-  <tr><td>Verb Verb Neg|Cond|Aor|A1pl</td><td>=&gt;</td><td>VERB</td><td>Mood=Cnd|Negative=Neg|Number=Plur|Person=1|Tense=Aor</td><td><em>saymazsak</em></td></tr>
-  <tr style="background:lightgray"><td>Verb Verb Neg|Cond|Aor|A1sg</td><td>=&gt;</td><td>VERB</td><td>Mood=Cnd|Negative=Neg|Number=Sing|Person=1|Tense=Aor</td><td><em></em></td></tr>
-  <tr><td>Verb Verb Neg|Cond|Aor|A2pl</td><td>=&gt;</td><td>VERB</td><td>Mood=Cnd|Negative=Neg|Number=Plur|Person=2|Tense=Aor</td><td><em>şarlamazsanız</em></td></tr>
-  <tr style="background:lightgray"><td>Verb Verb Neg|Cond|Aor|A3sg</td><td>=&gt;</td><td>VERB</td><td>Mood=Cnd|Negative=Neg|Number=Sing|Person=3|Tense=Aor</td><td><em>olmazsa, gelmezse</em></td></tr>
-  <tr><td>Verb Verb Neg|Cond|Fut|A3sg</td><td>=&gt;</td><td>VERB</td><td>Mood=Cnd|Negative=Neg|Number=Sing|Person=3|Tense=Fut</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Verb Verb Neg|Cond|Past|A2pl</td><td>=&gt;</td><td>VERB</td><td>Mood=Cnd|Negative=Neg|Number=Plur|Person=2|Tense=Past</td><td><em>Yaşamadınızsa</em></td></tr>
-  <tr><td>Verb Verb Neg|Cond|Prog1|A1sg</td><td>=&gt;</td><td>VERB</td><td>Aspect=Prog|Mood=Cnd|Negative=Neg|Number=Sing|Person=1</td><td><em>Yanılmıyorsam</em></td></tr>
-  <tr style="background:lightgray"><td>Verb Verb Neg|Cond|Prog1|A2pl</td><td>=&gt;</td><td>VERB</td><td>Aspect=Prog|Mood=Cnd|Negative=Neg|Number=Plur|Person=2</td><td><em>İnanmıyorsanız</em></td></tr>
-  <tr><td>Verb Verb Neg|Cond|Prog1|A3pl</td><td>=&gt;</td><td>VERB</td><td>Aspect=Prog|Mood=Cnd|Negative=Neg|Number=Plur|Person=3</td><td><em>onamıyorlarsa</em></td></tr>
-  <tr style="background:lightgray"><td>Verb Verb Neg|Cond|Prog1|A3sg</td><td>=&gt;</td><td>VERB</td><td>Aspect=Prog|Mood=Cnd|Negative=Neg|Number=Sing|Person=3</td><td><em>sergilemiyorsa</em></td></tr>
-  <tr><td>Verb Verb Neg|Desr|A1pl</td><td>=&gt;</td><td>VERB</td><td>Mood=Des|Negative=Neg|Number=Plur|Person=1</td><td><em>bilmesek</em></td></tr>
-  <tr style="background:lightgray"><td>Verb Verb Neg|Desr|A1sg</td><td>=&gt;</td><td>VERB</td><td>Mood=Des|Negative=Neg|Number=Sing|Person=1</td><td><em>olmasam</em></td></tr>
-  <tr><td>Verb Verb Neg|Desr|A2pl</td><td>=&gt;</td><td>VERB</td><td>Mood=Des|Negative=Neg|Number=Plur|Person=2</td><td><em>olmasanız, konuşmasanız</em></td></tr>
-  <tr style="background:lightgray"><td>Verb Verb Neg|Desr|A2sg</td><td>=&gt;</td><td>VERB</td><td>Mood=Des|Negative=Neg|Number=Sing|Person=2</td><td><em>İstemesen</em></td></tr>
-  <tr><td>Verb Verb Neg|Desr|A3pl</td><td>=&gt;</td><td>VERB</td><td>Mood=Des|Negative=Neg|Number=Plur|Person=3</td><td><em>bilmeseler, farkında_olmasalar, anlamasalar, vermeseler, ilgilenmeseler</em></td></tr>
-  <tr style="background:lightgray"><td>Verb Verb Neg|Desr|A3sg</td><td>=&gt;</td><td>VERB</td><td>Mood=Des|Negative=Neg|Number=Sing|Person=3</td><td><em>istemese</em></td></tr>
-  <tr><td>Verb Verb Neg|Desr|Past|A1sg</td><td>=&gt;</td><td>VERB</td><td>Mood=Des|Negative=Neg|Number=Sing|Person=1|Tense=Past</td><td><em>duymasaydım</em></td></tr>
-  <tr style="background:lightgray"><td>Verb Verb Neg|Desr|Past|A3sg</td><td>=&gt;</td><td>VERB</td><td>Mood=Des|Negative=Neg|Number=Sing|Person=3|Tense=Past</td><td><em>aramasaydı, ölmeseydi</em></td></tr>
-  <tr><td>Verb Verb Neg|Fut|A1pl</td><td>=&gt;</td><td>VERB</td><td>Negative=Neg|Number=Plur|Person=1|Tense=Fut</td><td><em>olmayacağız</em></td></tr>
-  <tr style="background:lightgray"><td>Verb Verb Neg|Fut|A1sg</td><td>=&gt;</td><td>VERB</td><td>Negative=Neg|Number=Sing|Person=1|Tense=Fut</td><td><em>demeyeceğim, söylemeyeceğim, sevişmeyeceğim</em></td></tr>
-  <tr><td>Verb Verb Neg|Fut|A2sg</td><td>=&gt;</td><td>VERB</td><td>Negative=Neg|Number=Sing|Person=2|Tense=Fut</td><td><em>İnanmayacaksın</em></td></tr>
-  <tr style="background:lightgray"><td>Verb Verb Neg|Fut|A3sg</td><td>=&gt;</td><td>VERB</td><td>Negative=Neg|Number=Sing|Person=3|Tense=Fut</td><td><em>olmayacak, etkilemeyecek, altında_olmayacak, eskimeyecek, gitmeyecek</em></td></tr>
-  <tr><td>Verb Verb Neg|Fut|Cop|A3sg</td><td>=&gt;</td><td>VERB</td><td>Negative=Neg|Number=Sing|Person=3|Tense=Fut|VerbType=Cop</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Verb Verb Neg|Fut|Narr|A3sg</td><td>=&gt;</td><td>VERB</td><td>Negative=Neg|Number=Sing|Person=3|Tense=Fut,Nar</td><td><em>bitmeyecekmiş</em></td></tr>
-  <tr><td>Verb Verb Neg|Fut|Past|A1sg</td><td>=&gt;</td><td>VERB</td><td>Negative=Neg|Number=Sing|Person=1|Tense=Fut,Past</td><td><em>çalmayacaktım, söylemeyecektim, öpmeyecektim, anlatmayacaktım</em></td></tr>
-  <tr style="background:lightgray"><td>Verb Verb Neg|Fut|Past|A3sg</td><td>=&gt;</td><td>VERB</td><td>Negative=Neg|Number=Sing|Person=3|Tense=Fut,Past</td><td><em>olmayacaktı</em></td></tr>
-  <tr><td>Verb Verb Neg|Imp|A2pl</td><td>=&gt;</td><td>VERB</td><td>Mood=Imp|Negative=Neg|Number=Plur|Person=2</td><td><em>demeyin, bırakmayın, almayın, etmeyin, geçmeyin</em></td></tr>
-  <tr style="background:lightgray"><td>Verb Verb Neg|Imp|A2sg</td><td>=&gt;</td><td>VERB</td><td>Mood=Imp|Negative=Neg|Number=Sing|Person=2</td><td><em>anlama, yeme, açma, Aldırma, merak_etme</em></td></tr>
-  <tr><td>Verb Verb Neg|Imp|A3sg</td><td>=&gt;</td><td>VERB</td><td>Mood=Imp|Negative=Neg|Number=Sing|Person=3</td><td><em>olmasın, alınmasın, koşmasın, Karışmasın, içmesin</em></td></tr>
-  <tr style="background:lightgray"><td>Verb Verb Neg|Narr</td><td>=&gt;</td><td>VERB</td><td>Negative=Neg|Tense=Nar</td><td><em>_</em></td></tr>
-  <tr><td>Verb Verb Neg|Narr|A1pl</td><td>=&gt;</td><td>VERB</td><td>Negative=Neg|Number=Plur|Person=1|Tense=Nar</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Verb Verb Neg|Narr|A1sg</td><td>=&gt;</td><td>VERB</td><td>Negative=Neg|Number=Sing|Person=1|Tense=Nar</td><td><em>yazmamışım</em></td></tr>
-  <tr><td>Verb Verb Neg|Narr|A2sg</td><td>=&gt;</td><td>VERB</td><td>Negative=Neg|Number=Sing|Person=2|Tense=Nar</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Verb Verb Neg|Narr|A3pl</td><td>=&gt;</td><td>VERB</td><td>Negative=Neg|Number=Plur|Person=3|Tense=Nar</td><td><em>acımamışlar, Yazmamışlar, yanmamışlar</em></td></tr>
-  <tr><td>Verb Verb Neg|Narr|A3sg</td><td>=&gt;</td><td>VERB</td><td>Negative=Neg|Number=Sing|Person=3|Tense=Nar</td><td><em>kalmamış, olmamış, çalışmamış, sevmemiş, Evlenmemiş</em></td></tr>
-  <tr style="background:lightgray"><td>Verb Verb Neg|Narr|Cop|A3sg</td><td>=&gt;</td><td>VERB</td><td>Negative=Neg|Number=Sing|Person=3|Tense=Nar|VerbType=Cop</td><td><em>girmemiştir, görmemiştir</em></td></tr>
-  <tr><td>Verb Verb Neg|Narr|Past|A1pl</td><td>=&gt;</td><td>VERB</td><td>Negative=Neg|Number=Plur|Person=1|Tense=Nar,Past</td><td><em>konuşmamıştık</em></td></tr>
-  <tr style="background:lightgray"><td>Verb Verb Neg|Narr|Past|A1sg</td><td>=&gt;</td><td>VERB</td><td>Negative=Neg|Number=Sing|Person=1|Tense=Nar,Past</td><td><em>düşünmemiştim, diretmemiştim</em></td></tr>
-  <tr><td>Verb Verb Neg|Narr|Past|A3pl</td><td>=&gt;</td><td>VERB</td><td>Negative=Neg|Number=Plur|Person=3|Tense=Nar,Past</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Verb Verb Neg|Narr|Past|A3sg</td><td>=&gt;</td><td>VERB</td><td>Negative=Neg|Number=Sing|Person=3|Tense=Nar,Past</td><td><em>atmamıştı, olmamıştı, ciddiye_almamıştı, öğrenmemişti, gelmemişti</em></td></tr>
-  <tr><td>Verb Verb Neg|Neces|Past|A2pl</td><td>=&gt;</td><td>VERB</td><td>Mood=Nec|Negative=Neg|Number=Plur|Person=2|Tense=Past</td><td><em>vermemeliydiniz</em></td></tr>
-  <tr style="background:lightgray"><td>Verb Verb Neg|Opt|A1pl</td><td>=&gt;</td><td>VERB</td><td>Mood=Opt|Negative=Neg|Number=Plur|Person=1</td><td><em>yemeyelim, etmeyelim, Ayırmayalım, tartışmayalım, yazmayalım</em></td></tr>
-  <tr><td>Verb Verb Neg|Opt|A1sg</td><td>=&gt;</td><td>VERB</td><td>Mood=Opt|Negative=Neg|Number=Sing|Person=1</td><td><em>doymayayım, duymayayım</em></td></tr>
-  <tr style="background:lightgray"><td>Verb Verb Neg|Opt|A3sg</td><td>=&gt;</td><td>VERB</td><td>Mood=Opt|Negative=Neg|Number=Sing|Person=3</td><td><em>zorlamaya, almaya, vurmaya, ağlamaya, olmaya</em></td></tr>
-  <tr><td>Verb Verb Neg|Past|A1pl</td><td>=&gt;</td><td>VERB</td><td>Negative=Neg|Number=Plur|Person=1|Tense=Past</td><td><em>hak_etmedik, şaşırmadık, kullanmadık, kalmadık, Demedik</em></td></tr>
-  <tr style="background:lightgray"><td>Verb Verb Neg|Past|A1sg</td><td>=&gt;</td><td>VERB</td><td>Negative=Neg|Number=Sing|Person=1|Tense=Past</td><td><em>anlamadım, rastlamadım, okumadım, Unutmadım, inanmadım</em></td></tr>
-  <tr><td>Verb Verb Neg|Past|A2pl</td><td>=&gt;</td><td>VERB</td><td>Negative=Neg|Number=Plur|Person=2|Tense=Past</td><td><em>Tanışmadınız, yatmadınız, kulak_asmadınız, istemediniz</em></td></tr>
-  <tr style="background:lightgray"><td>Verb Verb Neg|Past|A2sg</td><td>=&gt;</td><td>VERB</td><td>Negative=Neg|Number=Sing|Person=2|Tense=Past</td><td><em>bakmadın, yanaşmadın, denemedin</em></td></tr>
-  <tr><td>Verb Verb Neg|Past|A3pl</td><td>=&gt;</td><td>VERB</td><td>Negative=Neg|Number=Plur|Person=3|Tense=Past</td><td><em>kabul_etmediler, ciddiye_almadılar</em></td></tr>
-  <tr style="background:lightgray"><td>Verb Verb Neg|Past|A3sg</td><td>=&gt;</td><td>VERB</td><td>Negative=Neg|Number=Sing|Person=3|Tense=Past</td><td><em>olmadı, geçmedi, kalmadı, başınıza_gelmedi, girmedi</em></td></tr>
-  <tr><td>Verb Verb Neg|Prog1|A1pl</td><td>=&gt;</td><td>VERB</td><td>Aspect=Prog|Negative=Neg|Number=Plur|Person=1</td><td><em>istemiyoruz, bilmiyoruz, anlamıyoruz, hatırlamıyoruz, vermiyoruz</em></td></tr>
-  <tr style="background:lightgray"><td>Verb Verb Neg|Prog1|A1sg</td><td>=&gt;</td><td>VERB</td><td>Aspect=Prog|Negative=Neg|Number=Sing|Person=1</td><td><em>bilmiyorum, istemiyorum, anımsamıyorum, inanmıyorum, hatırlamıyorum</em></td></tr>
-  <tr><td>Verb Verb Neg|Prog1|A2pl</td><td>=&gt;</td><td>VERB</td><td>Aspect=Prog|Negative=Neg|Number=Plur|Person=2</td><td><em>izin_vermiyorsunuz</em></td></tr>
-  <tr style="background:lightgray"><td>Verb Verb Neg|Prog1|A2sg</td><td>=&gt;</td><td>VERB</td><td>Aspect=Prog|Negative=Neg|Number=Sing|Person=2</td><td><em>düşünmüyorsun, anlamıyorsun</em></td></tr>
-  <tr><td>Verb Verb Neg|Prog1|A3pl</td><td>=&gt;</td><td>VERB</td><td>Aspect=Prog|Negative=Neg|Number=Plur|Person=3</td><td><em>vermiyorlar, razı_olmuyorlar, Görmüyorlar, bırakmıyorlar, aldırmıyorlar</em></td></tr>
-  <tr style="background:lightgray"><td>Verb Verb Neg|Prog1|A3sg</td><td>=&gt;</td><td>VERB</td><td>Aspect=Prog|Negative=Neg|Number=Sing|Person=3</td><td><em>olmuyor, tutmuyor, bilmiyor, gerekmiyor, benzemiyor</em></td></tr>
-  <tr><td>Verb Verb Neg|Prog1|Cop|A3sg</td><td>=&gt;</td><td>VERB</td><td>Aspect=Prog|Negative=Neg|Number=Sing|Person=3|VerbType=Cop</td><td><em>merak_etmiyordur</em></td></tr>
-  <tr style="background:lightgray"><td>Verb Verb Neg|Prog1|Narr|A3pl</td><td>=&gt;</td><td>VERB</td><td>Aspect=Prog|Negative=Neg|Number=Plur|Person=3|Tense=Nar</td><td><em>anlamıyorlarmış</em></td></tr>
-  <tr><td>Verb Verb Neg|Prog1|Past|A1sg</td><td>=&gt;</td><td>VERB</td><td>Aspect=Prog|Negative=Neg|Number=Sing|Person=1|Tense=Past</td><td><em>Üşümüyordum, anlamıyordum, bilmiyordum, susmuyordum, ölmüyordum</em></td></tr>
-  <tr style="background:lightgray"><td>Verb Verb Neg|Prog1|Past|A2sg</td><td>=&gt;</td><td>VERB</td><td>Aspect=Prog|Negative=Neg|Number=Sing|Person=2|Tense=Past</td><td><em>benzemiyordun</em></td></tr>
-  <tr><td>Verb Verb Neg|Prog1|Past|A3pl</td><td>=&gt;</td><td>VERB</td><td>Aspect=Prog|Negative=Neg|Number=Plur|Person=3|Tense=Past</td><td><em>etmiyorlardı, Duymuyorlardı</em></td></tr>
-  <tr style="background:lightgray"><td>Verb Verb Neg|Prog1|Past|A3sg</td><td>=&gt;</td><td>VERB</td><td>Aspect=Prog|Negative=Neg|Number=Sing|Person=3|Tense=Past</td><td><em>bilmiyordu, istemiyordu, göstermiyordu, fark_etmiyordu, ileri_gitmiyordu</em></td></tr>
-  <tr><td>Verb Verb Neg|Prog2|Cop|A3sg</td><td>=&gt;</td><td>VERB</td><td>Aspect=Prog|Negative=Neg|Number=Sing|Person=3|VerbType=Cop</td><td><em></em></td></tr>
+  <tr><td>Verb Verb Neg</td><td>=&gt;</td><td>VERB</td><td>Polarity=Neg</td><td><em>_</em></td></tr>
+  <tr style="background:lightgray"><td>Verb Verb Neg|Aor</td><td>=&gt;</td><td>VERB</td><td>Polarity=Neg|Tense=Aor</td><td><em>_</em></td></tr>
+  <tr><td>Verb Verb Neg|Aor|A1pl</td><td>=&gt;</td><td>VERB</td><td>Number=Plur|Person=1|Polarity=Neg|Tense=Aor</td><td><em>Kalmayız, sürtüşmeyiz, Yemeyiz, sapmayız</em></td></tr>
+  <tr style="background:lightgray"><td>Verb Verb Neg|Aor|A1sg</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=1|Polarity=Neg|Tense=Aor</td><td><em>bilmem, içmem, anlamam, uymam, Olmam</em></td></tr>
+  <tr><td>Verb Verb Neg|Aor|A2pl</td><td>=&gt;</td><td>VERB</td><td>Number=Plur|Person=2|Polarity=Neg|Tense=Aor</td><td><em>çekmezsiniz, beğenmezsiniz</em></td></tr>
+  <tr style="background:lightgray"><td>Verb Verb Neg|Aor|A2sg</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=2|Polarity=Neg|Tense=Aor</td><td><em>Düşünmezsin</em></td></tr>
+  <tr><td>Verb Verb Neg|Aor|A3pl</td><td>=&gt;</td><td>VERB</td><td>Number=Plur|Person=3|Polarity=Neg|Tense=Aor</td><td><em>ayırmazlar, yetinmezler, sormazlar, doğmazlar, saklamazlar</em></td></tr>
+  <tr style="background:lightgray"><td>Verb Verb Neg|Aor|A3sg</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=3|Polarity=Neg|Tense=Aor</td><td><em>olmaz, ister_istemez, konuşmaz, gerekmez, girmez</em></td></tr>
+  <tr><td>Verb Verb Neg|Aor|Narr|A3sg</td><td>=&gt;</td><td>VERB</td><td>Evident=Nfh|Number=Sing|Person=3|Polarity=Neg|Tense=Aor</td><td><em>dokunmazmış, vermezmiş, olmazmış, inanmazmış</em></td></tr>
+  <tr style="background:lightgray"><td>Verb Verb Neg|Aor|Past|A1sg</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=1|Polarity=Neg|Tense=Aor,Past</td><td><em>bulunmazdım</em></td></tr>
+  <tr><td>Verb Verb Neg|Aor|Past|A3pl</td><td>=&gt;</td><td>VERB</td><td>Number=Plur|Person=3|Polarity=Neg|Tense=Aor,Past</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Verb Verb Neg|Aor|Past|A3sg</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=3|Polarity=Neg|Tense=Aor,Past</td><td><em>istemezdi, kaçmazdı, şaşmazdı, gerek_kalmazdı, getirmezdi</em></td></tr>
+  <tr><td>Verb Verb Neg|Cond|Aor|A1pl</td><td>=&gt;</td><td>VERB</td><td>Mood=Cnd|Number=Plur|Person=1|Polarity=Neg|Tense=Aor</td><td><em>saymazsak</em></td></tr>
+  <tr style="background:lightgray"><td>Verb Verb Neg|Cond|Aor|A1sg</td><td>=&gt;</td><td>VERB</td><td>Mood=Cnd|Number=Sing|Person=1|Polarity=Neg|Tense=Aor</td><td><em></em></td></tr>
+  <tr><td>Verb Verb Neg|Cond|Aor|A2pl</td><td>=&gt;</td><td>VERB</td><td>Mood=Cnd|Number=Plur|Person=2|Polarity=Neg|Tense=Aor</td><td><em>şarlamazsanız</em></td></tr>
+  <tr style="background:lightgray"><td>Verb Verb Neg|Cond|Aor|A3sg</td><td>=&gt;</td><td>VERB</td><td>Mood=Cnd|Number=Sing|Person=3|Polarity=Neg|Tense=Aor</td><td><em>olmazsa, gelmezse</em></td></tr>
+  <tr><td>Verb Verb Neg|Cond|Fut|A3sg</td><td>=&gt;</td><td>VERB</td><td>Mood=Cnd|Number=Sing|Person=3|Polarity=Neg|Tense=Fut</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Verb Verb Neg|Cond|Past|A2pl</td><td>=&gt;</td><td>VERB</td><td>Mood=Cnd|Number=Plur|Person=2|Polarity=Neg|Tense=Past</td><td><em>Yaşamadınızsa</em></td></tr>
+  <tr><td>Verb Verb Neg|Cond|Prog1|A1sg</td><td>=&gt;</td><td>VERB</td><td>Aspect=Prog|Mood=Cnd|Number=Sing|Person=1|Polarity=Neg</td><td><em>Yanılmıyorsam</em></td></tr>
+  <tr style="background:lightgray"><td>Verb Verb Neg|Cond|Prog1|A2pl</td><td>=&gt;</td><td>VERB</td><td>Aspect=Prog|Mood=Cnd|Number=Plur|Person=2|Polarity=Neg</td><td><em>İnanmıyorsanız</em></td></tr>
+  <tr><td>Verb Verb Neg|Cond|Prog1|A3pl</td><td>=&gt;</td><td>VERB</td><td>Aspect=Prog|Mood=Cnd|Number=Plur|Person=3|Polarity=Neg</td><td><em>onamıyorlarsa</em></td></tr>
+  <tr style="background:lightgray"><td>Verb Verb Neg|Cond|Prog1|A3sg</td><td>=&gt;</td><td>VERB</td><td>Aspect=Prog|Mood=Cnd|Number=Sing|Person=3|Polarity=Neg</td><td><em>sergilemiyorsa</em></td></tr>
+  <tr><td>Verb Verb Neg|Desr|A1pl</td><td>=&gt;</td><td>VERB</td><td>Mood=Des|Number=Plur|Person=1|Polarity=Neg</td><td><em>bilmesek</em></td></tr>
+  <tr style="background:lightgray"><td>Verb Verb Neg|Desr|A1sg</td><td>=&gt;</td><td>VERB</td><td>Mood=Des|Number=Sing|Person=1|Polarity=Neg</td><td><em>olmasam</em></td></tr>
+  <tr><td>Verb Verb Neg|Desr|A2pl</td><td>=&gt;</td><td>VERB</td><td>Mood=Des|Number=Plur|Person=2|Polarity=Neg</td><td><em>olmasanız, konuşmasanız</em></td></tr>
+  <tr style="background:lightgray"><td>Verb Verb Neg|Desr|A2sg</td><td>=&gt;</td><td>VERB</td><td>Mood=Des|Number=Sing|Person=2|Polarity=Neg</td><td><em>İstemesen</em></td></tr>
+  <tr><td>Verb Verb Neg|Desr|A3pl</td><td>=&gt;</td><td>VERB</td><td>Mood=Des|Number=Plur|Person=3|Polarity=Neg</td><td><em>bilmeseler, farkında_olmasalar, anlamasalar, vermeseler, ilgilenmeseler</em></td></tr>
+  <tr style="background:lightgray"><td>Verb Verb Neg|Desr|A3sg</td><td>=&gt;</td><td>VERB</td><td>Mood=Des|Number=Sing|Person=3|Polarity=Neg</td><td><em>istemese</em></td></tr>
+  <tr><td>Verb Verb Neg|Desr|Past|A1sg</td><td>=&gt;</td><td>VERB</td><td>Mood=Des|Number=Sing|Person=1|Polarity=Neg|Tense=Past</td><td><em>duymasaydım</em></td></tr>
+  <tr style="background:lightgray"><td>Verb Verb Neg|Desr|Past|A3sg</td><td>=&gt;</td><td>VERB</td><td>Mood=Des|Number=Sing|Person=3|Polarity=Neg|Tense=Past</td><td><em>aramasaydı, ölmeseydi</em></td></tr>
+  <tr><td>Verb Verb Neg|Fut|A1pl</td><td>=&gt;</td><td>VERB</td><td>Number=Plur|Person=1|Polarity=Neg|Tense=Fut</td><td><em>olmayacağız</em></td></tr>
+  <tr style="background:lightgray"><td>Verb Verb Neg|Fut|A1sg</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=1|Polarity=Neg|Tense=Fut</td><td><em>demeyeceğim, söylemeyeceğim, sevişmeyeceğim</em></td></tr>
+  <tr><td>Verb Verb Neg|Fut|A2sg</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=2|Polarity=Neg|Tense=Fut</td><td><em>İnanmayacaksın</em></td></tr>
+  <tr style="background:lightgray"><td>Verb Verb Neg|Fut|A3sg</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=3|Polarity=Neg|Tense=Fut</td><td><em>olmayacak, etkilemeyecek, altında_olmayacak, eskimeyecek, gitmeyecek</em></td></tr>
+  <tr><td>Verb Verb Neg|Fut|Cop|A3sg</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=3|Polarity=Neg|Tense=Fut|VerbType=Cop</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Verb Verb Neg|Fut|Narr|A3sg</td><td>=&gt;</td><td>VERB</td><td>Evident=Nfh|Number=Sing|Person=3|Polarity=Neg|Tense=Fut</td><td><em>bitmeyecekmiş</em></td></tr>
+  <tr><td>Verb Verb Neg|Fut|Past|A1sg</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=1|Polarity=Neg|Tense=Fut,Past</td><td><em>çalmayacaktım, söylemeyecektim, öpmeyecektim, anlatmayacaktım</em></td></tr>
+  <tr style="background:lightgray"><td>Verb Verb Neg|Fut|Past|A3sg</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=3|Polarity=Neg|Tense=Fut,Past</td><td><em>olmayacaktı</em></td></tr>
+  <tr><td>Verb Verb Neg|Imp|A2pl</td><td>=&gt;</td><td>VERB</td><td>Mood=Imp|Number=Plur|Person=2|Polarity=Neg</td><td><em>demeyin, bırakmayın, almayın, etmeyin, geçmeyin</em></td></tr>
+  <tr style="background:lightgray"><td>Verb Verb Neg|Imp|A2sg</td><td>=&gt;</td><td>VERB</td><td>Mood=Imp|Number=Sing|Person=2|Polarity=Neg</td><td><em>anlama, yeme, açma, Aldırma, merak_etme</em></td></tr>
+  <tr><td>Verb Verb Neg|Imp|A3sg</td><td>=&gt;</td><td>VERB</td><td>Mood=Imp|Number=Sing|Person=3|Polarity=Neg</td><td><em>olmasın, alınmasın, koşmasın, Karışmasın, içmesin</em></td></tr>
+  <tr style="background:lightgray"><td>Verb Verb Neg|Narr</td><td>=&gt;</td><td>VERB</td><td>Evident=Nfh|Polarity=Neg|Tense=Past</td><td><em>_</em></td></tr>
+  <tr><td>Verb Verb Neg|Narr|A1pl</td><td>=&gt;</td><td>VERB</td><td>Evident=Nfh|Number=Plur|Person=1|Polarity=Neg|Tense=Past</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Verb Verb Neg|Narr|A1sg</td><td>=&gt;</td><td>VERB</td><td>Evident=Nfh|Number=Sing|Person=1|Polarity=Neg|Tense=Past</td><td><em>yazmamışım</em></td></tr>
+  <tr><td>Verb Verb Neg|Narr|A2sg</td><td>=&gt;</td><td>VERB</td><td>Evident=Nfh|Number=Sing|Person=2|Polarity=Neg|Tense=Past</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Verb Verb Neg|Narr|A3pl</td><td>=&gt;</td><td>VERB</td><td>Evident=Nfh|Number=Plur|Person=3|Polarity=Neg|Tense=Past</td><td><em>bulmamışlardı, çekmemişlerdi</em></td></tr>
+  <tr><td>Verb Verb Neg|Narr|A3sg</td><td>=&gt;</td><td>VERB</td><td>Evident=Nfh|Number=Sing|Person=3|Polarity=Neg|Tense=Past</td><td><em>kalmamış, olmamış, çalışmamış, sevmemiş, Evlenmemiş</em></td></tr>
+  <tr style="background:lightgray"><td>Verb Verb Neg|Narr|Cop|A3sg</td><td>=&gt;</td><td>VERB</td><td>Evident=Nfh|Number=Sing|Person=3|Polarity=Neg|Tense=Past|VerbType=Cop</td><td><em>girmemiştir, görmemiştir</em></td></tr>
+  <tr><td>Verb Verb Neg|Narr|Past|A1pl</td><td>=&gt;</td><td>VERB</td><td>Evident=Fh,Nfh|Number=Plur|Person=1|Polarity=Neg|Tense=Past</td><td><em>konuşmamıştık</em></td></tr>
+  <tr style="background:lightgray"><td>Verb Verb Neg|Narr|Past|A1sg</td><td>=&gt;</td><td>VERB</td><td>Evident=Fh,Nfh|Number=Sing|Person=1|Polarity=Neg|Tense=Past</td><td><em>düşünmemiştim, diretmemiştim</em></td></tr>
+  <tr><td>Verb Verb Neg|Narr|Past|A3pl</td><td>=&gt;</td><td>VERB</td><td>Evident=Fh,Nfh|Number=Plur|Person=3|Polarity=Neg|Tense=Past</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Verb Verb Neg|Narr|Past|A3sg</td><td>=&gt;</td><td>VERB</td><td>Evident=Fh,Nfh|Number=Sing|Person=3|Polarity=Neg|Tense=Past</td><td><em>atmamıştı, olmamıştı, ciddiye_almamıştı, öğrenmemişti, gelmemişti</em></td></tr>
+  <tr><td>Verb Verb Neg|Neces|Past|A2pl</td><td>=&gt;</td><td>VERB</td><td>Mood=Nec|Number=Plur|Person=2|Polarity=Neg|Tense=Past</td><td><em>vermemeliydiniz</em></td></tr>
+  <tr style="background:lightgray"><td>Verb Verb Neg|Opt|A1pl</td><td>=&gt;</td><td>VERB</td><td>Mood=Opt|Number=Plur|Person=1|Polarity=Neg</td><td><em>yemeyelim, etmeyelim, Ayırmayalım, tartışmayalım, yazmayalım</em></td></tr>
+  <tr><td>Verb Verb Neg|Opt|A1sg</td><td>=&gt;</td><td>VERB</td><td>Mood=Opt|Number=Sing|Person=1|Polarity=Neg</td><td><em>doymayayım, duymayayım</em></td></tr>
+  <tr style="background:lightgray"><td>Verb Verb Neg|Opt|A3sg</td><td>=&gt;</td><td>VERB</td><td>Mood=Opt|Number=Sing|Person=3|Polarity=Neg</td><td><em>zorlamaya, almaya, vurmaya, ağlamaya, olmaya</em></td></tr>
+  <tr><td>Verb Verb Neg|Past|A1pl</td><td>=&gt;</td><td>VERB</td><td>Number=Plur|Person=1|Polarity=Neg|Tense=Past</td><td><em>hak_etmedik, şaşırmadık, kullanmadık, kalmadık, Demedik</em></td></tr>
+  <tr style="background:lightgray"><td>Verb Verb Neg|Past|A1sg</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=1|Polarity=Neg|Tense=Past</td><td><em>anlamadım, rastlamadım, okumadım, Unutmadım, inanmadım</em></td></tr>
+  <tr><td>Verb Verb Neg|Past|A2pl</td><td>=&gt;</td><td>VERB</td><td>Number=Plur|Person=2|Polarity=Neg|Tense=Past</td><td><em>Tanışmadınız, yatmadınız, kulak_asmadınız, istemediniz</em></td></tr>
+  <tr style="background:lightgray"><td>Verb Verb Neg|Past|A2sg</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=2|Polarity=Neg|Tense=Past</td><td><em>bakmadın, yanaşmadın, denemedin</em></td></tr>
+  <tr><td>Verb Verb Neg|Past|A3pl</td><td>=&gt;</td><td>VERB</td><td>Number=Plur|Person=3|Polarity=Neg|Tense=Past</td><td><em>kabul_etmediler, ciddiye_almadılar</em></td></tr>
+  <tr style="background:lightgray"><td>Verb Verb Neg|Past|A3sg</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=3|Polarity=Neg|Tense=Past</td><td><em>olmadı, geçmedi, kalmadı, başınıza_gelmedi, girmedi</em></td></tr>
+  <tr><td>Verb Verb Neg|Prog1|A1pl</td><td>=&gt;</td><td>VERB</td><td>Aspect=Prog|Number=Plur|Person=1|Polarity=Neg</td><td><em>istemiyoruz, bilmiyoruz, anlamıyoruz, hatırlamıyoruz, vermiyoruz</em></td></tr>
+  <tr style="background:lightgray"><td>Verb Verb Neg|Prog1|A1sg</td><td>=&gt;</td><td>VERB</td><td>Aspect=Prog|Number=Sing|Person=1|Polarity=Neg</td><td><em>bilmiyorum, istemiyorum, anımsamıyorum, inanmıyorum, hatırlamıyorum</em></td></tr>
+  <tr><td>Verb Verb Neg|Prog1|A2pl</td><td>=&gt;</td><td>VERB</td><td>Aspect=Prog|Number=Plur|Person=2|Polarity=Neg</td><td><em>izin_vermiyorsunuz</em></td></tr>
+  <tr style="background:lightgray"><td>Verb Verb Neg|Prog1|A2sg</td><td>=&gt;</td><td>VERB</td><td>Aspect=Prog|Number=Sing|Person=2|Polarity=Neg</td><td><em>düşünmüyorsun, anlamıyorsun</em></td></tr>
+  <tr><td>Verb Verb Neg|Prog1|A3pl</td><td>=&gt;</td><td>VERB</td><td>Aspect=Prog|Number=Plur|Person=3|Polarity=Neg</td><td><em>vermiyorlar, razı_olmuyorlar, Görmüyorlar, bırakmıyorlar, aldırmıyorlar</em></td></tr>
+  <tr style="background:lightgray"><td>Verb Verb Neg|Prog1|A3sg</td><td>=&gt;</td><td>VERB</td><td>Aspect=Prog|Number=Sing|Person=3|Polarity=Neg</td><td><em>olmuyor, tutmuyor, bilmiyor, gerekmiyor, benzemiyor</em></td></tr>
+  <tr><td>Verb Verb Neg|Prog1|Cop|A3sg</td><td>=&gt;</td><td>VERB</td><td>Aspect=Prog|Number=Sing|Person=3|Polarity=Neg|VerbType=Cop</td><td><em>merak_etmiyordur</em></td></tr>
+  <tr style="background:lightgray"><td>Verb Verb Neg|Prog1|Narr|A3pl</td><td>=&gt;</td><td>VERB</td><td>Aspect=Prog|Evident=Nfh|Number=Plur|Person=3|Polarity=Neg|Tense=Past</td><td><em>anlamıyorlarmış</em></td></tr>
+  <tr><td>Verb Verb Neg|Prog1|Past|A1sg</td><td>=&gt;</td><td>VERB</td><td>Aspect=Prog|Number=Sing|Person=1|Polarity=Neg|Tense=Past</td><td><em>Üşümüyordum, anlamıyordum, bilmiyordum, susmuyordum, ölmüyordum</em></td></tr>
+  <tr style="background:lightgray"><td>Verb Verb Neg|Prog1|Past|A2sg</td><td>=&gt;</td><td>VERB</td><td>Aspect=Prog|Number=Sing|Person=2|Polarity=Neg|Tense=Past</td><td><em>benzemiyordun</em></td></tr>
+  <tr><td>Verb Verb Neg|Prog1|Past|A3pl</td><td>=&gt;</td><td>VERB</td><td>Aspect=Prog|Number=Plur|Person=3|Polarity=Neg|Tense=Past</td><td><em>etmiyorlardı, Duymuyorlardı</em></td></tr>
+  <tr style="background:lightgray"><td>Verb Verb Neg|Prog1|Past|A3sg</td><td>=&gt;</td><td>VERB</td><td>Aspect=Prog|Number=Sing|Person=3|Polarity=Neg|Tense=Past</td><td><em>bilmiyordu, istemiyordu, göstermiyordu, fark_etmiyordu, ileri_gitmiyordu</em></td></tr>
+  <tr><td>Verb Verb Neg|Prog2|Cop|A3sg</td><td>=&gt;</td><td>VERB</td><td>Aspect=Prog|Number=Sing|Person=3|Polarity=Neg|VerbType=Cop</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>Verb Verb Pass</td><td>=&gt;</td><td>VERB</td><td>Voice=Pass</td><td><em>_</em></td></tr>
-  <tr><td>Verb Verb Pass|Neg</td><td>=&gt;</td><td>VERB</td><td>Negative=Neg|Voice=Pass</td><td><em>_</em></td></tr>
-  <tr style="background:lightgray"><td>Verb Verb Pass|Neg|Aor</td><td>=&gt;</td><td>VERB</td><td>Negative=Neg|Tense=Aor|Voice=Pass</td><td><em>_</em></td></tr>
-  <tr><td>Verb Verb Pass|Neg|Aor|A3pl</td><td>=&gt;</td><td>VERB</td><td>Negative=Neg|Number=Plur|Person=3|Tense=Aor|Voice=Pass</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Verb Verb Pass|Neg|Aor|A3sg</td><td>=&gt;</td><td>VERB</td><td>Negative=Neg|Number=Sing|Person=3|Tense=Aor|Voice=Pass</td><td><em>denmez, Sayılmaz, nedendir_bilinmez, kapatılmaz, kullanılmaz</em></td></tr>
-  <tr><td>Verb Verb Pass|Neg|Aor|Past|A3sg</td><td>=&gt;</td><td>VERB</td><td>Negative=Neg|Number=Sing|Person=3|Tense=Aor,Past|Voice=Pass</td><td><em>denmezdi, bulunmazdı</em></td></tr>
-  <tr style="background:lightgray"><td>Verb Verb Pass|Neg|Fut|A3sg</td><td>=&gt;</td><td>VERB</td><td>Negative=Neg|Number=Sing|Person=3|Tense=Fut|Voice=Pass</td><td><em>yapılmayacak</em></td></tr>
-  <tr><td>Verb Verb Pass|Neg|Narr</td><td>=&gt;</td><td>VERB</td><td>Negative=Neg|Tense=Nar|Voice=Pass</td><td><em>_</em></td></tr>
-  <tr style="background:lightgray"><td>Verb Verb Pass|Neg|Narr|A3sg</td><td>=&gt;</td><td>VERB</td><td>Negative=Neg|Number=Sing|Person=3|Tense=Nar|Voice=Pass</td><td><em>icat_edilmemiş, çevrilmemiş, yaratılmamış, kesilmemiş</em></td></tr>
-  <tr><td>Verb Verb Pass|Neg|Narr|Cop|A3sg</td><td>=&gt;</td><td>VERB</td><td>Negative=Neg|Number=Sing|Person=3|Tense=Nar|VerbType=Cop|Voice=Pass</td><td><em>rastlanmamıştır</em></td></tr>
-  <tr style="background:lightgray"><td>Verb Verb Pass|Neg|Narr|Past|A3sg</td><td>=&gt;</td><td>VERB</td><td>Negative=Neg|Number=Sing|Person=3|Tense=Nar,Past|Voice=Pass</td><td><em>yapılmamıştı</em></td></tr>
-  <tr><td>Verb Verb Pass|Neg|Neces|A3sg</td><td>=&gt;</td><td>VERB</td><td>Mood=Nec|Negative=Neg|Number=Sing|Person=3|Voice=Pass</td><td><em>yer_verilmemeli, yapılmamalı</em></td></tr>
-  <tr style="background:lightgray"><td>Verb Verb Pass|Neg|Past|A1sg</td><td>=&gt;</td><td>VERB</td><td>Negative=Neg|Number=Sing|Person=1|Tense=Past|Voice=Pass</td><td><em>çarpılmadım</em></td></tr>
-  <tr><td>Verb Verb Pass|Neg|Past|A3sg</td><td>=&gt;</td><td>VERB</td><td>Negative=Neg|Number=Sing|Person=3|Tense=Past|Voice=Pass</td><td><em>gerçekleştirilmedi, kabul_edilmedi, gönderilmedi</em></td></tr>
-  <tr style="background:lightgray"><td>Verb Verb Pass|Neg|Prog1|A1sg</td><td>=&gt;</td><td>VERB</td><td>Aspect=Prog|Negative=Neg|Number=Sing|Person=1|Voice=Pass</td><td><em>sürüklenmiyorum</em></td></tr>
-  <tr><td>Verb Verb Pass|Neg|Prog1|A3sg</td><td>=&gt;</td><td>VERB</td><td>Aspect=Prog|Negative=Neg|Number=Sing|Person=3|Voice=Pass</td><td><em>satılmıyor, bilinmiyor, beklenmiyor, önemsenmiyor, duyulmuyor</em></td></tr>
-  <tr style="background:lightgray"><td>Verb Verb Pass|Neg|Prog1|Narr|A3sg</td><td>=&gt;</td><td>VERB</td><td>Aspect=Prog|Negative=Neg|Number=Sing|Person=3|Tense=Nar|Voice=Pass</td><td><em></em></td></tr>
-  <tr><td>Verb Verb Pass|Neg|Prog1|Past|A3sg</td><td>=&gt;</td><td>VERB</td><td>Aspect=Prog|Negative=Neg|Number=Sing|Person=3|Tense=Past|Voice=Pass</td><td><em>fark_edilmiyordu, bulunmuyordu, olunmuyordu</em></td></tr>
-  <tr style="background:lightgray"><td>Verb Verb Pass|Pos</td><td>=&gt;</td><td>VERB</td><td>Negative=Pos|Voice=Pass</td><td><em>_</em></td></tr>
-  <tr><td>Verb Verb Pass|Pos|A3sg</td><td>=&gt;</td><td>VERB</td><td>Negative=Pos|Number=Sing|Person=3|Voice=Pass</td><td><em>asılı</em></td></tr>
-  <tr style="background:lightgray"><td>Verb Verb Pass|Pos|Aor</td><td>=&gt;</td><td>VERB</td><td>Negative=Pos|Tense=Aor|Voice=Pass</td><td><em>_</em></td></tr>
-  <tr><td>Verb Verb Pass|Pos|Aor|A1pl</td><td>=&gt;</td><td>VERB</td><td>Negative=Pos|Number=Plur|Person=1|Tense=Aor|Voice=Pass</td><td><em>sayılırız</em></td></tr>
-  <tr style="background:lightgray"><td>Verb Verb Pass|Pos|Aor|A1sg</td><td>=&gt;</td><td>VERB</td><td>Negative=Pos|Number=Sing|Person=1|Tense=Aor|Voice=Pass</td><td><em>büzülürüm, ayrılırım</em></td></tr>
-  <tr><td>Verb Verb Pass|Pos|Aor|A2sg</td><td>=&gt;</td><td>VERB</td><td>Negative=Pos|Number=Sing|Person=2|Tense=Aor|Voice=Pass</td><td><em>Çarpılırsın</em></td></tr>
-  <tr style="background:lightgray"><td>Verb Verb Pass|Pos|Aor|A3pl</td><td>=&gt;</td><td>VERB</td><td>Negative=Pos|Number=Plur|Person=3|Tense=Aor|Voice=Pass</td><td><em></em></td></tr>
-  <tr><td>Verb Verb Pass|Pos|Aor|A3sg</td><td>=&gt;</td><td>VERB</td><td>Negative=Pos|Number=Sing|Person=3|Tense=Aor|Voice=Pass</td><td><em>yapılır, denir, kapatılır, sayılır, açılır</em></td></tr>
-  <tr style="background:lightgray"><td>Verb Verb Pass|Pos|Aor|Narr|A3sg</td><td>=&gt;</td><td>VERB</td><td>Negative=Pos|Number=Sing|Person=3|Tense=Aor,Nar|Voice=Pass</td><td><em>alınırmış</em></td></tr>
-  <tr><td>Verb Verb Pass|Pos|Aor|Past|A3sg</td><td>=&gt;</td><td>VERB</td><td>Negative=Pos|Number=Sing|Person=3|Tense=Aor,Past|Voice=Pass</td><td><em>ayrılırdı</em></td></tr>
-  <tr style="background:lightgray"><td>Verb Verb Pass|Pos|Cond|Aor|A1sg</td><td>=&gt;</td><td>VERB</td><td>Mood=Cnd|Negative=Pos|Number=Sing|Person=1|Tense=Aor|Voice=Pass</td><td><em>reddedilirsem</em></td></tr>
-  <tr><td>Verb Verb Pass|Pos|Cond|Aor|A3sg</td><td>=&gt;</td><td>VERB</td><td>Mood=Cnd|Negative=Pos|Number=Sing|Person=3|Tense=Aor|Voice=Pass</td><td><em>sanılırsa, alay_edilirse, yasaklanırsa, yapılırsa, yargılanırsa</em></td></tr>
-  <tr style="background:lightgray"><td>Verb Verb Pass|Pos|Cond|Narr|A3sg</td><td>=&gt;</td><td>VERB</td><td>Mood=Cnd|Negative=Pos|Number=Sing|Person=3|Tense=Nar|Voice=Pass</td><td><em>çalınmışsa</em></td></tr>
-  <tr><td>Verb Verb Pass|Pos|Desr|A3sg</td><td>=&gt;</td><td>VERB</td><td>Mood=Des|Negative=Pos|Number=Sing|Person=3|Voice=Pass</td><td><em>bağlansa, gösterilse, satılsa</em></td></tr>
-  <tr style="background:lightgray"><td>Verb Verb Pass|Pos|Fut|A3pl</td><td>=&gt;</td><td>VERB</td><td>Negative=Pos|Number=Plur|Person=3|Tense=Fut|Voice=Pass</td><td><em>sorumlu_tutulacaklar</em></td></tr>
-  <tr><td>Verb Verb Pass|Pos|Fut|A3sg</td><td>=&gt;</td><td>VERB</td><td>Negative=Pos|Number=Sing|Person=3|Tense=Fut|Voice=Pass</td><td><em>belirlenecek, ödenecek, verilecek, yapılacak, açılacak</em></td></tr>
-  <tr style="background:lightgray"><td>Verb Verb Pass|Pos|Fut|Cop|A3sg</td><td>=&gt;</td><td>VERB</td><td>Negative=Pos|Number=Sing|Person=3|Tense=Fut|VerbType=Cop|Voice=Pass</td><td><em>merak_edilecektir</em></td></tr>
-  <tr><td>Verb Verb Pass|Pos|Fut|Past|A3sg</td><td>=&gt;</td><td>VERB</td><td>Negative=Pos|Number=Sing|Person=3|Tense=Fut,Past|Voice=Pass</td><td><em>duyulacaktı, mola_verilecekti</em></td></tr>
-  <tr style="background:lightgray"><td>Verb Verb Pass|Pos|Imp|A3sg</td><td>=&gt;</td><td>VERB</td><td>Mood=Imp|Negative=Pos|Number=Sing|Person=3|Voice=Pass</td><td><em>kaldırılsın, alınsın, düşürülsün, yapılsın, ölçülsün</em></td></tr>
-  <tr><td>Verb Verb Pass|Pos|Narr</td><td>=&gt;</td><td>VERB</td><td>Negative=Pos|Tense=Nar|Voice=Pass</td><td><em>_</em></td></tr>
-  <tr style="background:lightgray"><td>Verb Verb Pass|Pos|Narr|A2sg</td><td>=&gt;</td><td>VERB</td><td>Negative=Pos|Number=Sing|Person=2|Tense=Nar|Voice=Pass</td><td><em>Tutulmuşsun</em></td></tr>
-  <tr><td>Verb Verb Pass|Pos|Narr|A3sg</td><td>=&gt;</td><td>VERB</td><td>Negative=Pos|Number=Sing|Person=3|Tense=Nar|Voice=Pass</td><td><em>yapılmış, açılmış, kurulmuş, kullanılmış, kanıtlanmış</em></td></tr>
-  <tr style="background:lightgray"><td>Verb Verb Pass|Pos|Narr|Cop|A3sg</td><td>=&gt;</td><td>VERB</td><td>Negative=Pos|Number=Sing|Person=3|Tense=Nar|VerbType=Cop|Voice=Pass</td><td><em>yaratılmıştır, görülmüştür, üretilmiştir, yayınlanmıştır, sıkıştırılmıştır</em></td></tr>
-  <tr><td>Verb Verb Pass|Pos|Narr|Past|A3pl</td><td>=&gt;</td><td>VERB</td><td>Negative=Pos|Number=Plur|Person=3|Tense=Nar,Past|Voice=Pass</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Verb Verb Pass|Pos|Narr|Past|A3sg</td><td>=&gt;</td><td>VERB</td><td>Negative=Pos|Number=Sing|Person=3|Tense=Nar,Past|Voice=Pass</td><td><em>açılmıştı, kesilmişti, reddedilmişti, unutulmuştu, verilmişti</em></td></tr>
-  <tr><td>Verb Verb Pass|Pos|Neces|A3sg</td><td>=&gt;</td><td>VERB</td><td>Mood=Nec|Negative=Pos|Number=Sing|Person=3|Voice=Pass</td><td><em>kapsanmalı, sorgulanmalı, vazgeçilmeli, kurulmalı, Terk_Edilmeli</em></td></tr>
-  <tr style="background:lightgray"><td>Verb Verb Pass|Pos|Neces|Cop|A3pl</td><td>=&gt;</td><td>VERB</td><td>Mood=Nec|Negative=Pos|Number=Plur|Person=3|VerbType=Cop|Voice=Pass</td><td><em>alınmalıdırlar</em></td></tr>
-  <tr><td>Verb Verb Pass|Pos|Neces|Cop|A3sg</td><td>=&gt;</td><td>VERB</td><td>Mood=Nec|Negative=Pos|Number=Sing|Person=3|VerbType=Cop|Voice=Pass</td><td><em>uyarlanmalıdır</em></td></tr>
-  <tr style="background:lightgray"><td>Verb Verb Pass|Pos|Neces|Past|A3sg</td><td>=&gt;</td><td>VERB</td><td>Mood=Nec|Negative=Pos|Number=Sing|Person=3|Tense=Past|Voice=Pass</td><td><em>getirilmeliydi, verilmeliydi</em></td></tr>
-  <tr><td>Verb Verb Pass|Pos|Opt|A3sg</td><td>=&gt;</td><td>VERB</td><td>Mood=Opt|Negative=Pos|Number=Sing|Person=3|Voice=Pass</td><td><em>bezene, gömüle_gömüle, sallana_sallana, bakıla_bakıla</em></td></tr>
-  <tr style="background:lightgray"><td>Verb Verb Pass|Pos|Past|A1pl</td><td>=&gt;</td><td>VERB</td><td>Negative=Pos|Number=Plur|Person=1|Tense=Past|Voice=Pass</td><td><em>mahrum_edildik, ayrıldık, konulduk, uyarıldık, bırakıldık</em></td></tr>
-  <tr><td>Verb Verb Pass|Pos|Past|A1sg</td><td>=&gt;</td><td>VERB</td><td>Negative=Pos|Number=Sing|Person=1|Tense=Past|Voice=Pass</td><td><em>sarıldım, üzüldüm, karşılandım, kapıldım, hissine_kapıldım</em></td></tr>
-  <tr style="background:lightgray"><td>Verb Verb Pass|Pos|Past|A3pl</td><td>=&gt;</td><td>VERB</td><td>Negative=Pos|Number=Plur|Person=3|Tense=Past|Voice=Pass</td><td><em>ayrıldılar, yayıldılar</em></td></tr>
-  <tr><td>Verb Verb Pass|Pos|Past|A3sg</td><td>=&gt;</td><td>VERB</td><td>Negative=Pos|Number=Sing|Person=3|Tense=Past|Voice=Pass</td><td><em>belirtildi, kabul_edildi, söylendi, istendi, öğrenildi</em></td></tr>
-  <tr style="background:lightgray"><td>Verb Verb Pass|Pos|Prog1|A1sg</td><td>=&gt;</td><td>VERB</td><td>Aspect=Prog|Negative=Pos|Number=Sing|Person=1|Voice=Pass</td><td><em>açılıyorum, inceleniyorum, izleniyorum, ayrılıyorum</em></td></tr>
-  <tr><td>Verb Verb Pass|Pos|Prog1|A2sg</td><td>=&gt;</td><td>VERB</td><td>Aspect=Prog|Negative=Pos|Number=Sing|Person=2|Voice=Pass</td><td><em>üzülüyorsun</em></td></tr>
-  <tr style="background:lightgray"><td>Verb Verb Pass|Pos|Prog1|A3pl</td><td>=&gt;</td><td>VERB</td><td>Aspect=Prog|Negative=Pos|Number=Plur|Person=3|Voice=Pass</td><td><em>sarılıyorlar, eleniyorlar</em></td></tr>
-  <tr><td>Verb Verb Pass|Pos|Prog1|A3sg</td><td>=&gt;</td><td>VERB</td><td>Aspect=Prog|Negative=Pos|Number=Sing|Person=3|Voice=Pass</td><td><em>alınıyor, veriliyor, getiriliyor, yapılıyor, genişletiliyor</em></td></tr>
-  <tr style="background:lightgray"><td>Verb Verb Pass|Pos|Prog1|Narr|A3sg</td><td>=&gt;</td><td>VERB</td><td>Aspect=Prog|Negative=Pos|Number=Sing|Person=3|Tense=Nar|Voice=Pass</td><td><em>sarılıyormuş</em></td></tr>
-  <tr><td>Verb Verb Pass|Pos|Prog1|Past|A1sg</td><td>=&gt;</td><td>VERB</td><td>Aspect=Prog|Negative=Pos|Number=Sing|Person=1|Tense=Past|Voice=Pass</td><td><em>üzülüyordum, terk_ediliyordum, yuvarlanıyordum</em></td></tr>
-  <tr style="background:lightgray"><td>Verb Verb Pass|Pos|Prog1|Past|A3sg</td><td>=&gt;</td><td>VERB</td><td>Aspect=Prog|Negative=Pos|Number=Sing|Person=3|Tense=Past|Voice=Pass</td><td><em>deniyordu, zorlanıyordu, kapanıyordu, geriliyordu, görülüyordu</em></td></tr>
-  <tr><td>Verb Verb Pass|Pos|Prog2|A3sg</td><td>=&gt;</td><td>VERB</td><td>Aspect=Prog|Negative=Pos|Number=Sing|Person=3|Voice=Pass</td><td><em>tabi_tutulmakta</em></td></tr>
-  <tr style="background:lightgray"><td>Verb Verb Pass|Pos|Prog2|Cop|A3sg</td><td>=&gt;</td><td>VERB</td><td>Aspect=Prog|Negative=Pos|Number=Sing|Person=3|VerbType=Cop|Voice=Pass</td><td><em>yorumlanmaktadır, istenmektedir</em></td></tr>
+  <tr><td>Verb Verb Pass|Neg</td><td>=&gt;</td><td>VERB</td><td>Polarity=Neg|Voice=Pass</td><td><em>_</em></td></tr>
+  <tr style="background:lightgray"><td>Verb Verb Pass|Neg|Aor</td><td>=&gt;</td><td>VERB</td><td>Polarity=Neg|Tense=Aor|Voice=Pass</td><td><em>_</em></td></tr>
+  <tr><td>Verb Verb Pass|Neg|Aor|A3pl</td><td>=&gt;</td><td>VERB</td><td>Number=Plur|Person=3|Polarity=Neg|Tense=Aor|Voice=Pass</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Verb Verb Pass|Neg|Aor|A3sg</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=3|Polarity=Neg|Tense=Aor|Voice=Pass</td><td><em>denmez, Sayılmaz, nedendir_bilinmez, kapatılmaz, kullanılmaz</em></td></tr>
+  <tr><td>Verb Verb Pass|Neg|Aor|Past|A3sg</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=3|Polarity=Neg|Tense=Aor,Past|Voice=Pass</td><td><em>denmezdi, bulunmazdı</em></td></tr>
+  <tr style="background:lightgray"><td>Verb Verb Pass|Neg|Fut|A3sg</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=3|Polarity=Neg|Tense=Fut|Voice=Pass</td><td><em>yapılmayacak</em></td></tr>
+  <tr><td>Verb Verb Pass|Neg|Narr</td><td>=&gt;</td><td>VERB</td><td>Evident=Nfh|Polarity=Neg|Tense=Past|Voice=Pass</td><td><em>_</em></td></tr>
+  <tr style="background:lightgray"><td>Verb Verb Pass|Neg|Narr|A3sg</td><td>=&gt;</td><td>VERB</td><td>Evident=Nfh|Number=Sing|Person=3|Polarity=Neg|Tense=Past|Voice=Pass</td><td><em>icat_edilmemiş, çevrilmemiş, yaratılmamış, kesilmemiş</em></td></tr>
+  <tr><td>Verb Verb Pass|Neg|Narr|Cop|A3sg</td><td>=&gt;</td><td>VERB</td><td>Evident=Nfh|Number=Sing|Person=3|Polarity=Neg|Tense=Past|VerbType=Cop|Voice=Pass</td><td><em>rastlanmamıştır</em></td></tr>
+  <tr style="background:lightgray"><td>Verb Verb Pass|Neg|Narr|Past|A3sg</td><td>=&gt;</td><td>VERB</td><td>Evident=Fh,Nfh|Number=Sing|Person=3|Polarity=Neg|Tense=Past|Voice=Pass</td><td><em>yapılmamıştı</em></td></tr>
+  <tr><td>Verb Verb Pass|Neg|Neces|A3sg</td><td>=&gt;</td><td>VERB</td><td>Mood=Nec|Number=Sing|Person=3|Polarity=Neg|Voice=Pass</td><td><em>yer_verilmemeli, yapılmamalı</em></td></tr>
+  <tr style="background:lightgray"><td>Verb Verb Pass|Neg|Past|A1sg</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=1|Polarity=Neg|Tense=Past|Voice=Pass</td><td><em>çarpılmadım</em></td></tr>
+  <tr><td>Verb Verb Pass|Neg|Past|A3sg</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=3|Polarity=Neg|Tense=Past|Voice=Pass</td><td><em>gerçekleştirilmedi, kabul_edilmedi, gönderilmedi</em></td></tr>
+  <tr style="background:lightgray"><td>Verb Verb Pass|Neg|Prog1|A1sg</td><td>=&gt;</td><td>VERB</td><td>Aspect=Prog|Number=Sing|Person=1|Polarity=Neg|Voice=Pass</td><td><em>sürüklenmiyorum</em></td></tr>
+  <tr><td>Verb Verb Pass|Neg|Prog1|A3sg</td><td>=&gt;</td><td>VERB</td><td>Aspect=Prog|Number=Sing|Person=3|Polarity=Neg|Voice=Pass</td><td><em>satılmıyor, bilinmiyor, beklenmiyor, önemsenmiyor, duyulmuyor</em></td></tr>
+  <tr style="background:lightgray"><td>Verb Verb Pass|Neg|Prog1|Narr|A3sg</td><td>=&gt;</td><td>VERB</td><td>Aspect=Prog|Evident=Nfh|Number=Sing|Person=3|Polarity=Neg|Tense=Past|Voice=Pass</td><td><em></em></td></tr>
+  <tr><td>Verb Verb Pass|Neg|Prog1|Past|A3sg</td><td>=&gt;</td><td>VERB</td><td>Aspect=Prog|Number=Sing|Person=3|Polarity=Neg|Tense=Past|Voice=Pass</td><td><em>fark_edilmiyordu, bulunmuyordu, olunmuyordu</em></td></tr>
+  <tr style="background:lightgray"><td>Verb Verb Pass|Pos</td><td>=&gt;</td><td>VERB</td><td>Polarity=Pos|Voice=Pass</td><td><em>_</em></td></tr>
+  <tr><td>Verb Verb Pass|Pos|A3sg</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=3|Polarity=Pos|Voice=Pass</td><td><em>asılı</em></td></tr>
+  <tr style="background:lightgray"><td>Verb Verb Pass|Pos|Aor</td><td>=&gt;</td><td>VERB</td><td>Polarity=Pos|Tense=Aor|Voice=Pass</td><td><em>_</em></td></tr>
+  <tr><td>Verb Verb Pass|Pos|Aor|A1pl</td><td>=&gt;</td><td>VERB</td><td>Number=Plur|Person=1|Polarity=Pos|Tense=Aor|Voice=Pass</td><td><em>sayılırız</em></td></tr>
+  <tr style="background:lightgray"><td>Verb Verb Pass|Pos|Aor|A1sg</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=1|Polarity=Pos|Tense=Aor|Voice=Pass</td><td><em>büzülürüm, ayrılırım</em></td></tr>
+  <tr><td>Verb Verb Pass|Pos|Aor|A2sg</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=2|Polarity=Pos|Tense=Aor|Voice=Pass</td><td><em>Çarpılırsın</em></td></tr>
+  <tr style="background:lightgray"><td>Verb Verb Pass|Pos|Aor|A3pl</td><td>=&gt;</td><td>VERB</td><td>Number=Plur|Person=3|Polarity=Pos|Tense=Aor|Voice=Pass</td><td><em></em></td></tr>
+  <tr><td>Verb Verb Pass|Pos|Aor|A3sg</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=3|Polarity=Pos|Tense=Aor|Voice=Pass</td><td><em>yapılır, denir, kapatılır, sayılır, açılır</em></td></tr>
+  <tr style="background:lightgray"><td>Verb Verb Pass|Pos|Aor|Narr|A3sg</td><td>=&gt;</td><td>VERB</td><td>Evident=Nfh|Number=Sing|Person=3|Polarity=Pos|Tense=Aor|Voice=Pass</td><td><em>alınırmış</em></td></tr>
+  <tr><td>Verb Verb Pass|Pos|Aor|Past|A3sg</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=3|Polarity=Pos|Tense=Aor,Past|Voice=Pass</td><td><em>ayrılırdı</em></td></tr>
+  <tr style="background:lightgray"><td>Verb Verb Pass|Pos|Cond|Aor|A1sg</td><td>=&gt;</td><td>VERB</td><td>Mood=Cnd|Number=Sing|Person=1|Polarity=Pos|Tense=Aor|Voice=Pass</td><td><em>reddedilirsem</em></td></tr>
+  <tr><td>Verb Verb Pass|Pos|Cond|Aor|A3sg</td><td>=&gt;</td><td>VERB</td><td>Mood=Cnd|Number=Sing|Person=3|Polarity=Pos|Tense=Aor|Voice=Pass</td><td><em>sanılırsa, alay_edilirse, yasaklanırsa, yapılırsa, yargılanırsa</em></td></tr>
+  <tr style="background:lightgray"><td>Verb Verb Pass|Pos|Cond|Narr|A3sg</td><td>=&gt;</td><td>VERB</td><td>Evident=Nfh|Mood=Cnd|Number=Sing|Person=3|Polarity=Pos|Tense=Past|Voice=Pass</td><td><em>çalınmışsa</em></td></tr>
+  <tr><td>Verb Verb Pass|Pos|Desr|A3sg</td><td>=&gt;</td><td>VERB</td><td>Mood=Des|Number=Sing|Person=3|Polarity=Pos|Voice=Pass</td><td><em>bağlansa, gösterilse, satılsa</em></td></tr>
+  <tr style="background:lightgray"><td>Verb Verb Pass|Pos|Fut|A3pl</td><td>=&gt;</td><td>VERB</td><td>Number=Plur|Person=3|Polarity=Pos|Tense=Fut|Voice=Pass</td><td><em>sorumlu_tutulacaklar</em></td></tr>
+  <tr><td>Verb Verb Pass|Pos|Fut|A3sg</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=3|Polarity=Pos|Tense=Fut|Voice=Pass</td><td><em>belirlenecek, ödenecek, verilecek, yapılacak, açılacak</em></td></tr>
+  <tr style="background:lightgray"><td>Verb Verb Pass|Pos|Fut|Cop|A3sg</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=3|Polarity=Pos|Tense=Fut|VerbType=Cop|Voice=Pass</td><td><em>merak_edilecektir</em></td></tr>
+  <tr><td>Verb Verb Pass|Pos|Fut|Past|A3sg</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=3|Polarity=Pos|Tense=Fut,Past|Voice=Pass</td><td><em>duyulacaktı, mola_verilecekti</em></td></tr>
+  <tr style="background:lightgray"><td>Verb Verb Pass|Pos|Imp|A3sg</td><td>=&gt;</td><td>VERB</td><td>Mood=Imp|Number=Sing|Person=3|Polarity=Pos|Voice=Pass</td><td><em>kaldırılsın, alınsın, düşürülsün, yapılsın, ölçülsün</em></td></tr>
+  <tr><td>Verb Verb Pass|Pos|Narr</td><td>=&gt;</td><td>VERB</td><td>Evident=Nfh|Polarity=Pos|Tense=Past|Voice=Pass</td><td><em>_</em></td></tr>
+  <tr style="background:lightgray"><td>Verb Verb Pass|Pos|Narr|A2sg</td><td>=&gt;</td><td>VERB</td><td>Evident=Nfh|Number=Sing|Person=2|Polarity=Pos|Tense=Past|Voice=Pass</td><td><em>Tutulmuşsun</em></td></tr>
+  <tr><td>Verb Verb Pass|Pos|Narr|A3sg</td><td>=&gt;</td><td>VERB</td><td>Evident=Nfh|Number=Sing|Person=3|Polarity=Pos|Tense=Past|Voice=Pass</td><td><em>yapılmış, açılmış, kurulmuş, kullanılmış, kanıtlanmış</em></td></tr>
+  <tr style="background:lightgray"><td>Verb Verb Pass|Pos|Narr|Cop|A3sg</td><td>=&gt;</td><td>VERB</td><td>Evident=Nfh|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbType=Cop|Voice=Pass</td><td><em>yaratılmıştır, görülmüştür, üretilmiştir, yayınlanmıştır, sıkıştırılmıştır</em></td></tr>
+  <tr><td>Verb Verb Pass|Pos|Narr|Past|A3pl</td><td>=&gt;</td><td>VERB</td><td>Evident=Fh,Nfh|Number=Plur|Person=3|Polarity=Pos|Tense=Past|Voice=Pass</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Verb Verb Pass|Pos|Narr|Past|A3sg</td><td>=&gt;</td><td>VERB</td><td>Evident=Fh,Nfh|Number=Sing|Person=3|Polarity=Pos|Tense=Past|Voice=Pass</td><td><em>açılmıştı, kesilmişti, reddedilmişti, unutulmuştu, verilmişti</em></td></tr>
+  <tr><td>Verb Verb Pass|Pos|Neces|A3sg</td><td>=&gt;</td><td>VERB</td><td>Mood=Nec|Number=Sing|Person=3|Polarity=Pos|Voice=Pass</td><td><em>kapsanmalı, sorgulanmalı, vazgeçilmeli, kurulmalı, Terk_Edilmeli</em></td></tr>
+  <tr style="background:lightgray"><td>Verb Verb Pass|Pos|Neces|Cop|A3pl</td><td>=&gt;</td><td>VERB</td><td>Mood=Nec|Number=Plur|Person=3|Polarity=Pos|VerbType=Cop|Voice=Pass</td><td><em>alınmalıdırlar</em></td></tr>
+  <tr><td>Verb Verb Pass|Pos|Neces|Cop|A3sg</td><td>=&gt;</td><td>VERB</td><td>Mood=Nec|Number=Sing|Person=3|Polarity=Pos|VerbType=Cop|Voice=Pass</td><td><em>uyarlanmalıdır</em></td></tr>
+  <tr style="background:lightgray"><td>Verb Verb Pass|Pos|Neces|Past|A3sg</td><td>=&gt;</td><td>VERB</td><td>Mood=Nec|Number=Sing|Person=3|Polarity=Pos|Tense=Past|Voice=Pass</td><td><em>getirilmeliydi, verilmeliydi</em></td></tr>
+  <tr><td>Verb Verb Pass|Pos|Opt|A3sg</td><td>=&gt;</td><td>VERB</td><td>Mood=Opt|Number=Sing|Person=3|Polarity=Pos|Voice=Pass</td><td><em>bezene, gömüle_gömüle, sallana_sallana, bakıla_bakıla</em></td></tr>
+  <tr style="background:lightgray"><td>Verb Verb Pass|Pos|Past|A1pl</td><td>=&gt;</td><td>VERB</td><td>Number=Plur|Person=1|Polarity=Pos|Tense=Past|Voice=Pass</td><td><em>mahrum_edildik, ayrıldık, konulduk, uyarıldık, bırakıldık</em></td></tr>
+  <tr><td>Verb Verb Pass|Pos|Past|A1sg</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=1|Polarity=Pos|Tense=Past|Voice=Pass</td><td><em>sarıldım, üzüldüm, karşılandım, kapıldım, hissine_kapıldım</em></td></tr>
+  <tr style="background:lightgray"><td>Verb Verb Pass|Pos|Past|A3pl</td><td>=&gt;</td><td>VERB</td><td>Number=Plur|Person=3|Polarity=Pos|Tense=Past|Voice=Pass</td><td><em>ayrıldılar, yayıldılar</em></td></tr>
+  <tr><td>Verb Verb Pass|Pos|Past|A3sg</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=3|Polarity=Pos|Tense=Past|Voice=Pass</td><td><em>belirtildi, kabul_edildi, söylendi, istendi, öğrenildi</em></td></tr>
+  <tr style="background:lightgray"><td>Verb Verb Pass|Pos|Prog1|A1sg</td><td>=&gt;</td><td>VERB</td><td>Aspect=Prog|Number=Sing|Person=1|Polarity=Pos|Voice=Pass</td><td><em>açılıyorum, inceleniyorum, izleniyorum, ayrılıyorum</em></td></tr>
+  <tr><td>Verb Verb Pass|Pos|Prog1|A2sg</td><td>=&gt;</td><td>VERB</td><td>Aspect=Prog|Number=Sing|Person=2|Polarity=Pos|Voice=Pass</td><td><em>üzülüyorsun</em></td></tr>
+  <tr style="background:lightgray"><td>Verb Verb Pass|Pos|Prog1|A3pl</td><td>=&gt;</td><td>VERB</td><td>Aspect=Prog|Number=Plur|Person=3|Polarity=Pos|Voice=Pass</td><td><em>sarılıyorlar, eleniyorlar</em></td></tr>
+  <tr><td>Verb Verb Pass|Pos|Prog1|A3sg</td><td>=&gt;</td><td>VERB</td><td>Aspect=Prog|Number=Sing|Person=3|Polarity=Pos|Voice=Pass</td><td><em>alınıyor, veriliyor, getiriliyor, yapılıyor, genişletiliyor</em></td></tr>
+  <tr style="background:lightgray"><td>Verb Verb Pass|Pos|Prog1|Narr|A3sg</td><td>=&gt;</td><td>VERB</td><td>Aspect=Prog|Evident=Nfh|Number=Sing|Person=3|Polarity=Pos|Tense=Past|Voice=Pass</td><td><em>sarılıyormuş</em></td></tr>
+  <tr><td>Verb Verb Pass|Pos|Prog1|Past|A1sg</td><td>=&gt;</td><td>VERB</td><td>Aspect=Prog|Number=Sing|Person=1|Polarity=Pos|Tense=Past|Voice=Pass</td><td><em>üzülüyordum, terk_ediliyordum, yuvarlanıyordum</em></td></tr>
+  <tr style="background:lightgray"><td>Verb Verb Pass|Pos|Prog1|Past|A3sg</td><td>=&gt;</td><td>VERB</td><td>Aspect=Prog|Number=Sing|Person=3|Polarity=Pos|Tense=Past|Voice=Pass</td><td><em>deniyordu, zorlanıyordu, kapanıyordu, geriliyordu, görülüyordu</em></td></tr>
+  <tr><td>Verb Verb Pass|Pos|Prog2|A3sg</td><td>=&gt;</td><td>VERB</td><td>Aspect=Prog|Number=Sing|Person=3|Polarity=Pos|Voice=Pass</td><td><em>tabi_tutulmakta</em></td></tr>
+  <tr style="background:lightgray"><td>Verb Verb Pass|Pos|Prog2|Cop|A3sg</td><td>=&gt;</td><td>VERB</td><td>Aspect=Prog|Number=Sing|Person=3|Polarity=Pos|VerbType=Cop|Voice=Pass</td><td><em>yorumlanmaktadır, istenmektedir</em></td></tr>
   <tr><td>Verb Verb Past|A1pl</td><td>=&gt;</td><td>VERB</td><td>Number=Plur|Person=1|Tense=Past</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>Verb Verb Past|A1sg</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=1|Tense=Past</td><td><em>değildim</em></td></tr>
   <tr><td>Verb Verb Past|A2pl</td><td>=&gt;</td><td>VERB</td><td>Number=Plur|Person=2|Tense=Past</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>Verb Verb Past|A2sg</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=2|Tense=Past</td><td><em>değildin</em></td></tr>
   <tr><td>Verb Verb Past|A3pl</td><td>=&gt;</td><td>VERB</td><td>Number=Plur|Person=3|Tense=Past</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>Verb Verb Past|A3sg</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=3|Tense=Past</td><td><em>değildi</em></td></tr>
-  <tr><td>Verb Verb Pos</td><td>=&gt;</td><td>VERB</td><td>Negative=Pos</td><td><em>_</em></td></tr>
-  <tr style="background:lightgray"><td>Verb Verb Pos|Aor</td><td>=&gt;</td><td>VERB</td><td>Negative=Pos|Tense=Aor</td><td><em>_</em></td></tr>
-  <tr><td>Verb Verb Pos|Aor|A1pl</td><td>=&gt;</td><td>VERB</td><td>Negative=Pos|Number=Plur|Person=1|Tense=Aor</td><td><em>görüşürüz, Anlarız, çalışırız, getiririz, severiz</em></td></tr>
-  <tr style="background:lightgray"><td>Verb Verb Pos|Aor|A1sg</td><td>=&gt;</td><td>VERB</td><td>Negative=Pos|Number=Sing|Person=1|Tense=Aor</td><td><em>sanırım, veririm, yaparım, ederim, kaçarım</em></td></tr>
-  <tr><td>Verb Verb Pos|Aor|A2pl</td><td>=&gt;</td><td>VERB</td><td>Negative=Pos|Number=Plur|Person=2|Tense=Aor</td><td><em>gidersiniz, dersiniz, yaparsınız, dinlenirsiniz, anlarsınız</em></td></tr>
-  <tr style="background:lightgray"><td>Verb Verb Pos|Aor|A2sg</td><td>=&gt;</td><td>VERB</td><td>Negative=Pos|Number=Sing|Person=2|Tense=Aor</td><td><em>sanırsın, kaybedersin, sıfırı_tüketirsin, ödersin, içersin</em></td></tr>
-  <tr><td>Verb Verb Pos|Aor|A3pl</td><td>=&gt;</td><td>VERB</td><td>Negative=Pos|Number=Plur|Person=3|Tense=Aor</td><td><em>koyarlar, yaparlar, söylerler, severler, olurlar</em></td></tr>
-  <tr style="background:lightgray"><td>Verb Verb Pos|Aor|A3sg</td><td>=&gt;</td><td>VERB</td><td>Negative=Pos|Number=Sing|Person=3|Tense=Aor</td><td><em>olur, gerekir, yeter, alır, gelir</em></td></tr>
-  <tr><td>Verb Verb Pos|Aor|Narr|A1sg</td><td>=&gt;</td><td>VERB</td><td>Negative=Pos|Number=Sing|Person=1|Tense=Aor,Nar</td><td><em>tüketirmişim</em></td></tr>
-  <tr style="background:lightgray"><td>Verb Verb Pos|Aor|Narr|A3pl</td><td>=&gt;</td><td>VERB</td><td>Negative=Pos|Number=Plur|Person=3|Tense=Aor,Nar</td><td><em></em></td></tr>
-  <tr><td>Verb Verb Pos|Aor|Narr|A3sg</td><td>=&gt;</td><td>VERB</td><td>Negative=Pos|Number=Sing|Person=3|Tense=Aor,Nar</td><td><em>olurmuş, inanırmış, severmiş, yaşarmış, bitermiş</em></td></tr>
-  <tr style="background:lightgray"><td>Verb Verb Pos|Aor|Past|A1pl</td><td>=&gt;</td><td>VERB</td><td>Negative=Pos|Number=Plur|Person=1|Tense=Aor,Past</td><td><em>derdik, sevişirdik, okurduk, Giderdik</em></td></tr>
-  <tr><td>Verb Verb Pos|Aor|Past|A1sg</td><td>=&gt;</td><td>VERB</td><td>Negative=Pos|Number=Sing|Person=1|Tense=Aor,Past</td><td><em>isterdim, koyardım, olurdum, düşünürdüm, dinlerdim</em></td></tr>
-  <tr style="background:lightgray"><td>Verb Verb Pos|Aor|Past|A2sg</td><td>=&gt;</td><td>VERB</td><td>Negative=Pos|Number=Sing|Person=2|Tense=Aor,Past</td><td><em>kopardın</em></td></tr>
-  <tr><td>Verb Verb Pos|Aor|Past|A3pl</td><td>=&gt;</td><td>VERB</td><td>Negative=Pos|Number=Plur|Person=3|Tense=Aor,Past</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Verb Verb Pos|Aor|Past|A3sg</td><td>=&gt;</td><td>VERB</td><td>Negative=Pos|Number=Sing|Person=3|Tense=Aor,Past</td><td><em>olurdu, otururdu, yapardı, bilirdi, derdi</em></td></tr>
-  <tr><td>Verb Verb Pos|Cond|Aor|A1pl</td><td>=&gt;</td><td>VERB</td><td>Mood=Cnd|Negative=Pos|Number=Plur|Person=1|Tense=Aor</td><td><em>geç_kalırsak, satarsak, istersek</em></td></tr>
-  <tr style="background:lightgray"><td>Verb Verb Pos|Cond|Aor|A1sg</td><td>=&gt;</td><td>VERB</td><td>Mood=Cnd|Negative=Pos|Number=Sing|Person=1|Tense=Aor</td><td><em>yaparsam, çıkarsam, özlersem, bulursam, duyarsam</em></td></tr>
-  <tr><td>Verb Verb Pos|Cond|Aor|A2pl</td><td>=&gt;</td><td>VERB</td><td>Mood=Cnd|Negative=Pos|Number=Plur|Person=2|Tense=Aor</td><td><em>bakarsanız, isterseniz, yerseniz, sorarsanız, yazarsanız</em></td></tr>
-  <tr style="background:lightgray"><td>Verb Verb Pos|Cond|Aor|A2sg</td><td>=&gt;</td><td>VERB</td><td>Mood=Cnd|Negative=Pos|Number=Sing|Person=2|Tense=Aor</td><td><em>İstersen, dilersen, dersen, yardım_edersen, uyarsan</em></td></tr>
-  <tr><td>Verb Verb Pos|Cond|Aor|A3pl</td><td>=&gt;</td><td>VERB</td><td>Mood=Cnd|Negative=Pos|Number=Plur|Person=3|Tense=Aor</td><td><em>olurlarsa, atarlarsa, gelirlerse, onarlarsa, kaparlarsa</em></td></tr>
-  <tr style="background:lightgray"><td>Verb Verb Pos|Cond|Aor|A3sg</td><td>=&gt;</td><td>VERB</td><td>Mood=Cnd|Negative=Pos|Number=Sing|Person=3|Tense=Aor</td><td><em>verirse, isterse, kalırsa, başlarsa, derse</em></td></tr>
-  <tr><td>Verb Verb Pos|Cond|Fut|A2sg</td><td>=&gt;</td><td>VERB</td><td>Mood=Cnd|Negative=Pos|Number=Sing|Person=2|Tense=Fut</td><td><em>çalışacaksan</em></td></tr>
-  <tr style="background:lightgray"><td>Verb Verb Pos|Cond|Fut|A3sg</td><td>=&gt;</td><td>VERB</td><td>Mood=Cnd|Negative=Pos|Number=Sing|Person=3|Tense=Fut</td><td><em>olacaksa</em></td></tr>
-  <tr><td>Verb Verb Pos|Cond|Narr|A3pl</td><td>=&gt;</td><td>VERB</td><td>Mood=Cnd|Negative=Pos|Number=Plur|Person=3|Tense=Nar</td><td><em>evlenmişlerse, elde_etmişlerse, mazhar_olmuşlarsa</em></td></tr>
-  <tr style="background:lightgray"><td>Verb Verb Pos|Cond|Narr|A3sg</td><td>=&gt;</td><td>VERB</td><td>Mood=Cnd|Negative=Pos|Number=Sing|Person=3|Tense=Nar</td><td><em>oturmuşsa</em></td></tr>
-  <tr><td>Verb Verb Pos|Cond|Past|A2sg</td><td>=&gt;</td><td>VERB</td><td>Mood=Cnd|Negative=Pos|Number=Sing|Person=2|Tense=Past</td><td><em>yaptınsa</em></td></tr>
-  <tr style="background:lightgray"><td>Verb Verb Pos|Cond|Past|A3sg</td><td>=&gt;</td><td>VERB</td><td>Mood=Cnd|Negative=Pos|Number=Sing|Person=3|Tense=Past</td><td><em>naz_ettiyse, uyuduysa, olduysa</em></td></tr>
-  <tr><td>Verb Verb Pos|Cond|Prog1|A1pl</td><td>=&gt;</td><td>VERB</td><td>Aspect=Prog|Mood=Cnd|Negative=Pos|Number=Plur|Person=1</td><td><em>döküyorsak</em></td></tr>
-  <tr style="background:lightgray"><td>Verb Verb Pos|Cond|Prog1|A1sg</td><td>=&gt;</td><td>VERB</td><td>Aspect=Prog|Mood=Cnd|Negative=Pos|Number=Sing|Person=1</td><td><em>istiyorsam</em></td></tr>
-  <tr><td>Verb Verb Pos|Cond|Prog1|A2sg</td><td>=&gt;</td><td>VERB</td><td>Aspect=Prog|Mood=Cnd|Negative=Pos|Number=Sing|Person=2</td><td><em>seviyorsan</em></td></tr>
-  <tr style="background:lightgray"><td>Verb Verb Pos|Cond|Prog1|A3sg</td><td>=&gt;</td><td>VERB</td><td>Aspect=Prog|Mood=Cnd|Negative=Pos|Number=Sing|Person=3</td><td><em>geliyorsa, öpüyorsa, uyuşuyorsa, seviyorsa</em></td></tr>
-  <tr><td>Verb Verb Pos|Desr|A1pl</td><td>=&gt;</td><td>VERB</td><td>Mood=Des|Negative=Pos|Number=Plur|Person=1</td><td><em>desek, kapsak, girsek, taksak</em></td></tr>
-  <tr style="background:lightgray"><td>Verb Verb Pos|Desr|A1sg</td><td>=&gt;</td><td>VERB</td><td>Mood=Des|Negative=Pos|Number=Sing|Person=1</td><td><em>dönsem, baksam, anlatsam, düşünsem, tarif_etsem</em></td></tr>
-  <tr><td>Verb Verb Pos|Desr|A2pl</td><td>=&gt;</td><td>VERB</td><td>Mood=Des|Negative=Pos|Number=Plur|Person=2</td><td><em>yazsanız, Kursanız</em></td></tr>
-  <tr style="background:lightgray"><td>Verb Verb Pos|Desr|A2sg</td><td>=&gt;</td><td>VERB</td><td>Mood=Des|Negative=Pos|Number=Sing|Person=2</td><td><em>görsen, konuşsan, sorsan, Arasan, bilsen</em></td></tr>
-  <tr><td>Verb Verb Pos|Desr|A3pl</td><td>=&gt;</td><td>VERB</td><td>Mood=Des|Negative=Pos|Number=Plur|Person=3</td><td><em>isteseler, barışsalar, fark_etseler</em></td></tr>
-  <tr style="background:lightgray"><td>Verb Verb Pos|Desr|A3sg</td><td>=&gt;</td><td>VERB</td><td>Mood=Des|Negative=Pos|Number=Sing|Person=3</td><td><em>olsa, ise, varsa, istese, bıraksa</em></td></tr>
-  <tr><td>Verb Verb Pos|Desr|Past|A1sg</td><td>=&gt;</td><td>VERB</td><td>Mood=Des|Negative=Pos|Number=Sing|Person=1|Tense=Past</td><td><em>olsaydım, armağan_etseydim, varsaydım</em></td></tr>
-  <tr style="background:lightgray"><td>Verb Verb Pos|Desr|Past|A2pl</td><td>=&gt;</td><td>VERB</td><td>Mood=Des|Negative=Pos|Number=Plur|Person=2|Tense=Past</td><td><em>konuşsaydınız, Evlenseydiniz</em></td></tr>
-  <tr><td>Verb Verb Pos|Desr|Past|A2sg</td><td>=&gt;</td><td>VERB</td><td>Mood=Des|Negative=Pos|Number=Sing|Person=2|Tense=Past</td><td><em>düşseydin, yapsaydın, önerseydin, Direnseydin, Israr_etseydin</em></td></tr>
-  <tr style="background:lightgray"><td>Verb Verb Pos|Desr|Past|A3pl</td><td>=&gt;</td><td>VERB</td><td>Mood=Des|Negative=Pos|Number=Plur|Person=3|Tense=Past</td><td><em>katlansalardı</em></td></tr>
-  <tr><td>Verb Verb Pos|Desr|Past|A3sg</td><td>=&gt;</td><td>VERB</td><td>Mood=Des|Negative=Pos|Number=Sing|Person=3|Tense=Past</td><td><em>olsaydı, böyle_olsaydı, alsaydı</em></td></tr>
-  <tr style="background:lightgray"><td>Verb Verb Pos|Fut|A1pl</td><td>=&gt;</td><td>VERB</td><td>Negative=Pos|Number=Plur|Person=1|Tense=Fut</td><td><em>yapacağız, yiyeceğiz, çalışacağız, olacağız, devam_edeceğiz</em></td></tr>
-  <tr><td>Verb Verb Pos|Fut|A1sg</td><td>=&gt;</td><td>VERB</td><td>Negative=Pos|Number=Sing|Person=1|Tense=Fut</td><td><em>gideceğim, geleceğim, dinleyeceğim, sevineceğim, keseceğim</em></td></tr>
-  <tr style="background:lightgray"><td>Verb Verb Pos|Fut|A2pl</td><td>=&gt;</td><td>VERB</td><td>Negative=Pos|Number=Plur|Person=2|Tense=Fut</td><td><em>yaşayacaksınız, sorgulayacaksınız, tayin_edeceksiniz, zarar_edeceksiniz, yürüyeceksiniz</em></td></tr>
-  <tr><td>Verb Verb Pos|Fut|A2sg</td><td>=&gt;</td><td>VERB</td><td>Negative=Pos|Number=Sing|Person=2|Tense=Fut</td><td><em>beğeneceksin, Seveceksin, bakacaksın, yakacaksın, göreceksin</em></td></tr>
-  <tr style="background:lightgray"><td>Verb Verb Pos|Fut|A3pl</td><td>=&gt;</td><td>VERB</td><td>Negative=Pos|Number=Plur|Person=3|Tense=Fut</td><td><em>yapacaklar, okuyacaklar, toplayacaklar, oynayacaklar, çözecekler</em></td></tr>
-  <tr><td>Verb Verb Pos|Fut|A3sg</td><td>=&gt;</td><td>VERB</td><td>Negative=Pos|Number=Sing|Person=3|Tense=Fut</td><td><em>olacak, verecek, gelecek, sağlayacak, yapacak</em></td></tr>
-  <tr style="background:lightgray"><td>Verb Verb Pos|Fut|Cop|A3sg</td><td>=&gt;</td><td>VERB</td><td>Negative=Pos|Number=Sing|Person=3|Tense=Fut|VerbType=Cop</td><td><em>olacaktır, akacaktır, sonu_olacaktır, çarpacaktır, etkileyecektir</em></td></tr>
-  <tr><td>Verb Verb Pos|Fut|Narr|A3pl</td><td>=&gt;</td><td>VERB</td><td>Negative=Pos|Number=Plur|Person=3|Tense=Fut,Nar</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Verb Verb Pos|Fut|Narr|A3sg</td><td>=&gt;</td><td>VERB</td><td>Negative=Pos|Number=Sing|Person=3|Tense=Fut,Nar</td><td><em>girecekmiş</em></td></tr>
-  <tr><td>Verb Verb Pos|Fut|Past|A1pl</td><td>=&gt;</td><td>VERB</td><td>Negative=Pos|Number=Plur|Person=1|Tense=Fut,Past</td><td><em>kat_edecektik, diyecektik, gelecektik</em></td></tr>
-  <tr style="background:lightgray"><td>Verb Verb Pos|Fut|Past|A1sg</td><td>=&gt;</td><td>VERB</td><td>Negative=Pos|Number=Sing|Person=1|Tense=Fut,Past</td><td><em>bekleyecektim, yiyecektim, anlatacaktım, diyecektim, veda_edecektim</em></td></tr>
-  <tr><td>Verb Verb Pos|Fut|Past|A2sg</td><td>=&gt;</td><td>VERB</td><td>Negative=Pos|Number=Sing|Person=2|Tense=Fut,Past</td><td><em>anlatacaktın</em></td></tr>
-  <tr style="background:lightgray"><td>Verb Verb Pos|Fut|Past|A3pl</td><td>=&gt;</td><td>VERB</td><td>Negative=Pos|Number=Plur|Person=3|Tense=Fut,Past</td><td><em></em></td></tr>
-  <tr><td>Verb Verb Pos|Fut|Past|A3sg</td><td>=&gt;</td><td>VERB</td><td>Negative=Pos|Number=Sing|Person=3|Tense=Fut,Past</td><td><em>olacaktı, öğrenecekti, ellerinde_olacaktı, yapacaktı, ölecekti</em></td></tr>
-  <tr style="background:lightgray"><td>Verb Verb Pos|Imp|A2pl</td><td>=&gt;</td><td>VERB</td><td>Mood=Imp|Negative=Pos|Number=Plur|Person=2</td><td><em>bakın, alın, Durun, olun, Baksanıza</em></td></tr>
-  <tr><td>Verb Verb Pos|Imp|A2sg</td><td>=&gt;</td><td>VERB</td><td>Mood=Imp|Negative=Pos|Number=Sing|Person=2</td><td><em>var, gerek, bak, kapa, anlat</em></td></tr>
-  <tr style="background:lightgray"><td>Verb Verb Pos|Imp|A3pl</td><td>=&gt;</td><td>VERB</td><td>Mood=Imp|Negative=Pos|Number=Plur|Person=3</td><td><em>sevsinler, bilsinler</em></td></tr>
-  <tr><td>Verb Verb Pos|Imp|A3sg</td><td>=&gt;</td><td>VERB</td><td>Mood=Imp|Negative=Pos|Number=Sing|Person=3</td><td><em>olsun, kalsın, görsün, gelsin, Çalsın</em></td></tr>
-  <tr style="background:lightgray"><td>Verb Verb Pos|Narr</td><td>=&gt;</td><td>VERB</td><td>Negative=Pos|Tense=Nar</td><td><em>_</em></td></tr>
-  <tr><td>Verb Verb Pos|Narr|A1pl</td><td>=&gt;</td><td>VERB</td><td>Negative=Pos|Number=Plur|Person=1|Tense=Nar</td><td><em>bellemişiz, yapmışız, almışız, geç_kalmışız</em></td></tr>
-  <tr style="background:lightgray"><td>Verb Verb Pos|Narr|A1sg</td><td>=&gt;</td><td>VERB</td><td>Negative=Pos|Number=Sing|Person=1|Tense=Nar</td><td><em>doğmuşum, demişim, Yanılmışım, yazmışım, hükmetmişim</em></td></tr>
-  <tr><td>Verb Verb Pos|Narr|A2pl</td><td>=&gt;</td><td>VERB</td><td>Negative=Pos|Number=Plur|Person=2|Tense=Nar</td><td><em>bulunmuşsunuz</em></td></tr>
-  <tr style="background:lightgray"><td>Verb Verb Pos|Narr|A2sg</td><td>=&gt;</td><td>VERB</td><td>Negative=Pos|Number=Sing|Person=2|Tense=Nar</td><td><em>bulmuşsun, beğenmişsin, unutmuşsun, İçmişsin, anlatmışsın</em></td></tr>
-  <tr><td>Verb Verb Pos|Narr|A3pl</td><td>=&gt;</td><td>VERB</td><td>Negative=Pos|Number=Plur|Person=3|Tense=Nar</td><td><em>gelmişler, vermişler, demişler, getirmişler, satmışlar</em></td></tr>
-  <tr style="background:lightgray"><td>Verb Verb Pos|Narr|A3sg</td><td>=&gt;</td><td>VERB</td><td>Negative=Pos|Number=Sing|Person=3|Tense=Nar</td><td><em>olmuş, demiş, bayılmış, gelmiş, çıkmış</em></td></tr>
-  <tr><td>Verb Verb Pos|Narr|Cop|A1sg</td><td>=&gt;</td><td>VERB</td><td>Negative=Pos|Number=Sing|Person=1|Tense=Nar|VerbType=Cop</td><td><em>girmişimdir, aktarmışımdır</em></td></tr>
-  <tr style="background:lightgray"><td>Verb Verb Pos|Narr|Cop|A3pl</td><td>=&gt;</td><td>VERB</td><td>Negative=Pos|Number=Plur|Person=3|Tense=Nar|VerbType=Cop</td><td><em>olmuşlardır</em></td></tr>
-  <tr><td>Verb Verb Pos|Narr|Cop|A3sg</td><td>=&gt;</td><td>VERB</td><td>Negative=Pos|Number=Sing|Person=3|Tense=Nar|VerbType=Cop</td><td><em>olmuştur, açmıştır, ulaşmıştır, başlamıştır, gelmiştir</em></td></tr>
-  <tr style="background:lightgray"><td>Verb Verb Pos|Narr|Past|A1pl</td><td>=&gt;</td><td>VERB</td><td>Negative=Pos|Number=Plur|Person=1|Tense=Nar,Past</td><td><em>oturmuştuk, yapmıştık, gülüşmüştük, gitmiştik, varmıştık</em></td></tr>
-  <tr><td>Verb Verb Pos|Narr|Past|A1sg</td><td>=&gt;</td><td>VERB</td><td>Negative=Pos|Number=Sing|Person=1|Tense=Nar,Past</td><td><em>unutmuştum, istemiştim, söz_vermiştim, gelmiştim, fark_etmiştim</em></td></tr>
-  <tr style="background:lightgray"><td>Verb Verb Pos|Narr|Past|A2pl</td><td>=&gt;</td><td>VERB</td><td>Negative=Pos|Number=Plur|Person=2|Tense=Nar,Past</td><td><em>okumuştunuz, susmuştunuz</em></td></tr>
-  <tr><td>Verb Verb Pos|Narr|Past|A2sg</td><td>=&gt;</td><td>VERB</td><td>Negative=Pos|Number=Sing|Person=2|Tense=Nar,Past</td><td><em>istemiştin, gelmiştin, ovalamıştın, girmiştin, hatırlamıştın</em></td></tr>
-  <tr style="background:lightgray"><td>Verb Verb Pos|Narr|Past|A3pl</td><td>=&gt;</td><td>VERB</td><td>Negative=Pos|Number=Plur|Person=3|Tense=Nar,Past</td><td><em></em></td></tr>
-  <tr><td>Verb Verb Pos|Narr|Past|A3sg</td><td>=&gt;</td><td>VERB</td><td>Negative=Pos|Number=Sing|Person=3|Tense=Nar,Past</td><td><em>başlamıştı, demişti, gelmişti, geçmişti, kalkmıştı</em></td></tr>
-  <tr style="background:lightgray"><td>Verb Verb Pos|Neces|A1pl</td><td>=&gt;</td><td>VERB</td><td>Mood=Nec|Negative=Pos|Number=Plur|Person=1</td><td><em>yardım_etmeliyiz, yaklaşmalıyız, yardımcı_olmalıyız</em></td></tr>
-  <tr><td>Verb Verb Pos|Neces|A1sg</td><td>=&gt;</td><td>VERB</td><td>Mood=Nec|Negative=Pos|Number=Sing|Person=1</td><td><em>bulmalıyım, dönmeliyim, koymalıyım, itiraf_etmeliyim, kalmalıyım</em></td></tr>
-  <tr style="background:lightgray"><td>Verb Verb Pos|Neces|A2pl</td><td>=&gt;</td><td>VERB</td><td>Mood=Nec|Negative=Pos|Number=Plur|Person=2</td><td><em>iletmelisiniz, hazırlamalısınız</em></td></tr>
-  <tr><td>Verb Verb Pos|Neces|A2sg</td><td>=&gt;</td><td>VERB</td><td>Mood=Nec|Negative=Pos|Number=Sing|Person=2</td><td><em>olmalısın</em></td></tr>
-  <tr style="background:lightgray"><td>Verb Verb Pos|Neces|A3sg</td><td>=&gt;</td><td>VERB</td><td>Mood=Nec|Negative=Pos|Number=Sing|Person=3</td><td><em>olmalı, almalı, sağlamalı, devam_etmeli, başlamalı</em></td></tr>
-  <tr><td>Verb Verb Pos|Neces|Cop|A3sg</td><td>=&gt;</td><td>VERB</td><td>Mood=Nec|Negative=Pos|Number=Sing|Person=3|VerbType=Cop</td><td><em>olmalıdır, bulunmalıdır</em></td></tr>
-  <tr style="background:lightgray"><td>Verb Verb Pos|Neces|Past|A1sg</td><td>=&gt;</td><td>VERB</td><td>Mood=Nec|Negative=Pos|Number=Sing|Person=1|Tense=Past</td><td><em>kurtarmalıydım, anlatmalıydım</em></td></tr>
-  <tr><td>Verb Verb Pos|Neces|Past|A2pl</td><td>=&gt;</td><td>VERB</td><td>Mood=Nec|Negative=Pos|Number=Plur|Person=2|Tense=Past</td><td><em>buluşmalıydınız</em></td></tr>
-  <tr style="background:lightgray"><td>Verb Verb Pos|Neces|Past|A3sg</td><td>=&gt;</td><td>VERB</td><td>Mood=Nec|Negative=Pos|Number=Sing|Person=3|Tense=Past</td><td><em>olmalıydı, başlamış_olmalıydı</em></td></tr>
-  <tr><td>Verb Verb Pos|Opt|A1pl</td><td>=&gt;</td><td>VERB</td><td>Mood=Opt|Negative=Pos|Number=Plur|Person=1</td><td><em>bakalım, gidelim, girelim, Hadi_bakalım, içelim</em></td></tr>
-  <tr style="background:lightgray"><td>Verb Verb Pos|Opt|A1sg</td><td>=&gt;</td><td>VERB</td><td>Mood=Opt|Negative=Pos|Number=Sing|Person=1</td><td><em>yazayım, anlatayım, yapayım, açayım, taşıyayım</em></td></tr>
-  <tr><td>Verb Verb Pos|Opt|A3sg</td><td>=&gt;</td><td>VERB</td><td>Mood=Opt|Negative=Pos|Number=Sing|Person=3</td><td><em>diye, sevine, güle, Özene, bağıra</em></td></tr>
-  <tr style="background:lightgray"><td>Verb Verb Pos|Past|A1pl</td><td>=&gt;</td><td>VERB</td><td>Negative=Pos|Number=Plur|Person=1|Tense=Past</td><td><em>gittik, geldik, aldık, girdik, oturduk</em></td></tr>
-  <tr><td>Verb Verb Pos|Past|A1sg</td><td>=&gt;</td><td>VERB</td><td>Negative=Pos|Number=Sing|Person=1|Tense=Past</td><td><em>dedim, sordum, gördüm, düşündüm, başladım</em></td></tr>
-  <tr style="background:lightgray"><td>Verb Verb Pos|Past|A2pl</td><td>=&gt;</td><td>VERB</td><td>Negative=Pos|Number=Plur|Person=2|Tense=Past</td><td><em>geldiniz, korktunuz, kaldınız, istediniz, duydunuz</em></td></tr>
-  <tr><td>Verb Verb Pos|Past|A2sg</td><td>=&gt;</td><td>VERB</td><td>Negative=Pos|Number=Sing|Person=2|Tense=Past</td><td><em>anlattın, yaptın, buldun, kaçtın, girdin</em></td></tr>
-  <tr style="background:lightgray"><td>Verb Verb Pos|Past|A3pl</td><td>=&gt;</td><td>VERB</td><td>Negative=Pos|Number=Plur|Person=3|Tense=Past</td><td><em>başladılar, dediler, söylediler, düşündüler, çıktılar</em></td></tr>
-  <tr><td>Verb Verb Pos|Past|A3sg</td><td>=&gt;</td><td>VERB</td><td>Negative=Pos|Number=Sing|Person=3|Tense=Past</td><td><em>dedi, oldu, söyledi, geldi, sordu</em></td></tr>
-  <tr style="background:lightgray"><td>Verb Verb Pos|Prog1|A1pl</td><td>=&gt;</td><td>VERB</td><td>Aspect=Prog|Negative=Pos|Number=Plur|Person=1</td><td><em>gidiyoruz, düşünüyoruz, içiyoruz, görüşüyoruz, istiyoruz</em></td></tr>
-  <tr><td>Verb Verb Pos|Prog1|A1sg</td><td>=&gt;</td><td>VERB</td><td>Aspect=Prog|Negative=Pos|Number=Sing|Person=1</td><td><em>istiyorum, biliyorum, diyorum, seviyorum, yazıyorum</em></td></tr>
-  <tr style="background:lightgray"><td>Verb Verb Pos|Prog1|A2pl</td><td>=&gt;</td><td>VERB</td><td>Aspect=Prog|Negative=Pos|Number=Plur|Person=2</td><td><em>biliyorsunuz, görünüyorsunuz, oturuyorsunuz, yazıyorsunuz, işitiyorsunuz</em></td></tr>
-  <tr><td>Verb Verb Pos|Prog1|A2sg</td><td>=&gt;</td><td>VERB</td><td>Aspect=Prog|Negative=Pos|Number=Sing|Person=2</td><td><em>biliyorsun, yazıyorsun, hissediyorsun, düşünüyorsun, çalışıyorsun</em></td></tr>
-  <tr style="background:lightgray"><td>Verb Verb Pos|Prog1|A3pl</td><td>=&gt;</td><td>VERB</td><td>Aspect=Prog|Negative=Pos|Number=Plur|Person=3</td><td><em>diyorlar, yapıyorlar, sanıyorlar, yiyorlar, çıkıyorlar</em></td></tr>
-  <tr><td>Verb Verb Pos|Prog1|A3sg</td><td>=&gt;</td><td>VERB</td><td>Aspect=Prog|Negative=Pos|Number=Sing|Person=3</td><td><em>diyor, geliyor, oluyor, yapıyor, biliyor</em></td></tr>
-  <tr style="background:lightgray"><td>Verb Verb Pos|Prog1|Cop|A3sg</td><td>=&gt;</td><td>VERB</td><td>Aspect=Prog|Negative=Pos|Number=Sing|Person=3|VerbType=Cop</td><td><em>oturuyordur, öpüyordur, tanıyordur</em></td></tr>
-  <tr><td>Verb Verb Pos|Prog1|Narr|A1sg</td><td>=&gt;</td><td>VERB</td><td>Aspect=Prog|Negative=Pos|Number=Sing|Person=1|Tense=Nar</td><td><em>kalkıyormuşum, yapıyormuşum</em></td></tr>
-  <tr style="background:lightgray"><td>Verb Verb Pos|Prog1|Narr|A3pl</td><td>=&gt;</td><td>VERB</td><td>Aspect=Prog|Negative=Pos|Number=Plur|Person=3|Tense=Nar</td><td><em></em></td></tr>
-  <tr><td>Verb Verb Pos|Prog1|Narr|A3sg</td><td>=&gt;</td><td>VERB</td><td>Aspect=Prog|Negative=Pos|Number=Sing|Person=3|Tense=Nar</td><td><em>oluyormuş, Ölüyormuş, Merak_ediyormuş, bakıyormuş, çırpınıyormuş</em></td></tr>
-  <tr style="background:lightgray"><td>Verb Verb Pos|Prog1|Past|A1pl</td><td>=&gt;</td><td>VERB</td><td>Aspect=Prog|Negative=Pos|Number=Plur|Person=1|Tense=Past</td><td><em>içiyorduk, yaşıyorduk, başlıyorduk, bakıyorduk, ilerliyorduk</em></td></tr>
-  <tr><td>Verb Verb Pos|Prog1|Past|A1sg</td><td>=&gt;</td><td>VERB</td><td>Aspect=Prog|Negative=Pos|Number=Sing|Person=1|Tense=Past</td><td><em>biliyordum, çalışıyordum, korkuyordum, bakıyordum, konuşuyordum</em></td></tr>
-  <tr style="background:lightgray"><td>Verb Verb Pos|Prog1|Past|A2pl</td><td>=&gt;</td><td>VERB</td><td>Aspect=Prog|Negative=Pos|Number=Plur|Person=2|Tense=Past</td><td><em>çalışıyordunuz, diyordunuz, alıyordunuz</em></td></tr>
-  <tr><td>Verb Verb Pos|Prog1|Past|A2sg</td><td>=&gt;</td><td>VERB</td><td>Aspect=Prog|Negative=Pos|Number=Sing|Person=2|Tense=Past</td><td><em>duruyordun, kolluyordun, biliyordun</em></td></tr>
-  <tr style="background:lightgray"><td>Verb Verb Pos|Prog1|Past|A3pl</td><td>=&gt;</td><td>VERB</td><td>Aspect=Prog|Negative=Pos|Number=Plur|Person=3|Tense=Past</td><td><em>getiriyorlardı, bekliyorlardı, bakıyorlardı, üzerime_geliyorlardı, oluyorlardı</em></td></tr>
-  <tr><td>Verb Verb Pos|Prog1|Past|A3sg</td><td>=&gt;</td><td>VERB</td><td>Aspect=Prog|Negative=Pos|Number=Sing|Person=3|Tense=Past</td><td><em>geliyordu, oturuyordu, bakıyordu, oluyordu, titriyordu</em></td></tr>
-  <tr style="background:lightgray"><td>Verb Verb Pos|Prog2|A3sg</td><td>=&gt;</td><td>VERB</td><td>Aspect=Prog|Negative=Pos|Number=Sing|Person=3</td><td><em>oturmakta, kapamakta, soymakta, kullanmakta, taşımakta</em></td></tr>
-  <tr><td>Verb Verb Pos|Prog2|Cop|A3pl</td><td>=&gt;</td><td>VERB</td><td>Aspect=Prog|Negative=Pos|Number=Plur|Person=3|VerbType=Cop</td><td><em>savunmaktadırlar</em></td></tr>
-  <tr style="background:lightgray"><td>Verb Verb Pos|Prog2|Cop|A3sg</td><td>=&gt;</td><td>VERB</td><td>Aspect=Prog|Negative=Pos|Number=Sing|Person=3|VerbType=Cop</td><td><em>ayakta_tutmaktadır, desteklemektedir, oluşmaktadır, kapsamaktadır, yaşamaktadır</em></td></tr>
+  <tr><td>Verb Verb Pos</td><td>=&gt;</td><td>VERB</td><td>Polarity=Pos</td><td><em>_</em></td></tr>
+  <tr style="background:lightgray"><td>Verb Verb Pos|Aor</td><td>=&gt;</td><td>VERB</td><td>Polarity=Pos|Tense=Aor</td><td><em>_</em></td></tr>
+  <tr><td>Verb Verb Pos|Aor|A1pl</td><td>=&gt;</td><td>VERB</td><td>Number=Plur|Person=1|Polarity=Pos|Tense=Aor</td><td><em>görüşürüz, Anlarız, çalışırız, getiririz, severiz</em></td></tr>
+  <tr style="background:lightgray"><td>Verb Verb Pos|Aor|A1sg</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=1|Polarity=Pos|Tense=Aor</td><td><em>sanırım, veririm, yaparım, ederim, kaçarım</em></td></tr>
+  <tr><td>Verb Verb Pos|Aor|A2pl</td><td>=&gt;</td><td>VERB</td><td>Number=Plur|Person=2|Polarity=Pos|Tense=Aor</td><td><em>gidersiniz, dersiniz, yaparsınız, dinlenirsiniz, anlarsınız</em></td></tr>
+  <tr style="background:lightgray"><td>Verb Verb Pos|Aor|A2sg</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=2|Polarity=Pos|Tense=Aor</td><td><em>sanırsın, kaybedersin, sıfırı_tüketirsin, ödersin, içersin</em></td></tr>
+  <tr><td>Verb Verb Pos|Aor|A3pl</td><td>=&gt;</td><td>VERB</td><td>Number=Plur|Person=3|Polarity=Pos|Tense=Aor</td><td><em>koyarlar, yaparlar, söylerler, severler, olurlar</em></td></tr>
+  <tr style="background:lightgray"><td>Verb Verb Pos|Aor|A3sg</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=3|Polarity=Pos|Tense=Aor</td><td><em>olur, gerekir, yeter, alır, gelir</em></td></tr>
+  <tr><td>Verb Verb Pos|Aor|Narr|A1sg</td><td>=&gt;</td><td>VERB</td><td>Evident=Nfh|Number=Sing|Person=1|Polarity=Pos|Tense=Aor</td><td><em>tüketirmişim</em></td></tr>
+  <tr style="background:lightgray"><td>Verb Verb Pos|Aor|Narr|A3pl</td><td>=&gt;</td><td>VERB</td><td>Evident=Nfh|Number=Plur|Person=3|Polarity=Pos|Tense=Aor</td><td><em></em></td></tr>
+  <tr><td>Verb Verb Pos|Aor|Narr|A3sg</td><td>=&gt;</td><td>VERB</td><td>Evident=Nfh|Number=Sing|Person=3|Polarity=Pos|Tense=Aor</td><td><em>olurmuş, inanırmış, severmiş, yaşarmış, bitermiş</em></td></tr>
+  <tr style="background:lightgray"><td>Verb Verb Pos|Aor|Past|A1pl</td><td>=&gt;</td><td>VERB</td><td>Number=Plur|Person=1|Polarity=Pos|Tense=Aor,Past</td><td><em>derdik, sevişirdik, okurduk, Giderdik</em></td></tr>
+  <tr><td>Verb Verb Pos|Aor|Past|A1sg</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=1|Polarity=Pos|Tense=Aor,Past</td><td><em>isterdim, koyardım, olurdum, düşünürdüm, dinlerdim</em></td></tr>
+  <tr style="background:lightgray"><td>Verb Verb Pos|Aor|Past|A2sg</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=2|Polarity=Pos|Tense=Aor,Past</td><td><em>kopardın</em></td></tr>
+  <tr><td>Verb Verb Pos|Aor|Past|A3pl</td><td>=&gt;</td><td>VERB</td><td>Number=Plur|Person=3|Polarity=Pos|Tense=Aor,Past</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Verb Verb Pos|Aor|Past|A3sg</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=3|Polarity=Pos|Tense=Aor,Past</td><td><em>olurdu, otururdu, yapardı, bilirdi, derdi</em></td></tr>
+  <tr><td>Verb Verb Pos|Cond|Aor|A1pl</td><td>=&gt;</td><td>VERB</td><td>Mood=Cnd|Number=Plur|Person=1|Polarity=Pos|Tense=Aor</td><td><em>geç_kalırsak, satarsak, istersek</em></td></tr>
+  <tr style="background:lightgray"><td>Verb Verb Pos|Cond|Aor|A1sg</td><td>=&gt;</td><td>VERB</td><td>Mood=Cnd|Number=Sing|Person=1|Polarity=Pos|Tense=Aor</td><td><em>yaparsam, çıkarsam, özlersem, bulursam, duyarsam</em></td></tr>
+  <tr><td>Verb Verb Pos|Cond|Aor|A2pl</td><td>=&gt;</td><td>VERB</td><td>Mood=Cnd|Number=Plur|Person=2|Polarity=Pos|Tense=Aor</td><td><em>bakarsanız, isterseniz, yerseniz, sorarsanız, yazarsanız</em></td></tr>
+  <tr style="background:lightgray"><td>Verb Verb Pos|Cond|Aor|A2sg</td><td>=&gt;</td><td>VERB</td><td>Mood=Cnd|Number=Sing|Person=2|Polarity=Pos|Tense=Aor</td><td><em>İstersen, dilersen, dersen, yardım_edersen, uyarsan</em></td></tr>
+  <tr><td>Verb Verb Pos|Cond|Aor|A3pl</td><td>=&gt;</td><td>VERB</td><td>Mood=Cnd|Number=Plur|Person=3|Polarity=Pos|Tense=Aor</td><td><em>olurlarsa, atarlarsa, gelirlerse, onarlarsa, kaparlarsa</em></td></tr>
+  <tr style="background:lightgray"><td>Verb Verb Pos|Cond|Aor|A3sg</td><td>=&gt;</td><td>VERB</td><td>Mood=Cnd|Number=Sing|Person=3|Polarity=Pos|Tense=Aor</td><td><em>verirse, isterse, kalırsa, başlarsa, derse</em></td></tr>
+  <tr><td>Verb Verb Pos|Cond|Fut|A2sg</td><td>=&gt;</td><td>VERB</td><td>Mood=Cnd|Number=Sing|Person=2|Polarity=Pos|Tense=Fut</td><td><em>çalışacaksan</em></td></tr>
+  <tr style="background:lightgray"><td>Verb Verb Pos|Cond|Fut|A3sg</td><td>=&gt;</td><td>VERB</td><td>Mood=Cnd|Number=Sing|Person=3|Polarity=Pos|Tense=Fut</td><td><em>olacaksa</em></td></tr>
+  <tr><td>Verb Verb Pos|Cond|Narr|A3pl</td><td>=&gt;</td><td>VERB</td><td>Evident=Nfh|Mood=Cnd|Number=Plur|Person=3|Polarity=Pos|Tense=Past</td><td><em>evlenmişlerse, elde_etmişlerse, mazhar_olmuşlarsa</em></td></tr>
+  <tr style="background:lightgray"><td>Verb Verb Pos|Cond|Narr|A3sg</td><td>=&gt;</td><td>VERB</td><td>Evident=Nfh|Mood=Cnd|Number=Sing|Person=3|Polarity=Pos|Tense=Past</td><td><em>oturmuşsa</em></td></tr>
+  <tr><td>Verb Verb Pos|Cond|Past|A2sg</td><td>=&gt;</td><td>VERB</td><td>Mood=Cnd|Number=Sing|Person=2|Polarity=Pos|Tense=Past</td><td><em>yaptınsa</em></td></tr>
+  <tr style="background:lightgray"><td>Verb Verb Pos|Cond|Past|A3sg</td><td>=&gt;</td><td>VERB</td><td>Mood=Cnd|Number=Sing|Person=3|Polarity=Pos|Tense=Past</td><td><em>naz_ettiyse, uyuduysa, olduysa</em></td></tr>
+  <tr><td>Verb Verb Pos|Cond|Prog1|A1pl</td><td>=&gt;</td><td>VERB</td><td>Aspect=Prog|Mood=Cnd|Number=Plur|Person=1|Polarity=Pos</td><td><em>döküyorsak</em></td></tr>
+  <tr style="background:lightgray"><td>Verb Verb Pos|Cond|Prog1|A1sg</td><td>=&gt;</td><td>VERB</td><td>Aspect=Prog|Mood=Cnd|Number=Sing|Person=1|Polarity=Pos</td><td><em>istiyorsam</em></td></tr>
+  <tr><td>Verb Verb Pos|Cond|Prog1|A2sg</td><td>=&gt;</td><td>VERB</td><td>Aspect=Prog|Mood=Cnd|Number=Sing|Person=2|Polarity=Pos</td><td><em>seviyorsan</em></td></tr>
+  <tr style="background:lightgray"><td>Verb Verb Pos|Cond|Prog1|A3sg</td><td>=&gt;</td><td>VERB</td><td>Aspect=Prog|Mood=Cnd|Number=Sing|Person=3|Polarity=Pos</td><td><em>geliyorsa, öpüyorsa, uyuşuyorsa, seviyorsa</em></td></tr>
+  <tr><td>Verb Verb Pos|Desr|A1pl</td><td>=&gt;</td><td>VERB</td><td>Mood=Des|Number=Plur|Person=1|Polarity=Pos</td><td><em>desek, kapsak, girsek, taksak</em></td></tr>
+  <tr style="background:lightgray"><td>Verb Verb Pos|Desr|A1sg</td><td>=&gt;</td><td>VERB</td><td>Mood=Des|Number=Sing|Person=1|Polarity=Pos</td><td><em>dönsem, baksam, anlatsam, düşünsem, tarif_etsem</em></td></tr>
+  <tr><td>Verb Verb Pos|Desr|A2pl</td><td>=&gt;</td><td>VERB</td><td>Mood=Des|Number=Plur|Person=2|Polarity=Pos</td><td><em>yazsanız, Kursanız</em></td></tr>
+  <tr style="background:lightgray"><td>Verb Verb Pos|Desr|A2sg</td><td>=&gt;</td><td>VERB</td><td>Mood=Des|Number=Sing|Person=2|Polarity=Pos</td><td><em>görsen, konuşsan, sorsan, Arasan, bilsen</em></td></tr>
+  <tr><td>Verb Verb Pos|Desr|A3pl</td><td>=&gt;</td><td>VERB</td><td>Mood=Des|Number=Plur|Person=3|Polarity=Pos</td><td><em>isteseler, barışsalar, fark_etseler</em></td></tr>
+  <tr style="background:lightgray"><td>Verb Verb Pos|Desr|A3sg</td><td>=&gt;</td><td>VERB</td><td>Mood=Des|Number=Sing|Person=3|Polarity=Pos</td><td><em>olsa, ise, varsa, istese, bıraksa</em></td></tr>
+  <tr><td>Verb Verb Pos|Desr|Past|A1sg</td><td>=&gt;</td><td>VERB</td><td>Mood=Des|Number=Sing|Person=1|Polarity=Pos|Tense=Past</td><td><em>olsaydım, armağan_etseydim, varsaydım</em></td></tr>
+  <tr style="background:lightgray"><td>Verb Verb Pos|Desr|Past|A2pl</td><td>=&gt;</td><td>VERB</td><td>Mood=Des|Number=Plur|Person=2|Polarity=Pos|Tense=Past</td><td><em>konuşsaydınız, Evlenseydiniz</em></td></tr>
+  <tr><td>Verb Verb Pos|Desr|Past|A2sg</td><td>=&gt;</td><td>VERB</td><td>Mood=Des|Number=Sing|Person=2|Polarity=Pos|Tense=Past</td><td><em>düşseydin, yapsaydın, önerseydin, Direnseydin, Israr_etseydin</em></td></tr>
+  <tr style="background:lightgray"><td>Verb Verb Pos|Desr|Past|A3pl</td><td>=&gt;</td><td>VERB</td><td>Mood=Des|Number=Plur|Person=3|Polarity=Pos|Tense=Past</td><td><em>katlansalardı</em></td></tr>
+  <tr><td>Verb Verb Pos|Desr|Past|A3sg</td><td>=&gt;</td><td>VERB</td><td>Mood=Des|Number=Sing|Person=3|Polarity=Pos|Tense=Past</td><td><em>olsaydı, böyle_olsaydı, alsaydı</em></td></tr>
+  <tr style="background:lightgray"><td>Verb Verb Pos|Fut|A1pl</td><td>=&gt;</td><td>VERB</td><td>Number=Plur|Person=1|Polarity=Pos|Tense=Fut</td><td><em>yapacağız, yiyeceğiz, çalışacağız, olacağız, devam_edeceğiz</em></td></tr>
+  <tr><td>Verb Verb Pos|Fut|A1sg</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=1|Polarity=Pos|Tense=Fut</td><td><em>gideceğim, geleceğim, dinleyeceğim, sevineceğim, keseceğim</em></td></tr>
+  <tr style="background:lightgray"><td>Verb Verb Pos|Fut|A2pl</td><td>=&gt;</td><td>VERB</td><td>Number=Plur|Person=2|Polarity=Pos|Tense=Fut</td><td><em>yaşayacaksınız, sorgulayacaksınız, tayin_edeceksiniz, zarar_edeceksiniz, yürüyeceksiniz</em></td></tr>
+  <tr><td>Verb Verb Pos|Fut|A2sg</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=2|Polarity=Pos|Tense=Fut</td><td><em>beğeneceksin, Seveceksin, bakacaksın, yakacaksın, göreceksin</em></td></tr>
+  <tr style="background:lightgray"><td>Verb Verb Pos|Fut|A3pl</td><td>=&gt;</td><td>VERB</td><td>Number=Plur|Person=3|Polarity=Pos|Tense=Fut</td><td><em>yapacaklar, okuyacaklar, toplayacaklar, oynayacaklar, çözecekler</em></td></tr>
+  <tr><td>Verb Verb Pos|Fut|A3sg</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=3|Polarity=Pos|Tense=Fut</td><td><em>olacak, verecek, gelecek, sağlayacak, yapacak</em></td></tr>
+  <tr style="background:lightgray"><td>Verb Verb Pos|Fut|Cop|A3sg</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=3|Polarity=Pos|Tense=Fut|VerbType=Cop</td><td><em>olacaktır, akacaktır, sonu_olacaktır, çarpacaktır, etkileyecektir</em></td></tr>
+  <tr><td>Verb Verb Pos|Fut|Narr|A3pl</td><td>=&gt;</td><td>VERB</td><td>Evident=Nfh|Number=Plur|Person=3|Polarity=Pos|Tense=Fut</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Verb Verb Pos|Fut|Narr|A3sg</td><td>=&gt;</td><td>VERB</td><td>Evident=Nfh|Number=Sing|Person=3|Polarity=Pos|Tense=Fut</td><td><em>girecekmiş</em></td></tr>
+  <tr><td>Verb Verb Pos|Fut|Past|A1pl</td><td>=&gt;</td><td>VERB</td><td>Number=Plur|Person=1|Polarity=Pos|Tense=Fut,Past</td><td><em>kat_edecektik, diyecektik, gelecektik</em></td></tr>
+  <tr style="background:lightgray"><td>Verb Verb Pos|Fut|Past|A1sg</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=1|Polarity=Pos|Tense=Fut,Past</td><td><em>bekleyecektim, yiyecektim, anlatacaktım, diyecektim, veda_edecektim</em></td></tr>
+  <tr><td>Verb Verb Pos|Fut|Past|A2sg</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=2|Polarity=Pos|Tense=Fut,Past</td><td><em>anlatacaktın</em></td></tr>
+  <tr style="background:lightgray"><td>Verb Verb Pos|Fut|Past|A3pl</td><td>=&gt;</td><td>VERB</td><td>Number=Plur|Person=3|Polarity=Pos|Tense=Fut,Past</td><td><em></em></td></tr>
+  <tr><td>Verb Verb Pos|Fut|Past|A3sg</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=3|Polarity=Pos|Tense=Fut,Past</td><td><em>olacaktı, öğrenecekti, ellerinde_olacaktı, yapacaktı, ölecekti</em></td></tr>
+  <tr style="background:lightgray"><td>Verb Verb Pos|Imp|A2pl</td><td>=&gt;</td><td>VERB</td><td>Mood=Imp|Number=Plur|Person=2|Polarity=Pos</td><td><em>bakın, alın, Durun, olun, Baksanıza</em></td></tr>
+  <tr><td>Verb Verb Pos|Imp|A2sg</td><td>=&gt;</td><td>VERB</td><td>Mood=Imp|Number=Sing|Person=2|Polarity=Pos</td><td><em>var, gerek, bak, kapa, anlat</em></td></tr>
+  <tr style="background:lightgray"><td>Verb Verb Pos|Imp|A3pl</td><td>=&gt;</td><td>VERB</td><td>Mood=Imp|Number=Plur|Person=3|Polarity=Pos</td><td><em>sevsinler, bilsinler</em></td></tr>
+  <tr><td>Verb Verb Pos|Imp|A3sg</td><td>=&gt;</td><td>VERB</td><td>Mood=Imp|Number=Sing|Person=3|Polarity=Pos</td><td><em>olsun, kalsın, görsün, gelsin, Çalsın</em></td></tr>
+  <tr style="background:lightgray"><td>Verb Verb Pos|Narr</td><td>=&gt;</td><td>VERB</td><td>Evident=Nfh|Polarity=Pos|Tense=Past</td><td><em>_</em></td></tr>
+  <tr><td>Verb Verb Pos|Narr|A1pl</td><td>=&gt;</td><td>VERB</td><td>Evident=Nfh|Number=Plur|Person=1|Polarity=Pos|Tense=Past</td><td><em>bellemişiz, yapmışız, almışız, geç_kalmışız</em></td></tr>
+  <tr style="background:lightgray"><td>Verb Verb Pos|Narr|A1sg</td><td>=&gt;</td><td>VERB</td><td>Evident=Nfh|Number=Sing|Person=1|Polarity=Pos|Tense=Past</td><td><em>doğmuşum, demişim, Yanılmışım, yazmışım, hükmetmişim</em></td></tr>
+  <tr><td>Verb Verb Pos|Narr|A2pl</td><td>=&gt;</td><td>VERB</td><td>Evident=Nfh|Number=Plur|Person=2|Polarity=Pos|Tense=Past</td><td><em>bulunmuşsunuz</em></td></tr>
+  <tr style="background:lightgray"><td>Verb Verb Pos|Narr|A2sg</td><td>=&gt;</td><td>VERB</td><td>Evident=Nfh|Number=Sing|Person=2|Polarity=Pos|Tense=Past</td><td><em>bulmuşsun, beğenmişsin, unutmuşsun, İçmişsin, anlatmışsın</em></td></tr>
+  <tr><td>Verb Verb Pos|Narr|A3pl</td><td>=&gt;</td><td>VERB</td><td>Evident=Nfh|Number=Plur|Person=3|Polarity=Pos|Tense=Past</td><td><em>başlamışlardı, vermişlerdi, konuşmuşlardı, oturmuşlardı, çalışmışlardı</em></td></tr>
+  <tr style="background:lightgray"><td>Verb Verb Pos|Narr|A3sg</td><td>=&gt;</td><td>VERB</td><td>Evident=Nfh|Number=Sing|Person=3|Polarity=Pos|Tense=Past</td><td><em>olmuş, demiş, bayılmış, gelmiş, çıkmış</em></td></tr>
+  <tr><td>Verb Verb Pos|Narr|Cop|A1sg</td><td>=&gt;</td><td>VERB</td><td>Evident=Nfh|Number=Sing|Person=1|Polarity=Pos|Tense=Past|VerbType=Cop</td><td><em>girmişimdir, aktarmışımdır</em></td></tr>
+  <tr style="background:lightgray"><td>Verb Verb Pos|Narr|Cop|A3pl</td><td>=&gt;</td><td>VERB</td><td>Evident=Nfh|Number=Plur|Person=3|Polarity=Pos|Tense=Past|VerbType=Cop</td><td><em>olmuşlardır</em></td></tr>
+  <tr><td>Verb Verb Pos|Narr|Cop|A3sg</td><td>=&gt;</td><td>VERB</td><td>Evident=Nfh|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbType=Cop</td><td><em>olmuştur, açmıştır, ulaşmıştır, başlamıştır, gelmiştir</em></td></tr>
+  <tr style="background:lightgray"><td>Verb Verb Pos|Narr|Past|A1pl</td><td>=&gt;</td><td>VERB</td><td>Evident=Fh,Nfh|Number=Plur|Person=1|Polarity=Pos|Tense=Past</td><td><em>oturmuştuk, yapmıştık, gülüşmüştük, gitmiştik, varmıştık</em></td></tr>
+  <tr><td>Verb Verb Pos|Narr|Past|A1sg</td><td>=&gt;</td><td>VERB</td><td>Evident=Fh,Nfh|Number=Sing|Person=1|Polarity=Pos|Tense=Past</td><td><em>unutmuştum, istemiştim, söz_vermiştim, gelmiştim, fark_etmiştim</em></td></tr>
+  <tr style="background:lightgray"><td>Verb Verb Pos|Narr|Past|A2pl</td><td>=&gt;</td><td>VERB</td><td>Evident=Fh,Nfh|Number=Plur|Person=2|Polarity=Pos|Tense=Past</td><td><em>okumuştunuz, susmuştunuz</em></td></tr>
+  <tr><td>Verb Verb Pos|Narr|Past|A2sg</td><td>=&gt;</td><td>VERB</td><td>Evident=Fh,Nfh|Number=Sing|Person=2|Polarity=Pos|Tense=Past</td><td><em>istemiştin, gelmiştin, ovalamıştın, girmiştin, hatırlamıştın</em></td></tr>
+  <tr style="background:lightgray"><td>Verb Verb Pos|Narr|Past|A3pl</td><td>=&gt;</td><td>VERB</td><td>Evident=Fh,Nfh|Number=Plur|Person=3|Polarity=Pos|Tense=Past</td><td><em></em></td></tr>
+  <tr><td>Verb Verb Pos|Narr|Past|A3sg</td><td>=&gt;</td><td>VERB</td><td>Evident=Fh,Nfh|Number=Sing|Person=3|Polarity=Pos|Tense=Past</td><td><em>başlamıştı, demişti, gelmişti, geçmişti, kalkmıştı</em></td></tr>
+  <tr style="background:lightgray"><td>Verb Verb Pos|Neces|A1pl</td><td>=&gt;</td><td>VERB</td><td>Mood=Nec|Number=Plur|Person=1|Polarity=Pos</td><td><em>yardım_etmeliyiz, yaklaşmalıyız, yardımcı_olmalıyız</em></td></tr>
+  <tr><td>Verb Verb Pos|Neces|A1sg</td><td>=&gt;</td><td>VERB</td><td>Mood=Nec|Number=Sing|Person=1|Polarity=Pos</td><td><em>bulmalıyım, dönmeliyim, koymalıyım, itiraf_etmeliyim, kalmalıyım</em></td></tr>
+  <tr style="background:lightgray"><td>Verb Verb Pos|Neces|A2pl</td><td>=&gt;</td><td>VERB</td><td>Mood=Nec|Number=Plur|Person=2|Polarity=Pos</td><td><em>iletmelisiniz, hazırlamalısınız</em></td></tr>
+  <tr><td>Verb Verb Pos|Neces|A2sg</td><td>=&gt;</td><td>VERB</td><td>Mood=Nec|Number=Sing|Person=2|Polarity=Pos</td><td><em>olmalısın</em></td></tr>
+  <tr style="background:lightgray"><td>Verb Verb Pos|Neces|A3sg</td><td>=&gt;</td><td>VERB</td><td>Mood=Nec|Number=Sing|Person=3|Polarity=Pos</td><td><em>olmalı, almalı, sağlamalı, devam_etmeli, başlamalı</em></td></tr>
+  <tr><td>Verb Verb Pos|Neces|Cop|A3sg</td><td>=&gt;</td><td>VERB</td><td>Mood=Nec|Number=Sing|Person=3|Polarity=Pos|VerbType=Cop</td><td><em>olmalıdır, bulunmalıdır</em></td></tr>
+  <tr style="background:lightgray"><td>Verb Verb Pos|Neces|Past|A1sg</td><td>=&gt;</td><td>VERB</td><td>Mood=Nec|Number=Sing|Person=1|Polarity=Pos|Tense=Past</td><td><em>kurtarmalıydım, anlatmalıydım</em></td></tr>
+  <tr><td>Verb Verb Pos|Neces|Past|A2pl</td><td>=&gt;</td><td>VERB</td><td>Mood=Nec|Number=Plur|Person=2|Polarity=Pos|Tense=Past</td><td><em>buluşmalıydınız</em></td></tr>
+  <tr style="background:lightgray"><td>Verb Verb Pos|Neces|Past|A3sg</td><td>=&gt;</td><td>VERB</td><td>Mood=Nec|Number=Sing|Person=3|Polarity=Pos|Tense=Past</td><td><em>olmalıydı, başlamış_olmalıydı</em></td></tr>
+  <tr><td>Verb Verb Pos|Opt|A1pl</td><td>=&gt;</td><td>VERB</td><td>Mood=Opt|Number=Plur|Person=1|Polarity=Pos</td><td><em>bakalım, gidelim, girelim, Hadi_bakalım, içelim</em></td></tr>
+  <tr style="background:lightgray"><td>Verb Verb Pos|Opt|A1sg</td><td>=&gt;</td><td>VERB</td><td>Mood=Opt|Number=Sing|Person=1|Polarity=Pos</td><td><em>yazayım, anlatayım, yapayım, açayım, taşıyayım</em></td></tr>
+  <tr><td>Verb Verb Pos|Opt|A3sg</td><td>=&gt;</td><td>VERB</td><td>Mood=Opt|Number=Sing|Person=3|Polarity=Pos</td><td><em>diye, sevine, güle, Özene, bağıra</em></td></tr>
+  <tr style="background:lightgray"><td>Verb Verb Pos|Past|A1pl</td><td>=&gt;</td><td>VERB</td><td>Number=Plur|Person=1|Polarity=Pos|Tense=Past</td><td><em>gittik, geldik, aldık, girdik, oturduk</em></td></tr>
+  <tr><td>Verb Verb Pos|Past|A1sg</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=1|Polarity=Pos|Tense=Past</td><td><em>dedim, sordum, gördüm, düşündüm, başladım</em></td></tr>
+  <tr style="background:lightgray"><td>Verb Verb Pos|Past|A2pl</td><td>=&gt;</td><td>VERB</td><td>Number=Plur|Person=2|Polarity=Pos|Tense=Past</td><td><em>geldiniz, korktunuz, kaldınız, istediniz, duydunuz</em></td></tr>
+  <tr><td>Verb Verb Pos|Past|A2sg</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=2|Polarity=Pos|Tense=Past</td><td><em>anlattın, yaptın, buldun, kaçtın, girdin</em></td></tr>
+  <tr style="background:lightgray"><td>Verb Verb Pos|Past|A3pl</td><td>=&gt;</td><td>VERB</td><td>Number=Plur|Person=3|Polarity=Pos|Tense=Past</td><td><em>başladılar, dediler, söylediler, düşündüler, çıktılar</em></td></tr>
+  <tr><td>Verb Verb Pos|Past|A3sg</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=3|Polarity=Pos|Tense=Past</td><td><em>dedi, oldu, söyledi, geldi, sordu</em></td></tr>
+  <tr style="background:lightgray"><td>Verb Verb Pos|Prog1|A1pl</td><td>=&gt;</td><td>VERB</td><td>Aspect=Prog|Number=Plur|Person=1|Polarity=Pos</td><td><em>gidiyoruz, düşünüyoruz, içiyoruz, görüşüyoruz, istiyoruz</em></td></tr>
+  <tr><td>Verb Verb Pos|Prog1|A1sg</td><td>=&gt;</td><td>VERB</td><td>Aspect=Prog|Number=Sing|Person=1|Polarity=Pos</td><td><em>istiyorum, biliyorum, diyorum, seviyorum, yazıyorum</em></td></tr>
+  <tr style="background:lightgray"><td>Verb Verb Pos|Prog1|A2pl</td><td>=&gt;</td><td>VERB</td><td>Aspect=Prog|Number=Plur|Person=2|Polarity=Pos</td><td><em>biliyorsunuz, görünüyorsunuz, oturuyorsunuz, yazıyorsunuz, işitiyorsunuz</em></td></tr>
+  <tr><td>Verb Verb Pos|Prog1|A2sg</td><td>=&gt;</td><td>VERB</td><td>Aspect=Prog|Number=Sing|Person=2|Polarity=Pos</td><td><em>biliyorsun, yazıyorsun, hissediyorsun, düşünüyorsun, çalışıyorsun</em></td></tr>
+  <tr style="background:lightgray"><td>Verb Verb Pos|Prog1|A3pl</td><td>=&gt;</td><td>VERB</td><td>Aspect=Prog|Number=Plur|Person=3|Polarity=Pos</td><td><em>diyorlar, yapıyorlar, sanıyorlar, yiyorlar, çıkıyorlar</em></td></tr>
+  <tr><td>Verb Verb Pos|Prog1|A3sg</td><td>=&gt;</td><td>VERB</td><td>Aspect=Prog|Number=Sing|Person=3|Polarity=Pos</td><td><em>diyor, geliyor, oluyor, yapıyor, biliyor</em></td></tr>
+  <tr style="background:lightgray"><td>Verb Verb Pos|Prog1|Cop|A3sg</td><td>=&gt;</td><td>VERB</td><td>Aspect=Prog|Number=Sing|Person=3|Polarity=Pos|VerbType=Cop</td><td><em>oturuyordur, öpüyordur, tanıyordur</em></td></tr>
+  <tr><td>Verb Verb Pos|Prog1|Narr|A1sg</td><td>=&gt;</td><td>VERB</td><td>Aspect=Prog|Evident=Nfh|Number=Sing|Person=1|Polarity=Pos|Tense=Past</td><td><em>kalkıyormuşum, yapıyormuşum</em></td></tr>
+  <tr style="background:lightgray"><td>Verb Verb Pos|Prog1|Narr|A3pl</td><td>=&gt;</td><td>VERB</td><td>Aspect=Prog|Evident=Nfh|Number=Plur|Person=3|Polarity=Pos|Tense=Past</td><td><em></em></td></tr>
+  <tr><td>Verb Verb Pos|Prog1|Narr|A3sg</td><td>=&gt;</td><td>VERB</td><td>Aspect=Prog|Evident=Nfh|Number=Sing|Person=3|Polarity=Pos|Tense=Past</td><td><em>oluyormuş, Ölüyormuş, Merak_ediyormuş, bakıyormuş, çırpınıyormuş</em></td></tr>
+  <tr style="background:lightgray"><td>Verb Verb Pos|Prog1|Past|A1pl</td><td>=&gt;</td><td>VERB</td><td>Aspect=Prog|Number=Plur|Person=1|Polarity=Pos|Tense=Past</td><td><em>içiyorduk, yaşıyorduk, başlıyorduk, bakıyorduk, ilerliyorduk</em></td></tr>
+  <tr><td>Verb Verb Pos|Prog1|Past|A1sg</td><td>=&gt;</td><td>VERB</td><td>Aspect=Prog|Number=Sing|Person=1|Polarity=Pos|Tense=Past</td><td><em>biliyordum, çalışıyordum, korkuyordum, bakıyordum, konuşuyordum</em></td></tr>
+  <tr style="background:lightgray"><td>Verb Verb Pos|Prog1|Past|A2pl</td><td>=&gt;</td><td>VERB</td><td>Aspect=Prog|Number=Plur|Person=2|Polarity=Pos|Tense=Past</td><td><em>çalışıyordunuz, diyordunuz, alıyordunuz</em></td></tr>
+  <tr><td>Verb Verb Pos|Prog1|Past|A2sg</td><td>=&gt;</td><td>VERB</td><td>Aspect=Prog|Number=Sing|Person=2|Polarity=Pos|Tense=Past</td><td><em>duruyordun, kolluyordun, biliyordun</em></td></tr>
+  <tr style="background:lightgray"><td>Verb Verb Pos|Prog1|Past|A3pl</td><td>=&gt;</td><td>VERB</td><td>Aspect=Prog|Number=Plur|Person=3|Polarity=Pos|Tense=Past</td><td><em>getiriyorlardı, bekliyorlardı, bakıyorlardı, üzerime_geliyorlardı, oluyorlardı</em></td></tr>
+  <tr><td>Verb Verb Pos|Prog1|Past|A3sg</td><td>=&gt;</td><td>VERB</td><td>Aspect=Prog|Number=Sing|Person=3|Polarity=Pos|Tense=Past</td><td><em>geliyordu, oturuyordu, bakıyordu, oluyordu, titriyordu</em></td></tr>
+  <tr style="background:lightgray"><td>Verb Verb Pos|Prog2|A3sg</td><td>=&gt;</td><td>VERB</td><td>Aspect=Prog|Number=Sing|Person=3|Polarity=Pos</td><td><em>oturmakta, kapamakta, soymakta, kullanmakta, taşımakta</em></td></tr>
+  <tr><td>Verb Verb Pos|Prog2|Cop|A3pl</td><td>=&gt;</td><td>VERB</td><td>Aspect=Prog|Number=Plur|Person=3|Polarity=Pos|VerbType=Cop</td><td><em>savunmaktadırlar</em></td></tr>
+  <tr style="background:lightgray"><td>Verb Verb Pos|Prog2|Cop|A3sg</td><td>=&gt;</td><td>VERB</td><td>Aspect=Prog|Number=Sing|Person=3|Polarity=Pos|VerbType=Cop</td><td><em>ayakta_tutmaktadır, desteklemektedir, oluşmaktadır, kapsamaktadır, yaşamaktadır</em></td></tr>
   <tr><td>Verb Verb Pres|A1pl</td><td>=&gt;</td><td>VERB</td><td>Number=Plur|Person=1|Tense=Pres</td><td><em>değiliz</em></td></tr>
   <tr style="background:lightgray"><td>Verb Verb Pres|A1sg</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=1|Tense=Pres</td><td><em>değilim</em></td></tr>
   <tr><td>Verb Verb Pres|A2pl</td><td>=&gt;</td><td>VERB</td><td>Number=Plur|Person=2|Tense=Pres</td><td><em></em></td></tr>
@@ -1087,38 +1088,38 @@ Tagset <tt>tr::conll</tt>, total 1112 tags.
   <tr style="background:lightgray"><td>Verb Verb Prog1|Past|A1sg</td><td>=&gt;</td><td>VERB</td><td>Aspect=Prog|Number=Sing|Person=1|Tense=Past</td><td><em></em></td></tr>
   <tr><td>Verb Verb Prog1|Past|A3sg</td><td>=&gt;</td><td>VERB</td><td>Aspect=Prog|Number=Sing|Person=3|Tense=Past</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>Verb Verb Recip</td><td>=&gt;</td><td>VERB</td><td>Voice=Rcp</td><td><em>_</em></td></tr>
-  <tr><td>Verb Verb Recip|Neg</td><td>=&gt;</td><td>VERB</td><td>Negative=Neg|Voice=Rcp</td><td><em>_</em></td></tr>
-  <tr style="background:lightgray"><td>Verb Verb Recip|Pos</td><td>=&gt;</td><td>VERB</td><td>Negative=Pos|Voice=Rcp</td><td><em>_</em></td></tr>
-  <tr><td>Verb Verb Recip|Pos|Aor|A1pl</td><td>=&gt;</td><td>VERB</td><td>Negative=Pos|Number=Plur|Person=1|Tense=Aor|Voice=Rcp</td><td><em>Görüşürüz</em></td></tr>
-  <tr style="background:lightgray"><td>Verb Verb Recip|Pos|Imp|A2pl</td><td>=&gt;</td><td>VERB</td><td>Mood=Imp|Negative=Pos|Number=Plur|Person=2|Voice=Rcp</td><td><em>bakışın</em></td></tr>
-  <tr><td>Verb Verb Recip|Pos|Past|A1pl</td><td>=&gt;</td><td>VERB</td><td>Negative=Pos|Number=Plur|Person=1|Tense=Past|Voice=Rcp</td><td><em>Bakıştık</em></td></tr>
-  <tr style="background:lightgray"><td>Verb Verb Recip|Pos|Past|A3pl</td><td>=&gt;</td><td>VERB</td><td>Negative=Pos|Number=Plur|Person=3|Tense=Past|Voice=Rcp</td><td><em>tutuştular</em></td></tr>
-  <tr><td>Verb Verb Recip|Pos|Past|A3sg</td><td>=&gt;</td><td>VERB</td><td>Negative=Pos|Number=Sing|Person=3|Tense=Past|Voice=Rcp</td><td><em>karıştı</em></td></tr>
+  <tr><td>Verb Verb Recip|Neg</td><td>=&gt;</td><td>VERB</td><td>Polarity=Neg|Voice=Rcp</td><td><em>_</em></td></tr>
+  <tr style="background:lightgray"><td>Verb Verb Recip|Pos</td><td>=&gt;</td><td>VERB</td><td>Polarity=Pos|Voice=Rcp</td><td><em>_</em></td></tr>
+  <tr><td>Verb Verb Recip|Pos|Aor|A1pl</td><td>=&gt;</td><td>VERB</td><td>Number=Plur|Person=1|Polarity=Pos|Tense=Aor|Voice=Rcp</td><td><em>Görüşürüz</em></td></tr>
+  <tr style="background:lightgray"><td>Verb Verb Recip|Pos|Imp|A2pl</td><td>=&gt;</td><td>VERB</td><td>Mood=Imp|Number=Plur|Person=2|Polarity=Pos|Voice=Rcp</td><td><em>bakışın</em></td></tr>
+  <tr><td>Verb Verb Recip|Pos|Past|A1pl</td><td>=&gt;</td><td>VERB</td><td>Number=Plur|Person=1|Polarity=Pos|Tense=Past|Voice=Rcp</td><td><em>Bakıştık</em></td></tr>
+  <tr style="background:lightgray"><td>Verb Verb Recip|Pos|Past|A3pl</td><td>=&gt;</td><td>VERB</td><td>Number=Plur|Person=3|Polarity=Pos|Tense=Past|Voice=Rcp</td><td><em>tutuştular</em></td></tr>
+  <tr><td>Verb Verb Recip|Pos|Past|A3sg</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=3|Polarity=Pos|Tense=Past|Voice=Rcp</td><td><em>karıştı</em></td></tr>
   <tr style="background:lightgray"><td>Verb Verb Reflex</td><td>=&gt;</td><td>VERB</td><td>Reflex=Yes</td><td><em>_</em></td></tr>
-  <tr><td>Verb Verb Reflex|Pos</td><td>=&gt;</td><td>VERB</td><td>Negative=Pos|Reflex=Yes</td><td><em>_</em></td></tr>
-  <tr style="background:lightgray"><td>Verb Verb Reflex|Pos|Narr|A3sg</td><td>=&gt;</td><td>VERB</td><td>Negative=Pos|Number=Sing|Person=3|Reflex=Yes|Tense=Nar</td><td><em>giyinmiş</em></td></tr>
-  <tr><td>Verb Verb Reflex|Pos|Past|A2pl</td><td>=&gt;</td><td>VERB</td><td>Negative=Pos|Number=Plur|Person=2|Reflex=Yes|Tense=Past</td><td><em>Temizlendiniz</em></td></tr>
-  <tr style="background:lightgray"><td>Verb Verb Reflex|Pos|Prog1|A3sg</td><td>=&gt;</td><td>VERB</td><td>Aspect=Prog|Negative=Pos|Number=Sing|Person=3|Reflex=Yes</td><td><em>hazırlanıyor</em></td></tr>
+  <tr><td>Verb Verb Reflex|Pos</td><td>=&gt;</td><td>VERB</td><td>Polarity=Pos|Reflex=Yes</td><td><em>_</em></td></tr>
+  <tr style="background:lightgray"><td>Verb Verb Reflex|Pos|Narr|A3sg</td><td>=&gt;</td><td>VERB</td><td>Evident=Nfh|Number=Sing|Person=3|Polarity=Pos|Reflex=Yes|Tense=Past</td><td><em>giyinmiş</em></td></tr>
+  <tr><td>Verb Verb Reflex|Pos|Past|A2pl</td><td>=&gt;</td><td>VERB</td><td>Number=Plur|Person=2|Polarity=Pos|Reflex=Yes|Tense=Past</td><td><em>Temizlendiniz</em></td></tr>
+  <tr style="background:lightgray"><td>Verb Verb Reflex|Pos|Prog1|A3sg</td><td>=&gt;</td><td>VERB</td><td>Aspect=Prog|Number=Sing|Person=3|Polarity=Pos|Reflex=Yes</td><td><em>hazırlanıyor</em></td></tr>
   <tr><td>Verb Verb Stay</td><td>=&gt;</td><td>VERB</td><td>_</td><td><em>_</em></td></tr>
-  <tr style="background:lightgray"><td>Verb Verb Stay|Narr|A3sg</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=3|Tense=Nar</td><td><em></em></td></tr>
-  <tr><td>Verb Verb Stay|Narr|Past|A1pl</td><td>=&gt;</td><td>VERB</td><td>Number=Plur|Person=1|Tense=Nar,Past</td><td><em>şaşakalmıştık</em></td></tr>
-  <tr style="background:lightgray"><td>Verb Verb Stay|Narr|Past|A3sg</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=3|Tense=Nar,Past</td><td><em>uyuyakalmıştı</em></td></tr>
+  <tr style="background:lightgray"><td>Verb Verb Stay|Narr|A3sg</td><td>=&gt;</td><td>VERB</td><td>Evident=Nfh|Number=Sing|Person=3|Tense=Past</td><td><em></em></td></tr>
+  <tr><td>Verb Verb Stay|Narr|Past|A1pl</td><td>=&gt;</td><td>VERB</td><td>Evident=Fh,Nfh|Number=Plur|Person=1|Tense=Past</td><td><em>şaşakalmıştık</em></td></tr>
+  <tr style="background:lightgray"><td>Verb Verb Stay|Narr|Past|A3sg</td><td>=&gt;</td><td>VERB</td><td>Evident=Fh,Nfh|Number=Sing|Person=3|Tense=Past</td><td><em>uyuyakalmıştı</em></td></tr>
   <tr><td>Verb Verb _</td><td>=&gt;</td><td>VERB</td><td>_</td><td><em>_, vazgeçersin</em></td></tr>
   <tr style="background:lightgray"><td>Verb Zero A3sg</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=3</td><td><em>var, yok, gibi, nasıl, kısa</em></td></tr>
   <tr><td>Verb Zero Cond|A1sg</td><td>=&gt;</td><td>VERB</td><td>Mood=Cnd|Number=Sing|Person=1</td><td><em>halleşmezsem</em></td></tr>
   <tr style="background:lightgray"><td>Verb Zero Cond|A3sg</td><td>=&gt;</td><td>VERB</td><td>Mood=Cnd|Number=Sing|Person=3</td><td><em>yoksa, içinse, varsa, parçacıklarsa, öyleyse</em></td></tr>
-  <tr><td>Verb Zero Narr|A1pl</td><td>=&gt;</td><td>VERB</td><td>Number=Plur|Person=1|Tense=Nar</td><td><em>zorundaymışız</em></td></tr>
-  <tr style="background:lightgray"><td>Verb Zero Narr|A1sg</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=1|Tense=Nar</td><td><em>buradaymışım</em></td></tr>
-  <tr><td>Verb Zero Narr|A2sg</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=2|Tense=Nar</td><td><em>aşıkmışsın</em></td></tr>
-  <tr style="background:lightgray"><td>Verb Zero Narr|A3pl</td><td>=&gt;</td><td>VERB</td><td>Number=Plur|Person=3|Tense=Nar</td><td><em>yerlermiş, fakirlermiş</em></td></tr>
-  <tr><td>Verb Zero Narr|A3sg</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=3|Tense=Nar</td><td><em>neymiş, çalışmakmış, Keşkeymiş, çocuklarmış, kahverengiymiş</em></td></tr>
+  <tr><td>Verb Zero Narr|A1pl</td><td>=&gt;</td><td>VERB</td><td>Evident=Nfh|Number=Plur|Person=1|Tense=Past</td><td><em>zorundaymışız</em></td></tr>
+  <tr style="background:lightgray"><td>Verb Zero Narr|A1sg</td><td>=&gt;</td><td>VERB</td><td>Evident=Nfh|Number=Sing|Person=1|Tense=Past</td><td><em>buradaymışım</em></td></tr>
+  <tr><td>Verb Zero Narr|A2sg</td><td>=&gt;</td><td>VERB</td><td>Evident=Nfh|Number=Sing|Person=2|Tense=Past</td><td><em>aşıkmışsın</em></td></tr>
+  <tr style="background:lightgray"><td>Verb Zero Narr|A3pl</td><td>=&gt;</td><td>VERB</td><td>Evident=Nfh|Number=Plur|Person=3|Tense=Past</td><td><em>yerlermiş, fakirlermiş</em></td></tr>
+  <tr><td>Verb Zero Narr|A3sg</td><td>=&gt;</td><td>VERB</td><td>Evident=Nfh|Number=Sing|Person=3|Tense=Past</td><td><em>neymiş, çalışmakmış, Keşkeymiş, çocuklarmış, kahverengiymiş</em></td></tr>
   <tr style="background:lightgray"><td>Verb Zero Past|A1pl</td><td>=&gt;</td><td>VERB</td><td>Number=Plur|Person=1|Tense=Past</td><td><em>yoldaydık, içindeydik, evindeydik, sahasındaydık, oğulduk</em></td></tr>
   <tr><td>Verb Zero Past|A1sg</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=1|Tense=Past</td><td><em>içindeydim, gibiydim, bendim, mutluydum, Casino_Venüs'teydim</em></td></tr>
   <tr style="background:lightgray"><td>Verb Zero Past|A2pl</td><td>=&gt;</td><td>VERB</td><td>Number=Plur|Person=2|Tense=Past</td><td><em>zorundaydınız</em></td></tr>
   <tr><td>Verb Zero Past|A2sg</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=2|Tense=Past</td><td><em>Nerdeydin, Dibimizdeydin, Casino_Venüs'teydin, sendin</em></td></tr>
   <tr style="background:lightgray"><td>Verb Zero Past|A3pl</td><td>=&gt;</td><td>VERB</td><td>Number=Plur|Person=3|Tense=Past</td><td><em>soluk_soluğaydılar, arkadaştılar, mühendisiydiler, el_eleydiler, bakıştılar</em></td></tr>
   <tr><td>Verb Zero Past|A3sg</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=3|Tense=Past</td><td><em>yoktu, vardı, gibiydi, adamdı, içindeydi</em></td></tr>
-  <tr style="background:lightgray"><td>Verb Zero Pos|Imp|A2sg</td><td>=&gt;</td><td>VERB</td><td>Mood=Imp|Negative=Pos|Number=Sing|Person=2</td><td><em>erken</em></td></tr>
+  <tr style="background:lightgray"><td>Verb Zero Pos|Imp|A2sg</td><td>=&gt;</td><td>VERB</td><td>Mood=Imp|Number=Sing|Person=2|Polarity=Pos</td><td><em>erken</em></td></tr>
   <tr><td>Verb Zero Pres|A1pl</td><td>=&gt;</td><td>VERB</td><td>Number=Plur|Person=1|Tense=Pres</td><td><em>partiyiz, tarafız, hazırladığımız, insanlarız, zorundayız</em></td></tr>
   <tr style="background:lightgray"><td>Verb Zero Pres|A1sg</td><td>=&gt;</td><td>VERB</td><td>Number=Sing|Person=1|Tense=Pres</td><td><em>benim, gibiyim, prensesiyim, eminim, içindeyim</em></td></tr>
   <tr><td>Verb Zero Pres|A2pl</td><td>=&gt;</td><td>VERB</td><td>Number=Plur|Person=2|Tense=Pres</td><td><em>yoksunuz, alırsınız, takımındansınız, okuldansınız, zorundasınız</em></td></tr>
