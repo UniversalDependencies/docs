@@ -1,6 +1,7 @@
 ---
 layout: base
 title: 'Tagset mt::mlss conversion to universal POS tags and features'
+udver: '2'
 ---
 
 <a href="index.html">all tables</a>
@@ -16,9 +17,9 @@ The table requires manual postprocessing in order to provide accurate and comple
 Tagset <tt>mt::mlss</tt>, total 42 tags.
 
 <table>
-  <tr style="background:lightgray"><td>CC</td><td>=&gt;</td><td>CONJ</td><td>_</td><td><em>u, jew, iżda, imma, bħal</em></td></tr>
+  <tr style="background:lightgray"><td>CC</td><td>=&gt;</td><td>CCONJ</td><td>_</td><td><em>u, jew, iżda, imma, bħal</em></td></tr>
   <tr><td>CMP</td><td>=&gt;</td><td>SCONJ</td><td>_</td><td><em>li, illi, ili, filli, kunsilli</em></td></tr>
-  <tr style="background:lightgray"><td>CR</td><td>=&gt;</td><td>CONJ</td><td>_</td><td><em>la, ukoll, jirregola, tirregola, jikkontrolla</em></td></tr>
+  <tr style="background:lightgray"><td>CR</td><td>=&gt;</td><td>CCONJ</td><td>_</td><td><em>la, ukoll, jirregola, tirregola, jikkontrolla</em></td></tr>
   <tr><td>CS</td><td>=&gt;</td><td>SCONJ</td><td>_</td><td><em>biex, għax, jekk, kemm, billi</em></td></tr>
   <tr style="background:lightgray"><td>DDC</td><td>=&gt;</td><td>DET</td><td>Definite=Def|PronType=Art</td><td><em>l-, il-, is-, it-, id-</em></td></tr>
   <tr><td>DP</td><td>=&gt;</td><td>DET</td><td>Number=Plur|NumType=Card|PronType=Ind</td><td><em>ħafna, ftit, tant, ċerti, wisq</em></td></tr>
@@ -32,10 +33,10 @@ Tagset <tt>mt::mlss</tt>, total 42 tags.
   <tr><td>NN</td><td>=&gt;</td><td>NOUN</td><td>_</td><td><em>sena, xogħol, mod, żmien, snin</em></td></tr>
   <tr style="background:lightgray"><td>NO</td><td>=&gt;</td><td>ADJ</td><td>NumType=Ord</td><td><em>ewwel, tieni, tielet, għaxar, ewwelnett</em></td></tr>
   <tr><td>NP</td><td>=&gt;</td><td>PROPN</td><td>_</td><td><em>Malta, Għawdex, Gonzi, ­, Joseph</em></td></tr>
-  <tr style="background:lightgray"><td>NV</td><td>=&gt;</td><td>PART</td><td>Negative=Neg</td><td><em>ma, mhux, m', mhix, humiex</em></td></tr>
-  <tr><td>NW</td><td>=&gt;</td><td>NUM</td><td>NumType=Card,Gen|NumValue=1</td><td><em>wieħed, waħda, wħud, uħud, ħed</em></td></tr>
+  <tr style="background:lightgray"><td>NV</td><td>=&gt;</td><td>PART</td><td>Polarity=Neg</td><td><em>ma, mhux, m', mhix, humiex</em></td></tr>
+  <tr><td>NW</td><td>=&gt;</td><td>NUM</td><td>NumType=Card|NumValue=1</td><td><em>wieħed, waħda, wħud, uħud, ħed</em></td></tr>
   <tr style="background:lightgray"><td>PAC</td><td>=&gt;</td><td>PART</td><td>Aspect=Prog</td><td><em>qed, għad, għadx, Għawd, ħad</em></td></tr>
-  <tr><td>PAF</td><td>=&gt;</td><td>PART</td><td>Aspect=Pro</td><td><em>se, Paċe, ġe, ħinse, Pulse</em></td></tr>
+  <tr><td>PAF</td><td>=&gt;</td><td>PART</td><td>Aspect=Prosp</td><td><em>se, Paċe, ġe, ħinse, Pulse</em></td></tr>
   <tr style="background:lightgray"><td>PD</td><td>=&gt;</td><td>PRON</td><td>PronType=Dem</td><td><em>dan, din, dawn, dak, dawk</em></td></tr>
   <tr><td>PI</td><td>=&gt;</td><td>PRON</td><td>PronType=Ind</td><td><em>kollha, xejn, kollox, kollu, ħadd</em></td></tr>
   <tr style="background:lightgray"><td>PMP</td><td>=&gt;</td><td>ADP</td><td>AdpType=Preppron</td><td><em>miegħu, magħhom, magħha, magħna, miegħi</em></td></tr>
@@ -50,7 +51,7 @@ Tagset <tt>mt::mlss</tt>, total 42 tags.
   <tr><td>RB</td><td>=&gt;</td><td>X</td><td>Abbr=Yes</td><td><em>Ltd, ..., okkażżjoni., MUT, illum.</em></td></tr>
   <tr style="background:lightgray"><td>RD</td><td>=&gt;</td><td>NUM</td><td>NumType=Card</td><td><em>2006, 2015, 2011, 19, 2012</em></td></tr>
   <tr><td>RFR</td><td>=&gt;</td><td>SYM</td><td>_</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>RFW</td><td>=&gt;</td><td>X</td><td>Foreign=Foreign</td><td><em>­, of, the, ċ, i</em></td></tr>
+  <tr style="background:lightgray"><td>RFW</td><td>=&gt;</td><td>X</td><td>Foreign=Yes</td><td><em>­, of, the, ċ, i</em></td></tr>
   <tr><td>RH</td><td>=&gt;</td><td>NOUN</td><td>_</td><td><em>San, Sur, Dun, Fr, Monsinjur</em></td></tr>
   <tr style="background:lightgray"><td>RO</td><td>=&gt;</td><td>X</td><td>_</td><td><em>VV, MJ, NN, NP, RFW</em></td></tr>
   <tr><td>RS</td><td>=&gt;</td><td>NUM</td><td>NumForm=Roman|NumType=Card,Ord</td><td><em>II, V, XVI, III, VIII</em></td></tr>

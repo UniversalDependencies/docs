@@ -1,6 +1,7 @@
 ---
 layout: base
 title: 'Tagset ja::conll conversion to universal POS tags and features'
+udver: '2'
 ---
 
 <a href="index.html">all tables</a>
@@ -24,7 +25,7 @@ Tagset <tt>ja::conll</tt>, total 90 tags.
   <tr><td>ADJ ADJifin _</td><td>=&gt;</td><td>ADJ</td><td>VerbForm=Fin</td><td><em>yoroshii, ii, nai, chikai, osoi</em></td></tr>
   <tr style="background:lightgray"><td>ADJ ADJifin ta</td><td>=&gt;</td><td>ADJ</td><td>Tense=Past|VerbForm=Fin</td><td><em>yokatta, yoroshikatta, tookatta, nakatta</em></td></tr>
   <tr><td>ADJ ADJiku _</td><td>=&gt;</td><td>ADV</td><td>_</td><td><em>yoroshiku, arigatou, ohayou, hayaku, yoku</em></td></tr>
-  <tr style="background:lightgray"><td>ADJ ADJite _</td><td>=&gt;</td><td>ADV</td><td>VerbForm=Trans</td><td><em>nakute, chikakute, yasukute, takakute, yokute</em></td></tr>
+  <tr style="background:lightgray"><td>ADJ ADJite _</td><td>=&gt;</td><td>ADV</td><td>VerbForm=Conv</td><td><em>nakute, chikakute, yasukute, takakute, yokute</em></td></tr>
   <tr><td>ADJ ADJsf _</td><td>=&gt;</td><td>ADJ</td><td>_</td><td><em>na</em></td></tr>
   <tr style="background:lightgray"><td>ADJ ADJteki _</td><td>=&gt;</td><td>ADJ</td><td>_</td><td><em>jikaNteki, gutaiteki, kojiNteki, nedaNteki, nitteiteki</em></td></tr>
   <tr><td>ADJ ADJwh _</td><td>=&gt;</td><td>DET</td><td>PronType=Int</td><td><em>dono, doNna, douitta, douiu</em></td></tr>
@@ -37,7 +38,7 @@ Tagset <tt>ja::conll</tt>, total 90 tags.
   <tr style="background:lightgray"><td>CD CDU _</td><td>=&gt;</td><td>NUM</td><td>NumType=Card</td><td><em>mittsu, hitotsu, ichinichi, futatsu, ichido</em></td></tr>
   <tr><td>CD CDdate _</td><td>=&gt;</td><td>ADV</td><td>AdvType=Tim</td><td><em>juugatsu, juuninichi, nigatsu, tooka, mikka</em></td></tr>
   <tr style="background:lightgray"><td>CD CDtime _</td><td>=&gt;</td><td>ADV</td><td>AdvType=Tim</td><td><em>gojuppuN, juuichiji, juuji, saNjuugofuN, juugofuN</em></td></tr>
-  <tr><td>CNJ CNJ _</td><td>=&gt;</td><td>CONJ</td><td>_</td><td><em>dewa, de, soredewa, ato, soshitara</em></td></tr>
+  <tr><td>CNJ CNJ _</td><td>=&gt;</td><td>CCONJ</td><td>_</td><td><em>dewa, de, soredewa, ato, soshitara</em></td></tr>
   <tr style="background:lightgray"><td>GR GR _</td><td>=&gt;</td><td>INTJ</td><td>_</td><td><em>koNnichiwa, otsukaresama, sayounara, sayonara, hajimemashite</em></td></tr>
   <tr><td>ITJ ITJ _</td><td>=&gt;</td><td>INTJ</td><td>_</td><td><em>hai, ee, to, e, a</em></td></tr>
   <tr style="background:lightgray"><td>N NF _</td><td>=&gt;</td><td>NOUN</td><td>_</td><td><em>hou, no, koto, nano, naN</em></td></tr>
@@ -60,7 +61,7 @@ Tagset <tt>ja::conll</tt>, total 90 tags.
   <tr><td>P PNsf _</td><td>=&gt;</td><td>NOUN</td><td>_</td><td><em>saN, sama</em></td></tr>
   <tr style="background:lightgray"><td>P PQ _</td><td>=&gt;</td><td>ADP</td><td>AdpType=Post</td><td><em>to, te, naNte, toka, ka</em></td></tr>
   <tr><td>P Pacc _</td><td>=&gt;</td><td>ADP</td><td>AdpType=Post|Case=Acc</td><td><em>o</em></td></tr>
-  <tr style="background:lightgray"><td>P Pcnj _</td><td>=&gt;</td><td>CONJ</td><td>_</td><td><em>to, toka, ka, ya, nari</em></td></tr>
+  <tr style="background:lightgray"><td>P Pcnj _</td><td>=&gt;</td><td>CCONJ</td><td>_</td><td><em>to, toka, ka, ya, nari</em></td></tr>
   <tr><td>P Pfoc _</td><td>=&gt;</td><td>ADP</td><td>AdpType=Post</td><td><em>wa, mo, demo, koso, nara</em></td></tr>
   <tr style="background:lightgray"><td>P Pgen _</td><td>=&gt;</td><td>ADP</td><td>AdpType=Post|Case=Gen</td><td><em>no</em></td></tr>
   <tr><td>P Pnom _</td><td>=&gt;</td><td>ADP</td><td>AdpType=Post|Case=Nom</td><td><em>ga</em></td></tr>
@@ -73,17 +74,17 @@ Tagset <tt>ja::conll</tt>, total 90 tags.
   <tr style="background:lightgray"><td>PV PVcnd _</td><td>=&gt;</td><td>VERB</td><td>Mood=Cnd|VerbForm=Fin|VerbType=Cop</td><td><em>deshitara, dattara, deshitaraba</em></td></tr>
   <tr><td>PV PVfin ta</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Tense=Past|VerbForm=Fin|VerbType=Cop</td><td><em>da, deshita, datta</em></td></tr>
   <tr style="background:lightgray"><td>PV PVfin u</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Tense=Fut,Pres|VerbForm=Fin|VerbType=Cop</td><td><em>desu, deshou, darou</em></td></tr>
-  <tr><td>PV PVte _</td><td>=&gt;</td><td>VERB</td><td>VerbForm=Trans|VerbType=Cop</td><td><em>de, deshite</em></td></tr>
+  <tr><td>PV PVte _</td><td>=&gt;</td><td>VERB</td><td>VerbForm=Conv|VerbType=Cop</td><td><em>de, deshite</em></td></tr>
   <tr style="background:lightgray"><td>PreN PreN _</td><td>=&gt;</td><td>NOUN</td><td>_</td><td><em>yaku, dai, yoku, maru, Frau</em></td></tr>
   <tr><td>UNIT UNIT _</td><td>=&gt;</td><td>NOUN</td><td>_</td><td><em>maruku, biN, meetoru, kiro, shitsu</em></td></tr>
   <tr style="background:lightgray"><td>V V _</td><td>=&gt;</td><td>VERB</td><td>_</td><td><em>ittari, nitari, tomarezu, shirabetari, tanoshimetari</em></td></tr>
   <tr><td>V Vbas _</td><td>=&gt;</td><td>VERB</td><td>_</td><td><em>mi, tore, nomi, kimari, kiki</em></td></tr>
   <tr style="background:lightgray"><td>V Vcnd _</td><td>=&gt;</td><td>VERB</td><td>Mood=Cnd</td><td><em>shimashitara, shitara, areba, arimashitara, dekimashitara</em></td></tr>
-  <tr><td>V Vfin eN</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Negative=Neg|Polite=Pol|Tense=Fut|VerbForm=Fin</td><td><em>sumimaseN, arimaseN, kamaimaseN, suimaseN, shiremaseN</em></td></tr>
+  <tr><td>V Vfin eN</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Polarity=Neg|Polite=Form|Tense=Fut|VerbForm=Fin</td><td><em>sumimaseN, arimaseN, kamaimaseN, suimaseN, shiremaseN</em></td></tr>
   <tr style="background:lightgray"><td>V Vfin ta</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Tense=Past|VerbForm=Fin</td><td><em>wakarimashita, gozaimashita, itta, kashikomarimashita, hanareta</em></td></tr>
   <tr><td>V Vfin u</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Tense=Fut,Pres|VerbForm=Fin</td><td><em>iu, aru, arimasu, narimasu, omoimasu</em></td></tr>
   <tr style="background:lightgray"><td>V Vimp _</td><td>=&gt;</td><td>VERB</td><td>Mood=Imp|VerbForm=Fin</td><td><em>gomeNnasai, kudasai, ie, nome, shiro</em></td></tr>
-  <tr><td>V Vte _</td><td>=&gt;</td><td>VERB</td><td>VerbForm=Trans</td><td><em>aite, shite, tsuite, natte, arimashite</em></td></tr>
+  <tr><td>V Vte _</td><td>=&gt;</td><td>VERB</td><td>VerbForm=Conv</td><td><em>aite, shite, tsuite, natte, arimashite</em></td></tr>
   <tr style="background:lightgray"><td>VADJ VADJ_n _</td><td>=&gt;</td><td>ADJ</td><td>_</td><td><em>ikesou, arisou, toresou, owarisou, awanasasou</em></td></tr>
   <tr><td>VADJ VADJi _</td><td>=&gt;</td><td>ADJ</td><td>_</td><td><em>shitai, mitai, ikitai, kimetai, itadakitai</em></td></tr>
   <tr style="background:lightgray"><td>VADJ VADJi kute</td><td>=&gt;</td><td>ADJ</td><td>_</td><td><em>kimenakute, ikanakute, noranakute, wakaranakute, okanakute</em></td></tr>
@@ -92,18 +93,18 @@ Tagset <tt>ja::conll</tt>, total 90 tags.
   <tr><td>VAUX VAUX _</td><td>=&gt;</td><td>AUX</td><td>_</td><td><em>mitari, shimattari</em></td></tr>
   <tr style="background:lightgray"><td>VAUX VAUXbas _</td><td>=&gt;</td><td>AUX</td><td>_</td><td><em>itadaki</em></td></tr>
   <tr><td>VAUX VAUXcnd _</td><td>=&gt;</td><td>AUX</td><td>Mood=Cnd</td><td><em>itadakereba, okanakereba, itadaitara, itadakimashitara, mitara</em></td></tr>
-  <tr style="background:lightgray"><td>VAUX VAUXfin eN</td><td>=&gt;</td><td>AUX</td><td>Mood=Ind|Negative=Neg|Polite=Pol|Tense=Fut|VerbForm=Fin</td><td><em>imaseN, orimaseN, mimaseN, itadakemaseN, shimaimaseN</em></td></tr>
+  <tr style="background:lightgray"><td>VAUX VAUXfin eN</td><td>=&gt;</td><td>AUX</td><td>Mood=Ind|Polarity=Neg|Polite=Form|Tense=Fut|VerbForm=Fin</td><td><em>imaseN, orimaseN, mimaseN, itadakemaseN, shimaimaseN</em></td></tr>
   <tr><td>VAUX VAUXfin ta</td><td>=&gt;</td><td>AUX</td><td>Mood=Ind|Tense=Past|VerbForm=Fin</td><td><em>ita, mita, imashita, kita, oita</em></td></tr>
   <tr style="background:lightgray"><td>VAUX VAUXfin u</td><td>=&gt;</td><td>AUX</td><td>Mood=Ind|Tense=Fut,Pres|VerbForm=Fin</td><td><em>iru, okimasu, imasu, orimasu, itadakimasu</em></td></tr>
   <tr><td>VAUX VAUXimp _</td><td>=&gt;</td><td>AUX</td><td>Mood=Imp|VerbForm=Fin</td><td><em>kudasai, kure</em></td></tr>
-  <tr style="background:lightgray"><td>VAUX VAUXte _</td><td>=&gt;</td><td>AUX</td><td>VerbForm=Trans</td><td><em>imashite, orimashite, itadaite, oite, shimatte</em></td></tr>
+  <tr style="background:lightgray"><td>VAUX VAUXte _</td><td>=&gt;</td><td>AUX</td><td>VerbForm=Conv</td><td><em>imashite, orimashite, itadaite, oite, shimatte</em></td></tr>
   <tr><td>VS VS _</td><td>=&gt;</td><td>VERB</td><td>VerbType=Light</td><td><em>shitari</em></td></tr>
   <tr style="background:lightgray"><td>VS VSbas _</td><td>=&gt;</td><td>VERB</td><td>VerbType=Light</td><td><em>shi</em></td></tr>
   <tr><td>VS VScnd _</td><td>=&gt;</td><td>VERB</td><td>Mood=Cnd|VerbType=Light</td><td><em>dekireba, sureba, dekitara, dekimashitara, shitara</em></td></tr>
-  <tr style="background:lightgray"><td>VS VSfin eN</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Negative=Neg|Polite=Pol|Tense=Fut|VerbForm=Fin|VerbType=Light</td><td><em>shimaseN</em></td></tr>
+  <tr style="background:lightgray"><td>VS VSfin eN</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Polarity=Neg|Polite=Form|Tense=Fut|VerbForm=Fin|VerbType=Light</td><td><em>shimaseN</em></td></tr>
   <tr><td>VS VSfin ta</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Tense=Past|VerbForm=Fin|VerbType=Light</td><td><em>shita, shimashita, itashimashita, sareta, dekita</em></td></tr>
   <tr style="background:lightgray"><td>VS VSfin u</td><td>=&gt;</td><td>VERB</td><td>Mood=Ind|Tense=Fut,Pres|VerbForm=Fin|VerbType=Light</td><td><em>shimasu, itashimasu, suru, dekimasu, shimashou</em></td></tr>
   <tr><td>VS VSimp _</td><td>=&gt;</td><td>VERB</td><td>Mood=Imp|VerbForm=Fin|VerbType=Light</td><td><em>kudasai</em></td></tr>
-  <tr style="background:lightgray"><td>VS VSte _</td><td>=&gt;</td><td>VERB</td><td>VerbForm=Trans|VerbType=Light</td><td><em>shite, sasete, shimashite, sashite, sarete</em></td></tr>
+  <tr style="background:lightgray"><td>VS VSte _</td><td>=&gt;</td><td>VERB</td><td>VerbForm=Conv|VerbType=Light</td><td><em>shite, sasete, shimashite, sashite, sarete</em></td></tr>
   <tr><td>xxx xxx _</td><td>=&gt;</td><td>X</td><td>_</td><td><em>nani, tama, nano, te</em></td></tr>
 </table>

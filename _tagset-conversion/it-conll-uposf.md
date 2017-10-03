@@ -1,6 +1,7 @@
 ---
 layout: base
 title: 'Tagset it::conll conversion to universal POS tags and features'
+udver: '2'
 ---
 
 <a href="index.html">all tables</a>
@@ -35,7 +36,7 @@ Tagset <tt>it::conll</tt>, total 166 tags.
   <tr style="background:lightgray"><td>A AP gen=N|num=P</td><td>=&gt;</td><td>DET</td><td>Number=Plur|Poss=Yes|PronType=Prs</td><td><em>loro, sua</em></td></tr>
   <tr><td>B B _</td><td>=&gt;</td><td>ADV</td><td>_</td><td><em>non, più, dove, c', solo</em></td></tr>
   <tr style="background:lightgray"><td>B B sup=S</td><td>=&gt;</td><td>ADV</td><td>Degree=Abs</td><td><em>benissimo, moltissimo, lontanissimo, malissimo</em></td></tr>
-  <tr><td>C C _</td><td>=&gt;</td><td>CONJ</td><td>_</td><td><em>e, che, anche, ma, o</em></td></tr>
+  <tr><td>C C _</td><td>=&gt;</td><td>CCONJ</td><td>_</td><td><em>e, che, anche, ma, o</em></td></tr>
   <tr style="background:lightgray"><td>D DD gen=F|num=P</td><td>=&gt;</td><td>DET</td><td>Gender=Fem|Number=Plur|PronType=Dem</td><td><em>queste, quelle</em></td></tr>
   <tr><td>D DD gen=F|num=S</td><td>=&gt;</td><td>DET</td><td>Gender=Fem|Number=Sing|PronType=Dem</td><td><em>questa, quella, quell', quest'</em></td></tr>
   <tr style="background:lightgray"><td>D DD gen=M|num=P</td><td>=&gt;</td><td>DET</td><td>Gender=Masc|Number=Plur|PronType=Dem</td><td><em>questi, quei, quegli, quest', quelli</em></td></tr>
@@ -65,13 +66,13 @@ Tagset <tt>it::conll</tt>, total 166 tags.
   <tr style="background:lightgray"><td>E E gen=N|num=S</td><td>=&gt;</td><td>ADP</td><td>AdpType=Prep|Number=Sing</td><td><em>dall', fino_all', davanti_all', dell', accanto_all'</em></td></tr>
   <tr><td>I I _</td><td>=&gt;</td><td>INTJ</td><td>_</td><td><em>ah, Grazie, ahimè, Vabbè, eh</em></td></tr>
   <tr style="background:lightgray"><td>N N _</td><td>=&gt;</td><td>NUM</td><td>NumType=Card</td><td><em>3, 99, 1, 2, 8</em></td></tr>
-  <tr><td>N N gen=F|num=P</td><td>=&gt;</td><td>NUM</td><td>Gender=Fem|NumType=Card|Number=Plur</td><td><em>21, 16</em></td></tr>
-  <tr style="background:lightgray"><td>N N gen=N|num=S</td><td>=&gt;</td><td>NUM</td><td>NumType=Card|Number=Sing</td><td><em>113</em></td></tr>
+  <tr><td>N N gen=F|num=P</td><td>=&gt;</td><td>NUM</td><td>Gender=Fem|Number=Plur|NumType=Card</td><td><em>21, 16</em></td></tr>
+  <tr style="background:lightgray"><td>N N gen=N|num=S</td><td>=&gt;</td><td>NUM</td><td>Number=Sing|NumType=Card</td><td><em>113</em></td></tr>
   <tr><td>N NO _</td><td>=&gt;</td><td>ADJ</td><td>NumType=Ord</td><td><em>ennesimo</em></td></tr>
-  <tr style="background:lightgray"><td>N NO gen=F|num=P</td><td>=&gt;</td><td>ADJ</td><td>Gender=Fem|NumType=Ord|Number=Plur</td><td><em>prime</em></td></tr>
-  <tr><td>N NO gen=F|num=S</td><td>=&gt;</td><td>ADJ</td><td>Gender=Fem|NumType=Ord|Number=Sing</td><td><em>prima, seconda, terza, settima, quarta</em></td></tr>
-  <tr style="background:lightgray"><td>N NO gen=M|num=P</td><td>=&gt;</td><td>ADJ</td><td>Gender=Masc|NumType=Ord|Number=Plur</td><td><em>primi</em></td></tr>
-  <tr><td>N NO gen=M|num=S</td><td>=&gt;</td><td>ADJ</td><td>Gender=Masc|NumType=Ord|Number=Sing</td><td><em>primo, secondo, terzo, quarto, sesto</em></td></tr>
+  <tr style="background:lightgray"><td>N NO gen=F|num=P</td><td>=&gt;</td><td>ADJ</td><td>Gender=Fem|Number=Plur|NumType=Ord</td><td><em>prime</em></td></tr>
+  <tr><td>N NO gen=F|num=S</td><td>=&gt;</td><td>ADJ</td><td>Gender=Fem|Number=Sing|NumType=Ord</td><td><em>prima, seconda, terza, settima, quarta</em></td></tr>
+  <tr style="background:lightgray"><td>N NO gen=M|num=P</td><td>=&gt;</td><td>ADJ</td><td>Gender=Masc|Number=Plur|NumType=Ord</td><td><em>primi</em></td></tr>
+  <tr><td>N NO gen=M|num=S</td><td>=&gt;</td><td>ADJ</td><td>Gender=Masc|Number=Sing|NumType=Ord</td><td><em>primo, secondo, terzo, quarto, sesto</em></td></tr>
   <tr style="background:lightgray"><td>P PD gen=F|num=P</td><td>=&gt;</td><td>PRON</td><td>Gender=Fem|Number=Plur|PronType=Dem</td><td><em>quelle, Queste</em></td></tr>
   <tr><td>P PD gen=F|num=S</td><td>=&gt;</td><td>PRON</td><td>Gender=Fem|Number=Sing|PronType=Dem</td><td><em>quella, questa, stessa, la</em></td></tr>
   <tr style="background:lightgray"><td>P PD gen=M|num=P</td><td>=&gt;</td><td>PRON</td><td>Gender=Masc|Number=Plur|PronType=Dem</td><td><em>quelli, questi, stessi</em></td></tr>
