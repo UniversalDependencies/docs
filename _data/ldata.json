@@ -281,6 +281,22 @@
     "lang_name": "Belarusian"
   }, 
   {
+    "lang_code": "bn_dds", 
+    "contributors": [
+      {
+        "full": "First Last", 
+        "last": "Last", 
+        "first": "First"
+      }, 
+      {
+        "full": "First Last", 
+        "last": "Last", 
+        "first": "First"
+      }
+    ], 
+    "lang_name": "Bengali-DDS"
+  }, 
+  {
     "lang_code": "bg", 
     "contributors": [
       {
@@ -1872,6 +1888,22 @@
     "lang_name": "Italian-ParTUT"
   }, 
   {
+    "lang_code": "it_postwita", 
+    "contributors": [
+      {
+        "full": "Manuela Sanguinetti", 
+        "last": "Sanguinetti", 
+        "first": "Manuela"
+      }, 
+      {
+        "full": "Cristina Bosco", 
+        "last": "Bosco", 
+        "first": "Cristina"
+      }
+    ], 
+    "lang_name": "Italian-PoSTWITA"
+  }, 
+  {
     "lang_code": "ja", 
     "contributors": [
       {
@@ -2193,17 +2225,6 @@
     "lang_name": "Korean-PUD"
   }, 
   {
-    "lang_code": "ko_sejong", 
-    "contributors": [
-      {
-        "full": "Jaemin Cho", 
-        "last": "Cho", 
-        "first": "Jaemin"
-      }
-    ], 
-    "lang_name": "Korean-Sejong"
-  }, 
-  {
     "lang_code": "kmr", 
     "contributors": [
       {
@@ -2425,6 +2446,17 @@
       }
     ], 
     "lang_name": "Norwegian-Nynorsk"
+  }, 
+  {
+    "lang_code": "no_nynorsklia", 
+    "contributors": [
+      {
+        "full": "Lilja \u00d8vrelid", 
+        "last": "\u00d8vrelid", 
+        "first": "Lilja"
+      }
+    ], 
+    "lang_name": "Norwegian-NynorskLIA"
   }, 
   {
     "lang_code": "cu", 
@@ -3228,8 +3260,8 @@
     "lang_code": "te", 
     "contributors": [
       {
-        "full": "Sowmya V.B.", 
-        "last": "V.B.", 
+        "full": "Sowmya Vajjala", 
+        "last": "Vajjala", 
         "first": "Sowmya"
       }, 
       {

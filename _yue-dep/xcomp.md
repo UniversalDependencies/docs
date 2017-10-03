@@ -68,7 +68,7 @@ The matrix verb may require both a non-clausal object and a clausal complement:
 
 ~~~
 
-In the case of "object control", the subject of the clausal complement is obligatorily coreferent with the direct object of the higher clause. Many Chinese “pivotal constructions” are considered to fall under this category. Some matrix verbs that may take a clausal complement with object control include 勸 / _hyun3_ "advise", 派 / _paai3_ "dispatch", 求 / _kau4_ "beg", / 託 _tok3_ "entrust", 叫 / _jiào_ "tell", 恭喜 / _gung1hei2_ "congratulate", among others (however, note that some of these verbs may also take just a non-clausal object).
+In the case of "object control", the subject of the clausal complement is obligatorily coreferent with the direct object of the higher clause. Many Chinese “pivotal constructions” are considered to fall under this category. Some matrix verbs that may take a clausal complement with object control include 勸 / _hyun3_ "advise", 派 / _paai3_ "dispatch", 求 / _kau4_ "beg", / 託 _tok3_ "entrust", 叫 / _giu3_ "tell", 恭喜 / _gung1hei2_ "congratulate", among others (however, note that some of these verbs may also take just a non-clausal object).
 
 ~~~ conllu
 # visual-style 2 7 xcomp	color:blue
