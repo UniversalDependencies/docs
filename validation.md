@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-10-03T15:31:45Z">2017-10-03T15:31:45 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-10-03T15:34:07Z">2017-10-03T15:34:07 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -1599,8 +1599,8 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang gl_treegal /home/ginter
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD German</span>
 <span class="widespan">de</span>
-<span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-10-03T15:31:25Z">2017-10-03T15:31:25 zulu</time></span>
+<span class="validationpass">PASS</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-10-03T15:33:48Z">2017-10-03T15:33:48 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -1620,12 +1620,7 @@ python tools/validate.py --lang de UD-dev-branches/UD_German/de-ud-test.conllu
 
 python tools/validate.py --lang de UD-dev-branches/UD_German/de-ud-train.conllu
 
-[Line                   164672]: Undefined ID in HEAD: 19
-[Line                   164672]: Undefined ID in HEAD: 19
-[Tree number 7612 on line 164653]: Non-tree structure. Words 1,2 are not reachable from the root 0.
-*** FAILED *** with 3 errors
-Format errors: 2
-Syntax errors: 1
+*** PASSED ***
 
 
 ******************
