@@ -1090,6 +1090,10 @@ collections:
   v2:
     output: true
     permalink: /v2/:path.html
+  misc:
+    output: true
+    permalink: /misc/:path.html
+
 
 excerpt_separator: "\n\n"
 
