@@ -1,6 +1,7 @@
 ---
 layout: base
 title: 'Tagset de::conll2009 conversion to universal POS tags and features'
+udver: '2'
 ---
 
 <a href="index.html">all tables</a>
@@ -192,31 +193,31 @@ Tagset <tt>de::conll2009</tt>, total 835 tags.
   <tr><td>ART *|Sg|Masc</td><td>=&gt;</td><td>DET</td><td>Gender=Masc|Number=Sing|PronType=Art</td><td><em>Der</em></td></tr>
   <tr style="background:lightgray"><td>ART *|Sg|Neut</td><td>=&gt;</td><td>DET</td><td>Gender=Neut|Number=Sing|PronType=Art</td><td><em>ein</em></td></tr>
   <tr><td>CARD _</td><td>=&gt;</td><td>NUM</td><td>NumType=Card</td><td><em>000, zwei, drei, vier, fünf</em></td></tr>
-  <tr style="background:lightgray"><td>FM _</td><td>=&gt;</td><td>X</td><td>Foreign=Foreign</td><td><em>la, à, of, Oecologicus, en</em></td></tr>
-  <tr><td>FM Acc|Pl|Neut</td><td>=&gt;</td><td>X</td><td>Case=Acc|Foreign=Foreign|Gender=Neut|Number=Plur</td><td><em>ratings</em></td></tr>
-  <tr style="background:lightgray"><td>FM Acc|Sg|*</td><td>=&gt;</td><td>X</td><td>Case=Acc|Foreign=Foreign|Number=Sing</td><td><em>Services, Motors</em></td></tr>
-  <tr><td>FM Acc|Sg|Fem</td><td>=&gt;</td><td>X</td><td>Case=Acc|Foreign=Foreign|Gender=Fem|Number=Sing</td><td><em>Nature</em></td></tr>
-  <tr style="background:lightgray"><td>FM Acc|Sg|Masc</td><td>=&gt;</td><td>X</td><td>Case=Acc|Foreign=Foreign|Gender=Masc|Number=Sing</td><td><em>Sojus, Shoot-out</em></td></tr>
-  <tr><td>FM Acc|Sg|Neut</td><td>=&gt;</td><td>X</td><td>Case=Acc|Foreign=Foreign|Gender=Neut|Number=Sing</td><td><em>Center, Village</em></td></tr>
-  <tr style="background:lightgray"><td>FM Dat|Pl|*</td><td>=&gt;</td><td>X</td><td>Case=Dat|Foreign=Foreign|Number=Plur</td><td><em>Newbies, Three, Extracomunitari, Parcs</em></td></tr>
-  <tr><td>FM Dat|Sg|*</td><td>=&gt;</td><td>X</td><td>Case=Dat|Foreign=Foreign|Number=Sing</td><td><em>Times, Shop, Independence, Latin, Pidgin</em></td></tr>
-  <tr style="background:lightgray"><td>FM Dat|Sg|Fem</td><td>=&gt;</td><td>X</td><td>Case=Dat|Foreign=Foreign|Gender=Fem|Number=Sing</td><td><em>Good-will-Tour, Times, Commission</em></td></tr>
-  <tr><td>FM Dat|Sg|Masc</td><td>=&gt;</td><td>X</td><td>Case=Dat|Foreign=Foreign|Gender=Masc|Number=Sing</td><td><em>Contract</em></td></tr>
-  <tr style="background:lightgray"><td>FM Dat|Sg|Neut</td><td>=&gt;</td><td>X</td><td>Case=Dat|Foreign=Foreign|Gender=Neut|Number=Sing</td><td><em>Santo, Village, Adagio, Museum, Game</em></td></tr>
-  <tr><td>FM Gen|Pl|*</td><td>=&gt;</td><td>X</td><td>Case=Gen|Foreign=Foreign|Number=Plur</td><td><em>Democrats</em></td></tr>
-  <tr style="background:lightgray"><td>FM Gen|Sg|*</td><td>=&gt;</td><td>X</td><td>Case=Gen|Foreign=Foreign|Number=Sing</td><td><em>Aircraft, Renascer</em></td></tr>
-  <tr><td>FM Gen|Sg|Fem</td><td>=&gt;</td><td>X</td><td>Case=Gen|Foreign=Foreign|Gender=Fem|Number=Sing</td><td><em>Bank, Aerospace, Queen, Transición</em></td></tr>
-  <tr style="background:lightgray"><td>FM Gen|Sg|Neut</td><td>=&gt;</td><td>X</td><td>Case=Gen|Foreign=Foreign|Gender=Neut|Number=Sing</td><td><em>Departments</em></td></tr>
-  <tr><td>FM Nom|*|*</td><td>=&gt;</td><td>X</td><td>Case=Nom|Foreign=Foreign</td><td><em>Telecommunications</em></td></tr>
-  <tr style="background:lightgray"><td>FM Nom|Pl|*</td><td>=&gt;</td><td>X</td><td>Case=Nom|Foreign=Foreign|Number=Plur</td><td><em>Kids, goal-rocks, blondes</em></td></tr>
-  <tr><td>FM Nom|Pl|Masc</td><td>=&gt;</td><td>X</td><td>Case=Nom|Foreign=Foreign|Gender=Masc|Number=Plur</td><td><em>Professionals</em></td></tr>
-  <tr style="background:lightgray"><td>FM Nom|Sg|*</td><td>=&gt;</td><td>X</td><td>Case=Nom|Foreign=Foreign|Number=Sing</td><td><em>Earth, Independent, Times, Cenerentola, Merchandizing</em></td></tr>
-  <tr><td>FM Nom|Sg|Fem</td><td>=&gt;</td><td>X</td><td>Case=Nom|Foreign=Foreign|Gender=Fem|Number=Sing</td><td><em>Transición, University, Family, Times, Pax</em></td></tr>
-  <tr style="background:lightgray"><td>FM Nom|Sg|Masc</td><td>=&gt;</td><td>X</td><td>Case=Nom|Foreign=Foreign|Gender=Masc|Number=Sing</td><td><em>Mello, Franquismo, Felipismo, verde, Akbar</em></td></tr>
-  <tr><td>FM Nom|Sg|Neut</td><td>=&gt;</td><td>X</td><td>Case=Nom|Foreign=Foreign|Gender=Neut|Number=Sing</td><td><em>Game, Centre, Home-Page-Busting, JANEIRO, Quartier</em></td></tr>
+  <tr style="background:lightgray"><td>FM _</td><td>=&gt;</td><td>X</td><td>Foreign=Yes</td><td><em>la, à, of, Oecologicus, en</em></td></tr>
+  <tr><td>FM Acc|Pl|Neut</td><td>=&gt;</td><td>X</td><td>Case=Acc|Foreign=Yes|Gender=Neut|Number=Plur</td><td><em>ratings</em></td></tr>
+  <tr style="background:lightgray"><td>FM Acc|Sg|*</td><td>=&gt;</td><td>X</td><td>Case=Acc|Foreign=Yes|Number=Sing</td><td><em>Services, Motors</em></td></tr>
+  <tr><td>FM Acc|Sg|Fem</td><td>=&gt;</td><td>X</td><td>Case=Acc|Foreign=Yes|Gender=Fem|Number=Sing</td><td><em>Nature</em></td></tr>
+  <tr style="background:lightgray"><td>FM Acc|Sg|Masc</td><td>=&gt;</td><td>X</td><td>Case=Acc|Foreign=Yes|Gender=Masc|Number=Sing</td><td><em>Sojus, Shoot-out</em></td></tr>
+  <tr><td>FM Acc|Sg|Neut</td><td>=&gt;</td><td>X</td><td>Case=Acc|Foreign=Yes|Gender=Neut|Number=Sing</td><td><em>Center, Village</em></td></tr>
+  <tr style="background:lightgray"><td>FM Dat|Pl|*</td><td>=&gt;</td><td>X</td><td>Case=Dat|Foreign=Yes|Number=Plur</td><td><em>Newbies, Three, Extracomunitari, Parcs</em></td></tr>
+  <tr><td>FM Dat|Sg|*</td><td>=&gt;</td><td>X</td><td>Case=Dat|Foreign=Yes|Number=Sing</td><td><em>Times, Shop, Independence, Latin, Pidgin</em></td></tr>
+  <tr style="background:lightgray"><td>FM Dat|Sg|Fem</td><td>=&gt;</td><td>X</td><td>Case=Dat|Foreign=Yes|Gender=Fem|Number=Sing</td><td><em>Good-will-Tour, Times, Commission</em></td></tr>
+  <tr><td>FM Dat|Sg|Masc</td><td>=&gt;</td><td>X</td><td>Case=Dat|Foreign=Yes|Gender=Masc|Number=Sing</td><td><em>Contract</em></td></tr>
+  <tr style="background:lightgray"><td>FM Dat|Sg|Neut</td><td>=&gt;</td><td>X</td><td>Case=Dat|Foreign=Yes|Gender=Neut|Number=Sing</td><td><em>Santo, Village, Adagio, Museum, Game</em></td></tr>
+  <tr><td>FM Gen|Pl|*</td><td>=&gt;</td><td>X</td><td>Case=Gen|Foreign=Yes|Number=Plur</td><td><em>Democrats</em></td></tr>
+  <tr style="background:lightgray"><td>FM Gen|Sg|*</td><td>=&gt;</td><td>X</td><td>Case=Gen|Foreign=Yes|Number=Sing</td><td><em>Aircraft, Renascer</em></td></tr>
+  <tr><td>FM Gen|Sg|Fem</td><td>=&gt;</td><td>X</td><td>Case=Gen|Foreign=Yes|Gender=Fem|Number=Sing</td><td><em>Bank, Aerospace, Queen, Transición</em></td></tr>
+  <tr style="background:lightgray"><td>FM Gen|Sg|Neut</td><td>=&gt;</td><td>X</td><td>Case=Gen|Foreign=Yes|Gender=Neut|Number=Sing</td><td><em>Departments</em></td></tr>
+  <tr><td>FM Nom|*|*</td><td>=&gt;</td><td>X</td><td>Case=Nom|Foreign=Yes</td><td><em>Telecommunications</em></td></tr>
+  <tr style="background:lightgray"><td>FM Nom|Pl|*</td><td>=&gt;</td><td>X</td><td>Case=Nom|Foreign=Yes|Number=Plur</td><td><em>Kids, goal-rocks, blondes</em></td></tr>
+  <tr><td>FM Nom|Pl|Masc</td><td>=&gt;</td><td>X</td><td>Case=Nom|Foreign=Yes|Gender=Masc|Number=Plur</td><td><em>Professionals</em></td></tr>
+  <tr style="background:lightgray"><td>FM Nom|Sg|*</td><td>=&gt;</td><td>X</td><td>Case=Nom|Foreign=Yes|Number=Sing</td><td><em>Earth, Independent, Times, Cenerentola, Merchandizing</em></td></tr>
+  <tr><td>FM Nom|Sg|Fem</td><td>=&gt;</td><td>X</td><td>Case=Nom|Foreign=Yes|Gender=Fem|Number=Sing</td><td><em>Transición, University, Family, Times, Pax</em></td></tr>
+  <tr style="background:lightgray"><td>FM Nom|Sg|Masc</td><td>=&gt;</td><td>X</td><td>Case=Nom|Foreign=Yes|Gender=Masc|Number=Sing</td><td><em>Mello, Franquismo, Felipismo, verde, Akbar</em></td></tr>
+  <tr><td>FM Nom|Sg|Neut</td><td>=&gt;</td><td>X</td><td>Case=Nom|Foreign=Yes|Gender=Neut|Number=Sing</td><td><em>Game, Centre, Home-Page-Busting, JANEIRO, Quartier</em></td></tr>
   <tr style="background:lightgray"><td>ITJ _</td><td>=&gt;</td><td>INTJ</td><td>_</td><td><em>Ach, äh, Na, piep, naja</em></td></tr>
-  <tr><td>KOKOM _</td><td>=&gt;</td><td>CONJ</td><td>ConjType=Comp</td><td><em>als, wie, denn, wir</em></td></tr>
-  <tr style="background:lightgray"><td>KON _</td><td>=&gt;</td><td>CONJ</td><td>_</td><td><em>und, oder, sondern, sowie, aber</em></td></tr>
+  <tr><td>KOKOM _</td><td>=&gt;</td><td>CCONJ</td><td>ConjType=Comp</td><td><em>als, wie, denn, wir</em></td></tr>
+  <tr style="background:lightgray"><td>KON _</td><td>=&gt;</td><td>CCONJ</td><td>_</td><td><em>und, oder, sondern, sowie, aber</em></td></tr>
   <tr><td>KOUI _</td><td>=&gt;</td><td>SCONJ</td><td>_</td><td><em>um, ohne, statt, anstatt, Ums</em></td></tr>
   <tr style="background:lightgray"><td>KOUS _</td><td>=&gt;</td><td>SCONJ</td><td>_</td><td><em>daß, wenn, weil, ob, als</em></td></tr>
   <tr><td>NE _</td><td>=&gt;</td><td>PROPN</td><td>_</td><td><em>Times, In, New, Heaven, Made</em></td></tr>
@@ -662,7 +663,7 @@ Tagset <tt>de::conll2009</tt>, total 835 tags.
   <tr><td>PROAV _</td><td>=&gt;</td><td>ADV</td><td>PronType=Dem</td><td><em>damit, dafür, dazu, darauf, davon</em></td></tr>
   <tr style="background:lightgray"><td>PTKA _</td><td>=&gt;</td><td>PART</td><td>_</td><td><em>zu, am, allzu, Um</em></td></tr>
   <tr><td>PTKANT _</td><td>=&gt;</td><td>PART</td><td>PartType=Res</td><td><em>ja, nein, bitte, Gewiß, Also</em></td></tr>
-  <tr style="background:lightgray"><td>PTKNEG _</td><td>=&gt;</td><td>PART</td><td>Negative=Neg</td><td><em>nicht</em></td></tr>
+  <tr style="background:lightgray"><td>PTKNEG _</td><td>=&gt;</td><td>PART</td><td>Polarity=Neg</td><td><em>nicht</em></td></tr>
   <tr><td>PTKVZ _</td><td>=&gt;</td><td>PART</td><td>PartType=Vbp</td><td><em>an, aus, ab, vor, auf</em></td></tr>
   <tr style="background:lightgray"><td>PTKZU _</td><td>=&gt;</td><td>PART</td><td>PartType=Inf</td><td><em>zu, zur</em></td></tr>
   <tr><td>PWAT _</td><td>=&gt;</td><td>DET</td><td>PronType=Int</td><td><em>wie, wieviele</em></td></tr>

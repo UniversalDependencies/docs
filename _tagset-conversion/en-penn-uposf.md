@@ -1,6 +1,7 @@
 ---
 layout: base
 title: 'Tagset en::penn conversion to universal POS tags and features'
+udver: '2'
 ---
 
 <a href="index.html">all tables</a>
@@ -25,11 +26,11 @@ Tagset <tt>en::penn</tt>, total 48 tags.
   <tr style="background:lightgray"><td>.</td><td>=&gt;</td><td>PUNCT</td><td>PunctType=Peri</td><td><em>., ?, !</em></td></tr>
   <tr><td>:</td><td>=&gt;</td><td>PUNCT</td><td>_</td><td><em>--, :, ;, ..., -</em></td></tr>
   <tr style="background:lightgray"><td>AFX</td><td>=&gt;</td><td>ADJ</td><td>Hyph=Yes</td><td><em></em></td></tr>
-  <tr><td>CC</td><td>=&gt;</td><td>CONJ</td><td>_</td><td><em>and, or, but, &amp;, nor</em></td></tr>
+  <tr><td>CC</td><td>=&gt;</td><td>CCONJ</td><td>_</td><td><em>and, or, but, &amp;, nor</em></td></tr>
   <tr style="background:lightgray"><td>CD</td><td>=&gt;</td><td>NUM</td><td>NumType=Card</td><td><em>million, billion, one, two, three</em></td></tr>
   <tr><td>DT</td><td>=&gt;</td><td>DET</td><td>_</td><td><em>the, a, an, this, some</em></td></tr>
   <tr style="background:lightgray"><td>EX</td><td>=&gt;</td><td>ADV</td><td>AdvType=Ex</td><td><em>there</em></td></tr>
-  <tr><td>FW</td><td>=&gt;</td><td>X</td><td>Foreign=Foreign</td><td><em>de, perestroika, glasnost, vs., naczelnik</em></td></tr>
+  <tr><td>FW</td><td>=&gt;</td><td>X</td><td>Foreign=Yes</td><td><em>de, perestroika, glasnost, vs., naczelnik</em></td></tr>
   <tr style="background:lightgray"><td>HYPH</td><td>=&gt;</td><td>PUNCT</td><td>PunctType=Dash</td><td><em></em></td></tr>
   <tr><td>IN</td><td>=&gt;</td><td>ADP</td><td>_</td><td><em>of, in, for, on, that</em></td></tr>
   <tr style="background:lightgray"><td>JJ</td><td>=&gt;</td><td>ADJ</td><td>Degree=Pos</td><td><em>new, other, last, such, first</em></td></tr>

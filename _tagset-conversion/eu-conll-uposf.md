@@ -1,6 +1,7 @@
 ---
 layout: base
 title: 'Tagset eu::conll conversion to universal POS tags and features'
+udver: '2'
 ---
 
 <a href="index.html">all tables</a>
@@ -156,7 +157,7 @@ Tagset <tt>eu::conll</tt>, total 5161 tags.
   <tr><td>ADI ADK ADM:ADOIN|MW:B</td><td>=&gt;</td><td>VERB</td><td>VerbForm=Inf</td><td><em>parte_har, beldur_izan, aurre_egin, min_eman, posible_izan</em></td></tr>
   <tr style="background:lightgray"><td>ADI ADK ADM:PART|ASP:BURU</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|VerbForm=Part</td><td><em>hitzegin</em></td></tr>
   <tr><td>ADI ADK ADM:PART|ASP:BURU|MW:B</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|VerbForm=Part</td><td><em>behar_izan, nahi_izan, bat_egin, hitz_egin, ezin_izan</em></td></tr>
-  <tr style="background:lightgray"><td>ADI ADK ADM:PART|ASP:GERO|MW:B</td><td>=&gt;</td><td>VERB</td><td>Aspect=Pro|VerbForm=Part</td><td><em>ahal_izango, parte_hartuko, bat_egingo, ezin_izango, hitz_egingo</em></td></tr>
+  <tr style="background:lightgray"><td>ADI ADK ADM:PART|ASP:GERO|MW:B</td><td>=&gt;</td><td>VERB</td><td>Aspect=Prosp|VerbForm=Part</td><td><em>ahal_izango, parte_hartuko, bat_egingo, ezin_izango, hitz_egingo</em></td></tr>
   <tr><td>ADI ADK ADM:PART|ERL:MOD|MW:B</td><td>=&gt;</td><td>VERB</td><td>VerbForm=Part</td><td><em>min_hartuta, alde_batera_utzita, kontuan_hartuta, ihes_eginda, mendean_hartuta</em></td></tr>
   <tr style="background:lightgray"><td>ADI ADK ADM:PART|KAS:ABS|MUG:MG|MW:B</td><td>=&gt;</td><td>VERB</td><td>Case=Abs|VerbForm=Part</td><td><em>bizi_izan, nahi_izan, atzera_egin, amore_eman</em></td></tr>
   <tr><td>ADI ADK ADM:PART|KAS:ABS|NUM:P|MUG:M</td><td>=&gt;</td><td>VERB</td><td>Case=Abs|Number=Plur|VerbForm=Part</td><td><em>gaitzesanak</em></td></tr>
@@ -167,7 +168,7 @@ Tagset <tt>eu::conll</tt>, total 5161 tags.
   <tr style="background:lightgray"><td>ADI ADK ADM:PART|KAS:INS|MUG:MG|MW:B</td><td>=&gt;</td><td>VERB</td><td>Case=Ins|VerbForm=Part</td><td><em>nahi_izanez, alde_batera_utziz, so_eginez, kontuan_hartuz, lan_eginez</em></td></tr>
   <tr><td>ADI ADK ADM:PART|KAS:PAR|MUG:MG|MW:B</td><td>=&gt;</td><td>VERB</td><td>Case=Par|VerbForm=Part</td><td><em>kontuan_izanik, kontutan_izanik</em></td></tr>
   <tr style="background:lightgray"><td>ADI ADK ADM:PART|MW:B</td><td>=&gt;</td><td>VERB</td><td>VerbForm=Part</td><td><em>parte_hartu, aurre_egin, hitz_egin, bat_egin, egin_behar</em></td></tr>
-  <tr><td>ADI ADK ASP:GERO</td><td>=&gt;</td><td>VERB</td><td>Aspect=Pro</td><td><em>beharko, ariko, nahiko, ezingo, biziko</em></td></tr>
+  <tr><td>ADI ADK ASP:GERO</td><td>=&gt;</td><td>VERB</td><td>Aspect=Prosp</td><td><em>beharko, ariko, nahiko, ezingo, biziko</em></td></tr>
   <tr style="background:lightgray"><td>ADI ADK ASP:PNT|ERL:BALD|MDN:A1|NOR:GU|MW:B</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Plur|Person[abs]=1</td><td><em>bizi_bagara</em></td></tr>
   <tr><td>ADI ADK ASP:PNT|ERL:BALD|MDN:A1|NOR:HAIEK|MW:B</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Plur|Person[abs]=3</td><td><em>ari_badira</em></td></tr>
   <tr style="background:lightgray"><td>ADI ADK ASP:PNT|ERL:BALD|MDN:A1|NOR:HURA|MW:B</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Person[abs]=3</td><td><em>nahi_bada, ari_bada, ahal_bada, falta_bada, nahiago_bada</em></td></tr>
@@ -175,8 +176,8 @@ Tagset <tt>eu::conll</tt>, total 5161 tags.
   <tr style="background:lightgray"><td>ADI ADK ASP:PNT|ERL:BALD|MDN:A1|NOR:HURA|NORK:HAIEK-K|MW:B</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Number[erg]=Plur|Person[abs]=3|Person[erg]=3</td><td><em>nahi_badute</em></td></tr>
   <tr><td>ADI ADK ASP:PNT|ERL:BALD|MDN:A1|NOR:HURA|NORK:HAIEK-K|NORI:HARI|MW:B</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Number[dat]=Sing|Number[erg]=Plur|Person[abs]=3|Person[dat]=3|Person[erg]=3</td><td><em>nahi_badiote</em></td></tr>
   <tr style="background:lightgray"><td>ADI ADK ASP:PNT|ERL:BALD|MDN:A1|NOR:HURA|NORK:HARK|MW:B</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=3</td><td><em>nahi_badu, ahal_badu, merezi_badu</em></td></tr>
-  <tr><td>ADI ADK ASP:PNT|ERL:BALD|MDN:A1|NOR:HURA|NORK:ZUK|MW:B</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=2|Polite[erg]=Pol</td><td><em>nahi_baduzu</em></td></tr>
-  <tr style="background:lightgray"><td>ADI ADK ASP:PNT|ERL:BALD|MDN:A1|NOR:ZU|MW:B</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Person[abs]=2|Polite[abs]=Pol</td><td><em>ari_bazara</em></td></tr>
+  <tr><td>ADI ADK ASP:PNT|ERL:BALD|MDN:A1|NOR:HURA|NORK:ZUK|MW:B</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=2|Polite[erg]=Form</td><td><em>nahi_baduzu</em></td></tr>
+  <tr style="background:lightgray"><td>ADI ADK ASP:PNT|ERL:BALD|MDN:A1|NOR:ZU|MW:B</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Person[abs]=2|Polite[abs]=Form</td><td><em>ari_bazara</em></td></tr>
   <tr><td>ADI ADK ASP:PNT|ERL:BALD|MDN:B1|NOR:HURA|NORK:HARK|MW:B</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=3</td><td><em>gura_bazuen, espero_bazuen</em></td></tr>
   <tr style="background:lightgray"><td>ADI ADK ASP:PNT|ERL:BALD|MDN:B4|NOR:GU|MW:B</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Plur|Person[abs]=1</td><td><em>ari_bagina</em></td></tr>
   <tr><td>ADI ADK ASP:PNT|ERL:DENB|MDN:A1|NOR:GU|MW:B</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Plur|Person[abs]=1</td><td><em>bizi_garenean</em></td></tr>
@@ -222,7 +223,7 @@ Tagset <tt>eu::conll</tt>, total 5161 tags.
   <tr><td>ADI ADK ASP:PNT|ERL:KAUS|MDN:A1|NOR:HURA|NORK:HARK|NORI:HAIEI|MW:B</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Number[dat]=Plur|Number[erg]=Sing|Person[abs]=3|Person[dat]=3|Person[erg]=3</td><td><em>dielako_axola</em></td></tr>
   <tr style="background:lightgray"><td>ADI ADK ASP:PNT|ERL:KAUS|MDN:A1|NOR:HURA|NORK:HARK|NORI:HARI|MW:B</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Number[dat]=Sing|Number[erg]=Sing|Person[abs]=3|Person[dat]=3|Person[erg]=3</td><td><em>nahi_baitio</em></td></tr>
   <tr><td>ADI ADK ASP:PNT|ERL:KAUS|MDN:A1|NOR:HURA|NORK:NIK|MW:B</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=1</td><td><em>behar_dudalako, uste_baitut, nahi_dudalako</em></td></tr>
-  <tr style="background:lightgray"><td>ADI ADK ASP:PNT|ERL:KAUS|MDN:A1|NOR:HURA|NORK:ZUK|MW:B</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=2|Polite[erg]=Pol</td><td><em>behar_baituzu</em></td></tr>
+  <tr style="background:lightgray"><td>ADI ADK ASP:PNT|ERL:KAUS|MDN:A1|NOR:HURA|NORK:ZUK|MW:B</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=2|Polite[erg]=Form</td><td><em>behar_baituzu</em></td></tr>
   <tr><td>ADI ADK ASP:PNT|ERL:KAUS|MDN:B1|NOR:HAIEK|MW:B</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Plur|Person[abs]=3</td><td><em>baitziren_gauza</em></td></tr>
   <tr style="background:lightgray"><td>ADI ADK ASP:PNT|ERL:KAUS|MDN:B1|NOR:HURA|NORK:HAIEK-K|MW:B</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Number[erg]=Plur|Person[abs]=3|Person[erg]=3</td><td><em>behar_baitzuten</em></td></tr>
   <tr><td>ADI ADK ASP:PNT|ERL:KAUS|MDN:B1|NOR:HURA|NORK:HARK|MW:B</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=3</td><td><em>behar_baitzuen, merezi_baitzuen, uste_zuelako</em></td></tr>
@@ -230,7 +231,7 @@ Tagset <tt>eu::conll</tt>, total 5161 tags.
   <tr><td>ADI ADK ASP:PNT|ERL:KONPL|MDN:A1|NOR:HAIEK|MW:B</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Plur|Person[abs]=3</td><td><em>behar_direla, ari_direla, ezin_direla, gai_direla, datozela_bat</em></td></tr>
   <tr style="background:lightgray"><td>ADI ADK ASP:PNT|ERL:KONPL|MDN:A1|NOR:HAIEK|NORK:HAIEK-K|MW:B</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Plur|Number[erg]=Plur|Person[abs]=3|Person[erg]=3</td><td><em>behar_dituztela</em></td></tr>
   <tr><td>ADI ADK ASP:PNT|ERL:KONPL|MDN:A1|NOR:HAIEK|NORK:HARK|MW:B</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Plur|Number[erg]=Sing|Person[abs]=3|Person[erg]=3</td><td><em>nahi_dituela, behar_dituela, ezin_dituela</em></td></tr>
-  <tr style="background:lightgray"><td>ADI ADK ASP:PNT|ERL:KONPL|MDN:A1|NOR:HI|NORK:HARK|MW:B</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Number[erg]=Sing|Person[abs]=2|Person[erg]=3|Polite[abs]=Inf</td><td><em>behar_hauela</em></td></tr>
+  <tr style="background:lightgray"><td>ADI ADK ASP:PNT|ERL:KONPL|MDN:A1|NOR:HI|NORK:HARK|MW:B</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Number[erg]=Sing|Person[abs]=2|Person[erg]=3|Polite[abs]=Infm</td><td><em>behar_hauela</em></td></tr>
   <tr><td>ADI ADK ASP:PNT|ERL:KONPL|MDN:A1|NOR:HURA|MW:B</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Person[abs]=3</td><td><em>behar_dela, ari_dela, ezin_dela, prest_dagoela, behar_denik</em></td></tr>
   <tr style="background:lightgray"><td>ADI ADK ASP:PNT|ERL:KONPL|MDN:A1|NOR:HURA|NORI:HARI|MW:B</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Number[dat]=Sing|Person[abs]=3|Person[dat]=3</td><td><em>behar_zaiola, ari_zaiola, komeni_zaionik</em></td></tr>
   <tr><td>ADI ADK ASP:PNT|ERL:KONPL|MDN:A1|NOR:HURA|NORI:NIRI|MW:B</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Number[dat]=Sing|Person[abs]=3|Person[dat]=1</td><td><em>ari_zaidala</em></td></tr>
@@ -239,7 +240,7 @@ Tagset <tt>eu::conll</tt>, total 5161 tags.
   <tr style="background:lightgray"><td>ADI ADK ASP:PNT|ERL:KONPL|MDN:A1|NOR:HURA|NORK:HAIEK-K|NORI:HAIEI|MW:B</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Number[dat]=Plur|Number[erg]=Plur|Person[abs]=3|Person[dat]=3|Person[erg]=3</td><td><em>behar_dietela</em></td></tr>
   <tr><td>ADI ADK ASP:PNT|ERL:KONPL|MDN:A1|NOR:HURA|NORK:HARK|MW:B</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=3</td><td><em>behar_duela, nahi_duela, ahal_duena, ezin_duela, duela_erran_nahi</em></td></tr>
   <tr style="background:lightgray"><td>ADI ADK ASP:PNT|ERL:KONPL|MDN:A1|NOR:HURA|NORK:HARK|NORI:HARI|MW:B</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Number[dat]=Sing|Number[erg]=Sing|Person[abs]=3|Person[dat]=3|Person[erg]=3</td><td><em>behar_diola</em></td></tr>
-  <tr><td>ADI ADK ASP:PNT|ERL:KONPL|MDN:A1|NOR:ZU|MW:B</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Person[abs]=2|Polite[abs]=Pol</td><td><em>ari_zarela</em></td></tr>
+  <tr><td>ADI ADK ASP:PNT|ERL:KONPL|MDN:A1|NOR:ZU|MW:B</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Person[abs]=2|Polite[abs]=Form</td><td><em>ari_zarela</em></td></tr>
   <tr style="background:lightgray"><td>ADI ADK ASP:PNT|ERL:KONPL|MDN:B1|NOR:HAIEK|MW:B</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Plur|Person[abs]=3</td><td><em>behar_zirela, prest_zeudela</em></td></tr>
   <tr><td>ADI ADK ASP:PNT|ERL:KONPL|MDN:B1|NOR:HAIEK|NORI:HAIEI|MW:B</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Plur|Number[dat]=Plur|Person[abs]=3|Person[dat]=3</td><td><em>ari_zitzaizkiela</em></td></tr>
   <tr style="background:lightgray"><td>ADI ADK ASP:PNT|ERL:KONPL|MDN:B1|NOR:HURA|MW:B</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Person[abs]=3</td><td><em>prest_zegoela, ari_zela, falta_zela, bat_zetorrela, beldur_zela</em></td></tr>
@@ -247,7 +248,7 @@ Tagset <tt>eu::conll</tt>, total 5161 tags.
   <tr style="background:lightgray"><td>ADI ADK ASP:PNT|ERL:KONPL|MDN:B1|NOR:HURA|NORK:GUK|MW:B</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Number[erg]=Plur|Person[abs]=3|Person[erg]=1</td><td><em>behar_genuela</em></td></tr>
   <tr><td>ADI ADK ASP:PNT|ERL:KONPL|MDN:B1|NOR:HURA|NORK:HAIEK-K|MW:B</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Number[erg]=Plur|Person[abs]=3|Person[erg]=3</td><td><em>zutela_gogoan</em></td></tr>
   <tr style="background:lightgray"><td>ADI ADK ASP:PNT|ERL:KONPL|MDN:B1|NOR:HURA|NORK:HARK|MW:B</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=3</td><td><em>behar_zuela, ezin_zuela, zuela_merezi</em></td></tr>
-  <tr><td>ADI ADK ASP:PNT|ERL:KONPL|MDN:B1|NOR:HURA|NORK:HIK|NORI:HARI|MW:B</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Number[dat]=Sing|Number[erg]=Sing|Person[abs]=3|Person[dat]=3|Person[erg]=2|Polite[erg]=Inf</td><td><em>behar_hiola</em></td></tr>
+  <tr><td>ADI ADK ASP:PNT|ERL:KONPL|MDN:B1|NOR:HURA|NORK:HIK|NORI:HARI|MW:B</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Number[dat]=Sing|Number[erg]=Sing|Person[abs]=3|Person[dat]=3|Person[erg]=2|Polite[erg]=Infm</td><td><em>behar_hiola</em></td></tr>
   <tr style="background:lightgray"><td>ADI ADK ASP:PNT|ERL:KONPL|MDN:B1|NOR:HURA|NORK:NIK|MW:B</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=1</td><td><em>nahi_nuela, ezin_nuela</em></td></tr>
   <tr><td>ADI ADK ASP:PNT|ERL:KONPL|MDN:B1|NOR:HURA|NORK:ZUEK-K|MW:B</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Number[erg]=Plur|Person[abs]=3|Person[erg]=2</td><td><em>nahiago_zenutela</em></td></tr>
   <tr style="background:lightgray"><td>ADI ADK ASP:PNT|ERL:KONPL|MDN:B1|NOR:NI|MW:B</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Person[abs]=1</td><td><em>ari_nintzela</em></td></tr>
@@ -275,13 +276,13 @@ Tagset <tt>eu::conll</tt>, total 5161 tags.
   <tr style="background:lightgray"><td>ADI ADK ASP:PNT|ERL:ZHG|MDN:A1|NOR:HURA|NORK:HAIEK-K|MW:B</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Number[erg]=Plur|Person[abs]=3|Person[erg]=3</td><td><em>behar_duten</em></td></tr>
   <tr><td>ADI ADK ASP:PNT|ERL:ZHG|MDN:A1|NOR:HURA|NORK:HARK|MW:B</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=3</td><td><em>behar_duen</em></td></tr>
   <tr style="background:lightgray"><td>ADI ADK ASP:PNT|ERL:ZHG|MDN:A1|NOR:HURA|NORK:NIK|MW:B</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=1</td><td><em>balio_dudan</em></td></tr>
-  <tr><td>ADI ADK ASP:PNT|ERL:ZHG|MDN:A1|NOR:ZU|MW:B</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Person[abs]=2|Polite[abs]=Pol</td><td><em>gai_zaren</em></td></tr>
+  <tr><td>ADI ADK ASP:PNT|ERL:ZHG|MDN:A1|NOR:ZU|MW:B</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Person[abs]=2|Polite[abs]=Form</td><td><em>gai_zaren</em></td></tr>
   <tr style="background:lightgray"><td>ADI ADK ASP:PNT|ERL:ZHG|MDN:B1|NOR:HAIEK|MW:B</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Plur|Person[abs]=3</td><td><em>ari_ziren</em></td></tr>
   <tr><td>ADI ADK ASP:PNT|KAS:ABS|NUM:P|MUG:M|MDN:B1|NOR:HURA|NORK:HAIEK-K|MW:B</td><td>=&gt;</td><td>VERB</td><td>Case=Abs|Number=Plur|Number[abs]=Sing|Number[erg]=Plur|Person[abs]=3|Person[erg]=3</td><td><em>nahi_zutenak</em></td></tr>
   <tr style="background:lightgray"><td>ADI ADK ASP:PNT|KAS:ABS|NUM:S|MUG:M|MDN:A1|NOR:HURA|MW:B</td><td>=&gt;</td><td>VERB</td><td>Case=Abs|Number=Sing|Number[abs]=Sing|Person[abs]=3</td><td><em>argi_dagoena</em></td></tr>
   <tr><td>ADI ADK ASP:PNT|KAS:ABS|NUM:S|MUG:M|MDN:A1|NOR:HURA|NORK:HARK|MW:B</td><td>=&gt;</td><td>VERB</td><td>Case=Abs|Number=Sing|Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=3</td><td><em>nahi_duena</em></td></tr>
   <tr style="background:lightgray"><td>ADI ADK ASP:PNT|KAS:ABS|NUM:S|MUG:M|MDN:A1|NOR:HURA|NORK:NIK|MW:B</td><td>=&gt;</td><td>VERB</td><td>Case=Abs|Number=Sing|Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=1</td><td><em>nahi_dudana</em></td></tr>
-  <tr><td>ADI ADK ASP:PNT|KAS:ABS|NUM:S|MUG:M|MDN:A1|NOR:HURA|NORK:ZUK|MW:B</td><td>=&gt;</td><td>VERB</td><td>Case=Abs|Number=Sing|Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=2|Polite[erg]=Pol</td><td><em>nahi_duzuna</em></td></tr>
+  <tr><td>ADI ADK ASP:PNT|KAS:ABS|NUM:S|MUG:M|MDN:A1|NOR:HURA|NORK:ZUK|MW:B</td><td>=&gt;</td><td>VERB</td><td>Case=Abs|Number=Sing|Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=2|Polite[erg]=Form</td><td><em>nahi_duzuna</em></td></tr>
   <tr style="background:lightgray"><td>ADI ADK ASP:PNT|KAS:ABS|NUM:S|MUG:M|MDN:B1|NOR:HURA|NORK:GUK|MW:B</td><td>=&gt;</td><td>VERB</td><td>Case=Abs|Number=Sing|Number[abs]=Sing|Number[erg]=Plur|Person[abs]=3|Person[erg]=1</td><td><em>nahi_genuena, behar_genuena</em></td></tr>
   <tr><td>ADI ADK ASP:PNT|KAS:ABS|NUM:S|MUG:M|MDN:B1|NOR:HURA|NORK:HAIEK-K|MW:B</td><td>=&gt;</td><td>VERB</td><td>Case=Abs|Number=Sing|Number[abs]=Sing|Number[erg]=Plur|Person[abs]=3|Person[erg]=3</td><td><em>nahi_zutena</em></td></tr>
   <tr style="background:lightgray"><td>ADI ADK ASP:PNT|KAS:ABS|NUM:S|MUG:M|MDN:B1|NOR:HURA|NORK:HARK|MW:B</td><td>=&gt;</td><td>VERB</td><td>Case=Abs|Number=Sing|Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=3</td><td><em>uste_zuena, nahi_zuena</em></td></tr>
@@ -311,13 +312,13 @@ Tagset <tt>eu::conll</tt>, total 5161 tags.
   <tr style="background:lightgray"><td>ADI ADK ASP:PNT|MDN:A1|NOR:HURA|NORI:GURI|MW:B</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Number[dat]=Plur|Person[abs]=3|Person[dat]=1</td><td><em>falta_zaigu, ageri_zaigu, berdin_zaigu</em></td></tr>
   <tr><td>ADI ADK ASP:PNT|MDN:A1|NOR:HURA|NORI:HAIEI|MW:B</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Number[dat]=Plur|Person[abs]=3|Person[dat]=3</td><td><em>behar_zaie, ezin_zaie, nahi_zaie, falta_zaie</em></td></tr>
   <tr style="background:lightgray"><td>ADI ADK ASP:PNT|MDN:A1|NOR:HURA|NORI:HARI|MW:B</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Number[dat]=Sing|Person[abs]=3|Person[dat]=3</td><td><em>behar_zaio, ari_zaio, komeni_zaio, nahi_zaio, falta_zaio</em></td></tr>
-  <tr><td>ADI ADK ASP:PNT|MDN:A1|NOR:HURA|NORI:HIRI-NO|MW:B</td><td>=&gt;</td><td>VERB</td><td>Gender[dat]=Fem|Number[abs]=Sing|Number[dat]=Sing|Person[abs]=3|Person[dat]=2|Polite[dat]=Inf</td><td><em>falta_zain</em></td></tr>
+  <tr><td>ADI ADK ASP:PNT|MDN:A1|NOR:HURA|NORI:HIRI-NO|MW:B</td><td>=&gt;</td><td>VERB</td><td>Gender[dat]=Fem|Number[abs]=Sing|Number[dat]=Sing|Person[abs]=3|Person[dat]=2|Polite[dat]=Infm</td><td><em>falta_zain</em></td></tr>
   <tr style="background:lightgray"><td>ADI ADK ASP:PNT|MDN:A1|NOR:HURA|NORI:NIRI|MW:B</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Number[dat]=Sing|Person[abs]=3|Person[dat]=1</td><td><em>iduri_zait, berdin_zait, zait_falta, falta_zait</em></td></tr>
   <tr><td>ADI ADK ASP:PNT|MDN:A1|NOR:HURA|NORK:GUK|HIT:NO|MW:B</td><td>=&gt;</td><td>VERB</td><td>Gender=Fem|Number[abs]=Sing|Number[erg]=Plur|Person[abs]=3|Person[erg]=1</td><td><em>behar_dinagu</em></td></tr>
   <tr style="background:lightgray"><td>ADI ADK ASP:PNT|MDN:A1|NOR:HURA|NORK:GUK|MW:B</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Number[erg]=Plur|Person[abs]=3|Person[erg]=1</td><td><em>behar_dugu, nahi_dugu, uste_dugu, ezin_dugu, espero_dugu</em></td></tr>
   <tr><td>ADI ADK ASP:PNT|MDN:A1|NOR:HURA|NORK:GUK|MW:B|ENT:Pertsona</td><td>=&gt;</td><td>VERB</td><td>NameType=Prs|Number[abs]=Sing|Number[erg]=Plur|Person[abs]=3|Person[erg]=1</td><td><em>Ezin_dugu_Barak</em></td></tr>
   <tr style="background:lightgray"><td>ADI ADK ASP:PNT|MDN:A1|NOR:HURA|NORK:GUK|NORI:HARI|MW:B</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Number[dat]=Sing|Number[erg]=Plur|Person[abs]=3|Person[dat]=3|Person[erg]=1</td><td><em>behar_diogu, nahi_diogu</em></td></tr>
-  <tr><td>ADI ADK ASP:PNT|MDN:A1|NOR:HURA|NORK:GUK|NORI:HIRI-TO|MW:B</td><td>=&gt;</td><td>VERB</td><td>Gender[dat]=Masc|Number[abs]=Sing|Number[dat]=Sing|Number[erg]=Plur|Person[abs]=3|Person[dat]=2|Person[erg]=1|Polite[dat]=Inf</td><td><em>Hobe_diagu</em></td></tr>
+  <tr><td>ADI ADK ASP:PNT|MDN:A1|NOR:HURA|NORK:GUK|NORI:HIRI-TO|MW:B</td><td>=&gt;</td><td>VERB</td><td>Gender[dat]=Masc|Number[abs]=Sing|Number[dat]=Sing|Number[erg]=Plur|Person[abs]=3|Person[dat]=2|Person[erg]=1|Polite[dat]=Infm</td><td><em>Hobe_diagu</em></td></tr>
   <tr style="background:lightgray"><td>ADI ADK ASP:PNT|MDN:A1|NOR:HURA|NORK:HAIEK-K|MW:B</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Number[erg]=Plur|Person[abs]=3|Person[erg]=3</td><td><em>nahi_dute, behar_dute, uste_dute, espero_dute, nahiago_dute</em></td></tr>
   <tr><td>ADI ADK ASP:PNT|MDN:A1|NOR:HURA|NORK:HAIEK-K|NORI:HARI|MW:B</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Number[dat]=Sing|Number[erg]=Plur|Person[abs]=3|Person[dat]=3|Person[erg]=3</td><td><em>nahi_diote, behar_diote</em></td></tr>
   <tr style="background:lightgray"><td>ADI ADK ASP:PNT|MDN:A1|NOR:HURA|NORK:HARK|HIT:NO|MW:B</td><td>=&gt;</td><td>VERB</td><td>Gender=Fem|Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=3</td><td><em>behar_din</em></td></tr>
@@ -326,16 +327,16 @@ Tagset <tt>eu::conll</tt>, total 5161 tags.
   <tr><td>ADI ADK ASP:PNT|MDN:A1|NOR:HURA|NORK:HARK|NORI:GURI|MW:B</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Number[dat]=Plur|Number[erg]=Sing|Person[abs]=3|Person[dat]=1|Person[erg]=3</td><td><em>ezin_digu</em></td></tr>
   <tr style="background:lightgray"><td>ADI ADK ASP:PNT|MDN:A1|NOR:HURA|NORK:HARK|NORI:HAIEI|MW:B</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Number[dat]=Plur|Number[erg]=Sing|Person[abs]=3|Person[dat]=3|Person[erg]=3</td><td><em>nahi_die</em></td></tr>
   <tr><td>ADI ADK ASP:PNT|MDN:A1|NOR:HURA|NORK:HARK|NORI:HARI|MW:B</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Number[dat]=Sing|Number[erg]=Sing|Person[abs]=3|Person[dat]=3|Person[erg]=3</td><td><em>nahi_dio, ezin_dio, berdin_dio, zor_dio</em></td></tr>
-  <tr style="background:lightgray"><td>ADI ADK ASP:PNT|MDN:A1|NOR:HURA|NORK:HIK-TO|MW:B</td><td>=&gt;</td><td>VERB</td><td>Gender[erg]=Masc|Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=2|Polite[erg]=Inf</td><td><em>nahi_duk</em></td></tr>
+  <tr style="background:lightgray"><td>ADI ADK ASP:PNT|MDN:A1|NOR:HURA|NORK:HIK-TO|MW:B</td><td>=&gt;</td><td>VERB</td><td>Gender[erg]=Masc|Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=2|Polite[erg]=Infm</td><td><em>nahi_duk</em></td></tr>
   <tr><td>ADI ADK ASP:PNT|MDN:A1|NOR:HURA|NORK:NIK|HIT:NO|MW:B</td><td>=&gt;</td><td>VERB</td><td>Gender=Fem|Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=1</td><td><em>gogoan_dinat</em></td></tr>
   <tr style="background:lightgray"><td>ADI ADK ASP:PNT|MDN:A1|NOR:HURA|NORK:NIK|MW:B</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=1</td><td><em>uste_dut, dut_uste, nahi_dut, espero_dut, behar_dut</em></td></tr>
   <tr><td>ADI ADK ASP:PNT|MDN:A1|NOR:HURA|NORK:NIK|NORI:HARI|MW:B</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Number[dat]=Sing|Number[erg]=Sing|Person[abs]=3|Person[dat]=3|Person[erg]=1</td><td><em>nahi_diot, behar_diot</em></td></tr>
   <tr style="background:lightgray"><td>ADI ADK ASP:PNT|MDN:A1|NOR:HURA|NORK:NIK|NORI:ZUEI|MW:B</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Number[dat]=Plur|Number[erg]=Sing|Person[abs]=3|Person[dat]=2|Person[erg]=1</td><td><em>behar_dizuet</em></td></tr>
-  <tr><td>ADI ADK ASP:PNT|MDN:A1|NOR:HURA|NORK:ZUK|MW:B</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=2|Polite[erg]=Pol</td><td><em>behar_duzu, ezin_duzu, nahi_duzu</em></td></tr>
+  <tr><td>ADI ADK ASP:PNT|MDN:A1|NOR:HURA|NORK:ZUK|MW:B</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=2|Polite[erg]=Form</td><td><em>behar_duzu, ezin_duzu, nahi_duzu</em></td></tr>
   <tr style="background:lightgray"><td>ADI ADK ASP:PNT|MDN:A1|NOR:NI|MW:B</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Person[abs]=1</td><td><em>ari_naiz, seguru_nago, prest_nago</em></td></tr>
-  <tr><td>ADI ADK ASP:PNT|MDN:A1|NOR:NI|NORK:ZUK|MW:B</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Number[erg]=Sing|Person[abs]=1|Person[erg]=2|Polite[erg]=Pol</td><td><em>nahi_nauzu</em></td></tr>
+  <tr><td>ADI ADK ASP:PNT|MDN:A1|NOR:NI|NORK:ZUK|MW:B</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Number[erg]=Sing|Person[abs]=1|Person[erg]=2|Polite[erg]=Form</td><td><em>nahi_nauzu</em></td></tr>
   <tr style="background:lightgray"><td>ADI ADK ASP:PNT|MDN:A1|NOR:ZUEK|MW:B</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Plur|Person[abs]=2</td><td><em>ari_zarete</em></td></tr>
-  <tr><td>ADI ADK ASP:PNT|MDN:A1|NOR:ZU|NORK:NIK|MW:B</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Number[erg]=Sing|Person[abs]=2|Person[erg]=1|Polite[abs]=Pol</td><td><em>behar_zaitut</em></td></tr>
+  <tr><td>ADI ADK ASP:PNT|MDN:A1|NOR:ZU|NORK:NIK|MW:B</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Number[erg]=Sing|Person[abs]=2|Person[erg]=1|Polite[abs]=Form</td><td><em>behar_zaitut</em></td></tr>
   <tr style="background:lightgray"><td>ADI ADK ASP:PNT|MDN:B1|NOR:GU|MW:B</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Plur|Person[abs]=1</td><td><em>Prest_geunden</em></td></tr>
   <tr><td>ADI ADK ASP:PNT|MDN:B1|NOR:HAIEK|MW:B</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Plur|Person[abs]=3</td><td><em>behar_ziren, ari_ziren, falta_ziren, bizi_ziren, beldur_ziren</em></td></tr>
   <tr style="background:lightgray"><td>ADI ADK ASP:PNT|MDN:B1|NOR:HAIEK|NORI:NIRI|MW:B</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Plur|Number[dat]=Sing|Person[abs]=3|Person[dat]=1</td><td><em>ari_zitzaizkidan, falta_zitzaizkidan</em></td></tr>
@@ -354,7 +355,7 @@ Tagset <tt>eu::conll</tt>, total 5161 tags.
   <tr><td>ADI ADK ASP:PNT|MDN:B1|NOR:HURA|NORK:NIK|MW:B</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=1</td><td><em>nahi_nuen, behar_nuen, Uste_nuen, nuen_gogoan, espero_nuen</em></td></tr>
   <tr style="background:lightgray"><td>ADI ADK ASP:PNT|MDN:B1|NOR:HURA|NORK:NIK|NORI:HARI|MW:B</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Number[dat]=Sing|Number[erg]=Sing|Person[abs]=3|Person[dat]=3|Person[erg]=1</td><td><em>behar_nion, Ezin_nion</em></td></tr>
   <tr><td>ADI ADK ASP:PNT|MDN:B1|NOR:NI|MW:B</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Person[abs]=1</td><td><em>Beldur_nintzen</em></td></tr>
-  <tr style="background:lightgray"><td>ADI ADK ASP:PNT|MDN:B2|NOR:HAIEK|NORK:HIK|MW:B</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Plur|Number[erg]=Sing|Person[abs]=3|Person[erg]=2|Polite[erg]=Inf</td><td><em>Behar_hituzke</em></td></tr>
+  <tr style="background:lightgray"><td>ADI ADK ASP:PNT|MDN:B2|NOR:HAIEK|NORK:HIK|MW:B</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Plur|Number[erg]=Sing|Person[abs]=3|Person[erg]=2|Polite[erg]=Infm</td><td><em>Behar_hituzke</em></td></tr>
   <tr><td>ADI ADK ASP:PNT|MDN:B2|NOR:HURA|MW:B</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Person[abs]=3</td><td><em>behar_litzateke</em></td></tr>
   <tr style="background:lightgray"><td>ADI ADK ASP:PNT|MDN:B2|NOR:HURA|NORK:HARK|MW:B</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=3</td><td><em>behar_luke, nahi_luke, Hobe_luke</em></td></tr>
   <tr><td>ADI ADK ASP:PNT|MDN:B2|NOR:HURA|NORK:NIK|HIT:NO|MW:B</td><td>=&gt;</td><td>VERB</td><td>Gender=Fem|Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=1</td><td><em>nahi_niken</em></td></tr>
@@ -365,7 +366,7 @@ Tagset <tt>eu::conll</tt>, total 5161 tags.
   <tr style="background:lightgray"><td>ADI ADK MW:B</td><td>=&gt;</td><td>VERB</td><td>_</td><td><em>ahal_liteke</em></td></tr>
   <tr><td>ADI ADP ADM:ADOIN|ASP:BURU|ERL:MOD</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|VerbForm=Inf</td><td><em>merezita</em></td></tr>
   <tr style="background:lightgray"><td>ADI ADP ASP:BURU</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf</td><td><em>merezi</em></td></tr>
-  <tr><td>ADI ADP ASP:GERO</td><td>=&gt;</td><td>VERB</td><td>Aspect=Pro</td><td><em>balioko, usteko, faltako</em></td></tr>
+  <tr><td>ADI ADP ASP:GERO</td><td>=&gt;</td><td>VERB</td><td>Aspect=Prosp</td><td><em>balioko, usteko, faltako</em></td></tr>
   <tr style="background:lightgray"><td>ADI FAK ADM:ADIZE|ERL:HELB|KAS:ABS|MUG:MG</td><td>=&gt;</td><td>VERB</td><td>Case=Abs|VerbForm=Ger</td><td><em>adierazteko, galarazteko, jakinarazteko, ulertarazteko, aitzinarazteko</em></td></tr>
   <tr><td>ADI FAK ADM:ADIZE|ERL:HELB|KAS:ALA</td><td>=&gt;</td><td>VERB</td><td>Case=All|VerbForm=Ger</td><td><em>isilaraztera, adieraztera</em></td></tr>
   <tr style="background:lightgray"><td>ADI FAK ADM:ADIZE|ERL:KONPL|KAS:ABS</td><td>=&gt;</td><td>VERB</td><td>Case=Abs|VerbForm=Ger</td><td><em>desagertaraztea, jakinaraztea, geldiaraztea, sufriaraztea</em></td></tr>
@@ -378,7 +379,7 @@ Tagset <tt>eu::conll</tt>, total 5161 tags.
   <tr><td>ADI FAK ADM:ADOIN|ASP:EZBU</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|VerbForm=Inf</td><td><em>adierazten, gogorarazten, birarazten, ohartarazten, jakinarazten</em></td></tr>
   <tr style="background:lightgray"><td>ADI FAK ADM:PART</td><td>=&gt;</td><td>VERB</td><td>VerbForm=Part</td><td><em>adierazi, jakinarazi, kenarazi, ikustarazi, estuarazi</em></td></tr>
   <tr><td>ADI FAK ADM:PART|ASP:BURU</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|VerbForm=Part</td><td><em>adierazi, jakinarazi, ohartarazi, gogorarazi, geldiarazi</em></td></tr>
-  <tr style="background:lightgray"><td>ADI FAK ADM:PART|ASP:GERO</td><td>=&gt;</td><td>VERB</td><td>Aspect=Pro|VerbForm=Part</td><td><em>jakinaraziko, galaraziko, adieraziko, helaraziko, sortaraziko</em></td></tr>
+  <tr style="background:lightgray"><td>ADI FAK ADM:PART|ASP:GERO</td><td>=&gt;</td><td>VERB</td><td>Aspect=Prosp|VerbForm=Part</td><td><em>jakinaraziko, galaraziko, adieraziko, helaraziko, sortaraziko</em></td></tr>
   <tr><td>ADI FAK ADM:PART|ERL:MOD</td><td>=&gt;</td><td>VERB</td><td>VerbForm=Part</td><td><em>adierazita</em></td></tr>
   <tr style="background:lightgray"><td>ADI FAK ADM:PART|KAS:ABS|MUG:MG</td><td>=&gt;</td><td>VERB</td><td>Case=Abs|VerbForm=Part</td><td><em>Adierazitako</em></td></tr>
   <tr><td>ADI FAK ADM:PART|KAS:ABS|NUM:S|MUG:M</td><td>=&gt;</td><td>VERB</td><td>Case=Abs|Number=Sing|VerbForm=Part</td><td><em>esnarazia</em></td></tr>
@@ -434,7 +435,7 @@ Tagset <tt>eu::conll</tt>, total 5161 tags.
   <tr><td>ADI SIN ADM:ADOIN|ERL:MOD</td><td>=&gt;</td><td>VERB</td><td>VerbForm=Inf</td><td><em>jarraiki, izaki</em></td></tr>
   <tr style="background:lightgray"><td>ADI SIN ADM:PART</td><td>=&gt;</td><td>VERB</td><td>VerbForm=Part</td><td><em>ari, komeni, berrogoita, hogeita</em></td></tr>
   <tr><td>ADI SIN ADM:PART|ASP:BURU</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|VerbForm=Part</td><td><em>izan, egin, esan, eman, hasi</em></td></tr>
-  <tr style="background:lightgray"><td>ADI SIN ADM:PART|ASP:GERO</td><td>=&gt;</td><td>VERB</td><td>Aspect=Pro|VerbForm=Part</td><td><em>izango, egingo, jokatuko, egongo, hartuko</em></td></tr>
+  <tr style="background:lightgray"><td>ADI SIN ADM:PART|ASP:GERO</td><td>=&gt;</td><td>VERB</td><td>Aspect=Prosp|VerbForm=Part</td><td><em>izango, egingo, jokatuko, egongo, hartuko</em></td></tr>
   <tr><td>ADI SIN ADM:PART|ERL:KONT|KAS:MOT|NUM:S|MUG:M</td><td>=&gt;</td><td>VERB</td><td>Case=Cau|Number=Sing|VerbForm=Part</td><td><em>izanagatik</em></td></tr>
   <tr style="background:lightgray"><td>ADI SIN ADM:PART|ERL:MOD</td><td>=&gt;</td><td>VERB</td><td>VerbForm=Part</td><td><em>eginda, ikusita, sartuta, beteta, irabazita</em></td></tr>
   <tr><td>ADI SIN ADM:PART|KAS:ABL|NUM:P</td><td>=&gt;</td><td>VERB</td><td>Case=Abl|Number=Plur|VerbForm=Part</td><td><em></em></td></tr>
@@ -504,14 +505,14 @@ Tagset <tt>eu::conll</tt>, total 5161 tags.
   <tr><td>ADI SIN ADM:PART|KAS:SOZ|NUM:S|MUG:M</td><td>=&gt;</td><td>VERB</td><td>Case=Com|Number=Sing|VerbForm=Part</td><td><em>batertuarekin, kualifikatuarekin, azaldutakoarekin, armatuarekin</em></td></tr>
   <tr style="background:lightgray"><td>ADI SIN ASP:BURU</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf</td><td><em></em></td></tr>
   <tr><td>ADI SIN ASP:EZBU</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp</td><td><em>ixten, erraiten</em></td></tr>
-  <tr style="background:lightgray"><td>ADI SIN ASP:GERO</td><td>=&gt;</td><td>VERB</td><td>Aspect=Pro</td><td><em>ukanen</em></td></tr>
+  <tr style="background:lightgray"><td>ADI SIN ASP:GERO</td><td>=&gt;</td><td>VERB</td><td>Aspect=Prosp</td><td><em>ukanen</em></td></tr>
   <tr><td>ADI SIN ASP:PNT|KAS:ABS|NUM:P|NOR:HURA|NORK:HAIEK-K</td><td>=&gt;</td><td>VERB</td><td>Case=Abs|Number=Plur|Number[abs]=Sing|Number[erg]=Plur|Person[abs]=3|Person[erg]=3</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>ADI SIN ASP:PNT|KAS:ABS|NUM:S|NOR:HURA</td><td>=&gt;</td><td>VERB</td><td>Case=Abs|Number=Sing|Number[abs]=Sing|Person[abs]=3</td><td><em></em></td></tr>
   <tr><td>ADI SIN ASP:PNT|KAS:ABS|NUM:S|NOR:HURA|NORK:GUK</td><td>=&gt;</td><td>VERB</td><td>Case=Abs|Number=Sing|Number[abs]=Sing|Number[erg]=Plur|Person[abs]=3|Person[erg]=1</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>ADI SIN ASP:PNT|KAS:ABS|NUM:S|NOR:HURA|NORK:HAIEK-K</td><td>=&gt;</td><td>VERB</td><td>Case=Abs|Number=Sing|Number[abs]=Sing|Number[erg]=Plur|Person[abs]=3|Person[erg]=3</td><td><em></em></td></tr>
   <tr><td>ADI SIN ASP:PNT|KAS:ABS|NUM:S|NOR:HURA|NORK:HARK</td><td>=&gt;</td><td>VERB</td><td>Case=Abs|Number=Sing|Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=3</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>ADI SIN ASP:PNT|KAS:ABS|NUM:S|NOR:HURA|NORK:NIK</td><td>=&gt;</td><td>VERB</td><td>Case=Abs|Number=Sing|Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=1</td><td><em></em></td></tr>
-  <tr><td>ADI SIN ASP:PNT|KAS:ABS|NUM:S|NOR:HURA|NORK:ZUK</td><td>=&gt;</td><td>VERB</td><td>Case=Abs|Number=Sing|Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=2|Polite[erg]=Pol</td><td><em></em></td></tr>
+  <tr><td>ADI SIN ASP:PNT|KAS:ABS|NUM:S|NOR:HURA|NORK:ZUK</td><td>=&gt;</td><td>VERB</td><td>Case=Abs|Number=Sing|Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=2|Polite[erg]=Form</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>ADI SIN ASP:PNT|KAS:ALA|NUM:S|NOR:HURA|NORK:HAIEK-K</td><td>=&gt;</td><td>VERB</td><td>Case=All|Number=Sing|Number[abs]=Sing|Number[erg]=Plur|Person[abs]=3|Person[erg]=3</td><td><em></em></td></tr>
   <tr><td>ADI SIN ASP:PNT|KAS:DAT|NUM:S|NOR:HURA</td><td>=&gt;</td><td>VERB</td><td>Case=Dat|Number=Sing|Number[abs]=Sing|Person[abs]=3</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>ADI SIN ASP:PNT|KAS:DES|NUM:S|NOR:HURA|NORK:HARK</td><td>=&gt;</td><td>VERB</td><td>Case=Ben|Number=Sing|Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=3</td><td><em></em></td></tr>
@@ -533,23 +534,23 @@ Tagset <tt>eu::conll</tt>, total 5161 tags.
   <tr style="background:lightgray"><td>ADI SIN ASP:PNT|NOR:HAIEK|NORK:HARK</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Plur|Number[erg]=Sing|Person[abs]=3|Person[erg]=3</td><td><em></em></td></tr>
   <tr><td>ADI SIN ASP:PNT|NOR:HAIEK|NORK:HARK|NORI:HAIEI</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Plur|Number[dat]=Plur|Number[erg]=Sing|Person[abs]=3|Person[dat]=3|Person[erg]=3</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>ADI SIN ASP:PNT|NOR:HAIEK|NORK:HARK|NORI:HARI</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Plur|Number[dat]=Sing|Number[erg]=Sing|Person[abs]=3|Person[dat]=3|Person[erg]=3</td><td><em></em></td></tr>
-  <tr><td>ADI SIN ASP:PNT|NOR:HAIEK|NORK:HIK</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Plur|Number[erg]=Sing|Person[abs]=3|Person[erg]=2|Polite[erg]=Inf</td><td><em></em></td></tr>
+  <tr><td>ADI SIN ASP:PNT|NOR:HAIEK|NORK:HIK</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Plur|Number[erg]=Sing|Person[abs]=3|Person[erg]=2|Polite[erg]=Infm</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>ADI SIN ASP:PNT|NOR:HAIEK|NORK:NIK</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Plur|Number[erg]=Sing|Person[abs]=3|Person[erg]=1</td><td><em></em></td></tr>
   <tr><td>ADI SIN ASP:PNT|NOR:HAIEK|NORK:NIK|NORI:HARI</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Plur|Number[dat]=Sing|Number[erg]=Sing|Person[abs]=3|Person[dat]=3|Person[erg]=1</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>ADI SIN ASP:PNT|NOR:HAIEK|NORK:ZUEK-K</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Plur|Number[erg]=Plur|Person[abs]=3|Person[erg]=2</td><td><em></em></td></tr>
-  <tr><td>ADI SIN ASP:PNT|NOR:HI|NORK:HARK</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Number[erg]=Sing|Person[abs]=2|Person[erg]=3|Polite[abs]=Inf</td><td><em></em></td></tr>
+  <tr><td>ADI SIN ASP:PNT|NOR:HI|NORK:HARK</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Number[erg]=Sing|Person[abs]=2|Person[erg]=3|Polite[abs]=Infm</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>ADI SIN ASP:PNT|NOR:HURA</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Person[abs]=3</td><td><em></em></td></tr>
   <tr><td>ADI SIN ASP:PNT|NOR:HURA|HIT:NO</td><td>=&gt;</td><td>VERB</td><td>Gender=Fem|Number[abs]=Sing|Person[abs]=3</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>ADI SIN ASP:PNT|NOR:HURA|NORI:GURI</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Number[dat]=Plur|Person[abs]=3|Person[dat]=1</td><td><em></em></td></tr>
   <tr><td>ADI SIN ASP:PNT|NOR:HURA|NORI:HAIEI</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Number[dat]=Plur|Person[abs]=3|Person[dat]=3</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>ADI SIN ASP:PNT|NOR:HURA|NORI:HARI</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Number[dat]=Sing|Person[abs]=3|Person[dat]=3</td><td><em></em></td></tr>
-  <tr><td>ADI SIN ASP:PNT|NOR:HURA|NORI:HIRI-NO</td><td>=&gt;</td><td>VERB</td><td>Gender[dat]=Fem|Number[abs]=Sing|Number[dat]=Sing|Person[abs]=3|Person[dat]=2|Polite[dat]=Inf</td><td><em></em></td></tr>
+  <tr><td>ADI SIN ASP:PNT|NOR:HURA|NORI:HIRI-NO</td><td>=&gt;</td><td>VERB</td><td>Gender[dat]=Fem|Number[abs]=Sing|Number[dat]=Sing|Person[abs]=3|Person[dat]=2|Polite[dat]=Infm</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>ADI SIN ASP:PNT|NOR:HURA|NORI:NIRI</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Number[dat]=Sing|Person[abs]=3|Person[dat]=1</td><td><em></em></td></tr>
   <tr><td>ADI SIN ASP:PNT|NOR:HURA|NORK:GUK</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Number[erg]=Plur|Person[abs]=3|Person[erg]=1</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>ADI SIN ASP:PNT|NOR:HURA|NORK:GUK|ENT:Pertsona</td><td>=&gt;</td><td>VERB</td><td>NameType=Prs|Number[abs]=Sing|Number[erg]=Plur|Person[abs]=3|Person[erg]=1</td><td><em></em></td></tr>
   <tr><td>ADI SIN ASP:PNT|NOR:HURA|NORK:GUK|HIT:NO</td><td>=&gt;</td><td>VERB</td><td>Gender=Fem|Number[abs]=Sing|Number[erg]=Plur|Person[abs]=3|Person[erg]=1</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>ADI SIN ASP:PNT|NOR:HURA|NORK:GUK|NORI:HARI</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Number[dat]=Sing|Number[erg]=Plur|Person[abs]=3|Person[dat]=3|Person[erg]=1</td><td><em></em></td></tr>
-  <tr><td>ADI SIN ASP:PNT|NOR:HURA|NORK:GUK|NORI:HIRI-TO</td><td>=&gt;</td><td>VERB</td><td>Gender[dat]=Masc|Number[abs]=Sing|Number[dat]=Sing|Number[erg]=Plur|Person[abs]=3|Person[dat]=2|Person[erg]=1|Polite[dat]=Inf</td><td><em></em></td></tr>
+  <tr><td>ADI SIN ASP:PNT|NOR:HURA|NORK:GUK|NORI:HIRI-TO</td><td>=&gt;</td><td>VERB</td><td>Gender[dat]=Masc|Number[abs]=Sing|Number[dat]=Sing|Number[erg]=Plur|Person[abs]=3|Person[dat]=2|Person[erg]=1|Polite[dat]=Infm</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>ADI SIN ASP:PNT|NOR:HURA|NORK:HAIEK-K</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Number[erg]=Plur|Person[abs]=3|Person[erg]=3</td><td><em></em></td></tr>
   <tr><td>ADI SIN ASP:PNT|NOR:HURA|NORK:HAIEK-K|NORI:HAIEI</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Number[dat]=Plur|Number[erg]=Plur|Person[abs]=3|Person[dat]=3|Person[erg]=3</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>ADI SIN ASP:PNT|NOR:HURA|NORK:HAIEK-K|NORI:HARI</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Number[dat]=Sing|Number[erg]=Plur|Person[abs]=3|Person[dat]=3|Person[erg]=3</td><td><em></em></td></tr>
@@ -559,20 +560,20 @@ Tagset <tt>eu::conll</tt>, total 5161 tags.
   <tr style="background:lightgray"><td>ADI SIN ASP:PNT|NOR:HURA|NORK:HARK|NORI:GURI</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Number[dat]=Plur|Number[erg]=Sing|Person[abs]=3|Person[dat]=1|Person[erg]=3</td><td><em></em></td></tr>
   <tr><td>ADI SIN ASP:PNT|NOR:HURA|NORK:HARK|NORI:HAIEI</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Number[dat]=Plur|Number[erg]=Sing|Person[abs]=3|Person[dat]=3|Person[erg]=3</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>ADI SIN ASP:PNT|NOR:HURA|NORK:HARK|NORI:HARI</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Number[dat]=Sing|Number[erg]=Sing|Person[abs]=3|Person[dat]=3|Person[erg]=3</td><td><em></em></td></tr>
-  <tr><td>ADI SIN ASP:PNT|NOR:HURA|NORK:HIK-TO</td><td>=&gt;</td><td>VERB</td><td>Gender[erg]=Masc|Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=2|Polite[erg]=Inf</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>ADI SIN ASP:PNT|NOR:HURA|NORK:HIK|NORI:HARI</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Number[dat]=Sing|Number[erg]=Sing|Person[abs]=3|Person[dat]=3|Person[erg]=2|Polite[erg]=Inf</td><td><em></em></td></tr>
+  <tr><td>ADI SIN ASP:PNT|NOR:HURA|NORK:HIK-TO</td><td>=&gt;</td><td>VERB</td><td>Gender[erg]=Masc|Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=2|Polite[erg]=Infm</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>ADI SIN ASP:PNT|NOR:HURA|NORK:HIK|NORI:HARI</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Number[dat]=Sing|Number[erg]=Sing|Person[abs]=3|Person[dat]=3|Person[erg]=2|Polite[erg]=Infm</td><td><em></em></td></tr>
   <tr><td>ADI SIN ASP:PNT|NOR:HURA|NORK:NIK</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=1</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>ADI SIN ASP:PNT|NOR:HURA|NORK:NIK|HIT:NO</td><td>=&gt;</td><td>VERB</td><td>Gender=Fem|Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=1</td><td><em></em></td></tr>
   <tr><td>ADI SIN ASP:PNT|NOR:HURA|NORK:NIK|NORI:HARI</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Number[dat]=Sing|Number[erg]=Sing|Person[abs]=3|Person[dat]=3|Person[erg]=1</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>ADI SIN ASP:PNT|NOR:HURA|NORK:NIK|NORI:ZUEI</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Number[dat]=Plur|Number[erg]=Sing|Person[abs]=3|Person[dat]=2|Person[erg]=1</td><td><em></em></td></tr>
   <tr><td>ADI SIN ASP:PNT|NOR:HURA|NORK:ZUEK-K</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Number[erg]=Plur|Person[abs]=3|Person[erg]=2</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>ADI SIN ASP:PNT|NOR:HURA|NORK:ZUK</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=2|Polite[erg]=Pol</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>ADI SIN ASP:PNT|NOR:HURA|NORK:ZUK</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=2|Polite[erg]=Form</td><td><em></em></td></tr>
   <tr><td>ADI SIN ASP:PNT|NOR:NI</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Person[abs]=1</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>ADI SIN ASP:PNT|NOR:NI|NORK:HARK</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Number[erg]=Sing|Person[abs]=1|Person[erg]=3</td><td><em></em></td></tr>
-  <tr><td>ADI SIN ASP:PNT|NOR:NI|NORK:ZUK</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Number[erg]=Sing|Person[abs]=1|Person[erg]=2|Polite[erg]=Pol</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>ADI SIN ASP:PNT|NOR:ZU</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Person[abs]=2|Polite[abs]=Pol</td><td><em></em></td></tr>
+  <tr><td>ADI SIN ASP:PNT|NOR:NI|NORK:ZUK</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Number[erg]=Sing|Person[abs]=1|Person[erg]=2|Polite[erg]=Form</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>ADI SIN ASP:PNT|NOR:ZU</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Person[abs]=2|Polite[abs]=Form</td><td><em></em></td></tr>
   <tr><td>ADI SIN ASP:PNT|NOR:ZUEK</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Plur|Person[abs]=2</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>ADI SIN ASP:PNT|NOR:ZU|NORK:NIK</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Number[erg]=Sing|Person[abs]=2|Person[erg]=1|Polite[abs]=Pol</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>ADI SIN ASP:PNT|NOR:ZU|NORK:NIK</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Number[erg]=Sing|Person[abs]=2|Person[erg]=1|Polite[abs]=Form</td><td><em></em></td></tr>
   <tr><td>ADI SIN MAI:KONP|ADM:PART|KAS:ABS</td><td>=&gt;</td><td>VERB</td><td>Case=Abs|Degree=Cmp|VerbForm=Part</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>ADI SIN MAI:KONP|ADM:PART|KAS:ABS|MUG:MG</td><td>=&gt;</td><td>VERB</td><td>Case=Abs|Degree=Cmp|VerbForm=Part</td><td><em>atsekabetuago, etsiago</em></td></tr>
   <tr><td>ADI SIN MAI:KONP|ADM:PART|KAS:ABS|NUM:P</td><td>=&gt;</td><td>VERB</td><td>Case=Abs|Degree=Cmp|Number=Plur|VerbForm=Part</td><td><em></em></td></tr>
@@ -1020,10 +1021,10 @@ Tagset <tt>eu::conll</tt>, total 5161 tags.
   <tr><td>ADL ADL ERL:BALD|MDN:A1|NOR:HAIEK|NORK:GUK</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Plur|Number[erg]=Plur|Person[abs]=3|Person[erg]=1</td><td><em>baditugu</em></td></tr>
   <tr style="background:lightgray"><td>ADL ADL ERL:BALD|MDN:A1|NOR:HAIEK|NORK:HAIEK-K</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Plur|Number[erg]=Plur|Person[abs]=3|Person[erg]=3</td><td><em>badituzte</em></td></tr>
   <tr><td>ADL ADL ERL:BALD|MDN:A1|NOR:HAIEK|NORK:HARK</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Plur|Number[erg]=Sing|Person[abs]=3|Person[erg]=3</td><td><em>baditu</em></td></tr>
-  <tr style="background:lightgray"><td>ADL ADL ERL:BALD|MDN:A1|NOR:HAIEK|NORK:ZUK</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Plur|Number[erg]=Sing|Person[abs]=3|Person[erg]=2|Polite[erg]=Pol</td><td><em>badituzu</em></td></tr>
+  <tr style="background:lightgray"><td>ADL ADL ERL:BALD|MDN:A1|NOR:HAIEK|NORK:ZUK</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Plur|Number[erg]=Sing|Person[abs]=3|Person[erg]=2|Polite[erg]=Form</td><td><em>badituzu</em></td></tr>
   <tr><td>ADL ADL ERL:BALD|MDN:A1|NOR:HURA</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Person[abs]=3</td><td><em>bada</em></td></tr>
   <tr style="background:lightgray"><td>ADL ADL ERL:BALD|MDN:A1|NOR:HURA|NORI:GURI</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[dat]=Plur|Person[abs]=3|Person[dat]=1</td><td><em>bazaigu</em></td></tr>
-  <tr><td>ADL ADL ERL:BALD|MDN:A1|NOR:HURA|NORI:ZURI</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[dat]=Sing|Person[abs]=3|Person[dat]=2|Polite[dat]=Pol</td><td><em>bazaizu</em></td></tr>
+  <tr><td>ADL ADL ERL:BALD|MDN:A1|NOR:HURA|NORI:ZURI</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[dat]=Sing|Person[abs]=3|Person[dat]=2|Polite[dat]=Form</td><td><em>bazaizu</em></td></tr>
   <tr style="background:lightgray"><td>ADL ADL ERL:BALD|MDN:A1|NOR:HURA|NORK:GUK</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[erg]=Plur|Person[abs]=3|Person[erg]=1</td><td><em>badugu</em></td></tr>
   <tr><td>ADL ADL ERL:BALD|MDN:A1|NOR:HURA|NORK:GUK|NORI:HARI</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[dat]=Sing|Number[erg]=Plur|Person[abs]=3|Person[dat]=3|Person[erg]=1</td><td><em>badiogu, badiougu</em></td></tr>
   <tr style="background:lightgray"><td>ADL ADL ERL:BALD|MDN:A1|NOR:HURA|NORK:HAIEK-K</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[erg]=Plur|Person[abs]=3|Person[erg]=3</td><td><em>badute</em></td></tr>
@@ -1032,12 +1033,12 @@ Tagset <tt>eu::conll</tt>, total 5161 tags.
   <tr><td>ADL ADL ERL:BALD|MDN:A1|NOR:HURA|NORK:HARK</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=3</td><td><em>badu</em></td></tr>
   <tr style="background:lightgray"><td>ADL ADL ERL:BALD|MDN:A1|NOR:HURA|NORK:HARK|NORI:HARI</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[dat]=Sing|Number[erg]=Sing|Person[abs]=3|Person[dat]=3|Person[erg]=3</td><td><em>badio</em></td></tr>
   <tr><td>ADL ADL ERL:BALD|MDN:A1|NOR:HURA|NORK:NIK</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=1</td><td><em>badut</em></td></tr>
-  <tr style="background:lightgray"><td>ADL ADL ERL:BALD|MDN:A1|NOR:HURA|NORK:ZUK</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=2|Polite[erg]=Pol</td><td><em>baduzu</em></td></tr>
-  <tr><td>ADL ADL ERL:BALD|MDN:A1|NOR:HURA|NORK:ZUK|NORI:HAIEI</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[dat]=Plur|Number[erg]=Sing|Person[abs]=3|Person[dat]=3|Person[erg]=2|Polite[erg]=Pol</td><td><em>badiezu</em></td></tr>
-  <tr style="background:lightgray"><td>ADL ADL ERL:BALD|MDN:A1|NOR:HURA|NORK:ZUK|NORI:HARI</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[dat]=Sing|Number[erg]=Sing|Person[abs]=3|Person[dat]=3|Person[erg]=2|Polite[erg]=Pol</td><td><em>badiozu</em></td></tr>
-  <tr><td>ADL ADL ERL:BALD|MDN:A1|NOR:HURA|NORK:ZUK|NORI:NIRI</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[dat]=Sing|Number[erg]=Sing|Person[abs]=3|Person[dat]=1|Person[erg]=2|Polite[erg]=Pol</td><td><em>badidazu</em></td></tr>
+  <tr style="background:lightgray"><td>ADL ADL ERL:BALD|MDN:A1|NOR:HURA|NORK:ZUK</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=2|Polite[erg]=Form</td><td><em>baduzu</em></td></tr>
+  <tr><td>ADL ADL ERL:BALD|MDN:A1|NOR:HURA|NORK:ZUK|NORI:HAIEI</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[dat]=Plur|Number[erg]=Sing|Person[abs]=3|Person[dat]=3|Person[erg]=2|Polite[erg]=Form</td><td><em>badiezu</em></td></tr>
+  <tr style="background:lightgray"><td>ADL ADL ERL:BALD|MDN:A1|NOR:HURA|NORK:ZUK|NORI:HARI</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[dat]=Sing|Number[erg]=Sing|Person[abs]=3|Person[dat]=3|Person[erg]=2|Polite[erg]=Form</td><td><em>badiozu</em></td></tr>
+  <tr><td>ADL ADL ERL:BALD|MDN:A1|NOR:HURA|NORK:ZUK|NORI:NIRI</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[dat]=Sing|Number[erg]=Sing|Person[abs]=3|Person[dat]=1|Person[erg]=2|Polite[erg]=Form</td><td><em>badidazu</em></td></tr>
   <tr style="background:lightgray"><td>ADL ADL ERL:BALD|MDN:A1|NOR:NI</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Person[abs]=1</td><td><em>banaiz</em></td></tr>
-  <tr><td>ADL ADL ERL:BALD|MDN:A1|NOR:ZU</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Person[abs]=2|Polite[abs]=Pol</td><td><em>bazara</em></td></tr>
+  <tr><td>ADL ADL ERL:BALD|MDN:A1|NOR:ZU</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Person[abs]=2|Polite[abs]=Form</td><td><em>bazara</em></td></tr>
   <tr style="background:lightgray"><td>ADL ADL ERL:BALD|MDN:A5|NOR:HURA|NORK:HARK</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=3</td><td><em>badezake</em></td></tr>
   <tr><td>ADL ADL ERL:BALD|MDN:B1|NOR:GU</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Plur|Person[abs]=1</td><td><em>baginen</em></td></tr>
   <tr style="background:lightgray"><td>ADL ADL ERL:BALD|MDN:B1|NOR:HAIEK</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Plur|Person[abs]=3</td><td><em>baziren</em></td></tr>
@@ -1102,7 +1103,7 @@ Tagset <tt>eu::conll</tt>, total 5161 tags.
   <tr><td>ADL ADL ERL:ERLT|MDN:A1|NOR:HAIEK</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Plur|Person[abs]=3</td><td><em>diren, giren</em></td></tr>
   <tr style="background:lightgray"><td>ADL ADL ERL:ERLT|MDN:A1|NOR:HAIEK|NORI:HAIEI</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Plur|Number[dat]=Plur|Person[abs]=3|Person[dat]=3</td><td><em>zaizkien</em></td></tr>
   <tr><td>ADL ADL ERL:ERLT|MDN:A1|NOR:HAIEK|NORI:HARI</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Plur|Number[dat]=Sing|Person[abs]=3|Person[dat]=3</td><td><em>zaizkion</em></td></tr>
-  <tr style="background:lightgray"><td>ADL ADL ERL:ERLT|MDN:A1|NOR:HAIEK|NORI:ZURI</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Plur|Number[dat]=Sing|Person[abs]=3|Person[dat]=2|Polite[dat]=Pol</td><td><em>zaizkizun</em></td></tr>
+  <tr style="background:lightgray"><td>ADL ADL ERL:ERLT|MDN:A1|NOR:HAIEK|NORI:ZURI</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Plur|Number[dat]=Sing|Person[abs]=3|Person[dat]=2|Polite[dat]=Form</td><td><em>zaizkizun</em></td></tr>
   <tr><td>ADL ADL ERL:ERLT|MDN:A1|NOR:HAIEK|NORK:GUK</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Plur|Number[erg]=Plur|Person[abs]=3|Person[erg]=1</td><td><em>ditugun</em></td></tr>
   <tr style="background:lightgray"><td>ADL ADL ERL:ERLT|MDN:A1|NOR:HAIEK|NORK:HAIEK-K</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Plur|Number[erg]=Plur|Person[abs]=3|Person[erg]=3</td><td><em>dituzten</em></td></tr>
   <tr><td>ADL ADL ERL:ERLT|MDN:A1|NOR:HAIEK|NORK:HARK</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Plur|Number[erg]=Sing|Person[abs]=3|Person[erg]=3</td><td><em>dituen</em></td></tr>
@@ -1110,7 +1111,7 @@ Tagset <tt>eu::conll</tt>, total 5161 tags.
   <tr><td>ADL ADL ERL:ERLT|MDN:A1|NOR:HAIEK|NORK:HARK|NORI:HARI</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Plur|Number[dat]=Sing|Number[erg]=Sing|Person[abs]=3|Person[dat]=3|Person[erg]=3</td><td><em>dizkion</em></td></tr>
   <tr style="background:lightgray"><td>ADL ADL ERL:ERLT|MDN:A1|NOR:HAIEK|NORK:NIK</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Plur|Number[erg]=Sing|Person[abs]=3|Person[erg]=1</td><td><em>ditudan</em></td></tr>
   <tr><td>ADL ADL ERL:ERLT|MDN:A1|NOR:HAIEK|NORK:ZUEK-K</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Plur|Number[erg]=Plur|Person[abs]=3|Person[erg]=2</td><td><em>dituzuen</em></td></tr>
-  <tr style="background:lightgray"><td>ADL ADL ERL:ERLT|MDN:A1|NOR:HAIEK|NORK:ZUK</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Plur|Number[erg]=Sing|Person[abs]=3|Person[erg]=2|Polite[erg]=Pol</td><td><em>dituzun</em></td></tr>
+  <tr style="background:lightgray"><td>ADL ADL ERL:ERLT|MDN:A1|NOR:HAIEK|NORK:ZUK</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Plur|Number[erg]=Sing|Person[abs]=3|Person[erg]=2|Polite[erg]=Form</td><td><em>dituzun</em></td></tr>
   <tr><td>ADL ADL ERL:ERLT|MDN:A1|NOR:HURA</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Person[abs]=3</td><td><em>den</em></td></tr>
   <tr style="background:lightgray"><td>ADL ADL ERL:ERLT|MDN:A1|NOR:HURA|NORI:GURI</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[dat]=Plur|Person[abs]=3|Person[dat]=1</td><td><em>zaigun</em></td></tr>
   <tr><td>ADL ADL ERL:ERLT|MDN:A1|NOR:HURA|NORI:HAIEI</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[dat]=Plur|Person[abs]=3|Person[dat]=3</td><td><em>zaien</em></td></tr>
@@ -1129,7 +1130,7 @@ Tagset <tt>eu::conll</tt>, total 5161 tags.
   <tr style="background:lightgray"><td>ADL ADL ERL:ERLT|MDN:A1|NOR:HURA|NORK:HARK|NORI:HARI</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[dat]=Sing|Number[erg]=Sing|Person[abs]=3|Person[dat]=3|Person[erg]=3</td><td><em>dion</em></td></tr>
   <tr><td>ADL ADL ERL:ERLT|MDN:A1|NOR:HURA|NORK:HARK|NORI:NIRI</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[dat]=Sing|Number[erg]=Sing|Person[abs]=3|Person[dat]=1|Person[erg]=3</td><td><em>didan</em></td></tr>
   <tr style="background:lightgray"><td>ADL ADL ERL:ERLT|MDN:A1|NOR:HURA|NORK:NIK</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=1</td><td><em>dudan</em></td></tr>
-  <tr><td>ADL ADL ERL:ERLT|MDN:A1|NOR:HURA|NORK:ZUK</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=2|Polite[erg]=Pol</td><td><em>duzun</em></td></tr>
+  <tr><td>ADL ADL ERL:ERLT|MDN:A1|NOR:HURA|NORK:ZUK</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=2|Polite[erg]=Form</td><td><em>duzun</em></td></tr>
   <tr style="background:lightgray"><td>ADL ADL ERL:ERLT|MDN:A1|NOR:NI</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Person[abs]=1</td><td><em>naizen</em></td></tr>
   <tr><td>ADL ADL ERL:ERLT|MDN:A1|NOR:NI|NORK:HARK</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[erg]=Sing|Person[abs]=1|Person[erg]=3</td><td><em>nauen</em></td></tr>
   <tr style="background:lightgray"><td>ADL ADL ERL:ERLT|MDN:A3|NOR:HURA|NORK:HARK</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=3</td><td><em>dezan</em></td></tr>
@@ -1164,7 +1165,7 @@ Tagset <tt>eu::conll</tt>, total 5161 tags.
   <tr><td>ADL ADL ERL:ERLT|MDN:B1|NOR:HURA|NORK:NIK</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=1</td><td><em>nuen</em></td></tr>
   <tr style="background:lightgray"><td>ADL ADL ERL:ERLT|MDN:B1|NOR:HURA|NORK:NIK|NORI:HARI</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[dat]=Sing|Number[erg]=Sing|Person[abs]=3|Person[dat]=3|Person[erg]=1</td><td><em>nion</em></td></tr>
   <tr><td>ADL ADL ERL:ERLT|MDN:B1|NOR:HURA|NORK:ZUEK-K|NORI:NIRI</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[dat]=Sing|Number[erg]=Plur|Person[abs]=3|Person[dat]=1|Person[erg]=2</td><td><em>zenidaten</em></td></tr>
-  <tr style="background:lightgray"><td>ADL ADL ERL:ERLT|MDN:B1|NOR:HURA|NORK:ZUK</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=2|Polite[erg]=Pol</td><td><em>zenuen</em></td></tr>
+  <tr style="background:lightgray"><td>ADL ADL ERL:ERLT|MDN:B1|NOR:HURA|NORK:ZUK</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=2|Polite[erg]=Form</td><td><em>zenuen</em></td></tr>
   <tr><td>ADL ADL ERL:ERLT|MDN:B1|NOR:NI|NORK:HARK</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[erg]=Sing|Person[abs]=1|Person[erg]=3</td><td><em>ninduen</em></td></tr>
   <tr style="background:lightgray"><td>ADL ADL ERL:ERLT|MDN:B1|NOR:ZUEK|NORK:HARK</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Plur|Number[erg]=Sing|Person[abs]=2|Person[erg]=3</td><td><em>zintuzten</em></td></tr>
   <tr><td>ADL ADL ERL:ERLT|MDN:B2|NOR:HAIEK|NORK:HARK</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Plur|Number[erg]=Sing|Person[abs]=3|Person[erg]=3</td><td><em>lituzkeen</em></td></tr>
@@ -1188,7 +1189,7 @@ Tagset <tt>eu::conll</tt>, total 5161 tags.
   <tr><td>ADL ADL ERL:HELB|MDN:A3|NOR:HURA|NORK:HAIEK-K|NORI:HARI</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[dat]=Sing|Number[erg]=Plur|Person[abs]=3|Person[dat]=3|Person[erg]=3</td><td><em>diezaioten</em></td></tr>
   <tr style="background:lightgray"><td>ADL ADL ERL:HELB|MDN:A3|NOR:HURA|NORK:HARK</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=3</td><td><em>dezan</em></td></tr>
   <tr><td>ADL ADL ERL:HELB|MDN:A3|NOR:HURA|NORK:NIK|NORI:HAIEI</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[dat]=Plur|Number[erg]=Sing|Person[abs]=3|Person[dat]=3|Person[erg]=1</td><td><em>diezaiedan</em></td></tr>
-  <tr style="background:lightgray"><td>ADL ADL ERL:HELB|MDN:A3|NOR:ZU</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Person[abs]=2|Polite[abs]=Pol</td><td><em>zaitezen</em></td></tr>
+  <tr style="background:lightgray"><td>ADL ADL ERL:HELB|MDN:A3|NOR:ZU</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Person[abs]=2|Polite[abs]=Form</td><td><em>zaitezen</em></td></tr>
   <tr><td>ADL ADL ERL:HELB|MDN:B5A|NOR:HURA|NORK:HARK</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=3</td><td><em>lezan</em></td></tr>
   <tr style="background:lightgray"><td>ADL ADL ERL:HELB|MDN:B5B|NOR:HAIEK</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Plur|Person[abs]=3</td><td><em>zitezen</em></td></tr>
   <tr><td>ADL ADL ERL:HELB|MDN:B5B|NOR:HURA</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Person[abs]=3</td><td><em>zedin</em></td></tr>
@@ -1204,8 +1205,8 @@ Tagset <tt>eu::conll</tt>, total 5161 tags.
   <tr><td>ADL ADL ERL:KAUS|MDN:A1|NOR:HAIEK|NORK:HARK</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Plur|Number[erg]=Sing|Person[abs]=3|Person[erg]=3</td><td><em>baititu, dituelako</em></td></tr>
   <tr style="background:lightgray"><td>ADL ADL ERL:KAUS|MDN:A1|NOR:HAIEK|NORK:HARK|NORI:HARI</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Plur|Number[dat]=Sing|Number[erg]=Sing|Person[abs]=3|Person[dat]=3|Person[erg]=3</td><td><em>baitizkio</em></td></tr>
   <tr><td>ADL ADL ERL:KAUS|MDN:A1|NOR:HAIEK|NORK:NIK</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Plur|Number[erg]=Sing|Person[abs]=3|Person[erg]=1</td><td><em>ditudalako</em></td></tr>
-  <tr style="background:lightgray"><td>ADL ADL ERL:KAUS|MDN:A1|NOR:HAIEK|NORK:ZUK</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Plur|Number[erg]=Sing|Person[abs]=3|Person[erg]=2|Polite[erg]=Pol</td><td><em>baitituzu</em></td></tr>
-  <tr><td>ADL ADL ERL:KAUS|MDN:A1|NOR:HI</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Person[abs]=2|Polite[abs]=Inf</td><td><em>haizelako</em></td></tr>
+  <tr style="background:lightgray"><td>ADL ADL ERL:KAUS|MDN:A1|NOR:HAIEK|NORK:ZUK</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Plur|Number[erg]=Sing|Person[abs]=3|Person[erg]=2|Polite[erg]=Form</td><td><em>baitituzu</em></td></tr>
+  <tr><td>ADL ADL ERL:KAUS|MDN:A1|NOR:HI</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Person[abs]=2|Polite[abs]=Infm</td><td><em>haizelako</em></td></tr>
   <tr style="background:lightgray"><td>ADL ADL ERL:KAUS|MDN:A1|NOR:HURA</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Person[abs]=3</td><td><em>baita, denez, delako</em></td></tr>
   <tr><td>ADL ADL ERL:KAUS|MDN:A1|NOR:HURA|NORI:HAIEI</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[dat]=Plur|Person[abs]=3|Person[dat]=3</td><td><em>zaienez</em></td></tr>
   <tr style="background:lightgray"><td>ADL ADL ERL:KAUS|MDN:A1|NOR:HURA|NORI:HARI</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[dat]=Sing|Person[abs]=3|Person[dat]=3</td><td><em>baitzaio, zaiolako</em></td></tr>
@@ -1221,8 +1222,8 @@ Tagset <tt>eu::conll</tt>, total 5161 tags.
   <tr style="background:lightgray"><td>ADL ADL ERL:KAUS|MDN:A1|NOR:HURA|NORK:HARK|NORI:HARI</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[dat]=Sing|Number[erg]=Sing|Person[abs]=3|Person[dat]=3|Person[erg]=3</td><td><em>baitio, dionez</em></td></tr>
   <tr><td>ADL ADL ERL:KAUS|MDN:A1|NOR:HURA|NORK:NIK</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=1</td><td><em>baitut</em></td></tr>
   <tr style="background:lightgray"><td>ADL ADL ERL:KAUS|MDN:A1|NOR:HURA|NORK:ZUEK-K</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[erg]=Plur|Person[abs]=3|Person[erg]=2</td><td><em>duzuenez</em></td></tr>
-  <tr><td>ADL ADL ERL:KAUS|MDN:A1|NOR:HURA|NORK:ZUK</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=2|Polite[erg]=Pol</td><td><em>baituzu</em></td></tr>
-  <tr style="background:lightgray"><td>ADL ADL ERL:KAUS|MDN:A1|NOR:ZU</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Person[abs]=2|Polite[abs]=Pol</td><td><em>baitzara</em></td></tr>
+  <tr><td>ADL ADL ERL:KAUS|MDN:A1|NOR:HURA|NORK:ZUK</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=2|Polite[erg]=Form</td><td><em>baituzu</em></td></tr>
+  <tr style="background:lightgray"><td>ADL ADL ERL:KAUS|MDN:A1|NOR:ZU</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Person[abs]=2|Polite[abs]=Form</td><td><em>baitzara</em></td></tr>
   <tr><td>ADL ADL ERL:KAUS|MDN:A5|NOR:HAIEK</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Plur|Person[abs]=3</td><td><em>daitezkeelako</em></td></tr>
   <tr style="background:lightgray"><td>ADL ADL ERL:KAUS|MDN:A5|NOR:HAIEK|NORK:HAIEK-K</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Plur|Number[erg]=Plur|Person[abs]=3|Person[erg]=3</td><td><em>ditzaketelako</em></td></tr>
   <tr><td>ADL ADL ERL:KAUS|MDN:A5|NOR:HAIEK|NORK:NIK</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Plur|Number[erg]=Sing|Person[abs]=3|Person[erg]=1</td><td><em>baititzaket</em></td></tr>
@@ -1230,7 +1231,7 @@ Tagset <tt>eu::conll</tt>, total 5161 tags.
   <tr><td>ADL ADL ERL:KAUS|MDN:A5|NOR:HURA|NORK:GUK</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[erg]=Plur|Person[abs]=3|Person[erg]=1</td><td><em>baitezakegu</em></td></tr>
   <tr style="background:lightgray"><td>ADL ADL ERL:KAUS|MDN:A5|NOR:HURA|NORK:HARK</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=3</td><td><em>dezakelako</em></td></tr>
   <tr><td>ADL ADL ERL:KAUS|MDN:A5|NOR:HURA|NORK:ZUEK-K</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[erg]=Plur|Person[abs]=3|Person[erg]=2</td><td><em>dezakezuenez</em></td></tr>
-  <tr style="background:lightgray"><td>ADL ADL ERL:KAUS|MDN:A5|NOR:HURA|NORK:ZUK</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=2|Polite[erg]=Pol</td><td><em>dezakezunez</em></td></tr>
+  <tr style="background:lightgray"><td>ADL ADL ERL:KAUS|MDN:A5|NOR:HURA|NORK:ZUK</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=2|Polite[erg]=Form</td><td><em>dezakezunez</em></td></tr>
   <tr><td>ADL ADL ERL:KAUS|MDN:B1|NOR:HAIEK</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Plur|Person[abs]=3</td><td><em>baitziren, zirelako</em></td></tr>
   <tr style="background:lightgray"><td>ADL ADL ERL:KAUS|MDN:B1|NOR:HAIEK|NORI:HARI</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Plur|Number[dat]=Sing|Person[abs]=3|Person[dat]=3</td><td><em>zitzaizkiolako</em></td></tr>
   <tr><td>ADL ADL ERL:KAUS|MDN:B1|NOR:HAIEK|NORK:GUK</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Plur|Number[erg]=Plur|Person[abs]=3|Person[erg]=1</td><td><em>genituelako</em></td></tr>
@@ -1269,8 +1270,8 @@ Tagset <tt>eu::conll</tt>, total 5161 tags.
   <tr style="background:lightgray"><td>ADL ADL ERL:KONPL|MDN:A1|NOR:HAIEK|NORK:HARK|NORI:HARI</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Plur|Number[dat]=Sing|Number[erg]=Sing|Person[abs]=3|Person[dat]=3|Person[erg]=3</td><td><em>dizkiola</em></td></tr>
   <tr><td>ADL ADL ERL:KONPL|MDN:A1|NOR:HAIEK|NORK:NIK</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Plur|Number[erg]=Sing|Person[abs]=3|Person[erg]=1</td><td><em>ditudala</em></td></tr>
   <tr style="background:lightgray"><td>ADL ADL ERL:KONPL|MDN:A1|NOR:HAIEK|NORK:ZUEK-K</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Plur|Number[erg]=Plur|Person[abs]=3|Person[erg]=2</td><td><em>dituzuela</em></td></tr>
-  <tr><td>ADL ADL ERL:KONPL|MDN:A1|NOR:HAIEK|NORK:ZUK</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Plur|Number[erg]=Sing|Person[abs]=3|Person[erg]=2|Polite[erg]=Pol</td><td><em>dituzunik</em></td></tr>
-  <tr style="background:lightgray"><td>ADL ADL ERL:KONPL|MDN:A1|NOR:HI|NORK:NIK</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[erg]=Sing|Person[abs]=2|Person[erg]=1|Polite[abs]=Inf</td><td><em>haudala</em></td></tr>
+  <tr><td>ADL ADL ERL:KONPL|MDN:A1|NOR:HAIEK|NORK:ZUK</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Plur|Number[erg]=Sing|Person[abs]=3|Person[erg]=2|Polite[erg]=Form</td><td><em>dituzunik</em></td></tr>
+  <tr style="background:lightgray"><td>ADL ADL ERL:KONPL|MDN:A1|NOR:HI|NORK:NIK</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[erg]=Sing|Person[abs]=2|Person[erg]=1|Polite[abs]=Infm</td><td><em>haudala</em></td></tr>
   <tr><td>ADL ADL ERL:KONPL|MDN:A1|NOR:HURA</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Person[abs]=3</td><td><em>dela, denik, dena</em></td></tr>
   <tr style="background:lightgray"><td>ADL ADL ERL:KONPL|MDN:A1|NOR:HURA|NORI:GURI</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[dat]=Plur|Person[abs]=3|Person[dat]=1</td><td><em>zaiguna</em></td></tr>
   <tr><td>ADL ADL ERL:KONPL|MDN:A1|NOR:HURA|NORI:HAIEI</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[dat]=Plur|Person[abs]=3|Person[dat]=3</td><td><em>zaiela</em></td></tr>
@@ -1284,13 +1285,13 @@ Tagset <tt>eu::conll</tt>, total 5161 tags.
   <tr><td>ADL ADL ERL:KONPL|MDN:A1|NOR:HURA|NORK:HARK|NORI:HAIEI</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[dat]=Plur|Number[erg]=Sing|Person[abs]=3|Person[dat]=3|Person[erg]=3</td><td><em>diela</em></td></tr>
   <tr style="background:lightgray"><td>ADL ADL ERL:KONPL|MDN:A1|NOR:HURA|NORK:HARK|NORI:HARI</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[dat]=Sing|Number[erg]=Sing|Person[abs]=3|Person[dat]=3|Person[erg]=3</td><td><em>diola, dionik</em></td></tr>
   <tr><td>ADL ADL ERL:KONPL|MDN:A1|NOR:HURA|NORK:HARK|NORI:NIRI</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[dat]=Sing|Number[erg]=Sing|Person[abs]=3|Person[dat]=1|Person[erg]=3</td><td><em>didala</em></td></tr>
-  <tr style="background:lightgray"><td>ADL ADL ERL:KONPL|MDN:A1|NOR:HURA|NORK:HIK-NO</td><td>=&gt;</td><td>AUX</td><td>Gender[erg]=Fem|Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=2|Polite[erg]=Inf</td><td><em>dunala</em></td></tr>
+  <tr style="background:lightgray"><td>ADL ADL ERL:KONPL|MDN:A1|NOR:HURA|NORK:HIK-NO</td><td>=&gt;</td><td>AUX</td><td>Gender[erg]=Fem|Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=2|Polite[erg]=Infm</td><td><em>dunala</em></td></tr>
   <tr><td>ADL ADL ERL:KONPL|MDN:A1|NOR:HURA|NORK:NIK</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=1</td><td><em>dudala, dudanik</em></td></tr>
   <tr style="background:lightgray"><td>ADL ADL ERL:KONPL|MDN:A1|NOR:HURA|NORK:ZUEK-K</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[erg]=Plur|Person[abs]=3|Person[erg]=2</td><td><em>duzuela</em></td></tr>
-  <tr><td>ADL ADL ERL:KONPL|MDN:A1|NOR:HURA|NORK:ZUK</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=2|Polite[erg]=Pol</td><td><em>duzula</em></td></tr>
+  <tr><td>ADL ADL ERL:KONPL|MDN:A1|NOR:HURA|NORK:ZUK</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=2|Polite[erg]=Form</td><td><em>duzula</em></td></tr>
   <tr style="background:lightgray"><td>ADL ADL ERL:KONPL|MDN:A1|NOR:NI</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Person[abs]=1</td><td><em>naizela, naizenik</em></td></tr>
   <tr><td>ADL ADL ERL:KONPL|MDN:A1|NOR:NI|NORK:HAIEK-K</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[erg]=Plur|Person[abs]=1|Person[erg]=3</td><td><em>nautela</em></td></tr>
-  <tr style="background:lightgray"><td>ADL ADL ERL:KONPL|MDN:A1|NOR:ZU</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Person[abs]=2|Polite[abs]=Pol</td><td><em>zarela</em></td></tr>
+  <tr style="background:lightgray"><td>ADL ADL ERL:KONPL|MDN:A1|NOR:ZU</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Person[abs]=2|Polite[abs]=Form</td><td><em>zarela</em></td></tr>
   <tr><td>ADL ADL ERL:KONPL|MDN:A3|NOR:GU</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Plur|Person[abs]=1</td><td><em>gaitezen</em></td></tr>
   <tr style="background:lightgray"><td>ADL ADL ERL:KONPL|MDN:A3|NOR:HAIEK</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Plur|Person[abs]=3</td><td><em>daitezela, daitezen</em></td></tr>
   <tr><td>ADL ADL ERL:KONPL|MDN:A3|NOR:HAIEK|NORK:GUK</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Plur|Number[erg]=Plur|Person[abs]=3|Person[erg]=1</td><td><em>ditzagun</em></td></tr>
@@ -1302,7 +1303,7 @@ Tagset <tt>eu::conll</tt>, total 5161 tags.
   <tr><td>ADL ADL ERL:KONPL|MDN:A3|NOR:HURA|NORK:HARK|NORI:HARI</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[dat]=Sing|Number[erg]=Sing|Person[abs]=3|Person[dat]=3|Person[erg]=3</td><td><em>diezaiola</em></td></tr>
   <tr style="background:lightgray"><td>ADL ADL ERL:KONPL|MDN:A3|NOR:HURA|NORK:NIK</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=1</td><td><em>dezadan</em></td></tr>
   <tr><td>ADL ADL ERL:KONPL|MDN:A3|NOR:NI|NORK:HAIEK-K</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[erg]=Plur|Person[abs]=1|Person[erg]=3</td><td><em>nazaten</em></td></tr>
-  <tr style="background:lightgray"><td>ADL ADL ERL:KONPL|MDN:A3|NOR:NI|NORK:ZUK</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[erg]=Sing|Person[abs]=1|Person[erg]=2|Polite[erg]=Pol</td><td><em>nazazun</em></td></tr>
+  <tr style="background:lightgray"><td>ADL ADL ERL:KONPL|MDN:A3|NOR:NI|NORK:ZUK</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[erg]=Sing|Person[abs]=1|Person[erg]=2|Polite[erg]=Form</td><td><em>nazazun</em></td></tr>
   <tr><td>ADL ADL ERL:KONPL|MDN:A5|NOR:GU</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Plur|Person[abs]=1</td><td><em>gaitezkeela</em></td></tr>
   <tr style="background:lightgray"><td>ADL ADL ERL:KONPL|MDN:A5|NOR:HAIEK</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Plur|Person[abs]=3</td><td><em>daitezkela, daitezkeela</em></td></tr>
   <tr><td>ADL ADL ERL:KONPL|MDN:A5|NOR:HAIEK|NORK:GUK</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Plur|Number[erg]=Plur|Person[abs]=3|Person[erg]=1</td><td><em>ditzakegula</em></td></tr>
@@ -1333,7 +1334,7 @@ Tagset <tt>eu::conll</tt>, total 5161 tags.
   <tr style="background:lightgray"><td>ADL ADL ERL:KONPL|MDN:B1|NOR:HURA|NORK:HARK|NORI:HARI</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[dat]=Sing|Number[erg]=Sing|Person[abs]=3|Person[dat]=3|Person[erg]=3</td><td><em>ziola</em></td></tr>
   <tr><td>ADL ADL ERL:KONPL|MDN:B1|NOR:HURA|NORK:NIK</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=1</td><td><em>nuela, nuena</em></td></tr>
   <tr style="background:lightgray"><td>ADL ADL ERL:KONPL|MDN:B1|NOR:HURA|NORK:ZUEK-K</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[erg]=Plur|Person[abs]=3|Person[erg]=2</td><td><em>zenutela</em></td></tr>
-  <tr><td>ADL ADL ERL:KONPL|MDN:B1|NOR:HURA|NORK:ZUK</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=2|Polite[erg]=Pol</td><td><em>zenuela</em></td></tr>
+  <tr><td>ADL ADL ERL:KONPL|MDN:B1|NOR:HURA|NORK:ZUK</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=2|Polite[erg]=Form</td><td><em>zenuela</em></td></tr>
   <tr style="background:lightgray"><td>ADL ADL ERL:KONPL|MDN:B1|NOR:NI</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Person[abs]=1</td><td><em>nintzela</em></td></tr>
   <tr><td>ADL ADL ERL:KONPL|MDN:B1|NOR:ZUEK|NORK:HARK</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Plur|Number[erg]=Sing|Person[abs]=2|Person[erg]=3</td><td><em>zintuztela</em></td></tr>
   <tr style="background:lightgray"><td>ADL ADL ERL:KONPL|MDN:B2|NOR:HAIEK</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Plur|Person[abs]=3</td><td><em>liratekeela</em></td></tr>
@@ -1350,7 +1351,7 @@ Tagset <tt>eu::conll</tt>, total 5161 tags.
   <tr><td>ADL ADL ERL:KONPL|MDN:B5B|NOR:HURA|NORK:HAIEK-K</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[erg]=Plur|Person[abs]=3|Person[erg]=3</td><td><em>zezaten</em></td></tr>
   <tr style="background:lightgray"><td>ADL ADL ERL:KONPL|MDN:B5B|NOR:HURA|NORK:HARK</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=3</td><td><em>zezala</em></td></tr>
   <tr><td>ADL ADL ERL:KONPL|MDN:B7|NOR:HURA</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Person[abs]=3</td><td><em>litekeela</em></td></tr>
-  <tr style="background:lightgray"><td>ADL ADL ERL:KONPL|MDN:B7|NOR:HURA|NORK:HIK</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=2|Polite[erg]=Inf</td><td><em>hezakeela</em></td></tr>
+  <tr style="background:lightgray"><td>ADL ADL ERL:KONPL|MDN:B7|NOR:HURA|NORK:HIK</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=2|Polite[erg]=Infm</td><td><em>hezakeela</em></td></tr>
   <tr><td>ADL ADL ERL:KONPL|MDN:B8|NOR:GU</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Plur|Person[abs]=1</td><td><em>gintezkeela</em></td></tr>
   <tr style="background:lightgray"><td>ADL ADL ERL:KONPL|MDN:B8|NOR:HAIEK</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Plur|Person[abs]=3</td><td><em>zitezkeela</em></td></tr>
   <tr><td>ADL ADL ERL:KONPL|MDN:B8|NOR:HURA</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Person[abs]=3</td><td><em>zitekeela, zitekeenik</em></td></tr>
@@ -1405,7 +1406,7 @@ Tagset <tt>eu::conll</tt>, total 5161 tags.
   <tr style="background:lightgray"><td>ADL ADL ERL:MOS|MDN:B1|NOR:HURA|NORK:HARK</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=3</td><td><em>zuen</em></td></tr>
   <tr><td>ADL ADL ERL:MOS|MDN:B1|NOR:HURA|NORK:HARK|NORI:HARI</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[dat]=Sing|Number[erg]=Sing|Person[abs]=3|Person[dat]=3|Person[erg]=3</td><td><em>zion</em></td></tr>
   <tr style="background:lightgray"><td>ADL ADL ERL:MOS|MDN:B1|NOR:HURA|NORK:NIK</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=1</td><td><em>nuen</em></td></tr>
-  <tr><td>ADL ADL ERL:MOS|MDN:B1|NOR:ZU</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Person[abs]=2|Polite[abs]=Pol</td><td><em>zinen</em></td></tr>
+  <tr><td>ADL ADL ERL:MOS|MDN:B1|NOR:ZU</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Person[abs]=2|Polite[abs]=Form</td><td><em>zinen</em></td></tr>
   <tr style="background:lightgray"><td>ADL ADL ERL:MOS|MDN:B2|NOR:HAIEK</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Plur|Person[abs]=3</td><td><em>liratekeen</em></td></tr>
   <tr><td>ADL ADL ERL:MOS|MDN:B2|NOR:HURA|NORK:HARK</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=3</td><td><em>lukeen</em></td></tr>
   <tr style="background:lightgray"><td>ADL ADL ERL:MOS|MDN:B4|NOR:HURA|NORK:HARK|NORI:HARI</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[dat]=Sing|Number[erg]=Sing|Person[abs]=3|Person[dat]=3|Person[erg]=3</td><td><em>bailion</em></td></tr>
@@ -1423,14 +1424,14 @@ Tagset <tt>eu::conll</tt>, total 5161 tags.
   <tr style="background:lightgray"><td>ADL ADL ERL:ZHG|MDN:A1|NOR:HURA|NORK:HAIEK-K|NORI:HARI</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[dat]=Sing|Number[erg]=Plur|Person[abs]=3|Person[dat]=3|Person[erg]=3</td><td><em>dioten</em></td></tr>
   <tr><td>ADL ADL ERL:ZHG|MDN:A1|NOR:HURA|NORK:HARK</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=3</td><td><em>duen, duenetz, duenentz</em></td></tr>
   <tr style="background:lightgray"><td>ADL ADL ERL:ZHG|MDN:A1|NOR:HURA|NORK:HARK|NORI:HARI</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[dat]=Sing|Number[erg]=Sing|Person[abs]=3|Person[dat]=3|Person[erg]=3</td><td><em>dion</em></td></tr>
-  <tr><td>ADL ADL ERL:ZHG|MDN:A1|NOR:HURA|NORK:HIK-TO</td><td>=&gt;</td><td>AUX</td><td>Gender[erg]=Masc|Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=2|Polite[erg]=Inf</td><td><em>duan</em></td></tr>
+  <tr><td>ADL ADL ERL:ZHG|MDN:A1|NOR:HURA|NORK:HIK-TO</td><td>=&gt;</td><td>AUX</td><td>Gender[erg]=Masc|Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=2|Polite[erg]=Infm</td><td><em>duan</em></td></tr>
   <tr style="background:lightgray"><td>ADL ADL ERL:ZHG|MDN:A1|NOR:HURA|NORK:NIK</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=1</td><td><em>dudan</em></td></tr>
   <tr><td>ADL ADL ERL:ZHG|MDN:A1|NOR:HURA|NORK:ZUEK-K</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[erg]=Plur|Person[abs]=3|Person[erg]=2</td><td><em>duzuen</em></td></tr>
-  <tr style="background:lightgray"><td>ADL ADL ERL:ZHG|MDN:A1|NOR:HURA|NORK:ZUK</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=2|Polite[erg]=Pol</td><td><em>duzun</em></td></tr>
+  <tr style="background:lightgray"><td>ADL ADL ERL:ZHG|MDN:A1|NOR:HURA|NORK:ZUK</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=2|Polite[erg]=Form</td><td><em>duzun</em></td></tr>
   <tr><td>ADL ADL ERL:ZHG|MDN:A1|NOR:NI</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Person[abs]=1</td><td><em>naizen</em></td></tr>
   <tr style="background:lightgray"><td>ADL ADL ERL:ZHG|MDN:A1|NOR:NI|NORK:HARK</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[erg]=Sing|Person[abs]=1|Person[erg]=3</td><td><em>nauen</em></td></tr>
-  <tr><td>ADL ADL ERL:ZHG|MDN:A1|NOR:NI|NORK:ZUK</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[erg]=Sing|Person[abs]=1|Person[erg]=2|Polite[erg]=Pol</td><td><em>nauzun</em></td></tr>
-  <tr style="background:lightgray"><td>ADL ADL ERL:ZHG|MDN:A1|NOR:ZU</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Person[abs]=2|Polite[abs]=Pol</td><td><em>zaren</em></td></tr>
+  <tr><td>ADL ADL ERL:ZHG|MDN:A1|NOR:NI|NORK:ZUK</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[erg]=Sing|Person[abs]=1|Person[erg]=2|Polite[erg]=Form</td><td><em>nauzun</em></td></tr>
+  <tr style="background:lightgray"><td>ADL ADL ERL:ZHG|MDN:A1|NOR:ZU</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Person[abs]=2|Polite[abs]=Form</td><td><em>zaren</em></td></tr>
   <tr><td>ADL ADL ERL:ZHG|MDN:A5|NOR:HAIEK</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Plur|Person[abs]=3</td><td><em>daitezkeen</em></td></tr>
   <tr style="background:lightgray"><td>ADL ADL ERL:ZHG|MDN:A5|NOR:HURA</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Person[abs]=3</td><td><em>daitekeen</em></td></tr>
   <tr><td>ADL ADL ERL:ZHG|MDN:A5|NOR:HURA|NORK:HARK</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=3</td><td><em>dezakeen</em></td></tr>
@@ -1445,7 +1446,7 @@ Tagset <tt>eu::conll</tt>, total 5161 tags.
   <tr style="background:lightgray"><td>ADL ADL ERL:ZHG|MDN:B1|NOR:HURA|NORK:HARK|NORI:HARI</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[dat]=Sing|Number[erg]=Sing|Person[abs]=3|Person[dat]=3|Person[erg]=3</td><td><em>zion</em></td></tr>
   <tr><td>ADL ADL ERL:ZHG|MDN:B1|NOR:HURA|NORK:NIK</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=1</td><td><em>nuen</em></td></tr>
   <tr style="background:lightgray"><td>ADL ADL ERL:ZHG|MDN:B1|NOR:NI</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Person[abs]=1</td><td><em>nintzen</em></td></tr>
-  <tr><td>ADL ADL ERL:ZHG|MDN:B1|NOR:ZU|NORK:NIK</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[erg]=Sing|Person[abs]=2|Person[erg]=1|Polite[abs]=Pol</td><td><em>zintudan</em></td></tr>
+  <tr><td>ADL ADL ERL:ZHG|MDN:B1|NOR:ZU|NORK:NIK</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[erg]=Sing|Person[abs]=2|Person[erg]=1|Polite[abs]=Form</td><td><em>zintudan</em></td></tr>
   <tr style="background:lightgray"><td>ADL ADL KAS:ABL|NUM:P|NOR:HURA|NORK:HAIEK-K</td><td>=&gt;</td><td>AUX</td><td>Case=Abl|Number=Plur|Number[abs]=Sing|Number[erg]=Plur|Person[abs]=3|Person[erg]=3</td><td><em></em></td></tr>
   <tr><td>ADL ADL KAS:ABS|NOR:HURA|NORK:HAIEK-K</td><td>=&gt;</td><td>AUX</td><td>Case=Abs|Number[abs]=Sing|Number[erg]=Plur|Person[abs]=3|Person[erg]=3</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>ADL ADL KAS:ABS|NUM:P|MUG:M|MDN:A1|NOR:HAIEK</td><td>=&gt;</td><td>AUX</td><td>Case=Abs|Number=Plur|Number[abs]=Plur|Person[abs]=3</td><td><em>direnak</em></td></tr>
@@ -1540,7 +1541,7 @@ Tagset <tt>eu::conll</tt>, total 5161 tags.
   <tr><td>ADL ADL KAS:SOZ|NUM:S|NOR:HURA</td><td>=&gt;</td><td>AUX</td><td>Case=Com|Number=Sing|Number[abs]=Sing|Person[abs]=3</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>ADL ADL KAS:SOZ|NUM:S|NOR:HURA|NORK:HARK</td><td>=&gt;</td><td>AUX</td><td>Case=Com|Number=Sing|Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=3</td><td><em></em></td></tr>
   <tr><td>ADL ADL KAS:SOZ|NUM:S|NOR:HURA|NORK:NIK</td><td>=&gt;</td><td>AUX</td><td>Case=Com|Number=Sing|Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=1</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>ADL ADL KAS:SOZ|NUM:S|NOR:HURA|NORK:ZUK</td><td>=&gt;</td><td>AUX</td><td>Case=Com|Number=Sing|Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=2|Polite[erg]=Pol</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>ADL ADL KAS:SOZ|NUM:S|NOR:HURA|NORK:ZUK</td><td>=&gt;</td><td>AUX</td><td>Case=Com|Number=Sing|Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=2|Polite[erg]=Form</td><td><em></em></td></tr>
   <tr><td>ADL ADL KAS:SOZ|NUM:S|NOR:NI|NORK:HARK</td><td>=&gt;</td><td>AUX</td><td>Case=Com|Number=Sing|Number[abs]=Sing|Number[erg]=Sing|Person[abs]=1|Person[erg]=3</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>ADL ADL MDN:A1|NOR:GU</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Plur|Person[abs]=1</td><td><em>gara</em></td></tr>
   <tr><td>ADL ADL MDN:A1|NOR:GU|NORK:HAIEK-K</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Plur|Number[erg]=Plur|Person[abs]=1|Person[erg]=3</td><td><em>gaituzte</em></td></tr>
@@ -1552,9 +1553,9 @@ Tagset <tt>eu::conll</tt>, total 5161 tags.
   <tr><td>ADL ADL MDN:A1|NOR:HAIEK|NORI:HARI</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Plur|Number[dat]=Sing|Person[abs]=3|Person[dat]=3</td><td><em>zaizkio</em></td></tr>
   <tr style="background:lightgray"><td>ADL ADL MDN:A1|NOR:HAIEK|NORI:NIRI</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Plur|Number[dat]=Sing|Person[abs]=3|Person[dat]=1</td><td><em>zaizkit</em></td></tr>
   <tr><td>ADL ADL MDN:A1|NOR:HAIEK|NORI:ZUEI</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Plur|Number[dat]=Plur|Person[abs]=3|Person[dat]=2</td><td><em>zaizkizue</em></td></tr>
-  <tr style="background:lightgray"><td>ADL ADL MDN:A1|NOR:HAIEK|NORI:ZURI</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Plur|Number[dat]=Sing|Person[abs]=3|Person[dat]=2|Polite[dat]=Pol</td><td><em>zaizkizu</em></td></tr>
+  <tr style="background:lightgray"><td>ADL ADL MDN:A1|NOR:HAIEK|NORI:ZURI</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Plur|Number[dat]=Sing|Person[abs]=3|Person[dat]=2|Polite[dat]=Form</td><td><em>zaizkizu</em></td></tr>
   <tr><td>ADL ADL MDN:A1|NOR:HAIEK|NORK:GUK</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Plur|Number[erg]=Plur|Person[abs]=3|Person[erg]=1</td><td><em>ditugu</em></td></tr>
-  <tr style="background:lightgray"><td>ADL ADL MDN:A1|NOR:HAIEK|NORK:GUK|NORI:ZURI</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Plur|Number[dat]=Sing|Number[erg]=Plur|Person[abs]=3|Person[dat]=2|Person[erg]=1|Polite[dat]=Pol</td><td><em>dizkizugu</em></td></tr>
+  <tr style="background:lightgray"><td>ADL ADL MDN:A1|NOR:HAIEK|NORK:GUK|NORI:ZURI</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Plur|Number[dat]=Sing|Number[erg]=Plur|Person[abs]=3|Person[dat]=2|Person[erg]=1|Polite[dat]=Form</td><td><em>dizkizugu</em></td></tr>
   <tr><td>ADL ADL MDN:A1|NOR:HAIEK|NORK:HAIEK-K</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Plur|Number[erg]=Plur|Person[abs]=3|Person[erg]=3</td><td><em>dituzte</em></td></tr>
   <tr style="background:lightgray"><td>ADL ADL MDN:A1|NOR:HAIEK|NORK:HAIEK-K|NORI:GURI</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Plur|Number[dat]=Plur|Number[erg]=Plur|Person[abs]=3|Person[dat]=1|Person[erg]=3</td><td><em>dizkigute</em></td></tr>
   <tr><td>ADL ADL MDN:A1|NOR:HAIEK|NORK:HAIEK-K|NORI:HAIEI</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Plur|Number[dat]=Plur|Number[erg]=Plur|Person[abs]=3|Person[dat]=3|Person[erg]=3</td><td><em>dizkiete</em></td></tr>
@@ -1565,31 +1566,31 @@ Tagset <tt>eu::conll</tt>, total 5161 tags.
   <tr style="background:lightgray"><td>ADL ADL MDN:A1|NOR:HAIEK|NORK:HARK|NORI:HAIEI</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Plur|Number[dat]=Plur|Number[erg]=Sing|Person[abs]=3|Person[dat]=3|Person[erg]=3</td><td><em>dizkie</em></td></tr>
   <tr><td>ADL ADL MDN:A1|NOR:HAIEK|NORK:HARK|NORI:HARI</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Plur|Number[dat]=Sing|Number[erg]=Sing|Person[abs]=3|Person[dat]=3|Person[erg]=3</td><td><em>dizkio</em></td></tr>
   <tr style="background:lightgray"><td>ADL ADL MDN:A1|NOR:HAIEK|NORK:HARK|NORI:NIRI</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Plur|Number[dat]=Sing|Number[erg]=Sing|Person[abs]=3|Person[dat]=1|Person[erg]=3</td><td><em>dizkit</em></td></tr>
-  <tr><td>ADL ADL MDN:A1|NOR:HAIEK|NORK:HARK|NORI:ZURI</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Plur|Number[dat]=Sing|Number[erg]=Sing|Person[abs]=3|Person[dat]=2|Person[erg]=3|Polite[dat]=Pol</td><td><em>dizkizu</em></td></tr>
+  <tr><td>ADL ADL MDN:A1|NOR:HAIEK|NORK:HARK|NORI:ZURI</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Plur|Number[dat]=Sing|Number[erg]=Sing|Person[abs]=3|Person[dat]=2|Person[erg]=3|Polite[dat]=Form</td><td><em>dizkizu</em></td></tr>
   <tr style="background:lightgray"><td>ADL ADL MDN:A1|NOR:HAIEK|NORK:NIK</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Plur|Number[erg]=Sing|Person[abs]=3|Person[erg]=1</td><td><em>ditut</em></td></tr>
   <tr><td>ADL ADL MDN:A1|NOR:HAIEK|NORK:NIK|NORI:HAIEI</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Plur|Number[dat]=Plur|Number[erg]=Sing|Person[abs]=3|Person[dat]=3|Person[erg]=1</td><td><em>dizkiet</em></td></tr>
   <tr style="background:lightgray"><td>ADL ADL MDN:A1|NOR:HAIEK|NORK:NIK|NORI:HARI</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Plur|Number[dat]=Sing|Number[erg]=Sing|Person[abs]=3|Person[dat]=3|Person[erg]=1</td><td><em>dizkiot</em></td></tr>
   <tr><td>ADL ADL MDN:A1|NOR:HAIEK|NORK:NIK|NORI:ZUEI</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Plur|Number[dat]=Plur|Number[erg]=Sing|Person[abs]=3|Person[dat]=2|Person[erg]=1</td><td><em>dizkizuet</em></td></tr>
   <tr style="background:lightgray"><td>ADL ADL MDN:A1|NOR:HAIEK|NORK:ZUEK-K</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Plur|Number[erg]=Plur|Person[abs]=3|Person[erg]=2</td><td><em>dituzue</em></td></tr>
-  <tr><td>ADL ADL MDN:A1|NOR:HAIEK|NORK:ZUK</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Plur|Number[erg]=Sing|Person[abs]=3|Person[erg]=2|Polite[erg]=Pol</td><td><em>dituzu</em></td></tr>
-  <tr style="background:lightgray"><td>ADL ADL MDN:A1|NOR:HAIEK|NORK:ZUK|NORI:NIRI</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Plur|Number[dat]=Sing|Number[erg]=Sing|Person[abs]=3|Person[dat]=1|Person[erg]=2|Polite[erg]=Pol</td><td><em>dizkidazu</em></td></tr>
-  <tr><td>ADL ADL MDN:A1|NOR:HI</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Person[abs]=2|Polite[abs]=Inf</td><td><em>haiz</em></td></tr>
+  <tr><td>ADL ADL MDN:A1|NOR:HAIEK|NORK:ZUK</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Plur|Number[erg]=Sing|Person[abs]=3|Person[erg]=2|Polite[erg]=Form</td><td><em>dituzu</em></td></tr>
+  <tr style="background:lightgray"><td>ADL ADL MDN:A1|NOR:HAIEK|NORK:ZUK|NORI:NIRI</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Plur|Number[dat]=Sing|Number[erg]=Sing|Person[abs]=3|Person[dat]=1|Person[erg]=2|Polite[erg]=Form</td><td><em>dizkidazu</em></td></tr>
+  <tr><td>ADL ADL MDN:A1|NOR:HI</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Person[abs]=2|Polite[abs]=Infm</td><td><em>haiz</em></td></tr>
   <tr style="background:lightgray"><td>ADL ADL MDN:A1|NOR:HURA</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Person[abs]=3</td><td><em>da</em></td></tr>
   <tr><td>ADL ADL MDN:A1|NOR:HURA|HIT:NO</td><td>=&gt;</td><td>AUX</td><td>Gender=Fem|Number[abs]=Sing|Person[abs]=3</td><td><em>dun</em></td></tr>
   <tr style="background:lightgray"><td>ADL ADL MDN:A1|NOR:HURA|HIT:TO</td><td>=&gt;</td><td>AUX</td><td>Gender=Masc|Number[abs]=Sing|Person[abs]=3</td><td><em>duk</em></td></tr>
   <tr><td>ADL ADL MDN:A1|NOR:HURA|NORI:GURI</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[dat]=Plur|Person[abs]=3|Person[dat]=1</td><td><em>zaigu</em></td></tr>
   <tr style="background:lightgray"><td>ADL ADL MDN:A1|NOR:HURA|NORI:HAIEI</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[dat]=Plur|Person[abs]=3|Person[dat]=3</td><td><em>zaie</em></td></tr>
   <tr><td>ADL ADL MDN:A1|NOR:HURA|NORI:HARI</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[dat]=Sing|Person[abs]=3|Person[dat]=3</td><td><em>zaio</em></td></tr>
-  <tr style="background:lightgray"><td>ADL ADL MDN:A1|NOR:HURA|NORI:HIRI-TO</td><td>=&gt;</td><td>AUX</td><td>Gender[dat]=Masc|Number[abs]=Sing|Number[dat]=Sing|Person[abs]=3|Person[dat]=2|Polite[dat]=Inf</td><td><em>zaik</em></td></tr>
+  <tr style="background:lightgray"><td>ADL ADL MDN:A1|NOR:HURA|NORI:HIRI-TO</td><td>=&gt;</td><td>AUX</td><td>Gender[dat]=Masc|Number[abs]=Sing|Number[dat]=Sing|Person[abs]=3|Person[dat]=2|Polite[dat]=Infm</td><td><em>zaik</em></td></tr>
   <tr><td>ADL ADL MDN:A1|NOR:HURA|NORI:NIRI</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[dat]=Sing|Person[abs]=3|Person[dat]=1</td><td><em>zait</em></td></tr>
   <tr style="background:lightgray"><td>ADL ADL MDN:A1|NOR:HURA|NORI:NIRI|HIT:NO</td><td>=&gt;</td><td>AUX</td><td>Gender=Fem|Number[abs]=Sing|Number[dat]=Sing|Person[abs]=3|Person[dat]=1</td><td><em>zaidan</em></td></tr>
   <tr><td>ADL ADL MDN:A1|NOR:HURA|NORI:ZUEI</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[dat]=Plur|Person[abs]=3|Person[dat]=2</td><td><em>zaizue</em></td></tr>
-  <tr style="background:lightgray"><td>ADL ADL MDN:A1|NOR:HURA|NORI:ZURI</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[dat]=Sing|Person[abs]=3|Person[dat]=2|Polite[dat]=Pol</td><td><em>zaizu</em></td></tr>
+  <tr style="background:lightgray"><td>ADL ADL MDN:A1|NOR:HURA|NORI:ZURI</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[dat]=Sing|Person[abs]=3|Person[dat]=2|Polite[dat]=Form</td><td><em>zaizu</em></td></tr>
   <tr><td>ADL ADL MDN:A1|NOR:HURA|NORK:GUK</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[erg]=Plur|Person[abs]=3|Person[erg]=1</td><td><em>dugu</em></td></tr>
   <tr style="background:lightgray"><td>ADL ADL MDN:A1|NOR:HURA|NORK:GUK|HIT:TO</td><td>=&gt;</td><td>AUX</td><td>Gender=Masc|Number[abs]=Sing|Number[erg]=Plur|Person[abs]=3|Person[erg]=1</td><td><em>diagu</em></td></tr>
   <tr><td>ADL ADL MDN:A1|NOR:HURA|NORK:GUK|NORI:HAIEI</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[dat]=Plur|Number[erg]=Plur|Person[abs]=3|Person[dat]=3|Person[erg]=1</td><td><em>diegu</em></td></tr>
   <tr style="background:lightgray"><td>ADL ADL MDN:A1|NOR:HURA|NORK:GUK|NORI:HARI</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[dat]=Sing|Number[erg]=Plur|Person[abs]=3|Person[dat]=3|Person[erg]=1</td><td><em>diogu</em></td></tr>
-  <tr><td>ADL ADL MDN:A1|NOR:HURA|NORK:GUK|NORI:ZURI</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[dat]=Sing|Number[erg]=Plur|Person[abs]=3|Person[dat]=2|Person[erg]=1|Polite[dat]=Pol</td><td><em>dizugu</em></td></tr>
+  <tr><td>ADL ADL MDN:A1|NOR:HURA|NORK:GUK|NORI:ZURI</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[dat]=Sing|Number[erg]=Plur|Person[abs]=3|Person[dat]=2|Person[erg]=1|Polite[dat]=Form</td><td><em>dizugu</em></td></tr>
   <tr style="background:lightgray"><td>ADL ADL MDN:A1|NOR:HURA|NORK:HAIEK-K</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[erg]=Plur|Person[abs]=3|Person[erg]=3</td><td><em>dute</em></td></tr>
   <tr><td>ADL ADL MDN:A1|NOR:HURA|NORK:HAIEK-K|HIT:TO</td><td>=&gt;</td><td>AUX</td><td>Gender=Masc|Number[abs]=Sing|Number[erg]=Plur|Person[abs]=3|Person[erg]=3</td><td><em>ditek</em></td></tr>
   <tr style="background:lightgray"><td>ADL ADL MDN:A1|NOR:HURA|NORK:HAIEK-K|NORI:GURI</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[dat]=Plur|Number[erg]=Plur|Person[abs]=3|Person[dat]=1|Person[erg]=3</td><td><em>digute</em></td></tr>
@@ -1597,7 +1598,7 @@ Tagset <tt>eu::conll</tt>, total 5161 tags.
   <tr style="background:lightgray"><td>ADL ADL MDN:A1|NOR:HURA|NORK:HAIEK-K|NORI:HARI</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[dat]=Sing|Number[erg]=Plur|Person[abs]=3|Person[dat]=3|Person[erg]=3</td><td><em>diote</em></td></tr>
   <tr><td>ADL ADL MDN:A1|NOR:HURA|NORK:HAIEK-K|NORI:NIRI</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[dat]=Sing|Number[erg]=Plur|Person[abs]=3|Person[dat]=1|Person[erg]=3</td><td><em>didate</em></td></tr>
   <tr style="background:lightgray"><td>ADL ADL MDN:A1|NOR:HURA|NORK:HAIEK-K|NORI:NIRI|HIT:NO</td><td>=&gt;</td><td>AUX</td><td>Gender=Fem|Number[abs]=Sing|Number[dat]=Sing|Number[erg]=Plur|Person[abs]=3|Person[dat]=1|Person[erg]=3</td><td><em>zidaten</em></td></tr>
-  <tr><td>ADL ADL MDN:A1|NOR:HURA|NORK:HAIEK-K|NORI:ZURI</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[dat]=Sing|Number[erg]=Plur|Person[abs]=3|Person[dat]=2|Person[erg]=3|Polite[dat]=Pol</td><td><em>dizute</em></td></tr>
+  <tr><td>ADL ADL MDN:A1|NOR:HURA|NORK:HAIEK-K|NORI:ZURI</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[dat]=Sing|Number[erg]=Plur|Person[abs]=3|Person[dat]=2|Person[erg]=3|Polite[dat]=Form</td><td><em>dizute</em></td></tr>
   <tr style="background:lightgray"><td>ADL ADL MDN:A1|NOR:HURA|NORK:HARK</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=3</td><td><em>du</em></td></tr>
   <tr><td>ADL ADL MDN:A1|NOR:HURA|NORK:HARK|HIT:NO</td><td>=&gt;</td><td>AUX</td><td>Gender=Fem|Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=3</td><td><em>din</em></td></tr>
   <tr style="background:lightgray"><td>ADL ADL MDN:A1|NOR:HURA|NORK:HARK|HIT:TO</td><td>=&gt;</td><td>AUX</td><td>Gender=Masc|Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=3</td><td><em>dik</em></td></tr>
@@ -1606,50 +1607,50 @@ Tagset <tt>eu::conll</tt>, total 5161 tags.
   <tr><td>ADL ADL MDN:A1|NOR:HURA|NORK:HARK|NORI:HAIEI|HIT:NO</td><td>=&gt;</td><td>AUX</td><td>Gender=Fem|Number[abs]=Sing|Number[dat]=Plur|Number[erg]=Sing|Person[abs]=3|Person[dat]=3|Person[erg]=3</td><td><em>zien</em></td></tr>
   <tr style="background:lightgray"><td>ADL ADL MDN:A1|NOR:HURA|NORK:HARK|NORI:HARI</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[dat]=Sing|Number[erg]=Sing|Person[abs]=3|Person[dat]=3|Person[erg]=3</td><td><em>dio</em></td></tr>
   <tr><td>ADL ADL MDN:A1|NOR:HURA|NORK:HARK|NORI:HARI|HIT:NO</td><td>=&gt;</td><td>AUX</td><td>Gender=Fem|Number[abs]=Sing|Number[dat]=Sing|Number[erg]=Sing|Person[abs]=3|Person[dat]=3|Person[erg]=3</td><td><em>zion</em></td></tr>
-  <tr style="background:lightgray"><td>ADL ADL MDN:A1|NOR:HURA|NORK:HARK|NORI:HIRI-NO</td><td>=&gt;</td><td>AUX</td><td>Gender[dat]=Fem|Number[abs]=Sing|Number[dat]=Sing|Number[erg]=Sing|Person[abs]=3|Person[dat]=2|Person[erg]=3|Polite[dat]=Inf</td><td><em>din</em></td></tr>
+  <tr style="background:lightgray"><td>ADL ADL MDN:A1|NOR:HURA|NORK:HARK|NORI:HIRI-NO</td><td>=&gt;</td><td>AUX</td><td>Gender[dat]=Fem|Number[abs]=Sing|Number[dat]=Sing|Number[erg]=Sing|Person[abs]=3|Person[dat]=2|Person[erg]=3|Polite[dat]=Infm</td><td><em>din</em></td></tr>
   <tr><td>ADL ADL MDN:A1|NOR:HURA|NORK:HARK|NORI:NIRI</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[dat]=Sing|Number[erg]=Sing|Person[abs]=3|Person[dat]=1|Person[erg]=3</td><td><em>dit</em></td></tr>
-  <tr style="background:lightgray"><td>ADL ADL MDN:A1|NOR:HURA|NORK:HARK|NORI:ZURI</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[dat]=Sing|Number[erg]=Sing|Person[abs]=3|Person[dat]=2|Person[erg]=3|Polite[dat]=Pol</td><td><em>dizu</em></td></tr>
-  <tr><td>ADL ADL MDN:A1|NOR:HURA|NORK:HIK-NO</td><td>=&gt;</td><td>AUX</td><td>Gender[erg]=Fem|Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=2|Polite[erg]=Inf</td><td><em>dun</em></td></tr>
-  <tr style="background:lightgray"><td>ADL ADL MDN:A1|NOR:HURA|NORK:HIK-TO</td><td>=&gt;</td><td>AUX</td><td>Gender[erg]=Masc|Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=2|Polite[erg]=Inf</td><td><em>duk</em></td></tr>
+  <tr style="background:lightgray"><td>ADL ADL MDN:A1|NOR:HURA|NORK:HARK|NORI:ZURI</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[dat]=Sing|Number[erg]=Sing|Person[abs]=3|Person[dat]=2|Person[erg]=3|Polite[dat]=Form</td><td><em>dizu</em></td></tr>
+  <tr><td>ADL ADL MDN:A1|NOR:HURA|NORK:HIK-NO</td><td>=&gt;</td><td>AUX</td><td>Gender[erg]=Fem|Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=2|Polite[erg]=Infm</td><td><em>dun</em></td></tr>
+  <tr style="background:lightgray"><td>ADL ADL MDN:A1|NOR:HURA|NORK:HIK-TO</td><td>=&gt;</td><td>AUX</td><td>Gender[erg]=Masc|Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=2|Polite[erg]=Infm</td><td><em>duk</em></td></tr>
   <tr><td>ADL ADL MDN:A1|NOR:HURA|NORK:NIK</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=1</td><td><em>dut</em></td></tr>
   <tr style="background:lightgray"><td>ADL ADL MDN:A1|NOR:HURA|NORK:NIK|HIT:NO</td><td>=&gt;</td><td>AUX</td><td>Gender=Fem|Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=1</td><td><em>dinat</em></td></tr>
   <tr><td>ADL ADL MDN:A1|NOR:HURA|NORK:NIK|HIT:TO</td><td>=&gt;</td><td>AUX</td><td>Gender=Masc|Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=1</td><td><em>diat</em></td></tr>
   <tr style="background:lightgray"><td>ADL ADL MDN:A1|NOR:HURA|NORK:NIK|NORI:HAIEI</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[dat]=Plur|Number[erg]=Sing|Person[abs]=3|Person[dat]=3|Person[erg]=1</td><td><em>diet</em></td></tr>
   <tr><td>ADL ADL MDN:A1|NOR:HURA|NORK:NIK|NORI:HARI</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[dat]=Sing|Number[erg]=Sing|Person[abs]=3|Person[dat]=3|Person[erg]=1</td><td><em>diot</em></td></tr>
-  <tr style="background:lightgray"><td>ADL ADL MDN:A1|NOR:HURA|NORK:NIK|NORI:HIRI-TO</td><td>=&gt;</td><td>AUX</td><td>Gender[dat]=Masc|Number[abs]=Sing|Number[dat]=Sing|Number[erg]=Sing|Person[abs]=3|Person[dat]=2|Person[erg]=1|Polite[dat]=Inf</td><td><em>diat</em></td></tr>
+  <tr style="background:lightgray"><td>ADL ADL MDN:A1|NOR:HURA|NORK:NIK|NORI:HIRI-TO</td><td>=&gt;</td><td>AUX</td><td>Gender[dat]=Masc|Number[abs]=Sing|Number[dat]=Sing|Number[erg]=Sing|Person[abs]=3|Person[dat]=2|Person[erg]=1|Polite[dat]=Infm</td><td><em>diat</em></td></tr>
   <tr><td>ADL ADL MDN:A1|NOR:HURA|NORK:NIK|NORI:ZUEI</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[dat]=Plur|Number[erg]=Sing|Person[abs]=3|Person[dat]=2|Person[erg]=1</td><td><em>dizuet, dautzuet</em></td></tr>
-  <tr style="background:lightgray"><td>ADL ADL MDN:A1|NOR:HURA|NORK:NIK|NORI:ZURI</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[dat]=Sing|Number[erg]=Sing|Person[abs]=3|Person[dat]=2|Person[erg]=1|Polite[dat]=Pol</td><td><em>dizut</em></td></tr>
+  <tr style="background:lightgray"><td>ADL ADL MDN:A1|NOR:HURA|NORK:NIK|NORI:ZURI</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[dat]=Sing|Number[erg]=Sing|Person[abs]=3|Person[dat]=2|Person[erg]=1|Polite[dat]=Form</td><td><em>dizut</em></td></tr>
   <tr><td>ADL ADL MDN:A1|NOR:HURA|NORK:ZUEK-K</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[erg]=Plur|Person[abs]=3|Person[erg]=2</td><td><em>duzue</em></td></tr>
   <tr style="background:lightgray"><td>ADL ADL MDN:A1|NOR:HURA|NORK:ZUEK-K|NORI:NIRI</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[dat]=Sing|Number[erg]=Plur|Person[abs]=3|Person[dat]=1|Person[erg]=2</td><td><em>didazue</em></td></tr>
-  <tr><td>ADL ADL MDN:A1|NOR:HURA|NORK:ZUK</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=2|Polite[erg]=Pol</td><td><em>duzu, dezu</em></td></tr>
-  <tr style="background:lightgray"><td>ADL ADL MDN:A1|NOR:HURA|NORK:ZUK|NORI:GURI</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[dat]=Plur|Number[erg]=Sing|Person[abs]=3|Person[dat]=1|Person[erg]=2|Polite[erg]=Pol</td><td><em>diguzu</em></td></tr>
-  <tr><td>ADL ADL MDN:A1|NOR:HURA|NORK:ZUK|NORI:HARI</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[dat]=Sing|Number[erg]=Sing|Person[abs]=3|Person[dat]=3|Person[erg]=2|Polite[erg]=Pol</td><td><em>diozu</em></td></tr>
+  <tr><td>ADL ADL MDN:A1|NOR:HURA|NORK:ZUK</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=2|Polite[erg]=Form</td><td><em>duzu, dezu</em></td></tr>
+  <tr style="background:lightgray"><td>ADL ADL MDN:A1|NOR:HURA|NORK:ZUK|NORI:GURI</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[dat]=Plur|Number[erg]=Sing|Person[abs]=3|Person[dat]=1|Person[erg]=2|Polite[erg]=Form</td><td><em>diguzu</em></td></tr>
+  <tr><td>ADL ADL MDN:A1|NOR:HURA|NORK:ZUK|NORI:HARI</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[dat]=Sing|Number[erg]=Sing|Person[abs]=3|Person[dat]=3|Person[erg]=2|Polite[erg]=Form</td><td><em>diozu</em></td></tr>
   <tr style="background:lightgray"><td>ADL ADL MDN:A1|NOR:NI</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Person[abs]=1</td><td><em>naiz</em></td></tr>
   <tr><td>ADL ADL MDN:A1|NOR:NI|HIT:NO</td><td>=&gt;</td><td>AUX</td><td>Gender=Fem|Number[abs]=Sing|Person[abs]=1</td><td><em>naun</em></td></tr>
   <tr style="background:lightgray"><td>ADL ADL MDN:A1|NOR:NI|NORK:HAIEK-K</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[erg]=Plur|Person[abs]=1|Person[erg]=3</td><td><em>naute</em></td></tr>
   <tr><td>ADL ADL MDN:A1|NOR:NI|NORK:HARK</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[erg]=Sing|Person[abs]=1|Person[erg]=3</td><td><em>nau</em></td></tr>
   <tr style="background:lightgray"><td>ADL ADL MDN:A1|NOR:NI|NORK:ZUEK-K</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[erg]=Plur|Person[abs]=1|Person[erg]=2</td><td><em>nauzue</em></td></tr>
-  <tr><td>ADL ADL MDN:A1|NOR:NI|NORK:ZUK</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[erg]=Sing|Person[abs]=1|Person[erg]=2|Polite[erg]=Pol</td><td><em>nauzu</em></td></tr>
-  <tr style="background:lightgray"><td>ADL ADL MDN:A1|NOR:ZU</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Person[abs]=2|Polite[abs]=Pol</td><td><em>zara, zea</em></td></tr>
+  <tr><td>ADL ADL MDN:A1|NOR:NI|NORK:ZUK</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[erg]=Sing|Person[abs]=1|Person[erg]=2|Polite[erg]=Form</td><td><em>nauzu</em></td></tr>
+  <tr style="background:lightgray"><td>ADL ADL MDN:A1|NOR:ZU</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Person[abs]=2|Polite[abs]=Form</td><td><em>zara, zea</em></td></tr>
   <tr><td>ADL ADL MDN:A1|NOR:ZUEK</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Plur|Person[abs]=2</td><td><em>zarete</em></td></tr>
   <tr style="background:lightgray"><td>ADL ADL MDN:A1|NOR:ZUEK|NORK:GUK</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Plur|Number[erg]=Plur|Person[abs]=2|Person[erg]=1</td><td><em>zaituztegu</em></td></tr>
-  <tr><td>ADL ADL MDN:A1|NOR:ZU|NORI:NIRI</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[dat]=Sing|Person[abs]=2|Person[dat]=1|Polite[abs]=Pol</td><td><em>zatzait</em></td></tr>
-  <tr style="background:lightgray"><td>ADL ADL MDN:A1|NOR:ZU|NORK:GUK</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[erg]=Plur|Person[abs]=2|Person[erg]=1|Polite[abs]=Pol</td><td><em>zaitugu</em></td></tr>
-  <tr><td>ADL ADL MDN:A1|NOR:ZU|NORK:HAIEK-K</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[erg]=Plur|Person[abs]=2|Person[erg]=3|Polite[abs]=Pol</td><td><em>zaituzte</em></td></tr>
-  <tr style="background:lightgray"><td>ADL ADL MDN:A1|NOR:ZU|NORK:HARK</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[erg]=Sing|Person[abs]=2|Person[erg]=3|Polite[abs]=Pol</td><td><em>zaitu</em></td></tr>
-  <tr><td>ADL ADL MDN:A1|NOR:ZU|NORK:NIK</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[erg]=Sing|Person[abs]=2|Person[erg]=1|Polite[abs]=Pol</td><td><em>zaitut</em></td></tr>
+  <tr><td>ADL ADL MDN:A1|NOR:ZU|NORI:NIRI</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[dat]=Sing|Person[abs]=2|Person[dat]=1|Polite[abs]=Form</td><td><em>zatzait</em></td></tr>
+  <tr style="background:lightgray"><td>ADL ADL MDN:A1|NOR:ZU|NORK:GUK</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[erg]=Plur|Person[abs]=2|Person[erg]=1|Polite[abs]=Form</td><td><em>zaitugu</em></td></tr>
+  <tr><td>ADL ADL MDN:A1|NOR:ZU|NORK:HAIEK-K</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[erg]=Plur|Person[abs]=2|Person[erg]=3|Polite[abs]=Form</td><td><em>zaituzte</em></td></tr>
+  <tr style="background:lightgray"><td>ADL ADL MDN:A1|NOR:ZU|NORK:HARK</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[erg]=Sing|Person[abs]=2|Person[erg]=3|Polite[abs]=Form</td><td><em>zaitu</em></td></tr>
+  <tr><td>ADL ADL MDN:A1|NOR:ZU|NORK:NIK</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[erg]=Sing|Person[abs]=2|Person[erg]=1|Polite[abs]=Form</td><td><em>zaitut</em></td></tr>
   <tr style="background:lightgray"><td>ADL ADL MDN:A5|NOR:GU</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Plur|Person[abs]=1</td><td><em>gaitezke</em></td></tr>
   <tr><td>ADL ADL MDN:A5|NOR:HAIEK</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Plur|Person[abs]=3</td><td><em>daitezke, ditazke</em></td></tr>
   <tr style="background:lightgray"><td>ADL ADL MDN:A5|NOR:HAIEK|NORK:GUK</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Plur|Number[erg]=Plur|Person[abs]=3|Person[erg]=1</td><td><em>ditzakegu</em></td></tr>
   <tr><td>ADL ADL MDN:A5|NOR:HAIEK|NORK:HAIEK-K</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Plur|Number[erg]=Plur|Person[abs]=3|Person[erg]=3</td><td><em>ditzakete</em></td></tr>
   <tr style="background:lightgray"><td>ADL ADL MDN:A5|NOR:HAIEK|NORK:HARK</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Plur|Number[erg]=Sing|Person[abs]=3|Person[erg]=3</td><td><em>ditzake</em></td></tr>
   <tr><td>ADL ADL MDN:A5|NOR:HAIEK|NORK:HARK|NORI:HARI</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Plur|Number[dat]=Sing|Number[erg]=Sing|Person[abs]=3|Person[dat]=3|Person[erg]=3</td><td><em>diezazkioke, diezaizkioke</em></td></tr>
-  <tr style="background:lightgray"><td>ADL ADL MDN:A5|NOR:HAIEK|NORK:ZUK</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Plur|Number[erg]=Sing|Person[abs]=3|Person[erg]=2|Polite[erg]=Pol</td><td><em>ditzakezu</em></td></tr>
-  <tr><td>ADL ADL MDN:A5|NOR:HI</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Person[abs]=2|Polite[abs]=Inf</td><td><em>haiteke</em></td></tr>
+  <tr style="background:lightgray"><td>ADL ADL MDN:A5|NOR:HAIEK|NORK:ZUK</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Plur|Number[erg]=Sing|Person[abs]=3|Person[erg]=2|Polite[erg]=Form</td><td><em>ditzakezu</em></td></tr>
+  <tr><td>ADL ADL MDN:A5|NOR:HI</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Person[abs]=2|Polite[abs]=Infm</td><td><em>haiteke</em></td></tr>
   <tr style="background:lightgray"><td>ADL ADL MDN:A5|NOR:HURA</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Person[abs]=3</td><td><em>daiteke, ditake</em></td></tr>
   <tr><td>ADL ADL MDN:A5|NOR:HURA|NORI:HARI</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[dat]=Sing|Person[abs]=3|Person[dat]=3</td><td><em>dakioke</em></td></tr>
   <tr style="background:lightgray"><td>ADL ADL MDN:A5|NOR:HURA|NORI:HARI|HIT:NO</td><td>=&gt;</td><td>AUX</td><td>Gender=Fem|Number[abs]=Sing|Number[dat]=Sing|Person[abs]=3|Person[dat]=3</td><td><em>dakioken</em></td></tr>
-  <tr><td>ADL ADL MDN:A5|NOR:HURA|NORI:ZURI</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[dat]=Sing|Person[abs]=3|Person[dat]=2|Polite[dat]=Pol</td><td><em>dakizuke</em></td></tr>
+  <tr><td>ADL ADL MDN:A5|NOR:HURA|NORI:ZURI</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[dat]=Sing|Person[abs]=3|Person[dat]=2|Polite[dat]=Form</td><td><em>dakizuke</em></td></tr>
   <tr style="background:lightgray"><td>ADL ADL MDN:A5|NOR:HURA|NORK:GUK</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[erg]=Plur|Person[abs]=3|Person[erg]=1</td><td><em>dezakegu</em></td></tr>
   <tr><td>ADL ADL MDN:A5|NOR:HURA|NORK:HAIEK-K</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[erg]=Plur|Person[abs]=3|Person[erg]=3</td><td><em>dezakete</em></td></tr>
   <tr style="background:lightgray"><td>ADL ADL MDN:A5|NOR:HURA|NORK:HAIEK-K|NORI:HAIEI</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[dat]=Plur|Number[erg]=Plur|Person[abs]=3|Person[dat]=3|Person[erg]=3</td><td><em>diezaiekete</em></td></tr>
@@ -1658,10 +1659,10 @@ Tagset <tt>eu::conll</tt>, total 5161 tags.
   <tr><td>ADL ADL MDN:A5|NOR:HURA|NORK:HARK|HIT:NO</td><td>=&gt;</td><td>AUX</td><td>Gender=Fem|Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=3</td><td><em>zezaken</em></td></tr>
   <tr style="background:lightgray"><td>ADL ADL MDN:A5|NOR:HURA|NORK:HARK|NORI:HARI</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[dat]=Sing|Number[erg]=Sing|Person[abs]=3|Person[dat]=3|Person[erg]=3</td><td><em>diezaioke</em></td></tr>
   <tr><td>ADL ADL MDN:A5|NOR:HURA|NORK:NIK</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=1</td><td><em>dezaket</em></td></tr>
-  <tr style="background:lightgray"><td>ADL ADL MDN:A5|NOR:HURA|NORK:ZUK</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=2|Polite[erg]=Pol</td><td><em>dezakezu</em></td></tr>
+  <tr style="background:lightgray"><td>ADL ADL MDN:A5|NOR:HURA|NORK:ZUK</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=2|Polite[erg]=Form</td><td><em>dezakezu</em></td></tr>
   <tr><td>ADL ADL MDN:A5|NOR:NI</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Person[abs]=1</td><td><em>naiteke</em></td></tr>
-  <tr style="background:lightgray"><td>ADL ADL MDN:A5|NOR:NI|NORK:ZUK</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[erg]=Sing|Person[abs]=1|Person[erg]=2|Polite[erg]=Pol</td><td><em>nazakezu</em></td></tr>
-  <tr><td>ADL ADL MDN:A5|NOR:ZU|NORK:GUK</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[erg]=Plur|Person[abs]=2|Person[erg]=1|Polite[abs]=Pol</td><td><em>zaitzakegu</em></td></tr>
+  <tr style="background:lightgray"><td>ADL ADL MDN:A5|NOR:NI|NORK:ZUK</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[erg]=Sing|Person[abs]=1|Person[erg]=2|Polite[erg]=Form</td><td><em>nazakezu</em></td></tr>
+  <tr><td>ADL ADL MDN:A5|NOR:ZU|NORK:GUK</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[erg]=Plur|Person[abs]=2|Person[erg]=1|Polite[abs]=Form</td><td><em>zaitzakegu</em></td></tr>
   <tr style="background:lightgray"><td>ADL ADL MDN:B1|NOR:GU</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Plur|Person[abs]=1</td><td><em>ginen</em></td></tr>
   <tr><td>ADL ADL MDN:B1|NOR:GU|HIT:NO</td><td>=&gt;</td><td>AUX</td><td>Gender=Fem|Number[abs]=Plur|Person[abs]=1</td><td><em>gintunan</em></td></tr>
   <tr style="background:lightgray"><td>ADL ADL MDN:B1|NOR:GU|NORI:HARI</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Plur|Number[dat]=Sing|Person[abs]=1|Person[dat]=3</td><td><em>gintzaizkion</em></td></tr>
@@ -1684,22 +1685,22 @@ Tagset <tt>eu::conll</tt>, total 5161 tags.
   <tr><td>ADL ADL MDN:B1|NOR:HAIEK|NORK:HARK|NORI:HARI</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Plur|Number[dat]=Sing|Number[erg]=Sing|Person[abs]=3|Person[dat]=3|Person[erg]=3</td><td><em>zizkion</em></td></tr>
   <tr style="background:lightgray"><td>ADL ADL MDN:B1|NOR:HAIEK|NORK:HARK|NORI:NIRI</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Plur|Number[dat]=Sing|Number[erg]=Sing|Person[abs]=3|Person[dat]=1|Person[erg]=3</td><td><em>zizkidan</em></td></tr>
   <tr><td>ADL ADL MDN:B1|NOR:HAIEK|NORK:NIK</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Plur|Number[erg]=Sing|Person[abs]=3|Person[erg]=1</td><td><em>nituen</em></td></tr>
-  <tr style="background:lightgray"><td>ADL ADL MDN:B1|NOR:HAIEK|NORK:ZUK</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Plur|Number[erg]=Sing|Person[abs]=3|Person[erg]=2|Polite[erg]=Pol</td><td><em>zenituen</em></td></tr>
-  <tr><td>ADL ADL MDN:B1|NOR:HI</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Person[abs]=2|Polite[abs]=Inf</td><td><em>hintzen</em></td></tr>
-  <tr style="background:lightgray"><td>ADL ADL MDN:B1|NOR:HI|NORK:HARK</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[erg]=Sing|Person[abs]=2|Person[erg]=3|Polite[abs]=Inf</td><td><em>hinduan</em></td></tr>
+  <tr style="background:lightgray"><td>ADL ADL MDN:B1|NOR:HAIEK|NORK:ZUK</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Plur|Number[erg]=Sing|Person[abs]=3|Person[erg]=2|Polite[erg]=Form</td><td><em>zenituen</em></td></tr>
+  <tr><td>ADL ADL MDN:B1|NOR:HI</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Person[abs]=2|Polite[abs]=Infm</td><td><em>hintzen</em></td></tr>
+  <tr style="background:lightgray"><td>ADL ADL MDN:B1|NOR:HI|NORK:HARK</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[erg]=Sing|Person[abs]=2|Person[erg]=3|Polite[abs]=Infm</td><td><em>hinduan</em></td></tr>
   <tr><td>ADL ADL MDN:B1|NOR:HURA</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Person[abs]=3</td><td><em>zen, zen27</em></td></tr>
   <tr style="background:lightgray"><td>ADL ADL MDN:B1|NOR:HURA|NORI:GURI</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[dat]=Plur|Person[abs]=3|Person[dat]=1</td><td><em>zitzaigun</em></td></tr>
   <tr><td>ADL ADL MDN:B1|NOR:HURA|NORI:HAIEI</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[dat]=Plur|Person[abs]=3|Person[dat]=3</td><td><em>zitzaien</em></td></tr>
   <tr style="background:lightgray"><td>ADL ADL MDN:B1|NOR:HURA|NORI:HARI</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[dat]=Sing|Person[abs]=3|Person[dat]=3</td><td><em>zitzaion</em></td></tr>
   <tr><td>ADL ADL MDN:B1|NOR:HURA|NORI:NIRI</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[dat]=Sing|Person[abs]=3|Person[dat]=1</td><td><em>zitzaidan</em></td></tr>
   <tr style="background:lightgray"><td>ADL ADL MDN:B1|NOR:HURA|NORI:ZUEI</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[dat]=Plur|Person[abs]=3|Person[dat]=2</td><td><em>zitzaizuen</em></td></tr>
-  <tr><td>ADL ADL MDN:B1|NOR:HURA|NORI:ZURI</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[dat]=Sing|Person[abs]=3|Person[dat]=2|Polite[dat]=Pol</td><td><em>zitzaizun</em></td></tr>
+  <tr><td>ADL ADL MDN:B1|NOR:HURA|NORI:ZURI</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[dat]=Sing|Person[abs]=3|Person[dat]=2|Polite[dat]=Form</td><td><em>zitzaizun</em></td></tr>
   <tr style="background:lightgray"><td>ADL ADL MDN:B1|NOR:HURA|NORK:GUK</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[erg]=Plur|Person[abs]=3|Person[erg]=1</td><td><em>genuen, ginuen</em></td></tr>
   <tr><td>ADL ADL MDN:B1|NOR:HURA|NORK:GUK|HIT:TO</td><td>=&gt;</td><td>AUX</td><td>Gender=Masc|Number[abs]=Sing|Number[erg]=Plur|Person[abs]=3|Person[erg]=1</td><td><em>genian</em></td></tr>
   <tr style="background:lightgray"><td>ADL ADL MDN:B1|NOR:HURA|NORK:GUK|NORI:HAIEI</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[dat]=Plur|Number[erg]=Plur|Person[abs]=3|Person[dat]=3|Person[erg]=1</td><td><em>genien</em></td></tr>
   <tr><td>ADL ADL MDN:B1|NOR:HURA|NORK:GUK|NORI:HARI</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[dat]=Sing|Number[erg]=Plur|Person[abs]=3|Person[dat]=3|Person[erg]=1</td><td><em>genion</em></td></tr>
   <tr style="background:lightgray"><td>ADL ADL MDN:B1|NOR:HURA|NORK:GUK|NORI:ZUEI</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[dat]=Plur|Number[erg]=Plur|Person[abs]=3|Person[dat]=2|Person[erg]=1</td><td><em>genizuen</em></td></tr>
-  <tr><td>ADL ADL MDN:B1|NOR:HURA|NORK:GUK|NORI:ZURI</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[dat]=Sing|Number[erg]=Plur|Person[abs]=3|Person[dat]=2|Person[erg]=1|Polite[dat]=Pol</td><td><em>genizun</em></td></tr>
+  <tr><td>ADL ADL MDN:B1|NOR:HURA|NORK:GUK|NORI:ZURI</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[dat]=Sing|Number[erg]=Plur|Person[abs]=3|Person[dat]=2|Person[erg]=1|Polite[dat]=Form</td><td><em>genizun</em></td></tr>
   <tr style="background:lightgray"><td>ADL ADL MDN:B1|NOR:HURA|NORK:HAIEK-K</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[erg]=Plur|Person[abs]=3|Person[erg]=3</td><td><em>zuten</em></td></tr>
   <tr><td>ADL ADL MDN:B1|NOR:HURA|NORK:HAIEK-K|NORI:GURI</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[dat]=Plur|Number[erg]=Plur|Person[abs]=3|Person[dat]=1|Person[erg]=3</td><td><em>ziguten</em></td></tr>
   <tr style="background:lightgray"><td>ADL ADL MDN:B1|NOR:HURA|NORK:HAIEK-K|NORI:HAIEI</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[dat]=Plur|Number[erg]=Plur|Person[abs]=3|Person[dat]=3|Person[erg]=3</td><td><em>zieten</em></td></tr>
@@ -1712,22 +1713,22 @@ Tagset <tt>eu::conll</tt>, total 5161 tags.
   <tr><td>ADL ADL MDN:B1|NOR:HURA|NORK:HARK|NORI:HARI</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[dat]=Sing|Number[erg]=Sing|Person[abs]=3|Person[dat]=3|Person[erg]=3</td><td><em>zion</em></td></tr>
   <tr style="background:lightgray"><td>ADL ADL MDN:B1|NOR:HURA|NORK:HARK|NORI:NIRI</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[dat]=Sing|Number[erg]=Sing|Person[abs]=3|Person[dat]=1|Person[erg]=3</td><td><em>zidan</em></td></tr>
   <tr><td>ADL ADL MDN:B1|NOR:HURA|NORK:HARK|NORI:ZUEI</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[dat]=Plur|Number[erg]=Sing|Person[abs]=3|Person[dat]=2|Person[erg]=3</td><td><em>zizuen</em></td></tr>
-  <tr style="background:lightgray"><td>ADL ADL MDN:B1|NOR:HURA|NORK:HARK|NORI:ZURI</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[dat]=Sing|Number[erg]=Sing|Person[abs]=3|Person[dat]=2|Person[erg]=3|Polite[dat]=Pol</td><td><em>zizun</em></td></tr>
-  <tr><td>ADL ADL MDN:B1|NOR:HURA|NORK:HIK</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=2|Polite[erg]=Inf</td><td><em>huan</em></td></tr>
+  <tr style="background:lightgray"><td>ADL ADL MDN:B1|NOR:HURA|NORK:HARK|NORI:ZURI</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[dat]=Sing|Number[erg]=Sing|Person[abs]=3|Person[dat]=2|Person[erg]=3|Polite[dat]=Form</td><td><em>zizun</em></td></tr>
+  <tr><td>ADL ADL MDN:B1|NOR:HURA|NORK:HIK</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=2|Polite[erg]=Infm</td><td><em>huan</em></td></tr>
   <tr style="background:lightgray"><td>ADL ADL MDN:B1|NOR:HURA|NORK:NIK</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=1</td><td><em>nuen</em></td></tr>
   <tr><td>ADL ADL MDN:B1|NOR:HURA|NORK:NIK|HIT:TO</td><td>=&gt;</td><td>AUX</td><td>Gender=Masc|Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=1</td><td><em>nian</em></td></tr>
   <tr style="background:lightgray"><td>ADL ADL MDN:B1|NOR:HURA|NORK:NIK|NORI:HAIEI</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[dat]=Plur|Number[erg]=Sing|Person[abs]=3|Person[dat]=3|Person[erg]=1</td><td><em>nien</em></td></tr>
   <tr><td>ADL ADL MDN:B1|NOR:HURA|NORK:NIK|NORI:HARI</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[dat]=Sing|Number[erg]=Sing|Person[abs]=3|Person[dat]=3|Person[erg]=1</td><td><em>nion</em></td></tr>
-  <tr style="background:lightgray"><td>ADL ADL MDN:B1|NOR:HURA|NORK:NIK|NORI:HIRI-TO</td><td>=&gt;</td><td>AUX</td><td>Gender[dat]=Masc|Number[abs]=Sing|Number[dat]=Sing|Number[erg]=Sing|Person[abs]=3|Person[dat]=2|Person[erg]=1|Polite[dat]=Inf</td><td><em>nian</em></td></tr>
+  <tr style="background:lightgray"><td>ADL ADL MDN:B1|NOR:HURA|NORK:NIK|NORI:HIRI-TO</td><td>=&gt;</td><td>AUX</td><td>Gender[dat]=Masc|Number[abs]=Sing|Number[dat]=Sing|Number[erg]=Sing|Person[abs]=3|Person[dat]=2|Person[erg]=1|Polite[dat]=Infm</td><td><em>nian</em></td></tr>
   <tr><td>ADL ADL MDN:B1|NOR:HURA|NORK:ZUEK-K</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[erg]=Plur|Person[abs]=3|Person[erg]=2</td><td><em>zenuten</em></td></tr>
   <tr style="background:lightgray"><td>ADL ADL MDN:B1|NOR:HURA|NORK:ZUEK-K|NORI:GURI</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[dat]=Plur|Number[erg]=Plur|Person[abs]=3|Person[dat]=1|Person[erg]=2</td><td><em>zeniguten</em></td></tr>
-  <tr><td>ADL ADL MDN:B1|NOR:HURA|NORK:ZUK</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=2|Polite[erg]=Pol</td><td><em>zenuen</em></td></tr>
+  <tr><td>ADL ADL MDN:B1|NOR:HURA|NORK:ZUK</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=2|Polite[erg]=Form</td><td><em>zenuen</em></td></tr>
   <tr style="background:lightgray"><td>ADL ADL MDN:B1|NOR:NI</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Person[abs]=1</td><td><em>nintzen</em></td></tr>
   <tr><td>ADL ADL MDN:B1|NOR:NI|NORI:HARI</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[dat]=Sing|Person[abs]=1|Person[dat]=3</td><td><em>nintzaion</em></td></tr>
   <tr style="background:lightgray"><td>ADL ADL MDN:B1|NOR:NI|NORK:HAIEK-K</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[erg]=Plur|Person[abs]=1|Person[erg]=3</td><td><em>ninduten</em></td></tr>
   <tr><td>ADL ADL MDN:B1|NOR:NI|NORK:HARK</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[erg]=Sing|Person[abs]=1|Person[erg]=3</td><td><em>ninduen</em></td></tr>
-  <tr style="background:lightgray"><td>ADL ADL MDN:B1|NOR:ZU</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Person[abs]=2|Polite[abs]=Pol</td><td><em>zinen</em></td></tr>
-  <tr><td>ADL ADL MDN:B1|NOR:ZU|NORK:NIK</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[erg]=Sing|Person[abs]=2|Person[erg]=1|Polite[abs]=Pol</td><td><em>zintudan</em></td></tr>
+  <tr style="background:lightgray"><td>ADL ADL MDN:B1|NOR:ZU</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Person[abs]=2|Polite[abs]=Form</td><td><em>zinen</em></td></tr>
+  <tr><td>ADL ADL MDN:B1|NOR:ZU|NORK:NIK</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[erg]=Sing|Person[abs]=2|Person[erg]=1|Polite[abs]=Form</td><td><em>zintudan</em></td></tr>
   <tr style="background:lightgray"><td>ADL ADL MDN:B2|NOR:HAIEK</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Plur|Person[abs]=3</td><td><em>lirateke</em></td></tr>
   <tr><td>ADL ADL MDN:B2|NOR:HAIEK|NORI:HAIEI</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Plur|Number[dat]=Plur|Person[abs]=3|Person[dat]=3</td><td><em>litzaizkieke</em></td></tr>
   <tr style="background:lightgray"><td>ADL ADL MDN:B2|NOR:HAIEK|NORK:GUK</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Plur|Number[erg]=Plur|Person[abs]=3|Person[erg]=1</td><td><em>genituzke</em></td></tr>
@@ -1741,10 +1742,10 @@ Tagset <tt>eu::conll</tt>, total 5161 tags.
   <tr style="background:lightgray"><td>ADL ADL MDN:B2|NOR:HURA|NORK:HARK</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=3</td><td><em>luke</em></td></tr>
   <tr><td>ADL ADL MDN:B2|NOR:HURA|NORK:HARK|NORI:HARI</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[dat]=Sing|Number[erg]=Sing|Person[abs]=3|Person[dat]=3|Person[erg]=3</td><td><em>lioke</em></td></tr>
   <tr style="background:lightgray"><td>ADL ADL MDN:B2|NOR:HURA|NORK:NIK</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=1</td><td><em>nuke</em></td></tr>
-  <tr><td>ADL ADL MDN:B2|NOR:HURA|NORK:NIK|NORI:ZURI</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[dat]=Sing|Number[erg]=Sing|Person[abs]=3|Person[dat]=2|Person[erg]=1|Polite[dat]=Pol</td><td><em>nizuke</em></td></tr>
+  <tr><td>ADL ADL MDN:B2|NOR:HURA|NORK:NIK|NORI:ZURI</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[dat]=Sing|Number[erg]=Sing|Person[abs]=3|Person[dat]=2|Person[erg]=1|Polite[dat]=Form</td><td><em>nizuke</em></td></tr>
   <tr style="background:lightgray"><td>ADL ADL MDN:B2|NOR:HURA|NORK:ZUEK-K</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[erg]=Plur|Person[abs]=3|Person[erg]=2</td><td><em>zenukete</em></td></tr>
-  <tr><td>ADL ADL MDN:B2|NOR:HURA|NORK:ZUK</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=2|Polite[erg]=Pol</td><td><em>zenuke</em></td></tr>
-  <tr style="background:lightgray"><td>ADL ADL MDN:B2|NOR:HURA|NORK:ZUK|NORI:HARI</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[dat]=Sing|Number[erg]=Sing|Person[abs]=3|Person[dat]=3|Person[erg]=2|Polite[erg]=Pol</td><td><em>zenioke</em></td></tr>
+  <tr><td>ADL ADL MDN:B2|NOR:HURA|NORK:ZUK</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=2|Polite[erg]=Form</td><td><em>zenuke</em></td></tr>
+  <tr style="background:lightgray"><td>ADL ADL MDN:B2|NOR:HURA|NORK:ZUK|NORI:HARI</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[dat]=Sing|Number[erg]=Sing|Person[abs]=3|Person[dat]=3|Person[erg]=2|Polite[erg]=Form</td><td><em>zenioke</em></td></tr>
   <tr><td>ADL ADL MDN:B2|NOR:NI</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Person[abs]=1</td><td><em>nintzateke</em></td></tr>
   <tr style="background:lightgray"><td>ADL ADL MDN:B3|NOR:HURA</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Person[abs]=3</td><td><em>zatekeen</em></td></tr>
   <tr><td>ADL ADL MDN:B3|NOR:HURA|NORI:NIRI</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[dat]=Sing|Person[abs]=3|Person[dat]=1</td><td><em>zitzaidakeen</em></td></tr>
@@ -1756,26 +1757,26 @@ Tagset <tt>eu::conll</tt>, total 5161 tags.
   <tr><td>ADL ADL MDN:B7|NOR:HURA|NORK:HAIEK-K</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[erg]=Plur|Person[abs]=3|Person[erg]=3</td><td><em>lezakete</em></td></tr>
   <tr style="background:lightgray"><td>ADL ADL MDN:B7|NOR:HURA|NORK:HARK</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=3</td><td><em>lezake</em></td></tr>
   <tr><td>ADL ADL MDN:B7|NOR:HURA|NORK:NIK</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=1</td><td><em>nezake</em></td></tr>
-  <tr style="background:lightgray"><td>ADL ADL MDN:B7|NOR:HURA|NORK:ZUK</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=2|Polite[erg]=Pol</td><td><em>zenezake</em></td></tr>
+  <tr style="background:lightgray"><td>ADL ADL MDN:B7|NOR:HURA|NORK:ZUK</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=2|Polite[erg]=Form</td><td><em>zenezake</em></td></tr>
   <tr><td>ADL ADL MDN:B8|NOR:HAIEK</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Plur|Person[abs]=3</td><td><em>zitezkeen</em></td></tr>
   <tr style="background:lightgray"><td>ADL ADL MDN:B8|NOR:HAIEK|NORK:HARK</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Plur|Number[erg]=Sing|Person[abs]=3|Person[erg]=3</td><td><em>zitzakeen</em></td></tr>
-  <tr><td>ADL ADL MDN:B8|NOR:HAIEK|NORK:ZUK</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Plur|Number[erg]=Sing|Person[abs]=3|Person[erg]=2|Polite[erg]=Pol</td><td><em>zenitzakeen</em></td></tr>
+  <tr><td>ADL ADL MDN:B8|NOR:HAIEK|NORK:ZUK</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Plur|Number[erg]=Sing|Person[abs]=3|Person[erg]=2|Polite[erg]=Form</td><td><em>zenitzakeen</em></td></tr>
   <tr style="background:lightgray"><td>ADL ADL MDN:B8|NOR:HURA</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Person[abs]=3</td><td><em>zitekeen</em></td></tr>
   <tr><td>ADL ADL MDN:B8|NOR:HURA|NORK:HAIEK-K</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[erg]=Plur|Person[abs]=3|Person[erg]=3</td><td><em>zezaketen</em></td></tr>
   <tr style="background:lightgray"><td>ADL ADL MDN:B8|NOR:HURA|NORK:HARK</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=3</td><td><em>zezakeen</em></td></tr>
-  <tr><td>ADL ADL MDN:B8|NOR:ZU|NORK:NIK</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[erg]=Sing|Person[abs]=2|Person[erg]=1|Polite[abs]=Pol</td><td><em>zintzakedan</em></td></tr>
-  <tr style="background:lightgray"><td>ADL ADL MDN:C|NOR:HAIEK|NORK:ZUK</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Plur|Number[erg]=Sing|Person[abs]=3|Person[erg]=2|Polite[erg]=Pol</td><td><em>itzazu</em></td></tr>
-  <tr><td>ADL ADL MDN:C|NOR:HURA|NORK:HIK-NO</td><td>=&gt;</td><td>AUX</td><td>Gender[erg]=Fem|Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=2|Polite[erg]=Inf</td><td><em>ezan</em></td></tr>
-  <tr style="background:lightgray"><td>ADL ADL MDN:C|NOR:HURA|NORK:HIK-NO|NORI:HARI</td><td>=&gt;</td><td>AUX</td><td>Gender[erg]=Fem|Number[abs]=Sing|Number[dat]=Sing|Number[erg]=Sing|Person[abs]=3|Person[dat]=3|Person[erg]=2|Polite[erg]=Inf</td><td><em>iezaion</em></td></tr>
-  <tr><td>ADL ADL MDN:C|NOR:HURA|NORK:HIK-TO</td><td>=&gt;</td><td>AUX</td><td>Gender[erg]=Masc|Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=2|Polite[erg]=Inf</td><td><em>ezak</em></td></tr>
+  <tr><td>ADL ADL MDN:B8|NOR:ZU|NORK:NIK</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[erg]=Sing|Person[abs]=2|Person[erg]=1|Polite[abs]=Form</td><td><em>zintzakedan</em></td></tr>
+  <tr style="background:lightgray"><td>ADL ADL MDN:C|NOR:HAIEK|NORK:ZUK</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Plur|Number[erg]=Sing|Person[abs]=3|Person[erg]=2|Polite[erg]=Form</td><td><em>itzazu</em></td></tr>
+  <tr><td>ADL ADL MDN:C|NOR:HURA|NORK:HIK-NO</td><td>=&gt;</td><td>AUX</td><td>Gender[erg]=Fem|Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=2|Polite[erg]=Infm</td><td><em>ezan</em></td></tr>
+  <tr style="background:lightgray"><td>ADL ADL MDN:C|NOR:HURA|NORK:HIK-NO|NORI:HARI</td><td>=&gt;</td><td>AUX</td><td>Gender[erg]=Fem|Number[abs]=Sing|Number[dat]=Sing|Number[erg]=Sing|Person[abs]=3|Person[dat]=3|Person[erg]=2|Polite[erg]=Infm</td><td><em>iezaion</em></td></tr>
+  <tr><td>ADL ADL MDN:C|NOR:HURA|NORK:HIK-TO</td><td>=&gt;</td><td>AUX</td><td>Gender[erg]=Masc|Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=2|Polite[erg]=Infm</td><td><em>ezak</em></td></tr>
   <tr style="background:lightgray"><td>ADL ADL MDN:C|NOR:HURA|NORK:ZUEK-K</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[erg]=Plur|Person[abs]=3|Person[erg]=2</td><td><em>ezazue</em></td></tr>
-  <tr><td>ADL ADL MDN:C|NOR:HURA|NORK:ZUK</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=2|Polite[erg]=Pol</td><td><em>ezazu</em></td></tr>
-  <tr style="background:lightgray"><td>ADL ADL MDN:C|NOR:HURA|NORK:ZUK|NORI:HAIEI</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[dat]=Plur|Number[erg]=Sing|Person[abs]=3|Person[dat]=3|Person[erg]=2|Polite[erg]=Pol</td><td><em>iezaiezu</em></td></tr>
-  <tr><td>ADL ADL MDN:C|NOR:HURA|NORK:ZUK|NORI:HARI</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[dat]=Sing|Number[erg]=Sing|Person[abs]=3|Person[dat]=3|Person[erg]=2|Polite[erg]=Pol</td><td><em>iezaiozu</em></td></tr>
-  <tr style="background:lightgray"><td>ADL ADL MDN:C|NOR:HURA|NORK:ZUK|NORI:NIRI</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[dat]=Sing|Number[erg]=Sing|Person[abs]=3|Person[dat]=1|Person[erg]=2|Polite[erg]=Pol</td><td><em>iezaidazu</em></td></tr>
-  <tr><td>ADL ADL MDN:C|NOR:NI|NORK:HIK-NO</td><td>=&gt;</td><td>AUX</td><td>Gender[erg]=Fem|Number[abs]=Sing|Number[erg]=Sing|Person[abs]=1|Person[erg]=2|Polite[erg]=Inf</td><td><em>nazan</em></td></tr>
-  <tr style="background:lightgray"><td>ADL ADL MDN:C|NOR:NI|NORK:ZUK</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[erg]=Sing|Person[abs]=1|Person[erg]=2|Polite[erg]=Pol</td><td><em>nazazu</em></td></tr>
-  <tr><td>ADL ADL MDN:C|NOR:ZU</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Person[abs]=2|Polite[abs]=Pol</td><td><em>zaitez</em></td></tr>
+  <tr><td>ADL ADL MDN:C|NOR:HURA|NORK:ZUK</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=2|Polite[erg]=Form</td><td><em>ezazu</em></td></tr>
+  <tr style="background:lightgray"><td>ADL ADL MDN:C|NOR:HURA|NORK:ZUK|NORI:HAIEI</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[dat]=Plur|Number[erg]=Sing|Person[abs]=3|Person[dat]=3|Person[erg]=2|Polite[erg]=Form</td><td><em>iezaiezu</em></td></tr>
+  <tr><td>ADL ADL MDN:C|NOR:HURA|NORK:ZUK|NORI:HARI</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[dat]=Sing|Number[erg]=Sing|Person[abs]=3|Person[dat]=3|Person[erg]=2|Polite[erg]=Form</td><td><em>iezaiozu</em></td></tr>
+  <tr style="background:lightgray"><td>ADL ADL MDN:C|NOR:HURA|NORK:ZUK|NORI:NIRI</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[dat]=Sing|Number[erg]=Sing|Person[abs]=3|Person[dat]=1|Person[erg]=2|Polite[erg]=Form</td><td><em>iezaidazu</em></td></tr>
+  <tr><td>ADL ADL MDN:C|NOR:NI|NORK:HIK-NO</td><td>=&gt;</td><td>AUX</td><td>Gender[erg]=Fem|Number[abs]=Sing|Number[erg]=Sing|Person[abs]=1|Person[erg]=2|Polite[erg]=Infm</td><td><em>nazan</em></td></tr>
+  <tr style="background:lightgray"><td>ADL ADL MDN:C|NOR:NI|NORK:ZUK</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[erg]=Sing|Person[abs]=1|Person[erg]=2|Polite[erg]=Form</td><td><em>nazazu</em></td></tr>
+  <tr><td>ADL ADL MDN:C|NOR:ZU</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Person[abs]=2|Polite[abs]=Form</td><td><em>zaitez</em></td></tr>
   <tr style="background:lightgray"><td>ADL ADL MOD:EGI|MDN:A1|NOR:HAIEK|NORK:HARK</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Plur|Number[erg]=Sing|Person[abs]=3|Person[erg]=3</td><td><em>baditu</em></td></tr>
   <tr><td>ADL ADL MOD:EGI|MDN:A1|NOR:HURA</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Person[abs]=3</td><td><em>bada</em></td></tr>
   <tr style="background:lightgray"><td>ADL ADL MOD:EGI|MDN:A1|NOR:HURA|NORK:HAIEK-K</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[erg]=Plur|Person[abs]=3|Person[erg]=3</td><td><em>badute</em></td></tr>
@@ -1798,10 +1799,10 @@ Tagset <tt>eu::conll</tt>, total 5161 tags.
   <tr><td>ADL ADL NOR:HAIEK|NORI:HARI</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Plur|Number[dat]=Sing|Person[abs]=3|Person[dat]=3</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>ADL ADL NOR:HAIEK|NORI:NIRI</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Plur|Number[dat]=Sing|Person[abs]=3|Person[dat]=1</td><td><em></em></td></tr>
   <tr><td>ADL ADL NOR:HAIEK|NORI:ZUEI</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Plur|Number[dat]=Plur|Person[abs]=3|Person[dat]=2</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>ADL ADL NOR:HAIEK|NORI:ZURI</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Plur|Number[dat]=Sing|Person[abs]=3|Person[dat]=2|Polite[dat]=Pol</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>ADL ADL NOR:HAIEK|NORI:ZURI</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Plur|Number[dat]=Sing|Person[abs]=3|Person[dat]=2|Polite[dat]=Form</td><td><em></em></td></tr>
   <tr><td>ADL ADL NOR:HAIEK|NORK:GUK</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Plur|Number[erg]=Plur|Person[abs]=3|Person[erg]=1</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>ADL ADL NOR:HAIEK|NORK:GUK|NORI:HARI</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Plur|Number[dat]=Sing|Number[erg]=Plur|Person[abs]=3|Person[dat]=3|Person[erg]=1</td><td><em></em></td></tr>
-  <tr><td>ADL ADL NOR:HAIEK|NORK:GUK|NORI:ZURI</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Plur|Number[dat]=Sing|Number[erg]=Plur|Person[abs]=3|Person[dat]=2|Person[erg]=1|Polite[dat]=Pol</td><td><em></em></td></tr>
+  <tr><td>ADL ADL NOR:HAIEK|NORK:GUK|NORI:ZURI</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Plur|Number[dat]=Sing|Number[erg]=Plur|Person[abs]=3|Person[dat]=2|Person[erg]=1|Polite[dat]=Form</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>ADL ADL NOR:HAIEK|NORK:HAIEK-K</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Plur|Number[erg]=Plur|Person[abs]=3|Person[erg]=3</td><td><em></em></td></tr>
   <tr><td>ADL ADL NOR:HAIEK|NORK:HAIEK-K|NORI:GURI</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Plur|Number[dat]=Plur|Number[erg]=Plur|Person[abs]=3|Person[dat]=1|Person[erg]=3</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>ADL ADL NOR:HAIEK|NORK:HAIEK-K|NORI:HAIEI</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Plur|Number[dat]=Plur|Number[erg]=Plur|Person[abs]=3|Person[dat]=3|Person[erg]=3</td><td><em></em></td></tr>
@@ -1813,17 +1814,17 @@ Tagset <tt>eu::conll</tt>, total 5161 tags.
   <tr style="background:lightgray"><td>ADL ADL NOR:HAIEK|NORK:HARK|NORI:HAIEI</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Plur|Number[dat]=Plur|Number[erg]=Sing|Person[abs]=3|Person[dat]=3|Person[erg]=3</td><td><em></em></td></tr>
   <tr><td>ADL ADL NOR:HAIEK|NORK:HARK|NORI:HARI</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Plur|Number[dat]=Sing|Number[erg]=Sing|Person[abs]=3|Person[dat]=3|Person[erg]=3</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>ADL ADL NOR:HAIEK|NORK:HARK|NORI:NIRI</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Plur|Number[dat]=Sing|Number[erg]=Sing|Person[abs]=3|Person[dat]=1|Person[erg]=3</td><td><em></em></td></tr>
-  <tr><td>ADL ADL NOR:HAIEK|NORK:HARK|NORI:ZURI</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Plur|Number[dat]=Sing|Number[erg]=Sing|Person[abs]=3|Person[dat]=2|Person[erg]=3|Polite[dat]=Pol</td><td><em></em></td></tr>
+  <tr><td>ADL ADL NOR:HAIEK|NORK:HARK|NORI:ZURI</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Plur|Number[dat]=Sing|Number[erg]=Sing|Person[abs]=3|Person[dat]=2|Person[erg]=3|Polite[dat]=Form</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>ADL ADL NOR:HAIEK|NORK:NIK</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Plur|Number[erg]=Sing|Person[abs]=3|Person[erg]=1</td><td><em></em></td></tr>
   <tr><td>ADL ADL NOR:HAIEK|NORK:NIK|NORI:HAIEI</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Plur|Number[dat]=Plur|Number[erg]=Sing|Person[abs]=3|Person[dat]=3|Person[erg]=1</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>ADL ADL NOR:HAIEK|NORK:NIK|NORI:HARI</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Plur|Number[dat]=Sing|Number[erg]=Sing|Person[abs]=3|Person[dat]=3|Person[erg]=1</td><td><em></em></td></tr>
   <tr><td>ADL ADL NOR:HAIEK|NORK:NIK|NORI:ZUEI</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Plur|Number[dat]=Plur|Number[erg]=Sing|Person[abs]=3|Person[dat]=2|Person[erg]=1</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>ADL ADL NOR:HAIEK|NORK:ZUEK-K</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Plur|Number[erg]=Plur|Person[abs]=3|Person[erg]=2</td><td><em></em></td></tr>
-  <tr><td>ADL ADL NOR:HAIEK|NORK:ZUK</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Plur|Number[erg]=Sing|Person[abs]=3|Person[erg]=2|Polite[erg]=Pol</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>ADL ADL NOR:HAIEK|NORK:ZUK|NORI:NIRI</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Plur|Number[dat]=Sing|Number[erg]=Sing|Person[abs]=3|Person[dat]=1|Person[erg]=2|Polite[erg]=Pol</td><td><em></em></td></tr>
-  <tr><td>ADL ADL NOR:HI</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Person[abs]=2|Polite[abs]=Inf</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>ADL ADL NOR:HI|NORK:HARK</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[erg]=Sing|Person[abs]=2|Person[erg]=3|Polite[abs]=Inf</td><td><em></em></td></tr>
-  <tr><td>ADL ADL NOR:HI|NORK:NIK</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[erg]=Sing|Person[abs]=2|Person[erg]=1|Polite[abs]=Inf</td><td><em></em></td></tr>
+  <tr><td>ADL ADL NOR:HAIEK|NORK:ZUK</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Plur|Number[erg]=Sing|Person[abs]=3|Person[erg]=2|Polite[erg]=Form</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>ADL ADL NOR:HAIEK|NORK:ZUK|NORI:NIRI</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Plur|Number[dat]=Sing|Number[erg]=Sing|Person[abs]=3|Person[dat]=1|Person[erg]=2|Polite[erg]=Form</td><td><em></em></td></tr>
+  <tr><td>ADL ADL NOR:HI</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Person[abs]=2|Polite[abs]=Infm</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>ADL ADL NOR:HI|NORK:HARK</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[erg]=Sing|Person[abs]=2|Person[erg]=3|Polite[abs]=Infm</td><td><em></em></td></tr>
+  <tr><td>ADL ADL NOR:HI|NORK:NIK</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[erg]=Sing|Person[abs]=2|Person[erg]=1|Polite[abs]=Infm</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>ADL ADL NOR:HURA</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Person[abs]=3</td><td><em></em></td></tr>
   <tr><td>ADL ADL NOR:HURA|HIT:NO</td><td>=&gt;</td><td>AUX</td><td>Gender=Fem|Number[abs]=Sing|Person[abs]=3</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>ADL ADL NOR:HURA|HIT:TO</td><td>=&gt;</td><td>AUX</td><td>Gender=Masc|Number[abs]=Sing|Person[abs]=3</td><td><em></em></td></tr>
@@ -1831,17 +1832,17 @@ Tagset <tt>eu::conll</tt>, total 5161 tags.
   <tr style="background:lightgray"><td>ADL ADL NOR:HURA|NORI:HAIEI</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[dat]=Plur|Person[abs]=3|Person[dat]=3</td><td><em></em></td></tr>
   <tr><td>ADL ADL NOR:HURA|NORI:HARI</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[dat]=Sing|Person[abs]=3|Person[dat]=3</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>ADL ADL NOR:HURA|NORI:HARI|HIT:NO</td><td>=&gt;</td><td>AUX</td><td>Gender=Fem|Number[abs]=Sing|Number[dat]=Sing|Person[abs]=3|Person[dat]=3</td><td><em></em></td></tr>
-  <tr><td>ADL ADL NOR:HURA|NORI:HIRI-TO</td><td>=&gt;</td><td>AUX</td><td>Gender[dat]=Masc|Number[abs]=Sing|Number[dat]=Sing|Person[abs]=3|Person[dat]=2|Polite[dat]=Inf</td><td><em></em></td></tr>
+  <tr><td>ADL ADL NOR:HURA|NORI:HIRI-TO</td><td>=&gt;</td><td>AUX</td><td>Gender[dat]=Masc|Number[abs]=Sing|Number[dat]=Sing|Person[abs]=3|Person[dat]=2|Polite[dat]=Infm</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>ADL ADL NOR:HURA|NORI:NIRI</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[dat]=Sing|Person[abs]=3|Person[dat]=1</td><td><em></em></td></tr>
   <tr><td>ADL ADL NOR:HURA|NORI:NIRI|HIT:NO</td><td>=&gt;</td><td>AUX</td><td>Gender=Fem|Number[abs]=Sing|Number[dat]=Sing|Person[abs]=3|Person[dat]=1</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>ADL ADL NOR:HURA|NORI:ZUEI</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[dat]=Plur|Person[abs]=3|Person[dat]=2</td><td><em></em></td></tr>
-  <tr><td>ADL ADL NOR:HURA|NORI:ZURI</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[dat]=Sing|Person[abs]=3|Person[dat]=2|Polite[dat]=Pol</td><td><em></em></td></tr>
+  <tr><td>ADL ADL NOR:HURA|NORI:ZURI</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[dat]=Sing|Person[abs]=3|Person[dat]=2|Polite[dat]=Form</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>ADL ADL NOR:HURA|NORK:GUK</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[erg]=Plur|Person[abs]=3|Person[erg]=1</td><td><em></em></td></tr>
   <tr><td>ADL ADL NOR:HURA|NORK:GUK|HIT:TO</td><td>=&gt;</td><td>AUX</td><td>Gender=Masc|Number[abs]=Sing|Number[erg]=Plur|Person[abs]=3|Person[erg]=1</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>ADL ADL NOR:HURA|NORK:GUK|NORI:HAIEI</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[dat]=Plur|Number[erg]=Plur|Person[abs]=3|Person[dat]=3|Person[erg]=1</td><td><em></em></td></tr>
   <tr><td>ADL ADL NOR:HURA|NORK:GUK|NORI:HARI</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[dat]=Sing|Number[erg]=Plur|Person[abs]=3|Person[dat]=3|Person[erg]=1</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>ADL ADL NOR:HURA|NORK:GUK|NORI:ZUEI</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[dat]=Plur|Number[erg]=Plur|Person[abs]=3|Person[dat]=2|Person[erg]=1</td><td><em></em></td></tr>
-  <tr><td>ADL ADL NOR:HURA|NORK:GUK|NORI:ZURI</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[dat]=Sing|Number[erg]=Plur|Person[abs]=3|Person[dat]=2|Person[erg]=1|Polite[dat]=Pol</td><td><em></em></td></tr>
+  <tr><td>ADL ADL NOR:HURA|NORK:GUK|NORI:ZURI</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[dat]=Sing|Number[erg]=Plur|Person[abs]=3|Person[dat]=2|Person[erg]=1|Polite[dat]=Form</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>ADL ADL NOR:HURA|NORK:HAIEK-K</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[erg]=Plur|Person[abs]=3|Person[erg]=3</td><td><em></em></td></tr>
   <tr><td>ADL ADL NOR:HURA|NORK:HAIEK-K|HIT:TO</td><td>=&gt;</td><td>AUX</td><td>Gender=Masc|Number[abs]=Sing|Number[erg]=Plur|Person[abs]=3|Person[erg]=3</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>ADL ADL NOR:HURA|NORK:HAIEK-K|NORI:GURI</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[dat]=Plur|Number[erg]=Plur|Person[abs]=3|Person[dat]=1|Person[erg]=3</td><td><em></em></td></tr>
@@ -1849,7 +1850,7 @@ Tagset <tt>eu::conll</tt>, total 5161 tags.
   <tr style="background:lightgray"><td>ADL ADL NOR:HURA|NORK:HAIEK-K|NORI:HARI</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[dat]=Sing|Number[erg]=Plur|Person[abs]=3|Person[dat]=3|Person[erg]=3</td><td><em></em></td></tr>
   <tr><td>ADL ADL NOR:HURA|NORK:HAIEK-K|NORI:NIRI</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[dat]=Sing|Number[erg]=Plur|Person[abs]=3|Person[dat]=1|Person[erg]=3</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>ADL ADL NOR:HURA|NORK:HAIEK-K|NORI:NIRI|HIT:NO</td><td>=&gt;</td><td>AUX</td><td>Gender=Fem|Number[abs]=Sing|Number[dat]=Sing|Number[erg]=Plur|Person[abs]=3|Person[dat]=1|Person[erg]=3</td><td><em></em></td></tr>
-  <tr><td>ADL ADL NOR:HURA|NORK:HAIEK-K|NORI:ZURI</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[dat]=Sing|Number[erg]=Plur|Person[abs]=3|Person[dat]=2|Person[erg]=3|Polite[dat]=Pol</td><td><em></em></td></tr>
+  <tr><td>ADL ADL NOR:HURA|NORK:HAIEK-K|NORI:ZURI</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[dat]=Sing|Number[erg]=Plur|Person[abs]=3|Person[dat]=2|Person[erg]=3|Polite[dat]=Form</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>ADL ADL NOR:HURA|NORK:HARK</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=3</td><td><em></em></td></tr>
   <tr><td>ADL ADL NOR:HURA|NORK:HARK|HIT:NO</td><td>=&gt;</td><td>AUX</td><td>Gender=Fem|Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=3</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>ADL ADL NOR:HURA|NORK:HARK|HIT:TO</td><td>=&gt;</td><td>AUX</td><td>Gender=Masc|Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=3</td><td><em></em></td></tr>
@@ -1858,47 +1859,47 @@ Tagset <tt>eu::conll</tt>, total 5161 tags.
   <tr><td>ADL ADL NOR:HURA|NORK:HARK|NORI:HAIEI|HIT:NO</td><td>=&gt;</td><td>AUX</td><td>Gender=Fem|Number[abs]=Sing|Number[dat]=Plur|Number[erg]=Sing|Person[abs]=3|Person[dat]=3|Person[erg]=3</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>ADL ADL NOR:HURA|NORK:HARK|NORI:HARI</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[dat]=Sing|Number[erg]=Sing|Person[abs]=3|Person[dat]=3|Person[erg]=3</td><td><em></em></td></tr>
   <tr><td>ADL ADL NOR:HURA|NORK:HARK|NORI:HARI|HIT:NO</td><td>=&gt;</td><td>AUX</td><td>Gender=Fem|Number[abs]=Sing|Number[dat]=Sing|Number[erg]=Sing|Person[abs]=3|Person[dat]=3|Person[erg]=3</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>ADL ADL NOR:HURA|NORK:HARK|NORI:HIRI-NO</td><td>=&gt;</td><td>AUX</td><td>Gender[dat]=Fem|Number[abs]=Sing|Number[dat]=Sing|Number[erg]=Sing|Person[abs]=3|Person[dat]=2|Person[erg]=3|Polite[dat]=Inf</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>ADL ADL NOR:HURA|NORK:HARK|NORI:HIRI-NO</td><td>=&gt;</td><td>AUX</td><td>Gender[dat]=Fem|Number[abs]=Sing|Number[dat]=Sing|Number[erg]=Sing|Person[abs]=3|Person[dat]=2|Person[erg]=3|Polite[dat]=Infm</td><td><em></em></td></tr>
   <tr><td>ADL ADL NOR:HURA|NORK:HARK|NORI:NIRI</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[dat]=Sing|Number[erg]=Sing|Person[abs]=3|Person[dat]=1|Person[erg]=3</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>ADL ADL NOR:HURA|NORK:HARK|NORI:ZUEI</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[dat]=Plur|Number[erg]=Sing|Person[abs]=3|Person[dat]=2|Person[erg]=3</td><td><em></em></td></tr>
-  <tr><td>ADL ADL NOR:HURA|NORK:HARK|NORI:ZURI</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[dat]=Sing|Number[erg]=Sing|Person[abs]=3|Person[dat]=2|Person[erg]=3|Polite[dat]=Pol</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>ADL ADL NOR:HURA|NORK:HIK</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=2|Polite[erg]=Inf</td><td><em></em></td></tr>
-  <tr><td>ADL ADL NOR:HURA|NORK:HIK-NO</td><td>=&gt;</td><td>AUX</td><td>Gender[erg]=Fem|Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=2|Polite[erg]=Inf</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>ADL ADL NOR:HURA|NORK:HIK-NO|NORI:HARI</td><td>=&gt;</td><td>AUX</td><td>Gender[erg]=Fem|Number[abs]=Sing|Number[dat]=Sing|Number[erg]=Sing|Person[abs]=3|Person[dat]=3|Person[erg]=2|Polite[erg]=Inf</td><td><em></em></td></tr>
-  <tr><td>ADL ADL NOR:HURA|NORK:HIK-TO</td><td>=&gt;</td><td>AUX</td><td>Gender[erg]=Masc|Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=2|Polite[erg]=Inf</td><td><em></em></td></tr>
+  <tr><td>ADL ADL NOR:HURA|NORK:HARK|NORI:ZURI</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[dat]=Sing|Number[erg]=Sing|Person[abs]=3|Person[dat]=2|Person[erg]=3|Polite[dat]=Form</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>ADL ADL NOR:HURA|NORK:HIK</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=2|Polite[erg]=Infm</td><td><em></em></td></tr>
+  <tr><td>ADL ADL NOR:HURA|NORK:HIK-NO</td><td>=&gt;</td><td>AUX</td><td>Gender[erg]=Fem|Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=2|Polite[erg]=Infm</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>ADL ADL NOR:HURA|NORK:HIK-NO|NORI:HARI</td><td>=&gt;</td><td>AUX</td><td>Gender[erg]=Fem|Number[abs]=Sing|Number[dat]=Sing|Number[erg]=Sing|Person[abs]=3|Person[dat]=3|Person[erg]=2|Polite[erg]=Infm</td><td><em></em></td></tr>
+  <tr><td>ADL ADL NOR:HURA|NORK:HIK-TO</td><td>=&gt;</td><td>AUX</td><td>Gender[erg]=Masc|Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=2|Polite[erg]=Infm</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>ADL ADL NOR:HURA|NORK:NIK</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=1</td><td><em></em></td></tr>
   <tr><td>ADL ADL NOR:HURA|NORK:NIK|HIT:NO</td><td>=&gt;</td><td>AUX</td><td>Gender=Fem|Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=1</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>ADL ADL NOR:HURA|NORK:NIK|HIT:TO</td><td>=&gt;</td><td>AUX</td><td>Gender=Masc|Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=1</td><td><em></em></td></tr>
   <tr><td>ADL ADL NOR:HURA|NORK:NIK|NORI:HAIEI</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[dat]=Plur|Number[erg]=Sing|Person[abs]=3|Person[dat]=3|Person[erg]=1</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>ADL ADL NOR:HURA|NORK:NIK|NORI:HARI</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[dat]=Sing|Number[erg]=Sing|Person[abs]=3|Person[dat]=3|Person[erg]=1</td><td><em></em></td></tr>
-  <tr><td>ADL ADL NOR:HURA|NORK:NIK|NORI:HIRI-TO</td><td>=&gt;</td><td>AUX</td><td>Gender[dat]=Masc|Number[abs]=Sing|Number[dat]=Sing|Number[erg]=Sing|Person[abs]=3|Person[dat]=2|Person[erg]=1|Polite[dat]=Inf</td><td><em></em></td></tr>
+  <tr><td>ADL ADL NOR:HURA|NORK:NIK|NORI:HIRI-TO</td><td>=&gt;</td><td>AUX</td><td>Gender[dat]=Masc|Number[abs]=Sing|Number[dat]=Sing|Number[erg]=Sing|Person[abs]=3|Person[dat]=2|Person[erg]=1|Polite[dat]=Infm</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>ADL ADL NOR:HURA|NORK:NIK|NORI:ZUEI</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[dat]=Plur|Number[erg]=Sing|Person[abs]=3|Person[dat]=2|Person[erg]=1</td><td><em></em></td></tr>
-  <tr><td>ADL ADL NOR:HURA|NORK:NIK|NORI:ZURI</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[dat]=Sing|Number[erg]=Sing|Person[abs]=3|Person[dat]=2|Person[erg]=1|Polite[dat]=Pol</td><td><em></em></td></tr>
+  <tr><td>ADL ADL NOR:HURA|NORK:NIK|NORI:ZURI</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[dat]=Sing|Number[erg]=Sing|Person[abs]=3|Person[dat]=2|Person[erg]=1|Polite[dat]=Form</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>ADL ADL NOR:HURA|NORK:ZUEK-K</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[erg]=Plur|Person[abs]=3|Person[erg]=2</td><td><em></em></td></tr>
   <tr><td>ADL ADL NOR:HURA|NORK:ZUEK-K|NORI:GURI</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[dat]=Plur|Number[erg]=Plur|Person[abs]=3|Person[dat]=1|Person[erg]=2</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>ADL ADL NOR:HURA|NORK:ZUEK-K|NORI:NIRI</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[dat]=Sing|Number[erg]=Plur|Person[abs]=3|Person[dat]=1|Person[erg]=2</td><td><em></em></td></tr>
-  <tr><td>ADL ADL NOR:HURA|NORK:ZUK</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=2|Polite[erg]=Pol</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>ADL ADL NOR:HURA|NORK:ZUK|NORI:GURI</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[dat]=Plur|Number[erg]=Sing|Person[abs]=3|Person[dat]=1|Person[erg]=2|Polite[erg]=Pol</td><td><em></em></td></tr>
-  <tr><td>ADL ADL NOR:HURA|NORK:ZUK|NORI:HAIEI</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[dat]=Plur|Number[erg]=Sing|Person[abs]=3|Person[dat]=3|Person[erg]=2|Polite[erg]=Pol</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>ADL ADL NOR:HURA|NORK:ZUK|NORI:HARI</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[dat]=Sing|Number[erg]=Sing|Person[abs]=3|Person[dat]=3|Person[erg]=2|Polite[erg]=Pol</td><td><em></em></td></tr>
-  <tr><td>ADL ADL NOR:HURA|NORK:ZUK|NORI:NIRI</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[dat]=Sing|Number[erg]=Sing|Person[abs]=3|Person[dat]=1|Person[erg]=2|Polite[erg]=Pol</td><td><em></em></td></tr>
+  <tr><td>ADL ADL NOR:HURA|NORK:ZUK</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=2|Polite[erg]=Form</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>ADL ADL NOR:HURA|NORK:ZUK|NORI:GURI</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[dat]=Plur|Number[erg]=Sing|Person[abs]=3|Person[dat]=1|Person[erg]=2|Polite[erg]=Form</td><td><em></em></td></tr>
+  <tr><td>ADL ADL NOR:HURA|NORK:ZUK|NORI:HAIEI</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[dat]=Plur|Number[erg]=Sing|Person[abs]=3|Person[dat]=3|Person[erg]=2|Polite[erg]=Form</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>ADL ADL NOR:HURA|NORK:ZUK|NORI:HARI</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[dat]=Sing|Number[erg]=Sing|Person[abs]=3|Person[dat]=3|Person[erg]=2|Polite[erg]=Form</td><td><em></em></td></tr>
+  <tr><td>ADL ADL NOR:HURA|NORK:ZUK|NORI:NIRI</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[dat]=Sing|Number[erg]=Sing|Person[abs]=3|Person[dat]=1|Person[erg]=2|Polite[erg]=Form</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>ADL ADL NOR:NI</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Person[abs]=1</td><td><em></em></td></tr>
   <tr><td>ADL ADL NOR:NI|HIT:NO</td><td>=&gt;</td><td>AUX</td><td>Gender=Fem|Number[abs]=Sing|Person[abs]=1</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>ADL ADL NOR:NI|NORI:HARI</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[dat]=Sing|Person[abs]=1|Person[dat]=3</td><td><em></em></td></tr>
   <tr><td>ADL ADL NOR:NI|NORK:HAIEK-K</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[erg]=Plur|Person[abs]=1|Person[erg]=3</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>ADL ADL NOR:NI|NORK:HARK</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[erg]=Sing|Person[abs]=1|Person[erg]=3</td><td><em></em></td></tr>
-  <tr><td>ADL ADL NOR:NI|NORK:HIK-NO</td><td>=&gt;</td><td>AUX</td><td>Gender[erg]=Fem|Number[abs]=Sing|Number[erg]=Sing|Person[abs]=1|Person[erg]=2|Polite[erg]=Inf</td><td><em></em></td></tr>
+  <tr><td>ADL ADL NOR:NI|NORK:HIK-NO</td><td>=&gt;</td><td>AUX</td><td>Gender[erg]=Fem|Number[abs]=Sing|Number[erg]=Sing|Person[abs]=1|Person[erg]=2|Polite[erg]=Infm</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>ADL ADL NOR:NI|NORK:ZUEK-K</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[erg]=Plur|Person[abs]=1|Person[erg]=2</td><td><em></em></td></tr>
-  <tr><td>ADL ADL NOR:NI|NORK:ZUK</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[erg]=Sing|Person[abs]=1|Person[erg]=2|Polite[erg]=Pol</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>ADL ADL NOR:ZU</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Person[abs]=2|Polite[abs]=Pol</td><td><em></em></td></tr>
+  <tr><td>ADL ADL NOR:NI|NORK:ZUK</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[erg]=Sing|Person[abs]=1|Person[erg]=2|Polite[erg]=Form</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>ADL ADL NOR:ZU</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Person[abs]=2|Polite[abs]=Form</td><td><em></em></td></tr>
   <tr><td>ADL ADL NOR:ZUEK</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Plur|Person[abs]=2</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>ADL ADL NOR:ZUEK|NORK:GUK</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Plur|Number[erg]=Plur|Person[abs]=2|Person[erg]=1</td><td><em></em></td></tr>
   <tr><td>ADL ADL NOR:ZUEK|NORK:HARK</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Plur|Number[erg]=Sing|Person[abs]=2|Person[erg]=3</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>ADL ADL NOR:ZU|NORI:NIRI</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[dat]=Sing|Person[abs]=2|Person[dat]=1|Polite[abs]=Pol</td><td><em></em></td></tr>
-  <tr><td>ADL ADL NOR:ZU|NORK:GUK</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[erg]=Plur|Person[abs]=2|Person[erg]=1|Polite[abs]=Pol</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>ADL ADL NOR:ZU|NORK:HAIEK-K</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[erg]=Plur|Person[abs]=2|Person[erg]=3|Polite[abs]=Pol</td><td><em></em></td></tr>
-  <tr><td>ADL ADL NOR:ZU|NORK:HARK</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[erg]=Sing|Person[abs]=2|Person[erg]=3|Polite[abs]=Pol</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>ADL ADL NOR:ZU|NORK:NIK</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[erg]=Sing|Person[abs]=2|Person[erg]=1|Polite[abs]=Pol</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>ADL ADL NOR:ZU|NORI:NIRI</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[dat]=Sing|Person[abs]=2|Person[dat]=1|Polite[abs]=Form</td><td><em></em></td></tr>
+  <tr><td>ADL ADL NOR:ZU|NORK:GUK</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[erg]=Plur|Person[abs]=2|Person[erg]=1|Polite[abs]=Form</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>ADL ADL NOR:ZU|NORK:HAIEK-K</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[erg]=Plur|Person[abs]=2|Person[erg]=3|Polite[abs]=Form</td><td><em></em></td></tr>
+  <tr><td>ADL ADL NOR:ZU|NORK:HARK</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[erg]=Sing|Person[abs]=2|Person[erg]=3|Polite[abs]=Form</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>ADL ADL NOR:ZU|NORK:NIK</td><td>=&gt;</td><td>AUX</td><td>Number[abs]=Sing|Number[erg]=Sing|Person[abs]=2|Person[erg]=1|Polite[abs]=Form</td><td><em></em></td></tr>
   <tr><td>ADL ADL_IZEELI KAS:ABL|NUM:P|MUG:M|MDN:A1|NOR:HURA|NORK:HAIEK-K</td><td>=&gt;</td><td>AUX</td><td>Case=Abl|Number=Plur|Number[abs]=Sing|Number[erg]=Plur|Person[abs]=3|Person[erg]=3</td><td><em>dutenenetatik</em></td></tr>
   <tr style="background:lightgray"><td>ADL ADL_IZEELI KAS:ABS|MUG:MG|MDN:A1|NOR:HURA|NORK:HAIEK-K</td><td>=&gt;</td><td>AUX</td><td>Case=Abs|Number[abs]=Sing|Number[erg]=Plur|Person[abs]=3|Person[erg]=3</td><td><em>dutenen</em></td></tr>
   <tr><td>ADL ADL_IZEELI KAS:ABS|NUM:P|MUG:M|MDN:A1|NOR:GU|NORK:HAIEK-K</td><td>=&gt;</td><td>AUX</td><td>Case=Abs|Number=Plur|Number[abs]=Plur|Number[erg]=Plur|Person[abs]=1|Person[erg]=3</td><td><em>gaituztenak</em></td></tr>
@@ -1993,41 +1994,41 @@ Tagset <tt>eu::conll</tt>, total 5161 tags.
   <tr style="background:lightgray"><td>ADL ADL_IZEELI KAS:SOZ|NUM:P|MUG:M|MDN:B1|NOR:HAIEK</td><td>=&gt;</td><td>AUX</td><td>Case=Com|Number=Plur|Number[abs]=Plur|Person[abs]=3</td><td><em>zirenekin</em></td></tr>
   <tr><td>ADL ADL_IZEELI KAS:SOZ|NUM:P|MUG:M|MDN:B1|NOR:HAIEK|NORK:HAIEK-K|NORI:HARI</td><td>=&gt;</td><td>AUX</td><td>Case=Com|Number=Plur|Number[abs]=Plur|Number[dat]=Sing|Number[erg]=Plur|Person[abs]=3|Person[dat]=3|Person[erg]=3</td><td><em>zizkiotenekin</em></td></tr>
   <tr style="background:lightgray"><td>ADL ADL_IZEELI KAS:SOZ|NUM:S|MUG:M|MDN:A1|NOR:HURA|NORK:NIK</td><td>=&gt;</td><td>AUX</td><td>Case=Com|Number=Sing|Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=1</td><td><em>dudanarekin</em></td></tr>
-  <tr><td>ADL ADL_IZEELI KAS:SOZ|NUM:S|MUG:M|MDN:A1|NOR:HURA|NORK:ZUK</td><td>=&gt;</td><td>AUX</td><td>Case=Com|Number=Sing|Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=2|Polite[erg]=Pol</td><td><em>duzunarekin</em></td></tr>
+  <tr><td>ADL ADL_IZEELI KAS:SOZ|NUM:S|MUG:M|MDN:A1|NOR:HURA|NORK:ZUK</td><td>=&gt;</td><td>AUX</td><td>Case=Com|Number=Sing|Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=2|Polite[erg]=Form</td><td><em>duzunarekin</em></td></tr>
   <tr style="background:lightgray"><td>ADL ADL_IZEELI KAS:SOZ|NUM:S|MUG:M|MDN:A1|NOR:NI|NORK:HARK</td><td>=&gt;</td><td>AUX</td><td>Case=Com|Number=Sing|Number[abs]=Sing|Number[erg]=Sing|Person[abs]=1|Person[erg]=3</td><td><em>nauenarekin</em></td></tr>
   <tr><td>ADL ADL_IZEELI KAS:SOZ|NUM:S|MUG:M|MDN:B1|NOR:HURA</td><td>=&gt;</td><td>AUX</td><td>Case=Com|Number=Sing|Number[abs]=Sing|Person[abs]=3</td><td><em>zenarekin</em></td></tr>
   <tr style="background:lightgray"><td>ADL ADL_IZEELI KAS:SOZ|NUM:S|MUG:M|MDN:B1|NOR:HURA|NORK:HARK</td><td>=&gt;</td><td>AUX</td><td>Case=Com|Number=Sing|Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=3</td><td><em>zuenarekin</em></td></tr>
   <tr><td>ADT ADT ASP:PNT|ERL:BALD|MDN:A1|NOR:HAIEK</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Plur|Person[abs]=3|VerbForm=Fin</td><td><em>badoaz, badaude, badira</em></td></tr>
   <tr style="background:lightgray"><td>ADT ADT ASP:PNT|ERL:BALD|MDN:A1|NOR:HAIEK|NORK:HARK</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Plur|Number[erg]=Sing|Person[abs]=3|Person[erg]=3|VerbForm=Fin</td><td><em>baditu</em></td></tr>
   <tr><td>ADT ADT ASP:PNT|ERL:BALD|MDN:A1|NOR:HAIEK|NORK:NIK</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Plur|Number[erg]=Sing|Person[abs]=3|Person[erg]=1|VerbForm=Fin</td><td><em>baditut</em></td></tr>
-  <tr style="background:lightgray"><td>ADT ADT ASP:PNT|ERL:BALD|MDN:A1|NOR:HAIEK|NORK:ZUK</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Plur|Number[erg]=Sing|Person[abs]=3|Person[erg]=2|Polite[erg]=Pol|VerbForm=Fin</td><td><em>badituzu</em></td></tr>
+  <tr style="background:lightgray"><td>ADT ADT ASP:PNT|ERL:BALD|MDN:A1|NOR:HAIEK|NORK:ZUK</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Plur|Number[erg]=Sing|Person[abs]=3|Person[erg]=2|Polite[erg]=Form|VerbForm=Fin</td><td><em>badituzu</em></td></tr>
   <tr><td>ADT ADT ASP:PNT|ERL:BALD|MDN:A1|NOR:HURA</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Person[abs]=3|VerbForm=Fin</td><td><em>bada, badago, badoa</em></td></tr>
   <tr style="background:lightgray"><td>ADT ADT ASP:PNT|ERL:BALD|MDN:A1|NOR:HURA|NORK:GUK</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Number[erg]=Plur|Person[abs]=3|Person[erg]=1|VerbForm=Fin</td><td><em>badugu</em></td></tr>
   <tr><td>ADT ADT ASP:PNT|ERL:BALD|MDN:A1|NOR:HURA|NORK:HAIEK-K</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Number[erg]=Plur|Person[abs]=3|Person[erg]=3|VerbForm=Fin</td><td><em>badute</em></td></tr>
   <tr style="background:lightgray"><td>ADT ADT ASP:PNT|ERL:BALD|MDN:A1|NOR:HURA|NORK:HARK</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=3|VerbForm=Fin</td><td><em>badu, badarama</em></td></tr>
   <tr><td>ADT ADT ASP:PNT|ERL:BALD|MDN:A1|NOR:HURA|NORK:ZUEK-K</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Number[erg]=Plur|Person[abs]=3|Person[erg]=2|VerbForm=Fin</td><td><em>baduzue</em></td></tr>
-  <tr style="background:lightgray"><td>ADT ADT ASP:PNT|ERL:BALD|MDN:A1|NOR:HURA|NORK:ZUK</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=2|Polite[erg]=Pol|VerbForm=Fin</td><td><em>baduzu, badakizu</em></td></tr>
+  <tr style="background:lightgray"><td>ADT ADT ASP:PNT|ERL:BALD|MDN:A1|NOR:HURA|NORK:ZUK</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=2|Polite[erg]=Form|VerbForm=Fin</td><td><em>baduzu, badakizu</em></td></tr>
   <tr><td>ADT ADT ASP:PNT|ERL:BALD|MDN:A1|NOR:NI</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Person[abs]=1|VerbForm=Fin</td><td><em>banago, banoa</em></td></tr>
-  <tr style="background:lightgray"><td>ADT ADT ASP:PNT|ERL:BALD|MDN:A1|NOR:ZU</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Person[abs]=2|Polite[abs]=Pol|VerbForm=Fin</td><td><em>bazara, bazabiltza</em></td></tr>
+  <tr style="background:lightgray"><td>ADT ADT ASP:PNT|ERL:BALD|MDN:A1|NOR:ZU</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Person[abs]=2|Polite[abs]=Form|VerbForm=Fin</td><td><em>bazara, bazabiltza</em></td></tr>
   <tr><td>ADT ADT ASP:PNT|ERL:BALD|MDN:A4|NOR:HURA|NORK:NIK</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=1|VerbForm=Fin</td><td><em>Badakit</em></td></tr>
   <tr style="background:lightgray"><td>ADT ADT ASP:PNT|ERL:BALD|MDN:B1|NOR:HAIEK</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Plur|Person[abs]=3|VerbForm=Fin</td><td><em>baziren</em></td></tr>
   <tr><td>ADT ADT ASP:PNT|ERL:BALD|MDN:B1|NOR:HAIEK|NORK:HARK</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Plur|Number[erg]=Sing|Person[abs]=3|Person[erg]=3|VerbForm=Fin</td><td><em>Bazituen</em></td></tr>
   <tr style="background:lightgray"><td>ADT ADT ASP:PNT|ERL:BALD|MDN:B1|NOR:HURA</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Person[abs]=3|VerbForm=Fin</td><td><em>bazihoan, bazen, bazegoen</em></td></tr>
   <tr><td>ADT ADT ASP:PNT|ERL:BALD|MDN:B1|NOR:HURA|NORK:HAIEK-K</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Number[erg]=Plur|Person[abs]=3|Person[erg]=3|VerbForm=Fin</td><td><em>bazekiten</em></td></tr>
   <tr style="background:lightgray"><td>ADT ADT ASP:PNT|ERL:BALD|MDN:B1|NOR:HURA|NORK:HARK</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=3|VerbForm=Fin</td><td><em>bazekien</em></td></tr>
-  <tr><td>ADT ADT ASP:PNT|ERL:BALD|MDN:B1|NOR:HURA|NORK:HIK</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=2|Polite[erg]=Inf|VerbForm=Fin</td><td><em>baheukan</em></td></tr>
+  <tr><td>ADT ADT ASP:PNT|ERL:BALD|MDN:B1|NOR:HURA|NORK:HIK</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=2|Polite[erg]=Infm|VerbForm=Fin</td><td><em>baheukan</em></td></tr>
   <tr style="background:lightgray"><td>ADT ADT ASP:PNT|ERL:BALD|MDN:B4|NOR:GU</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Plur|Person[abs]=1|VerbForm=Fin</td><td><em>bagina</em></td></tr>
   <tr><td>ADT ADT ASP:PNT|ERL:BALD|MDN:B4|NOR:HAIEK|NORK:NIK</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Plur|Number[erg]=Sing|Person[abs]=3|Person[erg]=1|VerbForm=Fin</td><td><em>banitu</em></td></tr>
   <tr style="background:lightgray"><td>ADT ADT ASP:PNT|ERL:BALD|MDN:B4|NOR:HURA</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Person[abs]=3|VerbForm=Fin</td><td><em>balitz, balego</em></td></tr>
   <tr><td>ADT ADT ASP:PNT|ERL:BALD|MDN:B4|NOR:HURA|NORK:HARK</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=3|VerbForm=Fin</td><td><em>balu</em></td></tr>
-  <tr style="background:lightgray"><td>ADT ADT ASP:PNT|ERL:BALD|MDN:B4|NOR:ZU</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Person[abs]=2|Polite[abs]=Pol|VerbForm=Fin</td><td><em>bazina</em></td></tr>
+  <tr style="background:lightgray"><td>ADT ADT ASP:PNT|ERL:BALD|MDN:B4|NOR:ZU</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Person[abs]=2|Polite[abs]=Form|VerbForm=Fin</td><td><em>bazina</em></td></tr>
   <tr><td>ADT ADT ASP:PNT|ERL:BALD|MDN:B6|NOR:HURA</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Person[abs]=3|VerbForm=Fin</td><td><em>balego</em></td></tr>
   <tr style="background:lightgray"><td>ADT ADT ASP:PNT|ERL:BALD|MDN:B7|NOR:HURA</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Person[abs]=3|VerbForm=Fin</td><td><em>baliteke</em></td></tr>
   <tr><td>ADT ADT ASP:PNT|ERL:DENB|MDN:A1|NOR:GU</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Plur|Person[abs]=1|VerbForm=Fin</td><td><em>Gaudenetik</em></td></tr>
   <tr style="background:lightgray"><td>ADT ADT ASP:PNT|ERL:DENB|MDN:A1|NOR:HAIEK</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Plur|Person[abs]=3|VerbForm=Fin</td><td><em>direnean, daudenean, daudenetik</em></td></tr>
   <tr><td>ADT ADT ASP:PNT|ERL:DENB|MDN:A1|NOR:HAIEK|NORK:HAIEK-K</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Plur|Number[erg]=Plur|Person[abs]=3|Person[erg]=3|VerbForm=Fin</td><td><em>dituztenean, dauzkatenean</em></td></tr>
   <tr style="background:lightgray"><td>ADT ADT ASP:PNT|ERL:DENB|MDN:A1|NOR:HAIEK|NORK:NIK</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Plur|Number[erg]=Sing|Person[abs]=3|Person[erg]=1|VerbForm=Fin</td><td><em>ditudanean</em></td></tr>
-  <tr><td>ADT ADT ASP:PNT|ERL:DENB|MDN:A1|NOR:HAIEK|NORK:ZUK</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Plur|Number[erg]=Sing|Person[abs]=3|Person[erg]=2|Polite[erg]=Pol|VerbForm=Fin</td><td><em>daramatzazunean</em></td></tr>
+  <tr><td>ADT ADT ASP:PNT|ERL:DENB|MDN:A1|NOR:HAIEK|NORK:ZUK</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Plur|Number[erg]=Sing|Person[abs]=3|Person[erg]=2|Polite[erg]=Form|VerbForm=Fin</td><td><em>daramatzazunean</em></td></tr>
   <tr style="background:lightgray"><td>ADT ADT ASP:PNT|ERL:DENB|MDN:A1|NOR:HURA</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Person[abs]=3|VerbForm=Fin</td><td><em>dagoenean, denean, Dagoeneko, denetik</em></td></tr>
   <tr><td>ADT ADT ASP:PNT|ERL:DENB|MDN:A1|NOR:HURA|NORK:GUK</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Number[erg]=Plur|Person[abs]=3|Person[erg]=1|VerbForm=Fin</td><td><em>dugunean</em></td></tr>
   <tr style="background:lightgray"><td>ADT ADT ASP:PNT|ERL:DENB|MDN:A1|NOR:HURA|NORK:HARK</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=3|VerbForm=Fin</td><td><em>duenean</em></td></tr>
@@ -2047,14 +2048,14 @@ Tagset <tt>eu::conll</tt>, total 5161 tags.
   <tr style="background:lightgray"><td>ADT ADT ASP:PNT|ERL:ERLT|MDN:A1|NOR:HURA|NORI:HAIEI</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Number[dat]=Plur|Person[abs]=3|Person[dat]=3|VerbForm=Fin</td><td><em>dagokien</em></td></tr>
   <tr><td>ADT ADT ASP:PNT|ERL:ERLT|MDN:A1|NOR:HURA|NORI:HARI</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Number[dat]=Sing|Person[abs]=3|Person[dat]=3|VerbForm=Fin</td><td><em>dagokion</em></td></tr>
   <tr style="background:lightgray"><td>ADT ADT ASP:PNT|ERL:ERLT|MDN:A1|NOR:HURA|NORI:NIRI</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Number[dat]=Sing|Person[abs]=3|Person[dat]=1|VerbForm=Fin</td><td><em>dagokidan</em></td></tr>
-  <tr><td>ADT ADT ASP:PNT|ERL:ERLT|MDN:A1|NOR:HURA|NORI:ZURI</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Number[dat]=Sing|Person[abs]=3|Person[dat]=2|Polite[dat]=Pol|VerbForm=Fin</td><td><em>dagokizun</em></td></tr>
+  <tr><td>ADT ADT ASP:PNT|ERL:ERLT|MDN:A1|NOR:HURA|NORI:ZURI</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Number[dat]=Sing|Person[abs]=3|Person[dat]=2|Polite[dat]=Form|VerbForm=Fin</td><td><em>dagokizun</em></td></tr>
   <tr style="background:lightgray"><td>ADT ADT ASP:PNT|ERL:ERLT|MDN:A1|NOR:HURA|NORK:GUK</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Number[erg]=Plur|Person[abs]=3|Person[erg]=1|VerbForm=Fin</td><td><em>dugun, daukagun, dakigun</em></td></tr>
   <tr><td>ADT ADT ASP:PNT|ERL:ERLT|MDN:A1|NOR:HURA|NORK:HAIEK-K</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Number[erg]=Plur|Person[abs]=3|Person[erg]=3|VerbForm=Fin</td><td><em>duten, dioten, daukaten, diharduten, darabilten</em></td></tr>
   <tr style="background:lightgray"><td>ADT ADT ASP:PNT|ERL:ERLT|MDN:A1|NOR:HURA|NORK:HARK</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=3|VerbForm=Fin</td><td><em>duen, daraman, daukan, deraman, dirudien</em></td></tr>
   <tr><td>ADT ADT ASP:PNT|ERL:ERLT|MDN:A1|NOR:HURA|NORK:HARK|NORI:HARI</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Number[dat]=Sing|Number[erg]=Sing|Person[abs]=3|Person[dat]=3|Person[erg]=3|VerbForm=Fin</td><td><em>dion, deritzon, deritzan</em></td></tr>
-  <tr style="background:lightgray"><td>ADT ADT ASP:PNT|ERL:ERLT|MDN:A1|NOR:HURA|NORK:HIK-NO</td><td>=&gt;</td><td>VERB</td><td>Gender[erg]=Fem|Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=2|Polite[erg]=Inf|VerbForm=Fin</td><td><em>daukanan</em></td></tr>
+  <tr style="background:lightgray"><td>ADT ADT ASP:PNT|ERL:ERLT|MDN:A1|NOR:HURA|NORK:HIK-NO</td><td>=&gt;</td><td>VERB</td><td>Gender[erg]=Fem|Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=2|Polite[erg]=Infm|VerbForm=Fin</td><td><em>daukanan</em></td></tr>
   <tr><td>ADT ADT ASP:PNT|ERL:ERLT|MDN:A1|NOR:HURA|NORK:NIK</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=1|VerbForm=Fin</td><td><em>dudan, Dakidan</em></td></tr>
-  <tr style="background:lightgray"><td>ADT ADT ASP:PNT|ERL:ERLT|MDN:A1|NOR:HURA|NORK:ZUK</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=2|Polite[erg]=Pol|VerbForm=Fin</td><td><em>dakizun</em></td></tr>
+  <tr style="background:lightgray"><td>ADT ADT ASP:PNT|ERL:ERLT|MDN:A1|NOR:HURA|NORK:ZUK</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=2|Polite[erg]=Form|VerbForm=Fin</td><td><em>dakizun</em></td></tr>
   <tr><td>ADT ADT ASP:PNT|ERL:ERLT|MDN:A1|NOR:NI</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Person[abs]=1|VerbForm=Fin</td><td><em>nagoen</em></td></tr>
   <tr style="background:lightgray"><td>ADT ADT ASP:PNT|ERL:ERLT|MDN:A1|NOR:ZUEK|NORK:HARK</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Plur|Number[erg]=Sing|Person[abs]=2|Person[erg]=3|VerbForm=Fin</td><td><em>zauzkaten</em></td></tr>
   <tr><td>ADT ADT ASP:PNT|ERL:ERLT|MDN:A3|NOR:HAIEK</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Plur|Person[abs]=3|VerbForm=Fin</td><td><em>dabiltzen, dauden</em></td></tr>
@@ -2109,7 +2110,7 @@ Tagset <tt>eu::conll</tt>, total 5161 tags.
   <tr style="background:lightgray"><td>ADT ADT ASP:PNT|ERL:KONPL|MDN:A1|NOR:HAIEK|NORK:HAIEK-K</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Plur|Number[erg]=Plur|Person[abs]=3|Person[erg]=3|VerbForm=Fin</td><td><em>dituztela, darabiltzatela</em></td></tr>
   <tr><td>ADT ADT ASP:PNT|ERL:KONPL|MDN:A1|NOR:HAIEK|NORK:HARK</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Plur|Number[erg]=Sing|Person[abs]=3|Person[erg]=3|VerbForm=Fin</td><td><em>dituela, daramatzala</em></td></tr>
   <tr style="background:lightgray"><td>ADT ADT ASP:PNT|ERL:KONPL|MDN:A1|NOR:HAIEK|NORK:NIK</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Plur|Number[erg]=Sing|Person[abs]=3|Person[erg]=1|VerbForm=Fin</td><td><em>ditudala</em></td></tr>
-  <tr><td>ADT ADT ASP:PNT|ERL:KONPL|MDN:A1|NOR:HAIEK|NORK:ZUK</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Plur|Number[erg]=Sing|Person[abs]=3|Person[erg]=2|Polite[erg]=Pol|VerbForm=Fin</td><td><em>dituzula</em></td></tr>
+  <tr><td>ADT ADT ASP:PNT|ERL:KONPL|MDN:A1|NOR:HAIEK|NORK:ZUK</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Plur|Number[erg]=Sing|Person[abs]=3|Person[erg]=2|Polite[erg]=Form|VerbForm=Fin</td><td><em>dituzula</em></td></tr>
   <tr style="background:lightgray"><td>ADT ADT ASP:PNT|ERL:KONPL|MDN:A1|NOR:HURA</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Person[abs]=3|VerbForm=Fin</td><td><em>dela</em></td></tr>
   <tr><td>ADT ADT ASP:PNT|ERL:KONPL|MDN:A1|NOR:HURA|NORI:HAIEI</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Number[dat]=Plur|Person[abs]=3|Person[dat]=3|VerbForm=Fin</td><td><em>dagokiela</em></td></tr>
   <tr style="background:lightgray"><td>ADT ADT ASP:PNT|ERL:KONPL|MDN:A1|NOR:HURA|NORI:HARI</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Number[dat]=Sing|Person[abs]=3|Person[dat]=3|VerbForm=Fin</td><td><em>zaiola</em></td></tr>
@@ -2121,7 +2122,7 @@ Tagset <tt>eu::conll</tt>, total 5161 tags.
   <tr style="background:lightgray"><td>ADT ADT ASP:PNT|ERL:KONPL|MDN:A1|NOR:HURA|NORK:HARK|NORI:HARI</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Number[dat]=Sing|Number[erg]=Sing|Person[abs]=3|Person[dat]=3|Person[erg]=3|VerbForm=Fin</td><td><em>diola</em></td></tr>
   <tr><td>ADT ADT ASP:PNT|ERL:KONPL|MDN:A1|NOR:HURA|NORK:NIK</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=1|VerbForm=Fin</td><td><em>daukadala</em></td></tr>
   <tr style="background:lightgray"><td>ADT ADT ASP:PNT|ERL:KONPL|MDN:A1|NOR:NI</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Person[abs]=1|VerbForm=Fin</td><td><em>naizela, nagoela, nabilela</em></td></tr>
-  <tr><td>ADT ADT ASP:PNT|ERL:KONPL|MDN:A1|NOR:ZU</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Person[abs]=2|Polite[abs]=Pol|VerbForm=Fin</td><td><em>zarela</em></td></tr>
+  <tr><td>ADT ADT ASP:PNT|ERL:KONPL|MDN:A1|NOR:ZU</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Person[abs]=2|Polite[abs]=Form|VerbForm=Fin</td><td><em>zarela</em></td></tr>
   <tr style="background:lightgray"><td>ADT ADT ASP:PNT|ERL:KONPL|MDN:A3|NOR:HAIEK</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Plur|Person[abs]=3|VerbForm=Fin</td><td><em>daudela</em></td></tr>
   <tr><td>ADT ADT ASP:PNT|ERL:KONPL|MDN:A3|NOR:HURA</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Person[abs]=3|VerbForm=Fin</td><td><em>dagola</em></td></tr>
   <tr style="background:lightgray"><td>ADT ADT ASP:PNT|ERL:KONPL|MDN:B1|NOR:GU</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Plur|Person[abs]=1|VerbForm=Fin</td><td><em>ginela</em></td></tr>
@@ -2146,7 +2147,7 @@ Tagset <tt>eu::conll</tt>, total 5161 tags.
   <tr><td>ADT ADT ASP:PNT|ERL:KONPL|MOD:EGI|MDN:A1|NOR:HURA</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Person[abs]=3|VerbForm=Fin</td><td><em>badagoela, badela</em></td></tr>
   <tr style="background:lightgray"><td>ADT ADT ASP:PNT|ERL:KONPL|MOD:EGI|MDN:A1|NOR:HURA|NORK:HAIEK-K</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Number[erg]=Plur|Person[abs]=3|Person[erg]=3|VerbForm=Fin</td><td><em>badutela</em></td></tr>
   <tr><td>ADT ADT ASP:PNT|ERL:KONPL|MOD:EGI|MDN:A1|NOR:HURA|NORK:HARK</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=3|VerbForm=Fin</td><td><em>baduela, badakiela</em></td></tr>
-  <tr style="background:lightgray"><td>ADT ADT ASP:PNT|ERL:KONPL|MOD:EGI|MDN:A1|NOR:HURA|NORK:HIK-TO</td><td>=&gt;</td><td>VERB</td><td>Gender[erg]=Masc|Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=2|Polite[erg]=Inf|VerbForm=Fin</td><td><em>baduala</em></td></tr>
+  <tr style="background:lightgray"><td>ADT ADT ASP:PNT|ERL:KONPL|MOD:EGI|MDN:A1|NOR:HURA|NORK:HIK-TO</td><td>=&gt;</td><td>VERB</td><td>Gender[erg]=Masc|Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=2|Polite[erg]=Infm|VerbForm=Fin</td><td><em>baduala</em></td></tr>
   <tr><td>ADT ADT ASP:PNT|ERL:KONPL|MOD:EGI|MDN:A1|NOR:HURA|NORK:NIK</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=1|VerbForm=Fin</td><td><em>badudala</em></td></tr>
   <tr style="background:lightgray"><td>ADT ADT ASP:PNT|ERL:KONPL|MOD:EGI|MDN:B1|NOR:HURA</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Person[abs]=3|VerbForm=Fin</td><td><em>bazela</em></td></tr>
   <tr><td>ADT ADT ASP:PNT|ERL:KONPL|MOD:EGI|MDN:B1|NOR:HURA|NORK:NIK</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=1|VerbForm=Fin</td><td><em>banuela</em></td></tr>
@@ -2159,7 +2160,7 @@ Tagset <tt>eu::conll</tt>, total 5161 tags.
   <tr style="background:lightgray"><td>ADT ADT ASP:PNT|ERL:MOD/DENB|MDN:A1|NOR:HURA|NORK:HAIEK-K</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Number[erg]=Plur|Person[abs]=3|Person[erg]=3|VerbForm=Fin</td><td><em>dutela</em></td></tr>
   <tr><td>ADT ADT ASP:PNT|ERL:MOD/DENB|MDN:A1|NOR:HURA|NORK:HARK</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=3|VerbForm=Fin</td><td><em>duela, dakiela, daukarik</em></td></tr>
   <tr style="background:lightgray"><td>ADT ADT ASP:PNT|ERL:MOD/DENB|MDN:A1|NOR:HURA|NORK:HARK|ENT:Pertsona</td><td>=&gt;</td><td>VERB</td><td>NameType=Prs|Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=3|VerbForm=Fin</td><td><em>DUELA, Duela</em></td></tr>
-  <tr><td>ADT ADT ASP:PNT|ERL:MOD/DENB|MDN:A1|NOR:ZU</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Person[abs]=2|Polite[abs]=Pol|VerbForm=Fin</td><td><em>zaudela, zaudelarik</em></td></tr>
+  <tr><td>ADT ADT ASP:PNT|ERL:MOD/DENB|MDN:A1|NOR:ZU</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Person[abs]=2|Polite[abs]=Form|VerbForm=Fin</td><td><em>zaudela, zaudelarik</em></td></tr>
   <tr style="background:lightgray"><td>ADT ADT ASP:PNT|ERL:MOD/DENB|MDN:B1|NOR:GU</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Plur|Person[abs]=1|VerbForm=Fin</td><td><em>geundela, geundelarik</em></td></tr>
   <tr><td>ADT ADT ASP:PNT|ERL:MOD/DENB|MDN:B1|NOR:HAIEK</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Plur|Person[abs]=3|VerbForm=Fin</td><td><em>zirela</em></td></tr>
   <tr style="background:lightgray"><td>ADT ADT ASP:PNT|ERL:MOD/DENB|MDN:B1|NOR:HAIEK|NORK:HAIEK-K</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Plur|Number[erg]=Plur|Person[abs]=3|Person[erg]=3|VerbForm=Fin</td><td><em>zituztela</em></td></tr>
@@ -2168,7 +2169,7 @@ Tagset <tt>eu::conll</tt>, total 5161 tags.
   <tr><td>ADT ADT ASP:PNT|ERL:MOD/DENB|MDN:B1|NOR:HURA|NORK:HAIEK-K</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Number[erg]=Plur|Person[abs]=3|Person[erg]=3|VerbForm=Fin</td><td><em>zutela</em></td></tr>
   <tr style="background:lightgray"><td>ADT ADT ASP:PNT|ERL:MOD/DENB|MDN:B1|NOR:HURA|NORK:HARK</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=3|VerbForm=Fin</td><td><em>zuela, zekiela, ziharduela</em></td></tr>
   <tr><td>ADT ADT ASP:PNT|ERL:MOD/DENB|MDN:B1|NOR:NI</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Person[abs]=1|VerbForm=Fin</td><td><em>nintzela, nengoela, nenbilela, nintzelarik</em></td></tr>
-  <tr style="background:lightgray"><td>ADT ADT ASP:PNT|ERL:MOD/DENB|MDN:B1|NOR:ZU</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Person[abs]=2|Polite[abs]=Pol|VerbForm=Fin</td><td><em>zentozela</em></td></tr>
+  <tr style="background:lightgray"><td>ADT ADT ASP:PNT|ERL:MOD/DENB|MDN:B1|NOR:ZU</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Person[abs]=2|Polite[abs]=Form|VerbForm=Fin</td><td><em>zentozela</em></td></tr>
   <tr><td>ADT ADT ASP:PNT|ERL:MOD/DENB|MDN:B5B|NOR:NI</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Person[abs]=1|VerbForm=Fin</td><td><em>nindoala</em></td></tr>
   <tr style="background:lightgray"><td>ADT ADT ASP:PNT|ERL:MOD|MDN:A1|NOR:HAIEK</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Plur|Person[abs]=3|VerbForm=Fin</td><td><em>direlakoan</em></td></tr>
   <tr><td>ADT ADT ASP:PNT|ERL:MOD|MDN:A1|NOR:HURA</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Person[abs]=3|VerbForm=Fin</td><td><em>delakoan</em></td></tr>
@@ -2193,7 +2194,7 @@ Tagset <tt>eu::conll</tt>, total 5161 tags.
   <tr style="background:lightgray"><td>ADT ADT ASP:PNT|ERL:ZHG|MDN:A1|NOR:HURA|NORK:HAIEK-K</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Number[erg]=Plur|Person[abs]=3|Person[erg]=3|VerbForm=Fin</td><td><em>duten, dioten</em></td></tr>
   <tr><td>ADT ADT ASP:PNT|ERL:ZHG|MDN:A1|NOR:HURA|NORK:HARK</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=3|VerbForm=Fin</td><td><em>duen, daraman, dioen, baduen</em></td></tr>
   <tr style="background:lightgray"><td>ADT ADT ASP:PNT|ERL:ZHG|MDN:A1|NOR:HURA|NORK:NIK</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=1|VerbForm=Fin</td><td><em>dudan</em></td></tr>
-  <tr><td>ADT ADT ASP:PNT|ERL:ZHG|MDN:A1|NOR:HURA|NORK:ZUK</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=2|Polite[erg]=Pol|VerbForm=Fin</td><td><em>dakizun</em></td></tr>
+  <tr><td>ADT ADT ASP:PNT|ERL:ZHG|MDN:A1|NOR:HURA|NORK:ZUK</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=2|Polite[erg]=Form|VerbForm=Fin</td><td><em>dakizun</em></td></tr>
   <tr style="background:lightgray"><td>ADT ADT ASP:PNT|ERL:ZHG|MDN:B1|NOR:GU</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Plur|Person[abs]=1|VerbForm=Fin</td><td><em>geunden</em></td></tr>
   <tr><td>ADT ADT ASP:PNT|ERL:ZHG|MDN:B1|NOR:HAIEK</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Plur|Person[abs]=3|VerbForm=Fin</td><td><em>ziren</em></td></tr>
   <tr style="background:lightgray"><td>ADT ADT ASP:PNT|ERL:ZHG|MDN:B1|NOR:HAIEK|NORK:HAIEK-K</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Plur|Number[erg]=Plur|Person[abs]=3|Person[erg]=3|VerbForm=Fin</td><td><em>zituzten</em></td></tr>
@@ -2210,7 +2211,7 @@ Tagset <tt>eu::conll</tt>, total 5161 tags.
   <tr><td>ADT ADT ASP:PNT|KAS:ABS|NUM:P|NOR:HAIEK|NORK:HARK</td><td>=&gt;</td><td>VERB</td><td>Case=Abs|Number=Plur|Number[abs]=Plur|Number[erg]=Sing|Person[abs]=3|Person[erg]=3|VerbForm=Fin</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>ADT ADT ASP:PNT|KAS:ABS|NUM:P|NOR:HURA</td><td>=&gt;</td><td>VERB</td><td>Case=Abs|Number=Plur|Number[abs]=Sing|Person[abs]=3|VerbForm=Fin</td><td><em></em></td></tr>
   <tr><td>ADT ADT ASP:PNT|KAS:ABS|NUM:P|NOR:HURA|NORK:HAIEK-K</td><td>=&gt;</td><td>VERB</td><td>Case=Abs|Number=Plur|Number[abs]=Sing|Number[erg]=Plur|Person[abs]=3|Person[erg]=3|VerbForm=Fin</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>ADT ADT ASP:PNT|KAS:ABS|NUM:P|NOR:ZU|NORK:GUK</td><td>=&gt;</td><td>VERB</td><td>Case=Abs|Number=Plur|Number[abs]=Sing|Number[erg]=Plur|Person[abs]=2|Person[erg]=1|Polite[abs]=Pol|VerbForm=Fin</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>ADT ADT ASP:PNT|KAS:ABS|NUM:P|NOR:ZU|NORK:GUK</td><td>=&gt;</td><td>VERB</td><td>Case=Abs|Number=Plur|Number[abs]=Sing|Number[erg]=Plur|Person[abs]=2|Person[erg]=1|Polite[abs]=Form|VerbForm=Fin</td><td><em></em></td></tr>
   <tr><td>ADT ADT ASP:PNT|KAS:ABS|NUM:S|MUG:M|MDN:A1|NOR:HURA</td><td>=&gt;</td><td>VERB</td><td>Case=Abs|Number=Sing|Number[abs]=Sing|Person[abs]=3|VerbForm=Fin</td><td><em>dagoena</em></td></tr>
   <tr style="background:lightgray"><td>ADT ADT ASP:PNT|KAS:ABS|NUM:S|MUG:M|MDN:A1|NOR:HURA|NORK:HARK</td><td>=&gt;</td><td>VERB</td><td>Case=Abs|Number=Sing|Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=3|VerbForm=Fin</td><td><em>duena</em></td></tr>
   <tr><td>ADT ADT ASP:PNT|KAS:ABS|NUM:S|NOR:HAIEK</td><td>=&gt;</td><td>VERB</td><td>Case=Abs|Number=Sing|Number[abs]=Plur|Person[abs]=3|VerbForm=Fin</td><td><em></em></td></tr>
@@ -2218,12 +2219,12 @@ Tagset <tt>eu::conll</tt>, total 5161 tags.
   <tr><td>ADT ADT ASP:PNT|KAS:ABS|NUM:S|NOR:HURA</td><td>=&gt;</td><td>VERB</td><td>Case=Abs|Number=Sing|Number[abs]=Sing|Person[abs]=3|VerbForm=Fin</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>ADT ADT ASP:PNT|KAS:ABS|NUM:S|NOR:HURA|NORI:GURI</td><td>=&gt;</td><td>VERB</td><td>Case=Abs|Number=Sing|Number[abs]=Sing|Number[dat]=Plur|Person[abs]=3|Person[dat]=1|VerbForm=Fin</td><td><em></em></td></tr>
   <tr><td>ADT ADT ASP:PNT|KAS:ABS|NUM:S|NOR:HURA|NORI:HARI</td><td>=&gt;</td><td>VERB</td><td>Case=Abs|Number=Sing|Number[abs]=Sing|Number[dat]=Sing|Person[abs]=3|Person[dat]=3|VerbForm=Fin</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>ADT ADT ASP:PNT|KAS:ABS|NUM:S|NOR:HURA|NORI:ZURI</td><td>=&gt;</td><td>VERB</td><td>Case=Abs|Number=Sing|Number[abs]=Sing|Number[dat]=Sing|Person[abs]=3|Person[dat]=2|Polite[dat]=Pol|VerbForm=Fin</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>ADT ADT ASP:PNT|KAS:ABS|NUM:S|NOR:HURA|NORI:ZURI</td><td>=&gt;</td><td>VERB</td><td>Case=Abs|Number=Sing|Number[abs]=Sing|Number[dat]=Sing|Person[abs]=3|Person[dat]=2|Polite[dat]=Form|VerbForm=Fin</td><td><em></em></td></tr>
   <tr><td>ADT ADT ASP:PNT|KAS:ABS|NUM:S|NOR:HURA|NORK:GUK</td><td>=&gt;</td><td>VERB</td><td>Case=Abs|Number=Sing|Number[abs]=Sing|Number[erg]=Plur|Person[abs]=3|Person[erg]=1|VerbForm=Fin</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>ADT ADT ASP:PNT|KAS:ABS|NUM:S|NOR:HURA|NORK:HARK</td><td>=&gt;</td><td>VERB</td><td>Case=Abs|Number=Sing|Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=3|VerbForm=Fin</td><td><em></em></td></tr>
   <tr><td>ADT ADT ASP:PNT|KAS:ABS|NUM:S|NOR:HURA|NORK:HARK|NORI:HARI</td><td>=&gt;</td><td>VERB</td><td>Case=Abs|Number=Sing|Number[abs]=Sing|Number[dat]=Sing|Number[erg]=Sing|Person[abs]=3|Person[dat]=3|Person[erg]=3|VerbForm=Fin</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>ADT ADT ASP:PNT|KAS:ABS|NUM:S|NOR:HURA|NORK:NIK</td><td>=&gt;</td><td>VERB</td><td>Case=Abs|Number=Sing|Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=1|VerbForm=Fin</td><td><em></em></td></tr>
-  <tr><td>ADT ADT ASP:PNT|KAS:ABS|NUM:S|NOR:HURA|NORK:ZUK</td><td>=&gt;</td><td>VERB</td><td>Case=Abs|Number=Sing|Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=2|Polite[erg]=Pol|VerbForm=Fin</td><td><em></em></td></tr>
+  <tr><td>ADT ADT ASP:PNT|KAS:ABS|NUM:S|NOR:HURA|NORK:ZUK</td><td>=&gt;</td><td>VERB</td><td>Case=Abs|Number=Sing|Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=2|Polite[erg]=Form|VerbForm=Fin</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>ADT ADT ASP:PNT|KAS:ABS|NUM:S|NOR:NI</td><td>=&gt;</td><td>VERB</td><td>Case=Abs|Number=Sing|Number[abs]=Sing|Person[abs]=1|VerbForm=Fin</td><td><em></em></td></tr>
   <tr><td>ADT ADT ASP:PNT|KAS:DAT|NUM:P|NOR:HAIEK</td><td>=&gt;</td><td>VERB</td><td>Case=Dat|Number=Plur|Number[abs]=Plur|Person[abs]=3|VerbForm=Fin</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>ADT ADT ASP:PNT|KAS:DAT|NUM:P|NOR:HAIEK|NORK:HAIEK-K</td><td>=&gt;</td><td>VERB</td><td>Case=Dat|Number=Plur|Number[abs]=Plur|Number[erg]=Plur|Person[abs]=3|Person[erg]=3|VerbForm=Fin</td><td><em></em></td></tr>
@@ -2258,7 +2259,7 @@ Tagset <tt>eu::conll</tt>, total 5161 tags.
   <tr><td>ADT ADT ASP:PNT|KAS:INS|NUM:P|NOR:HURA|NORI:HAIEI</td><td>=&gt;</td><td>VERB</td><td>Case=Ins|Number=Plur|Number[abs]=Sing|Number[dat]=Plur|Person[abs]=3|Person[dat]=3|VerbForm=Fin</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>ADT ADT ASP:PNT|KAS:INS|NUM:P|NOR:HURA|NORI:HARI</td><td>=&gt;</td><td>VERB</td><td>Case=Ins|Number=Plur|Number[abs]=Sing|Number[dat]=Sing|Person[abs]=3|Person[dat]=3|VerbForm=Fin</td><td><em></em></td></tr>
   <tr><td>ADT ADT ASP:PNT|KAS:INS|NUM:S|NOR:HURA|NORI:HARI</td><td>=&gt;</td><td>VERB</td><td>Case=Ins|Number=Sing|Number[abs]=Sing|Number[dat]=Sing|Person[abs]=3|Person[dat]=3|VerbForm=Fin</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>ADT ADT ASP:PNT|KAS:INS|NUM:S|NOR:HURA|NORK:ZUK</td><td>=&gt;</td><td>VERB</td><td>Case=Ins|Number=Sing|Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=2|Polite[erg]=Pol|VerbForm=Fin</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>ADT ADT ASP:PNT|KAS:INS|NUM:S|NOR:HURA|NORK:ZUK</td><td>=&gt;</td><td>VERB</td><td>Case=Ins|Number=Sing|Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=2|Polite[erg]=Form|VerbForm=Fin</td><td><em></em></td></tr>
   <tr><td>ADT ADT ASP:PNT|KAS:PAR|MUG:MG|MDN:A5|NOR:HURA</td><td>=&gt;</td><td>VERB</td><td>Case=Par|Number[abs]=Sing|Person[abs]=3|VerbForm=Fin</td><td><em>daitekeenik</em></td></tr>
   <tr style="background:lightgray"><td>ADT ADT ASP:PNT|KAS:PAR|NOR:HURA</td><td>=&gt;</td><td>VERB</td><td>Case=Par|Number[abs]=Sing|Person[abs]=3|VerbForm=Fin</td><td><em></em></td></tr>
   <tr><td>ADT ADT ASP:PNT|KAS:SOZ|NUM:S|MUG:M|MDN:A1|NOR:HURA|NORK:HARK</td><td>=&gt;</td><td>VERB</td><td>Case=Com|Number=Sing|Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=3|VerbForm=Fin</td><td><em>daukanarekin</em></td></tr>
@@ -2276,8 +2277,8 @@ Tagset <tt>eu::conll</tt>, total 5161 tags.
   <tr><td>ADT ADT ASP:PNT|MDN:A1|NOR:HAIEK|NORK:HARK</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Plur|Number[erg]=Sing|Person[abs]=3|Person[erg]=3|VerbForm=Fin</td><td><em>ditu, daramatza, dauzka, dakartza</em></td></tr>
   <tr style="background:lightgray"><td>ADT ADT ASP:PNT|MDN:A1|NOR:HAIEK|NORK:HARK|HIT:TO</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Number[abs]=Plur|Number[erg]=Sing|Person[abs]=3|Person[erg]=3|VerbForm=Fin</td><td><em>zeramatzak, ditik</em></td></tr>
   <tr><td>ADT ADT ASP:PNT|MDN:A1|NOR:HAIEK|NORK:NIK</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Plur|Number[erg]=Sing|Person[abs]=3|Person[erg]=1|VerbForm=Fin</td><td><em>ditut</em></td></tr>
-  <tr style="background:lightgray"><td>ADT ADT ASP:PNT|MDN:A1|NOR:HAIEK|NORK:ZUK</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Plur|Number[erg]=Sing|Person[abs]=3|Person[erg]=2|Polite[erg]=Pol|VerbForm=Fin</td><td><em>dituzu</em></td></tr>
-  <tr><td>ADT ADT ASP:PNT|MDN:A1|NOR:HI</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Person[abs]=2|Polite[abs]=Inf|VerbForm=Fin</td><td><em>haiz, hago</em></td></tr>
+  <tr style="background:lightgray"><td>ADT ADT ASP:PNT|MDN:A1|NOR:HAIEK|NORK:ZUK</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Plur|Number[erg]=Sing|Person[abs]=3|Person[erg]=2|Polite[erg]=Form|VerbForm=Fin</td><td><em>dituzu</em></td></tr>
+  <tr><td>ADT ADT ASP:PNT|MDN:A1|NOR:HI</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Person[abs]=2|Polite[abs]=Infm|VerbForm=Fin</td><td><em>haiz, hago</em></td></tr>
   <tr style="background:lightgray"><td>ADT ADT ASP:PNT|MDN:A1|NOR:HURA</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Person[abs]=3|VerbForm=Fin</td><td><em>da, dago, dabil, dator, doa</em></td></tr>
   <tr><td>ADT ADT ASP:PNT|MDN:A1|NOR:HURA|HIT:NO</td><td>=&gt;</td><td>VERB</td><td>Gender=Fem|Number[abs]=Sing|Person[abs]=3|VerbForm=Fin</td><td><em>dun</em></td></tr>
   <tr style="background:lightgray"><td>ADT ADT ASP:PNT|MDN:A1|NOR:HURA|HIT:TO</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Number[abs]=Sing|Person[abs]=3|VerbForm=Fin</td><td><em>duk, zegok, zagok</em></td></tr>
@@ -2293,20 +2294,20 @@ Tagset <tt>eu::conll</tt>, total 5161 tags.
   <tr style="background:lightgray"><td>ADT ADT ASP:PNT|MDN:A1|NOR:HURA|NORK:HARK|NORI:GURI</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Number[dat]=Plur|Number[erg]=Sing|Person[abs]=3|Person[dat]=1|Person[erg]=3|VerbForm=Fin</td><td><em>digu</em></td></tr>
   <tr><td>ADT ADT ASP:PNT|MDN:A1|NOR:HURA|NORK:HARK|NORI:HAIEI</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Number[dat]=Plur|Number[erg]=Sing|Person[abs]=3|Person[dat]=3|Person[erg]=3|VerbForm=Fin</td><td><em>deritze, die</em></td></tr>
   <tr style="background:lightgray"><td>ADT ADT ASP:PNT|MDN:A1|NOR:HURA|NORK:HARK|NORI:HARI</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Number[dat]=Sing|Number[erg]=Sing|Person[abs]=3|Person[dat]=3|Person[erg]=3|VerbForm=Fin</td><td><em>dio, dakarkio, deritzo</em></td></tr>
-  <tr><td>ADT ADT ASP:PNT|MDN:A1|NOR:HURA|NORK:HARK|NORI:ZURI</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Number[dat]=Sing|Number[erg]=Sing|Person[abs]=3|Person[dat]=2|Person[erg]=3|Polite[dat]=Pol|VerbForm=Fin</td><td><em>diotsu</em></td></tr>
-  <tr style="background:lightgray"><td>ADT ADT ASP:PNT|MDN:A1|NOR:HURA|NORK:HIK-NO</td><td>=&gt;</td><td>VERB</td><td>Gender[erg]=Fem|Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=2|Polite[erg]=Inf|VerbForm=Fin</td><td><em>dakin</em></td></tr>
+  <tr><td>ADT ADT ASP:PNT|MDN:A1|NOR:HURA|NORK:HARK|NORI:ZURI</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Number[dat]=Sing|Number[erg]=Sing|Person[abs]=3|Person[dat]=2|Person[erg]=3|Polite[dat]=Form|VerbForm=Fin</td><td><em>diotsu</em></td></tr>
+  <tr style="background:lightgray"><td>ADT ADT ASP:PNT|MDN:A1|NOR:HURA|NORK:HIK-NO</td><td>=&gt;</td><td>VERB</td><td>Gender[erg]=Fem|Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=2|Polite[erg]=Infm|VerbForm=Fin</td><td><em>dakin</em></td></tr>
   <tr><td>ADT ADT ASP:PNT|MDN:A1|NOR:HURA|NORK:NIK</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=1|VerbForm=Fin</td><td><em>dut, dakit, daukat, daramat, diot</em></td></tr>
   <tr style="background:lightgray"><td>ADT ADT ASP:PNT|MDN:A1|NOR:HURA|NORK:NIK|HIT:NO</td><td>=&gt;</td><td>VERB</td><td>Gender=Fem|Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=1|VerbForm=Fin</td><td><em>dakinat, dinat</em></td></tr>
   <tr><td>ADT ADT ASP:PNT|MDN:A1|NOR:HURA|NORK:NIK|HIT:TO</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=1|VerbForm=Fin</td><td><em>zekiat, diat</em></td></tr>
   <tr style="background:lightgray"><td>ADT ADT ASP:PNT|MDN:A1|NOR:HURA|NORK:NIK|NORI:HARI</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Number[dat]=Sing|Number[erg]=Sing|Person[abs]=3|Person[dat]=3|Person[erg]=1|VerbForm=Fin</td><td><em>diot</em></td></tr>
   <tr><td>ADT ADT ASP:PNT|MDN:A1|NOR:HURA|NORK:ZUEK-K</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Number[erg]=Plur|Person[abs]=3|Person[erg]=2|VerbForm=Fin</td><td><em>duzue, daukazue, dakizue</em></td></tr>
-  <tr style="background:lightgray"><td>ADT ADT ASP:PNT|MDN:A1|NOR:HURA|NORK:ZUK</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=2|Polite[erg]=Pol|VerbForm=Fin</td><td><em>duzu, dakizu, diozu, daramazu, daukazu</em></td></tr>
-  <tr><td>ADT ADT ASP:PNT|MDN:A1|NOR:HURA|NORK:ZUK|NORI:HARI</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Number[dat]=Sing|Number[erg]=Sing|Person[abs]=3|Person[dat]=3|Person[erg]=2|Polite[erg]=Pol|VerbForm=Fin</td><td><em>deritzozu</em></td></tr>
+  <tr style="background:lightgray"><td>ADT ADT ASP:PNT|MDN:A1|NOR:HURA|NORK:ZUK</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=2|Polite[erg]=Form|VerbForm=Fin</td><td><em>duzu, dakizu, diozu, daramazu, daukazu</em></td></tr>
+  <tr><td>ADT ADT ASP:PNT|MDN:A1|NOR:HURA|NORK:ZUK|NORI:HARI</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Number[dat]=Sing|Number[erg]=Sing|Person[abs]=3|Person[dat]=3|Person[erg]=2|Polite[erg]=Form|VerbForm=Fin</td><td><em>deritzozu</em></td></tr>
   <tr style="background:lightgray"><td>ADT ADT ASP:PNT|MDN:A1|NOR:NI</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Person[abs]=1|VerbForm=Fin</td><td><em>nago, naiz, noa, nabil</em></td></tr>
   <tr><td>ADT ADT ASP:PNT|MDN:A1|NOR:NI|HIT:NO</td><td>=&gt;</td><td>VERB</td><td>Gender=Fem|Number[abs]=Sing|Person[abs]=1|VerbForm=Fin</td><td><em>naun</em></td></tr>
   <tr style="background:lightgray"><td>ADT ADT ASP:PNT|MDN:A1|NOR:NI|HIT:TO</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Number[abs]=Sing|Person[abs]=1|VerbForm=Fin</td><td><em>nauk</em></td></tr>
-  <tr><td>ADT ADT ASP:PNT|MDN:A1|NOR:NI|NORK:ZUK</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Number[erg]=Sing|Person[abs]=1|Person[erg]=2|Polite[erg]=Pol|VerbForm=Fin</td><td><em>nauzu</em></td></tr>
-  <tr style="background:lightgray"><td>ADT ADT ASP:PNT|MDN:A1|NOR:ZU</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Person[abs]=2|Polite[abs]=Pol|VerbForm=Fin</td><td><em>zara, zaude, zoaz, zatoz</em></td></tr>
+  <tr><td>ADT ADT ASP:PNT|MDN:A1|NOR:NI|NORK:ZUK</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Number[erg]=Sing|Person[abs]=1|Person[erg]=2|Polite[erg]=Form|VerbForm=Fin</td><td><em>nauzu</em></td></tr>
+  <tr style="background:lightgray"><td>ADT ADT ASP:PNT|MDN:A1|NOR:ZU</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Person[abs]=2|Polite[abs]=Form|VerbForm=Fin</td><td><em>zara, zaude, zoaz, zatoz</em></td></tr>
   <tr><td>ADT ADT ASP:PNT|MDN:A1|NOR:ZUEK</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Plur|Person[abs]=2|VerbForm=Fin</td><td><em>zarete, zirezte</em></td></tr>
   <tr style="background:lightgray"><td>ADT ADT ASP:PNT|MDN:A5|NOR:HURA</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Person[abs]=3|VerbForm=Fin</td><td><em>daiteke</em></td></tr>
   <tr><td>ADT ADT ASP:PNT|MDN:B1|NOR:GU</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Plur|Person[abs]=1|VerbForm=Fin</td><td><em>geunden, ginen, genbiltzan</em></td></tr>
@@ -2315,7 +2316,7 @@ Tagset <tt>eu::conll</tt>, total 5161 tags.
   <tr style="background:lightgray"><td>ADT ADT ASP:PNT|MDN:B1|NOR:HAIEK|NORK:HAIEK-K</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Plur|Number[erg]=Plur|Person[abs]=3|Person[erg]=3|VerbForm=Fin</td><td><em>zeramatzaten, zeuzkaten, zituzten</em></td></tr>
   <tr><td>ADT ADT ASP:PNT|MDN:B1|NOR:HAIEK|NORK:HARK</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Plur|Number[erg]=Sing|Person[abs]=3|Person[erg]=3|VerbForm=Fin</td><td><em>zituen, zeuzkan, zeramatzan</em></td></tr>
   <tr style="background:lightgray"><td>ADT ADT ASP:PNT|MDN:B1|NOR:HAIEK|NORK:NIK</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Plur|Number[erg]=Sing|Person[abs]=3|Person[erg]=1|VerbForm=Fin</td><td><em>neuzkan</em></td></tr>
-  <tr><td>ADT ADT ASP:PNT|MDN:B1|NOR:HAIEK|NORK:ZUK|HIT:TO</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Number[abs]=Plur|Number[erg]=Sing|Person[abs]=3|Person[erg]=2|Polite[erg]=Pol|VerbForm=Fin</td><td><em>zeramatzaan</em></td></tr>
+  <tr><td>ADT ADT ASP:PNT|MDN:B1|NOR:HAIEK|NORK:ZUK|HIT:TO</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Number[abs]=Plur|Number[erg]=Sing|Person[abs]=3|Person[erg]=2|Polite[erg]=Form|VerbForm=Fin</td><td><em>zeramatzaan</em></td></tr>
   <tr style="background:lightgray"><td>ADT ADT ASP:PNT|MDN:B1|NOR:HURA</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Person[abs]=3|VerbForm=Fin</td><td><em>zen, zegoen, zebilen, zetorren, zihoan</em></td></tr>
   <tr><td>ADT ADT ASP:PNT|MDN:B1|NOR:HURA|HIT:TO</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Number[abs]=Sing|Person[abs]=3|VerbForm=Fin</td><td><em>zegoan</em></td></tr>
   <tr style="background:lightgray"><td>ADT ADT ASP:PNT|MDN:B1|NOR:HURA|NORI:GURI</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Number[dat]=Plur|Person[abs]=3|Person[dat]=1|VerbForm=Fin</td><td><em>zitzaigun</em></td></tr>
@@ -2329,7 +2330,7 @@ Tagset <tt>eu::conll</tt>, total 5161 tags.
   <tr style="background:lightgray"><td>ADT ADT ASP:PNT|MDN:B1|NOR:HURA|NORK:NIK|HIT:NO</td><td>=&gt;</td><td>VERB</td><td>Gender=Fem|Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=1|VerbForm=Fin</td><td><em>ninan</em></td></tr>
   <tr><td>ADT ADT ASP:PNT|MDN:B1|NOR:HURA|NORK:ZUEK-K</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Number[erg]=Plur|Person[abs]=3|Person[erg]=2|VerbForm=Fin</td><td><em>zenuten</em></td></tr>
   <tr style="background:lightgray"><td>ADT ADT ASP:PNT|MDN:B1|NOR:NI</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Person[abs]=1|VerbForm=Fin</td><td><em>nengoen, nenbilen, nintzen, netorren</em></td></tr>
-  <tr><td>ADT ADT ASP:PNT|MDN:B1|NOR:ZU</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Person[abs]=2|Polite[abs]=Pol|VerbForm=Fin</td><td><em>zinen</em></td></tr>
+  <tr><td>ADT ADT ASP:PNT|MDN:B1|NOR:ZU</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Person[abs]=2|Polite[abs]=Form|VerbForm=Fin</td><td><em>zinen</em></td></tr>
   <tr style="background:lightgray"><td>ADT ADT ASP:PNT|MDN:B2|NOR:HAIEK</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Plur|Person[abs]=3|VerbForm=Fin</td><td><em>lirateke</em></td></tr>
   <tr><td>ADT ADT ASP:PNT|MDN:B2|NOR:HURA</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Person[abs]=3|VerbForm=Fin</td><td><em>litzateke</em></td></tr>
   <tr style="background:lightgray"><td>ADT ADT ASP:PNT|MDN:B2|NOR:HURA|NORK:GUK</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Number[erg]=Plur|Person[abs]=3|Person[erg]=1|VerbForm=Fin</td><td><em>genuke</em></td></tr>
@@ -2340,12 +2341,12 @@ Tagset <tt>eu::conll</tt>, total 5161 tags.
   <tr><td>ADT ADT ASP:PNT|MDN:B4|NOR:HURA</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Person[abs]=3|VerbForm=Fin</td><td><em>bailitzan</em></td></tr>
   <tr style="background:lightgray"><td>ADT ADT ASP:PNT|MDN:B7|NOR:HURA</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Person[abs]=3|VerbForm=Fin</td><td><em>liteke</em></td></tr>
   <tr><td>ADT ADT ASP:PNT|MDN:B7|NOR:HURA|NORK:HARK|NORI:HARI</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Number[dat]=Sing|Number[erg]=Sing|Person[abs]=3|Person[dat]=3|Person[erg]=3|VerbForm=Fin</td><td><em>lekarkioke</em></td></tr>
-  <tr style="background:lightgray"><td>ADT ADT ASP:PNT|MDN:C|NOR:HI</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Person[abs]=2|Polite[abs]=Inf|VerbForm=Fin</td><td><em>Hoa, hago</em></td></tr>
+  <tr style="background:lightgray"><td>ADT ADT ASP:PNT|MDN:C|NOR:HI</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Person[abs]=2|Polite[abs]=Infm|VerbForm=Fin</td><td><em>Hoa, hago</em></td></tr>
   <tr><td>ADT ADT ASP:PNT|MDN:C|NOR:HURA|NORK:GUK</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Number[erg]=Plur|Person[abs]=3|Person[erg]=1|VerbForm=Fin</td><td><em>egizu, demagun</em></td></tr>
-  <tr style="background:lightgray"><td>ADT ADT ASP:PNT|MDN:C|NOR:HURA|NORK:HIK-TO</td><td>=&gt;</td><td>VERB</td><td>Gender[erg]=Masc|Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=2|Polite[erg]=Inf|VerbForm=Fin</td><td><em>Haizak</em></td></tr>
-  <tr><td>ADT ADT ASP:PNT|MDN:C|NOR:HURA|NORK:ZUK</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=2|Polite[erg]=Pol|VerbForm=Fin</td><td><em>egizu</em></td></tr>
-  <tr style="background:lightgray"><td>ADT ADT ASP:PNT|MDN:C|NOR:HURA|NORK:ZUK|NORI:NIRI</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Number[dat]=Sing|Number[erg]=Sing|Person[abs]=3|Person[dat]=1|Person[erg]=2|Polite[erg]=Pol|VerbForm=Fin</td><td><em>emaidazu</em></td></tr>
-  <tr><td>ADT ADT ASP:PNT|MDN:C|NOR:ZU</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Person[abs]=2|Polite[abs]=Pol|VerbForm=Fin</td><td><em>zaude, zoaz</em></td></tr>
+  <tr style="background:lightgray"><td>ADT ADT ASP:PNT|MDN:C|NOR:HURA|NORK:HIK-TO</td><td>=&gt;</td><td>VERB</td><td>Gender[erg]=Masc|Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=2|Polite[erg]=Infm|VerbForm=Fin</td><td><em>Haizak</em></td></tr>
+  <tr><td>ADT ADT ASP:PNT|MDN:C|NOR:HURA|NORK:ZUK</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=2|Polite[erg]=Form|VerbForm=Fin</td><td><em>egizu</em></td></tr>
+  <tr style="background:lightgray"><td>ADT ADT ASP:PNT|MDN:C|NOR:HURA|NORK:ZUK|NORI:NIRI</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Number[dat]=Sing|Number[erg]=Sing|Person[abs]=3|Person[dat]=1|Person[erg]=2|Polite[erg]=Form|VerbForm=Fin</td><td><em>emaidazu</em></td></tr>
+  <tr><td>ADT ADT ASP:PNT|MDN:C|NOR:ZU</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Person[abs]=2|Polite[abs]=Form|VerbForm=Fin</td><td><em>zaude, zoaz</em></td></tr>
   <tr style="background:lightgray"><td>ADT ADT ASP:PNT|MDN:C|NOR:ZUEK</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Plur|Person[abs]=2|VerbForm=Fin</td><td><em>zaudezte, zoazte</em></td></tr>
   <tr><td>ADT ADT ASP:PNT|MOD:EGI|MDN:A1|NOR:HAIEK</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Plur|Person[abs]=3|VerbForm=Fin</td><td><em>badaude, badira</em></td></tr>
   <tr style="background:lightgray"><td>ADT ADT ASP:PNT|MOD:EGI|MDN:A1|NOR:HAIEK|NORK:GUK</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Plur|Number[erg]=Plur|Person[abs]=3|Person[erg]=1|VerbForm=Fin</td><td><em>baditugu, badauzkagu</em></td></tr>
@@ -2358,10 +2359,10 @@ Tagset <tt>eu::conll</tt>, total 5161 tags.
   <tr><td>ADT ADT ASP:PNT|MOD:EGI|MDN:A1|NOR:HURA|NORK:HAIEK-K</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Number[erg]=Plur|Person[abs]=3|Person[erg]=3|VerbForm=Fin</td><td><em>badakite, badute</em></td></tr>
   <tr style="background:lightgray"><td>ADT ADT ASP:PNT|MOD:EGI|MDN:A1|NOR:HURA|NORK:HARK</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=3|VerbForm=Fin</td><td><em>badu, badirudi, badaki, badauka, badio</em></td></tr>
   <tr><td>ADT ADT ASP:PNT|MOD:EGI|MDN:A1|NOR:HURA|NORK:HARK|HIT:NO</td><td>=&gt;</td><td>VERB</td><td>Gender=Fem|Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=3|VerbForm=Fin</td><td><em>bazaukan</em></td></tr>
-  <tr style="background:lightgray"><td>ADT ADT ASP:PNT|MOD:EGI|MDN:A1|NOR:HURA|NORK:HIK-TO</td><td>=&gt;</td><td>VERB</td><td>Gender[erg]=Masc|Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=2|Polite[erg]=Inf|VerbForm=Fin</td><td><em>Badakik</em></td></tr>
+  <tr style="background:lightgray"><td>ADT ADT ASP:PNT|MOD:EGI|MDN:A1|NOR:HURA|NORK:HIK-TO</td><td>=&gt;</td><td>VERB</td><td>Gender[erg]=Masc|Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=2|Polite[erg]=Infm|VerbForm=Fin</td><td><em>Badakik</em></td></tr>
   <tr><td>ADT ADT ASP:PNT|MOD:EGI|MDN:A1|NOR:HURA|NORK:NIK</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=1|VerbForm=Fin</td><td><em>badakit, badut</em></td></tr>
   <tr style="background:lightgray"><td>ADT ADT ASP:PNT|MOD:EGI|MDN:A1|NOR:HURA|NORK:ZUEK-K</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Number[erg]=Plur|Person[abs]=3|Person[erg]=2|VerbForm=Fin</td><td><em>badakizue</em></td></tr>
-  <tr><td>ADT ADT ASP:PNT|MOD:EGI|MDN:A1|NOR:HURA|NORK:ZUK</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=2|Polite[erg]=Pol|VerbForm=Fin</td><td><em>badakizu</em></td></tr>
+  <tr><td>ADT ADT ASP:PNT|MOD:EGI|MDN:A1|NOR:HURA|NORK:ZUK</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=2|Polite[erg]=Form|VerbForm=Fin</td><td><em>badakizu</em></td></tr>
   <tr style="background:lightgray"><td>ADT ADT ASP:PNT|MOD:EGI|MDN:B1|NOR:HAIEK</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Plur|Person[abs]=3|VerbForm=Fin</td><td><em>baziren</em></td></tr>
   <tr><td>ADT ADT ASP:PNT|MOD:EGI|MDN:B1|NOR:HAIEK|NORK:HAIEK-K</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Plur|Number[erg]=Plur|Person[abs]=3|Person[erg]=3|VerbForm=Fin</td><td><em>bazituzten</em></td></tr>
   <tr style="background:lightgray"><td>ADT ADT ASP:PNT|MOD:EGI|MDN:B1|NOR:HAIEK|NORK:HARK</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Plur|Number[erg]=Sing|Person[abs]=3|Person[erg]=3|VerbForm=Fin</td><td><em>bazituen</em></td></tr>
@@ -2389,9 +2390,9 @@ Tagset <tt>eu::conll</tt>, total 5161 tags.
   <tr style="background:lightgray"><td>ADT ADT ASP:PNT|NOR:HAIEK|NORK:HARK|HIT:TO</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Number[abs]=Plur|Number[erg]=Sing|Person[abs]=3|Person[erg]=3|VerbForm=Fin</td><td><em></em></td></tr>
   <tr><td>ADT ADT ASP:PNT|NOR:HAIEK|NORK:NIK</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Plur|Number[erg]=Sing|Person[abs]=3|Person[erg]=1|VerbForm=Fin</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>ADT ADT ASP:PNT|NOR:HAIEK|NORK:NIK|HIT:NO</td><td>=&gt;</td><td>VERB</td><td>Gender=Fem|Number[abs]=Plur|Number[erg]=Sing|Person[abs]=3|Person[erg]=1|VerbForm=Fin</td><td><em></em></td></tr>
-  <tr><td>ADT ADT ASP:PNT|NOR:HAIEK|NORK:ZUK</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Plur|Number[erg]=Sing|Person[abs]=3|Person[erg]=2|Polite[erg]=Pol|VerbForm=Fin</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>ADT ADT ASP:PNT|NOR:HAIEK|NORK:ZUK|HIT:TO</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Number[abs]=Plur|Number[erg]=Sing|Person[abs]=3|Person[erg]=2|Polite[erg]=Pol|VerbForm=Fin</td><td><em></em></td></tr>
-  <tr><td>ADT ADT ASP:PNT|NOR:HI</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Person[abs]=2|Polite[abs]=Inf|VerbForm=Fin</td><td><em></em></td></tr>
+  <tr><td>ADT ADT ASP:PNT|NOR:HAIEK|NORK:ZUK</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Plur|Number[erg]=Sing|Person[abs]=3|Person[erg]=2|Polite[erg]=Form|VerbForm=Fin</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>ADT ADT ASP:PNT|NOR:HAIEK|NORK:ZUK|HIT:TO</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Number[abs]=Plur|Number[erg]=Sing|Person[abs]=3|Person[erg]=2|Polite[erg]=Form|VerbForm=Fin</td><td><em></em></td></tr>
+  <tr><td>ADT ADT ASP:PNT|NOR:HI</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Person[abs]=2|Polite[abs]=Infm|VerbForm=Fin</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>ADT ADT ASP:PNT|NOR:HURA</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Person[abs]=3|VerbForm=Fin</td><td><em></em></td></tr>
   <tr><td>ADT ADT ASP:PNT|NOR:HURA|HIT:NO</td><td>=&gt;</td><td>VERB</td><td>Gender=Fem|Number[abs]=Sing|Person[abs]=3|VerbForm=Fin</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>ADT ADT ASP:PNT|NOR:HURA|HIT:TO</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Number[abs]=Sing|Person[abs]=3|VerbForm=Fin</td><td><em></em></td></tr>
@@ -2399,7 +2400,7 @@ Tagset <tt>eu::conll</tt>, total 5161 tags.
   <tr style="background:lightgray"><td>ADT ADT ASP:PNT|NOR:HURA|NORI:HAIEI</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Number[dat]=Plur|Person[abs]=3|Person[dat]=3|VerbForm=Fin</td><td><em></em></td></tr>
   <tr><td>ADT ADT ASP:PNT|NOR:HURA|NORI:HARI</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Number[dat]=Sing|Person[abs]=3|Person[dat]=3|VerbForm=Fin</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>ADT ADT ASP:PNT|NOR:HURA|NORI:NIRI</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Number[dat]=Sing|Person[abs]=3|Person[dat]=1|VerbForm=Fin</td><td><em></em></td></tr>
-  <tr><td>ADT ADT ASP:PNT|NOR:HURA|NORI:ZURI</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Number[dat]=Sing|Person[abs]=3|Person[dat]=2|Polite[dat]=Pol|VerbForm=Fin</td><td><em></em></td></tr>
+  <tr><td>ADT ADT ASP:PNT|NOR:HURA|NORI:ZURI</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Number[dat]=Sing|Person[abs]=3|Person[dat]=2|Polite[dat]=Form|VerbForm=Fin</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>ADT ADT ASP:PNT|NOR:HURA|NORK:GUK</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Number[erg]=Plur|Person[abs]=3|Person[erg]=1|VerbForm=Fin</td><td><em></em></td></tr>
   <tr><td>ADT ADT ASP:PNT|NOR:HURA|NORK:GUK|NORI:HAIEI</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Number[dat]=Plur|Number[erg]=Plur|Person[abs]=3|Person[dat]=3|Person[erg]=1|VerbForm=Fin</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>ADT ADT ASP:PNT|NOR:HURA|NORK:GUK|NORI:HARI</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Number[dat]=Sing|Number[erg]=Plur|Person[abs]=3|Person[dat]=3|Person[erg]=1|VerbForm=Fin</td><td><em></em></td></tr>
@@ -2413,27 +2414,27 @@ Tagset <tt>eu::conll</tt>, total 5161 tags.
   <tr style="background:lightgray"><td>ADT ADT ASP:PNT|NOR:HURA|NORK:HARK|NORI:GURI</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Number[dat]=Plur|Number[erg]=Sing|Person[abs]=3|Person[dat]=1|Person[erg]=3|VerbForm=Fin</td><td><em></em></td></tr>
   <tr><td>ADT ADT ASP:PNT|NOR:HURA|NORK:HARK|NORI:HAIEI</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Number[dat]=Plur|Number[erg]=Sing|Person[abs]=3|Person[dat]=3|Person[erg]=3|VerbForm=Fin</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>ADT ADT ASP:PNT|NOR:HURA|NORK:HARK|NORI:HARI</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Number[dat]=Sing|Number[erg]=Sing|Person[abs]=3|Person[dat]=3|Person[erg]=3|VerbForm=Fin</td><td><em></em></td></tr>
-  <tr><td>ADT ADT ASP:PNT|NOR:HURA|NORK:HARK|NORI:ZURI</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Number[dat]=Sing|Number[erg]=Sing|Person[abs]=3|Person[dat]=2|Person[erg]=3|Polite[dat]=Pol|VerbForm=Fin</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>ADT ADT ASP:PNT|NOR:HURA|NORK:HIK</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=2|Polite[erg]=Inf|VerbForm=Fin</td><td><em></em></td></tr>
-  <tr><td>ADT ADT ASP:PNT|NOR:HURA|NORK:HIK-NO</td><td>=&gt;</td><td>VERB</td><td>Gender[erg]=Fem|Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=2|Polite[erg]=Inf|VerbForm=Fin</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>ADT ADT ASP:PNT|NOR:HURA|NORK:HIK-TO</td><td>=&gt;</td><td>VERB</td><td>Gender[erg]=Masc|Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=2|Polite[erg]=Inf|VerbForm=Fin</td><td><em></em></td></tr>
+  <tr><td>ADT ADT ASP:PNT|NOR:HURA|NORK:HARK|NORI:ZURI</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Number[dat]=Sing|Number[erg]=Sing|Person[abs]=3|Person[dat]=2|Person[erg]=3|Polite[dat]=Form|VerbForm=Fin</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>ADT ADT ASP:PNT|NOR:HURA|NORK:HIK</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=2|Polite[erg]=Infm|VerbForm=Fin</td><td><em></em></td></tr>
+  <tr><td>ADT ADT ASP:PNT|NOR:HURA|NORK:HIK-NO</td><td>=&gt;</td><td>VERB</td><td>Gender[erg]=Fem|Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=2|Polite[erg]=Infm|VerbForm=Fin</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>ADT ADT ASP:PNT|NOR:HURA|NORK:HIK-TO</td><td>=&gt;</td><td>VERB</td><td>Gender[erg]=Masc|Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=2|Polite[erg]=Infm|VerbForm=Fin</td><td><em></em></td></tr>
   <tr><td>ADT ADT ASP:PNT|NOR:HURA|NORK:NIK</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=1|VerbForm=Fin</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>ADT ADT ASP:PNT|NOR:HURA|NORK:NIK|HIT:NO</td><td>=&gt;</td><td>VERB</td><td>Gender=Fem|Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=1|VerbForm=Fin</td><td><em></em></td></tr>
   <tr><td>ADT ADT ASP:PNT|NOR:HURA|NORK:NIK|HIT:TO</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=1|VerbForm=Fin</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>ADT ADT ASP:PNT|NOR:HURA|NORK:NIK|NORI:HARI</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Number[dat]=Sing|Number[erg]=Sing|Person[abs]=3|Person[dat]=3|Person[erg]=1|VerbForm=Fin</td><td><em></em></td></tr>
   <tr><td>ADT ADT ASP:PNT|NOR:HURA|NORK:ZUEK-K</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Number[erg]=Plur|Person[abs]=3|Person[erg]=2|VerbForm=Fin</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>ADT ADT ASP:PNT|NOR:HURA|NORK:ZUK</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=2|Polite[erg]=Pol|VerbForm=Fin</td><td><em></em></td></tr>
-  <tr><td>ADT ADT ASP:PNT|NOR:HURA|NORK:ZUK|NORI:HARI</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Number[dat]=Sing|Number[erg]=Sing|Person[abs]=3|Person[dat]=3|Person[erg]=2|Polite[erg]=Pol|VerbForm=Fin</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>ADT ADT ASP:PNT|NOR:HURA|NORK:ZUK|NORI:NIRI</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Number[dat]=Sing|Number[erg]=Sing|Person[abs]=3|Person[dat]=1|Person[erg]=2|Polite[erg]=Pol|VerbForm=Fin</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>ADT ADT ASP:PNT|NOR:HURA|NORK:ZUK</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=2|Polite[erg]=Form|VerbForm=Fin</td><td><em></em></td></tr>
+  <tr><td>ADT ADT ASP:PNT|NOR:HURA|NORK:ZUK|NORI:HARI</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Number[dat]=Sing|Number[erg]=Sing|Person[abs]=3|Person[dat]=3|Person[erg]=2|Polite[erg]=Form|VerbForm=Fin</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>ADT ADT ASP:PNT|NOR:HURA|NORK:ZUK|NORI:NIRI</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Number[dat]=Sing|Number[erg]=Sing|Person[abs]=3|Person[dat]=1|Person[erg]=2|Polite[erg]=Form|VerbForm=Fin</td><td><em></em></td></tr>
   <tr><td>ADT ADT ASP:PNT|NOR:NI</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Person[abs]=1|VerbForm=Fin</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>ADT ADT ASP:PNT|NOR:NI|HIT:NO</td><td>=&gt;</td><td>VERB</td><td>Gender=Fem|Number[abs]=Sing|Person[abs]=1|VerbForm=Fin</td><td><em></em></td></tr>
   <tr><td>ADT ADT ASP:PNT|NOR:NI|HIT:TO</td><td>=&gt;</td><td>VERB</td><td>Gender=Masc|Number[abs]=Sing|Person[abs]=1|VerbForm=Fin</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>ADT ADT ASP:PNT|NOR:NI|NORK:ZUK</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Number[erg]=Sing|Person[abs]=1|Person[erg]=2|Polite[erg]=Pol|VerbForm=Fin</td><td><em></em></td></tr>
-  <tr><td>ADT ADT ASP:PNT|NOR:ZU</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Person[abs]=2|Polite[abs]=Pol|VerbForm=Fin</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>ADT ADT ASP:PNT|NOR:NI|NORK:ZUK</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Number[erg]=Sing|Person[abs]=1|Person[erg]=2|Polite[erg]=Form|VerbForm=Fin</td><td><em></em></td></tr>
+  <tr><td>ADT ADT ASP:PNT|NOR:ZU</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Sing|Person[abs]=2|Polite[abs]=Form|VerbForm=Fin</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>ADT ADT ASP:PNT|NOR:ZUEK</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Plur|Person[abs]=2|VerbForm=Fin</td><td><em></em></td></tr>
   <tr><td>ADT ADT ASP:PNT|NOR:ZUEK|NORK:HARK</td><td>=&gt;</td><td>VERB</td><td>Number[abs]=Plur|Number[erg]=Sing|Person[abs]=2|Person[erg]=3|VerbForm=Fin</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>ADT ADT_IZEELI ASP:PNT|KAS:ABL|NUM:S|MUG:M|MDN:B1|NOR:GU</td><td>=&gt;</td><td>VERB</td><td>Case=Abl|Number=Sing|Number[abs]=Plur|Person[abs]=1|VerbForm=Fin</td><td><em>ginenekotik</em></td></tr>
-  <tr><td>ADT ADT_IZEELI ASP:PNT|KAS:ABS|NUM:PH|MUG:M|MDN:A1|NOR:ZU|NORK:GUK</td><td>=&gt;</td><td>VERB</td><td>Case=Abs|Number=Plur|Number[abs]=Sing|Number[erg]=Plur|Person[abs]=2|Person[erg]=1|Polite[abs]=Pol|VerbForm=Fin</td><td><em>zaitugunok</em></td></tr>
+  <tr><td>ADT ADT_IZEELI ASP:PNT|KAS:ABS|NUM:PH|MUG:M|MDN:A1|NOR:ZU|NORK:GUK</td><td>=&gt;</td><td>VERB</td><td>Case=Abs|Number=Plur|Number[abs]=Sing|Number[erg]=Plur|Person[abs]=2|Person[erg]=1|Polite[abs]=Form|VerbForm=Fin</td><td><em>zaitugunok</em></td></tr>
   <tr style="background:lightgray"><td>ADT ADT_IZEELI ASP:PNT|KAS:ABS|NUM:P|MUG:M|MDN:A1|NOR:GU</td><td>=&gt;</td><td>VERB</td><td>Case=Abs|Number=Plur|Number[abs]=Plur|Person[abs]=1|VerbForm=Fin</td><td><em>gaudenak</em></td></tr>
   <tr><td>ADT ADT_IZEELI ASP:PNT|KAS:ABS|NUM:P|MUG:M|MDN:A1|NOR:HAIEK</td><td>=&gt;</td><td>VERB</td><td>Case=Abs|Number=Plur|Number[abs]=Plur|Person[abs]=3|VerbForm=Fin</td><td><em>direnak, daudenak, direnetakoak</em></td></tr>
   <tr style="background:lightgray"><td>ADT ADT_IZEELI ASP:PNT|KAS:ABS|NUM:P|MUG:M|MDN:A1|NOR:HAIEK|NORI:HAIEI</td><td>=&gt;</td><td>VERB</td><td>Case=Abs|Number=Plur|Number[abs]=Plur|Number[dat]=Plur|Person[abs]=3|Person[dat]=3|VerbForm=Fin</td><td><em>zaizkienak</em></td></tr>
@@ -2447,12 +2448,12 @@ Tagset <tt>eu::conll</tt>, total 5161 tags.
   <tr style="background:lightgray"><td>ADT ADT_IZEELI ASP:PNT|KAS:ABS|NUM:S|MUG:M|MDN:A1|NOR:HAIEK|NORK:HARK</td><td>=&gt;</td><td>VERB</td><td>Case=Abs|Number=Sing|Number[abs]=Plur|Number[erg]=Sing|Person[abs]=3|Person[erg]=3|VerbForm=Fin</td><td><em>dituena</em></td></tr>
   <tr><td>ADT ADT_IZEELI ASP:PNT|KAS:ABS|NUM:S|MUG:M|MDN:A1|NOR:HURA</td><td>=&gt;</td><td>VERB</td><td>Case=Abs|Number=Sing|Number[abs]=Sing|Person[abs]=3|VerbForm=Fin</td><td><em>dena, dagoena, delakoa, doanekoa, datorrena</em></td></tr>
   <tr style="background:lightgray"><td>ADT ADT_IZEELI ASP:PNT|KAS:ABS|NUM:S|MUG:M|MDN:A1|NOR:HURA|NORI:GURI</td><td>=&gt;</td><td>VERB</td><td>Case=Abs|Number=Sing|Number[abs]=Sing|Number[dat]=Plur|Person[abs]=3|Person[dat]=1|VerbForm=Fin</td><td><em>zaiguna</em></td></tr>
-  <tr><td>ADT ADT_IZEELI ASP:PNT|KAS:ABS|NUM:S|MUG:M|MDN:A1|NOR:HURA|NORI:ZURI</td><td>=&gt;</td><td>VERB</td><td>Case=Abs|Number=Sing|Number[abs]=Sing|Number[dat]=Sing|Person[abs]=3|Person[dat]=2|Polite[dat]=Pol|VerbForm=Fin</td><td><em>datorkizuna</em></td></tr>
+  <tr><td>ADT ADT_IZEELI ASP:PNT|KAS:ABS|NUM:S|MUG:M|MDN:A1|NOR:HURA|NORI:ZURI</td><td>=&gt;</td><td>VERB</td><td>Case=Abs|Number=Sing|Number[abs]=Sing|Number[dat]=Sing|Person[abs]=3|Person[dat]=2|Polite[dat]=Form|VerbForm=Fin</td><td><em>datorkizuna</em></td></tr>
   <tr style="background:lightgray"><td>ADT ADT_IZEELI ASP:PNT|KAS:ABS|NUM:S|MUG:M|MDN:A1|NOR:HURA|NORK:GUK</td><td>=&gt;</td><td>VERB</td><td>Case=Abs|Number=Sing|Number[abs]=Sing|Number[erg]=Plur|Person[abs]=3|Person[erg]=1|VerbForm=Fin</td><td><em>duguna, dakiguna</em></td></tr>
   <tr><td>ADT ADT_IZEELI ASP:PNT|KAS:ABS|NUM:S|MUG:M|MDN:A1|NOR:HURA|NORK:HARK</td><td>=&gt;</td><td>VERB</td><td>Case=Abs|Number=Sing|Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=3|VerbForm=Fin</td><td><em>duena, daukana, dioena</em></td></tr>
   <tr style="background:lightgray"><td>ADT ADT_IZEELI ASP:PNT|KAS:ABS|NUM:S|MUG:M|MDN:A1|NOR:HURA|NORK:HARK|NORI:HARI</td><td>=&gt;</td><td>VERB</td><td>Case=Abs|Number=Sing|Number[abs]=Sing|Number[dat]=Sing|Number[erg]=Sing|Person[abs]=3|Person[dat]=3|Person[erg]=3|VerbForm=Fin</td><td><em>deritzona</em></td></tr>
   <tr><td>ADT ADT_IZEELI ASP:PNT|KAS:ABS|NUM:S|MUG:M|MDN:A1|NOR:HURA|NORK:NIK</td><td>=&gt;</td><td>VERB</td><td>Case=Abs|Number=Sing|Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=1|VerbForm=Fin</td><td><em>dudana</em></td></tr>
-  <tr style="background:lightgray"><td>ADT ADT_IZEELI ASP:PNT|KAS:ABS|NUM:S|MUG:M|MDN:A1|NOR:HURA|NORK:ZUK</td><td>=&gt;</td><td>VERB</td><td>Case=Abs|Number=Sing|Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=2|Polite[erg]=Pol|VerbForm=Fin</td><td><em>dakizuna</em></td></tr>
+  <tr style="background:lightgray"><td>ADT ADT_IZEELI ASP:PNT|KAS:ABS|NUM:S|MUG:M|MDN:A1|NOR:HURA|NORK:ZUK</td><td>=&gt;</td><td>VERB</td><td>Case=Abs|Number=Sing|Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=2|Polite[erg]=Form|VerbForm=Fin</td><td><em>dakizuna</em></td></tr>
   <tr><td>ADT ADT_IZEELI ASP:PNT|KAS:ABS|NUM:S|MUG:M|MDN:A1|NOR:NI</td><td>=&gt;</td><td>VERB</td><td>Case=Abs|Number=Sing|Number[abs]=Sing|Person[abs]=1|VerbForm=Fin</td><td><em>naizena</em></td></tr>
   <tr style="background:lightgray"><td>ADT ADT_IZEELI ASP:PNT|KAS:ABS|NUM:S|MUG:M|MDN:B1|NOR:HAIEK|NORK:HARK</td><td>=&gt;</td><td>VERB</td><td>Case=Abs|Number=Sing|Number[abs]=Plur|Number[erg]=Sing|Person[abs]=3|Person[erg]=3|VerbForm=Fin</td><td><em>zituena</em></td></tr>
   <tr><td>ADT ADT_IZEELI ASP:PNT|KAS:ABS|NUM:S|MUG:M|MDN:B1|NOR:HURA</td><td>=&gt;</td><td>VERB</td><td>Case=Abs|Number=Sing|Number[abs]=Sing|Person[abs]=3|VerbForm=Fin</td><td><em>zena, zegoena, zihoana</em></td></tr>
@@ -2487,7 +2488,7 @@ Tagset <tt>eu::conll</tt>, total 5161 tags.
   <tr style="background:lightgray"><td>ADT ADT_IZEELI ASP:PNT|KAS:INS|NUM:P|MUG:M|MDN:A1|NOR:HURA</td><td>=&gt;</td><td>VERB</td><td>Case=Ins|Number=Plur|Number[abs]=Sing|Person[abs]=3|VerbForm=Fin</td><td><em>dagoenez</em></td></tr>
   <tr><td>ADT ADT_IZEELI ASP:PNT|KAS:INS|NUM:P|MUG:M|MDN:A1|NOR:HURA|NORI:HARI</td><td>=&gt;</td><td>VERB</td><td>Case=Ins|Number=Plur|Number[abs]=Sing|Number[dat]=Sing|Person[abs]=3|Person[dat]=3|VerbForm=Fin</td><td><em>dagokionez</em></td></tr>
   <tr style="background:lightgray"><td>ADT ADT_IZEELI ASP:PNT|KAS:INS|NUM:S|MUG:M|MDN:A1|NOR:HURA|NORI:HARI</td><td>=&gt;</td><td>VERB</td><td>Case=Ins|Number=Sing|Number[abs]=Sing|Number[dat]=Sing|Person[abs]=3|Person[dat]=3|VerbForm=Fin</td><td><em>dagokionaz</em></td></tr>
-  <tr><td>ADT ADT_IZEELI ASP:PNT|KAS:INS|NUM:S|MUG:M|MDN:A1|NOR:HURA|NORK:ZUK</td><td>=&gt;</td><td>VERB</td><td>Case=Ins|Number=Sing|Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=2|Polite[erg]=Pol|VerbForm=Fin</td><td><em>diozunaz</em></td></tr>
+  <tr><td>ADT ADT_IZEELI ASP:PNT|KAS:INS|NUM:S|MUG:M|MDN:A1|NOR:HURA|NORK:ZUK</td><td>=&gt;</td><td>VERB</td><td>Case=Ins|Number=Sing|Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=2|Polite[erg]=Form|VerbForm=Fin</td><td><em>diozunaz</em></td></tr>
   <tr style="background:lightgray"><td>BEREIZ BEREIZ _</td><td>=&gt;</td><td>PUNCT</td><td>_</td><td><em>", (, ), -, »</em></td></tr>
   <tr><td>BST BST ENT:Pertsona</td><td>=&gt;</td><td>X</td><td>NameType=Prs</td><td><em>El, Le, De</em></td></tr>
   <tr style="background:lightgray"><td>BST BST MTKAT:LAB</td><td>=&gt;</td><td>X</td><td>_</td><td><em>etab</em></td></tr>
@@ -3268,65 +3269,65 @@ Tagset <tt>eu::conll</tt>, total 5161 tags.
   <tr><td>IOR PERARR NUM:P|MUG:M|KAS:INS|PER:ZUEK</td><td>=&gt;</td><td>PRON</td><td>Case=Ins|Number=Plur|Person=2|PronType=Prs</td><td><em>zuetaz</em></td></tr>
   <tr style="background:lightgray"><td>IOR PERARR NUM:P|MUG:M|KAS:SOZ|PER:GU</td><td>=&gt;</td><td>PRON</td><td>Case=Com|Number=Plur|Person=1|PronType=Prs</td><td><em>gurekin</em></td></tr>
   <tr><td>IOR PERARR NUM:P|MUG:M|KAS:SOZ|PER:HAIEK</td><td>=&gt;</td><td>PRON</td><td>Case=Com|Number=Plur|Person=3|PronType=Prs</td><td><em>beraiekin, eurekin</em></td></tr>
-  <tr style="background:lightgray"><td>IOR PERARR NUM:S|KAS:ABL|PER:ZU</td><td>=&gt;</td><td>PRON</td><td>Case=Abl|Number=Sing|Person=2|Polite=Pol|PronType=Prs</td><td><em></em></td></tr>
-  <tr><td>IOR PERARR NUM:S|KAS:ABS|PER:HI</td><td>=&gt;</td><td>PRON</td><td>Case=Abs|Number=Sing|Person=2|Polite=Inf|PronType=Prs</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>IOR PERARR NUM:S|KAS:ABL|PER:ZU</td><td>=&gt;</td><td>PRON</td><td>Case=Abl|Number=Sing|Person=2|Polite=Form|PronType=Prs</td><td><em></em></td></tr>
+  <tr><td>IOR PERARR NUM:S|KAS:ABS|PER:HI</td><td>=&gt;</td><td>PRON</td><td>Case=Abs|Number=Sing|Person=2|Polite=Infm|PronType=Prs</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>IOR PERARR NUM:S|KAS:ABS|PER:HURA</td><td>=&gt;</td><td>PRON</td><td>Case=Abs|Number=Sing|Person=3|PronType=Prs</td><td><em></em></td></tr>
   <tr><td>IOR PERARR NUM:S|KAS:ABS|PER:NI</td><td>=&gt;</td><td>PRON</td><td>Case=Abs|Number=Sing|Person=1|PronType=Prs</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>IOR PERARR NUM:S|KAS:ABS|PER:ZU</td><td>=&gt;</td><td>PRON</td><td>Case=Abs|Number=Sing|Person=2|Polite=Pol|PronType=Prs</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>IOR PERARR NUM:S|KAS:ABS|PER:ZU</td><td>=&gt;</td><td>PRON</td><td>Case=Abs|Number=Sing|Person=2|Polite=Form|PronType=Prs</td><td><em></em></td></tr>
   <tr><td>IOR PERARR NUM:S|KAS:ALA|PER:NI</td><td>=&gt;</td><td>PRON</td><td>Case=All|Number=Sing|Person=1|PronType=Prs</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>IOR PERARR NUM:S|KAS:DAT|PER:HI</td><td>=&gt;</td><td>PRON</td><td>Case=Dat|Number=Sing|Person=2|Polite=Inf|PronType=Prs</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>IOR PERARR NUM:S|KAS:DAT|PER:HI</td><td>=&gt;</td><td>PRON</td><td>Case=Dat|Number=Sing|Person=2|Polite=Infm|PronType=Prs</td><td><em></em></td></tr>
   <tr><td>IOR PERARR NUM:S|KAS:DAT|PER:NI</td><td>=&gt;</td><td>PRON</td><td>Case=Dat|Number=Sing|Person=1|PronType=Prs</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>IOR PERARR NUM:S|KAS:DES|PER:NI</td><td>=&gt;</td><td>PRON</td><td>Case=Ben|Number=Sing|Person=1|PronType=Prs</td><td><em></em></td></tr>
-  <tr><td>IOR PERARR NUM:S|KAS:DES|PER:ZU</td><td>=&gt;</td><td>PRON</td><td>Case=Ben|Number=Sing|Person=2|Polite=Pol|PronType=Prs</td><td><em></em></td></tr>
+  <tr><td>IOR PERARR NUM:S|KAS:DES|PER:ZU</td><td>=&gt;</td><td>PRON</td><td>Case=Ben|Number=Sing|Person=2|Polite=Form|PronType=Prs</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>IOR PERARR NUM:S|KAS:EM|PER:NI</td><td>=&gt;</td><td>PRON</td><td>Number=Sing|Person=1|PrepCase=Pre|PronType=Prs</td><td><em></em></td></tr>
-  <tr><td>IOR PERARR NUM:S|KAS:ERG|PER:HI</td><td>=&gt;</td><td>PRON</td><td>Case=Erg|Number=Sing|Person=2|Polite=Inf|PronType=Prs</td><td><em></em></td></tr>
+  <tr><td>IOR PERARR NUM:S|KAS:ERG|PER:HI</td><td>=&gt;</td><td>PRON</td><td>Case=Erg|Number=Sing|Person=2|Polite=Infm|PronType=Prs</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>IOR PERARR NUM:S|KAS:ERG|PER:NI</td><td>=&gt;</td><td>PRON</td><td>Case=Erg|Number=Sing|Person=1|PronType=Prs</td><td><em></em></td></tr>
   <tr><td>IOR PERARR NUM:S|KAS:ERG|PER:NI|ENT:Pertsona</td><td>=&gt;</td><td>PRON</td><td>Case=Erg|NameType=Prs|Number=Sing|Person=1|PronType=Prs</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>IOR PERARR NUM:S|KAS:ERG|PER:ZU</td><td>=&gt;</td><td>PRON</td><td>Case=Erg|Number=Sing|Person=2|Polite=Pol|PronType=Prs</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>IOR PERARR NUM:S|KAS:ERG|PER:ZU</td><td>=&gt;</td><td>PRON</td><td>Case=Erg|Number=Sing|Person=2|Polite=Form|PronType=Prs</td><td><em></em></td></tr>
   <tr><td>IOR PERARR NUM:S|KAS:GEL|PER:NI</td><td>=&gt;</td><td>PRON</td><td>Case=Loc|Number=Sing|Person=1|PronType=Prs</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>IOR PERARR NUM:S|KAS:GEL|PER:ZU</td><td>=&gt;</td><td>PRON</td><td>Case=Loc|Number=Sing|Person=2|Polite=Pol|PronType=Prs</td><td><em></em></td></tr>
-  <tr><td>IOR PERARR NUM:S|KAS:GEN|PER:HI</td><td>=&gt;</td><td>PRON</td><td>Case=Gen|Number=Sing|Person=2|Polite=Inf|PronType=Prs</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>IOR PERARR NUM:S|KAS:GEL|PER:ZU</td><td>=&gt;</td><td>PRON</td><td>Case=Loc|Number=Sing|Person=2|Polite=Form|PronType=Prs</td><td><em></em></td></tr>
+  <tr><td>IOR PERARR NUM:S|KAS:GEN|PER:HI</td><td>=&gt;</td><td>PRON</td><td>Case=Gen|Number=Sing|Person=2|Polite=Infm|PronType=Prs</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>IOR PERARR NUM:S|KAS:GEN|PER:NI</td><td>=&gt;</td><td>PRON</td><td>Case=Gen|Number=Sing|Person=1|PronType=Prs</td><td><em></em></td></tr>
-  <tr><td>IOR PERARR NUM:S|KAS:GEN|PER:ZU</td><td>=&gt;</td><td>PRON</td><td>Case=Gen|Number=Sing|Person=2|Polite=Pol|PronType=Prs</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>IOR PERARR NUM:S|KAS:GEN|PER:ZU|ENT:Erakundea</td><td>=&gt;</td><td>PRON</td><td>Case=Gen|NameType=Com|Number=Sing|Person=2|Polite=Pol|PronType=Prs</td><td><em></em></td></tr>
+  <tr><td>IOR PERARR NUM:S|KAS:GEN|PER:ZU</td><td>=&gt;</td><td>PRON</td><td>Case=Gen|Number=Sing|Person=2|Polite=Form|PronType=Prs</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>IOR PERARR NUM:S|KAS:GEN|PER:ZU|ENT:Erakundea</td><td>=&gt;</td><td>PRON</td><td>Case=Gen|NameType=Com|Number=Sing|Person=2|Polite=Form|PronType=Prs</td><td><em></em></td></tr>
   <tr><td>IOR PERARR NUM:S|KAS:INE|PER:NI</td><td>=&gt;</td><td>PRON</td><td>Case=Ine|Number=Sing|Person=1|PronType=Prs</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>IOR PERARR NUM:S|KAS:INS|PER:NI</td><td>=&gt;</td><td>PRON</td><td>Case=Ins|Number=Sing|Person=1|PronType=Prs</td><td><em></em></td></tr>
-  <tr><td>IOR PERARR NUM:S|KAS:INS|PER:ZU</td><td>=&gt;</td><td>PRON</td><td>Case=Ins|Number=Sing|Person=2|Polite=Pol|PronType=Prs</td><td><em></em></td></tr>
+  <tr><td>IOR PERARR NUM:S|KAS:INS|PER:ZU</td><td>=&gt;</td><td>PRON</td><td>Case=Ins|Number=Sing|Person=2|Polite=Form|PronType=Prs</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>IOR PERARR NUM:S|KAS:MOT|PER:NI</td><td>=&gt;</td><td>PRON</td><td>Case=Cau|Number=Sing|Person=1|PronType=Prs</td><td><em></em></td></tr>
   <tr><td>IOR PERARR NUM:S|KAS:SOZ|PER:NI</td><td>=&gt;</td><td>PRON</td><td>Case=Com|Number=Sing|Person=1|PronType=Prs</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>IOR PERARR NUM:S|KAS:SOZ|PER:ZU</td><td>=&gt;</td><td>PRON</td><td>Case=Com|Number=Sing|Person=2|Polite=Pol|PronType=Prs</td><td><em></em></td></tr>
-  <tr><td>IOR PERARR NUM:S|MUG:M|KAS:ABL|PER:ZU</td><td>=&gt;</td><td>PRON</td><td>Case=Abl|Number=Sing|Person=2|Polite=Pol|PronType=Prs</td><td><em>zugandik</em></td></tr>
-  <tr style="background:lightgray"><td>IOR PERARR NUM:S|MUG:M|KAS:ABS|PER:HI</td><td>=&gt;</td><td>PRON</td><td>Case=Abs|Number=Sing|Person=2|Polite=Inf|PronType=Prs</td><td><em>hi</em></td></tr>
+  <tr style="background:lightgray"><td>IOR PERARR NUM:S|KAS:SOZ|PER:ZU</td><td>=&gt;</td><td>PRON</td><td>Case=Com|Number=Sing|Person=2|Polite=Form|PronType=Prs</td><td><em></em></td></tr>
+  <tr><td>IOR PERARR NUM:S|MUG:M|KAS:ABL|PER:ZU</td><td>=&gt;</td><td>PRON</td><td>Case=Abl|Number=Sing|Person=2|Polite=Form|PronType=Prs</td><td><em>zugandik</em></td></tr>
+  <tr style="background:lightgray"><td>IOR PERARR NUM:S|MUG:M|KAS:ABS|PER:HI</td><td>=&gt;</td><td>PRON</td><td>Case=Abs|Number=Sing|Person=2|Polite=Infm|PronType=Prs</td><td><em>hi</em></td></tr>
   <tr><td>IOR PERARR NUM:S|MUG:M|KAS:ABS|PER:HURA</td><td>=&gt;</td><td>PRON</td><td>Case=Abs|Number=Sing|Person=3|PronType=Prs</td><td><em>berau</em></td></tr>
   <tr style="background:lightgray"><td>IOR PERARR NUM:S|MUG:M|KAS:ABS|PER:NI</td><td>=&gt;</td><td>PRON</td><td>Case=Abs|Number=Sing|Person=1|PronType=Prs</td><td><em>ni, niretzako, nire, nirea</em></td></tr>
-  <tr><td>IOR PERARR NUM:S|MUG:M|KAS:ABS|PER:ZU</td><td>=&gt;</td><td>PRON</td><td>Case=Abs|Number=Sing|Person=2|Polite=Pol|PronType=Prs</td><td><em>zu, zureak</em></td></tr>
+  <tr><td>IOR PERARR NUM:S|MUG:M|KAS:ABS|PER:ZU</td><td>=&gt;</td><td>PRON</td><td>Case=Abs|Number=Sing|Person=2|Polite=Form|PronType=Prs</td><td><em>zu, zureak</em></td></tr>
   <tr style="background:lightgray"><td>IOR PERARR NUM:S|MUG:M|KAS:ALA|PER:NI</td><td>=&gt;</td><td>PRON</td><td>Case=All|Number=Sing|Person=1|PronType=Prs</td><td><em>niregana</em></td></tr>
-  <tr><td>IOR PERARR NUM:S|MUG:M|KAS:DAT|PER:HI</td><td>=&gt;</td><td>PRON</td><td>Case=Dat|Number=Sing|Person=2|Polite=Inf|PronType=Prs</td><td><em>hiri</em></td></tr>
+  <tr><td>IOR PERARR NUM:S|MUG:M|KAS:DAT|PER:HI</td><td>=&gt;</td><td>PRON</td><td>Case=Dat|Number=Sing|Person=2|Polite=Infm|PronType=Prs</td><td><em>hiri</em></td></tr>
   <tr style="background:lightgray"><td>IOR PERARR NUM:S|MUG:M|KAS:DAT|PER:NI</td><td>=&gt;</td><td>PRON</td><td>Case=Dat|Number=Sing|Person=1|PronType=Prs</td><td><em>niri</em></td></tr>
   <tr><td>IOR PERARR NUM:S|MUG:M|KAS:DES|PER:NI</td><td>=&gt;</td><td>PRON</td><td>Case=Ben|Number=Sing|Person=1|PronType=Prs</td><td><em>niretzat</em></td></tr>
-  <tr style="background:lightgray"><td>IOR PERARR NUM:S|MUG:M|KAS:DES|PER:ZU</td><td>=&gt;</td><td>PRON</td><td>Case=Ben|Number=Sing|Person=2|Polite=Pol|PronType=Prs</td><td><em>zuretzat</em></td></tr>
+  <tr style="background:lightgray"><td>IOR PERARR NUM:S|MUG:M|KAS:DES|PER:ZU</td><td>=&gt;</td><td>PRON</td><td>Case=Ben|Number=Sing|Person=2|Polite=Form|PronType=Prs</td><td><em>zuretzat</em></td></tr>
   <tr><td>IOR PERARR NUM:S|MUG:M|KAS:EM|PER:NI|POS:POSbegira|POS:+</td><td>=&gt;</td><td>PRON</td><td>Number=Sing|Person=1|PrepCase=Pre|PronType=Prs</td><td><em>niri_begira</em></td></tr>
   <tr style="background:lightgray"><td>IOR PERARR NUM:S|MUG:M|KAS:EM|PER:NI|POS:POSbezala|POS:+</td><td>=&gt;</td><td>PRON</td><td>Number=Sing|Person=1|PrepCase=Pre|PronType=Prs</td><td><em>Nik_bezala</em></td></tr>
   <tr><td>IOR PERARR NUM:S|MUG:M|KAS:EM|PER:NI|POS:POSzai|POS:+</td><td>=&gt;</td><td>PRON</td><td>Number=Sing|Person=1|PrepCase=Pre|PronType=Prs</td><td><em>nire_zai</em></td></tr>
-  <tr style="background:lightgray"><td>IOR PERARR NUM:S|MUG:M|KAS:ERG|PER:HI</td><td>=&gt;</td><td>PRON</td><td>Case=Erg|Number=Sing|Person=2|Polite=Inf|PronType=Prs</td><td><em>Hik</em></td></tr>
+  <tr style="background:lightgray"><td>IOR PERARR NUM:S|MUG:M|KAS:ERG|PER:HI</td><td>=&gt;</td><td>PRON</td><td>Case=Erg|Number=Sing|Person=2|Polite=Infm|PronType=Prs</td><td><em>Hik</em></td></tr>
   <tr><td>IOR PERARR NUM:S|MUG:M|KAS:ERG|PER:NI</td><td>=&gt;</td><td>PRON</td><td>Case=Erg|Number=Sing|Person=1|PronType=Prs</td><td><em>nik</em></td></tr>
   <tr style="background:lightgray"><td>IOR PERARR NUM:S|MUG:M|KAS:ERG|PER:NI|ENT:Pertsona</td><td>=&gt;</td><td>PRON</td><td>Case=Erg|NameType=Prs|Number=Sing|Person=1|PronType=Prs</td><td><em>Nik</em></td></tr>
-  <tr><td>IOR PERARR NUM:S|MUG:M|KAS:ERG|PER:ZU</td><td>=&gt;</td><td>PRON</td><td>Case=Erg|Number=Sing|Person=2|Polite=Pol|PronType=Prs</td><td><em>zuk</em></td></tr>
+  <tr><td>IOR PERARR NUM:S|MUG:M|KAS:ERG|PER:ZU</td><td>=&gt;</td><td>PRON</td><td>Case=Erg|Number=Sing|Person=2|Polite=Form|PronType=Prs</td><td><em>zuk</em></td></tr>
   <tr style="background:lightgray"><td>IOR PERARR NUM:S|MUG:M|KAS:GEL|PER:NI|POS:POSatzeko|POS:+</td><td>=&gt;</td><td>PRON</td><td>Case=Loc|Number=Sing|Person=1|PronType=Prs</td><td><em>ene_atzeko</em></td></tr>
   <tr><td>IOR PERARR NUM:S|MUG:M|KAS:GEL|PER:NI|POS:POSbarneko|POS:+</td><td>=&gt;</td><td>PRON</td><td>Case=Loc|Number=Sing|Person=1|PronType=Prs</td><td><em>nire_barneko</em></td></tr>
-  <tr style="background:lightgray"><td>IOR PERARR NUM:S|MUG:M|KAS:GEL|PER:ZU|POS:POSbarneko|POS:+</td><td>=&gt;</td><td>PRON</td><td>Case=Loc|Number=Sing|Person=2|Polite=Pol|PronType=Prs</td><td><em>zure_barneko</em></td></tr>
-  <tr><td>IOR PERARR NUM:S|MUG:M|KAS:GEN|PER:HI</td><td>=&gt;</td><td>PRON</td><td>Case=Gen|Number=Sing|Person=2|Polite=Inf|PronType=Prs</td><td><em>hire</em></td></tr>
+  <tr style="background:lightgray"><td>IOR PERARR NUM:S|MUG:M|KAS:GEL|PER:ZU|POS:POSbarneko|POS:+</td><td>=&gt;</td><td>PRON</td><td>Case=Loc|Number=Sing|Person=2|Polite=Form|PronType=Prs</td><td><em>zure_barneko</em></td></tr>
+  <tr><td>IOR PERARR NUM:S|MUG:M|KAS:GEN|PER:HI</td><td>=&gt;</td><td>PRON</td><td>Case=Gen|Number=Sing|Person=2|Polite=Infm|PronType=Prs</td><td><em>hire</em></td></tr>
   <tr style="background:lightgray"><td>IOR PERARR NUM:S|MUG:M|KAS:GEN|PER:NI</td><td>=&gt;</td><td>PRON</td><td>Case=Gen|Number=Sing|Person=1|PronType=Prs</td><td><em>nire, ene, Nere</em></td></tr>
-  <tr><td>IOR PERARR NUM:S|MUG:M|KAS:GEN|PER:ZU</td><td>=&gt;</td><td>PRON</td><td>Case=Gen|Number=Sing|Person=2|Polite=Pol|PronType=Prs</td><td><em>zure</em></td></tr>
-  <tr style="background:lightgray"><td>IOR PERARR NUM:S|MUG:M|KAS:GEN|PER:ZU|ENT:Erakundea</td><td>=&gt;</td><td>PRON</td><td>Case=Gen|NameType=Com|Number=Sing|Person=2|Polite=Pol|PronType=Prs</td><td><em>ZURE</em></td></tr>
+  <tr><td>IOR PERARR NUM:S|MUG:M|KAS:GEN|PER:ZU</td><td>=&gt;</td><td>PRON</td><td>Case=Gen|Number=Sing|Person=2|Polite=Form|PronType=Prs</td><td><em>zure</em></td></tr>
+  <tr style="background:lightgray"><td>IOR PERARR NUM:S|MUG:M|KAS:GEN|PER:ZU|ENT:Erakundea</td><td>=&gt;</td><td>PRON</td><td>Case=Gen|NameType=Com|Number=Sing|Person=2|Polite=Form|PronType=Prs</td><td><em>ZURE</em></td></tr>
   <tr><td>IOR PERARR NUM:S|MUG:M|KAS:INE|PER:NI</td><td>=&gt;</td><td>PRON</td><td>Case=Ine|Number=Sing|Person=1|PronType=Prs</td><td><em>nigan, niregan</em></td></tr>
   <tr style="background:lightgray"><td>IOR PERARR NUM:S|MUG:M|KAS:INE|PER:NI|POS:POSaurrean|POS:+</td><td>=&gt;</td><td>PRON</td><td>Case=Ine|Number=Sing|Person=1|PronType=Prs</td><td><em>nire_aurrean</em></td></tr>
   <tr><td>IOR PERARR NUM:S|MUG:M|KAS:INE|PER:NI|POS:POSbarnean|POS:+</td><td>=&gt;</td><td>PRON</td><td>Case=Ine|Number=Sing|Person=1|PronType=Prs</td><td><em>nire_barnean</em></td></tr>
   <tr style="background:lightgray"><td>IOR PERARR NUM:S|MUG:M|KAS:INS|PER:NI</td><td>=&gt;</td><td>PRON</td><td>Case=Ins|Number=Sing|Person=1|PronType=Prs</td><td><em>nitaz</em></td></tr>
-  <tr><td>IOR PERARR NUM:S|MUG:M|KAS:INS|PER:ZU</td><td>=&gt;</td><td>PRON</td><td>Case=Ins|Number=Sing|Person=2|Polite=Pol|PronType=Prs</td><td><em>zutaz</em></td></tr>
+  <tr><td>IOR PERARR NUM:S|MUG:M|KAS:INS|PER:ZU</td><td>=&gt;</td><td>PRON</td><td>Case=Ins|Number=Sing|Person=2|Polite=Form|PronType=Prs</td><td><em>zutaz</em></td></tr>
   <tr style="background:lightgray"><td>IOR PERARR NUM:S|MUG:M|KAS:MOT|PER:NI</td><td>=&gt;</td><td>PRON</td><td>Case=Cau|Number=Sing|Person=1|PronType=Prs</td><td><em>Niregatik</em></td></tr>
   <tr><td>IOR PERARR NUM:S|MUG:M|KAS:SOZ|PER:NI</td><td>=&gt;</td><td>PRON</td><td>Case=Com|Number=Sing|Person=1|PronType=Prs</td><td><em>nirekin</em></td></tr>
-  <tr style="background:lightgray"><td>IOR PERARR NUM:S|MUG:M|KAS:SOZ|PER:ZU</td><td>=&gt;</td><td>PRON</td><td>Case=Com|Number=Sing|Person=2|Polite=Pol|PronType=Prs</td><td><em>zurekin</em></td></tr>
+  <tr style="background:lightgray"><td>IOR PERARR NUM:S|MUG:M|KAS:SOZ|PER:ZU</td><td>=&gt;</td><td>PRON</td><td>Case=Com|Number=Sing|Person=2|Polite=Form|PronType=Prs</td><td><em>zurekin</em></td></tr>
   <tr><td>IOR PERIND NUM:P|KAS:ABS|PER:GU</td><td>=&gt;</td><td>PRON</td><td>Case=Abs|Number=Plur|Person=1|PronType=Prs</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>IOR PERIND NUM:P|KAS:DAT|PER:GU</td><td>=&gt;</td><td>PRON</td><td>Case=Dat|Number=Plur|Person=1|PronType=Prs</td><td><em></em></td></tr>
   <tr><td>IOR PERIND NUM:P|KAS:ERG|PER:GU</td><td>=&gt;</td><td>PRON</td><td>Case=Erg|Number=Plur|Person=1|PronType=Prs</td><td><em></em></td></tr>
@@ -3339,28 +3340,28 @@ Tagset <tt>eu::conll</tt>, total 5161 tags.
   <tr style="background:lightgray"><td>IOR PERIND NUM:P|MUG:M|KAS:INE|PER:GU</td><td>=&gt;</td><td>PRON</td><td>Case=Ine|Number=Plur|Person=1|PronType=Prs</td><td><em>Geuregan</em></td></tr>
   <tr><td>IOR PERIND NUM:S|KAS:ABL|PER:NI</td><td>=&gt;</td><td>PRON</td><td>Case=Abl|Number=Sing|Person=1|PronType=Prs</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>IOR PERIND NUM:S|KAS:ABS|PER:NI</td><td>=&gt;</td><td>PRON</td><td>Case=Abs|Number=Sing|Person=1|PronType=Prs</td><td><em></em></td></tr>
-  <tr><td>IOR PERIND NUM:S|KAS:ABS|PER:ZU</td><td>=&gt;</td><td>PRON</td><td>Case=Abs|Number=Sing|Person=2|Polite=Pol|PronType=Prs</td><td><em></em></td></tr>
+  <tr><td>IOR PERIND NUM:S|KAS:ABS|PER:ZU</td><td>=&gt;</td><td>PRON</td><td>Case=Abs|Number=Sing|Person=2|Polite=Form|PronType=Prs</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>IOR PERIND NUM:S|KAS:DAT|PER:NI</td><td>=&gt;</td><td>PRON</td><td>Case=Dat|Number=Sing|Person=1|PronType=Prs</td><td><em></em></td></tr>
-  <tr><td>IOR PERIND NUM:S|KAS:EM|PER:ZU</td><td>=&gt;</td><td>PRON</td><td>Number=Sing|Person=2|Polite=Pol|PrepCase=Pre|PronType=Prs</td><td><em></em></td></tr>
+  <tr><td>IOR PERIND NUM:S|KAS:EM|PER:ZU</td><td>=&gt;</td><td>PRON</td><td>Number=Sing|Person=2|Polite=Form|PrepCase=Pre|PronType=Prs</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>IOR PERIND NUM:S|KAS:ERG|PER:NI</td><td>=&gt;</td><td>PRON</td><td>Case=Erg|Number=Sing|Person=1|PronType=Prs</td><td><em></em></td></tr>
-  <tr><td>IOR PERIND NUM:S|KAS:ERG|PER:ZU</td><td>=&gt;</td><td>PRON</td><td>Case=Erg|Number=Sing|Person=2|Polite=Pol|PronType=Prs</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>IOR PERIND NUM:S|KAS:GEN|PER:HI</td><td>=&gt;</td><td>PRON</td><td>Case=Gen|Number=Sing|Person=2|Polite=Inf|PronType=Prs</td><td><em></em></td></tr>
+  <tr><td>IOR PERIND NUM:S|KAS:ERG|PER:ZU</td><td>=&gt;</td><td>PRON</td><td>Case=Erg|Number=Sing|Person=2|Polite=Form|PronType=Prs</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>IOR PERIND NUM:S|KAS:GEN|PER:HI</td><td>=&gt;</td><td>PRON</td><td>Case=Gen|Number=Sing|Person=2|Polite=Infm|PronType=Prs</td><td><em></em></td></tr>
   <tr><td>IOR PERIND NUM:S|KAS:GEN|PER:NI</td><td>=&gt;</td><td>PRON</td><td>Case=Gen|Number=Sing|Person=1|PronType=Prs</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>IOR PERIND NUM:S|KAS:GEN|PER:ZU</td><td>=&gt;</td><td>PRON</td><td>Case=Gen|Number=Sing|Person=2|Polite=Pol|PronType=Prs</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>IOR PERIND NUM:S|KAS:GEN|PER:ZU</td><td>=&gt;</td><td>PRON</td><td>Case=Gen|Number=Sing|Person=2|Polite=Form|PronType=Prs</td><td><em></em></td></tr>
   <tr><td>IOR PERIND NUM:S|KAS:INE|PER:NI</td><td>=&gt;</td><td>PRON</td><td>Case=Ine|Number=Sing|Person=1|PronType=Prs</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>IOR PERIND NUM:S|KAS:INE|PER:ZU</td><td>=&gt;</td><td>PRON</td><td>Case=Ine|Number=Sing|Person=2|Polite=Pol|PronType=Prs</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>IOR PERIND NUM:S|KAS:INE|PER:ZU</td><td>=&gt;</td><td>PRON</td><td>Case=Ine|Number=Sing|Person=2|Polite=Form|PronType=Prs</td><td><em></em></td></tr>
   <tr><td>IOR PERIND NUM:S|MUG:M|KAS:ABL|PER:NI|POS:POSaldetik|POS:+</td><td>=&gt;</td><td>PRON</td><td>Case=Abl|Number=Sing|Person=1|PronType=Prs</td><td><em>neure_aldetik</em></td></tr>
   <tr style="background:lightgray"><td>IOR PERIND NUM:S|MUG:M|KAS:ABS|PER:NI</td><td>=&gt;</td><td>PRON</td><td>Case=Abs|Number=Sing|Person=1|PronType=Prs</td><td><em>neu</em></td></tr>
-  <tr><td>IOR PERIND NUM:S|MUG:M|KAS:ABS|PER:ZU</td><td>=&gt;</td><td>PRON</td><td>Case=Abs|Number=Sing|Person=2|Polite=Pol|PronType=Prs</td><td><em>Zeu</em></td></tr>
+  <tr><td>IOR PERIND NUM:S|MUG:M|KAS:ABS|PER:ZU</td><td>=&gt;</td><td>PRON</td><td>Case=Abs|Number=Sing|Person=2|Polite=Form|PronType=Prs</td><td><em>Zeu</em></td></tr>
   <tr style="background:lightgray"><td>IOR PERIND NUM:S|MUG:M|KAS:DAT|PER:NI</td><td>=&gt;</td><td>PRON</td><td>Case=Dat|Number=Sing|Person=1|PronType=Prs</td><td><em>Neuri</em></td></tr>
-  <tr><td>IOR PERIND NUM:S|MUG:M|KAS:EM|PER:ZU|POS:POSgisara|POS:+</td><td>=&gt;</td><td>PRON</td><td>Number=Sing|Person=2|Polite=Pol|PrepCase=Pre|PronType=Prs</td><td><em>zeure_gisara</em></td></tr>
+  <tr><td>IOR PERIND NUM:S|MUG:M|KAS:EM|PER:ZU|POS:POSgisara|POS:+</td><td>=&gt;</td><td>PRON</td><td>Number=Sing|Person=2|Polite=Form|PrepCase=Pre|PronType=Prs</td><td><em>zeure_gisara</em></td></tr>
   <tr style="background:lightgray"><td>IOR PERIND NUM:S|MUG:M|KAS:ERG|PER:NI</td><td>=&gt;</td><td>PRON</td><td>Case=Erg|Number=Sing|Person=1|PronType=Prs</td><td><em>Neuk, neronek</em></td></tr>
-  <tr><td>IOR PERIND NUM:S|MUG:M|KAS:ERG|PER:ZU</td><td>=&gt;</td><td>PRON</td><td>Case=Erg|Number=Sing|Person=2|Polite=Pol|PronType=Prs</td><td><em>zeuk</em></td></tr>
-  <tr style="background:lightgray"><td>IOR PERIND NUM:S|MUG:M|KAS:GEN|PER:HI</td><td>=&gt;</td><td>PRON</td><td>Case=Gen|Number=Sing|Person=2|Polite=Inf|PronType=Prs</td><td><em>heure</em></td></tr>
+  <tr><td>IOR PERIND NUM:S|MUG:M|KAS:ERG|PER:ZU</td><td>=&gt;</td><td>PRON</td><td>Case=Erg|Number=Sing|Person=2|Polite=Form|PronType=Prs</td><td><em>zeuk</em></td></tr>
+  <tr style="background:lightgray"><td>IOR PERIND NUM:S|MUG:M|KAS:GEN|PER:HI</td><td>=&gt;</td><td>PRON</td><td>Case=Gen|Number=Sing|Person=2|Polite=Infm|PronType=Prs</td><td><em>heure</em></td></tr>
   <tr><td>IOR PERIND NUM:S|MUG:M|KAS:GEN|PER:NI</td><td>=&gt;</td><td>PRON</td><td>Case=Gen|Number=Sing|Person=1|PronType=Prs</td><td><em>neure</em></td></tr>
-  <tr style="background:lightgray"><td>IOR PERIND NUM:S|MUG:M|KAS:GEN|PER:ZU</td><td>=&gt;</td><td>PRON</td><td>Case=Gen|Number=Sing|Person=2|Polite=Pol|PronType=Prs</td><td><em>zeure</em></td></tr>
+  <tr style="background:lightgray"><td>IOR PERIND NUM:S|MUG:M|KAS:GEN|PER:ZU</td><td>=&gt;</td><td>PRON</td><td>Case=Gen|Number=Sing|Person=2|Polite=Form|PronType=Prs</td><td><em>zeure</em></td></tr>
   <tr><td>IOR PERIND NUM:S|MUG:M|KAS:INE|PER:NI|POS:POSburuan|POS:+</td><td>=&gt;</td><td>PRON</td><td>Case=Ine|Number=Sing|Person=1|PronType=Prs</td><td><em>Neure_buruan</em></td></tr>
-  <tr style="background:lightgray"><td>IOR PERIND NUM:S|MUG:M|KAS:INE|PER:ZU|POS:POSinguruan|POS:+</td><td>=&gt;</td><td>PRON</td><td>Case=Ine|Number=Sing|Person=2|Polite=Pol|PronType=Prs</td><td><em>zeure_inguruan</em></td></tr>
+  <tr style="background:lightgray"><td>IOR PERIND NUM:S|MUG:M|KAS:INE|PER:ZU|POS:POSinguruan|POS:+</td><td>=&gt;</td><td>PRON</td><td>Case=Ine|Number=Sing|Person=2|Polite=Form|PronType=Prs</td><td><em>zeure_inguruan</em></td></tr>
   <tr><td>ITJ ITJ MW:B</td><td>=&gt;</td><td>INTJ</td><td>_</td><td><em>eta_kito, nola_ez, esan_eta_egin, Eskerrik_asko</em></td></tr>
   <tr style="background:lightgray"><td>ITJ ITJ _</td><td>=&gt;</td><td>INTJ</td><td>_</td><td><em>ha, dzast, ea, e, Agur</em></td></tr>
   <tr><td>IZE ADB_IZEELI KAS:ABS|NUM:P|MUG:M</td><td>=&gt;</td><td>NOUN</td><td>Case=Abs|Number=Plur</td><td><em>araberakoak, kontrakoak, Betikoak, lehenagokoak, hangoak</em></td></tr>
@@ -5137,12 +5138,12 @@ Tagset <tt>eu::conll</tt>, total 5161 tags.
   <tr style="background:lightgray"><td>IZE ZKI KAS:SOZ</td><td>=&gt;</td><td>NOUN</td><td>Case=Com|NumType=Card</td><td><em></em></td></tr>
   <tr><td>IZE ZKI KAS:SOZ|MUG:MG</td><td>=&gt;</td><td>NOUN</td><td>Case=Com|NumType=Card</td><td><em>19:03rekin, %35,61rekin</em></td></tr>
   <tr style="background:lightgray"><td>IZE ZKI _</td><td>=&gt;</td><td>NOUN</td><td>NumType=Card</td><td><em>2000, 30/1992, 1, 9899, 1080</em></td></tr>
-  <tr><td>LOT JNT ERL:AURK</td><td>=&gt;</td><td>CONJ</td><td>_</td><td><em>baina, baino, baizik, baian</em></td></tr>
-  <tr style="background:lightgray"><td>LOT JNT ERL:AURK|MW:B</td><td>=&gt;</td><td>CONJ</td><td>_</td><td><em>izan_ezik, ez_baina</em></td></tr>
-  <tr><td>LOT JNT ERL:EMEN</td><td>=&gt;</td><td>CONJ</td><td>_</td><td><em>eta, baita, ezta, bainan, ea</em></td></tr>
-  <tr style="background:lightgray"><td>LOT JNT ERL:EMEN|MW:B</td><td>=&gt;</td><td>CONJ</td><td>_</td><td><em>ez_ezik, baita_ere</em></td></tr>
-  <tr><td>LOT JNT ERL:HAUT</td><td>=&gt;</td><td>CONJ</td><td>_</td><td><em>edo, zein, ala, edota, nahiz</em></td></tr>
-  <tr style="background:lightgray"><td>LOT JNT _</td><td>=&gt;</td><td>CONJ</td><td>_</td><td><em></em></td></tr>
+  <tr><td>LOT JNT ERL:AURK</td><td>=&gt;</td><td>CCONJ</td><td>_</td><td><em>baina, baino, baizik, baian</em></td></tr>
+  <tr style="background:lightgray"><td>LOT JNT ERL:AURK|MW:B</td><td>=&gt;</td><td>CCONJ</td><td>_</td><td><em>izan_ezik, ez_baina</em></td></tr>
+  <tr><td>LOT JNT ERL:EMEN</td><td>=&gt;</td><td>CCONJ</td><td>_</td><td><em>eta, baita, ezta, bainan, ea</em></td></tr>
+  <tr style="background:lightgray"><td>LOT JNT ERL:EMEN|MW:B</td><td>=&gt;</td><td>CCONJ</td><td>_</td><td><em>ez_ezik, baita_ere</em></td></tr>
+  <tr><td>LOT JNT ERL:HAUT</td><td>=&gt;</td><td>CCONJ</td><td>_</td><td><em>edo, zein, ala, edota, nahiz</em></td></tr>
+  <tr style="background:lightgray"><td>LOT JNT _</td><td>=&gt;</td><td>CCONJ</td><td>_</td><td><em></em></td></tr>
   <tr><td>LOT LOK ERL:AURK</td><td>=&gt;</td><td>SCONJ</td><td>_</td><td><em>berriz, ordea, aldiz, ostera, aitzitik</em></td></tr>
   <tr style="background:lightgray"><td>LOT LOK ERL:AURK|MW:B</td><td>=&gt;</td><td>SCONJ</td><td>_</td><td><em>hala_ere, baizik_eta, hala_eta_guztiz_ere, nolanahi_ere, dena_den</em></td></tr>
   <tr><td>LOT LOK ERL:BALD</td><td>=&gt;</td><td>SCONJ</td><td>_</td><td><em>baldin, orohar</em></td></tr>

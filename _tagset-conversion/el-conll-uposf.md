@@ -1,6 +1,7 @@
 ---
 layout: base
 title: 'Tagset el::conll conversion to universal POS tags and features'
+udver: '2'
 ---
 
 <a href="index.html">all tables</a>
@@ -137,7 +138,7 @@ Tagset <tt>el::conll</tt>, total 445 tags.
   <tr style="background:lightgray"><td>At AtId Ne|Sg|Ge</td><td>=&gt;</td><td>DET</td><td>Case=Gen|Definite=Ind|Gender=Neut|Number=Sing|PronType=Art</td><td><em>ενός</em></td></tr>
   <tr><td>At AtId Ne|Sg|Nm</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Definite=Ind|Gender=Neut|Number=Sing|PronType=Art</td><td><em>ένα</em></td></tr>
   <tr style="background:lightgray"><td>COMP COMP _</td><td>=&gt;</td><td>X</td><td>_</td><td><em>εν_λόγω, εν_όψει, απ'_όλα, εν__λόγω, _εν_λόγω</em></td></tr>
-  <tr><td>Cj CjCo _</td><td>=&gt;</td><td>CONJ</td><td>_</td><td><em>και, αλλά, ή, ενώ, όμως</em></td></tr>
+  <tr><td>Cj CjCo _</td><td>=&gt;</td><td>CCONJ</td><td>_</td><td><em>και, αλλά, ή, ενώ, όμως</em></td></tr>
   <tr style="background:lightgray"><td>Cj CjSb _</td><td>=&gt;</td><td>SCONJ</td><td>_</td><td><em>ότι, αν, ώστε, εάν, όταν</em></td></tr>
   <tr><td>DATE DATE _</td><td>=&gt;</td><td>NOUN</td><td>AdvType=Tim</td><td><em>Παρασκευή, Τρίτη, Δευτέρα, 11ης_Μαρτίου, Τετάρτη</em></td></tr>
   <tr style="background:lightgray"><td>DIG DIG _</td><td>=&gt;</td><td>NUM</td><td>NumForm=Digit</td><td><em>-, 22.000, 7ο, 2.234, 1948.</em></td></tr>
@@ -167,10 +168,10 @@ Tagset <tt>el::conll</tt>, total 445 tags.
   <tr style="background:lightgray"><td>Nm NmCd Ne|Sg|Da|Aj</td><td>=&gt;</td><td>NUM</td><td>Case=Dat|Gender=Neut|Number=Sing|NumType=Card</td><td><em></em></td></tr>
   <tr><td>Nm NmCd Ne|Sg|Ge|Aj</td><td>=&gt;</td><td>NUM</td><td>Case=Gen|Gender=Neut|Number=Sing|NumType=Card</td><td><em>ενός, επτά</em></td></tr>
   <tr style="background:lightgray"><td>Nm NmCd Ne|Sg|Nm|Aj</td><td>=&gt;</td><td>NUM</td><td>Case=Nom|Gender=Neut|Number=Sing|NumType=Card</td><td><em>ενάμισι, Ένα</em></td></tr>
-  <tr><td>Nm NmCt Fe|Pl|Ac|No</td><td>=&gt;</td><td>NUM</td><td>Case=Acc|Gender=Fem|Number=Plur|NumType=Gen</td><td><em>χιλιάδες, δεκάδες, εκατοντάδες</em></td></tr>
-  <tr style="background:lightgray"><td>Nm NmCt Fe|Pl|Da|No</td><td>=&gt;</td><td>NUM</td><td>Case=Dat|Gender=Fem|Number=Plur|NumType=Gen</td><td><em></em></td></tr>
-  <tr><td>Nm NmCt Fe|Pl|Ge|No</td><td>=&gt;</td><td>NUM</td><td>Case=Gen|Gender=Fem|Number=Plur|NumType=Gen</td><td><em>χιλιάδων, δεκάδων</em></td></tr>
-  <tr style="background:lightgray"><td>Nm NmCt Fe|Pl|Nm|No</td><td>=&gt;</td><td>NUM</td><td>Case=Nom|Gender=Fem|Number=Plur|NumType=Gen</td><td><em>Εκατοντάδες, Δεκάδες</em></td></tr>
+  <tr><td>Nm NmCt Fe|Pl|Ac|No</td><td>=&gt;</td><td>NUM</td><td>Case=Acc|Gender=Fem|Number=Plur|NumType=Card</td><td><em>χιλιάδες, δεκάδες, εκατοντάδες</em></td></tr>
+  <tr style="background:lightgray"><td>Nm NmCt Fe|Pl|Da|No</td><td>=&gt;</td><td>NUM</td><td>Case=Dat|Gender=Fem|Number=Plur|NumType=Card</td><td><em></em></td></tr>
+  <tr><td>Nm NmCt Fe|Pl|Ge|No</td><td>=&gt;</td><td>NUM</td><td>Case=Gen|Gender=Fem|Number=Plur|NumType=Card</td><td><em>χιλιάδων, δεκάδων</em></td></tr>
+  <tr style="background:lightgray"><td>Nm NmCt Fe|Pl|Nm|No</td><td>=&gt;</td><td>NUM</td><td>Case=Nom|Gender=Fem|Number=Plur|NumType=Card</td><td><em>Εκατοντάδες, Δεκάδες</em></td></tr>
   <tr><td>Nm NmMl Ne|Sg|Ac|Aj</td><td>=&gt;</td><td>ADV</td><td>Case=Acc|Gender=Neut|Number=Sing|NumType=Mult</td><td><em>διπλό</em></td></tr>
   <tr style="background:lightgray"><td>Nm NmOd Fe|Pl|Ac|Aj</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Gender=Fem|Number=Plur|NumType=Ord</td><td><em>τρίτες</em></td></tr>
   <tr><td>Nm NmOd Fe|Pl|Da|Aj</td><td>=&gt;</td><td>ADJ</td><td>Case=Dat|Gender=Fem|Number=Plur|NumType=Ord</td><td><em></em></td></tr>
@@ -381,13 +382,13 @@ Tagset <tt>el::conll</tt>, total 445 tags.
   <tr style="background:lightgray"><td>Pn PnRi Ne|03|Sg|Ge|Xx</td><td>=&gt;</td><td>PRON</td><td>Case=Gen|Gender=Neut|Number=Sing|Person=3|PronType=Int,Rel</td><td><em></em></td></tr>
   <tr><td>Pn PnRi Ne|03|Sg|Nm|Xx</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Int,Rel</td><td><em>ό,τι</em></td></tr>
   <tr style="background:lightgray"><td>Pt PtFu _</td><td>=&gt;</td><td>PART</td><td>Tense=Fut</td><td><em>θα</em></td></tr>
-  <tr><td>Pt PtNg _</td><td>=&gt;</td><td>PART</td><td>Negative=Neg</td><td><em>δεν, όχι, μην, μη, δε</em></td></tr>
+  <tr><td>Pt PtNg _</td><td>=&gt;</td><td>PART</td><td>Polarity=Neg</td><td><em>δεν, όχι, μην, μη, δε</em></td></tr>
   <tr style="background:lightgray"><td>Pt PtOt _</td><td>=&gt;</td><td>PART</td><td>_</td><td><em>ας, άραγε</em></td></tr>
   <tr><td>Pt PtSj _</td><td>=&gt;</td><td>PART</td><td>PartType=Inf</td><td><em>να, ν</em></td></tr>
   <tr style="background:lightgray"><td>Rg RgAbXx _</td><td>=&gt;</td><td>X</td><td>Abbr=Yes</td><td><em>κ., ΕΕ, ΗΠΑ, χλμ., ΕΕ.</em></td></tr>
   <tr><td>Rg RgAnXx _</td><td>=&gt;</td><td>NOUN</td><td>Abbr=Yes</td><td><em>ΟΗΕ, ΝΑΤΟ, ΕΤΑ, ΣΕΒ, ΔΠΔΓ</em></td></tr>
-  <tr style="background:lightgray"><td>Rg RgFwOr _</td><td>=&gt;</td><td>X</td><td>Foreign=Fscript</td><td><em>Sudan, van, OLAF, of, Journal</em></td></tr>
-  <tr><td>Rg RgFwTr _</td><td>=&gt;</td><td>X</td><td>Foreign=Tscript</td><td><em>Ιράν, Ιράκ, Μπους, Γιουστσένκο, Σιράκ</em></td></tr>
+  <tr style="background:lightgray"><td>Rg RgFwOr _</td><td>=&gt;</td><td>X</td><td>Foreign=Yes</td><td><em>Sudan, van, OLAF, of, Journal</em></td></tr>
+  <tr><td>Rg RgFwTr _</td><td>=&gt;</td><td>X</td><td>Foreign=Yes</td><td><em>Ιράν, Ιράκ, Μπους, Γιουστσένκο, Σιράκ</em></td></tr>
   <tr style="background:lightgray"><td>Vb VbIs Id|Pa|03|Sg|Xx|Ip|Av|Xx</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|VerbType=Mod|Voice=Act</td><td><em>έπρεπε</em></td></tr>
   <tr><td>Vb VbIs Id|Pa|03|Sg|Xx|Ip|Pv|Xx</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|VerbType=Mod|Voice=Pass</td><td><em>επρόκειτο</em></td></tr>
   <tr style="background:lightgray"><td>Vb VbIs Id|Pa|03|Sg|Xx|Pe|Av|Xx</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|VerbType=Mod|Voice=Act</td><td><em></em></td></tr>
