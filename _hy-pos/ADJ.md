@@ -7,6 +7,7 @@ shortdef: 'adjective'
 ### Definition
 
 Adjectives are words that typically modify nouns and specify their properties or attributes. They may also function as predicates, as in
+
 _Մեքենան կանաչ է_ “The car is green.”
 
 The `ADJ` tag is intended for ordinary adjectives only. See [DET]() for determiners and [NUM]() for numerals.
@@ -31,5 +32,7 @@ All adjectives and some of the adverbs may function as a noun without additional
 -	_խմելու, գրելու_ “(for) drinking, (for) writing”
 -	_կառուցված/կառուցվող/կառուցվելիք շենք_ “a built house, a house, that is being built, a house that will be built” (resultative, subject, destinative passive participial adjective)
 -	_հնչող/հնչած/հնչելիք զանգ_ “a ringing call, a call that ringed, a call that will ring” (resultative, subject, destinative participial adjective)
+
+### Border cases
 
 Resultative, subject, destinative participles lie on the border between verbs and adjectives. Core participial forms are tagged [VERB]() (used in predication). As participial adjectives they are tagged `ADJ` and thus modify nouns.
