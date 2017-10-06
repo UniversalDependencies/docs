@@ -15,7 +15,9 @@ In accordance with the UD approach, adjectival ordinal numerals _(առաջին, 
 
 Note that participles are word forms that may share properties and usage of adjectives and verbs. Depending on context, they may be classified as either [VERB]() or `ADJ`.
 
-In Armenian the Adjectives inflect for Degree. Degree can also be specified by a set of [adverbs]().
+In Armenian the Adjectives inflect for [Degree](). Degree can also be specified by a set of [adverbs]().
+
+Note that some adjectives and most adverbs in Armenian don’t have a Degree feature.
 
 All adjectives and some of the adverbs may function as a noun without additional derivation, in these cases, we keep the POS tag of the original word, but assign nominal features to the word.
 
