@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-10-06T08:39:19Z">2017-10-06T08:39:19 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-10-06T13:02:52Z">2017-10-06T13:02:52 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -2817,58 +2817,10 @@ python tools/validate.py --lang no_nynorsk UD-dev-branches/UD_Norwegian-Nynorsk/
 <span class="doublewidespan" style="padding-left:3em">UD Norwegian-NynorskLIA</span>
 <span class="widespan">no nynorsklia</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-10-05T15:51:25Z">2017-10-05T15:51:25 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-10-06T13:02:51Z">2017-10-06T13:02:51 zulu</time></span>
 </div>
 <div>
 <pre>
-python tools/validate.py --lang no_nynorsklia UD-dev-branches/UD_Norwegian-NynorskLIA/no_nynorsk_lia-ud-dev.conllu
-
-[Line                   56]: Unknown UD DEPREL: parataxis:deletion
-[Line                   91]: Unknown UD DEPREL: discourse:filler
-[Line                   96]: Unknown UD DEPREL: discourse:filler
-[Line                   117]: Unknown UD DEPREL: discourse:filler
-[Line                   122]: Unknown UD DEPREL: parataxis:deletion
-[Line                   171]: Unknown UD DEPREL: discourse:filler
-[Line                   235]: Unknown UD DEPREL: acl:relcl
-[Line                   259]: Unknown UD DEPREL: compound:prt
-[Line                   360]: Unknown UPOS tag: NEW
-[Line                   360]: Unknown UD DEPREL: discourse:filler
-[Line                   371]: Unknown UD DEPREL: acl:relcl
-[Line                   597]: Unknown UD DEPREL: parataxis:deletion
-[Line                   748]: Unknown UD DEPREL: discourse:filler
-[Line                   762]: Unknown UD DEPREL: parataxis:deletion
-[Line                   764]: Unknown UD DEPREL: discourse:filler
-[Line                   853]: Unknown UD DEPREL: parataxis:deletion
-[Line                   854]: Unknown UD DEPREL: discourse:filler
-[Line                   868]: Unknown UD DEPREL: discourse:filler
-[Line                   939]: Unknown UD DEPREL: discourse:filler
-[Line                   995]: Unknown UD DEPREL: discourse:filler
-...suppressing further errors regarding Syntax
-[Line                   1118]: Unknown UPOS tag: NEW
-[Line                   1499]: Unknown UPOS tag: NEW
-[Line                   2048]: Unknown UPOS tag: NEW
-[Tree number 179 on line 2101]: Words do not form a sequence. Got: 1,2,3,4,5,6,7,8,9,10,11,12,13,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15.
-[Tree number 179 on line 2101]: HEAD == ID for 12
-[Tree number 179 on line 2101]: HEAD == ID for 7
-[Tree number 179 on line 2101]: HEAD == ID for 13
-[Line                   2129]: Multiple sent_id attribute.
-[Line                   2260]: Unknown UPOS tag: NEW
-[Line                   4392]: Unknown UPOS tag: NEW
-[Line                   4404]: Unknown UPOS tag: NEW
-[Line                   4411]: Unknown UPOS tag: NEW
-[Line                   4449]: Unknown UPOS tag: NEW
-[Line                   4561]: Unknown UPOS tag: NEW
-[Line                   4573]: Unknown UPOS tag: NEW
-*** FAILED *** with 207 errors
-Format errors: 4
-Metadata errors: 1
-Morpho errors: 11
-Syntax errors: 191
-The language-specific file /home/ginter/UD_PROJHOOK/tools/data/deprel.no_nynorsklia does not exist.
-
-
-******************
-
 python tools/validate.py --lang no_nynorsklia UD-dev-branches/UD_Norwegian-NynorskLIA/no_nynorsk_lia-ud-test.conllu
 
 [Line                   24]: Unknown UD DEPREL: compound:prt
@@ -2914,6 +2866,54 @@ python tools/validate.py --lang no_nynorsklia UD-dev-branches/UD_Norwegian-Nynor
 *** FAILED *** with 687 errors
 Morpho errors: 30
 Syntax errors: 657
+The language-specific file /home/ginter/UD_PROJHOOK/tools/data/deprel.no_nynorsklia does not exist.
+
+
+******************
+
+python tools/validate.py --lang no_nynorsklia UD-dev-branches/UD_Norwegian-NynorskLIA/no_nynorsklia-ud-dev.conllu
+
+[Line                   56]: Unknown UD DEPREL: parataxis:deletion
+[Line                   91]: Unknown UD DEPREL: discourse:filler
+[Line                   96]: Unknown UD DEPREL: discourse:filler
+[Line                   117]: Unknown UD DEPREL: discourse:filler
+[Line                   122]: Unknown UD DEPREL: parataxis:deletion
+[Line                   171]: Unknown UD DEPREL: discourse:filler
+[Line                   235]: Unknown UD DEPREL: acl:relcl
+[Line                   259]: Unknown UD DEPREL: compound:prt
+[Line                   360]: Unknown UPOS tag: NEW
+[Line                   360]: Unknown UD DEPREL: discourse:filler
+[Line                   371]: Unknown UD DEPREL: acl:relcl
+[Line                   597]: Unknown UD DEPREL: parataxis:deletion
+[Line                   748]: Unknown UD DEPREL: discourse:filler
+[Line                   762]: Unknown UD DEPREL: parataxis:deletion
+[Line                   764]: Unknown UD DEPREL: discourse:filler
+[Line                   853]: Unknown UD DEPREL: parataxis:deletion
+[Line                   854]: Unknown UD DEPREL: discourse:filler
+[Line                   868]: Unknown UD DEPREL: discourse:filler
+[Line                   939]: Unknown UD DEPREL: discourse:filler
+[Line                   995]: Unknown UD DEPREL: discourse:filler
+...suppressing further errors regarding Syntax
+[Line                   1118]: Unknown UPOS tag: NEW
+[Line                   1499]: Unknown UPOS tag: NEW
+[Line                   2048]: Unknown UPOS tag: NEW
+[Tree number 179 on line 2101]: Words do not form a sequence. Got: 1,2,3,4,5,6,7,8,9,10,11,12,13,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15.
+[Tree number 179 on line 2101]: HEAD == ID for 12
+[Tree number 179 on line 2101]: HEAD == ID for 7
+[Tree number 179 on line 2101]: HEAD == ID for 13
+[Line                   2129]: Multiple sent_id attribute.
+[Line                   2260]: Unknown UPOS tag: NEW
+[Line                   4392]: Unknown UPOS tag: NEW
+[Line                   4404]: Unknown UPOS tag: NEW
+[Line                   4411]: Unknown UPOS tag: NEW
+[Line                   4449]: Unknown UPOS tag: NEW
+[Line                   4561]: Unknown UPOS tag: NEW
+[Line                   4573]: Unknown UPOS tag: NEW
+*** FAILED *** with 207 errors
+Format errors: 4
+Metadata errors: 1
+Morpho errors: 11
+Syntax errors: 191
 The language-specific file /home/ginter/UD_PROJHOOK/tools/data/deprel.no_nynorsklia does not exist.
 
 
