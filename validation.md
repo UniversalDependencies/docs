@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-10-06T13:03:29Z">2017-10-06T13:03:29 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-10-06T13:17:10Z">2017-10-06T13:17:10 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -2817,33 +2817,13 @@ python tools/validate.py --lang no_nynorsk UD-dev-branches/UD_Norwegian-Nynorsk/
 <span class="doublewidespan" style="padding-left:3em">UD Norwegian-NynorskLIA</span>
 <span class="widespan">no nynorsklia</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-10-06T13:03:28Z">2017-10-06T13:03:28 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-10-06T13:17:09Z">2017-10-06T13:17:09 zulu</time></span>
 </div>
 <div>
 <pre>
-python tools/validate.py --lang no_nynorsklia UD-dev-branches/UD_Norwegian-NynorskLIA/no_nynorsklia-ud-dev.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang no_nynorsklia /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Norwegian-NynorskLIA/no_nynorsklia-ud-dev.conllu
 
-[Line                   56]: Unknown UD DEPREL: parataxis:deletion
-[Line                   91]: Unknown UD DEPREL: discourse:filler
-[Line                   96]: Unknown UD DEPREL: discourse:filler
-[Line                   117]: Unknown UD DEPREL: discourse:filler
-[Line                   122]: Unknown UD DEPREL: parataxis:deletion
-[Line                   171]: Unknown UD DEPREL: discourse:filler
-[Line                   235]: Unknown UD DEPREL: acl:relcl
-[Line                   259]: Unknown UD DEPREL: compound:prt
 [Line                   360]: Unknown UPOS tag: NEW
-[Line                   360]: Unknown UD DEPREL: discourse:filler
-[Line                   371]: Unknown UD DEPREL: acl:relcl
-[Line                   597]: Unknown UD DEPREL: parataxis:deletion
-[Line                   748]: Unknown UD DEPREL: discourse:filler
-[Line                   762]: Unknown UD DEPREL: parataxis:deletion
-[Line                   764]: Unknown UD DEPREL: discourse:filler
-[Line                   853]: Unknown UD DEPREL: parataxis:deletion
-[Line                   854]: Unknown UD DEPREL: discourse:filler
-[Line                   868]: Unknown UD DEPREL: discourse:filler
-[Line                   939]: Unknown UD DEPREL: discourse:filler
-[Line                   995]: Unknown UD DEPREL: discourse:filler
-...suppressing further errors regarding Syntax
 [Line                   1118]: Unknown UPOS tag: NEW
 [Line                   1499]: Unknown UPOS tag: NEW
 [Line                   2048]: Unknown UPOS tag: NEW
@@ -2851,6 +2831,12 @@ python tools/validate.py --lang no_nynorsklia UD-dev-branches/UD_Norwegian-Nynor
 [Tree number 179 on line 2101]: HEAD == ID for 12
 [Tree number 179 on line 2101]: HEAD == ID for 7
 [Tree number 179 on line 2101]: HEAD == ID for 13
+[Tree number 179 on line 2101]: Multiple root words: [3, 7]
+[Line                   2129]: Loop from 3
+[Line                   2129]: Loop from 8
+[Line                   2129]: Loop from 9
+[Line                   2129]: Loop from 11
+[Tree number 179 on line 2101]: Non-tree structure. Words 16,17,18,19,20,21,22,23,24,25,26,27,28 are not reachable from the root 0.
 [Line                   2129]: Multiple sent_id attribute.
 [Line                   2260]: Unknown UPOS tag: NEW
 [Line                   4392]: Unknown UPOS tag: NEW
@@ -2859,42 +2845,33 @@ python tools/validate.py --lang no_nynorsklia UD-dev-branches/UD_Norwegian-Nynor
 [Line                   4449]: Unknown UPOS tag: NEW
 [Line                   4561]: Unknown UPOS tag: NEW
 [Line                   4573]: Unknown UPOS tag: NEW
-*** FAILED *** with 207 errors
+*** FAILED *** with 22 errors
 Format errors: 4
 Metadata errors: 1
 Morpho errors: 11
-Syntax errors: 191
-The language-specific file /home/ginter/UD_PROJHOOK/tools/data/deprel.no_nynorsklia does not exist.
+Syntax errors: 6
 
 
 ******************
 
-python tools/validate.py --lang no_nynorsklia UD-dev-branches/UD_Norwegian-NynorskLIA/no_nynorsklia-ud-test.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang no_nynorsklia /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Norwegian-NynorskLIA/no_nynorsklia-ud-test.conllu
 
-[Line                   24]: Unknown UD DEPREL: compound:prt
-[Line                   33]: Unknown UD DEPREL: parataxis:deletion
-[Line                   47]: Unknown UD DEPREL: discourse:filler
-[Line                   70]: Unknown UD DEPREL: discourse:filler
-[Line                   106]: Unknown UD DEPREL: discourse:filler
-[Line                   122]: Unknown UD DEPREL: discourse:filler
-[Line                   125]: Unknown UD DEPREL: compound:prt
-[Line                   132]: Unknown UD DEPREL: compound:prt
-[Line                   134]: Unknown UD DEPREL: discourse:filler
-[Line                   151]: Unknown UD DEPREL: acl:relcl
-[Line                   168]: Unknown UD DEPREL: discourse:filler
-[Line                   197]: Unknown UD DEPREL: compound:prt
-[Line                   233]: Unknown UD DEPREL: discourse:filler
-[Line                   242]: Unknown UD DEPREL: parataxis:deletion
-[Line                   329]: Unknown UD DEPREL: discourse:filler
-[Line                   343]: Unknown UD DEPREL: compound:prt
-[Line                   352]: Unknown UD DEPREL: parataxis:deletion
-[Line                   395]: Unknown UD DEPREL: discourse:filler
-[Line                   397]: Unknown UD DEPREL: discourse:filler
-...suppressing further errors regarding Syntax
+[Line                   583]: Invalid DEPREL value OBJ
+[Line                   583]: Unknown UD DEPREL: OBJ
 [Line                   1523]: Unknown UPOS tag: NEW
+[Line                   1570]: Invalid DEPREL value FRAG
+[Line                   1570]: Unknown UD DEPREL: FRAG
 [Line                   1878]: Unknown UPOS tag: NEW
 [Line                   1887]: Unknown UPOS tag: NEW
+[Line                   2352]: Invalid DEPREL value FRAG
+[Line                   2352]: Unknown UD DEPREL: FRAG
 [Line                   2530]: Unknown UPOS tag: NEW
+[Line                   2722]: Invalid DEPREL value FRAG
+[Line                   2722]: Unknown UD DEPREL: FRAG
+[Line                   2728]: Invalid DEPREL value FRAG
+[Line                   2728]: Unknown UD DEPREL: FRAG
+[Line                   2740]: Invalid DEPREL value FRAG
+[Line                   2740]: Unknown UD DEPREL: FRAG
 [Line                   2998]: Unknown UPOS tag: NEW
 [Line                   3087]: Unknown UPOS tag: NEW
 [Line                   3644]: Unknown UPOS tag: NEW
@@ -2903,18 +2880,25 @@ python tools/validate.py --lang no_nynorsklia UD-dev-branches/UD_Norwegian-Nynor
 [Line                   4511]: Unknown UPOS tag: NEW
 [Line                   4724]: Unknown UPOS tag: NEW
 [Line                   4865]: Unknown UPOS tag: NEW
+[Line                   5220]: Invalid DEPREL value FINV
+[Line                   5220]: Unknown UD DEPREL: FINV
 [Line                   6046]: Unknown UPOS tag: NEW
 [Line                   6050]: Unknown UPOS tag: NEW
 [Line                   6122]: Unknown UPOS tag: NEW
+[Line                   8507]: Invalid DEPREL value FRAG
+[Line                   8507]: Unknown UD DEPREL: FRAG
+[Line                   9308]: Invalid DEPREL value FRAG
+[Line                   9308]: Unknown UD DEPREL: FRAG
+[Line                   9493]: Invalid DEPREL value FRAG
+...suppressing further errors regarding Syntax
 [Line                   10446]: Unknown UPOS tag: NEW
 [Line                   10832]: Unknown UPOS tag: NEW
 [Line                   11272]: Unknown UPOS tag: NEW
 [Line                   11278]: Unknown UPOS tag: NEW
 ...suppressing further errors regarding Morpho
-*** FAILED *** with 687 errors
+*** FAILED *** with 56 errors
 Morpho errors: 30
-Syntax errors: 657
-The language-specific file /home/ginter/UD_PROJHOOK/tools/data/deprel.no_nynorsklia does not exist.
+Syntax errors: 26
 
 
 ******************
