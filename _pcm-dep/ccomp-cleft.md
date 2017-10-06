@@ -21,11 +21,11 @@ Clefted elements can often be identified by the presence of the copulative parti
 4	bleed	bleeding	NOUN	NOUN	_	6	nsubj	_	_
 5	go	will	AUX	AUX	_	6	aux	_	_
 6	continue	continue	VERB	VERB	_	2	ccomp:cleft	_	_
-7	till	till	ADP	ADP	_	11	mark	_	_
+7	till	till	SCONJ	SCONJ	_	11	mark	_	_
 8	di	the	DET	DET	_	9	det	_	_
 9	person	person	NOUN	NOUN	_	11	nsubj	_	_
 10	go	will	AUX	AUX	_	11	aux	_	_
-11	die	die	VERB	VERB	_	6	obl	_	_
+11	die	die	VERB	VERB	_	6	advcl	_	_
 
 
 1	be	_	_	_	_	0	_	_	_
