@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-10-07T10:23:34Z">2017-10-07T10:23:34 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-10-07T21:49:39Z">2017-10-07T21:49:39 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -1211,7 +1211,7 @@ python tools/validate.py --lang fi_pud UD-dev-branches/UD_Finnish-PUD/fi_pud-ud-
 <span class="doublewidespan" style="padding-left:3em">UD French</span>
 <span class="widespan">fr</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-10-07T06:42:28Z">2017-10-07T06:42:28 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-10-07T21:49:13Z">2017-10-07T21:49:13 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -1231,7 +1231,7 @@ python tools/validate.py --lang fr UD-dev-branches/UD_French/fr-ud-test.conllu
 
 python tools/validate.py --lang fr UD-dev-branches/UD_French/fr-ud-train.conllu
 
-[Line                   96485]: Unknown UD DEPREL: aux:caus
+[Line                   96512]: Unknown UD DEPREL: aux:caus
 *** FAILED *** with 1 errors
 Syntax errors: 1
 
