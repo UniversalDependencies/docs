@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-10-09T10:40:26Z">2017-10-09T10:40:26 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-10-09T13:09:50Z">2017-10-09T13:09:50 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -2817,7 +2817,7 @@ python tools/validate.py --lang no_nynorsk UD-dev-branches/UD_Norwegian-Nynorsk/
 <span class="doublewidespan" style="padding-left:3em">UD Norwegian-NynorskLIA</span>
 <span class="widespan">no nynorsklia</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-10-06T13:52:22Z">2017-10-06T13:52:22 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-10-09T13:09:49Z">2017-10-09T13:09:49 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -2830,30 +2830,14 @@ python tools/validate.py --lang no_nynorsklia UD-dev-branches/UD_Norwegian-Nynor
 
 python tools/validate.py --lang no_nynorsklia UD-dev-branches/UD_Norwegian-NynorskLIA/no_nynorsklia-ud-test.conllu
 
-[Line                   583]: Invalid DEPREL value OBJ
-[Line                   583]: Unknown UD DEPREL: OBJ
-[Line                   1570]: Invalid DEPREL value FRAG
-[Line                   1570]: Unknown UD DEPREL: FRAG
-[Line                   2352]: Invalid DEPREL value FRAG
-[Line                   2352]: Unknown UD DEPREL: FRAG
-[Line                   2722]: Invalid DEPREL value FRAG
-[Line                   2722]: Unknown UD DEPREL: FRAG
-[Line                   2728]: Invalid DEPREL value FRAG
-[Line                   2728]: Unknown UD DEPREL: FRAG
-[Line                   2740]: Invalid DEPREL value FRAG
-[Line                   2740]: Unknown UD DEPREL: FRAG
 [Line                   5220]: Invalid DEPREL value FINV
 [Line                   5220]: Unknown UD DEPREL: FINV
-[Line                   8507]: Invalid DEPREL value FRAG
-[Line                   8507]: Unknown UD DEPREL: FRAG
-[Line                   9308]: Invalid DEPREL value FRAG
-[Line                   9308]: Unknown UD DEPREL: FRAG
-[Line                   9493]: Invalid DEPREL value FRAG
-...suppressing further errors regarding Syntax
-[Line                   10446]: Unknown UPOS tag: NEW
-*** FAILED *** with 27 errors
-Morpho errors: 1
-Syntax errors: 26
+[Line                   9603]: Invalid DEPREL value FINV
+[Line                   9603]: Unknown UD DEPREL: FINV
+[Line                   13039]: Invalid DEPREL value FINV
+[Line                   13039]: Unknown UD DEPREL: FINV
+*** FAILED *** with 6 errors
+Syntax errors: 6
 
 
 ******************
