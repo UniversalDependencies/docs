@@ -69,3 +69,15 @@ udver: '2'
   
   (I deliberately did not mention morphological featues. As Dan pointed out, this format might not work as well for morphological features, as, for example, there are a large number of cases but most of them are irrelevant for most languages, and a user might not want to read about all of them when they are only interested in the values for a particular language. So we probably need a different solution for these.)
  
+## Proposal for a Construction Taxonomy
+
+* Nominals (might as well get them out of the way before going into the more complex stuff)
+  * Grammatical markers (aka function words)
+    * Determiners
+    * Classifiers
+    * Adpositions
+  * Modification in nominals
+    * Nominal modifiers (incl. appositions?)
+    * Adjectival modifiers
+    * Numeral modifiers
+    * Clausal modifiers
