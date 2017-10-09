@@ -16,6 +16,8 @@ degree is traditionally called "positive", negative properties can be compared, 
 #### Examples
 
 * _<b>խելացի</b> մարդ&nbsp;_ “<b>clever</b> man”
+* _<b>լավ</b> երաժիշտ&nbsp;_ “<b>good</b> musician”
+* _<b>նոր</b> նմուշ&nbsp;_ “<b>clever</b> exemplar”
 
 ### `Sup`: superlative, third degree
 
