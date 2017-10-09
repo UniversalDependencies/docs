@@ -72,12 +72,80 @@ udver: '2'
 ## Proposal for a Construction Taxonomy
 
 * Nominals (might as well get them out of the way before going into the more complex stuff)
+  * Modification in nominals
+    * Nominal modifiers (incl. appositions)
+    * Adjectival modifiers
+    * Numeral modifiers
+    * Clausal modifiers (refer forward to complex clauses?)
   * Grammatical markers (aka function words)
     * Determiners
     * Classifiers
     * Adpositions
-  * Modification in nominals
-    * Nominal modifiers (incl. appositions?)
-    * Adjectival modifiers
-    * Numeral modifiers
-    * Clausal modifiers
+    
+* Simple clauses
+  * Predicates and core arguments
+    * Intransitive clauses
+    * Transitive clauses
+    * Ditransitive clauses
+    * Copular/nonverbal clauses
+  * Non-core dependents of predicates
+    * Oblique arguments and adjuncts
+    * Adverbials [incl. negation]
+    * Discourse
+    * Vocative
+  * Predicate realization
+    * Auxiliary verbs
+    * Complex predicates (move to MWE?)
+    * Secondary predication (move to complex clauses?)
+  * Core argument realization
+    * expletives
+    * reflexives
+    * pro-drop
+    * clitics
+    * dislocated
+  * Special constructions
+    * Passives
+    * Causatives
+    * Applicatives (?)
+    * Existentials
+    * Partitives (not sure whether these belong here or under nominals?)
+    * Clefts
+
+* Complex clauses (aka Subordination)
+  * Complement clauses (cf. core arguments)
+  * Adverbial clauses (cf. non-core dependents)
+    * Comparative constructions	(move to special constructions?)
+  * Adnominal clauses (cf. modifiers in nominals)
+    * Relative clauses (unless treated under nominals)
+  * Grammatical markers (aka function words)
+    * Subordinating conjunctions (and adpositions)
+    * Relative pronouns and similar
+
+* Coordination
+  * Clausal coordination (incl.	parataxis?)
+  * Phrasal coordination (incl. head coordination)
+    * Uneven coordination
+    * Non-constituent coordination
+  * Loose joining relations
+    * Parataxis
+    * Lists
+  * Grammatical markers
+    * Coordinating conjunctions (incl. paired conjunctions)
+    * Clitics
+
+* Multiword expressions
+  * Fixed expressions
+    * Adpositions ("in spite of")
+    * Adverbs ("by and large")
+    * Subordinating conjunctions ("bien que")
+  * Compounds
+  * Verbal MWEs (particle verbs, prepositional verbs, light verbs)
+  * Names
+  * Dates
+  
+* Special phenomena
+  * Ellipsis
+  * Disfluencies
+  * Typographical errors
+  * Punctuation
+  * Symbols
