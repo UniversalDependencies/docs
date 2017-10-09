@@ -27,4 +27,4 @@ The quality of one object is compared to the same quality of all other objects w
 
 * _նա մեր խմբի <b>ամենախելացի</b> մարդն է&nbsp;_ “he is the <b>cleverest</b> man in our group”
 * _նա մեր խմբի <b>լավագույն</b> երաժիշտն է&nbsp;_ “he is the <b>best</b> musician in our group”
-* _սա <b>ամենանորագույն</b> նմուշն է&nbsp;_ “this is the <b>newest</b> exemplar”
+* _սա <b>ամենանորագույն</b> նմուշն է&nbsp;_ “this is the <b>very newest</b> exemplar”
