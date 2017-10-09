@@ -90,7 +90,7 @@ udver: '2'
     * Copular/nonverbal clauses
   * Non-core dependents of predicates
     * Oblique arguments and adjuncts
-    * Adverbials [incl. negation]
+    * Adverbials (incl. negation)
     * Discourse
     * Vocative
   * Predicate realization
@@ -98,11 +98,11 @@ udver: '2'
     * Complex predicates (move to MWE?)
     * Secondary predication (move to complex clauses?)
   * Core argument realization
-    * expletives
-    * reflexives
-    * pro-drop
-    * clitics
-    * dislocated
+    * Expletives
+    * Reflexives
+    * Pro-drop
+    * Clitics
+    * Dislocated
   * Special constructions
     * Passives
     * Causatives
