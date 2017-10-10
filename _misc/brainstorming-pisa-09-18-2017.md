@@ -57,6 +57,7 @@ Pisa, September 18, 2017
 		* Coordination - ?
 		* Ellipsis - ?
 		* Nonverbal predicates with or without copula - ?
+		* Secondary predication (acl -> advcl) - Joakim Nivre
 		* Multi-word expression - Kim Gerdes (should perhaps be harmonized with work from PARSEME cost action)
 		* Comparative constructions - Dan Zeman
 		* Parataxis - Sylvain Kahane
