@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-10-10T11:06:05Z">2017-10-10T11:06:05 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-10-10T17:36:55Z">2017-10-10T17:36:55 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -3176,7 +3176,7 @@ python tools/validate.py --lang ru_syntagrus UD-dev-branches/UD_Russian-SynTagRu
 <span class="doublewidespan" style="padding-left:3em">UD Sanskrit</span>
 <span class="widespan">sa</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-10-10T11:06:05Z">2017-10-10T11:06:05 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-10-10T17:36:55Z">2017-10-10T17:36:55 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -3186,8 +3186,9 @@ python tools/validate.py --lang sa UD-dev-branches/UD_Sanskrit/sa-ud-test.conllu
 [Line                   2266]: Unknown UD DEPREL: advmod:emph
 [Line                   2268]: Unknown UD DEPREL: advmod:emph
 [Line                   2276]: Unknown UD DEPREL: advmod:emph
-*** FAILED *** with 4 errors
-Syntax errors: 4
+[Line                   3139]: Unknown UD DEPREL: advmod:emph
+*** FAILED *** with 5 errors
+Syntax errors: 5
 
 
 ******************
