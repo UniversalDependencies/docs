@@ -6,9 +6,9 @@ shortdef: 'degree of comparison'
 
 Degree of comparison is inflectional feature of some [adjectives](hy-pos/ADJ) and [adverbs](hy-pos/ADV).
 
-The second degree of adjective or adverb is modified through adverbs ավելի “more”. We only annotate this adverb with the Second Degree feature.
+The second degree of adjective or adverb is modified through adverb _ավելի_ “more”. We only annotate this adverb with the Second Degree feature.
 
-Note that the Third Degree of adverbs in Armenian is constructed with the feature of [Definite](hy-feat/Definite) without additional derivation.
+Note that the Third Degree of adverbs in Armenian is constructed with the feature of [Definite](hy-feat/Definite).
 
 ### `Pos`: positive, first degree
 
