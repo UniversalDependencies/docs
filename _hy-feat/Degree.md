@@ -10,6 +10,8 @@ The second degree of adjective or adverb is modified through adverb _ավելի_
 
 Note that the third degree of adverbs in Armenian is constructed with the feature of [Definite](hy-feat/Definite).
 
+The third degree of adjective or adverb can be modified through adverbs _ամենից_ “the most” and _բոլորից_ “most of all” e.g. _ամենից (բոլորից) գեղեցիկ_ “the most beautiful of all”. We annotate these adverbs with the third degree feature.
+
 ### `Pos`: positive, first degree
 
 This is the base form that merely states a quality of something, without comparing it to qualities of others. Note that although this
@@ -44,3 +46,4 @@ The quality of one object is compared to the same quality of all other objects w
 * _նա մեր խմբի <b>լավագույն</b> երաժիշտն է&nbsp;_ “he is the <b>best</b> musician in our group”
 * _սա <b>ամենանորագույն</b> նմուշն է&nbsp;_ “this is the <b>very newest</b> exemplar”
 * _նա <b>ամենաարագն</b> է քայլում&nbsp;_ “he walks <b>the most quickly</b>”
+* _նա <b>ամենից (բոլորից) արագ</b> է քայլում&nbsp;_ “he walks <b>the most quickly (of all)</b>”
