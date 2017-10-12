@@ -20,7 +20,7 @@ degree is traditionally called "positive", negative properties can be compared, 
 * _<b>խելացի</b> մարդ&nbsp;_ “<b>clever</b> man”
 * _<b>լավ</b> երաժիշտ&nbsp;_ “<b>good</b> musician”
 * _<b>նոր</b> նմուշ&nbsp;_ “<b>new</b> exemplar”
-* _ նա <b>արագ</b> է քայլում&nbsp;_ “he walks <b>quickly</b>”
+* _նա <b>արագ</b> է քայլում&nbsp;_ “he walks <b>quickly</b>”
 
 ### `Cmp`: comparative, second degree
 
