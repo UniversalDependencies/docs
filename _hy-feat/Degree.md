@@ -29,6 +29,7 @@ The quality of one object is compared to the same quality of another object.
 #### Examples
 
 * _<b>ավելի խելացի</b> մարդ&nbsp;_ “<b>cleverer</b> man”
+* _այս մարդն ինձնից <b>(ավելի) խելացի</b> է&nbsp;_ “the man is cleverer <b>cleverer</b> than me”
 * _<b>ավելի լավ</b> երաժիշտ&nbsp;_ “<b>better</b> musician”
 * _<b>ավելի նոր</b> նմուշ&nbsp;_ “<b>newer</b> exemplar”
 * _նա <b>ավելի արագ</b> է քայլում&nbsp;_ “he walks <b>more quickly</b>”
