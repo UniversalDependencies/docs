@@ -38,6 +38,7 @@ happen, without adding any attitude of the speaker.
   university."
 * [de] _<b>Du studierst</b> an der Universität._ "<b>You study</b> at
   the university."
+* [fr] _Tu le <b>fais</b>._ "You <b>do</b> it."
 * [tr] *eve <b>gidiyor</b>* "she is going home"
 * [tr] *eve <b>gitti</b>* "she went home"
 
