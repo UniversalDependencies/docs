@@ -19,7 +19,7 @@ udver: '2'
 Tense is typically a feature of [verbs](u-pos/VERB).
 It may also occur with other parts of speech
 ([nouns](u-pos/NOUN), [adjectives](u-pos/ADJ), [adverbs](u-pos/ADV)),
-depending on whether borderline word forms such as gerunds and participles
+depending on whether borderline word forms such as participles
 are classified as verbs or as the other category.
 
 Tense is a feature that specifies the time when the action took /
