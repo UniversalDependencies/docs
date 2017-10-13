@@ -82,7 +82,7 @@ tenses (past and present).
 
 The action of the verb is possible but not certain.
 This mood corresponds to the modal verbs _can, might, be able to_.
-Used e.g. in Finnish.
+Used e.g. in Finnish. See also the optative.
 
 #### Examples
 
@@ -123,10 +123,12 @@ The quotative mood is used e.g. in Estonian to denote direct speech.
 
 Expresses exclamations like "May you have a long life!" or "If only I were rich!"
 In Turkish it also expresses suggestions.
+In Sanskrit it may express possibility (cf. the potential mood in other languages).
 
 #### Examples
 
 * [tr] *eve <b>gidelim</b>* 'let's go home'
+* [sa] अप्रधानः प्रधानः <b>स्यात्</b> / _apradhānaḥ pradhānaḥ <b>syāt</b>_ "the unimportant person <b>may be (become)</b> important"
 
 ### <a name="Des">`Des`</a>: desiderative
 
