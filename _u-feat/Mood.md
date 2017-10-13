@@ -54,6 +54,7 @@ action of the verb.
 * [tr] *eve <b>git</b>* "go home!"
 * [tr] *eve <b>gidin</b>* "go home!" (plural)
 * [tr] *eve <b>gitsin</b>* "[let him] go home!" (3rd person imperative)
+* [sa] <b>ब्रूहि</b> राजः / _<b>brūhi</b> rājaḥ_ "<b>tell</b> the king"
 
 ### <a name="Cnd">`Cnd`</a>: conditional
 
