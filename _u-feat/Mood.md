@@ -100,11 +100,15 @@ conditional meaning.
 * [fr] <i>Je veux que tu le <b>fasses</b></i> "I want you to do it" lit. <i>I
   want that you it do</i><tt>.Sub</tt>
 
-### <a name="Jus">`Jus`</a>: jussive
+### <a name="Jus">`Jus`</a>: jussive / injunctive
 
 The jussive mood expresses the desire that the action happens; it is thus close to both imperative and optative.
 Unlike in desiderative, it is the speaker, not the subject who wishes that it happens.
-Used e.g. in Arabic.
+Used e.g. in Arabic. We also map the Sanskrit injunctive to `Mood=Jus`.
+
+#### Examples
+
+* [sa] मैवं <b>वोचः</b> / <i>maivaṁ <b>vocaḥ</b></i> "Do not <b>speak</b> this way"
 
 ### <a name="Prp">`Prp`</a>: purposive
 
