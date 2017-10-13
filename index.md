@@ -4,7 +4,7 @@ title:  'Universal Dependencies'
 udver: '2'
 ---
 
-# Universal Dependencies v2
+# Universal Dependencies
 
 [Executive summary of changes from v1 to v2](v2/summary.html)
 
