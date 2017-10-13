@@ -21,7 +21,7 @@ Degree: degree of comparison, positive degree, equative degree, comparative degr
 Evident: evidentiality, firsthand, non-firsthand, narrative
 Foreign: foreign word
 Gender: gender, masculine, feminine, neuter, uter, common gender
-Mood: mood, modality, indicative, imperative, conditional, potential, subjunctive, conjunctive, jussive, purposive mood, quotative, optative, desiderative, necessitative, admirative
+Mood: mood, modality, indicative, imperative, injunctive, conditional, potential, subjunctive, conjunctive, jussive, purposive mood, quotative, optative, desiderative, necessitative, admirative
 Number: number, singular, plural, dual, trial, paucal, greater paucal, greater plural, inverse number, count plural, counting form, quantitative plural, plurale tantum, collective noun, mass noun, singulare tantum
 NumType: numeral type, quantifier, cardinal, ordinal, multiplicative numeral, fraction, set numeral, collective numeral, distributive numeral, range numeral
 Person: person, first person, second person, third person, fourth person, zero person
