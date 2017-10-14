@@ -21,6 +21,12 @@ udver: '2'
 
 ## Morphology
 
+This is an overview only. For more detailed discussion and examples, see the list of [Czech POS tags](../pos/index.html)
+and [Czech features](../feat/index.html).
+
+* Czech uses all 17 universal POS categories, including particles ([PART]()).
+  At present, more than 70 word types are tagged [PART](). This is a legacy of an existing Czech morphological analyzer
+  and many of these words should probably belong to another category in UD; however, the exact list has yet to be worked out.
 * There are five main (de)verbal forms, distinguished by the UPOS tag and the value of the [VerbForm]() feature:
   * Infinitive `Inf`, tagged [VERB]() or [AUX]().
   * Finite verb `Fin`, tagged [VERB]() or [AUX]().
@@ -85,3 +91,14 @@ udver: '2'
   They appear with certain possessive adjectives and determiners and encode the lexical gender/number of the possessor.
   The extra layer is needed to distinguish these lexical features from the inflectional gender and number
   that mark agreement with the modified (possessed) noun.
+* Besides the layered features listed above, there are several other language-specific features:
+  * [NumForm]()
+  * [NumValue]()
+  * [NameType]()
+  * [AdpType]()
+  * [ConjType]()
+  * [Hyph]()
+  * [Style]()
+  * [PrepCase]()
+  * [Variant]() ... distinguishes short and long forms of adjectives, a Slavic-wide phenomenon
+* The following universal features are not used in Czech: [Definite](), [Evident](), [Polite]().
