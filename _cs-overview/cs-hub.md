@@ -102,3 +102,26 @@ and [Czech features](../feat/index.html).
   * [PrepCase]()
   * [Variant]() ... distinguishes short and long forms of adjectives, a Slavic-wide phenomenon
 * The following universal features are not used in Czech: [Definite](), [Evident](), [Polite]().
+
+## Syntax
+
+This is an overview only. For more detailed discussion and examples, see the list of [Czech relations](../dep/index.html),
+as well as Czech-specific examples scattered across the documentation of constructions.
+
+* Czech uses the verb _být_ (“to be”) as a copula with non-verbal predicates.
+  Lemmas _bývat_ and _bývávat_ may also appear as copulas. They are in fact just variants of _být_, but they are separate lemmas because
+  the morphological process that relates them to _být_ is considered derivational.
+* The verb _být_ is also the only auxiliary verb whose forms are used to construct periphrastic tenses (future, past),
+  moods (conditional) and voices (passive).
+* In other words, _být, bývat_ and _bývávat_ are the only lemmas that occur with the [AUX]() tag.
+  They may still occur also as normal [VERB]() if they are used in purely existential sentences
+  (i.e. such that don't even indicate location because if they do, then _být_ is treated as copula).
+  * Note that this may be changed in future. Existential sentences could be treated as elliptical versions of locational sentences;
+    then the verb would be the root, but it could still be tagged as `AUX` and the `AUX`-`VERB` distinction could be anchored in the lexicon.
+* Verbs with modal meaning are not considered auxiliary in Czech.
+
+TO DO:
+
+* List of relation subtypes used in Czech.
+* List of criteria how core arguments are distinguished from oblique arguments in Czech.
+
