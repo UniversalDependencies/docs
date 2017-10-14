@@ -50,6 +50,7 @@ udver: '2'
   * The `Polarity` feature is not used with pronouns and determiners, although there is a subset of negative pronouns and determiners.
     The `PronType=Neg` feature is used there instead.
 
+
 * Verbs have a lexical [Aspect](), either imperfective (`Imp`) or perfective (`Perf`). A few verbs are biaspectual and they lack the `Aspect`
   feature. Some imperfective verbs could be further classified as iteratives but they are not marked as such (although UD provides `Aspect=Iter`).
   * The `Aspect` feature should be also used with the corresponding derived nouns and adjectives (participles), if they have the
@@ -67,3 +68,24 @@ udver: '2'
   * The `Tense` feature is also used to distinguish present and past converbs (_dělaje_ “while doing” vs. _udělav_ “having done”),
     and present and past participles (_dělající_ “doing” vs. _udělavší_ “having done”).
     The l-participle (tagged `VERB` or `AUX`) also has `Tense=Past` because its primary function is to form the past tense.
+    The passive participle does not have the `Tense` feature.
+* There are two values of the [Voice]() feature: `Act` and `Pass`. Only the passive participle has `Voice=Pass`. All other verb forms have
+  `Voice=Act`.
+
+
+* [PronType]() is used with pronouns ([PRON]()), determiners ([DET]()) and adverbs ([ADV]()).
+* [NumType]() is used with numerals ([NUM]()), adjectives ([ADJ]()), determiners ([DET]()) and adverbs ([ADV]()).
+* The [Poss]() feature marks possessive personal determiners (e.g. _můj_ “my”),
+  possessive interrogative, indefinite or negative determiners (e.g. _čí_ “whose”),
+  possessive relative determiners (e.g. _jehož_ “whose”)
+  and possessive adjectives (e.g. _otcův_ “father's”).
+* The [Reflex]() feature marks reflexive pronouns _(se, si)_ and determiners _(svůj)_.
+  In Czech it is always used together with `PronType=Prs`.
+* [Person]() is a lexical feature of personal pronouns ([PRON]()) and has three values, `1`, `2` and `3`.
+  With personal possessive determiners ([DET]()), the feature actually encodes the person of the possessor.
+  Person is not marked on other types of pronouns and on nouns, although they can be almost always interpreted as the 3rd person.
+  * As a cross-reference to subject, person is also marked on finite verbs ([VERB](), [AUX]()).
+* There are two [layered features](../../u/overview/feat-layers.html), [Gender[psor]]() and [Number[psor]]().
+  They appear with certain possessive adjectives and determiners and encode the lexical gender/number of the possessor.
+  The extra layer is needed to distinguish these lexical features from the inflectional gender and number
+  that mark agreement with the modified (possessed) noun.
