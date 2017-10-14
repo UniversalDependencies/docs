@@ -47,3 +47,23 @@ udver: '2'
   that can be negated using the bound morpheme _ne-_.
   * Occasionally _ne_ occurs as an independent negation particle ([PART]()) and is marked with `Polarity=Neg`.
   * Negating nouns is usually limited to those derived from verbs _(neúspěch, nedůvěra, nevydávání)_ but in principle every noun can be negated.
+  * The `Polarity` feature is not used with pronouns and determiners, although there is a subset of negative pronouns and determiners.
+    The `PronType=Neg` feature is used there instead.
+
+* Verbs have a lexical [Aspect](), either imperfective (`Imp`) or perfective (`Perf`). A few verbs are biaspectual and they lack the `Aspect`
+  feature. Some imperfective verbs could be further classified as iteratives but they are not marked as such (although UD provides `Aspect=Iter`).
+  * The `Aspect` feature should be also used with the corresponding derived nouns and adjectives (participles), if they have the
+    `VerbForm` feature.
+* Finite verbs always have one of three values of [Mood](): `Ind`, `Imp` or `Cnd`. The conditional mood is only used with conditional
+  auxiliaries _(bych, bys, by, bychom, byste)_. The l-participle of the main verb, that is needed to form a periphrastic conditional,
+  is not marked with this feature.
+* Verbs in the indicative mood always have one of three values of [Tense](): `Past`, `Pres` or `Fut`.
+  Note that `Tense=Pres` is also used with forms of perfective verbs, which are formally present, but semantically future.
+  Hence both _jdu domů_ “I am going home” and _přijdu domů_ “I will come home” end up marked as `Tense=Pres`.
+  On the other hand, a few imperfective verbs can form a genuine future form using prefixes, and they are marked `Tense=Fut`:
+  _půjdu domů_ “I will go home”.
+  * Imperative and conditional forms do not have the `Tense` feature (note that past and present conditionals are distinguished
+    analytically).
+  * The `Tense` feature is also used to distinguish present and past converbs (_dělaje_ “while doing” vs. _udělav_ “having done”),
+    and present and past participles (_dělající_ “doing” vs. _udělavší_ “having done”).
+    The l-participle (tagged `VERB` or `AUX`) also has `Tense=Past` because its primary function is to form the past tense.
