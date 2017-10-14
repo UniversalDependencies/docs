@@ -170,7 +170,7 @@ as well as Czech-specific examples scattered across the documentation of constru
   * All prepositional phrases that are not prepositional objects (i.e., their role and form is not defined lexically by the predicate)
     are adjuncts.
 * Extra attention has to be paid to clitic forms of reflexive pronouns _se_ (accusative) and _si_ (dative). They can function as:
-  * Core objects (`obj` or `iobj`): _spatřil se/sebe v zrcadle_ “he sighted himself in the mirror,” _ublížila si/sobě_ “she hurt herself.”
+  * Core objects ([obj]() or [iobj]()): _spatřil se/sebe v zrcadle_ “he sighted himself in the mirror,” _ublížila si/sobě_ “she hurt herself.”
   * Reciprocal core objects (`obj` or `iobj`): _líbali se_ “they were kissing each other,” _vykali si_ “they used the polite form of address to each other.”
   * Reflexive passive ([expl:pass]()): _oběd se vaří_ “the lunch is being cooked,” lit. “the lunch cooks itself.”
   * Inherently reflexive verb, cannot exist without the reflexive clitic. In accord with the current UD guidelines, we label the relation
