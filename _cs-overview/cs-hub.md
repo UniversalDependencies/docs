@@ -33,6 +33,9 @@ and [Czech features](../feat/index.html).
   * Participle `Part`, tagged [VERB]() or [AUX]() (the so-called l-participle) or [ADJ]() (all other participle types).
   * Converb `Conv`, tagged [VERB]() or [AUX]().
   * Verbal noun `Vnoun`, tagged [NOUN]().
+
+### Nominal Features
+
 * Nominal words ([NOUN](), [PROPN]() and [PRON]()) have an inherent [Gender]() feature with one of three values: `Masc`, `Fem` or `Neut`.
   In some cases the masculine gender is further subclassified by the [Animacy]() values `Anim` and `Inan`.
   Feminine and neuter nominals do not distinguish animacy grammatically.
@@ -48,6 +51,9 @@ and [Czech features](../feat/index.html).
   It can occur with participles but only with those tagged as `ADJ`. It never occurs with verbs.
   * The `Case` feature also occurs with prepositions ([ADP]()). Here it is a lexical feature. Prepositions do not inflect for case
     but they subcategorize for the case of their noun phrase.
+
+### Degree and Polarity
+
 * [Degree]() applies to adjectives ([ADJ]()) and adverbs ([ADV]()) and has one of three possible values: `Pos`, `Cmp`, `Sup`.
 * [Polarity]() has two values, `Pos` and `Neg`, and applies primarily to verbs ([VERB](), [AUX]()), adjectives ([ADJ]()) and adverbs ([ADV]())
   that can be negated using the bound morpheme _ne-_.
@@ -55,6 +61,9 @@ and [Czech features](../feat/index.html).
   * Negating nouns is usually limited to those derived from verbs _(neúspěch, nedůvěra, nevydávání)_ but in principle every noun can be negated.
   * The `Polarity` feature is not used with pronouns and determiners, although there is a subset of negative pronouns and determiners.
     The `PronType=Neg` feature is used there instead.
+
+### Verbal Features
+
 * Verbs have a lexical [Aspect](), either imperfective (`Imp`) or perfective (`Perf`). A few verbs are biaspectual and they lack the `Aspect`
   feature. Some imperfective verbs could be further classified as iteratives but they are not marked as such (although UD provides `Aspect=Iter`).
   * The `Aspect` feature should be also used with the corresponding derived nouns and adjectives (participles), if they have the
@@ -75,6 +84,9 @@ and [Czech features](../feat/index.html).
     The passive participle does not have the `Tense` feature.
 * There are two values of the [Voice]() feature: `Act` and `Pass`. Only the passive participle has `Voice=Pass`. All other verb forms have
   `Voice=Act`.
+
+### Pronouns, Determiners, Quantifiers
+
 * [PronType]() is used with pronouns ([PRON]()), determiners ([DET]()) and adverbs ([ADV]()).
 * [NumType]() is used with numerals ([NUM]()), adjectives ([ADJ]()), determiners ([DET]()) and adverbs ([ADV]()).
 * The [Poss]() feature marks possessive personal determiners (e.g. _můj_ “my”),
@@ -91,6 +103,9 @@ and [Czech features](../feat/index.html).
   They appear with certain possessive adjectives and determiners and encode the lexical gender/number of the possessor.
   The extra layer is needed to distinguish these lexical features from the inflectional gender and number
   that mark agreement with the modified (possessed) noun.
+
+### Other Features
+
 * Besides the layered features listed above, there are several other language-specific features:
   * [NumForm]()
   * [NumValue]()
