@@ -87,6 +87,9 @@ and [Czech features](../feat/index.html).
 
 ### Pronouns, Determiners, Quantifiers
 
+* The pronoun-determiner distinction is based on word lists (because the traditional grammar does not define determiners).
+  In general, words that inflect for gender, to be able to agree with a modified noun, are tagged [DET](), even if they
+  act independently in a given sentence. Pronominal quantifiers (which the traditional grammar includes in numerals) are [DET]() as well.
 * [PronType]() is used with pronouns ([PRON]()), determiners ([DET]()) and adverbs ([ADV]()).
 * [NumType]() is used with numerals ([NUM]()), adjectives ([ADJ]()), determiners ([DET]()) and adverbs ([ADV]()).
 * The [Poss]() feature marks possessive personal determiners (e.g. _můj_ “my”),
@@ -123,6 +126,8 @@ and [Czech features](../feat/index.html).
 This is an overview only. For more detailed discussion and examples, see the list of [Czech relations](../dep/index.html),
 as well as Czech-specific examples scattered across the documentation of constructions.
 
+### Auxiliary Verbs and Copula
+
 * Czech uses the verb _být_ (“to be”) as a copula with non-verbal predicates.
   Lemmas _bývat_ and _bývávat_ may also appear as copulas. They are in fact just variants of _být_, but they are separate lemmas because
   the morphological process that relates them to _být_ is considered derivational.
@@ -135,8 +140,37 @@ as well as Czech-specific examples scattered across the documentation of constru
     then the verb would be the root, but it could still be tagged as `AUX` and the `AUX`-`VERB` distinction could be anchored in the lexicon.
 * Verbs with modal meaning are not considered auxiliary in Czech.
 
+### Core Arguments, Oblique Arguments and Adjuncts
+
+* Nominal subject ([nsubj]()) is a noun phrase in the nominative case, without preposition.
+  * If the noun phrase is quantified, it may be in the genitive, which is required by the quantifier.
+    If this is the case, then the quantifier is attached using a special relation, either [nummod:gov]() or [det:numgov]().
+  * An infinitive verb may serve as the subject and is labeled as clausal subject, [csubj]().
+    On the other hand, verbal nouns as subjects are just `nsubj`.
+  * A finite subordinate clause may serve as the subject and is labeled `csubj`.
+* Objects defined in the Czech grammar may be bare noun phrases in accusative, dative, genitive or instrumental,
+  or prepositional phrases in accusative, dative, genitive, locative or instrumental.
+  For the purpose of UD the objects are divided to core objects, labeled [obj]() or [iobj](),
+  and oblique objects, labeled [obl:arg]().
+  * Bare accusative, dative, genitive and instrumental objects are considered core.
+  * All prepositional objects are considered oblique.
+  * Accusative objects of some verbs alternate with finite clausal complements, which are labled [ccomp]().
+  * If a verb subcategorizes for the infinitive (e.g. modal verbs or verbs of control), the infinitival complement is labeled [xcomp]().
+  * If a verb subcategorizes for two core objects, one of them accusative (or `ccomp`) and the other non-accusative,
+    then the non-accusative object is labeled [iobj]().
+    Core nominal objects in other situations are labeled just [obj]().
+* Adjuncts (or, following the Czech grammar, adverbial modifiers realized as noun phrases) are usually
+  prepositional phrases, but they can be bare noun phrases as well. They are labeled [obl]():
+  * Temporal modifiers realized as accusative noun phrases: _přijedu příští sobotu_ “I will come next Saturday.”
+  * Dative noun phrases with benefactive or possessive role (i.e. if the verb does not subcategorize for a single dative object
+    and if it is not a verb of giving (or similar), where the dative could be interpreted as the recipient.
+    Example: _uvařila mu oběd_ “she cooked (for) him a lunch.”
+  * Instrumental noun phrases expressing the way or means with which something was done.
+    Example: _zbil psa klackem_ “he beat up the dog with a stick.”
+  * All prepositional phrases that are not prepositional objects (i.e., their role and form is not defined lexically by the predicate)
+    are adjuncts.
+
 TO DO:
 
 * List of relation subtypes used in Czech.
-* List of criteria how core arguments are distinguished from oblique arguments in Czech.
 
