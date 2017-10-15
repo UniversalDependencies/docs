@@ -158,7 +158,7 @@ as well as Czech-specific examples scattered across the documentation of constru
   and oblique objects, labeled [obl:arg]().
   * Bare accusative, dative, genitive and instrumental objects are considered core.
   * All prepositional objects are considered oblique.
-  * Accusative objects of some verbs alternate with finite clausal complements, which are labled [ccomp]().
+  * Accusative objects of some verbs alternate with finite clausal complements, which are labeled [ccomp]().
   * If a verb subcategorizes for the infinitive (e.g. modal verbs or verbs of control), the infinitival complement is labeled [xcomp]().
   * If a verb subcategorizes for two core objects, one of them accusative (or `ccomp`) and the other non-accusative,
     then the non-accusative object is labeled [iobj]().
