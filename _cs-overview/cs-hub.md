@@ -179,7 +179,13 @@ as well as Czech-specific examples scattered across the documentation of constru
 * In passive clauses (both reflexive and periphrastic passive), the subject is labeled with [nsubj:pass]() or [csubj:pass](), respectively.
   * If the demoted agent is present, it has the form of a bare instrumental phrase and its relation is labeled [obl:agent]().
 
-TO DO:
+### Relations Overview
 
-* List of relation subtypes used in Czech.
-
+* The following relation subtypes are used in Czech: [nsubj:pass](), [csubj:pass](), [obl:agent](), [obl:arg](),
+  [expl:pass](), [expl:pv](), [aux:pass](),
+  [advmod:emph](), [det:numgov](), [det:nummod](), [nummod:gov](),
+  [flat:foreign]().
+* The following main types are not used alone and must be subtyped:
+  [expl]().
+* The following relation types are not used in Czech at all:
+  [clf](), [dislocated]().
