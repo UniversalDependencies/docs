@@ -9,12 +9,12 @@ udver: '2'
 
 In version 2.1, there are 6 different corpora for French:
 
-* [French](#French)
-* [French-FTB](#French-FTB)
-* [French-PUD](#French-PUD)
-* [French-ParTUT](#French-ParTUT)
-* [French-Sequoia](#French-Sequoia)
-* [French-Spoken](#French-Spoken)
+* [French](#french)
+* [French-FTB](#french-ftb)
+* [French-PUD](#french-pud)
+* [French-ParTUT](#french-partut)
+* [French-Sequoia](#french-sequoia)
+* [French-Spoken](#french-spoken)
 
 ## French
 
