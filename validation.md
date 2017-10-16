@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-10-16T12:33:54Z">2017-10-16T12:33:54 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-10-16T16:17:17Z">2017-10-16T16:17:17 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -1212,30 +1212,28 @@ python tools/validate.py --lang fi_pud UD-dev-branches/UD_Finnish-PUD/fi_pud-ud-
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD French</span>
 <span class="widespan">fr</span>
-<span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-10-16T12:33:28Z">2017-10-16T12:33:28 zulu</time></span>
+<span class="validationpass">PASS</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-10-16T16:16:50Z">2017-10-16T16:16:50 zulu</time></span>
 </div>
 <div>
 <pre>
-python tools/validate.py --lang fr UD-dev-branches/UD_French/fr-ud-dev.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang fr /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_French/fr-ud-dev.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python tools/validate.py --lang fr UD-dev-branches/UD_French/fr-ud-test.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang fr /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_French/fr-ud-test.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python tools/validate.py --lang fr UD-dev-branches/UD_French/fr-ud-train.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang fr /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_French/fr-ud-train.conllu
 
-[Line                   96512]: Unknown UD DEPREL: aux:caus
-*** FAILED *** with 1 errors
-Syntax errors: 1
+*** PASSED ***
 
 
 ******************
