@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-10-16T09:34:27Z">2017-10-16T09:34:27 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-10-16T12:28:35Z">2017-10-16T12:28:35 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -2818,28 +2818,21 @@ python tools/validate.py --lang no_nynorsk UD-dev-branches/UD_Norwegian-Nynorsk/
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD Norwegian-NynorskLIA</span>
 <span class="widespan">no nynorsklia</span>
-<span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-10-11T12:18:51Z">2017-10-11T12:18:51 zulu</time></span>
+<span class="validationpass">PASS</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-10-16T12:28:34Z">2017-10-16T12:28:34 zulu</time></span>
 </div>
 <div>
 <pre>
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang no_nynorsklia /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Norwegian-NynorskLIA/no_nynorsklia-ud-dev.conllu
+python tools/validate.py --lang no_nynorsklia UD-dev-branches/UD_Norwegian-NynorskLIA/no_nynorsklia-ud-dev.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang no_nynorsklia /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Norwegian-NynorskLIA/no_nynorsklia-ud-test.conllu
+python tools/validate.py --lang no_nynorsklia UD-dev-branches/UD_Norwegian-NynorskLIA/no_nynorsklia-ud-test.conllu
 
-[Line                   5220]: Invalid DEPREL value FINV
-[Line                   5220]: Unknown UD DEPREL: FINV
-[Line                   9603]: Invalid DEPREL value FINV
-[Line                   9603]: Unknown UD DEPREL: FINV
-[Line                   13039]: Invalid DEPREL value FINV
-[Line                   13039]: Unknown UD DEPREL: FINV
-*** FAILED *** with 6 errors
-Syntax errors: 6
+*** PASSED ***
 
 
 ******************
