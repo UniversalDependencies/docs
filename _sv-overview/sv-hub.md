@@ -9,7 +9,7 @@ udver: '2'
      If we agree on a scheme like this, the old proposal should be updated and made visible in the “How to Contribute” section;
      right now it is probably not linked from anywhere. -->
 
-# UD for Swedish <span class="flagspan"><img class="flag" src="../../flags/svg/SV.svg" /></span>
+# UD for Swedish <span class="flagspan"><img class="flag" src="../../flags/svg/SE.svg" /></span>
 
 ## Tokenization and Word Segmentation
 
