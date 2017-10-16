@@ -28,6 +28,6 @@ Note that in Armenian some adverbs inflect for [Degree](). Second degree specifi
 - multiplicative numeral adverbs: _երկակի, եռակի, քառակի, եռապատիկ, քառապատիկ&nbsp;_ “twice, three times, four times, threefold, fourfold”
 - interrogative adverbs: _որտեղ, ուր, երբ, ինչպես, ինչու&nbsp;_ “where, where to, when, how, why”
 - demonstrative adverbs: _այստեղ, այնտեղ, այժմ, հետո, այսպես&nbsp;_ “here, there, now, then, so”
-- indefinite adverbs: _երբևիցե, փոքրիշատե &nbsp;_ “երբևիցե, փոքրիշատե”
+- indefinite adverbs: _երբևիցե, փոքրիշատե &nbsp;_ “some time, more or less”
 - total adverbs: _երբևիցե, փոքրիշատե&nbsp;_ “everywhere, always”
 - negative adverbs: _երբեք&nbsp;_ “never”
