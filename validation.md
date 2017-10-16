@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-10-15T22:03:56Z">2017-10-15T22:03:56 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-10-16T03:19:21Z">2017-10-16T03:19:21 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -820,8 +820,8 @@ python tools/validate.py --lang nl_lassysmall UD-dev-branches/UD_Dutch-LassySmal
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD English</span>
 <span class="widespan">en</span>
-<span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-10-05T15:05:27Z">2017-10-05T15:05:27 zulu</time></span>
+<span class="validationfail">FAIL</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-10-16T03:19:05Z">2017-10-16T03:19:05 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -841,7 +841,9 @@ python tools/validate.py --lang en UD-dev-branches/UD_English/en-ud-test.conllu
 
 python tools/validate.py --lang en UD-dev-branches/UD_English/en-ud-train.conllu
 
-*** PASSED ***
+[Tree number 11450 on line 218883]: Non-tree structure. Words 6,7,8,9 are not reachable from the root 0.
+*** FAILED *** with 1 errors
+Syntax errors: 1
 
 
 ******************
