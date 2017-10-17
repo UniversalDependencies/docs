@@ -42,9 +42,9 @@ For more information, see the list of [Swedish POS tags](../pos/index.html).
 
 ### Features 
 
-* Nouns have inherent [Gender]() and inflect for [Number]() (singular or plural), [Definiteness]() (indefinite or definite) and [Case]() (nominative or genitive). 
+* Nouns have inherent [Gender]() and inflect for [Number]() (singular or plural), [Definite]() (indefinite or definite) and [Case]() (nominative or genitive). 
 * Verbs inflect for [Voice]() (active or passive). Finite forms in indicative mood in addition inflect for [Tense]() (present or paste). There are three types of nonfinite forms: infinitives, participles (present and past), and supine (used to form perfect tenses together with the auxiliary *have*). 
-* Adjectives agree with nouns (in both attributive and predicate position) with respect to the features [Gender](), [Number]() and [Definiteness](). In addition, many adjectives inflect for [Degree]() (positive, comparative, superlative) and for [Case]() when used to head noun phrases.
+* Adjectives agree with nouns (in both attributive and predicate position) with respect to the features [Gender](), [Number]() and [Definite](). In addition, many adjectives inflect for [Degree]() (positive, comparative, superlative) and for [Case]() when used to head noun phrases.
 * Adverbs inflect only for [Degree]().
 * Personal pronouns inflect for [Case]() with three values (nominative, accusative, genitive).
 * Determiners agree with nouns in the same way as adjectives.
@@ -58,9 +58,44 @@ For more information, see the list of [Swedish features](../feat/index.html).
 
 ## Syntax
 
-This is an overview only. For more detailed discussion and examples, see the list of [Swedish relations](../dep/index.html),
-as well as Swedish-specific examples scattered across the documentation of constructions.
+* Subjects have the following characteristics: 
+  * Word order: Subjects immediately follow the finite verb and precede negation in verb-initial main clauses.
+  * Case marking: Subjects occur in nominative case without adpositions.
+  * Passivization: Subjects are suppressed when verbs (both intransitive and transitive) are passivized.
+  * Control: Subjects control the subjects of absolute adverbials.
+  * Relativization: Relative pronouns with subject function cannot be omitted.
+* Objects have the following characteristics:
+  * Word order: Objects immediately follow the main verb unless topicalized.
+  * Case marking: Objects occur in nominative case (if nouns) or accusative case (if pronouns) without adpositions.
+  * Passivization: Objects become (non-expletive) subjects when verbs are passivized.
+* The copula verb *vara* (be) is used in equational, attributional, locative, possessive and benefactory nonverbal clauses. Existential clauses normally use a different verb (*finnas*).
+* The following subtypes are used in Swedish:
+  * [acl:relcl]() for relative clauses
+  * [aux:pass]() for passive auxiliaries
+  * [compound:prt]() for verb particles
+  * [csubj:pass]() for clausal subjects of passive verbs
+  * [flat:name]() for exocentric complex names
+  * [nmod:poss]() for possessive/genitive modifiers
+  * [nsubj:pass]() for nominal subjects of passive verbs
+  * [obl:agent]() for agents of passive verbs
 
-### Relations Overview
+For more information, see the list of [Swedish relations](../dep/index.html).
 
-* The following relation subtypes are used in Swedish: 
+---
+**Instruction**: Give criteria for identifying core arguments (subjects and objects), and describe the range of copula constructions in nonverbal clauses. List all subtype relations used. Include links to language-specific relations definitions if any.
+
+---
+
+## Treebanks
+
+There are three Swedish UD treebanks:
+  * Swedish
+  * Swedish-LinES
+  * Swedish-PUD
+  
+---
+**Where do we link to for the treebanks?
+
+---
+
+
