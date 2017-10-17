@@ -5,29 +5,23 @@ permalink: sv/overview/sv-hub.html
 udver: '2'
 ---
 
-<!-- Inspired by an old proposal for language-specific documentation here: http://universaldependencies.org/v2/minimaldoc.html
-     If we agree on a scheme like this, the old proposal should be updated and made visible in the “How to Contribute” section;
-     right now it is probably not linked from anywhere. -->
-
 # UD for Swedish <span class="flagspan"><img class="flag" src="../../flags/svg/SE.svg" /></span>
 
 ## Tokenization and Word Segmentation
 
-* **Whitespace tokenization**: Yes
-* **Words with spaces**: Yes
-  * Numerical expressions: *2 000*
-  * Abbreviations: *t ex* (for example)
-* **Words with punctuation**: Yes
-  * Numerical expressions: *1.1.1970* 
-  * Abbreviations: *t.ex.*
-* **Multiword tokens**: No
+<!-- Describe the general rules for delimiting words (for example, based on whitespace and punctuation) and exceptions to these rules. Specify whether words with spaces and/or multiword tokens occur. -->
+
+* Words are generally delimited by whitespace or punctuation. Exceptions:
+  * Numerical expressions (including dates) are treated as single words even if they contain punctuation or whitespace: *1.1.1970*, *11:00*, *2 000*. 
+  * Abbreviations are treated as single words even if they contain punctuation or whitespace: *t.ex.*, *bl a*.
+* Multiword tokens are not used in Swedish.
 
 ## Morphology
 
 This is an overview only. For more detailed discussion and examples, see the list of [Swedish POS tags](../pos/index.html)
 and [Swedish features](../feat/index.html).
 
-* 
+* **Unused 
 
 
 ## Syntax
