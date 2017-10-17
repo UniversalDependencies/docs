@@ -13,7 +13,13 @@ udver: '2'
 
 ## Tokenization and Word Segmentation
 
-* 
+| Whitespace between tokens/words | Yes |    |
+| Whitespace within tokens/words | Yes | Numerical expressions: 2 000 |
+|   |   | Abbreviations: t ex |
+| Punctuation within words: | Yes | Numerical expressions: 1.1.1970, 11.00 |
+|   |   | Abbreviations: t.ex. |
+|   |   | Hyphenated words: TV-apparat |
+| Multiword tokens | No |    |
 
 ## Morphology
 
