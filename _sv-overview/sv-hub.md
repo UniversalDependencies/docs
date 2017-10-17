@@ -31,7 +31,7 @@ udver: '2'
   * The passive auxiliar *bli* (get), which combines with the past participle of the main verb to form passives.
   * Modal and aspectual verbs that combine with the bare infinitive of the main verb, such as *måste* (must) and *kunde* (could).
 * The tag DET is used for articles and pronominal words used with a determiner function, including possessives. The tag PRON is reserved for pronouns occurring as the head of a noun phrase.
-* Participles (both present and past) are mainly used adjectivally in Swedish and are consistently tagged ADJ, not VERB. The only exception is that past participles used to form periphrastic passives are tagged VERB.
+* Participles (both present and past) are mainly used adjectivally in Swedish and are generally tagged ADJ. The only exception is that past participles used to form periphrastic passives are tagged VERB.
 
 For more information, see the list of [Swedish POS tags](../pos/index.html).
 
@@ -42,7 +42,13 @@ For more information, see the list of [Swedish POS tags](../pos/index.html).
 
 ### Features 
 
+* Swedish nouns have inherent 
 For more information, see the list of [Swedish features](../feat/index.html).
+
+---
+**Instruction**: Describe inherent and inflectional features for major word classes (at least NOUN and VERB). Describe other noteworthy Include links to language-specific feature definitions if any.
+
+---
 
 ## Syntax
 
