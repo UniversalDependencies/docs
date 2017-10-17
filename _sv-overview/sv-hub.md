@@ -13,14 +13,11 @@ udver: '2'
 
 ## Tokenization and Word Segmentation
 
+| Writing System | Mixed Tokens | Multiword Tokens |
 |---|---|---|
-| Whitespace between tokens/words | Yes |    |
-| Whitespace within tokens/words | Yes | Numerical expressions: 2 000 |
-|   |   | Abbreviations: t ex |
-| Punctuation within words: | Yes | Numerical expressions: 1.1.1970, 11.00 |
-|   |   | Abbreviations: t.ex. |
-|   |   | Hyphenated words: TV-apparat |
-| Multiword tokens | No |    |
+| Whitespace token | Space: 2 000 | None |
+|   | Punct: 11:00 |   |
+|   | Symbol: 2+3 |   |
 
 ## Morphology
 
