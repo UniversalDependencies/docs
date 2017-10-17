@@ -13,6 +13,7 @@ udver: '2'
 
 ## Tokenization and Word Segmentation
 
+|---|---|---|
 | Whitespace between tokens/words | Yes |    |
 | Whitespace within tokens/words | Yes | Numerical expressions: 2 000 |
 |   |   | Abbreviations: t ex |
