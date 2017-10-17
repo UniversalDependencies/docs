@@ -1649,12 +1649,115 @@ udver: '2'
 <h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
 
 TBD
+Ignoring arguments headed by PROPN, PART, PUNCT, SYM, X.
+<ul>
+  <li>nsubj
+    <ul>
+      <li>ADJ-ADJ (94)</li>
+      <li>ADJ-ADV (15)</li>
+      <li>ADJ-DET (992)</li>
+      <li>ADJ-NOUN (5671)</li>
+      <li>ADJ-NUM (63)</li>
+      <li>ADJ-PART (1)</li>
+      <li>ADJ-PRON (240)</li>
+      <li>ADJ-PROPN (428)</li>
+      <li>ADJ-SYM (1)</li>
+      <li>ADV-ADJ (1)</li>
+      <li>ADV-ADV (1)</li>
+      <li>ADV-DET (28)</li>
+      <li>ADV-NOUN (35)</li>
+      <li>ADV-NUM (2)</li>
+      <li>ADV-PRON (39)</li>
+      <li>ADV-PROPN (2)</li>
+      <li>AUX-PRON (1)</li>
+      <li>DET-ADJ (2)</li>
+      <li>DET-ADV (1)</li>
+      <li>DET-DET (45)</li>
+      <li>DET-NOUN (341)</li>
+      <li>DET-NUM (1)</li>
+      <li>DET-PART (1)</li>
+      <li>DET-PRON (27)</li>
+      <li>DET-PROPN (48)</li>
+      <li>NOUN-ADJ (56)</li>
+      <li>NOUN-ADP (1)</li>
+      <li>NOUN-ADV (3)</li>
+      <li>NOUN-DET (1510)</li>
+      <li>NOUN-NOUN (3338)</li>
+      <li>NOUN-NUM (26)</li>
+      <li>NOUN-PRON (292)</li>
+      <li>NOUN-PROPN (603)</li>
+      <li>NOUN-SYM (1)</li>
+      <li>NOUN-X (1)</li>
+      <li>NUM-ADJ (3)</li>
+      <li>NUM-DET (54)</li>
+      <li>NUM-NOUN (273)</li>
+      <li>NUM-PRON (14)</li>
+      <li>NUM-PROPN (42)</li>
+      <li>PRON-DET (29)</li>
+      <li>PRON-NOUN (110)</li>
+      <li>PRON-NUM (1)</li>
+      <li>PRON-PRON (15)</li>
+      <li>PRON-PROPN (11)</li>
+      <li>VERB-ADJ (883)</li>
+      <li>VERB-ADP (1)</li>
+      <li>VERB-ADV (322)</li>
+      <li>VERB-CCONJ (1)</li>
+      <li>VERB-DET (9530)</li>
+      <li>VERB-INTJ (1)</li>
+      <li>VERB-NOUN (43916)</li>
+      <li>VERB-NUM (607)</li>
+      <li>VERB-PART (8)</li>
+      <li>VERB-PRON (3075)</li>
+      <li>VERB-PROPN (13551)</li>
+      <li>VERB-SCONJ (1)</li>
+      <li>VERB-SYM (6)</li>
+    </ul>
+  </li>
+</ul>
 
   </td>
   <td width="50%" valign="top">
 <h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
 
 TBD
+Ignoring arguments headed by PROPN, PART, PUNCT, SYM, X.
+<ul>
+  <li>nsubj
+    <ul>
+      <li>ADJ-ADJ (18)</li>
+      <li>ADJ-NOUN (484)</li>
+      <li>ADJ-NUM (1)</li>
+      <li>ADJ-PRON (254)</li>
+      <li>ADJ-PROPN (9)</li>
+      <li>ADP-NOUN (5)</li>
+      <li>ADP-PRON (2)</li>
+      <li>ADV-NOUN (10)</li>
+      <li>ADV-PRON (6)</li>
+      <li>AUX-PRON (1)</li>
+      <li>DET-DET (2)</li>
+      <li>DET-PRON (1)</li>
+      <li>NOUN-ADJ (8)</li>
+      <li>NOUN-ADP (1)</li>
+      <li>NOUN-NOUN (271)</li>
+      <li>NOUN-NUM (2)</li>
+      <li>NOUN-PRON (213)</li>
+      <li>NOUN-PROPN (15)</li>
+      <li>NUM-ADJ (1)</li>
+      <li>NUM-NOUN (8)</li>
+      <li>NUM-NUM (2)</li>
+      <li>NUM-PRON (1)</li>
+      <li>PRON-NOUN (39)</li>
+      <li>PRON-PRON (19)</li>
+      <li>PRON-VERB (1)</li>
+      <li>VERB-ADJ (86)</li>
+      <li>VERB-DET (8)</li>
+      <li>VERB-NOUN (2852)</li>
+      <li>VERB-NUM (16)</li>
+      <li>VERB-PRON (3039)</li>
+      <li>VERB-PROPN (210)</li>
+    </ul>
+  </li>
+</ul>
 
   </td>
 </tr>
