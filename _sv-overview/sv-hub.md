@@ -14,8 +14,12 @@ udver: '2'
 ## Tokenization and Word Segmentation
 
 * **Whitespace tokenization**: Yes
-* **Words with spaces**: Yes, numerical expressions (*2 000*) and abbreviations (*t ex*)
-* **Words with punctuation**: Yes, numerical expressions (*1.1.1970*) and abbreviations (*t.ex.*)
+* **Words with spaces**: Yes
+  * Numerical expressions: *2 000*
+  * Abbreviations: *t ex* (for example)
+* **Words with punctuation**: Yes
+  * Numerical expressions: *1.1.1970* 
+  * Abbreviations: *t.ex.*
 * **Multiword tokens**: No
 
 ## Morphology
