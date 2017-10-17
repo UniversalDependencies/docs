@@ -13,11 +13,10 @@ udver: '2'
 
 ## Tokenization and Word Segmentation
 
-| Writing System | Mixed Tokens | Multiword Tokens |
-|---|---|---|
-| Whitespace token | Space: 2 000 | None |
-|   | Punct: 11:00 |   |
-|   | Symbol: 2+3 |   |
+* **Whitespace tokenization**: Yes
+* **Words with spaces**: Yes, numerical expressions (*2 000*) and abbreviations (*t ex*)
+* **Words with punctuation**: Yes, numerical expressions (*1.1.1970*) and abbreviations (*t.ex.*)
+* **Multiword tokens**: No
 
 ## Morphology
 
