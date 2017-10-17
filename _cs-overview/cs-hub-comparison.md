@@ -43,19 +43,33 @@ udver: '2'
 <li>This corpus does not use the following tags: X</li>
 <li>This corpus contains 31 word types tagged as particles (PART): Not, Nuže, Pozor, ano, anti, asi, ať, až, ba, bohužel, co, copak, jen, jenom, ka, kdoví, li, natož, ne, nechť, nejen, no, off, ovšem, prý, s, sbohem, takříkajíc, to, we, Žel.</li>
 <li>There are 4 (de)verbal forms:
-  * Conv
-    * AUX: jsa, jsouce
-    * VERB: nemluvě, počínaje, nepočítaje, přikládajíce, svěřuje
-  * Fin
-    * AUX: je, by, jsou, bude, jsem, jsme, není, budou, bychom, bych
-    * VERB: je, má, může, mají, lze, musí, jde, jsou, chce, mohou
-  * Inf
-    * AUX: být
-    * VERB: mít, stát, získat, říci, hrát, muset, platit, prodat, investovat, řešit
-  * Part
-    * ADJ: řečeno, vedoucí, odpovídající, týkající, připravena, rozhodující, následující, podepsána, přesvědčen, přesvědčeni
-    * AUX: byl, bylo, byla, byly, byli, nebyl, nebylo, nebyla, nebyly, nebyli
-    * VERB: řekl, měl, měla, mělo, uvedl, mohl, měli, měly, bylo, prohlásil
+<ul>
+  <li>Conv
+  <ul>
+    <li>AUX: jsa, jsouce</li>
+    <li>VERB: nemluvě, počínaje, nepočítaje, přikládajíce, svěřuje</li>
+  </ul>
+  </li>
+  <li>Fin
+  <ul>
+    <li>AUX: je, by, jsou, bude, jsem, jsme, není, budou, bychom, bych</li>
+    <li>VERB: je, má, může, mají, lze, musí, jde, jsou, chce, mohou</li>
+  </ul>
+  </li>
+  <li>Inf
+  <ul>
+    <li>AUX: být</li>
+    <li>VERB: mít, stát, získat, říci, hrát, muset, platit, prodat, investovat, řešit</li>
+  </ul>
+  </li>
+  <li>Part
+  <ul>
+    <li>ADJ: řečeno, vedoucí, odpovídající, týkající, připravena, rozhodující, následující, podepsána, přesvědčen, přesvědčeni</li>
+    <li>AUX: byl, bylo, byla, byly, byli, nebyl, nebylo, nebyla, nebyly, nebyli</li>
+    <li>VERB: řekl, měl, měla, mělo, uvedl, mohl, měli, měly, bylo, prohlásil</li>
+  </ul>
+  </li>
+</ul>
 </li>
 
   </td>
@@ -66,18 +80,32 @@ udver: '2'
 <li>This corpus uses 17 UPOS tags out of 17 possible: ADJ, ADP, ADV, AUX, CCONJ, DET, INTJ, NOUN, NUM, PART, PRON, PROPN, PUNCT, SCONJ, SYM, VERB, X</li>
 <li>This corpus contains 36 word types tagged as particles (PART): Bienvenue, CA, Co, GALA, Ovšemže, Please, Pozor, Zaplaťpánbůh, ahoj, al, ano, arciť, asi, ať, až, ba, bohužel, bůhví, džambo, el, jen, jenom, li, natož, ne, nechť, nejen, no, nuže, off, ovšem, prý, s, t, takříkajíc, to.</li>
 <li>There are 4 (de)verbal forms:
-  * Conv
-    * VERB: počínaje, vlastně, nemluvě, říkajíc, PRA, konče, následujíce
-  * Fin
-    * AUX: je, by, jsou, bude, jsme, jsem, není, budou, bychom, buď
-    * VERB: má, je, může, mají, jde, jsou, musí, mohou, lze, říká
-  * Inf
-    * AUX: být, býti
-    * VERB: mít, hrát, stát, získat, být, pokračovat, jít, vytvořit, platit, moci
-  * Part
-    * ADJ: ležící, řečeno, rozhodující, vedoucí, neslyšících, přesvědčen, připravena, následující, uzavřena, rozhodnuto
-    * AUX: byl, byla, bylo, byly, byli, nebyl, nebyla, nebylo, nebyly, nebyli
-    * VERB: řekl, měl, měla, mělo, měli, mohl, měly, uvedl, bylo, mohli
+<ul>
+  <li>Conv
+  <ul>
+    <li>VERB: počínaje, vlastně, nemluvě, říkajíc, PRA, konče, následujíce</li>
+  </ul>
+  </li>
+  <li>Fin
+  <ul>
+    <li>AUX: je, by, jsou, bude, jsme, jsem, není, budou, bychom, buď</li>
+    <li>VERB: má, je, může, mají, jde, jsou, musí, mohou, lze, říká</li>
+  </ul>
+  </li>
+  <li>Inf
+  <ul>
+    <li>AUX: být, býti</li>
+    <li>VERB: mít, hrát, stát, získat, být, pokračovat, jít, vytvořit, platit, moci</li>
+  </ul>
+  </li>
+  <li>Part
+  <ul>
+    <li>ADJ: ležící, řečeno, rozhodující, vedoucí, neslyšících, přesvědčen, připravena, následující, uzavřena, rozhodnuto</li>
+    <li>AUX: byl, byla, bylo, byly, byli, nebyl, nebyla, nebylo, nebyly, nebyli</li>
+    <li>VERB: řekl, měl, měla, mělo, měli, mohl, měly, uvedl, bylo, mohli</li>
+  </ul>
+  </li>
+</ul>
 </li>
 
   </td>
