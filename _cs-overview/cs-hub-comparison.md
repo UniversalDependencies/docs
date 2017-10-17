@@ -1489,11 +1489,37 @@ udver: '2'
   <td width="50%" valign="top">
 <h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
 
-TBD
-Here we consider only relations between finite verbs (parent) and nouns (child).
+Here we consider only relations between verbs (parent) and nouns or pronouns (child).
 <ul>
   <li>nsubj
     <ul>
+      <li>VERB-Fin--NOUN (29)</li>
+      <li>VERB-Fin--NOUN-Acc (2)</li>
+      <li>VERB-Fin--NOUN-Gen (69)</li>
+      <li>VERB-Fin--NOUN-Gen-ADP(kolem) (3)</li>
+      <li>VERB-Fin--NOUN-Gen-ADP(na) (2)</li>
+      <li>VERB-Fin--NOUN-Gen-ADP(přes) (6)</li>
+      <li>VERB-Fin--NOUN-Nom (2493)</li>
+      <li>VERB-Fin--PRON (1)</li>
+      <li>VERB-Fin--PRON-Gen (2)</li>
+      <li>VERB-Fin--PRON-Nom (178)</li>
+      <li>VERB-Fin--PRON-Voc (1)</li>
+      <li>VERB-Inf--NOUN (1)</li>
+      <li>VERB-Inf--NOUN-Gen (4)</li>
+      <li>VERB-Inf--NOUN-Gen-ADP(na) (1)</li>
+      <li>VERB-Inf--NOUN-Loc-ADP(po) (1)</li>
+      <li>VERB-Inf--NOUN-Nom (116)</li>
+      <li>VERB-Inf--PRON-Nom (9)</li>
+      <li>VERB-Part--NOUN (10)</li>
+      <li>VERB-Part--NOUN-Acc (1)</li>
+      <li>VERB-Part--NOUN-Gen (73)</li>
+      <li>VERB-Part--NOUN-Gen-ADP(kolem) (1)</li>
+      <li>VERB-Part--NOUN-Nom (1854)</li>
+      <li>VERB-Part--PRON (1)</li>
+      <li>VERB-Part--PRON-Dat (1)</li>
+      <li>VERB-Part--PRON-Gen (5)</li>
+      <li>VERB-Part--PRON-Gen-ADP(na) (1)</li>
+      <li>VERB-Part--PRON-Nom (131)</li>
     </ul>
   </li>
 </ul>
@@ -1502,11 +1528,293 @@ Here we consider only relations between finite verbs (parent) and nouns (child).
   <td width="50%" valign="top">
 <h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
 
-TBD
-Here we consider only relations between finite verbs (parent) and nouns (child).
+Here we consider only relations between verbs (parent) and nouns or pronouns (child).
 <ul>
   <li>nsubj
     <ul>
+      <li>VERB-Fin--NOUN (1)</li>
+      <li>VERB-Fin--NOUN-Nom (183)</li>
+      <li>VERB-Fin--PRON (120)</li>
+      <li>VERB-Fin--PRON-Nom (144)</li>
+      <li>VERB-Inf--NOUN-Nom (45)</li>
+      <li>VERB-Inf--PRON (16)</li>
+      <li>VERB-Inf--PRON-Nom (66)</li>
+      <li>VERB-Sup--NOUN-Nom (22)</li>
+      <li>VERB-Sup--PRON (10)</li>
+      <li>VERB-Sup--PRON-Nom (19)</li>
+    </ul>
+  </li>
+</ul>
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+<ul>
+  <li>obj
+    <ul>
+      <li>VERB-Conv--NOUN-Acc (2)</li>
+      <li>VERB-Conv--NOUN-Loc-ADP(o) (3)</li>
+      <li>VERB-Fin--NOUN (8)</li>
+      <li>VERB-Fin--NOUN-ADP(o) (1)</li>
+      <li>VERB-Fin--NOUN-ADP(z) (1)</li>
+      <li>VERB-Fin--NOUN-ADP(za) (1)</li>
+      <li>VERB-Fin--NOUN-Acc (1561)</li>
+      <li>VERB-Fin--NOUN-Acc-ADP(na) (70)</li>
+      <li>VERB-Fin--NOUN-Acc-ADP(nehledě) (1)</li>
+      <li>VERB-Fin--NOUN-Acc-ADP(o) (116)</li>
+      <li>VERB-Fin--NOUN-Acc-ADP(pro) (1)</li>
+      <li>VERB-Fin--NOUN-Acc-ADP(v) (12)</li>
+      <li>VERB-Fin--NOUN-Acc-ADP(za) (16)</li>
+      <li>VERB-Fin--NOUN-Dat (90)</li>
+      <li>VERB-Fin--NOUN-Dat-ADP(k) (51)</li>
+      <li>VERB-Fin--NOUN-Dat-ADP(proti) (2)</li>
+      <li>VERB-Fin--NOUN-Gen (137)</li>
+      <li>VERB-Fin--NOUN-Gen-ADP(bez) (3)</li>
+      <li>VERB-Fin--NOUN-Gen-ADP(do) (3)</li>
+      <li>VERB-Fin--NOUN-Gen-ADP(kolem) (3)</li>
+      <li>VERB-Fin--NOUN-Gen-ADP(na) (6)</li>
+      <li>VERB-Fin--NOUN-Gen-ADP(od) (8)</li>
+      <li>VERB-Fin--NOUN-Gen-ADP(z) (24)</li>
+      <li>VERB-Fin--NOUN-Ins (47)</li>
+      <li>VERB-Fin--NOUN-Ins-ADP(nad) (2)</li>
+      <li>VERB-Fin--NOUN-Ins-ADP(před) (2)</li>
+      <li>VERB-Fin--NOUN-Ins-ADP(s) (58)</li>
+      <li>VERB-Fin--NOUN-Ins-ADP(za) (1)</li>
+      <li>VERB-Fin--NOUN-Loc-ADP(na) (26)</li>
+      <li>VERB-Fin--NOUN-Loc-ADP(o) (72)</li>
+      <li>VERB-Fin--NOUN-Loc-ADP(po) (5)</li>
+      <li>VERB-Fin--NOUN-Loc-ADP(v) (9)</li>
+      <li>VERB-Fin--NOUN-Nom (5)</li>
+      <li>VERB-Fin--NOUN-Voc (1)</li>
+      <li>VERB-Fin--PRON-Acc (244)</li>
+      <li>VERB-Fin--PRON-Acc-ADP(na) (6)</li>
+      <li>VERB-Fin--PRON-Acc-ADP(o) (4)</li>
+      <li>VERB-Fin--PRON-Acc-ADP(za) (2)</li>
+      <li>VERB-Fin--PRON-Dat (78)</li>
+      <li>VERB-Fin--PRON-Dat-ADP(k) (2)</li>
+      <li>VERB-Fin--PRON-Gen (9)</li>
+      <li>VERB-Fin--PRON-Gen-ADP(bez) (1)</li>
+      <li>VERB-Fin--PRON-Gen-ADP(od) (1)</li>
+      <li>VERB-Fin--PRON-Gen-ADP(z) (2)</li>
+      <li>VERB-Fin--PRON-Ins-ADP(s) (6)</li>
+      <li>VERB-Fin--PRON-Loc-ADP(na) (1)</li>
+      <li>VERB-Fin--PRON-Loc-ADP(o) (14)</li>
+      <li>VERB-Inf--NOUN (5)</li>
+      <li>VERB-Inf--NOUN-Acc (1118)</li>
+      <li>VERB-Inf--NOUN-Acc-ADP(na) (39)</li>
+      <li>VERB-Inf--NOUN-Acc-ADP(o) (25)</li>
+      <li>VERB-Inf--NOUN-Acc-ADP(pro) (1)</li>
+      <li>VERB-Inf--NOUN-Acc-ADP(v) (3)</li>
+      <li>VERB-Inf--NOUN-Acc-ADP(za) (6)</li>
+      <li>VERB-Inf--NOUN-Dat (53)</li>
+      <li>VERB-Inf--NOUN-Dat-ADP(k) (21)</li>
+      <li>VERB-Inf--NOUN-Dat-ADP(proti) (3)</li>
+      <li>VERB-Inf--NOUN-Gen (73)</li>
+      <li>VERB-Inf--NOUN-Gen-ADP(bez) (1)</li>
+      <li>VERB-Inf--NOUN-Gen-ADP(do) (1)</li>
+      <li>VERB-Inf--NOUN-Gen-ADP(na) (5)</li>
+      <li>VERB-Inf--NOUN-Gen-ADP(o) (1)</li>
+      <li>VERB-Inf--NOUN-Gen-ADP(od) (3)</li>
+      <li>VERB-Inf--NOUN-Gen-ADP(okolo) (1)</li>
+      <li>VERB-Inf--NOUN-Gen-ADP(z) (6)</li>
+      <li>VERB-Inf--NOUN-Ins (21)</li>
+      <li>VERB-Inf--NOUN-Ins-ADP(před) (1)</li>
+      <li>VERB-Inf--NOUN-Ins-ADP(s) (36)</li>
+      <li>VERB-Inf--NOUN-Loc-ADP(na) (19)</li>
+      <li>VERB-Inf--NOUN-Loc-ADP(o) (26)</li>
+      <li>VERB-Inf--NOUN-Loc-ADP(po) (2)</li>
+      <li>VERB-Inf--NOUN-Loc-ADP(v) (9)</li>
+      <li>VERB-Inf--NOUN-Nom (2)</li>
+      <li>VERB-Inf--PRON-Acc (170)</li>
+      <li>VERB-Inf--PRON-Acc-ADP(na) (4)</li>
+      <li>VERB-Inf--PRON-Acc-ADP(o) (3)</li>
+      <li>VERB-Inf--PRON-Dat (36)</li>
+      <li>VERB-Inf--PRON-Dat-ADP(k) (1)</li>
+      <li>VERB-Inf--PRON-Gen (2)</li>
+      <li>VERB-Inf--PRON-Gen-ADP(bez) (1)</li>
+      <li>VERB-Inf--PRON-Gen-ADP(z) (2)</li>
+      <li>VERB-Inf--PRON-Ins (5)</li>
+      <li>VERB-Inf--PRON-Ins-ADP(s) (12)</li>
+      <li>VERB-Inf--PRON-Loc-ADP(v) (3)</li>
+      <li>VERB-Inf--PRON-Nom (1)</li>
+      <li>VERB-Part--NOUN (4)</li>
+      <li>VERB-Part--NOUN-ADP(za) (2)</li>
+      <li>VERB-Part--NOUN-Acc (1437)</li>
+      <li>VERB-Part--NOUN-Acc-ADP(na) (53)</li>
+      <li>VERB-Part--NOUN-Acc-ADP(o) (43)</li>
+      <li>VERB-Part--NOUN-Acc-ADP(pod) (1)</li>
+      <li>VERB-Part--NOUN-Acc-ADP(pro) (3)</li>
+      <li>VERB-Part--NOUN-Acc-ADP(v) (5)</li>
+      <li>VERB-Part--NOUN-Acc-ADP(za) (9)</li>
+      <li>VERB-Part--NOUN-Dat (75)</li>
+      <li>VERB-Part--NOUN-Dat-ADP(k) (60)</li>
+      <li>VERB-Part--NOUN-Dat-ADP(proti) (4)</li>
+      <li>VERB-Part--NOUN-Gen (134)</li>
+      <li>VERB-Part--NOUN-Gen-ADP(bez) (1)</li>
+      <li>VERB-Part--NOUN-Gen-ADP(do) (1)</li>
+      <li>VERB-Part--NOUN-Gen-ADP(kolem) (1)</li>
+      <li>VERB-Part--NOUN-Gen-ADP(na) (6)</li>
+      <li>VERB-Part--NOUN-Gen-ADP(na)-ADP(konec) (1)</li>
+      <li>VERB-Part--NOUN-Gen-ADP(o) (1)</li>
+      <li>VERB-Part--NOUN-Gen-ADP(od) (5)</li>
+      <li>VERB-Part--NOUN-Gen-ADP(okolo) (2)</li>
+      <li>VERB-Part--NOUN-Gen-ADP(přes) (1)</li>
+      <li>VERB-Part--NOUN-Gen-ADP(z) (14)</li>
+      <li>VERB-Part--NOUN-Gen-ADP(za) (1)</li>
+      <li>VERB-Part--NOUN-Ins (70)</li>
+      <li>VERB-Part--NOUN-Ins-ADP(mezi) (2)</li>
+      <li>VERB-Part--NOUN-Ins-ADP(nad) (4)</li>
+      <li>VERB-Part--NOUN-Ins-ADP(před) (1)</li>
+      <li>VERB-Part--NOUN-Ins-ADP(s) (25)</li>
+      <li>VERB-Part--NOUN-Ins-ADP(za) (1)</li>
+      <li>VERB-Part--NOUN-Loc-ADP(na) (19)</li>
+      <li>VERB-Part--NOUN-Loc-ADP(o) (37)</li>
+      <li>VERB-Part--NOUN-Loc-ADP(po) (3)</li>
+      <li>VERB-Part--NOUN-Loc-ADP(v) (4)</li>
+      <li>VERB-Part--PRON (1)</li>
+      <li>VERB-Part--PRON-Acc (239)</li>
+      <li>VERB-Part--PRON-Acc-ADP(na) (5)</li>
+      <li>VERB-Part--PRON-Acc-ADP(pro) (1)</li>
+      <li>VERB-Part--PRON-Acc-ADP(za) (1)</li>
+      <li>VERB-Part--PRON-Dat (60)</li>
+      <li>VERB-Part--PRON-Dat-ADP(k) (5)</li>
+      <li>VERB-Part--PRON-Dat-ADP(proti) (1)</li>
+      <li>VERB-Part--PRON-Gen (6)</li>
+      <li>VERB-Part--PRON-Gen-ADP(od) (1)</li>
+      <li>VERB-Part--PRON-Ins (3)</li>
+      <li>VERB-Part--PRON-Ins-ADP(s) (1)</li>
+      <li>VERB-Part--PRON-Loc-ADP(na) (2)</li>
+      <li>VERB-Part--PRON-Loc-ADP(o) (4)</li>
+    </ul>
+  </li>
+</ul>
+
+  </td>
+  <td width="50%" valign="top">
+<ul>
+  <li>obj
+    <ul>
+      <li>VERB-Fin--NOUN (3)</li>
+      <li>VERB-Fin--NOUN-Nom (173)</li>
+      <li>VERB-Fin--NOUN-Nom-ADP(för) (1)</li>
+      <li>VERB-Fin--PRON (15)</li>
+      <li>VERB-Fin--PRON-Acc (41)</li>
+      <li>VERB-Inf--NOUN-Nom (153)</li>
+      <li>VERB-Inf--PRON (14)</li>
+      <li>VERB-Inf--PRON-Acc (20)</li>
+      <li>VERB-Sup--NOUN (1)</li>
+      <li>VERB-Sup--NOUN-Nom (27)</li>
+      <li>VERB-Sup--PRON (2)</li>
+      <li>VERB-Sup--PRON-Acc (4)</li>
+    </ul>
+  </li>
+</ul>
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+<ul>
+  <li>iobj
+    <ul>
+      <li>VERB-Conv--PRON-Dat (1)</li>
+      <li>VERB-Fin--NOUN (1)</li>
+      <li>VERB-Fin--NOUN-Acc (16)</li>
+      <li>VERB-Fin--NOUN-Acc-ADP(na) (6)</li>
+      <li>VERB-Fin--NOUN-Acc-ADP(o) (5)</li>
+      <li>VERB-Fin--NOUN-Acc-ADP(pro) (2)</li>
+      <li>VERB-Fin--NOUN-Acc-ADP(v) (1)</li>
+      <li>VERB-Fin--NOUN-Acc-ADP(za) (32)</li>
+      <li>VERB-Fin--NOUN-Dat (53)</li>
+      <li>VERB-Fin--NOUN-Dat-ADP(k) (4)</li>
+      <li>VERB-Fin--NOUN-Dat-ADP(vůči) (1)</li>
+      <li>VERB-Fin--NOUN-Gen (5)</li>
+      <li>VERB-Fin--NOUN-Gen-ADP(do) (2)</li>
+      <li>VERB-Fin--NOUN-Gen-ADP(na) (2)</li>
+      <li>VERB-Fin--NOUN-Gen-ADP(od) (7)</li>
+      <li>VERB-Fin--NOUN-Gen-ADP(z) (7)</li>
+      <li>VERB-Fin--NOUN-Ins (8)</li>
+      <li>VERB-Fin--NOUN-Ins-ADP(před) (1)</li>
+      <li>VERB-Fin--NOUN-Ins-ADP(s) (7)</li>
+      <li>VERB-Fin--NOUN-Loc-ADP(na) (4)</li>
+      <li>VERB-Fin--NOUN-Loc-ADP(o) (14)</li>
+      <li>VERB-Fin--PRON-Acc (4)</li>
+      <li>VERB-Fin--PRON-Acc-ADP(na) (1)</li>
+      <li>VERB-Fin--PRON-Acc-ADP(za) (1)</li>
+      <li>VERB-Fin--PRON-Dat (68)</li>
+      <li>VERB-Fin--PRON-Gen-ADP(od) (1)</li>
+      <li>VERB-Fin--PRON-Ins-ADP(s) (1)</li>
+      <li>VERB-Fin--PRON-Loc-ADP(o) (4)</li>
+      <li>VERB-Inf--NOUN-Acc (6)</li>
+      <li>VERB-Inf--NOUN-Acc-ADP(na) (4)</li>
+      <li>VERB-Inf--NOUN-Acc-ADP(o) (2)</li>
+      <li>VERB-Inf--NOUN-Acc-ADP(v) (2)</li>
+      <li>VERB-Inf--NOUN-Acc-ADP(za) (5)</li>
+      <li>VERB-Inf--NOUN-Dat (55)</li>
+      <li>VERB-Inf--NOUN-Dat-ADP(k) (4)</li>
+      <li>VERB-Inf--NOUN-Gen (3)</li>
+      <li>VERB-Inf--NOUN-Gen-ADP(na) (1)</li>
+      <li>VERB-Inf--NOUN-Gen-ADP(o) (1)</li>
+      <li>VERB-Inf--NOUN-Gen-ADP(od) (8)</li>
+      <li>VERB-Inf--NOUN-Gen-ADP(z) (2)</li>
+      <li>VERB-Inf--NOUN-Ins (8)</li>
+      <li>VERB-Inf--NOUN-Ins-ADP(před) (4)</li>
+      <li>VERB-Inf--NOUN-Ins-ADP(s) (17)</li>
+      <li>VERB-Inf--NOUN-Loc-ADP(na) (1)</li>
+      <li>VERB-Inf--NOUN-Loc-ADP(o) (8)</li>
+      <li>VERB-Inf--NOUN-Loc-ADP(v) (1)</li>
+      <li>VERB-Inf--PRON-Acc (2)</li>
+      <li>VERB-Inf--PRON-Acc-ADP(na) (1)</li>
+      <li>VERB-Inf--PRON-Dat (51)</li>
+      <li>VERB-Inf--PRON-Gen-ADP(od) (1)</li>
+      <li>VERB-Inf--PRON-Ins-ADP(s) (1)</li>
+      <li>VERB-Inf--PRON-Loc-ADP(o) (1)</li>
+      <li>VERB-Inf--PRON-Loc-ADP(po) (1)</li>
+      <li>VERB-Part--NOUN-ADP(od) (1)</li>
+      <li>VERB-Part--NOUN-ADP(v) (1)</li>
+      <li>VERB-Part--NOUN-Acc (33)</li>
+      <li>VERB-Part--NOUN-Acc-ADP(na) (18)</li>
+      <li>VERB-Part--NOUN-Acc-ADP(o) (5)</li>
+      <li>VERB-Part--NOUN-Acc-ADP(v) (1)</li>
+      <li>VERB-Part--NOUN-Acc-ADP(za) (24)</li>
+      <li>VERB-Part--NOUN-Dat (90)</li>
+      <li>VERB-Part--NOUN-Dat-ADP(k) (7)</li>
+      <li>VERB-Part--NOUN-Gen (3)</li>
+      <li>VERB-Part--NOUN-Gen-ADP(na) (2)</li>
+      <li>VERB-Part--NOUN-Gen-ADP(o) (2)</li>
+      <li>VERB-Part--NOUN-Gen-ADP(od) (11)</li>
+      <li>VERB-Part--NOUN-Gen-ADP(z) (5)</li>
+      <li>VERB-Part--NOUN-Ins (8)</li>
+      <li>VERB-Part--NOUN-Ins-ADP(s) (15)</li>
+      <li>VERB-Part--NOUN-Loc-ADP(na) (1)</li>
+      <li>VERB-Part--NOUN-Loc-ADP(o) (7)</li>
+      <li>VERB-Part--NOUN-Loc-ADP(v) (2)</li>
+      <li>VERB-Part--NOUN-Nom (1)</li>
+      <li>VERB-Part--PRON-Acc (8)</li>
+      <li>VERB-Part--PRON-Acc-ADP(na) (1)</li>
+      <li>VERB-Part--PRON-Acc-ADP(za) (1)</li>
+      <li>VERB-Part--PRON-Dat (96)</li>
+      <li>VERB-Part--PRON-Dat-ADP(k) (1)</li>
+      <li>VERB-Part--PRON-Gen (1)</li>
+      <li>VERB-Part--PRON-Gen-ADP(od) (4)</li>
+      <li>VERB-Part--PRON-Ins-ADP(s) (3)</li>
+      <li>VERB-Part--PRON-Loc-ADP(o) (3)</li>
+      <li>VERB-Part--PRON-Loc-ADP(po) (1)</li>
+    </ul>
+  </li>
+</ul>
+
+  </td>
+  <td width="50%" valign="top">
+<ul>
+  <li>iobj
+    <ul>
+      <li>VERB-Fin--NOUN-Nom (4)</li>
+      <li>VERB-Fin--PRON-Acc (5)</li>
+      <li>VERB-Inf--NOUN-Nom (4)</li>
+      <li>VERB-Inf--PRON-Acc (6)</li>
+      <li>VERB-Sup--PRON-Acc (2)</li>
     </ul>
   </li>
 </ul>
