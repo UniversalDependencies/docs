@@ -94,7 +94,7 @@ There are three Swedish UD treebanks:
   * Swedish-PUD
   
 ---
-**Where do we link to for the treebanks?
+**Where do we link to for the treebanks?**
 
 ---
 
