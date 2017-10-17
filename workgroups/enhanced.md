@@ -23,6 +23,7 @@ We could go further by encouraging to add links to saturate the valency of verbs
 ### Other cases of control
 
 Control nouns or adjectives
+
 ~~~ sdparse
 Paul's desire to swim
 nsubj(swim, Paul)
@@ -69,7 +70,7 @@ Open question (see section on status of enhanced dependencies) is whether to kee
 
 ~~~ sdparse
 Those arriving early leave early
-nsubj(arriving, those)
+nsubj(arriving, Those)
 ~~~
 
 For intransitive past participles, the modified noun is its subject:
@@ -95,7 +96,7 @@ In particular an active infinitival or participial clause that modifies a matrix
 
 ~~~ sdparse
 They finished early in order to have time to play
-nsubj(have, they)
+nsubj(have, They)
 ~~~
 ~~~ sdparse
 she risked her life while saving other lives
@@ -118,7 +119,7 @@ These conditions of sale are considered to have been accepted
 <tbody><tr><td width="600">
 <div class="conllu-parse">
 1 Restitution  _ _ _ _ 2 det _ _
-2 money _ _ _ _ 4 nsubj:pass  _ _
+2 money _ _ _ _ 5 nsubj:pass  _ _
 3 should    _ _ _ _ 5 aux  _ _
 4 be   _ _ _ _ 5 aux:pass _ _
 5 paid     _ _ _ _ 0 root   _ _
@@ -134,7 +135,7 @@ These conditions of sale are considered to have been accepted
 # visual-style 5 2 nsubj:pass@obj color:blue
 # visual-style 5 10 obl@nsubj color:blue
 1 Restitution  _ _ _ _ 2 det _ _
-2 money _ _ _ _ 4 nsubj:pass@obj  _ _
+2 money _ _ _ _ 5 nsubj:pass@obj  _ _
 3 should    _ _ _ _ 5 aux  _ _
 4 be   _ _ _ _ 5 aux:pass _ _
 5 paid     _ _ _ _ 0 root   _ _
