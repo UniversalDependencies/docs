@@ -7,7 +7,7 @@ udver: '2'
 # Working Group on Enhanced Dependencies
 
 
-Proposals by marie candito, following (Candito, Perrier, Guillaume, Seddah, depling 2017) proposals.
+Proposals following (Candito, Perrier, Guillaume, Seddah, depling 2017).
 (Any comments / other proposals are welcome, I don't know if this is the path UD people want to take. How we can proceed to make decisions?)
 
 * [Additional cases of enhanced edges](#additional-cases-of-enhanced-edges)
@@ -74,6 +74,7 @@ nsubj(arriving, Those)
 ~~~
 
 For intransitive past participles, the modified noun is its subject:
+
 ~~~ sdparse
 The cases appeared in 2001 are now solved
 nsubj(appeared, cases)
@@ -89,10 +90,10 @@ obj(hired, persons)
 
 ### Verb-modifying infinitival and participial clauses
 
-Non deterministic cases (not fully determined by topology of syntaxtic tree)
+This is a non deterministic case (not fully determined by topology of syntaxtic tree).
 
 Manual annotation could be used to add subjects of infinitives anywhere in the sentence, for cases not fully determined by syntax.
-In particular an active infinitival or participial clause that modifies a matrix clause is very likely to have same subject as that of the matrix clause, if the matrix clause verb is active, with non-expletive subject.
+For instance an active infinitival or participial clause that modifies a matrix clause is very likely to have same subject as that of the matrix clause, if the matrix clause verb is active, with non-expletive subject.
 
 ~~~ sdparse
 They finished early in order to have time to play
