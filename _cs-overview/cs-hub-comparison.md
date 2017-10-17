@@ -7,17 +7,17 @@ udver: '2'
 
 <table>
 <tr>
-  <td valign="top">
+  <td width="50%" valign="top">
 <h1>UD_Czech.conllu</h1>
 
   </td>
-  <td valign="top">
+  <td width="50%" valign="top">
 <h1>UD_Swedish.conllu</h1>
 
   </td>
 </tr>
 <tr>
-  <td valign="top">
+  <td width="50%" valign="top">
 <h2>Tokenization and Word Segmentation</h2>
 
 <ul>
@@ -30,7 +30,7 @@ udver: '2'
 </ul>
 
   </td>
-  <td valign="top">
+  <td width="50%" valign="top">
 <h2>Tokenization and Word Segmentation</h2>
 
 <ul>
@@ -43,7 +43,7 @@ udver: '2'
   </td>
 </tr>
 <tr>
-  <td valign="top">
+  <td width="50%" valign="top">
 <h2>Morphology</h2>
 
 <ul>
@@ -80,7 +80,7 @@ udver: '2'
 </li>
 
   </td>
-  <td valign="top">
+  <td width="50%" valign="top">
 <h2>Morphology</h2>
 
 <ul>
@@ -124,7 +124,7 @@ udver: '2'
   </td>
 </tr>
 <tr>
-  <td valign="top">
+  <td width="50%" valign="top">
 <h3>Nominal Features</h3>
 
 <li>Gender
@@ -200,7 +200,7 @@ udver: '2'
 </li>
 
   </td>
-  <td valign="top">
+  <td width="50%" valign="top">
 <h3>Nominal Features</h3>
 
 <li>Gender
@@ -246,7 +246,7 @@ udver: '2'
   </td>
 </tr>
 <tr>
-  <td valign="top">
+  <td width="50%" valign="top">
 <li>Animacy
   <ul>
     <li>Anim
@@ -279,12 +279,12 @@ udver: '2'
 </li>
 
   </td>
-  <td valign="top">
+  <td width="50%" valign="top">
 
   </td>
 </tr>
 <tr>
-  <td valign="top">
+  <td width="50%" valign="top">
 <li>Number
   <ul>
     <li>Dual
@@ -342,7 +342,7 @@ udver: '2'
 </li>
 
   </td>
-  <td valign="top">
+  <td width="50%" valign="top">
 <li>Number
   <ul>
     <li>Plur
@@ -372,7 +372,7 @@ udver: '2'
   </td>
 </tr>
 <tr>
-  <td valign="top">
+  <td width="50%" valign="top">
 <li>Case
   <ul>
     <li>Acc
@@ -460,7 +460,7 @@ udver: '2'
 </li>
 
   </td>
-  <td valign="top">
+  <td width="50%" valign="top">
 <li>Case
   <ul>
     <li>Acc
@@ -494,7 +494,7 @@ udver: '2'
   </td>
 </tr>
 <tr>
-  <td valign="top">
+  <td width="50%" valign="top">
 <li>PrepCase
   <ul>
     <li>Npr
@@ -512,15 +512,15 @@ udver: '2'
 </li>
 
   </td>
-  <td valign="top">
+  <td width="50%" valign="top">
 
   </td>
 </tr>
 <tr>
-  <td valign="top">
+  <td width="50%" valign="top">
 
   </td>
-  <td valign="top">
+  <td width="50%" valign="top">
 <li>Definite
   <ul>
     <li>Def
@@ -549,7 +549,7 @@ udver: '2'
   </td>
 </tr>
 <tr>
-  <td valign="top">
+  <td width="50%" valign="top">
 <h3>Degree and Polarity</h3>
 
 <li>Degree
@@ -576,7 +576,7 @@ udver: '2'
 </li>
 
   </td>
-  <td valign="top">
+  <td width="50%" valign="top">
 <h3>Degree and Polarity</h3>
 
 <li>Degree
@@ -605,7 +605,7 @@ udver: '2'
   </td>
 </tr>
 <tr>
-  <td valign="top">
+  <td width="50%" valign="top">
 <li>Polarity
   <ul>
     <li>Neg
@@ -644,7 +644,7 @@ udver: '2'
 </li>
 
   </td>
-  <td valign="top">
+  <td width="50%" valign="top">
 <li>Polarity
   <ul>
     <li>Neg
@@ -660,7 +660,7 @@ udver: '2'
   </td>
 </tr>
 <tr>
-  <td valign="top">
+  <td width="50%" valign="top">
 <li>Variant
   <ul>
     <li>Short
@@ -674,12 +674,12 @@ udver: '2'
 </li>
 
   </td>
-  <td valign="top">
+  <td width="50%" valign="top">
 
   </td>
 </tr>
 <tr>
-  <td valign="top">
+  <td width="50%" valign="top">
 <h3>Verbal Features</h3>
 
 <li>Aspect
@@ -711,14 +711,14 @@ udver: '2'
 </li>
 
   </td>
-  <td valign="top">
+  <td width="50%" valign="top">
 <h3>Verbal Features</h3>
 
 
   </td>
 </tr>
 <tr>
-  <td valign="top">
+  <td width="50%" valign="top">
 <li>Mood
   <ul>
     <li>Cnd
@@ -743,7 +743,7 @@ udver: '2'
 </li>
 
   </td>
-  <td valign="top">
+  <td width="50%" valign="top">
 <li>Mood
   <ul>
     <li>Imp
@@ -770,7 +770,7 @@ udver: '2'
   </td>
 </tr>
 <tr>
-  <td valign="top">
+  <td width="50%" valign="top">
 <li>Tense
   <ul>
     <li>Fut
@@ -800,7 +800,7 @@ udver: '2'
 </li>
 
   </td>
-  <td valign="top">
+  <td width="50%" valign="top">
 <li>Tense
   <ul>
     <li>Past
@@ -824,7 +824,7 @@ udver: '2'
   </td>
 </tr>
 <tr>
-  <td valign="top">
+  <td width="50%" valign="top">
 <li>Voice
   <ul>
     <li>Act
@@ -847,7 +847,7 @@ udver: '2'
 </li>
 
   </td>
-  <td valign="top">
+  <td width="50%" valign="top">
 <li>Voice
   <ul>
     <li>Act
@@ -873,15 +873,15 @@ udver: '2'
   </td>
 </tr>
 <tr>
-  <td valign="top">
+  <td width="50%" valign="top">
 
   </td>
-  <td valign="top">
+  <td width="50%" valign="top">
 
   </td>
 </tr>
 <tr>
-  <td valign="top">
+  <td width="50%" valign="top">
 <h3>Pronouns, Determiners, Quantifiers</h3>
 
 <li>PronType
@@ -941,7 +941,7 @@ udver: '2'
 </li>
 
   </td>
-  <td valign="top">
+  <td width="50%" valign="top">
 <h3>Pronouns, Determiners, Quantifiers</h3>
 
 <li>PronType
@@ -1006,7 +1006,7 @@ udver: '2'
   </td>
 </tr>
 <tr>
-  <td valign="top">
+  <td width="50%" valign="top">
 <li>NumType
   <ul>
     <li>Card
@@ -1046,7 +1046,7 @@ udver: '2'
 </li>
 
   </td>
-  <td valign="top">
+  <td width="50%" valign="top">
 <li>NumType
   <ul>
     <li>Card
@@ -1060,7 +1060,7 @@ udver: '2'
   </td>
 </tr>
 <tr>
-  <td valign="top">
+  <td width="50%" valign="top">
 <li>Poss
   <ul>
     <li>Yes
@@ -1073,7 +1073,7 @@ udver: '2'
 </li>
 
   </td>
-  <td valign="top">
+  <td width="50%" valign="top">
 <li>Poss
   <ul>
     <li>Yes
@@ -1087,7 +1087,7 @@ udver: '2'
   </td>
 </tr>
 <tr>
-  <td valign="top">
+  <td width="50%" valign="top">
 <li>Reflex
   <ul>
     <li>Yes
@@ -1100,12 +1100,12 @@ udver: '2'
 </li>
 
   </td>
-  <td valign="top">
+  <td width="50%" valign="top">
 
   </td>
 </tr>
 <tr>
-  <td valign="top">
+  <td width="50%" valign="top">
 <li>Person
   <ul>
     <li>1
@@ -1137,20 +1137,20 @@ udver: '2'
 </li>
 
   </td>
-  <td valign="top">
+  <td width="50%" valign="top">
 
   </td>
 </tr>
 <tr>
-  <td valign="top">
+  <td width="50%" valign="top">
 
   </td>
-  <td valign="top">
+  <td width="50%" valign="top">
 
   </td>
 </tr>
 <tr>
-  <td valign="top">
+  <td width="50%" valign="top">
 <li>Gender[psor]
   <ul>
     <li>Fem
@@ -1173,12 +1173,12 @@ udver: '2'
 </li>
 
   </td>
-  <td valign="top">
+  <td width="50%" valign="top">
 
   </td>
 </tr>
 <tr>
-  <td valign="top">
+  <td width="50%" valign="top">
 <li>Number[psor]
   <ul>
     <li>Plur
@@ -1195,12 +1195,12 @@ udver: '2'
 </li>
 
   </td>
-  <td valign="top">
+  <td width="50%" valign="top">
 
   </td>
 </tr>
 <tr>
-  <td valign="top">
+  <td width="50%" valign="top">
 <h3>Other Features</h3>
 
 <li>Abbr
@@ -1586,7 +1586,7 @@ udver: '2'
 </li>
 
   </td>
-  <td valign="top">
+  <td width="50%" valign="top">
 <h3>Other Features</h3>
 
 <li>Abbr
@@ -1619,7 +1619,7 @@ udver: '2'
   </td>
 </tr>
 <tr>
-  <td valign="top">
+  <td width="50%" valign="top">
 <h2>Syntax</h2>
 
 <h3>Auxiliary Verbs and Copula</h3>
@@ -1631,7 +1631,7 @@ udver: '2'
 </ul>
 
   </td>
-  <td valign="top">
+  <td width="50%" valign="top">
 <h2>Syntax</h2>
 
 <h3>Auxiliary Verbs and Copula</h3>
@@ -1645,13 +1645,13 @@ udver: '2'
   </td>
 </tr>
 <tr>
-  <td valign="top">
+  <td width="50%" valign="top">
 <h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
 
 TBD
 
   </td>
-  <td valign="top">
+  <td width="50%" valign="top">
 <h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
 
 TBD
@@ -1659,7 +1659,7 @@ TBD
   </td>
 </tr>
 <tr>
-  <td valign="top">
+  <td width="50%" valign="top">
 <h3>Relations Overview</h3>
 
 <ul>
@@ -1669,7 +1669,7 @@ TBD
 </ul>
 
   </td>
-  <td valign="top">
+  <td width="50%" valign="top">
 <h3>Relations Overview</h3>
 
 <ul>
