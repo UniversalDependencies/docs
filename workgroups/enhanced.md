@@ -25,7 +25,7 @@ We could go further by encouraging to add links to saturate the valency of verbs
 Control nouns or adjectives
 
 ~~~ sdparse
-Paul's desire to swim
+Paul 's desire to swim
 nsubj(swim, Paul)
 ~~~
 ~~~ sdparse
@@ -111,40 +111,37 @@ We propose in such cases to recover the canonical grammatical functions. This ca
 
 The canonical functions are noted after '@' in the following graphs. Users would then be free to use labels with or without alternation neutralization (i.e. for a label fff@ccc use either ccc or fff).
 
-These conditions of sale are considered to have been accepted
+
+<!--These conditions of sale are considered to have been accepted-->
 
 
-<table id="passive-ex1"> <!--Restitution money should be paid to them by the offender .-->
+<table id="passive-ex1"> <!--Money should be paid to them by the offender-->
 <thead><tr><th>Basic</th><th>Enhanced-diat</th></tr></thead>
 <tbody><tr><td width="600">
 <div class="conllu-parse">
-1 Restitution  _ _ _ _ 2 det _ _
-2 money _ _ _ _ 5 nsubj:pass  _ _
-3 should    _ _ _ _ 5 aux  _ _
-4 be   _ _ _ _ 5 aux:pass _ _
-5 paid     _ _ _ _ 0 root   _ _
-6 to  _ _ _ _ 7 mark   _ _
-7 them     _ _ _ _ 5 obl _ _
-8 by     _ _ _ _ 10 mark _ _
-9 the     _ _ _ _ 10 det _ _
-10 offender     _ _ _ _ 5 obl _ _
-11 .     _ _ _ _ 5 punct _ _
+1 Money _ _ _ _ 4 nsubj:pass  _ _
+2 should    _ _ _ _ 4 aux  _ _
+3 be   _ _ _ _ 4 aux:pass _ _
+4 paid     _ _ _ _ 0 root   _ _
+5 to  _ _ _ _ 6 mark   _ _
+6 them     _ _ _ _ 4 obl _ _
+7 by     _ _ _ _ 9 mark _ _
+8 the     _ _ _ _ 9 det _ _
+9 offender     _ _ _ _ 4 obl _ _
 </div>
 </td><td width="600">
 <div class="conllu-parse">
-# visual-style 5 2 nsubj:pass@obj color:blue
-# visual-style 5 10 obl@nsubj color:blue
-1 Restitution  _ _ _ _ 2 det _ _
-2 money _ _ _ _ 5 nsubj:pass@obj  _ _
-3 should    _ _ _ _ 5 aux  _ _
-4 be   _ _ _ _ 5 aux:pass _ _
-5 paid     _ _ _ _ 0 root   _ _
-6 to  _ _ _ _ 7 mark   _ _
-7 them     _ _ _ _ 5 obl _ _
-8 by     _ _ _ _ 10 mark _ _
-9 the     _ _ _ _ 10 det _ _
-10 offender     _ _ _ _ 5 obl@nsubj _ _
-11 .     _ _ _ _ 5 punct _ _
+# visual-style 4 1 nsubj:pass@obj color:blue
+# visual-style 4 9 obl@nsubj color:blue
+1 Money _ _ _ _ 4 nsubj:pass@obj  _ _
+2 should    _ _ _ _ 4 aux  _ _
+3 be   _ _ _ _ 4 aux:pass _ _
+4 paid     _ _ _ _ 0 root   _ _
+5 to  _ _ _ _ 6 mark   _ _
+6 them     _ _ _ _ 4 obl _ _
+7 by     _ _ _ _ 9 mark _ _
+8 the     _ _ _ _ 9 det _ _
+9 offender     _ _ _ _ 4 obl@nsubj _ _
   </div>
 </td></tr></tbody>
 </table>
@@ -165,7 +162,7 @@ These conditions of sale are considered to have been accepted
 6 buses  _ _ _ _ 4 obj   _ _
 7 to     _ _ _ _ 9 mark _ _
 8 be     _ _ _ _ 9 aux:pass _ _
-9 used     _ _ _ _ 5 xcomp _ _
+9 used     _ _ _ _ 4 xcomp _ _
 10 .     _ _ _ _ 4 punct _ _
 </div>
 </td><td width="600">
@@ -179,7 +176,7 @@ These conditions of sale are considered to have been accepted
 6 buses  _ _ _ _ 9 nsubj:pass@obj   _ _
 7 to     _ _ _ _ 9 mark _ _
 8 be     _ _ _ _ 9 aux:pass _ _
-9 used     _ _ _ _ 5 xcomp _ _
+9 used     _ _ _ _ 4 xcomp _ _
 10 .     _ _ _ _ 4 punct _ _
 </div>
 </td></tr></tbody>
