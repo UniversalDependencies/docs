@@ -16,6 +16,7 @@ udver: '2'
 
 ---
 **Instruction**: Describe the general rules for delimiting words (for example, based on whitespace and punctuation) and exceptions to these rules. Specify whether words with spaces and/or multiword tokens occur. Include links to further language-specific documentation if available.
+
 ---
 
 ## Morphology
@@ -36,7 +37,9 @@ For more information, see the list of [Swedish POS tags](../pos/index.html).
 
 ---
 **Instruction**: Specify any unused tags. Explain what words are tagged as PART. Describe how the AUX-VERB and DET-PRON distinctions are drawn, and specify whether there are (de)verbal forms tagged as ADJ or NOUN. Include links to language-specific tag definitions if any.
+
 ---
+
 ### Features 
 
 For more information, see the list of [Swedish features](../feat/index.html).
