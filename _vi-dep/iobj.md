@@ -4,5 +4,12 @@ title: 'iobj'
 shortdef: 'indirect object'
 ---
 
-This document is a placeholder for the language-specific documentation
-for `iobj`.
+The indirect object of a VP is the noun phrase which is the object of the verb.
+
+<pre><code class="language-sdparse">Hắn tặng cô ấy hoa 。
+dobj(tặng, hoa)
+iobj(tặng, cô)
+nsubj(tặng, Hắn)
+det:pmod(cô, ấy)
+punct(tặng, 。)
+</code></pre>

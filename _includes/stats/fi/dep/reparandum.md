@@ -6,30 +6,33 @@
 
 This relation is universal.
 
-17 nodes (0%) are attached to their parents as `reparandum`.
+16 nodes (0%) are attached to their parents as `reparandum`.
 
-17 instances of `reparandum` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.82352941176471.
+16 instances of `reparandum` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.8125.
 
-The following 7 pairs of parts of speech are connected with `reparandum`: [fi-pos/NOUN]()-[fi-pos/X]() (9; 53% instances), [fi-pos/ADJ]()-[fi-pos/X]() (2; 12% instances), [fi-pos/PRON]()-[fi-pos/X]() (2; 12% instances), [fi-pos/DET]()-[fi-pos/X]() (1; 6% instances), [fi-pos/PROPN]()-[fi-pos/X]() (1; 6% instances), [fi-pos/SCONJ]()-[fi-pos/X]() (1; 6% instances), [fi-pos/VERB]()-[fi-pos/X]() (1; 6% instances).
+The following 7 pairs of parts of speech are connected with `reparandum`: [fi-pos/NOUN]()-[fi-pos/X]() (8; 50% instances), [fi-pos/ADJ]()-[fi-pos/X]() (2; 13% instances), [fi-pos/PRON]()-[fi-pos/X]() (2; 13% instances), [fi-pos/DET]()-[fi-pos/X]() (1; 6% instances), [fi-pos/PROPN]()-[fi-pos/X]() (1; 6% instances), [fi-pos/SCONJ]()-[fi-pos/X]() (1; 6% instances), [fi-pos/VERB]()-[fi-pos/X]() (1; 6% instances).
 
 
 ~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 2 reparandum	color:blue
-1	ja	ja	CONJ	Pcle,CC	_	4	cc	_	_
-2	o-	o-	X	Unknown	_	4	reparandum	_	Alt=4_reparandum|Missed-Rel=attr
-3	sulle	sinä	PRON	Pron,Pers,Sg2,All	Case=All|Number=Sing|Person=2|PronType=Prs|Style=Coll	4	nmod	_	_
-4	onnea	onni	NOUN	N,Sg,Par	Case=Par|Number=Sing	0	root	_	_
-5	kuule	kuule	PART	Pcle	_	4	advmod	_	_
-6	kun	kun	SCONJ	Pcle,CS	_	9	mark	_	_
-7	sä	sinä	PRON	Pron,Pers,Sg2,Nom	Case=Nom|Number=Sing|Person=2|PronType=Prs|Style=Coll	9	nsubj:cop	_	_
-8	olet	olla	VERB	V,Act,Ind,Pres,Sg2	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	9	cop	_	Missed-Rel=advl
-9	anoppi	anoppi	NOUN	N,Sg,Nom	Case=Nom|Number=Sing	4	dep	_	_
-10	.	.	PUNCT	Pun	_	9	punct	_	_
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 9 8 reparandum	color:blue
+1	Lohi	lohi	NOUN	N,Sg,Nom	Case=Nom|Number=Sing	4	nsubj:cop	_	_
+2	oli	olla	AUX	V,Act,Ind,Past,Sg3	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	4	cop	_	_
+3	niin	niin	PART	Pcle	_	4	advmod	_	_
+4	iso	iso	ADJ	A,Sg,Nom	Case=Nom|Number=Sing	0	root	_	_
+5	,	,	PUNCT	Pun	_	4	punct	_	_
+6	että	että	SCONJ	Pcle,CS	_	10	mark	_	_
+7	ei	ei	VERB	V,Neg,Act,Sg3	Number=Sing|Person=3|Polarity=Neg|VerbForm=Fin|Voice=Act	10	aux	_	_
+8	puuram	puuram	X	Unknown	_	9	reparandum	_	Alt=9_reparandum|Missed-Rel=attr
+9	puntar	puntari	NOUN	N,Sg,Nom	Case=Nom|Number=Sing|Style=Coll	10	nsubj	_	_
+10	ottan	ottaa	VERB	V,Act,PcpNut,Sg,Nom	Case=Nom|Number=Sing|PartForm=Past|Style=Coll|VerbForm=Part|Voice=Act	4	acl	_	_
+11	sit	se	PRON	Pron,Dem,Sg,Par	Case=Par|Number=Sing|PronType=Dem|Style=Coll	10	obj	_	_
+12	eteheh	eteen	ADV	Adv	Style=Coll	10	advmod	_	_
+13	.	.	PUNCT	Pun	_	12	punct	_	_
 
 ~~~
 
@@ -57,8 +60,8 @@ The following 7 pairs of parts of speech are connected with `reparandum`: [fi-po
 15	tää	tämä	DET	Pron,Dem,Sg,Nom	Case=Nom|Number=Sing|PronType=Dem|Style=Coll	17	det	_	_
 16	radikaali	radikaali	ADJ	A,Sg,Nom	Case=Nom|Number=Sing	17	amod	_	_
 17	feminismiliike	feminismiliike	NOUN	N,Sg,Nom	Case=Nom|Number=Sing	14	nsubj	_	_
-18	ja	ja	CONJ	Pcle,CC	_	14	cc	_	_
-19	se	se	PRON	Pron,Dem,Sg,Nom	Case=Nom|Number=Sing|PronType=Dem	21	dobj	_	_
+18	ja	ja	CCONJ	Pcle,CC	_	21	cc	_	_
+19	se	se	PRON	Pron,Dem,Sg,Nom	Case=Nom|Number=Sing|PronType=Dem	21	obj	_	_
 20	niinku	niinkuin	PART	Pcle	Style=Coll	21	advmod	_	_
 21	miellettiin	mieltää	VERB	V,Pass,Ind,Past	Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Pass	14	conj	_	_
 22	tämmösenä	tämmöinen	DET	A,Dem,Sg,Ess	Case=Ess|Number=Sing|PronType=Dem|Style=Coll	27	amod	_	Alt=DET
@@ -88,19 +91,19 @@ The following 7 pairs of parts of speech are connected with `reparandum`: [fi-po
 8	,	,	PUNCT	Pun	_	7	punct	_	_
 9	jolla	joka	PRON	Pron,Rel,Sg,Ade	Case=Ade|Number=Sing|PronType=Rel	15	nmod	_	_
 10	nyt	nyt	PART	Pcle	_	15	advmod	_	_
-11	oj	olla	VERB	V,Act,Ind,Pres,Sg3	Mood=Ind|Number=Sing|Person=3|Style=Coll|Tense=Pres|VerbForm=Fin|Voice=Act	15	cop	_	_
+11	oj	olla	AUX	V,Act,Ind,Pres,Sg3	Mood=Ind|Number=Sing|Person=3|Style=Coll|Tense=Pres|VerbForm=Fin|Voice=Act	15	cop	_	_
 12	jotkut	joku	DET	Pron,Qnt,Pl,Nom	Case=Nom|Number=Plur|PronType=Ind	14	det	_	_
 13	,	,	PUNCT	Pun	_	12	punct	_	_
 14	matematiikat	matematiikka	NOUN	N,Pl,Nom	Case=Nom|Number=Plur	15	nsubj:cop	_	_
 15	kympit	kymppi	NOUN	N,Pl,Nom	Case=Nom|Number=Plur	6	conj	_	_
-16	ja	ja	CONJ	Pcle,CC	_	14	cc	_	_
+16	ja	ja	CCONJ	Pcle,CC	_	17	cc	_	_
 17	fysiikat	fysiikka	NOUN	N,Pl,Nom	Case=Nom|Number=Plur	14	conj	_	_
 18	että	että	SCONJ	Pcle,CS	_	25	mark	_	_
 19	,	,	PUNCT	Pun	_	18	punct	_	_
 20	mi-	mi-	X	Unknown	_	22	reparandum	_	Alt=22_reparandum|Missed-Rel=attr
 21	,	,	PUNCT	Pun	_	20	punct	_	_
 22	millä	mikä	PRON	Pron,Rel,Ade	Case=Ade|PronType=Rel	25	nmod	_	_
-23	on	olla	VERB	V,Act,Ind,Pres,Sg3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	25	cop	_	_
+23	on	olla	AUX	V,Act,Ind,Pres,Sg3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	25	cop	_	_
 24	iha	ihan	PART	Pcle	Style=Coll	25	advmod	_	_
 25	selvää	selvä	ADJ	A,Sg,Par	Case=Par|Number=Sing	6	conj	_	_
 26	että	että	SCONJ	Pcle,CS	_	30	mark	_	_
@@ -121,11 +124,11 @@ The following 7 pairs of parts of speech are connected with `reparandum`: [fi-po
 41	menee	mennä	VERB	V,Act,Ind,Pres,Sg3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 42	sittes	sitten	ADV	Adv	Style=Coll	41	advmod	_	_
 43	sitä	se	DET	Pron,Dem,Sg,Par	Case=Par|Number=Sing|PronType=Dem	44	det	_	_
-44	matikkaasal	matikka	NOUN	N,Sg,Par,Px3	Case=Par|Number=Sing|Person[psor]=3|Style=Coll	45	dobj	_	_
+44	matikkaasal	matikka	NOUN	N,Sg,Par,Px3	Case=Par|Number=Sing|Person[psor]=3|Style=Coll	45	obj	_	_
 45	lukemaan	lukea	VERB	V,Act,InfMa,Ill	Case=Ill|InfForm=3|VerbForm=Inf|Voice=Act	41	xcomp	_	Alt=xcomp
-46	taikka	taikka	CONJ	Pcle,CC	_	44	cc	_	_
+46	taikka	taikka	CCONJ	Pcle,CC	_	47	cc	_	_
 47	fysiikkaasam	fysiikka	NOUN	N,Sg,Par,Px3	Case=Par|Number=Sing|Person[psor]=3|Style=Coll	44	conj	_	_
-48	mutta	mutta	CONJ	Pcle,CC	_	36	cc	_	_
+48	mutta	mutta	CCONJ	Pcle,CC	_	52	cc	_	_
 49	,	,	PUNCT	Pun	_	48	punct	_	_
 50	semmoset	semmoinen	DET	A,Dem,Pl,Nom	Case=Nom|Number=Plur|PronType=Dem|Style=Coll	51	amod	_	Alt=DET
 51	tavalliset	tavallinen	ADJ	A,Pl,Nom	Case=Nom|Number=Plur	52	amod	_	_
@@ -139,12 +142,12 @@ The following 7 pairs of parts of speech are connected with `reparandum`: [fi-po
 59	mitkä	mikä	PRON	Pron,Interr,Pl,Nom	Case=Nom|Number=Plur|PronType=Int	60	nsubj	_	_
 60	yrittää	yrittää	VERB	V,Act,Ind,Pres,Sg3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	56	conj	_	_
 61	jotain	jokin	DET	Pron,Qnt,Sg,Par	Case=Par|Number=Sing|PronType=Ind	62	det	_	_
-62	keskiarvoo	keskiarvo	NOUN	N,Sg,Par	Case=Par|Number=Sing|Style=Coll	63	dobj	_	_
+62	keskiarvoo	keskiarvo	NOUN	N,Sg,Par	Case=Par|Number=Sing|Style=Coll	63	obj	_	_
 63	saahak	saada	VERB	V,Act,InfA,Lat	Case=Lat|InfForm=1|Style=Coll|VerbForm=Inf|Voice=Act	60	xcomp	_	Alt=60_xcomp
 64	kovastis	kovasti	ADV	Adv	Style=Coll	60	advmod	_	_
 65	seittemääm	seitsemän	NUM	Num,Card,Sg,Ill	Case=Ill|Number=Sing|NumType=Card|Style=Coll	66	nummod	_	_
 66	puoleej	puoli	NUM	Num,Card,Sg,Ill	Case=Ill|Number=Sing|NumType=Card|Style=Coll	63	nmod	_	_
-67	ja	ja	CONJ	Pcle,CC	_	56	cc	_	_
+67	ja	ja	CCONJ	Pcle,CC	_	56	cc	_	_
 68	.	.	PUNCT	Pun	_	67	punct	_	_
 
 ~~~

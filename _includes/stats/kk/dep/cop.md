@@ -6,26 +6,30 @@
 
 This relation is universal.
 
-231 nodes (4%) are attached to their parents as `cop`.
+23 nodes (4%) are attached to their parents as `cop`.
 
-231 instances of `cop` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.02597402597403.
+23 instances of `cop` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.17391304347826.
 
-The following 13 pairs of parts of speech are connected with `cop`: [kk-pos/ADJ]()-[kk-pos/AUX]() (78; 34% instances), [kk-pos/NOUN]()-[kk-pos/AUX]() (59; 26% instances), [kk-pos/NOUN]()-[kk-pos/VERB]() (34; 15% instances), [kk-pos/PRON]()-[kk-pos/AUX]() (16; 7% instances), [kk-pos/ADJ]()-[kk-pos/VERB]() (14; 6% instances), [kk-pos/ADV]()-[kk-pos/AUX]() (10; 4% instances), [kk-pos/VERB]()-[kk-pos/AUX]() (5; 2% instances), [kk-pos/PRON]()-[kk-pos/VERB]() (4; 2% instances), [kk-pos/PROPN]()-[kk-pos/AUX]() (3; 1% instances), [kk-pos/VERB]()-[kk-pos/VERB]() (3; 1% instances), [kk-pos/NUM]()-[kk-pos/AUX]() (2; 1% instances), [kk-pos/NUM]()-[kk-pos/VERB]() (2; 1% instances), [kk-pos/PROPN]()-[kk-pos/VERB]() (1; 0% instances).
+The following 4 pairs of parts of speech are connected with `cop`: [kk-pos/NOUN]()-[kk-pos/AUX]() (10; 43% instances), [kk-pos/VERB]()-[kk-pos/AUX]() (8; 35% instances), [kk-pos/ADJ]()-[kk-pos/AUX]() (4; 17% instances), [kk-pos/PRON]()-[kk-pos/AUX]() (1; 4% instances).
 
 
 ~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 5 cop	color:blue
-1	Жер	жер	NOUN	n	_	2	nmod:poss	_	nom
-2	беті	бет	NOUN	n	_	3	nmod:poss	_	px3sp|nom
-3	суы	су	NOUN	n	_	4	nsubj	_	px3sp|nom
-4	_	аз	ADJ	adj	_	0	root	_	_
-5	_	е	AUX	cop	_	4	cop	_	aor|p3|sg
-6	.	.	PUNCT	sent	_	4	punct	_	_
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 8 9 cop	color:blue
+1	Бірақ	бірақ	CCONJ	cnjcoo	_	4	cc	_	_
+2	тілек	тілек	NOUN	n	Case=Nom	4	nsubj	_	_
+3	іске	іске	X	x	_	4	dep	_	_
+4	аспай	ас	VERB	v	Aspect=Perf|Polarity=Neg|VerbForm=Conv	8	advcl	_	SpaceAfter=No
+5	,	,	PUNCT	cm	_	4	punct	_	_
+6	аяғы	аяқ	NOUN	n	Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3	7	nsubj	_	_
+7	жоқ	жоқ	ADJ	adj	_	8	acl:relcl	_	_
+8	жыр	жыр	NOUN	n	Case=Nom	0	root	_	_
+9	болды	бол	AUX	v	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	8	cop	_	SpaceAfter=No
+10	.	.	PUNCT	sent	_	8	punct	_	_
 
 ~~~
 
@@ -36,29 +40,41 @@ The following 13 pairs of parts of speech are connected with `cop`: [kk-pos/ADJ]
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 5 cop	color:blue
-1	Иран	Иран	PROPN	np	_	4	nsubj	_	top|nom
-2	—	—	PUNCT	guio	_	1	punct	_	_
-3	діни	діни	ADJ	adj	_	4	amod	_	_
-4	_	мемлекет	NOUN	n	_	0	root	_	nom
-5	_	е	AUX	cop	_	4	cop	_	aor|p3|sg
-6	.	.	PUNCT	sent	_	4	punct	_	_
+1	Шешуі	шеш	VERB	v	Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3|VerbForm=Ger	3	xcomp	_	_
+2	деп	деп	X	x	_	3	dep	_	_
+3	атауға	ата	VERB	v	Case=Dat|VerbForm=Ger	4	ccomp	_	_
+4	болатын	бол	VERB	v	Aspect=Imp|VerbForm=Part	10	advcl	_	_
+5	болса	бол	AUX	v	Mood=Cnd|Number=Sing|Person=3|VerbForm=Conv	4	cop	_	SpaceAfter=No
+6	,	,	PUNCT	cm	_	5	punct	_	_
+7	адамның	адам	NOUN	n	Case=Gen	8	nmod:poss	_	_
+8	шешуі	шеш	VERB	v	Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3|VerbForm=Ger	10	nsubj	_	_
+9	жалғыз	жалғыз	ADJ	adj	_	10	amod	_	_
+10	өлім	өлім	NOUN	n	Case=Nom	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	sent	_	10	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 4 cop	color:blue
-1	Ауылда	ауыл	NOUN	n	_	6	nmod	_	loc
-2	клуб	клуб	NOUN	n	_	3	nmod:poss	_	nom
-3	директоры	директор	NOUN	n	_	6	advcl	_	px3sp|nom
-4	болып	бол	VERB	v	_	3	cop	_	iv|gna_perf
-5	қызмет	қызмет	NOUN	n	_	6	dobj	_	nom
-6	атқарды	атқар	VERB	v	_	0	root	_	tv|ifi|p3|sg
-7	.	.	PUNCT	sent	_	6	punct	_	_
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 7 cop	color:blue
+1	Бес	бес	NUM	num	NumType=Card	2	nummod	_	_
+2	жылдың	жыл	NOUN	n	Case=Gen	3	nmod:poss	_	_
+3	ішінде	іш	NOUN	n	Case=Loc|Number[psor]=Plur,Sing|Person[psor]=3	6	obl	_	_
+4	үш	үш	NUM	num	NumType=Card	5	nummod	_	_
+5	баласы	бала	NOUN	n	Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3	6	nsubj	_	_
+6	бар	бар	ADJ	adj	_	0	root	_	_
+7	еді	е	AUX	cop	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	cop	_	SpaceAfter=No
+8	:	:	PUNCT	sent	_	6	punct	_	_
+9	екеуі	екеу	NUM	num	Case=Nom|Number[psor]=Plur,Sing|NumType=Coll|Person[psor]=3	10	nsubj	_	_
+10	ұл	ұл	NOUN	n	Case=Nom	6	parataxis	_	SpaceAfter=No
+11	,	,	PUNCT	cm	_	10	punct	_	_
+12	біреуі	біреу	NUM	num	Case=Nom|Number[psor]=Plur,Sing|NumType=Coll|Person[psor]=3	13	nsubj	_	_
+13	қыз	қыз	NOUN	n	Case=Nom	6	parataxis	_	SpaceAfter=No
+14	.	.	PUNCT	sent	_	13	punct	_	_
 
 ~~~
 

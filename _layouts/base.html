@@ -11,7 +11,21 @@
     <link rel="stylesheet" type="text/css" href="{{ relative }}css/style-vis.css"/>
     <link rel="stylesheet" type="text/css" href="{{ relative }}css/hint.css"/>
     <script type="text/javascript" src="{{ relative }}lib/ext/head.load.min.js"></script>
-    <script type="text/javascript" src="{{ relative }}lib/ext/jquery.timeago.js.js"></script>
+    <script type="text/javascript" src="{{ relative }}lib/ext/jquery.timeago.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/3.2.2/anchor.min.js"></script>
+    <script>document.addEventListener("DOMContentLoaded", function(event) {anchors.add();});</script>
+    <!-- Set up this custom Google search at https://cse.google.com/cse/business/settings?cx=001145188882102106025:dl1mehhcgbo -->
+    <script>
+      (function() {
+        var cx = '001145188882102106025:dl1mehhcgbo';
+        var gcse = document.createElement('script');
+        gcse.type = 'text/javascript';
+        gcse.async = true;
+        gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
+        var s = document.getElementsByTagName('script')[0];
+        s.parentNode.insertBefore(gcse, s);
+      })();
+    </script>
 <!--     <link rel="shortcut icon" href="favicon.ico"/> -->
 
 
@@ -20,11 +34,14 @@
     <div id="main" class="center">
 
       <div id="hp-header">
-	
+        <table width="100%"><tr><td width="50%">
           <span class="header-text"><a href="{{ site.home }}{% if language %}#language-{{ language }}{% endif %}">home</a></span>
 {% if page.collection and category != 'overview' %}          <span class="header-text"><a href="{{ site.home }}{{ language }}/{{ category }}">{{ language }}/{{ category }}</a></span>{% endif %}
 {% if page.generated != 'true' %}          <span class="header-text"><a href="{{ site.git_edit }}/{% if page.collection %}{{ page.relative_path }}{% else %}{{ page.path }}{% endif %}" target="#">edit page</a></span>{% endif %}
           <span class="header-text"><a href="{{ site.tracker }}">issue tracker</a></span>
+        </td><td>
+          <gcse:search></gcse:search>
+        </td></tr></table>
       </div>
 
       <hr/>

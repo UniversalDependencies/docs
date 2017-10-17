@@ -262,9 +262,9 @@ will be completely implemented in future versions of the parser.
 `edu.stanford.nlp.trees.UniversalEnglishGrammaticalRelations.DISCOURSE_ELEMENT`
 
 
-### `dobj`: `dobj`
+### `obj`: `obj`
 
-`dobj` relations in SD are still annotated as [`dobj`](en-dep/dobj) in UD.
+`obj` relations in SD are still annotated as [`obj`](en-dep/dobj) in UD.
 
 #### GrammaticalRelation object:
 `edu.stanford.nlp.trees.UniversalEnglishGrammaticalRelations.DIRECT_OBJECT`
@@ -306,12 +306,12 @@ of the pleonastic _it_ differently.
 `edu.stanford.nlp.trees.UniversalEnglishGrammaticalRelations.MARKER`
 
 
-### <b>`mwe`: `mwe`</b>
+### <b>`fixed`: `fixed`</b>
 
-`mwe` relations in SD are still annotated as [`mwe`](en-dep/mwe) in UD.
+`fixed` relations in SD are still annotated as [`fixed`](en-dep/mwe) in UD.
 
 However, the list of expressions which are considered multi-word expressions has changed. See the 
-description of the [`mwe` relation](en-dep/mwe) for the list of multi-word expressions.
+description of the [`fixed` relation](en-dep/mwe) for the list of multi-word expressions.
 
 #### GrammaticalRelation object:
 `edu.stanford.nlp.trees.UniversalEnglishGrammaticalRelations.MULTI_WORD_EXPRESSION`
@@ -536,7 +536,7 @@ The UD represenation also introduces the following new relations which did not e
 * [`dislocated`](en-dep/dislocated)
 * [`foreign`](en-dep/foreign)
 * [`list`](en-dep/list)
-* [`remnant`](en-dep/remnant)
+* [`orphan`](en-dep/remnant)
 * [`vocative`](en-dep/vocative)
 
 ## _Enhanced_ Universal Depencies

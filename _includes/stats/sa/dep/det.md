@@ -20,7 +20,7 @@ The following 6 pairs of parts of speech are connected with `det`: [sa-pos/NOUN]
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 4 det	color:blue
-1	किम्	क	PRON	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Int	3	nmod	_	Translit=kim|LTranslit=ka
+1	किम्	क	PRON	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Int	3	obl	_	Translit=kim|LTranslit=ka
 2	अहम्	अहम्	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	Translit=aham|LTranslit=aham
 3	जानामि	ज्ञा	VERB	_	Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	7	advcl	_	Translit=jānāmi|LTranslit=jñā_1|LId=ज्ञा-१
 4	त्वयि	त्वद्	DET	_	Case=Loc|Number=Sing|Person=2|PronType=Prs	5	det	_	Translit=tvayi|LTranslit=tvad
@@ -50,15 +50,18 @@ The following 6 pairs of parts of speech are connected with `det`: [sa-pos/NOUN]
 
 
 ~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
-# visual-style 3 2 det	color:blue
-1	कथम्	कथम्	ADV	_	_	4	advmod	_	Translit=katham|LTranslit=katham
-2	एतत्	एतद्	PRON	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	3	det	_	Translit=etat|LTranslit=etad
-3	दमनकः	दमनक	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	Translit=damanakaḥ|LTranslit=damanaka
-4	कथयति	कथ्	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Translit=kathayati|LTranslit=kath
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 3 det	color:blue
+1	अधीते	अधी	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Translit=adhīte|LTranslit=adhī
+2	य	यद्	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	6	nsubj	_	Translit=ya|LTranslit=yad
+3	इदम्	इदम्	DET	_	Case=Acc|Gender=Masc|Number=Sing|PronType=Dem	5	det	_	Translit=idam|LTranslit=idam
+4	नित्यम्	नित्य	ADV	_	Case=Nom	6	advmod	_	Translit=nityam|LTranslit=nitya
+5	नीतिशस्त्रम्	नीतिशस्त्र	PROPN	_	Case=Acc|Gender=Neut|Number=Sing	6	obj	_	Translit=nītiśastram|LTranslit=nītiśastra
+6	शृणोति	श्रु	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	conj	_	Translit=śr̥ṇoti|LTranslit=śru
+7	च	च	CCONJ	_	_	6	cc	_	Translit=ca|LTranslit=ca
 
 ~~~
 

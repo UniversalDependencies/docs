@@ -25,7 +25,7 @@ The 10 most frequent ambiguous types:  ஆறு ([PART]() 7, [NUM]() 1), ஒர
 
 ## Morphology
 
-The form / lemma ratio of `NUM` is 1.079646 (the average of all parts of speech is 1.557992).
+The form / lemma ratio of `NUM` is 1.079646 (the average of all parts of speech is 1.558463).
 
 The 1st highest number of forms (5) was observed with the lemma “ஒன்று”: ஒன்றில், ஒன்று, ஒன்றுக்கு, ஒன்றை, ஒன்ற்.
 
@@ -33,9 +33,9 @@ The 2nd highest number of forms (3) was observed with the lemma “ஆயிர�
 
 The 3rd highest number of forms (2) was observed with the lemma “இரண்டு”: இரண்டு, இரண்ட்.
 
-`NUM` occurs with 8 features: [ta-feat/NumForm]() (149; 59% instances), [ta-feat/NumType]() (103; 41% instances), [ta-feat/Case]() (16; 6% instances), [ta-feat/Gender]() (16; 6% instances), [ta-feat/Number]() (16; 6% instances), [ta-feat/Person]() (16; 6% instances), [ta-feat/Negative]() (14; 6% instances), [ta-feat/Polite]() (1; 0% instances)
+`NUM` occurs with 8 features: [ta-feat/NumForm]() (149; 59% instances), [ta-feat/NumType]() (103; 41% instances), [ta-feat/Case]() (16; 6% instances), [ta-feat/Gender]() (16; 6% instances), [ta-feat/Number]() (16; 6% instances), [ta-feat/Person]() (16; 6% instances), [ta-feat/Polarity]() (14; 6% instances), [ta-feat/Polite]() (1; 0% instances)
 
-`NUM` occurs with 12 feature-value pairs: `Case=Acc`, `Case=Dat`, `Case=Loc`, `Case=Nom`, `Gender=Com`, `Gender=Neut`, `Negative=Pos`, `NumForm=Digit`, `NumType=Card`, `Number=Sing`, `Person=3`, `Polite=Pol`
+`NUM` occurs with 12 feature-value pairs: `Case=Acc`, `Case=Dat`, `Case=Loc`, `Case=Nom`, `Gender=Com`, `Gender=Neut`, `NumForm=Digit`, `NumType=Card`, `Number=Sing`, `Person=3`, `Polarity=Pos`, `Polite=Form`
 
 `NUM` occurs with 9 feature combinations.
 The most frequent feature combination is `NumForm=Digit` (140 tokens).
@@ -44,21 +44,21 @@ Examples: 2, 10, 20, 3, 80, 16, 4, 5, 50, 6
 
 ## Relations
 
-`NUM` nodes are attached to their parents using 8 different relations: [ta-dep/nummod]() (218; 87% instances), [ta-dep/advmod]() (12; 5% instances), [ta-dep/dobj]() (7; 3% instances), [ta-dep/nsubj]() (6; 2% instances), [ta-dep/conj]() (4; 2% instances), [ta-dep/compound]() (2; 1% instances), [ta-dep/iobj]() (2; 1% instances), [ta-dep/root]() (1; 0% instances)
+`NUM` nodes are attached to their parents using 8 different relations: [ta-dep/nummod]() (218; 87% instances), [ta-dep/obl]() (12; 5% instances), [ta-dep/obj]() (7; 3% instances), [ta-dep/nsubj]() (6; 2% instances), [ta-dep/conj]() (4; 2% instances), [ta-dep/compound]() (2; 1% instances), [ta-dep/iobj]() (2; 1% instances), [ta-dep/root]() (1; 0% instances)
 
 Parents of `NUM` nodes belong to 8 different parts of speech: [NOUN]() (163; 65% instances), [NUM]() (36; 14% instances), [VERB]() (19; 8% instances), [PROPN]() (13; 5% instances), [ADJ]() (12; 5% instances), [ADV]() (4; 2% instances), [PART]() (4; 2% instances), [ROOT]() (1; 0% instances)
 
-199 (79%) `NUM` nodes are leaves.
+197 (78%) `NUM` nodes are leaves.
 
-32 (13%) `NUM` nodes have one child.
+35 (14%) `NUM` nodes have one child.
 
-11 (4%) `NUM` nodes have two children.
+10 (4%) `NUM` nodes have two children.
 
 10 (4%) `NUM` nodes have three or more children.
 
-The highest child degree of a `NUM` node is 8.
+The highest child degree of a `NUM` node is 4.
 
-Children of `NUM` nodes are attached using 11 different relations: [ta-dep/nummod]() (30; 34% instances), [ta-dep/nmod]() (18; 20% instances), [ta-dep/punct]() (16; 18% instances), [ta-dep/advmod:emph]() (5; 6% instances), [ta-dep/amod]() (5; 6% instances), [ta-dep/case]() (5; 6% instances), [ta-dep/conj]() (5; 6% instances), [ta-dep/compound]() (2; 2% instances), [ta-dep/acl]() (1; 1% instances), [ta-dep/advmod]() (1; 1% instances), [ta-dep/cc]() (1; 1% instances)
+Children of `NUM` nodes are attached using 12 different relations: [ta-dep/nummod]() (30; 34% instances), [ta-dep/punct]() (16; 18% instances), [ta-dep/nmod]() (15; 17% instances), [ta-dep/advmod:emph]() (5; 6% instances), [ta-dep/amod]() (5; 6% instances), [ta-dep/case]() (5; 6% instances), [ta-dep/conj]() (5; 6% instances), [ta-dep/compound]() (2; 2% instances), [ta-dep/det]() (2; 2% instances), [ta-dep/acl]() (1; 1% instances), [ta-dep/advmod]() (1; 1% instances), [ta-dep/obl]() (1; 1% instances)
 
-Children of `NUM` nodes belong to 11 different parts of speech: [NUM]() (36; 40% instances), [PUNCT]() (16; 18% instances), [NOUN]() (11; 12% instances), [ADJ]() (6; 7% instances), [PART]() (6; 7% instances), [ADP]() (4; 4% instances), [PRON]() (3; 3% instances), [PROPN]() (3; 3% instances), [VERB]() (2; 2% instances), [ADV]() (1; 1% instances), [CONJ]() (1; 1% instances)
+Children of `NUM` nodes belong to 11 different parts of speech: [NUM]() (36; 41% instances), [PUNCT]() (16; 18% instances), [NOUN]() (11; 13% instances), [ADJ]() (6; 7% instances), [PART]() (6; 7% instances), [ADP]() (4; 5% instances), [PROPN]() (3; 3% instances), [DET]() (2; 2% instances), [VERB]() (2; 2% instances), [ADV]() (1; 1% instances), [PRON]() (1; 1% instances)
 

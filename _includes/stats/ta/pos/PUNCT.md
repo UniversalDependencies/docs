@@ -19,7 +19,7 @@ The 10 most frequent ambiguous types:
 
 ## Morphology
 
-The form / lemma ratio of `PUNCT` is 1.000000 (the average of all parts of speech is 1.557992).
+The form / lemma ratio of `PUNCT` is 1.000000 (the average of all parts of speech is 1.558463).
 
 The 1st highest number of forms (1) was observed with the lemma “"”: ".
 
@@ -40,7 +40,7 @@ Examples: .
 
 `PUNCT` nodes are attached to their parents using 1 different relations: [ta-dep/punct]() (1000; 100% instances)
 
-Parents of `PUNCT` nodes belong to 8 different parts of speech: [VERB]() (712; 71% instances), [NOUN]() (147; 15% instances), [PROPN]() (86; 9% instances), [AUX]() (18; 2% instances), [NUM]() (16; 2% instances), [ADJ]() (8; 1% instances), [PART]() (7; 1% instances), [PRON]() (6; 1% instances)
+Parents of `PUNCT` nodes belong to 8 different parts of speech: [VERB]() (711; 71% instances), [NOUN]() (157; 16% instances), [PROPN]() (77; 8% instances), [AUX]() (18; 2% instances), [NUM]() (16; 2% instances), [PART]() (8; 1% instances), [ADJ]() (7; 1% instances), [PRON]() (6; 1% instances)
 
 1000 (100%) `PUNCT` nodes are leaves.
 

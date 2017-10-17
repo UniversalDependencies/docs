@@ -4,7 +4,7 @@ title: 'dobj:cau'
 shortdef: 'direct object of an intransitive causative verb'
 ---
 
-This is a subtype of [dobj]().
+This is a subtype of [obj]().
 We mark direct objects of causative [voice](tr-dep/Voice) intransitive verbs with this subtype,
 since the interpretation is different in comparison to a direct object of a non-causative verb.
 In general, if the verb is intransitive, direct object indicates the "causee",

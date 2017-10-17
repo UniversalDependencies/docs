@@ -7,34 +7,12 @@
 This relation is universal.
 There are 3 language-specific subtypes of `nmod`: [nmod:npmod](), [nmod:poss](), [nmod:tmod]().
 
-19035 nodes (8%) are attached to their parents as `nmod`.
+7727 nodes (3%) are attached to their parents as `nmod`.
 
-17837 instances of `nmod` (94%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.16837404780667.
+7634 instances of `nmod` (99%) are left-to-right (parent precedes child).
+Average distance between parent and child is 3.48220525430309.
 
-The following 99 pairs of parts of speech are connected with `nmod`: [en-pos/VERB]()-[en-pos/NOUN]() (6212; 33% instances), [en-pos/NOUN]()-[en-pos/NOUN]() (4860; 26% instances), [en-pos/VERB]()-[en-pos/PROPN]() (1508; 8% instances), [en-pos/NOUN]()-[en-pos/PROPN]() (1491; 8% instances), [en-pos/ADJ]()-[en-pos/NOUN]() (811; 4% instances), [en-pos/VERB]()-[en-pos/PRON]() (775; 4% instances), [en-pos/PROPN]()-[en-pos/PROPN]() (358; 2% instances), [en-pos/NOUN]()-[en-pos/PRON]() (252; 1% instances), [en-pos/VERB]()-[en-pos/ADP]() (221; 1% instances), [en-pos/ADV]()-[en-pos/NOUN]() (199; 1% instances), [en-pos/VERB]()-[en-pos/NUM]() (189; 1% instances), [en-pos/ADJ]()-[en-pos/PRON]() (173; 1% instances), [en-pos/DET]()-[en-pos/NOUN]() (144; 1% instances), [en-pos/NUM]()-[en-pos/NOUN]() (137; 1% instances), [en-pos/NUM]()-[en-pos/NUM]() (124; 1% instances), [en-pos/ADJ]()-[en-pos/PROPN]() (120; 1% instances), [en-pos/PROPN]()-[en-pos/NOUN]() (113; 1% instances), [en-pos/PRON]()-[en-pos/NOUN]() (112; 1% instances), [en-pos/VERB]()-[en-pos/ADJ]() (106; 1% instances), [en-pos/NOUN]()-[en-pos/NUM]() (102; 1% instances), [en-pos/VERB]()-[en-pos/ADV]() (75; 0% instances), [en-pos/ADV]()-[en-pos/PROPN]() (70; 0% instances), [en-pos/NOUN]()-[en-pos/ADJ]() (54; 0% instances), [en-pos/NOUN]()-[en-pos/ADV]() (50; 0% instances), [en-pos/PROPN]()-[en-pos/NUM]() (49; 0% instances), [en-pos/SYM]()-[en-pos/NOUN]() (46; 0% instances), [en-pos/DET]()-[en-pos/PRON]() (45; 0% instances), [en-pos/VERB]()-[en-pos/DET]() (45; 0% instances), [en-pos/ADJ]()-[en-pos/ADJ]() (39; 0% instances), [en-pos/NUM]()-[en-pos/PRON]() (36; 0% instances), [en-pos/NOUN]()-[en-pos/SYM]() (33; 0% instances), [en-pos/VERB]()-[en-pos/X]() (33; 0% instances), [en-pos/VERB]()-[en-pos/SYM]() (32; 0% instances), [en-pos/NOUN]()-[en-pos/ADP]() (30; 0% instances), [en-pos/ADV]()-[en-pos/PRON]() (28; 0% instances), [en-pos/PRON]()-[en-pos/PROPN]() (28; 0% instances), [en-pos/PRON]()-[en-pos/PRON]() (26; 0% instances), [en-pos/NUM]()-[en-pos/ADV]() (25; 0% instances), [en-pos/NOUN]()-[en-pos/DET]() (22; 0% instances), [en-pos/NUM]()-[en-pos/PROPN]() (19; 0% instances), [en-pos/ADJ]()-[en-pos/ADV]() (16; 0% instances), [en-pos/ADJ]()-[en-pos/ADP]() (14; 0% instances), [en-pos/ADV]()-[en-pos/ADV]() (13; 0% instances), [en-pos/ADJ]()-[en-pos/DET]() (11; 0% instances), [en-pos/NOUN]()-[en-pos/X]() (11; 0% instances), [en-pos/VERB]()-[en-pos/VERB]() (11; 0% instances), [en-pos/X]()-[en-pos/NUM]() (11; 0% instances), [en-pos/ADV]()-[en-pos/DET]() (10; 0% instances), [en-pos/ADJ]()-[en-pos/NUM]() (8; 0% instances), [en-pos/ADP]()-[en-pos/NOUN]() (8; 0% instances), [en-pos/ADV]()-[en-pos/NUM]() (8; 0% instances), [en-pos/ADV]()-[en-pos/ADJ]() (7; 0% instances), [en-pos/DET]()-[en-pos/PROPN]() (7; 0% instances), [en-pos/NUM]()-[en-pos/ADJ]() (7; 0% instances), [en-pos/PART]()-[en-pos/NOUN]() (5; 0% instances), [en-pos/ADV]()-[en-pos/ADP]() (4; 0% instances), [en-pos/ADV]()-[en-pos/SYM]() (4; 0% instances), [en-pos/DET]()-[en-pos/ADJ]() (4; 0% instances), [en-pos/DET]()-[en-pos/ADV]() (4; 0% instances), [en-pos/NUM]()-[en-pos/SYM]() (4; 0% instances), [en-pos/PRON]()-[en-pos/ADJ]() (4; 0% instances), [en-pos/PRON]()-[en-pos/ADV]() (4; 0% instances), [en-pos/PRON]()-[en-pos/NUM]() (4; 0% instances), [en-pos/PROPN]()-[en-pos/ADV]() (4; 0% instances), [en-pos/PROPN]()-[en-pos/PRON]() (4; 0% instances), [en-pos/ADJ]()-[en-pos/SCONJ]() (3; 0% instances), [en-pos/CONJ]()-[en-pos/NOUN]() (3; 0% instances), [en-pos/DET]()-[en-pos/NUM]() (3; 0% instances), [en-pos/NOUN]()-[en-pos/SCONJ]() (3; 0% instances), [en-pos/PROPN]()-[en-pos/ADJ]() (3; 0% instances), [en-pos/SYM]()-[en-pos/SYM]() (3; 0% instances), [en-pos/VERB]()-[en-pos/SCONJ]() (3; 0% instances), [en-pos/X]()-[en-pos/NOUN]() (3; 0% instances), [en-pos/INTJ]()-[en-pos/NOUN]() (2; 0% instances), [en-pos/INTJ]()-[en-pos/PROPN]() (2; 0% instances), [en-pos/NOUN]()-[en-pos/INTJ]() (2; 0% instances), [en-pos/NUM]()-[en-pos/DET]() (2; 0% instances), [en-pos/PRON]()-[en-pos/ADP]() (2; 0% instances), [en-pos/SYM]()-[en-pos/PROPN]() (2; 0% instances), [en-pos/ADJ]()-[en-pos/VERB]() (1; 0% instances), [en-pos/ADV]()-[en-pos/SCONJ]() (1; 0% instances), [en-pos/AUX]()-[en-pos/NOUN]() (1; 0% instances), [en-pos/AUX]()-[en-pos/NUM]() (1; 0% instances), [en-pos/AUX]()-[en-pos/PRON]() (1; 0% instances), [en-pos/CONJ]()-[en-pos/PROPN]() (1; 0% instances), [en-pos/DET]()-[en-pos/DET]() (1; 0% instances), [en-pos/INTJ]()-[en-pos/ADV]() (1; 0% instances), [en-pos/NOUN]()-[en-pos/VERB]() (1; 0% instances), [en-pos/NUM]()-[en-pos/ADP]() (1; 0% instances), [en-pos/PRON]()-[en-pos/DET]() (1; 0% instances), [en-pos/PROPN]()-[en-pos/PUNCT]() (1; 0% instances), [en-pos/SCONJ]()-[en-pos/ADV]() (1; 0% instances), [en-pos/SCONJ]()-[en-pos/NOUN]() (1; 0% instances), [en-pos/SYM]()-[en-pos/ADP]() (1; 0% instances), [en-pos/SYM]()-[en-pos/ADV]() (1; 0% instances), [en-pos/SYM]()-[en-pos/DET]() (1; 0% instances), [en-pos/SYM]()-[en-pos/NUM]() (1; 0% instances), [en-pos/VERB]()-[en-pos/CONJ]() (1; 0% instances), [en-pos/X]()-[en-pos/X]() (1; 0% instances).
-
-
-~~~ conllu
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 8 nmod	color:blue
-1	The	the	DET	DT	Definite=Def|PronType=Art	3	det	_	_
-2	US	US	PROPN	NNP	Number=Sing	3	compound	_	_
-3	troops	troops	NOUN	NNS	Number=Plur	4	nsubj	_	_
-4	fired	fire	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
-5	into	into	ADP	IN	_	8	case	_	_
-6	the	the	DET	DT	Definite=Def|PronType=Art	8	det	_	_
-7	hostile	hostile	ADJ	JJ	Degree=Pos	8	amod	_	_
-8	crowd	crowd	NOUN	NN	Number=Sing	4	nmod	_	SpaceAfter=No
-9	,	,	PUNCT	,	_	4	punct	_	_
-10	killing	kill	VERB	VBG	VerbForm=Ger	4	advcl	_	_
-11	4	4	NUM	CD	NumType=Card	10	dobj	_	SpaceAfter=No
-12	.	.	PUNCT	.	_	4	punct	_	_
-
-~~~
+The following 59 pairs of parts of speech are connected with `nmod`: [en-pos/NOUN]()-[en-pos/NOUN]() (4606; 60% instances), [en-pos/NOUN]()-[en-pos/PROPN]() (1395; 18% instances), [en-pos/PROPN]()-[en-pos/PROPN]() (330; 4% instances), [en-pos/NOUN]()-[en-pos/PRON]() (221; 3% instances), [en-pos/DET]()-[en-pos/NOUN]() (132; 2% instances), [en-pos/NUM]()-[en-pos/NOUN]() (122; 2% instances), [en-pos/NUM]()-[en-pos/NUM]() (110; 1% instances), [en-pos/PRON]()-[en-pos/NOUN]() (98; 1% instances), [en-pos/NOUN]()-[en-pos/NUM]() (97; 1% instances), [en-pos/PROPN]()-[en-pos/NOUN]() (89; 1% instances), [en-pos/NOUN]()-[en-pos/ADJ]() (53; 1% instances), [en-pos/DET]()-[en-pos/PRON]() (42; 1% instances), [en-pos/SYM]()-[en-pos/NOUN]() (40; 1% instances), [en-pos/PROPN]()-[en-pos/NUM]() (36; 0% instances), [en-pos/NOUN]()-[en-pos/ADV]() (33; 0% instances), [en-pos/NUM]()-[en-pos/PRON]() (32; 0% instances), [en-pos/ADJ]()-[en-pos/NOUN]() (29; 0% instances), [en-pos/NOUN]()-[en-pos/SYM]() (27; 0% instances), [en-pos/NOUN]()-[en-pos/ADP]() (25; 0% instances), [en-pos/NUM]()-[en-pos/ADV]() (23; 0% instances), [en-pos/PRON]()-[en-pos/PROPN]() (23; 0% instances), [en-pos/PRON]()-[en-pos/PRON]() (22; 0% instances), [en-pos/ADJ]()-[en-pos/PRON]() (20; 0% instances), [en-pos/NOUN]()-[en-pos/DET]() (20; 0% instances), [en-pos/NUM]()-[en-pos/PROPN]() (12; 0% instances), [en-pos/NOUN]()-[en-pos/X]() (8; 0% instances), [en-pos/NUM]()-[en-pos/ADJ]() (6; 0% instances), [en-pos/ADJ]()-[en-pos/PROPN]() (5; 0% instances), [en-pos/ADP]()-[en-pos/NOUN]() (5; 0% instances), [en-pos/DET]()-[en-pos/ADJ]() (5; 0% instances), [en-pos/DET]()-[en-pos/PROPN]() (5; 0% instances), [en-pos/PRON]()-[en-pos/NUM]() (4; 0% instances), [en-pos/PROPN]()-[en-pos/PRON]() (4; 0% instances), [en-pos/SYM]()-[en-pos/SYM]() (4; 0% instances), [en-pos/DET]()-[en-pos/ADV]() (3; 0% instances), [en-pos/DET]()-[en-pos/NUM]() (3; 0% instances), [en-pos/NUM]()-[en-pos/SYM]() (3; 0% instances), [en-pos/PRON]()-[en-pos/ADJ]() (3; 0% instances), [en-pos/PRON]()-[en-pos/ADP]() (3; 0% instances), [en-pos/PROPN]()-[en-pos/ADV]() (3; 0% instances), [en-pos/ADJ]()-[en-pos/ADJ]() (2; 0% instances), [en-pos/NOUN]()-[en-pos/INTJ]() (2; 0% instances), [en-pos/NUM]()-[en-pos/DET]() (2; 0% instances), [en-pos/PRON]()-[en-pos/ADV]() (2; 0% instances), [en-pos/PROPN]()-[en-pos/ADJ]() (2; 0% instances), [en-pos/SYM]()-[en-pos/ADV]() (2; 0% instances), [en-pos/X]()-[en-pos/NOUN]() (2; 0% instances), [en-pos/ADV]()-[en-pos/PRON]() (1; 0% instances), [en-pos/ADV]()-[en-pos/PROPN]() (1; 0% instances), [en-pos/DET]()-[en-pos/DET]() (1; 0% instances), [en-pos/NOUN]()-[en-pos/SCONJ]() (1; 0% instances), [en-pos/NUM]()-[en-pos/ADP]() (1; 0% instances), [en-pos/PRON]()-[en-pos/DET]() (1; 0% instances), [en-pos/PROPN]()-[en-pos/PUNCT]() (1; 0% instances), [en-pos/SYM]()-[en-pos/DET]() (1; 0% instances), [en-pos/SYM]()-[en-pos/PROPN]() (1; 0% instances), [en-pos/VERB]()-[en-pos/NOUN]() (1; 0% instances), [en-pos/VERB]()-[en-pos/PROPN]() (1; 0% instances), [en-pos/X]()-[en-pos/X]() (1; 0% instances).
 
 
 ~~~ conllu
@@ -47,7 +25,7 @@ The following 99 pairs of parts of speech are connected with `nmod`: [en-pos/VER
 2	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	3	nsubj	_	_
 3	saw	see	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	11	advcl	_	_
 4	a	a	DET	DT	Definite=Ind|PronType=Art	5	det	_	_
-5	cartoon	cartoon	NOUN	NN	Number=Sing	3	dobj	_	_
+5	cartoon	cartoon	NOUN	NN	Number=Sing	3	obj	_	_
 6	of	of	ADP	IN	_	8	case	_	_
 7	their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	8	nmod:poss	_	_
 8	prophet	prophet	NOUN	NN	Number=Sing	5	nmod	_	SpaceAfter=No
@@ -62,18 +40,43 @@ The following 99 pairs of parts of speech are connected with `nmod`: [en-pos/VER
 
 
 ~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
-# visual-style 4 3 nmod	color:blue
-1	From	from	ADP	IN	_	3	case	_	_
-2	the	the	DET	DT	Definite=Def|PronType=Art	3	det	_	_
-3	AP	AP	PROPN	NNP	Number=Sing	4	nmod	_	_
-4	comes	come	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-5	this	this	DET	DT	Number=Sing|PronType=Dem	6	det	_	_
-6	story	story	NOUN	NN	Number=Sing	4	nsubj	_	_
-7	:	:	PUNCT	:	_	4	punct	_	_
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 4 nmod	color:blue
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
+2	case	case	NOUN	NN	Number=Sing	5	nsubj	_	_
+3	against	against	ADP	IN	_	4	case	_	_
+4	Iran	Iran	PROPN	NNP	Number=Sing	2	nmod	_	_
+5	has	have	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	a	a	DET	DT	Definite=Ind|PronType=Art	7	det	_	_
+7	feeling	feeling	NOUN	NN	Number=Sing	5	obj	_	_
+8	of	of	ADP	IN	_	10	case	_	_
+9	Déjà	déjà	X	FW	Foreign=Yes	10	compound	_	_
+10	vu	vu	X	FW	Foreign=Yes	7	nmod	_	SpaceAfter=No
+11	.	.	PUNCT	.	_	5	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 7 nmod	color:blue
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+2	spoke	speak	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+3	to	to	ADP	IN	_	4	case	_	_
+4	Bruce	Bruce	PROPN	NNP	Number=Sing	2	obl	_	_
+5	Garcey	Garcey	PROPN	NNP	Number=Sing	4	flat	_	_
+6	at	at	ADP	IN	_	7	case	_	_
+7	NiMo	NiMo	PROPN	NNP	Number=Sing	4	nmod	_	_
+8	regarding	regard	VERB	VBG	VerbForm=Ger	10	case	_	_
+9	their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	10	nmod:poss	_	_
+10	RFP	rfp	NOUN	NN	Number=Sing	2	obl	_	SpaceAfter=No
+11	.	.	PUNCT	.	_	2	punct	_	_
 
 ~~~
 
@@ -87,12 +90,12 @@ The following 99 pairs of parts of speech are connected with `nmod`: [en-pos/VER
 This relation is universal.
 There are 3 language-specific subtypes of `nmod`: [nmod:npmod](), [nmod:poss](), [nmod:tmod]().
 
-7869 nodes (8%) are attached to their parents as `nmod`.
+7137 nodes (8%) are attached to their parents as `nmod`.
 
-6849 instances of `nmod` (87%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.65777100012708.
+6222 instances of `nmod` (87%) are left-to-right (parent precedes child).
+Average distance between parent and child is 3.65980103685022.
 
-The following 63 pairs of parts of speech are connected with `nmod`: [en-pos/VERB]()-[en-pos/NOUN]() (3185; 40% instances), [en-pos/NOUN]()-[en-pos/NOUN]() (1910; 24% instances), [en-pos/ADJ]()-[en-pos/NOUN]() (512; 7% instances), [en-pos/VERB]()-[en-pos/PRON]() (452; 6% instances), [en-pos/VERB]()-[en-pos/PROPN]() (328; 4% instances), [en-pos/NOUN]()-[en-pos/PROPN]() (252; 3% instances), [en-pos/NOUN]()-[en-pos/PRON]() (218; 3% instances), [en-pos/ADJ]()-[en-pos/PRON]() (147; 2% instances), [en-pos/VERB]()-[en-pos/NUM]() (120; 2% instances), [en-pos/NUM]()-[en-pos/NOUN]() (79; 1% instances), [en-pos/ADV]()-[en-pos/DET]() (73; 1% instances), [en-pos/VERB]()-[en-pos/DET]() (53; 1% instances), [en-pos/VERB]()-[en-pos/ADP]() (52; 1% instances), [en-pos/PRON]()-[en-pos/NOUN]() (49; 1% instances), [en-pos/ADV]()-[en-pos/NOUN]() (46; 1% instances), [en-pos/VERB]()-[en-pos/ADJ]() (30; 0% instances), [en-pos/VERB]()-[en-pos/ADV]() (29; 0% instances), [en-pos/DET]()-[en-pos/PRON]() (28; 0% instances), [en-pos/PROPN]()-[en-pos/PROPN]() (28; 0% instances), [en-pos/DET]()-[en-pos/NOUN]() (24; 0% instances), [en-pos/ADJ]()-[en-pos/PROPN]() (20; 0% instances), [en-pos/ADJ]()-[en-pos/DET]() (19; 0% instances), [en-pos/NOUN]()-[en-pos/NUM]() (18; 0% instances), [en-pos/PROPN]()-[en-pos/NOUN]() (17; 0% instances), [en-pos/NOUN]()-[en-pos/DET]() (16; 0% instances), [en-pos/ADV]()-[en-pos/PRON]() (12; 0% instances), [en-pos/NOUN]()-[en-pos/ADJ]() (11; 0% instances), [en-pos/PRON]()-[en-pos/PRON]() (11; 0% instances), [en-pos/NOUN]()-[en-pos/ADV]() (9; 0% instances), [en-pos/VERB]()-[en-pos/VERB]() (9; 0% instances), [en-pos/ADJ]()-[en-pos/ADP]() (8; 0% instances), [en-pos/NOUN]()-[en-pos/VERB]() (8; 0% instances), [en-pos/NUM]()-[en-pos/PRON]() (8; 0% instances), [en-pos/ADJ]()-[en-pos/ADV]() (7; 0% instances), [en-pos/ADJ]()-[en-pos/NUM]() (7; 0% instances), [en-pos/NOUN]()-[en-pos/ADP]() (6; 0% instances), [en-pos/NUM]()-[en-pos/NUM]() (6; 0% instances), [en-pos/SYM]()-[en-pos/NOUN]() (6; 0% instances), [en-pos/ADJ]()-[en-pos/ADJ]() (5; 0% instances), [en-pos/ADV]()-[en-pos/PROPN]() (5; 0% instances), [en-pos/NOUN]()-[en-pos/SYM]() (5; 0% instances), [en-pos/VERB]()-[en-pos/PART]() (5; 0% instances), [en-pos/NUM]()-[en-pos/ADJ]() (3; 0% instances), [en-pos/NUM]()-[en-pos/ADV]() (3; 0% instances), [en-pos/NUM]()-[en-pos/PROPN]() (3; 0% instances), [en-pos/PROPN]()-[en-pos/NUM]() (3; 0% instances), [en-pos/PROPN]()-[en-pos/PRON]() (3; 0% instances), [en-pos/ADJ]()-[en-pos/VERB]() (2; 0% instances), [en-pos/ADV]()-[en-pos/ADJ]() (2; 0% instances), [en-pos/ADV]()-[en-pos/VERB]() (2; 0% instances), [en-pos/PRON]()-[en-pos/ADJ]() (2; 0% instances), [en-pos/PRON]()-[en-pos/DET]() (2; 0% instances), [en-pos/ADP]()-[en-pos/NOUN]() (1; 0% instances), [en-pos/ADV]()-[en-pos/ADP]() (1; 0% instances), [en-pos/ADV]()-[en-pos/NUM]() (1; 0% instances), [en-pos/AUX]()-[en-pos/NOUN]() (1; 0% instances), [en-pos/INTJ]()-[en-pos/NOUN]() (1; 0% instances), [en-pos/NUM]()-[en-pos/ADP]() (1; 0% instances), [en-pos/PRON]()-[en-pos/NUM]() (1; 0% instances), [en-pos/PRON]()-[en-pos/PROPN]() (1; 0% instances), [en-pos/PROPN]()-[en-pos/SYM]() (1; 0% instances), [en-pos/SYM]()-[en-pos/SYM]() (1; 0% instances), [en-pos/VERB]()-[en-pos/INTJ]() (1; 0% instances).
+The following 62 pairs of parts of speech are connected with `nmod`: [en-pos/VERB]()-[en-pos/NOUN]() (2884; 40% instances), [en-pos/NOUN]()-[en-pos/NOUN]() (1752; 25% instances), [en-pos/ADJ]()-[en-pos/NOUN]() (471; 7% instances), [en-pos/VERB]()-[en-pos/PRON]() (412; 6% instances), [en-pos/VERB]()-[en-pos/PROPN]() (286; 4% instances), [en-pos/NOUN]()-[en-pos/PROPN]() (228; 3% instances), [en-pos/NOUN]()-[en-pos/PRON]() (194; 3% instances), [en-pos/ADJ]()-[en-pos/PRON]() (130; 2% instances), [en-pos/VERB]()-[en-pos/NUM]() (108; 2% instances), [en-pos/NUM]()-[en-pos/NOUN]() (70; 1% instances), [en-pos/ADV]()-[en-pos/DET]() (62; 1% instances), [en-pos/VERB]()-[en-pos/ADP]() (49; 1% instances), [en-pos/VERB]()-[en-pos/DET]() (47; 1% instances), [en-pos/PRON]()-[en-pos/NOUN]() (45; 1% instances), [en-pos/ADV]()-[en-pos/NOUN]() (42; 1% instances), [en-pos/VERB]()-[en-pos/ADV]() (28; 0% instances), [en-pos/PROPN]()-[en-pos/PROPN]() (27; 0% instances), [en-pos/VERB]()-[en-pos/ADJ]() (26; 0% instances), [en-pos/DET]()-[en-pos/PRON]() (24; 0% instances), [en-pos/DET]()-[en-pos/NOUN]() (23; 0% instances), [en-pos/ADJ]()-[en-pos/PROPN]() (18; 0% instances), [en-pos/ADJ]()-[en-pos/DET]() (17; 0% instances), [en-pos/NOUN]()-[en-pos/NUM]() (16; 0% instances), [en-pos/PROPN]()-[en-pos/NOUN]() (16; 0% instances), [en-pos/NOUN]()-[en-pos/DET]() (15; 0% instances), [en-pos/ADV]()-[en-pos/PRON]() (12; 0% instances), [en-pos/PRON]()-[en-pos/PRON]() (11; 0% instances), [en-pos/NOUN]()-[en-pos/ADJ]() (8; 0% instances), [en-pos/VERB]()-[en-pos/VERB]() (8; 0% instances), [en-pos/ADJ]()-[en-pos/ADP]() (7; 0% instances), [en-pos/ADJ]()-[en-pos/ADV]() (7; 0% instances), [en-pos/ADJ]()-[en-pos/NUM]() (7; 0% instances), [en-pos/NOUN]()-[en-pos/ADV]() (7; 0% instances), [en-pos/NOUN]()-[en-pos/VERB]() (6; 0% instances), [en-pos/NUM]()-[en-pos/PRON]() (6; 0% instances), [en-pos/SYM]()-[en-pos/NOUN]() (6; 0% instances), [en-pos/ADJ]()-[en-pos/ADJ]() (5; 0% instances), [en-pos/ADV]()-[en-pos/PROPN]() (5; 0% instances), [en-pos/NOUN]()-[en-pos/ADP]() (5; 0% instances), [en-pos/NOUN]()-[en-pos/SYM]() (5; 0% instances), [en-pos/VERB]()-[en-pos/PART]() (5; 0% instances), [en-pos/NUM]()-[en-pos/NUM]() (4; 0% instances), [en-pos/NUM]()-[en-pos/ADV]() (3; 0% instances), [en-pos/NUM]()-[en-pos/PROPN]() (3; 0% instances), [en-pos/PROPN]()-[en-pos/NUM]() (3; 0% instances), [en-pos/PROPN]()-[en-pos/PRON]() (3; 0% instances), [en-pos/ADJ]()-[en-pos/VERB]() (2; 0% instances), [en-pos/ADV]()-[en-pos/VERB]() (2; 0% instances), [en-pos/NUM]()-[en-pos/ADJ]() (2; 0% instances), [en-pos/PRON]()-[en-pos/ADJ]() (2; 0% instances), [en-pos/PRON]()-[en-pos/DET]() (2; 0% instances), [en-pos/ADP]()-[en-pos/NOUN]() (1; 0% instances), [en-pos/ADV]()-[en-pos/ADJ]() (1; 0% instances), [en-pos/ADV]()-[en-pos/ADP]() (1; 0% instances), [en-pos/ADV]()-[en-pos/NUM]() (1; 0% instances), [en-pos/INTJ]()-[en-pos/NOUN]() (1; 0% instances), [en-pos/NUM]()-[en-pos/ADP]() (1; 0% instances), [en-pos/PRON]()-[en-pos/NUM]() (1; 0% instances), [en-pos/PRON]()-[en-pos/PROPN]() (1; 0% instances), [en-pos/PROPN]()-[en-pos/SYM]() (1; 0% instances), [en-pos/SYM]()-[en-pos/SYM]() (1; 0% instances), [en-pos/VERB]()-[en-pos/INTJ]() (1; 0% instances).
 
 
 ~~~ conllu
@@ -211,27 +214,54 @@ The following 63 pairs of parts of speech are connected with `nmod`: [en-pos/VER
 This relation is universal.
 There are 1 language-specific subtypes of `nmod`: [nmod:poss]().
 
-7816 nodes (9%) are attached to their parents as `nmod`.
+2710 nodes (4%) are attached to their parents as `nmod`.
 
-7208 instances of `nmod` (92%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.99155578300921.
+2590 instances of `nmod` (96%) are left-to-right (parent precedes child).
+Average distance between parent and child is 3.24354243542435.
 
-The following 51 pairs of parts of speech are connected with `nmod`: [en-pos/VERB]()-[en-pos/NOUN]() (3459; 44% instances), [en-pos/NOUN]()-[en-pos/NOUN]() (2146; 27% instances), [en-pos/VERB]()-[en-pos/PRON]() (499; 6% instances), [en-pos/VERB]()-[en-pos/PROPN]() (345; 4% instances), [en-pos/NOUN]()-[en-pos/PROPN]() (265; 3% instances), [en-pos/ADJ]()-[en-pos/NOUN]() (243; 3% instances), [en-pos/NOUN]()-[en-pos/PRON]() (144; 2% instances), [en-pos/PRON]()-[en-pos/NOUN]() (108; 1% instances), [en-pos/PRON]()-[en-pos/PRON]() (67; 1% instances), [en-pos/ADV]()-[en-pos/NOUN]() (55; 1% instances), [en-pos/ADJ]()-[en-pos/PRON]() (54; 1% instances), [en-pos/VERB]()-[en-pos/NUM]() (54; 1% instances), [en-pos/NUM]()-[en-pos/NOUN]() (49; 1% instances), [en-pos/AUX]()-[en-pos/NOUN]() (43; 1% instances), [en-pos/PROPN]()-[en-pos/NOUN]() (42; 1% instances), [en-pos/ADP]()-[en-pos/NOUN]() (37; 0% instances), [en-pos/VERB]()-[en-pos/ADJ]() (37; 0% instances), [en-pos/VERB]()-[en-pos/ADP]() (30; 0% instances), [en-pos/ADJ]()-[en-pos/PROPN]() (27; 0% instances), [en-pos/PROPN]()-[en-pos/PRON]() (10; 0% instances), [en-pos/ADV]()-[en-pos/PROPN]() (9; 0% instances), [en-pos/PROPN]()-[en-pos/PROPN]() (9; 0% instances), [en-pos/PRON]()-[en-pos/PROPN]() (8; 0% instances), [en-pos/ADV]()-[en-pos/PRON]() (7; 0% instances), [en-pos/NUM]()-[en-pos/PROPN]() (7; 0% instances), [en-pos/ADP]()-[en-pos/PRON]() (6; 0% instances), [en-pos/AUX]()-[en-pos/PRON]() (5; 0% instances), [en-pos/NOUN]()-[en-pos/ADP]() (5; 0% instances), [en-pos/VERB]()-[en-pos/ADV]() (5; 0% instances), [en-pos/NUM]()-[en-pos/PRON]() (4; 0% instances), [en-pos/ADJ]()-[en-pos/ADJ]() (3; 0% instances), [en-pos/ADP]()-[en-pos/PROPN]() (3; 0% instances), [en-pos/AUX]()-[en-pos/PROPN]() (3; 0% instances), [en-pos/NOUN]()-[en-pos/ADV]() (3; 0% instances), [en-pos/VERB]()-[en-pos/VERB]() (3; 0% instances), [en-pos/CONJ]()-[en-pos/NOUN]() (2; 0% instances), [en-pos/NOUN]()-[en-pos/ADJ]() (2; 0% instances), [en-pos/NOUN]()-[en-pos/NUM]() (2; 0% instances), [en-pos/PUNCT]()-[en-pos/NOUN]() (2; 0% instances), [en-pos/SCONJ]()-[en-pos/NOUN]() (2; 0% instances), [en-pos/X]()-[en-pos/NOUN]() (2; 0% instances), [en-pos/ADJ]()-[en-pos/ADP]() (1; 0% instances), [en-pos/AUX]()-[en-pos/NUM]() (1; 0% instances), [en-pos/INTJ]()-[en-pos/PROPN]() (1; 0% instances), [en-pos/PART]()-[en-pos/NOUN]() (1; 0% instances), [en-pos/PROPN]()-[en-pos/ADJ]() (1; 0% instances), [en-pos/PROPN]()-[en-pos/ADP]() (1; 0% instances), [en-pos/PUNCT]()-[en-pos/ADJ]() (1; 0% instances), [en-pos/PUNCT]()-[en-pos/PROPN]() (1; 0% instances), [en-pos/SYM]()-[en-pos/NOUN]() (1; 0% instances), [en-pos/VERB]()-[en-pos/SYM]() (1; 0% instances).
+The following 35 pairs of parts of speech are connected with `nmod`: [en-pos/NOUN]()-[en-pos/NOUN]() (1739; 64% instances), [en-pos/NOUN]()-[en-pos/PROPN]() (216; 8% instances), [en-pos/ADJ]()-[en-pos/NOUN]() (209; 8% instances), [en-pos/NOUN]()-[en-pos/PRON]() (113; 4% instances), [en-pos/PRON]()-[en-pos/NOUN]() (97; 4% instances), [en-pos/PRON]()-[en-pos/PRON]() (53; 2% instances), [en-pos/ADV]()-[en-pos/NOUN]() (44; 2% instances), [en-pos/ADJ]()-[en-pos/PRON]() (40; 1% instances), [en-pos/NUM]()-[en-pos/NOUN]() (40; 1% instances), [en-pos/PROPN]()-[en-pos/NOUN]() (33; 1% instances), [en-pos/ADP]()-[en-pos/NOUN]() (28; 1% instances), [en-pos/ADJ]()-[en-pos/PROPN]() (22; 1% instances), [en-pos/PROPN]()-[en-pos/PRON]() (10; 0% instances), [en-pos/PROPN]()-[en-pos/PROPN]() (8; 0% instances), [en-pos/ADV]()-[en-pos/PROPN]() (7; 0% instances), [en-pos/ADV]()-[en-pos/PRON]() (6; 0% instances), [en-pos/NOUN]()-[en-pos/ADP]() (5; 0% instances), [en-pos/PRON]()-[en-pos/PROPN]() (5; 0% instances), [en-pos/ADP]()-[en-pos/PRON]() (4; 0% instances), [en-pos/ADP]()-[en-pos/PROPN]() (4; 0% instances), [en-pos/ADJ]()-[en-pos/ADJ]() (3; 0% instances), [en-pos/NUM]()-[en-pos/PRON]() (3; 0% instances), [en-pos/NUM]()-[en-pos/PROPN]() (3; 0% instances), [en-pos/ADJ]()-[en-pos/ADP]() (2; 0% instances), [en-pos/NOUN]()-[en-pos/ADJ]() (2; 0% instances), [en-pos/NOUN]()-[en-pos/NUM]() (2; 0% instances), [en-pos/PUNCT]()-[en-pos/NOUN]() (2; 0% instances), [en-pos/SCONJ]()-[en-pos/NOUN]() (2; 0% instances), [en-pos/X]()-[en-pos/NOUN]() (2; 0% instances), [en-pos/ADP]()-[en-pos/ADJ]() (1; 0% instances), [en-pos/CCONJ]()-[en-pos/NOUN]() (1; 0% instances), [en-pos/INTJ]()-[en-pos/PROPN]() (1; 0% instances), [en-pos/PART]()-[en-pos/NOUN]() (1; 0% instances), [en-pos/PUNCT]()-[en-pos/ADJ]() (1; 0% instances), [en-pos/PUNCT]()-[en-pos/PROPN]() (1; 0% instances).
 
 
 ~~~ conllu
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 1 7 nmod	color:blue
-1	Linking	_	VERB	ING	_	0	root	_	_
-2	a	_	DET	IND-SG	_	3	det	_	_
-3	page	_	NOUN	SG	_	1	dobj	_	_
-4	to	_	ADP	_	_	7	case	_	_
-5	a	_	DET	IND-SG	_	7	det	_	_
-6	connection	_	NOUN	SG	_	7	compound	_	_
-7	file	_	NOUN	SG	_	1	nmod	_	_
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 7 nmod	color:blue
+1	Some	_	PRON	IND	_	8	nsubj	_	_
+2	of	_	ADP	_	_	4	case	_	_
+3	the	_	DET	DEF	_	4	det	_	_
+4	hyperlinks	_	NOUN	PL-NOM	_	1	nmod	_	_
+5	in	_	ADP	_	_	7	case	_	_
+6	this	_	DET	DEM-SG	_	7	det	_	_
+7	topic	_	NOUN	SG-NOM	_	4	nmod	_	_
+8	go	_	VERB	PRES	_	0	root	_	_
+9	to	_	ADP	_	_	11	case	_	_
+10	the	_	DET	DEF	_	11	det	_	_
+11	Web	_	NOUN	SG-NOM	_	8	obl	_	SpaceAfter=No
+12	.	_	PUNCT	Period	_	8	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 4 nmod	color:blue
+1	Additional	_	ADJ	POS	_	2	amod	_	_
+2	information	_	NOUN	SG-NOM	_	7	nsubj:pass	_	_
+3	about	_	ADP	_	_	4	case	_	_
+4	XML	_	PROPN	SG-NOM	_	2	nmod	_	_
+5	can	_	AUX	PRES-AUX	_	7	aux	_	_
+6	be	_	AUX	INF	_	7	aux	_	_
+7	found	_	VERB	PASS	_	0	root	_	_
+8	on	_	ADP	_	_	11	case	_	_
+9	the	_	DET	DEF	_	11	det	_	_
+10	web	_	NOUN	SG-NOM	_	11	compound	_	_
+11	site	_	NOUN	SG-NOM	_	7	obl	_	SpaceAfter=No
+12	.	_	PUNCT	Period	_	7	punct	_	_
 
 ~~~
 
@@ -239,38 +269,89 @@ The following 51 pairs of parts of speech are connected with `nmod`: [en-pos/VER
 ~~~ conllu
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 5 nmod	color:blue
-1	Drop	_	VERB	IMP	_	0	root	_	_
-2	areas	_	NOUN	PL	_	1	dobj	_	_
-3	in	_	ADP	_	_	5	case	_	_
-4	PivotTable	_	NOUN	SG	_	5	compound	_	_
-5	view	_	NOUN	SG	_	2	nmod	_	_
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 5 nmod	color:blue
+1	Immobile	_	ADJ	POS	_	8	advmod	_	_
+2	among	_	ADP	_	_	5	case	_	_
+3	the	_	DET	DEF	_	5	det	_	_
+4	moving	_	ADJ	ING	_	5	amod	_	_
+5	crowd	_	NOUN	SG-NOM	_	1	nmod	_	SpaceAfter=No
+6	,	_	PUNCT	Comma	_	8	punct	_	_
+7	he	_	PRON	PERS-P3SG-NOM	_	8	nsubj	_	_
+8	stood	_	VERB	PAST	_	0	root	_	_
+9	there	_	ADV	_	_	8	advmod	_	_
+10	and	_	CCONJ	_	_	11	cc	_	_
+11	watched	_	VERB	PAST	_	8	conj	_	SpaceAfter=No
+12	.	_	PUNCT	Period	_	8	punct	_	_
+
+~~~
+
+
+
+
+--------------------------------------------------------------------------------
+
+## Treebank Statistics (UD_English-ParTUT)
+
+This relation is universal.
+There are 3 language-specific subtypes of `nmod`: [nmod:npmod](), [nmod:poss](), [nmod:tmod]().
+
+3435 nodes (9%) are attached to their parents as `nmod`.
+
+2136 instances of `nmod` (62%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.83901018922853.
+
+The following 35 pairs of parts of speech are connected with `nmod`: [en-pos/NOUN]()-[en-pos/NOUN]() (2420; 70% instances), [en-pos/NOUN]()-[en-pos/PROPN]() (643; 19% instances), [en-pos/PROPN]()-[en-pos/PROPN]() (55; 2% instances), [en-pos/NOUN]()-[en-pos/PRON]() (54; 2% instances), [en-pos/PRON]()-[en-pos/NOUN]() (51; 1% instances), [en-pos/PROPN]()-[en-pos/NOUN]() (51; 1% instances), [en-pos/NUM]()-[en-pos/NOUN]() (32; 1% instances), [en-pos/NUM]()-[en-pos/PROPN]() (19; 1% instances), [en-pos/NOUN]()-[en-pos/ADJ]() (18; 1% instances), [en-pos/PRON]()-[en-pos/PRON]() (18; 1% instances), [en-pos/NOUN]()-[en-pos/X]() (14; 0% instances), [en-pos/NOUN]()-[en-pos/SYM]() (10; 0% instances), [en-pos/SYM]()-[en-pos/NOUN]() (7; 0% instances), [en-pos/NOUN]()-[en-pos/DET]() (6; 0% instances), [en-pos/PRON]()-[en-pos/PROPN]() (6; 0% instances), [en-pos/DET]()-[en-pos/NOUN]() (3; 0% instances), [en-pos/NOUN]()-[en-pos/ADP]() (3; 0% instances), [en-pos/PROPN]()-[en-pos/PRON]() (3; 0% instances), [en-pos/VERB]()-[en-pos/NOUN]() (3; 0% instances), [en-pos/AUX]()-[en-pos/NOUN]() (2; 0% instances), [en-pos/PROPN]()-[en-pos/SYM]() (2; 0% instances), [en-pos/X]()-[en-pos/NOUN]() (2; 0% instances), [en-pos/ADJ]()-[en-pos/NOUN]() (1; 0% instances), [en-pos/DET]()-[en-pos/PRON]() (1; 0% instances), [en-pos/INTJ]()-[en-pos/NOUN]() (1; 0% instances), [en-pos/NOUN]()-[en-pos/VERB]() (1; 0% instances), [en-pos/PRON]()-[en-pos/ADJ]() (1; 0% instances), [en-pos/PROPN]()-[en-pos/X]() (1; 0% instances), [en-pos/PUNCT]()-[en-pos/PROPN]() (1; 0% instances), [en-pos/SCONJ]()-[en-pos/NOUN]() (1; 0% instances), [en-pos/VERB]()-[en-pos/NUM]() (1; 0% instances), [en-pos/VERB]()-[en-pos/PRON]() (1; 0% instances), [en-pos/VERB]()-[en-pos/PROPN]() (1; 0% instances), [en-pos/X]()-[en-pos/PROPN]() (1; 0% instances), [en-pos/X]()-[en-pos/X]() (1; 0% instances).
+
+
+~~~ conllu
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 4 nmod	color:blue
+1	2	2	NUM	N	NumType=Card	5	nummod	_	SpaceAfter=No
+2	.	.	PUNCT	FF	_	1	punct	_	_
+3	Fair	fair	ADJ	A	Degree=Pos	4	amod	_	_
+4	Use	use	NOUN	S	Number=Sing	5	nmod	_	_
+5	Rights	right	NOUN	S	Number=Plur	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	FS	_	5	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 13	bgColor:blue
-# visual-style 13	fgColor:white
-# visual-style 11	bgColor:blue
-# visual-style 11	fgColor:white
-# visual-style 11 13 nmod	color:blue
-1	You	_	PRON	PERS-P2	_	2	nsubj	_	_
-2	sit	_	VERB	PRES	_	0	root	_	_
-3	here	_	ADV	_	_	2	advmod	_	_
-4	and	_	CONJ	_	_	2	cc	_	_
-5	think	_	VERB	PRES	_	2	conj	_	_
-6	:	_	PUNCT	Colon	_	2	punct	_	_
-7	who	_	PRON	WH-NOM	_	5	dobj	_	_
-8	is	_	VERB	PRES	_	7	cop	_	_
-9	this	_	DET	DEM-SG	_	10	det	_	_
-10	person	_	NOUN	SG	_	7	nsubj	_	_
-11	talking	_	VERB	ING	_	10	amod	_	_
-12	to	_	ADP	_	_	13	case	_	_
-13	me	_	PRON	PERS-P1SG-ACC	_	11	nmod	_	_
-14	?	_	PUNCT	QuestionMark	_	2	punct	_	_
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 5 nmod	color:blue
+1	(	(	PUNCT	FB	_	2	punct	_	SpaceAfter=No
+2	Applause	applause	NOUN	S	Number=Sing	0	root	_	_
+3	from	from	ADP	E	_	6	case	_	_
+4	the	the	DET	RD	Definite=Def|PronType=Art	6	det	_	_
+5	PSE	Pse	PROPN	SP	_	6	nmod	_	_
+6	Group	group	NOUN	S	Number=Sing	2	nmod	_	SpaceAfter=No
+7	)	)	PUNCT	FB	_	2	punct	_	SpaceAfter=No
+8	.	.	PUNCT	FS	_	2	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 3 nmod	color:blue
+1	Promote	promote	VERB	V	Mood=Imp|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	your	you	DET	AP	Poss=Yes|PronType=Prs	4	nmod:poss	_	_
+3	Facebook	Facebook	PROPN	SP	_	4	nmod	_	_
+4	Page	Page	PROPN	SP	_	1	obj	_	_
+5	or	or	CCONJ	CC	_	6	cc	_	_
+6	website	website	NOUN	S	Number=Sing	4	conj	_	SpaceAfter=No
+7	.	.	PUNCT	FS	_	1	punct	_	_
 
 ~~~
 

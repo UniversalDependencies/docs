@@ -4,9 +4,8 @@ title: 'nmod'
 shortdef: 'nominal modifier'
 ---
 
-The `nmod` relation is used for nominal modifiers. They depend either
-on another noun (group “noun dependents”) or on a predicate (group
-“non-core dependents of clausal predicates”).
+The `nmod` relation is used for nominal modifiers. They depend 
+on another noun (group “noun dependents”).
 
 `nmod` is a [noun](cs-pos/NOUN) (or noun phrase) functioning as a
 non-core (oblique) argument or adjunct.
@@ -31,24 +30,17 @@ amod(card, student's)
 
 ~~~ sdparse
 его карта \n his card
-det(карта, его)
-det(card, his)
+amod(карта, его)
+amod(card, his)
 ~~~
 
-`nmod` is also used for temporal nominal modifiers:
-
-~~~ sdparse
-Последний раз мы разговаривали зимой . \n Last time we talked in-winter .
-nmod(разговаривали, зимой)
-nmod(talked, in-winter)
-~~~
 
 ## Agreeing attribute of a noun
 
 `nmod` noun phrases attached to nouns are usually in the genitive [ru-feat/Case]() and follow the modified noun.
 However, there is also a different kind of `nmod` that precedes the modified noun and agrees with it in case and number.
-A typical example is a title attached to a name of a person. The relation is similar to the [name]() relation
-that links the first and the last name, but it is not labeled `name` because the title is not part of the name:
+A typical example is a title attached to a name of a person. The relation is similar to the [flat]() relation
+that links the first and the last name, but it is not labeled `flat` because the title is not part of the name:
 
 ~~~ sdparse
 российский президент Владимир Владимирович Путин \n Russian president Vladimir Vladimirovich Putin

@@ -2,7 +2,18 @@
 layout: feature
 title: 'Animacy'
 shortdef: 'animacy'
+udver: '2'
 ---
+
+<table class="typeindex" border="1">
+<tr>
+  <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
+  <td><a href="#Anim">Anim</a></td>
+  <td><a href="#Hum">Hum</a></td>
+  <td><a href="#Inan">Inan</a></td>
+  <td><a href="#Nhum">Nhum</a></td>
+</tr>
+</table>
 
 Similarly to [Gender]() (and to the African noun classes), animacy is
 usually a lexical feature of [nouns](u-pos/NOUN) and inflectional feature
@@ -33,7 +44,12 @@ row):
 |------------------------------------------------------------------------------------------------------------------------------------------------|
 {: cellpadding="2" cellspacing="0" }
 
-### `Anim`: animate
+More generally: Some languages distinguish animate vs. inanimate (e.g. Czech
+masculines), some languages distinguish human vs. non-human (e.g. Yuwan, a
+Ryukyuan language), and others distinguish three values, human vs. non-human
+animate vs. inanimate (e.g. Polish masculines).
+
+### <a name="Anim">`Anim`</a>: animate
 
 Human beings, animals, fictional characters, names of professions
 etc. are all animate. Even nouns that are normally inanimate can be
@@ -41,12 +57,18 @@ inflected as animate if they are personified. For instance, consider a
 children's story about cars where cars live and talk as people; then
 the cars may become and be inflected as animates.
 
-### `Nhum`: animate but non-human
+### <a name="Inan">`Inan`</a>: inanimate
 
-Attested in Polish. In languages where Nhum is used, `Anim` is
-restricted to human beings (complement of `Nhum`).
+Nouns that are not animate are inanimate.
 
-### `Inan`: inanimate
+### <a name="Hum">`Hum`</a>: human
 
-Nouns that are not animate are inanimate. (If `Nhum` is used, nouns
-that are neither `Anim` nor `Nhum` are `Inan`.)
+A subset of animates that only includes human beings (and personified characters)
+but not animals.
+
+### <a name="Nhum">`Nhum`</a>: non-human
+
+In languages that only distinguish human from non-human, this value includes
+inanimates. In languages that distinguish human animates, non-human animates
+and inanimates, this value is used only for non-human animates, while `Inan`
+is used for inanimates.

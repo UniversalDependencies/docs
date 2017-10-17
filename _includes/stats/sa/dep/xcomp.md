@@ -21,11 +21,11 @@ The following 2 pairs of parts of speech are connected with `xcomp`: [sa-pos/VER
 # visual-style 8	fgColor:white
 # visual-style 8 7 xcomp	color:blue
 1	एतस्मिन्	एतद्	DET	_	Case=Loc|Gender=Neut|Number=Sing|PronType=Dem	2	det	_	Translit=etasmin|LTranslit=etad
-2	अन्तरे	अन्तर	NOUN	_	Case=Loc|Gender=Neut|Number=Sing	8	nmod	_	Translit=antare|LTranslit=antara
+2	अन्तरे	अन्तर	NOUN	_	Case=Loc|Gender=Neut|Number=Sing	8	obl	_	Translit=antare|LTranslit=antara
 3	ते	तद्	DET	_	Case=Nom|Gender=Neut|Number=Plur|PronType=Dem	4	det	_	Translit=te|LTranslit=tad
 4	वानराः	वानर	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	8	nsubj	_	Translit=vānarāḥ|LTranslit=vānara
 5	यथा	यथा	ADV	_	_	6	advmod	_	Translit=yathā|LTranslit=yathā
-6	इच्छया	इच्छ	NOUN	_	Case=Ins|Gender=Fem|Number=Sing	8	nmod	_	Translit=icchayā|LTranslit=iccha
+6	इच्छया	इच्छ	NOUN	_	Case=Ins|Gender=Fem|Number=Sing	8	obl	_	Translit=icchayā|LTranslit=iccha
 7	क्रीडितुम्	क्रीड्	VERB	_	VerbForm=Inf	8	xcomp	_	Translit=krīḍitum|LTranslit=krīḍ
 8	आरब्धम्	आ-रब्ध्	VERB	_	Case=Acc|Gender=Neut|Number=Sing|VerbForm=Part	0	root	_	Translit=ārabdham|LTranslit=ā-rabdh
 

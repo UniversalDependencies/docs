@@ -2,11 +2,12 @@
 layout: postag
 title: 'DET'
 shortdef: 'determiner'
+udver: '2'
 ---
 
 ### Definition
 
-Determiners are words that modify [nouns](NOUN) or noun phrases and
+Determiners (or pro-adjectives) are words that modify [nouns](NOUN) or noun phrases and
 express the reference of the noun phrase in context. That is, a
 determiner may indicate whether the noun is referring to a definite or
 indefinite element of a class, to a closer or more distant element, to
@@ -32,20 +33,10 @@ Since the PDT tagset (like all other Czech tagsets) does not distinguish
 substantive and attributive pronouns, morphological tags alone are not enough
 to find the correct universal POS tag.
 Morphological rules could help, as the inflection patterns of some pronouns
-bear similarities to adjectival inflection; nevertheless, there will be other
-cases that cannot be solved this way.
-We have to examine the dependency tree.
-If a pronoun modifies a noun, it should be tagged `DET`.
-Otherwise it is `PRON`.
-As a result, all words that can be tagged `DET` can also be tagged `PRON`,
-but some words can only be tagged `PRON`.
-(We cannot recognize cases where the pronoun is in fact attributive, but the
-modified noun has been elided and is not represented in the tree.)
-
-For instance, _tohle&nbsp;_ “this” is either pronoun
-_(<b>Tohle</b> jsem viděl včera.&nbsp;_ “I saw <b>this</b> yesterday.”)
-or determiner
-_(<b>Tohle</b> auto jsem viděl včera.&nbsp;_ “I saw <b>this</b> car yesterday.”)
+bear similarities to adjectival inflection (especially the ability to inflect for gender).
+Unlike in UD v1, we no longer use the dependency tree to distinguish between determiners and pronouns.
+Instead, we use a pre-defined list of lemmas that are `DET` if their PDT tag indicates pronoun.
+See also [here](../../sla/pos/PRON.html) for a Slavic-wide discussion of the distinction between determiners and pronouns.
 
 ### Examples
 

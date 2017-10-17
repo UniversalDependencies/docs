@@ -22,11 +22,11 @@ The following 1 pairs of parts of speech are connected with `goeswith`: [bg-pos/
 # visual-style 1 2 goeswith	color:blue
 1	От	от	ADP	R	_	7	advmod	_	_
 2	тук	там	ADV	Pdl	PronType=Dem	1	goeswith	_	_
-3	нататък	там	ADV	Pdl	PronType=Dem	1	mwe	_	_
+3	нататък	там	ADV	Pdl	PronType=Dem	1	fixed	_	_
 4	разбирателството	разбирателство	NOUN	Ncnsd	Definite=Def|Gender=Neut|Number=Sing	7	nsubj	_	_
-5	е	съм	VERB	Vxitf-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	cop	_	_
-6	много	много	ADV	Md-pi	Definite=Ind|Number=Plur|NumType=Card	7	advmod	_	_
-7	по-голямо	голям	ADJ	Ansi	Definite=Ind|Degree=Cmp|Gender=Neut|Number=Sing	0	root	_	_
+5	е	съм	AUX	Vxitf-r3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	cop	_	_
+6	много	много	ADV	Md-pi	Definite=Ind|Degree=Pos|Number=Plur|NumType=Card	7	advmod	_	_
+7	по-голямо	голям	ADJ	Ansi	Definite=Ind|Degree=Cmp|Gender=Neut|Number=Sing	0	root	_	SpaceAfter=No
 8	.	.	PUNCT	punct	_	7	punct	_	_
 
 ~~~

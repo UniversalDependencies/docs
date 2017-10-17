@@ -11,7 +11,7 @@ The 10 most frequent `PART` lemmas: உம், என், ஆன, ஆக, ஆக
 
 The 10 most frequent `PART` types:  உம், ஆன, என்று, ஆக, என, என்ற், ஆகவ், போது, என்ற, தான்
 
-The 10 most frequent ambiguous lemmas: என் ([PART]() 157, [VERB]() 16, [PRON]() 10, [NOUN]() 4, [ADJ]() 2, [AUX]() 1, [X]() 1), ஆன ([PART]() 64, [ADP]() 4), ஆக ([PART]() 59, [ADV]() 6, [ADP]() 3), ஆகு ([PART]() 40, [ADP]() 37, [ADV]() 29, [ADJ]() 11, [AUX]() 5, [VERB]() 1), தான் ([PART]() 14, [PRON]() 2), ஆறு ([PART]() 7, [NUM]() 1, [PROPN]() 1, [NOUN]() 1), மட்டும் ([PART]() 4, [ADV]() 2), கூடு ([AUX]() 7, [PART]() 3, [ADJ]() 1, [ADV]() 1, [VERB]() 1), வரை ([ADP]() 5, [PART]() 2, [ADV]() 1, [NOUN]() 1), உடன் ([ADP]() 27, [PART]() 1, [ADV]() 1)
+The 10 most frequent ambiguous lemmas: என் ([PART]() 157, [VERB]() 16, [PRON]() 10, [NOUN]() 4, [ADJ]() 2, [AUX]() 1, [X]() 1), ஆன ([PART]() 64, [ADP]() 4), ஆக ([PART]() 59, [ADV]() 6, [ADP]() 3), ஆகு ([PART]() 40, [ADP]() 37, [ADV]() 29, [ADJ]() 11, [AUX]() 5, [VERB]() 1), தான் ([PART]() 14, [PRON]() 2), ஆறு ([PART]() 7, [NOUN]() 1, [PROPN]() 1, [NUM]() 1), மட்டும் ([PART]() 4, [ADV]() 2), கூடு ([AUX]() 7, [PART]() 3, [VERB]() 1, [ADJ]() 1, [ADV]() 1), வரை ([ADP]() 5, [PART]() 2, [ADV]() 1, [NOUN]() 1), உடன் ([ADP]() 27, [PART]() 1, [ADV]() 1)
 
 The 10 most frequent ambiguous types:  ஆன ([PART]() 65, [ADP]() 4), ஆக ([PART]() 64, [ADP]() 35, [ADV]() 31), ஆகவ் ([PART]() 23, [ADP]() 1), தான் ([PART]() 14, [PRON]() 2), ஆறு ([PART]() 7, [NUM]() 1), என்பது ([PART]() 7, [X]() 1), ஆகக் ([PART]() 5, [ADV]() 3, [ADP]() 2), என்கிற ([PART]() 3, [ADJ]() 2), வரை ([ADP]() 5, [PART]() 2, [NOUN]() 1, [ADV]() 1), ஆகப் ([PART]() 1, [ADV]() 1)
 
@@ -53,7 +53,7 @@ The 10 most frequent ambiguous types:  ஆன ([PART]() 65, [ADP]() 4), ஆக (
 
 ## Morphology
 
-The form / lemma ratio of `PART` is 1.625000 (the average of all parts of speech is 1.557992).
+The form / lemma ratio of `PART` is 1.625000 (the average of all parts of speech is 1.558463).
 
 The 1st highest number of forms (13) was observed with the lemma “என்”: என, எனக், எனத், எனவ், என்கிற, என்பதால், என்பது, என்பதை, என்பதைய், என்ற, என்றால், என்று, என்ற்.
 
@@ -61,9 +61,9 @@ The 2nd highest number of forms (6) was observed with the lemma “ஆகு”:
 
 The 3rd highest number of forms (1) was observed with the lemma “ஆ”: ஆ.
 
-`PART` occurs with 8 features: [ta-feat/Negative]() (159; 24% instances), [ta-feat/VerbForm]() (159; 24% instances), [ta-feat/Tense]() (35; 5% instances), [ta-feat/Case]() (15; 2% instances), [ta-feat/Gender]() (15; 2% instances), [ta-feat/Number]() (15; 2% instances), [ta-feat/Person]() (15; 2% instances), [ta-feat/Mood]() (1; 0% instances)
+`PART` occurs with 8 features: [ta-feat/Polarity]() (159; 24% instances), [ta-feat/VerbForm]() (159; 24% instances), [ta-feat/Tense]() (35; 5% instances), [ta-feat/Case]() (15; 2% instances), [ta-feat/Gender]() (15; 2% instances), [ta-feat/Number]() (15; 2% instances), [ta-feat/Person]() (15; 2% instances), [ta-feat/Mood]() (1; 0% instances)
 
-`PART` occurs with 15 feature-value pairs: `Case=Acc`, `Case=Ins`, `Case=Nom`, `Gender=Neut`, `Mood=Cnd`, `Negative=Pos`, `Number=Sing`, `Person=3`, `Tense=Fut`, `Tense=Past`, `Tense=Pres`, `VerbForm=Fin`, `VerbForm=Ger`, `VerbForm=Inf`, `VerbForm=Part`
+`PART` occurs with 15 feature-value pairs: `Case=Acc`, `Case=Ins`, `Case=Nom`, `Gender=Neut`, `Mood=Cnd`, `Number=Sing`, `Person=3`, `Polarity=Pos`, `Tense=Fut`, `Tense=Past`, `Tense=Pres`, `VerbForm=Fin`, `VerbForm=Ger`, `VerbForm=Inf`, `VerbForm=Part`
 
 `PART` occurs with 8 feature combinations.
 The most frequent feature combination is `_` (495 tokens).
@@ -72,21 +72,21 @@ Examples: உம், ஆன, ஆக, ஆகவ், போது, தான், �
 
 ## Relations
 
-`PART` nodes are attached to their parents using 9 different relations: [ta-dep/mark]() (258; 39% instances), [ta-dep/advmod:emph]() (231; 35% instances), [ta-dep/nmod]() (72; 11% instances), [ta-dep/cc]() (58; 9% instances), [ta-dep/advmod]() (28; 4% instances), [ta-dep/conj]() (4; 1% instances), [ta-dep/case]() (1; 0% instances), [ta-dep/compound:prt]() (1; 0% instances), [ta-dep/dobj]() (1; 0% instances)
+`PART` nodes are attached to their parents using 9 different relations: [ta-dep/mark]() (258; 39% instances), [ta-dep/advmod:emph]() (231; 35% instances), [ta-dep/nmod]() (72; 11% instances), [ta-dep/cc]() (58; 9% instances), [ta-dep/advmod]() (28; 4% instances), [ta-dep/conj]() (4; 1% instances), [ta-dep/case]() (1; 0% instances), [ta-dep/compound:prt]() (1; 0% instances), [ta-dep/obj]() (1; 0% instances)
 
-Parents of `PART` nodes belong to 9 different parts of speech: [VERB]() (278; 43% instances), [NOUN]() (257; 39% instances), [PROPN]() (41; 6% instances), [ADJ]() (32; 5% instances), [PART]() (19; 3% instances), [PRON]() (11; 2% instances), [AUX]() (7; 1% instances), [NUM]() (6; 1% instances), [ADV]() (3; 0% instances)
+Parents of `PART` nodes belong to 9 different parts of speech: [VERB]() (278; 43% instances), [NOUN]() (262; 40% instances), [PROPN]() (36; 6% instances), [ADJ]() (32; 5% instances), [PART]() (19; 3% instances), [PRON]() (11; 2% instances), [AUX]() (7; 1% instances), [NUM]() (6; 1% instances), [ADV]() (3; 0% instances)
 
 545 (83%) `PART` nodes are leaves.
 
-93 (14%) `PART` nodes have one child.
+91 (14%) `PART` nodes have one child.
 
-8 (1%) `PART` nodes have two children.
+7 (1%) `PART` nodes have two children.
 
-8 (1%) `PART` nodes have three or more children.
+11 (2%) `PART` nodes have three or more children.
 
 The highest child degree of a `PART` node is 5.
 
-Children of `PART` nodes are attached using 14 different relations: [ta-dep/nmod]() (79; 55% instances), [ta-dep/advcl]() (13; 9% instances), [ta-dep/advmod:emph]() (10; 7% instances), [ta-dep/acl]() (8; 6% instances), [ta-dep/punct]() (7; 5% instances), [ta-dep/dobj]() (6; 4% instances), [ta-dep/conj]() (4; 3% instances), [ta-dep/nummod]() (4; 3% instances), [ta-dep/cc]() (3; 2% instances), [ta-dep/nsubj]() (3; 2% instances), [ta-dep/advmod]() (2; 1% instances), [ta-dep/mark]() (2; 1% instances), [ta-dep/case]() (1; 1% instances), [ta-dep/ccomp]() (1; 1% instances)
+Children of `PART` nodes are attached using 15 different relations: [ta-dep/nmod]() (56; 39% instances), [ta-dep/obl]() (23; 16% instances), [ta-dep/advcl]() (13; 9% instances), [ta-dep/advmod:emph]() (10; 7% instances), [ta-dep/acl]() (8; 6% instances), [ta-dep/punct]() (8; 6% instances), [ta-dep/obj]() (6; 4% instances), [ta-dep/conj]() (4; 3% instances), [ta-dep/nummod]() (4; 3% instances), [ta-dep/cc]() (3; 2% instances), [ta-dep/nsubj]() (3; 2% instances), [ta-dep/advmod]() (2; 1% instances), [ta-dep/mark]() (2; 1% instances), [ta-dep/case]() (1; 1% instances), [ta-dep/ccomp]() (1; 1% instances)
 
-Children of `PART` nodes belong to 8 different parts of speech: [NOUN]() (78; 55% instances), [VERB]() (23; 16% instances), [PART]() (19; 13% instances), [PROPN]() (10; 7% instances), [PUNCT]() (7; 5% instances), [NUM]() (4; 3% instances), [ADP]() (1; 1% instances), [PRON]() (1; 1% instances)
+Children of `PART` nodes belong to 8 different parts of speech: [NOUN]() (78; 54% instances), [VERB]() (23; 16% instances), [PART]() (19; 13% instances), [PROPN]() (10; 7% instances), [PUNCT]() (8; 6% instances), [NUM]() (4; 3% instances), [ADP]() (1; 1% instances), [PRON]() (1; 1% instances)
 

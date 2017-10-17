@@ -6,43 +6,49 @@
 
 This relation is universal.
 
-4430 nodes (3%) are attached to their parents as `cc`.
+3481 nodes (3%) are attached to their parents as `cc`.
 
-4158 instances of `cc` (94%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.92325056433409.
+3264 instances of `cc` (94%) are left-to-right (parent precedes child).
+Average distance between parent and child is 4.64550416546969.
 
-The following 34 pairs of parts of speech are connected with `cc`: [gl-pos/NOUN]()-[gl-pos/CONJ]() (1716; 39% instances), [gl-pos/VERB]()-[gl-pos/CONJ]() (1189; 27% instances), [gl-pos/ADP]()-[gl-pos/CONJ]() (588; 13% instances), [gl-pos/ADJ]()-[gl-pos/CONJ]() (500; 11% instances), [gl-pos/NUM]()-[gl-pos/CONJ]() (106; 2% instances), [gl-pos/PROPN]()-[gl-pos/CONJ]() (103; 2% instances), [gl-pos/VERB]()-[gl-pos/ADV]() (46; 1% instances), [gl-pos/ADP]()-[gl-pos/ADV]() (42; 1% instances), [gl-pos/DET]()-[gl-pos/CONJ]() (31; 1% instances), [gl-pos/ADV]()-[gl-pos/CONJ]() (20; 0% instances), [gl-pos/NUM]()-[gl-pos/ADP]() (16; 0% instances), [gl-pos/ADJ]()-[gl-pos/ADV]() (9; 0% instances), [gl-pos/NOUN]()-[gl-pos/ADV]() (9; 0% instances), [gl-pos/ADP]()-[gl-pos/SCONJ]() (7; 0% instances), [gl-pos/DET]()-[gl-pos/ADV]() (6; 0% instances), [gl-pos/VERB]()-[gl-pos/SCONJ]() (6; 0% instances), [gl-pos/ADJ]()-[gl-pos/PRON]() (5; 0% instances), [gl-pos/VERB]()-[gl-pos/PRON]() (5; 0% instances), [gl-pos/ADP]()-[gl-pos/PRON]() (4; 0% instances), [gl-pos/PRON]()-[gl-pos/CONJ]() (4; 0% instances), [gl-pos/PART]()-[gl-pos/CONJ]() (3; 0% instances), [gl-pos/VERB]()-[gl-pos/ADP]() (2; 0% instances), [gl-pos/VERB]()-[gl-pos/DET]() (2; 0% instances), [gl-pos/ADJ]()-[gl-pos/ADP]() (1; 0% instances), [gl-pos/ADJ]()-[gl-pos/SCONJ]() (1; 0% instances), [gl-pos/ADP]()-[gl-pos/PUNCT]() (1; 0% instances), [gl-pos/ADV]()-[gl-pos/SCONJ]() (1; 0% instances), [gl-pos/DET]()-[gl-pos/ADP]() (1; 0% instances), [gl-pos/NOUN]()-[gl-pos/ADP]() (1; 0% instances), [gl-pos/NOUN]()-[gl-pos/PRON]() (1; 0% instances), [gl-pos/NUM]()-[gl-pos/SYM]() (1; 0% instances), [gl-pos/PROPN]()-[gl-pos/ADV]() (1; 0% instances), [gl-pos/PUNCT]()-[gl-pos/NUM]() (1; 0% instances), [gl-pos/SCONJ]()-[gl-pos/CONJ]() (1; 0% instances).
+The following 33 pairs of parts of speech are connected with `cc`: [gl-pos/NOUN]()-[gl-pos/CCONJ]() (1745; 50% instances), [gl-pos/VERB]()-[gl-pos/CCONJ]() (856; 25% instances), [gl-pos/ADJ]()-[gl-pos/CCONJ]() (472; 14% instances), [gl-pos/PROPN]()-[gl-pos/CCONJ]() (87; 2% instances), [gl-pos/NUM]()-[gl-pos/CCONJ]() (86; 2% instances), [gl-pos/ADP]()-[gl-pos/CCONJ]() (44; 1% instances), [gl-pos/VERB]()-[gl-pos/ADV]() (39; 1% instances), [gl-pos/NOUN]()-[gl-pos/ADV]() (32; 1% instances), [gl-pos/DET]()-[gl-pos/CCONJ]() (27; 1% instances), [gl-pos/ADV]()-[gl-pos/CCONJ]() (15; 0% instances), [gl-pos/ADJ]()-[gl-pos/ADV]() (10; 0% instances), [gl-pos/PRON]()-[gl-pos/CCONJ]() (10; 0% instances), [gl-pos/NUM]()-[gl-pos/ADP]() (9; 0% instances), [gl-pos/ADJ]()-[gl-pos/PRON]() (5; 0% instances), [gl-pos/VERB]()-[gl-pos/PRON]() (5; 0% instances), [gl-pos/ADJ]()-[gl-pos/SCONJ]() (4; 0% instances), [gl-pos/ADP]()-[gl-pos/ADV]() (4; 0% instances), [gl-pos/DET]()-[gl-pos/ADV]() (4; 0% instances), [gl-pos/NOUN]()-[gl-pos/PRON]() (4; 0% instances), [gl-pos/NOUN]()-[gl-pos/SCONJ]() (4; 0% instances), [gl-pos/VERB]()-[gl-pos/SCONJ]() (3; 0% instances), [gl-pos/PRON]()-[gl-pos/ADV]() (2; 0% instances), [gl-pos/SCONJ]()-[gl-pos/CCONJ]() (2; 0% instances), [gl-pos/VERB]()-[gl-pos/ADP]() (2; 0% instances), [gl-pos/VERB]()-[gl-pos/DET]() (2; 0% instances), [gl-pos/ADP]()-[gl-pos/SCONJ]() (1; 0% instances), [gl-pos/ADV]()-[gl-pos/SCONJ]() (1; 0% instances), [gl-pos/CCONJ]()-[gl-pos/CCONJ]() (1; 0% instances), [gl-pos/DET]()-[gl-pos/ADP]() (1; 0% instances), [gl-pos/NOUN]()-[gl-pos/ADP]() (1; 0% instances), [gl-pos/NOUN]()-[gl-pos/PUNCT]() (1; 0% instances), [gl-pos/PART]()-[gl-pos/CCONJ]() (1; 0% instances), [gl-pos/VERB]()-[gl-pos/NUM]() (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 3 cc	color:blue
-1	A	o	DET	DA0FS0	_	2	det	_	Treeler:spec
-2	unidade	unidade	NOUN	NCFS000	_	9	nsubj	_	Treeler:suj
-3	e	e	CONJ	CC	_	2	cc	_	Treeler:coord
-4	a	o	DET	DA0FS0	_	5	det	_	Treeler:spec
-5	flexibilidade	flexibilidade	NOUN	NCFS000	_	2	nmod	_	Treeler:sn
-6	de	de	ADP	SPS00	_	5	case	_	Treeler:sp
-7	o	o	DET	DA0MS0	_	8	det	_	Treeler:spec
-8	procedemento	procedemento	NOUN	NCMS000	_	6	nmod	_	Treeler:sn
-9	permiten	permitir	VERB	VMIP3P0	_	0	root	_	Treeler:sentence
-10	en	en	ADP	SPS00	_	9	case	_	Treeler:cc
-11	estes	este	DET	DD0MP0	_	12	det	_	Treeler:spec
-12	supostos	suposto	NOUN	NCMP000	_	10	nmod	_	Treeler:sn
-13	pasar	pasar	VERB	VMN0000	_	9	dobj	_	Treeler:cd
-14	de	de	ADP	SPS00	_	13	case	_	Treeler:cc
-15	forma	forma	NOUN	NCFS000	_	14	nmod	_	Treeler:sn
-16	rápida	rápido	ADJ	AQ0FS0	_	15	amod	_	Treeler:s.a
-17	e	e	CONJ	CC	_	16	cc	_	Treeler:coord
-18	simple	simple	ADJ	AQ0CS0	_	16	dep	_	Treeler:grup.a
-19	á	á	NOUN	NCFS000	_	15	dep	_	Treeler:grup.nom
-20	fase	fase	NOUN	NCFS000	_	19	amod	_	Treeler:s.a
-21	de	de	ADP	SPS00	_	20	case	_	Treeler:sp
-22	liquidación	liquidación	NOUN	NCFS000	_	21	nmod	_	Treeler:sn
-23	.	.	PUNCT	Fp	_	9	punct	_	Treeler:f
+# visual-style 14	bgColor:blue
+# visual-style 14	fgColor:white
+# visual-style 12	bgColor:blue
+# visual-style 12	fgColor:white
+# visual-style 12 14 cc	color:blue
+1	Como	como	SCONJ	CS	_	6	mark	_	Treeler:conj
+2	a	o	DET	DA0FS0	_	3	det	_	Treeler:spec
+3	hepatite	hepatite	NOUN	NCFS000	_	6	nsubj	_	Treeler:suj
+4	B	b	NOUN	NCMS000	_	3	amod	_	Treeler:s.a
+5	se	se	PRON	PP3CN000	_	6	obj	_	Treeler:cd
+6	transmite	transmitir	VERB	VMIP3S0	_	0	root	_	Treeler:sentence
+7	por	por	ADP	SPS00	_	8	case	_	Treeler:cc
+8	vía	vía	NOUN	NCFS000	_	6	obl	_	Treeler:sn
+9	parenteral	parenteral	ADJ	AQ0CS0	_	8	amod	_	SpaceAfter=No|Treeler:s.a
+10	,	,	PUNCT	Fc	_	12	punct	_	Treeler:f
+11	por	por	ADP	SPS00	_	12	case	_	Treeler:sp
+12	vía	vía	NOUN	NCFS000	_	8	nmod	_	Treeler:sn
+13	sexual	sexual	ADJ	AQ0CS0	_	12	amod	_	Treeler:s.a
+14	ou	ou	CCONJ	CC	_	12	cc	_	ToDo=cc-without-conj|Treeler:coord
+15	de	de	ADP	SPS00	_	16	case	_	Treeler:sp
+16	nai	nai	NOUN	NCFS000	_	12	nmod	_	Treeler:sn
+17	a	a	ADP	SPS00	_	18	case	_	Treeler:sp
+18	fillo	fillo	NOUN	NCMS000	_	16	nmod	_	SpaceAfter=No|Treeler:sn
+19	,	,	PUNCT	Fc	_	12	punct	_	Treeler:f
+20	estes	este	DET	DD0MP0	_	21	det	_	Treeler:spec
+21	portadores	portador	NOUN	NCMP000	_	23	nsubj	_	Treeler:suj
+22	crónicos	crónico	ADJ	AQ0MP0	_	21	amod	_	Treeler:s.a
+23	constitúen	constituír	VERB	VMIP3P0	_	6	ccomp	_	Treeler:S
+24	unha	un	DET	DI0FS0	_	25	det	_	Treeler:spec
+25	fonte	fonte	NOUN	NCFS000	_	23	obj	_	Treeler:cd
+26	de	de	ADP	SPS00	_	28	case	_	Treeler:sp
+27	posible	posible	ADJ	AQ0CS0	_	28	amod	_	Treeler:s.a
+28	contaxio	contaxio	NOUN	NCMS000	_	25	nmod	_	SpaceAfter=No|Treeler:sn
+29	.	.	PUNCT	Fp	_	6	punct	_	Treeler:f
 
 ~~~
 
@@ -50,56 +56,59 @@ The following 34 pairs of parts of speech are connected with `cc`: [gl-pos/NOUN]
 ~~~ conllu
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 1 cc	color:blue
-1	E	e	CONJ	CC	_	6	cc	_	Treeler:et
-2	a	o	DET	DA0FS0	_	3	det	_	Treeler:spec
-3	quen	quen	PRON	PR0CC000	_	6	case	_	Treeler:cc
-4	se	se	PRON	PP3CN000	_	6	iobj	_	Treeler:ci
-5	lle	lle	PRON	PP3CSD00	_	6	iobj	_	Treeler:ci
-6	pide	pedir	VERB	VMIP3S0	_	0	root	_	Treeler:sentence
-7	a	o	DET	DA0FS0	_	8	det	_	Treeler:spec
-8	fe	fe	NOUN	NCFS000	_	6	dobj	_	Treeler:cd
-9	de	de	ADP	SPS00	_	8	case	_	Treeler:sp
-10	bautismo	bautismo	NOUN	NCMS000	_	9	nmod	_	Treeler:sn
-11	?	?	PUNCT	Fit	_	6	punct	_	Treeler:f
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 1 cc	color:blue
+1	E	e	CCONJ	CC	_	3	cc	_	Treeler:et
+2	agora	agora	ADV	RG	_	3	case	_	Treeler:cc
+3	retomamos	retomar	VERB	VMIP1P0	_	0	root	_	Treeler:sentence
+4	a	o	DET	DA0FS0	_	5	det	_	Treeler:spec
+5	pregunta	pregunta	NOUN	NCFS000	_	3	obj	_	Treeler:cd
+6	de	de	ADP	SPS00	_	8	case	_	Treeler:sp
+7	o	o	DET	DA0MS0	_	8	det	_	Treeler:spec
+8	principio	principio	NOUN	NCMS000	_	5	nmod	_	SpaceAfter=No|Treeler:sn
+9	:	:	PUNCT	Fd	_	11	punct	_	Treeler:f
+10	son	ser	AUX	VSIP1S0	_	11	cop	_	Treeler:S
+11	nova	novo	ADJ	AQ0FS0	_	3	ccomp	_	Treeler:atr
+12	e	e	CCONJ	CC	_	11	cc	_	ToDo=cc-without-conj|Treeler:coord
+13	teño	ter	VERB	VMIP1S0	_	11	ccomp	_	Treeler:S
+14	unha	un	DET	DI0FS0	_	15	det	_	Treeler:spec
+15	idea	idea	NOUN	NCFS000	_	13	obj	_	Treeler:cd
+16	¿	¿	PUNCT	Fia	_	11	punct	_	SpaceAfter=No|Treeler:f
+17	e	e	CCONJ	CC	_	11	cc	_	ToDo=cc-without-conj|Treeler:coord
+18	agora	agora	ADV	RG	_	11	ccomp	_	Treeler:S
+19	que	que	SCONJ	CS	_	11	cc	_	SpaceAfter=No|ToDo=cc-without-conj|Treeler:et
+20	?	?	PUNCT	Fit	_	11	punct	_	Treeler:f
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 16	bgColor:blue
-# visual-style 16	fgColor:white
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 8 16 cc	color:blue
-1	Os	o	DET	DA0MP0	_	2	det	_	Treeler:spec
-2	datos	dato	NOUN	NCMP000	_	7	nsubj	_	Treeler:suj
-3	para	para	ADP	SPS00	_	2	case	_	Treeler:sp
-4	este	este	DET	DD0MS0	_	5	det	_	Treeler:spec
-5	traballo	traballo	NOUN	NCMS000	_	3	nmod	_	Treeler:sn
-6	foron	ser	VERB	VSIS3P0	_	7	aux	_	Treeler:v
-7	tomados	tomar	VERB	VMP00PM	_	0	root	_	Treeler:sentence
-8	de	de	ADP	SPS00	_	7	case	_	Treeler:cag
-9	a	o	DET	DA0FS0	_	10	det	_	Treeler:spec
-10	enquisa	enquisa	NOUN	NCFS000	_	8	nmod	_	Treeler:sn
-11	realizada	realizar	VERB	VMP00SF	_	10	ccomp	_	Treeler:S
-12	ás	á	NOUN	NCFP000	_	10	nmod	_	Treeler:sn
-13	pemes	pemes	PROPN	NP00000	_	12	nmod	_	Treeler:sn
-14	de	de	ADP	SPS00	_	12	case	_	Treeler:sp
-15	Vigo	vigo	PROPN	NP00000	_	14	nmod	_	Treeler:sn
-16	e	e	CONJ	CC	_	8	cc	_	Treeler:coord
-17	de	de	ADP	SPS00	_	8	case	_	Treeler:sp
-18	a	o	DET	DA0FS0	_	20	det	_	Treeler:spec
-19	súa	seu	DET	DP3FS0	_	20	det	_	Treeler:spec
-20	área	área	NOUN	NCFS000	_	17	nmod	_	Treeler:sn
-21	metropolitana	metropolitano	ADJ	AQ0FS0	_	20	amod	_	Treeler:s.a
-22	durante	durante	ADP	SPS00	_	20	case	_	Treeler:sp
-23	o	o	DET	DA0MS0	_	24	det	_	Treeler:spec
-24	ano	ano	NOUN	NCMS000	_	22	nmod	_	Treeler:sn
-25	2000	2000	NUM	Z	_	24	nmod	_	Treeler:sn
-26	.	.	PUNCT	Fp	_	7	punct	_	Treeler:f
+# visual-style 17	bgColor:blue
+# visual-style 17	fgColor:white
+# visual-style 11	bgColor:blue
+# visual-style 11	fgColor:white
+# visual-style 11 17 cc	color:blue
+1	E	e	CCONJ	CC	_	3	cc	_	Treeler:et
+2	agora	agora	ADV	RG	_	3	case	_	Treeler:cc
+3	retomamos	retomar	VERB	VMIP1P0	_	0	root	_	Treeler:sentence
+4	a	o	DET	DA0FS0	_	5	det	_	Treeler:spec
+5	pregunta	pregunta	NOUN	NCFS000	_	3	obj	_	Treeler:cd
+6	de	de	ADP	SPS00	_	8	case	_	Treeler:sp
+7	o	o	DET	DA0MS0	_	8	det	_	Treeler:spec
+8	principio	principio	NOUN	NCMS000	_	5	nmod	_	SpaceAfter=No|Treeler:sn
+9	:	:	PUNCT	Fd	_	11	punct	_	Treeler:f
+10	son	ser	AUX	VSIP1S0	_	11	cop	_	Treeler:S
+11	nova	novo	ADJ	AQ0FS0	_	3	ccomp	_	Treeler:atr
+12	e	e	CCONJ	CC	_	11	cc	_	ToDo=cc-without-conj|Treeler:coord
+13	teño	ter	VERB	VMIP1S0	_	11	ccomp	_	Treeler:S
+14	unha	un	DET	DI0FS0	_	15	det	_	Treeler:spec
+15	idea	idea	NOUN	NCFS000	_	13	obj	_	Treeler:cd
+16	¿	¿	PUNCT	Fia	_	11	punct	_	SpaceAfter=No|Treeler:f
+17	e	e	CCONJ	CC	_	11	cc	_	ToDo=cc-without-conj|Treeler:coord
+18	agora	agora	ADV	RG	_	11	ccomp	_	Treeler:S
+19	que	que	SCONJ	CS	_	11	cc	_	SpaceAfter=No|ToDo=cc-without-conj|Treeler:et
+20	?	?	PUNCT	Fit	_	11	punct	_	Treeler:f
 
 ~~~
 
@@ -112,27 +121,30 @@ The following 34 pairs of parts of speech are connected with `cc`: [gl-pos/NOUN]
 
 This relation is universal.
 
-776 nodes (3%) are attached to their parents as `cc`.
+462 nodes (3%) are attached to their parents as `cc`.
 
-752 instances of `cc` (97%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.86855670103093.
+462 instances of `cc` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.51948051948052.
 
-The following 20 pairs of parts of speech are connected with `cc`: [gl-pos/NOUN]()-[gl-pos/CONJ]() (289; 37% instances), [gl-pos/VERB]()-[gl-pos/CONJ]() (187; 24% instances), [gl-pos/ADJ]()-[gl-pos/CONJ]() (95; 12% instances), [gl-pos/PROPN]()-[gl-pos/CONJ]() (84; 11% instances), [gl-pos/VERB]()-[gl-pos/SCONJ]() (38; 5% instances), [gl-pos/NOUN]()-[gl-pos/SCONJ]() (18; 2% instances), [gl-pos/ADJ]()-[gl-pos/SCONJ]() (12; 2% instances), [gl-pos/NUM]()-[gl-pos/CONJ]() (11; 1% instances), [gl-pos/PRON]()-[gl-pos/CONJ]() (11; 1% instances), [gl-pos/NOUN]()-[gl-pos/ADV]() (8; 1% instances), [gl-pos/ADV]()-[gl-pos/CONJ]() (7; 1% instances), [gl-pos/PROPN]()-[gl-pos/SCONJ]() (4; 1% instances), [gl-pos/ADV]()-[gl-pos/SCONJ]() (2; 0% instances), [gl-pos/DET]()-[gl-pos/CONJ]() (2; 0% instances), [gl-pos/NOUN]()-[gl-pos/VERB]() (2; 0% instances), [gl-pos/PROPN]()-[gl-pos/ADV]() (2; 0% instances), [gl-pos/ADJ]()-[gl-pos/ADV]() (1; 0% instances), [gl-pos/ADP]()-[gl-pos/CONJ]() (1; 0% instances), [gl-pos/PRON]()-[gl-pos/SCONJ]() (1; 0% instances), [gl-pos/VERB]()-[gl-pos/ADV]() (1; 0% instances).
+The following 16 pairs of parts of speech are connected with `cc`: [gl-pos/NOUN]()-[gl-pos/CCONJ]() (167; 36% instances), [gl-pos/VERB]()-[gl-pos/CCONJ]() (122; 26% instances), [gl-pos/ADJ]()-[gl-pos/CCONJ]() (49; 11% instances), [gl-pos/PROPN]()-[gl-pos/CCONJ]() (37; 8% instances), [gl-pos/VERB]()-[gl-pos/SCONJ]() (20; 4% instances), [gl-pos/NOUN]()-[gl-pos/SCONJ]() (17; 4% instances), [gl-pos/NUM]()-[gl-pos/CCONJ]() (10; 2% instances), [gl-pos/ADV]()-[gl-pos/CCONJ]() (9; 2% instances), [gl-pos/NOUN]()-[gl-pos/ADV]() (8; 2% instances), [gl-pos/ADJ]()-[gl-pos/SCONJ]() (7; 2% instances), [gl-pos/PRON]()-[gl-pos/CCONJ]() (7; 2% instances), [gl-pos/DET]()-[gl-pos/CCONJ]() (3; 1% instances), [gl-pos/PRON]()-[gl-pos/SCONJ]() (2; 0% instances), [gl-pos/VERB]()-[gl-pos/ADV]() (2; 0% instances), [gl-pos/ADJ]()-[gl-pos/ADV]() (1; 0% instances), [gl-pos/PROPN]()-[gl-pos/SCONJ]() (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
-# visual-style 4 1 cc	color:blue
-1	e	e	CONJ	Cc	_	4	cc	_	_
-2	de	de	ADP	P	AdpType=Prep	4	case	_	_
-3	un	un	DET	Dims	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
-4	provocador	provocador	NOUN	Scms	Gender=Masc|Number=Sing	0	root	_	_
-5	a	a	ADP	P	AdpType=Prep	6	case	_	_
-6	outro	outro	PRON	Inms	Gender=Masc|Number=Sing|PronType=Ind	4	nmod	_	_
-7	.	.	PUNCT	Q.	_	4	punct	_	_
+# visual-style 4 3 cc	color:blue
+1	O	o	DET	Ddms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	peón	peón	NOUN	Scms	Gender=Masc|Number=Sing	5	nsubj	_	_
+3	ou	ou	CCONJ	Cc	_	4	cc	_	_
+4	trompo	trompo	NOUN	Scms	Gender=Masc|Number=Sing	2	conj	_	_
+5	baila	bailar	VERB	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	enriba	enriba	ADV	Wn	_	9	advmod	_	_
+7	de	de	ADP	P	AdpType=Prep	9	case	_	_
+8	un	un	DET	Dims	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	pé	pé	NOUN	Scms	Gender=Masc|Number=Sing	5	obl	_	SpaceAfter=No
+10	.	.	PUNCT	Q.	_	5	punct	_	_
 
 ~~~
 
@@ -140,36 +152,39 @@ The following 20 pairs of parts of speech are connected with `cc`: [gl-pos/NOUN]
 ~~~ conllu
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 4 cc	color:blue
-1	por	por	ADP	P	AdpType=Prep	2	mark	_	_
-2	emocionar	emocionar	VERB	V0f000	VerbForm=Inf	0	root	_	_
-3	nos	nos	PRON	Raa1ap	Case=Acc|Gender=Com|Number=Plur|Person=1|PronType=Clit	2	dobj	_	_
-4	e	e	CONJ	Cc	_	2	cc	_	_
-5	facer	facer	VERB	V0f000	VerbForm=Inf	2	conj	_	_
-6	nos	nos	PRON	Raa1ap	Case=Acc|Gender=Com|Number=Plur|Person=1|PronType=Clit	5	dobj	_	_
-7	sentir	sentir	VERB	V0f000	VerbForm=Inf	5	xcomp	_	_
-8	.	.	PUNCT	Q.	_	2	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
-# visual-style 6 7 cc	color:blue
-1	en_xeral	en_xeral	ADV	La0	_	3	advmod	_	_
-2	son	ser	VERB	Vpi30p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
-3	palabras	palabra	NOUN	Scfp	Gender=Fem|Number=Plur	0	root	_	_
-4	de	de	ADP	P	AdpType=Prep	5	case	_	_
-5	uso	uso	NOUN	Scms	Gender=Masc|Number=Sing	3	nmod	_	_
-6	técnico	técnico	ADJ	A0ms	Gender=Masc|Number=Sing	5	amod	_	_
-7	e	e	CONJ	Cc	_	6	cc	_	_
-8	científico	científico	ADJ	A0ms	Gender=Masc|Number=Sing	6	conj	_	_
-9	.	.	PUNCT	Q.	_	3	punct	_	_
+# visual-style 6 4 cc	color:blue
+1	Non	non	ADV	Wn	Polarity=Neg	2	advmod	_	_
+2	sucedeu	suceder	VERB	Vei30s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+3	iso	ese	PRON	Enns	Gender=Neut|Number=Sing|PronType=Dem	2	nsubj	_	_
+4	e	e	CCONJ	Cc	_	6	cc	_	_
+5	nós	nós	PRON	Rtn1ap	Case=Nom|Gender=Com|Number=Plur|Person=1|PronType=Prs	6	nsubj	_	_
+6	entramos	entrar	VERB	Vei10p	Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	2	conj	_	_
+7	en	en	ADP	P	AdpType=Prep	9	case	_	_
+8	o	o	DET	Ddms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	goberno	goberno	NOUN	Scms	Gender=Masc|Number=Sing	6	obl	_	SpaceAfter=No
+10	.	.	PUNCT	Q.	_	2	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 9 8 cc	color:blue
+1	En	en	ADP	P	AdpType=Prep	4	advmod	_	_
+2	xeral	xeral	ADJ	A0ms	Number=Sing	1	fixed	_	_
+3	son	ser	AUX	Vpi30p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+4	palabras	palabra	NOUN	Scfp	Gender=Fem|Number=Plur	0	root	_	_
+5	de	de	ADP	P	AdpType=Prep	6	case	_	_
+6	uso	uso	NOUN	Scms	Gender=Masc|Number=Sing	4	nmod	_	_
+7	técnico	técnico	ADJ	A0ms	Gender=Masc|Number=Sing	6	amod	_	_
+8	e	e	CCONJ	Cc	_	9	cc	_	_
+9	científico	científico	ADJ	A0ms	Gender=Masc|Number=Sing	7	conj	_	SpaceAfter=No
+10	.	.	PUNCT	Q.	_	4	punct	_	_
 
 ~~~
 

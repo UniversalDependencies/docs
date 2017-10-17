@@ -1,14 +1,15 @@
 ---
 layout: base
 title:  'Coordination in UD v2'
+udver: '2'
 ---
 
 # Coordination in UD v2
 
-Coordination is analyzed by having direct [u-dep/conj]() relations between conjuncts in accordance with the general principle of prioritizing relations between content word. In v1, the first conjunct was taken to be the head not only of all following conjuncts but also of any intervening coordinating conjunctions and punctuation. For v2, we propose the following changes:
+Coordination is analyzed by having direct [u-dep/conj]() relations between conjuncts in accordance with the general principle of prioritizing relations between content word. In v1, the first conjunct was taken to be the head not only of all following conjuncts but also of any intervening coordinating conjunctions and punctuation. For v2, we propose the following change:
 
 * Attach coordinating conjunctions and punctuation to the immediately succeding conjunct (instead of the first)
-* Allow coordination to be analyzed as a right-headed structure in languages that consistently allow gapping (only) in earlier conjuncts
+<!--* Allow coordination to be analyzed as a right-headed structure in languages that consistently allow gapping (only) in earlier conjuncts-->
 
 ## Attachment of coordinating conjunctions and punctuation
 
@@ -20,7 +21,7 @@ We will attach [u-dep/cc]() and internal [u-dep/punct]() to the immediately succ
 
 ~~~sdparse
 I love apples and bananas .
-dobj(love,apples)
+obj(love,apples)
 conj(apples,bananas)
 cc(bananas,and)
 ~~~
@@ -32,54 +33,66 @@ And he left .
 cc(left,And)
 ~~~
 
-## Right-headed coordination
+## Left- vs. right-headed coordination
 
-One of the arguments for analyzing coordination as a left-headed structure is that it facilitates the analysis of ellipsis, in particular gapping, in most languages:
+Although coordination is not really dependency relation, there are good arguments for treating the first conjunct as the head (see, for example, Mel'cuk, 1988). Treating it as a left-headed structure also facilitates the analysis of ellipsis, in particular gapping, in most languages:
 
 ~~~sdparse
 Mary won gold and Sue won bronze
 nsubj(won-2, Mary)
-dobj(won-2, gold)
+obj(won-2, gold)
 conj(won-2, won-6)
 cc(won-6, and)
 nsubj(won-6, Sue)
-dobj(won-6, bronze)
+obj(won-6, bronze)
 ~~~
 
 ~~~sdparse
 Mary won gold and Sue bronze
 nsubj(won, Mary)
-dobj(won, gold)
-conj/cc(won, and)
-conj/nsubj(won, Sue)
-conj/dobj(won, bronze)
+obj(won, gold)
+conj(won, Sue)
+cc(Sue, and)
+orphan(Sue, bronze)
 ~~~
 
-If the verb of the rightmost clause was treated as the root in the first sentence, there would be no parallel analysis of the second sentence.
-
-For the same reason, if a language consistently exhibits gapping in preceding (rather than following) clauses (see example in Turkish below), this may be an argument for treating coordination structures as right-headed in that language. If, on the other hand, the language allows gapping in both preceding and succeeding clauses, the default assumption of left-headedness should be maintained for coordination.
+If a language predominantly exhibits gapping in preceding (rather than following) clauses (see example in Turkish below), this could therefore be taken as an argument for treating coordination structures as right-headed in that language. 
 
 ~~~sdparse 
 Erkek kardeşi sadece bisiklet ama o araba aldı . \n Male sibling only bicycle but he car bought .
 nsubj(aldı, o)
-dobj(aldı, araba)
+obj(aldı, araba)
 cc(aldı, ama)
-conj>nsubj(aldı, kardeşi)
-conj>dobj(aldı, bisiklet)
+conj(aldı, kardeşi)
+orphan(kardeşi, bisiklet)
 compound(kardeşi, Erkek)
 ~~~
 
-Analysing this Turkish example as left headed conjunction would mean having ellipsis from the root, something like:
+Analysing this Turkish example as left-headed conjunction has the drawback that the root becomes a promoted dependent in the first clause, instead of the verb in the second clause:
 
 ~~~sdparse 
-ROOT Erkek kardeşi sadece bisiklet ama o araba aldı . \n Male sibling only bicycle but he car bought .
+Erkek kardeşi sadece bisiklet ama o araba aldı . \n Male sibling only bicycle but he car bought .
 nsubj(aldı, o)
-dobj(aldı, araba)
+obj(aldı, araba)
 cc(aldı, ama)
-root>dobj(ROOT, bisiklet)
-root>nsubj(ROOT, kardeşi)
-root>conj(ROOT, aldı)
+conj(kardeşi, aldı)
+orphan(kardeşi, bisiklet)
 compound(kardeşi, Erkek)
 ~~~
 
-It is important to note that we do not allow a mix of left-headed and right-headed analyses in one and the same language. The universal default for coordination is to treat the first (or leftmost) conjunct as the head. If a language makes an exception from this default, it must use the exceptional (right-headed) analysis for all coordination structures.
+However, since most languages allow gapping (or similar cases in ellipsis) both in the first and in the second clause/phrase, the advantage of having a single direction for `conj` relations, both within and across languages,
+outweighs the disadvantage of having a promoted dependent as root in some elliptic structures. We therefore maintain
+the consistently left-headed analysis of coordination for all languages. 
+
+For reference, here is an English example of left ellipsis:
+
+~~~sdparse
+one green and two red cars
+nummod(green, one)
+conj(green, cars)
+cc(cars, and)
+nummod(cars, two)
+amod(cars, red)
+~~~
+
+Analogous to the Turkish example, we here end up with an adjective as the head of the noun phrase, even though there is a noun in the second conjunct. We consider this an acceptable price for preserving the consistent direction of `conj` relations.

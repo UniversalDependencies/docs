@@ -6,7 +6,7 @@ permalink: lv/overview/introduction.html
 
 # Introduction
 
-Latvian UD Treebank is based on newswire section of the Latvian Treebank. Latvian Treebank was created 2010-2014 in the University of Latvia, Institute of Mathematics and Computer Science. Latvian Treebank is annotated according to an in-house hybrid annotation model and then automatically transformed to UD.
+Latvian UD Treebank is based on the Latvian Treebank. Latvian Treebank was created 2010-2014 in the University of Latvia, Institute of Mathematics and Computer Science. Latvian Treebank is annotated according to an in-house hybrid annotation model and then automatically transformed to UD.
 
 Annotations in Latvian Treebank:
 
@@ -25,13 +25,17 @@ Annotations in Latvian UD Treebank:
 7. HEAD: Head of the current token is automatically induced from original annotations.
 8. DEPREL: Universal Stanford dependency relation to the HEAD is automatically induced from original annotation.
 9. DEPS: Not used.
-10. MISC: Curently only "SpaceAfter=No" is used.
+10. MISC: Curently only `SpaceAfter=No` and (since UDv2.0) `NewPar=Yes` are used.
 
 ## Acknowledgements
+
+This work was partially supported by European Regional Development Fund under grant agreement No. 1.1.1.1/16/A/219 (Full Stack of Language Resources for Natural Language Understanding and Generation in Latvian).
 
 Data convertions is done by Lauma Pretkalniņa with the help of Baiba Saulīte. Latvian Treebank was created by Laura Rituma, Lauma Pretkalniņa and Baiba Saulīte.
 
 ## References
+
+Pretkalniņa L., Rituma L., Saulīte B. Universal Dependency Treebank for Latvian: A Pilot. Proceedings of the 7th International Conference on Human Language Technologies — the Baltic Perspective (HLT 2016), Frontiers in Artificial Intelligence and Applications, Vol. 289, IOS Press, 2016, pp. 136–143
 
 Pretkalniņa L., Rituma L. Constructions in Latvian Treebank: the Impact of Annotation Decisions on the Dependency Parsing Performance Proceedings of the 6th International Conference on Human Language Technologies — the Baltic Perspective (HLT 2014), Frontiers in Artificial Intelligence and Applications, Vol. 268, IOS Press, 2014, pp. 219–226
 

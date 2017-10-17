@@ -7,49 +7,49 @@
 This feature is universal.
 It occurs with 2 different values: `Anim`, `Inan`.
 
-2220 tokens (2%) have a non-empty value of `Animacy`.
-1134 types (4%) occur at least once with a non-empty value of `Animacy`.
-1080 lemmas (6%) occur at least once with a non-empty value of `Animacy`.
-The feature is used with 2 part-of-speech tags: [sl-pos/NOUN]() (1958; 1% instances), [sl-pos/PROPN]() (262; 0% instances).
+2010 tokens (2%) have a non-empty value of `Animacy`.
+1058 types (4%) occur at least once with a non-empty value of `Animacy`.
+1006 lemmas (6%) occur at least once with a non-empty value of `Animacy`.
+The feature is used with 2 part-of-speech tags: [sl-pos/NOUN]() (1770; 1% instances), [sl-pos/PROPN]() (240; 0% instances).
 
 ### `NOUN`
 
-1958 [sl-pos/NOUN]() tokens (6% of all `NOUN` tokens) have a non-empty value of `Animacy`.
+1770 [sl-pos/NOUN]() tokens (7% of all `NOUN` tokens) have a non-empty value of `Animacy`.
 
-The most frequent other feature values with which `NOUN` and `Animacy` co-occurred: <tt><a href="Gender.html">Gender</a>=Masc</tt> (1958; 100%), <tt><a href="Case.html">Case</a>=Acc</tt> (1958; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (1958; 100%).
+The most frequent other feature values with which `NOUN` and `Animacy` co-occurred: <tt><a href="Case.html">Case</a>=Acc</tt> (1770; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (1770; 100%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (1770; 100%).
 
 `NOUN` tokens may have the following values of `Animacy`:
 
-* `Anim` (209; 11% of non-empty `Animacy`): <em>otroka, predsednika, človeka, duha, moža, prijatelja, boga, bolnika, nasprotnika, sina</em>
-* `Inan` (1749; 89% of non-empty `Animacy`): <em>dan, čas, način, primer, denar, del, sistem, svet, teden, konec</em>
-* `EMPTY` (28181): <em>leta, let, strani, dela, leto, letih, ljudi, življenje, delu, tolarjev</em>
+* `Anim` (194; 11% of non-empty `Animacy`): <em>otroka, predsednika, človeka, duha, moža, boga, bolnika, prijatelja, sina, lastnika</em>
+* `Inan` (1576; 89% of non-empty `Animacy`): <em>dan, način, čas, primer, denar, del, teden, predlog, sistem, prostor</em>
+* `EMPTY` (25380): <em>leta, let, strani, dela, letih, leto, delu, ljudi, življenje, tolarjev</em>
 
 <table>
   <tr><th>Paradigm <i>duh</i></th><th><tt>Anim</tt></th><th><tt>Inan</tt></th></tr>
   <tr><td><tt></tt></td><td><em>duha</em></td><td><em>duh</em></td></tr>
 </table>
 
-`Animacy` seems to be **lexical feature** of `NOUN`. 100% lemmas (849) occur only with one value of `Animacy`.
+`Animacy` seems to be **lexical feature** of `NOUN`. 100% lemmas (795) occur only with one value of `Animacy`.
 
 ### `PROPN`
 
-262 [sl-pos/PROPN]() tokens (6% of all `PROPN` tokens) have a non-empty value of `Animacy`.
+240 [sl-pos/PROPN]() tokens (6% of all `PROPN` tokens) have a non-empty value of `Animacy`.
 
-The most frequent other feature values with which `PROPN` and `Animacy` co-occurred: <tt><a href="Gender.html">Gender</a>=Masc</tt> (262; 100%), <tt><a href="Case.html">Case</a>=Acc</tt> (262; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (262; 100%).
+The most frequent other feature values with which `PROPN` and `Animacy` co-occurred: <tt><a href="Case.html">Case</a>=Acc</tt> (240; 100%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (240; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (240; 100%).
 
 `PROPN` tokens may have the following values of `Animacy`:
 
-* `Anim` (171; 65% of non-empty `Animacy`): <em>Andreja, Billyja, Henrika, Boja, Damijana, Filipa, Francija, Hočevarja, Janeza, Johna</em>
-* `Inan` (91; 35% of non-empty `Animacy`): <em>Dunaj, Irak, Nato, Windows, Bruselj, JBX, Jeruzalem, Virtual, ATI, Afganistan</em>
-* `EMPTY` (4420): <em>Slovenije, Sloveniji, Slovenija, EU, Ljubljani, ZDA, Slovenijo, Evropi, Mariboru, LJUBLJANA</em>
+* `Anim` (157; 65% of non-empty `Animacy`): <em>Andreja, Billyja, Henrika, Boja, Damijana, Filipa, Francija, Hočevarja, Janeza, Johna</em>
+* `Inan` (83; 35% of non-empty `Animacy`): <em>Dunaj, Irak, Nato, Bruselj, JBX, Jeruzalem, Windows, ATI, Afganistan, Antonio</em>
+* `EMPTY` (4058): <em>Slovenije, Sloveniji, Slovenija, EU, Ljubljani, Slovenijo, Evropi, ZDA, LJUBLJANA, Ljubljana</em>
 
-`Animacy` seems to be **lexical feature** of `PROPN`. 100% lemmas (229) occur only with one value of `Animacy`.
+`Animacy` seems to be **lexical feature** of `PROPN`. 100% lemmas (209) occur only with one value of `Animacy`.
 
 ## Relations with Agreement in `Animacy`
 
 The 10 most frequent relations where parent and child node agree in `Animacy`:
-<tt>PROPN --[<a href="../dep/name.html">name</a>]--> PROPN</tt> (50; 100%),
-<tt>PROPN --[<a href="../dep/conj.html">conj</a>]--> PROPN</tt> (23; 72%).
+<tt>PROPN --[<a href="../dep/flat:name.html">flat:name</a>]--> PROPN</tt> (47; 100%),
+<tt>PROPN --[<a href="../dep/conj.html">conj</a>]--> PROPN</tt> (22; 71%).
 
 
 
@@ -60,45 +60,44 @@ The 10 most frequent relations where parent and child node agree in `Animacy`:
 This feature is universal.
 It occurs with 2 different values: `Anim`, `Inan`.
 
-397 tokens (1%) have a non-empty value of `Animacy`.
-235 types (4%) occur at least once with a non-empty value of `Animacy`.
-235 lemmas (6%) occur at least once with a non-empty value of `Animacy`.
-The feature is used with 2 part-of-speech tags: [sl-pos/NOUN]() (372; 1% instances), [sl-pos/PROPN]() (25; 0% instances).
+256 tokens (1%) have a non-empty value of `Animacy`.
+171 types (4%) occur at least once with a non-empty value of `Animacy`.
+171 lemmas (6%) occur at least once with a non-empty value of `Animacy`.
+The feature is used with 2 part-of-speech tags: [sl-pos/NOUN]() (239; 1% instances), [sl-pos/PROPN]() (17; 0% instances).
 
 ### `NOUN`
 
-372 [sl-pos/NOUN]() tokens (10% of all `NOUN` tokens) have a non-empty value of `Animacy`.
+239 [sl-pos/NOUN]() tokens (10% of all `NOUN` tokens) have a non-empty value of `Animacy`.
 
-The most frequent other feature values with which `NOUN` and `Animacy` co-occurred: <tt><a href="Case.html">Case</a>=Acc</tt> (372; 100%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (372; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (372; 100%).
+The most frequent other feature values with which `NOUN` and `Animacy` co-occurred: <tt><a href="Gender.html">Gender</a>=Masc</tt> (239; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (239; 100%), <tt><a href="Case.html">Case</a>=Acc</tt> (238; 100%).
 
 `NOUN` tokens may have the following values of `Animacy`:
 
-* `Anim` (37; 10% of non-empty `Animacy`): <em>cimra, gospoda, otroka, sina, atija, babeka, dedca, duha, ekonomista, eksponenta</em>
-* `Inan` (335; 90% of non-empty `Animacy`): <em>dan, način, denar, izraz, petek, teden, primer, čas, konec, mesec</em>
-* `EMPTY` (3255): <em>bistvu, redu, strani, jutro, leto, stvari, evrov, koncu, gospod, hvala</em>
+* `Anim` (20; 8% of non-empty `Animacy`): <em>cimra, atija, babeka, dedca, fanta, gospoda, mentorja, ministra, najstnika, otroka</em>
+* `Inan` (219; 92% of non-empty `Animacy`): <em>dan, način, izraz, teden, petek, čas, denar, mesec, primer, večer</em>
+* `EMPTY` (2135): <em>redu, strani, jutro, bistvu, koncu, evrov, hvala, leta, ljudi, minut</em>
 
-`Animacy` seems to be **lexical feature** of `NOUN`. 100% lemmas (214) occur only with one value of `Animacy`.
+`Animacy` seems to be **lexical feature** of `NOUN`. 100% lemmas (155) occur only with one value of `Animacy`.
 
 ### `PROPN`
 
-25 [sl-pos/PROPN]() tokens (3% of all `PROPN` tokens) have a non-empty value of `Animacy`.
+17 [sl-pos/PROPN]() tokens (3% of all `PROPN` tokens) have a non-empty value of `Animacy`.
 
-The most frequent other feature values with which `PROPN` and `Animacy` co-occurred: <tt><a href="Gender.html">Gender</a>=Masc</tt> (25; 100%), <tt><a href="Case.html">Case</a>=Acc</tt> (25; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (25; 100%).
+The most frequent other feature values with which `PROPN` and `Animacy` co-occurred: <tt><a href="Number.html">Number</a>=Sing</tt> (17; 100%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (17; 100%), <tt><a href="Case.html">Case</a>=Acc</tt> (17; 100%).
 
 `PROPN` tokens may have the following values of `Animacy`:
 
-* `Anim` (8; 32% of non-empty `Animacy`): <em>arturja, boruca, giordanota, miklavža, petra, planinška, poljanška, sinclairja</em>
-* `Inan` (17; 68% of non-empty `Animacy`): <em>paranoid, rodik, triglav, erasmus, etnoblog, frutiq, ikš, lech, maribor, piran</em>
-* `EMPTY` (733): <em>[name:personal], [name:surname], slovenija, sloveniji, [name:address], jones, slovenije, tom, [name:organisation], david</em>
+* `Anim` (8; 47% of non-empty `Animacy`): <em>arturja, boruca, giordanota, miklavža, petra, planinška, poljanška, sinclairja</em>
+* `Inan` (9; 53% of non-empty `Animacy`): <em>rodik, etnoblog, lech, maribor, paranoid, triglav, utwo, zagreb</em>
+* `EMPTY` (478): <em>[name:personal], [name:surname], [name:address], david, healy, božjah, jones, karavanke, slovenije, sloveniji</em>
 
-`Animacy` seems to be **lexical feature** of `PROPN`. 100% lemmas (21) occur only with one value of `Animacy`.
+`Animacy` seems to be **lexical feature** of `PROPN`. 100% lemmas (16) occur only with one value of `Animacy`.
 
 ## Relations with Agreement in `Animacy`
 
 The 10 most frequent relations where parent and child node agree in `Animacy`:
-<tt>NOUN --[<a href="../dep/reparandum.html">reparandum</a>]--> NOUN</tt> (3; 60%),
-<tt>NOUN --[<a href="../dep/appos.html">appos</a>]--> NOUN</tt> (3; 60%),
+<tt>NOUN --[<a href="../dep/reparandum.html">reparandum</a>]--> NOUN</tt> (4; 100%),
 <tt>NOUN --[<a href="../dep/parataxis.html">parataxis</a>]--> NOUN</tt> (2; 67%),
-<tt>PROPN --[<a href="../dep/name.html">name</a>]--> PROPN</tt> (1; 100%),
+<tt>PROPN --[<a href="../dep/flat:name.html">flat:name</a>]--> PROPN</tt> (1; 100%),
 <tt>PROPN --[<a href="../dep/conj.html">conj</a>]--> PROPN</tt> (1; 100%).
 

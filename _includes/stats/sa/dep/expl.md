@@ -37,10 +37,10 @@ The following 2 pairs of parts of speech are connected with `expl`: [sa-pos/VERB
 # visual-style 2 1 expl	color:blue
 1	तत्र	तत्र	PRON	_	PronType=Dem	2	expl	_	Translit=tatra|LTranslit=tatra
 2	बभूवुः	भू	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	0	root	_	Translit=babhūvuḥ|LTranslit=bhū
-3	धर्म	धर्म	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	4	nmod	_	Translit=dharma|LTranslit=dharma
+3	धर्म	धर्म	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	4	obl	_	Translit=dharma|LTranslit=dharma
 4	उपार्जित	उप-र्ज्	VERB	_	Case=Voc|Gender=Neut|Number=Sing|VerbForm=Part	2	advcl	_	Translit=upārjita|LTranslit=upa-rj
 5	भुरि	भुरि	ADJ	_	Case=Acc|Gender=Neut|Number=Sing	6	amod	_	Translit=bhuri|LTranslit=bhuri
-6	विभवः	विभव	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	4	dobj	_	Translit=vibhavaḥ|LTranslit=vibhava
+6	विभवः	विभव	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	4	obj	_	Translit=vibhavaḥ|LTranslit=vibhava
 7	वर्ध्दमान	वर्ध्दमान	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	10	nmod	_	Translit=vardhdamāna|LTranslit=vardhdamāna
 8	नाम	नाम	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	10	nmod	_	Translit=nāma|LTranslit=nāma
 9	वणिक्	वणिक्	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	10	compound	_	Translit=vaṇik|LTranslit=vaṇik

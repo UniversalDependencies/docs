@@ -20,7 +20,7 @@ nmod(σταμάτησαν, αρχή)
 nmod(σταμάτησαν, τέλος)
 ~~~
 
-A small list of postpositions in fixed expressions are labeled with `case`. **TODO:** An alternative analysis would be to label them using the [mwe](mwe) relation.
+A small list of postpositions in fixed expressions are labeled with `case`. **TODO:** An alternative analysis would be to label them using the [mwe](fixed) relation.
 
 ~~~ sdparse
 λόγου χάριν 

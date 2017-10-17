@@ -4,56 +4,57 @@
 
 ## Treebank Statistics (UD_Vietnamese)
 
-There are 26 `DET` lemmas (0%), 26 `DET` types (0%) and 691 `DET` tokens (2%).
-Out of 13 observed tags, the rank of `DET` is: 10 in number of lemmas, 10 in number of types and 10 in number of tokens.
+There are 23 `DET` lemmas (0%), 23 `DET` types (0%) and 459 `DET` tokens (1%).
+Out of 14 observed tags, the rank of `DET` is: 10 in number of lemmas, 10 in number of types and 10 in number of tokens.
 
-The 10 most frequent `DET` lemmas: <em>những, các, mọi, mấy, mỗi, một_số, vài, toàn_bộ, tất_cả, nửa</em>
+The 10 most frequent `DET` lemmas: <em>những, các, mọi, mấy, một số, mỗi, vài, toàn bộ, tất cả, phần lớn</em>
 
-The 10 most frequent `DET` types:  <em>những, các, mọi, mấy, mỗi, một_số, vài, toàn_bộ, tất_cả, nửa</em>
+The 10 most frequent `DET` types:  <em>những, các, mọi, mấy, một số, mỗi, vài, toàn bộ, tất cả, phần lớn</em>
 
-The 10 most frequent ambiguous lemmas: <em>mọi</em> ([DET]() 31, [NOUN]() 3, [NUM]() 2), <em>mấy</em> ([DET]() 27, [NUM]() 1), <em>mỗi</em> ([NUM]() 20, [DET]() 18), <em>toàn_bộ</em> ([DET]() 5, [NOUN]() 1), <em>tất_cả</em> ([PROPN]() 17, [DET]() 3, [NOUN]() 1), <em>nửa</em> ([NUM]() 6, [DET]() 2), <em>phần_lớn</em> ([DET]() 2, [NOUN]() 1), <em>chút</em> ([DET]() 2, [NOUN]() 1), <em>hầu_hết</em> ([X]() 3, [DET]() 1), <em>một_chút</em> ([DET]() 1, [NOUN]() 1)
+The 10 most frequent ambiguous lemmas: <em>mọi</em> ([DET]() 24, [NOUN]() 3, [NUM]() 2), <em>mấy</em> ([DET]() 19, [NUM]() 1), <em>mỗi</em> ([NUM]() 11, [DET]() 8), <em>tất cả</em> ([PROPN]() 16, [DET]() 3), <em>phần lớn</em> ([DET]() 2, [NOUN]() 1), <em>nửa</em> ([NUM]() 3, [DET]() 1), <em>hầu hết</em> ([X]() 2, [DET]() 1), <em>một nửa</em> ([NUM]() 1, [DET]() 1), <em>toàn</em> ([X]() 2, [NOUN]() 1, [DET]() 1, [PROPN]() 1), <em>đôi</em> ([NUM]() 11, [DET]() 1)
 
-The 10 most frequent ambiguous types:  <em>mọi</em> ([DET]() 31, [NOUN]() 3, [NUM]() 2), <em>mấy</em> ([DET]() 27, [NUM]() 1), <em>mỗi</em> ([NUM]() 20, [DET]() 18), <em>toàn_bộ</em> ([DET]() 5, [NOUN]() 1), <em>tất_cả</em> ([PROPN]() 17, [DET]() 3, [NOUN]() 1), <em>nửa</em> ([NUM]() 6, [DET]() 2), <em>phần_lớn</em> ([DET]() 2, [NOUN]() 1), <em>chút</em> ([DET]() 2, [NOUN]() 1), <em>hầu_hết</em> ([X]() 3, [DET]() 1), <em>một_chút</em> ([DET]() 1, [NOUN]() 1)
+The 10 most frequent ambiguous types:  <em>mọi</em> ([DET]() 24, [NOUN]() 3, [NUM]() 2), <em>mấy</em> ([DET]() 19, [NUM]() 1), <em>mỗi</em> ([NUM]() 11, [DET]() 8), <em>tất cả</em> ([PROPN]() 16, [DET]() 3), <em>phần lớn</em> ([DET]() 2, [NOUN]() 1), <em>nửa</em> ([NUM]() 3, [DET]() 1), <em>hầu hết</em> ([X]() 2, [DET]() 1), <em>một nửa</em> ([NUM]() 1, [DET]() 1), <em>toàn</em> ([X]() 2, [PROPN]() 1, [NOUN]() 1, [DET]() 1), <em>đôi</em> ([NUM]() 11, [DET]() 1)
 
 
 * <em>mọi</em>
-  * [DET]() 31: <em>đám cháy từ đây lan đi <b>mọi</b> hướng .</em>
-  * [NOUN]() 3: <em>Nhưng Lan phải thành_thật kể hết <b>mọi</b> chuyện cho anh nghe .</em>
-  * [NUM]() 2: <em>ông Nguyễn_Thế_Khanh , chi_cục phó , cho biết đây là những mặt_hàng điện_tử cũ đã có qui_định cấm nhập_khẩu dưới <b>mọi</b> hình_thức .</em>
+  * [DET]() 24: <em>hải và chị Hằng tìm <b>mọi</b> cơ hội để xây dựng tình cảm cho hai thanh niên .</em>
+  * [NOUN]() 3: <em>Nhưng Lan phải thành thật kể hết <b>mọi</b> chuyện cho anh nghe .</em>
+  * [NUM]() 2: <em>ông Nguyễn Thế Khanh , chi cục phó , cho biết đây là những mặt hàng điện tử cũ đã có qui định cấm nhập khẩu dưới <b>mọi</b> hình thức .</em>
 * <em>mấy</em>
-  * [DET]() 27: <em>Trời thương <b>mấy</b> mùa sau trúng đậm , có tiền để mua thêm đất .</em>
-  * [NUM]() 1: <em>văn_phòng đăng_ký quyền sử_dụng đất : nên <b>mấy</b> loại ?</em>
+  * [DET]() 19: <em>như dự đoán của Thanh , <b>mấy</b> hôm sau Hùng gặp bà Loan thưa chuyện .</em>
+  * [NUM]() 1: <em>văn phòng đăng ký quyền sử dụng đất : nên <b>mấy</b> loại ?</em>
 * <em>mỗi</em>
-  * [NUM]() 20: <em>Đó như một lời nhắn_nhủ : chú hổ Lâm_Nhi là " tài_sản " của <b>mỗi</b> người .</em>
-  * [DET]() 18: <em>Như_vậy <b>mỗi</b> tổ đào <b>mỗi</b> bên 5 m .</em>
-* <em>toàn_bộ</em>
-  * [DET]() 5: <em>theo hợp_đồng , họ sẽ được nhận <b>toàn_bộ</b> số tiền bảo_hiểm từ hãng bảo_hiểm .</em>
-  * [NOUN]() 1: <em><b>toàn_bộ</b> các kcn đã được tỉnh giao hết cho các nhà_đầu_tư và các công_ty phát_triển kinh_doanh hạ_tầng .</em>
-* <em>tất_cả</em>
-  * [PROPN]() 17: <em><b>tất_cả</b> chỉ với hai cùi_tay cụt .</em>
-  * [DET]() 3: <em>Mới hay <b>tất_cả</b> chúng_tôi đã được hai ông_bà người Tàu mua đi bán lại từ người khác như những món hàng .</em>
-  * [NOUN]() 1: <em>già trẻ gái trai , nam phụ lão ấu , <b>tất_cả</b> không phân_biệt thành_phần đều rùng_rùng lao vào trận mới .</em>
+  * [NUM]() 11: <em>Hiện nay xã có 68 tổ nhân dân , <b>mỗi</b> tổ phụ trách 40 gia đình .</em>
+  * [DET]() 8: <em>Và <b>mỗi</b> đêm chỉ bấm hai , ba lần , <b>mỗi</b> lần cách nhau một tiếng .</em>
+* <em>tất cả</em>
+  * [PROPN]() 16: <em>Bác Hồ là hiện thân <b>tất cả</b> những gì tốt đẹp nhất .</em>
+  * [DET]() 3: <em>Mới hay <b>tất cả</b> chúng tôi đã được hai ông bà người Tàu mua đi bán lại từ người khác như những món hàng .</em>
+* <em>phần lớn</em>
+  * [DET]() 2: <em>Các đối tác <b>phần lớn</b> không ở Hà Nội và số còn lại không có khả năng xung đột quyền lợi ...</em>
+  * [NOUN]() 1: <em>Tuy nhiên , nhiều người dân đi chợ cho biết <b>phần lớn</b> đều là nông sản , thực phẩm Trung Quốc .</em>
 * <em>nửa</em>
-  * [NUM]() 6: <em>Nhưng chưa đến <b>nửa</b> tuần thì ông Chương đã vội_vã cầu_cứu Hùng .</em>
-  * [DET]() 2: <em>Viện bị bại_liệt <b>nửa</b> người .</em>
-* <em>phần_lớn</em>
-  * [DET]() 2: <em>Các đối_tác <b>phần_lớn</b> không ở Hà_Nội và số còn lại không có khả_năng xung_đột quyền_lợi ...</em>
-  * [NOUN]() 1: <em>Tuy_nhiên , nhiều người dân đi chợ cho biết <b>phần_lớn</b> đều là nông_sản , thực_phẩm Trung_Quốc .</em>
-* <em>chút</em>
-  * [DET]() 2: <em>khi cho mượn <b>chút</b> tiền , lúc gói tặng mấy trái cam .</em>
-  * [NOUN]() 1: <em>cứ thế các đoạn địa_đạo được nối rộng ra , mỗi ngày một <b>chút</b> .</em>
-* <em>hầu_hết</em>
-  * [X]() 3: <em>Các phương_tiện vận_chuyển <b>hầu_hết</b> là đặc_chủng hoặc giấy_phép đặc_biệt .</em>
-  * [DET]() 1: <em>dân trong ngõ này <b>hầu_hết</b> là giới lao_động và tiểu_thương .</em>
-* <em>một_chút</em>
-  * [DET]() 1: <em>đứa nào có bạn thì " chát_chít " ... ngoài phố <b>một_chút</b> rồi về .</em>
-  * [NOUN]() 1: <em>Riêng việc học đại_học tuy thiếu chính_xác <b>một_chút</b> LBKT vì đang học chứ không phải đã tốt_nghiệp RBKT , nhưng có_thể thông_cảm .</em>
+  * [NUM]() 3: <em>sang ngày thứ ba thì một đôi trai gái mới thuê nhà được <b>nửa</b> tháng có dấu hiệu khả nghi nhất .</em>
+  * [DET]() 1: <em>Viện bị bại liệt <b>nửa</b> người .</em>
+* <em>hầu hết</em>
+  * [X]() 2: <em>khi trở về , <b>hầu hết</b> tiếp tục làm việc tốt .</em>
+  * [DET]() 1: <em>dân trong ngõ này <b>hầu hết</b> là giới lao động và tiểu thương .</em>
+* <em>một nửa</em>
+  * [NUM]() 1: <em>Và cho đến lúc này cả hai cũng chỉ biết <b>một nửa</b> câu chuyện của chính nhà mình .</em>
+  * [DET]() 1: <em>Vấn đề chính là nếu ly dị thì <b>một nửa</b> tài sản của Nam , tương đương cả chục tỉ đồng , sẽ thuộc về người vợ .</em>
+* <em>toàn</em>
+  * [X]() 2: <em>" khi chuyển lên đại học tôi rất khổ vì cả trường <b>toàn</b> sinh viên sáng mắt , chỉ riêng tôi sinh viên mù .</em>
+  * [PROPN]() 1: <em>Không ai nghĩ thôn làng người Kơtu nơi Trường Sơn biên địa nay lại gồm <b>toàn</b> những ngôi nhà đẹp , kiên cố thế này .</em>
+  * [NOUN]() 1: <em>Hiện thời muốn đánh pháp , Nhật , ta chỉ cần một điều : <b>toàn</b> dân đoàn kết .</em>
+  * [DET]() 1: <em>sự kiện của ông đã làm <b>toàn</b> dân Pháp càng phẫn nộ với cuộc chiến chết chóc này .</em>
+* <em>đôi</em>
+  * [NUM]() 11: <em>với việc bỏ vốn một , lời gấp <b>đôi</b> , tư thương nào mà chẳng muốn làm .</em>
+  * [DET]() 1: <em>Những đứa trẻ chạy tung tăng trong con xóm nhỏ gọi nhau í ới bằng tiếng Việt , <b>đôi</b> lúc chúng lại pha tiếng Lào .</em>
 
 ## Morphology
 
 The form / lemma ratio of `DET` is 1.000000 (the average of all parts of speech is 1.000000).
 
-The 1st highest number of forms (1) was observed with the lemma “Bấy_nhiêu”: <em>Bấy_nhiêu</em>.
+The 1st highest number of forms (1) was observed with the lemma “Bấy nhiêu”: <em>Bấy nhiêu</em>.
 
 The 2nd highest number of forms (1) was observed with the lemma “Các”: <em>Các</em>.
 
@@ -64,17 +65,11 @@ The 3rd highest number of forms (1) was observed with the lemma “L”: <em>L</
 
 ## Relations
 
-`DET` nodes are attached to their parents using 4 different relations: [vi-dep/det]() (687; 99% instances), [vi-dep/nsubj]() (2; 0% instances), [vi-dep/dobj]() (1; 0% instances), [vi-dep/nmod]() (1; 0% instances)
+`DET` nodes are attached to their parents using 2 different relations: [vi-dep/det]() (457; 100% instances), [vi-dep/nsubj]() (2; 0% instances)
 
-Parents of `DET` nodes belong to 4 different parts of speech: [NOUN]() (673; 97% instances), [PROPN]() (9; 1% instances), [VERB]() (6; 1% instances), [ADJ]() (3; 0% instances)
+Parents of `DET` nodes belong to 4 different parts of speech: [NOUN]() (445; 97% instances), [PROPN]() (8; 2% instances), [VERB]() (5; 1% instances), [ADJ]() (1; 0% instances)
 
-689 (100%) `DET` nodes are leaves.
+459 (100%) `DET` nodes are leaves.
 
-2 (0%) `DET` nodes have one child.
-
-The highest child degree of a `DET` node is 1.
-
-Children of `DET` nodes are attached using 2 different relations: [vi-dep/case]() (1; 50% instances), [vi-dep/compound]() (1; 50% instances)
-
-Children of `DET` nodes belong to 2 different parts of speech: [ADP]() (1; 50% instances), [NOUN]() (1; 50% instances)
+The highest child degree of a `DET` node is 0.
 

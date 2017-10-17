@@ -2,47 +2,53 @@
 
 --------------------------------------------------------------------------------
 
-## Treebank Statistics (UD_Portuguese-Bosque)
+## Treebank Statistics (UD_Portuguese)
 
 This relation is a language-specific subtype of [nmod]().
 There are also 1 other language-specific subtypes of `nmod`: [nmod:tmod]().
 
-532 nodes (0%) are attached to their parents as `nmod:npmod`.
+447 nodes (0%) are attached to their parents as `nmod:npmod`.
 
-476 instances of `nmod:npmod` (89%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.41729323308271.
+398 instances of `nmod:npmod` (89%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.03355704697987.
 
-The following 21 pairs of parts of speech are connected with `nmod:npmod`: [pt-pos/NOUN]()-[pt-pos/NOUN]() (340; 64% instances), [pt-pos/PROPN]()-[pt-pos/PROPN]() (74; 14% instances), [pt-pos/ADV]()-[pt-pos/NOUN]() (26; 5% instances), [pt-pos/ADJ]()-[pt-pos/NOUN]() (17; 3% instances), [pt-pos/PROPN]()-[pt-pos/NOUN]() (16; 3% instances), [pt-pos/ADJ]()-[pt-pos/PROPN]() (10; 2% instances), [pt-pos/NUM]()-[pt-pos/NOUN]() (7; 1% instances), [pt-pos/PRON]()-[pt-pos/NOUN]() (7; 1% instances), [pt-pos/VERB]()-[pt-pos/NOUN]() (7; 1% instances), [pt-pos/NOUN]()-[pt-pos/PROPN]() (5; 1% instances), [pt-pos/ADV]()-[pt-pos/PRON]() (4; 1% instances), [pt-pos/NOUN]()-[pt-pos/PRON]() (4; 1% instances), [pt-pos/VERB]()-[pt-pos/PROPN]() (4; 1% instances), [pt-pos/PRON]()-[pt-pos/PRON]() (3; 1% instances), [pt-pos/DET]()-[pt-pos/NOUN]() (2; 0% instances), [pt-pos/ADJ]()-[pt-pos/SYM]() (1; 0% instances), [pt-pos/DET]()-[pt-pos/PROPN]() (1; 0% instances), [pt-pos/NOUN]()-[pt-pos/SYM]() (1; 0% instances), [pt-pos/PRON]()-[pt-pos/PROPN]() (1; 0% instances), [pt-pos/PROPN]()-[pt-pos/PRON]() (1; 0% instances), [pt-pos/SYM]()-[pt-pos/NOUN]() (1; 0% instances).
-
-
-~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 4 nmod:npmod	color:blue
-1	3	3	NUM	<card>|NUM|M|P|@>N	_	2	nummod	_	_
-2	milhões	milhão	NOUN	<np-def>|N|M|P|@NPHR	Gender=Masc|Number=Plur	0	root	_	_
-3	de	de	ADP	PRP|@N<ARG	_	2	nmod	_	_
-4	contos	conto	NOUN	<np-idf>|N|M|P|@N<	Gender=Masc|Number=Plur	2	nmod:npmod	_	_
-5	.	.	PUNCT	PU|@PU	_	2	punct	_	_
-
-~~~
+The following 26 pairs of parts of speech are connected with `nmod:npmod`: [pt-pos/NOUN]()-[pt-pos/NOUN]() (217; 49% instances), [pt-pos/SYM]()-[pt-pos/NOUN]() (93; 21% instances), [pt-pos/ADV]()-[pt-pos/NOUN]() (24; 5% instances), [pt-pos/PROPN]()-[pt-pos/PROPN]() (20; 4% instances), [pt-pos/PROPN]()-[pt-pos/NOUN]() (16; 4% instances), [pt-pos/ADJ]()-[pt-pos/NOUN]() (14; 3% instances), [pt-pos/ADJ]()-[pt-pos/PROPN]() (9; 2% instances), [pt-pos/NUM]()-[pt-pos/NOUN]() (7; 2% instances), [pt-pos/PRON]()-[pt-pos/NOUN]() (7; 2% instances), [pt-pos/NOUN]()-[pt-pos/PROPN]() (6; 1% instances), [pt-pos/VERB]()-[pt-pos/NOUN]() (5; 1% instances), [pt-pos/ADV]()-[pt-pos/PRON]() (4; 1% instances), [pt-pos/NOUN]()-[pt-pos/PRON]() (4; 1% instances), [pt-pos/VERB]()-[pt-pos/PROPN]() (4; 1% instances), [pt-pos/NOUN]()-[pt-pos/X]() (3; 1% instances), [pt-pos/ADP]()-[pt-pos/NOUN]() (2; 0% instances), [pt-pos/DET]()-[pt-pos/NOUN]() (2; 0% instances), [pt-pos/PRON]()-[pt-pos/PRON]() (2; 0% instances), [pt-pos/ADJ]()-[pt-pos/ADP]() (1; 0% instances), [pt-pos/ADJ]()-[pt-pos/SYM]() (1; 0% instances), [pt-pos/ADP]()-[pt-pos/ADP]() (1; 0% instances), [pt-pos/DET]()-[pt-pos/PROPN]() (1; 0% instances), [pt-pos/NOUN]()-[pt-pos/SYM]() (1; 0% instances), [pt-pos/PRON]()-[pt-pos/PROPN]() (1; 0% instances), [pt-pos/PROPN]()-[pt-pos/PRON]() (1; 0% instances), [pt-pos/SYM]()-[pt-pos/SYM]() (1; 0% instances).
 
 
 ~~~ conllu
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 7 nmod:npmod	color:blue
-1	Ex-jogadores	ex-jogador	NOUN	<np-idf>|N|M|P|@SUBJ>	Gender=Masc|Number=Plur	2	nsubj	_	_
-2	elogiam	elogiar	VERB	<mv>|V|PR|3P|IND|@FS-STA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-3	os	o	DET	<artd>|ART|M|P|@>N	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	4	det	_	_
-4	colunistas	colunista	NOUN	<np-def>|N|M|P|@<ACC	Gender=Masc|Number=Plur	2	dobj	_	_
-5	Telê	Telê	PROPN	<first-cjt>|PROP|M|S|@N<	Gender=Masc|Number=Sing	4	appos	_	_
-6	e	e	CONJ	<co-postnom>|KC|@CO	_	5	cc	_	_
-7	Cruyff	Cruyff	PROPN	PROP|M|S|@N<	Gender=Masc|Number=Sing	5	nmod:npmod	_	_
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 7 nmod:npmod	color:blue
+1	Lei	lei	NOUN	<np-idf>|N|F|S|@SUBJ>	Gender=Fem|Number=Sing	4	nsubj	_	_
+2	brasileira	brasileiro	ADJ	ADJ|F|S|@N<	Gender=Fem|Number=Sing	1	amod	_	_
+3	não	não	ADV	_	Polarity=Neg	4	advmod	_	_
+4	proíbe	proibir	VERB	<mv>|V|PR|3S|IND|@FS-STA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	a	o	DET	<artd>|ART|F|S|@>N	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	gravidez	gravidez	NOUN	<np-def>|N|F|S|@<ACC	Gender=Fem|Number=Sing	4	obj	_	_
+7	pós-menopausa	pós-menopausa	NOUN	<np-idf>|N|F|S|@N<	Gender=Fem|Number=Sing	6	nmod:npmod	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 8 nmod:npmod	color:blue
+1	As	o	DET	<artd>|ART|F|P|@>N	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	2	det	_	_
+2	agências	agência	NOUN	<np-def>|N|F|P|@SUBJ>	Gender=Fem|Number=Plur	3	nsubj	_	_
+3	movimentaram	movimentar	VERB	<mv>|V|PS/MQP|3P|IND|@FS-STA	Mood=Ind|Number=Plur|Person=3|VerbForm=Fin	0	root	_	_
+4	cerca	cerca	ADV	ADV|@>N	_	6	advmod	_	MWE=cerca_de
+5	de	de	ADP	PRP|@A<	_	4	obl	_	_
+6	US$	US$	SYM	_	Gender=Masc|Number=Plur	3	obj	_	_
+7	2,5	2,5	NUM	<card>|NUM|M|P|@>N	NumType=Card	8	nummod	_	_
+8	bilhões	bilhão	NOUN	<np-def>|N|M|P|@N<	Gender=Masc|Number=Plur	6	nmod:npmod	_	_
+9	em	em	ADP	PRP|@<ADVL	_	10	case	_	_
+10	90	90	NUM	<card>|NUM|M|S|@P<	NumType=Card	3	obl	_	SpaceAfter=No
+11	.	.	PUNCT	PU|@PU	_	3	punct	_	_
 
 ~~~
 
@@ -53,17 +59,17 @@ The following 21 pairs of parts of speech are connected with `nmod:npmod`: [pt-p
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 2 nmod:npmod	color:blue
-1	Um	um	NUM	<card>|NUM|M|S|@>N	_	2	nummod	_	_
-2	ano	ano	NOUN	<np-def>|N|M|S|@>A	Gender=Masc|Number=Sing	3	nmod:npmod	_	_
-3	depois	depois	ADV	ADV|@ADVL>	_	10	advmod	_	_
-4	,	,	PUNCT	PU|@PU	_	3	punct	_	_
-5	a	o	DET	<artd>|ART|F|S|@>N	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
-6	capital	capital	NOUN	<np-def>|N|F|S|@SUBJ>	Gender=Fem|Number=Sing	10	nsubj	_	_
-7	passa	passar	AUX	<aux>|V|PR|3S|IND|@FS-STA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	aux	_	_
-8	a	a	ADP	PRP|@PRT-AUX<	_	10	nmod	_	_
-9	ser	ser	VERB	<mv>|V|INF|@ICL-AUX<	VerbForm=Inf	10	cop	_	_
-10	Tóquio	Tóquio	PROPN	PROP|M|S|@<SC	Gender=Masc|Number=Sing	0	root	_	_
-11	.	.	PUNCT	PU|@PU	_	10	punct	_	_
+1	Foi	foi	ADV	<foc>|ADV|@FOC>	_	8	mark	_	_
+2	anos	ano	NOUN	<np-idf>|N|M|P|@>A	Gender=Masc|Number=Plur	3	nmod:npmod	_	_
+3	mais	mais	ADV	<KOMP>|<quant>|ADV|@>A	_	4	advmod	_	_
+4	tarde	tarde	ADV	ADV|@ADVL>	_	8	advmod	_	_
+5	que	que	ADV	<foc>|ADV|@<FOC	_	8	mark	_	_
+6	Hervé	Hervé	PROPN	_	Gender=Masc|Number=Sing	8	nsubj	_	MWE=Hervé_Guibert|MWEPOS=PROPN
+7	Guibert	Guibert	PROPN	_	Number=Sing	6	flat:name	_	_
+8	escreveu	escrever	VERB	<mv>|V|PS|3S|IND|@FS-STA	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+9	o	o	DET	<artd>|ART|M|S|@>N	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	livro	livro	NOUN	<np-def>|N|M|S|@<ACC	Gender=Masc|Number=Sing	8	obj	_	SpaceAfter=No
+11	.	.	PUNCT	PU|@PU	_	8	punct	_	_
 
 ~~~
 

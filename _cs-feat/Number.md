@@ -2,13 +2,25 @@
 layout: feature
 title: 'Number'
 shortdef: 'number'
+udver: '2'
 ---
+
+<table class="typeindex" border="1">
+<tr>
+  <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
+  <td><a href="#Coll">Coll</a></td>
+  <td><a href="#Dual">Dual</a></td>
+  <td><a href="#Plur">Plur</a></td>
+  <td><a href="#Ptan">Ptan</a></td>
+  <td><a href="#Sing">Sing</a></td>
+</tr>
+</table>
 
 `Number` is an inflectional feature of [nouns](cs-pos/NOUN) and
 other parts of speech ([adjectives](cs-pos/ADJ),
 [verbs](cs-pos/VERB)) that mark agreement with nouns.
 
-### `Sing`: singular number
+### <a name="Sing">`Sing`</a>: singular number
 
 A singular noun denotes one person, animal or thing.
 
@@ -18,7 +30,7 @@ A singular noun denotes one person, animal or thing.
 * _<b>mladá žena přišla</b>&nbsp;_ “a young woman came”
 * _<b>malé kuře přišlo</b>&nbsp;_ “a small chicken came”
 
-### `Plur`: plural number
+### <a name="Plur">`Plur`</a>: plural number
 
 A plural noun denotes several persons, animals or things.
 
@@ -28,7 +40,7 @@ A plural noun denotes several persons, animals or things.
 * _<b>mladé ženy přišly</b>&nbsp;_ “young women came”
 * _<b>malá kuřata přišla</b>&nbsp;_ “small chickens came”
 
-### `Dual`: dual number
+### <a name="Dual">`Dual`</a>: dual number
 
 A dual noun denotes two objects.
 The dual number has almost vanished from Czech with the exception
@@ -48,7 +60,7 @@ The numeral _sto&nbsp;_ “hundred” has also a special form of plural that is 
 * _dvě <b>stě</b>&nbsp;_ “two <b>hundred</b>”
 * _tři sta&nbsp;_ “three hundred”
 
-### `Ptan`: plurale tantum
+### <a name="Ptan">`Ptan`</a>: plurale tantum
 
 Some nouns appear only in the plural form even though they denote one
 thing (semantic singular); some tagsets mark this distinction.
@@ -62,7 +74,7 @@ nouns that are plurale tantum ([NumType]()`=Sets`).
 
 * _<b>nůžky, kalhoty</b>&nbsp;_ “scissors, pants”
 
-### `Coll`: collective / mass / singulare tantum
+### <a name="Coll">`Coll`</a>: collective / mass / singulare tantum
 
 Collective or mass or singulare tantum is a special case of
 singular. It applies to words that use grammatical singular to

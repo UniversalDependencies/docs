@@ -1,6 +1,7 @@
 ---
 layout: base
 title:  'Universal Dependencies'
+udver: '2'
 ---
 
 ## Introduction
@@ -13,6 +14,59 @@ universal part-of-speech tags (Petrov et al., 2012), and the Interset interlingu
 morphosyntactic tagsets (Zeman, 2008). The general philosophy is to provide a universal
 inventory of categories and guidelines to facilitate consistent annotation of similar
 constructions across languages, while allowing language-specific extensions when necessary.
+
+This is illustrated in the following parallel examples from English, Bulgarian, Czech and Swedish, 
+where the main grammatical relations involving a passive verb, a nominal subject and an oblique agent
+are the same, but where the concrete grammatical realization varies.
+
+~~~ conllu
+# visual-style 4 2 nsubj:pass	color:blue
+# visual-style 4 7 obl	color:blue
+1	The	the	DET	_	Definite=Def|PronType=Art	2	det	_	_
+2	dog	dog	NOUN	_	Gender=Neut|Number=Sing	4	nsubj:pass	_	_
+3	was	be	AUX	_	Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	4	aux:pass	_	_
+4	chased	chase	VERB	_	Tense=Past|VerbForm=Part	0	ROOT	_	_
+5	by	by	ADP	_	_	7	case	_	_
+6	the	the	DET	_	Definite=Def|PronType=Art	7	det	_	_
+7	cat	cat	NOUN	_	Gender=Neut|Number=Sing	4	obl	_	_
+8	.	.	PUNCT	_	_	4	punct	_	_
+
+~~~
+
+~~~ conllu
+# visual-style 3 1 nsubj:pass	color:blue
+# visual-style 3 5 obl	color:blue
+1	Кучето	куче	NOUN	_	Definite=Def|Gender=Neut|Number=Sing	3	nsubj:pass	_	_
+2	се	се	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	3	expl:pass	_	_
+3	преследваше	преследвам	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+4	от	от	ADP	_	_	5	case	_	_
+5	котката	котка	NOUN	_	Definite=Def|Gender=Fem|Number=Sing	3	obl	_	_
+6	.	.	PUNCT	_	_	3	punct	_	_
+
+~~~
+
+~~~ conllu
+# visual-style 3 1 nsubj:pass	color:blue
+# visual-style 3 4 obl	color:blue
+1	Pes	pes	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	3	nsubj:pass	_	_
+2	byl	být	AUX	_	Aspect=Imp|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	3	aux:pass	_	_
+3	honěn	honit	VERB	_	Aspect=Imp|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	0	root	_	_
+4	kočkou	kočka	NOUN	_	Case=Ins|Gender=Fem|Number=Sing	3	obl	_	_
+5	.	.	PUNCT	_	_	3	punct	_	_
+
+~~~
+
+~~~ conllu
+# visual-style 2 1 nsubj:pass	color:blue
+# visual-style 2 4 obl	color:blue
+1	Hunden	hund	NOUN	_	Definite=Def	2	nsubj:pass	_	_
+2	jagades	jaga	VERB	_	Tense=Past|Voice=Pass	0	root	_	_
+3	av	av	ADP	_	_	4	case	_	_
+4	katten	katt	NOUN	_	Definite=Def	2	obl	_	_
+5	.	.	PUNCT	_	_	2	punct	_	_
+
+~~~
+
 
 ## What is needed for UD to be successful?
 
@@ -72,7 +126,7 @@ UD is an open collaboration with many project members. The administrative struct
 
 * The project is coordinated by Joakim Nivre (aka chief cat herder).
 * Releases (including validation and documentation) are managed by Filip Ginter, Sampo Pyysalo and Dan Zeman.
-* Universal guidelines are managed by a small group of core members, currently consisting of Marie de Marneffe, Filip Ginter, Yoav Goldberg, Jan Hajic, Chris Manning, Ryan McDonald, Joakim Nivre, Slav Petrov, Sampo Pyysalo, Natalia Silveira, Reut Tsarfaty and Dan Zeman.
+* Universal guidelines are managed by a small group of core members, currently consisting of Marie de Marneffe, Filip Ginter, Yoav Goldberg, Jan Hajič, Chris Manning, Ryan McDonald, Joakim Nivre, Slav Petrov, Sampo Pyysalo, Sebastian Schuster, Natalia Silveira, Reut Tsarfaty, Fran Tyers and Dan Zeman.
 * Language-specific guidelines and treebanks are maintained by each specific language team. 
 * Issues are raised on GitHub and resolved through discussion and voting. 
 
@@ -98,8 +152,12 @@ UD is an open collaboration with many project members. The administrative struct
 * Janna Lipenkova and Milan Souček. 2014. [Converting Russian Dependency Treebank to Stanford Typed
 Dependencies Representation](http://www.aclweb.org/anthology/E14-4028). In *Proceedings of the 14th Conference of the European Chapter of the Association for Computational Linguistics*, pp. 143-147.
 
+* Marie-Catherine de Marneffe, Miriam Connor, Natalia Silveira, Samuel R. Bowman, Timothy Dozat, and Christopher D. Manning. 2013.
+  [More constructions, more genres: extending Stanfod Dependencies](http://anthology.aclweb.org/W/W13/W13-3721.pdf).
+  In *Proceedings of the Second International Conference on Dependency Linguistics (DepLing 2013)*.
+
 * Marie-Catherine de Marneffe, Timothy Dozat, Natalia Silveira, Katri
-  Haverinen, Filip Ginter, Joakim Nivre, and Christopher Manning. 2014.
+  Haverinen, Filip Ginter, Joakim Nivre, and Christopher D. Manning. 2014.
   [Universal Stanford Dependencies: A cross-linguistic
   typology](http://nlp.stanford.edu/pubs/USD_LREC14_paper_camera_ready.pdf).
   In *Proceedings of LREC*.
@@ -130,6 +188,8 @@ Dependencies Representation](http://www.aclweb.org/anthology/E14-4028). In *Proc
 * Joakim Nivre. 2015. Towards a Universal Grammar for Natural Language Processing. *Computational Linguistics and Intelligent Text Processing*.
 
 * Joakim Nivre, Marie-Catherine de Marneffe, Filip Ginter, Yoav Goldberg, Jan Hajič, Christopher D. Manning, Ryan McDonald, Slav Petrov, Sampo Pyysalo, Natalia Silveira, Reut Tsarfaty, Daniel Zeman. 2016. [Universal Dependencies v1: A Multilingual Treebank Collection](http://www.lrec-conf.org/proceedings/lrec2016/pdf/348_Paper.pdf). In *Proceedings of LREC*.
+
+* Petya Osenova and Kiril Simov. 2015. Universalizing BulTreeBank: a Linguistic Tale about Glocalization.(http://www.aclweb.org/anthology/W/W15/W15-5313.pdf). In: *Proceedings of BSNLP* 2015, Hissar, Bulgaria, pp. 81–89.
 
 * Slav Petrov, Dipanjan Das, and Ryan McDonald. 2012. [A universal
   part-of-speech tagset](http://www.petrovi.de/data/universal.pdf).

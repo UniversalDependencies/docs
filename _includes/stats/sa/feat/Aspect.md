@@ -16,7 +16,7 @@ The feature is used with 3 part-of-speech tags: [sa-pos/VERB]() (18; 1% instance
 
 18 [sa-pos/VERB]() tokens (8% of all `VERB` tokens) have a non-empty value of `Aspect`.
 
-The most frequent other feature values with which `VERB` and `Aspect` co-occurred: <tt><a href="Case.html">Case</a>=EMPTY</tt> (18; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (18; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (18; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (16; 89%), <tt><a href="Voice.html">Voice</a>=Act</tt> (15; 83%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (15; 83%), <tt><a href="Person.html">Person</a>=1</tt> (12; 67%).
+The most frequent other feature values with which `VERB` and `Aspect` co-occurred: <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (18; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (18; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (18; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (16; 89%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (15; 83%), <tt><a href="Voice.html">Voice</a>=Act</tt> (15; 83%), <tt><a href="Person.html">Person</a>=1</tt> (12; 67%).
 
 `VERB` tokens may have the following values of `Aspect`:
 
@@ -27,7 +27,7 @@ The most frequent other feature values with which `VERB` and `Aspect` co-occurre
 
 1 [sa-pos/NOUN]() tokens (0% of all `NOUN` tokens) have a non-empty value of `Aspect`.
 
-The most frequent other feature values with which `NOUN` and `Aspect` co-occurred: <tt><a href="Case.html">Case</a>=EMPTY</tt> (1; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (1; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (1; 100%).
+The most frequent other feature values with which `NOUN` and `Aspect` co-occurred: <tt><a href="Number.html">Number</a>=Sing</tt> (1; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (1; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (1; 100%).
 
 `NOUN` tokens may have the following values of `Aspect`:
 
@@ -38,7 +38,7 @@ The most frequent other feature values with which `NOUN` and `Aspect` co-occurre
 
 1 [sa-pos/X]() tokens (5% of all `X` tokens) have a non-empty value of `Aspect`.
 
-The most frequent other feature values with which `X` and `Aspect` co-occurred: <tt><a href="Case.html">Case</a>=EMPTY</tt> (1; 100%), <tt><a href="Voice.html">Voice</a>=Act</tt> (1; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (1; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (1; 100%), <tt><a href="VerbForm.html">VerbForm</a>=EMPTY</tt> (1; 100%), <tt><a href="Person.html">Person</a>=1</tt> (1; 100%).
+The most frequent other feature values with which `X` and `Aspect` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=EMPTY</tt> (1; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (1; 100%), <tt><a href="Voice.html">Voice</a>=Act</tt> (1; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (1; 100%), <tt><a href="Person.html">Person</a>=1</tt> (1; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (1; 100%).
 
 `X` tokens may have the following values of `Aspect`:
 

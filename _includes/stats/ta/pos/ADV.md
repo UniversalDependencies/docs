@@ -53,7 +53,7 @@ The 10 most frequent ambiguous types:  ஆக ([PART]() 64, [ADP]() 35, [ADV]() 
 
 ## Morphology
 
-The form / lemma ratio of `ADV` is 1.089041 (the average of all parts of speech is 1.557992).
+The form / lemma ratio of `ADV` is 1.089041 (the average of all parts of speech is 1.558463).
 
 The 1st highest number of forms (3) was observed with the lemma “ஆகு”: ஆக, ஆகக், ஆகப்.
 
@@ -80,7 +80,7 @@ Parents of `ADV` nodes belong to 7 different parts of speech: [VERB]() (304; 80%
 
 The highest child degree of a `ADV` node is 5.
 
-Children of `ADV` nodes are attached using 11 different relations: [ta-dep/nmod]() (44; 52% instances), [ta-dep/amod]() (11; 13% instances), [ta-dep/advcl]() (9; 11% instances), [ta-dep/advmod]() (9; 11% instances), [ta-dep/nsubj]() (4; 5% instances), [ta-dep/dobj]() (3; 4% instances), [ta-dep/advmod:emph]() (1; 1% instances), [ta-dep/appos]() (1; 1% instances), [ta-dep/aux]() (1; 1% instances), [ta-dep/mark]() (1; 1% instances), [ta-dep/nummod]() (1; 1% instances)
+Children of `ADV` nodes are attached using 13 different relations: [ta-dep/obl]() (36; 42% instances), [ta-dep/amod]() (11; 13% instances), [ta-dep/nmod]() (11; 13% instances), [ta-dep/advcl]() (9; 11% instances), [ta-dep/advmod]() (5; 6% instances), [ta-dep/nsubj]() (4; 5% instances), [ta-dep/obj]() (3; 4% instances), [ta-dep/advmod:emph]() (1; 1% instances), [ta-dep/appos]() (1; 1% instances), [ta-dep/aux]() (1; 1% instances), [ta-dep/det]() (1; 1% instances), [ta-dep/mark]() (1; 1% instances), [ta-dep/nummod]() (1; 1% instances)
 
-Children of `ADV` nodes belong to 9 different parts of speech: [NOUN]() (41; 48% instances), [ADJ]() (11; 13% instances), [VERB]() (9; 11% instances), [PRON]() (8; 9% instances), [ADV]() (5; 6% instances), [NUM]() (4; 5% instances), [PART]() (3; 4% instances), [PROPN]() (3; 4% instances), [AUX]() (1; 1% instances)
+Children of `ADV` nodes belong to 10 different parts of speech: [NOUN]() (41; 48% instances), [ADJ]() (11; 13% instances), [VERB]() (9; 11% instances), [PRON]() (6; 7% instances), [ADV]() (5; 6% instances), [NUM]() (4; 5% instances), [PART]() (3; 4% instances), [PROPN]() (3; 4% instances), [DET]() (2; 2% instances), [AUX]() (1; 1% instances)
 

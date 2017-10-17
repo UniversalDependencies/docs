@@ -2,6 +2,7 @@
 layout: relation
 title: 'advmod'
 shortdef: 'adverbial modifier'
+udver: '2'
 ---
 
 An adverbial modifier of a word is a (non-clausal) adverb or adverbial
@@ -21,3 +22,19 @@ advmod(souvent, moins)
 le jour le plus long \n the longest day
 advmod(long, plus)
 ~~~
+
+FrenchSpoken uses the `advmod` relation, here are a few examples:
+
+~~~ sdparse
+je connaissais très bien Marc Allégret \n I knew Marc Allégret very well
+advmod(connaissais, bien)
+advmod(bien, très)
+~~~
+
+~~~ sdparse
+c'est vraiment très agréable \n it's really very pleasant
+advmod(agréable, très)
+advmod(agréable, vraiment)
+~~~
+
+For adverbial modifiers which are not governed by their heads, FrenchSpoken uses the [advmod:periph]() relation.

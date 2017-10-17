@@ -4,82 +4,85 @@
 
 ## Treebank Statistics (UD_Latvian)
 
-There are 709 `VERB` lemmas (18%), 1520 `VERB` types (23%) and 2939 `VERB` tokens (14%).
+There are 1702 `VERB` lemmas (24%), 3564 `VERB` types (29%) and 7199 `VERB` tokens (16%).
 Out of 16 observed tags, the rank of `VERB` is: 2 in number of lemmas, 2 in number of types and 3 in number of tokens.
 
-The 10 most frequent `VERB` lemmas: <em>būt, tikt, varēt, nebūt, notikt, izmantot, darboties, saņemt, sākt, strādāt</em>
+The 10 most frequent `VERB` lemmas: <em>būt, nebūt, varēt, tikt, sākt, zināt, teikt, domāt, iet, redzēt</em>
 
-The 10 most frequent `VERB` types:  <em>ir, bija, nav, būs, varētu, tika, tiek, būtu, tiks, notiek</em>
+The 10 most frequent `VERB` types:  <em>ir, bija, nav, var, būs, nebija, varētu, būtu, esmu, tiek</em>
 
-The 10 most frequent ambiguous lemmas: <em>pieiet</em> ([VERB]() 12, [ADJ]() 1), <em>klāt</em> ([ADV]() 2, [VERB]() 1)
+The 10 most frequent ambiguous lemmas: <em>nebūt</em> ([VERB]() 234, [PART]() 1), <em>sacīt</em> ([VERB]() 41, [NOUN]() 1), <em>pieiet</em> ([VERB]() 10, [ADJ]() 1), <em>nozīmēt</em> ([VERB]() 7, [NOUN]() 2), <em>pamatot</em> ([VERB]() 5, [ADV]() 1), <em>ilgt</em> ([VERB]() 2, [ADV]() 1), <em>klāt</em> ([ADV]() 10, [VERB]() 2), <em>null</em> ([PUNCT]() 1, [VERB]() 1)
 
-The 10 most frequent ambiguous types:  <em>atbalsta</em> ([VERB]() 5, [NOUN]() 4), <em>pieejams</em> ([VERB]() 4, [ADJ]() 3), <em>bijušo</em> ([VERB]() 2, [ADJ]() 1), <em>nākamā</em> ([ADJ]() 1, [VERB]() 1), <em>pieejami</em> ([ADJ]() 2, [VERB]() 2), <em>Protams</em> ([PART]() 3, [VERB]() 1), <em>atklāti</em> ([ADV]() 2, [VERB]() 1), <em>beidzot</em> ([ADV]() 1, [VERB]() 1), <em>līdzfinansētā</em> ([ADJ]() 2, [VERB]() 1)
+The 10 most frequent ambiguous types:  <em>gribu</em> ([VERB]() 7, [NOUN]() 1), <em>atbalsta</em> ([VERB]() 5, [NOUN]() 4), <em>noteiktu</em> ([ADJ]() 4, [VERB]() 4), <em>nozīmē</em> ([NOUN]() 6, [VERB]() 5), <em>Protams</em> ([VERB]() 4, [PART]() 3), <em>lūdzu</em> ([INTJ]() 5, [VERB]() 2), <em>vēlas</em> ([VERB]() 4, [ADJ]() 1), <em>bijušo</em> ([VERB]() 2, [ADJ]() 1), <em>stāstu</em> ([NOUN]() 3, [VERB]() 3), <em>ej</em> ([INTJ]() 1, [VERB]() 1)
 
 
+* <em>gribu</em>
+  * [VERB]() 7: <em>Es <b>gribu</b> pierakstīt , redzēju sapnī :</em>
+  * [NOUN]() 1: <em>Spēcīgu <b>gribu</b> vārīju sevī .</em>
 * <em>atbalsta</em>
   * [VERB]() 5: <em>Kā jums šķiet , vai Latvijas valsts <b>atbalsta</b> ?</em>
   * [NOUN]() 4: <em>Projekta <b>atbalsta</b> intensitāte bija 50 % un vēl 50 % pašu līdzfinansējums .</em>
-* <em>pieejams</em>
-  * [VERB]() 4: <em>Pasākuma norises laikā būs <b>pieejams</b> grāmatu galds .</em>
-  * [ADJ]() 3: <em>Nav vēl attīstījusies nākamās paaudzes augstas izšķirtspējas televīzija un attiecīgs <b>pieejams</b> saturs .</em>
+* <em>noteiktu</em>
+  * [ADJ]() 4: <em>b ) darbiniekus , kam ir darba līgums par darbu uz <b>noteiktu</b> laiku Direktīvas 1999 / 70 / EK nozīmē ;</em>
+  * [VERB]() 4: <em>Mūsuprāt , nozīmīgākais faktors no ekonomisko faktoru grupas ir valsts iespējas pietiekami augstā līmenī algot <b>noteiktu</b> skolotāju skaitu .</em>
+* <em>nozīmē</em>
+  * [NOUN]() 6: <em>a ) nepilna darba laika darbiniekus Direktīvas 97 / 81 / EK <b>nozīmē</b> ;</em>
+  * [VERB]() 5: <em>Nomirt , sevi neizstāstījušam , laikam arī to <b>nozīmē</b> - nomirt neatvadījušamies .</em>
+* <em>Protams</em>
+  * [VERB]() 4: <em><b>Protams</b> , viņa ir Sofija Amundsena , bet kas tā tāda ir ?</em>
+  * [PART]() 3: <em><b>Protams</b> , ir jārēķina , vai ir jēga to darīt .</em>
+* <em>lūdzu</em>
+  * [INTJ]() 5: <em>- Rēķinu , <b>lūdzu</b> .</em>
+  * [VERB]() 2: <em>Es tevi <b>lūdzu</b> izslēgt .</em>
+* <em>vēlas</em>
+  * [VERB]() 4: <em>Viņš no Rāviņa <b>vēlas</b> dzirdēt skaidrojumu par labas pārvaldības principu pārkāpumiem pašvaldībā .</em>
+  * [ADJ]() 1: <em>Tā bija brīnišķīga pilnības sajūta , ko sniedza viens <b>vēlas</b> vasaras mirklis , viens rasā nolīcis dālijas zieds .</em>
 * <em>bijušo</em>
   * [VERB]() 2: <em>Piedāvājam sarunu ar <b>bijušo</b> prezidenta kancelejas vadītāju un baņķieri , tagad – uzņēmēju Mārtiņu Bondaru .</em>
   * [ADJ]() 1: <em>KNAB šo lietu sāka 2010. gadā , kad vasarā aizturēja <b>bijušo</b> " Latvenergo " prezidentu Kārli Miķelsonu , viņa vietnieku Aigaru Meļko , kā arī AS " Sadales tīkls " valdes priekšsēdētāju Ivaru Liuziniku un viņa vietnieku Andreju Stalažu .</em>
-* <em>nākamā</em>
-  * [ADJ]() 1: <em>Jāatzīmē , ka Kūtra ST tiesneša pilnvaras beidzas jau <b>nākamā</b> gada februārī , līdz ar to no jauna būs jālemj par viņa " pēcteci " .</em>
-  * [VERB]() 1: <em>Ingrīda Gubernatorova : Pašlaik nav īsti skaidrs attīstības virziens , jo nav noteiktu konkrētu un mērāmu uzdevumu reģioniem , kā arī konkrēti definētas <b>nākamā</b> plānošanas perioda struktūrfondu saņemšanas iespējas .</em>
-* <em>pieejami</em>
-  * [ADJ]() 2: <em>Vai šādas gala iekārtas , tas ir , mājas telefoni , jau ir <b>pieejami</b> ?</em>
-  * [VERB]() 2: <em>Būs <b>pieejami</b> interaktīvie balss paziņojumi , gan automātiska zvanu pāradresācija un citas tehniskās lietas .</em>
-* <em>Protams</em>
-  * [PART]() 3: <em><b>Protams</b> , ir jārēķina , vai ir jēga to darīt .</em>
-  * [VERB]() 1: <em><b>Protams</b> , tas ir saistīts ar gala iekārtu attīstību , ar to , ka uz šīm iekārtām parādās skārienjūtīgas funkcijas , un , ka nākotnē arī varēs redzēt videoattēlu .</em>
-* <em>atklāti</em>
-  * [ADV]() 2: <em>Neviens cits tiesnesis <b>atklāti</b> kandidatūru neizvirzīja .</em>
-  * [VERB]() 1: <em>Personu vārdi netiek <b>atklāti</b> .</em>
-* <em>beidzot</em>
-  * [ADV]() 1: <em>Kad <b>beidzot</b> tomēr sāka parādīties valstij piederošās bankas bilances pārvērtēšanas rezultāti , no bilances izrādījās pazuduši pāris miljardi ( ne miljonu ) latu .</em>
-  * [VERB]() 1: <em>Tāpat pasākuma programmā ir paredzētas arī neakadēmiskas nianses - , sākot ar zinātnisko repu un <b>beidzot</b> ar loteriju , kurā varēs laimēt ikviens klātesošais .</em>
-* <em>līdzfinansētā</em>
-  * [ADJ]() 2: <em>" Imprimatur " ir saņēmis finansējumu no Latvijas Garantiju aģentūras pārvaldītā un Eiropas Savienības struktūrfondu <b>līdzfinansētā</b> Ieguldījumu fonda .</em>
-  * [VERB]() 1: <em>Pagājušā gada nogalē poligonā noslēdzās Eiropas Savienības Kohēzijas fonda ( ES KF ) <b>līdzfinansētā</b> Ziemeļvidzemes reģiona sadzīves atkritumu apsaimniekošanas projekta 4. kārtas pirmā aktivitāte - uzbūvējām ēku , kur strādniekiem pārģērbties , paēst pusdienas , nomazgāties , lai viņiem būtu labi darba apstākļi , pieejama veļas mašīna , drēbju žāvētājs .</em>
+* <em>stāstu</em>
+  * [NOUN]() 3: <em>Katra šūna glabā sevī manas dzīves <b>stāstu</b> , katra grumba atmiņas par pagātni ...</em>
+  * [VERB]() 3: <em>- Bet es taču <b>stāstu</b> tev ! - Sanī drusku sadusmota atcirta .</em>
+* <em>ej</em>
+  * [INTJ]() 1: <em>" Ej , <b>ej</b> .</em>
+  * [VERB]() 1: <em>- Beidz nu , <b>ej</b> nost !</em>
 
 ## Morphology
 
-The form / lemma ratio of `VERB` is 2.143865 (the average of all parts of speech is 1.616894).
+The form / lemma ratio of `VERB` is 2.094007 (the average of all parts of speech is 1.715747).
 
-The 1st highest number of forms (23) was observed with the lemma “būt”: <em>bija, bijis, biju, bijusi, bijušas, bijuši, bijušo, būs, būt, būtu, būšot, esam, esat, esmu, esot, esošais, esošiem, esošo, esošos, esošā, esošās, ir, jābūt</em>.
+The 1st highest number of forms (30) was observed with the lemma “būt”: <em>bij, bija, bijis, biju, bijusi, bijušajām, bijušas, bijuši, bijušo, bijām, būdami, būs, būsi, būt, būtu, būšot, būšu, esam, esat, esi, esmu, esot, esošais, esošo, esošā, esošās, ir, jābūt, nebūtu, neesam</em>.
 
-The 2nd highest number of forms (13) was observed with the lemma “sākt”: <em>Sāksim, jāsāk, sācis, sāk, sāka, sākot, sāks, sākt, sākta, sākusi, sākušas, sākuši, sākām</em>.
+The 2nd highest number of forms (19) was observed with the lemma “redzēt”: <em>Redzēsiet, redz, redzam, redzama, redzamajai, redzams, redzat, redzi, redzu, redzēja, redzējis, redzēju, redzējusi, redzējuši, redzēs, redzēsim, redzēt, redzēto, redzētu</em>.
 
-The 3rd highest number of forms (12) was observed with the lemma “noteikt”: <em>noteic, noteica, noteiks, noteikt, noteikta, noteiktajam, noteiktajiem, noteiktas, noteikts, noteiktu, noteiktās, noteikusi</em>.
+The 3rd highest number of forms (18) was observed with the lemma “veikt”: <em>Veicot, Veiktas, jāveic, veic, veica, veicamās, veicis, veiksiet, veiksim, veikt, veikta, veiktais, veiktajiem, veiktajos, veikti, veikto, veikusi, veikuši</em>.
 
-`VERB` occurs with 13 features: [lv-feat/VerbForm]() (2939; 100% instances), [lv-feat/Tense]() (2334; 79% instances), [lv-feat/Negative]() (2037; 69% instances), [lv-feat/Voice]() (1848; 63% instances), [lv-feat/Mood]() (1737; 59% instances), [lv-feat/Person]() (1544; 53% instances), [lv-feat/Number]() (976; 33% instances), [lv-feat/Case]() (779; 27% instances), [lv-feat/Definite]() (778; 26% instances), [lv-feat/Degree]() (778; 26% instances), [lv-feat/Gender]() (778; 26% instances), [lv-feat/Aspect]() (705; 24% instances), [lv-feat/Reflex]() (258; 9% instances)
+`VERB` occurs with 14 features: [lv-feat/VerbForm]() (7199; 100% instances), [lv-feat/Tense]() (5725; 80% instances), [lv-feat/Polarity]() (5568; 77% instances), [lv-feat/Voice]() (5002; 69% instances), [lv-feat/Mood]() (4778; 66% instances), [lv-feat/Person]() (4365; 61% instances), [lv-feat/Evident]() (4292; 60% instances), [lv-feat/Number]() (2317; 32% instances), [lv-feat/Case]() (1401; 19% instances), [lv-feat/Gender]() (1400; 19% instances), [lv-feat/Definite]() (1388; 19% instances), [lv-feat/Degree]() (1382; 19% instances), [lv-feat/Aspect]() (1254; 17% instances), [lv-feat/Reflex]() (885; 12% instances)
 
-`VERB` occurs with 35 feature-value pairs: `Aspect=Imp`, `Aspect=Perf`, `Case=Acc`, `Case=Dat`, `Case=Gen`, `Case=Loc`, `Case=Nom`, `Definite=Def`, `Definite=Ind`, `Degree=Cmp`, `Degree=Pos`, `Gender=Fem`, `Gender=Masc`, `Mood=Cnd`, `Mood=Imp`, `Mood=Ind`, `Mood=Nec`, `Mood=Qot`, `Negative=Neg`, `Negative=Pos`, `Number=Plur`, `Number=Sing`, `Person=1`, `Person=2`, `Person=3`, `Reflex=Yes`, `Tense=Fut`, `Tense=Past`, `Tense=Pres`, `VerbForm=Fin`, `VerbForm=Inf`, `VerbForm=Part`, `VerbForm=Trans`, `Voice=Act`, `Voice=Pass`
+`VERB` occurs with 36 feature-value pairs: `Aspect=Imp`, `Aspect=Perf`, `Case=Acc`, `Case=Dat`, `Case=Gen`, `Case=Loc`, `Case=Nom`, `Definite=Def`, `Definite=Ind`, `Degree=Cmp`, `Degree=Pos`, `Evident=Fh,Nfh`, `Gender=Fem`, `Gender=Masc`, `Mood=Cnd`, `Mood=Imp`, `Mood=Ind`, `Mood=Nec`, `Mood=Qot`, `Number=Plur`, `Number=Sing`, `Person=1`, `Person=2`, `Person=3`, `Polarity=Neg`, `Polarity=Pos`, `Reflex=Yes`, `Tense=Fut`, `Tense=Past`, `Tense=Pres`, `VerbForm=Conv`, `VerbForm=Fin`, `VerbForm=Inf`, `VerbForm=Part`, `Voice=Act`, `Voice=Pass`
 
-`VERB` occurs with 140 feature combinations.
-The most frequent feature combination is `Mood=Ind|Negative=Neg|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act` (720 tokens).
-Examples: <em>ir, tiek, notiek, var, liecina, nevar, norāda, pieder, strādā, vēsta</em>
+`VERB` occurs with 198 feature combinations.
+The most frequent feature combination is `Evident=Fh,Nfh|Mood=Ind|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act` (1551 tokens).
+Examples: <em>ir, var, tiek, notiek, liecina, saka, norāda, nevar, šķiet, pastāv</em>
 
 
 ## Relations
 
-`VERB` nodes are attached to their parents using 16 different relations: [lv-dep/root]() (842; 29% instances), [lv-dep/aux]() (564; 19% instances), [lv-dep/conj]() (304; 10% instances), [lv-dep/acl]() (269; 9% instances), [lv-dep/advcl]() (258; 9% instances), [lv-dep/amod]() (237; 8% instances), [lv-dep/ccomp]() (224; 8% instances), [lv-dep/xcomp]() (152; 5% instances), [lv-dep/parataxis]() (50; 2% instances), [lv-dep/nsubj]() (18; 1% instances), [lv-dep/nsubjpass]() (8; 0% instances), [lv-dep/dobj]() (5; 0% instances), [lv-dep/nmod]() (4; 0% instances), [lv-dep/iobj]() (2; 0% instances), [lv-dep/compound]() (1; 0% instances), [lv-dep/dep]() (1; 0% instances)
+`VERB` nodes are attached to their parents using 22 different relations: [lv-dep/root]() (2249; 31% instances), [lv-dep/conj]() (1038; 14% instances), [lv-dep/aux]() (687; 10% instances), [lv-dep/acl]() (580; 8% instances), [lv-dep/cop]() (546; 8% instances), [lv-dep/advcl]() (536; 7% instances), [lv-dep/ccomp]() (478; 7% instances), [lv-dep/amod]() (424; 6% instances), [lv-dep/xcomp]() (405; 6% instances), [lv-dep/parataxis]() (145; 2% instances), [lv-dep/csubj]() (55; 1% instances), [lv-dep/iobj]() (10; 0% instances), [lv-dep/compound]() (8; 0% instances), [lv-dep/nsubj]() (7; 0% instances), [lv-dep/obl]() (7; 0% instances), [lv-dep/csubj:pass]() (6; 0% instances), [lv-dep/obj]() (6; 0% instances), [lv-dep/dep]() (5; 0% instances), [lv-dep/discourse]() (2; 0% instances), [lv-dep/nmod]() (2; 0% instances), [lv-dep/orphan]() (2; 0% instances), [lv-dep/nsubj:pass]() (1; 0% instances)
 
-Parents of `VERB` nodes belong to 12 different parts of speech: [VERB]() (1192; 41% instances), [ROOT]() (842; 29% instances), [NOUN]() (622; 21% instances), [ADJ]() (101; 3% instances), [PRON]() (57; 2% instances), [ADV]() (50; 2% instances), [PROPN]() (40; 1% instances), [NUM]() (12; 0% instances), [SYM]() (8; 0% instances), [SCONJ]() (6; 0% instances), [PUNCT]() (5; 0% instances), [X]() (4; 0% instances)
+Parents of `VERB` nodes belong to 14 different parts of speech: [VERB]() (2888; 40% instances), [ROOT]() (2249; 31% instances), [NOUN]() (1167; 16% instances), [ADJ]() (363; 5% instances), [PRON]() (219; 3% instances), [ADV]() (215; 3% instances), [PROPN]() (48; 1% instances), [NUM]() (28; 0% instances), [SYM]() (9; 0% instances), [PUNCT]() (7; 0% instances), [X]() (3; 0% instances), [CCONJ]() (1; 0% instances), [DET]() (1; 0% instances), [PART]() (1; 0% instances)
 
-726 (25%) `VERB` nodes are leaves.
+1619 (22%) `VERB` nodes are leaves.
 
-356 (12%) `VERB` nodes have one child.
+694 (10%) `VERB` nodes have one child.
 
-288 (10%) `VERB` nodes have two children.
+712 (10%) `VERB` nodes have two children.
 
-1569 (53%) `VERB` nodes have three or more children.
+4174 (58%) `VERB` nodes have three or more children.
 
-The highest child degree of a `VERB` node is 13.
+The highest child degree of a `VERB` node is 15.
 
-Children of `VERB` nodes are attached using 20 different relations: [lv-dep/punct]() (1844; 23% instances), [lv-dep/nmod]() (1093; 14% instances), [lv-dep/nsubj]() (1044; 13% instances), [lv-dep/dobj]() (855; 11% instances), [lv-dep/advmod]() (621; 8% instances), [lv-dep/conj]() (320; 4% instances), [lv-dep/aux]() (297; 4% instances), [lv-dep/mark]() (272; 3% instances), [lv-dep/cc]() (262; 3% instances), [lv-dep/iobj]() (249; 3% instances), [lv-dep/advcl]() (229; 3% instances), [lv-dep/ccomp]() (228; 3% instances), [lv-dep/nsubjpass]() (226; 3% instances), [lv-dep/xcomp]() (154; 2% instances), [lv-dep/parataxis]() (108; 1% instances), [lv-dep/discourse]() (88; 1% instances), [lv-dep/acl]() (58; 1% instances), [lv-dep/det]() (8; 0% instances), [lv-dep/case]() (7; 0% instances), [lv-dep/amod]() (1; 0% instances)
+Children of `VERB` nodes are attached using 26 different relations: [lv-dep/punct]() (4911; 24% instances), [lv-dep/nsubj]() (2880; 14% instances), [lv-dep/obl]() (2432; 12% instances), [lv-dep/obj]() (1740; 9% instances), [lv-dep/advmod]() (1671; 8% instances), [lv-dep/conj]() (1018; 5% instances), [lv-dep/iobj]() (847; 4% instances), [lv-dep/cc]() (776; 4% instances), [lv-dep/aux]() (579; 3% instances), [lv-dep/mark]() (561; 3% instances), [lv-dep/xcomp]() (470; 2% instances), [lv-dep/advcl]() (469; 2% instances), [lv-dep/ccomp]() (438; 2% instances), [lv-dep/discourse]() (345; 2% instances), [lv-dep/parataxis]() (285; 1% instances), [lv-dep/nsubj:pass]() (267; 1% instances), [lv-dep/acl]() (208; 1% instances), [lv-dep/nmod]() (61; 0% instances), [lv-dep/csubj]() (48; 0% instances), [lv-dep/det]() (19; 0% instances), [lv-dep/vocative]() (17; 0% instances), [lv-dep/nummod]() (13; 0% instances), [lv-dep/case]() (12; 0% instances), [lv-dep/csubj:pass]() (8; 0% instances), [lv-dep/dep]() (6; 0% instances), [lv-dep/amod]() (3; 0% instances)
 
-Children of `VERB` nodes belong to 16 different parts of speech: [NOUN]() (2557; 32% instances), [PUNCT]() (1854; 23% instances), [VERB]() (1192; 15% instances), [ADV]() (637; 8% instances), [SCONJ]() (432; 5% instances), [PROPN]() (398; 5% instances), [PRON]() (372; 5% instances), [CONJ]() (240; 3% instances), [PART]() (121; 2% instances), [ADJ]() (60; 1% instances), [SYM]() (44; 1% instances), [NUM]() (24; 0% instances), [X]() (19; 0% instances), [ADP]() (7; 0% instances), [DET]() (5; 0% instances), [INTJ]() (2; 0% instances)
+Children of `VERB` nodes belong to 16 different parts of speech: [NOUN]() (5546; 28% instances), [PUNCT]() (4926; 25% instances), [VERB]() (2888; 14% instances), [PRON]() (2284; 11% instances), [ADV]() (1747; 9% instances), [CCONJ]() (739; 4% instances), [PROPN]() (570; 3% instances), [SCONJ]() (534; 3% instances), [PART]() (404; 2% instances), [ADJ]() (258; 1% instances), [NUM]() (68; 0% instances), [SYM]() (49; 0% instances), [X]() (24; 0% instances), [INTJ]() (23; 0% instances), [ADP]() (13; 0% instances), [DET]() (11; 0% instances)
 

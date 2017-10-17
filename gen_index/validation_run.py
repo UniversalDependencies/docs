@@ -76,6 +76,9 @@ def run_validation(validation_cache,args):
                 outp+=err
                 outp+=u"\n\n******************\n\n"
             cache["outp"]=outp
+    to_del=set(validation_cache.keys())-set(langs)
+    for d in to_del:
+        del validation_cache[d]
 
 def load_validation_cache(fname):
     try:
@@ -153,6 +156,7 @@ if __name__=="__main__":
 ---
 layout: base
 title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
+udver: '2'
 ---
 
 Regenerated: <time class="timeago" datetime="%(time)sZ">%(time)s zulu</time>

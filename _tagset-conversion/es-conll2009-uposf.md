@@ -1,6 +1,7 @@
 ---
 layout: base
 title: 'Tagset es::conll2009 conversion to universal POS tags and features'
+udver: '2'
 ---
 
 <a href="index.html">all tables</a>
@@ -16,11 +17,11 @@ The table requires manual postprocessing in order to provide accurate and comple
 Tagset <tt>es::conll2009</tt>, total 272 tags.
 
 <table>
-  <tr style="background:lightgray"><td>a postype=ordinal|gen=c|num=s</td><td>=&gt;</td><td>ADJ</td><td>NumType=Ord|Number=Sing</td><td><em></em></td></tr>
-  <tr><td>a postype=ordinal|gen=f|num=p</td><td>=&gt;</td><td>ADJ</td><td>Gender=Fem|NumType=Ord|Number=Plur</td><td><em>últimas, primeras, terceras, segundas, quintas</em></td></tr>
-  <tr style="background:lightgray"><td>a postype=ordinal|gen=f|num=s</td><td>=&gt;</td><td>ADJ</td><td>Gender=Fem|NumType=Ord|Number=Sing</td><td><em>primera, segunda, última, tercera, cuarta</em></td></tr>
-  <tr><td>a postype=ordinal|gen=m|num=p</td><td>=&gt;</td><td>ADJ</td><td>Gender=Masc|NumType=Ord|Number=Plur</td><td><em>últimos, primeros, terceros, segundos, sextos</em></td></tr>
-  <tr style="background:lightgray"><td>a postype=ordinal|gen=m|num=s</td><td>=&gt;</td><td>ADJ</td><td>Gender=Masc|NumType=Ord|Number=Sing</td><td><em>primer, segundo, último, primero, tercer</em></td></tr>
+  <tr style="background:lightgray"><td>a postype=ordinal|gen=c|num=s</td><td>=&gt;</td><td>ADJ</td><td>Number=Sing|NumType=Ord</td><td><em></em></td></tr>
+  <tr><td>a postype=ordinal|gen=f|num=p</td><td>=&gt;</td><td>ADJ</td><td>Gender=Fem|Number=Plur|NumType=Ord</td><td><em>últimas, primeras, terceras, segundas, quintas</em></td></tr>
+  <tr style="background:lightgray"><td>a postype=ordinal|gen=f|num=s</td><td>=&gt;</td><td>ADJ</td><td>Gender=Fem|Number=Sing|NumType=Ord</td><td><em>primera, segunda, última, tercera, cuarta</em></td></tr>
+  <tr><td>a postype=ordinal|gen=m|num=p</td><td>=&gt;</td><td>ADJ</td><td>Gender=Masc|Number=Plur|NumType=Ord</td><td><em>últimos, primeros, terceros, segundos, sextos</em></td></tr>
+  <tr style="background:lightgray"><td>a postype=ordinal|gen=m|num=s</td><td>=&gt;</td><td>ADJ</td><td>Gender=Masc|Number=Sing|NumType=Ord</td><td><em>primer, segundo, último, primero, tercer</em></td></tr>
   <tr><td>a postype=qualificative|gen=c|num=c</td><td>=&gt;</td><td>ADJ</td><td>_</td><td><em>ex, norte, ultra, sur, pop</em></td></tr>
   <tr style="background:lightgray"><td>a postype=qualificative|gen=c|num=p</td><td>=&gt;</td><td>ADJ</td><td>Number=Plur</td><td><em>grandes, principales, internacionales, importantes, sociales</em></td></tr>
   <tr><td>a postype=qualificative|gen=c|num=s</td><td>=&gt;</td><td>ADJ</td><td>Number=Sing</td><td><em>gran, mayor, mejor, general, posible</em></td></tr>
@@ -32,8 +33,8 @@ Tagset <tt>es::conll2009</tt>, total 272 tags.
   <tr><td>a postype=qualificative|gen=m|num=p|posfunction=participle</td><td>=&gt;</td><td>ADJ</td><td>Gender=Masc|Number=Plur|VerbForm=Part</td><td><em>dispuestos, relacionados, determinados, obligados, registrados</em></td></tr>
   <tr style="background:lightgray"><td>a postype=qualificative|gen=m|num=s</td><td>=&gt;</td><td>ADJ</td><td>Gender=Masc|Number=Sing</td><td><em>nuevo, próximo, español, único, político</em></td></tr>
   <tr><td>a postype=qualificative|gen=m|num=s|posfunction=participle</td><td>=&gt;</td><td>ADJ</td><td>Gender=Masc|Number=Sing|VerbForm=Part</td><td><em>pasado, previsto, abierto, dispuesto, hecho</em></td></tr>
-  <tr style="background:lightgray"><td>c _</td><td>=&gt;</td><td>CONJ</td><td>_</td><td><em></em></td></tr>
-  <tr><td>c postype=coordinating</td><td>=&gt;</td><td>CONJ</td><td>_</td><td><em>y, pero, o, e, ni</em></td></tr>
+  <tr style="background:lightgray"><td>c _</td><td>=&gt;</td><td>CCONJ</td><td>_</td><td><em></em></td></tr>
+  <tr><td>c postype=coordinating</td><td>=&gt;</td><td>CCONJ</td><td>_</td><td><em>y, pero, o, e, ni</em></td></tr>
   <tr style="background:lightgray"><td>c postype=subordinating</td><td>=&gt;</td><td>SCONJ</td><td>_</td><td><em>que, como, si, porque, cuando</em></td></tr>
   <tr><td>c postype=subordinating|gen=c|num=c</td><td>=&gt;</td><td>SCONJ</td><td>_</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>d postype=article|gen=c|num=s</td><td>=&gt;</td><td>DET</td><td>Number=Sing|PronType=Art</td><td><em>lo</em></td></tr>
@@ -59,12 +60,12 @@ Tagset <tt>es::conll2009</tt>, total 272 tags.
   <tr style="background:lightgray"><td>d postype=interrogative|gen=f|num=s</td><td>=&gt;</td><td>DET</td><td>Gender=Fem|Number=Sing|PronType=Int</td><td><em>cuánta</em></td></tr>
   <tr><td>d postype=interrogative|gen=m|num=p</td><td>=&gt;</td><td>DET</td><td>Gender=Masc|Number=Plur|PronType=Int</td><td><em>cuántos</em></td></tr>
   <tr style="background:lightgray"><td>d postype=interrogative|gen=m|num=s</td><td>=&gt;</td><td>DET</td><td>Gender=Masc|Number=Sing|PronType=Int</td><td><em>cuánto</em></td></tr>
-  <tr><td>d postype=numeral|gen=c|num=p</td><td>=&gt;</td><td>NUM</td><td>NumType=Card|Number=Plur</td><td><em>dos, tres, cinco, cuatro, seis</em></td></tr>
-  <tr style="background:lightgray"><td>d postype=numeral|gen=c|num=s</td><td>=&gt;</td><td>NUM</td><td>NumType=Card|Number=Sing</td><td><em>doble, triple, cero, cuádruple</em></td></tr>
-  <tr><td>d postype=numeral|gen=f|num=p</td><td>=&gt;</td><td>NUM</td><td>Gender=Fem|NumType=Card|Number=Plur</td><td><em>ambas, quinientas</em></td></tr>
-  <tr style="background:lightgray"><td>d postype=numeral|gen=f|num=s</td><td>=&gt;</td><td>NUM</td><td>Gender=Fem|NumType=Card|Number=Sing</td><td><em>media, una, décima</em></td></tr>
-  <tr><td>d postype=numeral|gen=m|num=p</td><td>=&gt;</td><td>NUM</td><td>Gender=Masc|NumType=Card|Number=Plur</td><td><em>ambos, doscientos, quinientos, trescientos, miles</em></td></tr>
-  <tr style="background:lightgray"><td>d postype=numeral|gen=m|num=s</td><td>=&gt;</td><td>NUM</td><td>Gender=Masc|NumType=Card|Number=Sing</td><td><em>medio, un, uno</em></td></tr>
+  <tr><td>d postype=numeral|gen=c|num=p</td><td>=&gt;</td><td>NUM</td><td>Number=Plur|NumType=Card</td><td><em>dos, tres, cinco, cuatro, seis</em></td></tr>
+  <tr style="background:lightgray"><td>d postype=numeral|gen=c|num=s</td><td>=&gt;</td><td>NUM</td><td>Number=Sing|NumType=Card</td><td><em>doble, triple, cero, cuádruple</em></td></tr>
+  <tr><td>d postype=numeral|gen=f|num=p</td><td>=&gt;</td><td>NUM</td><td>Gender=Fem|Number=Plur|NumType=Card</td><td><em>ambas, quinientas</em></td></tr>
+  <tr style="background:lightgray"><td>d postype=numeral|gen=f|num=s</td><td>=&gt;</td><td>NUM</td><td>Gender=Fem|Number=Sing|NumType=Card</td><td><em>media, una, décima</em></td></tr>
+  <tr><td>d postype=numeral|gen=m|num=p</td><td>=&gt;</td><td>NUM</td><td>Gender=Masc|Number=Plur|NumType=Card</td><td><em>ambos, doscientos, quinientos, trescientos, miles</em></td></tr>
+  <tr style="background:lightgray"><td>d postype=numeral|gen=m|num=s</td><td>=&gt;</td><td>NUM</td><td>Gender=Masc|Number=Sing|NumType=Card</td><td><em>medio, un, uno</em></td></tr>
   <tr><td>d postype=possessive|gen=c|num=p|person=1|possessornum=p</td><td>=&gt;</td><td>DET</td><td>Number=Plur|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>d postype=possessive|gen=f|num=p|person=1|possessornum=p</td><td>=&gt;</td><td>DET</td><td>Gender=Fem|Number=Plur|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs</td><td><em>nuestras</em></td></tr>
   <tr><td>d postype=possessive|gen=f|num=p|person=1|possessornum=s</td><td>=&gt;</td><td>DET</td><td>Gender=Fem|Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
@@ -137,23 +138,23 @@ Tagset <tt>es::conll2009</tt>, total 272 tags.
   <tr style="background:lightgray"><td>p postype=interrogative|gen=f|num=s</td><td>=&gt;</td><td>PRON</td><td>Gender=Fem|Number=Sing|PronType=Int</td><td><em></em></td></tr>
   <tr><td>p postype=interrogative|gen=m|num=p</td><td>=&gt;</td><td>PRON</td><td>Gender=Masc|Number=Plur|PronType=Int</td><td><em>cuántos</em></td></tr>
   <tr style="background:lightgray"><td>p postype=interrogative|gen=m|num=s</td><td>=&gt;</td><td>PRON</td><td>Gender=Masc|Number=Sing|PronType=Int</td><td><em>cuánto</em></td></tr>
-  <tr><td>p postype=numeral|gen=c|num=p</td><td>=&gt;</td><td>NUM</td><td>NumType=Card|Number=Plur</td><td><em>dos, miles, tres, cuatro, cinco</em></td></tr>
-  <tr style="background:lightgray"><td>p postype=numeral|gen=c|num=s</td><td>=&gt;</td><td>NUM</td><td>NumType=Card|Number=Sing</td><td><em>triple</em></td></tr>
-  <tr><td>p postype=numeral|gen=f|num=p</td><td>=&gt;</td><td>NUM</td><td>Gender=Fem|NumType=Card|Number=Plur</td><td><em>ambas, DECENAS</em></td></tr>
-  <tr style="background:lightgray"><td>p postype=numeral|gen=f|num=s</td><td>=&gt;</td><td>NUM</td><td>Gender=Fem|NumType=Card|Number=Sing</td><td><em>media</em></td></tr>
-  <tr><td>p postype=numeral|gen=m|num=p</td><td>=&gt;</td><td>NUM</td><td>Gender=Masc|NumType=Card|Number=Plur</td><td><em>ambos, ochenta, veintiuno</em></td></tr>
-  <tr style="background:lightgray"><td>p postype=numeral|gen=m|num=s</td><td>=&gt;</td><td>NUM</td><td>Gender=Masc|NumType=Card|Number=Sing</td><td><em>medio, uno</em></td></tr>
+  <tr><td>p postype=numeral|gen=c|num=p</td><td>=&gt;</td><td>NUM</td><td>Number=Plur|NumType=Card</td><td><em>dos, miles, tres, cuatro, cinco</em></td></tr>
+  <tr style="background:lightgray"><td>p postype=numeral|gen=c|num=s</td><td>=&gt;</td><td>NUM</td><td>Number=Sing|NumType=Card</td><td><em>triple</em></td></tr>
+  <tr><td>p postype=numeral|gen=f|num=p</td><td>=&gt;</td><td>NUM</td><td>Gender=Fem|Number=Plur|NumType=Card</td><td><em>ambas, DECENAS</em></td></tr>
+  <tr style="background:lightgray"><td>p postype=numeral|gen=f|num=s</td><td>=&gt;</td><td>NUM</td><td>Gender=Fem|Number=Sing|NumType=Card</td><td><em>media</em></td></tr>
+  <tr><td>p postype=numeral|gen=m|num=p</td><td>=&gt;</td><td>NUM</td><td>Gender=Masc|Number=Plur|NumType=Card</td><td><em>ambos, ochenta, veintiuno</em></td></tr>
+  <tr style="background:lightgray"><td>p postype=numeral|gen=m|num=s</td><td>=&gt;</td><td>NUM</td><td>Gender=Masc|Number=Sing|NumType=Card</td><td><em>medio, uno</em></td></tr>
   <tr><td>p postype=personal|gen=c|num=c|person=3</td><td>=&gt;</td><td>PRON</td><td>Person=3|PronType=Prs</td><td><em>se</em></td></tr>
   <tr style="background:lightgray"><td>p postype=personal|gen=c|num=c|person=3|case=oblique</td><td>=&gt;</td><td>PRON</td><td>Person=3|PrepCase=Pre|PronType=Prs</td><td><em>sí, consigo</em></td></tr>
   <tr><td>p postype=personal|gen=c|num=p|person=1</td><td>=&gt;</td><td>PRON</td><td>Number=Plur|Person=1|PronType=Prs</td><td><em>nos</em></td></tr>
   <tr style="background:lightgray"><td>p postype=personal|gen=c|num=p|person=2</td><td>=&gt;</td><td>PRON</td><td>Number=Plur|Person=2|PronType=Prs</td><td><em>os</em></td></tr>
-  <tr><td>p postype=personal|gen=c|num=p|person=2|polite=yes</td><td>=&gt;</td><td>PRON</td><td>Number=Plur|Person=2|Polite=Pol|PronType=Prs</td><td><em>ustedes</em></td></tr>
+  <tr><td>p postype=personal|gen=c|num=p|person=2|polite=yes</td><td>=&gt;</td><td>PRON</td><td>Number=Plur|Person=2|Polite=Form|PronType=Prs</td><td><em>ustedes</em></td></tr>
   <tr style="background:lightgray"><td>p postype=personal|gen=c|num=p|person=3</td><td>=&gt;</td><td>PRON</td><td>Number=Plur|Person=3|PronType=Prs</td><td><em>se, Les</em></td></tr>
   <tr><td>p postype=personal|gen=c|num=s|person=1</td><td>=&gt;</td><td>PRON</td><td>Number=Sing|Person=1|PronType=Prs</td><td><em>me</em></td></tr>
   <tr style="background:lightgray"><td>p postype=personal|gen=c|num=s|person=1|case=nominative</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Number=Sing|Person=1|PronType=Prs</td><td><em>yo</em></td></tr>
   <tr><td>p postype=personal|gen=c|num=s|person=1|case=oblique</td><td>=&gt;</td><td>PRON</td><td>Number=Sing|Person=1|PrepCase=Pre|PronType=Prs</td><td><em>mí, conmigo, mi</em></td></tr>
   <tr style="background:lightgray"><td>p postype=personal|gen=c|num=s|person=2</td><td>=&gt;</td><td>PRON</td><td>Number=Sing|Person=2|PronType=Prs</td><td><em>te</em></td></tr>
-  <tr><td>p postype=personal|gen=c|num=s|person=2|polite=yes</td><td>=&gt;</td><td>PRON</td><td>Number=Sing|Person=2|Polite=Pol|PronType=Prs</td><td><em>usted</em></td></tr>
+  <tr><td>p postype=personal|gen=c|num=s|person=2|polite=yes</td><td>=&gt;</td><td>PRON</td><td>Number=Sing|Person=2|Polite=Form|PronType=Prs</td><td><em>usted</em></td></tr>
   <tr style="background:lightgray"><td>p postype=personal|gen=c|num=s|person=3|case=accusative</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Number=Sing|Person=3|PronType=Prs</td><td><em>le, se, les, lo</em></td></tr>
   <tr><td>p postype=personal|gen=c|num=s|person=3|case=dative</td><td>=&gt;</td><td>PRON</td><td>Case=Dat|Number=Sing|Person=3|PronType=Prs</td><td><em>le, se</em></td></tr>
   <tr style="background:lightgray"><td>p postype=personal|gen=f|num=p|person=3</td><td>=&gt;</td><td>PRON</td><td>Gender=Fem|Number=Plur|Person=3|PronType=Prs</td><td><em>ellas, les</em></td></tr>
@@ -180,7 +181,7 @@ Tagset <tt>es::conll2009</tt>, total 272 tags.
   <tr><td>p postype=relative|gen=c|num=s</td><td>=&gt;</td><td>PRON</td><td>Number=Sing|PronType=Rel</td><td><em>quien, cual</em></td></tr>
   <tr style="background:lightgray"><td>p postype=relative|gen=m|num=s</td><td>=&gt;</td><td>PRON</td><td>Gender=Masc|Number=Sing|PronType=Rel</td><td><em>cuyo, cuanto</em></td></tr>
   <tr><td>r _</td><td>=&gt;</td><td>ADV</td><td>_</td><td><em>más, hoy, también, ayer, ya</em></td></tr>
-  <tr style="background:lightgray"><td>r postype=negative</td><td>=&gt;</td><td>ADV</td><td>Negative=Neg</td><td><em>no, no_sólo, nada_de, no_tanto, ni</em></td></tr>
+  <tr style="background:lightgray"><td>r postype=negative</td><td>=&gt;</td><td>ADV</td><td>Polarity=Neg</td><td><em>no, no_sólo, nada_de, no_tanto, ni</em></td></tr>
   <tr><td>s postype=preposition|gen=c|num=c</td><td>=&gt;</td><td>ADP</td><td>AdpType=Prep</td><td><em>de, en, a, con, por</em></td></tr>
   <tr style="background:lightgray"><td>s postype=preposition|gen=m|num=p|contracted=yes</td><td>=&gt;</td><td>ADP</td><td>AdpType=Preppron|Gender=Masc|Number=Plur</td><td><em></em></td></tr>
   <tr><td>s postype=preposition|gen=m|num=s|contracted=yes</td><td>=&gt;</td><td>ADP</td><td>AdpType=Preppron|Gender=Masc|Number=Sing</td><td><em>del, al, frente_al, a_partir_del, respecto_al</em></td></tr>

@@ -6,66 +6,89 @@
 
 This relation is a language-specific subtype of [acl]().
 
-95 nodes (2%) are attached to their parents as `acl:relcl`.
+12 nodes (2%) are attached to their parents as `acl:relcl`.
 
-94 instances of `acl:relcl` (99%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.74736842105263.
+12 instances of `acl:relcl` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.16666666666667.
 
-The following 7 pairs of parts of speech are connected with `acl:relcl`: [kk-pos/NOUN]()-[kk-pos/VERB]() (83; 87% instances), [kk-pos/ADJ]()-[kk-pos/VERB]() (3; 3% instances), [kk-pos/PROPN]()-[kk-pos/VERB]() (3; 3% instances), [kk-pos/NOUN]()-[kk-pos/ADJ]() (2; 2% instances), [kk-pos/NOUN]()-[kk-pos/NOUN]() (2; 2% instances), [kk-pos/PRON]()-[kk-pos/VERB]() (1; 1% instances), [kk-pos/VERB]()-[kk-pos/VERB]() (1; 1% instances).
+The following 3 pairs of parts of speech are connected with `acl:relcl`: [kk-pos/NOUN]()-[kk-pos/VERB]() (7; 58% instances), [kk-pos/NOUN]()-[kk-pos/ADJ]() (4; 33% instances), [kk-pos/PROPN]()-[kk-pos/VERB]() (1; 8% instances).
 
 
 ~~~ conllu
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 3 acl:relcl	color:blue
+1	Көл	көл	NOUN	n	Case=Nom	3	advcl	_	_
+2	болып	бол	AUX	v	Aspect=Perf|VerbForm=Conv	1	cop	_	_
+3	төгілген	төк	VERB	v	Tense=Past|VerbForm=Part|Voice=Pass	5	acl:relcl	_	_
+4	көздің	көз	NOUN	n	Case=Gen	5	nmod:poss	_	_
+5	жасы	жас	NOUN	n	Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3	7	nsubj	_	_
+6	жерге	жер	NOUN	n	Case=Dat	7	obl	_	_
+7	сіңді	сің	VERB	v	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
+8	,	,	PUNCT	cm	_	7	punct	_	_
+9	тілек	тілек	NOUN	n	Case=Nom	10	nsubj	_	_
+10	тозды	тоз	VERB	v	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	parataxis	_	SpaceAfter=No
+11	,	,	PUNCT	cm	_	10	punct	_	_
+12	өмір	өмір	NOUN	n	Case=Nom	13	nsubj	_	_
+13	озды	оз	VERB	v	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	parataxis	_	SpaceAfter=No
+14	,	,	PUNCT	cm	_	13	punct	_	_
+15	Шолпан	Шолпан	PROPN	np	Case=Nom|Gender=Fem	17	nsubj	_	_
+16	бала	бала	X	x	_	17	dep	_	_
+17	көтермеді	көтер	VERB	v	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Past|VerbForm=Fin	7	parataxis	_	SpaceAfter=No
+18	.	.	PUNCT	sent	_	17	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 4 acl:relcl	color:blue
-1	Теке	теке	NOUN	n	_	2	compound	_	nom
-2	көз	көз	NOUN	n	_	5	nmod	_	attr
-3	қазақша	қазақша	ADV	adv	_	4	advmod	_	_
-4	білетін	біл	VERB	v	_	5	acl:relcl	_	tv|gpr_impf
-5	тілмәш	тілмәш	NOUN	n	_	0	root	_	nom
-6	екен	е	AUX	cop	_	5	cop	_	aor|evid|p3|sg
-7	.	.	PUNCT	sent	_	5	punct	_	_
+# visual-style 4 3 acl:relcl	color:blue
+1	Дүниеде	дүние	NOUN	n	Case=Loc	5	obl	_	_
+2	адамнан	адам	NOUN	n	Case=Abl	3	obl	_	_
+3	қиын	қиын	ADJ	adj	_	4	acl:relcl	_	_
+4	жұмбақ	жұмбақ	NOUN	n	Case=Nom	5	nsubj	_	_
+5	жоқ	жоқ	ADJ	adj	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	sent	_	5	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 5 acl:relcl	color:blue
-1	Олар	олар	PRON	prn	_	8	nsubj	_	pers|p3|pl|nom
-2	елде	ел	NOUN	n	_	8	nmod	_	loc
-3	Хулагу	Хулагу	PROPN	np	_	4	nmod:poss	_	al|nom
-4	әулетіне	әулет	NOUN	n	_	5	dobj	_	px3sp|dat
-5	қарайтын	қара	VERB	v	_	6	acl:relcl	_	tv|gpr_impf
-6	ильхандар	ильхан	PROPN	np	_	7	nmod:poss	_	al|pl|nom
-7	мемлекетін	мемлекет	NOUN	n	_	8	dobj	_	px3sp|acc
-8	құрды	құр	VERB	v	_	0	root	_	tv|ifi|p3|sg
-9	.	.	PUNCT	sent	_	8	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 7 5 acl:relcl	color:blue
-1	Алып	ал	VERB	v	Aspect=Perf|VerbForm=Trans	2	advcl	_	ал|v|tv|gnaperf
-2	келген	кел	VERB	v	Tense=Past|VerbForm=Part	4	acl:relcl	_	кел|v|iv|gprpast
-3	манағы	манағы	DET	det	PronType=Dem	4	det	_	манағы|det|dem
-4	қолын	қол	NOUN	n	Case=Acc|Number[psor]=Plur,Sing|Person[psor]=3	5	dobj	_	қол|n|px3sp|acc
-5	артып	арт	VERB	v	Aspect=Perf|VerbForm=Coverb	7	acl:relcl	_	арт|v|iv|prcperf
-6	жатқан	жат	AUX	vaux	Tense=Past|VerbForm=Part	5	aux	_	жат|vaux|gprpast
-7	жирен	жирен	ADJ	adj	_	8	amod	_	жирен|adj
-8	орыс	орыс	NOUN	n	Case=Nom	0	root	_	орыс|n|nom
-9	екен	е	AUX	cop	Evidentiality=Fh|Number=Sing|Person=3|Tense=Aor	8	cop	_	е|cop|aor|evid|p3|sg
-10	.	.	PUNCT	sent	_	8	punct	_	.|sent
+# visual-style 17	bgColor:blue
+# visual-style 17	fgColor:white
+# visual-style 18	bgColor:blue
+# visual-style 18	fgColor:white
+# visual-style 18 17 acl:relcl	color:blue
+1	Мал	мал	NOUN	n	Case=Nom	2	nmod:poss	_	_
+2	орнына	орын	NOUN	n	Case=Dat|Number[psor]=Plur,Sing|Person[psor]=3	3	obl	_	_
+3	сатылып	сат	VERB	v	Aspect=Perf|VerbForm=Conv|Voice=Pass	12	acl:relcl	_	SpaceAfter=No
+4	,	,	PUNCT	cm	_	3	punct	_	_
+5	жаны	жан	NOUN	n	Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3	6	nsubj	_	_
+6	сүймеген	сүй	VERB	v	Polarity=Neg|Tense=Past|VerbForm=Part	7	acl:relcl	_	_
+7	жанға	жан	NOUN	n	Case=Dat	8	obl	_	_
+8	жар	жар	NOUN	n	Case=Nom	3	conj	_	_
+9	болатын	бол	AUX	v	Aspect=Imp|VerbForm=Part	8	cop	_	_
+10	қазақтың	қазақ	NOUN	n	Case=Gen	12	nmod:poss	_	_
+11	сансыз	сансыз	ADJ	adj	_	12	amod	_	_
+12	қыздарының	қыз	NOUN	n	Case=Gen|Number=Plur|Number[psor]=Plur,Sing|Person[psor]=3	13	nmod:poss	_	_
+13	ішінен	іш	NOUN	n	Case=Abl|Number[psor]=Plur,Sing|Person[psor]=3	17	obl	_	_
+14	әлдеқалай	әлдеқалай	ADV	adv	_	17	advmod	_	_
+15	өзінің	өз	PRON	prn	Case=Gen|Number[psor]=Plur,Sing|Person[psor]=3|PronType=Ref	16	nsubj	_	_
+16	сүйгеніне	сүй	VERB	v	Case=Dat|Number[psor]=Plur,Sing|Person[psor]=3|Tense=Past|VerbForm=Ger	17	ccomp	_	_
+17	тиген	ти	VERB	v	Tense=Past|VerbForm=Part	18	acl:relcl	_	_
+18	Шолпан	Шолпан	PROPN	np	Case=Nom|Gender=Fem	24	nsubj	_	_
+19	шынында	шынында	ADV	adv	_	24	advmod	_	_
+20	бастапқы	бастапқы	ADJ	adj	_	21	amod	_	_
+21	жылы	жыл	NOUN	n	Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3	24	obl	_	_
+22	бала	бала	NOUN	n	Case=Nom	24	obj	_	_
+23	керек	керек	X	x	_	24	dep	_	_
+24	қылмады	қыл	VERB	v	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
+25	.	.	PUNCT	sent	_	24	punct	_	_
 
 ~~~
 

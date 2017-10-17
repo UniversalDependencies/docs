@@ -7,38 +7,38 @@
 This feature is universal.
 It occurs with 1 different values: `Yes`.
 
-30669 tokens (2%) have a non-empty value of `Reflex`.
+27107 tokens (2%) have a non-empty value of `Reflex`.
 42 types (0%) occur at least once with a non-empty value of `Reflex`.
-6 lemmas (0%) occur at least once with a non-empty value of `Reflex`.
-The feature is used with 2 part-of-speech tags: [cs-pos/PRON]() (25901; 2% instances), [cs-pos/DET]() (4768; 0% instances).
+4 lemmas (0%) occur at least once with a non-empty value of `Reflex`.
+The feature is used with 2 part-of-speech tags: [cs-pos/PRON]() (22793; 2% instances), [cs-pos/DET]() (4314; 0% instances).
 
 ### `PRON`
 
-25901 [cs-pos/PRON]() tokens (36% of all `PRON` tokens) have a non-empty value of `Reflex`.
+22793 [cs-pos/PRON]() tokens (57% of all `PRON` tokens) have a non-empty value of `Reflex`.
 
-The most frequent other feature values with which `PRON` and `Reflex` co-occurred: <tt><a href="Person.html">Person</a>=EMPTY</tt> (25901; 100%), <tt><a href="PronType.html">PronType</a>=Prs</tt> (25901; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (25810; 100%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (25786; 100%), <tt><a href="Variant.html">Variant</a>=Short</tt> (25163; 97%), <tt><a href="Case.html">Case</a>=Acc</tt> (21635; 84%).
+The most frequent other feature values with which `PRON` and `Reflex` co-occurred: <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (22793; 100%), <tt><a href="PrepCase.html">PrepCase</a>=EMPTY</tt> (22793; 100%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (22793; 100%), <tt><a href="PronType.html">PronType</a>=Prs</tt> (22793; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (22793; 100%), <tt><a href="Variant.html">Variant</a>=Short</tt> (22237; 98%), <tt><a href="Case.html">Case</a>=Acc</tt> (19079; 84%).
 
 `PRON` tokens may have the following values of `Reflex`:
 
-* `Yes` (25901; 100% of non-empty `Reflex`): <em>se, si, sebe, sobě, sebou, své, svých, svého, svém, svůj</em>
-* `EMPTY` (46518): <em>to, které, který, která, co, tím, kteří, tom, nás, tomu</em>
+* `Yes` (22793; 100% of non-empty `Reflex`): <em>se, si, sebe, sobě, sebou, sa</em>
+* `EMPTY` (16871): <em>co, nás, je, nám, nich, kdo, což, mu, ho, ji</em>
 
 ### `DET`
 
-4768 [cs-pos/DET]() tokens (17% of all `DET` tokens) have a non-empty value of `Reflex`.
+4314 [cs-pos/DET]() tokens (9% of all `DET` tokens) have a non-empty value of `Reflex`.
 
-The most frequent other feature values with which `DET` and `Reflex` co-occurred: <tt><a href="Gender[psor].html">Gender[psor]</a>=EMPTY</tt> (4768; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (4768; 100%), <tt><a href="Number[psor].html">Number[psor]</a>=EMPTY</tt> (4768; 100%), <tt><a href="PronType.html">PronType</a>=Prs</tt> (4768; 100%), <tt><a href="Poss.html">Poss</a>=Yes</tt> (4768; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (3341; 70%).
+The most frequent other feature values with which `DET` and `Reflex` co-occurred: <tt><a href="Poss.html">Poss</a>=Yes</tt> (4314; 100%), <tt><a href="Number[psor].html">Number[psor]</a>=EMPTY</tt> (4314; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (4314; 100%), <tt><a href="PronType.html">PronType</a>=Prs</tt> (4314; 100%), <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (3799; 88%), <tt><a href="Number.html">Number</a>=Sing</tt> (3012; 70%).
 
 `DET` tokens may have the following values of `Reflex`:
 
-* `Yes` (4768; 100% of non-empty `Reflex`): <em>své, svou, svého, svých, svůj, svým, svém, svými, svoji, svému</em>
-* `EMPTY` (23051): <em>jeho, jejich, této, její, tento, tohoto, tato, těchto, tyto, několik</em>
+* `Yes` (4314; 100% of non-empty `Reflex`): <em>své, svou, svého, svých, svůj, svým, svém, svými, svoji, svému</em>
+* `EMPTY` (44456): <em>to, které, který, jeho, která, jejich, tím, kteří, tom, této</em>
 
 ## Relations with Agreement in `Reflex`
 
 The 10 most frequent relations where parent and child node agree in `Reflex`:
-<tt>PRON --[<a href="../dep/conj.html">conj</a>]--> PRON</tt> (5; 63%),
-<tt>DET --[<a href="../dep/conj.html">conj</a>]--> PRON</tt> (1; 100%).
+<tt>PRON --[<a href="../dep/conj.html">conj</a>]--> PRON</tt> (3; 60%),
+<tt>DET --[<a href="../dep/conj.html">conj</a>]--> DET</tt> (2; 67%).
 
 
 
@@ -49,32 +49,32 @@ The 10 most frequent relations where parent and child node agree in `Reflex`:
 This feature is universal.
 It occurs with 1 different values: `Yes`.
 
-10459 tokens (2%) have a non-empty value of `Reflex`.
+10240 tokens (2%) have a non-empty value of `Reflex`.
 28 types (0%) occur at least once with a non-empty value of `Reflex`.
 3 lemmas (0%) occur at least once with a non-empty value of `Reflex`.
-The feature is used with 2 part-of-speech tags: [cs-pos/PRON]() (9066; 2% instances), [cs-pos/DET]() (1393; 0% instances).
+The feature is used with 2 part-of-speech tags: [cs-pos/PRON]() (8851; 2% instances), [cs-pos/DET]() (1389; 0% instances).
 
 ### `PRON`
 
-9066 [cs-pos/PRON]() tokens (37% of all `PRON` tokens) have a non-empty value of `Reflex`.
+8851 [cs-pos/PRON]() tokens (56% of all `PRON` tokens) have a non-empty value of `Reflex`.
 
-The most frequent other feature values with which `PRON` and `Reflex` co-occurred: <tt><a href="PronType.html">PronType</a>=Prs</tt> (9066; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (9065; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (9043; 100%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (9038; 100%), <tt><a href="Variant.html">Variant</a>=Short</tt> (8706; 96%), <tt><a href="Case.html">Case</a>=Acc</tt> (7811; 86%).
+The most frequent other feature values with which `PRON` and `Reflex` co-occurred: <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (8851; 100%), <tt><a href="PrepCase.html">PrepCase</a>=EMPTY</tt> (8851; 100%), <tt><a href="PronType.html">PronType</a>=Prs</tt> (8851; 100%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (8850; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (8850; 100%), <tt><a href="Variant.html">Variant</a>=Short</tt> (8525; 96%), <tt><a href="Case.html">Case</a>=Acc</tt> (7639; 86%).
 
 `PRON` tokens may have the following values of `Reflex`:
 
-* `Yes` (9066; 100% of non-empty `Reflex`): <em>se, si, sebe, sobě, sebou, své, sui, svého, svém, svých</em>
-* `EMPTY` (15323): <em>to, které, který, která, tím, co, všech, všechny, je, kteří</em>
+* `Yes` (8851; 100% of non-empty `Reflex`): <em>se, si, sebe, sobě, sebou, sis</em>
+* `EMPTY` (6829): <em>co, všech, je, nás, všechny, nám, jež, nich, nichž, ji</em>
 
 ### `DET`
 
-1393 [cs-pos/DET]() tokens (13% of all `DET` tokens) have a non-empty value of `Reflex`.
+1389 [cs-pos/DET]() tokens (7% of all `DET` tokens) have a non-empty value of `Reflex`.
 
-The most frequent other feature values with which `DET` and `Reflex` co-occurred: <tt><a href="Poss.html">Poss</a>=Yes</tt> (1393; 100%), <tt><a href="PronType.html">PronType</a>=Prs</tt> (1393; 100%), <tt><a href="Number[psor].html">Number[psor]</a>=EMPTY</tt> (1393; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (1393; 100%), <tt><a href="Gender[psor].html">Gender[psor]</a>=EMPTY</tt> (1393; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (985; 71%).
+The most frequent other feature values with which `DET` and `Reflex` co-occurred: <tt><a href="Poss.html">Poss</a>=Yes</tt> (1389; 100%), <tt><a href="Number[psor].html">Number[psor]</a>=EMPTY</tt> (1389; 100%), <tt><a href="PronType.html">PronType</a>=Prs</tt> (1389; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (1389; 100%), <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (1265; 91%), <tt><a href="Number.html">Number</a>=Sing</tt> (981; 71%).
 
 `DET` tokens may have the following values of `Reflex`:
 
-* `Yes` (1393; 100% of non-empty `Reflex`): <em>své, svou, svých, svého, svým, svůj, svém, svými, svému, svoje</em>
-* `EMPTY` (9695): <em>jejich, jeho, této, těchto, tyto, tento, tohoto, její, tato, naší</em>
+* `Yes` (1389; 100% of non-empty `Reflex`): <em>své, svou, svých, svého, svým, svůj, svém, svými, svému, svoje</em>
+* `EMPTY` (17652): <em>to, které, jejich, jeho, který, která, tím, této, těchto, tyto</em>
 
 
 
@@ -85,30 +85,30 @@ The most frequent other feature values with which `DET` and `Reflex` co-occurred
 This feature is universal.
 It occurs with 1 different values: `Yes`.
 
-499 tokens (1%) have a non-empty value of `Reflex`.
-11 types (0%) occur at least once with a non-empty value of `Reflex`.
+332 tokens (1%) have a non-empty value of `Reflex`.
+8 types (0%) occur at least once with a non-empty value of `Reflex`.
 2 lemmas (0%) occur at least once with a non-empty value of `Reflex`.
-The feature is used with 2 part-of-speech tags: [cs-pos/PRON]() (475; 1% instances), [cs-pos/DET]() (24; 0% instances).
+The feature is used with 2 part-of-speech tags: [cs-pos/PRON]() (314; 1% instances), [cs-pos/DET]() (18; 0% instances).
 
 ### `PRON`
 
-475 [cs-pos/PRON]() tokens (39% of all `PRON` tokens) have a non-empty value of `Reflex`.
+314 [cs-pos/PRON]() tokens (39% of all `PRON` tokens) have a non-empty value of `Reflex`.
 
-The most frequent other feature values with which `PRON` and `Reflex` co-occurred: <tt><a href="Number.html">Number</a>=EMPTY</tt> (475; 100%), <tt><a href="PronType.html">PronType</a>=Prs</tt> (475; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (475; 100%), <tt><a href="Variant.html">Variant</a>=Short</tt> (468; 99%), <tt><a href="Case.html">Case</a>=Acc</tt> (467; 98%).
+The most frequent other feature values with which `PRON` and `Reflex` co-occurred: <tt><a href="Number.html">Number</a>=EMPTY</tt> (314; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (314; 100%), <tt><a href="PronType.html">PronType</a>=Prs</tt> (314; 100%), <tt><a href="Case.html">Case</a>=Acc</tt> (309; 98%), <tt><a href="Variant.html">Variant</a>=Short</tt> (309; 98%).
 
 `PRON` tokens may have the following values of `Reflex`:
 
-* `Yes` (475; 100% of non-empty `Reflex`): <em>se, sobě, sebou, si</em>
-* `EMPTY` (737): <em>které, která, který, to, kterých, kterým, kterém, kterému, nichž, všech</em>
+* `Yes` (314; 100% of non-empty `Reflex`): <em>se, sobě, sebou</em>
+* `EMPTY` (498): <em>které, která, který, to, kterých, kterým, kterém, nichž, všech, němž</em>
 
 ### `DET`
 
-24 [cs-pos/DET]() tokens (4% of all `DET` tokens) have a non-empty value of `Reflex`.
+18 [cs-pos/DET]() tokens (4% of all `DET` tokens) have a non-empty value of `Reflex`.
 
-The most frequent other feature values with which `DET` and `Reflex` co-occurred: <tt><a href="PronType.html">PronType</a>=Prs</tt> (24; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (24; 100%), <tt><a href="Gender[psor].html">Gender[psor]</a>=EMPTY</tt> (24; 100%), <tt><a href="Number[psor].html">Number[psor]</a>=EMPTY</tt> (24; 100%), <tt><a href="Poss.html">Poss</a>=Yes</tt> (24; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (20; 83%).
+The most frequent other feature values with which `DET` and `Reflex` co-occurred: <tt><a href="PronType.html">PronType</a>=Prs</tt> (18; 100%), <tt><a href="Gender[psor].html">Gender[psor]</a>=EMPTY</tt> (18; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (18; 100%), <tt><a href="Number[psor].html">Number[psor]</a>=EMPTY</tt> (18; 100%), <tt><a href="Poss.html">Poss</a>=Yes</tt> (18; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (15; 83%), <tt><a href="Case.html">Case</a>=Gen</tt> (11; 61%).
 
 `DET` tokens may have the following values of `Reflex`:
 
-* `Yes` (24; 100% of non-empty `Reflex`): <em>své, svého, svých, svůj, svoji, svým, svou</em>
-* `EMPTY` (571): <em>jejich, jeho, této, tohoto, těchto, tyto, tato, tento, její, tomto</em>
+* `Yes` (18; 100% of non-empty `Reflex`): <em>své, svého, svých, svůj, svou</em>
+* `EMPTY` (387): <em>jejich, této, jeho, těchto, tyto, tohoto, tento, tato, její, tomto</em>
 

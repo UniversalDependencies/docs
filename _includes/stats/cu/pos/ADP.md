@@ -4,54 +4,55 @@
 
 ## Treebank Statistics (UD_Old_Church_Slavonic)
 
-There are 32 `ADP` lemmas (1%), 64 `ADP` types (1%) and 4684 `ADP` tokens (8%).
-Out of 13 observed tags, the rank of `ADP` is: 7 in number of lemmas, 8 in number of types and 6 in number of tokens.
+There are 29 `ADP` lemmas (1%), 57 `ADP` types (1%) and 3905 `ADP` tokens (8%).
+Out of 14 observed tags, the rank of `ADP` is: 6 in number of lemmas, 9 in number of types and 7 in number of tokens.
 
-The 10 most frequent `ADP` lemmas: <em>въ, на, отъ, къ, съ, о, по, прѣдъ, ради, из</em>
+The 10 most frequent `ADP` lemmas: <em>въ, на, отъ, къ, съ, о, по, прѣдъ, ради, за</em>
 
-The 10 most frequent `ADP` types:  <em>въ, на, отъ, къ, съ, о, по, вь, ради, прѣдъ</em>
+The 10 most frequent `ADP` types:  <em>въ, на, отъ, къ, съ, о, по, вь, прѣдъ, ради</em>
 
-The 10 most frequent ambiguous lemmas: <em>оу</em> ([ADP]() 25, [ADV]() 19), <em>прѣжде</em> ([ADV]() 47, [ADP]() 12), <em>противѫ</em> ([ADV]() 3, [ADP]() 2), <em>кромѣ</em> ([ADV]() 2, [ADP]() 1), <em>окрьстъ</em> ([ADV]() 5, [ADP]() 1), <em>послѣдь</em> ([ADV]() 11, [ADP]() 1)
+The 10 most frequent ambiguous lemmas: <em>оу</em> ([ADP]() 23, [ADV]() 18), <em>прѣжде</em> ([ADV]() 43, [ADP]() 9), <em>кромѣ</em> ([ADP]() 1, [ADV]() 1), <em>послѣдь</em> ([ADV]() 9, [ADP]() 1)
 
-The 10 most frequent ambiguous types:  <em>въ</em> ([ADP]() 1152, [PRON]() 1), <em>съ</em> ([ADP]() 319, [ADJ]() 18), <em>до</em> ([ADP]() 56, [SCONJ]() 2), <em>оу</em> ([ADP]() 25, [ADV]() 17), <em>вꙑ</em> ([PRON]() 208, [ADP]() 15), <em>прѣжде</em> ([ADV]() 47, [ADP]() 10), <em>и</em> ([CONJ]() 1669, [PRON]() 387, [ADV]() 201, [ADP]() 7), <em>връхоу</em> ([ADP]() 6, [NOUN]() 2), <em>противѫ</em> ([ADV]() 2, [ADP]() 2), <em>кромѣ</em> ([ADV]() 2, [ADP]() 1)
+The 10 most frequent ambiguous types:  <em>въ</em> ([ADP]() 992, [ADV]() 5), <em>отъ</em> ([ADP]() 522, [ADV]() 63), <em>съ</em> ([ADP]() 263, [ADJ]() 11, [ADV]() 4, [DET]() 4), <em>вь</em> ([ADP]() 201, [DET]() 1), <em>прѣдъ</em> ([ADP]() 66, [VERB]() 1), <em>за</em> ([ADP]() 59, [ADV]() 3), <em>до</em> ([ADP]() 49, [ADV]() 7, [SCONJ]() 1), <em>из</em> ([ADP]() 33, [ADV]() 11), <em>оу</em> ([ADP]() 23, [ADV]() 17), <em>вꙑ</em> ([PRON]() 177, [ADP]() 14)
 
 
 * <em>въ</em>
-  * [ADP]() 1152: <em>ѣко пространа врата и широкъ пѫть въводѧи <b>въ</b> пагоубѫ</em>
-  * [PRON]() 1: <em>хоштете ли да отъпоуштѫ <b>въ</b> ц҃срѣ июдеиска</em>
+  * [ADP]() 992: <em>не <b>въ</b> лъжѫ клънеши сѧ</em>
+  * [ADV]() 5: <em>ꙇ҃с же вьзведе <b>въ</b> іспрь очи и рече</em>
+* <em>отъ</em>
+  * [ADP]() 522: <em>аще же око твое десное съблажнаатъ тѧ ꙇзьми е и връзи <b>отъ</b> тебе</em>
+  * [ADV]() 63: <em>не изидеши <b>отъ</b> тѫдѣ доньдеже въздаси послѣдьнии кодрантъ</em>
 * <em>съ</em>
-  * [ADP]() 319: <em>и аще къто поиметъ тѧ по силѣ попьрище едино ꙇди <b>съ</b> нимь дьвѣ</em>
-  * [ADJ]() 18: <em>ꙇже бо аште сътворитъ волѭ б҃жиѭ҄ <b>съ</b> братръ мои и сестра моѣ ꙇ мати естъ</em>
+  * [ADP]() 263: <em>и аще къто поиметъ тѧ по силѣ попьрище едино ꙇди <b>съ</b> нимь дьвѣ</em>
+  * [ADJ]() 11: <em>камень егоже не врѣдоу сътворишѧ зиждѫштеи <b>съ</b> бꙑстъ въ главѫ ѫгълѫ</em>
+  * [ADV]() 4: <em>не имаши области на мьнѣ никоеѩже аще не би ти дано <b>съ</b> вꙑше</em>
+  * [DET]() 4: <em>прѣидѣмъ оубо до витлеема ꙇ видимъ г҃лъ <b>съ</b> бꙑвъшии҅ ꙇже съказа намъ г҃ъ</em>
+* <em>вь</em>
+  * [ADP]() 201: <em>народи же ходѧштеи прѣдъ нимъ ꙇ <b>вь</b> слѣдъ зъваахѫ г҃лѭште</em>
+  * [DET]() 1: <em>г҃лѭ же вамъ ѣко ни соломонъ во <b>вь</b> сеи славѣ своеи облѣче сѧ ѣко единъ отъ сихъ</em>
+* <em>прѣдъ</em>
+  * [ADP]() 66: <em>Вьнемлѣте милостꙑнѧ вашеѩ не творити <b>прѣдъ</b> ч҃лвкꙑ да видими бѫдете ими</em>
+  * [VERB]() 1: <em>ꙇ <b>прѣдъ</b> ходѧште и въ слѣдъ ходѧштеи вьпиѣхѫ г҃лѭште</em>
+* <em>за</em>
+  * [ADP]() 59: <em>око <b>за</b> око и зѫбъ <b>за</b> зѫбъ</em>
+  * [ADV]() 3: <em>ꙇ ѕѣло <b>за</b> оутра вь единѫ соботъ придѫ на гробъ въсиѣвъшю слъньцю</em>
 * <em>до</em>
-  * [ADP]() 56: <em>ꙇ наплънишѧ ѩ <b>до</b> връха</em>
-  * [SCONJ]() 2: <em>прѣиди отъ.сѫдѫ ꙇ идѫ въ іюдеѭ <b>до</b> и оученици твои видѧтъ дѣла твоѣ ѣже твориши</em>
+  * [ADP]() 49: <em>прѣтръпѣвꙑ же <b>до</b> коньца тъ с҃пст сѧ</em>
+  * [ADV]() 7: <em>ѡ̆ роде невѣрънꙑ и развращенꙑ <b>до</b> колѣ съ вами бѫдѫ</em>
+  * [SCONJ]() 1: <em>прѣиди отъ сѫдѫ ꙇ идѫ въ іюдеѭ <b>до</b> и оученици твои видѧтъ дѣла твоѣ ѣже твориши</em>
+* <em>из</em>
+  * [ADP]() 33: <em>ꙇ оставль ѩ изиде вънь <b>из</b> града въ витаниѭ ꙇ въдвори сѧ тоу</em>
+  * [ADV]() 11: <em>а мꙑтарь <b>из</b> далече стоѩ не хотѣаше ни очию възвести на небо</em>
 * <em>оу</em>
-  * [ADP]() 25: <em>егда же придѫ самарѣне къ немоу молѣахѫ и да би прѣбꙑлъ <b>оу</b> нихъ</em>
-  * [ADV]() 17: <em>врѣмѧ мое не <b>оу</b> приде а врѣмѧ ваше въсегда есть готово</em>
+  * [ADP]() 23: <em>Просѧштоумоу <b>оу</b> тебе даи ꙇ хотѧштаго отъ тебе заѩти не отъврати</em>
+  * [ADV]() 17: <em>подобаатъ бо бꙑти нъ не <b>оу</b> коньчина</em>
 * <em>вꙑ</em>
-  * [PRON]() 208: <em>аще бо любите любѧщѧѩ <b>вꙑ</b> кѫѭ҄ мъздѫ имате</em>
-  * [ADP]() 15: <em>и идѫ <b>вꙑ</b> инѫ весь</em>
-* <em>прѣжде</em>
-  * [ADV]() 47: <em>г҃и повели ми <b>прѣжде</b> ити ꙇ҅ погрети о҃тца моего</em>
-  * [ADP]() 10: <em>вѣстъ бо отецъ вашъ ихъже трѣбоуете <b>прѣжде</b> прошениѣ вашего</em>
-* <em>и</em>
-  * [CONJ]() 1669: <em><b>и</b> аще къто поиметъ тѧ по силѣ попьрище едино ꙇди съ нимь дьвѣ</em>
-  * [PRON]() 387: <em>съвѧзавъше емоу рѫцѣ и ноѕѣ възьмѣте <b>и</b> ꙇ въвръѕѣте въ тъмѫ кромѣштьнѭѭ</em>
-  * [ADV]() 201: <em>ꙇдеже бо естъ съкровище ваше тоу <b>и</b> с҃рдце ваше</em>
-  * [ADP]() 7: <em>въставъ же <b>и</b> съньмишта въниде въ домъ симоновъ</em>
-* <em>връхоу</em>
-  * [ADP]() 6: <em>клънꙑи сѧ оубо олтаремь кльнетъ сѧ имь и сѫштиими <b>връхоу</b> его</em>
-  * [NOUN]() 2: <em>бѣ же хитонъ не шъвенъ съ <b>връхоу</b> истъканъ вьсь</em>
-* <em>противѫ</em>
-  * [ADV]() 2: <em>сего ради и <b>противѫ</b> емоу изиде народъ ѣко слꙑшашѧ и сътворьшь се знамение</em>
-  * [ADP]() 2: <em>ꙇ се весь градъ изидѫ <b>противѫ</b> и҃сви ꙇ видѣвъше и молишѧ да би прѣшелъ отъ прѣдѣлъ ихъ</em>
-* <em>кромѣ</em>
-  * [ADV]() 2: <em>сии людие оустънами мѧ чътѫтъ а сръдьце ихъ <b>кромѣ</b> отъстоитъ отъ мене</em>
-  * [ADP]() 1: <em>ꙇ молѣше и мъного да не посълетъ ихъ <b>кромѣ</b> странꙑ</em>
+  * [PRON]() 177: <em>б҃лагслвите клънѫштѧѩ <b>вꙑ</b></em>
+  * [ADP]() 14: <em>ни <b>вꙑ</b> и҃зли толикоѩ вѣрꙑ не обрѣтъ</em>
 
 ## Morphology
 
-The form / lemma ratio of `ADP` is 2.000000 (the average of all parts of speech is 3.336884).
+The form / lemma ratio of `ADP` is 1.965517 (the average of all parts of speech is 3.127228).
 
 The 1st highest number of forms (9) was observed with the lemma “из”: <em>и, иж, из, из-д-, изь, ис, ꙇж, ꙇз, ꙇз-д-</em>.
 
@@ -64,19 +65,19 @@ The 3rd highest number of forms (5) was observed with the lemma “без”: <e
 
 ## Relations
 
-`ADP` nodes are attached to their parents using 4 different relations: [cu-dep/case]() (4663; 100% instances), [cu-dep/xcomp]() (11; 0% instances), [cu-dep/advmod]() (9; 0% instances), [cu-dep/amod]() (1; 0% instances)
+`ADP` nodes are attached to their parents using 4 different relations: [cu-dep/case]() (3886; 100% instances), [cu-dep/xcomp]() (11; 0% instances), [cu-dep/advmod]() (7; 0% instances), [cu-dep/amod]() (1; 0% instances)
 
-Parents of `ADP` nodes belong to 7 different parts of speech: [NOUN]() (2753; 59% instances), [PRON]() (1218; 26% instances), [PROPN]() (268; 6% instances), [ADJ]() (267; 6% instances), [NUM]() (112; 2% instances), [VERB]() (56; 1% instances), [ADV]() (10; 0% instances)
+Parents of `ADP` nodes belong to 8 different parts of speech: [NOUN]() (2308; 59% instances), [PRON]() (973; 25% instances), [ADJ]() (240; 6% instances), [PROPN]() (231; 6% instances), [NUM]() (96; 2% instances), [VERB]() (48; 1% instances), [ADV]() (8; 0% instances), [DET]() (1; 0% instances)
 
-4589 (98%) `ADP` nodes are leaves.
+3829 (98%) `ADP` nodes are leaves.
 
-93 (2%) `ADP` nodes have one child.
+74 (2%) `ADP` nodes have one child.
 
 2 (0%) `ADP` nodes have two children.
 
 The highest child degree of a `ADP` node is 2.
 
-Children of `ADP` nodes are attached using 7 different relations: [cu-dep/appos]() (37; 38% instances), [cu-dep/neg]() (24; 25% instances), [cu-dep/advmod]() (23; 24% instances), [cu-dep/advcl]() (7; 7% instances), [cu-dep/nmod]() (4; 4% instances), [cu-dep/ccomp]() (1; 1% instances), [cu-dep/discourse]() (1; 1% instances)
+Children of `ADP` nodes are attached using 5 different relations: [cu-dep/advmod]() (36; 46% instances), [cu-dep/appos]() (35; 45% instances), [cu-dep/advcl]() (4; 5% instances), [cu-dep/nmod]() (2; 3% instances), [cu-dep/discourse]() (1; 1% instances)
 
-Children of `ADP` nodes belong to 7 different parts of speech: [ADV]() (48; 49% instances), [NOUN]() (30; 31% instances), [VERB]() (7; 7% instances), [PROPN]() (5; 5% instances), [NUM]() (3; 3% instances), [PRON]() (3; 3% instances), [ADJ]() (1; 1% instances)
+Children of `ADP` nodes belong to 7 different parts of speech: [ADV]() (37; 47% instances), [NOUN]() (27; 35% instances), [PROPN]() (4; 5% instances), [VERB]() (4; 5% instances), [ADJ]() (2; 3% instances), [NUM]() (2; 3% instances), [PRON]() (2; 3% instances)
 

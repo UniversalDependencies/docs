@@ -1,50 +1,36 @@
 -
   name: Aux chain
   required_empty: true
-  expr: _ <aux (_ <aux _)
+  expr: "_ <aux|<aux:pass|<cop (_ <aux|<aux:pass|<cop _)"
   desc: Auxiliary dependencies should not form a chain.
   pos_ex: "Do you think that he will have left when we come ?\naux(think, Do)\naux(left, will)\naux(left, have)"
   neg_ex: "Do you think that he will have left when we come ?\naux(think, Do)\naux(have, will)\naux(left, have)"
   link: http://universaldependencies.org/u/dep/aux_.html
 
-#-
-#  name: Name is right-headed
-#  required_empty: true
-#  expr: _ <name@R _
-#  desc: Name dependencies should be left-headed, not right.
-#  pos_ex: "Carl XVI Gustaf\nname(Carl, XVI)\nname(Carl, Gustaf)"
-#  neg_ex: "Carl XVI Gustaf\nname(Gustaf, XVI)\nname(Gustaf, Carl)"
-#  link: http://universaldependencies.org/u/dep/name.html
-
-#-
-#  name: MWE is right-headed
-#  required_empty: true
-#  expr: _ <mwe@R _
-#  desc: Multi-word expressions should be left-headed, not right.
-#  pos_ex: "He cried because of you\nmwe(because, of)"
-#  neg_ex: "He cried because of you\nmwe(of, because)"
-#  link: http://universaldependencies.org/u/dep/mwe.html
+-
+  name: Flat is right-headed
+  required_empty: true
+  expr: _ <flat@R _
+  desc: Flat relations should be left-headed, not right.
+  pos_ex: "Carl XVI Gustaf\nflat(Carl, XVI)\nflat(Carl, Gustaf)"
+  neg_ex: "Carl XVI Gustaf\nflat(Gustaf, XVI)\nflat(Gustaf, Carl)"
+  link: http://universaldependencies.org/u/dep/flat.html
 
 -
-  name: MWE chain
+  name: Fixed is right-headed
   required_empty: true
-  expr: "_ <mwe (_ <mwe _)"
-  desc: MWE dependencies should not be chained. All dependents should be attached directly to the first one.
-  link: http://universaldependencies.org/u/dep/mwe.html
-
-#-
-#  name: Foreign is right-headed
-#  required_empty: true
-#  expr: _ <foreign@R _
-#  desc: Foreign dependencies should be left-headed, not right.
-#  link: http://universaldependencies.org/u/dep/foreign.html
+  expr: _ <fixed@R _
+  desc: Fixed expressions should be left-headed, not right.
+  pos_ex: "He cried because of you\nfixed(because, of)"
+  neg_ex: "He cried because of you\nfixed(of, because)"
+  link: http://universaldependencies.org/u/dep/fixed.html
 
 -
-  name: Foreign chain
+  name: Fixed chain
   required_empty: true
-  expr: "_ <foreign (_ <foreign _)"
-  desc: Foreign dependencies should not be chained. All dependents should be attached directly to the first one. If we wish to annotate real syntactic structure of foreign material, we must not use the foreign relation.
-  link: http://universaldependencies.org/u/dep/foreign.html
+  expr: "_ <fixed (_ <fixed _)"
+  desc: Fixed dependencies should not be chained. All dependents should be attached directly to the first one.
+  link: http://universaldependencies.org/u/dep/fixed.html
 
 -
   name: Conj is right-headed
@@ -55,12 +41,12 @@
   desc: Coordination dependencies should be left-headed, not right.
   link: http://universaldependencies.org/u/dep/conj.html
 
--
-  name: Conj is left-headed
-  required_empty: true
-  expr: _ <conj@L _
-  desc: <b>DEBUGGING TEST. NONZERO HITS DOES NOT MEAN THE DATA IS INVALID.</b> In contrast, this test shows examples where coordination is left-headed.
-  link: http://universaldependencies.org/u/dep/conj.html
+#-
+#  name: Conj is left-headed
+#  required_empty: true
+#  expr: _ <conj@L _
+#  desc: <b>DEBUGGING TEST. NONZERO HITS DOES NOT MEAN THE DATA IS INVALID.</b> In contrast, this test shows examples where coordination is left-headed.
+#  link: http://universaldependencies.org/u/dep/conj.html
 
 -
   name: Appos is right-headed
@@ -74,31 +60,24 @@
 #-
 #  name: Non-passive subject with passive auxiliary
 #  required_empty: true
-#  expr: "_ >nsubj|>csubj _ >auxpass|>auxpass:refl _"
+#  expr: "_ >nsubj|>csubj _ >aux:pass|>expl:pass _"
 #  desc: A passive auxiliary implies that the subject is passive, too.
-#  pos_ex: "The reconstruction was finished yesterday .\nnsubjpass(finished, reconstruction)\nauxpass(finished, was)"
-#  neg_ex: "The reconstruction was finished yesterday .\nnsubj(finished, reconstruction)\nauxpass(finished, was)"
-#  link: http://universaldependencies.org/docs/u/dep/nsubjpass.html
-
-#-
-#  name: Passive subject of a NOUN
-#  required_empty: true
-#  expr: "_ <nsubjpass NOUN"
-#  desc: Nouns may have subjects in copula-like constructions. Copula-like constructions may be passive if the predicate is passive participle. But a combination of the two cases seems too much.
-#  link: http://universaldependencies.org/docs/u/dep/nsubjpass.html
+#  pos_ex: "The reconstruction was finished yesterday .\nnsubj:pass(finished, reconstruction)\naux:pass(finished, was)"
+#  neg_ex: "The reconstruction was finished yesterday .\nnsubj(finished, reconstruction)\naux:pass(finished, was)"
+#  link: http://universaldependencies.org/docs/u/dep/nsubj-pass.html
 
 -
-  name: Copula is not VERB
+  name: Copula is not AUX
   required_empty: true
-  expr: (!(VERB|AUX)) <cop _
+  expr: (!(AUX|PRON)) <cop _
   expr-pos: _ <cop _
-  desc: Copulas should always be verbs. Not punctuation (dashes) and definitely not nominals.
+  desc: Verbal copulas should be tagged AUX, not VERB. Pronouns can also serve as copulas. Punctuation (dashes) and nouns are not copulas.
   link: http://universaldependencies.org/docs/u/dep/cop.html
 
 -
-  name: PRON is mark
+  name: PRON or DET is mark
   required_empty: true
-  expr: PRON <mark _
+  expr: (PRON|DET) <mark _
   desc: Pronouns must not be attached using the mark relation. Relative pronouns must not be confused with subordinating conjunctions, even if the word is ambiguous.
   pos_ex: "This is a fact that we cannot ignore . You know that we cannot ignore it .\ndobj(ignore-8, that-5)\nmark(ignore-15, that-12)"
   neg_ex: "This is a fact that we cannot ignore .\nmark(ignore-8, that-5)"
@@ -138,9 +117,9 @@
   link: http://universaldependencies.org/docs/u/feat/NumType.html
 
 -
-  name: VERB or AUX lacks the VerbForm feature
-  expr: "(VERB|AUX)&!VerbForm"
-  desc: All verbs should be further categorized using the VerbForm feature. Other POS may or may not have this feature.
+  name: VERB lacks the VerbForm feature
+  expr: "(VERB)&!VerbForm"
+  desc: All verbs should be further categorized using the VerbForm feature. Other POS may or may not have this feature. (Note that AUX may include non-verbs, thus we cannot generally extend this test to auxiliaries.)
   link: http://universaldependencies.org/docs/u/feat/VerbForm.html
 
 -
@@ -166,21 +145,15 @@
 
 -
   name: Maximum one subject
-  expr: "_ >nsubj|>csubj|>nsubjpass|>csubjpass _ >nsubj|>csubj|>nsubjpass|>csubjpass _"
+  expr: "_ >nsubj|>csubj|>nsubj:pass|>csubj:pass _ >nsubj|>csubj|>nsubj:pass|>csubj:pass _"
   desc: <b>DEBUGGING TEST. NONZERO HITS DOES NOT MEAN THE DATA IS INVALID.</b> No predicate can have more than one subject. Note that subordinate clauses do not head copulas for this reason.
   link: http://universaldependencies.org/u/dep/nsubj.html
 
 -
-  name: Maximum one direct object
-  expr: "_ >dobj|>ccomp _ >dobj|>ccomp _"
+  name: Maximum one object
+  expr: "_ >obj|>ccomp _ >obj|>ccomp _"
   desc: <b>DEBUGGING TEST. NONZERO HITS DOES NOT MEAN THE DATA IS INVALID.</b> No predicate can have more than one direct object. Ccomp counts as direct object. (To certain extent xcomp does too, but dobj can co-occur with xcomp in cases of secondary predication, thus this test does not look at xcomp.)
-  link: http://universaldependencies.org/u/dep/dobj.html
-
--
-  name: Case not dependent on nmod
-  expr: "_ <case (_ (<!nmod&<!nmod:agent&<!conj) _)"
-  desc: <b>DEBUGGING TEST. NONZERO HITS DOES NOT MEAN THE DATA IS INVALID.</b> If a word is marked as having a case dependency, its head should usually be marked as being a nominal modifier. But note that several legitimate exceptions occur, in particular, through coordination (where the head is labeled conj instead of nmod) and in nominal clauses (where the head is the main predicate of a clause). Also, in some languages case can modify also objects and other nominals.
-  link: http://universaldependencies.org/u/dep/case.html
+  link: http://universaldependencies.org/u/dep/obj.html
 
 -
   name: NOUN and case
@@ -191,7 +164,7 @@
 
 -
   name: ADP is not leaf
-  expr: "ADP >!conj&>!cc&>!punct&>!mwe&>!foreign _"
+  expr: "ADP >!conj&>!cc&>!punct&>!fixed _"
   desc: <b>DEBUGGING TEST. NONZERO HITS DOES NOT MEAN THE DATA IS INVALID.</b> By default adposition is a leaf node attached to a nominal as case. Exceptions where adpositions are not leaves involve technical relations such as mwe and conj.
   link: http://universaldependencies.org/docs/u/dep/case.html
 
@@ -216,12 +189,9 @@
   desc: "<b>DEBUGGING TEST. NONZERO HITS DOES NOT MEAN THE DATA IS INVALID.</b> The heads of an adverbial modifier should normally not be nominal (noun, proper noun, numeral, or pronoun). Exceptions occur in nominal clauses, where a nominal is the main predicate and can therefore take clause adverbials. Example: This is probably an exception."
   link: http://universaldependencies.org/docs/u/dep/advmod.html
 
-#Note: in the following test expr is between double quotes because ! has a special meaning in yaml
-#      also, because expr is not simple (starting with _), expr-pos is given as a basis of the links
-#      that are placed in the table. The first _ is always varied with POS
 -
-  name: Acl not dependent on NOUN/PROPN/PRON
-  expr: "!PRON&!NOUN&!PROPN >acl _"
+  name: Acl not dependent on NOUN/PROPN/PRON/DET
+  expr: "!NOUN&!PROPN&!PRON&!DET >acl _"
   expr-pos: _ >acl _
   desc: <b>DEBUGGING TEST. NONZERO HITS DOES NOT MEAN THE DATA IS INVALID.</b> Clausal modifiers of nouns should depend on NOUN/PROPN only; those in the following table depend on other parts of speech.
   link: http://universaldependencies.org/u/dep/acl.html
@@ -241,23 +211,23 @@
   link: http://universaldependencies.org/docs/u/dep/nummod.html
 
 -
-  name: Marked as AUX but not aux or auxpass
-  expr: "AUX (<!aux&<!auxpass) _"
-  expr-pos: "_ (<!aux&<!auxpass) _"
-  desc: <b>DEBUGGING TEST. NONZERO HITS DOES NOT MEAN THE DATA IS INVALID.</b> If a word is marked as the auxiliary POS, it should be marked as either aux or auxpass dependency.
+  name: Marked as AUX but not aux or aux:pass
+  expr: "AUX (<!aux&<!aux:pass) _"
+  expr-pos: "_ (<!aux&<!aux:pass) _"
+  desc: <b>DEBUGGING TEST. NONZERO HITS DOES NOT MEAN THE DATA IS INVALID.</b> If a word is marked as the auxiliary POS, it should be marked as either aux or aux:pass dependency.
   link: http://universaldependencies.org/docs/u/pos/AUX_.html
 
 -
-  name: Marked as aux or auxpass but not AUX
-  expr: "!AUX (<aux|<auxpass) _"
-  expr-pos: _ (<aux|<auxpass) _
+  name: Marked as aux or aux:pass but not AUX
+  expr: "!AUX (<aux|<aux:pass) _"
+  expr-pos: _ (<aux|<aux:pass) _
   desc: <b>DEBUGGING TEST. NONZERO HITS DOES NOT MEAN THE DATA IS INVALID.</b> If a word is marked as a (passive) auxiliary dependency, it should be marked as the auxiliary POS.
   link: http://universaldependencies.org/docs/u/dep/aux_.html
 
 -
-  name: Marked as cc but not CONJ, SYM or ADV
-  expr: "!CONJ&!SYM&!ADV <cc _"
-  desc: <b>DEBUGGING TEST. NONZERO HITS DOES NOT MEAN THE DATA IS INVALID.</b> The relation cc is for coordinating conjunctions, hence the most expected POS tag is CONJ. Symbols such as + may occasionally replace conjunctions, and in some languages some adverbs may take this syntactic function too. However, most other tags are suspicious at least.
+  name: Marked as cc but not CCONJ, SYM or ADV
+  expr: "(!CCONJ&!SYM&!ADV) <cc _"
+  desc: <b>DEBUGGING TEST. NONZERO HITS DOES NOT MEAN THE DATA IS INVALID.</b> The relation cc is for coordinating conjunctions, hence the most expected POS tag is CCONJ. Symbols such as + may occasionally replace conjunctions, and in some languages some adverbs may take this syntactic function too. However, most other tags are suspicious at least.
   link: http://universaldependencies.org/docs/u/dep/cc.html
 
 -
@@ -265,12 +235,6 @@
   expr: _ < (_ <cc _)
   desc: <b>DEBUGGING TEST. NONZERO HITS DOES NOT MEAN THE DATA IS INVALID.</b> Coordinating conjunction should be attached to the first conjunct and it should not have its own dependents.
   link: http://universaldependencies.org/docs/u/dep/cc.html
-
--
-  name: Marked as neg but not PART or ADV
-  expr: "!PART&!ADV <neg _"
-  desc: <b>DEBUGGING TEST. NONZERO HITS DOES NOT MEAN THE DATA IS INVALID.</b> The neg relation is used to attach negating particles (sometimes also tagged as adverbs; but we probably want to choose just one tag), such as English <i>not</i>, to the predicate or phrase they negate. It is not used for negative determiners such as English <i>no</i> in <i>there is no chance</i>, which should be attached as det.
-  link: http://universaldependencies.org/docs/u/dep/neg.html
 
 -
   name: Parts of speech of expl

@@ -2,6 +2,7 @@
 layout: relation
 title: 'advmod:emph'
 shortdef: 'emphasizing word, intensifier'
+udver: '2'
 ---
 
 This is a special class of [adverbial modifiers](advmod).

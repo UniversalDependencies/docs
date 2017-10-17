@@ -2,6 +2,7 @@
 layout: relation
 title: 'list'
 shortdef: 'list'
+udver: '2'
 ---
 
 The `list` relation is used for chains of comparable items. It is not currently attested in the French treebank.
@@ -18,3 +19,5 @@ list(Steve-1, Email:-5)
 appos(GSM:-3, 555-9814-4)
 appos(Email:-5, jones@abc.edf-6)
 ~~~
+
+The `list` relation is not used in FrenchSpoken.

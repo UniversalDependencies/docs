@@ -58,4 +58,4 @@ Mektubu alır almaz yanıt verdi . \n He\/she responded as soon as he\/she recei
 compound:redup(almaz, alır)
 ~~~
 
-For lexicalized multi-word items with repetition where one or more of the words are not free lexemes, (e.g. _paldır küldür_, _ufak tefek_), we use [mwe]().
+For lexicalized multi-word items with repetition where one or more of the words are not free lexemes, (e.g. _paldır küldür_, _ufak tefek_), we use [fixed]().

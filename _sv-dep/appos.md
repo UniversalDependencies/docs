@@ -2,6 +2,7 @@
 layout: relation
 title: 'appos'
 shortdef: 'appositional modifier'
+udver: '2'
 ---
 
 An appositional modifier of a nominal is a nominal immediately following the first that serves to define or modify it. Appositional modifiers include parenthesized examples, as well as defining abbreviations in one of these structures. 

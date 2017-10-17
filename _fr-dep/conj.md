@@ -2,6 +2,7 @@
 layout: relation
 title: 'conj'
 shortdef: 'conjunct'
+udver: '2'
 ---
 
 The conjunct relation holds between coordinated elements. We treat
@@ -18,3 +19,7 @@ Une seconde d' hésitation , d' inattention ou de retard  \n A second of hesitat
 conj(hésitation, inattention)
 conj(hésitation, retard)
 ~~~
+
+FrenchSpoken does not use the simple `conj` relation. Three different subrelations are used instead: [conj:appos](), [conj:coord]() and [conj:dicto]().
+
+

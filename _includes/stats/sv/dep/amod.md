@@ -6,12 +6,12 @@
 
 This relation is universal.
 
-4670 nodes (5%) are attached to their parents as `amod`.
+4776 nodes (6%) are attached to their parents as `amod`.
 
-4626 instances of `amod` (99%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.20235546038544.
+4735 instances of `amod` (99%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.19304857621441.
 
-The following 16 pairs of parts of speech are connected with `amod`: [sv-pos/NOUN]()-[sv-pos/ADJ]() (4495; 96% instances), [sv-pos/NOUN]()-[sv-pos/ADV]() (58; 1% instances), [sv-pos/VERB]()-[sv-pos/ADJ]() (34; 1% instances), [sv-pos/PROPN]()-[sv-pos/ADJ]() (23; 0% instances), [sv-pos/ADJ]()-[sv-pos/ADJ]() (16; 0% instances), [sv-pos/VERB]()-[sv-pos/PRON]() (16; 0% instances), [sv-pos/ADJ]()-[sv-pos/ADV]() (11; 0% instances), [sv-pos/NOUN]()-[sv-pos/NOUN]() (5; 0% instances), [sv-pos/PROPN]()-[sv-pos/PRON]() (3; 0% instances), [sv-pos/INTJ]()-[sv-pos/ADJ]() (2; 0% instances), [sv-pos/NOUN]()-[sv-pos/DET]() (2; 0% instances), [sv-pos/ADV]()-[sv-pos/ADV]() (1; 0% instances), [sv-pos/DET]()-[sv-pos/ADJ]() (1; 0% instances), [sv-pos/NOUN]()-[sv-pos/PROPN]() (1; 0% instances), [sv-pos/NOUN]()-[sv-pos/VERB]() (1; 0% instances), [sv-pos/NUM]()-[sv-pos/ADJ]() (1; 0% instances).
+The following 19 pairs of parts of speech are connected with `amod`: [sv-pos/NOUN]()-[sv-pos/ADJ]() (4605; 96% instances), [sv-pos/NOUN]()-[sv-pos/ADV]() (51; 1% instances), [sv-pos/VERB]()-[sv-pos/ADJ]() (28; 1% instances), [sv-pos/PROPN]()-[sv-pos/ADJ]() (24; 1% instances), [sv-pos/ADJ]()-[sv-pos/ADJ]() (19; 0% instances), [sv-pos/VERB]()-[sv-pos/PRON]() (12; 0% instances), [sv-pos/ADJ]()-[sv-pos/ADV]() (11; 0% instances), [sv-pos/PRON]()-[sv-pos/ADJ]() (5; 0% instances), [sv-pos/NOUN]()-[sv-pos/NOUN]() (4; 0% instances), [sv-pos/NUM]()-[sv-pos/ADJ]() (4; 0% instances), [sv-pos/PROPN]()-[sv-pos/PRON]() (3; 0% instances), [sv-pos/ADV]()-[sv-pos/ADJ]() (2; 0% instances), [sv-pos/ADV]()-[sv-pos/ADV]() (2; 0% instances), [sv-pos/DET]()-[sv-pos/ADJ]() (1; 0% instances), [sv-pos/INTJ]()-[sv-pos/ADJ]() (1; 0% instances), [sv-pos/NOUN]()-[sv-pos/ADP]() (1; 0% instances), [sv-pos/NOUN]()-[sv-pos/PROPN]() (1; 0% instances), [sv-pos/NOUN]()-[sv-pos/VERB]() (1; 0% instances), [sv-pos/PRON]()-[sv-pos/ADV]() (1; 0% instances).
 
 
 ~~~ conllu
@@ -25,30 +25,10 @@ The following 16 pairs of parts of speech are connected with `amod`: [sv-pos/NOU
 3	den	en	DET	DT|UTR|SIN|DEF	Definite=Def|Gender=Com|Number=Sing|PronType=Art	5	det	_	_
 4	kollektiva	kollektiv	ADJ	JJ|POS|UTR/NEU|SIN|DEF|NOM	Case=Nom|Definite=Def|Degree=Pos|Number=Sing	5	amod	_	_
 5	barnuppfostran	barnuppfostran	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	2	nsubj	_	_
-6	för	för	ADP	PP	_	1	mwe	_	_
-7	slags	slag	NOUN	NN|NEU|SIN|IND|GEN	Case=Gen|Definite=Ind|Gender=Neut|Number=Sing	1	mwe	_	_
-8	människor	människa	NOUN	NN|UTR|PLU|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Plur	2	dobj	_	_
+6	för	för	ADP	PP	_	1	fixed	_	_
+7	slags	slag	NOUN	NN|NEU|SIN|IND|GEN	Case=Gen|Definite=Ind|Gender=Neut|Number=Sing	1	fixed	_	_
+8	människor	människa	NOUN	NN|UTR|PLU|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Plur	2	obj	_	SpaceAfter=No
 9	?	?	PUNCT	MAD	_	2	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 2 amod	color:blue
-1	Så	så	ADV	AB	_	2	advmod	_	_
-2	lite	lite	ADV	AB|POS	Degree=Pos	3	amod	_	_
-3	beskärning	beskärning	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	_	_
-4	som	som	CONJ	KN	_	5	mark	_	_
-5	möjligt	möjlig	ADJ	JJ|POS|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing	3	acl	_	_
-6	av	av	ADP	PP	_	9	case	_	_
-7	växandets	växande	NOUN	NN|NEU|SIN|DEF|GEN	Case=Gen|Definite=Def|Gender=Neut|Number=Sing	9	nmod:poss	_	_
-8	oerhörda	oerhörd	ADJ	JJ|POS|UTR/NEU|SIN|DEF|NOM	Case=Nom|Definite=Def|Degree=Pos|Number=Sing	9	amod	_	_
-9	glädje	glädje	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	3	nmod	_	_
-10	?	?	PUNCT	MAD	_	3	punct	_	_
 
 ~~~
 
@@ -56,18 +36,30 @@ The following 16 pairs of parts of speech are connected with `amod`: [sv-pos/NOU
 ~~~ conllu
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 4 amod	color:blue
-1	Hyresgästen	hyresgäst	NOUN	NN|UTR|SIN|DEF|NOM	Case=Nom|Definite=Def|Gender=Com|Number=Sing	2	nsubj	_	_
-2	bestämmer	bestämma	VERB	VB|PRS|AKT	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-3	sedan	sedan	ADV	AB	_	2	advmod	_	_
-4	själv	själv	ADJ	JJ|POS|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Degree=Pos|Gender=Com|Number=Sing	2	amod	_	_
-5	hur	hur	ADV	HA	_	8	advmod	_	_
-6	rumsindelningen	rumsindelning	NOUN	NN|UTR|SIN|DEF|NOM	Case=Nom|Definite=Def|Gender=Com|Number=Sing	8	nsubj	_	_
-7	skall	skola	AUX	VB|PRS|AKT	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	8	aux	_	_
-8	vara	vara	VERB	VB|INF|AKT	VerbForm=Inf|Voice=Act	2	ccomp	_	_
-9	.	.	PUNCT	MAD	_	2	punct	_	_
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 4 amod	color:blue
+1	Ändrade	ändra	ADJ	PC|PRF|UTR/NEU|PLU|IND/DEF|NOM	Case=Nom|Number=Plur|Tense=Past|VerbForm=Part	2	amod	_	_
+2	förmåner	förmån	NOUN	NN|UTR|PLU|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Plur	0	root	_	_
+3	vid	vid	ADP	PP	_	6	case	_	_
+4	s k	s k	ADV	AB|AN	Abbr=Yes	6	amod	_	_
+5	halvöppen	halvöppen	ADJ	JJ|POS|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Degree=Pos|Gender=Com|Number=Sing	6	amod	_	_
+6	vård	vård	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	2	obl	_	SpaceAfter=No
+7	.	.	PUNCT	MAD	_	2	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 4 amod	color:blue
+1	Svårt	svår	ADV	AB|POS	Degree=Pos	0	root	_	_
+2	att	att	PART	IE	_	3	mark	_	_
+3	hitta	hitta	VERB	VB|INF|AKT	VerbForm=Inf|Voice=Act	1	csubj	_	_
+4	själv	själv	ADJ	JJ|POS|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Degree=Pos|Gender=Com|Number=Sing	3	amod	_	_
 
 ~~~
 
@@ -80,69 +72,73 @@ The following 16 pairs of parts of speech are connected with `amod`: [sv-pos/NOU
 
 This relation is universal.
 
-4077 nodes (5%) are attached to their parents as `amod`.
+3459 nodes (5%) are attached to their parents as `amod`.
 
-3759 instances of `amod` (92%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.28427765513858.
+3222 instances of `amod` (93%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.27002023706273.
 
-The following 32 pairs of parts of speech are connected with `amod`: [sv-pos/NOUN]()-[sv-pos/ADJ]() (3697; 91% instances), [sv-pos/NOUN]()-[sv-pos/VERB]() (98; 2% instances), [sv-pos/PRON]()-[sv-pos/ADJ]() (96; 2% instances), [sv-pos/PROPN]()-[sv-pos/ADJ]() (62; 2% instances), [sv-pos/ADJ]()-[sv-pos/ADJ]() (35; 1% instances), [sv-pos/VERB]()-[sv-pos/ADJ]() (21; 1% instances), [sv-pos/ADJ]()-[sv-pos/VERB]() (9; 0% instances), [sv-pos/PROPN]()-[sv-pos/VERB]() (8; 0% instances), [sv-pos/ADV]()-[sv-pos/VERB]() (6; 0% instances), [sv-pos/PRON]()-[sv-pos/VERB]() (5; 0% instances), [sv-pos/VERB]()-[sv-pos/VERB]() (5; 0% instances), [sv-pos/ADV]()-[sv-pos/ADJ]() (4; 0% instances), [sv-pos/NUM]()-[sv-pos/ADJ]() (4; 0% instances), [sv-pos/ADV]()-[sv-pos/AUX]() (3; 0% instances), [sv-pos/ADP]()-[sv-pos/ADJ]() (2; 0% instances), [sv-pos/ADP]()-[sv-pos/VERB]() (2; 0% instances), [sv-pos/NOUN]()-[sv-pos/ADP]() (2; 0% instances), [sv-pos/NOUN]()-[sv-pos/DET]() (2; 0% instances), [sv-pos/NOUN]()-[sv-pos/X]() (2; 0% instances), [sv-pos/PROPN]()-[sv-pos/SYM]() (2; 0% instances), [sv-pos/ADJ]()-[sv-pos/AUX]() (1; 0% instances), [sv-pos/ADJ]()-[sv-pos/PRON]() (1; 0% instances), [sv-pos/ADV]()-[sv-pos/PART]() (1; 0% instances), [sv-pos/DET]()-[sv-pos/ADJ]() (1; 0% instances), [sv-pos/INTJ]()-[sv-pos/ADJ]() (1; 0% instances), [sv-pos/INTJ]()-[sv-pos/INTJ]() (1; 0% instances), [sv-pos/NOUN]()-[sv-pos/NOUN]() (1; 0% instances), [sv-pos/NOUN]()-[sv-pos/PRON]() (1; 0% instances), [sv-pos/PART]()-[sv-pos/ADJ]() (1; 0% instances), [sv-pos/PUNCT]()-[sv-pos/ADJ]() (1; 0% instances), [sv-pos/PUNCT]()-[sv-pos/VERB]() (1; 0% instances), [sv-pos/SCONJ]()-[sv-pos/PART]() (1; 0% instances).
-
-
-~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 2 amod	color:blue
-1	De	_	DET	PL-DEF	_	3	det	_	_
-2	övriga	_	ADJ	POS-PL-IND	_	3	amod	_	_
-3	fälten	_	NOUN	PL-DEF-NOM	_	6	nsubj	_	_
-4	är	_	VERB	PRES-ACT	_	6	cop	_	_
-5	yttre	_	ADJ	CMP	_	6	amod	_	_
-6	fält	_	NOUN	IND-NOM	_	0	root	_	_
-7	.	_	PUNCT	Period	_	6	punct	_	_
-
-~~~
+The following 25 pairs of parts of speech are connected with `amod`: [sv-pos/NOUN]()-[sv-pos/ADJ]() (3176; 92% instances), [sv-pos/PRON]()-[sv-pos/ADJ]() (80; 2% instances), [sv-pos/NOUN]()-[sv-pos/VERB]() (68; 2% instances), [sv-pos/PROPN]()-[sv-pos/ADJ]() (48; 1% instances), [sv-pos/ADJ]()-[sv-pos/ADJ]() (27; 1% instances), [sv-pos/VERB]()-[sv-pos/ADJ]() (18; 1% instances), [sv-pos/ADJ]()-[sv-pos/VERB]() (5; 0% instances), [sv-pos/ADV]()-[sv-pos/ADJ]() (5; 0% instances), [sv-pos/ADV]()-[sv-pos/VERB]() (5; 0% instances), [sv-pos/PRON]()-[sv-pos/VERB]() (4; 0% instances), [sv-pos/PROPN]()-[sv-pos/VERB]() (4; 0% instances), [sv-pos/NUM]()-[sv-pos/ADJ]() (3; 0% instances), [sv-pos/ADV]()-[sv-pos/AUX]() (2; 0% instances), [sv-pos/NOUN]()-[sv-pos/X]() (2; 0% instances), [sv-pos/PROPN]()-[sv-pos/SYM]() (2; 0% instances), [sv-pos/ADJ]()-[sv-pos/AUX]() (1; 0% instances), [sv-pos/ADV]()-[sv-pos/PART]() (1; 0% instances), [sv-pos/DET]()-[sv-pos/ADJ]() (1; 0% instances), [sv-pos/INTJ]()-[sv-pos/ADJ]() (1; 0% instances), [sv-pos/NOUN]()-[sv-pos/ADP]() (1; 0% instances), [sv-pos/NOUN]()-[sv-pos/DET]() (1; 0% instances), [sv-pos/NOUN]()-[sv-pos/PRON]() (1; 0% instances), [sv-pos/PRON]()-[sv-pos/PRON]() (1; 0% instances), [sv-pos/PUNCT]()-[sv-pos/ADJ]() (1; 0% instances), [sv-pos/VERB]()-[sv-pos/VERB]() (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 8 amod	color:blue
-1	Han	_	PRON	PERS-P3SG-NOM	_	4	nsubj	_	_
-2	är	_	VERB	PRES-ACT	_	4	cop	_	_
-3	en	_	DET	SG-IND	_	4	det	_	_
-4	kibbutzsjöman	_	NOUN	SG-IND-NOM	_	0	root	_	_
-5	som	_	SCONJ	REL	_	7	mark	_	_
-6	just	_	ADV	_	_	8	advmod	_	_
-7	har	_	AUX	PRES-AUX	_	8	aux	_	_
-8	återkommit	_	VERB	SUP-ACT	_	4	amod	_	_
-9	från	_	ADP	_	_	11	case	_	_
-10	en	_	DET	SG-IND	_	11	det	_	_
-11	resa	_	NOUN	SG-IND-NOM	_	8	nmod	_	_
-12	.	_	PUNCT	Period	_	4	punct	_	_
-
-~~~
-
-
-~~~ conllu
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
+# visual-style 7 6 amod	color:blue
+1	SQL	_	PROPN	SG-NOM	_	4	nsubj:pass	_	_
+2	Server	_	NOUN	SG-IND-NOM	_	1	flat	_	_
+3	måste	_	AUX	AUX	_	4	aux	_	_
+4	köras	_	VERB	INF-PASS	_	0	root	_	_
+5	på	_	ADP	_	_	7	case	_	_
+6	samma	_	ADJ	POS-IND	_	7	amod	_	_
+7	dator	_	NOUN	SG-IND-NOM	_	4	obl	_	_
+8	som	_	ADP	_	_	9	case	_	_
+9	Access-projektet	_	NOUN	SG-DEF-NOM	_	7	nmod	_	SpaceAfter=No
+10	.	_	PUNCT	Period	_	4	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
 # visual-style 9	bgColor:blue
 # visual-style 9	fgColor:white
-# visual-style 9 7 amod	color:blue
-1	Det	_	PRON	PERS-P3SG	_	2	nsubjpass	_	_
-2	kändes	_	VERB	PAST-PASS	_	0	root	_	_
-3	som	_	ADP	_	_	6	case	_	_
-4	att	_	PART	_	_	6	mark	_	_
-5	ha	_	AUX	INF-AUX	_	6	aux	_	_
-6	tappat	_	VERB	SUP-ACT	_	2	advcl	_	_
-7	halva	_	ADJ	POS-DEF	_	9	amod	_	_
-8	sitt	_	PRON	RFL-SG-GEN	_	9	nmod:poss	_	_
-9	jag	_	PRON	PERS-SG-NOM	_	6	dobj	_	_
-10	.	_	PUNCT	Period	_	2	punct	_	_
+# visual-style 9 10 amod	color:blue
+1	Vilse	_	ADV	_	_	0	root	_	_
+2	inte	_	PART	NEG	_	3	advmod	_	_
+3	bara	_	ADV	_	_	5	advmod	_	_
+4	i	_	ADP	_	_	5	case	_	_
+5	staden	_	NOUN	SG-DEF-NOM	_	1	nmod	_	_
+6	utan	_	CCONJ	_	_	9	cc	_	_
+7	även	_	ADV	_	_	9	advmod	_	_
+8	inom	_	ADP	_	_	9	case	_	_
+9	sig	_	PRON	RFL-ACC	_	5	conj	_	_
+10	själv	_	ADJ	POS-SG-IND	_	9	amod	_	SpaceAfter=No
+11	.	_	PUNCT	Period	_	1	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 8 9 amod	color:blue
+1	Mr	_	NOUN	SG-IND-FGN	_	2	nmod	_	_
+2	Auster	_	PROPN	SG-NOM	_	0	root	_	SpaceAfter=No
+3	?	_	PUNCT	QuestionMark	_	2	punct	_	_
+4	Ett	_	DET	SG-IND	_	6	det	_	_
+5	försiktigt	_	ADJ	POS-SG-IND	_	6	amod	_	_
+6	leende	_	NOUN	SG-IND-NOM	_	2	appos	_	SpaceAfter=No
+7	;	_	PUNCT	SemiColon	_	6	punct	_	_
+8	huvudet	_	NOUN	SG-DEF-NOM	_	6	conj	_	_
+9	frågande	_	VERB	NDE	_	8	amod	_	_
+10	på	_	ADP	_	_	11	case	_	_
+11	sned	_	ADV	_	_	8	advmod	_	SpaceAfter=No
+12	.	_	PUNCT	Period	_	8	punct	_	_
 
 ~~~
 
@@ -155,12 +151,12 @@ The following 32 pairs of parts of speech are connected with `amod`: [sv-pos/NOU
 
 This relation is universal.
 
-10 nodes (1%) are attached to their parents as `amod`.
+3 nodes (1%) are attached to their parents as `amod`.
 
-6 instances of `amod` (60%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.2.
+2 instances of `amod` (67%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.
 
-The following 5 pairs of parts of speech are connected with `amod`: [sv-pos/NOUN]()-[sv-pos/ADJ]() (4; 40% instances), [sv-pos/NOUN]()-[sv-pos/X]() (3; 30% instances), [sv-pos/ADJ]()-[sv-pos/ADV]() (1; 10% instances), [sv-pos/VERB]()-[sv-pos/ADJ]() (1; 10% instances), [sv-pos/VERB]()-[sv-pos/ADV]() (1; 10% instances).
+The following 3 pairs of parts of speech are connected with `amod`: [sv-pos/ADJ]()-[sv-pos/ADV]() (1; 33% instances), [sv-pos/NOUN]()-[sv-pos/ADJ]() (1; 33% instances), [sv-pos/NOUN]()-[sv-pos/X]() (1; 33% instances).
 
 
 ~~~ conllu
@@ -206,20 +202,21 @@ The following 5 pairs of parts of speech are connected with `amod`: [sv-pos/NOUN
 
 
 ~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
-# visual-style 4 1 amod	color:blue
-1	DÅ@b	_	ADV	AB	_	4	amod	_	_
-2	BI	_	NOUN	NN	_	4	nsubj	_	_
-3	STARTA	_	VERB	VB	_	4	aux	_	_
-4	JAGA	_	VERB	VB	_	0	root	_	_
-5	HUND	_	NOUN	NN	_	4	dobj	_	_
-6	ENTITET(YY)+FÖRFLYTTA@p	_	VERB	VBAV	_	4	conj	_	_
-7	HUND	_	NOUN	NN	_	8	nsubj	_	_
-8	VARELSE(VVb)+RÖRELSE@p	_	VERB	VBAV	_	4	conj	_	_
-9	BEGE-SIG-IVÄG	_	VERB	VB	_	4	conj	_	_
+# visual-style 4 3 amod	color:blue
+1	PEK@ca	_	VERB	VBCA	_	4	nsubj	_	_
+2	PEK	_	PRON	PEK	_	1	conj	_	_
+3	LITE	_	ADV	AB	_	4	amod	_	_
+4	BILLIG	_	ADJ	JJ	_	0	root	_	_
+5	PEK	_	PRON	PEK	_	7	nmod	_	_
+6	PRO1	_	PRON	PN	_	1	conj	_	_
+7	TECKNA.FLYT	_	VERB	VB	_	4	conj	_	_
+8	PRO1	_	PRON	PN	_	6	conj	_	_
+9	TECKNA.FLYT	_	VERB	VB	_	7	conj	_	_
+10	PEK	_	PRON	PEK	_	1	conj	_	_
 
 ~~~
 

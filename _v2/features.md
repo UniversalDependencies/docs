@@ -1,13 +1,14 @@
 ---
 layout: base
 title:  'Features in UD v2'
+udver:  '2'
 ---
 
 # Features in UD v2
 
 We propose for v2:
 
-* Rename [u-feat/Negative]() to `Polarity` and rename individual values of `Aspect`, `VerbForm` and `Definite`.
+* Rename `Negative` to [u-feat/Polarity]() and rename individual values of `Aspect`, `VerbForm` and `Definite`.
 * Remove `Tense=Nar` (but keep the other values of [u-feat/Tense]()).
 * For a number of existing features, add new values that may be or have already been needed in some languages.
 * Add four new features to the universal set of features: evidentiality, politeness, abbreviation and foreign.
@@ -27,7 +28,7 @@ See the [issue 219](http://github.com/UniversalDependencies/docs/issues/219) for
 
 * [u-feat/Aspect](): values `Pro` (prospective, used in Basque) and `Prog` (progressive, used in Basque, Turkish and Chinese) are highly confusing.
   I propose to change the prospective value to `Aspect=Prosp`, following the label used in UniMorph.
-* [u-feat/Negative](): current proposal – rename the feature to `Polarity` (and keep values `Pos` and `Neg`).
+* `Negative`: current proposal – rename the feature to [u-feat/Polarity]() (and keep values `Pos` and `Neg`).
   Another option would be to keep the name but use only one value `Yes` because positive polarity is rarely marked morphologically.
   `Negative=Pos` looks weird and it probably just marks words that can take the negative morpheme but do not have it in the given form.
   Nevertheless, `Negative=Pos` is currently used in 13 treebanks so we probably want to keep it but rename the feature to `Polarity`.
@@ -41,7 +42,6 @@ See the [issue 219](http://github.com/UniversalDependencies/docs/issues/219) for
   More neutral terms are adverbial participle or _converb_ (Haspelmath, 1995), so I propose to relabel these forms `VerbForm=Conv`.
 * [u-feat/Definite](): rename `Red` (reduced) to `Cons` (construct state); see the
   [issue 135](http://github.com/UniversalDependencies/docs/issues/135) for related discussion.
-* [u-feat/NumType](): Remove `NumType=Gen`, replace it by a narrower (and positively-defined) `NumType=Fold` for adjectival numerals like [cs] _dvojí, trojí_ "twofold, threefold".
 * TO DISCUSS: What is `NumType=Pers` in Irish? (Defined but not used.)
 
 ## Adding/removing values to/from existing features
@@ -108,7 +108,7 @@ See the [issue 219](http://github.com/UniversalDependencies/docs/issues/219) for
   * TO DISCUSS: `VerbForm=Stem` currently only one occurrence in Swedish.
     Verb stems also occur regularly in Hindi but they have the function of adverbial participles (converbs, transgressives) there, so `VerbForm=Conv` should be used for them.
 * [u-feat/Mood]()
-  * Add `Mood=Pur` (purposive, means "in order to"). Occurs in Amazonian languages; proposed in UniMorph.
+  * Add `Mood=Prp` (purposive, means "in order to"). Occurs in Amazonian languages; proposed in UniMorph.
   * TO DISCUSS: Add `Mood=Int` (intentive, indicates that the speaker strongly intents for the action of the verb to be realized). Occurs in Tonkawa; proposed in UniMorph.
   * TO DISCUSS: `Mood=Int` in Irish (what does it mean? Interrogative?)
   * TO DISCUSS: `Mood=Inter` in Chinese (what does it mean?)
@@ -168,6 +168,8 @@ See the [issue 219](http://github.com/UniversalDependencies/docs/issues/219) for
   * NOTE: The Italian data in UD v1 contain three additional values of [Italian](it-feat/PronType): `Clit`, `Predet` and `Ord`.
     We do not propose to adopt these values as universal in UD v2. We propose to change the Italian guidelines so that these values
     are no longer needed. See [Issue 353](http://github.com/UniversalDependencies/docs/issues/353) for details.
+* [u-feat/NumType]()
+  * Remove `NumType=Gen`, it is poorely defined as a garbage can, some of the words should actually be cardinals, some are better classified as `NumType=Mult`.
 * [u-feat/Person]()
   * Add `Person=0`. Proposed in UniMorph.
     Zero person is for impersonal statements, appears in Finnish as well as in Santa Ana Pueblo Keres.

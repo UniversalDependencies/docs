@@ -4,7 +4,7 @@ title:  'acl:relcl'
 shortdef : 'relative clause modifier'
 ---
 
-A relative clause modifier of an noun is a finite clause that modifies the noun and is introduced by *που* or a (structure including) an *οποίος*-relative pronoun. The relation points from the noun that is modified to the head of the relative clause. *οποίος*-relative pronoun are assigned typical nominal relations like  [dobj](dobj), [nsubj](nsubj) and [nmod](nmod). A [det](det) relation is also possible.
+A relative clause modifier of an noun is a finite clause that modifies the noun and is introduced by *που* or a (structure including) an *οποίος*-relative pronoun. The relation points from the noun that is modified to the head of the relative clause. *οποίος*-relative pronoun are assigned typical nominal relations like  [dobj](obj), [nsubj](nsubj) and [nmod](nmod). A [det](det) relation is also possible.
 
 ~~~ sdparse
 το Όσκαρ με το οποίο τιμήθηκε

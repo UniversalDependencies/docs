@@ -2,6 +2,7 @@
 layout: relation
 title: 'det:numgov'
 shortdef: 'pronominal quantifier governing the case of the noun'
+udver: '2'
 ---
 
 Pronominal quantifiers are labeled `det:numgov` instead of [det]()
@@ -31,11 +32,11 @@ the information about case conditions.
 Kolik mužů hrálo karty ? \n How-many men played cards ?
 det:numgov(mužů, Kolik)
 nsubj(hrálo, mužů)
-dobj(hrálo, karty)
+obj(hrálo, karty)
 punct(hrálo, ?-5)
 det:numgov(men, How-many)
 nsubj(played, men)
-dobj(played, cards)
+obj(played, cards)
 punct(played, ?-11)
 ~~~
 

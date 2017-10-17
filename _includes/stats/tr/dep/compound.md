@@ -7,29 +7,26 @@
 This relation is universal.
 There are 2 language-specific subtypes of `compound`: [compound:lvc](), [compound:redup]().
 
-264 nodes (0%) are attached to their parents as `compound`.
+1811 nodes (4%) are attached to their parents as `compound`.
 
-264 instances of `compound` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.14015151515152.
+1686 instances of `compound` (93%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.30259525124241.
 
-The following 19 pairs of parts of speech are connected with `compound`: [tr-pos/NUM]()-[tr-pos/NUM]() (157; 59% instances), [tr-pos/NOUN]()-[tr-pos/NOUN]() (56; 21% instances), [tr-pos/NOUN]()-[tr-pos/ADJ]() (12; 5% instances), [tr-pos/NOUN]()-[tr-pos/PROPN]() (9; 3% instances), [tr-pos/VERB]()-[tr-pos/NOUN]() (6; 2% instances), [tr-pos/ADJ]()-[tr-pos/NOUN]() (4; 2% instances), [tr-pos/NOUN]()-[tr-pos/VERB]() (4; 2% instances), [tr-pos/PROPN]()-[tr-pos/NOUN]() (3; 1% instances), [tr-pos/PROPN]()-[tr-pos/PROPN]() (2; 1% instances), [tr-pos/VERB]()-[tr-pos/VERB]() (2; 1% instances), [tr-pos/ADJ]()-[tr-pos/ADJ]() (1; 0% instances), [tr-pos/ADJ]()-[tr-pos/NUM]() (1; 0% instances), [tr-pos/ADJ]()-[tr-pos/PROPN]() (1; 0% instances), [tr-pos/ADJ]()-[tr-pos/VERB]() (1; 0% instances), [tr-pos/ADV]()-[tr-pos/NOUN]() (1; 0% instances), [tr-pos/NOUN]()-[tr-pos/PRON]() (1; 0% instances), [tr-pos/NUM]()-[tr-pos/NOUN]() (1; 0% instances), [tr-pos/NUM]()-[tr-pos/PROPN]() (1; 0% instances), [tr-pos/PROPN]()-[tr-pos/NUM]() (1; 0% instances).
+The following 58 pairs of parts of speech are connected with `compound`: [tr-pos/NOUN]()-[tr-pos/VERB]() (500; 28% instances), [tr-pos/NOUN]()-[tr-pos/NOUN]() (300; 17% instances), [tr-pos/ADJ]()-[tr-pos/VERB]() (153; 8% instances), [tr-pos/ADJ]()-[tr-pos/NOUN]() (95; 5% instances), [tr-pos/DET]()-[tr-pos/NOUN]() (91; 5% instances), [tr-pos/NUM]()-[tr-pos/NOUN]() (84; 5% instances), [tr-pos/NOUN]()-[tr-pos/ADJ]() (60; 3% instances), [tr-pos/PROPN]()-[tr-pos/NOUN]() (55; 3% instances), [tr-pos/VERB]()-[tr-pos/VERB]() (53; 3% instances), [tr-pos/NOUN]()-[tr-pos/PROPN]() (43; 2% instances), [tr-pos/PROPN]()-[tr-pos/PROPN]() (41; 2% instances), [tr-pos/VERB]()-[tr-pos/NOUN]() (40; 2% instances), [tr-pos/NUM]()-[tr-pos/ADJ]() (27; 1% instances), [tr-pos/NOUN]()-[tr-pos/CCONJ]() (25; 1% instances), [tr-pos/ADJ]()-[tr-pos/ADJ]() (20; 1% instances), [tr-pos/ADV]()-[tr-pos/VERB]() (19; 1% instances), [tr-pos/ADJ]()-[tr-pos/CCONJ]() (16; 1% instances), [tr-pos/NUM]()-[tr-pos/VERB]() (15; 1% instances), [tr-pos/PRON]()-[tr-pos/VERB]() (14; 1% instances), [tr-pos/VERB]()-[tr-pos/ADJ]() (12; 1% instances), [tr-pos/DET]()-[tr-pos/ADJ]() (11; 1% instances), [tr-pos/PRON]()-[tr-pos/NOUN]() (11; 1% instances), [tr-pos/ADJ]()-[tr-pos/PROPN]() (10; 1% instances), [tr-pos/ADV]()-[tr-pos/CCONJ]() (10; 1% instances), [tr-pos/NOUN]()-[tr-pos/ADP]() (8; 0% instances), [tr-pos/NUM]()-[tr-pos/NUM]() (8; 0% instances), [tr-pos/ADJ]()-[tr-pos/ADP]() (7; 0% instances), [tr-pos/CCONJ]()-[tr-pos/CCONJ]() (7; 0% instances), [tr-pos/INTJ]()-[tr-pos/NOUN]() (7; 0% instances), [tr-pos/PROPN]()-[tr-pos/ADJ]() (7; 0% instances), [tr-pos/ADV]()-[tr-pos/ADJ]() (6; 0% instances), [tr-pos/ADV]()-[tr-pos/NOUN]() (6; 0% instances), [tr-pos/VERB]()-[tr-pos/CCONJ]() (6; 0% instances), [tr-pos/NOUN]()-[tr-pos/NUM]() (4; 0% instances), [tr-pos/ADJ]()-[tr-pos/NUM]() (3; 0% instances), [tr-pos/ADV]()-[tr-pos/NUM]() (3; 0% instances), [tr-pos/NUM]()-[tr-pos/ADP]() (3; 0% instances), [tr-pos/PRON]()-[tr-pos/PRON]() (3; 0% instances), [tr-pos/PROPN]()-[tr-pos/CCONJ]() (3; 0% instances), [tr-pos/PROPN]()-[tr-pos/VERB]() (3; 0% instances), [tr-pos/DET]()-[tr-pos/VERB]() (2; 0% instances), [tr-pos/VERB]()-[tr-pos/ADP]() (2; 0% instances), [tr-pos/VERB]()-[tr-pos/PRON]() (2; 0% instances), [tr-pos/VERB]()-[tr-pos/PROPN]() (2; 0% instances), [tr-pos/ADJ]()-[tr-pos/PRON]() (1; 0% instances), [tr-pos/ADP]()-[tr-pos/VERB]() (1; 0% instances), [tr-pos/CCONJ]()-[tr-pos/NOUN]() (1; 0% instances), [tr-pos/CCONJ]()-[tr-pos/VERB]() (1; 0% instances), [tr-pos/DET]()-[tr-pos/NUM]() (1; 0% instances), [tr-pos/DET]()-[tr-pos/PRON]() (1; 0% instances), [tr-pos/INTJ]()-[tr-pos/ADJ]() (1; 0% instances), [tr-pos/INTJ]()-[tr-pos/CCONJ]() (1; 0% instances), [tr-pos/INTJ]()-[tr-pos/VERB]() (1; 0% instances), [tr-pos/NOUN]()-[tr-pos/PRON]() (1; 0% instances), [tr-pos/NUM]()-[tr-pos/PROPN]() (1; 0% instances), [tr-pos/PRON]()-[tr-pos/ADJ]() (1; 0% instances), [tr-pos/PRON]()-[tr-pos/CCONJ]() (1; 0% instances), [tr-pos/PUNCT]()-[tr-pos/PUNCT]() (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
-# visual-style 5 4 compound	color:blue
-1	Memo	Memo	PROPN	Prop	Case=Nom|Number=Sing|Person=3	8	nsubj	_	_
-2	elinde	el	NOUN	Noun	Case=Loc|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	6	nmod	_	_
-3	ki	ki	ADP	Rel	_	2	case	_	_
-4	yüz	yüz	NUM	ANum	NumType=Card	5	compound	_	_
-5	bin	bin	NUM	ANum	NumType=Card	6	nummod	_	_
-6	liraya	lira	NOUN	Noun	Case=Dat|Number=Sing|Person=3	8	nmod	_	_
-7	şaşkınlıkla	şaşkınlık	NOUN	Noun	Case=Ins|Number=Sing|Person=3	8	nmod	_	_
-8	bakıyordu	bak	VERB	Verb	Aspect=Prog|Mood=Ind|Negative=Pos|Number=Sing|Person=3|Register=Inf|Tense=Past	0	root	_	_
-9	.	.	PUNCT	Punc	_	8	punct	_	_
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 5 compound	color:blue
+1	Kazada	kaza	NOUN	Noun	Case=Loc|Number=Sing|Person=3	4	nmod	_	_
+2	dört	dört	NUM	ANum	NumType=Card	3	nummod	_	_
+3	pilot	pilot	NOUN	Noun	Case=Nom|Number=Sing|Person=3	4	nsubj	_	_
+4	şehit	şehit	NOUN	Noun	Case=Nom|Number=Sing|Person=3	0	root	_	_
+5	düştü	düş	VERB	Verb	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Past	4	compound	_	SpaceAfter=No
+6	.	.	PUNCT	Punc	_	4	punct	_	_
 
 ~~~
 
@@ -40,33 +37,30 @@ The following 19 pairs of parts of speech are connected with `compound`: [tr-pos
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 1 compound	color:blue
-1	Hostes	hostes	NOUN	Noun	Case=Nom|Number=Sing|Person=3	2	compound	_	_
-2	abla	abla	NOUN	Noun	Case=Nom|Number=Sing|Person=3	5	nsubj	_	_
-3	kardeşinin	kardeş	NOUN	Noun	Case=Gen|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	4	nmod:poss	_	_
-4	ölümüne	ölüm	NOUN	Noun	Case=Dat|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	5	nmod	_	_
-5	inanamadı	inan	VERB	Verb	Aspect=Perf|Mood=Abil|Negative=Neg|Number=Sing|Person=3|Tense=Past	0	root	_	_
-6	.	.	PUNCT	Punc	_	5	punct	_	_
+1	Erik	erik	NOUN	Noun	Case=Nom|Number=Sing|Person=3	2	compound	_	_
+2	ağaçları	ağaç	NOUN	Noun	Case=Acc|Number=Plur|Person=3	8	obl	_	_
+3	ile	ile	CCONJ	Conj	_	2	conj	_	_
+4	aralarında	ara	ADJ	NAdj	Case=Loc|Number=Plur|Number[psor]=Plur|Person=3|Person[psor]=3	2	conj	_	_
+5	bir	bir	NUM	ANum	NumType=Card	6	nummod	_	_
+6	hendek	hendek	NOUN	Noun	Case=Nom|Number=Sing|Person=3	7	compound	_	_
+7	engeli	engel	NOUN	Noun	Case=Acc|Number=Sing|Person=3	8	nsubj	_	_
+8	kalmıştı	kal	VERB	Verb	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pqp	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	Punc	_	8	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
-# visual-style 4 1 compound	color:blue
-1	Yunan	Yunan	ADJ	NAdj	Case=Nom|Number=Sing|Person=3	4	compound	_	_
-2	lı	li	ADP	With	_	1	case	_	_
-3	ların	_	ADP	Zero	Case=Gen|Number=Plur|Person=3	1	case	_	_
-4	savaşım	savaşım	NOUN	Noun	Case=Nom|Number=Sing|Person=3	5	nmod:poss	_	_
-5	verdikleri	ver	VERB	Verb	Aspect=Perf|Mood=Ind|Negative=Pos|Number[psor]=Plur|Person[psor]=3|Tense=Past|VerbForm=Part	6	acl	_	_
-6	konulardan	konu	NOUN	Noun	Case=Abl|Number=Plur|Person=3	7	nmod:poss	_	_
-7	biri	biri	PRON	Quant	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3|PronType=Ind	9	nsubj	_	_
-8	de	de	CONJ	Conj	_	7	advmod:emph	_	_
-9	bu	bu	PRON	Demons	Case=Nom|Number=Sing|Person=3|PronType=Dem	0	root	_	_
-10	dur	i	AUX	Zero	Aspect=Perf|Mood=Gen|Number=Sing|Person=3|Tense=Pres	9	cop	_	_
-11	.	.	PUNCT	Punc	_	9	punct	_	_
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 4 compound	color:blue
+1	tüm	tüm	DET	Det	_	2	det	_	_
+2	haşmetiyle	haşmet	NOUN	Noun	Case=Ins|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	3	obl	_	_
+3	ortaya	orta	ADJ	NAdj	Case=Dat|Number=Sing|Person=3	0	root	_	_
+4	çıkıyor	çık	VERB	Verb	Aspect=Prog|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Polite=Infm|Tense=Pres	3	compound	_	SpaceAfter=No
+5	.	.	PUNCT	Punc	_	3	punct	_	_
 
 ~~~
 

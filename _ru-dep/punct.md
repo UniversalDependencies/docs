@@ -23,8 +23,8 @@ Instead, we use the following principles:
 
 ~~~ sdparse
 Мы покупаем яблоки , груши , апельсины и бананы . \n We buy apples , pears , oranges and bananas .
-dobj(покупаем, яблоки)
-dobj(buy, apples)
+obj(покупаем, яблоки)
+obj(buy, apples)
 conj(яблоки, груши)
 conj(яблоки, апельсины)
 conj(яблоки, бананы)

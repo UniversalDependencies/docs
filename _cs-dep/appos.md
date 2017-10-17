@@ -2,6 +2,7 @@
 layout: relation
 title: 'appos'
 shortdef: 'appositional modifier'
+udver: '2'
 ---
 
 An appositional modifier of a noun is a nominal immediately following
@@ -48,9 +49,9 @@ conj(brother, cousin)
 
 ~~~ sdparse
 Jan Novák , tel . : 777-000-111 , e-mail : novak@ab.cz
-name(Novák, Jan)
-list(Novák, tel)
-list(Novák, e-mail)
+flat(Jan, Novák)
+list(Jan, tel)
+list(Jan, e-mail)
 appos(tel, 777-000-111)
 appos(e-mail, novak@ab.cz)
 ~~~

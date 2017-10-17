@@ -39,7 +39,7 @@ The most frequent other feature values with which `VERB` and `Mood` co-occurred:
 
 1 [sa-pos/AUX]() tokens (100% of all `AUX` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `AUX` and `Mood` co-occurred: <tt><a href="Voice.html">Voice</a>=Act</tt> (1; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (1; 100%), <tt><a href="Person.html">Person</a>=3</tt> (1; 100%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (1; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (1; 100%).
+The most frequent other feature values with which `AUX` and `Mood` co-occurred: <tt><a href="Voice.html">Voice</a>=Act</tt> (1; 100%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (1; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (1; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (1; 100%), <tt><a href="Person.html">Person</a>=3</tt> (1; 100%).
 
 `AUX` tokens may have the following values of `Mood`:
 

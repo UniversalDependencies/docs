@@ -2,6 +2,7 @@
 layout: relation
 title: 'dislocated'
 shortdef: 'dislocated elements'
+udver: '2'
 ---
 
 The `dislocated` relation is used for fronted or postposed elements
@@ -26,9 +27,9 @@ It is also used for postposed elements. The dislocated elements attach to the sa
 
 ~~~ sdparse
 Il faut pas la manger , la plasticine \n It must not it eat , the playdough
-dobj(manger, la-4)
+obj(manger, la-4)
 dislocated(manger, plasticine)
-dobj(eat, it-13)
+obj(eat, it-13)
 dislocated(eat, playdough)
 ~~~
 

@@ -6,89 +6,90 @@
 
 This relation is universal.
 
-74 nodes (1%) are attached to their parents as `ccomp`.
+133 nodes (2%) are attached to their parents as `ccomp`.
 
-74 instances of `ccomp` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 8.04054054054054.
+133 instances of `ccomp` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 7.66165413533835.
 
-The following 6 pairs of parts of speech are connected with `ccomp`: [cop-pos/VERB]()-[cop-pos/VERB]() (60; 81% instances), [cop-pos/VERB]()-[cop-pos/NOUN]() (5; 7% instances), [cop-pos/VERB]()-[cop-pos/PRON]() (4; 5% instances), [cop-pos/NOUN]()-[cop-pos/VERB]() (2; 3% instances), [cop-pos/VERB]()-[cop-pos/DET]() (2; 3% instances), [cop-pos/NOUN]()-[cop-pos/PRON]() (1; 1% instances).
+The following 9 pairs of parts of speech are connected with `ccomp`: [cop-pos/VERB]()-[cop-pos/VERB]() (102; 77% instances), [cop-pos/VERB]()-[cop-pos/PRON]() (11; 8% instances), [cop-pos/VERB]()-[cop-pos/NOUN]() (9; 7% instances), [cop-pos/NOUN]()-[cop-pos/VERB]() (3; 2% instances), [cop-pos/VERB]()-[cop-pos/DET]() (3; 2% instances), [cop-pos/VERB]()-[cop-pos/PROPN]() (2; 2% instances), [cop-pos/NOUN]()-[cop-pos/PRON]() (1; 1% instances), [cop-pos/VERB]()-[cop-pos/PART]() (1; 1% instances), [cop-pos/VERB]()-[cop-pos/X]() (1; 1% instances).
 
 
 ~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
-# visual-style 2 6 ccomp	color:blue
-1	ϯ	ⲁⲛⲟⲕ	PRON	PPERS	_	2	nsubj	_	_
-2	ⲥⲟⲟⲩⲛ	ⲥⲟⲟⲩⲛ	VERB	V	_	0	root	_	_
-3	ϫⲉ	ϫⲉ	CONJ	CONJ	_	6	mark	_	_
-4	ⲉ	ⲉⲣⲉ	PART	CFOC	_	6	mark	_	_
-5	ⲕ	ⲛⲧⲟⲕ	PRON	PPERS	_	6	nsubj	_	_
-6	ϯ	ϯ	VERB	V	_	2	ccomp	_	_
-7	ⲟⲩⲃⲏ	ⲟⲩⲃⲉ	ADP	PREP	_	8	case	_	_
-8	ⲓ	ⲁⲛⲟⲕ	PRON	PPERO	_	6	nmod	_	_
-9	ⲁⲛ	ⲁⲛ	ADV	NEG	_	6	neg	_	_
-10	,	,	PUNCT	PUNCT	_	2	punct	_	_
+# visual-style 2 8 ccomp	color:blue
+1	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	2	cc	_	_
+2	ⲡⲉϫⲁ	ⲡⲉϫⲉ	VERB	VBD	_	0	root	_	_
+3	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	_	2	nsubj	_	_
+4	ⲛⲁ	ⲛⲁ	ADP	PREP	_	5	case	_	_
+5	ϥ	ⲛⲧⲟϥ	PRON	PPERO	_	2	obl	_	_
+6	ϫⲉ	ϫⲉ	CCONJ	CONJ	_	8	mark	_	_
+7	ⲥⲉ	ⲛⲧⲟⲟⲩ	PRON	PPERS	_	8	nsubj	_	_
+8	ⲕⲱⲧⲉ	ⲕⲱⲧⲉ	VERB	V	_	2	ccomp	_	_
+9	ⲛⲥⲱ	ⲛⲥⲁ	ADP	PREP	_	10	case	_	_
+10	ⲕ	ⲛⲧⲟⲕ	PRON	PPERO	_	8	obl	_	_
+11	ⲧⲏⲣ	ⲧⲏⲣ	ADV	IMOD	_	8	advmod	_	_
+12	ⲟⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERO	_	11	det	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 18	bgColor:blue
-# visual-style 18	fgColor:white
-# visual-style 13	bgColor:blue
-# visual-style 13	fgColor:white
-# visual-style 13 18 ccomp	color:blue
-1	ⲛⲧⲉⲣⲉ	ⲛⲧⲉⲣⲉ	SCONJ	APREC	_	3	aux	_	_
-2	ϥ	ⲛⲧⲟϥ	PRON	PPERS	_	3	nsubj	_	_
-3	ⲃⲱⲕ	ⲃⲱⲕ	VERB	V	_	13	advcl	_	_
-4	ⲇⲉ	ⲇⲉ	PART	PTC	_	3	advmod	_	_
-5	ⲉϩⲟⲩⲛ	ⲉϩⲟⲩⲛ	ADV	ADV	_	3	advmod	_	_
-6	ⲉ	ⲉ	ADP	PREP	_	7	case	_	_
-7	ⲕⲁⲫⲁⲣⲛⲁⲟⲩⲙ	ⲕⲁⲫⲁⲣⲛⲁⲟⲩⲙ	PROPN	NPROP	_	3	nmod	_	_
-8	ϩⲓϫⲛ	ϩⲓϫⲛ	ADP	PREP	_	10	case	_	_
-9	ϩⲉⲛ	ⲟⲩ	DET	ART	_	10	det	_	_
-10	ϩⲟⲟⲩ	ϩⲟⲟⲩ	NOUN	N	_	3	nmod	_	_
-11	ⲁ	ⲁ	AUX	APST	_	13	aux	_	_
-12	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	_	13	nsubj	_	_
-13	ⲥⲱⲧⲙ	ⲥⲱⲧⲙ	VERB	V	_	0	root	_	_
-14	ϫⲉ	ϫⲉ	CONJ	CONJ	_	18	mark	_	_
-15	ϥ	ⲛⲧⲟϥ	PRON	PPERS	_	18	nsubj	_	_
-16	ϩⲛ	ϩⲛ	ADP	PREP	_	18	case	_	_
-17	ⲟⲩ	ⲟⲩ	DET	ART	_	18	det	_	_
-18	ⲏⲓ	ⲏⲓ	NOUN	N	_	13	ccomp	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 17	bgColor:blue
-# visual-style 17	fgColor:white
-# visual-style 15	bgColor:blue
-# visual-style 15	fgColor:white
-# visual-style 15 17 ccomp	color:blue
-1	ⲛⲧⲟⲕ	ⲛⲧⲟⲕ	PRON	PPERI	_	0	root	_	_
-2	ⲟⲛ	ⲟⲛ	ADV	ADV	_	1	advmod	_	_
-3	ⲡⲉ	ⲡ	DET	ART	_	1	nsubj	_	_
-4	ⲛⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	7	mark	_	_
-5	ⲁ	ⲁ	AUX	APST	_	7	aux	_	_
-6	ⲕ	ⲛⲧⲟⲕ	PRON	PPERS	_	7	nsubj	_	_
-7	ϫⲟⲟ	ϫⲱ	VERB	V	_	3	acl	_	_
-8	ⲥ	ⲛⲧⲟⲥ	PRON	PPERO	_	7	dobj	_	_
-9	ⲛϩⲏⲧ	ϩⲛ	ADP	PREP	_	10	case	_	_
-10	ⲟⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERO	_	7	nmod	_	_
-11	ϫⲉ	ϫⲉ	CONJ	CONJ	_	12	mark	_	_
-12	ⲥⲣϥⲉ	ⲥⲣϥⲉ	VERB	V	_	7	ccomp	_	_
-13	ⲛ	ⲛⲧⲉ	AUX	ACONJ	_	15	aux	_	_
-14	ⲧⲉⲧⲛ	ⲛⲧⲱⲧⲛ	PRON	PPERS	_	15	nsubj	_	_
-15	ⲉⲓⲙⲉ	ⲉⲓⲙⲉ	VERB	V	_	12	advcl	_	_
-16	ϫⲉ	ϫⲉ	CONJ	CONJ	_	17	mark	_	_
-17	ⲁⲛⲟⲕ	ⲁⲛⲟⲕ	PRON	PPERI	_	15	ccomp	_	_
-18	ⲡⲉ	ⲡⲉ	AUX	COP	_	17	cop	_	_
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 8 ccomp	color:blue
+1	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	4	cc	_	_
+2	ⲛⲉ	ⲛⲉⲣⲉ	AUX	CPRET	_	4	mark	_	_
+3	ϥ	ⲛⲧⲟϥ	PRON	PPERS	_	4	nsubj	_	_
+4	ϫⲛⲟⲩ	ϫⲛⲟⲩ	VERB	V	_	0	root	_	_
+5	ⲙⲙⲟ	ⲛ	ADP	PREP	_	6	case	_	_
+6	ϥ	ⲛⲧⲟϥ	PRON	PPERO	_	4	obj	_	_
+7	ϫⲉ	ϫⲉ	CCONJ	CONJ	_	8	mark	_	_
+8	ⲛⲓⲙ	ⲛⲓⲙ	PRON	PINT	_	4	ccomp	_	_
+9	ⲉ	ⲉⲣⲉ	PART	CFOC	_	10	mark	_	_
+10	ⲣⲛⲧ	ⲣⲛⲧ	NOUN	N	_	8	nsubj	_	_
+11	ⲕ	ⲛⲧⲟⲕ	PRON	PPERO	_	10	det	_	_
+12	ⲡⲉϫⲁ	ⲡⲉϫⲉ	VERB	VBD	_	4	parataxis	_	_
+13	ϥ	ⲛⲧⲟϥ	PRON	PPERS	_	12	nsubj	_	_
+14	ⲛⲁ	ⲛⲁ	ADP	PREP	_	15	case	_	_
+15	ϥ	ⲛⲧⲟϥ	PRON	PPERO	_	12	obl	_	_
+16	ϫⲉ	ϫⲉ	CCONJ	CONJ	_	17	mark	_	_
+17	ⲗⲉⲅⲓⲱⲛ	ⲗⲉⲅⲓⲱⲛ	PROPN	NPROP	_	12	ccomp	_	_
+18	ⲡⲉ	ⲡⲉ	PRON	COP	_	17	cop	_	_
 19	ⲡ	ⲡ	DET	ART	_	20	det	_	_
-20	ⲛⲟⲩⲧⲉ	ⲛⲟⲩⲧⲉ	NOUN	N	_	17	nsubj	_	_
-21	,	,	PUNCT	PUNCT	_	1	punct	_	_
+20	ⲣⲁⲛ	ⲣⲁⲛ	NOUN	N	_	17	nsubj	_	_
+21	ϫⲉ	ϫⲉ	CCONJ	CONJ	_	23	mark	_	_
+22	ⲧⲛ	ⲁⲛⲟⲛ	PRON	PPERS	_	23	nsubj	_	_
+23	ϫⲕ	ϫⲕ	VERB	V	_	17	advcl	_	_
+24	ϩⲁϩ	ϩⲁϩ	NOUN	N	_	23	obj	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 9 ccomp	color:blue
+1	ⲉⲃⲟⲗ	ⲉⲃⲟⲗ	ADV	ADV	_	4	advmod	_	_
+2	ϫⲉ	ϫⲉ	CCONJ	CONJ	_	4	mark	_	_
+3	ⲥⲉ	ⲛⲧⲟⲟⲩ	PRON	PPERS	_	4	nsubj	_	_
+4	ϫⲱ	ϫⲱ	VERB	V	_	0	root	_	_
+5	ⲙⲙⲟ	ⲛ	ADP	PREP	_	6	case	_	_
+6	ⲥ	ⲛⲧⲟⲥ	PRON	PPERO	_	4	obj	_	_
+7	ϫⲉ	ϫⲉ	CCONJ	CONJ	_	9	mark	_	_
+8	ⲟⲩ	ⲟⲩ	DET	ART	_	9	det	_	_
+9	ⲡⲛⲉⲩⲙⲁ	ⲡⲛⲉⲩⲙⲁ	NOUN	N	_	4	ccomp	_	_
+10	ⲛ	ⲛ	ADP	PREP	_	11	case	_	_
+11	ⲁⲕⲁⲑⲁⲣⲧⲟⲛ	ⲁⲕⲁⲑⲁⲣⲧⲟⲛ	NOUN	N	_	9	nmod	_	_
+12	ⲛⲙⲙⲁ	ⲙⲛ	ADP	PREP	_	13	case	_	_
+13	ϥ	ⲛⲧⲟϥ	PRON	PPERO	_	9	nmod	_	_
+14	.	.	PUNCT	PUNCT	_	4	punct	_	_
 
 ~~~
 

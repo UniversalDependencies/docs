@@ -1,6 +1,7 @@
 ---
 layout: base
 title: 'Tagset pt::conll conversion to universal POS tags and features'
+udver: '2'
 ---
 
 <a href="index.html">all tables</a>
@@ -133,27 +134,27 @@ Tagset <tt>pt::conll</tt>, total 564 tags.
   <tr style="background:lightgray"><td>art art F|S</td><td>=&gt;</td><td>DET</td><td>Gender=Fem|Number=Sing|PronType=Art</td><td><em>a</em></td></tr>
   <tr><td>art art M|P</td><td>=&gt;</td><td>DET</td><td>Gender=Masc|Number=Plur|PronType=Art</td><td><em>os</em></td></tr>
   <tr style="background:lightgray"><td>art art M|S</td><td>=&gt;</td><td>DET</td><td>Gender=Masc|Number=Sing|PronType=Art</td><td><em>um</em></td></tr>
-  <tr><td>conj conj-c &lt;co-acc&gt;</td><td>=&gt;</td><td>CONJ</td><td>_</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>conj conj-c &lt;co-advl&gt;</td><td>=&gt;</td><td>CONJ</td><td>_</td><td><em></em></td></tr>
-  <tr><td>conj conj-c &lt;co-advo&gt;</td><td>=&gt;</td><td>CONJ</td><td>_</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>conj conj-c &lt;co-advs&gt;</td><td>=&gt;</td><td>CONJ</td><td>_</td><td><em></em></td></tr>
-  <tr><td>conj conj-c &lt;co-app&gt;</td><td>=&gt;</td><td>CONJ</td><td>_</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>conj conj-c &lt;co-fmc&gt;</td><td>=&gt;</td><td>CONJ</td><td>_</td><td><em></em></td></tr>
-  <tr><td>conj conj-c &lt;co-ger&gt;</td><td>=&gt;</td><td>CONJ</td><td>_</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>conj conj-c &lt;co-inf&gt;</td><td>=&gt;</td><td>CONJ</td><td>_</td><td><em></em></td></tr>
-  <tr><td>conj conj-c &lt;co-oc&gt;</td><td>=&gt;</td><td>CONJ</td><td>_</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>conj conj-c &lt;co-pass&gt;</td><td>=&gt;</td><td>CONJ</td><td>_</td><td><em></em></td></tr>
-  <tr><td>conj conj-c &lt;co-pcv&gt;</td><td>=&gt;</td><td>CONJ</td><td>_</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>conj conj-c &lt;co-piv&gt;</td><td>=&gt;</td><td>CONJ</td><td>_</td><td><em></em></td></tr>
-  <tr><td>conj conj-c &lt;co-postad&gt;</td><td>=&gt;</td><td>CONJ</td><td>_</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>conj conj-c &lt;co-postnom&gt;</td><td>=&gt;</td><td>CONJ</td><td>_</td><td><em></em></td></tr>
-  <tr><td>conj conj-c &lt;co-pred&gt;</td><td>=&gt;</td><td>CONJ</td><td>_</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>conj conj-c &lt;co-prenom&gt;</td><td>=&gt;</td><td>CONJ</td><td>_</td><td><em></em></td></tr>
-  <tr><td>conj conj-c &lt;co-prparg&gt;</td><td>=&gt;</td><td>CONJ</td><td>_</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>conj conj-c &lt;co-sc&gt;</td><td>=&gt;</td><td>CONJ</td><td>_</td><td><em></em></td></tr>
-  <tr><td>conj conj-c &lt;co-subj&gt;</td><td>=&gt;</td><td>CONJ</td><td>_</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>conj conj-c &lt;co-vfin&gt;</td><td>=&gt;</td><td>CONJ</td><td>_</td><td><em></em></td></tr>
-  <tr><td>conj conj-c _</td><td>=&gt;</td><td>CONJ</td><td>_</td><td><em>e, ou, mas, nem, quer</em></td></tr>
+  <tr><td>conj conj-c &lt;co-acc&gt;</td><td>=&gt;</td><td>CCONJ</td><td>_</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>conj conj-c &lt;co-advl&gt;</td><td>=&gt;</td><td>CCONJ</td><td>_</td><td><em></em></td></tr>
+  <tr><td>conj conj-c &lt;co-advo&gt;</td><td>=&gt;</td><td>CCONJ</td><td>_</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>conj conj-c &lt;co-advs&gt;</td><td>=&gt;</td><td>CCONJ</td><td>_</td><td><em></em></td></tr>
+  <tr><td>conj conj-c &lt;co-app&gt;</td><td>=&gt;</td><td>CCONJ</td><td>_</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>conj conj-c &lt;co-fmc&gt;</td><td>=&gt;</td><td>CCONJ</td><td>_</td><td><em></em></td></tr>
+  <tr><td>conj conj-c &lt;co-ger&gt;</td><td>=&gt;</td><td>CCONJ</td><td>_</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>conj conj-c &lt;co-inf&gt;</td><td>=&gt;</td><td>CCONJ</td><td>_</td><td><em></em></td></tr>
+  <tr><td>conj conj-c &lt;co-oc&gt;</td><td>=&gt;</td><td>CCONJ</td><td>_</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>conj conj-c &lt;co-pass&gt;</td><td>=&gt;</td><td>CCONJ</td><td>_</td><td><em></em></td></tr>
+  <tr><td>conj conj-c &lt;co-pcv&gt;</td><td>=&gt;</td><td>CCONJ</td><td>_</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>conj conj-c &lt;co-piv&gt;</td><td>=&gt;</td><td>CCONJ</td><td>_</td><td><em></em></td></tr>
+  <tr><td>conj conj-c &lt;co-postad&gt;</td><td>=&gt;</td><td>CCONJ</td><td>_</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>conj conj-c &lt;co-postnom&gt;</td><td>=&gt;</td><td>CCONJ</td><td>_</td><td><em></em></td></tr>
+  <tr><td>conj conj-c &lt;co-pred&gt;</td><td>=&gt;</td><td>CCONJ</td><td>_</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>conj conj-c &lt;co-prenom&gt;</td><td>=&gt;</td><td>CCONJ</td><td>_</td><td><em></em></td></tr>
+  <tr><td>conj conj-c &lt;co-prparg&gt;</td><td>=&gt;</td><td>CCONJ</td><td>_</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>conj conj-c &lt;co-sc&gt;</td><td>=&gt;</td><td>CCONJ</td><td>_</td><td><em></em></td></tr>
+  <tr><td>conj conj-c &lt;co-subj&gt;</td><td>=&gt;</td><td>CCONJ</td><td>_</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>conj conj-c &lt;co-vfin&gt;</td><td>=&gt;</td><td>CCONJ</td><td>_</td><td><em></em></td></tr>
+  <tr><td>conj conj-c _</td><td>=&gt;</td><td>CCONJ</td><td>_</td><td><em>e, ou, mas, nem, quer</em></td></tr>
   <tr style="background:lightgray"><td>conj conj-s &lt;prp&gt;</td><td>=&gt;</td><td>SCONJ</td><td>_</td><td><em></em></td></tr>
   <tr><td>conj conj-s _</td><td>=&gt;</td><td>SCONJ</td><td>_</td><td><em>que, se, porque, do_que, embora</em></td></tr>
   <tr style="background:lightgray"><td>ec ec _</td><td>=&gt;</td><td>PART</td><td>Hyph=Yes</td><td><em>anti-, ex, ex-</em></td></tr>

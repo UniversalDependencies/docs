@@ -11,7 +11,7 @@ The 10 most frequent `ADJ` lemmas: महत्, सकल, गम्भीर, 
 
 The 10 most frequent `ADJ` types:  महान्, गम्भीर, सकल, अगामीनि, अतिरस्कृतः, अप्राप्तकालं, असम्भाव्याम्, आद्यः, उचित, उत्पन्नौ
 
-The 10 most frequent ambiguous lemmas: महत् ([ADJ]() 4, [NOUN]() 2), सर्व ([ADJ]() 2, [NOUN]() 1, [DET]() 1), पर ([ADJ]() 1, [NOUN]() 1), परम् ([ADV]() 1, [ADJ]() 1), प्रथम ([ADV]() 1, [ADJ]() 1)
+The 10 most frequent ambiguous lemmas: महत् ([ADJ]() 4, [NOUN]() 2), सर्व ([ADJ]() 2, [NOUN]() 1, [DET]() 1), पर ([ADJ]() 1, [NOUN]() 1), परम् ([ADV]() 1, [ADJ]() 1), प्रथम ([ADJ]() 1, [ADV]() 1)
 
 The 10 most frequent ambiguous types:  परम् ([ADJ]() 1, [ADV]() 1), प्रथमम् ([ADJ]() 1, [ADV]() 1)
 
@@ -44,7 +44,7 @@ Examples: महान्, अप्राप्तकालं, उचित, �
 
 ## Relations
 
-`ADJ` nodes are attached to their parents using 3 different relations: [sa-dep/amod]() (45; 96% instances), [sa-dep/advmod]() (1; 2% instances), [sa-dep/dobj]() (1; 2% instances)
+`ADJ` nodes are attached to their parents using 3 different relations: [sa-dep/amod]() (45; 96% instances), [sa-dep/advmod]() (1; 2% instances), [sa-dep/obj]() (1; 2% instances)
 
 Parents of `ADJ` nodes belong to 2 different parts of speech: [NOUN]() (46; 98% instances), [VERB]() (1; 2% instances)
 

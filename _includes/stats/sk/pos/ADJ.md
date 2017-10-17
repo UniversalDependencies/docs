@@ -4,86 +4,86 @@
 
 ## Treebank Statistics (UD_Slovak)
 
-There are 2481 `ADJ` lemmas (16%), 5008 `ADJ` types (19%) and 7871 `ADJ` tokens (7%).
-Out of 15 observed tags, the rank of `ADJ` is: 3 in number of lemmas, 3 in number of types and 6 in number of tokens.
+There are 2781 `ADJ` lemmas (21%), 5135 `ADJ` types (22%) and 7782 `ADJ` tokens (8%).
+Out of 17 observed tags, the rank of `ADJ` is: 2 in number of lemmas, 3 in number of types and 4 in number of tokens.
 
-The 10 most frequent `ADJ` lemmas: <em>veľký, celý, nový, ďalší, dobrý, starý, slovenský, vysoký, malý, hlavný</em>
+The 10 most frequent `ADJ` lemmas: <em>veľký, prvý, celý, druhý, nový, ďalší, dobrý, starý, posledný, malý</em>
 
-The 10 most frequent `ADJ` types:  <em>celý, ďalšie, veľký, nové, veľkého, veľké, ďalší, nový, verejných, celé</em>
+The 10 most frequent `ADJ` types:  <em>celý, druhý, prvý, veľký, ďalšie, nové, verejných, nový, ďalší, druhej</em>
 
-The 10 most frequent ambiguous lemmas: <em>vysoký</em> ([ADJ]() 57, [NOUN]() 2), <em>známy</em> ([ADJ]() 40, [NOUN]() 4), <em>mladý</em> ([ADJ]() 39, [NOUN]() 3), <em>posledný</em> ([ADJ]() 29, [NUM]() 29), <em>silný</em> ([ADJ]() 25, [ADV]() 1), <em>istý</em> ([ADJ]() 24, [PRON]() 19), <em>rád</em> ([ADJ]() 24, [NOUN]() 8, [PROPN]() 3), <em>ostatný</em> ([ADJ]() 21, [NUM]() 6), <em>neznámy</em> ([ADJ]() 19, [NOUN]() 1), <em>zelený</em> ([ADJ]() 17, [VERB]() 1)
+The 10 most frequent ambiguous lemmas: <em>vysoký</em> ([ADJ]() 46, [NOUN]() 2), <em>známy</em> ([ADJ]() 33, [NOUN]() 4), <em>mladý</em> ([ADJ]() 31, [NOUN]() 3), <em>silný</em> ([ADJ]() 24, [ADV]() 1), <em>rád</em> ([ADJ]() 22, [NOUN]() 8, [PROPN]() 2), <em>istý</em> ([DET]() 19, [ADJ]() 19), <em>neznámy</em> ([ADJ]() 18, [NOUN]() 1), <em>milý</em> ([ADJ]() 15, [NOUN]() 1), <em>mŕtvy</em> ([ADJ]() 14, [NOUN]() 4), <em>schopný</em> ([ADJ]() 13, [NOUN]() 2)
 
-The 10 most frequent ambiguous types:  <em>rád</em> ([ADJ]() 4, [NOUN]() 3), <em>isté</em> ([ADJ]() 6, [PRON]() 6), <em>lepšie</em> ([ADJ]() 7, [ADV]() 2, [NOUN]() 1), <em>posledné</em> ([ADJ]() 7, [NUM]() 4), <em>vysokej</em> ([ADJ]() 5, [NOUN]() 1), <em>známy</em> ([ADJ]() 7, [NOUN]() 2), <em>istý</em> ([ADJ]() 5, [PRON]() 3), <em>ostatní</em> ([ADJ]() 5, [NUM]() 1), <em>radšej</em> ([ADJ]() 2, [PART]() 1), <em>zlá</em> ([ADJ]() 2, [NOUN]() 2)
+The 10 most frequent ambiguous types:  <em>rád</em> ([NOUN]() 3, [ADJ]() 3), <em>lepšie</em> ([ADJ]() 7, [ADV]() 1, [NOUN]() 1), <em>isté</em> ([DET]() 6, [ADJ]() 5), <em>mnohých</em> ([ADJ]() 5, [NUM]() 2), <em>radšej</em> ([ADJ]() 2, [PART]() 1), <em>vysokej</em> ([ADJ]() 4, [NOUN]() 1), <em>zlá</em> ([NOUN]() 2, [ADJ]() 2), <em>známy</em> ([ADJ]() 6, [NOUN]() 2), <em>konkrétne</em> ([ADJ]() 5, [ADV]() 1), <em>istý</em> ([ADJ]() 3, [DET]() 3)
 
 
 * <em>rád</em>
-  * [ADJ]() 4: <em>Bol to chlapec veľmi talentovaný a <b>rád</b> športoval .</em>
   * [NOUN]() 3: <em>Rytiersky <b>rád</b></em>
-* <em>isté</em>
-  * [ADJ]() 6: <em>Jedno však bolo <b>isté</b> : smrť nikdy nepríde v očakávanú chvíľu .</em>
-  * [PRON]() 6: <em>Ja som urobila to <b>isté</b> .</em>
+  * [ADJ]() 3: <em>“ Ty <b>rád</b> vyjednávaš , “ povedal Herkules .</em>
 * <em>lepšie</em>
   * [ADJ]() 7: <em>“ Ďakujem , “ povedala som , lebo nič <b>lepšie</b> mi nenapadlo .</em>
-  * [ADV]() 2: <em>“ Nie je zlý , hoci <b>lepšie</b> mi chutí náš . “</em>
+  * [ADV]() 1: <em>“ Nie je zlý , hoci <b>lepšie</b> mi chutí náš . “</em>
   * [NOUN]() 1: <em>Keďže som neprišiel na nič <b>lepšie</b> , sedel som celý deň vo svojej izbe a v duchu som si predstavoval , že som ušiel z domu .</em>
-* <em>posledné</em>
-  * [ADJ]() 7: <em>Tým sa Loyolovi uvoľnili <b>posledné</b> záväzky vo svete .</em>
-  * [NUM]() 4: <em>Odhodlal sa preto na <b>posledné</b> veľké vojenské ťaženie .</em>
-* <em>vysokej</em>
-  * [ADJ]() 5: <em>Štúdiom <b>vysokej</b> atmosféry sa zaoberá aeronómia .</em>
-  * [NOUN]() 1: <em>“ Ja snívam o tebe , a ty o <b>vysokej</b> .</em>
-* <em>známy</em>
-  * [ADJ]() 7: <em>Termín pokračovania procesu nie je zatiaľ <b>známy</b> .</em>
-  * [NOUN]() 2: <em>Musí to byť nejaký starý <b>známy</b> , uvažoval som .</em>
-* <em>istý</em>
-  * [ADJ]() 5: <em>Proti Galileiho práci sa ostro postavil <b>istý</b> filozof Chiaramonti z Pisy .</em>
-  * [PRON]() 3: <em>Pán Boh je ten <b>istý</b> včera , dnes i naveky .</em>
-* <em>ostatní</em>
-  * [ADJ]() 5: <em>Po Veľkej noci 1538 prišli do Ríma aj <b>ostatní</b> spoločníci .</em>
-  * [NUM]() 1: <em>Kerchak bránil rodinu proti zákernej mačke , zatiaľ čo <b>ostatní</b> členovia ho pozorovali zo stromov .</em>
+* <em>isté</em>
+  * [DET]() 6: <em>Ja som urobila to <b>isté</b> .</em>
+  * [ADJ]() 5: <em>Jedno však bolo <b>isté</b> : smrť nikdy nepríde v očakávanú chvíľu .</em>
+* <em>mnohých</em>
+  * [ADJ]() 5: <em>Nové , moderné pedagogické postupy v <b>mnohých</b> oblastiach zlyhávajú .</em>
+  * [NUM]() 2: <em>Prvý raz po <b>mnohých</b> rokoch zabudol na všadeprítomnú televíznu obrazovku .</em>
 * <em>radšej</em>
   * [ADJ]() 2: <em>Keby ste si mohli vybrať , žili by ste <b>radšej</b> vtedy či teraz ?</em>
   * [PART]() 1: <em>A bodliak Makulienku i motýľa Emanuela <b>radšej</b> pustil .</em>
+* <em>vysokej</em>
+  * [ADJ]() 4: <em>Štúdiom <b>vysokej</b> atmosféry sa zaoberá aeronómia .</em>
+  * [NOUN]() 1: <em>“ Ja snívam o tebe , a ty o <b>vysokej</b> .</em>
 * <em>zlá</em>
-  * [ADJ]() 2: <em>“ Našiel si ju ? “ spytovala sa <b>zlá</b> víla .</em>
   * [NOUN]() 2: <em>Väčšie <b>zlá</b> sústavne unikali ich pozornosti .</em>
+  * [ADJ]() 2: <em>“ Našiel si ju ? “ spytovala sa <b>zlá</b> víla .</em>
+* <em>známy</em>
+  * [ADJ]() 6: <em>Termín pokračovania procesu nie je zatiaľ <b>známy</b> .</em>
+  * [NOUN]() 2: <em>Musí to byť nejaký starý <b>známy</b> , uvažoval som .</em>
+* <em>konkrétne</em>
+  * [ADJ]() 5: <em>Stranu nezaujímajú <b>konkrétne</b> činy : my si potrpíme len na myšlienky .</em>
+  * [ADV]() 1: <em>Snyder pokračoval v sebavzdelávaní , <b>konkrétne</b> ho zaujímala geomorfológia a lesníctvo .</em>
+* <em>istý</em>
+  * [ADJ]() 3: <em>Chcem rozpovedať <b>istý</b> príbeh , a nechtiac ho zamotávam .</em>
+  * [DET]() 3: <em>Pán Boh je ten <b>istý</b> včera , dnes i naveky .</em>
 
 ## Morphology
 
-The form / lemma ratio of `ADJ` is 2.018541 (the average of all parts of speech is 1.755167).
+The form / lemma ratio of `ADJ` is 1.846458 (the average of all parts of speech is 1.776807).
 
-The 1st highest number of forms (29) was observed with the lemma “veľký”: <em>Najväčšími, najväčšia, najväčšie, najväčšieho, najväčšiu, najväčšou, najväčší, najväčších, najväčším, veľkej, veľkom, veľkou, veľká, veľké, veľkého, veľkú, veľký, veľkých, veľkým, veľkými, väčšia, väčšie, väčšieho, väčšiu, väčšom, väčší, väčších, väčším, väčšími</em>.
+The 1st highest number of forms (24) was observed with the lemma “dobrý”: <em>dobrej, dobrom, dobrá, dobré, dobrého, dobrí, dobrú, dobrý, dobrých, dobrým, dobrými, lepšie, lepšieho, lepšiu, najlepšia, najlepšie, najlepšieho, najlepšiemu, najlepšiu, najlepšom, najlepšou, najlepší, najlepších, najlepším</em>.
 
-The 2nd highest number of forms (26) was observed with the lemma “vysoký”: <em>Najvyšší, najvyššia, najvyššie, najvyššieho, najvyšších, najvyšším, najvyššími, vysokej, vysokom, vysokou, vysoká, vysoké, vysokého, vysokému, vysokí, vysokú, vysoký, vysokých, vysokým, vysokými, vyššie, vyššieho, vyššiu, vyššou, vyšší, vyšších</em>.
+The 2nd highest number of forms (23) was observed with the lemma “veľký”: <em>Najväčšou, najväčšia, najväčšie, najväčšieho, najväčšiu, najväčší, najväčším, veľkej, veľkom, veľkou, veľká, veľké, veľkého, veľkú, veľký, veľkých, veľkým, veľkými, väčšia, väčšie, väčšom, väčší, väčším</em>.
 
-The 3rd highest number of forms (24) was observed with the lemma “dobrý”: <em>dobrej, dobrom, dobrá, dobré, dobrého, dobrí, dobrú, dobrý, dobrých, dobrým, dobrými, lepšie, lepšieho, lepšiu, najlepšia, najlepšie, najlepšieho, najlepšiemu, najlepšiu, najlepšom, najlepšou, najlepší, najlepších, najlepším</em>.
+The 3rd highest number of forms (22) was observed with the lemma “vysoký”: <em>Najvyšší, najvyššia, najvyššie, najvyšších, najvyšším, vysokej, vysokom, vysokou, vysoká, vysoké, vysokého, vysokí, vysokú, vysoký, vysokých, vysokým, vysokými, vyššie, vyššieho, vyššou, vyšší, vyšších</em>.
 
-`ADJ` occurs with 6 features: [sk-feat/Case]() (7871; 100% instances), [sk-feat/Number]() (7871; 100% instances), [sk-feat/Gender]() (7869; 100% instances), [sk-feat/Degree]() (7863; 100% instances), [sk-feat/Animacy]() (3176; 40% instances), [sk-feat/Typo]() (20; 0% instances)
+`ADJ` occurs with 13 features: [sk-feat/Number]() (7782; 100% instances), [sk-feat/Gender]() (7774; 100% instances), [sk-feat/Case]() (7753; 100% instances), [sk-feat/Degree]() (7407; 95% instances), [sk-feat/Animacy]() (3297; 42% instances), [sk-feat/Polarity]() (984; 13% instances), [sk-feat/VerbForm]() (984; 13% instances), [sk-feat/Voice]() (955; 12% instances), [sk-feat/NumType]() (338; 4% instances), [sk-feat/Aspect]() (29; 0% instances), [sk-feat/Person]() (29; 0% instances), [sk-feat/Tense]() (29; 0% instances), [sk-feat/Typo]() (19; 0% instances)
 
-`ADJ` occurs with 17 feature-value pairs: `Animacy=Anim`, `Animacy=Inan`, `Case=Acc`, `Case=Dat`, `Case=Gen`, `Case=Ins`, `Case=Loc`, `Case=Nom`, `Degree=Cmp`, `Degree=Pos`, `Degree=Sup`, `Gender=Fem`, `Gender=Masc`, `Gender=Neut`, `Number=Plur`, `Number=Sing`, `Typo=Yes`
+`ADJ` occurs with 29 feature-value pairs: `Animacy=Anim`, `Animacy=Inan`, `Aspect=Imp`, `Aspect=Perf`, `Case=Acc`, `Case=Dat`, `Case=Gen`, `Case=Ins`, `Case=Loc`, `Case=Nom`, `Degree=Cmp`, `Degree=Pos`, `Degree=Sup`, `Gender=Fem`, `Gender=Masc`, `Gender=Neut`, `NumType=Mult`, `NumType=Ord`, `Number=Plur`, `Number=Sing`, `Person=1`, `Person=3`, `Polarity=Neg`, `Polarity=Pos`, `Tense=Past`, `Typo=Yes`, `VerbForm=Part`, `Voice=Act`, `Voice=Pass`
 
-`ADJ` occurs with 139 feature combinations.
-The most frequent feature combination is `Case=Nom|Degree=Pos|Gender=Fem|Number=Sing` (750 tokens).
-Examples: <em>veľká, malá, slovenská, celá, krásna, nová, vysoká, francúzska, mladá, mŕtva</em>
+`ADJ` occurs with 315 feature combinations.
+The most frequent feature combination is `Case=Nom|Degree=Pos|Gender=Fem|Number=Sing` (609 tokens).
+Examples: <em>malá, slovenská, veľká, krásna, celá, mladá, mŕtva, rada, vysoká, zlá</em>
 
 
 ## Relations
 
-`ADJ` nodes are attached to their parents using 14 different relations: [sk-dep/amod]() (6860; 87% instances), [sk-dep/root]() (371; 5% instances), [sk-dep/conj]() (338; 4% instances), [sk-dep/ccomp]() (67; 1% instances), [sk-dep/xcomp]() (52; 1% instances), [sk-dep/dobj]() (37; 0% instances), [sk-dep/advmod]() (33; 0% instances), [sk-dep/dep]() (27; 0% instances), [sk-dep/acl]() (25; 0% instances), [sk-dep/advcl]() (22; 0% instances), [sk-dep/iobj]() (15; 0% instances), [sk-dep/nsubj]() (13; 0% instances), [sk-dep/appos]() (6; 0% instances), [sk-dep/csubj]() (5; 0% instances)
+`ADJ` nodes are attached to their parents using 17 different relations: [sk-dep/amod]() (6504; 84% instances), [sk-dep/root]() (505; 6% instances), [sk-dep/conj]() (365; 5% instances), [sk-dep/xcomp]() (99; 1% instances), [sk-dep/ccomp]() (78; 1% instances), [sk-dep/obl]() (48; 1% instances), [sk-dep/obj]() (44; 1% instances), [sk-dep/dep]() (38; 0% instances), [sk-dep/acl]() (32; 0% instances), [sk-dep/advcl]() (19; 0% instances), [sk-dep/nsubj]() (17; 0% instances), [sk-dep/iobj]() (14; 0% instances), [sk-dep/appos]() (6; 0% instances), [sk-dep/csubj]() (5; 0% instances), [sk-dep/orphan]() (4; 0% instances), [sk-dep/parataxis]() (3; 0% instances), [sk-dep/cc]() (1; 0% instances)
 
-Parents of `ADJ` nodes belong to 10 different parts of speech: [NOUN]() (6686; 85% instances), [ROOT]() (371; 5% instances), [VERB]() (299; 4% instances), [ADJ]() (258; 3% instances), [PROPN]() (140; 2% instances), [PRON]() (58; 1% instances), [X]() (45; 1% instances), [NUM]() (12; 0% instances), [CONJ]() (1; 0% instances), [INTJ]() (1; 0% instances)
+Parents of `ADJ` nodes belong to 12 different parts of speech: [NOUN]() (6347; 82% instances), [ROOT]() (505; 6% instances), [VERB]() (352; 5% instances), [ADJ]() (306; 4% instances), [PROPN]() (144; 2% instances), [PRON]() (47; 1% instances), [X]() (31; 0% instances), [DET]() (18; 0% instances), [ADV]() (16; 0% instances), [NUM]() (14; 0% instances), [CCONJ]() (1; 0% instances), [INTJ]() (1; 0% instances)
 
-6846 (87%) `ADJ` nodes are leaves.
+6083 (78%) `ADJ` nodes are leaves.
 
-262 (3%) `ADJ` nodes have one child.
+782 (10%) `ADJ` nodes have one child.
 
-224 (3%) `ADJ` nodes have two children.
+190 (2%) `ADJ` nodes have two children.
 
-539 (7%) `ADJ` nodes have three or more children.
+727 (9%) `ADJ` nodes have three or more children.
 
-The highest child degree of a `ADJ` node is 10.
+The highest child degree of a `ADJ` node is 9.
 
-Children of `ADJ` nodes are attached using 24 different relations: [sk-dep/punct]() (785; 26% instances), [sk-dep/cop]() (518; 17% instances), [sk-dep/conj]() (337; 11% instances), [sk-dep/nsubj]() (321; 10% instances), [sk-dep/advmod]() (301; 10% instances), [sk-dep/cc]() (241; 8% instances), [sk-dep/nmod]() (156; 5% instances), [sk-dep/mark]() (68; 2% instances), [sk-dep/advmod:emph]() (59; 2% instances), [sk-dep/csubj]() (45; 1% instances), [sk-dep/dobj]() (41; 1% instances), [sk-dep/advcl]() (37; 1% instances), [sk-dep/case]() (31; 1% instances), [sk-dep/neg]() (31; 1% instances), [sk-dep/dep]() (26; 1% instances), [sk-dep/xcomp]() (23; 1% instances), [sk-dep/aux]() (19; 1% instances), [sk-dep/amod]() (10; 0% instances), [sk-dep/appos]() (7; 0% instances), [sk-dep/nummod]() (5; 0% instances), [sk-dep/ccomp]() (3; 0% instances), [sk-dep/parataxis]() (3; 0% instances), [sk-dep/acl]() (2; 0% instances), [sk-dep/expl]() (1; 0% instances)
+Children of `ADJ` nodes are attached using 29 different relations: [sk-dep/punct]() (1066; 25% instances), [sk-dep/cop]() (598; 14% instances), [sk-dep/advmod]() (434; 10% instances), [sk-dep/nsubj]() (380; 9% instances), [sk-dep/conj]() (359; 9% instances), [sk-dep/obl]() (303; 7% instances), [sk-dep/cc]() (260; 6% instances), [sk-dep/obj]() (185; 4% instances), [sk-dep/mark]() (88; 2% instances), [sk-dep/aux:pass]() (72; 2% instances), [sk-dep/advmod:emph]() (66; 2% instances), [sk-dep/nsubj:pass]() (58; 1% instances), [sk-dep/advcl]() (49; 1% instances), [sk-dep/case]() (44; 1% instances), [sk-dep/aux]() (35; 1% instances), [sk-dep/csubj]() (33; 1% instances), [sk-dep/xcomp]() (31; 1% instances), [sk-dep/expl:pv]() (30; 1% instances), [sk-dep/dep]() (24; 1% instances), [sk-dep/nmod]() (19; 0% instances), [sk-dep/det]() (16; 0% instances), [sk-dep/amod]() (11; 0% instances), [sk-dep/orphan]() (10; 0% instances), [sk-dep/ccomp]() (9; 0% instances), [sk-dep/appos]() (5; 0% instances), [sk-dep/acl]() (4; 0% instances), [sk-dep/nummod]() (4; 0% instances), [sk-dep/parataxis]() (4; 0% instances), [sk-dep/csubj:pass]() (1; 0% instances)
 
-Children of `ADJ` nodes belong to 13 different parts of speech: [PUNCT]() (785; 26% instances), [VERB]() (706; 23% instances), [NOUN]() (347; 11% instances), [CONJ]() (316; 10% instances), [ADJ]() (258; 8% instances), [ADV]() (251; 8% instances), [PRON]() (172; 6% instances), [PART]() (123; 4% instances), [PROPN]() (40; 1% instances), [ADP]() (31; 1% instances), [AUX]() (19; 1% instances), [NUM]() (16; 1% instances), [X]() (6; 0% instances)
+Children of `ADJ` nodes belong to 15 different parts of speech: [PUNCT]() (1066; 25% instances), [AUX]() (705; 17% instances), [NOUN]() (698; 17% instances), [ADV]() (369; 9% instances), [ADJ]() (306; 7% instances), [CCONJ]() (267; 6% instances), [VERB]() (191; 5% instances), [PART]() (139; 3% instances), [DET]() (119; 3% instances), [PRON]() (102; 2% instances), [PROPN]() (88; 2% instances), [SCONJ]() (79; 2% instances), [ADP]() (44; 1% instances), [NUM]() (18; 0% instances), [X]() (7; 0% instances)
 

@@ -21,9 +21,9 @@ The following 1 pairs of parts of speech are connected with `case`: [sa-pos/PRON
 # visual-style 2	fgColor:white
 # visual-style 2 3 case	color:blue
 1	कथम्	कथम्	ADV	_	_	5	advmod	_	Translit=katham|LTranslit=katham
-2	मम	अहम्	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	5	nmod	_	Translit=mama|LTranslit=aham
+2	मम	अहम्	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	5	obl	_	Translit=mama|LTranslit=aham
 3	उपरि	उपरि	ADP	_	_	2	case	_	Translit=upari|LTranslit=upari
-4	विपर्ययम्	विपर्यय	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	5	dobj	_	Translit=viparyayam|LTranslit=viparyaya
+4	विपर्ययम्	विपर्यय	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	5	obj	_	Translit=viparyayam|LTranslit=viparyaya
 5	करिष्यति	कृ	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	Translit=kariṣyati|LTranslit=kr̥_1|LId=कृ-१
 
 ~~~

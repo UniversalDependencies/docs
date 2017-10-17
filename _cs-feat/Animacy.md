@@ -2,7 +2,16 @@
 layout: feature
 title: 'Animacy'
 shortdef: 'animacy'
+udver: '2'
 ---
+
+<table class="typeindex" border="1">
+<tr>
+  <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
+  <td><a href="#Anim">Anim</a></td>
+  <td><a href="#Inan">Inan</a></td>
+</tr>
+</table>
 
 Similarly to [Gender](), animacy is
 a lexical feature of [nouns](cs-pos/NOUN) and inflectional
@@ -14,7 +23,7 @@ masculine gender, which is why the PDT tagset does not have
 animacy as separate feature and instead defines four genders:
 masculine animate, masculine inanimate, feminine and neuter.
 
-### `Anim`: animate
+### <a name="Anim">`Anim`</a>: animate
 
 Human beings, animals, fictional characters, names of professions
 etc. are all animate. Even nouns that are normally inanimate can be
@@ -26,7 +35,7 @@ PDT examples of masculine animate nouns:
 
 - _člověk&nbsp;_ “man”, _ministr&nbsp;_ “minister”, _prezident&nbsp;_ “president”, _předseda&nbsp;_ “chairman”, _ředitel&nbsp;_ “director”
 
-### `Inan`: inanimate
+### <a name="Inan">`Inan`</a>: inanimate
 
 Nouns that are not animate are inanimate.
 

@@ -2,6 +2,7 @@
 layout: relation
 title: 'auxpass'
 shortdef: 'passive auxiliary'
+udver: '2'
 ---
 
 A passive auxiliary of a clause is a non-main verb of the clause which
@@ -20,3 +21,5 @@ Kennedy a été assassiné \n Kennedy has been murdered
 auxpass(assassiné, été)
 aux(assassiné, a)
 ~~~
+
+Currently FrenchSpoken does not use the `auxpass` relation. 

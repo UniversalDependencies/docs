@@ -51,7 +51,7 @@ The most frequent other feature values with which `PRON` and `Gender` co-occurre
   <tr><th>Paradigm <i>तद्</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Abl|<a href="Number.html">Number</a>=Sing</tt></td><td>तस्मात्</td><td></td><td>तस्मात्</td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Abl|<a href="Number.html">Number</a>=Plur</tt></td><td>तान्</td><td></td><td></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Number.html">Number</a>=Sing</tt></td><td>तत्, तम्</td><td></td><td></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Number.html">Number</a>=Sing</tt></td><td>तम्, तत्</td><td></td><td></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Number.html">Number</a>=Plur</tt></td><td></td><td></td><td>तानि</td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Dat|<a href="Number.html">Number</a>=Sing</tt></td><td>तस्मै</td><td></td><td></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Number.html">Number</a>=Sing|<a href="Poss.html">Poss</a>=Yes</tt></td><td>तस्य</td><td></td><td></td></tr>
@@ -67,7 +67,7 @@ The most frequent other feature values with which `PRON` and `Gender` co-occurre
 
 59 [sa-pos/VERB]() tokens (25% of all `VERB` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `VERB` and `Gender` co-occurred: <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (59; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (59; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (59; 100%), <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (58; 98%), <tt><a href="Number.html">Number</a>=Sing</tt> (53; 90%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (37; 63%), <tt><a href="Case.html">Case</a>=Nom</tt> (34; 58%).
+The most frequent other feature values with which `VERB` and `Gender` co-occurred: <tt><a href="Person.html">Person</a>=EMPTY</tt> (59; 100%), <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (59; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (59; 100%), <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (58; 98%), <tt><a href="Number.html">Number</a>=Sing</tt> (53; 90%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (37; 63%), <tt><a href="Case.html">Case</a>=Nom</tt> (34; 58%).
 
 `VERB` tokens may have the following values of `Gender`:
 
@@ -77,9 +77,8 @@ The most frequent other feature values with which `VERB` and `Gender` co-occurre
 * `EMPTY` (180): अब्रवीत्, अस्ति, आह, गत्वा, भवति, श्रुत्वा, उच्यते, करिष्यामि, करोमि, प्रोवाच
 
 <table>
-  <tr><th>Paradigm <i>गत</i></th><th><tt>Masc</tt></th><th><tt>Neut</tt></th></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Loc</tt></td><td></td><td>गते</td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Nom</tt></td><td>गतः</td><td></td></tr>
+  <tr><th>Paradigm <i>कृत</i></th><th><tt>Masc</tt></th><th><tt>Neut</tt></th></tr>
+  <tr><td><tt></tt></td><td>कृतः</td><td>कृतम्</td></tr>
 </table>
 
 `Gender` seems to be **lexical feature** of `VERB`. 96% lemmas (50) occur only with one value of `Gender`.
@@ -151,7 +150,7 @@ The most frequent other feature values with which `PROPN` and `Gender` co-occurr
 
 16 [sa-pos/X]() tokens (80% of all `X` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `X` and `Gender` co-occurred: <tt><a href="Person.html">Person</a>=EMPTY</tt> (16; 100%), <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (16; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (13; 81%), <tt><a href="Case.html">Case</a>=Nom</tt> (11; 69%), <tt><a href="VerbForm.html">VerbForm</a>=EMPTY</tt> (10; 63%).
+The most frequent other feature values with which `X` and `Gender` co-occurred: <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (16; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (16; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (13; 81%), <tt><a href="Case.html">Case</a>=Nom</tt> (11; 69%), <tt><a href="VerbForm.html">VerbForm</a>=EMPTY</tt> (10; 63%).
 
 `X` tokens may have the following values of `Gender`:
 
@@ -189,8 +188,8 @@ The 10 most frequent relations where parent and child node agree in `Gender`:
 <tt>NOUN --[<a href="../dep/nmod.html">nmod</a>]--> PRON</tt> (22; 54%),
 <tt>NOUN --[<a href="../dep/nmod.html">nmod</a>]--> PROPN</tt> (8; 73%),
 <tt>PROPN --[<a href="../dep/conj.html">conj</a>]--> PROPN</tt> (7; 100%),
-<tt>NOUN --[<a href="../dep/det.html">det</a>]--> PRON</tt> (6; 67%),
 <tt>NOUN --[<a href="../dep/nsubj.html">nsubj</a>]--> NOUN</tt> (6; 86%),
+<tt>NOUN --[<a href="../dep/det.html">det</a>]--> PRON</tt> (6; 67%),
 <tt>PRON --[<a href="../dep/acl.html">acl</a>]--> NOUN</tt> (4; 100%),
 <tt>X --[<a href="../dep/nsubj.html">nsubj</a>]--> NOUN</tt> (3; 75%).
 

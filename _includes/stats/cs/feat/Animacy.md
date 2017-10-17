@@ -7,22 +7,22 @@
 This feature is universal.
 It occurs with 2 different values: `Anim`, `Inan`.
 
-312931 tokens (21%) have a non-empty value of `Animacy`.
-62654 types (49%) occur at least once with a non-empty value of `Animacy`.
-28568 lemmas (49%) occur at least once with a non-empty value of `Animacy`.
-The feature is used with 8 part-of-speech tags: [cs-pos/NOUN]() (163546; 11% instances), [cs-pos/ADJ]() (73924; 5% instances), [cs-pos/PROPN]() (48949; 3% instances), [cs-pos/VERB]() (15642; 1% instances), [cs-pos/PRON]() (7234; 0% instances), [cs-pos/DET]() (2622; 0% instances), [cs-pos/AUX]() (711; 0% instances), [cs-pos/NUM]() (303; 0% instances).
+278115 tokens (21%) have a non-empty value of `Animacy`.
+58515 types (49%) occur at least once with a non-empty value of `Animacy`.
+26931 lemmas (49%) occur at least once with a non-empty value of `Animacy`.
+The feature is used with 8 part-of-speech tags: [cs-pos/NOUN]() (145228; 11% instances), [cs-pos/ADJ]() (67771; 5% instances), [cs-pos/PROPN]() (43715; 3% instances), [cs-pos/VERB]() (11242; 1% instances), [cs-pos/DET]() (5524; 0% instances), [cs-pos/PRON]() (3239; 0% instances), [cs-pos/AUX]() (1118; 0% instances), [cs-pos/NUM]() (278; 0% instances).
 
 ### `NOUN`
 
-163546 [cs-pos/NOUN]() tokens (44% of all `NOUN` tokens) have a non-empty value of `Animacy`.
+145228 [cs-pos/NOUN]() tokens (44% of all `NOUN` tokens) have a non-empty value of `Animacy`.
 
-The most frequent other feature values with which `NOUN` and `Animacy` co-occurred: <tt><a href="Gender.html">Gender</a>=Masc</tt> (163546; 100%), <tt><a href="Negative.html">Negative</a>=Pos</tt> (163534; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (106848; 65%).
+The most frequent other feature values with which `NOUN` and `Animacy` co-occurred: <tt><a href="Gender.html">Gender</a>=Masc</tt> (145228; 100%), <tt><a href="Polarity.html">Polarity</a>=Pos</tt> (145217; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (94678; 65%).
 
 `NOUN` tokens may have the following values of `Animacy`:
 
-* `Anim` (42328; 26% of non-empty `Animacy`): <em>lidí, ministr, předseda, lidé, ředitel, prezident, trenér, ministra, prezidenta, premiér</em>
-* `Inan` (121218; 74% of non-empty `Animacy`): <em>roku, roce, případě, zákona, rok, světa, trhu, zákon, zájem, státu</em>
-* `EMPTY` (208820): <em>korun, let, strany, procent, společnosti, době, firmy, Kč, práce, jednání</em>
+* `Anim` (37835; 26% of non-empty `Animacy`): <em>lidí, ministr, předseda, lidé, ředitel, prezident, trenér, ministra, premiér, prezidenta</em>
+* `Inan` (107393; 74% of non-empty `Animacy`): <em>roku, roce, případě, zákona, rok, světa, trhu, zákon, zájem, návrh</em>
+* `EMPTY` (183890): <em>korun, let, procent, společnosti, době, strany, firmy, Kč, práce, jednání</em>
 
 <table>
   <tr><th>Paradigm <i>člen</i></th><th><tt>Anim</tt></th><th><tt>Inan</tt></th></tr>
@@ -40,19 +40,19 @@ The most frequent other feature values with which `NOUN` and `Animacy` co-occurr
   <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Number.html">Number</a>=Plur</tt></td><td><em>členové</em></td><td></td></tr>
 </table>
 
-`Animacy` seems to be **lexical feature** of `NOUN`. 99% lemmas (6964) occur only with one value of `Animacy`.
+`Animacy` seems to be **lexical feature** of `NOUN`. 99% lemmas (6607) occur only with one value of `Animacy`.
 
 ### `ADJ`
 
-73924 [cs-pos/ADJ]() tokens (41% of all `ADJ` tokens) have a non-empty value of `Animacy`.
+67771 [cs-pos/ADJ]() tokens (40% of all `ADJ` tokens) have a non-empty value of `Animacy`.
 
-The most frequent other feature values with which `ADJ` and `Animacy` co-occurred: <tt><a href="Gender.html">Gender</a>=Masc</tt> (73853; 100%), <tt><a href="Negative.html">Negative</a>=Pos</tt> (69257; 94%), <tt><a href="Degree.html">Degree</a>=Pos</tt> (65402; 88%), <tt><a href="Number.html">Number</a>=Sing</tt> (46254; 63%).
+The most frequent other feature values with which `ADJ` and `Animacy` co-occurred: <tt><a href="Gender.html">Gender</a>=Masc</tt> (66225; 98%), <tt><a href="Polarity.html">Polarity</a>=Pos</tt> (63574; 94%), <tt><a href="Degree.html">Degree</a>=Pos</tt> (58151; 86%), <tt><a href="Number.html">Number</a>=Sing</tt> (40956; 60%).
 
 `ADJ` tokens may have the following values of `Animacy`:
 
-* `Anim` (18640; 25% of non-empty `Animacy`): <em>každý, další, bývalý, mnozí, domácí, první, generální, český, americký, českých</em>
-* `Inan` (55284; 75% of non-empty `Animacy`): <em>další, první, nový, českého, celý, český, každý, velký, letošního, státního</em>
-* `EMPTY` (106887): <em>české, první, další, druhé, nové, možné, poslední, česká, třeba, státní</em>
+* `Anim` (17234; 25% of non-empty `Animacy`): <em>každý, další, bývalý, mnozí, domácí, generální, první, český, americký, dalších</em>
+* `Inan` (50537; 75% of non-empty `Animacy`): <em>další, první, nový, celý, českého, český, každý, letošního, velký, minulý</em>
+* `EMPTY` (101027): <em>české, první, další, druhé, nové, možné, česká, státní, poslední, třeba</em>
 
 <table>
   <tr><th>Paradigm <i>český</i></th><th><tt>Anim</tt></th><th><tt>Inan</tt></th></tr>
@@ -72,59 +72,58 @@ The most frequent other feature values with which `ADJ` and `Animacy` co-occurre
 
 ### `PROPN`
 
-48949 [cs-pos/PROPN]() tokens (58% of all `PROPN` tokens) have a non-empty value of `Animacy`.
+43715 [cs-pos/PROPN]() tokens (58% of all `PROPN` tokens) have a non-empty value of `Animacy`.
 
-The most frequent other feature values with which `PROPN` and `Animacy` co-occurred: <tt><a href="Gender.html">Gender</a>=Masc</tt> (48949; 100%), <tt><a href="Negative.html">Negative</a>=Pos</tt> (48949; 100%), <tt><a href="Abbr.html">Abbr</a>=EMPTY</tt> (45594; 93%), <tt><a href="Number.html">Number</a>=Sing</tt> (41680; 85%), <tt><a href="Case.html">Case</a>=Nom</tt> (27584; 56%).
+The most frequent other feature values with which `PROPN` and `Animacy` co-occurred: <tt><a href="Gender.html">Gender</a>=Masc</tt> (43715; 100%), <tt><a href="Polarity.html">Polarity</a>=Pos</tt> (43715; 100%), <tt><a href="Abbr.html">Abbr</a>=EMPTY</tt> (40687; 93%), <tt><a href="Number.html">Number</a>=Sing</tt> (37156; 85%), <tt><a href="Case.html">Case</a>=Nom</tt> (24699; 57%).
 
 `PROPN` tokens may have the following values of `Animacy`:
 
-* `Anim` (37154; 76% of non-empty `Animacy`): <em>Jiří, J, Jan, Václav, Petr, Pavel, Josef, M, Vladimír, V</em>
-* `Inan` (11795; 24% of non-empty `Animacy`): <em>USA, York, Zlín, Liberec, FNM, SSSR, Hradec, Izrael, Londýn, Yorku</em>
-* `EMPTY` (35082): <em>Praha, ČR, Praze, LN, ODS, OSN, Evropy, Brno, Prahy, ODA</em>
+* `Anim` (33161; 76% of non-empty `Animacy`): <em>Jiří, J, Jan, Václav, Petr, Josef, Pavel, M, V, Vladimír</em>
+* `Inan` (10554; 24% of non-empty `Animacy`): <em>USA, Zlín, York, Liberec, FNM, Izrael, SSSR, Londýn, Hradec, Yorku</em>
+* `EMPTY` (31109): <em>Praha, ČR, Praze, LN, ODS, OSN, Evropy, Brno, Prahy, ODA</em>
 
 <table>
   <tr><th>Paradigm <i>York</i></th><th><tt>Anim</tt></th><th><tt>Inan</tt></th></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="NameType.html">NameType</a>=Geo</tt></td><td></td><td><em>York</em></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="NameType.html">NameType</a>=Geo</tt></td><td></td><td><em>Yorku</em></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Loc|<a href="NameType.html">NameType</a>=Geo</tt></td><td></td><td><em>Yorku, YORKU</em></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Loc|<a href="NameType.html">NameType</a>=Sur</tt></td><td><em>Yorku</em></td><td></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Loc|<a href="NameType.html">NameType</a>=Geo</tt></td><td></td><td><em>Yorku</em></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="NameType.html">NameType</a>=Geo</tt></td><td></td><td><em>York, YORK</em></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="NameType.html">NameType</a>=Sur</tt></td><td><em>YORK</em></td><td></td></tr>
 </table>
 
-`Animacy` seems to be **lexical feature** of `PROPN`. 99% lemmas (10355) occur only with one value of `Animacy`.
+`Animacy` seems to be **lexical feature** of `PROPN`. 99% lemmas (9651) occur only with one value of `Animacy`.
 
 ### `VERB`
 
-15642 [cs-pos/VERB]() tokens (9% of all `VERB` tokens) have a non-empty value of `Animacy`.
+11242 [cs-pos/VERB]() tokens (9% of all `VERB` tokens) have a non-empty value of `Animacy`.
 
-The most frequent other feature values with which `VERB` and `Animacy` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (15642; 100%), <tt><a href="Number.html">Number</a>=Plur</tt> (15642; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (15642; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (15642; 100%), <tt><a href="Negative.html">Negative</a>=Pos</tt> (14429; 92%), <tt><a href="Voice.html">Voice</a>=Act</tt> (13279; 85%), <tt><a href="Tense.html">Tense</a>=Past</tt> (13279; 85%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (9294; 59%).
+The most frequent other feature values with which `VERB` and `Animacy` co-occurred: <tt><a href="Number.html">Number</a>=Plur</tt> (11242; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (11242; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (11242; 100%), <tt><a href="Voice.html">Voice</a>=Act</tt> (11242; 100%), <tt><a href="Tense.html">Tense</a>=Past</tt> (11242; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (11242; 100%), <tt><a href="Polarity.html">Polarity</a>=Pos</tt> (10244; 91%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (7462; 66%).
 
 `VERB` tokens may have the following values of `Animacy`:
 
-* `Anim` (9294; 59% of non-empty `Animacy`): <em>měli, byli, mohli, chtěli, začali, museli, dostali, získali, rozhodli, přišli</em>
-* `Inan` (6348; 41% of non-empty `Animacy`): <em>byly, měly, mohly, začaly, nebyly, objevily, dosáhly, získaly, neměly, staly</em>
-* `EMPTY` (149992): <em>je, jsou, má, není, byl, být, může, bylo, řekl, měl</em>
+* `Anim` (7462; 66% of non-empty `Animacy`): <em>měli, mohli, chtěli, začali, museli, dostali, byli, rozhodli, získali, neměli</em>
+* `Inan` (3780; 34% of non-empty `Animacy`): <em>měly, mohly, byly, začaly, objevily, dosáhly, neměly, získaly, staly, vedly</em>
+* `EMPTY` (108430): <em>má, je, může, řekl, měl, mají, musí, jde, měla, lze</em>
 
 <table>
-  <tr><th>Paradigm <i>být</i></th><th><tt>Anim</tt></th><th><tt>Inan</tt></th></tr>
-  <tr><td><tt><a href="Gender.html">Gender</a>=Masc|<a href="Negative.html">Negative</a>=Neg</tt></td><td><em>nebyli</em></td><td></td></tr>
-  <tr><td><tt><a href="Gender.html">Gender</a>=Masc|<a href="Negative.html">Negative</a>=Pos</tt></td><td><em>byli</em></td><td></td></tr>
-  <tr><td><tt><a href="Gender.html">Gender</a>=Fem,Masc|<a href="Negative.html">Negative</a>=Neg</tt></td><td></td><td><em>nebyly</em></td></tr>
-  <tr><td><tt><a href="Gender.html">Gender</a>=Fem,Masc|<a href="Negative.html">Negative</a>=Pos</tt></td><td></td><td><em>byly</em></td></tr>
+  <tr><th>Paradigm <i>mít</i></th><th><tt>Anim</tt></th><th><tt>Inan</tt></th></tr>
+  <tr><td><tt><a href="Gender.html">Gender</a>=Masc|<a href="Polarity.html">Polarity</a>=Neg</tt></td><td><em>neměli</em></td><td></td></tr>
+  <tr><td><tt><a href="Gender.html">Gender</a>=Masc|<a href="Polarity.html">Polarity</a>=Pos</tt></td><td><em>měli</em></td><td></td></tr>
+  <tr><td><tt><a href="Gender.html">Gender</a>=Fem,Masc|<a href="Polarity.html">Polarity</a>=Neg</tt></td><td></td><td><em>neměly</em></td></tr>
+  <tr><td><tt><a href="Gender.html">Gender</a>=Fem,Masc|<a href="Polarity.html">Polarity</a>=Pos</tt></td><td></td><td><em>měly</em></td></tr>
 </table>
 
-### `PRON`
+### `DET`
 
-7234 [cs-pos/PRON]() tokens (10% of all `PRON` tokens) have a non-empty value of `Animacy`.
+5524 [cs-pos/DET]() tokens (11% of all `DET` tokens) have a non-empty value of `Animacy`.
 
-The most frequent other feature values with which `PRON` and `Animacy` co-occurred: <tt><a href="Variant.html">Variant</a>=EMPTY</tt> (7234; 100%), <tt><a href="Reflex.html">Reflex</a>=EMPTY</tt> (7227; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (7135; 99%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (5402; 75%), <tt><a href="PronType.html">PronType</a>=Int,Rel</tt> (5037; 70%), <tt><a href="Case.html">Case</a>=Nom</tt> (4945; 68%).
+The most frequent other feature values with which `DET` and `Animacy` co-occurred: <tt><a href="Gender.html">Gender</a>=Masc</tt> (5524; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (5193; 94%), <tt><a href="Number[psor].html">Number[psor]</a>=EMPTY</tt> (5193; 94%), <tt><a href="Poss.html">Poss</a>=EMPTY</tt> (4675; 85%), <tt><a href="Number.html">Number</a>=Plur</tt> (3549; 64%), <tt><a href="Case.html">Case</a>=Nom</tt> (3284; 59%).
 
-`PRON` tokens may have the following values of `Animacy`:
+`DET` tokens may have the following values of `Animacy`:
 
-* `Anim` (3823; 53% of non-empty `Animacy`): <em>kteří, kdo, nikdo, všichni, někdo, ti, sami, oni, kterého, někteří</em>
-* `Inan` (3411; 47% of non-empty `Animacy`): <em>co, které, který, čím, všechny, ty, čem, čeho, jež, čemu</em>
-* `EMPTY` (65185): <em>se, to, si, které, který, která, tím, tom, nás, tomu</em>
+* `Anim` (2428; 44% of non-empty `Animacy`): <em>kteří, všichni, někteří, ti, sami, naši, svého, kterého, ty, tito</em>
+* `Inan` (3096; 56% of non-empty `Animacy`): <em>které, svůj, který, tento, tyto, ty, některé, všechny, ten, žádný</em>
+* `EMPTY` (43246): <em>to, jeho, které, který, která, jejich, své, tím, tom, této</em>
 
 <table>
   <tr><th>Paradigm <i>ten</i></th><th><tt>Anim</tt></th><th><tt>Inan</tt></th></tr>
@@ -133,56 +132,56 @@ The most frequent other feature values with which `PRON` and `Animacy` co-occurr
   <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Number.html">Number</a>=Plur</tt></td><td><em>ti</em></td><td><em>ty</em></td></tr>
 </table>
 
-### `DET`
+### `PRON`
 
-2622 [cs-pos/DET]() tokens (9% of all `DET` tokens) have a non-empty value of `Animacy`.
+3239 [cs-pos/PRON]() tokens (8% of all `PRON` tokens) have a non-empty value of `Animacy`.
 
-The most frequent other feature values with which `DET` and `Animacy` co-occurred: <tt><a href="Gender.html">Gender</a>=Masc</tt> (2622; 100%), <tt><a href="Gender[psor].html">Gender[psor]</a>=EMPTY</tt> (2548; 97%), <tt><a href="Number[psor].html">Number[psor]</a>=EMPTY</tt> (2255; 86%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (2255; 86%), <tt><a href="Reflex.html">Reflex</a>=EMPTY</tt> (2050; 78%), <tt><a href="Case.html">Case</a>=Acc</tt> (1790; 68%), <tt><a href="Poss.html">Poss</a>=EMPTY</tt> (1683; 64%), <tt><a href="Number.html">Number</a>=Sing</tt> (1579; 60%).
+The most frequent other feature values with which `PRON` and `Animacy` co-occurred: <tt><a href="Variant.html">Variant</a>=EMPTY</tt> (3239; 100%), <tt><a href="Reflex.html">Reflex</a>=EMPTY</tt> (3239; 100%), <tt><a href="PrepCase.html">PrepCase</a>=EMPTY</tt> (3184; 98%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (3168; 98%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (3073; 95%), <tt><a href="PronType.html">PronType</a>=Int,Rel</tt> (2333; 72%), <tt><a href="Case.html">Case</a>=Nom</tt> (1864; 58%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (1629; 50%).
 
-`DET` tokens may have the following values of `Animacy`:
+`PRON` tokens may have the following values of `Animacy`:
 
-* `Anim` (635; 24% of non-empty `Animacy`): <em>někteří, naši, svého, tito, ti, ty, tyto, takového, našeho, tohoto</em>
-* `Inan` (1987; 76% of non-empty `Animacy`): <em>svůj, tento, tyto, některé, náš, takový, nějaký, ten, žádný, takové</em>
-* `EMPTY` (25197): <em>jeho, jejich, své, této, její, tohoto, svou, tato, těchto, svých</em>
+* `Anim` (1547; 48% of non-empty `Animacy`): <em>kdo, nikdo, někdo, oni, koho, komu, nikoho, někoho, nikomu, málokdo</em>
+* `Inan` (1692; 52% of non-empty `Animacy`): <em>co, čím, čem, čeho, jež, čemu, veškeré, veškerý, ony, Copak</em>
+* `EMPTY` (36425): <em>se, si, nás, je, nám, nich, což, mu, ho, ji</em>
 
 <table>
-  <tr><th>Paradigm <i>tento</i></th><th><tt>Anim</tt></th><th><tt>Inan</tt></th></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Number.html">Number</a>=Sing</tt></td><td><em>tohoto</em></td><td><em>tento</em></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Number.html">Number</a>=Plur</tt></td><td><em>tyto</em></td><td><em>tyto</em></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Number.html">Number</a>=Plur</tt></td><td><em>tito</em></td><td><em>tyto</em></td></tr>
+  <tr><th>Paradigm <i>on</i></th><th><tt>Anim</tt></th><th><tt>Inan</tt></th></tr>
+  <tr><td><tt></tt></td><td><em>oni</em></td><td><em>ony</em></td></tr>
 </table>
+
+`Animacy` seems to be **lexical feature** of `PRON`. 91% lemmas (20) occur only with one value of `Animacy`.
 
 ### `AUX`
 
-711 [cs-pos/AUX]() tokens (3% of all `AUX` tokens) have a non-empty value of `Animacy`.
+1118 [cs-pos/AUX]() tokens (3% of all `AUX` tokens) have a non-empty value of `Animacy`.
 
-The most frequent other feature values with which `AUX` and `Animacy` co-occurred: <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (711; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (711; 100%), <tt><a href="Tense.html">Tense</a>=Past</tt> (711; 100%), <tt><a href="Number.html">Number</a>=Plur</tt> (711; 100%), <tt><a href="Voice.html">Voice</a>=Act</tt> (711; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (711; 100%), <tt><a href="Negative.html">Negative</a>=Pos</tt> (653; 92%), <tt><a href="Gender.html">Gender</a>=Fem,Masc</tt> (535; 75%).
+The most frequent other feature values with which `AUX` and `Animacy` co-occurred: <tt><a href="Tense.html">Tense</a>=Past</tt> (1118; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (1118; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (1118; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (1118; 100%), <tt><a href="Number.html">Number</a>=Plur</tt> (1118; 100%), <tt><a href="Voice.html">Voice</a>=Act</tt> (1118; 100%), <tt><a href="Polarity.html">Polarity</a>=Pos</tt> (1005; 90%), <tt><a href="Gender.html">Gender</a>=Fem,Masc</tt> (760; 68%).
 
 `AUX` tokens may have the following values of `Animacy`:
 
-* `Anim` (176; 25% of non-empty `Animacy`): <em>byli, nebyli</em>
-* `Inan` (535; 75% of non-empty `Animacy`): <em>byly, nebyly, bývaly</em>
-* `EMPTY` (20084): <em>by, bude, jsem, jsme, byl, budou, byla, být, je, bylo</em>
+* `Anim` (358; 32% of non-empty `Animacy`): <em>byli, nebyli, bývali</em>
+* `Inan` (760; 68% of non-empty `Animacy`): <em>byly, nebyly, bývaly, bývávaly</em>
+* `EMPTY` (35220): <em>je, by, jsou, bude, byl, být, jsem, jsme, bylo, byla</em>
 
 <table>
   <tr><th>Paradigm <i>být</i></th><th><tt>Anim</tt></th><th><tt>Inan</tt></th></tr>
-  <tr><td><tt><a href="Gender.html">Gender</a>=Masc|<a href="Negative.html">Negative</a>=Neg</tt></td><td><em>nebyli</em></td><td></td></tr>
-  <tr><td><tt><a href="Gender.html">Gender</a>=Masc|<a href="Negative.html">Negative</a>=Pos</tt></td><td><em>byli</em></td><td></td></tr>
-  <tr><td><tt><a href="Gender.html">Gender</a>=Fem,Masc|<a href="Negative.html">Negative</a>=Neg</tt></td><td></td><td><em>nebyly</em></td></tr>
-  <tr><td><tt><a href="Gender.html">Gender</a>=Fem,Masc|<a href="Negative.html">Negative</a>=Pos</tt></td><td></td><td><em>byly</em></td></tr>
+  <tr><td><tt><a href="Gender.html">Gender</a>=Masc|<a href="Polarity.html">Polarity</a>=Neg</tt></td><td><em>nebyli</em></td><td></td></tr>
+  <tr><td><tt><a href="Gender.html">Gender</a>=Masc|<a href="Polarity.html">Polarity</a>=Pos</tt></td><td><em>byli</em></td><td></td></tr>
+  <tr><td><tt><a href="Gender.html">Gender</a>=Fem,Masc|<a href="Polarity.html">Polarity</a>=Neg</tt></td><td></td><td><em>nebyly</em></td></tr>
+  <tr><td><tt><a href="Gender.html">Gender</a>=Fem,Masc|<a href="Polarity.html">Polarity</a>=Pos</tt></td><td></td><td><em>byly</em></td></tr>
 </table>
 
 ### `NUM`
 
-303 [cs-pos/NUM]() tokens (1% of all `NUM` tokens) have a non-empty value of `Animacy`.
+278 [cs-pos/NUM]() tokens (1% of all `NUM` tokens) have a non-empty value of `Animacy`.
 
-The most frequent other feature values with which `NUM` and `Animacy` co-occurred: <tt><a href="Gender.html">Gender</a>=Masc</tt> (303; 100%), <tt><a href="NumType.html">NumType</a>=Card</tt> (303; 100%), <tt><a href="NumForm.html">NumForm</a>=Word</tt> (303; 100%), <tt><a href="Case.html">Case</a>=Acc</tt> (303; 100%), <tt><a href="NumValue.html">NumValue</a>=1,2,3</tt> (303; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (303; 100%).
+The most frequent other feature values with which `NUM` and `Animacy` co-occurred: <tt><a href="Gender.html">Gender</a>=Masc</tt> (278; 100%), <tt><a href="NumForm.html">NumForm</a>=Word</tt> (278; 100%), <tt><a href="NumValue.html">NumValue</a>=1,2,3</tt> (278; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (278; 100%), <tt><a href="Case.html">Case</a>=Acc</tt> (278; 100%), <tt><a href="NumType.html">NumType</a>=Card</tt> (278; 100%).
 
 `NUM` tokens may have the following values of `Animacy`:
 
-* `Anim` (84; 28% of non-empty `Animacy`): <em>jednoho</em>
-* `Inan` (219; 72% of non-empty `Animacy`): <em>jeden</em>
-* `EMPTY` (41204): <em>1, 2, 3, dva, tři, 4, 6, dvě, tisíc, 5</em>
+* `Anim` (73; 26% of non-empty `Animacy`): <em>jednoho</em>
+* `Inan` (205; 74% of non-empty `Animacy`): <em>jeden</em>
+* `EMPTY` (36564): <em>1, 2, 3, dva, tři, 4, 6, dvě, 5, tisíc</em>
 
 <table>
   <tr><th>Paradigm <i>jeden</i></th><th><tt>Anim</tt></th><th><tt>Inan</tt></th></tr>
@@ -192,16 +191,16 @@ The most frequent other feature values with which `NUM` and `Animacy` co-occurre
 ## Relations with Agreement in `Animacy`
 
 The 10 most frequent relations where parent and child node agree in `Animacy`:
-<tt>NOUN --[<a href="../dep/amod.html">amod</a>]--> ADJ</tt> (62570; 98%),
-<tt>PROPN --[<a href="../dep/name.html">name</a>]--> PROPN</tt> (11956; 99%),
-<tt>PROPN --[<a href="../dep/nmod.html">nmod</a>]--> NOUN</tt> (7255; 87%),
-<tt>PROPN --[<a href="../dep/conj.html">conj</a>]--> PROPN</tt> (2979; 67%),
-<tt>ADJ --[<a href="../dep/conj.html">conj</a>]--> ADJ</tt> (2133; 90%),
-<tt>PROPN --[<a href="../dep/amod.html">amod</a>]--> ADJ</tt> (1848; 74%),
-<tt>ADJ --[<a href="../dep/nsubj.html">nsubj</a>]--> NOUN</tt> (1556; 88%),
-<tt>PROPN --[<a href="../dep/appos.html">appos</a>]--> NOUN</tt> (687; 77%),
-<tt>NOUN --[<a href="../dep/nsubj.html">nsubj</a>]--> PROPN</tt> (278; 55%),
-<tt>NOUN --[<a href="../dep/case.html">case</a>]--> NOUN</tt> (250; 53%).
+<tt>NOUN --[<a href="../dep/amod.html">amod</a>]--> ADJ</tt> (55694; 97%),
+<tt>PROPN --[<a href="../dep/flat.html">flat</a>]--> PROPN</tt> (10645; 99%),
+<tt>PROPN --[<a href="../dep/nmod.html">nmod</a>]--> NOUN</tt> (6502; 87%),
+<tt>PROPN --[<a href="../dep/conj.html">conj</a>]--> PROPN</tt> (2637; 67%),
+<tt>ADJ --[<a href="../dep/conj.html">conj</a>]--> ADJ</tt> (1988; 86%),
+<tt>PROPN --[<a href="../dep/amod.html">amod</a>]--> ADJ</tt> (1672; 72%),
+<tt>ADJ --[<a href="../dep/nsubj.html">nsubj</a>]--> NOUN</tt> (1549; 69%),
+<tt>PROPN --[<a href="../dep/appos.html">appos</a>]--> NOUN</tt> (636; 78%),
+<tt>NOUN --[<a href="../dep/nsubj.html">nsubj</a>]--> PROPN</tt> (258; 57%),
+<tt>NOUN --[<a href="../dep/case.html">case</a>]--> NOUN</tt> (212; 53%).
 
 
 
@@ -212,22 +211,22 @@ The 10 most frequent relations where parent and child node agree in `Animacy`:
 This feature is universal.
 It occurs with 2 different values: `Anim`, `Inan`.
 
-97987 tokens (20%) have a non-empty value of `Animacy`.
-26831 types (43%) occur at least once with a non-empty value of `Animacy`.
-12639 lemmas (45%) occur at least once with a non-empty value of `Animacy`.
-The feature is used with 8 part-of-speech tags: [cs-pos/NOUN]() (56383; 11% instances), [cs-pos/ADJ]() (28063; 6% instances), [cs-pos/PROPN]() (5431; 1% instances), [cs-pos/VERB]() (4740; 1% instances), [cs-pos/PRON]() (2039; 0% instances), [cs-pos/DET]() (895; 0% instances), [cs-pos/AUX]() (336; 0% instances), [cs-pos/NUM]() (100; 0% instances).
+95863 tokens (20%) have a non-empty value of `Animacy`.
+26426 types (43%) occur at least once with a non-empty value of `Animacy`.
+12475 lemmas (44%) occur at least once with a non-empty value of `Animacy`.
+The feature is used with 8 part-of-speech tags: [cs-pos/NOUN]() (55158; 11% instances), [cs-pos/ADJ]() (28657; 6% instances), [cs-pos/PROPN]() (5351; 1% instances), [cs-pos/VERB]() (3195; 1% instances), [cs-pos/DET]() (2015; 0% instances), [cs-pos/PRON]() (841; 0% instances), [cs-pos/AUX]() (548; 0% instances), [cs-pos/NUM]() (98; 0% instances).
 
 ### `NOUN`
 
-56383 [cs-pos/NOUN]() tokens (41% of all `NOUN` tokens) have a non-empty value of `Animacy`.
+55158 [cs-pos/NOUN]() tokens (41% of all `NOUN` tokens) have a non-empty value of `Animacy`.
 
-The most frequent other feature values with which `NOUN` and `Animacy` co-occurred: <tt><a href="Gender.html">Gender</a>=Masc</tt> (56383; 100%), <tt><a href="Negative.html">Negative</a>=Pos</tt> (56378; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (35748; 63%).
+The most frequent other feature values with which `NOUN` and `Animacy` co-occurred: <tt><a href="Gender.html">Gender</a>=Masc</tt> (55158; 100%), <tt><a href="Polarity.html">Polarity</a>=Pos</tt> (55153; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (34983; 63%).
 
 `NOUN` tokens may have the following values of `Animacy`:
 
-* `Anim` (9102; 16% of non-empty `Animacy`): <em>pracovníků, lidí, člověka, člověk, lidé, pracovník, členů, vedoucí, ředitel, pracovníci</em>
-* `Inan` (47281; 84% of non-empty `Animacy`): <em>roce, roku, úkolů, výsledky, jazyka, procesu, úkoly, podniku, života, základě</em>
-* `EMPTY` (79799): <em>práce, let, práci, oblasti, době, společnosti, hlediska, činnosti, výroby, období</em>
+* `Anim` (8894; 16% of non-empty `Animacy`): <em>pracovníků, lidí, člověka, člověk, lidé, pracovník, členů, ředitel, vedoucí, pracovníci</em>
+* `Inan` (46264; 84% of non-empty `Animacy`): <em>roce, roku, úkolů, výsledky, jazyka, procesu, podniku, základě, úkoly, života</em>
+* `EMPTY` (78001): <em>práce, let, práci, oblasti, době, společnosti, hlediska, činnosti, výroby, období</em>
 
 <table>
   <tr><th>Paradigm <i>druh</i></th><th><tt>Anim</tt></th><th><tt>Inan</tt></th></tr>
@@ -245,71 +244,71 @@ The most frequent other feature values with which `NOUN` and `Animacy` co-occurr
   <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Number.html">Number</a>=Plur</tt></td><td><em>druzi</em></td><td><em>druhy</em></td></tr>
 </table>
 
-`Animacy` seems to be **lexical feature** of `NOUN`. 99% lemmas (3983) occur only with one value of `Animacy`.
+`Animacy` seems to be **lexical feature** of `NOUN`. 99% lemmas (3929) occur only with one value of `Animacy`.
 
 ### `ADJ`
 
-28063 [cs-pos/ADJ]() tokens (40% of all `ADJ` tokens) have a non-empty value of `Animacy`.
+28657 [cs-pos/ADJ]() tokens (39% of all `ADJ` tokens) have a non-empty value of `Animacy`.
 
-The most frequent other feature values with which `ADJ` and `Animacy` co-occurred: <tt><a href="Gender.html">Gender</a>=Masc</tt> (28040; 100%), <tt><a href="Negative.html">Negative</a>=Pos</tt> (26973; 96%), <tt><a href="Degree.html">Degree</a>=Pos</tt> (25200; 90%), <tt><a href="Number.html">Number</a>=Sing</tt> (16060; 57%).
+The most frequent other feature values with which `ADJ` and `Animacy` co-occurred: <tt><a href="Polarity.html">Polarity</a>=Pos</tt> (27573; 96%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (27541; 96%), <tt><a href="Degree.html">Degree</a>=Pos</tt> (24617; 86%), <tt><a href="Number.html">Number</a>=Sing</tt> (15727; 55%).
 
 `ADJ` tokens may have the following values of `Animacy`:
 
-* `Anim` (3756; 13% of non-empty `Animacy`): <em>každý, pracujících, mladých, každého, pracující, mladí, další, rádi, mnozí, ostatní</em>
-* `Inan` (24307; 87% of non-empty `Animacy`): <em>jednotlivých, další, základní, pracovní, celý, první, velký, každý, nové, nový</em>
-* `EMPTY` (42465): <em>pracovní, možno, další, první, socialistické, nové, základní, druhé, současné, celé</em>
+* `Anim` (3794; 13% of non-empty `Animacy`): <em>každý, pracujících, mladých, každého, pracující, další, rádi, mladí, mnozí, ostatní</em>
+* `Inan` (24863; 87% of non-empty `Animacy`): <em>jednotlivých, další, základní, pracovní, celý, první, velký, každý, nový, dalších</em>
+* `EMPTY` (44521): <em>pracovní, další, možno, první, socialistické, nové, základní, druhé, současné, celé</em>
 
 <table>
   <tr><th>Paradigm <i>velký</i></th><th><tt>Anim</tt></th><th><tt>Inan</tt></th></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Degree.html">Degree</a>=Pos|<a href="Negative.html">Negative</a>=Neg|<a href="Number.html">Number</a>=Sing</tt></td><td></td><td><em>nevelký</em></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Degree.html">Degree</a>=Pos|<a href="Negative.html">Negative</a>=Pos|<a href="Number.html">Number</a>=Sing</tt></td><td><em>velkého</em></td><td><em>velký</em></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Degree.html">Degree</a>=Pos|<a href="Negative.html">Negative</a>=Pos|<a href="Number.html">Number</a>=Plur</tt></td><td><em>velké</em></td><td><em>velké</em></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Degree.html">Degree</a>=Cmp|<a href="Negative.html">Negative</a>=Pos|<a href="Number.html">Number</a>=Sing</tt></td><td></td><td><em>větší</em></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Degree.html">Degree</a>=Cmp|<a href="Negative.html">Negative</a>=Pos|<a href="Number.html">Number</a>=Plur</tt></td><td><em>větší</em></td><td><em>větší</em></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Degree.html">Degree</a>=Sup|<a href="Negative.html">Negative</a>=Pos|<a href="Number.html">Number</a>=Sing</tt></td><td></td><td><em>největší</em></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Degree.html">Degree</a>=Sup|<a href="Negative.html">Negative</a>=Pos|<a href="Number.html">Number</a>=Plur</tt></td><td></td><td><em>největší</em></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Dat|<a href="Degree.html">Degree</a>=Pos|<a href="Negative.html">Negative</a>=Pos|<a href="Number.html">Number</a>=Sing</tt></td><td></td><td><em>velkému</em></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Dat|<a href="Degree.html">Degree</a>=Pos|<a href="Negative.html">Negative</a>=Pos|<a href="Number.html">Number</a>=Plur</tt></td><td><em>velkým</em></td><td><em>velkým</em></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Dat|<a href="Degree.html">Degree</a>=Cmp|<a href="Negative.html">Negative</a>=Pos|<a href="Number.html">Number</a>=Sing</tt></td><td></td><td><em>většímu</em></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Dat|<a href="Degree.html">Degree</a>=Cmp|<a href="Negative.html">Negative</a>=Pos|<a href="Number.html">Number</a>=Plur</tt></td><td></td><td><em>větším</em></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Degree.html">Degree</a>=Pos|<a href="Negative.html">Negative</a>=Pos|<a href="Number.html">Number</a>=Sing</tt></td><td><em>velkého</em></td><td><em>velkého</em></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Degree.html">Degree</a>=Pos|<a href="Negative.html">Negative</a>=Pos|<a href="Number.html">Number</a>=Plur</tt></td><td><em>velkých</em></td><td><em>velkých</em></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Degree.html">Degree</a>=Cmp|<a href="Negative.html">Negative</a>=Pos|<a href="Number.html">Number</a>=Sing</tt></td><td></td><td><em>většího</em></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Degree.html">Degree</a>=Cmp|<a href="Negative.html">Negative</a>=Pos|<a href="Number.html">Number</a>=Plur</tt></td><td><em>větších</em></td><td><em>větších</em></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Degree.html">Degree</a>=Sup|<a href="Negative.html">Negative</a>=Pos|<a href="Number.html">Number</a>=Sing</tt></td><td><em>největšího</em></td><td><em>největšího</em></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Degree.html">Degree</a>=Sup|<a href="Negative.html">Negative</a>=Pos|<a href="Number.html">Number</a>=Plur</tt></td><td><em>největších</em></td><td><em>největších</em></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Ins|<a href="Degree.html">Degree</a>=Pos|<a href="Negative.html">Negative</a>=Neg|<a href="Number.html">Number</a>=Sing</tt></td><td></td><td><em>nevelkým</em></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Ins|<a href="Degree.html">Degree</a>=Pos|<a href="Negative.html">Negative</a>=Pos|<a href="Number.html">Number</a>=Sing</tt></td><td><em>velkým</em></td><td><em>velkým</em></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Ins|<a href="Degree.html">Degree</a>=Pos|<a href="Negative.html">Negative</a>=Pos|<a href="Number.html">Number</a>=Plur</tt></td><td><em>velkými</em></td><td><em>velkými</em></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Ins|<a href="Degree.html">Degree</a>=Cmp|<a href="Negative.html">Negative</a>=Pos|<a href="Number.html">Number</a>=Sing</tt></td><td></td><td><em>větším</em></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Ins|<a href="Degree.html">Degree</a>=Cmp|<a href="Negative.html">Negative</a>=Pos|<a href="Number.html">Number</a>=Plur</tt></td><td></td><td><em>většími</em></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Ins|<a href="Degree.html">Degree</a>=Sup|<a href="Negative.html">Negative</a>=Pos|<a href="Number.html">Number</a>=Sing</tt></td><td><em>největším</em></td><td><em>největším</em></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Ins|<a href="Degree.html">Degree</a>=Sup|<a href="Negative.html">Negative</a>=Pos|<a href="Number.html">Number</a>=Plur</tt></td><td><em>Největšími</em></td><td><em>největšími</em></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Loc|<a href="Degree.html">Degree</a>=Pos|<a href="Negative.html">Negative</a>=Pos|<a href="Number.html">Number</a>=Sing</tt></td><td></td><td><em>velkém</em></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Loc|<a href="Degree.html">Degree</a>=Pos|<a href="Negative.html">Negative</a>=Pos|<a href="Number.html">Number</a>=Plur</tt></td><td></td><td><em>velkých</em></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Loc|<a href="Degree.html">Degree</a>=Cmp|<a href="Negative.html">Negative</a>=Pos|<a href="Number.html">Number</a>=Sing</tt></td><td></td><td><em>větším</em></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Loc|<a href="Degree.html">Degree</a>=Cmp|<a href="Negative.html">Negative</a>=Pos|<a href="Number.html">Number</a>=Plur</tt></td><td></td><td><em>větších</em></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Loc|<a href="Degree.html">Degree</a>=Sup|<a href="Negative.html">Negative</a>=Pos|<a href="Number.html">Number</a>=Sing</tt></td><td></td><td><em>největším</em></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Degree.html">Degree</a>=Pos|<a href="Negative.html">Negative</a>=Neg|<a href="Number.html">Number</a>=Sing</tt></td><td></td><td><em>nevelký</em></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Degree.html">Degree</a>=Pos|<a href="Negative.html">Negative</a>=Pos|<a href="Number.html">Number</a>=Sing</tt></td><td><em>velký</em></td><td><em>velký</em></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Degree.html">Degree</a>=Pos|<a href="Negative.html">Negative</a>=Pos|<a href="Number.html">Number</a>=Plur</tt></td><td><em>velcí</em></td><td><em>velké</em></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Degree.html">Degree</a>=Cmp|<a href="Negative.html">Negative</a>=Pos|<a href="Number.html">Number</a>=Sing</tt></td><td></td><td><em>větší</em></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Degree.html">Degree</a>=Cmp|<a href="Negative.html">Negative</a>=Pos|<a href="Number.html">Number</a>=Plur</tt></td><td></td><td><em>větší</em></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Degree.html">Degree</a>=Sup|<a href="Negative.html">Negative</a>=Pos|<a href="Number.html">Number</a>=Sing</tt></td><td><em>největší</em></td><td><em>největší</em></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Degree.html">Degree</a>=Sup|<a href="Negative.html">Negative</a>=Pos|<a href="Number.html">Number</a>=Plur</tt></td><td><em>největší</em></td><td></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Degree.html">Degree</a>=Pos|<a href="Number.html">Number</a>=Sing|<a href="Polarity.html">Polarity</a>=Neg</tt></td><td></td><td><em>nevelký</em></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Degree.html">Degree</a>=Pos|<a href="Number.html">Number</a>=Sing|<a href="Polarity.html">Polarity</a>=Pos</tt></td><td><em>velkého</em></td><td><em>velký</em></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Degree.html">Degree</a>=Pos|<a href="Number.html">Number</a>=Plur|<a href="Polarity.html">Polarity</a>=Pos</tt></td><td><em>velké</em></td><td><em>velké</em></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Degree.html">Degree</a>=Cmp|<a href="Number.html">Number</a>=Sing|<a href="Polarity.html">Polarity</a>=Pos</tt></td><td></td><td><em>větší</em></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Degree.html">Degree</a>=Cmp|<a href="Number.html">Number</a>=Plur|<a href="Polarity.html">Polarity</a>=Pos</tt></td><td><em>větší</em></td><td><em>větší</em></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Degree.html">Degree</a>=Sup|<a href="Number.html">Number</a>=Sing|<a href="Polarity.html">Polarity</a>=Pos</tt></td><td></td><td><em>největší</em></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Degree.html">Degree</a>=Sup|<a href="Number.html">Number</a>=Plur|<a href="Polarity.html">Polarity</a>=Pos</tt></td><td></td><td><em>největší</em></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Dat|<a href="Degree.html">Degree</a>=Pos|<a href="Number.html">Number</a>=Sing|<a href="Polarity.html">Polarity</a>=Pos</tt></td><td></td><td><em>velkému</em></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Dat|<a href="Degree.html">Degree</a>=Pos|<a href="Number.html">Number</a>=Plur|<a href="Polarity.html">Polarity</a>=Pos</tt></td><td><em>velkým</em></td><td><em>velkým</em></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Dat|<a href="Degree.html">Degree</a>=Cmp|<a href="Number.html">Number</a>=Sing|<a href="Polarity.html">Polarity</a>=Pos</tt></td><td></td><td><em>většímu</em></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Dat|<a href="Degree.html">Degree</a>=Cmp|<a href="Number.html">Number</a>=Plur|<a href="Polarity.html">Polarity</a>=Pos</tt></td><td></td><td><em>větším</em></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Degree.html">Degree</a>=Pos|<a href="Number.html">Number</a>=Sing|<a href="Polarity.html">Polarity</a>=Pos</tt></td><td><em>velkého</em></td><td><em>velkého</em></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Degree.html">Degree</a>=Pos|<a href="Number.html">Number</a>=Plur|<a href="Polarity.html">Polarity</a>=Pos</tt></td><td><em>velkých</em></td><td><em>velkých</em></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Degree.html">Degree</a>=Cmp|<a href="Number.html">Number</a>=Sing|<a href="Polarity.html">Polarity</a>=Pos</tt></td><td></td><td><em>většího</em></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Degree.html">Degree</a>=Cmp|<a href="Number.html">Number</a>=Plur|<a href="Polarity.html">Polarity</a>=Pos</tt></td><td><em>větších</em></td><td><em>větších</em></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Degree.html">Degree</a>=Sup|<a href="Number.html">Number</a>=Sing|<a href="Polarity.html">Polarity</a>=Pos</tt></td><td><em>největšího</em></td><td><em>největšího</em></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Degree.html">Degree</a>=Sup|<a href="Number.html">Number</a>=Plur|<a href="Polarity.html">Polarity</a>=Pos</tt></td><td><em>největších</em></td><td><em>největších</em></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Ins|<a href="Degree.html">Degree</a>=Pos|<a href="Number.html">Number</a>=Sing|<a href="Polarity.html">Polarity</a>=Neg</tt></td><td></td><td><em>nevelkým</em></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Ins|<a href="Degree.html">Degree</a>=Pos|<a href="Number.html">Number</a>=Sing|<a href="Polarity.html">Polarity</a>=Pos</tt></td><td><em>velkým</em></td><td><em>velkým</em></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Ins|<a href="Degree.html">Degree</a>=Pos|<a href="Number.html">Number</a>=Plur|<a href="Polarity.html">Polarity</a>=Pos</tt></td><td><em>velkými</em></td><td><em>velkými</em></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Ins|<a href="Degree.html">Degree</a>=Cmp|<a href="Number.html">Number</a>=Sing|<a href="Polarity.html">Polarity</a>=Pos</tt></td><td></td><td><em>větším</em></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Ins|<a href="Degree.html">Degree</a>=Cmp|<a href="Number.html">Number</a>=Plur|<a href="Polarity.html">Polarity</a>=Pos</tt></td><td></td><td><em>většími</em></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Ins|<a href="Degree.html">Degree</a>=Sup|<a href="Number.html">Number</a>=Sing|<a href="Polarity.html">Polarity</a>=Pos</tt></td><td><em>největším</em></td><td><em>největším</em></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Ins|<a href="Degree.html">Degree</a>=Sup|<a href="Number.html">Number</a>=Plur|<a href="Polarity.html">Polarity</a>=Pos</tt></td><td><em>Největšími</em></td><td><em>největšími</em></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Loc|<a href="Degree.html">Degree</a>=Pos|<a href="Number.html">Number</a>=Sing|<a href="Polarity.html">Polarity</a>=Pos</tt></td><td></td><td><em>velkém</em></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Loc|<a href="Degree.html">Degree</a>=Pos|<a href="Number.html">Number</a>=Plur|<a href="Polarity.html">Polarity</a>=Pos</tt></td><td></td><td><em>velkých</em></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Loc|<a href="Degree.html">Degree</a>=Cmp|<a href="Number.html">Number</a>=Sing|<a href="Polarity.html">Polarity</a>=Pos</tt></td><td></td><td><em>větším</em></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Loc|<a href="Degree.html">Degree</a>=Cmp|<a href="Number.html">Number</a>=Plur|<a href="Polarity.html">Polarity</a>=Pos</tt></td><td></td><td><em>větších</em></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Loc|<a href="Degree.html">Degree</a>=Sup|<a href="Number.html">Number</a>=Sing|<a href="Polarity.html">Polarity</a>=Pos</tt></td><td></td><td><em>největším</em></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Degree.html">Degree</a>=Pos|<a href="Number.html">Number</a>=Sing|<a href="Polarity.html">Polarity</a>=Neg</tt></td><td></td><td><em>nevelký</em></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Degree.html">Degree</a>=Pos|<a href="Number.html">Number</a>=Sing|<a href="Polarity.html">Polarity</a>=Pos</tt></td><td><em>velký</em></td><td><em>velký</em></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Degree.html">Degree</a>=Pos|<a href="Number.html">Number</a>=Plur|<a href="Polarity.html">Polarity</a>=Pos</tt></td><td><em>velcí</em></td><td><em>velké</em></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Degree.html">Degree</a>=Cmp|<a href="Number.html">Number</a>=Sing|<a href="Polarity.html">Polarity</a>=Pos</tt></td><td></td><td><em>větší</em></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Degree.html">Degree</a>=Cmp|<a href="Number.html">Number</a>=Plur|<a href="Polarity.html">Polarity</a>=Pos</tt></td><td></td><td><em>větší</em></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Degree.html">Degree</a>=Sup|<a href="Number.html">Number</a>=Sing|<a href="Polarity.html">Polarity</a>=Pos</tt></td><td><em>největší</em></td><td><em>největší</em></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Degree.html">Degree</a>=Sup|<a href="Number.html">Number</a>=Plur|<a href="Polarity.html">Polarity</a>=Pos</tt></td><td><em>největší</em></td><td></td></tr>
 </table>
 
 ### `PROPN`
 
-5431 [cs-pos/PROPN]() tokens (55% of all `PROPN` tokens) have a non-empty value of `Animacy`.
+5351 [cs-pos/PROPN]() tokens (55% of all `PROPN` tokens) have a non-empty value of `Animacy`.
 
-The most frequent other feature values with which `PROPN` and `Animacy` co-occurred: <tt><a href="Gender.html">Gender</a>=Masc</tt> (5431; 100%), <tt><a href="Negative.html">Negative</a>=Pos</tt> (5431; 100%), <tt><a href="Abbr.html">Abbr</a>=EMPTY</tt> (4824; 89%), <tt><a href="Number.html">Number</a>=Sing</tt> (4463; 82%), <tt><a href="Case.html">Case</a>=Nom</tt> (2718; 50%).
+The most frequent other feature values with which `PROPN` and `Animacy` co-occurred: <tt><a href="Gender.html">Gender</a>=Masc</tt> (5351; 100%), <tt><a href="Polarity.html">Polarity</a>=Pos</tt> (5351; 100%), <tt><a href="Abbr.html">Abbr</a>=EMPTY</tt> (4747; 89%), <tt><a href="Number.html">Number</a>=Sing</tt> (4386; 82%).
 
 `PROPN` tokens may have the following values of `Animacy`:
 
-* `Anim` (3614; 67% of non-empty `Animacy`): <em>Fučík, Erben, Karel, Horálek, Němec, Julius, Václav, Lenin, Karla, Jaroslav</em>
-* `Inan` (1817; 33% of non-empty `Animacy`): <em>SSSR, ÚJČ, TIBA, OV, USA, VÚM, KNV, Vietnamu, Hradci, Klatovech</em>
-* `EMPTY` (4383): <em>KSČ, Praze, ROH, Praha, ČSAV, ČSSR, SSM, Škoda, Prahy, ČSR</em>
+* `Anim` (3564; 67% of non-empty `Animacy`): <em>Fučík, Erben, Karel, Horálek, Němec, Julius, Václav, Lenin, Karla, Jaroslav</em>
+* `Inan` (1787; 33% of non-empty `Animacy`): <em>SSSR, ÚJČ, TIBA, OV, USA, VÚM, KNV, Vietnamu, Hradci, Klatovech</em>
+* `EMPTY` (4325): <em>KSČ, Praze, ROH, ČSAV, ČSSR, Praha, SSM, Škoda, Prahy, ČSR</em>
 
 <table>
   <tr><th>Paradigm <i>Martin</i></th><th><tt>Anim</tt></th><th><tt>Inan</tt></th></tr>
@@ -322,96 +321,97 @@ The most frequent other feature values with which `PROPN` and `Animacy` co-occur
   <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="NameType.html">NameType</a>=Sur|<a href="Number.html">Number</a>=Sing</tt></td><td><em>Martin</em></td><td></td></tr>
 </table>
 
-`Animacy` seems to be **lexical feature** of `PROPN`. 99% lemmas (2266) occur only with one value of `Animacy`.
+`Animacy` seems to be **lexical feature** of `PROPN`. 99% lemmas (2241) occur only with one value of `Animacy`.
 
 ### `VERB`
 
-4740 [cs-pos/VERB]() tokens (9% of all `VERB` tokens) have a non-empty value of `Animacy`.
+3195 [cs-pos/VERB]() tokens (8% of all `VERB` tokens) have a non-empty value of `Animacy`.
 
-The most frequent other feature values with which `VERB` and `Animacy` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (4740; 100%), <tt><a href="Number.html">Number</a>=Plur</tt> (4740; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (4740; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (4740; 100%), <tt><a href="Negative.html">Negative</a>=Pos</tt> (4494; 95%), <tt><a href="Voice.html">Voice</a>=Act</tt> (3481; 73%), <tt><a href="Tense.html">Tense</a>=Past</tt> (3481; 73%), <tt><a href="Gender.html">Gender</a>=Fem,Masc</tt> (2450; 52%).
+The most frequent other feature values with which `VERB` and `Animacy` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (3195; 100%), <tt><a href="Tense.html">Tense</a>=Past</tt> (3195; 100%), <tt><a href="Voice.html">Voice</a>=Act</tt> (3195; 100%), <tt><a href="Number.html">Number</a>=Plur</tt> (3195; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (3195; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (3195; 100%), <tt><a href="Polarity.html">Polarity</a>=Pos</tt> (2981; 93%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (2038; 64%).
 
 `VERB` tokens may have the following values of `Animacy`:
 
-* `Anim` (2290; 48% of non-empty `Animacy`): <em>byli, mohli, měli, začali, dali, chtěli, dosáhli, viděli, pracovali, přišli</em>
-* `Inan` (2450; 52% of non-empty `Animacy`): <em>byly, měly, mohly, uvedeny, určeny, splněny, staly, vznikly, začaly, nebyly</em>
-* `EMPTY` (48203): <em>je, jsou, má, není, být, mají, musí, může, bylo, byl</em>
+* `Anim` (2038; 64% of non-empty `Animacy`): <em>mohli, měli, byli, začali, dali, chtěli, dosáhli, viděli, pracovali, postavili</em>
+* `Inan` (1157; 36% of non-empty `Animacy`): <em>měly, mohly, byly, staly, vznikly, začaly, vytvořily, vedly, neměly, ukázaly</em>
+* `EMPTY` (36355): <em>je, má, mají, musí, může, jde, lze, jsou, mohou, můžeme</em>
 
 <table>
-  <tr><th>Paradigm <i>být</i></th><th><tt>Anim</tt></th><th><tt>Inan</tt></th></tr>
-  <tr><td><tt><a href="Gender.html">Gender</a>=Masc|<a href="Negative.html">Negative</a>=Neg</tt></td><td><em>nebyli</em></td><td></td></tr>
-  <tr><td><tt><a href="Gender.html">Gender</a>=Masc|<a href="Negative.html">Negative</a>=Pos</tt></td><td><em>byli</em></td><td></td></tr>
-  <tr><td><tt><a href="Gender.html">Gender</a>=Fem,Masc|<a href="Negative.html">Negative</a>=Neg</tt></td><td></td><td><em>nebyly</em></td></tr>
-  <tr><td><tt><a href="Gender.html">Gender</a>=Fem,Masc|<a href="Negative.html">Negative</a>=Pos</tt></td><td></td><td><em>byly</em></td></tr>
-</table>
-
-### `PRON`
-
-2039 [cs-pos/PRON]() tokens (8% of all `PRON` tokens) have a non-empty value of `Animacy`.
-
-The most frequent other feature values with which `PRON` and `Animacy` co-occurred: <tt><a href="Reflex.html">Reflex</a>=EMPTY</tt> (2039; 100%), <tt><a href="Variant.html">Variant</a>=EMPTY</tt> (2039; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (2013; 99%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (1637; 80%), <tt><a href="Case.html">Case</a>=Nom</tt> (1508; 74%), <tt><a href="PronType.html">PronType</a>=Int,Rel</tt> (1456; 71%), <tt><a href="Number.html">Number</a>=Plur</tt> (1206; 59%).
-
-`PRON` tokens may have the following values of `Animacy`:
-
-* `Anim` (876; 43% of non-empty `Animacy`): <em>kteří, všichni, kdo, sami, někdo, ti, nikdo, někteří, oni, někomu</em>
-* `Inan` (1163; 57% of non-empty `Animacy`): <em>které, co, který, všechny, čím, čem, ty, některé, jaký, čeho</em>
-* `EMPTY` (22350): <em>se, to, si, které, která, který, tím, všech, je, nás</em>
-
-<table>
-  <tr><th>Paradigm <i>ten</i></th><th><tt>Anim</tt></th><th><tt>Inan</tt></th></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Number.html">Number</a>=Sing</tt></td><td></td><td><em>ten</em></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Number.html">Number</a>=Plur</tt></td><td><em>ty</em></td><td><em>ty</em></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Number.html">Number</a>=Plur</tt></td><td><em>ti</em></td><td><em>ty</em></td></tr>
+  <tr><th>Paradigm <i>mít</i></th><th><tt>Anim</tt></th><th><tt>Inan</tt></th></tr>
+  <tr><td><tt><a href="Gender.html">Gender</a>=Masc|<a href="Polarity.html">Polarity</a>=Neg</tt></td><td><em>neměli</em></td><td></td></tr>
+  <tr><td><tt><a href="Gender.html">Gender</a>=Masc|<a href="Polarity.html">Polarity</a>=Pos</tt></td><td><em>měli</em></td><td></td></tr>
+  <tr><td><tt><a href="Gender.html">Gender</a>=Fem,Masc|<a href="Polarity.html">Polarity</a>=Neg</tt></td><td></td><td><em>neměly</em></td></tr>
+  <tr><td><tt><a href="Gender.html">Gender</a>=Fem,Masc|<a href="Polarity.html">Polarity</a>=Pos</tt></td><td></td><td><em>měly</em></td></tr>
 </table>
 
 ### `DET`
 
-895 [cs-pos/DET]() tokens (8% of all `DET` tokens) have a non-empty value of `Animacy`.
+2015 [cs-pos/DET]() tokens (11% of all `DET` tokens) have a non-empty value of `Animacy`.
 
-The most frequent other feature values with which `DET` and `Animacy` co-occurred: <tt><a href="Gender.html">Gender</a>=Masc</tt> (895; 100%), <tt><a href="Gender[psor].html">Gender[psor]</a>=EMPTY</tt> (861; 96%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (767; 86%), <tt><a href="Number[psor].html">Number[psor]</a>=EMPTY</tt> (767; 86%), <tt><a href="Reflex.html">Reflex</a>=EMPTY</tt> (766; 86%), <tt><a href="Poss.html">Poss</a>=EMPTY</tt> (638; 71%), <tt><a href="Case.html">Case</a>=Acc</tt> (547; 61%), <tt><a href="PronType.html">PronType</a>=Dem</tt> (469; 52%), <tt><a href="Number.html">Number</a>=Plur</tt> (460; 51%).
+The most frequent other feature values with which `DET` and `Animacy` co-occurred: <tt><a href="Gender.html">Gender</a>=Masc</tt> (2015; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (1883; 93%), <tt><a href="Number[psor].html">Number[psor]</a>=EMPTY</tt> (1883; 93%), <tt><a href="Poss.html">Poss</a>=EMPTY</tt> (1758; 87%), <tt><a href="Number.html">Number</a>=Plur</tt> (1424; 71%), <tt><a href="Case.html">Case</a>=Nom</tt> (1288; 64%).
 
 `DET` tokens may have the following values of `Animacy`:
 
-* `Anim` (159; 18% of non-empty `Animacy`): <em>naši, někteří, svého, tito, ti, ty, takoví, tihle, tohoto, toho</em>
-* `Inan` (736; 82% of non-empty `Animacy`): <em>tyto, tento, svůj, některé, ty, její, takové, náš, takový, naše</em>
-* `EMPTY` (10193): <em>jejich, jeho, této, své, těchto, tohoto, její, tato, naší, tomto</em>
+* `Anim` (646; 32% of non-empty `Animacy`): <em>kteří, sami, ti, někteří, naši, svého, ty, tito, takoví, kterého</em>
+* `Inan` (1369; 68% of non-empty `Animacy`): <em>které, tyto, který, tento, svůj, některé, ty, její, takové, jaký</em>
+* `EMPTY` (17026): <em>to, které, jejich, jeho, která, který, tím, této, své, těchto</em>
 
 <table>
-  <tr><th>Paradigm <i>tento</i></th><th><tt>Anim</tt></th><th><tt>Inan</tt></th></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Number.html">Number</a>=Sing</tt></td><td><em>tohoto</em></td><td><em>tento</em></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Number.html">Number</a>=Plur</tt></td><td><em>tyto</em></td><td><em>tyto</em></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Number.html">Number</a>=Plur</tt></td><td><em>tito</em></td><td><em>tyto</em></td></tr>
+  <tr><th>Paradigm <i>ten</i></th><th><tt>Anim</tt></th><th><tt>Inan</tt></th></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Number.html">Number</a>=Sing</tt></td><td><em>toho</em></td><td><em>ten</em></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Number.html">Number</a>=Plur</tt></td><td><em>ty</em></td><td><em>ty</em></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Number.html">Number</a>=Plur</tt></td><td><em>ti</em></td><td><em>ty</em></td></tr>
 </table>
+
+### `PRON`
+
+841 [cs-pos/PRON]() tokens (5% of all `PRON` tokens) have a non-empty value of `Animacy`.
+
+The most frequent other feature values with which `PRON` and `Animacy` co-occurred: <tt><a href="Reflex.html">Reflex</a>=EMPTY</tt> (841; 100%), <tt><a href="Variant.html">Variant</a>=EMPTY</tt> (841; 100%), <tt><a href="PrepCase.html">PrepCase</a>=EMPTY</tt> (834; 99%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (823; 98%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (632; 75%), <tt><a href="Case.html">Case</a>=Nom</tt> (517; 61%), <tt><a href="PronType.html">PronType</a>=Int,Rel</tt> (494; 59%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (453; 54%).
+
+`PRON` tokens may have the following values of `Animacy`:
+
+* `Anim` (365; 43% of non-empty `Animacy`): <em>všichni, kdo, někdo, nikdo, oni, někomu, nikoho, jehož, kdož, koho</em>
+* `Inan` (476; 57% of non-empty `Animacy`): <em>co, všechny, čím, čem, čeho, copak, veškeré, čemu, samý, veškerý</em>
+* `EMPTY` (14839): <em>se, si, všech, je, nás, nám, všechny, jež, nich, nichž</em>
+
+<table>
+  <tr><th>Paradigm <i>všechno</i></th><th><tt>Anim</tt></th><th><tt>Inan</tt></th></tr>
+  <tr><td><tt></tt></td><td><em>všichni</em></td><td><em>všechny</em></td></tr>
+</table>
+
+`Animacy` seems to be **lexical feature** of `PRON`. 94% lemmas (17) occur only with one value of `Animacy`.
 
 ### `AUX`
 
-336 [cs-pos/AUX]() tokens (5% of all `AUX` tokens) have a non-empty value of `Animacy`.
+548 [cs-pos/AUX]() tokens (4% of all `AUX` tokens) have a non-empty value of `Animacy`.
 
-The most frequent other feature values with which `AUX` and `Animacy` co-occurred: <tt><a href="Number.html">Number</a>=Plur</tt> (336; 100%), <tt><a href="Tense.html">Tense</a>=Past</tt> (336; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (336; 100%), <tt><a href="Voice.html">Voice</a>=Act</tt> (336; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (336; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (336; 100%), <tt><a href="Negative.html">Negative</a>=Pos</tt> (315; 94%), <tt><a href="Gender.html">Gender</a>=Fem,Masc</tt> (304; 90%).
+The most frequent other feature values with which `AUX` and `Animacy` co-occurred: <tt><a href="Tense.html">Tense</a>=Past</tt> (548; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (548; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (548; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (548; 100%), <tt><a href="Number.html">Number</a>=Plur</tt> (548; 100%), <tt><a href="Voice.html">Voice</a>=Act</tt> (548; 100%), <tt><a href="Polarity.html">Polarity</a>=Pos</tt> (511; 93%), <tt><a href="Gender.html">Gender</a>=Fem,Masc</tt> (456; 83%).
 
 `AUX` tokens may have the following values of `Animacy`:
 
-* `Anim` (32; 10% of non-empty `Animacy`): <em>byli</em>
-* `Inan` (304; 90% of non-empty `Animacy`): <em>byly, nebyly</em>
-* `EMPTY` (5821): <em>by, je, jsme, bude, jsem, bylo, byla, byl, jsou, být</em>
+* `Anim` (92; 17% of non-empty `Animacy`): <em>byli, nebyli</em>
+* `Inan` (456; 83% of non-empty `Animacy`): <em>byly, nebyly, bývaly, mohly</em>
+* `EMPTY` (13394): <em>je, by, jsou, bude, byl, bylo, být, byla, jsme, není</em>
 
 <table>
   <tr><th>Paradigm <i>být</i></th><th><tt>Anim</tt></th><th><tt>Inan</tt></th></tr>
-  <tr><td><tt><a href="Gender.html">Gender</a>=Masc|<a href="Negative.html">Negative</a>=Pos</tt></td><td><em>byli</em></td><td></td></tr>
-  <tr><td><tt><a href="Gender.html">Gender</a>=Fem,Masc|<a href="Negative.html">Negative</a>=Neg</tt></td><td></td><td><em>nebyly</em></td></tr>
-  <tr><td><tt><a href="Gender.html">Gender</a>=Fem,Masc|<a href="Negative.html">Negative</a>=Pos</tt></td><td></td><td><em>byly</em></td></tr>
+  <tr><td><tt><a href="Gender.html">Gender</a>=Masc|<a href="Polarity.html">Polarity</a>=Neg</tt></td><td><em>nebyli</em></td><td></td></tr>
+  <tr><td><tt><a href="Gender.html">Gender</a>=Masc|<a href="Polarity.html">Polarity</a>=Pos</tt></td><td><em>byli</em></td><td></td></tr>
+  <tr><td><tt><a href="Gender.html">Gender</a>=Fem,Masc|<a href="Polarity.html">Polarity</a>=Neg</tt></td><td></td><td><em>nebyly</em></td></tr>
+  <tr><td><tt><a href="Gender.html">Gender</a>=Fem,Masc|<a href="Polarity.html">Polarity</a>=Pos</tt></td><td></td><td><em>byly</em></td></tr>
 </table>
 
 ### `NUM`
 
-100 [cs-pos/NUM]() tokens (1% of all `NUM` tokens) have a non-empty value of `Animacy`.
+98 [cs-pos/NUM]() tokens (1% of all `NUM` tokens) have a non-empty value of `Animacy`.
 
-The most frequent other feature values with which `NUM` and `Animacy` co-occurred: <tt><a href="Gender.html">Gender</a>=Masc</tt> (100; 100%), <tt><a href="NumType.html">NumType</a>=Card</tt> (100; 100%), <tt><a href="NumForm.html">NumForm</a>=Word</tt> (100; 100%), <tt><a href="NumValue.html">NumValue</a>=1,2,3</tt> (100; 100%), <tt><a href="Case.html">Case</a>=Acc</tt> (100; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (100; 100%).
+The most frequent other feature values with which `NUM` and `Animacy` co-occurred: <tt><a href="Case.html">Case</a>=Acc</tt> (98; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (98; 100%), <tt><a href="NumType.html">NumType</a>=Card</tt> (98; 100%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (98; 100%), <tt><a href="NumForm.html">NumForm</a>=Word</tt> (98; 100%), <tt><a href="NumValue.html">NumValue</a>=1,2,3</tt> (98; 100%).
 
 `NUM` tokens may have the following values of `Animacy`:
 
-* `Anim` (12; 12% of non-empty `Animacy`): <em>jednoho</em>
-* `Inan` (88; 88% of non-empty `Animacy`): <em>jeden</em>
-* `EMPTY` (7207): <em>#, dvou, dvě, tři, dva, obou, jedné, jeden, jednoho, jedním</em>
+* `Anim` (11; 11% of non-empty `Animacy`): <em>jednoho</em>
+* `Inan` (87; 89% of non-empty `Animacy`): <em>jeden</em>
+* `EMPTY` (7106): <em>#, dvou, dvě, tři, dva, obou, jedné, jeden, jednoho, jedním</em>
 
 <table>
   <tr><th>Paradigm <i>jeden</i></th><th><tt>Anim</tt></th><th><tt>Inan</tt></th></tr>
@@ -421,16 +421,16 @@ The most frequent other feature values with which `NUM` and `Animacy` co-occurre
 ## Relations with Agreement in `Animacy`
 
 The 10 most frequent relations where parent and child node agree in `Animacy`:
-<tt>NOUN --[<a href="../dep/amod.html">amod</a>]--> ADJ</tt> (23994; 98%),
-<tt>ADJ --[<a href="../dep/conj.html">conj</a>]--> ADJ</tt> (1297; 94%),
-<tt>PROPN --[<a href="../dep/name.html">name</a>]--> PROPN</tt> (707; 99%),
-<tt>PROPN --[<a href="../dep/nmod.html">nmod</a>]--> NOUN</tt> (628; 84%),
-<tt>ADJ --[<a href="../dep/nsubj.html">nsubj</a>]--> NOUN</tt> (579; 86%),
-<tt>PROPN --[<a href="../dep/conj.html">conj</a>]--> PROPN</tt> (551; 58%),
-<tt>PROPN --[<a href="../dep/amod.html">amod</a>]--> ADJ</tt> (218; 74%),
+<tt>NOUN --[<a href="../dep/amod.html">amod</a>]--> ADJ</tt> (23513; 97%),
+<tt>ADJ --[<a href="../dep/conj.html">conj</a>]--> ADJ</tt> (1333; 89%),
+<tt>ADJ --[<a href="../dep/nsubj.html">nsubj</a>]--> NOUN</tt> (702; 61%),
+<tt>PROPN --[<a href="../dep/flat.html">flat</a>]--> PROPN</tt> (701; 99%),
+<tt>PROPN --[<a href="../dep/nmod.html">nmod</a>]--> NOUN</tt> (623; 85%),
+<tt>PROPN --[<a href="../dep/conj.html">conj</a>]--> PROPN</tt> (530; 61%),
+<tt>PROPN --[<a href="../dep/amod.html">amod</a>]--> ADJ</tt> (216; 72%),
 <tt>PROPN --[<a href="../dep/appos.html">appos</a>]--> NOUN</tt> (102; 81%),
-<tt>ADJ --[<a href="../dep/appos.html">appos</a>]--> ADJ</tt> (51; 91%),
-<tt>NOUN --[<a href="../dep/nsubj.html">nsubj</a>]--> PROPN</tt> (48; 55%).
+<tt>ADJ --[<a href="../dep/appos.html">appos</a>]--> ADJ</tt> (52; 91%),
+<tt>ADJ --[<a href="../dep/nsubj.html">nsubj</a>]--> DET</tt> (51; 52%).
 
 
 
@@ -441,22 +441,22 @@ The 10 most frequent relations where parent and child node agree in `Animacy`:
 This feature is universal.
 It occurs with 2 different values: `Anim`, `Inan`.
 
-7439 tokens (21%) have a non-empty value of `Animacy`.
-1595 types (34%) occur at least once with a non-empty value of `Animacy`.
-746 lemmas (28%) occur at least once with a non-empty value of `Animacy`.
-The feature is used with 7 part-of-speech tags: [cs-pos/NOUN]() (4548; 13% instances), [cs-pos/ADJ]() (2622; 7% instances), [cs-pos/VERB]() (145; 0% instances), [cs-pos/PRON]() (57; 0% instances), [cs-pos/DET]() (30; 0% instances), [cs-pos/AUX]() (25; 0% instances), [cs-pos/NUM]() (12; 0% instances).
+5230 tokens (20%) have a non-empty value of `Animacy`.
+1310 types (35%) occur at least once with a non-empty value of `Animacy`.
+637 lemmas (28%) occur at least once with a non-empty value of `Animacy`.
+The feature is used with 7 part-of-speech tags: [cs-pos/NOUN]() (3218; 12% instances), [cs-pos/ADJ]() (1813; 7% instances), [cs-pos/VERB]() (109; 0% instances), [cs-pos/PRON]() (43; 0% instances), [cs-pos/AUX]() (19; 0% instances), [cs-pos/DET]() (16; 0% instances), [cs-pos/NUM]() (12; 0% instances).
 
 ### `NOUN`
 
-4548 [cs-pos/NOUN]() tokens (40% of all `NOUN` tokens) have a non-empty value of `Animacy`.
+3218 [cs-pos/NOUN]() tokens (39% of all `NOUN` tokens) have a non-empty value of `Animacy`.
 
-The most frequent other feature values with which `NOUN` and `Animacy` co-occurred: <tt><a href="Gender.html">Gender</a>=Masc</tt> (4548; 100%), <tt><a href="Negative.html">Negative</a>=Pos</tt> (4548; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (2989; 66%).
+The most frequent other feature values with which `NOUN` and `Animacy` co-occurred: <tt><a href="Gender.html">Gender</a>=Masc</tt> (3218; 100%), <tt><a href="Polarity.html">Polarity</a>=Pos</tt> (3218; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (2025; 63%).
 
 `NOUN` tokens may have the following values of `Animacy`:
 
-* `Anim` (199; 4% of non-empty `Animacy`): <em>auditorem, členům, společník, společníka, zaměstnanců, účastníky, společníkům, emitentem, společníkem, společníky</em>
-* `Inan` (4349; 96% of non-empty `Animacy`): <em>majetku, dni, závazků, odstavce, dne, majetek, případě, náklady, závazky, zisku</em>
-* `EMPTY` (6755): <em>jednotky, jednotka, období, ocenění, účetnictví, položka, závěrky, ustanovení, jednotek, společnosti</em>
+* `Anim` (153; 5% of non-empty `Animacy`): <em>členům, společník, společníka, účastníky, společníkům, auditorem, společníkem, společníky, zaměstnanců, členy</em>
+* `Inan` (3065; 95% of non-empty `Animacy`): <em>majetku, dni, dne, závazků, nákladů, náklady, závazky, zisku, majetek, případě</em>
+* `EMPTY` (4978): <em>jednotky, jednotka, období, položka, ocenění, účetnictví, závěrky, společnosti, jednotek, ustanovení</em>
 
 <table>
   <tr><th>Paradigm <i>člen</i></th><th><tt>Anim</tt></th><th><tt>Inan</tt></th></tr>
@@ -467,108 +467,102 @@ The most frequent other feature values with which `NOUN` and `Animacy` co-occurr
   <tr><td><tt><a href="Case.html">Case</a>=Ins|<a href="Number.html">Number</a>=Plur</tt></td><td><em>členy</em></td><td></td></tr>
 </table>
 
-`Animacy` seems to be **lexical feature** of `NOUN`. 100% lemmas (298) occur only with one value of `Animacy`.
+`Animacy` seems to be **lexical feature** of `NOUN`. 100% lemmas (260) occur only with one value of `Animacy`.
 
 ### `ADJ`
 
-2622 [cs-pos/ADJ]() tokens (40% of all `ADJ` tokens) have a non-empty value of `Animacy`.
+1813 [cs-pos/ADJ]() tokens (39% of all `ADJ` tokens) have a non-empty value of `Animacy`.
 
-The most frequent other feature values with which `ADJ` and `Animacy` co-occurred: <tt><a href="Gender.html">Gender</a>=Masc</tt> (2564; 98%), <tt><a href="Negative.html">Negative</a>=Pos</tt> (2528; 96%), <tt><a href="Degree.html">Degree</a>=Pos</tt> (2402; 92%), <tt><a href="Number.html">Number</a>=Sing</tt> (1516; 58%).
+The most frequent other feature values with which `ADJ` and `Animacy` co-occurred: <tt><a href="Gender.html">Gender</a>=Masc</tt> (1772; 98%), <tt><a href="Polarity.html">Polarity</a>=Pos</tt> (1742; 96%), <tt><a href="Degree.html">Degree</a>=Pos</tt> (1640; 90%), <tt><a href="Number.html">Number</a>=Sing</tt> (1008; 56%).
 
 `ADJ` tokens may have the following values of `Animacy`:
 
-* `Anim` (103; 4% of non-empty `Animacy`): <em>přejímající, následujícímu, předcházejícímu, řídících, konsolidující, prvním, přejímajícího, přejímajícím, vysvětlujících, držených</em>
-* `Inan` (2519; 96% of non-empty `Animacy`): <em>účetní, účetních, povinny, účetního, obchodního, právních, peněžních, právní, zvláštního, právního</em>
-* `EMPTY` (3917): <em>účetní, účetních, účetního, konsolidované, konsolidující, výroční, finanční, reálnou, účetním, pořizovací</em>
+* `Anim` (87; 5% of non-empty `Animacy`): <em>přejímající, následujícímu, předcházejícímu, řídících, prvním, přejímajícího, konsolidující, přejímajícím, držených, ostatní</em>
+* `Inan` (1726; 95% of non-empty `Animacy`): <em>účetních, účetní, povinny, obchodního, peněžních, dlouhodobého, dlouhodobý, hmotného, cenných, cenné</em>
+* `EMPTY` (2842): <em>účetní, účetních, účetního, konsolidované, konsolidující, účetním, finanční, reálnou, pořizovací, účtové</em>
 
 <table>
-  <tr><th>Paradigm <i>právní</i></th><th><tt>Anim</tt></th><th><tt>Inan</tt></th></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Number.html">Number</a>=Sing</tt></td><td><em>právního</em></td><td><em>právní</em></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Number.html">Number</a>=Plur</tt></td><td></td><td><em>právní</em></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Dat|<a href="Number.html">Number</a>=Sing</tt></td><td></td><td><em>právnímu</em></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Dat|<a href="Number.html">Number</a>=Plur</tt></td><td></td><td><em>právním</em></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Number.html">Number</a>=Sing</tt></td><td></td><td><em>právního</em></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Number.html">Number</a>=Plur</tt></td><td></td><td><em>právních</em></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Ins|<a href="Number.html">Number</a>=Sing</tt></td><td></td><td><em>právním</em></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Ins|<a href="Number.html">Number</a>=Plur</tt></td><td></td><td><em>právními</em></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Loc|<a href="Number.html">Number</a>=Plur</tt></td><td></td><td><em>právních</em></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Number.html">Number</a>=Sing</tt></td><td></td><td><em>právní</em></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Number.html">Number</a>=Plur</tt></td><td></td><td><em>právní</em></td></tr>
+  <tr><th>Paradigm <i>dlouhodobý</i></th><th><tt>Anim</tt></th><th><tt>Inan</tt></th></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Number.html">Number</a>=Sing</tt></td><td></td><td><em>dlouhodobý</em></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Number.html">Number</a>=Plur</tt></td><td></td><td><em>dlouhodobé</em></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Dat|<a href="Number.html">Number</a>=Sing</tt></td><td></td><td><em>dlouhodobému</em></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Dat|<a href="Number.html">Number</a>=Plur</tt></td><td><em>Dlouhodobým</em></td><td></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Number.html">Number</a>=Sing</tt></td><td></td><td><em>dlouhodobého</em></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Number.html">Number</a>=Plur</tt></td><td></td><td><em>dlouhodobých</em></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Ins|<a href="Number.html">Number</a>=Sing</tt></td><td></td><td><em>dlouhodobým</em></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Number.html">Number</a>=Sing</tt></td><td></td><td><em>dlouhodobý</em></td></tr>
+  <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Number.html">Number</a>=Plur</tt></td><td></td><td><em>dlouhodobé</em></td></tr>
 </table>
 
-`Animacy` seems to be **lexical feature** of `ADJ`. 91% lemmas (334) occur only with one value of `Animacy`.
+`Animacy` seems to be **lexical feature** of `ADJ`. 92% lemmas (290) occur only with one value of `Animacy`.
 
 ### `VERB`
 
-145 [cs-pos/VERB]() tokens (6% of all `VERB` tokens) have a non-empty value of `Animacy`.
+109 [cs-pos/VERB]() tokens (8% of all `VERB` tokens) have a non-empty value of `Animacy`.
 
-The most frequent other feature values with which `VERB` and `Animacy` co-occurred: <tt><a href="Person.html">Person</a>=EMPTY</tt> (145; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (145; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (145; 100%), <tt><a href="Number.html">Number</a>=Plur</tt> (145; 100%), <tt><a href="Gender.html">Gender</a>=Fem,Masc</tt> (143; 99%), <tt><a href="Negative.html">Negative</a>=Pos</tt> (140; 97%), <tt><a href="Voice.html">Voice</a>=Pass</tt> (107; 74%), <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (107; 74%).
+The most frequent other feature values with which `VERB` and `Animacy` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (109; 100%), <tt><a href="Number.html">Number</a>=Plur</tt> (109; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (109; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (109; 100%), <tt><a href="Gender.html">Gender</a>=Fem,Masc</tt> (107; 98%), <tt><a href="Polarity.html">Polarity</a>=Pos</tt> (106; 97%), <tt><a href="Voice.html">Voice</a>=Pass</tt> (81; 74%), <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (81; 74%).
 
 `VERB` tokens may have the following values of `Animacy`:
 
-* `Anim` (2; 1% of non-empty `Animacy`): <em>nepožádali, schválili</em>
-* `Inan` (143; 99% of non-empty `Animacy`): <em>zahrnuty, obchodovány, přestaly, uvedeny, vykázány, účtovány, nastaly, staly, uzavřeny, vyjádřeny</em>
-* `EMPTY` (2372): <em>je, jsou, obsahuje, rozumí, může, uvede, mohou, není, nejsou, použijí</em>
+* `Anim` (2; 2% of non-empty `Animacy`): <em>nepožádali, schválili</em>
+* `Inan` (107; 98% of non-empty `Animacy`): <em>zahrnuty, obchodovány, přestaly, uvedeny, vykázány, účtovány, staly, uzavřeny, vyjádřeny, zaúčtovány</em>
+* `EMPTY` (1319): <em>obsahuje, uvede, rozumí, může, vést, účtuje, použijí, mohou, má, sestavují</em>
 
-<table>
-  <tr><th>Paradigm <i>schválit</i></th><th><tt>Anim</tt></th><th><tt>Inan</tt></th></tr>
-  <tr><td><tt><a href="Gender.html">Gender</a>=Masc|<a href="Tense.html">Tense</a>=Past|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>schválili</em></td><td></td></tr>
-  <tr><td><tt><a href="Gender.html">Gender</a>=Fem,Masc|<a href="Voice.html">Voice</a>=Pass</tt></td><td></td><td><em>schváleny</em></td></tr>
-</table>
-
-`Animacy` seems to be **lexical feature** of `VERB`. 99% lemmas (69) occur only with one value of `Animacy`.
+`Animacy` seems to be **lexical feature** of `VERB`. 100% lemmas (53) occur only with one value of `Animacy`.
 
 ### `PRON`
 
-57 [cs-pos/PRON]() tokens (5% of all `PRON` tokens) have a non-empty value of `Animacy`.
+43 [cs-pos/PRON]() tokens (5% of all `PRON` tokens) have a non-empty value of `Animacy`.
 
-The most frequent other feature values with which `PRON` and `Animacy` co-occurred: <tt><a href="Gender.html">Gender</a>=Masc</tt> (57; 100%), <tt><a href="Variant.html">Variant</a>=EMPTY</tt> (57; 100%), <tt><a href="Reflex.html">Reflex</a>=EMPTY</tt> (57; 100%), <tt><a href="PronType.html">PronType</a>=Int,Rel</tt> (52; 91%), <tt><a href="Number.html">Number</a>=Plur</tt> (50; 88%), <tt><a href="Case.html">Case</a>=Nom</tt> (48; 84%).
+The most frequent other feature values with which `PRON` and `Animacy` co-occurred: <tt><a href="Variant.html">Variant</a>=EMPTY</tt> (43; 100%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (43; 100%), <tt><a href="Reflex.html">Reflex</a>=EMPTY</tt> (43; 100%), <tt><a href="PronType.html">PronType</a>=Int,Rel</tt> (40; 93%), <tt><a href="Number.html">Number</a>=Plur</tt> (37; 86%), <tt><a href="Case.html">Case</a>=Nom</tt> (36; 84%).
 
 `PRON` tokens may have the following values of `Animacy`:
 
-* `Anim` (2; 4% of non-empty `Animacy`): <em>ty</em>
-* `Inan` (55; 96% of non-empty `Animacy`): <em>které, který, veškeré, všechny</em>
-* `EMPTY` (1155): <em>se, které, která, to, který, kterých, kterým, kterém, kterému, nichž</em>
-
-### `DET`
-
-30 [cs-pos/DET]() tokens (5% of all `DET` tokens) have a non-empty value of `Animacy`.
-
-The most frequent other feature values with which `DET` and `Animacy` co-occurred: <tt><a href="Gender.html">Gender</a>=Masc</tt> (30; 100%), <tt><a href="Number[psor].html">Number[psor]</a>=EMPTY</tt> (28; 93%), <tt><a href="Gender[psor].html">Gender[psor]</a>=EMPTY</tt> (28; 93%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (28; 93%), <tt><a href="Poss.html">Poss</a>=EMPTY</tt> (25; 83%), <tt><a href="PronType.html">PronType</a>=Dem</tt> (24; 80%), <tt><a href="Case.html">Case</a>=Acc</tt> (20; 67%), <tt><a href="Number.html">Number</a>=Plur</tt> (16; 53%).
-
-`DET` tokens may have the following values of `Animacy`:
-
-* `Inan` (30; 100% of non-empty `Animacy`): <em>tyto, tento, svůj, takový, její, takové, některé, takovýto</em>
-* `EMPTY` (565): <em>jejich, jeho, této, tohoto, těchto, tato, tyto, tento, tomto, její</em>
+* `Anim` (1; 2% of non-empty `Animacy`): <em>ty</em>
+* `Inan` (42; 98% of non-empty `Animacy`): <em>které, který, veškeré, všechny</em>
+* `EMPTY` (769): <em>se, které, která, to, který, kterých, kterým, kterém, nichž, všech</em>
 
 ### `AUX`
 
-25 [cs-pos/AUX]() tokens (15% of all `AUX` tokens) have a non-empty value of `Animacy`.
+19 [cs-pos/AUX]() tokens (4% of all `AUX` tokens) have a non-empty value of `Animacy`.
 
-The most frequent other feature values with which `AUX` and `Animacy` co-occurred: <tt><a href="Person.html">Person</a>=EMPTY</tt> (25; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (25; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (25; 100%), <tt><a href="Voice.html">Voice</a>=Act</tt> (25; 100%), <tt><a href="Gender.html">Gender</a>=Fem,Masc</tt> (25; 100%), <tt><a href="Number.html">Number</a>=Plur</tt> (25; 100%), <tt><a href="Tense.html">Tense</a>=Past</tt> (25; 100%), <tt><a href="Negative.html">Negative</a>=Pos</tt> (18; 72%).
+The most frequent other feature values with which `AUX` and `Animacy` co-occurred: <tt><a href="Number.html">Number</a>=Plur</tt> (19; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (19; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (19; 100%), <tt><a href="Voice.html">Voice</a>=Act</tt> (18; 95%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (18; 95%), <tt><a href="Tense.html">Tense</a>=Past</tt> (18; 95%), <tt><a href="Polarity.html">Polarity</a>=Pos</tt> (14; 74%).
 
 `AUX` tokens may have the following values of `Animacy`:
 
-* `Inan` (25; 100% of non-empty `Animacy`): <em>byly, nebyly</em>
-* `EMPTY` (145): <em>být, by, je, nejsou, byl, jsou, bude, budou, byla, bylo</em>
+* `Inan` (19; 100% of non-empty `Animacy`): <em>byly, nebyly, byty</em>
+* `EMPTY` (419): <em>je, jsou, nejsou, není, být, by, bude, je-li, byl, budou</em>
+
+### `DET`
+
+16 [cs-pos/DET]() tokens (4% of all `DET` tokens) have a non-empty value of `Animacy`.
+
+The most frequent other feature values with which `DET` and `Animacy` co-occurred: <tt><a href="Gender.html">Gender</a>=Masc</tt> (16; 100%), <tt><a href="Gender[psor].html">Gender[psor]</a>=EMPTY</tt> (15; 94%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (15; 94%), <tt><a href="Number[psor].html">Number[psor]</a>=EMPTY</tt> (15; 94%), <tt><a href="PronType.html">PronType</a>=Dem</tt> (13; 81%), <tt><a href="Poss.html">Poss</a>=EMPTY</tt> (13; 81%), <tt><a href="Number.html">Number</a>=Plur</tt> (10; 63%), <tt><a href="Case.html">Case</a>=Acc</tt> (10; 63%).
+
+`DET` tokens may have the following values of `Animacy`:
+
+* `Inan` (16; 100% of non-empty `Animacy`): <em>tyto, svůj, takové, její, takový, takovýto, tento</em>
+* `EMPTY` (389): <em>jejich, této, jeho, těchto, tohoto, tyto, tento, tato, její, tomto</em>
 
 ### `NUM`
 
-12 [cs-pos/NUM]() tokens (3% of all `NUM` tokens) have a non-empty value of `Animacy`.
+12 [cs-pos/NUM]() tokens (4% of all `NUM` tokens) have a non-empty value of `Animacy`.
 
-The most frequent other feature values with which `NUM` and `Animacy` co-occurred: <tt><a href="Case.html">Case</a>=Acc</tt> (12; 100%), <tt><a href="NumValue.html">NumValue</a>=1,2,3</tt> (12; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (12; 100%), <tt><a href="NumForm.html">NumForm</a>=Word</tt> (12; 100%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (12; 100%), <tt><a href="NumType.html">NumType</a>=Card</tt> (12; 100%).
+The most frequent other feature values with which `NUM` and `Animacy` co-occurred: <tt><a href="NumType.html">NumType</a>=Card</tt> (12; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (12; 100%), <tt><a href="Case.html">Case</a>=Acc</tt> (12; 100%), <tt><a href="NumValue.html">NumValue</a>=1,2,3</tt> (12; 100%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (12; 100%), <tt><a href="NumForm.html">NumForm</a>=Word</tt> (12; 100%).
 
 `NUM` tokens may have the following values of `Animacy`:
 
 * `Inan` (12; 100% of non-empty `Animacy`): <em>jeden</em>
-* `EMPTY` (428): <em>1, 3, 2, 4, 5, 41, 7, jedné, jeden, tří</em>
+* `EMPTY` (298): <em>1, 3, 2, 4, 5, 41, jeden, 2004, 2008, 31</em>
 
 ## Relations with Agreement in `Animacy`
 
 The 10 most frequent relations where parent and child node agree in `Animacy`:
-<tt>NOUN --[<a href="../dep/amod.html">amod</a>]--> ADJ</tt> (2339; 95%),
-<tt>ADJ --[<a href="../dep/conj.html">conj</a>]--> ADJ</tt> (68; 69%),
+<tt>NOUN --[<a href="../dep/amod.html">amod</a>]--> ADJ</tt> (1598; 93%),
+<tt>ADJ --[<a href="../dep/conj.html">conj</a>]--> ADJ</tt> (55; 67%),
 <tt>ADJ --[<a href="../dep/dep.html">dep</a>]--> NOUN</tt> (5; 100%),
+<tt>ADJ --[<a href="../dep/appos.html">appos</a>]--> ADJ</tt> (2; 100%),
 <tt>NOUN --[<a href="../dep/xcomp.html">xcomp</a>]--> ADJ</tt> (2; 67%),
-<tt>ADJ --[<a href="../dep/appos.html">appos</a>]--> ADJ</tt> (2; 100%).
+<tt>AUX --[<a href="../dep/conj.html">conj</a>]--> NOUN</tt> (1; 100%),
+<tt>ADJ --[<a href="../dep/conj.html">conj</a>]--> NOUN</tt> (1; 100%).
 

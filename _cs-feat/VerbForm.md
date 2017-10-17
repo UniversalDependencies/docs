@@ -2,7 +2,18 @@
 layout: feature
 title: 'VerbForm'
 shortdef: 'form of verb or deverbative'
+udver: '2'
 ---
+
+<table class="typeindex" border="1">
+<tr>
+  <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
+  <td><a href="#Conv">Conv</a></td>
+  <td><a href="#Fin">Fin</a></td>
+  <td><a href="#Inf">Inf</a></td>
+  <td><a href="#Part">Part</a></td>
+</tr>
+</table>
 
 Even though the name of the feature seems to suggest that it is used
 exclusively with [verbs](cs-pos/VERB), it is not the case.
@@ -10,7 +21,7 @@ The `Part` value can be used also with [adjectives](cs-pos/ADJ).
 It distinguishes participles from other verb forms,
 and participial adjectives from other adjectives.
 
-### `Fin`: finite verb
+### <a name="Fin">`Fin`</a>: finite verb
 
 Rule of thumb: if it has non-empty [Mood](), it is finite.
 In Czech this applies to indicative and imperative forms,
@@ -25,7 +36,7 @@ and to the special conditional forms of the [auxiliary verb](cs-pos/AUX) _být_.
 - _bych, bys, by, bychom, byste, by_ &nbsp;“I would, you would, he/she/it would, we would, you would, they would”
 - _buď, buďme, buďte_ &nbsp;“be” (imperative in different persons and numbers)
 
-### `Inf`: infinitive
+### <a name="Inf">`Inf`</a>: infinitive
 
 Infinitive is the citation form of verbs.
 It is also used with the auxiliary _být&nbsp;_ to form periphrastic future tense,
@@ -36,7 +47,7 @@ and it appears as the argument of modal and other verbs.
 - _nést_ &nbsp;“to carry”
 - _být_ &nbsp;“to be”
 
-### `Part`: participle
+### <a name="Part">`Part`</a>: participle
 
 Participle is a non-finite verb form that shares properties of verbs
 and adjectives. Czech has two types of participles:
@@ -54,14 +65,14 @@ Participles inflect for [Gender]() and [Number]() but not for [Person]().
 - _nesen, nesena, neseno, neseni, neseny_ &nbsp;“carried” (passive participle in different genders and numbers)
 - _byl, byla, bylo, byli, byly_ &nbsp;“was/been” (past participle in different genders and numbers)
 
-### `Trans`: transgressive
+### <a name="Conv">`Conv`</a>: converb, transgressive
 
-The transgressive, also called adverbial participle, is a non-finite
+The converb, also called transgressive, adverbial participle or gerund, is a non-finite
 verb form that shares properties of verbs and adverbs.
 
-Imperfective verbs form present transgressive, meaning “while doing”.
+Imperfective verbs form present converb, meaning “while doing”.
 
-Perfective verbs form past transgressive, meaning “having done”.
+Perfective verbs form past converb, meaning “having done”.
 
 #### Examples
 

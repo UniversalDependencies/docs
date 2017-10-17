@@ -4,77 +4,81 @@
 
 ## Treebank Statistics (UD_Japanese)
 
-There are 1 `PRON` lemmas (8%), 331 `PRON` types (1%) and 1113 `PRON` tokens (1%).
-Out of 12 observed tags, the rank of `PRON` is: 9 in number of lemmas, 6 in number of types and 7 in number of tokens.
+There are 49 `PRON` lemmas (0%), 49 `PRON` types (0%) and 931 `PRON` tokens (1%).
+Out of 14 observed tags, the rank of `PRON` is: 11 in number of lemmas, 11 in number of types and 13 in number of tokens.
 
-The 10 most frequent `PRON` lemmas: _
+The 10 most frequent `PRON` lemmas: これ, それ, ここ, 彼, 私, これら, そこ, こちら, 彼女, 彼ら
 
-The 10 most frequent `PRON` types:  これは, それを, 私は, 彼の, これが, これを, 自分の, 彼は, これらの, これに
+The 10 most frequent `PRON` types:  これ, それ, ここ, 彼, 私, これら, そこ, こちら, 彼女, 彼ら
 
-The 10 most frequent ambiguous lemmas: _ ([NOUN]() 50340, [VERB]() 18567, [PUNCT]() 10247, [NUM]() 4184, [ADJ]() 3393, [ADV]() 3061, [PRON]() 1113, [DET]() 925, [CONJ]() 180, [X]() 18, [PART]() 3, [ADP]() 2)
+The 10 most frequent ambiguous lemmas: 私 ([PRON]() 72, [NOUN]() 4), そこ ([PRON]() 37, [NOUN]() 1), いずれ ([PRON]() 22, [ADV]() 1), それぞれ ([ADV]() 20, [PRON]() 15), その他 ([PRON]() 8, [NOUN]() 1), みんな ([ADV]() 9, [PRON]() 6), 僕 ([PRON]() 6, [NOUN]() 1), 君 ([NOUN]() 8, [PRON]() 5), 皆 ([PRON]() 4, [NOUN]() 2)
 
-The 10 most frequent ambiguous types:  ここの ([PRON]() 17, [DET]() 1), これに対して ([PRON]() 13, [NOUN]() 1), それに ([PRON]() 12, [ADV]() 2), 彼らは ([PRON]() 10, [NOUN]() 1), そこで ([PRON]() 9, [ADV]() 4), それから ([PRON]() 5, [ADV]() 2), それでも ([ADV]() 8, [PRON]() 5), どれも ([PRON]() 5, [ADV]() 1), いつ ([PRON]() 4, [ADV]() 2), どの ([DET]() 10, [PRON]() 3)
+The 10 most frequent ambiguous types:  私 ([PRON]() 72, [NOUN]() 4), そこ ([PRON]() 37, [NOUN]() 1), いずれ ([PRON]() 22, [ADV]() 1), それぞれ ([ADV]() 20, [PRON]() 15), その他 ([PRON]() 8, [NOUN]() 1), みんな ([ADV]() 9, [PRON]() 6), 僕 ([PRON]() 6, [NOUN]() 1), わたし ([PRON]() 5, [VERB]() 1), 君 ([NOUN]() 8, [PRON]() 5), 皆 ([PRON]() 4, [NOUN]() 2)
 
 
-* ここの
-  * [PRON]() 17: <b>ここの</b> 居酒屋の メニューで 目を 引いたのは 、 やっぱり コラーゲン鍋でしょ！
-  * [DET]() 1: 彼は <b>ここの</b> カンテラで 成長した 選手で 、 我々とともに サイドバックとしての クオリティーを 爆発させたんだ。
-* これに対して
-  * [PRON]() 13: <b>これに対して</b> 高国は 波多野討伐を 実行したが 、 内藤国貞らの 反抗も あって 失敗する。
-  * [NOUN]() 1: <b>これに対して</b> , "面白い旅団"旅団長の 藤倉善郎氏は, 本紙に対して こう コメントしました。
-* それに
-  * [PRON]() 12: <b>それに</b> 加えて , 毎月の 損失を 50%以上 軽減する ための 大規模な 努力が なされました。
-  * [ADV]() 2: <b>それに</b> , 病気を 治す 力も 知識も ない 人間が さも 病気を 治せるかのように 言っていただけなのであれば , そもそも 10円だって 払う 筋合いは ないでしょう。
-* 彼らは
-  * [PRON]() 10: <b>彼らは</b> 更に 自らの 救命胴衣を 他の 兵士に 渡した。
-  * [NOUN]() 1: <b>彼らは</b> 自分らが 行うべき 任務について 知らされた 上で 自主的に 志願しており 、 任務説明後に 参加を 辞退する ことも 認められていたが 、 辞退する 隊員は いなかったと いう。
-* そこで
-  * [PRON]() 9: <b>そこで</b> 今月 19日に 開かれた "家系の おはなし"講演会に 参加した。
-  * [ADV]() 4: <b>そこで</b> 、 うなぎ屋が 山伏を 追っかけて その通りに 言うと 「わしゃ。
-* それから
-  * [PRON]() 5: <b>それから</b> 私の 右隣に 映っているのは オハイオ州政府開発局の Alexです。
-  * [ADV]() 2: 最初に 描写する 人物を 知らせ 、 <b>それから</b> その 意味を 知らせる。
-* それでも
-  * [ADV]() 8: <b>それでも</b> , くり返し くり返し , 人民に 侵略反対を 訴え続けて 十年が たった。
-  * [PRON]() 5: <b>それでも</b> ピッチに 立てば 言い訳は しない。
-* どれも
-  * [PRON]() 5: メニューは 海鮮づくしで <b>どれも</b> 美味しそうでした。
-  * [ADV]() 1: エビチリ 、 チャーハン 、 餃子 、 小籠包 、 あひるの 舌を 食べましたが <b>どれも</b> 美味しかったです。
-* いつ
-  * [PRON]() 4: ちなみに 、 この 階の 女子トイレは <b>いつ</b> 行っても 混んでます。
-  * [ADV]() 2: 霊は <b>いつ</b> 肉体から 離れていくのか?
-* どの
-  * [DET]() 10: 散髪の やり方次第で 頭脳は 発達すると 考えて 、 <b>どの</b> 店の 散髪が よいか 理髪店を 絶えず 替えていた。
-  * [PRON]() 3: 設定変更の 操作に関しては マザーボードの 設計に 依存するが 、 <b>どの</b> 方法を とっても 同じ 結果が 得られる ため 特に 定めない。
+* 私
+  * [PRON]() 72: <b>私</b> は 初めて だっ た ん だ けど 思っ て い た より も 魚 は 新鮮 でし た 。
+  * [NOUN]() 4: <b>私</b> 立花 峯 高校 の 校長 。
+* そこ
+  * [PRON]() 37: <b>そこ</b> に 当事者 意識 が 生まれ , 社会 が 実際 に 動い て いく 。
+  * [NOUN]() 1: 店内 に は 、 電源 が <b>そこ</b> ら 中 に あり 、 電波 も 良好 。
+* いずれ
+  * [PRON]() 22: 2000 年 の シドニー オリンピック で は <b>いずれ</b> も 予選 敗退 だっ た 。
+  * [ADV]() 1: 根本 は 祖父 から 「 <b>いずれ</b> 根本 家 を 支える 人物 」 と し て 目 を かけ られ 正教 の 幼児 洗礼 を 受け た 。
+* それぞれ
+  * [ADV]() 20: 1970 年 の 世界選手権 、 1972 年 の ミュンヘン オリンピック で <b>それぞれ</b> 銀メダル を 獲得 し た 。
+  * [PRON]() 15: 本項 で は <b>それぞれ</b> について 説明 する 。
+* その他
+  * [PRON]() 8: モデム 機能 のみ を 持ち 、 <b>その他</b> の 機能 を コンピュータ 側 ソフトウェア で 実現 し た もの も ある 。
+  * [NOUN]() 1: ジャイナ教 における ベジタリアニズム <b>その他</b> の 非 暴力 的な アヒンサー の 原理 に 由来 する 。
+* みんな
+  * [ADV]() 9: 美容 や 介添え 等 の スタッフ の 方々 の 対応 が 親切 で <b>みんな</b> 素晴らしかっ た です 。
+  * [PRON]() 6: 海江田 氏 は 記者 団 に 「 <b>みんな</b> が 気持ち を 一 つ に し 、 党 の 再建 に 頑張ら なければ なら ない 」 と 強調 。
+* 僕
+  * [PRON]() 6: <b>僕</b> の 担当 は 福助 さん と いう ん です が 、 いつも フレンドリー に 話しかけ て くれる ので 楽しいです 。
+  * [NOUN]() 1: <b>僕</b> 自身 、 次 は ピッチ の 中 で アンセム を 聞き たい なっ て 気持ち が 強く なり まし た 。
+* わたし
+  * [PRON]() 5: トライアングル という 三角形 の バランス が 美しく なる ように <b>わたし</b> も 必死 で くらい つこ う と 思っ て い ます 。
+  * [VERB]() 1: 2 人 は 彼女 の 歌声 に 感銘 を 受け 、 プロデュース する こと を 決め 、 同 年 7 月 「 <b>わたし</b> _ ロリータ 」 で デビュー し 、 フランス のみ なら ず ヨーロッパ 全土 で ブレイク し シングル セールス 300 万 枚 を 達成 し た 。
+* 君
+  * [NOUN]() 8: キャッチコピー は 「 第 2 の 遼 <b>君</b> 育て ます 」 。
+  * [PRON]() 5: 被害 を 受け た という 女性 は 産経新聞 の 取材 に対し “ <b>君</b> に は 癒やし が 必要 だ ” と いっ て セクハラ を エスカレート さ せ た 。
+* 皆
+  * [PRON]() 4: 現役 時 は 注意 さ れ て ばかり だっ た が 、 理事長 時代 は 逆 に 手 を 下ろす 事 を <b>皆</b> に 勧め 、 現在 の ように 一般化 さ せ た 。
+  * [NOUN]() 2: <b>皆</b> トリプル アクセル を やら なかっ た キム ヨナ の 方 が 点 が 何故 高い の か 分から ない って 。
 
 ## Morphology
 
-The form / lemma ratio of `PRON` is 331.000000 (the average of all parts of speech is 4757.166667).
+The form / lemma ratio of `PRON` is 1.000000 (the average of all parts of speech is 1.059217).
 
-The 1st highest number of forms (331) was observed with the lemma “_”: "あなたは, "ご自分の, "私は, …あなたが, 「あなたが, 「あなたの, 「あれでは, 「おまえが, 「ここは, 「これまでの, 「わが, 「わたしの, 「わたしは, 「僕らの, 「彼は, 「私が, 「私の, 「私は, 「自分は, 『彼女と, 〔どちらかと, あちらで, あなたが, あなたに, あなたには, あなたに対する, あなたの, あなたは, あれじゃ, あれには, あれは, いつ, いつよりも, おそれが, おめーらが, お前の, お前を, かれは, ここ。, ここから, ここが, ここだと, ここで, ここです。, ここですね。, ここでの, ここでは, ここに, ここにおいて, ここには, ここの, ここは, ここまで, ここまでが, ここも, ここを, こちら。, こちらが, こちらで, こちらでは, こちらとしては, こちらに, こちらの, こちらは, こちらも, こちらより, こちらを, こっちが, この後, これ, これから, これからが, これからの, これからは, これからも, これが, これだけ, これだけで, これだけではありませんでした。, これだけの, これだったら, これで, これですら, これでは, これでも, これと, これとは, これなら, これに, これにあたる, これについて, これには, これにも, これによって, これにより, これに対し, これに対して, これの, これは, これまで, これまでに, これまでにも, これまでの, これまでも, これも, これより, これら, これらが, これらの, これらは, これらも, これらを, これを, これを以て, これ以上, これ以外では, これ以降は, ご自分で, そうじゃなくて, そうですか。, そこから, そこが, そこだけが, そこで, そこでは, そこに, そこには, そこの, そこは, そこへ, そこまで, そこまでを, そこも, そこを, そちらの, そちらを, それ, それから, それからは, それが, それだけ, それだけに, それで, それでは, それでも, それと, それとの, それとは, それと共に, それならば, それに, それにも, それによって, それによる, それによると, それに対し, それに対して, それは, それほどでもない, それまで, それまでですが, それまでの, それまでも, それも, それらが, それらとは, それらの, それらは, それらより, それらを, それを, それ以上の, それ以外には, それ以外にも, それ以外は, どうなのでしょう。, どこか, どこかで, どこかを、, どこに, どこにもない。, どこの, どこへ, どこまでも, どちらかで, どちらかと, どちらが, どちらに, どちらの, どちらも, どの, どのように, どれだけ, どれだけの, どれも, なぜか, なぜだろう？, ぼくが, ぼくは, ぼくを, みな,, みなさんにとって, わが, わたくしは, わたしが, わたしにも, わたしの, わたしも, われわれの, ボクには, 何から, 何が, 何であるかを, 何とでも, 何なのか。, 何の, 何まで, 何も, 何らの, 何を, 何箇所か, 俺に, 俺も, 僕が, 僕には, 僕の, 僕は, 僧侶にとって, 彼から, 彼が, 彼と, 彼に, 彼にしか, 彼に関する, 彼の, 彼は, 彼も, 彼らが, 彼らと, 彼らに, 彼らに対し, 彼らの, 彼らは, 彼らを, 彼を, 彼女から, 彼女こそ, 彼女たちは, 彼女と, 彼女に, 彼女の, 彼女は, 彼女らの, 彼女を, 彼女を通じて, 彼等の, 彼自身の, 我々, 我々とともに, 我々と共に, 我々に, 我々の, 我々は, 我々は,, 我々は、, 我が, 我に, 私, 私。, 私』, 私が, 私たち, 私たちが, 私たちに, 私たちの, 私たちは, 私でした。, 私でしたが, 私でも, 私と, 私との, 私とは, 私に, 私にとっては, 私には, 私に対して, 私の, 私は, 私は,, 私も, 私を, 自ら, 自らが, 自らと, 自らの, 自らは, 自らも, 自らを, 自分から, 自分が, 自分しか, 自分たちから, 自分たちが, 自分たちに, 自分たちの, 自分で, 自分でも, 自分と, 自分に, 自分には, 自分に対し, 自分に関する, 自分の, 自分は, 自分も, 自分よりも, 自分らが, 自分を, 自分達, 自分達だけが, 誰からも, 誰かを, 誰ですか?, 誰でも, 誰にでも, 誰にも, 誰の, 誰も, 関係者に, 離脱が, （これも.
+The 1st highest number of forms (1) was observed with the lemma “あちこち”: あちこち.
+
+The 2nd highest number of forms (1) was observed with the lemma “あちら”: あちら.
+
+The 3rd highest number of forms (1) was observed with the lemma “あなた”: あなた.
 
 `PRON` does not occur with any features.
 
 
 ## Relations
 
-`PRON` nodes are attached to their parents using 11 different relations: [ja-dep/nmod]() (1042; 94% instances), [ja-dep/advmod]() (14; 1% instances), [ja-dep/root]() (14; 1% instances), [ja-dep/advcl]() (10; 1% instances), [ja-dep/amod]() (10; 1% instances), [ja-dep/conj]() (9; 1% instances), [ja-dep/appos]() (5; 0% instances), [ja-dep/name]() (4; 0% instances), [ja-dep/ccomp]() (3; 0% instances), [ja-dep/acl:relcl]() (1; 0% instances), [ja-dep/dep]() (1; 0% instances)
+`PRON` nodes are attached to their parents using 7 different relations: [ja-dep/nsubj]() (261; 28% instances), [ja-dep/obl]() (251; 27% instances), [ja-dep/nmod]() (224; 24% instances), [ja-dep/iobj]() (100; 11% instances), [ja-dep/obj]() (83; 9% instances), [ja-dep/root]() (11; 1% instances), [ja-dep/acl]() (1; 0% instances)
 
-Parents of `PRON` nodes belong to 8 different parts of speech: [VERB]() (648; 58% instances), [NOUN]() (397; 36% instances), [ADJ]() (39; 4% instances), [ROOT]() (14; 1% instances), [NUM]() (10; 1% instances), [ADV]() (2; 0% instances), [PRON]() (2; 0% instances), [CONJ]() (1; 0% instances)
+Parents of `PRON` nodes belong to 8 different parts of speech: [VERB]() (557; 60% instances), [NOUN]() (282; 30% instances), [ADJ]() (56; 6% instances), [NUM]() (11; 1% instances), [ROOT]() (11; 1% instances), [PROPN]() (7; 1% instances), [ADV]() (5; 1% instances), [PRON]() (2; 0% instances)
 
-968 (87%) `PRON` nodes are leaves.
+19 (2%) `PRON` nodes are leaves.
 
-121 (11%) `PRON` nodes have one child.
+672 (72%) `PRON` nodes have one child.
 
-17 (2%) `PRON` nodes have two children.
+181 (19%) `PRON` nodes have two children.
 
-7 (1%) `PRON` nodes have three or more children.
+59 (6%) `PRON` nodes have three or more children.
 
-The highest child degree of a `PRON` node is 5.
+The highest child degree of a `PRON` node is 10.
 
-Children of `PRON` nodes are attached using 12 different relations: [ja-dep/punct]() (64; 36% instances), [ja-dep/nmod]() (48; 27% instances), [ja-dep/acl:relcl]() (28; 16% instances), [ja-dep/name]() (12; 7% instances), [ja-dep/conj]() (11; 6% instances), [ja-dep/advmod]() (6; 3% instances), [ja-dep/advcl]() (3; 2% instances), [ja-dep/amod]() (2; 1% instances), [ja-dep/ccomp]() (2; 1% instances), [ja-dep/dep]() (2; 1% instances), [ja-dep/appos]() (1; 1% instances), [ja-dep/cc]() (1; 1% instances)
+Children of `PRON` nodes are attached using 17 different relations: [ja-dep/case]() (985; 79% instances), [ja-dep/punct]() (96; 8% instances), [ja-dep/nmod]() (44; 4% instances), [ja-dep/acl]() (25; 2% instances), [ja-dep/mark]() (23; 2% instances), [ja-dep/cop]() (17; 1% instances), [ja-dep/fixed]() (15; 1% instances), [ja-dep/aux]() (13; 1% instances), [ja-dep/compound]() (6; 0% instances), [ja-dep/nsubj]() (4; 0% instances), [ja-dep/advmod]() (3; 0% instances), [ja-dep/amod]() (2; 0% instances), [ja-dep/cc]() (2; 0% instances), [ja-dep/csubj]() (2; 0% instances), [ja-dep/det]() (1; 0% instances), [ja-dep/nummod]() (1; 0% instances), [ja-dep/obl]() (1; 0% instances)
 
-Children of `PRON` nodes belong to 9 different parts of speech: [NOUN]() (66; 37% instances), [PUNCT]() (64; 36% instances), [VERB]() (27; 15% instances), [ADJ]() (11; 6% instances), [NUM]() (5; 3% instances), [ADV]() (3; 2% instances), [PRON]() (2; 1% instances), [DET]() (1; 1% instances), [X]() (1; 1% instances)
+Children of `PRON` nodes belong to 14 different parts of speech: [ADP]() (974; 79% instances), [PUNCT]() (101; 8% instances), [NOUN]() (60; 5% instances), [PART]() (33; 3% instances), [AUX]() (28; 2% instances), [VERB]() (19; 2% instances), [ADJ]() (8; 1% instances), [PROPN]() (6; 0% instances), [SCONJ]() (3; 0% instances), [ADV]() (2; 0% instances), [PRON]() (2; 0% instances), [SYM]() (2; 0% instances), [CCONJ]() (1; 0% instances), [NUM]() (1; 0% instances)
 
 
 
@@ -82,39 +86,39 @@ Children of `PRON` nodes belong to 9 different parts of speech: [NOUN]() (66; 37
 
 ## Treebank Statistics (UD_Japanese-KTC)
 
-There are 23 `PRON` lemmas (0%), 1 `PRON` types (6%) and 1065 `PRON` tokens (0%).
+There are 22 `PRON` lemmas (0%), 1 `PRON` types (6%) and 744 `PRON` tokens (0%).
 Out of 16 observed tags, the rank of `PRON` is: 8 in number of lemmas, 11 in number of types and 15 in number of tokens.
 
-The 10 most frequent `PRON` lemmas: 此れ, 其れ, _, 私-代名詞, 此処, 何れ, 誰, 其処, 何処, 何時
+The 10 most frequent `PRON` lemmas: 此れ, 其れ, _, 私-代名詞, 此処, 誰, 何れ, 何処, 其処, 何時
 
 The 10 most frequent `PRON` types:  _
 
-The 10 most frequent ambiguous lemmas: _ ([NOUN]() 73916, [ADP]() 56601, [PUNCT]() 29066, [AUX]() 10360, [SCONJ]() 9060, [NUM]() 8667, [VERB]() 8579, [ADJ]() 3304, [PART]() 2730, [CONJ]() 2110, [PROPN]() 1795, [ADV]() 1655, [SYM]() 1138, [PRON]() 138, [DET]() 95, [INTJ]() 15), 何れ ([PRON]() 43, [NOUN]() 2), 何時 ([PRON]() 35, [NOUN]() 1), 此の方 ([NOUN]() 1, [PRON]() 1)
+The 10 most frequent ambiguous lemmas: _ ([NOUN]() 52356, [ADP]() 40131, [PUNCT]() 20670, [AUX]() 7362, [SCONJ]() 6334, [NUM]() 6286, [VERB]() 6156, [ADJ]() 2302, [PART]() 1887, [CONJ]() 1517, [PROPN]() 1293, [ADV]() 1200, [SYM]() 865, [PRON]() 102, [DET]() 68, [INTJ]() 8), 何れ ([PRON]() 25, [NOUN]() 2), 何時 ([PRON]() 23, [NOUN]() 1)
 
-The 10 most frequent ambiguous types:  _ ([NOUN]() 83879, [ADP]() 56602, [AUX]() 29224, [PUNCT]() 29066, [VERB]() 24527, [NUM]() 10685, [SCONJ]() 9342, [PROPN]() 7729, [ADJ]() 4996, [PART]() 2783, [CONJ]() 2763, [ADV]() 2738, [SYM]() 1138, [DET]() 1067, [PRON]() 1065, [INTJ]() 27)
+The 10 most frequent ambiguous types:  _ ([NOUN]() 59392, [ADP]() 40132, [PUNCT]() 20670, [AUX]() 20538, [VERB]() 17383, [NUM]() 7782, [SCONJ]() 6539, [PROPN]() 5774, [ADJ]() 3509, [CONJ]() 1977, [ADV]() 1949, [PART]() 1921, [SYM]() 865, [DET]() 751, [PRON]() 744, [INTJ]() 17)
 
 
 * _
-  * [NOUN]() 83879: <b>_</b> <b>_</b> _ _ _ _ _ _
-  * [ADP]() 56602: _ _ <b>_</b> _ _ _ _ _
-  * [AUX]() 29224: _ _ _ _ <b>_</b> _ <b>_</b> _
-  * [PUNCT]() 29066: _ _ _ _ _ _ _ <b>_</b>
-  * [VERB]() 24527: _ _ _ _ _ <b>_</b> _ _
-  * [NUM]() 10685: _ _ _ _ _ _ _ _ _ _ _ _ _ _ <b>_</b> _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
-  * [SCONJ]() 9342: _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ <b>_</b> _ _ _ _ _
-  * [PROPN]() 7729: <b>_</b> _ _ _ _ <b>_</b> _ _ _ <b>_</b> _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
-  * [ADJ]() 4996: _ _ _ <b>_</b> _ _ _ _
-  * [PART]() 2783: _ _ _ _ _ _ <b>_</b> _ _ _ _ _ _ _ _ _ _
-  * [CONJ]() 2763: <b>_</b> _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
-  * [ADV]() 2738: _ _ _ _ _ _ _ _ _ <b>_</b> _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
-  * [SYM]() 1138: _ _ _ _ _ <b>_</b> _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
-  * [DET]() 1067: _ _ _ <b>_</b> _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
-  * [PRON]() 1065: _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ <b>_</b> _ _ _ _ _ _
-  * [INTJ]() 27: _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ <b>_</b> _ _ _ _ _
+  * [NOUN]() 59392: <b>_</b> <b>_</b> _ _ _ _ _ _
+  * [ADP]() 40132: _ _ <b>_</b> _ _ _ _ _
+  * [PUNCT]() 20670: _ _ _ _ _ _ _ <b>_</b>
+  * [AUX]() 20538: _ _ _ _ <b>_</b> _ <b>_</b> _
+  * [VERB]() 17383: _ _ _ _ _ <b>_</b> _ _
+  * [NUM]() 7782: _ _ _ _ _ _ _ _ _ _ _ _ _ _ <b>_</b> _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+  * [SCONJ]() 6539: _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ <b>_</b> _ _ _ _ _
+  * [PROPN]() 5774: <b>_</b> _ _ _ _ <b>_</b> _ _ _ <b>_</b> _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+  * [ADJ]() 3509: _ _ _ <b>_</b> _ _ _ _
+  * [CONJ]() 1977: <b>_</b> _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+  * [ADV]() 1949: _ _ _ _ _ _ _ _ _ <b>_</b> _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+  * [PART]() 1921: _ _ _ _ _ _ <b>_</b> _ _ _ _ _ _ _ _ _ _
+  * [SYM]() 865: _ _ _ _ _ <b>_</b> _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+  * [DET]() 751: _ _ _ <b>_</b> _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+  * [PRON]() 744: _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ <b>_</b> _ _ _ _ _ _
+  * [INTJ]() 17: _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ <b>_</b> _ _ _ _ _
 
 ## Morphology
 
-The form / lemma ratio of `PRON` is 0.043478 (the average of all parts of speech is 0.002927).
+The form / lemma ratio of `PRON` is 0.045455 (the average of all parts of speech is 0.003541).
 
 The 1st highest number of forms (1) was observed with the lemma “_”: _.
 
@@ -127,21 +131,21 @@ The 3rd highest number of forms (1) was observed with the lemma “何れ”: _.
 
 ## Relations
 
-`PRON` nodes are attached to their parents using 16 different relations: [ja-dep/nmod]() (345; 32% instances), [ja-dep/nsubj]() (249; 23% instances), [ja-dep/dep]() (206; 19% instances), [ja-dep/dobj]() (105; 10% instances), [ja-dep/iobj]() (105; 10% instances), [ja-dep/case]() (11; 1% instances), [ja-dep/root]() (10; 1% instances), [ja-dep/nsubjpass]() (9; 1% instances), [ja-dep/advcl]() (7; 1% instances), [ja-dep/advmod]() (5; 0% instances), [ja-dep/conj]() (4; 0% instances), [ja-dep/ccomp]() (3; 0% instances), [ja-dep/compound]() (3; 0% instances), [ja-dep/acl]() (1; 0% instances), [ja-dep/appos]() (1; 0% instances), [ja-dep/cc]() (1; 0% instances)
+`PRON` nodes are attached to their parents using 14 different relations: [ja-dep/nmod]() (242; 33% instances), [ja-dep/nsubj]() (175; 24% instances), [ja-dep/dep]() (144; 19% instances), [ja-dep/dobj]() (77; 10% instances), [ja-dep/iobj]() (75; 10% instances), [ja-dep/case]() (8; 1% instances), [ja-dep/root]() (6; 1% instances), [ja-dep/advcl]() (5; 1% instances), [ja-dep/ccomp]() (3; 0% instances), [ja-dep/nsubjpass]() (3; 0% instances), [ja-dep/compound]() (2; 0% instances), [ja-dep/conj]() (2; 0% instances), [ja-dep/acl]() (1; 0% instances), [ja-dep/advmod]() (1; 0% instances)
 
-Parents of `PRON` nodes belong to 10 different parts of speech: [VERB]() (624; 59% instances), [NOUN]() (348; 33% instances), [ADJ]() (68; 6% instances), [ROOT]() (10; 1% instances), [CONJ]() (5; 0% instances), [ADV]() (3; 0% instances), [INTJ]() (2; 0% instances), [NUM]() (2; 0% instances), [PROPN]() (2; 0% instances), [PRON]() (1; 0% instances)
+Parents of `PRON` nodes belong to 9 different parts of speech: [VERB]() (448; 60% instances), [NOUN]() (234; 31% instances), [ADJ]() (45; 6% instances), [ROOT]() (6; 1% instances), [ADV]() (3; 0% instances), [CONJ]() (3; 0% instances), [INTJ]() (2; 0% instances), [NUM]() (2; 0% instances), [PRON]() (1; 0% instances)
 
-119 (11%) `PRON` nodes are leaves.
+85 (11%) `PRON` nodes are leaves.
 
-698 (66%) `PRON` nodes have one child.
+484 (65%) `PRON` nodes have one child.
 
-202 (19%) `PRON` nodes have two children.
+142 (19%) `PRON` nodes have two children.
 
-46 (4%) `PRON` nodes have three or more children.
+33 (4%) `PRON` nodes have three or more children.
 
-The highest child degree of a `PRON` node is 9.
+The highest child degree of a `PRON` node is 7.
 
-Children of `PRON` nodes are attached using 19 different relations: [ja-dep/case]() (1076; 84% instances), [ja-dep/punct]() (94; 7% instances), [ja-dep/dep]() (23; 2% instances), [ja-dep/mark]() (18; 1% instances), [ja-dep/cop]() (17; 1% instances), [ja-dep/nmod]() (17; 1% instances), [ja-dep/nsubj]() (12; 1% instances), [ja-dep/acl]() (10; 1% instances), [ja-dep/compound]() (4; 0% instances), [ja-dep/advcl]() (3; 0% instances), [ja-dep/aux]() (3; 0% instances), [ja-dep/neg]() (3; 0% instances), [ja-dep/advmod]() (2; 0% instances), [ja-dep/appos]() (1; 0% instances), [ja-dep/cc]() (1; 0% instances), [ja-dep/conj]() (1; 0% instances), [ja-dep/csubj]() (1; 0% instances), [ja-dep/dobj]() (1; 0% instances), [ja-dep/nummod]() (1; 0% instances)
+Children of `PRON` nodes are attached using 18 different relations: [ja-dep/case]() (741; 83% instances), [ja-dep/punct]() (69; 8% instances), [ja-dep/dep]() (17; 2% instances), [ja-dep/mark]() (13; 1% instances), [ja-dep/nmod]() (13; 1% instances), [ja-dep/cop]() (12; 1% instances), [ja-dep/nsubj]() (10; 1% instances), [ja-dep/acl]() (9; 1% instances), [ja-dep/compound]() (3; 0% instances), [ja-dep/aux]() (2; 0% instances), [ja-dep/advcl]() (1; 0% instances), [ja-dep/advmod]() (1; 0% instances), [ja-dep/appos]() (1; 0% instances), [ja-dep/cc]() (1; 0% instances), [ja-dep/conj]() (1; 0% instances), [ja-dep/csubj]() (1; 0% instances), [ja-dep/dobj]() (1; 0% instances), [ja-dep/nummod]() (1; 0% instances)
 
-Children of `PRON` nodes belong to 13 different parts of speech: [ADP]() (868; 67% instances), [PART]() (229; 18% instances), [PUNCT]() (93; 7% instances), [NOUN]() (40; 3% instances), [AUX]() (25; 2% instances), [VERB]() (13; 1% instances), [SCONJ]() (12; 1% instances), [ADJ]() (2; 0% instances), [CONJ]() (2; 0% instances), [ADV]() (1; 0% instances), [NUM]() (1; 0% instances), [PRON]() (1; 0% instances), [SYM]() (1; 0% instances)
+Children of `PRON` nodes belong to 13 different parts of speech: [ADP]() (601; 67% instances), [PART]() (156; 17% instances), [PUNCT]() (68; 8% instances), [NOUN]() (34; 4% instances), [AUX]() (15; 2% instances), [VERB]() (9; 1% instances), [SCONJ]() (7; 1% instances), [ADJ]() (2; 0% instances), [ADV]() (1; 0% instances), [CONJ]() (1; 0% instances), [NUM]() (1; 0% instances), [PRON]() (1; 0% instances), [SYM]() (1; 0% instances)
 

@@ -2,6 +2,7 @@
 layout: postag
 title: 'PART'
 shortdef: 'particle'
+udver: '2'
 ---
 
 ### Definition
@@ -9,7 +10,7 @@ shortdef: 'particle'
 Particles are function words that must be associated with another word
 or phrase to impart meaning and that do not satisfy definitions of
 other universal parts of speech (e.g. [adpositions](ADP),
-[coordinating conjunctions](CONJ), [subordinating conjunctions](SCONJ)
+[coordinating conjunctions](CCONJ), [subordinating conjunctions](SCONJ)
 or [auxiliary verbs](AUX)).  Particles may encode grammatical
 categories such as negation, mood, tense etc.  Particles are normally
 not inflected, although exceptions may occur.
@@ -25,6 +26,10 @@ particles in Japanese automatically qualify for the `PART` tag.  Some
 of them do, e.g. the question particle か / _ka._ Others (e.g. に /
 _ni,_ の / _no_) are parallel to adpositions in other languages and
 should thus be tagged [ADP]().
+
+In general, the `PART` tag should be used restrictively and only when
+no other tag is possible. The the language-specific documentation
+should list the words classified as `PART` in the given language.
 
 ### Examples
 

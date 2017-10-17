@@ -2,7 +2,29 @@
 layout: relation
 title: 'csubj'
 shortdef: 'clausal subject'
+udver: '2'
 ---
 
-This document is a placeholder for the language-specific documentation
-for `csubj`.
+Used to mark the head of a clausal subject. The dependency goes from the predicate that governs the subject, to the local root (i.e. the predicate) of the subject clause. This construction is fairly rare, and the subject clause is often an infinitive clause, as shown below.
+
+~~~ sdparse
+ⲛⲉ/AUX ⲡ/DET ⲉⲧ/SCONJ ⲉϣϣⲉ/VERB ⲡⲉ/AUX ⲉ/ADP ⲁⲛⲉⲭⲉ/VERB ⲙⲙⲟ/ADP ⲕ/PRON \n it would be fitting to tolerate you
+
+csubj(ⲡ, ⲁⲛⲉⲭⲉ)
+aux(ⲁⲛⲉⲭⲉ, ⲉ)
+cop(ⲡ, ⲡⲉ)
+acl(ⲡ, ⲉϣϣⲉ)
+mark(ⲉϣϣⲉ, ⲉⲧ)
+obj(ⲁⲛⲉⲭⲉ, ⲕ)
+case(ⲕ, ⲙⲙⲟ)
+~~~
+
+Note that this is just like a nominal subject (`nsubj`): what would be fitting? To tolerate you. To tolerate you is fitting.
+
+The small class of mostly Greek origin impersonal verbs also takes subject clauses, such as ⲉⲝⲉⲥⲧⲓ 'it is appropriate', which points from main verb to subordinate verb:
+
+~~~ sdparse
+ⲟⲩⲕ ⲉⲝⲉⲥⲧⲓ/VERB ⲉ ⲁⲁ/VERB ϥ \n it is not appropriate to do it
+
+csubj(ⲉⲝⲉⲥⲧⲓ, ⲁⲁ)
+~~~

@@ -2,6 +2,7 @@
 layout: relation
 title: 'parataxis'
 shortdef: 'parataxis'
+udver: '2'
 ---
 
 The parataxis relation (from Greek for "place side by side") is a
@@ -18,6 +19,8 @@ parataxis(Let, annoyed)
 ~~~ sdparse
 The guy , John said , left early in the morning
 parataxis(left, said)
+punct(said, ,-3)
+punct(said, ,-6)
 ~~~
 
 ## An inventory of constructions to which parataxis has been applied
@@ -37,6 +40,7 @@ dependents of the first one, to maximize similarity to the analysis used for con
 ~~~ sdparse
 Bearded dragons are sight hunters , they need to see the food to move .
 parataxis(hunters, need)
+punct(need, ,)
 ~~~
 
 This relation may happen with units that are smaller than sentences:
@@ -55,6 +59,8 @@ For this reported speech example:
 ~~~ sdparse
 The guy , John said , left early in the morning
 parataxis(left, said)
+punct(said, ,-3)
+punct(said, ,-6)
 ~~~
 
 there are paraphrases that convey essentially the same meaning but
@@ -80,21 +86,30 @@ ccomp(said, left)
 ~~~ sdparse
 John said : “ The guy left early in the morning . ”
 parataxis(said, left)
+punct(left, :)
+punct(left, “)
+punct(left, ”)
 ~~~
 
 ~~~ sdparse
 “ The guy left early in the morning ” , John said .
 parataxis(left, said)
+punct(said, ,)
+punct(left, “)
+punct(left, ”)
 ~~~
 
 ~~~ sdparse
 The guy left early in the morning , John said .
 parataxis(left, said)
+punct(said, ,)
 ~~~
 
 ~~~ sdparse
 The guy , he said , left early in the morning .
 parataxis(left, said)
+punct(said, ,-3)
+punct(said, ,-6)
 ~~~
 
 An argument for this analysis is that in the cases analyzed as embedding, the entire clause
@@ -110,6 +125,9 @@ There does not seem to be a better relation to use.
 ~~~ sdparse
 Washington ( CNN ) :
 parataxis(Washington, CNN)
+punct(CNN, ()
+punct(CNN, ))
+punct(CNN, :)
 ~~~
 
 ### Interjected clauses
@@ -119,6 +137,8 @@ Single word or phrase interjections are analyzed as [discourse](), but when a wh
 ~~~ sdparse
 Calafia has great fries ( they are to die for ! )
 parataxis(has, are)
+punct(are, ()
+punct(are, ))
 ~~~
 
 ~~~ sdparse
@@ -136,4 +156,5 @@ We also use the parataxis relation for tag questions such as _isn't it?_ or _hav
 ~~~ sdparse
 It 's not me , is it ?
 parataxis(me, is)
+punct(is, ,)
 ~~~

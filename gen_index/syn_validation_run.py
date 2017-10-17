@@ -244,6 +244,7 @@ if __name__=="__main__":
     print >> out8, u"---"
     print >> out8, u"layout: base"
     print >> out8, u"title:  'Universal Dependencies --- Syntactic validation'"
+    print >> out8, u"udver:  '2'"
     print >> out8, u"---"
     print >> out8
     print >> out8, u'Regenerated <time class="timeago" datetime="%(zulu)sZ">%(zulu)s zulu</time>'%{'zulu':datetime.datetime.utcnow().replace(microsecond=0).isoformat()}
@@ -257,11 +258,13 @@ if __name__=="__main__":
             langs_to_wipe=args.rerun.split(",")
         else:
             langs_to_wipe=[]
+        all_langs=set(languages)
+        langs_to_wipe=set(langs_to_wipe)
         #Now we want to forget cached tests for the --rerun languages
         for _,lang_results in test_cache.iteritems():
-            for lw in langs_to_wipe:
-                if lw in lang_results:
-                    del lang_results[lw]
+            to_wipe=(set(lang_results)-all_langs)|(langs_to_wipe&set(lang_results))
+            for lw in to_wipe:
+                del lang_results[lw]
         with codecs.open(args.tests,"r","utf-8") as t:
             tests=yaml.load(t)
             

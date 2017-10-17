@@ -2,6 +2,7 @@
 layout: relation
 title: 'nummod'
 shortdef: 'numeric modifier'
+udver: '2'
 ---
 
 A numeric modifier of a noun is any [number](cs-pos/NUM) phrase
@@ -150,11 +151,11 @@ There are four labels used:
 Tři muži hráli karty . \n Three men played cards .
 nummod(muži, Tři)
 nsubj(hráli, muži)
-dobj(hráli, karty)
+obj(hráli, karty)
 punct(hráli, .-5)
 nummod(men, Three)
 nsubj(played, men)
-dobj(played, cards)
+obj(played, cards)
 punct(played, .-11)
 ~~~
 
@@ -162,11 +163,11 @@ punct(played, .-11)
 Pět mužů hrálo karty . \n Five men played cards .
 nummod:gov(mužů, Pět)
 nsubj(hrálo, mužů)
-dobj(hrálo, karty)
+obj(hrálo, karty)
 punct(hrálo, .-5)
 nummod:gov(men, Five)
 nsubj(played, men)
-dobj(played, cards)
+obj(played, cards)
 punct(played, .-11)
 ~~~
 
@@ -174,24 +175,24 @@ punct(played, .-11)
 Kolik mužů hrálo karty ? \n How-many men played cards ?
 det:numgov(mužů, Kolik)
 nsubj(hrálo, mužů)
-dobj(hrálo, karty)
+obj(hrálo, karty)
 punct(hrálo, ?-5)
 det:numgov(men, How-many)
 nsubj(played, men)
-dobj(played, cards)
+obj(played, cards)
 punct(played, ?-11)
 ~~~
 
 ~~~ sdparse
 Hrál jsem karty s pěti muži . \n Played I-have cards with five men .
 aux(Hrál, jsem)
-dobj(Hrál, karty)
+obj(Hrál, karty)
 iobj(Hrál, muži)
 case(muži, s)
 nummod(muži, pěti)
 punct(Hrál, .-7)
 aux(Played, I-have)
-dobj(Played, cards)
+obj(Played, cards)
 iobj(Played, men)
 case(men, with)
 nummod(men, five)
@@ -201,19 +202,19 @@ punct(Played, .-15)
 ~~~ sdparse
 Nepamatuji si , s kolika muži jsem hrál karty . \n I-do-not-remember myself , with how-many men I-have played cards .
 ccomp(Nepamatuji, hrál)
-compound:reflex(Nepamatuji, si)
+expl:pv(Nepamatuji, si)
 punct(hrál, ,-3)
 aux(hrál, jsem)
-dobj(hrál, karty)
+obj(hrál, karty)
 iobj(hrál, muži)
 case(muži, s)
 det:nummod(muži, kolika)
 punct(Nepamatuji, .-10)
 ccomp(I-do-not-remember, played)
-compound:reflex(I-do-not-remember, myself)
+expl:pv(I-do-not-remember, myself)
 punct(played, ,-14)
 aux(played, I-have)
-dobj(played, cards)
+obj(played, cards)
 iobj(played, men)
 case(men, with)
 det:nummod(men, how-many)

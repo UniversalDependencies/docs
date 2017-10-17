@@ -4,7 +4,7 @@ title: 'appos'
 shortdef: 'appositional modifier'
 ---
 
-An appositional modifier of a noun is a nominal immediately following the first noun that serves to define or modify that noun. It includes parenthesized examples, as well as defining abbreviations in one of these structures.
+An appositional modifier of a noun is a nominal immediately following the first noun that serves to define or modify that noun. It includes parenthesized examples, as well as defining abbreviations.
 
 ~~~ sdparse
 una società italo libica , la Gatoil
@@ -21,4 +21,12 @@ appos(Mondo, organizzazione)
 ~~~ sdparse
 una giovane turista , Tiziana Amone di 20 anni
 appos(turista, Tiziana)
+~~~
+
+In case of more than one appositive nominal, all nouns should be marked as modifying the first noun, rather than being chained:
+
+~~~ sdparse
+due ordigni , il primo destinato a Hiroshima ; il secondo , tre giorni dopo , a Nagasaki .
+appos(ordigni, primo)
+appos(ordigni, secondo)
 ~~~

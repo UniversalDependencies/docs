@@ -168,7 +168,7 @@ it is attached to the preceding word with relation `advmod:emph`.
 
 ## Person names and honorifics
 
-The person names are linked with `name` relation, and headed by the last part of the name.
+The person names are linked with `flat` relation, and headed by the last part of the name.
 
 Turkish honorifics normally follow the (first) name, *Ahmet Bey*
 'Mr. Ahmet', *Necla Hanım* 'Ms. Necla', *Ayşe öğretmen* 'Teacher

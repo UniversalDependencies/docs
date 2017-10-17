@@ -7,114 +7,105 @@
 This feature is universal.
 It occurs with 3 different values: `1`, `2`, `3`.
 
-108587 tokens (7%) have a non-empty value of `Person`.
-9572 types (7%) occur at least once with a non-empty value of `Person`.
-3740 lemmas (6%) occur at least once with a non-empty value of `Person`.
-The feature is used with 4 part-of-speech tags: [cs-pos/VERB]() (76683; 5% instances), [cs-pos/AUX]() (11357; 1% instances), [cs-pos/PRON]() (11269; 1% instances), [cs-pos/DET]() (9278; 1% instances).
+95433 tokens (7%) have a non-empty value of `Person`.
+8850 types (7%) occur at least once with a non-empty value of `Person`.
+3530 lemmas (6%) occur at least once with a non-empty value of `Person`.
+The feature is used with 4 part-of-speech tags: [cs-pos/VERB]() (53450; 4% instances), [cs-pos/AUX]() (23872; 2% instances), [cs-pos/PRON]() (9786; 1% instances), [cs-pos/DET]() (8325; 1% instances).
 
 ### `VERB`
 
-76683 [cs-pos/VERB]() tokens (46% of all `VERB` tokens) have a non-empty value of `Person`.
+53450 [cs-pos/VERB]() tokens (45% of all `VERB` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (76681; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (76681; 100%), <tt><a href="Voice.html">Voice</a>=Act</tt> (75724; 99%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (75722; 99%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (74167; 97%), <tt><a href="Negative.html">Negative</a>=Pos</tt> (67221; 88%), <tt><a href="Number.html">Number</a>=Sing</tt> (54532; 71%), <tt><a href="Aspect.html">Aspect</a>=EMPTY</tt> (41111; 54%).
+The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (53448; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (53448; 100%), <tt><a href="Voice.html">Voice</a>=Act</tt> (52697; 99%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (52695; 99%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (52157; 98%), <tt><a href="Polarity.html">Polarity</a>=Pos</tt> (46723; 87%), <tt><a href="Number.html">Number</a>=Sing</tt> (36883; 69%).
 
 `VERB` tokens may have the following values of `Person`:
 
-* `1` (6860; 9% of non-empty `Person`): <em>máme, jsem, jsme, mám, můžeme, myslím, musíme, chceme, musím, nevím</em>
-* `2` (1682; 2% of non-empty `Person`): <em>viz, můžete, máte, buď, jste, chcete, myslíte, najdete, potřebujete, buďte</em>
-* `3` (68141; 89% of non-empty `Person`): <em>je, jsou, má, není, může, mají, bude, musí, jde, lze</em>
-* `EMPTY` (88951): <em>byl, být, bylo, řekl, měl, byla, měla, mít, uvedl, měli</em>
+* `1` (5459; 10% of non-empty `Person`): <em>máme, mám, můžeme, myslím, musíme, chceme, musím, nevím, jsme, víme</em>
+* `2` (1320; 2% of non-empty `Person`): <em>můžete, viz, máte, chcete, myslíte, najdete, potřebujete, víte, vidíte, musíte</em>
+* `3` (46671; 87% of non-empty `Person`): <em>má, je, může, mají, musí, jde, lze, jsou, mohou, říká</em>
+* `EMPTY` (66222): <em>řekl, měl, měla, mít, uvedl, měli, mělo, mohl, měly, bylo</em>
 
 <table>
-  <tr><th>Paradigm <i>být</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
-  <tr><td><tt><a href="Abbr.html">Abbr</a>=Yes|<a href="Mood.html">Mood</a>=Ind|<a href="Negative.html">Negative</a>=Pos|<a href="Number.html">Number</a>=Sing|<a href="Tense.html">Tense</a>=Pres|<a href="Voice.html">Voice</a>=Act</tt></td><td></td><td></td><td><em>j</em></td></tr>
-  <tr><td><tt><a href="Mood.html">Mood</a>=Cnd|<a href="Number.html">Number</a>=Sing</tt></td><td><em>bych</em></td><td></td><td></td></tr>
-  <tr><td><tt><a href="Mood.html">Mood</a>=Cnd|<a href="Number.html">Number</a>=Plur|<a href="Style.html">Style</a>=Coll</tt></td><td><em>bysme</em></td><td></td><td></td></tr>
-  <tr><td><tt><a href="Mood.html">Mood</a>=Cnd|<a href="Number.html">Number</a>=Plur</tt></td><td><em>bychom</em></td><td></td><td></td></tr>
-  <tr><td><tt><a href="Mood.html">Mood</a>=Imp|<a href="Negative.html">Negative</a>=Neg|<a href="Number.html">Number</a>=Plur</tt></td><td></td><td><em>Nebuďte</em></td><td></td></tr>
-  <tr><td><tt><a href="Mood.html">Mood</a>=Imp|<a href="Negative.html">Negative</a>=Pos|<a href="Number.html">Number</a>=Sing|<a href="Style.html">Style</a>=Arch</tt></td><td></td><td></td><td><em>buď</em></td></tr>
-  <tr><td><tt><a href="Mood.html">Mood</a>=Imp|<a href="Negative.html">Negative</a>=Pos|<a href="Number.html">Number</a>=Sing</tt></td><td></td><td><em>buď</em></td><td><em>budiž</em></td></tr>
-  <tr><td><tt><a href="Mood.html">Mood</a>=Imp|<a href="Negative.html">Negative</a>=Pos|<a href="Number.html">Number</a>=Plur</tt></td><td><em>Buďme</em></td><td><em>buďte</em></td><td></td></tr>
-  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Negative.html">Negative</a>=Neg|<a href="Number.html">Number</a>=Sing|<a href="Style.html">Style</a>=Arch|<a href="Tense.html">Tense</a>=Pres|<a href="Voice.html">Voice</a>=Act</tt></td><td></td><td></td><td><em>Není</em></td></tr>
-  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Negative.html">Negative</a>=Neg|<a href="Number.html">Number</a>=Sing|<a href="Tense.html">Tense</a>=Fut|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>nebudu</em></td><td><em>nebudeš</em></td><td><em>nebude</em></td></tr>
-  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Negative.html">Negative</a>=Neg|<a href="Number.html">Number</a>=Sing|<a href="Tense.html">Tense</a>=Pres|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>nejsem</em></td><td></td><td><em>není</em></td></tr>
-  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Negative.html">Negative</a>=Neg|<a href="Number.html">Number</a>=Plur|<a href="Style.html">Style</a>=Arch|<a href="Tense.html">Tense</a>=Pres|<a href="Voice.html">Voice</a>=Act</tt></td><td></td><td></td><td><em>nésó</em></td></tr>
-  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Negative.html">Negative</a>=Neg|<a href="Number.html">Number</a>=Plur|<a href="Tense.html">Tense</a>=Fut|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>nebudeme</em></td><td><em>nebudete</em></td><td><em>nebudou</em></td></tr>
-  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Negative.html">Negative</a>=Neg|<a href="Number.html">Number</a>=Plur|<a href="Tense.html">Tense</a>=Pres|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>nejsme</em></td><td><em>nejste</em></td><td><em>nejsou</em></td></tr>
-  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Negative.html">Negative</a>=Pos|<a href="Number.html">Number</a>=Sing|<a href="Style.html">Style</a>=Arch|<a href="Tense.html">Tense</a>=Pres|<a href="Voice.html">Voice</a>=Act</tt></td><td></td><td></td><td><em>jest</em></td></tr>
-  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Negative.html">Negative</a>=Pos|<a href="Number.html">Number</a>=Sing|<a href="Style.html">Style</a>=Coll|<a href="Tense.html">Tense</a>=Pres|<a href="Voice.html">Voice</a>=Act</tt></td><td></td><td><em>si</em></td><td></td></tr>
-  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Negative.html">Negative</a>=Pos|<a href="Number.html">Number</a>=Sing|<a href="Tense.html">Tense</a>=Fut|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>budu</em></td><td></td><td><em>bude</em></td></tr>
-  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Negative.html">Negative</a>=Pos|<a href="Number.html">Number</a>=Sing|<a href="Tense.html">Tense</a>=Pres|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>jsem</em></td><td><em>jsi</em></td><td><em>je</em></td></tr>
-  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Negative.html">Negative</a>=Pos|<a href="Number.html">Number</a>=Plur|<a href="Tense.html">Tense</a>=Fut|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>budeme</em></td><td><em>budete</em></td><td><em>budou</em></td></tr>
-  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Negative.html">Negative</a>=Pos|<a href="Number.html">Number</a>=Plur|<a href="Tense.html">Tense</a>=Pres|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>jsme</em></td><td><em>jste</em></td><td><em>jsou</em></td></tr>
+  <tr><th>Paradigm <i>mít</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Imp|<a href="Number.html">Number</a>=Plur|<a href="Polarity.html">Polarity</a>=Neg</tt></td><td><em>Nemějme</em></td><td></td><td></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Imp|<a href="Number.html">Number</a>=Plur|<a href="Polarity.html">Polarity</a>=Pos</tt></td><td><em>mějme</em></td><td><em>mějte</em></td><td></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Polarity.html">Polarity</a>=Neg|<a href="Tense.html">Tense</a>=Pres|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>nemám</em></td><td></td><td><em>nemá</em></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Polarity.html">Polarity</a>=Pos|<a href="Tense.html">Tense</a>=Pres|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>mám</em></td><td><em>máš</em></td><td><em>má</em></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Plur|<a href="Polarity.html">Polarity</a>=Neg|<a href="Tense.html">Tense</a>=Pres|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>nemáme</em></td><td><em>nemáte</em></td><td><em>nemají</em></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Plur|<a href="Polarity.html">Polarity</a>=Pos|<a href="Tense.html">Tense</a>=Pres|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>máme</em></td><td><em>máte</em></td><td><em>mají</em></td></tr>
 </table>
 
 ### `AUX`
 
-11357 [cs-pos/AUX]() tokens (55% of all `AUX` tokens) have a non-empty value of `Person`.
+23872 [cs-pos/AUX]() tokens (66% of all `AUX` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `AUX` and `Person` co-occurred: <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (11357; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (11357; 100%), <tt><a href="Voice.html">Voice</a>=Act</tt> (7893; 69%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (7893; 69%), <tt><a href="Negative.html">Negative</a>=Pos</tt> (7377; 65%).
+The most frequent other feature values with which `AUX` and `Person` co-occurred: <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (23872; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (23872; 100%), <tt><a href="Voice.html">Voice</a>=Act</tt> (20817; 87%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (20817; 87%), <tt><a href="Polarity.html">Polarity</a>=Pos</tt> (18759; 79%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (16846; 71%), <tt><a href="Number.html">Number</a>=Sing</tt> (15551; 65%).
 
 `AUX` tokens may have the following values of `Person`:
 
-* `1` (4067; 36% of non-empty `Person`): <em>jsem, jsme, bychom, bych, budeme, budu, nebudeme, nebudu, nejsme, budem</em>
-* `2` (378; 3% of non-empty `Person`): <em>jste, byste, budete, jsi, nebudete, budeš, bys, Nebudeš, si</em>
-* `3` (6912; 61% of non-empty `Person`): <em>by, bude, budou, je, jsou, nebude, nebudou, není, nejsou, bývá</em>
-* `EMPTY` (9438): <em>by, byl, byla, být, bylo, byly, byli, nebyl, nebyla, nebyly</em>
+* `1` (3952; 17% of non-empty `Person`): <em>jsem, jsme, bychom, bych, budeme, budu, nejsem, nejsme, nebudeme, nebudu</em>
+* `2` (384; 2% of non-empty `Person`): <em>jste, byste, budete, jsi, nebudete, nejste, budeš, buďte, bys, Buď</em>
+* `3` (19536; 82% of non-empty `Person`): <em>je, jsou, bude, by, není, budou, nebude, nejsou, nebudou, bývá</em>
+* `EMPTY` (12466): <em>by, byl, být, bylo, byla, byly, byli, nebyl, nebylo, nebyla</em>
 
 <table>
   <tr><th>Paradigm <i>být</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
   <tr><td><tt><a href="Mood.html">Mood</a>=Cnd|<a href="Number.html">Number</a>=Sing</tt></td><td><em>bych</em></td><td><em>bys</em></td><td></td></tr>
   <tr><td><tt><a href="Mood.html">Mood</a>=Cnd|<a href="Number.html">Number</a>=Plur</tt></td><td><em>bychom</em></td><td><em>byste</em></td><td></td></tr>
   <tr><td><tt><a href="Mood.html">Mood</a>=Cnd</tt></td><td></td><td></td><td><em>by</em></td></tr>
-  <tr><td><tt><a href="Mood.html">Mood</a>=Imp|<a href="Negative.html">Negative</a>=Pos|<a href="Number.html">Number</a>=Sing</tt></td><td></td><td></td><td><em>budiž</em></td></tr>
-  <tr><td><tt><a href="Mood.html">Mood</a>=Imp|<a href="Negative.html">Negative</a>=Pos|<a href="Number.html">Number</a>=Plur|<a href="Style.html">Style</a>=Arch</tt></td><td></td><td></td><td><em>budiž</em></td></tr>
-  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Negative.html">Negative</a>=Neg|<a href="Number.html">Number</a>=Sing|<a href="Tense.html">Tense</a>=Fut|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>nebudu</em></td><td><em>Nebudeš</em></td><td><em>nebude</em></td></tr>
-  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Negative.html">Negative</a>=Neg|<a href="Number.html">Number</a>=Sing|<a href="Tense.html">Tense</a>=Pres|<a href="Voice.html">Voice</a>=Act</tt></td><td></td><td></td><td><em>není</em></td></tr>
-  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Negative.html">Negative</a>=Neg|<a href="Number.html">Number</a>=Plur|<a href="Tense.html">Tense</a>=Fut|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>nebudeme</em></td><td><em>nebudete</em></td><td><em>nebudou</em></td></tr>
-  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Negative.html">Negative</a>=Neg|<a href="Number.html">Number</a>=Plur|<a href="Tense.html">Tense</a>=Pres|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>nejsme</em></td><td></td><td><em>nejsou</em></td></tr>
-  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Negative.html">Negative</a>=Pos|<a href="Number.html">Number</a>=Sing|<a href="Style.html">Style</a>=Coll|<a href="Tense.html">Tense</a>=Pres|<a href="Voice.html">Voice</a>=Act</tt></td><td></td><td><em>si</em></td><td></td></tr>
-  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Negative.html">Negative</a>=Pos|<a href="Number.html">Number</a>=Sing|<a href="Tense.html">Tense</a>=Fut|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>budu</em></td><td><em>budeš</em></td><td><em>bude</em></td></tr>
-  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Negative.html">Negative</a>=Pos|<a href="Number.html">Number</a>=Sing|<a href="Tense.html">Tense</a>=Pres|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>jsem</em></td><td><em>jsi</em></td><td><em>je</em></td></tr>
-  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Negative.html">Negative</a>=Pos|<a href="Number.html">Number</a>=Plur|<a href="Style.html">Style</a>=Coll|<a href="Tense.html">Tense</a>=Fut|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>budem</em></td><td></td><td></td></tr>
-  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Negative.html">Negative</a>=Pos|<a href="Number.html">Number</a>=Plur|<a href="Tense.html">Tense</a>=Fut|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>budeme</em></td><td><em>budete</em></td><td><em>budou</em></td></tr>
-  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Negative.html">Negative</a>=Pos|<a href="Number.html">Number</a>=Plur|<a href="Tense.html">Tense</a>=Pres|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>jsme</em></td><td><em>jste</em></td><td><em>jsou</em></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Imp|<a href="Number.html">Number</a>=Sing|<a href="Polarity.html">Polarity</a>=Pos|<a href="Style.html">Style</a>=Arch</tt></td><td></td><td></td><td><em>buď</em></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Imp|<a href="Number.html">Number</a>=Sing|<a href="Polarity.html">Polarity</a>=Pos</tt></td><td></td><td><em>Buď</em></td><td><em>budiž</em></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Imp|<a href="Number.html">Number</a>=Plur|<a href="Polarity.html">Polarity</a>=Neg</tt></td><td></td><td><em>Nebuďte</em></td><td></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Imp|<a href="Number.html">Number</a>=Plur|<a href="Polarity.html">Polarity</a>=Pos|<a href="Style.html">Style</a>=Arch</tt></td><td></td><td></td><td><em>budiž</em></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Imp|<a href="Number.html">Number</a>=Plur|<a href="Polarity.html">Polarity</a>=Pos</tt></td><td><em>Buďme</em></td><td><em>buďte</em></td><td></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Polarity.html">Polarity</a>=Neg|<a href="Tense.html">Tense</a>=Fut|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>nebudu</em></td><td><em>Nebudeš</em></td><td><em>nebude</em></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Polarity.html">Polarity</a>=Neg|<a href="Tense.html">Tense</a>=Pres|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>nejsem</em></td><td></td><td><em>není</em></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Polarity.html">Polarity</a>=Pos|<a href="Style.html">Style</a>=Arch|<a href="Tense.html">Tense</a>=Pres|<a href="Voice.html">Voice</a>=Act</tt></td><td></td><td></td><td><em>jest</em></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Polarity.html">Polarity</a>=Pos|<a href="Style.html">Style</a>=Coll|<a href="Tense.html">Tense</a>=Pres|<a href="Voice.html">Voice</a>=Act</tt></td><td></td><td><em>si</em></td><td></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Polarity.html">Polarity</a>=Pos|<a href="Tense.html">Tense</a>=Fut|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>budu</em></td><td><em>budeš</em></td><td><em>bude</em></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Polarity.html">Polarity</a>=Pos|<a href="Tense.html">Tense</a>=Pres|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>jsem</em></td><td><em>jsi</em></td><td><em>je</em></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Plur|<a href="Polarity.html">Polarity</a>=Neg|<a href="Tense.html">Tense</a>=Fut|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>nebudeme</em></td><td><em>nebudete</em></td><td><em>nebudou</em></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Plur|<a href="Polarity.html">Polarity</a>=Neg|<a href="Tense.html">Tense</a>=Pres|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>nejsme</em></td><td><em>nejste</em></td><td><em>nejsou</em></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Plur|<a href="Polarity.html">Polarity</a>=Pos|<a href="Tense.html">Tense</a>=Fut|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>budeme</em></td><td><em>budete</em></td><td><em>budou</em></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Plur|<a href="Polarity.html">Polarity</a>=Pos|<a href="Tense.html">Tense</a>=Pres|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>jsme</em></td><td><em>jste</em></td><td><em>jsou</em></td></tr>
 </table>
 
 ### `PRON`
 
-11269 [cs-pos/PRON]() tokens (16% of all `PRON` tokens) have a non-empty value of `Person`.
+9786 [cs-pos/PRON]() tokens (25% of all `PRON` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="Reflex.html">Reflex</a>=EMPTY</tt> (11269; 100%), <tt><a href="PronType.html">PronType</a>=Prs</tt> (11259; 100%), <tt><a href="Variant.html">Variant</a>=EMPTY</tt> (9251; 82%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (6687; 59%), <tt><a href="Number.html">Number</a>=Sing</tt> (5834; 52%).
+The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="PronType.html">PronType</a>=Prs</tt> (9786; 100%), <tt><a href="Reflex.html">Reflex</a>=EMPTY</tt> (9786; 100%), <tt><a href="Variant.html">Variant</a>=EMPTY</tt> (7987; 82%), <tt><a href="PrepCase.html">PrepCase</a>=EMPTY</tt> (7355; 75%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (5834; 60%), <tt><a href="Number.html">Number</a>=Sing</tt> (5065; 52%).
 
 `PRON` tokens may have the following values of `Person`:
 
-* `1` (3468; 31% of non-empty `Person`): <em>nás, nám, mi, já, mě, my, mne, námi, mně, mnou</em>
-* `2` (470; 4% of non-empty `Person`): <em>vám, vás, vy, vámi, ty, tě, ti, you, tobě, Your</em>
-* `3` (7331; 65% of non-empty `Person`): <em>je, nich, mu, ji, ho, jim, ní, něj, jej, jí</em>
-* `EMPTY` (61150): <em>se, to, si, které, který, která, co, tím, kteří, tom</em>
+* `1` (2952; 30% of non-empty `Person`): <em>nás, nám, mi, mě, já, my, mne, námi, mně, mnou</em>
+* `2` (387; 4% of non-empty `Person`): <em>vám, vás, vy, vámi, ty, tě, ti, You, tobě, tebe</em>
+* `3` (6447; 66% of non-empty `Person`): <em>je, nich, mu, ho, ji, jim, ní, něj, jej, jí</em>
+* `EMPTY` (29878): <em>se, si, co, kdo, což, nic, něco, jež, nikdo, nichž</em>
 
-`Person` seems to be **lexical feature** of `PRON`. 100% lemmas (22) occur only with one value of `Person`.
+`Person` seems to be **lexical feature** of `PRON`. 100% lemmas (15) occur only with one value of `Person`.
 
 ### `DET`
 
-9278 [cs-pos/DET]() tokens (33% of all `DET` tokens) have a non-empty value of `Person`.
+8325 [cs-pos/DET]() tokens (17% of all `DET` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `DET` and `Person` co-occurred: <tt><a href="Reflex.html">Reflex</a>=EMPTY</tt> (9278; 100%), <tt><a href="Poss.html">Poss</a>=Yes</tt> (9278; 100%), <tt><a href="PronType.html">PronType</a>=Prs</tt> (8630; 93%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (5892; 64%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (5406; 58%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (4995; 54%), <tt><a href="Gender[psor].html">Gender[psor]</a>=EMPTY</tt> (4946; 53%), <tt><a href="Number[psor].html">Number[psor]</a>=Sing</tt> (4765; 51%).
+The most frequent other feature values with which `DET` and `Person` co-occurred: <tt><a href="Poss.html">Poss</a>=Yes</tt> (8325; 100%), <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (7994; 96%), <tt><a href="PronType.html">PronType</a>=Prs</tt> (7744; 93%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (5306; 64%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (4855; 58%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (4496; 54%), <tt><a href="Number[psor].html">Number[psor]</a>=Sing</tt> (4266; 51%).
 
 `DET` tokens may have the following values of `Person`:
 
-* `1` (2582; 28% of non-empty `Person`): <em>naše, našich, naší, náš, našeho, naši, našem, můj, mého, moje</em>
-* `2` (256; 3% of non-empty `Person`): <em>vaše, vaší, váš, vašeho, vaši, vašem, vašich, vašimi, vaším, tvá</em>
-* `3` (6440; 69% of non-empty `Person`): <em>jeho, jejich, její, jejichž, jehož, jejím, jejíž, jejího, jejích, jejímž</em>
-* `EMPTY` (18541): <em>své, této, tento, tohoto, svou, tato, těchto, tyto, svého, svých</em>
+* `1` (2321; 28% of non-empty `Person`): <em>naše, našich, naší, náš, našeho, naši, našem, můj, mého, moje</em>
+* `2` (224; 3% of non-empty `Person`): <em>vaše, vaší, váš, vašeho, vaši, vašich, vašem, vaším, vašimi, Your</em>
+* `3` (5780; 69% of non-empty `Person`): <em>jeho, jejich, její, jejichž, jehož, jejím, jejíž, jejího, jejích, jejímž</em>
+* `EMPTY` (40445): <em>to, které, který, která, své, tím, kteří, tom, této, tomu</em>
 
 ## Relations with Agreement in `Person`
 
 The 10 most frequent relations where parent and child node agree in `Person`:
-<tt>VERB --[<a href="../dep/conj.html">conj</a>]--> VERB</tt> (5222; 59%),
-<tt>VERB --[<a href="../dep/appos.html">appos</a>]--> VERB</tt> (72; 56%),
-<tt>PRON --[<a href="../dep/acl.html">acl</a>]--> PRON</tt> (1; 100%).
+<tt>VERB --[<a href="../dep/conj.html">conj</a>]--> VERB</tt> (4517; 65%),
+<tt>VERB --[<a href="../dep/appos.html">appos</a>]--> VERB</tt> (57; 61%),
+<tt>PRON --[<a href="../dep/orphan.html">orphan</a>]--> VERB</tt> (2; 67%),
+<tt>PRON --[<a href="../dep/ccomp.html">ccomp</a>]--> VERB</tt> (1; 100%),
+<tt>PRON --[<a href="../dep/dep.html">dep</a>]--> VERB</tt> (1; 100%).
 
 
 
@@ -125,105 +116,101 @@ The 10 most frequent relations where parent and child node agree in `Person`:
 This feature is universal.
 It occurs with 3 different values: `1`, `2`, `3`.
 
-40952 tokens (8%) have a non-empty value of `Person`.
-5610 types (9%) occur at least once with a non-empty value of `Person`.
-2552 lemmas (9%) occur at least once with a non-empty value of `Person`.
-The feature is used with 4 part-of-speech tags: [cs-pos/VERB]() (28970; 6% instances), [cs-pos/AUX]() (4596; 1% instances), [cs-pos/DET]() (3886; 1% instances), [cs-pos/PRON]() (3500; 1% instances).
+39914 tokens (8%) have a non-empty value of `Person`.
+5457 types (9%) occur at least once with a non-empty value of `Person`.
+2495 lemmas (9%) occur at least once with a non-empty value of `Person`.
+The feature is used with 4 part-of-speech tags: [cs-pos/VERB]() (21771; 5% instances), [cs-pos/AUX]() (10912; 2% instances), [cs-pos/DET]() (3865; 1% instances), [cs-pos/PRON]() (3366; 1% instances).
 
 ### `VERB`
 
-28970 [cs-pos/VERB]() tokens (55% of all `VERB` tokens) have a non-empty value of `Person`.
+21771 [cs-pos/VERB]() tokens (55% of all `VERB` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (28970; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (28970; 100%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (28504; 98%), <tt><a href="Voice.html">Voice</a>=Act</tt> (28504; 98%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (28131; 97%), <tt><a href="Negative.html">Negative</a>=Pos</tt> (26306; 91%), <tt><a href="Number.html">Number</a>=Sing</tt> (18704; 65%), <tt><a href="Aspect.html">Aspect</a>=EMPTY</tt> (15315; 53%).
+The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (21771; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (21771; 100%), <tt><a href="Voice.html">Voice</a>=Act</tt> (21424; 98%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (21424; 98%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (21307; 98%), <tt><a href="Polarity.html">Polarity</a>=Pos</tt> (19768; 91%), <tt><a href="Number.html">Number</a>=Sing</tt> (13283; 61%), <tt><a href="Aspect.html">Aspect</a>=Imp</tt> (11241; 52%).
 
 `VERB` tokens may have the following values of `Person`:
 
-* `1` (3365; 12% of non-empty `Person`): <em>můžeme, máme, musíme, jsme, chceme, mám, nemůžeme, známe, myslím, nazýváme</em>
-* `2` (672; 2% of non-empty `Person`): <em>viz, můžete, máte, víte, najdete, překonej, jste, nechte, nemáte, znáte</em>
-* `3` (24933; 86% of non-empty `Person`): <em>je, jsou, má, není, mají, musí, může, jde, lze, bude</em>
-* `EMPTY` (23973): <em>být, bylo, byl, byla, byly, mít, měl, měla, byli, mohli</em>
+* `1` (3207; 15% of non-empty `Person`): <em>můžeme, máme, musíme, chceme, mám, nemůžeme, známe, myslím, nazýváme, vidíme</em>
+* `2` (516; 2% of non-empty `Person`): <em>viz, můžete, máte, víte, najdete, překonej, nemáte, znáte, chcete, nezapomeňte</em>
+* `3` (18048; 83% of non-empty `Person`): <em>je, má, mají, musí, může, jde, lze, jsou, mohou, patří</em>
+* `EMPTY` (17779): <em>mít, měl, měla, bylo, mohl, mohli, došlo, měli, byl, zajistit</em>
 
 <table>
-  <tr><th>Paradigm <i>být</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
-  <tr><td><tt><a href="Mood.html">Mood</a>=Imp|<a href="Negative.html">Negative</a>=Neg|<a href="Number.html">Number</a>=Sing</tt></td><td></td><td><em>Nebuď</em></td><td></td></tr>
-  <tr><td><tt><a href="Mood.html">Mood</a>=Imp|<a href="Negative.html">Negative</a>=Pos|<a href="Number.html">Number</a>=Sing</tt></td><td></td><td><em>buď</em></td><td><em>budiž</em></td></tr>
-  <tr><td><tt><a href="Mood.html">Mood</a>=Imp|<a href="Negative.html">Negative</a>=Pos|<a href="Number.html">Number</a>=Plur</tt></td><td><em>buďme</em></td><td><em>buďte</em></td><td></td></tr>
-  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Negative.html">Negative</a>=Neg|<a href="Number.html">Number</a>=Sing|<a href="Tense.html">Tense</a>=Fut|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>nebudu</em></td><td></td><td><em>nebude</em></td></tr>
-  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Negative.html">Negative</a>=Neg|<a href="Number.html">Number</a>=Sing|<a href="Tense.html">Tense</a>=Pres|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>nejsem</em></td><td></td><td><em>není</em></td></tr>
-  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Negative.html">Negative</a>=Neg|<a href="Number.html">Number</a>=Plur|<a href="Tense.html">Tense</a>=Fut|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>nebudeme</em></td><td></td><td><em>nebudou</em></td></tr>
-  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Negative.html">Negative</a>=Neg|<a href="Number.html">Number</a>=Plur|<a href="Tense.html">Tense</a>=Pres|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>nejsme</em></td><td><em>nejste</em></td><td><em>nejsou</em></td></tr>
-  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Negative.html">Negative</a>=Pos|<a href="Number.html">Number</a>=Sing|<a href="Style.html">Style</a>=Arch|<a href="Tense.html">Tense</a>=Pres|<a href="Voice.html">Voice</a>=Act</tt></td><td></td><td></td><td><em>jest</em></td></tr>
-  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Negative.html">Negative</a>=Pos|<a href="Number.html">Number</a>=Sing|<a href="Style.html">Style</a>=Coll|<a href="Tense.html">Tense</a>=Pres|<a href="Voice.html">Voice</a>=Act</tt></td><td></td><td><em>seš</em></td><td></td></tr>
-  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Negative.html">Negative</a>=Pos|<a href="Number.html">Number</a>=Sing|<a href="Tense.html">Tense</a>=Fut|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>budu</em></td><td></td><td><em>bude</em></td></tr>
-  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Negative.html">Negative</a>=Pos|<a href="Number.html">Number</a>=Sing|<a href="Tense.html">Tense</a>=Pres|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>jsem</em></td><td><em>jsi</em></td><td><em>je</em></td></tr>
-  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Negative.html">Negative</a>=Pos|<a href="Number.html">Number</a>=Plur|<a href="Tense.html">Tense</a>=Fut|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>budeme</em></td><td><em>budete</em></td><td><em>budou</em></td></tr>
-  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Negative.html">Negative</a>=Pos|<a href="Number.html">Number</a>=Plur|<a href="Tense.html">Tense</a>=Pres|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>jsme</em></td><td><em>jste</em></td><td><em>jsou</em></td></tr>
+  <tr><th>Paradigm <i>mít</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Imp|<a href="Number.html">Number</a>=Plur|<a href="Polarity.html">Polarity</a>=Pos</tt></td><td></td><td><em>mějte</em></td><td></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Polarity.html">Polarity</a>=Neg|<a href="Tense.html">Tense</a>=Pres|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>nemám</em></td><td></td><td><em>nemá</em></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Polarity.html">Polarity</a>=Pos|<a href="Tense.html">Tense</a>=Pres|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>mám</em></td><td><em>máš</em></td><td><em>má</em></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Plur|<a href="Polarity.html">Polarity</a>=Neg|<a href="Tense.html">Tense</a>=Pres|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>nemáme</em></td><td><em>nemáte</em></td><td><em>nemají</em></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Plur|<a href="Polarity.html">Polarity</a>=Pos|<a href="Tense.html">Tense</a>=Pres|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>máme</em></td><td><em>máte</em></td><td><em>mají</em></td></tr>
 </table>
 
 ### `AUX`
 
-4596 [cs-pos/AUX]() tokens (75% of all `AUX` tokens) have a non-empty value of `Person`.
+10912 [cs-pos/AUX]() tokens (78% of all `AUX` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `AUX` and `Person` co-occurred: <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (4596; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (4596; 100%), <tt><a href="Voice.html">Voice</a>=Act</tt> (2528; 55%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (2528; 55%), <tt><a href="Negative.html">Negative</a>=Pos</tt> (2406; 52%).
+The most frequent other feature values with which `AUX` and `Person` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (10912; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (10912; 100%), <tt><a href="Voice.html">Voice</a>=Act</tt> (8886; 81%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (8886; 81%), <tt><a href="Polarity.html">Polarity</a>=Pos</tt> (8214; 75%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (7808; 72%), <tt><a href="Number.html">Number</a>=Sing</tt> (6453; 59%).
 
 `AUX` tokens may have the following values of `Person`:
 
-* `1` (1234; 27% of non-empty `Person`): <em>jsme, jsem, bychom, budeme, bych, budu, nebudeme, nebudu</em>
-* `2` (114; 2% of non-empty `Person`): <em>jste, byste, budete, jsi, nebudete, bys, budeš, nebudeš, si</em>
-* `3` (3248; 71% of non-empty `Person`): <em>by, je, bude, jsou, budou, není, nebudou, nebude, nejsou, bývá</em>
-* `EMPTY` (1561): <em>bylo, byla, byl, byly, být, byli, nebyly, nebyl, nebyla, nebylo</em>
+* `1` (1296; 12% of non-empty `Person`): <em>jsme, jsem, bychom, budeme, bych, budu, nebudeme, nejsme, nebudu, nejsem</em>
+* `2` (125; 1% of non-empty `Person`): <em>jste, byste, jsi, budete, buď, nebudete, buďte, bys, Nebuď, budeš</em>
+* `3` (9491; 87% of non-empty `Person`): <em>je, by, jsou, bude, není, budou, nejsou, bývá, nebude, nebudou</em>
+* `EMPTY` (3030): <em>byl, bylo, být, byla, byly, byli, nebylo, nebyl, nebyla, býti</em>
 
 <table>
   <tr><th>Paradigm <i>být</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
   <tr><td><tt><a href="Mood.html">Mood</a>=Cnd|<a href="Number.html">Number</a>=Sing</tt></td><td><em>bych</em></td><td><em>bys</em></td><td></td></tr>
   <tr><td><tt><a href="Mood.html">Mood</a>=Cnd|<a href="Number.html">Number</a>=Plur</tt></td><td><em>bychom</em></td><td><em>byste</em></td><td></td></tr>
   <tr><td><tt><a href="Mood.html">Mood</a>=Cnd</tt></td><td></td><td></td><td><em>by</em></td></tr>
-  <tr><td><tt><a href="Mood.html">Mood</a>=Imp|<a href="Negative.html">Negative</a>=Pos|<a href="Number.html">Number</a>=Sing</tt></td><td></td><td></td><td><em>budiž</em></td></tr>
-  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Negative.html">Negative</a>=Neg|<a href="Number.html">Number</a>=Sing|<a href="Tense.html">Tense</a>=Fut|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>nebudu</em></td><td><em>nebudeš</em></td><td><em>nebude</em></td></tr>
-  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Negative.html">Negative</a>=Neg|<a href="Number.html">Number</a>=Sing|<a href="Tense.html">Tense</a>=Pres|<a href="Voice.html">Voice</a>=Act</tt></td><td></td><td></td><td><em>není</em></td></tr>
-  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Negative.html">Negative</a>=Neg|<a href="Number.html">Number</a>=Plur|<a href="Tense.html">Tense</a>=Fut|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>nebudeme</em></td><td><em>nebudete</em></td><td><em>nebudou</em></td></tr>
-  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Negative.html">Negative</a>=Neg|<a href="Number.html">Number</a>=Plur|<a href="Tense.html">Tense</a>=Pres|<a href="Voice.html">Voice</a>=Act</tt></td><td></td><td></td><td><em>nejsou</em></td></tr>
-  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Negative.html">Negative</a>=Pos|<a href="Number.html">Number</a>=Sing|<a href="Tense.html">Tense</a>=Fut|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>budu</em></td><td><em>budeš</em></td><td><em>bude</em></td></tr>
-  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Negative.html">Negative</a>=Pos|<a href="Number.html">Number</a>=Sing|<a href="Tense.html">Tense</a>=Pres|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>jsem</em></td><td><em>jsi, si</em></td><td><em>je</em></td></tr>
-  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Negative.html">Negative</a>=Pos|<a href="Number.html">Number</a>=Plur|<a href="Tense.html">Tense</a>=Fut|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>budeme</em></td><td><em>budete</em></td><td><em>budou</em></td></tr>
-  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Negative.html">Negative</a>=Pos|<a href="Number.html">Number</a>=Plur|<a href="Tense.html">Tense</a>=Pres|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>jsme</em></td><td><em>jste</em></td><td><em>jsou</em></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Imp|<a href="Number.html">Number</a>=Sing|<a href="Polarity.html">Polarity</a>=Neg</tt></td><td></td><td><em>Nebuď</em></td><td></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Imp|<a href="Number.html">Number</a>=Sing|<a href="Polarity.html">Polarity</a>=Pos</tt></td><td></td><td><em>buď</em></td><td><em>budiž</em></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Imp|<a href="Number.html">Number</a>=Plur|<a href="Polarity.html">Polarity</a>=Pos</tt></td><td><em>buďme</em></td><td><em>buďte</em></td><td></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Polarity.html">Polarity</a>=Neg|<a href="Tense.html">Tense</a>=Fut|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>nebudu</em></td><td><em>nebudeš</em></td><td><em>nebude</em></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Polarity.html">Polarity</a>=Neg|<a href="Tense.html">Tense</a>=Pres|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>nejsem</em></td><td></td><td><em>není</em></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Polarity.html">Polarity</a>=Pos|<a href="Style.html">Style</a>=Arch|<a href="Tense.html">Tense</a>=Pres|<a href="Voice.html">Voice</a>=Act</tt></td><td></td><td></td><td><em>jest</em></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Polarity.html">Polarity</a>=Pos|<a href="Style.html">Style</a>=Coll|<a href="Tense.html">Tense</a>=Pres|<a href="Voice.html">Voice</a>=Act</tt></td><td></td><td><em>seš</em></td><td></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Polarity.html">Polarity</a>=Pos|<a href="Tense.html">Tense</a>=Fut|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>budu</em></td><td><em>budeš</em></td><td><em>bude</em></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Polarity.html">Polarity</a>=Pos|<a href="Tense.html">Tense</a>=Pres|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>jsem</em></td><td><em>jsi, si</em></td><td><em>je</em></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Plur|<a href="Polarity.html">Polarity</a>=Neg|<a href="Tense.html">Tense</a>=Fut|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>nebudeme</em></td><td><em>nebudete</em></td><td><em>nebudou</em></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Plur|<a href="Polarity.html">Polarity</a>=Neg|<a href="Tense.html">Tense</a>=Pres|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>nejsme</em></td><td></td><td><em>nejsou</em></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Plur|<a href="Polarity.html">Polarity</a>=Pos|<a href="Tense.html">Tense</a>=Fut|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>budeme</em></td><td><em>budete</em></td><td><em>budou</em></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Plur|<a href="Polarity.html">Polarity</a>=Pos|<a href="Tense.html">Tense</a>=Pres|<a href="Voice.html">Voice</a>=Act</tt></td><td><em>jsme</em></td><td><em>jste</em></td><td><em>jsou</em></td></tr>
 </table>
 
 ### `DET`
 
-3886 [cs-pos/DET]() tokens (35% of all `DET` tokens) have a non-empty value of `Person`.
+3865 [cs-pos/DET]() tokens (20% of all `DET` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `DET` and `Person` co-occurred: <tt><a href="Reflex.html">Reflex</a>=EMPTY</tt> (3886; 100%), <tt><a href="Poss.html">Poss</a>=Yes</tt> (3886; 100%), <tt><a href="PronType.html">PronType</a>=Prs</tt> (3547; 91%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (2394; 62%), <tt><a href="Gender[psor].html">Gender[psor]</a>=EMPTY</tt> (2327; 60%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (2242; 58%), <tt><a href="Number[psor].html">Number[psor]</a>=Plur</tt> (2236; 58%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (2064; 53%).
+The most frequent other feature values with which `DET` and `Person` co-occurred: <tt><a href="Poss.html">Poss</a>=Yes</tt> (3865; 100%), <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (3733; 97%), <tt><a href="PronType.html">PronType</a>=Prs</tt> (3523; 91%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (2367; 61%), <tt><a href="Number[psor].html">Number[psor]</a>=Plur</tt> (2222; 57%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (2213; 57%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (2038; 53%).
 
 `DET` tokens may have the following values of `Person`:
 
-* `1` (1168; 30% of non-empty `Person`): <em>naší, naše, našeho, našich, našem, naši, náš, naším, mého, můj</em>
-* `2` (89; 2% of non-empty `Person`): <em>vaše, vaší, vašeho, vaši, váš, vašich, vašem, vašemu, Vašimi, tvoje</em>
-* `3` (2629; 68% of non-empty `Person`): <em>jejich, jeho, její, jehož, jejichž, jejíž, jejím, jejího, jejích, jejímž</em>
-* `EMPTY` (7202): <em>této, své, těchto, tyto, tento, tohoto, tato, tomto, svou, některých</em>
+* `1` (1172; 30% of non-empty `Person`): <em>naší, naše, našeho, našich, našem, naši, náš, naším, mého, našim</em>
+* `2` (88; 2% of non-empty `Person`): <em>vaší, vaše, vašeho, vaši, váš, vašich, vašem, vašemu, Vašimi, tvoje</em>
+* `3` (2605; 67% of non-empty `Person`): <em>jejich, jeho, její, jejichž, jehož, jejíž, jejím, jejího, jejích, jejímž</em>
+* `EMPTY` (15176): <em>to, které, který, která, tím, této, své, těchto, tyto, tom</em>
 
 ### `PRON`
 
-3500 [cs-pos/PRON]() tokens (14% of all `PRON` tokens) have a non-empty value of `Person`.
+3366 [cs-pos/PRON]() tokens (21% of all `PRON` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="Reflex.html">Reflex</a>=EMPTY</tt> (3499; 100%), <tt><a href="PronType.html">PronType</a>=Prs</tt> (3491; 100%), <tt><a href="Variant.html">Variant</a>=EMPTY</tt> (3010; 86%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (2196; 63%), <tt><a href="Number.html">Number</a>=Plur</tt> (1873; 54%).
+The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="PronType.html">PronType</a>=Prs</tt> (3366; 100%), <tt><a href="Reflex.html">Reflex</a>=EMPTY</tt> (3365; 100%), <tt><a href="Variant.html">Variant</a>=EMPTY</tt> (2890; 86%), <tt><a href="PrepCase.html">PrepCase</a>=EMPTY</tt> (2542; 76%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (2117; 63%), <tt><a href="Number.html">Number</a>=Plur</tt> (1812; 54%).
 
 `PRON` tokens may have the following values of `Person`:
 
-* `1` (1020; 29% of non-empty `Person`): <em>nás, nám, mi, já, my, mě, mne, mně, námi, mnou</em>
-* `2` (193; 6% of non-empty `Person`): <em>vám, vás, vy, ti, tě, ty, vámi, tebe, tebou, sis</em>
-* `3` (2287; 65% of non-empty `Person`): <em>je, nich, ji, jim, mu, ho, ní, jej, ně, něm</em>
-* `EMPTY` (20889): <em>se, to, které, si, který, která, tím, co, všech, všechny</em>
-
-`Person` seems to be **lexical feature** of `PRON`. 100% lemmas (11) occur only with one value of `Person`.
+* `1` (974; 29% of non-empty `Person`): <em>nás, nám, mi, já, my, mě, mne, mně, námi, mnou</em>
+* `2` (182; 5% of non-empty `Person`): <em>vám, vás, vy, ti, tě, vámi, ty, tebe, tebou, sis</em>
+* `3` (2210; 66% of non-empty `Person`): <em>je, nich, ji, jim, mu, ho, ní, jej, ně, něm</em>
+* `EMPTY` (12314): <em>se, si, co, všech, všechny, jež, nichž, což, sebe, níž</em>
 
 ## Relations with Agreement in `Person`
 
 The 10 most frequent relations where parent and child node agree in `Person`:
-<tt>VERB --[<a href="../dep/conj.html">conj</a>]--> VERB</tt> (2751; 71%),
+<tt>VERB --[<a href="../dep/conj.html">conj</a>]--> VERB</tt> (2653; 79%),
+<tt>VERB --[<a href="../dep/advcl.html">advcl</a>]--> VERB</tt> (680; 50%),
 <tt>VERB --[<a href="../dep/appos.html">appos</a>]--> VERB</tt> (14; 78%),
-<tt>VERB --[<a href="../dep/vocative.html">vocative</a>]--> PRON</tt> (1; 100%),
-<tt>VERB --[<a href="../dep/foreign.html">foreign</a>]--> PRON</tt> (1; 100%).
+<tt>VERB --[<a href="../dep/xcomp.html">xcomp</a>]--> PRON</tt> (2; 67%),
+<tt>VERB --[<a href="../dep/flat:foreign.html">flat:foreign</a>]--> PRON</tt> (1; 100%),
+<tt>VERB --[<a href="../dep/vocative.html">vocative</a>]--> PRON</tt> (1; 100%).
 
 
 
@@ -234,63 +221,64 @@ The 10 most frequent relations where parent and child node agree in `Person`:
 This feature is universal.
 It occurs with 1 different values: `3`.
 
-2167 tokens (6%) have a non-empty value of `Person`.
-369 types (8%) occur at least once with a non-empty value of `Person`.
-227 lemmas (9%) occur at least once with a non-empty value of `Person`.
-The feature is used with 4 part-of-speech tags: [cs-pos/VERB]() (1806; 5% instances), [cs-pos/DET]() (216; 1% instances), [cs-pos/AUX]() (74; 0% instances), [cs-pos/PRON]() (71; 0% instances).
+1487 tokens (6%) have a non-empty value of `Person`.
+285 types (8%) occur at least once with a non-empty value of `Person`.
+180 lemmas (8%) occur at least once with a non-empty value of `Person`.
+The feature is used with 4 part-of-speech tags: [cs-pos/VERB]() (966; 4% instances), [cs-pos/AUX]() (338; 1% instances), [cs-pos/DET]() (144; 1% instances), [cs-pos/PRON]() (39; 0% instances).
 
 ### `VERB`
 
-1806 [cs-pos/VERB]() tokens (72% of all `VERB` tokens) have a non-empty value of `Person`.
+966 [cs-pos/VERB]() tokens (68% of all `VERB` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (1806; 100%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (1806; 100%), <tt><a href="Voice.html">Voice</a>=Act</tt> (1806; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (1806; 100%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (1802; 100%), <tt><a href="Negative.html">Negative</a>=Pos</tt> (1566; 87%), <tt><a href="Number.html">Number</a>=Sing</tt> (1197; 66%).
+The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="Voice.html">Voice</a>=Act</tt> (966; 100%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (966; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (966; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (966; 100%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (965; 100%), <tt><a href="Polarity.html">Polarity</a>=Pos</tt> (843; 87%), <tt><a href="Number.html">Number</a>=Sing</tt> (674; 70%).
 
 `VERB` tokens may have the following values of `Person`:
 
-* `3` (1806; 100% of non-empty `Person`): <em>je, jsou, obsahuje, rozumí, může, uvede, mohou, není, nejsou, použijí</em>
-* `EMPTY` (711): <em>vést, použít, stanoveno, být, mít, účtovat, došlo, odpisovat, uvést, sestavena</em>
+* `3` (966; 100% of non-empty `Person`): <em>obsahuje, uvede, rozumí, může, účtuje, použijí, mohou, má, sestavují, mají</em>
+* `EMPTY` (462): <em>vést, použít, stanoveno, mít, účtovat, odpisovat, zahrnuty, obchodovány, přestaly, uvést</em>
 
-`Person` seems to be **lexical feature** of `VERB`. 100% lemmas (224) occur only with one value of `Person`.
-
-### `DET`
-
-216 [cs-pos/DET]() tokens (36% of all `DET` tokens) have a non-empty value of `Person`.
-
-The most frequent other feature values with which `DET` and `Person` co-occurred: <tt><a href="Poss.html">Poss</a>=Yes</tt> (216; 100%), <tt><a href="PronType.html">PronType</a>=Prs</tt> (195; 90%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (189; 88%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (184; 85%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (180; 83%), <tt><a href="Number[psor].html">Number[psor]</a>=Sing</tt> (111; 51%).
-
-`DET` tokens may have the following values of `Person`:
-
-* `3` (216; 100% of non-empty `Person`): <em>jejich, jeho, její, jejichž, jejího, jehož, jejím, jejímž, jejích, jejími</em>
-* `EMPTY` (379): <em>této, tohoto, těchto, tyto, tato, tento, tomto, tuto, toto, tímto</em>
+`Person` seems to be **lexical feature** of `VERB`. 100% lemmas (177) occur only with one value of `Person`.
 
 ### `AUX`
 
-74 [cs-pos/AUX]() tokens (44% of all `AUX` tokens) have a non-empty value of `Person`.
+338 [cs-pos/AUX]() tokens (77% of all `AUX` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `AUX` and `Person` co-occurred: <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (74; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (74; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (74; 100%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (58; 78%), <tt><a href="Voice.html">Voice</a>=Act</tt> (58; 78%), <tt><a href="Negative.html">Negative</a>=Pos</tt> (45; 61%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (40; 54%).
+The most frequent other feature values with which `AUX` and `Person` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (338; 100%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (329; 97%), <tt><a href="Voice.html">Voice</a>=Act</tt> (329; 97%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (310; 92%), <tt><a href="Polarity.html">Polarity</a>=Pos</tt> (291; 86%), <tt><a href="Number.html">Number</a>=Sing</tt> (174; 51%).
 
 `AUX` tokens may have the following values of `Person`:
 
-* `3` (74; 100% of non-empty `Person`): <em>by, je, nejsou, jsou, bude, budou, není</em>
-* `EMPTY` (96): <em>být, byly, byl, by, nebyly, byla, bylo, nebyl, nebyla</em>
+* `3` (338; 100% of non-empty `Person`): <em>je, jsou, nejsou, není, bude, by, budou</em>
+* `EMPTY` (100): <em>být, byly, je-li, by, byl, není-li, byla, jsou-li, nebyly, bylo</em>
+
+### `DET`
+
+144 [cs-pos/DET]() tokens (36% of all `DET` tokens) have a non-empty value of `Person`.
+
+The most frequent other feature values with which `DET` and `Person` co-occurred: <tt><a href="Poss.html">Poss</a>=Yes</tt> (144; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (130; 90%), <tt><a href="PronType.html">PronType</a>=Prs</tt> (129; 90%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (125; 87%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (122; 85%), <tt><a href="Gender[psor].html">Gender[psor]</a>=EMPTY</tt> (76; 53%), <tt><a href="Number[psor].html">Number[psor]</a>=Plur</tt> (76; 53%).
+
+`DET` tokens may have the following values of `Person`:
+
+* `3` (144; 100% of non-empty `Person`): <em>jejich, jeho, její, jejichž, jehož, jejího, jejím, jejích, jejími, jejímž</em>
+* `EMPTY` (261): <em>této, těchto, tyto, tohoto, tento, tato, tomto, své, tuto, toto</em>
 
 ### `PRON`
 
-71 [cs-pos/PRON]() tokens (6% of all `PRON` tokens) have a non-empty value of `Person`.
+39 [cs-pos/PRON]() tokens (5% of all `PRON` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="PronType.html">PronType</a>=Prs</tt> (71; 100%), <tt><a href="Reflex.html">Reflex</a>=EMPTY</tt> (71; 100%), <tt><a href="Variant.html">Variant</a>=EMPTY</tt> (70; 99%), <tt><a href="Number.html">Number</a>=Sing</tt> (36; 51%).
+The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="Reflex.html">Reflex</a>=EMPTY</tt> (39; 100%), <tt><a href="PronType.html">PronType</a>=Prs</tt> (39; 100%), <tt><a href="Variant.html">Variant</a>=EMPTY</tt> (39; 100%), <tt><a href="Number.html">Number</a>=Plur</tt> (24; 62%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (24; 62%).
 
 `PRON` tokens may have the following values of `Person`:
 
-* `3` (71; 100% of non-empty `Person`): <em>jej, je, jim, jí, ji, nich, ní, jimi, nimi, ně</em>
-* `EMPTY` (1141): <em>se, které, která, který, to, kterých, kterým, kterém, kterému, nichž</em>
+* `3` (39; 100% of non-empty `Person`): <em>je, jim, ji, nich, ní, jí, ně, jej, nimi, jemu</em>
+* `EMPTY` (773): <em>se, které, která, který, to, kterých, kterým, kterém, nichž, všech</em>
 
 ## Relations with Agreement in `Person`
 
 The 10 most frequent relations where parent and child node agree in `Person`:
-<tt>VERB --[<a href="../dep/conj.html">conj</a>]--> VERB</tt> (171; 84%),
-<tt>VERB --[<a href="../dep/advcl.html">advcl</a>]--> VERB</tt> (57; 59%),
-<tt>VERB --[<a href="../dep/parataxis.html">parataxis</a>]--> VERB</tt> (27; 87%),
-<tt>VERB --[<a href="../dep/csubjpass.html">csubjpass</a>]--> VERB</tt> (1; 100%),
-<tt>VERB --[<a href="../dep/appos.html">appos</a>]--> VERB</tt> (1; 100%).
+<tt>VERB --[<a href="../dep/conj.html">conj</a>]--> VERB</tt> (94; 76%),
+<tt>VERB --[<a href="../dep/advcl.html">advcl</a>]--> VERB</tt> (38; 59%),
+<tt>VERB --[<a href="../dep/parataxis.html">parataxis</a>]--> VERB</tt> (16; 94%),
+<tt>AUX --[<a href="../dep/conj.html">conj</a>]--> VERB</tt> (1; 100%),
+<tt>VERB --[<a href="../dep/appos.html">appos</a>]--> VERB</tt> (1; 100%),
+<tt>VERB --[<a href="../dep/csubj:pass.html">csubj:pass</a>]--> VERB</tt> (1; 100%).
 

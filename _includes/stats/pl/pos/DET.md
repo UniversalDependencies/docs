@@ -4,86 +4,89 @@
 
 ## Treebank Statistics (UD_Polish)
 
-There are 20 `DET` lemmas (0%), 97 `DET` types (0%) and 1053 `DET` tokens (1%).
-Out of 15 observed tags, the rank of `DET` is: 13 in number of lemmas, 8 in number of types and 13 in number of tokens.
+There are 25 `DET` lemmas (0%), 154 `DET` types (1%) and 1697 `DET` tokens (2%).
+Out of 15 observed tags, the rank of `DET` is: 11 in number of lemmas, 7 in number of types and 12 in number of tokens.
 
-The 10 most frequent `DET` lemmas: <em>ten, taki, wszystek, kilka, jakiś, każdy, żaden, jaki, wszelki, kilkanaście</em>
+The 10 most frequent `DET` lemmas: <em>ten, który, swój, taki, nasz, wszystek, kilka, mój, jakiś, każdy</em>
 
-The 10 most frequent `DET` types:  <em>tej, ten, tym, tego, te, kilka, tych, to, wszystkie, ta</em>
+The 10 most frequent `DET` types:  <em>ten, tej, tym, które, tego, który, kilka, która, te, tych</em>
 
-The 10 most frequent ambiguous lemmas: <em>ten</em> ([DET]() 564, [PRON]() 19), <em>taki</em> ([DET]() 106, [PRON]() 18), <em>wszystek</em> ([DET]() 73, [PRON]() 7), <em>kilka</em> ([DET]() 70, [PRON]() 8), <em>jakiś</em> ([DET]() 63, [PRON]() 2), <em>każdy</em> ([DET]() 36, [PRON]() 17), <em>żaden</em> ([DET]() 36, [PRON]() 6), <em>jaki</em> ([DET]() 25, [PRON]() 13), <em>kilkanaście</em> ([DET]() 12, [PRON]() 2), <em>niektóry</em> ([DET]() 11, [PRON]() 4, [NOUN]() 1)
+The 10 most frequent ambiguous lemmas: <em>niektóry</em> ([DET]() 15, [NOUN]() 1)
 
-The 10 most frequent ambiguous types:  <em>tej</em> ([DET]() 95, [PRON]() 1), <em>ten</em> ([DET]() 78, [PRON]() 5), <em>tym</em> ([DET]() 82, [PRON]() 81, [ADV]() 1), <em>tego</em> ([DET]() 70, [PRON]() 55), <em>tych</em> ([DET]() 47, [PRON]() 4), <em>to</em> ([PRON]() 226, [VERB]() 173, [DET]() 28, [CONJ]() 16), <em>wszystkie</em> ([DET]() 28, [PRON]() 1), <em>ta</em> ([DET]() 25, [PRON]() 1), <em>wszystkich</em> ([DET]() 27, [PRON]() 3), <em>takie</em> ([DET]() 21, [PRON]() 4)
+The 10 most frequent ambiguous types:  <em>tym</em> ([PRON]() 71, [DET]() 70, [ADV]() 1), <em>tego</em> ([DET]() 58, [PRON]() 50), <em>to</em> ([PRON]() 199, [AUX]() 78, [VERB]() 74, [DET]() 26, [CCONJ]() 13), <em>swoje</em> ([DET]() 28, [NOUN]() 2), <em>wszystkich</em> ([DET]() 24, [PRON]() 3), <em>ci</em> ([PRON]() 23, [DET]() 4), <em>wszyscy</em> ([PRON]() 12, [DET]() 7), <em>Niektórzy</em> ([DET]() 4, [NOUN]() 1), <em>wszystkim</em> ([PRON]() 21, [DET]() 3), <em>wszystkiego</em> ([PRON]() 3, [DET]() 1)
 
 
-* <em>tej</em>
-  * [DET]() 95: <em>Proszę bardzo , kto z państwa jest za przyjęciem <b>tej</b> poprawki ?</em>
-  * [PRON]() 1: <em>Bez <b>tej</b> ostatniej nie ma narodu .</em>
-* <em>ten</em>
-  * [DET]() 78: <em>Inwestorzy pomysł <b>ten</b> zwalczali .</em>
-  * [PRON]() 5: <em>Te wszystkie domy , <b>ten</b> , <b>ten</b> i <b>ten</b> , powstały z niego .</em>
 * <em>tym</em>
-  * [DET]() 82: <em>W <b>tym</b> numerze publikujemy dwa listy , które przyszły do naszej redakcji .</em>
-  * [PRON]() 81: <em>Ja nic o <b>tym</b> nie wiem .</em>
+  * [PRON]() 71: <em>Po prostu w <b>tym</b> nie uczestniczył em .</em>
+  * [DET]() 70: <em>W <b>tym</b> roku jego autorem jest piątka młodych absolwentów i studentów ASP .</em>
   * [ADV]() 1: <em>Z <b>tym</b> większą ciekawością zespół podejmował pracę z Grzegorzewskim , znanym ze swych niekonwencjonalnych przedstawień i metod pracy .</em>
 * <em>tego</em>
-  * [DET]() 70: <em>Do czerwca <b>tego</b> roku trwały aresztowania kolejnych sprawców .</em>
-  * [PRON]() 55: <em>Dlaczego miał by <b>tego</b> nie zrobić ?</em>
-* <em>tych</em>
-  * [DET]() 47: <em>Niemalże całość <b>tych</b> notatek dołączamy w Aneksie .</em>
-  * [PRON]() 4: <em>Oscylował em na pograniczu <b>tych</b> dwóch światów , mając dostęp do obu .</em>
+  * [DET]() 58: <em>Od <b>tego</b> czasu nie ma umowy o pracę .</em>
+  * [PRON]() 50: <em>Chyba od <b>tego</b> wszystkiego został em lunatykiem .</em>
 * <em>to</em>
-  * [PRON]() 226: <em>W Lubuskiem dotyczy <b>to</b> 39 tys . ubezpieczonych kobiet w LRKCh .</em>
-  * [VERB]() 173: <em>Opisane tu postawy <b>to</b> wady ludzkie znane od pokoleń .</em>
-  * [DET]() 28: <em>Głupi gówniarz , mogł em przecież zadać sobie <b>to</b> pytanie .</em>
-  * [CONJ]() 16: <em>Jeżeli nie masz , <b>to</b> by ś na pewno ukrywał , gdyby ś miał .</em>
-* <em>wszystkie</em>
-  * [DET]() 28: <em>Cofała się także artyleria , wystrzelawszy <b>wszystkie</b> ładunki .</em>
-  * [PRON]() 1: <em>Z ciał potopionych stryjów wylęgły się tysiące myszy i wyruszyły <b>wszystkie</b> do Kruszwicy , prosto na dwór zbrodniarza .</em>
-* <em>ta</em>
-  * [DET]() 25: <em>Inicjatywa <b>ta</b> została zaaprobowana .</em>
-  * [PRON]() 1: <em>W kontekście emocjonalnych , osobistych wypowiedzi <b>ta</b> budzi podejrzenie o nieautentyczność .</em>
+  * [PRON]() 199: <em>Musimy <b>to</b> zobaczyć .</em>
+  * [AUX]() 78: <em>Uświadomiła sobie , że kilkadziesiąt sekund <b>to</b> całe wieki .</em>
+  * [VERB]() 74: <em>- A <b>to</b> jest nieprawda .</em>
+  * [DET]() 26: <em>- Trochę mnie dziwi <b>to</b> pouczenie .</em>
+  * [CCONJ]() 13: <em>Jeżeli nie masz , <b>to</b> by ś na pewno ukrywał , gdyby ś miał .</em>
+* <em>swoje</em>
+  * [DET]() 28: <em>Spanikowani Hutu porzucili <b>swoje</b> szałasy z plastikowej folii .</em>
+  * [NOUN]() 2: <em>Również państwo bardzo się starało , żeby księża wzięli <b>swoje</b> .</em>
 * <em>wszystkich</em>
-  * [DET]() 27: <em>Dotyczy to <b>wszystkich</b> kategorii zawodowych .</em>
+  * [DET]() 24: <em>Kocham was <b>wszystkich</b> .</em>
   * [PRON]() 3: <em>Ilu jest <b>wszystkich</b> ?</em>
-* <em>takie</em>
-  * [DET]() 21: <em>W 1993 roku <b>takie</b> osoby stanowiły 20 proc .</em>
-  * [PRON]() 4: <em>– Masz <b>takie</b> męskie dłonie , January .</em>
+* <em>ci</em>
+  * [PRON]() 23: <em>Podoba <b>ci</b> się ?</em>
+  * [DET]() 4: <em>We wtorek <b>ci</b> sami uczestnicy licytacji zaproponowali 1.500 zł .</em>
+* <em>wszyscy</em>
+  * [PRON]() 12: <em>O tym poprzednim <b>wszyscy</b> rychło zapominają .</em>
+  * [DET]() 7: <em>– W Odeonie grają ten film , o którym opowiadają <b>wszyscy</b> Polacy .</em>
+* <em>Niektórzy</em>
+  * [DET]() 4: <em><b>Niektórzy</b> pytają , po co to robię ?</em>
+  * [NOUN]() 1: <em><b>Niektórzy</b> twierdzą , że patrząc na nich można to zauważyć . . .</em>
+* <em>wszystkim</em>
+  * [PRON]() 21: <em>O <b>wszystkim</b> dowie się po powrocie .</em>
+  * [DET]() 3: <em>Dziś znaczna część naszych rodaków w ogóle nie rozumie , o co w tym <b>wszystkim</b> chodzi .</em>
+* <em>wszystkiego</em>
+  * [PRON]() 3: <em>Piotr nie powiedział mi <b>wszystkiego</b> .</em>
+  * [DET]() 1: <em>Chyba od tego <b>wszystkiego</b> został em lunatykiem .</em>
 
 ## Morphology
 
-The form / lemma ratio of `DET` is 4.850000 (the average of all parts of speech is 1.801337).
+The form / lemma ratio of `DET` is 6.160000 (the average of all parts of speech is 1.696102).
 
-The 1st highest number of forms (13) was observed with the lemma “ten”: <em>Temu, ci, ta, te, tego, tej, ten, to, tych, tym, tymi, tą, tę</em>.
+The 1st highest number of forms (15) was observed with the lemma “swój”: <em>Swoja, swe, swego, swej, swemu, swoich, swoim, swoje, swojego, swojej, swoją, swych, swym, swój, swą</em>.
 
-The 2nd highest number of forms (10) was observed with the lemma “taki”: <em>tacy, taka, taki, takich, takie, takiego, takiej, takim, takimi, taką</em>.
+The 2nd highest number of forms (13) was observed with the lemma “ten”: <em>Temu, ci, ta, te, tego, tej, ten, to, tych, tym, tymi, tą, tę</em>.
 
-The 3rd highest number of forms (9) was observed with the lemma “jakiś”: <em>jacyś, jakaś, jakichś, jakiegoś, jakiejś, jakieś, jakimś, jakiś, jakąś</em>.
+The 3rd highest number of forms (11) was observed with the lemma “który”: <em>która, które, którego, której, któremu, który, których, którym, którymi, którzy, którą</em>.
 
-`DET` occurs with 7 features: [pl-feat/Case]() (1053; 100% instances), [pl-feat/Gender]() (1053; 100% instances), [pl-feat/Number]() (1053; 100% instances), [pl-feat/PronType]() (1053; 100% instances), [pl-feat/Degree]() (955; 91% instances), [pl-feat/Animacy]() (530; 50% instances), [pl-feat/NumType]() (98; 9% instances)
+`DET` occurs with 10 features: [pl-feat/Case]() (1697; 100% instances), [pl-feat/Gender]() (1697; 100% instances), [pl-feat/Number]() (1697; 100% instances), [pl-feat/PronType]() (1697; 100% instances), [pl-feat/Animacy]() (846; 50% instances), [pl-feat/Poss]() (376; 22% instances), [pl-feat/Number[psor]]() (198; 12% instances), [pl-feat/Person]() (198; 12% instances), [pl-feat/Reflex]() (178; 10% instances), [pl-feat/NumType]() (101; 6% instances)
 
-`DET` occurs with 21 feature-value pairs: `Animacy=Anim`, `Animacy=Inan`, `Animacy=Nhum`, `Case=Acc`, `Case=Dat`, `Case=Gen`, `Case=Ins`, `Case=Loc`, `Case=Nom`, `Degree=Pos`, `Gender=Fem`, `Gender=Masc`, `Gender=Neut`, `NumType=Card`, `Number=Plur`, `Number=Sing`, `PronType=Dem`, `PronType=Ind`, `PronType=Int,Rel`, `PronType=Neg`, `PronType=Tot`
+`DET` occurs with 28 feature-value pairs: `Animacy=Hum`, `Animacy=Inan`, `Animacy=Nhum`, `Case=Acc`, `Case=Dat`, `Case=Gen`, `Case=Ins`, `Case=Loc`, `Case=Nom`, `Case=Voc`, `Gender=Fem`, `Gender=Masc`, `Gender=Neut`, `NumType=Card`, `Number=Plur`, `Number=Sing`, `Number[psor]=Plur`, `Number[psor]=Sing`, `Person=1`, `Person=2`, `Poss=Yes`, `PronType=Dem`, `PronType=Ind`, `PronType=Int,Rel`, `PronType=Neg`, `PronType=Prs`, `PronType=Tot`, `Reflex=Yes`
 
-`DET` occurs with 153 feature combinations.
-The most frequent feature combination is `Animacy=Inan|Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|PronType=Dem` (64 tokens).
+`DET` occurs with 310 feature combinations.
+The most frequent feature combination is `Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing|PronType=Dem` (53 tokens).
 Examples: <em>tego, takiego, owego</em>
 
 
 ## Relations
 
-`DET` nodes are attached to their parents using 3 different relations: [pl-dep/det]() (955; 91% instances), [pl-dep/det:numgov]() (93; 9% instances), [pl-dep/det:nummod]() (5; 0% instances)
+`DET` nodes are attached to their parents using 16 different relations: [pl-dep/det]() (1190; 70% instances), [pl-dep/nsubj]() (216; 13% instances), [pl-dep/det:numgov]() (87; 5% instances), [pl-dep/obj]() (72; 4% instances), [pl-dep/obl]() (60; 4% instances), [pl-dep/amod]() (23; 1% instances), [pl-dep/iobj]() (10; 1% instances), [pl-dep/nsubj:pass]() (10; 1% instances), [pl-dep/root]() (9; 1% instances), [pl-dep/xcomp]() (7; 0% instances), [pl-dep/conj]() (4; 0% instances), [pl-dep/det:nummod]() (4; 0% instances), [pl-dep/acl]() (2; 0% instances), [pl-dep/appos]() (1; 0% instances), [pl-dep/case]() (1; 0% instances), [pl-dep/ccomp]() (1; 0% instances)
 
-Parents of `DET` nodes belong to 3 different parts of speech: [NOUN]() (1028; 98% instances), [PRON]() (19; 2% instances), [PROPN]() (6; 1% instances)
+Parents of `DET` nodes belong to 9 different parts of speech: [NOUN]() (1270; 75% instances), [VERB]() (328; 19% instances), [ADJ]() (40; 2% instances), [PRON]() (23; 1% instances), [PROPN]() (14; 1% instances), [ROOT]() (9; 1% instances), [NUM]() (8; 0% instances), [DET]() (4; 0% instances), [ADV]() (1; 0% instances)
 
-1012 (96%) `DET` nodes are leaves.
+1537 (91%) `DET` nodes are leaves.
 
-35 (3%) `DET` nodes have one child.
+131 (8%) `DET` nodes have one child.
 
-6 (1%) `DET` nodes have two children.
+14 (1%) `DET` nodes have two children.
 
-The highest child degree of a `DET` node is 2.
+15 (1%) `DET` nodes have three or more children.
 
-Children of `DET` nodes are attached using 3 different relations: [pl-dep/advmod]() (24; 51% instances), [pl-dep/nmod]() (21; 45% instances), [pl-dep/case]() (2; 4% instances)
+The highest child degree of a `DET` node is 6.
 
-Children of `DET` nodes belong to 8 different parts of speech: [PART]() (19; 40% instances), [NOUN]() (9; 19% instances), [ADV]() (8; 17% instances), [ADP]() (3; 6% instances), [PRON]() (3; 6% instances), [ADJ]() (2; 4% instances), [PROPN]() (2; 4% instances), [X]() (1; 2% instances)
+Children of `DET` nodes are attached using 10 different relations: [pl-dep/case]() (83; 39% instances), [pl-dep/nmod]() (28; 13% instances), [pl-dep/obl]() (26; 12% instances), [pl-dep/advmod]() (24; 11% instances), [pl-dep/punct]() (20; 9% instances), [pl-dep/cop]() (13; 6% instances), [pl-dep/nsubj]() (13; 6% instances), [pl-dep/conj]() (3; 1% instances), [pl-dep/cc]() (2; 1% instances), [pl-dep/amod]() (1; 0% instances)
+
+Children of `DET` nodes belong to 13 different parts of speech: [ADP]() (83; 39% instances), [NOUN]() (45; 21% instances), [PUNCT]() (20; 9% instances), [PART]() (19; 9% instances), [AUX]() (13; 6% instances), [ADV]() (9; 4% instances), [PRON]() (7; 3% instances), [ADJ]() (5; 2% instances), [DET]() (4; 2% instances), [CCONJ]() (3; 1% instances), [PROPN]() (3; 1% instances), [VERB]() (1; 0% instances), [X]() (1; 0% instances)
 

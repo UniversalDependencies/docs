@@ -66,4 +66,4 @@ FI_FTB does not apply the `parataxis` relation.
 Instead, the phenomena of implicit coordination,
 parenthetical clauses, interjected clauses and direct speech
 have been described using some other, most applicable
-relation available (usually [`conj`]() or [`dobj`]()).
+relation available (usually [`conj`]() or [`obj`]()).

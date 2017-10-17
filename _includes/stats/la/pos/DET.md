@@ -4,52 +4,31 @@
 
 ## Treebank Statistics (UD_Latin-ITTB)
 
-There are 10 `DET` lemmas (0%), 63 `DET` types (0%) and 3138 `DET` tokens (1%).
-Out of 15 observed tags, the rank of `DET` is: 11 in number of lemmas, 9 in number of types and 11 in number of tokens.
+There are 11 `DET` lemmas (0%), 63 `DET` types (0%) and 3791 `DET` tokens (1%).
+Out of 15 observed tags, the rank of `DET` is: 12 in number of lemmas, 10 in number of types and 11 in number of tokens.
 
-The 10 most frequent `DET` lemmas: <em>suus, omnis, noster, tuus, meus, ceterus, vester, cunctus, plurimus, reliquus</em>
+The 10 most frequent `DET` lemmas: <em>omnis, suus, noster, tuus, meus, ceterus, cunctus, reliquus, vester, plerusque</em>
 
-The 10 most frequent `DET` types:  <em>suam, sua, omnis, suum, omnes, omne, suae, omnia, omnibus, omnium</em>
+The 10 most frequent `DET` types:  <em>omnia, suam, sua, omne, omnis, omnes, suum, omnibus, omnium, suae</em>
 
-The 10 most frequent ambiguous lemmas: <em>suus</em> ([DET]() 1468, [PRON]() 81), <em>omnis</em> ([DET]() 1300, [PRON]() 717), <em>noster</em> ([DET]() 279, [PRON]() 15), <em>tuus</em> ([DET]() 34, [PRON]() 2), <em>meus</em> ([DET]() 32, [PRON]() 3), <em>ceterus</em> ([DET]() 14, [PRON]() 4), <em>cunctus</em> ([PRON]() 15, [DET]() 3), <em>reliquus</em> ([PRON]() 2, [DET]() 1)
+The 10 most frequent ambiguous lemmas: 
 
-The 10 most frequent ambiguous types:  <em>suam</em> ([DET]() 406, [PRON]() 1), <em>sua</em> ([DET]() 397, [PRON]() 7), <em>omnis</em> ([DET]() 296, [PRON]() 4), <em>suum</em> ([DET]() 248, [PRON]() 45), <em>omnes</em> ([DET]() 237, [PRON]() 41), <em>omne</em> ([DET]() 178, [PRON]() 149), <em>suae</em> ([DET]() 160, [PRON]() 1), <em>omnia</em> ([PRON]() 325, [DET]() 157), <em>omnibus</em> ([DET]() 142, [PRON]() 100), <em>omnium</em> ([DET]() 138, [PRON]() 92)
+The 10 most frequent ambiguous types:  <em>sui</em> ([PRON]() 81, [DET]() 73), <em>mei</em> ([DET]() 5, [PRON]() 1), <em>plurimas</em> ([ADJ]() 3, [DET]() 1)
 
 
-* <em>suam</em>
-  * [DET]() 406: <em>agit enim alicuius participatione , non per essentiam <b>suam</b> .</em>
-  * [PRON]() 1: <em>dato igitur , per impossibile , quod intellectus divinus solum incomplexa cognosceret , adhuc esset verus , cognoscendo suam quidditatem ut <b>suam</b> .</em>
-* <em>sua</em>
-  * [DET]() 397: <em>unde et <b>sua</b> veritas est omnis veritatis principium ;</em>
-  * [PRON]() 7: <em>non igitur successive , sed simul omnia <b>sua</b> cognita considerat .</em>
-* <em>omnis</em>
-  * [DET]() 296: <em>et in militari respectu equestris et <b>omnis</b> bellici apparatus .</em>
-  * [PRON]() 4: <em><b>omnis</b> ratiocinans alia consideratione intuetur principia et conclusionem :</em>
-* <em>suum</em>
-  * [DET]() 248: <em>nobis autem revelavit deus per spiritum <b>suum</b> .</em>
-  * [PRON]() 45: <em>esse dei est <b>suum</b> intelligere .</em>
-* <em>omnes</em>
-  * [DET]() 237: <em>ergo <b>omnes</b> aliae tollentur , quae sunt mediae .</em>
-  * [PRON]() 41: <em>non igitur una earum causatur ab alia , sed <b>omnes</b> immediate a deo .</em>
-* <em>omne</em>
-  * [DET]() 178: <em>sicut <b>omne</b> totum sua parte maius esse , per se notum est simpliciter :</em>
-  * [PRON]() 149: <em><b>omne</b> quod movetur , ab alio movetur .</em>
-* <em>suae</em>
-  * [DET]() 160: <em>non enim participant genus quasi partem <b>suae</b> essentiae :</em>
-  * [PRON]() 1: <em>effectum excedere <b>suae</b> causae perfectionem non contingit , interdum tamen ab ea deficit .</em>
-* <em>omnia</em>
-  * [PRON]() 325: <em>nec simul <b>omnia</b> :</em>
-  * [DET]() 157: <em>illud per se notum oportet esse quo <b>omnia</b> alia cognoscuntur .</em>
-* <em>omnibus</em>
-  * [DET]() 142: <em>quia primum est causa movendi <b>omnibus</b> aliis .</em>
-  * [PRON]() 100: <em>cuius contrarium patet ex <b>omnibus</b> loquentibus de divinis .</em>
-* <em>omnium</em>
-  * [DET]() 138: <em>non est igitur nisi unus <b>omnium</b> rerum gubernator , quem deum dicimus .</em>
-  * [PRON]() 92: <em>deus autem est <b>omnium</b> causa .</em>
+* <em>sui</em>
+  * [PRON]() 81: <em>quod igitur non est totus actus , non toto se agit , sed aliquo <b>sui</b> .</em>
+  * [DET]() 73: <em>damascenus etiam , in secundo <b>sui</b> libri , dicit :</em>
+* <em>mei</em>
+  * [DET]() 5: <em>in domo patris <b>mei</b> mansiones multae sunt .</em>
+  * [PRON]() 1: <em>a deo abscondar , et ex summo quis <b>mei</b> memorabitur ?</em>
+* <em>plurimas</em>
+  * [ADJ]() 3: <em>rerum enim sensibilium <b>plurimas</b> proprietates ignoramus , earumque proprietatum quas sensu apprehendimus rationes perfecte in pluribus invenire non possumus .</em>
+  * [DET]() 1: <em>primo enim perficitur per quatuor formas elementares , post per <b>plurimas</b> formas mixtorum corporum .</em>
 
 ## Morphology
 
-The form / lemma ratio of `DET` is 6.300000 (the average of all parts of speech is 3.667841).
+The form / lemma ratio of `DET` is 5.727273 (the average of all parts of speech is 3.636929).
 
 The 1st highest number of forms (12) was observed with the lemma “suus”: <em>sua, suae, suam, suarum, suas, sui, suis, suo, suorum, suos, suum, suus</em>.
 
@@ -57,34 +36,34 @@ The 2nd highest number of forms (11) was observed with the lemma “noster”: <
 
 The 3rd highest number of forms (10) was observed with the lemma “tuus”: <em>tua, tuae, tuam, tuarum, tui, tuis, tuo, tuos, tuum, tuus</em>.
 
-`DET` occurs with 6 features: [la-feat/Case]() (3138; 100% instances), [la-feat/Degree]() (3138; 100% instances), [la-feat/Number]() (3138; 100% instances), [la-feat/PronType]() (3138; 100% instances), [la-feat/Gender]() (3128; 100% instances), [la-feat/Poss]() (1819; 58% instances)
+`DET` occurs with 6 features: [la-feat/Case]() (3791; 100% instances), [la-feat/Degree]() (3791; 100% instances), [la-feat/Number]() (3791; 100% instances), [la-feat/PronType]() (3791; 100% instances), [la-feat/Gender]() (3781; 100% instances), [la-feat/Poss]() (1840; 49% instances)
 
 `DET` occurs with 15 feature-value pairs: `Case=Abl`, `Case=Acc`, `Case=Dat`, `Case=Gen`, `Case=Nom`, `Degree=Pos`, `Degree=Sup`, `Gender=Fem`, `Gender=Masc`, `Gender=Neut`, `Number=Plur`, `Number=Sing`, `Poss=Yes`, `PronType=Ind`, `PronType=Prs`
 
 `DET` occurs with 66 feature combinations.
-The most frequent feature combination is `Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs` (427 tokens).
+The most frequent feature combination is `Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs` (420 tokens).
 Examples: <em>suam, nostram, tuam, meam</em>
 
 
 ## Relations
 
-`DET` nodes are attached to their parents using 3 different relations: [la-dep/det]() (3134; 100% instances), [la-dep/acl]() (2; 0% instances), [la-dep/nsubjpass]() (2; 0% instances)
+`DET` nodes are attached to their parents using 16 different relations: [la-dep/det]() (3120; 82% instances), [la-dep/obj]() (188; 5% instances), [la-dep/nsubj]() (177; 5% instances), [la-dep/nsubj:pass]() (99; 3% instances), [la-dep/amod]() (79; 2% instances), [la-dep/obl]() (69; 2% instances), [la-dep/conj]() (21; 1% instances), [la-dep/dep]() (8; 0% instances), [la-dep/iobj]() (7; 0% instances), [la-dep/xcomp]() (7; 0% instances), [la-dep/orphan]() (5; 0% instances), [la-dep/root]() (4; 0% instances), [la-dep/ccomp]() (3; 0% instances), [la-dep/acl]() (2; 0% instances), [la-dep/advcl]() (1; 0% instances), [la-dep/appos]() (1; 0% instances)
 
-Parents of `DET` nodes belong to 4 different parts of speech: [NOUN]() (2905; 93% instances), [PRON]() (129; 4% instances), [ADJ]() (95; 3% instances), [PROPN]() (9; 0% instances)
+Parents of `DET` nodes belong to 10 different parts of speech: [NOUN]() (2880; 76% instances), [VERB]() (588; 16% instances), [ADJ]() (148; 4% instances), [PRON]() (129; 3% instances), [NUM]() (17; 0% instances), [ADV]() (10; 0% instances), [PROPN]() (10; 0% instances), [DET]() (4; 0% instances), [ROOT]() (4; 0% instances), [X]() (1; 0% instances)
 
-3108 (99%) `DET` nodes are leaves.
+3377 (89%) `DET` nodes are leaves.
 
-18 (1%) `DET` nodes have one child.
+314 (8%) `DET` nodes have one child.
 
-3 (0%) `DET` nodes have two children.
+68 (2%) `DET` nodes have two children.
 
-9 (0%) `DET` nodes have three or more children.
+32 (1%) `DET` nodes have three or more children.
 
-The highest child degree of a `DET` node is 6.
+The highest child degree of a `DET` node is 7.
 
-Children of `DET` nodes are attached using 11 different relations: [la-dep/neg]() (15; 23% instances), [la-dep/cc]() (13; 20% instances), [la-dep/conj]() (11; 17% instances), [la-dep/advmod:emph]() (6; 9% instances), [la-dep/nmod]() (6; 9% instances), [la-dep/punct]() (6; 9% instances), [la-dep/cop]() (2; 3% instances), [la-dep/nsubjpass]() (2; 3% instances), [la-dep/advmod]() (1; 2% instances), [la-dep/amod]() (1; 2% instances), [la-dep/case]() (1; 2% instances)
+Children of `DET` nodes are attached using 23 different relations: [la-dep/acl]() (244; 42% instances), [la-dep/case]() (93; 16% instances), [la-dep/punct]() (41; 7% instances), [la-dep/advmod]() (33; 6% instances), [la-dep/amod]() (26; 5% instances), [la-dep/cc]() (24; 4% instances), [la-dep/conj]() (24; 4% instances), [la-dep/nmod]() (17; 3% instances), [la-dep/cop]() (15; 3% instances), [la-dep/advmod:emph]() (13; 2% instances), [la-dep/obl]() (11; 2% instances), [la-dep/nsubj]() (8; 1% instances), [la-dep/mark]() (7; 1% instances), [la-dep/ccomp]() (5; 1% instances), [la-dep/appos]() (4; 1% instances), [la-dep/nsubj:pass]() (2; 0% instances), [la-dep/orphan]() (2; 0% instances), [la-dep/advcl]() (1; 0% instances), [la-dep/csubj]() (1; 0% instances), [la-dep/csubj:pass]() (1; 0% instances), [la-dep/dep]() (1; 0% instances), [la-dep/obj]() (1; 0% instances), [la-dep/xcomp]() (1; 0% instances)
 
-Children of `DET` nodes belong to 8 different parts of speech: [ADV]() (19; 30% instances), [CONJ]() (15; 23% instances), [PRON]() (13; 20% instances), [ADJ]() (7; 11% instances), [PUNCT]() (6; 9% instances), [VERB]() (2; 3% instances), [ADP]() (1; 2% instances), [NOUN]() (1; 2% instances)
+Children of `DET` nodes belong to 12 different parts of speech: [VERB]() (236; 41% instances), [ADP]() (93; 16% instances), [ADJ]() (54; 9% instances), [ADV]() (43; 7% instances), [PUNCT]() (41; 7% instances), [PRON]() (38; 7% instances), [CCONJ]() (27; 5% instances), [NOUN]() (16; 3% instances), [AUX]() (15; 3% instances), [SCONJ]() (7; 1% instances), [DET]() (4; 1% instances), [PROPN]() (1; 0% instances)
 
 
 
@@ -92,79 +71,87 @@ Children of `DET` nodes belong to 8 different parts of speech: [ADV]() (19; 30% 
 
 ## Treebank Statistics (UD_Latin-PROIEL)
 
-There are 4 `DET` lemmas (0%), 28 `DET` types (0%) and 152 `DET` tokens (0%).
-Out of 13 observed tags, the rank of `DET` is: 13 in number of lemmas, 11 in number of types and 13 in number of tokens.
+There are 28 `DET` lemmas (0%), 191 `DET` types (1%) and 3385 `DET` tokens (2%).
+Out of 14 observed tags, the rank of `DET` is: 9 in number of lemmas, 7 in number of types and 11 in number of tokens.
 
-The 10 most frequent `DET` lemmas: <em>ipse, ille, hic, iste</em>
+The 10 most frequent `DET` lemmas: <em>omnis, hic, is, ille, ipse, alius, iste, quidam, idem, nullus</em>
 
-The 10 most frequent `DET` types:  <em>ille, ipse, ipsa, illum, illi, ipsam, illa, ipsius, ipso, illis</em>
+The 10 most frequent `DET` types:  <em>omnes, omnibus, hoc, omni, omnis, his, ipsum, omnia, omnium, eius</em>
 
-The 10 most frequent ambiguous lemmas: <em>ipse</em> ([ADJ]() 461, [PRON]() 347, [DET]() 75), <em>ille</em> ([ADJ]() 2001, [DET]() 73), <em>hic</em> ([ADJ]() 1804, [ADV]() 112, [DET]() 2), <em>iste</em> ([ADJ]() 198, [DET]() 2)
+The 10 most frequent ambiguous lemmas: <em>omnis</em> ([DET]() 835, [ADJ]() 562), <em>hic</em> ([ADJ]() 1139, [DET]() 626, [ADV]() 73), <em>is</em> ([PRON]() 3681, [DET]() 378, [ADJ]() 78), <em>ille</em> ([ADJ]() 1565, [DET]() 372), <em>ipse</em> ([PRON]() 354, [DET]() 291, [ADJ]() 102), <em>alius</em> ([ADJ]() 194, [DET]() 143), <em>iste</em> ([DET]() 127, [ADJ]() 50), <em>quidam</em> ([DET]() 120, [ADJ]() 105), <em>idem</em> ([DET]() 115, [ADJ]() 58, [ADV]() 1), <em>nullus</em> ([DET]() 104, [ADJ]() 22)
 
-The 10 most frequent ambiguous types:  <em>ille</em> ([ADJ]() 230, [DET]() 21), <em>ipse</em> ([PRON]() 137, [ADJ]() 105, [DET]() 18), <em>ipsa</em> ([ADJ]() 63, [DET]() 13, [PRON]() 4), <em>illum</em> ([ADJ]() 275, [DET]() 11), <em>illi</em> ([ADJ]() 373, [DET]() 10), <em>ipsam</em> ([DET]() 9, [ADJ]() 8), <em>illa</em> ([ADJ]() 141, [DET]() 9), <em>ipsius</em> ([PRON]() 31, [ADJ]() 29, [DET]() 8), <em>ipso</em> ([ADJ]() 67, [PRON]() 28, [DET]() 7), <em>illis</em> ([ADJ]() 351, [DET]() 5)
+The 10 most frequent ambiguous types:  <em>omnes</em> ([DET]() 190, [ADJ]() 174), <em>omnibus</em> ([DET]() 152, [ADJ]() 94), <em>hoc</em> ([ADJ]() 291, [DET]() 120), <em>omni</em> ([DET]() 105, [ADJ]() 6), <em>omnis</em> ([DET]() 102, [ADJ]() 53), <em>his</em> ([ADJ]() 155, [DET]() 67), <em>ipsum</em> ([DET]() 96, [PRON]() 37, [ADJ]() 6), <em>omnia</em> ([ADJ]() 207, [DET]() 96), <em>omnium</em> ([DET]() 81, [ADJ]() 18), <em>eius</em> ([PRON]() 696, [DET]() 74, [ADJ]() 2)
 
 
-* <em>ille</em>
-  * [ADJ]() 230: <em>instat hic nunc <b>ille</b> annus egregius</em>
-  * [DET]() 21: <em>domine recordati sumus quia seductor <b>ille</b> dixit adhuc vivens</em>
-* <em>ipse</em>
-  * [PRON]() 137: <em><b>ipse</b> in Treveros proficiscitur</em>
-  * [ADJ]() 105: <em>ego autem <b>ipse</b> di boni quo.modo ἐνεπερπερευσάμην novo auditori Pompeio</em>
-  * [DET]() 18: <em>lectus est etiam locus <b>ipse</b> de libro Moysi iuxta consuetudinem</em>
-* <em>ipsa</em>
-  * [ADJ]() 63: <em>valde desidero ne que ego magis quam <b>ipsa</b> res et tempus poscit</em>
-  * [DET]() 13: <em>Verum autem in <b>ipsa</b> summitate montis illius mediani nullus commanet</em>
-  * [PRON]() 4: <em>Spiritus enim Sanctus docebit vos in <b>ipsa</b> hora quae oporteat dicere</em>
-* <em>illum</em>
-  * [ADJ]() 275: <em>eos sibi responsum rettulisse <b>illum</b> non habere</em>
-  * [DET]() 11: <em>Ostenderunt etiam et <b>illum</b> locum ubi eis pluit manna et coturnices</em>
-* <em>illi</em>
-  * [ADJ]() 373: <em><b>illi</b> domi remanent</em>
-  * [DET]() 10: <em>verumtamen vae <b>illi</b> homini per quem traditur</em>
-* <em>ipsam</em>
-  * [DET]() 9: <em>Tunc uidentes hoc Persae auerterunt <b>ipsam</b> aquam a ciuitate et fecerunt ei decursum contra ipso loco ubi ipsi castra posita habebant</em>
-  * [ADJ]() 8: <em>et si domus super se met <b>ipsam</b> dispertiatur non poterit domus illa stare</em>
-* <em>illa</em>
-  * [ADJ]() 141: <em>nunc fit lepide <b>illa</b> ἔκχυσις radiorum</em>
-  * [DET]() 9: <em>Habebat autem de eo loco ad montem Dei forsitan quattuor milia totum per ualle <b>illa</b> quam dixi ingens</em>
-* <em>ipsius</em>
-  * [PRON]() 31: <em><b>ipsius</b> enim et genus sumus</em>
-  * [ADJ]() 29: <em>Aut cur de sua virtute aut de <b>ipsius</b> diligentia desperarent</em>
-  * [DET]() 8: <em>Nam de hostio <b>ipsius</b> ecclesiae uidimus locum ubi intrat Iordanis in mare mortuum qui locus subter nos quemadmodum stabamus parebat</em>
-* <em>ipso</em>
-  * [ADJ]() 67: <em>si se in turba ei iam obtulerit occisum iri ab <b>ipso</b> Milone video</em>
-  * [PRON]() 28: <em>dicebat ergo ad turbas quae exiebant ut baptizarentur ab <b>ipso</b></em>
-  * [DET]() 7: <em>nam lapis grandis ibi fixus stat in <b>ipso</b> loco</em>
-* <em>illis</em>
-  * [ADJ]() 351: <em>sed iam tempus est me ipsum a me amari quando ab <b>illis</b> nullo modo possum</em>
-  * [DET]() 5: <em>de ceteris autem <b>illis</b> ciuitatibus nichil aliud apparet nisi subuersio ruinarum quemadmodum in cinerem conuerse sunt</em>
+* <em>omnes</em>
+  * [DET]() 190: <em>qui curabantur <b>omnes</b></em>
+  * [ADJ]() 174: <em>et <b>omnes</b> mirabantur</em>
+* <em>omnibus</em>
+  * [DET]() 152: <em>quod minimum quidem est <b>omnibus</b> seminibus</em>
+  * [ADJ]() 94: <em>et subductis ad terram navibus relictis <b>omnibus</b> secuti sunt illum</em>
+* <em>hoc</em>
+  * [ADJ]() 291: <em>nonne et publicani <b>hoc</b> faciunt</em>
+  * [DET]() 120: <em>quoniam si est ex hominibus consilium <b>hoc</b> aut opus dissolvetur</em>
+* <em>omni</em>
+  * [DET]() 105: <em>et placuit sermo coram <b>omni</b> multitudine</em>
+  * [ADJ]() 6: <em><b>omni</b> autem cui multum datum est multum quaeretur ab eo</em>
+* <em>omnis</em>
+  * [DET]() 102: <em>ecce venit cum nubibus et videbit eum <b>omnis</b> oculus et qui eum pupugerunt</em>
+  * [ADJ]() 53: <em><b>omnis</b> qui irascitur fratri suo reus erit iudicio</em>
+* <em>his</em>
+  * [ADJ]() 155: <em>quod autem <b>his</b> abundantius est a malo est</em>
+  * [DET]() 67: <em>videte ne contemnatis unum ex <b>his</b> pusillis</em>
+* <em>ipsum</em>
+  * [DET]() 96: <em>sed iam tempus est me <b>ipsum</b> a me amari quando ab illis nullo modo possum</em>
+  * [PRON]() 37: <em>alioquin rumpet vinum novum utres et <b>ipsum</b> effundetur et utres peribunt</em>
+  * [ADJ]() 6: <em>non est autem scriptum tantum propter <b>ipsum</b> quia reputatum est illi</em>
+* <em>omnia</em>
+  * [ADJ]() 207: <em>fili tu semper me cum es et <b>omnia</b> mea tua sunt</em>
+  * [DET]() 96: <em>ite et stantes loquimini in templo plebi <b>omnia</b> verba vitae huius</em>
+* <em>omnium</em>
+  * [DET]() 81: <em>hic est <b>omnium</b> Dominus</em>
+  * [ADJ]() 18: <em>et nos testes sumus <b>omnium</b> quae fecit in regione Iudaeorum et Hierusalem</em>
+* <em>eius</em>
+  * [PRON]() 696: <em>dicebat enim quia si vel vestimentum <b>eius</b> tetigero salva ero</em>
+  * [DET]() 74: <em>multa signa sunt <b>eius</b> rei</em>
+  * [ADJ]() 2: <em>pelles pro velis alutae que tenuiter confectae sive propter inopiam lini atque <b>eius</b> usus inscientiam sive eo quod est magis veri simile quod tantas tempestates Oceani tantos que impetus ventorum sustineri ac tanta onera navium regi velis non satis commode posse arbitrabantur</em>
 
 ## Morphology
 
-The form / lemma ratio of `DET` is 7.000000 (the average of all parts of speech is 3.304580).
+The form / lemma ratio of `DET` is 6.821429 (the average of all parts of speech is 3.260792).
 
-The 1st highest number of forms (12) was observed with the lemma “ille”: <em>illa, illam, illas, ille, illi, illis, illius, illo, illorum, illos, illud, illum</em>.
+The 1st highest number of forms (17) was observed with the lemma “hic”: <em>hac, hae, haec, hanc, harum, has, hi, hic, hii, his, hoc, horum, hos, huic, huius, huiusce, hunc</em>.
 
-The 2nd highest number of forms (12) was observed with the lemma “ipse”: <em>ipsa, ipsae, ipsam, ipsas, ipse, ipsi, ipsis, ipsius, ipso, ipsorum, ipsos, ipsum</em>.
+The 2nd highest number of forms (16) was observed with the lemma “is”: <em>ea, eae, eam, earum, eas, ei, eis, eius, eo, eorum, eos, eum, id, ii, iis, is</em>.
 
-The 3rd highest number of forms (2) was observed with the lemma “hic”: <em>hoc, huius</em>.
+The 3rd highest number of forms (14) was observed with the lemma “ille”: <em>illa, illae, illam, illarum, illas, ille, illi, illis, illius, illo, illorum, illos, illud, illum</em>.
 
-`DET` occurs with 3 features: [la-feat/Case]() (152; 100% instances), [la-feat/Number]() (152; 100% instances), [la-feat/Gender]() (126; 83% instances)
+`DET` occurs with 3 features: [la-feat/Case]() (3373; 100% instances), [la-feat/Number]() (3373; 100% instances), [la-feat/Gender]() (2788; 82% instances)
 
-`DET` occurs with 11 feature-value pairs: `Case=Abl`, `Case=Acc`, `Case=Dat`, `Case=Gen`, `Case=Nom`, `Gender=Fem`, `Gender=Masc`, `Gender=Masc,Neut`, `Gender=Neut`, `Number=Plur`, `Number=Sing`
+`DET` occurs with 14 feature-value pairs: `Case=Abl`, `Case=Acc`, `Case=Dat`, `Case=Gen`, `Case=Nom`, `Case=Voc`, `Gender=Fem`, `Gender=Fem,Masc`, `Gender=Fem,Neut`, `Gender=Masc`, `Gender=Masc,Neut`, `Gender=Neut`, `Number=Plur`, `Number=Sing`
 
-`DET` occurs with 18 feature combinations.
-The most frequent feature combination is `Case=Nom|Gender=Masc|Number=Sing` (39 tokens).
-Examples: <em>ille, ipse</em>
+`DET` occurs with 52 feature combinations.
+The most frequent feature combination is `Case=Abl|Gender=Fem|Number=Sing` (257 tokens).
+Examples: <em>hac, illa, ea, eadem, omni, ista, nulla, alia, ulla, ipsa</em>
 
 
 ## Relations
 
-`DET` nodes are attached to their parents using 1 different relations: [la-dep/det]() (152; 100% instances)
+`DET` nodes are attached to their parents using 1 different relations: [la-dep/det]() (3385; 100% instances)
 
-Parents of `DET` nodes belong to 3 different parts of speech: [NOUN]() (131; 86% instances), [ADJ]() (19; 13% instances), [PRON]() (2; 1% instances)
+Parents of `DET` nodes belong to 9 different parts of speech: [NOUN]() (2751; 81% instances), [ADJ]() (241; 7% instances), [PRON]() (233; 7% instances), [PROPN]() (83; 2% instances), [VERB]() (33; 1% instances), [X]() (28; 1% instances), [NUM]() (11; 0% instances), [ADV]() (4; 0% instances), [DET]() (1; 0% instances)
 
-152 (100%) `DET` nodes are leaves.
+3291 (97%) `DET` nodes are leaves.
 
-The highest child degree of a `DET` node is 0.
+78 (2%) `DET` nodes have one child.
+
+7 (0%) `DET` nodes have two children.
+
+9 (0%) `DET` nodes have three or more children.
+
+The highest child degree of a `DET` node is 4.
+
+Children of `DET` nodes are attached using 12 different relations: [la-dep/advmod]() (32; 27% instances), [la-dep/case]() (18; 15% instances), [la-dep/acl]() (17; 14% instances), [la-dep/nmod]() (11; 9% instances), [la-dep/amod]() (8; 7% instances), [la-dep/nsubj]() (6; 5% instances), [la-dep/appos]() (5; 4% instances), [la-dep/cc]() (5; 4% instances), [la-dep/conj]() (5; 4% instances), [la-dep/cop]() (5; 4% instances), [la-dep/discourse]() (5; 4% instances), [la-dep/det]() (3; 3% instances)
+
+Children of `DET` nodes belong to 10 different parts of speech: [ADV]() (46; 38% instances), [ADP]() (19; 16% instances), [VERB]() (14; 12% instances), [PRON]() (13; 11% instances), [NOUN]() (8; 7% instances), [AUX]() (6; 5% instances), [ADJ]() (5; 4% instances), [CCONJ]() (5; 4% instances), [PROPN]() (3; 3% instances), [DET]() (1; 1% instances)
 

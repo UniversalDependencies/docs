@@ -5,7 +5,7 @@ shortdef: 'indirect object'
 ---
 
 The indirect object of a verb is any nominal phrase that is a core
-argument of the verb but is not its subject or [direct object](dobj).
+argument of the verb but is not its subject or [direct object](obj).
 The prototypical example is the recipient of ditransitive verbs of
 exchange:
 
@@ -15,7 +15,7 @@ iobj(deu, me)
 ~~~
 
 In general, if there is just one object, it should be labeled
-[dobj](), regardless of the morphological case or semantic role. For example, in Portuguese, _ensinar_ can take either the subject matter or the recipient as the only object, and in both cases it would be analyzed ad the [dobj]():
+[obj](), regardless of the morphological case or semantic role. For example, in Portuguese, _ensinar_ can take either the subject matter or the recipient as the only object, and in both cases it would be analyzed ad the [obj]():
 
 ~~~ sdparse
 Ela ensina lógica
@@ -53,7 +53,7 @@ dobj(disse, plano)
 ~~~
 
 If there are two or
-more objects, one of them should be [dobj]() and the others should be
+more objects, one of them should be [obj]() and the others should be
 `iobj`. In such cases it is necessary to decide what is the
 most directly affected object _(patient)._ In Portuguese, usually `iobj` comes with a preposition (_a, de, em_) or in olibque case (_me, se, lhe_).
 

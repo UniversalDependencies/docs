@@ -2,6 +2,7 @@
 layout: relation
 title: 'expl'
 shortdef: 'expletive'
+udver: '2'
 ---
 
 This relation captures expletive or pleonastic nominals. These are nominals that appear in an argument position of a predicate but which do not themselves satisfy any of the semantic roles of the predicate. The main predicate of the clause (the verb or predicate adjective or noun) is the governor. In English, this is the case for some uses of *it* and *there*: the existential *there*, and *it* when used in extraposition constructions.  (Note that both *it* and *there* also have non-expletive uses.) 
@@ -22,7 +23,7 @@ Some languages do not have expletives of the English sort, including most langua
 There is a ghost in the room
 expl(is, There)
 nsubj(is, ghost)
-nmod(is, room)
+obl(is, room)
 ~~~
 
 ~~~ sdparse
@@ -31,7 +32,7 @@ nsubj(believe, I)
 expl(believe, there)
 xcomp(believe, be)
 nsubj(be, ghost)
-nmod(be, room)
+obl(be, room)
 ~~~
 
 ~~~ sdparse
@@ -49,11 +50,11 @@ csubj(clear, decline)
 I mentioned it to Mary that Sue is leaving
 nsubj(mentioned, I)
 expl(mentioned, it)
-nmod(mentioned, Mary)
+obl(mentioned, Mary)
 ccomp(mentioned, leaving)
 ~~~
 
-A second, related, use of the `expl` relation is for cases of true clitic doubling.  For languages in which clitics and lexical nominals are ususally in complementary distribution – languages, such as French, which obey "Kayne's generalization" – then whichever of a clitic or a lexical nominal occurs will get the appropriate role, such as `dobj` or `iobj`. In such languages, when doubling does occur, such as in spoken French, the right analysis is to regard the lexical nominal as [dislocated]() (see the examples there). As such, the analysis will be the same as when a noun phrase doubles another noun phrase or a regular pronoun that fills a nominal argument position. However, other languages, such as Greek and Bulgarian, standardly allow doubling of a lexical nominal and a pronominal clitic, with the former still appearing in its regular role as an argument of the predicate. In these cases, if only one of the lexical nominal and the clitic appear in a clause, then whichever appears will be given the grammatical role of `dobj`, `iobj`, etc. – parallel to the treatment of lexical nominals and pronouns in other languages, modulo the clitic pronoun having a different position in the sentence.  However, if both occur, the lexical nominal will be given the grammatical role of `dobj`, `iobj`, etc., and the clitic will be treated as a pronominal copy, which does not receive its own semantic role, and hence will get the role `expl`. Modulo the different word order, this is fairly parallel to the treatment of _it_ and _there_ in English mentioned above, where another phrase satisfies the semantic role of the predicate. Examples from Greek and Bulgarian follow:
+A second, related, use of the `expl` relation is for cases of true clitic doubling.  For languages in which clitics and lexical nominals are ususally in complementary distribution – languages, such as French, which obey "Kayne's generalization" – then whichever of a clitic or a lexical nominal occurs will get the appropriate role, such as [obj]() or [iobj](). In such languages, when doubling does occur, such as in spoken French, the right analysis is to regard the lexical nominal as [dislocated]() (see the examples there). As such, the analysis will be the same as when a noun phrase doubles another noun phrase or a regular pronoun that fills a nominal argument position. However, other languages, such as Greek and Bulgarian, standardly allow doubling of a lexical nominal and a pronominal clitic, with the former still appearing in its regular role as an argument of the predicate. In these cases, if only one of the lexical nominal and the clitic appear in a clause, then whichever appears will be given the grammatical role of [obj](), [iobj](), etc. – parallel to the treatment of lexical nominals and pronouns in other languages, modulo the clitic pronoun having a different position in the sentence.  However, if both occur, the lexical nominal will be given the grammatical role of [obj](), [iobj](), etc., and the clitic will be treated as a pronominal copy, which does not receive its own semantic role, and hence will get the role `expl`. Modulo the different word order, this is fairly parallel to the treatment of _it_ and _there_ in English mentioned above, where another phrase satisfies the semantic role of the predicate. Examples from Greek and Bulgarian follow:
 
 ~~~ sdparse
 Της τον έδωσε της Καίτης τον αναπτήρα \n PRON.Fem.Gen PRON.Masc.Acc gave ART.Fem.Gen Keti.Gen ART.Masc.Acc lighter.Acc
@@ -61,14 +62,14 @@ expl(έδωσε, Της-1)
 iobj(έδωσε, Καίτης)
 det(Καίτης, της-4)
 expl(έδωσε, τον-2)
-dobj(έδωσε, αναπτήρα)
+obj(έδωσε, αναπτήρα)
 det(αναπτήρα, τον-6)
 ~~~
 
 ~~~ sdparse
 Marija mu izprati pismo na rabotnika \n Maria 3.S.M.IO sent letter to the.worker
 expl(izprati, mu)
-dobj(izprati, pismo)
+obj(izprati, pismo)
 iobj(izprati, rabotnika)
 case(rabotnika, na)
 ~~~

@@ -6,29 +6,41 @@
 
 This relation is universal.
 
-43867 nodes (48%) are attached to their parents as `nmod`.
+12333 nodes (7%) are attached to their parents as `nmod`.
 
-43768 instances of `nmod` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.18341805913329.
+12333 instances of `nmod` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.93740371361388.
 
-The following 44 pairs of parts of speech are connected with `nmod`: [ja-pos/VERB]()-[ja-pos/NOUN]() (23604; 54% instances), [ja-pos/NOUN]()-[ja-pos/NOUN]() (13668; 31% instances), [ja-pos/VERB]()-[ja-pos/NUM]() (1561; 4% instances), [ja-pos/ADJ]()-[ja-pos/NOUN]() (1429; 3% instances), [ja-pos/NOUN]()-[ja-pos/NUM]() (955; 2% instances), [ja-pos/VERB]()-[ja-pos/PRON]() (619; 1% instances), [ja-pos/NUM]()-[ja-pos/NOUN]() (522; 1% instances), [ja-pos/NOUN]()-[ja-pos/PRON]() (374; 1% instances), [ja-pos/VERB]()-[ja-pos/VERB]() (370; 1% instances), [ja-pos/NOUN]()-[ja-pos/VERB]() (310; 1% instances), [ja-pos/NUM]()-[ja-pos/NUM]() (133; 0% instances), [ja-pos/ADJ]()-[ja-pos/VERB]() (42; 0% instances), [ja-pos/PRON]()-[ja-pos/NOUN]() (40; 0% instances), [ja-pos/ADJ]()-[ja-pos/PRON]() (37; 0% instances), [ja-pos/VERB]()-[ja-pos/ADJ]() (33; 0% instances), [ja-pos/ADV]()-[ja-pos/NOUN]() (25; 0% instances), [ja-pos/NOUN]()-[ja-pos/ADJ]() (25; 0% instances), [ja-pos/NUM]()-[ja-pos/VERB]() (25; 0% instances), [ja-pos/VERB]()-[ja-pos/DET]() (16; 0% instances), [ja-pos/ADJ]()-[ja-pos/NUM]() (13; 0% instances), [ja-pos/CONJ]()-[ja-pos/NOUN]() (10; 0% instances), [ja-pos/NUM]()-[ja-pos/PRON]() (9; 0% instances), [ja-pos/NOUN]()-[ja-pos/DET]() (8; 0% instances), [ja-pos/DET]()-[ja-pos/NOUN]() (7; 0% instances), [ja-pos/ADJ]()-[ja-pos/ADJ]() (5; 0% instances), [ja-pos/VERB]()-[ja-pos/ADV]() (4; 0% instances), [ja-pos/PRON]()-[ja-pos/VERB]() (3; 0% instances), [ja-pos/ADV]()-[ja-pos/VERB]() (2; 0% instances), [ja-pos/PRON]()-[ja-pos/NUM]() (2; 0% instances), [ja-pos/PRON]()-[ja-pos/PRON]() (2; 0% instances), [ja-pos/ADJ]()-[ja-pos/ADV]() (1; 0% instances), [ja-pos/ADP]()-[ja-pos/NOUN]() (1; 0% instances), [ja-pos/ADV]()-[ja-pos/PRON]() (1; 0% instances), [ja-pos/DET]()-[ja-pos/NUM]() (1; 0% instances), [ja-pos/NOUN]()-[ja-pos/ADP]() (1; 0% instances), [ja-pos/NOUN]()-[ja-pos/ADV]() (1; 0% instances), [ja-pos/NOUN]()-[ja-pos/X]() (1; 0% instances), [ja-pos/NUM]()-[ja-pos/ADJ]() (1; 0% instances), [ja-pos/NUM]()-[ja-pos/DET]() (1; 0% instances), [ja-pos/PRON]()-[ja-pos/ADJ]() (1; 0% instances), [ja-pos/VERB]()-[ja-pos/ADP]() (1; 0% instances), [ja-pos/VERB]()-[ja-pos/CONJ]() (1; 0% instances), [ja-pos/VERB]()-[ja-pos/X]() (1; 0% instances), [ja-pos/X]()-[ja-pos/NOUN]() (1; 0% instances).
+The following 22 pairs of parts of speech are connected with `nmod`: [ja-pos/NOUN]()-[ja-pos/NOUN]() (8114; 66% instances), [ja-pos/NOUN]()-[ja-pos/PROPN]() (1615; 13% instances), [ja-pos/PROPN]()-[ja-pos/NOUN]() (842; 7% instances), [ja-pos/PROPN]()-[ja-pos/PROPN]() (735; 6% instances), [ja-pos/NUM]()-[ja-pos/NOUN]() (610; 5% instances), [ja-pos/NOUN]()-[ja-pos/PRON]() (206; 2% instances), [ja-pos/NUM]()-[ja-pos/PROPN]() (86; 1% instances), [ja-pos/PRON]()-[ja-pos/NOUN]() (35; 0% instances), [ja-pos/ADV]()-[ja-pos/NOUN]() (23; 0% instances), [ja-pos/CCONJ]()-[ja-pos/NOUN]() (11; 0% instances), [ja-pos/NUM]()-[ja-pos/PRON]() (10; 0% instances), [ja-pos/CCONJ]()-[ja-pos/PROPN]() (9; 0% instances), [ja-pos/ADV]()-[ja-pos/PROPN]() (7; 0% instances), [ja-pos/NOUN]()-[ja-pos/SYM]() (6; 0% instances), [ja-pos/PRON]()-[ja-pos/PROPN]() (6; 0% instances), [ja-pos/PROPN]()-[ja-pos/PRON]() (6; 0% instances), [ja-pos/NUM]()-[ja-pos/SYM]() (5; 0% instances), [ja-pos/ADJ]()-[ja-pos/NOUN]() (2; 0% instances), [ja-pos/PRON]()-[ja-pos/PRON]() (2; 0% instances), [ja-pos/NUM]()-[ja-pos/PUNCT]() (1; 0% instances), [ja-pos/PRON]()-[ja-pos/SYM]() (1; 0% instances), [ja-pos/PROPN]()-[ja-pos/SYM]() (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 9 4 nmod	color:blue
-1	ただし	_	ADV	ADV	_	9	advmod	_	_
-2	、	_	PUNCT	.	_	1	punct	_	_
-3	50周年ソングに	_	NUM	NUM-CL-NOUN-POSTP	_	4	nmod	_	_
-4	変更後は	_	NOUN	NOUN-PRT	_	9	nmod	_	_
-5	、	_	PUNCT	.	_	4	punct	_	_
-6	EDも	_	NOUN	NOUN-POSTP	_	9	nmod	_	_
-7	歌つきの	_	NOUN	NOUN-POSTP	_	8	nmod	_	_
-8	ものが	_	NOUN	NOUN-PRT	_	9	nmod	_	_
-9	使われた。	_	VERB	VERB-PASSIVE-AUX	_	0	root	_	_
+# visual-style 14	bgColor:blue
+# visual-style 14	fgColor:white
+# visual-style 16	bgColor:blue
+# visual-style 16	fgColor:white
+# visual-style 16 14 nmod	color:blue
+1	ただし	ただし	CCONJ	_	_	18	advmod	_	SpaceAfter=No
+2	、	、	PUNCT	_	_	1	punct	_	SpaceAfter=No
+3	50	50	NUM	_	NumType=Card	5	nummod	_	SpaceAfter=No
+4	周年	周年	NOUN	_	_	5	compound	_	SpaceAfter=No
+5	ソング	ソング	NOUN	_	_	18	iobj	_	SpaceAfter=No
+6	に	に	ADP	_	_	5	case	_	SpaceAfter=No
+7	変更	変更	NOUN	_	_	8	compound	_	SpaceAfter=No
+8	後	後	NOUN	_	_	18	nsubj	_	SpaceAfter=No
+9	は	は	ADP	_	_	8	case	_	SpaceAfter=No
+10	、	、	PUNCT	_	_	8	punct	_	SpaceAfter=No
+11	ED	ED	PROPN	_	_	18	obl	_	SpaceAfter=No
+12	も	も	ADP	_	_	11	case	_	SpaceAfter=No
+13	歌	歌	NOUN	_	_	14	compound	_	SpaceAfter=No
+14	つき	つき	NOUN	_	_	16	nmod	_	SpaceAfter=No
+15	の	の	ADP	_	_	14	case	_	SpaceAfter=No
+16	もの	もの	NOUN	_	_	18	nsubj	_	SpaceAfter=No
+17	が	が	ADP	_	_	16	case	_	SpaceAfter=No
+18	使わ	使う	VERB	_	_	0	root	_	SpaceAfter=No
+19	れ	れる	AUX	_	_	18	aux	_	SpaceAfter=No
+20	た	た	AUX	_	_	18	aux	_	SpaceAfter=No
+21	。	。	PUNCT	_	_	18	punct	_	SpaceAfter=No
 
 ~~~
 
@@ -36,38 +48,39 @@ The following 44 pairs of parts of speech are connected with `nmod`: [ja-pos/VER
 ~~~ conllu
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 8 7 nmod	color:blue
-1	ただし	_	ADV	ADV	_	9	advmod	_	_
-2	、	_	PUNCT	.	_	1	punct	_	_
-3	50周年ソングに	_	NUM	NUM-CL-NOUN-POSTP	_	4	nmod	_	_
-4	変更後は	_	NOUN	NOUN-PRT	_	9	nmod	_	_
-5	、	_	PUNCT	.	_	4	punct	_	_
-6	EDも	_	NOUN	NOUN-POSTP	_	9	nmod	_	_
-7	歌つきの	_	NOUN	NOUN-POSTP	_	8	nmod	_	_
-8	ものが	_	NOUN	NOUN-PRT	_	9	nmod	_	_
-9	使われた。	_	VERB	VERB-PASSIVE-AUX	_	0	root	_	_
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 9 7 nmod	color:blue
+1	セントラル	セントラル	NOUN	_	_	4	nmod	_	SpaceAfter=No
+2	・	・	SYM	_	_	1	compound	_	SpaceAfter=No
+3	リーグ	リーグ	NOUN	_	_	4	compound	_	SpaceAfter=No
+4	審判員	審判員	NOUN	_	_	7	nmod	_	SpaceAfter=No
+5	の	の	ADP	_	_	4	case	_	SpaceAfter=No
+6	水落	水落	PROPN	_	_	7	compound	_	SpaceAfter=No
+7	朋大	朋大	PROPN	_	_	9	nmod	_	SpaceAfter=No
+8	は	は	ADP	_	_	7	case	_	SpaceAfter=No
+9	実兄	実兄	NOUN	_	_	0	root	_	SpaceAfter=No
+10	。	。	PUNCT	_	_	9	punct	_	SpaceAfter=No
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 9 3 nmod	color:blue
-1	市内の	_	NOUN	NOUN-POSTP	_	2	nmod	_	_
-2	ユダヤ人は	_	NOUN	NOUN-PRT	_	9	nmod	_	_
-3	1942年までに	_	NUM	NUM-CL-POSTP-POSTP	_	9	nmod	_	_
-4	その	_	DET	DET	_	5	amod	_	_
-5	全員が	_	NOUN	NOUN-PRT	_	6	nmod	_	_
-6	逃亡するか	_	VERB	VERB-AUX-CONJ	_	10	nmod	_	_
-7	、	_	PUNCT	.	_	6	punct	_	_
-8	強制収容所に	_	NOUN	NOUN-POSTP	_	9	nmod	_	_
-9	送致されるかの	_	VERB	VERB-PASSIVE-AUX-PRT-POSTP	_	6	conj	_	_
-10	いずれかであった。	_	NOUN	NOUN-VERB-AUX	_	0	root	_	_
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 4 nmod	color:blue
+1	セントラル	セントラル	NOUN	_	_	4	nmod	_	SpaceAfter=No
+2	・	・	SYM	_	_	1	compound	_	SpaceAfter=No
+3	リーグ	リーグ	NOUN	_	_	4	compound	_	SpaceAfter=No
+4	審判員	審判員	NOUN	_	_	7	nmod	_	SpaceAfter=No
+5	の	の	ADP	_	_	4	case	_	SpaceAfter=No
+6	水落	水落	PROPN	_	_	7	compound	_	SpaceAfter=No
+7	朋大	朋大	PROPN	_	_	9	nmod	_	SpaceAfter=No
+8	は	は	ADP	_	_	7	case	_	SpaceAfter=No
+9	実兄	実兄	NOUN	_	_	0	root	_	SpaceAfter=No
+10	。	。	PUNCT	_	_	9	punct	_	SpaceAfter=No
 
 ~~~
 
@@ -80,12 +93,12 @@ The following 44 pairs of parts of speech are connected with `nmod`: [ja-pos/VER
 
 This relation is universal.
 
-25344 nodes (9%) are attached to their parents as `nmod`.
+18024 nodes (9%) are attached to their parents as `nmod`.
 
-25344 instances of `nmod` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 5.82220643939394.
+18024 instances of `nmod` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 5.83311140701287.
 
-The following 45 pairs of parts of speech are connected with `nmod`: [ja-pos/NOUN]()-[ja-pos/NOUN]() (12525; 49% instances), [ja-pos/VERB]()-[ja-pos/NOUN]() (8705; 34% instances), [ja-pos/NOUN]()-[ja-pos/PROPN]() (985; 4% instances), [ja-pos/ADJ]()-[ja-pos/NOUN]() (494; 2% instances), [ja-pos/NOUN]()-[ja-pos/VERB]() (452; 2% instances), [ja-pos/VERB]()-[ja-pos/ADJ]() (399; 2% instances), [ja-pos/VERB]()-[ja-pos/PROPN]() (282; 1% instances), [ja-pos/VERB]()-[ja-pos/VERB]() (239; 1% instances), [ja-pos/VERB]()-[ja-pos/PRON]() (192; 1% instances), [ja-pos/PROPN]()-[ja-pos/NOUN]() (169; 1% instances), [ja-pos/NOUN]()-[ja-pos/PRON]() (126; 0% instances), [ja-pos/NOUN]()-[ja-pos/ADJ]() (118; 0% instances), [ja-pos/NOUN]()-[ja-pos/ADV]() (114; 0% instances), [ja-pos/VERB]()-[ja-pos/ADV]() (114; 0% instances), [ja-pos/NOUN]()-[ja-pos/NUM]() (66; 0% instances), [ja-pos/VERB]()-[ja-pos/NUM]() (37; 0% instances), [ja-pos/ADJ]()-[ja-pos/VERB]() (36; 0% instances), [ja-pos/NOUN]()-[ja-pos/CONJ]() (35; 0% instances), [ja-pos/ADV]()-[ja-pos/NOUN]() (33; 0% instances), [ja-pos/ADJ]()-[ja-pos/ADJ]() (31; 0% instances), [ja-pos/VERB]()-[ja-pos/CONJ]() (28; 0% instances), [ja-pos/ADJ]()-[ja-pos/PRON]() (27; 0% instances), [ja-pos/NUM]()-[ja-pos/NOUN]() (21; 0% instances), [ja-pos/PROPN]()-[ja-pos/PROPN]() (20; 0% instances), [ja-pos/PRON]()-[ja-pos/NOUN]() (16; 0% instances), [ja-pos/ADJ]()-[ja-pos/PROPN]() (15; 0% instances), [ja-pos/ADJ]()-[ja-pos/ADV]() (11; 0% instances), [ja-pos/PROPN]()-[ja-pos/VERB]() (9; 0% instances), [ja-pos/CONJ]()-[ja-pos/NOUN]() (7; 0% instances), [ja-pos/VERB]()-[ja-pos/ADP]() (7; 0% instances), [ja-pos/ADJ]()-[ja-pos/NUM]() (4; 0% instances), [ja-pos/PROPN]()-[ja-pos/ADJ]() (4; 0% instances), [ja-pos/VERB]()-[ja-pos/DET]() (4; 0% instances), [ja-pos/VERB]()-[ja-pos/INTJ]() (3; 0% instances), [ja-pos/ADJ]()-[ja-pos/CONJ]() (2; 0% instances), [ja-pos/ADV]()-[ja-pos/ADV]() (2; 0% instances), [ja-pos/NOUN]()-[ja-pos/INTJ]() (2; 0% instances), [ja-pos/NUM]()-[ja-pos/PROPN]() (2; 0% instances), [ja-pos/PROPN]()-[ja-pos/NUM]() (2; 0% instances), [ja-pos/ADJ]()-[ja-pos/DET]() (1; 0% instances), [ja-pos/ADV]()-[ja-pos/PROPN]() (1; 0% instances), [ja-pos/ADV]()-[ja-pos/VERB]() (1; 0% instances), [ja-pos/INTJ]()-[ja-pos/NOUN]() (1; 0% instances), [ja-pos/PRON]()-[ja-pos/VERB]() (1; 0% instances), [ja-pos/VERB]()-[ja-pos/AUX]() (1; 0% instances).
+The following 43 pairs of parts of speech are connected with `nmod`: [ja-pos/NOUN]()-[ja-pos/NOUN]() (8825; 49% instances), [ja-pos/VERB]()-[ja-pos/NOUN]() (6216; 34% instances), [ja-pos/NOUN]()-[ja-pos/PROPN]() (720; 4% instances), [ja-pos/ADJ]()-[ja-pos/NOUN]() (361; 2% instances), [ja-pos/NOUN]()-[ja-pos/VERB]() (311; 2% instances), [ja-pos/VERB]()-[ja-pos/ADJ]() (292; 2% instances), [ja-pos/VERB]()-[ja-pos/PROPN]() (195; 1% instances), [ja-pos/VERB]()-[ja-pos/VERB]() (172; 1% instances), [ja-pos/VERB]()-[ja-pos/PRON]() (143; 1% instances), [ja-pos/PROPN]()-[ja-pos/NOUN]() (126; 1% instances), [ja-pos/VERB]()-[ja-pos/ADV]() (90; 0% instances), [ja-pos/NOUN]()-[ja-pos/ADJ]() (84; 0% instances), [ja-pos/NOUN]()-[ja-pos/ADV]() (81; 0% instances), [ja-pos/NOUN]()-[ja-pos/PRON]() (79; 0% instances), [ja-pos/NOUN]()-[ja-pos/NUM]() (45; 0% instances), [ja-pos/VERB]()-[ja-pos/NUM]() (32; 0% instances), [ja-pos/ADV]()-[ja-pos/NOUN]() (30; 0% instances), [ja-pos/ADJ]()-[ja-pos/VERB]() (27; 0% instances), [ja-pos/NOUN]()-[ja-pos/CONJ]() (23; 0% instances), [ja-pos/ADJ]()-[ja-pos/ADJ]() (21; 0% instances), [ja-pos/VERB]()-[ja-pos/CONJ]() (21; 0% instances), [ja-pos/ADJ]()-[ja-pos/PRON]() (20; 0% instances), [ja-pos/NUM]()-[ja-pos/NOUN]() (19; 0% instances), [ja-pos/PROPN]()-[ja-pos/PROPN]() (18; 0% instances), [ja-pos/PRON]()-[ja-pos/NOUN]() (13; 0% instances), [ja-pos/ADJ]()-[ja-pos/PROPN]() (11; 0% instances), [ja-pos/ADJ]()-[ja-pos/ADV]() (9; 0% instances), [ja-pos/CONJ]()-[ja-pos/NOUN]() (7; 0% instances), [ja-pos/PROPN]()-[ja-pos/VERB]() (5; 0% instances), [ja-pos/VERB]()-[ja-pos/ADP]() (5; 0% instances), [ja-pos/ADJ]()-[ja-pos/NUM]() (3; 0% instances), [ja-pos/PROPN]()-[ja-pos/ADJ]() (3; 0% instances), [ja-pos/VERB]()-[ja-pos/DET]() (3; 0% instances), [ja-pos/ADJ]()-[ja-pos/CONJ]() (2; 0% instances), [ja-pos/NOUN]()-[ja-pos/INTJ]() (2; 0% instances), [ja-pos/NUM]()-[ja-pos/PROPN]() (2; 0% instances), [ja-pos/PROPN]()-[ja-pos/NUM]() (2; 0% instances), [ja-pos/ADJ]()-[ja-pos/DET]() (1; 0% instances), [ja-pos/ADV]()-[ja-pos/ADV]() (1; 0% instances), [ja-pos/ADV]()-[ja-pos/PROPN]() (1; 0% instances), [ja-pos/ADV]()-[ja-pos/VERB]() (1; 0% instances), [ja-pos/VERB]()-[ja-pos/AUX]() (1; 0% instances), [ja-pos/VERB]()-[ja-pos/INTJ]() (1; 0% instances).
 
 
 ~~~ conllu

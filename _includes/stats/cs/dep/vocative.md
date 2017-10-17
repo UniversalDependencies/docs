@@ -6,12 +6,12 @@
 
 This relation is universal.
 
-81 nodes (0%) are attached to their parents as `vocative`.
+69 nodes (0%) are attached to their parents as `vocative`.
 
-45 instances of `vocative` (56%) are right-to-left (child precedes parent).
-Average distance between parent and child is 4.34567901234568.
+37 instances of `vocative` (54%) are right-to-left (child precedes parent).
+Average distance between parent and child is 4.57971014492754.
 
-The following 11 pairs of parts of speech are connected with `vocative`: [cs-pos/VERB]()-[cs-pos/NOUN]() (49; 60% instances), [cs-pos/VERB]()-[cs-pos/PROPN]() (15; 19% instances), [cs-pos/NOUN]()-[cs-pos/NOUN]() (6; 7% instances), [cs-pos/NOUN]()-[cs-pos/PROPN]() (3; 4% instances), [cs-pos/ADJ]()-[cs-pos/NOUN]() (2; 2% instances), [cs-pos/CONJ]()-[cs-pos/NOUN]() (1; 1% instances), [cs-pos/INTJ]()-[cs-pos/PROPN]() (1; 1% instances), [cs-pos/NUM]()-[cs-pos/PROPN]() (1; 1% instances), [cs-pos/PART]()-[cs-pos/PROPN]() (1; 1% instances), [cs-pos/PRON]()-[cs-pos/NOUN]() (1; 1% instances), [cs-pos/VERB]()-[cs-pos/ADJ]() (1; 1% instances).
+The following 10 pairs of parts of speech are connected with `vocative`: [cs-pos/VERB]()-[cs-pos/NOUN]() (43; 62% instances), [cs-pos/VERB]()-[cs-pos/PROPN]() (9; 13% instances), [cs-pos/NOUN]()-[cs-pos/NOUN]() (6; 9% instances), [cs-pos/ADJ]()-[cs-pos/NOUN]() (3; 4% instances), [cs-pos/NOUN]()-[cs-pos/PROPN]() (3; 4% instances), [cs-pos/CCONJ]()-[cs-pos/NOUN]() (1; 1% instances), [cs-pos/DET]()-[cs-pos/NOUN]() (1; 1% instances), [cs-pos/INTJ]()-[cs-pos/PROPN]() (1; 1% instances), [cs-pos/NUM]()-[cs-pos/PROPN]() (1; 1% instances), [cs-pos/PART]()-[cs-pos/PROPN]() (1; 1% instances).
 
 
 ~~~ conllu
@@ -20,39 +20,38 @@ The following 11 pairs of parts of speech are connected with `vocative`: [cs-pos
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 1 vocative	color:blue
-1	Občane	občan	NOUN	NNMS5-----A----	Animacy=Anim|Case=Voc|Gender=Masc|Negative=Pos|Number=Sing	3	vocative	_	SpaceAfter=No
+1	Občane	občan	NOUN	NNMS5-----A----	Animacy=Anim|Case=Voc|Gender=Masc|Number=Sing|Polarity=Pos	3	vocative	_	SpaceAfter=No
 2	,	,	PUNCT	Z:-------------	_	3	punct	_	_
-3	chceš	chtít	VERB	VB-S---2P-AA---	Mood=Ind|Negative=Pos|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-4	dýchat	dýchat	VERB	Vf--------A----	Aspect=Imp|Negative=Pos|VerbForm=Inf	3	xcomp	_	_
-5	čistý	čistý	ADJ	AAIS4----1A----	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Negative=Pos|Number=Sing	6	amod	_	_
-6	vzduch	vzduch	NOUN	NNIS4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Negative=Pos|Number=Sing	4	dobj	_	_
-7	a	a	CONJ	J^-------------	_	4	cc	_	LId=a-1
-8	mít	mít	VERB	Vf--------A----	Negative=Pos|VerbForm=Inf	4	conj	_	_
+3	chceš	chtít	VERB	VB-S---2P-AA---	Mood=Ind|Number=Sing|Person=2|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4	dýchat	dýchat	VERB	Vf--------A----	Aspect=Imp|Polarity=Pos|VerbForm=Inf	3	xcomp	_	_
+5	čistý	čistý	ADJ	AAIS4----1A----	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos	6	amod	_	_
+6	vzduch	vzduch	NOUN	NNIS4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|Polarity=Pos	4	obj	_	_
+7	a	a	CCONJ	J^-------------	_	8	cc	_	LId=a-1
+8	mít	mít	VERB	Vf--------A----	Polarity=Pos|VerbForm=Inf	4	conj	_	_
 9	také	také	ADV	Db-------------	_	8	advmod	_	LGloss=(rovněž)
-10	teplo	teplo	NOUN	NNNS4-----A----	Case=Acc|Gender=Neut|Negative=Pos|Number=Sing	8	dobj	_	SpaceAfter=No|LId=teplo-1
+10	teplo	teplo	NOUN	NNNS4-----A----	Case=Acc|Gender=Neut|Number=Sing|Polarity=Pos	8	obj	_	SpaceAfter=No|LId=teplo-1
 11	?	?	PUNCT	Z:-------------	_	3	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 7 vocative	color:blue
-1	Co	co	PRON	PQ--4----------	Animacy=Inan|Case=Acc|PronType=Int,Rel	4	dobj	_	LId=co-1
-2	by	být	AUX	Vc-------------	Mood=Cnd|VerbForm=Fin	4	aux	_	_
-3	tomu	ten	PRON	PDZS3----------	Case=Dat|Gender=Masc,Neut|Number=Sing|PronType=Dem	4	iobj	_	_
-4	řekl	říci	VERB	VpYS---XR-AA---	Aspect=Perf|Gender=Masc|Negative=Pos|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	9	ccomp	_	_
-5	táta	táta	NOUN	NNMS1-----A----	Animacy=Anim|Case=Nom|Gender=Masc|Negative=Pos|Number=Sing	4	nsubj	_	SpaceAfter=No
-6	,	,	PUNCT	Z:-------------	_	4	punct	_	_
-7	Pavle	Pavel	PROPN	NNMS5-----A----	Animacy=Anim|Case=Voc|Gender=Masc|NameType=Giv|Negative=Pos|Number=Sing	4	vocative	_	SpaceAfter=No|LId=Pavel-1
-8	?	?	PUNCT	Z:-------------	_	4	punct	_	_
-9	zeptá	zeptat	VERB	VB-S---3P-AA---	Aspect=Perf|Mood=Ind|Negative=Pos|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-10	se	se	PRON	P7-X4----------	Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short	9	expl	_	LGloss=(zvr._zájmeno/částice)
-11	jednoduše	jednoduše	ADV	Dg-------1A----	Degree=Pos|Negative=Pos	9	advmod	_	SpaceAfter=No
-12	.	.	PUNCT	Z:-------------	_	9	punct	_	_
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 10 2 vocative	color:blue
+1	Svatý	svatý	ADJ	AAMS5----1A----	Animacy=Anim|Case=Voc|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos	2	amod	_	_
+2	Petře	Petr	PROPN	NNMS5-----A----	Animacy=Anim|Case=Voc|Gender=Masc|NameType=Giv|Number=Sing|Polarity=Pos	10	vocative	_	SpaceAfter=No
+3	,	,	PUNCT	Z:-------------	_	10	punct	_	_
+4	já	já	PRON	PP-S1--1-------	Case=Nom|Number=Sing|Person=1|PronType=Prs	10	nsubj	_	_
+5	jsem	být	AUX	VB-S---1P-AA---	Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	10	aux	_	_
+6	ale	ale	CCONJ	J^-------------	_	10	cc	_	_
+7	bránu	brána	NOUN	NNFS4-----A----	Case=Acc|Gender=Fem|Number=Sing|Polarity=Pos	10	obj	_	_
+8	Užhorodu	Užhorod	PROPN	NNIS2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|NameType=Geo|Number=Sing|Polarity=Pos	7	nmod	_	_
+9	nikdy	nikdy	ADV	Db-------------	PronType=Neg	10	advmod	_	_
+10	neopustil	opustit	VERB	VpYS---XR-NA---	Aspect=Perf|Gender=Masc|Number=Sing|Polarity=Neg|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	Z:-------------	_	10	punct	_	_
 
 ~~~
 
@@ -63,16 +62,16 @@ The following 11 pairs of parts of speech are connected with `vocative`: [cs-pos
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 7 vocative	color:blue
-1	Skleněná	skleněný	ADJ	AAFS1----1A----	Case=Nom|Degree=Pos|Gender=Fem|Negative=Pos|Number=Sing	2	amod	_	_
-2	louka	louka	NOUN	NNFS1-----A----	Case=Nom|Gender=Fem|Negative=Pos|Number=Sing	0	root	_	SpaceAfter=No
+1	Skleněná	skleněný	ADJ	AAFS1----1A----	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	2	amod	_	_
+2	louka	louka	NOUN	NNFS1-----A----	Case=Nom|Gender=Fem|Number=Sing|Polarity=Pos	0	root	_	SpaceAfter=No
 3	:	:	PUNCT	Z:-------------	_	4	punct	_	_
-4	Máj	máj	NOUN	NNIS1-----A----	Animacy=Inan|Case=Nom|Gender=Masc|Negative=Pos|Number=Sing	2	appos	_	_
+4	Máj	máj	NOUN	NNIS1-----A----	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing|Polarity=Pos	2	appos	_	_
 5	(	(	PUNCT	Z:-------------	_	7	punct	_	SpaceAfter=No
 6	Ó	ó	INTJ	II-------------	_	7	dep	_	LId=ó-1
-7	králi	král	NOUN	NNMS5-----A----	Animacy=Anim|Case=Voc|Gender=Masc|Negative=Pos|Number=Sing	2	vocative	_	SpaceAfter=No
-8	,	,	PUNCT	Z:-------------	_	7	punct	_	_
-9	dobrou	dobrý	ADJ	AAFS4----1A----	Case=Acc|Degree=Pos|Gender=Fem|Negative=Pos|Number=Sing	10	amod	_	_
-10	noc	noc	NOUN	NNFS4-----A----	Case=Acc|Gender=Fem|Negative=Pos|Number=Sing	7	conj	_	SpaceAfter=No
+7	králi	král	NOUN	NNMS5-----A----	Animacy=Anim|Case=Voc|Gender=Masc|Number=Sing|Polarity=Pos	2	vocative	_	SpaceAfter=No
+8	,	,	PUNCT	Z:-------------	_	10	punct	_	_
+9	dobrou	dobrý	ADJ	AAFS4----1A----	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	10	amod	_	_
+10	noc	noc	NOUN	NNFS4-----A----	Case=Acc|Gender=Fem|Number=Sing|Polarity=Pos	7	conj	_	SpaceAfter=No
 11	!	!	PUNCT	Z:-------------	_	7	punct	_	SpaceAfter=No
 12	)	)	PUNCT	Z:-------------	_	7	punct	_	_
 
@@ -87,31 +86,29 @@ The following 11 pairs of parts of speech are connected with `vocative`: [cs-pos
 
 This relation is universal.
 
-58 nodes (0%) are attached to their parents as `vocative`.
+50 nodes (0%) are attached to their parents as `vocative`.
 
-32 instances of `vocative` (55%) are right-to-left (child precedes parent).
-Average distance between parent and child is 4.53448275862069.
+27 instances of `vocative` (54%) are right-to-left (child precedes parent).
+Average distance between parent and child is 4.34.
 
-The following 7 pairs of parts of speech are connected with `vocative`: [cs-pos/VERB]()-[cs-pos/NOUN]() (42; 72% instances), [cs-pos/VERB]()-[cs-pos/PROPN]() (8; 14% instances), [cs-pos/NOUN]()-[cs-pos/NOUN]() (3; 5% instances), [cs-pos/ADJ]()-[cs-pos/NOUN]() (2; 3% instances), [cs-pos/ADV]()-[cs-pos/NOUN]() (1; 2% instances), [cs-pos/PRON]()-[cs-pos/PROPN]() (1; 2% instances), [cs-pos/VERB]()-[cs-pos/PRON]() (1; 2% instances).
+The following 7 pairs of parts of speech are connected with `vocative`: [cs-pos/VERB]()-[cs-pos/NOUN]() (33; 66% instances), [cs-pos/VERB]()-[cs-pos/PROPN]() (7; 14% instances), [cs-pos/ADJ]()-[cs-pos/NOUN]() (4; 8% instances), [cs-pos/NOUN]()-[cs-pos/NOUN]() (3; 6% instances), [cs-pos/ADV]()-[cs-pos/NOUN]() (1; 2% instances), [cs-pos/PRON]()-[cs-pos/PROPN]() (1; 2% instances), [cs-pos/VERB]()-[cs-pos/PRON]() (1; 2% instances).
 
 
 ~~~ conllu
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 10 2 vocative	color:blue
-1	Soudruhu	soudruh	NOUN	NNMS5-----A----	Animacy=Anim|Case=Voc|Gender=Masc|Negative=Pos|Number=Sing	2	nmod	_	_
-2	doktore	doktor	NOUN	NNMS5-----A----	Animacy=Anim|Case=Voc|Gender=Masc|Negative=Pos|Number=Sing	10	vocative	_	SpaceAfter=No
-3	,	,	PUNCT	Z:-------------	_	10	punct	_	_
-4	o	o	ADP	RR--6----------	AdpType=Prep|Case=Loc	5	case	_	LId=o-1
-5	čem	co	PRON	PQ--6----------	Animacy=Inan|Case=Loc|PronType=Int,Rel	10	dobj	_	LId=co-1
-6	se	se	PRON	P7-X4----------	Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short	10	auxpass:reflex	_	LGloss=(zvr._zájmeno/částice)
-7	na	na	ADP	RR--6----------	AdpType=Prep|Case=Loc	8	case	_	LId=na-1
-8	besedě	beseda	NOUN	NNFS6-----A----	Case=Loc|Gender=Fem|Negative=Pos|Number=Sing	10	nmod	_	_
-9	hlavně	hlavně	ADV	Dg-------1A----	Degree=Pos|Negative=Pos	10	advmod	_	LDeriv=hlavní
-10	hovořilo	hovořit	VERB	VpNS---XR-AA---	Aspect=Imp|Gender=Neut|Negative=Pos|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	SpaceAfter=No
-11	.	.	PUNCT	Z:-------------	_	10	punct	_	_
+# visual-style 2 4 vocative	color:blue
+1	Co	co	PRON	PQ--4----------	Animacy=Inan|Case=Acc|PronType=Int,Rel	2	obj	_	LId=co-1
+2	říkáte	říkat	VERB	VB-P---2P-AA---	Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+3	,	,	PUNCT	Z:-------------	_	6	punct	_	_
+4	soudruzi	soudruh	NOUN	NNMP5-----A----	Animacy=Anim|Case=Voc|Gender=Masc|Number=Plur|Polarity=Pos	2	vocative	_	SpaceAfter=No
+5	,	,	PUNCT	Z:-------------	_	6	punct	_	_
+6	je	být	VERB	VB-S---3P-AA---	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	2	conj	_	_
+7	to	ten	DET	PDNS1----------	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	6	nsubj	_	_
+8	tak	tak	ADV	Db-------------	PronType=Dem	6	advmod	_	SpaceAfter=No|LId=tak-3
+9	.	.	PUNCT	Z:-------------	_	2	punct	_	_
 
 ~~~
 
@@ -123,13 +120,13 @@ The following 7 pairs of parts of speech are connected with `vocative`: [cs-pos/
 # visual-style 7	fgColor:white
 # visual-style 7 2 vocative	color:blue
 1	"	"	PUNCT	Z:-------------	_	7	punct	_	_
-2	Ladislave	Ladislav	PROPN	NNMS5-----A----	Animacy=Anim|Case=Voc|Gender=Masc|NameType=Giv|Negative=Pos|Number=Sing	7	vocative	_	_
-3	Falto	Falta	PROPN	NNMS5-----A----	Animacy=Anim|Case=Voc|Gender=Masc|NameType=Sur|Negative=Pos|Number=Sing	2	name	_	SpaceAfter=No
+2	Ladislave	Ladislav	PROPN	NNMS5-----A----	Animacy=Anim|Case=Voc|Gender=Masc|NameType=Giv|Number=Sing|Polarity=Pos	7	vocative	_	_
+3	Falto	Falta	PROPN	NNMS5-----A----	Animacy=Anim|Case=Voc|Gender=Masc|NameType=Sur|Number=Sing|Polarity=Pos	2	flat	_	SpaceAfter=No
 4	,	,	PUNCT	Z:-------------	_	7	punct	_	_
 5	už	už	ADV	Db-------------	_	7	advmod	_	_
-6	jste	být	AUX	VB-P---2P-AA---	Mood=Ind|Negative=Pos|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	7	aux	_	_
-7	sbalil	sbalit	VERB	VpYS---XR-AA---	Aspect=Perf|Gender=Masc|Negative=Pos|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	_
-8	kufr	kufr	NOUN	NNIS4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Negative=Pos|Number=Sing	7	dobj	_	SpaceAfter=No
+6	jste	být	AUX	VB-P---2P-AA---	Mood=Ind|Number=Plur|Person=2|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	7	aux	_	_
+7	sbalil	sbalit	VERB	VpYS---XR-AA---	Aspect=Perf|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	_
+8	kufr	kufr	NOUN	NNIS4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|Polarity=Pos	7	obj	_	SpaceAfter=No
 9	?	?	PUNCT	Z:-------------	_	7	punct	_	_
 10	"	"	PUNCT	Z:-------------	_	7	punct	_	_
 
@@ -137,19 +134,22 @@ The following 7 pairs of parts of speech are connected with `vocative`: [cs-pos/
 
 
 ~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 6 vocative	color:blue
-1	"	"	PUNCT	Z:-------------	_	3	punct	_	_
-2	Váš	tvůj	DET	PSYS1-P2-------	Case=Nom|Gender=Masc|Number=Sing|Number[psor]=Plur|Person=2|Poss=Yes|PronType=Prs	3	det	_	LGloss=(přivlast.)
-3	závěr	závěr	NOUN	NNIS1-----A----	Animacy=Inan|Case=Nom|Gender=Masc|Negative=Pos|Number=Sing	0	root	_	SpaceAfter=No|LGloss=(př._z_jednání,_úvah)
-4	,	,	PUNCT	Z:-------------	_	3	punct	_	_
-5	soudruhu	soudruh	NOUN	NNMS5-----A----	Animacy=Anim|Case=Voc|Gender=Masc|Negative=Pos|Number=Sing	6	nmod	_	_
-6	náměstku	náměstek	NOUN	NNMS5-----A----	Animacy=Anim|Case=Voc|Gender=Masc|Negative=Pos|Number=Sing	3	vocative	_	SpaceAfter=No
-7	.	.	PUNCT	Z:-------------	_	3	punct	_	_
-8	"	"	PUNCT	Z:-------------	_	3	punct	_	_
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 4 vocative	color:blue
+1	Je	být	AUX	VB-S---3P-AA---	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	2	cop	_	_
+2	krásná	krásný	ADJ	AAFS1----1A----	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	0	root	_	SpaceAfter=No
+3	,	,	PUNCT	Z:-------------	_	8	punct	_	_
+4	děvenko	děvenka	NOUN	NNFS5-----A----	Case=Voc|Gender=Fem|Number=Sing|Polarity=Pos	2	vocative	_	SpaceAfter=No
+5	,	,	PUNCT	Z:-------------	_	8	punct	_	_
+6	máma	máma	NOUN	NNFS1-----A----	Case=Nom|Gender=Fem|Number=Sing|Polarity=Pos	8	nsubj	_	_
+7	ji	on	PRON	PPFS4--3-------	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	8	obj	_	_
+8	má	mít	VERB	VB-S---3P-AA---	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	2	conj	_	_
+9	taky	také	ADV	Db-------------	_	8	advmod	_	LGloss=(rovněž)
+10	ráda	rád	ADJ	ACQW------A----	Gender=Fem,Neut|Number=Plur,Sing|Polarity=Pos|Variant=Short	8	obl	_	SpaceAfter=No
+11	.	.	PUNCT	Z:-------------	_	2	punct	_	_
 
 ~~~
 

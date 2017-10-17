@@ -6,12 +6,12 @@
 
 This relation is universal.
 
-5450 nodes (10%) are attached to their parents as `root`.
+4372 nodes (10%) are attached to their parents as `root`.
 
-5450 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.95926605504587.
+4372 instances of `root` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 3.88906678865508.
 
-The following 11 pairs of parts of speech are connected with `root`: [got-pos/ROOT]()-[got-pos/VERB]() (5066; 93% instances), [got-pos/ROOT]()-[got-pos/NOUN]() (107; 2% instances), [got-pos/ROOT]()-[got-pos/CONJ]() (59; 1% instances), [got-pos/ROOT]()-[got-pos/ADV]() (58; 1% instances), [got-pos/ROOT]()-[got-pos/ADJ]() (56; 1% instances), [got-pos/ROOT]()-[got-pos/PRON]() (48; 1% instances), [got-pos/ROOT]()-[got-pos/INTJ]() (26; 0% instances), [got-pos/ROOT]()-[got-pos/PROPN]() (17; 0% instances), [got-pos/ROOT]()-[got-pos/NUM]() (7; 0% instances), [got-pos/ROOT]()-[got-pos/X]() (5; 0% instances), [got-pos/ROOT]()-[got-pos/SCONJ]() (1; 0% instances).
+The following 10 pairs of parts of speech are connected with `root`: [got-pos/ROOT]()-[got-pos/VERB]() (4041; 92% instances), [got-pos/ROOT]()-[got-pos/NOUN]() (95; 2% instances), [got-pos/ROOT]()-[got-pos/ADJ]() (65; 1% instances), [got-pos/ROOT]()-[got-pos/ADV]() (52; 1% instances), [got-pos/ROOT]()-[got-pos/CCONJ]() (44; 1% instances), [got-pos/ROOT]()-[got-pos/PRON]() (33; 1% instances), [got-pos/ROOT]()-[got-pos/INTJ]() (23; 1% instances), [got-pos/ROOT]()-[got-pos/PROPN]() (12; 0% instances), [got-pos/ROOT]()-[got-pos/NUM]() (4; 0% instances), [got-pos/ROOT]()-[got-pos/X]() (3; 0% instances).
 
 
 ~~~ conllu
@@ -20,9 +20,14 @@ The following 11 pairs of parts of speech are connected with `root`: [got-pos/RO
 # visual-style 0	bgColor:blue
 # visual-style 0	fgColor:white
 # visual-style 0 2 root	color:blue
-1	amen	amen	INTJ	I-	_	2	vocative	_	_
-2	qiþa	qiþan	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-3	þus	þu	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=2|PronType=Prs	2	iobj	_	_
+1	ni	ni	ADV	Df	Polarity=Neg	2	advmod	_	ref=MATT_5.17
+2	hugjaiþ	hugjan	VERB	V-	Mood=Opt|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=MATT_5.17
+3	ei	ei	SCONJ	G-	_	4	mark	_	ref=MATT_5.17
+4	qemjau	qiman	VERB	V-	Mood=Opt|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	2	ccomp	_	ref=MATT_5.17
+5	gatairan	ga-tairan	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	4	advcl	_	ref=MATT_5.17
+6	witoþ	witoþ	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	5	obj:dir	_	ref=MATT_5.17
+7	aiþþau	aiþþau	CCONJ	C-	_	6	cc	_	ref=MATT_5.17
+8	praufetuns	praufetes	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	6	conj	_	ref=MATT_5.17
 
 ~~~
 
@@ -33,20 +38,26 @@ The following 11 pairs of parts of speech are connected with `root`: [got-pos/RO
 # visual-style 0	bgColor:blue
 # visual-style 0	fgColor:white
 # visual-style 0 1 root	color:blue
-1	praufetu	praufetes	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	0	root	_	_
+1	augo	augo	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	0	root	_	ref=MATT_5.38
+2	und	und	ADP	R-	_	3	case	_	ref=MATT_5.38
+3	augin	augo	NOUN	Nb	Case=Dat|Gender=Neut|Number=Sing	1	obl	_	ref=MATT_5.38
+4	jah	jah	CCONJ	C-	_	1	cc	_	ref=MATT_5.38
+5	tunþu	tunþus	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	1	conj	_	ref=MATT_5.38
+6	und	und	ADP	R-	_	7	case	_	ref=MATT_5.38
+7	tunþau	tunþus	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	5	orphan	_	ref=MATT_5.38
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
 # visual-style 0	bgColor:blue
 # visual-style 0	fgColor:white
-# visual-style 0 1 root	color:blue
-1	jah	jah	CONJ	C-	_	0	root	_	_
-2	þridja	þridja	ADJ	Mo	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	_
-3	samaleiko	samaleiko	ADV	Df	_	1	advmod	_	_
+# visual-style 0 2 root	color:blue
+1	sa	sa	DET	Pd	Case=Nom|Gender=Masc|Number=Sing	2	det	_	ref=LUKE_4.34
+2	weiha	weihs	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	0	root	_	ref=LUKE_4.34
+3	gudis	guþ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	ref=LUKE_4.34
 
 ~~~
 

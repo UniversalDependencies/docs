@@ -16,7 +16,7 @@ We recognize these two subclasses as subordinating conjunctions:
 * Complementizers, _come_ "like", _che_ "that", _mentre_ "while", _se_ "if"
 * Adverbial clause introducers, _come_ "like", _quando_ "when", _poiché, perché_ "since", or _prima_ "before" (when introducing a clause not a nominal)
 
-For _coordinating conjunctions_ see [CONJ]().
+For _coordinating conjunctions_ see [CCONJ]().
 
 ### Examples
 

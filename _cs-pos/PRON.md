@@ -2,6 +2,7 @@
 layout: postag
 title: 'PRON'
 shortdef: 'pronoun'
+udver: '2'
 ---
 
 ### Definition
@@ -18,20 +19,20 @@ order to annotate the same thing same way across languages.
 
 For instance, _tohle&nbsp;_ “this” is traditionally called pronoun in
 Czech grammar, regardless of context (the notion of determiners does
-not exist in Czech grammar). To make the annotation parallel across
-languages, it should be now tagged `PRON` in _<b>Tohle</b> jsem viděl
-včera.&nbsp;_ “I saw <b>this</b> yesterday.” and `DET` in
-_<b>Tohle</b> auto jsem viděl včera.&nbsp;_ “I saw <b>this</b> car yesterday.”
+not exist in the traditional Czech grammar).
+In UD v2, _tohle_ is tagged `DET`.
+
+Unlike in UD v1, we no longer use the dependency tree to distinguish between determiners and pronouns.
+Instead, we use a pre-defined list of lemmas that are `DET` if their PDT tag indicates pronoun.
+See also [here](../../sla/pos/PRON.html) for a Slavic-wide discussion of the distinction between determiners and pronouns.
 
 ### Examples
 
 - personal pronouns: _já, ty, on, ona, ono, my, vy, oni, ony&nbsp;_ “I, you, he, she, it, we, you, they, they”
 - reflexive pronouns: _sebe, se, sobě, si, sebou&nbsp;_ “oneself”
-- demonstrative pronouns: _tohle&nbsp;_ as in _<b>Tohle</b> jsem viděl včera._ “I saw <b>this</b> yesterday.”
 - interrogative pronouns: _kdo, co&nbsp;_ “who, what” as in _<b>Co</b> si myslíš?&nbsp;_ “<b>What</b> do you think?”
 - relative pronouns: _kdo, co&nbsp;_ “who, what” as in _Zajímalo by mě, <b>co</b> si myslíš.&nbsp;_  “I wonder <b>what</b> you think.”
 - indefinite pronouns: _někdo, něco&nbsp;_ “somebody, something”
-- total pronouns: _každý, všichni&nbsp;_ “everybody, all”
 - negative pronouns: _nikdo, nic&nbsp;_ “nobody, nothing”
 
 ### References

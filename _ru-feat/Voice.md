@@ -9,23 +9,38 @@ such as subject and object, to semantic roles, such as agent and pacient.
 
 ### `Act`: active voice
 
-The subject of the verb is the doer of the action (agent), the object
-is affected by the action (pacient).
+Prototypically, the subject of the verb is the doer of the action (agent), the object
+is affected by the action (patient).
 
-All finite verb forms and the active/past participles are tagged `Voice=Act`.
+All active participles (in present and past form) are tagged `Voice=Act`.
+By default, the finite forms, ininitives and gerunds of non-reflexive verbs are also labeled `Voice=Act`, except for the cases when they are labeled `Voice=Pass` and `Voice=Mid`, see below.
 
 #### Examples
 
-* _мы <b>нападали</b> на врага.&nbsp;_ “We <b>attacked</b> the enemy”
+* _мы <b>атаковали</b> врага.&nbsp;_ “We <b>attacked</b> the enemy”
   
 ### `Pass`: passive voice
 
 The subject of the verb is affected by the action (patient). The doer
-(agent) is either unexpressed or it appears as an object of the verb.
+(agent) is either a non-obligatory oblique phrase of the verb or not overtly expressed;.
 
-Only the passive participle is tagged `Voice=Pass`.
+The passive participles (in present and past form) are tagged `Voice=Pass`. The finite non-reflexive forms are labeled `Voice=Pass` in the passive construction; in this case, the form is marked with -sja (but the lemma is tagged as non-reflexive).
 
 #### Examples
 
-* _Мы <b>атакованы</b> врагом.&nbsp;_ “We are <b>attacked</b> by
+* _Мы были <b>атакованы</b> врагом.&nbsp;_ “We were <b>attacked</b> by the enemy” 
+* _Разработки лекарства <b>ведутся</b> несколькими международными компаниями.&nbsp;_ “Drug development is <b>conducted</b> by several international companies” 
 
+### `Mid`: middle voice
+
+Between active and passive, needed for the reflexive verbs (in all forms except active participle).
+
+#### Examples
+
+* _Я <b>занялся</b> музыкой.&nbsp;_ “I <b>took up.Refl</b> music” 
+
+#### References
+
+Anna Siewierska. 2013. Passive Constructions. In: Dryer, Matthew S. & Haspelmath, Martin (eds.) 
+The World Atlas of Language Structures Online. Leipzig: Max Planck Institute for Evolutionary Anthropology. 
+(http://wals.info/chapter/107) 

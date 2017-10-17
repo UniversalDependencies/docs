@@ -91,7 +91,7 @@ Similarly, the new <a href="format.html">CoNLL-U format</a> is now supported as 
     # I wrote the letter with a quill.
     1   Я         ja         PRON   _   Case=Nom|Number=Sing|Person=1|PronType=Prs        2   nsubj   _   I
     2   написал   napisat'   VERB   _   Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act   0   root    _   wrote
-    3   письмо    pis'mo     NOUN   _   Case=Acc|Gender=Neut|Number=Sing                  2   dobj    _   the-letter
+    3   письмо    pis'mo     NOUN   _   Case=Acc|Gender=Neut|Number=Sing                  2   obj     _   the-letter
     4   пером     pero       NOUN   _   Case=Ins|Gender=Neut|Number=Sing                  2   nmod    _   with-a-quill
     ~~~
 
@@ -99,7 +99,7 @@ Similarly, the new <a href="format.html">CoNLL-U format</a> is now supported as 
 # I wrote the letter with a quill.
 1   Я         ja         PRON   _   Case=Nom|Number=Sing|Person=1|PronType=Prs        2   nsubj   _   I
 2   написал   napisat'   VERB   _   Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act   0   root    _   wrote
-3   письмо    pis'mo     NOUN   _   Case=Acc|Gender=Neut|Number=Sing                  2   dobj    _   the-letter
+3   письмо    pis'mo     NOUN   _   Case=Acc|Gender=Neut|Number=Sing                  2   obj     _   the-letter
 4   пером     pero       NOUN   _   Case=Ins|Gender=Neut|Number=Sing                  2   nmod    _   with-a-quill
 ~~~
 
@@ -165,14 +165,14 @@ nsubj(run, Dogs)
 
 ## Ambiguous tokens
 
-If your example has several instances of the same token, you can use their position to refer to the exact token. In the following example `can-5` refers to the fifth token of the sentence, `can`. 
+If your example has several instances of the same token, you can use their position to refer to the exact token. In the following example `can-5` refers to the fifth token of the sentence, `can`.
 
     ~~~ sdparse
     I can can the can .
     nsubj(can-3, I)
     aux(can-3, can-2)
     det(can-5,the)
-    dobj(can-3,can-5)
+    obj(can-3,can-5)
     punct(can-3,.)
     ~~~
 
@@ -183,7 +183,7 @@ I can can the can .
 nsubj(can-3, I)
 aux(can-3, can-2)
 det(can-5,the)
-dobj(can-3,can-5)
+obj(can-3,can-5)
 punct(can-3,.)
 ~~~
 

@@ -1,6 +1,7 @@
 ---
 layout: base
 title: 'Tagset pt::freeling conversion to universal POS tags and features'
+udver: '2'
 ---
 
 <a href="index.html">all tables</a>
@@ -132,9 +133,9 @@ Tagset <tt>pt::freeling</tt>, total 413 tags.
   <tr><td>PP20SN0</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Number=Sing|Person=2|PronType=Prs</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>PP20SD0</td><td>=&gt;</td><td>PRON</td><td>Case=Dat|Number=Sing|Person=2|PronType=Prs</td><td><em></em></td></tr>
   <tr><td>PP20SA0</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Number=Sing|Person=2|PronType=Prs</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>PP20SNP</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Number=Sing|Person=2|Polite=Pol|PronType=Prs</td><td><em></em></td></tr>
-  <tr><td>PP20SDP</td><td>=&gt;</td><td>PRON</td><td>Case=Dat|Number=Sing|Person=2|Polite=Pol|PronType=Prs</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>PP20SAP</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Number=Sing|Person=2|Polite=Pol|PronType=Prs</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>PP20SNP</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Number=Sing|Person=2|Polite=Form|PronType=Prs</td><td><em></em></td></tr>
+  <tr><td>PP20SDP</td><td>=&gt;</td><td>PRON</td><td>Case=Dat|Number=Sing|Person=2|Polite=Form|PronType=Prs</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>PP20SAP</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Number=Sing|Person=2|Polite=Form|PronType=Prs</td><td><em></em></td></tr>
   <tr><td>PP3MSN0</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>PP3MSD0</td><td>=&gt;</td><td>PRON</td><td>Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs</td><td><em></em></td></tr>
   <tr><td>PP3MSA0</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs</td><td><em></em></td></tr>
@@ -147,9 +148,9 @@ Tagset <tt>pt::freeling</tt>, total 413 tags.
   <tr style="background:lightgray"><td>PP20PN0</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Number=Plur|Person=2|PronType=Prs</td><td><em></em></td></tr>
   <tr><td>PP20PD0</td><td>=&gt;</td><td>PRON</td><td>Case=Dat|Number=Plur|Person=2|PronType=Prs</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>PP20PA0</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Number=Plur|Person=2|PronType=Prs</td><td><em></em></td></tr>
-  <tr><td>PP20PNP</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Number=Plur|Person=2|Polite=Pol|PronType=Prs</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>PP20PDP</td><td>=&gt;</td><td>PRON</td><td>Case=Dat|Number=Plur|Person=2|Polite=Pol|PronType=Prs</td><td><em></em></td></tr>
-  <tr><td>PP20PAP</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Number=Plur|Person=2|Polite=Pol|PronType=Prs</td><td><em></em></td></tr>
+  <tr><td>PP20PNP</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Number=Plur|Person=2|Polite=Form|PronType=Prs</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>PP20PDP</td><td>=&gt;</td><td>PRON</td><td>Case=Dat|Number=Plur|Person=2|Polite=Form|PronType=Prs</td><td><em></em></td></tr>
+  <tr><td>PP20PAP</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Number=Plur|Person=2|Polite=Form|PronType=Prs</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>PP3MPN0</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Gender=Masc|Number=Plur|Person=3|PronType=Prs</td><td><em></em></td></tr>
   <tr><td>PP3MPD0</td><td>=&gt;</td><td>PRON</td><td>Case=Dat|Gender=Masc|Number=Plur|Person=3|PronType=Prs</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>PP3MPA0</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Gender=Masc|Number=Plur|Person=3|PronType=Prs</td><td><em></em></td></tr>
@@ -404,7 +405,7 @@ Tagset <tt>pt::freeling</tt>, total 413 tags.
   <tr><td>RG</td><td>=&gt;</td><td>ADV</td><td>_</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>RN</td><td>=&gt;</td><td>ADV</td><td>PronType=Neg</td><td><em></em></td></tr>
   <tr><td>SP</td><td>=&gt;</td><td>ADP</td><td>AdpType=Prep</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>CC</td><td>=&gt;</td><td>CONJ</td><td>_</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>CC</td><td>=&gt;</td><td>CCONJ</td><td>_</td><td><em></em></td></tr>
   <tr><td>CS</td><td>=&gt;</td><td>SCONJ</td><td>_</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>I</td><td>=&gt;</td><td>INTJ</td><td>_</td><td><em></em></td></tr>
   <tr><td>Fd</td><td>=&gt;</td><td>PUNCT</td><td>PunctType=Colo</td><td><em></em></td></tr>

@@ -1,6 +1,7 @@
 ---
 layout: base
 title: 'Tagset sl::multext conversion to universal POS tags and features'
+udver: '2'
 ---
 
 <a href="index.html">all tables</a>
@@ -226,7 +227,7 @@ Tagset <tt>sl::multext</tt>, total 1150 tags.
   <tr><td>Aspnsi</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Degree=Pos|Gender=Neut|Number=Sing|Poss=Yes</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>Aspnsl</td><td>=&gt;</td><td>ADJ</td><td>Case=Loc|Degree=Pos|Gender=Neut|Number=Sing|Poss=Yes</td><td><em></em></td></tr>
   <tr><td>Aspnsn</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Poss=Yes</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Cc</td><td>=&gt;</td><td>CONJ</td><td>_</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Cc</td><td>=&gt;</td><td>CCONJ</td><td>_</td><td><em></em></td></tr>
   <tr><td>Cs</td><td>=&gt;</td><td>SCONJ</td><td>_</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>I</td><td>=&gt;</td><td>INTJ</td><td>_</td><td><em></em></td></tr>
   <tr><td>Mdc</td><td>=&gt;</td><td>NUM</td><td>NumForm=Digit|NumType=Card</td><td><em></em></td></tr>
@@ -340,17 +341,17 @@ Tagset <tt>sl::multext</tt>, total 1150 tags.
   <tr><td>Mlpnsi</td><td>=&gt;</td><td>DET</td><td>Case=Ins|Gender=Neut|Number=Sing|NumForm=Word|NumType=Card,Ord|PronType=Ind</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>Mlpnsl</td><td>=&gt;</td><td>DET</td><td>Case=Loc|Gender=Neut|Number=Sing|NumForm=Word|NumType=Card,Ord|PronType=Ind</td><td><em></em></td></tr>
   <tr><td>Mlpnsn</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Gender=Neut|Number=Sing|NumForm=Word|NumType=Card,Ord|PronType=Ind</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Mlsfpa</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Gender=Fem|Number=Plur|NumForm=Word|NumType=Gen</td><td><em></em></td></tr>
-  <tr><td>Mlsfpg</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Gender=Fem|Number=Plur|NumForm=Word|NumType=Gen</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Mlsfsg</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Gender=Fem|Number=Sing|NumForm=Word|NumType=Gen</td><td><em></em></td></tr>
-  <tr><td>Mlsfsi</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Gender=Fem|Number=Sing|NumForm=Word|NumType=Gen</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Mlsfsn</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Gender=Fem|Number=Sing|NumForm=Word|NumType=Gen</td><td><em></em></td></tr>
-  <tr><td>Mlsmpi</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Gender=Masc|Number=Plur|NumForm=Word|NumType=Gen</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Mlsmsg</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Gender=Masc|Number=Sing|NumForm=Word|NumType=Gen</td><td><em></em></td></tr>
-  <tr><td>Mlsmsi</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Gender=Masc|Number=Sing|NumForm=Word|NumType=Gen</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Mlsnsa</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Gender=Neut|Number=Sing|NumForm=Word|NumType=Gen</td><td><em></em></td></tr>
-  <tr><td>Mlsnsi</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Gender=Neut|Number=Sing|NumForm=Word|NumType=Gen</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Mlsnsn</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Gender=Neut|Number=Sing|NumForm=Word|NumType=Gen</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Mlsfpa</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Gender=Fem|Number=Plur|NumForm=Word|NumType=Sets</td><td><em></em></td></tr>
+  <tr><td>Mlsfpg</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Gender=Fem|Number=Plur|NumForm=Word|NumType=Sets</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Mlsfsg</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Gender=Fem|Number=Sing|NumForm=Word|NumType=Sets</td><td><em></em></td></tr>
+  <tr><td>Mlsfsi</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Gender=Fem|Number=Sing|NumForm=Word|NumType=Sets</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Mlsfsn</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Gender=Fem|Number=Sing|NumForm=Word|NumType=Sets</td><td><em></em></td></tr>
+  <tr><td>Mlsmpi</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Gender=Masc|Number=Plur|NumForm=Word|NumType=Sets</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Mlsmsg</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|Gender=Masc|Number=Sing|NumForm=Word|NumType=Sets</td><td><em></em></td></tr>
+  <tr><td>Mlsmsi</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Gender=Masc|Number=Sing|NumForm=Word|NumType=Sets</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Mlsnsa</td><td>=&gt;</td><td>ADJ</td><td>Case=Acc|Gender=Neut|Number=Sing|NumForm=Word|NumType=Sets</td><td><em></em></td></tr>
+  <tr><td>Mlsnsi</td><td>=&gt;</td><td>ADJ</td><td>Case=Ins|Gender=Neut|Number=Sing|NumForm=Word|NumType=Sets</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Mlsnsn</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Gender=Neut|Number=Sing|NumForm=Word|NumType=Sets</td><td><em></em></td></tr>
   <tr><td>Mrc</td><td>=&gt;</td><td>NUM</td><td>NumForm=Roman|NumType=Card</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>Mro</td><td>=&gt;</td><td>ADJ</td><td>NumForm=Roman|NumType=Ord</td><td><em></em></td></tr>
   <tr><td>Ncfda</td><td>=&gt;</td><td>NOUN</td><td>Case=Acc|Gender=Fem|Number=Dual</td><td><em></em></td></tr>
@@ -483,56 +484,56 @@ Tagset <tt>sl::multext</tt>, total 1150 tags.
   <tr style="background:lightgray"><td>Pd-nsi</td><td>=&gt;</td><td>PRON</td><td>Case=Ins|Gender=Neut|Number=Sing|PronType=Dem</td><td><em></em></td></tr>
   <tr><td>Pd-nsl</td><td>=&gt;</td><td>PRON</td><td>Case=Loc|Gender=Neut|Number=Sing|PronType=Dem</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>Pd-nsn</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Gender=Neut|Number=Sing|PronType=Dem</td><td><em></em></td></tr>
-  <tr><td>Pg-fda</td><td>=&gt;</td><td>DET</td><td>Case=Acc|Gender=Fem|Number=Dual|PronType=Tot</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Pg-fdg</td><td>=&gt;</td><td>DET</td><td>Case=Gen|Gender=Fem|Number=Dual|PronType=Tot</td><td><em></em></td></tr>
-  <tr><td>Pg-fdi</td><td>=&gt;</td><td>DET</td><td>Case=Ins|Gender=Fem|Number=Dual|PronType=Tot</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Pg-fdl</td><td>=&gt;</td><td>DET</td><td>Case=Loc|Gender=Fem|Number=Dual|PronType=Tot</td><td><em></em></td></tr>
-  <tr><td>Pg-fdn</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Gender=Fem|Number=Dual|PronType=Tot</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Pg-fpa</td><td>=&gt;</td><td>DET</td><td>Case=Acc|Gender=Fem|Number=Plur|PronType=Tot</td><td><em></em></td></tr>
-  <tr><td>Pg-fpd</td><td>=&gt;</td><td>DET</td><td>Case=Dat|Gender=Fem|Number=Plur|PronType=Tot</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Pg-fpg</td><td>=&gt;</td><td>DET</td><td>Case=Gen|Gender=Fem|Number=Plur|PronType=Tot</td><td><em></em></td></tr>
-  <tr><td>Pg-fpi</td><td>=&gt;</td><td>DET</td><td>Case=Ins|Gender=Fem|Number=Plur|PronType=Tot</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Pg-fpl</td><td>=&gt;</td><td>DET</td><td>Case=Loc|Gender=Fem|Number=Plur|PronType=Tot</td><td><em></em></td></tr>
-  <tr><td>Pg-fpn</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Gender=Fem|Number=Plur|PronType=Tot</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Pg-fsa</td><td>=&gt;</td><td>DET</td><td>Case=Acc|Gender=Fem|Number=Sing|PronType=Tot</td><td><em></em></td></tr>
-  <tr><td>Pg-fsd</td><td>=&gt;</td><td>DET</td><td>Case=Dat|Gender=Fem|Number=Sing|PronType=Tot</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Pg-fsg</td><td>=&gt;</td><td>DET</td><td>Case=Gen|Gender=Fem|Number=Sing|PronType=Tot</td><td><em></em></td></tr>
-  <tr><td>Pg-fsi</td><td>=&gt;</td><td>DET</td><td>Case=Ins|Gender=Fem|Number=Sing|PronType=Tot</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Pg-fsl</td><td>=&gt;</td><td>DET</td><td>Case=Loc|Gender=Fem|Number=Sing|PronType=Tot</td><td><em></em></td></tr>
-  <tr><td>Pg-fsn</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Gender=Fem|Number=Sing|PronType=Tot</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Pg-mda</td><td>=&gt;</td><td>DET</td><td>Case=Acc|Gender=Masc|Number=Dual|PronType=Tot</td><td><em></em></td></tr>
-  <tr><td>Pg-mdd</td><td>=&gt;</td><td>DET</td><td>Case=Dat|Gender=Masc|Number=Dual|PronType=Tot</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Pg-mdg</td><td>=&gt;</td><td>DET</td><td>Case=Gen|Gender=Masc|Number=Dual|PronType=Tot</td><td><em></em></td></tr>
-  <tr><td>Pg-mdi</td><td>=&gt;</td><td>DET</td><td>Case=Ins|Gender=Masc|Number=Dual|PronType=Tot</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Pg-mdl</td><td>=&gt;</td><td>DET</td><td>Case=Loc|Gender=Masc|Number=Dual|PronType=Tot</td><td><em></em></td></tr>
-  <tr><td>Pg-mdn</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Gender=Masc|Number=Dual|PronType=Tot</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Pg-mpa</td><td>=&gt;</td><td>DET</td><td>Case=Acc|Gender=Masc|Number=Plur|PronType=Tot</td><td><em></em></td></tr>
-  <tr><td>Pg-mpd</td><td>=&gt;</td><td>DET</td><td>Case=Dat|Gender=Masc|Number=Plur|PronType=Tot</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Pg-mpg</td><td>=&gt;</td><td>DET</td><td>Case=Gen|Gender=Masc|Number=Plur|PronType=Tot</td><td><em></em></td></tr>
-  <tr><td>Pg-mpi</td><td>=&gt;</td><td>DET</td><td>Case=Ins|Gender=Masc|Number=Plur|PronType=Tot</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Pg-mpl</td><td>=&gt;</td><td>DET</td><td>Case=Loc|Gender=Masc|Number=Plur|PronType=Tot</td><td><em></em></td></tr>
-  <tr><td>Pg-mpn</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Gender=Masc|Number=Plur|PronType=Tot</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Pg-msa</td><td>=&gt;</td><td>DET</td><td>Case=Acc|Gender=Masc|Number=Sing|PronType=Tot</td><td><em></em></td></tr>
-  <tr><td>Pg-msd</td><td>=&gt;</td><td>DET</td><td>Case=Dat|Gender=Masc|Number=Sing|PronType=Tot</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Pg-msg</td><td>=&gt;</td><td>DET</td><td>Case=Gen|Gender=Masc|Number=Sing|PronType=Tot</td><td><em></em></td></tr>
-  <tr><td>Pg-msi</td><td>=&gt;</td><td>DET</td><td>Case=Ins|Gender=Masc|Number=Sing|PronType=Tot</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Pg-msl</td><td>=&gt;</td><td>DET</td><td>Case=Loc|Gender=Masc|Number=Sing|PronType=Tot</td><td><em></em></td></tr>
-  <tr><td>Pg-msn</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Gender=Masc|Number=Sing|PronType=Tot</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Pg-nda</td><td>=&gt;</td><td>DET</td><td>Case=Acc|Gender=Neut|Number=Dual|PronType=Tot</td><td><em></em></td></tr>
-  <tr><td>Pg-ndd</td><td>=&gt;</td><td>DET</td><td>Case=Dat|Gender=Neut|Number=Dual|PronType=Tot</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Pg-ndn</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Gender=Neut|Number=Dual|PronType=Tot</td><td><em></em></td></tr>
-  <tr><td>Pg-npa</td><td>=&gt;</td><td>DET</td><td>Case=Acc|Gender=Neut|Number=Plur|PronType=Tot</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Pg-npd</td><td>=&gt;</td><td>DET</td><td>Case=Dat|Gender=Neut|Number=Plur|PronType=Tot</td><td><em></em></td></tr>
-  <tr><td>Pg-npg</td><td>=&gt;</td><td>DET</td><td>Case=Gen|Gender=Neut|Number=Plur|PronType=Tot</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Pg-npi</td><td>=&gt;</td><td>DET</td><td>Case=Ins|Gender=Neut|Number=Plur|PronType=Tot</td><td><em></em></td></tr>
-  <tr><td>Pg-npl</td><td>=&gt;</td><td>DET</td><td>Case=Loc|Gender=Neut|Number=Plur|PronType=Tot</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Pg-npn</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Gender=Neut|Number=Plur|PronType=Tot</td><td><em></em></td></tr>
-  <tr><td>Pg-nsa</td><td>=&gt;</td><td>DET</td><td>Case=Acc|Gender=Neut|Number=Sing|PronType=Tot</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Pg-nsd</td><td>=&gt;</td><td>DET</td><td>Case=Dat|Gender=Neut|Number=Sing|PronType=Tot</td><td><em></em></td></tr>
-  <tr><td>Pg-nsg</td><td>=&gt;</td><td>DET</td><td>Case=Gen|Gender=Neut|Number=Sing|PronType=Tot</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Pg-nsi</td><td>=&gt;</td><td>DET</td><td>Case=Ins|Gender=Neut|Number=Sing|PronType=Tot</td><td><em></em></td></tr>
-  <tr><td>Pg-nsl</td><td>=&gt;</td><td>DET</td><td>Case=Loc|Gender=Neut|Number=Sing|PronType=Tot</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Pg-nsn</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Gender=Neut|Number=Sing|PronType=Tot</td><td><em></em></td></tr>
+  <tr><td>Pg-fda</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Gender=Fem|Number=Dual|PronType=Tot</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Pg-fdg</td><td>=&gt;</td><td>PRON</td><td>Case=Gen|Gender=Fem|Number=Dual|PronType=Tot</td><td><em></em></td></tr>
+  <tr><td>Pg-fdi</td><td>=&gt;</td><td>PRON</td><td>Case=Ins|Gender=Fem|Number=Dual|PronType=Tot</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Pg-fdl</td><td>=&gt;</td><td>PRON</td><td>Case=Loc|Gender=Fem|Number=Dual|PronType=Tot</td><td><em></em></td></tr>
+  <tr><td>Pg-fdn</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Gender=Fem|Number=Dual|PronType=Tot</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Pg-fpa</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Gender=Fem|Number=Plur|PronType=Tot</td><td><em></em></td></tr>
+  <tr><td>Pg-fpd</td><td>=&gt;</td><td>PRON</td><td>Case=Dat|Gender=Fem|Number=Plur|PronType=Tot</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Pg-fpg</td><td>=&gt;</td><td>PRON</td><td>Case=Gen|Gender=Fem|Number=Plur|PronType=Tot</td><td><em></em></td></tr>
+  <tr><td>Pg-fpi</td><td>=&gt;</td><td>PRON</td><td>Case=Ins|Gender=Fem|Number=Plur|PronType=Tot</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Pg-fpl</td><td>=&gt;</td><td>PRON</td><td>Case=Loc|Gender=Fem|Number=Plur|PronType=Tot</td><td><em></em></td></tr>
+  <tr><td>Pg-fpn</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Gender=Fem|Number=Plur|PronType=Tot</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Pg-fsa</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Gender=Fem|Number=Sing|PronType=Tot</td><td><em></em></td></tr>
+  <tr><td>Pg-fsd</td><td>=&gt;</td><td>PRON</td><td>Case=Dat|Gender=Fem|Number=Sing|PronType=Tot</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Pg-fsg</td><td>=&gt;</td><td>PRON</td><td>Case=Gen|Gender=Fem|Number=Sing|PronType=Tot</td><td><em></em></td></tr>
+  <tr><td>Pg-fsi</td><td>=&gt;</td><td>PRON</td><td>Case=Ins|Gender=Fem|Number=Sing|PronType=Tot</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Pg-fsl</td><td>=&gt;</td><td>PRON</td><td>Case=Loc|Gender=Fem|Number=Sing|PronType=Tot</td><td><em></em></td></tr>
+  <tr><td>Pg-fsn</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Gender=Fem|Number=Sing|PronType=Tot</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Pg-mda</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Gender=Masc|Number=Dual|PronType=Tot</td><td><em></em></td></tr>
+  <tr><td>Pg-mdd</td><td>=&gt;</td><td>PRON</td><td>Case=Dat|Gender=Masc|Number=Dual|PronType=Tot</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Pg-mdg</td><td>=&gt;</td><td>PRON</td><td>Case=Gen|Gender=Masc|Number=Dual|PronType=Tot</td><td><em></em></td></tr>
+  <tr><td>Pg-mdi</td><td>=&gt;</td><td>PRON</td><td>Case=Ins|Gender=Masc|Number=Dual|PronType=Tot</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Pg-mdl</td><td>=&gt;</td><td>PRON</td><td>Case=Loc|Gender=Masc|Number=Dual|PronType=Tot</td><td><em></em></td></tr>
+  <tr><td>Pg-mdn</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Gender=Masc|Number=Dual|PronType=Tot</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Pg-mpa</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Gender=Masc|Number=Plur|PronType=Tot</td><td><em></em></td></tr>
+  <tr><td>Pg-mpd</td><td>=&gt;</td><td>PRON</td><td>Case=Dat|Gender=Masc|Number=Plur|PronType=Tot</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Pg-mpg</td><td>=&gt;</td><td>PRON</td><td>Case=Gen|Gender=Masc|Number=Plur|PronType=Tot</td><td><em></em></td></tr>
+  <tr><td>Pg-mpi</td><td>=&gt;</td><td>PRON</td><td>Case=Ins|Gender=Masc|Number=Plur|PronType=Tot</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Pg-mpl</td><td>=&gt;</td><td>PRON</td><td>Case=Loc|Gender=Masc|Number=Plur|PronType=Tot</td><td><em></em></td></tr>
+  <tr><td>Pg-mpn</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Gender=Masc|Number=Plur|PronType=Tot</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Pg-msa</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Gender=Masc|Number=Sing|PronType=Tot</td><td><em></em></td></tr>
+  <tr><td>Pg-msd</td><td>=&gt;</td><td>PRON</td><td>Case=Dat|Gender=Masc|Number=Sing|PronType=Tot</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Pg-msg</td><td>=&gt;</td><td>PRON</td><td>Case=Gen|Gender=Masc|Number=Sing|PronType=Tot</td><td><em></em></td></tr>
+  <tr><td>Pg-msi</td><td>=&gt;</td><td>PRON</td><td>Case=Ins|Gender=Masc|Number=Sing|PronType=Tot</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Pg-msl</td><td>=&gt;</td><td>PRON</td><td>Case=Loc|Gender=Masc|Number=Sing|PronType=Tot</td><td><em></em></td></tr>
+  <tr><td>Pg-msn</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Gender=Masc|Number=Sing|PronType=Tot</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Pg-nda</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Gender=Neut|Number=Dual|PronType=Tot</td><td><em></em></td></tr>
+  <tr><td>Pg-ndd</td><td>=&gt;</td><td>PRON</td><td>Case=Dat|Gender=Neut|Number=Dual|PronType=Tot</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Pg-ndn</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Gender=Neut|Number=Dual|PronType=Tot</td><td><em></em></td></tr>
+  <tr><td>Pg-npa</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Gender=Neut|Number=Plur|PronType=Tot</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Pg-npd</td><td>=&gt;</td><td>PRON</td><td>Case=Dat|Gender=Neut|Number=Plur|PronType=Tot</td><td><em></em></td></tr>
+  <tr><td>Pg-npg</td><td>=&gt;</td><td>PRON</td><td>Case=Gen|Gender=Neut|Number=Plur|PronType=Tot</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Pg-npi</td><td>=&gt;</td><td>PRON</td><td>Case=Ins|Gender=Neut|Number=Plur|PronType=Tot</td><td><em></em></td></tr>
+  <tr><td>Pg-npl</td><td>=&gt;</td><td>PRON</td><td>Case=Loc|Gender=Neut|Number=Plur|PronType=Tot</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Pg-npn</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Gender=Neut|Number=Plur|PronType=Tot</td><td><em></em></td></tr>
+  <tr><td>Pg-nsa</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Gender=Neut|Number=Sing|PronType=Tot</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Pg-nsd</td><td>=&gt;</td><td>PRON</td><td>Case=Dat|Gender=Neut|Number=Sing|PronType=Tot</td><td><em></em></td></tr>
+  <tr><td>Pg-nsg</td><td>=&gt;</td><td>PRON</td><td>Case=Gen|Gender=Neut|Number=Sing|PronType=Tot</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Pg-nsi</td><td>=&gt;</td><td>PRON</td><td>Case=Ins|Gender=Neut|Number=Sing|PronType=Tot</td><td><em></em></td></tr>
+  <tr><td>Pg-nsl</td><td>=&gt;</td><td>PRON</td><td>Case=Loc|Gender=Neut|Number=Sing|PronType=Tot</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Pg-nsn</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Gender=Neut|Number=Sing|PronType=Tot</td><td><em></em></td></tr>
   <tr><td>Pi-fdn</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Gender=Fem|Number=Dual|PronType=Ind</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>Pi-fpa</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Gender=Fem|Number=Plur|PronType=Ind</td><td><em></em></td></tr>
   <tr><td>Pi-fpd</td><td>=&gt;</td><td>PRON</td><td>Case=Dat|Gender=Fem|Number=Plur|PronType=Ind</td><td><em></em></td></tr>
@@ -740,229 +741,229 @@ Tagset <tt>sl::multext</tt>, total 1150 tags.
   <tr><td>Pr-nsi</td><td>=&gt;</td><td>PRON</td><td>Case=Ins|Gender=Neut|Number=Sing|PronType=Rel</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>Pr-nsl</td><td>=&gt;</td><td>PRON</td><td>Case=Loc|Gender=Neut|Number=Sing|PronType=Rel</td><td><em></em></td></tr>
   <tr><td>Pr-nsn</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Gender=Neut|Number=Sing|PronType=Rel</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Ps1fdns</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Gender=Fem|Number=Dual|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr><td>Ps1fpap</td><td>=&gt;</td><td>DET</td><td>Case=Acc|Gender=Fem|Number=Plur|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Ps1fpas</td><td>=&gt;</td><td>DET</td><td>Case=Acc|Gender=Fem|Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr><td>Ps1fpdp</td><td>=&gt;</td><td>DET</td><td>Case=Dat|Gender=Fem|Number=Plur|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Ps1fpgp</td><td>=&gt;</td><td>DET</td><td>Case=Gen|Gender=Fem|Number=Plur|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr><td>Ps1fpgs</td><td>=&gt;</td><td>DET</td><td>Case=Gen|Gender=Fem|Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Ps1fpip</td><td>=&gt;</td><td>DET</td><td>Case=Ins|Gender=Fem|Number=Plur|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr><td>Ps1fplp</td><td>=&gt;</td><td>DET</td><td>Case=Loc|Gender=Fem|Number=Plur|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Ps1fpnd</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Gender=Fem|Number=Plur|Number[psor]=Dual|Person=1|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr><td>Ps1fpnp</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Gender=Fem|Number=Plur|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Ps1fpns</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Gender=Fem|Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr><td>Ps1fsap</td><td>=&gt;</td><td>DET</td><td>Case=Acc|Gender=Fem|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Ps1fsas</td><td>=&gt;</td><td>DET</td><td>Case=Acc|Gender=Fem|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr><td>Ps1fsdp</td><td>=&gt;</td><td>DET</td><td>Case=Dat|Gender=Fem|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Ps1fsds</td><td>=&gt;</td><td>DET</td><td>Case=Dat|Gender=Fem|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr><td>Ps1fsgp</td><td>=&gt;</td><td>DET</td><td>Case=Gen|Gender=Fem|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Ps1fsgs</td><td>=&gt;</td><td>DET</td><td>Case=Gen|Gender=Fem|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr><td>Ps1fsid</td><td>=&gt;</td><td>DET</td><td>Case=Ins|Gender=Fem|Number=Sing|Number[psor]=Dual|Person=1|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Ps1fsip</td><td>=&gt;</td><td>DET</td><td>Case=Ins|Gender=Fem|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr><td>Ps1fsis</td><td>=&gt;</td><td>DET</td><td>Case=Ins|Gender=Fem|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Ps1fslp</td><td>=&gt;</td><td>DET</td><td>Case=Loc|Gender=Fem|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr><td>Ps1fsls</td><td>=&gt;</td><td>DET</td><td>Case=Loc|Gender=Fem|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Ps1fsnd</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Gender=Fem|Number=Sing|Number[psor]=Dual|Person=1|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr><td>Ps1fsnp</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Gender=Fem|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Ps1fsns</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Gender=Fem|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr><td>Ps1mdgd</td><td>=&gt;</td><td>DET</td><td>Case=Gen|Gender=Masc|Number=Dual|Number[psor]=Dual|Person=1|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Ps1mdid</td><td>=&gt;</td><td>DET</td><td>Case=Ins|Gender=Masc|Number=Dual|Number[psor]=Dual|Person=1|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr><td>Ps1mdns</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Gender=Masc|Number=Dual|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Ps1mpap</td><td>=&gt;</td><td>DET</td><td>Case=Acc|Gender=Masc|Number=Plur|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr><td>Ps1mpdp</td><td>=&gt;</td><td>DET</td><td>Case=Dat|Gender=Masc|Number=Plur|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Ps1mpgd</td><td>=&gt;</td><td>DET</td><td>Case=Gen|Gender=Masc|Number=Plur|Number[psor]=Dual|Person=1|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr><td>Ps1mpgp</td><td>=&gt;</td><td>DET</td><td>Case=Gen|Gender=Masc|Number=Plur|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Ps1mpgs</td><td>=&gt;</td><td>DET</td><td>Case=Gen|Gender=Masc|Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr><td>Ps1mpip</td><td>=&gt;</td><td>DET</td><td>Case=Ins|Gender=Masc|Number=Plur|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Ps1mplp</td><td>=&gt;</td><td>DET</td><td>Case=Loc|Gender=Masc|Number=Plur|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr><td>Ps1mpnd</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Gender=Masc|Number=Plur|Number[psor]=Dual|Person=1|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Ps1mpnp</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Gender=Masc|Number=Plur|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr><td>Ps1mpns</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Gender=Masc|Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Ps1msap</td><td>=&gt;</td><td>DET</td><td>Case=Acc|Gender=Masc|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr><td>Ps1msas</td><td>=&gt;</td><td>DET</td><td>Case=Acc|Gender=Masc|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Ps1msds</td><td>=&gt;</td><td>DET</td><td>Case=Dat|Gender=Masc|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr><td>Ps1msgp</td><td>=&gt;</td><td>DET</td><td>Case=Gen|Gender=Masc|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Ps1msgs</td><td>=&gt;</td><td>DET</td><td>Case=Gen|Gender=Masc|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr><td>Ps1msip</td><td>=&gt;</td><td>DET</td><td>Case=Ins|Gender=Masc|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Ps1msis</td><td>=&gt;</td><td>DET</td><td>Case=Ins|Gender=Masc|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr><td>Ps1mslp</td><td>=&gt;</td><td>DET</td><td>Case=Loc|Gender=Masc|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Ps1msls</td><td>=&gt;</td><td>DET</td><td>Case=Loc|Gender=Masc|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr><td>Ps1msnd</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Gender=Masc|Number=Sing|Number[psor]=Dual|Person=1|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Ps1msnp</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Gender=Masc|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr><td>Ps1msns</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Gender=Masc|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Ps1npap</td><td>=&gt;</td><td>DET</td><td>Case=Acc|Gender=Neut|Number=Plur|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr><td>Ps1npas</td><td>=&gt;</td><td>DET</td><td>Case=Acc|Gender=Neut|Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Ps1npgp</td><td>=&gt;</td><td>DET</td><td>Case=Gen|Gender=Neut|Number=Plur|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr><td>Ps1npgs</td><td>=&gt;</td><td>DET</td><td>Case=Gen|Gender=Neut|Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Ps1nplp</td><td>=&gt;</td><td>DET</td><td>Case=Loc|Gender=Neut|Number=Plur|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr><td>Ps1npnp</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Gender=Neut|Number=Plur|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Ps1nsap</td><td>=&gt;</td><td>DET</td><td>Case=Acc|Gender=Neut|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr><td>Ps1nsas</td><td>=&gt;</td><td>DET</td><td>Case=Acc|Gender=Neut|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Ps1nsdp</td><td>=&gt;</td><td>DET</td><td>Case=Dat|Gender=Neut|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr><td>Ps1nsgd</td><td>=&gt;</td><td>DET</td><td>Case=Gen|Gender=Neut|Number=Sing|Number[psor]=Dual|Person=1|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Ps1nsgp</td><td>=&gt;</td><td>DET</td><td>Case=Gen|Gender=Neut|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr><td>Ps1nsgs</td><td>=&gt;</td><td>DET</td><td>Case=Gen|Gender=Neut|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Ps1nslp</td><td>=&gt;</td><td>DET</td><td>Case=Loc|Gender=Neut|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr><td>Ps1nsls</td><td>=&gt;</td><td>DET</td><td>Case=Loc|Gender=Neut|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Ps1nsnd</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Gender=Neut|Number=Sing|Number[psor]=Dual|Person=1|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr><td>Ps1nsnp</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Gender=Neut|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Ps1nsns</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Gender=Neut|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr><td>Ps2fdnp</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Gender=Fem|Number=Dual|Number[psor]=Plur|Person=2|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Ps2fpap</td><td>=&gt;</td><td>DET</td><td>Case=Acc|Gender=Fem|Number=Plur|Number[psor]=Plur|Person=2|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr><td>Ps2fpgp</td><td>=&gt;</td><td>DET</td><td>Case=Gen|Gender=Fem|Number=Plur|Number[psor]=Plur|Person=2|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Ps2fpnp</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Gender=Fem|Number=Plur|Number[psor]=Plur|Person=2|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr><td>Ps2fpns</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Gender=Fem|Number=Plur|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Ps2fsad</td><td>=&gt;</td><td>DET</td><td>Case=Acc|Gender=Fem|Number=Sing|Number[psor]=Dual|Person=2|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr><td>Ps2fsap</td><td>=&gt;</td><td>DET</td><td>Case=Acc|Gender=Fem|Number=Sing|Number[psor]=Plur|Person=2|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Ps2fsds</td><td>=&gt;</td><td>DET</td><td>Case=Dat|Gender=Fem|Number=Sing|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr><td>Ps2fsgd</td><td>=&gt;</td><td>DET</td><td>Case=Gen|Gender=Fem|Number=Sing|Number[psor]=Dual|Person=2|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Ps2fsgp</td><td>=&gt;</td><td>DET</td><td>Case=Gen|Gender=Fem|Number=Sing|Number[psor]=Plur|Person=2|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr><td>Ps2fsgs</td><td>=&gt;</td><td>DET</td><td>Case=Gen|Gender=Fem|Number=Sing|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Ps2fsid</td><td>=&gt;</td><td>DET</td><td>Case=Ins|Gender=Fem|Number=Sing|Number[psor]=Dual|Person=2|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr><td>Ps2fsip</td><td>=&gt;</td><td>DET</td><td>Case=Ins|Gender=Fem|Number=Sing|Number[psor]=Plur|Person=2|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Ps2fslp</td><td>=&gt;</td><td>DET</td><td>Case=Loc|Gender=Fem|Number=Sing|Number[psor]=Plur|Person=2|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr><td>Ps2fsnp</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Gender=Fem|Number=Sing|Number[psor]=Plur|Person=2|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Ps2fsns</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Gender=Fem|Number=Sing|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr><td>Ps2mdgd</td><td>=&gt;</td><td>DET</td><td>Case=Gen|Gender=Masc|Number=Dual|Number[psor]=Dual|Person=2|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Ps2mpdp</td><td>=&gt;</td><td>DET</td><td>Case=Dat|Gender=Masc|Number=Plur|Number[psor]=Plur|Person=2|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr><td>Ps2mpgp</td><td>=&gt;</td><td>DET</td><td>Case=Gen|Gender=Masc|Number=Plur|Number[psor]=Plur|Person=2|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Ps2mpid</td><td>=&gt;</td><td>DET</td><td>Case=Ins|Gender=Masc|Number=Plur|Number[psor]=Dual|Person=2|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr><td>Ps2mpnp</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Gender=Masc|Number=Plur|Number[psor]=Plur|Person=2|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Ps2mpns</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Gender=Masc|Number=Plur|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr><td>Ps2msap</td><td>=&gt;</td><td>DET</td><td>Case=Acc|Gender=Masc|Number=Sing|Number[psor]=Plur|Person=2|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Ps2msas</td><td>=&gt;</td><td>DET</td><td>Case=Acc|Gender=Masc|Number=Sing|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr><td>Ps2msgp</td><td>=&gt;</td><td>DET</td><td>Case=Gen|Gender=Masc|Number=Sing|Number[psor]=Plur|Person=2|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Ps2msgs</td><td>=&gt;</td><td>DET</td><td>Case=Gen|Gender=Masc|Number=Sing|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr><td>Ps2msip</td><td>=&gt;</td><td>DET</td><td>Case=Ins|Gender=Masc|Number=Sing|Number[psor]=Plur|Person=2|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Ps2mslp</td><td>=&gt;</td><td>DET</td><td>Case=Loc|Gender=Masc|Number=Sing|Number[psor]=Plur|Person=2|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr><td>Ps2msnd</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Gender=Masc|Number=Sing|Number[psor]=Dual|Person=2|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Ps2msnp</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Gender=Masc|Number=Sing|Number[psor]=Plur|Person=2|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr><td>Ps2msns</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Gender=Masc|Number=Sing|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Ps2ndgd</td><td>=&gt;</td><td>DET</td><td>Case=Gen|Gender=Neut|Number=Dual|Number[psor]=Dual|Person=2|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr><td>Ps2npap</td><td>=&gt;</td><td>DET</td><td>Case=Acc|Gender=Neut|Number=Plur|Number[psor]=Plur|Person=2|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Ps2npnp</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Gender=Neut|Number=Plur|Number[psor]=Plur|Person=2|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr><td>Ps2npns</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Gender=Neut|Number=Plur|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Ps2nsap</td><td>=&gt;</td><td>DET</td><td>Case=Acc|Gender=Neut|Number=Sing|Number[psor]=Plur|Person=2|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr><td>Ps2nsas</td><td>=&gt;</td><td>DET</td><td>Case=Acc|Gender=Neut|Number=Sing|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Ps2nsgp</td><td>=&gt;</td><td>DET</td><td>Case=Gen|Gender=Neut|Number=Sing|Number[psor]=Plur|Person=2|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr><td>Ps2nslp</td><td>=&gt;</td><td>DET</td><td>Case=Loc|Gender=Neut|Number=Sing|Number[psor]=Plur|Person=2|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Ps2nsnp</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Gender=Neut|Number=Sing|Number[psor]=Plur|Person=2|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr><td>Ps2nsns</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Gender=Neut|Number=Sing|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Ps3fdnd</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Gender=Fem|Number=Dual|Number[psor]=Dual|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr><td>Ps3fpap</td><td>=&gt;</td><td>DET</td><td>Case=Acc|Gender=Fem|Number=Plur|Number[psor]=Plur|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Ps3fpasf</td><td>=&gt;</td><td>DET</td><td>Case=Acc|Gender=Fem|Gender[psor]=Fem|Number=Plur|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr><td>Ps3fpasm</td><td>=&gt;</td><td>DET</td><td>Case=Acc|Gender=Fem|Gender[psor]=Masc|Number=Plur|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Ps3fpdp</td><td>=&gt;</td><td>DET</td><td>Case=Dat|Gender=Fem|Number=Plur|Number[psor]=Plur|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr><td>Ps3fpdsm</td><td>=&gt;</td><td>DET</td><td>Case=Dat|Gender=Fem|Gender[psor]=Masc|Number=Plur|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Ps3fpgp</td><td>=&gt;</td><td>DET</td><td>Case=Gen|Gender=Fem|Number=Plur|Number[psor]=Plur|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr><td>Ps3fpgsf</td><td>=&gt;</td><td>DET</td><td>Case=Gen|Gender=Fem|Gender[psor]=Fem|Number=Plur|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Ps3fpgsm</td><td>=&gt;</td><td>DET</td><td>Case=Gen|Gender=Fem|Gender[psor]=Masc|Number=Plur|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr><td>Ps3fpip</td><td>=&gt;</td><td>DET</td><td>Case=Ins|Gender=Fem|Number=Plur|Number[psor]=Plur|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Ps3fpisf</td><td>=&gt;</td><td>DET</td><td>Case=Ins|Gender=Fem|Gender[psor]=Fem|Number=Plur|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr><td>Ps3fpism</td><td>=&gt;</td><td>DET</td><td>Case=Ins|Gender=Fem|Gender[psor]=Masc|Number=Plur|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Ps3fplp</td><td>=&gt;</td><td>DET</td><td>Case=Loc|Gender=Fem|Number=Plur|Number[psor]=Plur|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr><td>Ps3fplsf</td><td>=&gt;</td><td>DET</td><td>Case=Loc|Gender=Fem|Gender[psor]=Fem|Number=Plur|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Ps3fplsm</td><td>=&gt;</td><td>DET</td><td>Case=Loc|Gender=Fem|Gender[psor]=Masc|Number=Plur|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr><td>Ps3fpnp</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Gender=Fem|Number=Plur|Number[psor]=Plur|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Ps3fpnsf</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Gender=Fem|Gender[psor]=Fem|Number=Plur|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr><td>Ps3fpnsm</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Gender=Fem|Gender[psor]=Masc|Number=Plur|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Ps3fsad</td><td>=&gt;</td><td>DET</td><td>Case=Acc|Gender=Fem|Number=Sing|Number[psor]=Dual|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr><td>Ps3fsap</td><td>=&gt;</td><td>DET</td><td>Case=Acc|Gender=Fem|Number=Sing|Number[psor]=Plur|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Ps3fsasf</td><td>=&gt;</td><td>DET</td><td>Case=Acc|Gender=Fem|Gender[psor]=Fem|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr><td>Ps3fsasm</td><td>=&gt;</td><td>DET</td><td>Case=Acc|Gender=Fem|Gender[psor]=Masc|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Ps3fsdp</td><td>=&gt;</td><td>DET</td><td>Case=Dat|Gender=Fem|Number=Sing|Number[psor]=Plur|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr><td>Ps3fsdsf</td><td>=&gt;</td><td>DET</td><td>Case=Dat|Gender=Fem|Gender[psor]=Fem|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Ps3fsdsm</td><td>=&gt;</td><td>DET</td><td>Case=Dat|Gender=Fem|Gender[psor]=Masc|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr><td>Ps3fsgd</td><td>=&gt;</td><td>DET</td><td>Case=Gen|Gender=Fem|Number=Sing|Number[psor]=Dual|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Ps3fsgp</td><td>=&gt;</td><td>DET</td><td>Case=Gen|Gender=Fem|Number=Sing|Number[psor]=Plur|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr><td>Ps3fsgsf</td><td>=&gt;</td><td>DET</td><td>Case=Gen|Gender=Fem|Gender[psor]=Fem|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Ps3fsgsm</td><td>=&gt;</td><td>DET</td><td>Case=Gen|Gender=Fem|Gender[psor]=Masc|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr><td>Ps3fsid</td><td>=&gt;</td><td>DET</td><td>Case=Ins|Gender=Fem|Number=Sing|Number[psor]=Dual|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Ps3fsip</td><td>=&gt;</td><td>DET</td><td>Case=Ins|Gender=Fem|Number=Sing|Number[psor]=Plur|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr><td>Ps3fsisf</td><td>=&gt;</td><td>DET</td><td>Case=Ins|Gender=Fem|Gender[psor]=Fem|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Ps3fsism</td><td>=&gt;</td><td>DET</td><td>Case=Ins|Gender=Fem|Gender[psor]=Masc|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr><td>Ps3fsld</td><td>=&gt;</td><td>DET</td><td>Case=Loc|Gender=Fem|Number=Sing|Number[psor]=Dual|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Ps3fslp</td><td>=&gt;</td><td>DET</td><td>Case=Loc|Gender=Fem|Number=Sing|Number[psor]=Plur|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr><td>Ps3fslsf</td><td>=&gt;</td><td>DET</td><td>Case=Loc|Gender=Fem|Gender[psor]=Fem|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Ps3fslsm</td><td>=&gt;</td><td>DET</td><td>Case=Loc|Gender=Fem|Gender[psor]=Masc|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr><td>Ps3fsnd</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Gender=Fem|Number=Sing|Number[psor]=Dual|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Ps3fsnp</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Gender=Fem|Number=Sing|Number[psor]=Plur|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr><td>Ps3fsnsf</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Gender=Fem|Gender[psor]=Fem|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Ps3fsnsm</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Gender=Fem|Gender[psor]=Masc|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr><td>Ps3fsnsn</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Gender=Fem|Gender[psor]=Neut|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Ps3mdnd</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Gender=Masc|Number=Dual|Number[psor]=Dual|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr><td>Ps3mdnsm</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Gender=Masc|Gender[psor]=Masc|Number=Dual|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Ps3mpap</td><td>=&gt;</td><td>DET</td><td>Case=Acc|Gender=Masc|Number=Plur|Number[psor]=Plur|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr><td>Ps3mpasf</td><td>=&gt;</td><td>DET</td><td>Case=Acc|Gender=Masc|Gender[psor]=Fem|Number=Plur|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Ps3mpasm</td><td>=&gt;</td><td>DET</td><td>Case=Acc|Gender=Masc|Gender[psor]=Masc|Number=Plur|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr><td>Ps3mpdp</td><td>=&gt;</td><td>DET</td><td>Case=Dat|Gender=Masc|Number=Plur|Number[psor]=Plur|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Ps3mpdsf</td><td>=&gt;</td><td>DET</td><td>Case=Dat|Gender=Masc|Gender[psor]=Fem|Number=Plur|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr><td>Ps3mpdsm</td><td>=&gt;</td><td>DET</td><td>Case=Dat|Gender=Masc|Gender[psor]=Masc|Number=Plur|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Ps3mpgp</td><td>=&gt;</td><td>DET</td><td>Case=Gen|Gender=Masc|Number=Plur|Number[psor]=Plur|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr><td>Ps3mpgsf</td><td>=&gt;</td><td>DET</td><td>Case=Gen|Gender=Masc|Gender[psor]=Fem|Number=Plur|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Ps3mpgsm</td><td>=&gt;</td><td>DET</td><td>Case=Gen|Gender=Masc|Gender[psor]=Masc|Number=Plur|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr><td>Ps3mpip</td><td>=&gt;</td><td>DET</td><td>Case=Ins|Gender=Masc|Number=Plur|Number[psor]=Plur|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Ps3mpism</td><td>=&gt;</td><td>DET</td><td>Case=Ins|Gender=Masc|Gender[psor]=Masc|Number=Plur|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr><td>Ps3mplp</td><td>=&gt;</td><td>DET</td><td>Case=Loc|Gender=Masc|Number=Plur|Number[psor]=Plur|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Ps3mplsf</td><td>=&gt;</td><td>DET</td><td>Case=Loc|Gender=Masc|Gender[psor]=Fem|Number=Plur|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr><td>Ps3mplsm</td><td>=&gt;</td><td>DET</td><td>Case=Loc|Gender=Masc|Gender[psor]=Masc|Number=Plur|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Ps3mpnd</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Gender=Masc|Number=Plur|Number[psor]=Dual|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr><td>Ps3mpnp</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Gender=Masc|Number=Plur|Number[psor]=Plur|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Ps3mpnsf</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Gender=Masc|Gender[psor]=Fem|Number=Plur|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr><td>Ps3mpnsm</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Gender=Masc|Gender[psor]=Masc|Number=Plur|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Ps3msad</td><td>=&gt;</td><td>DET</td><td>Case=Acc|Gender=Masc|Number=Sing|Number[psor]=Dual|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr><td>Ps3msap</td><td>=&gt;</td><td>DET</td><td>Case=Acc|Gender=Masc|Number=Sing|Number[psor]=Plur|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Ps3msasf</td><td>=&gt;</td><td>DET</td><td>Case=Acc|Gender=Masc|Gender[psor]=Fem|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr><td>Ps3msasm</td><td>=&gt;</td><td>DET</td><td>Case=Acc|Gender=Masc|Gender[psor]=Masc|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Ps3msdp</td><td>=&gt;</td><td>DET</td><td>Case=Dat|Gender=Masc|Number=Sing|Number[psor]=Plur|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr><td>Ps3msdsf</td><td>=&gt;</td><td>DET</td><td>Case=Dat|Gender=Masc|Gender[psor]=Fem|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Ps3msdsm</td><td>=&gt;</td><td>DET</td><td>Case=Dat|Gender=Masc|Gender[psor]=Masc|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr><td>Ps3msgd</td><td>=&gt;</td><td>DET</td><td>Case=Gen|Gender=Masc|Number=Sing|Number[psor]=Dual|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Ps3msgp</td><td>=&gt;</td><td>DET</td><td>Case=Gen|Gender=Masc|Number=Sing|Number[psor]=Plur|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr><td>Ps3msgsf</td><td>=&gt;</td><td>DET</td><td>Case=Gen|Gender=Masc|Gender[psor]=Fem|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Ps3msgsm</td><td>=&gt;</td><td>DET</td><td>Case=Gen|Gender=Masc|Gender[psor]=Masc|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr><td>Ps3msip</td><td>=&gt;</td><td>DET</td><td>Case=Ins|Gender=Masc|Number=Sing|Number[psor]=Plur|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Ps3msisf</td><td>=&gt;</td><td>DET</td><td>Case=Ins|Gender=Masc|Gender[psor]=Fem|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr><td>Ps3msism</td><td>=&gt;</td><td>DET</td><td>Case=Ins|Gender=Masc|Gender[psor]=Masc|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Ps3mslp</td><td>=&gt;</td><td>DET</td><td>Case=Loc|Gender=Masc|Number=Sing|Number[psor]=Plur|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr><td>Ps3mslsf</td><td>=&gt;</td><td>DET</td><td>Case=Loc|Gender=Masc|Gender[psor]=Fem|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Ps3mslsm</td><td>=&gt;</td><td>DET</td><td>Case=Loc|Gender=Masc|Gender[psor]=Masc|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr><td>Ps3msnd</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Gender=Masc|Number=Sing|Number[psor]=Dual|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Ps3msnp</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Gender=Masc|Number=Sing|Number[psor]=Plur|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr><td>Ps3msnsf</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Gender=Masc|Gender[psor]=Fem|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Ps3msnsm</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Gender=Masc|Gender[psor]=Masc|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr><td>Ps3msnsn</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Gender=Masc|Gender[psor]=Neut|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Ps3ndad</td><td>=&gt;</td><td>DET</td><td>Case=Acc|Gender=Neut|Number=Dual|Number[psor]=Dual|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr><td>Ps3ndnsf</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Gender=Neut|Gender[psor]=Fem|Number=Dual|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Ps3npap</td><td>=&gt;</td><td>DET</td><td>Case=Acc|Gender=Neut|Number=Plur|Number[psor]=Plur|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr><td>Ps3npasf</td><td>=&gt;</td><td>DET</td><td>Case=Acc|Gender=Neut|Gender[psor]=Fem|Number=Plur|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Ps3npasm</td><td>=&gt;</td><td>DET</td><td>Case=Acc|Gender=Neut|Gender[psor]=Masc|Number=Plur|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr><td>Ps3npgd</td><td>=&gt;</td><td>DET</td><td>Case=Gen|Gender=Neut|Number=Plur|Number[psor]=Dual|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Ps3npgp</td><td>=&gt;</td><td>DET</td><td>Case=Gen|Gender=Neut|Number=Plur|Number[psor]=Plur|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr><td>Ps3npgsf</td><td>=&gt;</td><td>DET</td><td>Case=Gen|Gender=Neut|Gender[psor]=Fem|Number=Plur|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Ps3npgsm</td><td>=&gt;</td><td>DET</td><td>Case=Gen|Gender=Neut|Gender[psor]=Masc|Number=Plur|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr><td>Ps3npism</td><td>=&gt;</td><td>DET</td><td>Case=Ins|Gender=Neut|Gender[psor]=Masc|Number=Plur|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Ps3npnp</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Gender=Neut|Number=Plur|Number[psor]=Plur|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr><td>Ps3npnsm</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Gender=Neut|Gender[psor]=Masc|Number=Plur|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Ps3nsad</td><td>=&gt;</td><td>DET</td><td>Case=Acc|Gender=Neut|Number=Sing|Number[psor]=Dual|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr><td>Ps3nsap</td><td>=&gt;</td><td>DET</td><td>Case=Acc|Gender=Neut|Number=Sing|Number[psor]=Plur|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Ps3nsasf</td><td>=&gt;</td><td>DET</td><td>Case=Acc|Gender=Neut|Gender[psor]=Fem|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr><td>Ps3nsasm</td><td>=&gt;</td><td>DET</td><td>Case=Acc|Gender=Neut|Gender[psor]=Masc|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Ps3nsdp</td><td>=&gt;</td><td>DET</td><td>Case=Dat|Gender=Neut|Number=Sing|Number[psor]=Plur|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr><td>Ps3nsdsf</td><td>=&gt;</td><td>DET</td><td>Case=Dat|Gender=Neut|Gender[psor]=Fem|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Ps3nsgp</td><td>=&gt;</td><td>DET</td><td>Case=Gen|Gender=Neut|Number=Sing|Number[psor]=Plur|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr><td>Ps3nsgsf</td><td>=&gt;</td><td>DET</td><td>Case=Gen|Gender=Neut|Gender[psor]=Fem|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Ps3nsgsm</td><td>=&gt;</td><td>DET</td><td>Case=Gen|Gender=Neut|Gender[psor]=Masc|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr><td>Ps3nsisf</td><td>=&gt;</td><td>DET</td><td>Case=Ins|Gender=Neut|Gender[psor]=Fem|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Ps3nsism</td><td>=&gt;</td><td>DET</td><td>Case=Ins|Gender=Neut|Gender[psor]=Masc|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr><td>Ps3nsld</td><td>=&gt;</td><td>DET</td><td>Case=Loc|Gender=Neut|Number=Sing|Number[psor]=Dual|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Ps3nslp</td><td>=&gt;</td><td>DET</td><td>Case=Loc|Gender=Neut|Number=Sing|Number[psor]=Plur|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr><td>Ps3nslsf</td><td>=&gt;</td><td>DET</td><td>Case=Loc|Gender=Neut|Gender[psor]=Fem|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Ps3nslsm</td><td>=&gt;</td><td>DET</td><td>Case=Loc|Gender=Neut|Gender[psor]=Masc|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr><td>Ps3nsnd</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Gender=Neut|Number=Sing|Number[psor]=Dual|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Ps3nsnp</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Gender=Neut|Number=Sing|Number[psor]=Plur|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr><td>Ps3nsnsf</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Gender=Neut|Gender[psor]=Fem|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Ps3nsnsm</td><td>=&gt;</td><td>DET</td><td>Case=Nom|Gender=Neut|Gender[psor]=Masc|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Ps1fdns</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Gender=Fem|Number=Dual|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr><td>Ps1fpap</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Gender=Fem|Number=Plur|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Ps1fpas</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Gender=Fem|Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr><td>Ps1fpdp</td><td>=&gt;</td><td>PRON</td><td>Case=Dat|Gender=Fem|Number=Plur|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Ps1fpgp</td><td>=&gt;</td><td>PRON</td><td>Case=Gen|Gender=Fem|Number=Plur|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr><td>Ps1fpgs</td><td>=&gt;</td><td>PRON</td><td>Case=Gen|Gender=Fem|Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Ps1fpip</td><td>=&gt;</td><td>PRON</td><td>Case=Ins|Gender=Fem|Number=Plur|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr><td>Ps1fplp</td><td>=&gt;</td><td>PRON</td><td>Case=Loc|Gender=Fem|Number=Plur|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Ps1fpnd</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Gender=Fem|Number=Plur|Number[psor]=Dual|Person=1|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr><td>Ps1fpnp</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Gender=Fem|Number=Plur|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Ps1fpns</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Gender=Fem|Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr><td>Ps1fsap</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Gender=Fem|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Ps1fsas</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Gender=Fem|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr><td>Ps1fsdp</td><td>=&gt;</td><td>PRON</td><td>Case=Dat|Gender=Fem|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Ps1fsds</td><td>=&gt;</td><td>PRON</td><td>Case=Dat|Gender=Fem|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr><td>Ps1fsgp</td><td>=&gt;</td><td>PRON</td><td>Case=Gen|Gender=Fem|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Ps1fsgs</td><td>=&gt;</td><td>PRON</td><td>Case=Gen|Gender=Fem|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr><td>Ps1fsid</td><td>=&gt;</td><td>PRON</td><td>Case=Ins|Gender=Fem|Number=Sing|Number[psor]=Dual|Person=1|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Ps1fsip</td><td>=&gt;</td><td>PRON</td><td>Case=Ins|Gender=Fem|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr><td>Ps1fsis</td><td>=&gt;</td><td>PRON</td><td>Case=Ins|Gender=Fem|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Ps1fslp</td><td>=&gt;</td><td>PRON</td><td>Case=Loc|Gender=Fem|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr><td>Ps1fsls</td><td>=&gt;</td><td>PRON</td><td>Case=Loc|Gender=Fem|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Ps1fsnd</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Gender=Fem|Number=Sing|Number[psor]=Dual|Person=1|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr><td>Ps1fsnp</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Gender=Fem|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Ps1fsns</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Gender=Fem|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr><td>Ps1mdgd</td><td>=&gt;</td><td>PRON</td><td>Case=Gen|Gender=Masc|Number=Dual|Number[psor]=Dual|Person=1|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Ps1mdid</td><td>=&gt;</td><td>PRON</td><td>Case=Ins|Gender=Masc|Number=Dual|Number[psor]=Dual|Person=1|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr><td>Ps1mdns</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Gender=Masc|Number=Dual|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Ps1mpap</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Gender=Masc|Number=Plur|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr><td>Ps1mpdp</td><td>=&gt;</td><td>PRON</td><td>Case=Dat|Gender=Masc|Number=Plur|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Ps1mpgd</td><td>=&gt;</td><td>PRON</td><td>Case=Gen|Gender=Masc|Number=Plur|Number[psor]=Dual|Person=1|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr><td>Ps1mpgp</td><td>=&gt;</td><td>PRON</td><td>Case=Gen|Gender=Masc|Number=Plur|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Ps1mpgs</td><td>=&gt;</td><td>PRON</td><td>Case=Gen|Gender=Masc|Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr><td>Ps1mpip</td><td>=&gt;</td><td>PRON</td><td>Case=Ins|Gender=Masc|Number=Plur|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Ps1mplp</td><td>=&gt;</td><td>PRON</td><td>Case=Loc|Gender=Masc|Number=Plur|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr><td>Ps1mpnd</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Gender=Masc|Number=Plur|Number[psor]=Dual|Person=1|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Ps1mpnp</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Gender=Masc|Number=Plur|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr><td>Ps1mpns</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Gender=Masc|Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Ps1msap</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Gender=Masc|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr><td>Ps1msas</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Gender=Masc|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Ps1msds</td><td>=&gt;</td><td>PRON</td><td>Case=Dat|Gender=Masc|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr><td>Ps1msgp</td><td>=&gt;</td><td>PRON</td><td>Case=Gen|Gender=Masc|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Ps1msgs</td><td>=&gt;</td><td>PRON</td><td>Case=Gen|Gender=Masc|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr><td>Ps1msip</td><td>=&gt;</td><td>PRON</td><td>Case=Ins|Gender=Masc|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Ps1msis</td><td>=&gt;</td><td>PRON</td><td>Case=Ins|Gender=Masc|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr><td>Ps1mslp</td><td>=&gt;</td><td>PRON</td><td>Case=Loc|Gender=Masc|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Ps1msls</td><td>=&gt;</td><td>PRON</td><td>Case=Loc|Gender=Masc|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr><td>Ps1msnd</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Gender=Masc|Number=Sing|Number[psor]=Dual|Person=1|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Ps1msnp</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Gender=Masc|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr><td>Ps1msns</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Gender=Masc|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Ps1npap</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Gender=Neut|Number=Plur|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr><td>Ps1npas</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Gender=Neut|Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Ps1npgp</td><td>=&gt;</td><td>PRON</td><td>Case=Gen|Gender=Neut|Number=Plur|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr><td>Ps1npgs</td><td>=&gt;</td><td>PRON</td><td>Case=Gen|Gender=Neut|Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Ps1nplp</td><td>=&gt;</td><td>PRON</td><td>Case=Loc|Gender=Neut|Number=Plur|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr><td>Ps1npnp</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Gender=Neut|Number=Plur|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Ps1nsap</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Gender=Neut|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr><td>Ps1nsas</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Gender=Neut|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Ps1nsdp</td><td>=&gt;</td><td>PRON</td><td>Case=Dat|Gender=Neut|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr><td>Ps1nsgd</td><td>=&gt;</td><td>PRON</td><td>Case=Gen|Gender=Neut|Number=Sing|Number[psor]=Dual|Person=1|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Ps1nsgp</td><td>=&gt;</td><td>PRON</td><td>Case=Gen|Gender=Neut|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr><td>Ps1nsgs</td><td>=&gt;</td><td>PRON</td><td>Case=Gen|Gender=Neut|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Ps1nslp</td><td>=&gt;</td><td>PRON</td><td>Case=Loc|Gender=Neut|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr><td>Ps1nsls</td><td>=&gt;</td><td>PRON</td><td>Case=Loc|Gender=Neut|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Ps1nsnd</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Gender=Neut|Number=Sing|Number[psor]=Dual|Person=1|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr><td>Ps1nsnp</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Gender=Neut|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Ps1nsns</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Gender=Neut|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr><td>Ps2fdnp</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Gender=Fem|Number=Dual|Number[psor]=Plur|Person=2|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Ps2fpap</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Gender=Fem|Number=Plur|Number[psor]=Plur|Person=2|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr><td>Ps2fpgp</td><td>=&gt;</td><td>PRON</td><td>Case=Gen|Gender=Fem|Number=Plur|Number[psor]=Plur|Person=2|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Ps2fpnp</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Gender=Fem|Number=Plur|Number[psor]=Plur|Person=2|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr><td>Ps2fpns</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Gender=Fem|Number=Plur|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Ps2fsad</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Gender=Fem|Number=Sing|Number[psor]=Dual|Person=2|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr><td>Ps2fsap</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Gender=Fem|Number=Sing|Number[psor]=Plur|Person=2|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Ps2fsds</td><td>=&gt;</td><td>PRON</td><td>Case=Dat|Gender=Fem|Number=Sing|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr><td>Ps2fsgd</td><td>=&gt;</td><td>PRON</td><td>Case=Gen|Gender=Fem|Number=Sing|Number[psor]=Dual|Person=2|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Ps2fsgp</td><td>=&gt;</td><td>PRON</td><td>Case=Gen|Gender=Fem|Number=Sing|Number[psor]=Plur|Person=2|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr><td>Ps2fsgs</td><td>=&gt;</td><td>PRON</td><td>Case=Gen|Gender=Fem|Number=Sing|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Ps2fsid</td><td>=&gt;</td><td>PRON</td><td>Case=Ins|Gender=Fem|Number=Sing|Number[psor]=Dual|Person=2|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr><td>Ps2fsip</td><td>=&gt;</td><td>PRON</td><td>Case=Ins|Gender=Fem|Number=Sing|Number[psor]=Plur|Person=2|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Ps2fslp</td><td>=&gt;</td><td>PRON</td><td>Case=Loc|Gender=Fem|Number=Sing|Number[psor]=Plur|Person=2|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr><td>Ps2fsnp</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Gender=Fem|Number=Sing|Number[psor]=Plur|Person=2|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Ps2fsns</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Gender=Fem|Number=Sing|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr><td>Ps2mdgd</td><td>=&gt;</td><td>PRON</td><td>Case=Gen|Gender=Masc|Number=Dual|Number[psor]=Dual|Person=2|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Ps2mpdp</td><td>=&gt;</td><td>PRON</td><td>Case=Dat|Gender=Masc|Number=Plur|Number[psor]=Plur|Person=2|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr><td>Ps2mpgp</td><td>=&gt;</td><td>PRON</td><td>Case=Gen|Gender=Masc|Number=Plur|Number[psor]=Plur|Person=2|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Ps2mpid</td><td>=&gt;</td><td>PRON</td><td>Case=Ins|Gender=Masc|Number=Plur|Number[psor]=Dual|Person=2|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr><td>Ps2mpnp</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Gender=Masc|Number=Plur|Number[psor]=Plur|Person=2|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Ps2mpns</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Gender=Masc|Number=Plur|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr><td>Ps2msap</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Gender=Masc|Number=Sing|Number[psor]=Plur|Person=2|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Ps2msas</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Gender=Masc|Number=Sing|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr><td>Ps2msgp</td><td>=&gt;</td><td>PRON</td><td>Case=Gen|Gender=Masc|Number=Sing|Number[psor]=Plur|Person=2|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Ps2msgs</td><td>=&gt;</td><td>PRON</td><td>Case=Gen|Gender=Masc|Number=Sing|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr><td>Ps2msip</td><td>=&gt;</td><td>PRON</td><td>Case=Ins|Gender=Masc|Number=Sing|Number[psor]=Plur|Person=2|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Ps2mslp</td><td>=&gt;</td><td>PRON</td><td>Case=Loc|Gender=Masc|Number=Sing|Number[psor]=Plur|Person=2|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr><td>Ps2msnd</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Gender=Masc|Number=Sing|Number[psor]=Dual|Person=2|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Ps2msnp</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Gender=Masc|Number=Sing|Number[psor]=Plur|Person=2|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr><td>Ps2msns</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Gender=Masc|Number=Sing|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Ps2ndgd</td><td>=&gt;</td><td>PRON</td><td>Case=Gen|Gender=Neut|Number=Dual|Number[psor]=Dual|Person=2|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr><td>Ps2npap</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Gender=Neut|Number=Plur|Number[psor]=Plur|Person=2|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Ps2npnp</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Gender=Neut|Number=Plur|Number[psor]=Plur|Person=2|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr><td>Ps2npns</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Gender=Neut|Number=Plur|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Ps2nsap</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Gender=Neut|Number=Sing|Number[psor]=Plur|Person=2|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr><td>Ps2nsas</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Gender=Neut|Number=Sing|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Ps2nsgp</td><td>=&gt;</td><td>PRON</td><td>Case=Gen|Gender=Neut|Number=Sing|Number[psor]=Plur|Person=2|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr><td>Ps2nslp</td><td>=&gt;</td><td>PRON</td><td>Case=Loc|Gender=Neut|Number=Sing|Number[psor]=Plur|Person=2|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Ps2nsnp</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Gender=Neut|Number=Sing|Number[psor]=Plur|Person=2|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr><td>Ps2nsns</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Gender=Neut|Number=Sing|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Ps3fdnd</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Gender=Fem|Number=Dual|Number[psor]=Dual|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr><td>Ps3fpap</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Gender=Fem|Number=Plur|Number[psor]=Plur|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Ps3fpasf</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Gender=Fem|Gender[psor]=Fem|Number=Plur|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr><td>Ps3fpasm</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Gender=Fem|Gender[psor]=Masc|Number=Plur|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Ps3fpdp</td><td>=&gt;</td><td>PRON</td><td>Case=Dat|Gender=Fem|Number=Plur|Number[psor]=Plur|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr><td>Ps3fpdsm</td><td>=&gt;</td><td>PRON</td><td>Case=Dat|Gender=Fem|Gender[psor]=Masc|Number=Plur|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Ps3fpgp</td><td>=&gt;</td><td>PRON</td><td>Case=Gen|Gender=Fem|Number=Plur|Number[psor]=Plur|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr><td>Ps3fpgsf</td><td>=&gt;</td><td>PRON</td><td>Case=Gen|Gender=Fem|Gender[psor]=Fem|Number=Plur|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Ps3fpgsm</td><td>=&gt;</td><td>PRON</td><td>Case=Gen|Gender=Fem|Gender[psor]=Masc|Number=Plur|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr><td>Ps3fpip</td><td>=&gt;</td><td>PRON</td><td>Case=Ins|Gender=Fem|Number=Plur|Number[psor]=Plur|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Ps3fpisf</td><td>=&gt;</td><td>PRON</td><td>Case=Ins|Gender=Fem|Gender[psor]=Fem|Number=Plur|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr><td>Ps3fpism</td><td>=&gt;</td><td>PRON</td><td>Case=Ins|Gender=Fem|Gender[psor]=Masc|Number=Plur|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Ps3fplp</td><td>=&gt;</td><td>PRON</td><td>Case=Loc|Gender=Fem|Number=Plur|Number[psor]=Plur|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr><td>Ps3fplsf</td><td>=&gt;</td><td>PRON</td><td>Case=Loc|Gender=Fem|Gender[psor]=Fem|Number=Plur|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Ps3fplsm</td><td>=&gt;</td><td>PRON</td><td>Case=Loc|Gender=Fem|Gender[psor]=Masc|Number=Plur|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr><td>Ps3fpnp</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Gender=Fem|Number=Plur|Number[psor]=Plur|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Ps3fpnsf</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Gender=Fem|Gender[psor]=Fem|Number=Plur|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr><td>Ps3fpnsm</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Gender=Fem|Gender[psor]=Masc|Number=Plur|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Ps3fsad</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Gender=Fem|Number=Sing|Number[psor]=Dual|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr><td>Ps3fsap</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Gender=Fem|Number=Sing|Number[psor]=Plur|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Ps3fsasf</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Gender=Fem|Gender[psor]=Fem|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr><td>Ps3fsasm</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Gender=Fem|Gender[psor]=Masc|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Ps3fsdp</td><td>=&gt;</td><td>PRON</td><td>Case=Dat|Gender=Fem|Number=Sing|Number[psor]=Plur|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr><td>Ps3fsdsf</td><td>=&gt;</td><td>PRON</td><td>Case=Dat|Gender=Fem|Gender[psor]=Fem|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Ps3fsdsm</td><td>=&gt;</td><td>PRON</td><td>Case=Dat|Gender=Fem|Gender[psor]=Masc|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr><td>Ps3fsgd</td><td>=&gt;</td><td>PRON</td><td>Case=Gen|Gender=Fem|Number=Sing|Number[psor]=Dual|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Ps3fsgp</td><td>=&gt;</td><td>PRON</td><td>Case=Gen|Gender=Fem|Number=Sing|Number[psor]=Plur|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr><td>Ps3fsgsf</td><td>=&gt;</td><td>PRON</td><td>Case=Gen|Gender=Fem|Gender[psor]=Fem|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Ps3fsgsm</td><td>=&gt;</td><td>PRON</td><td>Case=Gen|Gender=Fem|Gender[psor]=Masc|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr><td>Ps3fsid</td><td>=&gt;</td><td>PRON</td><td>Case=Ins|Gender=Fem|Number=Sing|Number[psor]=Dual|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Ps3fsip</td><td>=&gt;</td><td>PRON</td><td>Case=Ins|Gender=Fem|Number=Sing|Number[psor]=Plur|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr><td>Ps3fsisf</td><td>=&gt;</td><td>PRON</td><td>Case=Ins|Gender=Fem|Gender[psor]=Fem|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Ps3fsism</td><td>=&gt;</td><td>PRON</td><td>Case=Ins|Gender=Fem|Gender[psor]=Masc|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr><td>Ps3fsld</td><td>=&gt;</td><td>PRON</td><td>Case=Loc|Gender=Fem|Number=Sing|Number[psor]=Dual|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Ps3fslp</td><td>=&gt;</td><td>PRON</td><td>Case=Loc|Gender=Fem|Number=Sing|Number[psor]=Plur|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr><td>Ps3fslsf</td><td>=&gt;</td><td>PRON</td><td>Case=Loc|Gender=Fem|Gender[psor]=Fem|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Ps3fslsm</td><td>=&gt;</td><td>PRON</td><td>Case=Loc|Gender=Fem|Gender[psor]=Masc|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr><td>Ps3fsnd</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Gender=Fem|Number=Sing|Number[psor]=Dual|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Ps3fsnp</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Gender=Fem|Number=Sing|Number[psor]=Plur|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr><td>Ps3fsnsf</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Gender=Fem|Gender[psor]=Fem|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Ps3fsnsm</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Gender=Fem|Gender[psor]=Masc|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr><td>Ps3fsnsn</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Gender=Fem|Gender[psor]=Neut|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Ps3mdnd</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Gender=Masc|Number=Dual|Number[psor]=Dual|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr><td>Ps3mdnsm</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Gender=Masc|Gender[psor]=Masc|Number=Dual|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Ps3mpap</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Gender=Masc|Number=Plur|Number[psor]=Plur|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr><td>Ps3mpasf</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Gender=Masc|Gender[psor]=Fem|Number=Plur|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Ps3mpasm</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Gender=Masc|Gender[psor]=Masc|Number=Plur|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr><td>Ps3mpdp</td><td>=&gt;</td><td>PRON</td><td>Case=Dat|Gender=Masc|Number=Plur|Number[psor]=Plur|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Ps3mpdsf</td><td>=&gt;</td><td>PRON</td><td>Case=Dat|Gender=Masc|Gender[psor]=Fem|Number=Plur|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr><td>Ps3mpdsm</td><td>=&gt;</td><td>PRON</td><td>Case=Dat|Gender=Masc|Gender[psor]=Masc|Number=Plur|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Ps3mpgp</td><td>=&gt;</td><td>PRON</td><td>Case=Gen|Gender=Masc|Number=Plur|Number[psor]=Plur|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr><td>Ps3mpgsf</td><td>=&gt;</td><td>PRON</td><td>Case=Gen|Gender=Masc|Gender[psor]=Fem|Number=Plur|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Ps3mpgsm</td><td>=&gt;</td><td>PRON</td><td>Case=Gen|Gender=Masc|Gender[psor]=Masc|Number=Plur|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr><td>Ps3mpip</td><td>=&gt;</td><td>PRON</td><td>Case=Ins|Gender=Masc|Number=Plur|Number[psor]=Plur|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Ps3mpism</td><td>=&gt;</td><td>PRON</td><td>Case=Ins|Gender=Masc|Gender[psor]=Masc|Number=Plur|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr><td>Ps3mplp</td><td>=&gt;</td><td>PRON</td><td>Case=Loc|Gender=Masc|Number=Plur|Number[psor]=Plur|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Ps3mplsf</td><td>=&gt;</td><td>PRON</td><td>Case=Loc|Gender=Masc|Gender[psor]=Fem|Number=Plur|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr><td>Ps3mplsm</td><td>=&gt;</td><td>PRON</td><td>Case=Loc|Gender=Masc|Gender[psor]=Masc|Number=Plur|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Ps3mpnd</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Gender=Masc|Number=Plur|Number[psor]=Dual|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr><td>Ps3mpnp</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Gender=Masc|Number=Plur|Number[psor]=Plur|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Ps3mpnsf</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Gender=Masc|Gender[psor]=Fem|Number=Plur|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr><td>Ps3mpnsm</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Gender=Masc|Gender[psor]=Masc|Number=Plur|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Ps3msad</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Gender=Masc|Number=Sing|Number[psor]=Dual|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr><td>Ps3msap</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Gender=Masc|Number=Sing|Number[psor]=Plur|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Ps3msasf</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Gender=Masc|Gender[psor]=Fem|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr><td>Ps3msasm</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Gender=Masc|Gender[psor]=Masc|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Ps3msdp</td><td>=&gt;</td><td>PRON</td><td>Case=Dat|Gender=Masc|Number=Sing|Number[psor]=Plur|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr><td>Ps3msdsf</td><td>=&gt;</td><td>PRON</td><td>Case=Dat|Gender=Masc|Gender[psor]=Fem|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Ps3msdsm</td><td>=&gt;</td><td>PRON</td><td>Case=Dat|Gender=Masc|Gender[psor]=Masc|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr><td>Ps3msgd</td><td>=&gt;</td><td>PRON</td><td>Case=Gen|Gender=Masc|Number=Sing|Number[psor]=Dual|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Ps3msgp</td><td>=&gt;</td><td>PRON</td><td>Case=Gen|Gender=Masc|Number=Sing|Number[psor]=Plur|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr><td>Ps3msgsf</td><td>=&gt;</td><td>PRON</td><td>Case=Gen|Gender=Masc|Gender[psor]=Fem|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Ps3msgsm</td><td>=&gt;</td><td>PRON</td><td>Case=Gen|Gender=Masc|Gender[psor]=Masc|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr><td>Ps3msip</td><td>=&gt;</td><td>PRON</td><td>Case=Ins|Gender=Masc|Number=Sing|Number[psor]=Plur|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Ps3msisf</td><td>=&gt;</td><td>PRON</td><td>Case=Ins|Gender=Masc|Gender[psor]=Fem|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr><td>Ps3msism</td><td>=&gt;</td><td>PRON</td><td>Case=Ins|Gender=Masc|Gender[psor]=Masc|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Ps3mslp</td><td>=&gt;</td><td>PRON</td><td>Case=Loc|Gender=Masc|Number=Sing|Number[psor]=Plur|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr><td>Ps3mslsf</td><td>=&gt;</td><td>PRON</td><td>Case=Loc|Gender=Masc|Gender[psor]=Fem|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Ps3mslsm</td><td>=&gt;</td><td>PRON</td><td>Case=Loc|Gender=Masc|Gender[psor]=Masc|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr><td>Ps3msnd</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Gender=Masc|Number=Sing|Number[psor]=Dual|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Ps3msnp</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Gender=Masc|Number=Sing|Number[psor]=Plur|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr><td>Ps3msnsf</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Gender=Masc|Gender[psor]=Fem|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Ps3msnsm</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Gender=Masc|Gender[psor]=Masc|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr><td>Ps3msnsn</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Gender=Masc|Gender[psor]=Neut|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Ps3ndad</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Gender=Neut|Number=Dual|Number[psor]=Dual|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr><td>Ps3ndnsf</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Gender=Neut|Gender[psor]=Fem|Number=Dual|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Ps3npap</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Gender=Neut|Number=Plur|Number[psor]=Plur|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr><td>Ps3npasf</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Gender=Neut|Gender[psor]=Fem|Number=Plur|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Ps3npasm</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Gender=Neut|Gender[psor]=Masc|Number=Plur|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr><td>Ps3npgd</td><td>=&gt;</td><td>PRON</td><td>Case=Gen|Gender=Neut|Number=Plur|Number[psor]=Dual|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Ps3npgp</td><td>=&gt;</td><td>PRON</td><td>Case=Gen|Gender=Neut|Number=Plur|Number[psor]=Plur|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr><td>Ps3npgsf</td><td>=&gt;</td><td>PRON</td><td>Case=Gen|Gender=Neut|Gender[psor]=Fem|Number=Plur|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Ps3npgsm</td><td>=&gt;</td><td>PRON</td><td>Case=Gen|Gender=Neut|Gender[psor]=Masc|Number=Plur|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr><td>Ps3npism</td><td>=&gt;</td><td>PRON</td><td>Case=Ins|Gender=Neut|Gender[psor]=Masc|Number=Plur|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Ps3npnp</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Gender=Neut|Number=Plur|Number[psor]=Plur|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr><td>Ps3npnsm</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Gender=Neut|Gender[psor]=Masc|Number=Plur|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Ps3nsad</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Gender=Neut|Number=Sing|Number[psor]=Dual|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr><td>Ps3nsap</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Gender=Neut|Number=Sing|Number[psor]=Plur|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Ps3nsasf</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Gender=Neut|Gender[psor]=Fem|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr><td>Ps3nsasm</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|Gender=Neut|Gender[psor]=Masc|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Ps3nsdp</td><td>=&gt;</td><td>PRON</td><td>Case=Dat|Gender=Neut|Number=Sing|Number[psor]=Plur|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr><td>Ps3nsdsf</td><td>=&gt;</td><td>PRON</td><td>Case=Dat|Gender=Neut|Gender[psor]=Fem|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Ps3nsgp</td><td>=&gt;</td><td>PRON</td><td>Case=Gen|Gender=Neut|Number=Sing|Number[psor]=Plur|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr><td>Ps3nsgsf</td><td>=&gt;</td><td>PRON</td><td>Case=Gen|Gender=Neut|Gender[psor]=Fem|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Ps3nsgsm</td><td>=&gt;</td><td>PRON</td><td>Case=Gen|Gender=Neut|Gender[psor]=Masc|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr><td>Ps3nsisf</td><td>=&gt;</td><td>PRON</td><td>Case=Ins|Gender=Neut|Gender[psor]=Fem|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Ps3nsism</td><td>=&gt;</td><td>PRON</td><td>Case=Ins|Gender=Neut|Gender[psor]=Masc|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr><td>Ps3nsld</td><td>=&gt;</td><td>PRON</td><td>Case=Loc|Gender=Neut|Number=Sing|Number[psor]=Dual|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Ps3nslp</td><td>=&gt;</td><td>PRON</td><td>Case=Loc|Gender=Neut|Number=Sing|Number[psor]=Plur|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr><td>Ps3nslsf</td><td>=&gt;</td><td>PRON</td><td>Case=Loc|Gender=Neut|Gender[psor]=Fem|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Ps3nslsm</td><td>=&gt;</td><td>PRON</td><td>Case=Loc|Gender=Neut|Gender[psor]=Masc|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr><td>Ps3nsnd</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Gender=Neut|Number=Sing|Number[psor]=Dual|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Ps3nsnp</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Gender=Neut|Number=Sing|Number[psor]=Plur|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr><td>Ps3nsnsf</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Gender=Neut|Gender[psor]=Fem|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Ps3nsnsm</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Gender=Neut|Gender[psor]=Masc|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs</td><td><em></em></td></tr>
   <tr><td>Px------y</td><td>=&gt;</td><td>PRON</td><td>PronType=Prs|Reflex=Yes|Variant=Short</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>Px---a</td><td>=&gt;</td><td>PRON</td><td>Case=Acc|PronType=Prs|Reflex=Yes</td><td><em></em></td></tr>
   <tr><td>Px---a--b</td><td>=&gt;</td><td>PRON</td><td>AdpType=Preppron|Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short</td><td><em></em></td></tr>
@@ -1029,22 +1030,22 @@ Tagset <tt>sl::multext</tt>, total 1150 tags.
   <tr style="background:lightgray"><td>Rgc</td><td>=&gt;</td><td>ADV</td><td>Degree=Cmp</td><td><em></em></td></tr>
   <tr><td>Rgp</td><td>=&gt;</td><td>ADV</td><td>Degree=Pos</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>Rgs</td><td>=&gt;</td><td>ADV</td><td>Degree=Sup</td><td><em></em></td></tr>
-  <tr><td>Rr</td><td>=&gt;</td><td>ADV</td><td>VerbForm=Trans</td><td><em></em></td></tr>
+  <tr><td>Rr</td><td>=&gt;</td><td>ADV</td><td>VerbForm=Conv</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>Sa</td><td>=&gt;</td><td>ADP</td><td>AdpType=Prep|Case=Acc</td><td><em></em></td></tr>
   <tr><td>Sd</td><td>=&gt;</td><td>ADP</td><td>AdpType=Prep|Case=Dat</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>Sg</td><td>=&gt;</td><td>ADP</td><td>AdpType=Prep|Case=Gen</td><td><em></em></td></tr>
   <tr><td>Si</td><td>=&gt;</td><td>ADP</td><td>AdpType=Prep|Case=Ins</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>Sl</td><td>=&gt;</td><td>ADP</td><td>AdpType=Prep|Case=Loc</td><td><em></em></td></tr>
   <tr><td>Va-c</td><td>=&gt;</td><td>AUX</td><td>Mood=Cnd|VerbForm=Fin</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Va-f1d-n</td><td>=&gt;</td><td>AUX</td><td>Mood=Ind|Negative=Pos|Number=Dual|Person=1|Tense=Fut|VerbForm=Fin</td><td><em></em></td></tr>
-  <tr><td>Va-f1p-n</td><td>=&gt;</td><td>AUX</td><td>Mood=Ind|Negative=Pos|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Va-f1s-n</td><td>=&gt;</td><td>AUX</td><td>Mood=Ind|Negative=Pos|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin</td><td><em></em></td></tr>
-  <tr><td>Va-f2d-n</td><td>=&gt;</td><td>AUX</td><td>Mood=Ind|Negative=Pos|Number=Dual|Person=2|Tense=Fut|VerbForm=Fin</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Va-f2p-n</td><td>=&gt;</td><td>AUX</td><td>Mood=Ind|Negative=Pos|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin</td><td><em></em></td></tr>
-  <tr><td>Va-f2s-n</td><td>=&gt;</td><td>AUX</td><td>Mood=Ind|Negative=Pos|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Va-f3d-n</td><td>=&gt;</td><td>AUX</td><td>Mood=Ind|Negative=Pos|Number=Dual|Person=3|Tense=Fut|VerbForm=Fin</td><td><em></em></td></tr>
-  <tr><td>Va-f3p-n</td><td>=&gt;</td><td>AUX</td><td>Mood=Ind|Negative=Pos|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Va-f3s-n</td><td>=&gt;</td><td>AUX</td><td>Mood=Ind|Negative=Pos|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Va-f1d-n</td><td>=&gt;</td><td>AUX</td><td>Mood=Ind|Number=Dual|Person=1|Polarity=Pos|Tense=Fut|VerbForm=Fin</td><td><em></em></td></tr>
+  <tr><td>Va-f1p-n</td><td>=&gt;</td><td>AUX</td><td>Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Fut|VerbForm=Fin</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Va-f1s-n</td><td>=&gt;</td><td>AUX</td><td>Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Fut|VerbForm=Fin</td><td><em></em></td></tr>
+  <tr><td>Va-f2d-n</td><td>=&gt;</td><td>AUX</td><td>Mood=Ind|Number=Dual|Person=2|Polarity=Pos|Tense=Fut|VerbForm=Fin</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Va-f2p-n</td><td>=&gt;</td><td>AUX</td><td>Mood=Ind|Number=Plur|Person=2|Polarity=Pos|Tense=Fut|VerbForm=Fin</td><td><em></em></td></tr>
+  <tr><td>Va-f2s-n</td><td>=&gt;</td><td>AUX</td><td>Mood=Ind|Number=Sing|Person=2|Polarity=Pos|Tense=Fut|VerbForm=Fin</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Va-f3d-n</td><td>=&gt;</td><td>AUX</td><td>Mood=Ind|Number=Dual|Person=3|Polarity=Pos|Tense=Fut|VerbForm=Fin</td><td><em></em></td></tr>
+  <tr><td>Va-f3p-n</td><td>=&gt;</td><td>AUX</td><td>Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Fut|VerbForm=Fin</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Va-f3s-n</td><td>=&gt;</td><td>AUX</td><td>Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Fut|VerbForm=Fin</td><td><em></em></td></tr>
   <tr><td>Va-m2p</td><td>=&gt;</td><td>AUX</td><td>Mood=Imp|Number=Plur|Person=2|VerbForm=Fin</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>Va-m2s</td><td>=&gt;</td><td>AUX</td><td>Mood=Imp|Number=Sing|Person=2|VerbForm=Fin</td><td><em></em></td></tr>
   <tr><td>Va-n</td><td>=&gt;</td><td>AUX</td><td>VerbForm=Inf</td><td><em></em></td></tr>
@@ -1057,23 +1058,23 @@ Tagset <tt>sl::multext</tt>, total 1150 tags.
   <tr style="background:lightgray"><td>Va-p-sf</td><td>=&gt;</td><td>AUX</td><td>Gender=Fem|Number=Sing|VerbForm=Part</td><td><em></em></td></tr>
   <tr><td>Va-p-sm</td><td>=&gt;</td><td>AUX</td><td>Gender=Masc|Number=Sing|VerbForm=Part</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>Va-p-sn</td><td>=&gt;</td><td>AUX</td><td>Gender=Neut|Number=Sing|VerbForm=Part</td><td><em></em></td></tr>
-  <tr><td>Va-r1d-n</td><td>=&gt;</td><td>AUX</td><td>Mood=Ind|Negative=Pos|Number=Dual|Person=1|Tense=Pres|VerbForm=Fin</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Va-r1d-y</td><td>=&gt;</td><td>AUX</td><td>Mood=Ind|Negative=Neg|Number=Dual|Person=1|Tense=Pres|VerbForm=Fin</td><td><em></em></td></tr>
-  <tr><td>Va-r1p-n</td><td>=&gt;</td><td>AUX</td><td>Mood=Ind|Negative=Pos|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Va-r1p-y</td><td>=&gt;</td><td>AUX</td><td>Mood=Ind|Negative=Neg|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin</td><td><em></em></td></tr>
-  <tr><td>Va-r1s-n</td><td>=&gt;</td><td>AUX</td><td>Mood=Ind|Negative=Pos|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Va-r1s-y</td><td>=&gt;</td><td>AUX</td><td>Mood=Ind|Negative=Neg|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin</td><td><em></em></td></tr>
-  <tr><td>Va-r2d-n</td><td>=&gt;</td><td>AUX</td><td>Mood=Ind|Negative=Pos|Number=Dual|Person=2|Tense=Pres|VerbForm=Fin</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Va-r2p-n</td><td>=&gt;</td><td>AUX</td><td>Mood=Ind|Negative=Pos|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin</td><td><em></em></td></tr>
-  <tr><td>Va-r2p-y</td><td>=&gt;</td><td>AUX</td><td>Mood=Ind|Negative=Neg|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Va-r2s-n</td><td>=&gt;</td><td>AUX</td><td>Mood=Ind|Negative=Pos|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin</td><td><em></em></td></tr>
-  <tr><td>Va-r2s-y</td><td>=&gt;</td><td>AUX</td><td>Mood=Ind|Negative=Neg|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Va-r3d-n</td><td>=&gt;</td><td>AUX</td><td>Mood=Ind|Negative=Pos|Number=Dual|Person=3|Tense=Pres|VerbForm=Fin</td><td><em></em></td></tr>
-  <tr><td>Va-r3d-y</td><td>=&gt;</td><td>AUX</td><td>Mood=Ind|Negative=Neg|Number=Dual|Person=3|Tense=Pres|VerbForm=Fin</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Va-r3p-n</td><td>=&gt;</td><td>AUX</td><td>Mood=Ind|Negative=Pos|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin</td><td><em></em></td></tr>
-  <tr><td>Va-r3p-y</td><td>=&gt;</td><td>AUX</td><td>Mood=Ind|Negative=Neg|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Va-r3s-n</td><td>=&gt;</td><td>AUX</td><td>Mood=Ind|Negative=Pos|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin</td><td><em></em></td></tr>
-  <tr><td>Va-r3s-y</td><td>=&gt;</td><td>AUX</td><td>Mood=Ind|Negative=Neg|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin</td><td><em></em></td></tr>
+  <tr><td>Va-r1d-n</td><td>=&gt;</td><td>AUX</td><td>Mood=Ind|Number=Dual|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Va-r1d-y</td><td>=&gt;</td><td>AUX</td><td>Mood=Ind|Number=Dual|Person=1|Polarity=Neg|Tense=Pres|VerbForm=Fin</td><td><em></em></td></tr>
+  <tr><td>Va-r1p-n</td><td>=&gt;</td><td>AUX</td><td>Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Va-r1p-y</td><td>=&gt;</td><td>AUX</td><td>Mood=Ind|Number=Plur|Person=1|Polarity=Neg|Tense=Pres|VerbForm=Fin</td><td><em></em></td></tr>
+  <tr><td>Va-r1s-n</td><td>=&gt;</td><td>AUX</td><td>Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Va-r1s-y</td><td>=&gt;</td><td>AUX</td><td>Mood=Ind|Number=Sing|Person=1|Polarity=Neg|Tense=Pres|VerbForm=Fin</td><td><em></em></td></tr>
+  <tr><td>Va-r2d-n</td><td>=&gt;</td><td>AUX</td><td>Mood=Ind|Number=Dual|Person=2|Polarity=Pos|Tense=Pres|VerbForm=Fin</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Va-r2p-n</td><td>=&gt;</td><td>AUX</td><td>Mood=Ind|Number=Plur|Person=2|Polarity=Pos|Tense=Pres|VerbForm=Fin</td><td><em></em></td></tr>
+  <tr><td>Va-r2p-y</td><td>=&gt;</td><td>AUX</td><td>Mood=Ind|Number=Plur|Person=2|Polarity=Neg|Tense=Pres|VerbForm=Fin</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Va-r2s-n</td><td>=&gt;</td><td>AUX</td><td>Mood=Ind|Number=Sing|Person=2|Polarity=Pos|Tense=Pres|VerbForm=Fin</td><td><em></em></td></tr>
+  <tr><td>Va-r2s-y</td><td>=&gt;</td><td>AUX</td><td>Mood=Ind|Number=Sing|Person=2|Polarity=Neg|Tense=Pres|VerbForm=Fin</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Va-r3d-n</td><td>=&gt;</td><td>AUX</td><td>Mood=Ind|Number=Dual|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin</td><td><em></em></td></tr>
+  <tr><td>Va-r3d-y</td><td>=&gt;</td><td>AUX</td><td>Mood=Ind|Number=Dual|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Va-r3p-n</td><td>=&gt;</td><td>AUX</td><td>Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin</td><td><em></em></td></tr>
+  <tr><td>Va-r3p-y</td><td>=&gt;</td><td>AUX</td><td>Mood=Ind|Number=Plur|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Va-r3s-n</td><td>=&gt;</td><td>AUX</td><td>Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin</td><td><em></em></td></tr>
+  <tr><td>Va-r3s-y</td><td>=&gt;</td><td>AUX</td><td>Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>Vmbm1p</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp,Perf|Mood=Imp|Number=Plur|Person=1|VerbForm=Fin</td><td><em></em></td></tr>
   <tr><td>Vmbm2d</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp,Perf|Mood=Imp|Number=Dual|Person=2|VerbForm=Fin</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>Vmbm2p</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp,Perf|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin</td><td><em></em></td></tr>
@@ -1138,32 +1139,32 @@ Tagset <tt>sl::multext</tt>, total 1150 tags.
   <tr><td>Vmpp-sm</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Gender=Masc|Number=Sing|VerbForm=Part</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>Vmpp-sn</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Gender=Neut|Number=Sing|VerbForm=Part</td><td><em></em></td></tr>
   <tr><td>Vmpr1d</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Number=Dual|Person=1|Tense=Pres|VerbForm=Fin</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Vmpr1d-n</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Negative=Pos|Number=Dual|Person=1|Tense=Pres|VerbForm=Fin</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Vmpr1d-n</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Number=Dual|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin</td><td><em></em></td></tr>
   <tr><td>Vmpr1p</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Vmpr1p-n</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Negative=Pos|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin</td><td><em></em></td></tr>
-  <tr><td>Vmpr1p-y</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Negative=Neg|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Vmpr1p-n</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin</td><td><em></em></td></tr>
+  <tr><td>Vmpr1p-y</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Polarity=Neg|Tense=Pres|VerbForm=Fin</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>Vmpr1s</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin</td><td><em></em></td></tr>
-  <tr><td>Vmpr1s-n</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Negative=Pos|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Vmpr1s-y</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Negative=Neg|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin</td><td><em></em></td></tr>
+  <tr><td>Vmpr1s-n</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Vmpr1s-y</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Polarity=Neg|Tense=Pres|VerbForm=Fin</td><td><em></em></td></tr>
   <tr><td>Vmpr2d</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Number=Dual|Person=2|Tense=Pres|VerbForm=Fin</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Vmpr2d-n</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Negative=Pos|Number=Dual|Person=2|Tense=Pres|VerbForm=Fin</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Vmpr2d-n</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Number=Dual|Person=2|Polarity=Pos|Tense=Pres|VerbForm=Fin</td><td><em></em></td></tr>
   <tr><td>Vmpr2p</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Vmpr2p-n</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Negative=Pos|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin</td><td><em></em></td></tr>
-  <tr><td>Vmpr2p-y</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Negative=Neg|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Vmpr2p-n</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Polarity=Pos|Tense=Pres|VerbForm=Fin</td><td><em></em></td></tr>
+  <tr><td>Vmpr2p-y</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Polarity=Neg|Tense=Pres|VerbForm=Fin</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>Vmpr2s</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin</td><td><em></em></td></tr>
-  <tr><td>Vmpr2s-n</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Negative=Pos|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Vmpr2s-y</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Negative=Neg|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin</td><td><em></em></td></tr>
+  <tr><td>Vmpr2s-n</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Polarity=Pos|Tense=Pres|VerbForm=Fin</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Vmpr2s-y</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Polarity=Neg|Tense=Pres|VerbForm=Fin</td><td><em></em></td></tr>
   <tr><td>Vmpr3d</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Number=Dual|Person=3|Tense=Pres|VerbForm=Fin</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Vmpr3d-n</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Negative=Pos|Number=Dual|Person=3|Tense=Pres|VerbForm=Fin</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Vmpr3d-n</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Number=Dual|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin</td><td><em></em></td></tr>
   <tr><td>Vmpr3p</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Vmpr3p-n</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Negative=Pos|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin</td><td><em></em></td></tr>
-  <tr><td>Vmpr3p-y</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Negative=Neg|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Vmpr3p-n</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin</td><td><em></em></td></tr>
+  <tr><td>Vmpr3p-y</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>Vmpr3s</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin</td><td><em></em></td></tr>
-  <tr><td>Vmpr3s-n</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Negative=Pos|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>Vmpr3s-y</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Negative=Neg|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin</td><td><em></em></td></tr>
+  <tr><td>Vmpr3s-n</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>Vmpr3s-y</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin</td><td><em></em></td></tr>
   <tr><td>Vmpu</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|VerbForm=Sup</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>X</td><td>=&gt;</td><td>X</td><td>_</td><td><em></em></td></tr>
-  <tr><td>Xf</td><td>=&gt;</td><td>X</td><td>Foreign=Foreign</td><td><em></em></td></tr>
+  <tr><td>Xf</td><td>=&gt;</td><td>X</td><td>Foreign=Yes</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>Y</td><td>=&gt;</td><td>X</td><td>Abbr=Yes</td><td><em></em></td></tr>
   <tr><td>Z</td><td>=&gt;</td><td>PUNCT</td><td>_</td><td><em></em></td></tr>
 </table>

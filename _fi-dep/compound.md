@@ -5,7 +5,7 @@ shortdef : 'compound'
 ---
 
 `compound` is one of the three UD relations UD for compounding,
-together with [mwe]() and [name]().
+together with [fixed]() and [flat]().
 
 UD Finnish additionally defines two subtypes of `compound`,
 [compound:nn]() for noun compounds and [compound:prt]()

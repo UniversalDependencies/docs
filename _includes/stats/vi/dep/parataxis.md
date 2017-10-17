@@ -6,82 +6,74 @@
 
 This relation is universal.
 
-453 nodes (1%) are attached to their parents as `parataxis`.
+338 nodes (1%) are attached to their parents as `parataxis`.
 
-393 instances of `parataxis` (87%) are left-to-right (parent precedes child).
-Average distance between parent and child is 8.
+295 instances of `parataxis` (87%) are left-to-right (parent precedes child).
+Average distance between parent and child is 8.05917159763314.
 
-The following 17 pairs of parts of speech are connected with `parataxis`: [vi-pos/VERB]()-[vi-pos/VERB]() (319; 70% instances), [vi-pos/ADJ]()-[vi-pos/VERB]() (41; 9% instances), [vi-pos/NOUN]()-[vi-pos/VERB]() (29; 6% instances), [vi-pos/VERB]()-[vi-pos/NOUN]() (12; 3% instances), [vi-pos/ADJ]()-[vi-pos/ADJ]() (10; 2% instances), [vi-pos/NOUN]()-[vi-pos/NOUN]() (9; 2% instances), [vi-pos/VERB]()-[vi-pos/X]() (8; 2% instances), [vi-pos/VERB]()-[vi-pos/ADJ]() (7; 2% instances), [vi-pos/VERB]()-[vi-pos/PROPN]() (4; 1% instances), [vi-pos/VERB]()-[vi-pos/NUM]() (3; 1% instances), [vi-pos/ADJ]()-[vi-pos/NOUN]() (2; 0% instances), [vi-pos/ADJ]()-[vi-pos/X]() (2; 0% instances), [vi-pos/PROPN]()-[vi-pos/VERB]() (2; 0% instances), [vi-pos/PUNCT]()-[vi-pos/VERB]() (2; 0% instances), [vi-pos/ADJ]()-[vi-pos/PROPN]() (1; 0% instances), [vi-pos/CONJ]()-[vi-pos/VERB]() (1; 0% instances), [vi-pos/NUM]()-[vi-pos/NOUN]() (1; 0% instances).
+The following 15 pairs of parts of speech are connected with `parataxis`: [vi-pos/VERB]()-[vi-pos/VERB]() (249; 74% instances), [vi-pos/ADJ]()-[vi-pos/VERB]() (27; 8% instances), [vi-pos/NOUN]()-[vi-pos/VERB]() (20; 6% instances), [vi-pos/VERB]()-[vi-pos/NOUN]() (8; 2% instances), [vi-pos/VERB]()-[vi-pos/ADJ]() (7; 2% instances), [vi-pos/VERB]()-[vi-pos/X]() (7; 2% instances), [vi-pos/NOUN]()-[vi-pos/NOUN]() (6; 2% instances), [vi-pos/ADJ]()-[vi-pos/ADJ]() (5; 1% instances), [vi-pos/PUNCT]()-[vi-pos/VERB]() (2; 1% instances), [vi-pos/VERB]()-[vi-pos/PROPN]() (2; 1% instances), [vi-pos/ADJ]()-[vi-pos/NOUN]() (1; 0% instances), [vi-pos/ADJ]()-[vi-pos/PROPN]() (1; 0% instances), [vi-pos/ADJ]()-[vi-pos/X]() (1; 0% instances), [vi-pos/CCONJ]()-[vi-pos/VERB]() (1; 0% instances), [vi-pos/VERB]()-[vi-pos/NUM]() (1; 0% instances).
 
 
 ~~~ conllu
 # visual-style 10	bgColor:blue
 # visual-style 10	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 10 parataxis	color:blue
-1	con	con	NOUN	Nc	_	2	compound	_	_
-2	Đen	Đen	NOUN	Np	_	3	nsubj	_	_
-3	chạy	chạy	VERB	V	_	0	root	_	_
-4	quanh	quanh	NOUN	N	_	3	dobj	_	_
-5	chuồng	chuồng	NOUN	N	_	4	compound	_	_
-6	,	,	PUNCT	,	_	3	punct	_	_
-7	rồi	rồi	CONJ	C	_	3	cc	_	_
-8	nó	nó	PROPN	P	_	10	nsubj	_	_
-9	cũng	cũng	X	R	_	10	advmod	_	_
-10	dừng	dừng	VERB	V	_	3	parataxis	_	_
-11	lại	lại	X	R	_	10	advmod	_	_
-12	chịu	chịu	VERB	V	_	10	ccomp	_	_
-13	giao_phối	giao_phối	VERB	V	_	12	xcomp	_	_
-14	.	.	PUNCT	.	_	3	punct	_	_
-
-~~~
-
-
-~~~ conllu
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
-# visual-style 13	bgColor:blue
-# visual-style 13	fgColor:white
-# visual-style 13 1 parataxis	color:blue
-1	có	có	VERB	V	_	13	parataxis	_	_
-2	một	một	NUM	M	_	3	nummod	_	_
-3	người	người	NOUN	N	_	4	nsubj	_	_
-4	yêu	yêu	VERB	V	_	1	ccomp	_	_
-5	nghề	nghề	NOUN	N	_	4	dobj	_	_
-6	rồi	rồi	CONJ	C	_	4	cc	_	_
-7	quyết	quyết	VERB	V	_	4	conj	_	_
-8	sống_chết	sống_chết	VERB	V	_	7	xcomp	_	_
-9	với	với	ADP	E	_	10	case	_	_
-10	nghề	nghề	NOUN	N	_	8	nmod	_	_
-11	quả	quả	X	R	_	13	advmod	_	_
-12	cũng	cũng	X	R	_	13	advmod	_	_
-13	khó	khó	ADJ	A	_	0	root	_	_
-14	.	.	PUNCT	.	_	13	punct	_	_
+# visual-style 1 10 parataxis	color:blue
+1	đến	đến	VERB	V	_	0	root	_	_
+2	VN	VN	NOUN	Ny	_	1	obj	_	_
+3	lần	lần	NOUN	N	_	1	obj	_	_
+4	này	này	PROPN	P	_	3	det	_	SpaceAfter=No
+5	,	,	PUNCT	,	_	1	punct	_	_
+6	hai	hai	NUM	M	NumType=Card	7	nummod	_	_
+7	người	người	NOUN	N	_	1	nsubj	_	_
+8	như	như	CCONJ	C	_	1	cc	_	_
+9	đang	đang	X	R	_	10	advmod	_	_
+10	trở lại	trở lại	VERB	V	_	1	parataxis	_	_
+11	ngôi	ngôi	NOUN	Nc	_	12	compound	_	_
+12	nhà	nhà	NOUN	N	_	10	obj	_	_
+13	của	của	ADP	E	_	14	case	_	_
+14	mình	mình	PROPN	P	_	12	nmod	_	SpaceAfter=No
+15	.	.	PUNCT	.	_	1	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 12	bgColor:blue
-# visual-style 12	fgColor:white
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 7 12 parataxis	color:blue
-1	Thư	Thư	NOUN	Np	_	2	nsubj	_	_
-2	cho	cho	VERB	V	_	0	root	_	_
-3	biết	biết	VERB	V	_	2	xcomp	_	_
-4	:	:	PUNCT	:	_	2	punct	_	_
-5	ngày_kia	ngày_kia	NOUN	N	_	7	nsubj	_	_
-6	là	là	VERB	V	_	7	cop	_	_
-7	chủ_nhật	chủ_nhật	NOUN	N	_	2	ccomp	_	_
-8	,	,	PUNCT	,	_	7	punct	_	_
-9	mọi	mọi	DET	L	_	10	det	_	_
-10	người	người	NOUN	N	_	12	nsubj	_	_
-11	đều	đều	X	R	_	12	advmod	_	_
-12	ở	ở	VERB	V	_	7	parataxis	_	_
-13	nhà	nhà	NOUN	N	_	12	dobj	_	_
-14	.	.	PUNCT	.	_	2	punct	_	_
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 6 parataxis	color:blue
+1	Tùng	Tùng	NOUN	Np	_	2	obj	_	_
+2	khó chịu	khó chịu	ADJ	A	_	0	root	_	_
+3	nhưng	nhưng	CCONJ	C	_	2	cc	_	_
+4	cũng	cũng	X	R	_	6	advmod	_	_
+5	rất	rất	X	R	_	6	advmod	_	_
+6	xấu hổ	xấu hổ	VERB	V	_	2	parataxis	_	_
+7	và	và	SCONJ	CC	_	8	cc	_	_
+8	quyết tâm	quyết tâm	VERB	V	_	6	conj	_	_
+9	nhịn	nhịn	VERB	V	_	8	xcomp	_	SpaceAfter=No
+10	.	.	PUNCT	.	_	2	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 3 parataxis	color:blue
+1	Nếu	Nếu	CCONJ	C	_	3	cc	_	_
+2	Tùng	Tùng	NOUN	Np	_	3	nsubj	_	_
+3	phát hiện	phát hiện	VERB	V	_	6	parataxis	_	_
+4	Hải	Hải	NOUN	Np	_	3	obj	_	_
+5	thì	thì	CCONJ	C	_	6	cc	_	_
+6	hậu quả	hậu quả	NOUN	N	_	0	root	_	_
+7	vô cùng	vô cùng	X	R	_	8	advmod	_	_
+8	tồi tệ	tồi tệ	ADJ	A	_	6	amod	_	SpaceAfter=No
+9	.	.	PUNCT	.	_	6	punct	_	_
 
 ~~~
 

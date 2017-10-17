@@ -4,23 +4,23 @@
 
 ## Treebank Statistics (UD_Spanish)
 
-There are 23 `PART` lemmas (0%), 24 `PART` types (0%) and 35 `PART` tokens (0%).
+There are 23 `PART` lemmas (0%), 24 `PART` types (0%) and 34 `PART` tokens (0%).
 Out of 16 observed tags, the rank of `PART` is: 15 in number of lemmas, 15 in number of types and 16 in number of tokens.
 
-The 10 most frequent `PART` lemmas: <em>hola, ex, re, co, ir, l, abandono, adio, ficha, gram</em>
+The 10 most frequent `PART` lemmas: <em>ex, hola, re, co, ir, l, abandono, adio, ficha, gram</em>
 
 The 10 most frequent `PART` types:  <em>Hola, ex, re, L, co, Gram, Trans, Vamos, Vaya, Vice</em>
 
-The 10 most frequent ambiguous lemmas: <em>ex</em> ([X]() 43, [PART]() 4, [ADJ]() 3, [NOUN]() 2, [PROPN]() 1), <em>re</em> ([X]() 5, [PART]() 3, [PROPN]() 2, [NOUN]() 1), <em>co</em> ([X]() 9, [PART]() 2, [PROPN]() 1), <em>ir</em> ([VERB]() 173, [AUX]() 138, [PROPN]() 22, [PART]() 2, [DET]() 1), <em>l</em> ([X]() 6, [PART]() 2, [PROPN]() 1), <em>abandono</em> ([NOUN]() 7, [PART]() 1), <em>ficha</em> ([VERB]() 4, [NOUN]() 2, [PART]() 1), <em>hoc</em> ([X]() 3, [PART]() 1), <em>post</em> ([X]() 4, [PROPN]() 1, [PART]() 1), <em>pre</em> ([X]() 6, [PART]() 1)
+The 10 most frequent ambiguous lemmas: <em>ex</em> ([X]() 43, [PART]() 4, [ADJ]() 3, [PROPN]() 1, [NOUN]() 1), <em>re</em> ([X]() 5, [PART]() 3, [PROPN]() 2, [NOUN]() 1), <em>co</em> ([X]() 9, [PART]() 2, [PROPN]() 1), <em>ir</em> ([VERB]() 164, [AUX]() 135, [PROPN]() 19, [PART]() 2, [DET]() 1), <em>l</em> ([X]() 6, [PART]() 2, [PROPN]() 1), <em>abandono</em> ([NOUN]() 7, [PART]() 1), <em>ficha</em> ([VERB]() 4, [PART]() 1, [NOUN]() 1), <em>hoc</em> ([X]() 3, [PART]() 1), <em>post</em> ([X]() 4, [PART]() 1, [PROPN]() 1), <em>pre</em> ([X]() 6, [PART]() 1)
 
-The 10 most frequent ambiguous types:  <em>ex</em> ([X]() 42, [PART]() 4, [ADJ]() 3, [NOUN]() 2), <em>re</em> ([X]() 5, [PART]() 3, [PROPN]() 1), <em>L</em> ([X]() 5, [PART]() 2, [PROPN]() 1), <em>co</em> ([X]() 9, [PART]() 1), <em>Trans</em> ([PART]() 1, [X]() 1), <em>Vamos</em> ([PART]() 1, [AUX]() 1), <em>Vaya</em> ([DET]() 1, [PART]() 1), <em>Vice</em> ([PART]() 1, [X]() 1), <em>abandono</em> ([NOUN]() 7, [VERB]() 1, [PART]() 1), <em>ficha</em> ([VERB]() 4, [PART]() 1, [NOUN]() 1)
+The 10 most frequent ambiguous types:  <em>ex</em> ([X]() 42, [PART]() 4, [ADJ]() 3, [NOUN]() 1), <em>re</em> ([X]() 5, [PART]() 3, [PROPN]() 1), <em>L</em> ([X]() 5, [PART]() 2, [PROPN]() 1), <em>co</em> ([X]() 9, [PART]() 1), <em>Trans</em> ([PART]() 1, [X]() 1), <em>Vamos</em> ([PART]() 1, [AUX]() 1), <em>Vaya</em> ([PART]() 1, [DET]() 1), <em>Vice</em> ([X]() 1, [PART]() 1), <em>abandono</em> ([NOUN]() 7, [PART]() 1), <em>ficha</em> ([VERB]() 4, [NOUN]() 1, [PART]() 1)
 
 
 * <em>ex</em>
   * [X]() 42: <em>Improvisó a Drocco de lateral derecho cuando el <b>ex</b> Boca es volante por naturaleza .</em>
   * [PART]() 4: <em>Tras su alejamiento asume Jorge Benítez , un <b>ex</b> jugador de Boca que estaba a cargo de la cuarta división .</em>
   * [ADJ]() 3: <em>Jorge Arteaga ( Lima , 29 de diciembre de 1966 ) es un <b>ex</b> - futbolista peruano que se desempeñaba como defensa .</em>
-  * [NOUN]() 2: <em>Con su <b>ex</b> colaboró en el cover de Me and Mrs. Jones en su álbum Call me irresponsible .</em>
+  * [NOUN]() 1: <em>Con su <b>ex</b> colaboró en el cover de Me and Mrs. Jones en su álbum Call me irresponsible .</em>
 * <em>re</em>
   * [X]() 5: <em>La perdida en el rendimiento fue tremendamente insignificante , así que el 88 fue rápidamente diseñado como una <b>re</b> - ingeniería de el 86 .</em>
   * [PART]() 3: <em>Jones <b>re</b> - grabó la canción con Tom Moulton en 1979 para formar parte de Muse .</em>
@@ -39,23 +39,22 @@ The 10 most frequent ambiguous types:  <em>ex</em> ([X]() 42, [PART]() 4, [ADJ](
   * [PART]() 1: <em><b>Vamos</b> , que si vuelvo a la Rioja , ¡ no cambio de hotel por nada de el mundo !</em>
   * [AUX]() 1: <em><b>Vamos</b> a trabajar estos 15 días que tenemos , porque sabemos que tenemos mucha llegada a gol " , apuntó .</em>
 * <em>Vaya</em>
-  * [DET]() 1: <em>( " ¡ <b>Vaya</b> Bollo ! " )</em>
   * [PART]() 1: <em><b>Vaya</b> servicio tercermundista .</em>
+  * [DET]() 1: <em>( " ¡ <b>Vaya</b> Bollo ! " )</em>
 * <em>Vice</em>
-  * [PART]() 1: <em>Es <b>Vice</b> Presidente de la Federación Deportiva Peruana de Natación , encargado de la Comisión de Natación & Aguas Abiertas ( 2009-2012 ) .</em>
   * [X]() 1: <em>Como <b>Vice</b> - Rector , fue nombrado el Dr. Manuel Anselmo Tapia y , Ministro Secretario , el Sr. Mariano La Torre .</em>
+  * [PART]() 1: <em>Es <b>Vice</b> Presidente de la Federación Deportiva Peruana de Natación , encargado de la Comisión de Natación & Aguas Abiertas ( 2009-2012 ) .</em>
 * <em>abandono</em>
   * [NOUN]() 7: <em>Las hermanas de los Pobres Desamparados serían las últimas en ocupar el convento hasta su posterior <b>abandono</b> .</em>
-  * [VERB]() 1: <em>En los 90s se <b>abandono</b> .</em>
   * [PART]() 1: <em>Tras el éxito financiero y la buena crítica de Titanic , Cameron <b>abandono</b> el proyecto .</em>
 * <em>ficha</em>
   * [VERB]() 4: <em>En 2011 <b>ficha</b> por Deportes Iquique .</em>
-  * [PART]() 1: <em>En 1970 <b>ficha</b> por la AS Roma y dos temporadas más tarde decide acabar su periplo por Italia por lo que regresa a el Real Betis Balompié .</em>
   * [NOUN]() 1: <em>En enero de 2004 , Ezequiel firmó un contrato de 2 años y medio con uno de los grandes de Grecia , el Panathinaikos FC , club que le compró la <b>ficha</b> definitiva a la Fiorentina .</em>
+  * [PART]() 1: <em>En 1970 <b>ficha</b> por la AS Roma y dos temporadas más tarde decide acabar su periplo por Italia por lo que regresa a el Real Betis Balompié .</em>
 
 ## Morphology
 
-The form / lemma ratio of `PART` is 1.043478 (the average of all parts of speech is 1.255739).
+The form / lemma ratio of `PART` is 1.043478 (the average of all parts of speech is 1.255824).
 
 The 1st highest number of forms (2) was observed with the lemma “ir”: <em>Vamos, Vaya</em>.
 
@@ -68,13 +67,13 @@ The 3rd highest number of forms (1) was observed with the lemma “adio”: <em>
 
 ## Relations
 
-`PART` nodes are attached to their parents using 9 different relations: [es-dep/amod]() (14; 40% instances), [es-dep/dep]() (7; 20% instances), [es-dep/compound]() (5; 14% instances), [es-dep/root]() (3; 9% instances), [es-dep/advmod]() (2; 6% instances), [es-dep/ccomp]() (1; 3% instances), [es-dep/det]() (1; 3% instances), [es-dep/mark]() (1; 3% instances), [es-dep/nmod]() (1; 3% instances)
+`PART` nodes are attached to their parents using 9 different relations: [es-dep/amod]() (14; 41% instances), [es-dep/dep]() (6; 18% instances), [es-dep/compound]() (5; 15% instances), [es-dep/root]() (3; 9% instances), [es-dep/advmod]() (2; 6% instances), [es-dep/ccomp]() (1; 3% instances), [es-dep/det]() (1; 3% instances), [es-dep/mark]() (1; 3% instances), [es-dep/nmod]() (1; 3% instances)
 
-Parents of `PART` nodes belong to 7 different parts of speech: [NOUN]() (13; 37% instances), [VERB]() (9; 26% instances), [ADJ]() (6; 17% instances), [ROOT]() (3; 9% instances), [PROPN]() (2; 6% instances), [NUM]() (1; 3% instances), [PRON]() (1; 3% instances)
+Parents of `PART` nodes belong to 7 different parts of speech: [NOUN]() (13; 38% instances), [VERB]() (8; 24% instances), [ADJ]() (6; 18% instances), [ROOT]() (3; 9% instances), [PROPN]() (2; 6% instances), [NUM]() (1; 3% instances), [PRON]() (1; 3% instances)
 
-26 (74%) `PART` nodes are leaves.
+26 (76%) `PART` nodes are leaves.
 
-6 (17%) `PART` nodes have one child.
+5 (15%) `PART` nodes have one child.
 
 0 (0%) `PART` nodes have two children.
 
@@ -82,9 +81,9 @@ Parents of `PART` nodes belong to 7 different parts of speech: [NOUN]() (13; 37%
 
 The highest child degree of a `PART` node is 5.
 
-Children of `PART` nodes are attached using 8 different relations: [es-dep/punct]() (9; 47% instances), [es-dep/nmod]() (4; 21% instances), [es-dep/advmod]() (1; 5% instances), [es-dep/cc]() (1; 5% instances), [es-dep/conj]() (1; 5% instances), [es-dep/dep]() (1; 5% instances), [es-dep/dobj]() (1; 5% instances), [es-dep/nsubj]() (1; 5% instances)
+Children of `PART` nodes are attached using 7 different relations: [es-dep/punct]() (8; 47% instances), [es-dep/nmod]() (4; 24% instances), [es-dep/advmod]() (1; 6% instances), [es-dep/conj]() (1; 6% instances), [es-dep/dep]() (1; 6% instances), [es-dep/nsubj]() (1; 6% instances), [es-dep/obj]() (1; 6% instances)
 
-Children of `PART` nodes belong to 7 different parts of speech: [PUNCT]() (9; 47% instances), [NOUN]() (3; 16% instances), [PROPN]() (3; 16% instances), [ADV]() (1; 5% instances), [CONJ]() (1; 5% instances), [NUM]() (1; 5% instances), [VERB]() (1; 5% instances)
+Children of `PART` nodes belong to 6 different parts of speech: [PUNCT]() (8; 47% instances), [NOUN]() (3; 18% instances), [PROPN]() (3; 18% instances), [ADV]() (1; 6% instances), [NUM]() (1; 6% instances), [VERB]() (1; 6% instances)
 
 
 
@@ -92,57 +91,51 @@ Children of `PART` nodes belong to 7 different parts of speech: [PUNCT]() (9; 47
 
 ## Treebank Statistics (UD_Spanish-AnCora)
 
-There are 1 `PART` lemmas (0%), 1 `PART` types (0%) and 155 `PART` tokens (0%).
+There are 1 `PART` lemmas (0%), 1 `PART` types (0%) and 137 `PART` tokens (0%).
 Out of 17 observed tags, the rank of `PART` is: 17 in number of lemmas, 17 in number of types and 15 in number of tokens.
 
 The 10 most frequent `PART` lemmas: <em>no</em>
 
 The 10 most frequent `PART` types:  <em>no</em>
 
-The 10 most frequent ambiguous lemmas: <em>no</em> ([ADV]() 3640, [PART]() 151, [NOUN]() 2)
+The 10 most frequent ambiguous lemmas: <em>no</em> ([ADV]() 3292, [PART]() 133, [NOUN]() 2)
 
-The 10 most frequent ambiguous types:  <em>no</em> ([ADV]() 3300, [PART]() 106, [NOUN]() 1)
+The 10 most frequent ambiguous types:  <em>no</em> ([ADV]() 2985, [PART]() 93, [NOUN]() 1)
 
 
 * <em>no</em>
-  * [ADV]() 3300: <em>La fuerza se le sale por los poros y <b>no</b> la puede contener .</em>
-  * [PART]() 106: <em>Anunció que , para activar las , el PSOE presentará en breve una proposición <b>no</b> de ley .</em>
-  * [NOUN]() 1: <em>a el pedir le que precise si el JNE ha descartado de el todo una postergación de la segunda vuelta , Muñoz respondió " <b>no</b> " .</em>
+  * [ADV]() 2985: <em>La fuerza se le sale por los poros y <b>no</b> la puede contener .</em>
+  * [PART]() 93: <em>" Queda , <b>no</b> obstante , el amargor del error del portero ( Van der Sar ) .</em>
+  * [NOUN]() 1: <em>Al pedir le que precise si el JNE ha descartado del todo una postergación de la segunda vuelta , Muñoz respondió " <b>no</b> " .</em>
 
 ## Morphology
 
-The form / lemma ratio of `PART` is 1.000000 (the average of all parts of speech is 1.501056).
+The form / lemma ratio of `PART` is 1.000000 (the average of all parts of speech is 1.500342).
 
 The 1st highest number of forms (1) was observed with the lemma “No”: <em>No</em>.
 
 The 2nd highest number of forms (1) was observed with the lemma “no”: <em>no</em>.
 
-`PART` occurs with 1 features: [es-feat/Negative]() (155; 100% instances)
-
-`PART` occurs with 1 feature-value pairs: `Negative=Neg`
-
-`PART` occurs with 1 feature combinations.
-The most frequent feature combination is `Negative=Neg` (155 tokens).
-Examples: <em>no</em>
+`PART` does not occur with any features.
 
 
 ## Relations
 
-`PART` nodes are attached to their parents using 11 different relations: [es-dep/advmod]() (75; 48% instances), [es-dep/cc]() (58; 37% instances), [es-dep/neg]() (11; 7% instances), [es-dep/dobj]() (2; 1% instances), [es-dep/name]() (2; 1% instances), [es-dep/root]() (2; 1% instances), [es-dep/compound]() (1; 1% instances), [es-dep/conj]() (1; 1% instances), [es-dep/dep]() (1; 1% instances), [es-dep/mark]() (1; 1% instances), [es-dep/mwe]() (1; 1% instances)
+`PART` nodes are attached to their parents using 11 different relations: [es-dep/advmod]() (68; 50% instances), [es-dep/cc]() (52; 38% instances), [es-dep/flat]() (6; 4% instances), [es-dep/compound]() (2; 1% instances), [es-dep/obj]() (2; 1% instances), [es-dep/root]() (2; 1% instances), [es-dep/conj]() (1; 1% instances), [es-dep/dep]() (1; 1% instances), [es-dep/fixed]() (1; 1% instances), [es-dep/mark]() (1; 1% instances), [es-dep/nmod]() (1; 1% instances)
 
-Parents of `PART` nodes belong to 9 different parts of speech: [VERB]() (73; 47% instances), [CONJ]() (36; 23% instances), [NOUN]() (24; 15% instances), [PROPN]() (14; 9% instances), [ADV]() (3; 2% instances), [ROOT]() (2; 1% instances), [ADJ]() (1; 1% instances), [PRON]() (1; 1% instances), [PUNCT]() (1; 1% instances)
+Parents of `PART` nodes belong to 9 different parts of speech: [VERB]() (66; 48% instances), [CCONJ]() (33; 24% instances), [NOUN]() (20; 15% instances), [PROPN]() (9; 7% instances), [ADV]() (3; 2% instances), [AUX]() (2; 1% instances), [ROOT]() (2; 1% instances), [ADJ]() (1; 1% instances), [DET]() (1; 1% instances)
 
-13 (8%) `PART` nodes are leaves.
+9 (7%) `PART` nodes are leaves.
 
-81 (52%) `PART` nodes have one child.
+72 (53%) `PART` nodes have one child.
 
-40 (26%) `PART` nodes have two children.
+38 (28%) `PART` nodes have two children.
 
-21 (14%) `PART` nodes have three or more children.
+18 (13%) `PART` nodes have three or more children.
 
-The highest child degree of a `PART` node is 6.
+The highest child degree of a `PART` node is 10.
 
-Children of `PART` nodes are attached using 9 different relations: [es-dep/mwe]() (142; 60% instances), [es-dep/punct]() (78; 33% instances), [es-dep/nmod]() (4; 2% instances), [es-dep/parataxis]() (4; 2% instances), [es-dep/case]() (3; 1% instances), [es-dep/appos]() (1; 0% instances), [es-dep/compound]() (1; 0% instances), [es-dep/det]() (1; 0% instances), [es-dep/name]() (1; 0% instances)
+Children of `PART` nodes are attached using 13 different relations: [es-dep/fixed]() (125; 59% instances), [es-dep/punct]() (66; 31% instances), [es-dep/case]() (5; 2% instances), [es-dep/nmod]() (4; 2% instances), [es-dep/compound]() (2; 1% instances), [es-dep/det]() (2; 1% instances), [es-dep/parataxis]() (2; 1% instances), [es-dep/appos]() (1; 0% instances), [es-dep/cc]() (1; 0% instances), [es-dep/cop]() (1; 0% instances), [es-dep/flat]() (1; 0% instances), [es-dep/nsubj]() (1; 0% instances), [es-dep/obl]() (1; 0% instances)
 
-Children of `PART` nodes belong to 8 different parts of speech: [PUNCT]() (78; 33% instances), [ADV]() (73; 31% instances), [NOUN]() (72; 31% instances), [ADP]() (3; 1% instances), [DET]() (3; 1% instances), [VERB]() (3; 1% instances), [PROPN]() (2; 1% instances), [SCONJ]() (1; 0% instances)
+Children of `PART` nodes belong to 10 different parts of speech: [NOUN]() (67; 32% instances), [PUNCT]() (66; 31% instances), [ADV]() (65; 31% instances), [ADP]() (4; 2% instances), [DET]() (2; 1% instances), [PROPN]() (2; 1% instances), [SCONJ]() (2; 1% instances), [VERB]() (2; 1% instances), [AUX]() (1; 0% instances), [CCONJ]() (1; 0% instances)
 

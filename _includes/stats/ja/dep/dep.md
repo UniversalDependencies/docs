@@ -6,62 +6,110 @@
 
 This relation is universal.
 
-38 nodes (0%) are attached to their parents as `dep`.
+20 nodes (0%) are attached to their parents as `dep`.
 
-38 instances of `dep` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.36842105263158.
+20 instances of `dep` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 3.6.
 
-The following 19 pairs of parts of speech are connected with `dep`: [ja-pos/CONJ]()-[ja-pos/NOUN]() (7; 18% instances), [ja-pos/VERB]()-[ja-pos/NOUN]() (7; 18% instances), [ja-pos/NOUN]()-[ja-pos/X]() (4; 11% instances), [ja-pos/VERB]()-[ja-pos/X]() (4; 11% instances), [ja-pos/NOUN]()-[ja-pos/NOUN]() (2; 5% instances), [ja-pos/ADJ]()-[ja-pos/NOUN]() (1; 3% instances), [ja-pos/ADJ]()-[ja-pos/NUM]() (1; 3% instances), [ja-pos/ADJ]()-[ja-pos/VERB]() (1; 3% instances), [ja-pos/ADJ]()-[ja-pos/X]() (1; 3% instances), [ja-pos/CONJ]()-[ja-pos/PRON]() (1; 3% instances), [ja-pos/CONJ]()-[ja-pos/VERB]() (1; 3% instances), [ja-pos/NOUN]()-[ja-pos/ADJ]() (1; 3% instances), [ja-pos/NOUN]()-[ja-pos/VERB]() (1; 3% instances), [ja-pos/NUM]()-[ja-pos/X]() (1; 3% instances), [ja-pos/PRON]()-[ja-pos/NOUN]() (1; 3% instances), [ja-pos/PRON]()-[ja-pos/X]() (1; 3% instances), [ja-pos/VERB]()-[ja-pos/VERB]() (1; 3% instances), [ja-pos/X]()-[ja-pos/ADJ]() (1; 3% instances), [ja-pos/X]()-[ja-pos/VERB]() (1; 3% instances).
+The following 7 pairs of parts of speech are connected with `dep`: [ja-pos/VERB]()-[ja-pos/ADP]() (12; 60% instances), [ja-pos/NOUN]()-[ja-pos/ADP]() (3; 15% instances), [ja-pos/NOUN]()-[ja-pos/PART]() (1; 5% instances), [ja-pos/NOUN]()-[ja-pos/PUNCT]() (1; 5% instances), [ja-pos/NOUN]()-[ja-pos/SCONJ]() (1; 5% instances), [ja-pos/PART]()-[ja-pos/SCONJ]() (1; 5% instances), [ja-pos/SCONJ]()-[ja-pos/AUX]() (1; 5% instances).
 
 
 ~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 4 dep	color:blue
-1	ご購入された	_	VERB	VERB-AUX-AUX	_	2	acl:relcl	_	_
-2	チケットの	_	NOUN	NOUN-POSTP	_	3	nmod	_	_
-3	払い戻しに関する	_	NOUN	NOUN-POSTP	_	4	nmod	_	_
-4	主催者	_	NOUN	NOUN	_	5	dep	_	_
-5	または	_	CONJ	CONJ	_	6	cc	_	_
-6	ご購入先へ	_	NOUN	NOUN-POSTP	_	7	nmod	_	_
-7	お願いいたします。	_	VERB	VERB-AUX	_	0	root	_	_
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 8 7 dep	color:blue
+1	右	右	NOUN	_	_	3	iobj	_	SpaceAfter=No
+2	に	に	ADP	_	_	1	case	_	SpaceAfter=No
+3	ある	ある	VERB	_	_	5	acl	_	SpaceAfter=No
+4	[	[	PUNCT	_	_	5	punct	_	SpaceAfter=No
+5	表示	表示	NOUN	_	_	8	obl	_	SpaceAfter=No
+6	]	]	PUNCT	_	_	7	punct	_	SpaceAfter=No
+7	を	を	ADP	_	_	8	dep	_	SpaceAfter=No
+8	クリック	クリック	VERB	_	_	12	acl	_	SpaceAfter=No
+9	する	する	AUX	_	_	8	aux	_	SpaceAfter=No
+10	と	と	SCONJ	_	_	8	mark	_	SpaceAfter=No
+11	一覧	一覧	NOUN	_	_	12	obl	_	SpaceAfter=No
+12	表示	表示	VERB	_	_	0	root	_	SpaceAfter=No
+13	さ	する	AUX	_	_	12	aux	_	SpaceAfter=No
+14	れる	れる	AUX	_	_	12	aux	_	SpaceAfter=No
+15	。	。	PUNCT	_	_	12	punct	_	SpaceAfter=No
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 9 6 dep	color:blue
-1	海老澤代表が	_	NOUN	NOUN-PRT	_	5	nmod	_	_
-2	統一協会の	_	NOUN	NOUN-POSTP	_	3	nmod	_	_
-3	関係の	_	NOUN	NOUN-POSTP	_	4	nmod	_	_
-4	人か	_	NOUN	NOUN-PRT	_	5	ccomp	_	_
-5	訊くと	_	VERB	VERB-AUX-CONJ	_	9	advcl	_	_
-6	"いえ	_	NOUN	NOUN	_	9	dep	_	_
-7	,	_	PUNCT	.	_	6	punct	_	_
-8	どなたかから	_	NOUN	NOUN-PRT-POSTP	_	9	nmod	_	_
-9	聞いたのですか?"	_	VERB	VERB-AUX-NOUN-VERB-AUX-PRT	_	0	root	_	_
+# visual-style 17	bgColor:blue
+# visual-style 17	fgColor:white
+# visual-style 18	bgColor:blue
+# visual-style 18	fgColor:white
+# visual-style 18 17 dep	color:blue
+1	長編	長編	NOUN	_	_	20	nsubj	_	SpaceAfter=No
+2	は	は	ADP	_	_	1	case	_	SpaceAfter=No
+3	『	『	PUNCT	_	_	5	punct	_	SpaceAfter=No
+4	~	~	SYM	_	_	5	compound	_	SpaceAfter=No
+5	事件	事件	NOUN	_	_	9	nmod	_	SpaceAfter=No
+6	』	』	SYM	_	_	5	compound	_	SpaceAfter=No
+7	、	、	PUNCT	_	_	5	punct	_	SpaceAfter=No
+8	短	短	NOUN	_	_	9	amod	_	SpaceAfter=No
+9	編集	編集	NOUN	_	_	20	nsubj	_	SpaceAfter=No
+10	は	は	ADP	_	_	9	case	_	SpaceAfter=No
+11	『	『	PUNCT	_	_	13	punct	_	SpaceAfter=No
+12	狩野	狩野	PROPN	_	_	13	compound	_	SpaceAfter=No
+13	俊介	俊介	PROPN	_	_	18	nmod	_	SpaceAfter=No
+14	の	の	ADP	_	_	13	case	_	SpaceAfter=No
+15	~	~	SYM	_	_	17	compound	_	SpaceAfter=No
+16	』	』	SYM	_	_	17	compound	_	SpaceAfter=No
+17	という	という	ADP	_	_	18	dep	_	SpaceAfter=No
+18	タイトル	タイトル	NOUN	_	_	20	obl	_	SpaceAfter=No
+19	で	で	ADP	_	_	18	case	_	SpaceAfter=No
+20	統一	統一	VERB	_	_	0	root	_	SpaceAfter=No
+21	さ	する	AUX	_	_	20	aux	_	SpaceAfter=No
+22	れ	れる	AUX	_	_	20	aux	_	SpaceAfter=No
+23	て	て	SCONJ	_	_	20	mark	_	SpaceAfter=No
+24	いる	いる	AUX	_	_	20	aux	_	SpaceAfter=No
+25	。	。	PUNCT	_	_	20	punct	_	SpaceAfter=No
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 1 dep	color:blue
-1	なんだよなんだよぉ	_	X	X	_	6	dep	_	_
-2	~,	_	PUNCT	.	_	1	punct	_	_
-3	わが	_	PRON	PRON	_	4	amod	_	_
-4	署に	_	NOUN	NOUN-POSTP	_	5	nmod	_	_
-5	来たのなら	_	VERB	VERB-AUX-NOUN-VERB-CONJ	_	6	advcl	_	_
-6	教えてくれよぉ~。	_	VERB	VERB-AUX-PRT	_	0	root	_	_
+# visual-style 22	bgColor:blue
+# visual-style 22	fgColor:white
+# visual-style 23	bgColor:blue
+# visual-style 23	fgColor:white
+# visual-style 23 22 dep	color:blue
+1	これ	これ	PRON	_	_	26	nsubj	_	SpaceAfter=No
+2	が	が	ADP	_	_	1	case	_	SpaceAfter=No
+3	元	元	ADJ	_	_	4	amod	_	SpaceAfter=No
+4	で	で	CCONJ	_	_	26	advmod	_	SpaceAfter=No
+5	両親	両親	NOUN	_	_	10	nsubj	_	SpaceAfter=No
+6	は	は	ADP	_	_	5	case	_	SpaceAfter=No
+7	解脱	解脱	NOUN	_	_	8	compound	_	SpaceAfter=No
+8	会	会	NOUN	_	_	10	obj	_	SpaceAfter=No
+9	を	を	ADP	_	_	8	case	_	SpaceAfter=No
+10	脱会	脱会	VERB	_	_	26	acl	_	SpaceAfter=No
+11	し	する	AUX	_	_	10	aux	_	SpaceAfter=No
+12	,	,	PUNCT	_	_	10	punct	_	SpaceAfter=No
+13	一	一	NUM	_	NumType=Card	15	nummod	_	SpaceAfter=No
+14	部	部	NOUN	_	_	15	compound	_	SpaceAfter=No
+15	信者	信者	NOUN	_	_	17	obj	_	SpaceAfter=No
+16	を	を	ADP	_	_	15	case	_	SpaceAfter=No
+17	引き連れ	引き連れる	VERB	_	_	26	acl	_	SpaceAfter=No
+18	て	て	SCONJ	_	_	17	mark	_	SpaceAfter=No
+19	“	“	PUNCT	_	_	20	punct	_	SpaceAfter=No
+20	かむ	かむ	VERB	_	_	23	acl	_	SpaceAfter=No
+21	ながら	ながら	SCONJ	_	_	22	dep	_	SpaceAfter=No
+22	の	の	PART	_	_	23	dep	_	SpaceAfter=No
+23	みち	みち	NOUN	_	_	26	obj	_	SpaceAfter=No
+24	”	”	PUNCT	_	_	23	punct	_	SpaceAfter=No
+25	を	を	ADP	_	_	23	case	_	SpaceAfter=No
+26	設立	設立	VERB	_	_	0	root	_	SpaceAfter=No
+27	し	する	AUX	_	_	26	aux	_	SpaceAfter=No
+28	まし	ます	AUX	_	_	26	aux	_	SpaceAfter=No
+29	た	た	AUX	_	_	26	aux	_	SpaceAfter=No
+30	。	。	PUNCT	_	_	26	punct	_	SpaceAfter=No
 
 ~~~
 
@@ -74,12 +122,12 @@ The following 19 pairs of parts of speech are connected with `dep`: [ja-pos/CONJ
 
 This relation is universal.
 
-7226 nodes (3%) are attached to their parents as `dep`.
+5087 nodes (3%) are attached to their parents as `dep`.
 
-3845 instances of `dep` (53%) are right-to-left (child precedes parent).
-Average distance between parent and child is 4.5988098533075.
+2785 instances of `dep` (55%) are right-to-left (child precedes parent).
+Average distance between parent and child is 4.7253784155691.
 
-The following 83 pairs of parts of speech are connected with `dep`: [ja-pos/VERB]()-[ja-pos/ADP]() (1259; 17% instances), [ja-pos/NOUN]()-[ja-pos/NOUN]() (852; 12% instances), [ja-pos/VERB]()-[ja-pos/NOUN]() (850; 12% instances), [ja-pos/NOUN]()-[ja-pos/ADP]() (685; 9% instances), [ja-pos/ADJ]()-[ja-pos/VERB]() (364; 5% instances), [ja-pos/NOUN]()-[ja-pos/VERB]() (351; 5% instances), [ja-pos/NUM]()-[ja-pos/NOUN]() (300; 4% instances), [ja-pos/ADJ]()-[ja-pos/NOUN]() (288; 4% instances), [ja-pos/ADV]()-[ja-pos/ADP]() (283; 4% instances), [ja-pos/NOUN]()-[ja-pos/AUX]() (276; 4% instances), [ja-pos/VERB]()-[ja-pos/VERB]() (251; 3% instances), [ja-pos/ADP]()-[ja-pos/ADP]() (133; 2% instances), [ja-pos/NOUN]()-[ja-pos/PRON]() (127; 2% instances), [ja-pos/NUM]()-[ja-pos/ADP]() (101; 1% instances), [ja-pos/ADV]()-[ja-pos/AUX]() (98; 1% instances), [ja-pos/ADV]()-[ja-pos/NOUN]() (92; 1% instances), [ja-pos/VERB]()-[ja-pos/ADJ]() (72; 1% instances), [ja-pos/VERB]()-[ja-pos/AUX]() (62; 1% instances), [ja-pos/ADV]()-[ja-pos/PART]() (61; 1% instances), [ja-pos/VERB]()-[ja-pos/PRON]() (60; 1% instances), [ja-pos/ADV]()-[ja-pos/VERB]() (54; 1% instances), [ja-pos/ADJ]()-[ja-pos/ADJ]() (52; 1% instances), [ja-pos/NOUN]()-[ja-pos/ADJ]() (49; 1% instances), [ja-pos/ADJ]()-[ja-pos/ADP]() (48; 1% instances), [ja-pos/NOUN]()-[ja-pos/PROPN]() (35; 0% instances), [ja-pos/ADJ]()-[ja-pos/AUX]() (32; 0% instances), [ja-pos/NOUN]()-[ja-pos/PART]() (28; 0% instances), [ja-pos/VERB]()-[ja-pos/ADV]() (28; 0% instances), [ja-pos/CONJ]()-[ja-pos/ADP]() (27; 0% instances), [ja-pos/DET]()-[ja-pos/AUX]() (25; 0% instances), [ja-pos/NOUN]()-[ja-pos/NUM]() (25; 0% instances), [ja-pos/VERB]()-[ja-pos/CONJ]() (19; 0% instances), [ja-pos/CONJ]()-[ja-pos/NOUN]() (18; 0% instances), [ja-pos/PROPN]()-[ja-pos/AUX]() (13; 0% instances), [ja-pos/NUM]()-[ja-pos/NUM]() (12; 0% instances), [ja-pos/PRON]()-[ja-pos/ADP]() (12; 0% instances), [ja-pos/PROPN]()-[ja-pos/NOUN]() (12; 0% instances), [ja-pos/PROPN]()-[ja-pos/ADP]() (11; 0% instances), [ja-pos/AUX]()-[ja-pos/AUX]() (10; 0% instances), [ja-pos/NOUN]()-[ja-pos/ADV]() (10; 0% instances), [ja-pos/PROPN]()-[ja-pos/VERB]() (10; 0% instances), [ja-pos/VERB]()-[ja-pos/PART]() (10; 0% instances), [ja-pos/ADJ]()-[ja-pos/PRON]() (9; 0% instances), [ja-pos/NUM]()-[ja-pos/PROPN]() (9; 0% instances), [ja-pos/ADJ]()-[ja-pos/ADV]() (8; 0% instances), [ja-pos/INTJ]()-[ja-pos/ADP]() (8; 0% instances), [ja-pos/NOUN]()-[ja-pos/CONJ]() (8; 0% instances), [ja-pos/PROPN]()-[ja-pos/PROPN]() (8; 0% instances), [ja-pos/ADV]()-[ja-pos/ADJ]() (5; 0% instances), [ja-pos/CONJ]()-[ja-pos/PRON]() (5; 0% instances), [ja-pos/PRON]()-[ja-pos/NOUN]() (5; 0% instances), [ja-pos/INTJ]()-[ja-pos/INTJ]() (4; 0% instances), [ja-pos/VERB]()-[ja-pos/PROPN]() (4; 0% instances), [ja-pos/ADV]()-[ja-pos/ADV]() (3; 0% instances), [ja-pos/ADV]()-[ja-pos/PRON]() (3; 0% instances), [ja-pos/INTJ]()-[ja-pos/NOUN]() (3; 0% instances), [ja-pos/NUM]()-[ja-pos/VERB]() (3; 0% instances), [ja-pos/PRON]()-[ja-pos/PART]() (3; 0% instances), [ja-pos/ADJ]()-[ja-pos/CONJ]() (2; 0% instances), [ja-pos/ADJ]()-[ja-pos/PART]() (2; 0% instances), [ja-pos/ADJ]()-[ja-pos/PROPN]() (2; 0% instances), [ja-pos/CONJ]()-[ja-pos/VERB]() (2; 0% instances), [ja-pos/INTJ]()-[ja-pos/AUX]() (2; 0% instances), [ja-pos/NOUN]()-[ja-pos/INTJ]() (2; 0% instances), [ja-pos/PART]()-[ja-pos/AUX]() (2; 0% instances), [ja-pos/PRON]()-[ja-pos/AUX]() (2; 0% instances), [ja-pos/ADJ]()-[ja-pos/NUM]() (1; 0% instances), [ja-pos/ADV]()-[ja-pos/INTJ]() (1; 0% instances), [ja-pos/ADV]()-[ja-pos/PROPN]() (1; 0% instances), [ja-pos/AUX]()-[ja-pos/ADP]() (1; 0% instances), [ja-pos/CONJ]()-[ja-pos/ADV]() (1; 0% instances), [ja-pos/CONJ]()-[ja-pos/AUX]() (1; 0% instances), [ja-pos/CONJ]()-[ja-pos/CONJ]() (1; 0% instances), [ja-pos/INTJ]()-[ja-pos/ADV]() (1; 0% instances), [ja-pos/INTJ]()-[ja-pos/VERB]() (1; 0% instances), [ja-pos/NUM]()-[ja-pos/ADJ]() (1; 0% instances), [ja-pos/NUM]()-[ja-pos/ADV]() (1; 0% instances), [ja-pos/NUM]()-[ja-pos/AUX]() (1; 0% instances), [ja-pos/NUM]()-[ja-pos/PRON]() (1; 0% instances), [ja-pos/PRON]()-[ja-pos/ADJ]() (1; 0% instances), [ja-pos/PROPN]()-[ja-pos/ADJ]() (1; 0% instances), [ja-pos/PROPN]()-[ja-pos/PRON]() (1; 0% instances), [ja-pos/VERB]()-[ja-pos/NUM]() (1; 0% instances).
+The following 80 pairs of parts of speech are connected with `dep`: [ja-pos/VERB]()-[ja-pos/ADP]() (848; 17% instances), [ja-pos/NOUN]()-[ja-pos/NOUN]() (640; 13% instances), [ja-pos/VERB]()-[ja-pos/NOUN]() (590; 12% instances), [ja-pos/NOUN]()-[ja-pos/ADP]() (470; 9% instances), [ja-pos/NOUN]()-[ja-pos/VERB]() (269; 5% instances), [ja-pos/ADJ]()-[ja-pos/VERB]() (255; 5% instances), [ja-pos/NUM]()-[ja-pos/NOUN]() (222; 4% instances), [ja-pos/ADV]()-[ja-pos/ADP]() (206; 4% instances), [ja-pos/ADJ]()-[ja-pos/NOUN]() (193; 4% instances), [ja-pos/VERB]()-[ja-pos/VERB]() (173; 3% instances), [ja-pos/NOUN]()-[ja-pos/AUX]() (164; 3% instances), [ja-pos/ADP]()-[ja-pos/ADP]() (90; 2% instances), [ja-pos/NOUN]()-[ja-pos/PRON]() (90; 2% instances), [ja-pos/NUM]()-[ja-pos/ADP]() (78; 2% instances), [ja-pos/ADV]()-[ja-pos/AUX]() (67; 1% instances), [ja-pos/ADV]()-[ja-pos/NOUN]() (57; 1% instances), [ja-pos/VERB]()-[ja-pos/ADJ]() (55; 1% instances), [ja-pos/ADV]()-[ja-pos/PART]() (48; 1% instances), [ja-pos/NOUN]()-[ja-pos/ADJ]() (44; 1% instances), [ja-pos/VERB]()-[ja-pos/PRON]() (41; 1% instances), [ja-pos/ADV]()-[ja-pos/VERB]() (40; 1% instances), [ja-pos/ADJ]()-[ja-pos/ADJ]() (38; 1% instances), [ja-pos/ADJ]()-[ja-pos/ADP]() (37; 1% instances), [ja-pos/VERB]()-[ja-pos/AUX]() (35; 1% instances), [ja-pos/NOUN]()-[ja-pos/PROPN]() (30; 1% instances), [ja-pos/VERB]()-[ja-pos/ADV]() (24; 0% instances), [ja-pos/NOUN]()-[ja-pos/PART]() (21; 0% instances), [ja-pos/DET]()-[ja-pos/AUX]() (20; 0% instances), [ja-pos/NOUN]()-[ja-pos/NUM]() (19; 0% instances), [ja-pos/ADJ]()-[ja-pos/AUX]() (17; 0% instances), [ja-pos/CONJ]()-[ja-pos/ADP]() (16; 0% instances), [ja-pos/VERB]()-[ja-pos/CONJ]() (16; 0% instances), [ja-pos/NUM]()-[ja-pos/NUM]() (12; 0% instances), [ja-pos/PROPN]()-[ja-pos/AUX]() (10; 0% instances), [ja-pos/NUM]()-[ja-pos/PROPN]() (9; 0% instances), [ja-pos/PROPN]()-[ja-pos/VERB]() (9; 0% instances), [ja-pos/AUX]()-[ja-pos/AUX]() (8; 0% instances), [ja-pos/CONJ]()-[ja-pos/NOUN]() (8; 0% instances), [ja-pos/PROPN]()-[ja-pos/ADP]() (8; 0% instances), [ja-pos/PROPN]()-[ja-pos/NOUN]() (8; 0% instances), [ja-pos/VERB]()-[ja-pos/PART]() (8; 0% instances), [ja-pos/NOUN]()-[ja-pos/CONJ]() (7; 0% instances), [ja-pos/PRON]()-[ja-pos/ADP]() (7; 0% instances), [ja-pos/PROPN]()-[ja-pos/PROPN]() (7; 0% instances), [ja-pos/ADJ]()-[ja-pos/PRON]() (6; 0% instances), [ja-pos/NOUN]()-[ja-pos/ADV]() (6; 0% instances), [ja-pos/PRON]()-[ja-pos/NOUN]() (5; 0% instances), [ja-pos/ADJ]()-[ja-pos/ADV]() (4; 0% instances), [ja-pos/ADV]()-[ja-pos/ADJ]() (4; 0% instances), [ja-pos/INTJ]()-[ja-pos/ADP]() (4; 0% instances), [ja-pos/VERB]()-[ja-pos/PROPN]() (4; 0% instances), [ja-pos/ADV]()-[ja-pos/PRON]() (3; 0% instances), [ja-pos/CONJ]()-[ja-pos/PRON]() (3; 0% instances), [ja-pos/NUM]()-[ja-pos/VERB]() (3; 0% instances), [ja-pos/PRON]()-[ja-pos/PART]() (3; 0% instances), [ja-pos/ADV]()-[ja-pos/ADV]() (2; 0% instances), [ja-pos/INTJ]()-[ja-pos/INTJ]() (2; 0% instances), [ja-pos/INTJ]()-[ja-pos/NOUN]() (2; 0% instances), [ja-pos/ADJ]()-[ja-pos/CONJ]() (1; 0% instances), [ja-pos/ADJ]()-[ja-pos/NUM]() (1; 0% instances), [ja-pos/ADJ]()-[ja-pos/PART]() (1; 0% instances), [ja-pos/ADJ]()-[ja-pos/PROPN]() (1; 0% instances), [ja-pos/ADV]()-[ja-pos/INTJ]() (1; 0% instances), [ja-pos/ADV]()-[ja-pos/PROPN]() (1; 0% instances), [ja-pos/AUX]()-[ja-pos/ADP]() (1; 0% instances), [ja-pos/CONJ]()-[ja-pos/ADV]() (1; 0% instances), [ja-pos/CONJ]()-[ja-pos/CONJ]() (1; 0% instances), [ja-pos/CONJ]()-[ja-pos/VERB]() (1; 0% instances), [ja-pos/INTJ]()-[ja-pos/ADV]() (1; 0% instances), [ja-pos/INTJ]()-[ja-pos/AUX]() (1; 0% instances), [ja-pos/INTJ]()-[ja-pos/VERB]() (1; 0% instances), [ja-pos/NUM]()-[ja-pos/ADJ]() (1; 0% instances), [ja-pos/NUM]()-[ja-pos/ADV]() (1; 0% instances), [ja-pos/NUM]()-[ja-pos/AUX]() (1; 0% instances), [ja-pos/NUM]()-[ja-pos/PRON]() (1; 0% instances), [ja-pos/PART]()-[ja-pos/AUX]() (1; 0% instances), [ja-pos/PRON]()-[ja-pos/ADJ]() (1; 0% instances), [ja-pos/PRON]()-[ja-pos/AUX]() (1; 0% instances), [ja-pos/PROPN]()-[ja-pos/ADJ]() (1; 0% instances), [ja-pos/VERB]()-[ja-pos/NUM]() (1; 0% instances).
 
 
 ~~~ conllu

@@ -16,7 +16,7 @@ The feature is used with 2 part-of-speech tags: [sa-pos/PRON]() (6; 0% instances
 
 6 [sa-pos/PRON]() tokens (4% of all `PRON` tokens) have a non-empty value of `Poss`.
 
-The most frequent other feature values with which `PRON` and `Poss` co-occurred: <tt><a href="Number.html">Number</a>=Sing</tt> (6; 100%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (5; 83%), <tt><a href="Case.html">Case</a>=Gen</tt> (5; 83%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (4; 67%).
+The most frequent other feature values with which `PRON` and `Poss` co-occurred: <tt><a href="Number.html">Number</a>=Sing</tt> (6; 100%), <tt><a href="Case.html">Case</a>=Gen</tt> (5; 83%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (5; 83%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (4; 67%).
 
 `PRON` tokens may have the following values of `Poss`:
 

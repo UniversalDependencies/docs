@@ -94,7 +94,7 @@ mark(predicting, with)
 
 ### Core arguments
 
-UD makes a distinction between core arguments and other dependents of predicates. In English, the UD relations that can designate core arguments are `nsubj`, `nsubjpass`, `dobj` and `iobj` for nominal arguments, and `ccomp`, `xcomp`, `csubj` and `csubjpass` for clausal arguments.
+UD makes a distinction between core arguments and other dependents of predicates. In English, the UD relations that can designate core arguments are `nsubj`, `nsubjpass`, `obj` and `iobj` for nominal arguments, and `ccomp`, `xcomp`, `csubj` and `csubjpass` for clausal arguments.
 
 `nsubj` and `nsubjpass` are used for external arguments of any predicate (as in the examples above); the only difference is that `nsubjpass` is used in passive-voice clauses.
 
@@ -137,9 +137,9 @@ expl(is, There)
 nsubj(is, dinner)
 ~~~
 
-The internal argument labels, `dobj` and `iobj`, are exclusive to verbal predicates and a handful of adjectives (namely: *worth*, *like* and *unlike*, following Huddleston and Pullum (2001)).
+The internal argument labels, `obj` and `iobj`, are exclusive to verbal predicates and a handful of adjectives (namely: *worth*, *like* and *unlike*, following Huddleston and Pullum (2001)).
 
-The distinction between `dobj` and `iobj` is strictly syntactic; `iobj` is reserved for "second objects" with restricted theta-roles, and is relatively rare in English. Only when another internal argument is present can `iobj` occur.
+The distinction between `obj` and `iobj` is strictly syntactic; `iobj` is reserved for "second objects" with restricted theta-roles, and is relatively rare in English. Only when another internal argument is present can `iobj` occur.
 
 ~~~sdparse
 They gave me the trip as a gift.
@@ -147,7 +147,7 @@ iobj(gave, me)
 dobj(gave, trip)
 ~~~
 
-The other internal argument need not be nominal. In English, some verbs can take a nominal complement and a clausal complement together. In the case of these verbs, the nominal complement is always thematically restricted, which suggests it is an `iobj` serving as a "second object" to the clausal complement. For that reason, the clausal complement label `ccomp` never cooccurs with `dobj`, but does cooccur with `dobj`.
+The other internal argument need not be nominal. In English, some verbs can take a nominal complement and a clausal complement together. In the case of these verbs, the nominal complement is always thematically restricted, which suggests it is an `iobj` serving as a "second object" to the clausal complement. For that reason, the clausal complement label `ccomp` never cooccurs with `obj`, but does cooccur with `obj`.
 
 ~~~sdparse
 I told them that I 'm planning to come visit .
@@ -155,7 +155,7 @@ ccomp(told, planning)
 iobj(told, them)
 ~~~
 
-However, the same observation does not hold of verbs that take open complements, labeled `xcomp` (more on this label below). Those can clearly cooccur with thematically unrestricted objects under some verbs. For that reason, nominal complements cooccuring with `xcomp` are uniformly labeled `dobj`, and never `iobj`.
+However, the same observation does not hold of verbs that take open complements, labeled `xcomp` (more on this label below). Those can clearly cooccur with thematically unrestricted objects under some verbs. For that reason, nominal complements cooccuring with `xcomp` are uniformly labeled `obj`, and never `iobj`.
 
 ~~~sdparse
 I told them to expect my visit.
@@ -394,9 +394,9 @@ I felt as if I was in an over priced Olive Garden .
 goeswith(priced, over)
 ~~~
 
-The other two relations, `mwe` and `compound`, are more interesting. The main difference between them is that `mwe` applies between function words and other function words or lexical words, while `compound` applies only between lexical words.
+The other two relations, `fixed` and `compound`, are more interesting. The main difference between them is that `fixed` applies between function words and other function words or lexical words, while `compound` applies only between lexical words.
 
-The `mwe` relation is used sparingly. In general, the relation is used in grammaticalized uses of two or more function words together, often giving rise to noncompositional meaning. Since words joined by the `mwe` relation often have equal claim to the status of head, any such construction is, by convention, head-initial.
+The `fixed` relation is used sparingly. In general, the relation is used in grammaticalized uses of two or more function words together, often giving rise to noncompositional meaning. Since words joined by the `fixed` relation often have equal claim to the status of head, any such construction is, by convention, head-initial.
 
 ~~~sdparse
 How come no one bothers to ask any questions in this section ?
@@ -418,7 +418,7 @@ case(reasons, due)
 
 When the multiword expression is composed of more than two words, all non-head words attach directly to the head, in a flat structure.
 
-Decisions about what should be annotated as a multiword expression are difficult due to the fact that such expressions exist in a continuous spectrum between phrases built via fully productive rules on the one hand, and fixed lexicalized expressions on the other. A series of criteria can be used to rule out the `mwe` label: optionality of one word in the construction; meaning compositionality;  availability of variants in which one of the words is substituted.
+Decisions about what should be annotated as a multiword expression are difficult due to the fact that such expressions exist in a continuous spectrum between phrases built via fully productive rules on the one hand, and fixed lexicalized expressions on the other. A series of criteria can be used to rule out the `fixed` label: optionality of one word in the construction; meaning compositionality;  availability of variants in which one of the words is substituted.
 
 The `compound` relation, on the other hand, can be used freely to represent productive phrase-building. The difference is that `compound` is used when a string of words joined together are analyzed as a single lexical unit that behaves as a head (i.e., an X^0 node) rather than as a constituent (i.e., an XP node) in the sentence.
 
@@ -454,7 +454,7 @@ compound(extract, tea)
 
 ### The nominal domain: nominal and prepositional phrases
 
-Nominal and prepositional phrases are uniformly organized around their nominal lexical head in UD. In addition to their argument roles, labeled `nsubj`, `nsubjpass`, `dobj` and `iobj`, nominal phrases can have roles as noncore dependents. In these roles, they are labeled `nmod` (and subtypes). Commonly, noncore dependents are realized as prepositional phrases.
+Nominal and prepositional phrases are uniformly organized around their nominal lexical head in UD. In addition to their argument roles, labeled `nsubj`, `nsubjpass`, `obj` and `iobj`, nominal phrases can have roles as noncore dependents. In these roles, they are labeled `nmod` (and subtypes). Commonly, noncore dependents are realized as prepositional phrases.
 
 #### Prepositions
 
@@ -764,7 +764,7 @@ nmod(talked, about)
 
 #### Gapping / Stripping
 
-In 'gapping' constructions, where the head of a clause has been elided but two arguments that contrast with arguments in the antecedent clause remain, and 'stripping' constructions, where the head of a clause has been elided but one contrasting argument and one polarity adverbial such as _not_ or _only_ remain, the `remnant` relation is used between the remaining constituents and the words they contrast with:
+In 'gapping' constructions, where the head of a clause has been elided but two arguments that contrast with arguments in the antecedent clause remain, and 'stripping' constructions, where the head of a clause has been elided but one contrasting argument and one polarity adverbial such as _not_ or _only_ remain, the `orphan` relation is used between the remaining constituents and the words they contrast with:
 
 ~~~sdparse
 it took another 20 mins to get our orders and a further 45 mins till our starters landed on our table.
@@ -951,7 +951,7 @@ When the subject is not an argument of the higher clause, then the lower clause 
 root(-ROOT-, helpful)
 csubj(helpful, solve)
 nsubj(solve, John)
-mark(solve, for)
+mark(solve, For)
 ~~~
 
 When the subject _is_ an argument of the higher clause, the lower verb phrase (in its gerund form) or its object (in its nominative form) can be fronted, displacing the expletive and maintaining its `csubj` label. In the latter case, the clause is no longer a `csubj`, being instead analyzed as an `xcomp`.
@@ -1159,7 +1159,7 @@ In the canonical case, _wh_-clauses function as interrogative clauses or as adve
 
 ~~~sdparse
 I need to know who you are planning to leave with .
-dobj(leave, who)
+nmod(leave, who)
 case(who, with)
 ccomp(know, leave)
 ~~~
@@ -1214,7 +1214,7 @@ nsubj(transpired, events)
 root(-ROOT-, why)
 ~~~
 
-The phrase _no matter_ is analyzed as taking a `dobj` complement in, e.g., _no matter the cost_. When it takes free relative object, that object is also analyzed according to the rules above.
+The phrase _no matter_ is analyzed as taking a `obj` complement in, e.g., _no matter the cost_. When it takes free relative object, that object is also analyzed according to the rules above.
 
 ~~~sdparse
 No matter what progress we make as individuals, we will never achieve real health until ...

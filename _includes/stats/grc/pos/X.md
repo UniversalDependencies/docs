@@ -4,76 +4,92 @@
 
 ## Treebank Statistics (UD_Ancient_Greek)
 
-There are 10 `X` lemmas (0%), 12 `X` types (0%) and 21 `X` tokens (0%).
-Out of 13 observed tags, the rank of `X` is: 12 in number of lemmas, 13 in number of types and 13 in number of tokens.
+There are 19 `X` lemmas (0%), 23 `X` types (0%) and 40 `X` tokens (0%).
+Out of 14 observed tags, the rank of `X` is: 12 in number of lemmas, 13 in number of types and 14 in number of tokens.
 
-The 10 most frequent `X` lemmas: <em>", οὐδέ, Πηληι, μηδέ, Δηί, Τυδει, προν, ἆρα, Ἀι, Ἀλύβας</em>
+The 10 most frequent `X` lemmas: <em>τίς, ἐυ, δυώδεκα, τέκμαρ, χρεών, Λάιος, Μηκιστηι, Πευκεί, ἠ, πολυ</em>
 
-The 10 most frequent `X` types:  <em>", δέ, δ̓, Δηΐφοβος, Πηληϊάδαο, Πηληϊάδεω, Τυδεΐδης, δὲ, σ̓, ἆρά</em>
+The 10 most frequent `X` types:  <em>τί, ἐϋκνήμιδες, δυώδεκα, τέκμωρ, τοῖσι, χρεὼν, ἐϋκνήμιδας, Λάϊον, Μηκιστηϊάδης, Πευκεΐδας</em>
 
-The 10 most frequent ambiguous lemmas: <em>"</em> ([PUNCT]() 625, [X]() 6), <em>οὐδέ</em> ([ADV]() 292, [CONJ]() 77, [X]() 5), <em>μηδέ</em> ([ADV]() 93, [CONJ]() 19, [X]() 2), <em>προν</em> ([X]() 1, [PRON]() 1), <em>ἆρα</em> ([ADV]() 51, [PRON]() 9, [X]() 1)
+The 10 most frequent ambiguous lemmas: <em>τίς</em> ([PRON]() 226, [X]() 15, [ADJ]() 5, [DET]() 1), <em>δυώδεκα</em> ([NUM]() 3, [X]() 2), <em>Λάιος</em> ([NOUN]() 11, [X]() 1), <em>συμβάλλω</em> ([VERB]() 23, [X]() 1), <em>σύ</em> ([PRON]() 1214, [NOUN]() 4, [X]() 1), <em>φύω</em> ([VERB]() 56, [X]() 1), <em>ἔχω</em> ([VERB]() 825, [X]() 1), <em>ὁ</em> ([DET]() 9415, [PRON]() 2252, [X]() 1)
 
-The 10 most frequent ambiguous types:  <em>"</em> ([PUNCT]() 625, [X]() 6), <em>δέ</em> ([ADV]() 792, [CONJ]() 33, [X]() 4), <em>δ̓</em> ([ADV]() 4234, [CONJ]() 235, [X]() 2), <em>δὲ</em> ([ADV]() 3835, [CONJ]() 844, [X]() 1), <em>σ̓</em> ([PRON]() 145, [X]() 1, [ADJ]() 1), <em>ἆρά</em> ([ADV]() 2, [X]() 1), <em>Ἄϊδόσδε</em> ([ADV]() 2, [X]() 1)
+The 10 most frequent ambiguous types:  <em>τί</em> ([PRON]() 225, [X]() 11, [ADV]() 4, [ADJ]() 2), <em>ἐϋκνήμιδες</em> ([ADJ]() 5, [X]() 3), <em>δυώδεκα</em> ([NUM]() 3, [X]() 2), <em>τέκμωρ</em> ([X]() 2, [NOUN]() 2), <em>τοῖσι</em> ([DET]() 70, [PRON]() 63, [X]() 2), <em>ἐϋκνήμιδας</em> ([ADJ]() 6, [X]() 2, [NOUN]() 1), <em>Λάϊον</em> ([NOUN]() 3, [X]() 1), <em>πολυάϊκος</em> ([ADJ]() 1, [X]() 1), <em>σοι</em> ([PRON]() 60, [X]() 1), <em>τάς</em> ([DET]() 3, [PRON]() 2, [X]() 1)
 
 
-* <em>"</em>
-  * [PUNCT]() 625: <em>χρυσοῖς δὲ φωνεῖ γράμμασιν <b>"</b> πρήσω πόλιν .</em>
-  * [X]() 6: <em><b>"</b> τίς πόθεν εἰς ἀνδρῶν ;</em>
-* <em>δέ</em>
-  * [ADV]() 792: <em>κραιπνοφόροι <b>δέ</b> μ̓ ἔπεμψαν αὖραι ·</em>
-  * [CONJ]() 33: <em>ἀφορμῆς δὲ δέομαι , καταθήσω <b>δέ</b> σοι ἐννέ̓ ὀβολοὺς τῆς μνᾶς τόκους .</em>
-  * [X]() 4: <em>οὐ <b>δέ</b> τί σε χρὴ νηπιάας ὀχέειν , ἐπεὶ οὐκέτι τηλίκος ἐσσι .</em>
-* <em>δ̓</em>
-  * [ADV]() 4234: <em>αἰθὴρ <b>δ̓</b> ἐλαφραῖς πτερύγων ῥιπαῖς ὑποσυρίζει .</em>
-  * [CONJ]() 235: <em>ἐπειδὴ δὲ καλῶς αὐτῷ εἶχεν , ἐκεῖνος μὲν ἀπιὼν ᾤχετο , ἐγὼ <b>δ̓</b> ἐκάθευδον .</em>
-  * [X]() 2: <em>οὐ <b>δ̓</b> ἄῤ ἔτι δὴν Τηλέμαχος παρέμιμνεν , ἐπεὶ θεοῦ ἔκλυεν αὐδήν .</em>
-* <em>δὲ</em>
-  * [ADV]() 3835: <em>νεοχμοῖς <b>δὲ</b> δὴ νόμοις Ζεὺς ἀθέτως κρατύνει .</em>
-  * [CONJ]() 844: <em>τούτων ἕκαστον ἀνὰ τετρακισχιλίους πεζούς , ἱππεῖς <b>δὲ</b> τριακοσίους .</em>
-  * [X]() 1: <em>μή τις ἔτι πρόφρων ἀγανὸς καὶ ἤπιος ἔστω σκηπτοῦχος βασιλεύς , μη <b>δὲ</b> φρεσὶν αἴσιμα εἰδώς , ἀλλ̓ αἰεὶ χαλεπός τ̓ εἴη καὶ αἴσυλα ῥέζοι ·</em>
-* <em>σ̓</em>
-  * [PRON]() 145: <em>καὶ νῦν ἐγὼ μὲν εἶμι καὶ πειράσομαι ἐὰν δύνωμαι τῶνδέ <b>σ̓</b> ἐκλῦσαι πόνων .</em>
-  * [X]() 1: <em>ἀλλ̓ ἦ <b>σ̓</b> ἐπίανέν τις ἄπτερος φάτις ;</em>
-  * [ADJ]() 1: <em>ἐγὼ δ̓ οὐ μή ποτε τἄμ̓ , ὡς ἂν εἴπω μὴ τὰ <b>σ̓</b> , ἐκφήνω κακά .</em>
-* <em>ἆρά</em>
-  * [ADV]() 2: <em><b>ἆρά</b> σοι δοκεῖ χωρεῖν ἂν εἰς πᾶν ἔργον αἰσχύνης ἄτερ ;</em>
-  * [X]() 1: <em>Ὀρέστης <b>ἆρά</b> που βλέπει φάος , ὅπως κατελθὼν δεῦρο πρευμενεῖ τύχῃ ἀμφοῖν γένηται τοῖνδε παγκρατὴς φονεύς ;</em>
-* <em>Ἄϊδόσδε</em>
-  * [ADV]() 2: <em>ἐκ δέ μοι αὐχὴν ἀστραγάλων ἐάγη , ψυχὴ δ̓ <b>Ἄϊδόσδε</b> κατῆλθε .</em>
-  * [X]() 1: <em>ἐκ δέ οἱ αὐχὴν ἀστραγάλων ἐάγη , ψυχὴ δ̓ <b>Ἄϊδόσδε</b> κατῆλθεν .</em>
+* <em>τί</em>
+  * [PRON]() 225: <em><b>τί</b> πεπόνθατε , ἄνδρες Σπαρτιᾶται ;</em>
+  * [X]() 11: <em><b>τί</b> πάννυχον ὕπνον ἀωτεῖς ;</em>
+  * [ADV]() 4: <em>Ὕπνε <b>τί</b> ἢ δὲ σὺ ταῦτα μετὰ φρεσὶ σῇσι μενοινᾷς ;</em>
+  * [ADJ]() 2: <em>ὃ δὲ αὐτὸν εἰρώτα λέγων οὗτος ὁ πολλὸς ὅμιλος <b>τί</b> ταῦτα πολλῇ σπουδῇ ἐργάζεται ;</em>
+* <em>ἐϋκνήμιδες</em>
+  * [ADJ]() 5: <em>Τληπόλεμον δ̓ ἑτέρωθεν <b>ἐϋκνήμιδες</b> Ἀχαιοὶ ἐξέφερον πολέμοιο ·</em>
+  * [X]() 3: <em>ἕξουσιν γὰρ πάντας <b>ἐϋκνήμιδες</b> Ἀχαιοί ·</em>
+* <em>δυώδεκα</em>
+  * [NUM]() 3: <em>τῷ δ̓ ἅμα νῆες ἕποντο <b>δυώδεκα</b> μιλτοπάρῃοι .</em>
+  * [X]() 2: <em>ἦσαν γὰρ καὶ αὗται <b>δυώδεκα</b> αἱ ἐν τῆ ἠπείρῳ .</em>
+* <em>τέκμωρ</em>
+  * [X]() 2: <em>τοῖο μὲν Αὐτομέδων δουρικλυτὸς εὕρετο <b>τέκμωρ</b> ·</em>
+  * [NOUN]() 2: <em>καὶ δ̓ ἂν τοῖς ἄλλοισιν ἔφη παραμυθήσασθαι οἴκαδ̓ ἀποπλείειν , ἐπεὶ οὐκέτι δήετε <b>τέκμωρ</b> Ἰλίου αἰπεινῆς ·</em>
+* <em>τοῖσι</em>
+  * [DET]() 70: <em><b>τοῖσι</b> δὲ μαρναμένοισιν ὅδ̓ ἦν νόος ·</em>
+  * [PRON]() 63: <em>παρὰ <b>τοῖσι</b> βροτῶν κεῖμαι πεπονημένος ἀλλήκτοις ὀδύναις ;</em>
+  * [X]() 2: <em>ἀπικομένοισι δὲ <b>τοῖσι</b> θεοπρόποισι καὶ μαθοῦσι πρὸς Τελμησσέων τὸ θέλει σημαίνειν τὸ τέρας , οὐκ ἐξεγένετο Κροίσῳ ἀπαγγεῖλαι ·</em>
+* <em>ἐϋκνήμιδας</em>
+  * [ADJ]() 6: <em>τὴν μὲν ἔπειθ̓ ἥρως μετ̓ <b>ἐϋκνήμιδας</b> Ἀχαιοὺς ῥῖψ̓ ἐπιδινήσας , κόμισαν δ̓ ἐρίηρες ἑταῖροι ·</em>
+  * [X]() 2: <em>κὰδ δ̓ Ἀγαμέμνων εἷσεν <b>ἐϋκνήμιδας</b> Ἀχαιούς ·</em>
+  * [NOUN]() 1: <em>οὐ γὰρ ἐγὼ νεμεσῶ Ἀγαμέμνονι ποιμένι λαῶν ὀτρύνοντι μάχεσθαι <b>ἐϋκνήμιδας</b> Ἀχαιούς ·</em>
+* <em>Λάϊον</em>
+  * [NOUN]() 3: <em>ἀπήνη δ̓ ἦγε <b>Λάϊον</b> μία .</em>
+  * [X]() 1: <em>Φοῖβος γάρ , εἴ τι μὴ κλύεις τῶν ἀγγέλων , πέμψασιν ἡμῖν ἀντέπεμψεν , ἔκλυσιν μόνην ἂν ἐλθεῖν τοῦδε τοῦ νοσήματος , εἰ τοὺς κτανόντας <b>Λάϊον</b> μαθόντες εὖ κτείναιμεν ἢ γῆς φυγάδας ἐκπεμψαίμεθα .</em>
+* <em>πολυάϊκος</em>
+  * [ADJ]() 1: <em>πολλὰς δὲ στίχας ἡρώων , πολλὰς δὲ καὶ ἵππων Αἰνείας ὑπερᾶλτο θεοῦ ἀπὸ χειρὸς ὀρούσας , ἷξε δ̓ ἐπ̓ ἐσχατιὴν <b>πολυάϊκος</b> πολέμοιο , ἔνθά τε Καύκωνες πόλεμον μέτα θωρήσσοντο .</em>
+  * [X]() 1: <em>ἀλλὰ τὸ μὲν πλεῖον <b>πολυάϊκος</b> πολέμοιο χεῖρες ἐμαὶ διέπουσ̓ ·</em>
+* <em>σοι</em>
+  * [PRON]() 60: <em>βούλομαι δ̓ ἐνιαυτὸν ἐπισχὼν αὐτός <b>σοι</b> περὶ ὧν ἥκω δηλῶσαι .</em>
+  * [X]() 1: <em>κἀμοὶ πόλεως μέτεστιν , οὐχί <b>σοι</b> μόνῳ .</em>
+* <em>τάς</em>
+  * [DET]() 3: <em>καὶ <b>τάς</b> τε δίκας γράφοντες ἔσω παῤ ἐκεῖνον ἐσπέμπεσκον , καὶ ἐκεῖνος διακρίνων τὰς ἐσφερομένας ἐκπέμπεσκε .</em>
+  * [PRON]() 2: <em>χἠμεῖς ἰδόντες ἱέμεσθα , σὺν δέ νιν θηρώμεθ̓ εὐθὺς οὐδὲν ἐκπεπληγμένην , καὶ <b>τάς</b> τε πρόσθεν τάς τε νῦν ἠλέγχομεν πράξεις ·</em>
+  * [X]() 1: <em>χἠμεῖς ἰδόντες ἱέμεσθα , σὺν δέ νιν θηρώμεθ̓ εὐθὺς οὐδὲν ἐκπεπληγμένην , καὶ τάς τε πρόσθεν <b>τάς</b> τε νῦν ἠλέγχομεν πράξεις ·</em>
 
 ## Morphology
 
-The form / lemma ratio of `X` is 1.200000 (the average of all parts of speech is 3.041201).
+The form / lemma ratio of `X` is 1.210526 (the average of all parts of speech is 3.038201).
 
-The 1st highest number of forms (2) was observed with the lemma “Πηληι”: <em>Πηληϊάδαο, Πηληϊάδεω</em>.
+The 1st highest number of forms (4) was observed with the lemma “τίς”: <em>τί, τίς, τοῖσι, τὰ</em>.
 
-The 2nd highest number of forms (2) was observed with the lemma “μηδέ”: <em>δ̓, δὲ</em>.
+The 2nd highest number of forms (2) was observed with the lemma “ἐυ”: <em>ἐϋκνήμιδας, ἐϋκνήμιδες</em>.
 
-The 3rd highest number of forms (2) was observed with the lemma “οὐδέ”: <em>δ̓, δέ</em>.
+The 3rd highest number of forms (1) was observed with the lemma “Λάιος”: <em>Λάϊον</em>.
 
-`X` does not occur with any features.
+`X` occurs with 9 features: [grc-feat/Number]() (10; 25% instances), [grc-feat/Case]() (7; 18% instances), [grc-feat/Gender]() (5; 13% instances), [grc-feat/Mood]() (3; 8% instances), [grc-feat/Person]() (3; 8% instances), [grc-feat/Tense]() (3; 8% instances), [grc-feat/VerbForm]() (3; 8% instances), [grc-feat/Voice]() (3; 8% instances), [grc-feat/Aspect]() (1; 3% instances)
+
+`X` occurs with 15 feature-value pairs: `Aspect=Imp`, `Case=Acc`, `Case=Dat`, `Case=Nom`, `Gender=Fem`, `Gender=Masc`, `Gender=Neut`, `Mood=Ind`, `Number=Plur`, `Number=Sing`, `Person=3`, `Tense=Past`, `VerbForm=Fin`, `Voice=Act`, `Voice=Mid`
+
+`X` occurs with 9 feature combinations.
+The most frequent feature combination is `_` (30 tokens).
+Examples: <em>τί, ἐϋκνήμιδες, δυώδεκα, τέκμωρ, χρεὼν, ἐϋκνήμιδας, Μηκιστηϊάδης, Πευκεΐδας, ἠ, πολυάϊκος</em>
 
 
 ## Relations
 
-`X` nodes are attached to their parents using 8 different relations: [grc-dep/punct]() (6; 29% instances), [grc-dep/cc]() (5; 24% instances), [grc-dep/advmod]() (3; 14% instances), [grc-dep/amod]() (2; 10% instances), [grc-dep/iobj]() (2; 10% instances), [grc-dep/conj]() (1; 5% instances), [grc-dep/nsubj]() (1; 5% instances), [grc-dep/root]() (1; 5% instances)
+`X` nodes are attached to their parents using 9 different relations: [grc-dep/nmod]() (11; 28% instances), [grc-dep/advmod]() (9; 23% instances), [grc-dep/root]() (6; 15% instances), [grc-dep/obj]() (4; 10% instances), [grc-dep/nsubj]() (3; 8% instances), [grc-dep/obl]() (3; 8% instances), [grc-dep/vocative]() (2; 5% instances), [grc-dep/conj]() (1; 3% instances), [grc-dep/xcomp]() (1; 3% instances)
 
-Parents of `X` nodes belong to 6 different parts of speech: [VERB]() (13; 62% instances), [ADJ]() (2; 10% instances), [NOUN]() (2; 10% instances), [PRON]() (2; 10% instances), [ADV]() (1; 5% instances), [ROOT]() (1; 5% instances)
+Parents of `X` nodes belong to 5 different parts of speech: [VERB]() (20; 50% instances), [ADJ]() (7; 18% instances), [NOUN]() (6; 15% instances), [ROOT]() (6; 15% instances), [PRON]() (1; 3% instances)
 
-17 (81%) `X` nodes are leaves.
+24 (60%) `X` nodes are leaves.
 
-3 (14%) `X` nodes have one child.
+6 (15%) `X` nodes have one child.
 
-0 (0%) `X` nodes have two children.
+2 (5%) `X` nodes have two children.
 
-1 (5%) `X` nodes have three or more children.
+8 (20%) `X` nodes have three or more children.
 
 The highest child degree of a `X` node is 5.
 
-Children of `X` nodes are attached using 7 different relations: [grc-dep/advmod]() (2; 25% instances), [grc-dep/acl]() (1; 13% instances), [grc-dep/advcl]() (1; 13% instances), [grc-dep/amod]() (1; 13% instances), [grc-dep/case]() (1; 13% instances), [grc-dep/cop]() (1; 13% instances), [grc-dep/xcomp]() (1; 13% instances)
+Children of `X` nodes are attached using 14 different relations: [grc-dep/punct]() (10; 24% instances), [grc-dep/advmod]() (6; 15% instances), [grc-dep/nmod]() (5; 12% instances), [grc-dep/case]() (3; 7% instances), [grc-dep/cc]() (3; 7% instances), [grc-dep/nsubj]() (3; 7% instances), [grc-dep/advcl]() (2; 5% instances), [grc-dep/csubj]() (2; 5% instances), [grc-dep/obj]() (2; 5% instances), [grc-dep/appos]() (1; 2% instances), [grc-dep/cop]() (1; 2% instances), [grc-dep/nummod]() (1; 2% instances), [grc-dep/obl]() (1; 2% instances), [grc-dep/xcomp]() (1; 2% instances)
 
-Children of `X` nodes belong to 5 different parts of speech: [VERB]() (4; 50% instances), [ADJ]() (1; 13% instances), [ADP]() (1; 13% instances), [ADV]() (1; 13% instances), [NOUN]() (1; 13% instances)
+Children of `X` nodes belong to 11 different parts of speech: [PUNCT]() (10; 24% instances), [NOUN]() (8; 20% instances), [VERB]() (6; 15% instances), [ADV]() (4; 10% instances), [ADP]() (3; 7% instances), [PART]() (3; 7% instances), [PRON]() (3; 7% instances), [ADJ]() (1; 2% instances), [CCONJ]() (1; 2% instances), [INTJ]() (1; 2% instances), [NUM]() (1; 2% instances)
 
 
 
@@ -81,12 +97,12 @@ Children of `X` nodes belong to 5 different parts of speech: [VERB]() (4; 50% in
 
 ## Treebank Statistics (UD_Ancient_Greek-PROIEL)
 
-There are 13 `X` lemmas (0%), 14 `X` types (0%) and 19 `X` tokens (0%).
-Out of 13 observed tags, the rank of `X` is: 10 in number of lemmas, 13 in number of types and 13 in number of tokens.
+There are 12 `X` lemmas (0%), 13 `X` types (0%) and 18 `X` tokens (0%).
+Out of 14 observed tags, the rank of `X` is: 12 in number of lemmas, 14 in number of types and 14 in number of tokens.
 
-The 10 most frequent `X` lemmas: <em>ἑλωΐ, Σαβαώθ, λεμά, σαβαχθάνι, κορβᾶν, κούμ, μαρὰν, σάν, σπάκα, ταλιθά</em>
+The 10 most frequent `X` lemmas: <em>ἑλωΐ, Σαβαώθ, λεμά, σαβαχθάνι, κορβᾶν, κούμ, μαρὰν, σπάκα, ταλιθά, ἀθά</em>
 
-The 10 most frequent `X` types:  <em>λεμὰ, σαβαχθανεί, σαβαὼθ, ἑλωῒ, ἡλεὶ, κορβᾶν, κούμ, μαρὰν, σπάκα, σὰν</em>
+The 10 most frequent `X` types:  <em>λεμὰ, σαβαχθανεί, σαβαὼθ, ἑλωῒ, ἡλεὶ, κορβᾶν, κούμ, μαρὰν, σπάκα, ταλιθὰ</em>
 
 The 10 most frequent ambiguous lemmas: 
 
@@ -96,7 +112,7 @@ The 10 most frequent ambiguous types:
 
 ## Morphology
 
-The form / lemma ratio of `X` is 1.076923 (the average of all parts of speech is 3.412038).
+The form / lemma ratio of `X` is 1.083333 (the average of all parts of speech is 3.387371).
 
 The 1st highest number of forms (2) was observed with the lemma “ἑλωΐ”: <em>ἑλωῒ, ἡλεὶ</em>.
 
@@ -109,13 +125,13 @@ The 3rd highest number of forms (1) was observed with the lemma “κορβᾶν
 
 ## Relations
 
-`X` nodes are attached to their parents using 6 different relations: [grc-dep/vocative]() (8; 42% instances), [grc-dep/root]() (5; 26% instances), [grc-dep/amod]() (2; 11% instances), [grc-dep/xcomp]() (2; 11% instances), [grc-dep/dobj]() (1; 5% instances), [grc-dep/parataxis]() (1; 5% instances)
+`X` nodes are attached to their parents using 6 different relations: [grc-dep/vocative]() (8; 44% instances), [grc-dep/root]() (5; 28% instances), [grc-dep/amod]() (2; 11% instances), [grc-dep/obj:dir]() (1; 6% instances), [grc-dep/parataxis]() (1; 6% instances), [grc-dep/xcomp]() (1; 6% instances)
 
-Parents of `X` nodes belong to 4 different parts of speech: [X]() (8; 42% instances), [ROOT]() (5; 26% instances), [VERB]() (4; 21% instances), [NOUN]() (2; 11% instances)
+Parents of `X` nodes belong to 4 different parts of speech: [X]() (8; 44% instances), [ROOT]() (5; 28% instances), [VERB]() (3; 17% instances), [NOUN]() (2; 11% instances)
 
-12 (63%) `X` nodes are leaves.
+12 (67%) `X` nodes are leaves.
 
-3 (16%) `X` nodes have one child.
+2 (11%) `X` nodes have one child.
 
 2 (11%) `X` nodes have two children.
 
@@ -123,7 +139,7 @@ Parents of `X` nodes belong to 4 different parts of speech: [X]() (8; 42% instan
 
 The highest child degree of a `X` node is 3.
 
-Children of `X` nodes are attached using 4 different relations: [grc-dep/vocative]() (8; 62% instances), [grc-dep/advcl]() (3; 23% instances), [grc-dep/nsubj]() (1; 8% instances), [grc-dep/remnant]() (1; 8% instances)
+Children of `X` nodes are attached using 3 different relations: [grc-dep/vocative]() (8; 67% instances), [grc-dep/advcl]() (3; 25% instances), [grc-dep/nsubj]() (1; 8% instances)
 
-Children of `X` nodes belong to 3 different parts of speech: [X]() (8; 62% instances), [VERB]() (3; 23% instances), [NOUN]() (2; 15% instances)
+Children of `X` nodes belong to 3 different parts of speech: [X]() (8; 67% instances), [VERB]() (3; 25% instances), [NOUN]() (1; 8% instances)
 

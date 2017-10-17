@@ -2,13 +2,28 @@
 layout: feature
 title: 'PronType'
 shortdef: 'pronominal type'
+udver: '2'
 ---
+
+<table class="typeindex" border="1">
+<tr>
+  <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
+  <td><a href="#Dem">Dem</a></td>
+  <td><a href="#Emp">Emp</a></td>
+  <td><a href="#Ind">Ind</a></td>
+  <td><a href="#Int">Int</a></td>
+  <td><a href="#Neg">Neg</a></td>
+  <td><a href="#Prs">Prs</a></td>
+  <td><a href="#Rel">Rel</a></td>
+  <td><a href="#Tot">Tot</a></td>
+</tr>
+</table>
 
 This feature typically applies to [pronouns](cs-pos/PRON),
 [determiners](cs-pos/DET), pronominal [numerals](cs-pos/NUM)
 (quantifiers) and pronominal [adverbs](cs-pos/ADV).
 
-### `Prs`: personal or possessive personal pronoun or determiner
+### <a name="Prs">`Prs`</a>: personal or possessive personal pronoun or determiner
 
 See also the [Poss]() feature that distinguishes normal personal
 pronouns from possessives. Note that `Prs` also includes reflexive
@@ -20,7 +35,7 @@ personal/possessive pronouns (e.g. _se / svůj;_ see the
 * _já, ty, on, ona, ono, my, vy, oni, ony, ona, se&nbsp;_ “I, you, he, she, it, we, you, they, they, they, oneself”
 * _můj, tvůj, jeho, její, náš, váš, jejich, svůj&nbsp;_ “my, your, his/its, her, our, your, their, one's own”
 
-### `Int`: interrogative pronoun, determiner, numeral or adverb
+### <a name="Int">`Int`</a>: interrogative pronoun, determiner, numeral or adverb
 
 Note that possessive interrogative determiners (_whose_) can be
 distinguished by the [Poss]() feature.
@@ -41,7 +56,7 @@ distinguished by the [Poss]() feature.
 * _jak&nbsp;_ “how”
 * _proč&nbsp;_ “why”
 
-### `Rel`: relative pronoun, determiner, numeral or adverb
+### <a name="Rel">`Rel`</a>: relative pronoun, determiner, numeral or adverb
 
 Note that this class heavily overlaps with
 interrogatives, yet there are pronouns that are only relative.
@@ -51,7 +66,7 @@ interrogatives, yet there are pronouns that are only relative.
 * _jenž, což&nbsp;_ “which, that” (relative but not interrogative pronouns)
 * _jehož&nbsp;_ “whose” (possessive relative pronoun)
 
-### `Dem`: demonstrative pronoun, determiner, numeral or adverb
+### <a name="Dem">`Dem`</a>: demonstrative pronoun, determiner, numeral or adverb
 
 These are to some extent parallel to interrogatives.
 
@@ -70,7 +85,16 @@ These are to some extent parallel to interrogatives.
 * _tehdy&nbsp;_ “then”
 * _tak&nbsp;_ “so”
 
-### `Tot`: total (collective) pronoun, determiner or adverb
+### <a name="Emp">`Emp`</a>: emphatic determiner
+
+Emphatic pro-adjectives (determiners) emphasize the nominal they depend on.
+There are similarities with reflexive and demonstrative pronouns / determiners.
+
+#### Examples
+
+* _sám_ as in _<b>Sám</b> prezident se přišel podívat._ “President <b>himself</b> came to see it.”
+
+### <a name="Tot">`Tot`</a>: total (collective) pronoun, determiner or adverb
 
 #### Examples
 
@@ -79,7 +103,7 @@ These are to some extent parallel to interrogatives.
 * _všude&nbsp;_ “everywhere”
 * _vždy&nbsp;_ “always”
 
-### `Neg`: negative pronoun, determiner or adverb
+### <a name="Neg">`Neg`</a>: negative pronoun, determiner or adverb
 
 #### Examples
 
@@ -93,7 +117,7 @@ These are to some extent parallel to interrogatives.
 * _nikdy&nbsp;_ “never”
 * _nijak&nbsp;_ “no way” (lit. “no-how”)
 
-### `Ind`: indefinite pronoun, determiner, numeral or adverb
+### <a name="Ind">`Ind`</a>: indefinite pronoun, determiner, numeral or adverb
 
 #### Examples
 

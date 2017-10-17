@@ -6,83 +6,72 @@
 
 This relation is a language-specific subtype of [csubj]().
 
-313 nodes (0%) are attached to their parents as `csubj:cop`.
+39 nodes (0%) are attached to their parents as `csubj:cop`.
 
-288 instances of `csubj:cop` (92%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.28434504792332.
+36 instances of `csubj:cop` (92%) are left-to-right (parent precedes child).
+Average distance between parent and child is 3.02564102564103.
 
-The following 5 pairs of parts of speech are connected with `csubj:cop`: [et-pos/ADJ]()-[et-pos/VERB]() (274; 88% instances), [et-pos/NOUN]()-[et-pos/VERB]() (35; 11% instances), [et-pos/VERB]()-[et-pos/VERB]() (2; 1% instances), [et-pos/ADV]()-[et-pos/VERB]() (1; 0% instances), [et-pos/PRON]()-[et-pos/VERB]() (1; 0% instances).
+The following 4 pairs of parts of speech are connected with `csubj:cop`: [et-pos/ADJ]()-[et-pos/VERB]() (31; 79% instances), [et-pos/NOUN]()-[et-pos/VERB]() (6; 15% instances), [et-pos/ADJ]()-[et-pos/ADJ]() (1; 3% instances), [et-pos/ADJ]()-[et-pos/AUX]() (1; 3% instances).
 
 
 ~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
-# visual-style 5 6 csubj:cop	color:blue
-1	b	b	NOUN	Y	Abbr=Yes	5	list	_	_
-2	)	)	PUNCT	Z	_	5	punct	_	_
-3	Kaarsillal	Kaar_sild	PROPN	S	Case=Ade|Number=Sing	5	nmod	_	_
-4	on	olema	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	cop	_	_
-5	ohtlik	ohtlik	ADJ	A	Case=Nom|Degree=Pos|Number=Sing	0	root	_	_
-6	ronida	ronima	VERB	V	VerbForm=Inf	5	csubj:cop	_	_
-7	.	.	PUNCT	Z	_	5	punct	_	_
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 5 csubj:cop	color:blue
+1	Võimalik	võimalik	ADJ	A	_	0	root	_	SpaceAfter=No
+2	,	,	PUNCT	Z	_	5	punct	_	_
+3	et	et	SCONJ	J	_	5	mark	_	_
+4	see	see	PRON	P	Case=Nom|Number=Sing|PronType=Dem	5	nsubj	_	_
+5	tähendas	tähendama	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	csubj:cop	_	_
+6	tema	tema	PRON	P	Case=Gen|Number=Sing|Person=3|PronType=Prs	7	nmod:poss	_	_
+7	keeles	keel	NOUN	S	Case=Ine|Number=Sing	5	obl	_	_
+8	"	"	PUNCT	Z	_	9	punct	_	SpaceAfter=No
+9	tere	tere	INTJ	I	_	5	discourse	_	SpaceAfter=No
+10	"	"	PUNCT	Z	_	9	punct	_	SpaceAfter=No
+11	.	.	PUNCT	Z	_	1	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 8 csubj:cop	color:blue
-1	"	"	PUNCT	Z	_	3	punct	_	_
-2	Sinu	sina	PRON	P	Case=Gen|Number=Sing|Person=2|PronType=Prs	3	nmod:poss	_	_
-3	asi	asi	NOUN	S	Case=Nom|Number=Sing	0	root	_	_
-4	pole	olema	VERB	V	Mood=Ind|Negative=Neg|Tense=Pres|VerbForm=Fin|Voice=Act	3	cop	_	_
-5	minu	mina	PRON	P	Case=Gen|Number=Sing|Person=1|PronType=Prs	8	nmod	_	_
-6	üle	üle	ADP	K	AdpType=Post	5	case	_	_
-7	kohut	kohus	NOUN	S	Case=Par|Number=Sing	8	dobj	_	_
-8	mõista	mõistma	VERB	V	VerbForm=Inf	3	csubj:cop	_	_
-9	!	!	PUNCT	Z	_	3	punct	_	_
-10	"	"	PUNCT	Z	_	3	punct	_	_
-11	ütles	ütlema	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	3	parataxis	_	_
-12	ta	tema	PRON	P	Case=Nom|Number=Sing|Person=3|PronType=Prs	11	nsubj	_	_
-13	manitsevalt	manitsevalt	ADV	D	_	11	advmod	_	_
-14	.	.	PUNCT	Z	_	3	punct	_	_
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 11	bgColor:blue
+# visual-style 11	fgColor:white
+# visual-style 11 4 csubj:cop	color:blue
+1	"	"	PUNCT	Z	_	4	punct	_	SpaceAfter=No
+2	Suur	suur	ADJ	A	Case=Nom|Degree=Pos|Number=Sing	3	amod	_	_
+3	Vend	vend	NOUN	S	Case=Nom|Number=Sing	4	nsubj	_	_
+4	valvab	valva	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	11	csubj:cop	_	_
+5	sind	sina	PRON	P	Case=Par|Number=Sing|Person=2|PronType=Prs	4	obj	_	SpaceAfter=No
+6	"	"	PUNCT	Z	_	4	punct	_	SpaceAfter=No
+7	,	,	PUNCT	Z	_	4	punct	_	_
+8	oli	ole	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin|Voice=Act	11	cop	_	_
+9	pildi	pilt	NOUN	S	Case=Gen|Number=Sing	11	nmod	_	_
+10	all	all	ADP	K	AdpType=Post	9	case	_	_
+11	kiri	kiri	NOUN	S	Case=Nom|Number=Sing	0	root	_	SpaceAfter=No
+12	.	.	PUNCT	Z	_	11	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 17	bgColor:blue
-# visual-style 17	fgColor:white
-# visual-style 16	bgColor:blue
-# visual-style 16	fgColor:white
-# visual-style 16 17 csubj:cop	color:blue
-1	Kuni	kuni	SCONJ	J	_	3	mark	_	_
-2	Jan	Jan	PROPN	S	Case=Nom|Number=Sing	3	nsubj	_	_
-3	reageeris	reageerima	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	7	dep	_	_
-4	,	,	PUNCT	Z	_	3	punct	_	_
-5	olid	olema	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	7	aux	_	_
-6	bussiuksed	bussi_uks	NOUN	S	Case=Nom|Number=Plur	7	nsubj	_	_
-7	sulgunud	sulguma	VERB	V	Tense=Past|VerbForm=Part|Voice=Act	0	root	_	_
-8	ja	ja	CONJ	J	_	7	cc	_	_
-9	ainuke	ainuke	ADJ	A	Case=Nom|Degree=Pos|Number=Sing	7	conj	_	_
-10	,	,	PUNCT	Z	_	13	punct	_	_
-11	mida	mis	PRON	P	Case=Par|Number=Sing|PronType=Int,Rel	13	dobj	_	_
-12	ta	tema	PRON	P	Case=Nom|Number=Sing|Person=3|PronType=Prs	13	nsubj	_	_
-13	teha	tegema	VERB	V	VerbForm=Inf	9	dep	_	_
-14	võis	võima	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	13	aux	_	_
-15	,	,	PUNCT	Z	_	7	punct	_	_
-16	oli	olema	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	7	conj	_	_
-17	jälgida	jälgima	VERB	V	VerbForm=Inf	16	csubj:cop	_	_
-18	tagaaknale	taga_aken	NOUN	S	Case=All|Number=Sing	19	nmod	_	_
-19	ilmuvat	ilmuv	ADJ	A	Case=Par|Degree=Pos|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	21	acl	_	_
-20	tuttavat	tuttav	ADJ	A	Case=Par|Degree=Pos|Number=Sing	21	amod	_	_
-21	kuju	kuju	NOUN	S	Case=Par|Number=Sing	16	dobj	_	_
-22	.	.	PUNCT	Z	_	7	punct	_	_
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 7 csubj:cop	color:blue
+1	Imelik	imelik	ADJ	A	Case=Nom|Degree=Pos|Number=Sing	0	root	_	SpaceAfter=No
+2	,	,	PUNCT	Z	_	7	punct	_	_
+3	kuidas	kuidas	ADV	D	PronType=Rel	7	mark	_	_
+4	ahastus	ahastus	NOUN	S	Case=Nom|Number=Sing	7	nsubj:cop	_	_
+5	saab	saama	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	aux	_	_
+6	nii	nii	ADV	D	_	7	advmod	_	_
+7	rahulik	rahulik	ADJ	A	Case=Nom|Degree=Pos|Number=Sing	1	csubj:cop	_	_
+8	olla	olema	AUX	V	VerbForm=Inf	7	cop	_	SpaceAfter=No
+9	.	.	PUNCT	Z	_	1	punct	_	_
 
 ~~~
 

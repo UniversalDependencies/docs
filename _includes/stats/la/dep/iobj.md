@@ -6,69 +6,68 @@
 
 This relation is universal.
 
-387 nodes (1%) are attached to their parents as `iobj`.
+140 nodes (1%) are attached to their parents as `iobj`.
 
-233 instances of `iobj` (60%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.50387596899225.
+95 instances of `iobj` (68%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.99285714285714.
 
-The following 9 pairs of parts of speech are connected with `iobj`: [la-pos/VERB]()-[la-pos/NOUN]() (205; 53% instances), [la-pos/VERB]()-[la-pos/PRON]() (141; 36% instances), [la-pos/VERB]()-[la-pos/VERB]() (17; 4% instances), [la-pos/VERB]()-[la-pos/ADJ]() (14; 4% instances), [la-pos/NOUN]()-[la-pos/NOUN]() (4; 1% instances), [la-pos/SCONJ]()-[la-pos/NOUN]() (2; 1% instances), [la-pos/VERB]()-[la-pos/NUM]() (2; 1% instances), [la-pos/ADJ]()-[la-pos/NOUN]() (1; 0% instances), [la-pos/NOUN]()-[la-pos/ADJ]() (1; 0% instances).
+The following 3 pairs of parts of speech are connected with `iobj`: [la-pos/VERB]()-[la-pos/NOUN]() (72; 51% instances), [la-pos/VERB]()-[la-pos/PRON]() (61; 44% instances), [la-pos/VERB]()-[la-pos/ADJ]() (7; 5% instances).
 
 
 ~~~ conllu
-# visual-style 11	bgColor:blue
-# visual-style 11	fgColor:white
-# visual-style 13	bgColor:blue
-# visual-style 13	fgColor:white
-# visual-style 13 11 iobj	color:blue
-1	Ego	ego1	PRON	p-s---mn-	Case=Nom|Gender=Masc|Number=Sing	13	nsubj	_	_
-2	,	comma1	PUNCT	u--------	_	6	punct	_	_
-3	quod	quod1	SCONJ	c--------	_	6	mark	_	_
-4	me	ego1	PRON	p-s---ma-	Case=Acc|Gender=Masc|Number=Sing	6	dobj	_	_
-5	sic	sic1	ADV	d--------	_	6	advmod	_	_
-6	vides	video1	VERB	v2spia---	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	13	advcl	_	_
-7	,	comma1	PUNCT	u--------	_	6	punct	_	_
-8	propter	propter1	ADP	r--------	_	9	case	_	_
-9	artificium	artificium1	NOUN	n-s---na-	Case=Acc|Gender=Neut|Number=Sing	13	nmod	_	_
-10	meum	meus1	ADJ	a-s---na-	Case=Acc|Gender=Neut|Number=Sing	9	amod	_	_
-11	diis	divus1	NOUN	n-p---nb-	Case=Abl|Gender=Neut|Number=Plur	13	iobj	_	_
-12	gratias	gratia1	NOUN	n-p---fa-	Case=Acc|Gender=Fem|Number=Plur	13	dobj	_	_
-13	ago	ago1	VERB	v1spia---	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 6 iobj	color:blue
+1	nunc	nunc1	ADV	d--------	_	5	advmod	_	_
+2	furtiva	furtivus1	ADJ	a-p---na-	Case=Acc|Gender=Neut|Number=Plur	4	amod	_	_
+3	cavis	cavus1	ADJ	a-p---fd-	Case=Dat|Gender=Fem|Number=Plur	6	amod	_	_
+4	poma	pomum1	NOUN	n-p---na-	Case=Acc|Gender=Neut|Number=Plur	5	obj	_	_
+5	dabam	do1	VERB	v1siia---	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+6	manibus	manus1	NOUN	n-p---fd-	Case=Dat|Gender=Fem|Number=Plur	5	iobj	_	SpaceAfter=No
+7	:	punc1	PUNCT	u--------	_	5	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 3 iobj	color:blue
-1	quid	quis2	PRON	p-s---na-	Case=Acc|Gender=Neut|Number=Sing	4	dobj	_	_
-2	enim	enim1	CONJ	c--------	_	4	advmod	_	_
-3	mihi	ego1	PRON	p-s---md-	Case=Dat|Gender=Masc|Number=Sing	4	iobj	_	_
-4	aufert	aufero1	VERB	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-5	,	comma1	PUNCT	u--------	_	7	punct	_	_
-6	qui	qui1	PRON	p-s---mn-	Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	_
-7	ridet	rideo1	VERB	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	csubj	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
-# visual-style 7 2 iobj	color:blue
-1	Tum	tum	ADV	d--------	_	7	advmod	_	_
-2	circumeunti	circumeo	VERB	v-sppamd_	Case=Dat|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	7	iobj	_	_
-3	fuerat	sum1	VERB	v3slia---	Mood=Ind|Number=Sing|Person=3|Tense=Pqp|VerbForm=Fin|Voice=Act	6	cop	_	_
-4	quod	qui1	PRON	p-s---nn-	Case=Nom|Gender=Neut|Number=Sing	6	nsubj	_	_
-5	iter	iter	NOUN	n-s---na-	Case=Acc|Gender=Neut|Number=Sing	7	dobj	_	_
-6	longius	longus	ADJ	a-s---nnc	Case=Nom|Degree=Cmp|Gender=Neut|Number=Sing	5	amod	_	_
-7	Effecit	efficio	VERB	v3sria---	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
-8	brevius	brevis	ADJ	a-s---nac	Case=Acc|Degree=Cmp|Gender=Neut|Number=Sing	7	xcomp	_	_
-9	:	:	PUNCT	u--------	_	8	punct	_	_
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 9 7 iobj	color:blue
+1	quam	qui1	PRON	p-s---fa-	Case=Acc|Gender=Fem|Number=Sing	3	nmod	_	_
+2	ob	ob1	ADP	r--------	_	3	case	_	_
+3	rem	res1	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	4	obl	_	_
+4	discede	discedo1	VERB	v2spma---	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+5	atque	atque1	CCONJ	c--------	_	4	cc	_	_
+6	hunc	hic1	PRON	p-s---ma-	Case=Acc|Gender=Masc|Number=Sing	8	nmod	_	_
+7	mihi	ego	PRON	p-s---fd-	Case=Dat|Gender=Fem|Number=Sing	9	iobj	_	_
+8	timorem	timor1	NOUN	n-s---ma-	Case=Acc|Gender=Masc|Number=Sing	9	obj	_	_
+9	eripe	eripio1	VERB	v2spma---	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	4	conj	_	SpaceAfter=No
+10	;	punc1	PUNCT	u--------	_	4	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 10 7 iobj	color:blue
+1	Sed	sed1	CCONJ	c--------	_	10	cc	_	_
+2	in	in1	ADP	r--------	_	4	case	_	_
+3	magna	magnus1	ADJ	a-s---fb-	Case=Abl|Gender=Fem|Number=Sing	4	amod	_	_
+4	copia	copia1	NOUN	n-s---fb-	Case=Abl|Gender=Fem|Number=Sing	10	obl	_	_
+5	rerum	res1	NOUN	n-p---fg-	Case=Gen|Gender=Fem|Number=Plur	4	nmod	_	_
+6	aliud	alius2	ADJ	a-s---na-	Case=Acc|Gender=Neut|Number=Sing	9	amod	_	_
+7	alii	alius2	ADJ	a-s---md-	Case=Dat|Gender=Masc|Number=Sing	10	iobj	_	_
+8	natura	natura1	NOUN	n-s---fn-	Case=Nom|Gender=Fem|Number=Sing	10	nsubj	_	_
+9	iter	iter1	NOUN	n-s---na-	Case=Acc|Gender=Neut|Number=Sing	10	obj	_	_
+10	ostendit	ostendo1	VERB	v3sria---	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+11	.	punc1	PUNCT	u--------	_	10	punct	_	_
 
 ~~~
 
@@ -81,12 +80,12 @@ The following 9 pairs of parts of speech are connected with `iobj`: [la-pos/VERB
 
 This relation is universal.
 
-996 nodes (0%) are attached to their parents as `iobj`.
+963 nodes (0%) are attached to their parents as `iobj`.
 
-535 instances of `iobj` (54%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.43172690763052.
+522 instances of `iobj` (54%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.45067497403946.
 
-The following 5 pairs of parts of speech are connected with `iobj`: [la-pos/VERB]()-[la-pos/NOUN]() (558; 56% instances), [la-pos/VERB]()-[la-pos/PRON]() (324; 33% instances), [la-pos/VERB]()-[la-pos/ADJ]() (66; 7% instances), [la-pos/VERB]()-[la-pos/PROPN]() (40; 4% instances), [la-pos/VERB]()-[la-pos/NUM]() (8; 1% instances).
+The following 6 pairs of parts of speech are connected with `iobj`: [la-pos/VERB]()-[la-pos/NOUN]() (545; 57% instances), [la-pos/VERB]()-[la-pos/PRON]() (299; 31% instances), [la-pos/VERB]()-[la-pos/ADJ]() (66; 7% instances), [la-pos/VERB]()-[la-pos/PROPN]() (38; 4% instances), [la-pos/VERB]()-[la-pos/NUM]() (8; 1% instances), [la-pos/VERB]()-[la-pos/DET]() (7; 1% instances).
 
 
 ~~~ conllu
@@ -100,8 +99,8 @@ The following 5 pairs of parts of speech are connected with `iobj`: [la-pos/VERB
 3	veritati	veritas	NOUN	C1|grn1|casC|gen2|vgr1|stAC	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing	7	iobj	_	_
 4	sacra	sacer	ADJ	A1|grn1|casA|gen2|stAM	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	5	amod	_	_
 5	scriptura	scriptura	PROPN	A1|grn1|casA|gen2|stNP	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	7	nsubj	_	_
-6	testimonium	testimonium	NOUN	B1|grn1|casD|gen3|stAE	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	7	dobj	_	_
-7	perhibet	perhibeo	VERB	K3|modA|tem1|gen6|stAV	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+6	testimonium	testimonium	NOUN	B1|grn1|casD|gen3|stAE	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	7	obj	_	_
+7	perhibet	perhibeo	VERB	K3|modA|tem1|gen6|stAV	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
 8	.	.	PUNCT	Punc	_	7	punct	_	_
 
 ~~~
@@ -113,10 +112,10 @@ The following 5 pairs of parts of speech are connected with `iobj`: [la-pos/VERB
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 2 iobj	color:blue
-1	et	et	CONJ	O4|stRL	_	3	cc	_	_
+1	et	et	CCONJ	O4|stRL	_	3	cc	_	_
 2	hoc	hic	PRON	F1|grn1|casA|gen3|stPV	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|PronType=Dem	3	iobj	_	_
 3	dicimus	dico	VERB	N3|modA|tem1|gen7|stAE	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-4	deum	deus	PROPN	F1|grn1|casD|gen1|stNP	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	3	dobj	_	_
+4	deum	deus	PROPN	F1|grn1|casD|gen1|stNP	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	3	obj	_	SpaceAfter=No
 5	.	.	PUNCT	Punc	_	3	punct	_	_
 
 ~~~
@@ -134,8 +133,8 @@ The following 5 pairs of parts of speech are connected with `iobj`: [la-pos/VERB
 4	ad	ad	ADP	S4|stRL	AdpType=Prep	5	case	_	_
 5	singula	singulus	ADJ	B1|grn1|casM|gen3	Case=Acc|Degree=Pos|Gender=Neut|Number=Plur|NumType=Dist	8	iobj	_	_
 6	bonorum	bonum	NOUN	B1|grn1|casK|gen3|stAN	Case=Gen|Degree=Pos|Gender=Neut|Number=Plur	5	nmod	_	_
-7	se	sui	PRON	F1|grn1|casD|gen2|stPV	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|PronType=Prs|Reflex=Yes	8	dobj	_	_
-8	extendit	extendo	VERB	L3|modA|tem1|gen6|stAV	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+7	se	sui	PRON	F1|grn1|casD|gen2|stPV	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|PronType=Prs|Reflex=Yes	8	obj	_	_
+8	extendit	extendo	VERB	L3|modA|tem1|gen6|stAV	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
 9	.	.	PUNCT	Punc	_	8	punct	_	_
 
 ~~~
@@ -149,64 +148,57 @@ The following 5 pairs of parts of speech are connected with `iobj`: [la-pos/VERB
 
 This relation is universal.
 
-10079 nodes (6%) are attached to their parents as `iobj`.
+4896 nodes (3%) are attached to their parents as `iobj`.
 
-5890 instances of `iobj` (58%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.18404603631313.
+3027 instances of `iobj` (62%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.79411764705882.
 
-The following 45 pairs of parts of speech are connected with `iobj`: [la-pos/VERB]()-[la-pos/NOUN]() (3943; 39% instances), [la-pos/VERB]()-[la-pos/PRON]() (3294; 33% instances), [la-pos/VERB]()-[la-pos/PROPN]() (1019; 10% instances), [la-pos/VERB]()-[la-pos/ADJ]() (958; 10% instances), [la-pos/ADJ]()-[la-pos/NOUN]() (272; 3% instances), [la-pos/ADJ]()-[la-pos/PRON]() (106; 1% instances), [la-pos/ADV]()-[la-pos/NOUN]() (79; 1% instances), [la-pos/NOUN]()-[la-pos/PRON]() (46; 0% instances), [la-pos/ADJ]()-[la-pos/ADJ]() (43; 0% instances), [la-pos/ADV]()-[la-pos/PRON]() (33; 0% instances), [la-pos/ADJ]()-[la-pos/PROPN]() (29; 0% instances), [la-pos/ADV]()-[la-pos/PROPN]() (27; 0% instances), [la-pos/X]()-[la-pos/X]() (25; 0% instances), [la-pos/VERB]()-[la-pos/NUM]() (24; 0% instances), [la-pos/INTJ]()-[la-pos/PRON]() (21; 0% instances), [la-pos/ADV]()-[la-pos/ADJ]() (17; 0% instances), [la-pos/NOUN]()-[la-pos/NOUN]() (17; 0% instances), [la-pos/ADV]()-[la-pos/NUM]() (15; 0% instances), [la-pos/PRON]()-[la-pos/PRON]() (12; 0% instances), [la-pos/PROPN]()-[la-pos/PRON]() (11; 0% instances), [la-pos/CONJ]()-[la-pos/NOUN]() (8; 0% instances), [la-pos/INTJ]()-[la-pos/NOUN]() (8; 0% instances), [la-pos/NOUN]()-[la-pos/ADJ]() (7; 0% instances), [la-pos/VERB]()-[la-pos/X]() (7; 0% instances), [la-pos/SCONJ]()-[la-pos/NOUN]() (6; 0% instances), [la-pos/SCONJ]()-[la-pos/PRON]() (6; 0% instances), [la-pos/NOUN]()-[la-pos/PROPN]() (5; 0% instances), [la-pos/X]()-[la-pos/NOUN]() (5; 0% instances), [la-pos/INTJ]()-[la-pos/ADJ]() (4; 0% instances), [la-pos/PRON]()-[la-pos/NOUN]() (4; 0% instances), [la-pos/PROPN]()-[la-pos/NOUN]() (4; 0% instances), [la-pos/PRON]()-[la-pos/PROPN]() (3; 0% instances), [la-pos/X]()-[la-pos/PRON]() (3; 0% instances), [la-pos/ADJ]()-[la-pos/X]() (2; 0% instances), [la-pos/CONJ]()-[la-pos/ADJ]() (2; 0% instances), [la-pos/CONJ]()-[la-pos/PRON]() (2; 0% instances), [la-pos/PROPN]()-[la-pos/ADJ]() (2; 0% instances), [la-pos/PROPN]()-[la-pos/PROPN]() (2; 0% instances), [la-pos/SCONJ]()-[la-pos/ADJ]() (2; 0% instances), [la-pos/ADV]()-[la-pos/X]() (1; 0% instances), [la-pos/CONJ]()-[la-pos/PROPN]() (1; 0% instances), [la-pos/CONJ]()-[la-pos/X]() (1; 0% instances), [la-pos/NUM]()-[la-pos/PROPN]() (1; 0% instances), [la-pos/SCONJ]()-[la-pos/PROPN]() (1; 0% instances), [la-pos/X]()-[la-pos/ADJ]() (1; 0% instances).
-
-
-~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 8 7 iobj	color:blue
-1	nam	nam	ADV	Df	_	8	discourse	_	_
-2	omnis	omnis	PRON	Px	Case=Nom|Gender=Fem|Number=Sing	3	nmod	_	_
-3	civitas	civitas	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	8	nsubjpass	_	_
-4	Helvetia	Helvetia	PROPN	Ne	Case=Nom|Gender=Fem|Number=Sing	3	appos	_	_
-5	in	in	ADP	R-	_	7	case	_	_
-6	quattuor	quattuor	NUM	Ma	_	7	nummod	_	_
-7	pagos	pagus	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	8	iobj	_	_
-8	divisa	divido	VERB	V-	Aspect=Perf|Case=Nom|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	_
-9	est	sum	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	cop	_	_
-
-~~~
+The following 48 pairs of parts of speech are connected with `iobj`: [la-pos/VERB]()-[la-pos/PRON]() (1905; 39% instances), [la-pos/VERB]()-[la-pos/NOUN]() (1120; 23% instances), [la-pos/VERB]()-[la-pos/ADJ]() (682; 14% instances), [la-pos/VERB]()-[la-pos/PROPN]() (395; 8% instances), [la-pos/ADJ]()-[la-pos/NOUN]() (222; 5% instances), [la-pos/ADJ]()-[la-pos/PRON]() (93; 2% instances), [la-pos/ADV]()-[la-pos/NOUN]() (57; 1% instances), [la-pos/ADJ]()-[la-pos/ADJ]() (48; 1% instances), [la-pos/NOUN]()-[la-pos/PRON]() (46; 1% instances), [la-pos/AUX]()-[la-pos/PRON]() (40; 1% instances), [la-pos/NOUN]()-[la-pos/NOUN]() (24; 0% instances), [la-pos/ADJ]()-[la-pos/PROPN]() (23; 0% instances), [la-pos/X]()-[la-pos/X]() (22; 0% instances), [la-pos/ADV]()-[la-pos/PRON]() (21; 0% instances), [la-pos/INTJ]()-[la-pos/PRON]() (19; 0% instances), [la-pos/ADV]()-[la-pos/PROPN]() (18; 0% instances), [la-pos/ADV]()-[la-pos/ADJ]() (15; 0% instances), [la-pos/ADV]()-[la-pos/NUM]() (14; 0% instances), [la-pos/PROPN]()-[la-pos/PRON]() (12; 0% instances), [la-pos/CCONJ]()-[la-pos/NOUN]() (11; 0% instances), [la-pos/NOUN]()-[la-pos/ADJ]() (11; 0% instances), [la-pos/VERB]()-[la-pos/NUM]() (11; 0% instances), [la-pos/AUX]()-[la-pos/NOUN]() (10; 0% instances), [la-pos/AUX]()-[la-pos/ADJ]() (9; 0% instances), [la-pos/INTJ]()-[la-pos/NOUN]() (8; 0% instances), [la-pos/VERB]()-[la-pos/VERB]() (8; 0% instances), [la-pos/PRON]()-[la-pos/PRON]() (6; 0% instances), [la-pos/AUX]()-[la-pos/PROPN]() (4; 0% instances), [la-pos/INTJ]()-[la-pos/ADJ]() (4; 0% instances), [la-pos/PROPN]()-[la-pos/ADJ]() (4; 0% instances), [la-pos/PROPN]()-[la-pos/NOUN]() (4; 0% instances), [la-pos/CCONJ]()-[la-pos/ADJ]() (3; 0% instances), [la-pos/VERB]()-[la-pos/X]() (3; 0% instances), [la-pos/X]()-[la-pos/NOUN]() (3; 0% instances), [la-pos/ADJ]()-[la-pos/VERB]() (2; 0% instances), [la-pos/ADV]()-[la-pos/X]() (2; 0% instances), [la-pos/NOUN]()-[la-pos/PROPN]() (2; 0% instances), [la-pos/PRON]()-[la-pos/PROPN]() (2; 0% instances), [la-pos/PROPN]()-[la-pos/PROPN]() (2; 0% instances), [la-pos/SCONJ]()-[la-pos/PRON]() (2; 0% instances), [la-pos/X]()-[la-pos/PRON]() (2; 0% instances), [la-pos/CCONJ]()-[la-pos/PRON]() (1; 0% instances), [la-pos/CCONJ]()-[la-pos/PROPN]() (1; 0% instances), [la-pos/CCONJ]()-[la-pos/X]() (1; 0% instances), [la-pos/PRON]()-[la-pos/ADJ]() (1; 0% instances), [la-pos/SCONJ]()-[la-pos/ADJ]() (1; 0% instances), [la-pos/SCONJ]()-[la-pos/NOUN]() (1; 0% instances), [la-pos/X]()-[la-pos/ADJ]() (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
-# visual-style 4 3 iobj	color:blue
-1	Dumnorigem	Dumnorix	PROPN	Ne	Case=Acc|Gender=Masc|Number=Sing	4	dobj	_	_
-2	ad	ad	ADP	R-	_	3	case	_	_
-3	se	se	PRON	Pk	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	4	iobj	_	_
-4	vocat	voco	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 4 iobj	color:blue
+1	amen	amen	INTJ	I-	_	3	vocative	_	ref=MATT_5.18
+2	quippe	quippe	ADV	Df	_	3	advmod	_	ref=MATT_5.18
+3	dico	dico	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=MATT_5.18
+4	vobis	vos	PRON	Pp	Case=Dat|Gender=Masc|Number=Plur|Person=2|PronType=Prs	3	iobj	_	ref=MATT_5.18
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 10 9 iobj	color:blue
-1	Ea	is	ADJ	Pd	Case=Acc|Gender=Neut|Number=Plur	10	nsubjpass	_	_
-2	quae	qui	PRON	Pr	Case=Nom|Gender=Neut|Number=Plur|PronType=Rel	4	nsubj	_	_
-3	sunt	sum	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	cop	_	_
-4	usui	usus	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	1	nmod	_	_
-5	ad	ad	ADP	R-	_	6	case	_	_
-6	armandas	armo	VERB	V-	Case=Acc|Gender=Fem|Number=Plur|VerbForm=Gdv	4	acl	_	_
-7	naves	navis	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur	6	nsubj	_	_
-8	ex	ex	ADP	R-	_	9	case	_	_
-9	Hispania	Hispania	PROPN	Ne	Case=Abl|Gender=Fem|Number=Sing	10	iobj	_	_
-10	apportari	apporto	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Pass	11	ccomp	_	_
-11	iubet	iubeo	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 4 iobj	color:blue
+1	omnis	omnis	ADJ	Px	Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	ref=MATT_5.22
+2	qui	qui	PRON	Pr	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	3	nsubj	_	ref=MATT_5.22
+3	irascitur	irascor	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	1	acl	_	ref=MATT_5.22
+4	fratri	frater	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	3	iobj	_	ref=MATT_5.22
+5	suo	suus	ADJ	Pt	Case=Dat|Gender=Masc|Number=Sing|Person=3|Poss=Yes|Reflex=Yes	4	nmod	_	ref=MATT_5.22
+6	reus	reus	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	0	root	_	ref=MATT_5.22
+7	erit	sum	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	6	cop	_	ref=MATT_5.22
+8	iudicio	iudicium	NOUN	Nb	Case=Dat|Gender=Neut|Number=Sing	6	nmod	_	ref=MATT_5.22
+
+~~~
+
+
+~~~ conllu
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 5 iobj	color:blue
+1	audistis	audio	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=MATT_5.21
+2	quia	quia	SCONJ	G-	_	3	mark	_	ref=MATT_5.21
+3	dictum	dico	VERB	V-	Aspect=Perf|Case=Nom|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	1	ccomp	_	ref=MATT_5.21
+4	est	sum	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	aux:pass	_	ref=MATT_5.21
+5	antiquis	antiquus	ADJ	A-	Case=Dat|Degree=Pos|Gender=Masc|Number=Plur	3	iobj	_	ref=MATT_5.21
 
 ~~~
 

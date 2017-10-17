@@ -2,6 +2,7 @@
 layout: relation
 title: 'det'
 shortdef: 'determiner'
+udver: '2'
 ---
 
 A determiner is the relation between the head of a nominal phrase and its determiner. 

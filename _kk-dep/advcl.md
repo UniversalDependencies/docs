@@ -19,9 +19,3 @@ subj(қарады-6, Айгүл-1)
 obj(қарады-6, айналасына-5)
 ~~~
 
-Comparison:
-
-We also use `advcl` for the comparator in comparison constructions like "X is bigger 
-than Y", in Turkic, the "than Y" is in the ablative case and this depends on the adjective X. 
-
-

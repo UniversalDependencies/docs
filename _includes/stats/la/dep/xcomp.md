@@ -6,12 +6,32 @@
 
 This relation is universal.
 
-862 nodes (2%) are attached to their parents as `xcomp`.
+464 nodes (3%) are attached to their parents as `xcomp`.
 
-437 instances of `xcomp` (51%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.38747099767981.
+251 instances of `xcomp` (54%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.61422413793103.
 
-The following 27 pairs of parts of speech are connected with `xcomp`: [la-pos/VERB]()-[la-pos/VERB]() (546; 63% instances), [la-pos/VERB]()-[la-pos/ADJ]() (135; 16% instances), [la-pos/VERB]()-[la-pos/NOUN]() (70; 8% instances), [la-pos/ADJ]()-[la-pos/ADJ]() (22; 3% instances), [la-pos/NOUN]()-[la-pos/NOUN]() (17; 2% instances), [la-pos/NOUN]()-[la-pos/ADJ]() (15; 2% instances), [la-pos/ADJ]()-[la-pos/NOUN]() (9; 1% instances), [la-pos/ADV]()-[la-pos/NOUN]() (5; 1% instances), [la-pos/PRON]()-[la-pos/ADJ]() (5; 1% instances), [la-pos/PRON]()-[la-pos/NOUN]() (5; 1% instances), [la-pos/ADJ]()-[la-pos/VERB]() (4; 0% instances), [la-pos/SCONJ]()-[la-pos/ADJ]() (4; 0% instances), [la-pos/NOUN]()-[la-pos/VERB]() (3; 0% instances), [la-pos/PUNCT]()-[la-pos/ADJ]() (3; 0% instances), [la-pos/CONJ]()-[la-pos/NOUN]() (2; 0% instances), [la-pos/PRON]()-[la-pos/PRON]() (2; 0% instances), [la-pos/PUNCT]()-[la-pos/NOUN]() (2; 0% instances), [la-pos/SCONJ]()-[la-pos/NOUN]() (2; 0% instances), [la-pos/VERB]()-[la-pos/NUM]() (2; 0% instances), [la-pos/VERB]()-[la-pos/PRON]() (2; 0% instances), [la-pos/CONJ]()-[la-pos/ADJ]() (1; 0% instances), [la-pos/NOUN]()-[la-pos/PRON]() (1; 0% instances), [la-pos/PRON]()-[la-pos/ADV]() (1; 0% instances), [la-pos/PRON]()-[la-pos/VERB]() (1; 0% instances), [la-pos/VERB]()-[la-pos/ADV]() (1; 0% instances), [la-pos/VERB]()-[la-pos/INTJ]() (1; 0% instances), [la-pos/VERB]()-[la-pos/X]() (1; 0% instances).
+The following 16 pairs of parts of speech are connected with `xcomp`: [la-pos/VERB]()-[la-pos/VERB]() (287; 62% instances), [la-pos/VERB]()-[la-pos/ADJ]() (68; 15% instances), [la-pos/VERB]()-[la-pos/NOUN]() (26; 6% instances), [la-pos/NOUN]()-[la-pos/NOUN]() (17; 4% instances), [la-pos/NOUN]()-[la-pos/ADJ]() (15; 3% instances), [la-pos/PRON]()-[la-pos/ADJ]() (13; 3% instances), [la-pos/PRON]()-[la-pos/NOUN]() (13; 3% instances), [la-pos/PRON]()-[la-pos/VERB]() (7; 2% instances), [la-pos/NOUN]()-[la-pos/VERB]() (5; 1% instances), [la-pos/ADJ]()-[la-pos/VERB]() (4; 1% instances), [la-pos/ADJ]()-[la-pos/NOUN]() (2; 0% instances), [la-pos/CCONJ]()-[la-pos/VERB]() (2; 0% instances), [la-pos/NOUN]()-[la-pos/NUM]() (2; 0% instances), [la-pos/PRON]()-[la-pos/NUM]() (1; 0% instances), [la-pos/VERB]()-[la-pos/ADV]() (1; 0% instances), [la-pos/VERB]()-[la-pos/PRON]() (1; 0% instances).
+
+
+~~~ conllu
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 9 8 xcomp	color:blue
+1	qui	qui1	PRON	p-p---mn-	Case=Nom|Gender=Masc|Number=Plur	9	nsubj	_	_
+2	minus	parvus	ADV	d-------c	Degree=Cmp	3	advmod	_	_
+3	facile	facilis1	ADV	d--------	_	8	advmod	_	_
+4	eam	is1	PRON	p-s---fa-	Case=Acc|Gender=Fem|Number=Sing	5	nmod	_	_
+5	rem	res1	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	8	obj	_	_
+6	imperio	imperium1	NOUN	n-s---nb-	Case=Abl|Gender=Neut|Number=Sing	8	advmod	_	_
+7	nostro	noster	PRON	p-s---nb-	Case=Abl|Gender=Neut|Number=Sing	6	nmod	_	_
+8	consequi	consequor	VERB	v--pnd---	Tense=Pres|VerbForm=Inf|Voice=Act	9	xcomp	_	_
+9	poterant	possum1	VERB	v3piia---	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+10	.	punc1	PUNCT	u--------	_	9	punct	_	_
+
+~~~
 
 
 ~~~ conllu
@@ -20,55 +40,32 @@ The following 27 pairs of parts of speech are connected with `xcomp`: [la-pos/VE
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 7 xcomp	color:blue
-1	Ergo	ergo1	ADV	d--------	_	3	advmod	_	_
-2	aut	aut1	CONJ	c--------	_	3	advmod	_	_
-3	tace	taceo1	VERB	v2spma---	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-4	aut	aut1	CONJ	c--------	_	3	cc	_	_
-5	meliorem	bonus1	ADJ	a-s---mac	Case=Acc|Degree=Cmp|Gender=Masc|Number=Sing	7	dobj	_	_
-6	noli	nolo1	VERB	v2spma---	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	3	conj	_	_
-7	molestare	molesto1	VERB	v---na---	VerbForm=Inf|Voice=Act	6	xcomp	_	_
-8	,	comma1	PUNCT	u--------	_	13	punct	_	_
-9	qui	qui1	PRON	p-s---mn-	Case=Nom|Gender=Masc|Number=Sing	13	nsubj	_	_
-10	te	tu1	PRON	p-s---ma-	Case=Acc|Gender=Masc|Number=Sing	11	nsubjpass	_	_
-11	natum	natus1	VERB	v-srppma-	Aspect=Perf|Case=Acc|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	13	dobj	_	_
-12	non	non1	ADV	d--------	_	13	advmod	_	_
-13	putat	puto1	VERB	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	acl	_	_
+1	me	ego1	PRON	p-s---ma-	Case=Acc|Gender=Masc|Number=Sing	6	obj	_	_
+2	dolor	dolor1	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	_
+3	et	et1	CCONJ	c--------	_	2	cc	_	_
+4	lacrimae	lacrima1	NOUN	n-p---fn-	Case=Nom|Gender=Fem|Number=Plur	2	conj	_	_
+5	merito	mereo	ADV	d--------	_	6	advmod	_	_
+6	fecere	facio1	VERB	v3pria---	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+7	peritum	peritus1	ADJ	a-s---ma-	Case=Acc|Gender=Masc|Number=Sing	6	xcomp	_	SpaceAfter=No
+8	:	punc1	PUNCT	u--------	_	6	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 3 xcomp	color:blue
-1	illa	ille1	PRON	p-p---nn-	Case=Nom|Gender=Neut|Number=Plur	4	nsubjpass	_	_
-2	autem	autem1	CONJ	c--------	_	4	advmod	_	_
-3	lapidea	lapideus1	ADJ	a-p---nn-	Case=Nom|Gender=Neut|Number=Plur	4	xcomp	_	_
-4	facta	facio1	VERB	v-prppnn-	Aspect=Perf|Case=Nom|Gender=Neut|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	_
-5	sunt	sum1	VERB	v3ppia---	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	auxpass	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 10 9 xcomp	color:blue
-1	At	at1	CONJ	c--------	_	3	cc	_	_
-2	ille	ille1	PRON	p-s---mn-	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	_
-3	circumminxit	circummingo1	VERB	v3sria---	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
-4	vestimenta	vestimentum1	NOUN	n-p---na-	Case=Acc|Gender=Neut|Number=Plur	3	dobj	_	_
-5	sua	suus1	ADJ	a-p---na-	Case=Acc|Gender=Neut|Number=Plur	4	amod	_	_
-6	,	comma1	PUNCT	u--------	_	3	punct	_	_
-7	et	et1	CONJ	c--------	_	3	cc	_	_
-8	subito	subito1	ADV	d--------	_	10	advmod	_	_
-9	lupus	lupus1	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	10	xcomp	_	_
-10	factus	facio1	VERB	v-srppmn-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	3	conj	_	_
-11	est	sum1	VERB	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	auxpass	_	_
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 6 xcomp	color:blue
+1	Cynthia	Cynthia1	NOUN	n-s---fn-	Case=Nom|Gender=Fem|Number=Sing	2	nsubj	_	_
+2	prima	primus	NUM	m-s---fn-	Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
+3	fuit	sum1	VERB	v3sria---	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	2	cop	_	SpaceAfter=No
+4	,	comma1	PUNCT	u--------	_	2	punct	_	_
+5	Cynthia	Cynthia1	NOUN	n-s---fn-	Case=Nom|Gender=Fem|Number=Sing	7	nsubj	_	_
+6	finis	finis1	NOUN	n-s---fn-	Case=Nom|Gender=Fem|Number=Sing	7	xcomp	_	_
+7	erit	sum1	VERB	v3sfia---	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	2	cop	_	SpaceAfter=No
+8	.	punc1	PUNCT	u--------	_	2	punct	_	_
 
 ~~~
 
@@ -81,12 +78,12 @@ The following 27 pairs of parts of speech are connected with `xcomp`: [la-pos/VE
 
 This relation is universal.
 
-3675 nodes (1%) are attached to their parents as `xcomp`.
+3511 nodes (1%) are attached to their parents as `xcomp`.
 
-2671 instances of `xcomp` (73%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.54884353741497.
+2551 instances of `xcomp` (73%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.55539732270009.
 
-The following 27 pairs of parts of speech are connected with `xcomp`: [la-pos/VERB]()-[la-pos/VERB]() (2670; 73% instances), [la-pos/VERB]()-[la-pos/NOUN]() (367; 10% instances), [la-pos/VERB]()-[la-pos/ADJ]() (206; 6% instances), [la-pos/NOUN]()-[la-pos/NOUN]() (121; 3% instances), [la-pos/ADJ]()-[la-pos/VERB]() (50; 1% instances), [la-pos/PRON]()-[la-pos/NOUN]() (48; 1% instances), [la-pos/VERB]()-[la-pos/PRON]() (47; 1% instances), [la-pos/NOUN]()-[la-pos/VERB]() (37; 1% instances), [la-pos/PRON]()-[la-pos/ADJ]() (24; 1% instances), [la-pos/NOUN]()-[la-pos/ADJ]() (23; 1% instances), [la-pos/PRON]()-[la-pos/VERB]() (14; 0% instances), [la-pos/NOUN]()-[la-pos/PRON]() (12; 0% instances), [la-pos/PROPN]()-[la-pos/ADJ]() (12; 0% instances), [la-pos/VERB]()-[la-pos/NUM]() (8; 0% instances), [la-pos/PROPN]()-[la-pos/NOUN]() (7; 0% instances), [la-pos/ADJ]()-[la-pos/ADJ]() (6; 0% instances), [la-pos/PRON]()-[la-pos/PRON]() (5; 0% instances), [la-pos/ADJ]()-[la-pos/NOUN]() (4; 0% instances), [la-pos/PROPN]()-[la-pos/VERB]() (3; 0% instances), [la-pos/VERB]()-[la-pos/PROPN]() (3; 0% instances), [la-pos/ADJ]()-[la-pos/PRON]() (2; 0% instances), [la-pos/ADJ]()-[la-pos/NUM]() (1; 0% instances), [la-pos/ADV]()-[la-pos/VERB]() (1; 0% instances), [la-pos/CONJ]()-[la-pos/VERB]() (1; 0% instances), [la-pos/NUM]()-[la-pos/NOUN]() (1; 0% instances), [la-pos/PROPN]()-[la-pos/PRON]() (1; 0% instances), [la-pos/VERB]()-[la-pos/SCONJ]() (1; 0% instances).
+The following 31 pairs of parts of speech are connected with `xcomp`: [la-pos/VERB]()-[la-pos/VERB]() (2552; 73% instances), [la-pos/VERB]()-[la-pos/NOUN]() (346; 10% instances), [la-pos/VERB]()-[la-pos/ADJ]() (198; 6% instances), [la-pos/NOUN]()-[la-pos/NOUN]() (119; 3% instances), [la-pos/PRON]()-[la-pos/NOUN]() (48; 1% instances), [la-pos/ADJ]()-[la-pos/VERB]() (44; 1% instances), [la-pos/VERB]()-[la-pos/PRON]() (39; 1% instances), [la-pos/NOUN]()-[la-pos/VERB]() (37; 1% instances), [la-pos/NOUN]()-[la-pos/ADJ]() (23; 1% instances), [la-pos/PRON]()-[la-pos/ADJ]() (23; 1% instances), [la-pos/PRON]()-[la-pos/VERB]() (14; 0% instances), [la-pos/PROPN]()-[la-pos/ADJ]() (11; 0% instances), [la-pos/NOUN]()-[la-pos/PRON]() (10; 0% instances), [la-pos/PROPN]()-[la-pos/NOUN]() (7; 0% instances), [la-pos/VERB]()-[la-pos/NUM]() (7; 0% instances), [la-pos/ADJ]()-[la-pos/ADJ]() (6; 0% instances), [la-pos/ADJ]()-[la-pos/NOUN]() (4; 0% instances), [la-pos/VERB]()-[la-pos/DET]() (4; 0% instances), [la-pos/PRON]()-[la-pos/PRON]() (3; 0% instances), [la-pos/PROPN]()-[la-pos/VERB]() (3; 0% instances), [la-pos/ADJ]()-[la-pos/PRON]() (2; 0% instances), [la-pos/NOUN]()-[la-pos/DET]() (2; 0% instances), [la-pos/ADJ]()-[la-pos/NUM]() (1; 0% instances), [la-pos/ADV]()-[la-pos/VERB]() (1; 0% instances), [la-pos/CCONJ]()-[la-pos/VERB]() (1; 0% instances), [la-pos/DET]()-[la-pos/PRON]() (1; 0% instances), [la-pos/NUM]()-[la-pos/NOUN]() (1; 0% instances), [la-pos/PRON]()-[la-pos/DET]() (1; 0% instances), [la-pos/PROPN]()-[la-pos/PRON]() (1; 0% instances), [la-pos/VERB]()-[la-pos/PROPN]() (1; 0% instances), [la-pos/VERB]()-[la-pos/SCONJ]() (1; 0% instances).
 
 
 ~~~ conllu
@@ -95,12 +92,12 @@ The following 27 pairs of parts of speech are connected with `xcomp`: [la-pos/VE
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 5 xcomp	color:blue
-1	non	non	ADV	O4|stRL	_	6	neg	_	_
+1	non	non	ADV	O4|stRL	_	6	advmod	_	_
 2	igitur	igitur	ADV	O4|stRL	_	6	advmod	_	_
 3	a	a	ADP	S4|vgr1|stRL	AdpType=Prep	4	case	_	_
-4	deo	deus	PROPN	F1|grn1|casF|gen1|stNP	Case=Abl|Degree=Pos|Gender=Masc|Number=Sing	5	dobj	_	_
+4	deo	deus	PROPN	F1|grn1|casF|gen1|stNP	Case=Abl|Degree=Pos|Gender=Masc|Number=Sing	5	obj	_	_
 5	esse	sum	VERB	N3|modH|tem1|stAV	Tense=Pres|VerbForm=Inf|Voice=Act	6	xcomp	_	_
-6	potest	possum	VERB	N3|modA|tem1|gen6|stAV	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|VerbType=Mod|Voice=Act	0	root	_	_
+6	potest	possum	VERB	N3|modA|tem1|gen6|stAV	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|VerbType=Mod|Voice=Act	0	root	_	SpaceAfter=No
 7	.	.	PUNCT	Punc	_	6	punct	_	_
 
 ~~~
@@ -119,7 +116,7 @@ The following 27 pairs of parts of speech are connected with `xcomp`: [la-pos/VE
 5	istum	iste	PRON	F1|grn1|casD|gen1|stPD	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing|PronType=Dem	4	nmod	_	_
 6	dixerint	dico	VERB	N3|modB|tem4|gen9|stAE	Aspect=Perf|Mood=Sub|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 7	deum	deus	PROPN	F1|grn1|casD|gen1|stNP	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	4	nsubj	_	_
-8	esse	sum	VERB	N3|modH|tem1|stAV	Tense=Pres|VerbForm=Inf|Voice=Act	4	cop	_	_
+8	esse	sum	AUX	N3|modH|tem1|stAV	Tense=Pres|VerbForm=Inf|Voice=Act	4	cop	_	SpaceAfter=No
 9	.	.	PUNCT	Punc	_	6	punct	_	_
 
 ~~~
@@ -134,12 +131,12 @@ The following 27 pairs of parts of speech are connected with `xcomp`: [la-pos/VE
 1	in	in	ADP	S4|stRL	AdpType=Prep	2	case	_	_
 2	tantum	tantum	ADV	O4|stRL	_	8	advmod:emph	_	_
 3	ut	ut	SCONJ	O4|vgr1|stRL	_	8	mark	_	_
-4	nec	nec	CONJ	O4|stRL	_	8	advmod:emph	_	_
-5	esse	sum	VERB	N3|modH|tem1|stAV	Tense=Pres|VerbForm=Inf|Voice=Act	6	cop	_	_
+4	nec	nec	CCONJ	O4|stRL	_	8	advmod:emph	_	_
+5	esse	sum	AUX	N3|modH|tem1|stAV	Tense=Pres|VerbForm=Inf|Voice=Act	6	cop	_	_
 6	falsa	falsus	ADJ	A1|grn1|casM|gen3|stAC	Case=Acc|Degree=Pos|Gender=Neut|Number=Plur	9	xcomp	_	_
-7	sit	sum	VERB	N3|modB|tem1|gen6|stAV	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	cop	_	_
+7	sit	sum	AUX	N3|modB|tem1|gen6|stAV	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	cop	_	_
 8	possibile	possibilis	ADJ	C1|grn1|casA|gen3|stAN	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	0	root	_	_
-9	cogitare	cogito	VERB	J3|modH|tem1|stAC	Tense=Pres|VerbForm=Inf|Voice=Act	8	csubj	_	_
+9	cogitare	cogito	VERB	J3|modH|tem1|stAC	Tense=Pres|VerbForm=Inf|Voice=Act	8	csubj	_	SpaceAfter=No
 10	.	.	PUNCT	Punc	_	8	punct	_	_
 
 ~~~
@@ -153,12 +150,30 @@ The following 27 pairs of parts of speech are connected with `xcomp`: [la-pos/VE
 
 This relation is universal.
 
-2609 nodes (2%) are attached to their parents as `xcomp`.
+2473 nodes (2%) are attached to their parents as `xcomp`.
 
-1414 instances of `xcomp` (54%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.15484860099655.
+1358 instances of `xcomp` (55%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.181156490093.
 
-The following 10 pairs of parts of speech are connected with `xcomp`: [la-pos/VERB]()-[la-pos/VERB]() (1792; 69% instances), [la-pos/VERB]()-[la-pos/ADJ]() (336; 13% instances), [la-pos/VERB]()-[la-pos/NOUN]() (264; 10% instances), [la-pos/VERB]()-[la-pos/PROPN]() (105; 4% instances), [la-pos/VERB]()-[la-pos/ADV]() (64; 2% instances), [la-pos/VERB]()-[la-pos/X]() (19; 1% instances), [la-pos/VERB]()-[la-pos/PRON]() (18; 1% instances), [la-pos/VERB]()-[la-pos/NUM]() (6; 0% instances), [la-pos/X]()-[la-pos/X]() (4; 0% instances), [la-pos/VERB]()-[la-pos/ADP]() (1; 0% instances).
+The following 13 pairs of parts of speech are connected with `xcomp`: [la-pos/VERB]()-[la-pos/VERB]() (1623; 66% instances), [la-pos/VERB]()-[la-pos/ADJ]() (358; 14% instances), [la-pos/VERB]()-[la-pos/NOUN]() (288; 12% instances), [la-pos/VERB]()-[la-pos/PROPN]() (86; 3% instances), [la-pos/VERB]()-[la-pos/ADV]() (60; 2% instances), [la-pos/VERB]()-[la-pos/PRON]() (19; 1% instances), [la-pos/VERB]()-[la-pos/X]() (16; 1% instances), [la-pos/VERB]()-[la-pos/AUX]() (10; 0% instances), [la-pos/VERB]()-[la-pos/NUM]() (6; 0% instances), [la-pos/X]()-[la-pos/X]() (4; 0% instances), [la-pos/ADJ]()-[la-pos/ADJ]() (1; 0% instances), [la-pos/NOUN]()-[la-pos/VERB]() (1; 0% instances), [la-pos/VERB]()-[la-pos/ADP]() (1; 0% instances).
+
+
+~~~ conllu
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 2 xcomp	color:blue
+1	nolite	nolo	VERB	V-	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=MATT_5.17
+2	putare	puto	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	1	xcomp	_	ref=MATT_5.17
+3	quoniam	quoniam	SCONJ	G-	_	4	mark	_	ref=MATT_5.17
+4	veni	venio	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	2	ccomp	_	ref=MATT_5.17
+5	solvere	solvo	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	4	advcl	_	ref=MATT_5.17
+6	legem	lex	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	5	obj:dir	_	ref=MATT_5.17
+7	aut	aut	CCONJ	C-	_	6	cc	_	ref=MATT_5.17
+8	prophetas	propheta	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	6	conj	_	ref=MATT_5.17
+
+~~~
 
 
 ~~~ conllu
@@ -167,53 +182,28 @@ The following 10 pairs of parts of speech are connected with `xcomp`: [la-pos/VE
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 5 xcomp	color:blue
-1	ex	ex	ADP	R-	_	2	case	_	_
-2	his	hic	ADJ	Pd	Case=Abl|Gender=Masc|Number=Plur	8	nsubj	_	_
-3	qui	qui	PRON	Pr	Case=Nom|Gender=Masc|Number=Plur|PronType=Rel	6	nsubj	_	_
-4	arma	arma	NOUN	Nb	Case=Acc|Gender=Neut|Number=Plur	5	dobj	_	_
-5	ferre	fero	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	6	xcomp	_	_
-6	possent	possum	VERB	V-	Aspect=Imp|Mood=Sub|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	2	acl	_	_
-7	ad	ad	ADV	Df	_	8	advmod	_	_
-8	milia	mille	NUM	Ma	Case=Acc|Gender=Neut|Number=Plur	0	root	_	_
-9	nonaginta.duo	nonaginta.duo	NUM	Ma	Case=Acc|Gender=Neut|Number=Plur	8	nummod	_	_
+1	filia	filia	NOUN	Nb	Case=Voc|Gender=Fem|Number=Sing	6	vocative	_	ref=MARK_5.34
+2	fides	fides	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	6	nsubj	_	ref=MARK_5.34
+3	tua	tuus	ADJ	Ps	Case=Nom|Gender=Fem|Number=Sing|Person=2|Poss=Yes	2	nmod	_	ref=MARK_5.34
+4	te	tu	PRON	Pp	Case=Acc|Gender=Masc|Number=Sing|Person=2|PronType=Prs	6	obj:dir	_	ref=MARK_5.34
+5	salvam	salvus	ADJ	A-	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	6	xcomp	_	ref=MARK_5.34
+6	fecit	facio	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=MARK_5.34
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
-# visual-style 4 6 xcomp	color:blue
-1	si	si	SCONJ	G-	_	3	mark	_	_
-2	non	non	ADV	Df	_	3	neg	_	_
-3	erit	sum	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	4	advcl	_	_
-4	faciam	facio	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	_
-5	te	tu	PRON	Pp	Case=Acc|Gender=Masc|Number=Sing|Person=2|PronType=Prs	4	dobj	_	_
-6	certiorem	certus	ADJ	A-	Case=Acc|Degree=Cmp|Gender=Fem,Masc|Number=Sing	4	xcomp	_	_
-7	quid	quis	PRON	Pi	Case=Acc|Gender=Neut|Number=Sing|PronType=Int	8	dobj	_	_
-8	egerim	ago	VERB	V-	Aspect=Perf|Mood=Sub|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	6	ccomp	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
-# visual-style 6 10 xcomp	color:blue
-1	si	si	SCONJ	G-	_	5	mark	_	_
-2	suam	suus	PRON	Pt	Case=Acc|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs|Reflex=Yes	3	nmod	_	_
-3	gratiam	gratia	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	5	dobj	_	_
-4	Romani	Romanus	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	5	nsubj	_	_
-5	velint	volo#1	VERB	V-	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	advcl	_	_
-6	posse	possum	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	0	root	_	_
-7	iis	is	PRON	Pp	Case=Dat|Gender=Masc|Number=Plur|Person=3|PronType=Prs	10	nmod	_	_
-8	utiles	utilis	ADJ	A-	Case=Acc|Degree=Pos|Gender=Fem,Masc|Number=Plur	10	advmod	_	_
-9	esse	sum	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	10	cop	_	_
-10	amicos	amicus	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	6	xcomp	_	_
+# visual-style 6 4 xcomp	color:blue
+1	beati	beatus	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	0	root	_	ref=MATT_5.9
+2	pacifici	pacificus	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	1	nsubj	_	ref=MATT_5.9
+3	quoniam	quoniam	SCONJ	G-	_	6	mark	_	ref=MATT_5.9
+4	filii	filius	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	6	xcomp	_	ref=MATT_5.9
+5	Dei	deus	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	4	nmod	_	ref=MATT_5.9
+6	vocabuntur	voco	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Pass	1	advcl	_	ref=MATT_5.9
 
 ~~~
 

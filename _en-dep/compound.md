@@ -19,7 +19,7 @@ compound(price, oil)
 compound(futures, price)
 ~~~
 
-  This includes proper names that use regular syntactic relations—contrast with [name]():
+  This includes proper names that use regular syntactic relations—contrast with [flat]():
 
 ~~~ sdparse
 Wall Street

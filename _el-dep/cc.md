@@ -8,7 +8,7 @@ For more on coordination, see the [conj]() relation.
 A `cc` is the relation between the first conjunct and
 <!--
 TODO 
-a [coordinating conjunction](../pos/CONJ) 
+a [coordinating conjunction](../pos/CCONJ) 
 -->
 a coordinating conjunction like _και_ or _αλλά_ delimiting another conjunct.
 

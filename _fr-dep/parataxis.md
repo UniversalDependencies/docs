@@ -2,6 +2,7 @@
 layout: relation
 title: 'parataxis'
 shortdef: 'parataxis'
+udver: '2'
 ---
 
 The parataxis relation (from Greek for "place side by side") is a relation between the main verb of a clause and other sentential elements, such as a sentential parenthetical, a clause after a ":" or a ";", or two sentences placed side by side without any explicit coordination or subordination. More information can be found on the universal dependency page ([u-dep/parataxis]())
@@ -20,3 +21,5 @@ parataxis(ont, voir)
 C'est l' idée : les enfants sont le futur \n That is the thought : children are the future
 parataxis(idée, futur)
 ~~~
+
+FrenchSpoken does not use the simple `parataxis` relation. There are instead six different subrelations: [parataxis:discourse](), [parataxis:dislocated](), [parataxis:insert](), [parataxis:obj](), [parataxis:parenth]() and [parataxis:conj]().

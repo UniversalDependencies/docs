@@ -7,21 +7,21 @@
 This feature is universal.
 It occurs with 2 different values: `Act`, `Pass`.
 
-12924 tokens (23%) have a non-empty value of `Voice`.
-4338 types (49%) occur at least once with a non-empty value of `Voice`.
-1185 lemmas (35%) occur at least once with a non-empty value of `Voice`.
-The feature is used with 1 part-of-speech tags: [got-pos/VERB]() (12924; 23% instances).
+10295 tokens (23%) have a non-empty value of `Voice`.
+3727 types (48%) occur at least once with a non-empty value of `Voice`.
+1067 lemmas (35%) occur at least once with a non-empty value of `Voice`.
+The feature is used with 1 part-of-speech tags: [got-pos/VERB]() (10295; 23% instances).
 
 ### `VERB`
 
-12924 [got-pos/VERB]() tokens (100% of all `VERB` tokens) have a non-empty value of `Voice`.
+10295 [got-pos/VERB]() tokens (100% of all `VERB` tokens) have a non-empty value of `Voice`.
 
-The most frequent other feature values with which `VERB` and `Voice` co-occurred: <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (10252; 79%), <tt><a href="Strength.html">Strength</a>=EMPTY</tt> (10250; 79%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (10249; 79%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (9396; 73%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (8137; 63%), <tt><a href="Number.html">Number</a>=Sing</tt> (8035; 62%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (7486; 58%).
+The most frequent other feature values with which `VERB` and `Voice` co-occurred: <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (8203; 80%), <tt><a href="Strength.html">Strength</a>=EMPTY</tt> (8203; 80%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (8202; 80%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (7521; 73%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (6610; 64%), <tt><a href="Number.html">Number</a>=Sing</tt> (6359; 62%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (5995; 58%).
 
 `VERB` tokens may have the following values of `Voice`:
 
-* `Act` (11922; 92% of non-empty `Voice`): <em>ist, qaþ, was, warþ, qeþun, qiþa, sind, im, qiþands, wairþiþ</em>
-* `Pass` (1002; 8% of non-empty `Voice`): <em>gameliþ, skuld, haitada, gamelido, qiþan, atgiban, afletanda, afnimada, gabaurans, gamelid</em>
+* `Act` (9454; 92% of non-empty `Voice`): <em>ist, qaþ, was, warþ, qeþun, qiþa, sind, im, wairþiþ, sijai</em>
+* `Pass` (841; 8% of non-empty `Voice`): <em>gameliþ, haitada, skuld, gamelido, qiþan, gamelid, afletanda, atgiban, daupidai, gabaurans</em>
 
 <table>
   <tr><th>Paradigm <i>wisan#1</i></th><th><tt>Act</tt></th><th><tt>Pass</tt></th></tr>
@@ -51,13 +51,12 @@ The most frequent other feature values with which `VERB` and `Voice` co-occurred
   <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=1|<a href="Tense.html">Tense</a>=Past|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td><em>wesum</em></td><td></td></tr>
   <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=1|<a href="Tense.html">Tense</a>=Pres|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td><em>sijum, sium</em></td><td></td></tr>
   <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=2|<a href="Tense.html">Tense</a>=Past|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td><em>wesuþ</em></td><td></td></tr>
-  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=2|<a href="Tense.html">Tense</a>=Pres|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td><em>sijuþ, siuþ, siud</em></td><td></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=2|<a href="Tense.html">Tense</a>=Pres|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td><em>sijuþ, siuþ</em></td><td></td></tr>
   <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Past|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td><em>wesun</em></td><td></td></tr>
   <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Pres|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td><em>sind</em></td><td></td></tr>
-  <tr><td><tt><a href="Mood.html">Mood</a>=Opt|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=1|<a href="Tense.html">Tense</a>=Past|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td><em>wesjau</em></td><td></td></tr>
-  <tr><td><tt><a href="Mood.html">Mood</a>=Opt|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=1|<a href="Tense.html">Tense</a>=Pres|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td><em>sijau, siau</em></td><td></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Opt|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=1|<a href="Tense.html">Tense</a>=Pres|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td><em>sijau</em></td><td></td></tr>
   <tr><td><tt><a href="Mood.html">Mood</a>=Opt|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=2|<a href="Tense.html">Tense</a>=Past|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td><em>weseis, weiseis</em></td><td></td></tr>
-  <tr><td><tt><a href="Mood.html">Mood</a>=Opt|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=2|<a href="Tense.html">Tense</a>=Pres|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td><em>sijais, siais, wisais</em></td><td></td></tr>
+  <tr><td><tt><a href="Mood.html">Mood</a>=Opt|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=2|<a href="Tense.html">Tense</a>=Pres|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td><em>sijais, siais</em></td><td></td></tr>
   <tr><td><tt><a href="Mood.html">Mood</a>=Opt|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Past|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td><em>wesi</em></td><td></td></tr>
   <tr><td><tt><a href="Mood.html">Mood</a>=Opt|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Pres|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td><em>sijai, siai</em></td><td></td></tr>
   <tr><td><tt><a href="Mood.html">Mood</a>=Opt|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=1|<a href="Tense.html">Tense</a>=Past|<a href="VerbForm.html">VerbForm</a>=Fin</tt></td><td><em>weseima</em></td><td></td></tr>
@@ -72,14 +71,14 @@ The most frequent other feature values with which `VERB` and `Voice` co-occurred
 ## Relations with Agreement in `Voice`
 
 The 10 most frequent relations where parent and child node agree in `Voice`:
-<tt>VERB --[<a href="../dep/advcl.html">advcl</a>]--> VERB</tt> (2175; 93%),
-<tt>VERB --[<a href="../dep/conj.html">conj</a>]--> VERB</tt> (1778; 96%),
-<tt>VERB --[<a href="../dep/ccomp.html">ccomp</a>]--> VERB</tt> (659; 97%),
-<tt>VERB --[<a href="../dep/xcomp.html">xcomp</a>]--> VERB</tt> (536; 56%),
-<tt>VERB --[<a href="../dep/nsubj.html">nsubj</a>]--> VERB</tt> (186; 89%),
-<tt>VERB --[<a href="../dep/dobj.html">dobj</a>]--> VERB</tt> (120; 85%),
-<tt>VERB --[<a href="../dep/parataxis.html">parataxis</a>]--> VERB</tt> (63; 94%),
-<tt>VERB --[<a href="../dep/iobj.html">iobj</a>]--> VERB</tt> (40; 87%),
-<tt>VERB --[<a href="../dep/nmod.html">nmod</a>]--> VERB</tt> (14; 64%),
-<tt>VERB --[<a href="../dep/remnant.html">remnant</a>]--> VERB</tt> (10; 71%).
+<tt>VERB --[<a href="../dep/advcl.html">advcl</a>]--> VERB</tt> (1682; 92%),
+<tt>VERB --[<a href="../dep/conj.html">conj</a>]--> VERB</tt> (1408; 95%),
+<tt>VERB --[<a href="../dep/ccomp.html">ccomp</a>]--> VERB</tt> (515; 97%),
+<tt>VERB --[<a href="../dep/xcomp.html">xcomp</a>]--> VERB</tt> (420; 55%),
+<tt>VERB --[<a href="../dep/nsubj.html">nsubj</a>]--> VERB</tt> (152; 90%),
+<tt>VERB --[<a href="../dep/obj:dir.html">obj:dir</a>]--> VERB</tt> (89; 84%),
+<tt>VERB --[<a href="../dep/parataxis.html">parataxis</a>]--> VERB</tt> (45; 96%),
+<tt>VERB --[<a href="../dep/iobj.html">iobj</a>]--> VERB</tt> (28; 88%),
+<tt>VERB --[<a href="../dep/obl.html">obl</a>]--> VERB</tt> (20; 74%),
+<tt>VERB --[<a href="../dep/acl.html">acl</a>]--> VERB</tt> (4; 67%).
 

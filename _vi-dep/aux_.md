@@ -7,5 +7,11 @@ shortdef: 'auxiliary'
 redirect_from: "vi/dep/aux.html"
 ---
 
-This document is a placeholder for the language-specific documentation
-for `aux`.
+An auxiliary of a clause is a non-main verb of the clause, e.g. modal verbs, "Có_thể" and "phải" in
+a composed tense.
+
+<pre><code class="language-sdparse">Tôi phải đi 。
+aux(đi, phải)
+nsubj(đi, Tôi)
+punct(đi, 。)
+</code></pre>

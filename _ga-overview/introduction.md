@@ -24,5 +24,6 @@ We wish to thank all of the contributors to the original IDT annotation, includi
 * Lynn, Teresa, Jennifer Foster, Mark Dras and Lamia Tounsi, [Cross-lingual Transfer Parsing for Low-Resourced Languages: An Irish Case Study] (http://www.nclt.dcu.ie/~tlynn/CLTW.pdf) CLTW 2014, Dublin, Ireland, August 2014
 * Teresa Lynn, [Irish Dependency Treebanking and Parsing] (http://www.nclt.dcu.ie/~tlynn/Teresa_PhDThesis_final.pdf), PhD Thesis, Dublin City University, Ireland and Macquarie University, Sydney, Australia, 2016
 * Lynn, Teresa and Jennifer Foster, [Universal Dependencies for Irish] (http://www.nclt.dcu.ie/~tlynn/Lynn_CLTW2016.pdf), CLTW 2016, Paris, France, July 2016
+* The Christian Brothers, New Irish Grammar, Dublin, Ireland: C.J. Fallon, March 1994
 
 

@@ -82,17 +82,57 @@ det(no-such, token)
 6     .         .        PUNCT   .        _                  2      punct _ _
 </div>
 
-What about secondary dependencies in the enhanced representation?
-
-<div class="conllu-parse" tabs="yes">
-1    She       _   PRON    _   _   2   nsubj   _ _
-2    declared  _   VERB    _   _   0   root    _ _
-3    the       _   DET     _   _   4   det     _ _
-4    cake      _   NOUN    _   _   2   dobj    5:nsubj _
-5    beautiful _   ADJ     _   _   2   xcomp   _ _
-6    .         _   PUNCT   _   _   2   punct   _ _
+### Enhanced depencies
+Let's use red for enhanced-only, blue for basic-only and black for basic&enhanced dependencies:
+<div class="conllu-parse" tabs="yes" id="pirate-example">
+# visual-style 4 5 ref color:red
+# visual-style 6 4 nmod:poss color:red
+# visual-style 6 5 nmod:poss color:blue
+1   I   I   PRON    PRP Case=Nom|Number=Sing|Person=1|PronType=Prs  2   nsubj   _   _
+2   saw see VERB    VBD Mood=Ind|Tense=Past|VerbForm=Fin    0   root    _   _
+3   a   a   DET DT  Definite=Ind|PronType=Art   4   det _   _
+4   man man NOUN    NN  Number=Sing 2   dobj    6:nmod:poss   _
+5   whose   whose   PRON    WP$ Poss=Yes|PronType=Int   6   nmod:poss   4:ref   _
+6   mother  mother  NOUN    NN  Number=Sing 7   nsubj   _   _
+7   become  become  VERB    VB  VerbForm=Inf    4   acl:relcl   _   _
+8   a   a   DET DT  Definite=Ind|PronType=Art   9   det _   _
+9   pirate  pirate  NOUN    NN  Number=Sing 7   xcomp   _   SpaceAfter=No
+10  .   .   PUNCT   .   _   2   punct   _   _
 </div>
 
+For shorter sentences we can use side-by-side view (this may be clearer, especially if empty nodes are introduced):
+<table id="ellipsis-example">
+<thead><tr><th>Basic</th><th>Enhanced</th></tr></thead>
+<tbody><tr><td width="600">
+<div class="conllu-parse" tabs="yes">
+# visual-style 5 6 remnant color:blue
+# visual-style 2 5 conj color:blue
+1   I   I  _ _ _  2   nsubj   _  _
+2   like like  _ _ _  0   root   _   _
+3   tea tea _ _ _ 2 obj    _   _
+4   and and _ _ _ 5   cc  _   _
+5   you you _ _ _ 2 conj   _   _
+6   rum rum _ _ _ 5  remnant _  _
+7   .   .   _ _ _ 2  punct  _  _
+</div>
+</td><td width="600">
+<div class="conllu-parse" tabs="yes">
+# visual-style 6 7 obj color:red
+# visual-style 6 5 nsubj color:red
+# visual-style 2 6 conj color:red
+1   I  _ _ _ _ 2  nsubj   _  _
+2   like _ _ _ _ 0  root    _  _
+3   tea _ _ _ _ 2  obj    _  _
+4   and _ _ _ _ 5 cc  _  _
+5   you _ _ _ _ 6 nsubj   _  _
+6   E5.1 _ _ _ _ 2 conj    _  _
+7   rum _ _ _ _ 6 obj  _ _
+8   .   _ _ _ _ 2 punct   _  _
+</div>
+</td></tr></tbody>
+</table>
+
+### Foreign examples
 Two sentences can be used to show the English translation of a foreign example:
 
 <pre><code class="language-conllu"># give the toys to the children
@@ -212,17 +252,55 @@ Without literal "ˑ" in input  (should trigger auto-insertion)
 10	.	.	PUNCT	PUNCT	_	1	punct	_	_
 ~~~
 
----------
-
 ### German
 ~~~ sdparse
-Alles hat ein Ende, nur die Wurst hat zwei .
-nsubj(hat,Alles)
-dobj(hat,Ende)
+Alles hat ein Ende , nur die Wurst hat zwei .
+nsubj(hat-2,Alles)
+obj(hat-2,Ende)
 det(Ende,ein)
-nsubj(hat,Wurst)
-dobj(hat,zwei)
+nsubj(hat-9,Wurst)
+obj(hat-9,zwei)
 det(Wurst,die)
-advmod(hat,nur)
-parataxis(hat,hat)
+advmod(hat-9,nur)
+parataxis(hat-2,hat-9)
+~~~
+
+## Test for #363
+
+~~~ conllu
+# visual-style 6 7 obj color:red
+# visual-style 5.1 5 nsubj color:red
+# visual-style 2 5.1 conj color:red
+# visual-style 5 6 remnant color:blue
+# visual-style 2 5 conj color:blue
+1   I    _ _ _ _ 2 nsubj   _  _
+2   like _ _ _ _ 0 root    _  _
+3   tea  _ _ _ _ 2 obj     _  _
+4   and  _ _ _ _ 5 cc      _  _
+5   you  _ _ _ _ 2 conj    5.1:nsubj  _
+5.1 E5.1 _ _ _ _ _ _       2:conj _
+6   rum  _ _ _ _ 5 remnant 5.1:obj _
+7   .    _ _ _ _ 2 punct   _  _
+~~~
+
+Empty node test with full tree in DEPS
+
+~~~ conllu
+1	Sue	Sue	PROPN	_	_	2	nsubj	2:nsubj	_
+2	likes	like	VERB	_	_	0	root	0:root	_
+3	coffee	coffee	NOUN	_	_	2	obj	2:obj	_
+4	and	and	CCONJ	_	_	5	cc	5:cc	_
+5	Bill	a	PROPN	_	_	2	conj	5.1:nsubj	_
+5.1	likes	like	VERB	_	_	_	_	2:conj	_
+6	tea	tea	NOUN	_	_	5	orphan	5.1:obj	_
+
+~~~
+
+Simpler
+
+~~~ conllu
+1	This	this	PRON	_	_	2	orphan	2:nsubj	_
+1.1	is	is	VERB	_	_	_	_	2:cop	_
+2	valid	valid	ADJ	_	_	0	root	0:root	_
+
 ~~~

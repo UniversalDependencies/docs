@@ -1,6 +1,7 @@
 ---
 layout: base
 title: 'Tagset la::itconll conversion to universal POS tags and features'
+udver: '2'
 ---
 
 <a href="index.html">all tables</a>

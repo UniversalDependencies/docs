@@ -26,6 +26,6 @@ PDT examples of masculine animate nouns:
 
 Nouns that are not animate are inanimate.
 
-RNC (Russian Narional Corpus) examples of masculine inanimate nouns:
+RNC (Russian National Corpus) examples of masculine inanimate nouns:
 
 - _род&nbsp;_ “year”, _закон&nbsp;_ “law”, _состояние&nbsp;_ “state”, _падеж&nbsp;_ “case”, _миллион&nbsp;_ “million”

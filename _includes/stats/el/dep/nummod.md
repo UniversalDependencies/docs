@@ -6,85 +6,69 @@
 
 This relation is universal.
 
-401 nodes (1%) are attached to their parents as `nummod`.
+655 nodes (1%) are attached to their parents as `nummod`.
 
-380 instances of `nummod` (95%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.27930174563591.
+507 instances of `nummod` (77%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.56946564885496.
 
-The following 4 pairs of parts of speech are connected with `nummod`: [el-pos/NOUN]()-[el-pos/NUM]() (385; 96% instances), [el-pos/ADJ]()-[el-pos/NUM]() (13; 3% instances), [el-pos/ADV]()-[el-pos/NUM]() (2; 0% instances), [el-pos/NUM]()-[el-pos/NUM]() (1; 0% instances).
+The following 8 pairs of parts of speech are connected with `nummod`: [el-pos/NOUN]()-[el-pos/NUM]() (519; 79% instances), [el-pos/VERB]()-[el-pos/NUM]() (51; 8% instances), [el-pos/X]()-[el-pos/NUM]() (33; 5% instances), [el-pos/ADJ]()-[el-pos/NUM]() (28; 4% instances), [el-pos/PROPN]()-[el-pos/NUM]() (14; 2% instances), [el-pos/ADV]()-[el-pos/NUM]() (6; 1% instances), [el-pos/NUM]()-[el-pos/NUM]() (3; 0% instances), [el-pos/PRON]()-[el-pos/NUM]() (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 1 nummod	color:blue
-1	Διπλή	διπλός	NUM	NUM	Case=Nom|Gender=Fem|Number=Sing|NumType=Mult	2	nummod	_	_
-2	νίκη	νίκη	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	0	root	_	_
-3	του	ο	DET	DET	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
-4	Ρικ	Ρικ	NOUN	NOUN	_	5	nmod	_	_
-5	Σαντόρουμ	Σαντόρουμ	NOUN	NOUN	_	2	nmod	_	_
-6	στον	στου	ADP	ADP	Case=Acc|Gender=Masc|Number=Sing	8	case	_	_
-7	αμερικανικό	αμερικάνικος	ADJ	ADJ	Case=Acc|Gender=Masc|Number=Sing	8	amod	_	_
-8	νότο	νότος	NOUN	NOUN	Case=Acc|Gender=Masc|Number=Sing	2	nmod	_	_
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 3 nummod	color:blue
+1	Επίσης	επίσης	ADV	ADV	_	7	advmod	_	SpaceAfter=No
+2	,	,	PUNCT	PUNCT	_	1	punct	_	_
+3	δύο	δύο	NUM	NUM	Case=Nom|Gender=Neut|Number=Plur|NumType=Card	4	nummod	_	_
+4	σπίτια	σπίτι	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Plur	7	nsubj	_	_
+5	στην	στου	ADP	ADP	Case=Acc|Gender=Fem|Number=Sing	6	case	_	_
+6	περιοχή	περιοχή	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	4	nmod	_	_
+7	κάηκαν	καίω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	_
+8	ολοσχερώς	ολοσχερώς	ADV	ADV	_	7	advmod	_	SpaceAfter=No
+9	.	.	PUNCT	PUNCT	_	7	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 1 nummod	color:blue
-1	Τρεις	τρεις	NUM	NUM	Case=Nom|Gender=Masc|Number=Plur|NumType=Card	2	nummod	_	_
-2	νεκροί	νεκρός	ADJ	ADJ	Case=Nom|Gender=Masc|Number=Plur	0	root	_	_
-3	από	από	ADP	ADP	_	6	case	_	_
-4	τη	ο	DET	DET	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
-5	σφοδρή	σφοδρός	ADJ	ADJ	Case=Acc|Gender=Fem|Number=Sing	6	amod	_	_
-6	κακοκαιρία	κακοκαιρία	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	2	nmod	_	_
-7	που	που	PRON	PRON	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Rel	8	nsubj	_	_
-8	πλήττει	πλήττω	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	6	acl:relcl	_	_
-9	τα	ο	DET	DET	Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	10	det	_	_
-10	Βαλκάνια	Βαλκάνια	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Plur	8	dobj	_	_
-11	.	.	PUNCT	PUNCT	_	2	punct	_	_
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 7 nummod	color:blue
+1	Τα	ο	DET	DET	Case=Nom|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	3	det	_	_
+2	τελικά	τελικός	ADJ	ADJ	Case=Nom|Gender=Neut|Number=Plur	3	amod	_	_
+3	αποτελέσματα	αποτέλεσμα	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Plur	5	nsubj	_	_
+4	θα	θα	PART	PART	_	5	aux	_	_
+5	ανακοινωθούν	ανακοινώνω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|VerbForm=Fin|Voice=Pass	0	root	_	_
+6	στις	στου	ADP	ADP	Case=Acc|Gender=Fem|Number=Plur	7	case	_	_
+7	21	21	NUM	NUM	NumType=Card	5	nummod	_	_
+8	Ιουνίου	Ιούνιος	NOUN	NOUN	Case=Gen|Gender=Masc|Number=Sing	7	nmod	_	SpaceAfter=No
+9	»	»	PUNCT	PUNCT	_	5	punct	_	SpaceAfter=No
+10	.	.	PUNCT	PUNCT	_	5	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 8 nummod	color:blue
-1	Η	ο	DET	DET	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
-2	Ευρωπαϊκή	ευρωπαϊκός	ADJ	ADJ	Case=Nom|Gender=Fem|Number=Sing	3	amod	_	_
-3	Ένωση	ένωση	NOUN	NOUN	Case=Nom|Gender=Fem|Number=Sing	5	nsubj	_	_
-4	έχει	έχω	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	5	aux	_	_
-5	χορηγήσει	χορηγώ	VERB	VERB	VerbForm=Inf|Voice=Act	0	root	_	_
-6	γύρω	γύρω	ADV	ADV	_	9	advmod	_	_
-7	στο	στου	ADP	ADP	Case=Acc|Gender=Neut|Number=Sing	8	case	_	_
-8	ένα	ένας	NUM	NUM	Case=Acc|Gender=Neut|Number=Sing|NumType=Card	6	nummod	_	_
-9	δισεκατομμύριο	δισεκατομμύριο	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	10	nmod	_	_
-10	ευρώ	ευρώ	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	5	dobj	_	_
-11	από	από	ADP	ADP	_	13	case	_	_
-12	το	ο	DET	DET	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	13	det	_	_
-13	1991	1991	NUM	NUM	_	5	nmod	_	_
-14	,	,	PUNCT	PUNCT	_	15	punct	_	_
-15	έτος	έτος	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	13	appos	_	_
-16	κατά	κατά	ADP	ADP	_	18	case	_	_
-17	το	ο	DET	DET	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	18	det	_	_
-18	οποίο	οποίος	PRON	PRON	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Rel	22	nmod	_	_
-19	οι	ο	DET	DET	Case=Nom|Definite=Def|Gender=Fem|Number=Plur|PronType=Art	20	det	_	_
-20	χώρες	χώρα	NOUN	NOUN	Case=Nom|Gender=Fem|Number=Plur	22	nsubj	_	_
-21	αυτές	αυτός	PRON	PRON	Case=Nom|Gender=Fem|Number=Plur|Person=3|PronType=Dem	20	det	_	_
-22	απέκτησαν	αποκτώ	VERB	VERB	Mood=Ind|Number=Plur|Person=3|Tense=Past|Voice=Act	15	acl:relcl	_	_
-23	την	ο	DET	DET	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	24	det	_	_
-24	ανεξαρτησία	ανεξαρτησία	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	22	dobj	_	_
-25	τους	μου	PRON	PRON	Case=Gen|Gender=Fem|Number=Plur|Person=3|PronType=Prs	24	nmod	_	_
-26	.	.	PUNCT	PUNCT	_	5	punct	_	_
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 9 10 nummod	color:blue
+1	Η	ο	DET	DET	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	Σπόρτινγκ	Σπόρτινγκ	X	X	Foreign=Yes	4	nsubj	_	_
+3	Λισαβόνας	Λισαβόνα	PROPN	PROPN	Case=Gen|Gender=Fem|Number=Sing	2	nmod	_	_
+4	νίκησε	νικώ	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+5	την	ο	DET	DET	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	Μάντσεστερ	Μάντσεστερ	X	X	Foreign=Yes	4	obj	_	_
+7	Σίτι	Σίτι	X	X	Foreign=Yes	6	nmod	_	_
+8	με	με	ADP	ADP	_	9	case	_	_
+9	σκορ	σκορ	X	X	Foreign=Yes	4	obl	_	_
+10	1:0	1:0	NUM	NUM	NumType=Card	9	nummod	_	_
 
 ~~~
 

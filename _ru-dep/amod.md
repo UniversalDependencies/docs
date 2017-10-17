@@ -19,17 +19,15 @@ amod(impression, First)
 nsubj(хорошим, впечатление)
 nsubj(positive, impression)
 ~~~
-
-Exception: if the modifying adjectival word is pronominal (i.e. tagged [ru-pos/DET]()), the relation is [det]() instead of `amod`.
+Some pronominal modifiers are also considered as `amod`
+Exception: if the modifying adjectival word is article-equivalent (i.e. tagged [ru-pos/DET]()), the relation is [det]() instead of `amod`.
 
 ~~~ sdparse
-все эти ваши новые группы \n all these your new groups
+эти ваши новые группы \n these your new groups
 amod(группы, новые)
 amod(groups, new)
-det(группы, ваши)
-det(groups, your)
+amod(группы, ваши)
+amod(groups, your)
 det(группы, эти)
 det(groups, these)
-det(группы, все)
-det(groups, all)
 ~~~

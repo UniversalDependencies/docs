@@ -6,12 +6,12 @@
 
 This relation is universal.
 
-2798 nodes (2%) are attached to their parents as `nummod`.
+2692 nodes (1%) are attached to their parents as `nummod`.
 
-2629 instances of `nummod` (94%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.331308077198.
+2519 instances of `nummod` (94%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.38298662704309.
 
-The following 23 pairs of parts of speech are connected with `nummod`: [hr-pos/NOUN]()-[hr-pos/NUM]() (2300; 82% instances), [hr-pos/NOUN]()-[hr-pos/ADJ]() (172; 6% instances), [hr-pos/NOUN]()-[hr-pos/NOUN]() (110; 4% instances), [hr-pos/ADV]()-[hr-pos/NUM]() (45; 2% instances), [hr-pos/PROPN]()-[hr-pos/NUM]() (35; 1% instances), [hr-pos/ADJ]()-[hr-pos/NUM]() (25; 1% instances), [hr-pos/VERB]()-[hr-pos/NUM]() (23; 1% instances), [hr-pos/PUNCT]()-[hr-pos/NUM]() (15; 1% instances), [hr-pos/PRON]()-[hr-pos/NUM]() (14; 1% instances), [hr-pos/ADP]()-[hr-pos/NUM]() (13; 0% instances), [hr-pos/NUM]()-[hr-pos/NUM]() (13; 0% instances), [hr-pos/NOUN]()-[hr-pos/PROPN]() (8; 0% instances), [hr-pos/NOUN]()-[hr-pos/ADV]() (6; 0% instances), [hr-pos/NUM]()-[hr-pos/ADJ]() (4; 0% instances), [hr-pos/ADJ]()-[hr-pos/ADJ]() (3; 0% instances), [hr-pos/ADJ]()-[hr-pos/NOUN]() (3; 0% instances), [hr-pos/PROPN]()-[hr-pos/ADJ]() (3; 0% instances), [hr-pos/ADV]()-[hr-pos/ADJ]() (1; 0% instances), [hr-pos/ADV]()-[hr-pos/NOUN]() (1; 0% instances), [hr-pos/NOUN]()-[hr-pos/PUNCT]() (1; 0% instances), [hr-pos/NOUN]()-[hr-pos/X]() (1; 0% instances), [hr-pos/PROPN]()-[hr-pos/NOUN]() (1; 0% instances), [hr-pos/PROPN]()-[hr-pos/PROPN]() (1; 0% instances).
+The following 27 pairs of parts of speech are connected with `nummod`: [hr-pos/NOUN]()-[hr-pos/NUM]() (2014; 75% instances), [hr-pos/NOUN]()-[hr-pos/ADJ]() (159; 6% instances), [hr-pos/ADV]()-[hr-pos/NUM]() (130; 5% instances), [hr-pos/NOUN]()-[hr-pos/NOUN]() (103; 4% instances), [hr-pos/SYM]()-[hr-pos/NUM]() (85; 3% instances), [hr-pos/PROPN]()-[hr-pos/NUM]() (74; 3% instances), [hr-pos/ADJ]()-[hr-pos/NUM]() (33; 1% instances), [hr-pos/VERB]()-[hr-pos/NUM]() (26; 1% instances), [hr-pos/PRON]()-[hr-pos/NUM]() (12; 0% instances), [hr-pos/ADP]()-[hr-pos/NUM]() (11; 0% instances), [hr-pos/NOUN]()-[hr-pos/ADV]() (7; 0% instances), [hr-pos/NOUN]()-[hr-pos/PROPN]() (6; 0% instances), [hr-pos/NOUN]()-[hr-pos/SYM]() (6; 0% instances), [hr-pos/ADJ]()-[hr-pos/NOUN]() (3; 0% instances), [hr-pos/NUM]()-[hr-pos/ADJ]() (3; 0% instances), [hr-pos/NUM]()-[hr-pos/NUM]() (3; 0% instances), [hr-pos/PROPN]()-[hr-pos/ADJ]() (3; 0% instances), [hr-pos/ADJ]()-[hr-pos/ADJ]() (2; 0% instances), [hr-pos/DET]()-[hr-pos/NUM]() (2; 0% instances), [hr-pos/NOUN]()-[hr-pos/DET]() (2; 0% instances), [hr-pos/PRON]()-[hr-pos/SYM]() (2; 0% instances), [hr-pos/ADV]()-[hr-pos/NOUN]() (1; 0% instances), [hr-pos/DET]()-[hr-pos/ADJ]() (1; 0% instances), [hr-pos/NOUN]()-[hr-pos/CCONJ]() (1; 0% instances), [hr-pos/NOUN]()-[hr-pos/X]() (1; 0% instances), [hr-pos/NUM]()-[hr-pos/NOUN]() (1; 0% instances), [hr-pos/PROPN]()-[hr-pos/SYM]() (1; 0% instances).
 
 
 ~~~ conllu
@@ -20,35 +20,15 @@ The following 23 pairs of parts of speech are connected with `nummod`: [hr-pos/N
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 6 nummod	color:blue
-1	Svaka	svaki	PRON	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Ind	2	det	_	_
+1	Svaka	svaki	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Tot	2	det	_	_
 2	obitelj	obitelj	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	3	nsubj	_	_
-3	može	moći	VERB	_	Number=Sing|Person=3|Tense=Pres	0	root	_	_
+3	može	moći	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 4	dobiti	dobiti	VERB	_	VerbForm=Inf	3	xcomp	_	_
 5	do	do	ADP	_	Case=Gen	7	case	_	_
 6	500	500	NUM	_	NumType=Card	7	nummod	_	_
-7	eura	euro	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	4	dobj	_	_
-8	pomoći	pomoć	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	7	nmod	_	_
+7	eura	euro	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	4	obj	_	_
+8	pomoći	pomoć	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	7	nmod	_	SpaceAfter=No
 9	.	.	PUNCT	_	_	3	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 1 nummod	color:blue
-1	Prvi	prvi	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	2	nummod	_	_
-2	predsjednik	predsjednik	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	_
-3	skupštine	skupština	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	2	nmod	_	_
-4	SZO-a	SZO	PROPN	_	Case=Gen|Gender=Masc|Number=Sing	3	nummod	_	_
-5	bio	biti	AUX	_	Gender=Masc|Number=Sing|VerbForm=Part	7	cop	_	_
-6	je	biti	AUX	_	Number=Sing|Person=3|Tense=Pres	7	aux	_	_
-7	prof.	prof.	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
-8	Andrija	Andrija	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	7	appos	_	_
-9	Štampar	Štampar	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	8	name	_	_
-10	.	.	PUNCT	_	_	7	punct	_	_
 
 ~~~
 
@@ -59,16 +39,40 @@ The following 23 pairs of parts of speech are connected with `nummod`: [hr-pos/N
 # visual-style 9	bgColor:blue
 # visual-style 9	fgColor:white
 # visual-style 9 8 nummod	color:blue
-1	Ukupni	ukupan	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	2	amod	_	_
-2	troškovi	trošak	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	4	nsubjpass	_	_
-3	projekta	projekt	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	_
-4	procijenjeni	procijeniti	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur|VerbForm=Part	0	root	_	_
-5	su	biti	AUX	_	Number=Plur|Person=3|Tense=Pres	4	auxpass	_	_
-6	na	na	ADP	_	Case=Acc	9	case	_	_
-7	56,4	56,4	NUM	_	NumType=Card	8	compound	_	_
-8	milijuna	milijun	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	9	nummod	_	_
-9	eura	euro	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	4	nmod	_	_
-10	.	.	PUNCT	_	_	4	punct	_	_
+1	Unatoč	unatoč	ADP	_	Case=Dat	2	case	_	_
+2	tomu	taj	DET	_	Case=Dat|Gender=Masc|Number=Sing|PronType=Dem	6	obl	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	2	punct	_	_
+4	summit	summit	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	_
+5	je	biti	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	aux	_	_
+6	otvorio	otvoriti	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	_
+7	put	put	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	6	obj	_	_
+8	prvoj	prvi	ADJ	_	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing	9	nummod	_	_
+9	misiji	misija	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	6	iobj	_	_
+10	NATO-a	NATO	PROPN	_	Case=Gen|Gender=Masc|Number=Sing	9	nmod	_	_
+11	u	u	ADP	_	Case=Loc	12	case	_	_
+12	Iraku	Irak	PROPN	_	Case=Loc|Gender=Masc|Number=Sing	9	nmod	_	SpaceAfter=No
+13	.	.	PUNCT	_	_	6	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 10 9 nummod	color:blue
+1	Od	od	ADP	_	Case=Gen	2	case	_	_
+2	početka	početak	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	7	obl	_	_
+3	godine	godina	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	2	nmod	_	_
+4	ta	taj	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	6	det	_	_
+5	je	biti	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	aux	_	_
+6	aktiva	aktiva	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	7	nsubj	_	_
+7	porasla	porasti	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	_
+8	skromnih	skroman	ADJ	_	Case=Gen|Definite=Def|Degree=Pos|Gender=Masc|Number=Plur	9	amod	_	_
+9	1,6	1,6	NUM	_	NumType=Card	10	nummod	_	_
+10	posto	posto	ADV	_	Degree=Pos	7	advmod	_	SpaceAfter=No
+11	.	.	PUNCT	_	_	7	punct	_	_
 
 ~~~
 

@@ -14,7 +14,7 @@ A singular noun denotes one person, animal or thing.
 
 #### Examples
 
-* _<b>стырый мужчина пришёл</b>&nbsp;_ “an old man came”
+* _<b>старый мужчина пришёл</b>&nbsp;_ “an old man came”
 * _<b>молодая женщина пришла</b>&nbsp;_ “a young woman came”
 * _<b>маленький цыплёнок пришёл</b>&nbsp;_ “a small chicken came”
 
@@ -24,7 +24,7 @@ A plural noun denotes several persons, animals or things.
 
 #### Examples
 
-* _<b>старый мужчины пришли</b>&nbsp;_ “old men came”
+* _<b>старые мужчины пришли</b>&nbsp;_ “old men came”
 * _<b>молодые женщины пришли</b>&nbsp;_ “young women came”
 * _<b>маленькие цыплята пришли</b>&nbsp;_ “small chickens came”
 
@@ -35,7 +35,7 @@ thing (semantic singular); some tagsets mark this distinction.
 Grammatically they behave like plurals, so `Plur` is obviously the
 back-off value here; however, the
 non-existence of singular form sometimes means that the gender is
-unknown. In Czech, special type of numerals is used when counting
+unknown. In Russian, special type of numerals is used when counting
 nouns that are plurale tantum ([NumType]()`=Sets`).
 
 #### Examples

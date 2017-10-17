@@ -70,7 +70,8 @@ categories={(u"Documentation status",u"stub"):"""<span class="widespan" style="c
             (u"Data available since",u"UD v1.2"):"""<span class="widespan"><span class="hint--top hint--info" data-hint="First released in UD version 1.2 (November 2015)"><i class="fa fa-check"></i></span></span>""",
             (u"Data available since",u"UD v1.3"):"""<span class="widespan"><span class="hint--top hint--info" data-hint="First released in UD version 1.3 (May 2016)"><i class="fa fa-check"></i></span></span>""",
             (u"Data available since",u"UD v1.4"):"""<span class="widespan"><span class="hint--top hint--info" data-hint="First released in UD version 1.4 (November 2016)"><i class="fa fa-check"></i></span></span>""",
-            (u"Data available since",u"UD v2.0"):"""<span class="widespan"><span class="hint--top hint--info" data-hint="Scheduled for release in UD version 2.0 (spring 2017)"><i class="fa fa-hourglass-end"></i></span></span>""",
+            (u"Data available since",u"UD v2.0"):"""<span class="widespan"><span class="hint--top hint--info" data-hint="First released in UD version 2.0 (March 2017)"><i class="fa fa-check"></i></span></span>""",
+            (u"Data available since",u"UD v2.1"):"""<span class="widespan"><span class="hint--top hint--info" data-hint="Scheduled for release in UD version 2.1 (November 2017)"><i class="fa fa-hourglass-end"></i></span></span>""",
             (u"Data available since",u"none"):"""<span class="widespan"><span class="hint--top hint--info" data-hint="No firm schedule for data release">-</span></span>"""}
 
 empty_wide_span="""<span class="widespan"><span class="hint--top hint--info" data-hint="{hint:}">?</span></span>"""
@@ -147,7 +148,7 @@ def gen_table(args):
     # Dan's modification of the original script by Filip: include only the Slavic languages.
     langs1=sorted(os.path.basename(x).replace(".json","") for x in glob.glob("_corpus_data/*.json"))
     #r=re.compile('^(cs|sk|hsb|dsb|pl|uk|be|ru|orv|sl|hr|bs|sr|mk|bg|cu)$')
-    r=re.compile('^(Czech|Slovak|Upper Sorbian|Lower Sorbian|Polish|Ukrainian|Belarusian|Russian|Old_Russian|Slovenian|Croatian|Bosnian|Serbian|Macedonian|Bulgarian|Old_Church_Slavonic)')
+    r=re.compile('^(Czech|Slovak|Upper_Sorbian|Lower_Sorbian|Polish|Ukrainian|Belarusian|Russian|Old_Russian|Slovenian|Croatian|Bosnian|Serbian|Macedonian|Bulgarian|Old_Church_Slavonic)')
     langs=filter(r.match, langs1)
     for l in langs:
         with open(os.path.join("_corpus_data",l+".json"),"r") as f:

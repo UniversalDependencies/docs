@@ -2,7 +2,15 @@
 layout: feature
 title: 'Variant'
 shortdef: 'alternative form of word'
+udver: '2'
 ---
+
+<table class="typeindex" border="1">
+<tr>
+  <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
+  <td><a href="#Short">Short</a></td>
+</tr>
+</table>
 
 Sometimes there are multiple word forms for the same lemma and set of features.
 The `Variant` feature helps distinguish alternate forms.
@@ -12,7 +20,7 @@ short forms of [adjectives](cs-pos/ADJ) and short (clitic) forms of personal [pr
 This feature only marks the non-standard short forms, hence there is only one value, `Short`.
 For the long standard forms the `Variant` feature remains unspecified.
 
-### `Short`: short form of adjectives
+### <a name="Short">`Short`</a>: short form of adjectives
 
 The short form is called _nominal form of adjective (jmenný tvar přídavného jména),_
 as opposed to the long form, which is _pronominal_ because it originated as

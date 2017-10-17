@@ -1,6 +1,7 @@
 ---
 layout: base
 title: 'Tagset sk::snk conversion to universal POS tags and features'
+udver: '2'
 ---
 
 <a href="index.html">all tables</a>
@@ -874,8 +875,8 @@ Tagset <tt>sk::snk</tt>, total 1457 tags.
   <tr><td>NUns5</td><td>=&gt;</td><td>NUM</td><td>Case=Voc|Gender=Neut|MorphPos=Def|Number=Sing</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>NUns6</td><td>=&gt;</td><td>NUM</td><td>Case=Loc|Gender=Neut|MorphPos=Def|Number=Sing</td><td><em>pol, mnohom, pár, mnoho, šesť</em></td></tr>
   <tr><td>NUns7</td><td>=&gt;</td><td>NUM</td><td>Case=Ins|Gender=Neut|MorphPos=Def|Number=Sing</td><td><em>viac, pár, päť</em></td></tr>
-  <tr style="background:lightgray"><td>O</td><td>=&gt;</td><td>CONJ</td><td>_</td><td><em>Ako</em></td></tr>
-  <tr><td>OY</td><td>=&gt;</td><td>CONJ</td><td>Mood=Cnd</td><td><em>aby, akoby, keby, Žeby, Niežeby</em></td></tr>
+  <tr style="background:lightgray"><td>O</td><td>=&gt;</td><td>CCONJ</td><td>_</td><td><em>Ako</em></td></tr>
+  <tr><td>OY</td><td>=&gt;</td><td>CCONJ</td><td>Mood=Cnd</td><td><em>aby, akoby, keby, Žeby, Niežeby</em></td></tr>
   <tr style="background:lightgray"><td>PAfp1</td><td>=&gt;</td><td>PRON</td><td>Case=Nom|Gender=Fem|MorphPos=Adj|Number=Plur|PronType=Prs</td><td><em>které, ktorí, takého</em></td></tr>
   <tr><td>PAfp2</td><td>=&gt;</td><td>PRON</td><td>Case=Gen|Gender=Fem|MorphPos=Adj|Number=Plur|PronType=Prs</td><td><em>niekorých</em></td></tr>
   <tr style="background:lightgray"><td>PAfp3</td><td>=&gt;</td><td>PRON</td><td>Case=Dat|Gender=Fem|MorphPos=Adj|Number=Plur|PronType=Prs</td><td><em>ktorým, niektorým, iným, takým, istým</em></td></tr>
@@ -1272,205 +1273,205 @@ Tagset <tt>sk::snk</tt>, total 1457 tags.
   <tr><td>SUns7</td><td>=&gt;</td><td>NOUN</td><td>Case=Ins|Gender=Neut|MorphPos=Def|Number=Sing</td><td><em>Ordo, Kubání, Timbuktu, Louis, Taco</em></td></tr>
   <tr style="background:lightgray"><td>T</td><td>=&gt;</td><td>PART</td><td>_</td><td><em>nioe, aqj, natmä, menej, jen</em></td></tr>
   <tr><td>TY</td><td>=&gt;</td><td>PART</td><td>Mood=Cnd</td><td><em>akoby, Niežeby, keby, Žeby, aby</em></td></tr>
-  <tr style="background:lightgray"><td>VBepa-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Negative=Neg|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin</td><td><em>nebudeme, Nepôjdeme</em></td></tr>
-  <tr><td>VBepa+</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Negative=Pos|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin</td><td><em>budeme, pôjdeme, Poletíme</em></td></tr>
-  <tr style="background:lightgray"><td>VBepb-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Negative=Neg|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin</td><td><em>nebudete</em></td></tr>
-  <tr><td>VBepb+</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Negative=Pos|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin</td><td><em>budete, pôjdete, Leťte, pobežíte</em></td></tr>
-  <tr style="background:lightgray"><td>VBepc-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Negative=Neg|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin</td><td><em>nebudú</em></td></tr>
-  <tr><td>VBepc+</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Negative=Pos|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin</td><td><em>budú, pôjdu</em></td></tr>
-  <tr style="background:lightgray"><td>VBesa-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Negative=Neg|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin</td><td><em>nebudem, nepôjdem</em></td></tr>
-  <tr><td>VBesa+</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Negative=Pos|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin</td><td><em>budem, pôjdem, Poletím, nájdem</em></td></tr>
-  <tr style="background:lightgray"><td>VBesb-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Negative=Neg|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin</td><td><em>nebudeš, nepôjdeš, nemusíš</em></td></tr>
-  <tr><td>VBesb+</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Negative=Pos|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin</td><td><em>budeš, pôjdeš, buď, Pocestuješ, poletíš</em></td></tr>
-  <tr style="background:lightgray"><td>VBesc-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Negative=Neg|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin</td><td><em>nebude, nepovedie, nepôjde</em></td></tr>
-  <tr><td>VBesc+</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Negative=Pos|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin</td><td><em>bude, pôjde, potrvá, Poletí, budú</em></td></tr>
-  <tr style="background:lightgray"><td>VBjpa-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp,Perf|Mood=Ind|Negative=Neg|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin</td><td><em></em></td></tr>
-  <tr><td>VBjpa+</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp,Perf|Mood=Ind|Negative=Pos|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>VBjpb-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp,Perf|Mood=Ind|Negative=Neg|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin</td><td><em></em></td></tr>
-  <tr><td>VBjpb+</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp,Perf|Mood=Ind|Negative=Pos|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>VBjpc-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp,Perf|Mood=Ind|Negative=Neg|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin</td><td><em></em></td></tr>
-  <tr><td>VBjpc+</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp,Perf|Mood=Ind|Negative=Pos|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>VBjsa-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp,Perf|Mood=Ind|Negative=Neg|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin</td><td><em></em></td></tr>
-  <tr><td>VBjsa+</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp,Perf|Mood=Ind|Negative=Pos|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>VBjsb-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp,Perf|Mood=Ind|Negative=Neg|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin</td><td><em></em></td></tr>
-  <tr><td>VBjsb+</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp,Perf|Mood=Ind|Negative=Pos|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>VBjsc-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp,Perf|Mood=Ind|Negative=Neg|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin</td><td><em></em></td></tr>
-  <tr><td>VBjsc+</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp,Perf|Mood=Ind|Negative=Pos|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>VHd-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Negative=Neg|VerbForm=Trans</td><td><em>nezdvihnúc</em></td></tr>
-  <tr><td>VHd+</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Negative=Pos|VerbForm=Trans</td><td><em>povediac, použijúc, počnúc, vytvoriac, pojmúc</em></td></tr>
-  <tr style="background:lightgray"><td>VHe-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Negative=Neg|VerbForm=Trans</td><td><em>nehovoriac, nechtiac, nečakajúc, nespomínajúc, Nespúšťajúc</em></td></tr>
-  <tr><td>VHe+</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Negative=Pos|VerbForm=Trans</td><td><em>požiciavajúc</em></td></tr>
-  <tr style="background:lightgray"><td>VHj-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp,Perf|Negative=Neg|VerbForm=Trans</td><td><em></em></td></tr>
-  <tr><td>VHj+</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp,Perf|Negative=Pos|VerbForm=Trans</td><td><em>odpovedajúc, ignorujúc, dajúc</em></td></tr>
-  <tr style="background:lightgray"><td>VId-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Negative=Neg|VerbForm=Inf</td><td><em>nekúpiť, neupútať, neprejaviť, neprečítať, nevyhovieť</em></td></tr>
-  <tr><td>VId+</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Negative=Pos|VerbForm=Inf</td><td><em>Zobraziť</em></td></tr>
-  <tr style="background:lightgray"><td>VIe-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Negative=Neg|VerbForm=Inf</td><td><em>Nevyrušovať</em></td></tr>
-  <tr><td>VIe+</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Negative=Pos|VerbForm=Inf</td><td><em>rozbalovať, rozväzvovať, čítal, malovať, priklánať</em></td></tr>
-  <tr style="background:lightgray"><td>VIj-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp,Perf|Negative=Neg|VerbForm=Inf</td><td><em>nepočuť, nedať</em></td></tr>
-  <tr><td>VIj+</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp,Perf|Negative=Pos|VerbForm=Inf</td><td><em>dať, venovať, počuť, realizovať, komunikovať</em></td></tr>
-  <tr style="background:lightgray"><td>VKdpa-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Mood=Ind|Negative=Neg|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin</td><td><em>nedokážeme, nedozvieme, nenájdeme, neznášame, Nedovolíme</em></td></tr>
-  <tr><td>VKdpa+</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Mood=Ind|Negative=Pos|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin</td><td><em>presnunieme</em></td></tr>
-  <tr style="background:lightgray"><td>VKdpb-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Mood=Ind|Negative=Neg|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin</td><td><em>nezáhráte, Nepridátete</em></td></tr>
-  <tr><td>VKdpb+</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Mood=Ind|Negative=Pos|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin</td><td><em>nájdete, dozviete, uvidíte, zistíte, dostanete</em></td></tr>
-  <tr style="background:lightgray"><td>VKdpc-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Mood=Ind|Negative=Neg|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin</td><td><em>nepohŕdnu</em></td></tr>
-  <tr><td>VKdpc+</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Mood=Ind|Negative=Pos|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin</td><td><em>presvedčia, trumfnú, odbachnu, dznejú</em></td></tr>
-  <tr style="background:lightgray"><td>VKdsa-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Mood=Ind|Negative=Neg|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin</td><td><em>neuspokjím</em></td></tr>
-  <tr><td>VKdsa+</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Mood=Ind|Negative=Pos|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin</td><td><em>zavrem</em></td></tr>
-  <tr style="background:lightgray"><td>VKdsb-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Mood=Ind|Negative=Neg|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin</td><td><em>nevyrovnáš, nedokážeš, nedozvieš, nezomrieš, neuvidíš</em></td></tr>
-  <tr><td>VKdsb+</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Mood=Ind|Negative=Pos|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin</td><td><em>Uvodíš</em></td></tr>
-  <tr style="background:lightgray"><td>VKdsc-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Mood=Ind|Negative=Neg|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin</td><td><em>nedokáže, nepodarí, nestane, nepríde, nedostane</em></td></tr>
-  <tr><td>VKdsc+</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Mood=Ind|Negative=Pos|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin</td><td><em>pridfá</em></td></tr>
-  <tr style="background:lightgray"><td>VKe-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Negative=Neg|Tense=Pres|VerbForm=Fin</td><td><em></em></td></tr>
-  <tr><td>VKepa-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Negative=Neg|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin</td><td><em>niesme</em></td></tr>
-  <tr style="background:lightgray"><td>VKepa+</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Negative=Pos|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin</td><td><em>trpeme, možeme, mame, Posobíme</em></td></tr>
-  <tr><td>VKepb-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Negative=Neg|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin</td><td><em>ste, neviete, nemáte, nemusíte, nevidíte</em></td></tr>
-  <tr style="background:lightgray"><td>VKepb+</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Negative=Pos|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin</td><td><em>myslite, ussporadúvate</em></td></tr>
-  <tr><td>VKepc-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Negative=Neg|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin</td><td><em>nemôžete</em></td></tr>
-  <tr style="background:lightgray"><td>VKepc+</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Negative=Pos|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin</td><td><em>možu, presazujú, tiahnú, existuju, konájú</em></td></tr>
-  <tr><td>VKesa-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Negative=Neg|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin</td><td><em>neviem, nemám, nemôžem, som, nechcem</em></td></tr>
-  <tr style="background:lightgray"><td>VKesa+</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Negative=Pos|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin</td><td><em>ĎAKUJEM</em></td></tr>
-  <tr><td>VKesb-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Negative=Neg|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin</td><td><em>si, nemáš, nesmieš, nemôžeš, nevieš</em></td></tr>
-  <tr style="background:lightgray"><td>VKesb+</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Negative=Pos|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin</td><td><em>si, máš, vieš, chceš, môžeš</em></td></tr>
-  <tr><td>VKesc-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Negative=Neg|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin</td><td><em>netrvalo</em></td></tr>
-  <tr style="background:lightgray"><td>VKesc+</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Negative=Pos|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin</td><td><em>žiada</em></td></tr>
-  <tr><td>VKjpa-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp,Perf|Mood=Ind|Negative=Neg|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin</td><td><em>Nestačíme, neexportujeme</em></td></tr>
-  <tr style="background:lightgray"><td>VKjpa+</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp,Perf|Mood=Ind|Negative=Pos|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin</td><td><em>poznáme, stačíme, investujeme, venujeme, menujeme</em></td></tr>
-  <tr><td>VKjpb-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp,Perf|Mood=Ind|Negative=Neg|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin</td><td><em>nedáte, nepoznáte</em></td></tr>
-  <tr style="background:lightgray"><td>VKjpb+</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp,Perf|Mood=Ind|Negative=Pos|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin</td><td><em>poznáte, dáte, Počujete, falšujete</em></td></tr>
-  <tr><td>VKjpc-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp,Perf|Mood=Ind|Negative=Neg|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin</td><td><em>nedajú, nestačia, neignorujú, nerezignujú, nehodia</em></td></tr>
-  <tr style="background:lightgray"><td>VKjpc+</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp,Perf|Mood=Ind|Negative=Pos|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin</td><td><em>dajú, poznajú, venujú, komunikujú, symbolizujú</em></td></tr>
-  <tr><td>VKjsa-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp,Perf|Mood=Ind|Negative=Neg|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin</td><td><em>nepoznám, neodpoviem, neodpovedám, nestačím, nedám</em></td></tr>
-  <tr style="background:lightgray"><td>VKjsa+</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp,Perf|Mood=Ind|Negative=Pos|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin</td><td><em>dám, poznám, počujem, venujem, odpoviem</em></td></tr>
-  <tr><td>VKjsb-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp,Perf|Mood=Ind|Negative=Neg|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin</td><td><em>nedáš</em></td></tr>
-  <tr style="background:lightgray"><td>VKjsb+</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp,Perf|Mood=Ind|Negative=Pos|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin</td><td><em>poznáš, dáš, venuješ, počuješ, odpovieš</em></td></tr>
-  <tr><td>VKjsc-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp,Perf|Mood=Ind|Negative=Neg|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin</td><td><em>nedá, nestačí, nepočuje, nepozná, nevenuje</em></td></tr>
-  <tr style="background:lightgray"><td>VKjsc+</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp,Perf|Mood=Ind|Negative=Pos|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin</td><td><em>dá, stačí, venuje, počuje, reaguje</em></td></tr>
-  <tr><td>VLdpah-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Negative=Neg|Number=Plur|Person=1|Tense=Past|VerbForm=Part</td><td><em>nenašli, nedohodli, nepochopili, nezaspali, nešli</em></td></tr>
-  <tr style="background:lightgray"><td>VLdpah+</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Negative=Pos|Number=Plur|Person=1|Tense=Past|VerbForm=Part</td><td><em>našli, urobili, prišli, stretli, vyšli</em></td></tr>
-  <tr><td>VLdpbh-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Negative=Neg|Number=Plur|Person=2|Tense=Past|VerbForm=Part</td><td><em>nezistili, nenašli, nedokázali, nezdedili, neporadili</em></td></tr>
-  <tr style="background:lightgray"><td>VLdpbh+</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Negative=Pos|Number=Plur|Person=2|Tense=Past|VerbForm=Part</td><td><em>urobili, prišli, povedali, našli, vykonali</em></td></tr>
-  <tr><td>VLdpcf-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Gender=Fem|Negative=Neg|Number=Plur|Person=3|Tense=Past|VerbForm=Part</td><td><em>nedokázali, neurobili, nezachovali, neprešli, nezavážili</em></td></tr>
-  <tr style="background:lightgray"><td>VLdpcf+</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Gender=Fem|Negative=Pos|Number=Plur|Person=3|Tense=Past|VerbForm=Part</td><td><em>vykúkli, vykuli</em></td></tr>
-  <tr><td>VLdpci-</td><td>=&gt;</td><td>VERB</td><td>Animacy=Inan|Aspect=Perf|Gender=Masc|Negative=Neg|Number=Plur|Person=3|Tense=Past|VerbForm=Part</td><td><em>neskončili, nepriniesli, neujali, nestali, neuzatvorili</em></td></tr>
-  <tr style="background:lightgray"><td>VLdpci+</td><td>=&gt;</td><td>VERB</td><td>Animacy=Inan|Aspect=Perf|Gender=Masc|Negative=Pos|Number=Plur|Person=3|Tense=Past|VerbForm=Part</td><td><em>prejavil, vedli, uspôsobili, vynesli, spôsobili</em></td></tr>
-  <tr><td>VLdpcm-</td><td>=&gt;</td><td>VERB</td><td>Animacy=Anim|Aspect=Perf|Gender=Masc|Negative=Neg|Number=Plur|Person=3|Tense=Past|VerbForm=Part</td><td><em>nedokázali, nenašli, neprehovorili, nevšimli, nepozreli</em></td></tr>
-  <tr style="background:lightgray"><td>VLdpcm+</td><td>=&gt;</td><td>VERB</td><td>Animacy=Anim|Aspect=Perf|Gender=Masc|Negative=Pos|Number=Plur|Person=3|Tense=Past|VerbForm=Part</td><td><em>hodnotili</em></td></tr>
-  <tr><td>VLdpcn-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Gender=Neut|Negative=Neg|Number=Plur|Person=3|Tense=Past|VerbForm=Part</td><td><em>nevzišli, nevytvorili, nezhromaždili, nezačali, nežmurkli</em></td></tr>
-  <tr style="background:lightgray"><td>VLdpcn+</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Gender=Neut|Negative=Pos|Number=Plur|Person=3|Tense=Past|VerbForm=Part</td><td><em>dokkreslili</em></td></tr>
-  <tr><td>VLdsaf-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Gender=Fem|Negative=Neg|Number=Sing|Person=1|Tense=Past|VerbForm=Part</td><td><em>nedokázal, neprechadla</em></td></tr>
-  <tr style="background:lightgray"><td>VLdsaf+</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Gender=Fem|Negative=Pos|Number=Sing|Person=1|Tense=Past|VerbForm=Part</td><td><em>odšuchatala</em></td></tr>
-  <tr><td>VLdsai-</td><td>=&gt;</td><td>VERB</td><td>Animacy=Inan|Aspect=Perf|Gender=Masc|Negative=Neg|Number=Sing|Person=1|Tense=Past|VerbForm=Part</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>VLdsai+</td><td>=&gt;</td><td>VERB</td><td>Animacy=Inan|Aspect=Perf|Gender=Masc|Negative=Pos|Number=Sing|Person=1|Tense=Past|VerbForm=Part</td><td><em></em></td></tr>
-  <tr><td>VLdsam-</td><td>=&gt;</td><td>VERB</td><td>Animacy=Anim|Aspect=Perf|Gender=Masc|Negative=Neg|Number=Sing|Person=1|Tense=Past|VerbForm=Part</td><td><em>nedpovedal</em></td></tr>
-  <tr style="background:lightgray"><td>VLdsam+</td><td>=&gt;</td><td>VERB</td><td>Animacy=Anim|Aspect=Perf|Gender=Masc|Negative=Pos|Number=Sing|Person=1|Tense=Past|VerbForm=Part</td><td><em>povyzvrtál</em></td></tr>
-  <tr><td>VLdsan-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Gender=Neut|Negative=Neg|Number=Sing|Person=1|Tense=Past|VerbForm=Part</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>VLdsan+</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Gender=Neut|Negative=Pos|Number=Sing|Person=1|Tense=Past|VerbForm=Part</td><td><em></em></td></tr>
-  <tr><td>VLdsbf-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Gender=Fem|Negative=Neg|Number=Sing|Person=2|Tense=Past|VerbForm=Part</td><td><em>Nezlomila, neuhádla, neporanila, nestiahla, nepovedala</em></td></tr>
-  <tr style="background:lightgray"><td>VLdsbf+</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Gender=Fem|Negative=Pos|Number=Sing|Person=2|Tense=Past|VerbForm=Part</td><td><em>zistila, urobila, dostala, prišla, privoňala</em></td></tr>
-  <tr><td>VLdsbi-</td><td>=&gt;</td><td>VERB</td><td>Animacy=Inan|Aspect=Perf|Gender=Masc|Negative=Neg|Number=Sing|Person=2|Tense=Past|VerbForm=Part</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>VLdsbi+</td><td>=&gt;</td><td>VERB</td><td>Animacy=Inan|Aspect=Perf|Gender=Masc|Negative=Pos|Number=Sing|Person=2|Tense=Past|VerbForm=Part</td><td><em></em></td></tr>
-  <tr><td>VLdsbm-</td><td>=&gt;</td><td>VERB</td><td>Animacy=Anim|Aspect=Perf|Gender=Masc|Negative=Neg|Number=Sing|Person=2|Tense=Past|VerbForm=Part</td><td><em>neurobil, nestratil, nedorátal, nesotil, nezabudol</em></td></tr>
-  <tr style="background:lightgray"><td>VLdsbm+</td><td>=&gt;</td><td>VERB</td><td>Animacy=Anim|Aspect=Perf|Gender=Masc|Negative=Pos|Number=Sing|Person=2|Tense=Past|VerbForm=Part</td><td><em>prišiel, dostal, odišiel, vrátil, uznal</em></td></tr>
-  <tr><td>VLdsbn-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Gender=Neut|Negative=Neg|Number=Sing|Person=2|Tense=Past|VerbForm=Part</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>VLdsbn+</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Gender=Neut|Negative=Pos|Number=Sing|Person=2|Tense=Past|VerbForm=Part</td><td><em></em></td></tr>
-  <tr><td>VLdscf-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Gender=Fem|Negative=Neg|Number=Sing|Person=3|Tense=Past|VerbForm=Part</td><td><em>nezmenila, nezostala, nedokázala, nevšimla, neobjavila</em></td></tr>
-  <tr style="background:lightgray"><td>VLdscf+</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Gender=Fem|Negative=Pos|Number=Sing|Person=3|Tense=Past|VerbForm=Part</td><td><em>zasypela, masla, zoslábla, skalpla</em></td></tr>
-  <tr><td>VLdsci-</td><td>=&gt;</td><td>VERB</td><td>Animacy=Inan|Aspect=Perf|Gender=Masc|Negative=Neg|Number=Sing|Person=3|Tense=Past|VerbForm=Part</td><td><em>nedokázal, nezmenil, nedosiahol, neprišiel, nevyšiel</em></td></tr>
-  <tr style="background:lightgray"><td>VLdsci+</td><td>=&gt;</td><td>VERB</td><td>Animacy=Inan|Aspect=Perf|Gender=Masc|Negative=Pos|Number=Sing|Person=3|Tense=Past|VerbForm=Part</td><td><em>začal, stal, vznikol, nastal, prišiel</em></td></tr>
-  <tr><td>VLdscm-</td><td>=&gt;</td><td>VERB</td><td>Animacy=Anim|Aspect=Perf|Gender=Masc|Negative=Neg|Number=Sing|Person=3|Tense=Past|VerbForm=Part</td><td><em>nedokázal, nepovedal, nedostal, neurobil, nepozrel</em></td></tr>
-  <tr style="background:lightgray"><td>VLdscm+</td><td>=&gt;</td><td>VERB</td><td>Animacy=Anim|Aspect=Perf|Gender=Masc|Negative=Pos|Number=Sing|Person=3|Tense=Past|VerbForm=Part</td><td><em>zapříčinil, privola, zúčasnil, odesekol, pomohl</em></td></tr>
-  <tr><td>VLdscn-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Gender=Neut|Negative=Neg|Number=Sing|Person=3|Tense=Past|VerbForm=Part</td><td><em>nespnilo</em></td></tr>
-  <tr style="background:lightgray"><td>VLdscn+</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Gender=Neut|Negative=Pos|Number=Sing|Person=3|Tense=Past|VerbForm=Part</td><td><em>Zomrelo</em></td></tr>
-  <tr><td>VLepah-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Negative=Neg|Number=Plur|Person=1|Tense=Past|VerbForm=Part</td><td><em>nerobili, nemali, neboli, nechceli, nemohli</em></td></tr>
-  <tr style="background:lightgray"><td>VLepah+</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Negative=Pos|Number=Plur|Person=1|Tense=Past|VerbForm=Part</td><td><em>mali, boli, mohli, išli, videli</em></td></tr>
-  <tr><td>VLepbh-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Negative=Neg|Number=Plur|Person=2|Tense=Past|VerbForm=Part</td><td><em>Nevydeli</em></td></tr>
-  <tr style="background:lightgray"><td>VLepbh+</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Negative=Pos|Number=Plur|Person=2|Tense=Past|VerbForm=Part</td><td><em>mali, mohli, boli, chceli, museli</em></td></tr>
-  <tr><td>VLepcf-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Gender=Fem|Negative=Neg|Number=Plur|Person=3|Tense=Past|VerbForm=Part</td><td><em>neboli, nemali, nemohli, nechceli, nejestvovali</em></td></tr>
-  <tr style="background:lightgray"><td>VLepcf+</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Gender=Fem|Negative=Pos|Number=Plur|Person=3|Tense=Past|VerbForm=Part</td><td><em>vykresľovaly</em></td></tr>
-  <tr><td>VLepci-</td><td>=&gt;</td><td>VERB</td><td>Animacy=Inan|Aspect=Imp|Gender=Masc|Negative=Neg|Number=Plur|Person=3|Tense=Past|VerbForm=Part</td><td><em>neboli, nemali, nejestvovali, nemohli, nevznikali</em></td></tr>
-  <tr style="background:lightgray"><td>VLepci+</td><td>=&gt;</td><td>VERB</td><td>Animacy=Inan|Aspect=Imp|Gender=Masc|Negative=Pos|Number=Plur|Person=3|Tense=Past|VerbForm=Part</td><td><em>zlatili, hlásli</em></td></tr>
-  <tr><td>VLepcm-</td><td>=&gt;</td><td>VERB</td><td>Animacy=Anim|Aspect=Imp|Gender=Masc|Negative=Neg|Number=Plur|Person=3|Tense=Past|VerbForm=Part</td><td><em>nemali, neboli, nemohli, nevedeli, nechceli</em></td></tr>
-  <tr style="background:lightgray"><td>VLepcm+</td><td>=&gt;</td><td>VERB</td><td>Animacy=Anim|Aspect=Imp|Gender=Masc|Negative=Pos|Number=Plur|Person=3|Tense=Past|VerbForm=Part</td><td><em>šili, letelei, plýtvali, byli</em></td></tr>
-  <tr><td>VLepcn-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Gender=Neut|Negative=Neg|Number=Plur|Person=3|Tense=Past|VerbForm=Part</td><td><em>neboli, nemohli, nevedeli, neposielali, neprinášali</em></td></tr>
-  <tr style="background:lightgray"><td>VLepcn+</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Gender=Neut|Negative=Pos|Number=Plur|Person=3|Tense=Past|VerbForm=Part</td><td><em>cítli</em></td></tr>
-  <tr><td>VLesaf-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Gender=Fem|Negative=Neg|Number=Sing|Person=1|Tense=Past|VerbForm=Part</td><td><em>nevidela, nemala, nemohla, nevedela, nebola</em></td></tr>
-  <tr style="background:lightgray"><td>VLesaf+</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Gender=Fem|Negative=Pos|Number=Sing|Person=1|Tense=Past|VerbForm=Part</td><td><em>odchádza</em></td></tr>
-  <tr><td>VLesai-</td><td>=&gt;</td><td>VERB</td><td>Animacy=Inan|Aspect=Imp|Gender=Masc|Negative=Neg|Number=Sing|Person=1|Tense=Past|VerbForm=Part</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>VLesai+</td><td>=&gt;</td><td>VERB</td><td>Animacy=Inan|Aspect=Imp|Gender=Masc|Negative=Pos|Number=Sing|Person=1|Tense=Past|VerbForm=Part</td><td><em></em></td></tr>
-  <tr><td>VLesam-</td><td>=&gt;</td><td>VERB</td><td>Animacy=Anim|Aspect=Imp|Gender=Masc|Negative=Neg|Number=Sing|Person=1|Tense=Past|VerbForm=Part</td><td><em>nemohol, nemal, nevedel, nevidel, nebol</em></td></tr>
-  <tr style="background:lightgray"><td>VLesam+</td><td>=&gt;</td><td>VERB</td><td>Animacy=Anim|Aspect=Imp|Gender=Masc|Negative=Pos|Number=Sing|Person=1|Tense=Past|VerbForm=Part</td><td><em>Bol</em></td></tr>
-  <tr><td>VLesan-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Gender=Neut|Negative=Neg|Number=Sing|Person=1|Tense=Past|VerbForm=Part</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>VLesan+</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Gender=Neut|Negative=Pos|Number=Sing|Person=1|Tense=Past|VerbForm=Part</td><td><em></em></td></tr>
-  <tr><td>VLesbf-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Gender=Fem|Negative=Neg|Number=Sing|Person=2|Tense=Past|VerbForm=Part</td><td><em>nebola, nemala, nechcela, nespomínala, Nehovorila</em></td></tr>
-  <tr style="background:lightgray"><td>VLesbf+</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Gender=Fem|Negative=Pos|Number=Sing|Person=2|Tense=Past|VerbForm=Part</td><td><em>bola, chcela, mala, plakala, Verila</em></td></tr>
-  <tr><td>VLesbi-</td><td>=&gt;</td><td>VERB</td><td>Animacy=Inan|Aspect=Imp|Gender=Masc|Negative=Neg|Number=Sing|Person=2|Tense=Past|VerbForm=Part</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>VLesbi+</td><td>=&gt;</td><td>VERB</td><td>Animacy=Inan|Aspect=Imp|Gender=Masc|Negative=Pos|Number=Sing|Person=2|Tense=Past|VerbForm=Part</td><td><em></em></td></tr>
-  <tr><td>VLesbm-</td><td>=&gt;</td><td>VERB</td><td>Animacy=Anim|Aspect=Imp|Gender=Masc|Negative=Neg|Number=Sing|Person=2|Tense=Past|VerbForm=Part</td><td><em>nemal, nemohol, nevedel, nevidel, nemyslel</em></td></tr>
-  <tr style="background:lightgray"><td>VLesbm+</td><td>=&gt;</td><td>VERB</td><td>Animacy=Anim|Aspect=Imp|Gender=Masc|Negative=Pos|Number=Sing|Person=2|Tense=Past|VerbForm=Part</td><td><em>mal, bol, chcel, mohol, vedel</em></td></tr>
-  <tr><td>VLesbn-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Gender=Neut|Negative=Neg|Number=Sing|Person=2|Tense=Past|VerbForm=Part</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>VLesbn+</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Gender=Neut|Negative=Pos|Number=Sing|Person=2|Tense=Past|VerbForm=Part</td><td><em></em></td></tr>
-  <tr><td>VLescf-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Gender=Fem|Negative=Neg|Number=Sing|Person=3|Tense=Past|VerbForm=Part</td><td><em>nebola, nemala, nemohla, nevedela, nechcela</em></td></tr>
-  <tr style="background:lightgray"><td>VLescf+</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Gender=Fem|Negative=Pos|Number=Sing|Person=3|Tense=Past|VerbForm=Part</td><td><em>bol, preberela, pozeral</em></td></tr>
-  <tr><td>VLesci-</td><td>=&gt;</td><td>VERB</td><td>Animacy=Inan|Aspect=Imp|Gender=Masc|Negative=Neg|Number=Sing|Person=3|Tense=Past|VerbForm=Part</td><td><em>nebol, nemal, nemohol, nejestvoval, neexistoval</em></td></tr>
-  <tr style="background:lightgray"><td>VLesci+</td><td>=&gt;</td><td>VERB</td><td>Animacy=Inan|Aspect=Imp|Gender=Masc|Negative=Pos|Number=Sing|Person=3|Tense=Past|VerbForm=Part</td><td><em>Tvorilo, následoval, bolo</em></td></tr>
-  <tr><td>VLescm-</td><td>=&gt;</td><td>VERB</td><td>Animacy=Anim|Aspect=Imp|Gender=Masc|Negative=Neg|Number=Sing|Person=3|Tense=Past|VerbForm=Part</td><td><em>nevyzera, Nemohlo, nchýbal</em></td></tr>
-  <tr style="background:lightgray"><td>VLescm+</td><td>=&gt;</td><td>VERB</td><td>Animacy=Anim|Aspect=Imp|Gender=Masc|Negative=Pos|Number=Sing|Person=3|Tense=Past|VerbForm=Part</td><td><em>vieodl, potláčala, škarbkal, mierul, pophyboval</em></td></tr>
-  <tr><td>VLescn-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Gender=Neut|Negative=Neg|Number=Sing|Person=3|Tense=Past|VerbForm=Part</td><td><em>nebolo, nemalo, nechcelo, nemohlo, nepáčilo</em></td></tr>
-  <tr style="background:lightgray"><td>VLescn+</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Gender=Neut|Negative=Pos|Number=Sing|Person=3|Tense=Past|VerbForm=Part</td><td><em>bol, viedol, bola, Bolo, mala</em></td></tr>
-  <tr><td>VLjpah-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp,Perf|Negative=Neg|Number=Plur|Person=1|Tense=Past|VerbForm=Part</td><td><em>nepoznali, nedali, nepočuli</em></td></tr>
-  <tr style="background:lightgray"><td>VLjpah+</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp,Perf|Negative=Pos|Number=Plur|Person=1|Tense=Past|VerbForm=Part</td><td><em>počuli, dali, informovali, poznali, transformovali</em></td></tr>
-  <tr><td>VLjpbh-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp,Perf|Negative=Neg|Number=Plur|Person=2|Tense=Past|VerbForm=Part</td><td><em>nedali, nepočuli</em></td></tr>
-  <tr style="background:lightgray"><td>VLjpbh+</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp,Perf|Negative=Pos|Number=Plur|Person=2|Tense=Past|VerbForm=Part</td><td><em>počuli, stačili, dali, registrovali, komentovali</em></td></tr>
-  <tr><td>VLjpcf-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp,Perf|Gender=Fem|Negative=Neg|Number=Plur|Person=3|Tense=Past|VerbForm=Part</td><td><em>nedali, nestačili</em></td></tr>
-  <tr style="background:lightgray"><td>VLjpcf+</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp,Perf|Gender=Fem|Negative=Pos|Number=Plur|Person=3|Tense=Past|VerbForm=Part</td><td><em>stačili, dali, počuli, generovali, explodovali</em></td></tr>
-  <tr><td>VLjpci-</td><td>=&gt;</td><td>VERB</td><td>Animacy=Inan|Aspect=Imp,Perf|Gender=Masc|Negative=Neg|Number=Plur|Person=3|Tense=Past|VerbForm=Part</td><td><em>nedali, neangažovali, nepoznali, nekolonizovali</em></td></tr>
-  <tr style="background:lightgray"><td>VLjpci+</td><td>=&gt;</td><td>VERB</td><td>Animacy=Inan|Aspect=Imp,Perf|Gender=Masc|Negative=Pos|Number=Plur|Person=3|Tense=Past|VerbForm=Part</td><td><em>dali, formovali, stačili, charakterizovali, parafrázovali</em></td></tr>
-  <tr><td>VLjpcm-</td><td>=&gt;</td><td>VERB</td><td>Animacy=Anim|Aspect=Imp,Perf|Gender=Masc|Negative=Neg|Number=Plur|Person=3|Tense=Past|VerbForm=Part</td><td><em>nestačili, neidentifikovali, nepočuli, nedemaskovali, nereagovali</em></td></tr>
-  <tr style="background:lightgray"><td>VLjpcm+</td><td>=&gt;</td><td>VERB</td><td>Animacy=Anim|Aspect=Imp,Perf|Gender=Masc|Negative=Pos|Number=Plur|Person=3|Tense=Past|VerbForm=Part</td><td><em>dali, počuli, venovali, reagovali, formulovali</em></td></tr>
-  <tr><td>VLjpcn-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp,Perf|Gender=Neut|Negative=Neg|Number=Plur|Person=3|Tense=Past|VerbForm=Part</td><td><em>nedali</em></td></tr>
-  <tr style="background:lightgray"><td>VLjpcn+</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp,Perf|Gender=Neut|Negative=Pos|Number=Plur|Person=3|Tense=Past|VerbForm=Part</td><td><em>dali, symbolizovali, venovali, deklarovali, prezentovali</em></td></tr>
-  <tr><td>VLjsaf-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp,Perf|Gender=Fem|Negative=Neg|Number=Sing|Person=1|Tense=Past|VerbForm=Part</td><td><em>nestačila, nepočula, nepoznala, neodpovedala</em></td></tr>
-  <tr style="background:lightgray"><td>VLjsaf+</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp,Perf|Gender=Fem|Negative=Pos|Number=Sing|Person=1|Tense=Past|VerbForm=Part</td><td><em>dala, počula, poznala, odpovedala, stačila</em></td></tr>
-  <tr><td>VLjsai-</td><td>=&gt;</td><td>VERB</td><td>Animacy=Inan|Aspect=Imp,Perf|Gender=Masc|Negative=Neg|Number=Sing|Person=1|Tense=Past|VerbForm=Part</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>VLjsai+</td><td>=&gt;</td><td>VERB</td><td>Animacy=Inan|Aspect=Imp,Perf|Gender=Masc|Negative=Pos|Number=Sing|Person=1|Tense=Past|VerbForm=Part</td><td><em></em></td></tr>
-  <tr><td>VLjsam-</td><td>=&gt;</td><td>VERB</td><td>Animacy=Anim|Aspect=Imp,Perf|Gender=Masc|Negative=Neg|Number=Sing|Person=1|Tense=Past|VerbForm=Part</td><td><em>nepočul, nepoznal, nedal, Neodpovedal, Nereagoval</em></td></tr>
-  <tr style="background:lightgray"><td>VLjsam+</td><td>=&gt;</td><td>VERB</td><td>Animacy=Anim|Aspect=Imp,Perf|Gender=Masc|Negative=Pos|Number=Sing|Person=1|Tense=Past|VerbForm=Part</td><td><em>počul, dal, poznal, odpovedal, demonštroval</em></td></tr>
-  <tr><td>VLjsan-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp,Perf|Gender=Neut|Negative=Neg|Number=Sing|Person=1|Tense=Past|VerbForm=Part</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>VLjsan+</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp,Perf|Gender=Neut|Negative=Pos|Number=Sing|Person=1|Tense=Past|VerbForm=Part</td><td><em></em></td></tr>
-  <tr><td>VLjsbf-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp,Perf|Gender=Fem|Negative=Neg|Number=Sing|Person=2|Tense=Past|VerbForm=Part</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>VLjsbf+</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp,Perf|Gender=Fem|Negative=Pos|Number=Sing|Person=2|Tense=Past|VerbForm=Part</td><td><em>Počula, explodovala</em></td></tr>
-  <tr><td>VLjsbi-</td><td>=&gt;</td><td>VERB</td><td>Animacy=Inan|Aspect=Imp,Perf|Gender=Masc|Negative=Neg|Number=Sing|Person=2|Tense=Past|VerbForm=Part</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>VLjsbi+</td><td>=&gt;</td><td>VERB</td><td>Animacy=Inan|Aspect=Imp,Perf|Gender=Masc|Negative=Pos|Number=Sing|Person=2|Tense=Past|VerbForm=Part</td><td><em>počul</em></td></tr>
-  <tr><td>VLjsbm-</td><td>=&gt;</td><td>VERB</td><td>Animacy=Anim|Aspect=Imp,Perf|Gender=Masc|Negative=Neg|Number=Sing|Person=2|Tense=Past|VerbForm=Part</td><td><em>Nedal, nepočul</em></td></tr>
-  <tr style="background:lightgray"><td>VLjsbm+</td><td>=&gt;</td><td>VERB</td><td>Animacy=Anim|Aspect=Imp,Perf|Gender=Masc|Negative=Pos|Number=Sing|Person=2|Tense=Past|VerbForm=Part</td><td><em>dal, počul, obetoval</em></td></tr>
-  <tr><td>VLjsbn-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp,Perf|Gender=Neut|Negative=Neg|Number=Sing|Person=2|Tense=Past|VerbForm=Part</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>VLjsbn+</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp,Perf|Gender=Neut|Negative=Pos|Number=Sing|Person=2|Tense=Past|VerbForm=Part</td><td><em></em></td></tr>
-  <tr><td>VLjscf-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp,Perf|Gender=Fem|Negative=Neg|Number=Sing|Person=3|Tense=Past|VerbForm=Part</td><td><em>nedala, nepočula, nevenovala, nestačila, nereagovala</em></td></tr>
-  <tr style="background:lightgray"><td>VLjscf+</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp,Perf|Gender=Fem|Negative=Pos|Number=Sing|Person=3|Tense=Past|VerbForm=Part</td><td><em>dala, počula, stačila, odpovedala, venovala</em></td></tr>
-  <tr><td>VLjsci-</td><td>=&gt;</td><td>VERB</td><td>Animacy=Inan|Aspect=Imp,Perf|Gender=Masc|Negative=Neg|Number=Sing|Person=3|Tense=Past|VerbForm=Part</td><td><em>nedal, nestačil</em></td></tr>
-  <tr style="background:lightgray"><td>VLjsci+</td><td>=&gt;</td><td>VERB</td><td>Animacy=Inan|Aspect=Imp,Perf|Gender=Masc|Negative=Pos|Number=Sing|Person=3|Tense=Past|VerbForm=Part</td><td><em>dal, stačil, datoval, informoval, formoval</em></td></tr>
-  <tr><td>VLjscm-</td><td>=&gt;</td><td>VERB</td><td>Animacy=Anim|Aspect=Imp,Perf|Gender=Masc|Negative=Neg|Number=Sing|Person=3|Tense=Past|VerbForm=Part</td><td><em>nepočul, nedal, neodpovedal, nevenoval, nestačil</em></td></tr>
-  <tr style="background:lightgray"><td>VLjscm+</td><td>=&gt;</td><td>VERB</td><td>Animacy=Anim|Aspect=Imp,Perf|Gender=Masc|Negative=Pos|Number=Sing|Person=3|Tense=Past|VerbForm=Part</td><td><em>zvetoval</em></td></tr>
-  <tr><td>VLjscn-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp,Perf|Gender=Neut|Negative=Neg|Number=Sing|Person=3|Tense=Past|VerbForm=Part</td><td><em>nedalo, nestačilo, Nezodpovedalo, Neinvestovalo, nehodilo</em></td></tr>
-  <tr style="background:lightgray"><td>VLjscn+</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp,Perf|Gender=Neut|Negative=Pos|Number=Sing|Person=3|Tense=Past|VerbForm=Part</td><td><em>dalo, stačilo, inšpirovalo, formovalo, deformovalo</em></td></tr>
-  <tr><td>VMdpa-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Mood=Imp|Negative=Neg|Number=Plur|Person=1|VerbForm=Fin</td><td><em>Neuspokojme</em></td></tr>
-  <tr style="background:lightgray"><td>VMdpa+</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Mood=Imp|Negative=Pos|Number=Plur|Person=1|VerbForm=Fin</td><td><em>uveďme, spomeňme, urobme, Vezmime, Dokážme</em></td></tr>
-  <tr><td>VMdpb-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Mood=Imp|Negative=Neg|Number=Plur|Person=2|VerbForm=Fin</td><td><em>Nepodľahnite, Nenechajte, nebodnite, nezabudnite, Nezobuďte</em></td></tr>
-  <tr style="background:lightgray"><td>VMdpb+</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Mood=Imp|Negative=Pos|Number=Plur|Person=2|VerbForm=Fin</td><td><em>ráčte</em></td></tr>
-  <tr><td>VMdsb-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Mood=Imp|Negative=Neg|Number=Sing|Person=2|VerbForm=Fin</td><td><em>neudri, Nezabudni, Nepriblíž, neroztrúb, neopováž</em></td></tr>
-  <tr style="background:lightgray"><td>VMdsb+</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Mood=Imp|Negative=Pos|Number=Sing|Person=2|VerbForm=Fin</td><td><em>pozri, povedz, počkaj, nechaj, predstav</em></td></tr>
-  <tr><td>VMepa-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Imp|Negative=Neg|Number=Plur|Person=1|VerbForm=Fin</td><td><em>nehovorme, Nerúhajme, nepozerajme, nereptajme, neobzerajme</em></td></tr>
-  <tr style="background:lightgray"><td>VMepa+</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Imp|Negative=Pos|Number=Plur|Person=1|VerbForm=Fin</td><td><em>poďme, berme, pomáhajme, Myslime, Učme</em></td></tr>
-  <tr><td>VMepb-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Imp|Negative=Neg|Number=Plur|Person=2|VerbForm=Fin</td><td><em>nemyslite, nehovorte, nepokúšajte, nepýtajte, Nemiešajte</em></td></tr>
-  <tr style="background:lightgray"><td>VMepb+</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Imp|Negative=Pos|Number=Plur|Person=2|VerbForm=Fin</td><td><em>choďte, buďte, počúvajte, vedzte, verte</em></td></tr>
-  <tr><td>VMesb-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Imp|Negative=Neg|Number=Sing|Person=2|VerbForm=Fin</td><td><em>neboj, nebuď, nehovor, nerob, Nezabúdaj</em></td></tr>
-  <tr style="background:lightgray"><td>VMesb+</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Imp|Negative=Pos|Number=Sing|Person=2|VerbForm=Fin</td><td><em>Čakaj</em></td></tr>
-  <tr><td>VMjpa-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp,Perf|Mood=Imp|Negative=Neg|Number=Plur|Person=1|VerbForm=Fin</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>VMjpa+</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp,Perf|Mood=Imp|Negative=Pos|Number=Plur|Person=1|VerbForm=Fin</td><td><em></em></td></tr>
-  <tr><td>VMjpb-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp,Perf|Mood=Imp|Negative=Neg|Number=Plur|Person=2|VerbForm=Fin</td><td><em>nedajte, Neriskujte</em></td></tr>
-  <tr style="background:lightgray"><td>VMjpb+</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp,Perf|Mood=Imp|Negative=Pos|Number=Plur|Person=2|VerbForm=Fin</td><td><em>Počujte, dajte, servírujte, obetujte, Dávajte</em></td></tr>
-  <tr><td>VMjsb-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp,Perf|Mood=Imp|Negative=Neg|Number=Sing|Person=2|VerbForm=Fin</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>VMjsb+</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp,Perf|Mood=Imp|Negative=Pos|Number=Sing|Person=2|VerbForm=Fin</td><td><em>daj, počuj, Obetuj, Dávaj, venuj</em></td></tr>
+  <tr style="background:lightgray"><td>VBepa-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Polarity=Neg|Tense=Fut|VerbForm=Fin</td><td><em>nebudeme, Nepôjdeme</em></td></tr>
+  <tr><td>VBepa+</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Fut|VerbForm=Fin</td><td><em>budeme, pôjdeme, Poletíme</em></td></tr>
+  <tr style="background:lightgray"><td>VBepb-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Polarity=Neg|Tense=Fut|VerbForm=Fin</td><td><em>nebudete</em></td></tr>
+  <tr><td>VBepb+</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Polarity=Pos|Tense=Fut|VerbForm=Fin</td><td><em>budete, pôjdete, Leťte, pobežíte</em></td></tr>
+  <tr style="background:lightgray"><td>VBepc-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Polarity=Neg|Tense=Fut|VerbForm=Fin</td><td><em>nebudú</em></td></tr>
+  <tr><td>VBepc+</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Fut|VerbForm=Fin</td><td><em>budú, pôjdu</em></td></tr>
+  <tr style="background:lightgray"><td>VBesa-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Polarity=Neg|Tense=Fut|VerbForm=Fin</td><td><em>nebudem, nepôjdem</em></td></tr>
+  <tr><td>VBesa+</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Fut|VerbForm=Fin</td><td><em>budem, pôjdem, Poletím, nájdem</em></td></tr>
+  <tr style="background:lightgray"><td>VBesb-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Polarity=Neg|Tense=Fut|VerbForm=Fin</td><td><em>nebudeš, nepôjdeš, nemusíš</em></td></tr>
+  <tr><td>VBesb+</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Polarity=Pos|Tense=Fut|VerbForm=Fin</td><td><em>budeš, pôjdeš, buď, Pocestuješ, poletíš</em></td></tr>
+  <tr style="background:lightgray"><td>VBesc-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Fut|VerbForm=Fin</td><td><em>nebude, nepovedie, nepôjde</em></td></tr>
+  <tr><td>VBesc+</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Fut|VerbForm=Fin</td><td><em>bude, pôjde, potrvá, Poletí, budú</em></td></tr>
+  <tr style="background:lightgray"><td>VBjpa-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp,Perf|Mood=Ind|Number=Plur|Person=1|Polarity=Neg|Tense=Fut|VerbForm=Fin</td><td><em></em></td></tr>
+  <tr><td>VBjpa+</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp,Perf|Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Fut|VerbForm=Fin</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>VBjpb-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp,Perf|Mood=Ind|Number=Plur|Person=2|Polarity=Neg|Tense=Fut|VerbForm=Fin</td><td><em></em></td></tr>
+  <tr><td>VBjpb+</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp,Perf|Mood=Ind|Number=Plur|Person=2|Polarity=Pos|Tense=Fut|VerbForm=Fin</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>VBjpc-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp,Perf|Mood=Ind|Number=Plur|Person=3|Polarity=Neg|Tense=Fut|VerbForm=Fin</td><td><em></em></td></tr>
+  <tr><td>VBjpc+</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp,Perf|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Fut|VerbForm=Fin</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>VBjsa-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp,Perf|Mood=Ind|Number=Sing|Person=1|Polarity=Neg|Tense=Fut|VerbForm=Fin</td><td><em></em></td></tr>
+  <tr><td>VBjsa+</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp,Perf|Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Fut|VerbForm=Fin</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>VBjsb-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp,Perf|Mood=Ind|Number=Sing|Person=2|Polarity=Neg|Tense=Fut|VerbForm=Fin</td><td><em></em></td></tr>
+  <tr><td>VBjsb+</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp,Perf|Mood=Ind|Number=Sing|Person=2|Polarity=Pos|Tense=Fut|VerbForm=Fin</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>VBjsc-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp,Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Fut|VerbForm=Fin</td><td><em></em></td></tr>
+  <tr><td>VBjsc+</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp,Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Fut|VerbForm=Fin</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>VHd-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Polarity=Neg|VerbForm=Conv</td><td><em>nezdvihnúc</em></td></tr>
+  <tr><td>VHd+</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Polarity=Pos|VerbForm=Conv</td><td><em>povediac, použijúc, počnúc, vytvoriac, pojmúc</em></td></tr>
+  <tr style="background:lightgray"><td>VHe-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Polarity=Neg|VerbForm=Conv</td><td><em>nehovoriac, nechtiac, nečakajúc, nespomínajúc, Nespúšťajúc</em></td></tr>
+  <tr><td>VHe+</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Polarity=Pos|VerbForm=Conv</td><td><em>požiciavajúc</em></td></tr>
+  <tr style="background:lightgray"><td>VHj-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp,Perf|Polarity=Neg|VerbForm=Conv</td><td><em></em></td></tr>
+  <tr><td>VHj+</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp,Perf|Polarity=Pos|VerbForm=Conv</td><td><em>odpovedajúc, ignorujúc, dajúc</em></td></tr>
+  <tr style="background:lightgray"><td>VId-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Polarity=Neg|VerbForm=Inf</td><td><em>nekúpiť, neupútať, neprejaviť, neprečítať, nevyhovieť</em></td></tr>
+  <tr><td>VId+</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Polarity=Pos|VerbForm=Inf</td><td><em>Zobraziť</em></td></tr>
+  <tr style="background:lightgray"><td>VIe-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Polarity=Neg|VerbForm=Inf</td><td><em>Nevyrušovať</em></td></tr>
+  <tr><td>VIe+</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Polarity=Pos|VerbForm=Inf</td><td><em>rozbalovať, rozväzvovať, čítal, malovať, priklánať</em></td></tr>
+  <tr style="background:lightgray"><td>VIj-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp,Perf|Polarity=Neg|VerbForm=Inf</td><td><em>nepočuť, nedať</em></td></tr>
+  <tr><td>VIj+</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp,Perf|Polarity=Pos|VerbForm=Inf</td><td><em>dať, venovať, počuť, realizovať, komunikovať</em></td></tr>
+  <tr style="background:lightgray"><td>VKdpa-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Polarity=Neg|Tense=Pres|VerbForm=Fin</td><td><em>nedokážeme, nedozvieme, nenájdeme, neznášame, Nedovolíme</em></td></tr>
+  <tr><td>VKdpa+</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin</td><td><em>presnunieme</em></td></tr>
+  <tr style="background:lightgray"><td>VKdpb-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Mood=Ind|Number=Plur|Person=2|Polarity=Neg|Tense=Pres|VerbForm=Fin</td><td><em>nezáhráte, Nepridátete</em></td></tr>
+  <tr><td>VKdpb+</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Mood=Ind|Number=Plur|Person=2|Polarity=Pos|Tense=Pres|VerbForm=Fin</td><td><em>nájdete, dozviete, uvidíte, zistíte, dostanete</em></td></tr>
+  <tr style="background:lightgray"><td>VKdpc-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin</td><td><em>nepohŕdnu</em></td></tr>
+  <tr><td>VKdpc+</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin</td><td><em>presvedčia, trumfnú, odbachnu, dznejú</em></td></tr>
+  <tr style="background:lightgray"><td>VKdsa-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Polarity=Neg|Tense=Pres|VerbForm=Fin</td><td><em>neuspokjím</em></td></tr>
+  <tr><td>VKdsa+</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin</td><td><em>zavrem</em></td></tr>
+  <tr style="background:lightgray"><td>VKdsb-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Polarity=Neg|Tense=Pres|VerbForm=Fin</td><td><em>nevyrovnáš, nedokážeš, nedozvieš, nezomrieš, neuvidíš</em></td></tr>
+  <tr><td>VKdsb+</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Polarity=Pos|Tense=Pres|VerbForm=Fin</td><td><em>Uvodíš</em></td></tr>
+  <tr style="background:lightgray"><td>VKdsc-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin</td><td><em>nedokáže, nepodarí, nestane, nepríde, nedostane</em></td></tr>
+  <tr><td>VKdsc+</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin</td><td><em>pridfá</em></td></tr>
+  <tr style="background:lightgray"><td>VKe-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Polarity=Neg|Tense=Pres|VerbForm=Fin</td><td><em></em></td></tr>
+  <tr><td>VKepa-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Polarity=Neg|Tense=Pres|VerbForm=Fin</td><td><em>niesme</em></td></tr>
+  <tr style="background:lightgray"><td>VKepa+</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin</td><td><em>trpeme, možeme, mame, Posobíme</em></td></tr>
+  <tr><td>VKepb-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Polarity=Neg|Tense=Pres|VerbForm=Fin</td><td><em>ste, neviete, nemáte, nemusíte, nevidíte</em></td></tr>
+  <tr style="background:lightgray"><td>VKepb+</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Polarity=Pos|Tense=Pres|VerbForm=Fin</td><td><em>myslite, ussporadúvate</em></td></tr>
+  <tr><td>VKepc-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin</td><td><em>nemôžete</em></td></tr>
+  <tr style="background:lightgray"><td>VKepc+</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin</td><td><em>možu, presazujú, tiahnú, existuju, konájú</em></td></tr>
+  <tr><td>VKesa-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Polarity=Neg|Tense=Pres|VerbForm=Fin</td><td><em>neviem, nemám, nemôžem, som, nechcem</em></td></tr>
+  <tr style="background:lightgray"><td>VKesa+</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin</td><td><em>ĎAKUJEM</em></td></tr>
+  <tr><td>VKesb-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Polarity=Neg|Tense=Pres|VerbForm=Fin</td><td><em>si, nemáš, nesmieš, nemôžeš, nevieš</em></td></tr>
+  <tr style="background:lightgray"><td>VKesb+</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Polarity=Pos|Tense=Pres|VerbForm=Fin</td><td><em>si, máš, vieš, chceš, môžeš</em></td></tr>
+  <tr><td>VKesc-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin</td><td><em>netrvalo</em></td></tr>
+  <tr style="background:lightgray"><td>VKesc+</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin</td><td><em>žiada</em></td></tr>
+  <tr><td>VKjpa-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp,Perf|Mood=Ind|Number=Plur|Person=1|Polarity=Neg|Tense=Pres|VerbForm=Fin</td><td><em>Nestačíme, neexportujeme</em></td></tr>
+  <tr style="background:lightgray"><td>VKjpa+</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp,Perf|Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin</td><td><em>poznáme, stačíme, investujeme, venujeme, menujeme</em></td></tr>
+  <tr><td>VKjpb-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp,Perf|Mood=Ind|Number=Plur|Person=2|Polarity=Neg|Tense=Pres|VerbForm=Fin</td><td><em>nedáte, nepoznáte</em></td></tr>
+  <tr style="background:lightgray"><td>VKjpb+</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp,Perf|Mood=Ind|Number=Plur|Person=2|Polarity=Pos|Tense=Pres|VerbForm=Fin</td><td><em>poznáte, dáte, Počujete, falšujete</em></td></tr>
+  <tr><td>VKjpc-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp,Perf|Mood=Ind|Number=Plur|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin</td><td><em>nedajú, nestačia, neignorujú, nerezignujú, nehodia</em></td></tr>
+  <tr style="background:lightgray"><td>VKjpc+</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp,Perf|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin</td><td><em>dajú, poznajú, venujú, komunikujú, symbolizujú</em></td></tr>
+  <tr><td>VKjsa-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp,Perf|Mood=Ind|Number=Sing|Person=1|Polarity=Neg|Tense=Pres|VerbForm=Fin</td><td><em>nepoznám, neodpoviem, neodpovedám, nestačím, nedám</em></td></tr>
+  <tr style="background:lightgray"><td>VKjsa+</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp,Perf|Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin</td><td><em>dám, poznám, počujem, venujem, odpoviem</em></td></tr>
+  <tr><td>VKjsb-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp,Perf|Mood=Ind|Number=Sing|Person=2|Polarity=Neg|Tense=Pres|VerbForm=Fin</td><td><em>nedáš</em></td></tr>
+  <tr style="background:lightgray"><td>VKjsb+</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp,Perf|Mood=Ind|Number=Sing|Person=2|Polarity=Pos|Tense=Pres|VerbForm=Fin</td><td><em>poznáš, dáš, venuješ, počuješ, odpovieš</em></td></tr>
+  <tr><td>VKjsc-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp,Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin</td><td><em>nedá, nestačí, nepočuje, nepozná, nevenuje</em></td></tr>
+  <tr style="background:lightgray"><td>VKjsc+</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp,Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin</td><td><em>dá, stačí, venuje, počuje, reaguje</em></td></tr>
+  <tr><td>VLdpah-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Number=Plur|Person=1|Polarity=Neg|Tense=Past|VerbForm=Part</td><td><em>nenašli, nedohodli, nepochopili, nezaspali, nešli</em></td></tr>
+  <tr style="background:lightgray"><td>VLdpah+</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Number=Plur|Person=1|Polarity=Pos|Tense=Past|VerbForm=Part</td><td><em>našli, urobili, prišli, stretli, vyšli</em></td></tr>
+  <tr><td>VLdpbh-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Number=Plur|Person=2|Polarity=Neg|Tense=Past|VerbForm=Part</td><td><em>nezistili, nenašli, nedokázali, nezdedili, neporadili</em></td></tr>
+  <tr style="background:lightgray"><td>VLdpbh+</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Number=Plur|Person=2|Polarity=Pos|Tense=Past|VerbForm=Part</td><td><em>urobili, prišli, povedali, našli, vykonali</em></td></tr>
+  <tr><td>VLdpcf-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Gender=Fem|Number=Plur|Person=3|Polarity=Neg|Tense=Past|VerbForm=Part</td><td><em>nedokázali, neurobili, nezachovali, neprešli, nezavážili</em></td></tr>
+  <tr style="background:lightgray"><td>VLdpcf+</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Gender=Fem|Number=Plur|Person=3|Polarity=Pos|Tense=Past|VerbForm=Part</td><td><em>vykúkli, vykuli</em></td></tr>
+  <tr><td>VLdpci-</td><td>=&gt;</td><td>VERB</td><td>Animacy=Inan|Aspect=Perf|Gender=Masc|Number=Plur|Person=3|Polarity=Neg|Tense=Past|VerbForm=Part</td><td><em>neskončili, nepriniesli, neujali, nestali, neuzatvorili</em></td></tr>
+  <tr style="background:lightgray"><td>VLdpci+</td><td>=&gt;</td><td>VERB</td><td>Animacy=Inan|Aspect=Perf|Gender=Masc|Number=Plur|Person=3|Polarity=Pos|Tense=Past|VerbForm=Part</td><td><em>prejavil, vedli, uspôsobili, vynesli, spôsobili</em></td></tr>
+  <tr><td>VLdpcm-</td><td>=&gt;</td><td>VERB</td><td>Animacy=Anim|Aspect=Perf|Gender=Masc|Number=Plur|Person=3|Polarity=Neg|Tense=Past|VerbForm=Part</td><td><em>nedokázali, nenašli, neprehovorili, nevšimli, nepozreli</em></td></tr>
+  <tr style="background:lightgray"><td>VLdpcm+</td><td>=&gt;</td><td>VERB</td><td>Animacy=Anim|Aspect=Perf|Gender=Masc|Number=Plur|Person=3|Polarity=Pos|Tense=Past|VerbForm=Part</td><td><em>hodnotili</em></td></tr>
+  <tr><td>VLdpcn-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Gender=Neut|Number=Plur|Person=3|Polarity=Neg|Tense=Past|VerbForm=Part</td><td><em>nevzišli, nevytvorili, nezhromaždili, nezačali, nežmurkli</em></td></tr>
+  <tr style="background:lightgray"><td>VLdpcn+</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Gender=Neut|Number=Plur|Person=3|Polarity=Pos|Tense=Past|VerbForm=Part</td><td><em>dokkreslili</em></td></tr>
+  <tr><td>VLdsaf-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Gender=Fem|Number=Sing|Person=1|Polarity=Neg|Tense=Past|VerbForm=Part</td><td><em>nedokázal, neprechadla</em></td></tr>
+  <tr style="background:lightgray"><td>VLdsaf+</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Gender=Fem|Number=Sing|Person=1|Polarity=Pos|Tense=Past|VerbForm=Part</td><td><em>odšuchatala</em></td></tr>
+  <tr><td>VLdsai-</td><td>=&gt;</td><td>VERB</td><td>Animacy=Inan|Aspect=Perf|Gender=Masc|Number=Sing|Person=1|Polarity=Neg|Tense=Past|VerbForm=Part</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>VLdsai+</td><td>=&gt;</td><td>VERB</td><td>Animacy=Inan|Aspect=Perf|Gender=Masc|Number=Sing|Person=1|Polarity=Pos|Tense=Past|VerbForm=Part</td><td><em></em></td></tr>
+  <tr><td>VLdsam-</td><td>=&gt;</td><td>VERB</td><td>Animacy=Anim|Aspect=Perf|Gender=Masc|Number=Sing|Person=1|Polarity=Neg|Tense=Past|VerbForm=Part</td><td><em>nedpovedal</em></td></tr>
+  <tr style="background:lightgray"><td>VLdsam+</td><td>=&gt;</td><td>VERB</td><td>Animacy=Anim|Aspect=Perf|Gender=Masc|Number=Sing|Person=1|Polarity=Pos|Tense=Past|VerbForm=Part</td><td><em>povyzvrtál</em></td></tr>
+  <tr><td>VLdsan-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Gender=Neut|Number=Sing|Person=1|Polarity=Neg|Tense=Past|VerbForm=Part</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>VLdsan+</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Gender=Neut|Number=Sing|Person=1|Polarity=Pos|Tense=Past|VerbForm=Part</td><td><em></em></td></tr>
+  <tr><td>VLdsbf-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Gender=Fem|Number=Sing|Person=2|Polarity=Neg|Tense=Past|VerbForm=Part</td><td><em>Nezlomila, neuhádla, neporanila, nestiahla, nepovedala</em></td></tr>
+  <tr style="background:lightgray"><td>VLdsbf+</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Gender=Fem|Number=Sing|Person=2|Polarity=Pos|Tense=Past|VerbForm=Part</td><td><em>zistila, urobila, dostala, prišla, privoňala</em></td></tr>
+  <tr><td>VLdsbi-</td><td>=&gt;</td><td>VERB</td><td>Animacy=Inan|Aspect=Perf|Gender=Masc|Number=Sing|Person=2|Polarity=Neg|Tense=Past|VerbForm=Part</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>VLdsbi+</td><td>=&gt;</td><td>VERB</td><td>Animacy=Inan|Aspect=Perf|Gender=Masc|Number=Sing|Person=2|Polarity=Pos|Tense=Past|VerbForm=Part</td><td><em></em></td></tr>
+  <tr><td>VLdsbm-</td><td>=&gt;</td><td>VERB</td><td>Animacy=Anim|Aspect=Perf|Gender=Masc|Number=Sing|Person=2|Polarity=Neg|Tense=Past|VerbForm=Part</td><td><em>neurobil, nestratil, nedorátal, nesotil, nezabudol</em></td></tr>
+  <tr style="background:lightgray"><td>VLdsbm+</td><td>=&gt;</td><td>VERB</td><td>Animacy=Anim|Aspect=Perf|Gender=Masc|Number=Sing|Person=2|Polarity=Pos|Tense=Past|VerbForm=Part</td><td><em>prišiel, dostal, odišiel, vrátil, uznal</em></td></tr>
+  <tr><td>VLdsbn-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Gender=Neut|Number=Sing|Person=2|Polarity=Neg|Tense=Past|VerbForm=Part</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>VLdsbn+</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Gender=Neut|Number=Sing|Person=2|Polarity=Pos|Tense=Past|VerbForm=Part</td><td><em></em></td></tr>
+  <tr><td>VLdscf-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Polarity=Neg|Tense=Past|VerbForm=Part</td><td><em>nezmenila, nezostala, nedokázala, nevšimla, neobjavila</em></td></tr>
+  <tr style="background:lightgray"><td>VLdscf+</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbForm=Part</td><td><em>zasypela, masla, zoslábla, skalpla</em></td></tr>
+  <tr><td>VLdsci-</td><td>=&gt;</td><td>VERB</td><td>Animacy=Inan|Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Polarity=Neg|Tense=Past|VerbForm=Part</td><td><em>nedokázal, nezmenil, nedosiahol, neprišiel, nevyšiel</em></td></tr>
+  <tr style="background:lightgray"><td>VLdsci+</td><td>=&gt;</td><td>VERB</td><td>Animacy=Inan|Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbForm=Part</td><td><em>začal, stal, vznikol, nastal, prišiel</em></td></tr>
+  <tr><td>VLdscm-</td><td>=&gt;</td><td>VERB</td><td>Animacy=Anim|Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Polarity=Neg|Tense=Past|VerbForm=Part</td><td><em>nedokázal, nepovedal, nedostal, neurobil, nepozrel</em></td></tr>
+  <tr style="background:lightgray"><td>VLdscm+</td><td>=&gt;</td><td>VERB</td><td>Animacy=Anim|Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbForm=Part</td><td><em>zapříčinil, privola, zúčasnil, odesekol, pomohl</em></td></tr>
+  <tr><td>VLdscn-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Gender=Neut|Number=Sing|Person=3|Polarity=Neg|Tense=Past|VerbForm=Part</td><td><em>nespnilo</em></td></tr>
+  <tr style="background:lightgray"><td>VLdscn+</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Gender=Neut|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbForm=Part</td><td><em>Zomrelo</em></td></tr>
+  <tr><td>VLepah-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Number=Plur|Person=1|Polarity=Neg|Tense=Past|VerbForm=Part</td><td><em>nerobili, nemali, neboli, nechceli, nemohli</em></td></tr>
+  <tr style="background:lightgray"><td>VLepah+</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Number=Plur|Person=1|Polarity=Pos|Tense=Past|VerbForm=Part</td><td><em>mali, boli, mohli, išli, videli</em></td></tr>
+  <tr><td>VLepbh-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Number=Plur|Person=2|Polarity=Neg|Tense=Past|VerbForm=Part</td><td><em>Nevydeli</em></td></tr>
+  <tr style="background:lightgray"><td>VLepbh+</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Number=Plur|Person=2|Polarity=Pos|Tense=Past|VerbForm=Part</td><td><em>mali, mohli, boli, chceli, museli</em></td></tr>
+  <tr><td>VLepcf-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Gender=Fem|Number=Plur|Person=3|Polarity=Neg|Tense=Past|VerbForm=Part</td><td><em>neboli, nemali, nemohli, nechceli, nejestvovali</em></td></tr>
+  <tr style="background:lightgray"><td>VLepcf+</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Gender=Fem|Number=Plur|Person=3|Polarity=Pos|Tense=Past|VerbForm=Part</td><td><em>vykresľovaly</em></td></tr>
+  <tr><td>VLepci-</td><td>=&gt;</td><td>VERB</td><td>Animacy=Inan|Aspect=Imp|Gender=Masc|Number=Plur|Person=3|Polarity=Neg|Tense=Past|VerbForm=Part</td><td><em>neboli, nemali, nejestvovali, nemohli, nevznikali</em></td></tr>
+  <tr style="background:lightgray"><td>VLepci+</td><td>=&gt;</td><td>VERB</td><td>Animacy=Inan|Aspect=Imp|Gender=Masc|Number=Plur|Person=3|Polarity=Pos|Tense=Past|VerbForm=Part</td><td><em>zlatili, hlásli</em></td></tr>
+  <tr><td>VLepcm-</td><td>=&gt;</td><td>VERB</td><td>Animacy=Anim|Aspect=Imp|Gender=Masc|Number=Plur|Person=3|Polarity=Neg|Tense=Past|VerbForm=Part</td><td><em>nemali, neboli, nemohli, nevedeli, nechceli</em></td></tr>
+  <tr style="background:lightgray"><td>VLepcm+</td><td>=&gt;</td><td>VERB</td><td>Animacy=Anim|Aspect=Imp|Gender=Masc|Number=Plur|Person=3|Polarity=Pos|Tense=Past|VerbForm=Part</td><td><em>šili, letelei, plýtvali, byli</em></td></tr>
+  <tr><td>VLepcn-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Gender=Neut|Number=Plur|Person=3|Polarity=Neg|Tense=Past|VerbForm=Part</td><td><em>neboli, nemohli, nevedeli, neposielali, neprinášali</em></td></tr>
+  <tr style="background:lightgray"><td>VLepcn+</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Gender=Neut|Number=Plur|Person=3|Polarity=Pos|Tense=Past|VerbForm=Part</td><td><em>cítli</em></td></tr>
+  <tr><td>VLesaf-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Gender=Fem|Number=Sing|Person=1|Polarity=Neg|Tense=Past|VerbForm=Part</td><td><em>nevidela, nemala, nemohla, nevedela, nebola</em></td></tr>
+  <tr style="background:lightgray"><td>VLesaf+</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Gender=Fem|Number=Sing|Person=1|Polarity=Pos|Tense=Past|VerbForm=Part</td><td><em>odchádza</em></td></tr>
+  <tr><td>VLesai-</td><td>=&gt;</td><td>VERB</td><td>Animacy=Inan|Aspect=Imp|Gender=Masc|Number=Sing|Person=1|Polarity=Neg|Tense=Past|VerbForm=Part</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>VLesai+</td><td>=&gt;</td><td>VERB</td><td>Animacy=Inan|Aspect=Imp|Gender=Masc|Number=Sing|Person=1|Polarity=Pos|Tense=Past|VerbForm=Part</td><td><em></em></td></tr>
+  <tr><td>VLesam-</td><td>=&gt;</td><td>VERB</td><td>Animacy=Anim|Aspect=Imp|Gender=Masc|Number=Sing|Person=1|Polarity=Neg|Tense=Past|VerbForm=Part</td><td><em>nemohol, nemal, nevedel, nevidel, nebol</em></td></tr>
+  <tr style="background:lightgray"><td>VLesam+</td><td>=&gt;</td><td>VERB</td><td>Animacy=Anim|Aspect=Imp|Gender=Masc|Number=Sing|Person=1|Polarity=Pos|Tense=Past|VerbForm=Part</td><td><em>Bol</em></td></tr>
+  <tr><td>VLesan-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Gender=Neut|Number=Sing|Person=1|Polarity=Neg|Tense=Past|VerbForm=Part</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>VLesan+</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Gender=Neut|Number=Sing|Person=1|Polarity=Pos|Tense=Past|VerbForm=Part</td><td><em></em></td></tr>
+  <tr><td>VLesbf-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Gender=Fem|Number=Sing|Person=2|Polarity=Neg|Tense=Past|VerbForm=Part</td><td><em>nebola, nemala, nechcela, nespomínala, Nehovorila</em></td></tr>
+  <tr style="background:lightgray"><td>VLesbf+</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Gender=Fem|Number=Sing|Person=2|Polarity=Pos|Tense=Past|VerbForm=Part</td><td><em>bola, chcela, mala, plakala, Verila</em></td></tr>
+  <tr><td>VLesbi-</td><td>=&gt;</td><td>VERB</td><td>Animacy=Inan|Aspect=Imp|Gender=Masc|Number=Sing|Person=2|Polarity=Neg|Tense=Past|VerbForm=Part</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>VLesbi+</td><td>=&gt;</td><td>VERB</td><td>Animacy=Inan|Aspect=Imp|Gender=Masc|Number=Sing|Person=2|Polarity=Pos|Tense=Past|VerbForm=Part</td><td><em></em></td></tr>
+  <tr><td>VLesbm-</td><td>=&gt;</td><td>VERB</td><td>Animacy=Anim|Aspect=Imp|Gender=Masc|Number=Sing|Person=2|Polarity=Neg|Tense=Past|VerbForm=Part</td><td><em>nemal, nemohol, nevedel, nevidel, nemyslel</em></td></tr>
+  <tr style="background:lightgray"><td>VLesbm+</td><td>=&gt;</td><td>VERB</td><td>Animacy=Anim|Aspect=Imp|Gender=Masc|Number=Sing|Person=2|Polarity=Pos|Tense=Past|VerbForm=Part</td><td><em>mal, bol, chcel, mohol, vedel</em></td></tr>
+  <tr><td>VLesbn-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Gender=Neut|Number=Sing|Person=2|Polarity=Neg|Tense=Past|VerbForm=Part</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>VLesbn+</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Gender=Neut|Number=Sing|Person=2|Polarity=Pos|Tense=Past|VerbForm=Part</td><td><em></em></td></tr>
+  <tr><td>VLescf-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Gender=Fem|Number=Sing|Person=3|Polarity=Neg|Tense=Past|VerbForm=Part</td><td><em>nebola, nemala, nemohla, nevedela, nechcela</em></td></tr>
+  <tr style="background:lightgray"><td>VLescf+</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Gender=Fem|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbForm=Part</td><td><em>bol, preberela, pozeral</em></td></tr>
+  <tr><td>VLesci-</td><td>=&gt;</td><td>VERB</td><td>Animacy=Inan|Aspect=Imp|Gender=Masc|Number=Sing|Person=3|Polarity=Neg|Tense=Past|VerbForm=Part</td><td><em>nebol, nemal, nemohol, nejestvoval, neexistoval</em></td></tr>
+  <tr style="background:lightgray"><td>VLesci+</td><td>=&gt;</td><td>VERB</td><td>Animacy=Inan|Aspect=Imp|Gender=Masc|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbForm=Part</td><td><em>Tvorilo, následoval, bolo</em></td></tr>
+  <tr><td>VLescm-</td><td>=&gt;</td><td>VERB</td><td>Animacy=Anim|Aspect=Imp|Gender=Masc|Number=Sing|Person=3|Polarity=Neg|Tense=Past|VerbForm=Part</td><td><em>nevyzera, Nemohlo, nchýbal</em></td></tr>
+  <tr style="background:lightgray"><td>VLescm+</td><td>=&gt;</td><td>VERB</td><td>Animacy=Anim|Aspect=Imp|Gender=Masc|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbForm=Part</td><td><em>vieodl, potláčala, škarbkal, mierul, pophyboval</em></td></tr>
+  <tr><td>VLescn-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Gender=Neut|Number=Sing|Person=3|Polarity=Neg|Tense=Past|VerbForm=Part</td><td><em>nebolo, nemalo, nechcelo, nemohlo, nepáčilo</em></td></tr>
+  <tr style="background:lightgray"><td>VLescn+</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Gender=Neut|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbForm=Part</td><td><em>bol, viedol, bola, Bolo, mala</em></td></tr>
+  <tr><td>VLjpah-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp,Perf|Number=Plur|Person=1|Polarity=Neg|Tense=Past|VerbForm=Part</td><td><em>nepoznali, nedali, nepočuli</em></td></tr>
+  <tr style="background:lightgray"><td>VLjpah+</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp,Perf|Number=Plur|Person=1|Polarity=Pos|Tense=Past|VerbForm=Part</td><td><em>počuli, dali, informovali, poznali, transformovali</em></td></tr>
+  <tr><td>VLjpbh-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp,Perf|Number=Plur|Person=2|Polarity=Neg|Tense=Past|VerbForm=Part</td><td><em>nedali, nepočuli</em></td></tr>
+  <tr style="background:lightgray"><td>VLjpbh+</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp,Perf|Number=Plur|Person=2|Polarity=Pos|Tense=Past|VerbForm=Part</td><td><em>počuli, stačili, dali, registrovali, komentovali</em></td></tr>
+  <tr><td>VLjpcf-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp,Perf|Gender=Fem|Number=Plur|Person=3|Polarity=Neg|Tense=Past|VerbForm=Part</td><td><em>nedali, nestačili</em></td></tr>
+  <tr style="background:lightgray"><td>VLjpcf+</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp,Perf|Gender=Fem|Number=Plur|Person=3|Polarity=Pos|Tense=Past|VerbForm=Part</td><td><em>stačili, dali, počuli, generovali, explodovali</em></td></tr>
+  <tr><td>VLjpci-</td><td>=&gt;</td><td>VERB</td><td>Animacy=Inan|Aspect=Imp,Perf|Gender=Masc|Number=Plur|Person=3|Polarity=Neg|Tense=Past|VerbForm=Part</td><td><em>nedali, neangažovali, nepoznali, nekolonizovali</em></td></tr>
+  <tr style="background:lightgray"><td>VLjpci+</td><td>=&gt;</td><td>VERB</td><td>Animacy=Inan|Aspect=Imp,Perf|Gender=Masc|Number=Plur|Person=3|Polarity=Pos|Tense=Past|VerbForm=Part</td><td><em>dali, formovali, stačili, charakterizovali, parafrázovali</em></td></tr>
+  <tr><td>VLjpcm-</td><td>=&gt;</td><td>VERB</td><td>Animacy=Anim|Aspect=Imp,Perf|Gender=Masc|Number=Plur|Person=3|Polarity=Neg|Tense=Past|VerbForm=Part</td><td><em>nestačili, neidentifikovali, nepočuli, nedemaskovali, nereagovali</em></td></tr>
+  <tr style="background:lightgray"><td>VLjpcm+</td><td>=&gt;</td><td>VERB</td><td>Animacy=Anim|Aspect=Imp,Perf|Gender=Masc|Number=Plur|Person=3|Polarity=Pos|Tense=Past|VerbForm=Part</td><td><em>dali, počuli, venovali, reagovali, formulovali</em></td></tr>
+  <tr><td>VLjpcn-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp,Perf|Gender=Neut|Number=Plur|Person=3|Polarity=Neg|Tense=Past|VerbForm=Part</td><td><em>nedali</em></td></tr>
+  <tr style="background:lightgray"><td>VLjpcn+</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp,Perf|Gender=Neut|Number=Plur|Person=3|Polarity=Pos|Tense=Past|VerbForm=Part</td><td><em>dali, symbolizovali, venovali, deklarovali, prezentovali</em></td></tr>
+  <tr><td>VLjsaf-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp,Perf|Gender=Fem|Number=Sing|Person=1|Polarity=Neg|Tense=Past|VerbForm=Part</td><td><em>nestačila, nepočula, nepoznala, neodpovedala</em></td></tr>
+  <tr style="background:lightgray"><td>VLjsaf+</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp,Perf|Gender=Fem|Number=Sing|Person=1|Polarity=Pos|Tense=Past|VerbForm=Part</td><td><em>dala, počula, poznala, odpovedala, stačila</em></td></tr>
+  <tr><td>VLjsai-</td><td>=&gt;</td><td>VERB</td><td>Animacy=Inan|Aspect=Imp,Perf|Gender=Masc|Number=Sing|Person=1|Polarity=Neg|Tense=Past|VerbForm=Part</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>VLjsai+</td><td>=&gt;</td><td>VERB</td><td>Animacy=Inan|Aspect=Imp,Perf|Gender=Masc|Number=Sing|Person=1|Polarity=Pos|Tense=Past|VerbForm=Part</td><td><em></em></td></tr>
+  <tr><td>VLjsam-</td><td>=&gt;</td><td>VERB</td><td>Animacy=Anim|Aspect=Imp,Perf|Gender=Masc|Number=Sing|Person=1|Polarity=Neg|Tense=Past|VerbForm=Part</td><td><em>nepočul, nepoznal, nedal, Neodpovedal, Nereagoval</em></td></tr>
+  <tr style="background:lightgray"><td>VLjsam+</td><td>=&gt;</td><td>VERB</td><td>Animacy=Anim|Aspect=Imp,Perf|Gender=Masc|Number=Sing|Person=1|Polarity=Pos|Tense=Past|VerbForm=Part</td><td><em>počul, dal, poznal, odpovedal, demonštroval</em></td></tr>
+  <tr><td>VLjsan-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp,Perf|Gender=Neut|Number=Sing|Person=1|Polarity=Neg|Tense=Past|VerbForm=Part</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>VLjsan+</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp,Perf|Gender=Neut|Number=Sing|Person=1|Polarity=Pos|Tense=Past|VerbForm=Part</td><td><em></em></td></tr>
+  <tr><td>VLjsbf-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp,Perf|Gender=Fem|Number=Sing|Person=2|Polarity=Neg|Tense=Past|VerbForm=Part</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>VLjsbf+</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp,Perf|Gender=Fem|Number=Sing|Person=2|Polarity=Pos|Tense=Past|VerbForm=Part</td><td><em>Počula, explodovala</em></td></tr>
+  <tr><td>VLjsbi-</td><td>=&gt;</td><td>VERB</td><td>Animacy=Inan|Aspect=Imp,Perf|Gender=Masc|Number=Sing|Person=2|Polarity=Neg|Tense=Past|VerbForm=Part</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>VLjsbi+</td><td>=&gt;</td><td>VERB</td><td>Animacy=Inan|Aspect=Imp,Perf|Gender=Masc|Number=Sing|Person=2|Polarity=Pos|Tense=Past|VerbForm=Part</td><td><em>počul</em></td></tr>
+  <tr><td>VLjsbm-</td><td>=&gt;</td><td>VERB</td><td>Animacy=Anim|Aspect=Imp,Perf|Gender=Masc|Number=Sing|Person=2|Polarity=Neg|Tense=Past|VerbForm=Part</td><td><em>Nedal, nepočul</em></td></tr>
+  <tr style="background:lightgray"><td>VLjsbm+</td><td>=&gt;</td><td>VERB</td><td>Animacy=Anim|Aspect=Imp,Perf|Gender=Masc|Number=Sing|Person=2|Polarity=Pos|Tense=Past|VerbForm=Part</td><td><em>dal, počul, obetoval</em></td></tr>
+  <tr><td>VLjsbn-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp,Perf|Gender=Neut|Number=Sing|Person=2|Polarity=Neg|Tense=Past|VerbForm=Part</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>VLjsbn+</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp,Perf|Gender=Neut|Number=Sing|Person=2|Polarity=Pos|Tense=Past|VerbForm=Part</td><td><em></em></td></tr>
+  <tr><td>VLjscf-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp,Perf|Gender=Fem|Number=Sing|Person=3|Polarity=Neg|Tense=Past|VerbForm=Part</td><td><em>nedala, nepočula, nevenovala, nestačila, nereagovala</em></td></tr>
+  <tr style="background:lightgray"><td>VLjscf+</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp,Perf|Gender=Fem|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbForm=Part</td><td><em>dala, počula, stačila, odpovedala, venovala</em></td></tr>
+  <tr><td>VLjsci-</td><td>=&gt;</td><td>VERB</td><td>Animacy=Inan|Aspect=Imp,Perf|Gender=Masc|Number=Sing|Person=3|Polarity=Neg|Tense=Past|VerbForm=Part</td><td><em>nedal, nestačil</em></td></tr>
+  <tr style="background:lightgray"><td>VLjsci+</td><td>=&gt;</td><td>VERB</td><td>Animacy=Inan|Aspect=Imp,Perf|Gender=Masc|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbForm=Part</td><td><em>dal, stačil, datoval, informoval, formoval</em></td></tr>
+  <tr><td>VLjscm-</td><td>=&gt;</td><td>VERB</td><td>Animacy=Anim|Aspect=Imp,Perf|Gender=Masc|Number=Sing|Person=3|Polarity=Neg|Tense=Past|VerbForm=Part</td><td><em>nepočul, nedal, neodpovedal, nevenoval, nestačil</em></td></tr>
+  <tr style="background:lightgray"><td>VLjscm+</td><td>=&gt;</td><td>VERB</td><td>Animacy=Anim|Aspect=Imp,Perf|Gender=Masc|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbForm=Part</td><td><em>zvetoval</em></td></tr>
+  <tr><td>VLjscn-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp,Perf|Gender=Neut|Number=Sing|Person=3|Polarity=Neg|Tense=Past|VerbForm=Part</td><td><em>nedalo, nestačilo, Nezodpovedalo, Neinvestovalo, nehodilo</em></td></tr>
+  <tr style="background:lightgray"><td>VLjscn+</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp,Perf|Gender=Neut|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbForm=Part</td><td><em>dalo, stačilo, inšpirovalo, formovalo, deformovalo</em></td></tr>
+  <tr><td>VMdpa-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Mood=Imp|Number=Plur|Person=1|Polarity=Neg|VerbForm=Fin</td><td><em>Neuspokojme</em></td></tr>
+  <tr style="background:lightgray"><td>VMdpa+</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Mood=Imp|Number=Plur|Person=1|Polarity=Pos|VerbForm=Fin</td><td><em>uveďme, spomeňme, urobme, Vezmime, Dokážme</em></td></tr>
+  <tr><td>VMdpb-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Mood=Imp|Number=Plur|Person=2|Polarity=Neg|VerbForm=Fin</td><td><em>Nepodľahnite, Nenechajte, nebodnite, nezabudnite, Nezobuďte</em></td></tr>
+  <tr style="background:lightgray"><td>VMdpb+</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Mood=Imp|Number=Plur|Person=2|Polarity=Pos|VerbForm=Fin</td><td><em>ráčte</em></td></tr>
+  <tr><td>VMdsb-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Mood=Imp|Number=Sing|Person=2|Polarity=Neg|VerbForm=Fin</td><td><em>neudri, Nezabudni, Nepriblíž, neroztrúb, neopováž</em></td></tr>
+  <tr style="background:lightgray"><td>VMdsb+</td><td>=&gt;</td><td>VERB</td><td>Aspect=Perf|Mood=Imp|Number=Sing|Person=2|Polarity=Pos|VerbForm=Fin</td><td><em>pozri, povedz, počkaj, nechaj, predstav</em></td></tr>
+  <tr><td>VMepa-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Imp|Number=Plur|Person=1|Polarity=Neg|VerbForm=Fin</td><td><em>nehovorme, Nerúhajme, nepozerajme, nereptajme, neobzerajme</em></td></tr>
+  <tr style="background:lightgray"><td>VMepa+</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Imp|Number=Plur|Person=1|Polarity=Pos|VerbForm=Fin</td><td><em>poďme, berme, pomáhajme, Myslime, Učme</em></td></tr>
+  <tr><td>VMepb-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Imp|Number=Plur|Person=2|Polarity=Neg|VerbForm=Fin</td><td><em>nemyslite, nehovorte, nepokúšajte, nepýtajte, Nemiešajte</em></td></tr>
+  <tr style="background:lightgray"><td>VMepb+</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Imp|Number=Plur|Person=2|Polarity=Pos|VerbForm=Fin</td><td><em>choďte, buďte, počúvajte, vedzte, verte</em></td></tr>
+  <tr><td>VMesb-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Imp|Number=Sing|Person=2|Polarity=Neg|VerbForm=Fin</td><td><em>neboj, nebuď, nehovor, nerob, Nezabúdaj</em></td></tr>
+  <tr style="background:lightgray"><td>VMesb+</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp|Mood=Imp|Number=Sing|Person=2|Polarity=Pos|VerbForm=Fin</td><td><em>Čakaj</em></td></tr>
+  <tr><td>VMjpa-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp,Perf|Mood=Imp|Number=Plur|Person=1|Polarity=Neg|VerbForm=Fin</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>VMjpa+</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp,Perf|Mood=Imp|Number=Plur|Person=1|Polarity=Pos|VerbForm=Fin</td><td><em></em></td></tr>
+  <tr><td>VMjpb-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp,Perf|Mood=Imp|Number=Plur|Person=2|Polarity=Neg|VerbForm=Fin</td><td><em>nedajte, Neriskujte</em></td></tr>
+  <tr style="background:lightgray"><td>VMjpb+</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp,Perf|Mood=Imp|Number=Plur|Person=2|Polarity=Pos|VerbForm=Fin</td><td><em>Počujte, dajte, servírujte, obetujte, Dávajte</em></td></tr>
+  <tr><td>VMjsb-</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp,Perf|Mood=Imp|Number=Sing|Person=2|Polarity=Neg|VerbForm=Fin</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>VMjsb+</td><td>=&gt;</td><td>VERB</td><td>Aspect=Imp,Perf|Mood=Imp|Number=Sing|Person=2|Polarity=Pos|VerbForm=Fin</td><td><em>daj, počuj, Obetuj, Dávaj, venuj</em></td></tr>
   <tr><td>W</td><td>=&gt;</td><td>X</td><td>Abbr=Yes</td><td><em>W, J</em></td></tr>
   <tr style="background:lightgray"><td>Y</td><td>=&gt;</td><td>AUX</td><td>Mood=Cnd</td><td><em>mi</em></td></tr>
 </table>

@@ -2,6 +2,7 @@
 layout: base
 title:  'Syntax'
 permalink: cs/overview/specific-syntax.html
+udver: '2'
 ---
 
 # Specific constructions
@@ -22,10 +23,10 @@ different [cases](cs-feat/Case) and these forms differ from the normal, irreflex
 The clitic forms _se, si_ are very frequent and serve various purposes.
 Their default function is to represent object that is identical to the subject of the same
 verb. The test is that they could be substituted by a normal personal pronoun.
-Such instances are attached to the verb as [cs-dep/dobj]() or [cs-dep/iobj]().
+Such instances are attached to the verb as [cs-dep/obj]() or [cs-dep/iobj]().
 
 * _Jan <b>se</b> bude bránit._ “Jan will defend himself.”
-  (`dobj`; substitution is grammatical:
+  (`obj`; substitution is grammatical:
   _Jan <b>ho</b> bude bránit._ “Jan will defend him.”)
 * _Barbora <b>si</b> přidělí osobního strážce._ “Barbora will assign herself a bodyguard.”
   (`iobj`; substitution is grammatical:
@@ -33,8 +34,8 @@ Such instances are attached to the verb as [cs-dep/dobj]() or [cs-dep/iobj]().
 
 ~~~ sdparse
 Jan se bude bránit . \n Jan himself will defend .
-dobj(bránit, se)
-dobj(defend, himself)
+obj(bránit, se)
+obj(defend, himself)
 ~~~
 
 ~~~ sdparse
@@ -44,7 +45,7 @@ iobj(will-assign, herself)
 ~~~
 
 The Czech reflexive pronoun is also used in reciprocal actions where other languages use
-a special reciprocal pronoun. These instances are still attached as `dobj` or `iobj`,
+a special reciprocal pronoun. These instances are still attached as `obj` or `iobj`,
 respectively:
 
 * _Jan a Marie <b>se</b> políbili._ “Jan and Marie kissed each other.”
@@ -52,39 +53,39 @@ respectively:
 
 ~~~ sdparse
 Jan a Marie se políbili . \n Jan and Marie each-other kissed .
-dobj(políbili, se)
-dobj(kissed, each-other)
+obj(políbili, se)
+obj(kissed, each-other)
 ~~~
 
 If the reflexive pronoun can be substituted by another nominal but it is not a core argument
-(object) of the verb, it will be attached as [cs-dep/nmod]().
+(object) of the verb, it will be attached as [cs-dep/obl]().
 
 ~~~ sdparse
 Zuzana si opřela kolo o zeď . \n Zuzana for-herself propped bike against wall .
-nmod(opřela, si)
-nmod(propped, for-herself)
+obl(opřela, si)
+obl(propped, for-herself)
 ~~~
 
 The reflexive pronoun can be used to form a passive construction.
 This is called reflexive passive; there is also the “normal” passive built with the passive
 participle and the auxiliary verb _být_ “to be”.
-Reflexive pronoun that forms a reflexive passive is attached as [cs-dep/auxpass:reflex]().
+Reflexive pronoun that forms a reflexive passive is attached as [cs-dep/expl:pass]().
 
 ~~~ sdparse
 To se řekne snadno . \n It is said easily .
-auxpass:reflex(řekne, se)
-auxpass:reflex(said, is)
+expl:pass(řekne, se)
+expl:pass(said, is)
 ~~~
 
 There are inherently reflexive verbs, i.e. the verb always occurs with a reflexive
 prounoun, and the pronoun cannot be replaced by a non-reflexive pronoun or any other nominal.
 
-With these verbs, the reflexive pronoun is attached as [cs-dep/expl]().
+With these verbs, the reflexive pronoun is attached as [cs-dep/expl:pv]().
 
 ~~~ sdparse
 Martin se bojí zvířat . \n Martin REFLEX fears animals .
-expl(bojí, se)
-expl(fears, REFLEX)
+expl:pv(bojí, se)
+expl:pv(fears, REFLEX)
 ~~~
 
 If a reflexive verb (inherently or not) has been turned to a verbal noun, the reflexive
@@ -201,8 +202,8 @@ We lean towards minimizing the postulation of unobserved structure and opt to tr
 více závisí na stavu linky než na rychlosti přístroje \n more depends on state of-line than on speed of-device
 advmod(závisí, více)
 advmod(depends, more)
-dobj(závisí, stavu)
-dobj(depends, state)
+obj(závisí, stavu)
+obj(depends, state)
 case(stavu, na-3)
 case(state, on-13)
 nmod(stavu, linky)
@@ -213,8 +214,8 @@ case(rychlosti, na-7)
 case(speed, on-17)
 case(rychlosti, než)
 case(speed, than)
-nmod(rychlosti, přístroje)
-nmod(speed, of-device)
+obl(rychlosti, přístroje)
+obl(speed, of-device)
 ~~~
 
 ### Comparatives (quantity)
@@ -259,8 +260,8 @@ when the comparative complement is reduced to just a nominal:
 Petr má více peněz než Pavel . \n Petr has more money than Pavel .
 nsubj(má, Petr-1)
 nsubj(has, Petr-9)
-dobj(má, peněz)
-dobj(has, money)
+obj(má, peněz)
+obj(has, money)
 det:numgov(peněz, více)
 det:numgov(money, more)
 nmod(více, Pavel-6)
@@ -282,7 +283,7 @@ and the quantity it is compared to:
 * _více než pravděpodobné_ “more than likely”
 * _Ceny domů se za posledních deset let více než zdvojnásobily._ “Home prices have more than doubled in the past decade.”
 
-In these cases we consider _více než_ to be a multi-word expression because the two words are inseparable.
+In these cases we consider _více než_ to be a fixed multi-word expression because the two words are inseparable.
 One cannot say _*více procent než 90_ (the word _procent_ can be pulled to the front but then it will skip the whole MWE,
 as in _těch procent nebylo více než 90_ lit. _the percent were-not more than 90._)
 
@@ -294,8 +295,8 @@ cop(pravděpodobné, je)
 cop(likely, is)
 advmod(pravděpodobné, více)
 advmod(likely, more)
-mwe(více, než)
-mwe(more, than)
+fixed(více, než)
+fixed(more, than)
 punct(pravděpodobné, .-6)
 punct(likely, .-13)
 ~~~
@@ -333,8 +334,8 @@ a determiner, then one orphan is selected as the main dependent and it gets prom
 
 ~~~ sdparse
 Zatímco mně zbylo pět malých zelených jablíček , Petra měla tři velká červená . \n While to-me remained five small green apples , Petra had three big red .
-dobj(měla, červená)
-dobj(had, red)
+obj(měla, červená)
+obj(had, red)
 nummod(červená, tři)
 nummod(red, three)
 amod(červená, velká)
@@ -351,7 +352,7 @@ first occurrence of the verb is retained on the surface, while the other copies 
 and only their dependents remain:
 _Pavel si objednal hovězí a Markéta [si objednala] vepřové._
 “Pavel ordered beef and Markéta [ordered] pork.”
-Universal Dependencies annnotate such cases using the [cs-dep/remnant]() relation,
+Universal Dependencies annnotate such cases using the [cs-dep/orphan]() relation,
 which enables reconstruction of the functions of the arguments,
 without inserting an empty node for the missing verb:
 
@@ -359,16 +360,18 @@ without inserting an empty node for the missing verb:
 Pavel si objednal hovězí a Markéta vepřové . \n Pavel himself ordered beef and Markéta pork .
 nsubj(objednal, Pavel-1)
 nsubj(ordered, Pavel-10)
-dobj(objednal, hovězí)
-dobj(ordered, beef)
-remnant(Pavel-1, Markéta-6)
-remnant(Pavel-10, Markéta-15)
-remnant(hovězí, vepřové)
-remnant(beef, pork)
+obj(objednal, hovězí)
+obj(ordered, beef)
+conj(objednal, Markéta-6)
+conj(ordered, Markéta-15)
+orphan(Markéta-6, vepřové)
+orphan(Markéta-15, pork)
+cc(Markéta-6, a)
+cc(Markéta-15, and)
 ~~~
 
 Sometimes a verb is missing but there is no coordination and no overt copy of the verb,
-hence we cannot use the `remnant` analysis.
+hence we cannot use the `orphan` analysis.
 In particular, there are sentence-like segments that lack the main verb:
 _A co na to [říká] MF?_
 “And what [does] MF [say] to it?”
@@ -382,16 +385,16 @@ the head (root) position and the other orphans are attached to it.
 
 ~~~ sdparse
 ROOT A co na to MF ? \n ROOT And what to it MF ?
-root(ROOT-1, A)
-root(ROOT-9, And)
-dobj(A, co)
-dobj(And, what)
-nmod(A, to-5)
-nmod(And, it)
+root(ROOT-1, MF-6)
+root(ROOT-9, MF-14)
+orphan(MF-6, co)
+orphan(MF-14, what)
+orphan(MF-6, to-5)
+orphan(MF-14, it)
 case(to-5, na)
 case(it, to-12)
-nsubj(A, MF-6)
-nsubj(And, MF-14)
-punct(A, ?-7)
-punct(And, ?-15)
+cc(MF-6, A)
+cc(MF-14, And)
+punct(MF-6, ?-7)
+punct(MF-14, ?-15)
 ~~~

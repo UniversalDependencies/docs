@@ -2,6 +2,7 @@
 layout: relation
 title: 'list'
 shortdef: 'list'
+udver: '2'
 ---
 
 The `list` relation is used for chains of comparable items.
@@ -16,7 +17,7 @@ then it should be analyzed with these more standard relations, even if it is lai
 
 ~~~ sdparse
 Steve Jones tel.: 555-9814 e-mail: jones@abc.edf
-name(Steve-1, Jones-2)
+flat(Steve-1, Jones-2)
 list(Steve-1, tel.:-3)
 list(Steve-1, e-mail:-5)
 appos(tel.:-3, 555-9814-4)

@@ -7,12 +7,12 @@
 This relation is a language-specific subtype of [amod]().
 There are also 3 other language-specific subtypes of `amod`: [amod:att](), [amod:attlvc](), [amod:mode]().
 
-61 nodes (0%) are attached to their parents as `amod:obl`.
+48 nodes (0%) are attached to their parents as `amod:obl`.
 
-52 instances of `amod:obl` (85%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.45901639344262.
+40 instances of `amod:obl` (83%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.375.
 
-The following 7 pairs of parts of speech are connected with `amod:obl`: [hu-pos/VERB]()-[hu-pos/ADJ]() (37; 61% instances), [hu-pos/ADJ]()-[hu-pos/ADJ]() (15; 25% instances), [hu-pos/ADV]()-[hu-pos/ADJ]() (3; 5% instances), [hu-pos/NOUN]()-[hu-pos/ADJ]() (3; 5% instances), [hu-pos/ADJ]()-[hu-pos/NUM]() (1; 2% instances), [hu-pos/NUM]()-[hu-pos/ADJ]() (1; 2% instances), [hu-pos/VERB]()-[hu-pos/NOUN]() (1; 2% instances).
+The following 7 pairs of parts of speech are connected with `amod:obl`: [hu-pos/VERB]()-[hu-pos/ADJ]() (30; 63% instances), [hu-pos/ADJ]()-[hu-pos/ADJ]() (11; 23% instances), [hu-pos/NOUN]()-[hu-pos/ADJ]() (2; 4% instances), [hu-pos/VERB]()-[hu-pos/PROPN]() (2; 4% instances), [hu-pos/ADJ]()-[hu-pos/NUM]() (1; 2% instances), [hu-pos/ADV]()-[hu-pos/ADJ]() (1; 2% instances), [hu-pos/VERB]()-[hu-pos/NOUN]() (1; 2% instances).
 
 
 ~~~ conllu
@@ -23,67 +23,62 @@ The following 7 pairs of parts of speech are connected with `amod:obl`: [hu-pos/
 # visual-style 7 6 amod:obl	color:blue
 1	Felvetődik	fel+vetődik	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 2	a	a	DET	_	Definite=Def|PronType=Art	3	det	_	_
-3	kérdés	kérdés	NOUN	_	Case=Nom|Number=Sing|Number[psed]=None|Number[psor]=None|Person[psor]=None	1	nsubj	_	_
+3	kérdés	kérdés	NOUN	_	Case=Nom|Number=Sing|Number[psed]=None|Number[psor]=None|Person[psor]=None	1	nsubj	_	SpaceAfter=No
 4	:	:	PUNCT	_	_	1	punct	_	_
 5	vajon	vajon	ADV	_	PronType=Int	7	advmod:que	_	_
 6	végtelenné	végtelen	ADJ	_	Case=Tra|Degree=Pos|Number=Sing|Number[psed]=None|Number[psor]=None|Person[psor]=None	7	amod:obl	_	_
-7	válik	válik	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	parataxis	_	_
+7	válik	válik	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	parataxis	_	SpaceAfter=No
 8	?	?	PUNCT	_	_	1	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 2 amod:obl	color:blue
-1	—	—	PUNCT	_	_	3	punct	_	_
-2	Szakmailag	szakmai	ADJ	_	Case=Dis|Degree=Pos|Number=Sing|Number[psed]=None|Number[psor]=None|Person[psor]=None	3	amod:obl	_	_
-3	jobb	jó	ADJ	_	Case=Nom|Degree=Cmp|Number=Sing|Number[psed]=None|Number[psor]=None|Person[psor]=None	0	root	_	_
-4	lenne	lesz	VERB	_	Definite=Ind|Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	cop	_	_
-5	,	,	PUNCT	_	_	3	punct	_	_
-6	ha	ha	SCONJ	_	_	13	mark	_	_
-7	minél	minél	ADV	_	_	8	advmod:mode	_	_
-8	több	több	DET	_	Definite=Ind|PronType=Ind	10	det	_	_
-9	magyar	magyar	ADJ	_	Case=Nom|Degree=Pos|Number=Sing|Number[psed]=None|Number[psor]=None|Person[psor]=None	10	amod:att	_	_
-10	edző	edző	NOUN	_	Case=Nom|Number=Sing|Number[psed]=None|Number[psor]=None|Person[psor]=None	13	nsubj	_	_
-11	a	a	DET	_	Definite=Def|PronType=Art	12	det	_	_
-12	helyszínen	helyszín	NOUN	_	Case=Sup|Number=Sing|Number[psed]=None|Number[psor]=None|Person[psor]=None	13	nmod:obl	_	_
-13	látná	lát	VERB	_	Definite=Def|Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	csubj	_	_
-14	a	a	DET	_	Definite=Def|PronType=Art	15	det	_	_
-15	kontinensvetélkedőt	kontinensvetélkedő	NOUN	_	Case=Acc|Number=Sing|Number[psed]=None|Number[psor]=None|Person[psor]=None	13	dobj	_	_
+# visual-style 14	bgColor:blue
+# visual-style 14	fgColor:white
+# visual-style 15	bgColor:blue
+# visual-style 15	fgColor:white
+# visual-style 15 14 amod:obl	color:blue
+1	Az	az	PRON	_	Case=Nom|Number=Sing|Number[psed]=None|Number[psor]=None|Person=3|Person[psor]=None|PronType=Dem	3	nsubj	_	_
+2	is	is	CCONJ	_	_	1	cc	_	ToDo=cc-without-conj
+3	tény	tény	NOUN	_	Case=Nom|Number=Sing|Number[psed]=None|Number[psor]=None|Person[psor]=None	0	root	_	SpaceAfter=No
+4	:	:	PUNCT	_	_	3	punct	_	_
+5	az	az	DET	_	Definite=Def|PronType=Art	12	det	_	_
+6	immár	immár	ADV	_	_	9	advmod:mode	_	_
+7	tíz	tíz	NUM	_	Case=Nom|Number=Sing|Number[psed]=None|Number[psor]=None|NumType=Card|Person[psor]=None	8	nummod	_	_
+8	éve	év	NOUN	_	Case=Nom|Number=Sing|Number[psed]=None|Number[psor]=Sing|Person[psor]=3	9	obl	_	_
+9	tartó	tartó	ADJ	_	Case=Nom|Number=Sing|Number[psed]=None|Number[psor]=None|Person[psor]=None|VerbForm=PartPres	12	amod:att	_	_
+10	folyamatos	folyamatos	ADJ	_	Case=Nom|Degree=Pos|Number=Sing|Number[psed]=None|Number[psor]=None|Person[psor]=None	12	amod:att	_	_
+11	világgazdasági	világgazdasági	ADJ	_	Case=Nom|Degree=Pos|Number=Sing|Number[psed]=None|Number[psor]=None|Person[psor]=None	12	amod:att	_	_
+12	konjunktúra	konjunktúra	NOUN	_	Case=Nom|Number=Sing|Number[psed]=None|Number[psor]=None|Person[psor]=None	15	nsubj	_	_
+13	minden	minden	DET	_	Definite=Ind|PronType=Tot	14	det	_	_
+14	eddiginél	eddigi	ADJ	_	Case=Ade|Degree=Pos|Number=Sing|Number[psed]=None|Number[psor]=None|Person[psor]=None	15	amod:obl	_	_
+15	hosszabb	hosszú	ADJ	_	Case=Nom|Degree=Cmp|Number=Sing|Number[psed]=None|Number[psor]=None|Person[psor]=None	3	csubj	_	SpaceAfter=No
 16	.	.	PUNCT	_	_	3	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
 # visual-style 10	bgColor:blue
 # visual-style 10	fgColor:white
-# visual-style 10 9 amod:obl	color:blue
-1	Mindezt	mindez	PRON	_	Case=Acc|Number=Sing|Number[psed]=None|Number[psor]=None|Person=3|Person[psor]=None|PronType=Dem	6	dobj	_	_
-2	a	a	DET	_	Definite=Def|PronType=Art	3	det	_	_
-3	levél	levél	NOUN	_	Case=Nom|Number=Sing|Number[psed]=None|Number[psor]=None|Person[psor]=None	4	nmod:att	_	_
-4	írója	író	NOUN	_	Case=Nom|Number=Sing|Number[psed]=None|Number[psor]=Sing|Person[psor]=3	6	nsubj	_	_
-5	zárójelbe	zárójel	NOUN	_	Case=Ill|Number=Sing|Number[psed]=None|Number[psor]=None|Person[psor]=None	6	nmod:obl	_	_
-6	teszi	tesz	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-7	,	,	PUNCT	_	_	6	punct	_	_
-8	s	s	CONJ	_	_	6	cc	_	_
-9	rövidre	rövid	ADJ	_	Case=Sub|Degree=Pos|Number=Sing|Number[psed]=None|Number[psor]=None|Person[psor]=None	10	amod:obl	_	_
-10	zárva	zárva	ADV	_	VerbForm=Trans	18	xcomp	_	_
-11	feljelentését	feljelentés	NOUN	_	Case=Acc|Number=Sing|Number[psed]=None|Number[psor]=Sing|Person[psor]=3	10	dobj	_	_
-12	,	,	PUNCT	_	_	18	punct	_	_
-13	a	a	DET	_	Definite=Def|PronType=Art	15	det	_	_
-14	magyar	magyar	ADJ	_	Case=Nom|Degree=Pos|Number=Sing|Number[psed]=None|Number[psor]=None|Person[psor]=None	15	amod:att	_	_
-15	társadalmat	társadalom	NOUN	_	Case=Acc|Number=Sing|Number[psed]=None|Number[psor]=None|Person[psor]=None	18	dobj	_	_
-16	két	két	NUM	_	Case=Nom|Number=Sing|Number[psed]=None|Number[psor]=None|NumType=Card|Person[psor]=None	17	nummod	_	_
-17	osztályra	osztály	NOUN	_	Case=Sub|Number=Sing|Number[psed]=None|Number[psor]=None|Person[psor]=None	18	nmod:obl	_	_
-18	bontja	bont	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	conj	_	_
-19	.	.	PUNCT	_	_	6	punct	_	_
+# visual-style 12	bgColor:blue
+# visual-style 12	fgColor:white
+# visual-style 12 10 amod:obl	color:blue
+1	A	a	DET	_	Definite=Def|PronType=Art	3	det	_	_
+2	legújabb	új	ADJ	_	Case=Nom|Degree=Sup|Number=Sing|Number[psed]=None|Number[psor]=None|Person[psor]=None	3	amod:att	_	_
+3	elképzelések	elképzelés	NOUN	_	Case=Nom|Number=Plur|Number[psed]=None|Number[psor]=None|Person[psor]=None	12	obl	_	_
+4	szerint	szerint	ADP	_	_	3	case	_	_
+5	a	a	DET	_	Definite=Def|PronType=Art	8	det	_	_
+6	Fillér	Fillér	PROPN	_	Case=Nom|Number=Sing|Number[psed]=None|Number[psor]=None|Person[psor]=None	8	amod:att	_	_
+7	utcai	utcai	ADJ	_	Case=Nom|Degree=Pos|Number=Sing|Number[psed]=None|Number[psor]=None|Person[psor]=None	6	flat:name	_	_
+8	iskolát	iskola	NOUN	_	Case=Acc|Number=Sing|Number[psed]=None|Number[psor]=None|Person[psor]=None	12	obj	_	_
+9	a	a	DET	_	Definite=Def|PronType=Art	10	det	_	_
+10	Fenyves	Fenyves	PROPN	_	Case=Nom|Number=Sing|Number[psed]=None|Number[psor]=None|Person[psor]=None	12	amod:obl	_	_
+11	utcaival	utcaival	ADJ	_	Case=Ins|Degree=Pos|Number=Sing|Number[psed]=None|Number[psor]=None|Person[psor]=None	10	flat:name	_	_
+12	vonnák	von	VERB	_	Definite=Def|Mood=Cnd|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+13	össze	össze	ADV	_	Degree=Pos	12	compound:preverb	_	SpaceAfter=No
+14	.	.	PUNCT	_	_	12	punct	_	_
 
 ~~~
 

@@ -33,7 +33,7 @@ The following 4 pairs of parts of speech are connected with `root`: [sa-pos/ROOT
 # visual-style 0	bgColor:blue
 # visual-style 0	fgColor:white
 # visual-style 0 7 root	color:blue
-1	किम्	क	PRON	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Int	3	nmod	_	Translit=kim|LTranslit=ka
+1	किम्	क	PRON	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Int	3	obl	_	Translit=kim|LTranslit=ka
 2	अहम्	अहम्	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	Translit=aham|LTranslit=aham
 3	जानामि	ज्ञा	VERB	_	Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	7	advcl	_	Translit=jānāmi|LTranslit=jñā_1|LId=ज्ञा-१
 4	त्वयि	त्वद्	DET	_	Case=Loc|Number=Sing|Person=2|PronType=Prs	5	det	_	Translit=tvayi|LTranslit=tvad

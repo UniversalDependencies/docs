@@ -4,93 +4,90 @@
 
 ## Treebank Statistics (UD_Czech)
 
-There are 108 `PRON` lemmas (0%), 415 `PRON` types (0%) and 72419 `PRON` tokens (5%).
-Out of 17 observed tags, the rank of `PRON` is: 8 in number of lemmas, 7 in number of types and 8 in number of tokens.
+There are 54 `PRON` lemmas (0%), 197 `PRON` types (0%) and 39664 `PRON` tokens (3%).
+Out of 17 observed tags, the rank of `PRON` is: 10 in number of lemmas, 8 in number of types and 10 in number of tokens.
 
-The 10 most frequent `PRON` lemmas: <em>se, ten, který, on, já, všechen, jenž, co, kdo, což</em>
+The 10 most frequent `PRON` lemmas: <em>se, on, já, jenž, co, kdo, což, nic, něco, ty</em>
 
-The 10 most frequent `PRON` types:  <em>se, to, si, které, který, která, co, tím, kteří, tom</em>
+The 10 most frequent `PRON` types:  <em>se, si, co, nás, je, nám, nich, kdo, což, mu</em>
 
-The 10 most frequent ambiguous lemmas: <em>ten</em> ([PRON]() 11968, [DET]() 1312), <em>který</em> ([PRON]() 10604, [DET]() 143), <em>on</em> ([PRON]() 7262, [ADP]() 9, [PART]() 1), <em>já</em> ([PRON]() 3373, [NOUN]() 1), <em>jenž</em> ([PRON]() 2211, [DET]() 648), <em>co</em> ([PRON]() 1859, [ADV]() 239, [SCONJ]() 210, [PART]() 21), <em>což</em> ([PRON]() 748, [INTJ]() 3, [PART]() 1), <em>něco</em> ([PRON]() 541, [DET]() 1), <em>jaký</em> ([DET]() 391, [PRON]() 337), <em>někdo</em> ([PRON]() 321, [DET]() 3)
+The 10 most frequent ambiguous lemmas: <em>on</em> ([PRON]() 6433, [ADP]() 9, [PART]() 1), <em>já</em> ([PRON]() 2933, [NOUN]() 1), <em>jenž</em> ([PRON]() 1935, [DET]() 581), <em>co</em> ([PRON]() 1652, [ADV]() 201, [SCONJ]() 184, [PART]() 17), <em>což</em> ([PRON]() 661, [INTJ]() 3, [PART]() 1), <em>I</em> ([NUM]() 90, [PROPN]() 59, [ADJ]() 16, [PRON]() 14), <em>all</em> ([ADV]() 1, [PRON]() 1), <em>sa</em> ([PRON]() 4, [PROPN]() 2), <em>ja</em> ([PRON]() 3, [PART]() 1), <em>von</em> ([ADP]() 21, [PRON]() 3)
 
-The 10 most frequent ambiguous types:  <em>se</em> ([PRON]() 21370, [ADP]() 1901), <em>to</em> ([PRON]() 5916, [DET]() 101, [PART]() 30, [ADP]() 5), <em>si</em> ([PRON]() 3737, [AUX]() 1, [VERB]() 1), <em>které</em> ([PRON]() 3205, [DET]() 43), <em>který</em> ([PRON]() 2886, [DET]() 20), <em>která</em> ([PRON]() 1993, [DET]() 11), <em>co</em> ([PRON]() 1187, [ADV]() 233, [SCONJ]() 207, [PART]() 7), <em>tím</em> ([PRON]() 1059, [DET]() 55), <em>kteří</em> ([PRON]() 1156, [DET]() 6), <em>tom</em> ([PRON]() 1023, [DET]() 66, [PROPN]() 5)
+The 10 most frequent ambiguous types:  <em>se</em> ([PRON]() 18891, [ADP]() 1691), <em>si</em> ([PRON]() 3296, [AUX]() 1), <em>co</em> ([PRON]() 1058, [ADV]() 197, [SCONJ]() 181, [PART]() 7), <em>je</em> ([AUX]() 8849, [VERB]() 1773, [PRON]() 793), <em>nám</em> ([PRON]() 635, [NOUN]() 5), <em>což</em> ([PRON]() 560, [INTJ]() 2), <em>jež</em> ([PRON]() 293, [PROPN]() 1), <em>níž</em> ([PRON]() 261, [ADV]() 2), <em>já</em> ([PRON]() 157, [NOUN]() 1), <em>jí</em> ([PRON]() 231, [VERB]() 5)
 
 
 * <em>se</em>
-  * [PRON]() 21370: <em>Z kukly <b>se</b> vyklubal motýl</em>
-  * [ADP]() 1901: <em>Mohou zde porovnat svůj vývoj , záměry <b>se</b> světovými trendy .</em>
-* <em>to</em>
-  * [PRON]() 5916: <em>Nebude <b>to</b> poprvé ani naposledy .</em>
-  * [DET]() 101: <em>Na <b>to</b> neznám odpověď .</em>
-  * [PART]() 30: <em>Vedle toho musí být s <b>to</b> zastoupit i chybějícího kolegu .</em>
-  * [ADP]() 5: <em>Obálka s adresou <b>to</b> professor Servít from Prague .</em>
+  * [PRON]() 18891: <em>Z kukly <b>se</b> vyklubal motýl</em>
+  * [ADP]() 1691: <em>Mohou zde porovnat svůj vývoj , záměry <b>se</b> světovými trendy .</em>
 * <em>si</em>
-  * [PRON]() 3737: <em>Firma , která <b>si</b> je vyžádá , platí pouze náklady na jejich pobyt .</em>
+  * [PRON]() 3296: <em>Firma , která <b>si</b> je vyžádá , platí pouze náklady na jejich pobyt .</em>
   * [AUX]() 1: <em>Bollettieri tenkrát ke mně přišel a povídá : , Porazil <b>si</b> jednoho z nejlepších tenistů budoucnosti . ' .</em>
-  * [VERB]() 1: <em>Nebylo by žádným uměním dospět ke sporu , když bychom <b>si</b> během téže úvahy vykládali chování světelných paprsků různými způsoby .</em>
-* <em>které</em>
-  * [PRON]() 3205: <em>Máme zaměstnance , <b>které</b> občas vysíláme na služební cestu .</em>
-  * [DET]() 43: <em>Na <b>které</b> žánry lze dnes v českém filmu vsadit s jistotou ?</em>
-* <em>který</em>
-  * [PRON]() 2886: <em>* Počet zásobovaných bytů 136725 , <b>který</b> stále roste .</em>
-  * [DET]() 20: <em>" Nevím , <b>který</b> úředník vypočítal , že kilo králíka mě stojí sedmnáct korun .</em>
-* <em>která</em>
-  * [PRON]() 1993: <em>Firma , <b>která</b> si je vyžádá , platí pouze náklady na jejich pobyt .</em>
-  * [DET]() 11: <em>O <b>která</b> rádia půjde , je těžké předem hovořit .</em>
 * <em>co</em>
-  * [PRON]() 1187: <em>Nevíte , <b>co</b> kam započítat ?</em>
-  * [ADV]() 233: <em>Samozřejmě nejen <b>co</b> do efektu , ale i <b>co</b> do nákladů .</em>
-  * [SCONJ]() 207: <em>Učinil tak 24 hodin poté , <b>co</b> nabídku zprvu odmítl .</em>
+  * [PRON]() 1058: <em>Nevíte , <b>co</b> kam započítat ?</em>
+  * [ADV]() 197: <em>Samozřejmě nejen <b>co</b> do efektu , ale i <b>co</b> do nákladů .</em>
+  * [SCONJ]() 181: <em>Učinil tak 24 hodin poté , <b>co</b> nabídku zprvu odmítl .</em>
   * [PART]() 7: <em>A <b>co</b> když by Maastricht v neděli neprošel ?</em>
-* <em>tím</em>
-  * [PRON]() 1059: <em>Nebyly s <b>tím</b> u nás dosud žádné zkušenosti .</em>
-  * [DET]() 55: <em>Párky však zřejmě nejsou <b>tím</b> správným teplým předkrmem před utkáním .</em>
-* <em>kteří</em>
-  * [PRON]() 1156: <em>Platí to především o těch , <b>kteří</b> si vybrali za svého favorita hotely .</em>
-  * [DET]() 6: <em>Je možno už předem odhadnout , <b>kteří</b> lidé nebudou v grémiu chybět .</em>
-* <em>tom</em>
-  * [PRON]() 1023: <em>V <b>tom</b> s vámi nesouhlasím .</em>
-  * [DET]() 66: <em>A v <b>tom</b> případě by se mohla 14 . srpna 2126 srazit s naší Zemí .</em>
-  * [PROPN]() 5: <em>Praha ( <b>tom</b> ) -</em>
+* <em>je</em>
+  * [AUX]() 8849: <em>Váš obecně platný dotaz <b>je</b> připraven zodpovědět spolupracovník Profitu .</em>
+  * [VERB]() 1773: <em>U každého výrobku <b>je</b> krátká charakteristika a kontaktní adresa výrobce .</em>
+  * [PRON]() 793: <em>Změny jsou citelné , je třeba <b>je</b> lépe prezentovat</em>
+* <em>nám</em>
+  * [PRON]() 635: <em>Zdůraznil , že banka bude půjčovat ne firmě , ale <b>nám</b> osobně .</em>
+  * [NOUN]() 5: <em>Kontakt : CMC , <b>nám</b> . 5 . května 2 , 250 88 Čelákovice , tel . : ( 0202 ) 92151 - 9 , 92237 , FAX : ( 0202 ) 91997 .</em>
+* <em>což</em>
+  * [PRON]() 560: <em>Vědí , že by byli považováni za arogantní , <b>což</b> by mohla být pravda .</em>
+  * [INTJ]() 2: <em>Z naivních přání , která jsme v listopadu měli , se nám toto vyplnilo jen <b>což</b> .</em>
+* <em>jež</em>
+  * [PRON]() 293: <em>To je prvé konstatování , <b>jež</b> mi v Netopýru scházelo .</em>
+  * [PROPN]() 1: <em>( <b>jež</b> ) ( ČT 2 - 20.10 )</em>
+* <em>níž</em>
+  * [PRON]() 261: <em>A podmínka , bez <b>níž</b> to nejde ?</em>
+  * [ADV]() 2: <em>V roce 1981 pro ni poslední místo ve skupině C v Pekingu ještě nemohlo znamenat sestup <b>níž</b> , poněvadž nebylo kam .</em>
+* <em>já</em>
+  * [PRON]() 157: <em>My oba , ty i <b>já</b> , my všichni . "</em>
+  * [NOUN]() 1: <em>Jenže falešné my a hrozba všemocného oni dokázaly některá <b>já</b> pěkně poznamenat a neochota nebo neschopnost vyprostit se z jejich objetí se občas připisuje jakémusi záhadnému ono : ono je to holt těžký . . .</em>
+* <em>jí</em>
+  * [PRON]() 231: <em>Asi patnáctkrát jsem <b>jí</b> třísknul o zem , ale sotva jsem ji poškrábal .</em>
+  * [VERB]() 5: <em>Převládá však názor , že jde o " nějaký svátek , kdy se hodně <b>jí</b> a pije " , či o jakýsi den slávy a posvícení , kdy " vlaje naše československá vlajka " .</em>
 
 ## Morphology
 
-The form / lemma ratio of `PRON` is 3.842593 (the average of all parts of speech is 2.195930).
+The form / lemma ratio of `PRON` is 3.648148 (the average of all parts of speech is 2.162583).
 
 The 1st highest number of forms (28) was observed with the lemma “on”: <em>ho, je, jeho, jej, jemu, ji, jich, jim, jimi, jí, jím, mu, ni, nich, nim, nimi, ní, ním, ně, něho, něj, něm, němu, on, ona, oni, ono, ony</em>.
 
-The 2nd highest number of forms (25) was observed with the lemma “jenž”: <em>jehož, jejichž, jejímž, jejíž, jejž, jemuž, jenž, jež, jichž, jimiž, jimž, již, jímž, jíž, nichž, nimiž, nimž, niž, nímž, níž, něhož, nějž, němuž, němž, něž</em>.
+The 2nd highest number of forms (22) was observed with the lemma “jenž”: <em>jehož, jejž, jemuž, jenž, jež, jichž, jimiž, jimž, již, jímž, jíž, nichž, nimiž, nimž, niž, nímž, níž, něhož, nějž, němuž, němž, něž</em>.
 
-The 3rd highest number of forms (19) was observed with the lemma “můj”: <em>moje, mou, má, mého, mému, mých, mým, můj, naše, našeho, našem, našemu, naši, našich, našim, našimi, naší, naším, náš</em>.
+The 3rd highest number of forms (11) was observed with the lemma “samý”: <em>samou, samá, samé, samého, samém, samému, samí, samý, samých, samým, samými</em>.
 
-`PRON` occurs with 18 features: [cs-feat/PronType]() (72419; 100% instances), [cs-feat/Case]() (72280; 100% instances), [cs-feat/Number]() (40776; 56% instances), [cs-feat/Gender]() (33608; 46% instances), [cs-feat/Variant]() (27181; 38% instances), [cs-feat/Reflex]() (25901; 36% instances), [cs-feat/Person]() (11269; 16% instances), [cs-feat/Animacy]() (7234; 10% instances), [cs-feat/PrepCase]() (4926; 7% instances), [cs-feat/Negative]() (1101; 2% instances), [cs-feat/Style]() (316; 0% instances), [cs-feat/NumType]() (295; 0% instances), [cs-feat/Poss]() (254; 0% instances), [cs-feat/Number[psor]]() (137; 0% instances), [cs-feat/Foreign]() (79; 0% instances), [cs-feat/Gender[psor]]() (40; 0% instances), [cs-feat/NameType]() (15; 0% instances), [cs-feat/Abbr]() (6; 0% instances)
+`PRON` occurs with 12 features: [cs-feat/PronType]() (39664; 100% instances), [cs-feat/Case]() (39609; 100% instances), [cs-feat/Variant]() (24036; 61% instances), [cs-feat/Reflex]() (22793; 57% instances), [cs-feat/Number]() (11968; 30% instances), [cs-feat/Person]() (9786; 25% instances), [cs-feat/Gender]() (7004; 18% instances), [cs-feat/PrepCase]() (4366; 11% instances), [cs-feat/Animacy]() (3239; 8% instances), [cs-feat/Style]() (272; 1% instances), [cs-feat/Foreign]() (56; 0% instances), [cs-feat/NameType]() (12; 0% instances)
 
-`PRON` occurs with 46 feature-value pairs: `Abbr=Yes`, `Animacy=Anim`, `Animacy=Inan`, `Case=Acc`, `Case=Dat`, `Case=Gen`, `Case=Ins`, `Case=Loc`, `Case=Nom`, `Case=Voc`, `Foreign=Foreign`, `Gender=Fem`, `Gender=Fem,Neut`, `Gender=Masc`, `Gender=Masc,Neut`, `Gender=Neut`, `Gender[psor]=Fem`, `Gender[psor]=Masc,Neut`, `NameType=Com`, `NameType=Oth`, `NameType=Pro`, `Negative=Neg`, `NumType=Card`, `NumType=Ord`, `Number=Plur`, `Number=Sing`, `Number[psor]=Plur`, `Number[psor]=Sing`, `Person=1`, `Person=2`, `Person=3`, `Poss=Yes`, `PrepCase=Npr`, `PrepCase=Pre`, `PronType=Dem`, `PronType=Dem,Ind`, `PronType=Ind`, `PronType=Int,Rel`, `PronType=Neg`, `PronType=Prs`, `PronType=Rel`, `PronType=Tot`, `Reflex=Yes`, `Style=Arch`, `Style=Coll`, `Variant=Short`
+`PRON` occurs with 35 feature-value pairs: `Animacy=Anim`, `Animacy=Inan`, `Case=Acc`, `Case=Dat`, `Case=Gen`, `Case=Ins`, `Case=Loc`, `Case=Nom`, `Case=Voc`, `Foreign=Yes`, `Gender=Fem`, `Gender=Masc`, `Gender=Masc,Neut`, `Gender=Neut`, `NameType=Com`, `NameType=Oth`, `NameType=Pro`, `Number=Plur`, `Number=Sing`, `Person=1`, `Person=2`, `Person=3`, `PrepCase=Npr`, `PrepCase=Pre`, `PronType=Ind`, `PronType=Int,Rel`, `PronType=Neg`, `PronType=Prs`, `PronType=Rel`, `PronType=Tot`, `Reflex=Yes`, `Style=Arch`, `Style=Coll`, `Style=Vrnc`, `Variant=Short`
 
-`PRON` occurs with 414 feature combinations.
-The most frequent feature combination is `Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short` (21419 tokens).
-Examples: <em>se, sa</em>
+`PRON` occurs with 212 feature combinations.
+The most frequent feature combination is `Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short` (18931 tokens).
+Examples: <em>se</em>
 
 
 ## Relations
 
-`PRON` nodes are attached to their parents using 25 different relations: [cs-dep/expl]() (17180; 24% instances), [cs-dep/nsubj]() (15925; 22% instances), [cs-dep/dobj]() (14338; 20% instances), [cs-dep/nmod]() (9360; 13% instances), [cs-dep/auxpass:reflex]() (4906; 7% instances), [cs-dep/advmod]() (2807; 4% instances), [cs-dep/iobj]() (2658; 4% instances), [cs-dep/nsubjpass]() (1019; 1% instances), [cs-dep/xcomp]() (841; 1% instances), [cs-dep/conj]() (839; 1% instances), [cs-dep/root]() (556; 1% instances), [cs-dep/cc]() (412; 1% instances), [cs-dep/dep]() (369; 1% instances), [cs-dep/amod]() (341; 0% instances), [cs-dep/discourse]() (319; 0% instances), [cs-dep/appos]() (151; 0% instances), [cs-dep/acl]() (126; 0% instances), [cs-dep/advcl]() (93; 0% instances), [cs-dep/ccomp]() (89; 0% instances), [cs-dep/foreign]() (52; 0% instances), [cs-dep/parataxis]() (20; 0% instances), [cs-dep/mark]() (9; 0% instances), [cs-dep/csubj]() (6; 0% instances), [cs-dep/csubjpass]() (2; 0% instances), [cs-dep/mwe]() (1; 0% instances)
+`PRON` nodes are attached to their parents using 24 different relations: [cs-dep/expl:pv]() (15234; 38% instances), [cs-dep/obj]() (7377; 19% instances), [cs-dep/obl]() (4900; 12% instances), [cs-dep/expl:pass]() (4347; 11% instances), [cs-dep/nsubj]() (3269; 8% instances), [cs-dep/iobj]() (1994; 5% instances), [cs-dep/nmod]() (1414; 4% instances), [cs-dep/conj]() (245; 1% instances), [cs-dep/root]() (178; 0% instances), [cs-dep/nsubj:pass]() (167; 0% instances), [cs-dep/discourse]() (141; 0% instances), [cs-dep/dep]() (129; 0% instances), [cs-dep/advcl]() (47; 0% instances), [cs-dep/orphan]() (45; 0% instances), [cs-dep/acl]() (39; 0% instances), [cs-dep/xcomp]() (36; 0% instances), [cs-dep/flat:foreign]() (34; 0% instances), [cs-dep/appos]() (28; 0% instances), [cs-dep/ccomp]() (28; 0% instances), [cs-dep/parataxis]() (7; 0% instances), [cs-dep/cc]() (2; 0% instances), [cs-dep/csubj]() (1; 0% instances), [cs-dep/csubj:pass]() (1; 0% instances), [cs-dep/det]() (1; 0% instances)
 
-Parents of `PRON` nodes belong to 15 different parts of speech: [VERB]() (60614; 84% instances), [NOUN]() (6319; 9% instances), [ADJ]() (2807; 4% instances), [PRON]() (857; 1% instances), [ADV]() (589; 1% instances), [ROOT]() (556; 1% instances), [NUM]() (341; 0% instances), [PROPN]() (198; 0% instances), [DET]() (67; 0% instances), [CONJ]() (23; 0% instances), [PART]() (22; 0% instances), [SYM]() (17; 0% instances), [INTJ]() (4; 0% instances), [ADP]() (3; 0% instances), [SCONJ]() (2; 0% instances)
+Parents of `PRON` nodes belong to 14 different parts of speech: [VERB]() (35203; 89% instances), [ADJ]() (1902; 5% instances), [NOUN]() (1594; 4% instances), [ADV]() (265; 1% instances), [ROOT]() (178; 0% instances), [NUM]() (166; 0% instances), [DET]() (158; 0% instances), [PRON]() (131; 0% instances), [PROPN]() (43; 0% instances), [SYM]() (11; 0% instances), [PART]() (7; 0% instances), [CCONJ]() (3; 0% instances), [INTJ]() (2; 0% instances), [AUX]() (1; 0% instances)
 
-56496 (78%) `PRON` nodes are leaves.
+32522 (82%) `PRON` nodes are leaves.
 
-11792 (16%) `PRON` nodes have one child.
+6185 (16%) `PRON` nodes have one child.
 
-2715 (4%) `PRON` nodes have two children.
+527 (1%) `PRON` nodes have two children.
 
-1416 (2%) `PRON` nodes have three or more children.
+430 (1%) `PRON` nodes have three or more children.
 
-The highest child degree of a `PRON` node is 24.
+The highest child degree of a `PRON` node is 10.
 
-Children of `PRON` nodes are attached using 32 different relations: [cs-dep/case]() (10593; 46% instances), [cs-dep/acl]() (3251; 14% instances), [cs-dep/punct]() (1657; 7% instances), [cs-dep/advmod:emph]() (983; 4% instances), [cs-dep/amod]() (829; 4% instances), [cs-dep/cc]() (817; 4% instances), [cs-dep/nmod]() (772; 3% instances), [cs-dep/cop]() (735; 3% instances), [cs-dep/conj]() (633; 3% instances), [cs-dep/nsubj]() (618; 3% instances), [cs-dep/xcomp]() (572; 2% instances), [cs-dep/advmod]() (288; 1% instances), [cs-dep/dep]() (268; 1% instances), [cs-dep/mark]() (228; 1% instances), [cs-dep/appos]() (223; 1% instances), [cs-dep/nummod:gov]() (132; 1% instances), [cs-dep/advcl]() (86; 0% instances), [cs-dep/det]() (75; 0% instances), [cs-dep/foreign]() (39; 0% instances), [cs-dep/neg]() (37; 0% instances), [cs-dep/nummod]() (29; 0% instances), [cs-dep/ccomp]() (27; 0% instances), [cs-dep/discourse]() (23; 0% instances), [cs-dep/csubj]() (22; 0% instances), [cs-dep/aux]() (19; 0% instances), [cs-dep/det:numgov]() (18; 0% instances), [cs-dep/mwe]() (10; 0% instances), [cs-dep/parataxis]() (9; 0% instances), [cs-dep/dobj]() (7; 0% instances), [cs-dep/det:nummod]() (2; 0% instances), [cs-dep/auxpass:reflex]() (1; 0% instances), [cs-dep/vocative]() (1; 0% instances)
+Children of `PRON` nodes are attached using 29 different relations: [cs-dep/case]() (5479; 61% instances), [cs-dep/punct]() (535; 6% instances), [cs-dep/amod]() (447; 5% instances), [cs-dep/advmod:emph]() (340; 4% instances), [cs-dep/conj]() (294; 3% instances), [cs-dep/cc]() (238; 3% instances), [cs-dep/xcomp]() (236; 3% instances), [cs-dep/cop]() (183; 2% instances), [cs-dep/nmod]() (171; 2% instances), [cs-dep/nsubj]() (146; 2% instances), [cs-dep/acl]() (120; 1% instances), [cs-dep/orphan]() (112; 1% instances), [cs-dep/appos]() (105; 1% instances), [cs-dep/nummod:gov]() (90; 1% instances), [cs-dep/mark]() (86; 1% instances), [cs-dep/advmod]() (72; 1% instances), [cs-dep/dep]() (66; 1% instances), [cs-dep/det]() (55; 1% instances), [cs-dep/flat:foreign]() (35; 0% instances), [cs-dep/obl]() (32; 0% instances), [cs-dep/advcl]() (26; 0% instances), [cs-dep/det:numgov]() (17; 0% instances), [cs-dep/discourse]() (14; 0% instances), [cs-dep/csubj]() (12; 0% instances), [cs-dep/nummod]() (11; 0% instances), [cs-dep/aux]() (8; 0% instances), [cs-dep/obj]() (2; 0% instances), [cs-dep/parataxis]() (2; 0% instances), [cs-dep/ccomp]() (1; 0% instances)
 
-Children of `PRON` nodes belong to 16 different parts of speech: [ADP]() (10551; 46% instances), [VERB]() (3984; 17% instances), [NOUN]() (1719; 7% instances), [PUNCT]() (1657; 7% instances), [ADJ]() (1199; 5% instances), [CONJ]() (1137; 5% instances), [ADV]() (930; 4% instances), [PRON]() (857; 4% instances), [PART]() (253; 1% instances), [SCONJ]() (225; 1% instances), [NUM]() (195; 1% instances), [PROPN]() (178; 1% instances), [DET]() (97; 0% instances), [AUX]() (19; 0% instances), [SYM]() (2; 0% instances), [INTJ]() (1; 0% instances)
+Children of `PRON` nodes belong to 15 different parts of speech: [ADP]() (5466; 61% instances), [NOUN]() (615; 7% instances), [PUNCT]() (535; 6% instances), [ADJ]() (500; 6% instances), [CCONJ]() (370; 4% instances), [ADV]() (309; 3% instances), [DET]() (246; 3% instances), [VERB]() (211; 2% instances), [AUX]() (191; 2% instances), [PRON]() (131; 1% instances), [NUM]() (108; 1% instances), [PROPN]() (87; 1% instances), [SCONJ]() (85; 1% instances), [PART]() (80; 1% instances), [SYM]() (1; 0% instances)
 
 
 
@@ -98,92 +95,91 @@ Children of `PRON` nodes belong to 16 different parts of speech: [ADP]() (10551;
 
 ## Treebank Statistics (UD_Czech-CAC)
 
-There are 74 `PRON` lemmas (0%), 310 `PRON` types (0%) and 24389 `PRON` tokens (5%).
-Out of 16 observed tags, the rank of `PRON` is: 6 in number of lemmas, 6 in number of types and 7 in number of tokens.
+There are 35 `PRON` lemmas (0%), 165 `PRON` types (0%) and 15680 `PRON` tokens (3%).
+Out of 16 observed tags, the rank of `PRON` is: 11 in number of lemmas, 7 in number of types and 9 in number of tokens.
 
-The 10 most frequent `PRON` lemmas: <em>se, ten, který, on, všechno, já, jenž, co, sám, což</em>
+The 10 most frequent `PRON` lemmas: <em>se, on, všechno, já, jenž, co, což, ty, nízko, něco</em>
 
-The 10 most frequent `PRON` types:  <em>se, to, které, si, který, která, tím, co, všech, všechny</em>
+The 10 most frequent `PRON` types:  <em>se, si, co, všech, je, nás, všechny, nám, jež, nich</em>
 
-The 10 most frequent ambiguous lemmas: <em>se</em> ([PRON]() 9039, [ADP]() 1), <em>ten</em> ([PRON]() 3818, [DET]() 537), <em>který</em> ([PRON]() 3557, [DET]() 58), <em>já</em> ([PRON]() 995, [NOUN]() 1), <em>jenž</em> ([PRON]() 840, [DET]() 339), <em>co</em> ([PRON]() 525, [ADV]() 166, [SCONJ]() 16, [PART]() 3, [ADJ]() 1), <em>nízko</em> ([PRON]() 138, [ADV]() 8), <em>nic</em> ([PRON]() 116, [DET]() 1), <em>jaký</em> ([DET]() 150, [PRON]() 113), <em>některý</em> ([DET]() 505, [PRON]() 98)
+The 10 most frequent ambiguous lemmas: <em>se</em> ([PRON]() 8851, [ADP]() 1), <em>já</em> ([PRON]() 974, [NOUN]() 1), <em>jenž</em> ([PRON]() 819, [DET]() 342), <em>co</em> ([PRON]() 511, [ADV]() 164, [SCONJ]() 16, [PART]() 2, [ADJ]() 1), <em>nízko</em> ([PRON]() 135, [ADV]() 8), <em>copak</em> ([PRON]() 7, [PART]() 1)
 
-The 10 most frequent ambiguous types:  <em>se</em> ([PRON]() 7715, [ADP]() 601), <em>to</em> ([PRON]() 1856, [DET]() 39, [PART]() 11), <em>které</em> ([PRON]() 1407, [DET]() 27), <em>si</em> ([PRON]() 996, [AUX]() 1), <em>který</em> ([PRON]() 728, [DET]() 6), <em>která</em> ([PRON]() 638, [DET]() 5), <em>tím</em> ([PRON]() 404, [DET]() 16), <em>co</em> ([PRON]() 382, [ADV]() 160, [SCONJ]() 15, [PART]() 1, [ADJ]() 1), <em>je</em> ([VERB]() 4673, [AUX]() 482, [PRON]() 356), <em>tomu</em> ([PRON]() 305, [DET]() 13)
+The 10 most frequent ambiguous types:  <em>se</em> ([PRON]() 7555, [ADP]() 589), <em>si</em> ([PRON]() 975, [AUX]() 1), <em>co</em> ([PRON]() 372, [ADV]() 158, [SCONJ]() 15, [PART]() 1, [ADJ]() 1), <em>všech</em> ([PRON]() 379, [DET]() 1), <em>je</em> ([AUX]() 4329, [VERB]() 716, [PRON]() 334), <em>všechny</em> ([PRON]() 241, [DET]() 69), <em>mu</em> ([PRON]() 160, [NOUN]() 1), <em>níž</em> ([PRON]() 137, [ADV]() 1), <em>všechno</em> ([PRON]() 109, [DET]() 5), <em>všichni</em> ([PRON]() 68, [DET]() 3)
 
 
 * <em>se</em>
-  * [PRON]() 7715: <em>Za tím účelem <b>se</b> zavazujeme .</em>
-  * [ADP]() 601: <em>Dohoda <b>se</b> * ředitelem Tomkou o spolupráci na Oravě .</em>
-* <em>to</em>
-  * [PRON]() 1856: <em>Odpověď člena Rady KNV bratra Kozáka <b>to</b> vyřešila .</em>
-  * [DET]() 39: <em>A my jim pro <b>to</b> musíme vytvářet podmínky .</em>
-  * [PART]() 11: <em>Společenské vědy nebyly s <b>to</b> dávat uspokojivé odpovědi na četné aktuální otázky dalšího vývoje socialismu .</em>
-* <em>které</em>
-  * [PRON]() 1407: <em>Dobrý vzhled nám dodává jistotu a sebevědomí , <b>které</b> potřebujeme .</em>
-  * [DET]() 27: <em>Je tu ovšem otázka , <b>které</b> proměnné lze považovat za motivační .</em>
+  * [PRON]() 7555: <em>Za tím účelem <b>se</b> zavazujeme .</em>
+  * [ADP]() 589: <em>Dohoda <b>se</b> * ředitelem Tomkou o spolupráci na Oravě .</em>
 * <em>si</em>
-  * [PRON]() 996: <em>Však <b>si</b> také vedoucí třídičky Pánek pochvaloval .</em>
+  * [PRON]() 975: <em>Však <b>si</b> také vedoucí třídičky Pánek pochvaloval .</em>
   * [AUX]() 1: <em>Podíváme se ještě k Národnímu a až se budeme vracet po druhé straně , prohlédneme si dům Jaroslava Vrchlického , jak <b>si</b> chtěla .</em>
-* <em>který</em>
-  * [PRON]() 728: <em>Plavání je všestranný sport , <b>který</b> je vhodný pro každý věk .</em>
-  * [DET]() 6: <em>Jestlipak víte , <b>který</b> savec nemá zuby ?</em>
-* <em>která</em>
-  * [PRON]() 638: <em>Radost mám zvlášť z takových , <b>která</b> vědí , co chtějí .</em>
-  * [DET]() 5: <em>Nebo <b>která</b> dvojice dokáže dříve # hodů bez chyby .</em>
-* <em>tím</em>
-  * [PRON]() 404: <em>Plán výroby zboží bude <b>tím</b> splněn na # * .</em>
-  * [DET]() 16: <em>Za <b>tím</b> účelem se zavazujeme .</em>
 * <em>co</em>
-  * [PRON]() 382: <em>Tak <b>co</b> bude , mládenci .</em>
-  * [ADV]() 160: <em>V naší době se musíme udržet <b>co</b> nejdéle mladé .</em>
+  * [PRON]() 372: <em>A že <b>co</b> by na to řekly , když by šli společně darovat krev .</em>
+  * [ADV]() 158: <em>V naší době se musíme udržet <b>co</b> nejdéle mladé .</em>
   * [SCONJ]() 15: <em>Bude tomu měsíc , <b>co</b> narukovali .</em>
   * [PART]() 1: <em>Ale <b>co</b> , zatím jsem fejeton ještě stačil díky psacímu stroji napsat .</em>
   * [ADJ]() 1: <em>Usilují přitom o vypracování jakési ontologie společenskosti , která současně z druhé strany má reflektovat a zpřítomňovat společenský charakter ontologie tkvící již v samotné podstatě člověka definovaného jakožto zoon politikon , jemuž odpovídá , že lidská existence je současně a vždy také <b>co</b> - existence .</em>
+* <em>všech</em>
+  * [PRON]() 379: <em>Kontrola plnění plánu byla provedena u <b>všech</b> úkolů řešených v ÚJČ v # .</em>
+  * [DET]() 1: <em>Tento plán by na jedné straně podstatně snížil cestovní náklady <b>všech</b> evropských účastníků .</em>
 * <em>je</em>
-  * [VERB]() 4673: <em>Upřesněný realizační program <b>je</b> zaměřen na tyto hlavní úkoly .</em>
-  * [AUX]() 482: <em>Rekultivační výzkum je dlouhodobý a <b>je</b> průběžně zajišťován .</em>
-  * [PRON]() 356: <em>Z převážné většiny ploch <b>je</b> však vybírají brigádníci ručně .</em>
-* <em>tomu</em>
-  * [PRON]() 305: <em>Významnou měrou k <b>tomu</b> přispělo plnění direktiv # sjezdu KSČ .</em>
-  * [DET]() 13: <em>Rozhoduje se i záložník fotbalového mužstva , zda má přihrát <b>tomu</b> , či onomu hráči .</em>
+  * [AUX]() 4329: <em>Upřesněný realizační program <b>je</b> zaměřen na tyto hlavní úkoly .</em>
+  * [VERB]() 716: <em>Proto <b>je</b> odtučňovací dieta v plánu mnohé z nás .</em>
+  * [PRON]() 334: <em>Z převážné většiny ploch <b>je</b> však vybírají brigádníci ručně .</em>
+* <em>všechny</em>
+  * [PRON]() 241: <em>Konečně <b>všechny</b> druhy pleti mohou být dráždivé .</em>
+  * [DET]() 69: <em>Je nutno <b>všechny</b> tyto nedostatky odstranit .</em>
+* <em>mu</em>
+  * [PRON]() 160: <em>Náleží <b>mu</b> dovolená v plném rozsahu # týdny .</em>
+  * [NOUN]() 1: <em>Dokonce i formální svatba může být dnes organizována k zlosti hladových příbuzných a přátel pohoštěním hnědou rýží , zeleninou , mituke a čajem <b>mu</b> .</em>
+* <em>níž</em>
+  * [PRON]() 137: <em>Pracovním posudkem organizace , u <b>níž</b> dosud pracoval .</em>
+  * [ADV]() 1: <em>Nové řešení vedlo potrubí <b>níž</b> pod dnem Vltavy do břehu a napojilo se na potrubí uložené v zemi , čímž bylo chráněno proti zamrzání .</em>
+* <em>všechno</em>
+  * [PRON]() 109: <em>Uvádím tohle <b>všechno</b> nikoli náhodou .</em>
+  * [DET]() 5: <em>Fotbalisté někdy žehrají na to , že se na nich <b>všechno</b> vidí .</em>
+* <em>všichni</em>
+  * [PRON]() 68: <em>Až na jednoho přišli <b>všichni</b> pozvaní .</em>
+  * [DET]() 3: <em>Ale na jednom se <b>všichni</b> shodli .</em>
 
 ## Morphology
 
-The form / lemma ratio of `PRON` is 4.189189 (the average of all parts of speech is 2.206260).
+The form / lemma ratio of `PRON` is 4.714286 (the average of all parts of speech is 2.180683).
 
 The 1st highest number of forms (28) was observed with the lemma “on”: <em>ho, je, jeho, jej, jemu, ji, jich, jim, jimi, jí, jím, mu, ni, nich, nim, nimi, ní, ním, ně, něho, něj, něm, němu, on, ona, oni, ono, ony</em>.
 
-The 2nd highest number of forms (24) was observed with the lemma “jenž”: <em>jehož, jejichž, jejíž, jejž, jemuž, jenž, jež, jichž, jimiž, jimž, již, jímž, jíž, nichž, nimiž, nimž, niž, nímž, níž, něhož, nějž, němuž, němž, něž</em>.
+The 2nd highest number of forms (22) was observed with the lemma “jenž”: <em>jehož, jejž, jemuž, jenž, jež, jichž, jimiž, jimž, již, jímž, jíž, nichž, nimiž, nimž, niž, nímž, níž, něhož, nějž, němuž, němž, něž</em>.
 
-The 3rd highest number of forms (16) was observed with the lemma “ten”: <em>ta, ten, ti, to, toho, tom, tomu, tou, tu, ty, té, tím, těch, těm, těma, těmi</em>.
+The 3rd highest number of forms (14) was observed with the lemma “všechno”: <em>vše, všech, všechen, všechna, všechno, všechnu, všechny, všeho, všem, všemi, všemu, všichni, vší, vším</em>.
 
-`PRON` occurs with 17 features: [cs-feat/PronType]() (24389; 100% instances), [cs-feat/Case]() (24253; 99% instances), [cs-feat/Number]() (14022; 57% instances), [cs-feat/Gender]() (10869; 45% instances), [cs-feat/Variant]() (9195; 38% instances), [cs-feat/Reflex]() (9066; 37% instances), [cs-feat/Person]() (3500; 14% instances), [cs-feat/Animacy]() (2039; 8% instances), [cs-feat/PrepCase]() (1809; 7% instances), [cs-feat/Negative]() (184; 1% instances), [cs-feat/Style]() (111; 0% instances), [cs-feat/NumType]() (82; 0% instances), [cs-feat/Poss]() (72; 0% instances), [cs-feat/Number[psor]]() (45; 0% instances), [cs-feat/Gender[psor]]() (15; 0% instances), [cs-feat/Foreign]() (13; 0% instances), [cs-feat/NameType]() (1; 0% instances)
+`PRON` occurs with 12 features: [cs-feat/PronType]() (15680; 100% instances), [cs-feat/Case]() (15557; 99% instances), [cs-feat/Variant]() (9000; 57% instances), [cs-feat/Reflex]() (8851; 56% instances), [cs-feat/Number]() (5616; 36% instances), [cs-feat/Person]() (3366; 21% instances), [cs-feat/Gender]() (2793; 18% instances), [cs-feat/PrepCase]() (1778; 11% instances), [cs-feat/Animacy]() (841; 5% instances), [cs-feat/Style]() (109; 1% instances), [cs-feat/Foreign]() (7; 0% instances), [cs-feat/NameType]() (1; 0% instances)
 
-`PRON` occurs with 42 feature-value pairs: `Animacy=Anim`, `Animacy=Inan`, `Case=Acc`, `Case=Dat`, `Case=Gen`, `Case=Ins`, `Case=Loc`, `Case=Nom`, `Case=Voc`, `Foreign=Foreign`, `Gender=Fem`, `Gender=Fem,Neut`, `Gender=Masc`, `Gender=Masc,Neut`, `Gender=Neut`, `Gender[psor]=Fem`, `Gender[psor]=Masc,Neut`, `NameType=Com`, `Negative=Neg`, `NumType=Card`, `Number=Dual`, `Number=Plur`, `Number=Sing`, `Number[psor]=Plur`, `Number[psor]=Sing`, `Person=1`, `Person=2`, `Person=3`, `Poss=Yes`, `PrepCase=Npr`, `PrepCase=Pre`, `PronType=Dem`, `PronType=Dem,Ind`, `PronType=Ind`, `PronType=Int,Rel`, `PronType=Neg`, `PronType=Prs`, `PronType=Rel`, `PronType=Tot`, `Reflex=Yes`, `Style=Arch`, `Variant=Short`
+`PRON` occurs with 31 feature-value pairs: `Animacy=Anim`, `Animacy=Inan`, `Case=Acc`, `Case=Dat`, `Case=Gen`, `Case=Ins`, `Case=Loc`, `Case=Nom`, `Case=Voc`, `Foreign=Yes`, `Gender=Fem`, `Gender=Masc`, `Gender=Masc,Neut`, `Gender=Neut`, `NameType=Com`, `Number=Plur`, `Number=Sing`, `Person=1`, `Person=2`, `Person=3`, `PrepCase=Npr`, `PrepCase=Pre`, `PronType=Ind`, `PronType=Int,Rel`, `PronType=Neg`, `PronType=Prs`, `PronType=Rel`, `PronType=Tot`, `Reflex=Yes`, `Style=Arch`, `Variant=Short`
 
-`PRON` occurs with 312 feature combinations.
-The most frequent feature combination is `Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short` (7709 tokens).
+`PRON` occurs with 180 feature combinations.
+The most frequent feature combination is `Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short` (7549 tokens).
 Examples: <em>se</em>
 
 
 ## Relations
 
-`PRON` nodes are attached to their parents using 27 different relations: [cs-dep/expl]() (6066; 25% instances), [cs-dep/nsubj]() (4715; 19% instances), [cs-dep/dobj]() (3908; 16% instances), [cs-dep/nmod]() (3762; 15% instances), [cs-dep/auxpass:reflex]() (2090; 9% instances), [cs-dep/advmod]() (1130; 5% instances), [cs-dep/iobj]() (603; 2% instances), [cs-dep/xcomp]() (349; 1% instances), [cs-dep/nsubjpass]() (330; 1% instances), [cs-dep/conj]() (322; 1% instances), [cs-dep/root]() (305; 1% instances), [cs-dep/cc]() (297; 1% instances), [cs-dep/dep]() (132; 1% instances), [cs-dep/amod]() (105; 0% instances), [cs-dep/discourse]() (83; 0% instances), [cs-dep/appos]() (66; 0% instances), [cs-dep/acl]() (39; 0% instances), [cs-dep/advcl]() (35; 0% instances), [cs-dep/ccomp]() (16; 0% instances), [cs-dep/parataxis]() (14; 0% instances), [cs-dep/foreign]() (8; 0% instances), [cs-dep/mark]() (5; 0% instances), [cs-dep/csubj]() (3; 0% instances), [cs-dep/csubjpass]() (3; 0% instances), [cs-dep/advmod:emph]() (1; 0% instances), [cs-dep/aux]() (1; 0% instances), [cs-dep/vocative]() (1; 0% instances)
+`PRON` nodes are attached to their parents using 24 different relations: [cs-dep/expl:pv]() (5941; 38% instances), [cs-dep/obj]() (2318; 15% instances), [cs-dep/obl]() (2048; 13% instances), [cs-dep/expl:pass]() (2042; 13% instances), [cs-dep/nmod]() (1403; 9% instances), [cs-dep/nsubj]() (1035; 7% instances), [cs-dep/iobj]() (494; 3% instances), [cs-dep/conj]() (85; 1% instances), [cs-dep/nsubj:pass]() (71; 0% instances), [cs-dep/xcomp]() (57; 0% instances), [cs-dep/root]() (42; 0% instances), [cs-dep/dep]() (37; 0% instances), [cs-dep/discourse]() (28; 0% instances), [cs-dep/advcl]() (17; 0% instances), [cs-dep/acl]() (15; 0% instances), [cs-dep/orphan]() (14; 0% instances), [cs-dep/appos]() (10; 0% instances), [cs-dep/advmod]() (7; 0% instances), [cs-dep/ccomp]() (5; 0% instances), [cs-dep/cc]() (4; 0% instances), [cs-dep/flat:foreign]() (4; 0% instances), [cs-dep/csubj]() (1; 0% instances), [cs-dep/csubj:pass]() (1; 0% instances), [cs-dep/vocative]() (1; 0% instances)
 
-Parents of `PRON` nodes belong to 15 different parts of speech: [VERB]() (19560; 80% instances), [NOUN]() (2598; 11% instances), [ADJ]() (1140; 5% instances), [ROOT]() (305; 1% instances), [PRON]() (293; 1% instances), [ADV]() (214; 1% instances), [SYM]() (96; 0% instances), [NUM]() (95; 0% instances), [DET]() (39; 0% instances), [PROPN]() (25; 0% instances), [CONJ]() (10; 0% instances), [PART]() (7; 0% instances), [SCONJ]() (3; 0% instances), [ADP]() (2; 0% instances), [AUX]() (2; 0% instances)
+Parents of `PRON` nodes belong to 14 different parts of speech: [VERB]() (12909; 82% instances), [NOUN]() (1402; 9% instances), [ADJ]() (977; 6% instances), [DET]() (125; 1% instances), [ADV]() (86; 1% instances), [SYM]() (46; 0% instances), [PRON]() (43; 0% instances), [ROOT]() (42; 0% instances), [NUM]() (38; 0% instances), [PROPN]() (5; 0% instances), [AUX]() (2; 0% instances), [CCONJ]() (2; 0% instances), [PART]() (2; 0% instances), [ADP]() (1; 0% instances)
 
-18825 (77%) `PRON` nodes are leaves.
+12974 (83%) `PRON` nodes are leaves.
 
-4146 (17%) `PRON` nodes have one child.
+2376 (15%) `PRON` nodes have one child.
 
-836 (3%) `PRON` nodes have two children.
+193 (1%) `PRON` nodes have two children.
 
-582 (2%) `PRON` nodes have three or more children.
+137 (1%) `PRON` nodes have three or more children.
 
-The highest child degree of a `PRON` node is 13.
+The highest child degree of a `PRON` node is 7.
 
-Children of `PRON` nodes are attached using 28 different relations: [cs-dep/case]() (3647; 44% instances), [cs-dep/acl]() (1017; 12% instances), [cs-dep/punct]() (625; 8% instances), [cs-dep/cc]() (452; 5% instances), [cs-dep/cop]() (394; 5% instances), [cs-dep/nsubj]() (350; 4% instances), [cs-dep/advmod:emph]() (297; 4% instances), [cs-dep/nmod]() (286; 3% instances), [cs-dep/conj]() (260; 3% instances), [cs-dep/xcomp]() (214; 3% instances), [cs-dep/amod]() (180; 2% instances), [cs-dep/advmod]() (145; 2% instances), [cs-dep/mark]() (78; 1% instances), [cs-dep/dep]() (68; 1% instances), [cs-dep/appos]() (52; 1% instances), [cs-dep/advcl]() (45; 1% instances), [cs-dep/nummod:gov]() (31; 0% instances), [cs-dep/det]() (19; 0% instances), [cs-dep/neg]() (10; 0% instances), [cs-dep/parataxis]() (10; 0% instances), [cs-dep/det:numgov]() (9; 0% instances), [cs-dep/aux]() (7; 0% instances), [cs-dep/nummod]() (7; 0% instances), [cs-dep/csubj]() (5; 0% instances), [cs-dep/discourse]() (5; 0% instances), [cs-dep/dobj]() (4; 0% instances), [cs-dep/foreign]() (2; 0% instances), [cs-dep/vocative]() (1; 0% instances)
+Children of `PRON` nodes are attached using 28 different relations: [cs-dep/case]() (2176; 66% instances), [cs-dep/punct]() (132; 4% instances), [cs-dep/advmod:emph]() (119; 4% instances), [cs-dep/amod]() (113; 3% instances), [cs-dep/conj]() (103; 3% instances), [cs-dep/cc]() (101; 3% instances), [cs-dep/xcomp]() (91; 3% instances), [cs-dep/acl]() (74; 2% instances), [cs-dep/nmod]() (53; 2% instances), [cs-dep/orphan]() (50; 2% instances), [cs-dep/cop]() (43; 1% instances), [cs-dep/nsubj]() (36; 1% instances), [cs-dep/appos]() (33; 1% instances), [cs-dep/mark]() (30; 1% instances), [cs-dep/nummod:gov]() (30; 1% instances), [cs-dep/advmod]() (26; 1% instances), [cs-dep/det]() (18; 1% instances), [cs-dep/obl]() (17; 1% instances), [cs-dep/dep]() (12; 0% instances), [cs-dep/det:numgov]() (9; 0% instances), [cs-dep/advcl]() (6; 0% instances), [cs-dep/discourse]() (5; 0% instances), [cs-dep/csubj]() (2; 0% instances), [cs-dep/flat:foreign]() (2; 0% instances), [cs-dep/nummod]() (2; 0% instances), [cs-dep/parataxis]() (2; 0% instances), [cs-dep/obj]() (1; 0% instances), [cs-dep/vocative]() (1; 0% instances)
 
-Children of `PRON` nodes belong to 15 different parts of speech: [ADP]() (3622; 44% instances), [VERB]() (1419; 17% instances), [NOUN]() (781; 10% instances), [PUNCT]() (625; 8% instances), [CONJ]() (508; 6% instances), [ADV]() (347; 4% instances), [ADJ]() (300; 4% instances), [PRON]() (293; 4% instances), [PART]() (98; 1% instances), [SCONJ]() (86; 1% instances), [NUM]() (47; 1% instances), [PROPN]() (36; 0% instances), [DET]() (30; 0% instances), [SYM]() (20; 0% instances), [AUX]() (8; 0% instances)
+Children of `PRON` nodes belong to 15 different parts of speech: [ADP]() (2161; 66% instances), [NOUN]() (226; 7% instances), [ADJ]() (138; 4% instances), [PUNCT]() (132; 4% instances), [CCONJ]() (128; 4% instances), [ADV]() (126; 4% instances), [VERB]() (92; 3% instances), [DET]() (79; 2% instances), [AUX]() (43; 1% instances), [PRON]() (43; 1% instances), [NUM]() (33; 1% instances), [PART]() (32; 1% instances), [SCONJ]() (30; 1% instances), [PROPN]() (19; 1% instances), [SYM]() (5; 0% instances)
 
 
 
@@ -191,86 +187,74 @@ Children of `PRON` nodes belong to 15 different parts of speech: [ADP]() (3622; 
 
 ## Treebank Statistics (UD_Czech-CLTT)
 
-There are 15 `PRON` lemmas (1%), 72 `PRON` types (2%) and 1212 `PRON` tokens (3%).
-Out of 15 observed tags, the rank of `PRON` is: 10 in number of lemmas, 7 in number of types and 8 in number of tokens.
+There are 12 `PRON` lemmas (1%), 57 `PRON` types (1%) and 812 `PRON` tokens (3%).
+Out of 15 observed tags, the rank of `PRON` is: 12 in number of lemmas, 7 in number of types and 8 in number of tokens.
 
-The 10 most frequent `PRON` lemmas: <em>se, který, ten, jenž, on, všechen, veškerý, tento, sám, žádný</em>
+The 10 most frequent `PRON` lemmas: <em>který, se, jenž, ten, on, všechen, veškerý, sám, tento, žádný</em>
 
-The 10 most frequent `PRON` types:  <em>se, které, která, který, to, kterých, kterým, kterém, kterému, nichž</em>
+The 10 most frequent `PRON` types:  <em>se, které, která, který, to, kterých, kterým, kterém, nichž, všech</em>
 
-The 10 most frequent ambiguous lemmas: <em>který</em> ([PRON]() 449, [DET]() 1), <em>jenž</em> ([PRON]() 73, [DET]() 21), <em>tento</em> ([DET]() 315, [PRON]() 5), <em>žádný</em> ([PRON]() 4, [DET]() 2), <em>jaký</em> ([PRON]() 3, [DET]() 2), <em>několik</em> ([DET]() 1, [PRON]() 1), <em>některý</em> ([DET]() 6, [PRON]() 1), <em>takový</em> ([DET]() 21, [PRON]() 1)
+The 10 most frequent ambiguous lemmas: <em>který</em> ([PRON]() 321, [DET]() 1), <em>jenž</em> ([PRON]() 54, [DET]() 15), <em>tento</em> ([DET]() 213, [PRON]() 2), <em>žádný</em> ([PRON]() 2, [DET]() 2), <em>některý</em> ([DET]() 4, [PRON]() 1)
 
-The 10 most frequent ambiguous types:  <em>se</em> ([PRON]() 467, [ADP]() 34), <em>kterým</em> ([PRON]() 25, [DET]() 1), <em>je</em> ([VERB]() 185, [AUX]() 14, [PRON]() 11), <em>jehož</em> ([DET]() 6, [PRON]() 5), <em>tímto</em> ([DET]() 9, [PRON]() 3), <em>několika</em> ([PRON]() 1, [DET]() 1), <em>t</em> ([PRON]() 1, [NOUN]() 1), <em>takové</em> ([DET]() 5, [PRON]() 1), <em>tato</em> ([DET]() 24, [PRON]() 1), <em>žádná</em> ([DET]() 1, [PRON]() 1)
+The 10 most frequent ambiguous types:  <em>se</em> ([PRON]() 309, [ADP]() 28), <em>kterým</em> ([PRON]() 18, [DET]() 1), <em>je</em> ([AUX]() 133, [PRON]() 8, [VERB]() 7), <em>jehož</em> ([DET]() 4, [PRON]() 1), <em>t</em> ([PRON]() 1, [NOUN]() 1), <em>tímto</em> ([DET]() 3, [PRON]() 1)
 
 
 * <em>se</em>
-  * [PRON]() 467: <em>Výroční zpráva <b>se</b> nevyhotovuje v případech uvedených v §_20_odst._2 .</em>
-  * [ADP]() 34: <em>Do nákladů nebo výnosů jsou zaúčtovány ve stejných obdobích , kdy jsou zaúčtovány náklady nebo výnosy spojené <b>se</b> zajišťovanými položkami .</em>
+  * [PRON]() 309: <em>Zřizovací výdaje <b>se</b> odpisují nejvýše po dobu pěti let .</em>
+  * [ADP]() 28: <em>Do nákladů nebo výnosů jsou zaúčtovány ve stejných obdobích , kdy jsou zaúčtovány náklady nebo výnosy spojené <b>se</b> zajišťovanými položkami .</em>
 * <em>kterým</em>
-  * [PRON]() 25: <em>V těchto případech musí účetní záznam i účetní doklad obsahovat identifikátor , <b>kterým</b> lze nezaměnitelně určit vzájemnou vazbu mezi účetním záznamem a účetním dokladem , včetně souvisejících skutečností .</em>
+  * [PRON]() 18: <em>V těchto případech musí účetní záznam i účetní doklad obsahovat identifikátor , <b>kterým</b> lze nezaměnitelně určit vzájemnou vazbu mezi účetním záznamem a účetním dokladem , včetně souvisejících skutečností .</em>
   * [DET]() 1: <em>(1) Účetní jednotky sestavují účetní závěrku k rozvahovému dni , <b>kterým</b> je den , kdy uzavírají účetní knihy .</em>
 * <em>je</em>
-  * [VERB]() 185: <em>Spotřeba povolenek <b>je</b> vykázána bez ohledu na jejich následné vyřazení .</em>
-  * [AUX]() 14: <em>Na obě formy podpisového záznamu se přitom pohlíží stejně a obě mohou být použity v případech , kdy <b>je</b> vyžadován vlastnoruční podpis .</em>
-  * [PRON]() 11: <em>V případě , že <b>je</b> nelze přiřadit , uvedou se v provozní činnosti .</em>
+  * [AUX]() 133: <em>Spotřeba povolenek <b>je</b> vykázána bez ohledu na jejich následné vyřazení .</em>
+  * [PRON]() 8: <em>V případě , že <b>je</b> nelze přiřadit , uvedou se v provozní činnosti .</em>
+  * [VERB]() 7: <em>Hospodářským rokem je účetní období , které může začínat pouze prvním dnem jiného měsíce , než <b>je</b> leden .</em>
 * <em>jehož</em>
-  * [DET]() 6: <em>(6) Účetní jednotky uvedené v odstavci 1 jsou povinny sestavovat odpisový plán , na <b>jehož</b> podkladě provádějí odpisování majetku v průběhu jeho používání .</em>
-  * [PRON]() 5: <em>(4) Podpisovým záznamem se rozumí účetní záznam , <b>jehož</b> obsahem je vlastnoruční podpis nebo uznávaný elektronický podpis podle zvláštního právního předpisu , anebo obdobný průkazný účetní záznam v technické formě , který zaručuje průkaznou a jednoznačnou původnost .</em>
-* <em>tímto</em>
-  * [DET]() 9: <em>(1) Účetní jednotky sestavují v případech stanovených <b>tímto</b> zákonem účetní závěrku .</em>
-  * [PRON]() 3: <em>Ustanovení o provádění inventarizací podle zvláštních právních předpisů nejsou <b>tímto</b> dotčena .</em>
-* <em>několika</em>
-  * [PRON]() 1: <em>(2) Položka "C.I.2._Nedokončená_výroba_a_polotovary" obsahuje a) produkty , které prošly jedním nebo <b>několika</b> výrobními stupni a nejsou již materiálem , nejsou však dosud hotovým výrobkem ; tato položka rovněž obsahuje nedokončené činnosti , při nichž nevznikají hmotné produkty , b) odděleně evidované produkty , to je polotovary , které dosud neprošly všemi výrobními stupni a budou dokončeny nebo zkompletovány do hotových výrobků v dalším výrobním procesu účetní jednotky .</em>
-  * [DET]() 1: <em>(5) Jednotlivý účetní záznam může být tvořen <b>několika</b> dílčími účetními záznamy .</em>
+  * [DET]() 4: <em>(7) Technické zhodnocení , k <b>jehož</b> účtování a odpisování je oprávněna jiná účetní jednotka než vlastník majetku , se odepíše v průběhu používání technického zhodnocení .</em>
+  * [PRON]() 1: <em>(6) Účetní jednotka stanoví , zda bude o všech derivátech účtovat jako o derivátech k obchodování nebo využije možnost účtovat o nich jako o zajišťovacích derivátech v souladu s její strategií řízení finančních rizik ; za derivát se nepovažuje smluvní vztah , <b>jehož</b> předmětem je koupě , prodej nebo užívání komodity , a očekává se jeho splnění dodáním komodity .</em>
 * <em>t</em>
   * [PRON]() 1: <em>Odpisová sazba na jednotku těženého množství ( Kč / t , Kč / m je podílem pořizovací ceny ložiska na jednotlivém pozemku a zásob nevyhrazeného nerostu ( <b>t</b> , m prokázaných geologickým průzkumem na tomto pozemku .</em>
   * [NOUN]() 1: <em>Odpisová sazba na jednotku těženého množství ( Kč / <b>t</b> , Kč / m je podílem pořizovací ceny ložiska na jednotlivém pozemku a zásob nevyhrazeného nerostu ( t , m prokázaných geologickým průzkumem na tomto pozemku .</em>
-* <em>takové</em>
-  * [DET]() 5: <em>Účetní jednotky jsou povinny <b>takové</b> účetní záznamy vést nejméně v rozsahu stanoveném tímto zákonem .</em>
-  * [PRON]() 1: <em>Pokud tuto podmínku nemůže účetní jednotka zabezpečit , převede <b>takové</b> účetní záznamy do listinné formy odpovídající době jejich vyřízení a opatří je náležitostmi originálu , a to nejpozději před jejich zařazením do výběru archiválií ve skartačním řízení nebo mimo něj ; obdobně postupuje při nakládání s účetními záznamy přijatými účetní jednotkou v technické , případně smíšené formě , u účetních záznamů obsahujících uznávaný elektronický podpis včetně průkazného potvrzení v listinné formě o platnosti uznávaného elektronického podpisu v době přijetí účetního záznamu .</em>
-* <em>tato</em>
-  * [DET]() 24: <em>Pokud <b>tato</b> sazba daně známa není , použije se sazba platná v příštím účetním období .</em>
-  * [PRON]() 1: <em>(4) Pro účely tohoto zákona se jako reálná hodnota použije a) tržní hodnota , b) ocenění kvalifikovaným odhadem nebo posudkem znalce , není-li tržní hodnota k dispozici nebo <b>tato</b> nedostatečně představuje reálnou hodnotu ; metody ocenění použité při kvalifikovaném odhadu nebo posudku znalce musí zajistit přiměřené přiblížení se k tržní hodnotě , c) ocenění stanovené podle zvláštních právních předpisů , nelze-li postupovat podle písmen a)_a_b) .</em>
-* <em>žádná</em>
-  * [DET]() 1: <em>(3) Účetní jednotka je povinna použít účetní metody způsobem , který vychází z předpokladu , že bude nepřetržitě pokračovat ve své činnosti a že u ní nenastává <b>žádná</b> skutečnost , která by ji omezovala nebo ji zabraňovala v této činnosti pokračovat i v dohledné budoucnosti .</em>
-  * [PRON]() 1: <em>Splnění této povinnosti však účetní jednotka může prokázat i jiným způsobem , který nezpochybní <b>žádná</b> z osob , které s převedeným záznamem pracují .</em>
+* <em>tímto</em>
+  * [DET]() 3: <em>(1) Účetní jednotky sestavují v případech stanovených <b>tímto</b> zákonem účetní závěrku .</em>
+  * [PRON]() 1: <em>Do okamžiku schválení účetní závěrky , nejpozději však do konce následujícího účetního období , může účetní jednotka pouze z důvodů , že obsah položek účetní závěrky neodpovídá skutečnému stavu , již uzavřené účetní knihy opět otevřít a provést případnou opravu účetních zápisů a sestavit novou účetní závěrku , která se <b>tímto</b> stává účetní závěrkou podle tohoto zákona .</em>
 
 ## Morphology
 
-The form / lemma ratio of `PRON` is 4.800000 (the average of all parts of speech is 1.764161).
+The form / lemma ratio of `PRON` is 4.750000 (the average of all parts of speech is 1.685169).
 
-The 1st highest number of forms (15) was observed with the lemma “on”: <em>ho, je, jej, jemu, ji, jim, jimi, jí, nich, nim, nimi, ní, ním, ně, něj</em>.
+The 1st highest number of forms (13) was observed with the lemma “jenž”: <em>jehož, jenž, jež, jimiž, jímž, nichž, nimž, niž, nímž, níž, nějž, němuž, němž</em>.
 
-The 2nd highest number of forms (14) was observed with the lemma “jenž”: <em>jehož, jenž, jež, jimiž, jímž, nichž, nimž, niž, nímž, níž, nějž, němuž, němž, něž</em>.
+The 2nd highest number of forms (11) was observed with the lemma “on”: <em>je, jej, jemu, ji, jim, jimi, jí, nich, nimi, ní, ně</em>.
 
 The 3rd highest number of forms (10) was observed with the lemma “který”: <em>kterou, která, které, kterého, kterém, kterému, který, kterých, kterým, kterými</em>.
 
-`PRON` occurs with 13 features: [cs-feat/PronType]() (1212; 100% instances), [cs-feat/Case]() (1211; 100% instances), [cs-feat/Number]() (735; 61% instances), [cs-feat/Gender]() (610; 50% instances), [cs-feat/Reflex]() (475; 39% instances), [cs-feat/Variant]() (469; 39% instances), [cs-feat/PrepCase]() (93; 8% instances), [cs-feat/Person]() (71; 6% instances), [cs-feat/Animacy]() (57; 5% instances), [cs-feat/Style]() (12; 1% instances), [cs-feat/Negative]() (4; 0% instances), [cs-feat/Abbr]() (1; 0% instances), [cs-feat/NumType]() (1; 0% instances)
+`PRON` occurs with 12 features: [cs-feat/PronType]() (812; 100% instances), [cs-feat/Case]() (811; 100% instances), [cs-feat/Number]() (496; 61% instances), [cs-feat/Gender]() (401; 49% instances), [cs-feat/Reflex]() (314; 39% instances), [cs-feat/Variant]() (309; 38% instances), [cs-feat/PrepCase]() (67; 8% instances), [cs-feat/Animacy]() (43; 5% instances), [cs-feat/Person]() (39; 5% instances), [cs-feat/Style]() (2; 0% instances), [cs-feat/Abbr]() (1; 0% instances), [cs-feat/NumType]() (1; 0% instances)
 
-`PRON` occurs with 31 feature-value pairs: `Abbr=Yes`, `Animacy=Anim`, `Animacy=Inan`, `Case=Acc`, `Case=Dat`, `Case=Gen`, `Case=Ins`, `Case=Loc`, `Case=Nom`, `Gender=Fem`, `Gender=Masc`, `Gender=Masc,Neut`, `Gender=Neut`, `Negative=Neg`, `NumType=Card`, `Number=Plur`, `Number=Sing`, `Person=3`, `PrepCase=Npr`, `PrepCase=Pre`, `PronType=Dem`, `PronType=Dem,Ind`, `PronType=Ind`, `PronType=Int,Rel`, `PronType=Neg`, `PronType=Prs`, `PronType=Rel`, `PronType=Tot`, `Reflex=Yes`, `Style=Arch`, `Variant=Short`
+`PRON` occurs with 30 feature-value pairs: `Abbr=Yes`, `Animacy=Anim`, `Animacy=Inan`, `Case=Acc`, `Case=Dat`, `Case=Gen`, `Case=Ins`, `Case=Loc`, `Case=Nom`, `Gender=Fem`, `Gender=Masc`, `Gender=Masc,Neut`, `Gender=Neut`, `NumType=Card`, `Number=Plur`, `Number=Sing`, `Person=3`, `PrepCase=Npr`, `PrepCase=Pre`, `PronType=Dem`, `PronType=Dem,Ind`, `PronType=Ind`, `PronType=Int,Rel`, `PronType=Neg`, `PronType=Prs`, `PronType=Rel`, `PronType=Tot`, `Reflex=Yes`, `Style=Arch`, `Variant=Short`
 
-`PRON` occurs with 92 feature combinations.
-The most frequent feature combination is `Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short` (467 tokens).
+`PRON` occurs with 76 feature combinations.
+The most frequent feature combination is `Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short` (309 tokens).
 Examples: <em>se</em>
 
 
 ## Relations
 
-`PRON` nodes are attached to their parents using 14 different relations: [cs-dep/auxpass:reflex]() (353; 29% instances), [cs-dep/nsubj]() (267; 22% instances), [cs-dep/nmod]() (132; 11% instances), [cs-dep/dobj]() (127; 10% instances), [cs-dep/advmod]() (122; 10% instances), [cs-dep/expl]() (113; 9% instances), [cs-dep/cc]() (35; 3% instances), [cs-dep/nsubjpass]() (32; 3% instances), [cs-dep/conj]() (10; 1% instances), [cs-dep/iobj]() (8; 1% instances), [cs-dep/acl]() (4; 0% instances), [cs-dep/amod]() (4; 0% instances), [cs-dep/xcomp]() (4; 0% instances), [cs-dep/dep]() (1; 0% instances)
+`PRON` nodes are attached to their parents using 15 different relations: [cs-dep/expl:pass]() (241; 30% instances), [cs-dep/nsubj]() (195; 24% instances), [cs-dep/obj]() (80; 10% instances), [cs-dep/advmod]() (75; 9% instances), [cs-dep/expl:pv]() (68; 8% instances), [cs-dep/obl]() (56; 7% instances), [cs-dep/nmod]() (34; 4% instances), [cs-dep/nsubj:pass]() (25; 3% instances), [cs-dep/cc]() (23; 3% instances), [cs-dep/acl]() (4; 0% instances), [cs-dep/conj]() (4; 0% instances), [cs-dep/iobj]() (3; 0% instances), [cs-dep/xcomp]() (2; 0% instances), [cs-dep/amod]() (1; 0% instances), [cs-dep/dep]() (1; 0% instances)
 
-Parents of `PRON` nodes belong to 7 different parts of speech: [VERB]() (952; 79% instances), [NOUN]() (166; 14% instances), [ADJ]() (71; 6% instances), [X]() (10; 1% instances), [ADV]() (6; 0% instances), [PRON]() (6; 0% instances), [NUM]() (1; 0% instances)
+Parents of `PRON` nodes belong to 7 different parts of speech: [VERB]() (648; 80% instances), [NOUN]() (115; 14% instances), [ADJ]() (35; 4% instances), [X]() (7; 1% instances), [ADV]() (3; 0% instances), [PRON]() (3; 0% instances), [NUM]() (1; 0% instances)
 
-950 (78%) `PRON` nodes are leaves.
+639 (79%) `PRON` nodes are leaves.
 
-235 (19%) `PRON` nodes have one child.
+156 (19%) `PRON` nodes have one child.
 
-18 (1%) `PRON` nodes have two children.
+10 (1%) `PRON` nodes have two children.
 
-9 (1%) `PRON` nodes have three or more children.
+7 (1%) `PRON` nodes have three or more children.
 
-The highest child degree of a `PRON` node is 5.
+The highest child degree of a `PRON` node is 4.
 
-Children of `PRON` nodes are attached using 12 different relations: [cs-dep/case]() (200; 66% instances), [cs-dep/cc]() (41; 14% instances), [cs-dep/acl]() (18; 6% instances), [cs-dep/nmod]() (9; 3% instances), [cs-dep/punct]() (8; 3% instances), [cs-dep/xcomp]() (8; 3% instances), [cs-dep/conj]() (7; 2% instances), [cs-dep/cop]() (4; 1% instances), [cs-dep/nsubj]() (4; 1% instances), [cs-dep/advmod]() (1; 0% instances), [cs-dep/advmod:emph]() (1; 0% instances), [cs-dep/ccomp]() (1; 0% instances)
+Children of `PRON` nodes are attached using 11 different relations: [cs-dep/case]() (132; 66% instances), [cs-dep/cc]() (27; 14% instances), [cs-dep/xcomp]() (8; 4% instances), [cs-dep/acl]() (7; 4% instances), [cs-dep/punct]() (6; 3% instances), [cs-dep/nmod]() (5; 3% instances), [cs-dep/cop]() (4; 2% instances), [cs-dep/nsubj]() (4; 2% instances), [cs-dep/conj]() (3; 2% instances), [cs-dep/orphan]() (2; 1% instances), [cs-dep/advmod:emph]() (1; 1% instances)
 
-Children of `PRON` nodes belong to 8 different parts of speech: [ADP]() (200; 66% instances), [CONJ]() (40; 13% instances), [NOUN]() (23; 8% instances), [VERB]() (22; 7% instances), [PUNCT]() (8; 3% instances), [PRON]() (6; 2% instances), [ADV]() (2; 1% instances), [ADJ]() (1; 0% instances)
+Children of `PRON` nodes belong to 9 different parts of speech: [ADP]() (132; 66% instances), [CCONJ]() (26; 13% instances), [NOUN]() (19; 10% instances), [VERB]() (7; 4% instances), [PUNCT]() (6; 3% instances), [AUX]() (4; 2% instances), [PRON]() (3; 2% instances), [ADJ]() (1; 1% instances), [ADV]() (1; 1% instances)
 

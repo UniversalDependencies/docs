@@ -31,5 +31,5 @@ compound(milhões, 150)
 
 The two other compounding relations are:
 
-- [mwe]() for fixed grammaticized expressions with function words
-- [name]() for proper nouns constituted of multiple nominal elements
+- [fixed]() for fixed grammaticized expressions with function words
+- [flat]() for proper nouns constituted of multiple nominal elements

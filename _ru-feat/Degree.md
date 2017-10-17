@@ -16,7 +16,7 @@ compared, too.
 
 #### Examples
 
-* _<b>умный</b> человек&nbsp;_ “<b>young</b> man”
+* _<b>умный</b> человек&nbsp;_ “<b>clever</b> man”
 
 ### `Cmp`: comparative, second degree
 
@@ -25,7 +25,7 @@ object.
 
 #### Examples
 
-* _этот человек <b>умнее</b> меня&nbsp;_ “the man is <b>younger</b> than me”
+* _этот человек <b>умнее</b> меня&nbsp;_ “the man is <b>cleverer</b> than me”
 
 ### `Sup`: superlative, third degree
 
@@ -34,4 +34,4 @@ objects within a set.
 
 #### Examples
 
-* _это <b>наиумнейший</b> человек в нашей команде&nbsp;_ “this is the <b>youngest</b> man in our team”
+* _это <b>наиумнейший</b> человек в нашей команде&nbsp;_ “this is the <b>cleverest</b> man in our team”

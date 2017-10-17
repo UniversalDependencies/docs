@@ -2,7 +2,7 @@
 layout: relation
 title: 'csubjpass'
 shortdef: 'clausal passive subject'
+udver: '2'
 ---
 
-This document is a placeholder for the language-specific documentation
-for `csubjpass`.
+The relation `csubjpass` is not used in Coptic, refer to the documentation on `nsubj` for (pseudo-)passivization.

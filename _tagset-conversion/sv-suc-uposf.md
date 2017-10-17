@@ -1,6 +1,7 @@
 ---
 layout: base
 title: 'Tagset sv::suc conversion to universal POS tags and features'
+udver: '2'
 ---
 
 <a href="index.html">all tables</a>
@@ -74,8 +75,8 @@ Tagset <tt>sv::suc</tt>, total 155 tags.
   <tr><td>JJ|SUV|UTR/NEU|PLU|IND|NOM</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Definite=Ind|Degree=Sup|Number=Plur</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>JJ|SUV|UTR/NEU|SIN/PLU|DEF|NOM</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Definite=Def|Degree=Sup</td><td><em>bästa, största, närmaste, viktigaste, högsta</em></td></tr>
   <tr><td>JJ|SUV|UTR/NEU|SIN/PLU|IND|NOM</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|Definite=Ind|Degree=Sup</td><td><em>störst, bäst, tidigast, högst, fattigast</em></td></tr>
-  <tr style="background:lightgray"><td>KN</td><td>=&gt;</td><td>CONJ</td><td>_</td><td><em>och, eller, som, än, men</em></td></tr>
-  <tr><td>KN|AN</td><td>=&gt;</td><td>CONJ</td><td>Abbr=Yes</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>KN</td><td>=&gt;</td><td>CCONJ</td><td>_</td><td><em>och, eller, som, än, men</em></td></tr>
+  <tr><td>KN|AN</td><td>=&gt;</td><td>CCONJ</td><td>Abbr=Yes</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>MAD</td><td>=&gt;</td><td>PUNCT</td><td>PunctType=Colo,Excl,Peri,Qest</td><td><em>., ?, :, !, ...</em></td></tr>
   <tr><td>MID</td><td>=&gt;</td><td>PUNCT</td><td>PunctType=Comm,Dash,Semi</td><td><em>,, -, :, *, ;</em></td></tr>
   <tr style="background:lightgray"><td>NN|-|-|-|-</td><td>=&gt;</td><td>NOUN</td><td>_</td><td><em>godo, fjol, fullo, somras, måtto</em></td></tr>
@@ -155,7 +156,7 @@ Tagset <tt>sv::suc</tt>, total 155 tags.
   <tr style="background:lightgray"><td>RO|GEN</td><td>=&gt;</td><td>ADJ</td><td>Case=Gen|NumType=Ord</td><td><em></em></td></tr>
   <tr><td>RO|NOM</td><td>=&gt;</td><td>ADJ</td><td>Case=Nom|NumType=Ord</td><td><em>första, andra, tredje, fjärde, femte</em></td></tr>
   <tr style="background:lightgray"><td>SN</td><td>=&gt;</td><td>SCONJ</td><td>_</td><td><em>att, om, innan, eftersom, medan</em></td></tr>
-  <tr><td>UO</td><td>=&gt;</td><td>X</td><td>Foreign=Foreign</td><td><em>companionship, vice, versa, family, capita</em></td></tr>
+  <tr><td>UO</td><td>=&gt;</td><td>X</td><td>Foreign=Yes</td><td><em>companionship, vice, versa, family, capita</em></td></tr>
   <tr style="background:lightgray"><td>VB|AN</td><td>=&gt;</td><td>VERB</td><td>Abbr=Yes</td><td><em>jfr</em></td></tr>
   <tr><td>VB|IMP|AKT</td><td>=&gt;</td><td>VERB</td><td>Mood=Imp|VerbForm=Fin|Voice=Act</td><td><em>se, Diskutera, låt, Läs, Gå</em></td></tr>
   <tr style="background:lightgray"><td>VB|IMP|SFO</td><td>=&gt;</td><td>VERB</td><td>Mood=Imp|VerbForm=Fin|Voice=Pass</td><td><em>tas</em></td></tr>

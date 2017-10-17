@@ -2,6 +2,7 @@
 layout: postag
 title: 'PRON'
 shortdef: 'pronoun'
+udver: '2'
 ---
 
 Traditional grammars of Slavic languages do not distinguish pronouns from pro-adjectives (determiners, [sla-pos/DET]()),
@@ -35,7 +36,7 @@ List of nominative forms of personal pronouns (accusative for reflexives) in var
 * [bg] _аз, ти, той, тя, то, ние, вие, те, се_
 * [cu] _азъ, тꙑ, мꙑ, вꙑ, и, сѧ_
 
-## Possessive pronouns
+## Possessives
 
 The words that are traditionally called possessive pronouns are in fact possessive determiners and should be tagged
 `DET Poss=Yes | PronType=Prs`. First and second person possessives, and the reflexive possessive, function like adjectives.
@@ -150,10 +151,10 @@ hence it is pronoun and not determiner.
 
 ## All, everything
 
-The total pronouns with the root _vs/vš_ are another problematic group.
+The total pronouns with the root _vs/vš/sv_ are another problematic group, with some parallels to the demonstratives.
 
-In Czech, _všechen_ can be used adjectively and has forms for different genders and numbers but usually only a subset of the forms is used,
-and quite often they are used without a modified noun:
+In Czech, _všechen_ can be used adjectively and has forms for different genders and numbers but usually only a subset of the forms is
+used, and quite often they are used without a modified noun:
 
 * _všichni_ (masculine animate plural), meaning “all, everybody,” may include non-masculine referents
 * _všechno_ (neuter singular), meaning “everything”
@@ -172,8 +173,14 @@ If we limit the search to singular neuters, and exclude the two-pronoun expressi
 _všechno_ is a determiner, mostly with mass nouns (_všechno světlo_ “all light”);
 this contrasts with the total number of singual neuter occurrences, 600.
 
-To summarize, we may want to grant this lemma special treatment. At least the singular neuter form, _všechno,_ would
-deserve the `PRON` tag, unless it occurs in a clearly attributive position.
+The evidence here is similar to demonstratives, which in general behave like adjectives, but some neuter singular forms are used
+to represent general or unspecified entities, hence they are closer to pronouns. The solution should be same for demonstratives and
+for the equivalents of _all,_ chosing one of the following options:
+
+1. Tag all occurrences `DET PronType=Tot`. The lemma is always masculine singular nominative.
+2. As 1., with the exception that selected neuter singular forms are ambiguous and may also appear as `PRON PronType=Tot`.
+   Then the lemma is neuter singular nominative. Disambiguation has to be done by context: if it pre-modifies
+   a noun phrase and concords with it in gender, number and case, it is determiner; otherwise it is pronoun.
 
 It remains to be determined how the cognate words in the other Slavic languages behave.
 
@@ -181,6 +188,11 @@ It remains to be determined how the cognate words in the other Slavic languages 
 * [sk] lemma _všetok,_ most frequent forms _všetko, všetci,_ other forms _všetkých, všetkým, všetky, všetkými, všetkého, všetkému, všetku_
 * [hsb] _wšě, wšěch, wšěm, wšykne?, wšeho, wšemu, wšitke, wšitkim, wšitkich_ (DET; only _wšitkim_ was used without a modified noun), _wšitko_ (PRON)
 * [pl] lemma _wszystko, wszyscy_ (PRON); lemma _wszystek_ (DET), forms _wszystkie, wszystkich, wszyscy, wsze_ (but the pronoun-determiner distinction is probably caused by the conversion procedure)
+* [ru] _все, всё_
+* [sl] _ves, vsa, vse, vsi_
+* [hr] _sve, svatko, svaki, svaka, svako_
+* [bg] _всеки, всичко, всички_
+* [cu] _вьсь, весь, вьсъ, вьсѣ, вьсе, вьси, вьсѧ, вьсꙗкъ_
 
 ## Pronominal quantifiers
 
@@ -193,6 +205,7 @@ They are morphologically and syntactically different from adjectives and other d
 They are much closer to cardinal numerals but they cannot get the `NUM` tag, which is reserved for definite quantities.
 
 Note that the meaning of [pl] _tylko_ has shifted towards “only”, which makes it an adverb rather than a demonstrative quantifier.
+In [hr], _toliko_ is used sometimes as quantifier and sometimes as adverb.
 A similar shift may have happened in some of the other languages, too.
 The interrogative _kolik_ may be used as relative, except in [hsb] and [bg].
 Occasionally it may be also used as indefinite ([pl] _kilka_).
@@ -203,7 +216,7 @@ Occasionally it may be also used as indefinite ([pl] _kilka_).
 * [pl] _kilka_
 * [ru] _сколько, столько, несколько_
 * [sl] _koliko_
-* [hr] _koliko_
+* [hr] _koliko, toliko, nekoliko_
 * [bg] _колко, колкото_
 * [cu] _колико_
 
@@ -225,7 +238,7 @@ When it acts as subject, it is regarded as neuter singular for the purpose of su
 Trenér sázel mnohem více na herní stránku než na kondici . \n Coach bet much more on game aspect than on physical-condition .
 advmod(více, mnohem)
 advmod(sázel, více)
-dobj(sázel, stránku)
+obj(sázel, stránku)
 nmod(více, kondici)
 ~~~
 
@@ -235,7 +248,7 @@ As indefinite numeral, it is its own lemma (but there are only two occurrences i
 
 ~~~ sdparse
 Bude vybráno více zájemců . \n Will-be selected more applicants .
-nsubjpass(vybráno, zájemců)
+nsubj:pass(vybráno, zájemců)
 det:numgov(zájemců, více)
 ~~~
 
@@ -269,15 +282,6 @@ det(let, mnogo)
 ~~~
 
 ~~~ sdparse
-Slovenija potrebuje več urejenih informacij na internetu \n Slovenia needs more orderly informations on internet
-advmod(urejenih, več)
-amod(informacij, urejenih)
-~~~
-
-The above sentence seems ambiguous. _Več_ is annotated as an adverb modifying the adjective _urejenih,_ but it could
-also be a quantifier for the whole phrase _urejenih informacij._
-
-~~~ sdparse
 Domovanja so raztresena na več kilometrih \n Dwellings are scattered on more kilometers
 det(kilometrih, več)
 case(kilometrih, na)
@@ -289,18 +293,9 @@ Partitive usage:
 ~~~ sdparse
 Imeli več časa za priprave \n They-had more time for preparations
 det(časa, več)
-dobj(Imeli, časa)
+obj(Imeli, časa)
 ~~~
 
-~~~ sdparse
-ki so terjali življenja več kot sto civilistov \n that have lost lives more than hundred civilians
-mwe(več, kot)
-det(civilistov, več)
-nummod(civilistov, sto)
-~~~
-
-The above annotation is taken from UD Slovenian 1.3 but I think that _več kot_ should be attached to _sto_ and the
-relation should be [sla-dep/advmod]().
 
 ## References
 

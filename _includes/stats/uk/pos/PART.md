@@ -4,74 +4,90 @@
 
 ## Treebank Statistics (UD_Ukrainian)
 
-There are 21 `PART` lemmas (3%), 21 `PART` types (3%) and 61 `PART` tokens (4%).
-Out of 16 observed tags, the rank of `PART` is: 6 in number of lemmas, 9 in number of types and 8 in number of tokens.
+There are 39 `PART` lemmas (1%), 39 `PART` types (1%) and 319 `PART` tokens (2%).
+Out of 17 observed tags, the rank of `PART` is: 8 in number of lemmas, 10 in number of types and 11 in number of tokens.
 
-The 10 most frequent `PART` lemmas: <em>не, то, би, бим, ось, аж, б, же, за, навіть</em>
+The 10 most frequent `PART` lemmas: <em>не, навіть, ще, ж, лише, і, й, аж, саме, таки</em>
 
-The 10 most frequent `PART` types:  <em>не, то, Ось, би, бим, Ото, Так, Чи, аж, б</em>
+The 10 most frequent `PART` types:  <em>не, навіть, ще, ж, лише, і, й, аж, саме, таки</em>
 
-The 10 most frequent ambiguous lemmas: <em>то</em> ([PART]() 4, [PRON]() 1), <em>за</em> ([ADP]() 4, [PART]() 1), <em>просто</em> ([ADV]() 1, [PART]() 1), <em>так</em> ([ADV]() 3, [INTJ]() 1, [PART]() 1), <em>тільки</em> ([PART]() 1, [ADV]() 1), <em>це</em> ([PRON]() 14, [PART]() 1), <em>чи</em> ([CONJ]() 4, [PART]() 1), <em>ще</em> ([ADV]() 3, [PART]() 1), <em>щоб</em> ([SCONJ]() 11, [PART]() 1)
+The 10 most frequent ambiguous lemmas: <em>ще</em> ([ADV]() 21, [PART]() 16), <em>і</em> ([CCONJ]() 271, [PART]() 13), <em>й</em> ([CCONJ]() 37, [PART]() 11), <em>саме</em> ([PART]() 7, [ADV]() 1), <em>то</em> ([SCONJ]() 8, [PRON]() 6, [PART]() 6, [CCONJ]() 4), <em>чи</em> ([CCONJ]() 9, [PART]() 6, [SCONJ]() 3), <em>тільки</em> ([PART]() 5, [ADV]() 2, [SCONJ]() 1), <em>просто</em> ([PART]() 4, [ADV]() 1), <em>якраз</em> ([PART]() 4, [ADV]() 4), <em>а</em> ([CCONJ]() 64, [PART]() 3)
 
-The 10 most frequent ambiguous types:  <em>то</em> ([PART]() 4, [PRON]() 1), <em>Так</em> ([INTJ]() 1, [PART]() 1), <em>Чи</em> ([PART]() 1, [CONJ]() 1), <em>за</em> ([ADP]() 3, [PART]() 1), <em>просто</em> ([ADV]() 1, [PART]() 1), <em>тільки</em> ([PART]() 1, [ADV]() 1), <em>це</em> ([PRON]() 7, [PART]() 1), <em>ще</em> ([ADV]() 3, [PART]() 1), <em>щоб</em> ([SCONJ]() 11, [PART]() 1)
+The 10 most frequent ambiguous types:  <em>ще</em> ([ADV]() 19, [PART]() 14), <em>і</em> ([CCONJ]() 258, [PART]() 9), <em>й</em> ([CCONJ]() 36, [PART]() 11), <em>саме</em> ([PART]() 5, [ADV]() 1, [DET]() 1), <em>то</em> ([SCONJ]() 8, [PART]() 4, [CCONJ]() 4, [PRON]() 2), <em>чи</em> ([CCONJ]() 8, [PART]() 4, [SCONJ]() 3), <em>тільки</em> ([PART]() 5, [SCONJ]() 1, [ADV]() 1), <em>просто</em> ([PART]() 4, [ADV]() 1), <em>якраз</em> ([PART]() 2, [ADV]() 1), <em>а</em> ([CCONJ]() 46, [PART]() 2)
 
 
-* <em>то</em>
-  * [PART]() 4: <em>Сиджу на парах і не знаю , чи <b>то</b> я сплю , чи <b>то</b> дрімаю …</em>
-  * [PRON]() 1: <em>Чи я сплю чи <b>то</b> сниться мені ?</em>
-* <em>Так</em>
-  * [INTJ]() 1: <em><b>Так</b> , лікарю , саме цієї ночі .</em>
-  * [PART]() 1: <em><b>Так</b> як же інакше !</em>
-* <em>Чи</em>
-  * [PART]() 1: <em><b>Чи</b> то не він це шукав ?</em>
-  * [CONJ]() 1: <em><b>Чи</b> я сплю чи то сниться мені ?</em>
-* <em>за</em>
-  * [ADP]() 3: <em>Але ти не думай , що все вже <b>за</b> нами .</em>
-  * [PART]() 1: <em>Що то <b>за</b> звір такий , теорема Піфагора ?</em>
-* <em>просто</em>
-  * [ADV]() 1: <em>Але ти , малий , не думай , що все так <b>просто</b> .</em>
-  * [PART]() 1: <em>Не те щоб не знав , <b>просто</b> забув .</em>
-* <em>тільки</em>
-  * [PART]() 1: <em>Як <b>тільки</b> прокидається , біжить до вікна .</em>
-  * [ADV]() 1: <em>Той , що шукає досконалості , є приречений створити <b>тільки</b> фрагменти .</em>
-* <em>це</em>
-  * [PRON]() 7: <em>Не забуваймо , <b>це</b> ще не все .</em>
-  * [PART]() 1: <em>Василю Петровичу , ну що <b>це</b> Ви ?</em>
 * <em>ще</em>
-  * [ADV]() 3: <em>Не забуваймо , це <b>ще</b> не все .</em>
-  * [PART]() 1: <em>Його , батька , я <b>ще</b> бачив , коли проминав вітрину крамниці на розі бульвару Пуанкаре , торговельного дому « Взуття для делікатних ніг » , де він був за першого продавця .</em>
-* <em>щоб</em>
-  * [SCONJ]() 11: <em>Всім важливо , <b>щоб</b> нами зберігався спокій .</em>
-  * [PART]() 1: <em>Мені важливо , <b>щоб</b> був збережений спокій .</em>
+  * [ADV]() 19: <em>Такого ми <b>ще</b> не бачили .</em>
+  * [PART]() 14: <em>Колючим дротом було оточено <b>ще</b> й багато лісу навколо зони .</em>
+* <em>і</em>
+  * [CCONJ]() 258: <em>Він акомпанує вечір <b>і</b> цілу ніч <b>і</b> зовсім не механічно .</em>
+  * [PART]() 9: <em>Так <b>і</b> тягне робити виписки .</em>
+* <em>й</em>
+  * [CCONJ]() 36: <em>І не тільки бачу , але <b>й</b> чую , бо запах розповсюдився по всьому поверху .</em>
+  * [PART]() 11: <em>Колючим дротом було оточено ще <b>й</b> багато лісу навколо зони .</em>
+* <em>саме</em>
+  * [PART]() 5: <em>І <b>саме</b> долар , а не купонами за курсом .</em>
+  * [ADV]() 1: <em>Я <b>саме</b> йшов на пошту , щоб послати Вам усі важливіші інформації про те , як стоїть справа з друкуванням Вашої книжки .</em>
+  * [DET]() 1: <em>Таке <b>саме</b> діялося із молоком .</em>
+* <em>то</em>
+  * [SCONJ]() 8: <em>Судячи з того , що я бачу на 4 поверсі , <b>то</b> так .</em>
+  * [PART]() 4: <em>Виявилося , що <b>то</b> були два долари .</em>
+  * [CCONJ]() 4: <em>Негр легко хитається взад і вперед на своєму високому сидінні , торкаючи <b>то</b> той , <b>то</b> другий ударний інструмент в строгому такті .</em>
+  * [PRON]() 2: <em>І <b>то</b> буде кінець .</em>
+* <em>чи</em>
+  * [CCONJ]() 8: <em>підкажіть , у вівторок семінар <b>чи</b> лекція , і що готувати ??</em>
+  * [PART]() 4: <em>Господи , — майже крикнула , — та <b>чи</b> ж ви не розумієте , що його ви не вб’єте ?</em>
+  * [SCONJ]() 3: <em>Серед ночі дорослі йшли купатися , а ми залягали у кущах полину , пильнуючи , <b>чи</b> не треба буде рятувати тата .</em>
+* <em>тільки</em>
+  * [PART]() 5: <em>Як <b>тільки</b> випогоджувалося , ми лізли на дах і смолили шпари .</em>
+  * [SCONJ]() 1: <em>Точну ціну колоди опублікую через кілька днів , як <b>тільки</b> своє слово скаже типографія .</em>
+  * [ADV]() 1: <em>Але <b>тільки</b> взимку .</em>
+* <em>просто</em>
+  * [PART]() 4: <em>Тож <b>просто</b> на вулиці ми познайомилися з Джоном .</em>
+  * [ADV]() 1: <em>Їхня чорна баня стояла <b>просто</b> над Пслухом .</em>
+* <em>якраз</em>
+  * [PART]() 2: <em>А для нас Боб Марлі <b>якраз</b> тоді був найголовнішою музикою , ми проживали своє реґґі .</em>
+  * [ADV]() 1: <em>З найближчими приятелями ми почали <b>якраз</b> перед тим готуватися до перевороту , який мав вивільнити Західну Україну від радянського союзу .</em>
+* <em>а</em>
+  * [CCONJ]() 46: <em>І саме долар , <b>а</b> не купонами за курсом .</em>
+  * [PART]() 2: <em>Він сказав — <b>а</b> вдруг крушеніє .</em>
 
 ## Morphology
 
-The form / lemma ratio of `PART` is 1.000000 (the average of all parts of speech is 1.172859).
+The form / lemma ratio of `PART` is 1.000000 (the average of all parts of speech is 1.380843).
 
-The 1st highest number of forms (1) was observed with the lemma “аж”: <em>аж</em>.
+The 1st highest number of forms (1) was observed with the lemma “а”: <em>а</em>.
 
-The 2nd highest number of forms (1) was observed with the lemma “б”: <em>б</em>.
+The 2nd highest number of forms (1) was observed with the lemma “аж”: <em>аж</em>.
 
-The 3rd highest number of forms (1) was observed with the lemma “би”: <em>би</em>.
+The 3rd highest number of forms (1) was observed with the lemma “б”: <em>б</em>.
 
-`PART` does not occur with any features.
+`PART` occurs with 2 features: [uk-feat/Polarity]() (144; 45% instances), [uk-feat/PronType]() (1; 0% instances)
+
+`PART` occurs with 2 feature-value pairs: `Polarity=Neg`, `PronType=Prs`
+
+`PART` occurs with 3 feature combinations.
+The most frequent feature combination is `_` (174 tokens).
+Examples: <em>навіть, ще, ж, лише, і, й, аж, саме, таки, то</em>
 
 
 ## Relations
 
-`PART` nodes are attached to their parents using 6 different relations: [uk-dep/neg]() (35; 57% instances), [uk-dep/discourse]() (12; 20% instances), [uk-dep/mark]() (8; 13% instances), [uk-dep/aux]() (4; 7% instances), [uk-dep/expl]() (1; 2% instances), [uk-dep/root]() (1; 2% instances)
+`PART` nodes are attached to their parents using 4 different relations: [uk-dep/discourse]() (166; 52% instances), [uk-dep/advmod]() (144; 45% instances), [uk-dep/fixed]() (8; 3% instances), [uk-dep/conj]() (1; 0% instances)
 
-Parents of `PART` nodes belong to 8 different parts of speech: [VERB]() (35; 57% instances), [ADJ]() (7; 11% instances), [ADV]() (7; 11% instances), [PRON]() (6; 10% instances), [DET]() (2; 3% instances), [NOUN]() (2; 3% instances), [PART]() (1; 2% instances), [ROOT]() (1; 2% instances)
+Parents of `PART` nodes belong to 13 different parts of speech: [VERB]() (171; 54% instances), [NOUN]() (47; 15% instances), [ADV]() (42; 13% instances), [ADJ]() (16; 5% instances), [PART]() (11; 3% instances), [PRON]() (11; 3% instances), [PROPN]() (8; 3% instances), [DET]() (6; 2% instances), [CCONJ]() (2; 1% instances), [SCONJ]() (2; 1% instances), [ADP]() (1; 0% instances), [AUX]() (1; 0% instances), [NUM]() (1; 0% instances)
 
-59 (97%) `PART` nodes are leaves.
+307 (96%) `PART` nodes are leaves.
 
-1 (2%) `PART` nodes have one child.
+11 (3%) `PART` nodes have one child.
 
-1 (2%) `PART` nodes have two children.
+0 (0%) `PART` nodes have two children.
 
-The highest child degree of a `PART` node is 2.
+1 (0%) `PART` nodes have three or more children.
 
-Children of `PART` nodes are attached using 3 different relations: [uk-dep/mark]() (1; 33% instances), [uk-dep/nsubj]() (1; 33% instances), [uk-dep/punct]() (1; 33% instances)
+The highest child degree of a `PART` node is 3.
 
-Children of `PART` nodes belong to 3 different parts of speech: [NOUN]() (1; 33% instances), [PART]() (1; 33% instances), [PUNCT]() (1; 33% instances)
+Children of `PART` nodes are attached using 5 different relations: [uk-dep/fixed]() (7; 50% instances), [uk-dep/advmod]() (4; 29% instances), [uk-dep/cc]() (1; 7% instances), [uk-dep/discourse]() (1; 7% instances), [uk-dep/punct]() (1; 7% instances)
+
+Children of `PART` nodes belong to 4 different parts of speech: [PART]() (11; 79% instances), [ADV]() (1; 7% instances), [CCONJ]() (1; 7% instances), [PUNCT]() (1; 7% instances)
 

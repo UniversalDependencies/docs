@@ -4,88 +4,86 @@
 
 ## Treebank Statistics (UD_Danish)
 
-There are 6598 `NOUN` lemmas (48%), 8922 `NOUN` types (48%) and 18725 `NOUN` tokens (19%).
+There are 6186 `NOUN` lemmas (48%), 8304 `NOUN` types (48%) and 16902 `NOUN` tokens (19%).
 Out of 17 observed tags, the rank of `NOUN` is: 1 in number of lemmas, 1 in number of types and 1 in number of tokens.
 
 The 10 most frequent `NOUN` lemmas: <em>år, dag, krone, gang, tid, mand, sted, barn, land, del</em>
 
-The 10 most frequent `NOUN` types:  <em>år, kr., gang, dag, tid, del, folk, går, mand, måde</em>
+The 10 most frequent `NOUN` types:  <em>år, kr., gang, dag, tid, del, folk, mand, går, børn</em>
 
-The 10 most frequent ambiguous lemmas: <em>krone</em> ([NOUN]() 134, [VERB]() 1), <em>arbejde</em> ([NOUN]() 43, [VERB]() 34), <em>række</em> ([NOUN]() 42, [VERB]() 5), <em>tale</em> ([VERB]() 47, [NOUN]() 30), <em>time</em> ([NOUN]() 30, [VERB]() 1), <em>samarbejde</em> ([NOUN]() 27, [VERB]() 4), <em>ret</em> ([NOUN]() 25, [ADV]() 16, [ADJ]() 1), <em>aftale</em> ([NOUN]() 24, [VERB]() 3), <em>læge</em> ([NOUN]() 19, [VERB]() 3), <em>stemme</em> ([NOUN]() 17, [VERB]() 8)
+The 10 most frequent ambiguous lemmas: <em>krone</em> ([NOUN]() 123, [VERB]() 1), <em>række</em> ([NOUN]() 40, [VERB]() 5), <em>arbejde</em> ([NOUN]() 38, [VERB]() 31), <em>tale</em> ([VERB]() 39, [NOUN]() 29), <em>time</em> ([NOUN]() 28, [VERB]() 1), <em>ret</em> ([NOUN]() 24, [ADV]() 16, [ADJ]() 1), <em>samarbejde</em> ([NOUN]() 24, [VERB]() 4), <em>aftale</em> ([NOUN]() 21, [VERB]() 3), <em>læge</em> ([NOUN]() 17, [VERB]() 3), <em>stemme</em> ([NOUN]() 17, [VERB]() 8)
 
-The 10 most frequent ambiguous types:  <em>går</em> ([VERB]() 65, [NOUN]() 54), <em>arbejde</em> ([NOUN]() 31, [VERB]() 12), <em>tale</em> ([NOUN]() 29, [VERB]() 19), <em>landet</em> ([NOUN]() 21, [VERB]() 1), <em>lande</em> ([NOUN]() 21, [VERB]() 1), <em>samarbejde</em> ([NOUN]() 20, [VERB]() 3), <em>brug</em> ([NOUN]() 18, [VERB]() 1), <em>hold</em> ([NOUN]() 16, [VERB]() 3), <em>alt</em> ([ADJ]() 54, [ADV]() 18, [NOUN]() 14), <em>siden</em> ([ADV]() 44, [ADP]() 28, [NOUN]() 13, [SCONJ]() 7)
+The 10 most frequent ambiguous types:  <em>går</em> ([VERB]() 55, [NOUN]() 47), <em>tale</em> ([NOUN]() 28, [VERB]() 15), <em>arbejde</em> ([NOUN]() 27, [VERB]() 11), <em>landet</em> ([NOUN]() 20, [VERB]() 1), <em>lande</em> ([NOUN]() 19, [VERB]() 1), <em>samarbejde</em> ([NOUN]() 19, [VERB]() 3), <em>brug</em> ([NOUN]() 16, [VERB]() 1), <em>alt</em> ([ADJ]() 49, [ADV]() 17, [NOUN]() 13), <em>glæde</em> ([NOUN]() 10, [VERB]() 3), <em>hold</em> ([NOUN]() 12, [VERB]() 3)
 
 
 * <em>går</em>
-  * [VERB]() 65: <em>Han ser sig om i hendes hyggelige stue og <b>går</b> så mod udgangsdøren .</em>
-  * [NOUN]() 54: <em>I <b>går</b> omstødte Odense kommune kort og godt beslutningen .</em>
-* <em>arbejde</em>
-  * [NOUN]() 31: <em>Flertallet af bekendtskabskredsen står nu uden <b>arbejde</b> .</em>
-  * [VERB]() 12: <em>Derfor elsker jeg at <b>arbejde</b> her - at gøre en indsats . "</em>
+  * [VERB]() 55: <em>Han ser sig om i hendes hyggelige stue og <b>går</b> så mod udgangsdøren .</em>
+  * [NOUN]() 47: <em>De kunne netop i <b>går</b> fejre , at de er færdiguddannede .</em>
 * <em>tale</em>
-  * [NOUN]() 29: <em>Der er såmænd bare <b>tale</b> om en ganske almindelig hverdagshistorie .</em>
-  * [VERB]() 19: <em>Så kan vi <b>tale</b> om en konference bagefter . "</em>
+  * [NOUN]() 28: <em>Der er såmænd bare <b>tale</b> om en ganske almindelig hverdagshistorie .</em>
+  * [VERB]() 15: <em>Så kan vi <b>tale</b> om en konference bagefter . "</em>
+* <em>arbejde</em>
+  * [NOUN]() 27: <em>Flertallet af bekendtskabskredsen står nu uden <b>arbejde</b> .</em>
+  * [VERB]() 11: <em>Derfor elsker jeg at <b>arbejde</b> her - at gøre en indsats . "</em>
 * <em>landet</em>
-  * [NOUN]() 21: <em>Premiere i 10 biografer over hele <b>landet</b> .</em>
+  * [NOUN]() 20: <em>Premiere i 10 biografer over hele <b>landet</b> .</em>
   * [VERB]() 1: <em>- Han er sikkert flintret afsted på en cykel ti minutter efter , at han var <b>landet</b> .</em>
 * <em>lande</em>
-  * [NOUN]() 21: <em>Ingen aner , hvilke sanktioner det pågældende <b>lande</b> skal udsættes for .</em>
+  * [NOUN]() 19: <em>Ingen aner , hvilke sanktioner det pågældende <b>lande</b> skal udsættes for .</em>
   * [VERB]() 1: <em>Første og måske også eneste gang han vil <b>lande</b> i København .</em>
 * <em>samarbejde</em>
-  * [NOUN]() 20: <em>Således har biblioteket indledt et tæt <b>samarbejde</b> med Wiuff's Boghandel på Jagtvej .</em>
+  * [NOUN]() 19: <em>Således har biblioteket indledt et tæt <b>samarbejde</b> med Wiuff's Boghandel på Jagtvej .</em>
   * [VERB]() 3: <em>Rudbjerg vil <b>samarbejde</b> med Nakskov</em>
 * <em>brug</em>
-  * [NOUN]() 18: <em>Personer , der foretager <b>brug</b> i denne forstand , benævnes " brugere " .</em>
+  * [NOUN]() 16: <em>Personer , der foretager <b>brug</b> i denne forstand , benævnes " brugere " .</em>
   * [VERB]() 1: <em>Får du forberedelsestid , så <b>brug</b> den konstruktivt .</em>
-* <em>hold</em>
-  * [NOUN]() 16: <em>Der var en god stemning på det danske <b>hold</b> inden kampen .</em>
-  * [VERB]() 3: <em>Fra faen er nu det ... <b>hold</b> da helt kæft !</em>
 * <em>alt</em>
-  * [ADJ]() 54: <em>Og da <b>alt</b> var klar , gik maskinchefen hjem .</em>
-  * [ADV]() 18: <em>Og jeg gik <b>alt</b> for vidt . "</em>
-  * [NOUN]() 14: <em>28 mennesker i <b>alt</b> i et lille telt .</em>
-* <em>siden</em>
-  * [ADV]() 44: <em>Det er lang tid <b>siden</b> . "</em>
-  * [ADP]() 28: <em>Tallet har ligget konstant mellem 23-28 pct. <b>siden</b> den 1. maj .</em>
-  * [NOUN]() 13: <em>" Ja , " siger han og vender sig om på <b>siden</b> .</em>
-  * [SCONJ]() 7: <em>Som så mange andre har han boet i Taastrupgård <b>siden</b> han kom hertil .</em>
+  * [ADJ]() 49: <em>" Vi har bevidst fortalt <b>alt</b> , hvad vi har set , til pressen .</em>
+  * [ADV]() 17: <em>Og jeg gik <b>alt</b> for vidt . "</em>
+  * [NOUN]() 13: <em>28 mennesker i <b>alt</b> i et lille telt .</em>
+* <em>glæde</em>
+  * [NOUN]() 10: <em>Processen er præget af <b>glæde</b> og det modsatte .</em>
+  * [VERB]() 3: <em>Og hvis jeg ikke når det , så kan jeg jo <b>glæde</b> mig over , at der er et tykt filter mellem tv-seerne og mig .</em>
+* <em>hold</em>
+  * [NOUN]() 12: <em>Der var en god stemning på det danske <b>hold</b> inden kampen .</em>
+  * [VERB]() 3: <em>Fra faen er nu det ... <b>hold</b> da helt kæft !</em>
 
 ## Morphology
 
-The form / lemma ratio of `NOUN` is 1.352228 (the average of all parts of speech is 1.355873).
+The form / lemma ratio of `NOUN` is 1.342386 (the average of all parts of speech is 1.349187).
 
-The 1st highest number of forms (8) was observed with the lemma “barn”: <em>Børns, barn, barnet, barnets, barns, børn, børnene, børnenes</em>.
+The 1st highest number of forms (7) was observed with the lemma “bank”: <em>Banks, bank, banken, bankens, banker, bankerne, bankers</em>.
 
-The 2nd highest number of forms (8) was observed with the lemma “parti”: <em>parti, partier, partierne, partiernes, partiers, partiet, partiets, partis</em>.
+The 2nd highest number of forms (7) was observed with the lemma “barn”: <em>Børns, barn, barnet, barnets, børn, børnene, børnenes</em>.
 
-The 3rd highest number of forms (7) was observed with the lemma “bank”: <em>Banks, bank, banken, bankens, banker, bankerne, bankers</em>.
+The 3rd highest number of forms (7) was observed with the lemma “land”: <em>land, lande, landene, landes, landet, landets, lands</em>.
 
-`NOUN` occurs with 4 features: [da-feat/Definite]() (18658; 100% instances), [da-feat/Number]() (18650; 100% instances), [da-feat/Gender]() (18611; 99% instances), [da-feat/Case]() (749; 4% instances)
+`NOUN` occurs with 4 features: [da-feat/Definite]() (16841; 100% instances), [da-feat/Number]() (16833; 100% instances), [da-feat/Gender]() (16798; 99% instances), [da-feat/Case]() (672; 4% instances)
 
 `NOUN` occurs with 7 feature-value pairs: `Case=Gen`, `Definite=Def`, `Definite=Ind`, `Gender=Com`, `Gender=Neut`, `Number=Plur`, `Number=Sing`
 
 `NOUN` occurs with 23 feature combinations.
-The most frequent feature combination is `Definite=Ind|Gender=Com|Number=Sing` (6378 tokens).
-Examples: <em>gang, dag, tid, del, mand, måde, verden, række, vej, plads</em>
+The most frequent feature combination is `Definite=Ind|Gender=Com|Number=Sing` (5786 tokens).
+Examples: <em>gang, dag, tid, del, mand, måde, verden, række, plads, tale</em>
 
 
 ## Relations
 
-`NOUN` nodes are attached to their parents using 23 different relations: [da-dep/nmod]() (8824; 47% instances), [da-dep/dobj]() (3157; 17% instances), [da-dep/nsubj]() (2645; 14% instances), [da-dep/conj]() (1063; 6% instances), [da-dep/root]() (736; 4% instances), [da-dep/nmod:poss]() (704; 4% instances), [da-dep/name]() (452; 2% instances), [da-dep/nsubjpass]() (317; 2% instances), [da-dep/mwe]() (295; 2% instances), [da-dep/nmod:tmod]() (93; 0% instances), [da-dep/appos]() (85; 0% instances), [da-dep/dep]() (62; 0% instances), [da-dep/acl:relcl]() (57; 0% instances), [da-dep/list]() (45; 0% instances), [da-dep/iobj]() (42; 0% instances), [da-dep/ccomp]() (38; 0% instances), [da-dep/nmod:loc]() (28; 0% instances), [da-dep/nummod]() (27; 0% instances), [da-dep/advmod]() (23; 0% instances), [da-dep/advcl]() (15; 0% instances), [da-dep/vocative]() (9; 0% instances), [da-dep/mark]() (6; 0% instances), [da-dep/amod]() (2; 0% instances)
+`NOUN` nodes are attached to their parents using 23 different relations: [da-dep/obl]() (4551; 27% instances), [da-dep/nmod]() (3517; 21% instances), [da-dep/obj]() (2850; 17% instances), [da-dep/nsubj]() (2664; 16% instances), [da-dep/conj]() (1097; 6% instances), [da-dep/root]() (666; 4% instances), [da-dep/nmod:poss]() (620; 4% instances), [da-dep/fixed]() (259; 2% instances), [da-dep/flat]() (182; 1% instances), [da-dep/dep]() (90; 1% instances), [da-dep/obl:tmod]() (83; 0% instances), [da-dep/appos]() (80; 0% instances), [da-dep/acl:relcl]() (49; 0% instances), [da-dep/list]() (41; 0% instances), [da-dep/iobj]() (36; 0% instances), [da-dep/ccomp]() (33; 0% instances), [da-dep/obl:loc]() (26; 0% instances), [da-dep/advmod]() (17; 0% instances), [da-dep/nummod]() (16; 0% instances), [da-dep/advcl]() (13; 0% instances), [da-dep/vocative]() (7; 0% instances), [da-dep/mark]() (4; 0% instances), [da-dep/amod]() (1; 0% instances)
 
-Parents of `NOUN` nodes belong to 17 different parts of speech: [VERB]() (9841; 53% instances), [NOUN]() (5162; 28% instances), [ADJ]() (773; 4% instances), [ADV]() (755; 4% instances), [ROOT]() (736; 4% instances), [PROPN]() (699; 4% instances), [ADP]() (320; 2% instances), [PRON]() (172; 1% instances), [X]() (104; 1% instances), [CONJ]() (81; 0% instances), [AUX]() (30; 0% instances), [NUM]() (30; 0% instances), [INTJ]() (8; 0% instances), [PART]() (5; 0% instances), [SYM]() (4; 0% instances), [DET]() (3; 0% instances), [SCONJ]() (2; 0% instances)
+Parents of `NOUN` nodes belong to 16 different parts of speech: [VERB]() (8855; 52% instances), [NOUN]() (4710; 28% instances), [ADJ]() (701; 4% instances), [ADV]() (698; 4% instances), [ROOT]() (666; 4% instances), [PROPN]() (617; 4% instances), [ADP]() (327; 2% instances), [PRON]() (156; 1% instances), [X]() (98; 1% instances), [AUX]() (27; 0% instances), [NUM]() (27; 0% instances), [INTJ]() (7; 0% instances), [SYM]() (6; 0% instances), [PART]() (4; 0% instances), [DET]() (2; 0% instances), [SCONJ]() (1; 0% instances)
 
-4691 (25%) `NOUN` nodes are leaves.
+3681 (22%) `NOUN` nodes are leaves.
 
-5245 (28%) `NOUN` nodes have one child.
+5165 (31%) `NOUN` nodes have one child.
 
-4330 (23%) `NOUN` nodes have two children.
+3979 (24%) `NOUN` nodes have two children.
 
-4459 (24%) `NOUN` nodes have three or more children.
+4077 (24%) `NOUN` nodes have three or more children.
 
 The highest child degree of a `NOUN` node is 27.
 
-Children of `NOUN` nodes are attached using 29 different relations: [da-dep/case]() (7446; 23% instances), [da-dep/det]() (4989; 16% instances), [da-dep/amod]() (4880; 15% instances), [da-dep/nmod]() (4332; 13% instances), [da-dep/punct]() (2333; 7% instances), [da-dep/nummod]() (1063; 3% instances), [da-dep/cc]() (1028; 3% instances), [da-dep/conj]() (1020; 3% instances), [da-dep/nmod:poss]() (933; 3% instances), [da-dep/acl:relcl]() (823; 3% instances), [da-dep/advmod]() (817; 3% instances), [da-dep/cop]() (658; 2% instances), [da-dep/nsubj]() (591; 2% instances), [da-dep/advcl]() (322; 1% instances), [da-dep/appos]() (290; 1% instances), [da-dep/mark]() (257; 1% instances), [da-dep/aux]() (88; 0% instances), [da-dep/list]() (63; 0% instances), [da-dep/neg]() (57; 0% instances), [da-dep/discourse]() (36; 0% instances), [da-dep/compound:prt]() (31; 0% instances), [da-dep/name]() (16; 0% instances), [da-dep/nsubjpass]() (15; 0% instances), [da-dep/auxpass]() (14; 0% instances), [da-dep/nmod:loc]() (12; 0% instances), [da-dep/nmod:tmod]() (11; 0% instances), [da-dep/ccomp]() (9; 0% instances), [da-dep/dobj]() (2; 0% instances), [da-dep/vocative]() (2; 0% instances)
+Children of `NOUN` nodes are attached using 27 different relations: [da-dep/case]() (6760; 23% instances), [da-dep/det]() (4525; 15% instances), [da-dep/amod]() (4393; 15% instances), [da-dep/nmod]() (3802; 13% instances), [da-dep/punct]() (2684; 9% instances), [da-dep/conj]() (1067; 4% instances), [da-dep/nummod]() (958; 3% instances), [da-dep/advmod]() (853; 3% instances), [da-dep/nmod:poss]() (828; 3% instances), [da-dep/cc]() (794; 3% instances), [da-dep/acl:relcl]() (741; 2% instances), [da-dep/cop]() (586; 2% instances), [da-dep/nsubj]() (534; 2% instances), [da-dep/advcl]() (298; 1% instances), [da-dep/appos]() (260; 1% instances), [da-dep/mark]() (221; 1% instances), [da-dep/dep]() (193; 1% instances), [da-dep/aux]() (88; 0% instances), [da-dep/list]() (58; 0% instances), [da-dep/compound:prt]() (27; 0% instances), [da-dep/obl:loc]() (12; 0% instances), [da-dep/ccomp]() (8; 0% instances), [da-dep/flat]() (8; 0% instances), [da-dep/obl:tmod]() (8; 0% instances), [da-dep/obj]() (2; 0% instances), [da-dep/vocative]() (2; 0% instances), [da-dep/discourse]() (1; 0% instances)
 
-Children of `NOUN` nodes belong to 17 different parts of speech: [ADP]() (7554; 24% instances), [NOUN]() (5162; 16% instances), [DET]() (4989; 16% instances), [ADJ]() (4553; 14% instances), [PUNCT]() (2330; 7% instances), [VERB]() (1695; 5% instances), [PROPN]() (1252; 4% instances), [NUM]() (1164; 4% instances), [CONJ]() (1033; 3% instances), [ADV]() (868; 3% instances), [AUX]() (760; 2% instances), [PRON]() (511; 2% instances), [X]() (113; 0% instances), [SCONJ]() (97; 0% instances), [PART]() (29; 0% instances), [SYM]() (26; 0% instances), [INTJ]() (2; 0% instances)
+Children of `NOUN` nodes belong to 17 different parts of speech: [ADP]() (6850; 23% instances), [NOUN]() (4710; 16% instances), [DET]() (4525; 15% instances), [ADJ]() (4113; 14% instances), [PUNCT]() (2681; 9% instances), [VERB]() (1517; 5% instances), [PROPN]() (1117; 4% instances), [NUM]() (1055; 4% instances), [CCONJ]() (938; 3% instances), [ADV]() (840; 3% instances), [AUX]() (674; 2% instances), [PRON]() (453; 2% instances), [X]() (102; 0% instances), [SCONJ]() (80; 0% instances), [SYM]() (29; 0% instances), [PART]() (25; 0% instances), [INTJ]() (2; 0% instances)
 

@@ -5,7 +5,7 @@ shortdef: 'indirect object'
 ---
 
 The indirect object of a verb is any nominal phrase that is a core
-argument of the verb but is not its subject or [direct object](dobj).
+argument of the verb but is not its subject or [direct object](obj).
 The prototypical example is the recipient of ditransitive verbs of
 exchange:
 

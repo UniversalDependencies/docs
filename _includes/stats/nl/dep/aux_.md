@@ -6,69 +6,70 @@
 
 This relation is universal.
 
-4633 nodes (2%) are attached to their parents as `aux`.
+5489 nodes (3%) are attached to their parents as `aux`.
 
-3217 instances of `aux` (69%) are left-to-right (parent precedes child).
-Average distance between parent and child is 5.72890135981006.
+4356 instances of `aux` (79%) are right-to-left (child precedes parent).
+Average distance between parent and child is 3.82018582619785.
 
-The following 32 pairs of parts of speech are connected with `aux`: [nl-pos/VERB]()-[nl-pos/AUX]() (2316; 50% instances), [nl-pos/AUX]()-[nl-pos/AUX]() (1260; 27% instances), [nl-pos/NOUN]()-[nl-pos/AUX]() (475; 10% instances), [nl-pos/PRON]()-[nl-pos/AUX]() (110; 2% instances), [nl-pos/AUX]()-[nl-pos/NOUN]() (101; 2% instances), [nl-pos/ADJ]()-[nl-pos/AUX]() (97; 2% instances), [nl-pos/AUX]()-[nl-pos/ADJ]() (72; 2% instances), [nl-pos/ADV]()-[nl-pos/AUX]() (33; 1% instances), [nl-pos/PROPN]()-[nl-pos/AUX]() (23; 0% instances), [nl-pos/CONJ]()-[nl-pos/AUX]() (21; 0% instances), [nl-pos/AUX]()-[nl-pos/VERB]() (17; 0% instances), [nl-pos/VERB]()-[nl-pos/ADJ]() (16; 0% instances), [nl-pos/SCONJ]()-[nl-pos/AUX]() (13; 0% instances), [nl-pos/X]()-[nl-pos/AUX]() (10; 0% instances), [nl-pos/AUX]()-[nl-pos/PROPN]() (9; 0% instances), [nl-pos/NUM]()-[nl-pos/AUX]() (9; 0% instances), [nl-pos/AUX]()-[nl-pos/X]() (6; 0% instances), [nl-pos/ADP]()-[nl-pos/AUX]() (5; 0% instances), [nl-pos/AUX]()-[nl-pos/PRON]() (5; 0% instances), [nl-pos/AUX]()-[nl-pos/SCONJ]() (5; 0% instances), [nl-pos/SYM]()-[nl-pos/AUX]() (5; 0% instances), [nl-pos/VERB]()-[nl-pos/NOUN]() (5; 0% instances), [nl-pos/AUX]()-[nl-pos/ADP]() (4; 0% instances), [nl-pos/VERB]()-[nl-pos/VERB]() (4; 0% instances), [nl-pos/DET]()-[nl-pos/AUX]() (3; 0% instances), [nl-pos/VERB]()-[nl-pos/ADV]() (3; 0% instances), [nl-pos/ADJ]()-[nl-pos/ADJ]() (1; 0% instances), [nl-pos/AUX]()-[nl-pos/ADV]() (1; 0% instances), [nl-pos/AUX]()-[nl-pos/DET]() (1; 0% instances), [nl-pos/NOUN]()-[nl-pos/NOUN]() (1; 0% instances), [nl-pos/VERB]()-[nl-pos/ADP]() (1; 0% instances), [nl-pos/VERB]()-[nl-pos/SCONJ]() (1; 0% instances).
-
-
-~~~ conllu
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 10 aux	color:blue
-1	Het	het	DET	Art|bep|onzijd|neut	Definite=Def|Gender=Neut|PronType=Art	2	det	_	_
-2	resultaat	resultaat	NOUN	N|soort|ev|neut	Number=Sing	3	nsubj	_	_
-3	zal	zal	VERB	V|hulp|ott|3|ev	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|VerbType=Mod	0	root	_	_
-4	overigens	overigens	ADV	Adv|gew|geenfunc|stell|onverv	Degree=Pos	10	advmod	_	_
-5	niet	niet	ADV	Adv|gew|geenfunc|stell|onverv	Degree=Pos	10	neg	_	_
-6	officieel	officieel	ADJ	Adj|adv|stell|onverv	Degree=Pos|Variant=Short	10	advmod	_	_
-7	in	in	ADP	Prep|voor	AdpType=Prep	9	case	_	_
-8	de	de	DET	Art|bep|zijdofmv|neut	Definite=Def|PronType=Art	9	det	_	_
-9	boeken	boek	NOUN	N|soort|mv|neut	Number=Plur	10	nmod	_	_
-10	komen	kom	AUX	V|intrans|ott|1of2of3|mv	Aspect=Imp|Mood=Ind|Number=Plur|Subcat=Intr|Tense=Pres|VerbForm=Fin	3	aux	_	_
-11	.	.	PUNCT	Punc|punt	PunctType=Peri	3	punct	_	_
-
-~~~
+The following 21 pairs of parts of speech are connected with `aux`: [nl-pos/VERB]()-[nl-pos/AUX]() (4908; 89% instances), [nl-pos/NOUN]()-[nl-pos/AUX]() (225; 4% instances), [nl-pos/ADJ]()-[nl-pos/AUX]() (167; 3% instances), [nl-pos/AUX]()-[nl-pos/AUX]() (87; 2% instances), [nl-pos/PRON]()-[nl-pos/AUX]() (27; 0% instances), [nl-pos/PROPN]()-[nl-pos/AUX]() (11; 0% instances), [nl-pos/SCONJ]()-[nl-pos/AUX]() (9; 0% instances), [nl-pos/VERB]()-[nl-pos/ADJ]() (9; 0% instances), [nl-pos/X]()-[nl-pos/AUX]() (9; 0% instances), [nl-pos/ADP]()-[nl-pos/AUX]() (8; 0% instances), [nl-pos/ADV]()-[nl-pos/AUX]() (7; 0% instances), [nl-pos/VERB]()-[nl-pos/NOUN]() (6; 0% instances), [nl-pos/NUM]()-[nl-pos/AUX]() (4; 0% instances), [nl-pos/VERB]()-[nl-pos/PRON]() (3; 0% instances), [nl-pos/DET]()-[nl-pos/AUX]() (2; 0% instances), [nl-pos/VERB]()-[nl-pos/ADV]() (2; 0% instances), [nl-pos/ADJ]()-[nl-pos/ADJ]() (1; 0% instances), [nl-pos/AUX]()-[nl-pos/PRON]() (1; 0% instances), [nl-pos/NOUN]()-[nl-pos/NOUN]() (1; 0% instances), [nl-pos/VERB]()-[nl-pos/PROPN]() (1; 0% instances), [nl-pos/VERB]()-[nl-pos/VERB]() (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 6 aux	color:blue
-1	"	"	PUNCT	Punc|aanhaaldubb	PunctType=Quot	3	punct	_	_
-2	Het	het	PRON	Pron|onbep|neut|zelfst	PronType=Ind	3	nsubj	_	_
-3	is	ben	AUX	V|hulpofkopp|ott|3|ev	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|VerbType=Aux,Cop	0	root	_	_
-4	heel	heel	ADV	Adv|gew|geenfunc|stell|onverv	Degree=Pos	5	advmod	_	_
-5	anders	anders	ADV	Adv|gew|geenfunc|stell|onverv	Degree=Pos	6	advmod	_	_
-6	gelopen	loop	AUX	V|intrans|verldw|onverv	Subcat=Intr|Tense=Past|VerbForm=Part	3	aux	_	_
-7	dan	dan	SCONJ	Conj|onder|metfin	_	9	mark	_	_
-8	ik	ik	PRON	Pron|per|1|ev|nom	Case=Nom|Number=Sing|Person=1|PronType=Prs	9	nsubj	_	_
-9	dacht	denk	VERB	V|intrans|ovt|1of2of3|ev	Aspect=Imp|Mood=Ind|Number=Sing|Subcat=Intr|Tense=Past|VerbForm=Fin	5	advcl	_	_
-10	.	.	PUNCT	Punc|punt	PunctType=Peri	3	punct	_	_
-
-~~~
-
-
-~~~ conllu
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 1 7 aux	color:blue
-1	shit	shit	NOUN	N|soort|ev|neut	Number=Sing	0	root	_	_
+# visual-style 7 4 aux	color:blue
+1	"	"	PUNCT	Punc|aanhaaldubb	PunctType=Quot	7	punct	_	SpaceAfter=No
+2	Mijn	mijn	PRON	Pron|bez|1|ev|neut|attr	Number=Sing|Person=1|Poss=Yes|PronType=Prs	3	nmod	_	_
+3	basisniveau	basis_niveau	NOUN	N|soort|ev|neut	Number=Sing	7	nsubj	_	_
+4	is	ben	AUX	V|hulpofkopp|ott|3|ev	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	aux	_	_
+5	flink	flink	ADJ	Adj|adv|stell|onverv	Degree=Pos|Variant=Short	7	obl	_	_
+6	omhoog	omhoog	ADV	Adv|gew|geenfunc|stell|onverv	Degree=Pos	7	advmod	_	_
+7	gegaan	ga	VERB	V|intrans|verldw|onverv	Subcat=Intr|Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	Punc|punt	PunctType=Peri	7	punct	_	SpaceAfter=No
+9	"	"	PUNCT	Punc|aanhaaldubb	PunctType=Quot	7	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 4 aux	color:blue
+1	Nee	nee	INTJ	Int	_	0	root	_	SpaceAfter=No
 2	,	,	PUNCT	Punc|komma	PunctType=Comm	1	punct	_	_
-3	ben	ben	AUX	V|hulpofkopp|ott|1|ev	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|VerbType=Aux,Cop	1	parataxis	_	_
-4	ik	ik	PRON	Pron|per|1|ev|nom	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
-5	mijn	mijn	PRON	Pron|bez|1|ev|neut|attr	Number=Sing|Person=1|Poss=Yes|PronType=Prs	6	nmod	_	_
-6	sleutels	sleutel	NOUN	N|soort|mv|neut	Number=Plur	7	dobj	_	_
-7	vergeten	vergeet	AUX	V|trans|verldw|onverv	Subcat=Tran|Tense=Past|VerbForm=Part	1	aux	_	_
+3	het	het	PRON	Pron|onbep|neut|zelfst	PronType=Ind	6	nsubj	_	_
+4	waren	ben	AUX	V|hulpofkopp|ovt|1of2of3|mv	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin	6	aux	_	_
+5	geen	geen	PRON	Pron|onbep|neut|attr	PronType=Ind	6	nmod	_	_
+6	zenuwen	zenuw	NOUN	N|soort|mv|neut	Number=Plur	1	parataxis	_	_
+7	geweest	ben	AUX	V|hulpofkopp|verldw|onverv	Tense=Past|VerbForm=Part	6	cop	_	SpaceAfter=No
 8	.	.	PUNCT	Punc|punt	PunctType=Peri	1	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 2 aux	color:blue
+1	We	we	PRON	Pron|per|1|mv|nom	Case=Nom|Number=Plur|Person=1|PronType=Prs	5	nsubj	_	_
+2	hebben	heb	AUX	V|hulp|ott|1of2of3|mv	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	5	aux	_	_
+3	de	de	DET	Art|bep|zijdofmv|neut	Definite=Def|PronType=Art	4	det	_	_
+4	koers	koers	NOUN	N|soort|ev|neut	Number=Sing	5	obj	_	_
+5	hard	hard	ADJ	Adj|adv|stell|onverv	Degree=Pos|Variant=Short	0	root	_	_
+6	gemaakt	maak	AUX	V|trans|verldw|onverv	Subcat=Tran|Tense=Past|VerbForm=Part	5	cop	_	SpaceAfter=No
+7	,	,	PUNCT	Punc|komma	PunctType=Comm	5	punct	_	_
+8	maar	maar	CCONJ	Conj|neven	_	10	cc	_	_
+9	niet	niet	ADV	Adv|gew|geenfunc|stell|onverv	Degree=Pos	10	advmod	_	_
+10	hard	hard	ADJ	Adj|attr|stell|onverv	Degree=Pos	5	conj	_	_
+11	genoeg	genoeg	PRON	Pron|onbep|neut|attr	PronType=Ind	10	obl	_	SpaceAfter=No
+12	.	.	PUNCT	Punc|punt	PunctType=Peri	5	punct	_	_
+13	"	"	PUNCT	Punc|aanhaaldubb	PunctType=Quot	5	punct	_	_
 
 ~~~
 
@@ -80,27 +81,31 @@ The following 32 pairs of parts of speech are connected with `aux`: [nl-pos/VERB
 ## Treebank Statistics (UD_Dutch-LassySmall)
 
 This relation is universal.
+There are 1 language-specific subtypes of `aux`: [aux:pass]().
 
-622 nodes (1%) are attached to their parents as `aux`.
+594 nodes (1%) are attached to their parents as `aux`.
 
-541 instances of `aux` (87%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.68006430868167.
+516 instances of `aux` (87%) are right-to-left (child precedes parent).
+Average distance between parent and child is 3.68013468013468.
 
-The following 7 pairs of parts of speech are connected with `aux`: [nl-pos/VERB]()-[nl-pos/AUX]() (568; 91% instances), [nl-pos/NOUN]()-[nl-pos/AUX]() (29; 5% instances), [nl-pos/ADJ]()-[nl-pos/AUX]() (17; 3% instances), [nl-pos/PROPN]()-[nl-pos/AUX]() (3; 0% instances), [nl-pos/NUM]()-[nl-pos/AUX]() (2; 0% instances), [nl-pos/PRON]()-[nl-pos/AUX]() (2; 0% instances), [nl-pos/ADV]()-[nl-pos/AUX]() (1; 0% instances).
+The following 7 pairs of parts of speech are connected with `aux`: [nl-pos/VERB]()-[nl-pos/AUX]() (539; 91% instances), [nl-pos/NOUN]()-[nl-pos/AUX]() (29; 5% instances), [nl-pos/ADJ]()-[nl-pos/AUX]() (18; 3% instances), [nl-pos/PROPN]()-[nl-pos/AUX]() (3; 1% instances), [nl-pos/NUM]()-[nl-pos/AUX]() (2; 0% instances), [nl-pos/PRON]()-[nl-pos/AUX]() (2; 0% instances), [nl-pos/ADV]()-[nl-pos/AUX]() (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 2 aux	color:blue
-1	Hij	hij	PRON	_	Case=Nom|Person=3|PronType=Prs	5	nsubj	_	_
-2	zou	zullen	AUX	_	_	5	aux	_	_
-3	drie	drie	NUM	_	_	4	nummod	_	_
-4	jaar	jaar	NOUN	_	Gender=Neut|Number=Sing	5	nmod	_	_
-5	wegblijven	wegblijven	VERB	_	VerbForm=Inf	0	root	_	_
-6	.	.	PUNCT	_	_	5	punct	_	_
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 8 4 aux	color:blue
+1	Tussen	tussen	ADP	_	_	3	case	_	_
+2	de	de	DET	_	Definite=Def	3	det	_	_
+3	profeten	profeet	NOUN	_	Number=Plur	8	obl	_	_
+4	zijn	zijn	AUX	_	Number=Plur|Tense=Pres|VerbForm=Fin	8	aux	_	_
+5	twee	twee	NUM	_	_	6	nummod	_	_
+6	sibillen	sibille	NOUN	_	Number=Plur	8	nsubj	_	_
+7	te	te	ADP	_	_	8	mark	_	_
+8	zien	zien	VERB	_	VerbForm=Inf	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	_	_	8	punct	_	_
 
 ~~~
 
@@ -112,14 +117,14 @@ The following 7 pairs of parts of speech are connected with `aux`: [nl-pos/VERB]
 # visual-style 8	fgColor:white
 # visual-style 8 2 aux	color:blue
 1	Intussen	intussen	ADV	_	_	8	advmod	_	_
-2	zijn	zijn	AUX	_	_	8	aux	_	_
+2	zijn	zijn	AUX	_	Number=Plur|Tense=Pres|VerbForm=Fin	8	aux	_	_
 3	Edgard	Edgard	PROPN	_	_	8	nsubj	_	_
-4	Tytgat	Tytgat	PROPN	_	_	3	name	_	_
-5	en	en	CONJ	_	_	3	cc	_	_
+4	Tytgat	Tytgat	PROPN	_	_	3	flat:name	_	_
+5	en	en	CCONJ	_	_	3	cc	_	_
 6	Willem	Willem	PROPN	_	_	3	conj	_	_
-7	Paerels	Paerels	PROPN	_	_	6	name	_	_
+7	Paerels	Paerels	PROPN	_	_	6	flat:name	_	_
 8	vrienden	vriend	NOUN	_	Number=Plur	0	root	_	_
-9	geworden	worden	AUX	_	_	8	cop	_	_
+9	geworden	worden	AUX	_	VerbForm=Part	8	cop	_	SpaceAfter=No
 10	.	.	PUNCT	_	_	8	punct	_	_
 
 ~~~
@@ -132,11 +137,11 @@ The following 7 pairs of parts of speech are connected with `aux`: [nl-pos/VERB]
 # visual-style 5	fgColor:white
 # visual-style 5 2 aux	color:blue
 1	Hij	hij	PRON	_	Case=Nom|Person=3|PronType=Prs	5	nsubj	_	_
-2	is	zijn	AUX	_	_	5	aux	_	_
+2	is	zijn	AUX	_	Number=Sing|Tense=Pres|VerbForm=Fin	5	aux	_	_
 3	65	65	NUM	_	_	4	nummod	_	_
-4	jaar	jaar	NOUN	_	Gender=Neut|Number=Sing	5	nmod	_	_
+4	jaar	jaar	NOUN	_	Gender=Neut|Number=Sing	5	obl	_	_
 5	oud	oud	ADJ	_	Degree=Pos	0	root	_	_
-6	geworden	worden	AUX	_	_	5	cop	_	_
+6	geworden	worden	AUX	_	VerbForm=Part	5	cop	_	SpaceAfter=No
 7	.	.	PUNCT	_	_	5	punct	_	_
 
 ~~~

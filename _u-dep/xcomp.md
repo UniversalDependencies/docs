@@ -2,6 +2,7 @@
 layout: relation
 title: 'xcomp'
 shortdef: 'open clausal complement'
+udver: '2'
 ---
 
 An open clausal complement (`xcomp`) of a verb or an adjective is a
@@ -16,12 +17,13 @@ borrowed from Lexical-Functional Grammar.
 
 ~~~ sdparse
 He says that you like to swim
-xcomp(like, swim)
+ccomp(says, like)
 ~~~
 
 ~~~ sdparse
 Sue asked George to respond to her offer
 xcomp(asked, respond)
+obj(asked, George)
 ~~~
 
 ~~~ sdparse
@@ -47,6 +49,7 @@ xcomp(consider, honest)
 ~~~ sdparse
 We expect them to change their minds
 xcomp(expect, change)
+obj(expect, them)
 ~~~
 
 Note that the above condition “without its own subject” does not mean that a 
@@ -91,7 +94,7 @@ The secondary predicate will be attached to the main predicate as an `xcomp`:
 ~~~ sdparse
 She declared the cake beautiful .
 nsubj(declared, She)
-dobj(declared, cake)
+obj(declared, cake)
 xcomp(declared, beautiful)
 ~~~
 
@@ -100,8 +103,8 @@ In the enhanced representation, there is an additional subject link showing the 
 ~~~ sdparse
 She declared the cake beautiful .
 nsubj(declared, She)
-dobj(declared, cake)
-xcomp(declared, beautiful)
+obj(declared, cake)
+comp(declared, beautiful)
 nsubj(beautiful, cake)
 ~~~
 
@@ -109,7 +112,7 @@ A Czech example:
 
 ~~~ sdparse
 jmenovat někoho generálem \n to-appoint someone as-a-general
-dobj(jmenovat, někoho)
+obj(jmenovat, někoho)
 xcomp(jmenovat, generálem)
 ~~~
 

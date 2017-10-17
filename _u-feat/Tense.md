@@ -2,7 +2,19 @@
 layout: feature
 title: 'Tense'
 shortdef: 'tense'
+udver: '2'
 ---
+
+<table class="typeindex" border="1">
+<tr>
+  <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
+  <td><a href="#Fut">Fut</a></td>
+  <td><a href="#Imp">Imp</a></td>
+  <td><a href="#Past">Past</a></td>
+  <td><a href="#Pqp">Pqp</a></td>
+  <td><a href="#Pres">Pres</a></td>
+</tr>
+</table>
 
 Tense is typically a feature of [verbs](u-pos/VERB).
 It may also occur with other parts of speech
@@ -31,7 +43,7 @@ will have `VerbForm=Part|Tense=Past`; none of the two will have
 morphologically as just one word, such as _estivera_, which will thus be tagged
 `VerbForm=Fin|Mood=Ind|Tense=Pqp`.
 
-### `Past`: past tense / preterite / aorist
+### <a name="Past">`Past`</a>: past tense / preterite / aorist
 
 The past tense denotes actions that happened before the current
 moment. In English, this is the simple past form. In German, this is
@@ -44,7 +56,7 @@ imperfect).
 
 * [en] _he <b>went</b> home_
 
-### `Pres`: present tense
+### <a name="Pres">`Pres`</a>: present tense
 
 The present tense denotes actions that are happening right now or that
 usually happen.
@@ -53,7 +65,7 @@ usually happen.
 
 * [en] _he <b>goes</b> home_
 
-### `Fut`: future tense
+### <a name="Fut">`Fut`</a>: future tense
 
 The future tense denotes actions that will happen after the current
 moment.
@@ -62,7 +74,7 @@ moment.
 
 * [es] _<b>irá</b> a la casa_ "he/she/it will go home"
 
-### `Imp`: imperfect
+### <a name="Imp">`Imp`</a>: imperfect
 
 Used in e.g. Bulgarian and Croatian, imperfect is a special case of
 the past tense. Note that, unfortunately, imperfect tense is not
@@ -73,13 +85,7 @@ lexical one. In main clauses, imperfective verbs can have imperfect
 tense and perfective verbs have perfect tense. However, both rules can
 be violated in embedded clauses.
 
-### `Nar`: narrative
-
-Special case of the past tense, this is the Turkish _miş_-past. The
-difference is whether the speaker personally witnessed the action he
-is describing, or not.
-
-### `Pqp`: pluperfect
+### <a name="Pqp">`Pqp`</a>: pluperfect
 
 The pluperfect denotes action that happened before another action in
 past. This value does not apply to English where the pluperfect (past

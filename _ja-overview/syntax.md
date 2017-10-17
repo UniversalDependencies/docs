@@ -26,7 +26,7 @@ for the definition of each label.
 |-------|-------------|----------|
 | `nsubj`  | Nominal subjects (typically a postpositional phrase with a case marker が / <i>ga</i> or sometimes with は / <i>wa</i>)</td> | 太郎 が / <i>Taro ga</i> "Taro-NOM" &lt;-`nsubj`- 走る / <i>hashiru</i> "run" |
 | `nsubjpass` | Nominal subjects in passive forms | 太郎 が / <i>Taro ga</i> "Taro-NOM" &lt;-`nsubjpass`- ほめ られる / <i>home rareru</i> "praise-PASSIVE" |
-| `dobj` | Direct object (typically a postpositional phrase with a case marker を / <i>o</i>) | ご飯 を / <i>gohan o</i> "rice-ACC" &lt;-`dobj`- 食べる / <i>taberu</i> "eat" |
+| `obj` | Direct object (typically a postpositional phrase with a case marker を / <i>o</i>) | ご飯 を / <i>gohan o</i> "rice-ACC" &lt;-`obj`- 食べる / <i>taberu</i> "eat" |
 | `iobj` | Indirect object (typicall a postpositional phrase with a case marker に / <i>ni</i>) | 花子 に / <i>Hanako ni</i> "Hanako-ACC" &lt;-`iobj`- あげる / <i>ageru</i> "give" |
 | `csubj` | Clausal subjects introduced by a nominal marker の / <i>no</i> | 太郎 が 怒ら れる の は / Taro ga okora reru no ha "that-TOPIC Taro is punished" &lt;-`csubj`- いやだ / iyada "dislike" |
 | `csubjpass` | Clausal subjects in passive forms | 言っ た の が / <i>It ta no ga</i> "that-NOM (someone) said" &lt;-`csubjpass`- 悔やま れる / <i>kuyama reru</i> "regret-PASSIVE" |
@@ -65,8 +65,8 @@ for the definition of each label.
 | label | description | examples |
 |-------|-------------|----------|
 | `compound` | Noun compounds, verb compounds | 構文 / <i>kobun</i> "syntax" &lt;-`compound`- 解析 / <i>kaiseki</i> "analysis", 泳ぎ / <i>oyogi</i> "swim" &lt;-`compound`- 着く / <i>tsuku</i> "reach" |
-| `name` | Proper noun compounds | 山田 / <i>Yamada</i> "Yamada" -`name`-&gt; 太郎 / <i>Taro</i> "Taro" |
-| `mwe` | Multi-word functional expressions | に / <i>ni</i> -`mwe`-&gt; よって / <i>yotte</i> "by", かも / <i>kamo</i> -`mwe`-&gt; しれ / <i>shire</i> -`mwe`-&gt; ない / <i>nai</i> (maybe) |
+| `flat` | Proper noun compounds | 山田 / <i>Yamada</i> "Yamada" -`flat`-&gt; 太郎 / <i>Taro</i> "Taro" |
+| `fixed` | Multi-word functional expressions | に / <i>ni</i> -`fixed`-&gt; よって / <i>yotte</i> "by", かも / <i>kamo</i> -`fixed`-&gt; しれ / <i>shire</i> -`fixed`-&gt; ない / <i>nai</i> (maybe) |
 | `foreign` | Foreign words in non-Japanese characters | google &lt;-`foreign`- docs |
 | `goeswith` | used when a word is somehow split into tokens | |
 
@@ -77,7 +77,7 @@ for the definition of each label.
 | `list` | Listing | 1. 東京 / <i>Tokyo</i> "Tokyo" &lt;-`list`- 2. 大阪 / <i>Osaka</i> "Osaka"</td></tr>
 | `dislocated` | a topic phrase (typically a prepositionalphrase with topic marker は / <i>ha</i>) | 象 は / <i>zo wa</i> "elephant-TOPIC" &lt;-`dislocated`- 鼻 が 長い / <i>hana ga nagai</i> "nose is long" |
 | `parataxis` | Listing of sentences | 「 太郎 は 花子 が 好き 。 / <i>Taro wa Hanako ga suki .</i> "Taro loves Hanako." &lt;-`parataxis`- 次郎 は 梅子 が 好き 。 / <i>Jiro wa Umeko ga suki .</i> "Jiro loves Umeko" 」 と 三郎 が 言っ た / <i>to Saburo ga it ta</i> "Saburo said" |
-| `remnant` | used to annotate head-less coordination (see the definition in Universal Dependencies for details) | |
+| `orphan` | used to annotate head-less coordination (see the definition in Universal Dependencies for details) | |
 | `reparandum` | speech repair |  |
 
 ## Special clausal dependents

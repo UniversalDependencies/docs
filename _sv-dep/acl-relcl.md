@@ -2,6 +2,7 @@
 layout: relation
 title:  'acl:relcl'
 shortdef : 'relative clause modifier'
+udver: '2'
 ---
 
 The `acl:relcl` relation is used for relative clauses modifying
@@ -13,13 +14,13 @@ and the relative pronoun can be omitted when it does not have the subject functi
 Jag såg den man som älskar dig \n I saw the man who loves you
 acl:relcl(man-4, älskar)
 nsubj(älskar, som)
-dobj(älskar, dig)
+obj(älskar, dig)
 ~~~
 ~~~ sdparse
 Jag såg den man som du älskar \n I saw the man who you love
 acl:relcl(man-4, älskar)
 nsubj(älskar, du)
-dobj(älskar, som)
+obj(älskar, som)
 ~~~
 
 ~~~ sdparse

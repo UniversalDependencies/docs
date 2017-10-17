@@ -6,12 +6,12 @@
 
 This relation is universal.
 
-939 nodes (0%) are attached to their parents as `nsubjpass`.
+598 nodes (0%) are attached to their parents as `nsubjpass`.
 
-939 instances of `nsubjpass` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 5.64110756123536.
+598 instances of `nsubjpass` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 5.46153846153846.
 
-The following 5 pairs of parts of speech are connected with `nsubjpass`: [ja-pos/VERB]()-[ja-pos/NOUN]() (911; 97% instances), [ja-pos/VERB]()-[ja-pos/PRON]() (9; 1% instances), [ja-pos/VERB]()-[ja-pos/PROPN]() (9; 1% instances), [ja-pos/VERB]()-[ja-pos/VERB]() (8; 1% instances), [ja-pos/VERB]()-[ja-pos/ADV]() (2; 0% instances).
+The following 5 pairs of parts of speech are connected with `nsubjpass`: [ja-pos/VERB]()-[ja-pos/NOUN]() (584; 98% instances), [ja-pos/VERB]()-[ja-pos/PROPN]() (6; 1% instances), [ja-pos/VERB]()-[ja-pos/VERB]() (4; 1% instances), [ja-pos/VERB]()-[ja-pos/PRON]() (3; 1% instances), [ja-pos/VERB]()-[ja-pos/ADV]() (1; 0% instances).
 
 
 ~~~ conllu
@@ -51,37 +51,6 @@ The following 5 pairs of parts of speech are connected with `nsubjpass`: [ja-pos
 
 
 ~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 15	bgColor:blue
-# visual-style 15	fgColor:white
-# visual-style 15 5 nsubjpass	color:blue
-1	_	_	NOUN	NOUN	_	2	compound	_	Offset=0-2
-2	_	アドバイザー-adviser	NOUN	NOUN	_	5	acl	_	Offset=2-8
-3	_	だ	AUX	AUX	_	2	cop	_	Offset=8-9
-4	_	有る	AUX	AUX	_	2	aux	_	Offset=9-11
-5	_	_	PRON	PRON	_	15	nsubjpass	_	Offset=11-13
-6	_	_	ADP	ADP	_	5	case	_	Offset=13-14
-7	_	_	PUNCT	PUNCT	_	5	punct	_	Offset=14-15
-8	_	_	NOUN	NOUN	_	9	compound	_	Offset=15-19
-9	_	_	NOUN	NOUN	_	11	nmod	_	Offset=19-21
-10	_	_	ADP	ADP	_	9	case	_	Offset=21-22
-11	_	為	NOUN	NOUN	_	15	nmod	_	Offset=22-24
-12	_	_	ADP	ADP	_	11	case	_	Offset=24-25
-13	_	_	NOUN	NOUN	_	15	nmod	_	Offset=25-27
-14	_	_	ADP	ADP	_	13	case	_	Offset=27-29
-15	_	_	VERB	VERB	_	0	root	_	Offset=29-31
-16	_	為る	AUX	AUX	_	15	aux	_	Offset=31-32
-17	_	れる	AUX	AUX	_	15	auxpass	_	Offset=32-33
-18	_	_	SCONJ	SCONJ	_	15	mark	_	Offset=33-34
-19	_	来る	AUX	AUX	_	15	aux	_	Offset=34-35
-20	_	_	AUX	AUX	_	15	aux	_	Offset=35-36
-21	_	_	PUNCT	PUNCT	_	15	punct	_	Offset=36-37
-
-~~~
-
-
-~~~ conllu
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 14	bgColor:blue
@@ -114,6 +83,46 @@ The following 5 pairs of parts of speech are connected with `nsubjpass`: [ja-pos
 25	_	居る	AUX	AUX	_	22	aux	_	Offset=43-44
 26	_	_	AUX	AUX	_	22	neg	_	Offset=44-46
 27	_	_	PUNCT	PUNCT	_	22	punct	_	Offset=46-47
+
+~~~
+
+
+~~~ conllu
+# visual-style 18	bgColor:blue
+# visual-style 18	fgColor:white
+# visual-style 28	bgColor:blue
+# visual-style 28	fgColor:white
+# visual-style 28 18 nsubjpass	color:blue
+1	_	_	NOUN	NOUN	_	7	nmod	_	Offset=0-2
+2	_	_	PUNCT	PUNCT	_	1	punct	_	Offset=2-3
+3	_	_	NOUN	NOUN	_	1	conj	_	Offset=3-5
+4	_	_	PUNCT	PUNCT	_	1	punct	_	Offset=5-6
+5	_	リズム-rhythm	NOUN	NOUN	_	1	conj	_	Offset=6-9
+6	_	_	ADP	ADP	_	1	case	_	Offset=9-10
+7	_	_	NOUN	NOUN	_	11	dobj	_	Offset=10-12
+8	_	_	ADP	ADP	_	7	case	_	Offset=12-13
+9	_	_	NOUN	NOUN	_	11	iobj	_	Offset=13-15
+10	_	_	ADP	ADP	_	9	case	_	Offset=15-16
+11	_	為る	VERB	VERB	_	13	acl	_	Offset=16-17
+12	_	_	AUX	AUX	_	11	aux	_	Offset=17-18
+13	_	_	NOUN	NOUN	_	18	nmod	_	Offset=18-19
+14	_	_	PUNCT	PUNCT	_	13	punct	_	Offset=19-20
+15	_	何	PRON	PRON	_	18	dobj	_	Offset=20-22
+16	_	_	ADP	ADP	_	15	case	_	Offset=22-23
+17	_	_	ADV	ADV	_	18	advmod	_	Offset=23-25
+18	_	_	VERB	VERB	_	28	nsubjpass	_	Offset=25-27
+19	_	_	PART	PART	_	18	mark	_	Offset=27-28
+20	_	_	ADP	ADP	_	18	dep	_	Offset=28-29
+21	_	_	PUNCT	PUNCT	_	18	punct	_	Offset=29-30
+22	_	其の	DET	DET	_	23	det	_	Offset=30-32
+23	_	_	NOUN	NOUN	_	26	nmod	_	Offset=32-33
+24	_	_	ADP	ADP	_	23	case	_	Offset=33-34
+25	_	_	NOUN	NOUN	_	26	compound	_	Offset=34-36
+26	_	_	NOUN	NOUN	_	28	iobj	_	Offset=36-37
+27	_	_	ADP	ADP	_	26	case	_	Offset=37-38
+28	_	返す	VERB	VERB	_	0	root	_	Offset=38-40
+29	_	_	AUX	AUX	_	28	auxpass	_	Offset=40-43
+30	_	_	PUNCT	PUNCT	_	28	punct	_	Offset=43-44
 
 ~~~
 

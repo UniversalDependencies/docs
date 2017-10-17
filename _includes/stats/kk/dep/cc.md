@@ -6,45 +6,12 @@
 
 This relation is universal.
 
-134 nodes (2%) are attached to their parents as `cc`.
+13 nodes (2%) are attached to their parents as `cc`.
 
-132 instances of `cc` (99%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.42537313432836.
+11 instances of `cc` (85%) are right-to-left (child precedes parent).
+Average distance between parent and child is 3.30769230769231.
 
-The following 9 pairs of parts of speech are connected with `cc`: [kk-pos/NOUN]()-[kk-pos/CONJ]() (60; 45% instances), [kk-pos/VERB]()-[kk-pos/CONJ]() (32; 24% instances), [kk-pos/ADJ]()-[kk-pos/CONJ]() (21; 16% instances), [kk-pos/PROPN]()-[kk-pos/CONJ]() (12; 9% instances), [kk-pos/VERB]()-[kk-pos/SCONJ]() (5; 4% instances), [kk-pos/ADJ]()-[kk-pos/SCONJ]() (1; 1% instances), [kk-pos/NOUN]()-[kk-pos/SCONJ]() (1; 1% instances), [kk-pos/NUM]()-[kk-pos/CONJ]() (1; 1% instances), [kk-pos/PUNCT]()-[kk-pos/CONJ]() (1; 1% instances).
-
-
-~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 2 cc	color:blue
-1	Орыс	орыс	NOUN	n	_	3	conj	_	nom
-2	және	және	CONJ	cnjcoo	_	3	cc	_	_
-3	қазақ	қазақ	NOUN	n	_	4	nmod:poss	_	nom
-4	тілдерін	тіл	NOUN	n	_	5	dobj	_	pl|px3sp|acc
-5	біледі	біл	VERB	v	_	0	root	_	tv|aor|p3|sg
-6	.	.	PUNCT	sent	_	5	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 1 cc	color:blue
-1	Бірақ	бірақ	CONJ	cnjcoo	_	5	cc	_	_
-2	мысығы	мысық	NOUN	n	_	5	nsubj	_	px3sp|nom
-3	үйде	үй	NOUN	n	_	5	nmod	_	loc
-4	,	,	PUNCT	cm	_	5	punct	_	_
-5	ұйықтап	ұйықта	VERB	v	_	0	root	_	iv|prc_perf
-6	жатыр	жат	AUX	vaux	_	5	aux	_	pres|p3|sg
-7	.	.	PUNCT	sent	_	5	punct	_	_
-
-~~~
+The following 8 pairs of parts of speech are connected with `cc`: [kk-pos/VERB]()-[kk-pos/CCONJ]() (3; 23% instances), [kk-pos/NOUN]()-[kk-pos/CCONJ]() (2; 15% instances), [kk-pos/NOUN]()-[kk-pos/SCONJ]() (2; 15% instances), [kk-pos/VERB]()-[kk-pos/SCONJ]() (2; 15% instances), [kk-pos/ADJ]()-[kk-pos/CCONJ]() (1; 8% instances), [kk-pos/PRON]()-[kk-pos/CCONJ]() (1; 8% instances), [kk-pos/PROPN]()-[kk-pos/CCONJ]() (1; 8% instances), [kk-pos/VERB]()-[kk-pos/ADV]() (1; 8% instances).
 
 
 ~~~ conllu
@@ -53,13 +20,62 @@ The following 9 pairs of parts of speech are connected with `cc`: [kk-pos/NOUN](
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 1 cc	color:blue
-1	Ал	ал	CONJ	cnjcoo	_	4	cc	_	_
-2	Айгүлдің	Айгүл	PROPN	np	_	3	nmod:poss	_	ant|f|gen
-3	күшігі	күшік	NOUN	n	_	4	nsubj	_	px3sp|nom
-4	_	бар	ADJ	adj	_	0	root	_	_
-5	_	е	AUX	cop	_	4	cop	_	aor|p3|sg
-6	_	ма	PART	qst	_	4	discourse	_	_
-7	?	?	PUNCT	sent	_	4	punct	_	_
+1	Бірақ	бірақ	CCONJ	cnjcoo	_	4	cc	_	_
+2	тілек	тілек	NOUN	n	Case=Nom	4	nsubj	_	_
+3	іске	іске	X	x	_	4	dep	_	_
+4	аспай	ас	VERB	v	Aspect=Perf|Polarity=Neg|VerbForm=Conv	8	advcl	_	SpaceAfter=No
+5	,	,	PUNCT	cm	_	4	punct	_	_
+6	аяғы	аяқ	NOUN	n	Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3	7	nsubj	_	_
+7	жоқ	жоқ	ADJ	adj	_	8	acl:relcl	_	_
+8	жыр	жыр	NOUN	n	Case=Nom	0	root	_	_
+9	болды	бол	AUX	v	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	8	cop	_	SpaceAfter=No
+10	.	.	PUNCT	sent	_	8	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 9 7 cc	color:blue
+1	Таққа	тақ	NOUN	n	Case=Dat	17	obl	_	_
+2	1952	1952	NUM	num	NumType=Ord	3	amod	_	_
+3	жылдың	жыл	NOUN	n	Case=Gen	5	nmod:poss	_	_
+4	6	6	NUM	num	NumType=Ord	5	amod	_	_
+5	ақпанында	ақпан	NOUN	n	Case=Loc|Number[psor]=Plur,Sing|Person[psor]=3	17	obl	_	SpaceAfter=No
+6	,	,	PUNCT	cm	_	9	punct	_	_
+7	яғни	яғни	SCONJ	cnjsub	_	9	cc	_	_
+8	25	25	NUM	num	NumType=Card	9	nummod	_	_
+9	жасында	жас	NOUN	n	Case=Loc|Number[psor]=Plur,Sing|Person[psor]=3	5	appos	_	SpaceAfter=No
+10	,	,	PUNCT	cm	_	9	punct	_	_
+11	әкесі	әке	NOUN	n	Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3	15	nmod:poss	_	_
+12	—	—	PUNCT	guio	_	14	punct	_	_
+13	VI	VI	NUM	num	NumType=Ord	11	appos	_	_
+14	Георгтың	Георг	PROPN	np	Case=Gen|Gender=Masc	13	flat:name	_	_
+15	өлімінен	өлім	NOUN	n	Case=Abl|Number[psor]=Plur,Sing|Person[psor]=3	17	obl	_	_
+16	кейін	кейін	ADP	post	_	15	case	_	_
+17	отырды	отыр	VERB	v	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
+18	.	.	PUNCT	sent	_	17	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 5 cc	color:blue
+1	Бала	бала	NOUN	n	Case=Nom	2	obj	_	_
+2	сұрады	сұра	VERB	v	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
+3	,	,	PUNCT	cm	_	7	punct	_	_
+4	қалай	қалай	X	x	_	5	dep	_	_
+5	да	да	SCONJ	cnjadv	_	7	cc	_	_
+6	бала	бала	NOUN	n	Case=Nom	7	nsubj	_	_
+7	болмады	бол	VERB	v	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Past|VerbForm=Fin	2	conj	_	SpaceAfter=No
+8	.	.	PUNCT	sent	_	7	punct	_	_
 
 ~~~
 

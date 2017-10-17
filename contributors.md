@@ -1,6 +1,7 @@
 ---
 layout: base
 title:  'UD Contributors'
+udver: '2'
 ---
 
 # Contributors
@@ -17,8 +18,10 @@ title:  'UD Contributors'
 * [Joakim Nivre](http://stp.lingfil.uu.se/~nivre/)
 * [Slav Petrov](http://www.petrovi.de/)
 * [Sampo Pyysalo](http://bionlp.utu.fi/)
+* Sebastian Schuster
 * Natalia Silveira
 * Reut Tsarfaty
+* Francis Tyers
 * [Dan Zeman](http://ufal.mff.cuni.cz/daniel-zeman/)
 
 ## Language-specific guidelines and treebanks 

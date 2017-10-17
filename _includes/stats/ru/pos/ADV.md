@@ -4,98 +4,99 @@
 
 ## Treebank Statistics (UD_Russian)
 
-There are 1099 `ADV` lemmas (6%), 1119 `ADV` types (4%) and 3355 `ADV` tokens (3%).
+There are 1008 `ADV` lemmas (6%), 1026 `ADV` types (4%) and 2982 `ADV` tokens (3%).
 Out of 16 observed tags, the rank of `ADV` is: 5 in number of lemmas, 5 in number of types and 7 in number of tokens.
 
-The 10 most frequent `ADV` lemmas: <em>ГДЕ, БОЛЕЕ, КАК, ТАК, ЕЩЕ, УЖЕ, КОГДА, ВМЕСТЕ, ЗАТЕМ, ВПЕРВЫЕ</em>
+The 10 most frequent `ADV` lemmas: <em>ГДЕ, БОЛЕЕ, КАК, ТАК, УЖЕ, ЕЩЕ, КОГДА, ВМЕСТЕ, ЗАТЕМ, ПОЗЖЕ</em>
 
-The 10 most frequent `ADV` types:  <em>где, более, как, так, уже, ещё, когда, вместе, затем, впервые</em>
+The 10 most frequent `ADV` types:  <em>где, более, как, так, уже, ещё, когда, вместе, затем, менее</em>
 
-The 10 most frequent ambiguous lemmas: <em>ГДЕ</em> ([ADV]() 93, [SCONJ]() 2), <em>КАК</em> ([ADP]() 188, [ADV]() 72, [SCONJ]() 24, [CONJ]() 4), <em>ТАК</em> ([ADV]() 59, [SCONJ]() 31, [CONJ]() 9, [ADP]() 4), <em>КОГДА</em> ([ADV]() 46, [SCONJ]() 15), <em>ЗАТЕМ</em> ([ADV]() 39, [CONJ]() 2), <em>ТО</em> ([PRON]() 184, [ADV]() 25, [CONJ]() 7, [ADP]() 2, [SCONJ]() 2), <em>2</em> ([NUM]() 55, [ADV]() 23, [ADJ]() 9), <em>1</em> ([NUM]() 43, [ADJ]() 33, [ADV]() 19), <em>ХОРОШО</em> ([ADV]() 16, [VERB]() 1), <em>3</em> ([NUM]() 31, [ADV]() 13, [ADJ]() 8)
+The 10 most frequent ambiguous lemmas: <em>ГДЕ</em> ([ADV]() 78, [SCONJ]() 2), <em>КАК</em> ([ADP]() 165, [ADV]() 64, [SCONJ]() 21, [CCONJ]() 4), <em>ТАК</em> ([ADV]() 56, [SCONJ]() 28, [CCONJ]() 8, [ADP]() 4), <em>КОГДА</em> ([ADV]() 41, [SCONJ]() 14), <em>ЗАТЕМ</em> ([ADV]() 35, [CCONJ]() 2), <em>ТО</em> ([PRON]() 167, [ADV]() 22, [CCONJ]() 7, [ADP]() 2, [SCONJ]() 2), <em>2</em> ([NUM]() 50, [ADV]() 21, [ADJ]() 7), <em>1</em> ([NUM]() 39, [ADJ]() 27, [ADV]() 17), <em>ХОРОШО</em> ([ADV]() 13, [VERB]() 1), <em>4</em> ([NUM]() 30, [ADV]() 12, [ADJ]() 10)
 
-The 10 most frequent ambiguous types:  <em>где</em> ([ADV]() 92, [SCONJ]() 2), <em>более</em> ([ADV]() 79, [NUM]() 1), <em>как</em> ([ADP]() 175, [ADV]() 69, [SCONJ]() 19, [CONJ]() 4), <em>так</em> ([ADV]() 45, [SCONJ]() 27, [CONJ]() 8, [ADP]() 4), <em>когда</em> ([ADV]() 46, [SCONJ]() 3), <em>затем</em> ([ADV]() 32, [CONJ]() 2), <em>то</em> ([DET]() 34, [PRON]() 29, [ADV]() 25, [CONJ]() 7, [ADP]() 2, [SCONJ]() 2), <em>2</em> ([NUM]() 55, [ADV]() 23, [ADJ]() 9), <em>всего</em> ([PRON]() 14, [DET]() 10, [ADV]() 9), <em>1</em> ([NUM]() 43, [ADJ]() 33, [ADV]() 19)
+The 10 most frequent ambiguous types:  <em>где</em> ([ADV]() 77, [SCONJ]() 2), <em>как</em> ([ADP]() 154, [ADV]() 62, [SCONJ]() 16, [CCONJ]() 4), <em>так</em> ([ADV]() 43, [SCONJ]() 24, [CCONJ]() 7, [ADP]() 4), <em>когда</em> ([ADV]() 41, [SCONJ]() 3), <em>затем</em> ([ADV]() 28, [CCONJ]() 2), <em>то</em> ([DET]() 32, [PRON]() 28, [ADV]() 22, [CCONJ]() 7, [ADP]() 2, [SCONJ]() 2), <em>2</em> ([NUM]() 50, [ADV]() 21, [ADJ]() 7), <em>всего</em> ([PRON]() 12, [DET]() 8, [ADV]() 8), <em>1</em> ([NUM]() 39, [ADJ]() 27, [ADV]() 17), <em>4</em> ([NUM]() 30, [ADV]() 12, [ADJ]() 10)
 
 
 * <em>где</em>
-  * [ADV]() 92: <em>Самсоновка Ирбейского района был лагерь , совхоз , <b>где</b> содержались женщины .</em>
+  * [ADV]() 77: <em>Самсоновка Ирбейского района был лагерь , совхоз , <b>где</b> содержались женщины .</em>
   * [SCONJ]() 2: <em>Такие домены второго уровня обычно имеют формат com. xx или co. xx , <b>где</b> xx -- это национальный домен верхнего уровня .</em>
-* <em>более</em>
-  * [ADV]() 79: <em>По официальным данным , погибло <b>более</b> двух тысяч человек .</em>
-  * [NUM]() 1: <em>Ранее представители этого вида перед миграциями собирались в крупные группы , составлявшие сто и <b>более</b> животных , однако из - за крайней редкости в наше время это стало невозможным .</em>
 * <em>как</em>
-  * [ADP]() 175: <em>Кассандра , <b>как</b> и сестра , замуж так и не вышла .</em>
-  * [ADV]() 69: <em>Голова сверху не видна , так <b>как</b> прикрыта переднеспинкой .</em>
-  * [SCONJ]() 19: <em>Мы не почувствовали , <b>как</b> вступили на землю Польши , а затем и Австрии .</em>
-  * [CONJ]() 4: <em>В этом он близок <b>как</b> к традиции символизма так и к поэзии вещей ( Dinggedicht ) .</em>
+  * [ADP]() 154: <em>Кассандра , <b>как</b> и сестра , замуж так и не вышла .</em>
+  * [ADV]() 62: <em>Голова сверху не видна , так <b>как</b> прикрыта переднеспинкой .</em>
+  * [SCONJ]() 16: <em>Мы не почувствовали , <b>как</b> вступили на землю Польши , а затем и Австрии .</em>
+  * [CCONJ]() 4: <em>В этом он близок <b>как</b> к традиции символизма так и к поэзии вещей ( Dinggedicht ) .</em>
 * <em>так</em>
-  * [ADV]() 45: <em>Кассандра , как и сестра , замуж <b>так</b> и не вышла .</em>
-  * [SCONJ]() 27: <em>Голова сверху не видна , <b>так</b> как прикрыта переднеспинкой .</em>
-  * [CONJ]() 8: <em>В этом он близок как к традиции символизма <b>так</b> и к поэзии вещей ( Dinggedicht ) .</em>
+  * [ADV]() 43: <em>Кассандра , как и сестра , замуж <b>так</b> и не вышла .</em>
+  * [SCONJ]() 24: <em>Голова сверху не видна , <b>так</b> как прикрыта переднеспинкой .</em>
+  * [CCONJ]() 7: <em>В этом он близок как к традиции символизма <b>так</b> и к поэзии вещей ( Dinggedicht ) .</em>
   * [ADP]() 4: <em>Они сочетают элементы византийского и современного мусульманского стиля , как в целом , <b>так</b> и в деталях .</em>
 * <em>когда</em>
-  * [ADV]() 46: <em>В ноябре этого же <b>когда</b> группа начинает работу над вторым полноценным альбомом .</em>
+  * [ADV]() 41: <em>В ноябре этого же <b>когда</b> группа начинает работу над вторым полноценным альбомом .</em>
   * [SCONJ]() 3: <em>А <b>когда</b> закончил , оказывается , я работал один &#39;&#39; .</em>
 * <em>затем</em>
-  * [ADV]() 32: <em>Мы не почувствовали , как вступили на землю Польши , а <b>затем</b> и Австрии .</em>
-  * [CONJ]() 2: <em>В детстве записан в Преображенский полк , <b>затем</b> переведен на службу конную гвардию .</em>
+  * [ADV]() 28: <em>Молодые ветки рыже - бурые , <b>затем</b> темнеющие до тёмно - коричневых .</em>
+  * [CCONJ]() 2: <em>В детстве записан в Преображенский полк , <b>затем</b> переведен на службу конную гвардию .</em>
 * <em>то</em>
-  * [DET]() 34: <em>И в <b>то</b> же время малыш должен как будто идти к папе , к кораблю .</em>
-  * [PRON]() 29: <em>И ты деи его такъжо в <b>то</b> не въвазывал .</em>
-  * [ADV]() 25: <em>Если диски не попали в корт соперников , <b>то</b> очко ( или 2 ) засчитывается противнику .</em>
-  * [CONJ]() 7: <em>Далее больше атаковали хозяева , но римлян выручали <b>то</b> Марко Баллотта , <b>то</b> его защитники .</em>
+  * [DET]() 32: <em>Абсолют делим ( бхеда ) и неделим ( а - бхеда ) в одно и <b>то</b> же время .</em>
+  * [PRON]() 28: <em>И ты деи его такъжо в <b>то</b> не въвазывал .</em>
+  * [ADV]() 22: <em>Если диски не попали в корт соперников , <b>то</b> очко ( или 2 ) засчитывается противнику .</em>
+  * [CCONJ]() 7: <em>Далее больше атаковали хозяева , но римлян выручали <b>то</b> Марко Баллотта , <b>то</b> его защитники .</em>
   * [ADP]() 2: <em>Если налог перелагается , <b>то</b> это значит , что он выступает в роли особого ценообразующего фактора .</em>
   * [SCONJ]() 2: <em>Возможно , существует проход , который соединяет Темное Озеро с одной из подземных рек , протекающей в Скуллпорте , и если удастся обнаружить этот проход и открывающий его ключ , <b>то</b> это сильно поможет облегчить торговлю между Подземьем и поверхностью .</em>
 * <em>2</em>
-  * [NUM]() 55: <em>Запирание осуществляется поворотом затвора на <b>2</b> боевых упора .</em>
-  * [ADV]() 23: <em>Население Новогригоровки составляет более <b>2</b> - х тысяч человек .</em>
-  * [ADJ]() 9: <em>Он умер в Каннах <b>2</b> февраля 1886 года .</em>
+  * [NUM]() 50: <em>Мощность -- <b>2</b> МВт .</em>
+  * [ADV]() 21: <em>Население Новогригоровки составляет более <b>2</b> - х тысяч человек .</em>
+  * [ADJ]() 7: <em>Он умер в Каннах <b>2</b> февраля 1886 года .</em>
 * <em>всего</em>
-  * [PRON]() 14: <em>Чаще <b>всего</b> на одной из сторон медали изображался в полный рост действующий президент США .</em>
-  * [DET]() 10: <em>От его работы зависят темп , ритм , общая чёткость <b>всего</b> представления .</em>
-  * [ADV]() 9: <em>В постоянной памяти игре требуется <b>всего</b> 80 КБ свободного места .</em>
+  * [PRON]() 12: <em>Чаще <b>всего</b> на одной из сторон медали изображался в полный рост действующий президент США .</em>
+  * [DET]() 8: <em>От его работы зависят темп , ритм , общая чёткость <b>всего</b> представления .</em>
+  * [ADV]() 8: <em>В постоянной памяти игре требуется <b>всего</b> 80 КБ свободного места .</em>
 * <em>1</em>
-  * [NUM]() 43: <em>На расстоянии в <b>1</b> км расположено село Поповка .</em>
-  * [ADJ]() 33: <em><b>1</b> декабря 1923 произведен в лейтенанты 3 - го артиллерийского полка .</em>
-  * [ADV]() 19: <em>Награждён орденом Святой Анны <b>1</b> - й степени .</em>
+  * [NUM]() 39: <em>На расстоянии в <b>1</b> км расположено село Поповка .</em>
+  * [ADJ]() 27: <em>На <b>1</b> января 2007 года в деревне не числилось постоянных жителей .</em>
+  * [ADV]() 17: <em>Награждён орденом Святой Анны <b>1</b> - й степени .</em>
+* <em>4</em>
+  * [NUM]() 30: <em>За сборную Аргентины он провёл <b>4</b> матча и забил 2 гола .</em>
+  * [ADV]() 12: <em>В свою очередь , это выражение восходит к тексту <b>4</b> - го псалма .</em>
+  * [ADJ]() 10: <em>Первый эпизод вышел <b>4</b> августа 2012 .</em>
 
 ## Morphology
 
-The form / lemma ratio of `ADV` is 1.018198 (the average of all parts of speech is 1.591757).
+The form / lemma ratio of `ADV` is 1.017857 (the average of all parts of speech is 1.576680).
 
 The 1st highest number of forms (3) was observed with the lemma “МАЛО”: <em>мало, менее, меньше</em>.
 
 The 2nd highest number of forms (3) was observed with the lemma “МНОГО”: <em>больше, много, побольше</em>.
 
-The 3rd highest number of forms (2) was observed with the lemma “АГРЕССИВНО”: <em>агрессивнее, агрессивно</em>.
+The 3rd highest number of forms (2) was observed with the lemma “БЛИЗКО”: <em>ближе, близко</em>.
 
-`ADV` occurs with 1 features: [ru-feat/Degree]() (289; 9% instances)
+`ADV` occurs with 1 features: [ru-feat/Degree]() (249; 8% instances)
 
 `ADV` occurs with 2 feature-value pairs: `Degree=Cmp`, `Degree=Sup`
 
 `ADV` occurs with 3 feature combinations.
-The most frequent feature combination is `_` (3066 tokens).
-Examples: <em>где, как, так, уже, ещё, когда, вместе, затем, впервые, здесь</em>
+The most frequent feature combination is `_` (2733 tokens).
+Examples: <em>где, как, так, уже, ещё, когда, вместе, затем, впервые, очень</em>
 
 
 ## Relations
 
-`ADV` nodes are attached to their parents using 23 different relations: [ru-dep/advmod]() (1915; 57% instances), [ru-dep/goeswith]() (1002; 30% instances), [ru-dep/discourse]() (136; 4% instances), [ru-dep/mwe]() (63; 2% instances), [ru-dep/conj]() (52; 2% instances), [ru-dep/nmod]() (51; 2% instances), [ru-dep/appos]() (32; 1% instances), [ru-dep/cc]() (18; 1% instances), [ru-dep/root]() (15; 0% instances), [ru-dep/cc:preconj]() (10; 0% instances), [ru-dep/foreign]() (10; 0% instances), [ru-dep/case]() (7; 0% instances), [ru-dep/list]() (7; 0% instances), [ru-dep/nsubj]() (7; 0% instances), [ru-dep/parataxis]() (6; 0% instances), [ru-dep/amod]() (5; 0% instances), [ru-dep/remnant]() (5; 0% instances), [ru-dep/advcl]() (4; 0% instances), [ru-dep/dobj]() (4; 0% instances), [ru-dep/acl:relcl]() (2; 0% instances), [ru-dep/iobj]() (2; 0% instances), [ru-dep/mark]() (1; 0% instances), [ru-dep/nummod:entity]() (1; 0% instances)
+`ADV` nodes are attached to their parents using 28 different relations: [ru-dep/advmod]() (1687; 57% instances), [ru-dep/amod]() (329; 11% instances), [ru-dep/goeswith]() (230; 8% instances), [ru-dep/nmod]() (153; 5% instances), [ru-dep/discourse]() (124; 4% instances), [ru-dep/conj]() (100; 3% instances), [ru-dep/appos]() (91; 3% instances), [ru-dep/fixed]() (56; 2% instances), [ru-dep/obl]() (54; 2% instances), [ru-dep/nsubj]() (32; 1% instances), [ru-dep/root]() (20; 1% instances), [ru-dep/cc]() (17; 1% instances), [ru-dep/list]() (14; 0% instances), [ru-dep/flat:foreign]() (10; 0% instances), [ru-dep/obj]() (10; 0% instances), [ru-dep/cc:preconj]() (9; 0% instances), [ru-dep/parataxis]() (9; 0% instances), [ru-dep/case]() (7; 0% instances), [ru-dep/nummod]() (7; 0% instances), [ru-dep/iobj]() (5; 0% instances), [ru-dep/orphan]() (5; 0% instances), [ru-dep/flat]() (3; 0% instances), [ru-dep/nsubj:pass]() (3; 0% instances), [ru-dep/acl:relcl]() (2; 0% instances), [ru-dep/advcl]() (2; 0% instances), [ru-dep/acl]() (1; 0% instances), [ru-dep/compound]() (1; 0% instances), [ru-dep/mark]() (1; 0% instances)
 
-Parents of `ADV` nodes belong to 16 different parts of speech: [VERB]() (1424; 42% instances), [ADJ]() (706; 21% instances), [NOUN]() (527; 16% instances), [PROPN]() (314; 9% instances), [ADV]() (181; 5% instances), [NUM]() (66; 2% instances), [SCONJ]() (30; 1% instances), [PRON]() (29; 1% instances), [ADP]() (22; 1% instances), [DET]() (19; 1% instances), [ROOT]() (15; 0% instances), [PART]() (10; 0% instances), [CONJ]() (6; 0% instances), [SYM]() (4; 0% instances), [AUX]() (1; 0% instances), [PUNCT]() (1; 0% instances)
+Parents of `ADV` nodes belong to 16 different parts of speech: [VERB]() (1340; 45% instances), [NOUN]() (763; 26% instances), [ADJ]() (274; 9% instances), [ADV]() (192; 6% instances), [PROPN]() (187; 6% instances), [NUM]() (57; 2% instances), [ADP]() (49; 2% instances), [SCONJ]() (27; 1% instances), [DET]() (25; 1% instances), [PRON]() (24; 1% instances), [ROOT]() (20; 1% instances), [PART]() (9; 0% instances), [CCONJ]() (6; 0% instances), [PUNCT]() (4; 0% instances), [SYM]() (4; 0% instances), [AUX]() (1; 0% instances)
 
-2822 (84%) `ADV` nodes are leaves.
+1835 (62%) `ADV` nodes are leaves.
 
-325 (10%) `ADV` nodes have one child.
+307 (10%) `ADV` nodes have one child.
 
-125 (4%) `ADV` nodes have two children.
+519 (17%) `ADV` nodes have two children.
 
-83 (2%) `ADV` nodes have three or more children.
+321 (11%) `ADV` nodes have three or more children.
 
-The highest child degree of a `ADV` node is 7.
+The highest child degree of a `ADV` node is 9.
 
-Children of `ADV` nodes are attached using 28 different relations: [ru-dep/punct]() (284; 32% instances), [ru-dep/nmod]() (176; 20% instances), [ru-dep/goeswith]() (96; 11% instances), [ru-dep/advmod]() (74; 8% instances), [ru-dep/discourse]() (53; 6% instances), [ru-dep/conj]() (43; 5% instances), [ru-dep/cc]() (36; 4% instances), [ru-dep/appos]() (21; 2% instances), [ru-dep/mwe]() (21; 2% instances), [ru-dep/neg]() (21; 2% instances), [ru-dep/case]() (11; 1% instances), [ru-dep/foreign]() (10; 1% instances), [ru-dep/nsubj]() (7; 1% instances), [ru-dep/remnant]() (7; 1% instances), [ru-dep/xcomp]() (6; 1% instances), [ru-dep/mark]() (5; 1% instances), [ru-dep/ccomp]() (4; 0% instances), [ru-dep/parataxis]() (4; 0% instances), [ru-dep/dobj]() (3; 0% instances), [ru-dep/iobj]() (3; 0% instances), [ru-dep/list]() (3; 0% instances), [ru-dep/nummod:entity]() (3; 0% instances), [ru-dep/acl:relcl]() (2; 0% instances), [ru-dep/advcl]() (2; 0% instances), [ru-dep/amod]() (1; 0% instances), [ru-dep/cc:preconj]() (1; 0% instances), [ru-dep/cop]() (1; 0% instances), [ru-dep/det]() (1; 0% instances)
+Children of `ADV` nodes are attached using 29 different relations: [ru-dep/goeswith]() (1426; 55% instances), [ru-dep/punct]() (379; 15% instances), [ru-dep/nmod]() (217; 8% instances), [ru-dep/case]() (93; 4% instances), [ru-dep/advmod]() (83; 3% instances), [ru-dep/conj]() (83; 3% instances), [ru-dep/cc]() (59; 2% instances), [ru-dep/appos]() (45; 2% instances), [ru-dep/discourse]() (45; 2% instances), [ru-dep/amod]() (23; 1% instances), [ru-dep/fixed]() (19; 1% instances), [ru-dep/nsubj]() (16; 1% instances), [ru-dep/flat:foreign]() (10; 0% instances), [ru-dep/det]() (9; 0% instances), [ru-dep/nummod]() (9; 0% instances), [ru-dep/list]() (8; 0% instances), [ru-dep/acl:relcl]() (7; 0% instances), [ru-dep/flat]() (7; 0% instances), [ru-dep/orphan]() (6; 0% instances), [ru-dep/parataxis]() (6; 0% instances), [ru-dep/cop]() (5; 0% instances), [ru-dep/xcomp]() (5; 0% instances), [ru-dep/acl]() (4; 0% instances), [ru-dep/cc:preconj]() (3; 0% instances), [ru-dep/ccomp]() (3; 0% instances), [ru-dep/advcl]() (2; 0% instances), [ru-dep/iobj]() (2; 0% instances), [ru-dep/mark]() (2; 0% instances), [ru-dep/obj]() (2; 0% instances)
 
-Children of `ADV` nodes belong to 14 different parts of speech: [PUNCT]() (326; 36% instances), [ADV]() (181; 20% instances), [NOUN]() (127; 14% instances), [PART]() (66; 7% instances), [CONJ]() (51; 6% instances), [ADP]() (41; 5% instances), [PROPN]() (32; 4% instances), [PRON]() (29; 3% instances), [VERB]() (13; 1% instances), [ADJ]() (12; 1% instances), [SYM]() (11; 1% instances), [SCONJ]() (5; 1% instances), [NUM]() (4; 0% instances), [DET]() (1; 0% instances)
+Children of `ADV` nodes belong to 15 different parts of speech: [PUNCT]() (1078; 42% instances), [ADJ]() (427; 17% instances), [NOUN]() (338; 13% instances), [PROPN]() (207; 8% instances), [ADV]() (192; 7% instances), [ADP]() (106; 4% instances), [CCONJ]() (74; 3% instances), [PART]() (56; 2% instances), [PRON]() (27; 1% instances), [VERB]() (23; 1% instances), [NUM]() (19; 1% instances), [SYM]() (14; 1% instances), [DET]() (9; 0% instances), [AUX]() (5; 0% instances), [SCONJ]() (3; 0% instances)
 
 
 
@@ -103,88 +104,89 @@ Children of `ADV` nodes belong to 14 different parts of speech: [PUNCT]() (326; 
 
 ## Treebank Statistics (UD_Russian-SynTagRus)
 
-There are 2010 `ADV` lemmas (5%), 2157 `ADV` types (2%) and 56209 `ADV` tokens (5%).
-Out of 17 observed tags, the rank of `ADV` is: 5 in number of lemmas, 5 in number of types and 6 in number of tokens.
+There are 1882 `ADV` lemmas (4%), 2024 `ADV` types (2%) and 50362 `ADV` tokens (5%).
+Out of 18 observed tags, the rank of `ADV` is: 5 in number of lemmas, 5 in number of types and 6 in number of tokens.
 
 The 10 most frequent `ADV` lemmas: <em>так, уже, еще, можно, более, как, очень, однако, где, сейчас</em>
 
 The 10 most frequent `ADV` types:  <em>так, уже, еще, можно, более, как, очень, однако, где, сейчас</em>
 
-The 10 most frequent ambiguous lemmas: <em>так</em> ([ADV]() 1911, [PART]() 11, [SCONJ]() 1), <em>как</em> ([SCONJ]() 3500, [ADV]() 1067), <em>там</em> ([ADV]() 693, [PART]() 2), <em>сегодня</em> ([ADV]() 677, [NOUN]() 26), <em>тут</em> ([ADV]() 436, [NOUN]() 2, [X]() 1), <em>пока</em> ([ADV]() 359, [SCONJ]() 196), <em>далеко</em> ([ADV]() 269, [NOUN]() 1), <em>когда</em> ([SCONJ]() 1271, [ADV]() 224), <em>сколько</em> ([ADV]() 222, [SCONJ]() 1), <em>точно</em> ([ADV]() 194, [PART]() 10, [SCONJ]() 7)
+The 10 most frequent ambiguous lemmas: <em>так</em> ([ADV]() 2159, [PART]() 7, [SCONJ]() 1), <em>как</em> ([SCONJ]() 3748, [ADV]() 1028), <em>сегодня</em> ([ADV]() 628, [NOUN]() 23), <em>там</em> ([ADV]() 614, [PART]() 2), <em>много</em> ([ADV]() 418, [NUM]() 214), <em>тут</em> ([ADV]() 398, [NOUN]() 2, [X]() 1), <em>пока</em> ([ADV]() 331, [SCONJ]() 175), <em>далеко</em> ([ADV]() 259, [NOUN]() 1), <em>когда</em> ([SCONJ]() 1187, [ADV]() 210), <em>мало</em> ([ADV]() 201, [NUM]() 158)
 
-The 10 most frequent ambiguous types:  <em>так</em> ([ADV]() 1491, [PART]() 6, [CONJ]() 1, [SCONJ]() 1), <em>уже</em> ([ADV]() 1768, [ADJ]() 2), <em>как</em> ([SCONJ]() 2958, [ADV]() 810), <em>там</em> ([ADV]() 559, [PART]() 2), <em>сегодня</em> ([ADV]() 494, [NOUN]() 25), <em>надо</em> ([ADV]() 576, [ADP]() 2), <em>больше</em> ([ADV]() 578, [ADJ]() 57), <em>конечно</em> ([ADV]() 349, [ADJ]() 2), <em>потом</em> ([ADV]() 367, [NOUN]() 3), <em>тут</em> ([ADV]() 356, [NOUN]() 2, [X]() 1)
+The 10 most frequent ambiguous types:  <em>так</em> ([ADV]() 1548, [PART]() 4, [SCONJ]() 1, [CCONJ]() 1), <em>уже</em> ([ADV]() 1624, [ADJ]() 2), <em>как</em> ([SCONJ]() 3201, [ADV]() 784), <em>сегодня</em> ([ADV]() 463, [NOUN]() 22), <em>надо</em> ([ADV]() 539, [ADP]() 2), <em>там</em> ([ADV]() 496, [PART]() 2), <em>конечно</em> ([ADV]() 336, [ADJ]() 2), <em>потом</em> ([ADV]() 359, [NOUN]() 3), <em>тут</em> ([ADV]() 327, [NOUN]() 2, [X]() 1), <em>больше</em> ([ADV]() 321, [NUM]() 209, [ADJ]() 54)
 
 
 * <em>так</em>
-  * [ADV]() 1491: <em>Однако общественности эти находки <b>так</b> и не были предъявлены .</em>
-  * [PART]() 6: <em>Поэтому в фирме работает <b>так</b> много матерей - одиночек , и в штате числится немало дам в интересном положении .</em>
-  * [CONJ]() 1: <em>Биологический возраст индивида может заметно отличаться от возраста паспортного как в сторону опережения ( акселерация ) , <b>так</b> отставания ( ретардация ) .</em>
+  * [ADV]() 1548: <em>Однако общественности эти находки <b>так</b> и не были предъявлены .</em>
+  * [PART]() 4: <em>Поэтому в фирме работает <b>так</b> много матерей - одиночек , и в штате числится немало дам в интересном положении .</em>
   * [SCONJ]() 1: <em>- Как хошь , <b>так</b> и понимай , - оборвал ее Антон .</em>
+  * [CCONJ]() 1: <em>Биологический возраст индивида может заметно отличаться от возраста паспортного как в сторону опережения ( акселерация ) , <b>так</b> отставания ( ретардация ) .</em>
 * <em>уже</em>
-  * [ADV]() 1768: <em>Занятия альпинизмом возобновились <b>уже</b> в 1944 г. .</em>
+  * [ADV]() 1624: <em>Занятия альпинизмом возобновились <b>уже</b> в 1944 г .</em>
   * [ADJ]() 2: <em>Кроме того , сам Гибралтарский пролив был гораздо <b>уже</b> и длиннее .</em>
 * <em>как</em>
-  * [SCONJ]() 2958: <em>Их преодоление , <b>как</b> правило , связано с опасностью .</em>
-  * [ADV]() 810: <em>Таким образом , наступало <b>как</b> бы равновесие .</em>
-* <em>там</em>
-  * [ADV]() 559: <em>Кто знает , что он <b>там</b> думал ! . .</em>
-  * [PART]() 2: <em>Он там у себя в институте делал доклад о родстве птиц с рептилиями или <b>там</b> с крокодилами - ну ты меня понял , да ! - бегают и кусают ; а у них ученый секретарь был по фамилии Птицын , так он принял на свой счет .</em>
+  * [SCONJ]() 3201: <em>Их преодоление , <b>как</b> правило , связано с опасностью .</em>
+  * [ADV]() 784: <em>Таким образом , наступало <b>как</b> бы равновесие .</em>
 * <em>сегодня</em>
-  * [ADV]() 494: <em>Мемуары Екатерины II и <b>сегодня</b> дают немалую пищу ослабевшему уму .</em>
-  * [NOUN]() 25: <em>А <b>сегодня</b> , дорогуша , поощрение .</em>
+  * [ADV]() 463: <em>Мемуары Екатерины II и <b>сегодня</b> дают немалую пищу ослабевшему уму .</em>
+  * [NOUN]() 22: <em>Напомним , что на <b>сегодня</b> уровень инфляции уже составляет 6,3 % .</em>
 * <em>надо</em>
-  * [ADV]() 576: <em>Но об этом важном " тоже " <b>надо</b> рассказывать отдельно .</em>
-  * [ADP]() 2: <em>Тетя Рита была молодая , у нее была другая прическа : <b>надо</b> лбом валик , волосы светлые , прозрачные .</em>
-* <em>больше</em>
-  * [ADV]() 578: <em>Но тут различий , может быть , еще <b>больше</b> .</em>
-  * [ADJ]() 57: <em>Разве по ногам отличишь : у парней они <b>больше</b> .</em>
+  * [ADV]() 539: <em>Но об этом важном " тоже " <b>надо</b> рассказывать отдельно .</em>
+  * [ADP]() 2: <em>Помню тяжесть навалившегося кирпича , какую-то дверь , косо и страшно вставшую <b>надо</b> мной , мысль :</em>
+* <em>там</em>
+  * [ADV]() 496: <em>Кто знает , что он <b>там</b> думал ! . .</em>
+  * [PART]() 2: <em>Он там у себя в институте делал доклад о родстве птиц с рептилиями или <b>там</b> с крокодилами - ну ты меня понял , да ! - бегают и кусают ; а у них ученый секретарь был по фамилии Птицын , так он принял на свой счет .</em>
 * <em>конечно</em>
-  * [ADV]() 349: <em>Знать - то мы , <b>конечно</b> , знаем .</em>
+  * [ADV]() 336: <em>Знать - то мы , <b>конечно</b> , знаем .</em>
   * [ADJ]() 2: <em>Таким способом теорию можно защищать неограниченно долго , поскольку число экспериментов всегда <b>конечно</b> .</em>
 * <em>потом</em>
-  * [ADV]() 367: <em>Люда сначала помалкивала , <b>потом</b> начала отвечать .</em>
+  * [ADV]() 359: <em>А здесь ракета пошла вверх , а <b>потом</b> _ за горизонт .</em>
   * [NOUN]() 3: <em>В одной телогрейке на голом теле Мостовой обливался <b>потом</b> .</em>
 * <em>тут</em>
-  * [ADV]() 356: <em>( Как <b>тут</b> не вспомнить о днях нынешних ! )</em>
-  * [NOUN]() 2: <em>Бровью не повела - <b>тут</b> же села , достала титьку .</em>
+  * [ADV]() 327: <em>( Как <b>тут</b> не вспомнить о днях нынешних ! )</em>
+  * [NOUN]() 2: <em>Или не <b>тут</b> же , а потом …</em>
   * [X]() 1: <em>- А що <b>тут</b> казаты .</em>
+* <em>больше</em>
+  * [ADV]() 321: <em>Дальше <b>больше</b> .</em>
+  * [NUM]() 209: <em>Впрочем , первым космонавтам досталось еще <b>больше</b> .</em>
+  * [ADJ]() 54: <em>Разве по ногам отличишь : у парней они <b>больше</b> .</em>
 
 ## Morphology
 
-The form / lemma ratio of `ADV` is 1.073134 (the average of all parts of speech is 2.665758).
+The form / lemma ratio of `ADV` is 1.075452 (the average of all parts of speech is 2.644632).
 
-The 1st highest number of forms (5) was observed with the lemma “скоро”: <em>поскорее, поскорей, скорее, скорей, скоро</em>.
+The 1st highest number of forms (7) was observed with the lemma “так”: <em>дак, т., т.д, т.д., т.к., так, так,</em>.
 
-The 2nd highest number of forms (5) was observed with the lemma “т.д.”: <em>т._д, т._д., т.д, т.д., т_.д</em>.
+The 2nd highest number of forms (5) was observed with the lemma “скоро”: <em>поскорее, поскорей, скорее, скорей, скоро</em>.
 
-The 3rd highest number of forms (5) was observed with the lemma “то_есть”: <em>т._е, т._е., т.е., т_._е, то_есть</em>.
+The 3rd highest number of forms (4) was observed with the lemma “быстро”: <em>быстрее, быстрей, быстро, побыстрее</em>.
 
-`ADV` occurs with 1 features: [ru-feat/Degree]() (56209; 100% instances)
+`ADV` occurs with 2 features: [ru-feat/Degree]() (50191; 100% instances), [ru-feat/Polarity]() (171; 0% instances)
 
-`ADV` occurs with 2 feature-value pairs: `Degree=Cmp`, `Degree=Pos`
+`ADV` occurs with 3 feature-value pairs: `Degree=Cmp`, `Degree=Pos`, `Polarity=Neg`
 
-`ADV` occurs with 2 feature combinations.
-The most frequent feature combination is `Degree=Pos` (54447 tokens).
-Examples: <em>так, уже, еще, можно, более, как, очень, однако, где, сейчас</em>
+`ADV` occurs with 3 feature combinations.
+The most frequent feature combination is `Degree=Pos` (47066 tokens).
+Examples: <em>так, уже, еще, можно, как, очень, однако, где, сейчас, например</em>
 
 
 ## Relations
 
-`ADV` nodes are attached to their parents using 20 different relations: [ru-dep/advmod]() (44207; 79% instances), [ru-dep/parataxis]() (5018; 9% instances), [ru-dep/root]() (2457; 4% instances), [ru-dep/conj]() (1676; 3% instances), [ru-dep/nummod:gov]() (780; 1% instances), [ru-dep/nmod]() (591; 1% instances), [ru-dep/nsubj]() (515; 1% instances), [ru-dep/advcl]() (359; 1% instances), [ru-dep/acl:relcl]() (214; 0% instances), [ru-dep/mwe]() (147; 0% instances), [ru-dep/nsubjpass]() (90; 0% instances), [ru-dep/dep]() (45; 0% instances), [ru-dep/mark]() (30; 0% instances), [ru-dep/appos]() (24; 0% instances), [ru-dep/acl]() (17; 0% instances), [ru-dep/amod]() (12; 0% instances), [ru-dep/dobj]() (12; 0% instances), [ru-dep/name]() (7; 0% instances), [ru-dep/compound]() (6; 0% instances), [ru-dep/nummod]() (2; 0% instances)
+`ADV` nodes are attached to their parents using 25 different relations: [ru-dep/advmod]() (38219; 76% instances), [ru-dep/parataxis]() (4374; 9% instances), [ru-dep/root]() (2333; 5% instances), [ru-dep/conj]() (1559; 3% instances), [ru-dep/mark]() (718; 1% instances), [ru-dep/nummod:gov]() (562; 1% instances), [ru-dep/fixed]() (494; 1% instances), [ru-dep/nmod]() (493; 1% instances), [ru-dep/nsubj]() (382; 1% instances), [ru-dep/advcl]() (344; 1% instances), [ru-dep/case]() (315; 1% instances), [ru-dep/orphan]() (221; 0% instances), [ru-dep/acl:relcl]() (205; 0% instances), [ru-dep/nsubj:pass]() (58; 0% instances), [ru-dep/appos]() (22; 0% instances), [ru-dep/acl]() (20; 0% instances), [ru-dep/ccomp]() (11; 0% instances), [ru-dep/compound]() (6; 0% instances), [ru-dep/xcomp]() (6; 0% instances), [ru-dep/flat:name]() (5; 0% instances), [ru-dep/cc]() (4; 0% instances), [ru-dep/dep]() (4; 0% instances), [ru-dep/obl]() (4; 0% instances), [ru-dep/nummod]() (2; 0% instances), [ru-dep/amod]() (1; 0% instances)
 
-Parents of `ADV` nodes belong to 14 different parts of speech: [VERB]() (31857; 57% instances), [ADJ]() (8192; 15% instances), [NOUN]() (6885; 12% instances), [ADV]() (4511; 8% instances), [ROOT]() (2457; 4% instances), [PART]() (654; 1% instances), [NUM]() (611; 1% instances), [PROPN]() (410; 1% instances), [PRON]() (394; 1% instances), [SCONJ]() (112; 0% instances), [SYM]() (86; 0% instances), [CONJ]() (35; 0% instances), [INTJ]() (3; 0% instances), [X]() (2; 0% instances)
+Parents of `ADV` nodes belong to 17 different parts of speech: [VERB]() (27928; 55% instances), [ADJ]() (7156; 14% instances), [NOUN]() (5599; 11% instances), [ADV]() (4278; 8% instances), [ROOT]() (2333; 5% instances), [PRON]() (909; 2% instances), [PART]() (763; 2% instances), [NUM]() (642; 1% instances), [PROPN]() (344; 1% instances), [DET]() (270; 1% instances), [ADP]() (33; 0% instances), [PUNCT]() (32; 0% instances), [_]() (29; 0% instances), [CCONJ]() (25; 0% instances), [SCONJ]() (17; 0% instances), [INTJ]() (2; 0% instances), [X]() (2; 0% instances)
 
-36345 (65%) `ADV` nodes are leaves.
+29787 (59%) `ADV` nodes are leaves.
 
-12987 (23%) `ADV` nodes have one child.
+13889 (28%) `ADV` nodes have one child.
 
-3441 (6%) `ADV` nodes have two children.
+3858 (8%) `ADV` nodes have two children.
 
-3436 (6%) `ADV` nodes have three or more children.
+2828 (6%) `ADV` nodes have three or more children.
 
-The highest child degree of a `ADV` node is 14.
+The highest child degree of a `ADV` node is 10.
 
-Children of `ADV` nodes are attached using 28 different relations: [ru-dep/punct]() (12556; 38% instances), [ru-dep/advmod]() (6131; 19% instances), [ru-dep/nsubj]() (3190; 10% instances), [ru-dep/nmod]() (2872; 9% instances), [ru-dep/cc]() (1910; 6% instances), [ru-dep/conj]() (1589; 5% instances), [ru-dep/neg]() (1056; 3% instances), [ru-dep/parataxis]() (910; 3% instances), [ru-dep/advcl]() (834; 3% instances), [ru-dep/cop]() (510; 2% instances), [ru-dep/mwe]() (468; 1% instances), [ru-dep/mark]() (356; 1% instances), [ru-dep/acl:relcl]() (140; 0% instances), [ru-dep/iobj]() (104; 0% instances), [ru-dep/dobj]() (88; 0% instances), [ru-dep/acl]() (72; 0% instances), [ru-dep/aux]() (64; 0% instances), [ru-dep/dep]() (53; 0% instances), [ru-dep/name]() (40; 0% instances), [ru-dep/case]() (39; 0% instances), [ru-dep/nummod]() (39; 0% instances), [ru-dep/appos]() (15; 0% instances), [ru-dep/nummod:gov]() (10; 0% instances), [ru-dep/amod]() (8; 0% instances), [ru-dep/discourse]() (8; 0% instances), [ru-dep/foreign]() (4; 0% instances), [ru-dep/compound]() (2; 0% instances), [ru-dep/nsubjpass]() (2; 0% instances)
+Children of `ADV` nodes are attached using 31 different relations: [ru-dep/punct]() (11007; 35% instances), [ru-dep/advmod]() (6456; 20% instances), [ru-dep/nsubj]() (3071; 10% instances), [ru-dep/nmod]() (2445; 8% instances), [ru-dep/cc]() (1741; 5% instances), [ru-dep/fixed]() (1678; 5% instances), [ru-dep/conj]() (1521; 5% instances), [ru-dep/parataxis]() (816; 3% instances), [ru-dep/advcl]() (771; 2% instances), [ru-dep/cop]() (718; 2% instances), [ru-dep/mark]() (702; 2% instances), [ru-dep/acl:relcl]() (134; 0% instances), [ru-dep/orphan]() (101; 0% instances), [ru-dep/iobj]() (95; 0% instances), [ru-dep/obj]() (82; 0% instances), [ru-dep/case]() (80; 0% instances), [ru-dep/_]() (76; 0% instances), [ru-dep/aux]() (69; 0% instances), [ru-dep/acl]() (67; 0% instances), [ru-dep/dep]() (41; 0% instances), [ru-dep/nummod]() (39; 0% instances), [ru-dep/amod]() (35; 0% instances), [ru-dep/flat:name]() (35; 0% instances), [ru-dep/appos]() (14; 0% instances), [ru-dep/obl]() (14; 0% instances), [ru-dep/discourse]() (11; 0% instances), [ru-dep/root]() (7; 0% instances), [ru-dep/flat:foreign]() (4; 0% instances), [ru-dep/nummod:gov]() (4; 0% instances), [ru-dep/compound]() (2; 0% instances), [ru-dep/nsubj:pass]() (1; 0% instances)
 
-Children of `ADV` nodes belong to 15 different parts of speech: [PUNCT]() (12556; 38% instances), [ADV]() (4511; 14% instances), [NOUN]() (4138; 13% instances), [VERB]() (3841; 12% instances), [PART]() (3788; 11% instances), [CONJ]() (1384; 4% instances), [SCONJ]() (946; 3% instances), [PRON]() (520; 2% instances), [AUX]() (504; 2% instances), [ADJ]() (461; 1% instances), [PROPN]() (296; 1% instances), [NUM]() (48; 0% instances), [ADP]() (39; 0% instances), [SYM]() (30; 0% instances), [INTJ]() (8; 0% instances)
+Children of `ADV` nodes belong to 16 different parts of speech: [PUNCT]() (11007; 35% instances), [ADV]() (4163; 13% instances), [VERB]() (3769; 12% instances), [PART]() (3749; 12% instances), [NOUN]() (3171; 10% instances), [SCONJ]() (1740; 5% instances), [CCONJ]() (1503; 5% instances), [PRON]() (1133; 4% instances), [AUX]() (454; 1% instances), [ADJ]() (362; 1% instances), [ADP]() (334; 1% instances), [PROPN]() (255; 1% instances), [_]() (76; 0% instances), [DET]() (60; 0% instances), [NUM]() (55; 0% instances), [INTJ]() (6; 0% instances)
 

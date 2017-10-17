@@ -2,10 +2,18 @@
 layout: feature
 title: 'ConjType'
 shortdef: 'conjunction type'
+udver: '2'
 ---
 
-This feature further subclassifies the parts of speech [cs-pos/CONJ]() and [cs-pos/SCONJ]();
-in Czech, it is used only with `CONJ`. The main distinction between coordinating and
+<table class="typeindex" border="1">
+<tr>
+  <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
+  <td><a href="#Oper">Oper</a></td>
+</tr>
+</table>
+
+This feature further subclassifies the parts of speech [cs-pos/CCONJ]() and [cs-pos/SCONJ]();
+in Czech, it is used only with `CCONJ`. The main distinction between coordinating and
 subordinating conjunctions is done already at the part-of-speech level.
 
 ### `Oper`: mathematical operator

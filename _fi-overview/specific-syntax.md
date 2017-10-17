@@ -582,7 +582,7 @@ dependency types available: [`xcomp`](), [`ccomp`](), and
 [`xcomp:ds`]().
 
 If the subject of the dependent is shared with the governor (subject
-control), the correct type to use is [`xcomp`](). If any other sentence element is inherited from the higher clause (for example a `dobj`), the correct type is
+control), the correct type to use is [`xcomp`](). If any other sentence element is inherited from the higher clause (for example a `obj`), the correct type is
 [`xcomp:ds`](), and otherwise [`ccomp`]().
 
 #### Examples
@@ -733,7 +733,7 @@ punct(Annoin-1, .-9)
 ~~~
 
 The relativizer is annotated with the standard syntactic role that it
-plays in the relative clause, such as [nsubj]() or [dobj]().  (Note
+plays in the relative clause, such as [nsubj]() or [obj]().  (Note
 that this treatment differs from the annotation of relative clauses in
 previously proposed related schemes, which used specific dependency
 types (e.g. `rel`) to mark the relativizer. In particular, in the TDT

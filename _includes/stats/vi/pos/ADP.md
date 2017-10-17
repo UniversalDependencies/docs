@@ -4,57 +4,55 @@
 
 ## Treebank Statistics (UD_Vietnamese)
 
-There are 40 `ADP` lemmas (1%), 40 `ADP` types (1%) and 2543 `ADP` tokens (6%).
-Out of 13 observed tags, the rank of `ADP` is: 9 in number of lemmas, 9 in number of types and 6 in number of tokens.
+There are 39 `ADP` lemmas (1%), 39 `ADP` types (1%) and 1855 `ADP` tokens (6%).
+Out of 14 observed tags, the rank of `ADP` is: 9 in number of lemmas, 9 in number of types and 5 in number of tokens.
 
-The 10 most frequent `ADP` lemmas: <em>của, với, trong, ở, cho, để, từ, đến, vào, về</em>
+The 10 most frequent `ADP` lemmas: <em>của, với, trong, ở, cho, để, đến, từ, về, vào</em>
 
-The 10 most frequent `ADP` types:  <em>của, với, trong, ở, cho, để, từ, đến, vào, về</em>
+The 10 most frequent `ADP` types:  <em>của, với, trong, ở, cho, để, đến, từ, về, vào</em>
 
-The 10 most frequent ambiguous lemmas: <em>của</em> ([ADP]() 429, [NOUN]() 1), <em>với</em> ([ADP]() 226, [CONJ]() 13, [VERB]() 1), <em>trong</em> ([ADP]() 225, [NOUN]() 14, [ADJ]() 3), <em>ở</em> ([ADP]() 187, [VERB]() 62), <em>cho</em> ([ADP]() 165, [VERB]() 91, [X]() 4, [PART]() 1), <em>để</em> ([ADP]() 151, [VERB]() 25), <em>từ</em> ([ADP]() 136, [NOUN]() 1, [VERB]() 1), <em>đến</em> ([ADP]() 136, [VERB]() 90, [X]() 16, [PART]() 11), <em>vào</em> ([ADP]() 113, [VERB]() 65, [X]() 30), <em>về</em> ([ADP]() 103, [VERB]() 103, [X]() 29)
+The 10 most frequent ambiguous lemmas: <em>của</em> ([ADP]() 322, [NOUN]() 1), <em>với</em> ([ADP]() 174, [CCONJ]() 10, [VERB]() 1), <em>trong</em> ([ADP]() 171, [NOUN]() 13), <em>ở</em> ([ADP]() 131, [VERB]() 47), <em>cho</em> ([ADP]() 118, [VERB]() 72, [X]() 3), <em>để</em> ([ADP]() 109, [VERB]() 23), <em>đến</em> ([ADP]() 103, [VERB]() 71, [X]() 14, [PART]() 7), <em>từ</em> ([ADP]() 101, [NOUN]() 1, [VERB]() 1), <em>về</em> ([ADP]() 83, [VERB]() 78, [X]() 16), <em>vào</em> ([ADP]() 72, [VERB]() 43, [X]() 25)
 
-The 10 most frequent ambiguous types:  <em>của</em> ([ADP]() 429, [NOUN]() 1), <em>với</em> ([ADP]() 226, [CONJ]() 13, [VERB]() 1), <em>trong</em> ([ADP]() 225, [NOUN]() 14, [ADJ]() 3), <em>ở</em> ([ADP]() 187, [VERB]() 62), <em>cho</em> ([ADP]() 165, [VERB]() 91, [X]() 4, [PART]() 1), <em>để</em> ([ADP]() 151, [VERB]() 25), <em>từ</em> ([ADP]() 136, [NOUN]() 1, [VERB]() 1), <em>đến</em> ([ADP]() 136, [VERB]() 90, [X]() 16, [PART]() 11), <em>vào</em> ([ADP]() 113, [VERB]() 65, [X]() 30), <em>về</em> ([VERB]() 103, [ADP]() 103, [X]() 29)
+The 10 most frequent ambiguous types:  <em>của</em> ([ADP]() 322, [NOUN]() 1), <em>với</em> ([ADP]() 174, [CCONJ]() 10, [VERB]() 1), <em>trong</em> ([ADP]() 171, [NOUN]() 13), <em>ở</em> ([ADP]() 131, [VERB]() 47), <em>cho</em> ([ADP]() 118, [VERB]() 72, [X]() 3), <em>để</em> ([ADP]() 109, [VERB]() 23), <em>đến</em> ([ADP]() 103, [VERB]() 71, [X]() 14, [PART]() 7), <em>từ</em> ([ADP]() 101, [NOUN]() 1, [VERB]() 1), <em>về</em> ([ADP]() 83, [VERB]() 78, [X]() 16), <em>vào</em> ([ADP]() 72, [VERB]() 43, [X]() 25)
 
 
 * <em>của</em>
-  * [ADP]() 429: <em>Các " mẹ " buồn như mất đi đứa con <b>của</b> mình .</em>
-  * [NOUN]() 1: <em>Đường_đất nhỏ , vận_động dân góp công góp <b>của</b> đắp đường bêtông .</em>
+  * [ADP]() 322: <em>Bác Hồ ủng hộ quyết định <b>của</b> tôi ... " .</em>
+  * [NOUN]() 1: <em>Đường đất nhỏ , vận động dân góp công góp <b>của</b> đắp đường bêtông .</em>
 * <em>với</em>
-  * [ADP]() 226: <em>Kết_quả đó là sự ra_đời chất_độc da_cam <b>với</b> mục_đích quân_sự .</em>
-  * [CONJ]() 13: <em>Bây_giờ chỉ còn mình tôi <b>với</b> một ngọn đèn .</em>
+  * [ADP]() 174: <em>Ông đã trở thành người bạn thân thiết <b>với</b> toàn thể nhân dân VN .</em>
+  * [CCONJ]() 10: <em>" bà John , bà Susan là những ông Bụt đến <b>với</b> đời tôi ...</em>
   * [VERB]() 1: <em>chủ quán hẹn như đinh đóng cột <b>với</b> Bình rằng mai , kia quay lại đây sẽ có .</em>
 * <em>trong</em>
-  * [ADP]() 225: <em>Anh thoát khỏi miệng hùm <b>trong</b> gang_tấc .</em>
-  * [NOUN]() 14: <em>sâu vào <b>trong</b> , dãy bên trái là khu chăm_sóc những cụ đã lẫn .</em>
-  * [ADJ]() 3: <em>vấn_đề còn lại là cháy dây điện dẫn vào máy hay cháy từ bên <b>trong</b> máy .</em>
+  * [ADP]() 171: <em>Tôi sinh ra <b>trong</b> gia đình nghèo .</em>
+  * [NOUN]() 13: <em>quay vào <b>trong</b> ông kêu : " Hạnh , ra chào dì đi con ! " .</em>
 * <em>ở</em>
-  * [ADP]() 187: <em>Chúng_tôi hỏi : " Chị hãi nhất con vật nào <b>ở</b> vườn thú này ? " .</em>
-  * [VERB]() 62: <em>Không biết họ <b>ở</b> đâu .</em>
+  * [ADP]() 131: <em>sau đó cảnh sát Pháp bắt tôi và dẫn tôi đi giam <b>ở</b> nhà giam Tours ...</em>
+  * [VERB]() 47: <em><b>ở</b> bên mình nhằm mục đích gì ? ...</em>
 * <em>cho</em>
-  * [ADP]() 165: <em>Nếu tôi ngã xuống , mong các bạn hãy tin <b>cho</b> bố_mẹ tôi ...</em>
-  * [VERB]() 91: <em>Gần 3 tỉ đồng đã được đổ vào để <b>cho</b> ra một dịch_vụ khá hoàn_thiện .</em>
-  * [X]() 4: <em>" Nào , để mẹ lau <b>cho</b> , mặc quần vào đi " .</em>
-  * [PART]() 1: <em>Ông nên chấm_dứt và giải_quyết cuộc tình này sao <b>cho</b> êm_ấm .</em>
+  * [ADP]() 118: <em>17 tuổi tôi là thư ký đánh máy <b>cho</b> văn phòng đảng Cộng sản Pháp .</em>
+  * [VERB]() 72: <em>Hải <b>cho</b> Tùng thấy Tùng cũng là một thanh niên bản lĩnh và tử tế .</em>
+  * [X]() 3: <em>" Nào , để mẹ lau <b>cho</b> , mặc quần vào đi " .</em>
 * <em>để</em>
-  * [ADP]() 151: <em>Cô chỉ cho tôi biết làm thế_nào <b>để</b> được yên_ổn ? .</em>
-  * [VERB]() 25: <em>ông Chương <b>để</b> công_văn trong bao thư .</em>
-* <em>từ</em>
-  * [ADP]() 136: <em>ầm ... ầm ... ầm , những tiếng nổ_mìn vang_vọng <b>từ</b> lòng đất núi Hải_Vân .</em>
-  * [NOUN]() 1: <em>cách an_táng này người_ta thường gọi bằng <b>từ</b> " xóc_chéo " .</em>
-  * [VERB]() 1: <em>ở đây ông còn một người bạn thân tên Học đang làm phó_văn_phòng và cũng <b>từ</b> miền Nam ra .</em>
+  * [ADP]() 109: <em>Tôi cũng đã tham gia quân đội <b>để</b> chống phát xít Đức tại Pháp .</em>
+  * [VERB]() 23: <em>Họ đã <b>để</b> lại hậu quả quá lớn bằng chất độc da cam / dioxin hủy diệt .</em>
 * <em>đến</em>
-  * [ADP]() 136: <em>người và thú vật nhau , anh lê được ra <b>đến</b> cửa , người bê_bết máu .</em>
-  * [VERB]() 90: <em>khi chúng_tôi <b>đến</b> , anh Thành đang chuẩn_bị vào ca chiều .</em>
-  * [X]() 16: <em>ở đó có <b>đến</b> 13 con_người chen_chúc nhau sống trong đó .</em>
-  * [PART]() 11: <em>sức_khỏe yếu , lại cảnh nghèo_túng nên phải <b>đến</b> tháng 9 - 1987 LBKT 33 tuổi RBKT ông mới lấy được vợ .</em>
-* <em>vào</em>
-  * [ADP]() 113: <em>khi vào quét chuồng , nó vượt qua song sắt khép hờ lao <b>vào</b> anh .</em>
-  * [VERB]() 65: <em>khi <b>vào</b> quét chuồng , nó vượt qua song sắt khép hờ lao vào anh .</em>
-  * [X]() 30: <em>chị Tiệp phải lấy tay bóp <b>vào</b> yết_hầu nó mới nhả ra .</em>
+  * [ADP]() 103: <em>Cho <b>đến</b> giờ có nhiều cá nhân và tổ chức đăng ký tham gia với chúng tôi .</em>
+  * [VERB]() 71: <em><b>đến</b> VN lần này , hai người như đang trở lại ngôi nhà của mình .</em>
+  * [X]() 14: <em>Chúng dẫn thẳng lên núi , nơi hàng lậu được chuyển <b>đến</b> .</em>
+  * [PART]() 7: <em>nơi đây có <b>đến</b> ba chiếc đèn pin của CSGT chia nhau thành hai nhóm đón hai chiều xe lên xuống .</em>
+* <em>từ</em>
+  * [ADP]() 101: <em>Tùng hào hứng thêm khi gặp những đoàn khách du lịch đến <b>từ</b> Hà Nội .</em>
+  * [NOUN]() 1: <em>cách an táng này người ta thường gọi bằng <b>từ</b> " xóc chéo " .</em>
+  * [VERB]() 1: <em>ở đây ông còn một người bạn thân tên Học đang làm phó văn phòng và cũng <b>từ</b> miền Nam ra .</em>
 * <em>về</em>
-  * [VERB]() 103: <em>Ba năm trước , Lâm_Nhi <b>về</b> mới có 30 kg .</em>
-  * [ADP]() 103: <em>qua thực_tế , ông Vinh kết_luận gần 90_% các vụ cháy do sự_cố <b>về</b> điện .</em>
-  * [X]() 29: <em>Diện_tích tăng lên , sản_lượng khoai hằng năm mình thu <b>về</b> cả ngàn tấn .</em>
+  * [ADP]() 83: <em>Nhiều thông tin <b>về</b> chiến tranh VN được đưa trên báo Nhân Đạo .</em>
+  * [VERB]() 78: <em>hôm đó <b>về</b> nhà Tùng rất ngán mẹ biết tin này .</em>
+  * [X]() 16: <em>Bà sẽ xem nhà và đặt cọc tiền , sau đó quay <b>về</b> để ông làm nốt phần việc mua bán .</em>
+* <em>vào</em>
+  * [ADP]() 72: <em>thằng thứ ba ấn <b>vào</b> miệng Tùng điếu thuốc lá cháy đỏ .</em>
+  * [VERB]() 43: <em>Mấy lần đi qua Bưởi <b>vào</b> nhà tìm nhưng bố mẹ mày nói mày đi làm xa ...</em>
+  * [X]() 25: <em>Vừa dừng lại thì một xe đi ngang quệt <b>vào</b> @ của Tùng .</em>
 
 ## Morphology
 
@@ -71,21 +69,21 @@ The 3rd highest number of forms (1) was observed with the lemma “Vì”: <em>V
 
 ## Relations
 
-`ADP` nodes are attached to their parents using 5 different relations: [vi-dep/case]() (2339; 92% instances), [vi-dep/advcl]() (110; 4% instances), [vi-dep/nmod]() (75; 3% instances), [vi-dep/dobj]() (13; 1% instances), [vi-dep/root]() (6; 0% instances)
+`ADP` nodes are attached to their parents using 6 different relations: [vi-dep/case]() (1730; 93% instances), [vi-dep/advcl]() (67; 4% instances), [vi-dep/obl]() (40; 2% instances), [vi-dep/obj]() (7; 0% instances), [vi-dep/nmod]() (6; 0% instances), [vi-dep/root]() (5; 0% instances)
 
-Parents of `ADP` nodes belong to 11 different parts of speech: [NOUN]() (1879; 74% instances), [VERB]() (407; 16% instances), [PROPN]() (165; 6% instances), [ADJ]() (59; 2% instances), [PUNCT]() (9; 0% instances), [ADP]() (8; 0% instances), [ROOT]() (6; 0% instances), [X]() (4; 0% instances), [NUM]() (3; 0% instances), [CONJ]() (2; 0% instances), [DET]() (1; 0% instances)
+Parents of `ADP` nodes belong to 10 different parts of speech: [NOUN]() (1392; 75% instances), [VERB]() (270; 15% instances), [PROPN]() (128; 7% instances), [ADJ]() (44; 2% instances), [PUNCT]() (6; 0% instances), [ROOT]() (5; 0% instances), [ADP]() (4; 0% instances), [X]() (3; 0% instances), [CCONJ]() (2; 0% instances), [NUM]() (1; 0% instances)
 
-2282 (90%) `ADP` nodes are leaves.
+1677 (90%) `ADP` nodes are leaves.
 
-228 (9%) `ADP` nodes have one child.
+156 (8%) `ADP` nodes have one child.
 
-24 (1%) `ADP` nodes have two children.
+14 (1%) `ADP` nodes have two children.
 
-9 (0%) `ADP` nodes have three or more children.
+8 (0%) `ADP` nodes have three or more children.
 
-The highest child degree of a `ADP` node is 7.
+The highest child degree of a `ADP` node is 5.
 
-Children of `ADP` nodes are attached using 14 different relations: [vi-dep/nmod]() (199; 64% instances), [vi-dep/mark]() (55; 18% instances), [vi-dep/punct]() (11; 4% instances), [vi-dep/advmod]() (9; 3% instances), [vi-dep/amod]() (8; 3% instances), [vi-dep/case]() (8; 3% instances), [vi-dep/discourse]() (7; 2% instances), [vi-dep/cc]() (3; 1% instances), [vi-dep/nsubj]() (3; 1% instances), [vi-dep/conj]() (2; 1% instances), [vi-dep/neg]() (2; 1% instances), [vi-dep/compound]() (1; 0% instances), [vi-dep/det]() (1; 0% instances), [vi-dep/dobj]() (1; 0% instances)
+Children of `ADP` nodes are attached using 13 different relations: [vi-dep/nmod]() (120; 56% instances), [vi-dep/mark]() (50; 23% instances), [vi-dep/advmod]() (8; 4% instances), [vi-dep/punct]() (8; 4% instances), [vi-dep/discourse]() (7; 3% instances), [vi-dep/amod]() (6; 3% instances), [vi-dep/case]() (4; 2% instances), [vi-dep/nsubj]() (3; 1% instances), [vi-dep/cc]() (2; 1% instances), [vi-dep/conj]() (2; 1% instances), [vi-dep/compound]() (1; 0% instances), [vi-dep/det]() (1; 0% instances), [vi-dep/obj]() (1; 0% instances)
 
-Children of `ADP` nodes belong to 10 different parts of speech: [NOUN]() (172; 55% instances), [VERB]() (52; 17% instances), [PROPN]() (34; 11% instances), [ADJ]() (12; 4% instances), [PUNCT]() (11; 4% instances), [X]() (11; 4% instances), [ADP]() (8; 3% instances), [PART]() (7; 2% instances), [SCONJ]() (2; 1% instances), [CONJ]() (1; 0% instances)
+Children of `ADP` nodes belong to 10 different parts of speech: [NOUN]() (105; 49% instances), [VERB]() (48; 23% instances), [PROPN]() (22; 10% instances), [ADJ]() (9; 4% instances), [PUNCT]() (8; 4% instances), [X]() (8; 4% instances), [PART]() (7; 3% instances), [ADP]() (4; 2% instances), [CCONJ]() (1; 0% instances), [SCONJ]() (1; 0% instances)
 

@@ -7,23 +7,23 @@
 This feature is universal.
 It occurs with 3 different values: `Cmp`, `Pos`, `Sup`.
 
-2491 tokens (4%) have a non-empty value of `Degree`.
-998 types (11%) occur at least once with a non-empty value of `Degree`.
-370 lemmas (11%) occur at least once with a non-empty value of `Degree`.
-The feature is used with 2 part-of-speech tags: [got-pos/ADJ]() (2339; 4% instances), [got-pos/ADV]() (152; 0% instances).
+2050 tokens (5%) have a non-empty value of `Degree`.
+896 types (12%) occur at least once with a non-empty value of `Degree`.
+346 lemmas (11%) occur at least once with a non-empty value of `Degree`.
+The feature is used with 2 part-of-speech tags: [got-pos/ADJ]() (1933; 4% instances), [got-pos/ADV]() (117; 0% instances).
 
 ### `ADJ`
 
-2339 [got-pos/ADJ]() tokens (71% of all `ADJ` tokens) have a non-empty value of `Degree`.
+1933 [got-pos/ADJ]() tokens (49% of all `ADJ` tokens) have a non-empty value of `Degree`.
 
-The most frequent other feature values with which `ADJ` and `Degree` co-occurred: <tt><a href="Strength.html">Strength</a>=Strong</tt> (1601; 68%), <tt><a href="Number.html">Number</a>=Sing</tt> (1430; 61%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (1331; 57%).
+The most frequent other feature values with which `ADJ` and `Degree` co-occurred: <tt><a href="Poss.html">Poss</a>=EMPTY</tt> (1933; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (1933; 100%), <tt><a href="Strength.html">Strength</a>=Strong</tt> (1320; 68%), <tt><a href="Number.html">Number</a>=Sing</tt> (1190; 62%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (1086; 56%).
 
 `ADJ` tokens may have the following values of `Degree`:
 
-* `Cmp` (113; 5% of non-empty `Degree`): <em>managizo, maiza, fruma, sutizo, azetizo, iftumin, batizo, frumin, hleidumein, maizo</em>
-* `Pos` (2110; 90% of non-empty `Degree`): <em>managai, anþar, silba, dauþaim, silban, silbans, anþara, leitil, goþ, managans</em>
-* `Sup` (116; 5% of non-empty `Degree`): <em>auhumistans, frumista, spedistin, sinistam, hauhistins, sinistans, auhumista, auhumistins, auhumistam, frumistin</em>
-* `EMPTY` (942): <em>þata, sa, þo, þamma, þis, þai, þaim, þana, þizai, þize</em>
+* `Cmp` (95; 5% of non-empty `Degree`): <em>managizo, maiza, fruma, azetizo, frumin, iftumin, sutizo, wairsiza, aftumans, airizam</em>
+* `Pos` (1747; 90% of non-empty `Degree`): <em>managai, silba, anþar, silban, anþara, silbans, goþ, dauþaim, leitil, anþaramma</em>
+* `Sup` (91; 5% of non-empty `Degree`): <em>auhumistans, frumista, spedistin, hauhistins, sinistam, sinistans, auhumista, auhumistins, frumistin, frumists</em>
+* `EMPTY` (2050): <em>þata, sa, þo, all, ƕas, izwara, meina, seinamma, sumai, meinamma</em>
 
 <table>
   <tr><th>Paradigm <i>manags</i></th><th><tt>Pos</tt></th><th><tt>Cmp</tt></th><th><tt>Sup</tt></th></tr>
@@ -43,7 +43,6 @@ The most frequent other feature values with which `ADJ` and `Degree` co-occurred
   <tr><td><tt><a href="Case.html">Case</a>=Dat|<a href="Gender.html">Gender</a>=Fem|<a href="Number.html">Number</a>=Plur|<a href="Strength.html">Strength</a>=Strong</tt></td><td><em>managaim</em></td><td></td><td></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Dat|<a href="Gender.html">Gender</a>=Fem|<a href="Number.html">Number</a>=Plur|<a href="Strength.html">Strength</a>=Weak</tt></td><td></td><td><em>managizeim</em></td><td></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Dat|<a href="Gender.html">Gender</a>=Neut|<a href="Number.html">Number</a>=Sing|<a href="Strength.html">Strength</a>=Strong</tt></td><td><em>managamma</em></td><td></td><td></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Dat|<a href="Gender.html">Gender</a>=Neut|<a href="Number.html">Number</a>=Plur|<a href="Strength.html">Strength</a>=Strong</tt></td><td><em>managaim</em></td><td></td><td></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Dat|<a href="Number.html">Number</a>=Plur|<a href="Strength.html">Strength</a>=Strong</tt></td><td><em>managaim</em></td><td></td><td></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Plur|<a href="Strength.html">Strength</a>=Strong</tt></td><td><em>managaize</em></td><td></td><td></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Gender.html">Gender</a>=Fem|<a href="Number.html">Number</a>=Sing|<a href="Strength.html">Strength</a>=Strong</tt></td><td><em>managaizos</em></td><td></td><td></td></tr>
@@ -60,34 +59,34 @@ The most frequent other feature values with which `ADJ` and `Degree` co-occurred
   <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Gender.html">Gender</a>=Neut|<a href="Number.html">Number</a>=Plur|<a href="Strength.html">Strength</a>=Strong</tt></td><td><em>managa</em></td><td></td><td></td></tr>
 </table>
 
-`Degree` seems to be **lexical feature** of `ADJ`. 94% lemmas (336) occur only with one value of `Degree`.
+`Degree` seems to be **lexical feature** of `ADJ`. 95% lemmas (316) occur only with one value of `Degree`.
 
 ### `ADV`
 
-152 [got-pos/ADV]() tokens (3% of all `ADV` tokens) have a non-empty value of `Degree`.
+117 [got-pos/ADV]() tokens (3% of all `ADV` tokens) have a non-empty value of `Degree`.
 
-The most frequent other feature values with which `ADV` and `Degree` co-occurred: <tt><a href="PronType.html">PronType</a>=EMPTY</tt> (152; 100%).
+The most frequent other feature values with which `ADV` and `Degree` co-occurred: <tt><a href="PronType.html">PronType</a>=EMPTY</tt> (117; 100%), <tt><a href="Polarity.html">Polarity</a>=EMPTY</tt> (117; 100%).
 
 `ADV` tokens may have the following values of `Degree`:
 
-* `Cmp` (60; 39% of non-empty `Degree`): <em>mais, aljaleikos, mins, airis, framis, hauhis, maiz, sniumundos, wairs</em>
-* `Pos` (79; 52% of non-empty `Degree`): <em>filu, sniumundo, fram, uhteigo, usdaudo</em>
-* `Sup` (13; 9% of non-empty `Degree`): <em>frumist</em>
-* `EMPTY` (5055): <em>ni, þan, jah, auk, nu, swe, unte, swaswe, swa, aftra</em>
+* `Cmp` (50; 43% of non-empty `Degree`): <em>mais, aljaleikos, mins, framis, airis, hauhis, sniumundos, wairs</em>
+* `Pos` (61; 52% of non-empty `Degree`): <em>filu, sniumundo, uhteigo, usdaudo</em>
+* `Sup` (6; 5% of non-empty `Degree`): <em>frumist</em>
+* `EMPTY` (4061): <em>ni, þan, jah, auk, nu, swe, unte, swaswe, swa, þanuh</em>
 
 <table>
   <tr><th>Paradigm <i>sniumundo</i></th><th><tt>Pos</tt></th><th><tt>Cmp</tt></th></tr>
   <tr><td><tt></tt></td><td><em>sniumundo</em></td><td><em>sniumundos</em></td></tr>
 </table>
 
+`Degree` seems to be **lexical feature** of `ADV`. 92% lemmas (11) occur only with one value of `Degree`.
+
 ## Relations with Agreement in `Degree`
 
 The 10 most frequent relations where parent and child node agree in `Degree`:
-<tt>ADJ --[<a href="../dep/conj.html">conj</a>]--> ADJ</tt> (83; 95%),
-<tt>ADJ --[<a href="../dep/amod.html">amod</a>]--> ADJ</tt> (20; 83%),
-<tt>ADJ --[<a href="../dep/remnant.html">remnant</a>]--> ADJ</tt> (19; 86%),
-<tt>ADJ --[<a href="../dep/advmod.html">advmod</a>]--> ADJ</tt> (10; 100%),
-<tt>ADJ --[<a href="../dep/nsubj.html">nsubj</a>]--> ADJ</tt> (6; 86%),
+<tt>ADJ --[<a href="../dep/conj.html">conj</a>]--> ADJ</tt> (74; 95%),
+<tt>ADJ --[<a href="../dep/amod.html">amod</a>]--> ADJ</tt> (11; 65%),
+<tt>ADJ --[<a href="../dep/advmod.html">advmod</a>]--> ADJ</tt> (9; 100%),
 <tt>ADJ --[<a href="../dep/advcl.html">advcl</a>]--> ADJ</tt> (2; 100%),
-<tt>ADJ --[<a href="../dep/ccomp.html">ccomp</a>]--> ADJ</tt> (1; 100%).
+<tt>ADJ --[<a href="../dep/flat.html">flat</a>]--> ADJ</tt> (1; 100%).
 

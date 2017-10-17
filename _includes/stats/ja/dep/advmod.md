@@ -6,29 +6,43 @@
 
 This relation is universal.
 
-4579 nodes (5%) are attached to their parents as `advmod`.
+2509 nodes (1%) are attached to their parents as `advmod`.
 
-4573 instances of `advmod` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.60995850622407.
+2509 instances of `advmod` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 8.99402152251893.
 
-The following 29 pairs of parts of speech are connected with `advmod`: [ja-pos/VERB]()-[ja-pos/ADV]() (2103; 46% instances), [ja-pos/VERB]()-[ja-pos/NOUN]() (659; 14% instances), [ja-pos/NOUN]()-[ja-pos/ADV]() (495; 11% instances), [ja-pos/VERB]()-[ja-pos/ADJ]() (475; 10% instances), [ja-pos/ADJ]()-[ja-pos/ADV]() (399; 9% instances), [ja-pos/NOUN]()-[ja-pos/NOUN]() (122; 3% instances), [ja-pos/VERB]()-[ja-pos/NUM]() (113; 2% instances), [ja-pos/ADJ]()-[ja-pos/NOUN]() (38; 1% instances), [ja-pos/NOUN]()-[ja-pos/ADJ]() (35; 1% instances), [ja-pos/NUM]()-[ja-pos/ADV]() (25; 1% instances), [ja-pos/ADJ]()-[ja-pos/ADJ]() (21; 0% instances), [ja-pos/VERB]()-[ja-pos/PRON]() (13; 0% instances), [ja-pos/VERB]()-[ja-pos/VERB]() (13; 0% instances), [ja-pos/ADJ]()-[ja-pos/NUM]() (12; 0% instances), [ja-pos/NOUN]()-[ja-pos/NUM]() (12; 0% instances), [ja-pos/NUM]()-[ja-pos/NOUN]() (12; 0% instances), [ja-pos/ADV]()-[ja-pos/ADV]() (9; 0% instances), [ja-pos/VERB]()-[ja-pos/DET]() (6; 0% instances), [ja-pos/PRON]()-[ja-pos/ADV]() (3; 0% instances), [ja-pos/ADJ]()-[ja-pos/VERB]() (2; 0% instances), [ja-pos/ADV]()-[ja-pos/NOUN]() (2; 0% instances), [ja-pos/NOUN]()-[ja-pos/VERB]() (2; 0% instances), [ja-pos/PRON]()-[ja-pos/ADJ]() (2; 0% instances), [ja-pos/ADJ]()-[ja-pos/PRON]() (1; 0% instances), [ja-pos/ADP]()-[ja-pos/ADV]() (1; 0% instances), [ja-pos/CONJ]()-[ja-pos/NOUN]() (1; 0% instances), [ja-pos/NOUN]()-[ja-pos/DET]() (1; 0% instances), [ja-pos/NUM]()-[ja-pos/VERB]() (1; 0% instances), [ja-pos/PRON]()-[ja-pos/NOUN]() (1; 0% instances).
+The following 15 pairs of parts of speech are connected with `advmod`: [ja-pos/VERB]()-[ja-pos/ADV]() (1154; 46% instances), [ja-pos/VERB]()-[ja-pos/CCONJ]() (540; 22% instances), [ja-pos/ADJ]()-[ja-pos/ADV]() (267; 11% instances), [ja-pos/NOUN]()-[ja-pos/ADV]() (210; 8% instances), [ja-pos/NOUN]()-[ja-pos/CCONJ]() (164; 7% instances), [ja-pos/ADJ]()-[ja-pos/CCONJ]() (63; 3% instances), [ja-pos/NUM]()-[ja-pos/ADV]() (36; 1% instances), [ja-pos/PROPN]()-[ja-pos/CCONJ]() (28; 1% instances), [ja-pos/ADV]()-[ja-pos/ADV]() (16; 1% instances), [ja-pos/PROPN]()-[ja-pos/ADV]() (16; 1% instances), [ja-pos/NUM]()-[ja-pos/CCONJ]() (7; 0% instances), [ja-pos/ADV]()-[ja-pos/CCONJ]() (4; 0% instances), [ja-pos/PRON]()-[ja-pos/ADV]() (2; 0% instances), [ja-pos/CCONJ]()-[ja-pos/ADV]() (1; 0% instances), [ja-pos/PRON]()-[ja-pos/CCONJ]() (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 9 1 advmod	color:blue
-1	ただし	_	ADV	ADV	_	9	advmod	_	_
-2	、	_	PUNCT	.	_	1	punct	_	_
-3	50周年ソングに	_	NUM	NUM-CL-NOUN-POSTP	_	4	nmod	_	_
-4	変更後は	_	NOUN	NOUN-PRT	_	9	nmod	_	_
-5	、	_	PUNCT	.	_	4	punct	_	_
-6	EDも	_	NOUN	NOUN-POSTP	_	9	nmod	_	_
-7	歌つきの	_	NOUN	NOUN-POSTP	_	8	nmod	_	_
-8	ものが	_	NOUN	NOUN-PRT	_	9	nmod	_	_
-9	使われた。	_	VERB	VERB-PASSIVE-AUX	_	0	root	_	_
+# visual-style 21	bgColor:blue
+# visual-style 21	fgColor:white
+# visual-style 22	bgColor:blue
+# visual-style 22	fgColor:white
+# visual-style 22 21 advmod	color:blue
+1	同僚	同僚	NOUN	_	_	2	compound	_	SpaceAfter=No
+2	教師	教師	NOUN	_	_	4	nmod	_	SpaceAfter=No
+3	の	の	ADP	_	_	2	case	_	SpaceAfter=No
+4	すみれ	すみれ	PROPN	_	_	6	nmod	_	SpaceAfter=No
+5	と	と	ADP	_	_	4	case	_	SpaceAfter=No
+6	彩	彩	PROPN	_	_	22	nsubj	_	SpaceAfter=No
+7	は	は	ADP	_	_	6	case	_	SpaceAfter=No
+8	そんな	そんな	ADJ	_	_	9	amod	_	SpaceAfter=No
+9	夕子	夕子	PROPN	_	_	11	obl	_	SpaceAfter=No
+10	と	と	ADP	_	_	9	case	_	SpaceAfter=No
+11	意気投合	意気投合	VERB	_	_	22	acl	_	SpaceAfter=No
+12	し	する	AUX	_	_	11	aux	_	SpaceAfter=No
+13	、	、	PUNCT	_	_	11	punct	_	SpaceAfter=No
+14	問題	問題	NOUN	_	_	16	obj	_	SpaceAfter=No
+15	を	を	ADP	_	_	14	case	_	SpaceAfter=No
+16	解決	解決	VERB	_	_	22	acl	_	SpaceAfter=No
+17	する	する	AUX	_	_	16	aux	_	SpaceAfter=No
+18	ため	ため	SCONJ	_	_	16	mark	_	SpaceAfter=No
+19	行動	行動	NOUN	_	_	22	obj	_	SpaceAfter=No
+20	を	を	ADP	_	_	19	case	_	SpaceAfter=No
+21	共に	共に	ADV	_	_	22	advmod	_	SpaceAfter=No
+22	する	する	VERB	_	_	0	root	_	SpaceAfter=No
+23	。	。	PUNCT	_	_	22	punct	_	SpaceAfter=No
 
 ~~~
 
@@ -36,36 +50,51 @@ The following 29 pairs of parts of speech are connected with `advmod`: [ja-pos/V
 ~~~ conllu
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 9 1 advmod	color:blue
-1	今回	_	NOUN	NOUN	_	9	advmod	_	_
-2	、	_	PUNCT	.	_	1	punct	_	_
-3	日本の	_	NOUN	NOUN-POSTP	_	4	nmod	_	_
-4	メディアも	_	NOUN	NOUN-POSTP	_	7	nmod	_	_
-5	この	_	DET	DET	_	6	amod	_	_
-6	テストに	_	NOUN	NOUN-POSTP	_	7	nmod	_	_
-7	参加する	_	VERB	VERB-AUX	_	8	ccomp	_	_
-8	ことが	_	NOUN	NOUN-PRT	_	9	nmod	_	_
-9	できたので	_	VERB	VERB-AUX-CONJ	_	13	advcl	_	_
-10	、	_	PUNCT	.	_	9	punct	_	_
-11	最新バージョンの	_	NOUN	NOUN-POSTP	_	12	nmod	_	_
-12	出来具合を	_	NOUN	NOUN-PRT	_	13	nmod	_	_
-13	レポートしていきたい。	_	VERB	VERB-AUX-AUX-AUX	_	0	root	_	_
+# visual-style 18	bgColor:blue
+# visual-style 18	fgColor:white
+# visual-style 18 1 advmod	color:blue
+1	ただし	ただし	CCONJ	_	_	18	advmod	_	SpaceAfter=No
+2	、	、	PUNCT	_	_	1	punct	_	SpaceAfter=No
+3	50	50	NUM	_	NumType=Card	5	nummod	_	SpaceAfter=No
+4	周年	周年	NOUN	_	_	5	compound	_	SpaceAfter=No
+5	ソング	ソング	NOUN	_	_	18	iobj	_	SpaceAfter=No
+6	に	に	ADP	_	_	5	case	_	SpaceAfter=No
+7	変更	変更	NOUN	_	_	8	compound	_	SpaceAfter=No
+8	後	後	NOUN	_	_	18	nsubj	_	SpaceAfter=No
+9	は	は	ADP	_	_	8	case	_	SpaceAfter=No
+10	、	、	PUNCT	_	_	8	punct	_	SpaceAfter=No
+11	ED	ED	PROPN	_	_	18	obl	_	SpaceAfter=No
+12	も	も	ADP	_	_	11	case	_	SpaceAfter=No
+13	歌	歌	NOUN	_	_	14	compound	_	SpaceAfter=No
+14	つき	つき	NOUN	_	_	16	nmod	_	SpaceAfter=No
+15	の	の	ADP	_	_	14	case	_	SpaceAfter=No
+16	もの	もの	NOUN	_	_	18	nsubj	_	SpaceAfter=No
+17	が	が	ADP	_	_	16	case	_	SpaceAfter=No
+18	使わ	使う	VERB	_	_	0	root	_	SpaceAfter=No
+19	れ	れる	AUX	_	_	18	aux	_	SpaceAfter=No
+20	た	た	AUX	_	_	18	aux	_	SpaceAfter=No
+21	。	。	PUNCT	_	_	18	punct	_	SpaceAfter=No
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 1 advmod	color:blue
-1	やはり	_	ADV	ADV	_	4	advmod	_	_
-2	、	_	PUNCT	.	_	1	punct	_	_
-3	おすすめは	_	NOUN	NOUN-PRT	_	4	nmod	_	_
-4	焼き物ですね。	_	NOUN	NOUN-VERB-AUX-PRT	_	0	root	_	_
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 8 7 advmod	color:blue
+1	しかも	しかも	CCONJ	_	_	8	advmod	_	SpaceAfter=No
+2	、	、	PUNCT	_	_	1	punct	_	SpaceAfter=No
+3	熱々	熱々	ADJ	_	_	5	acl	_	SpaceAfter=No
+4	の	だ	AUX	_	_	3	aux	_	SpaceAfter=No
+5	料理	料理	NOUN	_	_	8	nsubj	_	SpaceAfter=No
+6	は	は	ADP	_	_	5	case	_	SpaceAfter=No
+7	とても	とても	ADV	_	_	8	advmod	_	SpaceAfter=No
+8	美味しかっ	美味しい	ADJ	_	_	0	root	_	SpaceAfter=No
+9	た	た	AUX	_	_	8	aux	_	SpaceAfter=No
+10	です	だ	AUX	_	_	8	cop	_	SpaceAfter=No
+11	。	。	PUNCT	_	_	8	punct	_	SpaceAfter=No
 
 ~~~
 
@@ -78,12 +107,12 @@ The following 29 pairs of parts of speech are connected with `advmod`: [ja-pos/V
 
 This relation is universal.
 
-2640 nodes (1%) are attached to their parents as `advmod`.
+1859 nodes (1%) are attached to their parents as `advmod`.
 
-2640 instances of `advmod` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.92916666666667.
+1859 instances of `advmod` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 3.90102205486821.
 
-The following 23 pairs of parts of speech are connected with `advmod`: [ja-pos/VERB]()-[ja-pos/ADV]() (1595; 60% instances), [ja-pos/VERB]()-[ja-pos/ADJ]() (346; 13% instances), [ja-pos/ADJ]()-[ja-pos/ADV]() (317; 12% instances), [ja-pos/NOUN]()-[ja-pos/ADV]() (292; 11% instances), [ja-pos/ADV]()-[ja-pos/ADV]() (26; 1% instances), [ja-pos/VERB]()-[ja-pos/NOUN]() (12; 0% instances), [ja-pos/VERB]()-[ja-pos/CONJ]() (11; 0% instances), [ja-pos/ADJ]()-[ja-pos/ADJ]() (10; 0% instances), [ja-pos/NOUN]()-[ja-pos/ADJ]() (4; 0% instances), [ja-pos/PROPN]()-[ja-pos/ADV]() (4; 0% instances), [ja-pos/VERB]()-[ja-pos/PRON]() (4; 0% instances), [ja-pos/ADJ]()-[ja-pos/CONJ]() (3; 0% instances), [ja-pos/ADJ]()-[ja-pos/NOUN]() (3; 0% instances), [ja-pos/CONJ]()-[ja-pos/ADV]() (2; 0% instances), [ja-pos/NOUN]()-[ja-pos/NOUN]() (2; 0% instances), [ja-pos/NUM]()-[ja-pos/ADV]() (2; 0% instances), [ja-pos/ADJ]()-[ja-pos/PRON]() (1; 0% instances), [ja-pos/NOUN]()-[ja-pos/CONJ]() (1; 0% instances), [ja-pos/NOUN]()-[ja-pos/NUM]() (1; 0% instances), [ja-pos/PART]()-[ja-pos/ADV]() (1; 0% instances), [ja-pos/PRON]()-[ja-pos/ADV]() (1; 0% instances), [ja-pos/PRON]()-[ja-pos/CONJ]() (1; 0% instances), [ja-pos/VERB]()-[ja-pos/VERB]() (1; 0% instances).
+The following 19 pairs of parts of speech are connected with `advmod`: [ja-pos/VERB]()-[ja-pos/ADV]() (1130; 61% instances), [ja-pos/VERB]()-[ja-pos/ADJ]() (237; 13% instances), [ja-pos/ADJ]()-[ja-pos/ADV]() (216; 12% instances), [ja-pos/NOUN]()-[ja-pos/ADV]() (215; 12% instances), [ja-pos/ADV]()-[ja-pos/ADV]() (21; 1% instances), [ja-pos/VERB]()-[ja-pos/NOUN]() (9; 0% instances), [ja-pos/ADJ]()-[ja-pos/ADJ]() (7; 0% instances), [ja-pos/VERB]()-[ja-pos/CONJ]() (7; 0% instances), [ja-pos/NOUN]()-[ja-pos/ADJ]() (3; 0% instances), [ja-pos/PROPN]()-[ja-pos/ADV]() (3; 0% instances), [ja-pos/ADJ]()-[ja-pos/CONJ]() (2; 0% instances), [ja-pos/ADJ]()-[ja-pos/NOUN]() (2; 0% instances), [ja-pos/CONJ]()-[ja-pos/ADV]() (1; 0% instances), [ja-pos/NOUN]()-[ja-pos/NOUN]() (1; 0% instances), [ja-pos/NUM]()-[ja-pos/ADV]() (1; 0% instances), [ja-pos/PART]()-[ja-pos/ADV]() (1; 0% instances), [ja-pos/PRON]()-[ja-pos/ADV]() (1; 0% instances), [ja-pos/VERB]()-[ja-pos/PRON]() (1; 0% instances), [ja-pos/VERB]()-[ja-pos/VERB]() (1; 0% instances).
 
 
 ~~~ conllu

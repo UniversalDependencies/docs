@@ -22,7 +22,7 @@ Coordinating conjunctions that consist of parts separated by
 coordinated elements are annotated so that the first part is marked with
 the type [cc:preconj]() and the second part with `cc` in the regular
 fashion. Adjacent parts of acting as a single conjunction are joined
-together with the [mwe]() dependency relation with the initial word
+together with the [fixed]() dependency relation with the initial word
 as the head and others as direct dependents of this word.
 
 <!-- fname:cc2.pdf -->

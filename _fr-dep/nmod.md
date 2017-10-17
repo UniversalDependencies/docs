@@ -2,11 +2,10 @@
 layout: relation
 title: 'nmod'
 shortdef: 'nominal modifier'
+udver: '2'
 ---
 
-The `nmod` relation is used for nominal modifiers of nouns or clausal
-predicates. `nmod` is a noun functioning as a non-core (oblique)
-argument or adjunct. In French, `nmod` is used for prepositional complements as well as for temporal complements not introduced by a preposition.
+The `nmod` relation is used for nominal modifiers of nouns or noun phrases.
 
 ~~~ sdparse
 Le résultat de la course \n The result of the race
@@ -20,19 +19,18 @@ nmod(soin, enfants)
 case(enfants, de)
 ~~~
 
+Here are some examples from FrenchSpoken:
+
 ~~~ sdparse
-Il a grandi en Afrique \n He grew up in Africa
-nmod(grandi, Afrique)
-case(Afrique, en)
+il est à l' opéra de Vienne \n he is at the opera of Vienna
+nmod(opéra,Vienne)
+case(Vienne,de)
 ~~~
 
 ~~~ sdparse
-Il est utilisé pour le service \n It is used for the service
-nmod(utilisé, service)
-case(service, pour)
-~~~
+c'est un virus qui a fait le tour du monde \n it's a virus which went around the world
+nmod(tour,monde)
+case(monde,du)
+~~~ 
 
-~~~ sdparse
-L' an passé, la compagnie a fait pas mal de bénéfices \n Last year, the company made quite a lot of benefit
-nmod(fait, an)
-~~~
+N.B.: Apart from the usual `nmod` relation, FrenchSpoken also uses the [nmod:appos]() relation for nominal modifiers which are not introduced by a preposition.

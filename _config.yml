@@ -10,7 +10,6 @@ permalink:    date
 # safe:         true
 markdown_ext: md
 
-# testing for redirect-from
 baseurl: ""
 
 gems:
@@ -864,6 +863,202 @@ collections:
   sk-overview:
     output: true
 #
+# Marathi
+#
+  mr-pos:
+    output: true
+    permalink: /mr/pos/:path.html
+  mr-feat:
+    output: true
+    permalink: /mr/feat/:path.html
+  mr-dep:
+    output: true
+    permalink: /mr/dep/:path.html
+  mr-overview:
+    output: true
+#
+# Belarusian
+#
+  be-pos:
+    output: true
+    permalink: /be/pos/:path.html
+  be-feat:
+    output: true
+    permalink: /be/feat/:path.html
+  be-dep:
+    output: true
+    permalink: /be/dep/:path.html
+  be-overview:
+    output: true
+#
+# Lithuanian
+#
+  lt-pos:
+    output: true
+    permalink: /lt/pos/:path.html
+  lt-feat:
+    output: true
+    permalink: /lt/feat/:path.html
+  lt-dep:
+    output: true
+    permalink: /lt/dep/:path.html
+  lt-overview:
+    output: true
+#
+# Dargwa
+#
+  dar-pos:
+    output: true
+    permalink: /dar/pos/:path.html
+  dar-feat:
+    output: true
+    permalink: /dar/feat/:path.html
+  dar-dep:
+    output: true
+    permalink: /dar/dep/:path.html
+  dar-overview:
+    output: true
+#
+# North_Sami
+#
+  sme-pos:
+    output: true
+    permalink: /sme/pos/:path.html
+  sme-feat:
+    output: true
+    permalink: /sme/feat/:path.html
+  sme-dep:
+    output: true
+    permalink: /sme/dep/:path.html
+  sme-overview:
+    output: true
+#
+# Upper_Sorbian
+#
+  hsb-pos:
+    output: true
+    permalink: /hsb/pos/:path.html
+  hsb-feat:
+    output: true
+    permalink: /hsb/feat/:path.html
+  hsb-dep:
+    output: true
+    permalink: /hsb/dep/:path.html
+  hsb-overview:
+    output: true
+#
+# Romansh
+#
+  rm-pos:
+    output: true
+    permalink: /rm/pos/:path.html
+  rm-feat:
+    output: true
+    permalink: /rm/feat/:path.html
+  rm-dep:
+    output: true
+    permalink: /rm/dep/:path.html
+  rm-overview:
+    output: true
+#
+# Naija
+#
+  pcm-pos:
+    output: true
+    permalink: /pcm/pos/:path.html
+  pcm-feat:
+    output: true
+    permalink: /pcm/feat/:path.html
+  pcm-dep:
+    output: true
+    permalink: /pcm/dep/:path.html
+  pcm-overview:
+    output: true
+#
+# Old_French
+#
+  fro-pos:
+    output: true
+    permalink: /fro/pos/:path.html
+  fro-feat:
+    output: true
+    permalink: /fro/feat/:path.html
+  fro-dep:
+    output: true
+    permalink: /fro/dep/:path.html
+  fro-overview:
+    output: true
+#
+# Armenian
+#
+  hy-pos:
+    output: true
+    permalink: /hy/pos/:path.html
+  hy-feat:
+    output: true
+    permalink: /hy/feat/:path.html
+  hy-dep:
+    output: true
+    permalink: /hy/dep/:path.html
+  hy-overview:
+    output: true
+#
+# Maltese
+#
+  mt-pos:
+    output: true
+    permalink: /mt/pos/:path.html
+  mt-feat:
+    output: true
+    permalink: /mt/feat/:path.html
+  mt-dep:
+    output: true
+    permalink: /mt/dep/:path.html
+  mt-overview:
+    output: true
+#
+# Afrikaans
+#
+  af-pos:
+    output: true
+    permalink: /af/pos/:path.html
+  af-feat:
+    output: true
+    permalink: /af/feat/:path.html
+  af-dep:
+    output: true
+    permalink: /af/dep/:path.html
+  af-overview:
+    output: true
+#
+# Bangla
+#
+  bn-pos:
+    output: true
+    permalink: /bn/pos/:path.html
+  bn-feat:
+    output: true
+    permalink: /bn/feat/:path.html
+  bn-dep:
+    output: true
+    permalink: /bn/dep/:path.html
+  bn-overview:
+    output: true
+#
+# Telugu
+#
+  te-pos:
+    output: true
+    permalink: /te/pos/:path.html
+  te-feat:
+    output: true
+    permalink: /te/feat/:path.html
+  te-dep:
+    output: true
+    permalink: /te/dep/:path.html
+  te-overview:
+    output: true
+#
 # Template
 #
   template-pos:
@@ -895,12 +1090,16 @@ collections:
   v2:
     output: true
     permalink: /v2/:path.html
+  misc:
+    output: true
+    permalink: /misc/:path.html
+
 
 excerpt_separator: "\n\n"
 
 # URL configuration
 
-home: "http://turkunlp.github.io/docs/"
+home: "http://universaldependencies.org/"
 tracker: "https://github.com/universaldependencies/docs/issues"
-git_raw: "https://raw.githubusercontent.com/turkunlp/docs/pages-source"
-git_edit: "https://github.com/turkunlp/docs/edit/pages-source"
+git_raw: "https://raw.githubusercontent.com/universaldependencies/docs/pages-source"
+git_edit: "https://github.com/universaldependencies/docs/edit/pages-source"

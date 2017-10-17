@@ -4,94 +4,100 @@
 
 ## Treebank Statistics (UD_Irish)
 
-There are 26 `PART` lemmas (1%), 35 `PART` types (1%) and 1534 `PART` tokens (6%).
+There are 23 `PART` lemmas (1%), 27 `PART` types (1%) and 866 `PART` tokens (6%).
 Out of 16 observed tags, the rank of `PART` is: 10 in number of lemmas, 10 in number of types and 6 in number of tokens.
 
-The 10 most frequent `PART` lemmas: <em>a, go, do, ní, nach, gur, is, ó, i, níor</em>
+The 10 most frequent `PART` lemmas: <em>a, go, nach, ní, do, gur, ó, ar, is, i</em>
 
-The 10 most frequent `PART` types:  <em>a, go, ní, d', nach, gur, is, Ó, do, níor</em>
+The 10 most frequent `PART` types:  <em>a, go, nach, ní, d', gur, Ó, ar, is, do</em>
 
-The 10 most frequent ambiguous lemmas: <em>a</em> ([PART]() 864, [DET]() 182, [X]() 4, [ADP]() 1), <em>go</em> ([PART]() 246, [ADP]() 39, [SCONJ]() 15), <em>do</em> ([ADP]() 255, [PART]() 77, [DET]() 19, [X]() 1), <em>ní</em> ([PART]() 62, [NOUN]() 5, [VERB]() 1), <em>nach</em> ([PART]() 58, [X]() 1), <em>is</em> ([VERB]() 379, [PART]() 32), <em>ó</em> ([ADP]() 127, [PART]() 31, [SCONJ]() 2, [INTJ]() 1), <em>i</em> ([ADP]() 731, [PART]() 19), <em>ar</em> ([ADP]() 637, [PART]() 17, [VERB]() 3), <em>ná</em> ([CONJ]() 55, [PART]() 10, [SCONJ]() 8)
+The 10 most frequent ambiguous lemmas: <em>a</em> ([PART]() 485, [DET]() 97, [X]() 2, [NOUN]() 1, [ADP]() 1, [ADV]() 1), <em>go</em> ([PART]() 146, [ADP]() 44, [SCONJ]() 12, [NOUN]() 5, [ADV]() 2, [ADJ]() 1), <em>ní</em> ([PART]() 40, [NOUN]() 4), <em>do</em> ([ADP]() 153, [PART]() 39, [DET]() 5), <em>ó</em> ([ADP]() 83, [PART]() 18, [SCONJ]() 2), <em>ar</em> ([ADP]() 384, [PART]() 11, [ADV]() 7, [AUX]() 1, [VERB]() 1), <em>is</em> ([AUX]() 217, [PART]() 11), <em>i</em> ([ADP]() 440, [PART]() 9), <em>de</em> ([ADP]() 175, [PART]() 6, [SCONJ]() 2), <em>ná</em> ([CCONJ]() 40, [PART]() 6, [SCONJ]() 4)
 
-The 10 most frequent ambiguous types:  <em>a</em> ([PART]() 855, [DET]() 187, [X]() 1, [ADP]() 1), <em>go</em> ([PART]() 240, [ADP]() 37, [SCONJ]() 15), <em>ní</em> ([PART]() 28, [VERB]() 18, [NOUN]() 2), <em>d'</em> ([PART]() 37, [ADP]() 35, [DET]() 1), <em>nach</em> ([PART]() 52, [VERB]() 21), <em>gur</em> ([VERB]() 48, [PART]() 39), <em>is</em> ([VERB]() 69, [CONJ]() 40, [PART]() 30, [SCONJ]() 4), <em>Ó</em> ([PART]() 30, [ADP]() 3, [INTJ]() 1), <em>do</em> ([ADP]() 70, [PART]() 18, [DET]() 17), <em>níor</em> ([PART]() 9, [VERB]() 3)
+The 10 most frequent ambiguous types:  <em>a</em> ([PART]() 482, [DET]() 98, [NOUN]() 1, [X]() 1, [ADP]() 1, [ADV]() 1), <em>go</em> ([PART]() 142, [ADP]() 42, [SCONJ]() 12, [NOUN]() 5, [ADV]() 2, [ADJ]() 1), <em>nach</em> ([PART]() 37, [AUX]() 12), <em>ní</em> ([PART]() 19, [AUX]() 12, [NOUN]() 2), <em>d'</em> ([ADP]() 24, [PART]() 21), <em>gur</em> ([PART]() 22, [AUX]() 21), <em>Ó</em> ([PART]() 17, [ADP]() 1), <em>ar</em> ([ADP]() 305, [PART]() 9, [AUX]() 7, [ADV]() 6, [VERB]() 1), <em>is</em> ([AUX]() 44, [CCONJ]() 26, [PART]() 10, [SCONJ]() 3), <em>do</em> ([ADP]() 43, [PART]() 8, [DET]() 5)
 
 
 * <em>a</em>
-  * [PART]() 855: <em>Seo an fear <b>a</b> chonaic an bhean .</em>
-  * [DET]() 187: <em>Fágann Mícheál na daltaí crom os_cionn <b>a</b> gcuid foghlama .</em>
+  * [PART]() 482: <em>Ansin nach deas mar <b>a</b> bheadh an scéal a'm ?</em>
+  * [DET]() 98: <em>Ansin nuair a shocair an gleo d' éist siad , ach ní chuala siad <b>a</b> dhath .</em>
+  * [NOUN]() 1: <em>Lena linn sin tá líon na ndaoine dífhostaithe ag dul i méid i rith an ama ( cionn is nach bhfuil sé de bhéasa ag daoine <b>a</b> thuilleadh dul ar an imirce mar a rinne a muintir rompu , a shílfeá ó bheith ag éisteacht le daoine áirithe ) .</em>
   * [X]() 1: <em>Sa Deibhí bíonn seacht siolla sa líne freisin , ach bíonn siolla sa bhreis i bhfocal deireanach b ar <b>a</b> , agus in d ar c .</em>
-  * [ADP]() 1: <em>' Anonn leis de chéim mhall go_dtí an bord gur thosaigh <b>a</b> chaint , agus an uile fhocal uaidh ag fuaimniú go glé ar an aer .</em>
+  * [ADP]() 1: <em>' Anonn leis de chéim mhall go dtí an bord gur thosaigh <b>a</b> chaint , agus an uile fhocal uaidh ag fuaimniú go glé ar an aer .</em>
+  * [ADV]() 1: <em>Tá sé ráite ag tráchtairí áirithe , agus go minic acu siúd ar mhian leo caitheamh anuas ar Chonradh na Gaeilge agus díspeagadh a dhéanamh ar ghluaiseacht an náisiúnachais chultúrtha i gcoitinne in Éirinn , gur gluaiseacht neo-thraidisiúnta thar <b>a</b> bheith coimeádach amach is amach a bhí ann .</em>
 * <em>go</em>
-  * [PART]() 240: <em>Níor tháinig sé <b>go</b> fóill .</em>
-  * [ADP]() 37: <em>Bhí sé ina bhall de Mhuintir Shíomóin ó 1976 <b>go</b> 1986 .</em>
-  * [SCONJ]() 15: <em>Ach fós ní mórán dóchais atá ag éinne <b>go</b> n-aimseofar leigheas iomlán ar SEIF riamh .</em>
+  * [PART]() 142: <em>Níor chúis iontais í <b>go</b> hiomlán gur ghlaoigh sé ar Melissa .</em>
+  * [ADP]() 42: <em>Agus as <b>go</b> brách leo .</em>
+  * [SCONJ]() 12: <em>Bhí ráfla ann <b>go</b> mb' fhéidir go dtiocfadh Pat An Cóp Ó Gallchóir ar ais ón Eoraip le polaitíocht na Dála a imirt arís .</em>
+  * [NOUN]() 5: <em>Bhí scaifte maith sa tábhairne seo anois , an ceann amháin i mBaile an Chaolais ach ar ndóigh <b>go</b> leor óstáin .</em>
+  * [ADV]() 2: <em>Tá an éide scoile s' againne maith <b>go</b> leor anseo i Scoil Naomh Pól .</em>
+  * [ADJ]() 1: <em>Ar ndóigh bhí an tír suaite <b>go</b> leor i rith an am seo go léir .</em>
+* <em>nach</em>
+  * [PART]() 37: <em>Dúirt siad <b>nach</b> bhfeiceann siad an cineál seo chomh minic sin .</em>
+  * [AUX]() 12: <em>Ansin <b>nach</b> deas mar a bheadh an scéal a'm ?</em>
 * <em>ní</em>
-  * [PART]() 28: <em>Ní loitfeadh arm agus <b>ní</b> loiscfeadh tine é .</em>
-  * [VERB]() 18: <em>Anois , <b>ní</b> mór dó an t-airgead a fháil ar_ais .</em>
+  * [PART]() 19: <em>Ansin nuair a shocair an gleo d' éist siad , ach <b>ní</b> chuala siad a dhath .</em>
+  * [AUX]() 12: <em>Agus nuair a bhíodh sé ag insint scéil , <b>ní</b> scéal scéil a bhíodh aige .</em>
   * [NOUN]() 2: <em>' Ar thug tú taisléine nó brat áise nó aon <b>ní</b> den tsórt leat , a naofacht ?</em>
 * <em>d'</em>
-  * [PART]() 37: <em>' Tá an méid sin suimiúil a <b>d'</b> inis tú dom , ' a dúirt sé .</em>
-  * [ADP]() 35: <em>Bhí Caitríona sé bliana <b>d'</b> aois .</em>
-  * [DET]() 1: <em>Tháinig mé ort agus drúcht ar <b>d'</b> aghaidh , shín tú do lámha chugam .</em>
-* <em>nach</em>
-  * [PART]() 52: <em>Bheadh deis ag Conradh na Gaeilge <b>nach</b> raibh riamh cheana .</em>
-  * [VERB]() 21: <em>Daoine <b>nach</b> iad .</em>
+  * [ADP]() 24: <em>Bhí Caitríona sé bliana <b>d'</b> aois .</em>
+  * [PART]() 21: <em>Ansin nuair a shocair an gleo <b>d'</b> éist siad , ach ní chuala siad a dhath .</em>
 * <em>gur</em>
-  * [VERB]() 48: <em>Creidtear <b>gur</b> go mailíseach a tosaíodh an tine .</em>
-  * [PART]() 39: <em>Is é mo bhrón is mo chumha <b>gur</b> imigh an uair .</em>
-* <em>is</em>
-  * [VERB]() 69: <em>Cailín <b>is</b> ea í .</em>
-  * [CONJ]() 40: <em>Is é mo bhrón <b>is</b> mo chumha gur imigh an uair .</em>
-  * [PART]() 30: <em>Ar ndóigh , <b>is</b> mó an nádúrthacht a bhaineann le samplaí di ná a chéile .</em>
-  * [SCONJ]() 4: <em>Fad <b>is</b> a bhí an sclábhaíocht idirnáisiúnta ar siúl aige , áfach bhí fadhbanna ag baile - ní gá ach smaoineamh ar an gconspóid reatha faoi Stephen Byers , nó an pharailís sa chóras Sláinte poiblí .</em>
+  * [PART]() 22: <em>Níor chúis iontais í go hiomlán <b>gur</b> ghlaoigh sé ar Melissa .</em>
+  * [AUX]() 21: <em>Fógraíodh <b>gur</b> Cipirigh-Gréigeacha a mharaigh é .</em>
 * <em>Ó</em>
-  * [PART]() 30: <em>Grianghraif le Maidhc <b>Ó</b> Seachnasaí .</em>
-  * [ADP]() 3: <em><b>Ó</b> 1996 , áfach , cuireadh tús le roinnt cúrsaí iarchéime .</em>
-  * [INTJ]() 1: <em>' <b>Ó</b> glacaim pardún agat ' adeir Páraic , Mise agus mo chuid clabaireachta .</em>
+  * [PART]() 17: <em>Le Concubhar <b>Ó</b> Liatháin .</em>
+  * [ADP]() 1: <em><b>Ó</b> 9pm ar aghaidh ar an dá oíche sin , beidh an coiméad le feiceáil go soiléir ar feadh uair an chloig .</em>
+* <em>ar</em>
+  * [ADP]() 305: <em>' Cén diabhal útamála atá <b>ar</b> siúl ansin thíos ?</em>
+  * [PART]() 9: <em>Féadfaidh aon pháirtí <b>ar</b> theip ar a chuid aighneachtaí go hiomlán nó go páirteach a leithéid sin d' achomharc a dhéanamh .</em>
+  * [AUX]() 7: <em>Iarrtar ar an Choimisiún an méid atá bainte amach ag an Ghaeilge a dhaingniú agus go mbeadh an ceart ag daoine <b>ar</b> sheirbhísí poiblí uile trí mheán na Gaeilge .</em>
+  * [ADV]() 6: <em>Bhíodh tithe aitheantais acu ag gabháil ann , ag teacht <b>ar</b> ais agus ag ceann scríbe .</em>
+  * [VERB]() 1: <em>' Maróidh tú uilig mé , ' <b>ar</b> sé .</em>
+* <em>is</em>
+  * [AUX]() 44: <em>Limistéar na Meánmhara <b>is</b> áit dúcháis don Rós Mhuire .</em>
+  * [CCONJ]() 26: <em>' Athraíonn sí a haigne ansin chomh luath <b>is</b> a chastar ar a chéile iad !</em>
+  * [PART]() 10: <em>Bronnfar é ar an Chnuasach Gearrscéalta nó an dráma <b>is</b> fearr .</em>
+  * [SCONJ]() 3: <em>Fad <b>is</b> a bhí an sclábhaíocht idirnáisiúnta ar siúl aige , áfach bhí fadhbanna ag baile - ní gá ach smaoineamh ar an gconspóid reatha faoi Stephen Byers , nó an pharailís sa chóras Sláinte poiblí .</em>
 * <em>do</em>
-  * [ADP]() 70: <em>Cad ina thaobh ná haithneodh , ná fuil sé <b>do</b> mo mhúineadh ?</em>
-  * [PART]() 18: <em>Do bhain seacht croitheadh as láimh na mná fónta agus <b>do</b> phreab ' on teallach agus <b>do</b> chuir chuin gnótha é .</em>
-  * [DET]() 17: <em>Tháinig mé ort agus drúcht ar d' aghaidh , shín tú <b>do</b> lámha chugam .</em>
-* <em>níor</em>
-  * [PART]() 9: <em>Má bhí cúrsaí go dona , <b>níor</b> thug an gasúr óg mórán airde air sin .</em>
-  * [VERB]() 3: <em>Ní raibh aon chóras leasa shóisialta ag na Rómhánaigh , ach <b>níor</b> mhór do na himpirí a dheimhniú go mbeadh dóthain le hithe ag cách .</em>
+  * [ADP]() 43: <em>Is é an leabhar a thug sí <b>do</b> Mháire .</em>
+  * [PART]() 8: <em>Nuacht 4.08 Nuacht a hAon 2.00 Nuair a bheidh an Coiste sin tofa , iad <b>do</b> chroma láithreach ar an Teaghlach Meán-suidhte d' ullamhú chun iostuithe , etc .</em>
+  * [DET]() 5: <em>/ Níl fhios agam c 'n áit a bhfuil <b>do</b> lán / Mur in <b>do</b> lár atá <b>do</b> thóin .</em>
 
 ## Morphology
 
-The form / lemma ratio of `PART` is 1.346154 (the average of all parts of speech is 1.449988).
+The form / lemma ratio of `PART` is 1.173913 (the average of all parts of speech is 1.393750).
 
-The 1st highest number of forms (3) was observed with the lemma “a”: <em>a, a', n-a</em>.
+The 1st highest number of forms (2) was observed with the lemma “a”: <em>a, n-a</em>.
 
-The 2nd highest number of forms (3) was observed with the lemma “is”: <em>ab, ba, is</em>.
+The 2nd highest number of forms (2) was observed with the lemma “do”: <em>d', do</em>.
 
-The 3rd highest number of forms (3) was observed with the lemma “le”: <em>le, lena, lenar</em>.
+The 3rd highest number of forms (2) was observed with the lemma “i”: <em>ina, inar</em>.
 
-`PART` occurs with 7 features: [ga-feat/PartType]() (1473; 96% instances), [ga-feat/PronType]() (611; 40% instances), [ga-feat/Negative]() (143; 9% instances), [ga-feat/Tense]() (81; 5% instances), [ga-feat/Mood]() (17; 1% instances), [ga-feat/Form]() (1; 0% instances), [ga-feat/VerbForm]() (1; 0% instances)
+`PART` occurs with 6 features: [ga-feat/PartType]() (841; 97% instances), [ga-feat/PronType]() (358; 41% instances), [ga-feat/Polarity]() (98; 11% instances), [ga-feat/Tense]() (48; 6% instances), [ga-feat/Mood]() (10; 1% instances), [ga-feat/Form]() (1; 0% instances)
 
-`PART` occurs with 19 feature-value pairs: `Form=Ecl`, `Mood=Imp`, `Mood=Int`, `Mood=Sub`, `Negative=Neg`, `PartType=Ad`, `PartType=Cmpl`, `PartType=Comp`, `PartType=Cop`, `PartType=Deg`, `PartType=Inf`, `PartType=Num`, `PartType=Pat`, `PartType=Vb`, `PartType=Voc`, `PronType=Rel`, `Tense=Past`, `Tense=Pres`, `VerbForm=Cop`
+`PART` occurs with 16 feature-value pairs: `Form=Ecl`, `Mood=Imp`, `Mood=Int`, `PartType=Ad`, `PartType=Cmpl`, `PartType=Comp`, `PartType=Cop`, `PartType=Deg`, `PartType=Inf`, `PartType=Num`, `PartType=Pat`, `PartType=Vb`, `PartType=Voc`, `Polarity=Neg`, `PronType=Rel`, `Tense=Past`
 
-`PART` occurs with 26 feature combinations.
-The most frequent feature combination is `PartType=Vb|PronType=Rel` (543 tokens).
-Examples: <em>a, n-a, ar</em>
+`PART` occurs with 25 feature combinations.
+The most frequent feature combination is `PartType=Vb|PronType=Rel` (312 tokens).
+Examples: <em>a, n-a</em>
 
 
 ## Relations
 
-`PART` nodes are attached to their parents using 15 different relations: [ga-dep/mark:prt]() (674; 44% instances), [ga-dep/mark]() (289; 19% instances), [ga-dep/nsubj]() (192; 13% instances), [ga-dep/dobj]() (111; 7% instances), [ga-dep/neg]() (85; 6% instances), [ga-dep/nmod]() (68; 4% instances), [ga-dep/name]() (64; 4% instances), [ga-dep/case:voc]() (21; 1% instances), [ga-dep/case]() (10; 1% instances), [ga-dep/nmod:tmod]() (9; 1% instances), [ga-dep/nmod:poss]() (4; 0% instances), [ga-dep/cop]() (3; 0% instances), [ga-dep/xcomp:pred]() (2; 0% instances), [ga-dep/advmod]() (1; 0% instances), [ga-dep/root]() (1; 0% instances)
+`PART` nodes are attached to their parents using 16 different relations: [ga-dep/mark:prt]() (365; 42% instances), [ga-dep/mark]() (159; 18% instances), [ga-dep/nsubj]() (114; 13% instances), [ga-dep/obj]() (76; 9% instances), [ga-dep/advmod]() (52; 6% instances), [ga-dep/obl]() (50; 6% instances), [ga-dep/flat:name]() (24; 3% instances), [ga-dep/case:voc]() (10; 1% instances), [ga-dep/case]() (4; 0% instances), [ga-dep/obl:tmod]() (4; 0% instances), [ga-dep/nmod]() (2; 0% instances), [ga-dep/xcomp:pred]() (2; 0% instances), [ga-dep/conj]() (1; 0% instances), [ga-dep/fixed]() (1; 0% instances), [ga-dep/nmod:poss]() (1; 0% instances), [ga-dep/root]() (1; 0% instances)
 
-Parents of `PART` nodes belong to 8 different parts of speech: [VERB]() (986; 64% instances), [NOUN]() (334; 22% instances), [ADJ]() (135; 9% instances), [PROPN]() (63; 4% instances), [NUM]() (9; 1% instances), [X]() (5; 0% instances), [CONJ]() (1; 0% instances), [ROOT]() (1; 0% instances)
+Parents of `PART` nodes belong to 9 different parts of speech: [VERB]() (577; 67% instances), [NOUN]() (180; 21% instances), [ADJ]() (75; 9% instances), [PROPN]() (21; 2% instances), [X]() (5; 1% instances), [NUM]() (4; 0% instances), [PART]() (2; 0% instances), [CCONJ]() (1; 0% instances), [ROOT]() (1; 0% instances)
 
-1510 (98%) `PART` nodes are leaves.
+840 (97%) `PART` nodes are leaves.
 
-21 (1%) `PART` nodes have one child.
+19 (2%) `PART` nodes have one child.
 
-2 (0%) `PART` nodes have two children.
+3 (0%) `PART` nodes have two children.
 
-1 (0%) `PART` nodes have three or more children.
+4 (0%) `PART` nodes have three or more children.
 
-The highest child degree of a `PART` node is 3.
+The highest child degree of a `PART` node is 6.
 
-Children of `PART` nodes are attached using 7 different relations: [ga-dep/punct]() (18; 64% instances), [ga-dep/nmod]() (3; 11% instances), [ga-dep/compound]() (2; 7% instances), [ga-dep/xcomp:pred]() (2; 7% instances), [ga-dep/case]() (1; 4% instances), [ga-dep/dobj]() (1; 4% instances), [ga-dep/nsubj]() (1; 4% instances)
+Children of `PART` nodes are attached using 10 different relations: [ga-dep/punct]() (15; 38% instances), [ga-dep/flat:name]() (9; 23% instances), [ga-dep/conj]() (6; 15% instances), [ga-dep/case]() (3; 8% instances), [ga-dep/nmod]() (2; 5% instances), [ga-dep/cc]() (1; 3% instances), [ga-dep/compound]() (1; 3% instances), [ga-dep/fixed]() (1; 3% instances), [ga-dep/xcomp]() (1; 3% instances), [ga-dep/xcomp:pred]() (1; 3% instances)
 
-Children of `PART` nodes belong to 5 different parts of speech: [PUNCT]() (18; 64% instances), [NOUN]() (7; 25% instances), [ADP]() (1; 4% instances), [ADV]() (1; 4% instances), [VERB]() (1; 4% instances)
+Children of `PART` nodes belong to 8 different parts of speech: [PUNCT]() (15; 38% instances), [PROPN]() (13; 33% instances), [NOUN]() (4; 10% instances), [ADP]() (3; 8% instances), [PART]() (2; 5% instances), [ADV]() (1; 3% instances), [CCONJ]() (1; 3% instances), [VERB]() (1; 3% instances)
 

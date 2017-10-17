@@ -2,6 +2,7 @@
 layout: relation
 title: 'csubjpass'
 shortdef: 'clausal passive subject'
+udver: '2'
 ---
 
 A clausal passive subject is a clausal syntactic subject of a passive
@@ -11,3 +12,5 @@ clause. It is not a very common construction in French. In the example below, _q
 Qu'il avait triché était cru par tout le monde . \n That he cheated was believed by everyone .
 csubjpass(cru, triché)
 ~~~
+
+Currently FrenchSpoken does not use the `csubjpass` relation.

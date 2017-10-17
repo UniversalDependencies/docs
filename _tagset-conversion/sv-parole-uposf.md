@@ -1,6 +1,7 @@
 ---
 layout: base
 title: 'Tagset sv::parole conversion to universal POS tags and features'
+udver: '2'
 ---
 
 <a href="index.html">all tables</a>
@@ -161,8 +162,8 @@ Tagset <tt>sv::parole</tt>, total 156 tags.
   <tr style="background:lightgray"><td>RH0S</td><td>=&gt;</td><td>ADV</td><td>PronType=Int</td><td><em>när, där, hur, som, då</em></td></tr>
   <tr><td>SPC</td><td>=&gt;</td><td>ADP</td><td>AdpType=Prep|Hyph=Yes</td><td><em></em></td></tr>
   <tr style="background:lightgray"><td>SPS</td><td>=&gt;</td><td>ADP</td><td>AdpType=Prep</td><td><em>i, av, på, för, till</em></td></tr>
-  <tr><td>CCA</td><td>=&gt;</td><td>CONJ</td><td>Abbr=Yes</td><td><em></em></td></tr>
-  <tr style="background:lightgray"><td>CCS</td><td>=&gt;</td><td>CONJ</td><td>_</td><td><em>och, eller, som, än, men</em></td></tr>
+  <tr><td>CCA</td><td>=&gt;</td><td>CCONJ</td><td>Abbr=Yes</td><td><em></em></td></tr>
+  <tr style="background:lightgray"><td>CCS</td><td>=&gt;</td><td>CCONJ</td><td>_</td><td><em>och, eller, som, än, men</em></td></tr>
   <tr><td>CIS</td><td>=&gt;</td><td>PART</td><td>VerbForm=Inf</td><td><em>att</em></td></tr>
   <tr style="background:lightgray"><td>CSS</td><td>=&gt;</td><td>SCONJ</td><td>_</td><td><em>att, om, innan, eftersom, medan</em></td></tr>
   <tr><td>QC</td><td>=&gt;</td><td>PART</td><td>Hyph=Yes</td><td><em></em></td></tr>
@@ -171,5 +172,5 @@ Tagset <tt>sv::parole</tt>, total 156 tags.
   <tr style="background:lightgray"><td>FE</td><td>=&gt;</td><td>PUNCT</td><td>PunctType=Peri</td><td><em>., ?, :, !, ...</em></td></tr>
   <tr><td>FI</td><td>=&gt;</td><td>PUNCT</td><td>PunctType=Quot</td><td><em>', ), (</em></td></tr>
   <tr style="background:lightgray"><td>FP</td><td>=&gt;</td><td>PUNCT</td><td>_</td><td><em>,, -, :, *, ;</em></td></tr>
-  <tr><td>XF</td><td>=&gt;</td><td>X</td><td>Foreign=Foreign</td><td><em>companionship, vice, versa, family, capita</em></td></tr>
+  <tr><td>XF</td><td>=&gt;</td><td>X</td><td>Foreign=Yes</td><td><em>companionship, vice, versa, family, capita</em></td></tr>
 </table>

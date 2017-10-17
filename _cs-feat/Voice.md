@@ -2,15 +2,24 @@
 layout: feature
 title: 'Voice'
 shortdef: 'voice'
+udver: '2'
 ---
 
-Voice is a feature of verbs that helps map the traditional syntactic functions,
-such as subject and object, to semantic roles, such as agent and pacient.
+<table class="typeindex" border="1">
+<tr>
+  <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
+  <td><a href="#Act">Act</a></td>
+  <td><a href="#Pass">Pass</a></td>
+</tr>
+</table>
 
-### `Act`: active voice
+Voice is a feature of verbs that helps map the traditional syntactic functions,
+such as subject and object, to semantic roles, such as agent and patient.
+
+### <a name="Act">`Act`</a>: active voice
 
 The subject of the verb is the doer of the action (agent), the object
-is affected by the action (pacient).
+is affected by the action (patient).
 
 All finite verb forms and the active/past participles are tagged `Voice=Act`.
 
@@ -20,7 +29,7 @@ All finite verb forms and the active/past participles are tagged `Voice=Act`.
   (the active participle _napadli&nbsp;_ can be used to form either past
   tense or conditional mood; here it forms the past tense.)
 
-### `Pass`: passive voice
+### <a name="Pass">`Pass`</a>: passive voice
 
 The subject of the verb is affected by the action (patient). The doer
 (agent) is either unexpressed or it appears as an object of the verb.

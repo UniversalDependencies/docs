@@ -52,7 +52,7 @@ The most frequent other feature values with which `PRON` and `Person` co-occurre
 
 4 [sa-pos/X]() tokens (20% of all `X` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `X` and `Person` co-occurred: <tt><a href="Number.html">Number</a>=Sing</tt> (4; 100%), <tt><a href="VerbForm.html">VerbForm</a>=EMPTY</tt> (4; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (4; 100%), <tt><a href="Voice.html">Voice</a>=Act</tt> (4; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (4; 100%).
+The most frequent other feature values with which `X` and `Person` co-occurred: <tt><a href="Number.html">Number</a>=Sing</tt> (4; 100%), <tt><a href="Voice.html">Voice</a>=Act</tt> (4; 100%), <tt><a href="VerbForm.html">VerbForm</a>=EMPTY</tt> (4; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (4; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (4; 100%).
 
 `X` tokens may have the following values of `Person`:
 
@@ -72,6 +72,16 @@ The most frequent other feature values with which `DET` and `Person` co-occurred
 * `3` (2; 67% of non-empty `Person`): एनम्
 * `EMPTY` (55): तत्, तया, तस्य, तेन, स, अयम्, इदम्, तम्, ते, असौ
 
+### `AUX`
+
+1 [sa-pos/AUX]() tokens (100% of all `AUX` tokens) have a non-empty value of `Person`.
+
+The most frequent other feature values with which `AUX` and `Person` co-occurred: <tt><a href="Voice.html">Voice</a>=Act</tt> (1; 100%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (1; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (1; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (1; 100%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (1; 100%).
+
+`AUX` tokens may have the following values of `Person`:
+
+* `3` (1; 100% of non-empty `Person`): अस्ति
+
 ### `NOUN`
 
 1 [sa-pos/NOUN]() tokens (0% of all `NOUN` tokens) have a non-empty value of `Person`.
@@ -82,16 +92,6 @@ The most frequent other feature values with which `NOUN` and `Person` co-occurre
 
 * `1` (1; 100% of non-empty `Person`): उवाच
 * `EMPTY` (449): नाम, अर्थम्, देव, अर्थः, राजा, कौलिकः, उपायम्, किम्, भद्र, अध्वानम्
-
-### `AUX`
-
-1 [sa-pos/AUX]() tokens (100% of all `AUX` tokens) have a non-empty value of `Person`.
-
-The most frequent other feature values with which `AUX` and `Person` co-occurred: <tt><a href="Number.html">Number</a>=Sing</tt> (1; 100%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (1; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (1; 100%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (1; 100%), <tt><a href="Voice.html">Voice</a>=Act</tt> (1; 100%).
-
-`AUX` tokens may have the following values of `Person`:
-
-* `3` (1; 100% of non-empty `Person`): अस्ति
 
 ## Relations with Agreement in `Person`
 

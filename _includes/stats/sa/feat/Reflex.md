@@ -16,7 +16,7 @@ The feature is used with 1 part-of-speech tags: [sa-pos/PRON]() (2; 0% instances
 
 2 [sa-pos/PRON]() tokens (1% of all `PRON` tokens) have a non-empty value of `Reflex`.
 
-The most frequent other feature values with which `PRON` and `Reflex` co-occurred: <tt><a href="PronType.html">PronType</a>=Prs</tt> (2; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (2; 100%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (2; 100%), <tt><a href="Case.html">Case</a>=Nom</tt> (2; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (2; 100%).
+The most frequent other feature values with which `PRON` and `Reflex` co-occurred: <tt><a href="Number.html">Number</a>=Sing</tt> (2; 100%), <tt><a href="PronType.html">PronType</a>=Prs</tt> (2; 100%), <tt><a href="Case.html">Case</a>=Nom</tt> (2; 100%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (2; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (2; 100%).
 
 `PRON` tokens may have the following values of `Reflex`:
 

@@ -11,9 +11,9 @@ The 10 most frequent `NOUN` lemmas: अर्थ, देव, राजन्, �
 
 The 10 most frequent `NOUN` types:  नाम, अर्थम्, देव, अर्थः, राजा, कौलिकः, उपायम्, किम्, भद्र, अध्वानम्
 
-The 10 most frequent ambiguous lemmas: अर्थ ([NOUN]() 16, [ADV]() 1), राजन् ([NOUN]() 11, [X]() 1), सिंह ([NOUN]() 3, [X]() 1), जिव् ([NOUN]() 2, [VERB]() 1), महत् ([ADJ]() 4, [NOUN]() 2), अभिहित ([VERB]() 1, [NOUN]() 1), आत्मन् ([NOUN]() 1, [PRON]() 1), उक्त ([VERB]() 2, [NOUN]() 1), करटक ([PROPN]() 3, [NOUN]() 1), कर्तव्य ([VERB]() 1, [NOUN]() 1)
+The 10 most frequent ambiguous lemmas: अर्थ ([NOUN]() 16, [ADV]() 1), राजन् ([NOUN]() 11, [X]() 1), सिंह ([NOUN]() 3, [X]() 1), जिव् ([NOUN]() 2, [VERB]() 1), महत् ([ADJ]() 4, [NOUN]() 2), अभिहित ([NOUN]() 1, [VERB]() 1), आत्मन् ([PRON]() 1, [NOUN]() 1), उक्त ([VERB]() 2, [NOUN]() 1), करटक ([PROPN]() 3, [NOUN]() 1), कर्तव्य ([NOUN]() 1, [VERB]() 1)
 
-The 10 most frequent ambiguous types:  अर्थम् ([NOUN]() 8, [ADV]() 1), किम् ([PRON]() 7, [NOUN]() 3, [DET]() 1), इदम् ([PRON]() 3, [DET]() 2, [NOUN]() 1), उवाच ([NOUN]() 1, [VERB]() 1), करटकः ([PROPN]() 2, [NOUN]() 1), मास ([NOUN]() 1, [NUM]() 1), रथकारः ([NOUN]() 1, [PROPN]() 1), राजानम् ([X]() 1, [NOUN]() 1), स ([PRON]() 5, [DET]() 3, [NOUN]() 1)
+The 10 most frequent ambiguous types:  अर्थम् ([NOUN]() 8, [ADV]() 1), किम् ([PRON]() 7, [NOUN]() 3, [DET]() 1), इदम् ([PRON]() 3, [DET]() 2, [NOUN]() 1), उवाच ([NOUN]() 1, [VERB]() 1), करटकः ([PROPN]() 2, [NOUN]() 1), मास ([NOUN]() 1, [NUM]() 1), रथकारः ([PROPN]() 1, [NOUN]() 1), राजानम् ([NOUN]() 1, [X]() 1), स ([PRON]() 5, [DET]() 3, [NOUN]() 1)
 
 
 * अर्थम्
@@ -37,11 +37,11 @@ The 10 most frequent ambiguous types:  अर्थम् ([NOUN]() 8, [ADV]() 1
   * [NOUN]() 1: अहम् तव पुत्रान् <b>मास</b> षट्केन यदि नीतिशास्त्र ज्ञानम् न करोमि ततḥ अहम् स्व नाम त्यागम् करोमि
   * [NUM]() 1: ते अपि तानि अधीत्य <b>मास</b> षट्केन यथा उक्तह् संवृत्ताḥ
 * रथकारः
-  * [NOUN]() 1: ततः <b>रथकारः</b> तस्य निश्चयम् विज्ञायावदत्
   * [PROPN]() 1: ततः <b>रथकारः</b> तम् आह
+  * [NOUN]() 1: ततः <b>रथकारः</b> तस्य निश्चयम् विज्ञायावदत्
 * राजानम्
-  * [X]() 1: अथ विष्णुशर्म तम् <b>राजानम्</b> उच्यते
   * [NOUN]() 1: तत् श्रुत्वा सा पुलकितसर्वाङ्गी सत्वरम् गत्वा <b>राजानम्</b> ऊचे
+  * [X]() 1: अथ विष्णुशर्म तम् <b>राजानम्</b> उच्यते
 * स
   * [PRON]() 5: देवि विज्ञायतां सम्यक् <b>स</b> एते कञ्चुकिनः वदन्ति
   * [DET]() 3: अथ तान् शास्त्रविमुखान् समालोक्य <b>स</b> राजा सचिवान् आहूय प्रोवाच
@@ -68,21 +68,21 @@ Examples: राजा, कौलिकः, अप्रधानः, अर्�
 
 ## Relations
 
-`NOUN` nodes are attached to their parents using 13 different relations: [sa-dep/nmod]() (168; 37% instances), [sa-dep/nsubj]() (94; 21% instances), [sa-dep/dobj]() (81; 18% instances), [sa-dep/compound]() (50; 11% instances), [sa-dep/conj]() (21; 5% instances), [sa-dep/root]() (18; 4% instances), [sa-dep/vocative]() (8; 2% instances), [sa-dep/acl]() (4; 1% instances), [sa-dep/amod]() (2; 0% instances), [sa-dep/advcl]() (1; 0% instances), [sa-dep/nsubjpass]() (1; 0% instances), [sa-dep/nummod]() (1; 0% instances), [sa-dep/xcomp]() (1; 0% instances)
+`NOUN` nodes are attached to their parents using 14 different relations: [sa-dep/obl]() (96; 21% instances), [sa-dep/nsubj]() (94; 21% instances), [sa-dep/obj]() (81; 18% instances), [sa-dep/nmod]() (72; 16% instances), [sa-dep/compound]() (50; 11% instances), [sa-dep/conj]() (21; 5% instances), [sa-dep/root]() (18; 4% instances), [sa-dep/vocative]() (8; 2% instances), [sa-dep/acl]() (4; 1% instances), [sa-dep/amod]() (2; 0% instances), [sa-dep/advcl]() (1; 0% instances), [sa-dep/nsubj:pass]() (1; 0% instances), [sa-dep/nummod]() (1; 0% instances), [sa-dep/xcomp]() (1; 0% instances)
 
 Parents of `NOUN` nodes belong to 10 different parts of speech: [VERB]() (267; 59% instances), [NOUN]() (133; 30% instances), [ROOT]() (18; 4% instances), [X]() (17; 4% instances), [PRON]() (6; 1% instances), [ADJ]() (3; 1% instances), [PROPN]() (3; 1% instances), [ADV]() (1; 0% instances), [DET]() (1; 0% instances), [NUM]() (1; 0% instances)
 
-216 (48%) `NOUN` nodes are leaves.
+212 (47%) `NOUN` nodes are leaves.
 
-157 (35%) `NOUN` nodes have one child.
+158 (35%) `NOUN` nodes have one child.
 
-47 (10%) `NOUN` nodes have two children.
+52 (12%) `NOUN` nodes have two children.
 
-30 (7%) `NOUN` nodes have three or more children.
+28 (6%) `NOUN` nodes have three or more children.
 
-The highest child degree of a `NOUN` node is 8.
+The highest child degree of a `NOUN` node is 5.
 
-Children of `NOUN` nodes are attached using 14 different relations: [sa-dep/nmod]() (114; 32% instances), [sa-dep/det]() (48; 13% instances), [sa-dep/amod]() (46; 13% instances), [sa-dep/compound]() (44; 12% instances), [sa-dep/advmod]() (34; 9% instances), [sa-dep/conj]() (21; 6% instances), [sa-dep/nsubj]() (15; 4% instances), [sa-dep/nummod]() (13; 4% instances), [sa-dep/cc]() (9; 3% instances), [sa-dep/neg]() (6; 2% instances), [sa-dep/advcl]() (4; 1% instances), [sa-dep/cop]() (3; 1% instances), [sa-dep/dobj]() (1; 0% instances), [sa-dep/vocative]() (1; 0% instances)
+Children of `NOUN` nodes are attached using 13 different relations: [sa-dep/nmod]() (114; 32% instances), [sa-dep/det]() (48; 13% instances), [sa-dep/amod]() (46; 13% instances), [sa-dep/compound]() (44; 12% instances), [sa-dep/advmod]() (40; 11% instances), [sa-dep/conj]() (21; 6% instances), [sa-dep/nsubj]() (15; 4% instances), [sa-dep/nummod]() (13; 4% instances), [sa-dep/cc]() (9; 3% instances), [sa-dep/advcl]() (4; 1% instances), [sa-dep/cop]() (3; 1% instances), [sa-dep/obj]() (1; 0% instances), [sa-dep/vocative]() (1; 0% instances)
 
-Children of `NOUN` nodes belong to 12 different parts of speech: [NOUN]() (133; 37% instances), [PRON]() (56; 16% instances), [ADJ]() (46; 13% instances), [DET]() (41; 11% instances), [ADV]() (33; 9% instances), [PROPN]() (13; 4% instances), [NUM]() (12; 3% instances), [CONJ]() (10; 3% instances), [PART]() (6; 2% instances), [VERB]() (6; 2% instances), [X]() (2; 1% instances), [AUX]() (1; 0% instances)
+Children of `NOUN` nodes belong to 12 different parts of speech: [NOUN]() (133; 37% instances), [PRON]() (56; 16% instances), [ADJ]() (46; 13% instances), [DET]() (41; 11% instances), [ADV]() (33; 9% instances), [PROPN]() (13; 4% instances), [NUM]() (12; 3% instances), [CCONJ]() (10; 3% instances), [PART]() (6; 2% instances), [VERB]() (6; 2% instances), [X]() (2; 1% instances), [AUX]() (1; 0% instances)
 

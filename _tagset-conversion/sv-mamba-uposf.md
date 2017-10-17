@@ -1,6 +1,7 @@
 ---
 layout: base
 title: 'Tagset sv::mamba conversion to universal POS tags and features'
+udver: '2'
 ---
 
 <a href="index.html">all tables</a>
@@ -16,14 +17,14 @@ The table requires manual postprocessing in order to provide accurate and comple
 Tagset <tt>sv::mamba</tt>, total 48 tags.
 
 <table>
-  <tr style="background:lightgray"><td>++</td><td>=&gt;</td><td>CONJ</td><td>_</td><td><em>och, eller, men, utan, samt</em></td></tr>
+  <tr style="background:lightgray"><td>++</td><td>=&gt;</td><td>CCONJ</td><td>_</td><td><em>och, eller, men, utan, samt</em></td></tr>
   <tr><td>AB</td><td>=&gt;</td><td>ADV</td><td>_</td><td><em>inte, så, också, i, där</em></td></tr>
   <tr style="background:lightgray"><td>AJ</td><td>=&gt;</td><td>ADJ</td><td>_</td><td><em>stor, olika, större, stora, nya</em></td></tr>
   <tr><td>AN</td><td>=&gt;</td><td>NOUN</td><td>_</td><td><em>möjlighet, trygghet, möjligheter, frihet, svårigheter</em></td></tr>
   <tr style="background:lightgray"><td>AV</td><td>=&gt;</td><td>VERB</td><td>_</td><td><em>är, vara, var, varit, vore</em></td></tr>
   <tr><td>BV</td><td>=&gt;</td><td>VERB</td><td>_</td><td><em>blir, bli, blivit, blev, bör</em></td></tr>
   <tr style="background:lightgray"><td>EH</td><td>=&gt;</td><td>INTJ</td><td>_</td><td><em></em></td></tr>
-  <tr><td>EN</td><td>=&gt;</td><td>NUM</td><td>Definite=Ind|PronType=Art</td><td><em>en, ett, 1, för, de</em></td></tr>
+  <tr><td>EN</td><td>=&gt;</td><td>DET</td><td>Definite=Ind|PronType=Art</td><td><em>en, ett, 1, för, de</em></td></tr>
   <tr style="background:lightgray"><td>FV</td><td>=&gt;</td><td>VERB</td><td>_</td><td><em>får, få, fått, fick, finns</em></td></tr>
   <tr><td>GV</td><td>=&gt;</td><td>VERB</td><td>_</td><td><em>göra, gör, gjort, gjorde, görs</em></td></tr>
   <tr style="background:lightgray"><td>HV</td><td>=&gt;</td><td>VERB</td><td>_</td><td><em>har, ha, hade, haft, hava</em></td></tr>
@@ -32,7 +33,7 @@ Tagset <tt>sv::mamba</tt>, total 48 tags.
   <tr><td>ID</td><td>=&gt;</td><td>X</td><td>Hyph=Yes</td><td><em>att, och, av, ex., för</em></td></tr>
   <tr style="background:lightgray"><td>IG</td><td>=&gt;</td><td>PUNCT</td><td>_</td><td><em>..., /, =, ...., 1</em></td></tr>
   <tr><td>IK</td><td>=&gt;</td><td>PUNCT</td><td>PunctType=Comm</td><td><em>,, ., och, ', ;</em></td></tr>
-  <tr style="background:lightgray"><td>IM</td><td>=&gt;</td><td>CONJ</td><td>VerbForm=Inf</td><td><em>att, atl, 1100, at, u///uatt</em></td></tr>
+  <tr style="background:lightgray"><td>IM</td><td>=&gt;</td><td>CCONJ</td><td>VerbForm=Inf</td><td><em>att, atl, 1100, at, u///uatt</em></td></tr>
   <tr><td>IP</td><td>=&gt;</td><td>PUNCT</td><td>PunctType=Peri</td><td><em>., ?, och, för, utgångspunkt</em></td></tr>
   <tr style="background:lightgray"><td>IQ</td><td>=&gt;</td><td>PUNCT</td><td>PunctType=Colo</td><td><em>:, ;, !</em></td></tr>
   <tr><td>IR</td><td>=&gt;</td><td>PUNCT</td><td>PunctType=Brck</td><td><em>), (, -, (r</em></td></tr>
@@ -40,7 +41,7 @@ Tagset <tt>sv::mamba</tt>, total 48 tags.
   <tr><td>IT</td><td>=&gt;</td><td>PUNCT</td><td>PunctType=Dash</td><td><em>-, ---</em></td></tr>
   <tr style="background:lightgray"><td>IU</td><td>=&gt;</td><td>PUNCT</td><td>PunctType=Excl</td><td><em>!, ;, .</em></td></tr>
   <tr><td>KV</td><td>=&gt;</td><td>VERB</td><td>_</td><td><em>kommer, kommit, kom, komma, komer</em></td></tr>
-  <tr style="background:lightgray"><td>MN</td><td>=&gt;</td><td>CONJ</td><td>_</td><td><em>Nära, vara, Lilla, Statistisk, Dagens</em></td></tr>
+  <tr style="background:lightgray"><td>MN</td><td>=&gt;</td><td>CCONJ</td><td>_</td><td><em>Nära, vara, Lilla, Statistisk, Dagens</em></td></tr>
   <tr><td>MV</td><td>=&gt;</td><td>VERB</td><td>_</td><td><em>måste, måsk</em></td></tr>
   <tr style="background:lightgray"><td>NJ</td><td>=&gt;</td><td>INTJ</td><td>_</td><td><em></em></td></tr>
   <tr><td>NN</td><td>=&gt;</td><td>NOUN</td><td>_</td><td><em>äktenskapet, barn, äktenskap, familjen, människor</em></td></tr>

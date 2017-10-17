@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<svg width="256" height="256" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <metadata id="metadata7">image/svg+xml</metadata>
+
+ <g>
+  <title>Layer 1</title>
+  <path id="path3768" d="m247.867661,128.793259c0,66.471405 -53.793823,120.357132 -120.151894,120.357132c-66.358067,0 -120.151897,-53.885727 -120.151897,-120.357132c0,-66.471409 53.79383,-120.357129 120.151897,-120.357129c66.35807,0 120.151894,53.885732 120.151894,120.357129z" stroke-miterlimit="4" stroke-linecap="round" stroke-width="14.11481" stroke="#000000" fill="#ffffff"/>
+  <text xml:space="preserve" x="54.46213" y="666.34081" id="text3675" transform="matrix(0.643719, 0, 0, 0.992228, 3.86229, -532.658)" font-family="Arial" fill="#000000" font-weight="normal" font-style="normal" font-size="95.69243px">
+   <tspan id="tspan3677" x="58.9591" y="670" font-family="Arial Black" font-weight="bold" font-style="normal">LGPL</tspan>
+   <tspan id="tspan3677" x="135" y="755" font-family="Arial Black" font-weight="bold" font-style="normal">LR</tspan>
+  </text>
+ </g>
+</svg>

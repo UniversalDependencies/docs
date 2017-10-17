@@ -5,61 +5,78 @@
 ## Treebank Statistics (UD_Ukrainian)
 
 This relation is universal.
+There are 1 language-specific subtypes of `csubj`: [csubj:pass]().
 
-10 nodes (1%) are attached to their parents as `csubj`.
+3 nodes (0%) are attached to their parents as `csubj`.
 
-9 instances of `csubj` (90%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.
+2 instances of `csubj` (67%) are left-to-right (parent precedes child).
+Average distance between parent and child is 5.33333333333333.
 
-The following 3 pairs of parts of speech are connected with `csubj`: [uk-pos/ADV]()-[uk-pos/VERB]() (5; 50% instances), [uk-pos/ADJ]()-[uk-pos/VERB]() (4; 40% instances), [uk-pos/VERB]()-[uk-pos/VERB]() (1; 10% instances).
+The following 3 pairs of parts of speech are connected with `csubj`: [uk-pos/ADV]()-[uk-pos/VERB]() (1; 33% instances), [uk-pos/VERB]()-[uk-pos/ADV]() (1; 33% instances), [uk-pos/VERB]()-[uk-pos/VERB]() (1; 33% instances).
 
 
 ~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
-# visual-style 1 2 csubj	color:blue
-1	Важко	важко	ADV	adv:compb	Degree=Pos	0	root	_	_
-2	примусити	примусити	VERB	verb:perf:inf	Aspect=Perf|VerbForm=Inf	1	csubj	_	_
-3	її	вона	PRON	noun:f:v_zna:&pron:pers:3	Case=Acc|Gender=Fem|Person=3|PronType=Prs	2	dobj	_	_
-4	зізнатися	зізнатися	VERB	verb:rev:perf:inf	Aspect=Perf|VerbForm=Inf	2	xcomp	_	SpaceAfter=No
-5	.	.	PUNCT	punct	_	1	punct	_	_
+# visual-style 1 8 csubj	color:blue
+1	Виявилося	виявитися	VERB	Vmeis-sn	Aspect=Perf|Gender=Neut|Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
+2	,	,	PUNCT	U	_	8	punct	_	_
+3	що	що	SCONJ	Css	_	8	mark	_	_
+4	попити	попити	VERB	Vmen	Aspect=Perf|VerbForm=Inf	8	csubj	_	_
+5	спокійно	спокійно	ADV	Rp	Degree=Pos	4	advmod	_	_
+6	тут	тут	ADV	Pd------r	PronType=Dem	4	advmod	_	_
+7	дуже	дуже	ADV	Rp	Degree=Pos	8	advmod	_	_
+8	важко	важко	ADV	Rp	Degree=Pos	1	csubj	_	SpaceAfter=No
+9	.	.	PUNCT	U	_	1	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 1 csubj	color:blue
-1	Розмовляти	розмовляти	VERB	verb:imperf:inf	Aspect=Imp|VerbForm=Inf	5	csubj	_	_
-2	з	з	ADP	prep:rv_oru	Case=Ins	3	case	_	_
-3	незнайомими	незнайомий	ADJ	adj:p:v_oru	Case=Ins|Number=Plur	1	nmod	_	_
-4	є	бути	VERB	verb:imperf:pres:s:3	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
-5	ризикованим	ризикований	ADJ	adj:n:v_oru:compb:&adjp:imperf:pasv	Aspect=Imp|Case=Ins|Degree=Pos|Gender=Neut|VerbForm=Part|Voice=Pass	0	root	_	SpaceAfter=No
-6	.	.	PUNCT	punct	_	5	punct	_	_
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 8 csubj	color:blue
+1	Не	не	PART	Q	Polarity=Neg	2	advmod	_	_
+2	можна	можна	ADV	R	_	3	advmod	_	_
+3	сказати	сказати	VERB	Vmen	Aspect=Perf|VerbForm=Inf	0	root	_	SpaceAfter=No
+4	,	,	PUNCT	U	_	8	punct	_	_
+5	що	що	SCONJ	Css	_	8	mark	_	_
+6	в	в	ADP	Spsg	Case=Gen	7	case	_	_
+7	нас	ми	PRON	Pp-1-ypgn	Animacy=Anim|Case=Gen|Number=Plur|Person=1|PronType=Prs	8	obl	_	_
+8	бракує	бракувати	VERB	Vmpip3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	csubj	_	_
+9	книжок	книжка	NOUN	Ncfpgn	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	8	obl	_	_
+10	про	про	ADP	Spsa	Case=Acc	11	case	_	_
+11	людей	людина	NOUN	Nc-pay	Animacy=Anim|Case=Acc|Number=Plur	9	nmod	_	SpaceAfter=No
+12	,	,	PUNCT	U	_	14	punct	_	_
+13	які	який	DET	Pr----pna	Case=Nom|Number=Plur|PronType=Rel	14	nsubj	_	_
+14	пройшли	пройти	VERB	Vmeis-p	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin	11	acl	_	_
+15	всі	весь	DET	Pg---npaa	Animacy=Inan|Case=Acc|Number=Plur|PronType=Tot	16	det	_	_
+16	кола	коло	NOUN	Ncnpan	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	14	obj	_	_
+17	пекла	пекло	NOUN	Ncnsgn	Animacy=Inan|Case=Gen|Gender=Neut	16	nmod	_	SpaceAfter=No
+18	.	.	PUNCT	U	_	3	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 7 csubj	color:blue
-1	Оскарженого	оскаржений	ADJ	adj:m:v_dav:&adjp:perf:pasv	Aspect=Perf|Case=Dat|Gender=Masc|VerbForm=Part|Voice=Pass	2	dobj	_	_
-2	гнітило	гнітити	VERB	verb:perf:past:n	Aspect=Perf|Gender=Neut|Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
-3	,	,	PUNCT	punct	_	2	punct	_	_
-4	що	що	SCONJ	conj:subord	_	7	mark	_	_
-5	він	він	PRON	noun:m:v_naz:&pron:pers:3	Case=Nom|Gender=Masc|Person=3|PronType=Prs	7	nsubj	_	_
-6	не	не	PART	part	_	7	neg	_	_
-7	має	мати	VERB	verb:imperf:pres:s:3	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	csubj	_	_
-8	алібі	алібі	NOUN	noun:inanim:n:v_rod:nv	Animacy=Inan|Case=Gen|Gender=Neut	7	dobj	_	SpaceAfter=No
-9	.	.	PUNCT	punct	_	2	punct	_	_
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 8 4 csubj	color:blue
+1	Виявилося	виявитися	VERB	Vmeis-sn	Aspect=Perf|Gender=Neut|Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
+2	,	,	PUNCT	U	_	8	punct	_	_
+3	що	що	SCONJ	Css	_	8	mark	_	_
+4	попити	попити	VERB	Vmen	Aspect=Perf|VerbForm=Inf	8	csubj	_	_
+5	спокійно	спокійно	ADV	Rp	Degree=Pos	4	advmod	_	_
+6	тут	тут	ADV	Pd------r	PronType=Dem	4	advmod	_	_
+7	дуже	дуже	ADV	Rp	Degree=Pos	8	advmod	_	_
+8	важко	важко	ADV	Rp	Degree=Pos	1	csubj	_	SpaceAfter=No
+9	.	.	PUNCT	U	_	1	punct	_	_
 
 ~~~
 

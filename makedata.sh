@@ -8,11 +8,9 @@ POS_DATA_FILE="$DATA_DIRECTORY/postags.yaml"
 FEATURE_DATA_FILE="$DATA_DIRECTORY/features.yaml"
 RELATION_DATA_FILE="$DATA_DIRECTORY/relations.yaml"
 
-# clear data dir, if any
-if [ -e $DATA_DIRECTORY ]; then
-    rm -rf $DATA_DIRECTORY
-fi
-mkdir $DATA_DIRECTORY
+# remove the old data files, if any
+rm -f $POS_DATA_FILE $FEATURE_DATA_FILE $RELATION_DATA_FILE
+mkdir -p $DATA_DIRECTORY
 
 for s in "pos" "feat" "dep"; do
     collections=`ls -d _*-$s | egrep -v '^_(template|ext)-(pos|feat|dep)$' | perl -pe 's/^_//' | tr '\n' ' '`
@@ -24,7 +22,7 @@ for s in "pos" "feat" "dep"; do
     echo "dir  '$DIRECTORIES'"
 
     # unique entry (document) names from per-collection directories
-    entries=$(find $DIRECTORIES -name '*.md' -printf '%f\n' | 
+    entries=$(find $DIRECTORIES -name '*.md' -printf '%f\n' |
 	perl -pe 's/\.md$//' | sort | uniq)
 
     if [ "$s" = "pos" ]; then
@@ -39,7 +37,7 @@ for s in "pos" "feat" "dep"; do
     fi
 
     # generate YAML with relations and collections
-    for r in $entries; do 
+    for r in $entries; do
 	# special case for labels that are not allowed as filenames (see
 	# https://github.com/UniversalDependencies/docs/issues/20)
 	e=`echo "$r" | perl -pe 's/^_//; s/_$//'`

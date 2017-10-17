@@ -7,21 +7,21 @@
 This feature is language-specific.
 It occurs with 2 different values: `Strong`, `Weak`.
 
-5008 tokens (9%) have a non-empty value of `Strength`.
-2289 types (26%) occur at least once with a non-empty value of `Strength`.
-1013 lemmas (30%) occur at least once with a non-empty value of `Strength`.
-The feature is used with 2 part-of-speech tags: [got-pos/VERB]() (2674; 5% instances), [got-pos/ADJ]() (2334; 4% instances).
+4020 tokens (9%) have a non-empty value of `Strength`.
+1996 types (26%) occur at least once with a non-empty value of `Strength`.
+908 lemmas (29%) occur at least once with a non-empty value of `Strength`.
+The feature is used with 2 part-of-speech tags: [got-pos/VERB]() (2092; 5% instances), [got-pos/ADJ]() (1928; 4% instances).
 
 ### `VERB`
 
-2674 [got-pos/VERB]() tokens (21% of all `VERB` tokens) have a non-empty value of `Strength`.
+2092 [got-pos/VERB]() tokens (20% of all `VERB` tokens) have a non-empty value of `Strength`.
 
-The most frequent other feature values with which `VERB` and `Strength` co-occurred: <tt><a href="Person.html">Person</a>=EMPTY</tt> (2674; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (2674; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (2674; 100%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (2105; 79%), <tt><a href="Case.html">Case</a>=Nom</tt> (2024; 76%), <tt><a href="Voice.html">Voice</a>=Act</tt> (1952; 73%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (1950; 73%), <tt><a href="Number.html">Number</a>=Sing</tt> (1654; 62%).
+The most frequent other feature values with which `VERB` and `Strength` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (2092; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (2092; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (2092; 100%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (1625; 78%), <tt><a href="Case.html">Case</a>=Nom</tt> (1561; 75%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (1499; 72%), <tt><a href="Voice.html">Voice</a>=Act</tt> (1499; 72%), <tt><a href="Number.html">Number</a>=Sing</tt> (1265; 60%).
 
 `VERB` tokens may have the following values of `Strength`:
 
-* `Strong` (1387; 52% of non-empty `Strength`): <em>qiþands, andhafjands, gameliþ, gasaiƕands, qimands, wisands, habands, gahausjands, skuld, usstandands</em>
-* `Weak` (1287; 48% of non-empty `Strength`): <em>qiþandans, habandans, wisandans, gasaiƕandans, gahausjandans, gaggandans, hausjandans, usgaggandans, witandans, gamelido</em>
+* `Strong` (1065; 51% of non-empty `Strength`): <em>qiþands, andhafjands, qimands, gameliþ, gasaiƕands, gahausjands, habands, wisands, skuld, usstandands</em>
+* `Weak` (1027; 49% of non-empty `Strength`): <em>qiþandans, habandans, wisandans, gasaiƕandans, gahausjandans, hausjandans, witandans, gaggandans, galaubjandam, qiþandei</em>
 
 <table>
   <tr><th>Paradigm <i>wisan#1</i></th><th><tt>Strong</tt></th><th><tt>Weak</tt></th></tr>
@@ -45,14 +45,14 @@ The most frequent other feature values with which `VERB` and `Strength` co-occur
 
 ### `ADJ`
 
-2334 [got-pos/ADJ]() tokens (71% of all `ADJ` tokens) have a non-empty value of `Strength`.
+1928 [got-pos/ADJ]() tokens (48% of all `ADJ` tokens) have a non-empty value of `Strength`.
 
-The most frequent other feature values with which `ADJ` and `Strength` co-occurred: <tt><a href="Degree.html">Degree</a>=Pos</tt> (2105; 90%), <tt><a href="Number.html">Number</a>=Sing</tt> (1430; 61%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (1326; 57%).
+The most frequent other feature values with which `ADJ` and `Strength` co-occurred: <tt><a href="Person.html">Person</a>=EMPTY</tt> (1928; 100%), <tt><a href="Poss.html">Poss</a>=EMPTY</tt> (1928; 100%), <tt><a href="Degree.html">Degree</a>=Pos</tt> (1742; 90%), <tt><a href="Number.html">Number</a>=Sing</tt> (1190; 62%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (1081; 56%).
 
 `ADJ` tokens may have the following values of `Strength`:
 
-* `Strong` (1601; 69% of non-empty `Strength`): <em>managai, anþar, dauþaim, anþara, leitil, goþ, anþaramma, manag, managans, managa</em>
-* `Weak` (733; 31% of non-empty `Strength`): <em>silba, silban, silbans, samo, aiweinon, auhumistans, weiham, managizo, dauþans, taihswon</em>
+* `Strong` (1320; 68% of non-empty `Strength`): <em>managai, anþar, anþara, goþ, dauþaim, leitil, anþaramma, anþaraim, managans, manag</em>
+* `Weak` (608; 32% of non-empty `Strength`): <em>silba, silban, silbans, samo, aiweinon, managizo, weiham, taihswon, silbam, auhumistans</em>
 
 <table>
   <tr><th>Paradigm <i>manags</i></th><th><tt>Strong</tt></th><th><tt>Weak</tt></th></tr>
@@ -70,7 +70,6 @@ The most frequent other feature values with which `ADJ` and `Strength` co-occurr
   <tr><td><tt><a href="Case.html">Case</a>=Dat|<a href="Degree.html">Degree</a>=Pos|<a href="Gender.html">Gender</a>=Fem|<a href="Number.html">Number</a>=Sing</tt></td><td><em>managai</em></td><td></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Dat|<a href="Degree.html">Degree</a>=Pos|<a href="Gender.html">Gender</a>=Fem|<a href="Number.html">Number</a>=Plur</tt></td><td><em>managaim</em></td><td></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Dat|<a href="Degree.html">Degree</a>=Pos|<a href="Gender.html">Gender</a>=Neut|<a href="Number.html">Number</a>=Sing</tt></td><td><em>managamma</em></td><td></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Dat|<a href="Degree.html">Degree</a>=Pos|<a href="Gender.html">Gender</a>=Neut|<a href="Number.html">Number</a>=Plur</tt></td><td><em>managaim</em></td><td></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Dat|<a href="Degree.html">Degree</a>=Pos|<a href="Number.html">Number</a>=Plur</tt></td><td><em>managaim</em></td><td></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Dat|<a href="Degree.html">Degree</a>=Cmp|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Plur</tt></td><td></td><td><em>managizam</em></td></tr>
   <tr><td><tt><a href="Case.html">Case</a>=Dat|<a href="Degree.html">Degree</a>=Cmp|<a href="Gender.html">Gender</a>=Fem|<a href="Number.html">Number</a>=Sing</tt></td><td></td><td><em>managizein</em></td></tr>
@@ -92,14 +91,13 @@ The most frequent other feature values with which `ADJ` and `Strength` co-occurr
 ## Relations with Agreement in `Strength`
 
 The 10 most frequent relations where parent and child node agree in `Strength`:
-<tt>VERB --[<a href="../dep/conj.html">conj</a>]--> VERB</tt> (168; 89%),
-<tt>ADJ --[<a href="../dep/conj.html">conj</a>]--> ADJ</tt> (82; 94%),
-<tt>ADJ --[<a href="../dep/remnant.html">remnant</a>]--> ADJ</tt> (19; 86%),
-<tt>ADJ --[<a href="../dep/amod.html">amod</a>]--> ADJ</tt> (19; 79%),
-<tt>ADJ --[<a href="../dep/advmod.html">advmod</a>]--> ADJ</tt> (6; 60%),
-<tt>VERB --[<a href="../dep/remnant.html">remnant</a>]--> ADJ</tt> (3; 100%),
-<tt>ADJ --[<a href="../dep/remnant.html">remnant</a>]--> VERB</tt> (3; 75%),
+<tt>VERB --[<a href="../dep/conj.html">conj</a>]--> VERB</tt> (133; 85%),
+<tt>ADJ --[<a href="../dep/conj.html">conj</a>]--> ADJ</tt> (74; 95%),
+<tt>ADJ --[<a href="../dep/amod.html">amod</a>]--> ADJ</tt> (10; 59%),
+<tt>ADJ --[<a href="../dep/advmod.html">advmod</a>]--> ADJ</tt> (5; 56%),
+<tt>VERB --[<a href="../dep/appos.html">appos</a>]--> VERB</tt> (2; 100%),
 <tt>ADJ --[<a href="../dep/advcl.html">advcl</a>]--> ADJ</tt> (2; 100%),
-<tt>ADJ --[<a href="../dep/iobj.html">iobj</a>]--> VERB</tt> (2; 67%),
-<tt>VERB --[<a href="../dep/appos.html">appos</a>]--> VERB</tt> (2; 100%).
+<tt>ADJ --[<a href="../dep/obl.html">obl</a>]--> VERB</tt> (1; 100%),
+<tt>VERB --[<a href="../dep/amod.html">amod</a>]--> ADJ</tt> (1; 100%),
+<tt>ADJ --[<a href="../dep/flat.html">flat</a>]--> ADJ</tt> (1; 100%).
 

@@ -2,7 +2,15 @@
 layout: feature
 title: 'Reflex'
 shortdef: 'reflexive'
+udver: '2'
 ---
+
+<table class="typeindex" border="1">
+<tr>
+  <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
+  <td><a href="#Yes">Yes</a></td>
+</tr>
+</table>
 
 Boolean feature, typically of [pronouns](u-pos/PRON) or
 [determiners](u-pos/DET). It tells whether the word is reflexive,
@@ -18,7 +26,7 @@ or Russian _проснуться_ (both meaning “to wake up”). Thus in these
 cases the fused token will be split to two syntactic words, one of
 them being a reflexive pronoun.
 
-### `Yes`: it is reflexive
+### <a name="Yes">`Yes`</a>: it is reflexive
 
 Note that there is no `No` value. If the word is not reflexive, the
 `Reflex` feature will just not be mentioned in the `FEAT`

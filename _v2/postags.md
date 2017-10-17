@@ -1,6 +1,7 @@
 ---
 layout: base
 title:  'POS tags'
+udver: '2'
 ---
 
 # Part-of-speech tags in UD v2
@@ -9,7 +10,7 @@ title:  'POS tags'
 
 For v2, we propose
 
-* Rename [u-pos/CONJ]() to `CCONJ`.
+* Rename `CONJ` to [u-pos/CCONJ]().
 * Extend the use of [u-pos/AUX]() to copula verbs and nonverbal TAMVE particles.
 * Minimize usage of [u-pos/PART]() – small language-specific list of words, case must be made for each.
 * Loosen borderline between [u-pos/PRON]() and [u-pos/DET](): set of recommendations instead of purely functional rule.
@@ -60,7 +61,7 @@ Note that the current guidelines say that [en] _not_, [de] _nicht_ etc. are nega
 
 ## Extend the use of AUX
 
-The [u-pos/AUX]() category is currently used for auxiliary verbs, that is verbs used with the syntactic relation [u-dep/aux]() (regardless of whether these verbs can be used as main verbs in other contexts). We propose to extend its use in two ways. First, it can be used for nonverbal particles used to express TAMVE categories, which in v2 will also be analyzed using the [u-dep/aux]() relation. Secondly, it will be extended to copula verbs, which perform a grammaticalized function in nominal clauses.
+The [u-pos/AUX]() category is currently used for auxiliary verbs, that is verbs used with the syntactic relation [u-dep/aux]() (regardless of whether these verbs can be used as main verbs in other contexts). We propose to extend its use in two ways. First, it can be used for nonverbal particles used to express TAMVE categories, which in v2 will also be analyzed using the [u-dep/aux]() relation. Secondly, it will be extended to copula ([u-dep/cop]()) verbs, which perform a grammaticalized function in nominal clauses.
 
 <!--In many languages, (some of) the auxiliary verbs may also be used as main verbs. Their paradigm may be defective but the forms they have usually do not distinguish auxiliary usage from full-verb usage, so the `AUX` tag can only be inferred from the syntactic relation [u-dep/aux](). We believe that each POS category should be able to contribute some additional information rather than just mirror a dependency relation (see also further discussion in the section _Borderline between categories_). Since the `AUX` tag served only to distinguish auxiliary and non-auxiliary usage of a verb, it should be removed; the two usages can be recognized by the `aux` relation.
 

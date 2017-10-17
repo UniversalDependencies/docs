@@ -4,5 +4,11 @@ title: 'cop'
 shortdef: 'copula'
 ---
 
-This document is a placeholder for the language-specific documentation
-for `cop`.
+A copula is the relation between the complement of a copular verb and the copular verb. Copular
+verb in Vietnamese is "là".
+
+<pre><code class="language-sdparse">Lan là sinh_viên 。
+cop(sinh_viên, là)
+nsubj(sinh_viên, Lan)
+punct(sinh_viên, 。)
+</code></pre>

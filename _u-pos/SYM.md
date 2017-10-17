@@ -2,6 +2,7 @@
 layout: postag
 title: 'SYM'
 shortdef: 'symbol'
+udver: '2'
 ---
 
 ### Definition

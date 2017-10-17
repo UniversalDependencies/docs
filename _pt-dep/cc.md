@@ -6,7 +6,7 @@ shortdef: 'coordinating conjunction'
 
 For more on coordination, see the [conj]() relation.
 A `cc` is the relation between the first conjunct and
-the [coordinating conjunction](../pos/CONJ) delimiting another conjunct.
+the [coordinating conjunction](../pos/CCONJ) delimiting another conjunct.
 (Note: different dependency grammars have different treatments of coordination.
 We take the first conjunct as the head of the coordination.)
 

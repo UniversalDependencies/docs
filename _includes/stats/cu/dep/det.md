@@ -6,70 +6,64 @@
 
 This relation is universal.
 
-13 nodes (0%) are attached to their parents as `det`.
+1123 nodes (2%) are attached to their parents as `det`.
 
-9 instances of `det` (69%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.84615384615385.
+664 instances of `det` (59%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.15048975957257.
 
-The following 6 pairs of parts of speech are connected with `det`: [cu-pos/VERB]()-[cu-pos/DET]() (7; 54% instances), [cu-pos/NOUN]()-[cu-pos/DET]() (2; 15% instances), [cu-pos/ADJ]()-[cu-pos/PRON]() (1; 8% instances), [cu-pos/NOUN]()-[cu-pos/PRON]() (1; 8% instances), [cu-pos/NUM]()-[cu-pos/DET]() (1; 8% instances), [cu-pos/SCONJ]()-[cu-pos/DET]() (1; 8% instances).
-
-
-~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 2 det	color:blue
-1	а	а	CONJ	C-	_	10	cc	_	_
-2	еже	иже	DET	Pd	Case=Acc|Gender=Neut|Number=Sing	3	det	_	_
-3	сѣсти	сѣсти	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	12	appos	_	_
-4	о	о	ADP	R-	_	5	case	_	_
-5	деснѫ	деснъ	ADJ	A-	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Strength=Strong	3	advmod	_	_
-6	и	и	CONJ	C-	_	5	cc	_	_
-7	о	о	ADP	R-	_	8	case	_	_
-8	шѫѭ	шоуи	ADJ	A-	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Strength=Strong	5	conj	_	_
-9	мене	азъ	PRON	Pp	Case=Gen|Number=Sing|Person=1|PronType=Prs	8	nmod	_	_
-10	нѣстъ	не.бꙑти	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-11	мьнѣ	азъ	PRON	Pp	Case=Dat|Number=Sing|Person=1|PronType=Prs	10	iobj	_	_
-12	сего	сь	ADJ	Pd	Case=Gen|Gender=Neut|Number=Sing	13	dobj	_	_
-13	дати	дати	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	10	ccomp	_	_
-
-~~~
+The following 11 pairs of parts of speech are connected with `det`: [cu-pos/NOUN]()-[cu-pos/DET]() (527; 47% instances), [cu-pos/NOUN]()-[cu-pos/PRON]() (444; 40% instances), [cu-pos/ADJ]()-[cu-pos/DET]() (65; 6% instances), [cu-pos/VERB]()-[cu-pos/DET]() (33; 3% instances), [cu-pos/PRON]()-[cu-pos/DET]() (18; 2% instances), [cu-pos/PROPN]()-[cu-pos/DET]() (15; 1% instances), [cu-pos/ADJ]()-[cu-pos/PRON]() (14; 1% instances), [cu-pos/NUM]()-[cu-pos/DET]() (3; 0% instances), [cu-pos/VERB]()-[cu-pos/PRON]() (2; 0% instances), [cu-pos/PRON]()-[cu-pos/PRON]() (1; 0% instances), [cu-pos/SCONJ]()-[cu-pos/DET]() (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
-# visual-style 8 9 det	color:blue
-1	амін	аминъ	INTJ	I-	_	2	vocative	_	_
-2	г҃лѭ	глаголати	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-3	вамъ	вꙑ	PRON	Pp	Case=Dat|Number=Plur|Person=2|PronType=Prs	2	iobj	_	_
-4	ѣко	ꙗко	SCONJ	G-	_	6	mark	_	_
-5	не	не	ADV	Df	_	6	neg	_	_
-6	иматъ	имѣти	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	ccomp	_	_
-7	прѣити	прѣити	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	6	xcomp	_	_
-8	родо	родъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	_
-9	сь	сь	DET	Pd	Case=Nom|Gender=Masc|Number=Sing	8	det	_	_
-10	доньдеже	доньде	SCONJ	G-	_	12	mark	_	_
-11	вьсѣ	вьсь	PRON	Px	Case=Nom|Gender=Neut|Number=Plur	12	nsubj	_	_
-12	бѫдѫтъ	бꙑти	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	6	advcl	_	_
+# visual-style 8 7 det	color:blue
+1	аще	аще	SCONJ	G-	_	3	mark	_	ref=MATT_6.22
+2	оубо	оубо	ADV	Df	_	11	discourse	_	ref=MATT_6.22
+3	бѫдетъ	бꙑти	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	11	advcl	_	ref=MATT_6.22
+4	око	око	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	3	nsubj	_	ref=MATT_6.22
+5	твое	твои	ADJ	Ps	Case=Nom|Gender=Neut|Number=Sing|Person=2|Poss=Yes	4	nmod	_	ref=MATT_6.22
+6	просто	простъ	ADJ	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Strength=Strong	3	xcomp	_	ref=MATT_6.22
+7	вьсе	вьсь	DET	Px	Case=Nom|Gender=Neut|Number=Sing	8	det	_	ref=MATT_6.22
+8	тѣло	тѣло	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	11	nsubj	_	ref=MATT_6.22
+9	твое	твои	ADJ	Ps	Case=Nom|Gender=Neut|Number=Sing|Person=2|Poss=Yes	8	nmod	_	ref=MATT_6.22
+10	свѣтъло	свѣтьлъ	ADJ	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Strength=Strong	11	xcomp	_	ref=MATT_6.22
+11	бѫдетъ	бꙑти	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	ref=MATT_6.22
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 4 det	color:blue
-1	остави	оставити	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-2	мрътвꙑмъ	мрьтвъ	ADJ	A-	Case=Dat|Degree=Pos|Gender=Masc|Number=Plur|Strength=Weak	1	iobj	_	_
-3	погрети	погрети	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	1	xcomp	_	_
-4	своѩ	свои	PRON	Pt	Case=Acc|Gender=Fem,Masc|Number=Plur|Person=3|Poss=Yes|PronType=Prs|Reflex=Yes	5	det	_	_
-5	мрътвъцѧ	мрьтвьць	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	3	dobj	_	_
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 6 det	color:blue
+1	аще	аще	SCONJ	G-	_	3	mark	_	ref=MATT_5.46
+2	бо	бо	ADV	Df	_	8	discourse	_	ref=MATT_5.46
+3	любите	любити	VERB	V-	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	8	advcl	_	ref=MATT_5.46
+4	любѧщѧѩ	любити	VERB	V-	Case=Acc|Gender=Masc|Number=Plur|Strength=Weak|Tense=Pres|VerbForm=Part|Voice=Act	3	obj:dir	_	ref=MATT_5.46
+5	вꙑ	вꙑ	PRON	Pp	Case=Acc|Number=Plur|Person=2|PronType=Prs	4	obj:dir	_	ref=MATT_5.46
+6	кѫѭ҄	кꙑи	PRON	Pi	Case=Acc|Gender=Fem|Number=Sing|PronType=Int	7	det	_	ref=MATT_5.46
+7	мъздѫ	мьзда	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	8	obj:dir	_	ref=MATT_5.46
+8	имате	имѣти	VERB	V-	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=MATT_5.46
+
+~~~
+
+
+~~~ conllu
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 1 det	color:blue
+1	вьсѣхъ	вьсь	DET	Px	Case=Gen|Gender=Neut|Number=Plur	3	det	_	ref=MATT_6.32
+2	бо	бо	ADV	Df	_	5	discourse	_	ref=MATT_6.32
+3	сихъ	сь	ADJ	Pd	Case=Gen|Gender=Neut|Number=Plur	5	iobj	_	ref=MATT_6.32
+4	ѩ҃зци	ѩзꙑкъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	5	nsubj	_	ref=MATT_6.32
+5	ищѫтъ	искати	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=MATT_6.32
 
 ~~~
 

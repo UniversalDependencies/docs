@@ -6,12 +6,12 @@
 
 This relation is universal.
 
-62 nodes (1%) are attached to their parents as `mark`.
+7 nodes (0%) are attached to their parents as `mark`.
 
-42 instances of `mark` (68%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.91935483870968.
+4 instances of `mark` (57%) are left-to-right (parent precedes child).
+Average distance between parent and child is 3.71428571428571.
 
-The following 15 pairs of parts of speech are connected with `mark`: [ug-pos/VERB]()-[ug-pos/PART]() (25; 40% instances), [ug-pos/VERB]()-[ug-pos/CONJ]() (7; 11% instances), [ug-pos/VERB]()-[ug-pos/ADV]() (6; 10% instances), [ug-pos/VERB]()-[ug-pos/VERB]() (5; 8% instances), [ug-pos/NOUN]()-[ug-pos/PART]() (4; 6% instances), [ug-pos/NOUN]()-[ug-pos/ADP]() (3; 5% instances), [ug-pos/VERB]()-[ug-pos/NOUN]() (3; 5% instances), [ug-pos/NOUN]()-[ug-pos/VERB]() (2; 3% instances), [ug-pos/ADJ]()-[ug-pos/CONJ]() (1; 2% instances), [ug-pos/ADJ]()-[ug-pos/NOUN]() (1; 2% instances), [ug-pos/ADJ]()-[ug-pos/VERB]() (1; 2% instances), [ug-pos/NOUN]()-[ug-pos/PRON]() (1; 2% instances), [ug-pos/PRON]()-[ug-pos/ADP]() (1; 2% instances), [ug-pos/VERB]()-[ug-pos/ADP]() (1; 2% instances), [ug-pos/VERB]()-[ug-pos/PRON]() (1; 2% instances).
+The following 5 pairs of parts of speech are connected with `mark`: [ug-pos/VERB]()-[ug-pos/CCONJ]() (3; 43% instances), [ug-pos/NOUN]()-[ug-pos/ADP]() (1; 14% instances), [ug-pos/PRON]()-[ug-pos/ADP]() (1; 14% instances), [ug-pos/VERB]()-[ug-pos/NOUN]() (1; 14% instances), [ug-pos/VERB]()-[ug-pos/PART]() (1; 14% instances).
 
 
 ~~~ conllu
@@ -20,52 +20,70 @@ The following 15 pairs of parts of speech are connected with `mark`: [ug-pos/VER
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 1 mark	color:blue
-1	بەلكىم	_	PART	T	_	5	mark	_	Translit=belkim
-2	ئۇ	_	PRON	P	_	5	nsubj	_	Translit=u
-3	ئاسماندىن	_	NOUN	N	_	5	nmod	_	Translit=asmandin
-4	چۈشكەن	_	VERB	V	_	5	compound	_	Translit=chüshken
-5	بولۇشى	_	VERB	V	_	6	csubj	_	Translit=bolushi
-6	مۇمكىن	_	ADJ	A	_	0	root	_	Translit=mumkin
-7	!	_	PUNCT	Y	_	6	punct	_	Translit=!
+1	ئاندىن	_	CCONJ	C	_	5	mark	_	Translit=andin
+2	كېيىن	_	ADV	D	_	5	advmod	_	Translit=këyin
+3	ھەيران	_	NOUN	N	_	4	compound	_	Translit=heyran
+4	قېلىپ	_	VERB	V	_	5	advcl	_	Translit=qëlip
+5	پىچىرلاشتى	_	VERB	V	_	0	root	_	SpaceAfter=No|Translit=pichirlashti
+6	.	_	PUNCT	Y	_	5	punct	_	Translit=.
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 10 5 mark	color:blue
-1	ئىككى	_	NUM	M	_	2	nummod	_	Translit=ikki
-2	ئوغلى	_	NOUN	N	_	3	nsubj	_	Translit=oghli
-3	تەڭلا	_	ADJ	A	_	10	parataxis	_	Translit=tengla
+# visual-style 15	bgColor:blue
+# visual-style 15	fgColor:white
+# visual-style 14	bgColor:blue
+# visual-style 14	fgColor:white
+# visual-style 14 15 mark	color:blue
+1	مەن	_	PRON	P	_	29	nsubj	_	Translit=men
+2	ئىچىمنىڭ	_	NOUN	N	_	3	nsubj	_	Translit=ichimning
+3	قىزىپ	_	VERB	V	_	8	advcl	_	SpaceAfter=No|Translit=qizip
 4	،	_	PUNCT	Y	_	3	punct	_	Translit=,
-5	ئاندىن	_	CONJ	C	_	10	mark	_	Translit=andin
-6	ئوغۇل	_	NOUN	N	_	10	nsubj	_	Translit=oghul
-7	كىيىملىرىنى	_	NOUN	N	_	8	dobj	_	Translit=kiyimlirini
-8	سېلىپ	_	VERB	V	_	10	advcl	_	Translit=sëlip
-9	دادىسىغا	_	NOUN	N	_	10	nmod:cau	_	Translit=dadisigha
-10	كىيدۈرۈپتۇ	_	VERB	V	_	0	root	_	Translit=kiydürüptu
-11	.	_	PUNCT	Y	_	10	punct	_	Translit=.
+5	كالپۇكلىرىمنىڭ	_	NOUN	N	_	6	nsubj	_	Translit=kalpuklirimning
+6	قۇرۇپ	_	VERB	V	_	8	advcl	_	Translit=qurup
+7	گەز	_	VERB	V	_	8	compound	_	Translit=gez
+8	باغلاۋاتقانلىقىنى	_	VERB	V	_	29	obj	_	SpaceAfter=No|Translit=baghlawatqanliqini
+9	،	_	PUNCT	Y	_	8	punct	_	Translit=,
+10	ئۇچۇق	_	NOUN	N	_	11	nsubj	_	Translit=uchuq
+11	چىققاندەك	_	NOUN	N	_	13	advmod	_	Translit=chiqqandek
+12	تىكەنلىشىپ	_	VERB	V	_	13	compound:lvc	_	Translit=tikenliship
+13	كەتكەن	_	VERB	V	_	14	acl	_	Translit=ketken
+14	تىلىمدىن	_	NOUN	N	_	24	nmod	_	Translit=tilimdin
+15	ئىبارەت	_	ADP	R	_	14	mark	_	Translit=ibaret
+16	بىر	_	NUM	M	_	17	nummod	_	Translit=bir
+17	پارچە	_	DET	Q	_	23	amod	_	Translit=parche
+18	يۇمشاق	_	ADJ	A	_	23	amod	_	SpaceAfter=No|Translit=yumshaq
+19	،	_	PUNCT	Y	_	18	punct	_	Translit=,
+20	ئىسسىق	_	ADJ	A	_	18	conj	_	SpaceAfter=No|Translit=issiq
+21	،	_	PUNCT	Y	_	18	punct	_	Translit=,
+22	نەم	_	ADJ	A	_	18	conj	_	Translit=nem
+23	گۆش	_	NOUN	N	_	24	nmod:poss	_	Translit=gösh
+24	پارچىسىنىڭ	_	NOUN	N	_	27	nsubj	_	Translit=parchisining
+25	تاڭلىيىمغا	_	NOUN	N	_	27	obl	_	Translit=tangliyimgha
+26	چاپلىشىپ	_	VERB	V	_	27	compound:lvc	_	Translit=chapliship
+27	كېتىۋاتقانلىقىنى	_	VERB	V	_	8	conj	_	Translit=këtiwatqanliqini
+28	ھېس	_	NOUN	N	_	29	compound	_	Translit=hës
+29	قىلاتتىم	_	VERB	V	_	0	root	_	SpaceAfter=No|Translit=qilattim
+30	.	_	PUNCT	Y	_	29	punct	_	Translit=.
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 4 mark	color:blue
-1	"	_	PUNCT	Y	_	6	punct	_	Translit="
-2	ئاپلا	_	VERB	V	_	6	discourse	_	Translit=apla
-3	،	_	PUNCT	Y	_	2	punct	_	Translit=,
-4	ئەمدى	_	ADV	D	_	6	mark	_	Translit=emdi
-5	قانداق	_	PRON	P	_	6	nsubj	_	Translit=qandaq
-6	قىلارمەن	_	VERB	V	_	0	root	_	Translit=qilarmen
-7	؟	_	PUNCT	Y	_	6	punct	_	Translit=?
-8	"	_	PUNCT	Y	_	6	punct	_	Translit="
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 1 mark	color:blue
+1	مانا	_	PART	T	_	7	mark	_	Translit=mana
+2	ئەمدى	_	ADV	D	_	7	advmod	_	Translit=emdi
+3	سەنمۇ	_	PRON	P	_	7	nsubj	_	Translit=senmu
+4	بويۇن	_	NOUN	N	_	5	compound	_	Translit=boyun
+5	قىسىپ	_	VERB	V	_	7	advcl	_	Translit=qisip
+6	ئالدىمغا	_	VERB	V	_	7	obl	_	Translit=aldimgha
+7	كەپسەن	_	VERB	V	_	0	root	_	SpaceAfter=No|Translit=kepsen
+8	.	_	PUNCT	Y	_	7	punct	_	Translit=.
 
 ~~~
 

@@ -4,58 +4,85 @@
 
 ## Treebank Statistics (UD_Ukrainian)
 
-There are 67 `ADJ` lemmas (11%), 77 `ADJ` types (11%) and 92 `ADJ` tokens (5%).
-Out of 16 observed tags, the rank of `ADJ` is: 3 in number of lemmas, 3 in number of types and 6 in number of tokens.
+There are 704 `ADJ` lemmas (18%), 981 `ADJ` types (18%) and 1115 `ADJ` tokens (9%).
+Out of 17 observed tags, the rank of `ADJ` is: 3 in number of lemmas, 3 in number of types and 5 in number of tokens.
 
-The 10 most frequent `ADJ` lemmas: <em>перший, важливий, минулий, швидший, цілий, чесний, далекий, добрий, милий, повинний</em>
+The 10 most frequent `ADJ` lemmas: <em>цілий, перший, різний, великий, новий, український, дитячий, домашній, справжній, другий</em>
 
-The 10 most frequent `ADJ` types:  <em>Важливим, перший, швидший, далекому, мила, минулому, першим, повинен, розташоване, чесний</em>
+The 10 most frequent `ADJ` types:  <em>різних, цілу, домашніх, різні, ціле, цілий, великих, великої, дитячої, експериментальних</em>
 
-The 10 most frequent ambiguous lemmas: 
+The 10 most frequent ambiguous lemmas: <em>цілий</em> ([ADJ]() 21, [NOUN]() 1), <em>перший</em> ([ADJ]() 14, [NOUN]() 1), <em>великий</em> ([ADJ]() 13, [NOUN]() 1), <em>український</em> ([ADJ]() 11, [NOUN]() 4), <em>домашній</em> ([ADJ]() 9, [NOUN]() 1), <em>другий</em> ([ADJ]() 8, [DET]() 2), <em>малий</em> ([ADJ]() 8, [NOUN]() 3), <em>військовий</em> ([ADJ]() 7, [NOUN]() 1), <em>третій</em> ([ADJ]() 6, [NOUN]() 1), <em>молодий</em> ([ADJ]() 4, [NOUN]() 1)
 
-The 10 most frequent ambiguous types:  <em>мила</em> ([VERB]() 2, [ADJ]() 2)
+The 10 most frequent ambiguous types:  <em>ціле</em> ([ADJ]() 3, [NOUN]() 1), <em>першого</em> ([ADJ]() 3, [NOUN]() 1), <em>української</em> ([ADJ]() 3, [NOUN]() 2), <em>домашні</em> ([ADJ]() 2, [NOUN]() 1), <em>другий</em> ([ADJ]() 2, [DET]() 1), <em>старих</em> ([ADJ]() 2, [NOUN]() 1), <em>Красної</em> ([PROPN]() 1, [ADJ]() 1), <em>Найкраще</em> ([ADV]() 1, [ADJ]() 1), <em>велике</em> ([NOUN]() 1, [ADJ]() 1), <em>легко</em> ([ADJ]() 1, [ADV]() 1)
 
 
-* <em>мила</em>
-  * [VERB]() 2: <em>Мама <b>мила</b> раму .</em>
-  * [ADJ]() 2: <em>С’юзі , <b>мила</b> моя С’юзі , не втікай від мене в світ своїх ілюзій .</em>
+* <em>ціле</em>
+  * [ADJ]() 3: <em>У нас було <b>ціле</b> товариство водіїв - башкирів .</em>
+  * [NOUN]() 1: <em>Перед ним складний набор інструментів , що зв’язані в одно <b>ціле</b> з барабаном .</em>
+* <em>першого</em>
+  * [ADJ]() 3: <em>Пуні попався справжній професіонал — після <b>першого</b> ж ходу суперник вийняв блокнот і записав Пунин хід пішаком .</em>
+  * [NOUN]() 1: <em>Той , хто йшов позаду , теж брав один рогалик у руку , а ще кілька закладав у каптур <b>першого</b> .</em>
+* <em>української</em>
+  * [ADJ]() 3: <em>Від різних людей , Ваших земляків , я ще дізнався , що Ви великий аматор книжки <b>української</b> .</em>
+  * [NOUN]() 2: <em>Приїхавши після Чити до Делятина , тато кілька місяців удавав у школі , що не розуміє <b>української</b> .</em>
+* <em>домашні</em>
+  * [ADJ]() 2: <em>Згодом я довідався і прізвища , і <b>домашні</b> адреси Пуниних мучителів .</em>
+  * [NOUN]() 1: <em>Всі <b>домашні</b> зосереджувалися в одній із кімнат , там , де можна було найсильніше напалити у печі , там , де найменше тепла видував вітер .</em>
+* <em>другий</em>
+  * [ADJ]() 2: <em>Відбій — роздягання , складання одежі і вискакування на <b>другий</b> ярус тривав стільки , скільки горів сірник .</em>
+  * [DET]() 1: <em>Негр легко хитається взад і вперед на своєму високому сидінні , торкаючи то той , то <b>другий</b> ударний інструмент в строгому такті .</em>
+* <em>старих</em>
+  * [ADJ]() 2: <em>Юрко хотів пофотографувати кілька <b>старих</b> будинків , призначених до знесення .</em>
+  * [NOUN]() 1: <em>Мудрий старець говорить своєю мовою про те , чого навчився в житті , й правда його приваблює молодих і <b>старих</b> .</em>
+* <em>Красної</em>
+  * [PROPN]() 1: <em>Від <b>Красної</b> Поляни до лісничівки на кордоні треба було ще двадцять кілометрів іти пішки .</em>
+  * [ADJ]() 1: <em>До <b>Красної</b> Поляни їхалося перевантаженим пазом справжнім серпантином .</em>
+* <em>Найкраще</em>
+  * [ADV]() 1: <em><b>Найкраще</b> це робити в русі .</em>
+  * [ADJ]() 1: <em><b>Найкраще</b> природне лісовідновлення було у Берегометі .</em>
+* <em>велике</em>
+  * [NOUN]() 1: <em>Проси <b>велике</b> .</em>
+  * [ADJ]() 1: <em>Воно було <b>велике</b> і глибочезне .</em>
+* <em>легко</em>
+  * [ADJ]() 1: <em>Вона посміхнулася сама до себе , натхненно поправила ще не той типовий <b>легко</b> - фіолетовий , а зовсім оранжевий , як часточка папайї ( Carica papaya ) , фарбований за останньою модою локон волосся .</em>
+  * [ADV]() 1: <em>Негр <b>легко</b> хитається взад і вперед на своєму високому сидінні , торкаючи то той , то другий ударний інструмент в строгому такті .</em>
 
 ## Morphology
 
-The form / lemma ratio of `ADJ` is 1.149254 (the average of all parts of speech is 1.172859).
+The form / lemma ratio of `ADJ` is 1.393466 (the average of all parts of speech is 1.380843).
 
-The 1st highest number of forms (3) was observed with the lemma “минулий”: <em>Минулої, минулим, минулому</em>.
+The 1st highest number of forms (9) was observed with the lemma “перший”: <em>Перший, перша, перших, першого, першому, першої, першу, перші, першій</em>.
 
-The 2nd highest number of forms (3) was observed with the lemma “перший”: <em>перший, першим, першого</em>.
+The 2nd highest number of forms (8) was observed with the lemma “цілий”: <em>ціла, ціле, цілий, цілими, цілих, цілого, цілої, цілу</em>.
 
-The 3rd highest number of forms (3) was observed with the lemma “цілий”: <em>цілих, цілу, цілі</em>.
+The 3rd highest number of forms (7) was observed with the lemma “великий”: <em>велика, велике, великий, великих, великої, великі, великій</em>.
 
-`ADJ` occurs with 9 features: [uk-feat/Case]() (92; 100% instances), [uk-feat/Gender]() (78; 85% instances), [uk-feat/Degree]() (42; 46% instances), [uk-feat/Aspect]() (22; 24% instances), [uk-feat/VerbForm]() (22; 24% instances), [uk-feat/Voice]() (22; 24% instances), [uk-feat/Number]() (14; 15% instances), [uk-feat/NumType]() (10; 11% instances), [uk-feat/Abbr]() (1; 1% instances)
+`ADJ` occurs with 15 features: [uk-feat/Case]() (1105; 99% instances), [uk-feat/Gender]() (752; 67% instances), [uk-feat/Number]() (353; 32% instances), [uk-feat/Degree]() (343; 31% instances), [uk-feat/Animacy]() (151; 14% instances), [uk-feat/Aspect]() (128; 11% instances), [uk-feat/VerbForm]() (128; 11% instances), [uk-feat/Voice]() (128; 11% instances), [uk-feat/NumType]() (43; 4% instances), [uk-feat/Hyph]() (9; 1% instances), [uk-feat/Style]() (8; 1% instances), [uk-feat/Foreign]() (2; 0% instances), [uk-feat/Variant]() (2; 0% instances), [uk-feat/Abbr]() (1; 0% instances), [uk-feat/Tense]() (1; 0% instances)
 
-`ADJ` occurs with 21 feature-value pairs: `Abbr=Yes`, `Aspect=Imp`, `Aspect=Perf`, `Case=Acc`, `Case=Dat`, `Case=Gen`, `Case=Ins`, `Case=Loc`, `Case=Nom`, `Case=Voc`, `Degree=Cmp`, `Degree=Pos`, `Degree=Sup`, `Gender=Fem`, `Gender=Masc`, `Gender=Neut`, `NumType=Ord`, `Number=Plur`, `VerbForm=Part`, `Voice=Act`, `Voice=Pass`
+`ADJ` occurs with 30 feature-value pairs: `Abbr=Yes`, `Animacy=Anim`, `Animacy=Inan`, `Aspect=Imp`, `Aspect=Perf`, `Case=Acc`, `Case=Dat`, `Case=Gen`, `Case=Ins`, `Case=Loc`, `Case=Nom`, `Case=Voc`, `Degree=Cmp`, `Degree=Pos`, `Degree=Sup`, `Foreign=Yes`, `Gender=Fem`, `Gender=Masc`, `Gender=Neut`, `Hyph=Yes`, `NumType=Ord`, `Number=Plur`, `Style=Odd`, `Style=Rare`, `Tense=Pres`, `Variant=Short`, `Variant=Uncontr`, `VerbForm=Part`, `Voice=Act`, `Voice=Pass`
 
-`ADJ` occurs with 45 feature combinations.
-The most frequent feature combination is `Case=Acc|Gender=Fem` (6 tokens).
-Examples: <em>бронзову, золоту, півмільйонну, срібну, українську, цілу</em>
+`ADJ` occurs with 150 feature combinations.
+The most frequent feature combination is `Case=Gen|Gender=Fem` (69 tokens).
+Examples: <em>дитячої, української, ветеринарної, виконавчої, громадянської, державної, міської, Жовтневої, Карпатської, Красної</em>
 
 
 ## Relations
 
-`ADJ` nodes are attached to their parents using 11 different relations: [uk-dep/amod]() (43; 47% instances), [uk-dep/root]() (28; 30% instances), [uk-dep/nmod]() (5; 5% instances), [uk-dep/xcomp]() (5; 5% instances), [uk-dep/dobj]() (3; 3% instances), [uk-dep/conj]() (2; 2% instances), [uk-dep/remnant]() (2; 2% instances), [uk-dep/acl]() (1; 1% instances), [uk-dep/appos]() (1; 1% instances), [uk-dep/ccomp]() (1; 1% instances), [uk-dep/nsubj]() (1; 1% instances)
+`ADJ` nodes are attached to their parents using 15 different relations: [uk-dep/amod]() (906; 81% instances), [uk-dep/acl]() (46; 4% instances), [uk-dep/root]() (46; 4% instances), [uk-dep/conj]() (43; 4% instances), [uk-dep/xcomp]() (20; 2% instances), [uk-dep/advcl]() (13; 1% instances), [uk-dep/obl]() (12; 1% instances), [uk-dep/compound]() (9; 1% instances), [uk-dep/ccomp]() (5; 0% instances), [uk-dep/appos]() (4; 0% instances), [uk-dep/nmod]() (3; 0% instances), [uk-dep/parataxis]() (3; 0% instances), [uk-dep/nsubj]() (2; 0% instances), [uk-dep/obj]() (2; 0% instances), [uk-dep/flat]() (1; 0% instances)
 
-Parents of `ADJ` nodes belong to 9 different parts of speech: [NOUN]() (35; 38% instances), [ROOT]() (28; 30% instances), [VERB]() (13; 14% instances), [ADJ]() (6; 7% instances), [NUM]() (3; 3% instances), [ADV]() (2; 2% instances), [PRON]() (2; 2% instances), [PROPN]() (2; 2% instances), [DET]() (1; 1% instances)
+Parents of `ADJ` nodes belong to 7 different parts of speech: [NOUN]() (940; 84% instances), [ADJ]() (55; 5% instances), [VERB]() (54; 5% instances), [ROOT]() (46; 4% instances), [PROPN]() (14; 1% instances), [PRON]() (4; 0% instances), [NUM]() (2; 0% instances)
 
-41 (45%) `ADJ` nodes are leaves.
+863 (77%) `ADJ` nodes are leaves.
 
-18 (20%) `ADJ` nodes have one child.
+110 (10%) `ADJ` nodes have one child.
 
-6 (7%) `ADJ` nodes have two children.
+49 (4%) `ADJ` nodes have two children.
 
-27 (29%) `ADJ` nodes have three or more children.
+93 (8%) `ADJ` nodes have three or more children.
 
-The highest child degree of a `ADJ` node is 6.
+The highest child degree of a `ADJ` node is 7.
 
-Children of `ADJ` nodes are attached using 25 different relations: [uk-dep/punct]() (38; 29% instances), [uk-dep/cop]() (17; 13% instances), [uk-dep/nsubj]() (12; 9% instances), [uk-dep/nsubjpass]() (7; 5% instances), [uk-dep/auxpass]() (6; 5% instances), [uk-dep/case]() (6; 5% instances), [uk-dep/advmod]() (5; 4% instances), [uk-dep/neg]() (5; 4% instances), [uk-dep/csubj]() (4; 3% instances), [uk-dep/nmod]() (4; 3% instances), [uk-dep/xcomp]() (4; 3% instances), [uk-dep/det]() (3; 2% instances), [uk-dep/amod]() (2; 2% instances), [uk-dep/cc]() (2; 2% instances), [uk-dep/conj]() (2; 2% instances), [uk-dep/discourse]() (2; 2% instances), [uk-dep/remnant]() (2; 2% instances), [uk-dep/advcl]() (1; 1% instances), [uk-dep/appos]() (1; 1% instances), [uk-dep/csubjpass]() (1; 1% instances), [uk-dep/iobj]() (1; 1% instances), [uk-dep/mark]() (1; 1% instances), [uk-dep/nummod]() (1; 1% instances), [uk-dep/nummod:gov]() (1; 1% instances), [uk-dep/parataxis]() (1; 1% instances)
+Children of `ADJ` nodes are attached using 23 different relations: [uk-dep/punct]() (155; 27% instances), [uk-dep/obl]() (85; 15% instances), [uk-dep/conj]() (52; 9% instances), [uk-dep/advmod]() (48; 8% instances), [uk-dep/nsubj]() (46; 8% instances), [uk-dep/cop]() (44; 8% instances), [uk-dep/cc]() (32; 6% instances), [uk-dep/advcl]() (19; 3% instances), [uk-dep/mark]() (16; 3% instances), [uk-dep/case]() (13; 2% instances), [uk-dep/discourse]() (12; 2% instances), [uk-dep/nsubj:pass]() (11; 2% instances), [uk-dep/compound]() (9; 2% instances), [uk-dep/obj]() (8; 1% instances), [uk-dep/parataxis]() (7; 1% instances), [uk-dep/xcomp]() (6; 1% instances), [uk-dep/acl]() (4; 1% instances), [uk-dep/aux:pass]() (4; 1% instances), [uk-dep/nmod]() (3; 1% instances), [uk-dep/appos]() (2; 0% instances), [uk-dep/aux]() (1; 0% instances), [uk-dep/ccomp]() (1; 0% instances), [uk-dep/det]() (1; 0% instances)
 
-Children of `ADJ` nodes belong to 12 different parts of speech: [PUNCT]() (38; 29% instances), [VERB]() (34; 26% instances), [NOUN]() (16; 12% instances), [PART]() (7; 5% instances), [ADJ]() (6; 5% instances), [ADP]() (6; 5% instances), [ADV]() (5; 4% instances), [DET]() (4; 3% instances), [PRON]() (4; 3% instances), [CONJ]() (3; 2% instances), [NUM]() (3; 2% instances), [PROPN]() (3; 2% instances)
+Children of `ADJ` nodes belong to 13 different parts of speech: [PUNCT]() (155; 27% instances), [NOUN]() (130; 22% instances), [ADJ]() (55; 9% instances), [ADV]() (50; 9% instances), [AUX]() (49; 8% instances), [CCONJ]() (32; 6% instances), [PRON]() (25; 4% instances), [VERB]() (24; 4% instances), [PART]() (16; 3% instances), [SCONJ]() (14; 2% instances), [ADP]() (13; 2% instances), [PROPN]() (9; 2% instances), [DET]() (7; 1% instances)
 

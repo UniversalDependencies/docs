@@ -4,53 +4,53 @@
 
 ## Treebank Statistics (UD_Galician)
 
-There are 29 `DET` lemmas (0%), 86 `DET` types (1%) and 23906 `DET` tokens (17%).
-Out of 15 observed tags, the rank of `DET` is: 8 in number of lemmas, 7 in number of types and 2 in number of tokens.
+There are 29 `DET` lemmas (0%), 85 `DET` types (1%) and 18868 `DET` tokens (17%).
+Out of 16 observed tags, the rank of `DET` is: 8 in number of lemmas, 7 in number of types and 2 in number of tokens.
 
-The 10 most frequent `DET` lemmas: <em>o, un, este, seu, outro, todo, mesmo, cada, algún, ese</em>
+The 10 most frequent `DET` lemmas: <em>o, un, este, seu, outro, todo, mesmo, cada, ese, algún</em>
 
-The 10 most frequent `DET` types:  <em>o, a, os, as, un, unha, este, súa, esta, seu</em>
+The 10 most frequent `DET` types:  <em>o, a, os, as, un, unha, súa, este, esta, seu</em>
 
-The 10 most frequent ambiguous lemmas: <em>o</em> ([DET]() 18186, [PRON]() 273), <em>un</em> ([DET]() 2077, [PRON]() 42), <em>este</em> ([DET]() 954, [PRON]() 1), <em>mesmo</em> ([DET]() 157, [ADV]() 52), <em>aquel</em> ([DET]() 106, [PRON]() 1), <em>moito</em> ([DET]() 66, [ADV]() 22), <em>propio</em> ([DET]() 43, [ADJ]() 28), <em>certo</em> ([DET]() 33, [ADJ]() 9), <em>pouco</em> ([ADV]() 19, [DET]() 19), <em>que</em> ([PRON]() 1909, [SCONJ]() 1195, [DET]() 14)
+The 10 most frequent ambiguous lemmas: <em>o</em> ([DET]() 14331, [PRON]() 220), <em>un</em> ([DET]() 1648, [PRON]() 34), <em>este</em> ([DET]() 754, [PRON]() 1), <em>mesmo</em> ([DET]() 131, [ADV]() 37), <em>moito</em> ([DET]() 51, [ADV]() 18), <em>propio</em> ([DET]() 34, [ADJ]() 26), <em>certo</em> ([DET]() 26, [ADJ]() 7), <em>pouco</em> ([DET]() 18, [ADV]() 15), <em>que</em> ([PRON]() 1502, [SCONJ]() 944, [DET]() 11), <em>canto</em> ([PRON]() 23, [DET]() 10, [NOUN]() 1)
 
-The 10 most frequent ambiguous types:  <em>o</em> ([DET]() 6283, [PRON]() 98), <em>a</em> ([DET]() 6114, [ADP]() 2083, [PRON]() 53), <em>os</em> ([DET]() 2686, [PRON]() 93), <em>as</em> ([DET]() 1881, [PRON]() 27), <em>un</em> ([DET]() 1008, [PRON]() 25), <em>unha</em> ([DET]() 935, [PRON]() 16), <em>esta</em> ([DET]() 240, [PRON]() 1), <em>mesmo</em> ([DET]() 84, [ADV]() 52), <em>aqueles</em> ([DET]() 51, [PRON]() 1), <em>propia</em> ([DET]() 19, [ADJ]() 11)
+The 10 most frequent ambiguous types:  <em>o</em> ([DET]() 5020, [PRON]() 80), <em>a</em> ([DET]() 4781, [ADP]() 1682, [PRON]() 39), <em>os</em> ([DET]() 2117, [PRON]() 82), <em>as</em> ([DET]() 1446, [PRON]() 18), <em>un</em> ([DET]() 808, [PRON]() 20), <em>unha</em> ([DET]() 735, [PRON]() 13), <em>esta</em> ([DET]() 185, [PRON]() 1), <em>mesmo</em> ([DET]() 70, [ADV]() 37), <em>propia</em> ([DET]() 16, [ADJ]() 10), <em>propio</em> ([DET]() 10, [ADJ]() 5)
 
 
 * <em>o</em>
-  * [DET]() 6283: <em>Así mesmo , serán publicados en <b>o</b> " Boletín Oficial de el Estado " .</em>
-  * [PRON]() 98: <em>Se a vítima presenta signos de obstrución lixeira de a vía aérea , debemos animar <b>o</b> a seguir tusindo e non facer nada máis .</em>
+  * [DET]() 5020: <em>Así mesmo , serán publicados en <b>o</b> " Boletín Oficial de el Estado " .</em>
+  * [PRON]() 80: <em>Se a vítima presenta signos de obstrución lixeira de a vía aérea , debemos animar <b>o</b> a seguir tusindo e non facer nada máis .</em>
 * <em>a</em>
-  * [DET]() 6114: <em>E <b>a</b> quen se lle pide <b>a</b> fe de bautismo ?</em>
-  * [ADP]() 2083: <em>Ningunha de elas se chegou <b>a</b> instalar por a oposición directa de a poboación .</em>
-  * [PRON]() 53: <em>Dende que o caso índice enfermou ata a chegada de a súa nai o día de o seu ingreso , a tía foi quen <b>a</b> coidou .</em>
+  * [DET]() 4781: <em>En 1985 <b>a</b> Administración de St .</em>
+  * [ADP]() 1682: <em>Ningunha de elas se chegou <b>a</b> instalar por a oposición directa de a poboación .</em>
+  * [PRON]() 39: <em>A distribución de as hospitalizacións por grupos específicos de enfermidades e por provincias vemos <b>a</b> en a táboa seguinte :</em>
 * <em>os</em>
-  * [DET]() 2686: <em>PP. , sen embargo <b>os</b> resultados que presentamos en a táboa 7 contradín esta conclusión .</em>
-  * [PRON]() 93: <em>En este plan os galegos en Cataluña abondaría me <b>os</b> para acabar nós soíños con o problema demográfico de Galicia .</em>
+  * [DET]() 2117: <em>PP. , sen embargo <b>os</b> resultados que presentamos en a táboa 7 contradín esta conclusión .</em>
+  * [PRON]() 82: <em>En este plan os galegos en Cataluña abondaría me <b>os</b> para acabar nós soíños con o problema demográfico de Galicia .</em>
 * <em>as</em>
-  * [DET]() 1881: <em>O mecanismo empregado consistiu en seleccionar <b>as</b> cinco CC .</em>
-  * [PRON]() 27: <em>Tamén hai casos en os que <b>as</b> fixan como unha mensualidade de o salario real e en outros convenios indica se unha contía en a táboa salarial .</em>
+  * [DET]() 1446: <em>Para conseguir o , temos que reconsiderar o noso modo de vida , xa que cada acción ten <b>as</b> súas consecuencias globais .</em>
+  * [PRON]() 18: <em>Tamén hai casos en os que <b>as</b> fixan como unha mensualidade de o salario real e en outros convenios indica se unha contía en a táboa salarial .</em>
 * <em>un</em>
-  * [DET]() 1008: <em>Hai que definir sistemas por os que quede constancia de as opinións enfrontadas se non se pode chegar a <b>un</b> consenso razoable .</em>
-  * [PRON]() 25: <em>Cada <b>un</b> destes tres piares , por a súa vez , desprega se en outros piares de detalle , como se indica a continuación :</em>
+  * [DET]() 808: <em>Hai que definir sistemas por os que quede constancia de as opinións enfrontadas se non se pode chegar a <b>un</b> consenso razoable .</em>
+  * [PRON]() 20: <em>Cada <b>un</b> destes tres piares , por a súa vez , desprega se en outros piares de detalle , como se indica a continuación :</em>
 * <em>unha</em>
-  * [DET]() 935: <em>AA . , producindo se de novo <b>unha</b> certa converxencia a partir de o ano 1992 .</em>
-  * [PRON]() 16: <em>Por o tanto , <b>unha</b> de as características que debe cumprir un bo imposto subcentral é que a difusión de a súa incidencia fiscal estea amplamente estendida .</em>
+  * [DET]() 735: <em>E agora retomamos a pregunta de o principio : son nova e teño <b>unha</b> idea ¿ e agora que ?</em>
+  * [PRON]() 13: <em>O modelo utilizado é o seguinte : X = FA+U , onde X é unha matriz que ten por columnas as variables e por filas os valores de as variables en cada <b>unha</b> de as comarcas .</em>
 * <em>esta</em>
-  * [DET]() 240: <em>PP. , sen embargo os resultados que presentamos en a táboa 7 contradín <b>esta</b> conclusión .</em>
+  * [DET]() 185: <em>PP. , sen embargo os resultados que presentamos en a táboa 7 contradín <b>esta</b> conclusión .</em>
   * [PRON]() 1: <em>Esta participación ten carácter salarial e complementa a remuneración que , de similar natureza , estableza a normativa laboral aplicable , a non ser que <b>esta</b> sexa inferior e , en este caso , substituirá a .</em>
 * <em>mesmo</em>
-  * [DET]() 84: <em>En a poboación española 22 tamén está a acme en ese <b>mesmo</b> grupo de idade pero máis alto ca o galego ( 51,2 % ) .</em>
-  * [ADV]() 52: <em>Así <b>mesmo</b> , serán publicados en o " Boletín Oficial de el Estado " .</em>
-* <em>aqueles</em>
-  * [DET]() 51: <em>A maioría de os cambios lingüísticos dan se entre os menores de 65 anos , e entre <b>aqueles</b> con estudos universitarios ou secundarios .</em>
-  * [PRON]() 1: <em>Entre eles temos : ~ Postos de hospital de día : consideran se como tales <b>aqueles</b> destinados a a atención de pacientes de xeito simultáneo en a área de hospital de día ( tanto os terapéuticos , como os de convalecencia )</em>
+  * [DET]() 70: <em>En a poboación española 22 tamén está a acme en ese <b>mesmo</b> grupo de idade pero máis alto ca o galego ( 51,2 % ) .</em>
+  * [ADV]() 37: <em>Así <b>mesmo</b> , serán publicados en o " Boletín Oficial de el Estado " .</em>
 * <em>propia</em>
-  * [DET]() 19: <em>Como saber que é o que realmente hai que manter , apoiar ou preservar de a <b>propia</b> diversidade cultural local ?</em>
-  * [ADJ]() 11: <em>En contraste , quen traballa por conta <b>propia</b> en Galicia padece unha maior incidencia de a pobreza , especialmente quen non conta con persoal asalariado .</em>
+  * [DET]() 16: <em>Como saber que é o que realmente hai que manter , apoiar ou preservar de a <b>propia</b> diversidade cultural local ?</em>
+  * [ADJ]() 10: <em>En contraste , quen traballa por conta <b>propia</b> en Galicia padece unha maior incidencia de a pobreza , especialmente quen non conta con persoal asalariado .</em>
+* <em>propio</em>
+  * [DET]() 10: <em>A situación cambiará cando , como parece , a oferta de a Rede vaia asociada a a oferta televisiva e se utilice como pantalla de servicio a de o <b>propio</b> televisor .</em>
+  * [ADJ]() 5: <em>Para que a relación sexa perfecta , as AAPP non deben maximizar a súa utilidade ou beneficio <b>propio</b> , senón o benestar social ( Oliva J. et al . , 2004 ) .</em>
 
 ## Morphology
 
-The form / lemma ratio of `DET` is 2.965517 (the average of all parts of speech is 1.518322).
+The form / lemma ratio of `DET` is 2.931034 (the average of all parts of speech is 1.508250).
 
 The 1st highest number of forms (4) was observed with the lemma “algún”: <em>algunha, algunhas, algún, algúns</em>.
 
@@ -58,28 +58,34 @@ The 2nd highest number of forms (4) was observed with the lemma “aquel”: <em
 
 The 3rd highest number of forms (4) was observed with the lemma “certo”: <em>certa, certas, certo, certos</em>.
 
-`DET` does not occur with any features.
+`DET` occurs with 1 features: [gl-feat/Foreign]() (1; 0% instances)
+
+`DET` occurs with 1 feature-value pairs: `Foreign=Yes`
+
+`DET` occurs with 2 feature combinations.
+The most frequent feature combination is `_` (18867 tokens).
+Examples: <em>o, a, os, as, un, unha, súa, este, esta, seu</em>
 
 
 ## Relations
 
-`DET` nodes are attached to their parents using 16 different relations: [gl-dep/det]() (23730; 99% instances), [gl-dep/nsubj]() (42; 0% instances), [gl-dep/dep]() (33; 0% instances), [gl-dep/amod]() (23; 0% instances), [gl-dep/nmod]() (17; 0% instances), [gl-dep/advmod]() (16; 0% instances), [gl-dep/dobj]() (15; 0% instances), [gl-dep/ccomp]() (7; 0% instances), [gl-dep/cop]() (6; 0% instances), [gl-dep/aux]() (5; 0% instances), [gl-dep/punct]() (4; 0% instances), [gl-dep/mark]() (3; 0% instances), [gl-dep/cc]() (2; 0% instances), [gl-dep/case]() (1; 0% instances), [gl-dep/foreign]() (1; 0% instances), [gl-dep/root]() (1; 0% instances)
+`DET` nodes are attached to their parents using 17 different relations: [gl-dep/det]() (18732; 99% instances), [gl-dep/nsubj]() (29; 0% instances), [gl-dep/dep]() (24; 0% instances), [gl-dep/amod]() (17; 0% instances), [gl-dep/obj]() (14; 0% instances), [gl-dep/advmod]() (12; 0% instances), [gl-dep/ccomp]() (8; 0% instances), [gl-dep/nmod]() (8; 0% instances), [gl-dep/obl]() (6; 0% instances), [gl-dep/aux]() (4; 0% instances), [gl-dep/xcomp]() (4; 0% instances), [gl-dep/punct]() (3; 0% instances), [gl-dep/cc]() (2; 0% instances), [gl-dep/mark]() (2; 0% instances), [gl-dep/case]() (1; 0% instances), [gl-dep/flat]() (1; 0% instances), [gl-dep/root]() (1; 0% instances)
 
-Parents of `DET` nodes belong to 14 different parts of speech: [NOUN]() (20516; 86% instances), [VERB]() (798; 3% instances), [NUM]() (542; 2% instances), [DET]() (503; 2% instances), [ADJ]() (436; 2% instances), [PROPN]() (404; 2% instances), [ADP]() (326; 1% instances), [PRON]() (312; 1% instances), [ADV]() (45; 0% instances), [PUNCT]() (14; 0% instances), [SCONJ]() (6; 0% instances), [INTJ]() (2; 0% instances), [PART]() (1; 0% instances), [ROOT]() (1; 0% instances)
+Parents of `DET` nodes belong to 13 different parts of speech: [NOUN]() (16260; 86% instances), [VERB]() (614; 3% instances), [NUM]() (454; 2% instances), [DET]() (405; 2% instances), [ADJ]() (372; 2% instances), [PROPN]() (303; 2% instances), [PRON]() (251; 1% instances), [ADP]() (162; 1% instances), [ADV]() (39; 0% instances), [SCONJ]() (5; 0% instances), [INTJ]() (1; 0% instances), [PART]() (1; 0% instances), [ROOT]() (1; 0% instances)
 
-23181 (97%) `DET` nodes are leaves.
+18258 (97%) `DET` nodes are leaves.
 
-678 (3%) `DET` nodes have one child.
+540 (3%) `DET` nodes have one child.
 
-42 (0%) `DET` nodes have two children.
+59 (0%) `DET` nodes have two children.
 
-5 (0%) `DET` nodes have three or more children.
+11 (0%) `DET` nodes have three or more children.
 
-The highest child degree of a `DET` node is 4.
+The highest child degree of a `DET` node is 5.
 
-Children of `DET` nodes are attached using 12 different relations: [gl-dep/det]() (535; 69% instances), [gl-dep/nummod]() (101; 13% instances), [gl-dep/cc]() (38; 5% instances), [gl-dep/case]() (31; 4% instances), [gl-dep/advmod]() (21; 3% instances), [gl-dep/dep]() (18; 2% instances), [gl-dep/punct]() (14; 2% instances), [gl-dep/nmod]() (12; 2% instances), [gl-dep/dobj]() (4; 1% instances), [gl-dep/amod]() (2; 0% instances), [gl-dep/ccomp]() (1; 0% instances), [gl-dep/mark]() (1; 0% instances)
+Children of `DET` nodes are attached using 16 different relations: [gl-dep/det]() (435; 63% instances), [gl-dep/nummod]() (81; 12% instances), [gl-dep/case]() (43; 6% instances), [gl-dep/punct]() (36; 5% instances), [gl-dep/cc]() (32; 5% instances), [gl-dep/nmod]() (24; 3% instances), [gl-dep/advmod]() (17; 2% instances), [gl-dep/dep]() (17; 2% instances), [gl-dep/obj]() (3; 0% instances), [gl-dep/cop]() (2; 0% instances), [gl-dep/amod]() (1; 0% instances), [gl-dep/aux]() (1; 0% instances), [gl-dep/ccomp]() (1; 0% instances), [gl-dep/mark]() (1; 0% instances), [gl-dep/nsubj]() (1; 0% instances), [gl-dep/xcomp]() (1; 0% instances)
 
-Children of `DET` nodes belong to 12 different parts of speech: [DET]() (503; 65% instances), [NUM]() (129; 17% instances), [ADP]() (34; 4% instances), [CONJ]() (32; 4% instances), [ADV]() (27; 3% instances), [ADJ]() (21; 3% instances), [PUNCT]() (20; 3% instances), [PRON]() (8; 1% instances), [INTJ]() (1; 0% instances), [NOUN]() (1; 0% instances), [PART]() (1; 0% instances), [VERB]() (1; 0% instances)
+Children of `DET` nodes belong to 13 different parts of speech: [DET]() (405; 58% instances), [NUM]() (109; 16% instances), [ADP]() (45; 6% instances), [PUNCT]() (42; 6% instances), [CCONJ]() (28; 4% instances), [ADV]() (21; 3% instances), [ADJ]() (19; 3% instances), [NOUN]() (10; 1% instances), [PRON]() (8; 1% instances), [PROPN]() (3; 0% instances), [VERB]() (3; 0% instances), [AUX]() (2; 0% instances), [PART]() (1; 0% instances)
 
 
 
@@ -87,88 +93,88 @@ Children of `DET` nodes belong to 12 different parts of speech: [DET]() (503; 65
 
 ## Treebank Statistics (UD_Galician-TreeGal)
 
-There are 30 `DET` lemmas (1%), 87 `DET` types (2%) and 3978 `DET` tokens (16%).
-Out of 15 observed tags, the rank of `DET` is: 9 in number of lemmas, 7 in number of types and 2 in number of tokens.
+There are 32 `DET` lemmas (1%), 79 `DET` types (2%) and 2526 `DET` tokens (16%).
+Out of 16 observed tags, the rank of `DET` is: 8 in number of lemmas, 8 in number of types and 2 in number of tokens.
 
-The 10 most frequent `DET` lemmas: <em>o, un, seu, este, todo, outro, ese, noso, moito, mesmo</em>
+The 10 most frequent `DET` lemmas: <em>o, un, seu, este, todo, ese, outro, noso, moito, mesmo</em>
 
-The 10 most frequent `DET` types:  <em>o, a, os, as, un, unha, súa, seu, esta, lo</em>
+The 10 most frequent `DET` types:  <em>o, a, os, as, un, unha, súa, la, seu, lo</em>
 
-The 10 most frequent ambiguous lemmas: <em>o</em> ([DET]() 2885, [PRON]() 115), <em>un</em> ([DET]() 452, [PRON]() 26, [NUM]() 11), <em>seu</em> ([DET]() 175, [PRON]() 2), <em>este</em> ([DET]() 101, [PRON]() 29), <em>todo</em> ([DET]() 61, [PRON]() 22), <em>outro</em> ([DET]() 55, [PRON]() 20), <em>ese</em> ([DET]() 44, [PRON]() 24), <em>noso</em> ([DET]() 31, [PRON]() 1), <em>moito</em> ([ADV]() 41, [DET]() 26, [PRON]() 7), <em>mesmo</em> ([DET]() 22, [ADV]() 11, [PRON]() 8)
+The 10 most frequent ambiguous lemmas: <em>o</em> ([DET]() 1844, [PRON]() 114), <em>un</em> ([DET]() 265, [PRON]() 17, [NUM]() 4), <em>este</em> ([DET]() 56, [PRON]() 22), <em>todo</em> ([DET]() 41, [PRON]() 15), <em>ese</em> ([DET]() 31, [PRON]() 14), <em>outro</em> ([DET]() 28, [PRON]() 9), <em>moito</em> ([ADV]() 31, [DET]() 17, [PRON]() 1), <em>mesmo</em> ([DET]() 14, [PRON]() 8, [ADV]() 5), <em>algún</em> ([PRON]() 12, [DET]() 11), <em>aquel</em> ([DET]() 8, [PRON]() 3)
 
-The 10 most frequent ambiguous types:  <em>o</em> ([DET]() 1094, [PRON]() 42), <em>a</em> ([DET]() 1035, [ADP]() 400, [PRON]() 23), <em>os</em> ([DET]() 384, [PRON]() 9), <em>as</em> ([DET]() 274, [PRON]() 8), <em>un</em> ([DET]() 253, [PRON]() 15, [NUM]() 10), <em>unha</em> ([DET]() 179, [PRON]() 11, [NUM]() 1), <em>seu</em> ([DET]() 48, [PRON]() 2), <em>esta</em> ([DET]() 46, [PRON]() 4), <em>lo</em> ([DET]() 45, [PRON]() 20), <em>este</em> ([DET]() 37, [PRON]() 6)
+The 10 most frequent ambiguous types:  <em>o</em> ([DET]() 618, [PRON]() 53), <em>a</em> ([DET]() 612, [ADP]() 263, [PRON]() 12), <em>os</em> ([DET]() 215, [PRON]() 12), <em>as</em> ([DET]() 182, [PRON]() 8), <em>un</em> ([DET]() 149, [PRON]() 8, [NUM]() 3), <em>unha</em> ([DET]() 95, [PRON]() 7, [NUM]() 1), <em>lo</em> ([DET]() 26, [PRON]() 12), <em>esta</em> ([DET]() 23, [PRON]() 3), <em>este</em> ([DET]() 22, [PRON]() 3), <em>todo</em> ([DET]() 16, [PRON]() 9)
 
 
 * <em>o</em>
-  * [DET]() 1094: <em>Amenábar pertence a <b>o</b> grupo .</em>
-  * [PRON]() 42: <em>un de eles é <b>o</b> de Celulosas .</em>
+  * [DET]() 618: <em>Europeizar <b>o</b> horario de traballo</em>
+  * [PRON]() 53: <em>Dicía Jean Cocteau que a moda é <b>o</b> que pasa de moda .</em>
 * <em>a</em>
-  * [DET]() 1035: <em>sempre se pode deixar o coche en o garaxe de <b>a</b> casa e patear as rúas .</em>
-  * [ADP]() 400: <em>Amenábar pertence <b>a</b> o grupo .</em>
-  * [PRON]() 23: <em>se cando <b>a</b> paso a a guitarra , esa obra perde non <b>a</b> fago .</em>
+  * [DET]() 612: <em>" Temos <b>a</b> xornada laboral máis longa de Europa .</em>
+  * [ADP]() 263: <em>E segue o seu baduar <b>a</b> o chou :</em>
+  * [PRON]() 12: <em>A mesma que hai catro anos e que <b>a</b> de Abel Caballero hai oito :</em>
 * <em>os</em>
-  * [DET]() 384: <em>diálogo a_través_de <b>os</b> medios</em>
-  * [PRON]() 9: <em>tamén <b>os</b> de a OTAN .</em>
+  * [DET]() 215: <em>Pero non todos <b>os</b> socialistas están de acordo con esta estratexia .</em>
+  * [PRON]() 12: <em>Asombran <b>os</b> que apenas chegaron e xa construíron un mundo tan propio , tan lúcido e tan vigoroso .</em>
 * <em>as</em>
-  * [DET]() 274: <em>sempre se pode deixar o coche en o garaxe de a casa e patear <b>as</b> rúas .</em>
-  * [PRON]() 8: <em>nin tampouco relacionar a súa proposta con <b>as</b> de Euskadi e Cataluña , que por_moito_que sexan diferentes forman parte de a mesma e inseparábel conxuntura política .</em>
+  * [DET]() 182: <em>A <b>as</b> cinco remata se de traballar " .</em>
+  * [PRON]() 8: <em>Nin tampouco relacionar a súa proposta con <b>as</b> de Euskadi e Cataluña , que por moito que sexan diferentes forman parte de a mesma e inseparábel conxuntura política .</em>
 * <em>un</em>
-  * [DET]() 253: <em>discutir que é <b>un</b> clásico .</em>
-  * [PRON]() 15: <em><b>un</b> de eles é o de Celulosas .</em>
-  * [NUM]() 10: <em>menos que agora , se é <b>un</b> cuarto de hora para un recado rápido .</em>
+  * [DET]() 149: <em>Entrou como <b>un</b> canón con Tesis .</em>
+  * [PRON]() 8: <em>Ese foi <b>un</b> de os temas que máis discutimos en a Asamblea Constituínte .</em>
+  * [NUM]() 3: <em>Menos que agora , se é <b>un</b> cuarto de hora para un recado rápido .</em>
 * <em>unha</em>
-  * [DET]() 179: <em>Walesa critica <b>unha</b> emisora católica</em>
-  * [PRON]() 11: <em>a familiaridade é <b>unha</b> de elas .</em>
-  * [NUM]() 1: <em>pero seguramente máis que agora , por <b>unha</b> hora ou máis .</em>
-* <em>seu</em>
-  * [DET]() 48: <em>o <b>seu</b> pai acompañou no en os primeiros pasos .</em>
-  * [PRON]() 2: <em>pero despois de situar un home <b>seu</b> a a fronte de a comarca pontevedresa , a dirección galega tomou lle medo e deixou de procurar terceiras vías .</em>
-* <em>esta</em>
-  * [DET]() 46: <em>como chegou vostede a interesar se por <b>esta</b> arte ?</em>
-  * [PRON]() 4: <em>concretamente en <b>esta</b> resulta dificil sinalar as máis salientábeis , as mellor configuradas .</em>
+  * [DET]() 95: <em>A a dereita , Lech Walesa en <b>unha</b> fotografía de 1999 .</em>
+  * [PRON]() 7: <em>A familiaridade é <b>unha</b> de elas .</em>
+  * [NUM]() 1: <em>Pero seguramente máis que agora , por <b>unha</b> hora ou máis .</em>
 * <em>lo</em>
-  * [DET]() 45: <em>falamos de algo moi particularmente xaponés ou que xa se estendeu por <b>lo</b> mundo ?</em>
-  * [PRON]() 20: <em>sigo a ser <b>lo</b> .</em>
+  * [DET]() 26: <em>Será a partir de o 1 de abril e non sen polémicas nin alegacións por <b>lo</b> medio .</em>
+  * [PRON]() 12: <em>Sigo a ser <b>lo</b> .</em>
+* <em>esta</em>
+  * [DET]() 23: <em>Pero non todos os socialistas están de acordo con <b>esta</b> estratexia .</em>
+  * [PRON]() 3: <em>Concretamente en <b>esta</b> resulta dificil sinalar as máis salientábeis , as mellor configuradas .</em>
 * <em>este</em>
-  * [DET]() 37: <em>é o indicador de entrada en <b>este</b> país .</em>
-  * [PRON]() 6: <em>o anterior expediente , o de 1999 , foi mellor ca <b>este</b> .</em>
+  * [DET]() 22: <em>É o indicador de entrada en <b>este</b> país .</em>
+  * [PRON]() 3: <em>O anterior expediente , o de 1999 , foi mellor ca <b>este</b> .</em>
+* <em>todo</em>
+  * [DET]() 16: <em>En <b>todo</b> caso , parece que se entende ben con os nacionalistas .</em>
+  * [PRON]() 9: <em>De todos modos , o meu público é , sobre <b>todo</b> , xuvenil .</em>
 
 ## Morphology
 
-The form / lemma ratio of `DET` is 2.900000 (the average of all parts of speech is 1.374140).
+The form / lemma ratio of `DET` is 2.468750 (the average of all parts of speech is 1.306739).
 
 The 1st highest number of forms (8) was observed with the lemma “o”: <em>a, as, la, las, lo, los, o, os</em>.
 
-The 2nd highest number of forms (5) was observed with the lemma “moito”: <em>moita, moitas, moito, moitos, moitísimas</em>.
+The 2nd highest number of forms (7) was observed with the lemma “ese”: <em>esa, esas, ese, eses, esta, estas, este</em>.
 
-The 3rd highest number of forms (5) was observed with the lemma “seu”: <em>seu, seus, sua, súa, súas</em>.
+The 3rd highest number of forms (4) was observed with the lemma “algún”: <em>algunha, algunhas, algún, algúns</em>.
 
-`DET` occurs with 7 features: [gl-feat/Gender]() (3978; 100% instances), [gl-feat/Number]() (3978; 100% instances), [gl-feat/PronType]() (3762; 95% instances), [gl-feat/Definite]() (3337; 84% instances), [gl-feat/Number[psor]]() (217; 5% instances), [gl-feat/Person]() (217; 5% instances), [gl-feat/Poss]() (217; 5% instances)
+`DET` occurs with 7 features: [gl-feat/PronType]() (2526; 100% instances), [gl-feat/Gender]() (2521; 100% instances), [gl-feat/Number]() (2521; 100% instances), [gl-feat/Definite]() (2109; 83% instances), [gl-feat/Number[psor]]() (144; 6% instances), [gl-feat/Person]() (144; 6% instances), [gl-feat/Poss]() (144; 6% instances)
 
 `DET` occurs with 17 feature-value pairs: `Definite=Def`, `Definite=Ind`, `Gender=Fem`, `Gender=Masc`, `Number=Plur`, `Number=Sing`, `Number[psor]=Plur`, `Number[psor]=Sing`, `Person=1`, `Person=3`, `Poss=Yes`, `PronType=Art`, `PronType=Dem`, `PronType=Ind`, `PronType=Int`, `PronType=Prs`, `PronType=Rel`
 
 `DET` occurs with 37 feature combinations.
-The most frequent feature combination is `Definite=Def|Gender=Masc|Number=Sing|PronType=Art` (1140 tokens).
-Examples: <em>o, lo, os</em>
+The most frequent feature combination is `Definite=Def|Gender=Fem|Number=Sing|PronType=Art` (702 tokens).
+Examples: <em>a, la</em>
 
 
 ## Relations
 
-`DET` nodes are attached to their parents using 7 different relations: [gl-dep/det]() (3968; 100% instances), [gl-dep/nmod]() (3; 0% instances), [gl-dep/dep]() (2; 0% instances), [gl-dep/nummod]() (2; 0% instances), [gl-dep/conj]() (1; 0% instances), [gl-dep/iobj]() (1; 0% instances), [gl-dep/mark]() (1; 0% instances)
+`DET` nodes are attached to their parents using 9 different relations: [gl-dep/det]() (2506; 99% instances), [gl-dep/fixed]() (13; 1% instances), [gl-dep/amod]() (1; 0% instances), [gl-dep/conj]() (1; 0% instances), [gl-dep/iobj]() (1; 0% instances), [gl-dep/nmod]() (1; 0% instances), [gl-dep/nsubj]() (1; 0% instances), [gl-dep/nummod]() (1; 0% instances), [gl-dep/obl]() (1; 0% instances)
 
-Parents of `DET` nodes belong to 8 different parts of speech: [NOUN]() (3328; 84% instances), [PROPN]() (364; 9% instances), [PRON]() (165; 4% instances), [ADJ]() (61; 2% instances), [NUM]() (37; 1% instances), [VERB]() (21; 1% instances), [ADV]() (1; 0% instances), [SYM]() (1; 0% instances)
+Parents of `DET` nodes belong to 10 different parts of speech: [NOUN]() (2065; 82% instances), [PROPN]() (296; 12% instances), [PRON]() (64; 3% instances), [ADJ]() (44; 2% instances), [NUM]() (26; 1% instances), [VERB]() (15; 1% instances), [ADP]() (12; 0% instances), [DET]() (2; 0% instances), [INTJ]() (1; 0% instances), [SYM]() (1; 0% instances)
 
-3958 (99%) `DET` nodes are leaves.
+2496 (99%) `DET` nodes are leaves.
 
-13 (0%) `DET` nodes have one child.
+24 (1%) `DET` nodes have one child.
 
-6 (0%) `DET` nodes have two children.
+4 (0%) `DET` nodes have two children.
 
-1 (0%) `DET` nodes have three or more children.
+2 (0%) `DET` nodes have three or more children.
 
 The highest child degree of a `DET` node is 3.
 
-Children of `DET` nodes are attached using 8 different relations: [gl-dep/case]() (12; 43% instances), [gl-dep/advmod]() (4; 14% instances), [gl-dep/nmod]() (3; 11% instances), [gl-dep/acl]() (2; 7% instances), [gl-dep/cc]() (2; 7% instances), [gl-dep/conj]() (2; 7% instances), [gl-dep/neg]() (2; 7% instances), [gl-dep/punct]() (1; 4% instances)
+Children of `DET` nodes are attached using 11 different relations: [gl-dep/punct]() (8; 21% instances), [gl-dep/advmod]() (6; 16% instances), [gl-dep/nmod]() (6; 16% instances), [gl-dep/case]() (5; 13% instances), [gl-dep/conj]() (4; 11% instances), [gl-dep/cc]() (3; 8% instances), [gl-dep/det]() (2; 5% instances), [gl-dep/acl]() (1; 3% instances), [gl-dep/advcl]() (1; 3% instances), [gl-dep/fixed]() (1; 3% instances), [gl-dep/nsubj]() (1; 3% instances)
 
-Children of `DET` nodes belong to 8 different parts of speech: [ADP]() (12; 43% instances), [ADV]() (6; 21% instances), [NOUN]() (3; 11% instances), [CONJ]() (2; 7% instances), [VERB]() (2; 7% instances), [ADJ]() (1; 4% instances), [PROPN]() (1; 4% instances), [PUNCT]() (1; 4% instances)
+Children of `DET` nodes belong to 10 different parts of speech: [PUNCT]() (8; 21% instances), [ADV]() (6; 16% instances), [ADP]() (5; 13% instances), [PROPN]() (5; 13% instances), [NOUN]() (4; 11% instances), [CCONJ]() (3; 8% instances), [DET]() (2; 5% instances), [PRON]() (2; 5% instances), [VERB]() (2; 5% instances), [ADJ]() (1; 3% instances)
 

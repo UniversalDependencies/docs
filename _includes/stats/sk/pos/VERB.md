@@ -4,87 +4,85 @@
 
 ## Treebank Statistics (UD_Slovak)
 
-There are 3674 `VERB` lemmas (24%), 7104 `VERB` types (27%) and 16847 `VERB` tokens (16%).
-Out of 15 observed tags, the rank of `VERB` is: 2 in number of lemmas, 2 in number of types and 3 in number of tokens.
+There are 2470 `VERB` lemmas (19%), 5677 `VERB` types (24%) and 12871 `VERB` tokens (14%).
+Out of 17 observed tags, the rank of `VERB` is: 3 in number of lemmas, 2 in number of types and 3 in number of tokens.
 
-The 10 most frequent `VERB` lemmas: <em>byť, mať, povedať, môcť, nebyť, ísť, chcieť, musieť, vedieť, prísť</em>
+The 10 most frequent `VERB` lemmas: <em>mať, byť, povedať, môcť, vedieť, chcieť, ísť, musieť, prísť, stať</em>
 
-The 10 most frequent `VERB` types:  <em>je, bol, bola, bolo, sú, mal, povedal, boli, povedala, má</em>
+The 10 most frequent `VERB` types:  <em>mal, povedal, je, povedala, má, mala, bol, bolo, bola, odvetil</em>
 
-The 10 most frequent ambiguous lemmas: <em>byť</em> ([AUX]() 1909, [VERB]() 1825), <em>nebyť</em> ([VERB]() 154, [AUX]() 18), <em>stať</em> ([VERB]() 102, [NOUN]() 2), <em>bývať</em> ([VERB]() 28, [AUX]() 1), <em>rozhodnúť</em> ([VERB]() 28, [PART]() 1), <em>báť</em> ([VERB]() 22, [NOUN]() 1), <em>sa</em> ([PRON]() 2619, [VERB]() 12, [AUX]() 5), <em>pripravený</em> ([VERB]() 10, [ADJ]() 1), <em>presvedčiť</em> ([VERB]() 9, [ADJ]() 1), <em>prosiť</em> ([VERB]() 9, [PART]() 1)
+The 10 most frequent ambiguous lemmas: <em>mať</em> ([VERB]() 496, [AUX]() 3), <em>byť</em> ([AUX]() 3201, [VERB]() 403), <em>stať</em> ([VERB]() 95, [NOUN]() 2), <em>báť</em> ([VERB]() 29, [NOUN]() 1), <em>rozhodnúť</em> ([VERB]() 21, [PART]() 1), <em>bývať</em> ([VERB]() 20, [AUX]() 9), <em>presvedčiť</em> ([VERB]() 10, [ADJ]() 1), <em>prosiť</em> ([VERB]() 9, [PART]() 1), <em>tušiť</em> ([VERB]() 7, [PART]() 2), <em>prijímať</em> ([VERB]() 5, [ADJ]() 2)
 
-The 10 most frequent ambiguous types:  <em>je</em> ([VERB]() 607, [AUX]() 10, [PRON]() 1), <em>bol</em> ([VERB]() 241, [AUX]() 16), <em>bola</em> ([VERB]() 159, [AUX]() 13), <em>bolo</em> ([VERB]() 128, [AUX]() 13), <em>sú</em> ([VERB]() 130, [AUX]() 10), <em>boli</em> ([VERB]() 91, [AUX]() 25), <em>byť</em> ([VERB]() 60, [AUX]() 2), <em>bude</em> ([AUX]() 75, [VERB]() 50), <em>som</em> ([AUX]() 1449, [VERB]() 40), <em>si</em> ([PRON]() 399, [AUX]() 32, [VERB]() 27)
+The 10 most frequent ambiguous types:  <em>je</em> ([AUX]() 404, [VERB]() 101), <em>má</em> ([VERB]() 55, [AUX]() 1), <em>bol</em> ([AUX]() 179, [VERB]() 41), <em>bolo</em> ([AUX]() 83, [VERB]() 37), <em>bola</em> ([AUX]() 115, [VERB]() 31), <em>boli</em> ([AUX]() 73, [VERB]() 19), <em>majú</em> ([VERB]() 23, [AUX]() 1), <em>sú</em> ([AUX]() 84, [VERB]() 20), <em>som</em> ([AUX]() 1471, [VERB]() 15), <em>bude</em> ([AUX]() 109, [VERB]() 11)
 
 
 * <em>je</em>
-  * [VERB]() 607: <em>Hospodárstvo KĽDR <b>je</b> na kolenách a deti hladujú .</em>
-  * [AUX]() 10: <em>Táto fyzikálna konštanta <b>je</b> označovaná písmenom c .</em>
-  * [PRON]() 1: <em>Alebo sa kosatky rozhodnú oddeliť pár a obklopiť mladú veľrybu , poprípade zabrániť <b>je</b> v návrate na povrch mora a v nadýchnutí .</em>
+  * [AUX]() 404: <em>Prvou Kimovou zástavkou <b>je</b> centrum čínskeho biznisu - Šanghaj .</em>
+  * [VERB]() 101: <em>Hospodárstvo KĽDR <b>je</b> na kolenách a deti hladujú .</em>
+* <em>má</em>
+  * [VERB]() 55: <em>" New Jersey <b>má</b> úžasný tím .</em>
+  * [AUX]() 1: <em>Telo <b>má</b> zdravé a silné .</em>
 * <em>bol</em>
-  * [VERB]() 241: <em>Mahmúd <b>bol</b> výborným kaligrafom a básnikom , písal pod pseudonymom Adli .</em>
-  * [AUX]() 16: <em>V starorímskej mytológii <b>bol</b> stotožňovaný s bohom Merkúrom .</em>
-* <em>bola</em>
-  * [VERB]() 159: <em>Jeho počiatočná pozícia pri nástupe k moci <b>bola</b> mimoriadne slabá .</em>
-  * [AUX]() 13: <em>Táto správa <b>bola</b> už niekoľkokrát vedecky vyvrátená .</em>
+  * [AUX]() 179: <em>Mahmúd <b>bol</b> výborným kaligrafom a básnikom , písal pod pseudonymom Adli .</em>
+  * [VERB]() 41: <em>Od roku 1748 <b>bol</b> Matej Bel na dôchodku .</em>
 * <em>bolo</em>
-  * [VERB]() 128: <em>Podľa Mahmúda <b>bolo</b> na jar 1826 grécke povstanie na konci .</em>
-  * [AUX]() 13: <em>V pakte medzi Hitlerom a Stalinom <b>bolo</b> Fínsko pridelené do sféry ZSSR .</em>
-* <em>sú</em>
-  * [VERB]() 130: <em>Tu <b>sú</b> obžalovacie spisy , tu <b>sú</b> zatykače .</em>
-  * [AUX]() 10: <em>Od roku 1994 <b>sú</b> Züdelove názory propagované aj na Internete .</em>
+  * [AUX]() 83: <em>Dielo <b>bolo</b> úspešne sfilmované .</em>
+  * [VERB]() 37: <em>Podľa Mahmúda <b>bolo</b> na jar 1826 grécke povstanie na konci .</em>
+* <em>bola</em>
+  * [AUX]() 115: <em>Jeho počiatočná pozícia pri nástupe k moci <b>bola</b> mimoriadne slabá .</em>
+  * [VERB]() 31: <em>Rozbujnená vegetácia na mieste , kde pred rokmi <b>bola</b> udržiavaná záhrada ?</em>
 * <em>boli</em>
-  * [VERB]() 91: <em>Traja ďalší ortodoxní biskupi <b>boli</b> tiež popravení .</em>
-  * [AUX]() 25: <em>Egyptské vojská <b>boli</b> vzápätí evakuované z Anatólie a kríza sa skončila .</em>
-* <em>byť</em>
-  * [VERB]() 60: <em>Väčšina zdrojov však uvádza , že by mal <b>byť</b> v Šanghaji .</em>
-  * [AUX]() 2: <em>musí <b>byť</b> dôsledne uplatňované</em>
-* <em>bude</em>
-  * [AUX]() 75: <em>Napokon sa rozhodol , že ich <b>bude</b> nasledovať .</em>
-  * [VERB]() 50: <em>Ak spln pripadá na nedeľu , Veľká noc <b>bude</b> až nasledujúcu nedeľu .</em>
+  * [AUX]() 73: <em>Traja ďalší ortodoxní biskupi <b>boli</b> tiež popravení .</em>
+  * [VERB]() 19: <em>Shepherdovci bývali v luxusnej štvrti , kde <b>boli</b> samé honosné domy .</em>
+* <em>majú</em>
+  * [VERB]() 23: <em>Židia <b>majú</b> Mojžiša a kresťania Ježiša .</em>
+  * [AUX]() 1: <em>Pre vašu informáciu , deti v tom <b>majú</b> jasno .</em>
+* <em>sú</em>
+  * [AUX]() 84: <em>Po Silvestri <b>sú</b> zničení aj ľudia , aj zvieratá</em>
+  * [VERB]() 20: <em>Tu <b>sú</b> obžalovacie spisy , tu <b>sú</b> zatykače .</em>
 * <em>som</em>
-  * [AUX]() 1449: <em>„ Prestal <b>som</b> piť v roku 1986 a odvtedy <b>som</b> nevypil ani kvapku ” .</em>
-  * [VERB]() 40: <em>“ Na tú <b>som</b> alergický , “ zastonal Wayne .</em>
-* <em>si</em>
-  * [PRON]() 399: <em>Kardinálov <b>si</b> starostlivo vyberal .</em>
-  * [AUX]() 32: <em>“ Našla <b>si</b> ju ? “ spýtal sa Chris .</em>
-  * [VERB]() 27: <em>“ Viem , <b>si</b> o tom presvedčená , “ povedala mama .</em>
+  * [AUX]() 1471: <em>„ Prestal <b>som</b> piť v roku 1986 a odvtedy <b>som</b> nevypil ani kvapku ” .</em>
+  * [VERB]() 15: <em>O chvíľu <b>som</b> späť . “</em>
+* <em>bude</em>
+  * [AUX]() 109: <em>Večer <b>bude</b> Lauren Bacall uvádzať film Hlboký spánok .</em>
+  * [VERB]() 11: <em>“ Hneď to <b>bude</b> , “ odvetil .</em>
 
 ## Morphology
 
-The form / lemma ratio of `VERB` is 1.933587 (the average of all parts of speech is 1.755167).
+The form / lemma ratio of `VERB` is 2.298381 (the average of all parts of speech is 1.776807).
 
-The 1st highest number of forms (25) was observed with the lemma “byť”: <em>Buďme, Nebuď, Nebyť, bol, bola, boli, bolo, bude, budem, budeme, budete, budeš, budú, buďte, byť, je, nebol, nebola, nebudem, nebudú, si, sme, som, ste, sú</em>.
+The 1st highest number of forms (28) was observed with the lemma “ísť”: <em>Choď, Nejdem, Nejdeme, Nešlo, Poďte, Pôjdu, ide, idem, ideme, ideš, idú, išiel, išla, išli, išlo, nejde, nepôjdem, nepôjdeš, nepôjdu, nešiel, poď, poďme, pôjde, pôjdem, pôjdeme, ísť, šiel, šlo</em>.
 
-The 2nd highest number of forms (22) was observed with the lemma “ísť”: <em>Choď, Nejdem, Nejdeme, Poďte, Pôjdu, ide, idem, ideme, ideš, idú, išiel, išla, išli, išlo, poď, poďme, pôjde, pôjdem, pôjdeme, ísť, šiel, šlo</em>.
+The 2nd highest number of forms (24) was observed with the lemma “byť”: <em>bol, bola, boli, bolo, bude, budem, budeš, budú, byť, je, nebol, nebola, neboli, nebolo, nebude, nebudeme, nebudú, nebyť, niet, si, sme, som, ste, sú</em>.
 
-The 3rd highest number of forms (17) was observed with the lemma “môcť”: <em>Nemôžeš, mohla, mohli, mohlo, mohol, môcť, môže, môžem, môžeme, môžete, môžeš, môžme, môžu, nemohla, nemohol, nemôže, nemôžete</em>.
+The 3rd highest number of forms (22) was observed with the lemma “mať”: <em>Maj, Nemaj, majú, mal, mala, mali, malo, mať, má, mám, máme, máte, máš, nemajú, nemal, nemala, nemali, nemalo, nemá, nemám, nemáme, nemáš</em>.
 
-`VERB` occurs with 13 features: [sk-feat/VerbForm]() (16845; 100% instances), [sk-feat/Aspect]() (15650; 93% instances), [sk-feat/Negative]() (15650; 93% instances), [sk-feat/Number]() (15509; 92% instances), [sk-feat/Person]() (14312; 85% instances), [sk-feat/Tense]() (14035; 83% instances), [sk-feat/Gender]() (10851; 64% instances), [sk-feat/Animacy]() (5995; 36% instances), [sk-feat/Mood]() (4345; 26% instances), [sk-feat/Case]() (1197; 7% instances), [sk-feat/Degree]() (1197; 7% instances), [sk-feat/Voice]() (1197; 7% instances), [sk-feat/Typo]() (36; 0% instances)
+`VERB` occurs with 13 features: [sk-feat/Polarity]() (12871; 100% instances), [sk-feat/VerbForm]() (12870; 100% instances), [sk-feat/Aspect]() (12860; 100% instances), [sk-feat/Number]() (11710; 91% instances), [sk-feat/Person]() (11699; 91% instances), [sk-feat/Tense]() (11431; 89% instances), [sk-feat/Gender]() (8295; 64% instances), [sk-feat/Animacy]() (4629; 36% instances), [sk-feat/Mood]() (3127; 24% instances), [sk-feat/Typo]() (24; 0% instances), [sk-feat/Case]() (11; 0% instances), [sk-feat/Degree]() (11; 0% instances), [sk-feat/Voice]() (11; 0% instances)
 
-`VERB` occurs with 36 feature-value pairs: `Animacy=Anim`, `Animacy=Inan`, `Aspect=Imp`, `Aspect=Imp,Perf`, `Aspect=Perf`, `Case=Acc`, `Case=Dat`, `Case=Gen`, `Case=Ins`, `Case=Loc`, `Case=Nom`, `Degree=Cmp`, `Degree=Pos`, `Degree=Sup`, `Gender=Fem`, `Gender=Masc`, `Gender=Neut`, `Mood=Imp`, `Mood=Ind`, `Negative=Neg`, `Negative=Pos`, `Number=Plur`, `Number=Sing`, `Person=1`, `Person=2`, `Person=3`, `Tense=Fut`, `Tense=Past`, `Tense=Pres`, `Typo=Yes`, `VerbForm=Fin`, `VerbForm=Inf`, `VerbForm=Part`, `VerbForm=Trans`, `Voice=Act`, `Voice=Pass`
+`VERB` occurs with 28 feature-value pairs: `Animacy=Anim`, `Animacy=Inan`, `Aspect=Imp`, `Aspect=Imp,Perf`, `Aspect=Perf`, `Case=Nom`, `Degree=Pos`, `Gender=Fem`, `Gender=Masc`, `Gender=Neut`, `Mood=Imp`, `Mood=Ind`, `Number=Plur`, `Number=Sing`, `Person=1`, `Person=2`, `Person=3`, `Polarity=Neg`, `Polarity=Pos`, `Tense=Fut`, `Tense=Past`, `Tense=Pres`, `Typo=Yes`, `VerbForm=Conv`, `VerbForm=Fin`, `VerbForm=Inf`, `VerbForm=Part`, `Voice=Pass`
 
-`VERB` occurs with 278 feature combinations.
-The most frequent feature combination is `Animacy=Anim|Aspect=Perf|Gender=Masc|Negative=Pos|Number=Sing|Person=3|Tense=Past|VerbForm=Part` (1822 tokens).
-Examples: <em>povedal, odvetil, spýtal, stal, zvolal, začal, zdvihol, zomrel, prišiel, dostal</em>
+`VERB` occurs with 180 feature combinations.
+The most frequent feature combination is `Animacy=Anim|Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbForm=Part` (1628 tokens).
+Examples: <em>povedal, odvetil, spýtal, zvolal, zdvihol, stal, usmial, začal, pozrel, prišiel</em>
 
 
 ## Relations
 
-`VERB` nodes are attached to their parents using 14 different relations: [sk-dep/root]() (8417; 50% instances), [sk-dep/conj]() (1943; 12% instances), [sk-dep/acl]() (1712; 10% instances), [sk-dep/cop]() (1586; 9% instances), [sk-dep/ccomp]() (1091; 6% instances), [sk-dep/xcomp]() (999; 6% instances), [sk-dep/advcl]() (804; 5% instances), [sk-dep/csubj]() (151; 1% instances), [sk-dep/parataxis]() (56; 0% instances), [sk-dep/dep]() (53; 0% instances), [sk-dep/csubjpass]() (18; 0% instances), [sk-dep/appos]() (11; 0% instances), [sk-dep/compound]() (5; 0% instances), [sk-dep/cc]() (1; 0% instances)
+`VERB` nodes are attached to their parents using 13 different relations: [sk-dep/root]() (7485; 58% instances), [sk-dep/conj]() (1737; 13% instances), [sk-dep/ccomp]() (1030; 8% instances), [sk-dep/xcomp]() (869; 7% instances), [sk-dep/acl]() (776; 6% instances), [sk-dep/advcl]() (737; 6% instances), [sk-dep/csubj]() (122; 1% instances), [sk-dep/dep]() (43; 0% instances), [sk-dep/parataxis]() (43; 0% instances), [sk-dep/appos]() (10; 0% instances), [sk-dep/csubj:pass]() (10; 0% instances), [sk-dep/compound]() (5; 0% instances), [sk-dep/orphan]() (4; 0% instances)
 
-Parents of `VERB` nodes belong to 12 different parts of speech: [ROOT]() (8417; 50% instances), [VERB]() (4933; 29% instances), [NOUN]() (2337; 14% instances), [ADJ]() (706; 4% instances), [PRON]() (204; 1% instances), [PROPN]() (124; 1% instances), [NUM]() (56; 0% instances), [ADV]() (32; 0% instances), [PART]() (20; 0% instances), [X]() (8; 0% instances), [INTJ]() (7; 0% instances), [CONJ]() (3; 0% instances)
+Parents of `VERB` nodes belong to 14 different parts of speech: [ROOT]() (7485; 58% instances), [VERB]() (4258; 33% instances), [NOUN]() (715; 6% instances), [ADJ]() (191; 1% instances), [DET]() (96; 1% instances), [PROPN]() (46; 0% instances), [PRON]() (24; 0% instances), [ADV]() (23; 0% instances), [PART]() (16; 0% instances), [INTJ]() (7; 0% instances), [X]() (5; 0% instances), [NUM]() (2; 0% instances), [SCONJ]() (2; 0% instances), [CCONJ]() (1; 0% instances)
 
-2369 (14%) `VERB` nodes are leaves.
+142 (1%) `VERB` nodes are leaves.
 
-1346 (8%) `VERB` nodes have one child.
+631 (5%) `VERB` nodes have one child.
 
-1921 (11%) `VERB` nodes have two children.
+1554 (12%) `VERB` nodes have two children.
 
-11211 (67%) `VERB` nodes have three or more children.
+10544 (82%) `VERB` nodes have three or more children.
 
-The highest child degree of a `VERB` node is 13.
+The highest child degree of a `VERB` node is 9.
 
-Children of `VERB` nodes are attached using 30 different relations: [sk-dep/punct]() (14428; 27% instances), [sk-dep/dobj]() (7176; 14% instances), [sk-dep/nmod]() (6295; 12% instances), [sk-dep/nsubj]() (6091; 11% instances), [sk-dep/advmod]() (3652; 7% instances), [sk-dep/expl]() (2615; 5% instances), [sk-dep/aux]() (2001; 4% instances), [sk-dep/conj]() (1998; 4% instances), [sk-dep/cc]() (1705; 3% instances), [sk-dep/mark]() (1580; 3% instances), [sk-dep/ccomp]() (1261; 2% instances), [sk-dep/xcomp]() (1055; 2% instances), [sk-dep/iobj]() (956; 2% instances), [sk-dep/advcl]() (776; 1% instances), [sk-dep/dep]() (352; 1% instances), [sk-dep/auxpass:reflex]() (221; 0% instances), [sk-dep/nsubjpass]() (220; 0% instances), [sk-dep/cop]() (196; 0% instances), [sk-dep/auxpass]() (102; 0% instances), [sk-dep/csubj]() (80; 0% instances), [sk-dep/advmod:emph]() (75; 0% instances), [sk-dep/parataxis]() (55; 0% instances), [sk-dep/discourse]() (39; 0% instances), [sk-dep/vocative]() (28; 0% instances), [sk-dep/csubjpass]() (21; 0% instances), [sk-dep/neg]() (19; 0% instances), [sk-dep/compound]() (5; 0% instances), [sk-dep/appos]() (3; 0% instances), [sk-dep/amod]() (1; 0% instances), [sk-dep/nummod]() (1; 0% instances)
+Children of `VERB` nodes are attached using 26 different relations: [sk-dep/punct]() (12992; 28% instances), [sk-dep/obj]() (6318; 14% instances), [sk-dep/nsubj]() (5279; 11% instances), [sk-dep/obl]() (4682; 10% instances), [sk-dep/advmod]() (3751; 8% instances), [sk-dep/expl:pv]() (2355; 5% instances), [sk-dep/aux]() (1958; 4% instances), [sk-dep/conj]() (1728; 4% instances), [sk-dep/cc]() (1548; 3% instances), [sk-dep/mark]() (1421; 3% instances), [sk-dep/ccomp]() (1201; 3% instances), [sk-dep/xcomp]() (951; 2% instances), [sk-dep/iobj]() (882; 2% instances), [sk-dep/advcl]() (694; 1% instances), [sk-dep/dep]() (341; 1% instances), [sk-dep/expl:pass]() (194; 0% instances), [sk-dep/nsubj:pass]() (119; 0% instances), [sk-dep/csubj]() (67; 0% instances), [sk-dep/advmod:emph]() (63; 0% instances), [sk-dep/parataxis]() (46; 0% instances), [sk-dep/discourse]() (38; 0% instances), [sk-dep/vocative]() (28; 0% instances), [sk-dep/csubj:pass]() (12; 0% instances), [sk-dep/cop]() (7; 0% instances), [sk-dep/compound]() (5; 0% instances), [sk-dep/appos]() (3; 0% instances)
 
-Children of `VERB` nodes belong to 15 different parts of speech: [PUNCT]() (14428; 27% instances), [NOUN]() (12847; 24% instances), [PRON]() (8451; 16% instances), [VERB]() (4933; 9% instances), [CONJ]() (3268; 6% instances), [ADV]() (2814; 5% instances), [PROPN]() (2591; 5% instances), [AUX]() (2089; 4% instances), [PART]() (823; 2% instances), [NUM]() (347; 1% instances), [ADJ]() (299; 1% instances), [X]() (83; 0% instances), [INTJ]() (27; 0% instances), [ADP]() (6; 0% instances), [SYM]() (1; 0% instances)
+Children of `VERB` nodes belong to 16 different parts of speech: [PUNCT]() (12992; 28% instances), [NOUN]() (10785; 23% instances), [PRON]() (5763; 12% instances), [VERB]() (4258; 9% instances), [ADV]() (3236; 7% instances), [PROPN]() (2211; 5% instances), [AUX]() (1951; 4% instances), [CCONJ]() (1611; 3% instances), [SCONJ]() (1309; 3% instances), [DET]() (1187; 3% instances), [PART]() (751; 2% instances), [ADJ]() (352; 1% instances), [NUM]() (192; 0% instances), [X]() (56; 0% instances), [INTJ]() (27; 0% instances), [ADP]() (2; 0% instances)
 

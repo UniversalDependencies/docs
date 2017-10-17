@@ -2,6 +2,7 @@
 layout: relation
 title: 'list'
 shortdef: 'list'
+udver: '2'
 ---
 
 The `list` relation is used for chains of comparable items. It is not currently attested in the Swedish treebank.
@@ -12,7 +13,7 @@ In lists with more than two items, all items of the list shoud modify the first 
 
 ~~~ sdparse
 Steve Jones Mobil: 555-9814 Mejl: jones@abc.edf
-name(Steve-1, Jones-2)
+flat:name(Steve-1, Jones-2)
 list(Steve-1, Mobil:-3)
 list(Steve-1, Mejl:-5)
 appos(Mobil:-3, 555-9814-4)

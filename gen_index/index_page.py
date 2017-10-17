@@ -27,6 +27,8 @@ import re
 import codecs
 import StringIO
 
+SUBSET_ALL, SUBSET_NONEMPTY, SUBSET_EMPTY = range(3)
+
 no_data_token_count_span="""<span class="widespan" style="color:gray"><span class="hint--top hint--info" data-hint="No corpus data">-</span></span>"""
 token_count_span="""<span class="widespan"><span class="hint--top hint--info" data-hint="{token_count:,} tokens {word_count:,} words {tree_count:,} sentences">{tcountk}K</span></span>"""
 def get_token_count_span(corpus_data):
@@ -74,7 +76,8 @@ categories={(u"Documentation status",u"stub"):"""<span class="widespan" style="c
             (u"Data available since",u"UD v1.2"):"""<span class="widespan"><span class="hint--top hint--info" data-hint="First released in UD version 1.2 (November 2015)"><i class="fa fa-check"></i></span></span>""",
             (u"Data available since",u"UD v1.3"):"""<span class="widespan"><span class="hint--top hint--info" data-hint="First released in UD version 1.3 (May 2016)"><i class="fa fa-check"></i></span></span>""",
             (u"Data available since",u"UD v1.4"):"""<span class="widespan"><span class="hint--top hint--info" data-hint="First released in UD version 1.4 (November 2016)"><i class="fa fa-check"></i></span></span>""",
-            (u"Data available since",u"UD v2.0"):"""<span class="widespan"><span class="hint--top hint--info" data-hint="Scheduled for release in UD version 2.0 (spring 2017)"><i class="fa fa-hourglass-end"></i></span></span>""",
+            (u"Data available since",u"UD v2.0"):"""<span class="widespan"><span class="hint--top hint--info" data-hint="First released in UD version 2.0 (March 2017)"><i class="fa fa-check"></i></span></span>""",
+            (u"Data available since",u"UD v2.1"):"""<span class="widespan"><span class="hint--top hint--info" data-hint="Scheduled for release in UD version 2.1 (November 2017)"><i class="fa fa-hourglass-end"></i></span></span>""",
             (u"Data available since",u"none"):"""<span class="widespan"><span class="hint--top hint--info" data-hint="No firm schedule for data release">-</span></span>"""}
 
 empty_wide_span="""<span class="widespan"><span class="hint--top hint--info" data-hint="{hint:}">?</span></span>"""
@@ -86,6 +89,8 @@ def get_license_span(lic):
         return license_span.format(license=lic,licenseshort="""<img class="license" src="logos/by-sa.svg"/>""")
     elif "CC BY" in lic:
         return license_span.format(license=lic,licenseshort="""<img class="license" src="logos/by.svg"/>""")
+    elif "LGPLLR" in lic:
+        return license_span.format(license=lic,licenseshort="""<img class="license" src="logos/LGPLLR.svg"/>""")
     elif "GPL" in lic:
         return license_span.format(license=lic,licenseshort="""<img class="license" src="logos/gpl.svg"/>""")
     else:
@@ -139,8 +144,14 @@ def get_genre_span(genres):
     return """<span class="doublewidespan"><span class="hint--top hint--info" data-hint="%s">%s</span></span>"""%(genres,spans)
 
 
+def is_empty(args, lang, corpus_data):
+    # readme_data = analyze_readme(os.path.join(args.ud_data, "UD_"+lang))
+    # no_docs = "No documentation" in readme_data["Documentation status"]
+    # no_data = corpus_data.get("token_count", 0) == 0
+    #return no_data and no_docs
+    return corpus_data.get("token_count", 0) == 0
 
-def gen_table(args):
+def gen_table(args, subset=SUBSET_NONEMPTY):
 
     jekyll_data=[] #this will go to jekyll then as data
 
@@ -152,25 +163,33 @@ def gen_table(args):
     for l in langs:
         with open(os.path.join("_corpus_data",l+".json"),"r") as f:
             corpus_data=json.load(f)
+
         corpus_data[u"lang_code"]=lcodes[l]
         corpus_data[u"lang_name"]=l
         corpus_data[u"langfam_code"]=lcodes[l].split("_")[0]
         corpus_data[u"langfam_name"]=l.split("-")[0]
-        print >> a_data, '<div data-lc="%s">' % lcodes[l]
-        print >> a_data, get_flag_span(l)
-        print >> a_data, get_language_span(l)
-        print >> a_data, get_token_count_span(corpus_data)
-        print >> a_data, get_column_icons(corpus_data)
+
         readme_data=analyze_readme(os.path.join(args.ud_data,"UD_"+l))
-        print >> sys.stderr, l
-        for c in (u"Documentation status", u"Data source", u"Data available since"):
-            print >> a_data, categories.get((c,readme_data[c]),empty_wide_span.format(hint=readme_data[c]))
-        print >> a_data, get_license_span(readme_data[u"License"])
-        print >> a_data, get_genre_span(readme_data["Genre"])
-        print >> a_data, "</div>"
-        print >> a_data, "<div>"
-        print >> a_data, link_template.format(**corpus_data)
-        print >> a_data, "</div>"
+
+        empty = is_empty(args, l, corpus_data)
+        if ((empty and subset == SUBSET_NONEMPTY) or
+            (not empty and subset == SUBSET_EMPTY)):
+            pass    # Don't write table for this dataset
+        else:
+            print >> a_data, '<div data-lc="%s">' % lcodes[l]
+            print >> a_data, get_flag_span(l)
+            print >> a_data, get_language_span(l)
+            print >> a_data, get_token_count_span(corpus_data)
+            print >> a_data, get_column_icons(corpus_data)
+            print >> sys.stderr, l
+            for c in (u"Documentation status", u"Data source", u"Data available since"):
+                print >> a_data, categories.get((c,readme_data[c]),empty_wide_span.format(hint=readme_data[c]))
+            print >> a_data, get_license_span(readme_data[u"License"])
+            print >> a_data, get_genre_span(readme_data["Genre"])
+            print >> a_data, "</div>"
+            print >> a_data, "<div>"
+            print >> a_data, link_template.format(**corpus_data)
+            print >> a_data, "</div>"
 
         ldict={}
         ldict[u"lang_name"]=corpus_data[u"lang_name"]
@@ -192,9 +211,12 @@ if __name__=="__main__":
     parser = argparse.ArgumentParser(description='generates the index page')
     parser.add_argument('--ud-data', required=True, help='Where is the UD data, so I can grab the readmes? (DIRECTORY)')
     parser.add_argument('--ldict', default="../_data/ldata.json", help='Where to write the language dict file? (Default %(default)s)')
+    parser.add_argument('--empty', default=False, action='store_true', help='Generate for empty treebanks')
     args = parser.parse_args()
 
-    a_data,ldict=gen_table(args)
+    subset = SUBSET_NONEMPTY if not args.empty else SUBSET_EMPTY
+
+    a_data,ldict=gen_table(args, subset)
     print a_data.getvalue()
     if args.ldict:
         with open(args.ldict,"w") as out:

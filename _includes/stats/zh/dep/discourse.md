@@ -6,12 +6,12 @@
 
 This relation is universal.
 
-195 nodes (0%) are attached to their parents as `discourse`.
+180 nodes (0%) are attached to their parents as `discourse`.
 
-194 instances of `discourse` (99%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.01025641025641.
+179 instances of `discourse` (99%) are left-to-right (parent precedes child).
+Average distance between parent and child is 3.93888888888889.
 
-The following 6 pairs of parts of speech are connected with `discourse`: [zh-pos/VERB]()-[zh-pos/X]() (148; 76% instances), [zh-pos/ADJ]()-[zh-pos/X]() (36; 18% instances), [zh-pos/NOUN]()-[zh-pos/X]() (7; 4% instances), [zh-pos/PART]()-[zh-pos/X]() (2; 1% instances), [zh-pos/PRON]()-[zh-pos/X]() (1; 1% instances), [zh-pos/VERB]()-[zh-pos/VERB]() (1; 1% instances).
+The following 6 pairs of parts of speech are connected with `discourse`: [zh-pos/VERB]()-[zh-pos/X]() (136; 76% instances), [zh-pos/ADJ]()-[zh-pos/X]() (34; 19% instances), [zh-pos/NOUN]()-[zh-pos/X]() (6; 3% instances), [zh-pos/PART]()-[zh-pos/X]() (2; 1% instances), [zh-pos/PRON]()-[zh-pos/X]() (1; 1% instances), [zh-pos/VERB]()-[zh-pos/VERB]() (1; 1% instances).
 
 
 ~~~ conllu
@@ -20,23 +20,23 @@ The following 6 pairs of parts of speech are connected with `discourse`: [zh-pos
 # visual-style 9	bgColor:blue
 # visual-style 9	fgColor:white
 # visual-style 9 15 discourse	color:blue
-1	但是	_	ADV	RB	_	9	mark	_	_
-2	迪士尼	_	PROPN	NNP	_	5	det	_	_
-3	的	_	PART	DEC	Case=Gen	2	case:dec	_	_
-4	公主	_	NOUN	NN	_	5	case:suff	_	_
-5	們	_	PART	SFN	Number=Plur	9	nsubj	_	_
-6	不會	_	AUX	MD	_	9	aux	_	_
-7	都	_	ADV	RB	_	9	mark	_	_
-8	太	_	ADV	RB	_	9	advmod	_	_
-9	侷限	_	VERB	VV	_	0	root	_	_
-10	於	_	VERB	VV	_	9	mark	_	_
-11	一	_	NUM	CD	_	12	nummod	_	_
-12	個	_	NOUN	NNB	_	13	nmod	_	_
-13	範圍	_	NOUN	NN	_	9	dobj	_	_
-14	之內	_	ADP	IN	_	13	acl	_	_
-15	了	_	X	UH	_	9	discourse	_	_
-16	嗎	_	X	UH	Mood=Inter	9	discourse	_	_
-17	?	_	PUNCT	.	_	9	punct	_	_
+1	但是	但是	ADV	RB	_	9	mark	_	SpaceAfter=No
+2	迪士尼	迪士尼	PROPN	NNP	_	5	det	_	SpaceAfter=No
+3	的	的	PART	DEC	Case=Gen	2	case:dec	_	SpaceAfter=No
+4	公主	公主	NOUN	NN	_	5	case:suff	_	SpaceAfter=No
+5	們	們	PART	SFN	Number=Plur	9	nsubj	_	SpaceAfter=No
+6	不會	不會	AUX	MD	_	9	aux	_	SpaceAfter=No
+7	都	都	ADV	RB	_	9	mark	_	SpaceAfter=No
+8	太	太	ADV	RB	_	9	advmod	_	SpaceAfter=No
+9	侷限	侷限	VERB	VV	_	0	root	_	SpaceAfter=No
+10	於	於	VERB	VV	_	9	mark	_	SpaceAfter=No
+11	一	一	NUM	CD	NumType=Card	12	nummod	_	SpaceAfter=No
+12	個	個	NOUN	NNB	_	13	clf	_	SpaceAfter=No
+13	範圍	範圍	NOUN	NN	_	9	obj	_	SpaceAfter=No
+14	之內	之內	ADP	IN	_	13	acl	_	SpaceAfter=No
+15	了	了	X	UH	_	9	discourse	_	SpaceAfter=No
+16	嗎	嗎	X	UH	Mood=Inter	9	discourse	_	SpaceAfter=No
+17	?	?	PUNCT	.	_	9	punct	_	SpaceAfter=No
 
 ~~~
 
@@ -47,30 +47,30 @@ The following 6 pairs of parts of speech are connected with `discourse`: [zh-pos
 # visual-style 21	bgColor:blue
 # visual-style 21	fgColor:white
 # visual-style 21 22 discourse	color:blue
-1	當	_	ADP	IN	_	6	case	_	_
-2	《	_	PUNCT	(	_	3	punct	_	_
-3	Game	_	X	FW	_	6	nsubj	_	_
-4	Informer	_	X	FW	_	3	foreign	_	_
-5	》	_	PUNCT	)	_	3	punct	_	_
-6	提到	_	VERB	VV	_	15	ccomp	_	_
-7	遊戲	_	NOUN	NN	_	8	nsubj	_	_
-8	在	_	VERB	VV	_	12	acl:relcl	_	_
-9	日本	_	PROPN	NNP	_	8	dobj	_	_
-10	的	_	PART	DEC	Case=Rel	8	acl:relcl	_	_
-11	知名	_	ADJ	JJ	_	12	case:suff	_	_
-12	度	_	PART	SFN	_	6	dobj	_	_
-13	時	_	ADP	IN	_	6	mark	_	_
-14	甚至	_	ADV	RB	_	15	mark	_	_
-15	說	_	VERB	VV	_	0	root	_	_
-16	「	_	PUNCT	``	_	19	punct	_	_
-17	四百萬	_	NUM	CD	_	19	nummod	_	_
-18	日本	_	PROPN	NNP	_	19	case:suff	_	_
-19	人	_	PART	SFN	_	21	nsubj	_	_
-20	可能	_	AUX	MD	_	21	aux	_	_
-21	錯	_	ADJ	JJ	_	15	ccomp	_	_
-22	了	_	X	UH	_	21	discourse	_	_
-23	」	_	PUNCT	''	_	21	punct	_	_
-24	.	_	PUNCT	.	_	15	punct	_	_
+1	當	當	ADP	IN	_	6	case	_	SpaceAfter=No
+2	《	《	PUNCT	(	_	3	punct	_	SpaceAfter=No
+3	Game	Game	X	FW	_	6	nsubj	_	_
+4	Informer	Informer	X	FW	_	3	flat:foreign	_	SpaceAfter=No
+5	》	》	PUNCT	)	_	3	punct	_	SpaceAfter=No
+6	提到	提到	VERB	VV	_	15	ccomp	_	SpaceAfter=No
+7	遊戲	遊戲	NOUN	NN	_	8	nsubj	_	SpaceAfter=No
+8	在	在	VERB	VV	_	12	acl:relcl	_	SpaceAfter=No
+9	日本	日本	PROPN	NNP	_	8	obj	_	SpaceAfter=No
+10	的	的	PART	DEC	_	8	mark:relcl	_	SpaceAfter=No
+11	知名	知名	ADJ	JJ	_	12	case:suff	_	SpaceAfter=No
+12	度	度	PART	SFN	_	6	obj	_	SpaceAfter=No
+13	時	時	ADP	IN	_	6	mark	_	SpaceAfter=No
+14	甚至	甚至	ADV	RB	_	15	mark	_	SpaceAfter=No
+15	說	說	VERB	VV	_	0	root	_	SpaceAfter=No
+16	「	「	PUNCT	``	_	19	punct	_	SpaceAfter=No
+17	四百萬	四百萬	NUM	CD	NumType=Card	19	nummod	_	SpaceAfter=No
+18	日本	日本	PROPN	NNP	_	19	case:suff	_	SpaceAfter=No
+19	人	人	PART	SFN	_	21	nsubj	_	SpaceAfter=No
+20	可能	可能	AUX	MD	_	21	aux	_	SpaceAfter=No
+21	錯	錯	ADJ	JJ	_	15	ccomp	_	SpaceAfter=No
+22	了	了	X	UH	_	21	discourse	_	SpaceAfter=No
+23	」	」	PUNCT	''	_	21	punct	_	SpaceAfter=No
+24	.	.	PUNCT	.	_	15	punct	_	SpaceAfter=No
 
 ~~~
 
@@ -81,32 +81,32 @@ The following 6 pairs of parts of speech are connected with `discourse`: [zh-pos
 # visual-style 18	bgColor:blue
 # visual-style 18	fgColor:white
 # visual-style 18 19 discourse	color:blue
-1	小風	_	PROPN	NNP	_	2	nsubj	_	_
-2	陷入	_	VERB	VV	_	10	dep	_	_
-3	了	_	PART	AS	Aspect=Perf	2	case:aspect	_	_
-4	沒有	_	VERB	VV	_	7	acl:relcl	_	_
-5	信心	_	NOUN	NN	_	4	dobj	_	_
-6	的	_	PART	DEC	Case=Rel	4	acl:relcl	_	_
-7	窘境	_	NOUN	NN	_	2	dobj	_	_
-8	,	_	PUNCT	,	_	10	punct	_	_
-9	阿一	_	PROPN	NNP	_	10	nsubj	_	_
-10	說	_	VERB	VV	_	0	root	_	_
-11	:	_	PUNCT	:	_	10	punct	_	_
-12	「	_	PUNCT	``	_	25	punct	_	_
-13	那	_	PRON	PRD	_	18	nsubj	_	_
-14	也是	_	VERB	VC	_	18	cop	_	_
-15	你	_	PRON	PRP	Person=2	18	det	_	_
-16	的	_	PART	DEC	Case=Gen	15	case:dec	_	_
-17	一	_	NUM	CD	_	18	nummod	_	_
-18	部份	_	NOUN	NN	_	25	dep	_	_
-19	呀	_	X	UH	_	18	discourse	_	_
-20	,	_	PUNCT	,	_	25	punct	_	_
-21	所以	_	ADV	RB	_	25	mark	_	_
-22	,	_	PUNCT	,	_	25	punct	_	_
-23	我	_	PRON	PRP	Person=1	25	nsubj	_	_
-24	願意	_	AUX	MD	_	25	aux	_	_
-25	接受	_	VERB	VV	_	10	dobj	_	_
-26	」	_	PUNCT	''	_	25	punct	_	_
+1	小風	小風	PROPN	NNP	_	2	nsubj	_	SpaceAfter=No
+2	陷入	陷入	VERB	VV	_	10	dep	_	SpaceAfter=No
+3	了	了	PART	AS	Aspect=Perf	2	case:aspect	_	SpaceAfter=No
+4	沒有	沒有	VERB	VV	_	7	acl:relcl	_	SpaceAfter=No
+5	信心	信心	NOUN	NN	_	4	obj	_	SpaceAfter=No
+6	的	的	PART	DEC	_	4	mark:relcl	_	SpaceAfter=No
+7	窘境	窘境	NOUN	NN	_	2	obj	_	SpaceAfter=No
+8	,	,	PUNCT	,	_	10	punct	_	SpaceAfter=No
+9	阿一	阿一	PROPN	NNP	_	10	nsubj	_	SpaceAfter=No
+10	說	說	VERB	VV	_	0	root	_	SpaceAfter=No
+11	:	:	PUNCT	:	_	10	punct	_	SpaceAfter=No
+12	「	「	PUNCT	``	_	25	punct	_	SpaceAfter=No
+13	那	那	PRON	PRD	_	18	nsubj	_	SpaceAfter=No
+14	也是	也是	AUX	VC	_	18	cop	_	SpaceAfter=No
+15	你	你	PRON	PRP	Person=2	18	det	_	SpaceAfter=No
+16	的	的	PART	DEC	Case=Gen	15	case:dec	_	SpaceAfter=No
+17	一	一	NUM	CD	NumType=Card	18	nummod	_	SpaceAfter=No
+18	部份	部份	NOUN	NN	_	25	dep	_	SpaceAfter=No
+19	呀	呀	X	UH	_	18	discourse	_	SpaceAfter=No
+20	,	,	PUNCT	,	_	25	punct	_	SpaceAfter=No
+21	所以	所以	ADV	RB	_	25	mark	_	SpaceAfter=No
+22	,	,	PUNCT	,	_	25	punct	_	SpaceAfter=No
+23	我	我	PRON	PRP	Person=1	25	nsubj	_	SpaceAfter=No
+24	願意	願意	AUX	MD	_	25	aux	_	SpaceAfter=No
+25	接受	接受	VERB	VV	_	10	obj	_	SpaceAfter=No
+26	」	」	PUNCT	''	_	25	punct	_	SpaceAfter=No
 
 ~~~
 

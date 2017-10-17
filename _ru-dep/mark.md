@@ -16,9 +16,9 @@ mark(speak, that)
 ~~~ sdparse
 Мы отправим товар , как только на наш счет поступят деньги . \n We will-dispatch goods , as soon-as at our account arrive money .
 mark(поступят, как)
-mwe(как, только)
+fixed(как, только)
 mark(arrive, as)
-mwe(as, soon-as)
+fixed(as, soon-as)
 ~~~
 
 Note that the subordinating conjunction should not be confused with relative pronouns and adverbs.

@@ -5,6 +5,7 @@
 ## Treebank Statistics (UD_Sanskrit)
 
 This relation is universal.
+There are 1 language-specific subtypes of `nsubj`: [nsubj:pass]().
 
 178 nodes (15%) are attached to their parents as `nsubj`.
 
@@ -20,10 +21,10 @@ The following 13 pairs of parts of speech are connected with `nsubj`: [sa-pos/VE
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 3 nsubj	color:blue
-1	क्षत्रियस्य	क्षत्रिय	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	5	nmod	_	Translit=kṣatriyasya|LTranslit=kṣatriya
+1	क्षत्रियस्य	क्षत्रिय	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	5	obl	_	Translit=kṣatriyasya|LTranslit=kṣatriya
 2	तिस्रः	त्रि	NUM	_	Case=Nom|Gender=Fem|Number=Plur|NumType=Card	3	nummod	_	Translit=tisraḥ|LTranslit=tri
 3	भार्या	बार्या	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	5	nsubj	_	Translit=bhāryā|LTranslit=bāryā
-4	धर्मम्	धर्म	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	5	dobj	_	Translit=dharmam|LTranslit=dharma
+4	धर्मम्	धर्म	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	5	obj	_	Translit=dharmam|LTranslit=dharma
 5	भवन्ति	भू	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Translit=bhavanti|LTranslit=bhū
 
 ~~~
@@ -50,7 +51,7 @@ The following 13 pairs of parts of speech are connected with `nsubj`: [sa-pos/VE
 # visual-style 4 2 nsubj	color:blue
 1	ततः	ततस्	ADV	_	_	4	advmod	_	Translit=tataḥ|LTranslit=tatas
 2	रथकारः	रथकार	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	Translit=rathakāraḥ|LTranslit=rathakāra
-3	तम्	तद्	PRON	_	Case=Acc|Gender=Masc|Number=Sing|PronType=Dem	4	dobj	_	Translit=tam|LTranslit=tad
+3	तम्	तद्	PRON	_	Case=Acc|Gender=Masc|Number=Sing|PronType=Dem	4	obj	_	Translit=tam|LTranslit=tad
 4	आह	अह्	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|VerbForm=Fin|Voice=Act	0	root	_	Translit=āha|LTranslit=ah
 
 ~~~

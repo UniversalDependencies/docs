@@ -4,5 +4,11 @@ title: 'advmod'
 shortdef: 'adverbial modifier'
 ---
 
-This document is a placeholder for the language-specific documentation
-for `advmod`.
+An adverbial modiﬁer of a word is a (non-clausal) adverb or adverbial phrase (ADVP) that serves to modify the meaning of the word.
+
+<pre><code class="language-sdparse">Cô ấy đẹp quá 。
+advmod(đẹp, quá)
+det:pmod(Cô, ấy)
+nsubj(đẹp, Cô)
+punct(đẹp, 。)
+</code></pre>

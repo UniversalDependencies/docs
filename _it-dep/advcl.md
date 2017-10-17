@@ -4,34 +4,34 @@ title: 'advcl'
 shortdef: 'adverbial clause modifier'
 ---
 
-An adverbial clause modifier is a clause which modifies a verb or other predicate (adjective, etc.), as a modifier not as a core complement. This includes things such as a temporal clause, consequence, conditional clause, purpose clause, etc. The dependent must be clausal (or else it is an advmod) and the dependent is the main predicate of the clause.
+An adverbial clause modifier is a clause which modifies a verb or other predicate (adjective, etc.), as a modifier, not as a core complement. This includes things such as a temporal clause, consequence, conditional clause, purpose clause, etc. The dependent must be clausal (otherwise it is an <code>advmod</code>) and the dependent is the main predicate of the clause (a verbal predicate or a noun if the verb is omitted).
 
-`advcl` cover the following typology of cases:
+`advcl` covers the following typology of cases:
 
 * participial modifiers
 
 ~~~ sdparse
-Muore folgorata sotto la doccia
+Muore folgorata/VERB[VerbForm=Part] sotto la doccia
 advcl(Muore, folgorata)
 ~~~
 
 * finite clausal modifiers
 
 ~~~ sdparse
-Quando lui muore l' azienda sbanda paurosamente
-advcl(muore, sbanda)
+Quando lui muore/VERB[VerbForm=Fin] l' azienda sbanda paurosamente
+advcl(sbanda, muore)
 ~~~
 
 * infinitival modifiers
 
 ~~~ sdparse
-Mi fecero pagare gli hezbollah per liberare due ostaggi
+Mi fecero pagare gli hezbollah per liberare/VERB[VerbForm=Inf] due ostaggi
 advcl(pagare, liberare)
 ~~~
 
 * gerundival modifiers
 
 ~~~ sdparse
-risolvere i problemi di approvvigionamento alimentare acquistando una fazenda
+risolvere i problemi di approvvigionamento alimentare acquistando/VERB[VerbForm=Ger] una fazenda
 advcl(risolvere, acquistando)
 ~~~

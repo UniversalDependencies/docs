@@ -25,7 +25,7 @@ are written in lowercase and are not tagged `PROPN`.
 
 Personal names are typically treated as a sequence of proper nouns
 (one or more given names and one or more surnames).
-If the name contains prepositions, conjunctions or articles (foreign names), these are tagged as `ADP`, `CONJ` and `DET`,
+If the name contains prepositions, conjunctions or articles (foreign names), these are tagged as `ADP`, `CCONJ` and `DET`,
 respectively.
 
 Russian (and other Slavic) multi-word named entities have internal syntactic

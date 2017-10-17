@@ -17,12 +17,12 @@ The 10 most frequent ambiguous types:  <em>8'4</em> ([X]() 1, [NUM]() 1)
 
 
 * <em>8'4</em>
-  * [X]() 1: <em>Malgrat que en la passada Setmana Santa no es va produir cap incident , la demanda de el servei va superar en un <b>8'4</b> % la que es va registrar en el mateix període de l' any anterior .</em>
-  * [NUM]() 1: <em>Les previsions situen la demanda de viatgers en els 19'4 milions anuals , que variaria entre els <b>8'4</b> milions de viatgers de el primer any a els 21 milions per a el quinzè any de funcionament .</em>
+  * [X]() 1: <em>Malgrat que en la passada Setmana Santa no es va produir cap incident , la demanda del servei va superar en un <b>8'4</b> % la que es va registrar en el mateix període de l' any anterior .</em>
+  * [NUM]() 1: <em>Les previsions situen la demanda de viatgers en els 19'4 milions anuals , que variaria entre els <b>8'4</b> milions de viatgers del primer any als 21 milions per al quinzè any de funcionament .</em>
 
 ## Morphology
 
-The form / lemma ratio of `X` is 1.000000 (the average of all parts of speech is 1.413295).
+The form / lemma ratio of `X` is 1.000000 (the average of all parts of speech is 1.417161).
 
 The 1st highest number of forms (1) was observed with the lemma “1'2”: <em>1'2</em>.
 
@@ -47,9 +47,9 @@ Parents of `X` nodes belong to 3 different parts of speech: [NOUN]() (7; 64% ins
 
 10 (91%) `X` nodes have three or more children.
 
-The highest child degree of a `X` node is 8.
+The highest child degree of a `X` node is 6.
 
-Children of `X` nodes are attached using 8 different relations: [ca-dep/nmod]() (26; 62% instances), [ca-dep/case]() (8; 19% instances), [ca-dep/det]() (2; 5% instances), [ca-dep/punct]() (2; 5% instances), [ca-dep/advmod]() (1; 2% instances), [ca-dep/amod]() (1; 2% instances), [ca-dep/cc]() (1; 2% instances), [ca-dep/conj]() (1; 2% instances)
+Children of `X` nodes are attached using 7 different relations: [ca-dep/nmod]() (26; 65% instances), [ca-dep/case]() (8; 20% instances), [ca-dep/det]() (2; 5% instances), [ca-dep/advmod]() (1; 3% instances), [ca-dep/amod]() (1; 3% instances), [ca-dep/conj]() (1; 3% instances), [ca-dep/punct]() (1; 3% instances)
 
-Children of `X` nodes belong to 10 different parts of speech: [PRON]() (9; 21% instances), [SYM]() (9; 21% instances), [ADP]() (8; 19% instances), [NOUN]() (6; 14% instances), [NUM]() (3; 7% instances), [DET]() (2; 5% instances), [PUNCT]() (2; 5% instances), [ADJ]() (1; 2% instances), [ADV]() (1; 2% instances), [CONJ]() (1; 2% instances)
+Children of `X` nodes belong to 9 different parts of speech: [PRON]() (9; 23% instances), [SYM]() (9; 23% instances), [ADP]() (8; 20% instances), [NOUN]() (6; 15% instances), [NUM]() (3; 8% instances), [DET]() (2; 5% instances), [ADJ]() (1; 3% instances), [ADV]() (1; 3% instances), [PUNCT]() (1; 3% instances)
 
