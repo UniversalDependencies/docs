@@ -79,8 +79,3 @@ The data is released through LINDAT/CLARIN.
 * In general, we intend to have regular treebank releases every six months. The v2.0 release was brought forward because of its usage in the [CoNLL 2017 Multilingual Parsing Shared Task](http://universaldependencies.org/conll17/).
 * The next release (v2.1) is scheduled for Nov 15, 2017.
 
-
-# Language family documentation (experimental)
-
-* [Slavic language family documentation](slavic.html)
-* [Uralic language family documentation](uralic.html)
