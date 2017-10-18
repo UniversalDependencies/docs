@@ -65,6 +65,7 @@ is available [here](docsv1/index.html).
 
 <small>Disclaimer: Our use of flags to symbolise languages is only intended as a visual enhancement of the website and should not be interpreted as a political statement in any way.</small>
 
+<a name="download"></a>
 # Download
 
 The data is released through LINDAT/CLARIN.
