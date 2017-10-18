@@ -12,7 +12,7 @@ These pages do **not** have the status of guidelines, so proposals contained the
 ## 2015
 
 * [Issues](../issues.html) identified before the Uppsala meeting in August 2015
-* [Reports](/2015-08-23-uppsala/index.html)from the Uppsala meeting in August 2015
+* [Reports](/2015-08-23-uppsala/index.html) from the Uppsala meeting in August 2015
 
 ## 2016
 
@@ -28,4 +28,4 @@ These pages do **not** have the status of guidelines, so proposals contained the
 
 * [Report](http://universaldependencies.org/misc/brainstorming-pisa-09-18-2017.html) from brainstorming meeting 
   in Pisa in September 2017
-* [Working group pages](http://universaldependencies.org/workgroups/)
+* [Pages](http://universaldependencies.org/workgroups/) for active working groups
