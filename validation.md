@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-10-18T06:43:50Z">2017-10-18T06:43:50 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-10-18T06:47:13Z">2017-10-18T06:47:13 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -1212,8 +1212,8 @@ python tools/validate.py --lang fi_pud UD-dev-branches/UD_Finnish-PUD/fi_pud-ud-
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD French</span>
 <span class="widespan">fr</span>
-<span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-10-18T06:43:24Z">2017-10-18T06:43:24 zulu</time></span>
+<span class="validationpass">PASS</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-10-18T06:46:47Z">2017-10-18T06:46:47 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -1233,9 +1233,7 @@ python tools/validate.py --lang fr UD-dev-branches/UD_French/fr-ud-test.conllu
 
 python tools/validate.py --lang fr UD-dev-branches/UD_French/fr-ud-train.conllu
 
-[Line                   139641]: Unknown attribute-value pair VerbForm=Par
-*** FAILED *** with 1 errors
-Morpho errors: 1
+*** PASSED ***
 
 
 ******************
