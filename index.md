@@ -22,8 +22,7 @@ and an open community effort with over 200 contributors producing almost 100 tre
 If you want to receive news about Universal Dependencies, you can subscribe to the 
 [UD mailing list](http://stp.lingfil.uu.se/mailman/listinfo/ud).
 
-# UD Guidelines
-[Executive summary of changes from v1 to v2](v2/summary.html)
+## UD Guidelines
 
 * [Tokenization and word segmentation](u/overview/tokenization.html)
 * Morphology
@@ -48,16 +47,18 @@ If you want to receive news about Universal Dependencies, you can subscribe to t
 <small>
 This is the online documentation for Universal Dependencies, version 2 (2016-12-01).
 <strong><font color="red">Note:</font></strong> An archived version of the v1 guidelines
-is available [here](docsv1/index.html).
+is available [here](docsv1/index.html) and an executive summary of changes from v1 to v2 [here](v2/summary.html).
+
+
 </small>
 
-# UD Treebanks
+## UD Treebanks
 
 <div id="accordion" class="jquery-ui-accordion">
 {% include at_glance.html %}
 </div>
 
-<h2 style="margin-top: 15px">Upcoming UD Treebanks</h2>
+### Upcoming UD Treebanks
 
 <div id="accordion" class="jquery-ui-accordion">
 {% include at_glance_empty.html %}
