@@ -1625,9 +1625,9 @@ udver: '2'
 <h3>Auxiliary Verbs and Copula</h3>
 
 <ul>
-<li>This corpus uses 6 lemmas as copulas (cop): být, bývat, bývávat, moci, mít, stát.</li>
-<li>This corpus uses 2 lemmas as auxiliaries (aux): být, bývat.</li>
-<li>This corpus uses 2 lemmas as passive auxiliaries (aux:pass): být, bývat.</li>
+<li>This corpus uses 6 lemmas as copulas (<a>cop</a>): být, bývat, bývávat, moci, mít, stát.</li>
+<li>This corpus uses 2 lemmas as auxiliaries (<a>aux</a>): být, bývat.</li>
+<li>This corpus uses 2 lemmas as passive auxiliaries (<a>aux:pass</a>): být, bývat.</li>
 </ul>
 
   </td>
@@ -1637,9 +1637,9 @@ udver: '2'
 <h3>Auxiliary Verbs and Copula</h3>
 
 <ul>
-<li>This corpus uses 1 lemmas as copulas (cop): vara.</li>
-<li>This corpus uses 14 lemmas as auxiliaries (aux): behöva, bruka, böra, dra, få, ha, komma, kunna, lär, må, måste, skola, torde, vilja.</li>
-<li>This corpus uses 1 lemmas as passive auxiliaries (aux:pass): bli.</li>
+<li>This corpus uses 1 lemmas as copulas (<a>cop</a>): vara.</li>
+<li>This corpus uses 14 lemmas as auxiliaries (<a>aux</a>): behöva, bruka, böra, dra, få, ha, komma, kunna, lär, må, måste, skola, torde, vilja.</li>
+<li>This corpus uses 1 lemmas as passive auxiliaries (<a>aux:pass</a>): bli.</li>
 </ul>
 
   </td>
@@ -1650,7 +1650,7 @@ udver: '2'
 
 Here we consider only relations between verbs (parent) and nouns or pronouns (child).
 <ul>
-  <li>nsubj
+  <li><a>nsubj</a>
     <ul>
       <li>VERB-Conv--NOUN (1)</li>
       <li>VERB-Fin--NOUN (133)</li>
@@ -1707,7 +1707,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 
 Here we consider only relations between verbs (parent) and nouns or pronouns (child).
 <ul>
-  <li>nsubj
+  <li><a>nsubj</a>
     <ul>
       <li>VERB-Fin--NOUN (13)</li>
       <li>VERB-Fin--NOUN-Nom (2063)</li>
@@ -1731,7 +1731,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <tr>
   <td width="50%" valign="top">
 <ul>
-  <li>obj
+  <li><a>obj</a>
     <ul>
       <li>VERB-Conv--NOUN (1)</li>
       <li>VERB-Conv--NOUN-ADP(o) (1)</li>
@@ -1945,7 +1945,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
   </td>
   <td width="50%" valign="top">
 <ul>
-  <li>obj
+  <li><a>obj</a>
     <ul>
       <li>VERB-Fin--NOUN (34)</li>
       <li>VERB-Fin--NOUN-Acc (1)</li>
@@ -1973,7 +1973,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <tr>
   <td width="50%" valign="top">
 <ul>
-  <li>iobj
+  <li><a>iobj</a>
     <ul>
       <li>VERB-Conv--PRON-Dat (1)</li>
       <li>VERB-Fin--NOUN (3)</li>
@@ -2122,7 +2122,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
   </td>
   <td width="50%" valign="top">
 <ul>
-  <li>iobj
+  <li><a>iobj</a>
     <ul>
       <li>VERB-Fin--NOUN-Nom (26)</li>
       <li>VERB-Fin--PRON (1)</li>
@@ -2143,9 +2143,9 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus uses 10 relation subtypes: advmod:emph, aux:pass, csubj:pass, det:numgov, det:nummod, expl:pass, expl:pv, flat:foreign, nsubj:pass, nummod:gov</li>
-<li>The following 1 main types are not used alone, they are always subtyped: expl</li>
-<li>The following 5 relation types are not used in this corpus at all: dislocated, clf, list, goeswith, reparandum</li>
+<li>This corpus uses 10 relation subtypes: <a>advmod:emph</a>, <a>aux:pass</a>, <a>csubj:pass</a>, <a>det:numgov</a>, <a>det:nummod</a>, <a>expl:pass</a>, <a>expl:pv</a>, <a>flat:foreign</a>, <a>nsubj:pass</a>, <a>nummod:gov</a></li>
+<li>The following 1 main types are not used alone, they are always subtyped: <a>expl</a></li>
+<li>The following 5 relation types are not used in this corpus at all: <a>dislocated</a>, <a>clf</a>, <a>list</a>, <a>goeswith</a>, <a>reparandum</a></li>
 </ul>
 
   </td>
@@ -2153,9 +2153,9 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus uses 8 relation subtypes: acl:relcl, aux:pass, compound:prt, csubj:pass, flat:name, nmod:poss, nsubj:pass, obl:agent</li>
-<li>The following 1 main types are not used alone, they are always subtyped: flat</li>
-<li>The following 4 relation types are not used in this corpus at all: clf, goeswith, reparandum, dep</li>
+<li>This corpus uses 8 relation subtypes: <a>acl:relcl</a>, <a>aux:pass</a>, <a>compound:prt</a>, <a>csubj:pass</a>, <a>flat:name</a>, <a>nmod:poss</a>, <a>nsubj:pass</a>, <a>obl:agent</a></li>
+<li>The following 1 main types are not used alone, they are always subtyped: <a>flat</a></li>
+<li>The following 4 relation types are not used in this corpus at all: <a>clf</a>, <a>goeswith</a>, <a>reparandum</a>, <a>dep</a></li>
 </ul>
 
   </td>
