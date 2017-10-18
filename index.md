@@ -24,25 +24,24 @@ If you want to receive news about Universal Dependencies, you can subscribe to t
 
 ## UD Guidelines
 
-* [Tokenization and word segmentation](u/overview/tokenization.html)
-* Morphology
-  * [General principles](u/overview/morphology.html)
-  * [Universal POS tags](u/pos/index.html) ([single document](u/pos/all.html))
-  * [Universal features](u/feat/index.html) ([single document](u/feat/all.html))
-  * [Language-specific features](ext-feat-index.html)
-  * [Conversion from other tagsets](tagset-conversion/index.html)
-* Syntax
-  * [General principles](u/overview/syntax.html) (content words, function words, dependency relation taxonomy)
-  * Basic dependencies
-    * [Simple clauses](u/overview/simple-syntax.html)
-    * [Nominals](u/overview/nominal-syntax.html)
-    * [Complex clauses](u/overview/complex-syntax.html)
-    * [Other constructions](u/overview/specific-syntax.html) (coordination, ellipsis, MWEs, comparatives, parataxis, punctuation)
+* Basic principles
+  * [Tokenization and word segmentation](u/overview/tokenization.html)
+  * [Morphology](u/overview/morphology.html)
+  * [Syntax](u/overview/syntax.html)
   * [Enhanced dependencies](u/overview/enhanced-syntax.html)
-  * [Universal dependency relations](u/dep/index.html) ([single document](u/dep/all.html))
-  * [Language-specific relations](ext-dep-index.html)
-
-* [CoNLL-U format](format.html)
+  * [CoNLL-U format](format.html)
+* Annotation guidelines
+  * [Nominals](u/overview/nominal-syntax.html)
+  * [Simple clauses](u/overview/simple-syntax.html)
+  * [Complex clauses](u/overview/complex-syntax.html)
+  * [Other constructions](u/overview/specific-syntax.html) 
+* Documentation of tags, features and relations 
+  * [POS tags](u/pos/index.html) ([single document](u/pos/all.html))
+  * [Features](u/feat/index.html) ([single document](u/feat/all.html))
+    * [Language-specific features](ext-feat-index.html)
+  * [Conversion to UD tags and features](tagset-conversion/index.html)
+  * [Syntactic relations](u/dep/index.html) ([single document](u/dep/all.html))
+    * [Relation subtypes](ext-dep-index.html)
 
 <small>
 This is the online documentation of UD v2 (2016-12-01). For earlier versions,
