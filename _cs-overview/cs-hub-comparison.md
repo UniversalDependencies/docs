@@ -1,7 +1,6 @@
 ---
 layout: base
 title:  'Comparison of Treebank Statistics'
-permalink: cs/overview/cs-hub-comparison.html
 udver: '2'
 ---
 
@@ -47,8 +46,8 @@ udver: '2'
 <h2>Morphology</h2>
 
 <ul>
-<li>This corpus uses 17 UPOS tags out of 17 possible: ADJ, ADP, ADV, AUX, CCONJ, DET, INTJ, NOUN, NUM, PART, PRON, PROPN, PUNCT, SCONJ, SYM, VERB, X</li>
-<li>This corpus contains 82 word types tagged as particles (PART): Achtung, Bah, Bienvenue, CA, Což, Cožpak, Dobrá, L, Mnohem, Naneštěstí, Nejenomže, Nu, On, Please, Sic, So, Vot, Zaplaťpánbůh, ahoj, al, ano, anti, arciť, asi, at, ať, až, ba, bene, bohužel, by, bůhsuď, bůhví, ciao, co, copak, džambo, el, gala, hele, hop, ja, jen, jenom, jo, ka, kdoví, kéž, leda, li, n, natož, ne, nechť, nejen, netto, neřkuli, než, nie, no, non, not, nuže, off, oui, ovšem, ovšemže, pozor, právěže, prý, s, sbohem, sorry, t, takříkajíc, to, tož, viva, viďte, we, zaplaťpánbu, žel.</li>
+<li>This corpus uses 17 UPOS tags out of 17 possible: [ADJ](), [ADP](), [ADV](), [AUX](), [CCONJ](), [DET](), [INTJ](), [NOUN](), [NUM](), [PART](), [PRON](), [PROPN](), [PUNCT](), [SCONJ](), [SYM](), [VERB](), [X]()</li>
+<li>This corpus contains 82 word types tagged as particles (PART): Achtung, Bah, Bienvenue, CA, Což, Cožpak, Dobrá, L, Mnohem, Naneštěstí, Nejenomže, Nu, On, Please, Sic, So, Vot, Zaplaťpánbůh, ahoj, al, ano, anti, arciť, asi, at, ať, až, ba, bene, bohužel, by, bůhsuď, bůhví, ciao, co, copak, džambo, el, gala, hele, hop, ja, jen, jenom, jo, ka, kdoví, kéž, leda, li, n, natož, ne, nechť, nejen, netto, neřkuli, než, nie, no, non, not, nuže, off, oui, ovšem, ovšemže, pozor, právěže, prý, s, sbohem, sorry, t, takříkajíc, to, tož, viva, viďte, we, zaplaťpánbu, žel</li>
 <li>There are 4 (de)verbal forms:
 <ul>
   <li>Conv
@@ -84,9 +83,9 @@ udver: '2'
 <h2>Morphology</h2>
 
 <ul>
-<li>This corpus uses 16 UPOS tags out of 17 possible: ADJ, ADP, ADV, AUX, CCONJ, DET, INTJ, NOUN, NUM, PART, PRON, PROPN, PUNCT, SCONJ, SYM, VERB</li>
+<li>This corpus uses 16 UPOS tags out of 17 possible: [ADJ](), [ADP](), [ADV](), [AUX](), [CCONJ](), [DET](), [INTJ](), [NOUN](), [NUM](), [PART](), [PRON](), [PROPN](), [PUNCT](), [SCONJ](), [SYM](), [VERB]()</li>
 <li>This corpus does not use the following tags: X</li>
-<li>This corpus contains 1 word types tagged as particles (PART): att.</li>
+<li>This corpus contains 1 word types tagged as particles (PART): att</li>
 <li>There are 5 (de)verbal forms:
 <ul>
   <li>Fin
