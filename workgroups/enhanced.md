@@ -73,15 +73,15 @@ Those arriving early leave early
 nsubj(arriving, Those)
 ~~~
 
-For intransitive past participles, the modified noun is its subject:
+For intransitive past participles, the modified noun is its subject. This is the case e.g. in the following French ex. (for "the cases {that} appeared in 2001 are now solved")
 
 ~~~ sdparse
-The cases appeared in 2001 are now solved
-nsubj(appeared, cases)
+Les cas apparus en 2001 sont maintenant résolus
+nsubj(apparus, cas)
 ~~~
 
 For transitives, the modified noun corresponds to the object (if the verb were active, finite).
-(Note the participle is better viewed as a passive. This allows for the nice regularity that the modified noun is always the subject of the participle, but when the participle is passive, its subject is its canonical object).
+(Note: the participle is better viewed as a passive. This allows for the nice regularity that the modified noun is always the subject of the participle, but when the participle is passive, its subject is its canonical object. If the neutralization of syntactic alternations [see below](#neutralizing-syntactic-alternations) is adopted, then the enhanced edge should bear nsubj:pass@obj). 
 
 ~~~ sdparse
 The persons hired in 2007 are few
