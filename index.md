@@ -39,9 +39,9 @@ If you want to receive news about Universal Dependencies, you can subscribe to t
   * [POS tags](u/pos/index.html) ([single document](u/pos/all.html))
   * [Features](u/feat/index.html) ([single document](u/feat/all.html))
     * [Language-specific features](ext-feat-index.html)
-  * [Conversion to UD tags and features](tagset-conversion/index.html)
   * [Syntactic relations](u/dep/index.html) ([single document](u/dep/all.html))
     * [Relation subtypes](ext-dep-index.html)
+  * [Conversion from other tagsets to UD tags and features](tagset-conversion/index.html)
 
 <small>
 This is the online documentation of UD v2 (2016-12-01). For earlier versions,
