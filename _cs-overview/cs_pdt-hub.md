@@ -10,7 +10,7 @@ udver: '2'
 
 # UD Czech
 
-<em>TODO: Provide backward link to the language hub page.</em>
+<em>TODO: Provide backward link to the [Czech](cs-hub.html) language hub page, once we have agreed on a common naming scheme.</em>
 
 This treebank has been part of Universal Dependencies since the UD v1.0 release.
 
