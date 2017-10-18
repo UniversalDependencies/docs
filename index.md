@@ -10,14 +10,14 @@ Universal Dependencies is a framework for cross-linguistically consistent gramma
 and an open community effort with over 200 contributors producing almost 100 treebanks in over 50 languages. 
 
 * [Short introduction to Universal Dependencies](introduction.html)
-* [How to contribute to UD](contribute.html)
-* [Tools for working with UD](tools.html)
+* More information on UD:
+  * [How to contribute to UD](contribute.html)
+  * [Tools for working with UD](tools.html)
+  * [Discussion on UD](discussion.html)
+  * [UD-related events](events.html)
 * Query UD treebanks online:
   * [SETS treebank search](http://bionlp-www.utu.fi/dep_search) maintained by the University of Turku
   * [PML Tree Query](http://lindat.mff.cuni.cz/services/pmltq/) maintained by the Charles University in Prague
-* Upcoming UD events ([past events](events.html)):
-  * 2nd Workshop on Universal Dependencies (UDW) [more soon]
-  * 2nd ConLL shared task on UD parsing [more soon]
 
 If you want to receive news about Universal Dependencies, you can subscribe to the 
 [UD mailing list](http://stp.lingfil.uu.se/mailman/listinfo/ud).
