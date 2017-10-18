@@ -46,10 +46,8 @@ If you want to receive news about Universal Dependencies, you can subscribe to t
 
 <small>
 This is the online documentation for Universal Dependencies, version 2 (2016-12-01).
-<strong><font color="red">Note:</font></strong> An archived version of the v1 guidelines
-is available [here](docsv1/index.html) and an executive summary of changes from v1 to v2 [here](v2/summary.html).
-
-
+For more information, see the [archived version of the v1 guidelines](docsv1/index.html) 
+and the [summary of changes from v1 to v2](v2/summary.html).
 </small>
 
 ## UD Treebanks
