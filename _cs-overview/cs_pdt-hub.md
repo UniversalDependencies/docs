@@ -10,6 +10,8 @@ udver: '2'
 
 # UD Czech
 
+<em>TODO: Provide backward link to the language hub page.</em>
+
 This treebank has been part of Universal Dependencies since the UD v1.0 release.
 
 The following people have contributed to making this treebank part of UD: Daniel Zeman, Jan Hajič.
@@ -17,6 +19,8 @@ The following people have contributed to making this treebank part of UD: Daniel
 Repository: [UD_Czech](https://github.com/UniversalDependencies/UD_Czech)
 
 License: CC BY-NC-SA 3.0
+
+Genre: news
 
 Questions, comments?
 General annotation questions (either Czech-specific or cross-linguistic) can be raised in the [main UD issue tracker](https://github.com/UniversalDependencies/docs/issues).
@@ -26,7 +30,7 @@ Development of the treebank happens outside the UD repository.
 If there are bugs, either the original data source or the conversion procedure must be fixed.
 Do not submit pull requests against the UD repository.
 
-| Genre | news |
+| Annotation | Source |
 |------------|--------|
 | Lemmas | annotated manually in non-UD style, automatically converted to UD |
 | UPOS | annotated manually in non-UD style, automatically converted to UD |
