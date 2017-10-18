@@ -6,6 +6,23 @@ udver: '2'
 
 # Universal Dependencies
 
+Universal Dependencies is a framework for cross-linguistically consistent grammatical annotation
+and an open community effort with over 200 contributors producing almost 100 treebanks in over 50 languages. 
+
+* [Short introduction to Universal Dependencies](introduction.html)
+* [How to contribute to UD](contribute.html)
+* [Tools for working with UD](tools.html)
+* Query UD treebanks online:
+  * [SETS treebank search](http://bionlp-www.utu.fi/dep_search) maintained by the University of Turku
+  * [PML Tree Query](http://lindat.mff.cuni.cz/services/pmltq/) maintained by the Charles University in Prague
+* Upcoming UD events ([past events](events.html)):
+  * 2nd Workshop on Universal Dependencies (UDW) [more soon]
+  * 2nd ConLL shared task on UD parsing [more soon]
+
+If you want to receive news about Universal Dependencies, you can subscribe to the 
+[UD mailing list](http://stp.lingfil.uu.se/mailman/listinfo/ud).
+
+# UD Guidelines
 [Executive summary of changes from v1 to v2](v2/summary.html)
 
 * [Tokenization and word segmentation](u/overview/tokenization.html)
@@ -33,21 +50,6 @@ This is the online documentation for Universal Dependencies, version 2 (2016-12-
 <strong><font color="red">Note:</font></strong> An archived version of the v1 guidelines
 is available [here](docsv1/index.html).
 </small>
-
-# UD-related events in 2017
-
-  * [CoNLL 2017 Shared Task: Multilingual Parsing from Raw Text to Universal Dependencies](http://universaldependencies.org/conll17/)
-  * [EACL 2017 Tutorial on Universal Dependencies](http://universaldependencies.org/eacl17tutorial/)
-  * [NoDaLiDa Workshop on Universal Dependencies (UDW 2017)](http://universaldependencies.org/udw17/)
-
-# Want to know more about UD?
-
-  * [Short introduction to Universal Dependencies](introduction.html)
-  * [How to contribute to UD](contribute.html)
-  * [Tools for working with UD](tools.html)
-
-If you want to receive news about Universal Dependencies, you can subscribe to
-the [UD mailing list](http://stp.lingfil.uu.se/mailman/listinfo/ud).
 
 # UD Treebanks
 
@@ -77,14 +79,6 @@ The data is released through LINDAT/CLARIN.
 * In general, we intend to have regular treebank releases every six months. The v2.0 release was brought forward because of its usage in the [CoNLL 2017 Multilingual Parsing Shared Task](http://universaldependencies.org/conll17/).
 * The next release (v2.1) is scheduled for Nov 15, 2017.
 
-# Query online
-
-You can query the UD treebanks on-line using
-
-* [SETS treebank search](http://bionlp-www.utu.fi/dep_search)
-  maintained by the University of Turku, or
-* [PML Tree Query](http://lindat.mff.cuni.cz/services/pmltq/)
-  maintained by the Charles University in Prague.
 
 # Language family documentation (experimental)
 
