@@ -49,7 +49,7 @@ udver: '2'
 <ul>
 <li>This corpus uses 17 UPOS tags out of 17 possible: <a>ADJ</a>, <a>ADP</a>, <a>ADV</a>, <a>AUX</a>, <a>CCONJ</a>, <a>DET</a>, <a>INTJ</a>, <a>NOUN</a>, <a>NUM</a>, <a>PART</a>, <a>PRON</a>, <a>PROPN</a>, <a>PUNCT</a>, <a>SCONJ</a>, <a>SYM</a>, <a>VERB</a>, <a>X</a></li>
 <li>This corpus contains 82 word types tagged as particles (PART): Achtung, Bah, Bienvenue, CA, Což, Cožpak, Dobrá, L, Mnohem, Naneštěstí, Nejenomže, Nu, On, Please, Sic, So, Vot, Zaplaťpánbůh, ahoj, al, ano, anti, arciť, asi, at, ať, až, ba, bene, bohužel, by, bůhsuď, bůhví, ciao, co, copak, džambo, el, gala, hele, hop, ja, jen, jenom, jo, ka, kdoví, kéž, leda, li, n, natož, ne, nechť, nejen, netto, neřkuli, než, nie, no, non, not, nuže, off, oui, ovšem, ovšemže, pozor, právěže, prý, s, sbohem, sorry, t, takříkajíc, to, tož, viva, viďte, we, zaplaťpánbu, žel</li>
-<li>There are 4 (de)verbal forms:
+<li>There are 4 <a href="../feat/VerbForm.html">(de)verbal forms:</a>
 <ul>
   <li>Conv
   <ul>
@@ -87,7 +87,7 @@ udver: '2'
 <li>This corpus uses 16 UPOS tags out of 17 possible: <a>ADJ</a>, <a>ADP</a>, <a>ADV</a>, <a>AUX</a>, <a>CCONJ</a>, <a>DET</a>, <a>INTJ</a>, <a>NOUN</a>, <a>NUM</a>, <a>PART</a>, <a>PRON</a>, <a>PROPN</a>, <a>PUNCT</a>, <a>SCONJ</a>, <a>SYM</a>, <a>VERB</a></li>
 <li>This corpus does not use the following tags: X</li>
 <li>This corpus contains 1 word types tagged as particles (PART): att</li>
-<li>There are 5 (de)verbal forms:
+<li>There are 5 <a href="../feat/VerbForm.html">(de)verbal forms:</a>
 <ul>
   <li>Fin
   <ul>
@@ -127,7 +127,7 @@ udver: '2'
   <td width="50%" valign="top">
 <h3>Nominal Features</h3>
 
-<li>Gender
+<li><a>Gender</a>
   <ul>
     <li>Fem
       <ul>
@@ -203,7 +203,7 @@ udver: '2'
   <td width="50%" valign="top">
 <h3>Nominal Features</h3>
 
-<li>Gender
+<li><a>Gender</a>
   <ul>
     <li>Com
       <ul>
@@ -247,7 +247,7 @@ udver: '2'
 </tr>
 <tr>
   <td width="50%" valign="top">
-<li>Animacy
+<li><a>Animacy</a>
   <ul>
     <li>Anim
       <ul>
@@ -285,7 +285,7 @@ udver: '2'
 </tr>
 <tr>
   <td width="50%" valign="top">
-<li>Number
+<li><a>Number</a>
   <ul>
     <li>Dual
       <ul>
@@ -343,7 +343,7 @@ udver: '2'
 
   </td>
   <td width="50%" valign="top">
-<li>Number
+<li><a>Number</a>
   <ul>
     <li>Plur
       <ul>
@@ -373,7 +373,7 @@ udver: '2'
 </tr>
 <tr>
   <td width="50%" valign="top">
-<li>Case
+<li><a>Case</a>
   <ul>
     <li>Acc
       <ul>
@@ -461,7 +461,7 @@ udver: '2'
 
   </td>
   <td width="50%" valign="top">
-<li>Case
+<li><a>Case</a>
   <ul>
     <li>Acc
       <ul>
@@ -495,7 +495,7 @@ udver: '2'
 </tr>
 <tr>
   <td width="50%" valign="top">
-<li>PrepCase
+<li><a>PrepCase</a>
   <ul>
     <li>Npr
       <ul>
@@ -521,7 +521,7 @@ udver: '2'
 
   </td>
   <td width="50%" valign="top">
-<li>Definite
+<li><a>Definite</a>
   <ul>
     <li>Def
       <ul>
@@ -552,7 +552,7 @@ udver: '2'
   <td width="50%" valign="top">
 <h3>Degree and Polarity</h3>
 
-<li>Degree
+<li><a>Degree</a>
   <ul>
     <li>Cmp
       <ul>
@@ -579,7 +579,7 @@ udver: '2'
   <td width="50%" valign="top">
 <h3>Degree and Polarity</h3>
 
-<li>Degree
+<li><a>Degree</a>
   <ul>
     <li>Cmp
       <ul>
@@ -606,7 +606,7 @@ udver: '2'
 </tr>
 <tr>
   <td width="50%" valign="top">
-<li>Polarity
+<li><a>Polarity</a>
   <ul>
     <li>Neg
       <ul>
@@ -645,7 +645,7 @@ udver: '2'
 
   </td>
   <td width="50%" valign="top">
-<li>Polarity
+<li><a>Polarity</a>
   <ul>
     <li>Neg
       <ul>
@@ -661,7 +661,7 @@ udver: '2'
 </tr>
 <tr>
   <td width="50%" valign="top">
-<li>Variant
+<li><a>Variant</a>
   <ul>
     <li>Short
       <ul>
@@ -682,7 +682,7 @@ udver: '2'
   <td width="50%" valign="top">
 <h3>Verbal Features</h3>
 
-<li>Aspect
+<li><a>Aspect</a>
   <ul>
     <li>Imp
       <ul>
@@ -719,7 +719,7 @@ udver: '2'
 </tr>
 <tr>
   <td width="50%" valign="top">
-<li>Mood
+<li><a>Mood</a>
   <ul>
     <li>Cnd
       <ul>
@@ -744,7 +744,7 @@ udver: '2'
 
   </td>
   <td width="50%" valign="top">
-<li>Mood
+<li><a>Mood</a>
   <ul>
     <li>Imp
       <ul>
@@ -771,7 +771,7 @@ udver: '2'
 </tr>
 <tr>
   <td width="50%" valign="top">
-<li>Tense
+<li><a>Tense</a>
   <ul>
     <li>Fut
       <ul>
@@ -801,7 +801,7 @@ udver: '2'
 
   </td>
   <td width="50%" valign="top">
-<li>Tense
+<li><a>Tense</a>
   <ul>
     <li>Past
       <ul>
@@ -825,7 +825,7 @@ udver: '2'
 </tr>
 <tr>
   <td width="50%" valign="top">
-<li>Voice
+<li><a>Voice</a>
   <ul>
     <li>Act
       <ul>
@@ -848,7 +848,7 @@ udver: '2'
 
   </td>
   <td width="50%" valign="top">
-<li>Voice
+<li><a>Voice</a>
   <ul>
     <li>Act
       <ul>
@@ -884,7 +884,7 @@ udver: '2'
   <td width="50%" valign="top">
 <h3>Pronouns, Determiners, Quantifiers</h3>
 
-<li>PronType
+<li><a>PronType</a>
   <ul>
     <li>Dem
       <ul>
@@ -944,7 +944,7 @@ udver: '2'
   <td width="50%" valign="top">
 <h3>Pronouns, Determiners, Quantifiers</h3>
 
-<li>PronType
+<li><a>PronType</a>
   <ul>
     <li>Art
       <ul>
@@ -1007,7 +1007,7 @@ udver: '2'
 </tr>
 <tr>
   <td width="50%" valign="top">
-<li>NumType
+<li><a>NumType</a>
   <ul>
     <li>Card
       <ul>
@@ -1047,7 +1047,7 @@ udver: '2'
 
   </td>
   <td width="50%" valign="top">
-<li>NumType
+<li><a>NumType</a>
   <ul>
     <li>Card
       <ul>
@@ -1061,7 +1061,7 @@ udver: '2'
 </tr>
 <tr>
   <td width="50%" valign="top">
-<li>Poss
+<li><a>Poss</a>
   <ul>
     <li>Yes
       <ul>
@@ -1074,7 +1074,7 @@ udver: '2'
 
   </td>
   <td width="50%" valign="top">
-<li>Poss
+<li><a>Poss</a>
   <ul>
     <li>Yes
       <ul>
@@ -1088,7 +1088,7 @@ udver: '2'
 </tr>
 <tr>
   <td width="50%" valign="top">
-<li>Reflex
+<li><a>Reflex</a>
   <ul>
     <li>Yes
       <ul>
@@ -1106,7 +1106,7 @@ udver: '2'
 </tr>
 <tr>
   <td width="50%" valign="top">
-<li>Person
+<li><a>Person</a>
   <ul>
     <li>1
       <ul>
@@ -1151,7 +1151,7 @@ udver: '2'
 </tr>
 <tr>
   <td width="50%" valign="top">
-<li>Gender[psor]
+<li><a>Gender[psor]</a>
   <ul>
     <li>Fem
       <ul>
@@ -1179,7 +1179,7 @@ udver: '2'
 </tr>
 <tr>
   <td width="50%" valign="top">
-<li>Number[psor]
+<li><a>Number[psor]</a>
   <ul>
     <li>Plur
       <ul>
@@ -1203,7 +1203,7 @@ udver: '2'
   <td width="50%" valign="top">
 <h3>Other Features</h3>
 
-<li>Abbr
+<li><a>Abbr</a>
   <ul>
     <li>Yes
       <ul>
@@ -1221,7 +1221,7 @@ udver: '2'
     </li>
   </ul>
 </li>
-<li>AdpType
+<li><a>AdpType</a>
   <ul>
     <li>Comprep
       <ul>
@@ -1240,7 +1240,7 @@ udver: '2'
     </li>
   </ul>
 </li>
-<li>ConjType
+<li><a>ConjType</a>
   <ul>
     <li>Oper
       <ul>
@@ -1250,7 +1250,7 @@ udver: '2'
     </li>
   </ul>
 </li>
-<li>Foreign
+<li><a>Foreign</a>
   <ul>
     <li>Yes
       <ul>
@@ -1274,7 +1274,7 @@ udver: '2'
     </li>
   </ul>
 </li>
-<li>Hyph
+<li><a>Hyph</a>
   <ul>
     <li>Yes
       <ul>
@@ -1283,7 +1283,7 @@ udver: '2'
     </li>
   </ul>
 </li>
-<li>NameType
+<li><a>NameType</a>
   <ul>
     <li>Com
       <ul>
@@ -1469,7 +1469,7 @@ udver: '2'
     </li>
   </ul>
 </li>
-<li>NumForm
+<li><a>NumForm</a>
   <ul>
     <li>Digit
       <ul>
@@ -1488,7 +1488,7 @@ udver: '2'
     </li>
   </ul>
 </li>
-<li>NumValue
+<li><a>NumValue</a>
   <ul>
     <li>1
       <ul>
@@ -1502,7 +1502,7 @@ udver: '2'
     </li>
   </ul>
 </li>
-<li>Style
+<li><a>Style</a>
   <ul>
     <li>Arch
       <ul>
@@ -1589,7 +1589,7 @@ udver: '2'
   <td width="50%" valign="top">
 <h3>Other Features</h3>
 
-<li>Abbr
+<li><a>Abbr</a>
   <ul>
     <li>Yes
       <ul>
@@ -1602,7 +1602,7 @@ udver: '2'
     </li>
   </ul>
 </li>
-<li>Foreign
+<li><a>Foreign</a>
   <ul>
     <li>Yes
       <ul>
