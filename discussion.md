@@ -19,7 +19,10 @@ These pages do **not** have the status of guidelines, so proposals contained the
 * [Preliminary v2](/v2_prelim/index.html) proposals and discussions (Aug-Sep 2016)
 * [Core group discussion](https://github.com/UniversalDependencies/UD_v2/issues) on v2 proposal (Sep-Oct 2016)
 * [Final v2 reports](http://universaldependencies.org/v2/)
-* [Executive summary] of changes from v1 to v2 (http://universaldependencies.org/v2/summary.html)
+* [Executive summary](http://universaldependencies.org/v2/summary.html) of changes from v1 to v2 
+* Language family documentation (experimental)
+  * [Slavic language family documentation](slavic.html)
+  * [Uralic language family documentation](uralic.html)
 
 ## 2017
 
