@@ -22,7 +22,9 @@ The speaker has indirect evidence for the statement. The `Nfh` marker is also ca
 #### Examples
 ```
 *  ca   adaj-la     k’wi-jal  urši  le-b-re-k’wan  
+
    one  father-Gen  two-Card  son   COP-HumPlur-Past-Nfh   
+
    'A father had (they say) two sons.'   
 ```
 
