@@ -11,7 +11,7 @@ udver: '2'
 
 # UD Czech CLTT
 
-<em>TODO: Provide backward link to the [Czech](cs-hub.html) language hub page, once we have agreed on a common naming scheme.</em>
+Language: [Czech](../cs/overview/cs-hub.html) (code: `cs`)
 
 This treebank has been part of Universal Dependencies since the UD v1.3 release.
 
