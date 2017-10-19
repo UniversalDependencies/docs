@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-10-19T20:35:18Z">2017-10-19T20:35:18 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-10-19T20:50:36Z">2017-10-19T20:50:36 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -1455,28 +1455,46 @@ python tools/validate.py --lang fr_partut UD-dev-branches/UD_French-ParTUT/fr_pa
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD French-Sequoia</span>
 <span class="widespan">fr sequoia</span>
-<span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-10-19T20:35:14Z">2017-10-19T20:35:14 zulu</time></span>
+<span class="validationfail">FAIL</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-10-19T20:50:31Z">2017-10-19T20:50:31 zulu</time></span>
 </div>
 <div>
 <pre>
 python /home/ginter/UD_PROJHOOK/tools/validate.py --lang fr_sequoia /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_French-Sequoia/fr_sequoia-ud-dev.conllu
 
-*** PASSED ***
+[Line                   2912]: Unknown UD DEPREL: obj:caus
+[Line                   4885]: Unknown UD DEPREL: obj:caus
+[Line                   6131]: Unknown UD DEPREL: obj:caus
+[Line                   10645]: Unknown UD DEPREL: obj:caus
+*** FAILED *** with 4 errors
+Syntax errors: 4
 
 
 ******************
 
 python /home/ginter/UD_PROJHOOK/tools/validate.py --lang fr_sequoia /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_French-Sequoia/fr_sequoia-ud-test.conllu
 
-*** PASSED ***
+[Line                   2776]: Unknown UD DEPREL: obl:caus
+[Line                   3262]: Unknown UD DEPREL: obj:caus
+[Line                   8618]: Unknown UD DEPREL: obj:caus
+*** FAILED *** with 3 errors
+Syntax errors: 3
 
 
 ******************
 
 python /home/ginter/UD_PROJHOOK/tools/validate.py --lang fr_sequoia /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_French-Sequoia/fr_sequoia-ud-train.conllu
 
-*** PASSED ***
+[Line                   2144]: Unknown UD DEPREL: obj:caus
+[Line                   3025]: Unknown UD DEPREL: obj:caus
+[Line                   4160]: Unknown UD DEPREL: obl:caus
+[Line                   4625]: Unknown UD DEPREL: obj:caus
+[Line                   5493]: Unknown UD DEPREL: obl:caus
+[Line                   35178]: Unknown UD DEPREL: obl:caus
+[Line                   46997]: Unknown UD DEPREL: obl:caus
+[Line                   52509]: Unknown UD DEPREL: obj:caus
+*** FAILED *** with 8 errors
+Syntax errors: 8
 
 
 ******************
