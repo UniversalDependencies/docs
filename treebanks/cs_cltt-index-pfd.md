@@ -18,6 +18,35 @@ udver: '2'
 
 [acl](cs_cltt-dep-acl.html) – [advcl](cs_cltt-dep-advcl.html) – [advmod](cs_cltt-dep-advmod.html) – [advmod:emph](cs_cltt-dep-advmod-emph.html) – [amod](cs_cltt-dep-amod.html) – [appos](cs_cltt-dep-appos.html) – [aux](cs_cltt-dep-aux.html) – [aux:pass](cs_cltt-dep-aux-pass.html) – [case](cs_cltt-dep-case.html) – [cc](cs_cltt-dep-cc.html) – [ccomp](cs_cltt-dep-ccomp.html) – [compound](cs_cltt-dep-compound.html) – [conj](cs_cltt-dep-conj.html) – [cop](cs_cltt-dep-cop.html) – [csubj](cs_cltt-dep-csubj.html) – [csubj:pass](cs_cltt-dep-csubj-pass.html) – [dep](cs_cltt-dep-dep.html) – [det](cs_cltt-dep-det.html) – [det:nummod](cs_cltt-dep-det-nummod.html) – [expl:pass](cs_cltt-dep-expl-pass.html) – [expl:pv](cs_cltt-dep-expl-pv.html) – [fixed](cs_cltt-dep-fixed.html) – [flat](cs_cltt-dep-flat.html) – [iobj](cs_cltt-dep-iobj.html) – [mark](cs_cltt-dep-mark.html) – [nmod](cs_cltt-dep-nmod.html) – [nsubj](cs_cltt-dep-nsubj.html) – [nsubj:pass](cs_cltt-dep-nsubj-pass.html) – [nummod](cs_cltt-dep-nummod.html) – [nummod:gov](cs_cltt-dep-nummod-gov.html) – [obj](cs_cltt-dep-obj.html) – [obl](cs_cltt-dep-obl.html) – [orphan](cs_cltt-dep-orphan.html) – [parataxis](cs_cltt-dep-parataxis.html) – [punct](cs_cltt-dep-punct.html) – [root](cs_cltt-dep-root.html) – [xcomp](cs_cltt-dep-xcomp.html)
 
+# UD Czech CLTT
+
+<em>TODO: Provide backward link to the [Czech](cs-hub.html) language hub page, once we have agreed on a common naming scheme.</em>
+
+This treebank has been part of Universal Dependencies since the UD v1.3 release.
+
+The following people have contributed to making this treebank part of UD: Barbora Hladká, Daniel Zeman, Martin Popel.
+
+Repository: [UD_Czech-CLTT](https://github.com/UniversalDependencies/UD_Czech-CLTT)
+
+License: CC BY-SA 4.0
+
+Genre: legal
+
+Questions, comments?
+General annotation questions (either Czech-specific or cross-linguistic) can be raised in the [main UD issue tracker](https://github.com/UniversalDependencies/docs/issues).
+You can report bugs in this treebank in the [treebank-specific issue tracker on Github](https://github.com/UniversalDependencies/UD_Czech-CLTT/issues).
+If you want to collaborate, please contact [zeman&nbsp;(Ã¦t)&nbsp;ufal&nbsp;â¢&nbsp;mff&nbsp;â¢&nbsp;cuni&nbsp;â¢&nbsp;cz].
+
+| Annotation | Source |
+|------------|--------|
+| Lemmas | (undocumented) |
+| UPOS | (undocumented) |
+| XPOS | (undocumented) |
+| Features | (undocumented) |
+| Relations | (undocumented) |
+
+
+
 <h2>Tokenization and Word Segmentation</h2>
 
 <ul>
