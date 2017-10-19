@@ -18,7 +18,7 @@ The feature is used with 8 part-of-speech tags: <tt>[NOUN](cs_cltt-pos-NOUN.html
 
 11244 <tt>[NOUN](cs_cltt-pos-NOUN.html)</tt> tokens (100% of all `NOUN` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `NOUN` and `Case` co-occurred: <tt><a href="Polarity.html">Polarity</a>=Pos</tt> (11229; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (7969; 71%), <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (6704; 60%).
+The most frequent other feature values with which `NOUN` and `Case` co-occurred: <tt>[Polarity](cs_cltt-feat-Polarity.html)</tt><tt>=Pos</tt> (11229; 100%), <tt>[Number](cs_cltt-feat-Number.html)</tt><tt>=Sing</tt> (7969; 71%), <tt>[Animacy](cs_cltt-feat-Animacy.html)</tt><tt>=EMPTY</tt> (6704; 60%).
 
 `NOUN` tokens may have the following values of `Case`:
 
@@ -40,7 +40,7 @@ The most frequent other feature values with which `NOUN` and `Case` co-occurred:
 
 6421 <tt>[ADJ](cs_cltt-pos-ADJ.html)</tt> tokens (98% of all `ADJ` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `ADJ` and `Case` co-occurred: <tt><a href="Polarity.html">Polarity</a>=Pos</tt> (6241; 97%), <tt><a href="Degree.html">Degree</a>=Pos</tt> (6028; 94%), <tt><a href="Number.html">Number</a>=Sing</tt> (4099; 64%), <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (3857; 60%).
+The most frequent other feature values with which `ADJ` and `Case` co-occurred: <tt>[Polarity](cs_cltt-feat-Polarity.html)</tt><tt>=Pos</tt> (6241; 97%), <tt>[Degree](cs_cltt-feat-Degree.html)</tt><tt>=Pos</tt> (6028; 94%), <tt>[Number](cs_cltt-feat-Number.html)</tt><tt>=Sing</tt> (4099; 64%), <tt>[Animacy](cs_cltt-feat-Animacy.html)</tt><tt>=EMPTY</tt> (3857; 60%).
 
 `ADJ` tokens may have the following values of `Case`:
 
@@ -66,7 +66,7 @@ The most frequent other feature values with which `ADJ` and `Case` co-occurred: 
 
 3938 <tt>[ADP](cs_cltt-pos-ADP.html)</tt> tokens (100% of all `ADP` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `ADP` and `Case` co-occurred: <tt><a href="AdpType.html">AdpType</a>=Prep</tt> (3593; 91%).
+The most frequent other feature values with which `ADP` and `Case` co-occurred: <tt>[AdpType](cs_cltt-feat-AdpType.html)</tt><tt>=Prep</tt> (3593; 91%).
 
 `ADP` tokens may have the following values of `Case`:
 
@@ -86,7 +86,7 @@ The most frequent other feature values with which `ADP` and `Case` co-occurred: 
 
 1211 <tt>[PRON](cs_cltt-pos-PRON.html)</tt> tokens (100% of all `PRON` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `PRON` and `Case` co-occurred: <tt><a href="Variant.html">Variant</a>=EMPTY</tt> (742; 61%), <tt><a href="Reflex.html">Reflex</a>=EMPTY</tt> (736; 61%).
+The most frequent other feature values with which `PRON` and `Case` co-occurred: <tt>[Variant](cs_cltt-feat-Variant.html)</tt><tt>=EMPTY</tt> (742; 61%), <tt>[Reflex](cs_cltt-feat-Reflex.html)</tt><tt>=EMPTY</tt> (736; 61%).
 
 `PRON` tokens may have the following values of `Case`:
 
@@ -116,7 +116,7 @@ The most frequent other feature values with which `PRON` and `Case` co-occurred:
 
 406 <tt>[DET](cs_cltt-pos-DET.html)</tt> tokens (68% of all `DET` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `DET` and `Case` co-occurred: <tt><a href="Number[psor].html">Number[psor]</a>=EMPTY</tt> (379; 93%), <tt><a href="Gender[psor].html">Gender[psor]</a>=EMPTY</tt> (379; 93%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (379; 93%), <tt><a href="Poss.html">Poss</a>=EMPTY</tt> (355; 87%), <tt><a href="PronType.html">PronType</a>=Dem</tt> (341; 84%), <tt><a href="Number.html">Number</a>=Sing</tt> (297; 73%).
+The most frequent other feature values with which `DET` and `Case` co-occurred: <tt>[Number[psor]](cs_cltt-feat-Number-psor.html)</tt><tt>=EMPTY</tt> (379; 93%), <tt>[Gender[psor]](cs_cltt-feat-Gender-psor.html)</tt><tt>=EMPTY</tt> (379; 93%), <tt>[Person](cs_cltt-feat-Person.html)</tt><tt>=EMPTY</tt> (379; 93%), <tt>[Poss](cs_cltt-feat-Poss.html)</tt><tt>=EMPTY</tt> (355; 87%), <tt>[PronType](cs_cltt-feat-PronType.html)</tt><tt>=Dem</tt> (341; 84%), <tt>[Number](cs_cltt-feat-Number.html)</tt><tt>=Sing</tt> (297; 73%).
 
 `DET` tokens may have the following values of `Case`:
 
@@ -144,7 +144,7 @@ The most frequent other feature values with which `DET` and `Case` co-occurred: 
 
 69 <tt>[NUM](cs_cltt-pos-NUM.html)</tt> tokens (16% of all `NUM` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `NUM` and `Case` co-occurred: <tt><a href="NumType.html">NumType</a>=Card</tt> (69; 100%), <tt><a href="NumForm.html">NumForm</a>=Word</tt> (69; 100%), <tt><a href="NumValue.html">NumValue</a>=1,2,3</tt> (58; 84%), <tt><a href="Number.html">Number</a>=Sing</tt> (45; 65%).
+The most frequent other feature values with which `NUM` and `Case` co-occurred: <tt>[NumType](cs_cltt-feat-NumType.html)</tt><tt>=Card</tt> (69; 100%), <tt>[NumForm](cs_cltt-feat-NumForm.html)</tt><tt>=Word</tt> (69; 100%), <tt>[NumValue](cs_cltt-feat-NumValue.html)</tt><tt>=1,2,3</tt> (58; 84%), <tt>[Number](cs_cltt-feat-Number.html)</tt><tt>=Sing</tt> (45; 65%).
 
 `NUM` tokens may have the following values of `Case`:
 
@@ -169,7 +169,7 @@ The most frequent other feature values with which `NUM` and `Case` co-occurred: 
 
 3 <tt>[VERB](cs_cltt-pos-VERB.html)</tt> tokens (0% of all `VERB` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `VERB` and `Case` co-occurred: <tt><a href="Gender.html">Gender</a>=Fem</tt> (3; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (3; 100%), <tt><a href="Voice.html">Voice</a>=Pass</tt> (3; 100%), <tt><a href="Polarity.html">Polarity</a>=Pos</tt> (3; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (3; 100%), <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (3; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (3; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (3; 100%).
+The most frequent other feature values with which `VERB` and `Case` co-occurred: <tt>[Gender](cs_cltt-feat-Gender.html)</tt><tt>=Fem</tt> (3; 100%), <tt>[Number](cs_cltt-feat-Number.html)</tt><tt>=Sing</tt> (3; 100%), <tt>[Voice](cs_cltt-feat-Voice.html)</tt><tt>=Pass</tt> (3; 100%), <tt>[Polarity](cs_cltt-feat-Polarity.html)</tt><tt>=Pos</tt> (3; 100%), <tt>[VerbForm](cs_cltt-feat-VerbForm.html)</tt><tt>=Part</tt> (3; 100%), <tt>[Tense](cs_cltt-feat-Tense.html)</tt><tt>=EMPTY</tt> (3; 100%), <tt>[Person](cs_cltt-feat-Person.html)</tt><tt>=EMPTY</tt> (3; 100%), <tt>[Mood](cs_cltt-feat-Mood.html)</tt><tt>=EMPTY</tt> (3; 100%).
 
 `VERB` tokens may have the following values of `Case`:
 
@@ -180,7 +180,7 @@ The most frequent other feature values with which `VERB` and `Case` co-occurred:
 
 1 <tt>[AUX](cs_cltt-pos-AUX.html)</tt> tokens (0% of all `AUX` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `AUX` and `Case` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=EMPTY</tt> (1; 100%), <tt><a href="Polarity.html">Polarity</a>=Pos</tt> (1; 100%), <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (1; 100%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (1; 100%), <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (1; 100%), <tt><a href="Number.html">Number</a>=Plur</tt> (1; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (1; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (1; 100%).
+The most frequent other feature values with which `AUX` and `Case` co-occurred: <tt>[VerbForm](cs_cltt-feat-VerbForm.html)</tt><tt>=EMPTY</tt> (1; 100%), <tt>[Polarity](cs_cltt-feat-Polarity.html)</tt><tt>=Pos</tt> (1; 100%), <tt>[Voice](cs_cltt-feat-Voice.html)</tt><tt>=EMPTY</tt> (1; 100%), <tt>[Gender](cs_cltt-feat-Gender.html)</tt><tt>=Masc</tt> (1; 100%), <tt>[Tense](cs_cltt-feat-Tense.html)</tt><tt>=EMPTY</tt> (1; 100%), <tt>[Number](cs_cltt-feat-Number.html)</tt><tt>=Plur</tt> (1; 100%), <tt>[Person](cs_cltt-feat-Person.html)</tt><tt>=EMPTY</tt> (1; 100%), <tt>[Mood](cs_cltt-feat-Mood.html)</tt><tt>=EMPTY</tt> (1; 100%).
 
 `AUX` tokens may have the following values of `Case`:
 

@@ -18,7 +18,7 @@ The feature is used with 2 part-of-speech tags: <tt>[VERB](cs_cltt-pos-VERB.html
 
 1426 <tt>[VERB](cs_cltt-pos-VERB.html)</tt> tokens (67% of all `VERB` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (1426; 100%), <tt><a href="Person.html">Person</a>=3</tt> (1426; 100%), <tt><a href="Voice.html">Voice</a>=Act</tt> (1426; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (1426; 100%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (1425; 100%), <tt><a href="Polarity.html">Polarity</a>=Pos</tt> (1222; 86%), <tt><a href="Number.html">Number</a>=Sing</tt> (982; 69%).
+The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt>[Gender](cs_cltt-feat-Gender.html)</tt><tt>=EMPTY</tt> (1426; 100%), <tt>[Person](cs_cltt-feat-Person.html)</tt><tt>=3</tt> (1426; 100%), <tt>[Voice](cs_cltt-feat-Voice.html)</tt><tt>=Act</tt> (1426; 100%), <tt>[VerbForm](cs_cltt-feat-VerbForm.html)</tt><tt>=Fin</tt> (1426; 100%), <tt>[Tense](cs_cltt-feat-Tense.html)</tt><tt>=Pres</tt> (1425; 100%), <tt>[Polarity](cs_cltt-feat-Polarity.html)</tt><tt>=Pos</tt> (1222; 86%), <tt>[Number](cs_cltt-feat-Number.html)</tt><tt>=Sing</tt> (982; 69%).
 
 `VERB` tokens may have the following values of `Mood`:
 
@@ -31,7 +31,7 @@ The most frequent other feature values with which `VERB` and `Mood` co-occurred:
 
 464 <tt>[AUX](cs_cltt-pos-AUX.html)</tt> tokens (77% of all `AUX` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `AUX` and `Mood` co-occurred: <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (464; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (464; 100%), <tt><a href="Person.html">Person</a>=3</tt> (454; 98%), <tt><a href="Voice.html">Voice</a>=Act</tt> (438; 94%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (417; 90%), <tt><a href="Polarity.html">Polarity</a>=Pos</tt> (389; 84%), <tt><a href="Number.html">Number</a>=Sing</tt> (241; 52%).
+The most frequent other feature values with which `AUX` and `Mood` co-occurred: <tt>[Gender](cs_cltt-feat-Gender.html)</tt><tt>=EMPTY</tt> (464; 100%), <tt>[VerbForm](cs_cltt-feat-VerbForm.html)</tt><tt>=Fin</tt> (464; 100%), <tt>[Person](cs_cltt-feat-Person.html)</tt><tt>=3</tt> (454; 98%), <tt>[Voice](cs_cltt-feat-Voice.html)</tt><tt>=Act</tt> (438; 94%), <tt>[Tense](cs_cltt-feat-Tense.html)</tt><tt>=Pres</tt> (417; 90%), <tt>[Polarity](cs_cltt-feat-Polarity.html)</tt><tt>=Pos</tt> (389; 84%), <tt>[Number](cs_cltt-feat-Number.html)</tt><tt>=Sing</tt> (241; 52%).
 
 `AUX` tokens may have the following values of `Mood`:
 

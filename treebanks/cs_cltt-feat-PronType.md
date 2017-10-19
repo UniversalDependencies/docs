@@ -19,7 +19,7 @@ The feature is used with 2 part-of-speech tags: <tt>[PRON](cs_cltt-pos-PRON.html
 
 1212 <tt>[PRON](cs_cltt-pos-PRON.html)</tt> tokens (100% of all `PRON` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="Variant.html">Variant</a>=EMPTY</tt> (743; 61%), <tt><a href="Reflex.html">Reflex</a>=EMPTY</tt> (737; 61%), <tt><a href="Case.html">Case</a>=Acc</tt> (607; 50%).
+The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt>[Variant](cs_cltt-feat-Variant.html)</tt><tt>=EMPTY</tt> (743; 61%), <tt>[Reflex](cs_cltt-feat-Reflex.html)</tt><tt>=EMPTY</tt> (737; 61%), <tt>[Case](cs_cltt-feat-Case.html)</tt><tt>=Acc</tt> (607; 50%).
 
 `PRON` tokens may have the following values of `PronType`:
 
@@ -38,7 +38,7 @@ The most frequent other feature values with which `PRON` and `PronType` co-occur
 
 595 <tt>[DET](cs_cltt-pos-DET.html)</tt> tokens (100% of all `DET` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `DET` and `PronType` co-occurred: <tt><a href="Gender[psor].html">Gender[psor]</a>=EMPTY</tt> (484; 81%), <tt><a href="Number[psor].html">Number[psor]</a>=EMPTY</tt> (379; 64%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (379; 64%), <tt><a href="Poss.html">Poss</a>=EMPTY</tt> (355; 60%), <tt><a href="Number.html">Number</a>=Sing</tt> (306; 51%).
+The most frequent other feature values with which `DET` and `PronType` co-occurred: <tt>[Gender[psor]](cs_cltt-feat-Gender-psor.html)</tt><tt>=EMPTY</tt> (484; 81%), <tt>[Number[psor]](cs_cltt-feat-Number-psor.html)</tt><tt>=EMPTY</tt> (379; 64%), <tt>[Person](cs_cltt-feat-Person.html)</tt><tt>=EMPTY</tt> (379; 64%), <tt>[Poss](cs_cltt-feat-Poss.html)</tt><tt>=EMPTY</tt> (355; 60%), <tt>[Number](cs_cltt-feat-Number.html)</tt><tt>=Sing</tt> (306; 51%).
 
 `DET` tokens may have the following values of `PronType`:
 

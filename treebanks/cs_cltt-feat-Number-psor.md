@@ -9,7 +9,7 @@ udver: '2'
 This feature is language-specific.
 It occurs with 2 different values: `Plur`, `Sing`.
 
-This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: [Number](), [Number[psor]]().
+This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: <tt>[Number](cs_cltt-feat-Number.html)</tt>, <tt>[Number[psor]](cs_cltt-feat-Number-psor.html)</tt>.
 
 216 tokens (1%) have a non-empty value of `Number[psor]`.
 12 types (0%) occur at least once with a non-empty value of `Number[psor]`.
@@ -20,7 +20,7 @@ The feature is used with 1 part-of-speech tags: <tt>[DET](cs_cltt-pos-DET.html)<
 
 216 <tt>[DET](cs_cltt-pos-DET.html)</tt> tokens (36% of all `DET` tokens) have a non-empty value of `Number[psor]`.
 
-The most frequent other feature values with which `DET` and `Number[psor]` co-occurred: <tt><a href="Poss.html">Poss</a>=Yes</tt> (216; 100%), <tt><a href="Person.html">Person</a>=3</tt> (216; 100%), <tt><a href="PronType.html">PronType</a>=Prs</tt> (195; 90%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (189; 88%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (184; 85%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (180; 83%).
+The most frequent other feature values with which `DET` and `Number[psor]` co-occurred: <tt>[Poss](cs_cltt-feat-Poss.html)</tt><tt>=Yes</tt> (216; 100%), <tt>[Person](cs_cltt-feat-Person.html)</tt><tt>=3</tt> (216; 100%), <tt>[PronType](cs_cltt-feat-PronType.html)</tt><tt>=Prs</tt> (195; 90%), <tt>[Case](cs_cltt-feat-Case.html)</tt><tt>=EMPTY</tt> (189; 88%), <tt>[Gender](cs_cltt-feat-Gender.html)</tt><tt>=EMPTY</tt> (184; 85%), <tt>[Number](cs_cltt-feat-Number.html)</tt><tt>=EMPTY</tt> (180; 83%).
 
 `DET` tokens may have the following values of `Number[psor]`:
 

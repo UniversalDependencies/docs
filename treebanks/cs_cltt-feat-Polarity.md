@@ -18,7 +18,7 @@ The feature is used with 5 part-of-speech tags: <tt>[NOUN](cs_cltt-pos-NOUN.html
 
 11296 <tt>[NOUN](cs_cltt-pos-NOUN.html)</tt> tokens (100% of all `NOUN` tokens) have a non-empty value of `Polarity`.
 
-The most frequent other feature values with which `NOUN` and `Polarity` co-occurred: <tt><a href="Number.html">Number</a>=Sing</tt> (7969; 71%), <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (6749; 60%).
+The most frequent other feature values with which `NOUN` and `Polarity` co-occurred: <tt>[Number](cs_cltt-feat-Number.html)</tt><tt>=Sing</tt> (7969; 71%), <tt>[Animacy](cs_cltt-feat-Animacy.html)</tt><tt>=EMPTY</tt> (6749; 60%).
 
 `NOUN` tokens may have the following values of `Polarity`:
 
@@ -40,7 +40,7 @@ The most frequent other feature values with which `NOUN` and `Polarity` co-occur
 
 6495 <tt>[ADJ](cs_cltt-pos-ADJ.html)</tt> tokens (99% of all `ADJ` tokens) have a non-empty value of `Polarity`.
 
-The most frequent other feature values with which `ADJ` and `Polarity` co-occurred: <tt><a href="Degree.html">Degree</a>=Pos</tt> (6032; 93%), <tt><a href="Number.html">Number</a>=Sing</tt> (4071; 63%), <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (3893; 60%).
+The most frequent other feature values with which `ADJ` and `Polarity` co-occurred: <tt>[Degree](cs_cltt-feat-Degree.html)</tt><tt>=Pos</tt> (6032; 93%), <tt>[Number](cs_cltt-feat-Number.html)</tt><tt>=Sing</tt> (4071; 63%), <tt>[Animacy](cs_cltt-feat-Animacy.html)</tt><tt>=EMPTY</tt> (3893; 60%).
 
 `ADJ` tokens may have the following values of `Polarity`:
 
@@ -84,7 +84,7 @@ The most frequent other feature values with which `ADJ` and `Polarity` co-occurr
 
 2117 <tt>[VERB](cs_cltt-pos-VERB.html)</tt> tokens (100% of all `VERB` tokens) have a non-empty value of `Polarity`.
 
-The most frequent other feature values with which `VERB` and `Polarity` co-occurred: <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (1741; 82%), <tt><a href="Voice.html">Voice</a>=Act</tt> (1542; 73%), <tt><a href="Person.html">Person</a>=3</tt> (1426; 67%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (1426; 67%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (1426; 67%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (1426; 67%), <tt><a href="Number.html">Number</a>=Sing</tt> (1115; 53%).
+The most frequent other feature values with which `VERB` and `Polarity` co-occurred: <tt>[Gender](cs_cltt-feat-Gender.html)</tt><tt>=EMPTY</tt> (1741; 82%), <tt>[Voice](cs_cltt-feat-Voice.html)</tt><tt>=Act</tt> (1542; 73%), <tt>[Person](cs_cltt-feat-Person.html)</tt><tt>=3</tt> (1426; 67%), <tt>[VerbForm](cs_cltt-feat-VerbForm.html)</tt><tt>=Fin</tt> (1426; 67%), <tt>[Tense](cs_cltt-feat-Tense.html)</tt><tt>=Pres</tt> (1426; 67%), <tt>[Mood](cs_cltt-feat-Mood.html)</tt><tt>=Ind</tt> (1426; 67%), <tt>[Number](cs_cltt-feat-Number.html)</tt><tt>=Sing</tt> (1115; 53%).
 
 `VERB` tokens may have the following values of `Polarity`:
 
@@ -103,7 +103,7 @@ The most frequent other feature values with which `VERB` and `Polarity` co-occur
 
 551 <tt>[AUX](cs_cltt-pos-AUX.html)</tt> tokens (91% of all `AUX` tokens) have a non-empty value of `Polarity`.
 
-The most frequent other feature values with which `AUX` and `Polarity` co-occurred: <tt><a href="Voice.html">Voice</a>=Act</tt> (497; 90%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (485; 88%), <tt><a href="Person.html">Person</a>=3</tt> (438; 79%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (438; 79%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (438; 79%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (417; 76%).
+The most frequent other feature values with which `AUX` and `Polarity` co-occurred: <tt>[Voice](cs_cltt-feat-Voice.html)</tt><tt>=Act</tt> (497; 90%), <tt>[Gender](cs_cltt-feat-Gender.html)</tt><tt>=EMPTY</tt> (485; 88%), <tt>[Person](cs_cltt-feat-Person.html)</tt><tt>=3</tt> (438; 79%), <tt>[VerbForm](cs_cltt-feat-VerbForm.html)</tt><tt>=Fin</tt> (438; 79%), <tt>[Mood](cs_cltt-feat-Mood.html)</tt><tt>=Ind</tt> (438; 79%), <tt>[Tense](cs_cltt-feat-Tense.html)</tt><tt>=Pres</tt> (417; 76%).
 
 `AUX` tokens may have the following values of `Polarity`:
 
@@ -128,7 +128,7 @@ The most frequent other feature values with which `AUX` and `Polarity` co-occurr
 
 285 <tt>[ADV](cs_cltt-pos-ADV.html)</tt> tokens (36% of all `ADV` tokens) have a non-empty value of `Polarity`.
 
-The most frequent other feature values with which `ADV` and `Polarity` co-occurred: <tt><a href="Degree.html">Degree</a>=Pos</tt> (204; 72%).
+The most frequent other feature values with which `ADV` and `Polarity` co-occurred: <tt>[Degree](cs_cltt-feat-Degree.html)</tt><tt>=Pos</tt> (204; 72%).
 
 `ADV` tokens may have the following values of `Polarity`:
 

@@ -18,7 +18,7 @@ The feature is used with 4 part-of-speech tags: <tt>[VERB](cs_cltt-pos-VERB.html
 
 1426 <tt>[VERB](cs_cltt-pos-VERB.html)</tt> tokens (67% of all `VERB` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (1426; 100%), <tt><a href="Voice.html">Voice</a>=Act</tt> (1426; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (1426; 100%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (1426; 100%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (1425; 100%), <tt><a href="Polarity.html">Polarity</a>=Pos</tt> (1222; 86%), <tt><a href="Number.html">Number</a>=Sing</tt> (982; 69%).
+The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt>[Gender](cs_cltt-feat-Gender.html)</tt><tt>=EMPTY</tt> (1426; 100%), <tt>[Voice](cs_cltt-feat-Voice.html)</tt><tt>=Act</tt> (1426; 100%), <tt>[VerbForm](cs_cltt-feat-VerbForm.html)</tt><tt>=Fin</tt> (1426; 100%), <tt>[Mood](cs_cltt-feat-Mood.html)</tt><tt>=Ind</tt> (1426; 100%), <tt>[Tense](cs_cltt-feat-Tense.html)</tt><tt>=Pres</tt> (1425; 100%), <tt>[Polarity](cs_cltt-feat-Polarity.html)</tt><tt>=Pos</tt> (1222; 86%), <tt>[Number](cs_cltt-feat-Number.html)</tt><tt>=Sing</tt> (982; 69%).
 
 `VERB` tokens may have the following values of `Person`:
 
@@ -31,7 +31,7 @@ The most frequent other feature values with which `VERB` and `Person` co-occurre
 
 454 <tt>[AUX](cs_cltt-pos-AUX.html)</tt> tokens (75% of all `AUX` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `AUX` and `Person` co-occurred: <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (454; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (454; 100%), <tt><a href="Voice.html">Voice</a>=Act</tt> (438; 96%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (438; 96%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (417; 92%), <tt><a href="Polarity.html">Polarity</a>=Pos</tt> (389; 86%), <tt><a href="Number.html">Number</a>=Sing</tt> (241; 53%).
+The most frequent other feature values with which `AUX` and `Person` co-occurred: <tt>[Gender](cs_cltt-feat-Gender.html)</tt><tt>=EMPTY</tt> (454; 100%), <tt>[VerbForm](cs_cltt-feat-VerbForm.html)</tt><tt>=Fin</tt> (454; 100%), <tt>[Voice](cs_cltt-feat-Voice.html)</tt><tt>=Act</tt> (438; 96%), <tt>[Mood](cs_cltt-feat-Mood.html)</tt><tt>=Ind</tt> (438; 96%), <tt>[Tense](cs_cltt-feat-Tense.html)</tt><tt>=Pres</tt> (417; 92%), <tt>[Polarity](cs_cltt-feat-Polarity.html)</tt><tt>=Pos</tt> (389; 86%), <tt>[Number](cs_cltt-feat-Number.html)</tt><tt>=Sing</tt> (241; 53%).
 
 `AUX` tokens may have the following values of `Person`:
 
@@ -42,7 +42,7 @@ The most frequent other feature values with which `AUX` and `Person` co-occurred
 
 216 <tt>[DET](cs_cltt-pos-DET.html)</tt> tokens (36% of all `DET` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `DET` and `Person` co-occurred: <tt><a href="Poss.html">Poss</a>=Yes</tt> (216; 100%), <tt><a href="PronType.html">PronType</a>=Prs</tt> (195; 90%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (189; 88%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (184; 85%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (180; 83%), <tt><a href="Number[psor].html">Number[psor]</a>=Sing</tt> (111; 51%).
+The most frequent other feature values with which `DET` and `Person` co-occurred: <tt>[Poss](cs_cltt-feat-Poss.html)</tt><tt>=Yes</tt> (216; 100%), <tt>[PronType](cs_cltt-feat-PronType.html)</tt><tt>=Prs</tt> (195; 90%), <tt>[Case](cs_cltt-feat-Case.html)</tt><tt>=EMPTY</tt> (189; 88%), <tt>[Gender](cs_cltt-feat-Gender.html)</tt><tt>=EMPTY</tt> (184; 85%), <tt>[Number](cs_cltt-feat-Number.html)</tt><tt>=EMPTY</tt> (180; 83%), <tt>[Number[psor]](cs_cltt-feat-Number-psor.html)</tt><tt>=Sing</tt> (111; 51%).
 
 `DET` tokens may have the following values of `Person`:
 
@@ -53,7 +53,7 @@ The most frequent other feature values with which `DET` and `Person` co-occurred
 
 71 <tt>[PRON](cs_cltt-pos-PRON.html)</tt> tokens (6% of all `PRON` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="PronType.html">PronType</a>=Prs</tt> (71; 100%), <tt><a href="Reflex.html">Reflex</a>=EMPTY</tt> (71; 100%), <tt><a href="Variant.html">Variant</a>=EMPTY</tt> (70; 99%), <tt><a href="Number.html">Number</a>=Sing</tt> (36; 51%).
+The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt>[PronType](cs_cltt-feat-PronType.html)</tt><tt>=Prs</tt> (71; 100%), <tt>[Reflex](cs_cltt-feat-Reflex.html)</tt><tt>=EMPTY</tt> (71; 100%), <tt>[Variant](cs_cltt-feat-Variant.html)</tt><tt>=EMPTY</tt> (70; 99%), <tt>[Number](cs_cltt-feat-Number.html)</tt><tt>=Sing</tt> (36; 51%).
 
 `PRON` tokens may have the following values of `Person`:
 

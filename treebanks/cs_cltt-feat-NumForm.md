@@ -18,7 +18,7 @@ The feature is used with 1 part-of-speech tags: <tt>[NUM](cs_cltt-pos-NUM.html)<
 
 440 <tt>[NUM](cs_cltt-pos-NUM.html)</tt> tokens (100% of all `NUM` tokens) have a non-empty value of `NumForm`.
 
-The most frequent other feature values with which `NUM` and `NumForm` co-occurred: <tt><a href="NumType.html">NumType</a>=Card</tt> (440; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (394; 90%), <tt><a href="NumValue.html">NumValue</a>=EMPTY</tt> (382; 87%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (371; 84%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (371; 84%).
+The most frequent other feature values with which `NUM` and `NumForm` co-occurred: <tt>[NumType](cs_cltt-feat-NumType.html)</tt><tt>=Card</tt> (440; 100%), <tt>[Gender](cs_cltt-feat-Gender.html)</tt><tt>=EMPTY</tt> (394; 90%), <tt>[NumValue](cs_cltt-feat-NumValue.html)</tt><tt>=EMPTY</tt> (382; 87%), <tt>[Case](cs_cltt-feat-Case.html)</tt><tt>=EMPTY</tt> (371; 84%), <tt>[Number](cs_cltt-feat-Number.html)</tt><tt>=EMPTY</tt> (371; 84%).
 
 `NUM` tokens may have the following values of `NumForm`:
 

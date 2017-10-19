@@ -19,7 +19,7 @@ The feature is used with 1 part-of-speech tags: <tt>[NUM](cs_cltt-pos-NUM.html)<
 
 58 <tt>[NUM](cs_cltt-pos-NUM.html)</tt> tokens (13% of all `NUM` tokens) have a non-empty value of `NumValue`.
 
-The most frequent other feature values with which `NUM` and `NumValue` co-occurred: <tt><a href="NumType.html">NumType</a>=Card</tt> (58; 100%), <tt><a href="NumForm.html">NumForm</a>=Word</tt> (58; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (38; 66%).
+The most frequent other feature values with which `NUM` and `NumValue` co-occurred: <tt>[NumType](cs_cltt-feat-NumType.html)</tt><tt>=Card</tt> (58; 100%), <tt>[NumForm](cs_cltt-feat-NumForm.html)</tt><tt>=Word</tt> (58; 100%), <tt>[Number](cs_cltt-feat-Number.html)</tt><tt>=Sing</tt> (38; 66%).
 
 `NUM` tokens may have the following values of `NumValue`:
 

@@ -18,7 +18,7 @@ The feature is used with 2 part-of-speech tags: <tt>[ADJ](cs_cltt-pos-ADJ.html)<
 
 6093 <tt>[ADJ](cs_cltt-pos-ADJ.html)</tt> tokens (93% of all `ADJ` tokens) have a non-empty value of `Degree`.
 
-The most frequent other feature values with which `ADJ` and `Degree` co-occurred: <tt><a href="Polarity.html">Polarity</a>=Pos</tt> (5959; 98%), <tt><a href="Number.html">Number</a>=Sing</tt> (3879; 64%), <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (3665; 60%).
+The most frequent other feature values with which `ADJ` and `Degree` co-occurred: <tt>[Polarity](cs_cltt-feat-Polarity.html)</tt><tt>=Pos</tt> (5959; 98%), <tt>[Number](cs_cltt-feat-Number.html)</tt><tt>=Sing</tt> (3879; 64%), <tt>[Animacy](cs_cltt-feat-Animacy.html)</tt><tt>=EMPTY</tt> (3665; 60%).
 
 `ADJ` tokens may have the following values of `Degree`:
 
@@ -47,7 +47,7 @@ The most frequent other feature values with which `ADJ` and `Degree` co-occurred
 
 285 <tt>[ADV](cs_cltt-pos-ADV.html)</tt> tokens (36% of all `ADV` tokens) have a non-empty value of `Degree`.
 
-The most frequent other feature values with which `ADV` and `Degree` co-occurred: <tt><a href="Polarity.html">Polarity</a>=Pos</tt> (276; 97%).
+The most frequent other feature values with which `ADV` and `Degree` co-occurred: <tt>[Polarity](cs_cltt-feat-Polarity.html)</tt><tt>=Pos</tt> (276; 97%).
 
 `ADV` tokens may have the following values of `Degree`:
 

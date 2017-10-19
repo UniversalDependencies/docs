@@ -18,7 +18,7 @@ The feature is used with 3 part-of-speech tags: <tt>[VERB](cs_cltt-pos-VERB.html
 
 1802 <tt>[VERB](cs_cltt-pos-VERB.html)</tt> tokens (85% of all `VERB` tokens) have a non-empty value of `Voice`.
 
-The most frequent other feature values with which `VERB` and `Voice` co-occurred: <tt><a href="Polarity.html">Polarity</a>=Pos</tt> (1587; 88%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (1426; 79%), <tt><a href="Person.html">Person</a>=3</tt> (1426; 79%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (1426; 79%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (1426; 79%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (1426; 79%), <tt><a href="Number.html">Number</a>=Sing</tt> (1115; 62%).
+The most frequent other feature values with which `VERB` and `Voice` co-occurred: <tt>[Polarity](cs_cltt-feat-Polarity.html)</tt><tt>=Pos</tt> (1587; 88%), <tt>[Gender](cs_cltt-feat-Gender.html)</tt><tt>=EMPTY</tt> (1426; 79%), <tt>[Person](cs_cltt-feat-Person.html)</tt><tt>=3</tt> (1426; 79%), <tt>[VerbForm](cs_cltt-feat-VerbForm.html)</tt><tt>=Fin</tt> (1426; 79%), <tt>[Tense](cs_cltt-feat-Tense.html)</tt><tt>=Pres</tt> (1426; 79%), <tt>[Mood](cs_cltt-feat-Mood.html)</tt><tt>=Ind</tt> (1426; 79%), <tt>[Number](cs_cltt-feat-Number.html)</tt><tt>=Sing</tt> (1115; 62%).
 
 `VERB` tokens may have the following values of `Voice`:
 
@@ -42,7 +42,7 @@ The most frequent other feature values with which `VERB` and `Voice` co-occurred
 
 497 <tt>[AUX](cs_cltt-pos-AUX.html)</tt> tokens (82% of all `AUX` tokens) have a non-empty value of `Voice`.
 
-The most frequent other feature values with which `AUX` and `Voice` co-occurred: <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (438; 88%), <tt><a href="Person.html">Person</a>=3</tt> (438; 88%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (438; 88%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (438; 88%), <tt><a href="Polarity.html">Polarity</a>=Pos</tt> (436; 88%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (417; 84%), <tt><a href="Number.html">Number</a>=Sing</tt> (265; 53%).
+The most frequent other feature values with which `AUX` and `Voice` co-occurred: <tt>[Gender](cs_cltt-feat-Gender.html)</tt><tt>=EMPTY</tt> (438; 88%), <tt>[Person](cs_cltt-feat-Person.html)</tt><tt>=3</tt> (438; 88%), <tt>[VerbForm](cs_cltt-feat-VerbForm.html)</tt><tt>=Fin</tt> (438; 88%), <tt>[Mood](cs_cltt-feat-Mood.html)</tt><tt>=Ind</tt> (438; 88%), <tt>[Polarity](cs_cltt-feat-Polarity.html)</tt><tt>=Pos</tt> (436; 88%), <tt>[Tense](cs_cltt-feat-Tense.html)</tt><tt>=Pres</tt> (417; 84%), <tt>[Number](cs_cltt-feat-Number.html)</tt><tt>=Sing</tt> (265; 53%).
 
 `AUX` tokens may have the following values of `Voice`:
 
@@ -53,7 +53,7 @@ The most frequent other feature values with which `AUX` and `Voice` co-occurred:
 
 288 <tt>[ADJ](cs_cltt-pos-ADJ.html)</tt> tokens (4% of all `ADJ` tokens) have a non-empty value of `Voice`.
 
-The most frequent other feature values with which `ADJ` and `Voice` co-occurred: <tt><a href="Degree.html">Degree</a>=EMPTY</tt> (288; 100%), <tt><a href="Polarity.html">Polarity</a>=Pos</tt> (286; 99%), <tt><a href="Number.html">Number</a>=Sing</tt> (177; 61%), <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (172; 60%).
+The most frequent other feature values with which `ADJ` and `Voice` co-occurred: <tt>[Degree](cs_cltt-feat-Degree.html)</tt><tt>=EMPTY</tt> (288; 100%), <tt>[Polarity](cs_cltt-feat-Polarity.html)</tt><tt>=Pos</tt> (286; 99%), <tt>[Number](cs_cltt-feat-Number.html)</tt><tt>=Sing</tt> (177; 61%), <tt>[Animacy](cs_cltt-feat-Animacy.html)</tt><tt>=EMPTY</tt> (172; 60%).
 
 `ADJ` tokens may have the following values of `Voice`:
 

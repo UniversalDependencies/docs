@@ -18,7 +18,7 @@ The feature is used with 2 part-of-speech tags: <tt>[PRON](cs_cltt-pos-PRON.html
 
 475 <tt>[PRON](cs_cltt-pos-PRON.html)</tt> tokens (39% of all `PRON` tokens) have a non-empty value of `Reflex`.
 
-The most frequent other feature values with which `PRON` and `Reflex` co-occurred: <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (475; 100%), <tt><a href="PronType.html">PronType</a>=Prs</tt> (475; 100%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (475; 100%), <tt><a href="Variant.html">Variant</a>=Short</tt> (468; 99%), <tt><a href="Case.html">Case</a>=Acc</tt> (467; 98%).
+The most frequent other feature values with which `PRON` and `Reflex` co-occurred: <tt>[Gender](cs_cltt-feat-Gender.html)</tt><tt>=EMPTY</tt> (475; 100%), <tt>[PronType](cs_cltt-feat-PronType.html)</tt><tt>=Prs</tt> (475; 100%), <tt>[Number](cs_cltt-feat-Number.html)</tt><tt>=EMPTY</tt> (475; 100%), <tt>[Variant](cs_cltt-feat-Variant.html)</tt><tt>=Short</tt> (468; 99%), <tt>[Case](cs_cltt-feat-Case.html)</tt><tt>=Acc</tt> (467; 98%).
 
 `PRON` tokens may have the following values of `Reflex`:
 
@@ -29,7 +29,7 @@ The most frequent other feature values with which `PRON` and `Reflex` co-occurre
 
 24 <tt>[DET](cs_cltt-pos-DET.html)</tt> tokens (4% of all `DET` tokens) have a non-empty value of `Reflex`.
 
-The most frequent other feature values with which `DET` and `Reflex` co-occurred: <tt><a href="Poss.html">Poss</a>=Yes</tt> (24; 100%), <tt><a href="PronType.html">PronType</a>=Prs</tt> (24; 100%), <tt><a href="Number[psor].html">Number[psor]</a>=EMPTY</tt> (24; 100%), <tt><a href="Gender[psor].html">Gender[psor]</a>=EMPTY</tt> (24; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (24; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (20; 83%).
+The most frequent other feature values with which `DET` and `Reflex` co-occurred: <tt>[Poss](cs_cltt-feat-Poss.html)</tt><tt>=Yes</tt> (24; 100%), <tt>[PronType](cs_cltt-feat-PronType.html)</tt><tt>=Prs</tt> (24; 100%), <tt>[Number[psor]](cs_cltt-feat-Number-psor.html)</tt><tt>=EMPTY</tt> (24; 100%), <tt>[Gender[psor]](cs_cltt-feat-Gender-psor.html)</tt><tt>=EMPTY</tt> (24; 100%), <tt>[Person](cs_cltt-feat-Person.html)</tt><tt>=EMPTY</tt> (24; 100%), <tt>[Number](cs_cltt-feat-Number.html)</tt><tt>=Sing</tt> (20; 83%).
 
 `DET` tokens may have the following values of `Reflex`:
 

@@ -18,7 +18,7 @@ The feature is used with 2 part-of-speech tags: <tt>[DET](cs_cltt-pos-DET.html)<
 
 240 <tt>[DET](cs_cltt-pos-DET.html)</tt> tokens (40% of all `DET` tokens) have a non-empty value of `Poss`.
 
-The most frequent other feature values with which `DET` and `Poss` co-occurred: <tt><a href="PronType.html">PronType</a>=Prs</tt> (219; 91%), <tt><a href="Person.html">Person</a>=3</tt> (216; 90%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (189; 79%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (187; 78%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (180; 75%), <tt><a href="Gender[psor].html">Gender[psor]</a>=EMPTY</tt> (129; 54%).
+The most frequent other feature values with which `DET` and `Poss` co-occurred: <tt>[PronType](cs_cltt-feat-PronType.html)</tt><tt>=Prs</tt> (219; 91%), <tt>[Person](cs_cltt-feat-Person.html)</tt><tt>=3</tt> (216; 90%), <tt>[Case](cs_cltt-feat-Case.html)</tt><tt>=EMPTY</tt> (189; 79%), <tt>[Gender](cs_cltt-feat-Gender.html)</tt><tt>=EMPTY</tt> (187; 78%), <tt>[Number](cs_cltt-feat-Number.html)</tt><tt>=EMPTY</tt> (180; 75%), <tt>[Gender[psor]](cs_cltt-feat-Gender-psor.html)</tt><tt>=EMPTY</tt> (129; 54%).
 
 `DET` tokens may have the following values of `Poss`:
 
@@ -29,7 +29,7 @@ The most frequent other feature values with which `DET` and `Poss` co-occurred: 
 
 1 <tt>[ADJ](cs_cltt-pos-ADJ.html)</tt> tokens (0% of all `ADJ` tokens) have a non-empty value of `Poss`.
 
-The most frequent other feature values with which `ADJ` and `Poss` co-occurred: <tt><a href="Degree.html">Degree</a>=EMPTY</tt> (1; 100%), <tt><a href="Polarity.html">Polarity</a>=EMPTY</tt> (1; 100%), <tt><a href="Case.html">Case</a>=Nom</tt> (1; 100%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (1; 100%), <tt><a href="Number.html">Number</a>=Plur</tt> (1; 100%), <tt><a href="Animacy.html">Animacy</a>=Anim</tt> (1; 100%).
+The most frequent other feature values with which `ADJ` and `Poss` co-occurred: <tt>[Degree](cs_cltt-feat-Degree.html)</tt><tt>=EMPTY</tt> (1; 100%), <tt>[Polarity](cs_cltt-feat-Polarity.html)</tt><tt>=EMPTY</tt> (1; 100%), <tt>[Case](cs_cltt-feat-Case.html)</tt><tt>=Nom</tt> (1; 100%), <tt>[Gender](cs_cltt-feat-Gender.html)</tt><tt>=Masc</tt> (1; 100%), <tt>[Number](cs_cltt-feat-Number.html)</tt><tt>=Plur</tt> (1; 100%), <tt>[Animacy](cs_cltt-feat-Animacy.html)</tt><tt>=Anim</tt> (1; 100%).
 
 `ADJ` tokens may have the following values of `Poss`:
 
