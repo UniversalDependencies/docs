@@ -26,7 +26,7 @@ Genre: legal
 Questions, comments?
 General annotation questions (either Czech-specific or cross-linguistic) can be raised in the [main UD issue tracker](https://github.com/UniversalDependencies/docs/issues).
 You can report bugs in this treebank in the [treebank-specific issue tracker on Github](https://github.com/UniversalDependencies/UD_Czech-CLTT/issues).
-If you want to collaborate, please contact [zeman&nbsp;(Ã¦t)&nbsp;ufal&nbsp;â¢&nbsp;mff&nbsp;â¢&nbsp;cuni&nbsp;â¢&nbsp;cz].
+If you want to collaborate, please contact [zeman&nbsp;(æt)&nbsp;ufal&nbsp;•&nbsp;mff&nbsp;•&nbsp;cuni&nbsp;•&nbsp;cz].
 
 | Annotation | Source |
 |------------|--------|
