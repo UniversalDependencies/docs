@@ -14,11 +14,11 @@ This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with t
 216 tokens (1%) have a non-empty value of `Number[psor]`.
 12 types (0%) occur at least once with a non-empty value of `Number[psor]`.
 2 lemmas (0%) occur at least once with a non-empty value of `Number[psor]`.
-The feature is used with 1 part-of-speech tags: `[DET](cs_cltt-pos-DET.html)` (216; 1% instances).
+The feature is used with 1 part-of-speech tags: <tt>[DET](cs_cltt-pos-DET.html)</tt> (216; 1% instances).
 
 ### `DET`
 
-216 `[DET](cs_cltt-pos-DET.html)` tokens (36% of all `DET` tokens) have a non-empty value of `Number[psor]`.
+216 <tt>[DET](cs_cltt-pos-DET.html)</tt> tokens (36% of all `DET` tokens) have a non-empty value of `Number[psor]`.
 
 The most frequent other feature values with which `DET` and `Number[psor]` co-occurred: <tt><a href="Poss.html">Poss</a>=Yes</tt> (216; 100%), <tt><a href="Person.html">Person</a>=3</tt> (216; 100%), <tt><a href="PronType.html">PronType</a>=Prs</tt> (195; 90%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (189; 88%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (184; 85%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (180; 83%).
 

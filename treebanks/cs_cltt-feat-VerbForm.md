@@ -12,11 +12,11 @@ It occurs with 4 different values: `Conv`, `Fin`, `Inf`, `Part`.
 2975 tokens (8%) have a non-empty value of `VerbForm`.
 756 types (17%) occur at least once with a non-empty value of `VerbForm`.
 366 lemmas (14%) occur at least once with a non-empty value of `VerbForm`.
-The feature is used with 3 part-of-speech tags: `[VERB](cs_cltt-pos-VERB.html)` (2117; 6% instances), `[AUX](cs_cltt-pos-AUX.html)` (570; 2% instances), `[ADJ](cs_cltt-pos-ADJ.html)` (288; 1% instances).
+The feature is used with 3 part-of-speech tags: <tt>[VERB](cs_cltt-pos-VERB.html)</tt> (2117; 6% instances), <tt>[AUX](cs_cltt-pos-AUX.html)</tt> (570; 2% instances), <tt>[ADJ](cs_cltt-pos-ADJ.html)</tt> (288; 1% instances).
 
 ### `VERB`
 
-2117 `[VERB](cs_cltt-pos-VERB.html)` tokens (100% of all `VERB` tokens) have a non-empty value of `VerbForm`.
+2117 <tt>[VERB](cs_cltt-pos-VERB.html)</tt> tokens (100% of all `VERB` tokens) have a non-empty value of `VerbForm`.
 
 The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="Polarity.html">Polarity</a>=Pos</tt> (1900; 90%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (1741; 82%), <tt><a href="Voice.html">Voice</a>=Act</tt> (1542; 73%), <tt><a href="Person.html">Person</a>=3</tt> (1426; 67%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (1426; 67%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (1426; 67%), <tt><a href="Number.html">Number</a>=Sing</tt> (1115; 53%).
 
@@ -38,7 +38,7 @@ The most frequent other feature values with which `VERB` and `VerbForm` co-occur
 
 ### `AUX`
 
-570 `[AUX](cs_cltt-pos-AUX.html)` tokens (94% of all `AUX` tokens) have a non-empty value of `VerbForm`.
+570 <tt>[AUX](cs_cltt-pos-AUX.html)</tt> tokens (94% of all `AUX` tokens) have a non-empty value of `VerbForm`.
 
 The most frequent other feature values with which `AUX` and `VerbForm` co-occurred: <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (511; 90%), <tt><a href="Voice.html">Voice</a>=Act</tt> (497; 87%), <tt><a href="Polarity.html">Polarity</a>=Pos</tt> (483; 85%), <tt><a href="Person.html">Person</a>=3</tt> (454; 80%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (438; 77%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (417; 73%).
 
@@ -70,7 +70,7 @@ The most frequent other feature values with which `AUX` and `VerbForm` co-occurr
 
 ### `ADJ`
 
-288 `[ADJ](cs_cltt-pos-ADJ.html)` tokens (4% of all `ADJ` tokens) have a non-empty value of `VerbForm`.
+288 <tt>[ADJ](cs_cltt-pos-ADJ.html)</tt> tokens (4% of all `ADJ` tokens) have a non-empty value of `VerbForm`.
 
 The most frequent other feature values with which `ADJ` and `VerbForm` co-occurred: <tt><a href="Degree.html">Degree</a>=EMPTY</tt> (288; 100%), <tt><a href="Polarity.html">Polarity</a>=Pos</tt> (286; 99%), <tt><a href="Number.html">Number</a>=Sing</tt> (177; 61%), <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (172; 60%).
 

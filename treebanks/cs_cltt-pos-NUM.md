@@ -13,41 +13,41 @@ The 10 most frequent `NUM` lemmas: 1 3 2 jeden 4 5 dva 41 7 dvanáct
 
 The 10 most frequent `NUM` types:  1 3 2 4 jeden 5 41 7 jedné tří
 
-The 10 most frequent ambiguous lemmas: 1 (`[NUM](cs_cltt-pos-NUM.html)` 104, `[X](cs_cltt-pos-X.html)` 91), 3 (`[X](cs_cltt-pos-X.html)` 62, `[NUM](cs_cltt-pos-NUM.html)` 47), 2 (`[X](cs_cltt-pos-X.html)` 81, `[NUM](cs_cltt-pos-NUM.html)` 46), 4 (`[X](cs_cltt-pos-X.html)` 39, `[NUM](cs_cltt-pos-NUM.html)` 18), 5 (`[X](cs_cltt-pos-X.html)` 19, `[NUM](cs_cltt-pos-NUM.html)` 14), 41 (`[NUM](cs_cltt-pos-NUM.html)` 7, `[X](cs_cltt-pos-X.html)` 2), 7 (`[X](cs_cltt-pos-X.html)` 22, `[NUM](cs_cltt-pos-NUM.html)` 7), 10 (`[X](cs_cltt-pos-X.html)` 9, `[NUM](cs_cltt-pos-NUM.html)` 5), 31 (`[X](cs_cltt-pos-X.html)` 10, `[NUM](cs_cltt-pos-NUM.html)` 5), 6 (`[X](cs_cltt-pos-X.html)` 20, `[NUM](cs_cltt-pos-NUM.html)` 5)
+The 10 most frequent ambiguous lemmas: 1 (<tt>[NUM](cs_cltt-pos-NUM.html)</tt> 104, <tt>[X](cs_cltt-pos-X.html)</tt> 91), 3 (<tt>[X](cs_cltt-pos-X.html)</tt> 62, <tt>[NUM](cs_cltt-pos-NUM.html)</tt> 47), 2 (<tt>[X](cs_cltt-pos-X.html)</tt> 81, <tt>[NUM](cs_cltt-pos-NUM.html)</tt> 46), 4 (<tt>[X](cs_cltt-pos-X.html)</tt> 39, <tt>[NUM](cs_cltt-pos-NUM.html)</tt> 18), 5 (<tt>[X](cs_cltt-pos-X.html)</tt> 19, <tt>[NUM](cs_cltt-pos-NUM.html)</tt> 14), 41 (<tt>[NUM](cs_cltt-pos-NUM.html)</tt> 7, <tt>[X](cs_cltt-pos-X.html)</tt> 2), 7 (<tt>[X](cs_cltt-pos-X.html)</tt> 22, <tt>[NUM](cs_cltt-pos-NUM.html)</tt> 7), 10 (<tt>[X](cs_cltt-pos-X.html)</tt> 9, <tt>[NUM](cs_cltt-pos-NUM.html)</tt> 5), 31 (<tt>[X](cs_cltt-pos-X.html)</tt> 10, <tt>[NUM](cs_cltt-pos-NUM.html)</tt> 5), 6 (<tt>[X](cs_cltt-pos-X.html)</tt> 20, <tt>[NUM](cs_cltt-pos-NUM.html)</tt> 5)
 
-The 10 most frequent ambiguous types:  1 (`[NUM](cs_cltt-pos-NUM.html)` 104, `[X](cs_cltt-pos-X.html)` 91), 3 (`[X](cs_cltt-pos-X.html)` 62, `[NUM](cs_cltt-pos-NUM.html)` 47), 2 (`[X](cs_cltt-pos-X.html)` 81, `[NUM](cs_cltt-pos-NUM.html)` 46), 4 (`[X](cs_cltt-pos-X.html)` 39, `[NUM](cs_cltt-pos-NUM.html)` 18), 5 (`[X](cs_cltt-pos-X.html)` 19, `[NUM](cs_cltt-pos-NUM.html)` 14), 41 (`[NUM](cs_cltt-pos-NUM.html)` 7, `[X](cs_cltt-pos-X.html)` 2), 7 (`[X](cs_cltt-pos-X.html)` 22, `[NUM](cs_cltt-pos-NUM.html)` 7), 10 (`[X](cs_cltt-pos-X.html)` 9, `[NUM](cs_cltt-pos-NUM.html)` 5), 31 (`[X](cs_cltt-pos-X.html)` 10, `[NUM](cs_cltt-pos-NUM.html)` 5), 6 (`[X](cs_cltt-pos-X.html)` 20, `[NUM](cs_cltt-pos-NUM.html)` 5)
+The 10 most frequent ambiguous types:  1 (<tt>[NUM](cs_cltt-pos-NUM.html)</tt> 104, <tt>[X](cs_cltt-pos-X.html)</tt> 91), 3 (<tt>[X](cs_cltt-pos-X.html)</tt> 62, <tt>[NUM](cs_cltt-pos-NUM.html)</tt> 47), 2 (<tt>[X](cs_cltt-pos-X.html)</tt> 81, <tt>[NUM](cs_cltt-pos-NUM.html)</tt> 46), 4 (<tt>[X](cs_cltt-pos-X.html)</tt> 39, <tt>[NUM](cs_cltt-pos-NUM.html)</tt> 18), 5 (<tt>[X](cs_cltt-pos-X.html)</tt> 19, <tt>[NUM](cs_cltt-pos-NUM.html)</tt> 14), 41 (<tt>[NUM](cs_cltt-pos-NUM.html)</tt> 7, <tt>[X](cs_cltt-pos-X.html)</tt> 2), 7 (<tt>[X](cs_cltt-pos-X.html)</tt> 22, <tt>[NUM](cs_cltt-pos-NUM.html)</tt> 7), 10 (<tt>[X](cs_cltt-pos-X.html)</tt> 9, <tt>[NUM](cs_cltt-pos-NUM.html)</tt> 5), 31 (<tt>[X](cs_cltt-pos-X.html)</tt> 10, <tt>[NUM](cs_cltt-pos-NUM.html)</tt> 5), 6 (<tt>[X](cs_cltt-pos-X.html)</tt> 20, <tt>[NUM](cs_cltt-pos-NUM.html)</tt> 5)
 
 
 * 1
-  * `[NUM](cs_cltt-pos-NUM.html)` 104: Tato vyhláška nabývá účinnosti dnem <b>1</b> . ledna 2003 .
-  * `[X](cs_cltt-pos-X.html)` 91: (2) Ministerstvo může vydat vyhlášku k provedení § 36 odst. <b>1</b> .
+  * <tt>[NUM](cs_cltt-pos-NUM.html)</tt> 104: Tato vyhláška nabývá účinnosti dnem <b>1</b> . ledna 2003 .
+  * <tt>[X](cs_cltt-pos-X.html)</tt> 91: (2) Ministerstvo může vydat vyhlášku k provedení § 36 odst. <b>1</b> .
 * 3
-  * `[X](cs_cltt-pos-X.html)` 62: § <b>3</b>
-  * `[NUM](cs_cltt-pos-NUM.html)` 47: (9) Kromě případů podle odstavců 1 a <b>3</b> žádný jiný účetní záznam nesmí být označován názvy podle § 18 odst. 1 .
+  * <tt>[X](cs_cltt-pos-X.html)</tt> 62: § <b>3</b>
+  * <tt>[NUM](cs_cltt-pos-NUM.html)</tt> 47: (9) Kromě případů podle odstavců 1 a <b>3</b> žádný jiný účetní záznam nesmí být označován názvy podle § 18 odst. 1 .
 * 2
-  * `[X](cs_cltt-pos-X.html)` 81: Výroční zpráva se nevyhotovuje v případech uvedených v § 20 odst. <b>2</b> .
-  * `[NUM](cs_cltt-pos-NUM.html)` 46: (3) Uplatnění postupu podle odstavců 1 a <b>2</b> není porušením ustanovení § 3 odst. 1 a § 7 odst. 1 a 2 .
+  * <tt>[X](cs_cltt-pos-X.html)</tt> 81: Výroční zpráva se nevyhotovuje v případech uvedených v § 20 odst. <b>2</b> .
+  * <tt>[NUM](cs_cltt-pos-NUM.html)</tt> 46: (3) Uplatnění postupu podle odstavců 1 a <b>2</b> není porušením ustanovení § 3 odst. 1 a § 7 odst. 1 a 2 .
 * 4
-  * `[X](cs_cltt-pos-X.html)` 39: Směrná účtová osnova je uvedena v příloze č. <b>4</b> k této vyhlášce .
-  * `[NUM](cs_cltt-pos-NUM.html)` 18: (5) Při průběžné inventarizaci se odstavec <b>4</b> použije obdobně .
+  * <tt>[X](cs_cltt-pos-X.html)</tt> 39: Směrná účtová osnova je uvedena v příloze č. <b>4</b> k této vyhlášce .
+  * <tt>[NUM](cs_cltt-pos-NUM.html)</tt> 18: (5) Při průběžné inventarizaci se odstavec <b>4</b> použije obdobně .
 * 5
-  * `[X](cs_cltt-pos-X.html)` 19: § <b>5</b>
-  * `[NUM](cs_cltt-pos-NUM.html)` 14: (6) Ustanovení odstavců 1 až <b>5</b> se nepoužijí při změně právní formy a přeshraničním přemístění sídla .
+  * <tt>[X](cs_cltt-pos-X.html)</tt> 19: § <b>5</b>
+  * <tt>[NUM](cs_cltt-pos-NUM.html)</tt> 14: (6) Ustanovení odstavců 1 až <b>5</b> se nepoužijí při změně právní formy a přeshraničním přemístění sídla .
 * 41
-  * `[NUM](cs_cltt-pos-NUM.html)` 7: (2) Změny reálné hodnoty derivátu zajišťujícího očekávané peněžní toky se účtují prostřednictvím rozvahových účtů v účtové skupině <b>41</b> .
-  * `[X](cs_cltt-pos-X.html)` 2: § <b>41</b>
+  * <tt>[NUM](cs_cltt-pos-NUM.html)</tt> 7: (2) Změny reálné hodnoty derivátu zajišťujícího očekávané peněžní toky se účtují prostřednictvím rozvahových účtů v účtové skupině <b>41</b> .
+  * <tt>[X](cs_cltt-pos-X.html)</tt> 2: § <b>41</b>
 * 7
-  * `[X](cs_cltt-pos-X.html)` 22: § <b>7</b>
-  * `[NUM](cs_cltt-pos-NUM.html)` 7: (8) Ustanovení odstavců 1 až <b>7</b> platí pro konsolidovanou účetní závěrku a výroční zprávu obdobně .
+  * <tt>[X](cs_cltt-pos-X.html)</tt> 22: § <b>7</b>
+  * <tt>[NUM](cs_cltt-pos-NUM.html)</tt> 7: (8) Ustanovení odstavců 1 až <b>7</b> platí pro konsolidovanou účetní závěrku a výroční zprávu obdobně .
 * 10
-  * `[X](cs_cltt-pos-X.html)` 9: § <b>10</b>
-  * `[NUM](cs_cltt-pos-NUM.html)` 5: (8) Identifikačním záznamem se rozumí účetní záznam , který není podpisovým záznamem podle odstavce 4 , připojený k jinému účetnímu záznamu a) automaticky technickým prostředkem ( § 4 odst. 10 ) , nebo b) fyzickou osobou odpovědnou podle odstavce <b>10</b> , který umožňuje jednoznačné určení uvedeného technického prostředku nebo fyzické osoby .
+  * <tt>[X](cs_cltt-pos-X.html)</tt> 9: § <b>10</b>
+  * <tt>[NUM](cs_cltt-pos-NUM.html)</tt> 5: (8) Identifikačním záznamem se rozumí účetní záznam , který není podpisovým záznamem podle odstavce 4 , připojený k jinému účetnímu záznamu a) automaticky technickým prostředkem ( § 4 odst. 10 ) , nebo b) fyzickou osobou odpovědnou podle odstavce <b>10</b> , který umožňuje jednoznačné určení uvedeného technického prostředku nebo fyzické osoby .
 * 31
-  * `[X](cs_cltt-pos-X.html)` 10: § <b>31</b>
-  * `[NUM](cs_cltt-pos-NUM.html)` 5: 2 . Ustanovení čl. I bodu 4 se použije již v účetní závěrce sestavované ke dni <b>31</b> . prosince 2008 .
+  * <tt>[X](cs_cltt-pos-X.html)</tt> 10: § <b>31</b>
+  * <tt>[NUM](cs_cltt-pos-NUM.html)</tt> 5: 2 . Ustanovení čl. I bodu 4 se použije již v účetní závěrce sestavované ke dni <b>31</b> . prosince 2008 .
 * 6
-  * `[X](cs_cltt-pos-X.html)` 20: § <b>6</b>
-  * `[NUM](cs_cltt-pos-NUM.html)` 5: (7) Pro zahrnutí účetních jednotek pod společným vlivem do položek konsolidované účetní závěrky se přiměřeně použijí ustanovení odstavce <b>6</b> .
+  * <tt>[X](cs_cltt-pos-X.html)</tt> 20: § <b>6</b>
+  * <tt>[NUM](cs_cltt-pos-NUM.html)</tt> 5: (7) Pro zahrnutí účetních jednotek pod společným vlivem do položek konsolidované účetní závěrky se přiměřeně použijí ustanovení odstavce <b>6</b> .
 
 ## Morphology
 
@@ -59,7 +59,7 @@ The 2nd highest number of forms (4) was observed with the lemma “dva”: dva, 
 
 The 3rd highest number of forms (2) was observed with the lemma “dvanáct”: dvanáct, dvanácti.
 
-`NUM` occurs with 7 features: `[NumForm](cs_cltt-feat-NumForm.html)` (440; 100% instances), `[NumType](cs_cltt-feat-NumType.html)` (440; 100% instances), `[Case](cs_cltt-feat-Case.html)` (69; 16% instances), `[Number](cs_cltt-feat-Number.html)` (69; 16% instances), `[NumValue](cs_cltt-feat-NumValue.html)` (58; 13% instances), `[Gender](cs_cltt-feat-Gender.html)` (46; 10% instances), `[Animacy](cs_cltt-feat-Animacy.html)` (12; 3% instances)
+`NUM` occurs with 7 features: <tt>[NumForm](cs_cltt-feat-NumForm.html)</tt> (440; 100% instances), <tt>[NumType](cs_cltt-feat-NumType.html)</tt> (440; 100% instances), <tt>[Case](cs_cltt-feat-Case.html)</tt> (69; 16% instances), <tt>[Number](cs_cltt-feat-Number.html)</tt> (69; 16% instances), <tt>[NumValue](cs_cltt-feat-NumValue.html)</tt> (58; 13% instances), <tt>[Gender](cs_cltt-feat-Gender.html)</tt> (46; 10% instances), <tt>[Animacy](cs_cltt-feat-Animacy.html)</tt> (12; 3% instances)
 
 `NUM` occurs with 18 feature-value pairs: `Animacy=Inan`, `Case=Acc`, `Case=Dat`, `Case=Gen`, `Case=Ins`, `Case=Loc`, `Case=Nom`, `Gender=Fem`, `Gender=Fem,Neut`, `Gender=Masc`, `Gender=Masc,Neut`, `Gender=Neut`, `NumForm=Roman`, `NumForm=Word`, `NumType=Card`, `NumValue=1,2,3`, `Number=Plur`, `Number=Sing`
 
@@ -70,9 +70,9 @@ Examples: 1 3 2 4 5 41 7 10 2004 2008
 
 ## Relations
 
-`NUM` nodes are attached to their parents using 12 different relations: `[nummod](cs_cltt-dep-nummod.html)` (286; 65% instances), `[conj](cs_cltt-dep-conj.html)` (44; 10% instances), `[nmod](cs_cltt-dep-nmod.html)` (27; 6% instances), `[nummod:gov](cs_cltt-dep-nummod:gov.html)` (24; 5% instances), `[obl](cs_cltt-dep-obl.html)` (23; 5% instances), `[advcl](cs_cltt-dep-advcl.html)` (17; 4% instances), `[obj](cs_cltt-dep-obj.html)` (9; 2% instances), `[advmod](cs_cltt-dep-advmod.html)` (5; 1% instances), `[nsubj](cs_cltt-dep-nsubj.html)` (2; 0% instances), `[compound](cs_cltt-dep-compound.html)` (1; 0% instances), `[dep](cs_cltt-dep-dep.html)` (1; 0% instances), `[orphan](cs_cltt-dep-orphan.html)` (1; 0% instances)
+`NUM` nodes are attached to their parents using 12 different relations: <tt>[nummod](cs_cltt-dep-nummod.html)</tt> (286; 65% instances), <tt>[conj](cs_cltt-dep-conj.html)</tt> (44; 10% instances), <tt>[nmod](cs_cltt-dep-nmod.html)</tt> (27; 6% instances), <tt>[nummod:gov](cs_cltt-dep-nummod:gov.html)</tt> (24; 5% instances), <tt>[obl](cs_cltt-dep-obl.html)</tt> (23; 5% instances), <tt>[advcl](cs_cltt-dep-advcl.html)</tt> (17; 4% instances), <tt>[obj](cs_cltt-dep-obj.html)</tt> (9; 2% instances), <tt>[advmod](cs_cltt-dep-advmod.html)</tt> (5; 1% instances), <tt>[nsubj](cs_cltt-dep-nsubj.html)</tt> (2; 0% instances), <tt>[compound](cs_cltt-dep-compound.html)</tt> (1; 0% instances), <tt>[dep](cs_cltt-dep-dep.html)</tt> (1; 0% instances), <tt>[orphan](cs_cltt-dep-orphan.html)</tt> (1; 0% instances)
 
-Parents of `NUM` nodes belong to 7 different parts of speech: `[NOUN](cs_cltt-pos-NOUN.html)` (338; 77% instances), `[NUM](cs_cltt-pos-NUM.html)` (40; 9% instances), `[VERB](cs_cltt-pos-VERB.html)` (36; 8% instances), `[ADV](cs_cltt-pos-ADV.html)` (13; 3% instances), `[ADJ](cs_cltt-pos-ADJ.html)` (6; 1% instances), `[X](cs_cltt-pos-X.html)` (6; 1% instances), `[SYM](cs_cltt-pos-SYM.html)` (1; 0% instances)
+Parents of `NUM` nodes belong to 7 different parts of speech: <tt>[NOUN](cs_cltt-pos-NOUN.html)</tt> (338; 77% instances), <tt>[NUM](cs_cltt-pos-NUM.html)</tt> (40; 9% instances), <tt>[VERB](cs_cltt-pos-VERB.html)</tt> (36; 8% instances), <tt>[ADV](cs_cltt-pos-ADV.html)</tt> (13; 3% instances), <tt>[ADJ](cs_cltt-pos-ADJ.html)</tt> (6; 1% instances), <tt>[X](cs_cltt-pos-X.html)</tt> (6; 1% instances), <tt>[SYM](cs_cltt-pos-SYM.html)</tt> (1; 0% instances)
 
 233 (53%) `NUM` nodes are leaves.
 
@@ -84,7 +84,7 @@ Parents of `NUM` nodes belong to 7 different parts of speech: `[NOUN](cs_cltt-po
 
 The highest child degree of a `NUM` node is 8.
 
-Children of `NUM` nodes are attached using 13 different relations: `[punct](cs_cltt-dep-punct.html)` (87; 32% instances), `[nmod](cs_cltt-dep-nmod.html)` (61; 22% instances), `[conj](cs_cltt-dep-conj.html)` (43; 16% instances), `[cc](cs_cltt-dep-cc.html)` (34; 12% instances), `[mark](cs_cltt-dep-mark.html)` (17; 6% instances), `[advmod:emph](cs_cltt-dep-advmod:emph.html)` (14; 5% instances), `[dep](cs_cltt-dep-dep.html)` (7; 3% instances), `[advmod](cs_cltt-dep-advmod.html)` (3; 1% instances), `[case](cs_cltt-dep-case.html)` (3; 1% instances), `[compound](cs_cltt-dep-compound.html)` (1; 0% instances), `[cop](cs_cltt-dep-cop.html)` (1; 0% instances), `[nsubj](cs_cltt-dep-nsubj.html)` (1; 0% instances), `[obl](cs_cltt-dep-obl.html)` (1; 0% instances)
+Children of `NUM` nodes are attached using 13 different relations: <tt>[punct](cs_cltt-dep-punct.html)</tt> (87; 32% instances), <tt>[nmod](cs_cltt-dep-nmod.html)</tt> (61; 22% instances), <tt>[conj](cs_cltt-dep-conj.html)</tt> (43; 16% instances), <tt>[cc](cs_cltt-dep-cc.html)</tt> (34; 12% instances), <tt>[mark](cs_cltt-dep-mark.html)</tt> (17; 6% instances), <tt>[advmod:emph](cs_cltt-dep-advmod:emph.html)</tt> (14; 5% instances), <tt>[dep](cs_cltt-dep-dep.html)</tt> (7; 3% instances), <tt>[advmod](cs_cltt-dep-advmod.html)</tt> (3; 1% instances), <tt>[case](cs_cltt-dep-case.html)</tt> (3; 1% instances), <tt>[compound](cs_cltt-dep-compound.html)</tt> (1; 0% instances), <tt>[cop](cs_cltt-dep-cop.html)</tt> (1; 0% instances), <tt>[nsubj](cs_cltt-dep-nsubj.html)</tt> (1; 0% instances), <tt>[obl](cs_cltt-dep-obl.html)</tt> (1; 0% instances)
 
-Children of `NUM` nodes belong to 12 different parts of speech: `[PUNCT](cs_cltt-pos-PUNCT.html)` (87; 32% instances), `[NUM](cs_cltt-pos-NUM.html)` (40; 15% instances), `[X](cs_cltt-pos-X.html)` (33; 12% instances), `[NOUN](cs_cltt-pos-NOUN.html)` (25; 9% instances), `[CCONJ](cs_cltt-pos-CCONJ.html)` (24; 9% instances), `[SCONJ](cs_cltt-pos-SCONJ.html)` (21; 8% instances), `[ADV](cs_cltt-pos-ADV.html)` (20; 7% instances), `[SYM](cs_cltt-pos-SYM.html)` (13; 5% instances), `[PART](cs_cltt-pos-PART.html)` (6; 2% instances), `[ADP](cs_cltt-pos-ADP.html)` (2; 1% instances), `[AUX](cs_cltt-pos-AUX.html)` (1; 0% instances), `[PRON](cs_cltt-pos-PRON.html)` (1; 0% instances)
+Children of `NUM` nodes belong to 12 different parts of speech: <tt>[PUNCT](cs_cltt-pos-PUNCT.html)</tt> (87; 32% instances), <tt>[NUM](cs_cltt-pos-NUM.html)</tt> (40; 15% instances), <tt>[X](cs_cltt-pos-X.html)</tt> (33; 12% instances), <tt>[NOUN](cs_cltt-pos-NOUN.html)</tt> (25; 9% instances), <tt>[CCONJ](cs_cltt-pos-CCONJ.html)</tt> (24; 9% instances), <tt>[SCONJ](cs_cltt-pos-SCONJ.html)</tt> (21; 8% instances), <tt>[ADV](cs_cltt-pos-ADV.html)</tt> (20; 7% instances), <tt>[SYM](cs_cltt-pos-SYM.html)</tt> (13; 5% instances), <tt>[PART](cs_cltt-pos-PART.html)</tt> (6; 2% instances), <tt>[ADP](cs_cltt-pos-ADP.html)</tt> (2; 1% instances), <tt>[AUX](cs_cltt-pos-AUX.html)</tt> (1; 0% instances), <tt>[PRON](cs_cltt-pos-PRON.html)</tt> (1; 0% instances)
 

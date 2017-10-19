@@ -12,11 +12,11 @@ It occurs with 3 different values: `Card`, `Mult`, `Ord`.
 499 tokens (1%) have a non-empty value of `NumType`.
 112 types (2%) occur at least once with a non-empty value of `NumType`.
 93 lemmas (4%) occur at least once with a non-empty value of `NumType`.
-The feature is used with 5 part-of-speech tags: `[NUM](cs_cltt-pos-NUM.html)` (440; 1% instances), `[ADJ](cs_cltt-pos-ADJ.html)` (43; 0% instances), `[ADV](cs_cltt-pos-ADV.html)` (14; 0% instances), `[DET](cs_cltt-pos-DET.html)` (1; 0% instances), `[PRON](cs_cltt-pos-PRON.html)` (1; 0% instances).
+The feature is used with 5 part-of-speech tags: <tt>[NUM](cs_cltt-pos-NUM.html)</tt> (440; 1% instances), <tt>[ADJ](cs_cltt-pos-ADJ.html)</tt> (43; 0% instances), <tt>[ADV](cs_cltt-pos-ADV.html)</tt> (14; 0% instances), <tt>[DET](cs_cltt-pos-DET.html)</tt> (1; 0% instances), <tt>[PRON](cs_cltt-pos-PRON.html)</tt> (1; 0% instances).
 
 ### `NUM`
 
-440 `[NUM](cs_cltt-pos-NUM.html)` tokens (100% of all `NUM` tokens) have a non-empty value of `NumType`.
+440 <tt>[NUM](cs_cltt-pos-NUM.html)</tt> tokens (100% of all `NUM` tokens) have a non-empty value of `NumType`.
 
 The most frequent other feature values with which `NUM` and `NumType` co-occurred: <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (394; 90%), <tt><a href="NumValue.html">NumValue</a>=EMPTY</tt> (382; 87%), <tt><a href="NumForm.html">NumForm</a>=Roman</tt> (371; 84%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (371; 84%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (371; 84%).
 
@@ -28,7 +28,7 @@ The most frequent other feature values with which `NUM` and `NumType` co-occurre
 
 ### `ADJ`
 
-43 `[ADJ](cs_cltt-pos-ADJ.html)` tokens (1% of all `ADJ` tokens) have a non-empty value of `NumType`.
+43 <tt>[ADJ](cs_cltt-pos-ADJ.html)</tt> tokens (1% of all `ADJ` tokens) have a non-empty value of `NumType`.
 
 The most frequent other feature values with which `ADJ` and `NumType` co-occurred: <tt><a href="Degree.html">Degree</a>=EMPTY</tt> (43; 100%), <tt><a href="Polarity.html">Polarity</a>=EMPTY</tt> (43; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (43; 100%), <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (24; 56%).
 
@@ -39,7 +39,7 @@ The most frequent other feature values with which `ADJ` and `NumType` co-occurre
 
 ### `ADV`
 
-14 `[ADV](cs_cltt-pos-ADV.html)` tokens (2% of all `ADV` tokens) have a non-empty value of `NumType`.
+14 <tt>[ADV](cs_cltt-pos-ADV.html)</tt> tokens (2% of all `ADV` tokens) have a non-empty value of `NumType`.
 
 The most frequent other feature values with which `ADV` and `NumType` co-occurred: <tt><a href="Degree.html">Degree</a>=EMPTY</tt> (14; 100%), <tt><a href="Polarity.html">Polarity</a>=EMPTY</tt> (14; 100%).
 
@@ -51,7 +51,7 @@ The most frequent other feature values with which `ADV` and `NumType` co-occurre
 
 ### `PRON`
 
-1 `[PRON](cs_cltt-pos-PRON.html)` tokens (0% of all `PRON` tokens) have a non-empty value of `NumType`.
+1 <tt>[PRON](cs_cltt-pos-PRON.html)</tt> tokens (0% of all `PRON` tokens) have a non-empty value of `NumType`.
 
 The most frequent other feature values with which `PRON` and `NumType` co-occurred: <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (1; 100%), <tt><a href="Variant.html">Variant</a>=EMPTY</tt> (1; 100%), <tt><a href="Case.html">Case</a>=Ins</tt> (1; 100%), <tt><a href="Reflex.html">Reflex</a>=EMPTY</tt> (1; 100%), <tt><a href="PronType.html">PronType</a>=Dem,Ind</tt> (1; 100%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (1; 100%).
 
@@ -62,7 +62,7 @@ The most frequent other feature values with which `PRON` and `NumType` co-occurr
 
 ### `DET`
 
-1 `[DET](cs_cltt-pos-DET.html)` tokens (0% of all `DET` tokens) have a non-empty value of `NumType`.
+1 <tt>[DET](cs_cltt-pos-DET.html)</tt> tokens (0% of all `DET` tokens) have a non-empty value of `NumType`.
 
 The most frequent other feature values with which `DET` and `NumType` co-occurred: <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (1; 100%), <tt><a href="Poss.html">Poss</a>=EMPTY</tt> (1; 100%), <tt><a href="Number[psor].html">Number[psor]</a>=EMPTY</tt> (1; 100%), <tt><a href="Case.html">Case</a>=Ins</tt> (1; 100%), <tt><a href="Gender[psor].html">Gender[psor]</a>=EMPTY</tt> (1; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (1; 100%), <tt><a href="PronType.html">PronType</a>=Dem,Ind</tt> (1; 100%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (1; 100%).
 

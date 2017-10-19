@@ -13,11 +13,11 @@ Some words have combined values of the feature; 2 combinations have been observe
 1807 tokens (5%) have a non-empty value of `PronType`.
 128 types (3%) occur at least once with a non-empty value of `PronType`.
 20 lemmas (1%) occur at least once with a non-empty value of `PronType`.
-The feature is used with 2 part-of-speech tags: `[PRON](cs_cltt-pos-PRON.html)` (1212; 3% instances), `[DET](cs_cltt-pos-DET.html)` (595; 2% instances).
+The feature is used with 2 part-of-speech tags: <tt>[PRON](cs_cltt-pos-PRON.html)</tt> (1212; 3% instances), <tt>[DET](cs_cltt-pos-DET.html)</tt> (595; 2% instances).
 
 ### `PRON`
 
-1212 `[PRON](cs_cltt-pos-PRON.html)` tokens (100% of all `PRON` tokens) have a non-empty value of `PronType`.
+1212 <tt>[PRON](cs_cltt-pos-PRON.html)</tt> tokens (100% of all `PRON` tokens) have a non-empty value of `PronType`.
 
 The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="Variant.html">Variant</a>=EMPTY</tt> (743; 61%), <tt><a href="Reflex.html">Reflex</a>=EMPTY</tt> (737; 61%), <tt><a href="Case.html">Case</a>=Acc</tt> (607; 50%).
 
@@ -36,7 +36,7 @@ The most frequent other feature values with which `PRON` and `PronType` co-occur
 
 ### `DET`
 
-595 `[DET](cs_cltt-pos-DET.html)` tokens (100% of all `DET` tokens) have a non-empty value of `PronType`.
+595 <tt>[DET](cs_cltt-pos-DET.html)</tt> tokens (100% of all `DET` tokens) have a non-empty value of `PronType`.
 
 The most frequent other feature values with which `DET` and `PronType` co-occurred: <tt><a href="Gender[psor].html">Gender[psor]</a>=EMPTY</tt> (484; 81%), <tt><a href="Number[psor].html">Number[psor]</a>=EMPTY</tt> (379; 64%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (379; 64%), <tt><a href="Poss.html">Poss</a>=EMPTY</tt> (355; 60%), <tt><a href="Number.html">Number</a>=Sing</tt> (306; 51%).
 

@@ -12,11 +12,11 @@ It occurs with 2 different values: `Neg`, `Pos`.
 20744 tokens (55%) have a non-empty value of `Polarity`.
 4057 types (89%) occur at least once with a non-empty value of `Polarity`.
 1895 lemmas (73%) occur at least once with a non-empty value of `Polarity`.
-The feature is used with 5 part-of-speech tags: `[NOUN](cs_cltt-pos-NOUN.html)` (11296; 30% instances), `[ADJ](cs_cltt-pos-ADJ.html)` (6495; 17% instances), `[VERB](cs_cltt-pos-VERB.html)` (2117; 6% instances), `[AUX](cs_cltt-pos-AUX.html)` (551; 1% instances), `[ADV](cs_cltt-pos-ADV.html)` (285; 1% instances).
+The feature is used with 5 part-of-speech tags: <tt>[NOUN](cs_cltt-pos-NOUN.html)</tt> (11296; 30% instances), <tt>[ADJ](cs_cltt-pos-ADJ.html)</tt> (6495; 17% instances), <tt>[VERB](cs_cltt-pos-VERB.html)</tt> (2117; 6% instances), <tt>[AUX](cs_cltt-pos-AUX.html)</tt> (551; 1% instances), <tt>[ADV](cs_cltt-pos-ADV.html)</tt> (285; 1% instances).
 
 ### `NOUN`
 
-11296 `[NOUN](cs_cltt-pos-NOUN.html)` tokens (100% of all `NOUN` tokens) have a non-empty value of `Polarity`.
+11296 <tt>[NOUN](cs_cltt-pos-NOUN.html)</tt> tokens (100% of all `NOUN` tokens) have a non-empty value of `Polarity`.
 
 The most frequent other feature values with which `NOUN` and `Polarity` co-occurred: <tt><a href="Number.html">Number</a>=Sing</tt> (7969; 71%), <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (6749; 60%).
 
@@ -38,7 +38,7 @@ The most frequent other feature values with which `NOUN` and `Polarity` co-occur
 
 ### `ADJ`
 
-6495 `[ADJ](cs_cltt-pos-ADJ.html)` tokens (99% of all `ADJ` tokens) have a non-empty value of `Polarity`.
+6495 <tt>[ADJ](cs_cltt-pos-ADJ.html)</tt> tokens (99% of all `ADJ` tokens) have a non-empty value of `Polarity`.
 
 The most frequent other feature values with which `ADJ` and `Polarity` co-occurred: <tt><a href="Degree.html">Degree</a>=Pos</tt> (6032; 93%), <tt><a href="Number.html">Number</a>=Sing</tt> (4071; 63%), <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (3893; 60%).
 
@@ -82,7 +82,7 @@ The most frequent other feature values with which `ADJ` and `Polarity` co-occurr
 
 ### `VERB`
 
-2117 `[VERB](cs_cltt-pos-VERB.html)` tokens (100% of all `VERB` tokens) have a non-empty value of `Polarity`.
+2117 <tt>[VERB](cs_cltt-pos-VERB.html)</tt> tokens (100% of all `VERB` tokens) have a non-empty value of `Polarity`.
 
 The most frequent other feature values with which `VERB` and `Polarity` co-occurred: <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (1741; 82%), <tt><a href="Voice.html">Voice</a>=Act</tt> (1542; 73%), <tt><a href="Person.html">Person</a>=3</tt> (1426; 67%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (1426; 67%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (1426; 67%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (1426; 67%), <tt><a href="Number.html">Number</a>=Sing</tt> (1115; 53%).
 
@@ -101,7 +101,7 @@ The most frequent other feature values with which `VERB` and `Polarity` co-occur
 
 ### `AUX`
 
-551 `[AUX](cs_cltt-pos-AUX.html)` tokens (91% of all `AUX` tokens) have a non-empty value of `Polarity`.
+551 <tt>[AUX](cs_cltt-pos-AUX.html)</tt> tokens (91% of all `AUX` tokens) have a non-empty value of `Polarity`.
 
 The most frequent other feature values with which `AUX` and `Polarity` co-occurred: <tt><a href="Voice.html">Voice</a>=Act</tt> (497; 90%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (485; 88%), <tt><a href="Person.html">Person</a>=3</tt> (438; 79%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (438; 79%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (438; 79%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (417; 76%).
 
@@ -126,7 +126,7 @@ The most frequent other feature values with which `AUX` and `Polarity` co-occurr
 
 ### `ADV`
 
-285 `[ADV](cs_cltt-pos-ADV.html)` tokens (36% of all `ADV` tokens) have a non-empty value of `Polarity`.
+285 <tt>[ADV](cs_cltt-pos-ADV.html)</tt> tokens (36% of all `ADV` tokens) have a non-empty value of `Polarity`.
 
 The most frequent other feature values with which `ADV` and `Polarity` co-occurred: <tt><a href="Degree.html">Degree</a>=Pos</tt> (204; 72%).
 

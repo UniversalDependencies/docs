@@ -15,11 +15,11 @@ This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with t
 21286 tokens (57%) have a non-empty value of `Number`.
 3979 types (87%) occur at least once with a non-empty value of `Number`.
 1790 lemmas (69%) occur at least once with a non-empty value of `Number`.
-The feature is used with 7 part-of-speech tags: `[NOUN](cs_cltt-pos-NOUN.html)` (11244; 30% instances), `[ADJ](cs_cltt-pos-ADJ.html)` (6524; 17% instances), `[VERB](cs_cltt-pos-VERB.html)` (1802; 5% instances), `[PRON](cs_cltt-pos-PRON.html)` (735; 2% instances), `[AUX](cs_cltt-pos-AUX.html)` (498; 1% instances), `[DET](cs_cltt-pos-DET.html)` (414; 1% instances), `[NUM](cs_cltt-pos-NUM.html)` (69; 0% instances).
+The feature is used with 7 part-of-speech tags: <tt>[NOUN](cs_cltt-pos-NOUN.html)</tt> (11244; 30% instances), <tt>[ADJ](cs_cltt-pos-ADJ.html)</tt> (6524; 17% instances), <tt>[VERB](cs_cltt-pos-VERB.html)</tt> (1802; 5% instances), <tt>[PRON](cs_cltt-pos-PRON.html)</tt> (735; 2% instances), <tt>[AUX](cs_cltt-pos-AUX.html)</tt> (498; 1% instances), <tt>[DET](cs_cltt-pos-DET.html)</tt> (414; 1% instances), <tt>[NUM](cs_cltt-pos-NUM.html)</tt> (69; 0% instances).
 
 ### `NOUN`
 
-11244 `[NOUN](cs_cltt-pos-NOUN.html)` tokens (100% of all `NOUN` tokens) have a non-empty value of `Number`.
+11244 <tt>[NOUN](cs_cltt-pos-NOUN.html)</tt> tokens (100% of all `NOUN` tokens) have a non-empty value of `Number`.
 
 The most frequent other feature values with which `NOUN` and `Number` co-occurred: <tt><a href="Polarity.html">Polarity</a>=Pos</tt> (11229; 100%), <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (6704; 60%).
 
@@ -41,7 +41,7 @@ The most frequent other feature values with which `NOUN` and `Number` co-occurre
 
 ### `ADJ`
 
-6524 `[ADJ](cs_cltt-pos-ADJ.html)` tokens (100% of all `ADJ` tokens) have a non-empty value of `Number`.
+6524 <tt>[ADJ](cs_cltt-pos-ADJ.html)</tt> tokens (100% of all `ADJ` tokens) have a non-empty value of `Number`.
 
 The most frequent other feature values with which `ADJ` and `Number` co-occurred: <tt><a href="Polarity.html">Polarity</a>=Pos</tt> (6344; 97%), <tt><a href="Degree.html">Degree</a>=Pos</tt> (6028; 92%), <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (3902; 60%).
 
@@ -63,7 +63,7 @@ The most frequent other feature values with which `ADJ` and `Number` co-occurred
 
 ### `VERB`
 
-1802 `[VERB](cs_cltt-pos-VERB.html)` tokens (85% of all `VERB` tokens) have a non-empty value of `Number`.
+1802 <tt>[VERB](cs_cltt-pos-VERB.html)</tt> tokens (85% of all `VERB` tokens) have a non-empty value of `Number`.
 
 The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="Polarity.html">Polarity</a>=Pos</tt> (1587; 88%), <tt><a href="Voice.html">Voice</a>=Act</tt> (1542; 86%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (1426; 79%), <tt><a href="Person.html">Person</a>=3</tt> (1426; 79%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (1426; 79%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (1426; 79%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (1426; 79%).
 
@@ -83,7 +83,7 @@ The most frequent other feature values with which `VERB` and `Number` co-occurre
 
 ### `PRON`
 
-735 `[PRON](cs_cltt-pos-PRON.html)` tokens (61% of all `PRON` tokens) have a non-empty value of `Number`.
+735 <tt>[PRON](cs_cltt-pos-PRON.html)</tt> tokens (61% of all `PRON` tokens) have a non-empty value of `Number`.
 
 The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="Reflex.html">Reflex</a>=EMPTY</tt> (735; 100%), <tt><a href="Variant.html">Variant</a>=EMPTY</tt> (734; 100%), <tt><a href="PronType.html">PronType</a>=Int,Rel</tt> (452; 61%).
 
@@ -119,7 +119,7 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
 
 ### `AUX`
 
-498 `[AUX](cs_cltt-pos-AUX.html)` tokens (82% of all `AUX` tokens) have a non-empty value of `Number`.
+498 <tt>[AUX](cs_cltt-pos-AUX.html)</tt> tokens (82% of all `AUX` tokens) have a non-empty value of `Number`.
 
 The most frequent other feature values with which `AUX` and `Number` co-occurred: <tt><a href="Voice.html">Voice</a>=Act</tt> (497; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (438; 88%), <tt><a href="Person.html">Person</a>=3</tt> (438; 88%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (438; 88%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (438; 88%), <tt><a href="Polarity.html">Polarity</a>=Pos</tt> (437; 88%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (417; 84%).
 
@@ -146,7 +146,7 @@ The most frequent other feature values with which `AUX` and `Number` co-occurred
 
 ### `DET`
 
-414 `[DET](cs_cltt-pos-DET.html)` tokens (70% of all `DET` tokens) have a non-empty value of `Number`.
+414 <tt>[DET](cs_cltt-pos-DET.html)</tt> tokens (70% of all `DET` tokens) have a non-empty value of `Number`.
 
 The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="Number[psor].html">Number[psor]</a>=EMPTY</tt> (378; 91%), <tt><a href="Gender[psor].html">Gender[psor]</a>=EMPTY</tt> (378; 91%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (378; 91%), <tt><a href="Poss.html">Poss</a>=EMPTY</tt> (354; 86%), <tt><a href="PronType.html">PronType</a>=Dem</tt> (341; 82%).
 
@@ -181,7 +181,7 @@ The most frequent other feature values with which `DET` and `Number` co-occurred
 
 ### `NUM`
 
-69 `[NUM](cs_cltt-pos-NUM.html)` tokens (16% of all `NUM` tokens) have a non-empty value of `Number`.
+69 <tt>[NUM](cs_cltt-pos-NUM.html)</tt> tokens (16% of all `NUM` tokens) have a non-empty value of `Number`.
 
 The most frequent other feature values with which `NUM` and `Number` co-occurred: <tt><a href="NumType.html">NumType</a>=Card</tt> (69; 100%), <tt><a href="NumForm.html">NumForm</a>=Word</tt> (69; 100%), <tt><a href="NumValue.html">NumValue</a>=1,2,3</tt> (58; 84%).
 
