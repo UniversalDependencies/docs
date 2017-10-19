@@ -198,14 +198,14 @@ The most frequent other feature values with which `NUM` and `Gender` co-occurred
 ## Relations with Agreement in `Gender`
 
 The 10 most frequent relations where parent and child node agree in `Gender`:
-<tt>NOUN --[<a href="../dep/amod.html">amod</a>]--> ADJ</tt> (5941; 98%),
-<tt>NOUN --[<a href="../dep/conj.html">conj</a>]--> NOUN</tt> (978; 54%),
-<tt>ADJ --[<a href="../dep/conj.html">conj</a>]--> ADJ</tt> (177; 86%),
-<tt>NOUN --[<a href="../dep/appos.html">appos</a>]--> NOUN</tt> (48; 72%),
-<tt>NOUN --[<a href="../dep/xcomp.html">xcomp</a>]--> ADJ</tt> (12; 92%),
-<tt>ADJ --[<a href="../dep/obj.html">obj</a>]--> PRON</tt> (7; 58%),
-<tt>ADJ --[<a href="../dep/dep.html">dep</a>]--> NOUN</tt> (6; 100%),
-<tt>PRON --[<a href="../dep/nmod.html">nmod</a>]--> NOUN</tt> (6; 75%),
-<tt>ADJ --[<a href="../dep/nsubj.html">nsubj</a>]--> PRON</tt> (6; 55%),
-<tt>ADJ --[<a href="../dep/amod.html">amod</a>]--> ADJ</tt> (5; 83%).
+<tt>NOUN --[<tt><a href="cs_cltt-dep-amod.html">amod</a></tt>]--> ADJ</tt> (5941; 98%),
+<tt>NOUN --[<tt><a href="cs_cltt-dep-conj.html">conj</a></tt>]--> NOUN</tt> (978; 54%),
+<tt>ADJ --[<tt><a href="cs_cltt-dep-conj.html">conj</a></tt>]--> ADJ</tt> (177; 86%),
+<tt>NOUN --[<tt><a href="cs_cltt-dep-appos.html">appos</a></tt>]--> NOUN</tt> (48; 72%),
+<tt>NOUN --[<tt><a href="cs_cltt-dep-xcomp.html">xcomp</a></tt>]--> ADJ</tt> (12; 92%),
+<tt>ADJ --[<tt><a href="cs_cltt-dep-obj.html">obj</a></tt>]--> PRON</tt> (7; 58%),
+<tt>ADJ --[<tt><a href="cs_cltt-dep-dep.html">dep</a></tt>]--> NOUN</tt> (6; 100%),
+<tt>PRON --[<tt><a href="cs_cltt-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (6; 75%),
+<tt>ADJ --[<tt><a href="cs_cltt-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (6; 55%),
+<tt>ADJ --[<tt><a href="cs_cltt-dep-amod.html">amod</a></tt>]--> ADJ</tt> (5; 83%).
 

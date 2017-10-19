@@ -190,14 +190,14 @@ The most frequent other feature values with which `AUX` and `Case` co-occurred: 
 ## Relations with Agreement in `Case`
 
 The 10 most frequent relations where parent and child node agree in `Case`:
-<tt>NOUN --[<a href="../dep/amod.html">amod</a>]--> ADJ</tt> (5983; 99%),
-<tt>NOUN --[<a href="../dep/case.html">case</a>]--> ADP</tt> (3163; 93%),
-<tt>NOUN --[<a href="../dep/conj.html">conj</a>]--> NOUN</tt> (1467; 81%),
-<tt>NOUN --[<a href="../dep/det.html">det</a>]--> DET</tt> (403; 68%),
-<tt>ADP --[<a href="../dep/fixed.html">fixed</a>]--> NOUN</tt> (258; 100%),
-<tt>PRON --[<a href="../dep/case.html">case</a>]--> ADP</tt> (193; 97%),
-<tt>ADJ --[<a href="../dep/conj.html">conj</a>]--> ADJ</tt> (187; 92%),
-<tt>NOUN --[<a href="../dep/nmod.html">nmod</a>]--> PRON</tt> (44; 76%),
-<tt>NOUN --[<a href="../dep/appos.html">appos</a>]--> NOUN</tt> (42; 63%),
-<tt>NOUN --[<a href="../dep/xcomp.html">xcomp</a>]--> NOUN</tt> (21; 68%).
+<tt>NOUN --[<tt><a href="cs_cltt-dep-amod.html">amod</a></tt>]--> ADJ</tt> (5983; 99%),
+<tt>NOUN --[<tt><a href="cs_cltt-dep-case.html">case</a></tt>]--> ADP</tt> (3163; 93%),
+<tt>NOUN --[<tt><a href="cs_cltt-dep-conj.html">conj</a></tt>]--> NOUN</tt> (1467; 81%),
+<tt>NOUN --[<tt><a href="cs_cltt-dep-det.html">det</a></tt>]--> DET</tt> (403; 68%),
+<tt>ADP --[<tt><a href="cs_cltt-dep-fixed.html">fixed</a></tt>]--> NOUN</tt> (258; 100%),
+<tt>PRON --[<tt><a href="cs_cltt-dep-case.html">case</a></tt>]--> ADP</tt> (193; 97%),
+<tt>ADJ --[<tt><a href="cs_cltt-dep-conj.html">conj</a></tt>]--> ADJ</tt> (187; 92%),
+<tt>NOUN --[<tt><a href="cs_cltt-dep-nmod.html">nmod</a></tt>]--> PRON</tt> (44; 76%),
+<tt>NOUN --[<tt><a href="cs_cltt-dep-appos.html">appos</a></tt>]--> NOUN</tt> (42; 63%),
+<tt>NOUN --[<tt><a href="cs_cltt-dep-xcomp.html">xcomp</a></tt>]--> NOUN</tt> (21; 68%).
 

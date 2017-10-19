@@ -146,14 +146,14 @@ The most frequent other feature values with which `ADV` and `Polarity` co-occurr
 ## Relations with Agreement in `Polarity`
 
 The 10 most frequent relations where parent and child node agree in `Polarity`:
-<tt>NOUN --[<a href="../dep/amod.html">amod</a>]--> ADJ</tt> (5920; 98%),
-<tt>NOUN --[<a href="../dep/nmod.html">nmod</a>]--> NOUN</tt> (4098; 100%),
-<tt>NOUN --[<a href="../dep/conj.html">conj</a>]--> NOUN</tt> (1808; 100%),
-<tt>VERB --[<a href="../dep/obl.html">obl</a>]--> NOUN</tt> (997; 92%),
-<tt>VERB --[<a href="../dep/obj.html">obj</a>]--> NOUN</tt> (991; 89%),
-<tt>VERB --[<a href="../dep/nsubj.html">nsubj</a>]--> NOUN</tt> (666; 88%),
-<tt>NOUN --[<a href="../dep/acl.html">acl</a>]--> VERB</tt> (468; 92%),
-<tt>ADJ --[<a href="../dep/obl.html">obl</a>]--> NOUN</tt> (438; 94%),
-<tt>VERB --[<a href="../dep/nsubj:pass.html">nsubj:pass</a>]--> NOUN</tt> (319; 92%),
-<tt>ADJ --[<a href="../dep/obj.html">obj</a>]--> NOUN</tt> (229; 97%).
+<tt>NOUN --[<tt><a href="cs_cltt-dep-amod.html">amod</a></tt>]--> ADJ</tt> (5920; 98%),
+<tt>NOUN --[<tt><a href="cs_cltt-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (4098; 100%),
+<tt>NOUN --[<tt><a href="cs_cltt-dep-conj.html">conj</a></tt>]--> NOUN</tt> (1808; 100%),
+<tt>VERB --[<tt><a href="cs_cltt-dep-obl.html">obl</a></tt>]--> NOUN</tt> (997; 92%),
+<tt>VERB --[<tt><a href="cs_cltt-dep-obj.html">obj</a></tt>]--> NOUN</tt> (991; 89%),
+<tt>VERB --[<tt><a href="cs_cltt-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (666; 88%),
+<tt>NOUN --[<tt><a href="cs_cltt-dep-acl.html">acl</a></tt>]--> VERB</tt> (468; 92%),
+<tt>ADJ --[<tt><a href="cs_cltt-dep-obl.html">obl</a></tt>]--> NOUN</tt> (438; 94%),
+<tt>VERB --[<tt><a href="cs_cltt-dep-nsubj-pass.html">nsubj:pass</a></tt>]--> NOUN</tt> (319; 92%),
+<tt>ADJ --[<tt><a href="cs_cltt-dep-obj.html">obj</a></tt>]--> NOUN</tt> (229; 97%).
 

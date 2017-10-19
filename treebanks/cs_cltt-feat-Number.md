@@ -200,14 +200,14 @@ The most frequent other feature values with which `NUM` and `Number` co-occurred
 ## Relations with Agreement in `Number`
 
 The 10 most frequent relations where parent and child node agree in `Number`:
-<tt>NOUN --[<a href="../dep/amod.html">amod</a>]--> ADJ</tt> (6015; 99%),
-<tt>NOUN --[<a href="../dep/nmod.html">nmod</a>]--> NOUN</tt> (2614; 64%),
-<tt>NOUN --[<a href="../dep/conj.html">conj</a>]--> NOUN</tt> (1371; 76%),
-<tt>VERB --[<a href="../dep/nsubj.html">nsubj</a>]--> NOUN</tt> (688; 91%),
-<tt>NOUN --[<a href="../dep/det.html">det</a>]--> DET</tt> (412; 70%),
-<tt>VERB --[<a href="../dep/nsubj:pass.html">nsubj:pass</a>]--> NOUN</tt> (301; 86%),
-<tt>NOUN --[<a href="../dep/acl.html">acl</a>]--> VERB</tt> (299; 59%),
-<tt>ADJ --[<a href="../dep/obl.html">obl</a>]--> NOUN</tt> (251; 54%),
-<tt>ADJ --[<a href="../dep/conj.html">conj</a>]--> ADJ</tt> (198; 96%),
-<tt>VERB --[<a href="../dep/nsubj.html">nsubj</a>]--> PRON</tt> (181; 92%).
+<tt>NOUN --[<tt><a href="cs_cltt-dep-amod.html">amod</a></tt>]--> ADJ</tt> (6015; 99%),
+<tt>NOUN --[<tt><a href="cs_cltt-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (2614; 64%),
+<tt>NOUN --[<tt><a href="cs_cltt-dep-conj.html">conj</a></tt>]--> NOUN</tt> (1371; 76%),
+<tt>VERB --[<tt><a href="cs_cltt-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (688; 91%),
+<tt>NOUN --[<tt><a href="cs_cltt-dep-det.html">det</a></tt>]--> DET</tt> (412; 70%),
+<tt>VERB --[<tt><a href="cs_cltt-dep-nsubj-pass.html">nsubj:pass</a></tt>]--> NOUN</tt> (301; 86%),
+<tt>NOUN --[<tt><a href="cs_cltt-dep-acl.html">acl</a></tt>]--> VERB</tt> (299; 59%),
+<tt>ADJ --[<tt><a href="cs_cltt-dep-obl.html">obl</a></tt>]--> NOUN</tt> (251; 54%),
+<tt>ADJ --[<tt><a href="cs_cltt-dep-conj.html">conj</a></tt>]--> ADJ</tt> (198; 96%),
+<tt>VERB --[<tt><a href="cs_cltt-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (181; 92%).
 

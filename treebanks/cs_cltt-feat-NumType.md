@@ -74,7 +74,7 @@ The most frequent other feature values with which `DET` and `NumType` co-occurre
 ## Relations with Agreement in `NumType`
 
 The 10 most frequent relations where parent and child node agree in `NumType`:
-<tt>NUM --[<a href="../dep/conj.html">conj</a>]--> NUM</tt> (39; 100%),
-<tt>NUM --[<a href="../dep/compound.html">compound</a>]--> NUM</tt> (1; 100%),
-<tt>NUM --[<a href="../dep/conj.html">conj</a>]--> PRON</tt> (1; 100%).
+<tt>NUM --[<tt><a href="cs_cltt-dep-conj.html">conj</a></tt>]--> NUM</tt> (39; 100%),
+<tt>NUM --[<tt><a href="cs_cltt-dep-compound.html">compound</a></tt>]--> NUM</tt> (1; 100%),
+<tt>NUM --[<tt><a href="cs_cltt-dep-conj.html">conj</a></tt>]--> PRON</tt> (1; 100%).
 

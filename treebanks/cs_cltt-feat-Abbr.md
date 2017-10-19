@@ -61,5 +61,5 @@ The most frequent other feature values with which `PRON` and `Abbr` co-occurred:
 ## Relations with Agreement in `Abbr`
 
 The 10 most frequent relations where parent and child node agree in `Abbr`:
-<tt>PRON --[<a href="../dep/conj.html">conj</a>]--> NOUN</tt> (1; 100%).
+<tt>PRON --[<tt><a href="cs_cltt-dep-conj.html">conj</a></tt>]--> NOUN</tt> (1; 100%).
 

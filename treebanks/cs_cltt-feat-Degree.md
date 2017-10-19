@@ -66,11 +66,11 @@ The most frequent other feature values with which `ADV` and `Degree` co-occurred
 ## Relations with Agreement in `Degree`
 
 The 10 most frequent relations where parent and child node agree in `Degree`:
-<tt>ADJ --[<a href="../dep/conj.html">conj</a>]--> ADJ</tt> (181; 93%),
-<tt>ADV --[<a href="../dep/conj.html">conj</a>]--> ADV</tt> (14; 100%),
-<tt>ADJ --[<a href="../dep/appos.html">appos</a>]--> ADJ</tt> (4; 100%),
-<tt>ADJ --[<a href="../dep/advcl.html">advcl</a>]--> ADJ</tt> (4; 67%),
-<tt>ADJ --[<a href="../dep/dep.html">dep</a>]--> ADJ</tt> (2; 100%),
-<tt>ADJ --[<a href="../dep/appos.html">appos</a>]--> ADV</tt> (2; 100%),
-<tt>ADJ --[<a href="../dep/advmod.html">advmod</a>]--> ADJ</tt> (1; 100%).
+<tt>ADJ --[<tt><a href="cs_cltt-dep-conj.html">conj</a></tt>]--> ADJ</tt> (181; 93%),
+<tt>ADV --[<tt><a href="cs_cltt-dep-conj.html">conj</a></tt>]--> ADV</tt> (14; 100%),
+<tt>ADJ --[<tt><a href="cs_cltt-dep-appos.html">appos</a></tt>]--> ADJ</tt> (4; 100%),
+<tt>ADJ --[<tt><a href="cs_cltt-dep-advcl.html">advcl</a></tt>]--> ADJ</tt> (4; 67%),
+<tt>ADJ --[<tt><a href="cs_cltt-dep-dep.html">dep</a></tt>]--> ADJ</tt> (2; 100%),
+<tt>ADJ --[<tt><a href="cs_cltt-dep-appos.html">appos</a></tt>]--> ADV</tt> (2; 100%),
+<tt>ADJ --[<tt><a href="cs_cltt-dep-advmod.html">advmod</a></tt>]--> ADJ</tt> (1; 100%).
 

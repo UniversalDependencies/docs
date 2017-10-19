@@ -33,5 +33,5 @@ The feature is used with 1 part-of-speech tags: <tt><a href="cs_cltt-pos-ADP.htm
 ## Relations with Agreement in `AdpType`
 
 The 10 most frequent relations where parent and child node agree in `AdpType`:
-<tt>ADP --[<a href="../dep/fixed.html">fixed</a>]--> ADP</tt> (59; 89%).
+<tt>ADP --[<tt><a href="cs_cltt-dep-fixed.html">fixed</a></tt>]--> ADP</tt> (59; 89%).
 

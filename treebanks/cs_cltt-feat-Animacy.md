@@ -134,11 +134,11 @@ The most frequent other feature values with which `NUM` and `Animacy` co-occurre
 ## Relations with Agreement in `Animacy`
 
 The 10 most frequent relations where parent and child node agree in `Animacy`:
-<tt>NOUN --[<a href="../dep/amod.html">amod</a>]--> ADJ</tt> (2339; 95%),
-<tt>ADJ --[<a href="../dep/conj.html">conj</a>]--> ADJ</tt> (68; 69%),
-<tt>ADJ --[<a href="../dep/dep.html">dep</a>]--> NOUN</tt> (5; 100%),
-<tt>ADJ --[<a href="../dep/appos.html">appos</a>]--> ADJ</tt> (2; 100%),
-<tt>NOUN --[<a href="../dep/xcomp.html">xcomp</a>]--> ADJ</tt> (2; 67%),
-<tt>ADJ --[<a href="../dep/conj.html">conj</a>]--> NOUN</tt> (1; 100%),
-<tt>AUX --[<a href="../dep/conj.html">conj</a>]--> NOUN</tt> (1; 100%).
+<tt>NOUN --[<tt><a href="cs_cltt-dep-amod.html">amod</a></tt>]--> ADJ</tt> (2339; 95%),
+<tt>ADJ --[<tt><a href="cs_cltt-dep-conj.html">conj</a></tt>]--> ADJ</tt> (68; 69%),
+<tt>ADJ --[<tt><a href="cs_cltt-dep-dep.html">dep</a></tt>]--> NOUN</tt> (5; 100%),
+<tt>ADJ --[<tt><a href="cs_cltt-dep-appos.html">appos</a></tt>]--> ADJ</tt> (2; 100%),
+<tt>NOUN --[<tt><a href="cs_cltt-dep-xcomp.html">xcomp</a></tt>]--> ADJ</tt> (2; 67%),
+<tt>ADJ --[<tt><a href="cs_cltt-dep-conj.html">conj</a></tt>]--> NOUN</tt> (1; 100%),
+<tt>AUX --[<tt><a href="cs_cltt-dep-conj.html">conj</a></tt>]--> NOUN</tt> (1; 100%).
 
