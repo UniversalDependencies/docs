@@ -6,15 +6,15 @@ udver: '2'
 
 ## Treebank Statistics: UD_Czech-CLTT: Relations: `expl:pass`
 
-This relation is a language-specific subtype of [expl]().
-There are also 1 other language-specific subtypes of `expl`: [expl:pv]().
+This relation is a language-specific subtype of .
+There are also 1 other language-specific subtypes of `expl`: <tt><a href="cs_cltt-dep-expl-pv.html">expl:pv</a></tt>.
 
 358 nodes (1%) are attached to their parents as `expl:pass`.
 
 325 instances of `expl:pass` (91%) are right-to-left (child precedes parent).
 Average distance between parent and child is 2.27932960893855.
 
-The following 3 pairs of parts of speech are connected with `expl:pass`: [-pos/VERB]()-[-pos/PRON]() (350; 98% instances), [-pos/VERB]()-[-pos/ADP]() (5; 1% instances), [-pos/NOUN]()-[-pos/PRON]() (3; 1% instances).
+The following 3 pairs of parts of speech are connected with `expl:pass`: <tt><a href="cs_cltt-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_cltt-pos-PRON.html">PRON</a></tt> (350; 98% instances), <tt><a href="cs_cltt-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_cltt-pos-ADP.html">ADP</a></tt> (5; 1% instances), <tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_cltt-pos-PRON.html">PRON</a></tt> (3; 1% instances).
 
 
 ~~~ conllu

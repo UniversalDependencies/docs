@@ -13,7 +13,7 @@ This relation is universal.
 59 instances of `ccomp` (97%) are left-to-right (parent precedes child).
 Average distance between parent and child is 4.29508196721311.
 
-The following 6 pairs of parts of speech are connected with `ccomp`: [-pos/VERB]()-[-pos/VERB]() (53; 87% instances), [-pos/VERB]()-[-pos/ADJ]() (4; 7% instances), [-pos/NOUN]()-[-pos/ADJ]() (1; 2% instances), [-pos/NOUN]()-[-pos/VERB]() (1; 2% instances), [-pos/PRON]()-[-pos/VERB]() (1; 2% instances), [-pos/VERB]()-[-pos/NOUN]() (1; 2% instances).
+The following 6 pairs of parts of speech are connected with `ccomp`: <tt><a href="cs_cltt-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_cltt-pos-VERB.html">VERB</a></tt> (53; 87% instances), <tt><a href="cs_cltt-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_cltt-pos-ADJ.html">ADJ</a></tt> (4; 7% instances), <tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_cltt-pos-ADJ.html">ADJ</a></tt> (1; 2% instances), <tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_cltt-pos-VERB.html">VERB</a></tt> (1; 2% instances), <tt><a href="cs_cltt-pos-PRON.html">PRON</a></tt>-<tt><a href="cs_cltt-pos-VERB.html">VERB</a></tt> (1; 2% instances), <tt><a href="cs_cltt-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt> (1; 2% instances).
 
 
 ~~~ conllu

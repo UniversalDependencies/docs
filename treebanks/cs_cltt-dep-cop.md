@@ -13,7 +13,7 @@ This relation is universal.
 402 instances of `cop` (92%) are right-to-left (child precedes parent).
 Average distance between parent and child is 2.32723112128146.
 
-The following 7 pairs of parts of speech are connected with `cop`: [-pos/ADJ]()-[-pos/AUX]() (195; 45% instances), [-pos/NOUN]()-[-pos/AUX]() (135; 31% instances), [-pos/VERB]()-[-pos/AUX]() (99; 23% instances), [-pos/PRON]()-[-pos/AUX]() (4; 1% instances), [-pos/ADV]()-[-pos/AUX]() (2; 0% instances), [-pos/DET]()-[-pos/AUX]() (1; 0% instances), [-pos/NUM]()-[-pos/AUX]() (1; 0% instances).
+The following 7 pairs of parts of speech are connected with `cop`: <tt><a href="cs_cltt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cs_cltt-pos-AUX.html">AUX</a></tt> (195; 45% instances), <tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_cltt-pos-AUX.html">AUX</a></tt> (135; 31% instances), <tt><a href="cs_cltt-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_cltt-pos-AUX.html">AUX</a></tt> (99; 23% instances), <tt><a href="cs_cltt-pos-PRON.html">PRON</a></tt>-<tt><a href="cs_cltt-pos-AUX.html">AUX</a></tt> (4; 1% instances), <tt><a href="cs_cltt-pos-ADV.html">ADV</a></tt>-<tt><a href="cs_cltt-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="cs_cltt-pos-DET.html">DET</a></tt>-<tt><a href="cs_cltt-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="cs_cltt-pos-NUM.html">NUM</a></tt>-<tt><a href="cs_cltt-pos-AUX.html">AUX</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

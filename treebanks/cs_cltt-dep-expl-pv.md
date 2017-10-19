@@ -6,15 +6,15 @@ udver: '2'
 
 ## Treebank Statistics: UD_Czech-CLTT: Relations: `expl:pv`
 
-This relation is a language-specific subtype of [expl]().
-There are also 1 other language-specific subtypes of `expl`: [expl:pass]().
+This relation is a language-specific subtype of .
+There are also 1 other language-specific subtypes of `expl`: <tt><a href="cs_cltt-dep-expl-pass.html">expl:pass</a></tt>.
 
 113 nodes (0%) are attached to their parents as `expl:pv`.
 
 78 instances of `expl:pv` (69%) are right-to-left (child precedes parent).
 Average distance between parent and child is 1.86725663716814.
 
-The following 4 pairs of parts of speech are connected with `expl:pv`: [-pos/VERB]()-[-pos/PRON]() (80; 71% instances), [-pos/ADJ]()-[-pos/PRON]() (28; 25% instances), [-pos/X]()-[-pos/PRON]() (3; 3% instances), [-pos/NOUN]()-[-pos/PRON]() (2; 2% instances).
+The following 4 pairs of parts of speech are connected with `expl:pv`: <tt><a href="cs_cltt-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_cltt-pos-PRON.html">PRON</a></tt> (80; 71% instances), <tt><a href="cs_cltt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cs_cltt-pos-PRON.html">PRON</a></tt> (28; 25% instances), <tt><a href="cs_cltt-pos-X.html">X</a></tt>-<tt><a href="cs_cltt-pos-PRON.html">PRON</a></tt> (3; 3% instances), <tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_cltt-pos-PRON.html">PRON</a></tt> (2; 2% instances).
 
 
 ~~~ conllu

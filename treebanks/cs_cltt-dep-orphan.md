@@ -13,7 +13,7 @@ This relation is universal.
 22 instances of `orphan` (100%) are left-to-right (parent precedes child).
 Average distance between parent and child is 8.45454545454546.
 
-The following 8 pairs of parts of speech are connected with `orphan`: [-pos/NOUN]()-[-pos/NOUN]() (12; 55% instances), [-pos/ADV]()-[-pos/NOUN]() (2; 9% instances), [-pos/PRON]()-[-pos/NOUN]() (2; 9% instances), [-pos/X]()-[-pos/NOUN]() (2; 9% instances), [-pos/ADV]()-[-pos/PRON]() (1; 5% instances), [-pos/NOUN]()-[-pos/NUM]() (1; 5% instances), [-pos/NOUN]()-[-pos/VERB]() (1; 5% instances), [-pos/X]()-[-pos/X]() (1; 5% instances).
+The following 8 pairs of parts of speech are connected with `orphan`: <tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt> (12; 55% instances), <tt><a href="cs_cltt-pos-ADV.html">ADV</a></tt>-<tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt> (2; 9% instances), <tt><a href="cs_cltt-pos-PRON.html">PRON</a></tt>-<tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt> (2; 9% instances), <tt><a href="cs_cltt-pos-X.html">X</a></tt>-<tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt> (2; 9% instances), <tt><a href="cs_cltt-pos-ADV.html">ADV</a></tt>-<tt><a href="cs_cltt-pos-PRON.html">PRON</a></tt> (1; 5% instances), <tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_cltt-pos-NUM.html">NUM</a></tt> (1; 5% instances), <tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_cltt-pos-VERB.html">VERB</a></tt> (1; 5% instances), <tt><a href="cs_cltt-pos-X.html">X</a></tt>-<tt><a href="cs_cltt-pos-X.html">X</a></tt> (1; 5% instances).
 
 
 ~~~ conllu

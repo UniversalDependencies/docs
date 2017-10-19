@@ -6,14 +6,14 @@ udver: '2'
 
 ## Treebank Statistics: UD_Czech-CLTT: Relations: `nsubj:pass`
 
-This relation is a language-specific subtype of [nsubj]().
+This relation is a language-specific subtype of <tt><a href="cs_cltt-dep-nsubj.html">nsubj</a></tt>.
 
 384 nodes (1%) are attached to their parents as `nsubj:pass`.
 
 224 instances of `nsubj:pass` (58%) are right-to-left (child precedes parent).
 Average distance between parent and child is 5.25.
 
-The following 4 pairs of parts of speech are connected with `nsubj:pass`: [-pos/VERB]()-[-pos/NOUN]() (348; 91% instances), [-pos/VERB]()-[-pos/PRON]() (32; 8% instances), [-pos/VERB]()-[-pos/ADV]() (3; 1% instances), [-pos/NOUN]()-[-pos/NOUN]() (1; 0% instances).
+The following 4 pairs of parts of speech are connected with `nsubj:pass`: <tt><a href="cs_cltt-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt> (348; 91% instances), <tt><a href="cs_cltt-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_cltt-pos-PRON.html">PRON</a></tt> (32; 8% instances), <tt><a href="cs_cltt-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_cltt-pos-ADV.html">ADV</a></tt> (3; 1% instances), <tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

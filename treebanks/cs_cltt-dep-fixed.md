@@ -13,7 +13,7 @@ This relation is universal.
 328 instances of `fixed` (100%) are left-to-right (parent precedes child).
 Average distance between parent and child is 1.20426829268293.
 
-The following 4 pairs of parts of speech are connected with `fixed`: [-pos/ADP]()-[-pos/NOUN]() (258; 79% instances), [-pos/ADP]()-[-pos/ADP]() (66; 20% instances), [-pos/ADV]()-[-pos/ADP]() (3; 1% instances), [-pos/SCONJ]()-[-pos/ADP]() (1; 0% instances).
+The following 4 pairs of parts of speech are connected with `fixed`: <tt><a href="cs_cltt-pos-ADP.html">ADP</a></tt>-<tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt> (258; 79% instances), <tt><a href="cs_cltt-pos-ADP.html">ADP</a></tt>-<tt><a href="cs_cltt-pos-ADP.html">ADP</a></tt> (66; 20% instances), <tt><a href="cs_cltt-pos-ADV.html">ADV</a></tt>-<tt><a href="cs_cltt-pos-ADP.html">ADP</a></tt> (3; 1% instances), <tt><a href="cs_cltt-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="cs_cltt-pos-ADP.html">ADP</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

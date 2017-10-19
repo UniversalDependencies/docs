@@ -6,14 +6,14 @@ udver: '2'
 
 ## Treebank Statistics: UD_Czech-CLTT: Relations: `nummod:gov`
 
-This relation is a language-specific subtype of [nummod]().
+This relation is a language-specific subtype of <tt><a href="cs_cltt-dep-nummod.html">nummod</a></tt>.
 
 24 nodes (0%) are attached to their parents as `nummod:gov`.
 
 24 instances of `nummod:gov` (100%) are right-to-left (child precedes parent).
 Average distance between parent and child is 1.75.
 
-The following 1 pairs of parts of speech are connected with `nummod:gov`: [-pos/NOUN]()-[-pos/NUM]() (24; 100% instances).
+The following 1 pairs of parts of speech are connected with `nummod:gov`: <tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_cltt-pos-NUM.html">NUM</a></tt> (24; 100% instances).
 
 
 ~~~ conllu

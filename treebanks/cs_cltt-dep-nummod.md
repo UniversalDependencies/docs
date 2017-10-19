@@ -7,14 +7,14 @@ udver: '2'
 ## Treebank Statistics: UD_Czech-CLTT: Relations: `nummod`
 
 This relation is universal.
-There are 1 language-specific subtypes of `nummod`: [nummod:gov]().
+There are 1 language-specific subtypes of `nummod`: <tt><a href="cs_cltt-dep-nummod-gov.html">nummod:gov</a></tt>.
 
 286 nodes (1%) are attached to their parents as `nummod`.
 
 196 instances of `nummod` (69%) are left-to-right (parent precedes child).
 Average distance between parent and child is 1.20629370629371.
 
-The following 3 pairs of parts of speech are connected with `nummod`: [-pos/NOUN]()-[-pos/NUM]() (284; 99% instances), [-pos/SYM]()-[-pos/NUM]() (1; 0% instances), [-pos/X]()-[-pos/NUM]() (1; 0% instances).
+The following 3 pairs of parts of speech are connected with `nummod`: <tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_cltt-pos-NUM.html">NUM</a></tt> (284; 99% instances), <tt><a href="cs_cltt-pos-SYM.html">SYM</a></tt>-<tt><a href="cs_cltt-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="cs_cltt-pos-X.html">X</a></tt>-<tt><a href="cs_cltt-pos-NUM.html">NUM</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

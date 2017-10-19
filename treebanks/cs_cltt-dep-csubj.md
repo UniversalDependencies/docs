@@ -7,14 +7,14 @@ udver: '2'
 ## Treebank Statistics: UD_Czech-CLTT: Relations: `csubj`
 
 This relation is universal.
-There are 1 language-specific subtypes of `csubj`: [csubj:pass]().
+There are 1 language-specific subtypes of `csubj`: <tt><a href="cs_cltt-dep-csubj-pass.html">csubj:pass</a></tt>.
 
 57 nodes (0%) are attached to their parents as `csubj`.
 
 55 instances of `csubj` (96%) are left-to-right (parent precedes child).
 Average distance between parent and child is 2.68421052631579.
 
-The following 4 pairs of parts of speech are connected with `csubj`: [-pos/VERB]()-[-pos/VERB]() (38; 67% instances), [-pos/ADJ]()-[-pos/VERB]() (13; 23% instances), [-pos/NOUN]()-[-pos/VERB]() (4; 7% instances), [-pos/X]()-[-pos/VERB]() (2; 4% instances).
+The following 4 pairs of parts of speech are connected with `csubj`: <tt><a href="cs_cltt-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_cltt-pos-VERB.html">VERB</a></tt> (38; 67% instances), <tt><a href="cs_cltt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cs_cltt-pos-VERB.html">VERB</a></tt> (13; 23% instances), <tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_cltt-pos-VERB.html">VERB</a></tt> (4; 7% instances), <tt><a href="cs_cltt-pos-X.html">X</a></tt>-<tt><a href="cs_cltt-pos-VERB.html">VERB</a></tt> (2; 4% instances).
 
 
 ~~~ conllu

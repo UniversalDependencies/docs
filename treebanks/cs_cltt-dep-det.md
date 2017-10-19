@@ -7,14 +7,14 @@ udver: '2'
 ## Treebank Statistics: UD_Czech-CLTT: Relations: `det`
 
 This relation is universal.
-There are 1 language-specific subtypes of `det`: [det:nummod]().
+There are 1 language-specific subtypes of `det`: <tt><a href="cs_cltt-dep-det-nummod.html">det:nummod</a></tt>.
 
 593 nodes (2%) are attached to their parents as `det`.
 
 592 instances of `det` (100%) are right-to-left (child precedes parent).
 Average distance between parent and child is 1.20067453625632.
 
-The following 2 pairs of parts of speech are connected with `det`: [-pos/NOUN]()-[-pos/DET]() (592; 100% instances), [-pos/ADJ]()-[-pos/DET]() (1; 0% instances).
+The following 2 pairs of parts of speech are connected with `det`: <tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_cltt-pos-DET.html">DET</a></tt> (592; 100% instances), <tt><a href="cs_cltt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cs_cltt-pos-DET.html">DET</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

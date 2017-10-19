@@ -13,7 +13,7 @@ This relation is universal.
 25 instances of `iobj` (66%) are left-to-right (parent precedes child).
 Average distance between parent and child is 4.02631578947368.
 
-The following 3 pairs of parts of speech are connected with `iobj`: [-pos/VERB]()-[-pos/NOUN]() (29; 76% instances), [-pos/VERB]()-[-pos/PRON]() (8; 21% instances), [-pos/VERB]()-[-pos/ADJ]() (1; 3% instances).
+The following 3 pairs of parts of speech are connected with `iobj`: <tt><a href="cs_cltt-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt> (29; 76% instances), <tt><a href="cs_cltt-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_cltt-pos-PRON.html">PRON</a></tt> (8; 21% instances), <tt><a href="cs_cltt-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_cltt-pos-ADJ.html">ADJ</a></tt> (1; 3% instances).
 
 
 ~~~ conllu

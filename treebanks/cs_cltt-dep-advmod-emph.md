@@ -6,14 +6,14 @@ udver: '2'
 
 ## Treebank Statistics: UD_Czech-CLTT: Relations: `advmod:emph`
 
-This relation is a language-specific subtype of [advmod]().
+This relation is a language-specific subtype of <tt><a href="cs_cltt-dep-advmod.html">advmod</a></tt>.
 
 296 nodes (1%) are attached to their parents as `advmod:emph`.
 
 295 instances of `advmod:emph` (100%) are right-to-left (child precedes parent).
 Average distance between parent and child is 2.23648648648649.
 
-The following 16 pairs of parts of speech are connected with `advmod:emph`: [-pos/NOUN]()-[-pos/ADV]() (146; 49% instances), [-pos/NOUN]()-[-pos/CCONJ]() (58; 20% instances), [-pos/X]()-[-pos/PART]() (28; 9% instances), [-pos/NOUN]()-[-pos/PART]() (25; 8% instances), [-pos/NUM]()-[-pos/ADV]() (14; 5% instances), [-pos/VERB]()-[-pos/ADV]() (5; 2% instances), [-pos/ADJ]()-[-pos/CCONJ]() (4; 1% instances), [-pos/ADV]()-[-pos/ADV]() (4; 1% instances), [-pos/ADJ]()-[-pos/ADV]() (3; 1% instances), [-pos/ADV]()-[-pos/CCONJ]() (2; 1% instances), [-pos/NOUN]()-[-pos/SCONJ]() (2; 1% instances), [-pos/ADJ]()-[-pos/PART]() (1; 0% instances), [-pos/ADV]()-[-pos/PART]() (1; 0% instances), [-pos/AUX]()-[-pos/ADV]() (1; 0% instances), [-pos/PRON]()-[-pos/ADV]() (1; 0% instances), [-pos/SYM]()-[-pos/ADV]() (1; 0% instances).
+The following 16 pairs of parts of speech are connected with `advmod:emph`: <tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_cltt-pos-ADV.html">ADV</a></tt> (146; 49% instances), <tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_cltt-pos-CCONJ.html">CCONJ</a></tt> (58; 20% instances), <tt><a href="cs_cltt-pos-X.html">X</a></tt>-<tt><a href="cs_cltt-pos-PART.html">PART</a></tt> (28; 9% instances), <tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_cltt-pos-PART.html">PART</a></tt> (25; 8% instances), <tt><a href="cs_cltt-pos-NUM.html">NUM</a></tt>-<tt><a href="cs_cltt-pos-ADV.html">ADV</a></tt> (14; 5% instances), <tt><a href="cs_cltt-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_cltt-pos-ADV.html">ADV</a></tt> (5; 2% instances), <tt><a href="cs_cltt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cs_cltt-pos-CCONJ.html">CCONJ</a></tt> (4; 1% instances), <tt><a href="cs_cltt-pos-ADV.html">ADV</a></tt>-<tt><a href="cs_cltt-pos-ADV.html">ADV</a></tt> (4; 1% instances), <tt><a href="cs_cltt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cs_cltt-pos-ADV.html">ADV</a></tt> (3; 1% instances), <tt><a href="cs_cltt-pos-ADV.html">ADV</a></tt>-<tt><a href="cs_cltt-pos-CCONJ.html">CCONJ</a></tt> (2; 1% instances), <tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_cltt-pos-SCONJ.html">SCONJ</a></tt> (2; 1% instances), <tt><a href="cs_cltt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cs_cltt-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="cs_cltt-pos-ADV.html">ADV</a></tt>-<tt><a href="cs_cltt-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="cs_cltt-pos-AUX.html">AUX</a></tt>-<tt><a href="cs_cltt-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="cs_cltt-pos-PRON.html">PRON</a></tt>-<tt><a href="cs_cltt-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="cs_cltt-pos-SYM.html">SYM</a></tt>-<tt><a href="cs_cltt-pos-ADV.html">ADV</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

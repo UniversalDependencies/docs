@@ -7,14 +7,14 @@ udver: '2'
 ## Treebank Statistics: UD_Czech-CLTT: Relations: `aux`
 
 This relation is universal.
-There are 1 language-specific subtypes of `aux`: [aux:pass]().
+There are 1 language-specific subtypes of `aux`: <tt><a href="cs_cltt-dep-aux-pass.html">aux:pass</a></tt>.
 
 41 nodes (0%) are attached to their parents as `aux`.
 
 39 instances of `aux` (95%) are right-to-left (child precedes parent).
 Average distance between parent and child is 5.04878048780488.
 
-The following 3 pairs of parts of speech are connected with `aux`: [-pos/VERB]()-[-pos/AUX]() (34; 83% instances), [-pos/ADJ]()-[-pos/AUX]() (4; 10% instances), [-pos/VERB]()-[-pos/VERB]() (3; 7% instances).
+The following 3 pairs of parts of speech are connected with `aux`: <tt><a href="cs_cltt-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_cltt-pos-AUX.html">AUX</a></tt> (34; 83% instances), <tt><a href="cs_cltt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cs_cltt-pos-AUX.html">AUX</a></tt> (4; 10% instances), <tt><a href="cs_cltt-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_cltt-pos-VERB.html">VERB</a></tt> (3; 7% instances).
 
 
 ~~~ conllu

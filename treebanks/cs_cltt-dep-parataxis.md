@@ -13,7 +13,7 @@ This relation is universal.
 62 instances of `parataxis` (97%) are left-to-right (parent precedes child).
 Average distance between parent and child is 32.015625.
 
-The following 6 pairs of parts of speech are connected with `parataxis`: [-pos/VERB]()-[-pos/VERB]() (31; 48% instances), [-pos/NOUN]()-[-pos/VERB]() (27; 42% instances), [-pos/ADJ]()-[-pos/VERB]() (2; 3% instances), [-pos/VERB]()-[-pos/ADJ]() (2; 3% instances), [-pos/ADJ]()-[-pos/NOUN]() (1; 2% instances), [-pos/NOUN]()-[-pos/NOUN]() (1; 2% instances).
+The following 6 pairs of parts of speech are connected with `parataxis`: <tt><a href="cs_cltt-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_cltt-pos-VERB.html">VERB</a></tt> (31; 48% instances), <tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_cltt-pos-VERB.html">VERB</a></tt> (27; 42% instances), <tt><a href="cs_cltt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cs_cltt-pos-VERB.html">VERB</a></tt> (2; 3% instances), <tt><a href="cs_cltt-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_cltt-pos-ADJ.html">ADJ</a></tt> (2; 3% instances), <tt><a href="cs_cltt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt> (1; 2% instances).
 
 
 ~~~ conllu

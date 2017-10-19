@@ -6,14 +6,14 @@ udver: '2'
 
 ## Treebank Statistics: UD_Czech-CLTT: Relations: `det:nummod`
 
-This relation is a language-specific subtype of [det]().
+This relation is a language-specific subtype of <tt><a href="cs_cltt-dep-det.html">det</a></tt>.
 
 1 nodes (0%) are attached to their parents as `det:nummod`.
 
 1 instances of `det:nummod` (100%) are right-to-left (child precedes parent).
 Average distance between parent and child is 3.
 
-The following 1 pairs of parts of speech are connected with `det:nummod`: [-pos/NOUN]()-[-pos/DET]() (1; 100% instances).
+The following 1 pairs of parts of speech are connected with `det:nummod`: <tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_cltt-pos-DET.html">DET</a></tt> (1; 100% instances).
 
 
 ~~~ conllu

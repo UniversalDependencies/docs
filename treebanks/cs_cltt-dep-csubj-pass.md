@@ -6,14 +6,14 @@ udver: '2'
 
 ## Treebank Statistics: UD_Czech-CLTT: Relations: `csubj:pass`
 
-This relation is a language-specific subtype of [csubj]().
+This relation is a language-specific subtype of <tt><a href="cs_cltt-dep-csubj.html">csubj</a></tt>.
 
 3 nodes (0%) are attached to their parents as `csubj:pass`.
 
 3 instances of `csubj:pass` (100%) are left-to-right (parent precedes child).
 Average distance between parent and child is 8.
 
-The following 2 pairs of parts of speech are connected with `csubj:pass`: [-pos/VERB]()-[-pos/ADJ]() (2; 67% instances), [-pos/VERB]()-[-pos/VERB]() (1; 33% instances).
+The following 2 pairs of parts of speech are connected with `csubj:pass`: <tt><a href="cs_cltt-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_cltt-pos-ADJ.html">ADJ</a></tt> (2; 67% instances), <tt><a href="cs_cltt-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_cltt-pos-VERB.html">VERB</a></tt> (1; 33% instances).
 
 
 ~~~ conllu
