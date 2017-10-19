@@ -4,66 +4,51 @@
 
 ## Treebank Statistics (UD_Czech-CLTT)
 
-This relation is universal.
+There are 26 `PUNCT` lemmas (1%), 26 `PUNCT` types (1%) and 3994 `PUNCT` tokens (11%).
+Out of 15 observed tags, the rank of `PUNCT` is: 8 in number of lemmas, 10 in number of types and 3 in number of tokens.
 
-3991 nodes (11%) are attached to their parents as `punct`.
+The 10 most frequent `PUNCT` lemmas: , . ; ( ) (1) (2) (3) (4) (5)
 
-2589 instances of `punct` (65%) are right-to-left (child precedes parent).
-Average distance between parent and child is 11.0942119769481.
+The 10 most frequent `PUNCT` types:  , . ; ( ) (1) (2) (3) (4) (5)
 
-The following 11 pairs of parts of speech are connected with `punct`: [-pos/VERB]()-[-pos/PUNCT]() (2144; 54% instances), [-pos/NOUN]()-[-pos/PUNCT]() (1290; 32% instances), [-pos/ADJ]()-[-pos/PUNCT]() (315; 8% instances), [-pos/X]()-[-pos/PUNCT]() (121; 3% instances), [-pos/NUM]()-[-pos/PUNCT]() (87; 2% instances), [-pos/ADV]()-[-pos/PUNCT]() (15; 0% instances), [-pos/PART]()-[-pos/PUNCT]() (8; 0% instances), [-pos/PRON]()-[-pos/PUNCT]() (7; 0% instances), [-pos/PUNCT]()-[-pos/PUNCT]() (2; 0% instances), [-pos/DET]()-[-pos/PUNCT]() (1; 0% instances), [-pos/SCONJ]()-[-pos/PUNCT]() (1; 0% instances).
+The 10 most frequent ambiguous lemmas: - ([X]() 18, [PUNCT]() 15), / ([SYM]() 2, [PUNCT]() 2)
 
-
-~~~ conllu
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 9 punct	color:blue
-1	Dále	dále	ADV	Db------------1	_	2	advmod	_	LId=dále-3
-2	obsahuje	obsahovat	VERB	VB-S---3P-AA---	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-3	povolenky	povolenka	NOUN	NNFP4-----A----	Case=Acc|Gender=Fem|Number=Plur|Polarity=Pos	2	obj	_	_
-4	na	na	ADP	RR--4----------	AdpType=Prep|Case=Acc	5	case	_	LId=na-1
-5	emise	emise	NOUN	NNFP4-----A----	Case=Acc|Gender=Fem|Number=Plur|Polarity=Pos	3	nmod	_	_
-6	a	a	CCONJ	J^-------------	_	8	cc	_	LId=a-1
-7	preferenční	preferenční	ADJ	AAIP4----1A----	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos	8	amod	_	_
-8	limity	limit	NOUN	NNIP4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur|Polarity=Pos	5	conj	_	SpaceAfter=No|LId=limit-1
-9	.	.	PUNCT	Z:-------------	_	2	punct	_	_
-
-~~~
+The 10 most frequent ambiguous types:  - ([X]() 18, [PUNCT]() 15), / ([SYM]() 2, [PUNCT]() 2)
 
 
-~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 7 6 punct	color:blue
-1	OBSAHOVÉ	obsahový	ADJ	AANS1----1A----	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Polarity=Pos	2	amod	_	_
-2	VYMEZENÍ	vymezení	NOUN	NNNS1-----A----	Case=Nom|Gender=Neut|Number=Sing|Polarity=Pos	0	root	_	_
-3	NĚKTERÝCH	některý	DET	PZXP2----------	Case=Gen|Number=Plur|PronType=Ind	4	det	_	_
-4	POLOŽEK	položka	NOUN	NNFP2-----A----	Case=Gen|Gender=Fem|Number=Plur|Polarity=Pos	2	nmod	_	_
-5	ROZVAHY	rozvaha	NOUN	NNFS2-----A----	Case=Gen|Gender=Fem|Number=Sing|Polarity=Pos	4	nmod	_	_
-6	(	(	PUNCT	Z:-------------	_	7	punct	_	SpaceAfter=No
-7	BILANCE	bilance	NOUN	NNFS1-----A----	Case=Nom|Gender=Fem|Number=Sing|Polarity=Pos	5	appos	_	SpaceAfter=No
-8	)	)	PUNCT	Z:-------------	_	7	punct	_	_
+* -
+  * [X]() 18: (6) Položka "C.III.6. Stát <b>-</b> daňové pohledávky" obsahuje zejména pohledávky z titulu přímých a nepřímých daní a uhrazených daňových záloh .
+  * [PUNCT]() 15: (4) Rozdíl mezi součtem počátečních zůstatků nově otevřených účtů aktiv a mezi součtem počátečních zůstatků nově otevřených účtů pasiv se uvede na účet v účtové skupině 49 , a to v závislosti na povaze zjištěného rozdílu ( + / <b>-</b> ) jako zůstatek aktivní nebo pasivní .
+* /
+  * [SYM]() 2: Odpisová sazba na jednotku těženého množství ( Kč <b>/</b> t , Kč <b>/</b> m je podílem pořizovací ceny ložiska na jednotlivém pozemku a zásob nevyhrazeného nerostu ( t , m prokázaných geologickým průzkumem na tomto pozemku .
+  * [PUNCT]() 2: (4) Rozdíl mezi součtem počátečních zůstatků nově otevřených účtů aktiv a mezi součtem počátečních zůstatků nově otevřených účtů pasiv se uvede na účet v účtové skupině 49 , a to v závislosti na povaze zjištěného rozdílu ( + <b>/</b> - ) jako zůstatek aktivní nebo pasivní .
 
-~~~
+## Morphology
+
+The form / lemma ratio of `PUNCT` is 1.000000 (the average of all parts of speech is 1.752649).
+
+The 1st highest number of forms (1) was observed with the lemma “"*"”: "*".
+
+The 2nd highest number of forms (1) was observed with the lemma “(”: (.
+
+The 3rd highest number of forms (1) was observed with the lemma “(1)”: (1).
+
+`PUNCT` does not occur with any features.
 
 
-~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 3 punct	color:blue
-1	USTANOVENÍ	ustanovení	NOUN	NNNS1-----A----	Case=Nom|Gender=Neut|Number=Sing|Polarity=Pos	0	root	_	_
-2	SPOLEČNÁ	společný	ADJ	AAFS1----1A----	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	1	amod	_	SpaceAfter=No
-3	,	,	PUNCT	Z:-------------	_	4	punct	_	_
-4	PŘECHODNÁ	přechodný	ADJ	AAFS1----1A----	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	2	conj	_	_
-5	A	a	CCONJ	J^-------------	_	6	cc	_	LId=a-1
-6	ZÁVĚREČNÁ	závěrečný	ADJ	AAFS1----1A----	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	2	conj	_	_
+## Relations
 
-~~~
+`PUNCT` nodes are attached to their parents using 2 different relations: [-dep/punct]() (3991; 100% instances), [-dep/conj]() (3; 0% instances)
 
+Parents of `PUNCT` nodes belong to 12 different parts of speech: [VERB]() (2144; 54% instances), [NOUN]() (1290; 32% instances), [ADJ]() (315; 8% instances), [X]() (122; 3% instances), [NUM]() (87; 2% instances), [ADV]() (15; 0% instances), [PART]() (8; 0% instances), [PRON]() (7; 0% instances), [PUNCT]() (2; 0% instances), [SYM]() (2; 0% instances), [DET]() (1; 0% instances), [SCONJ]() (1; 0% instances)
+
+3991 (100%) `PUNCT` nodes are leaves.
+
+3 (0%) `PUNCT` nodes have one child.
+
+The highest child degree of a `PUNCT` node is 1.
+
+Children of `PUNCT` nodes are attached using 2 different relations: [-dep/punct]() (2; 67% instances), [-dep/cc]() (1; 33% instances)
+
+Children of `PUNCT` nodes belong to 2 different parts of speech: [PUNCT]() (2; 67% instances), [CCONJ]() (1; 33% instances)
 

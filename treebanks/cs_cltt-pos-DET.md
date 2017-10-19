@@ -4,78 +4,85 @@
 
 ## Treebank Statistics (UD_Czech-CLTT)
 
-This relation is universal.
-There are 1 language-specific subtypes of `det`: [det:nummod]().
+There are 13 `DET` lemmas (0%), 56 `DET` types (1%) and 595 `DET` tokens (2%).
+Out of 15 observed tags, the rank of `DET` is: 12 in number of lemmas, 8 in number of types and 11 in number of tokens.
 
-593 nodes (2%) are attached to their parents as `det`.
+The 10 most frequent `DET` lemmas: tento jeho svůj jenž takový některý takovýto jaký jakýkoliv žádný
 
-592 instances of `det` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.20067453625632.
+The 10 most frequent `DET` types:  jejich jeho této tohoto těchto tyto tato tento její tomto
 
-The following 2 pairs of parts of speech are connected with `det`: [-pos/NOUN]()-[-pos/DET]() (592; 100% instances), [-pos/ADJ]()-[-pos/DET]() (1; 0% instances).
+The 10 most frequent ambiguous lemmas: tento ([DET]() 315, [PRON]() 5), jenž ([PRON]() 73, [DET]() 21), takový ([DET]() 21, [PRON]() 1), některý ([DET]() 6, [PRON]() 1), jaký ([PRON]() 3, [DET]() 2), žádný ([PRON]() 4, [DET]() 2), který ([PRON]() 449, [DET]() 1), několik ([PRON]() 1, [DET]() 1)
 
-
-~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 3 det	color:blue
-1	OBSAHOVÉ	obsahový	ADJ	AANS1----1A----	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Polarity=Pos	2	amod	_	_
-2	VYMEZENÍ	vymezení	NOUN	NNNS1-----A----	Case=Nom|Gender=Neut|Number=Sing|Polarity=Pos	0	root	_	_
-3	NĚKTERÝCH	některý	DET	PZXP2----------	Case=Gen|Number=Plur|PronType=Ind	4	det	_	_
-4	POLOŽEK	položka	NOUN	NNFP2-----A----	Case=Gen|Gender=Fem|Number=Plur|Polarity=Pos	2	nmod	_	_
-5	ROZVAHY	rozvaha	NOUN	NNFS2-----A----	Case=Gen|Gender=Fem|Number=Sing|Polarity=Pos	4	nmod	_	_
-6	(	(	PUNCT	Z:-------------	_	7	punct	_	SpaceAfter=No
-7	BILANCE	bilance	NOUN	NNFS1-----A----	Case=Nom|Gender=Fem|Number=Sing|Polarity=Pos	5	appos	_	SpaceAfter=No
-8	)	)	PUNCT	Z:-------------	_	7	punct	_	_
-
-~~~
+The 10 most frequent ambiguous types:  jejich ([DET]() 93, [X]() 6), této ([DET]() 66, [X]() 1), tato ([DET]() 24, [PRON]() 1), tuto ([DET]() 11, [ADV]() 7), tímto ([DET]() 9, [PRON]() 3), jehož ([DET]() 6, [PRON]() 5), takové ([DET]() 5, [PRON]() 1), kterým ([PRON]() 25, [DET]() 1), několika ([PRON]() 1, [DET]() 1), žádná ([PRON]() 1, [DET]() 1)
 
 
-~~~ conllu
-# visual-style 24	bgColor:blue
-# visual-style 24	fgColor:white
-# visual-style 25	bgColor:blue
-# visual-style 25	fgColor:white
-# visual-style 25 24 det	color:blue
-1	Právnické	právnický	ADJ	AAFP1----1A----	Case=Nom|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Pos	2	amod	_	_
-2	osoby	osoba	NOUN	NNFP1-----A----	Case=Nom|Gender=Fem|Number=Plur|Polarity=Pos	23	nsubj	_	_
-3	založené	založený	ADJ	AAFP1----1A----	Case=Nom|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Pos	2	amod	_	_
-4	za	za	ADP	RR--7----------	AdpType=Prep|Case=Ins	5	case	_	LId=za-1
-5	účelem	účel	NOUN	NNIS7-----A----	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing|Polarity=Pos	3	obl	_	SpaceAfter=No
-6	,	,	PUNCT	Z:-------------	_	10	punct	_	_
-7	aby	aby	SCONJ	J,-------------	_	10	mark	_	_
-8	by	být	AUX	Vc-------------	Mood=Cnd|Person=3|VerbForm=Fin	10	aux	_	_
-9	se	se	PRON	P7-X4----------	Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short	10	expl:pv	_	_
-10	staly	stát	VERB	VpTP---XR-AA---	Animacy=Inan|Gender=Fem,Masc|Number=Plur|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	5	acl	_	LId=stát-2
-11	vlastníkem	vlastník	NOUN	NNMS7-----A----	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing|Polarity=Pos	10	obj	_	_
-12	domu	dům	NOUN	NNIS2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing|Polarity=Pos	11	nmod	_	_
-13	s	s	ADP	RR--7----------	AdpType=Prep|Case=Ins	14	case	_	LId=s-1
-14	byty	byt	NOUN	NNIP7-----A----	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur|Polarity=Pos	12	nmod	_	_
-15	v	v	ADP	RR--6----------	AdpType=Prep|Case=Loc	16	case	_	LId=v-1
-16	nájmu	nájem	NOUN	NNIS6-----A----	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing|Polarity=Pos	14	nmod	_	_
-17	společníků	společník	NOUN	NNMP2-----A----	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur|Polarity=Pos	16	nmod	_	SpaceAfter=No
-18	,	,	PUNCT	Z:-------------	_	19	punct	_	_
-19	členů	člen	NOUN	NNMP2-----A----	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur|Polarity=Pos	17	conj	_	_
-20	nebo	nebo	CCONJ	J^-------------	_	21	cc	_	_
-21	zakladatelů	zakladatel	NOUN	NNMP2-----A----	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur|Polarity=Pos	17	conj	_	SpaceAfter=No
-22	,	,	PUNCT	Z:-------------	_	10	punct	_	_
-23	nemusí	muset	VERB	VB-S---3P-NA---	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-24	tento	tento	DET	PDYS1----------	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	25	det	_	_
-25	dlouhodobý	dlouhodobý	ADJ	AAIS1----1A----	Animacy=Inan|Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos	29	amod	_	_
-26	nehmotný	hmotný	ADJ	AAIS4----1N----	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Neg	29	amod	_	_
-27	a	a	CCONJ	J^-------------	_	28	cc	_	LId=a-1
-28	hmotný	hmotný	ADJ	AAIS4----1A----	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos	26	conj	_	_
-29	majetek	majetek	NOUN	NNIS4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|Polarity=Pos	30	obj	_	_
-30	odpisovat	odpisovat	VERB	Vf--------A----	Polarity=Pos|VerbForm=Inf	23	xcomp	_	SpaceAfter=No
-31	,	,	PUNCT	Z:-------------	_	33	punct	_	_
-32	pokud	pokud	SCONJ	J,-------------	_	33	mark	_	_
-33	neslouží	sloužit	VERB	VB-S---3P-NA---	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act	23	advcl	_	_
-34	k	k	ADP	RR--3----------	AdpType=Prep|Case=Dat	35	case	_	LId=k-1
-35	podnikání	podnikání	NOUN	NNNS3-----A----	Case=Dat|Gender=Neut|Number=Sing|Polarity=Pos	33	obl	_	SpaceAfter=No
-36	.	.	PUNCT	Z:-------------	_	23	punct	_	_
+* jejich
+  * [DET]() 93: Spotřeba povolenek je vykázána bez ohledu na <b>jejich</b> následné vyřazení .
+  * [X]() 6: O dospělých zvířatech a jejich skupinách s dobou použitelnosti delší než jeden rok nevykázaných v položce "B.II.5. Dospělá zvířata a <b>jejich</b> skupiny" se účtuje jako o zásobách .
+* této
+  * [DET]() 66: Směrná účtová osnova je uvedena v příloze č. 4 k <b>této</b> vyhlášce .
+  * [X]() 1: 1 . Ustanovení čl. I bodů 1 až 9 a 13 až 15 <b>této</b> vyhlášky použijí účetní jednotky poprvé pro účtování v účetních obdobích započatých v roce 2005 a pro sestavování účetní závěrky za účetní období započatá v roce 2005 .
+* tato
+  * [DET]() 24: Pokud <b>tato</b> sazba daně známa není , použije se sazba platná v příštím účetním období .
+  * [PRON]() 1: (4) Pro účely tohoto zákona se jako reálná hodnota použije a) tržní hodnota , b) ocenění kvalifikovaným odhadem nebo posudkem znalce , není-li tržní hodnota k dispozici nebo <b>tato</b> nedostatečně představuje reálnou hodnotu ; metody ocenění použité při kvalifikovaném odhadu nebo posudku znalce musí zajistit přiměřené přiblížení se k tržní hodnotě , c) ocenění stanovené podle zvláštních právních předpisů , nelze-li postupovat podle písmen a) a b) .
+* tuto
+  * [DET]() 11: (7) Není-li objektivně možné stanovit reálnou hodnotu , považuje se za <b>tuto</b> hodnotu ocenění způsoby podle § 25 .
+  * [ADV]() 7: Účetní jednotka popíše <b>tuto</b> skutečnost v příloze v účetní závěrce .
+* tímto
+  * [DET]() 9: (1) Účetní jednotky sestavují v případech stanovených <b>tímto</b> zákonem účetní závěrku .
+  * [PRON]() 3: Ustanovení o provádění inventarizací podle zvláštních právních předpisů nejsou <b>tímto</b> dotčena .
+* jehož
+  * [DET]() 6: (6) Účetní jednotky uvedené v odstavci 1 jsou povinny sestavovat odpisový plán , na <b>jehož</b> podkladě provádějí odpisování majetku v průběhu jeho používání .
+  * [PRON]() 5: (4) Podpisovým záznamem se rozumí účetní záznam , <b>jehož</b> obsahem je vlastnoruční podpis nebo uznávaný elektronický podpis podle zvláštního právního předpisu , anebo obdobný průkazný účetní záznam v technické formě , který zaručuje průkaznou a jednoznačnou původnost .
+* takové
+  * [DET]() 5: Účetní jednotky jsou povinny <b>takové</b> účetní záznamy vést nejméně v rozsahu stanoveném tímto zákonem .
+  * [PRON]() 1: Pokud tuto podmínku nemůže účetní jednotka zabezpečit , převede <b>takové</b> účetní záznamy do listinné formy odpovídající době jejich vyřízení a opatří je náležitostmi originálu , a to nejpozději před jejich zařazením do výběru archiválií ve skartačním řízení nebo mimo něj ; obdobně postupuje při nakládání s účetními záznamy přijatými účetní jednotkou v technické , případně smíšené formě , u účetních záznamů obsahujících uznávaný elektronický podpis včetně průkazného potvrzení v listinné formě o platnosti uznávaného elektronického podpisu v době přijetí účetního záznamu .
+* kterým
+  * [PRON]() 25: V těchto případech musí účetní záznam i účetní doklad obsahovat identifikátor , <b>kterým</b> lze nezaměnitelně určit vzájemnou vazbu mezi účetním záznamem a účetním dokladem , včetně souvisejících skutečností .
+  * [DET]() 1: (1) Účetní jednotky sestavují účetní závěrku k rozvahovému dni , <b>kterým</b> je den , kdy uzavírají účetní knihy .
+* několika
+  * [PRON]() 1: (2) Položka "C.I.2. Nedokončená výroba a polotovary" obsahuje a) produkty , které prošly jedním nebo <b>několika</b> výrobními stupni a nejsou již materiálem , nejsou však dosud hotovým výrobkem ; tato položka rovněž obsahuje nedokončené činnosti , při nichž nevznikají hmotné produkty , b) odděleně evidované produkty , to je polotovary , které dosud neprošly všemi výrobními stupni a budou dokončeny nebo zkompletovány do hotových výrobků v dalším výrobním procesu účetní jednotky .
+  * [DET]() 1: (5) Jednotlivý účetní záznam může být tvořen <b>několika</b> dílčími účetními záznamy .
+* žádná
+  * [PRON]() 1: Splnění této povinnosti však účetní jednotka může prokázat i jiným způsobem , který nezpochybní <b>žádná</b> z osob , které s převedeným záznamem pracují .
+  * [DET]() 1: (3) Účetní jednotka je povinna použít účetní metody způsobem , který vychází z předpokladu , že bude nepřetržitě pokračovat ve své činnosti a že u ní nenastává <b>žádná</b> skutečnost , která by ji omezovala nebo ji zabraňovala v této činnosti pokračovat i v dohledné budoucnosti .
 
-~~~
+## Morphology
 
+The form / lemma ratio of `DET` is 4.307692 (the average of all parts of speech is 1.752649).
+
+The 1st highest number of forms (14) was observed with the lemma “tento”: tato, tento, tohoto, tomto, tomuto, toto, touto, tuto, tyto, této, tímto, těchto, těmito, těmto.
+
+The 2nd highest number of forms (8) was observed with the lemma “jeho”: jeho, jejich, její, jejích, jejího, jejím, jejími, jejímu.
+
+The 3rd highest number of forms (8) was observed with the lemma “takový”: takovou, taková, takové, takovému, takový, takových, takovým, takovými.
+
+`DET` occurs with 11 features: [-feat/PronType]() (595; 100% instances), [-feat/Number]() (414; 70% instances), [-feat/Case]() (406; 68% instances), [-feat/Gender]() (354; 59% instances), [-feat/Poss]() (240; 40% instances), [-feat/Number[psor]]() (216; 36% instances), [-feat/Person]() (216; 36% instances), [-feat/Gender[psor]]() (111; 19% instances), [-feat/Animacy]() (30; 5% instances), [-feat/Reflex]() (24; 4% instances), [-feat/NumType]() (1; 0% instances)
+
+`DET` occurs with 28 feature-value pairs: `Animacy=Inan`, `Case=Acc`, `Case=Dat`, `Case=Gen`, `Case=Ins`, `Case=Loc`, `Case=Nom`, `Gender=Fem`, `Gender=Masc`, `Gender=Masc,Neut`, `Gender=Neut`, `Gender[psor]=Fem`, `Gender[psor]=Masc,Neut`, `NumType=Card`, `Number=Plur`, `Number=Sing`, `Number[psor]=Plur`, `Number[psor]=Sing`, `Person=3`, `Poss=Yes`, `PronType=Dem`, `PronType=Dem,Ind`, `PronType=Ind`, `PronType=Int,Rel`, `PronType=Neg`, `PronType=Prs`, `PronType=Rel`, `Reflex=Yes`
+
+`DET` occurs with 57 feature combinations.
+The most frequent feature combination is `Number[psor]=Plur|Person=3|Poss=Yes|PronType=Prs` (93 tokens).
+Examples: jejich
+
+
+## Relations
+
+`DET` nodes are attached to their parents using 3 different relations: [-dep/det]() (593; 100% instances), [-dep/acl]() (1; 0% instances), [-dep/det:nummod]() (1; 0% instances)
+
+Parents of `DET` nodes belong to 2 different parts of speech: [NOUN]() (594; 100% instances), [ADJ]() (1; 0% instances)
+
+593 (100%) `DET` nodes are leaves.
+
+1 (0%) `DET` nodes have one child.
+
+0 (0%) `DET` nodes have two children.
+
+1 (0%) `DET` nodes have three or more children.
+
+The highest child degree of a `DET` node is 3.
+
+Children of `DET` nodes are attached using 4 different relations: [-dep/cop]() (1; 25% instances), [-dep/nmod]() (1; 25% instances), [-dep/nsubj]() (1; 25% instances), [-dep/punct]() (1; 25% instances)
+
+Children of `DET` nodes belong to 3 different parts of speech: [NOUN]() (2; 50% instances), [AUX]() (1; 25% instances), [PUNCT]() (1; 25% instances)
 
