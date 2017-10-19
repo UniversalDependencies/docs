@@ -65,7 +65,7 @@ The most frequent other feature values with which `ADJ` and `Number` co-occurred
 
 1802 [VERB](cs_cltt-pos-VERB.html) tokens (85% of all `VERB` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="Polarity.html">Polarity</a>=Pos</tt> (1587; 88%), <tt><a href="Voice.html">Voice</a>=Act</tt> (1542; 86%), <tt><a href="Person.html">Person</a>=3</tt> (1426; 79%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (1426; 79%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (1426; 79%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (1426; 79%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (1426; 79%).
+The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="Polarity.html">Polarity</a>=Pos</tt> (1587; 88%), <tt><a href="Voice.html">Voice</a>=Act</tt> (1542; 86%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (1426; 79%), <tt><a href="Person.html">Person</a>=3</tt> (1426; 79%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (1426; 79%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (1426; 79%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (1426; 79%).
 
 `VERB` tokens may have the following values of `Number`:
 
@@ -121,7 +121,7 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
 
 498 [AUX](cs_cltt-pos-AUX.html) tokens (82% of all `AUX` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `AUX` and `Number` co-occurred: <tt><a href="Voice.html">Voice</a>=Act</tt> (497; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (438; 88%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (438; 88%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (438; 88%), <tt><a href="Person.html">Person</a>=3</tt> (438; 88%), <tt><a href="Polarity.html">Polarity</a>=Pos</tt> (437; 88%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (417; 84%).
+The most frequent other feature values with which `AUX` and `Number` co-occurred: <tt><a href="Voice.html">Voice</a>=Act</tt> (497; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (438; 88%), <tt><a href="Person.html">Person</a>=3</tt> (438; 88%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (438; 88%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (438; 88%), <tt><a href="Polarity.html">Polarity</a>=Pos</tt> (437; 88%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (417; 84%).
 
 `AUX` tokens may have the following values of `Number`:
 

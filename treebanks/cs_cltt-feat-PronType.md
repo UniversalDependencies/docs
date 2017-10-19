@@ -38,7 +38,7 @@ The most frequent other feature values with which `PRON` and `PronType` co-occur
 
 595 [DET](cs_cltt-pos-DET.html) tokens (100% of all `DET` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `DET` and `PronType` co-occurred: <tt><a href="Gender[psor].html">Gender[psor]</a>=EMPTY</tt> (484; 81%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (379; 64%), <tt><a href="Number[psor].html">Number[psor]</a>=EMPTY</tt> (379; 64%), <tt><a href="Poss.html">Poss</a>=EMPTY</tt> (355; 60%), <tt><a href="Number.html">Number</a>=Sing</tt> (306; 51%).
+The most frequent other feature values with which `DET` and `PronType` co-occurred: <tt><a href="Gender[psor].html">Gender[psor]</a>=EMPTY</tt> (484; 81%), <tt><a href="Number[psor].html">Number[psor]</a>=EMPTY</tt> (379; 64%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (379; 64%), <tt><a href="Poss.html">Poss</a>=EMPTY</tt> (355; 60%), <tt><a href="Number.html">Number</a>=Sing</tt> (306; 51%).
 
 `DET` tokens may have the following values of `PronType`:
 

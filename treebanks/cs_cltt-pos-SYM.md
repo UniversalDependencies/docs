@@ -13,14 +13,14 @@ The 10 most frequent `SYM` lemmas: % + /
 
 The 10 most frequent `SYM` types:  % + /
 
-The 10 most frequent ambiguous lemmas: / ([SYM]() 2, [PUNCT]() 2)
+The 10 most frequent ambiguous lemmas: / ([SYM](cs_cltt-pos-SYM.html) 2, [PUNCT](cs_cltt-pos-PUNCT.html) 2)
 
-The 10 most frequent ambiguous types:  / ([SYM]() 2, [PUNCT]() 2)
+The 10 most frequent ambiguous types:  / ([SYM](cs_cltt-pos-SYM.html) 2, [PUNCT](cs_cltt-pos-PUNCT.html) 2)
 
 
 * /
-  * [SYM]() 2: Odpisová sazba na jednotku těženého množství ( Kč <b>/</b> t , Kč <b>/</b> m je podílem pořizovací ceny ložiska na jednotlivém pozemku a zásob nevyhrazeného nerostu ( t , m prokázaných geologickým průzkumem na tomto pozemku .
-  * [PUNCT]() 2: (4) Rozdíl mezi součtem počátečních zůstatků nově otevřených účtů aktiv a mezi součtem počátečních zůstatků nově otevřených účtů pasiv se uvede na účet v účtové skupině 49 , a to v závislosti na povaze zjištěného rozdílu ( + <b>/</b> - ) jako zůstatek aktivní nebo pasivní .
+  * [SYM](cs_cltt-pos-SYM.html) 2: Odpisová sazba na jednotku těženého množství ( Kč <b>/</b> t , Kč <b>/</b> m je podílem pořizovací ceny ložiska na jednotlivém pozemku a zásob nevyhrazeného nerostu ( t , m prokázaných geologickým průzkumem na tomto pozemku .
+  * [PUNCT](cs_cltt-pos-PUNCT.html) 2: (4) Rozdíl mezi součtem počátečních zůstatků nově otevřených účtů aktiv a mezi součtem počátečních zůstatků nově otevřených účtů pasiv se uvede na účet v účtové skupině 49 , a to v závislosti na povaze zjištěného rozdílu ( + <b>/</b> - ) jako zůstatek aktivní nebo pasivní .
 
 ## Morphology
 

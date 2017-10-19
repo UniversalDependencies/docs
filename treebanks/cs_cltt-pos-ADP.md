@@ -13,41 +13,41 @@ The 10 most frequent `ADP` lemmas: v k podle na o s z do za pro
 
 The 10 most frequent `ADP` types:  v podle na o k s do za z pro
 
-The 10 most frequent ambiguous lemmas: v ([ADP]() 907, [X]() 2), k ([ADP]() 374, [X]() 10), na ([ADP]() 341, [X]() 17), o ([ADP]() 310, [X]() 1), z ([ADP]() 203, [X]() 29), do ([ADP]() 191, [ADJ]() 6), za ([ADP]() 190, [X]() 21), při ([ADP]() 127, [X]() 5), od ([ADP]() 73, [ADJ]() 4), včetně ([ADP]() 47, [ADV]() 7)
+The 10 most frequent ambiguous lemmas: v ([ADP](cs_cltt-pos-ADP.html) 907, [X](cs_cltt-pos-X.html) 2), k ([ADP](cs_cltt-pos-ADP.html) 374, [X](cs_cltt-pos-X.html) 10), na ([ADP](cs_cltt-pos-ADP.html) 341, [X](cs_cltt-pos-X.html) 17), o ([ADP](cs_cltt-pos-ADP.html) 310, [X](cs_cltt-pos-X.html) 1), z ([ADP](cs_cltt-pos-ADP.html) 203, [X](cs_cltt-pos-X.html) 29), do ([ADP](cs_cltt-pos-ADP.html) 191, [ADJ](cs_cltt-pos-ADJ.html) 6), za ([ADP](cs_cltt-pos-ADP.html) 190, [X](cs_cltt-pos-X.html) 21), při ([ADP](cs_cltt-pos-ADP.html) 127, [X](cs_cltt-pos-X.html) 5), od ([ADP](cs_cltt-pos-ADP.html) 73, [ADJ](cs_cltt-pos-ADJ.html) 4), včetně ([ADP](cs_cltt-pos-ADP.html) 47, [ADV](cs_cltt-pos-ADV.html) 7)
 
-The 10 most frequent ambiguous types:  v ([ADP]() 694, [X]() 2), na ([ADP]() 333, [X]() 17), o ([ADP]() 301, [X]() 1), k ([ADP]() 262, [X]() 10), do ([ADP]() 186, [ADJ]() 6), za ([ADP]() 173, [X]() 21), z ([ADP]() 165, [X]() 29), ve ([ADP]() 150, [X]() 3), při ([ADP]() 106, [X]() 5), ke ([ADP]() 107, [X]() 4)
+The 10 most frequent ambiguous types:  v ([ADP](cs_cltt-pos-ADP.html) 694, [X](cs_cltt-pos-X.html) 2), na ([ADP](cs_cltt-pos-ADP.html) 333, [X](cs_cltt-pos-X.html) 17), o ([ADP](cs_cltt-pos-ADP.html) 301, [X](cs_cltt-pos-X.html) 1), k ([ADP](cs_cltt-pos-ADP.html) 262, [X](cs_cltt-pos-X.html) 10), do ([ADP](cs_cltt-pos-ADP.html) 186, [ADJ](cs_cltt-pos-ADJ.html) 6), za ([ADP](cs_cltt-pos-ADP.html) 173, [X](cs_cltt-pos-X.html) 21), z ([ADP](cs_cltt-pos-ADP.html) 165, [X](cs_cltt-pos-X.html) 29), ve ([ADP](cs_cltt-pos-ADP.html) 150, [X](cs_cltt-pos-X.html) 3), při ([ADP](cs_cltt-pos-ADP.html) 106, [X](cs_cltt-pos-X.html) 5), ke ([ADP](cs_cltt-pos-ADP.html) 107, [X](cs_cltt-pos-X.html) 4)
 
 
 * v
-  * [ADP]() 694: Obdobně se postupuje <b>v</b> případě technického zhodnocení .
-  * [X]() 2: (2) Položka "C.IV.2. Účty <b>v</b> bankách" obsahuje zejména peněžní zůstatky na bankovních účtech , popřípadě peníze na cestě vztahující se k této položce .
+  * [ADP](cs_cltt-pos-ADP.html) 694: Obdobně se postupuje <b>v</b> případě technického zhodnocení .
+  * [X](cs_cltt-pos-X.html) 2: (2) Položka "C.IV.2. Účty <b>v</b> bankách" obsahuje zejména peněžní zůstatky na bankovních účtech , popřípadě peníze na cestě vztahující se k této položce .
 * na
-  * [ADP]() 333: Dále obsahuje povolenky <b>na</b> emise a preferenční limity .
-  * [X]() 17: (6) Položka "C.I.6. Poskytnuté zálohy <b>na</b> zásoby" obsahuje krátkodobé a dlouhodobé zálohy poskytnuté na pořízení zásob .
+  * [ADP](cs_cltt-pos-ADP.html) 333: Dále obsahuje povolenky <b>na</b> emise a preferenční limity .
+  * [X](cs_cltt-pos-X.html) 17: (6) Položka "C.I.6. Poskytnuté zálohy <b>na</b> zásoby" obsahuje krátkodobé a dlouhodobé zálohy poskytnuté na pořízení zásob .
 * o
-  * [ADP]() 301: Uvádějí se úhrnné údaje , nikoliv údaje <b>o</b> jednotlivých pracovnících .
-  * [X]() 1: Tato vyhláška zapracovávqá příslušné předpisy Evropské unie a upravuje : a) rozsah a způsob sestavování účetní závěrky ; uspořádání , označování a obsahové vymezení položek majetku a jiných aktiv , závazků a jiných pasiv v účetní závěrce ; uspořádání , označování a obsahové vymezení nákladů , výnosů a výsledků hospodaření v účetní závěrce ; uspořádání a obsahové vymezení vysvětlujících a doplňujících informací v příloze v účetní závěrce ; uspořádání , označování a obsahové vymezení položek konsolidované účetní závěrky ; metody konsolidace účetní závěrky a postup zahrnování účetních jednotek do konsolidačního celku ; b) uspořádání a obsahové vymezení přehledu o peněžních tocích a přehledu o změnách vlastního kapitálu ; směrnou účtovou osnovu ; účetní metody ; metody přechodu z daňové evidence podle zvláštního zákona na účetnictví ; c) metodu ocenění při pořízení souboru movitých věcí se samostatným technicko-ekonomickým určením ; d) metodu oceňování při přeměně společnosti nebo družstva ( dále jen "společnost" ) podle zákona upravujícího přeměny obchodních společností a družstev ( dále jen "zákon <b>o</b> přeměnách" ) , včetně úprav prováděných v rámci přeměn společnosti ke dni zápisu do obchodního rejstříku s účinky od rozhodného dne ; e) metodu sestavení zahajovací rozvahy při přeměně společnosti ; f) úpravy při přeshraniční přeměně nebo převodu podniku ; g) metodu ocenění při nabytí více než jedné složky majetku převodem či přechodem , včetně možnosti použití způsobu oceňování podle § 24 odst. 3 písm. a) bodu 1 v případě přeshraniční přeměny , vkladu nebo prodeje podniku ; h) ocenění majetku a závazků při přeměně společnosti včetně okamžiku účtování o ocenění reálnou hodnotou .
+  * [ADP](cs_cltt-pos-ADP.html) 301: Uvádějí se úhrnné údaje , nikoliv údaje <b>o</b> jednotlivých pracovnících .
+  * [X](cs_cltt-pos-X.html) 1: Tato vyhláška zapracovávqá příslušné předpisy Evropské unie a upravuje : a) rozsah a způsob sestavování účetní závěrky ; uspořádání , označování a obsahové vymezení položek majetku a jiných aktiv , závazků a jiných pasiv v účetní závěrce ; uspořádání , označování a obsahové vymezení nákladů , výnosů a výsledků hospodaření v účetní závěrce ; uspořádání a obsahové vymezení vysvětlujících a doplňujících informací v příloze v účetní závěrce ; uspořádání , označování a obsahové vymezení položek konsolidované účetní závěrky ; metody konsolidace účetní závěrky a postup zahrnování účetních jednotek do konsolidačního celku ; b) uspořádání a obsahové vymezení přehledu o peněžních tocích a přehledu o změnách vlastního kapitálu ; směrnou účtovou osnovu ; účetní metody ; metody přechodu z daňové evidence podle zvláštního zákona na účetnictví ; c) metodu ocenění při pořízení souboru movitých věcí se samostatným technicko-ekonomickým určením ; d) metodu oceňování při přeměně společnosti nebo družstva ( dále jen "společnost" ) podle zákona upravujícího přeměny obchodních společností a družstev ( dále jen "zákon <b>o</b> přeměnách" ) , včetně úprav prováděných v rámci přeměn společnosti ke dni zápisu do obchodního rejstříku s účinky od rozhodného dne ; e) metodu sestavení zahajovací rozvahy při přeměně společnosti ; f) úpravy při přeshraniční přeměně nebo převodu podniku ; g) metodu ocenění při nabytí více než jedné složky majetku převodem či přechodem , včetně možnosti použití způsobu oceňování podle § 24 odst. 3 písm. a) bodu 1 v případě přeshraniční přeměny , vkladu nebo prodeje podniku ; h) ocenění majetku a závazků při přeměně společnosti včetně okamžiku účtování o ocenění reálnou hodnotou .
 * k
-  * [ADP]() 262: Směrná účtová osnova je uvedena v příloze č. 4 <b>k</b> této vyhlášce .
-  * [X]() 10: (3) Položka "B.II.9. Oceňovací rozdíl <b>k</b> nabytému majetku" obsahuje též opravnou položku k nabytému majetku stanovenou ( vytvořenou ) před nabytím účinnosti této vyhlášky .
+  * [ADP](cs_cltt-pos-ADP.html) 262: Směrná účtová osnova je uvedena v příloze č. 4 <b>k</b> této vyhlášce .
+  * [X](cs_cltt-pos-X.html) 10: (3) Položka "B.II.9. Oceňovací rozdíl <b>k</b> nabytému majetku" obsahuje též opravnou položku k nabytému majetku stanovenou ( vytvořenou ) před nabytím účinnosti této vyhlášky .
 * do
-  * [ADP]() 186: Uvedený majetek se odpisuje jen <b>do</b> výše jeho ocenění v účetnictví .
-  * [ADJ]() 6: Goodwill se odpisuje rovnoměrně nejpozději <b>do</b> 60 měsíců od nabytí podniku nebo jeho části nebo od rozhodného dne přeměny do nákladů .
+  * [ADP](cs_cltt-pos-ADP.html) 186: Uvedený majetek se odpisuje jen <b>do</b> výše jeho ocenění v účetnictví .
+  * [ADJ](cs_cltt-pos-ADJ.html) 6: Goodwill se odpisuje rovnoměrně nejpozději <b>do</b> 60 měsíců od nabytí podniku nebo jeho části nebo od rozhodného dne přeměny do nákladů .
 * za
-  * [ADP]() 173: Pohledávky <b>za</b> upsaný základní kapitál
-  * [X]() 21: Položka "***Výsledek hospodaření <b>za</b> účetní období" uvedená ve výkazu zisku a ztráty se musí rovnat položce "A. V. Výsledek hospodaření běžného účetního období" uvedené v rozvaze ( bilanci ) .
+  * [ADP](cs_cltt-pos-ADP.html) 173: Pohledávky <b>za</b> upsaný základní kapitál
+  * [X](cs_cltt-pos-X.html) 21: Položka "***Výsledek hospodaření <b>za</b> účetní období" uvedená ve výkazu zisku a ztráty se musí rovnat položce "A. V. Výsledek hospodaření běžného účetního období" uvedené v rozvaze ( bilanci ) .
 * z
-  * [ADP]() 165: Obsahuje zejména závazky <b>z</b> dlouhodobých půjček a úvěrů .
-  * [X]() 29: Pokud jsou tyto zálohy vyšší nebo rovny předpokládané dani , účetní jednotka položku "B.I.3. Rezerva na daň <b>z</b> příjmů" neuvede .
+  * [ADP](cs_cltt-pos-ADP.html) 165: Obsahuje zejména závazky <b>z</b> dlouhodobých půjček a úvěrů .
+  * [X](cs_cltt-pos-X.html) 29: Pokud jsou tyto zálohy vyšší nebo rovny předpokládané dani , účetní jednotka položku "B.I.3. Rezerva na daň <b>z</b> příjmů" neuvede .
 * ve
-  * [ADP]() 150: Změna stavu rezerv a opravných položek <b>ve</b> finanční oblasti
-  * [X]() 3: Položka "M. Změna stavu rezerv a opravných položek <b>ve</b> finanční oblasti" obsahuje rozdíl mezi konečným a počátečním stavem rezerv a opravných položek ve finanční oblasti ; tato položka může mít i zápornou hodnotu .
+  * [ADP](cs_cltt-pos-ADP.html) 150: Změna stavu rezerv a opravných položek <b>ve</b> finanční oblasti
+  * [X](cs_cltt-pos-X.html) 3: Položka "M. Změna stavu rezerv a opravných položek <b>ve</b> finanční oblasti" obsahuje rozdíl mezi konečným a počátečním stavem rezerv a opravných položek ve finanční oblasti ; tato položka může mít i zápornou hodnotu .
 * při
-  * [ADP]() 106: Výrobou se rozumí i jiná činnost , <b>při</b> které nevznikají hmotné produkty .
-  * [X]() 5: (1) Položka "A.II.4. Oceňovací rozdíly z přecenění <b>při</b> přeměnách společností" obsahuje rozdíly mezi oceněním majetku a závazků v účetnictví zanikající účetní jednotky nebo části účetní jednotky rozdělované odštěpením a oceněním jmění při přeměně společnosti podle zákona o přeměnách k rozvahovému dni pro ocenění .
+  * [ADP](cs_cltt-pos-ADP.html) 106: Výrobou se rozumí i jiná činnost , <b>při</b> které nevznikají hmotné produkty .
+  * [X](cs_cltt-pos-X.html) 5: (1) Položka "A.II.4. Oceňovací rozdíly z přecenění <b>při</b> přeměnách společností" obsahuje rozdíly mezi oceněním majetku a závazků v účetnictví zanikající účetní jednotky nebo části účetní jednotky rozdělované odštěpením a oceněním jmění při přeměně společnosti podle zákona o přeměnách k rozvahovému dni pro ocenění .
 * ke
-  * [ADP]() 107: Společná ustanovení <b>ke</b> správním deliktům
-  * [X]() 4: (5) Položka "B.II.4. Závazky <b>ke</b> společníkům, členům družstva a k účastníkům sdružení" obsahuje zejména dlouhodobé závazky z titulu poskytnutých půjček společníky a závazky k účastníkům sdružení , které není právnickou osobou .
+  * [ADP](cs_cltt-pos-ADP.html) 107: Společná ustanovení <b>ke</b> správním deliktům
+  * [X](cs_cltt-pos-X.html) 4: (5) Položka "B.II.4. Závazky <b>ke</b> společníkům, členům družstva a k účastníkům sdružení" obsahuje zejména dlouhodobé závazky z titulu poskytnutých půjček společníky a závazky k účastníkům sdružení , které není právnickou osobou .
 
 ## Morphology
 

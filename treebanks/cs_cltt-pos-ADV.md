@@ -13,38 +13,38 @@ The 10 most frequent `ADV` lemmas: dále zejména popřípadě jinak pouze kdy p
 
 The 10 most frequent `ADV` types:  dále zejména popřípadě jinak pouze kdy též například tak více
 
-The 10 most frequent ambiguous lemmas: tak ([ADV]() 23, [CCONJ]() 1), včetně ([ADP]() 47, [ADV]() 7), uvnitř ([ADV]() 3, [ADP]() 1), jak ([SCONJ]() 3, [ADV]() 2)
+The 10 most frequent ambiguous lemmas: tak ([ADV](cs_cltt-pos-ADV.html) 23, [CCONJ](cs_cltt-pos-CCONJ.html) 1), včetně ([ADP](cs_cltt-pos-ADP.html) 47, [ADV](cs_cltt-pos-ADV.html) 7), uvnitř ([ADV](cs_cltt-pos-ADV.html) 3, [ADP](cs_cltt-pos-ADP.html) 1), jak ([SCONJ](cs_cltt-pos-SCONJ.html) 3, [ADV](cs_cltt-pos-ADV.html) 2)
 
-The 10 most frequent ambiguous types:  tak ([ADV]() 23, [CCONJ]() 1), celkem ([ADV]() 18, [NOUN]() 2), tuto ([DET]() 11, [ADV]() 7), včetně ([ADP]() 47, [ADV]() 7), výše ([NOUN]() 35, [ADV]() 6), jednou ([ADV]() 3, [NUM]() 3), něm ([ADJ]() 4, [ADV]() 3), uvnitř ([ADV]() 3, [ADP]() 1), jak ([SCONJ]() 3, [ADV]() 2)
+The 10 most frequent ambiguous types:  tak ([ADV](cs_cltt-pos-ADV.html) 23, [CCONJ](cs_cltt-pos-CCONJ.html) 1), celkem ([ADV](cs_cltt-pos-ADV.html) 18, [NOUN](cs_cltt-pos-NOUN.html) 2), tuto ([DET](cs_cltt-pos-DET.html) 11, [ADV](cs_cltt-pos-ADV.html) 7), včetně ([ADP](cs_cltt-pos-ADP.html) 47, [ADV](cs_cltt-pos-ADV.html) 7), výše ([NOUN](cs_cltt-pos-NOUN.html) 35, [ADV](cs_cltt-pos-ADV.html) 6), jednou ([NUM](cs_cltt-pos-NUM.html) 3, [ADV](cs_cltt-pos-ADV.html) 3), něm ([ADJ](cs_cltt-pos-ADJ.html) 4, [ADV](cs_cltt-pos-ADV.html) 3), uvnitř ([ADV](cs_cltt-pos-ADV.html) 3, [ADP](cs_cltt-pos-ADP.html) 1), jak ([SCONJ](cs_cltt-pos-SCONJ.html) 3, [ADV](cs_cltt-pos-ADV.html) 2)
 
 
 * tak
-  * [ADV]() 23: (2) Účetní jednotky při inventarizaci postupují <b>tak</b> , že provádějí jednu nebo více inventur a ověřují , zda zjištěný skutečný stav odpovídá stavu v účetnictví .
-  * [CCONJ]() 1: (5) Položka "B.III.6. Závazky ze sociálního zabezpečení a zdravotního pojištění" obsahuje u všech účetních jednotek závazky ze sociálního zabezpečení a zdravotního pojištění k příslušným institucím jak v zákonné výši , <b>tak</b> z dobrovolného plnění .
+  * [ADV](cs_cltt-pos-ADV.html) 23: (2) Účetní jednotky při inventarizaci postupují <b>tak</b> , že provádějí jednu nebo více inventur a ověřují , zda zjištěný skutečný stav odpovídá stavu v účetnictví .
+  * [CCONJ](cs_cltt-pos-CCONJ.html) 1: (5) Položka "B.III.6. Závazky ze sociálního zabezpečení a zdravotního pojištění" obsahuje u všech účetních jednotek závazky ze sociálního zabezpečení a zdravotního pojištění k příslušným institucím jak v zákonné výši , <b>tak</b> z dobrovolného plnění .
 * celkem
-  * [ADV]() 18: (3) Nelze-li skutečnou výši aktiv zjistit postupem podle odstavce 2 , stanoví hodnotu aktiv <b>celkem</b> orgán , který porušení právních povinností projednává , kvalifikovaným odhadem .
-  * [NOUN]() 2: (7) Ocenění pořízeného pozemku je včetně lesního porostu nebo osázení stromy a keři , pokud nejsou pěstitelským <b>celkem</b> trvalých porostů ( § 7 odst. 4 ) .
+  * [ADV](cs_cltt-pos-ADV.html) 18: (3) Nelze-li skutečnou výši aktiv zjistit postupem podle odstavce 2 , stanoví hodnotu aktiv <b>celkem</b> orgán , který porušení právních povinností projednává , kvalifikovaným odhadem .
+  * [NOUN](cs_cltt-pos-NOUN.html) 2: (7) Ocenění pořízeného pozemku je včetně lesního porostu nebo osázení stromy a keři , pokud nejsou pěstitelským <b>celkem</b> trvalých porostů ( § 7 odst. 4 ) .
 * tuto
-  * [DET]() 11: (7) Není-li objektivně možné stanovit reálnou hodnotu , považuje se za <b>tuto</b> hodnotu ocenění způsoby podle § 25 .
-  * [ADV]() 7: Účetní jednotka popíše <b>tuto</b> skutečnost v příloze v účetní závěrce .
+  * [DET](cs_cltt-pos-DET.html) 11: (7) Není-li objektivně možné stanovit reálnou hodnotu , považuje se za <b>tuto</b> hodnotu ocenění způsoby podle § 25 .
+  * [ADV](cs_cltt-pos-ADV.html) 7: Účetní jednotka popíše <b>tuto</b> skutečnost v příloze v účetní závěrce .
 * včetně
-  * [ADP]() 47: (5) Položka "C.I.5. Zboží" obsahuje movité věci <b>včetně</b> zvířat , nabyté za účelem prodeje , pokud účetní jednotka s těmito věcmi obchoduje .
-  * [ADV]() 7: 4 . Ustanovení bodu 11 této vyhlášky s výjimkou bodů 100 a 105 této vyhlášky a ustanovení bodů 82 a 112 této vyhlášky se použijí pro účetní závěrky sestavované po 1 . lednu 2004 , <b>včetně</b> .
+  * [ADP](cs_cltt-pos-ADP.html) 47: (5) Položka "C.I.5. Zboží" obsahuje movité věci <b>včetně</b> zvířat , nabyté za účelem prodeje , pokud účetní jednotka s těmito věcmi obchoduje .
+  * [ADV](cs_cltt-pos-ADV.html) 7: 4 . Ustanovení bodu 11 této vyhlášky s výjimkou bodů 100 a 105 této vyhlášky a ustanovení bodů 82 a 112 této vyhlášky se použijí pro účetní závěrky sestavované po 1 . lednu 2004 , <b>včetně</b> .
 * výše
-  * [NOUN]() 35: Uvedený majetek se odpisuje jen do <b>výše</b> jeho ocenění v účetnictví .
-  * [ADV]() 6: (1) V konsolidovaném výkazu zisku a ztráty se uvádí <b>výše</b> nákladů a výnosů odděleně za běžné účetní období a minulé účetní období .
+  * [NOUN](cs_cltt-pos-NOUN.html) 35: Uvedený majetek se odpisuje jen do <b>výše</b> jeho ocenění v účetnictví .
+  * [ADV](cs_cltt-pos-ADV.html) 6: (1) V konsolidovaném výkazu zisku a ztráty se uvádí <b>výše</b> nákladů a výnosů odděleně za běžné účetní období a minulé účetní období .
 * jednou
-  * [ADV]() 3: Takovouto změnu účetního období může účetní jednotka v běžném účetním období provést pouze <b>jednou</b> .
-  * [NUM]() 3: (3) Pokud je v případě uvedeném v odstavci 2 alespoň <b>jednou</b> z nástupnických účetních jednotek účetní jednotka , která má nebo má mít sídlo v České republice , použijí zanikající účetní jednotka i nástupnická účetní jednotka při účtování o ocenění majetku a závazků reálnou hodnotou § 54 obdobně .
+  * [NUM](cs_cltt-pos-NUM.html) 3: (3) Pokud je v případě uvedeném v odstavci 2 alespoň <b>jednou</b> z nástupnických účetních jednotek účetní jednotka , která má nebo má mít sídlo v České republice , použijí zanikající účetní jednotka i nástupnická účetní jednotka při účtování o ocenění majetku a závazků reálnou hodnotou § 54 obdobně .
+  * [ADV](cs_cltt-pos-ADV.html) 3: Takovouto změnu účetního období může účetní jednotka v běžném účetním období provést pouze <b>jednou</b> .
 * něm
-  * [ADJ]() 4: Zobrazení je poctivé , když jsou při <b>něm</b> použity účetní metody způsobem , který vede k dosažení věrnosti .
-  * [ADV]() 3: (3) Odpovědnost právnické osoby za správní delikt zaniká , jestliže správní orgán o něm nezahájil řízení do 1 roku ode dne , kdy se o <b>něm</b> dozvěděl , nejpozději však do 3 let ode dne , kdy byl spáchán .
+  * [ADJ](cs_cltt-pos-ADJ.html) 4: Zobrazení je poctivé , když jsou při <b>něm</b> použity účetní metody způsobem , který vede k dosažení věrnosti .
+  * [ADV](cs_cltt-pos-ADV.html) 3: (3) Odpovědnost právnické osoby za správní delikt zaniká , jestliže správní orgán o něm nezahájil řízení do 1 roku ode dne , kdy se o <b>něm</b> dozvěděl , nejpozději však do 3 let ode dne , kdy byl spáchán .
 * uvnitř
-  * [ADV]() 3: U případů týkajících se výhradně skutečností <b>uvnitř</b> jedné účetní jednotky lze použít jako podpisový záznam vlastnoruční podpis nebo zaručený elektronický podpis anebo obdobný průkazný účetní záznam v technické formě .
-  * [ADP]() 1: (3) Položka "C.I.3. Výrobky" obsahuje věci vlastní výroby určené k prodeji nebo ke spotřebě <b>uvnitř</b> účetní jednotky .
+  * [ADV](cs_cltt-pos-ADV.html) 3: U případů týkajících se výhradně skutečností <b>uvnitř</b> jedné účetní jednotky lze použít jako podpisový záznam vlastnoruční podpis nebo zaručený elektronický podpis anebo obdobný průkazný účetní záznam v technické formě .
+  * [ADP](cs_cltt-pos-ADP.html) 1: (3) Položka "C.I.3. Výrobky" obsahuje věci vlastní výroby určené k prodeji nebo ke spotřebě <b>uvnitř</b> účetní jednotky .
 * jak
-  * [SCONJ]() 3: (5) Položka "B.III.6. Závazky ze sociálního zabezpečení a zdravotního pojištění" obsahuje u všech účetních jednotek závazky ze sociálního zabezpečení a zdravotního pojištění k příslušným institucím <b>jak</b> v zákonné výši , tak z dobrovolného plnění .
-  * [ADV]() 2: (3) Opravy se musí provádět tak , aby by bylo možno určit osobu odpovědnou za provedení každé opravy , okamžik jejího provedení a zjistit <b>jak</b> obsah opravovaného účetního záznamu před opravou , tak jeho obsah po opravě .
+  * [SCONJ](cs_cltt-pos-SCONJ.html) 3: (5) Položka "B.III.6. Závazky ze sociálního zabezpečení a zdravotního pojištění" obsahuje u všech účetních jednotek závazky ze sociálního zabezpečení a zdravotního pojištění k příslušným institucím <b>jak</b> v zákonné výši , tak z dobrovolného plnění .
+  * [ADV](cs_cltt-pos-ADV.html) 2: (3) Opravy se musí provádět tak , aby by bylo možno určit osobu odpovědnou za provedení každé opravy , okamžik jejího provedení a zjistit <b>jak</b> obsah opravovaného účetního záznamu před opravou , tak jeho obsah po opravě .
 
 ## Morphology
 

@@ -149,7 +149,7 @@ The most frequent other feature values with which `DET` and `Gender` co-occurred
 
 66 [AUX](cs_cltt-pos-AUX.html) tokens (11% of all `AUX` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `AUX` and `Gender` co-occurred: <tt><a href="Person.html">Person</a>=EMPTY</tt> (66; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (66; 100%), <tt><a href="Voice.html">Voice</a>=Act</tt> (59; 89%), <tt><a href="Tense.html">Tense</a>=Past</tt> (59; 89%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (59; 89%), <tt><a href="Polarity.html">Polarity</a>=Pos</tt> (54; 82%).
+The most frequent other feature values with which `AUX` and `Gender` co-occurred: <tt><a href="Person.html">Person</a>=EMPTY</tt> (66; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (66; 100%), <tt><a href="Tense.html">Tense</a>=Past</tt> (59; 89%), <tt><a href="Voice.html">Voice</a>=Act</tt> (59; 89%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (59; 89%), <tt><a href="Polarity.html">Polarity</a>=Pos</tt> (54; 82%).
 
 `AUX` tokens may have the following values of `Gender`:
 
@@ -205,7 +205,7 @@ The 10 most frequent relations where parent and child node agree in `Gender`:
 <tt>NOUN --[<a href="../dep/xcomp.html">xcomp</a>]--> ADJ</tt> (12; 92%),
 <tt>ADJ --[<a href="../dep/obj.html">obj</a>]--> PRON</tt> (7; 58%),
 <tt>ADJ --[<a href="../dep/dep.html">dep</a>]--> NOUN</tt> (6; 100%),
-<tt>ADJ --[<a href="../dep/nsubj.html">nsubj</a>]--> PRON</tt> (6; 55%),
 <tt>PRON --[<a href="../dep/nmod.html">nmod</a>]--> NOUN</tt> (6; 75%),
+<tt>ADJ --[<a href="../dep/nsubj.html">nsubj</a>]--> PRON</tt> (6; 55%),
 <tt>ADJ --[<a href="../dep/amod.html">amod</a>]--> ADJ</tt> (5; 83%).
 

@@ -13,17 +13,17 @@ The 10 most frequent `PUNCT` lemmas: , . ; ( ) (1) (2) (3) (4) (5)
 
 The 10 most frequent `PUNCT` types:  , . ; ( ) (1) (2) (3) (4) (5)
 
-The 10 most frequent ambiguous lemmas: - ([X]() 18, [PUNCT]() 15), / ([SYM]() 2, [PUNCT]() 2)
+The 10 most frequent ambiguous lemmas: - ([X](cs_cltt-pos-X.html) 18, [PUNCT](cs_cltt-pos-PUNCT.html) 15), / ([SYM](cs_cltt-pos-SYM.html) 2, [PUNCT](cs_cltt-pos-PUNCT.html) 2)
 
-The 10 most frequent ambiguous types:  - ([X]() 18, [PUNCT]() 15), / ([SYM]() 2, [PUNCT]() 2)
+The 10 most frequent ambiguous types:  - ([X](cs_cltt-pos-X.html) 18, [PUNCT](cs_cltt-pos-PUNCT.html) 15), / ([SYM](cs_cltt-pos-SYM.html) 2, [PUNCT](cs_cltt-pos-PUNCT.html) 2)
 
 
 * -
-  * [X]() 18: (6) Položka "C.III.6. Stát <b>-</b> daňové pohledávky" obsahuje zejména pohledávky z titulu přímých a nepřímých daní a uhrazených daňových záloh .
-  * [PUNCT]() 15: (4) Rozdíl mezi součtem počátečních zůstatků nově otevřených účtů aktiv a mezi součtem počátečních zůstatků nově otevřených účtů pasiv se uvede na účet v účtové skupině 49 , a to v závislosti na povaze zjištěného rozdílu ( + / <b>-</b> ) jako zůstatek aktivní nebo pasivní .
+  * [X](cs_cltt-pos-X.html) 18: (6) Položka "C.III.6. Stát <b>-</b> daňové pohledávky" obsahuje zejména pohledávky z titulu přímých a nepřímých daní a uhrazených daňových záloh .
+  * [PUNCT](cs_cltt-pos-PUNCT.html) 15: (4) Rozdíl mezi součtem počátečních zůstatků nově otevřených účtů aktiv a mezi součtem počátečních zůstatků nově otevřených účtů pasiv se uvede na účet v účtové skupině 49 , a to v závislosti na povaze zjištěného rozdílu ( + / <b>-</b> ) jako zůstatek aktivní nebo pasivní .
 * /
-  * [SYM]() 2: Odpisová sazba na jednotku těženého množství ( Kč <b>/</b> t , Kč <b>/</b> m je podílem pořizovací ceny ložiska na jednotlivém pozemku a zásob nevyhrazeného nerostu ( t , m prokázaných geologickým průzkumem na tomto pozemku .
-  * [PUNCT]() 2: (4) Rozdíl mezi součtem počátečních zůstatků nově otevřených účtů aktiv a mezi součtem počátečních zůstatků nově otevřených účtů pasiv se uvede na účet v účtové skupině 49 , a to v závislosti na povaze zjištěného rozdílu ( + <b>/</b> - ) jako zůstatek aktivní nebo pasivní .
+  * [SYM](cs_cltt-pos-SYM.html) 2: Odpisová sazba na jednotku těženého množství ( Kč <b>/</b> t , Kč <b>/</b> m je podílem pořizovací ceny ložiska na jednotlivém pozemku a zásob nevyhrazeného nerostu ( t , m prokázaných geologickým průzkumem na tomto pozemku .
+  * [PUNCT](cs_cltt-pos-PUNCT.html) 2: (4) Rozdíl mezi součtem počátečních zůstatků nově otevřených účtů aktiv a mezi součtem počátečních zůstatků nově otevřených účtů pasiv se uvede na účet v účtové skupině 49 , a to v závislosti na povaze zjištěného rozdílu ( + <b>/</b> - ) jako zůstatek aktivní nebo pasivní .
 
 ## Morphology
 

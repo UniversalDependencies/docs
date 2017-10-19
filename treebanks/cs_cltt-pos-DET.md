@@ -13,41 +13,41 @@ The 10 most frequent `DET` lemmas: tento jeho svůj jenž takový některý tako
 
 The 10 most frequent `DET` types:  jejich jeho této tohoto těchto tyto tato tento její tomto
 
-The 10 most frequent ambiguous lemmas: tento ([DET]() 315, [PRON]() 5), jenž ([PRON]() 73, [DET]() 21), takový ([DET]() 21, [PRON]() 1), některý ([DET]() 6, [PRON]() 1), jaký ([PRON]() 3, [DET]() 2), žádný ([PRON]() 4, [DET]() 2), který ([PRON]() 449, [DET]() 1), několik ([PRON]() 1, [DET]() 1)
+The 10 most frequent ambiguous lemmas: tento ([DET](cs_cltt-pos-DET.html) 315, [PRON](cs_cltt-pos-PRON.html) 5), jenž ([PRON](cs_cltt-pos-PRON.html) 73, [DET](cs_cltt-pos-DET.html) 21), takový ([DET](cs_cltt-pos-DET.html) 21, [PRON](cs_cltt-pos-PRON.html) 1), některý ([DET](cs_cltt-pos-DET.html) 6, [PRON](cs_cltt-pos-PRON.html) 1), jaký ([PRON](cs_cltt-pos-PRON.html) 3, [DET](cs_cltt-pos-DET.html) 2), žádný ([PRON](cs_cltt-pos-PRON.html) 4, [DET](cs_cltt-pos-DET.html) 2), který ([PRON](cs_cltt-pos-PRON.html) 449, [DET](cs_cltt-pos-DET.html) 1), několik ([PRON](cs_cltt-pos-PRON.html) 1, [DET](cs_cltt-pos-DET.html) 1)
 
-The 10 most frequent ambiguous types:  jejich ([DET]() 93, [X]() 6), této ([DET]() 66, [X]() 1), tato ([DET]() 24, [PRON]() 1), tuto ([DET]() 11, [ADV]() 7), tímto ([DET]() 9, [PRON]() 3), jehož ([DET]() 6, [PRON]() 5), takové ([DET]() 5, [PRON]() 1), kterým ([PRON]() 25, [DET]() 1), několika ([PRON]() 1, [DET]() 1), žádná ([PRON]() 1, [DET]() 1)
+The 10 most frequent ambiguous types:  jejich ([DET](cs_cltt-pos-DET.html) 93, [X](cs_cltt-pos-X.html) 6), této ([DET](cs_cltt-pos-DET.html) 66, [X](cs_cltt-pos-X.html) 1), tato ([DET](cs_cltt-pos-DET.html) 24, [PRON](cs_cltt-pos-PRON.html) 1), tuto ([DET](cs_cltt-pos-DET.html) 11, [ADV](cs_cltt-pos-ADV.html) 7), tímto ([DET](cs_cltt-pos-DET.html) 9, [PRON](cs_cltt-pos-PRON.html) 3), jehož ([DET](cs_cltt-pos-DET.html) 6, [PRON](cs_cltt-pos-PRON.html) 5), takové ([DET](cs_cltt-pos-DET.html) 5, [PRON](cs_cltt-pos-PRON.html) 1), kterým ([PRON](cs_cltt-pos-PRON.html) 25, [DET](cs_cltt-pos-DET.html) 1), několika ([PRON](cs_cltt-pos-PRON.html) 1, [DET](cs_cltt-pos-DET.html) 1), žádná ([PRON](cs_cltt-pos-PRON.html) 1, [DET](cs_cltt-pos-DET.html) 1)
 
 
 * jejich
-  * [DET]() 93: Spotřeba povolenek je vykázána bez ohledu na <b>jejich</b> následné vyřazení .
-  * [X]() 6: O dospělých zvířatech a jejich skupinách s dobou použitelnosti delší než jeden rok nevykázaných v položce "B.II.5. Dospělá zvířata a <b>jejich</b> skupiny" se účtuje jako o zásobách .
+  * [DET](cs_cltt-pos-DET.html) 93: Spotřeba povolenek je vykázána bez ohledu na <b>jejich</b> následné vyřazení .
+  * [X](cs_cltt-pos-X.html) 6: O dospělých zvířatech a jejich skupinách s dobou použitelnosti delší než jeden rok nevykázaných v položce "B.II.5. Dospělá zvířata a <b>jejich</b> skupiny" se účtuje jako o zásobách .
 * této
-  * [DET]() 66: Směrná účtová osnova je uvedena v příloze č. 4 k <b>této</b> vyhlášce .
-  * [X]() 1: 1 . Ustanovení čl. I bodů 1 až 9 a 13 až 15 <b>této</b> vyhlášky použijí účetní jednotky poprvé pro účtování v účetních obdobích započatých v roce 2005 a pro sestavování účetní závěrky za účetní období započatá v roce 2005 .
+  * [DET](cs_cltt-pos-DET.html) 66: Směrná účtová osnova je uvedena v příloze č. 4 k <b>této</b> vyhlášce .
+  * [X](cs_cltt-pos-X.html) 1: 1 . Ustanovení čl. I bodů 1 až 9 a 13 až 15 <b>této</b> vyhlášky použijí účetní jednotky poprvé pro účtování v účetních obdobích započatých v roce 2005 a pro sestavování účetní závěrky za účetní období započatá v roce 2005 .
 * tato
-  * [DET]() 24: Pokud <b>tato</b> sazba daně známa není , použije se sazba platná v příštím účetním období .
-  * [PRON]() 1: (4) Pro účely tohoto zákona se jako reálná hodnota použije a) tržní hodnota , b) ocenění kvalifikovaným odhadem nebo posudkem znalce , není-li tržní hodnota k dispozici nebo <b>tato</b> nedostatečně představuje reálnou hodnotu ; metody ocenění použité při kvalifikovaném odhadu nebo posudku znalce musí zajistit přiměřené přiblížení se k tržní hodnotě , c) ocenění stanovené podle zvláštních právních předpisů , nelze-li postupovat podle písmen a) a b) .
+  * [DET](cs_cltt-pos-DET.html) 24: Pokud <b>tato</b> sazba daně známa není , použije se sazba platná v příštím účetním období .
+  * [PRON](cs_cltt-pos-PRON.html) 1: (4) Pro účely tohoto zákona se jako reálná hodnota použije a) tržní hodnota , b) ocenění kvalifikovaným odhadem nebo posudkem znalce , není-li tržní hodnota k dispozici nebo <b>tato</b> nedostatečně představuje reálnou hodnotu ; metody ocenění použité při kvalifikovaném odhadu nebo posudku znalce musí zajistit přiměřené přiblížení se k tržní hodnotě , c) ocenění stanovené podle zvláštních právních předpisů , nelze-li postupovat podle písmen a) a b) .
 * tuto
-  * [DET]() 11: (7) Není-li objektivně možné stanovit reálnou hodnotu , považuje se za <b>tuto</b> hodnotu ocenění způsoby podle § 25 .
-  * [ADV]() 7: Účetní jednotka popíše <b>tuto</b> skutečnost v příloze v účetní závěrce .
+  * [DET](cs_cltt-pos-DET.html) 11: (7) Není-li objektivně možné stanovit reálnou hodnotu , považuje se za <b>tuto</b> hodnotu ocenění způsoby podle § 25 .
+  * [ADV](cs_cltt-pos-ADV.html) 7: Účetní jednotka popíše <b>tuto</b> skutečnost v příloze v účetní závěrce .
 * tímto
-  * [DET]() 9: (1) Účetní jednotky sestavují v případech stanovených <b>tímto</b> zákonem účetní závěrku .
-  * [PRON]() 3: Ustanovení o provádění inventarizací podle zvláštních právních předpisů nejsou <b>tímto</b> dotčena .
+  * [DET](cs_cltt-pos-DET.html) 9: (1) Účetní jednotky sestavují v případech stanovených <b>tímto</b> zákonem účetní závěrku .
+  * [PRON](cs_cltt-pos-PRON.html) 3: Ustanovení o provádění inventarizací podle zvláštních právních předpisů nejsou <b>tímto</b> dotčena .
 * jehož
-  * [DET]() 6: (6) Účetní jednotky uvedené v odstavci 1 jsou povinny sestavovat odpisový plán , na <b>jehož</b> podkladě provádějí odpisování majetku v průběhu jeho používání .
-  * [PRON]() 5: (4) Podpisovým záznamem se rozumí účetní záznam , <b>jehož</b> obsahem je vlastnoruční podpis nebo uznávaný elektronický podpis podle zvláštního právního předpisu , anebo obdobný průkazný účetní záznam v technické formě , který zaručuje průkaznou a jednoznačnou původnost .
+  * [DET](cs_cltt-pos-DET.html) 6: (6) Účetní jednotky uvedené v odstavci 1 jsou povinny sestavovat odpisový plán , na <b>jehož</b> podkladě provádějí odpisování majetku v průběhu jeho používání .
+  * [PRON](cs_cltt-pos-PRON.html) 5: (4) Podpisovým záznamem se rozumí účetní záznam , <b>jehož</b> obsahem je vlastnoruční podpis nebo uznávaný elektronický podpis podle zvláštního právního předpisu , anebo obdobný průkazný účetní záznam v technické formě , který zaručuje průkaznou a jednoznačnou původnost .
 * takové
-  * [DET]() 5: Účetní jednotky jsou povinny <b>takové</b> účetní záznamy vést nejméně v rozsahu stanoveném tímto zákonem .
-  * [PRON]() 1: Pokud tuto podmínku nemůže účetní jednotka zabezpečit , převede <b>takové</b> účetní záznamy do listinné formy odpovídající době jejich vyřízení a opatří je náležitostmi originálu , a to nejpozději před jejich zařazením do výběru archiválií ve skartačním řízení nebo mimo něj ; obdobně postupuje při nakládání s účetními záznamy přijatými účetní jednotkou v technické , případně smíšené formě , u účetních záznamů obsahujících uznávaný elektronický podpis včetně průkazného potvrzení v listinné formě o platnosti uznávaného elektronického podpisu v době přijetí účetního záznamu .
+  * [DET](cs_cltt-pos-DET.html) 5: Účetní jednotky jsou povinny <b>takové</b> účetní záznamy vést nejméně v rozsahu stanoveném tímto zákonem .
+  * [PRON](cs_cltt-pos-PRON.html) 1: Pokud tuto podmínku nemůže účetní jednotka zabezpečit , převede <b>takové</b> účetní záznamy do listinné formy odpovídající době jejich vyřízení a opatří je náležitostmi originálu , a to nejpozději před jejich zařazením do výběru archiválií ve skartačním řízení nebo mimo něj ; obdobně postupuje při nakládání s účetními záznamy přijatými účetní jednotkou v technické , případně smíšené formě , u účetních záznamů obsahujících uznávaný elektronický podpis včetně průkazného potvrzení v listinné formě o platnosti uznávaného elektronického podpisu v době přijetí účetního záznamu .
 * kterým
-  * [PRON]() 25: V těchto případech musí účetní záznam i účetní doklad obsahovat identifikátor , <b>kterým</b> lze nezaměnitelně určit vzájemnou vazbu mezi účetním záznamem a účetním dokladem , včetně souvisejících skutečností .
-  * [DET]() 1: (1) Účetní jednotky sestavují účetní závěrku k rozvahovému dni , <b>kterým</b> je den , kdy uzavírají účetní knihy .
+  * [PRON](cs_cltt-pos-PRON.html) 25: V těchto případech musí účetní záznam i účetní doklad obsahovat identifikátor , <b>kterým</b> lze nezaměnitelně určit vzájemnou vazbu mezi účetním záznamem a účetním dokladem , včetně souvisejících skutečností .
+  * [DET](cs_cltt-pos-DET.html) 1: (1) Účetní jednotky sestavují účetní závěrku k rozvahovému dni , <b>kterým</b> je den , kdy uzavírají účetní knihy .
 * několika
-  * [PRON]() 1: (2) Položka "C.I.2. Nedokončená výroba a polotovary" obsahuje a) produkty , které prošly jedním nebo <b>několika</b> výrobními stupni a nejsou již materiálem , nejsou však dosud hotovým výrobkem ; tato položka rovněž obsahuje nedokončené činnosti , při nichž nevznikají hmotné produkty , b) odděleně evidované produkty , to je polotovary , které dosud neprošly všemi výrobními stupni a budou dokončeny nebo zkompletovány do hotových výrobků v dalším výrobním procesu účetní jednotky .
-  * [DET]() 1: (5) Jednotlivý účetní záznam může být tvořen <b>několika</b> dílčími účetními záznamy .
+  * [PRON](cs_cltt-pos-PRON.html) 1: (2) Položka "C.I.2. Nedokončená výroba a polotovary" obsahuje a) produkty , které prošly jedním nebo <b>několika</b> výrobními stupni a nejsou již materiálem , nejsou však dosud hotovým výrobkem ; tato položka rovněž obsahuje nedokončené činnosti , při nichž nevznikají hmotné produkty , b) odděleně evidované produkty , to je polotovary , které dosud neprošly všemi výrobními stupni a budou dokončeny nebo zkompletovány do hotových výrobků v dalším výrobním procesu účetní jednotky .
+  * [DET](cs_cltt-pos-DET.html) 1: (5) Jednotlivý účetní záznam může být tvořen <b>několika</b> dílčími účetními záznamy .
 * žádná
-  * [PRON]() 1: Splnění této povinnosti však účetní jednotka může prokázat i jiným způsobem , který nezpochybní <b>žádná</b> z osob , které s převedeným záznamem pracují .
-  * [DET]() 1: (3) Účetní jednotka je povinna použít účetní metody způsobem , který vychází z předpokladu , že bude nepřetržitě pokračovat ve své činnosti a že u ní nenastává <b>žádná</b> skutečnost , která by ji omezovala nebo ji zabraňovala v této činnosti pokračovat i v dohledné budoucnosti .
+  * [PRON](cs_cltt-pos-PRON.html) 1: Splnění této povinnosti však účetní jednotka může prokázat i jiným způsobem , který nezpochybní <b>žádná</b> z osob , které s převedeným záznamem pracují .
+  * [DET](cs_cltt-pos-DET.html) 1: (3) Účetní jednotka je povinna použít účetní metody způsobem , který vychází z předpokladu , že bude nepřetržitě pokračovat ve své činnosti a že u ní nenastává <b>žádná</b> skutečnost , která by ji omezovala nebo ji zabraňovala v této činnosti pokračovat i v dohledné budoucnosti .
 
 ## Morphology
 

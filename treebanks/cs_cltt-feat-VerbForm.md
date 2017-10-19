@@ -18,7 +18,7 @@ The feature is used with 3 part-of-speech tags: [VERB](cs_cltt-pos-VERB.html) (2
 
 2117 [VERB](cs_cltt-pos-VERB.html) tokens (100% of all `VERB` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="Polarity.html">Polarity</a>=Pos</tt> (1900; 90%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (1741; 82%), <tt><a href="Voice.html">Voice</a>=Act</tt> (1542; 73%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (1426; 67%), <tt><a href="Person.html">Person</a>=3</tt> (1426; 67%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (1426; 67%), <tt><a href="Number.html">Number</a>=Sing</tt> (1115; 53%).
+The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="Polarity.html">Polarity</a>=Pos</tt> (1900; 90%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (1741; 82%), <tt><a href="Voice.html">Voice</a>=Act</tt> (1542; 73%), <tt><a href="Person.html">Person</a>=3</tt> (1426; 67%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (1426; 67%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (1426; 67%), <tt><a href="Number.html">Number</a>=Sing</tt> (1115; 53%).
 
 `VERB` tokens may have the following values of `VerbForm`:
 
@@ -87,7 +87,7 @@ The 10 most frequent relations where parent and child node agree in `VerbForm`:
 <tt>VERB --[<a href="../dep/conj.html">conj</a>]--> VERB</tt> (215; 87%),
 <tt>VERB --[<a href="../dep/advcl.html">advcl</a>]--> VERB</tt> (61; 59%),
 <tt>VERB --[<a href="../dep/parataxis.html">parataxis</a>]--> VERB</tt> (27; 87%),
-<tt>VERB --[<a href="../dep/csubj:pass.html">csubj:pass</a>]--> VERB</tt> (1; 100%),
+<tt>AUX --[<a href="../dep/conj.html">conj</a>]--> VERB</tt> (1; 100%),
 <tt>VERB --[<a href="../dep/appos.html">appos</a>]--> VERB</tt> (1; 100%),
-<tt>AUX --[<a href="../dep/conj.html">conj</a>]--> VERB</tt> (1; 100%).
+<tt>VERB --[<a href="../dep/csubj:pass.html">csubj:pass</a>]--> VERB</tt> (1; 100%).
 

@@ -18,7 +18,7 @@ The feature is used with 4 part-of-speech tags: [NOUN](cs_cltt-pos-NOUN.html) (2
 
 27 [NOUN](cs_cltt-pos-NOUN.html) tokens (0% of all `NOUN` tokens) have a non-empty value of `Abbr`.
 
-The most frequent other feature values with which `NOUN` and `Abbr` co-occurred: <tt><a href="Polarity.html">Polarity</a>=Pos</tt> (27; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (27; 100%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (27; 100%), <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (20; 74%), <tt><a href="Gender.html">Gender</a>=Fem</tt> (20; 74%).
+The most frequent other feature values with which `NOUN` and `Abbr` co-occurred: <tt><a href="Number.html">Number</a>=EMPTY</tt> (27; 100%), <tt><a href="Polarity.html">Polarity</a>=Pos</tt> (27; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (27; 100%), <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (20; 74%), <tt><a href="Gender.html">Gender</a>=Fem</tt> (20; 74%).
 
 `NOUN` tokens may have the following values of `Abbr`:
 
@@ -29,7 +29,7 @@ The most frequent other feature values with which `NOUN` and `Abbr` co-occurred:
 
 4 [ADJ](cs_cltt-pos-ADJ.html) tokens (0% of all `ADJ` tokens) have a non-empty value of `Abbr`.
 
-The most frequent other feature values with which `ADJ` and `Abbr` co-occurred: <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (4; 100%), <tt><a href="Degree.html">Degree</a>=Pos</tt> (4; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (4; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (4; 100%), <tt><a href="Polarity.html">Polarity</a>=Pos</tt> (4; 100%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (4; 100%).
+The most frequent other feature values with which `ADJ` and `Abbr` co-occurred: <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (4; 100%), <tt><a href="Degree.html">Degree</a>=Pos</tt> (4; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (4; 100%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (4; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (4; 100%), <tt><a href="Polarity.html">Polarity</a>=Pos</tt> (4; 100%).
 
 `ADJ` tokens may have the following values of `Abbr`:
 
@@ -51,7 +51,7 @@ The most frequent other feature values with which `ADV` and `Abbr` co-occurred: 
 
 1 [PRON](cs_cltt-pos-PRON.html) tokens (0% of all `PRON` tokens) have a non-empty value of `Abbr`.
 
-The most frequent other feature values with which `PRON` and `Abbr` co-occurred: <tt><a href="Reflex.html">Reflex</a>=EMPTY</tt> (1; 100%), <tt><a href="PronType.html">PronType</a>=Dem</tt> (1; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (1; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (1; 100%), <tt><a href="Variant.html">Variant</a>=EMPTY</tt> (1; 100%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (1; 100%).
+The most frequent other feature values with which `PRON` and `Abbr` co-occurred: <tt><a href="Reflex.html">Reflex</a>=EMPTY</tt> (1; 100%), <tt><a href="Variant.html">Variant</a>=EMPTY</tt> (1; 100%), <tt><a href="PronType.html">PronType</a>=Dem</tt> (1; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (1; 100%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (1; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (1; 100%).
 
 `PRON` tokens may have the following values of `Abbr`:
 

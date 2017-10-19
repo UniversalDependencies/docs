@@ -13,42 +13,42 @@ The 10 most frequent `VERB` lemmas: obsahovat použít moci účtovat uvést mí
 
 The 10 most frequent `VERB` types:  obsahuje rozumí může uvede mohou použijí stanoví vést musí účtuje
 
-The 10 most frequent ambiguous lemmas: být ([AUX]() 570, [VERB]() 16), stát ([NOUN]() 40, [VERB]() 7)
+The 10 most frequent ambiguous lemmas: být ([AUX](cs_cltt-pos-AUX.html) 570, [VERB](cs_cltt-pos-VERB.html) 16), stát ([NOUN](cs_cltt-pos-NOUN.html) 40, [VERB](cs_cltt-pos-VERB.html) 7)
 
-The 10 most frequent ambiguous types:  je ([AUX]() 189, [PRON]() 11, [VERB]() 10), delší ([ADJ]() 15, [VERB]() 4), jsou ([AUX]() 139, [VERB]() 2), koupí ([VERB]() 2, [NOUN]() 2), bude ([AUX]() 12, [VERB]() 1), být ([AUX]() 47, [VERB]() 1), daní ([NOUN]() 2, [VERB]() 1), nejsou ([AUX]() 49, [VERB]() 1), není ([AUX]() 40, [VERB]() 1), vlastní ([ADJ]() 18, [VERB]() 1)
+The 10 most frequent ambiguous types:  je ([AUX](cs_cltt-pos-AUX.html) 189, [PRON](cs_cltt-pos-PRON.html) 11, [VERB](cs_cltt-pos-VERB.html) 10), delší ([ADJ](cs_cltt-pos-ADJ.html) 15, [VERB](cs_cltt-pos-VERB.html) 4), jsou ([AUX](cs_cltt-pos-AUX.html) 139, [VERB](cs_cltt-pos-VERB.html) 2), koupí ([NOUN](cs_cltt-pos-NOUN.html) 2, [VERB](cs_cltt-pos-VERB.html) 2), bude ([AUX](cs_cltt-pos-AUX.html) 12, [VERB](cs_cltt-pos-VERB.html) 1), být ([AUX](cs_cltt-pos-AUX.html) 47, [VERB](cs_cltt-pos-VERB.html) 1), daní ([NOUN](cs_cltt-pos-NOUN.html) 2, [VERB](cs_cltt-pos-VERB.html) 1), nejsou ([AUX](cs_cltt-pos-AUX.html) 49, [VERB](cs_cltt-pos-VERB.html) 1), není ([AUX](cs_cltt-pos-AUX.html) 40, [VERB](cs_cltt-pos-VERB.html) 1), vlastní ([ADJ](cs_cltt-pos-ADJ.html) 18, [VERB](cs_cltt-pos-VERB.html) 1)
 
 
 * je
-  * [AUX]() 189: Spotřeba povolenek <b>je</b> vykázána bez ohledu na jejich následné vyřazení .
-  * [PRON]() 11: V případě , že <b>je</b> nelze přiřadit , uvedou se v provozní činnosti .
-  * [VERB]() 10: Hospodářským rokem je účetní období , které může začínat pouze prvním dnem jiného měsíce , než <b>je</b> leden .
+  * [AUX](cs_cltt-pos-AUX.html) 189: Spotřeba povolenek <b>je</b> vykázána bez ohledu na jejich následné vyřazení .
+  * [PRON](cs_cltt-pos-PRON.html) 11: V případě , že <b>je</b> nelze přiřadit , uvedou se v provozní činnosti .
+  * [VERB](cs_cltt-pos-VERB.html) 10: Hospodářským rokem je účetní období , které může začínat pouze prvním dnem jiného měsíce , než <b>je</b> leden .
 * delší
-  * [ADJ]() 15: Účetní období bezprostředně předcházející změně účetního období může být kratší nebo i <b>delší</b> než uvedených dvanáct měsíců .
-  * [VERB]() 4: Samostatné movité věci a soubory movitých věcí se samostatným technicko-ekonomickým určením s dobou použitelnosti <b>delší</b> než jeden rok nevykázané v položce "B.II.3. Samostatné movité věci a soubory movitých věcí" se považují za drobný hmotný majetek , o kterém účetní jednotka účtuje jako o zásobách .
+  * [ADJ](cs_cltt-pos-ADJ.html) 15: Účetní období bezprostředně předcházející změně účetního období může být kratší nebo i <b>delší</b> než uvedených dvanáct měsíců .
+  * [VERB](cs_cltt-pos-VERB.html) 4: Samostatné movité věci a soubory movitých věcí se samostatným technicko-ekonomickým určením s dobou použitelnosti <b>delší</b> než jeden rok nevykázané v položce "B.II.3. Samostatné movité věci a soubory movitých věcí" se považují za drobný hmotný majetek , o kterém účetní jednotka účtuje jako o zásobách .
 * jsou
-  * [AUX]() 139: (13) Účetní jednotky <b>jsou</b> povinny vést účetnictví v českém jazyce .
-  * [VERB]() 2: (6) V případě , že účetní záznamy <b>jsou</b> ztracené nebo odcizené , zničené nebo poškozené tak , že tímto poškozením došlo ke změně jejich obsahu , je povinna účetní jednotka provést opatření k obnovení průkaznosti účetnictví .
+  * [AUX](cs_cltt-pos-AUX.html) 139: (13) Účetní jednotky <b>jsou</b> povinny vést účetnictví v českém jazyce .
+  * [VERB](cs_cltt-pos-VERB.html) 2: (6) V případě , že účetní záznamy <b>jsou</b> ztracené nebo odcizené , zničené nebo poškozené tak , že tímto poškozením došlo ke změně jejich obsahu , je povinna účetní jednotka provést opatření k obnovení průkaznosti účetnictví .
 * koupí
-  * [VERB]() 2: (10) Položka "B.II.9. Oceňovací rozdíl k nabytému majetku" obsahuje kladný ( aktivní ) nebo záporný ( pasivní ) rozdíl mezi oceněním podniku nebo jeho části nabytého zejména <b>koupí</b> , vkladem nebo oceněním majetku a závazků v rámci přeměn společnosti a souhrnem ocenění jeho jednotlivých složek majetku v účetnictví účetní jednotky prodávající , vkládající , zanikající nebo rozdělované odštěpením sníženým o převzaté závazky .
-  * [NOUN]() 2: (3) Stavy jednotlivých složek majetku a závazků , rezerv , oceňovacích rozdílů k úplatně nabytému majetku podle odstavce 1 se převedou k prvnímu dni účetního období jako počáteční zůstatky příslušných rozvahových účtů ; neuplatněná část výdajů u finančního pronájmu s následnou <b>koupí</b> najatého hmotného majetku se uvede jako počáteční zůstatek účtu určeného k zachycení nákladů příštích období v účtové skupině 38 .
+  * [NOUN](cs_cltt-pos-NOUN.html) 2: (3) Stavy jednotlivých složek majetku a závazků , rezerv , oceňovacích rozdílů k úplatně nabytému majetku podle odstavce 1 se převedou k prvnímu dni účetního období jako počáteční zůstatky příslušných rozvahových účtů ; neuplatněná část výdajů u finančního pronájmu s následnou <b>koupí</b> najatého hmotného majetku se uvede jako počáteční zůstatek účtu určeného k zachycení nákladů příštích období v účtové skupině 38 .
+  * [VERB](cs_cltt-pos-VERB.html) 2: (10) Položka "B.II.9. Oceňovací rozdíl k nabytému majetku" obsahuje kladný ( aktivní ) nebo záporný ( pasivní ) rozdíl mezi oceněním podniku nebo jeho části nabytého zejména <b>koupí</b> , vkladem nebo oceněním majetku a závazků v rámci přeměn společnosti a souhrnem ocenění jeho jednotlivých složek majetku v účetnictví účetní jednotky prodávající , vkládající , zanikající nebo rozdělované odštěpením sníženým o převzaté závazky .
 * bude
-  * [AUX]() 12: (2) Pokud je derivát součástí finančního nástroje , účetní jednotka stanoví , zda <b>bude</b> účtovat o vloženém derivátu samostatně nebo zda využije možnost o vložených derivátech neúčtovat .
-  * [VERB]() 1: (1) Pokud zákon o přeměnách vyžaduje ocenění jmění při přeshraniční přeměně společnosti zanikající zahraniční osoby nebo části zahraniční osoby rozdělované odštěpením a není-li toto ocenění jmění vykázáno v její účetní závěrce sestavené nejpozději ke dni předcházejícímu rozhodný den , nástupnická účetní jednotka , která má nebo má mít sídlo v České republice , nebo přejímající společník , který je nebo <b>bude</b> účetní jednotkou , použije při účtování o ocenění reálnou hodnotou § 54 obdobně , s výjimkou postupu podle § 54 odst. 6 , jelikož v tomto případě nástupnická účetní jednotka nebo přejímající společník , který je účetní jednotkou , nepřebírá ocenění majetku a závazků reálnou hodnotou , ale účtuje o tomto ocenění .
+  * [AUX](cs_cltt-pos-AUX.html) 12: (2) Pokud je derivát součástí finančního nástroje , účetní jednotka stanoví , zda <b>bude</b> účtovat o vloženém derivátu samostatně nebo zda využije možnost o vložených derivátech neúčtovat .
+  * [VERB](cs_cltt-pos-VERB.html) 1: (1) Pokud zákon o přeměnách vyžaduje ocenění jmění při přeshraniční přeměně společnosti zanikající zahraniční osoby nebo části zahraniční osoby rozdělované odštěpením a není-li toto ocenění jmění vykázáno v její účetní závěrce sestavené nejpozději ke dni předcházejícímu rozhodný den , nástupnická účetní jednotka , která má nebo má mít sídlo v České republice , nebo přejímající společník , který je nebo <b>bude</b> účetní jednotkou , použije při účtování o ocenění reálnou hodnotou § 54 obdobně , s výjimkou postupu podle § 54 odst. 6 , jelikož v tomto případě nástupnická účetní jednotka nebo přejímající společník , který je účetní jednotkou , nepřebírá ocenění majetku a závazků reálnou hodnotou , ale účtuje o tomto ocenění .
 * být
-  * [AUX]() 47: Podpisový záznam podle písmene f) může <b>být</b> společný pro více účetních dokladů .
-  * [VERB]() 1: (4) Účetní záznam v technické nebo smíšené formě , se skartačními znaky "A" nebo "V" vzniklý z činnosti účetní jednotky , musí <b>být</b> ve formátu , který zaručí jeho neměnnost a umožní jeho následnou čitelnost pro fyzickou osobu .
+  * [AUX](cs_cltt-pos-AUX.html) 47: Podpisový záznam podle písmene f) může <b>být</b> společný pro více účetních dokladů .
+  * [VERB](cs_cltt-pos-VERB.html) 1: (4) Účetní záznam v technické nebo smíšené formě , se skartačními znaky "A" nebo "V" vzniklý z činnosti účetní jednotky , musí <b>být</b> ve formátu , který zaručí jeho neměnnost a umožní jeho následnou čitelnost pro fyzickou osobu .
 * daní
-  * [NOUN]() 2: (6) Položka "C.III.6. Stát - daňové pohledávky" obsahuje zejména pohledávky z titulu přímých a nepřímých <b>daní</b> a uhrazených daňových záloh .
-  * [VERB]() 1: (1) Za porušení vzájemného zúčtování v účetnictví a v účetní závěrce účetní jednotky se nepovažuje zúčtování : a) dobropisů nebo refundací týkajících se konkrétní nákladové , popřípadě výnosové položky a vztahujících se k účetnímu období , ve kterém byl náklad , popřípadě výnos zúčtován , b) doměrků a vratek <b>daní</b> z příjmů , nepřímých daní a poplatků , včetně účtování o odložené dani podle § 59 odst. 4 , c) rozdílů zjištěných při inventarizaci , které vznikly ve stejném inventarizačním období prokazatelně neúmyslnou záměnou jednotlivých druhů , u kterých je tato záměna možná vzhledem k charakteru druhů zásob , například v důsledku různých rozměrů spojovacích materiálů nebo podobného balení zásob , d) rezerv , opravných položek a komplexních nákladů příštích období .
+  * [NOUN](cs_cltt-pos-NOUN.html) 2: (6) Položka "C.III.6. Stát - daňové pohledávky" obsahuje zejména pohledávky z titulu přímých a nepřímých <b>daní</b> a uhrazených daňových záloh .
+  * [VERB](cs_cltt-pos-VERB.html) 1: (1) Za porušení vzájemného zúčtování v účetnictví a v účetní závěrce účetní jednotky se nepovažuje zúčtování : a) dobropisů nebo refundací týkajících se konkrétní nákladové , popřípadě výnosové položky a vztahujících se k účetnímu období , ve kterém byl náklad , popřípadě výnos zúčtován , b) doměrků a vratek <b>daní</b> z příjmů , nepřímých daní a poplatků , včetně účtování o odložené dani podle § 59 odst. 4 , c) rozdílů zjištěných při inventarizaci , které vznikly ve stejném inventarizačním období prokazatelně neúmyslnou záměnou jednotlivých druhů , u kterých je tato záměna možná vzhledem k charakteru druhů zásob , například v důsledku různých rozměrů spojovacích materiálů nebo podobného balení zásob , d) rezerv , opravných položek a komplexních nákladů příštích období .
 * nejsou
-  * [AUX]() 49: Ustanovení o provádění inventarizací podle zvláštních právních předpisů <b>nejsou</b> tímto dotčena .
-  * [VERB]() 1: Porušením vzájemného zúčtování <b>nejsou</b> případy upravené účetními metodami .
+  * [AUX](cs_cltt-pos-AUX.html) 49: Ustanovení o provádění inventarizací podle zvláštních právních předpisů <b>nejsou</b> tímto dotčena .
+  * [VERB](cs_cltt-pos-VERB.html) 1: Porušením vzájemného zúčtování <b>nejsou</b> případy upravené účetními metodami .
 * není
-  * [AUX]() 40: Stanovení těchto povinností na smluvním základě <b>není</b> dotčeno .
-  * [VERB]() 1: Pokud <b>není</b> cenný papír nebo podíl oceněn reálnou hodnotou nebo ekvivalencí , pak se kursové rozdíly účtují prostřednictvím rozvahových účtů v účtové skupině 41 .
+  * [AUX](cs_cltt-pos-AUX.html) 40: Stanovení těchto povinností na smluvním základě <b>není</b> dotčeno .
+  * [VERB](cs_cltt-pos-VERB.html) 1: Pokud <b>není</b> cenný papír nebo podíl oceněn reálnou hodnotou nebo ekvivalencí , pak se kursové rozdíly účtují prostřednictvím rozvahových účtů v účtové skupině 41 .
 * vlastní
-  * [ADJ]() 18: (3) Položka "C.I.3. Výrobky" obsahuje věci <b>vlastní</b> výroby určené k prodeji nebo ke spotřebě uvnitř účetní jednotky .
-  * [VERB]() 1: Pokud účetní jednotka <b>vlastní</b> , má právo nebo příslušnost k hospodaření k více než 10 ha lesních pozemků s lesním porostem , uvede také tyto údaje : a) celková výměra lesních pozemků s lesním porostem , b) výše ocenění lesních porostů stanovená součinem výměry lesních pozemků s lesním porostem v m2 a průměrné hodnoty zásoby surového dřeva na m2 , která činí 57 Kč .
+  * [ADJ](cs_cltt-pos-ADJ.html) 18: (3) Položka "C.I.3. Výrobky" obsahuje věci <b>vlastní</b> výroby určené k prodeji nebo ke spotřebě uvnitř účetní jednotky .
+  * [VERB](cs_cltt-pos-VERB.html) 1: Pokud účetní jednotka <b>vlastní</b> , má právo nebo příslušnost k hospodaření k více než 10 ha lesních pozemků s lesním porostem , uvede také tyto údaje : a) celková výměra lesních pozemků s lesním porostem , b) výše ocenění lesních porostů stanovená součinem výměry lesních pozemků s lesním porostem v m2 a průměrné hodnoty zásoby surového dřeva na m2 , která činí 57 Kč .
 
 ## Morphology
 

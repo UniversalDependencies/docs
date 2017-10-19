@@ -13,25 +13,25 @@ The 10 most frequent `CCONJ` lemmas: a nebo i či anebo ani ale však buď avša
 
 The 10 most frequent `CCONJ` types:  a nebo i či anebo ani ale však buď avšak
 
-The 10 most frequent ambiguous lemmas: a ([CCONJ]() 1241, [X]() 97), nebo ([CCONJ]() 477, [X]() 8), až ([X]() 41, [PART]() 30, [SCONJ]() 7, [CCONJ]() 1), tak ([ADV]() 23, [CCONJ]() 1)
+The 10 most frequent ambiguous lemmas: a ([CCONJ](cs_cltt-pos-CCONJ.html) 1241, [X](cs_cltt-pos-X.html) 97), nebo ([CCONJ](cs_cltt-pos-CCONJ.html) 477, [X](cs_cltt-pos-X.html) 8), až ([X](cs_cltt-pos-X.html) 41, [PART](cs_cltt-pos-PART.html) 30, [SCONJ](cs_cltt-pos-SCONJ.html) 7, [CCONJ](cs_cltt-pos-CCONJ.html) 1), tak ([ADV](cs_cltt-pos-ADV.html) 23, [CCONJ](cs_cltt-pos-CCONJ.html) 1)
 
-The 10 most frequent ambiguous types:  a ([CCONJ]() 1230, [X]() 97), nebo ([CCONJ]() 477, [X]() 8), až ([X]() 41, [PART]() 30, [SCONJ]() 7, [CCONJ]() 1), tak ([ADV]() 23, [CCONJ]() 1)
+The 10 most frequent ambiguous types:  a ([CCONJ](cs_cltt-pos-CCONJ.html) 1230, [X](cs_cltt-pos-X.html) 97), nebo ([CCONJ](cs_cltt-pos-CCONJ.html) 477, [X](cs_cltt-pos-X.html) 8), až ([X](cs_cltt-pos-X.html) 41, [PART](cs_cltt-pos-PART.html) 30, [SCONJ](cs_cltt-pos-SCONJ.html) 7, [CCONJ](cs_cltt-pos-CCONJ.html) 1), tak ([ADV](cs_cltt-pos-ADV.html) 23, [CCONJ](cs_cltt-pos-CCONJ.html) 1)
 
 
 * a
-  * [CCONJ]() 1230: Dále obsahuje povolenky na emise <b>a</b> preferenční limity .
-  * [X]() 97: (2) Jednotlivé složky majetku a závazků se ocení podle § 24 <b>a</b> 25 zákona .
+  * [CCONJ](cs_cltt-pos-CCONJ.html) 1230: Dále obsahuje povolenky na emise <b>a</b> preferenční limity .
+  * [X](cs_cltt-pos-X.html) 97: (2) Jednotlivé složky majetku a závazků se ocení podle § 24 <b>a</b> 25 zákona .
 * nebo
-  * [CCONJ]() 477: Dále popíše případná opatření <b>nebo</b> návrhy řešení těchto skutečností .
-  * [X]() 8: (3) Položka "B.II.2. Závazky - ovládaná <b>nebo</b> ovládající osoba" obsahuje závazky k ovládaným osobám , mezi ovládanými osobami a k ovládajícím osobám , které nejsou vykázány v ostatních položkách .
+  * [CCONJ](cs_cltt-pos-CCONJ.html) 477: Dále popíše případná opatření <b>nebo</b> návrhy řešení těchto skutečností .
+  * [X](cs_cltt-pos-X.html) 8: (3) Položka "B.II.2. Závazky - ovládaná <b>nebo</b> ovládající osoba" obsahuje závazky k ovládaným osobám , mezi ovládanými osobami a k ovládajícím osobám , které nejsou vykázány v ostatních položkách .
 * až
-  * [X]() 41: Ustanovení písmen d) <b>až</b> h) se použijí i pro zahraniční fyzické osoby .
-  * [PART]() 30: (5) Ustanovení § 52 a 53 se použijí <b>až</b> v účetním období začínajícím 1 . ledna 2004 a později .
-  * [SCONJ]() 7: (6) Ustanovení odstavců 1 <b>až</b> 5 se nepoužijí při změně právní formy a přeshraničním přemístění sídla .
-  * [CCONJ]() 1: Účetní jednotka , která sestavuje výkaz zisku a ztráty v účelovém členění , není povinna dodržet členění v účtových skupinách 50 až 55 a 60 <b>až</b> 64 ; členění přizpůsobí výkazu s přihlédnutím k povinnosti uvedené v § 39 odst. 8 .
+  * [X](cs_cltt-pos-X.html) 41: Ustanovení písmen d) <b>až</b> h) se použijí i pro zahraniční fyzické osoby .
+  * [PART](cs_cltt-pos-PART.html) 30: (5) Ustanovení § 52 a 53 se použijí <b>až</b> v účetním období začínajícím 1 . ledna 2004 a později .
+  * [SCONJ](cs_cltt-pos-SCONJ.html) 7: (6) Ustanovení odstavců 1 <b>až</b> 5 se nepoužijí při změně právní formy a přeshraničním přemístění sídla .
+  * [CCONJ](cs_cltt-pos-CCONJ.html) 1: Účetní jednotka , která sestavuje výkaz zisku a ztráty v účelovém členění , není povinna dodržet členění v účtových skupinách 50 až 55 a 60 <b>až</b> 64 ; členění přizpůsobí výkazu s přihlédnutím k povinnosti uvedené v § 39 odst. 8 .
 * tak
-  * [ADV]() 23: (2) Účetní jednotky při inventarizaci postupují <b>tak</b> , že provádějí jednu nebo více inventur a ověřují , zda zjištěný skutečný stav odpovídá stavu v účetnictví .
-  * [CCONJ]() 1: (5) Položka "B.III.6. Závazky ze sociálního zabezpečení a zdravotního pojištění" obsahuje u všech účetních jednotek závazky ze sociálního zabezpečení a zdravotního pojištění k příslušným institucím jak v zákonné výši , <b>tak</b> z dobrovolného plnění .
+  * [ADV](cs_cltt-pos-ADV.html) 23: (2) Účetní jednotky při inventarizaci postupují <b>tak</b> , že provádějí jednu nebo více inventur a ověřují , zda zjištěný skutečný stav odpovídá stavu v účetnictví .
+  * [CCONJ](cs_cltt-pos-CCONJ.html) 1: (5) Položka "B.III.6. Závazky ze sociálního zabezpečení a zdravotního pojištění" obsahuje u všech účetních jednotek závazky ze sociálního zabezpečení a zdravotního pojištění k příslušným institucím jak v zákonné výši , <b>tak</b> z dobrovolného plnění .
 
 ## Morphology
 

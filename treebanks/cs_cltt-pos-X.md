@@ -13,43 +13,43 @@ The 10 most frequent `X` lemmas: § odst. a) b) a 1 písm. 2 c) 3
 
 The 10 most frequent `X` types:  § odst. a) b) a 1 písm. 2 c) 3
 
-The 10 most frequent ambiguous lemmas: a ([CCONJ]() 1241, [X]() 97), 1 ([NUM]() 104, [X]() 91), 2 ([X]() 81, [NUM]() 46), 3 ([X]() 62, [NUM]() 47), až ([X]() 41, [PART]() 30, [SCONJ]() 7, [CCONJ]() 1), 4 ([X]() 39, [NUM]() 18), z ([ADP]() 203, [X]() 29), 7 ([X]() 22, [NUM]() 7), výsledek ([NOUN]() 33, [X]() 15), za ([ADP]() 190, [X]() 21)
+The 10 most frequent ambiguous lemmas: a ([CCONJ](cs_cltt-pos-CCONJ.html) 1241, [X](cs_cltt-pos-X.html) 97), 1 ([NUM](cs_cltt-pos-NUM.html) 104, [X](cs_cltt-pos-X.html) 91), 2 ([X](cs_cltt-pos-X.html) 81, [NUM](cs_cltt-pos-NUM.html) 46), 3 ([X](cs_cltt-pos-X.html) 62, [NUM](cs_cltt-pos-NUM.html) 47), až ([X](cs_cltt-pos-X.html) 41, [PART](cs_cltt-pos-PART.html) 30, [SCONJ](cs_cltt-pos-SCONJ.html) 7, [CCONJ](cs_cltt-pos-CCONJ.html) 1), 4 ([X](cs_cltt-pos-X.html) 39, [NUM](cs_cltt-pos-NUM.html) 18), z ([ADP](cs_cltt-pos-ADP.html) 203, [X](cs_cltt-pos-X.html) 29), 7 ([X](cs_cltt-pos-X.html) 22, [NUM](cs_cltt-pos-NUM.html) 7), výsledek ([NOUN](cs_cltt-pos-NOUN.html) 33, [X](cs_cltt-pos-X.html) 15), za ([ADP](cs_cltt-pos-ADP.html) 190, [X](cs_cltt-pos-X.html) 21)
 
-The 10 most frequent ambiguous types:  a ([CCONJ]() 1230, [X]() 97), 1 ([NUM]() 104, [X]() 91), 2 ([X]() 81, [NUM]() 46), 3 ([X]() 62, [NUM]() 47), zákona ([NOUN]() 51, [X]() 51), až ([X]() 41, [PART]() 30, [SCONJ]() 7, [CCONJ]() 1), 4 ([X]() 39, [NUM]() 18), z ([ADP]() 165, [X]() 29), 7 ([X]() 22, [NUM]() 7), výsledek ([X]() 15, [NOUN]() 8)
+The 10 most frequent ambiguous types:  a ([CCONJ](cs_cltt-pos-CCONJ.html) 1230, [X](cs_cltt-pos-X.html) 97), 1 ([NUM](cs_cltt-pos-NUM.html) 104, [X](cs_cltt-pos-X.html) 91), 2 ([X](cs_cltt-pos-X.html) 81, [NUM](cs_cltt-pos-NUM.html) 46), 3 ([X](cs_cltt-pos-X.html) 62, [NUM](cs_cltt-pos-NUM.html) 47), zákona ([NOUN](cs_cltt-pos-NOUN.html) 51, [X](cs_cltt-pos-X.html) 51), až ([X](cs_cltt-pos-X.html) 41, [PART](cs_cltt-pos-PART.html) 30, [SCONJ](cs_cltt-pos-SCONJ.html) 7, [CCONJ](cs_cltt-pos-CCONJ.html) 1), 4 ([X](cs_cltt-pos-X.html) 39, [NUM](cs_cltt-pos-NUM.html) 18), z ([ADP](cs_cltt-pos-ADP.html) 165, [X](cs_cltt-pos-X.html) 29), 7 ([X](cs_cltt-pos-X.html) 22, [NUM](cs_cltt-pos-NUM.html) 7), výsledek ([X](cs_cltt-pos-X.html) 15, [NOUN](cs_cltt-pos-NOUN.html) 8)
 
 
 * a
-  * [CCONJ]() 1230: Dále obsahuje povolenky na emise <b>a</b> preferenční limity .
-  * [X]() 97: (2) Jednotlivé složky majetku a závazků se ocení podle § 24 <b>a</b> 25 zákona .
+  * [CCONJ](cs_cltt-pos-CCONJ.html) 1230: Dále obsahuje povolenky na emise <b>a</b> preferenční limity .
+  * [X](cs_cltt-pos-X.html) 97: (2) Jednotlivé složky majetku a závazků se ocení podle § 24 <b>a</b> 25 zákona .
 * 1
-  * [NUM]() 104: Tato vyhláška nabývá účinnosti dnem <b>1</b> . ledna 2003 .
-  * [X]() 91: (2) Ministerstvo může vydat vyhlášku k provedení § 36 odst. <b>1</b> .
+  * [NUM](cs_cltt-pos-NUM.html) 104: Tato vyhláška nabývá účinnosti dnem <b>1</b> . ledna 2003 .
+  * [X](cs_cltt-pos-X.html) 91: (2) Ministerstvo může vydat vyhlášku k provedení § 36 odst. <b>1</b> .
 * 2
-  * [X]() 81: Výroční zpráva se nevyhotovuje v případech uvedených v § 20 odst. <b>2</b> .
-  * [NUM]() 46: (3) Uplatnění postupu podle odstavců 1 a <b>2</b> není porušením ustanovení § 3 odst. 1 a § 7 odst. 1 a 2 .
+  * [X](cs_cltt-pos-X.html) 81: Výroční zpráva se nevyhotovuje v případech uvedených v § 20 odst. <b>2</b> .
+  * [NUM](cs_cltt-pos-NUM.html) 46: (3) Uplatnění postupu podle odstavců 1 a <b>2</b> není porušením ustanovení § 3 odst. 1 a § 7 odst. 1 a 2 .
 * 3
-  * [X]() 62: § <b>3</b>
-  * [NUM]() 47: (9) Kromě případů podle odstavců 1 a <b>3</b> žádný jiný účetní záznam nesmí být označován názvy podle § 18 odst. 1 .
+  * [X](cs_cltt-pos-X.html) 62: § <b>3</b>
+  * [NUM](cs_cltt-pos-NUM.html) 47: (9) Kromě případů podle odstavců 1 a <b>3</b> žádný jiný účetní záznam nesmí být označován názvy podle § 18 odst. 1 .
 * zákona
-  * [NOUN]() 51: (2) Jednotlivé složky majetku a závazků se ocení podle § 24 a 25 <b>zákona</b> .
-  * [X]() 51: Metoda ocenění při nabytí více než jedné složky majetku převodem či přechodem podle § 24 odst. 3 písm. b) <b>zákona</b>
+  * [NOUN](cs_cltt-pos-NOUN.html) 51: (2) Jednotlivé složky majetku a závazků se ocení podle § 24 a 25 <b>zákona</b> .
+  * [X](cs_cltt-pos-X.html) 51: Metoda ocenění při nabytí více než jedné složky majetku převodem či přechodem podle § 24 odst. 3 písm. b) <b>zákona</b>
 * až
-  * [X]() 41: Ustanovení písmen d) <b>až</b> h) se použijí i pro zahraniční fyzické osoby .
-  * [PART]() 30: (5) Ustanovení § 52 a 53 se použijí <b>až</b> v účetním období začínajícím 1 . ledna 2004 a později .
-  * [SCONJ]() 7: (6) Ustanovení odstavců 1 <b>až</b> 5 se nepoužijí při změně právní formy a přeshraničním přemístění sídla .
-  * [CCONJ]() 1: Účetní jednotka , která sestavuje výkaz zisku a ztráty v účelovém členění , není povinna dodržet členění v účtových skupinách 50 až 55 a 60 <b>až</b> 64 ; členění přizpůsobí výkazu s přihlédnutím k povinnosti uvedené v § 39 odst. 8 .
+  * [X](cs_cltt-pos-X.html) 41: Ustanovení písmen d) <b>až</b> h) se použijí i pro zahraniční fyzické osoby .
+  * [PART](cs_cltt-pos-PART.html) 30: (5) Ustanovení § 52 a 53 se použijí <b>až</b> v účetním období začínajícím 1 . ledna 2004 a později .
+  * [SCONJ](cs_cltt-pos-SCONJ.html) 7: (6) Ustanovení odstavců 1 <b>až</b> 5 se nepoužijí při změně právní formy a přeshraničním přemístění sídla .
+  * [CCONJ](cs_cltt-pos-CCONJ.html) 1: Účetní jednotka , která sestavuje výkaz zisku a ztráty v účelovém členění , není povinna dodržet členění v účtových skupinách 50 až 55 a 60 <b>až</b> 64 ; členění přizpůsobí výkazu s přihlédnutím k povinnosti uvedené v § 39 odst. 8 .
 * 4
-  * [X]() 39: Směrná účtová osnova je uvedena v příloze č. <b>4</b> k této vyhlášce .
-  * [NUM]() 18: (5) Při průběžné inventarizaci se odstavec <b>4</b> použije obdobně .
+  * [X](cs_cltt-pos-X.html) 39: Směrná účtová osnova je uvedena v příloze č. <b>4</b> k této vyhlášce .
+  * [NUM](cs_cltt-pos-NUM.html) 18: (5) Při průběžné inventarizaci se odstavec <b>4</b> použije obdobně .
 * z
-  * [ADP]() 165: Obsahuje zejména závazky <b>z</b> dlouhodobých půjček a úvěrů .
-  * [X]() 29: Pokud jsou tyto zálohy vyšší nebo rovny předpokládané dani , účetní jednotka položku "B.I.3. Rezerva na daň <b>z</b> příjmů" neuvede .
+  * [ADP](cs_cltt-pos-ADP.html) 165: Obsahuje zejména závazky <b>z</b> dlouhodobých půjček a úvěrů .
+  * [X](cs_cltt-pos-X.html) 29: Pokud jsou tyto zálohy vyšší nebo rovny předpokládané dani , účetní jednotka položku "B.I.3. Rezerva na daň <b>z</b> příjmů" neuvede .
 * 7
-  * [X]() 22: § <b>7</b>
-  * [NUM]() 7: (8) Ustanovení odstavců 1 až <b>7</b> platí pro konsolidovanou účetní závěrku a výroční zprávu obdobně .
+  * [X](cs_cltt-pos-X.html) 22: § <b>7</b>
+  * [NUM](cs_cltt-pos-NUM.html) 7: (8) Ustanovení odstavců 1 až <b>7</b> platí pro konsolidovanou účetní závěrku a výroční zprávu obdobně .
 * výsledek
-  * [X]() 15: Účetní jednotka popíše použití položky "A.IV.3. Jiný <b>výsledek</b> hospodaření minulých let" v příloze v účetní závěrce .
-  * [NOUN]() 8: (2) Za nepeněžní transakce v provozní činnosti se považují transakce , které ovlivňují <b>výsledek</b> hospodaření , avšak nemají přímý vliv na přírůstek nebo úbytek peněžních prostředků a peněžních ekvivalentů .
+  * [X](cs_cltt-pos-X.html) 15: Účetní jednotka popíše použití položky "A.IV.3. Jiný <b>výsledek</b> hospodaření minulých let" v příloze v účetní závěrce .
+  * [NOUN](cs_cltt-pos-NOUN.html) 8: (2) Za nepeněžní transakce v provozní činnosti se považují transakce , které ovlivňují <b>výsledek</b> hospodaření , avšak nemají přímý vliv na přírůstek nebo úbytek peněžních prostředků a peněžních ekvivalentů .
 
 ## Morphology
 

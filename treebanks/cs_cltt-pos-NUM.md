@@ -13,41 +13,41 @@ The 10 most frequent `NUM` lemmas: 1 3 2 jeden 4 5 dva 41 7 dvanáct
 
 The 10 most frequent `NUM` types:  1 3 2 4 jeden 5 41 7 jedné tří
 
-The 10 most frequent ambiguous lemmas: 1 ([NUM]() 104, [X]() 91), 3 ([X]() 62, [NUM]() 47), 2 ([X]() 81, [NUM]() 46), 4 ([X]() 39, [NUM]() 18), 5 ([X]() 19, [NUM]() 14), 41 ([NUM]() 7, [X]() 2), 7 ([X]() 22, [NUM]() 7), 10 ([X]() 9, [NUM]() 5), 31 ([X]() 10, [NUM]() 5), 6 ([X]() 20, [NUM]() 5)
+The 10 most frequent ambiguous lemmas: 1 ([NUM](cs_cltt-pos-NUM.html) 104, [X](cs_cltt-pos-X.html) 91), 3 ([X](cs_cltt-pos-X.html) 62, [NUM](cs_cltt-pos-NUM.html) 47), 2 ([X](cs_cltt-pos-X.html) 81, [NUM](cs_cltt-pos-NUM.html) 46), 4 ([X](cs_cltt-pos-X.html) 39, [NUM](cs_cltt-pos-NUM.html) 18), 5 ([X](cs_cltt-pos-X.html) 19, [NUM](cs_cltt-pos-NUM.html) 14), 41 ([NUM](cs_cltt-pos-NUM.html) 7, [X](cs_cltt-pos-X.html) 2), 7 ([X](cs_cltt-pos-X.html) 22, [NUM](cs_cltt-pos-NUM.html) 7), 10 ([X](cs_cltt-pos-X.html) 9, [NUM](cs_cltt-pos-NUM.html) 5), 31 ([X](cs_cltt-pos-X.html) 10, [NUM](cs_cltt-pos-NUM.html) 5), 6 ([X](cs_cltt-pos-X.html) 20, [NUM](cs_cltt-pos-NUM.html) 5)
 
-The 10 most frequent ambiguous types:  1 ([NUM]() 104, [X]() 91), 3 ([X]() 62, [NUM]() 47), 2 ([X]() 81, [NUM]() 46), 4 ([X]() 39, [NUM]() 18), 5 ([X]() 19, [NUM]() 14), 41 ([NUM]() 7, [X]() 2), 7 ([X]() 22, [NUM]() 7), 10 ([X]() 9, [NUM]() 5), 31 ([X]() 10, [NUM]() 5), 6 ([X]() 20, [NUM]() 5)
+The 10 most frequent ambiguous types:  1 ([NUM](cs_cltt-pos-NUM.html) 104, [X](cs_cltt-pos-X.html) 91), 3 ([X](cs_cltt-pos-X.html) 62, [NUM](cs_cltt-pos-NUM.html) 47), 2 ([X](cs_cltt-pos-X.html) 81, [NUM](cs_cltt-pos-NUM.html) 46), 4 ([X](cs_cltt-pos-X.html) 39, [NUM](cs_cltt-pos-NUM.html) 18), 5 ([X](cs_cltt-pos-X.html) 19, [NUM](cs_cltt-pos-NUM.html) 14), 41 ([NUM](cs_cltt-pos-NUM.html) 7, [X](cs_cltt-pos-X.html) 2), 7 ([X](cs_cltt-pos-X.html) 22, [NUM](cs_cltt-pos-NUM.html) 7), 10 ([X](cs_cltt-pos-X.html) 9, [NUM](cs_cltt-pos-NUM.html) 5), 31 ([X](cs_cltt-pos-X.html) 10, [NUM](cs_cltt-pos-NUM.html) 5), 6 ([X](cs_cltt-pos-X.html) 20, [NUM](cs_cltt-pos-NUM.html) 5)
 
 
 * 1
-  * [NUM]() 104: Tato vyhláška nabývá účinnosti dnem <b>1</b> . ledna 2003 .
-  * [X]() 91: (2) Ministerstvo může vydat vyhlášku k provedení § 36 odst. <b>1</b> .
+  * [NUM](cs_cltt-pos-NUM.html) 104: Tato vyhláška nabývá účinnosti dnem <b>1</b> . ledna 2003 .
+  * [X](cs_cltt-pos-X.html) 91: (2) Ministerstvo může vydat vyhlášku k provedení § 36 odst. <b>1</b> .
 * 3
-  * [X]() 62: § <b>3</b>
-  * [NUM]() 47: (9) Kromě případů podle odstavců 1 a <b>3</b> žádný jiný účetní záznam nesmí být označován názvy podle § 18 odst. 1 .
+  * [X](cs_cltt-pos-X.html) 62: § <b>3</b>
+  * [NUM](cs_cltt-pos-NUM.html) 47: (9) Kromě případů podle odstavců 1 a <b>3</b> žádný jiný účetní záznam nesmí být označován názvy podle § 18 odst. 1 .
 * 2
-  * [X]() 81: Výroční zpráva se nevyhotovuje v případech uvedených v § 20 odst. <b>2</b> .
-  * [NUM]() 46: (3) Uplatnění postupu podle odstavců 1 a <b>2</b> není porušením ustanovení § 3 odst. 1 a § 7 odst. 1 a 2 .
+  * [X](cs_cltt-pos-X.html) 81: Výroční zpráva se nevyhotovuje v případech uvedených v § 20 odst. <b>2</b> .
+  * [NUM](cs_cltt-pos-NUM.html) 46: (3) Uplatnění postupu podle odstavců 1 a <b>2</b> není porušením ustanovení § 3 odst. 1 a § 7 odst. 1 a 2 .
 * 4
-  * [X]() 39: Směrná účtová osnova je uvedena v příloze č. <b>4</b> k této vyhlášce .
-  * [NUM]() 18: (5) Při průběžné inventarizaci se odstavec <b>4</b> použije obdobně .
+  * [X](cs_cltt-pos-X.html) 39: Směrná účtová osnova je uvedena v příloze č. <b>4</b> k této vyhlášce .
+  * [NUM](cs_cltt-pos-NUM.html) 18: (5) Při průběžné inventarizaci se odstavec <b>4</b> použije obdobně .
 * 5
-  * [X]() 19: § <b>5</b>
-  * [NUM]() 14: (6) Ustanovení odstavců 1 až <b>5</b> se nepoužijí při změně právní formy a přeshraničním přemístění sídla .
+  * [X](cs_cltt-pos-X.html) 19: § <b>5</b>
+  * [NUM](cs_cltt-pos-NUM.html) 14: (6) Ustanovení odstavců 1 až <b>5</b> se nepoužijí při změně právní formy a přeshraničním přemístění sídla .
 * 41
-  * [NUM]() 7: (2) Změny reálné hodnoty derivátu zajišťujícího očekávané peněžní toky se účtují prostřednictvím rozvahových účtů v účtové skupině <b>41</b> .
-  * [X]() 2: § <b>41</b>
+  * [NUM](cs_cltt-pos-NUM.html) 7: (2) Změny reálné hodnoty derivátu zajišťujícího očekávané peněžní toky se účtují prostřednictvím rozvahových účtů v účtové skupině <b>41</b> .
+  * [X](cs_cltt-pos-X.html) 2: § <b>41</b>
 * 7
-  * [X]() 22: § <b>7</b>
-  * [NUM]() 7: (8) Ustanovení odstavců 1 až <b>7</b> platí pro konsolidovanou účetní závěrku a výroční zprávu obdobně .
+  * [X](cs_cltt-pos-X.html) 22: § <b>7</b>
+  * [NUM](cs_cltt-pos-NUM.html) 7: (8) Ustanovení odstavců 1 až <b>7</b> platí pro konsolidovanou účetní závěrku a výroční zprávu obdobně .
 * 10
-  * [X]() 9: § <b>10</b>
-  * [NUM]() 5: (8) Identifikačním záznamem se rozumí účetní záznam , který není podpisovým záznamem podle odstavce 4 , připojený k jinému účetnímu záznamu a) automaticky technickým prostředkem ( § 4 odst. 10 ) , nebo b) fyzickou osobou odpovědnou podle odstavce <b>10</b> , který umožňuje jednoznačné určení uvedeného technického prostředku nebo fyzické osoby .
+  * [X](cs_cltt-pos-X.html) 9: § <b>10</b>
+  * [NUM](cs_cltt-pos-NUM.html) 5: (8) Identifikačním záznamem se rozumí účetní záznam , který není podpisovým záznamem podle odstavce 4 , připojený k jinému účetnímu záznamu a) automaticky technickým prostředkem ( § 4 odst. 10 ) , nebo b) fyzickou osobou odpovědnou podle odstavce <b>10</b> , který umožňuje jednoznačné určení uvedeného technického prostředku nebo fyzické osoby .
 * 31
-  * [X]() 10: § <b>31</b>
-  * [NUM]() 5: 2 . Ustanovení čl. I bodu 4 se použije již v účetní závěrce sestavované ke dni <b>31</b> . prosince 2008 .
+  * [X](cs_cltt-pos-X.html) 10: § <b>31</b>
+  * [NUM](cs_cltt-pos-NUM.html) 5: 2 . Ustanovení čl. I bodu 4 se použije již v účetní závěrce sestavované ke dni <b>31</b> . prosince 2008 .
 * 6
-  * [X]() 20: § <b>6</b>
-  * [NUM]() 5: (7) Pro zahrnutí účetních jednotek pod společným vlivem do položek konsolidované účetní závěrky se přiměřeně použijí ustanovení odstavce <b>6</b> .
+  * [X](cs_cltt-pos-X.html) 20: § <b>6</b>
+  * [NUM](cs_cltt-pos-NUM.html) 5: (7) Pro zahrnutí účetních jednotek pod společným vlivem do položek konsolidované účetní závěrky se přiměřeně použijí ustanovení odstavce <b>6</b> .
 
 ## Morphology
 

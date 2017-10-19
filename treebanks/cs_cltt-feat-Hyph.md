@@ -18,7 +18,7 @@ The feature is used with 1 part-of-speech tags: [ADJ](cs_cltt-pos-ADJ.html) (11;
 
 11 [ADJ](cs_cltt-pos-ADJ.html) tokens (0% of all `ADJ` tokens) have a non-empty value of `Hyph`.
 
-The most frequent other feature values with which `ADJ` and `Hyph` co-occurred: <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (11; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (11; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (11; 100%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (11; 100%), <tt><a href="Degree.html">Degree</a>=EMPTY</tt> (11; 100%), <tt><a href="Polarity.html">Polarity</a>=Pos</tt> (11; 100%).
+The most frequent other feature values with which `ADJ` and `Hyph` co-occurred: <tt><a href="Degree.html">Degree</a>=EMPTY</tt> (11; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (11; 100%), <tt><a href="Polarity.html">Polarity</a>=Pos</tt> (11; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (11; 100%), <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (11; 100%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (11; 100%).
 
 `ADJ` tokens may have the following values of `Hyph`:
 

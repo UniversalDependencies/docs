@@ -13,19 +13,19 @@ The 10 most frequent `SCONJ` lemmas: pokud jako než že aby zda jestliže jako�
 
 The 10 most frequent `SCONJ` types:  pokud jako než že aby zda jestliže jakož až jak
 
-The 10 most frequent ambiguous lemmas: až ([X]() 41, [PART]() 30, [SCONJ]() 7, [CCONJ]() 1), jak ([SCONJ]() 3, [ADV]() 2)
+The 10 most frequent ambiguous lemmas: až ([X](cs_cltt-pos-X.html) 41, [PART](cs_cltt-pos-PART.html) 30, [SCONJ](cs_cltt-pos-SCONJ.html) 7, [CCONJ](cs_cltt-pos-CCONJ.html) 1), jak ([SCONJ](cs_cltt-pos-SCONJ.html) 3, [ADV](cs_cltt-pos-ADV.html) 2)
 
-The 10 most frequent ambiguous types:  až ([X]() 41, [PART]() 30, [SCONJ]() 7, [CCONJ]() 1), jak ([SCONJ]() 3, [ADV]() 2)
+The 10 most frequent ambiguous types:  až ([X](cs_cltt-pos-X.html) 41, [PART](cs_cltt-pos-PART.html) 30, [SCONJ](cs_cltt-pos-SCONJ.html) 7, [CCONJ](cs_cltt-pos-CCONJ.html) 1), jak ([SCONJ](cs_cltt-pos-SCONJ.html) 3, [ADV](cs_cltt-pos-ADV.html) 2)
 
 
 * až
-  * [X]() 41: Ustanovení písmen d) <b>až</b> h) se použijí i pro zahraniční fyzické osoby .
-  * [PART]() 30: (5) Ustanovení § 52 a 53 se použijí <b>až</b> v účetním období začínajícím 1 . ledna 2004 a později .
-  * [SCONJ]() 7: (6) Ustanovení odstavců 1 <b>až</b> 5 se nepoužijí při změně právní formy a přeshraničním přemístění sídla .
-  * [CCONJ]() 1: Účetní jednotka , která sestavuje výkaz zisku a ztráty v účelovém členění , není povinna dodržet členění v účtových skupinách 50 až 55 a 60 <b>až</b> 64 ; členění přizpůsobí výkazu s přihlédnutím k povinnosti uvedené v § 39 odst. 8 .
+  * [X](cs_cltt-pos-X.html) 41: Ustanovení písmen d) <b>až</b> h) se použijí i pro zahraniční fyzické osoby .
+  * [PART](cs_cltt-pos-PART.html) 30: (5) Ustanovení § 52 a 53 se použijí <b>až</b> v účetním období začínajícím 1 . ledna 2004 a později .
+  * [SCONJ](cs_cltt-pos-SCONJ.html) 7: (6) Ustanovení odstavců 1 <b>až</b> 5 se nepoužijí při změně právní formy a přeshraničním přemístění sídla .
+  * [CCONJ](cs_cltt-pos-CCONJ.html) 1: Účetní jednotka , která sestavuje výkaz zisku a ztráty v účelovém členění , není povinna dodržet členění v účtových skupinách 50 až 55 a 60 <b>až</b> 64 ; členění přizpůsobí výkazu s přihlédnutím k povinnosti uvedené v § 39 odst. 8 .
 * jak
-  * [SCONJ]() 3: (5) Položka "B.III.6. Závazky ze sociálního zabezpečení a zdravotního pojištění" obsahuje u všech účetních jednotek závazky ze sociálního zabezpečení a zdravotního pojištění k příslušným institucím <b>jak</b> v zákonné výši , tak z dobrovolného plnění .
-  * [ADV]() 2: (3) Opravy se musí provádět tak , aby by bylo možno určit osobu odpovědnou za provedení každé opravy , okamžik jejího provedení a zjistit <b>jak</b> obsah opravovaného účetního záznamu před opravou , tak jeho obsah po opravě .
+  * [SCONJ](cs_cltt-pos-SCONJ.html) 3: (5) Položka "B.III.6. Závazky ze sociálního zabezpečení a zdravotního pojištění" obsahuje u všech účetních jednotek závazky ze sociálního zabezpečení a zdravotního pojištění k příslušným institucím <b>jak</b> v zákonné výši , tak z dobrovolného plnění .
+  * [ADV](cs_cltt-pos-ADV.html) 2: (3) Opravy se musí provádět tak , aby by bylo možno určit osobu odpovědnou za provedení každé opravy , okamžik jejího provedení a zjistit <b>jak</b> obsah opravovaného účetního záznamu před opravou , tak jeho obsah po opravě .
 
 ## Morphology
 

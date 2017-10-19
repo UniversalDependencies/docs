@@ -31,7 +31,7 @@ The most frequent other feature values with which `ADJ` and `Aspect` co-occurred
 
 1 [VERB](cs_cltt-pos-VERB.html) tokens (0% of all `VERB` tokens) have a non-empty value of `Aspect`.
 
-The most frequent other feature values with which `VERB` and `Aspect` co-occurred: <tt><a href="Voice.html">Voice</a>=Act</tt> (1; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (1; 100%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (1; 100%), <tt><a href="Polarity.html">Polarity</a>=Pos</tt> (1; 100%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (1; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (1; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (1; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Conv</tt> (1; 100%).
+The most frequent other feature values with which `VERB` and `Aspect` co-occurred: <tt><a href="Number.html">Number</a>=Sing</tt> (1; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Conv</tt> (1; 100%), <tt><a href="Voice.html">Voice</a>=Act</tt> (1; 100%), <tt><a href="Polarity.html">Polarity</a>=Pos</tt> (1; 100%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (1; 100%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (1; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (1; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (1; 100%).
 
 `VERB` tokens may have the following values of `Aspect`:
 
