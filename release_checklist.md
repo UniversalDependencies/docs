@@ -141,6 +141,12 @@ This block should be the first thing in the README file. The properties are as f
   immediately following the metadata should be copied. (The software actually just counts empty lines;
   if there are two consecutive empty lines, an empty paragraph will be counted.)
 
+If you want to see what web content will be generated from your README file, run the
+`generate_treebank_hub.pl` script from the tools repository on your treebank folder,
+e.g.
+
+    generate_treebank_hub.pl UD_Czech > for_web.md
+
 ## Repository branches
 
 While the official UD release is always through Lindat, many users of UD source their data from the GitHub language repositories. Therefore, the `master` branch of every language should contain the last, officially released version of the data for the given language. The development in between releases should happen on the `dev` branch of the repository.
