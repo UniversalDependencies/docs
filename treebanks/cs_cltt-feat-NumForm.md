@@ -12,13 +12,13 @@ It occurs with 2 different values: `Roman`, `Word`.
 440 tokens (1%) have a non-empty value of `NumForm`.
 97 types (2%) occur at least once with a non-empty value of `NumForm`.
 83 lemmas (3%) occur at least once with a non-empty value of `NumForm`.
-The feature is used with 1 part-of-speech tags: <tt>[NUM](cs_cltt-pos-NUM.html)</tt> (440; 1% instances).
+The feature is used with 1 part-of-speech tags: <tt><a href="cs_cltt-pos-NUM.html">NUM</a></tt> (440; 1% instances).
 
 ### `NUM`
 
-440 <tt>[NUM](cs_cltt-pos-NUM.html)</tt> tokens (100% of all `NUM` tokens) have a non-empty value of `NumForm`.
+440 <tt><a href="cs_cltt-pos-NUM.html">NUM</a></tt> tokens (100% of all `NUM` tokens) have a non-empty value of `NumForm`.
 
-The most frequent other feature values with which `NUM` and `NumForm` co-occurred: <tt>[NumType](cs_cltt-feat-NumType.html)</tt><tt>=Card</tt> (440; 100%), <tt>[Gender](cs_cltt-feat-Gender.html)</tt><tt>=EMPTY</tt> (394; 90%), <tt>[NumValue](cs_cltt-feat-NumValue.html)</tt><tt>=EMPTY</tt> (382; 87%), <tt>[Case](cs_cltt-feat-Case.html)</tt><tt>=EMPTY</tt> (371; 84%), <tt>[Number](cs_cltt-feat-Number.html)</tt><tt>=EMPTY</tt> (371; 84%).
+The most frequent other feature values with which `NUM` and `NumForm` co-occurred: <tt><a href="cs_cltt-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (440; 100%), <tt><a href="cs_cltt-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (394; 90%), <tt><a href="cs_cltt-feat-NumValue.html">NumValue</a></tt><tt>=EMPTY</tt> (382; 87%), <tt><a href="cs_cltt-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (371; 84%), <tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (371; 84%).
 
 `NUM` tokens may have the following values of `NumForm`:
 

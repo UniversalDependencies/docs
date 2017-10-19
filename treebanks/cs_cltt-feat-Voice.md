@@ -12,13 +12,13 @@ It occurs with 2 different values: `Act`, `Pass`.
 2587 tokens (7%) have a non-empty value of `Voice`.
 642 types (14%) occur at least once with a non-empty value of `Voice`.
 339 lemmas (13%) occur at least once with a non-empty value of `Voice`.
-The feature is used with 3 part-of-speech tags: <tt>[VERB](cs_cltt-pos-VERB.html)</tt> (1802; 5% instances), <tt>[AUX](cs_cltt-pos-AUX.html)</tt> (497; 1% instances), <tt>[ADJ](cs_cltt-pos-ADJ.html)</tt> (288; 1% instances).
+The feature is used with 3 part-of-speech tags: <tt><a href="cs_cltt-pos-VERB.html">VERB</a></tt> (1802; 5% instances), <tt><a href="cs_cltt-pos-AUX.html">AUX</a></tt> (497; 1% instances), <tt><a href="cs_cltt-pos-ADJ.html">ADJ</a></tt> (288; 1% instances).
 
 ### `VERB`
 
-1802 <tt>[VERB](cs_cltt-pos-VERB.html)</tt> tokens (85% of all `VERB` tokens) have a non-empty value of `Voice`.
+1802 <tt><a href="cs_cltt-pos-VERB.html">VERB</a></tt> tokens (85% of all `VERB` tokens) have a non-empty value of `Voice`.
 
-The most frequent other feature values with which `VERB` and `Voice` co-occurred: <tt>[Polarity](cs_cltt-feat-Polarity.html)</tt><tt>=Pos</tt> (1587; 88%), <tt>[Gender](cs_cltt-feat-Gender.html)</tt><tt>=EMPTY</tt> (1426; 79%), <tt>[Person](cs_cltt-feat-Person.html)</tt><tt>=3</tt> (1426; 79%), <tt>[VerbForm](cs_cltt-feat-VerbForm.html)</tt><tt>=Fin</tt> (1426; 79%), <tt>[Tense](cs_cltt-feat-Tense.html)</tt><tt>=Pres</tt> (1426; 79%), <tt>[Mood](cs_cltt-feat-Mood.html)</tt><tt>=Ind</tt> (1426; 79%), <tt>[Number](cs_cltt-feat-Number.html)</tt><tt>=Sing</tt> (1115; 62%).
+The most frequent other feature values with which `VERB` and `Voice` co-occurred: <tt><a href="cs_cltt-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (1587; 88%), <tt><a href="cs_cltt-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1426; 79%), <tt><a href="cs_cltt-feat-Person.html">Person</a></tt><tt>=3</tt> (1426; 79%), <tt><a href="cs_cltt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (1426; 79%), <tt><a href="cs_cltt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (1426; 79%), <tt><a href="cs_cltt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (1426; 79%), <tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1115; 62%).
 
 `VERB` tokens may have the following values of `Voice`:
 
@@ -28,21 +28,21 @@ The most frequent other feature values with which `VERB` and `Voice` co-occurred
 
 <table>
   <tr><th>Paradigm <i>použít</i></th><th><tt>Act</tt></th><th><tt>Pass</tt></th></tr>
-  <tr><td><tt><tt>[Animacy](cs_cltt-feat-Animacy.html)</tt><tt>=Inan</tt>|<tt>[Gender](cs_cltt-feat-Gender.html)</tt><tt>=Fem,Masc</tt>|<tt>[Number](cs_cltt-feat-Number.html)</tt><tt>=Plur</tt>|<tt>[Polarity](cs_cltt-feat-Polarity.html)</tt><tt>=Pos</tt>|<tt>[VerbForm](cs_cltt-feat-VerbForm.html)</tt><tt>=Part</tt></tt></td><td></td><td>použity</td></tr>
-  <tr><td><tt><tt>[Gender](cs_cltt-feat-Gender.html)</tt><tt>=Fem,Neut</tt>|<tt>[Number](cs_cltt-feat-Number.html)</tt><tt>=Plur,Sing</tt>|<tt>[Polarity](cs_cltt-feat-Polarity.html)</tt><tt>=Pos</tt>|<tt>[Tense](cs_cltt-feat-Tense.html)</tt><tt>=Past</tt>|<tt>[VerbForm](cs_cltt-feat-VerbForm.html)</tt><tt>=Part</tt></tt></td><td>použila</td><td></td></tr>
-  <tr><td><tt><tt>[Gender](cs_cltt-feat-Gender.html)</tt><tt>=Fem,Neut</tt>|<tt>[Number](cs_cltt-feat-Number.html)</tt><tt>=Plur,Sing</tt>|<tt>[Polarity](cs_cltt-feat-Polarity.html)</tt><tt>=Pos</tt>|<tt>[VerbForm](cs_cltt-feat-VerbForm.html)</tt><tt>=Part</tt></tt></td><td></td><td>použita</td></tr>
-  <tr><td><tt><tt>[Gender](cs_cltt-feat-Gender.html)</tt><tt>=Neut</tt>|<tt>[Number](cs_cltt-feat-Number.html)</tt><tt>=Sing</tt>|<tt>[Polarity](cs_cltt-feat-Polarity.html)</tt><tt>=Pos</tt>|<tt>[VerbForm](cs_cltt-feat-VerbForm.html)</tt><tt>=Part</tt></tt></td><td></td><td>použito</td></tr>
-  <tr><td><tt><tt>[Mood](cs_cltt-feat-Mood.html)</tt><tt>=Ind</tt>|<tt>[Number](cs_cltt-feat-Number.html)</tt><tt>=Sing</tt>|<tt>[Person](cs_cltt-feat-Person.html)</tt><tt>=3</tt>|<tt>[Polarity](cs_cltt-feat-Polarity.html)</tt><tt>=Neg</tt>|<tt>[Tense](cs_cltt-feat-Tense.html)</tt><tt>=Pres</tt>|<tt>[VerbForm](cs_cltt-feat-VerbForm.html)</tt><tt>=Fin</tt></tt></td><td>nepoužije</td><td></td></tr>
-  <tr><td><tt><tt>[Mood](cs_cltt-feat-Mood.html)</tt><tt>=Ind</tt>|<tt>[Number](cs_cltt-feat-Number.html)</tt><tt>=Sing</tt>|<tt>[Person](cs_cltt-feat-Person.html)</tt><tt>=3</tt>|<tt>[Polarity](cs_cltt-feat-Polarity.html)</tt><tt>=Pos</tt>|<tt>[Tense](cs_cltt-feat-Tense.html)</tt><tt>=Pres</tt>|<tt>[VerbForm](cs_cltt-feat-VerbForm.html)</tt><tt>=Fin</tt></tt></td><td>použije</td><td></td></tr>
-  <tr><td><tt><tt>[Mood](cs_cltt-feat-Mood.html)</tt><tt>=Ind</tt>|<tt>[Number](cs_cltt-feat-Number.html)</tt><tt>=Plur</tt>|<tt>[Person](cs_cltt-feat-Person.html)</tt><tt>=3</tt>|<tt>[Polarity](cs_cltt-feat-Polarity.html)</tt><tt>=Neg</tt>|<tt>[Tense](cs_cltt-feat-Tense.html)</tt><tt>=Pres</tt>|<tt>[VerbForm](cs_cltt-feat-VerbForm.html)</tt><tt>=Fin</tt></tt></td><td>nepoužijí</td><td></td></tr>
-  <tr><td><tt><tt>[Mood](cs_cltt-feat-Mood.html)</tt><tt>=Ind</tt>|<tt>[Number](cs_cltt-feat-Number.html)</tt><tt>=Plur</tt>|<tt>[Person](cs_cltt-feat-Person.html)</tt><tt>=3</tt>|<tt>[Polarity](cs_cltt-feat-Polarity.html)</tt><tt>=Pos</tt>|<tt>[Tense](cs_cltt-feat-Tense.html)</tt><tt>=Pres</tt>|<tt>[VerbForm](cs_cltt-feat-VerbForm.html)</tt><tt>=Fin</tt></tt></td><td>použijí</td><td></td></tr>
+  <tr><td><tt><tt><a href="cs_cltt-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="cs_cltt-feat-Gender.html">Gender</a></tt><tt>=Fem,Masc</tt>|<tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="cs_cltt-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="cs_cltt-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td></td><td>použity</td></tr>
+  <tr><td><tt><tt><a href="cs_cltt-feat-Gender.html">Gender</a></tt><tt>=Fem,Neut</tt>|<tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Plur,Sing</tt>|<tt><a href="cs_cltt-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="cs_cltt-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="cs_cltt-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td>použila</td><td></td></tr>
+  <tr><td><tt><tt><a href="cs_cltt-feat-Gender.html">Gender</a></tt><tt>=Fem,Neut</tt>|<tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Plur,Sing</tt>|<tt><a href="cs_cltt-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="cs_cltt-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td></td><td>použita</td></tr>
+  <tr><td><tt><tt><a href="cs_cltt-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs_cltt-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="cs_cltt-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td></td><td>použito</td></tr>
+  <tr><td><tt><tt><a href="cs_cltt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs_cltt-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="cs_cltt-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="cs_cltt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="cs_cltt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td>nepoužije</td><td></td></tr>
+  <tr><td><tt><tt><a href="cs_cltt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs_cltt-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="cs_cltt-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="cs_cltt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="cs_cltt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td>použije</td><td></td></tr>
+  <tr><td><tt><tt><a href="cs_cltt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="cs_cltt-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="cs_cltt-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="cs_cltt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="cs_cltt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td>nepoužijí</td><td></td></tr>
+  <tr><td><tt><tt><a href="cs_cltt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="cs_cltt-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="cs_cltt-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="cs_cltt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="cs_cltt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td>použijí</td><td></td></tr>
 </table>
 
 ### `AUX`
 
-497 <tt>[AUX](cs_cltt-pos-AUX.html)</tt> tokens (82% of all `AUX` tokens) have a non-empty value of `Voice`.
+497 <tt><a href="cs_cltt-pos-AUX.html">AUX</a></tt> tokens (82% of all `AUX` tokens) have a non-empty value of `Voice`.
 
-The most frequent other feature values with which `AUX` and `Voice` co-occurred: <tt>[Gender](cs_cltt-feat-Gender.html)</tt><tt>=EMPTY</tt> (438; 88%), <tt>[Person](cs_cltt-feat-Person.html)</tt><tt>=3</tt> (438; 88%), <tt>[VerbForm](cs_cltt-feat-VerbForm.html)</tt><tt>=Fin</tt> (438; 88%), <tt>[Mood](cs_cltt-feat-Mood.html)</tt><tt>=Ind</tt> (438; 88%), <tt>[Polarity](cs_cltt-feat-Polarity.html)</tt><tt>=Pos</tt> (436; 88%), <tt>[Tense](cs_cltt-feat-Tense.html)</tt><tt>=Pres</tt> (417; 84%), <tt>[Number](cs_cltt-feat-Number.html)</tt><tt>=Sing</tt> (265; 53%).
+The most frequent other feature values with which `AUX` and `Voice` co-occurred: <tt><a href="cs_cltt-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (438; 88%), <tt><a href="cs_cltt-feat-Person.html">Person</a></tt><tt>=3</tt> (438; 88%), <tt><a href="cs_cltt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (438; 88%), <tt><a href="cs_cltt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (438; 88%), <tt><a href="cs_cltt-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (436; 88%), <tt><a href="cs_cltt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (417; 84%), <tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (265; 53%).
 
 `AUX` tokens may have the following values of `Voice`:
 
@@ -51,9 +51,9 @@ The most frequent other feature values with which `AUX` and `Voice` co-occurred:
 
 ### `ADJ`
 
-288 <tt>[ADJ](cs_cltt-pos-ADJ.html)</tt> tokens (4% of all `ADJ` tokens) have a non-empty value of `Voice`.
+288 <tt><a href="cs_cltt-pos-ADJ.html">ADJ</a></tt> tokens (4% of all `ADJ` tokens) have a non-empty value of `Voice`.
 
-The most frequent other feature values with which `ADJ` and `Voice` co-occurred: <tt>[Degree](cs_cltt-feat-Degree.html)</tt><tt>=EMPTY</tt> (288; 100%), <tt>[Polarity](cs_cltt-feat-Polarity.html)</tt><tt>=Pos</tt> (286; 99%), <tt>[Number](cs_cltt-feat-Number.html)</tt><tt>=Sing</tt> (177; 61%), <tt>[Animacy](cs_cltt-feat-Animacy.html)</tt><tt>=EMPTY</tt> (172; 60%).
+The most frequent other feature values with which `ADJ` and `Voice` co-occurred: <tt><a href="cs_cltt-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (288; 100%), <tt><a href="cs_cltt-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (286; 99%), <tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (177; 61%), <tt><a href="cs_cltt-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (172; 60%).
 
 `ADJ` tokens may have the following values of `Voice`:
 

@@ -13,13 +13,13 @@ Some words have combined values of the feature; 2 combinations have been observe
 1807 tokens (5%) have a non-empty value of `PronType`.
 128 types (3%) occur at least once with a non-empty value of `PronType`.
 20 lemmas (1%) occur at least once with a non-empty value of `PronType`.
-The feature is used with 2 part-of-speech tags: <tt>[PRON](cs_cltt-pos-PRON.html)</tt> (1212; 3% instances), <tt>[DET](cs_cltt-pos-DET.html)</tt> (595; 2% instances).
+The feature is used with 2 part-of-speech tags: <tt><a href="cs_cltt-pos-PRON.html">PRON</a></tt> (1212; 3% instances), <tt><a href="cs_cltt-pos-DET.html">DET</a></tt> (595; 2% instances).
 
 ### `PRON`
 
-1212 <tt>[PRON](cs_cltt-pos-PRON.html)</tt> tokens (100% of all `PRON` tokens) have a non-empty value of `PronType`.
+1212 <tt><a href="cs_cltt-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt>[Variant](cs_cltt-feat-Variant.html)</tt><tt>=EMPTY</tt> (743; 61%), <tt>[Reflex](cs_cltt-feat-Reflex.html)</tt><tt>=EMPTY</tt> (737; 61%), <tt>[Case](cs_cltt-feat-Case.html)</tt><tt>=Acc</tt> (607; 50%).
+The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="cs_cltt-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (743; 61%), <tt><a href="cs_cltt-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (737; 61%), <tt><a href="cs_cltt-feat-Case.html">Case</a></tt><tt>=Acc</tt> (607; 50%).
 
 `PRON` tokens may have the following values of `PronType`:
 
@@ -36,9 +36,9 @@ The most frequent other feature values with which `PRON` and `PronType` co-occur
 
 ### `DET`
 
-595 <tt>[DET](cs_cltt-pos-DET.html)</tt> tokens (100% of all `DET` tokens) have a non-empty value of `PronType`.
+595 <tt><a href="cs_cltt-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `DET` and `PronType` co-occurred: <tt>[Gender[psor]](cs_cltt-feat-Gender-psor.html)</tt><tt>=EMPTY</tt> (484; 81%), <tt>[Number[psor]](cs_cltt-feat-Number-psor.html)</tt><tt>=EMPTY</tt> (379; 64%), <tt>[Person](cs_cltt-feat-Person.html)</tt><tt>=EMPTY</tt> (379; 64%), <tt>[Poss](cs_cltt-feat-Poss.html)</tt><tt>=EMPTY</tt> (355; 60%), <tt>[Number](cs_cltt-feat-Number.html)</tt><tt>=Sing</tt> (306; 51%).
+The most frequent other feature values with which `DET` and `PronType` co-occurred: <tt><a href="cs_cltt-feat-Gender-psor.html">Gender[psor]</a></tt><tt>=EMPTY</tt> (484; 81%), <tt><a href="cs_cltt-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (379; 64%), <tt><a href="cs_cltt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (379; 64%), <tt><a href="cs_cltt-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (355; 60%), <tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (306; 51%).
 
 `DET` tokens may have the following values of `PronType`:
 

@@ -12,13 +12,13 @@ It occurs with 1 different values: `Yes`.
 241 tokens (1%) have a non-empty value of `Poss`.
 20 types (0%) occur at least once with a non-empty value of `Poss`.
 4 lemmas (0%) occur at least once with a non-empty value of `Poss`.
-The feature is used with 2 part-of-speech tags: <tt>[DET](cs_cltt-pos-DET.html)</tt> (240; 1% instances), <tt>[ADJ](cs_cltt-pos-ADJ.html)</tt> (1; 0% instances).
+The feature is used with 2 part-of-speech tags: <tt><a href="cs_cltt-pos-DET.html">DET</a></tt> (240; 1% instances), <tt><a href="cs_cltt-pos-ADJ.html">ADJ</a></tt> (1; 0% instances).
 
 ### `DET`
 
-240 <tt>[DET](cs_cltt-pos-DET.html)</tt> tokens (40% of all `DET` tokens) have a non-empty value of `Poss`.
+240 <tt><a href="cs_cltt-pos-DET.html">DET</a></tt> tokens (40% of all `DET` tokens) have a non-empty value of `Poss`.
 
-The most frequent other feature values with which `DET` and `Poss` co-occurred: <tt>[PronType](cs_cltt-feat-PronType.html)</tt><tt>=Prs</tt> (219; 91%), <tt>[Person](cs_cltt-feat-Person.html)</tt><tt>=3</tt> (216; 90%), <tt>[Case](cs_cltt-feat-Case.html)</tt><tt>=EMPTY</tt> (189; 79%), <tt>[Gender](cs_cltt-feat-Gender.html)</tt><tt>=EMPTY</tt> (187; 78%), <tt>[Number](cs_cltt-feat-Number.html)</tt><tt>=EMPTY</tt> (180; 75%), <tt>[Gender[psor]](cs_cltt-feat-Gender-psor.html)</tt><tt>=EMPTY</tt> (129; 54%).
+The most frequent other feature values with which `DET` and `Poss` co-occurred: <tt><a href="cs_cltt-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (219; 91%), <tt><a href="cs_cltt-feat-Person.html">Person</a></tt><tt>=3</tt> (216; 90%), <tt><a href="cs_cltt-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (189; 79%), <tt><a href="cs_cltt-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (187; 78%), <tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (180; 75%), <tt><a href="cs_cltt-feat-Gender-psor.html">Gender[psor]</a></tt><tt>=EMPTY</tt> (129; 54%).
 
 `DET` tokens may have the following values of `Poss`:
 
@@ -27,9 +27,9 @@ The most frequent other feature values with which `DET` and `Poss` co-occurred: 
 
 ### `ADJ`
 
-1 <tt>[ADJ](cs_cltt-pos-ADJ.html)</tt> tokens (0% of all `ADJ` tokens) have a non-empty value of `Poss`.
+1 <tt><a href="cs_cltt-pos-ADJ.html">ADJ</a></tt> tokens (0% of all `ADJ` tokens) have a non-empty value of `Poss`.
 
-The most frequent other feature values with which `ADJ` and `Poss` co-occurred: <tt>[Degree](cs_cltt-feat-Degree.html)</tt><tt>=EMPTY</tt> (1; 100%), <tt>[Polarity](cs_cltt-feat-Polarity.html)</tt><tt>=EMPTY</tt> (1; 100%), <tt>[Case](cs_cltt-feat-Case.html)</tt><tt>=Nom</tt> (1; 100%), <tt>[Gender](cs_cltt-feat-Gender.html)</tt><tt>=Masc</tt> (1; 100%), <tt>[Number](cs_cltt-feat-Number.html)</tt><tt>=Plur</tt> (1; 100%), <tt>[Animacy](cs_cltt-feat-Animacy.html)</tt><tt>=Anim</tt> (1; 100%).
+The most frequent other feature values with which `ADJ` and `Poss` co-occurred: <tt><a href="cs_cltt-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="cs_cltt-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="cs_cltt-feat-Case.html">Case</a></tt><tt>=Nom</tt> (1; 100%), <tt><a href="cs_cltt-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (1; 100%), <tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Plur</tt> (1; 100%), <tt><a href="cs_cltt-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt> (1; 100%).
 
 `ADJ` tokens may have the following values of `Poss`:
 

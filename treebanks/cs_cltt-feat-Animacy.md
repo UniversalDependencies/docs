@@ -12,13 +12,13 @@ It occurs with 2 different values: `Anim`, `Inan`.
 7439 tokens (20%) have a non-empty value of `Animacy`.
 1595 types (35%) occur at least once with a non-empty value of `Animacy`.
 746 lemmas (29%) occur at least once with a non-empty value of `Animacy`.
-The feature is used with 7 part-of-speech tags: <tt>[NOUN](cs_cltt-pos-NOUN.html)</tt> (4547; 12% instances), <tt>[ADJ](cs_cltt-pos-ADJ.html)</tt> (2622; 7% instances), <tt>[VERB](cs_cltt-pos-VERB.html)</tt> (144; 0% instances), <tt>[PRON](cs_cltt-pos-PRON.html)</tt> (57; 0% instances), <tt>[DET](cs_cltt-pos-DET.html)</tt> (30; 0% instances), <tt>[AUX](cs_cltt-pos-AUX.html)</tt> (27; 0% instances), <tt>[NUM](cs_cltt-pos-NUM.html)</tt> (12; 0% instances).
+The feature is used with 7 part-of-speech tags: <tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt> (4547; 12% instances), <tt><a href="cs_cltt-pos-ADJ.html">ADJ</a></tt> (2622; 7% instances), <tt><a href="cs_cltt-pos-VERB.html">VERB</a></tt> (144; 0% instances), <tt><a href="cs_cltt-pos-PRON.html">PRON</a></tt> (57; 0% instances), <tt><a href="cs_cltt-pos-DET.html">DET</a></tt> (30; 0% instances), <tt><a href="cs_cltt-pos-AUX.html">AUX</a></tt> (27; 0% instances), <tt><a href="cs_cltt-pos-NUM.html">NUM</a></tt> (12; 0% instances).
 
 ### `NOUN`
 
-4547 <tt>[NOUN](cs_cltt-pos-NOUN.html)</tt> tokens (40% of all `NOUN` tokens) have a non-empty value of `Animacy`.
+4547 <tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt> tokens (40% of all `NOUN` tokens) have a non-empty value of `Animacy`.
 
-The most frequent other feature values with which `NOUN` and `Animacy` co-occurred: <tt>[Gender](cs_cltt-feat-Gender.html)</tt><tt>=Masc</tt> (4547; 100%), <tt>[Polarity](cs_cltt-feat-Polarity.html)</tt><tt>=Pos</tt> (4547; 100%), <tt>[Number](cs_cltt-feat-Number.html)</tt><tt>=Sing</tt> (2989; 66%).
+The most frequent other feature values with which `NOUN` and `Animacy` co-occurred: <tt><a href="cs_cltt-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (4547; 100%), <tt><a href="cs_cltt-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (4547; 100%), <tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2989; 66%).
 
 `NOUN` tokens may have the following values of `Animacy`:
 
@@ -28,20 +28,20 @@ The most frequent other feature values with which `NOUN` and `Animacy` co-occurr
 
 <table>
   <tr><th>Paradigm <i>člen</i></th><th><tt>Anim</tt></th><th><tt>Inan</tt></th></tr>
-  <tr><td><tt><tt>[Case](cs_cltt-feat-Case.html)</tt><tt>=Acc</tt>|<tt>[Number](cs_cltt-feat-Number.html)</tt><tt>=Plur</tt></tt></td><td>členy</td><td></td></tr>
-  <tr><td><tt><tt>[Case](cs_cltt-feat-Case.html)</tt><tt>=Dat</tt>|<tt>[Number](cs_cltt-feat-Number.html)</tt><tt>=Plur</tt></tt></td><td>členům</td><td></td></tr>
-  <tr><td><tt><tt>[Case](cs_cltt-feat-Case.html)</tt><tt>=Gen</tt>|<tt>[Number](cs_cltt-feat-Number.html)</tt><tt>=Sing</tt></tt></td><td>člena</td><td></td></tr>
-  <tr><td><tt><tt>[Case](cs_cltt-feat-Case.html)</tt><tt>=Gen</tt>|<tt>[Number](cs_cltt-feat-Number.html)</tt><tt>=Plur</tt></tt></td><td>členů</td><td>členů</td></tr>
-  <tr><td><tt><tt>[Case](cs_cltt-feat-Case.html)</tt><tt>=Ins</tt>|<tt>[Number](cs_cltt-feat-Number.html)</tt><tt>=Plur</tt></tt></td><td>členy</td><td></td></tr>
+  <tr><td><tt><tt><a href="cs_cltt-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td>členy</td><td></td></tr>
+  <tr><td><tt><tt><a href="cs_cltt-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td>členům</td><td></td></tr>
+  <tr><td><tt><tt><a href="cs_cltt-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td>člena</td><td></td></tr>
+  <tr><td><tt><tt><a href="cs_cltt-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td>členů</td><td>členů</td></tr>
+  <tr><td><tt><tt><a href="cs_cltt-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td>členy</td><td></td></tr>
 </table>
 
 `Animacy` seems to be **lexical feature** of `NOUN`. 100% lemmas (298) occur only with one value of `Animacy`.
 
 ### `ADJ`
 
-2622 <tt>[ADJ](cs_cltt-pos-ADJ.html)</tt> tokens (40% of all `ADJ` tokens) have a non-empty value of `Animacy`.
+2622 <tt><a href="cs_cltt-pos-ADJ.html">ADJ</a></tt> tokens (40% of all `ADJ` tokens) have a non-empty value of `Animacy`.
 
-The most frequent other feature values with which `ADJ` and `Animacy` co-occurred: <tt>[Gender](cs_cltt-feat-Gender.html)</tt><tt>=Masc</tt> (2564; 98%), <tt>[Polarity](cs_cltt-feat-Polarity.html)</tt><tt>=Pos</tt> (2528; 96%), <tt>[Degree](cs_cltt-feat-Degree.html)</tt><tt>=Pos</tt> (2402; 92%), <tt>[Number](cs_cltt-feat-Number.html)</tt><tt>=Sing</tt> (1516; 58%).
+The most frequent other feature values with which `ADJ` and `Animacy` co-occurred: <tt><a href="cs_cltt-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (2564; 98%), <tt><a href="cs_cltt-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (2528; 96%), <tt><a href="cs_cltt-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (2402; 92%), <tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1516; 58%).
 
 `ADJ` tokens may have the following values of `Animacy`:
 
@@ -51,26 +51,26 @@ The most frequent other feature values with which `ADJ` and `Animacy` co-occurre
 
 <table>
   <tr><th>Paradigm <i>právní</i></th><th><tt>Anim</tt></th><th><tt>Inan</tt></th></tr>
-  <tr><td><tt><tt>[Case](cs_cltt-feat-Case.html)</tt><tt>=Acc</tt>|<tt>[Number](cs_cltt-feat-Number.html)</tt><tt>=Sing</tt></tt></td><td>právního</td><td>právní</td></tr>
-  <tr><td><tt><tt>[Case](cs_cltt-feat-Case.html)</tt><tt>=Acc</tt>|<tt>[Number](cs_cltt-feat-Number.html)</tt><tt>=Plur</tt></tt></td><td></td><td>právní</td></tr>
-  <tr><td><tt><tt>[Case](cs_cltt-feat-Case.html)</tt><tt>=Dat</tt>|<tt>[Number](cs_cltt-feat-Number.html)</tt><tt>=Sing</tt></tt></td><td></td><td>právnímu</td></tr>
-  <tr><td><tt><tt>[Case](cs_cltt-feat-Case.html)</tt><tt>=Dat</tt>|<tt>[Number](cs_cltt-feat-Number.html)</tt><tt>=Plur</tt></tt></td><td></td><td>právním</td></tr>
-  <tr><td><tt><tt>[Case](cs_cltt-feat-Case.html)</tt><tt>=Gen</tt>|<tt>[Number](cs_cltt-feat-Number.html)</tt><tt>=Sing</tt></tt></td><td></td><td>právního</td></tr>
-  <tr><td><tt><tt>[Case](cs_cltt-feat-Case.html)</tt><tt>=Gen</tt>|<tt>[Number](cs_cltt-feat-Number.html)</tt><tt>=Plur</tt></tt></td><td></td><td>právních</td></tr>
-  <tr><td><tt><tt>[Case](cs_cltt-feat-Case.html)</tt><tt>=Ins</tt>|<tt>[Number](cs_cltt-feat-Number.html)</tt><tt>=Sing</tt></tt></td><td></td><td>právním</td></tr>
-  <tr><td><tt><tt>[Case](cs_cltt-feat-Case.html)</tt><tt>=Ins</tt>|<tt>[Number](cs_cltt-feat-Number.html)</tt><tt>=Plur</tt></tt></td><td></td><td>právními</td></tr>
-  <tr><td><tt><tt>[Case](cs_cltt-feat-Case.html)</tt><tt>=Loc</tt>|<tt>[Number](cs_cltt-feat-Number.html)</tt><tt>=Plur</tt></tt></td><td></td><td>právních</td></tr>
-  <tr><td><tt><tt>[Case](cs_cltt-feat-Case.html)</tt><tt>=Nom</tt>|<tt>[Number](cs_cltt-feat-Number.html)</tt><tt>=Sing</tt></tt></td><td></td><td>právní</td></tr>
-  <tr><td><tt><tt>[Case](cs_cltt-feat-Case.html)</tt><tt>=Nom</tt>|<tt>[Number](cs_cltt-feat-Number.html)</tt><tt>=Plur</tt></tt></td><td></td><td>právní</td></tr>
+  <tr><td><tt><tt><a href="cs_cltt-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td>právního</td><td>právní</td></tr>
+  <tr><td><tt><tt><a href="cs_cltt-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td>právní</td></tr>
+  <tr><td><tt><tt><a href="cs_cltt-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td>právnímu</td></tr>
+  <tr><td><tt><tt><a href="cs_cltt-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td>právním</td></tr>
+  <tr><td><tt><tt><a href="cs_cltt-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td>právního</td></tr>
+  <tr><td><tt><tt><a href="cs_cltt-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td>právních</td></tr>
+  <tr><td><tt><tt><a href="cs_cltt-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td>právním</td></tr>
+  <tr><td><tt><tt><a href="cs_cltt-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td>právními</td></tr>
+  <tr><td><tt><tt><a href="cs_cltt-feat-Case.html">Case</a></tt><tt>=Loc</tt>|<tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td>právních</td></tr>
+  <tr><td><tt><tt><a href="cs_cltt-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td>právní</td></tr>
+  <tr><td><tt><tt><a href="cs_cltt-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td>právní</td></tr>
 </table>
 
 `Animacy` seems to be **lexical feature** of `ADJ`. 91% lemmas (334) occur only with one value of `Animacy`.
 
 ### `VERB`
 
-144 <tt>[VERB](cs_cltt-pos-VERB.html)</tt> tokens (7% of all `VERB` tokens) have a non-empty value of `Animacy`.
+144 <tt><a href="cs_cltt-pos-VERB.html">VERB</a></tt> tokens (7% of all `VERB` tokens) have a non-empty value of `Animacy`.
 
-The most frequent other feature values with which `VERB` and `Animacy` co-occurred: <tt>[VerbForm](cs_cltt-feat-VerbForm.html)</tt><tt>=Part</tt> (144; 100%), <tt>[Number](cs_cltt-feat-Number.html)</tt><tt>=Plur</tt> (144; 100%), <tt>[Person](cs_cltt-feat-Person.html)</tt><tt>=EMPTY</tt> (144; 100%), <tt>[Mood](cs_cltt-feat-Mood.html)</tt><tt>=EMPTY</tt> (144; 100%), <tt>[Gender](cs_cltt-feat-Gender.html)</tt><tt>=Fem,Masc</tt> (142; 99%), <tt>[Polarity](cs_cltt-feat-Polarity.html)</tt><tt>=Pos</tt> (139; 97%), <tt>[Voice](cs_cltt-feat-Voice.html)</tt><tt>=Pass</tt> (107; 74%), <tt>[Tense](cs_cltt-feat-Tense.html)</tt><tt>=EMPTY</tt> (107; 74%).
+The most frequent other feature values with which `VERB` and `Animacy` co-occurred: <tt><a href="cs_cltt-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (144; 100%), <tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Plur</tt> (144; 100%), <tt><a href="cs_cltt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (144; 100%), <tt><a href="cs_cltt-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (144; 100%), <tt><a href="cs_cltt-feat-Gender.html">Gender</a></tt><tt>=Fem,Masc</tt> (142; 99%), <tt><a href="cs_cltt-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (139; 97%), <tt><a href="cs_cltt-feat-Voice.html">Voice</a></tt><tt>=Pass</tt> (107; 74%), <tt><a href="cs_cltt-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (107; 74%).
 
 `VERB` tokens may have the following values of `Animacy`:
 
@@ -80,17 +80,17 @@ The most frequent other feature values with which `VERB` and `Animacy` co-occurr
 
 <table>
   <tr><th>Paradigm <i>schválit</i></th><th><tt>Anim</tt></th><th><tt>Inan</tt></th></tr>
-  <tr><td><tt><tt>[Gender](cs_cltt-feat-Gender.html)</tt><tt>=Masc</tt>|<tt>[Tense](cs_cltt-feat-Tense.html)</tt><tt>=Past</tt>|<tt>[Voice](cs_cltt-feat-Voice.html)</tt><tt>=Act</tt></tt></td><td>schválili</td><td></td></tr>
-  <tr><td><tt><tt>[Gender](cs_cltt-feat-Gender.html)</tt><tt>=Fem,Masc</tt>|<tt>[Voice](cs_cltt-feat-Voice.html)</tt><tt>=Pass</tt></tt></td><td></td><td>schváleny</td></tr>
+  <tr><td><tt><tt><a href="cs_cltt-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="cs_cltt-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="cs_cltt-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td>schválili</td><td></td></tr>
+  <tr><td><tt><tt><a href="cs_cltt-feat-Gender.html">Gender</a></tt><tt>=Fem,Masc</tt>|<tt><a href="cs_cltt-feat-Voice.html">Voice</a></tt><tt>=Pass</tt></tt></td><td></td><td>schváleny</td></tr>
 </table>
 
 `Animacy` seems to be **lexical feature** of `VERB`. 99% lemmas (68) occur only with one value of `Animacy`.
 
 ### `PRON`
 
-57 <tt>[PRON](cs_cltt-pos-PRON.html)</tt> tokens (5% of all `PRON` tokens) have a non-empty value of `Animacy`.
+57 <tt><a href="cs_cltt-pos-PRON.html">PRON</a></tt> tokens (5% of all `PRON` tokens) have a non-empty value of `Animacy`.
 
-The most frequent other feature values with which `PRON` and `Animacy` co-occurred: <tt>[Variant](cs_cltt-feat-Variant.html)</tt><tt>=EMPTY</tt> (57; 100%), <tt>[Reflex](cs_cltt-feat-Reflex.html)</tt><tt>=EMPTY</tt> (57; 100%), <tt>[Gender](cs_cltt-feat-Gender.html)</tt><tt>=Masc</tt> (57; 100%), <tt>[PronType](cs_cltt-feat-PronType.html)</tt><tt>=Int,Rel</tt> (52; 91%), <tt>[Number](cs_cltt-feat-Number.html)</tt><tt>=Plur</tt> (50; 88%), <tt>[Case](cs_cltt-feat-Case.html)</tt><tt>=Nom</tt> (48; 84%).
+The most frequent other feature values with which `PRON` and `Animacy` co-occurred: <tt><a href="cs_cltt-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (57; 100%), <tt><a href="cs_cltt-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (57; 100%), <tt><a href="cs_cltt-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (57; 100%), <tt><a href="cs_cltt-feat-PronType.html">PronType</a></tt><tt>=Int,Rel</tt> (52; 91%), <tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Plur</tt> (50; 88%), <tt><a href="cs_cltt-feat-Case.html">Case</a></tt><tt>=Nom</tt> (48; 84%).
 
 `PRON` tokens may have the following values of `Animacy`:
 
@@ -100,9 +100,9 @@ The most frequent other feature values with which `PRON` and `Animacy` co-occurr
 
 ### `DET`
 
-30 <tt>[DET](cs_cltt-pos-DET.html)</tt> tokens (5% of all `DET` tokens) have a non-empty value of `Animacy`.
+30 <tt><a href="cs_cltt-pos-DET.html">DET</a></tt> tokens (5% of all `DET` tokens) have a non-empty value of `Animacy`.
 
-The most frequent other feature values with which `DET` and `Animacy` co-occurred: <tt>[Gender](cs_cltt-feat-Gender.html)</tt><tt>=Masc</tt> (30; 100%), <tt>[Number[psor]](cs_cltt-feat-Number-psor.html)</tt><tt>=EMPTY</tt> (28; 93%), <tt>[Gender[psor]](cs_cltt-feat-Gender-psor.html)</tt><tt>=EMPTY</tt> (28; 93%), <tt>[Person](cs_cltt-feat-Person.html)</tt><tt>=EMPTY</tt> (28; 93%), <tt>[Poss](cs_cltt-feat-Poss.html)</tt><tt>=EMPTY</tt> (25; 83%), <tt>[PronType](cs_cltt-feat-PronType.html)</tt><tt>=Dem</tt> (24; 80%), <tt>[Case](cs_cltt-feat-Case.html)</tt><tt>=Acc</tt> (20; 67%), <tt>[Number](cs_cltt-feat-Number.html)</tt><tt>=Plur</tt> (16; 53%).
+The most frequent other feature values with which `DET` and `Animacy` co-occurred: <tt><a href="cs_cltt-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (30; 100%), <tt><a href="cs_cltt-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (28; 93%), <tt><a href="cs_cltt-feat-Gender-psor.html">Gender[psor]</a></tt><tt>=EMPTY</tt> (28; 93%), <tt><a href="cs_cltt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (28; 93%), <tt><a href="cs_cltt-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (25; 83%), <tt><a href="cs_cltt-feat-PronType.html">PronType</a></tt><tt>=Dem</tt> (24; 80%), <tt><a href="cs_cltt-feat-Case.html">Case</a></tt><tt>=Acc</tt> (20; 67%), <tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Plur</tt> (16; 53%).
 
 `DET` tokens may have the following values of `Animacy`:
 
@@ -111,9 +111,9 @@ The most frequent other feature values with which `DET` and `Animacy` co-occurre
 
 ### `AUX`
 
-27 <tt>[AUX](cs_cltt-pos-AUX.html)</tt> tokens (4% of all `AUX` tokens) have a non-empty value of `Animacy`.
+27 <tt><a href="cs_cltt-pos-AUX.html">AUX</a></tt> tokens (4% of all `AUX` tokens) have a non-empty value of `Animacy`.
 
-The most frequent other feature values with which `AUX` and `Animacy` co-occurred: <tt>[Number](cs_cltt-feat-Number.html)</tt><tt>=Plur</tt> (27; 100%), <tt>[Person](cs_cltt-feat-Person.html)</tt><tt>=EMPTY</tt> (27; 100%), <tt>[Mood](cs_cltt-feat-Mood.html)</tt><tt>=EMPTY</tt> (27; 100%), <tt>[Gender](cs_cltt-feat-Gender.html)</tt><tt>=Fem,Masc</tt> (26; 96%), <tt>[Tense](cs_cltt-feat-Tense.html)</tt><tt>=Past</tt> (26; 96%), <tt>[Voice](cs_cltt-feat-Voice.html)</tt><tt>=Act</tt> (26; 96%), <tt>[VerbForm](cs_cltt-feat-VerbForm.html)</tt><tt>=Part</tt> (26; 96%), <tt>[Polarity](cs_cltt-feat-Polarity.html)</tt><tt>=Pos</tt> (20; 74%).
+The most frequent other feature values with which `AUX` and `Animacy` co-occurred: <tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Plur</tt> (27; 100%), <tt><a href="cs_cltt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (27; 100%), <tt><a href="cs_cltt-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (27; 100%), <tt><a href="cs_cltt-feat-Gender.html">Gender</a></tt><tt>=Fem,Masc</tt> (26; 96%), <tt><a href="cs_cltt-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (26; 96%), <tt><a href="cs_cltt-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (26; 96%), <tt><a href="cs_cltt-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (26; 96%), <tt><a href="cs_cltt-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (20; 74%).
 
 `AUX` tokens may have the following values of `Animacy`:
 
@@ -122,9 +122,9 @@ The most frequent other feature values with which `AUX` and `Animacy` co-occurre
 
 ### `NUM`
 
-12 <tt>[NUM](cs_cltt-pos-NUM.html)</tt> tokens (3% of all `NUM` tokens) have a non-empty value of `Animacy`.
+12 <tt><a href="cs_cltt-pos-NUM.html">NUM</a></tt> tokens (3% of all `NUM` tokens) have a non-empty value of `Animacy`.
 
-The most frequent other feature values with which `NUM` and `Animacy` co-occurred: <tt>[Case](cs_cltt-feat-Case.html)</tt><tt>=Acc</tt> (12; 100%), <tt>[Number](cs_cltt-feat-Number.html)</tt><tt>=Sing</tt> (12; 100%), <tt>[Gender](cs_cltt-feat-Gender.html)</tt><tt>=Masc</tt> (12; 100%), <tt>[NumType](cs_cltt-feat-NumType.html)</tt><tt>=Card</tt> (12; 100%), <tt>[NumValue](cs_cltt-feat-NumValue.html)</tt><tt>=1,2,3</tt> (12; 100%), <tt>[NumForm](cs_cltt-feat-NumForm.html)</tt><tt>=Word</tt> (12; 100%).
+The most frequent other feature values with which `NUM` and `Animacy` co-occurred: <tt><a href="cs_cltt-feat-Case.html">Case</a></tt><tt>=Acc</tt> (12; 100%), <tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (12; 100%), <tt><a href="cs_cltt-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (12; 100%), <tt><a href="cs_cltt-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (12; 100%), <tt><a href="cs_cltt-feat-NumValue.html">NumValue</a></tt><tt>=1,2,3</tt> (12; 100%), <tt><a href="cs_cltt-feat-NumForm.html">NumForm</a></tt><tt>=Word</tt> (12; 100%).
 
 `NUM` tokens may have the following values of `Animacy`:
 

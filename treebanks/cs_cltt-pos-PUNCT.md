@@ -13,17 +13,17 @@ The 10 most frequent `PUNCT` lemmas: , . ; ( ) (1) (2) (3) (4) (5)
 
 The 10 most frequent `PUNCT` types:  , . ; ( ) (1) (2) (3) (4) (5)
 
-The 10 most frequent ambiguous lemmas: - (<tt>[X](cs_cltt-pos-X.html)</tt> 18, <tt>[PUNCT](cs_cltt-pos-PUNCT.html)</tt> 15), / (<tt>[SYM](cs_cltt-pos-SYM.html)</tt> 2, <tt>[PUNCT](cs_cltt-pos-PUNCT.html)</tt> 2)
+The 10 most frequent ambiguous lemmas: - (<tt><a href="cs_cltt-pos-X.html">X</a></tt> 18, <tt><a href="cs_cltt-pos-PUNCT.html">PUNCT</a></tt> 15), / (<tt><a href="cs_cltt-pos-SYM.html">SYM</a></tt> 2, <tt><a href="cs_cltt-pos-PUNCT.html">PUNCT</a></tt> 2)
 
-The 10 most frequent ambiguous types:  - (<tt>[X](cs_cltt-pos-X.html)</tt> 18, <tt>[PUNCT](cs_cltt-pos-PUNCT.html)</tt> 15), / (<tt>[SYM](cs_cltt-pos-SYM.html)</tt> 2, <tt>[PUNCT](cs_cltt-pos-PUNCT.html)</tt> 2)
+The 10 most frequent ambiguous types:  - (<tt><a href="cs_cltt-pos-X.html">X</a></tt> 18, <tt><a href="cs_cltt-pos-PUNCT.html">PUNCT</a></tt> 15), / (<tt><a href="cs_cltt-pos-SYM.html">SYM</a></tt> 2, <tt><a href="cs_cltt-pos-PUNCT.html">PUNCT</a></tt> 2)
 
 
 * -
-  * <tt>[X](cs_cltt-pos-X.html)</tt> 18: (6) Položka "C.III.6. Stát <b>-</b> daňové pohledávky" obsahuje zejména pohledávky z titulu přímých a nepřímých daní a uhrazených daňových záloh .
-  * <tt>[PUNCT](cs_cltt-pos-PUNCT.html)</tt> 15: (4) Rozdíl mezi součtem počátečních zůstatků nově otevřených účtů aktiv a mezi součtem počátečních zůstatků nově otevřených účtů pasiv se uvede na účet v účtové skupině 49 , a to v závislosti na povaze zjištěného rozdílu ( + / <b>-</b> ) jako zůstatek aktivní nebo pasivní .
+  * <tt><a href="cs_cltt-pos-X.html">X</a></tt> 18: (6) Položka "C.III.6. Stát <b>-</b> daňové pohledávky" obsahuje zejména pohledávky z titulu přímých a nepřímých daní a uhrazených daňových záloh .
+  * <tt><a href="cs_cltt-pos-PUNCT.html">PUNCT</a></tt> 15: (4) Rozdíl mezi součtem počátečních zůstatků nově otevřených účtů aktiv a mezi součtem počátečních zůstatků nově otevřených účtů pasiv se uvede na účet v účtové skupině 49 , a to v závislosti na povaze zjištěného rozdílu ( + / <b>-</b> ) jako zůstatek aktivní nebo pasivní .
 * /
-  * <tt>[SYM](cs_cltt-pos-SYM.html)</tt> 2: Odpisová sazba na jednotku těženého množství ( Kč <b>/</b> t , Kč <b>/</b> m je podílem pořizovací ceny ložiska na jednotlivém pozemku a zásob nevyhrazeného nerostu ( t , m prokázaných geologickým průzkumem na tomto pozemku .
-  * <tt>[PUNCT](cs_cltt-pos-PUNCT.html)</tt> 2: (4) Rozdíl mezi součtem počátečních zůstatků nově otevřených účtů aktiv a mezi součtem počátečních zůstatků nově otevřených účtů pasiv se uvede na účet v účtové skupině 49 , a to v závislosti na povaze zjištěného rozdílu ( + <b>/</b> - ) jako zůstatek aktivní nebo pasivní .
+  * <tt><a href="cs_cltt-pos-SYM.html">SYM</a></tt> 2: Odpisová sazba na jednotku těženého množství ( Kč <b>/</b> t , Kč <b>/</b> m je podílem pořizovací ceny ložiska na jednotlivém pozemku a zásob nevyhrazeného nerostu ( t , m prokázaných geologickým průzkumem na tomto pozemku .
+  * <tt><a href="cs_cltt-pos-PUNCT.html">PUNCT</a></tt> 2: (4) Rozdíl mezi součtem počátečních zůstatků nově otevřených účtů aktiv a mezi součtem počátečních zůstatků nově otevřených účtů pasiv se uvede na účet v účtové skupině 49 , a to v závislosti na povaze zjištěného rozdílu ( + <b>/</b> - ) jako zůstatek aktivní nebo pasivní .
 
 ## Morphology
 
@@ -40,9 +40,9 @@ The 3rd highest number of forms (1) was observed with the lemma “(1)”: (1).
 
 ## Relations
 
-`PUNCT` nodes are attached to their parents using 2 different relations: <tt>[punct](cs_cltt-dep-punct.html)</tt> (3991; 100% instances), <tt>[conj](cs_cltt-dep-conj.html)</tt> (3; 0% instances)
+`PUNCT` nodes are attached to their parents using 2 different relations: <tt><a href="cs_cltt-dep-punct.html">punct</a></tt> (3991; 100% instances), <tt><a href="cs_cltt-dep-conj.html">conj</a></tt> (3; 0% instances)
 
-Parents of `PUNCT` nodes belong to 12 different parts of speech: <tt>[VERB](cs_cltt-pos-VERB.html)</tt> (2144; 54% instances), <tt>[NOUN](cs_cltt-pos-NOUN.html)</tt> (1290; 32% instances), <tt>[ADJ](cs_cltt-pos-ADJ.html)</tt> (315; 8% instances), <tt>[X](cs_cltt-pos-X.html)</tt> (122; 3% instances), <tt>[NUM](cs_cltt-pos-NUM.html)</tt> (87; 2% instances), <tt>[ADV](cs_cltt-pos-ADV.html)</tt> (15; 0% instances), <tt>[PART](cs_cltt-pos-PART.html)</tt> (8; 0% instances), <tt>[PRON](cs_cltt-pos-PRON.html)</tt> (7; 0% instances), <tt>[PUNCT](cs_cltt-pos-PUNCT.html)</tt> (2; 0% instances), <tt>[SYM](cs_cltt-pos-SYM.html)</tt> (2; 0% instances), <tt>[DET](cs_cltt-pos-DET.html)</tt> (1; 0% instances), <tt>[SCONJ](cs_cltt-pos-SCONJ.html)</tt> (1; 0% instances)
+Parents of `PUNCT` nodes belong to 12 different parts of speech: <tt><a href="cs_cltt-pos-VERB.html">VERB</a></tt> (2144; 54% instances), <tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt> (1290; 32% instances), <tt><a href="cs_cltt-pos-ADJ.html">ADJ</a></tt> (315; 8% instances), <tt><a href="cs_cltt-pos-X.html">X</a></tt> (122; 3% instances), <tt><a href="cs_cltt-pos-NUM.html">NUM</a></tt> (87; 2% instances), <tt><a href="cs_cltt-pos-ADV.html">ADV</a></tt> (15; 0% instances), <tt><a href="cs_cltt-pos-PART.html">PART</a></tt> (8; 0% instances), <tt><a href="cs_cltt-pos-PRON.html">PRON</a></tt> (7; 0% instances), <tt><a href="cs_cltt-pos-PUNCT.html">PUNCT</a></tt> (2; 0% instances), <tt><a href="cs_cltt-pos-SYM.html">SYM</a></tt> (2; 0% instances), <tt><a href="cs_cltt-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="cs_cltt-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances)
 
 3991 (100%) `PUNCT` nodes are leaves.
 
@@ -50,7 +50,7 @@ Parents of `PUNCT` nodes belong to 12 different parts of speech: <tt>[VERB](cs_c
 
 The highest child degree of a `PUNCT` node is 1.
 
-Children of `PUNCT` nodes are attached using 2 different relations: <tt>[punct](cs_cltt-dep-punct.html)</tt> (2; 67% instances), <tt>[cc](cs_cltt-dep-cc.html)</tt> (1; 33% instances)
+Children of `PUNCT` nodes are attached using 2 different relations: <tt><a href="cs_cltt-dep-punct.html">punct</a></tt> (2; 67% instances), <tt><a href="cs_cltt-dep-cc.html">cc</a></tt> (1; 33% instances)
 
-Children of `PUNCT` nodes belong to 2 different parts of speech: <tt>[PUNCT](cs_cltt-pos-PUNCT.html)</tt> (2; 67% instances), <tt>[CCONJ](cs_cltt-pos-CCONJ.html)</tt> (1; 33% instances)
+Children of `PUNCT` nodes belong to 2 different parts of speech: <tt><a href="cs_cltt-pos-PUNCT.html">PUNCT</a></tt> (2; 67% instances), <tt><a href="cs_cltt-pos-CCONJ.html">CCONJ</a></tt> (1; 33% instances)
 

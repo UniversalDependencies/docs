@@ -12,13 +12,13 @@ It occurs with 1 different values: `Yes`.
 35 tokens (0%) have a non-empty value of `Abbr`.
 8 types (0%) occur at least once with a non-empty value of `Abbr`.
 10 lemmas (0%) occur at least once with a non-empty value of `Abbr`.
-The feature is used with 4 part-of-speech tags: <tt>[NOUN](cs_cltt-pos-NOUN.html)</tt> (27; 0% instances), <tt>[ADJ](cs_cltt-pos-ADJ.html)</tt> (4; 0% instances), <tt>[ADV](cs_cltt-pos-ADV.html)</tt> (3; 0% instances), <tt>[PRON](cs_cltt-pos-PRON.html)</tt> (1; 0% instances).
+The feature is used with 4 part-of-speech tags: <tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt> (27; 0% instances), <tt><a href="cs_cltt-pos-ADJ.html">ADJ</a></tt> (4; 0% instances), <tt><a href="cs_cltt-pos-ADV.html">ADV</a></tt> (3; 0% instances), <tt><a href="cs_cltt-pos-PRON.html">PRON</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
-27 <tt>[NOUN](cs_cltt-pos-NOUN.html)</tt> tokens (0% of all `NOUN` tokens) have a non-empty value of `Abbr`.
+27 <tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt> tokens (0% of all `NOUN` tokens) have a non-empty value of `Abbr`.
 
-The most frequent other feature values with which `NOUN` and `Abbr` co-occurred: <tt>[Number](cs_cltt-feat-Number.html)</tt><tt>=EMPTY</tt> (27; 100%), <tt>[Polarity](cs_cltt-feat-Polarity.html)</tt><tt>=Pos</tt> (27; 100%), <tt>[Case](cs_cltt-feat-Case.html)</tt><tt>=EMPTY</tt> (27; 100%), <tt>[Animacy](cs_cltt-feat-Animacy.html)</tt><tt>=EMPTY</tt> (20; 74%), <tt>[Gender](cs_cltt-feat-Gender.html)</tt><tt>=Fem</tt> (20; 74%).
+The most frequent other feature values with which `NOUN` and `Abbr` co-occurred: <tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (27; 100%), <tt><a href="cs_cltt-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (27; 100%), <tt><a href="cs_cltt-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (27; 100%), <tt><a href="cs_cltt-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (20; 74%), <tt><a href="cs_cltt-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (20; 74%).
 
 `NOUN` tokens may have the following values of `Abbr`:
 
@@ -27,9 +27,9 @@ The most frequent other feature values with which `NOUN` and `Abbr` co-occurred:
 
 ### `ADJ`
 
-4 <tt>[ADJ](cs_cltt-pos-ADJ.html)</tt> tokens (0% of all `ADJ` tokens) have a non-empty value of `Abbr`.
+4 <tt><a href="cs_cltt-pos-ADJ.html">ADJ</a></tt> tokens (0% of all `ADJ` tokens) have a non-empty value of `Abbr`.
 
-The most frequent other feature values with which `ADJ` and `Abbr` co-occurred: <tt>[Animacy](cs_cltt-feat-Animacy.html)</tt><tt>=EMPTY</tt> (4; 100%), <tt>[Degree](cs_cltt-feat-Degree.html)</tt><tt>=Pos</tt> (4; 100%), <tt>[Gender](cs_cltt-feat-Gender.html)</tt><tt>=EMPTY</tt> (4; 100%), <tt>[Number](cs_cltt-feat-Number.html)</tt><tt>=EMPTY</tt> (4; 100%), <tt>[Case](cs_cltt-feat-Case.html)</tt><tt>=EMPTY</tt> (4; 100%), <tt>[Polarity](cs_cltt-feat-Polarity.html)</tt><tt>=Pos</tt> (4; 100%).
+The most frequent other feature values with which `ADJ` and `Abbr` co-occurred: <tt><a href="cs_cltt-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (4; 100%), <tt><a href="cs_cltt-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (4; 100%), <tt><a href="cs_cltt-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (4; 100%), <tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (4; 100%), <tt><a href="cs_cltt-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (4; 100%), <tt><a href="cs_cltt-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (4; 100%).
 
 `ADJ` tokens may have the following values of `Abbr`:
 
@@ -38,9 +38,9 @@ The most frequent other feature values with which `ADJ` and `Abbr` co-occurred: 
 
 ### `ADV`
 
-3 <tt>[ADV](cs_cltt-pos-ADV.html)</tt> tokens (0% of all `ADV` tokens) have a non-empty value of `Abbr`.
+3 <tt><a href="cs_cltt-pos-ADV.html">ADV</a></tt> tokens (0% of all `ADV` tokens) have a non-empty value of `Abbr`.
 
-The most frequent other feature values with which `ADV` and `Abbr` co-occurred: <tt>[Degree](cs_cltt-feat-Degree.html)</tt><tt>=Pos</tt> (3; 100%), <tt>[Polarity](cs_cltt-feat-Polarity.html)</tt><tt>=Pos</tt> (3; 100%).
+The most frequent other feature values with which `ADV` and `Abbr` co-occurred: <tt><a href="cs_cltt-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (3; 100%), <tt><a href="cs_cltt-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (3; 100%).
 
 `ADV` tokens may have the following values of `Abbr`:
 
@@ -49,9 +49,9 @@ The most frequent other feature values with which `ADV` and `Abbr` co-occurred: 
 
 ### `PRON`
 
-1 <tt>[PRON](cs_cltt-pos-PRON.html)</tt> tokens (0% of all `PRON` tokens) have a non-empty value of `Abbr`.
+1 <tt><a href="cs_cltt-pos-PRON.html">PRON</a></tt> tokens (0% of all `PRON` tokens) have a non-empty value of `Abbr`.
 
-The most frequent other feature values with which `PRON` and `Abbr` co-occurred: <tt>[Reflex](cs_cltt-feat-Reflex.html)</tt><tt>=EMPTY</tt> (1; 100%), <tt>[Variant](cs_cltt-feat-Variant.html)</tt><tt>=EMPTY</tt> (1; 100%), <tt>[PronType](cs_cltt-feat-PronType.html)</tt><tt>=Dem</tt> (1; 100%), <tt>[Gender](cs_cltt-feat-Gender.html)</tt><tt>=EMPTY</tt> (1; 100%), <tt>[Number](cs_cltt-feat-Number.html)</tt><tt>=EMPTY</tt> (1; 100%), <tt>[Case](cs_cltt-feat-Case.html)</tt><tt>=EMPTY</tt> (1; 100%).
+The most frequent other feature values with which `PRON` and `Abbr` co-occurred: <tt><a href="cs_cltt-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="cs_cltt-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="cs_cltt-feat-PronType.html">PronType</a></tt><tt>=Dem</tt> (1; 100%), <tt><a href="cs_cltt-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="cs_cltt-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (1; 100%).
 
 `PRON` tokens may have the following values of `Abbr`:
 
