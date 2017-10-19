@@ -1,3 +1,9 @@
+---
+layout: base
+title:  'Statistics of Gender[psor] in UD_Czech-CLTT'
+udver: '2'
+---
+
 
 
 --------------------------------------------------------------------------------

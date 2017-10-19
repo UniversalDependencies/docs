@@ -1,3 +1,9 @@
+---
+layout: base
+title:  'Statistics of nsubj:pass in UD_Czech-CLTT'
+udver: '2'
+---
+
 
 
 --------------------------------------------------------------------------------
