@@ -4,11 +4,7 @@ title:  'Statistics of aux in UD_Czech-CLTT'
 udver: '2'
 ---
 
-
-
---------------------------------------------------------------------------------
-
-## Treebank Statistics (UD_Czech-CLTT)
+## Treebank Statistics: UD_Czech-CLTT: Relations: `aux`
 
 This relation is universal.
 There are 1 language-specific subtypes of `aux`: [aux:pass]().

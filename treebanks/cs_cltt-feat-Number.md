@@ -4,11 +4,7 @@ title:  'Statistics of Number in UD_Czech-CLTT'
 udver: '2'
 ---
 
-
-
---------------------------------------------------------------------------------
-
-## Treebank Statistics (UD_Czech-CLTT)
+## Treebank Statistics: UD_Czech-CLTT: Features: `Number`
 
 This feature is universal.
 It occurs with 2 different values: `Plur`, `Sing`.

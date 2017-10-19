@@ -4,11 +4,7 @@ title:  'Statistics of advmod:emph in UD_Czech-CLTT'
 udver: '2'
 ---
 
-
-
---------------------------------------------------------------------------------
-
-## Treebank Statistics (UD_Czech-CLTT)
+## Treebank Statistics: UD_Czech-CLTT: Relations: `advmod:emph`
 
 This relation is a language-specific subtype of [advmod]().
 

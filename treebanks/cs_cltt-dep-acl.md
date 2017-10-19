@@ -4,11 +4,7 @@ title:  'Statistics of acl in UD_Czech-CLTT'
 udver: '2'
 ---
 
-
-
---------------------------------------------------------------------------------
-
-## Treebank Statistics (UD_Czech-CLTT)
+## Treebank Statistics: UD_Czech-CLTT: Relations: `acl`
 
 This relation is universal.
 

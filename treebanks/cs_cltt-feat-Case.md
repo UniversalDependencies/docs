@@ -4,11 +4,7 @@ title:  'Statistics of Case in UD_Czech-CLTT'
 udver: '2'
 ---
 
-
-
---------------------------------------------------------------------------------
-
-## Treebank Statistics (UD_Czech-CLTT)
+## Treebank Statistics: UD_Czech-CLTT: Features: `Case`
 
 This feature is universal.
 It occurs with 6 different values: `Acc`, `Dat`, `Gen`, `Ins`, `Loc`, `Nom`.

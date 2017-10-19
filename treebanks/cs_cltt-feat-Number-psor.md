@@ -4,11 +4,7 @@ title:  'Statistics of Number[psor] in UD_Czech-CLTT'
 udver: '2'
 ---
 
-
-
---------------------------------------------------------------------------------
-
-## Treebank Statistics (UD_Czech-CLTT)
+## Treebank Statistics: UD_Czech-CLTT: Features: `Number[psor]`
 
 This feature is language-specific.
 It occurs with 2 different values: `Plur`, `Sing`.

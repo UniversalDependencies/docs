@@ -4,11 +4,7 @@ title:  'Statistics of Tense in UD_Czech-CLTT'
 udver: '2'
 ---
 
-
-
---------------------------------------------------------------------------------
-
-## Treebank Statistics (UD_Czech-CLTT)
+## Treebank Statistics: UD_Czech-CLTT: Features: `Tense`
 
 This feature is universal.
 It occurs with 3 different values: `Fut`, `Past`, `Pres`.

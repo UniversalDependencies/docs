@@ -4,11 +4,7 @@ title:  'Statistics of ADP in UD_Czech-CLTT'
 udver: '2'
 ---
 
-
-
---------------------------------------------------------------------------------
-
-## Treebank Statistics (UD_Czech-CLTT)
+## Treebank Statistics: UD_Czech-CLTT: POS Tags: `ADP`
 
 There are 32 `ADP` lemmas (1%), 39 `ADP` types (1%) and 3942 `ADP` tokens (11%).
 Out of 15 observed tags, the rank of `ADP` is: 7 in number of lemmas, 9 in number of types and 4 in number of tokens.

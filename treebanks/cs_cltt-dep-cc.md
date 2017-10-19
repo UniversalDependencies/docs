@@ -4,11 +4,7 @@ title:  'Statistics of cc in UD_Czech-CLTT'
 udver: '2'
 ---
 
-
-
---------------------------------------------------------------------------------
-
-## Treebank Statistics (UD_Czech-CLTT)
+## Treebank Statistics: UD_Czech-CLTT: Relations: `cc`
 
 This relation is universal.
 

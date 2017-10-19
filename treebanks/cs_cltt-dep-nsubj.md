@@ -4,11 +4,7 @@ title:  'Statistics of nsubj in UD_Czech-CLTT'
 udver: '2'
 ---
 
-
-
---------------------------------------------------------------------------------
-
-## Treebank Statistics (UD_Czech-CLTT)
+## Treebank Statistics: UD_Czech-CLTT: Relations: `nsubj`
 
 This relation is universal.
 There are 1 language-specific subtypes of `nsubj`: [nsubj:pass]().

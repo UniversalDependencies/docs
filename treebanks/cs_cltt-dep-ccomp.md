@@ -4,11 +4,7 @@ title:  'Statistics of ccomp in UD_Czech-CLTT'
 udver: '2'
 ---
 
-
-
---------------------------------------------------------------------------------
-
-## Treebank Statistics (UD_Czech-CLTT)
+## Treebank Statistics: UD_Czech-CLTT: Relations: `ccomp`
 
 This relation is universal.
 

@@ -4,11 +4,7 @@ title:  'Statistics of NOUN in UD_Czech-CLTT'
 udver: '2'
 ---
 
-
-
---------------------------------------------------------------------------------
-
-## Treebank Statistics (UD_Czech-CLTT)
+## Treebank Statistics: UD_Czech-CLTT: POS Tags: `NOUN`
 
 There are 860 `NOUN` lemmas (31%), 1667 `NOUN` types (35%) and 11296 `NOUN` tokens (30%).
 Out of 15 observed tags, the rank of `NOUN` is: 1 in number of lemmas, 1 in number of types and 1 in number of tokens.

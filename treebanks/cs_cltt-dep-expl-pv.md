@@ -4,11 +4,7 @@ title:  'Statistics of expl:pv in UD_Czech-CLTT'
 udver: '2'
 ---
 
-
-
---------------------------------------------------------------------------------
-
-## Treebank Statistics (UD_Czech-CLTT)
+## Treebank Statistics: UD_Czech-CLTT: Relations: `expl:pv`
 
 This relation is a language-specific subtype of [expl]().
 There are also 1 other language-specific subtypes of `expl`: [expl:pass]().

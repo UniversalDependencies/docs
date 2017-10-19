@@ -4,11 +4,7 @@ title:  'Statistics of VERB in UD_Czech-CLTT'
 udver: '2'
 ---
 
-
-
---------------------------------------------------------------------------------
-
-## Treebank Statistics (UD_Czech-CLTT)
+## Treebank Statistics: UD_Czech-CLTT: POS Tags: `VERB`
 
 There are 316 `VERB` lemmas (12%), 660 `VERB` types (14%) and 2117 `VERB` tokens (6%).
 Out of 15 observed tags, the rank of `VERB` is: 4 in number of lemmas, 3 in number of types and 6 in number of tokens.

@@ -4,11 +4,7 @@ title:  'Statistics of AUX in UD_Czech-CLTT'
 udver: '2'
 ---
 
-
-
---------------------------------------------------------------------------------
-
-## Treebank Statistics (UD_Czech-CLTT)
+## Treebank Statistics: UD_Czech-CLTT: POS Tags: `AUX`
 
 There are 6 `AUX` lemmas (0%), 20 `AUX` types (0%) and 604 `AUX` tokens (2%).
 Out of 15 observed tags, the rank of `AUX` is: 13 in number of lemmas, 11 in number of types and 10 in number of tokens.

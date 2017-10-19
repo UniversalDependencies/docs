@@ -4,11 +4,7 @@ title:  'Statistics of AdpType in UD_Czech-CLTT'
 udver: '2'
 ---
 
-
-
---------------------------------------------------------------------------------
-
-## Treebank Statistics (UD_Czech-CLTT)
+## Treebank Statistics: UD_Czech-CLTT: Features: `AdpType`
 
 This feature is language-specific.
 It occurs with 3 different values: `Comprep`, `Prep`, `Voc`.

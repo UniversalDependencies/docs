@@ -4,11 +4,7 @@ title:  'Statistics of PRON in UD_Czech-CLTT'
 udver: '2'
 ---
 
-
-
---------------------------------------------------------------------------------
-
-## Treebank Statistics (UD_Czech-CLTT)
+## Treebank Statistics: UD_Czech-CLTT: POS Tags: `PRON`
 
 There are 15 `PRON` lemmas (1%), 72 `PRON` types (2%) and 1212 `PRON` tokens (3%).
 Out of 15 observed tags, the rank of `PRON` is: 10 in number of lemmas, 7 in number of types and 8 in number of tokens.

@@ -4,11 +4,7 @@ title:  'Statistics of Gender in UD_Czech-CLTT'
 udver: '2'
 ---
 
-
-
---------------------------------------------------------------------------------
-
-## Treebank Statistics (UD_Czech-CLTT)
+## Treebank Statistics: UD_Czech-CLTT: Features: `Gender`
 
 This feature is universal.
 It occurs with 3 different values: `Fem`, `Masc`, `Neut`.

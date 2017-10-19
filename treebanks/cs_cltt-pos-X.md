@@ -4,11 +4,7 @@ title:  'Statistics of X in UD_Czech-CLTT'
 udver: '2'
 ---
 
-
-
---------------------------------------------------------------------------------
-
-## Treebank Statistics (UD_Czech-CLTT)
+## Treebank Statistics: UD_Czech-CLTT: POS Tags: `X`
 
 There are 569 `X` lemmas (21%), 569 `X` types (12%) and 3618 `X` tokens (10%).
 Out of 15 observed tags, the rank of `X` is: 3 in number of lemmas, 4 in number of types and 5 in number of tokens.

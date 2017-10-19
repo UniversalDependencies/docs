@@ -4,11 +4,7 @@ title:  'Statistics of ADJ in UD_Czech-CLTT'
 udver: '2'
 ---
 
-
-
---------------------------------------------------------------------------------
-
-## Treebank Statistics (UD_Czech-CLTT)
+## Treebank Statistics: UD_Czech-CLTT: POS Tags: `ADJ`
 
 There are 643 `ADJ` lemmas (23%), 1413 `ADJ` types (29%) and 6539 `ADJ` tokens (17%).
 Out of 15 observed tags, the rank of `ADJ` is: 2 in number of lemmas, 2 in number of types and 2 in number of tokens.

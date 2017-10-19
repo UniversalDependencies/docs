@@ -4,11 +4,7 @@ title:  'Statistics of DET in UD_Czech-CLTT'
 udver: '2'
 ---
 
-
-
---------------------------------------------------------------------------------
-
-## Treebank Statistics (UD_Czech-CLTT)
+## Treebank Statistics: UD_Czech-CLTT: POS Tags: `DET`
 
 There are 13 `DET` lemmas (0%), 56 `DET` types (1%) and 595 `DET` tokens (2%).
 Out of 15 observed tags, the rank of `DET` is: 12 in number of lemmas, 8 in number of types and 11 in number of tokens.

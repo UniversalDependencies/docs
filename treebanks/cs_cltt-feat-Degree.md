@@ -4,11 +4,7 @@ title:  'Statistics of Degree in UD_Czech-CLTT'
 udver: '2'
 ---
 
-
-
---------------------------------------------------------------------------------
-
-## Treebank Statistics (UD_Czech-CLTT)
+## Treebank Statistics: UD_Czech-CLTT: Features: `Degree`
 
 This feature is universal.
 It occurs with 3 different values: `Cmp`, `Pos`, `Sup`.

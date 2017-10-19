@@ -4,11 +4,7 @@ title:  'Statistics of mark in UD_Czech-CLTT'
 udver: '2'
 ---
 
-
-
---------------------------------------------------------------------------------
-
-## Treebank Statistics (UD_Czech-CLTT)
+## Treebank Statistics: UD_Czech-CLTT: Relations: `mark`
 
 This relation is universal.
 

@@ -4,11 +4,7 @@ title:  'Statistics of CCONJ in UD_Czech-CLTT'
 udver: '2'
 ---
 
-
-
---------------------------------------------------------------------------------
-
-## Treebank Statistics (UD_Czech-CLTT)
+## Treebank Statistics: UD_Czech-CLTT: POS Tags: `CCONJ`
 
 There are 14 `CCONJ` lemmas (1%), 14 `CCONJ` types (0%) and 1875 `CCONJ` tokens (5%).
 Out of 15 observed tags, the rank of `CCONJ` is: 11 in number of lemmas, 13 in number of types and 7 in number of tokens.

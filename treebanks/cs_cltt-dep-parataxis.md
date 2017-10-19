@@ -4,11 +4,7 @@ title:  'Statistics of parataxis in UD_Czech-CLTT'
 udver: '2'
 ---
 
-
-
---------------------------------------------------------------------------------
-
-## Treebank Statistics (UD_Czech-CLTT)
+## Treebank Statistics: UD_Czech-CLTT: Relations: `parataxis`
 
 This relation is universal.
 

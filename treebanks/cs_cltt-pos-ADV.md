@@ -4,11 +4,7 @@ title:  'Statistics of ADV in UD_Czech-CLTT'
 udver: '2'
 ---
 
-
-
---------------------------------------------------------------------------------
-
-## Treebank Statistics (UD_Czech-CLTT)
+## Treebank Statistics: UD_Czech-CLTT: POS Tags: `ADV`
 
 There are 133 `ADV` lemmas (5%), 137 `ADV` types (3%) and 787 `ADV` tokens (2%).
 Out of 15 observed tags, the rank of `ADV` is: 5 in number of lemmas, 5 in number of types and 9 in number of tokens.

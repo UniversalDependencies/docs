@@ -4,11 +4,7 @@ title:  'Statistics of PART in UD_Czech-CLTT'
 udver: '2'
 ---
 
-
-
---------------------------------------------------------------------------------
-
-## Treebank Statistics (UD_Czech-CLTT)
+## Treebank Statistics: UD_Czech-CLTT: POS Tags: `PART`
 
 There are 6 `PART` lemmas (0%), 6 `PART` types (0%) and 75 `PART` tokens (0%).
 Out of 15 observed tags, the rank of `PART` is: 14 in number of lemmas, 14 in number of types and 14 in number of tokens.

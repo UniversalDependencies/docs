@@ -4,11 +4,7 @@ title:  'Statistics of NumValue in UD_Czech-CLTT'
 udver: '2'
 ---
 
-
-
---------------------------------------------------------------------------------
-
-## Treebank Statistics (UD_Czech-CLTT)
+## Treebank Statistics: UD_Czech-CLTT: Features: `NumValue`
 
 This feature is language-specific.
 It occurs with 3 different values: `1`, `2`, `3`.

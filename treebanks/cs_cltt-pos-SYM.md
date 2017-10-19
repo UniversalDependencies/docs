@@ -4,11 +4,7 @@ title:  'Statistics of SYM in UD_Czech-CLTT'
 udver: '2'
 ---
 
-
-
---------------------------------------------------------------------------------
-
-## Treebank Statistics (UD_Czech-CLTT)
+## Treebank Statistics: UD_Czech-CLTT: POS Tags: `SYM`
 
 There are 3 `SYM` lemmas (0%), 3 `SYM` types (0%) and 18 `SYM` tokens (0%).
 Out of 15 observed tags, the rank of `SYM` is: 15 in number of lemmas, 15 in number of types and 15 in number of tokens.

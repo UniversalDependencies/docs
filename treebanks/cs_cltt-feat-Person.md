@@ -4,11 +4,7 @@ title:  'Statistics of Person in UD_Czech-CLTT'
 udver: '2'
 ---
 
-
-
---------------------------------------------------------------------------------
-
-## Treebank Statistics (UD_Czech-CLTT)
+## Treebank Statistics: UD_Czech-CLTT: Features: `Person`
 
 This feature is universal.
 It occurs with 1 different values: `3`.

@@ -4,11 +4,7 @@ title:  'Statistics of nummod:gov in UD_Czech-CLTT'
 udver: '2'
 ---
 
-
-
---------------------------------------------------------------------------------
-
-## Treebank Statistics (UD_Czech-CLTT)
+## Treebank Statistics: UD_Czech-CLTT: Relations: `nummod:gov`
 
 This relation is a language-specific subtype of [nummod]().
 

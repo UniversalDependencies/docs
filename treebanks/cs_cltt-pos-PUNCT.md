@@ -4,11 +4,7 @@ title:  'Statistics of PUNCT in UD_Czech-CLTT'
 udver: '2'
 ---
 
-
-
---------------------------------------------------------------------------------
-
-## Treebank Statistics (UD_Czech-CLTT)
+## Treebank Statistics: UD_Czech-CLTT: POS Tags: `PUNCT`
 
 There are 26 `PUNCT` lemmas (1%), 26 `PUNCT` types (1%) and 3994 `PUNCT` tokens (11%).
 Out of 15 observed tags, the rank of `PUNCT` is: 8 in number of lemmas, 10 in number of types and 3 in number of tokens.

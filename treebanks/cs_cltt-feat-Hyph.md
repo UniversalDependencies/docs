@@ -4,11 +4,7 @@ title:  'Statistics of Hyph in UD_Czech-CLTT'
 udver: '2'
 ---
 
-
-
---------------------------------------------------------------------------------
-
-## Treebank Statistics (UD_Czech-CLTT)
+## Treebank Statistics: UD_Czech-CLTT: Features: `Hyph`
 
 This feature is language-specific.
 It occurs with 1 different values: `Yes`.

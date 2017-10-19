@@ -4,11 +4,7 @@ title:  'Statistics of Gender[psor] in UD_Czech-CLTT'
 udver: '2'
 ---
 
-
-
---------------------------------------------------------------------------------
-
-## Treebank Statistics (UD_Czech-CLTT)
+## Treebank Statistics: UD_Czech-CLTT: Features: `Gender[psor]`
 
 This feature is language-specific.
 It occurs with 3 different values: `Fem`, `Masc`, `Neut`.

@@ -4,11 +4,7 @@ title:  'Statistics of NumForm in UD_Czech-CLTT'
 udver: '2'
 ---
 
-
-
---------------------------------------------------------------------------------
-
-## Treebank Statistics (UD_Czech-CLTT)
+## Treebank Statistics: UD_Czech-CLTT: Features: `NumForm`
 
 This feature is language-specific.
 It occurs with 2 different values: `Roman`, `Word`.

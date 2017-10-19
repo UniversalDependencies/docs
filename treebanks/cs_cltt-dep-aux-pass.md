@@ -4,11 +4,7 @@ title:  'Statistics of aux:pass in UD_Czech-CLTT'
 udver: '2'
 ---
 
-
-
---------------------------------------------------------------------------------
-
-## Treebank Statistics (UD_Czech-CLTT)
+## Treebank Statistics: UD_Czech-CLTT: Relations: `aux:pass`
 
 This relation is a language-specific subtype of [aux]().
 

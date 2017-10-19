@@ -4,11 +4,7 @@ title:  'Statistics of Variant in UD_Czech-CLTT'
 udver: '2'
 ---
 
-
-
---------------------------------------------------------------------------------
-
-## Treebank Statistics (UD_Czech-CLTT)
+## Treebank Statistics: UD_Czech-CLTT: Features: `Variant`
 
 This feature is language-specific.
 It occurs with 1 different values: `Short`.

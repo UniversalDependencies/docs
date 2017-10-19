@@ -4,11 +4,7 @@ title:  'Statistics of SCONJ in UD_Czech-CLTT'
 udver: '2'
 ---
 
-
-
---------------------------------------------------------------------------------
-
-## Treebank Statistics (UD_Czech-CLTT)
+## Treebank Statistics: UD_Czech-CLTT: POS Tags: `SCONJ`
 
 There are 18 `SCONJ` lemmas (1%), 18 `SCONJ` types (0%) and 389 `SCONJ` tokens (1%).
 Out of 15 observed tags, the rank of `SCONJ` is: 9 in number of lemmas, 12 in number of types and 13 in number of tokens.

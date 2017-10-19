@@ -4,11 +4,7 @@ title:  'Statistics of Style in UD_Czech-CLTT'
 udver: '2'
 ---
 
-
-
---------------------------------------------------------------------------------
-
-## Treebank Statistics (UD_Czech-CLTT)
+## Treebank Statistics: UD_Czech-CLTT: Features: `Style`
 
 This feature is language-specific.
 It occurs with 2 different values: `Arch`, `Coll`.

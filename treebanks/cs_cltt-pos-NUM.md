@@ -4,11 +4,7 @@ title:  'Statistics of NUM in UD_Czech-CLTT'
 udver: '2'
 ---
 
-
-
---------------------------------------------------------------------------------
-
-## Treebank Statistics (UD_Czech-CLTT)
+## Treebank Statistics: UD_Czech-CLTT: POS Tags: `NUM`
 
 There are 83 `NUM` lemmas (3%), 97 `NUM` types (2%) and 440 `NUM` tokens (1%).
 Out of 15 observed tags, the rank of `NUM` is: 6 in number of lemmas, 6 in number of types and 12 in number of tokens.

@@ -4,11 +4,7 @@ title:  'Statistics of csubj in UD_Czech-CLTT'
 udver: '2'
 ---
 
-
-
---------------------------------------------------------------------------------
-
-## Treebank Statistics (UD_Czech-CLTT)
+## Treebank Statistics: UD_Czech-CLTT: Relations: `csubj`
 
 This relation is universal.
 There are 1 language-specific subtypes of `csubj`: [csubj:pass]().
