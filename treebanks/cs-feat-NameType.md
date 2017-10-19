@@ -13,13 +13,13 @@ Some words have combined values of the feature; 21 combinations have been observ
 88937 tokens (6%) have a non-empty value of `NameType`.
 24371 types (19%) occur at least once with a non-empty value of `NameType`.
 17008 lemmas (29%) occur at least once with a non-empty value of `NameType`.
-The feature is used with 11 part-of-speech tags: [PROPN](cs-pos-PROPN.html) (84031; 6% instances), [ADJ](cs-pos-ADJ.html) (4756; 0% instances), [ADP](cs-pos-ADP.html) (71; 0% instances), [NUM](cs-pos-NUM.html) (20; 0% instances), [ADV](cs-pos-ADV.html) (17; 0% instances), [VERB](cs-pos-VERB.html) (13; 0% instances), [PRON](cs-pos-PRON.html) (12; 0% instances), [PART](cs-pos-PART.html) (8; 0% instances), [DET](cs-pos-DET.html) (4; 0% instances), [INTJ](cs-pos-INTJ.html) (4; 0% instances), [CCONJ](cs-pos-CCONJ.html) (1; 0% instances).
+The feature is used with 11 part-of-speech tags: <tt><a href="cs-pos-PROPN.html">PROPN</a></tt> (84031; 6% instances), <tt><a href="cs-pos-ADJ.html">ADJ</a></tt> (4756; 0% instances), <tt><a href="cs-pos-ADP.html">ADP</a></tt> (71; 0% instances), <tt><a href="cs-pos-NUM.html">NUM</a></tt> (20; 0% instances), <tt><a href="cs-pos-ADV.html">ADV</a></tt> (17; 0% instances), <tt><a href="cs-pos-VERB.html">VERB</a></tt> (13; 0% instances), <tt><a href="cs-pos-PRON.html">PRON</a></tt> (12; 0% instances), <tt><a href="cs-pos-PART.html">PART</a></tt> (8; 0% instances), <tt><a href="cs-pos-DET.html">DET</a></tt> (4; 0% instances), <tt><a href="cs-pos-INTJ.html">INTJ</a></tt> (4; 0% instances), <tt><a href="cs-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances).
 
 ### `PROPN`
 
-84031 [PROPN](cs-pos-PROPN.html) tokens (100% of all `PROPN` tokens) have a non-empty value of `NameType`.
+84031 <tt><a href="cs-pos-PROPN.html">PROPN</a></tt> tokens (100% of all `PROPN` tokens) have a non-empty value of `NameType`.
 
-The most frequent other feature values with which `PROPN` and `NameType` co-occurred: <tt><a href="Polarity.html">Polarity</a>=Pos</tt> (84031; 100%), <tt><a href="Abbr.html">Abbr</a>=EMPTY</tt> (70989; 84%), <tt><a href="Number.html">Number</a>=Sing</tt> (63182; 75%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (48949; 58%).
+The most frequent other feature values with which `PROPN` and `NameType` co-occurred: <tt><a href="cs-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (84031; 100%), <tt><a href="cs-feat-Abbr.html">Abbr</a></tt><tt>=EMPTY</tt> (70989; 84%), <tt><a href="cs-feat-Number.html">Number</a></tt><tt>=Sing</tt> (63182; 75%), <tt><a href="cs-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (48949; 58%).
 
 `PROPN` tokens may have the following values of `NameType`:
 
@@ -51,11 +51,11 @@ The most frequent other feature values with which `PROPN` and `NameType` co-occu
 
 <table>
   <tr><th>Paradigm <i>Paris</i></th><th><tt>Com</tt></th><th><tt>Geo</tt></th><th><tt>Giv</tt></th><th><tt>Oth</tt></th><th><tt>Pro</tt></th><th><tt>Sur</tt></th></tr>
-  <tr><td><tt><a href="Animacy.html">Animacy</a>=Anim|<a href="Case.html">Case</a>=Acc|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Sing</tt></td><td></td><td></td><td></td><td></td><td></td><td>Parise</td></tr>
-  <tr><td><tt><a href="Animacy.html">Animacy</a>=Anim|<a href="Case.html">Case</a>=Nom|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Sing</tt></td><td></td><td></td><td>Paris</td><td></td><td></td><td></td></tr>
-  <tr><td><tt><a href="Foreign.html">Foreign</a>=Yes|<a href="Gender.html">Gender</a>=Fem|<a href="Number.html">Number</a>=Sing</tt></td><td></td><td>Paris</td><td></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><a href="Foreign.html">Foreign</a>=Yes|<a href="Gender.html">Gender</a>=Fem</tt></td><td></td><td></td><td></td><td></td><td>Paris</td><td></td></tr>
-  <tr><td><tt><a href="Gender.html">Gender</a>=Fem</tt></td><td>Paris</td><td></td><td></td><td>Paris</td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="cs-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt>|<tt><a href="cs-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="cs-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="cs-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td></td><td></td><td></td><td></td><td>Parise</td></tr>
+  <tr><td><tt><tt><a href="cs-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt>|<tt><a href="cs-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="cs-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="cs-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td></td><td>Paris</td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="cs-feat-Foreign.html">Foreign</a></tt><tt>=Yes</tt>|<tt><a href="cs-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="cs-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td>Paris</td><td></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="cs-feat-Foreign.html">Foreign</a></tt><tt>=Yes</tt>|<tt><a href="cs-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td></td><td></td><td></td><td></td><td>Paris</td><td></td></tr>
+  <tr><td><tt><tt><a href="cs-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td>Paris</td><td></td><td></td><td>Paris</td><td></td><td></td></tr>
   <tr><td><tt></tt></td><td>Paris</td><td></td><td></td><td></td><td></td><td></td></tr>
 </table>
 
@@ -63,9 +63,9 @@ The most frequent other feature values with which `PROPN` and `NameType` co-occu
 
 ### `ADJ`
 
-4756 [ADJ](cs-pos-ADJ.html) tokens (2% of all `ADJ` tokens) have a non-empty value of `NameType`.
+4756 <tt><a href="cs-pos-ADJ.html">ADJ</a></tt> tokens (2% of all `ADJ` tokens) have a non-empty value of `NameType`.
 
-The most frequent other feature values with which `ADJ` and `NameType` co-occurred: <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (3630; 76%), <tt><a href="Polarity.html">Polarity</a>=Pos</tt> (2450; 52%), <tt><a href="Degree.html">Degree</a>=Pos</tt> (2437; 51%).
+The most frequent other feature values with which `ADJ` and `NameType` co-occurred: <tt><a href="cs-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (3630; 76%), <tt><a href="cs-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (2450; 52%), <tt><a href="cs-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (2437; 51%).
 
 `ADJ` tokens may have the following values of `NameType`:
 
@@ -98,9 +98,9 @@ The most frequent other feature values with which `ADJ` and `NameType` co-occurr
 
 ### `ADP`
 
-71 [ADP](cs-pos-ADP.html) tokens (0% of all `ADP` tokens) have a non-empty value of `NameType`.
+71 <tt><a href="cs-pos-ADP.html">ADP</a></tt> tokens (0% of all `ADP` tokens) have a non-empty value of `NameType`.
 
-The most frequent other feature values with which `ADP` and `NameType` co-occurred: <tt><a href="AdpType.html">AdpType</a>=Prep</tt> (71; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (70; 99%).
+The most frequent other feature values with which `ADP` and `NameType` co-occurred: <tt><a href="cs-feat-AdpType.html">AdpType</a></tt><tt>=Prep</tt> (71; 100%), <tt><a href="cs-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (70; 99%).
 
 `ADP` tokens may have the following values of `NameType`:
 
@@ -120,9 +120,9 @@ The most frequent other feature values with which `ADP` and `NameType` co-occurr
 
 ### `NUM`
 
-20 [NUM](cs-pos-NUM.html) tokens (0% of all `NUM` tokens) have a non-empty value of `NameType`.
+20 <tt><a href="cs-pos-NUM.html">NUM</a></tt> tokens (0% of all `NUM` tokens) have a non-empty value of `NameType`.
 
-The most frequent other feature values with which `NUM` and `NameType` co-occurred: <tt><a href="NumType.html">NumType</a>=Card</tt> (20; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (20; 100%), <tt><a href="NumForm.html">NumForm</a>=Word</tt> (20; 100%), <tt><a href="Number.html">Number</a>=Plur</tt> (19; 95%), <tt><a href="NumValue.html">NumValue</a>=1,2,3</tt> (19; 95%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (19; 95%).
+The most frequent other feature values with which `NUM` and `NameType` co-occurred: <tt><a href="cs-feat-NumForm.html">NumForm</a></tt><tt>=Word</tt> (20; 100%), <tt><a href="cs-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (20; 100%), <tt><a href="cs-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (20; 100%), <tt><a href="cs-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (19; 95%), <tt><a href="cs-feat-NumValue.html">NumValue</a></tt><tt>=1,2,3</tt> (19; 95%), <tt><a href="cs-feat-Number.html">Number</a></tt><tt>=Plur</tt> (19; 95%).
 
 `NUM` tokens may have the following values of `NameType`:
 
@@ -130,9 +130,9 @@ The most frequent other feature values with which `NUM` and `NameType` co-occurr
 
 ### `ADV`
 
-17 [ADV](cs-pos-ADV.html) tokens (0% of all `ADV` tokens) have a non-empty value of `NameType`.
+17 <tt><a href="cs-pos-ADV.html">ADV</a></tt> tokens (0% of all `ADV` tokens) have a non-empty value of `NameType`.
 
-The most frequent other feature values with which `ADV` and `NameType` co-occurred: <tt><a href="PronType.html">PronType</a>=EMPTY</tt> (17; 100%), <tt><a href="Polarity.html">Polarity</a>=EMPTY</tt> (14; 82%), <tt><a href="Degree.html">Degree</a>=EMPTY</tt> (14; 82%).
+The most frequent other feature values with which `ADV` and `NameType` co-occurred: <tt><a href="cs-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (17; 100%), <tt><a href="cs-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (14; 82%), <tt><a href="cs-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (14; 82%).
 
 `ADV` tokens may have the following values of `NameType`:
 
@@ -142,7 +142,7 @@ The most frequent other feature values with which `ADV` and `NameType` co-occurr
 
 <table>
   <tr><th>Paradigm <i>Live</i></th><th><tt>Oth</tt></th><th><tt>Pro</tt></th></tr>
-  <tr><td><tt><a href="Degree.html">Degree</a>=Pos|<a href="Polarity.html">Polarity</a>=Pos</tt></td><td>Live</td><td></td></tr>
+  <tr><td><tt><tt><a href="cs-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="cs-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt></tt></td><td>Live</td><td></td></tr>
   <tr><td><tt></tt></td><td></td><td>Live</td></tr>
 </table>
 
@@ -150,9 +150,9 @@ The most frequent other feature values with which `ADV` and `NameType` co-occurr
 
 ### `VERB`
 
-13 [VERB](cs-pos-VERB.html) tokens (0% of all `VERB` tokens) have a non-empty value of `NameType`.
+13 <tt><a href="cs-pos-VERB.html">VERB</a></tt> tokens (0% of all `VERB` tokens) have a non-empty value of `NameType`.
 
-The most frequent other feature values with which `VERB` and `NameType` co-occurred: <tt><a href="Aspect.html">Aspect</a>=EMPTY</tt> (13; 100%), <tt><a href="Polarity.html">Polarity</a>=Pos</tt> (13; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (13; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (8; 62%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (8; 62%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (7; 54%), <tt><a href="Voice.html">Voice</a>=Act</tt> (7; 54%).
+The most frequent other feature values with which `VERB` and `NameType` co-occurred: <tt><a href="cs-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (13; 100%), <tt><a href="cs-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (13; 100%), <tt><a href="cs-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (13; 100%), <tt><a href="cs-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (8; 62%), <tt><a href="cs-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (8; 62%), <tt><a href="cs-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (7; 54%), <tt><a href="cs-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (7; 54%).
 
 `VERB` tokens may have the following values of `NameType`:
 
@@ -162,17 +162,17 @@ The most frequent other feature values with which `VERB` and `NameType` co-occur
 
 <table>
   <tr><th>Paradigm <i>Can</i></th><th><tt>Com</tt></th><th><tt>Oth</tt></th></tr>
-  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Tense.html">Tense</a>=Pres|<a href="VerbForm.html">VerbForm</a>=Fin|<a href="Voice.html">Voice</a>=Act</tt></td><td></td><td>Can</td></tr>
-  <tr><td><tt><a href="VerbForm.html">VerbForm</a>=Inf</tt></td><td>Can</td><td></td></tr>
+  <tr><td><tt><tt><a href="cs-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="cs-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="cs-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="cs-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td></td><td>Can</td></tr>
+  <tr><td><tt><tt><a href="cs-feat-VerbForm.html">VerbForm</a></tt><tt>=Inf</tt></tt></td><td>Can</td><td></td></tr>
 </table>
 
 `NameType` seems to be **lexical feature** of `VERB`. 91% lemmas (10) occur only with one value of `NameType`.
 
 ### `PRON`
 
-12 [PRON](cs-pos-PRON.html) tokens (0% of all `PRON` tokens) have a non-empty value of `NameType`.
+12 <tt><a href="cs-pos-PRON.html">PRON</a></tt> tokens (0% of all `PRON` tokens) have a non-empty value of `NameType`.
 
-The most frequent other feature values with which `PRON` and `NameType` co-occurred: <tt><a href="Reflex.html">Reflex</a>=EMPTY</tt> (12; 100%), <tt><a href="PrepCase.html">PrepCase</a>=EMPTY</tt> (12; 100%), <tt><a href="Variant.html">Variant</a>=EMPTY</tt> (12; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (8; 67%), <tt><a href="Number.html">Number</a>=Sing</tt> (7; 58%), <tt><a href="PronType.html">PronType</a>=Tot</tt> (7; 58%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (7; 58%).
+The most frequent other feature values with which `PRON` and `NameType` co-occurred: <tt><a href="cs-feat-PrepCase.html">PrepCase</a></tt><tt>=EMPTY</tt> (12; 100%), <tt><a href="cs-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (12; 100%), <tt><a href="cs-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (12; 100%), <tt><a href="cs-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (8; 67%), <tt><a href="cs-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (7; 58%), <tt><a href="cs-feat-Number.html">Number</a></tt><tt>=Sing</tt> (7; 58%), <tt><a href="cs-feat-PronType.html">PronType</a></tt><tt>=Tot</tt> (7; 58%).
 
 `PRON` tokens may have the following values of `NameType`:
 
@@ -182,13 +182,13 @@ The most frequent other feature values with which `PRON` and `NameType` co-occur
 
 <table>
   <tr><th>Paradigm <i>All</i></th><th><tt>Com</tt></th><th><tt>Oth</tt></th></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Gender.html">Gender</a>=Neut|<a href="Number.html">Number</a>=Sing</tt></td><td></td><td>All</td></tr>
+  <tr><td><tt><tt><a href="cs-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="cs-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="cs-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td>All</td></tr>
   <tr><td><tt></tt></td><td>All</td><td></td></tr>
 </table>
 
 ### `PART`
 
-8 [PART](cs-pos-PART.html) tokens (0% of all `PART` tokens) have a non-empty value of `NameType`.
+8 <tt><a href="cs-pos-PART.html">PART</a></tt> tokens (0% of all `PART` tokens) have a non-empty value of `NameType`.
 
 `PART` tokens may have the following values of `NameType`:
 
@@ -196,29 +196,29 @@ The most frequent other feature values with which `PRON` and `NameType` co-occur
 * `Oth` (5; 63% of non-empty `NameType`): L Not at el t
 * `Sur` (1; 13% of non-empty `NameType`): ka
 
-### `INTJ`
-
-4 [INTJ](cs-pos-INTJ.html) tokens (4% of all `INTJ` tokens) have a non-empty value of `NameType`.
-
-`INTJ` tokens may have the following values of `NameType`:
-
-* `Com` (1; 25% of non-empty `NameType`): Halo
-* `Oth` (3; 75% of non-empty `NameType`): Bang Boom Crash
-
 ### `DET`
 
-4 [DET](cs-pos-DET.html) tokens (0% of all `DET` tokens) have a non-empty value of `NameType`.
+4 <tt><a href="cs-pos-DET.html">DET</a></tt> tokens (0% of all `DET` tokens) have a non-empty value of `NameType`.
 
-The most frequent other feature values with which `DET` and `NameType` co-occurred: <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (4; 100%), <tt><a href="PronType.html">PronType</a>=Prs</tt> (3; 75%), <tt><a href="Number[psor].html">Number[psor]</a>=EMPTY</tt> (3; 75%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (3; 75%), <tt><a href="Poss.html">Poss</a>=Yes</tt> (3; 75%).
+The most frequent other feature values with which `DET` and `NameType` co-occurred: <tt><a href="cs-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (4; 100%), <tt><a href="cs-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (3; 75%), <tt><a href="cs-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (3; 75%), <tt><a href="cs-feat-Poss.html">Poss</a></tt><tt>=Yes</tt> (3; 75%), <tt><a href="cs-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (3; 75%).
 
 `DET` tokens may have the following values of `NameType`:
 
 * `Oth` (2; 50% of non-empty `NameType`): Notre This
 * `Pro` (2; 50% of non-empty `NameType`): Your
 
+### `INTJ`
+
+4 <tt><a href="cs-pos-INTJ.html">INTJ</a></tt> tokens (4% of all `INTJ` tokens) have a non-empty value of `NameType`.
+
+`INTJ` tokens may have the following values of `NameType`:
+
+* `Com` (1; 25% of non-empty `NameType`): Halo
+* `Oth` (3; 75% of non-empty `NameType`): Bang Boom Crash
+
 ### `CCONJ`
 
-1 [CCONJ](cs-pos-CCONJ.html) tokens (0% of all `CCONJ` tokens) have a non-empty value of `NameType`.
+1 <tt><a href="cs-pos-CCONJ.html">CCONJ</a></tt> tokens (0% of all `CCONJ` tokens) have a non-empty value of `NameType`.
 
 `CCONJ` tokens may have the following values of `NameType`:
 
@@ -227,14 +227,14 @@ The most frequent other feature values with which `DET` and `NameType` co-occurr
 ## Relations with Agreement in `NameType`
 
 The 10 most frequent relations where parent and child node agree in `NameType`:
-<tt>PROPN --[<a href="../dep/conj.html">conj</a>]--> PROPN</tt> (5712; 87%),
-<tt>PROPN --[<a href="../dep/flat:foreign.html">flat:foreign</a>]--> ADJ</tt> (661; 72%),
-<tt>PROPN --[<a href="../dep/flat:foreign.html">flat:foreign</a>]--> PROPN</tt> (246; 85%),
-<tt>PROPN --[<a href="../dep/orphan.html">orphan</a>]--> PROPN</tt> (137; 79%),
-<tt>ADJ --[<a href="../dep/flat:foreign.html">flat:foreign</a>]--> PROPN</tt> (84; 88%),
-<tt>ADJ --[<a href="../dep/amod.html">amod</a>]--> ADJ</tt> (51; 61%),
-<tt>ADJ --[<a href="../dep/conj.html">conj</a>]--> ADJ</tt> (50; 76%),
-<tt>PROPN --[<a href="../dep/nsubj.html">nsubj</a>]--> PROPN</tt> (12; 55%),
-<tt>PROPN --[<a href="../dep/xcomp.html">xcomp</a>]--> PROPN</tt> (10; 67%),
-<tt>PROPN --[<a href="../dep/cc.html">cc</a>]--> PROPN</tt> (5; 56%).
+<tt>PROPN --[<tt><a href="cs-dep-conj.html">conj</a></tt>]--> PROPN</tt> (5712; 87%),
+<tt>PROPN --[<tt><a href="cs-dep-flat-foreign.html">flat:foreign</a></tt>]--> ADJ</tt> (661; 72%),
+<tt>PROPN --[<tt><a href="cs-dep-flat-foreign.html">flat:foreign</a></tt>]--> PROPN</tt> (246; 85%),
+<tt>PROPN --[<tt><a href="cs-dep-orphan.html">orphan</a></tt>]--> PROPN</tt> (137; 79%),
+<tt>ADJ --[<tt><a href="cs-dep-flat-foreign.html">flat:foreign</a></tt>]--> PROPN</tt> (84; 88%),
+<tt>ADJ --[<tt><a href="cs-dep-amod.html">amod</a></tt>]--> ADJ</tt> (51; 61%),
+<tt>ADJ --[<tt><a href="cs-dep-conj.html">conj</a></tt>]--> ADJ</tt> (50; 76%),
+<tt>PROPN --[<tt><a href="cs-dep-nsubj.html">nsubj</a></tt>]--> PROPN</tt> (12; 55%),
+<tt>PROPN --[<tt><a href="cs-dep-xcomp.html">xcomp</a></tt>]--> PROPN</tt> (10; 67%),
+<tt>PROPN --[<tt><a href="cs-dep-cc.html">cc</a></tt>]--> PROPN</tt> (5; 56%).
 

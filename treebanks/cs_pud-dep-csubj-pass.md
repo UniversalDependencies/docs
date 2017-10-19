@@ -6,14 +6,14 @@ udver: '2'
 
 ## Treebank Statistics: UD_Czech-PUD: Relations: `csubj:pass`
 
-This relation is a language-specific subtype of [csubj]().
+This relation is a language-specific subtype of <tt><a href="cs_pud-dep-csubj.html">csubj</a></tt>.
 
 10 nodes (0%) are attached to their parents as `csubj:pass`.
 
 9 instances of `csubj:pass` (90%) are left-to-right (parent precedes child).
 Average distance between parent and child is 5.3.
 
-The following 3 pairs of parts of speech are connected with `csubj:pass`: [-pos/VERB]()-[-pos/VERB]() (6; 60% instances), [-pos/ADJ]()-[-pos/VERB]() (3; 30% instances), [-pos/VERB]()-[-pos/NOUN]() (1; 10% instances).
+The following 3 pairs of parts of speech are connected with `csubj:pass`: <tt><a href="cs_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_pud-pos-VERB.html">VERB</a></tt> (6; 60% instances), <tt><a href="cs_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cs_pud-pos-VERB.html">VERB</a></tt> (3; 30% instances), <tt><a href="cs_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_pud-pos-NOUN.html">NOUN</a></tt> (1; 10% instances).
 
 
 ~~~ conllu

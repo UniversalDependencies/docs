@@ -7,14 +7,14 @@ udver: '2'
 ## Treebank Statistics: UD_Czech-PUD: Relations: `nummod`
 
 This relation is universal.
-There are 1 language-specific subtypes of `nummod`: [nummod:gov]().
+There are 1 language-specific subtypes of `nummod`: <tt><a href="cs_pud-dep-nummod-gov.html">nummod:gov</a></tt>.
 
 320 nodes (2%) are attached to their parents as `nummod`.
 
 170 instances of `nummod` (53%) are left-to-right (parent precedes child).
 Average distance between parent and child is 1.2.
 
-The following 5 pairs of parts of speech are connected with `nummod`: [-pos/NOUN]()-[-pos/NUM]() (292; 91% instances), [-pos/PROPN]()-[-pos/NUM]() (19; 6% instances), [-pos/SYM]()-[-pos/NUM]() (6; 2% instances), [-pos/ADJ]()-[-pos/NUM]() (2; 1% instances), [-pos/NOUN]()-[-pos/NOUN]() (1; 0% instances).
+The following 5 pairs of parts of speech are connected with `nummod`: <tt><a href="cs_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_pud-pos-NUM.html">NUM</a></tt> (292; 91% instances), <tt><a href="cs_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cs_pud-pos-NUM.html">NUM</a></tt> (19; 6% instances), <tt><a href="cs_pud-pos-SYM.html">SYM</a></tt>-<tt><a href="cs_pud-pos-NUM.html">NUM</a></tt> (6; 2% instances), <tt><a href="cs_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cs_pud-pos-NUM.html">NUM</a></tt> (2; 1% instances), <tt><a href="cs_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_pud-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

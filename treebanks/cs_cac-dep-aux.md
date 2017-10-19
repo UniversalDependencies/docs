@@ -7,14 +7,14 @@ udver: '2'
 ## Treebank Statistics: UD_Czech-CAC: Relations: `aux`
 
 This relation is universal.
-There are 1 language-specific subtypes of `aux`: [aux:pass]().
+There are 1 language-specific subtypes of `aux`: <tt><a href="cs_cac-dep-aux-pass.html">aux:pass</a></tt>.
 
 3611 nodes (1%) are attached to their parents as `aux`.
 
 3208 instances of `aux` (89%) are right-to-left (child precedes parent).
 Average distance between parent and child is 2.54250900027693.
 
-The following 17 pairs of parts of speech are connected with `aux`: [-pos/VERB]()-[-pos/AUX]() (3075; 85% instances), [-pos/ADJ]()-[-pos/AUX]() (431; 12% instances), [-pos/NOUN]()-[-pos/AUX]() (56; 2% instances), [-pos/SYM]()-[-pos/AUX]() (12; 0% instances), [-pos/ADV]()-[-pos/AUX]() (10; 0% instances), [-pos/DET]()-[-pos/AUX]() (7; 0% instances), [-pos/CCONJ]()-[-pos/AUX]() (5; 0% instances), [-pos/VERB]()-[-pos/SYM]() (4; 0% instances), [-pos/NUM]()-[-pos/AUX]() (2; 0% instances), [-pos/PART]()-[-pos/AUX]() (2; 0% instances), [-pos/ADJ]()-[-pos/NUM]() (1; 0% instances), [-pos/NOUN]()-[-pos/ADJ]() (1; 0% instances), [-pos/NOUN]()-[-pos/SCONJ]() (1; 0% instances), [-pos/VERB]()-[-pos/ADJ]() (1; 0% instances), [-pos/VERB]()-[-pos/ADV]() (1; 0% instances), [-pos/VERB]()-[-pos/DET]() (1; 0% instances), [-pos/VERB]()-[-pos/NUM]() (1; 0% instances).
+The following 17 pairs of parts of speech are connected with `aux`: <tt><a href="cs_cac-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_cac-pos-AUX.html">AUX</a></tt> (3075; 85% instances), <tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cs_cac-pos-AUX.html">AUX</a></tt> (431; 12% instances), <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_cac-pos-AUX.html">AUX</a></tt> (56; 2% instances), <tt><a href="cs_cac-pos-SYM.html">SYM</a></tt>-<tt><a href="cs_cac-pos-AUX.html">AUX</a></tt> (12; 0% instances), <tt><a href="cs_cac-pos-ADV.html">ADV</a></tt>-<tt><a href="cs_cac-pos-AUX.html">AUX</a></tt> (10; 0% instances), <tt><a href="cs_cac-pos-DET.html">DET</a></tt>-<tt><a href="cs_cac-pos-AUX.html">AUX</a></tt> (7; 0% instances), <tt><a href="cs_cac-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="cs_cac-pos-AUX.html">AUX</a></tt> (5; 0% instances), <tt><a href="cs_cac-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_cac-pos-SYM.html">SYM</a></tt> (4; 0% instances), <tt><a href="cs_cac-pos-NUM.html">NUM</a></tt>-<tt><a href="cs_cac-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="cs_cac-pos-PART.html">PART</a></tt>-<tt><a href="cs_cac-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cs_cac-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_cac-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="cs_cac-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="cs_cac-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_cac-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="cs_cac-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_cac-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="cs_cac-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_cac-pos-NUM.html">NUM</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

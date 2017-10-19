@@ -12,11 +12,11 @@ It occurs with 1 different values: `Oper`.
 170 tokens (0%) have a non-empty value of `ConjType`.
 5 types (0%) occur at least once with a non-empty value of `ConjType`.
 4 lemmas (0%) occur at least once with a non-empty value of `ConjType`.
-The feature is used with 2 part-of-speech tags: [SYM](cs-pos-SYM.html) (120; 0% instances), [CCONJ](cs-pos-CCONJ.html) (50; 0% instances).
+The feature is used with 2 part-of-speech tags: <tt><a href="cs-pos-SYM.html">SYM</a></tt> (120; 0% instances), <tt><a href="cs-pos-CCONJ.html">CCONJ</a></tt> (50; 0% instances).
 
 ### `SYM`
 
-120 [SYM](cs-pos-SYM.html) tokens (10% of all `SYM` tokens) have a non-empty value of `ConjType`.
+120 <tt><a href="cs-pos-SYM.html">SYM</a></tt> tokens (10% of all `SYM` tokens) have a non-empty value of `ConjType`.
 
 `SYM` tokens may have the following values of `ConjType`:
 
@@ -24,7 +24,7 @@ The feature is used with 2 part-of-speech tags: [SYM](cs-pos-SYM.html) (120; 0% 
 
 ### `CCONJ`
 
-50 [CCONJ](cs-pos-CCONJ.html) tokens (0% of all `CCONJ` tokens) have a non-empty value of `ConjType`.
+50 <tt><a href="cs-pos-CCONJ.html">CCONJ</a></tt> tokens (0% of all `CCONJ` tokens) have a non-empty value of `ConjType`.
 
 `CCONJ` tokens may have the following values of `ConjType`:
 
@@ -33,6 +33,6 @@ The feature is used with 2 part-of-speech tags: [SYM](cs-pos-SYM.html) (120; 0% 
 ## Relations with Agreement in `ConjType`
 
 The 10 most frequent relations where parent and child node agree in `ConjType`:
-<tt>SYM --[<a href="../dep/conj.html">conj</a>]--> SYM</tt> (3; 100%),
-<tt>CCONJ --[<a href="../dep/conj.html">conj</a>]--> CCONJ</tt> (1; 100%).
+<tt>SYM --[<tt><a href="cs-dep-conj.html">conj</a></tt>]--> SYM</tt> (3; 100%),
+<tt>CCONJ --[<tt><a href="cs-dep-conj.html">conj</a></tt>]--> CCONJ</tt> (1; 100%).
 

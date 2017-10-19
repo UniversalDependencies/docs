@@ -7,14 +7,14 @@ udver: '2'
 ## Treebank Statistics: UD_Czech-CAC: Relations: `nummod`
 
 This relation is universal.
-There are 1 language-specific subtypes of `nummod`: [nummod:gov]().
+There are 1 language-specific subtypes of `nummod`: <tt><a href="cs_cac-dep-nummod-gov.html">nummod:gov</a></tt>.
 
 4440 nodes (1%) are attached to their parents as `nummod`.
 
 2802 instances of `nummod` (63%) are right-to-left (child precedes parent).
 Average distance between parent and child is 1.32094594594595.
 
-The following 10 pairs of parts of speech are connected with `nummod`: [-pos/NOUN]()-[-pos/NUM]() (4127; 93% instances), [-pos/SYM]()-[-pos/NUM]() (211; 5% instances), [-pos/PROPN]()-[-pos/NUM]() (34; 1% instances), [-pos/NUM]()-[-pos/NUM]() (27; 1% instances), [-pos/ADJ]()-[-pos/NUM]() (23; 1% instances), [-pos/DET]()-[-pos/NUM]() (6; 0% instances), [-pos/VERB]()-[-pos/NUM]() (6; 0% instances), [-pos/ADV]()-[-pos/NUM]() (2; 0% instances), [-pos/PART]()-[-pos/NUM]() (2; 0% instances), [-pos/PRON]()-[-pos/NUM]() (2; 0% instances).
+The following 10 pairs of parts of speech are connected with `nummod`: <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_cac-pos-NUM.html">NUM</a></tt> (4127; 93% instances), <tt><a href="cs_cac-pos-SYM.html">SYM</a></tt>-<tt><a href="cs_cac-pos-NUM.html">NUM</a></tt> (211; 5% instances), <tt><a href="cs_cac-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cs_cac-pos-NUM.html">NUM</a></tt> (34; 1% instances), <tt><a href="cs_cac-pos-NUM.html">NUM</a></tt>-<tt><a href="cs_cac-pos-NUM.html">NUM</a></tt> (27; 1% instances), <tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cs_cac-pos-NUM.html">NUM</a></tt> (23; 1% instances), <tt><a href="cs_cac-pos-DET.html">DET</a></tt>-<tt><a href="cs_cac-pos-NUM.html">NUM</a></tt> (6; 0% instances), <tt><a href="cs_cac-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_cac-pos-NUM.html">NUM</a></tt> (6; 0% instances), <tt><a href="cs_cac-pos-ADV.html">ADV</a></tt>-<tt><a href="cs_cac-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="cs_cac-pos-PART.html">PART</a></tt>-<tt><a href="cs_cac-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="cs_cac-pos-PRON.html">PRON</a></tt>-<tt><a href="cs_cac-pos-NUM.html">NUM</a></tt> (2; 0% instances).
 
 
 ~~~ conllu

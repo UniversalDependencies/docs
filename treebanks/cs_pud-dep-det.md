@@ -7,14 +7,14 @@ udver: '2'
 ## Treebank Statistics: UD_Czech-PUD: Relations: `det`
 
 This relation is universal.
-There are 2 language-specific subtypes of `det`: [det:numgov](), [det:nummod]().
+There are 2 language-specific subtypes of `det`: <tt><a href="cs_pud-dep-det-numgov.html">det:numgov</a></tt>, <tt><a href="cs_pud-dep-det-nummod.html">det:nummod</a></tt>.
 
 413 nodes (2%) are attached to their parents as `det`.
 
 410 instances of `det` (99%) are right-to-left (child precedes parent).
 Average distance between parent and child is 1.34624697336562.
 
-The following 7 pairs of parts of speech are connected with `det`: [-pos/NOUN]()-[-pos/DET]() (397; 96% instances), [-pos/ADJ]()-[-pos/DET]() (5; 1% instances), [-pos/NOUN]()-[-pos/PRON]() (5; 1% instances), [-pos/NUM]()-[-pos/DET]() (2; 0% instances), [-pos/PROPN]()-[-pos/DET]() (2; 0% instances), [-pos/DET]()-[-pos/DET]() (1; 0% instances), [-pos/PRON]()-[-pos/PRON]() (1; 0% instances).
+The following 7 pairs of parts of speech are connected with `det`: <tt><a href="cs_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_pud-pos-DET.html">DET</a></tt> (397; 96% instances), <tt><a href="cs_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cs_pud-pos-DET.html">DET</a></tt> (5; 1% instances), <tt><a href="cs_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_pud-pos-PRON.html">PRON</a></tt> (5; 1% instances), <tt><a href="cs_pud-pos-NUM.html">NUM</a></tt>-<tt><a href="cs_pud-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="cs_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cs_pud-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="cs_pud-pos-DET.html">DET</a></tt>-<tt><a href="cs_pud-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="cs_pud-pos-PRON.html">PRON</a></tt>-<tt><a href="cs_pud-pos-PRON.html">PRON</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

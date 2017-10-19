@@ -13,13 +13,13 @@ Some words have combined values of the feature; 5 combinations have been observe
 1135 tokens (6%) have a non-empty value of `NameType`.
 945 types (12%) occur at least once with a non-empty value of `NameType`.
 830 lemmas (16%) occur at least once with a non-empty value of `NameType`.
-The feature is used with 3 part-of-speech tags: [PROPN](cs_pud-pos-PROPN.html) (1078; 6% instances), [ADJ](cs_pud-pos-ADJ.html) (56; 0% instances), [ADP](cs_pud-pos-ADP.html) (1; 0% instances).
+The feature is used with 3 part-of-speech tags: <tt><a href="cs_pud-pos-PROPN.html">PROPN</a></tt> (1078; 6% instances), <tt><a href="cs_pud-pos-ADJ.html">ADJ</a></tt> (56; 0% instances), <tt><a href="cs_pud-pos-ADP.html">ADP</a></tt> (1; 0% instances).
 
 ### `PROPN`
 
-1078 [PROPN](cs_pud-pos-PROPN.html) tokens (99% of all `PROPN` tokens) have a non-empty value of `NameType`.
+1078 <tt><a href="cs_pud-pos-PROPN.html">PROPN</a></tt> tokens (99% of all `PROPN` tokens) have a non-empty value of `NameType`.
 
-The most frequent other feature values with which `PROPN` and `NameType` co-occurred: <tt><a href="Polarity.html">Polarity</a>=Pos</tt> (1078; 100%), <tt><a href="Foreign.html">Foreign</a>=EMPTY</tt> (967; 90%), <tt><a href="Number.html">Number</a>=Sing</tt> (829; 77%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (610; 57%).
+The most frequent other feature values with which `PROPN` and `NameType` co-occurred: <tt><a href="cs_pud-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (1078; 100%), <tt><a href="cs_pud-feat-Foreign.html">Foreign</a></tt><tt>=EMPTY</tt> (967; 90%), <tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (829; 77%), <tt><a href="cs_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (610; 57%).
 
 `PROPN` tokens may have the following values of `NameType`:
 
@@ -37,18 +37,18 @@ The most frequent other feature values with which `PROPN` and `NameType` co-occu
 
 <table>
   <tr><th>Paradigm <i>Andy</i></th><th><tt>Geo</tt></th><th><tt>Giv</tt></th></tr>
-  <tr><td><tt><a href="Animacy.html">Animacy</a>=Anim|<a href="Case.html">Case</a>=Dat|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Sing</tt></td><td></td><td>Andymu</td></tr>
-  <tr><td><tt><a href="Animacy.html">Animacy</a>=Anim|<a href="Case.html">Case</a>=Gen|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Sing</tt></td><td></td><td>Andyho</td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Gender.html">Gender</a>=Fem|<a href="Number.html">Number</a>=Plur</tt></td><td>Andy</td><td></td></tr>
+  <tr><td><tt><tt><a href="cs_pud-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt>|<tt><a href="cs_pud-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="cs_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td>Andymu</td></tr>
+  <tr><td><tt><tt><a href="cs_pud-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt>|<tt><a href="cs_pud-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="cs_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td>Andyho</td></tr>
+  <tr><td><tt><tt><a href="cs_pud-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="cs_pud-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td>Andy</td><td></td></tr>
 </table>
 
 `NameType` seems to be **lexical feature** of `PROPN`. 99% lemmas (769) occur only with one value of `NameType`.
 
 ### `ADJ`
 
-56 [ADJ](cs_pud-pos-ADJ.html) tokens (2% of all `ADJ` tokens) have a non-empty value of `NameType`.
+56 <tt><a href="cs_pud-pos-ADJ.html">ADJ</a></tt> tokens (2% of all `ADJ` tokens) have a non-empty value of `NameType`.
 
-The most frequent other feature values with which `ADJ` and `NameType` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=EMPTY</tt> (56; 100%), <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (56; 100%), <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (41; 73%), <tt><a href="Degree.html">Degree</a>=EMPTY</tt> (34; 61%), <tt><a href="Polarity.html">Polarity</a>=EMPTY</tt> (34; 61%).
+The most frequent other feature values with which `ADJ` and `NameType` co-occurred: <tt><a href="cs_pud-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (56; 100%), <tt><a href="cs_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (56; 100%), <tt><a href="cs_pud-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (41; 73%), <tt><a href="cs_pud-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (34; 61%), <tt><a href="cs_pud-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (34; 61%).
 
 `ADJ` tokens may have the following values of `NameType`:
 
@@ -62,9 +62,9 @@ The most frequent other feature values with which `ADJ` and `NameType` co-occurr
 
 ### `ADP`
 
-1 [ADP](cs_pud-pos-ADP.html) tokens (0% of all `ADP` tokens) have a non-empty value of `NameType`.
+1 <tt><a href="cs_pud-pos-ADP.html">ADP</a></tt> tokens (0% of all `ADP` tokens) have a non-empty value of `NameType`.
 
-The most frequent other feature values with which `ADP` and `NameType` co-occurred: <tt><a href="AdpType.html">AdpType</a>=Prep</tt> (1; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (1; 100%).
+The most frequent other feature values with which `ADP` and `NameType` co-occurred: <tt><a href="cs_pud-feat-AdpType.html">AdpType</a></tt><tt>=Prep</tt> (1; 100%), <tt><a href="cs_pud-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (1; 100%).
 
 `ADP` tokens may have the following values of `NameType`:
 
@@ -73,9 +73,9 @@ The most frequent other feature values with which `ADP` and `NameType` co-occurr
 ## Relations with Agreement in `NameType`
 
 The 10 most frequent relations where parent and child node agree in `NameType`:
-<tt>PROPN --[<a href="../dep/conj.html">conj</a>]--> PROPN</tt> (52; 88%),
-<tt>ADJ --[<a href="../dep/flat.html">flat</a>]--> PROPN</tt> (14; 70%),
-<tt>PROPN --[<a href="../dep/nmod.html">nmod</a>]--> PROPN</tt> (5; 63%),
-<tt>PROPN --[<a href="../dep/appos.html">appos</a>]--> PROPN</tt> (4; 67%),
-<tt>PROPN --[<a href="../dep/compound.html">compound</a>]--> PROPN</tt> (1; 100%).
+<tt>PROPN --[<tt><a href="cs_pud-dep-conj.html">conj</a></tt>]--> PROPN</tt> (52; 88%),
+<tt>ADJ --[<tt><a href="cs_pud-dep-flat.html">flat</a></tt>]--> PROPN</tt> (14; 70%),
+<tt>PROPN --[<tt><a href="cs_pud-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (5; 63%),
+<tt>PROPN --[<tt><a href="cs_pud-dep-appos.html">appos</a></tt>]--> PROPN</tt> (4; 67%),
+<tt>PROPN --[<tt><a href="cs_pud-dep-compound.html">compound</a></tt>]--> PROPN</tt> (1; 100%).
 

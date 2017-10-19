@@ -34,9 +34,9 @@ The 3rd highest number of forms (1) was observed with the lemma “'”: '.
 
 ## Relations
 
-`PUNCT` nodes are attached to their parents using 1 different relations: [punct](cs_pud-dep-punct.html) (2624; 100% instances)
+`PUNCT` nodes are attached to their parents using 1 different relations: <tt><a href="cs_pud-dep-punct.html">punct</a></tt> (2624; 100% instances)
 
-Parents of `PUNCT` nodes belong to 11 different parts of speech: [VERB](cs_pud-pos-VERB.html) (1541; 59% instances), [NOUN](cs_pud-pos-NOUN.html) (444; 17% instances), [ADJ](cs_pud-pos-ADJ.html) (374; 14% instances), [PROPN](cs_pud-pos-PROPN.html) (88; 3% instances), [NUM](cs_pud-pos-NUM.html) (86; 3% instances), [ADV](cs_pud-pos-ADV.html) (41; 2% instances), [DET](cs_pud-pos-DET.html) (27; 1% instances), [ADP](cs_pud-pos-ADP.html) (11; 0% instances), [PRON](cs_pud-pos-PRON.html) (7; 0% instances), [PART](cs_pud-pos-PART.html) (3; 0% instances), [AUX](cs_pud-pos-AUX.html) (2; 0% instances)
+Parents of `PUNCT` nodes belong to 11 different parts of speech: <tt><a href="cs_pud-pos-VERB.html">VERB</a></tt> (1541; 59% instances), <tt><a href="cs_pud-pos-NOUN.html">NOUN</a></tt> (444; 17% instances), <tt><a href="cs_pud-pos-ADJ.html">ADJ</a></tt> (374; 14% instances), <tt><a href="cs_pud-pos-PROPN.html">PROPN</a></tt> (88; 3% instances), <tt><a href="cs_pud-pos-NUM.html">NUM</a></tt> (86; 3% instances), <tt><a href="cs_pud-pos-ADV.html">ADV</a></tt> (41; 2% instances), <tt><a href="cs_pud-pos-DET.html">DET</a></tt> (27; 1% instances), <tt><a href="cs_pud-pos-ADP.html">ADP</a></tt> (11; 0% instances), <tt><a href="cs_pud-pos-PRON.html">PRON</a></tt> (7; 0% instances), <tt><a href="cs_pud-pos-PART.html">PART</a></tt> (3; 0% instances), <tt><a href="cs_pud-pos-AUX.html">AUX</a></tt> (2; 0% instances)
 
 2624 (100%) `PUNCT` nodes are leaves.
 

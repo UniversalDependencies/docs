@@ -12,13 +12,13 @@ It occurs with 1 different values: `Yes`.
 132 tokens (0%) have a non-empty value of `Hyph`.
 65 types (0%) occur at least once with a non-empty value of `Hyph`.
 60 lemmas (0%) occur at least once with a non-empty value of `Hyph`.
-The feature is used with 1 part-of-speech tags: [ADJ](cs_cac-pos-ADJ.html) (132; 0% instances).
+The feature is used with 1 part-of-speech tags: <tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt> (132; 0% instances).
 
 ### `ADJ`
 
-132 [ADJ](cs_cac-pos-ADJ.html) tokens (0% of all `ADJ` tokens) have a non-empty value of `Hyph`.
+132 <tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt> tokens (0% of all `ADJ` tokens) have a non-empty value of `Hyph`.
 
-The most frequent other feature values with which `ADJ` and `Hyph` co-occurred: <tt><a href="Polarity.html">Polarity</a>=Pos</tt> (132; 100%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (132; 100%), <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (132; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (132; 100%), <tt><a href="Degree.html">Degree</a>=EMPTY</tt> (132; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (132; 100%).
+The most frequent other feature values with which `ADJ` and `Hyph` co-occurred: <tt><a href="cs_cac-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (132; 100%), <tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (132; 100%), <tt><a href="cs_cac-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (132; 100%), <tt><a href="cs_cac-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (132; 100%), <tt><a href="cs_cac-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (132; 100%), <tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (132; 100%).
 
 `ADJ` tokens may have the following values of `Hyph`:
 
@@ -29,5 +29,5 @@ The most frequent other feature values with which `ADJ` and `Hyph` co-occurred: 
 ## Relations with Agreement in `Hyph`
 
 The 10 most frequent relations where parent and child node agree in `Hyph`:
-<tt>ADJ --[<a href="../dep/amod.html">amod</a>]--> ADJ</tt> (3; 100%).
+<tt>ADJ --[<tt><a href="cs_cac-dep-amod.html">amod</a></tt>]--> ADJ</tt> (3; 100%).
 

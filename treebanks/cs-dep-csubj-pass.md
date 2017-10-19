@@ -6,14 +6,14 @@ udver: '2'
 
 ## Treebank Statistics: UD_Czech: Relations: `csubj:pass`
 
-This relation is a language-specific subtype of [csubj]().
+This relation is a language-specific subtype of <tt><a href="cs-dep-csubj.html">csubj</a></tt>.
 
 456 nodes (0%) are attached to their parents as `csubj:pass`.
 
 412 instances of `csubj:pass` (90%) are left-to-right (parent precedes child).
 Average distance between parent and child is 6.56798245614035.
 
-The following 11 pairs of parts of speech are connected with `csubj:pass`: [-pos/VERB]()-[-pos/VERB]() (334; 73% instances), [-pos/ADJ]()-[-pos/VERB]() (59; 13% instances), [-pos/VERB]()-[-pos/ADJ]() (33; 7% instances), [-pos/VERB]()-[-pos/NOUN]() (20; 4% instances), [-pos/ADJ]()-[-pos/ADJ]() (4; 1% instances), [-pos/ADJ]()-[-pos/NOUN]() (1; 0% instances), [-pos/VERB]()-[-pos/ADV]() (1; 0% instances), [-pos/VERB]()-[-pos/DET]() (1; 0% instances), [-pos/VERB]()-[-pos/NUM]() (1; 0% instances), [-pos/VERB]()-[-pos/PRON]() (1; 0% instances), [-pos/VERB]()-[-pos/PROPN]() (1; 0% instances).
+The following 11 pairs of parts of speech are connected with `csubj:pass`: <tt><a href="cs-pos-VERB.html">VERB</a></tt>-<tt><a href="cs-pos-VERB.html">VERB</a></tt> (334; 73% instances), <tt><a href="cs-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cs-pos-VERB.html">VERB</a></tt> (59; 13% instances), <tt><a href="cs-pos-VERB.html">VERB</a></tt>-<tt><a href="cs-pos-ADJ.html">ADJ</a></tt> (33; 7% instances), <tt><a href="cs-pos-VERB.html">VERB</a></tt>-<tt><a href="cs-pos-NOUN.html">NOUN</a></tt> (20; 4% instances), <tt><a href="cs-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cs-pos-ADJ.html">ADJ</a></tt> (4; 1% instances), <tt><a href="cs-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cs-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="cs-pos-VERB.html">VERB</a></tt>-<tt><a href="cs-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="cs-pos-VERB.html">VERB</a></tt>-<tt><a href="cs-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="cs-pos-VERB.html">VERB</a></tt>-<tt><a href="cs-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="cs-pos-VERB.html">VERB</a></tt>-<tt><a href="cs-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="cs-pos-VERB.html">VERB</a></tt>-<tt><a href="cs-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

@@ -29,7 +29,7 @@ The 2nd highest number of forms (1) was observed with the lemma “'”: '.
 
 The 3rd highest number of forms (1) was observed with the lemma “(”: (.
 
-`PUNCT` occurs with 1 features: [Abbr](cs_cac-feat-Abbr.html) (1; 0% instances)
+`PUNCT` occurs with 1 features: <tt><a href="cs_cac-feat-Abbr.html">Abbr</a></tt> (1; 0% instances)
 
 `PUNCT` occurs with 1 feature-value pairs: `Abbr=Yes`
 
@@ -40,9 +40,9 @@ Examples: , . - " : ( ) ? ' /
 
 ## Relations
 
-`PUNCT` nodes are attached to their parents using 2 different relations: [punct](cs_cac-dep-punct.html) (60119; 100% instances), [conj](cs_cac-dep-conj.html) (8; 0% instances)
+`PUNCT` nodes are attached to their parents using 2 different relations: <tt><a href="cs_cac-dep-punct.html">punct</a></tt> (60119; 100% instances), <tt><a href="cs_cac-dep-conj.html">conj</a></tt> (8; 0% instances)
 
-Parents of `PUNCT` nodes belong to 16 different parts of speech: [VERB](cs_cac-pos-VERB.html) (33355; 55% instances), [NOUN](cs_cac-pos-NOUN.html) (13671; 23% instances), [ADJ](cs_cac-pos-ADJ.html) (9153; 15% instances), [PROPN](cs_cac-pos-PROPN.html) (1430; 2% instances), [ADV](cs_cac-pos-ADV.html) (1150; 2% instances), [DET](cs_cac-pos-DET.html) (532; 1% instances), [NUM](cs_cac-pos-NUM.html) (321; 1% instances), [SYM](cs_cac-pos-SYM.html) (218; 0% instances), [PRON](cs_cac-pos-PRON.html) (139; 0% instances), [PART](cs_cac-pos-PART.html) (67; 0% instances), [SCONJ](cs_cac-pos-SCONJ.html) (55; 0% instances), [CCONJ](cs_cac-pos-CCONJ.html) (12; 0% instances), [AUX](cs_cac-pos-AUX.html) (10; 0% instances), [INTJ](cs_cac-pos-INTJ.html) (10; 0% instances), [ADP](cs_cac-pos-ADP.html) (2; 0% instances), [PUNCT](cs_cac-pos-PUNCT.html) (2; 0% instances)
+Parents of `PUNCT` nodes belong to 16 different parts of speech: <tt><a href="cs_cac-pos-VERB.html">VERB</a></tt> (33355; 55% instances), <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> (13671; 23% instances), <tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt> (9153; 15% instances), <tt><a href="cs_cac-pos-PROPN.html">PROPN</a></tt> (1430; 2% instances), <tt><a href="cs_cac-pos-ADV.html">ADV</a></tt> (1150; 2% instances), <tt><a href="cs_cac-pos-DET.html">DET</a></tt> (532; 1% instances), <tt><a href="cs_cac-pos-NUM.html">NUM</a></tt> (321; 1% instances), <tt><a href="cs_cac-pos-SYM.html">SYM</a></tt> (218; 0% instances), <tt><a href="cs_cac-pos-PRON.html">PRON</a></tt> (139; 0% instances), <tt><a href="cs_cac-pos-PART.html">PART</a></tt> (67; 0% instances), <tt><a href="cs_cac-pos-SCONJ.html">SCONJ</a></tt> (55; 0% instances), <tt><a href="cs_cac-pos-CCONJ.html">CCONJ</a></tt> (12; 0% instances), <tt><a href="cs_cac-pos-AUX.html">AUX</a></tt> (10; 0% instances), <tt><a href="cs_cac-pos-INTJ.html">INTJ</a></tt> (10; 0% instances), <tt><a href="cs_cac-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="cs_cac-pos-PUNCT.html">PUNCT</a></tt> (2; 0% instances)
 
 60123 (100%) `PUNCT` nodes are leaves.
 
@@ -54,7 +54,7 @@ Parents of `PUNCT` nodes belong to 16 different parts of speech: [VERB](cs_cac-p
 
 The highest child degree of a `PUNCT` node is 4.
 
-Children of `PUNCT` nodes are attached using 7 different relations: [case](cs_cac-dep-case.html) (2; 20% instances), [dep](cs_cac-dep-dep.html) (2; 20% instances), [punct](cs_cac-dep-punct.html) (2; 20% instances), [acl](cs_cac-dep-acl.html) (1; 10% instances), [mark](cs_cac-dep-mark.html) (1; 10% instances), [nmod](cs_cac-dep-nmod.html) (1; 10% instances), [obl](cs_cac-dep-obl.html) (1; 10% instances)
+Children of `PUNCT` nodes are attached using 7 different relations: <tt><a href="cs_cac-dep-case.html">case</a></tt> (2; 20% instances), <tt><a href="cs_cac-dep-dep.html">dep</a></tt> (2; 20% instances), <tt><a href="cs_cac-dep-punct.html">punct</a></tt> (2; 20% instances), <tt><a href="cs_cac-dep-acl.html">acl</a></tt> (1; 10% instances), <tt><a href="cs_cac-dep-mark.html">mark</a></tt> (1; 10% instances), <tt><a href="cs_cac-dep-nmod.html">nmod</a></tt> (1; 10% instances), <tt><a href="cs_cac-dep-obl.html">obl</a></tt> (1; 10% instances)
 
-Children of `PUNCT` nodes belong to 7 different parts of speech: [ADV](cs_cac-pos-ADV.html) (2; 20% instances), [CCONJ](cs_cac-pos-CCONJ.html) (2; 20% instances), [PUNCT](cs_cac-pos-PUNCT.html) (2; 20% instances), [ADJ](cs_cac-pos-ADJ.html) (1; 10% instances), [SCONJ](cs_cac-pos-SCONJ.html) (1; 10% instances), [SYM](cs_cac-pos-SYM.html) (1; 10% instances), [VERB](cs_cac-pos-VERB.html) (1; 10% instances)
+Children of `PUNCT` nodes belong to 7 different parts of speech: <tt><a href="cs_cac-pos-ADV.html">ADV</a></tt> (2; 20% instances), <tt><a href="cs_cac-pos-CCONJ.html">CCONJ</a></tt> (2; 20% instances), <tt><a href="cs_cac-pos-PUNCT.html">PUNCT</a></tt> (2; 20% instances), <tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt> (1; 10% instances), <tt><a href="cs_cac-pos-SCONJ.html">SCONJ</a></tt> (1; 10% instances), <tt><a href="cs_cac-pos-SYM.html">SYM</a></tt> (1; 10% instances), <tt><a href="cs_cac-pos-VERB.html">VERB</a></tt> (1; 10% instances)
 

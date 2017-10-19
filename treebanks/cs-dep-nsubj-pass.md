@@ -6,14 +6,14 @@ udver: '2'
 
 ## Treebank Statistics: UD_Czech: Relations: `nsubj:pass`
 
-This relation is a language-specific subtype of [nsubj]().
+This relation is a language-specific subtype of <tt><a href="cs-dep-nsubj.html">nsubj</a></tt>.
 
 7718 nodes (1%) are attached to their parents as `nsubj:pass`.
 
 4891 instances of `nsubj:pass` (63%) are right-to-left (child precedes parent).
 Average distance between parent and child is 3.71909821197201.
 
-The following 15 pairs of parts of speech are connected with `nsubj:pass`: [-pos/ADJ]()-[-pos/NOUN]() (3536; 46% instances), [-pos/VERB]()-[-pos/NOUN]() (2615; 34% instances), [-pos/ADJ]()-[-pos/DET]() (483; 6% instances), [-pos/VERB]()-[-pos/DET]() (343; 4% instances), [-pos/ADJ]()-[-pos/PROPN]() (314; 4% instances), [-pos/VERB]()-[-pos/PRON]() (96; 1% instances), [-pos/ADJ]()-[-pos/PRON]() (95; 1% instances), [-pos/ADJ]()-[-pos/NUM]() (59; 1% instances), [-pos/ADJ]()-[-pos/ADJ]() (40; 1% instances), [-pos/VERB]()-[-pos/PROPN]() (37; 0% instances), [-pos/ADJ]()-[-pos/ADV]() (32; 0% instances), [-pos/VERB]()-[-pos/NUM]() (31; 0% instances), [-pos/VERB]()-[-pos/ADJ]() (22; 0% instances), [-pos/VERB]()-[-pos/ADV]() (14; 0% instances), [-pos/NOUN]()-[-pos/DET]() (1; 0% instances).
+The following 15 pairs of parts of speech are connected with `nsubj:pass`: <tt><a href="cs-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cs-pos-NOUN.html">NOUN</a></tt> (3536; 46% instances), <tt><a href="cs-pos-VERB.html">VERB</a></tt>-<tt><a href="cs-pos-NOUN.html">NOUN</a></tt> (2615; 34% instances), <tt><a href="cs-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cs-pos-DET.html">DET</a></tt> (483; 6% instances), <tt><a href="cs-pos-VERB.html">VERB</a></tt>-<tt><a href="cs-pos-DET.html">DET</a></tt> (343; 4% instances), <tt><a href="cs-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cs-pos-PROPN.html">PROPN</a></tt> (314; 4% instances), <tt><a href="cs-pos-VERB.html">VERB</a></tt>-<tt><a href="cs-pos-PRON.html">PRON</a></tt> (96; 1% instances), <tt><a href="cs-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cs-pos-PRON.html">PRON</a></tt> (95; 1% instances), <tt><a href="cs-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cs-pos-NUM.html">NUM</a></tt> (59; 1% instances), <tt><a href="cs-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cs-pos-ADJ.html">ADJ</a></tt> (40; 1% instances), <tt><a href="cs-pos-VERB.html">VERB</a></tt>-<tt><a href="cs-pos-PROPN.html">PROPN</a></tt> (37; 0% instances), <tt><a href="cs-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cs-pos-ADV.html">ADV</a></tt> (32; 0% instances), <tt><a href="cs-pos-VERB.html">VERB</a></tt>-<tt><a href="cs-pos-NUM.html">NUM</a></tt> (31; 0% instances), <tt><a href="cs-pos-VERB.html">VERB</a></tt>-<tt><a href="cs-pos-ADJ.html">ADJ</a></tt> (22; 0% instances), <tt><a href="cs-pos-VERB.html">VERB</a></tt>-<tt><a href="cs-pos-ADV.html">ADV</a></tt> (14; 0% instances), <tt><a href="cs-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs-pos-DET.html">DET</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

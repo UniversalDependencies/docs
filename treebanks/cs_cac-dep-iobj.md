@@ -13,7 +13,7 @@ This relation is universal.
 1488 instances of `iobj` (70%) are left-to-right (parent precedes child).
 Average distance between parent and child is 3.11105882352941.
 
-The following 8 pairs of parts of speech are connected with `iobj`: [-pos/VERB]()-[-pos/NOUN]() (1364; 64% instances), [-pos/VERB]()-[-pos/PRON]() (509; 24% instances), [-pos/VERB]()-[-pos/DET]() (93; 4% instances), [-pos/VERB]()-[-pos/ADJ]() (89; 4% instances), [-pos/VERB]()-[-pos/PROPN]() (50; 2% instances), [-pos/VERB]()-[-pos/NUM]() (14; 1% instances), [-pos/VERB]()-[-pos/SYM]() (5; 0% instances), [-pos/VERB]()-[-pos/ADV]() (1; 0% instances).
+The following 8 pairs of parts of speech are connected with `iobj`: <tt><a href="cs_cac-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> (1364; 64% instances), <tt><a href="cs_cac-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_cac-pos-PRON.html">PRON</a></tt> (509; 24% instances), <tt><a href="cs_cac-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_cac-pos-DET.html">DET</a></tt> (93; 4% instances), <tt><a href="cs_cac-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt> (89; 4% instances), <tt><a href="cs_cac-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_cac-pos-PROPN.html">PROPN</a></tt> (50; 2% instances), <tt><a href="cs_cac-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_cac-pos-NUM.html">NUM</a></tt> (14; 1% instances), <tt><a href="cs_cac-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_cac-pos-SYM.html">SYM</a></tt> (5; 0% instances), <tt><a href="cs_cac-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_cac-pos-ADV.html">ADV</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

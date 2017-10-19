@@ -13,13 +13,13 @@ Some words have combined values of the feature; 1 combinations have been observe
 8080 tokens (1%) have a non-empty value of `NumValue`.
 90 types (0%) occur at least once with a non-empty value of `NumValue`.
 18 lemmas (0%) occur at least once with a non-empty value of `NumValue`.
-The feature is used with 2 part-of-speech tags: [NUM](cs-pos-NUM.html) (8050; 1% instances), [ADJ](cs-pos-ADJ.html) (30; 0% instances).
+The feature is used with 2 part-of-speech tags: <tt><a href="cs-pos-NUM.html">NUM</a></tt> (8050; 1% instances), <tt><a href="cs-pos-ADJ.html">ADJ</a></tt> (30; 0% instances).
 
 ### `NUM`
 
-8050 [NUM](cs-pos-NUM.html) tokens (19% of all `NUM` tokens) have a non-empty value of `NumValue`.
+8050 <tt><a href="cs-pos-NUM.html">NUM</a></tt> tokens (19% of all `NUM` tokens) have a non-empty value of `NumValue`.
 
-The most frequent other feature values with which `NUM` and `NumValue` co-occurred: <tt><a href="NumType.html">NumType</a>=Card</tt> (8050; 100%), <tt><a href="NumForm.html">NumForm</a>=Word</tt> (8050; 100%), <tt><a href="Number.html">Number</a>=Plur</tt> (4885; 61%).
+The most frequent other feature values with which `NUM` and `NumValue` co-occurred: <tt><a href="cs-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (8050; 100%), <tt><a href="cs-feat-NumForm.html">NumForm</a></tt><tt>=Word</tt> (8050; 100%), <tt><a href="cs-feat-Number.html">Number</a></tt><tt>=Plur</tt> (4885; 61%).
 
 `NUM` tokens may have the following values of `NumValue`:
 
@@ -29,9 +29,9 @@ The most frequent other feature values with which `NUM` and `NumValue` co-occurr
 
 ### `ADJ`
 
-30 [ADJ](cs-pos-ADJ.html) tokens (0% of all `ADJ` tokens) have a non-empty value of `NumValue`.
+30 <tt><a href="cs-pos-ADJ.html">ADJ</a></tt> tokens (0% of all `ADJ` tokens) have a non-empty value of `NumValue`.
 
-The most frequent other feature values with which `ADJ` and `NumValue` co-occurred: <tt><a href="Polarity.html">Polarity</a>=EMPTY</tt> (30; 100%), <tt><a href="Number.html">Number</a>=Plur</tt> (30; 100%), <tt><a href="Degree.html">Degree</a>=EMPTY</tt> (30; 100%), <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (19; 63%).
+The most frequent other feature values with which `ADJ` and `NumValue` co-occurred: <tt><a href="cs-feat-Number.html">Number</a></tt><tt>=Plur</tt> (30; 100%), <tt><a href="cs-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (30; 100%), <tt><a href="cs-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (30; 100%), <tt><a href="cs-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (19; 63%).
 
 `ADJ` tokens may have the following values of `NumValue`:
 
@@ -40,6 +40,6 @@ The most frequent other feature values with which `ADJ` and `NumValue` co-occurr
 ## Relations with Agreement in `NumValue`
 
 The 10 most frequent relations where parent and child node agree in `NumValue`:
-<tt>NUM --[<a href="../dep/conj.html">conj</a>]--> NUM</tt> (99; 69%),
-<tt>NUM --[<a href="../dep/orphan.html">orphan</a>]--> NUM</tt> (3; 100%).
+<tt>NUM --[<tt><a href="cs-dep-conj.html">conj</a></tt>]--> NUM</tt> (99; 69%),
+<tt>NUM --[<tt><a href="cs-dep-orphan.html">orphan</a></tt>]--> NUM</tt> (3; 100%).
 

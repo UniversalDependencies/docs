@@ -7,14 +7,14 @@ udver: '2'
 ## Treebank Statistics: UD_Czech-CAC: Relations: `det`
 
 This relation is universal.
-There are 2 language-specific subtypes of `det`: [det:numgov](), [det:nummod]().
+There are 2 language-specific subtypes of `det`: <tt><a href="cs_cac-dep-det-numgov.html">det:numgov</a></tt>, <tt><a href="cs_cac-dep-det-nummod.html">det:nummod</a></tt>.
 
 10752 nodes (2%) are attached to their parents as `det`.
 
 10618 instances of `det` (99%) are right-to-left (child precedes parent).
 Average distance between parent and child is 1.35286458333333.
 
-The following 10 pairs of parts of speech are connected with `det`: [-pos/NOUN]()-[-pos/DET]() (10582; 98% instances), [-pos/ADJ]()-[-pos/DET]() (51; 0% instances), [-pos/PROPN]()-[-pos/DET]() (33; 0% instances), [-pos/SYM]()-[-pos/DET]() (29; 0% instances), [-pos/PRON]()-[-pos/DET]() (18; 0% instances), [-pos/NUM]()-[-pos/DET]() (15; 0% instances), [-pos/ADV]()-[-pos/DET]() (13; 0% instances), [-pos/DET]()-[-pos/DET]() (6; 0% instances), [-pos/VERB]()-[-pos/DET]() (4; 0% instances), [-pos/ADP]()-[-pos/DET]() (1; 0% instances).
+The following 10 pairs of parts of speech are connected with `det`: <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_cac-pos-DET.html">DET</a></tt> (10582; 98% instances), <tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cs_cac-pos-DET.html">DET</a></tt> (51; 0% instances), <tt><a href="cs_cac-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cs_cac-pos-DET.html">DET</a></tt> (33; 0% instances), <tt><a href="cs_cac-pos-SYM.html">SYM</a></tt>-<tt><a href="cs_cac-pos-DET.html">DET</a></tt> (29; 0% instances), <tt><a href="cs_cac-pos-PRON.html">PRON</a></tt>-<tt><a href="cs_cac-pos-DET.html">DET</a></tt> (18; 0% instances), <tt><a href="cs_cac-pos-NUM.html">NUM</a></tt>-<tt><a href="cs_cac-pos-DET.html">DET</a></tt> (15; 0% instances), <tt><a href="cs_cac-pos-ADV.html">ADV</a></tt>-<tt><a href="cs_cac-pos-DET.html">DET</a></tt> (13; 0% instances), <tt><a href="cs_cac-pos-DET.html">DET</a></tt>-<tt><a href="cs_cac-pos-DET.html">DET</a></tt> (6; 0% instances), <tt><a href="cs_cac-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_cac-pos-DET.html">DET</a></tt> (4; 0% instances), <tt><a href="cs_cac-pos-ADP.html">ADP</a></tt>-<tt><a href="cs_cac-pos-DET.html">DET</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

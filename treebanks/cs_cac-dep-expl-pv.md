@@ -6,15 +6,15 @@ udver: '2'
 
 ## Treebank Statistics: UD_Czech-CAC: Relations: `expl:pv`
 
-This relation is a language-specific subtype of [expl]().
-There are also 1 other language-specific subtypes of `expl`: [expl:pass]().
+This relation is a language-specific subtype of .
+There are also 1 other language-specific subtypes of `expl`: <tt><a href="cs_cac-dep-expl-pass.html">expl:pass</a></tt>.
 
 6066 nodes (1%) are attached to their parents as `expl:pv`.
 
 4766 instances of `expl:pv` (79%) are right-to-left (child precedes parent).
 Average distance between parent and child is 2.08984503791625.
 
-The following 4 pairs of parts of speech are connected with `expl:pv`: [-pos/VERB]()-[-pos/PRON]() (5780; 95% instances), [-pos/ADJ]()-[-pos/PRON]() (253; 4% instances), [-pos/NOUN]()-[-pos/PRON]() (17; 0% instances), [-pos/SYM]()-[-pos/PRON]() (16; 0% instances).
+The following 4 pairs of parts of speech are connected with `expl:pv`: <tt><a href="cs_cac-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_cac-pos-PRON.html">PRON</a></tt> (5780; 95% instances), <tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cs_cac-pos-PRON.html">PRON</a></tt> (253; 4% instances), <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_cac-pos-PRON.html">PRON</a></tt> (17; 0% instances), <tt><a href="cs_cac-pos-SYM.html">SYM</a></tt>-<tt><a href="cs_cac-pos-PRON.html">PRON</a></tt> (16; 0% instances).
 
 
 ~~~ conllu

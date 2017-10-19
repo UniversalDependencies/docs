@@ -12,11 +12,11 @@ It occurs with 3 different values: `Comprep`, `Prep`, `Voc`.
 1841 tokens (10%) have a non-empty value of `AdpType`.
 82 types (1%) occur at least once with a non-empty value of `AdpType`.
 48 lemmas (1%) occur at least once with a non-empty value of `AdpType`.
-The feature is used with 1 part-of-speech tags: [ADP](cs_pud-pos-ADP.html) (1841; 10% instances).
+The feature is used with 1 part-of-speech tags: <tt><a href="cs_pud-pos-ADP.html">ADP</a></tt> (1841; 10% instances).
 
 ### `ADP`
 
-1841 [ADP](cs_pud-pos-ADP.html) tokens (100% of all `ADP` tokens) have a non-empty value of `AdpType`.
+1841 <tt><a href="cs_pud-pos-ADP.html">ADP</a></tt> tokens (100% of all `ADP` tokens) have a non-empty value of `AdpType`.
 
 `ADP` tokens may have the following values of `AdpType`:
 
@@ -26,12 +26,12 @@ The feature is used with 1 part-of-speech tags: [ADP](cs_pud-pos-ADP.html) (1841
 
 <table>
   <tr><th>Paradigm <i>v</i></th><th><tt>Prep</tt></th><th><tt>Voc</tt></th></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Acc</tt></td><td>v</td><td>ve</td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Loc</tt></td><td>v</td><td>ve</td></tr>
+  <tr><td><tt><tt><a href="cs_pud-feat-Case.html">Case</a></tt><tt>=Acc</tt></tt></td><td>v</td><td>ve</td></tr>
+  <tr><td><tt><tt><a href="cs_pud-feat-Case.html">Case</a></tt><tt>=Loc</tt></tt></td><td>v</td><td>ve</td></tr>
 </table>
 
 ## Relations with Agreement in `AdpType`
 
 The 10 most frequent relations where parent and child node agree in `AdpType`:
-<tt>ADP --[<a href="../dep/fixed.html">fixed</a>]--> ADP</tt> (7; 64%).
+<tt>ADP --[<tt><a href="cs_pud-dep-fixed.html">fixed</a></tt>]--> ADP</tt> (7; 64%).
 

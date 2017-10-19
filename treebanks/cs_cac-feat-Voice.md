@@ -12,13 +12,13 @@ It occurs with 2 different values: `Act`, `Pass`.
 50464 tokens (10%) have a non-empty value of `Voice`.
 12504 types (20%) occur at least once with a non-empty value of `Voice`.
 4865 lemmas (17%) occur at least once with a non-empty value of `Voice`.
-The feature is used with 3 part-of-speech tags: [VERB](cs_cac-pos-VERB.html) (32524; 7% instances), [AUX](cs_cac-pos-AUX.html) (11531; 2% instances), [ADJ](cs_cac-pos-ADJ.html) (6409; 1% instances).
+The feature is used with 3 part-of-speech tags: <tt><a href="cs_cac-pos-VERB.html">VERB</a></tt> (32524; 7% instances), <tt><a href="cs_cac-pos-AUX.html">AUX</a></tt> (11531; 2% instances), <tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt> (6409; 1% instances).
 
 ### `VERB`
 
-32524 [VERB](cs_cac-pos-VERB.html) tokens (80% of all `VERB` tokens) have a non-empty value of `Voice`.
+32524 <tt><a href="cs_cac-pos-VERB.html">VERB</a></tt> tokens (80% of all `VERB` tokens) have a non-empty value of `Voice`.
 
-The most frequent other feature values with which `VERB` and `Voice` co-occurred: <tt><a href="Polarity.html">Polarity</a>=Pos</tt> (29667; 91%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (21961; 68%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (21953; 67%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (21953; 67%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (21876; 67%), <tt><a href="Number.html">Number</a>=Sing</tt> (18754; 58%), <tt><a href="Person.html">Person</a>=3</tt> (18469; 57%).
+The most frequent other feature values with which `VERB` and `Voice` co-occurred: <tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (29667; 91%), <tt><a href="cs_cac-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (21961; 68%), <tt><a href="cs_cac-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (21953; 67%), <tt><a href="cs_cac-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (21953; 67%), <tt><a href="cs_cac-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (21876; 67%), <tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt> (18754; 58%), <tt><a href="cs_cac-feat-Person.html">Person</a></tt><tt>=3</tt> (18469; 57%).
 
 `VERB` tokens may have the following values of `Voice`:
 
@@ -29,9 +29,9 @@ The most frequent other feature values with which `VERB` and `Voice` co-occurred
 
 ### `AUX`
 
-11531 [AUX](cs_cac-pos-AUX.html) tokens (81% of all `AUX` tokens) have a non-empty value of `Voice`.
+11531 <tt><a href="cs_cac-pos-AUX.html">AUX</a></tt> tokens (81% of all `AUX` tokens) have a non-empty value of `Voice`.
 
-The most frequent other feature values with which `AUX` and `Voice` co-occurred: <tt><a href="Polarity.html">Polarity</a>=Pos</tt> (10642; 92%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (9081; 79%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (9079; 79%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (9079; 79%), <tt><a href="Person.html">Person</a>=3</tt> (7991; 69%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (7983; 69%), <tt><a href="Number.html">Number</a>=Sing</tt> (7777; 67%).
+The most frequent other feature values with which `AUX` and `Voice` co-occurred: <tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (10642; 92%), <tt><a href="cs_cac-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (9081; 79%), <tt><a href="cs_cac-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (9079; 79%), <tt><a href="cs_cac-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (9079; 79%), <tt><a href="cs_cac-feat-Person.html">Person</a></tt><tt>=3</tt> (7991; 69%), <tt><a href="cs_cac-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (7983; 69%), <tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt> (7777; 67%).
 
 `AUX` tokens may have the following values of `Voice`:
 
@@ -40,9 +40,9 @@ The most frequent other feature values with which `AUX` and `Voice` co-occurred:
 
 ### `ADJ`
 
-6409 [ADJ](cs_cac-pos-ADJ.html) tokens (9% of all `ADJ` tokens) have a non-empty value of `Voice`.
+6409 <tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt> tokens (9% of all `ADJ` tokens) have a non-empty value of `Voice`.
 
-The most frequent other feature values with which `ADJ` and `Voice` co-occurred: <tt><a href="Degree.html">Degree</a>=EMPTY</tt> (6409; 100%), <tt><a href="Polarity.html">Polarity</a>=Pos</tt> (6356; 99%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (4261; 66%), <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (4055; 63%).
+The most frequent other feature values with which `ADJ` and `Voice` co-occurred: <tt><a href="cs_cac-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (6409; 100%), <tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (6356; 99%), <tt><a href="cs_cac-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (4261; 66%), <tt><a href="cs_cac-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (4055; 63%).
 
 `ADJ` tokens may have the following values of `Voice`:
 
@@ -55,14 +55,14 @@ The most frequent other feature values with which `ADJ` and `Voice` co-occurred:
 ## Relations with Agreement in `Voice`
 
 The 10 most frequent relations where parent and child node agree in `Voice`:
-<tt>VERB --[<a href="../dep/conj.html">conj</a>]--> VERB</tt> (4715; 97%),
-<tt>VERB --[<a href="../dep/advcl.html">advcl</a>]--> VERB</tt> (1544; 83%),
-<tt>VERB --[<a href="../dep/ccomp.html">ccomp</a>]--> VERB</tt> (862; 71%),
-<tt>ADJ --[<a href="../dep/conj.html">conj</a>]--> ADJ</tt> (358; 66%),
-<tt>VERB --[<a href="../dep/parataxis.html">parataxis</a>]--> VERB</tt> (213; 81%),
-<tt>VERB --[<a href="../dep/csubj:pass.html">csubj:pass</a>]--> VERB</tt> (50; 62%),
-<tt>VERB --[<a href="../dep/appos.html">appos</a>]--> VERB</tt> (23; 88%),
-<tt>VERB --[<a href="../dep/dep.html">dep</a>]--> VERB</tt> (15; 63%),
-<tt>AUX --[<a href="../dep/conj.html">conj</a>]--> VERB</tt> (13; 100%),
-<tt>VERB --[<a href="../dep/orphan.html">orphan</a>]--> VERB</tt> (11; 73%).
+<tt>VERB --[<tt><a href="cs_cac-dep-conj.html">conj</a></tt>]--> VERB</tt> (4715; 97%),
+<tt>VERB --[<tt><a href="cs_cac-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (1544; 83%),
+<tt>VERB --[<tt><a href="cs_cac-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (862; 71%),
+<tt>ADJ --[<tt><a href="cs_cac-dep-conj.html">conj</a></tt>]--> ADJ</tt> (358; 66%),
+<tt>VERB --[<tt><a href="cs_cac-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (213; 81%),
+<tt>VERB --[<tt><a href="cs_cac-dep-csubj-pass.html">csubj:pass</a></tt>]--> VERB</tt> (50; 62%),
+<tt>VERB --[<tt><a href="cs_cac-dep-appos.html">appos</a></tt>]--> VERB</tt> (23; 88%),
+<tt>VERB --[<tt><a href="cs_cac-dep-dep.html">dep</a></tt>]--> VERB</tt> (15; 63%),
+<tt>AUX --[<tt><a href="cs_cac-dep-conj.html">conj</a></tt>]--> VERB</tt> (13; 100%),
+<tt>VERB --[<tt><a href="cs_cac-dep-orphan.html">orphan</a></tt>]--> VERB</tt> (11; 73%).
 

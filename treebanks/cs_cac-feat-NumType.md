@@ -13,13 +13,13 @@ Some words have combined values of the feature; 1 combinations have been observe
 8992 tokens (2%) have a non-empty value of `NumType`.
 345 types (1%) occur at least once with a non-empty value of `NumType`.
 139 lemmas (0%) occur at least once with a non-empty value of `NumType`.
-The feature is used with 4 part-of-speech tags: [NUM](cs_cac-pos-NUM.html) (7307; 1% instances), [ADJ](cs_cac-pos-ADJ.html) (863; 0% instances), [DET](cs_cac-pos-DET.html) (654; 0% instances), [ADV](cs_cac-pos-ADV.html) (168; 0% instances).
+The feature is used with 4 part-of-speech tags: <tt><a href="cs_cac-pos-NUM.html">NUM</a></tt> (7307; 1% instances), <tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt> (863; 0% instances), <tt><a href="cs_cac-pos-DET.html">DET</a></tt> (654; 0% instances), <tt><a href="cs_cac-pos-ADV.html">ADV</a></tt> (168; 0% instances).
 
 ### `NUM`
 
-7307 [NUM](cs_cac-pos-NUM.html) tokens (100% of all `NUM` tokens) have a non-empty value of `NumType`.
+7307 <tt><a href="cs_cac-pos-NUM.html">NUM</a></tt> tokens (100% of all `NUM` tokens) have a non-empty value of `NumType`.
 
-The most frequent other feature values with which `NUM` and `NumType` co-occurred: <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (6108; 84%), <tt><a href="NumValue.html">NumValue</a>=EMPTY</tt> (5345; 73%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (4836; 66%), <tt><a href="NumForm.html">NumForm</a>=Digit</tt> (4836; 66%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (4836; 66%).
+The most frequent other feature values with which `NUM` and `NumType` co-occurred: <tt><a href="cs_cac-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (6108; 84%), <tt><a href="cs_cac-feat-NumValue.html">NumValue</a></tt><tt>=EMPTY</tt> (5345; 73%), <tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (4836; 66%), <tt><a href="cs_cac-feat-NumForm.html">NumForm</a></tt><tt>=Digit</tt> (4836; 66%), <tt><a href="cs_cac-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (4836; 66%).
 
 `NUM` tokens may have the following values of `NumType`:
 
@@ -30,9 +30,9 @@ The most frequent other feature values with which `NUM` and `NumType` co-occurre
 
 ### `ADJ`
 
-863 [ADJ](cs_cac-pos-ADJ.html) tokens (1% of all `ADJ` tokens) have a non-empty value of `NumType`.
+863 <tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt> tokens (1% of all `ADJ` tokens) have a non-empty value of `NumType`.
 
-The most frequent other feature values with which `ADJ` and `NumType` co-occurred: <tt><a href="Polarity.html">Polarity</a>=EMPTY</tt> (863; 100%), <tt><a href="Degree.html">Degree</a>=EMPTY</tt> (863; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (607; 70%), <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (566; 66%).
+The most frequent other feature values with which `ADJ` and `NumType` co-occurred: <tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (863; 100%), <tt><a href="cs_cac-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (863; 100%), <tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt> (607; 70%), <tt><a href="cs_cac-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (566; 66%).
 
 `ADJ` tokens may have the following values of `NumType`:
 
@@ -45,9 +45,9 @@ The most frequent other feature values with which `ADJ` and `NumType` co-occurre
 
 ### `DET`
 
-654 [DET](cs_cac-pos-DET.html) tokens (3% of all `DET` tokens) have a non-empty value of `NumType`.
+654 <tt><a href="cs_cac-pos-DET.html">DET</a></tt> tokens (3% of all `DET` tokens) have a non-empty value of `NumType`.
 
-The most frequent other feature values with which `DET` and `NumType` co-occurred: <tt><a href="Poss.html">Poss</a>=EMPTY</tt> (654; 100%), <tt><a href="Number[psor].html">Number[psor]</a>=EMPTY</tt> (654; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (654; 100%), <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (652; 100%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (638; 98%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (638; 98%), <tt><a href="PronType.html">PronType</a>=Ind</tt> (563; 86%).
+The most frequent other feature values with which `DET` and `NumType` co-occurred: <tt><a href="cs_cac-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (654; 100%), <tt><a href="cs_cac-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (654; 100%), <tt><a href="cs_cac-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (654; 100%), <tt><a href="cs_cac-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (652; 100%), <tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (638; 98%), <tt><a href="cs_cac-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (638; 98%), <tt><a href="cs_cac-feat-PronType.html">PronType</a></tt><tt>=Ind</tt> (563; 86%).
 
 `DET` tokens may have the following values of `NumType`:
 
@@ -57,9 +57,9 @@ The most frequent other feature values with which `DET` and `NumType` co-occurre
 
 ### `ADV`
 
-168 [ADV](cs_cac-pos-ADV.html) tokens (1% of all `ADV` tokens) have a non-empty value of `NumType`.
+168 <tt><a href="cs_cac-pos-ADV.html">ADV</a></tt> tokens (1% of all `ADV` tokens) have a non-empty value of `NumType`.
 
-The most frequent other feature values with which `ADV` and `NumType` co-occurred: <tt><a href="Degree.html">Degree</a>=EMPTY</tt> (168; 100%), <tt><a href="Polarity.html">Polarity</a>=EMPTY</tt> (168; 100%), <tt><a href="PronType.html">PronType</a>=EMPTY</tt> (122; 73%).
+The most frequent other feature values with which `ADV` and `NumType` co-occurred: <tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (168; 100%), <tt><a href="cs_cac-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (168; 100%), <tt><a href="cs_cac-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (122; 73%).
 
 `ADV` tokens may have the following values of `NumType`:
 
@@ -72,10 +72,10 @@ The most frequent other feature values with which `ADV` and `NumType` co-occurre
 ## Relations with Agreement in `NumType`
 
 The 10 most frequent relations where parent and child node agree in `NumType`:
-<tt>NUM --[<a href="../dep/conj.html">conj</a>]--> NUM</tt> (312; 100%),
-<tt>NUM --[<a href="../dep/compound.html">compound</a>]--> NUM</tt> (42; 100%),
-<tt>NUM --[<a href="../dep/orphan.html">orphan</a>]--> NUM</tt> (16; 100%),
-<tt>ADV --[<a href="../dep/conj.html">conj</a>]--> ADV</tt> (6; 55%),
-<tt>NUM --[<a href="../dep/det:nummod.html">det:nummod</a>]--> DET</tt> (5; 100%),
-<tt>NUM --[<a href="../dep/appos.html">appos</a>]--> DET</tt> (1; 100%).
+<tt>NUM --[<tt><a href="cs_cac-dep-conj.html">conj</a></tt>]--> NUM</tt> (312; 100%),
+<tt>NUM --[<tt><a href="cs_cac-dep-compound.html">compound</a></tt>]--> NUM</tt> (42; 100%),
+<tt>NUM --[<tt><a href="cs_cac-dep-orphan.html">orphan</a></tt>]--> NUM</tt> (16; 100%),
+<tt>ADV --[<tt><a href="cs_cac-dep-conj.html">conj</a></tt>]--> ADV</tt> (6; 55%),
+<tt>NUM --[<tt><a href="cs_cac-dep-det-nummod.html">det:nummod</a></tt>]--> DET</tt> (5; 100%),
+<tt>NUM --[<tt><a href="cs_cac-dep-appos.html">appos</a></tt>]--> DET</tt> (1; 100%).
 

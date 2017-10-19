@@ -7,14 +7,14 @@ udver: '2'
 ## Treebank Statistics: UD_Czech-PUD: Relations: `csubj`
 
 This relation is universal.
-There are 1 language-specific subtypes of `csubj`: [csubj:pass]().
+There are 1 language-specific subtypes of `csubj`: <tt><a href="cs_pud-dep-csubj-pass.html">csubj:pass</a></tt>.
 
 57 nodes (0%) are attached to their parents as `csubj`.
 
 54 instances of `csubj` (95%) are left-to-right (parent precedes child).
 Average distance between parent and child is 3.10526315789474.
 
-The following 5 pairs of parts of speech are connected with `csubj`: [-pos/VERB]()-[-pos/VERB]() (28; 49% instances), [-pos/ADJ]()-[-pos/VERB]() (17; 30% instances), [-pos/NOUN]()-[-pos/VERB]() (6; 11% instances), [-pos/ADV]()-[-pos/VERB]() (5; 9% instances), [-pos/ADJ]()-[-pos/DET]() (1; 2% instances).
+The following 5 pairs of parts of speech are connected with `csubj`: <tt><a href="cs_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_pud-pos-VERB.html">VERB</a></tt> (28; 49% instances), <tt><a href="cs_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cs_pud-pos-VERB.html">VERB</a></tt> (17; 30% instances), <tt><a href="cs_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_pud-pos-VERB.html">VERB</a></tt> (6; 11% instances), <tt><a href="cs_pud-pos-ADV.html">ADV</a></tt>-<tt><a href="cs_pud-pos-VERB.html">VERB</a></tt> (5; 9% instances), <tt><a href="cs_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cs_pud-pos-DET.html">DET</a></tt> (1; 2% instances).
 
 
 ~~~ conllu

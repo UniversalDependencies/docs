@@ -6,15 +6,15 @@ udver: '2'
 
 ## Treebank Statistics: UD_Czech: Relations: `expl:pass`
 
-This relation is a language-specific subtype of [expl]().
-There are also 1 other language-specific subtypes of `expl`: [expl:pv]().
+This relation is a language-specific subtype of .
+There are also 1 other language-specific subtypes of `expl`: <tt><a href="cs-dep-expl-pv.html">expl:pv</a></tt>.
 
 4906 nodes (0%) are attached to their parents as `expl:pass`.
 
 4139 instances of `expl:pass` (84%) are right-to-left (child precedes parent).
 Average distance between parent and child is 2.17305340399511.
 
-The following 4 pairs of parts of speech are connected with `expl:pass`: [-pos/VERB]()-[-pos/PRON]() (4897; 100% instances), [-pos/ADJ]()-[-pos/PRON]() (5; 0% instances), [-pos/NOUN]()-[-pos/PRON]() (3; 0% instances), [-pos/DET]()-[-pos/PRON]() (1; 0% instances).
+The following 4 pairs of parts of speech are connected with `expl:pass`: <tt><a href="cs-pos-VERB.html">VERB</a></tt>-<tt><a href="cs-pos-PRON.html">PRON</a></tt> (4897; 100% instances), <tt><a href="cs-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cs-pos-PRON.html">PRON</a></tt> (5; 0% instances), <tt><a href="cs-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs-pos-PRON.html">PRON</a></tt> (3; 0% instances), <tt><a href="cs-pos-DET.html">DET</a></tt>-<tt><a href="cs-pos-PRON.html">PRON</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

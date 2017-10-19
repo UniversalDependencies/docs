@@ -13,7 +13,7 @@ This relation is universal.
 32 instances of `vocative` (55%) are right-to-left (child precedes parent).
 Average distance between parent and child is 4.53448275862069.
 
-The following 7 pairs of parts of speech are connected with `vocative`: [-pos/VERB]()-[-pos/NOUN]() (40; 69% instances), [-pos/VERB]()-[-pos/PROPN]() (8; 14% instances), [-pos/ADJ]()-[-pos/NOUN]() (4; 7% instances), [-pos/NOUN]()-[-pos/NOUN]() (3; 5% instances), [-pos/ADV]()-[-pos/NOUN]() (1; 2% instances), [-pos/PRON]()-[-pos/PROPN]() (1; 2% instances), [-pos/VERB]()-[-pos/PRON]() (1; 2% instances).
+The following 7 pairs of parts of speech are connected with `vocative`: <tt><a href="cs_cac-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> (40; 69% instances), <tt><a href="cs_cac-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_cac-pos-PROPN.html">PROPN</a></tt> (8; 14% instances), <tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> (4; 7% instances), <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> (3; 5% instances), <tt><a href="cs_cac-pos-ADV.html">ADV</a></tt>-<tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="cs_cac-pos-PRON.html">PRON</a></tt>-<tt><a href="cs_cac-pos-PROPN.html">PROPN</a></tt> (1; 2% instances), <tt><a href="cs_cac-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_cac-pos-PRON.html">PRON</a></tt> (1; 2% instances).
 
 
 ~~~ conllu

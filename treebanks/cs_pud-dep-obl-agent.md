@@ -6,14 +6,14 @@ udver: '2'
 
 ## Treebank Statistics: UD_Czech-PUD: Relations: `obl:agent`
 
-This relation is a language-specific subtype of [obl]().
+This relation is a language-specific subtype of <tt><a href="cs_pud-dep-obl.html">obl</a></tt>.
 
 21 nodes (0%) are attached to their parents as `obl:agent`.
 
 14 instances of `obl:agent` (67%) are left-to-right (parent precedes child).
 Average distance between parent and child is 2.19047619047619.
 
-The following 3 pairs of parts of speech are connected with `obl:agent`: [-pos/ADJ]()-[-pos/NOUN]() (17; 81% instances), [-pos/ADJ]()-[-pos/PROPN]() (3; 14% instances), [-pos/ADJ]()-[-pos/PRON]() (1; 5% instances).
+The following 3 pairs of parts of speech are connected with `obl:agent`: <tt><a href="cs_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cs_pud-pos-NOUN.html">NOUN</a></tt> (17; 81% instances), <tt><a href="cs_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cs_pud-pos-PROPN.html">PROPN</a></tt> (3; 14% instances), <tt><a href="cs_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cs_pud-pos-PRON.html">PRON</a></tt> (1; 5% instances).
 
 
 ~~~ conllu

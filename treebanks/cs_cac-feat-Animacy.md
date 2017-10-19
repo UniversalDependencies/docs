@@ -12,13 +12,13 @@ It occurs with 2 different values: `Anim`, `Inan`.
 97987 tokens (20%) have a non-empty value of `Animacy`.
 26831 types (43%) occur at least once with a non-empty value of `Animacy`.
 12618 lemmas (44%) occur at least once with a non-empty value of `Animacy`.
-The feature is used with 8 part-of-speech tags: [NOUN](cs_cac-pos-NOUN.html) (56383; 11% instances), [ADJ](cs_cac-pos-ADJ.html) (29322; 6% instances), [PROPN](cs_cac-pos-PROPN.html) (5431; 1% instances), [VERB](cs_cac-pos-VERB.html) (3259; 1% instances), [DET](cs_cac-pos-DET.html) (2068; 0% instances), [PRON](cs_cac-pos-PRON.html) (866; 0% instances), [AUX](cs_cac-pos-AUX.html) (558; 0% instances), [NUM](cs_cac-pos-NUM.html) (100; 0% instances).
+The feature is used with 8 part-of-speech tags: <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> (56383; 11% instances), <tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt> (29322; 6% instances), <tt><a href="cs_cac-pos-PROPN.html">PROPN</a></tt> (5431; 1% instances), <tt><a href="cs_cac-pos-VERB.html">VERB</a></tt> (3259; 1% instances), <tt><a href="cs_cac-pos-DET.html">DET</a></tt> (2068; 0% instances), <tt><a href="cs_cac-pos-PRON.html">PRON</a></tt> (866; 0% instances), <tt><a href="cs_cac-pos-AUX.html">AUX</a></tt> (558; 0% instances), <tt><a href="cs_cac-pos-NUM.html">NUM</a></tt> (100; 0% instances).
 
 ### `NOUN`
 
-56383 [NOUN](cs_cac-pos-NOUN.html) tokens (41% of all `NOUN` tokens) have a non-empty value of `Animacy`.
+56383 <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> tokens (41% of all `NOUN` tokens) have a non-empty value of `Animacy`.
 
-The most frequent other feature values with which `NOUN` and `Animacy` co-occurred: <tt><a href="Gender.html">Gender</a>=Masc</tt> (56383; 100%), <tt><a href="Polarity.html">Polarity</a>=Pos</tt> (56378; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (35748; 63%).
+The most frequent other feature values with which `NOUN` and `Animacy` co-occurred: <tt><a href="cs_cac-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (56383; 100%), <tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (56378; 100%), <tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt> (35748; 63%).
 
 `NOUN` tokens may have the following values of `Animacy`:
 
@@ -28,27 +28,27 @@ The most frequent other feature values with which `NOUN` and `Animacy` co-occurr
 
 <table>
   <tr><th>Paradigm <i>druh</i></th><th><tt>Anim</tt></th><th><tt>Inan</tt></th></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Number.html">Number</a>=Sing</tt></td><td>druha</td><td>druh</td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Number.html">Number</a>=Plur</tt></td><td></td><td>druhy</td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Dat|<a href="Number.html">Number</a>=Sing</tt></td><td></td><td>druhu</td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Dat|<a href="Number.html">Number</a>=Plur</tt></td><td></td><td>druhům</td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Number.html">Number</a>=Sing</tt></td><td></td><td>druhu</td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Number.html">Number</a>=Plur</tt></td><td></td><td>druhů</td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Ins|<a href="Number.html">Number</a>=Sing</tt></td><td></td><td>druhem</td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Ins|<a href="Number.html">Number</a>=Plur</tt></td><td></td><td>druhy</td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Loc|<a href="Number.html">Number</a>=Sing</tt></td><td></td><td>druhu</td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Loc|<a href="Number.html">Number</a>=Plur</tt></td><td></td><td>druzích</td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Number.html">Number</a>=Sing</tt></td><td></td><td>druh</td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Number.html">Number</a>=Plur</tt></td><td>druzi</td><td>druhy</td></tr>
+  <tr><td><tt><tt><a href="cs_cac-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td>druha</td><td>druh</td></tr>
+  <tr><td><tt><tt><a href="cs_cac-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td>druhy</td></tr>
+  <tr><td><tt><tt><a href="cs_cac-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td>druhu</td></tr>
+  <tr><td><tt><tt><a href="cs_cac-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td>druhům</td></tr>
+  <tr><td><tt><tt><a href="cs_cac-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td>druhu</td></tr>
+  <tr><td><tt><tt><a href="cs_cac-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td>druhů</td></tr>
+  <tr><td><tt><tt><a href="cs_cac-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td>druhem</td></tr>
+  <tr><td><tt><tt><a href="cs_cac-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td>druhy</td></tr>
+  <tr><td><tt><tt><a href="cs_cac-feat-Case.html">Case</a></tt><tt>=Loc</tt>|<tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td>druhu</td></tr>
+  <tr><td><tt><tt><a href="cs_cac-feat-Case.html">Case</a></tt><tt>=Loc</tt>|<tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td>druzích</td></tr>
+  <tr><td><tt><tt><a href="cs_cac-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td>druh</td></tr>
+  <tr><td><tt><tt><a href="cs_cac-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td>druzi</td><td>druhy</td></tr>
 </table>
 
 `Animacy` seems to be **lexical feature** of `NOUN`. 99% lemmas (3981) occur only with one value of `Animacy`.
 
 ### `ADJ`
 
-29322 [ADJ](cs_cac-pos-ADJ.html) tokens (39% of all `ADJ` tokens) have a non-empty value of `Animacy`.
+29322 <tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt> tokens (39% of all `ADJ` tokens) have a non-empty value of `Animacy`.
 
-The most frequent other feature values with which `ADJ` and `Animacy` co-occurred: <tt><a href="Polarity.html">Polarity</a>=Pos</tt> (28218; 96%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (28183; 96%), <tt><a href="Degree.html">Degree</a>=Pos</tt> (25200; 86%), <tt><a href="Number.html">Number</a>=Sing</tt> (16060; 55%).
+The most frequent other feature values with which `ADJ` and `Animacy` co-occurred: <tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (28218; 96%), <tt><a href="cs_cac-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (28183; 96%), <tt><a href="cs_cac-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (25200; 86%), <tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt> (16060; 55%).
 
 `ADJ` tokens may have the following values of `Animacy`:
 
@@ -58,49 +58,49 @@ The most frequent other feature values with which `ADJ` and `Animacy` co-occurre
 
 <table>
   <tr><th>Paradigm <i>velký</i></th><th><tt>Anim</tt></th><th><tt>Inan</tt></th></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Degree.html">Degree</a>=Pos|<a href="Number.html">Number</a>=Sing|<a href="Polarity.html">Polarity</a>=Neg</tt></td><td></td><td>nevelký</td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Degree.html">Degree</a>=Pos|<a href="Number.html">Number</a>=Sing|<a href="Polarity.html">Polarity</a>=Pos</tt></td><td>velkého</td><td>velký</td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Degree.html">Degree</a>=Pos|<a href="Number.html">Number</a>=Plur|<a href="Polarity.html">Polarity</a>=Pos</tt></td><td>velké</td><td>velké</td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Degree.html">Degree</a>=Cmp|<a href="Number.html">Number</a>=Sing|<a href="Polarity.html">Polarity</a>=Pos</tt></td><td></td><td>větší</td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Degree.html">Degree</a>=Cmp|<a href="Number.html">Number</a>=Plur|<a href="Polarity.html">Polarity</a>=Pos</tt></td><td>větší</td><td>větší</td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Degree.html">Degree</a>=Sup|<a href="Number.html">Number</a>=Sing|<a href="Polarity.html">Polarity</a>=Pos</tt></td><td></td><td>největší</td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Degree.html">Degree</a>=Sup|<a href="Number.html">Number</a>=Plur|<a href="Polarity.html">Polarity</a>=Pos</tt></td><td></td><td>největší</td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Dat|<a href="Degree.html">Degree</a>=Pos|<a href="Number.html">Number</a>=Sing|<a href="Polarity.html">Polarity</a>=Pos</tt></td><td></td><td>velkému</td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Dat|<a href="Degree.html">Degree</a>=Pos|<a href="Number.html">Number</a>=Plur|<a href="Polarity.html">Polarity</a>=Pos</tt></td><td>velkým</td><td>velkým</td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Dat|<a href="Degree.html">Degree</a>=Cmp|<a href="Number.html">Number</a>=Sing|<a href="Polarity.html">Polarity</a>=Pos</tt></td><td></td><td>většímu</td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Dat|<a href="Degree.html">Degree</a>=Cmp|<a href="Number.html">Number</a>=Plur|<a href="Polarity.html">Polarity</a>=Pos</tt></td><td></td><td>větším</td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Degree.html">Degree</a>=Pos|<a href="Number.html">Number</a>=Sing|<a href="Polarity.html">Polarity</a>=Pos</tt></td><td>velkého</td><td>velkého</td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Degree.html">Degree</a>=Pos|<a href="Number.html">Number</a>=Plur|<a href="Polarity.html">Polarity</a>=Pos</tt></td><td>velkých</td><td>velkých</td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Degree.html">Degree</a>=Cmp|<a href="Number.html">Number</a>=Sing|<a href="Polarity.html">Polarity</a>=Pos</tt></td><td></td><td>většího</td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Degree.html">Degree</a>=Cmp|<a href="Number.html">Number</a>=Plur|<a href="Polarity.html">Polarity</a>=Pos</tt></td><td>větších</td><td>větších</td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Degree.html">Degree</a>=Sup|<a href="Number.html">Number</a>=Sing|<a href="Polarity.html">Polarity</a>=Pos</tt></td><td>největšího</td><td>největšího</td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Degree.html">Degree</a>=Sup|<a href="Number.html">Number</a>=Plur|<a href="Polarity.html">Polarity</a>=Pos</tt></td><td>největších</td><td>největších</td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Ins|<a href="Degree.html">Degree</a>=Pos|<a href="Number.html">Number</a>=Sing|<a href="Polarity.html">Polarity</a>=Neg</tt></td><td></td><td>nevelkým</td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Ins|<a href="Degree.html">Degree</a>=Pos|<a href="Number.html">Number</a>=Sing|<a href="Polarity.html">Polarity</a>=Pos</tt></td><td>velkým</td><td>velkým</td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Ins|<a href="Degree.html">Degree</a>=Pos|<a href="Number.html">Number</a>=Plur|<a href="Polarity.html">Polarity</a>=Pos</tt></td><td>velkými</td><td>velkými</td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Ins|<a href="Degree.html">Degree</a>=Cmp|<a href="Number.html">Number</a>=Sing|<a href="Polarity.html">Polarity</a>=Pos</tt></td><td></td><td>větším</td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Ins|<a href="Degree.html">Degree</a>=Cmp|<a href="Number.html">Number</a>=Plur|<a href="Polarity.html">Polarity</a>=Pos</tt></td><td></td><td>většími</td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Ins|<a href="Degree.html">Degree</a>=Sup|<a href="Number.html">Number</a>=Sing|<a href="Polarity.html">Polarity</a>=Pos</tt></td><td>největším</td><td>největším</td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Ins|<a href="Degree.html">Degree</a>=Sup|<a href="Number.html">Number</a>=Plur|<a href="Polarity.html">Polarity</a>=Pos</tt></td><td>Největšími</td><td>největšími</td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Loc|<a href="Degree.html">Degree</a>=Pos|<a href="Number.html">Number</a>=Sing|<a href="Polarity.html">Polarity</a>=Pos</tt></td><td></td><td>velkém</td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Loc|<a href="Degree.html">Degree</a>=Pos|<a href="Number.html">Number</a>=Plur|<a href="Polarity.html">Polarity</a>=Pos</tt></td><td></td><td>velkých</td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Loc|<a href="Degree.html">Degree</a>=Cmp|<a href="Number.html">Number</a>=Sing|<a href="Polarity.html">Polarity</a>=Pos</tt></td><td></td><td>větším</td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Loc|<a href="Degree.html">Degree</a>=Cmp|<a href="Number.html">Number</a>=Plur|<a href="Polarity.html">Polarity</a>=Pos</tt></td><td></td><td>větších</td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Loc|<a href="Degree.html">Degree</a>=Sup|<a href="Number.html">Number</a>=Sing|<a href="Polarity.html">Polarity</a>=Pos</tt></td><td></td><td>největším</td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Degree.html">Degree</a>=Pos|<a href="Number.html">Number</a>=Sing|<a href="Polarity.html">Polarity</a>=Neg</tt></td><td></td><td>nevelký</td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Degree.html">Degree</a>=Pos|<a href="Number.html">Number</a>=Sing|<a href="Polarity.html">Polarity</a>=Pos</tt></td><td>velký</td><td>velký</td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Degree.html">Degree</a>=Pos|<a href="Number.html">Number</a>=Plur|<a href="Polarity.html">Polarity</a>=Pos</tt></td><td>velcí</td><td>velké</td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Degree.html">Degree</a>=Cmp|<a href="Number.html">Number</a>=Sing|<a href="Polarity.html">Polarity</a>=Pos</tt></td><td></td><td>větší</td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Degree.html">Degree</a>=Cmp|<a href="Number.html">Number</a>=Plur|<a href="Polarity.html">Polarity</a>=Pos</tt></td><td></td><td>větší</td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Degree.html">Degree</a>=Sup|<a href="Number.html">Number</a>=Sing|<a href="Polarity.html">Polarity</a>=Pos</tt></td><td>největší</td><td>největší</td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Degree.html">Degree</a>=Sup|<a href="Number.html">Number</a>=Plur|<a href="Polarity.html">Polarity</a>=Pos</tt></td><td>největší</td><td></td></tr>
+  <tr><td><tt><tt><a href="cs_cac-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="cs_cac-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt></tt></td><td></td><td>nevelký</td></tr>
+  <tr><td><tt><tt><a href="cs_cac-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="cs_cac-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt></tt></td><td>velkého</td><td>velký</td></tr>
+  <tr><td><tt><tt><a href="cs_cac-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="cs_cac-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt></tt></td><td>velké</td><td>velké</td></tr>
+  <tr><td><tt><tt><a href="cs_cac-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="cs_cac-feat-Degree.html">Degree</a></tt><tt>=Cmp</tt>|<tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt></tt></td><td></td><td>větší</td></tr>
+  <tr><td><tt><tt><a href="cs_cac-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="cs_cac-feat-Degree.html">Degree</a></tt><tt>=Cmp</tt>|<tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt></tt></td><td>větší</td><td>větší</td></tr>
+  <tr><td><tt><tt><a href="cs_cac-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="cs_cac-feat-Degree.html">Degree</a></tt><tt>=Sup</tt>|<tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt></tt></td><td></td><td>největší</td></tr>
+  <tr><td><tt><tt><a href="cs_cac-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="cs_cac-feat-Degree.html">Degree</a></tt><tt>=Sup</tt>|<tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt></tt></td><td></td><td>největší</td></tr>
+  <tr><td><tt><tt><a href="cs_cac-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="cs_cac-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt></tt></td><td></td><td>velkému</td></tr>
+  <tr><td><tt><tt><a href="cs_cac-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="cs_cac-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt></tt></td><td>velkým</td><td>velkým</td></tr>
+  <tr><td><tt><tt><a href="cs_cac-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="cs_cac-feat-Degree.html">Degree</a></tt><tt>=Cmp</tt>|<tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt></tt></td><td></td><td>většímu</td></tr>
+  <tr><td><tt><tt><a href="cs_cac-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="cs_cac-feat-Degree.html">Degree</a></tt><tt>=Cmp</tt>|<tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt></tt></td><td></td><td>větším</td></tr>
+  <tr><td><tt><tt><a href="cs_cac-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="cs_cac-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt></tt></td><td>velkého</td><td>velkého</td></tr>
+  <tr><td><tt><tt><a href="cs_cac-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="cs_cac-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt></tt></td><td>velkých</td><td>velkých</td></tr>
+  <tr><td><tt><tt><a href="cs_cac-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="cs_cac-feat-Degree.html">Degree</a></tt><tt>=Cmp</tt>|<tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt></tt></td><td></td><td>většího</td></tr>
+  <tr><td><tt><tt><a href="cs_cac-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="cs_cac-feat-Degree.html">Degree</a></tt><tt>=Cmp</tt>|<tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt></tt></td><td>větších</td><td>větších</td></tr>
+  <tr><td><tt><tt><a href="cs_cac-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="cs_cac-feat-Degree.html">Degree</a></tt><tt>=Sup</tt>|<tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt></tt></td><td>největšího</td><td>největšího</td></tr>
+  <tr><td><tt><tt><a href="cs_cac-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="cs_cac-feat-Degree.html">Degree</a></tt><tt>=Sup</tt>|<tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt></tt></td><td>největších</td><td>největších</td></tr>
+  <tr><td><tt><tt><a href="cs_cac-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="cs_cac-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt></tt></td><td></td><td>nevelkým</td></tr>
+  <tr><td><tt><tt><a href="cs_cac-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="cs_cac-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt></tt></td><td>velkým</td><td>velkým</td></tr>
+  <tr><td><tt><tt><a href="cs_cac-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="cs_cac-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt></tt></td><td>velkými</td><td>velkými</td></tr>
+  <tr><td><tt><tt><a href="cs_cac-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="cs_cac-feat-Degree.html">Degree</a></tt><tt>=Cmp</tt>|<tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt></tt></td><td></td><td>větším</td></tr>
+  <tr><td><tt><tt><a href="cs_cac-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="cs_cac-feat-Degree.html">Degree</a></tt><tt>=Cmp</tt>|<tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt></tt></td><td></td><td>většími</td></tr>
+  <tr><td><tt><tt><a href="cs_cac-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="cs_cac-feat-Degree.html">Degree</a></tt><tt>=Sup</tt>|<tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt></tt></td><td>největším</td><td>největším</td></tr>
+  <tr><td><tt><tt><a href="cs_cac-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="cs_cac-feat-Degree.html">Degree</a></tt><tt>=Sup</tt>|<tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt></tt></td><td>Největšími</td><td>největšími</td></tr>
+  <tr><td><tt><tt><a href="cs_cac-feat-Case.html">Case</a></tt><tt>=Loc</tt>|<tt><a href="cs_cac-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt></tt></td><td></td><td>velkém</td></tr>
+  <tr><td><tt><tt><a href="cs_cac-feat-Case.html">Case</a></tt><tt>=Loc</tt>|<tt><a href="cs_cac-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt></tt></td><td></td><td>velkých</td></tr>
+  <tr><td><tt><tt><a href="cs_cac-feat-Case.html">Case</a></tt><tt>=Loc</tt>|<tt><a href="cs_cac-feat-Degree.html">Degree</a></tt><tt>=Cmp</tt>|<tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt></tt></td><td></td><td>větším</td></tr>
+  <tr><td><tt><tt><a href="cs_cac-feat-Case.html">Case</a></tt><tt>=Loc</tt>|<tt><a href="cs_cac-feat-Degree.html">Degree</a></tt><tt>=Cmp</tt>|<tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt></tt></td><td></td><td>větších</td></tr>
+  <tr><td><tt><tt><a href="cs_cac-feat-Case.html">Case</a></tt><tt>=Loc</tt>|<tt><a href="cs_cac-feat-Degree.html">Degree</a></tt><tt>=Sup</tt>|<tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt></tt></td><td></td><td>největším</td></tr>
+  <tr><td><tt><tt><a href="cs_cac-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="cs_cac-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt></tt></td><td></td><td>nevelký</td></tr>
+  <tr><td><tt><tt><a href="cs_cac-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="cs_cac-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt></tt></td><td>velký</td><td>velký</td></tr>
+  <tr><td><tt><tt><a href="cs_cac-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="cs_cac-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt></tt></td><td>velcí</td><td>velké</td></tr>
+  <tr><td><tt><tt><a href="cs_cac-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="cs_cac-feat-Degree.html">Degree</a></tt><tt>=Cmp</tt>|<tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt></tt></td><td></td><td>větší</td></tr>
+  <tr><td><tt><tt><a href="cs_cac-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="cs_cac-feat-Degree.html">Degree</a></tt><tt>=Cmp</tt>|<tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt></tt></td><td></td><td>větší</td></tr>
+  <tr><td><tt><tt><a href="cs_cac-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="cs_cac-feat-Degree.html">Degree</a></tt><tt>=Sup</tt>|<tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt></tt></td><td>největší</td><td>největší</td></tr>
+  <tr><td><tt><tt><a href="cs_cac-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="cs_cac-feat-Degree.html">Degree</a></tt><tt>=Sup</tt>|<tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt></tt></td><td>největší</td><td></td></tr>
 </table>
 
 ### `PROPN`
 
-5431 [PROPN](cs_cac-pos-PROPN.html) tokens (55% of all `PROPN` tokens) have a non-empty value of `Animacy`.
+5431 <tt><a href="cs_cac-pos-PROPN.html">PROPN</a></tt> tokens (55% of all `PROPN` tokens) have a non-empty value of `Animacy`.
 
-The most frequent other feature values with which `PROPN` and `Animacy` co-occurred: <tt><a href="Gender.html">Gender</a>=Masc</tt> (5431; 100%), <tt><a href="Polarity.html">Polarity</a>=Pos</tt> (5431; 100%), <tt><a href="Abbr.html">Abbr</a>=EMPTY</tt> (4824; 89%), <tt><a href="Number.html">Number</a>=Sing</tt> (4463; 82%), <tt><a href="Case.html">Case</a>=Nom</tt> (2718; 50%).
+The most frequent other feature values with which `PROPN` and `Animacy` co-occurred: <tt><a href="cs_cac-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (5431; 100%), <tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (5431; 100%), <tt><a href="cs_cac-feat-Abbr.html">Abbr</a></tt><tt>=EMPTY</tt> (4824; 89%), <tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt> (4463; 82%), <tt><a href="cs_cac-feat-Case.html">Case</a></tt><tt>=Nom</tt> (2718; 50%).
 
 `PROPN` tokens may have the following values of `Animacy`:
 
@@ -110,22 +110,22 @@ The most frequent other feature values with which `PROPN` and `Animacy` co-occur
 
 <table>
   <tr><th>Paradigm <i>Martin</i></th><th><tt>Anim</tt></th><th><tt>Inan</tt></th></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="NameType.html">NameType</a>=Giv|<a href="Number.html">Number</a>=Sing</tt></td><td>Martina</td><td></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Dat|<a href="NameType.html">NameType</a>=Giv|<a href="Number.html">Number</a>=Sing</tt></td><td>Martinu</td><td></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="NameType.html">NameType</a>=Giv|<a href="Number.html">Number</a>=Sing</tt></td><td>Martina</td><td></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="NameType.html">NameType</a>=Giv|<a href="Number.html">Number</a>=Plur</tt></td><td>Martinů</td><td></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Loc|<a href="NameType.html">NameType</a>=Geo|<a href="Number.html">Number</a>=Sing</tt></td><td></td><td>Martině</td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="NameType.html">NameType</a>=Giv|<a href="Number.html">Number</a>=Sing</tt></td><td>Martin</td><td></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="NameType.html">NameType</a>=Sur|<a href="Number.html">Number</a>=Sing</tt></td><td>Martin</td><td></td></tr>
+  <tr><td><tt><tt><a href="cs_cac-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="cs_cac-feat-NameType.html">NameType</a></tt><tt>=Giv</tt>|<tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td>Martina</td><td></td></tr>
+  <tr><td><tt><tt><a href="cs_cac-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="cs_cac-feat-NameType.html">NameType</a></tt><tt>=Giv</tt>|<tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td>Martinu</td><td></td></tr>
+  <tr><td><tt><tt><a href="cs_cac-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="cs_cac-feat-NameType.html">NameType</a></tt><tt>=Giv</tt>|<tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td>Martina</td><td></td></tr>
+  <tr><td><tt><tt><a href="cs_cac-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="cs_cac-feat-NameType.html">NameType</a></tt><tt>=Giv</tt>|<tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td>Martinů</td><td></td></tr>
+  <tr><td><tt><tt><a href="cs_cac-feat-Case.html">Case</a></tt><tt>=Loc</tt>|<tt><a href="cs_cac-feat-NameType.html">NameType</a></tt><tt>=Geo</tt>|<tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td>Martině</td></tr>
+  <tr><td><tt><tt><a href="cs_cac-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="cs_cac-feat-NameType.html">NameType</a></tt><tt>=Giv</tt>|<tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td>Martin</td><td></td></tr>
+  <tr><td><tt><tt><a href="cs_cac-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="cs_cac-feat-NameType.html">NameType</a></tt><tt>=Sur</tt>|<tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td>Martin</td><td></td></tr>
 </table>
 
 `Animacy` seems to be **lexical feature** of `PROPN`. 99% lemmas (2264) occur only with one value of `Animacy`.
 
 ### `VERB`
 
-3259 [VERB](cs_cac-pos-VERB.html) tokens (8% of all `VERB` tokens) have a non-empty value of `Animacy`.
+3259 <tt><a href="cs_cac-pos-VERB.html">VERB</a></tt> tokens (8% of all `VERB` tokens) have a non-empty value of `Animacy`.
 
-The most frequent other feature values with which `VERB` and `Animacy` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (3259; 100%), <tt><a href="Number.html">Number</a>=Plur</tt> (3259; 100%), <tt><a href="Voice.html">Voice</a>=Act</tt> (3259; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (3259; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (3259; 100%), <tt><a href="Tense.html">Tense</a>=Past</tt> (3259; 100%), <tt><a href="Polarity.html">Polarity</a>=Pos</tt> (3043; 93%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (2083; 64%).
+The most frequent other feature values with which `VERB` and `Animacy` co-occurred: <tt><a href="cs_cac-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (3259; 100%), <tt><a href="cs_cac-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (3259; 100%), <tt><a href="cs_cac-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (3259; 100%), <tt><a href="cs_cac-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (3259; 100%), <tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Plur</tt> (3259; 100%), <tt><a href="cs_cac-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (3259; 100%), <tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (3043; 93%), <tt><a href="cs_cac-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (2083; 64%).
 
 `VERB` tokens may have the following values of `Animacy`:
 
@@ -135,17 +135,17 @@ The most frequent other feature values with which `VERB` and `Animacy` co-occurr
 
 <table>
   <tr><th>Paradigm <i>mít</i></th><th><tt>Anim</tt></th><th><tt>Inan</tt></th></tr>
-  <tr><td><tt><a href="Gender.html">Gender</a>=Masc|<a href="Polarity.html">Polarity</a>=Neg</tt></td><td>neměli</td><td></td></tr>
-  <tr><td><tt><a href="Gender.html">Gender</a>=Masc|<a href="Polarity.html">Polarity</a>=Pos</tt></td><td>měli</td><td></td></tr>
-  <tr><td><tt><a href="Gender.html">Gender</a>=Fem,Masc|<a href="Polarity.html">Polarity</a>=Neg</tt></td><td></td><td>neměly</td></tr>
-  <tr><td><tt><a href="Gender.html">Gender</a>=Fem,Masc|<a href="Polarity.html">Polarity</a>=Pos</tt></td><td></td><td>měly</td></tr>
+  <tr><td><tt><tt><a href="cs_cac-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt></tt></td><td>neměli</td><td></td></tr>
+  <tr><td><tt><tt><a href="cs_cac-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt></tt></td><td>měli</td><td></td></tr>
+  <tr><td><tt><tt><a href="cs_cac-feat-Gender.html">Gender</a></tt><tt>=Fem,Masc</tt>|<tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt></tt></td><td></td><td>neměly</td></tr>
+  <tr><td><tt><tt><a href="cs_cac-feat-Gender.html">Gender</a></tt><tt>=Fem,Masc</tt>|<tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt></tt></td><td></td><td>měly</td></tr>
 </table>
 
 ### `DET`
 
-2068 [DET](cs_cac-pos-DET.html) tokens (11% of all `DET` tokens) have a non-empty value of `Animacy`.
+2068 <tt><a href="cs_cac-pos-DET.html">DET</a></tt> tokens (11% of all `DET` tokens) have a non-empty value of `Animacy`.
 
-The most frequent other feature values with which `DET` and `Animacy` co-occurred: <tt><a href="Gender.html">Gender</a>=Masc</tt> (2068; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (1932; 93%), <tt><a href="Number[psor].html">Number[psor]</a>=EMPTY</tt> (1932; 93%), <tt><a href="Poss.html">Poss</a>=EMPTY</tt> (1802; 87%), <tt><a href="Number.html">Number</a>=Plur</tt> (1458; 71%), <tt><a href="Case.html">Case</a>=Nom</tt> (1319; 64%).
+The most frequent other feature values with which `DET` and `Animacy` co-occurred: <tt><a href="cs_cac-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (2068; 100%), <tt><a href="cs_cac-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (1932; 93%), <tt><a href="cs_cac-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (1932; 93%), <tt><a href="cs_cac-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (1802; 87%), <tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Plur</tt> (1458; 71%), <tt><a href="cs_cac-feat-Case.html">Case</a></tt><tt>=Nom</tt> (1319; 64%).
 
 `DET` tokens may have the following values of `Animacy`:
 
@@ -155,16 +155,16 @@ The most frequent other feature values with which `DET` and `Animacy` co-occurre
 
 <table>
   <tr><th>Paradigm <i>ten</i></th><th><tt>Anim</tt></th><th><tt>Inan</tt></th></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Number.html">Number</a>=Sing</tt></td><td>toho</td><td>ten</td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Number.html">Number</a>=Plur</tt></td><td>ty</td><td>ty</td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Number.html">Number</a>=Plur</tt></td><td>ti</td><td>ty</td></tr>
+  <tr><td><tt><tt><a href="cs_cac-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td>toho</td><td>ten</td></tr>
+  <tr><td><tt><tt><a href="cs_cac-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td>ty</td><td>ty</td></tr>
+  <tr><td><tt><tt><a href="cs_cac-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td>ti</td><td>ty</td></tr>
 </table>
 
 ### `PRON`
 
-866 [PRON](cs_cac-pos-PRON.html) tokens (5% of all `PRON` tokens) have a non-empty value of `Animacy`.
+866 <tt><a href="cs_cac-pos-PRON.html">PRON</a></tt> tokens (5% of all `PRON` tokens) have a non-empty value of `Animacy`.
 
-The most frequent other feature values with which `PRON` and `Animacy` co-occurred: <tt><a href="Reflex.html">Reflex</a>=EMPTY</tt> (866; 100%), <tt><a href="Variant.html">Variant</a>=EMPTY</tt> (866; 100%), <tt><a href="PrepCase.html">PrepCase</a>=EMPTY</tt> (859; 99%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (848; 98%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (649; 75%), <tt><a href="Case.html">Case</a>=Nom</tt> (537; 62%), <tt><a href="PronType.html">PronType</a>=Int,Rel</tt> (511; 59%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (464; 54%).
+The most frequent other feature values with which `PRON` and `Animacy` co-occurred: <tt><a href="cs_cac-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (866; 100%), <tt><a href="cs_cac-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (866; 100%), <tt><a href="cs_cac-feat-PrepCase.html">PrepCase</a></tt><tt>=EMPTY</tt> (859; 99%), <tt><a href="cs_cac-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (848; 98%), <tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (649; 75%), <tt><a href="cs_cac-feat-Case.html">Case</a></tt><tt>=Nom</tt> (537; 62%), <tt><a href="cs_cac-feat-PronType.html">PronType</a></tt><tt>=Int,Rel</tt> (511; 59%), <tt><a href="cs_cac-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (464; 54%).
 
 `PRON` tokens may have the following values of `Animacy`:
 
@@ -181,9 +181,9 @@ The most frequent other feature values with which `PRON` and `Animacy` co-occurr
 
 ### `AUX`
 
-558 [AUX](cs_cac-pos-AUX.html) tokens (4% of all `AUX` tokens) have a non-empty value of `Animacy`.
+558 <tt><a href="cs_cac-pos-AUX.html">AUX</a></tt> tokens (4% of all `AUX` tokens) have a non-empty value of `Animacy`.
 
-The most frequent other feature values with which `AUX` and `Animacy` co-occurred: <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (558; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (558; 100%), <tt><a href="Tense.html">Tense</a>=Past</tt> (558; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (558; 100%), <tt><a href="Number.html">Number</a>=Plur</tt> (558; 100%), <tt><a href="Voice.html">Voice</a>=Act</tt> (558; 100%), <tt><a href="Polarity.html">Polarity</a>=Pos</tt> (521; 93%), <tt><a href="Gender.html">Gender</a>=Fem,Masc</tt> (462; 83%).
+The most frequent other feature values with which `AUX` and `Animacy` co-occurred: <tt><a href="cs_cac-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (558; 100%), <tt><a href="cs_cac-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (558; 100%), <tt><a href="cs_cac-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (558; 100%), <tt><a href="cs_cac-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (558; 100%), <tt><a href="cs_cac-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (558; 100%), <tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Plur</tt> (558; 100%), <tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (521; 93%), <tt><a href="cs_cac-feat-Gender.html">Gender</a></tt><tt>=Fem,Masc</tt> (462; 83%).
 
 `AUX` tokens may have the following values of `Animacy`:
 
@@ -193,17 +193,17 @@ The most frequent other feature values with which `AUX` and `Animacy` co-occurre
 
 <table>
   <tr><th>Paradigm <i>být</i></th><th><tt>Anim</tt></th><th><tt>Inan</tt></th></tr>
-  <tr><td><tt><a href="Gender.html">Gender</a>=Masc|<a href="Polarity.html">Polarity</a>=Neg</tt></td><td>nebyli</td><td></td></tr>
-  <tr><td><tt><a href="Gender.html">Gender</a>=Masc|<a href="Polarity.html">Polarity</a>=Pos</tt></td><td>byli</td><td></td></tr>
-  <tr><td><tt><a href="Gender.html">Gender</a>=Fem,Masc|<a href="Polarity.html">Polarity</a>=Neg</tt></td><td></td><td>nebyly</td></tr>
-  <tr><td><tt><a href="Gender.html">Gender</a>=Fem,Masc|<a href="Polarity.html">Polarity</a>=Pos</tt></td><td></td><td>byly</td></tr>
+  <tr><td><tt><tt><a href="cs_cac-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt></tt></td><td>nebyli</td><td></td></tr>
+  <tr><td><tt><tt><a href="cs_cac-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt></tt></td><td>byli</td><td></td></tr>
+  <tr><td><tt><tt><a href="cs_cac-feat-Gender.html">Gender</a></tt><tt>=Fem,Masc</tt>|<tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt></tt></td><td></td><td>nebyly</td></tr>
+  <tr><td><tt><tt><a href="cs_cac-feat-Gender.html">Gender</a></tt><tt>=Fem,Masc</tt>|<tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt></tt></td><td></td><td>byly</td></tr>
 </table>
 
 ### `NUM`
 
-100 [NUM](cs_cac-pos-NUM.html) tokens (1% of all `NUM` tokens) have a non-empty value of `Animacy`.
+100 <tt><a href="cs_cac-pos-NUM.html">NUM</a></tt> tokens (1% of all `NUM` tokens) have a non-empty value of `Animacy`.
 
-The most frequent other feature values with which `NUM` and `Animacy` co-occurred: <tt><a href="Gender.html">Gender</a>=Masc</tt> (100; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (100; 100%), <tt><a href="Case.html">Case</a>=Acc</tt> (100; 100%), <tt><a href="NumValue.html">NumValue</a>=1,2,3</tt> (100; 100%), <tt><a href="NumForm.html">NumForm</a>=Word</tt> (100; 100%), <tt><a href="NumType.html">NumType</a>=Card</tt> (100; 100%).
+The most frequent other feature values with which `NUM` and `Animacy` co-occurred: <tt><a href="cs_cac-feat-NumValue.html">NumValue</a></tt><tt>=1,2,3</tt> (100; 100%), <tt><a href="cs_cac-feat-NumForm.html">NumForm</a></tt><tt>=Word</tt> (100; 100%), <tt><a href="cs_cac-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (100; 100%), <tt><a href="cs_cac-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (100; 100%), <tt><a href="cs_cac-feat-Case.html">Case</a></tt><tt>=Acc</tt> (100; 100%), <tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt> (100; 100%).
 
 `NUM` tokens may have the following values of `Animacy`:
 
@@ -219,14 +219,14 @@ The most frequent other feature values with which `NUM` and `Animacy` co-occurre
 ## Relations with Agreement in `Animacy`
 
 The 10 most frequent relations where parent and child node agree in `Animacy`:
-<tt>NOUN --[<a href="../dep/amod.html">amod</a>]--> ADJ</tt> (24047; 97%),
-<tt>ADJ --[<a href="../dep/conj.html">conj</a>]--> ADJ</tt> (1363; 90%),
-<tt>ADJ --[<a href="../dep/nsubj.html">nsubj</a>]--> NOUN</tt> (714; 61%),
-<tt>PROPN --[<a href="../dep/flat.html">flat</a>]--> PROPN</tt> (707; 99%),
-<tt>PROPN --[<a href="../dep/nmod.html">nmod</a>]--> NOUN</tt> (627; 84%),
-<tt>PROPN --[<a href="../dep/conj.html">conj</a>]--> PROPN</tt> (535; 61%),
-<tt>PROPN --[<a href="../dep/amod.html">amod</a>]--> ADJ</tt> (218; 73%),
-<tt>PROPN --[<a href="../dep/appos.html">appos</a>]--> NOUN</tt> (102; 81%),
-<tt>ADJ --[<a href="../dep/nsubj.html">nsubj</a>]--> DET</tt> (53; 51%),
-<tt>ADJ --[<a href="../dep/appos.html">appos</a>]--> ADJ</tt> (52; 91%).
+<tt>NOUN --[<tt><a href="cs_cac-dep-amod.html">amod</a></tt>]--> ADJ</tt> (24047; 97%),
+<tt>ADJ --[<tt><a href="cs_cac-dep-conj.html">conj</a></tt>]--> ADJ</tt> (1363; 90%),
+<tt>ADJ --[<tt><a href="cs_cac-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (714; 61%),
+<tt>PROPN --[<tt><a href="cs_cac-dep-flat.html">flat</a></tt>]--> PROPN</tt> (707; 99%),
+<tt>PROPN --[<tt><a href="cs_cac-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (627; 84%),
+<tt>PROPN --[<tt><a href="cs_cac-dep-conj.html">conj</a></tt>]--> PROPN</tt> (535; 61%),
+<tt>PROPN --[<tt><a href="cs_cac-dep-amod.html">amod</a></tt>]--> ADJ</tt> (218; 73%),
+<tt>PROPN --[<tt><a href="cs_cac-dep-appos.html">appos</a></tt>]--> NOUN</tt> (102; 81%),
+<tt>ADJ --[<tt><a href="cs_cac-dep-nsubj.html">nsubj</a></tt>]--> DET</tt> (53; 51%),
+<tt>ADJ --[<tt><a href="cs_cac-dep-appos.html">appos</a></tt>]--> ADJ</tt> (52; 91%).
 

@@ -6,15 +6,15 @@ udver: '2'
 
 ## Treebank Statistics: UD_Czech-CAC: Relations: `det:nummod`
 
-This relation is a language-specific subtype of [det]().
-There are also 1 other language-specific subtypes of `det`: [det:numgov]().
+This relation is a language-specific subtype of <tt><a href="cs_cac-dep-det.html">det</a></tt>.
+There are also 1 other language-specific subtypes of `det`: <tt><a href="cs_cac-dep-det-numgov.html">det:numgov</a></tt>.
 
 200 nodes (0%) are attached to their parents as `det:nummod`.
 
 188 instances of `det:nummod` (94%) are right-to-left (child precedes parent).
 Average distance between parent and child is 1.49.
 
-The following 4 pairs of parts of speech are connected with `det:nummod`: [-pos/NOUN]()-[-pos/DET]() (184; 92% instances), [-pos/NOUN]()-[-pos/NOUN]() (10; 5% instances), [-pos/NUM]()-[-pos/DET]() (5; 3% instances), [-pos/ADJ]()-[-pos/DET]() (1; 1% instances).
+The following 4 pairs of parts of speech are connected with `det:nummod`: <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_cac-pos-DET.html">DET</a></tt> (184; 92% instances), <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> (10; 5% instances), <tt><a href="cs_cac-pos-NUM.html">NUM</a></tt>-<tt><a href="cs_cac-pos-DET.html">DET</a></tt> (5; 3% instances), <tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cs_cac-pos-DET.html">DET</a></tt> (1; 1% instances).
 
 
 ~~~ conllu

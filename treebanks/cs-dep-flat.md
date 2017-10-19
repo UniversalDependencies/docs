@@ -7,14 +7,14 @@ udver: '2'
 ## Treebank Statistics: UD_Czech: Relations: `flat`
 
 This relation is universal.
-There are 1 language-specific subtypes of `flat`: [flat:foreign]().
+There are 1 language-specific subtypes of `flat`: <tt><a href="cs-dep-flat-foreign.html">flat:foreign</a></tt>.
 
 13655 nodes (1%) are attached to their parents as `flat`.
 
 13655 instances of `flat` (100%) are left-to-right (parent precedes child).
 Average distance between parent and child is 1.26993775173929.
 
-The following 7 pairs of parts of speech are connected with `flat`: [-pos/PROPN]()-[-pos/PROPN]() (13558; 99% instances), [-pos/PROPN]()-[-pos/ADJ]() (52; 0% instances), [-pos/ADJ]()-[-pos/PROPN]() (37; 0% instances), [-pos/ADJ]()-[-pos/ADJ]() (4; 0% instances), [-pos/PROPN]()-[-pos/ADP]() (2; 0% instances), [-pos/ADJ]()-[-pos/ADP]() (1; 0% instances), [-pos/PROPN]()-[-pos/PART]() (1; 0% instances).
+The following 7 pairs of parts of speech are connected with `flat`: <tt><a href="cs-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cs-pos-PROPN.html">PROPN</a></tt> (13558; 99% instances), <tt><a href="cs-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cs-pos-ADJ.html">ADJ</a></tt> (52; 0% instances), <tt><a href="cs-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cs-pos-PROPN.html">PROPN</a></tt> (37; 0% instances), <tt><a href="cs-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cs-pos-ADJ.html">ADJ</a></tt> (4; 0% instances), <tt><a href="cs-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cs-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="cs-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cs-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="cs-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cs-pos-PART.html">PART</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

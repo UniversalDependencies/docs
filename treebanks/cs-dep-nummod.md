@@ -7,14 +7,14 @@ udver: '2'
 ## Treebank Statistics: UD_Czech: Relations: `nummod`
 
 This relation is universal.
-There are 1 language-specific subtypes of `nummod`: [nummod:gov]().
+There are 1 language-specific subtypes of `nummod`: <tt><a href="cs-dep-nummod-gov.html">nummod:gov</a></tt>.
 
 19664 nodes (1%) are attached to their parents as `nummod`.
 
 11408 instances of `nummod` (58%) are right-to-left (child precedes parent).
 Average distance between parent and child is 1.58314686737185.
 
-The following 12 pairs of parts of speech are connected with `nummod`: [-pos/NOUN]()-[-pos/NUM]() (17443; 89% instances), [-pos/PROPN]()-[-pos/NUM]() (1629; 8% instances), [-pos/ADJ]()-[-pos/NUM]() (261; 1% instances), [-pos/SYM]()-[-pos/NUM]() (152; 1% instances), [-pos/NUM]()-[-pos/NUM]() (99; 1% instances), [-pos/CCONJ]()-[-pos/NUM]() (28; 0% instances), [-pos/DET]()-[-pos/NUM]() (17; 0% instances), [-pos/PRON]()-[-pos/NUM]() (12; 0% instances), [-pos/VERB]()-[-pos/NUM]() (10; 0% instances), [-pos/PUNCT]()-[-pos/NUM]() (7; 0% instances), [-pos/ADV]()-[-pos/NUM]() (5; 0% instances), [-pos/INTJ]()-[-pos/NUM]() (1; 0% instances).
+The following 12 pairs of parts of speech are connected with `nummod`: <tt><a href="cs-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs-pos-NUM.html">NUM</a></tt> (17443; 89% instances), <tt><a href="cs-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cs-pos-NUM.html">NUM</a></tt> (1629; 8% instances), <tt><a href="cs-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cs-pos-NUM.html">NUM</a></tt> (261; 1% instances), <tt><a href="cs-pos-SYM.html">SYM</a></tt>-<tt><a href="cs-pos-NUM.html">NUM</a></tt> (152; 1% instances), <tt><a href="cs-pos-NUM.html">NUM</a></tt>-<tt><a href="cs-pos-NUM.html">NUM</a></tt> (99; 1% instances), <tt><a href="cs-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="cs-pos-NUM.html">NUM</a></tt> (28; 0% instances), <tt><a href="cs-pos-DET.html">DET</a></tt>-<tt><a href="cs-pos-NUM.html">NUM</a></tt> (17; 0% instances), <tt><a href="cs-pos-PRON.html">PRON</a></tt>-<tt><a href="cs-pos-NUM.html">NUM</a></tt> (12; 0% instances), <tt><a href="cs-pos-VERB.html">VERB</a></tt>-<tt><a href="cs-pos-NUM.html">NUM</a></tt> (10; 0% instances), <tt><a href="cs-pos-PUNCT.html">PUNCT</a></tt>-<tt><a href="cs-pos-NUM.html">NUM</a></tt> (7; 0% instances), <tt><a href="cs-pos-ADV.html">ADV</a></tt>-<tt><a href="cs-pos-NUM.html">NUM</a></tt> (5; 0% instances), <tt><a href="cs-pos-INTJ.html">INTJ</a></tt>-<tt><a href="cs-pos-NUM.html">NUM</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

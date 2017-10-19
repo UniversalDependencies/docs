@@ -12,13 +12,13 @@ It occurs with 1 different values: `Yes`.
 196 tokens (1%) have a non-empty value of `Foreign`.
 153 types (2%) occur at least once with a non-empty value of `Foreign`.
 147 lemmas (3%) occur at least once with a non-empty value of `Foreign`.
-The feature is used with 7 part-of-speech tags: [PROPN](cs_pud-pos-PROPN.html) (111; 1% instances), [NOUN](cs_pud-pos-NOUN.html) (35; 0% instances), [ADJ](cs_pud-pos-ADJ.html) (31; 0% instances), [ADP](cs_pud-pos-ADP.html) (12; 0% instances), [CCONJ](cs_pud-pos-CCONJ.html) (4; 0% instances), [PRON](cs_pud-pos-PRON.html) (2; 0% instances), [ADV](cs_pud-pos-ADV.html) (1; 0% instances).
+The feature is used with 7 part-of-speech tags: <tt><a href="cs_pud-pos-PROPN.html">PROPN</a></tt> (111; 1% instances), <tt><a href="cs_pud-pos-NOUN.html">NOUN</a></tt> (35; 0% instances), <tt><a href="cs_pud-pos-ADJ.html">ADJ</a></tt> (31; 0% instances), <tt><a href="cs_pud-pos-ADP.html">ADP</a></tt> (12; 0% instances), <tt><a href="cs_pud-pos-CCONJ.html">CCONJ</a></tt> (4; 0% instances), <tt><a href="cs_pud-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="cs_pud-pos-ADV.html">ADV</a></tt> (1; 0% instances).
 
 ### `PROPN`
 
-111 [PROPN](cs_pud-pos-PROPN.html) tokens (10% of all `PROPN` tokens) have a non-empty value of `Foreign`.
+111 <tt><a href="cs_pud-pos-PROPN.html">PROPN</a></tt> tokens (10% of all `PROPN` tokens) have a non-empty value of `Foreign`.
 
-The most frequent other feature values with which `PROPN` and `Foreign` co-occurred: <tt><a href="Polarity.html">Polarity</a>=Pos</tt> (111; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (75; 68%), <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (70; 63%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (65; 59%).
+The most frequent other feature values with which `PROPN` and `Foreign` co-occurred: <tt><a href="cs_pud-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (111; 100%), <tt><a href="cs_pud-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (75; 68%), <tt><a href="cs_pud-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (70; 63%), <tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (65; 59%).
 
 `PROPN` tokens may have the following values of `Foreign`:
 
@@ -29,9 +29,9 @@ The most frequent other feature values with which `PROPN` and `Foreign` co-occur
 
 ### `NOUN`
 
-35 [NOUN](cs_pud-pos-NOUN.html) tokens (1% of all `NOUN` tokens) have a non-empty value of `Foreign`.
+35 <tt><a href="cs_pud-pos-NOUN.html">NOUN</a></tt> tokens (1% of all `NOUN` tokens) have a non-empty value of `Foreign`.
 
-The most frequent other feature values with which `NOUN` and `Foreign` co-occurred: <tt><a href="Polarity.html">Polarity</a>=Pos</tt> (35; 100%), <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (28; 80%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (27; 77%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (25; 71%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (22; 63%).
+The most frequent other feature values with which `NOUN` and `Foreign` co-occurred: <tt><a href="cs_pud-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (35; 100%), <tt><a href="cs_pud-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (28; 80%), <tt><a href="cs_pud-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (27; 77%), <tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (25; 71%), <tt><a href="cs_pud-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (22; 63%).
 
 `NOUN` tokens may have the following values of `Foreign`:
 
@@ -42,9 +42,9 @@ The most frequent other feature values with which `NOUN` and `Foreign` co-occurr
 
 ### `ADJ`
 
-31 [ADJ](cs_pud-pos-ADJ.html) tokens (1% of all `ADJ` tokens) have a non-empty value of `Foreign`.
+31 <tt><a href="cs_pud-pos-ADJ.html">ADJ</a></tt> tokens (1% of all `ADJ` tokens) have a non-empty value of `Foreign`.
 
-The most frequent other feature values with which `ADJ` and `Foreign` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=EMPTY</tt> (31; 100%), <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (31; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (29; 94%), <tt><a href="Polarity.html">Polarity</a>=Pos</tt> (29; 94%), <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (29; 94%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (29; 94%), <tt><a href="Degree.html">Degree</a>=Pos</tt> (29; 94%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (29; 94%).
+The most frequent other feature values with which `ADJ` and `Foreign` co-occurred: <tt><a href="cs_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (31; 100%), <tt><a href="cs_pud-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (31; 100%), <tt><a href="cs_pud-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (29; 94%), <tt><a href="cs_pud-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (29; 94%), <tt><a href="cs_pud-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (29; 94%), <tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (29; 94%), <tt><a href="cs_pud-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (29; 94%), <tt><a href="cs_pud-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (29; 94%).
 
 `ADJ` tokens may have the following values of `Foreign`:
 
@@ -55,9 +55,9 @@ The most frequent other feature values with which `ADJ` and `Foreign` co-occurre
 
 ### `ADP`
 
-12 [ADP](cs_pud-pos-ADP.html) tokens (1% of all `ADP` tokens) have a non-empty value of `Foreign`.
+12 <tt><a href="cs_pud-pos-ADP.html">ADP</a></tt> tokens (1% of all `ADP` tokens) have a non-empty value of `Foreign`.
 
-The most frequent other feature values with which `ADP` and `Foreign` co-occurred: <tt><a href="AdpType.html">AdpType</a>=Prep</tt> (12; 100%).
+The most frequent other feature values with which `ADP` and `Foreign` co-occurred: <tt><a href="cs_pud-feat-AdpType.html">AdpType</a></tt><tt>=Prep</tt> (12; 100%).
 
 `ADP` tokens may have the following values of `Foreign`:
 
@@ -66,7 +66,7 @@ The most frequent other feature values with which `ADP` and `Foreign` co-occurre
 
 ### `CCONJ`
 
-4 [CCONJ](cs_pud-pos-CCONJ.html) tokens (1% of all `CCONJ` tokens) have a non-empty value of `Foreign`.
+4 <tt><a href="cs_pud-pos-CCONJ.html">CCONJ</a></tt> tokens (1% of all `CCONJ` tokens) have a non-empty value of `Foreign`.
 
 `CCONJ` tokens may have the following values of `Foreign`:
 
@@ -75,9 +75,9 @@ The most frequent other feature values with which `ADP` and `Foreign` co-occurre
 
 ### `PRON`
 
-2 [PRON](cs_pud-pos-PRON.html) tokens (0% of all `PRON` tokens) have a non-empty value of `Foreign`.
+2 <tt><a href="cs_pud-pos-PRON.html">PRON</a></tt> tokens (0% of all `PRON` tokens) have a non-empty value of `Foreign`.
 
-The most frequent other feature values with which `PRON` and `Foreign` co-occurred: <tt><a href="Variant.html">Variant</a>=EMPTY</tt> (2; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (2; 100%), <tt><a href="Reflex.html">Reflex</a>=EMPTY</tt> (2; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (2; 100%), <tt><a href="PrepCase.html">PrepCase</a>=EMPTY</tt> (2; 100%), <tt><a href="PronType.html">PronType</a>=Prs</tt> (2; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (2; 100%).
+The most frequent other feature values with which `PRON` and `Foreign` co-occurred: <tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2; 100%), <tt><a href="cs_pud-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="cs_pud-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="cs_pud-feat-PrepCase.html">PrepCase</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="cs_pud-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (2; 100%), <tt><a href="cs_pud-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="cs_pud-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (2; 100%).
 
 `PRON` tokens may have the following values of `Foreign`:
 
@@ -86,9 +86,9 @@ The most frequent other feature values with which `PRON` and `Foreign` co-occurr
 
 ### `ADV`
 
-1 [ADV](cs_pud-pos-ADV.html) tokens (0% of all `ADV` tokens) have a non-empty value of `Foreign`.
+1 <tt><a href="cs_pud-pos-ADV.html">ADV</a></tt> tokens (0% of all `ADV` tokens) have a non-empty value of `Foreign`.
 
-The most frequent other feature values with which `ADV` and `Foreign` co-occurred: <tt><a href="Polarity.html">Polarity</a>=EMPTY</tt> (1; 100%), <tt><a href="Degree.html">Degree</a>=EMPTY</tt> (1; 100%), <tt><a href="PronType.html">PronType</a>=EMPTY</tt> (1; 100%).
+The most frequent other feature values with which `ADV` and `Foreign` co-occurred: <tt><a href="cs_pud-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="cs_pud-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="cs_pud-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (1; 100%).
 
 `ADV` tokens may have the following values of `Foreign`:
 
@@ -98,12 +98,12 @@ The most frequent other feature values with which `ADV` and `Foreign` co-occurre
 ## Relations with Agreement in `Foreign`
 
 The 10 most frequent relations where parent and child node agree in `Foreign`:
-<tt>ADJ --[<a href="../dep/flat.html">flat</a>]--> PROPN</tt> (12; 67%),
-<tt>PROPN --[<a href="../dep/flat.html">flat</a>]--> CCONJ</tt> (2; 100%),
-<tt>ADP --[<a href="../dep/flat.html">flat</a>]--> ADJ</tt> (2; 100%),
-<tt>ADJ --[<a href="../dep/flat.html">flat</a>]--> ADJ</tt> (2; 100%),
-<tt>ADP --[<a href="../dep/flat.html">flat</a>]--> CCONJ</tt> (1; 100%),
-<tt>PROPN --[<a href="../dep/flat.html">flat</a>]--> PRON</tt> (1; 100%),
-<tt>ADJ --[<a href="../dep/appos.html">appos</a>]--> PROPN</tt> (1; 100%),
-<tt>ADJ --[<a href="../dep/flat.html">flat</a>]--> CCONJ</tt> (1; 100%).
+<tt>ADJ --[<tt><a href="cs_pud-dep-flat.html">flat</a></tt>]--> PROPN</tt> (12; 67%),
+<tt>PROPN --[<tt><a href="cs_pud-dep-flat.html">flat</a></tt>]--> CCONJ</tt> (2; 100%),
+<tt>ADP --[<tt><a href="cs_pud-dep-flat.html">flat</a></tt>]--> ADJ</tt> (2; 100%),
+<tt>ADJ --[<tt><a href="cs_pud-dep-flat.html">flat</a></tt>]--> ADJ</tt> (2; 100%),
+<tt>ADP --[<tt><a href="cs_pud-dep-flat.html">flat</a></tt>]--> CCONJ</tt> (1; 100%),
+<tt>PROPN --[<tt><a href="cs_pud-dep-flat.html">flat</a></tt>]--> PRON</tt> (1; 100%),
+<tt>ADJ --[<tt><a href="cs_pud-dep-appos.html">appos</a></tt>]--> PROPN</tt> (1; 100%),
+<tt>ADJ --[<tt><a href="cs_pud-dep-flat.html">flat</a></tt>]--> CCONJ</tt> (1; 100%).
 

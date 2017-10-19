@@ -13,7 +13,7 @@ This relation is universal.
 243 instances of `xcomp` (98%) are left-to-right (parent precedes child).
 Average distance between parent and child is 2.14859437751004.
 
-The following 8 pairs of parts of speech are connected with `xcomp`: [-pos/VERB]()-[-pos/VERB]() (172; 69% instances), [-pos/VERB]()-[-pos/NOUN]() (42; 17% instances), [-pos/VERB]()-[-pos/ADJ]() (19; 8% instances), [-pos/ADJ]()-[-pos/VERB]() (9; 4% instances), [-pos/ADJ]()-[-pos/NOUN]() (4; 2% instances), [-pos/ADJ]()-[-pos/PROPN]() (1; 0% instances), [-pos/PROPN]()-[-pos/NOUN]() (1; 0% instances), [-pos/VERB]()-[-pos/PROPN]() (1; 0% instances).
+The following 8 pairs of parts of speech are connected with `xcomp`: <tt><a href="cs_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_pud-pos-VERB.html">VERB</a></tt> (172; 69% instances), <tt><a href="cs_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_pud-pos-NOUN.html">NOUN</a></tt> (42; 17% instances), <tt><a href="cs_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_pud-pos-ADJ.html">ADJ</a></tt> (19; 8% instances), <tt><a href="cs_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cs_pud-pos-VERB.html">VERB</a></tt> (9; 4% instances), <tt><a href="cs_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cs_pud-pos-NOUN.html">NOUN</a></tt> (4; 2% instances), <tt><a href="cs_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cs_pud-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="cs_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cs_pud-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="cs_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_pud-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

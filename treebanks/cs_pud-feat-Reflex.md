@@ -12,13 +12,13 @@ It occurs with 1 different values: `Yes`.
 440 tokens (2%) have a non-empty value of `Reflex`.
 16 types (0%) occur at least once with a non-empty value of `Reflex`.
 2 lemmas (0%) occur at least once with a non-empty value of `Reflex`.
-The feature is used with 2 part-of-speech tags: [PRON](cs_pud-pos-PRON.html) (353; 2% instances), [DET](cs_pud-pos-DET.html) (87; 0% instances).
+The feature is used with 2 part-of-speech tags: <tt><a href="cs_pud-pos-PRON.html">PRON</a></tt> (353; 2% instances), <tt><a href="cs_pud-pos-DET.html">DET</a></tt> (87; 0% instances).
 
 ### `PRON`
 
-353 [PRON](cs_pud-pos-PRON.html) tokens (61% of all `PRON` tokens) have a non-empty value of `Reflex`.
+353 <tt><a href="cs_pud-pos-PRON.html">PRON</a></tt> tokens (61% of all `PRON` tokens) have a non-empty value of `Reflex`.
 
-The most frequent other feature values with which `PRON` and `Reflex` co-occurred: <tt><a href="PronType.html">PronType</a>=Prs</tt> (353; 100%), <tt><a href="PrepCase.html">PrepCase</a>=EMPTY</tt> (353; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (353; 100%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (353; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (353; 100%), <tt><a href="Variant.html">Variant</a>=Short</tt> (348; 99%), <tt><a href="Case.html">Case</a>=Acc</tt> (303; 86%).
+The most frequent other feature values with which `PRON` and `Reflex` co-occurred: <tt><a href="cs_pud-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (353; 100%), <tt><a href="cs_pud-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (353; 100%), <tt><a href="cs_pud-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (353; 100%), <tt><a href="cs_pud-feat-PrepCase.html">PrepCase</a></tt><tt>=EMPTY</tt> (353; 100%), <tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (353; 100%), <tt><a href="cs_pud-feat-Variant.html">Variant</a></tt><tt>=Short</tt> (348; 99%), <tt><a href="cs_pud-feat-Case.html">Case</a></tt><tt>=Acc</tt> (303; 86%).
 
 `PRON` tokens may have the following values of `Reflex`:
 
@@ -27,9 +27,9 @@ The most frequent other feature values with which `PRON` and `Reflex` co-occurre
 
 ### `DET`
 
-87 [DET](cs_pud-pos-DET.html) tokens (11% of all `DET` tokens) have a non-empty value of `Reflex`.
+87 <tt><a href="cs_pud-pos-DET.html">DET</a></tt> tokens (11% of all `DET` tokens) have a non-empty value of `Reflex`.
 
-The most frequent other feature values with which `DET` and `Reflex` co-occurred: <tt><a href="Number[psor].html">Number[psor]</a>=EMPTY</tt> (87; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (87; 100%), <tt><a href="Poss.html">Poss</a>=Yes</tt> (87; 100%), <tt><a href="PronType.html">PronType</a>=Prs</tt> (87; 100%), <tt><a href="Gender[psor].html">Gender[psor]</a>=EMPTY</tt> (87; 100%), <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (75; 86%), <tt><a href="Number.html">Number</a>=Sing</tt> (63; 72%).
+The most frequent other feature values with which `DET` and `Reflex` co-occurred: <tt><a href="cs_pud-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (87; 100%), <tt><a href="cs_pud-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (87; 100%), <tt><a href="cs_pud-feat-Gender-psor.html">Gender[psor]</a></tt><tt>=EMPTY</tt> (87; 100%), <tt><a href="cs_pud-feat-Poss.html">Poss</a></tt><tt>=Yes</tt> (87; 100%), <tt><a href="cs_pud-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (87; 100%), <tt><a href="cs_pud-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (75; 86%), <tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (63; 72%).
 
 `DET` tokens may have the following values of `Reflex`:
 

@@ -12,13 +12,13 @@ It occurs with 2 different values: `Npr`, `Pre`.
 4926 tokens (0%) have a non-empty value of `PrepCase`.
 37 types (0%) occur at least once with a non-empty value of `PrepCase`.
 3 lemmas (0%) occur at least once with a non-empty value of `PrepCase`.
-The feature is used with 2 part-of-speech tags: [PRON](cs-pos-PRON.html) (4925; 0% instances), [DET](cs-pos-DET.html) (1; 0% instances).
+The feature is used with 2 part-of-speech tags: <tt><a href="cs-pos-PRON.html">PRON</a></tt> (4925; 0% instances), <tt><a href="cs-pos-DET.html">DET</a></tt> (1; 0% instances).
 
 ### `PRON`
 
-4925 [PRON](cs-pos-PRON.html) tokens (11% of all `PRON` tokens) have a non-empty value of `PrepCase`.
+4925 <tt><a href="cs-pos-PRON.html">PRON</a></tt> tokens (11% of all `PRON` tokens) have a non-empty value of `PrepCase`.
 
-The most frequent other feature values with which `PRON` and `PrepCase` co-occurred: <tt><a href="Variant.html">Variant</a>=EMPTY</tt> (4925; 100%), <tt><a href="Reflex.html">Reflex</a>=EMPTY</tt> (4925; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (3022; 61%), <tt><a href="Person.html">Person</a>=3</tt> (2724; 55%), <tt><a href="PronType.html">PronType</a>=Prs</tt> (2724; 55%).
+The most frequent other feature values with which `PRON` and `PrepCase` co-occurred: <tt><a href="cs-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (4925; 100%), <tt><a href="cs-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (4925; 100%), <tt><a href="cs-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3022; 61%), <tt><a href="cs-feat-Person.html">Person</a></tt><tt>=3</tt> (2724; 55%), <tt><a href="cs-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (2724; 55%).
 
 `PRON` tokens may have the following values of `PrepCase`:
 
@@ -27,37 +27,37 @@ The most frequent other feature values with which `PRON` and `PrepCase` co-occur
 
 <table>
   <tr><th>Paradigm <i>jenž</i></th><th><tt>Npr</tt></th><th><tt>Pre</tt></th></tr>
-  <tr><td><tt><a href="Animacy.html">Animacy</a>=Anim|<a href="Case.html">Case</a>=Acc|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Sing</tt></td><td>jehož</td><td></td></tr>
-  <tr><td><tt><a href="Animacy.html">Animacy</a>=Anim|<a href="Case.html">Case</a>=Nom|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Plur</tt></td><td>již</td><td></td></tr>
-  <tr><td><tt><a href="Animacy.html">Animacy</a>=Inan|<a href="Case.html">Case</a>=Nom|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Plur</tt></td><td>jež</td><td></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Gender.html">Gender</a>=Masc,Neut|<a href="Number.html">Number</a>=Sing</tt></td><td>jejž</td><td>nějž, něhož</td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Gender.html">Gender</a>=Fem|<a href="Number.html">Number</a>=Sing</tt></td><td>již</td><td>niž</td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Gender.html">Gender</a>=Neut|<a href="Number.html">Number</a>=Sing</tt></td><td>jež</td><td>něž</td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Number.html">Number</a>=Plur</tt></td><td>jež</td><td>něž</td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Dat|<a href="Gender.html">Gender</a>=Masc,Neut|<a href="Number.html">Number</a>=Sing</tt></td><td>jemuž</td><td>němuž</td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Dat|<a href="Gender.html">Gender</a>=Fem|<a href="Number.html">Number</a>=Sing</tt></td><td>jíž</td><td>níž</td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Dat|<a href="Number.html">Number</a>=Plur</tt></td><td>jimž</td><td>nimž</td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Gender.html">Gender</a>=Masc,Neut|<a href="Number.html">Number</a>=Sing</tt></td><td>jehož</td><td>něhož, nějž</td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Gender.html">Gender</a>=Fem|<a href="Number.html">Number</a>=Sing</tt></td><td>jíž</td><td>níž</td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Number.html">Number</a>=Plur</tt></td><td>jichž</td><td>nichž</td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Ins|<a href="Gender.html">Gender</a>=Masc,Neut|<a href="Number.html">Number</a>=Sing</tt></td><td>jímž</td><td>nímž</td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Ins|<a href="Gender.html">Gender</a>=Fem|<a href="Number.html">Number</a>=Sing</tt></td><td>jíž</td><td>níž</td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Ins|<a href="Number.html">Number</a>=Plur</tt></td><td>jimiž</td><td>nimiž</td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Loc|<a href="Gender.html">Gender</a>=Masc,Neut|<a href="Number.html">Number</a>=Sing</tt></td><td></td><td>němž</td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Loc|<a href="Gender.html">Gender</a>=Fem|<a href="Number.html">Number</a>=Sing</tt></td><td></td><td>níž</td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Loc|<a href="Number.html">Number</a>=Plur</tt></td><td></td><td>nichž</td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Sing</tt></td><td>jenž</td><td></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Gender.html">Gender</a>=Fem|<a href="Number.html">Number</a>=Sing</tt></td><td>jež</td><td></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Gender.html">Gender</a>=Fem|<a href="Number.html">Number</a>=Plur</tt></td><td>jež</td><td></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Gender.html">Gender</a>=Neut|<a href="Number.html">Number</a>=Sing</tt></td><td>jež</td><td></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Gender.html">Gender</a>=Neut|<a href="Number.html">Number</a>=Plur</tt></td><td>jež</td><td></td></tr>
+  <tr><td><tt><tt><a href="cs-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt>|<tt><a href="cs-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="cs-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="cs-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td>jehož</td><td></td></tr>
+  <tr><td><tt><tt><a href="cs-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt>|<tt><a href="cs-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="cs-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="cs-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td>již</td><td></td></tr>
+  <tr><td><tt><tt><a href="cs-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="cs-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="cs-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="cs-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td>jež</td><td></td></tr>
+  <tr><td><tt><tt><a href="cs-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="cs-feat-Gender.html">Gender</a></tt><tt>=Masc,Neut</tt>|<tt><a href="cs-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td>jejž</td><td>nějž, něhož</td></tr>
+  <tr><td><tt><tt><a href="cs-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="cs-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="cs-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td>již</td><td>niž</td></tr>
+  <tr><td><tt><tt><a href="cs-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="cs-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="cs-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td>jež</td><td>něž</td></tr>
+  <tr><td><tt><tt><a href="cs-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="cs-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td>jež</td><td>něž</td></tr>
+  <tr><td><tt><tt><a href="cs-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="cs-feat-Gender.html">Gender</a></tt><tt>=Masc,Neut</tt>|<tt><a href="cs-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td>jemuž</td><td>němuž</td></tr>
+  <tr><td><tt><tt><a href="cs-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="cs-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="cs-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td>jíž</td><td>níž</td></tr>
+  <tr><td><tt><tt><a href="cs-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="cs-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td>jimž</td><td>nimž</td></tr>
+  <tr><td><tt><tt><a href="cs-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="cs-feat-Gender.html">Gender</a></tt><tt>=Masc,Neut</tt>|<tt><a href="cs-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td>jehož</td><td>něhož, nějž</td></tr>
+  <tr><td><tt><tt><a href="cs-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="cs-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="cs-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td>jíž</td><td>níž</td></tr>
+  <tr><td><tt><tt><a href="cs-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="cs-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td>jichž</td><td>nichž</td></tr>
+  <tr><td><tt><tt><a href="cs-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="cs-feat-Gender.html">Gender</a></tt><tt>=Masc,Neut</tt>|<tt><a href="cs-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td>jímž</td><td>nímž</td></tr>
+  <tr><td><tt><tt><a href="cs-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="cs-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="cs-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td>jíž</td><td>níž</td></tr>
+  <tr><td><tt><tt><a href="cs-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="cs-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td>jimiž</td><td>nimiž</td></tr>
+  <tr><td><tt><tt><a href="cs-feat-Case.html">Case</a></tt><tt>=Loc</tt>|<tt><a href="cs-feat-Gender.html">Gender</a></tt><tt>=Masc,Neut</tt>|<tt><a href="cs-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td>němž</td></tr>
+  <tr><td><tt><tt><a href="cs-feat-Case.html">Case</a></tt><tt>=Loc</tt>|<tt><a href="cs-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="cs-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td>níž</td></tr>
+  <tr><td><tt><tt><a href="cs-feat-Case.html">Case</a></tt><tt>=Loc</tt>|<tt><a href="cs-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td>nichž</td></tr>
+  <tr><td><tt><tt><a href="cs-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="cs-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="cs-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td>jenž</td><td></td></tr>
+  <tr><td><tt><tt><a href="cs-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="cs-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="cs-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td>jež</td><td></td></tr>
+  <tr><td><tt><tt><a href="cs-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="cs-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="cs-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td>jež</td><td></td></tr>
+  <tr><td><tt><tt><a href="cs-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="cs-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="cs-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td>jež</td><td></td></tr>
+  <tr><td><tt><tt><a href="cs-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="cs-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="cs-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td>jež</td><td></td></tr>
 </table>
 
 ### `DET`
 
-1 [DET](cs-pos-DET.html) tokens (0% of all `DET` tokens) have a non-empty value of `PrepCase`.
+1 <tt><a href="cs-pos-DET.html">DET</a></tt> tokens (0% of all `DET` tokens) have a non-empty value of `PrepCase`.
 
-The most frequent other feature values with which `DET` and `PrepCase` co-occurred: <tt><a href="Gender.html">Gender</a>=Fem</tt> (1; 100%), <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (1; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (1; 100%), <tt><a href="Number[psor].html">Number[psor]</a>=EMPTY</tt> (1; 100%), <tt><a href="Case.html">Case</a>=Nom</tt> (1; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (1; 100%), <tt><a href="Poss.html">Poss</a>=EMPTY</tt> (1; 100%), <tt><a href="PronType.html">PronType</a>=Rel</tt> (1; 100%).
+The most frequent other feature values with which `DET` and `PrepCase` co-occurred: <tt><a href="cs-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="cs-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="cs-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1; 100%), <tt><a href="cs-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="cs-feat-Case.html">Case</a></tt><tt>=Nom</tt> (1; 100%), <tt><a href="cs-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="cs-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (1; 100%), <tt><a href="cs-feat-PronType.html">PronType</a></tt><tt>=Rel</tt> (1; 100%).
 
 `DET` tokens may have the following values of `PrepCase`:
 

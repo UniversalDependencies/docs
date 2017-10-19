@@ -34,9 +34,9 @@ The 3rd highest number of forms (1) was observed with the lemma “fajn”: fajn
 
 ## Relations
 
-`INTJ` nodes are attached to their parents using 6 different relations: [root](cs_cac-dep-root.html) (7; 47% instances), [advmod](cs_cac-dep-advmod.html) (2; 13% instances), [conj](cs_cac-dep-conj.html) (2; 13% instances), [dep](cs_cac-dep-dep.html) (2; 13% instances), [nmod](cs_cac-dep-nmod.html) (1; 7% instances), [obj](cs_cac-dep-obj.html) (1; 7% instances)
+`INTJ` nodes are attached to their parents using 6 different relations: <tt><a href="cs_cac-dep-root.html">root</a></tt> (7; 47% instances), <tt><a href="cs_cac-dep-advmod.html">advmod</a></tt> (2; 13% instances), <tt><a href="cs_cac-dep-conj.html">conj</a></tt> (2; 13% instances), <tt><a href="cs_cac-dep-dep.html">dep</a></tt> (2; 13% instances), <tt><a href="cs_cac-dep-nmod.html">nmod</a></tt> (1; 7% instances), <tt><a href="cs_cac-dep-obj.html">obj</a></tt> (1; 7% instances)
 
-Parents of `INTJ` nodes belong to 6 different parts of speech:  (7; 47% instances), [VERB](cs_cac-pos-VERB.html) (4; 27% instances), [ADJ](cs_cac-pos-ADJ.html) (1; 7% instances), [AUX](cs_cac-pos-AUX.html) (1; 7% instances), [INTJ](cs_cac-pos-INTJ.html) (1; 7% instances), [NOUN](cs_cac-pos-NOUN.html) (1; 7% instances)
+Parents of `INTJ` nodes belong to 6 different parts of speech:  (7; 47% instances), <tt><a href="cs_cac-pos-VERB.html">VERB</a></tt> (4; 27% instances), <tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt> (1; 7% instances), <tt><a href="cs_cac-pos-AUX.html">AUX</a></tt> (1; 7% instances), <tt><a href="cs_cac-pos-INTJ.html">INTJ</a></tt> (1; 7% instances), <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> (1; 7% instances)
 
 4 (27%) `INTJ` nodes are leaves.
 
@@ -48,7 +48,7 @@ Parents of `INTJ` nodes belong to 6 different parts of speech:  (7; 47% instance
 
 The highest child degree of a `INTJ` node is 4.
 
-Children of `INTJ` nodes are attached using 8 different relations: [punct](cs_cac-dep-punct.html) (10; 40% instances), [cc](cs_cac-dep-cc.html) (4; 16% instances), [conj](cs_cac-dep-conj.html) (4; 16% instances), [dep](cs_cac-dep-dep.html) (3; 12% instances), [advcl](cs_cac-dep-advcl.html) (1; 4% instances), [advmod](cs_cac-dep-advmod.html) (1; 4% instances), [cop](cs_cac-dep-cop.html) (1; 4% instances), [obl](cs_cac-dep-obl.html) (1; 4% instances)
+Children of `INTJ` nodes are attached using 8 different relations: <tt><a href="cs_cac-dep-punct.html">punct</a></tt> (10; 40% instances), <tt><a href="cs_cac-dep-cc.html">cc</a></tt> (4; 16% instances), <tt><a href="cs_cac-dep-conj.html">conj</a></tt> (4; 16% instances), <tt><a href="cs_cac-dep-dep.html">dep</a></tt> (3; 12% instances), <tt><a href="cs_cac-dep-advcl.html">advcl</a></tt> (1; 4% instances), <tt><a href="cs_cac-dep-advmod.html">advmod</a></tt> (1; 4% instances), <tt><a href="cs_cac-dep-cop.html">cop</a></tt> (1; 4% instances), <tt><a href="cs_cac-dep-obl.html">obl</a></tt> (1; 4% instances)
 
-Children of `INTJ` nodes belong to 8 different parts of speech: [PUNCT](cs_cac-pos-PUNCT.html) (10; 40% instances), [CCONJ](cs_cac-pos-CCONJ.html) (5; 20% instances), [VERB](cs_cac-pos-VERB.html) (5; 20% instances), [ADJ](cs_cac-pos-ADJ.html) (1; 4% instances), [ADV](cs_cac-pos-ADV.html) (1; 4% instances), [AUX](cs_cac-pos-AUX.html) (1; 4% instances), [INTJ](cs_cac-pos-INTJ.html) (1; 4% instances), [NOUN](cs_cac-pos-NOUN.html) (1; 4% instances)
+Children of `INTJ` nodes belong to 8 different parts of speech: <tt><a href="cs_cac-pos-PUNCT.html">PUNCT</a></tt> (10; 40% instances), <tt><a href="cs_cac-pos-CCONJ.html">CCONJ</a></tt> (5; 20% instances), <tt><a href="cs_cac-pos-VERB.html">VERB</a></tt> (5; 20% instances), <tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt> (1; 4% instances), <tt><a href="cs_cac-pos-ADV.html">ADV</a></tt> (1; 4% instances), <tt><a href="cs_cac-pos-AUX.html">AUX</a></tt> (1; 4% instances), <tt><a href="cs_cac-pos-INTJ.html">INTJ</a></tt> (1; 4% instances), <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> (1; 4% instances)
 

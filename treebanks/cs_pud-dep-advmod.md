@@ -7,14 +7,14 @@ udver: '2'
 ## Treebank Statistics: UD_Czech-PUD: Relations: `advmod`
 
 This relation is universal.
-There are 1 language-specific subtypes of `advmod`: [advmod:emph]().
+There are 1 language-specific subtypes of `advmod`: <tt><a href="cs_pud-dep-advmod-emph.html">advmod:emph</a></tt>.
 
 651 nodes (3%) are attached to their parents as `advmod`.
 
 551 instances of `advmod` (85%) are right-to-left (child precedes parent).
 Average distance between parent and child is 2.22273425499232.
 
-The following 15 pairs of parts of speech are connected with `advmod`: [-pos/VERB]()-[-pos/ADV]() (389; 60% instances), [-pos/ADJ]()-[-pos/ADV]() (179; 27% instances), [-pos/NOUN]()-[-pos/ADV]() (32; 5% instances), [-pos/ADV]()-[-pos/ADV]() (25; 4% instances), [-pos/VERB]()-[-pos/PART]() (7; 1% instances), [-pos/DET]()-[-pos/ADV]() (4; 1% instances), [-pos/NUM]()-[-pos/ADV]() (3; 0% instances), [-pos/PROPN]()-[-pos/ADV]() (3; 0% instances), [-pos/ADJ]()-[-pos/PART]() (2; 0% instances), [-pos/DET]()-[-pos/PART]() (2; 0% instances), [-pos/ADJ]()-[-pos/SCONJ]() (1; 0% instances), [-pos/ADV]()-[-pos/PART]() (1; 0% instances), [-pos/SYM]()-[-pos/ADV]() (1; 0% instances), [-pos/VERB]()-[-pos/ADP]() (1; 0% instances), [-pos/VERB]()-[-pos/VERB]() (1; 0% instances).
+The following 15 pairs of parts of speech are connected with `advmod`: <tt><a href="cs_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_pud-pos-ADV.html">ADV</a></tt> (389; 60% instances), <tt><a href="cs_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cs_pud-pos-ADV.html">ADV</a></tt> (179; 27% instances), <tt><a href="cs_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_pud-pos-ADV.html">ADV</a></tt> (32; 5% instances), <tt><a href="cs_pud-pos-ADV.html">ADV</a></tt>-<tt><a href="cs_pud-pos-ADV.html">ADV</a></tt> (25; 4% instances), <tt><a href="cs_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_pud-pos-PART.html">PART</a></tt> (7; 1% instances), <tt><a href="cs_pud-pos-DET.html">DET</a></tt>-<tt><a href="cs_pud-pos-ADV.html">ADV</a></tt> (4; 1% instances), <tt><a href="cs_pud-pos-NUM.html">NUM</a></tt>-<tt><a href="cs_pud-pos-ADV.html">ADV</a></tt> (3; 0% instances), <tt><a href="cs_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cs_pud-pos-ADV.html">ADV</a></tt> (3; 0% instances), <tt><a href="cs_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cs_pud-pos-PART.html">PART</a></tt> (2; 0% instances), <tt><a href="cs_pud-pos-DET.html">DET</a></tt>-<tt><a href="cs_pud-pos-PART.html">PART</a></tt> (2; 0% instances), <tt><a href="cs_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cs_pud-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="cs_pud-pos-ADV.html">ADV</a></tt>-<tt><a href="cs_pud-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="cs_pud-pos-SYM.html">SYM</a></tt>-<tt><a href="cs_pud-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="cs_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_pud-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="cs_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_pud-pos-VERB.html">VERB</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

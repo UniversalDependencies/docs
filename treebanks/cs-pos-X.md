@@ -13,32 +13,32 @@ The 10 most frequent `X` lemmas: a h m s
 
 The 10 most frequent `X` types:  A H M S
 
-The 10 most frequent ambiguous lemmas: a ([CCONJ]() 32110, [NOUN]() 133, [ADJ]() 15, [ADP]() 9, [X]() 4), h ([NOUN]() 24, [X]() 3), m ([NOUN]() 46, [X]() 3, [ADJ]() 2), s ([ADP]() 11169, [NOUN]() 90, [PART]() 21, [X]() 3, [ADJ]() 1)
+The 10 most frequent ambiguous lemmas: a (<tt><a href="cs-pos-CCONJ.html">CCONJ</a></tt> 32110, <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 133, <tt><a href="cs-pos-ADJ.html">ADJ</a></tt> 15, <tt><a href="cs-pos-ADP.html">ADP</a></tt> 9, <tt><a href="cs-pos-X.html">X</a></tt> 4), h (<tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 24, <tt><a href="cs-pos-X.html">X</a></tt> 3), m (<tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 46, <tt><a href="cs-pos-X.html">X</a></tt> 3, <tt><a href="cs-pos-ADJ.html">ADJ</a></tt> 2), s (<tt><a href="cs-pos-ADP.html">ADP</a></tt> 11169, <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 90, <tt><a href="cs-pos-PART.html">PART</a></tt> 21, <tt><a href="cs-pos-X.html">X</a></tt> 3, <tt><a href="cs-pos-ADJ.html">ADJ</a></tt> 1)
 
-The 10 most frequent ambiguous types:  A ([CCONJ]() 1042, [PROPN]() 172, [NOUN]() 93, [ADJ]() 19, [X]() 4), H ([PROPN]() 77, [NOUN]() 18, [X]() 3), M ([PROPN]() 244, [NOUN]() 51, [X]() 3, [ADJ]() 1), S ([ADP]() 470, [PROPN]() 117, [NOUN]() 38, [ADJ]() 14, [X]() 3)
+The 10 most frequent ambiguous types:  A (<tt><a href="cs-pos-CCONJ.html">CCONJ</a></tt> 1042, <tt><a href="cs-pos-PROPN.html">PROPN</a></tt> 172, <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 93, <tt><a href="cs-pos-ADJ.html">ADJ</a></tt> 19, <tt><a href="cs-pos-X.html">X</a></tt> 4), H (<tt><a href="cs-pos-PROPN.html">PROPN</a></tt> 77, <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 18, <tt><a href="cs-pos-X.html">X</a></tt> 3), M (<tt><a href="cs-pos-PROPN.html">PROPN</a></tt> 244, <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 51, <tt><a href="cs-pos-X.html">X</a></tt> 3, <tt><a href="cs-pos-ADJ.html">ADJ</a></tt> 1), S (<tt><a href="cs-pos-ADP.html">ADP</a></tt> 470, <tt><a href="cs-pos-PROPN.html">PROPN</a></tt> 117, <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 38, <tt><a href="cs-pos-ADJ.html">ADJ</a></tt> 14, <tt><a href="cs-pos-X.html">X</a></tt> 3)
 
 
 * A
-  * [CCONJ]() 1042: <b>A</b> skutečně přišel s návrhem na zjednodušený model řízení .
-  * [PROPN]() 172: Přenosová rychlost : ( <b>A</b> 4 / sec ) 12
-  * [NOUN]() 93: Buďte <b>A</b> , B paty kolmic spuštěných z bodů <b>A</b> , B na přímku q .
-  * [ADJ]() 19: <b>A</b> O Travel se srazit nedala
-  * [X]() 4: Nenápadný půvab M . <b>A</b> . S . H .
+  * <tt><a href="cs-pos-CCONJ.html">CCONJ</a></tt> 1042: <b>A</b> skutečně přišel s návrhem na zjednodušený model řízení .
+  * <tt><a href="cs-pos-PROPN.html">PROPN</a></tt> 172: Přenosová rychlost : ( <b>A</b> 4 / sec ) 12
+  * <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 93: Buďte <b>A</b> , B paty kolmic spuštěných z bodů <b>A</b> , B na přímku q .
+  * <tt><a href="cs-pos-ADJ.html">ADJ</a></tt> 19: <b>A</b> O Travel se srazit nedala
+  * <tt><a href="cs-pos-X.html">X</a></tt> 4: Nenápadný půvab M . <b>A</b> . S . H .
 * H
-  * [PROPN]() 77: 9.15 <b>H</b> . Asmodi : Lidožrouti
-  * [NOUN]() 18: Hlasy před hodinou <b>H</b>
-  * [X]() 3: Nenápadný půvab M . A . S . <b>H</b> .
+  * <tt><a href="cs-pos-PROPN.html">PROPN</a></tt> 77: 9.15 <b>H</b> . Asmodi : Lidožrouti
+  * <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 18: Hlasy před hodinou <b>H</b>
+  * <tt><a href="cs-pos-X.html">X</a></tt> 3: Nenápadný půvab M . A . S . <b>H</b> .
 * M
-  * [PROPN]() 244: Příchod Nového roku oslaví <b>M</b> . Gorbačov v Moskvě .
-  * [NOUN]() 51: " Nesnesu soucit , " řekla mi na rozloučenou Jana <b>M</b> .
-  * [X]() 3: Nenápadný půvab <b>M</b> . A . S . H .
-  * [ADJ]() 1: Známá je již předskokanka R . E . <b>M</b> . , kteří se objeví ve Sportovní hale 26 . března příštího roku .
+  * <tt><a href="cs-pos-PROPN.html">PROPN</a></tt> 244: Příchod Nového roku oslaví <b>M</b> . Gorbačov v Moskvě .
+  * <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 51: " Nesnesu soucit , " řekla mi na rozloučenou Jana <b>M</b> .
+  * <tt><a href="cs-pos-X.html">X</a></tt> 3: Nenápadný půvab <b>M</b> . A . S . H .
+  * <tt><a href="cs-pos-ADJ.html">ADJ</a></tt> 1: Známá je již předskokanka R . E . <b>M</b> . , kteří se objeví ve Sportovní hale 26 . března příštího roku .
 * S
-  * [ADP]() 470: <b>S</b> velkou pravděpodobností u jednoho pobytu naše spolupráce neskončila .
-  * [PROPN]() 117: P . <b>S</b> . : Souhlasím .
-  * [NOUN]() 38: Buď <b>S</b> bod v němž k tomuto rozlomení dochází ( viz obr . 9 ) .
-  * [ADJ]() 14: Velký úspěch má v poslední době také program <b>S</b> . P . Z .
-  * [X]() 3: Nenápadný půvab M . A . <b>S</b> . H .
+  * <tt><a href="cs-pos-ADP.html">ADP</a></tt> 470: <b>S</b> velkou pravděpodobností u jednoho pobytu naše spolupráce neskončila .
+  * <tt><a href="cs-pos-PROPN.html">PROPN</a></tt> 117: P . <b>S</b> . : Souhlasím .
+  * <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 38: Buď <b>S</b> bod v němž k tomuto rozlomení dochází ( viz obr . 9 ) .
+  * <tt><a href="cs-pos-ADJ.html">ADJ</a></tt> 14: Velký úspěch má v poslední době také program <b>S</b> . P . Z .
+  * <tt><a href="cs-pos-X.html">X</a></tt> 3: Nenápadný půvab M . A . <b>S</b> . H .
 
 ## Morphology
 
@@ -50,7 +50,7 @@ The 2nd highest number of forms (1) was observed with the lemma “h”: H.
 
 The 3rd highest number of forms (1) was observed with the lemma “m”: M.
 
-`X` occurs with 1 features: [Abbr](cs-feat-Abbr.html) (12; 92% instances)
+`X` occurs with 1 features: <tt><a href="cs-feat-Abbr.html">Abbr</a></tt> (12; 92% instances)
 
 `X` occurs with 1 feature-value pairs: `Abbr=Yes`
 
@@ -61,9 +61,9 @@ Examples: A H M S
 
 ## Relations
 
-`X` nodes are attached to their parents using 2 different relations: [nmod](cs-dep-nmod.html) (12; 92% instances), [nsubj](cs-dep-nsubj.html) (1; 8% instances)
+`X` nodes are attached to their parents using 2 different relations: <tt><a href="cs-dep-nmod.html">nmod</a></tt> (12; 92% instances), <tt><a href="cs-dep-nsubj.html">nsubj</a></tt> (1; 8% instances)
 
-Parents of `X` nodes belong to 2 different parts of speech: [X](cs-pos-X.html) (9; 69% instances), [NOUN](cs-pos-NOUN.html) (4; 31% instances)
+Parents of `X` nodes belong to 2 different parts of speech: <tt><a href="cs-pos-X.html">X</a></tt> (9; 69% instances), <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> (4; 31% instances)
 
 1 (8%) `X` nodes are leaves.
 
@@ -75,7 +75,7 @@ Parents of `X` nodes belong to 2 different parts of speech: [X](cs-pos-X.html) (
 
 The highest child degree of a `X` node is 4.
 
-Children of `X` nodes are attached using 2 different relations: [punct](cs-dep-punct.html) (11; 55% instances), [nmod](cs-dep-nmod.html) (9; 45% instances)
+Children of `X` nodes are attached using 2 different relations: <tt><a href="cs-dep-punct.html">punct</a></tt> (11; 55% instances), <tt><a href="cs-dep-nmod.html">nmod</a></tt> (9; 45% instances)
 
-Children of `X` nodes belong to 2 different parts of speech: [PUNCT](cs-pos-PUNCT.html) (11; 55% instances), [X](cs-pos-X.html) (9; 45% instances)
+Children of `X` nodes belong to 2 different parts of speech: <tt><a href="cs-pos-PUNCT.html">PUNCT</a></tt> (11; 55% instances), <tt><a href="cs-pos-X.html">X</a></tt> (9; 45% instances)
 

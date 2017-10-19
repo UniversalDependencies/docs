@@ -7,14 +7,14 @@ udver: '2'
 ## Treebank Statistics: UD_Czech-CAC: Relations: `flat`
 
 This relation is universal.
-There are 1 language-specific subtypes of `flat`: [flat:foreign]().
+There are 1 language-specific subtypes of `flat`: <tt><a href="cs_cac-dep-flat-foreign.html">flat:foreign</a></tt>.
 
 850 nodes (0%) are attached to their parents as `flat`.
 
 850 instances of `flat` (100%) are left-to-right (parent precedes child).
 Average distance between parent and child is 1.14235294117647.
 
-The following 3 pairs of parts of speech are connected with `flat`: [-pos/PROPN]()-[-pos/PROPN]() (845; 99% instances), [-pos/PROPN]()-[-pos/ADJ]() (3; 0% instances), [-pos/ADJ]()-[-pos/PROPN]() (2; 0% instances).
+The following 3 pairs of parts of speech are connected with `flat`: <tt><a href="cs_cac-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cs_cac-pos-PROPN.html">PROPN</a></tt> (845; 99% instances), <tt><a href="cs_cac-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt> (3; 0% instances), <tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cs_cac-pos-PROPN.html">PROPN</a></tt> (2; 0% instances).
 
 
 ~~~ conllu

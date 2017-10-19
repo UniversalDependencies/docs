@@ -13,13 +13,13 @@ Some words have combined values of the feature; 1 combinations have been observe
 112679 tokens (7%) have a non-empty value of `PronType`.
 943 types (1%) occur at least once with a non-empty value of `PronType`.
 184 lemmas (0%) occur at least once with a non-empty value of `PronType`.
-The feature is used with 3 part-of-speech tags: [DET](cs-pos-DET.html) (55313; 4% instances), [PRON](cs-pos-PRON.html) (44925; 3% instances), [ADV](cs-pos-ADV.html) (12441; 1% instances).
+The feature is used with 3 part-of-speech tags: <tt><a href="cs-pos-DET.html">DET</a></tt> (55313; 4% instances), <tt><a href="cs-pos-PRON.html">PRON</a></tt> (44925; 3% instances), <tt><a href="cs-pos-ADV.html">ADV</a></tt> (12441; 1% instances).
 
 ### `DET`
 
-55313 [DET](cs-pos-DET.html) tokens (100% of all `DET` tokens) have a non-empty value of `PronType`.
+55313 <tt><a href="cs-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `DET` and `PronType` co-occurred: <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (49090; 89%), <tt><a href="Number[psor].html">Number[psor]</a>=EMPTY</tt> (45898; 83%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (45896; 83%), <tt><a href="Poss.html">Poss</a>=EMPTY</tt> (40996; 74%), <tt><a href="Number.html">Number</a>=Sing</tt> (35074; 63%).
+The most frequent other feature values with which `DET` and `PronType` co-occurred: <tt><a href="cs-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (49090; 89%), <tt><a href="cs-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (45898; 83%), <tt><a href="cs-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (45896; 83%), <tt><a href="cs-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (40996; 74%), <tt><a href="cs-feat-Number.html">Number</a></tt><tt>=Sing</tt> (35074; 63%).
 
 `DET` tokens may have the following values of `PronType`:
 
@@ -36,9 +36,9 @@ The most frequent other feature values with which `DET` and `PronType` co-occurr
 
 ### `PRON`
 
-44925 [PRON](cs-pos-PRON.html) tokens (100% of all `PRON` tokens) have a non-empty value of `PronType`.
+44925 <tt><a href="cs-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="PrepCase.html">PrepCase</a>=EMPTY</tt> (40000; 89%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (36994; 82%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (33795; 75%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (31317; 70%), <tt><a href="Case.html">Case</a>=Acc</tt> (27397; 61%), <tt><a href="Variant.html">Variant</a>=Short</tt> (27181; 61%), <tt><a href="Reflex.html">Reflex</a>=Yes</tt> (25786; 57%).
+The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="cs-feat-PrepCase.html">PrepCase</a></tt><tt>=EMPTY</tt> (40000; 89%), <tt><a href="cs-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (36994; 82%), <tt><a href="cs-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (33795; 75%), <tt><a href="cs-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (31317; 70%), <tt><a href="cs-feat-Case.html">Case</a></tt><tt>=Acc</tt> (27397; 61%), <tt><a href="cs-feat-Variant.html">Variant</a></tt><tt>=Short</tt> (27181; 61%), <tt><a href="cs-feat-Reflex.html">Reflex</a></tt><tt>=Yes</tt> (25786; 57%).
 
 `PRON` tokens may have the following values of `PronType`:
 
@@ -53,9 +53,9 @@ The most frequent other feature values with which `PRON` and `PronType` co-occur
 
 ### `ADV`
 
-12441 [ADV](cs-pos-ADV.html) tokens (16% of all `ADV` tokens) have a non-empty value of `PronType`.
+12441 <tt><a href="cs-pos-ADV.html">ADV</a></tt> tokens (16% of all `ADV` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `ADV` and `PronType` co-occurred: <tt><a href="Degree.html">Degree</a>=EMPTY</tt> (12441; 100%), <tt><a href="Polarity.html">Polarity</a>=EMPTY</tt> (12441; 100%).
+The most frequent other feature values with which `ADV` and `PronType` co-occurred: <tt><a href="cs-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (12441; 100%), <tt><a href="cs-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (12441; 100%).
 
 `ADV` tokens may have the following values of `PronType`:
 
@@ -71,14 +71,14 @@ The most frequent other feature values with which `ADV` and `PronType` co-occurr
 ## Relations with Agreement in `PronType`
 
 The 10 most frequent relations where parent and child node agree in `PronType`:
-<tt>DET --[<a href="../dep/conj.html">conj</a>]--> DET</tt> (113; 97%),
-<tt>ADV --[<a href="../dep/conj.html">conj</a>]--> ADV</tt> (49; 54%),
-<tt>PRON --[<a href="../dep/conj.html">conj</a>]--> PRON</tt> (37; 84%),
-<tt>PRON --[<a href="../dep/conj.html">conj</a>]--> ADV</tt> (17; 57%),
-<tt>DET --[<a href="../dep/cc.html">cc</a>]--> DET</tt> (11; 92%),
-<tt>PRON --[<a href="../dep/orphan.html">orphan</a>]--> PRON</tt> (9; 64%),
-<tt>PRON --[<a href="../dep/nsubj.html">nsubj</a>]--> PRON</tt> (8; 53%),
-<tt>PRON --[<a href="../dep/appos.html">appos</a>]--> PRON</tt> (5; 100%),
-<tt>DET --[<a href="../dep/appos.html">appos</a>]--> DET</tt> (4; 80%),
-<tt>DET --[<a href="../dep/orphan.html">orphan</a>]--> DET</tt> (4; 80%).
+<tt>DET --[<tt><a href="cs-dep-conj.html">conj</a></tt>]--> DET</tt> (113; 97%),
+<tt>ADV --[<tt><a href="cs-dep-conj.html">conj</a></tt>]--> ADV</tt> (49; 54%),
+<tt>PRON --[<tt><a href="cs-dep-conj.html">conj</a></tt>]--> PRON</tt> (37; 84%),
+<tt>PRON --[<tt><a href="cs-dep-conj.html">conj</a></tt>]--> ADV</tt> (17; 57%),
+<tt>DET --[<tt><a href="cs-dep-cc.html">cc</a></tt>]--> DET</tt> (11; 92%),
+<tt>PRON --[<tt><a href="cs-dep-orphan.html">orphan</a></tt>]--> PRON</tt> (9; 64%),
+<tt>PRON --[<tt><a href="cs-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (8; 53%),
+<tt>PRON --[<tt><a href="cs-dep-appos.html">appos</a></tt>]--> PRON</tt> (5; 100%),
+<tt>DET --[<tt><a href="cs-dep-orphan.html">orphan</a></tt>]--> DET</tt> (4; 80%),
+<tt>DET --[<tt><a href="cs-dep-appos.html">appos</a></tt>]--> DET</tt> (4; 80%).
 

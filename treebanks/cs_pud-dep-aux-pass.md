@@ -6,14 +6,14 @@ udver: '2'
 
 ## Treebank Statistics: UD_Czech-PUD: Relations: `aux:pass`
 
-This relation is a language-specific subtype of [aux]().
+This relation is a language-specific subtype of <tt><a href="cs_pud-dep-aux.html">aux</a></tt>.
 
 164 nodes (1%) are attached to their parents as `aux:pass`.
 
 164 instances of `aux:pass` (100%) are right-to-left (child precedes parent).
 Average distance between parent and child is 2.11585365853659.
 
-The following 2 pairs of parts of speech are connected with `aux:pass`: [-pos/ADJ]()-[-pos/AUX]() (163; 99% instances), [-pos/ADJ]()-[-pos/VERB]() (1; 1% instances).
+The following 2 pairs of parts of speech are connected with `aux:pass`: <tt><a href="cs_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cs_pud-pos-AUX.html">AUX</a></tt> (163; 99% instances), <tt><a href="cs_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cs_pud-pos-VERB.html">VERB</a></tt> (1; 1% instances).
 
 
 ~~~ conllu

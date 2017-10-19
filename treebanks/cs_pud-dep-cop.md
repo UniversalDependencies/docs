@@ -13,7 +13,7 @@ This relation is universal.
 286 instances of `cop` (86%) are right-to-left (child precedes parent).
 Average distance between parent and child is 2.25075528700906.
 
-The following 7 pairs of parts of speech are connected with `cop`: [-pos/ADJ]()-[-pos/AUX]() (149; 45% instances), [-pos/NOUN]()-[-pos/AUX]() (138; 42% instances), [-pos/ADV]()-[-pos/AUX]() (18; 5% instances), [-pos/NUM]()-[-pos/AUX]() (9; 3% instances), [-pos/DET]()-[-pos/AUX]() (7; 2% instances), [-pos/PRON]()-[-pos/AUX]() (7; 2% instances), [-pos/PROPN]()-[-pos/AUX]() (3; 1% instances).
+The following 7 pairs of parts of speech are connected with `cop`: <tt><a href="cs_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cs_pud-pos-AUX.html">AUX</a></tt> (149; 45% instances), <tt><a href="cs_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_pud-pos-AUX.html">AUX</a></tt> (138; 42% instances), <tt><a href="cs_pud-pos-ADV.html">ADV</a></tt>-<tt><a href="cs_pud-pos-AUX.html">AUX</a></tt> (18; 5% instances), <tt><a href="cs_pud-pos-NUM.html">NUM</a></tt>-<tt><a href="cs_pud-pos-AUX.html">AUX</a></tt> (9; 3% instances), <tt><a href="cs_pud-pos-DET.html">DET</a></tt>-<tt><a href="cs_pud-pos-AUX.html">AUX</a></tt> (7; 2% instances), <tt><a href="cs_pud-pos-PRON.html">PRON</a></tt>-<tt><a href="cs_pud-pos-AUX.html">AUX</a></tt> (7; 2% instances), <tt><a href="cs_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cs_pud-pos-AUX.html">AUX</a></tt> (3; 1% instances).
 
 
 ~~~ conllu

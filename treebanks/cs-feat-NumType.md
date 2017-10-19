@@ -13,13 +13,13 @@ Some words have combined values of the feature; 1 combinations have been observe
 49209 tokens (3%) have a non-empty value of `NumType`.
 4025 types (3%) occur at least once with a non-empty value of `NumType`.
 3573 lemmas (6%) occur at least once with a non-empty value of `NumType`.
-The feature is used with 4 part-of-speech tags: [NUM](cs-pos-NUM.html) (41507; 3% instances), [ADJ](cs-pos-ADJ.html) (4990; 0% instances), [DET](cs-pos-DET.html) (1848; 0% instances), [ADV](cs-pos-ADV.html) (864; 0% instances).
+The feature is used with 4 part-of-speech tags: <tt><a href="cs-pos-NUM.html">NUM</a></tt> (41507; 3% instances), <tt><a href="cs-pos-ADJ.html">ADJ</a></tt> (4990; 0% instances), <tt><a href="cs-pos-DET.html">DET</a></tt> (1848; 0% instances), <tt><a href="cs-pos-ADV.html">ADV</a></tt> (864; 0% instances).
 
 ### `NUM`
 
-41507 [NUM](cs-pos-NUM.html) tokens (100% of all `NUM` tokens) have a non-empty value of `NumType`.
+41507 <tt><a href="cs-pos-NUM.html">NUM</a></tt> tokens (100% of all `NUM` tokens) have a non-empty value of `NumType`.
 
-The most frequent other feature values with which `NUM` and `NumType` co-occurred: <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (36748; 89%), <tt><a href="NumValue.html">NumValue</a>=EMPTY</tt> (33457; 81%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (29884; 72%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (29858; 72%), <tt><a href="NumForm.html">NumForm</a>=Digit</tt> (29481; 71%).
+The most frequent other feature values with which `NUM` and `NumType` co-occurred: <tt><a href="cs-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (36748; 89%), <tt><a href="cs-feat-NumValue.html">NumValue</a></tt><tt>=EMPTY</tt> (33457; 81%), <tt><a href="cs-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (29884; 72%), <tt><a href="cs-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (29858; 72%), <tt><a href="cs-feat-NumForm.html">NumForm</a></tt><tt>=Digit</tt> (29481; 71%).
 
 `NUM` tokens may have the following values of `NumType`:
 
@@ -30,9 +30,9 @@ The most frequent other feature values with which `NUM` and `NumType` co-occurre
 
 ### `ADJ`
 
-4990 [ADJ](cs-pos-ADJ.html) tokens (3% of all `ADJ` tokens) have a non-empty value of `NumType`.
+4990 <tt><a href="cs-pos-ADJ.html">ADJ</a></tt> tokens (3% of all `ADJ` tokens) have a non-empty value of `NumType`.
 
-The most frequent other feature values with which `ADJ` and `NumType` co-occurred: <tt><a href="Degree.html">Degree</a>=EMPTY</tt> (4990; 100%), <tt><a href="Polarity.html">Polarity</a>=EMPTY</tt> (4990; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (4215; 84%), <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (3246; 65%).
+The most frequent other feature values with which `ADJ` and `NumType` co-occurred: <tt><a href="cs-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (4990; 100%), <tt><a href="cs-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (4990; 100%), <tt><a href="cs-feat-Number.html">Number</a></tt><tt>=Sing</tt> (4215; 84%), <tt><a href="cs-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (3246; 65%).
 
 `ADJ` tokens may have the following values of `NumType`:
 
@@ -45,9 +45,9 @@ The most frequent other feature values with which `ADJ` and `NumType` co-occurre
 
 ### `DET`
 
-1848 [DET](cs-pos-DET.html) tokens (3% of all `DET` tokens) have a non-empty value of `NumType`.
+1848 <tt><a href="cs-pos-DET.html">DET</a></tt> tokens (3% of all `DET` tokens) have a non-empty value of `NumType`.
 
-The most frequent other feature values with which `DET` and `NumType` co-occurred: <tt><a href="Poss.html">Poss</a>=EMPTY</tt> (1848; 100%), <tt><a href="Number[psor].html">Number[psor]</a>=EMPTY</tt> (1848; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (1848; 100%), <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (1844; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (1832; 99%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (1832; 99%), <tt><a href="PronType.html">PronType</a>=Ind</tt> (1545; 84%).
+The most frequent other feature values with which `DET` and `NumType` co-occurred: <tt><a href="cs-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (1848; 100%), <tt><a href="cs-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (1848; 100%), <tt><a href="cs-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (1848; 100%), <tt><a href="cs-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (1844; 100%), <tt><a href="cs-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (1832; 99%), <tt><a href="cs-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1832; 99%), <tt><a href="cs-feat-PronType.html">PronType</a></tt><tt>=Ind</tt> (1545; 84%).
 
 `DET` tokens may have the following values of `NumType`:
 
@@ -59,9 +59,9 @@ The most frequent other feature values with which `DET` and `NumType` co-occurre
 
 ### `ADV`
 
-864 [ADV](cs-pos-ADV.html) tokens (1% of all `ADV` tokens) have a non-empty value of `NumType`.
+864 <tt><a href="cs-pos-ADV.html">ADV</a></tt> tokens (1% of all `ADV` tokens) have a non-empty value of `NumType`.
 
-The most frequent other feature values with which `ADV` and `NumType` co-occurred: <tt><a href="Polarity.html">Polarity</a>=EMPTY</tt> (864; 100%), <tt><a href="Degree.html">Degree</a>=EMPTY</tt> (864; 100%), <tt><a href="PronType.html">PronType</a>=EMPTY</tt> (741; 86%).
+The most frequent other feature values with which `ADV` and `NumType` co-occurred: <tt><a href="cs-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (864; 100%), <tt><a href="cs-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (864; 100%), <tt><a href="cs-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (741; 86%).
 
 `ADV` tokens may have the following values of `NumType`:
 
@@ -74,14 +74,14 @@ The most frequent other feature values with which `ADV` and `NumType` co-occurre
 ## Relations with Agreement in `NumType`
 
 The 10 most frequent relations where parent and child node agree in `NumType`:
-<tt>NUM --[<a href="../dep/conj.html">conj</a>]--> NUM</tt> (3255; 100%),
-<tt>NUM --[<a href="../dep/compound.html">compound</a>]--> NUM</tt> (2801; 100%),
-<tt>NUM --[<a href="../dep/orphan.html">orphan</a>]--> NUM</tt> (81; 100%),
-<tt>ADJ --[<a href="../dep/conj.html">conj</a>]--> ADJ</tt> (69; 53%),
-<tt>NUM --[<a href="../dep/dep.html">dep</a>]--> NUM</tt> (52; 100%),
-<tt>NUM --[<a href="../dep/det:nummod.html">det:nummod</a>]--> DET</tt> (16; 100%),
-<tt>ADJ --[<a href="../dep/orphan.html">orphan</a>]--> ADJ</tt> (10; 63%),
-<tt>DET --[<a href="../dep/conj.html">conj</a>]--> DET</tt> (6; 86%),
-<tt>DET --[<a href="../dep/appos.html">appos</a>]--> NUM</tt> (4; 100%),
-<tt>NUM --[<a href="../dep/conj.html">conj</a>]--> DET</tt> (3; 60%).
+<tt>NUM --[<tt><a href="cs-dep-conj.html">conj</a></tt>]--> NUM</tt> (3255; 100%),
+<tt>NUM --[<tt><a href="cs-dep-compound.html">compound</a></tt>]--> NUM</tt> (2801; 100%),
+<tt>NUM --[<tt><a href="cs-dep-orphan.html">orphan</a></tt>]--> NUM</tt> (81; 100%),
+<tt>ADJ --[<tt><a href="cs-dep-conj.html">conj</a></tt>]--> ADJ</tt> (69; 53%),
+<tt>NUM --[<tt><a href="cs-dep-dep.html">dep</a></tt>]--> NUM</tt> (52; 100%),
+<tt>NUM --[<tt><a href="cs-dep-det-nummod.html">det:nummod</a></tt>]--> DET</tt> (16; 100%),
+<tt>ADJ --[<tt><a href="cs-dep-orphan.html">orphan</a></tt>]--> ADJ</tt> (10; 63%),
+<tt>DET --[<tt><a href="cs-dep-conj.html">conj</a></tt>]--> DET</tt> (6; 86%),
+<tt>DET --[<tt><a href="cs-dep-appos.html">appos</a></tt>]--> NUM</tt> (4; 100%),
+<tt>NUM --[<tt><a href="cs-dep-conj.html">conj</a></tt>]--> DET</tt> (3; 60%).
 

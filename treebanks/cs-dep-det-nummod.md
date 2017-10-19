@@ -6,15 +6,15 @@ udver: '2'
 
 ## Treebank Statistics: UD_Czech: Relations: `det:nummod`
 
-This relation is a language-specific subtype of [det]().
-There are also 1 other language-specific subtypes of `det`: [det:numgov]().
+This relation is a language-specific subtype of <tt><a href="cs-dep-det.html">det</a></tt>.
+There are also 1 other language-specific subtypes of `det`: <tt><a href="cs-dep-det-numgov.html">det:numgov</a></tt>.
 
 601 nodes (0%) are attached to their parents as `det:nummod`.
 
 554 instances of `det:nummod` (92%) are right-to-left (child precedes parent).
 Average distance between parent and child is 1.55074875207987.
 
-The following 8 pairs of parts of speech are connected with `det:nummod`: [-pos/NOUN]()-[-pos/DET]() (542; 90% instances), [-pos/NOUN]()-[-pos/NOUN]() (27; 4% instances), [-pos/NUM]()-[-pos/DET]() (16; 3% instances), [-pos/NUM]()-[-pos/NOUN]() (7; 1% instances), [-pos/DET]()-[-pos/DET]() (3; 0% instances), [-pos/PROPN]()-[-pos/DET]() (3; 0% instances), [-pos/ADJ]()-[-pos/NOUN]() (2; 0% instances), [-pos/DET]()-[-pos/NOUN]() (1; 0% instances).
+The following 8 pairs of parts of speech are connected with `det:nummod`: <tt><a href="cs-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs-pos-DET.html">DET</a></tt> (542; 90% instances), <tt><a href="cs-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs-pos-NOUN.html">NOUN</a></tt> (27; 4% instances), <tt><a href="cs-pos-NUM.html">NUM</a></tt>-<tt><a href="cs-pos-DET.html">DET</a></tt> (16; 3% instances), <tt><a href="cs-pos-NUM.html">NUM</a></tt>-<tt><a href="cs-pos-NOUN.html">NOUN</a></tt> (7; 1% instances), <tt><a href="cs-pos-DET.html">DET</a></tt>-<tt><a href="cs-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="cs-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cs-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="cs-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cs-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="cs-pos-DET.html">DET</a></tt>-<tt><a href="cs-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

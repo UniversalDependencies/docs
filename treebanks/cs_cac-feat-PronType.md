@@ -13,13 +13,13 @@ Some words have combined values of the feature; 1 combinations have been observe
 39857 tokens (8%) have a non-empty value of `PronType`.
 698 types (1%) occur at least once with a non-empty value of `PronType`.
 132 lemmas (0%) occur at least once with a non-empty value of `PronType`.
-The feature is used with 3 part-of-speech tags: [DET](cs_cac-pos-DET.html) (19445; 4% instances), [PRON](cs_cac-pos-PRON.html) (16032; 3% instances), [ADV](cs_cac-pos-ADV.html) (4380; 1% instances).
+The feature is used with 3 part-of-speech tags: <tt><a href="cs_cac-pos-DET.html">DET</a></tt> (19445; 4% instances), <tt><a href="cs_cac-pos-PRON.html">PRON</a></tt> (16032; 3% instances), <tt><a href="cs_cac-pos-ADV.html">ADV</a></tt> (4380; 1% instances).
 
 ### `DET`
 
-19445 [DET](cs_cac-pos-DET.html) tokens (100% of all `DET` tokens) have a non-empty value of `PronType`.
+19445 <tt><a href="cs_cac-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `DET` and `PronType` co-occurred: <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (17377; 89%), <tt><a href="Number[psor].html">Number[psor]</a>=EMPTY</tt> (15514; 80%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (15514; 80%), <tt><a href="Poss.html">Poss</a>=EMPTY</tt> (14074; 72%), <tt><a href="Number.html">Number</a>=Sing</tt> (11876; 61%).
+The most frequent other feature values with which `DET` and `PronType` co-occurred: <tt><a href="cs_cac-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (17377; 89%), <tt><a href="cs_cac-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (15514; 80%), <tt><a href="cs_cac-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (15514; 80%), <tt><a href="cs_cac-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (14074; 72%), <tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt> (11876; 61%).
 
 `DET` tokens may have the following values of `PronType`:
 
@@ -36,9 +36,9 @@ The most frequent other feature values with which `DET` and `PronType` co-occurr
 
 ### `PRON`
 
-16032 [PRON](cs_cac-pos-PRON.html) tokens (100% of all `PRON` tokens) have a non-empty value of `PronType`.
+16032 <tt><a href="cs_cac-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="PrepCase.html">PrepCase</a>=EMPTY</tt> (14224; 89%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (13185; 82%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (12577; 78%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (10276; 64%), <tt><a href="Case.html">Case</a>=Acc</tt> (9778; 61%), <tt><a href="Variant.html">Variant</a>=Short</tt> (9195; 57%), <tt><a href="Reflex.html">Reflex</a>=Yes</tt> (9039; 56%).
+The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="cs_cac-feat-PrepCase.html">PrepCase</a></tt><tt>=EMPTY</tt> (14224; 89%), <tt><a href="cs_cac-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (13185; 82%), <tt><a href="cs_cac-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (12577; 78%), <tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (10276; 64%), <tt><a href="cs_cac-feat-Case.html">Case</a></tt><tt>=Acc</tt> (9778; 61%), <tt><a href="cs_cac-feat-Variant.html">Variant</a></tt><tt>=Short</tt> (9195; 57%), <tt><a href="cs_cac-feat-Reflex.html">Reflex</a></tt><tt>=Yes</tt> (9039; 56%).
 
 `PRON` tokens may have the following values of `PronType`:
 
@@ -53,9 +53,9 @@ The most frequent other feature values with which `PRON` and `PronType` co-occur
 
 ### `ADV`
 
-4380 [ADV](cs_cac-pos-ADV.html) tokens (16% of all `ADV` tokens) have a non-empty value of `PronType`.
+4380 <tt><a href="cs_cac-pos-ADV.html">ADV</a></tt> tokens (16% of all `ADV` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `ADV` and `PronType` co-occurred: <tt><a href="Degree.html">Degree</a>=EMPTY</tt> (4380; 100%), <tt><a href="Polarity.html">Polarity</a>=EMPTY</tt> (4380; 100%).
+The most frequent other feature values with which `ADV` and `PronType` co-occurred: <tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (4380; 100%), <tt><a href="cs_cac-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (4380; 100%).
 
 `ADV` tokens may have the following values of `PronType`:
 
@@ -71,13 +71,13 @@ The most frequent other feature values with which `ADV` and `PronType` co-occurr
 ## Relations with Agreement in `PronType`
 
 The 10 most frequent relations where parent and child node agree in `PronType`:
-<tt>DET --[<a href="../dep/conj.html">conj</a>]--> DET</tt> (53; 96%),
-<tt>PRON --[<a href="../dep/conj.html">conj</a>]--> PRON</tt> (10; 100%),
-<tt>DET --[<a href="../dep/cc.html">cc</a>]--> DET</tt> (7; 88%),
-<tt>DET --[<a href="../dep/nsubj.html">nsubj</a>]--> DET</tt> (6; 86%),
-<tt>PRON --[<a href="../dep/conj.html">conj</a>]--> ADV</tt> (5; 71%),
-<tt>ADV --[<a href="../dep/conj.html">conj</a>]--> PRON</tt> (4; 67%),
-<tt>DET --[<a href="../dep/appos.html">appos</a>]--> DET</tt> (2; 100%),
-<tt>ADV --[<a href="../dep/dep.html">dep</a>]--> DET</tt> (2; 67%),
-<tt>PRON --[<a href="../dep/appos.html">appos</a>]--> PRON</tt> (1; 100%).
+<tt>DET --[<tt><a href="cs_cac-dep-conj.html">conj</a></tt>]--> DET</tt> (53; 96%),
+<tt>PRON --[<tt><a href="cs_cac-dep-conj.html">conj</a></tt>]--> PRON</tt> (10; 100%),
+<tt>DET --[<tt><a href="cs_cac-dep-cc.html">cc</a></tt>]--> DET</tt> (7; 88%),
+<tt>DET --[<tt><a href="cs_cac-dep-nsubj.html">nsubj</a></tt>]--> DET</tt> (6; 86%),
+<tt>PRON --[<tt><a href="cs_cac-dep-conj.html">conj</a></tt>]--> ADV</tt> (5; 71%),
+<tt>ADV --[<tt><a href="cs_cac-dep-conj.html">conj</a></tt>]--> PRON</tt> (4; 67%),
+<tt>DET --[<tt><a href="cs_cac-dep-appos.html">appos</a></tt>]--> DET</tt> (2; 100%),
+<tt>ADV --[<tt><a href="cs_cac-dep-dep.html">dep</a></tt>]--> DET</tt> (2; 67%),
+<tt>PRON --[<tt><a href="cs_cac-dep-appos.html">appos</a></tt>]--> PRON</tt> (1; 100%).
 

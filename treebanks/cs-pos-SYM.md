@@ -13,21 +13,21 @@ The 10 most frequent `SYM` lemmas: % x + = / * $
 
 The 10 most frequent `SYM` types:  % x + = / * $
 
-The 10 most frequent ambiguous lemmas: x ([SYM]() 120, [NOUN]() 70, [PUNCT]() 3), / ([PUNCT]() 700, [SYM]() 18), * ([PUNCT]() 655, [SYM]() 10)
+The 10 most frequent ambiguous lemmas: x (<tt><a href="cs-pos-SYM.html">SYM</a></tt> 120, <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 70, <tt><a href="cs-pos-PUNCT.html">PUNCT</a></tt> 3), / (<tt><a href="cs-pos-PUNCT.html">PUNCT</a></tt> 700, <tt><a href="cs-pos-SYM.html">SYM</a></tt> 18), * (<tt><a href="cs-pos-PUNCT.html">PUNCT</a></tt> 655, <tt><a href="cs-pos-SYM.html">SYM</a></tt> 10)
 
-The 10 most frequent ambiguous types:  x ([SYM]() 120, [NOUN]() 41, [PUNCT]() 3), / ([PUNCT]() 700, [SYM]() 18), * ([PUNCT]() 655, [SYM]() 10)
+The 10 most frequent ambiguous types:  x (<tt><a href="cs-pos-SYM.html">SYM</a></tt> 120, <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 41, <tt><a href="cs-pos-PUNCT.html">PUNCT</a></tt> 3), / (<tt><a href="cs-pos-PUNCT.html">PUNCT</a></tt> 700, <tt><a href="cs-pos-SYM.html">SYM</a></tt> 18), * (<tt><a href="cs-pos-PUNCT.html">PUNCT</a></tt> 655, <tt><a href="cs-pos-SYM.html">SYM</a></tt> 10)
 
 
 * x
-  * [SYM]() 120: Rozměry : ( mm ) 452 <b>x</b> 380 <b>x</b> 230
-  * [NOUN]() 41: * s ( <b>x</b> ) = 1 , je - li vrchol <b>x</b> obsazen ( neshořelým ) stromem ,
-  * [PUNCT]() 3: <b>x</b> - údaje za 1 . pololetí
+  * <tt><a href="cs-pos-SYM.html">SYM</a></tt> 120: Rozměry : ( mm ) 452 <b>x</b> 380 <b>x</b> 230
+  * <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 41: * s ( <b>x</b> ) = 1 , je - li vrchol <b>x</b> obsazen ( neshořelým ) stromem ,
+  * <tt><a href="cs-pos-PUNCT.html">PUNCT</a></tt> 3: <b>x</b> - údaje za 1 . pololetí
 * /
-  * [PUNCT]() 700: Přenosová rychlost : ( A 4 <b>/</b> sec ) 12
-  * [SYM]() 18: Potřebujete jen 1 <b>/</b> 4 vody , takže sprcha vás stojí 0.46 Kč .
+  * <tt><a href="cs-pos-PUNCT.html">PUNCT</a></tt> 700: Přenosová rychlost : ( A 4 <b>/</b> sec ) 12
+  * <tt><a href="cs-pos-SYM.html">SYM</a></tt> 18: Potřebujete jen 1 <b>/</b> 4 vody , takže sprcha vás stojí 0.46 Kč .
 * *
-  * [PUNCT]() 655: Při troše štěstí získáte za čtyři roky půl milionu z nájemného <b>*</b>
-  * [SYM]() 10: Jaká je vzdělanost našeho národa <b>*</b>
+  * <tt><a href="cs-pos-PUNCT.html">PUNCT</a></tt> 655: Při troše štěstí získáte za čtyři roky půl milionu z nájemného <b>*</b>
+  * <tt><a href="cs-pos-SYM.html">SYM</a></tt> 10: Jaká je vzdělanost našeho národa <b>*</b>
 
 ## Morphology
 
@@ -39,7 +39,7 @@ The 2nd highest number of forms (1) was observed with the lemma “%”: %.
 
 The 3rd highest number of forms (1) was observed with the lemma “*”: *.
 
-`SYM` occurs with 1 features: [ConjType](cs-feat-ConjType.html) (120; 10% instances)
+`SYM` occurs with 1 features: <tt><a href="cs-feat-ConjType.html">ConjType</a></tt> (120; 10% instances)
 
 `SYM` occurs with 1 feature-value pairs: `ConjType=Oper`
 
@@ -50,9 +50,9 @@ Examples: % + = / * $
 
 ## Relations
 
-`SYM` nodes are attached to their parents using 15 different relations: [nmod](cs-dep-nmod.html) (927; 74% instances), [cc](cs-dep-cc.html) (149; 12% instances), [advmod](cs-dep-advmod.html) (52; 4% instances), [conj](cs-dep-conj.html) (22; 2% instances), [case](cs-dep-case.html) (20; 2% instances), [obj](cs-dep-obj.html) (19; 2% instances), [dep](cs-dep-dep.html) (18; 1% instances), [root](cs-dep-root.html) (18; 1% instances), [orphan](cs-dep-orphan.html) (9; 1% instances), [nsubj](cs-dep-nsubj.html) (8; 1% instances), [parataxis](cs-dep-parataxis.html) (7; 1% instances), [appos](cs-dep-appos.html) (5; 0% instances), [advcl](cs-dep-advcl.html) (3; 0% instances), [iobj](cs-dep-iobj.html) (2; 0% instances), [mark](cs-dep-mark.html) (1; 0% instances)
+`SYM` nodes are attached to their parents using 15 different relations: <tt><a href="cs-dep-nmod.html">nmod</a></tt> (927; 74% instances), <tt><a href="cs-dep-cc.html">cc</a></tt> (149; 12% instances), <tt><a href="cs-dep-advmod.html">advmod</a></tt> (52; 4% instances), <tt><a href="cs-dep-conj.html">conj</a></tt> (22; 2% instances), <tt><a href="cs-dep-case.html">case</a></tt> (20; 2% instances), <tt><a href="cs-dep-obj.html">obj</a></tt> (19; 2% instances), <tt><a href="cs-dep-dep.html">dep</a></tt> (18; 1% instances), <tt><a href="cs-dep-root.html">root</a></tt> (18; 1% instances), <tt><a href="cs-dep-orphan.html">orphan</a></tt> (9; 1% instances), <tt><a href="cs-dep-nsubj.html">nsubj</a></tt> (8; 1% instances), <tt><a href="cs-dep-parataxis.html">parataxis</a></tt> (7; 1% instances), <tt><a href="cs-dep-appos.html">appos</a></tt> (5; 0% instances), <tt><a href="cs-dep-advcl.html">advcl</a></tt> (3; 0% instances), <tt><a href="cs-dep-iobj.html">iobj</a></tt> (2; 0% instances), <tt><a href="cs-dep-mark.html">mark</a></tt> (1; 0% instances)
 
-Parents of `SYM` nodes belong to 11 different parts of speech: [NUM](cs-pos-NUM.html) (929; 74% instances), [NOUN](cs-pos-NOUN.html) (166; 13% instances), [VERB](cs-pos-VERB.html) (75; 6% instances), [PROPN](cs-pos-PROPN.html) (24; 2% instances), [ADJ](cs-pos-ADJ.html) (19; 2% instances),  (18; 1% instances), [SYM](cs-pos-SYM.html) (14; 1% instances), [ADV](cs-pos-ADV.html) (12; 1% instances), [DET](cs-pos-DET.html) (1; 0% instances), [INTJ](cs-pos-INTJ.html) (1; 0% instances), [PRON](cs-pos-PRON.html) (1; 0% instances)
+Parents of `SYM` nodes belong to 11 different parts of speech: <tt><a href="cs-pos-NUM.html">NUM</a></tt> (929; 74% instances), <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> (166; 13% instances), <tt><a href="cs-pos-VERB.html">VERB</a></tt> (75; 6% instances), <tt><a href="cs-pos-PROPN.html">PROPN</a></tt> (24; 2% instances), <tt><a href="cs-pos-ADJ.html">ADJ</a></tt> (19; 2% instances),  (18; 1% instances), <tt><a href="cs-pos-SYM.html">SYM</a></tt> (14; 1% instances), <tt><a href="cs-pos-ADV.html">ADV</a></tt> (12; 1% instances), <tt><a href="cs-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="cs-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), <tt><a href="cs-pos-PRON.html">PRON</a></tt> (1; 0% instances)
 
 747 (59%) `SYM` nodes are leaves.
 
@@ -64,7 +64,7 @@ Parents of `SYM` nodes belong to 11 different parts of speech: [NUM](cs-pos-NUM.
 
 The highest child degree of a `SYM` node is 9.
 
-Children of `SYM` nodes are attached using 20 different relations: [nmod](cs-dep-nmod.html) (282; 33% instances), [nummod](cs-dep-nummod.html) (152; 18% instances), [case](cs-dep-case.html) (85; 10% instances), [obj](cs-dep-obj.html) (83; 10% instances), [punct](cs-dep-punct.html) (74; 9% instances), [nsubj](cs-dep-nsubj.html) (43; 5% instances), [conj](cs-dep-conj.html) (25; 3% instances), [advmod:emph](cs-dep-advmod:emph.html) (24; 3% instances), [obl](cs-dep-obl.html) (24; 3% instances), [amod](cs-dep-amod.html) (13; 2% instances), [cc](cs-dep-cc.html) (11; 1% instances), [advmod](cs-dep-advmod.html) (10; 1% instances), [mark](cs-dep-mark.html) (6; 1% instances), [orphan](cs-dep-orphan.html) (6; 1% instances), [advcl](cs-dep-advcl.html) (5; 1% instances), [cop](cs-dep-cop.html) (4; 0% instances), [appos](cs-dep-appos.html) (3; 0% instances), [det](cs-dep-det.html) (3; 0% instances), [aux](cs-dep-aux.html) (1; 0% instances), [dep](cs-dep-dep.html) (1; 0% instances)
+Children of `SYM` nodes are attached using 20 different relations: <tt><a href="cs-dep-nmod.html">nmod</a></tt> (282; 33% instances), <tt><a href="cs-dep-nummod.html">nummod</a></tt> (152; 18% instances), <tt><a href="cs-dep-case.html">case</a></tt> (85; 10% instances), <tt><a href="cs-dep-obj.html">obj</a></tt> (83; 10% instances), <tt><a href="cs-dep-punct.html">punct</a></tt> (74; 9% instances), <tt><a href="cs-dep-nsubj.html">nsubj</a></tt> (43; 5% instances), <tt><a href="cs-dep-conj.html">conj</a></tt> (25; 3% instances), <tt><a href="cs-dep-advmod-emph.html">advmod:emph</a></tt> (24; 3% instances), <tt><a href="cs-dep-obl.html">obl</a></tt> (24; 3% instances), <tt><a href="cs-dep-amod.html">amod</a></tt> (13; 2% instances), <tt><a href="cs-dep-cc.html">cc</a></tt> (11; 1% instances), <tt><a href="cs-dep-advmod.html">advmod</a></tt> (10; 1% instances), <tt><a href="cs-dep-mark.html">mark</a></tt> (6; 1% instances), <tt><a href="cs-dep-orphan.html">orphan</a></tt> (6; 1% instances), <tt><a href="cs-dep-advcl.html">advcl</a></tt> (5; 1% instances), <tt><a href="cs-dep-cop.html">cop</a></tt> (4; 0% instances), <tt><a href="cs-dep-appos.html">appos</a></tt> (3; 0% instances), <tt><a href="cs-dep-det.html">det</a></tt> (3; 0% instances), <tt><a href="cs-dep-aux.html">aux</a></tt> (1; 0% instances), <tt><a href="cs-dep-dep.html">dep</a></tt> (1; 0% instances)
 
-Children of `SYM` nodes belong to 15 different parts of speech: [NOUN](cs-pos-NOUN.html) (322; 38% instances), [NUM](cs-pos-NUM.html) (256; 30% instances), [ADP](cs-pos-ADP.html) (85; 10% instances), [PUNCT](cs-pos-PUNCT.html) (74; 9% instances), [ADV](cs-pos-ADV.html) (23; 3% instances), [ADJ](cs-pos-ADJ.html) (17; 2% instances), [PART](cs-pos-PART.html) (15; 2% instances), [SYM](cs-pos-SYM.html) (14; 2% instances), [CCONJ](cs-pos-CCONJ.html) (13; 2% instances), [PRON](cs-pos-PRON.html) (11; 1% instances), [PROPN](cs-pos-PROPN.html) (7; 1% instances), [DET](cs-pos-DET.html) (6; 1% instances), [AUX](cs-pos-AUX.html) (5; 1% instances), [VERB](cs-pos-VERB.html) (5; 1% instances), [SCONJ](cs-pos-SCONJ.html) (2; 0% instances)
+Children of `SYM` nodes belong to 15 different parts of speech: <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> (322; 38% instances), <tt><a href="cs-pos-NUM.html">NUM</a></tt> (256; 30% instances), <tt><a href="cs-pos-ADP.html">ADP</a></tt> (85; 10% instances), <tt><a href="cs-pos-PUNCT.html">PUNCT</a></tt> (74; 9% instances), <tt><a href="cs-pos-ADV.html">ADV</a></tt> (23; 3% instances), <tt><a href="cs-pos-ADJ.html">ADJ</a></tt> (17; 2% instances), <tt><a href="cs-pos-PART.html">PART</a></tt> (15; 2% instances), <tt><a href="cs-pos-SYM.html">SYM</a></tt> (14; 2% instances), <tt><a href="cs-pos-CCONJ.html">CCONJ</a></tt> (13; 2% instances), <tt><a href="cs-pos-PRON.html">PRON</a></tt> (11; 1% instances), <tt><a href="cs-pos-PROPN.html">PROPN</a></tt> (7; 1% instances), <tt><a href="cs-pos-DET.html">DET</a></tt> (6; 1% instances), <tt><a href="cs-pos-AUX.html">AUX</a></tt> (5; 1% instances), <tt><a href="cs-pos-VERB.html">VERB</a></tt> (5; 1% instances), <tt><a href="cs-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances)
 

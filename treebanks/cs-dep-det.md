@@ -7,14 +7,14 @@ udver: '2'
 ## Treebank Statistics: UD_Czech: Relations: `det`
 
 This relation is universal.
-There are 2 language-specific subtypes of `det`: [det:numgov](), [det:nummod]().
+There are 2 language-specific subtypes of `det`: <tt><a href="cs-dep-det-numgov.html">det:numgov</a></tt>, <tt><a href="cs-dep-det-nummod.html">det:nummod</a></tt>.
 
 28324 nodes (2%) are attached to their parents as `det`.
 
 27652 instances of `det` (98%) are right-to-left (child precedes parent).
 Average distance between parent and child is 1.36206044344019.
 
-The following 14 pairs of parts of speech are connected with `det`: [-pos/NOUN]()-[-pos/DET]() (27762; 98% instances), [-pos/DET]()-[-pos/DET]() (131; 0% instances), [-pos/ADJ]()-[-pos/DET]() (119; 0% instances), [-pos/PROPN]()-[-pos/DET]() (108; 0% instances), [-pos/NUM]()-[-pos/DET]() (68; 0% instances), [-pos/PRON]()-[-pos/DET]() (66; 0% instances), [-pos/ADV]()-[-pos/DET]() (41; 0% instances), [-pos/PART]()-[-pos/DET]() (10; 0% instances), [-pos/VERB]()-[-pos/DET]() (10; 0% instances), [-pos/ADP]()-[-pos/DET]() (3; 0% instances), [-pos/SYM]()-[-pos/DET]() (3; 0% instances), [-pos/INTJ]()-[-pos/DET]() (1; 0% instances), [-pos/SCONJ]()-[-pos/DET]() (1; 0% instances), [-pos/VERB]()-[-pos/PRON]() (1; 0% instances).
+The following 14 pairs of parts of speech are connected with `det`: <tt><a href="cs-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs-pos-DET.html">DET</a></tt> (27762; 98% instances), <tt><a href="cs-pos-DET.html">DET</a></tt>-<tt><a href="cs-pos-DET.html">DET</a></tt> (131; 0% instances), <tt><a href="cs-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cs-pos-DET.html">DET</a></tt> (119; 0% instances), <tt><a href="cs-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cs-pos-DET.html">DET</a></tt> (108; 0% instances), <tt><a href="cs-pos-NUM.html">NUM</a></tt>-<tt><a href="cs-pos-DET.html">DET</a></tt> (68; 0% instances), <tt><a href="cs-pos-PRON.html">PRON</a></tt>-<tt><a href="cs-pos-DET.html">DET</a></tt> (66; 0% instances), <tt><a href="cs-pos-ADV.html">ADV</a></tt>-<tt><a href="cs-pos-DET.html">DET</a></tt> (41; 0% instances), <tt><a href="cs-pos-PART.html">PART</a></tt>-<tt><a href="cs-pos-DET.html">DET</a></tt> (10; 0% instances), <tt><a href="cs-pos-VERB.html">VERB</a></tt>-<tt><a href="cs-pos-DET.html">DET</a></tt> (10; 0% instances), <tt><a href="cs-pos-ADP.html">ADP</a></tt>-<tt><a href="cs-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="cs-pos-SYM.html">SYM</a></tt>-<tt><a href="cs-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="cs-pos-INTJ.html">INTJ</a></tt>-<tt><a href="cs-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="cs-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="cs-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="cs-pos-VERB.html">VERB</a></tt>-<tt><a href="cs-pos-PRON.html">PRON</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

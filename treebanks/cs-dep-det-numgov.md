@@ -6,15 +6,15 @@ udver: '2'
 
 ## Treebank Statistics: UD_Czech: Relations: `det:numgov`
 
-This relation is a language-specific subtype of [det]().
-There are also 1 other language-specific subtypes of `det`: [det:nummod]().
+This relation is a language-specific subtype of <tt><a href="cs-dep-det.html">det</a></tt>.
+There are also 1 other language-specific subtypes of `det`: <tt><a href="cs-dep-det-nummod.html">det:nummod</a></tt>.
 
 979 nodes (0%) are attached to their parents as `det:numgov`.
 
 917 instances of `det:numgov` (94%) are right-to-left (child precedes parent).
 Average distance between parent and child is 1.50051072522983.
 
-The following 3 pairs of parts of speech are connected with `det:numgov`: [-pos/NOUN]()-[-pos/DET]() (956; 98% instances), [-pos/PRON]()-[-pos/DET]() (18; 2% instances), [-pos/PROPN]()-[-pos/DET]() (5; 1% instances).
+The following 3 pairs of parts of speech are connected with `det:numgov`: <tt><a href="cs-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs-pos-DET.html">DET</a></tt> (956; 98% instances), <tt><a href="cs-pos-PRON.html">PRON</a></tt>-<tt><a href="cs-pos-DET.html">DET</a></tt> (18; 2% instances), <tt><a href="cs-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cs-pos-DET.html">DET</a></tt> (5; 1% instances).
 
 
 ~~~ conllu

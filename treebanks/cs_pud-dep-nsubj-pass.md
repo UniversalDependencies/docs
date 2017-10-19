@@ -6,14 +6,14 @@ udver: '2'
 
 ## Treebank Statistics: UD_Czech-PUD: Relations: `nsubj:pass`
 
-This relation is a language-specific subtype of [nsubj]().
+This relation is a language-specific subtype of <tt><a href="cs_pud-dep-nsubj.html">nsubj</a></tt>.
 
 153 nodes (1%) are attached to their parents as `nsubj:pass`.
 
 103 instances of `nsubj:pass` (67%) are right-to-left (child precedes parent).
 Average distance between parent and child is 3.45098039215686.
 
-The following 8 pairs of parts of speech are connected with `nsubj:pass`: [-pos/ADJ]()-[-pos/NOUN]() (84; 55% instances), [-pos/ADJ]()-[-pos/PROPN]() (25; 16% instances), [-pos/VERB]()-[-pos/NOUN]() (23; 15% instances), [-pos/ADJ]()-[-pos/DET]() (15; 10% instances), [-pos/ADJ]()-[-pos/PRON]() (2; 1% instances), [-pos/VERB]()-[-pos/DET]() (2; 1% instances), [-pos/ADJ]()-[-pos/ADP]() (1; 1% instances), [-pos/VERB]()-[-pos/ADJ]() (1; 1% instances).
+The following 8 pairs of parts of speech are connected with `nsubj:pass`: <tt><a href="cs_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cs_pud-pos-NOUN.html">NOUN</a></tt> (84; 55% instances), <tt><a href="cs_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cs_pud-pos-PROPN.html">PROPN</a></tt> (25; 16% instances), <tt><a href="cs_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_pud-pos-NOUN.html">NOUN</a></tt> (23; 15% instances), <tt><a href="cs_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cs_pud-pos-DET.html">DET</a></tt> (15; 10% instances), <tt><a href="cs_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cs_pud-pos-PRON.html">PRON</a></tt> (2; 1% instances), <tt><a href="cs_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_pud-pos-DET.html">DET</a></tt> (2; 1% instances), <tt><a href="cs_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cs_pud-pos-ADP.html">ADP</a></tt> (1; 1% instances), <tt><a href="cs_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_pud-pos-ADJ.html">ADJ</a></tt> (1; 1% instances).
 
 
 ~~~ conllu

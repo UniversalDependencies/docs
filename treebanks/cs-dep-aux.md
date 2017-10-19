@@ -7,14 +7,14 @@ udver: '2'
 ## Treebank Statistics: UD_Czech: Relations: `aux`
 
 This relation is universal.
-There are 1 language-specific subtypes of `aux`: [aux:pass]().
+There are 1 language-specific subtypes of `aux`: <tt><a href="cs-dep-aux-pass.html">aux:pass</a></tt>.
 
 14721 nodes (1%) are attached to their parents as `aux`.
 
 12995 instances of `aux` (88%) are right-to-left (child precedes parent).
 Average distance between parent and child is 2.37972963793221.
 
-The following 12 pairs of parts of speech are connected with `aux`: [-pos/VERB]()-[-pos/AUX]() (13497; 92% instances), [-pos/ADJ]()-[-pos/AUX]() (923; 6% instances), [-pos/NOUN]()-[-pos/AUX]() (205; 1% instances), [-pos/CCONJ]()-[-pos/AUX]() (36; 0% instances), [-pos/ADV]()-[-pos/AUX]() (18; 0% instances), [-pos/DET]()-[-pos/AUX]() (10; 0% instances), [-pos/NUM]()-[-pos/AUX]() (9; 0% instances), [-pos/PRON]()-[-pos/AUX]() (9; 0% instances), [-pos/PART]()-[-pos/AUX]() (8; 0% instances), [-pos/PROPN]()-[-pos/AUX]() (3; 0% instances), [-pos/SCONJ]()-[-pos/AUX]() (2; 0% instances), [-pos/SYM]()-[-pos/AUX]() (1; 0% instances).
+The following 12 pairs of parts of speech are connected with `aux`: <tt><a href="cs-pos-VERB.html">VERB</a></tt>-<tt><a href="cs-pos-AUX.html">AUX</a></tt> (13497; 92% instances), <tt><a href="cs-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cs-pos-AUX.html">AUX</a></tt> (923; 6% instances), <tt><a href="cs-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs-pos-AUX.html">AUX</a></tt> (205; 1% instances), <tt><a href="cs-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="cs-pos-AUX.html">AUX</a></tt> (36; 0% instances), <tt><a href="cs-pos-ADV.html">ADV</a></tt>-<tt><a href="cs-pos-AUX.html">AUX</a></tt> (18; 0% instances), <tt><a href="cs-pos-DET.html">DET</a></tt>-<tt><a href="cs-pos-AUX.html">AUX</a></tt> (10; 0% instances), <tt><a href="cs-pos-NUM.html">NUM</a></tt>-<tt><a href="cs-pos-AUX.html">AUX</a></tt> (9; 0% instances), <tt><a href="cs-pos-PRON.html">PRON</a></tt>-<tt><a href="cs-pos-AUX.html">AUX</a></tt> (9; 0% instances), <tt><a href="cs-pos-PART.html">PART</a></tt>-<tt><a href="cs-pos-AUX.html">AUX</a></tt> (8; 0% instances), <tt><a href="cs-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cs-pos-AUX.html">AUX</a></tt> (3; 0% instances), <tt><a href="cs-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="cs-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="cs-pos-SYM.html">SYM</a></tt>-<tt><a href="cs-pos-AUX.html">AUX</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

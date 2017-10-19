@@ -13,7 +13,7 @@ This relation is universal.
 1 instances of `vocative` (100%) are left-to-right (parent precedes child).
 Average distance between parent and child is 8.
 
-The following 1 pairs of parts of speech are connected with `vocative`: [-pos/DET]()-[-pos/NOUN]() (1; 100% instances).
+The following 1 pairs of parts of speech are connected with `vocative`: <tt><a href="cs_pud-pos-DET.html">DET</a></tt>-<tt><a href="cs_pud-pos-NOUN.html">NOUN</a></tt> (1; 100% instances).
 
 
 ~~~ conllu

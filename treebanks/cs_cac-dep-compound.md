@@ -13,7 +13,7 @@ This relation is universal.
 33 instances of `compound` (79%) are left-to-right (parent precedes child).
 Average distance between parent and child is 2.52380952380952.
 
-The following 1 pairs of parts of speech are connected with `compound`: [-pos/NUM]()-[-pos/NUM]() (42; 100% instances).
+The following 1 pairs of parts of speech are connected with `compound`: <tt><a href="cs_cac-pos-NUM.html">NUM</a></tt>-<tt><a href="cs_cac-pos-NUM.html">NUM</a></tt> (42; 100% instances).
 
 
 ~~~ conllu

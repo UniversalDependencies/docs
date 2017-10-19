@@ -13,44 +13,44 @@ The 10 most frequent `AUX` lemmas: být bývat bývávat stát moci mít
 
 The 10 most frequent `AUX` types:  je by jsou bude byl být jsem jsme bylo byla
 
-The 10 most frequent ambiguous lemmas: být ([AUX]() 41217, [VERB]() 5167), bývat ([AUX]() 168, [VERB]() 44), bývávat ([AUX]() 3, [VERB]() 1), stát ([VERB]() 1539, [NOUN]() 1446, [AUX]() 3), moci ([VERB]() 4292, [AUX]() 1), mít ([VERB]() 8496, [AUX]() 1)
+The 10 most frequent ambiguous lemmas: být (<tt><a href="cs-pos-AUX.html">AUX</a></tt> 41217, <tt><a href="cs-pos-VERB.html">VERB</a></tt> 5167), bývat (<tt><a href="cs-pos-AUX.html">AUX</a></tt> 168, <tt><a href="cs-pos-VERB.html">VERB</a></tt> 44), bývávat (<tt><a href="cs-pos-AUX.html">AUX</a></tt> 3, <tt><a href="cs-pos-VERB.html">VERB</a></tt> 1), stát (<tt><a href="cs-pos-VERB.html">VERB</a></tt> 1539, <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 1446, <tt><a href="cs-pos-AUX.html">AUX</a></tt> 3), moci (<tt><a href="cs-pos-VERB.html">VERB</a></tt> 4292, <tt><a href="cs-pos-AUX.html">AUX</a></tt> 1), mít (<tt><a href="cs-pos-VERB.html">VERB</a></tt> 8496, <tt><a href="cs-pos-AUX.html">AUX</a></tt> 1)
 
-The 10 most frequent ambiguous types:  je ([AUX]() 10151, [VERB]() 1986, [PRON]() 887), by ([AUX]() 7859, [VERB]() 5, [PART]() 1, [ADP]() 1), jsou ([AUX]() 2639, [VERB]() 616), bude ([AUX]() 2454, [VERB]() 253), byl ([AUX]() 1945, [VERB]() 214), být ([AUX]() 1853, [VERB]() 209), jsem ([AUX]() 1533, [VERB]() 19), jsme ([AUX]() 1518, [VERB]() 62), bylo ([AUX]() 1366, [VERB]() 290), byla ([AUX]() 1368, [VERB]() 130)
+The 10 most frequent ambiguous types:  je (<tt><a href="cs-pos-AUX.html">AUX</a></tt> 10151, <tt><a href="cs-pos-VERB.html">VERB</a></tt> 1986, <tt><a href="cs-pos-PRON.html">PRON</a></tt> 887), by (<tt><a href="cs-pos-AUX.html">AUX</a></tt> 7859, <tt><a href="cs-pos-VERB.html">VERB</a></tt> 5, <tt><a href="cs-pos-ADP.html">ADP</a></tt> 1, <tt><a href="cs-pos-PART.html">PART</a></tt> 1), jsou (<tt><a href="cs-pos-AUX.html">AUX</a></tt> 2639, <tt><a href="cs-pos-VERB.html">VERB</a></tt> 616), bude (<tt><a href="cs-pos-AUX.html">AUX</a></tt> 2454, <tt><a href="cs-pos-VERB.html">VERB</a></tt> 253), byl (<tt><a href="cs-pos-AUX.html">AUX</a></tt> 1945, <tt><a href="cs-pos-VERB.html">VERB</a></tt> 214), být (<tt><a href="cs-pos-AUX.html">AUX</a></tt> 1853, <tt><a href="cs-pos-VERB.html">VERB</a></tt> 209), jsem (<tt><a href="cs-pos-AUX.html">AUX</a></tt> 1533, <tt><a href="cs-pos-VERB.html">VERB</a></tt> 19), jsme (<tt><a href="cs-pos-AUX.html">AUX</a></tt> 1518, <tt><a href="cs-pos-VERB.html">VERB</a></tt> 62), bylo (<tt><a href="cs-pos-AUX.html">AUX</a></tt> 1366, <tt><a href="cs-pos-VERB.html">VERB</a></tt> 290), byla (<tt><a href="cs-pos-AUX.html">AUX</a></tt> 1368, <tt><a href="cs-pos-VERB.html">VERB</a></tt> 130)
 
 
 * je
-  * [AUX]() 10151: Váš obecně platný dotaz <b>je</b> připraven zodpovědět spolupracovník Profitu .
-  * [VERB]() 1986: U každého výrobku <b>je</b> krátká charakteristika a kontaktní adresa výrobce .
-  * [PRON]() 887: Změny jsou citelné , je třeba <b>je</b> lépe prezentovat
+  * <tt><a href="cs-pos-AUX.html">AUX</a></tt> 10151: Váš obecně platný dotaz <b>je</b> připraven zodpovědět spolupracovník Profitu .
+  * <tt><a href="cs-pos-VERB.html">VERB</a></tt> 1986: U každého výrobku <b>je</b> krátká charakteristika a kontaktní adresa výrobce .
+  * <tt><a href="cs-pos-PRON.html">PRON</a></tt> 887: Změny jsou citelné , je třeba <b>je</b> lépe prezentovat
 * by
-  * [AUX]() 7859: Jen cedule <b>by</b> byla jiná : FOR RENT ! - K PRONÁJMU !
-  * [VERB]() 5: Bodejť <b>by</b> ne !
-  * [PART]() 1: Podmínkou jeho uvolnění je uzavření dohody o dispozičním ( stand - <b>by</b> ) úvěru s Mezinárodním měnovým fondem .
-  * [ADP]() 1: Bylo to strašně těžké , dosáhnout souhlasu , aby by Spojené státy mohly jednat <b>by</b> all means , s využitím všech možných prostředků .
+  * <tt><a href="cs-pos-AUX.html">AUX</a></tt> 7859: Jen cedule <b>by</b> byla jiná : FOR RENT ! - K PRONÁJMU !
+  * <tt><a href="cs-pos-VERB.html">VERB</a></tt> 5: Bodejť <b>by</b> ne !
+  * <tt><a href="cs-pos-ADP.html">ADP</a></tt> 1: Bylo to strašně těžké , dosáhnout souhlasu , aby by Spojené státy mohly jednat <b>by</b> all means , s využitím všech možných prostředků .
+  * <tt><a href="cs-pos-PART.html">PART</a></tt> 1: Podmínkou jeho uvolnění je uzavření dohody o dispozičním ( stand - <b>by</b> ) úvěru s Mezinárodním měnovým fondem .
 * jsou
-  * [AUX]() 2639: Změny <b>jsou</b> citelné , je třeba je lépe prezentovat
-  * [VERB]() 616: Další závady , ke kterým dochází , <b>jsou</b> :
+  * <tt><a href="cs-pos-AUX.html">AUX</a></tt> 2639: Změny <b>jsou</b> citelné , je třeba je lépe prezentovat
+  * <tt><a href="cs-pos-VERB.html">VERB</a></tt> 616: Další závady , ke kterým dochází , <b>jsou</b> :
 * bude
-  * [AUX]() 2454: Zdůraznil , že banka <b>bude</b> půjčovat ne firmě , ale nám osobně .
-  * [VERB]() 253: Obilovin <b>bude</b> letos o 495000 tun více
+  * <tt><a href="cs-pos-AUX.html">AUX</a></tt> 2454: Zdůraznil , že banka <b>bude</b> půjčovat ne firmě , ale nám osobně .
+  * <tt><a href="cs-pos-VERB.html">VERB</a></tt> 253: Obilovin <b>bude</b> letos o 495000 tun více
 * byl
-  * [AUX]() 1945: Také proto <b>byl</b> thajskou vládou založen Úřad pro exportní politiku .
-  * [VERB]() 214: Zájem <b>byl</b> o celek , o sítě , ne o drobky .
+  * <tt><a href="cs-pos-AUX.html">AUX</a></tt> 1945: Také proto <b>byl</b> thajskou vládou založen Úřad pro exportní politiku .
+  * <tt><a href="cs-pos-VERB.html">VERB</a></tt> 214: Zájem <b>byl</b> o celek , o sítě , ne o drobky .
 * být
-  * [AUX]() 1853: Na požádání může <b>být</b> zaslán seznam firem .
-  * [VERB]() 209: Jsou to možná velká slova , ale " tak nějak " by to asi mělo <b>být</b> .
+  * <tt><a href="cs-pos-AUX.html">AUX</a></tt> 1853: Na požádání může <b>být</b> zaslán seznam firem .
+  * <tt><a href="cs-pos-VERB.html">VERB</a></tt> 209: Jsou to možná velká slova , ale " tak nějak " by to asi mělo <b>být</b> .
 * jsem
-  * [AUX]() 1533: Chci uzavřít pojištění a dostal <b>jsem</b> proto k vyplnění dotazník .
-  * [VERB]() 19: Za rok tu <b>jsem</b> znova , tedy pokud mě nepřejede auto .
+  * <tt><a href="cs-pos-AUX.html">AUX</a></tt> 1533: Chci uzavřít pojištění a dostal <b>jsem</b> proto k vyplnění dotazník .
+  * <tt><a href="cs-pos-VERB.html">VERB</a></tt> 19: Za rok tu <b>jsem</b> znova , tedy pokud mě nepřejede auto .
 * jsme
-  * [AUX]() 1518: Jemu <b>jsme</b> položili následující otázku :
-  * [VERB]() 62: * Takže jak <b>jsme</b> na tom - jsme kvalifikovaní pro Evropu ?
+  * <tt><a href="cs-pos-AUX.html">AUX</a></tt> 1518: Jemu <b>jsme</b> položili následující otázku :
+  * <tt><a href="cs-pos-VERB.html">VERB</a></tt> 62: * Takže jak <b>jsme</b> na tom - jsme kvalifikovaní pro Evropu ?
 * bylo
-  * [AUX]() 1366: V roce 1993 to <b>bylo</b> paradoxně vlivem opatření MF ČR jen 137.10 Kč .
-  * [VERB]() 290: A jak to <b>bylo</b> dál ?
+  * <tt><a href="cs-pos-AUX.html">AUX</a></tt> 1366: V roce 1993 to <b>bylo</b> paradoxně vlivem opatření MF ČR jen 137.10 Kč .
+  * <tt><a href="cs-pos-VERB.html">VERB</a></tt> 290: A jak to <b>bylo</b> dál ?
 * byla
-  * [AUX]() 1368: Jen cedule by <b>byla</b> jiná : FOR RENT ! - K PRONÁJMU !
-  * [VERB]() 130: O dálnici již <b>byla</b> řeč .
+  * <tt><a href="cs-pos-AUX.html">AUX</a></tt> 1368: Jen cedule by <b>byla</b> jiná : FOR RENT ! - K PRONÁJMU !
+  * <tt><a href="cs-pos-VERB.html">VERB</a></tt> 130: O dálnici již <b>byla</b> řeč .
 
 ## Morphology
 
@@ -62,7 +62,7 @@ The 2nd highest number of forms (11) was observed with the lemma “bývat”: b
 
 The 3rd highest number of forms (3) was observed with the lemma “stát”: stal, stali, stalo.
 
-`AUX` occurs with 11 features: [VerbForm](cs-feat-VerbForm.html) (41393; 100% instances), [Mood](cs-feat-Mood.html) (32746; 79% instances), [Polarity](cs-feat-Polarity.html) (32500; 79% instances), [Number](cs-feat-Number.html) (31663; 76% instances), [Tense](cs-feat-Tense.html) (30553; 74% instances), [Voice](cs-feat-Voice.html) (30553; 74% instances), [Person](cs-feat-Person.html) (27307; 66% instances), [Gender](cs-feat-Gender.html) (6779; 16% instances), [Animacy](cs-feat-Animacy.html) (1282; 3% instances), [Aspect](cs-feat-Aspect.html) (179; 0% instances), [Style](cs-feat-Style.html) (22; 0% instances)
+`AUX` occurs with 11 features: <tt><a href="cs-feat-VerbForm.html">VerbForm</a></tt> (41393; 100% instances), <tt><a href="cs-feat-Mood.html">Mood</a></tt> (32746; 79% instances), <tt><a href="cs-feat-Polarity.html">Polarity</a></tt> (32500; 79% instances), <tt><a href="cs-feat-Number.html">Number</a></tt> (31663; 76% instances), <tt><a href="cs-feat-Tense.html">Tense</a></tt> (30553; 74% instances), <tt><a href="cs-feat-Voice.html">Voice</a></tt> (30553; 74% instances), <tt><a href="cs-feat-Person.html">Person</a></tt> (27307; 66% instances), <tt><a href="cs-feat-Gender.html">Gender</a></tt> (6779; 16% instances), <tt><a href="cs-feat-Animacy.html">Animacy</a></tt> (1282; 3% instances), <tt><a href="cs-feat-Aspect.html">Aspect</a></tt> (179; 0% instances), <tt><a href="cs-feat-Style.html">Style</a></tt> (22; 0% instances)
 
 `AUX` occurs with 28 feature-value pairs: `Animacy=Anim`, `Animacy=Inan`, `Aspect=Imp`, `Gender=Fem,Masc`, `Gender=Fem,Neut`, `Gender=Masc`, `Gender=Neut`, `Mood=Cnd`, `Mood=Imp`, `Mood=Ind`, `Number=Plur`, `Number=Plur,Sing`, `Number=Sing`, `Person=1`, `Person=2`, `Person=3`, `Polarity=Neg`, `Polarity=Pos`, `Style=Arch`, `Style=Coll`, `Tense=Fut`, `Tense=Past`, `Tense=Pres`, `VerbForm=Conv`, `VerbForm=Fin`, `VerbForm=Inf`, `VerbForm=Part`, `Voice=Act`
 
@@ -73,9 +73,9 @@ Examples: je
 
 ## Relations
 
-`AUX` nodes are attached to their parents using 4 different relations: [cop](cs-dep-cop.html) (20598; 50% instances), [aux](cs-dep-aux.html) (14721; 36% instances), [aux:pass](cs-dep-aux:pass.html) (6068; 15% instances), [conj](cs-dep-conj.html) (6; 0% instances)
+`AUX` nodes are attached to their parents using 4 different relations: <tt><a href="cs-dep-cop.html">cop</a></tt> (20598; 50% instances), <tt><a href="cs-dep-aux.html">aux</a></tt> (14721; 36% instances), <tt><a href="cs-dep-aux-pass.html">aux:pass</a></tt> (6068; 15% instances), <tt><a href="cs-dep-conj.html">conj</a></tt> (6; 0% instances)
 
-Parents of `AUX` nodes belong to 13 different parts of speech: [ADJ](cs-pos-ADJ.html) (18567; 45% instances), [VERB](cs-pos-VERB.html) (13501; 33% instances), [NOUN](cs-pos-NOUN.html) (7729; 19% instances), [DET](cs-pos-DET.html) (556; 1% instances), [NUM](cs-pos-NUM.html) (475; 1% instances), [PRON](cs-pos-PRON.html) (217; 1% instances), [ADV](cs-pos-ADV.html) (210; 1% instances), [PROPN](cs-pos-PROPN.html) (70; 0% instances), [CCONJ](cs-pos-CCONJ.html) (36; 0% instances), [PART](cs-pos-PART.html) (19; 0% instances), [AUX](cs-pos-AUX.html) (6; 0% instances), [SYM](cs-pos-SYM.html) (5; 0% instances), [SCONJ](cs-pos-SCONJ.html) (2; 0% instances)
+Parents of `AUX` nodes belong to 13 different parts of speech: <tt><a href="cs-pos-ADJ.html">ADJ</a></tt> (18567; 45% instances), <tt><a href="cs-pos-VERB.html">VERB</a></tt> (13501; 33% instances), <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> (7729; 19% instances), <tt><a href="cs-pos-DET.html">DET</a></tt> (556; 1% instances), <tt><a href="cs-pos-NUM.html">NUM</a></tt> (475; 1% instances), <tt><a href="cs-pos-PRON.html">PRON</a></tt> (217; 1% instances), <tt><a href="cs-pos-ADV.html">ADV</a></tt> (210; 1% instances), <tt><a href="cs-pos-PROPN.html">PROPN</a></tt> (70; 0% instances), <tt><a href="cs-pos-CCONJ.html">CCONJ</a></tt> (36; 0% instances), <tt><a href="cs-pos-PART.html">PART</a></tt> (19; 0% instances), <tt><a href="cs-pos-AUX.html">AUX</a></tt> (6; 0% instances), <tt><a href="cs-pos-SYM.html">SYM</a></tt> (5; 0% instances), <tt><a href="cs-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances)
 
 41348 (100%) `AUX` nodes are leaves.
 
@@ -87,7 +87,7 @@ Parents of `AUX` nodes belong to 13 different parts of speech: [ADJ](cs-pos-ADJ.
 
 The highest child degree of a `AUX` node is 3.
 
-Children of `AUX` nodes are attached using 5 different relations: [conj](cs-dep-conj.html) (42; 82% instances), [cc](cs-dep-cc.html) (5; 10% instances), [punct](cs-dep-punct.html) (2; 4% instances), [advmod](cs-dep-advmod.html) (1; 2% instances), [nsubj](cs-dep-nsubj.html) (1; 2% instances)
+Children of `AUX` nodes are attached using 5 different relations: <tt><a href="cs-dep-conj.html">conj</a></tt> (42; 82% instances), <tt><a href="cs-dep-cc.html">cc</a></tt> (5; 10% instances), <tt><a href="cs-dep-punct.html">punct</a></tt> (2; 4% instances), <tt><a href="cs-dep-advmod.html">advmod</a></tt> (1; 2% instances), <tt><a href="cs-dep-nsubj.html">nsubj</a></tt> (1; 2% instances)
 
-Children of `AUX` nodes belong to 6 different parts of speech: [VERB](cs-pos-VERB.html) (36; 71% instances), [AUX](cs-pos-AUX.html) (6; 12% instances), [CCONJ](cs-pos-CCONJ.html) (5; 10% instances), [PUNCT](cs-pos-PUNCT.html) (2; 4% instances), [ADV](cs-pos-ADV.html) (1; 2% instances), [PRON](cs-pos-PRON.html) (1; 2% instances)
+Children of `AUX` nodes belong to 6 different parts of speech: <tt><a href="cs-pos-VERB.html">VERB</a></tt> (36; 71% instances), <tt><a href="cs-pos-AUX.html">AUX</a></tt> (6; 12% instances), <tt><a href="cs-pos-CCONJ.html">CCONJ</a></tt> (5; 10% instances), <tt><a href="cs-pos-PUNCT.html">PUNCT</a></tt> (2; 4% instances), <tt><a href="cs-pos-ADV.html">ADV</a></tt> (1; 2% instances), <tt><a href="cs-pos-PRON.html">PRON</a></tt> (1; 2% instances)
 

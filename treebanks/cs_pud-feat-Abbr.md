@@ -12,13 +12,13 @@ It occurs with 1 different values: `Yes`.
 111 tokens (1%) have a non-empty value of `Abbr`.
 61 types (1%) occur at least once with a non-empty value of `Abbr`.
 62 lemmas (1%) occur at least once with a non-empty value of `Abbr`.
-The feature is used with 6 part-of-speech tags: [NOUN](cs_pud-pos-NOUN.html) (44; 0% instances), [PROPN](cs_pud-pos-PROPN.html) (40; 0% instances), [DET](cs_pud-pos-DET.html) (13; 0% instances), [ADP](cs_pud-pos-ADP.html) (11; 0% instances), [ADJ](cs_pud-pos-ADJ.html) (2; 0% instances), [ADV](cs_pud-pos-ADV.html) (1; 0% instances).
+The feature is used with 6 part-of-speech tags: <tt><a href="cs_pud-pos-NOUN.html">NOUN</a></tt> (44; 0% instances), <tt><a href="cs_pud-pos-PROPN.html">PROPN</a></tt> (40; 0% instances), <tt><a href="cs_pud-pos-DET.html">DET</a></tt> (13; 0% instances), <tt><a href="cs_pud-pos-ADP.html">ADP</a></tt> (11; 0% instances), <tt><a href="cs_pud-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="cs_pud-pos-ADV.html">ADV</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
-44 [NOUN](cs_pud-pos-NOUN.html) tokens (1% of all `NOUN` tokens) have a non-empty value of `Abbr`.
+44 <tt><a href="cs_pud-pos-NOUN.html">NOUN</a></tt> tokens (1% of all `NOUN` tokens) have a non-empty value of `Abbr`.
 
-The most frequent other feature values with which `NOUN` and `Abbr` co-occurred: <tt><a href="Polarity.html">Polarity</a>=Pos</tt> (44; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (30; 68%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (28; 64%), <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (24; 55%).
+The most frequent other feature values with which `NOUN` and `Abbr` co-occurred: <tt><a href="cs_pud-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (44; 100%), <tt><a href="cs_pud-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (30; 68%), <tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (28; 64%), <tt><a href="cs_pud-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (24; 55%).
 
 `NOUN` tokens may have the following values of `Abbr`:
 
@@ -29,9 +29,9 @@ The most frequent other feature values with which `NOUN` and `Abbr` co-occurred:
 
 ### `PROPN`
 
-40 [PROPN](cs_pud-pos-PROPN.html) tokens (4% of all `PROPN` tokens) have a non-empty value of `Abbr`.
+40 <tt><a href="cs_pud-pos-PROPN.html">PROPN</a></tt> tokens (4% of all `PROPN` tokens) have a non-empty value of `Abbr`.
 
-The most frequent other feature values with which `PROPN` and `Abbr` co-occurred: <tt><a href="Case.html">Case</a>=EMPTY</tt> (40; 100%), <tt><a href="Polarity.html">Polarity</a>=Pos</tt> (40; 100%), <tt><a href="NameType.html">NameType</a>=Com</tt> (35; 88%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (35; 88%), <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (33; 83%), <tt><a href="Foreign.html">Foreign</a>=EMPTY</tt> (23; 57%).
+The most frequent other feature values with which `PROPN` and `Abbr` co-occurred: <tt><a href="cs_pud-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (40; 100%), <tt><a href="cs_pud-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (40; 100%), <tt><a href="cs_pud-feat-NameType.html">NameType</a></tt><tt>=Com</tt> (35; 88%), <tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (35; 88%), <tt><a href="cs_pud-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (33; 83%), <tt><a href="cs_pud-feat-Foreign.html">Foreign</a></tt><tt>=EMPTY</tt> (23; 57%).
 
 `PROPN` tokens may have the following values of `Abbr`:
 
@@ -42,9 +42,9 @@ The most frequent other feature values with which `PROPN` and `Abbr` co-occurred
 
 ### `DET`
 
-13 [DET](cs_pud-pos-DET.html) tokens (2% of all `DET` tokens) have a non-empty value of `Abbr`.
+13 <tt><a href="cs_pud-pos-DET.html">DET</a></tt> tokens (2% of all `DET` tokens) have a non-empty value of `Abbr`.
 
-The most frequent other feature values with which `DET` and `Abbr` co-occurred: <tt><a href="PronType.html">PronType</a>=Prs</tt> (13; 100%), <tt><a href="Person.html">Person</a>=1</tt> (13; 100%), <tt><a href="Poss.html">Poss</a>=Yes</tt> (13; 100%), <tt><a href="Gender.html">Gender</a>=Masc,Neut</tt> (13; 100%), <tt><a href="Number[psor].html">Number[psor]</a>=Plur</tt> (13; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (13; 100%), <tt><a href="Reflex.html">Reflex</a>=EMPTY</tt> (13; 100%), <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (13; 100%), <tt><a href="Gender[psor].html">Gender[psor]</a>=EMPTY</tt> (13; 100%), <tt><a href="Case.html">Case</a>=Ins</tt> (11; 85%).
+The most frequent other feature values with which `DET` and `Abbr` co-occurred: <tt><a href="cs_pud-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (13; 100%), <tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (13; 100%), <tt><a href="cs_pud-feat-Gender-psor.html">Gender[psor]</a></tt><tt>=EMPTY</tt> (13; 100%), <tt><a href="cs_pud-feat-Person.html">Person</a></tt><tt>=1</tt> (13; 100%), <tt><a href="cs_pud-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (13; 100%), <tt><a href="cs_pud-feat-Number-psor.html">Number[psor]</a></tt><tt>=Plur</tt> (13; 100%), <tt><a href="cs_pud-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (13; 100%), <tt><a href="cs_pud-feat-Poss.html">Poss</a></tt><tt>=Yes</tt> (13; 100%), <tt><a href="cs_pud-feat-Gender.html">Gender</a></tt><tt>=Masc,Neut</tt> (13; 100%), <tt><a href="cs_pud-feat-Case.html">Case</a></tt><tt>=Ins</tt> (11; 85%).
 
 `DET` tokens may have the following values of `Abbr`:
 
@@ -53,9 +53,9 @@ The most frequent other feature values with which `DET` and `Abbr` co-occurred: 
 
 ### `ADP`
 
-11 [ADP](cs_pud-pos-ADP.html) tokens (1% of all `ADP` tokens) have a non-empty value of `Abbr`.
+11 <tt><a href="cs_pud-pos-ADP.html">ADP</a></tt> tokens (1% of all `ADP` tokens) have a non-empty value of `Abbr`.
 
-The most frequent other feature values with which `ADP` and `Abbr` co-occurred: <tt><a href="AdpType.html">AdpType</a>=Prep</tt> (11; 100%), <tt><a href="Case.html">Case</a>=Ins</tt> (11; 100%).
+The most frequent other feature values with which `ADP` and `Abbr` co-occurred: <tt><a href="cs_pud-feat-Case.html">Case</a></tt><tt>=Ins</tt> (11; 100%), <tt><a href="cs_pud-feat-AdpType.html">AdpType</a></tt><tt>=Prep</tt> (11; 100%).
 
 `ADP` tokens may have the following values of `Abbr`:
 
@@ -64,9 +64,9 @@ The most frequent other feature values with which `ADP` and `Abbr` co-occurred: 
 
 ### `ADJ`
 
-2 [ADJ](cs_pud-pos-ADJ.html) tokens (0% of all `ADJ` tokens) have a non-empty value of `Abbr`.
+2 <tt><a href="cs_pud-pos-ADJ.html">ADJ</a></tt> tokens (0% of all `ADJ` tokens) have a non-empty value of `Abbr`.
 
-The most frequent other feature values with which `ADJ` and `Abbr` co-occurred: <tt><a href="Number.html">Number</a>=EMPTY</tt> (2; 100%), <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (2; 100%), <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (2; 100%), <tt><a href="Polarity.html">Polarity</a>=Pos</tt> (2; 100%), <tt><a href="VerbForm.html">VerbForm</a>=EMPTY</tt> (2; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (2; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (2; 100%), <tt><a href="Degree.html">Degree</a>=Pos</tt> (2; 100%).
+The most frequent other feature values with which `ADJ` and `Abbr` co-occurred: <tt><a href="cs_pud-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (2; 100%), <tt><a href="cs_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="cs_pud-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="cs_pud-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (2; 100%), <tt><a href="cs_pud-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="cs_pud-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="cs_pud-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (2; 100%).
 
 `ADJ` tokens may have the following values of `Abbr`:
 
@@ -75,9 +75,9 @@ The most frequent other feature values with which `ADJ` and `Abbr` co-occurred: 
 
 ### `ADV`
 
-1 [ADV](cs_pud-pos-ADV.html) tokens (0% of all `ADV` tokens) have a non-empty value of `Abbr`.
+1 <tt><a href="cs_pud-pos-ADV.html">ADV</a></tt> tokens (0% of all `ADV` tokens) have a non-empty value of `Abbr`.
 
-The most frequent other feature values with which `ADV` and `Abbr` co-occurred: <tt><a href="PronType.html">PronType</a>=EMPTY</tt> (1; 100%), <tt><a href="Polarity.html">Polarity</a>=EMPTY</tt> (1; 100%), <tt><a href="Degree.html">Degree</a>=EMPTY</tt> (1; 100%).
+The most frequent other feature values with which `ADV` and `Abbr` co-occurred: <tt><a href="cs_pud-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="cs_pud-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="cs_pud-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (1; 100%).
 
 `ADV` tokens may have the following values of `Abbr`:
 
@@ -87,6 +87,6 @@ The most frequent other feature values with which `ADV` and `Abbr` co-occurred: 
 ## Relations with Agreement in `Abbr`
 
 The 10 most frequent relations where parent and child node agree in `Abbr`:
-<tt>NOUN --[<a href="../dep/det.html">det</a>]--> DET</tt> (13; 100%),
-<tt>NOUN --[<a href="../dep/case.html">case</a>]--> ADP</tt> (11; 61%).
+<tt>NOUN --[<tt><a href="cs_pud-dep-det.html">det</a></tt>]--> DET</tt> (13; 100%),
+<tt>NOUN --[<tt><a href="cs_pud-dep-case.html">case</a></tt>]--> ADP</tt> (11; 61%).
 

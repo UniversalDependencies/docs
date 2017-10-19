@@ -12,13 +12,13 @@ It occurs with 3 different values: `Digit`, `Roman`, `Word`.
 459 tokens (2%) have a non-empty value of `NumForm`.
 249 types (3%) occur at least once with a non-empty value of `NumForm`.
 222 lemmas (4%) occur at least once with a non-empty value of `NumForm`.
-The feature is used with 1 part-of-speech tags: [NUM](cs_pud-pos-NUM.html) (459; 2% instances).
+The feature is used with 1 part-of-speech tags: <tt><a href="cs_pud-pos-NUM.html">NUM</a></tt> (459; 2% instances).
 
 ### `NUM`
 
-459 [NUM](cs_pud-pos-NUM.html) tokens (100% of all `NUM` tokens) have a non-empty value of `NumForm`.
+459 <tt><a href="cs_pud-pos-NUM.html">NUM</a></tt> tokens (100% of all `NUM` tokens) have a non-empty value of `NumForm`.
 
-The most frequent other feature values with which `NUM` and `NumForm` co-occurred: <tt><a href="NumType.html">NumType</a>=Card</tt> (459; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (397; 86%), <tt><a href="NumValue.html">NumValue</a>=EMPTY</tt> (357; 78%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (319; 69%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (319; 69%).
+The most frequent other feature values with which `NUM` and `NumForm` co-occurred: <tt><a href="cs_pud-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (459; 100%), <tt><a href="cs_pud-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (397; 86%), <tt><a href="cs_pud-feat-NumValue.html">NumValue</a></tt><tt>=EMPTY</tt> (357; 78%), <tt><a href="cs_pud-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (319; 69%), <tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (319; 69%).
 
 `NUM` tokens may have the following values of `NumForm`:
 
@@ -31,6 +31,6 @@ The most frequent other feature values with which `NUM` and `NumForm` co-occurre
 ## Relations with Agreement in `NumForm`
 
 The 10 most frequent relations where parent and child node agree in `NumForm`:
-<tt>NUM --[<a href="../dep/conj.html">conj</a>]--> NUM</tt> (15; 100%),
-<tt>NUM --[<a href="../dep/compound.html">compound</a>]--> NUM</tt> (3; 75%).
+<tt>NUM --[<tt><a href="cs_pud-dep-conj.html">conj</a></tt>]--> NUM</tt> (15; 100%),
+<tt>NUM --[<tt><a href="cs_pud-dep-compound.html">compound</a></tt>]--> NUM</tt> (3; 75%).
 

@@ -13,7 +13,7 @@ This relation is universal.
 1709 instances of `amod` (93%) are right-to-left (child precedes parent).
 Average distance between parent and child is 1.23596730245232.
 
-The following 8 pairs of parts of speech are connected with `amod`: [-pos/NOUN]()-[-pos/ADJ]() (1727; 94% instances), [-pos/PROPN]()-[-pos/ADJ]() (88; 5% instances), [-pos/PRON]()-[-pos/ADJ]() (10; 1% instances), [-pos/DET]()-[-pos/ADJ]() (3; 0% instances), [-pos/NUM]()-[-pos/ADJ]() (3; 0% instances), [-pos/ADJ]()-[-pos/ADJ]() (2; 0% instances), [-pos/NOUN]()-[-pos/NUM]() (1; 0% instances), [-pos/PRON]()-[-pos/DET]() (1; 0% instances).
+The following 8 pairs of parts of speech are connected with `amod`: <tt><a href="cs_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_pud-pos-ADJ.html">ADJ</a></tt> (1727; 94% instances), <tt><a href="cs_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cs_pud-pos-ADJ.html">ADJ</a></tt> (88; 5% instances), <tt><a href="cs_pud-pos-PRON.html">PRON</a></tt>-<tt><a href="cs_pud-pos-ADJ.html">ADJ</a></tt> (10; 1% instances), <tt><a href="cs_pud-pos-DET.html">DET</a></tt>-<tt><a href="cs_pud-pos-ADJ.html">ADJ</a></tt> (3; 0% instances), <tt><a href="cs_pud-pos-NUM.html">NUM</a></tt>-<tt><a href="cs_pud-pos-ADJ.html">ADJ</a></tt> (3; 0% instances), <tt><a href="cs_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cs_pud-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="cs_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_pud-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="cs_pud-pos-PRON.html">PRON</a></tt>-<tt><a href="cs_pud-pos-DET.html">DET</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

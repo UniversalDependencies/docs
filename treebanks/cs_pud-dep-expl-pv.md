@@ -6,15 +6,15 @@ udver: '2'
 
 ## Treebank Statistics: UD_Czech-PUD: Relations: `expl:pv`
 
-This relation is a language-specific subtype of [expl]().
-There are also 1 other language-specific subtypes of `expl`: [expl:pass]().
+This relation is a language-specific subtype of .
+There are also 1 other language-specific subtypes of `expl`: <tt><a href="cs_pud-dep-expl-pass.html">expl:pass</a></tt>.
 
 240 nodes (1%) are attached to their parents as `expl:pv`.
 
 191 instances of `expl:pv` (80%) are right-to-left (child precedes parent).
 Average distance between parent and child is 2.29583333333333.
 
-The following 2 pairs of parts of speech are connected with `expl:pv`: [-pos/VERB]()-[-pos/PRON]() (239; 100% instances), [-pos/VERB]()-[-pos/ADP]() (1; 0% instances).
+The following 2 pairs of parts of speech are connected with `expl:pv`: <tt><a href="cs_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_pud-pos-PRON.html">PRON</a></tt> (239; 100% instances), <tt><a href="cs_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_pud-pos-ADP.html">ADP</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

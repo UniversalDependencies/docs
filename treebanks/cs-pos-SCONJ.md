@@ -13,42 +13,42 @@ The 10 most frequent `SCONJ` lemmas: že jako aby než když pokud protože zda 
 
 The 10 most frequent `SCONJ` types:  že jako aby než když pokud protože zda jak zatímco
 
-The 10 most frequent ambiguous lemmas: než ([SCONJ]() 2143, [PART]() 5), jak ([ADV]() 1801, [SCONJ]() 399, [CCONJ]() 52, [PROPN]() 5), co ([PRON]() 1859, [ADV]() 239, [SCONJ]() 210, [PART]() 21), až ([PART]() 1384, [CCONJ]() 639, [SCONJ]() 139), byť ([SCONJ]() 120, [VERB]() 1), ať ([SCONJ]() 115, [PART]() 73), místo ([NOUN]() 1144, [ADP]() 191, [SCONJ]() 10, [ADV]() 5), jakoby ([ADV]() 23, [SCONJ]() 7), namísto ([ADP]() 30, [SCONJ]() 3), as ([CCONJ]() 4, [NOUN]() 2, [SCONJ]() 2)
+The 10 most frequent ambiguous lemmas: než (<tt><a href="cs-pos-SCONJ.html">SCONJ</a></tt> 2143, <tt><a href="cs-pos-PART.html">PART</a></tt> 5), jak (<tt><a href="cs-pos-ADV.html">ADV</a></tt> 1801, <tt><a href="cs-pos-SCONJ.html">SCONJ</a></tt> 399, <tt><a href="cs-pos-CCONJ.html">CCONJ</a></tt> 52, <tt><a href="cs-pos-PROPN.html">PROPN</a></tt> 5), co (<tt><a href="cs-pos-PRON.html">PRON</a></tt> 1859, <tt><a href="cs-pos-ADV.html">ADV</a></tt> 239, <tt><a href="cs-pos-SCONJ.html">SCONJ</a></tt> 210, <tt><a href="cs-pos-PART.html">PART</a></tt> 21), až (<tt><a href="cs-pos-PART.html">PART</a></tt> 1384, <tt><a href="cs-pos-CCONJ.html">CCONJ</a></tt> 639, <tt><a href="cs-pos-SCONJ.html">SCONJ</a></tt> 139), byť (<tt><a href="cs-pos-SCONJ.html">SCONJ</a></tt> 120, <tt><a href="cs-pos-VERB.html">VERB</a></tt> 1), ať (<tt><a href="cs-pos-SCONJ.html">SCONJ</a></tt> 115, <tt><a href="cs-pos-PART.html">PART</a></tt> 73), místo (<tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 1144, <tt><a href="cs-pos-ADP.html">ADP</a></tt> 191, <tt><a href="cs-pos-SCONJ.html">SCONJ</a></tt> 10, <tt><a href="cs-pos-ADV.html">ADV</a></tt> 5), jakoby (<tt><a href="cs-pos-ADV.html">ADV</a></tt> 23, <tt><a href="cs-pos-SCONJ.html">SCONJ</a></tt> 7), namísto (<tt><a href="cs-pos-ADP.html">ADP</a></tt> 30, <tt><a href="cs-pos-SCONJ.html">SCONJ</a></tt> 3), as (<tt><a href="cs-pos-CCONJ.html">CCONJ</a></tt> 4, <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="cs-pos-SCONJ.html">SCONJ</a></tt> 2)
 
-The 10 most frequent ambiguous types:  než ([SCONJ]() 2120, [PART]() 4), jak ([ADV]() 1350, [SCONJ]() 222, [CCONJ]() 50, [PROPN]() 5), co ([PRON]() 1187, [ADV]() 233, [SCONJ]() 207, [PART]() 7), až ([PART]() 1295, [CCONJ]() 639, [SCONJ]() 111), ať ([SCONJ]() 95, [PART]() 60), místo ([NOUN]() 359, [ADP]() 140, [SCONJ]() 7, [ADV]() 5), jakoby ([ADV]() 22, [SCONJ]() 5), namísto ([ADP]() 22, [SCONJ]() 2)
+The 10 most frequent ambiguous types:  než (<tt><a href="cs-pos-SCONJ.html">SCONJ</a></tt> 2120, <tt><a href="cs-pos-PART.html">PART</a></tt> 4), jak (<tt><a href="cs-pos-ADV.html">ADV</a></tt> 1350, <tt><a href="cs-pos-SCONJ.html">SCONJ</a></tt> 222, <tt><a href="cs-pos-CCONJ.html">CCONJ</a></tt> 50, <tt><a href="cs-pos-PROPN.html">PROPN</a></tt> 5), co (<tt><a href="cs-pos-PRON.html">PRON</a></tt> 1187, <tt><a href="cs-pos-ADV.html">ADV</a></tt> 233, <tt><a href="cs-pos-SCONJ.html">SCONJ</a></tt> 207, <tt><a href="cs-pos-PART.html">PART</a></tt> 7), až (<tt><a href="cs-pos-PART.html">PART</a></tt> 1295, <tt><a href="cs-pos-CCONJ.html">CCONJ</a></tt> 639, <tt><a href="cs-pos-SCONJ.html">SCONJ</a></tt> 111), ať (<tt><a href="cs-pos-SCONJ.html">SCONJ</a></tt> 95, <tt><a href="cs-pos-PART.html">PART</a></tt> 60), místo (<tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 359, <tt><a href="cs-pos-ADP.html">ADP</a></tt> 140, <tt><a href="cs-pos-SCONJ.html">SCONJ</a></tt> 7, <tt><a href="cs-pos-ADV.html">ADV</a></tt> 5), jakoby (<tt><a href="cs-pos-ADV.html">ADV</a></tt> 22, <tt><a href="cs-pos-SCONJ.html">SCONJ</a></tt> 5), namísto (<tt><a href="cs-pos-ADP.html">ADP</a></tt> 22, <tt><a href="cs-pos-SCONJ.html">SCONJ</a></tt> 2)
 
 
 * než
-  * [SCONJ]() 2120: Hodnota thajského vývozu se každým rokem zvyšuje o více <b>než</b> 12 % .
-  * [PART]() 4: Pochodí právě z toho , že lid většinou nemůže vůbec poznati skutečnosti <b>než</b> novinářovým prostřednictvím .
+  * <tt><a href="cs-pos-SCONJ.html">SCONJ</a></tt> 2120: Hodnota thajského vývozu se každým rokem zvyšuje o více <b>než</b> 12 % .
+  * <tt><a href="cs-pos-PART.html">PART</a></tt> 4: Pochodí právě z toho , že lid většinou nemůže vůbec poznati skutečnosti <b>než</b> novinářovým prostřednictvím .
 * jak
-  * [ADV]() 1350: Zajímalo nás proto , <b>jak</b> jsou s pomocí expertů spokojeni .
-  * [SCONJ]() 222: A <b>jak</b> dosáhnout kdysi slibovaného vzestupu ?
-  * [CCONJ]() 50: Mezi diktátorovými ctiteli byli <b>jak</b> staří , tak mladí lidé .
-  * [PROPN]() 5: BRNO ( <b>jak</b> ) -
+  * <tt><a href="cs-pos-ADV.html">ADV</a></tt> 1350: Zajímalo nás proto , <b>jak</b> jsou s pomocí expertů spokojeni .
+  * <tt><a href="cs-pos-SCONJ.html">SCONJ</a></tt> 222: A <b>jak</b> dosáhnout kdysi slibovaného vzestupu ?
+  * <tt><a href="cs-pos-CCONJ.html">CCONJ</a></tt> 50: Mezi diktátorovými ctiteli byli <b>jak</b> staří , tak mladí lidé .
+  * <tt><a href="cs-pos-PROPN.html">PROPN</a></tt> 5: BRNO ( <b>jak</b> ) -
 * co
-  * [PRON]() 1187: Nevíte , <b>co</b> kam započítat ?
-  * [ADV]() 233: Samozřejmě nejen <b>co</b> do efektu , ale i <b>co</b> do nákladů .
-  * [SCONJ]() 207: Učinil tak 24 hodin poté , <b>co</b> nabídku zprvu odmítl .
-  * [PART]() 7: A <b>co</b> když by Maastricht v neděli neprošel ?
+  * <tt><a href="cs-pos-PRON.html">PRON</a></tt> 1187: Nevíte , <b>co</b> kam započítat ?
+  * <tt><a href="cs-pos-ADV.html">ADV</a></tt> 233: Samozřejmě nejen <b>co</b> do efektu , ale i <b>co</b> do nákladů .
+  * <tt><a href="cs-pos-SCONJ.html">SCONJ</a></tt> 207: Učinil tak 24 hodin poté , <b>co</b> nabídku zprvu odmítl .
+  * <tt><a href="cs-pos-PART.html">PART</a></tt> 7: A <b>co</b> když by Maastricht v neděli neprošel ?
 * až
-  * [PART]() 1295: Možnost opakovaného vysílání z paměti automaticky <b>až</b> na 53 adresátů .
-  * [CCONJ]() 639: Řekl bych , že může se pohybovat od deseti <b>až</b> do osmdesáti procent .
-  * [SCONJ]() 111: V bytě máte příjemných 24 ° C , i když venku mrzne , <b>až</b> praští .
+  * <tt><a href="cs-pos-PART.html">PART</a></tt> 1295: Možnost opakovaného vysílání z paměti automaticky <b>až</b> na 53 adresátů .
+  * <tt><a href="cs-pos-CCONJ.html">CCONJ</a></tt> 639: Řekl bych , že může se pohybovat od deseti <b>až</b> do osmdesáti procent .
+  * <tt><a href="cs-pos-SCONJ.html">SCONJ</a></tt> 111: V bytě máte příjemných 24 ° C , i když venku mrzne , <b>až</b> praští .
 * ať
-  * [SCONJ]() 95: Žádný prostředník , <b>ať</b> vítaný , či nevítaný .
-  * [PART]() 60: Pak <b>ať</b> to řeknou , vysvětlí a komisi rozeženou .
+  * <tt><a href="cs-pos-SCONJ.html">SCONJ</a></tt> 95: Žádný prostředník , <b>ať</b> vítaný , či nevítaný .
+  * <tt><a href="cs-pos-PART.html">PART</a></tt> 60: Pak <b>ať</b> to řeknou , vysvětlí a komisi rozeženou .
 * místo
-  * [NOUN]() 359: Termín a <b>místo</b> konání : 23 . až 24 . 2 . v Brně .
-  * [ADP]() 140: Samoobsluha <b>místo</b> číšníka 10 - 15
-  * [SCONJ]() 7: Vždy se snaží omluvit pochybení svých úředníků , <b>místo</b> aby by z toho vyvozovala konkrétní důsledky , řekl .
-  * [ADV]() 5: A tak se pozorovatelé <b>místo</b> na Tenga začínají zaměřovat na muže , kteří vstupují do hry o Tengovo dědictví .
+  * <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 359: Termín a <b>místo</b> konání : 23 . až 24 . 2 . v Brně .
+  * <tt><a href="cs-pos-ADP.html">ADP</a></tt> 140: Samoobsluha <b>místo</b> číšníka 10 - 15
+  * <tt><a href="cs-pos-SCONJ.html">SCONJ</a></tt> 7: Vždy se snaží omluvit pochybení svých úředníků , <b>místo</b> aby by z toho vyvozovala konkrétní důsledky , řekl .
+  * <tt><a href="cs-pos-ADV.html">ADV</a></tt> 5: A tak se pozorovatelé <b>místo</b> na Tenga začínají zaměřovat na muže , kteří vstupují do hry o Tengovo dědictví .
 * jakoby
-  * [ADV]() 22: Další kandidáti <b>jakoby</b> pro televizní kamery neexistovali .
-  * [SCONJ]() 5: Co není k dispozici , <b>jakoby</b> neexistovalo .
+  * <tt><a href="cs-pos-ADV.html">ADV</a></tt> 22: Další kandidáti <b>jakoby</b> pro televizní kamery neexistovali .
+  * <tt><a href="cs-pos-SCONJ.html">SCONJ</a></tt> 5: Co není k dispozici , <b>jakoby</b> neexistovalo .
 * namísto
-  * [ADP]() 22: Jeden krychlový metr bude stát 39 korun <b>namísto</b> současných 19 Kč .
-  * [SCONJ]() 2: Hudba Jiřího Cerhy působí převážně ilustrativně , <b>namísto</b> aby by zmnožovala jevištní dění o nové gagy .
+  * <tt><a href="cs-pos-ADP.html">ADP</a></tt> 22: Jeden krychlový metr bude stát 39 korun <b>namísto</b> současných 19 Kč .
+  * <tt><a href="cs-pos-SCONJ.html">SCONJ</a></tt> 2: Hudba Jiřího Cerhy působí převážně ilustrativně , <b>namísto</b> aby by zmnožovala jevištní dění o nové gagy .
 
 ## Morphology
 
@@ -60,7 +60,7 @@ The 2nd highest number of forms (1) was observed with the lemma “aby”: aby.
 
 The 3rd highest number of forms (1) was observed with the lemma “ak”: ak.
 
-`SCONJ` occurs with 1 features: [Foreign](cs-feat-Foreign.html) (8; 0% instances)
+`SCONJ` occurs with 1 features: <tt><a href="cs-feat-Foreign.html">Foreign</a></tt> (8; 0% instances)
 
 `SCONJ` occurs with 1 feature-value pairs: `Foreign=Yes`
 
@@ -71,9 +71,9 @@ Examples: že jako aby než když pokud protože zda jak zatímco
 
 ## Relations
 
-`SCONJ` nodes are attached to their parents using 15 different relations: [mark](cs-dep-mark.html) (26404; 95% instances), [advmod](cs-dep-advmod.html) (563; 2% instances), [fixed](cs-dep-fixed.html) (437; 2% instances), [cc](cs-dep-cc.html) (263; 1% instances), [dep](cs-dep-dep.html) (17; 0% instances), [discourse](cs-dep-discourse.html) (6; 0% instances), [root](cs-dep-root.html) (6; 0% instances), [conj](cs-dep-conj.html) (5; 0% instances), [case](cs-dep-case.html) (4; 0% instances), [flat:foreign](cs-dep-flat:foreign.html) (4; 0% instances), [advmod:emph](cs-dep-advmod:emph.html) (3; 0% instances), [nmod](cs-dep-nmod.html) (3; 0% instances), [nsubj](cs-dep-nsubj.html) (1; 0% instances), [obj](cs-dep-obj.html) (1; 0% instances), [orphan](cs-dep-orphan.html) (1; 0% instances)
+`SCONJ` nodes are attached to their parents using 15 different relations: <tt><a href="cs-dep-mark.html">mark</a></tt> (26404; 95% instances), <tt><a href="cs-dep-advmod.html">advmod</a></tt> (563; 2% instances), <tt><a href="cs-dep-fixed.html">fixed</a></tt> (437; 2% instances), <tt><a href="cs-dep-cc.html">cc</a></tt> (263; 1% instances), <tt><a href="cs-dep-dep.html">dep</a></tt> (17; 0% instances), <tt><a href="cs-dep-discourse.html">discourse</a></tt> (6; 0% instances), <tt><a href="cs-dep-root.html">root</a></tt> (6; 0% instances), <tt><a href="cs-dep-conj.html">conj</a></tt> (5; 0% instances), <tt><a href="cs-dep-case.html">case</a></tt> (4; 0% instances), <tt><a href="cs-dep-flat-foreign.html">flat:foreign</a></tt> (4; 0% instances), <tt><a href="cs-dep-advmod-emph.html">advmod:emph</a></tt> (3; 0% instances), <tt><a href="cs-dep-nmod.html">nmod</a></tt> (3; 0% instances), <tt><a href="cs-dep-nsubj.html">nsubj</a></tt> (1; 0% instances), <tt><a href="cs-dep-obj.html">obj</a></tt> (1; 0% instances), <tt><a href="cs-dep-orphan.html">orphan</a></tt> (1; 0% instances)
 
-Parents of `SCONJ` nodes belong to 13 different parts of speech: [VERB](cs-pos-VERB.html) (17679; 64% instances), [NOUN](cs-pos-NOUN.html) (4748; 17% instances), [ADJ](cs-pos-ADJ.html) (3537; 13% instances), [CCONJ](cs-pos-CCONJ.html) (434; 2% instances), [ADV](cs-pos-ADV.html) (350; 1% instances), [PROPN](cs-pos-PROPN.html) (335; 1% instances), [NUM](cs-pos-NUM.html) (301; 1% instances), [DET](cs-pos-DET.html) (159; 1% instances), [PRON](cs-pos-PRON.html) (97; 0% instances), [PART](cs-pos-PART.html) (56; 0% instances), [SCONJ](cs-pos-SCONJ.html) (14; 0% instances),  (6; 0% instances), [SYM](cs-pos-SYM.html) (2; 0% instances)
+Parents of `SCONJ` nodes belong to 13 different parts of speech: <tt><a href="cs-pos-VERB.html">VERB</a></tt> (17679; 64% instances), <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> (4748; 17% instances), <tt><a href="cs-pos-ADJ.html">ADJ</a></tt> (3537; 13% instances), <tt><a href="cs-pos-CCONJ.html">CCONJ</a></tt> (434; 2% instances), <tt><a href="cs-pos-ADV.html">ADV</a></tt> (350; 1% instances), <tt><a href="cs-pos-PROPN.html">PROPN</a></tt> (335; 1% instances), <tt><a href="cs-pos-NUM.html">NUM</a></tt> (301; 1% instances), <tt><a href="cs-pos-DET.html">DET</a></tt> (159; 1% instances), <tt><a href="cs-pos-PRON.html">PRON</a></tt> (97; 0% instances), <tt><a href="cs-pos-PART.html">PART</a></tt> (56; 0% instances), <tt><a href="cs-pos-SCONJ.html">SCONJ</a></tt> (14; 0% instances),  (6; 0% instances), <tt><a href="cs-pos-SYM.html">SYM</a></tt> (2; 0% instances)
 
 27593 (100%) `SCONJ` nodes are leaves.
 
@@ -85,7 +85,7 @@ Parents of `SCONJ` nodes belong to 13 different parts of speech: [VERB](cs-pos-V
 
 The highest child degree of a `SCONJ` node is 5.
 
-Children of `SCONJ` nodes are attached using 12 different relations: [fixed](cs-dep-fixed.html) (90; 55% instances), [punct](cs-dep-punct.html) (33; 20% instances), [cc](cs-dep-cc.html) (10; 6% instances), [conj](cs-dep-conj.html) (8; 5% instances), [advcl](cs-dep-advcl.html) (6; 4% instances), [dep](cs-dep-dep.html) (5; 3% instances), [mark](cs-dep-mark.html) (3; 2% instances), [aux](cs-dep-aux.html) (2; 1% instances), [obl](cs-dep-obl.html) (2; 1% instances), [orphan](cs-dep-orphan.html) (2; 1% instances), [det](cs-dep-det.html) (1; 1% instances), [parataxis](cs-dep-parataxis.html) (1; 1% instances)
+Children of `SCONJ` nodes are attached using 12 different relations: <tt><a href="cs-dep-fixed.html">fixed</a></tt> (90; 55% instances), <tt><a href="cs-dep-punct.html">punct</a></tt> (33; 20% instances), <tt><a href="cs-dep-cc.html">cc</a></tt> (10; 6% instances), <tt><a href="cs-dep-conj.html">conj</a></tt> (8; 5% instances), <tt><a href="cs-dep-advcl.html">advcl</a></tt> (6; 4% instances), <tt><a href="cs-dep-dep.html">dep</a></tt> (5; 3% instances), <tt><a href="cs-dep-mark.html">mark</a></tt> (3; 2% instances), <tt><a href="cs-dep-aux.html">aux</a></tt> (2; 1% instances), <tt><a href="cs-dep-obl.html">obl</a></tt> (2; 1% instances), <tt><a href="cs-dep-orphan.html">orphan</a></tt> (2; 1% instances), <tt><a href="cs-dep-det.html">det</a></tt> (1; 1% instances), <tt><a href="cs-dep-parataxis.html">parataxis</a></tt> (1; 1% instances)
 
-Children of `SCONJ` nodes belong to 11 different parts of speech: [ADV](cs-pos-ADV.html) (80; 49% instances), [PUNCT](cs-pos-PUNCT.html) (33; 20% instances), [SCONJ](cs-pos-SCONJ.html) (14; 9% instances), [CCONJ](cs-pos-CCONJ.html) (11; 7% instances), [VERB](cs-pos-VERB.html) (11; 7% instances), [ADJ](cs-pos-ADJ.html) (5; 3% instances), [NOUN](cs-pos-NOUN.html) (3; 2% instances), [AUX](cs-pos-AUX.html) (2; 1% instances), [PART](cs-pos-PART.html) (2; 1% instances), [ADP](cs-pos-ADP.html) (1; 1% instances), [DET](cs-pos-DET.html) (1; 1% instances)
+Children of `SCONJ` nodes belong to 11 different parts of speech: <tt><a href="cs-pos-ADV.html">ADV</a></tt> (80; 49% instances), <tt><a href="cs-pos-PUNCT.html">PUNCT</a></tt> (33; 20% instances), <tt><a href="cs-pos-SCONJ.html">SCONJ</a></tt> (14; 9% instances), <tt><a href="cs-pos-CCONJ.html">CCONJ</a></tt> (11; 7% instances), <tt><a href="cs-pos-VERB.html">VERB</a></tt> (11; 7% instances), <tt><a href="cs-pos-ADJ.html">ADJ</a></tt> (5; 3% instances), <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> (3; 2% instances), <tt><a href="cs-pos-AUX.html">AUX</a></tt> (2; 1% instances), <tt><a href="cs-pos-PART.html">PART</a></tt> (2; 1% instances), <tt><a href="cs-pos-ADP.html">ADP</a></tt> (1; 1% instances), <tt><a href="cs-pos-DET.html">DET</a></tt> (1; 1% instances)
 

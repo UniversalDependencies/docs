@@ -32,9 +32,9 @@ The 2nd highest number of forms (1) was observed with the lemma “&”: &.
 
 ## Relations
 
-`SYM` nodes are attached to their parents using 5 different relations: [nmod](cs_pud-dep-nmod.html) (5; 33% instances), [nsubj](cs_pud-dep-nsubj.html) (4; 27% instances), [obl](cs_pud-dep-obl.html) (3; 20% instances), [obj](cs_pud-dep-obj.html) (2; 13% instances), [flat](cs_pud-dep-flat.html) (1; 7% instances)
+`SYM` nodes are attached to their parents using 5 different relations: <tt><a href="cs_pud-dep-nmod.html">nmod</a></tt> (5; 33% instances), <tt><a href="cs_pud-dep-nsubj.html">nsubj</a></tt> (4; 27% instances), <tt><a href="cs_pud-dep-obl.html">obl</a></tt> (3; 20% instances), <tt><a href="cs_pud-dep-obj.html">obj</a></tt> (2; 13% instances), <tt><a href="cs_pud-dep-flat.html">flat</a></tt> (1; 7% instances)
 
-Parents of `SYM` nodes belong to 5 different parts of speech: [VERB](cs_pud-pos-VERB.html) (8; 53% instances), [NOUN](cs_pud-pos-NOUN.html) (3; 20% instances), [ADJ](cs_pud-pos-ADJ.html) (2; 13% instances), [ADV](cs_pud-pos-ADV.html) (1; 7% instances), [NUM](cs_pud-pos-NUM.html) (1; 7% instances)
+Parents of `SYM` nodes belong to 5 different parts of speech: <tt><a href="cs_pud-pos-VERB.html">VERB</a></tt> (8; 53% instances), <tt><a href="cs_pud-pos-NOUN.html">NOUN</a></tt> (3; 20% instances), <tt><a href="cs_pud-pos-ADJ.html">ADJ</a></tt> (2; 13% instances), <tt><a href="cs_pud-pos-ADV.html">ADV</a></tt> (1; 7% instances), <tt><a href="cs_pud-pos-NUM.html">NUM</a></tt> (1; 7% instances)
 
 2 (13%) `SYM` nodes are leaves.
 
@@ -46,7 +46,7 @@ Parents of `SYM` nodes belong to 5 different parts of speech: [VERB](cs_pud-pos-
 
 The highest child degree of a `SYM` node is 4.
 
-Children of `SYM` nodes are attached using 7 different relations: [case](cs_pud-dep-case.html) (7; 23% instances), [nummod:gov](cs_pud-dep-nummod:gov.html) (7; 23% instances), [nmod](cs_pud-dep-nmod.html) (6; 19% instances), [nummod](cs_pud-dep-nummod.html) (6; 19% instances), [advmod:emph](cs_pud-dep-advmod:emph.html) (3; 10% instances), [advmod](cs_pud-dep-advmod.html) (1; 3% instances), [appos](cs_pud-dep-appos.html) (1; 3% instances)
+Children of `SYM` nodes are attached using 7 different relations: <tt><a href="cs_pud-dep-case.html">case</a></tt> (7; 23% instances), <tt><a href="cs_pud-dep-nummod-gov.html">nummod:gov</a></tt> (7; 23% instances), <tt><a href="cs_pud-dep-nmod.html">nmod</a></tt> (6; 19% instances), <tt><a href="cs_pud-dep-nummod.html">nummod</a></tt> (6; 19% instances), <tt><a href="cs_pud-dep-advmod-emph.html">advmod:emph</a></tt> (3; 10% instances), <tt><a href="cs_pud-dep-advmod.html">advmod</a></tt> (1; 3% instances), <tt><a href="cs_pud-dep-appos.html">appos</a></tt> (1; 3% instances)
 
-Children of `SYM` nodes belong to 4 different parts of speech: [NUM](cs_pud-pos-NUM.html) (13; 42% instances), [ADP](cs_pud-pos-ADP.html) (7; 23% instances), [NOUN](cs_pud-pos-NOUN.html) (6; 19% instances), [ADV](cs_pud-pos-ADV.html) (5; 16% instances)
+Children of `SYM` nodes belong to 4 different parts of speech: <tt><a href="cs_pud-pos-NUM.html">NUM</a></tt> (13; 42% instances), <tt><a href="cs_pud-pos-ADP.html">ADP</a></tt> (7; 23% instances), <tt><a href="cs_pud-pos-NOUN.html">NOUN</a></tt> (6; 19% instances), <tt><a href="cs_pud-pos-ADV.html">ADV</a></tt> (5; 16% instances)
 

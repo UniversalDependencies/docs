@@ -6,14 +6,14 @@ udver: '2'
 
 ## Treebank Statistics: UD_Czech-CAC: Relations: `csubj:pass`
 
-This relation is a language-specific subtype of [csubj]().
+This relation is a language-specific subtype of <tt><a href="cs_cac-dep-csubj.html">csubj</a></tt>.
 
 160 nodes (0%) are attached to their parents as `csubj:pass`.
 
 156 instances of `csubj:pass` (98%) are left-to-right (parent precedes child).
 Average distance between parent and child is 6.46875.
 
-The following 10 pairs of parts of speech are connected with `csubj:pass`: [-pos/VERB]()-[-pos/VERB]() (81; 51% instances), [-pos/ADJ]()-[-pos/VERB]() (44; 28% instances), [-pos/VERB]()-[-pos/ADJ]() (12; 8% instances), [-pos/ADJ]()-[-pos/ADJ]() (6; 4% instances), [-pos/ADJ]()-[-pos/NOUN]() (6; 4% instances), [-pos/VERB]()-[-pos/NOUN]() (6; 4% instances), [-pos/VERB]()-[-pos/DET]() (2; 1% instances), [-pos/ADJ]()-[-pos/ADV]() (1; 1% instances), [-pos/VERB]()-[-pos/NUM]() (1; 1% instances), [-pos/VERB]()-[-pos/PRON]() (1; 1% instances).
+The following 10 pairs of parts of speech are connected with `csubj:pass`: <tt><a href="cs_cac-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_cac-pos-VERB.html">VERB</a></tt> (81; 51% instances), <tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cs_cac-pos-VERB.html">VERB</a></tt> (44; 28% instances), <tt><a href="cs_cac-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt> (12; 8% instances), <tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt> (6; 4% instances), <tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> (6; 4% instances), <tt><a href="cs_cac-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> (6; 4% instances), <tt><a href="cs_cac-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_cac-pos-DET.html">DET</a></tt> (2; 1% instances), <tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cs_cac-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="cs_cac-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_cac-pos-NUM.html">NUM</a></tt> (1; 1% instances), <tt><a href="cs_cac-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_cac-pos-PRON.html">PRON</a></tt> (1; 1% instances).
 
 
 ~~~ conllu

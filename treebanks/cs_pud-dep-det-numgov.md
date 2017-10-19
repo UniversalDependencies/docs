@@ -6,15 +6,15 @@ udver: '2'
 
 ## Treebank Statistics: UD_Czech-PUD: Relations: `det:numgov`
 
-This relation is a language-specific subtype of [det]().
-There are also 1 other language-specific subtypes of `det`: [det:nummod]().
+This relation is a language-specific subtype of <tt><a href="cs_pud-dep-det.html">det</a></tt>.
+There are also 1 other language-specific subtypes of `det`: <tt><a href="cs_pud-dep-det-nummod.html">det:nummod</a></tt>.
 
 43 nodes (0%) are attached to their parents as `det:numgov`.
 
 42 instances of `det:numgov` (98%) are right-to-left (child precedes parent).
 Average distance between parent and child is 1.53488372093023.
 
-The following 4 pairs of parts of speech are connected with `det:numgov`: [-pos/NOUN]()-[-pos/DET]() (27; 63% instances), [-pos/NOUN]()-[-pos/ADV]() (13; 30% instances), [-pos/PRON]()-[-pos/DET]() (2; 5% instances), [-pos/ADJ]()-[-pos/DET]() (1; 2% instances).
+The following 4 pairs of parts of speech are connected with `det:numgov`: <tt><a href="cs_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_pud-pos-DET.html">DET</a></tt> (27; 63% instances), <tt><a href="cs_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_pud-pos-ADV.html">ADV</a></tt> (13; 30% instances), <tt><a href="cs_pud-pos-PRON.html">PRON</a></tt>-<tt><a href="cs_pud-pos-DET.html">DET</a></tt> (2; 5% instances), <tt><a href="cs_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cs_pud-pos-DET.html">DET</a></tt> (1; 2% instances).
 
 
 ~~~ conllu

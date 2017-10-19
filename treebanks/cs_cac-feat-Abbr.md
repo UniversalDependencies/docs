@@ -12,11 +12,11 @@ It occurs with 1 different values: `Yes`.
 6663 tokens (1%) have a non-empty value of `Abbr`.
 452 types (1%) occur at least once with a non-empty value of `Abbr`.
 446 lemmas (2%) occur at least once with a non-empty value of `Abbr`.
-The feature is used with 6 part-of-speech tags: [SYM](cs_cac-pos-SYM.html) (3783; 1% instances), [PROPN](cs_cac-pos-PROPN.html) (1878; 0% instances), [NOUN](cs_cac-pos-NOUN.html) (982; 0% instances), [ADV](cs_cac-pos-ADV.html) (10; 0% instances), [ADJ](cs_cac-pos-ADJ.html) (9; 0% instances), [PUNCT](cs_cac-pos-PUNCT.html) (1; 0% instances).
+The feature is used with 6 part-of-speech tags: <tt><a href="cs_cac-pos-SYM.html">SYM</a></tt> (3783; 1% instances), <tt><a href="cs_cac-pos-PROPN.html">PROPN</a></tt> (1878; 0% instances), <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> (982; 0% instances), <tt><a href="cs_cac-pos-ADV.html">ADV</a></tt> (10; 0% instances), <tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt> (9; 0% instances), <tt><a href="cs_cac-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances).
 
 ### `SYM`
 
-3783 [SYM](cs_cac-pos-SYM.html) tokens (100% of all `SYM` tokens) have a non-empty value of `Abbr`.
+3783 <tt><a href="cs_cac-pos-SYM.html">SYM</a></tt> tokens (100% of all `SYM` tokens) have a non-empty value of `Abbr`.
 
 `SYM` tokens may have the following values of `Abbr`:
 
@@ -24,9 +24,9 @@ The feature is used with 6 part-of-speech tags: [SYM](cs_cac-pos-SYM.html) (3783
 
 ### `PROPN`
 
-1878 [PROPN](cs_cac-pos-PROPN.html) tokens (19% of all `PROPN` tokens) have a non-empty value of `Abbr`.
+1878 <tt><a href="cs_cac-pos-PROPN.html">PROPN</a></tt> tokens (19% of all `PROPN` tokens) have a non-empty value of `Abbr`.
 
-The most frequent other feature values with which `PROPN` and `Abbr` co-occurred: <tt><a href="Polarity.html">Polarity</a>=Pos</tt> (1878; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (1873; 100%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (1865; 99%), <tt><a href="NameType.html">NameType</a>=Com</tt> (1460; 78%), <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (1271; 68%), <tt><a href="Gender.html">Gender</a>=Fem</tt> (964; 51%).
+The most frequent other feature values with which `PROPN` and `Abbr` co-occurred: <tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (1878; 100%), <tt><a href="cs_cac-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (1873; 100%), <tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (1865; 99%), <tt><a href="cs_cac-feat-NameType.html">NameType</a></tt><tt>=Com</tt> (1460; 78%), <tt><a href="cs_cac-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (1271; 68%), <tt><a href="cs_cac-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (964; 51%).
 
 `PROPN` tokens may have the following values of `Abbr`:
 
@@ -37,9 +37,9 @@ The most frequent other feature values with which `PROPN` and `Abbr` co-occurred
 
 ### `NOUN`
 
-982 [NOUN](cs_cac-pos-NOUN.html) tokens (1% of all `NOUN` tokens) have a non-empty value of `Abbr`.
+982 <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> tokens (1% of all `NOUN` tokens) have a non-empty value of `Abbr`.
 
-The most frequent other feature values with which `NOUN` and `Abbr` co-occurred: <tt><a href="Polarity.html">Polarity</a>=Pos</tt> (982; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (981; 100%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (977; 99%), <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (510; 52%).
+The most frequent other feature values with which `NOUN` and `Abbr` co-occurred: <tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (982; 100%), <tt><a href="cs_cac-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (981; 100%), <tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (977; 99%), <tt><a href="cs_cac-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (510; 52%).
 
 `NOUN` tokens may have the following values of `Abbr`:
 
@@ -50,9 +50,9 @@ The most frequent other feature values with which `NOUN` and `Abbr` co-occurred:
 
 ### `ADV`
 
-10 [ADV](cs_cac-pos-ADV.html) tokens (0% of all `ADV` tokens) have a non-empty value of `Abbr`.
+10 <tt><a href="cs_cac-pos-ADV.html">ADV</a></tt> tokens (0% of all `ADV` tokens) have a non-empty value of `Abbr`.
 
-The most frequent other feature values with which `ADV` and `Abbr` co-occurred: <tt><a href="PronType.html">PronType</a>=EMPTY</tt> (10; 100%), <tt><a href="Degree.html">Degree</a>=Pos</tt> (10; 100%), <tt><a href="Polarity.html">Polarity</a>=Pos</tt> (10; 100%).
+The most frequent other feature values with which `ADV` and `Abbr` co-occurred: <tt><a href="cs_cac-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (10; 100%), <tt><a href="cs_cac-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (10; 100%), <tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (10; 100%).
 
 `ADV` tokens may have the following values of `Abbr`:
 
@@ -61,9 +61,9 @@ The most frequent other feature values with which `ADV` and `Abbr` co-occurred: 
 
 ### `ADJ`
 
-9 [ADJ](cs_cac-pos-ADJ.html) tokens (0% of all `ADJ` tokens) have a non-empty value of `Abbr`.
+9 <tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt> tokens (0% of all `ADJ` tokens) have a non-empty value of `Abbr`.
 
-The most frequent other feature values with which `ADJ` and `Abbr` co-occurred: <tt><a href="Number.html">Number</a>=EMPTY</tt> (9; 100%), <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (9; 100%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (9; 100%), <tt><a href="Degree.html">Degree</a>=Pos</tt> (9; 100%), <tt><a href="Polarity.html">Polarity</a>=Pos</tt> (9; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (9; 100%).
+The most frequent other feature values with which `ADJ` and `Abbr` co-occurred: <tt><a href="cs_cac-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (9; 100%), <tt><a href="cs_cac-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (9; 100%), <tt><a href="cs_cac-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (9; 100%), <tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (9; 100%), <tt><a href="cs_cac-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (9; 100%), <tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (9; 100%).
 
 `ADJ` tokens may have the following values of `Abbr`:
 
@@ -72,7 +72,7 @@ The most frequent other feature values with which `ADJ` and `Abbr` co-occurred: 
 
 ### `PUNCT`
 
-1 [PUNCT](cs_cac-pos-PUNCT.html) tokens (0% of all `PUNCT` tokens) have a non-empty value of `Abbr`.
+1 <tt><a href="cs_cac-pos-PUNCT.html">PUNCT</a></tt> tokens (0% of all `PUNCT` tokens) have a non-empty value of `Abbr`.
 
 `PUNCT` tokens may have the following values of `Abbr`:
 
@@ -82,14 +82,14 @@ The most frequent other feature values with which `ADJ` and `Abbr` co-occurred: 
 ## Relations with Agreement in `Abbr`
 
 The 10 most frequent relations where parent and child node agree in `Abbr`:
-<tt>SYM --[<a href="../dep/conj.html">conj</a>]--> SYM</tt> (124; 100%),
-<tt>PROPN --[<a href="../dep/conj.html">conj</a>]--> PROPN</tt> (75; 75%),
-<tt>SYM --[<a href="../dep/nmod.html">nmod</a>]--> SYM</tt> (29; 100%),
-<tt>PROPN --[<a href="../dep/nmod.html">nmod</a>]--> NOUN</tt> (25; 53%),
-<tt>SYM --[<a href="../dep/case.html">case</a>]--> SYM</tt> (9; 100%),
-<tt>SYM --[<a href="../dep/orphan.html">orphan</a>]--> SYM</tt> (3; 100%),
-<tt>SYM --[<a href="../dep/appos.html">appos</a>]--> SYM</tt> (3; 100%),
-<tt>SYM --[<a href="../dep/advmod.html">advmod</a>]--> SYM</tt> (3; 100%),
-<tt>SYM --[<a href="../dep/nsubj.html">nsubj</a>]--> SYM</tt> (2; 100%),
-<tt>SYM --[<a href="../dep/dep.html">dep</a>]--> SYM</tt> (2; 100%).
+<tt>SYM --[<tt><a href="cs_cac-dep-conj.html">conj</a></tt>]--> SYM</tt> (124; 100%),
+<tt>PROPN --[<tt><a href="cs_cac-dep-conj.html">conj</a></tt>]--> PROPN</tt> (75; 75%),
+<tt>SYM --[<tt><a href="cs_cac-dep-nmod.html">nmod</a></tt>]--> SYM</tt> (29; 100%),
+<tt>PROPN --[<tt><a href="cs_cac-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (25; 53%),
+<tt>SYM --[<tt><a href="cs_cac-dep-case.html">case</a></tt>]--> SYM</tt> (9; 100%),
+<tt>SYM --[<tt><a href="cs_cac-dep-appos.html">appos</a></tt>]--> SYM</tt> (3; 100%),
+<tt>SYM --[<tt><a href="cs_cac-dep-advmod.html">advmod</a></tt>]--> SYM</tt> (3; 100%),
+<tt>SYM --[<tt><a href="cs_cac-dep-orphan.html">orphan</a></tt>]--> SYM</tt> (3; 100%),
+<tt>SYM --[<tt><a href="cs_cac-dep-dep.html">dep</a></tt>]--> SYM</tt> (2; 100%),
+<tt>SYM --[<tt><a href="cs_cac-dep-nsubj.html">nsubj</a></tt>]--> SYM</tt> (2; 100%).
 
