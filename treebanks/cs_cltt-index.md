@@ -27,14 +27,41 @@ Questions, comments?
 General annotation questions (either Czech-specific or cross-linguistic) can be raised in the [main UD issue tracker](https://github.com/UniversalDependencies/docs/issues).
 You can report bugs in this treebank in the [treebank-specific issue tracker on Github](https://github.com/UniversalDependencies/UD_Czech-CLTT/issues).
 If you want to collaborate, please contact [zeman&nbsp;(æt)&nbsp;ufal&nbsp;•&nbsp;mff&nbsp;•&nbsp;cuni&nbsp;•&nbsp;cz].
+Development of the treebank happens outside the UD repository.
+If there are bugs, either the original data source or the conversion procedure must be fixed.
+Do not submit pull requests against the UD repository.
 
 | Annotation | Source |
 |------------|--------|
-| Lemmas | (undocumented) |
-| UPOS | (undocumented) |
-| XPOS | (undocumented) |
-| Features | (undocumented) |
-| Relations | (undocumented) |
+| Lemmas | annotated manually in non-UD style, automatically converted to UD |
+| UPOS | annotated manually in non-UD style, automatically converted to UD |
+| XPOS | annotated manually |
+| Features | annotated manually in non-UD style, automatically converted to UD |
+| Relations | annotated manually in non-UD style, automatically converted to UD |
+
+The UD_Czech-CLTT treebank is based on the Czech Legal Text Treebank 1.0,
+created at Charles University in Prague.
+CLTT is a collection of 1125 manually annotated dependency trees. CLTT consists
+of two legal documents: The Accounting Act (563/1991 Coll., as amended) and
+Decree on Double-entry Accounting for undertakers (500/2002 Coll., as amended).
+
+See the following websites for more information on CLTT 1.0:
+
+* http://ufal.mff.cuni.cz/czech-legal-text-treebank
+* http://hdl.handle.net/11234/1-1516
+
+Acknowledgments
+
+We wish to thank all of the contributors to the original CLTT annotation effort,
+including Barbora Hladká, Vincent Kríž and Zdeňka Urešová.
+
+References
+
+* Vincent Kríž, Barbora Hladká and Zdeňka Urešová, 2015,
+  Czech Legal Text Treebank,
+  LINDAT/CLARIN digital library at Institute of Formal and Applied Linguistics,
+  Charles University in Prague,
+  http://hdl.handle.net/11234/1-1516.
 
 
 
