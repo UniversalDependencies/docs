@@ -104,7 +104,6 @@ Here is an example of the language metadata block from the [Czech README file](h
 
 This block should be the first thing in the README file. The properties are as follows:
 
-* `Data source` can be `automatic`, `semi-automatic`, or `manual`. Here, as a rough guidance, `manual` means that every word of every sentence has been manually checked, whereas `semi-automatic` means an automatic conversion with major manual checks of various types of constructions.
 * `Data available since` can be `UD v1.0`, `UD v1.1`, `UD v1.2`, `UD v1.3`, `UD v1.4`, `UD v2.0` and `UD v2.1`.
 * `License`: anything containing the string `BY-NC-SA` will be given the CC non-commercial logo, `BY-SA` or `BY` the CC logo, and `GNU` the GNU logo. To add any other license, please provide a suitable icon to ginter@cs.utu.fi and zeman@ufal.mff.cuni.cz.
   * `Includes text`: Most treebanks should say `yes` here. But there are a few instances where
