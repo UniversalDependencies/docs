@@ -12,7 +12,7 @@ Contents:
 
 * [Executive summary](#executive-summary)
 * [Repository and files](#repository-and-files)
-  - [Language metadata](#language-metadata)
+  - [Treebank metadata](#treebank-metadata)
   - [Repository branches](#repository-branches)
 * [Validation](#validation)
   - [Data format and repository](#data-format-and-repository)
@@ -21,7 +21,7 @@ Contents:
 
 # Executive summary
 
-* Make sure [your repository has the right files](#repository-and-files), [correct metadata](#language-metadata) in the README, and data being prepared for the next release [lives on the `dev` branch](#repository-branches).
+* Make sure [your repository has the right files](#repository-and-files), [correct metadata](#treebank-metadata) in the README, and data being prepared for the next release [lives on the `dev` branch](#repository-branches).
 * Make sure your data and repository pass the [format validation](#data-format-and-repository): [direct link](http://universaldependencies.org/validation.html) to the format validator output.
 * Make sure your data does not show major deviations in the [content validation](#syntax): [direct link](http://universaldependencies.org/svalidation.html) to the content validator output.
 
@@ -51,11 +51,12 @@ Repositories of released treebanks also contain a `stats.xml` file, which is gen
 
 The `README` file should minimally contain the following information:
 
-1. A description of the treebank and its origin (creation method, data sources, etc.)
-2. A description of how the data was split into training, development and test sets
-3. Basic statistics about number of sentences, tokens, etc.
-4. Acknowledgments and references that should be cited when using the treebank
-5. A machine-readable section with language metadata. This is described below.
+1. A machine-readable section with treebank metadata. This is described below.
+2. A description of the treebank and its origin (creation method, data sources, etc.)
+3. A description of how the data was split into training, development and test sets
+4. Basic statistics about number of sentences, tokens, etc.
+5. Acknowledgments and references that should be cited when using the treebank
+6. A Changelog section for treebanks that appear in more than one UD releases.
 
 Note that the basic statistics can be produced using the script `conllu-stats.py`available from the `tools` repository and run as follows:
 
@@ -71,12 +72,13 @@ Changelog
     * Corrected tokenization in sentences 123 and 456
 </pre>
 
-## Language metadata
+## Treebank metadata
 
-<strong>TODO: Actually, the metadata differ per treebank, not just per language.</strong>
+The table on the front page is automatically generated from special lines (metadata)
+in the `README.txt` or `README.md` file for every treebank. The metadata are used for various
+other automated tasks as well, for example the list of contributors to every UD release is
+collected from the READMEs.
 
-The table on the front page is automatically generated from special lines in the `README.txt` or `README.md` file for every language.
-The README file contains metadata used to generate the overview table on the UD main page: data source, license, genres etc.
 The metadata describe individual treebanks and there are often multiple treebanks per language.
 If we want to work on UD documentation for a new language without having actual data, we still
 must create a Github repository for the future treebank, and fill in the metadata so that the
@@ -84,7 +86,7 @@ language appears on the front page. The names of the contributors to the documen
 be listed among the treebank contributors, otherwise they will not be included in the overall
 UD list of contributors.
 
-Here is an example of the language metadata block from the [Czech README file](https://github.com/UniversalDependencies/UD_Czech/blob/master/README.txt)
+Here is an example of the treebank metadata block from the [Czech README file](https://github.com/UniversalDependencies/UD_Czech/blob/master/README.txt)
 
     === Machine-readable metadata (DO NOT REMOVE!) ================================
     Data available since: UD v1.0
