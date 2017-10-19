@@ -28,11 +28,11 @@ The most frequent other feature values with which `NOUN` and `Animacy` co-occurr
 
 <table>
   <tr><th>Paradigm <i>člen</i></th><th><tt>Anim</tt></th><th><tt>Inan</tt></th></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Number.html">Number</a>=Plur</tt></td><td>členy</td><td></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Dat|<a href="Number.html">Number</a>=Plur</tt></td><td>členům</td><td></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Number.html">Number</a>=Sing</tt></td><td>člena</td><td></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Number.html">Number</a>=Plur</tt></td><td>členů</td><td>členů</td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Ins|<a href="Number.html">Number</a>=Plur</tt></td><td>členy</td><td></td></tr>
+  <tr><td><tt><tt>[Case](cs_cltt-feat-Case.html)</tt><tt>=Acc</tt>|<tt>[Number](cs_cltt-feat-Number.html)</tt><tt>=Plur</tt></tt></td><td>členy</td><td></td></tr>
+  <tr><td><tt><tt>[Case](cs_cltt-feat-Case.html)</tt><tt>=Dat</tt>|<tt>[Number](cs_cltt-feat-Number.html)</tt><tt>=Plur</tt></tt></td><td>členům</td><td></td></tr>
+  <tr><td><tt><tt>[Case](cs_cltt-feat-Case.html)</tt><tt>=Gen</tt>|<tt>[Number](cs_cltt-feat-Number.html)</tt><tt>=Sing</tt></tt></td><td>člena</td><td></td></tr>
+  <tr><td><tt><tt>[Case](cs_cltt-feat-Case.html)</tt><tt>=Gen</tt>|<tt>[Number](cs_cltt-feat-Number.html)</tt><tt>=Plur</tt></tt></td><td>členů</td><td>členů</td></tr>
+  <tr><td><tt><tt>[Case](cs_cltt-feat-Case.html)</tt><tt>=Ins</tt>|<tt>[Number](cs_cltt-feat-Number.html)</tt><tt>=Plur</tt></tt></td><td>členy</td><td></td></tr>
 </table>
 
 `Animacy` seems to be **lexical feature** of `NOUN`. 100% lemmas (298) occur only with one value of `Animacy`.
@@ -51,17 +51,17 @@ The most frequent other feature values with which `ADJ` and `Animacy` co-occurre
 
 <table>
   <tr><th>Paradigm <i>právní</i></th><th><tt>Anim</tt></th><th><tt>Inan</tt></th></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Number.html">Number</a>=Sing</tt></td><td>právního</td><td>právní</td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Number.html">Number</a>=Plur</tt></td><td></td><td>právní</td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Dat|<a href="Number.html">Number</a>=Sing</tt></td><td></td><td>právnímu</td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Dat|<a href="Number.html">Number</a>=Plur</tt></td><td></td><td>právním</td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Number.html">Number</a>=Sing</tt></td><td></td><td>právního</td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Number.html">Number</a>=Plur</tt></td><td></td><td>právních</td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Ins|<a href="Number.html">Number</a>=Sing</tt></td><td></td><td>právním</td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Ins|<a href="Number.html">Number</a>=Plur</tt></td><td></td><td>právními</td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Loc|<a href="Number.html">Number</a>=Plur</tt></td><td></td><td>právních</td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Number.html">Number</a>=Sing</tt></td><td></td><td>právní</td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Number.html">Number</a>=Plur</tt></td><td></td><td>právní</td></tr>
+  <tr><td><tt><tt>[Case](cs_cltt-feat-Case.html)</tt><tt>=Acc</tt>|<tt>[Number](cs_cltt-feat-Number.html)</tt><tt>=Sing</tt></tt></td><td>právního</td><td>právní</td></tr>
+  <tr><td><tt><tt>[Case](cs_cltt-feat-Case.html)</tt><tt>=Acc</tt>|<tt>[Number](cs_cltt-feat-Number.html)</tt><tt>=Plur</tt></tt></td><td></td><td>právní</td></tr>
+  <tr><td><tt><tt>[Case](cs_cltt-feat-Case.html)</tt><tt>=Dat</tt>|<tt>[Number](cs_cltt-feat-Number.html)</tt><tt>=Sing</tt></tt></td><td></td><td>právnímu</td></tr>
+  <tr><td><tt><tt>[Case](cs_cltt-feat-Case.html)</tt><tt>=Dat</tt>|<tt>[Number](cs_cltt-feat-Number.html)</tt><tt>=Plur</tt></tt></td><td></td><td>právním</td></tr>
+  <tr><td><tt><tt>[Case](cs_cltt-feat-Case.html)</tt><tt>=Gen</tt>|<tt>[Number](cs_cltt-feat-Number.html)</tt><tt>=Sing</tt></tt></td><td></td><td>právního</td></tr>
+  <tr><td><tt><tt>[Case](cs_cltt-feat-Case.html)</tt><tt>=Gen</tt>|<tt>[Number](cs_cltt-feat-Number.html)</tt><tt>=Plur</tt></tt></td><td></td><td>právních</td></tr>
+  <tr><td><tt><tt>[Case](cs_cltt-feat-Case.html)</tt><tt>=Ins</tt>|<tt>[Number](cs_cltt-feat-Number.html)</tt><tt>=Sing</tt></tt></td><td></td><td>právním</td></tr>
+  <tr><td><tt><tt>[Case](cs_cltt-feat-Case.html)</tt><tt>=Ins</tt>|<tt>[Number](cs_cltt-feat-Number.html)</tt><tt>=Plur</tt></tt></td><td></td><td>právními</td></tr>
+  <tr><td><tt><tt>[Case](cs_cltt-feat-Case.html)</tt><tt>=Loc</tt>|<tt>[Number](cs_cltt-feat-Number.html)</tt><tt>=Plur</tt></tt></td><td></td><td>právních</td></tr>
+  <tr><td><tt><tt>[Case](cs_cltt-feat-Case.html)</tt><tt>=Nom</tt>|<tt>[Number](cs_cltt-feat-Number.html)</tt><tt>=Sing</tt></tt></td><td></td><td>právní</td></tr>
+  <tr><td><tt><tt>[Case](cs_cltt-feat-Case.html)</tt><tt>=Nom</tt>|<tt>[Number](cs_cltt-feat-Number.html)</tt><tt>=Plur</tt></tt></td><td></td><td>právní</td></tr>
 </table>
 
 `Animacy` seems to be **lexical feature** of `ADJ`. 91% lemmas (334) occur only with one value of `Animacy`.
@@ -80,8 +80,8 @@ The most frequent other feature values with which `VERB` and `Animacy` co-occurr
 
 <table>
   <tr><th>Paradigm <i>schválit</i></th><th><tt>Anim</tt></th><th><tt>Inan</tt></th></tr>
-  <tr><td><tt><a href="Gender.html">Gender</a>=Masc|<a href="Tense.html">Tense</a>=Past|<a href="Voice.html">Voice</a>=Act</tt></td><td>schválili</td><td></td></tr>
-  <tr><td><tt><a href="Gender.html">Gender</a>=Fem,Masc|<a href="Voice.html">Voice</a>=Pass</tt></td><td></td><td>schváleny</td></tr>
+  <tr><td><tt><tt>[Gender](cs_cltt-feat-Gender.html)</tt><tt>=Masc</tt>|<tt>[Tense](cs_cltt-feat-Tense.html)</tt><tt>=Past</tt>|<tt>[Voice](cs_cltt-feat-Voice.html)</tt><tt>=Act</tt></tt></td><td>schválili</td><td></td></tr>
+  <tr><td><tt><tt>[Gender](cs_cltt-feat-Gender.html)</tt><tt>=Fem,Masc</tt>|<tt>[Voice](cs_cltt-feat-Voice.html)</tt><tt>=Pass</tt></tt></td><td></td><td>schváleny</td></tr>
 </table>
 
 `Animacy` seems to be **lexical feature** of `VERB`. 99% lemmas (68) occur only with one value of `Animacy`.

@@ -27,11 +27,11 @@ The most frequent other feature values with which `NOUN` and `Polarity` co-occur
 
 <table>
   <tr><th>Paradigm <i>sestavení</i></th><th><tt>Pos</tt></th><th><tt>Neg</tt></th></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Acc</tt></td><td>sestavení</td><td></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Dat</tt></td><td>sestavení</td><td></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Gen</tt></td><td>sestavení</td><td>nesestavení</td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Loc</tt></td><td>sestavení</td><td></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Nom</tt></td><td>sestavení</td><td></td></tr>
+  <tr><td><tt><tt>[Case](cs_cltt-feat-Case.html)</tt><tt>=Acc</tt></tt></td><td>sestavení</td><td></td></tr>
+  <tr><td><tt><tt>[Case](cs_cltt-feat-Case.html)</tt><tt>=Dat</tt></tt></td><td>sestavení</td><td></td></tr>
+  <tr><td><tt><tt>[Case](cs_cltt-feat-Case.html)</tt><tt>=Gen</tt></tt></td><td>sestavení</td><td>nesestavení</td></tr>
+  <tr><td><tt><tt>[Case](cs_cltt-feat-Case.html)</tt><tt>=Loc</tt></tt></td><td>sestavení</td><td></td></tr>
+  <tr><td><tt><tt>[Case](cs_cltt-feat-Case.html)</tt><tt>=Nom</tt></tt></td><td>sestavení</td><td></td></tr>
 </table>
 
 `Polarity` seems to be **lexical feature** of `NOUN`. 99% lemmas (854) occur only with one value of `Polarity`.
@@ -50,32 +50,32 @@ The most frequent other feature values with which `ADJ` and `Polarity` co-occurr
 
 <table>
   <tr><th>Paradigm <i>uvedený</i></th><th><tt>Pos</tt></th><th><tt>Neg</tt></th></tr>
-  <tr><td><tt><a href="Animacy.html">Animacy</a>=Anim|<a href="Case.html">Case</a>=Acc|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Plur</tt></td><td></td><td>neuvedené</td></tr>
-  <tr><td><tt><a href="Animacy.html">Animacy</a>=Inan|<a href="Case.html">Case</a>=Acc|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Sing</tt></td><td>uvedený</td><td></td></tr>
-  <tr><td><tt><a href="Animacy.html">Animacy</a>=Inan|<a href="Case.html">Case</a>=Acc|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Plur</tt></td><td>uvedené</td><td></td></tr>
-  <tr><td><tt><a href="Animacy.html">Animacy</a>=Inan|<a href="Case.html">Case</a>=Dat|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Sing</tt></td><td>uvedenému</td><td></td></tr>
-  <tr><td><tt><a href="Animacy.html">Animacy</a>=Inan|<a href="Case.html">Case</a>=Gen|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Sing</tt></td><td>uvedeného</td><td></td></tr>
-  <tr><td><tt><a href="Animacy.html">Animacy</a>=Inan|<a href="Case.html">Case</a>=Gen|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Plur</tt></td><td>uvedených</td><td></td></tr>
-  <tr><td><tt><a href="Animacy.html">Animacy</a>=Inan|<a href="Case.html">Case</a>=Ins|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Sing</tt></td><td>uvedeným</td><td></td></tr>
-  <tr><td><tt><a href="Animacy.html">Animacy</a>=Inan|<a href="Case.html">Case</a>=Loc|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Sing</tt></td><td>uvedeném</td><td></td></tr>
-  <tr><td><tt><a href="Animacy.html">Animacy</a>=Inan|<a href="Case.html">Case</a>=Loc|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Plur</tt></td><td>uvedených</td><td></td></tr>
-  <tr><td><tt><a href="Animacy.html">Animacy</a>=Inan|<a href="Case.html">Case</a>=Nom|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Sing</tt></td><td>uvedený</td><td></td></tr>
-  <tr><td><tt><a href="Animacy.html">Animacy</a>=Inan|<a href="Case.html">Case</a>=Nom|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Plur</tt></td><td>uvedené</td><td></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Gender.html">Gender</a>=Fem|<a href="Number.html">Number</a>=Plur</tt></td><td>uvedené</td><td></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Gender.html">Gender</a>=Neut|<a href="Number.html">Number</a>=Sing</tt></td><td>uvedené</td><td></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Gender.html">Gender</a>=Neut|<a href="Number.html">Number</a>=Plur</tt></td><td>uvedená</td><td></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Dat|<a href="Gender.html">Gender</a>=Fem|<a href="Number.html">Number</a>=Sing</tt></td><td>uvedené</td><td></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Dat|<a href="Gender.html">Gender</a>=Fem|<a href="Number.html">Number</a>=Plur</tt></td><td>uvedeným</td><td></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Gender.html">Gender</a>=Fem|<a href="Number.html">Number</a>=Sing</tt></td><td>uvedené</td><td>neuvedené</td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Gender.html">Gender</a>=Fem|<a href="Number.html">Number</a>=Plur</tt></td><td>uvedených</td><td></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Gender.html">Gender</a>=Neut|<a href="Number.html">Number</a>=Plur</tt></td><td>uvedených</td><td></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Ins|<a href="Gender.html">Gender</a>=Fem|<a href="Number.html">Number</a>=Sing</tt></td><td>uvedenou</td><td></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Ins|<a href="Gender.html">Gender</a>=Fem|<a href="Number.html">Number</a>=Plur</tt></td><td>uvedenými</td><td></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Loc|<a href="Gender.html">Gender</a>=Fem|<a href="Number.html">Number</a>=Sing</tt></td><td>uvedené</td><td></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Loc|<a href="Gender.html">Gender</a>=Fem|<a href="Number.html">Number</a>=Plur</tt></td><td>uvedených</td><td></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Gender.html">Gender</a>=Fem|<a href="Number.html">Number</a>=Sing</tt></td><td>uvedená</td><td>neuvedená</td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Gender.html">Gender</a>=Fem|<a href="Number.html">Number</a>=Plur</tt></td><td>uvedené</td><td></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Gender.html">Gender</a>=Neut|<a href="Number.html">Number</a>=Plur</tt></td><td>uvedená</td><td></td></tr>
+  <tr><td><tt><tt>[Animacy](cs_cltt-feat-Animacy.html)</tt><tt>=Anim</tt>|<tt>[Case](cs_cltt-feat-Case.html)</tt><tt>=Acc</tt>|<tt>[Gender](cs_cltt-feat-Gender.html)</tt><tt>=Masc</tt>|<tt>[Number](cs_cltt-feat-Number.html)</tt><tt>=Plur</tt></tt></td><td></td><td>neuvedené</td></tr>
+  <tr><td><tt><tt>[Animacy](cs_cltt-feat-Animacy.html)</tt><tt>=Inan</tt>|<tt>[Case](cs_cltt-feat-Case.html)</tt><tt>=Acc</tt>|<tt>[Gender](cs_cltt-feat-Gender.html)</tt><tt>=Masc</tt>|<tt>[Number](cs_cltt-feat-Number.html)</tt><tt>=Sing</tt></tt></td><td>uvedený</td><td></td></tr>
+  <tr><td><tt><tt>[Animacy](cs_cltt-feat-Animacy.html)</tt><tt>=Inan</tt>|<tt>[Case](cs_cltt-feat-Case.html)</tt><tt>=Acc</tt>|<tt>[Gender](cs_cltt-feat-Gender.html)</tt><tt>=Masc</tt>|<tt>[Number](cs_cltt-feat-Number.html)</tt><tt>=Plur</tt></tt></td><td>uvedené</td><td></td></tr>
+  <tr><td><tt><tt>[Animacy](cs_cltt-feat-Animacy.html)</tt><tt>=Inan</tt>|<tt>[Case](cs_cltt-feat-Case.html)</tt><tt>=Dat</tt>|<tt>[Gender](cs_cltt-feat-Gender.html)</tt><tt>=Masc</tt>|<tt>[Number](cs_cltt-feat-Number.html)</tt><tt>=Sing</tt></tt></td><td>uvedenému</td><td></td></tr>
+  <tr><td><tt><tt>[Animacy](cs_cltt-feat-Animacy.html)</tt><tt>=Inan</tt>|<tt>[Case](cs_cltt-feat-Case.html)</tt><tt>=Gen</tt>|<tt>[Gender](cs_cltt-feat-Gender.html)</tt><tt>=Masc</tt>|<tt>[Number](cs_cltt-feat-Number.html)</tt><tt>=Sing</tt></tt></td><td>uvedeného</td><td></td></tr>
+  <tr><td><tt><tt>[Animacy](cs_cltt-feat-Animacy.html)</tt><tt>=Inan</tt>|<tt>[Case](cs_cltt-feat-Case.html)</tt><tt>=Gen</tt>|<tt>[Gender](cs_cltt-feat-Gender.html)</tt><tt>=Masc</tt>|<tt>[Number](cs_cltt-feat-Number.html)</tt><tt>=Plur</tt></tt></td><td>uvedených</td><td></td></tr>
+  <tr><td><tt><tt>[Animacy](cs_cltt-feat-Animacy.html)</tt><tt>=Inan</tt>|<tt>[Case](cs_cltt-feat-Case.html)</tt><tt>=Ins</tt>|<tt>[Gender](cs_cltt-feat-Gender.html)</tt><tt>=Masc</tt>|<tt>[Number](cs_cltt-feat-Number.html)</tt><tt>=Sing</tt></tt></td><td>uvedeným</td><td></td></tr>
+  <tr><td><tt><tt>[Animacy](cs_cltt-feat-Animacy.html)</tt><tt>=Inan</tt>|<tt>[Case](cs_cltt-feat-Case.html)</tt><tt>=Loc</tt>|<tt>[Gender](cs_cltt-feat-Gender.html)</tt><tt>=Masc</tt>|<tt>[Number](cs_cltt-feat-Number.html)</tt><tt>=Sing</tt></tt></td><td>uvedeném</td><td></td></tr>
+  <tr><td><tt><tt>[Animacy](cs_cltt-feat-Animacy.html)</tt><tt>=Inan</tt>|<tt>[Case](cs_cltt-feat-Case.html)</tt><tt>=Loc</tt>|<tt>[Gender](cs_cltt-feat-Gender.html)</tt><tt>=Masc</tt>|<tt>[Number](cs_cltt-feat-Number.html)</tt><tt>=Plur</tt></tt></td><td>uvedených</td><td></td></tr>
+  <tr><td><tt><tt>[Animacy](cs_cltt-feat-Animacy.html)</tt><tt>=Inan</tt>|<tt>[Case](cs_cltt-feat-Case.html)</tt><tt>=Nom</tt>|<tt>[Gender](cs_cltt-feat-Gender.html)</tt><tt>=Masc</tt>|<tt>[Number](cs_cltt-feat-Number.html)</tt><tt>=Sing</tt></tt></td><td>uvedený</td><td></td></tr>
+  <tr><td><tt><tt>[Animacy](cs_cltt-feat-Animacy.html)</tt><tt>=Inan</tt>|<tt>[Case](cs_cltt-feat-Case.html)</tt><tt>=Nom</tt>|<tt>[Gender](cs_cltt-feat-Gender.html)</tt><tt>=Masc</tt>|<tt>[Number](cs_cltt-feat-Number.html)</tt><tt>=Plur</tt></tt></td><td>uvedené</td><td></td></tr>
+  <tr><td><tt><tt>[Case](cs_cltt-feat-Case.html)</tt><tt>=Acc</tt>|<tt>[Gender](cs_cltt-feat-Gender.html)</tt><tt>=Fem</tt>|<tt>[Number](cs_cltt-feat-Number.html)</tt><tt>=Plur</tt></tt></td><td>uvedené</td><td></td></tr>
+  <tr><td><tt><tt>[Case](cs_cltt-feat-Case.html)</tt><tt>=Acc</tt>|<tt>[Gender](cs_cltt-feat-Gender.html)</tt><tt>=Neut</tt>|<tt>[Number](cs_cltt-feat-Number.html)</tt><tt>=Sing</tt></tt></td><td>uvedené</td><td></td></tr>
+  <tr><td><tt><tt>[Case](cs_cltt-feat-Case.html)</tt><tt>=Acc</tt>|<tt>[Gender](cs_cltt-feat-Gender.html)</tt><tt>=Neut</tt>|<tt>[Number](cs_cltt-feat-Number.html)</tt><tt>=Plur</tt></tt></td><td>uvedená</td><td></td></tr>
+  <tr><td><tt><tt>[Case](cs_cltt-feat-Case.html)</tt><tt>=Dat</tt>|<tt>[Gender](cs_cltt-feat-Gender.html)</tt><tt>=Fem</tt>|<tt>[Number](cs_cltt-feat-Number.html)</tt><tt>=Sing</tt></tt></td><td>uvedené</td><td></td></tr>
+  <tr><td><tt><tt>[Case](cs_cltt-feat-Case.html)</tt><tt>=Dat</tt>|<tt>[Gender](cs_cltt-feat-Gender.html)</tt><tt>=Fem</tt>|<tt>[Number](cs_cltt-feat-Number.html)</tt><tt>=Plur</tt></tt></td><td>uvedeným</td><td></td></tr>
+  <tr><td><tt><tt>[Case](cs_cltt-feat-Case.html)</tt><tt>=Gen</tt>|<tt>[Gender](cs_cltt-feat-Gender.html)</tt><tt>=Fem</tt>|<tt>[Number](cs_cltt-feat-Number.html)</tt><tt>=Sing</tt></tt></td><td>uvedené</td><td>neuvedené</td></tr>
+  <tr><td><tt><tt>[Case](cs_cltt-feat-Case.html)</tt><tt>=Gen</tt>|<tt>[Gender](cs_cltt-feat-Gender.html)</tt><tt>=Fem</tt>|<tt>[Number](cs_cltt-feat-Number.html)</tt><tt>=Plur</tt></tt></td><td>uvedených</td><td></td></tr>
+  <tr><td><tt><tt>[Case](cs_cltt-feat-Case.html)</tt><tt>=Gen</tt>|<tt>[Gender](cs_cltt-feat-Gender.html)</tt><tt>=Neut</tt>|<tt>[Number](cs_cltt-feat-Number.html)</tt><tt>=Plur</tt></tt></td><td>uvedených</td><td></td></tr>
+  <tr><td><tt><tt>[Case](cs_cltt-feat-Case.html)</tt><tt>=Ins</tt>|<tt>[Gender](cs_cltt-feat-Gender.html)</tt><tt>=Fem</tt>|<tt>[Number](cs_cltt-feat-Number.html)</tt><tt>=Sing</tt></tt></td><td>uvedenou</td><td></td></tr>
+  <tr><td><tt><tt>[Case](cs_cltt-feat-Case.html)</tt><tt>=Ins</tt>|<tt>[Gender](cs_cltt-feat-Gender.html)</tt><tt>=Fem</tt>|<tt>[Number](cs_cltt-feat-Number.html)</tt><tt>=Plur</tt></tt></td><td>uvedenými</td><td></td></tr>
+  <tr><td><tt><tt>[Case](cs_cltt-feat-Case.html)</tt><tt>=Loc</tt>|<tt>[Gender](cs_cltt-feat-Gender.html)</tt><tt>=Fem</tt>|<tt>[Number](cs_cltt-feat-Number.html)</tt><tt>=Sing</tt></tt></td><td>uvedené</td><td></td></tr>
+  <tr><td><tt><tt>[Case](cs_cltt-feat-Case.html)</tt><tt>=Loc</tt>|<tt>[Gender](cs_cltt-feat-Gender.html)</tt><tt>=Fem</tt>|<tt>[Number](cs_cltt-feat-Number.html)</tt><tt>=Plur</tt></tt></td><td>uvedených</td><td></td></tr>
+  <tr><td><tt><tt>[Case](cs_cltt-feat-Case.html)</tt><tt>=Nom</tt>|<tt>[Gender](cs_cltt-feat-Gender.html)</tt><tt>=Fem</tt>|<tt>[Number](cs_cltt-feat-Number.html)</tt><tt>=Sing</tt></tt></td><td>uvedená</td><td>neuvedená</td></tr>
+  <tr><td><tt><tt>[Case](cs_cltt-feat-Case.html)</tt><tt>=Nom</tt>|<tt>[Gender](cs_cltt-feat-Gender.html)</tt><tt>=Fem</tt>|<tt>[Number](cs_cltt-feat-Number.html)</tt><tt>=Plur</tt></tt></td><td>uvedené</td><td></td></tr>
+  <tr><td><tt><tt>[Case](cs_cltt-feat-Case.html)</tt><tt>=Nom</tt>|<tt>[Gender](cs_cltt-feat-Gender.html)</tt><tt>=Neut</tt>|<tt>[Number](cs_cltt-feat-Number.html)</tt><tt>=Plur</tt></tt></td><td>uvedená</td><td></td></tr>
 </table>
 
 `Polarity` seems to be **lexical feature** of `ADJ`. 95% lemmas (606) occur only with one value of `Polarity`.
@@ -93,10 +93,10 @@ The most frequent other feature values with which `VERB` and `Polarity` co-occur
 
 <table>
   <tr><th>Paradigm <i>obsahovat</i></th><th><tt>Pos</tt></th><th><tt>Neg</tt></th></tr>
-  <tr><td><tt><a href="Gender.html">Gender</a>=Fem,Neut|<a href="Number.html">Number</a>=Plur,Sing|<a href="Tense.html">Tense</a>=Past|<a href="VerbForm.html">VerbForm</a>=Part|<a href="Voice.html">Voice</a>=Act</tt></td><td></td><td>neobsahovala</td></tr>
-  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Pres|<a href="VerbForm.html">VerbForm</a>=Fin|<a href="Voice.html">Voice</a>=Act</tt></td><td>obsahuje</td><td>neobsahuje</td></tr>
-  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Pres|<a href="VerbForm.html">VerbForm</a>=Fin|<a href="Voice.html">Voice</a>=Act</tt></td><td>obsahují</td><td></td></tr>
-  <tr><td><tt><a href="VerbForm.html">VerbForm</a>=Inf</tt></td><td>obsahovat</td><td></td></tr>
+  <tr><td><tt><tt>[Gender](cs_cltt-feat-Gender.html)</tt><tt>=Fem,Neut</tt>|<tt>[Number](cs_cltt-feat-Number.html)</tt><tt>=Plur,Sing</tt>|<tt>[Tense](cs_cltt-feat-Tense.html)</tt><tt>=Past</tt>|<tt>[VerbForm](cs_cltt-feat-VerbForm.html)</tt><tt>=Part</tt>|<tt>[Voice](cs_cltt-feat-Voice.html)</tt><tt>=Act</tt></tt></td><td></td><td>neobsahovala</td></tr>
+  <tr><td><tt><tt>[Mood](cs_cltt-feat-Mood.html)</tt><tt>=Ind</tt>|<tt>[Number](cs_cltt-feat-Number.html)</tt><tt>=Sing</tt>|<tt>[Person](cs_cltt-feat-Person.html)</tt><tt>=3</tt>|<tt>[Tense](cs_cltt-feat-Tense.html)</tt><tt>=Pres</tt>|<tt>[VerbForm](cs_cltt-feat-VerbForm.html)</tt><tt>=Fin</tt>|<tt>[Voice](cs_cltt-feat-Voice.html)</tt><tt>=Act</tt></tt></td><td>obsahuje</td><td>neobsahuje</td></tr>
+  <tr><td><tt><tt>[Mood](cs_cltt-feat-Mood.html)</tt><tt>=Ind</tt>|<tt>[Number](cs_cltt-feat-Number.html)</tt><tt>=Plur</tt>|<tt>[Person](cs_cltt-feat-Person.html)</tt><tt>=3</tt>|<tt>[Tense](cs_cltt-feat-Tense.html)</tt><tt>=Pres</tt>|<tt>[VerbForm](cs_cltt-feat-VerbForm.html)</tt><tt>=Fin</tt>|<tt>[Voice](cs_cltt-feat-Voice.html)</tt><tt>=Act</tt></tt></td><td>obsahují</td><td></td></tr>
+  <tr><td><tt><tt>[VerbForm](cs_cltt-feat-VerbForm.html)</tt><tt>=Inf</tt></tt></td><td>obsahovat</td><td></td></tr>
 </table>
 
 ### `AUX`
@@ -113,15 +113,15 @@ The most frequent other feature values with which `AUX` and `Polarity` co-occurr
 
 <table>
   <tr><th>Paradigm <i>být</i></th><th><tt>Pos</tt></th><th><tt>Neg</tt></th></tr>
-  <tr><td><tt><a href="Animacy.html">Animacy</a>=Inan|<a href="Gender.html">Gender</a>=Fem,Masc|<a href="Number.html">Number</a>=Plur|<a href="Tense.html">Tense</a>=Past|<a href="VerbForm.html">VerbForm</a>=Part|<a href="Voice.html">Voice</a>=Act</tt></td><td>byly</td><td>nebyly</td></tr>
-  <tr><td><tt><a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Sing|<a href="Tense.html">Tense</a>=Past|<a href="VerbForm.html">VerbForm</a>=Part|<a href="Voice.html">Voice</a>=Act</tt></td><td>byl</td><td>nebyl</td></tr>
-  <tr><td><tt><a href="Gender.html">Gender</a>=Fem,Neut|<a href="Number.html">Number</a>=Plur,Sing|<a href="Tense.html">Tense</a>=Past|<a href="VerbForm.html">VerbForm</a>=Part|<a href="Voice.html">Voice</a>=Act</tt></td><td>byla</td><td>nebyla</td></tr>
-  <tr><td><tt><a href="Gender.html">Gender</a>=Neut|<a href="Number.html">Number</a>=Sing|<a href="Tense.html">Tense</a>=Past|<a href="VerbForm.html">VerbForm</a>=Part|<a href="Voice.html">Voice</a>=Act</tt></td><td>bylo</td><td></td></tr>
-  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Fut|<a href="VerbForm.html">VerbForm</a>=Fin|<a href="Voice.html">Voice</a>=Act</tt></td><td>bude</td><td></td></tr>
-  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Pres|<a href="VerbForm.html">VerbForm</a>=Fin|<a href="Voice.html">Voice</a>=Act</tt></td><td>je, není</td><td></td></tr>
-  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Fut|<a href="VerbForm.html">VerbForm</a>=Fin|<a href="Voice.html">Voice</a>=Act</tt></td><td>budou</td><td></td></tr>
-  <tr><td><tt><a href="Mood.html">Mood</a>=Ind|<a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=3|<a href="Tense.html">Tense</a>=Pres|<a href="VerbForm.html">VerbForm</a>=Fin|<a href="Voice.html">Voice</a>=Act</tt></td><td>jsou</td><td>nejsou</td></tr>
-  <tr><td><tt><a href="VerbForm.html">VerbForm</a>=Inf</tt></td><td>být</td><td></td></tr>
+  <tr><td><tt><tt>[Animacy](cs_cltt-feat-Animacy.html)</tt><tt>=Inan</tt>|<tt>[Gender](cs_cltt-feat-Gender.html)</tt><tt>=Fem,Masc</tt>|<tt>[Number](cs_cltt-feat-Number.html)</tt><tt>=Plur</tt>|<tt>[Tense](cs_cltt-feat-Tense.html)</tt><tt>=Past</tt>|<tt>[VerbForm](cs_cltt-feat-VerbForm.html)</tt><tt>=Part</tt>|<tt>[Voice](cs_cltt-feat-Voice.html)</tt><tt>=Act</tt></tt></td><td>byly</td><td>nebyly</td></tr>
+  <tr><td><tt><tt>[Gender](cs_cltt-feat-Gender.html)</tt><tt>=Masc</tt>|<tt>[Number](cs_cltt-feat-Number.html)</tt><tt>=Sing</tt>|<tt>[Tense](cs_cltt-feat-Tense.html)</tt><tt>=Past</tt>|<tt>[VerbForm](cs_cltt-feat-VerbForm.html)</tt><tt>=Part</tt>|<tt>[Voice](cs_cltt-feat-Voice.html)</tt><tt>=Act</tt></tt></td><td>byl</td><td>nebyl</td></tr>
+  <tr><td><tt><tt>[Gender](cs_cltt-feat-Gender.html)</tt><tt>=Fem,Neut</tt>|<tt>[Number](cs_cltt-feat-Number.html)</tt><tt>=Plur,Sing</tt>|<tt>[Tense](cs_cltt-feat-Tense.html)</tt><tt>=Past</tt>|<tt>[VerbForm](cs_cltt-feat-VerbForm.html)</tt><tt>=Part</tt>|<tt>[Voice](cs_cltt-feat-Voice.html)</tt><tt>=Act</tt></tt></td><td>byla</td><td>nebyla</td></tr>
+  <tr><td><tt><tt>[Gender](cs_cltt-feat-Gender.html)</tt><tt>=Neut</tt>|<tt>[Number](cs_cltt-feat-Number.html)</tt><tt>=Sing</tt>|<tt>[Tense](cs_cltt-feat-Tense.html)</tt><tt>=Past</tt>|<tt>[VerbForm](cs_cltt-feat-VerbForm.html)</tt><tt>=Part</tt>|<tt>[Voice](cs_cltt-feat-Voice.html)</tt><tt>=Act</tt></tt></td><td>bylo</td><td></td></tr>
+  <tr><td><tt><tt>[Mood](cs_cltt-feat-Mood.html)</tt><tt>=Ind</tt>|<tt>[Number](cs_cltt-feat-Number.html)</tt><tt>=Sing</tt>|<tt>[Person](cs_cltt-feat-Person.html)</tt><tt>=3</tt>|<tt>[Tense](cs_cltt-feat-Tense.html)</tt><tt>=Fut</tt>|<tt>[VerbForm](cs_cltt-feat-VerbForm.html)</tt><tt>=Fin</tt>|<tt>[Voice](cs_cltt-feat-Voice.html)</tt><tt>=Act</tt></tt></td><td>bude</td><td></td></tr>
+  <tr><td><tt><tt>[Mood](cs_cltt-feat-Mood.html)</tt><tt>=Ind</tt>|<tt>[Number](cs_cltt-feat-Number.html)</tt><tt>=Sing</tt>|<tt>[Person](cs_cltt-feat-Person.html)</tt><tt>=3</tt>|<tt>[Tense](cs_cltt-feat-Tense.html)</tt><tt>=Pres</tt>|<tt>[VerbForm](cs_cltt-feat-VerbForm.html)</tt><tt>=Fin</tt>|<tt>[Voice](cs_cltt-feat-Voice.html)</tt><tt>=Act</tt></tt></td><td>je, není</td><td></td></tr>
+  <tr><td><tt><tt>[Mood](cs_cltt-feat-Mood.html)</tt><tt>=Ind</tt>|<tt>[Number](cs_cltt-feat-Number.html)</tt><tt>=Plur</tt>|<tt>[Person](cs_cltt-feat-Person.html)</tt><tt>=3</tt>|<tt>[Tense](cs_cltt-feat-Tense.html)</tt><tt>=Fut</tt>|<tt>[VerbForm](cs_cltt-feat-VerbForm.html)</tt><tt>=Fin</tt>|<tt>[Voice](cs_cltt-feat-Voice.html)</tt><tt>=Act</tt></tt></td><td>budou</td><td></td></tr>
+  <tr><td><tt><tt>[Mood](cs_cltt-feat-Mood.html)</tt><tt>=Ind</tt>|<tt>[Number](cs_cltt-feat-Number.html)</tt><tt>=Plur</tt>|<tt>[Person](cs_cltt-feat-Person.html)</tt><tt>=3</tt>|<tt>[Tense](cs_cltt-feat-Tense.html)</tt><tt>=Pres</tt>|<tt>[VerbForm](cs_cltt-feat-VerbForm.html)</tt><tt>=Fin</tt>|<tt>[Voice](cs_cltt-feat-Voice.html)</tt><tt>=Act</tt></tt></td><td>jsou</td><td>nejsou</td></tr>
+  <tr><td><tt><tt>[VerbForm](cs_cltt-feat-VerbForm.html)</tt><tt>=Inf</tt></tt></td><td>být</td><td></td></tr>
 </table>
 
 ### `ADV`

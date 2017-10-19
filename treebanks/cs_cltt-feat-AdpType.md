@@ -26,8 +26,8 @@ The feature is used with 1 part-of-speech tags: <tt>[ADP](cs_cltt-pos-ADP.html)<
 
 <table>
   <tr><th>Paradigm <i>v</i></th><th><tt>Prep</tt></th><th><tt>Voc</tt></th></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Acc</tt></td><td>v</td><td>ve</td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Loc</tt></td><td>v</td><td>ve</td></tr>
+  <tr><td><tt><tt>[Case](cs_cltt-feat-Case.html)</tt><tt>=Acc</tt></tt></td><td>v</td><td>ve</td></tr>
+  <tr><td><tt><tt>[Case](cs_cltt-feat-Case.html)</tt><tt>=Loc</tt></tt></td><td>v</td><td>ve</td></tr>
 </table>
 
 ## Relations with Agreement in `AdpType`

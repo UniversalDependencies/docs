@@ -29,16 +29,16 @@ The most frequent other feature values with which `ADJ` and `Degree` co-occurred
 
 <table>
   <tr><th>Paradigm <i>vysoký</i></th><th><tt>Cmp</tt></th><th><tt>Sup</tt></th></tr>
-  <tr><td><tt><a href="Animacy.html">Animacy</a>=Anim|<a href="Case.html">Case</a>=Nom|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Plur</tt></td><td>vyšší</td><td></td></tr>
-  <tr><td><tt><a href="Animacy.html">Animacy</a>=Inan|<a href="Case.html">Case</a>=Gen|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Sing</tt></td><td></td><td>nejvyššího</td></tr>
-  <tr><td><tt><a href="Animacy.html">Animacy</a>=Inan|<a href="Case.html">Case</a>=Gen|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Plur</tt></td><td>vyšších</td><td></td></tr>
-  <tr><td><tt><a href="Animacy.html">Animacy</a>=Inan|<a href="Case.html">Case</a>=Ins|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Sing</tt></td><td></td><td>nejvyšším</td></tr>
-  <tr><td><tt><a href="Animacy.html">Animacy</a>=Inan|<a href="Case.html">Case</a>=Nom|<a href="Gender.html">Gender</a>=Masc|<a href="Number.html">Number</a>=Sing</tt></td><td>vyšší</td><td>nejvyšší</td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Gender.html">Gender</a>=Fem|<a href="Number.html">Number</a>=Sing</tt></td><td>vyšší</td><td></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Gender.html">Gender</a>=Fem|<a href="Number.html">Number</a>=Sing</tt></td><td>vyšší</td><td></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Gender.html">Gender</a>=Fem|<a href="Number.html">Number</a>=Sing</tt></td><td>vyšší</td><td>nejvyšší</td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Gender.html">Gender</a>=Fem|<a href="Number.html">Number</a>=Plur</tt></td><td>vyšší</td><td></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Gender.html">Gender</a>=Neut|<a href="Number.html">Number</a>=Sing</tt></td><td>vyšší</td><td></td></tr>
+  <tr><td><tt><tt>[Animacy](cs_cltt-feat-Animacy.html)</tt><tt>=Anim</tt>|<tt>[Case](cs_cltt-feat-Case.html)</tt><tt>=Nom</tt>|<tt>[Gender](cs_cltt-feat-Gender.html)</tt><tt>=Masc</tt>|<tt>[Number](cs_cltt-feat-Number.html)</tt><tt>=Plur</tt></tt></td><td>vyšší</td><td></td></tr>
+  <tr><td><tt><tt>[Animacy](cs_cltt-feat-Animacy.html)</tt><tt>=Inan</tt>|<tt>[Case](cs_cltt-feat-Case.html)</tt><tt>=Gen</tt>|<tt>[Gender](cs_cltt-feat-Gender.html)</tt><tt>=Masc</tt>|<tt>[Number](cs_cltt-feat-Number.html)</tt><tt>=Sing</tt></tt></td><td></td><td>nejvyššího</td></tr>
+  <tr><td><tt><tt>[Animacy](cs_cltt-feat-Animacy.html)</tt><tt>=Inan</tt>|<tt>[Case](cs_cltt-feat-Case.html)</tt><tt>=Gen</tt>|<tt>[Gender](cs_cltt-feat-Gender.html)</tt><tt>=Masc</tt>|<tt>[Number](cs_cltt-feat-Number.html)</tt><tt>=Plur</tt></tt></td><td>vyšších</td><td></td></tr>
+  <tr><td><tt><tt>[Animacy](cs_cltt-feat-Animacy.html)</tt><tt>=Inan</tt>|<tt>[Case](cs_cltt-feat-Case.html)</tt><tt>=Ins</tt>|<tt>[Gender](cs_cltt-feat-Gender.html)</tt><tt>=Masc</tt>|<tt>[Number](cs_cltt-feat-Number.html)</tt><tt>=Sing</tt></tt></td><td></td><td>nejvyšším</td></tr>
+  <tr><td><tt><tt>[Animacy](cs_cltt-feat-Animacy.html)</tt><tt>=Inan</tt>|<tt>[Case](cs_cltt-feat-Case.html)</tt><tt>=Nom</tt>|<tt>[Gender](cs_cltt-feat-Gender.html)</tt><tt>=Masc</tt>|<tt>[Number](cs_cltt-feat-Number.html)</tt><tt>=Sing</tt></tt></td><td>vyšší</td><td>nejvyšší</td></tr>
+  <tr><td><tt><tt>[Case](cs_cltt-feat-Case.html)</tt><tt>=Acc</tt>|<tt>[Gender](cs_cltt-feat-Gender.html)</tt><tt>=Fem</tt>|<tt>[Number](cs_cltt-feat-Number.html)</tt><tt>=Sing</tt></tt></td><td>vyšší</td><td></td></tr>
+  <tr><td><tt><tt>[Case](cs_cltt-feat-Case.html)</tt><tt>=Gen</tt>|<tt>[Gender](cs_cltt-feat-Gender.html)</tt><tt>=Fem</tt>|<tt>[Number](cs_cltt-feat-Number.html)</tt><tt>=Sing</tt></tt></td><td>vyšší</td><td></td></tr>
+  <tr><td><tt><tt>[Case](cs_cltt-feat-Case.html)</tt><tt>=Nom</tt>|<tt>[Gender](cs_cltt-feat-Gender.html)</tt><tt>=Fem</tt>|<tt>[Number](cs_cltt-feat-Number.html)</tt><tt>=Sing</tt></tt></td><td>vyšší</td><td>nejvyšší</td></tr>
+  <tr><td><tt><tt>[Case](cs_cltt-feat-Case.html)</tt><tt>=Nom</tt>|<tt>[Gender](cs_cltt-feat-Gender.html)</tt><tt>=Fem</tt>|<tt>[Number](cs_cltt-feat-Number.html)</tt><tt>=Plur</tt></tt></td><td>vyšší</td><td></td></tr>
+  <tr><td><tt><tt>[Case](cs_cltt-feat-Case.html)</tt><tt>=Nom</tt>|<tt>[Gender](cs_cltt-feat-Gender.html)</tt><tt>=Neut</tt>|<tt>[Number](cs_cltt-feat-Number.html)</tt><tt>=Sing</tt></tt></td><td>vyšší</td><td></td></tr>
 </table>
 
 `Degree` seems to be **lexical feature** of `ADJ`. 99% lemmas (578) occur only with one value of `Degree`.

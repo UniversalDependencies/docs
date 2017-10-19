@@ -41,12 +41,12 @@ The most frequent other feature values with which `AUX` and `Mood` co-occurred: 
 
 <table>
   <tr><th>Paradigm <i>být</i></th><th><tt>Ind</tt></th><th><tt>Cnd</tt></th></tr>
-  <tr><td><tt><a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3|<a href="Polarity.html">Polarity</a>=Pos|<a href="Tense.html">Tense</a>=Fut|<a href="Voice.html">Voice</a>=Act</tt></td><td>bude</td><td></td></tr>
-  <tr><td><tt><a href="Number.html">Number</a>=Sing|<a href="Person.html">Person</a>=3|<a href="Polarity.html">Polarity</a>=Pos|<a href="Tense.html">Tense</a>=Pres|<a href="Voice.html">Voice</a>=Act</tt></td><td>je, není</td><td></td></tr>
-  <tr><td><tt><a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=3|<a href="Polarity.html">Polarity</a>=Neg|<a href="Tense.html">Tense</a>=Pres|<a href="Voice.html">Voice</a>=Act</tt></td><td>nejsou</td><td></td></tr>
-  <tr><td><tt><a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=3|<a href="Polarity.html">Polarity</a>=Pos|<a href="Tense.html">Tense</a>=Fut|<a href="Voice.html">Voice</a>=Act</tt></td><td>budou</td><td></td></tr>
-  <tr><td><tt><a href="Number.html">Number</a>=Plur|<a href="Person.html">Person</a>=3|<a href="Polarity.html">Polarity</a>=Pos|<a href="Tense.html">Tense</a>=Pres|<a href="Voice.html">Voice</a>=Act</tt></td><td>jsou</td><td></td></tr>
-  <tr><td><tt><a href="Person.html">Person</a>=3</tt></td><td></td><td>by</td></tr>
+  <tr><td><tt><tt>[Number](cs_cltt-feat-Number.html)</tt><tt>=Sing</tt>|<tt>[Person](cs_cltt-feat-Person.html)</tt><tt>=3</tt>|<tt>[Polarity](cs_cltt-feat-Polarity.html)</tt><tt>=Pos</tt>|<tt>[Tense](cs_cltt-feat-Tense.html)</tt><tt>=Fut</tt>|<tt>[Voice](cs_cltt-feat-Voice.html)</tt><tt>=Act</tt></tt></td><td>bude</td><td></td></tr>
+  <tr><td><tt><tt>[Number](cs_cltt-feat-Number.html)</tt><tt>=Sing</tt>|<tt>[Person](cs_cltt-feat-Person.html)</tt><tt>=3</tt>|<tt>[Polarity](cs_cltt-feat-Polarity.html)</tt><tt>=Pos</tt>|<tt>[Tense](cs_cltt-feat-Tense.html)</tt><tt>=Pres</tt>|<tt>[Voice](cs_cltt-feat-Voice.html)</tt><tt>=Act</tt></tt></td><td>je, není</td><td></td></tr>
+  <tr><td><tt><tt>[Number](cs_cltt-feat-Number.html)</tt><tt>=Plur</tt>|<tt>[Person](cs_cltt-feat-Person.html)</tt><tt>=3</tt>|<tt>[Polarity](cs_cltt-feat-Polarity.html)</tt><tt>=Neg</tt>|<tt>[Tense](cs_cltt-feat-Tense.html)</tt><tt>=Pres</tt>|<tt>[Voice](cs_cltt-feat-Voice.html)</tt><tt>=Act</tt></tt></td><td>nejsou</td><td></td></tr>
+  <tr><td><tt><tt>[Number](cs_cltt-feat-Number.html)</tt><tt>=Plur</tt>|<tt>[Person](cs_cltt-feat-Person.html)</tt><tt>=3</tt>|<tt>[Polarity](cs_cltt-feat-Polarity.html)</tt><tt>=Pos</tt>|<tt>[Tense](cs_cltt-feat-Tense.html)</tt><tt>=Fut</tt>|<tt>[Voice](cs_cltt-feat-Voice.html)</tt><tt>=Act</tt></tt></td><td>budou</td><td></td></tr>
+  <tr><td><tt><tt>[Number](cs_cltt-feat-Number.html)</tt><tt>=Plur</tt>|<tt>[Person](cs_cltt-feat-Person.html)</tt><tt>=3</tt>|<tt>[Polarity](cs_cltt-feat-Polarity.html)</tt><tt>=Pos</tt>|<tt>[Tense](cs_cltt-feat-Tense.html)</tt><tt>=Pres</tt>|<tt>[Voice](cs_cltt-feat-Voice.html)</tt><tt>=Act</tt></tt></td><td>jsou</td><td></td></tr>
+  <tr><td><tt><tt>[Person](cs_cltt-feat-Person.html)</tt><tt>=3</tt></tt></td><td></td><td>by</td></tr>
   <tr><td><tt></tt></td><td></td><td>by</td></tr>
 </table>
 

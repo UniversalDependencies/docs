@@ -28,18 +28,18 @@ The most frequent other feature values with which `DET` and `Gender[psor]` co-oc
 
 <table>
   <tr><th>Paradigm <i>jeho</i></th><th><tt>Fem</tt></th><th><tt>Masc,Neut</tt></th></tr>
-  <tr><td><tt><a href="Animacy.html">Animacy</a>=Inan|<a href="Case.html">Case</a>=Acc|<a href="Gender.html">Gender</a>=Masc|<a href="Gender[psor].html">Gender[psor]</a>=Fem|<a href="Number.html">Number</a>=Sing</tt></td><td>její</td><td></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Acc|<a href="Gender.html">Gender</a>=Neut|<a href="Gender[psor].html">Gender[psor]</a>=Fem|<a href="Number.html">Number</a>=Sing</tt></td><td>její</td><td></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Dat|<a href="Gender.html">Gender</a>=Masc,Neut|<a href="Gender[psor].html">Gender[psor]</a>=Fem|<a href="Number.html">Number</a>=Sing</tt></td><td>jejímu</td><td></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Gender.html">Gender</a>=Masc,Neut|<a href="Gender[psor].html">Gender[psor]</a>=Fem|<a href="Number.html">Number</a>=Sing</tt></td><td>jejího</td><td></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Gen|<a href="Gender[psor].html">Gender[psor]</a>=Fem|<a href="Number.html">Number</a>=Plur</tt></td><td>jejích</td><td></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Ins|<a href="Gender.html">Gender</a>=Masc,Neut|<a href="Gender[psor].html">Gender[psor]</a>=Fem|<a href="Number.html">Number</a>=Sing</tt></td><td>jejím</td><td></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Ins|<a href="Gender[psor].html">Gender[psor]</a>=Fem|<a href="Number.html">Number</a>=Plur</tt></td><td>jejími</td><td></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Loc|<a href="Gender.html">Gender</a>=Masc,Neut|<a href="Gender[psor].html">Gender[psor]</a>=Fem|<a href="Number.html">Number</a>=Sing</tt></td><td>jejím</td><td></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Gender.html">Gender</a>=Masc,Neut|<a href="Gender[psor].html">Gender[psor]</a>=Fem|<a href="Number.html">Number</a>=Sing</tt></td><td>její</td><td></td></tr>
-  <tr><td><tt><a href="Case.html">Case</a>=Nom|<a href="Gender[psor].html">Gender[psor]</a>=Fem|<a href="Number.html">Number</a>=Plur</tt></td><td>její</td><td></td></tr>
-  <tr><td><tt><a href="Gender.html">Gender</a>=Fem|<a href="Gender[psor].html">Gender[psor]</a>=Fem|<a href="Number.html">Number</a>=Sing</tt></td><td>její</td><td></td></tr>
-  <tr><td><tt><a href="Gender[psor].html">Gender[psor]</a>=Masc,Neut</tt></td><td></td><td>jeho</td></tr>
+  <tr><td><tt><tt>[Animacy](cs_cltt-feat-Animacy.html)</tt><tt>=Inan</tt>|<tt>[Case](cs_cltt-feat-Case.html)</tt><tt>=Acc</tt>|<tt>[Gender](cs_cltt-feat-Gender.html)</tt><tt>=Masc</tt>|<tt>[Gender[psor]](cs_cltt-feat-Gender-psor.html)</tt><tt>=Fem</tt>|<tt>[Number](cs_cltt-feat-Number.html)</tt><tt>=Sing</tt></tt></td><td>její</td><td></td></tr>
+  <tr><td><tt><tt>[Case](cs_cltt-feat-Case.html)</tt><tt>=Acc</tt>|<tt>[Gender](cs_cltt-feat-Gender.html)</tt><tt>=Neut</tt>|<tt>[Gender[psor]](cs_cltt-feat-Gender-psor.html)</tt><tt>=Fem</tt>|<tt>[Number](cs_cltt-feat-Number.html)</tt><tt>=Sing</tt></tt></td><td>její</td><td></td></tr>
+  <tr><td><tt><tt>[Case](cs_cltt-feat-Case.html)</tt><tt>=Dat</tt>|<tt>[Gender](cs_cltt-feat-Gender.html)</tt><tt>=Masc,Neut</tt>|<tt>[Gender[psor]](cs_cltt-feat-Gender-psor.html)</tt><tt>=Fem</tt>|<tt>[Number](cs_cltt-feat-Number.html)</tt><tt>=Sing</tt></tt></td><td>jejímu</td><td></td></tr>
+  <tr><td><tt><tt>[Case](cs_cltt-feat-Case.html)</tt><tt>=Gen</tt>|<tt>[Gender](cs_cltt-feat-Gender.html)</tt><tt>=Masc,Neut</tt>|<tt>[Gender[psor]](cs_cltt-feat-Gender-psor.html)</tt><tt>=Fem</tt>|<tt>[Number](cs_cltt-feat-Number.html)</tt><tt>=Sing</tt></tt></td><td>jejího</td><td></td></tr>
+  <tr><td><tt><tt>[Case](cs_cltt-feat-Case.html)</tt><tt>=Gen</tt>|<tt>[Gender[psor]](cs_cltt-feat-Gender-psor.html)</tt><tt>=Fem</tt>|<tt>[Number](cs_cltt-feat-Number.html)</tt><tt>=Plur</tt></tt></td><td>jejích</td><td></td></tr>
+  <tr><td><tt><tt>[Case](cs_cltt-feat-Case.html)</tt><tt>=Ins</tt>|<tt>[Gender](cs_cltt-feat-Gender.html)</tt><tt>=Masc,Neut</tt>|<tt>[Gender[psor]](cs_cltt-feat-Gender-psor.html)</tt><tt>=Fem</tt>|<tt>[Number](cs_cltt-feat-Number.html)</tt><tt>=Sing</tt></tt></td><td>jejím</td><td></td></tr>
+  <tr><td><tt><tt>[Case](cs_cltt-feat-Case.html)</tt><tt>=Ins</tt>|<tt>[Gender[psor]](cs_cltt-feat-Gender-psor.html)</tt><tt>=Fem</tt>|<tt>[Number](cs_cltt-feat-Number.html)</tt><tt>=Plur</tt></tt></td><td>jejími</td><td></td></tr>
+  <tr><td><tt><tt>[Case](cs_cltt-feat-Case.html)</tt><tt>=Loc</tt>|<tt>[Gender](cs_cltt-feat-Gender.html)</tt><tt>=Masc,Neut</tt>|<tt>[Gender[psor]](cs_cltt-feat-Gender-psor.html)</tt><tt>=Fem</tt>|<tt>[Number](cs_cltt-feat-Number.html)</tt><tt>=Sing</tt></tt></td><td>jejím</td><td></td></tr>
+  <tr><td><tt><tt>[Case](cs_cltt-feat-Case.html)</tt><tt>=Nom</tt>|<tt>[Gender](cs_cltt-feat-Gender.html)</tt><tt>=Masc,Neut</tt>|<tt>[Gender[psor]](cs_cltt-feat-Gender-psor.html)</tt><tt>=Fem</tt>|<tt>[Number](cs_cltt-feat-Number.html)</tt><tt>=Sing</tt></tt></td><td>její</td><td></td></tr>
+  <tr><td><tt><tt>[Case](cs_cltt-feat-Case.html)</tt><tt>=Nom</tt>|<tt>[Gender[psor]](cs_cltt-feat-Gender-psor.html)</tt><tt>=Fem</tt>|<tt>[Number](cs_cltt-feat-Number.html)</tt><tt>=Plur</tt></tt></td><td>její</td><td></td></tr>
+  <tr><td><tt><tt>[Gender](cs_cltt-feat-Gender.html)</tt><tt>=Fem</tt>|<tt>[Gender[psor]](cs_cltt-feat-Gender-psor.html)</tt><tt>=Fem</tt>|<tt>[Number](cs_cltt-feat-Number.html)</tt><tt>=Sing</tt></tt></td><td>její</td><td></td></tr>
+  <tr><td><tt><tt>[Gender[psor]](cs_cltt-feat-Gender-psor.html)</tt><tt>=Masc,Neut</tt></tt></td><td></td><td>jeho</td></tr>
 </table>
 
 ### `ADJ`
