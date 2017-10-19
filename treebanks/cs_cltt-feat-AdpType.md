@@ -12,11 +12,11 @@ It occurs with 3 different values: `Comprep`, `Prep`, `Voc`.
 3942 tokens (11%) have a non-empty value of `AdpType`.
 58 types (1%) occur at least once with a non-empty value of `AdpType`.
 32 lemmas (1%) occur at least once with a non-empty value of `AdpType`.
-The feature is used with 1 part-of-speech tags: [ADP](cs_cltt-pos-ADP.html) (3942; 11% instances).
+The feature is used with 1 part-of-speech tags: `[ADP](cs_cltt-pos-ADP.html)` (3942; 11% instances).
 
 ### `ADP`
 
-3942 [ADP](cs_cltt-pos-ADP.html) tokens (100% of all `ADP` tokens) have a non-empty value of `AdpType`.
+3942 `[ADP](cs_cltt-pos-ADP.html)` tokens (100% of all `ADP` tokens) have a non-empty value of `AdpType`.
 
 `ADP` tokens may have the following values of `AdpType`:
 

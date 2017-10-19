@@ -12,11 +12,11 @@ It occurs with 2 different values: `Roman`, `Word`.
 440 tokens (1%) have a non-empty value of `NumForm`.
 97 types (2%) occur at least once with a non-empty value of `NumForm`.
 83 lemmas (3%) occur at least once with a non-empty value of `NumForm`.
-The feature is used with 1 part-of-speech tags: [NUM](cs_cltt-pos-NUM.html) (440; 1% instances).
+The feature is used with 1 part-of-speech tags: `[NUM](cs_cltt-pos-NUM.html)` (440; 1% instances).
 
 ### `NUM`
 
-440 [NUM](cs_cltt-pos-NUM.html) tokens (100% of all `NUM` tokens) have a non-empty value of `NumForm`.
+440 `[NUM](cs_cltt-pos-NUM.html)` tokens (100% of all `NUM` tokens) have a non-empty value of `NumForm`.
 
 The most frequent other feature values with which `NUM` and `NumForm` co-occurred: <tt><a href="NumType.html">NumType</a>=Card</tt> (440; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (394; 90%), <tt><a href="NumValue.html">NumValue</a>=EMPTY</tt> (382; 87%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (371; 84%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (371; 84%).
 

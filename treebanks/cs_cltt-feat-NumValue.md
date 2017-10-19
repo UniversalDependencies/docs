@@ -13,11 +13,11 @@ Some words have combined values of the feature; 1 combinations have been observe
 58 tokens (0%) have a non-empty value of `NumValue`.
 17 types (0%) occur at least once with a non-empty value of `NumValue`.
 5 lemmas (0%) occur at least once with a non-empty value of `NumValue`.
-The feature is used with 1 part-of-speech tags: [NUM](cs_cltt-pos-NUM.html) (58; 0% instances).
+The feature is used with 1 part-of-speech tags: `[NUM](cs_cltt-pos-NUM.html)` (58; 0% instances).
 
 ### `NUM`
 
-58 [NUM](cs_cltt-pos-NUM.html) tokens (13% of all `NUM` tokens) have a non-empty value of `NumValue`.
+58 `[NUM](cs_cltt-pos-NUM.html)` tokens (13% of all `NUM` tokens) have a non-empty value of `NumValue`.
 
 The most frequent other feature values with which `NUM` and `NumValue` co-occurred: <tt><a href="NumType.html">NumType</a>=Card</tt> (58; 100%), <tt><a href="NumForm.html">NumForm</a>=Word</tt> (58; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (38; 66%).
 

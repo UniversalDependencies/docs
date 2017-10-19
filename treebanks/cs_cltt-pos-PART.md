@@ -13,16 +13,16 @@ The 10 most frequent `PART` lemmas: jen až netto nikoli brutto ne
 
 The 10 most frequent `PART` types:  jen až netto nikoliv brutto ne
 
-The 10 most frequent ambiguous lemmas: až ([X](cs_cltt-pos-X.html) 41, [PART](cs_cltt-pos-PART.html) 30, [SCONJ](cs_cltt-pos-SCONJ.html) 7, [CCONJ](cs_cltt-pos-CCONJ.html) 1)
+The 10 most frequent ambiguous lemmas: až (`[X](cs_cltt-pos-X.html)` 41, `[PART](cs_cltt-pos-PART.html)` 30, `[SCONJ](cs_cltt-pos-SCONJ.html)` 7, `[CCONJ](cs_cltt-pos-CCONJ.html)` 1)
 
-The 10 most frequent ambiguous types:  až ([X](cs_cltt-pos-X.html) 41, [PART](cs_cltt-pos-PART.html) 30, [SCONJ](cs_cltt-pos-SCONJ.html) 7, [CCONJ](cs_cltt-pos-CCONJ.html) 1)
+The 10 most frequent ambiguous types:  až (`[X](cs_cltt-pos-X.html)` 41, `[PART](cs_cltt-pos-PART.html)` 30, `[SCONJ](cs_cltt-pos-SCONJ.html)` 7, `[CCONJ](cs_cltt-pos-CCONJ.html)` 1)
 
 
 * až
-  * [X](cs_cltt-pos-X.html) 41: Ustanovení písmen d) <b>až</b> h) se použijí i pro zahraniční fyzické osoby .
-  * [PART](cs_cltt-pos-PART.html) 30: (5) Ustanovení § 52 a 53 se použijí <b>až</b> v účetním období začínajícím 1 . ledna 2004 a později .
-  * [SCONJ](cs_cltt-pos-SCONJ.html) 7: (6) Ustanovení odstavců 1 <b>až</b> 5 se nepoužijí při změně právní formy a přeshraničním přemístění sídla .
-  * [CCONJ](cs_cltt-pos-CCONJ.html) 1: Účetní jednotka , která sestavuje výkaz zisku a ztráty v účelovém členění , není povinna dodržet členění v účtových skupinách 50 až 55 a 60 <b>až</b> 64 ; členění přizpůsobí výkazu s přihlédnutím k povinnosti uvedené v § 39 odst. 8 .
+  * `[X](cs_cltt-pos-X.html)` 41: Ustanovení písmen d) <b>až</b> h) se použijí i pro zahraniční fyzické osoby .
+  * `[PART](cs_cltt-pos-PART.html)` 30: (5) Ustanovení § 52 a 53 se použijí <b>až</b> v účetním období začínajícím 1 . ledna 2004 a později .
+  * `[SCONJ](cs_cltt-pos-SCONJ.html)` 7: (6) Ustanovení odstavců 1 <b>až</b> 5 se nepoužijí při změně právní formy a přeshraničním přemístění sídla .
+  * `[CCONJ](cs_cltt-pos-CCONJ.html)` 1: Účetní jednotka , která sestavuje výkaz zisku a ztráty v účelovém členění , není povinna dodržet členění v účtových skupinách 50 až 55 a 60 <b>až</b> 64 ; členění přizpůsobí výkazu s přihlédnutím k povinnosti uvedené v § 39 odst. 8 .
 
 ## Morphology
 
@@ -39,9 +39,9 @@ The 3rd highest number of forms (1) was observed with the lemma “jen”: jen.
 
 ## Relations
 
-`PART` nodes are attached to their parents using 5 different relations: [advmod:emph](cs_cltt-dep-advmod:emph.html) (55; 73% instances), [cc](cs_cltt-dep-cc.html) (15; 20% instances), [appos](cs_cltt-dep-appos.html) (3; 4% instances), [nmod](cs_cltt-dep-nmod.html) (1; 1% instances), [xcomp](cs_cltt-dep-xcomp.html) (1; 1% instances)
+`PART` nodes are attached to their parents using 5 different relations: `[advmod:emph](cs_cltt-dep-advmod:emph.html)` (55; 73% instances), `[cc](cs_cltt-dep-cc.html)` (15; 20% instances), `[appos](cs_cltt-dep-appos.html)` (3; 4% instances), `[nmod](cs_cltt-dep-nmod.html)` (1; 1% instances), `[xcomp](cs_cltt-dep-xcomp.html)` (1; 1% instances)
 
-Parents of `PART` nodes belong to 5 different parts of speech: [X](cs_cltt-pos-X.html) (38; 51% instances), [NOUN](cs_cltt-pos-NOUN.html) (27; 36% instances), [NUM](cs_cltt-pos-NUM.html) (6; 8% instances), [ADV](cs_cltt-pos-ADV.html) (3; 4% instances), [ADJ](cs_cltt-pos-ADJ.html) (1; 1% instances)
+Parents of `PART` nodes belong to 5 different parts of speech: `[X](cs_cltt-pos-X.html)` (38; 51% instances), `[NOUN](cs_cltt-pos-NOUN.html)` (27; 36% instances), `[NUM](cs_cltt-pos-NUM.html)` (6; 8% instances), `[ADV](cs_cltt-pos-ADV.html)` (3; 4% instances), `[ADJ](cs_cltt-pos-ADJ.html)` (1; 1% instances)
 
 71 (95%) `PART` nodes are leaves.
 
@@ -53,7 +53,7 @@ Parents of `PART` nodes belong to 5 different parts of speech: [X](cs_cltt-pos-X
 
 The highest child degree of a `PART` node is 3.
 
-Children of `PART` nodes are attached using 2 different relations: [punct](cs_cltt-dep-punct.html) (8; 89% instances), [xcomp](cs_cltt-dep-xcomp.html) (1; 11% instances)
+Children of `PART` nodes are attached using 2 different relations: `[punct](cs_cltt-dep-punct.html)` (8; 89% instances), `[xcomp](cs_cltt-dep-xcomp.html)` (1; 11% instances)
 
-Children of `PART` nodes belong to 2 different parts of speech: [PUNCT](cs_cltt-pos-PUNCT.html) (8; 89% instances), [ADJ](cs_cltt-pos-ADJ.html) (1; 11% instances)
+Children of `PART` nodes belong to 2 different parts of speech: `[PUNCT](cs_cltt-pos-PUNCT.html)` (8; 89% instances), `[ADJ](cs_cltt-pos-ADJ.html)` (1; 11% instances)
 

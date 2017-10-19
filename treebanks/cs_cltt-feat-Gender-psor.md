@@ -15,11 +15,11 @@ This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with t
 112 tokens (0%) have a non-empty value of `Gender[psor]`.
 11 types (0%) occur at least once with a non-empty value of `Gender[psor]`.
 3 lemmas (0%) occur at least once with a non-empty value of `Gender[psor]`.
-The feature is used with 2 part-of-speech tags: [DET](cs_cltt-pos-DET.html) (111; 0% instances), [ADJ](cs_cltt-pos-ADJ.html) (1; 0% instances).
+The feature is used with 2 part-of-speech tags: `[DET](cs_cltt-pos-DET.html)` (111; 0% instances), `[ADJ](cs_cltt-pos-ADJ.html)` (1; 0% instances).
 
 ### `DET`
 
-111 [DET](cs_cltt-pos-DET.html) tokens (19% of all `DET` tokens) have a non-empty value of `Gender[psor]`.
+111 `[DET](cs_cltt-pos-DET.html)` tokens (19% of all `DET` tokens) have a non-empty value of `Gender[psor]`.
 
 The most frequent other feature values with which `DET` and `Gender[psor]` co-occurred: <tt><a href="Number[psor].html">Number[psor]</a>=Sing</tt> (111; 100%), <tt><a href="Poss.html">Poss</a>=Yes</tt> (111; 100%), <tt><a href="Person.html">Person</a>=3</tt> (111; 100%), <tt><a href="PronType.html">PronType</a>=Prs</tt> (102; 92%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (84; 76%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (79; 71%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (75; 68%).
 
@@ -44,7 +44,7 @@ The most frequent other feature values with which `DET` and `Gender[psor]` co-oc
 
 ### `ADJ`
 
-1 [ADJ](cs_cltt-pos-ADJ.html) tokens (0% of all `ADJ` tokens) have a non-empty value of `Gender[psor]`.
+1 `[ADJ](cs_cltt-pos-ADJ.html)` tokens (0% of all `ADJ` tokens) have a non-empty value of `Gender[psor]`.
 
 The most frequent other feature values with which `ADJ` and `Gender[psor]` co-occurred: <tt><a href="Degree.html">Degree</a>=EMPTY</tt> (1; 100%), <tt><a href="Polarity.html">Polarity</a>=EMPTY</tt> (1; 100%), <tt><a href="Case.html">Case</a>=Nom</tt> (1; 100%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (1; 100%), <tt><a href="Number.html">Number</a>=Plur</tt> (1; 100%), <tt><a href="Animacy.html">Animacy</a>=Anim</tt> (1; 100%).
 

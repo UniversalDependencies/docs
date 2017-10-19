@@ -12,11 +12,11 @@ It occurs with 3 different values: `Fut`, `Past`, `Pres`.
 2327 tokens (6%) have a non-empty value of `Tense`.
 502 types (11%) occur at least once with a non-empty value of `Tense`.
 294 lemmas (11%) occur at least once with a non-empty value of `Tense`.
-The feature is used with 3 part-of-speech tags: [VERB](cs_cltt-pos-VERB.html) (1542; 4% instances), [AUX](cs_cltt-pos-AUX.html) (497; 1% instances), [ADJ](cs_cltt-pos-ADJ.html) (288; 1% instances).
+The feature is used with 3 part-of-speech tags: `[VERB](cs_cltt-pos-VERB.html)` (1542; 4% instances), `[AUX](cs_cltt-pos-AUX.html)` (497; 1% instances), `[ADJ](cs_cltt-pos-ADJ.html)` (288; 1% instances).
 
 ### `VERB`
 
-1542 [VERB](cs_cltt-pos-VERB.html) tokens (73% of all `VERB` tokens) have a non-empty value of `Tense`.
+1542 `[VERB](cs_cltt-pos-VERB.html)` tokens (73% of all `VERB` tokens) have a non-empty value of `Tense`.
 
 The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="Voice.html">Voice</a>=Act</tt> (1542; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (1426; 92%), <tt><a href="Person.html">Person</a>=3</tt> (1426; 92%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (1426; 92%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (1426; 92%), <tt><a href="Polarity.html">Polarity</a>=Pos</tt> (1328; 86%), <tt><a href="Number.html">Number</a>=Sing</tt> (1010; 65%).
 
@@ -37,7 +37,7 @@ The most frequent other feature values with which `VERB` and `Tense` co-occurred
 
 ### `AUX`
 
-497 [AUX](cs_cltt-pos-AUX.html) tokens (82% of all `AUX` tokens) have a non-empty value of `Tense`.
+497 `[AUX](cs_cltt-pos-AUX.html)` tokens (82% of all `AUX` tokens) have a non-empty value of `Tense`.
 
 The most frequent other feature values with which `AUX` and `Tense` co-occurred: <tt><a href="Voice.html">Voice</a>=Act</tt> (497; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (438; 88%), <tt><a href="Person.html">Person</a>=3</tt> (438; 88%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (438; 88%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (438; 88%), <tt><a href="Polarity.html">Polarity</a>=Pos</tt> (436; 88%), <tt><a href="Number.html">Number</a>=Sing</tt> (265; 53%).
 
@@ -64,7 +64,7 @@ The most frequent other feature values with which `AUX` and `Tense` co-occurred:
 
 ### `ADJ`
 
-288 [ADJ](cs_cltt-pos-ADJ.html) tokens (4% of all `ADJ` tokens) have a non-empty value of `Tense`.
+288 `[ADJ](cs_cltt-pos-ADJ.html)` tokens (4% of all `ADJ` tokens) have a non-empty value of `Tense`.
 
 The most frequent other feature values with which `ADJ` and `Tense` co-occurred: <tt><a href="Degree.html">Degree</a>=EMPTY</tt> (288; 100%), <tt><a href="Polarity.html">Polarity</a>=Pos</tt> (286; 99%), <tt><a href="Number.html">Number</a>=Sing</tt> (177; 61%), <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (172; 60%).
 

@@ -12,11 +12,11 @@ It occurs with 2 different values: `Cnd`, `Ind`.
 1890 tokens (5%) have a non-empty value of `Mood`.
 343 types (8%) occur at least once with a non-empty value of `Mood`.
 224 lemmas (9%) occur at least once with a non-empty value of `Mood`.
-The feature is used with 2 part-of-speech tags: [VERB](cs_cltt-pos-VERB.html) (1426; 4% instances), [AUX](cs_cltt-pos-AUX.html) (464; 1% instances).
+The feature is used with 2 part-of-speech tags: `[VERB](cs_cltt-pos-VERB.html)` (1426; 4% instances), `[AUX](cs_cltt-pos-AUX.html)` (464; 1% instances).
 
 ### `VERB`
 
-1426 [VERB](cs_cltt-pos-VERB.html) tokens (67% of all `VERB` tokens) have a non-empty value of `Mood`.
+1426 `[VERB](cs_cltt-pos-VERB.html)` tokens (67% of all `VERB` tokens) have a non-empty value of `Mood`.
 
 The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (1426; 100%), <tt><a href="Person.html">Person</a>=3</tt> (1426; 100%), <tt><a href="Voice.html">Voice</a>=Act</tt> (1426; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (1426; 100%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (1425; 100%), <tt><a href="Polarity.html">Polarity</a>=Pos</tt> (1222; 86%), <tt><a href="Number.html">Number</a>=Sing</tt> (982; 69%).
 
@@ -29,7 +29,7 @@ The most frequent other feature values with which `VERB` and `Mood` co-occurred:
 
 ### `AUX`
 
-464 [AUX](cs_cltt-pos-AUX.html) tokens (77% of all `AUX` tokens) have a non-empty value of `Mood`.
+464 `[AUX](cs_cltt-pos-AUX.html)` tokens (77% of all `AUX` tokens) have a non-empty value of `Mood`.
 
 The most frequent other feature values with which `AUX` and `Mood` co-occurred: <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (464; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (464; 100%), <tt><a href="Person.html">Person</a>=3</tt> (454; 98%), <tt><a href="Voice.html">Voice</a>=Act</tt> (438; 94%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (417; 90%), <tt><a href="Polarity.html">Polarity</a>=Pos</tt> (389; 84%), <tt><a href="Number.html">Number</a>=Sing</tt> (241; 52%).
 

@@ -12,11 +12,11 @@ It occurs with 2 different values: `Npr`, `Pre`.
 93 tokens (0%) have a non-empty value of `PrepCase`.
 21 types (0%) occur at least once with a non-empty value of `PrepCase`.
 2 lemmas (0%) occur at least once with a non-empty value of `PrepCase`.
-The feature is used with 1 part-of-speech tags: [PRON](cs_cltt-pos-PRON.html) (93; 0% instances).
+The feature is used with 1 part-of-speech tags: `[PRON](cs_cltt-pos-PRON.html)` (93; 0% instances).
 
 ### `PRON`
 
-93 [PRON](cs_cltt-pos-PRON.html) tokens (8% of all `PRON` tokens) have a non-empty value of `PrepCase`.
+93 `[PRON](cs_cltt-pos-PRON.html)` tokens (8% of all `PRON` tokens) have a non-empty value of `PrepCase`.
 
 The most frequent other feature values with which `PRON` and `PrepCase` co-occurred: <tt><a href="Variant.html">Variant</a>=EMPTY</tt> (93; 100%), <tt><a href="Reflex.html">Reflex</a>=EMPTY</tt> (93; 100%), <tt><a href="PronType.html">PronType</a>=Rel</tt> (73; 78%), <tt><a href="Number.html">Number</a>=Sing</tt> (54; 58%).
 

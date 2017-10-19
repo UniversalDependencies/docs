@@ -12,11 +12,11 @@ It occurs with 3 different values: `Cmp`, `Pos`, `Sup`.
 6378 tokens (17%) have a non-empty value of `Degree`.
 1498 types (33%) occur at least once with a non-empty value of `Degree`.
 664 lemmas (25%) occur at least once with a non-empty value of `Degree`.
-The feature is used with 2 part-of-speech tags: [ADJ](cs_cltt-pos-ADJ.html) (6093; 16% instances), [ADV](cs_cltt-pos-ADV.html) (285; 1% instances).
+The feature is used with 2 part-of-speech tags: `[ADJ](cs_cltt-pos-ADJ.html)` (6093; 16% instances), `[ADV](cs_cltt-pos-ADV.html)` (285; 1% instances).
 
 ### `ADJ`
 
-6093 [ADJ](cs_cltt-pos-ADJ.html) tokens (93% of all `ADJ` tokens) have a non-empty value of `Degree`.
+6093 `[ADJ](cs_cltt-pos-ADJ.html)` tokens (93% of all `ADJ` tokens) have a non-empty value of `Degree`.
 
 The most frequent other feature values with which `ADJ` and `Degree` co-occurred: <tt><a href="Polarity.html">Polarity</a>=Pos</tt> (5959; 98%), <tt><a href="Number.html">Number</a>=Sing</tt> (3879; 64%), <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (3665; 60%).
 
@@ -45,7 +45,7 @@ The most frequent other feature values with which `ADJ` and `Degree` co-occurred
 
 ### `ADV`
 
-285 [ADV](cs_cltt-pos-ADV.html) tokens (36% of all `ADV` tokens) have a non-empty value of `Degree`.
+285 `[ADV](cs_cltt-pos-ADV.html)` tokens (36% of all `ADV` tokens) have a non-empty value of `Degree`.
 
 The most frequent other feature values with which `ADV` and `Degree` co-occurred: <tt><a href="Polarity.html">Polarity</a>=Pos</tt> (276; 97%).
 

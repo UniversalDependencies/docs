@@ -13,41 +13,41 @@ The 10 most frequent `DET` lemmas: tento jeho svůj jenž takový některý tako
 
 The 10 most frequent `DET` types:  jejich jeho této tohoto těchto tyto tato tento její tomto
 
-The 10 most frequent ambiguous lemmas: tento ([DET](cs_cltt-pos-DET.html) 315, [PRON](cs_cltt-pos-PRON.html) 5), jenž ([PRON](cs_cltt-pos-PRON.html) 73, [DET](cs_cltt-pos-DET.html) 21), takový ([DET](cs_cltt-pos-DET.html) 21, [PRON](cs_cltt-pos-PRON.html) 1), některý ([DET](cs_cltt-pos-DET.html) 6, [PRON](cs_cltt-pos-PRON.html) 1), jaký ([PRON](cs_cltt-pos-PRON.html) 3, [DET](cs_cltt-pos-DET.html) 2), žádný ([PRON](cs_cltt-pos-PRON.html) 4, [DET](cs_cltt-pos-DET.html) 2), který ([PRON](cs_cltt-pos-PRON.html) 449, [DET](cs_cltt-pos-DET.html) 1), několik ([PRON](cs_cltt-pos-PRON.html) 1, [DET](cs_cltt-pos-DET.html) 1)
+The 10 most frequent ambiguous lemmas: tento (`[DET](cs_cltt-pos-DET.html)` 315, `[PRON](cs_cltt-pos-PRON.html)` 5), jenž (`[PRON](cs_cltt-pos-PRON.html)` 73, `[DET](cs_cltt-pos-DET.html)` 21), takový (`[DET](cs_cltt-pos-DET.html)` 21, `[PRON](cs_cltt-pos-PRON.html)` 1), některý (`[DET](cs_cltt-pos-DET.html)` 6, `[PRON](cs_cltt-pos-PRON.html)` 1), jaký (`[PRON](cs_cltt-pos-PRON.html)` 3, `[DET](cs_cltt-pos-DET.html)` 2), žádný (`[PRON](cs_cltt-pos-PRON.html)` 4, `[DET](cs_cltt-pos-DET.html)` 2), který (`[PRON](cs_cltt-pos-PRON.html)` 449, `[DET](cs_cltt-pos-DET.html)` 1), několik (`[PRON](cs_cltt-pos-PRON.html)` 1, `[DET](cs_cltt-pos-DET.html)` 1)
 
-The 10 most frequent ambiguous types:  jejich ([DET](cs_cltt-pos-DET.html) 93, [X](cs_cltt-pos-X.html) 6), této ([DET](cs_cltt-pos-DET.html) 66, [X](cs_cltt-pos-X.html) 1), tato ([DET](cs_cltt-pos-DET.html) 24, [PRON](cs_cltt-pos-PRON.html) 1), tuto ([DET](cs_cltt-pos-DET.html) 11, [ADV](cs_cltt-pos-ADV.html) 7), tímto ([DET](cs_cltt-pos-DET.html) 9, [PRON](cs_cltt-pos-PRON.html) 3), jehož ([DET](cs_cltt-pos-DET.html) 6, [PRON](cs_cltt-pos-PRON.html) 5), takové ([DET](cs_cltt-pos-DET.html) 5, [PRON](cs_cltt-pos-PRON.html) 1), kterým ([PRON](cs_cltt-pos-PRON.html) 25, [DET](cs_cltt-pos-DET.html) 1), několika ([PRON](cs_cltt-pos-PRON.html) 1, [DET](cs_cltt-pos-DET.html) 1), žádná ([PRON](cs_cltt-pos-PRON.html) 1, [DET](cs_cltt-pos-DET.html) 1)
+The 10 most frequent ambiguous types:  jejich (`[DET](cs_cltt-pos-DET.html)` 93, `[X](cs_cltt-pos-X.html)` 6), této (`[DET](cs_cltt-pos-DET.html)` 66, `[X](cs_cltt-pos-X.html)` 1), tato (`[DET](cs_cltt-pos-DET.html)` 24, `[PRON](cs_cltt-pos-PRON.html)` 1), tuto (`[DET](cs_cltt-pos-DET.html)` 11, `[ADV](cs_cltt-pos-ADV.html)` 7), tímto (`[DET](cs_cltt-pos-DET.html)` 9, `[PRON](cs_cltt-pos-PRON.html)` 3), jehož (`[DET](cs_cltt-pos-DET.html)` 6, `[PRON](cs_cltt-pos-PRON.html)` 5), takové (`[DET](cs_cltt-pos-DET.html)` 5, `[PRON](cs_cltt-pos-PRON.html)` 1), kterým (`[PRON](cs_cltt-pos-PRON.html)` 25, `[DET](cs_cltt-pos-DET.html)` 1), několika (`[PRON](cs_cltt-pos-PRON.html)` 1, `[DET](cs_cltt-pos-DET.html)` 1), žádná (`[PRON](cs_cltt-pos-PRON.html)` 1, `[DET](cs_cltt-pos-DET.html)` 1)
 
 
 * jejich
-  * [DET](cs_cltt-pos-DET.html) 93: Spotřeba povolenek je vykázána bez ohledu na <b>jejich</b> následné vyřazení .
-  * [X](cs_cltt-pos-X.html) 6: O dospělých zvířatech a jejich skupinách s dobou použitelnosti delší než jeden rok nevykázaných v položce "B.II.5. Dospělá zvířata a <b>jejich</b> skupiny" se účtuje jako o zásobách .
+  * `[DET](cs_cltt-pos-DET.html)` 93: Spotřeba povolenek je vykázána bez ohledu na <b>jejich</b> následné vyřazení .
+  * `[X](cs_cltt-pos-X.html)` 6: O dospělých zvířatech a jejich skupinách s dobou použitelnosti delší než jeden rok nevykázaných v položce "B.II.5. Dospělá zvířata a <b>jejich</b> skupiny" se účtuje jako o zásobách .
 * této
-  * [DET](cs_cltt-pos-DET.html) 66: Směrná účtová osnova je uvedena v příloze č. 4 k <b>této</b> vyhlášce .
-  * [X](cs_cltt-pos-X.html) 1: 1 . Ustanovení čl. I bodů 1 až 9 a 13 až 15 <b>této</b> vyhlášky použijí účetní jednotky poprvé pro účtování v účetních obdobích započatých v roce 2005 a pro sestavování účetní závěrky za účetní období započatá v roce 2005 .
+  * `[DET](cs_cltt-pos-DET.html)` 66: Směrná účtová osnova je uvedena v příloze č. 4 k <b>této</b> vyhlášce .
+  * `[X](cs_cltt-pos-X.html)` 1: 1 . Ustanovení čl. I bodů 1 až 9 a 13 až 15 <b>této</b> vyhlášky použijí účetní jednotky poprvé pro účtování v účetních obdobích započatých v roce 2005 a pro sestavování účetní závěrky za účetní období započatá v roce 2005 .
 * tato
-  * [DET](cs_cltt-pos-DET.html) 24: Pokud <b>tato</b> sazba daně známa není , použije se sazba platná v příštím účetním období .
-  * [PRON](cs_cltt-pos-PRON.html) 1: (4) Pro účely tohoto zákona se jako reálná hodnota použije a) tržní hodnota , b) ocenění kvalifikovaným odhadem nebo posudkem znalce , není-li tržní hodnota k dispozici nebo <b>tato</b> nedostatečně představuje reálnou hodnotu ; metody ocenění použité při kvalifikovaném odhadu nebo posudku znalce musí zajistit přiměřené přiblížení se k tržní hodnotě , c) ocenění stanovené podle zvláštních právních předpisů , nelze-li postupovat podle písmen a) a b) .
+  * `[DET](cs_cltt-pos-DET.html)` 24: Pokud <b>tato</b> sazba daně známa není , použije se sazba platná v příštím účetním období .
+  * `[PRON](cs_cltt-pos-PRON.html)` 1: (4) Pro účely tohoto zákona se jako reálná hodnota použije a) tržní hodnota , b) ocenění kvalifikovaným odhadem nebo posudkem znalce , není-li tržní hodnota k dispozici nebo <b>tato</b> nedostatečně představuje reálnou hodnotu ; metody ocenění použité při kvalifikovaném odhadu nebo posudku znalce musí zajistit přiměřené přiblížení se k tržní hodnotě , c) ocenění stanovené podle zvláštních právních předpisů , nelze-li postupovat podle písmen a) a b) .
 * tuto
-  * [DET](cs_cltt-pos-DET.html) 11: (7) Není-li objektivně možné stanovit reálnou hodnotu , považuje se za <b>tuto</b> hodnotu ocenění způsoby podle § 25 .
-  * [ADV](cs_cltt-pos-ADV.html) 7: Účetní jednotka popíše <b>tuto</b> skutečnost v příloze v účetní závěrce .
+  * `[DET](cs_cltt-pos-DET.html)` 11: (7) Není-li objektivně možné stanovit reálnou hodnotu , považuje se za <b>tuto</b> hodnotu ocenění způsoby podle § 25 .
+  * `[ADV](cs_cltt-pos-ADV.html)` 7: Účetní jednotka popíše <b>tuto</b> skutečnost v příloze v účetní závěrce .
 * tímto
-  * [DET](cs_cltt-pos-DET.html) 9: (1) Účetní jednotky sestavují v případech stanovených <b>tímto</b> zákonem účetní závěrku .
-  * [PRON](cs_cltt-pos-PRON.html) 3: Ustanovení o provádění inventarizací podle zvláštních právních předpisů nejsou <b>tímto</b> dotčena .
+  * `[DET](cs_cltt-pos-DET.html)` 9: (1) Účetní jednotky sestavují v případech stanovených <b>tímto</b> zákonem účetní závěrku .
+  * `[PRON](cs_cltt-pos-PRON.html)` 3: Ustanovení o provádění inventarizací podle zvláštních právních předpisů nejsou <b>tímto</b> dotčena .
 * jehož
-  * [DET](cs_cltt-pos-DET.html) 6: (6) Účetní jednotky uvedené v odstavci 1 jsou povinny sestavovat odpisový plán , na <b>jehož</b> podkladě provádějí odpisování majetku v průběhu jeho používání .
-  * [PRON](cs_cltt-pos-PRON.html) 5: (4) Podpisovým záznamem se rozumí účetní záznam , <b>jehož</b> obsahem je vlastnoruční podpis nebo uznávaný elektronický podpis podle zvláštního právního předpisu , anebo obdobný průkazný účetní záznam v technické formě , který zaručuje průkaznou a jednoznačnou původnost .
+  * `[DET](cs_cltt-pos-DET.html)` 6: (6) Účetní jednotky uvedené v odstavci 1 jsou povinny sestavovat odpisový plán , na <b>jehož</b> podkladě provádějí odpisování majetku v průběhu jeho používání .
+  * `[PRON](cs_cltt-pos-PRON.html)` 5: (4) Podpisovým záznamem se rozumí účetní záznam , <b>jehož</b> obsahem je vlastnoruční podpis nebo uznávaný elektronický podpis podle zvláštního právního předpisu , anebo obdobný průkazný účetní záznam v technické formě , který zaručuje průkaznou a jednoznačnou původnost .
 * takové
-  * [DET](cs_cltt-pos-DET.html) 5: Účetní jednotky jsou povinny <b>takové</b> účetní záznamy vést nejméně v rozsahu stanoveném tímto zákonem .
-  * [PRON](cs_cltt-pos-PRON.html) 1: Pokud tuto podmínku nemůže účetní jednotka zabezpečit , převede <b>takové</b> účetní záznamy do listinné formy odpovídající době jejich vyřízení a opatří je náležitostmi originálu , a to nejpozději před jejich zařazením do výběru archiválií ve skartačním řízení nebo mimo něj ; obdobně postupuje při nakládání s účetními záznamy přijatými účetní jednotkou v technické , případně smíšené formě , u účetních záznamů obsahujících uznávaný elektronický podpis včetně průkazného potvrzení v listinné formě o platnosti uznávaného elektronického podpisu v době přijetí účetního záznamu .
+  * `[DET](cs_cltt-pos-DET.html)` 5: Účetní jednotky jsou povinny <b>takové</b> účetní záznamy vést nejméně v rozsahu stanoveném tímto zákonem .
+  * `[PRON](cs_cltt-pos-PRON.html)` 1: Pokud tuto podmínku nemůže účetní jednotka zabezpečit , převede <b>takové</b> účetní záznamy do listinné formy odpovídající době jejich vyřízení a opatří je náležitostmi originálu , a to nejpozději před jejich zařazením do výběru archiválií ve skartačním řízení nebo mimo něj ; obdobně postupuje při nakládání s účetními záznamy přijatými účetní jednotkou v technické , případně smíšené formě , u účetních záznamů obsahujících uznávaný elektronický podpis včetně průkazného potvrzení v listinné formě o platnosti uznávaného elektronického podpisu v době přijetí účetního záznamu .
 * kterým
-  * [PRON](cs_cltt-pos-PRON.html) 25: V těchto případech musí účetní záznam i účetní doklad obsahovat identifikátor , <b>kterým</b> lze nezaměnitelně určit vzájemnou vazbu mezi účetním záznamem a účetním dokladem , včetně souvisejících skutečností .
-  * [DET](cs_cltt-pos-DET.html) 1: (1) Účetní jednotky sestavují účetní závěrku k rozvahovému dni , <b>kterým</b> je den , kdy uzavírají účetní knihy .
+  * `[PRON](cs_cltt-pos-PRON.html)` 25: V těchto případech musí účetní záznam i účetní doklad obsahovat identifikátor , <b>kterým</b> lze nezaměnitelně určit vzájemnou vazbu mezi účetním záznamem a účetním dokladem , včetně souvisejících skutečností .
+  * `[DET](cs_cltt-pos-DET.html)` 1: (1) Účetní jednotky sestavují účetní závěrku k rozvahovému dni , <b>kterým</b> je den , kdy uzavírají účetní knihy .
 * několika
-  * [PRON](cs_cltt-pos-PRON.html) 1: (2) Položka "C.I.2. Nedokončená výroba a polotovary" obsahuje a) produkty , které prošly jedním nebo <b>několika</b> výrobními stupni a nejsou již materiálem , nejsou však dosud hotovým výrobkem ; tato položka rovněž obsahuje nedokončené činnosti , při nichž nevznikají hmotné produkty , b) odděleně evidované produkty , to je polotovary , které dosud neprošly všemi výrobními stupni a budou dokončeny nebo zkompletovány do hotových výrobků v dalším výrobním procesu účetní jednotky .
-  * [DET](cs_cltt-pos-DET.html) 1: (5) Jednotlivý účetní záznam může být tvořen <b>několika</b> dílčími účetními záznamy .
+  * `[PRON](cs_cltt-pos-PRON.html)` 1: (2) Položka "C.I.2. Nedokončená výroba a polotovary" obsahuje a) produkty , které prošly jedním nebo <b>několika</b> výrobními stupni a nejsou již materiálem , nejsou však dosud hotovým výrobkem ; tato položka rovněž obsahuje nedokončené činnosti , při nichž nevznikají hmotné produkty , b) odděleně evidované produkty , to je polotovary , které dosud neprošly všemi výrobními stupni a budou dokončeny nebo zkompletovány do hotových výrobků v dalším výrobním procesu účetní jednotky .
+  * `[DET](cs_cltt-pos-DET.html)` 1: (5) Jednotlivý účetní záznam může být tvořen <b>několika</b> dílčími účetními záznamy .
 * žádná
-  * [PRON](cs_cltt-pos-PRON.html) 1: Splnění této povinnosti však účetní jednotka může prokázat i jiným způsobem , který nezpochybní <b>žádná</b> z osob , které s převedeným záznamem pracují .
-  * [DET](cs_cltt-pos-DET.html) 1: (3) Účetní jednotka je povinna použít účetní metody způsobem , který vychází z předpokladu , že bude nepřetržitě pokračovat ve své činnosti a že u ní nenastává <b>žádná</b> skutečnost , která by ji omezovala nebo ji zabraňovala v této činnosti pokračovat i v dohledné budoucnosti .
+  * `[PRON](cs_cltt-pos-PRON.html)` 1: Splnění této povinnosti však účetní jednotka může prokázat i jiným způsobem , který nezpochybní <b>žádná</b> z osob , které s převedeným záznamem pracují .
+  * `[DET](cs_cltt-pos-DET.html)` 1: (3) Účetní jednotka je povinna použít účetní metody způsobem , který vychází z předpokladu , že bude nepřetržitě pokračovat ve své činnosti a že u ní nenastává <b>žádná</b> skutečnost , která by ji omezovala nebo ji zabraňovala v této činnosti pokračovat i v dohledné budoucnosti .
 
 ## Morphology
 
@@ -59,7 +59,7 @@ The 2nd highest number of forms (8) was observed with the lemma “jeho”: jeho
 
 The 3rd highest number of forms (8) was observed with the lemma “takový”: takovou, taková, takové, takovému, takový, takových, takovým, takovými.
 
-`DET` occurs with 11 features: [PronType](cs_cltt-feat-PronType.html) (595; 100% instances), [Number](cs_cltt-feat-Number.html) (414; 70% instances), [Case](cs_cltt-feat-Case.html) (406; 68% instances), [Gender](cs_cltt-feat-Gender.html) (354; 59% instances), [Poss](cs_cltt-feat-Poss.html) (240; 40% instances), [Number[psor]](cs_cltt-feat-Number[psor].html) (216; 36% instances), [Person](cs_cltt-feat-Person.html) (216; 36% instances), [Gender[psor]](cs_cltt-feat-Gender[psor].html) (111; 19% instances), [Animacy](cs_cltt-feat-Animacy.html) (30; 5% instances), [Reflex](cs_cltt-feat-Reflex.html) (24; 4% instances), [NumType](cs_cltt-feat-NumType.html) (1; 0% instances)
+`DET` occurs with 11 features: `[PronType](cs_cltt-feat-PronType.html)` (595; 100% instances), `[Number](cs_cltt-feat-Number.html)` (414; 70% instances), `[Case](cs_cltt-feat-Case.html)` (406; 68% instances), `[Gender](cs_cltt-feat-Gender.html)` (354; 59% instances), `[Poss](cs_cltt-feat-Poss.html)` (240; 40% instances), `[Number[psor]](cs_cltt-feat-Number[psor].html)` (216; 36% instances), `[Person](cs_cltt-feat-Person.html)` (216; 36% instances), `[Gender[psor]](cs_cltt-feat-Gender[psor].html)` (111; 19% instances), `[Animacy](cs_cltt-feat-Animacy.html)` (30; 5% instances), `[Reflex](cs_cltt-feat-Reflex.html)` (24; 4% instances), `[NumType](cs_cltt-feat-NumType.html)` (1; 0% instances)
 
 `DET` occurs with 28 feature-value pairs: `Animacy=Inan`, `Case=Acc`, `Case=Dat`, `Case=Gen`, `Case=Ins`, `Case=Loc`, `Case=Nom`, `Gender=Fem`, `Gender=Masc`, `Gender=Masc,Neut`, `Gender=Neut`, `Gender[psor]=Fem`, `Gender[psor]=Masc,Neut`, `NumType=Card`, `Number=Plur`, `Number=Sing`, `Number[psor]=Plur`, `Number[psor]=Sing`, `Person=3`, `Poss=Yes`, `PronType=Dem`, `PronType=Dem,Ind`, `PronType=Ind`, `PronType=Int,Rel`, `PronType=Neg`, `PronType=Prs`, `PronType=Rel`, `Reflex=Yes`
 
@@ -70,9 +70,9 @@ Examples: jejich
 
 ## Relations
 
-`DET` nodes are attached to their parents using 3 different relations: [det](cs_cltt-dep-det.html) (593; 100% instances), [acl](cs_cltt-dep-acl.html) (1; 0% instances), [det:nummod](cs_cltt-dep-det:nummod.html) (1; 0% instances)
+`DET` nodes are attached to their parents using 3 different relations: `[det](cs_cltt-dep-det.html)` (593; 100% instances), `[acl](cs_cltt-dep-acl.html)` (1; 0% instances), `[det:nummod](cs_cltt-dep-det:nummod.html)` (1; 0% instances)
 
-Parents of `DET` nodes belong to 2 different parts of speech: [NOUN](cs_cltt-pos-NOUN.html) (594; 100% instances), [ADJ](cs_cltt-pos-ADJ.html) (1; 0% instances)
+Parents of `DET` nodes belong to 2 different parts of speech: `[NOUN](cs_cltt-pos-NOUN.html)` (594; 100% instances), `[ADJ](cs_cltt-pos-ADJ.html)` (1; 0% instances)
 
 593 (100%) `DET` nodes are leaves.
 
@@ -84,7 +84,7 @@ Parents of `DET` nodes belong to 2 different parts of speech: [NOUN](cs_cltt-pos
 
 The highest child degree of a `DET` node is 3.
 
-Children of `DET` nodes are attached using 4 different relations: [cop](cs_cltt-dep-cop.html) (1; 25% instances), [nmod](cs_cltt-dep-nmod.html) (1; 25% instances), [nsubj](cs_cltt-dep-nsubj.html) (1; 25% instances), [punct](cs_cltt-dep-punct.html) (1; 25% instances)
+Children of `DET` nodes are attached using 4 different relations: `[cop](cs_cltt-dep-cop.html)` (1; 25% instances), `[nmod](cs_cltt-dep-nmod.html)` (1; 25% instances), `[nsubj](cs_cltt-dep-nsubj.html)` (1; 25% instances), `[punct](cs_cltt-dep-punct.html)` (1; 25% instances)
 
-Children of `DET` nodes belong to 3 different parts of speech: [NOUN](cs_cltt-pos-NOUN.html) (2; 50% instances), [AUX](cs_cltt-pos-AUX.html) (1; 25% instances), [PUNCT](cs_cltt-pos-PUNCT.html) (1; 25% instances)
+Children of `DET` nodes belong to 3 different parts of speech: `[NOUN](cs_cltt-pos-NOUN.html)` (2; 50% instances), `[AUX](cs_cltt-pos-AUX.html)` (1; 25% instances), `[PUNCT](cs_cltt-pos-PUNCT.html)` (1; 25% instances)
 
