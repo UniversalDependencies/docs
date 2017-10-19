@@ -17,14 +17,14 @@ The first-hand evidence reading for the statement/event is the default and is no
 
 ### <a name="Nfh">`Nfh`: non-first hand
 
-The speaker has indirect evidence for the statement. The `Nfh` marker is also called `quotative` and `citative` in the literature.
+The speaker has indirect evidence for the statement. The `Nfh` marker is also called `quotative` (QUOT) and `citative` (CIT) in the literature.
 
 #### Examples
-
-* ca adaj-la k’wi-jal urši le-b-re-**k’wan**  
-   one father-Gen two-Card son COP-HumPlur-Past-**Nfh**  
-'A father had (**they say**) two sons.'   
-
+```
+*  ca  adaj-la    k’wi-jal urši le-b-re-**k’wan**  
+   one father-Gen two-Card son  COP-HumPlur-Past-**Nfh**  
+   'A father had (**they say**) two sons.'   
+```
 
 
 ## References
