@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-10-19T20:55:55Z">2017-10-19T20:55:55 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-10-19T21:45:49Z">2017-10-19T21:45:49 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -1498,28 +1498,36 @@ No data
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD Galician</span>
 <span class="widespan">gl</span>
-<span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-10-05T15:20:02Z">2017-10-05T15:20:02 zulu</time></span>
+<span class="validationfail">FAIL</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-10-19T21:45:41Z">2017-10-19T21:45:41 zulu</time></span>
 </div>
 <div>
 <pre>
 python tools/validate.py --lang gl UD-dev-branches/UD_Galician/gl-ud-dev.conllu
 
-*** PASSED ***
+[Line                   17042]: Spurious empty line.
+*** FAILED *** with 1 errors
+Format errors: 1
 
 
 ******************
 
 python tools/validate.py --lang gl UD-dev-branches/UD_Galician/gl-ud-test.conllu
 
-*** PASSED ***
+[Line                   836]: SpaceAfter=No is missing in the MISC field of node #26 because the text is 'AA., producíndose de[...]'
+[Line                   10211]: SpaceAfter=No is missing in the MISC field of node #6 because the text is 'AA., a CE non establ[...]'
+[Line                   24589]: SpaceAfter=No is missing in the MISC field of node #21 because the text is 'AA., xenericamente a[...]'
+*** FAILED *** with 3 errors
+Metadata errors: 3
 
 
 ******************
 
 python tools/validate.py --lang gl UD-dev-branches/UD_Galician/gl-ud-train.conllu
 
-*** PASSED ***
+[Line                   79275]: SpaceAfter=No is missing in the MISC field of node #32 because the text is 'AA.).'
+*** FAILED *** with 1 errors
+Metadata errors: 1
 
 
 ******************
