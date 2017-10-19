@@ -20,7 +20,7 @@ The feature is used with 1 part-of-speech tags: [DET](cs_cltt-pos-DET.html) (216
 
 216 [DET](cs_cltt-pos-DET.html) tokens (36% of all `DET` tokens) have a non-empty value of `Number[psor]`.
 
-The most frequent other feature values with which `DET` and `Number[psor]` co-occurred: <tt><a href="Poss.html">Poss</a>=Yes</tt> (216; 100%), <tt><a href="Person.html">Person</a>=3</tt> (216; 100%), <tt><a href="PronType.html">PronType</a>=Prs</tt> (195; 90%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (189; 88%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (184; 85%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (180; 83%).
+The most frequent other feature values with which `DET` and `Number[psor]` co-occurred: <tt><a href="Person.html">Person</a>=3</tt> (216; 100%), <tt><a href="Poss.html">Poss</a>=Yes</tt> (216; 100%), <tt><a href="PronType.html">PronType</a>=Prs</tt> (195; 90%), <tt><a href="Case.html">Case</a>=EMPTY</tt> (189; 88%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (184; 85%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (180; 83%).
 
 `DET` tokens may have the following values of `Number[psor]`:
 

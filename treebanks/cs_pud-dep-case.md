@@ -1,0 +1,73 @@
+---
+layout: base
+title:  'Statistics of case in UD_Czech-PUD'
+udver: '2'
+---
+
+## Treebank Statistics: UD_Czech-PUD: Relations: `case`
+
+This relation is universal.
+
+1857 nodes (10%) are attached to their parents as `case`.
+
+1857 instances of `case` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.50942380183091.
+
+The following 16 pairs of parts of speech are connected with `case`: [-pos/NOUN]()-[-pos/ADP]() (1415; 76% instances), [-pos/PROPN]()-[-pos/ADP]() (218; 12% instances), [-pos/PRON]()-[-pos/ADP]() (73; 4% instances), [-pos/DET]()-[-pos/ADP]() (58; 3% instances), [-pos/ADJ]()-[-pos/ADP]() (26; 1% instances), [-pos/NOUN]()-[-pos/SCONJ]() (26; 1% instances), [-pos/NUM]()-[-pos/ADP]() (13; 1% instances), [-pos/PROPN]()-[-pos/SCONJ]() (7; 0% instances), [-pos/SYM]()-[-pos/ADP]() (7; 0% instances), [-pos/NOUN]()-[-pos/ADV]() (4; 0% instances), [-pos/NOUN]()-[-pos/NOUN]() (4; 0% instances), [-pos/PROPN]()-[-pos/ADV]() (2; 0% instances), [-pos/ADJ]()-[-pos/SCONJ]() (1; 0% instances), [-pos/ADV]()-[-pos/ADP]() (1; 0% instances), [-pos/PRON]()-[-pos/ADV]() (1; 0% instances), [-pos/PRON]()-[-pos/SCONJ]() (1; 0% instances).
+
+
+~~~ conllu
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 4 case	color:blue
+1	Nové	nový	ADJ	AAIP1----1A----	Animacy=Inan|Case=Nom|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos	2	amod	_	_
+2	výdaje	výdaj	NOUN	NNIP1-----A----	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur|Polarity=Pos	3	nsubj	_	_
+3	pocházejí	pocházet	VERB	VB-P---3P-AA---	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4	z	z	ADP	RR--2----------	AdpType=Prep|Case=Gen	7	case	_	LId=z-1
+5	bohatých	bohatý	ADJ	AAIP2----1A----	Animacy=Inan|Case=Gen|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos	7	amod	_	_
+6	bankovních	bankovní	ADJ	AAIP2----1A----	Animacy=Inan|Case=Gen|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos	7	amod	_	_
+7	účtů	účet	NOUN	NNIP2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur|Polarity=Pos	3	obl	_	_
+8	Clintonové	Clintonová	PROPN	NNFS2-----A----	Case=Gen|Gender=Fem|NameType=Sur|Number=Sing|Polarity=Pos	7	nmod	_	SpaceAfter=No
+9	.	.	PUNCT	Z:-------------	_	3	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 2 case	color:blue
+1	Pracoval	pracovat	VERB	VpYS---XR-AA---	Aspect=Imp|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	_
+2	pro	pro	ADP	RR--4----------	AdpType=Prep|Case=Acc	3	case	_	LId=pro-1
+3	BBC	BBC	PROPN	NNFXX-----A---8	Abbr=Yes|Gender=Fem|NameType=Com|Polarity=Pos	1	obl	_	_
+4	více	hodně	ADV	Dg-------2A----	Degree=Cmp|Polarity=Pos	7	advmod:emph	_	LId=hodně-2
+5	než	než	SCONJ	J,-------------	_	4	fixed	_	LId=než-2
+6	deset	deset	NUM	Cn-S4----------	Case=Acc|Number=Sing|NumForm=Word|NumType=Card	7	nummod:gov	_	LNumValue=10
+7	let	rok	NOUN	NNNP2-----A----	Case=Gen|Gender=Neut|Number=Plur|Polarity=Pos	1	obl	_	SpaceAfter=No
+8	.	.	PUNCT	Z:-------------	_	1	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 3 case	color:blue
+1	Jen	jen	PART	TT-------------	_	2	advmod:emph	_	LId=jen-1
+2	50	50	NUM	C=-------------	NumForm=Digit|NumType=Card	5	nsubj	_	_
+3	z	z	ADP	RR--2----------	AdpType=Prep|Case=Gen	4	case	_	LId=z-1
+4	nich	on	PRON	P5XP2--3-------	Case=Gen|Number=Plur|Person=3|PrepCase=Pre|PronType=Prs	2	nmod	_	LId=on-1
+5	sloužilo	sloužit	VERB	VpNS---XR-AA---	Aspect=Imp|Gender=Neut|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	_
+6	k	k	ADP	RR--3----------	AdpType=Prep|Case=Dat	7	case	_	LId=k-1
+7	obchodování	obchodování	NOUN	NNNS3-----A----	Case=Dat|Gender=Neut|Number=Sing|Polarity=Pos	5	obl	_	SpaceAfter=No|LDeriv=obchodovat
+8	.	.	PUNCT	Z:-------------	_	5	punct	_	_
+
+~~~
+
+

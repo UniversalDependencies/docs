@@ -15,7 +15,7 @@ The 10 most frequent `ADV` types:  dále zejména popřípadě jinak pouze kdy t
 
 The 10 most frequent ambiguous lemmas: tak ([ADV]() 23, [CCONJ]() 1), včetně ([ADP]() 47, [ADV]() 7), uvnitř ([ADV]() 3, [ADP]() 1), jak ([SCONJ]() 3, [ADV]() 2)
 
-The 10 most frequent ambiguous types:  tak ([ADV]() 23, [CCONJ]() 1), celkem ([ADV]() 18, [NOUN]() 2), tuto ([DET]() 11, [ADV]() 7), včetně ([ADP]() 47, [ADV]() 7), výše ([NOUN]() 35, [ADV]() 6), jednou ([NUM]() 3, [ADV]() 3), něm ([ADJ]() 4, [ADV]() 3), uvnitř ([ADV]() 3, [ADP]() 1), jak ([SCONJ]() 3, [ADV]() 2)
+The 10 most frequent ambiguous types:  tak ([ADV]() 23, [CCONJ]() 1), celkem ([ADV]() 18, [NOUN]() 2), tuto ([DET]() 11, [ADV]() 7), včetně ([ADP]() 47, [ADV]() 7), výše ([NOUN]() 35, [ADV]() 6), jednou ([ADV]() 3, [NUM]() 3), něm ([ADJ]() 4, [ADV]() 3), uvnitř ([ADV]() 3, [ADP]() 1), jak ([SCONJ]() 3, [ADV]() 2)
 
 
 * tak
@@ -34,8 +34,8 @@ The 10 most frequent ambiguous types:  tak ([ADV]() 23, [CCONJ]() 1), celkem ([A
   * [NOUN]() 35: Uvedený majetek se odpisuje jen do <b>výše</b> jeho ocenění v účetnictví .
   * [ADV]() 6: (1) V konsolidovaném výkazu zisku a ztráty se uvádí <b>výše</b> nákladů a výnosů odděleně za běžné účetní období a minulé účetní období .
 * jednou
-  * [NUM]() 3: (3) Pokud je v případě uvedeném v odstavci 2 alespoň <b>jednou</b> z nástupnických účetních jednotek účetní jednotka , která má nebo má mít sídlo v České republice , použijí zanikající účetní jednotka i nástupnická účetní jednotka při účtování o ocenění majetku a závazků reálnou hodnotou § 54 obdobně .
   * [ADV]() 3: Takovouto změnu účetního období může účetní jednotka v běžném účetním období provést pouze <b>jednou</b> .
+  * [NUM]() 3: (3) Pokud je v případě uvedeném v odstavci 2 alespoň <b>jednou</b> z nástupnických účetních jednotek účetní jednotka , která má nebo má mít sídlo v České republice , použijí zanikající účetní jednotka i nástupnická účetní jednotka při účtování o ocenění majetku a závazků reálnou hodnotou § 54 obdobně .
 * něm
   * [ADJ]() 4: Zobrazení je poctivé , když jsou při <b>něm</b> použity účetní metody způsobem , který vede k dosažení věrnosti .
   * [ADV]() 3: (3) Odpovědnost právnické osoby za správní delikt zaniká , jestliže správní orgán o něm nezahájil řízení do 1 roku ode dne , kdy se o <b>něm</b> dozvěděl , nejpozději však do 3 let ode dne , kdy byl spáchán .

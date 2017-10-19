@@ -18,7 +18,7 @@ The feature is used with 2 part-of-speech tags: [VERB](cs_cltt-pos-VERB.html) (1
 
 1426 [VERB](cs_cltt-pos-VERB.html) tokens (67% of all `VERB` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (1426; 100%), <tt><a href="Person.html">Person</a>=3</tt> (1426; 100%), <tt><a href="Voice.html">Voice</a>=Act</tt> (1426; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (1426; 100%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (1425; 100%), <tt><a href="Polarity.html">Polarity</a>=Pos</tt> (1222; 86%), <tt><a href="Number.html">Number</a>=Sing</tt> (982; 69%).
+The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (1426; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (1426; 100%), <tt><a href="Voice.html">Voice</a>=Act</tt> (1426; 100%), <tt><a href="Person.html">Person</a>=3</tt> (1426; 100%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (1425; 100%), <tt><a href="Polarity.html">Polarity</a>=Pos</tt> (1222; 86%), <tt><a href="Number.html">Number</a>=Sing</tt> (982; 69%).
 
 `VERB` tokens may have the following values of `Mood`:
 
@@ -31,7 +31,7 @@ The most frequent other feature values with which `VERB` and `Mood` co-occurred:
 
 464 [AUX](cs_cltt-pos-AUX.html) tokens (77% of all `AUX` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `AUX` and `Mood` co-occurred: <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (464; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (464; 100%), <tt><a href="Person.html">Person</a>=3</tt> (454; 98%), <tt><a href="Voice.html">Voice</a>=Act</tt> (438; 94%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (417; 90%), <tt><a href="Polarity.html">Polarity</a>=Pos</tt> (389; 84%), <tt><a href="Number.html">Number</a>=Sing</tt> (241; 52%).
+The most frequent other feature values with which `AUX` and `Mood` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (464; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (464; 100%), <tt><a href="Person.html">Person</a>=3</tt> (454; 98%), <tt><a href="Voice.html">Voice</a>=Act</tt> (438; 94%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (417; 90%), <tt><a href="Polarity.html">Polarity</a>=Pos</tt> (389; 84%), <tt><a href="Number.html">Number</a>=Sing</tt> (241; 52%).
 
 `AUX` tokens may have the following values of `Mood`:
 
@@ -56,7 +56,7 @@ The 10 most frequent relations where parent and child node agree in `Mood`:
 <tt>VERB --[<a href="../dep/conj.html">conj</a>]--> VERB</tt> (170; 84%),
 <tt>VERB --[<a href="../dep/advcl.html">advcl</a>]--> VERB</tt> (57; 59%),
 <tt>VERB --[<a href="../dep/parataxis.html">parataxis</a>]--> VERB</tt> (27; 87%),
-<tt>AUX --[<a href="../dep/conj.html">conj</a>]--> VERB</tt> (1; 100%),
 <tt>VERB --[<a href="../dep/appos.html">appos</a>]--> VERB</tt> (1; 100%),
+<tt>AUX --[<a href="../dep/conj.html">conj</a>]--> VERB</tt> (1; 100%),
 <tt>VERB --[<a href="../dep/csubj:pass.html">csubj:pass</a>]--> VERB</tt> (1; 100%).
 

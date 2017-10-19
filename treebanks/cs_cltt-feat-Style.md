@@ -18,7 +18,7 @@ The feature is used with 3 part-of-speech tags: [PRON](cs_cltt-pos-PRON.html) (1
 
 12 [PRON](cs_cltt-pos-PRON.html) tokens (1% of all `PRON` tokens) have a non-empty value of `Style`.
 
-The most frequent other feature values with which `PRON` and `Style` co-occurred: <tt><a href="Case.html">Case</a>=Acc</tt> (12; 100%), <tt><a href="PronType.html">PronType</a>=Prs</tt> (12; 100%), <tt><a href="Variant.html">Variant</a>=EMPTY</tt> (12; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (12; 100%), <tt><a href="Reflex.html">Reflex</a>=EMPTY</tt> (12; 100%), <tt><a href="Gender.html">Gender</a>=Masc,Neut</tt> (12; 100%).
+The most frequent other feature values with which `PRON` and `Style` co-occurred: <tt><a href="Reflex.html">Reflex</a>=EMPTY</tt> (12; 100%), <tt><a href="PronType.html">PronType</a>=Prs</tt> (12; 100%), <tt><a href="Variant.html">Variant</a>=EMPTY</tt> (12; 100%), <tt><a href="Case.html">Case</a>=Acc</tt> (12; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (12; 100%), <tt><a href="Gender.html">Gender</a>=Masc,Neut</tt> (12; 100%).
 
 `PRON` tokens may have the following values of `Style`:
 
@@ -28,7 +28,7 @@ The most frequent other feature values with which `PRON` and `Style` co-occurred
 
 4 [ADJ](cs_cltt-pos-ADJ.html) tokens (0% of all `ADJ` tokens) have a non-empty value of `Style`.
 
-The most frequent other feature values with which `ADJ` and `Style` co-occurred: <tt><a href="Degree.html">Degree</a>=Pos</tt> (4; 100%), <tt><a href="Polarity.html">Polarity</a>=Pos</tt> (4; 100%), <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (4; 100%), <tt><a href="Number.html">Number</a>=Plur</tt> (4; 100%).
+The most frequent other feature values with which `ADJ` and `Style` co-occurred: <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (4; 100%), <tt><a href="Number.html">Number</a>=Plur</tt> (4; 100%), <tt><a href="Degree.html">Degree</a>=Pos</tt> (4; 100%), <tt><a href="Polarity.html">Polarity</a>=Pos</tt> (4; 100%).
 
 `ADJ` tokens may have the following values of `Style`:
 
@@ -38,7 +38,7 @@ The most frequent other feature values with which `ADJ` and `Style` co-occurred:
 
 1 [VERB](cs_cltt-pos-VERB.html) tokens (0% of all `VERB` tokens) have a non-empty value of `Style`.
 
-The most frequent other feature values with which `VERB` and `Style` co-occurred: <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (1; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Inf</tt> (1; 100%), <tt><a href="Polarity.html">Polarity</a>=Pos</tt> (1; 100%), <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (1; 100%), <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (1; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (1; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (1; 100%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (1; 100%).
+The most frequent other feature values with which `VERB` and `Style` co-occurred: <tt><a href="Polarity.html">Polarity</a>=Pos</tt> (1; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (1; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Inf</tt> (1; 100%), <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (1; 100%), <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (1; 100%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (1; 100%), <tt><a href="Number.html">Number</a>=EMPTY</tt> (1; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (1; 100%).
 
 `VERB` tokens may have the following values of `Style`:
 

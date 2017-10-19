@@ -84,7 +84,7 @@ The most frequent other feature values with which `ADJ` and `Polarity` co-occurr
 
 2117 [VERB](cs_cltt-pos-VERB.html) tokens (100% of all `VERB` tokens) have a non-empty value of `Polarity`.
 
-The most frequent other feature values with which `VERB` and `Polarity` co-occurred: <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (1741; 82%), <tt><a href="Voice.html">Voice</a>=Act</tt> (1542; 73%), <tt><a href="Person.html">Person</a>=3</tt> (1426; 67%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (1426; 67%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (1426; 67%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (1426; 67%), <tt><a href="Number.html">Number</a>=Sing</tt> (1115; 53%).
+The most frequent other feature values with which `VERB` and `Polarity` co-occurred: <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (1741; 82%), <tt><a href="Voice.html">Voice</a>=Act</tt> (1542; 73%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (1426; 67%), <tt><a href="Person.html">Person</a>=3</tt> (1426; 67%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (1426; 67%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (1426; 67%), <tt><a href="Number.html">Number</a>=Sing</tt> (1115; 53%).
 
 `VERB` tokens may have the following values of `Polarity`:
 
@@ -103,7 +103,7 @@ The most frequent other feature values with which `VERB` and `Polarity` co-occur
 
 551 [AUX](cs_cltt-pos-AUX.html) tokens (91% of all `AUX` tokens) have a non-empty value of `Polarity`.
 
-The most frequent other feature values with which `AUX` and `Polarity` co-occurred: <tt><a href="Voice.html">Voice</a>=Act</tt> (497; 90%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (485; 88%), <tt><a href="Person.html">Person</a>=3</tt> (438; 79%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (438; 79%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (438; 79%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (417; 76%).
+The most frequent other feature values with which `AUX` and `Polarity` co-occurred: <tt><a href="Voice.html">Voice</a>=Act</tt> (497; 90%), <tt><a href="Gender.html">Gender</a>=EMPTY</tt> (485; 88%), <tt><a href="Mood.html">Mood</a>=Ind</tt> (438; 79%), <tt><a href="VerbForm.html">VerbForm</a>=Fin</tt> (438; 79%), <tt><a href="Person.html">Person</a>=3</tt> (438; 79%), <tt><a href="Tense.html">Tense</a>=Pres</tt> (417; 76%).
 
 `AUX` tokens may have the following values of `Polarity`:
 

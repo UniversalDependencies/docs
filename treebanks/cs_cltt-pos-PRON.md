@@ -15,7 +15,7 @@ The 10 most frequent `PRON` types:  se které která který to kterých kterým 
 
 The 10 most frequent ambiguous lemmas: který ([PRON]() 449, [DET]() 1), jenž ([PRON]() 73, [DET]() 21), tento ([DET]() 315, [PRON]() 5), žádný ([PRON]() 4, [DET]() 2), jaký ([PRON]() 3, [DET]() 2), několik ([PRON]() 1, [DET]() 1), některý ([DET]() 6, [PRON]() 1), takový ([DET]() 21, [PRON]() 1)
 
-The 10 most frequent ambiguous types:  se ([PRON]() 467, [ADP]() 34), kterým ([PRON]() 25, [DET]() 1), je ([AUX]() 189, [PRON]() 11, [VERB]() 10), jehož ([DET]() 6, [PRON]() 5), tímto ([DET]() 9, [PRON]() 3), několika ([PRON]() 1, [DET]() 1), t ([NOUN]() 1, [PRON]() 1), takové ([DET]() 5, [PRON]() 1), tato ([DET]() 24, [PRON]() 1), žádná ([PRON]() 1, [DET]() 1)
+The 10 most frequent ambiguous types:  se ([PRON]() 467, [ADP]() 34), kterým ([PRON]() 25, [DET]() 1), je ([AUX]() 189, [PRON]() 11, [VERB]() 10), jehož ([DET]() 6, [PRON]() 5), tímto ([DET]() 9, [PRON]() 3), několika ([PRON]() 1, [DET]() 1), t ([PRON]() 1, [NOUN]() 1), takové ([DET]() 5, [PRON]() 1), tato ([DET]() 24, [PRON]() 1), žádná ([PRON]() 1, [DET]() 1)
 
 
 * se
@@ -38,8 +38,8 @@ The 10 most frequent ambiguous types:  se ([PRON]() 467, [ADP]() 34), kterým ([
   * [PRON]() 1: (2) Položka "C.I.2. Nedokončená výroba a polotovary" obsahuje a) produkty , které prošly jedním nebo <b>několika</b> výrobními stupni a nejsou již materiálem , nejsou však dosud hotovým výrobkem ; tato položka rovněž obsahuje nedokončené činnosti , při nichž nevznikají hmotné produkty , b) odděleně evidované produkty , to je polotovary , které dosud neprošly všemi výrobními stupni a budou dokončeny nebo zkompletovány do hotových výrobků v dalším výrobním procesu účetní jednotky .
   * [DET]() 1: (5) Jednotlivý účetní záznam může být tvořen <b>několika</b> dílčími účetními záznamy .
 * t
-  * [NOUN]() 1: Odpisová sazba na jednotku těženého množství ( Kč / <b>t</b> , Kč / m je podílem pořizovací ceny ložiska na jednotlivém pozemku a zásob nevyhrazeného nerostu ( t , m prokázaných geologickým průzkumem na tomto pozemku .
   * [PRON]() 1: Odpisová sazba na jednotku těženého množství ( Kč / t , Kč / m je podílem pořizovací ceny ložiska na jednotlivém pozemku a zásob nevyhrazeného nerostu ( <b>t</b> , m prokázaných geologickým průzkumem na tomto pozemku .
+  * [NOUN]() 1: Odpisová sazba na jednotku těženého množství ( Kč / <b>t</b> , Kč / m je podílem pořizovací ceny ložiska na jednotlivém pozemku a zásob nevyhrazeného nerostu ( t , m prokázaných geologickým průzkumem na tomto pozemku .
 * takové
   * [DET]() 5: Účetní jednotky jsou povinny <b>takové</b> účetní záznamy vést nejméně v rozsahu stanoveném tímto zákonem .
   * [PRON]() 1: Pokud tuto podmínku nemůže účetní jednotka zabezpečit , převede <b>takové</b> účetní záznamy do listinné formy odpovídající době jejich vyřízení a opatří je náležitostmi originálu , a to nejpozději před jejich zařazením do výběru archiválií ve skartačním řízení nebo mimo něj ; obdobně postupuje při nakládání s účetními záznamy přijatými účetní jednotkou v technické , případně smíšené formě , u účetních záznamů obsahujících uznávaný elektronický podpis včetně průkazného potvrzení v listinné formě o platnosti uznávaného elektronického podpisu v době přijetí účetního záznamu .

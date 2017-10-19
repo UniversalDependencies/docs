@@ -11,7 +11,7 @@ This relation is universal.
 3888 nodes (10%) are attached to their parents as `case`.
 
 3853 instances of `case` (99%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.72350823045268.
+Average distance between parent and child is 1.72350823045267.
 
 The following 12 pairs of parts of speech are connected with `case`: [-pos/NOUN]()-[-pos/ADP]() (3395; 87% instances), [-pos/X]()-[-pos/ADP]() (235; 6% instances), [-pos/PRON]()-[-pos/ADP]() (200; 5% instances), [-pos/ADJ]()-[-pos/ADP]() (21; 1% instances), [-pos/NOUN]()-[-pos/ADV]() (10; 0% instances), [-pos/NOUN]()-[-pos/ADJ]() (9; 0% instances), [-pos/ADV]()-[-pos/ADP]() (8; 0% instances), [-pos/NOUN]()-[-pos/NOUN]() (5; 0% instances), [-pos/NUM]()-[-pos/ADP]() (2; 0% instances), [-pos/NOUN]()-[-pos/SCONJ]() (1; 0% instances), [-pos/NUM]()-[-pos/ADV]() (1; 0% instances), [-pos/SYM]()-[-pos/ADP]() (1; 0% instances).
 

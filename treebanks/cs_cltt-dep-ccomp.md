@@ -72,45 +72,44 @@ The following 6 pairs of parts of speech are connected with `ccomp`: [-pos/VERB]
 
 
 ~~~ conllu
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
+# visual-style 13	bgColor:blue
+# visual-style 13	fgColor:white
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
-# visual-style 2 10 ccomp	color:blue
-1	(2)	(2)	PUNCT	Z:-------------	_	14	punct	_	_
-2	Zjistí-li	Zjistí-li	NOUN	NNNXX-----A----	Gender=Neut|Polarity=Pos	14	obl	_	_
+# visual-style 2 13 ccomp	color:blue
+1	(2)	(2)	PUNCT	Z:-------------	_	22	punct	_	_
+2	Zjistí-li	Zjistí-li	NOUN	NNNXX-----A----	Gender=Neut|Polarity=Pos	22	obl	_	_
 3	účetní	účetní	ADJ	AAFS1----1A----	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	4	amod	_	LId=účetní-1
 4	jednotka	jednotka	NOUN	NNFS1-----A----	Case=Nom|Gender=Fem|Number=Sing|Polarity=Pos	2	nsubj	_	SpaceAfter=No
-5	,	,	PUNCT	Z:-------------	_	10	punct	_	_
-6	že	že	SCONJ	J,-------------	_	10	mark	_	_
-7	obsah	obsah	NOUN	NNIS1-----A----	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing|Polarity=Pos	10	nsubj	_	_
-8	účetního	účetní	ADJ	AAIS2----1A----	Animacy=Inan|Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos	9	amod	_	LId=účetní-1
-9	záznamu	záznam	NOUN	NNIS2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing|Polarity=Pos	7	nmod	_	_
-10	neodpovídá	odpovídat	VERB	VB-S---3P-NA---	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act	2	ccomp	_	_
-11	skutečnosti	skutečnost	NOUN	NNFS2-----A----	Case=Gen|Gender=Fem|Number=Sing|Polarity=Pos	10	obj	_	SpaceAfter=No
-12	,	,	PUNCT	Z:-------------	_	10	punct	_	_
-13	je	být	AUX	VB-S---3P-AA---	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	14	cop	_	_
-14	povinna	povinný	ADJ	ACQW------A----	Gender=Fem,Neut|Number=Plur,Sing|Polarity=Pos|Variant=Short	0	root	_	_
-15	od	od	ADP	RR--2----------	AdpType=Prep|Case=Gen	17	case	_	LId=od-1
-16	tohoto	tento	DET	PDZS2----------	Case=Gen|Gender=Masc,Neut|Number=Sing|PronType=Dem	17	det	_	_
-17	okamžiku	okamžik	NOUN	NNIS2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing|Polarity=Pos	18	obl	_	_
-18	považovat	považovat	VERB	Vf--------A----	Polarity=Pos|VerbForm=Inf	14	xcomp	_	_
-19	tento	tento	DET	PDIS4----------	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|PronType=Dem	21	det	_	_
-20	účetní	účetní	ADJ	AAIS4----1A----	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos	21	amod	_	LId=účetní-1
-21	záznam	záznam	NOUN	NNIS4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|Polarity=Pos	18	obj	_	_
-22	za	za	ADP	RR--4----------	AdpType=Prep|Case=Acc	23	case	_	LId=za-1
-23	neprůkazný	průkazný	ADJ	AAIS4----1N----	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Neg	18	iobj	_	SpaceAfter=No
-24	,	,	PUNCT	Z:-------------	_	26	punct	_	_
-25	byť	byť	SCONJ	J,-------------	_	26	mark	_	_
-26	splňuje	splňovat	VERB	VB-S---3P-AA---	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	18	advcl	_	_
-27	ustanovení	ustanovení	NOUN	NNNS4-----A----	Case=Acc|Gender=Neut|Number=Sing|Polarity=Pos	26	obj	_	_
-28	odstavce	odstavec	NOUN	NNIS2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing|Polarity=Pos	27	nmod	_	_
-29	1	1	NUM	C}-------------	NumForm=Roman|NumType=Card	28	nummod	_	_
-30	písm.	písm.	X	X@-------------	_	29	nmod	_	_
-31	b)	b)	X	X@-------------	_	30	flat	_	_
-32	a	a	X	X@-------------	_	30	flat	_	_
-33	c)	c)	X	X@-------------	_	30	flat	_	SpaceAfter=No
-34	.	.	PUNCT	Z:-------------	_	14	punct	_	_
+5	,	,	PUNCT	Z:-------------	_	13	punct	_	_
+6	že	že	SCONJ	J,-------------	_	13	mark	_	_
+7	některé	některý	DET	PZIP1----------	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur|PronType=Ind	9	det	_	_
+8	účetní	účetní	ADJ	AAIP1----1A----	Animacy=Inan|Case=Nom|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos	9	amod	_	LId=účetní-1
+9	záznamy	záznam	NOUN	NNIP1-----A----	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur|Polarity=Pos	13	nsubj	_	_
+10	jejího	jeho	DET	PSZS2FS3-------	Case=Gen|Gender=Masc,Neut|Gender[psor]=Fem|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	11	det	_	_
+11	účetnictví	účetnictví	NOUN	NNNS2-----A----	Case=Gen|Gender=Neut|Number=Sing|Polarity=Pos	9	nmod	_	_
+12	jsou	být	AUX	VB-P---3P-AA---	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	13	cop	_	_
+13	neúplné	úplný	ADJ	AAFP1----1N----	Case=Nom|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Neg	2	ccomp	_	SpaceAfter=No
+14	,	,	PUNCT	Z:-------------	_	15	punct	_	_
+15	neprůkazné	průkazný	ADJ	AAFP1----1N----	Case=Nom|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Neg	13	conj	_	SpaceAfter=No
+16	,	,	PUNCT	Z:-------------	_	17	punct	_	_
+17	nesprávné	správný	ADJ	AAFP1----1N----	Case=Nom|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Neg	13	conj	_	_
+18	nebo	nebo	CCONJ	J^-------------	_	19	cc	_	_
+19	nesrozumitelné	srozumitelný	ADJ	AAFP1----1N----	Case=Nom|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Neg	13	conj	_	SpaceAfter=No
+20	,	,	PUNCT	Z:-------------	_	2	punct	_	_
+21	je	být	AUX	VB-S---3P-AA---	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	22	cop	_	_
+22	povinna	povinný	ADJ	ACQW------A----	Gender=Fem,Neut|Number=Plur,Sing|Polarity=Pos|Variant=Short	0	root	_	_
+23	provést	provést	VERB	Vf--------A----	Polarity=Pos|VerbForm=Inf	22	xcomp	_	_
+24	bez	bez	ADP	RR--2----------	AdpType=Prep|Case=Gen	26	case	_	LId=bez-1
+25	zbytečného	zbytečný	ADJ	AAIS2----1A----	Animacy=Inan|Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos	26	amod	_	_
+26	odkladu	odklad	NOUN	NNIS2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing|Polarity=Pos	23	obl	_	_
+27	jejich	jeho	DET	PSXXXXP3-------	Number[psor]=Plur|Person=3|Poss=Yes|PronType=Prs	28	det	_	_
+28	opravu	oprava	NOUN	NNFS4-----A----	Case=Acc|Gender=Fem|Number=Sing|Polarity=Pos	23	obj	_	_
+29	způsobem	způsob	NOUN	NNIS7-----A----	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing|Polarity=Pos	23	obl	_	_
+30	podle	podle	ADP	RR--2----------	AdpType=Prep|Case=Gen	31	case	_	LId=podle-2
+31	odstavce	odstavec	NOUN	NNIS2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing|Polarity=Pos	29	nmod	_	_
+32	3	3	NUM	C}-------------	NumForm=Roman|NumType=Card	31	nummod	_	SpaceAfter=No
+33	.	.	PUNCT	Z:-------------	_	22	punct	_	_
 
 ~~~
 
