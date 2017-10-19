@@ -43,9 +43,9 @@ The 3rd highest number of forms (1) was observed with the lemma “jen”: jen.
 
 ## Relations
 
-`PART` nodes are attached to their parents using 5 different relations: [-dep/advmod:emph]() (55; 73% instances), [-dep/cc]() (15; 20% instances), [-dep/appos]() (3; 4% instances), [-dep/nmod]() (1; 1% instances), [-dep/xcomp]() (1; 1% instances)
+`PART` nodes are attached to their parents using 5 different relations: [advmod:emph](cs_cltt-dep-advmod:emph.html) (55; 73% instances), [cc](cs_cltt-dep-cc.html) (15; 20% instances), [appos](cs_cltt-dep-appos.html) (3; 4% instances), [nmod](cs_cltt-dep-nmod.html) (1; 1% instances), [xcomp](cs_cltt-dep-xcomp.html) (1; 1% instances)
 
-Parents of `PART` nodes belong to 5 different parts of speech: [X]() (38; 51% instances), [NOUN]() (27; 36% instances), [NUM]() (6; 8% instances), [ADV]() (3; 4% instances), [ADJ]() (1; 1% instances)
+Parents of `PART` nodes belong to 5 different parts of speech: [X](cs_cltt-pos-X.html) (38; 51% instances), [NOUN](cs_cltt-pos-NOUN.html) (27; 36% instances), [NUM](cs_cltt-pos-NUM.html) (6; 8% instances), [ADV](cs_cltt-pos-ADV.html) (3; 4% instances), [ADJ](cs_cltt-pos-ADJ.html) (1; 1% instances)
 
 71 (95%) `PART` nodes are leaves.
 
@@ -57,7 +57,7 @@ Parents of `PART` nodes belong to 5 different parts of speech: [X]() (38; 51% in
 
 The highest child degree of a `PART` node is 3.
 
-Children of `PART` nodes are attached using 2 different relations: [-dep/punct]() (8; 89% instances), [-dep/xcomp]() (1; 11% instances)
+Children of `PART` nodes are attached using 2 different relations: [punct](cs_cltt-dep-punct.html) (8; 89% instances), [xcomp](cs_cltt-dep-xcomp.html) (1; 11% instances)
 
-Children of `PART` nodes belong to 2 different parts of speech: [PUNCT]() (8; 89% instances), [ADJ]() (1; 11% instances)
+Children of `PART` nodes belong to 2 different parts of speech: [PUNCT](cs_cltt-pos-PUNCT.html) (8; 89% instances), [ADJ](cs_cltt-pos-ADJ.html) (1; 11% instances)
 

@@ -60,7 +60,7 @@ The 2nd highest number of forms (2) was observed with the lemma “hodně”: ne
 
 The 3rd highest number of forms (2) was observed with the lemma “málo”: méně, nejméně.
 
-`ADV` occurs with 4 features: [-feat/Degree]() (285; 36% instances), [-feat/Polarity]() (285; 36% instances), [-feat/NumType]() (14; 2% instances), [-feat/Abbr]() (3; 0% instances)
+`ADV` occurs with 4 features: [Degree](cs_cltt-feat-Degree.html) (285; 36% instances), [Polarity](cs_cltt-feat-Polarity.html) (285; 36% instances), [NumType](cs_cltt-feat-NumType.html) (14; 2% instances), [Abbr](cs_cltt-feat-Abbr.html) (3; 0% instances)
 
 `ADV` occurs with 8 feature-value pairs: `Abbr=Yes`, `Degree=Cmp`, `Degree=Pos`, `Degree=Sup`, `NumType=Mult`, `NumType=Ord`, `Polarity=Neg`, `Polarity=Pos`
 
@@ -71,9 +71,9 @@ Examples: dále zejména popřípadě jinak pouze kdy též například tak celk
 
 ## Relations
 
-`ADV` nodes are attached to their parents using 12 different relations: [-dep/advmod]() (449; 57% instances), [-dep/advmod:emph]() (175; 22% instances), [-dep/cc]() (72; 9% instances), [-dep/conj]() (35; 4% instances), [-dep/dep]() (31; 4% instances), [-dep/case]() (11; 1% instances), [-dep/obj]() (5; 1% instances), [-dep/nsubj:pass]() (3; 0% instances), [-dep/acl]() (2; 0% instances), [-dep/appos]() (2; 0% instances), [-dep/mark]() (1; 0% instances), [-dep/nsubj]() (1; 0% instances)
+`ADV` nodes are attached to their parents using 12 different relations: [advmod](cs_cltt-dep-advmod.html) (449; 57% instances), [advmod:emph](cs_cltt-dep-advmod:emph.html) (175; 22% instances), [cc](cs_cltt-dep-cc.html) (72; 9% instances), [conj](cs_cltt-dep-conj.html) (35; 4% instances), [dep](cs_cltt-dep-dep.html) (31; 4% instances), [case](cs_cltt-dep-case.html) (11; 1% instances), [obj](cs_cltt-dep-obj.html) (5; 1% instances), [nsubj:pass](cs_cltt-dep-nsubj:pass.html) (3; 0% instances), [acl](cs_cltt-dep-acl.html) (2; 0% instances), [appos](cs_cltt-dep-appos.html) (2; 0% instances), [mark](cs_cltt-dep-mark.html) (1; 0% instances), [nsubj](cs_cltt-dep-nsubj.html) (1; 0% instances)
 
-Parents of `ADV` nodes belong to 9 different parts of speech: [VERB]() (332; 42% instances), [NOUN]() (305; 39% instances), [ADJ]() (98; 12% instances), [ADV]() (22; 3% instances), [NUM]() (20; 3% instances), [X]() (6; 1% instances), [PRON]() (2; 0% instances), [AUX]() (1; 0% instances), [SYM]() (1; 0% instances)
+Parents of `ADV` nodes belong to 9 different parts of speech: [VERB](cs_cltt-pos-VERB.html) (332; 42% instances), [NOUN](cs_cltt-pos-NOUN.html) (305; 39% instances), [ADJ](cs_cltt-pos-ADJ.html) (98; 12% instances), [ADV](cs_cltt-pos-ADV.html) (22; 3% instances), [NUM](cs_cltt-pos-NUM.html) (20; 3% instances), [X](cs_cltt-pos-X.html) (6; 1% instances), [PRON](cs_cltt-pos-PRON.html) (2; 0% instances), [AUX](cs_cltt-pos-AUX.html) (1; 0% instances), [SYM](cs_cltt-pos-SYM.html) (1; 0% instances)
 
 674 (86%) `ADV` nodes are leaves.
 
@@ -85,7 +85,7 @@ Parents of `ADV` nodes belong to 9 different parts of speech: [VERB]() (332; 42%
 
 The highest child degree of a `ADV` node is 6.
 
-Children of `ADV` nodes are attached using 18 different relations: [-dep/cc]() (36; 22% instances), [-dep/obl]() (33; 20% instances), [-dep/conj]() (23; 14% instances), [-dep/advcl]() (16; 10% instances), [-dep/punct]() (15; 9% instances), [-dep/case]() (8; 5% instances), [-dep/advmod:emph]() (7; 4% instances), [-dep/advmod]() (4; 2% instances), [-dep/dep]() (4; 2% instances), [-dep/fixed]() (3; 2% instances), [-dep/orphan]() (3; 2% instances), [-dep/appos]() (2; 1% instances), [-dep/cop]() (2; 1% instances), [-dep/nsubj]() (2; 1% instances), [-dep/amod]() (1; 1% instances), [-dep/mark]() (1; 1% instances), [-dep/obj]() (1; 1% instances), [-dep/xcomp]() (1; 1% instances)
+Children of `ADV` nodes are attached using 18 different relations: [cc](cs_cltt-dep-cc.html) (36; 22% instances), [obl](cs_cltt-dep-obl.html) (33; 20% instances), [conj](cs_cltt-dep-conj.html) (23; 14% instances), [advcl](cs_cltt-dep-advcl.html) (16; 10% instances), [punct](cs_cltt-dep-punct.html) (15; 9% instances), [case](cs_cltt-dep-case.html) (8; 5% instances), [advmod:emph](cs_cltt-dep-advmod:emph.html) (7; 4% instances), [advmod](cs_cltt-dep-advmod.html) (4; 2% instances), [dep](cs_cltt-dep-dep.html) (4; 2% instances), [fixed](cs_cltt-dep-fixed.html) (3; 2% instances), [orphan](cs_cltt-dep-orphan.html) (3; 2% instances), [appos](cs_cltt-dep-appos.html) (2; 1% instances), [cop](cs_cltt-dep-cop.html) (2; 1% instances), [nsubj](cs_cltt-dep-nsubj.html) (2; 1% instances), [amod](cs_cltt-dep-amod.html) (1; 1% instances), [mark](cs_cltt-dep-mark.html) (1; 1% instances), [obj](cs_cltt-dep-obj.html) (1; 1% instances), [xcomp](cs_cltt-dep-xcomp.html) (1; 1% instances)
 
-Children of `ADV` nodes belong to 13 different parts of speech: [NOUN]() (46; 28% instances), [CCONJ]() (34; 21% instances), [ADV]() (22; 14% instances), [PUNCT]() (15; 9% instances), [NUM]() (13; 8% instances), [ADP]() (11; 7% instances), [PRON]() (7; 4% instances), [ADJ]() (3; 2% instances), [PART]() (3; 2% instances), [AUX]() (2; 1% instances), [SCONJ]() (2; 1% instances), [VERB]() (2; 1% instances), [X]() (2; 1% instances)
+Children of `ADV` nodes belong to 13 different parts of speech: [NOUN](cs_cltt-pos-NOUN.html) (46; 28% instances), [CCONJ](cs_cltt-pos-CCONJ.html) (34; 21% instances), [ADV](cs_cltt-pos-ADV.html) (22; 14% instances), [PUNCT](cs_cltt-pos-PUNCT.html) (15; 9% instances), [NUM](cs_cltt-pos-NUM.html) (13; 8% instances), [ADP](cs_cltt-pos-ADP.html) (11; 7% instances), [PRON](cs_cltt-pos-PRON.html) (7; 4% instances), [ADJ](cs_cltt-pos-ADJ.html) (3; 2% instances), [PART](cs_cltt-pos-PART.html) (3; 2% instances), [AUX](cs_cltt-pos-AUX.html) (2; 1% instances), [SCONJ](cs_cltt-pos-SCONJ.html) (2; 1% instances), [VERB](cs_cltt-pos-VERB.html) (2; 1% instances), [X](cs_cltt-pos-X.html) (2; 1% instances)
 

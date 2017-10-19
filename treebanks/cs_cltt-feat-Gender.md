@@ -19,11 +19,11 @@ This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with t
 19272 tokens (51%) have a non-empty value of `Gender`.
 3629 types (79%) occur at least once with a non-empty value of `Gender`.
 1647 lemmas (63%) occur at least once with a non-empty value of `Gender`.
-The feature is used with 7 part-of-speech tags: [-pos/NOUN]() (11296; 30% instances), [-pos/ADJ]() (6524; 17% instances), [-pos/PRON]() (610; 2% instances), [-pos/VERB]() (376; 1% instances), [-pos/DET]() (354; 1% instances), [-pos/AUX]() (66; 0% instances), [-pos/NUM]() (46; 0% instances).
+The feature is used with 7 part-of-speech tags: [NOUN](cs_cltt-pos-NOUN.html) (11296; 30% instances), [ADJ](cs_cltt-pos-ADJ.html) (6524; 17% instances), [PRON](cs_cltt-pos-PRON.html) (610; 2% instances), [VERB](cs_cltt-pos-VERB.html) (376; 1% instances), [DET](cs_cltt-pos-DET.html) (354; 1% instances), [AUX](cs_cltt-pos-AUX.html) (66; 0% instances), [NUM](cs_cltt-pos-NUM.html) (46; 0% instances).
 
 ### `NOUN`
 
-11296 [-pos/NOUN]() tokens (100% of all `NOUN` tokens) have a non-empty value of `Gender`.
+11296 [NOUN](cs_cltt-pos-NOUN.html) tokens (100% of all `NOUN` tokens) have a non-empty value of `Gender`.
 
 The most frequent other feature values with which `NOUN` and `Gender` co-occurred: <tt><a href="Polarity.html">Polarity</a>=Pos</tt> (11281; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (7969; 71%), <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (6749; 60%).
 
@@ -48,7 +48,7 @@ The most frequent other feature values with which `NOUN` and `Gender` co-occurre
 
 ### `ADJ`
 
-6524 [-pos/ADJ]() tokens (100% of all `ADJ` tokens) have a non-empty value of `Gender`.
+6524 [ADJ](cs_cltt-pos-ADJ.html) tokens (100% of all `ADJ` tokens) have a non-empty value of `Gender`.
 
 The most frequent other feature values with which `ADJ` and `Gender` co-occurred: <tt><a href="Polarity.html">Polarity</a>=Pos</tt> (6344; 97%), <tt><a href="Degree.html">Degree</a>=Pos</tt> (6028; 92%), <tt><a href="Number.html">Number</a>=Sing</tt> (4114; 63%), <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (3902; 60%).
 
@@ -72,7 +72,7 @@ The most frequent other feature values with which `ADJ` and `Gender` co-occurred
 
 ### `PRON`
 
-610 [-pos/PRON]() tokens (50% of all `PRON` tokens) have a non-empty value of `Gender`.
+610 [PRON](cs_cltt-pos-PRON.html) tokens (50% of all `PRON` tokens) have a non-empty value of `Gender`.
 
 The most frequent other feature values with which `PRON` and `Gender` co-occurred: <tt><a href="Reflex.html">Reflex</a>=EMPTY</tt> (610; 100%), <tt><a href="Variant.html">Variant</a>=EMPTY</tt> (609; 100%), <tt><a href="PronType.html">PronType</a>=Int,Rel</tt> (412; 68%), <tt><a href="Number.html">Number</a>=Sing</tt> (400; 66%), <tt><a href="Case.html">Case</a>=Nom</tt> (323; 53%).
 
@@ -100,7 +100,7 @@ The most frequent other feature values with which `PRON` and `Gender` co-occurre
 
 ### `VERB`
 
-376 [-pos/VERB]() tokens (18% of all `VERB` tokens) have a non-empty value of `Gender`.
+376 [VERB](cs_cltt-pos-VERB.html) tokens (18% of all `VERB` tokens) have a non-empty value of `Gender`.
 
 The most frequent other feature values with which `VERB` and `Gender` co-occurred: <tt><a href="Person.html">Person</a>=EMPTY</tt> (376; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (376; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (375; 100%), <tt><a href="Polarity.html">Polarity</a>=Pos</tt> (365; 97%), <tt><a href="Voice.html">Voice</a>=Pass</tt> (260; 69%), <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (260; 69%).
 
@@ -122,7 +122,7 @@ The most frequent other feature values with which `VERB` and `Gender` co-occurre
 
 ### `DET`
 
-354 [-pos/DET]() tokens (59% of all `DET` tokens) have a non-empty value of `Gender`.
+354 [DET](cs_cltt-pos-DET.html) tokens (59% of all `DET` tokens) have a non-empty value of `Gender`.
 
 The most frequent other feature values with which `DET` and `Gender` co-occurred: <tt><a href="Number[psor].html">Number[psor]</a>=EMPTY</tt> (322; 91%), <tt><a href="Gender[psor].html">Gender[psor]</a>=EMPTY</tt> (322; 91%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (322; 91%), <tt><a href="Number.html">Number</a>=Sing</tt> (306; 86%), <tt><a href="Poss.html">Poss</a>=EMPTY</tt> (301; 85%), <tt><a href="PronType.html">PronType</a>=Dem</tt> (292; 82%).
 
@@ -151,7 +151,7 @@ The most frequent other feature values with which `DET` and `Gender` co-occurred
 
 ### `AUX`
 
-66 [-pos/AUX]() tokens (11% of all `AUX` tokens) have a non-empty value of `Gender`.
+66 [AUX](cs_cltt-pos-AUX.html) tokens (11% of all `AUX` tokens) have a non-empty value of `Gender`.
 
 The most frequent other feature values with which `AUX` and `Gender` co-occurred: <tt><a href="Person.html">Person</a>=EMPTY</tt> (66; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (66; 100%), <tt><a href="Tense.html">Tense</a>=Past</tt> (59; 89%), <tt><a href="Voice.html">Voice</a>=Act</tt> (59; 89%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (59; 89%), <tt><a href="Polarity.html">Polarity</a>=Pos</tt> (54; 82%).
 
@@ -175,7 +175,7 @@ The most frequent other feature values with which `AUX` and `Gender` co-occurred
 
 ### `NUM`
 
-46 [-pos/NUM]() tokens (10% of all `NUM` tokens) have a non-empty value of `Gender`.
+46 [NUM](cs_cltt-pos-NUM.html) tokens (10% of all `NUM` tokens) have a non-empty value of `Gender`.
 
 The most frequent other feature values with which `NUM` and `Gender` co-occurred: <tt><a href="NumType.html">NumType</a>=Card</tt> (46; 100%), <tt><a href="NumValue.html">NumValue</a>=1,2,3</tt> (46; 100%), <tt><a href="NumForm.html">NumForm</a>=Word</tt> (46; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (38; 83%).
 

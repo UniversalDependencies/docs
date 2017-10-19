@@ -44,9 +44,9 @@ The 3rd highest number of forms (1) was observed with the lemma “(1)”: (1).
 
 ## Relations
 
-`PUNCT` nodes are attached to their parents using 2 different relations: [-dep/punct]() (3991; 100% instances), [-dep/conj]() (3; 0% instances)
+`PUNCT` nodes are attached to their parents using 2 different relations: [punct](cs_cltt-dep-punct.html) (3991; 100% instances), [conj](cs_cltt-dep-conj.html) (3; 0% instances)
 
-Parents of `PUNCT` nodes belong to 12 different parts of speech: [VERB]() (2144; 54% instances), [NOUN]() (1290; 32% instances), [ADJ]() (315; 8% instances), [X]() (122; 3% instances), [NUM]() (87; 2% instances), [ADV]() (15; 0% instances), [PART]() (8; 0% instances), [PRON]() (7; 0% instances), [PUNCT]() (2; 0% instances), [SYM]() (2; 0% instances), [DET]() (1; 0% instances), [SCONJ]() (1; 0% instances)
+Parents of `PUNCT` nodes belong to 12 different parts of speech: [VERB](cs_cltt-pos-VERB.html) (2144; 54% instances), [NOUN](cs_cltt-pos-NOUN.html) (1290; 32% instances), [ADJ](cs_cltt-pos-ADJ.html) (315; 8% instances), [X](cs_cltt-pos-X.html) (122; 3% instances), [NUM](cs_cltt-pos-NUM.html) (87; 2% instances), [ADV](cs_cltt-pos-ADV.html) (15; 0% instances), [PART](cs_cltt-pos-PART.html) (8; 0% instances), [PRON](cs_cltt-pos-PRON.html) (7; 0% instances), [PUNCT](cs_cltt-pos-PUNCT.html) (2; 0% instances), [SYM](cs_cltt-pos-SYM.html) (2; 0% instances), [DET](cs_cltt-pos-DET.html) (1; 0% instances), [SCONJ](cs_cltt-pos-SCONJ.html) (1; 0% instances)
 
 3991 (100%) `PUNCT` nodes are leaves.
 
@@ -54,7 +54,7 @@ Parents of `PUNCT` nodes belong to 12 different parts of speech: [VERB]() (2144;
 
 The highest child degree of a `PUNCT` node is 1.
 
-Children of `PUNCT` nodes are attached using 2 different relations: [-dep/punct]() (2; 67% instances), [-dep/cc]() (1; 33% instances)
+Children of `PUNCT` nodes are attached using 2 different relations: [punct](cs_cltt-dep-punct.html) (2; 67% instances), [cc](cs_cltt-dep-cc.html) (1; 33% instances)
 
-Children of `PUNCT` nodes belong to 2 different parts of speech: [PUNCT]() (2; 67% instances), [CCONJ]() (1; 33% instances)
+Children of `PUNCT` nodes belong to 2 different parts of speech: [PUNCT](cs_cltt-pos-PUNCT.html) (2; 67% instances), [CCONJ](cs_cltt-pos-CCONJ.html) (1; 33% instances)
 

@@ -16,11 +16,11 @@ It occurs with 6 different values: `Acc`, `Dat`, `Gen`, `Ins`, `Loc`, `Nom`.
 23293 tokens (62%) have a non-empty value of `Case`.
 3471 types (76%) occur at least once with a non-empty value of `Case`.
 1533 lemmas (59%) occur at least once with a non-empty value of `Case`.
-The feature is used with 8 part-of-speech tags: [-pos/NOUN]() (11244; 30% instances), [-pos/ADJ]() (6421; 17% instances), [-pos/ADP]() (3938; 11% instances), [-pos/PRON]() (1211; 3% instances), [-pos/DET]() (406; 1% instances), [-pos/NUM]() (69; 0% instances), [-pos/VERB]() (3; 0% instances), [-pos/AUX]() (1; 0% instances).
+The feature is used with 8 part-of-speech tags: [NOUN](cs_cltt-pos-NOUN.html) (11244; 30% instances), [ADJ](cs_cltt-pos-ADJ.html) (6421; 17% instances), [ADP](cs_cltt-pos-ADP.html) (3938; 11% instances), [PRON](cs_cltt-pos-PRON.html) (1211; 3% instances), [DET](cs_cltt-pos-DET.html) (406; 1% instances), [NUM](cs_cltt-pos-NUM.html) (69; 0% instances), [VERB](cs_cltt-pos-VERB.html) (3; 0% instances), [AUX](cs_cltt-pos-AUX.html) (1; 0% instances).
 
 ### `NOUN`
 
-11244 [-pos/NOUN]() tokens (100% of all `NOUN` tokens) have a non-empty value of `Case`.
+11244 [NOUN](cs_cltt-pos-NOUN.html) tokens (100% of all `NOUN` tokens) have a non-empty value of `Case`.
 
 The most frequent other feature values with which `NOUN` and `Case` co-occurred: <tt><a href="Polarity.html">Polarity</a>=Pos</tt> (11229; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (7969; 71%), <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (6704; 60%).
 
@@ -42,7 +42,7 @@ The most frequent other feature values with which `NOUN` and `Case` co-occurred:
 
 ### `ADJ`
 
-6421 [-pos/ADJ]() tokens (98% of all `ADJ` tokens) have a non-empty value of `Case`.
+6421 [ADJ](cs_cltt-pos-ADJ.html) tokens (98% of all `ADJ` tokens) have a non-empty value of `Case`.
 
 The most frequent other feature values with which `ADJ` and `Case` co-occurred: <tt><a href="Polarity.html">Polarity</a>=Pos</tt> (6241; 97%), <tt><a href="Degree.html">Degree</a>=Pos</tt> (6028; 94%), <tt><a href="Number.html">Number</a>=Sing</tt> (4099; 64%), <tt><a href="Animacy.html">Animacy</a>=EMPTY</tt> (3857; 60%).
 
@@ -68,7 +68,7 @@ The most frequent other feature values with which `ADJ` and `Case` co-occurred: 
 
 ### `ADP`
 
-3938 [-pos/ADP]() tokens (100% of all `ADP` tokens) have a non-empty value of `Case`.
+3938 [ADP](cs_cltt-pos-ADP.html) tokens (100% of all `ADP` tokens) have a non-empty value of `Case`.
 
 The most frequent other feature values with which `ADP` and `Case` co-occurred: <tt><a href="AdpType.html">AdpType</a>=Prep</tt> (3593; 91%).
 
@@ -88,7 +88,7 @@ The most frequent other feature values with which `ADP` and `Case` co-occurred: 
 
 ### `PRON`
 
-1211 [-pos/PRON]() tokens (100% of all `PRON` tokens) have a non-empty value of `Case`.
+1211 [PRON](cs_cltt-pos-PRON.html) tokens (100% of all `PRON` tokens) have a non-empty value of `Case`.
 
 The most frequent other feature values with which `PRON` and `Case` co-occurred: <tt><a href="Variant.html">Variant</a>=EMPTY</tt> (742; 61%), <tt><a href="Reflex.html">Reflex</a>=EMPTY</tt> (736; 61%).
 
@@ -118,7 +118,7 @@ The most frequent other feature values with which `PRON` and `Case` co-occurred:
 
 ### `DET`
 
-406 [-pos/DET]() tokens (68% of all `DET` tokens) have a non-empty value of `Case`.
+406 [DET](cs_cltt-pos-DET.html) tokens (68% of all `DET` tokens) have a non-empty value of `Case`.
 
 The most frequent other feature values with which `DET` and `Case` co-occurred: <tt><a href="Number[psor].html">Number[psor]</a>=EMPTY</tt> (379; 93%), <tt><a href="Gender[psor].html">Gender[psor]</a>=EMPTY</tt> (379; 93%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (379; 93%), <tt><a href="Poss.html">Poss</a>=EMPTY</tt> (355; 87%), <tt><a href="PronType.html">PronType</a>=Dem</tt> (341; 84%), <tt><a href="Number.html">Number</a>=Sing</tt> (297; 73%).
 
@@ -146,7 +146,7 @@ The most frequent other feature values with which `DET` and `Case` co-occurred: 
 
 ### `NUM`
 
-69 [-pos/NUM]() tokens (16% of all `NUM` tokens) have a non-empty value of `Case`.
+69 [NUM](cs_cltt-pos-NUM.html) tokens (16% of all `NUM` tokens) have a non-empty value of `Case`.
 
 The most frequent other feature values with which `NUM` and `Case` co-occurred: <tt><a href="NumType.html">NumType</a>=Card</tt> (69; 100%), <tt><a href="NumForm.html">NumForm</a>=Word</tt> (69; 100%), <tt><a href="NumValue.html">NumValue</a>=1,2,3</tt> (58; 84%), <tt><a href="Number.html">Number</a>=Sing</tt> (45; 65%).
 
@@ -171,7 +171,7 @@ The most frequent other feature values with which `NUM` and `Case` co-occurred: 
 
 ### `VERB`
 
-3 [-pos/VERB]() tokens (0% of all `VERB` tokens) have a non-empty value of `Case`.
+3 [VERB](cs_cltt-pos-VERB.html) tokens (0% of all `VERB` tokens) have a non-empty value of `Case`.
 
 The most frequent other feature values with which `VERB` and `Case` co-occurred: <tt><a href="Gender.html">Gender</a>=Fem</tt> (3; 100%), <tt><a href="Number.html">Number</a>=Sing</tt> (3; 100%), <tt><a href="Voice.html">Voice</a>=Pass</tt> (3; 100%), <tt><a href="Polarity.html">Polarity</a>=Pos</tt> (3; 100%), <tt><a href="VerbForm.html">VerbForm</a>=Part</tt> (3; 100%), <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (3; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (3; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (3; 100%).
 
@@ -182,7 +182,7 @@ The most frequent other feature values with which `VERB` and `Case` co-occurred:
 
 ### `AUX`
 
-1 [-pos/AUX]() tokens (0% of all `AUX` tokens) have a non-empty value of `Case`.
+1 [AUX](cs_cltt-pos-AUX.html) tokens (0% of all `AUX` tokens) have a non-empty value of `Case`.
 
 The most frequent other feature values with which `AUX` and `Case` co-occurred: <tt><a href="VerbForm.html">VerbForm</a>=EMPTY</tt> (1; 100%), <tt><a href="Polarity.html">Polarity</a>=Pos</tt> (1; 100%), <tt><a href="Voice.html">Voice</a>=EMPTY</tt> (1; 100%), <tt><a href="Gender.html">Gender</a>=Masc</tt> (1; 100%), <tt><a href="Tense.html">Tense</a>=EMPTY</tt> (1; 100%), <tt><a href="Number.html">Number</a>=Plur</tt> (1; 100%), <tt><a href="Person.html">Person</a>=EMPTY</tt> (1; 100%), <tt><a href="Mood.html">Mood</a>=EMPTY</tt> (1; 100%).
 

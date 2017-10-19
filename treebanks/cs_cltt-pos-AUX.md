@@ -64,7 +64,7 @@ The 2nd highest number of forms (1) was observed with the lemma “Je-li”: Je-
 
 The 3rd highest number of forms (1) was observed with the lemma “Jsou-li”: Jsou-li.
 
-`AUX` occurs with 10 features: [-feat/VerbForm]() (570; 94% instances), [-feat/Polarity]() (551; 91% instances), [-feat/Number]() (498; 82% instances), [-feat/Tense]() (497; 82% instances), [-feat/Voice]() (497; 82% instances), [-feat/Mood]() (464; 77% instances), [-feat/Person]() (454; 75% instances), [-feat/Gender]() (66; 11% instances), [-feat/Animacy]() (27; 4% instances), [-feat/Case]() (1; 0% instances)
+`AUX` occurs with 10 features: [VerbForm](cs_cltt-feat-VerbForm.html) (570; 94% instances), [Polarity](cs_cltt-feat-Polarity.html) (551; 91% instances), [Number](cs_cltt-feat-Number.html) (498; 82% instances), [Tense](cs_cltt-feat-Tense.html) (497; 82% instances), [Voice](cs_cltt-feat-Voice.html) (497; 82% instances), [Mood](cs_cltt-feat-Mood.html) (464; 77% instances), [Person](cs_cltt-feat-Person.html) (454; 75% instances), [Gender](cs_cltt-feat-Gender.html) (66; 11% instances), [Animacy](cs_cltt-feat-Animacy.html) (27; 4% instances), [Case](cs_cltt-feat-Case.html) (1; 0% instances)
 
 `AUX` occurs with 21 feature-value pairs: `Animacy=Inan`, `Case=Nom`, `Gender=Fem,Masc`, `Gender=Fem,Neut`, `Gender=Masc`, `Gender=Neut`, `Mood=Cnd`, `Mood=Ind`, `Number=Plur`, `Number=Plur,Sing`, `Number=Sing`, `Person=3`, `Polarity=Neg`, `Polarity=Pos`, `Tense=Fut`, `Tense=Past`, `Tense=Pres`, `VerbForm=Fin`, `VerbForm=Inf`, `VerbForm=Part`, `Voice=Act`
 
@@ -75,9 +75,9 @@ Examples: je není
 
 ## Relations
 
-`AUX` nodes are attached to their parents using 3 different relations: [-dep/cop]() (437; 72% instances), [-dep/aux:pass]() (129; 21% instances), [-dep/aux]() (38; 6% instances)
+`AUX` nodes are attached to their parents using 3 different relations: [cop](cs_cltt-dep-cop.html) (437; 72% instances), [aux:pass](cs_cltt-dep-aux:pass.html) (129; 21% instances), [aux](cs_cltt-dep-aux.html) (38; 6% instances)
 
-Parents of `AUX` nodes belong to 7 different parts of speech: [VERB]() (262; 43% instances), [ADJ]() (199; 33% instances), [NOUN]() (135; 22% instances), [PRON]() (4; 1% instances), [ADV]() (2; 0% instances), [DET]() (1; 0% instances), [NUM]() (1; 0% instances)
+Parents of `AUX` nodes belong to 7 different parts of speech: [VERB](cs_cltt-pos-VERB.html) (262; 43% instances), [ADJ](cs_cltt-pos-ADJ.html) (199; 33% instances), [NOUN](cs_cltt-pos-NOUN.html) (135; 22% instances), [PRON](cs_cltt-pos-PRON.html) (4; 1% instances), [ADV](cs_cltt-pos-ADV.html) (2; 0% instances), [DET](cs_cltt-pos-DET.html) (1; 0% instances), [NUM](cs_cltt-pos-NUM.html) (1; 0% instances)
 
 601 (100%) `AUX` nodes are leaves.
 
@@ -85,7 +85,7 @@ Parents of `AUX` nodes belong to 7 different parts of speech: [VERB]() (262; 43%
 
 The highest child degree of a `AUX` node is 1.
 
-Children of `AUX` nodes are attached using 2 different relations: [-dep/conj]() (2; 67% instances), [-dep/advmod:emph]() (1; 33% instances)
+Children of `AUX` nodes are attached using 2 different relations: [conj](cs_cltt-dep-conj.html) (2; 67% instances), [advmod:emph](cs_cltt-dep-advmod:emph.html) (1; 33% instances)
 
-Children of `AUX` nodes belong to 3 different parts of speech: [ADV]() (1; 33% instances), [NOUN]() (1; 33% instances), [VERB]() (1; 33% instances)
+Children of `AUX` nodes belong to 3 different parts of speech: [ADV](cs_cltt-pos-ADV.html) (1; 33% instances), [NOUN](cs_cltt-pos-NOUN.html) (1; 33% instances), [VERB](cs_cltt-pos-VERB.html) (1; 33% instances)
 

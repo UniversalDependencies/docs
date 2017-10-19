@@ -52,9 +52,9 @@ The 3rd highest number of forms (1) was observed with the lemma “anebo”: ane
 
 ## Relations
 
-`CCONJ` nodes are attached to their parents using 5 different relations: [-dep/cc]() (1805; 96% instances), [-dep/advmod:emph]() (64; 3% instances), [-dep/nmod]() (4; 0% instances), [-dep/dep]() (1; 0% instances), [-dep/mark]() (1; 0% instances)
+`CCONJ` nodes are attached to their parents using 5 different relations: [cc](cs_cltt-dep-cc.html) (1805; 96% instances), [advmod:emph](cs_cltt-dep-advmod:emph.html) (64; 3% instances), [nmod](cs_cltt-dep-nmod.html) (4; 0% instances), [dep](cs_cltt-dep-dep.html) (1; 0% instances), [mark](cs_cltt-dep-mark.html) (1; 0% instances)
 
-Parents of `CCONJ` nodes belong to 9 different parts of speech: [NOUN]() (1321; 70% instances), [VERB]() (205; 11% instances), [ADJ]() (197; 11% instances), [X]() (49; 3% instances), [PRON]() (43; 2% instances), [ADV]() (34; 2% instances), [NUM]() (24; 1% instances), [ADP]() (1; 0% instances), [PUNCT]() (1; 0% instances)
+Parents of `CCONJ` nodes belong to 9 different parts of speech: [NOUN](cs_cltt-pos-NOUN.html) (1321; 70% instances), [VERB](cs_cltt-pos-VERB.html) (205; 11% instances), [ADJ](cs_cltt-pos-ADJ.html) (197; 11% instances), [X](cs_cltt-pos-X.html) (49; 3% instances), [PRON](cs_cltt-pos-PRON.html) (43; 2% instances), [ADV](cs_cltt-pos-ADV.html) (34; 2% instances), [NUM](cs_cltt-pos-NUM.html) (24; 1% instances), [ADP](cs_cltt-pos-ADP.html) (1; 0% instances), [PUNCT](cs_cltt-pos-PUNCT.html) (1; 0% instances)
 
 1875 (100%) `CCONJ` nodes are leaves.
 

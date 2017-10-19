@@ -46,9 +46,9 @@ The 3rd highest number of forms (1) was observed with the lemma “až”: až.
 
 ## Relations
 
-`SCONJ` nodes are attached to their parents using 5 different relations: [-dep/mark]() (363; 93% instances), [-dep/cc]() (18; 5% instances), [-dep/advmod]() (5; 1% instances), [-dep/advmod:emph]() (2; 1% instances), [-dep/case]() (1; 0% instances)
+`SCONJ` nodes are attached to their parents using 5 different relations: [mark](cs_cltt-dep-mark.html) (363; 93% instances), [cc](cs_cltt-dep-cc.html) (18; 5% instances), [advmod](cs_cltt-dep-advmod.html) (5; 1% instances), [advmod:emph](cs_cltt-dep-advmod:emph.html) (2; 1% instances), [case](cs_cltt-dep-case.html) (1; 0% instances)
 
-Parents of `SCONJ` nodes belong to 6 different parts of speech: [VERB]() (200; 51% instances), [NOUN]() (114; 29% instances), [ADJ]() (47; 12% instances), [NUM]() (21; 5% instances), [X]() (5; 1% instances), [ADV]() (2; 1% instances)
+Parents of `SCONJ` nodes belong to 6 different parts of speech: [VERB](cs_cltt-pos-VERB.html) (200; 51% instances), [NOUN](cs_cltt-pos-NOUN.html) (114; 29% instances), [ADJ](cs_cltt-pos-ADJ.html) (47; 12% instances), [NUM](cs_cltt-pos-NUM.html) (21; 5% instances), [X](cs_cltt-pos-X.html) (5; 1% instances), [ADV](cs_cltt-pos-ADV.html) (2; 1% instances)
 
 387 (99%) `SCONJ` nodes are leaves.
 
@@ -58,7 +58,7 @@ Parents of `SCONJ` nodes belong to 6 different parts of speech: [VERB]() (200; 5
 
 The highest child degree of a `SCONJ` node is 2.
 
-Children of `SCONJ` nodes are attached using 3 different relations: [-dep/fixed]() (1; 33% instances), [-dep/obl]() (1; 33% instances), [-dep/punct]() (1; 33% instances)
+Children of `SCONJ` nodes are attached using 3 different relations: [fixed](cs_cltt-dep-fixed.html) (1; 33% instances), [obl](cs_cltt-dep-obl.html) (1; 33% instances), [punct](cs_cltt-dep-punct.html) (1; 33% instances)
 
-Children of `SCONJ` nodes belong to 3 different parts of speech: [ADP]() (1; 33% instances), [NOUN]() (1; 33% instances), [PUNCT]() (1; 33% instances)
+Children of `SCONJ` nodes belong to 3 different parts of speech: [ADP](cs_cltt-pos-ADP.html) (1; 33% instances), [NOUN](cs_cltt-pos-NOUN.html) (1; 33% instances), [PUNCT](cs_cltt-pos-PUNCT.html) (1; 33% instances)
 

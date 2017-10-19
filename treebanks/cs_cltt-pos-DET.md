@@ -63,7 +63,7 @@ The 2nd highest number of forms (8) was observed with the lemma “jeho”: jeho
 
 The 3rd highest number of forms (8) was observed with the lemma “takový”: takovou, taková, takové, takovému, takový, takových, takovým, takovými.
 
-`DET` occurs with 11 features: [-feat/PronType]() (595; 100% instances), [-feat/Number]() (414; 70% instances), [-feat/Case]() (406; 68% instances), [-feat/Gender]() (354; 59% instances), [-feat/Poss]() (240; 40% instances), [-feat/Number[psor]]() (216; 36% instances), [-feat/Person]() (216; 36% instances), [-feat/Gender[psor]]() (111; 19% instances), [-feat/Animacy]() (30; 5% instances), [-feat/Reflex]() (24; 4% instances), [-feat/NumType]() (1; 0% instances)
+`DET` occurs with 11 features: [PronType](cs_cltt-feat-PronType.html) (595; 100% instances), [Number](cs_cltt-feat-Number.html) (414; 70% instances), [Case](cs_cltt-feat-Case.html) (406; 68% instances), [Gender](cs_cltt-feat-Gender.html) (354; 59% instances), [Poss](cs_cltt-feat-Poss.html) (240; 40% instances), [Number[psor]](cs_cltt-feat-Number[psor].html) (216; 36% instances), [Person](cs_cltt-feat-Person.html) (216; 36% instances), [Gender[psor]](cs_cltt-feat-Gender[psor].html) (111; 19% instances), [Animacy](cs_cltt-feat-Animacy.html) (30; 5% instances), [Reflex](cs_cltt-feat-Reflex.html) (24; 4% instances), [NumType](cs_cltt-feat-NumType.html) (1; 0% instances)
 
 `DET` occurs with 28 feature-value pairs: `Animacy=Inan`, `Case=Acc`, `Case=Dat`, `Case=Gen`, `Case=Ins`, `Case=Loc`, `Case=Nom`, `Gender=Fem`, `Gender=Masc`, `Gender=Masc,Neut`, `Gender=Neut`, `Gender[psor]=Fem`, `Gender[psor]=Masc,Neut`, `NumType=Card`, `Number=Plur`, `Number=Sing`, `Number[psor]=Plur`, `Number[psor]=Sing`, `Person=3`, `Poss=Yes`, `PronType=Dem`, `PronType=Dem,Ind`, `PronType=Ind`, `PronType=Int,Rel`, `PronType=Neg`, `PronType=Prs`, `PronType=Rel`, `Reflex=Yes`
 
@@ -74,9 +74,9 @@ Examples: jejich
 
 ## Relations
 
-`DET` nodes are attached to their parents using 3 different relations: [-dep/det]() (593; 100% instances), [-dep/acl]() (1; 0% instances), [-dep/det:nummod]() (1; 0% instances)
+`DET` nodes are attached to their parents using 3 different relations: [det](cs_cltt-dep-det.html) (593; 100% instances), [acl](cs_cltt-dep-acl.html) (1; 0% instances), [det:nummod](cs_cltt-dep-det:nummod.html) (1; 0% instances)
 
-Parents of `DET` nodes belong to 2 different parts of speech: [NOUN]() (594; 100% instances), [ADJ]() (1; 0% instances)
+Parents of `DET` nodes belong to 2 different parts of speech: [NOUN](cs_cltt-pos-NOUN.html) (594; 100% instances), [ADJ](cs_cltt-pos-ADJ.html) (1; 0% instances)
 
 593 (100%) `DET` nodes are leaves.
 
@@ -88,7 +88,7 @@ Parents of `DET` nodes belong to 2 different parts of speech: [NOUN]() (594; 100
 
 The highest child degree of a `DET` node is 3.
 
-Children of `DET` nodes are attached using 4 different relations: [-dep/cop]() (1; 25% instances), [-dep/nmod]() (1; 25% instances), [-dep/nsubj]() (1; 25% instances), [-dep/punct]() (1; 25% instances)
+Children of `DET` nodes are attached using 4 different relations: [cop](cs_cltt-dep-cop.html) (1; 25% instances), [nmod](cs_cltt-dep-nmod.html) (1; 25% instances), [nsubj](cs_cltt-dep-nsubj.html) (1; 25% instances), [punct](cs_cltt-dep-punct.html) (1; 25% instances)
 
-Children of `DET` nodes belong to 3 different parts of speech: [NOUN]() (2; 50% instances), [AUX]() (1; 25% instances), [PUNCT]() (1; 25% instances)
+Children of `DET` nodes belong to 3 different parts of speech: [NOUN](cs_cltt-pos-NOUN.html) (2; 50% instances), [AUX](cs_cltt-pos-AUX.html) (1; 25% instances), [PUNCT](cs_cltt-pos-PUNCT.html) (1; 25% instances)
 
