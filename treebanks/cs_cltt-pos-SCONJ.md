@@ -42,7 +42,7 @@ The 3rd highest number of forms (1) was observed with the lemma “až”: až.
 
 ## Relations
 
-`SCONJ` nodes are attached to their parents using 5 different relations: <tt>[mark](cs_cltt-dep-mark.html)</tt> (363; 93% instances), <tt>[cc](cs_cltt-dep-cc.html)</tt> (18; 5% instances), <tt>[advmod](cs_cltt-dep-advmod.html)</tt> (5; 1% instances), <tt>[advmod:emph](cs_cltt-dep-advmod:emph.html)</tt> (2; 1% instances), <tt>[case](cs_cltt-dep-case.html)</tt> (1; 0% instances)
+`SCONJ` nodes are attached to their parents using 5 different relations: <tt>[mark](cs_cltt-dep-mark.html)</tt> (363; 93% instances), <tt>[cc](cs_cltt-dep-cc.html)</tt> (18; 5% instances), <tt>[advmod](cs_cltt-dep-advmod.html)</tt> (5; 1% instances), <tt>[advmod:emph](cs_cltt-dep-advmod-emph.html)</tt> (2; 1% instances), <tt>[case](cs_cltt-dep-case.html)</tt> (1; 0% instances)
 
 Parents of `SCONJ` nodes belong to 6 different parts of speech: <tt>[VERB](cs_cltt-pos-VERB.html)</tt> (200; 51% instances), <tt>[NOUN](cs_cltt-pos-NOUN.html)</tt> (114; 29% instances), <tt>[ADJ](cs_cltt-pos-ADJ.html)</tt> (47; 12% instances), <tt>[NUM](cs_cltt-pos-NUM.html)</tt> (21; 5% instances), <tt>[X](cs_cltt-pos-X.html)</tt> (5; 1% instances), <tt>[ADV](cs_cltt-pos-ADV.html)</tt> (2; 1% instances)
 

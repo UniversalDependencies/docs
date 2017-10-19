@@ -39,7 +39,7 @@ The 3rd highest number of forms (1) was observed with the lemma “jen”: jen.
 
 ## Relations
 
-`PART` nodes are attached to their parents using 5 different relations: <tt>[advmod:emph](cs_cltt-dep-advmod:emph.html)</tt> (55; 73% instances), <tt>[cc](cs_cltt-dep-cc.html)</tt> (15; 20% instances), <tt>[appos](cs_cltt-dep-appos.html)</tt> (3; 4% instances), <tt>[nmod](cs_cltt-dep-nmod.html)</tt> (1; 1% instances), <tt>[xcomp](cs_cltt-dep-xcomp.html)</tt> (1; 1% instances)
+`PART` nodes are attached to their parents using 5 different relations: <tt>[advmod:emph](cs_cltt-dep-advmod-emph.html)</tt> (55; 73% instances), <tt>[cc](cs_cltt-dep-cc.html)</tt> (15; 20% instances), <tt>[appos](cs_cltt-dep-appos.html)</tt> (3; 4% instances), <tt>[nmod](cs_cltt-dep-nmod.html)</tt> (1; 1% instances), <tt>[xcomp](cs_cltt-dep-xcomp.html)</tt> (1; 1% instances)
 
 Parents of `PART` nodes belong to 5 different parts of speech: <tt>[X](cs_cltt-pos-X.html)</tt> (38; 51% instances), <tt>[NOUN](cs_cltt-pos-NOUN.html)</tt> (27; 36% instances), <tt>[NUM](cs_cltt-pos-NUM.html)</tt> (6; 8% instances), <tt>[ADV](cs_cltt-pos-ADV.html)</tt> (3; 4% instances), <tt>[ADJ](cs_cltt-pos-ADJ.html)</tt> (1; 1% instances)
 

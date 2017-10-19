@@ -59,7 +59,7 @@ The 2nd highest number of forms (8) was observed with the lemma “jeho”: jeho
 
 The 3rd highest number of forms (8) was observed with the lemma “takový”: takovou, taková, takové, takovému, takový, takových, takovým, takovými.
 
-`DET` occurs with 11 features: <tt>[PronType](cs_cltt-feat-PronType.html)</tt> (595; 100% instances), <tt>[Number](cs_cltt-feat-Number.html)</tt> (414; 70% instances), <tt>[Case](cs_cltt-feat-Case.html)</tt> (406; 68% instances), <tt>[Gender](cs_cltt-feat-Gender.html)</tt> (354; 59% instances), <tt>[Poss](cs_cltt-feat-Poss.html)</tt> (240; 40% instances), <tt>[Number[psor]](cs_cltt-feat-Number[psor].html)</tt> (216; 36% instances), <tt>[Person](cs_cltt-feat-Person.html)</tt> (216; 36% instances), <tt>[Gender[psor]](cs_cltt-feat-Gender[psor].html)</tt> (111; 19% instances), <tt>[Animacy](cs_cltt-feat-Animacy.html)</tt> (30; 5% instances), <tt>[Reflex](cs_cltt-feat-Reflex.html)</tt> (24; 4% instances), <tt>[NumType](cs_cltt-feat-NumType.html)</tt> (1; 0% instances)
+`DET` occurs with 11 features: <tt>[PronType](cs_cltt-feat-PronType.html)</tt> (595; 100% instances), <tt>[Number](cs_cltt-feat-Number.html)</tt> (414; 70% instances), <tt>[Case](cs_cltt-feat-Case.html)</tt> (406; 68% instances), <tt>[Gender](cs_cltt-feat-Gender.html)</tt> (354; 59% instances), <tt>[Poss](cs_cltt-feat-Poss.html)</tt> (240; 40% instances), <tt>[Number[psor]](cs_cltt-feat-Number-psor.html)</tt> (216; 36% instances), <tt>[Person](cs_cltt-feat-Person.html)</tt> (216; 36% instances), <tt>[Gender[psor]](cs_cltt-feat-Gender-psor.html)</tt> (111; 19% instances), <tt>[Animacy](cs_cltt-feat-Animacy.html)</tt> (30; 5% instances), <tt>[Reflex](cs_cltt-feat-Reflex.html)</tt> (24; 4% instances), <tt>[NumType](cs_cltt-feat-NumType.html)</tt> (1; 0% instances)
 
 `DET` occurs with 28 feature-value pairs: `Animacy=Inan`, `Case=Acc`, `Case=Dat`, `Case=Gen`, `Case=Ins`, `Case=Loc`, `Case=Nom`, `Gender=Fem`, `Gender=Masc`, `Gender=Masc,Neut`, `Gender=Neut`, `Gender[psor]=Fem`, `Gender[psor]=Masc,Neut`, `NumType=Card`, `Number=Plur`, `Number=Sing`, `Number[psor]=Plur`, `Number[psor]=Sing`, `Person=3`, `Poss=Yes`, `PronType=Dem`, `PronType=Dem,Ind`, `PronType=Ind`, `PronType=Int,Rel`, `PronType=Neg`, `PronType=Prs`, `PronType=Rel`, `Reflex=Yes`
 
@@ -70,7 +70,7 @@ Examples: jejich
 
 ## Relations
 
-`DET` nodes are attached to their parents using 3 different relations: <tt>[det](cs_cltt-dep-det.html)</tt> (593; 100% instances), <tt>[acl](cs_cltt-dep-acl.html)</tt> (1; 0% instances), <tt>[det:nummod](cs_cltt-dep-det:nummod.html)</tt> (1; 0% instances)
+`DET` nodes are attached to their parents using 3 different relations: <tt>[det](cs_cltt-dep-det.html)</tt> (593; 100% instances), <tt>[acl](cs_cltt-dep-acl.html)</tt> (1; 0% instances), <tt>[det:nummod](cs_cltt-dep-det-nummod.html)</tt> (1; 0% instances)
 
 Parents of `DET` nodes belong to 2 different parts of speech: <tt>[NOUN](cs_cltt-pos-NOUN.html)</tt> (594; 100% instances), <tt>[ADJ](cs_cltt-pos-ADJ.html)</tt> (1; 0% instances)
 

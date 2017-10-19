@@ -70,7 +70,7 @@ Examples: v o na při po
 
 ## Relations
 
-`ADP` nodes are attached to their parents using 6 different relations: <tt>[case](cs_cltt-dep-case.html)</tt> (3862; 98% instances), <tt>[fixed](cs_cltt-dep-fixed.html)</tt> (70; 2% instances), <tt>[expl:pass](cs_cltt-dep-expl:pass.html)</tt> (5; 0% instances), <tt>[nmod](cs_cltt-dep-nmod.html)</tt> (3; 0% instances), <tt>[conj](cs_cltt-dep-conj.html)</tt> (1; 0% instances), <tt>[mark](cs_cltt-dep-mark.html)</tt> (1; 0% instances)
+`ADP` nodes are attached to their parents using 6 different relations: <tt>[case](cs_cltt-dep-case.html)</tt> (3862; 98% instances), <tt>[fixed](cs_cltt-dep-fixed.html)</tt> (70; 2% instances), <tt>[expl:pass](cs_cltt-dep-expl-pass.html)</tt> (5; 0% instances), <tt>[nmod](cs_cltt-dep-nmod.html)</tt> (3; 0% instances), <tt>[conj](cs_cltt-dep-conj.html)</tt> (1; 0% instances), <tt>[mark](cs_cltt-dep-mark.html)</tt> (1; 0% instances)
 
 Parents of `ADP` nodes belong to 10 different parts of speech: <tt>[NOUN](cs_cltt-pos-NOUN.html)</tt> (3399; 86% instances), <tt>[X](cs_cltt-pos-X.html)</tt> (235; 6% instances), <tt>[PRON](cs_cltt-pos-PRON.html)</tt> (200; 5% instances), <tt>[ADP](cs_cltt-pos-ADP.html)</tt> (66; 2% instances), <tt>[ADJ](cs_cltt-pos-ADJ.html)</tt> (21; 1% instances), <tt>[ADV](cs_cltt-pos-ADV.html)</tt> (11; 0% instances), <tt>[VERB](cs_cltt-pos-VERB.html)</tt> (6; 0% instances), <tt>[NUM](cs_cltt-pos-NUM.html)</tt> (2; 0% instances), <tt>[SCONJ](cs_cltt-pos-SCONJ.html)</tt> (1; 0% instances), <tt>[SYM](cs_cltt-pos-SYM.html)</tt> (1; 0% instances)
 

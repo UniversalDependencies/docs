@@ -71,7 +71,7 @@ Examples: je není
 
 ## Relations
 
-`AUX` nodes are attached to their parents using 3 different relations: <tt>[cop](cs_cltt-dep-cop.html)</tt> (437; 72% instances), <tt>[aux:pass](cs_cltt-dep-aux:pass.html)</tt> (129; 21% instances), <tt>[aux](cs_cltt-dep-aux.html)</tt> (38; 6% instances)
+`AUX` nodes are attached to their parents using 3 different relations: <tt>[cop](cs_cltt-dep-cop.html)</tt> (437; 72% instances), <tt>[aux:pass](cs_cltt-dep-aux-pass.html)</tt> (129; 21% instances), <tt>[aux](cs_cltt-dep-aux.html)</tt> (38; 6% instances)
 
 Parents of `AUX` nodes belong to 7 different parts of speech: <tt>[VERB](cs_cltt-pos-VERB.html)</tt> (262; 43% instances), <tt>[ADJ](cs_cltt-pos-ADJ.html)</tt> (199; 33% instances), <tt>[NOUN](cs_cltt-pos-NOUN.html)</tt> (135; 22% instances), <tt>[PRON](cs_cltt-pos-PRON.html)</tt> (4; 1% instances), <tt>[ADV](cs_cltt-pos-ADV.html)</tt> (2; 0% instances), <tt>[DET](cs_cltt-pos-DET.html)</tt> (1; 0% instances), <tt>[NUM](cs_cltt-pos-NUM.html)</tt> (1; 0% instances)
 
@@ -81,7 +81,7 @@ Parents of `AUX` nodes belong to 7 different parts of speech: <tt>[VERB](cs_cltt
 
 The highest child degree of a `AUX` node is 1.
 
-Children of `AUX` nodes are attached using 2 different relations: <tt>[conj](cs_cltt-dep-conj.html)</tt> (2; 67% instances), <tt>[advmod:emph](cs_cltt-dep-advmod:emph.html)</tt> (1; 33% instances)
+Children of `AUX` nodes are attached using 2 different relations: <tt>[conj](cs_cltt-dep-conj.html)</tt> (2; 67% instances), <tt>[advmod:emph](cs_cltt-dep-advmod-emph.html)</tt> (1; 33% instances)
 
 Children of `AUX` nodes belong to 3 different parts of speech: <tt>[ADV](cs_cltt-pos-ADV.html)</tt> (1; 33% instances), <tt>[NOUN](cs_cltt-pos-NOUN.html)</tt> (1; 33% instances), <tt>[VERB](cs_cltt-pos-VERB.html)</tt> (1; 33% instances)
 

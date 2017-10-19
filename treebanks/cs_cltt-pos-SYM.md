@@ -51,7 +51,7 @@ Parents of `SYM` nodes belong to 2 different parts of speech: <tt>[NUM](cs_cltt-
 
 The highest child degree of a `SYM` node is 4.
 
-Children of `SYM` nodes are attached using 5 different relations: <tt>[nmod](cs_cltt-dep-nmod.html)</tt> (8; 62% instances), <tt>[conj](cs_cltt-dep-conj.html)</tt> (2; 15% instances), <tt>[advmod:emph](cs_cltt-dep-advmod:emph.html)</tt> (1; 8% instances), <tt>[case](cs_cltt-dep-case.html)</tt> (1; 8% instances), <tt>[nummod](cs_cltt-dep-nummod.html)</tt> (1; 8% instances)
+Children of `SYM` nodes are attached using 5 different relations: <tt>[nmod](cs_cltt-dep-nmod.html)</tt> (8; 62% instances), <tt>[conj](cs_cltt-dep-conj.html)</tt> (2; 15% instances), <tt>[advmod:emph](cs_cltt-dep-advmod-emph.html)</tt> (1; 8% instances), <tt>[case](cs_cltt-dep-case.html)</tt> (1; 8% instances), <tt>[nummod](cs_cltt-dep-nummod.html)</tt> (1; 8% instances)
 
 Children of `SYM` nodes belong to 5 different parts of speech: <tt>[NOUN](cs_cltt-pos-NOUN.html)</tt> (8; 62% instances), <tt>[PUNCT](cs_cltt-pos-PUNCT.html)</tt> (2; 15% instances), <tt>[ADP](cs_cltt-pos-ADP.html)</tt> (1; 8% instances), <tt>[ADV](cs_cltt-pos-ADV.html)</tt> (1; 8% instances), <tt>[NUM](cs_cltt-pos-NUM.html)</tt> (1; 8% instances)
 
