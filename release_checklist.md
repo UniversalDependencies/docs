@@ -12,7 +12,7 @@ Contents:
 
 * [Executive summary](#executive-summary)
 * [Repository and files](#repository-and-files)
-  - [Language metadata](#language-metadata)
+  - [Treebank metadata](#treebank-metadata)
   - [Repository branches](#repository-branches)
 * [Validation](#validation)
   - [Data format and repository](#data-format-and-repository)
@@ -21,7 +21,7 @@ Contents:
 
 # Executive summary
 
-* Make sure [your repository has the right files](#repository-and-files), [correct metadata](#language-metadata) in the README, and data being prepared for the next release [lives on the `dev` branch](#repository-branches).
+* Make sure [your repository has the right files](#repository-and-files), [correct metadata](#treebank-metadata) in the README, and data being prepared for the next release [lives on the `dev` branch](#repository-branches).
 * Make sure your data and repository pass the [format validation](#data-format-and-repository): [direct link](http://universaldependencies.org/validation.html) to the format validator output.
 * Make sure your data does not show major deviations in the [content validation](#syntax): [direct link](http://universaldependencies.org/svalidation.html) to the content validator output.
 
@@ -51,11 +51,12 @@ Repositories of released treebanks also contain a `stats.xml` file, which is gen
 
 The `README` file should minimally contain the following information:
 
-1. A description of the treebank and its origin (creation method, data sources, etc.)
-2. A description of how the data was split into training, development and test sets
-3. Basic statistics about number of sentences, tokens, etc.
-4. Acknowledgments and references that should be cited when using the treebank
-5. A machine-readable section with language metadata. This is described below.
+1. A machine-readable section with treebank metadata. This is described below.
+2. A description of the treebank and its origin (creation method, data sources, etc.)
+3. A description of how the data was split into training, development and test sets
+4. Basic statistics about number of sentences, tokens, etc.
+5. Acknowledgments and references that should be cited when using the treebank
+6. A Changelog section for treebanks that appear in more than one UD releases.
 
 Note that the basic statistics can be produced using the script `conllu-stats.py`available from the `tools` repository and run as follows:
 
@@ -71,31 +72,80 @@ Changelog
     * Corrected tokenization in sentences 123 and 456
 </pre>
 
-## Language metadata
+## Treebank metadata
 
-The readme file contains metadata used to generate the overview table on the UD main page: data source, license, genres, and documentation status. The format of this metadata is described [here](http://universaldependencies.org/language_metadata.html)
+The table on the front page is automatically generated from special lines (metadata)
+in the `README.txt` or `README.md` file for every treebank. The metadata are used for various
+other automated tasks as well, for example the list of contributors to every UD release is
+collected from the READMEs.
 
-The table on the front page is automatically generated from special lines in the `README.txt` or `README.md` file for every language. This means that in order to add a new language, also its repository must be created, minimally with the readme file. Here is an example of the language metadata block from the [Finnish README file](https://github.com/UniversalDependencies/UD_Finnish/blob/master/README.txt) 
+The metadata describe individual treebanks and there are often multiple treebanks per language.
+If we want to work on UD documentation for a new language without having actual data, we still
+must create a Github repository for the future treebank, and fill in the metadata so that the
+language appears on the front page. The names of the contributors to the documentation should
+be listed among the treebank contributors, otherwise they will not be included in the overall
+UD list of contributors.
+
+Here is an example of the treebank metadata block from the [Czech README file](https://github.com/UniversalDependencies/UD_Czech/blob/master/README.txt)
 
     === Machine-readable metadata (DO NOT REMOVE!) ================================
-    Documentation status: complete
-    Data source: semi-automatic
     Data available since: UD v1.0
-    License: CC BY-SA 4.0
-    Genre: blog wiki legal news fiction
-    Contributors: Ginter, Filip; Kanerva, Jenna; Laippala, Veronika; Missilä, Anna; Pyysalo, Sampo
-    Contact: turku@treebank.org
+    License: CC BY-NC-SA 3.0
+    Includes text: yes
+    Genre: news
+    Lemmas: converted from manual
+    UPOS: converted from manual
+    XPOS: manual native
+    Features: converted from manual
+    Relations: converted from manual
+    Contributors: Zeman, Daniel; Hajič, Jan
+    Contributing: elsewhere
+    Contact: zeman@ufal.mff.cuni.cz
+    Paragraphs to web: 12
     ===============================================================================
 
-This block can be anywhere in the readme file. The properties are as follows:
+This block should be the first thing in the README file. The properties are as follows:
 
-* `Documentation status` can be `complete`, `partial`, or `stub`.
-* `Data source` can be `automatic`, `semi-automatic`, or `manual`. Here, as a rough guidance, `manual` means that every word of every sentence has been manually checked, whereas `semi-automatic` means an automatic conversion with major manual checks of various types of constructions.
-* `Data available since` can be `UD v1.0`, `UD v1.1`, `UD v1.2`, `UD v1.3`, `UD v1.4`, and `UD v2.0`. As the current release is 1.4, new languages which will be included in 2.0 should set this property accordingly.
-* `License`: anything containing the string `BY-NC-SA` will be given the CC non-commercial logo, `BY-SA` or `BY` the CC logo, and `GNU` the GNU logo. To add any other license, please provide a suitable icon to ginter@cs.utu.fi and sampo.pyysalo@gmail.com.
+* `Data available since` can be `UD v1.0`, `UD v1.1`, `UD v1.2`, `UD v1.3`, `UD v1.4`, `UD v2.0` and `UD v2.1`.
+* `License`: anything containing the string `BY-NC-SA` will be given the CC non-commercial logo, `BY-SA` or `BY` the CC logo, and `GNU` the GNU logo. To add any other license, please provide a suitable icon to ginter@cs.utu.fi and zeman@ufal.mff.cuni.cz.
+  * `Includes text`: Most treebanks should say `yes` here. But there are a few instances where
+    the license of the underlying text does not allow redistribution. Here, the UD repository
+    contains only the annotation without words and lemmas, but with a merging script that the
+    user can run and merge the annotation with the corpus that they obtained through another
+    channel. Such treebanks should say `no` here.
 * `Genre`: this is simply a space-separated list of genres which gets mapped into symbols in the table. The possible genres are listed in [this file](https://github.com/UniversalDependencies/docs/blob/pages-source/gen_index/genre_symbols.json) in the repository. If you don't see yours, just edit the file on GitHub and add your genre, choosing one of the symbols from [the *FontAwesome* list](https://fortawesome.github.io/Font-Awesome/icons/). Please make sure you get the syntax right, since this is a machine-readable JSON file. It is also possible to not add the genre to the `genre_symbols.json` file, in which case the default symbol will be used automatically. The genre name will still remain visible in the mouse-over tooltip.
-* `Contributors`: the list of contributors to be included with the data release and in the LINDAT download page. This is a semi-colon separated list where every name is in the `Last, First` form and the readme file should be utf-8 encoded to make sure special characters are preserved correctly.
+* Source of annotation of lemmas, POS tags, morphological features and dependency relations.
+  There are up to four possible values: `manual native`, `converted from manual`, `automatic` and `not available`.
+  Manual native means that the annotation was done manually, directly in the UD annotation scheme.
+  Note that manual verification of automatic annotation (e.g. you pre-parse the texts before you give it to humans)
+  counts as manual annotation.
+  Converted from manual means that it was originally annotated in a non-UD scheme, then converted to UD by a program,
+  but the converted annotation has not been verified by a human annotator.
+  Automatic means that the annotation was predicted by a program such as tagger or parser.
+  Not available means that this type of annotation is not present.
+  Note that some values are available only for some types of annotation.
+  UPOS tags and relations must always be available and cannot be automatic.
+  * `Lemmas` ... `manual native | converted from manual | automatic | not available`
+  * `UPOS` ... `manual native | converted from manual`
+  * `XPOS` ... `manual native | automatic | not available`
+  * `Features` ... `manual native | converted from manual | automatic | not available`
+  * `Relations` ... `manual native | converted from manual`
+* `Contributors`: the list of contributors to be included with the data release and in the LINDAT download page. This is a semicolon-separated list where every name is in the `Last, First` form and the readme file should be utf-8 encoded to make sure special characters are preserved correctly.
+* `Contributing`:
+  * `here` ... The changes are done directly in the dev branch of the UD repository. Bugs can be fixed via pull requests.
+  * `elsewhere` ... Do not submit pull requests; create issues. Main development happens somewhere else. If there is a bug, either the original data or the conversion procedure must be fixed.
+  * `to be adopted` ... The treebank currently misses a maintainer. If you know the language, please consider adopting the treebank.
 * `Contact`: please add an e-mail address where the current maintainer of the data can be contacted. You can also include several e-mail addresses separated by commas.
+* `Paragraphs to web`: typically, a part of the README file (but not the entire file) is automatically
+  copied to the treebank info page in the UD documentation. This field indicates how many paragraphs
+  immediately following the metadata should be copied. (The software actually just counts empty lines;
+  if there are two consecutive empty lines, an empty paragraph will be counted.)
+
+If you want to see what web content will be generated from your README file, run the
+`generate_treebank_hub.pl` script from the tools repository on your treebank folder,
+e.g.
+
+    generate_treebank_hub.pl UD_Czech > for_web.md
 
 ## Repository branches
 
@@ -158,7 +208,7 @@ In general, you validate the data like so:
 
 for example for Finnish:
 
-    $ python validate.py --lang=fi ../UD_Finnish/fi-ud-dev.conllu 
+    $ python validate.py --lang=fi ../UD_Finnish/fi-ud-dev.conllu
     *** PASSED ***
 
 Among other items, the script also validates the language-specific set
@@ -201,8 +251,8 @@ Every treebank should be accompanied by a set of language-specific guidelines at
 4. Relations: What universal relations are not used? What language-specific subtypes have been added?
 
 There are <a href="contributing_language_specific.html">more detailed guidelines for language-specific documentation.</a>
-Also see the general guidelines about <a href="contributing.html">how to contribute</a> (which covers the conventions used in 
-writing UD documentation, such as how to format examples). 
+Also see the general guidelines about <a href="contributing.html">how to contribute</a> (which covers the conventions used in
+writing UD documentation, such as how to format examples).
 
 # Building the release
 
