@@ -9,42 +9,42 @@ udver: '2'
 There are 18 `PRON` lemmas (0%), 68 `PRON` types (1%) and 578 `PRON` tokens (3%).
 Out of 15 observed tags, the rank of `PRON` is: 11 in number of lemmas, 8 in number of types and 11 in number of tokens.
 
-The 10 most frequent `PRON` lemmas: se on já což jenž co něco nic kdo někdo
+The 10 most frequent `PRON` lemmas: <em>se, on, já, což, jenž, co, něco, nic, kdo, někdo</em>
 
-The 10 most frequent `PRON` types:  se si co což ho nich ní jí mu mě
+The 10 most frequent `PRON` types:  <em>se, si, co, což, ho, nich, ní, jí, mu, mě</em>
 
-The 10 most frequent ambiguous lemmas: on (<tt><a href="cs_pud-pos-PRON.html">PRON</a></tt> 101, <tt><a href="cs_pud-pos-ADP.html">ADP</a></tt> 1), jenž (<tt><a href="cs_pud-pos-PRON.html">PRON</a></tt> 19, <tt><a href="cs_pud-pos-DET.html">DET</a></tt> 8), co (<tt><a href="cs_pud-pos-PRON.html">PRON</a></tt> 18, <tt><a href="cs_pud-pos-SCONJ.html">SCONJ</a></tt> 17, <tt><a href="cs_pud-pos-ADV.html">ADV</a></tt> 1), I (<tt><a href="cs_pud-pos-NUM.html">NUM</a></tt> 5, <tt><a href="cs_pud-pos-PRON.html">PRON</a></tt> 1), ten (<tt><a href="cs_pud-pos-DET.html">DET</a></tt> 180, <tt><a href="cs_pud-pos-ADV.html">ADV</a></tt> 2, <tt><a href="cs_pud-pos-PRON.html">PRON</a></tt> 1), you (<tt><a href="cs_pud-pos-PRON.html">PRON</a></tt> 1, <tt><a href="cs_pud-pos-NOUN.html">NOUN</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>on</em> (<tt><a href="cs_pud-pos-PRON.html">PRON</a></tt> 101, <tt><a href="cs_pud-pos-ADP.html">ADP</a></tt> 1), <em>jenž</em> (<tt><a href="cs_pud-pos-PRON.html">PRON</a></tt> 19, <tt><a href="cs_pud-pos-DET.html">DET</a></tt> 8), <em>co</em> (<tt><a href="cs_pud-pos-PRON.html">PRON</a></tt> 18, <tt><a href="cs_pud-pos-SCONJ.html">SCONJ</a></tt> 17, <tt><a href="cs_pud-pos-ADV.html">ADV</a></tt> 1), <em>I</em> (<tt><a href="cs_pud-pos-NUM.html">NUM</a></tt> 5, <tt><a href="cs_pud-pos-PRON.html">PRON</a></tt> 1), <em>ten</em> (<tt><a href="cs_pud-pos-DET.html">DET</a></tt> 180, <tt><a href="cs_pud-pos-ADV.html">ADV</a></tt> 2, <tt><a href="cs_pud-pos-PRON.html">PRON</a></tt> 1), <em>you</em> (<tt><a href="cs_pud-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="cs_pud-pos-PRON.html">PRON</a></tt> 1)
 
-The 10 most frequent ambiguous types:  se (<tt><a href="cs_pud-pos-PRON.html">PRON</a></tt> 303, <tt><a href="cs_pud-pos-ADP.html">ADP</a></tt> 15), co (<tt><a href="cs_pud-pos-SCONJ.html">SCONJ</a></tt> 17, <tt><a href="cs_pud-pos-PRON.html">PRON</a></tt> 14, <tt><a href="cs_pud-pos-ADV.html">ADV</a></tt> 1), je (<tt><a href="cs_pud-pos-AUX.html">AUX</a></tt> 138, <tt><a href="cs_pud-pos-VERB.html">VERB</a></tt> 14, <tt><a href="cs_pud-pos-PRON.html">PRON</a></tt> 5), You (<tt><a href="cs_pud-pos-PRON.html">PRON</a></tt> 1, <tt><a href="cs_pud-pos-NOUN.html">NOUN</a></tt> 1), jehož (<tt><a href="cs_pud-pos-DET.html">DET</a></tt> 3, <tt><a href="cs_pud-pos-PRON.html">PRON</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>se</em> (<tt><a href="cs_pud-pos-PRON.html">PRON</a></tt> 303, <tt><a href="cs_pud-pos-ADP.html">ADP</a></tt> 15), <em>co</em> (<tt><a href="cs_pud-pos-SCONJ.html">SCONJ</a></tt> 17, <tt><a href="cs_pud-pos-PRON.html">PRON</a></tt> 14, <tt><a href="cs_pud-pos-ADV.html">ADV</a></tt> 1), <em>je</em> (<tt><a href="cs_pud-pos-AUX.html">AUX</a></tt> 138, <tt><a href="cs_pud-pos-VERB.html">VERB</a></tt> 14, <tt><a href="cs_pud-pos-PRON.html">PRON</a></tt> 5), <em>You</em> (<tt><a href="cs_pud-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="cs_pud-pos-PRON.html">PRON</a></tt> 1), <em>jehož</em> (<tt><a href="cs_pud-pos-DET.html">DET</a></tt> 3, <tt><a href="cs_pud-pos-PRON.html">PRON</a></tt> 1)
 
 
-* se
-  * <tt><a href="cs_pud-pos-PRON.html">PRON</a></tt> 303: Ne každý <b>se</b> nad to dokáže povznést .
-  * <tt><a href="cs_pud-pos-ADP.html">ADP</a></tt> 15: Míjíme městečko <b>se</b> dvěma minarety .
-* co
-  * <tt><a href="cs_pud-pos-SCONJ.html">SCONJ</a></tt> 17: V říjnu 2015 , měsíc poté , <b>co</b> skandál vyšel najevo , byl povýšen na předsedu .
-  * <tt><a href="cs_pud-pos-PRON.html">PRON</a></tt> 14: Co říká a <b>co</b> dělá , to je – no , je to neuvěřitelné .
-  * <tt><a href="cs_pud-pos-ADV.html">ADV</a></tt> 1: To má <b>co</b> do činění s jednou z mála budov v centru města , které byly ušetřeny před zničením na konci druhé světové války .
-* je
-  * <tt><a href="cs_pud-pos-AUX.html">AUX</a></tt> 138: Co říká a co dělá , to <b>je</b> – no , <b>je</b> to neuvěřitelné .
-  * <tt><a href="cs_pud-pos-VERB.html">VERB</a></tt> 14: Samozřejmě , že v kancelářích <b>je</b> víc oblečení než jídla .
-  * <tt><a href="cs_pud-pos-PRON.html">PRON</a></tt> 5: Vydávání mincí je převážně numismatická záležitost s cílem prodávat <b>je</b> především sběratelům .
-* You
-  * <tt><a href="cs_pud-pos-PRON.html">PRON</a></tt> 1: V nedávném rozhovoru Zay a Zayion popsali nahrávání své verze „ Knuck If <b>You</b> Buck “ doma na notebooku .
-  * <tt><a href="cs_pud-pos-NOUN.html">NOUN</a></tt> 1: Singl Really Really Love <b>You</b> byl vydán v srpnu a dostal se do první padesátky nejúspěšnějších písní , v září se objevil podobný singl Shaky Ground , ale Geyer byl tou dobou už ve Spojených státech .
-* jehož
-  * <tt><a href="cs_pud-pos-DET.html">DET</a></tt> 3: Donald Trump je nabubřelý , arogantní a sebestředný člověk , kterému nezáleží na ostatních a <b>jehož</b> povaha škodí Spojeným státům .
-  * <tt><a href="cs_pud-pos-PRON.html">PRON</a></tt> 1: Cuaron , <b>jehož</b> nejnovějším filmem je oskarová Gravitace , podle dostupných zpráv v době incidentu u natáčení nebyl .
+* <em>se</em>
+  * <tt><a href="cs_pud-pos-PRON.html">PRON</a></tt> 303: <em>Ne každý <b>se</b> nad to dokáže povznést .</em>
+  * <tt><a href="cs_pud-pos-ADP.html">ADP</a></tt> 15: <em>Míjíme městečko <b>se</b> dvěma minarety .</em>
+* <em>co</em>
+  * <tt><a href="cs_pud-pos-SCONJ.html">SCONJ</a></tt> 17: <em>V říjnu 2015 , měsíc poté , <b>co</b> skandál vyšel najevo , byl povýšen na předsedu .</em>
+  * <tt><a href="cs_pud-pos-PRON.html">PRON</a></tt> 14: <em>Co říká a <b>co</b> dělá , to je – no , je to neuvěřitelné .</em>
+  * <tt><a href="cs_pud-pos-ADV.html">ADV</a></tt> 1: <em>To má <b>co</b> do činění s jednou z mála budov v centru města , které byly ušetřeny před zničením na konci druhé světové války .</em>
+* <em>je</em>
+  * <tt><a href="cs_pud-pos-AUX.html">AUX</a></tt> 138: <em>Co říká a co dělá , to <b>je</b> – no , <b>je</b> to neuvěřitelné .</em>
+  * <tt><a href="cs_pud-pos-VERB.html">VERB</a></tt> 14: <em>Samozřejmě , že v kancelářích <b>je</b> víc oblečení než jídla .</em>
+  * <tt><a href="cs_pud-pos-PRON.html">PRON</a></tt> 5: <em>Vydávání mincí je převážně numismatická záležitost s cílem prodávat <b>je</b> především sběratelům .</em>
+* <em>You</em>
+  * <tt><a href="cs_pud-pos-NOUN.html">NOUN</a></tt> 1: <em>Singl Really Really Love <b>You</b> byl vydán v srpnu a dostal se do první padesátky nejúspěšnějších písní , v září se objevil podobný singl Shaky Ground , ale Geyer byl tou dobou už ve Spojených státech .</em>
+  * <tt><a href="cs_pud-pos-PRON.html">PRON</a></tt> 1: <em>V nedávném rozhovoru Zay a Zayion popsali nahrávání své verze „ Knuck If <b>You</b> Buck “ doma na notebooku .</em>
+* <em>jehož</em>
+  * <tt><a href="cs_pud-pos-DET.html">DET</a></tt> 3: <em>Donald Trump je nabubřelý , arogantní a sebestředný člověk , kterému nezáleží na ostatních a <b>jehož</b> povaha škodí Spojeným státům .</em>
+  * <tt><a href="cs_pud-pos-PRON.html">PRON</a></tt> 1: <em>Cuaron , <b>jehož</b> nejnovějším filmem je oskarová Gravitace , podle dostupných zpráv v době incidentu u natáčení nebyl .</em>
 
 ## Morphology
 
 The form / lemma ratio of `PRON` is 3.777778 (the average of all parts of speech is 1.427558).
 
-The 1st highest number of forms (20) was observed with the lemma “on”: ho, je, ji, jich, jim, jí, jím, mu, nich, nimi, ní, ním, ně, něho, něj, něm, němu, on, ona, oni.
+The 1st highest number of forms (20) was observed with the lemma “on”: <em>ho, je, ji, jich, jim, jí, jím, mu, nich, nimi, ní, ním, ně, něho, něj, něm, němu, on, ona, oni</em>.
 
-The 2nd highest number of forms (8) was observed with the lemma “jenž”: jehož, jenž, jež, nichž, nimž, niž, níž, něhož.
+The 2nd highest number of forms (8) was observed with the lemma “jenž”: <em>jehož, jenž, jež, nichž, nimž, niž, níž, něhož</em>.
 
-The 3rd highest number of forms (5) was observed with the lemma “já”: já, mi, mě, nám, nás.
+The 3rd highest number of forms (5) was observed with the lemma “já”: <em>já, mi, mě, nám, nás</em>.
 
 `PRON` occurs with 10 features: <tt><a href="cs_pud-feat-PronType.html">PronType</a></tt> (578; 100% instances), <tt><a href="cs_pud-feat-Case.html">Case</a></tt> (576; 100% instances), <tt><a href="cs_pud-feat-Variant.html">Variant</a></tt> (378; 65% instances), <tt><a href="cs_pud-feat-Reflex.html">Reflex</a></tt> (353; 61% instances), <tt><a href="cs_pud-feat-Number.html">Number</a></tt> (153; 26% instances), <tt><a href="cs_pud-feat-Person.html">Person</a></tt> (128; 22% instances), <tt><a href="cs_pud-feat-Gender.html">Gender</a></tt> (106; 18% instances), <tt><a href="cs_pud-feat-PrepCase.html">PrepCase</a></tt> (64; 11% instances), <tt><a href="cs_pud-feat-Animacy.html">Animacy</a></tt> (36; 6% instances), <tt><a href="cs_pud-feat-Foreign.html">Foreign</a></tt> (2; 0% instances)
 
@@ -52,7 +52,7 @@ The 3rd highest number of forms (5) was observed with the lemma “já”: já, 
 
 `PRON` occurs with 80 feature combinations.
 The most frequent feature combination is `Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short` (303 tokens).
-Examples: se
+Examples: <em>se</em>
 
 
 ## Relations

@@ -22,19 +22,19 @@ The most frequent other feature values with which `DET` and `Poss` co-occurred: 
 
 `DET` tokens may have the following values of `Poss`:
 
-* `Yes` (226; 100% of non-empty `Poss`): jeho jejich své její n svou svého svůj svých svým
-* `EMPTY` (587): to který které která mnoho toho kteří tím tento tohoto
+* `Yes` (226; 100% of non-empty `Poss`): <em>jeho, jejich, své, její, n, svou, svého, svůj, svých, svým</em>
+* `EMPTY` (587): <em>to, který, které, která, mnoho, toho, kteří, tím, tento, tohoto</em>
 
 ### `ADJ`
 
 39 <tt><a href="cs_pud-pos-ADJ.html">ADJ</a></tt> tokens (2% of all `ADJ` tokens) have a non-empty value of `Poss`.
 
-The most frequent other feature values with which `ADJ` and `Poss` co-occurred: <tt><a href="cs_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (39; 100%), <tt><a href="cs_pud-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (39; 100%), <tt><a href="cs_pud-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (39; 100%), <tt><a href="cs_pud-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (39; 100%), <tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (25; 64%), <tt><a href="cs_pud-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (21; 54%).
+The most frequent other feature values with which `ADJ` and `Poss` co-occurred: <tt><a href="cs_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (39; 100%), <tt><a href="cs_pud-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (39; 100%), <tt><a href="cs_pud-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (39; 100%), <tt><a href="cs_pud-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (39; 100%), <tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (25; 64%), <tt><a href="cs_pud-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (21; 54%).
 
 `ADJ` tokens may have the following values of `Poss`:
 
-* `Yes` (39; 100% of non-empty `Poss`): achaimenovské Achaimenovskou Achaimenovská Alexandrově Bergeronova Berijovo Blochových Caesarovi Carangiina Cottonovy
-* `EMPTY` (2245): první další nové jižní druhé severní hlavní velká velké vlastní
+* `Yes` (39; 100% of non-empty `Poss`): <em>achaimenovské, Achaimenovskou, Achaimenovská, Alexandrově, Bergeronova, Berijovo, Blochových, Caesarovi, Carangiina, Cottonovy</em>
+* `EMPTY` (2245): <em>první, další, nové, jižní, druhé, severní, hlavní, velká, velké, vlastní</em>
 
 `Poss` seems to be **lexical feature** of `ADJ`. 100% lemmas (37) occur only with one value of `Poss`.
 

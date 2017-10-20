@@ -9,58 +9,58 @@ udver: '2'
 There are 6 `AUX` lemmas (0%), 70 `AUX` types (0%) and 41393 `AUX` tokens (3%).
 Out of 17 observed tags, the rank of `AUX` is: 16 in number of lemmas, 11 in number of types and 12 in number of tokens.
 
-The 10 most frequent `AUX` lemmas: být bývat bývávat stát moci mít
+The 10 most frequent `AUX` lemmas: <em>být, bývat, bývávat, stát, moci, mít</em>
 
-The 10 most frequent `AUX` types:  je by jsou bude byl být jsem jsme bylo byla
+The 10 most frequent `AUX` types:  <em>je, by, jsou, bude, byl, být, jsem, jsme, bylo, byla</em>
 
-The 10 most frequent ambiguous lemmas: být (<tt><a href="cs-pos-AUX.html">AUX</a></tt> 41217, <tt><a href="cs-pos-VERB.html">VERB</a></tt> 5167), bývat (<tt><a href="cs-pos-AUX.html">AUX</a></tt> 168, <tt><a href="cs-pos-VERB.html">VERB</a></tt> 44), bývávat (<tt><a href="cs-pos-AUX.html">AUX</a></tt> 3, <tt><a href="cs-pos-VERB.html">VERB</a></tt> 1), stát (<tt><a href="cs-pos-VERB.html">VERB</a></tt> 1539, <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 1446, <tt><a href="cs-pos-AUX.html">AUX</a></tt> 3), moci (<tt><a href="cs-pos-VERB.html">VERB</a></tt> 4292, <tt><a href="cs-pos-AUX.html">AUX</a></tt> 1), mít (<tt><a href="cs-pos-VERB.html">VERB</a></tt> 8496, <tt><a href="cs-pos-AUX.html">AUX</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>být</em> (<tt><a href="cs-pos-AUX.html">AUX</a></tt> 41217, <tt><a href="cs-pos-VERB.html">VERB</a></tt> 5167), <em>bývat</em> (<tt><a href="cs-pos-AUX.html">AUX</a></tt> 168, <tt><a href="cs-pos-VERB.html">VERB</a></tt> 44), <em>bývávat</em> (<tt><a href="cs-pos-AUX.html">AUX</a></tt> 3, <tt><a href="cs-pos-VERB.html">VERB</a></tt> 1), <em>stát</em> (<tt><a href="cs-pos-VERB.html">VERB</a></tt> 1539, <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 1446, <tt><a href="cs-pos-AUX.html">AUX</a></tt> 3), <em>moci</em> (<tt><a href="cs-pos-VERB.html">VERB</a></tt> 4292, <tt><a href="cs-pos-AUX.html">AUX</a></tt> 1), <em>mít</em> (<tt><a href="cs-pos-VERB.html">VERB</a></tt> 8496, <tt><a href="cs-pos-AUX.html">AUX</a></tt> 1)
 
-The 10 most frequent ambiguous types:  je (<tt><a href="cs-pos-AUX.html">AUX</a></tt> 10151, <tt><a href="cs-pos-VERB.html">VERB</a></tt> 1986, <tt><a href="cs-pos-PRON.html">PRON</a></tt> 887), by (<tt><a href="cs-pos-AUX.html">AUX</a></tt> 7859, <tt><a href="cs-pos-VERB.html">VERB</a></tt> 5, <tt><a href="cs-pos-ADP.html">ADP</a></tt> 1, <tt><a href="cs-pos-PART.html">PART</a></tt> 1), jsou (<tt><a href="cs-pos-AUX.html">AUX</a></tt> 2639, <tt><a href="cs-pos-VERB.html">VERB</a></tt> 616), bude (<tt><a href="cs-pos-AUX.html">AUX</a></tt> 2454, <tt><a href="cs-pos-VERB.html">VERB</a></tt> 253), byl (<tt><a href="cs-pos-AUX.html">AUX</a></tt> 1945, <tt><a href="cs-pos-VERB.html">VERB</a></tt> 214), být (<tt><a href="cs-pos-AUX.html">AUX</a></tt> 1853, <tt><a href="cs-pos-VERB.html">VERB</a></tt> 209), jsem (<tt><a href="cs-pos-AUX.html">AUX</a></tt> 1533, <tt><a href="cs-pos-VERB.html">VERB</a></tt> 19), jsme (<tt><a href="cs-pos-AUX.html">AUX</a></tt> 1518, <tt><a href="cs-pos-VERB.html">VERB</a></tt> 62), bylo (<tt><a href="cs-pos-AUX.html">AUX</a></tt> 1366, <tt><a href="cs-pos-VERB.html">VERB</a></tt> 290), byla (<tt><a href="cs-pos-AUX.html">AUX</a></tt> 1368, <tt><a href="cs-pos-VERB.html">VERB</a></tt> 130)
+The 10 most frequent ambiguous types:  <em>je</em> (<tt><a href="cs-pos-AUX.html">AUX</a></tt> 10151, <tt><a href="cs-pos-VERB.html">VERB</a></tt> 1986, <tt><a href="cs-pos-PRON.html">PRON</a></tt> 887), <em>by</em> (<tt><a href="cs-pos-AUX.html">AUX</a></tt> 7859, <tt><a href="cs-pos-VERB.html">VERB</a></tt> 5, <tt><a href="cs-pos-ADP.html">ADP</a></tt> 1, <tt><a href="cs-pos-PART.html">PART</a></tt> 1), <em>jsou</em> (<tt><a href="cs-pos-AUX.html">AUX</a></tt> 2639, <tt><a href="cs-pos-VERB.html">VERB</a></tt> 616), <em>bude</em> (<tt><a href="cs-pos-AUX.html">AUX</a></tt> 2454, <tt><a href="cs-pos-VERB.html">VERB</a></tt> 253), <em>byl</em> (<tt><a href="cs-pos-AUX.html">AUX</a></tt> 1945, <tt><a href="cs-pos-VERB.html">VERB</a></tt> 214), <em>být</em> (<tt><a href="cs-pos-AUX.html">AUX</a></tt> 1853, <tt><a href="cs-pos-VERB.html">VERB</a></tt> 209), <em>jsem</em> (<tt><a href="cs-pos-AUX.html">AUX</a></tt> 1533, <tt><a href="cs-pos-VERB.html">VERB</a></tt> 19), <em>jsme</em> (<tt><a href="cs-pos-AUX.html">AUX</a></tt> 1518, <tt><a href="cs-pos-VERB.html">VERB</a></tt> 62), <em>bylo</em> (<tt><a href="cs-pos-AUX.html">AUX</a></tt> 1366, <tt><a href="cs-pos-VERB.html">VERB</a></tt> 290), <em>byla</em> (<tt><a href="cs-pos-AUX.html">AUX</a></tt> 1368, <tt><a href="cs-pos-VERB.html">VERB</a></tt> 130)
 
 
-* je
-  * <tt><a href="cs-pos-AUX.html">AUX</a></tt> 10151: Váš obecně platný dotaz <b>je</b> připraven zodpovědět spolupracovník Profitu .
-  * <tt><a href="cs-pos-VERB.html">VERB</a></tt> 1986: U každého výrobku <b>je</b> krátká charakteristika a kontaktní adresa výrobce .
-  * <tt><a href="cs-pos-PRON.html">PRON</a></tt> 887: Změny jsou citelné , je třeba <b>je</b> lépe prezentovat
-* by
-  * <tt><a href="cs-pos-AUX.html">AUX</a></tt> 7859: Jen cedule <b>by</b> byla jiná : FOR RENT ! - K PRONÁJMU !
-  * <tt><a href="cs-pos-VERB.html">VERB</a></tt> 5: Bodejť <b>by</b> ne !
-  * <tt><a href="cs-pos-ADP.html">ADP</a></tt> 1: Bylo to strašně těžké , dosáhnout souhlasu , aby by Spojené státy mohly jednat <b>by</b> all means , s využitím všech možných prostředků .
-  * <tt><a href="cs-pos-PART.html">PART</a></tt> 1: Podmínkou jeho uvolnění je uzavření dohody o dispozičním ( stand - <b>by</b> ) úvěru s Mezinárodním měnovým fondem .
-* jsou
-  * <tt><a href="cs-pos-AUX.html">AUX</a></tt> 2639: Změny <b>jsou</b> citelné , je třeba je lépe prezentovat
-  * <tt><a href="cs-pos-VERB.html">VERB</a></tt> 616: Další závady , ke kterým dochází , <b>jsou</b> :
-* bude
-  * <tt><a href="cs-pos-AUX.html">AUX</a></tt> 2454: Zdůraznil , že banka <b>bude</b> půjčovat ne firmě , ale nám osobně .
-  * <tt><a href="cs-pos-VERB.html">VERB</a></tt> 253: Obilovin <b>bude</b> letos o 495000 tun více
-* byl
-  * <tt><a href="cs-pos-AUX.html">AUX</a></tt> 1945: Také proto <b>byl</b> thajskou vládou založen Úřad pro exportní politiku .
-  * <tt><a href="cs-pos-VERB.html">VERB</a></tt> 214: Zájem <b>byl</b> o celek , o sítě , ne o drobky .
-* být
-  * <tt><a href="cs-pos-AUX.html">AUX</a></tt> 1853: Na požádání může <b>být</b> zaslán seznam firem .
-  * <tt><a href="cs-pos-VERB.html">VERB</a></tt> 209: Jsou to možná velká slova , ale " tak nějak " by to asi mělo <b>být</b> .
-* jsem
-  * <tt><a href="cs-pos-AUX.html">AUX</a></tt> 1533: Chci uzavřít pojištění a dostal <b>jsem</b> proto k vyplnění dotazník .
-  * <tt><a href="cs-pos-VERB.html">VERB</a></tt> 19: Za rok tu <b>jsem</b> znova , tedy pokud mě nepřejede auto .
-* jsme
-  * <tt><a href="cs-pos-AUX.html">AUX</a></tt> 1518: Jemu <b>jsme</b> položili následující otázku :
-  * <tt><a href="cs-pos-VERB.html">VERB</a></tt> 62: * Takže jak <b>jsme</b> na tom - jsme kvalifikovaní pro Evropu ?
-* bylo
-  * <tt><a href="cs-pos-AUX.html">AUX</a></tt> 1366: V roce 1993 to <b>bylo</b> paradoxně vlivem opatření MF ČR jen 137.10 Kč .
-  * <tt><a href="cs-pos-VERB.html">VERB</a></tt> 290: A jak to <b>bylo</b> dál ?
-* byla
-  * <tt><a href="cs-pos-AUX.html">AUX</a></tt> 1368: Jen cedule by <b>byla</b> jiná : FOR RENT ! - K PRONÁJMU !
-  * <tt><a href="cs-pos-VERB.html">VERB</a></tt> 130: O dálnici již <b>byla</b> řeč .
+* <em>je</em>
+  * <tt><a href="cs-pos-AUX.html">AUX</a></tt> 10151: <em>Váš obecně platný dotaz <b>je</b> připraven zodpovědět spolupracovník Profitu .</em>
+  * <tt><a href="cs-pos-VERB.html">VERB</a></tt> 1986: <em>U každého výrobku <b>je</b> krátká charakteristika a kontaktní adresa výrobce .</em>
+  * <tt><a href="cs-pos-PRON.html">PRON</a></tt> 887: <em>Změny jsou citelné , je třeba <b>je</b> lépe prezentovat</em>
+* <em>by</em>
+  * <tt><a href="cs-pos-AUX.html">AUX</a></tt> 7859: <em>Jen cedule <b>by</b> byla jiná : FOR RENT ! - K PRONÁJMU !</em>
+  * <tt><a href="cs-pos-VERB.html">VERB</a></tt> 5: <em>Bodejť <b>by</b> ne !</em>
+  * <tt><a href="cs-pos-ADP.html">ADP</a></tt> 1: <em>Bylo to strašně těžké , dosáhnout souhlasu , aby by Spojené státy mohly jednat <b>by</b> all means , s využitím všech možných prostředků .</em>
+  * <tt><a href="cs-pos-PART.html">PART</a></tt> 1: <em>Podmínkou jeho uvolnění je uzavření dohody o dispozičním ( stand - <b>by</b> ) úvěru s Mezinárodním měnovým fondem .</em>
+* <em>jsou</em>
+  * <tt><a href="cs-pos-AUX.html">AUX</a></tt> 2639: <em>Změny <b>jsou</b> citelné , je třeba je lépe prezentovat</em>
+  * <tt><a href="cs-pos-VERB.html">VERB</a></tt> 616: <em>Další závady , ke kterým dochází , <b>jsou</b> :</em>
+* <em>bude</em>
+  * <tt><a href="cs-pos-AUX.html">AUX</a></tt> 2454: <em>Zdůraznil , že banka <b>bude</b> půjčovat ne firmě , ale nám osobně .</em>
+  * <tt><a href="cs-pos-VERB.html">VERB</a></tt> 253: <em>Obilovin <b>bude</b> letos o 495000 tun více</em>
+* <em>byl</em>
+  * <tt><a href="cs-pos-AUX.html">AUX</a></tt> 1945: <em>Také proto <b>byl</b> thajskou vládou založen Úřad pro exportní politiku .</em>
+  * <tt><a href="cs-pos-VERB.html">VERB</a></tt> 214: <em>Zájem <b>byl</b> o celek , o sítě , ne o drobky .</em>
+* <em>být</em>
+  * <tt><a href="cs-pos-AUX.html">AUX</a></tt> 1853: <em>Na požádání může <b>být</b> zaslán seznam firem .</em>
+  * <tt><a href="cs-pos-VERB.html">VERB</a></tt> 209: <em>Jsou to možná velká slova , ale " tak nějak " by to asi mělo <b>být</b> .</em>
+* <em>jsem</em>
+  * <tt><a href="cs-pos-AUX.html">AUX</a></tt> 1533: <em>Chci uzavřít pojištění a dostal <b>jsem</b> proto k vyplnění dotazník .</em>
+  * <tt><a href="cs-pos-VERB.html">VERB</a></tt> 19: <em>Za rok tu <b>jsem</b> znova , tedy pokud mě nepřejede auto .</em>
+* <em>jsme</em>
+  * <tt><a href="cs-pos-AUX.html">AUX</a></tt> 1518: <em>Jemu <b>jsme</b> položili následující otázku :</em>
+  * <tt><a href="cs-pos-VERB.html">VERB</a></tt> 62: <em>* Takže jak <b>jsme</b> na tom - jsme kvalifikovaní pro Evropu ?</em>
+* <em>bylo</em>
+  * <tt><a href="cs-pos-AUX.html">AUX</a></tt> 1366: <em>V roce 1993 to <b>bylo</b> paradoxně vlivem opatření MF ČR jen 137.10 Kč .</em>
+  * <tt><a href="cs-pos-VERB.html">VERB</a></tt> 290: <em>A jak to <b>bylo</b> dál ?</em>
+* <em>byla</em>
+  * <tt><a href="cs-pos-AUX.html">AUX</a></tt> 1368: <em>Jen cedule by <b>byla</b> jiná : FOR RENT ! - K PRONÁJMU !</em>
+  * <tt><a href="cs-pos-VERB.html">VERB</a></tt> 130: <em>O dálnici již <b>byla</b> řeč .</em>
 
 ## Morphology
 
 The form / lemma ratio of `AUX` is 11.666667 (the average of all parts of speech is 2.181849).
 
-The 1st highest number of forms (53) was observed with the lemma “být”: Buďme, Nebudeš, Nebuďte, bude, budem, budeme, budete, budeš, budiž, budou, budu, buď, buďte, by, bych, bychom, byl, byla, byli, bylo, byly, bys, byste, být, býti, je, jest, jsa, jsem, jsi, jsme, jsou, jsouc, jsouce, jste, nebude, nebudeme, nebudete, nebudou, nebudu, nebyl, nebyla, nebyli, nebylo, nebyly, nebýt, nejsem, nejsme, nejsou, nejste, není, nésó, si.
+The 1st highest number of forms (53) was observed with the lemma “být”: <em>Buďme, Nebudeš, Nebuďte, bude, budem, budeme, budete, budeš, budiž, budou, budu, buď, buďte, by, bych, bychom, byl, byla, byli, bylo, byly, bys, byste, být, býti, je, jest, jsa, jsem, jsi, jsme, jsou, jsouc, jsouce, jste, nebude, nebudeme, nebudete, nebudou, nebudu, nebyl, nebyla, nebyli, nebylo, nebyly, nebýt, nejsem, nejsme, nejsou, nejste, není, nésó, si</em>.
 
-The 2nd highest number of forms (11) was observed with the lemma “bývat”: bývají, býval, bývala, bývali, bývalo, bývaly, bývá, nebývají, nebývala, nebývalo, nebývá.
+The 2nd highest number of forms (11) was observed with the lemma “bývat”: <em>bývají, býval, bývala, bývali, bývalo, bývaly, bývá, nebývají, nebývala, nebývalo, nebývá</em>.
 
-The 3rd highest number of forms (3) was observed with the lemma “stát”: stal, stali, stalo.
+The 3rd highest number of forms (3) was observed with the lemma “stát”: <em>stal, stali, stalo</em>.
 
 `AUX` occurs with 11 features: <tt><a href="cs-feat-VerbForm.html">VerbForm</a></tt> (41393; 100% instances), <tt><a href="cs-feat-Mood.html">Mood</a></tt> (32746; 79% instances), <tt><a href="cs-feat-Polarity.html">Polarity</a></tt> (32500; 79% instances), <tt><a href="cs-feat-Number.html">Number</a></tt> (31663; 76% instances), <tt><a href="cs-feat-Tense.html">Tense</a></tt> (30553; 74% instances), <tt><a href="cs-feat-Voice.html">Voice</a></tt> (30553; 74% instances), <tt><a href="cs-feat-Person.html">Person</a></tt> (27307; 66% instances), <tt><a href="cs-feat-Gender.html">Gender</a></tt> (6779; 16% instances), <tt><a href="cs-feat-Animacy.html">Animacy</a></tt> (1282; 3% instances), <tt><a href="cs-feat-Aspect.html">Aspect</a></tt> (179; 0% instances), <tt><a href="cs-feat-Style.html">Style</a></tt> (22; 0% instances)
 
@@ -68,7 +68,7 @@ The 3rd highest number of forms (3) was observed with the lemma “stát”: sta
 
 `AUX` occurs with 67 feature combinations.
 The most frequent feature combination is `Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act` (11070 tokens).
-Examples: je
+Examples: <em>je</em>
 
 
 ## Relations

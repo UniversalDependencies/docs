@@ -9,57 +9,57 @@ udver: '2'
 There are 3708 `VERB` lemmas (13%), 10752 `VERB` types (17%) and 40590 `VERB` tokens (8%).
 Out of 16 observed tags, the rank of `VERB` is: 3 in number of lemmas, 3 in number of types and 5 in number of tokens.
 
-The 10 most frequent `VERB` lemmas: mít být moci muset jít lze stát chtít dát pracovat
+The 10 most frequent `VERB` lemmas: <em>mít, být, moci, muset, jít, lze, stát, chtít, dát, pracovat</em>
 
-The 10 most frequent `VERB` types:  je má mají musí může jde lze jsou mohou můžeme
+The 10 most frequent `VERB` types:  <em>je, má, mají, musí, může, jde, lze, jsou, mohou, můžeme</em>
 
-The 10 most frequent ambiguous lemmas: mít (<tt><a href="cs_cac-pos-VERB.html">VERB</a></tt> 2327, <tt><a href="cs_cac-pos-AUX.html">AUX</a></tt> 5), být (<tt><a href="cs_cac-pos-AUX.html">AUX</a></tt> 14145, <tt><a href="cs_cac-pos-VERB.html">VERB</a></tt> 1828), moci (<tt><a href="cs_cac-pos-VERB.html">VERB</a></tt> 1433, <tt><a href="cs_cac-pos-AUX.html">AUX</a></tt> 5), muset (<tt><a href="cs_cac-pos-VERB.html">VERB</a></tt> 687, <tt><a href="cs_cac-pos-AUX.html">AUX</a></tt> 2), stát (<tt><a href="cs_cac-pos-VERB.html">VERB</a></tt> 348, <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> 169), vyžadovat (<tt><a href="cs_cac-pos-VERB.html">VERB</a></tt> 116, <tt><a href="cs_cac-pos-AUX.html">AUX</a></tt> 1), znát (<tt><a href="cs_cac-pos-VERB.html">VERB</a></tt> 111, <tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt> 1), růst (<tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> 104, <tt><a href="cs_cac-pos-VERB.html">VERB</a></tt> 58), vzrůst (<tt><a href="cs_cac-pos-VERB.html">VERB</a></tt> 32, <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> 13), bývat (<tt><a href="cs_cac-pos-AUX.html">AUX</a></tt> 84, <tt><a href="cs_cac-pos-VERB.html">VERB</a></tt> 29)
+The 10 most frequent ambiguous lemmas: <em>mít</em> (<tt><a href="cs_cac-pos-VERB.html">VERB</a></tt> 2327, <tt><a href="cs_cac-pos-AUX.html">AUX</a></tt> 5), <em>být</em> (<tt><a href="cs_cac-pos-AUX.html">AUX</a></tt> 14145, <tt><a href="cs_cac-pos-VERB.html">VERB</a></tt> 1828), <em>moci</em> (<tt><a href="cs_cac-pos-VERB.html">VERB</a></tt> 1433, <tt><a href="cs_cac-pos-AUX.html">AUX</a></tt> 5), <em>muset</em> (<tt><a href="cs_cac-pos-VERB.html">VERB</a></tt> 687, <tt><a href="cs_cac-pos-AUX.html">AUX</a></tt> 2), <em>stát</em> (<tt><a href="cs_cac-pos-VERB.html">VERB</a></tt> 348, <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> 169), <em>vyžadovat</em> (<tt><a href="cs_cac-pos-VERB.html">VERB</a></tt> 116, <tt><a href="cs_cac-pos-AUX.html">AUX</a></tt> 1), <em>znát</em> (<tt><a href="cs_cac-pos-VERB.html">VERB</a></tt> 111, <tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt> 1), <em>růst</em> (<tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> 104, <tt><a href="cs_cac-pos-VERB.html">VERB</a></tt> 58), <em>vzrůst</em> (<tt><a href="cs_cac-pos-VERB.html">VERB</a></tt> 32, <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> 13), <em>bývat</em> (<tt><a href="cs_cac-pos-AUX.html">AUX</a></tt> 84, <tt><a href="cs_cac-pos-VERB.html">VERB</a></tt> 29)
 
-The 10 most frequent ambiguous types:  je (<tt><a href="cs_cac-pos-AUX.html">AUX</a></tt> 4424, <tt><a href="cs_cac-pos-VERB.html">VERB</a></tt> 731, <tt><a href="cs_cac-pos-PRON.html">PRON</a></tt> 356), má (<tt><a href="cs_cac-pos-VERB.html">VERB</a></tt> 727, <tt><a href="cs_cac-pos-DET.html">DET</a></tt> 1, <tt><a href="cs_cac-pos-AUX.html">AUX</a></tt> 1), musí (<tt><a href="cs_cac-pos-VERB.html">VERB</a></tt> 375, <tt><a href="cs_cac-pos-AUX.html">AUX</a></tt> 1), může (<tt><a href="cs_cac-pos-VERB.html">VERB</a></tt> 377, <tt><a href="cs_cac-pos-AUX.html">AUX</a></tt> 1), jsou (<tt><a href="cs_cac-pos-AUX.html">AUX</a></tt> 1389, <tt><a href="cs_cac-pos-VERB.html">VERB</a></tt> 259), mohou (<tt><a href="cs_cac-pos-VERB.html">VERB</a></tt> 239, <tt><a href="cs_cac-pos-AUX.html">AUX</a></tt> 1), měl (<tt><a href="cs_cac-pos-VERB.html">VERB</a></tt> 143, <tt><a href="cs_cac-pos-AUX.html">AUX</a></tt> 2), měla (<tt><a href="cs_cac-pos-VERB.html">VERB</a></tt> 126, <tt><a href="cs_cac-pos-AUX.html">AUX</a></tt> 1), bylo (<tt><a href="cs_cac-pos-AUX.html">AUX</a></tt> 533, <tt><a href="cs_cac-pos-VERB.html">VERB</a></tt> 102), není (<tt><a href="cs_cac-pos-AUX.html">AUX</a></tt> 411, <tt><a href="cs_cac-pos-VERB.html">VERB</a></tt> 83)
+The 10 most frequent ambiguous types:  <em>je</em> (<tt><a href="cs_cac-pos-AUX.html">AUX</a></tt> 4424, <tt><a href="cs_cac-pos-VERB.html">VERB</a></tt> 731, <tt><a href="cs_cac-pos-PRON.html">PRON</a></tt> 356), <em>má</em> (<tt><a href="cs_cac-pos-VERB.html">VERB</a></tt> 727, <tt><a href="cs_cac-pos-AUX.html">AUX</a></tt> 1, <tt><a href="cs_cac-pos-DET.html">DET</a></tt> 1), <em>musí</em> (<tt><a href="cs_cac-pos-VERB.html">VERB</a></tt> 375, <tt><a href="cs_cac-pos-AUX.html">AUX</a></tt> 1), <em>může</em> (<tt><a href="cs_cac-pos-VERB.html">VERB</a></tt> 377, <tt><a href="cs_cac-pos-AUX.html">AUX</a></tt> 1), <em>jsou</em> (<tt><a href="cs_cac-pos-AUX.html">AUX</a></tt> 1389, <tt><a href="cs_cac-pos-VERB.html">VERB</a></tt> 259), <em>mohou</em> (<tt><a href="cs_cac-pos-VERB.html">VERB</a></tt> 239, <tt><a href="cs_cac-pos-AUX.html">AUX</a></tt> 1), <em>měl</em> (<tt><a href="cs_cac-pos-VERB.html">VERB</a></tt> 143, <tt><a href="cs_cac-pos-AUX.html">AUX</a></tt> 2), <em>měla</em> (<tt><a href="cs_cac-pos-VERB.html">VERB</a></tt> 126, <tt><a href="cs_cac-pos-AUX.html">AUX</a></tt> 1), <em>bylo</em> (<tt><a href="cs_cac-pos-AUX.html">AUX</a></tt> 533, <tt><a href="cs_cac-pos-VERB.html">VERB</a></tt> 102), <em>není</em> (<tt><a href="cs_cac-pos-AUX.html">AUX</a></tt> 411, <tt><a href="cs_cac-pos-VERB.html">VERB</a></tt> 83)
 
 
-* je
-  * <tt><a href="cs_cac-pos-AUX.html">AUX</a></tt> 4424: Upřesněný realizační program <b>je</b> zaměřen na tyto hlavní úkoly .
-  * <tt><a href="cs_cac-pos-VERB.html">VERB</a></tt> 731: Proto <b>je</b> odtučňovací dieta v plánu mnohé z nás .
-  * <tt><a href="cs_cac-pos-PRON.html">PRON</a></tt> 356: Z převážné většiny ploch <b>je</b> však vybírají brigádníci ručně .
-* má
-  * <tt><a href="cs_cac-pos-VERB.html">VERB</a></tt> 727: V dnešní době <b>má</b> kosmetika , tedy péče o zdraví a krásu , nový obsah .
-  * <tt><a href="cs_cac-pos-DET.html">DET</a></tt> 1: Pozvala mne k sobě do Krasnodaru <b>má</b> přítelkyně Sima Chakurate , se kterou jsme se poznaly v době druhé světové války v koncentračním táboře Ravensbrücku , kde jsme prožily krutých dva a půl roku .
-  * <tt><a href="cs_cac-pos-AUX.html">AUX</a></tt> 1: Každý <b>má</b> vlastní vztah k událostem a faktům , která dokument uvádí a zobecňuje , a každý by ovšem měl také využít svých zkušeností z nedávných těžkých let , aby by sám přispěl k velkému dění , jímž naše odbory postupně obnovují svůj revoluční charakter a masový vliv , i v tom smyslu Závěry ukazují směr , kudy vést konkrétní a účinný boj s pozůstatky či opětovnými projevy reformistických tendencí v odborové práci a jak i kam tuto každodenní činnost zaměřovat , aby by sloužila dělnické třídě v souladu se zájmy i její historickou úlohou .
-* musí
-  * <tt><a href="cs_cac-pos-VERB.html">VERB</a></tt> 375: Na štítku žehličky vyražené napětí <b>musí</b> souhlasit s napětím elektroměru .
-  * <tt><a href="cs_cac-pos-AUX.html">AUX</a></tt> 1: Minimální šířka bočních i čelních přesahů dvou vložek <b>musí</b> být bezpodmínečně u lepenkových vložek # * a # * u vláknitých .
-* může
-  * <tt><a href="cs_cac-pos-VERB.html">VERB</a></tt> 377: Každá pleť , hlavně normální a suchá , <b>může</b> být dráždivá .
-  * <tt><a href="cs_cac-pos-AUX.html">AUX</a></tt> 1: Analýza dílčích jedinečných případů a událostí <b>může</b> být nezbytnou náležitostí výzkumu na cestě k vědeckému zobecnění a v tom smyslu také určitým dílčím elementem vědy .
-* jsou
-  * <tt><a href="cs_cac-pos-AUX.html">AUX</a></tt> 1389: Stav a využívání půdního fondu <b>jsou</b> u nás neuspokojivé .
-  * <tt><a href="cs_cac-pos-VERB.html">VERB</a></tt> 259: Čeho je ve Varnsdorfu dostatek , <b>jsou</b> přesto matky s kočárky .
-* mohou
-  * <tt><a href="cs_cac-pos-VERB.html">VERB</a></tt> 239: Konečně všechny druhy pleti <b>mohou</b> být dráždivé .
-  * <tt><a href="cs_cac-pos-AUX.html">AUX</a></tt> 1: V sémantice to <b>mohou</b> být univerzální pojmy .
-* měl
-  * <tt><a href="cs_cac-pos-VERB.html">VERB</a></tt> 143: Asi za týden jsme se sešli celá parta u parťáka v bytě , <b>měl</b> svátek .
-  * <tt><a href="cs_cac-pos-AUX.html">AUX</a></tt> 2: Tento cíl , stanovený v roce # # sjezdem strany , <b>měl</b> být splněn v roce # .
-* měla
-  * <tt><a href="cs_cac-pos-VERB.html">VERB</a></tt> 126: Tento mýtus tkví v tom , že sociologie by mohla a <b>měla</b> být bez hodnot .
-  * <tt><a href="cs_cac-pos-AUX.html">AUX</a></tt> 1: Máme na mysli jinou věc , která by podle našeho mínění <b>měla</b> být zcela samozřejmá , a přece není .
-* bylo
-  * <tt><a href="cs_cac-pos-AUX.html">AUX</a></tt> 533: V roce # to <b>bylo</b> # dárců , v * a v roce # # dárců .
-  * <tt><a href="cs_cac-pos-VERB.html">VERB</a></tt> 102: Nejvíce dárců <b>bylo</b> z OÚNZ Klatovy , Okuly , Nýrsko a Škoda Klatovy .
-* není
-  * <tt><a href="cs_cac-pos-AUX.html">AUX</a></tt> 411: Rozpoznat a správně zařadit typy pleti <b>není</b> lehké .
-  * <tt><a href="cs_cac-pos-VERB.html">VERB</a></tt> 83: Její síla <b>není</b> v konjunkturálnosti potřeb okamžiku .
+* <em>je</em>
+  * <tt><a href="cs_cac-pos-AUX.html">AUX</a></tt> 4424: <em>Upřesněný realizační program <b>je</b> zaměřen na tyto hlavní úkoly .</em>
+  * <tt><a href="cs_cac-pos-VERB.html">VERB</a></tt> 731: <em>Proto <b>je</b> odtučňovací dieta v plánu mnohé z nás .</em>
+  * <tt><a href="cs_cac-pos-PRON.html">PRON</a></tt> 356: <em>Z převážné většiny ploch <b>je</b> však vybírají brigádníci ručně .</em>
+* <em>má</em>
+  * <tt><a href="cs_cac-pos-VERB.html">VERB</a></tt> 727: <em>V dnešní době <b>má</b> kosmetika , tedy péče o zdraví a krásu , nový obsah .</em>
+  * <tt><a href="cs_cac-pos-AUX.html">AUX</a></tt> 1: <em>Každý <b>má</b> vlastní vztah k událostem a faktům , která dokument uvádí a zobecňuje , a každý by ovšem měl také využít svých zkušeností z nedávných těžkých let , aby by sám přispěl k velkému dění , jímž naše odbory postupně obnovují svůj revoluční charakter a masový vliv , i v tom smyslu Závěry ukazují směr , kudy vést konkrétní a účinný boj s pozůstatky či opětovnými projevy reformistických tendencí v odborové práci a jak i kam tuto každodenní činnost zaměřovat , aby by sloužila dělnické třídě v souladu se zájmy i její historickou úlohou .</em>
+  * <tt><a href="cs_cac-pos-DET.html">DET</a></tt> 1: <em>Pozvala mne k sobě do Krasnodaru <b>má</b> přítelkyně Sima Chakurate , se kterou jsme se poznaly v době druhé světové války v koncentračním táboře Ravensbrücku , kde jsme prožily krutých dva a půl roku .</em>
+* <em>musí</em>
+  * <tt><a href="cs_cac-pos-VERB.html">VERB</a></tt> 375: <em>Na štítku žehličky vyražené napětí <b>musí</b> souhlasit s napětím elektroměru .</em>
+  * <tt><a href="cs_cac-pos-AUX.html">AUX</a></tt> 1: <em>Minimální šířka bočních i čelních přesahů dvou vložek <b>musí</b> být bezpodmínečně u lepenkových vložek # * a # * u vláknitých .</em>
+* <em>může</em>
+  * <tt><a href="cs_cac-pos-VERB.html">VERB</a></tt> 377: <em>Každá pleť , hlavně normální a suchá , <b>může</b> být dráždivá .</em>
+  * <tt><a href="cs_cac-pos-AUX.html">AUX</a></tt> 1: <em>Analýza dílčích jedinečných případů a událostí <b>může</b> být nezbytnou náležitostí výzkumu na cestě k vědeckému zobecnění a v tom smyslu také určitým dílčím elementem vědy .</em>
+* <em>jsou</em>
+  * <tt><a href="cs_cac-pos-AUX.html">AUX</a></tt> 1389: <em>Stav a využívání půdního fondu <b>jsou</b> u nás neuspokojivé .</em>
+  * <tt><a href="cs_cac-pos-VERB.html">VERB</a></tt> 259: <em>Čeho je ve Varnsdorfu dostatek , <b>jsou</b> přesto matky s kočárky .</em>
+* <em>mohou</em>
+  * <tt><a href="cs_cac-pos-VERB.html">VERB</a></tt> 239: <em>Konečně všechny druhy pleti <b>mohou</b> být dráždivé .</em>
+  * <tt><a href="cs_cac-pos-AUX.html">AUX</a></tt> 1: <em>V sémantice to <b>mohou</b> být univerzální pojmy .</em>
+* <em>měl</em>
+  * <tt><a href="cs_cac-pos-VERB.html">VERB</a></tt> 143: <em>Asi za týden jsme se sešli celá parta u parťáka v bytě , <b>měl</b> svátek .</em>
+  * <tt><a href="cs_cac-pos-AUX.html">AUX</a></tt> 2: <em>Tento cíl , stanovený v roce # # sjezdem strany , <b>měl</b> být splněn v roce # .</em>
+* <em>měla</em>
+  * <tt><a href="cs_cac-pos-VERB.html">VERB</a></tt> 126: <em>Tento mýtus tkví v tom , že sociologie by mohla a <b>měla</b> být bez hodnot .</em>
+  * <tt><a href="cs_cac-pos-AUX.html">AUX</a></tt> 1: <em>Máme na mysli jinou věc , která by podle našeho mínění <b>měla</b> být zcela samozřejmá , a přece není .</em>
+* <em>bylo</em>
+  * <tt><a href="cs_cac-pos-AUX.html">AUX</a></tt> 533: <em>V roce # to <b>bylo</b> # dárců , v * a v roce # # dárců .</em>
+  * <tt><a href="cs_cac-pos-VERB.html">VERB</a></tt> 102: <em>Nejvíce dárců <b>bylo</b> z OÚNZ Klatovy , Okuly , Nýrsko a Škoda Klatovy .</em>
+* <em>není</em>
+  * <tt><a href="cs_cac-pos-AUX.html">AUX</a></tt> 411: <em>Rozpoznat a správně zařadit typy pleti <b>není</b> lehké .</em>
+  * <tt><a href="cs_cac-pos-VERB.html">VERB</a></tt> 83: <em>Její síla <b>není</b> v konjunkturálnosti potřeb okamžiku .</em>
 
 ## Morphology
 
 The form / lemma ratio of `VERB` is 2.899676 (the average of all parts of speech is 2.186309).
 
-The 1st highest number of forms (30) was observed with the lemma “být”: Budiž, Buď, bude, budou, budu, byl, byla, byli, bylo, byly, být, býti, je, jest, jsem, jsme, jsou, jste, nebude, nebudu, nebyl, nebyla, nebyli, nebylo, nebyly, nebýt, nejsme, nejsou, nejste, není.
+The 1st highest number of forms (30) was observed with the lemma “být”: <em>Budiž, Buď, bude, budou, budu, byl, byla, byli, bylo, byly, být, býti, je, jest, jsem, jsme, jsou, jste, nebude, nebudu, nebyl, nebyla, nebyli, nebylo, nebyly, nebýt, nejsme, nejsou, nejste, není</em>.
 
-The 2nd highest number of forms (26) was observed with the lemma “moci”: moci, mohl, mohla, mohli, mohlo, mohly, mohou, mohu, může, můžeme, můžete, můžeš, můžu, nemohl, nemohla, nemohli, nemohlo, nemohly, nemohou, nemohu, nemůže, nemůžeme, nemůžete, nemůžeš, nemůžou, nemůžu.
+The 2nd highest number of forms (26) was observed with the lemma “moci”: <em>moci, mohl, mohla, mohli, mohlo, mohly, mohou, mohu, může, můžeme, můžete, můžeš, můžu, nemohl, nemohla, nemohli, nemohlo, nemohly, nemohou, nemohu, nemůže, nemůžeme, nemůžete, nemůžeš, nemůžou, nemůžu</em>.
 
-The 3rd highest number of forms (26) was observed with the lemma “mít”: Nemáš, mají, má, mám, máme, máte, máš, mít, míti, mějte, měl, měla, měli, mělo, měly, nemají, nemá, nemám, nemáme, nemáte, nemít, neměl, neměla, neměli, nemělo, neměly.
+The 3rd highest number of forms (26) was observed with the lemma “mít”: <em>Nemáš, mají, má, mám, máme, máte, máš, mít, míti, mějte, měl, měla, měli, mělo, měly, nemají, nemá, nemám, nemáme, nemáte, nemít, neměl, neměla, neměli, nemělo, neměly</em>.
 
 `VERB` occurs with 12 features: <tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt> (40590; 100% instances), <tt><a href="cs_cac-feat-VerbForm.html">VerbForm</a></tt> (40590; 100% instances), <tt><a href="cs_cac-feat-Number.html">Number</a></tt> (32976; 81% instances), <tt><a href="cs_cac-feat-Tense.html">Tense</a></tt> (32524; 80% instances), <tt><a href="cs_cac-feat-Voice.html">Voice</a></tt> (32524; 80% instances), <tt><a href="cs_cac-feat-Aspect.html">Aspect</a></tt> (24956; 61% instances), <tt><a href="cs_cac-feat-Mood.html">Mood</a></tt> (22405; 55% instances), <tt><a href="cs_cac-feat-Person.html">Person</a></tt> (22405; 55% instances), <tt><a href="cs_cac-feat-Gender.html">Gender</a></tt> (10563; 26% instances), <tt><a href="cs_cac-feat-Animacy.html">Animacy</a></tt> (3259; 8% instances), <tt><a href="cs_cac-feat-Style.html">Style</a></tt> (53; 0% instances), <tt><a href="cs_cac-feat-Foreign.html">Foreign</a></tt> (7; 0% instances)
 
@@ -67,7 +67,7 @@ The 3rd highest number of forms (26) was observed with the lemma “mít”: Nem
 
 `VERB` occurs with 113 feature combinations.
 The most frequent feature combination is `Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act` (6317 tokens).
-Examples: znamená patří odpovídá stává představuje dochází tvoří ukazuje říká vyžaduje
+Examples: <em>znamená, patří, odpovídá, stává, představuje, dochází, tvoří, ukazuje, říká, vyžaduje</em>
 
 
 ## Relations

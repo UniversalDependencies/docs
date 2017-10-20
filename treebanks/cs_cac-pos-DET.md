@@ -9,56 +9,56 @@ udver: '2'
 There are 49 `DET` lemmas (0%), 305 `DET` types (0%) and 19445 `DET` tokens (4%).
 Out of 16 observed tags, the rank of `DET` is: 8 in number of lemmas, 6 in number of types and 8 in number of tokens.
 
-The 10 most frequent `DET` lemmas: ten který tento jeho svůj můj některý takový jenž sám
+The 10 most frequent `DET` lemmas: <em>ten, který, tento, jeho, svůj, můj, některý, takový, jenž, sám</em>
 
-The 10 most frequent `DET` types:  to které jejich jeho který která tím této své těchto
+The 10 most frequent `DET` types:  <em>to, které, jejich, jeho, který, která, tím, této, své, těchto</em>
 
-The 10 most frequent ambiguous lemmas: jenž (<tt><a href="cs_cac-pos-PRON.html">PRON</a></tt> 831, <tt><a href="cs_cac-pos-DET.html">DET</a></tt> 348), mnoho (<tt><a href="cs_cac-pos-DET.html">DET</a></tt> 244, <tt><a href="cs_cac-pos-ADV.html">ADV</a></tt> 6), tolik (<tt><a href="cs_cac-pos-DET.html">DET</a></tt> 30, <tt><a href="cs_cac-pos-ADV.html">ADV</a></tt> 29), málo (<tt><a href="cs_cac-pos-ADV.html">ADV</a></tt> 281, <tt><a href="cs_cac-pos-DET.html">DET</a></tt> 24, <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> 1), sui (<tt><a href="cs_cac-pos-DET.html">DET</a></tt> 3, <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="cs_cac-pos-ADP.html">ADP</a></tt> 1), nemálo (<tt><a href="cs_cac-pos-ADV.html">ADV</a></tt> 2, <tt><a href="cs_cac-pos-DET.html">DET</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>jenž</em> (<tt><a href="cs_cac-pos-PRON.html">PRON</a></tt> 831, <tt><a href="cs_cac-pos-DET.html">DET</a></tt> 348), <em>mnoho</em> (<tt><a href="cs_cac-pos-DET.html">DET</a></tt> 244, <tt><a href="cs_cac-pos-ADV.html">ADV</a></tt> 6), <em>tolik</em> (<tt><a href="cs_cac-pos-DET.html">DET</a></tt> 30, <tt><a href="cs_cac-pos-ADV.html">ADV</a></tt> 29), <em>málo</em> (<tt><a href="cs_cac-pos-ADV.html">ADV</a></tt> 281, <tt><a href="cs_cac-pos-DET.html">DET</a></tt> 24, <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> 1), <em>sui</em> (<tt><a href="cs_cac-pos-DET.html">DET</a></tt> 3, <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="cs_cac-pos-ADP.html">ADP</a></tt> 1), <em>nemálo</em> (<tt><a href="cs_cac-pos-ADV.html">ADV</a></tt> 2, <tt><a href="cs_cac-pos-DET.html">DET</a></tt> 1)
 
-The 10 most frequent ambiguous types:  to (<tt><a href="cs_cac-pos-DET.html">DET</a></tt> 1895, <tt><a href="cs_cac-pos-PART.html">PART</a></tt> 11), jeho (<tt><a href="cs_cac-pos-DET.html">DET</a></tt> 805, <tt><a href="cs_cac-pos-PRON.html">PRON</a></tt> 26), mnoho (<tt><a href="cs_cac-pos-DET.html">DET</a></tt> 134, <tt><a href="cs_cac-pos-ADV.html">ADV</a></tt> 6), ty (<tt><a href="cs_cac-pos-DET.html">DET</a></tt> 112, <tt><a href="cs_cac-pos-PRON.html">PRON</a></tt> 2), jehož (<tt><a href="cs_cac-pos-DET.html">DET</a></tt> 124, <tt><a href="cs_cac-pos-PRON.html">PRON</a></tt> 18), všechny (<tt><a href="cs_cac-pos-PRON.html">PRON</a></tt> 248, <tt><a href="cs_cac-pos-DET.html">DET</a></tt> 70), ti (<tt><a href="cs_cac-pos-DET.html">DET</a></tt> 44, <tt><a href="cs_cac-pos-PRON.html">PRON</a></tt> 8), tu (<tt><a href="cs_cac-pos-ADV.html">ADV</a></tt> 186, <tt><a href="cs_cac-pos-DET.html">DET</a></tt> 42), tolik (<tt><a href="cs_cac-pos-DET.html">DET</a></tt> 28, <tt><a href="cs_cac-pos-ADV.html">ADV</a></tt> 25), málo (<tt><a href="cs_cac-pos-ADV.html">ADV</a></tt> 67, <tt><a href="cs_cac-pos-DET.html">DET</a></tt> 21, <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>to</em> (<tt><a href="cs_cac-pos-DET.html">DET</a></tt> 1895, <tt><a href="cs_cac-pos-PART.html">PART</a></tt> 11), <em>jeho</em> (<tt><a href="cs_cac-pos-DET.html">DET</a></tt> 805, <tt><a href="cs_cac-pos-PRON.html">PRON</a></tt> 26), <em>mnoho</em> (<tt><a href="cs_cac-pos-DET.html">DET</a></tt> 134, <tt><a href="cs_cac-pos-ADV.html">ADV</a></tt> 6), <em>ty</em> (<tt><a href="cs_cac-pos-DET.html">DET</a></tt> 112, <tt><a href="cs_cac-pos-PRON.html">PRON</a></tt> 2), <em>jehož</em> (<tt><a href="cs_cac-pos-DET.html">DET</a></tt> 124, <tt><a href="cs_cac-pos-PRON.html">PRON</a></tt> 18), <em>všechny</em> (<tt><a href="cs_cac-pos-PRON.html">PRON</a></tt> 248, <tt><a href="cs_cac-pos-DET.html">DET</a></tt> 70), <em>ti</em> (<tt><a href="cs_cac-pos-DET.html">DET</a></tt> 44, <tt><a href="cs_cac-pos-PRON.html">PRON</a></tt> 8), <em>tu</em> (<tt><a href="cs_cac-pos-ADV.html">ADV</a></tt> 186, <tt><a href="cs_cac-pos-DET.html">DET</a></tt> 42), <em>tolik</em> (<tt><a href="cs_cac-pos-DET.html">DET</a></tt> 28, <tt><a href="cs_cac-pos-ADV.html">ADV</a></tt> 25), <em>málo</em> (<tt><a href="cs_cac-pos-ADV.html">ADV</a></tt> 67, <tt><a href="cs_cac-pos-DET.html">DET</a></tt> 21, <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> 1)
 
 
-* to
-  * <tt><a href="cs_cac-pos-DET.html">DET</a></tt> 1895: Odpověď člena Rady KNV bratra Kozáka <b>to</b> vyřešila .
-  * <tt><a href="cs_cac-pos-PART.html">PART</a></tt> 11: Společenské vědy nebyly s <b>to</b> dávat uspokojivé odpovědi na četné aktuální otázky dalšího vývoje socialismu .
-* jeho
-  * <tt><a href="cs_cac-pos-DET.html">DET</a></tt> 805: Rána mířená na hlavu staršího muže zasáhla jenom <b>jeho</b> rameno .
-  * <tt><a href="cs_cac-pos-PRON.html">PRON</a></tt> 26: Jsou dvě metody <b>jeho</b> zjištění .
-* mnoho
-  * <tt><a href="cs_cac-pos-DET.html">DET</a></tt> 134: Úroda je o <b>mnoho</b> lepší než loni , průměr # .
-  * <tt><a href="cs_cac-pos-ADV.html">ADV</a></tt> 6: Pamatujeme , že trošková povrchní zálivka , třeba i častější , není hlouběji kořenícím dřevinám <b>mnoho</b> platná .
-* ty
-  * <tt><a href="cs_cac-pos-DET.html">DET</a></tt> 112: A <b>ty</b> budou dneska naše .
-  * <tt><a href="cs_cac-pos-PRON.html">PRON</a></tt> 2: Co <b>ty</b> na to .
-* jehož
-  * <tt><a href="cs_cac-pos-DET.html">DET</a></tt> 124: * Schweizer Illustrierte , <b>jehož</b> redaktoři byli první na místě , píše .
-  * <tt><a href="cs_cac-pos-PRON.html">PRON</a></tt> 18: Každý podnět , <b>jehož</b> chceme použít při stimulaci , musí mít kvalitativní i kvantitativní adekvátnost .
-* všechny
-  * <tt><a href="cs_cac-pos-PRON.html">PRON</a></tt> 248: Konečně <b>všechny</b> druhy pleti mohou být dráždivé .
-  * <tt><a href="cs_cac-pos-DET.html">DET</a></tt> 70: Je nutno <b>všechny</b> tyto nedostatky odstranit .
-* ti
-  * <tt><a href="cs_cac-pos-DET.html">DET</a></tt> 44: Tím obtížněji skrývají nenávist <b>ti</b> , kteří se spolčili proti socialismu .
-  * <tt><a href="cs_cac-pos-PRON.html">PRON</a></tt> 8: Ať chceš nebo nechceš , teorie sama o * by <b>ti</b> dlouho nestačila .
-* tu
-  * <tt><a href="cs_cac-pos-ADV.html">ADV</a></tt> 186: Je <b>tu</b> problém poúrazových následků i problém úrazového pojištění .
-  * <tt><a href="cs_cac-pos-DET.html">DET</a></tt> 42: " Lidé nutně potřebují jinou skutečnost , ne <b>tu</b> , v které si zvykli žít .
-* tolik
-  * <tt><a href="cs_cac-pos-DET.html">DET</a></tt> 28: Za <b>tolik</b> dnů se mu pak poskytne náhrada mzdy .
-  * <tt><a href="cs_cac-pos-ADV.html">ADV</a></tt> 25: " Na těch mi <b>tolik</b> nezáleží .
-* málo
-  * <tt><a href="cs_cac-pos-ADV.html">ADV</a></tt> 67: Učitelé je <b>málo</b> používají , setrvávají jen na ústním výkladu .
-  * <tt><a href="cs_cac-pos-DET.html">DET</a></tt> 21: Dosud je v této oblasti u nás <b>málo</b> zkušeností .
-  * <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> 1: Je kupodivu , že svazy situaci znají , velmi často na nedostatek funkcionářů podobného typu žehrají , ale jen <b>málo</b> podnikají pro to , aby by nepříznivý stav zlepšily .
+* <em>to</em>
+  * <tt><a href="cs_cac-pos-DET.html">DET</a></tt> 1895: <em>Odpověď člena Rady KNV bratra Kozáka <b>to</b> vyřešila .</em>
+  * <tt><a href="cs_cac-pos-PART.html">PART</a></tt> 11: <em>Společenské vědy nebyly s <b>to</b> dávat uspokojivé odpovědi na četné aktuální otázky dalšího vývoje socialismu .</em>
+* <em>jeho</em>
+  * <tt><a href="cs_cac-pos-DET.html">DET</a></tt> 805: <em>Rána mířená na hlavu staršího muže zasáhla jenom <b>jeho</b> rameno .</em>
+  * <tt><a href="cs_cac-pos-PRON.html">PRON</a></tt> 26: <em>Jsou dvě metody <b>jeho</b> zjištění .</em>
+* <em>mnoho</em>
+  * <tt><a href="cs_cac-pos-DET.html">DET</a></tt> 134: <em>Úroda je o <b>mnoho</b> lepší než loni , průměr # .</em>
+  * <tt><a href="cs_cac-pos-ADV.html">ADV</a></tt> 6: <em>Pamatujeme , že trošková povrchní zálivka , třeba i častější , není hlouběji kořenícím dřevinám <b>mnoho</b> platná .</em>
+* <em>ty</em>
+  * <tt><a href="cs_cac-pos-DET.html">DET</a></tt> 112: <em>A <b>ty</b> budou dneska naše .</em>
+  * <tt><a href="cs_cac-pos-PRON.html">PRON</a></tt> 2: <em>Co <b>ty</b> na to .</em>
+* <em>jehož</em>
+  * <tt><a href="cs_cac-pos-DET.html">DET</a></tt> 124: <em>* Schweizer Illustrierte , <b>jehož</b> redaktoři byli první na místě , píše .</em>
+  * <tt><a href="cs_cac-pos-PRON.html">PRON</a></tt> 18: <em>Každý podnět , <b>jehož</b> chceme použít při stimulaci , musí mít kvalitativní i kvantitativní adekvátnost .</em>
+* <em>všechny</em>
+  * <tt><a href="cs_cac-pos-PRON.html">PRON</a></tt> 248: <em>Konečně <b>všechny</b> druhy pleti mohou být dráždivé .</em>
+  * <tt><a href="cs_cac-pos-DET.html">DET</a></tt> 70: <em>Je nutno <b>všechny</b> tyto nedostatky odstranit .</em>
+* <em>ti</em>
+  * <tt><a href="cs_cac-pos-DET.html">DET</a></tt> 44: <em>Tím obtížněji skrývají nenávist <b>ti</b> , kteří se spolčili proti socialismu .</em>
+  * <tt><a href="cs_cac-pos-PRON.html">PRON</a></tt> 8: <em>Ať chceš nebo nechceš , teorie sama o * by <b>ti</b> dlouho nestačila .</em>
+* <em>tu</em>
+  * <tt><a href="cs_cac-pos-ADV.html">ADV</a></tt> 186: <em>Je <b>tu</b> problém poúrazových následků i problém úrazového pojištění .</em>
+  * <tt><a href="cs_cac-pos-DET.html">DET</a></tt> 42: <em>" Lidé nutně potřebují jinou skutečnost , ne <b>tu</b> , v které si zvykli žít .</em>
+* <em>tolik</em>
+  * <tt><a href="cs_cac-pos-DET.html">DET</a></tt> 28: <em>Za <b>tolik</b> dnů se mu pak poskytne náhrada mzdy .</em>
+  * <tt><a href="cs_cac-pos-ADV.html">ADV</a></tt> 25: <em>" Na těch mi <b>tolik</b> nezáleží .</em>
+* <em>málo</em>
+  * <tt><a href="cs_cac-pos-ADV.html">ADV</a></tt> 67: <em>Učitelé je <b>málo</b> používají , setrvávají jen na ústním výkladu .</em>
+  * <tt><a href="cs_cac-pos-DET.html">DET</a></tt> 21: <em>Dosud je v této oblasti u nás <b>málo</b> zkušeností .</em>
+  * <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> 1: <em>Je kupodivu , že svazy situaci znají , velmi často na nedostatek funkcionářů podobného typu žehrají , ale jen <b>málo</b> podnikají pro to , aby by nepříznivý stav zlepšily .</em>
 
 ## Morphology
 
 The form / lemma ratio of `DET` is 6.224490 (the average of all parts of speech is 2.186309).
 
-The 1st highest number of forms (25) was observed with the lemma “můj”: moje, moji, mojí, mou, má, mé, mého, mém, mému, mých, mým, mýma, můj, naše, našeho, našem, našemu, naši, našich, našim, našima, našimi, naší, naším, náš.
+The 1st highest number of forms (25) was observed with the lemma “můj”: <em>moje, moji, mojí, mou, má, mé, mého, mém, mému, mých, mým, mýma, můj, naše, našeho, našem, našemu, naši, našich, našim, našima, našimi, naší, naším, náš</em>.
 
-The 2nd highest number of forms (17) was observed with the lemma “ten”: ta, ten, ti, to, toho, tom, tomu, tou, tu, ty, té, tím, tý, těch, těm, těma, těmi.
+The 2nd highest number of forms (17) was observed with the lemma “ten”: <em>ta, ten, ti, to, toho, tom, tomu, tou, tu, ty, té, tím, tý, těch, těm, těma, těmi</em>.
 
-The 3rd highest number of forms (15) was observed with the lemma “tento”: tato, tento, tito, tohoto, tomto, tomuto, toto, touto, tuto, tyto, této, tímto, těchto, těmito, těmto.
+The 3rd highest number of forms (15) was observed with the lemma “tento”: <em>tato, tento, tito, tohoto, tomto, tomuto, toto, touto, tuto, tyto, této, tímto, těchto, těmito, těmto</em>.
 
 `DET` occurs with 14 features: <tt><a href="cs_cac-feat-PronType.html">PronType</a></tt> (19445; 100% instances), <tt><a href="cs_cac-feat-Case.html">Case</a></tt> (17190; 88% instances), <tt><a href="cs_cac-feat-Number.html">Number</a></tt> (16731; 86% instances), <tt><a href="cs_cac-feat-Gender.html">Gender</a></tt> (15000; 77% instances), <tt><a href="cs_cac-feat-Poss.html">Poss</a></tt> (5371; 28% instances), <tt><a href="cs_cac-feat-Number-psor.html">Number[psor]</a></tt> (3931; 20% instances), <tt><a href="cs_cac-feat-Person.html">Person</a></tt> (3931; 20% instances), <tt><a href="cs_cac-feat-Animacy.html">Animacy</a></tt> (2068; 11% instances), <tt><a href="cs_cac-feat-Gender-psor.html">Gender[psor]</a></tt> (1574; 8% instances), <tt><a href="cs_cac-feat-Reflex.html">Reflex</a></tt> (1420; 7% instances), <tt><a href="cs_cac-feat-NumType.html">NumType</a></tt> (654; 3% instances), <tt><a href="cs_cac-feat-Foreign.html">Foreign</a></tt> (5; 0% instances), <tt><a href="cs_cac-feat-Style.html">Style</a></tt> (3; 0% instances), <tt><a href="cs_cac-feat-PrepCase.html">PrepCase</a></tt> (1; 0% instances)
 
@@ -66,7 +66,7 @@ The 3rd highest number of forms (15) was observed with the lemma “tento”: ta
 
 `DET` occurs with 274 feature combinations.
 The most frequent feature combination is `Case=Nom|Gender=Neut|Number=Sing|PronType=Dem` (1595 tokens).
-Examples: to toto takové totéž ono tohle takovéto tohleto
+Examples: <em>to, toto, takové, totéž, ono, tohle, takovéto, tohleto</em>
 
 
 ## Relations

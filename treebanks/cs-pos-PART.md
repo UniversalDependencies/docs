@@ -9,59 +9,59 @@ udver: '2'
 There are 82 `PART` lemmas (0%), 82 `PART` types (0%) and 8165 `PART` tokens (1%).
 Out of 17 observed tags, the rank of `PART` is: 8 in number of lemmas, 10 in number of types and 14 in number of tokens.
 
-The 10 most frequent `PART` lemmas: jen až asi li ne nejen prý jenom ano bohužel
+The 10 most frequent `PART` lemmas: <em>jen, až, asi, li, ne, nejen, prý, jenom, ano, bohužel</em>
 
-The 10 most frequent `PART` types:  jen až asi li ne nejen prý jenom ano bohužel
+The 10 most frequent `PART` types:  <em>jen, až, asi, li, ne, nejen, prý, jenom, ano, bohužel</em>
 
-The 10 most frequent ambiguous lemmas: jen (<tt><a href="cs-pos-PART.html">PART</a></tt> 2412, <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 24), až (<tt><a href="cs-pos-PART.html">PART</a></tt> 1384, <tt><a href="cs-pos-CCONJ.html">CCONJ</a></tt> 639, <tt><a href="cs-pos-SCONJ.html">SCONJ</a></tt> 139), li (<tt><a href="cs-pos-PART.html">PART</a></tt> 757, <tt><a href="cs-pos-PROPN.html">PROPN</a></tt> 7), nejen (<tt><a href="cs-pos-PART.html">PART</a></tt> 501, <tt><a href="cs-pos-ADV.html">ADV</a></tt> 1), jenom (<tt><a href="cs-pos-PART.html">PART</a></tt> 210, <tt><a href="cs-pos-ADV.html">ADV</a></tt> 1), ať (<tt><a href="cs-pos-SCONJ.html">SCONJ</a></tt> 115, <tt><a href="cs-pos-PART.html">PART</a></tt> 73), pozor (<tt><a href="cs-pos-PART.html">PART</a></tt> 49, <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 26), ovšem (<tt><a href="cs-pos-CCONJ.html">CCONJ</a></tt> 626, <tt><a href="cs-pos-PART.html">PART</a></tt> 42), to (<tt><a href="cs-pos-PART.html">PART</a></tt> 33, <tt><a href="cs-pos-ADP.html">ADP</a></tt> 12), co (<tt><a href="cs-pos-PRON.html">PRON</a></tt> 1859, <tt><a href="cs-pos-ADV.html">ADV</a></tt> 239, <tt><a href="cs-pos-SCONJ.html">SCONJ</a></tt> 210, <tt><a href="cs-pos-PART.html">PART</a></tt> 21)
+The 10 most frequent ambiguous lemmas: <em>jen</em> (<tt><a href="cs-pos-PART.html">PART</a></tt> 2412, <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 24), <em>až</em> (<tt><a href="cs-pos-PART.html">PART</a></tt> 1384, <tt><a href="cs-pos-CCONJ.html">CCONJ</a></tt> 639, <tt><a href="cs-pos-SCONJ.html">SCONJ</a></tt> 139), <em>li</em> (<tt><a href="cs-pos-PART.html">PART</a></tt> 757, <tt><a href="cs-pos-PROPN.html">PROPN</a></tt> 7), <em>nejen</em> (<tt><a href="cs-pos-PART.html">PART</a></tt> 501, <tt><a href="cs-pos-ADV.html">ADV</a></tt> 1), <em>jenom</em> (<tt><a href="cs-pos-PART.html">PART</a></tt> 210, <tt><a href="cs-pos-ADV.html">ADV</a></tt> 1), <em>ať</em> (<tt><a href="cs-pos-SCONJ.html">SCONJ</a></tt> 115, <tt><a href="cs-pos-PART.html">PART</a></tt> 73), <em>pozor</em> (<tt><a href="cs-pos-PART.html">PART</a></tt> 49, <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 26), <em>ovšem</em> (<tt><a href="cs-pos-CCONJ.html">CCONJ</a></tt> 626, <tt><a href="cs-pos-PART.html">PART</a></tt> 42), <em>to</em> (<tt><a href="cs-pos-PART.html">PART</a></tt> 33, <tt><a href="cs-pos-ADP.html">ADP</a></tt> 12), <em>co</em> (<tt><a href="cs-pos-PRON.html">PRON</a></tt> 1859, <tt><a href="cs-pos-ADV.html">ADV</a></tt> 239, <tt><a href="cs-pos-SCONJ.html">SCONJ</a></tt> 210, <tt><a href="cs-pos-PART.html">PART</a></tt> 21)
 
-The 10 most frequent ambiguous types:  jen (<tt><a href="cs-pos-PART.html">PART</a></tt> 2269, <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 2), až (<tt><a href="cs-pos-PART.html">PART</a></tt> 1295, <tt><a href="cs-pos-CCONJ.html">CCONJ</a></tt> 639, <tt><a href="cs-pos-SCONJ.html">SCONJ</a></tt> 111), li (<tt><a href="cs-pos-PART.html">PART</a></tt> 757, <tt><a href="cs-pos-PROPN.html">PROPN</a></tt> 7), nejen (<tt><a href="cs-pos-PART.html">PART</a></tt> 472, <tt><a href="cs-pos-ADV.html">ADV</a></tt> 1), jenom (<tt><a href="cs-pos-PART.html">PART</a></tt> 197, <tt><a href="cs-pos-ADV.html">ADV</a></tt> 1), ať (<tt><a href="cs-pos-SCONJ.html">SCONJ</a></tt> 95, <tt><a href="cs-pos-PART.html">PART</a></tt> 60), pozor (<tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 18, <tt><a href="cs-pos-PART.html">PART</a></tt> 2), ovšem (<tt><a href="cs-pos-CCONJ.html">CCONJ</a></tt> 561, <tt><a href="cs-pos-PART.html">PART</a></tt> 42), to (<tt><a href="cs-pos-DET.html">DET</a></tt> 6017, <tt><a href="cs-pos-PART.html">PART</a></tt> 30, <tt><a href="cs-pos-ADP.html">ADP</a></tt> 5), co (<tt><a href="cs-pos-PRON.html">PRON</a></tt> 1187, <tt><a href="cs-pos-ADV.html">ADV</a></tt> 233, <tt><a href="cs-pos-SCONJ.html">SCONJ</a></tt> 207, <tt><a href="cs-pos-PART.html">PART</a></tt> 7)
+The 10 most frequent ambiguous types:  <em>jen</em> (<tt><a href="cs-pos-PART.html">PART</a></tt> 2269, <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 2), <em>až</em> (<tt><a href="cs-pos-PART.html">PART</a></tt> 1295, <tt><a href="cs-pos-CCONJ.html">CCONJ</a></tt> 639, <tt><a href="cs-pos-SCONJ.html">SCONJ</a></tt> 111), <em>li</em> (<tt><a href="cs-pos-PART.html">PART</a></tt> 757, <tt><a href="cs-pos-PROPN.html">PROPN</a></tt> 7), <em>nejen</em> (<tt><a href="cs-pos-PART.html">PART</a></tt> 472, <tt><a href="cs-pos-ADV.html">ADV</a></tt> 1), <em>jenom</em> (<tt><a href="cs-pos-PART.html">PART</a></tt> 197, <tt><a href="cs-pos-ADV.html">ADV</a></tt> 1), <em>ať</em> (<tt><a href="cs-pos-SCONJ.html">SCONJ</a></tt> 95, <tt><a href="cs-pos-PART.html">PART</a></tt> 60), <em>pozor</em> (<tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 18, <tt><a href="cs-pos-PART.html">PART</a></tt> 2), <em>ovšem</em> (<tt><a href="cs-pos-CCONJ.html">CCONJ</a></tt> 561, <tt><a href="cs-pos-PART.html">PART</a></tt> 42), <em>to</em> (<tt><a href="cs-pos-DET.html">DET</a></tt> 6017, <tt><a href="cs-pos-PART.html">PART</a></tt> 30, <tt><a href="cs-pos-ADP.html">ADP</a></tt> 5), <em>co</em> (<tt><a href="cs-pos-PRON.html">PRON</a></tt> 1187, <tt><a href="cs-pos-ADV.html">ADV</a></tt> 233, <tt><a href="cs-pos-SCONJ.html">SCONJ</a></tt> 207, <tt><a href="cs-pos-PART.html">PART</a></tt> 7)
 
 
-* jen
-  * <tt><a href="cs-pos-PART.html">PART</a></tt> 2269: Přitom jsou příplatky za přesčasy <b>jen</b> velmi malé .
-  * <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 2: <b>jen</b> ( sto ) 22.24 21.44 22.76
-* až
-  * <tt><a href="cs-pos-PART.html">PART</a></tt> 1295: Možnost opakovaného vysílání z paměti automaticky <b>až</b> na 53 adresátů .
-  * <tt><a href="cs-pos-CCONJ.html">CCONJ</a></tt> 639: Řekl bych , že může se pohybovat od deseti <b>až</b> do osmdesáti procent .
-  * <tt><a href="cs-pos-SCONJ.html">SCONJ</a></tt> 111: V bytě máte příjemných 24 ° C , i když venku mrzne , <b>až</b> praští .
-* li
-  * <tt><a href="cs-pos-PART.html">PART</a></tt> 757: Odpadne - <b>li</b> služba pokojských úplně 25
-  * <tt><a href="cs-pos-PROPN.html">PROPN</a></tt> 7: Praha ( <b>li</b> , ben ) -
-* nejen
-  * <tt><a href="cs-pos-PART.html">PART</a></tt> 472: Chalupa může přinášet <b>nejen</b> starosti , ale i peníze
-  * <tt><a href="cs-pos-ADV.html">ADV</a></tt> 1: Dnes se sponzorské dary <b>nejen</b> této firmě vracejí v podobě dobře fungující komory .
-* jenom
-  * <tt><a href="cs-pos-PART.html">PART</a></tt> 197: Tyto problémy nejsou <b>jenom</b> u nás , mají je i v Německu .
-  * <tt><a href="cs-pos-ADV.html">ADV</a></tt> 1: Ve vaně 170 cm dlouhé potřebujete 120 litrů vody , z níž vám čouhá <b>jenom</b> hlava .
-* ať
-  * <tt><a href="cs-pos-SCONJ.html">SCONJ</a></tt> 95: Žádný prostředník , <b>ať</b> vítaný , či nevítaný .
-  * <tt><a href="cs-pos-PART.html">PART</a></tt> 60: Pak <b>ať</b> to řeknou , vysvětlí a komisi rozeženou .
-* pozor
-  * <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 18: Dávejte si na tuto věc při nákupu <b>pozor</b> .
-  * <tt><a href="cs-pos-PART.html">PART</a></tt> 2: 1 . Rozhodne se mezi Slavií a Žižkovem , do hry promluví i Sparta a <b>pozor</b> na výborné Brno .
-* ovšem
-  * <tt><a href="cs-pos-CCONJ.html">CCONJ</a></tt> 561: Nejzdařilejší <b>ovšem</b> byl neostalinský pokus o puč .
-  * <tt><a href="cs-pos-PART.html">PART</a></tt> 42: M . Stoniš píše , že ministr <b>ovšem</b> učinil jedině možné rozhodnutí .
-* to
-  * <tt><a href="cs-pos-DET.html">DET</a></tt> 6017: Nebude <b>to</b> poprvé ani naposledy .
-  * <tt><a href="cs-pos-PART.html">PART</a></tt> 30: Vedle toho musí být s <b>to</b> zastoupit i chybějícího kolegu .
-  * <tt><a href="cs-pos-ADP.html">ADP</a></tt> 5: Obálka s adresou <b>to</b> professor Servít from Prague .
-* co
-  * <tt><a href="cs-pos-PRON.html">PRON</a></tt> 1187: Nevíte , <b>co</b> kam započítat ?
-  * <tt><a href="cs-pos-ADV.html">ADV</a></tt> 233: Samozřejmě nejen <b>co</b> do efektu , ale i <b>co</b> do nákladů .
-  * <tt><a href="cs-pos-SCONJ.html">SCONJ</a></tt> 207: Učinil tak 24 hodin poté , <b>co</b> nabídku zprvu odmítl .
-  * <tt><a href="cs-pos-PART.html">PART</a></tt> 7: A <b>co</b> když by Maastricht v neděli neprošel ?
+* <em>jen</em>
+  * <tt><a href="cs-pos-PART.html">PART</a></tt> 2269: <em>Přitom jsou příplatky za přesčasy <b>jen</b> velmi malé .</em>
+  * <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 2: <em><b>jen</b> ( sto ) 22.24 21.44 22.76</em>
+* <em>až</em>
+  * <tt><a href="cs-pos-PART.html">PART</a></tt> 1295: <em>Možnost opakovaného vysílání z paměti automaticky <b>až</b> na 53 adresátů .</em>
+  * <tt><a href="cs-pos-CCONJ.html">CCONJ</a></tt> 639: <em>Řekl bych , že může se pohybovat od deseti <b>až</b> do osmdesáti procent .</em>
+  * <tt><a href="cs-pos-SCONJ.html">SCONJ</a></tt> 111: <em>V bytě máte příjemných 24 ° C , i když venku mrzne , <b>až</b> praští .</em>
+* <em>li</em>
+  * <tt><a href="cs-pos-PART.html">PART</a></tt> 757: <em>Odpadne - <b>li</b> služba pokojských úplně 25</em>
+  * <tt><a href="cs-pos-PROPN.html">PROPN</a></tt> 7: <em>Praha ( <b>li</b> , ben ) -</em>
+* <em>nejen</em>
+  * <tt><a href="cs-pos-PART.html">PART</a></tt> 472: <em>Chalupa může přinášet <b>nejen</b> starosti , ale i peníze</em>
+  * <tt><a href="cs-pos-ADV.html">ADV</a></tt> 1: <em>Dnes se sponzorské dary <b>nejen</b> této firmě vracejí v podobě dobře fungující komory .</em>
+* <em>jenom</em>
+  * <tt><a href="cs-pos-PART.html">PART</a></tt> 197: <em>Tyto problémy nejsou <b>jenom</b> u nás , mají je i v Německu .</em>
+  * <tt><a href="cs-pos-ADV.html">ADV</a></tt> 1: <em>Ve vaně 170 cm dlouhé potřebujete 120 litrů vody , z níž vám čouhá <b>jenom</b> hlava .</em>
+* <em>ať</em>
+  * <tt><a href="cs-pos-SCONJ.html">SCONJ</a></tt> 95: <em>Žádný prostředník , <b>ať</b> vítaný , či nevítaný .</em>
+  * <tt><a href="cs-pos-PART.html">PART</a></tt> 60: <em>Pak <b>ať</b> to řeknou , vysvětlí a komisi rozeženou .</em>
+* <em>pozor</em>
+  * <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 18: <em>Dávejte si na tuto věc při nákupu <b>pozor</b> .</em>
+  * <tt><a href="cs-pos-PART.html">PART</a></tt> 2: <em>1 . Rozhodne se mezi Slavií a Žižkovem , do hry promluví i Sparta a <b>pozor</b> na výborné Brno .</em>
+* <em>ovšem</em>
+  * <tt><a href="cs-pos-CCONJ.html">CCONJ</a></tt> 561: <em>Nejzdařilejší <b>ovšem</b> byl neostalinský pokus o puč .</em>
+  * <tt><a href="cs-pos-PART.html">PART</a></tt> 42: <em>M . Stoniš píše , že ministr <b>ovšem</b> učinil jedině možné rozhodnutí .</em>
+* <em>to</em>
+  * <tt><a href="cs-pos-DET.html">DET</a></tt> 6017: <em>Nebude <b>to</b> poprvé ani naposledy .</em>
+  * <tt><a href="cs-pos-PART.html">PART</a></tt> 30: <em>Vedle toho musí být s <b>to</b> zastoupit i chybějícího kolegu .</em>
+  * <tt><a href="cs-pos-ADP.html">ADP</a></tt> 5: <em>Obálka s adresou <b>to</b> professor Servít from Prague .</em>
+* <em>co</em>
+  * <tt><a href="cs-pos-PRON.html">PRON</a></tt> 1187: <em>Nevíte , <b>co</b> kam započítat ?</em>
+  * <tt><a href="cs-pos-ADV.html">ADV</a></tt> 233: <em>Samozřejmě nejen <b>co</b> do efektu , ale i <b>co</b> do nákladů .</em>
+  * <tt><a href="cs-pos-SCONJ.html">SCONJ</a></tt> 207: <em>Učinil tak 24 hodin poté , <b>co</b> nabídku zprvu odmítl .</em>
+  * <tt><a href="cs-pos-PART.html">PART</a></tt> 7: <em>A <b>co</b> když by Maastricht v neděli neprošel ?</em>
 
 ## Morphology
 
 The form / lemma ratio of `PART` is 1.000000 (the average of all parts of speech is 2.181849).
 
-The 1st highest number of forms (2) was observed with the lemma “not”: not, t.
+The 1st highest number of forms (2) was observed with the lemma “not”: <em>not, t</em>.
 
-The 2nd highest number of forms (1) was observed with the lemma “Achtung”: Achtung.
+The 2nd highest number of forms (1) was observed with the lemma “Achtung”: <em>Achtung</em>.
 
-The 3rd highest number of forms (1) was observed with the lemma “L”: L.
+The 3rd highest number of forms (1) was observed with the lemma “L”: <em>L</em>.
 
 `PART` occurs with 4 features: <tt><a href="cs-feat-Foreign.html">Foreign</a></tt> (120; 1% instances), <tt><a href="cs-feat-Style.html">Style</a></tt> (12; 0% instances), <tt><a href="cs-feat-NameType.html">NameType</a></tt> (8; 0% instances), <tt><a href="cs-feat-Abbr.html">Abbr</a></tt> (3; 0% instances)
 
@@ -69,7 +69,7 @@ The 3rd highest number of forms (1) was observed with the lemma “L”: L.
 
 `PART` occurs with 8 feature combinations.
 The most frequent feature combination is `_` (8028 tokens).
-Examples: jen až asi li ne nejen prý jenom ano bohužel
+Examples: <em>jen, až, asi, li, ne, nejen, prý, jenom, ano, bohužel</em>
 
 
 ## Relations

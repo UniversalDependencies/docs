@@ -22,8 +22,8 @@ The most frequent other feature values with which `PROPN` and `Abbr` co-occurred
 
 `PROPN` tokens may have the following values of `Abbr`:
 
-* `Yes` (13042; 100% of non-empty `Abbr`): ČR LN ODS J OSN ODA M ČSFR V A
-* `EMPTY` (70989): Praha Praze USA Jiří Jan Evropy Brno Prahy Václav Jana
+* `Yes` (13042; 100% of non-empty `Abbr`): <em>ČR, LN, ODS, J, OSN, ODA, M, ČSFR, V, A</em>
+* `EMPTY` (70989): <em>Praha, Praze, USA, Jiří, Jan, Evropy, Brno, Prahy, Václav, Jana</em>
 
 `Abbr` seems to be **lexical feature** of `PROPN`. 100% lemmas (1236) occur only with one value of `Abbr`.
 
@@ -35,8 +35,8 @@ The most frequent other feature values with which `NOUN` and `Abbr` co-occurred:
 
 `NOUN` tokens may have the following values of `Abbr`:
 
-* `Yes` (5768; 100% of non-empty `Abbr`): r s tel m č km MS mil Kčs cm
-* `EMPTY` (366598): roku korun let roce strany procent společnosti době případě firmy
+* `Yes` (5768; 100% of non-empty `Abbr`): <em>r, s, tel, m, č, km, MS, mil, Kčs, cm</em>
+* `EMPTY` (366598): <em>roku, korun, let, roce, strany, procent, společnosti, době, případě, firmy</em>
 
 `Abbr` seems to be **lexical feature** of `NOUN`. 100% lemmas (485) occur only with one value of `Abbr`.
 
@@ -44,12 +44,12 @@ The most frequent other feature values with which `NOUN` and `Abbr` co-occurred:
 
 1714 <tt><a href="cs-pos-ADJ.html">ADJ</a></tt> tokens (1% of all `ADJ` tokens) have a non-empty value of `Abbr`.
 
-The most frequent other feature values with which `ADJ` and `Abbr` co-occurred: <tt><a href="cs-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (1714; 100%), <tt><a href="cs-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (1713; 100%), <tt><a href="cs-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (1705; 99%), <tt><a href="cs-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (1601; 93%), <tt><a href="cs-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (1601; 93%), <tt><a href="cs-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1598; 93%).
+The most frequent other feature values with which `ADJ` and `Abbr` co-occurred: <tt><a href="cs-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (1714; 100%), <tt><a href="cs-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (1713; 100%), <tt><a href="cs-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (1705; 99%), <tt><a href="cs-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (1601; 93%), <tt><a href="cs-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (1601; 93%), <tt><a href="cs-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1598; 93%).
 
 `ADJ` tokens may have the following values of `Abbr`:
 
-* `Yes` (1714; 100% of non-empty `Abbr`): tzv a čs o sv RM US Č n k
-* `EMPTY` (188623): první další české nové druhé poslední státní dalších možné vlastní
+* `Yes` (1714; 100% of non-empty `Abbr`): <em>tzv, a, čs, o, sv, RM, US, Č, n, k</em>
+* `EMPTY` (188623): <em>první, další, české, nové, druhé, poslední, státní, dalších, možné, vlastní</em>
 
 `Abbr` seems to be **lexical feature** of `ADJ`. 100% lemmas (185) occur only with one value of `Abbr`.
 
@@ -61,8 +61,8 @@ The most frequent other feature values with which `ADV` and `Abbr` co-occurred: 
 
 `ADV` tokens may have the following values of `Abbr`:
 
-* `Yes` (956; 100% of non-empty `Abbr`): např mj apod atd resp atp popř cca ap kupř
-* `EMPTY` (79041): tak už také jak včera ještě již tedy dnes pak
+* `Yes` (956; 100% of non-empty `Abbr`): <em>např, mj, apod, atd, resp, atp, popř, cca, ap, kupř</em>
+* `EMPTY` (79041): <em>tak, už, také, jak, včera, ještě, již, tedy, dnes, pak</em>
 
 `Abbr` seems to be **lexical feature** of `ADV`. 100% lemmas (22) occur only with one value of `Abbr`.
 
@@ -72,8 +72,8 @@ The most frequent other feature values with which `ADV` and `Abbr` co-occurred: 
 
 `CCONJ` tokens may have the following values of `Abbr`:
 
-* `Yes` (182; 100% of non-empty `Abbr`): tj n
-* `EMPTY` (56675): a i ale však nebo ani či proto až ovšem
+* `Yes` (182; 100% of non-empty `Abbr`): <em>tj, n</em>
+* `EMPTY` (56675): <em>a, i, ale, však, nebo, ani, či, proto, až, ovšem</em>
 
 ### `ADP`
 
@@ -83,30 +83,30 @@ The most frequent other feature values with which `ADP` and `Abbr` co-occurred: 
 
 `ADP` tokens may have the following values of `Abbr`:
 
-* `Yes` (23; 100% of non-empty `Abbr`): n v př P m vč
-* `EMPTY` (145920): v na o z s do ve k pro za
+* `Yes` (23; 100% of non-empty `Abbr`): <em>n, v, př, P, m, vč</em>
+* `EMPTY` (145920): <em>v, na, o, z, s, do, ve, k, pro, za</em>
 
 ### `VERB`
 
 22 <tt><a href="cs-pos-VERB.html">VERB</a></tt> tokens (0% of all `VERB` tokens) have a non-empty value of `Abbr`.
 
-The most frequent other feature values with which `VERB` and `Abbr` co-occurred: <tt><a href="cs-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (22; 100%), <tt><a href="cs-feat-Number.html">Number</a></tt><tt>=Sing</tt> (22; 100%), <tt><a href="cs-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (22; 100%), <tt><a href="cs-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (22; 100%), <tt><a href="cs-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (17; 77%), <tt><a href="cs-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (17; 77%), <tt><a href="cs-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (17; 77%), <tt><a href="cs-feat-Person.html">Person</a></tt><tt>=3</tt> (17; 77%).
+The most frequent other feature values with which `VERB` and `Abbr` co-occurred: <tt><a href="cs-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (22; 100%), <tt><a href="cs-feat-Number.html">Number</a></tt><tt>=Sing</tt> (22; 100%), <tt><a href="cs-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (22; 100%), <tt><a href="cs-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (22; 100%), <tt><a href="cs-feat-Person.html">Person</a></tt><tt>=3</tt> (17; 77%), <tt><a href="cs-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (17; 77%), <tt><a href="cs-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (17; 77%), <tt><a href="cs-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (17; 77%).
 
 `VERB` tokens may have the following values of `Abbr`:
 
-* `Yes` (22; 100% of non-empty `Abbr`): tzn j srov
-* `EMPTY` (135488): má je může řekl měl mají musí jde měla jsou
+* `Yes` (22; 100% of non-empty `Abbr`): <em>tzn, j, srov</em>
+* `EMPTY` (135488): <em>má, je, může, řekl, měl, mají, musí, jde, měla, jsou</em>
 
 ### `DET`
 
 21 <tt><a href="cs-pos-DET.html">DET</a></tt> tokens (0% of all `DET` tokens) have a non-empty value of `Abbr`.
 
-The most frequent other feature values with which `DET` and `Abbr` co-occurred: <tt><a href="cs-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (21; 100%), <tt><a href="cs-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (15; 71%), <tt><a href="cs-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (15; 71%), <tt><a href="cs-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (15; 71%), <tt><a href="cs-feat-PronType.html">PronType</a></tt><tt>=Dem</tt> (13; 62%), <tt><a href="cs-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (11; 52%), <tt><a href="cs-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (11; 52%), <tt><a href="cs-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (11; 52%).
+The most frequent other feature values with which `DET` and `Abbr` co-occurred: <tt><a href="cs-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (21; 100%), <tt><a href="cs-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (15; 71%), <tt><a href="cs-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (15; 71%), <tt><a href="cs-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (15; 71%), <tt><a href="cs-feat-PronType.html">PronType</a></tt><tt>=Dem</tt> (13; 62%), <tt><a href="cs-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (11; 52%), <tt><a href="cs-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (11; 52%), <tt><a href="cs-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (11; 52%).
 
 `DET` tokens may have the following values of `Abbr`:
 
-* `Yes` (21; 100% of non-empty `Abbr`): t n mn vš
-* `EMPTY` (55292): to které který jeho která jejich své tím kteří tom
+* `Yes` (21; 100% of non-empty `Abbr`): <em>t, n, mn, vš</em>
+* `EMPTY` (55292): <em>to, které, který, jeho, která, jejich, své, tím, kteří, tom</em>
 
 ### `X`
 
@@ -114,8 +114,8 @@ The most frequent other feature values with which `DET` and `Abbr` co-occurred: 
 
 `X` tokens may have the following values of `Abbr`:
 
-* `Yes` (12; 100% of non-empty `Abbr`): A H M S
-* `EMPTY` (1): A
+* `Yes` (12; 100% of non-empty `Abbr`): <em>A, H, M, S</em>
+* `EMPTY` (1): <em>A</em>
 
 ### `PART`
 
@@ -123,20 +123,20 @@ The most frequent other feature values with which `DET` and `Abbr` co-occurred: 
 
 `PART` tokens may have the following values of `Abbr`:
 
-* `Yes` (3; 100% of non-empty `Abbr`): CA
-* `EMPTY` (8162): jen až asi li ne nejen prý jenom ano bohužel
+* `Yes` (3; 100% of non-empty `Abbr`): <em>CA</em>
+* `EMPTY` (8162): <em>jen, až, asi, li, ne, nejen, prý, jenom, ano, bohužel</em>
 
 ## Relations with Agreement in `Abbr`
 
 The 10 most frequent relations where parent and child node agree in `Abbr`:
 <tt>PROPN --[<tt><a href="cs-dep-conj.html">conj</a></tt>]--> PROPN</tt> (723; 66%),
 <tt>ADJ --[<tt><a href="cs-dep-amod.html">amod</a></tt>]--> ADJ</tt> (48; 77%),
-<tt>NOUN --[<tt><a href="cs-dep-det.html">det</a></tt>]--> DET</tt> (15; 52%),
 <tt>PROPN --[<tt><a href="cs-dep-orphan.html">orphan</a></tt>]--> PROPN</tt> (15; 58%),
+<tt>NOUN --[<tt><a href="cs-dep-det.html">det</a></tt>]--> DET</tt> (15; 52%),
 <tt>X --[<tt><a href="cs-dep-nmod.html">nmod</a></tt>]--> X</tt> (9; 100%),
 <tt>PROPN --[<tt><a href="cs-dep-nsubj.html">nsubj</a></tt>]--> PROPN</tt> (3; 100%),
-<tt>NOUN --[<tt><a href="cs-dep-flat-foreign.html">flat:foreign</a></tt>]--> ADV</tt> (2; 100%),
 <tt>PART --[<tt><a href="cs-dep-conj.html">conj</a></tt>]--> NOUN</tt> (2; 100%),
-<tt>DET --[<tt><a href="cs-dep-amod.html">amod</a></tt>]--> ADJ</tt> (1; 100%),
-<tt>ADJ --[<tt><a href="cs-dep-case.html">case</a></tt>]--> ADJ</tt> (1; 100%).
+<tt>NOUN --[<tt><a href="cs-dep-flat-foreign.html">flat:foreign</a></tt>]--> ADV</tt> (2; 100%),
+<tt>ADP --[<tt><a href="cs-dep-dep.html">dep</a></tt>]--> NOUN</tt> (1; 100%),
+<tt>DET --[<tt><a href="cs-dep-amod.html">amod</a></tt>]--> ADJ</tt> (1; 100%).
 

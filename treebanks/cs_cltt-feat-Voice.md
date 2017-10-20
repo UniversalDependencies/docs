@@ -22,20 +22,20 @@ The most frequent other feature values with which `VERB` and `Voice` co-occurred
 
 `VERB` tokens may have the following values of `Voice`:
 
-* `Act` (1542; 86% of non-empty `Voice`): obsahuje rozumí může uvede mohou použijí stanoví musí účtuje lze
-* `Pass` (260; 14% of non-empty `Voice`): stanoveno sestavena zahrnuty obchodovány uvedeny zavedena oprávněn uvedena vykázány účtovány
-* `EMPTY` (315): vést použít mít účtovat odpisovat uvést sestavit zajistit provést určit
+* `Act` (1542; 86% of non-empty `Voice`): <em>obsahuje, rozumí, může, uvede, mohou, použijí, stanoví, musí, účtuje, lze</em>
+* `Pass` (260; 14% of non-empty `Voice`): <em>stanoveno, sestavena, zahrnuty, obchodovány, uvedeny, zavedena, oprávněn, uvedena, vykázány, účtovány</em>
+* `EMPTY` (315): <em>vést, použít, mít, účtovat, odpisovat, uvést, sestavit, zajistit, provést, určit</em>
 
 <table>
   <tr><th>Paradigm <i>použít</i></th><th><tt>Act</tt></th><th><tt>Pass</tt></th></tr>
-  <tr><td><tt><tt><a href="cs_cltt-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="cs_cltt-feat-Gender.html">Gender</a></tt><tt>=Fem,Masc</tt>|<tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="cs_cltt-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="cs_cltt-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td></td><td>použity</td></tr>
-  <tr><td><tt><tt><a href="cs_cltt-feat-Gender.html">Gender</a></tt><tt>=Fem,Neut</tt>|<tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Plur,Sing</tt>|<tt><a href="cs_cltt-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="cs_cltt-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="cs_cltt-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td>použila</td><td></td></tr>
-  <tr><td><tt><tt><a href="cs_cltt-feat-Gender.html">Gender</a></tt><tt>=Fem,Neut</tt>|<tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Plur,Sing</tt>|<tt><a href="cs_cltt-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="cs_cltt-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td></td><td>použita</td></tr>
-  <tr><td><tt><tt><a href="cs_cltt-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs_cltt-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="cs_cltt-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td></td><td>použito</td></tr>
-  <tr><td><tt><tt><a href="cs_cltt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs_cltt-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="cs_cltt-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="cs_cltt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="cs_cltt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td>nepoužije</td><td></td></tr>
-  <tr><td><tt><tt><a href="cs_cltt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs_cltt-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="cs_cltt-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="cs_cltt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="cs_cltt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td>použije</td><td></td></tr>
-  <tr><td><tt><tt><a href="cs_cltt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="cs_cltt-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="cs_cltt-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="cs_cltt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="cs_cltt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td>nepoužijí</td><td></td></tr>
-  <tr><td><tt><tt><a href="cs_cltt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="cs_cltt-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="cs_cltt-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="cs_cltt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="cs_cltt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td>použijí</td><td></td></tr>
+  <tr><td><tt><tt><a href="cs_cltt-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="cs_cltt-feat-Gender.html">Gender</a></tt><tt>=Fem,Masc</tt>|<tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="cs_cltt-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="cs_cltt-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td></td><td><em>použity</em></td></tr>
+  <tr><td><tt><tt><a href="cs_cltt-feat-Gender.html">Gender</a></tt><tt>=Fem,Neut</tt>|<tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Plur,Sing</tt>|<tt><a href="cs_cltt-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="cs_cltt-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="cs_cltt-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td><em>použila</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="cs_cltt-feat-Gender.html">Gender</a></tt><tt>=Fem,Neut</tt>|<tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Plur,Sing</tt>|<tt><a href="cs_cltt-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="cs_cltt-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td></td><td><em>použita</em></td></tr>
+  <tr><td><tt><tt><a href="cs_cltt-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs_cltt-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="cs_cltt-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td></td><td><em>použito</em></td></tr>
+  <tr><td><tt><tt><a href="cs_cltt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs_cltt-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="cs_cltt-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="cs_cltt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="cs_cltt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>nepoužije</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="cs_cltt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs_cltt-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="cs_cltt-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="cs_cltt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="cs_cltt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>použije</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="cs_cltt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="cs_cltt-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="cs_cltt-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="cs_cltt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="cs_cltt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>nepoužijí</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="cs_cltt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="cs_cltt-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="cs_cltt-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="cs_cltt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="cs_cltt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>použijí</em></td><td></td></tr>
 </table>
 
 ### `AUX`
@@ -46,8 +46,8 @@ The most frequent other feature values with which `AUX` and `Voice` co-occurred:
 
 `AUX` tokens may have the following values of `Voice`:
 
-* `Act` (497; 100% of non-empty `Voice`): je jsou nejsou není byly bude byl bylo budou nebyly
-* `EMPTY` (107): být by není-li je-li jsou-li nejsou-li byty
+* `Act` (497; 100% of non-empty `Voice`): <em>je, jsou, nejsou, není, byly, bude, byl, bylo, budou, nebyly</em>
+* `EMPTY` (107): <em>být, by, není-li, je-li, jsou-li, nejsou-li, byty</em>
 
 ### `ADJ`
 
@@ -57,8 +57,8 @@ The most frequent other feature values with which `ADJ` and `Voice` co-occurred:
 
 `ADJ` tokens may have the following values of `Voice`:
 
-* `Act` (288; 100% of non-empty `Voice`): konsolidující zanikající následujícího související předcházejícímu týkající přejímající předcházející souvisejících řídících
-* `EMPTY` (6251): účetní účetních účetního konsolidované finanční účetním povinny výroční právní jiných
+* `Act` (288; 100% of non-empty `Voice`): <em>konsolidující, zanikající, následujícího, související, předcházejícímu, týkající, přejímající, předcházející, souvisejících, řídících</em>
+* `EMPTY` (6251): <em>účetní, účetních, účetního, konsolidované, finanční, účetním, povinny, výroční, právní, jiných</em>
 
 `Voice` seems to be **lexical feature** of `ADJ`. 100% lemmas (50) occur only with one value of `Voice`.
 

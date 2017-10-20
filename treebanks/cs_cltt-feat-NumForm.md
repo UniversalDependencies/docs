@@ -22,8 +22,8 @@ The most frequent other feature values with which `NUM` and `NumForm` co-occurre
 
 `NUM` tokens may have the following values of `NumForm`:
 
-* `Roman` (371; 84% of non-empty `NumForm`): 1 3 2 4 5 41 7 10 2004 2008
-* `Word` (69; 16% of non-empty `NumForm`): jeden jedné tří dvanáct dvě dvanácti jedno jednoho jednou obě
+* `Roman` (371; 84% of non-empty `NumForm`): <em>1, 3, 2, 4, 5, 41, 7, 10, 2004, 2008</em>
+* `Word` (69; 16% of non-empty `NumForm`): <em>jeden, jedné, tří, dvanáct, dvě, dvanácti, jedno, jednoho, jednou, obě</em>
 
 `NumForm` seems to be **lexical feature** of `NUM`. 100% lemmas (83) occur only with one value of `NumForm`.
 

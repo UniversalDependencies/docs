@@ -23,40 +23,40 @@ The most frequent other feature values with which `PROPN` and `NameType` co-occu
 
 `PROPN` tokens may have the following values of `NameType`:
 
-* `Com` (12393; 15% of non-empty `NameType`): ODS OSN ODA ČSSD NATO Sparta ČT HZDS EU FS
-* `Com,Geo` (46; 0% of non-empty `NameType`): Chelsea Bergen Europe Kladno Prague Aral Bay California Canada Deutschland
-* `Com,Giv` (34; 0% of non-empty `NameType`): KOVO Kovo Konstruktiva Poldi Fiorentina Michael Ringo Světozor Kovohutě Nšoči
-* `Com,Giv,Sur` (1; 0% of non-empty `NameType`): Winston
-* `Com,Nat` (5; 0% of non-empty `NameType`): Jihlavanu Jihlavan
-* `Com,Pro` (34; 0% of non-empty `NameType`): Bild Canon Fiat Honda Fiatu Canonu Hondy CANON Fiaty HONDA
-* `Com,Sur` (44; 0% of non-empty `NameType`): Benetton Benettonu Mates Winston Maxwell Biederstein Bradstreet Daimler Dohme Dun
-* `Geo` (26520; 32% of non-empty `NameType`): Praha ČR Praze USA Evropy Brno Prahy ČSFR Evropě Německu
-* `Geo,Giv` (31; 0% of non-empty `NameType`): Amos Gyula Gyuly Karin Alma AMOS Amosem Gyulu José Josému
-* `Geo,Giv,Sur` (18; 0% of non-empty `NameType`): Butrus Butruse Keith Kozák
-* `Geo,Oth` (1; 0% of non-empty `NameType`): Saturn
-* `Geo,Pro` (2; 0% of non-empty `NameType`): Mountain RENOVA
-* `Geo,Sur` (241; 0% of non-empty `NameType`): Breda Paisley Petrov Wallis Powell Bihače Wallise Warren Lichtenbergu Lom
-* `Giv` (15099; 18% of non-empty `NameType`): J Jiří Jan Václav Jana Petr M Josef Pavel Vladimír
-* `Giv,Nat` (3; 0% of non-empty `NameType`): Hun
-* `Giv,Oth` (5; 0% of non-empty `NameType`): Miranda David John MIRANDY
-* `Giv,Pro` (1; 0% of non-empty `NameType`): Pascal
-* `Giv,Pro,Sur` (1; 0% of non-empty `NameType`): Figaro
-* `Giv,Sur` (139; 0% of non-empty `NameType`): Perry Perryho Charlie Diega Othello Diego Ricardo Rút Heřman Johan
-* `Nat` (2286; 3% of non-empty `NameType`): Němci Češi Němců Američané američan Slováci Srbové Rusové Srby Čechů
-* `Nat,Sur` (7; 0% of non-empty `NameType`): Uher Maye UHER
-* `Oth` (555; 1% of non-empty `NameType`): PVP Prix Tour ECU Garden München line Rapaportu VC Age
-* `Pro` (2054; 2% of non-empty `NameType`): LN MF PC Škoda mercedes favorit Mir ford polo Welt
-* `Pro,Sur` (25; 0% of non-empty `NameType`): Kozel Stock Burda Johnnie Hornet Walker Walkerem
-* `Sur` (24486; 29% of non-empty `NameType`): Klaus Havel Klause Svoboda Mečiar Havla Jelcin John Zeman Němec
+* `Com` (12393; 15% of non-empty `NameType`): <em>ODS, OSN, ODA, ČSSD, NATO, Sparta, ČT, HZDS, EU, FS</em>
+* `Com,Geo` (46; 0% of non-empty `NameType`): <em>Chelsea, Bergen, Europe, Kladno, Prague, Aral, Bay, California, Canada, Deutschland</em>
+* `Com,Giv` (34; 0% of non-empty `NameType`): <em>KOVO, Kovo, Konstruktiva, Poldi, Fiorentina, Michael, Ringo, Světozor, Kovohutě, Nšoči</em>
+* `Com,Giv,Sur` (1; 0% of non-empty `NameType`): <em>Winston</em>
+* `Com,Nat` (5; 0% of non-empty `NameType`): <em>Jihlavanu, Jihlavan</em>
+* `Com,Pro` (34; 0% of non-empty `NameType`): <em>Bild, Canon, Fiat, Honda, Fiatu, Canonu, Hondy, CANON, Fiaty, HONDA</em>
+* `Com,Sur` (44; 0% of non-empty `NameType`): <em>Benetton, Benettonu, Mates, Winston, Maxwell, Biederstein, Bradstreet, Daimler, Dohme, Dun</em>
+* `Geo` (26520; 32% of non-empty `NameType`): <em>Praha, ČR, Praze, USA, Evropy, Brno, Prahy, ČSFR, Evropě, Německu</em>
+* `Geo,Giv` (31; 0% of non-empty `NameType`): <em>Amos, Gyula, Gyuly, Karin, Alma, AMOS, Amosem, Gyulu, José, Josému</em>
+* `Geo,Giv,Sur` (18; 0% of non-empty `NameType`): <em>Butrus, Butruse, Keith, Kozák</em>
+* `Geo,Oth` (1; 0% of non-empty `NameType`): <em>Saturn</em>
+* `Geo,Pro` (2; 0% of non-empty `NameType`): <em>Mountain, RENOVA</em>
+* `Geo,Sur` (241; 0% of non-empty `NameType`): <em>Breda, Paisley, Petrov, Wallis, Powell, Bihače, Wallise, Warren, Lichtenbergu, Lom</em>
+* `Giv` (15099; 18% of non-empty `NameType`): <em>J, Jiří, Jan, Václav, Jana, Petr, M, Josef, Pavel, Vladimír</em>
+* `Giv,Nat` (3; 0% of non-empty `NameType`): <em>Hun</em>
+* `Giv,Oth` (5; 0% of non-empty `NameType`): <em>Miranda, David, John, MIRANDY</em>
+* `Giv,Pro` (1; 0% of non-empty `NameType`): <em>Pascal</em>
+* `Giv,Pro,Sur` (1; 0% of non-empty `NameType`): <em>Figaro</em>
+* `Giv,Sur` (139; 0% of non-empty `NameType`): <em>Perry, Perryho, Charlie, Diega, Othello, Diego, Ricardo, Rút, Heřman, Johan</em>
+* `Nat` (2286; 3% of non-empty `NameType`): <em>Němci, Češi, Němců, Američané, američan, Slováci, Srbové, Rusové, Srby, Čechů</em>
+* `Nat,Sur` (7; 0% of non-empty `NameType`): <em>Uher, Maye, UHER</em>
+* `Oth` (555; 1% of non-empty `NameType`): <em>PVP, Prix, Tour, ECU, Garden, München, line, Rapaportu, VC, Age</em>
+* `Pro` (2054; 2% of non-empty `NameType`): <em>LN, MF, PC, Škoda, mercedes, favorit, Mir, ford, polo, Welt</em>
+* `Pro,Sur` (25; 0% of non-empty `NameType`): <em>Kozel, Stock, Burda, Johnnie, Hornet, Walker, Walkerem</em>
+* `Sur` (24486; 29% of non-empty `NameType`): <em>Klaus, Havel, Klause, Svoboda, Mečiar, Havla, Jelcin, John, Zeman, Němec</em>
 
 <table>
   <tr><th>Paradigm <i>Paris</i></th><th><tt>Com</tt></th><th><tt>Geo</tt></th><th><tt>Giv</tt></th><th><tt>Oth</tt></th><th><tt>Pro</tt></th><th><tt>Sur</tt></th></tr>
-  <tr><td><tt><tt><a href="cs-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt>|<tt><a href="cs-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="cs-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="cs-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td></td><td></td><td></td><td></td><td>Parise</td></tr>
-  <tr><td><tt><tt><a href="cs-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt>|<tt><a href="cs-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="cs-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="cs-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td></td><td>Paris</td><td></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="cs-feat-Foreign.html">Foreign</a></tt><tt>=Yes</tt>|<tt><a href="cs-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="cs-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td>Paris</td><td></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="cs-feat-Foreign.html">Foreign</a></tt><tt>=Yes</tt>|<tt><a href="cs-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td></td><td></td><td></td><td></td><td>Paris</td><td></td></tr>
-  <tr><td><tt><tt><a href="cs-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td>Paris</td><td></td><td></td><td>Paris</td><td></td><td></td></tr>
-  <tr><td><tt></tt></td><td>Paris</td><td></td><td></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="cs-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt>|<tt><a href="cs-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="cs-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="cs-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td></td><td></td><td></td><td></td><td><em>Parise</em></td></tr>
+  <tr><td><tt><tt><a href="cs-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt>|<tt><a href="cs-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="cs-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="cs-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td></td><td><em>Paris</em></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="cs-feat-Foreign.html">Foreign</a></tt><tt>=Yes</tt>|<tt><a href="cs-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="cs-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>Paris</em></td><td></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="cs-feat-Foreign.html">Foreign</a></tt><tt>=Yes</tt>|<tt><a href="cs-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td></td><td></td><td></td><td></td><td><em>Paris</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="cs-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>Paris</em></td><td></td><td></td><td><em>Paris</em></td><td></td><td></td></tr>
+  <tr><td><tt></tt></td><td><em>Paris</em></td><td></td><td></td><td></td><td></td><td></td></tr>
 </table>
 
 `NameType` seems to be **lexical feature** of `PROPN`. 96% lemmas (14763) occur only with one value of `NameType`.
@@ -69,29 +69,29 @@ The most frequent other feature values with which `ADJ` and `NameType` co-occurr
 
 `ADJ` tokens may have the following values of `NameType`:
 
-* `Com` (1199; 25% of non-empty `NameType`): RM Pink K J Deutsche United Die I U British
-* `Com,Geo` (17; 0% of non-empty `NameType`): York Covent Abbey Amsterdam Bradford Brooklyn Louis New Oak Ridge
-* `Com,Giv` (1; 0% of non-empty `NameType`): Konrád
-* `Com,Oth` (8; 0% of non-empty `NameType`): Al Black Box Mute
-* `Com,Pro` (2; 0% of non-empty `NameType`): Apple Microsoft
-* `Com,Pro,Sur` (1; 0% of non-empty `NameType`): Sun
-* `Com,Sur` (10; 0% of non-empty `NameType`): Gordon Binder Cocteau Goethe Mandel Rambert Random Warner Wellesley
-* `Geo` (733; 15% of non-empty `NameType`): New Č Flushing Los San Tchaj Horní Devils Twin Buenos
-* `Geo,Giv` (3; 0% of non-empty `NameType`): Karl Karlovy
-* `Geo,Oth` (1; 0% of non-empty `NameType`): Salem
-* `Geo,Pro` (4; 0% of non-empty `NameType`): York Denver Washington
-* `Geo,Sur` (11; 0% of non-empty `NameType`): Marx Špindlerově Lounských Powellovo Powellovy Powellových Santa Spenglerův Wallisově
-* `Giv` (290; 6% of non-empty `NameType`): Karlovy Karlových Karlova Karlově Heinrichovy Janova Jindřichově Heinrichových Jindřichův Ježíšova
-* `Giv,Sur` (28; 1% of non-empty `NameType`): Eukleidových Eukleidovy Damoklův Heřmanův Alláhovým Berijova Eukleidova Eukleidově Franckův Hésiodovy
-* `Nat` (10; 0% of non-empty `NameType`): Američanovy Američanův Australanovo Brazilcovy Florenťanův Indian Irův Němcův Pražákovo Taliánův
-* `Oth` (222; 5% of non-empty `NameType`): US New Made Sex al Australian French Miranda Inspiral Mute
-* `Oth,Sur` (1; 0% of non-empty `NameType`): Shea
-* `Pro` (167; 4% of non-empty `NameType`): Financial coca Super Chem Eng Prágai Wyborcza der pepsi Magyar
-* `Sur` (2048; 43% of non-empty `NameType`): Milíčova Masarykově Benešových Schrödingerova Casimirův Klausův Masarykova Mečiarova Benešovy Janáčkovy
+* `Com` (1199; 25% of non-empty `NameType`): <em>RM, Pink, K, J, Deutsche, United, Die, I, U, British</em>
+* `Com,Geo` (17; 0% of non-empty `NameType`): <em>York, Covent, Abbey, Amsterdam, Bradford, Brooklyn, Louis, New, Oak, Ridge</em>
+* `Com,Giv` (1; 0% of non-empty `NameType`): <em>Konrád</em>
+* `Com,Oth` (8; 0% of non-empty `NameType`): <em>Al, Black, Box, Mute</em>
+* `Com,Pro` (2; 0% of non-empty `NameType`): <em>Apple, Microsoft</em>
+* `Com,Pro,Sur` (1; 0% of non-empty `NameType`): <em>Sun</em>
+* `Com,Sur` (10; 0% of non-empty `NameType`): <em>Gordon, Binder, Cocteau, Goethe, Mandel, Rambert, Random, Warner, Wellesley</em>
+* `Geo` (733; 15% of non-empty `NameType`): <em>New, Č, Flushing, Los, San, Tchaj, Horní, Devils, Twin, Buenos</em>
+* `Geo,Giv` (3; 0% of non-empty `NameType`): <em>Karl, Karlovy</em>
+* `Geo,Oth` (1; 0% of non-empty `NameType`): <em>Salem</em>
+* `Geo,Pro` (4; 0% of non-empty `NameType`): <em>York, Denver, Washington</em>
+* `Geo,Sur` (11; 0% of non-empty `NameType`): <em>Marx, Špindlerově, Lounských, Powellovo, Powellovy, Powellových, Santa, Spenglerův, Wallisově</em>
+* `Giv` (290; 6% of non-empty `NameType`): <em>Karlovy, Karlových, Karlova, Karlově, Heinrichovy, Janova, Jindřichově, Heinrichových, Jindřichův, Ježíšova</em>
+* `Giv,Sur` (28; 1% of non-empty `NameType`): <em>Eukleidových, Eukleidovy, Damoklův, Heřmanův, Alláhovým, Berijova, Eukleidova, Eukleidově, Franckův, Hésiodovy</em>
+* `Nat` (10; 0% of non-empty `NameType`): <em>Američanovy, Američanův, Australanovo, Brazilcovy, Florenťanův, Indian, Irův, Němcův, Pražákovo, Taliánův</em>
+* `Oth` (222; 5% of non-empty `NameType`): <em>US, New, Made, Sex, al, Australian, French, Miranda, Inspiral, Mute</em>
+* `Oth,Sur` (1; 0% of non-empty `NameType`): <em>Shea</em>
+* `Pro` (167; 4% of non-empty `NameType`): <em>Financial, coca, Super, Chem, Eng, Prágai, Wyborcza, der, pepsi, Magyar</em>
+* `Sur` (2048; 43% of non-empty `NameType`): <em>Milíčova, Masarykově, Benešových, Schrödingerova, Casimirův, Klausův, Masarykova, Mečiarova, Benešovy, Janáčkovy</em>
 
 <table>
   <tr><th>Paradigm <i>New</i></th><th><tt>Com,Geo</tt></th><th><tt>Geo</tt></th><th><tt>Oth</tt></th></tr>
-  <tr><td><tt></tt></td><td>New</td><td>New, NEW</td><td>New</td></tr>
+  <tr><td><tt></tt></td><td><em>New</em></td><td><em>New, NEW</em></td><td><em>New</em></td></tr>
 </table>
 
 `NameType` seems to be **lexical feature** of `ADJ`. 95% lemmas (1730) occur only with one value of `NameType`.
@@ -104,16 +104,16 @@ The most frequent other feature values with which `ADP` and `NameType` co-occurr
 
 `ADP` tokens may have the following values of `NameType`:
 
-* `Com` (16; 23% of non-empty `NameType`): Pro PRO dei des po
-* `Geo` (3; 4% of non-empty `NameType`): Unter del Átha
-* `Geo,Giv,Sur` (35; 49% of non-empty `NameType`): di
-* `Oth` (6; 8% of non-empty `NameType`): for Into Pour Pro To
-* `Pro` (10; 14% of non-empty `NameType`): ex della Quantum
-* `Sur` (1; 1% of non-empty `NameType`): zum
+* `Com` (16; 23% of non-empty `NameType`): <em>Pro, PRO, dei, des, po</em>
+* `Geo` (3; 4% of non-empty `NameType`): <em>Unter, del, Átha</em>
+* `Geo,Giv,Sur` (35; 49% of non-empty `NameType`): <em>di</em>
+* `Oth` (6; 8% of non-empty `NameType`): <em>for, Into, Pour, Pro, To</em>
+* `Pro` (10; 14% of non-empty `NameType`): <em>ex, della, Quantum</em>
+* `Sur` (1; 1% of non-empty `NameType`): <em>zum</em>
 
 <table>
   <tr><th>Paradigm <i>Pro</i></th><th><tt>Com</tt></th><th><tt>Oth</tt></th></tr>
-  <tr><td><tt></tt></td><td>Pro, PRO</td><td>Pro</td></tr>
+  <tr><td><tt></tt></td><td><em>Pro, PRO</em></td><td><em>Pro</em></td></tr>
 </table>
 
 `NameType` seems to be **lexical feature** of `ADP`. 94% lemmas (15) occur only with one value of `NameType`.
@@ -122,11 +122,11 @@ The most frequent other feature values with which `ADP` and `NameType` co-occurr
 
 20 <tt><a href="cs-pos-NUM.html">NUM</a></tt> tokens (0% of all `NUM` tokens) have a non-empty value of `NameType`.
 
-The most frequent other feature values with which `NUM` and `NameType` co-occurred: <tt><a href="cs-feat-NumForm.html">NumForm</a></tt><tt>=Word</tt> (20; 100%), <tt><a href="cs-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (20; 100%), <tt><a href="cs-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (20; 100%), <tt><a href="cs-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (19; 95%), <tt><a href="cs-feat-NumValue.html">NumValue</a></tt><tt>=1,2,3</tt> (19; 95%), <tt><a href="cs-feat-Number.html">Number</a></tt><tt>=Plur</tt> (19; 95%).
+The most frequent other feature values with which `NUM` and `NameType` co-occurred: <tt><a href="cs-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (20; 100%), <tt><a href="cs-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (20; 100%), <tt><a href="cs-feat-NumForm.html">NumForm</a></tt><tt>=Word</tt> (20; 100%), <tt><a href="cs-feat-Number.html">Number</a></tt><tt>=Plur</tt> (19; 95%), <tt><a href="cs-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (19; 95%), <tt><a href="cs-feat-NumValue.html">NumValue</a></tt><tt>=1,2,3</tt> (19; 95%).
 
 `NUM` tokens may have the following values of `NameType`:
 
-* `Com` (20; 100% of non-empty `NameType`): Four Seven Twenty Six Tre
+* `Com` (20; 100% of non-empty `NameType`): <em>Four, Seven, Twenty, Six, Tre</em>
 
 ### `ADV`
 
@@ -136,14 +136,14 @@ The most frequent other feature values with which `ADV` and `NameType` co-occurr
 
 `ADV` tokens may have the following values of `NameType`:
 
-* `Com` (5; 29% of non-empty `NameType`): More Nahoru dolů achšav
-* `Oth` (7; 41% of non-empty `NameType`): COSI Down How Live So Up Why
-* `Pro` (5; 29% of non-empty `NameType`): Ahead Inside Live Today Weekly
+* `Com` (5; 29% of non-empty `NameType`): <em>More, Nahoru, dolů, achšav</em>
+* `Oth` (7; 41% of non-empty `NameType`): <em>COSI, Down, How, Live, So, Up, Why</em>
+* `Pro` (5; 29% of non-empty `NameType`): <em>Ahead, Inside, Live, Today, Weekly</em>
 
 <table>
   <tr><th>Paradigm <i>Live</i></th><th><tt>Oth</tt></th><th><tt>Pro</tt></th></tr>
-  <tr><td><tt><tt><a href="cs-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="cs-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt></tt></td><td>Live</td><td></td></tr>
-  <tr><td><tt></tt></td><td></td><td>Live</td></tr>
+  <tr><td><tt><tt><a href="cs-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="cs-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt></tt></td><td><em>Live</em></td><td></td></tr>
+  <tr><td><tt></tt></td><td></td><td><em>Live</em></td></tr>
 </table>
 
 `NameType` seems to be **lexical feature** of `ADV`. 93% lemmas (14) occur only with one value of `NameType`.
@@ -152,18 +152,18 @@ The most frequent other feature values with which `ADV` and `NameType` co-occurr
 
 13 <tt><a href="cs-pos-VERB.html">VERB</a></tt> tokens (0% of all `VERB` tokens) have a non-empty value of `NameType`.
 
-The most frequent other feature values with which `VERB` and `NameType` co-occurred: <tt><a href="cs-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (13; 100%), <tt><a href="cs-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (13; 100%), <tt><a href="cs-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (13; 100%), <tt><a href="cs-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (8; 62%), <tt><a href="cs-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (8; 62%), <tt><a href="cs-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (7; 54%), <tt><a href="cs-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (7; 54%).
+The most frequent other feature values with which `VERB` and `NameType` co-occurred: <tt><a href="cs-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (13; 100%), <tt><a href="cs-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (13; 100%), <tt><a href="cs-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (13; 100%), <tt><a href="cs-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (8; 62%), <tt><a href="cs-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (8; 62%), <tt><a href="cs-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (7; 54%), <tt><a href="cs-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (7; 54%).
 
 `VERB` tokens may have the following values of `NameType`:
 
-* `Com` (2; 15% of non-empty `NameType`): Can Dance
-* `Oth` (9; 69% of non-empty `NameType`): Porter Can Comes FAN Feels Said Takes Want
-* `Pro` (2; 15% of non-empty `NameType`): Check Lean
+* `Com` (2; 15% of non-empty `NameType`): <em>Can, Dance</em>
+* `Oth` (9; 69% of non-empty `NameType`): <em>Porter, Can, Comes, FAN, Feels, Said, Takes, Want</em>
+* `Pro` (2; 15% of non-empty `NameType`): <em>Check, Lean</em>
 
 <table>
   <tr><th>Paradigm <i>Can</i></th><th><tt>Com</tt></th><th><tt>Oth</tt></th></tr>
-  <tr><td><tt><tt><a href="cs-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="cs-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="cs-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="cs-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td></td><td>Can</td></tr>
-  <tr><td><tt><tt><a href="cs-feat-VerbForm.html">VerbForm</a></tt><tt>=Inf</tt></tt></td><td>Can</td><td></td></tr>
+  <tr><td><tt><tt><a href="cs-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="cs-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="cs-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="cs-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td></td><td><em>Can</em></td></tr>
+  <tr><td><tt><tt><a href="cs-feat-VerbForm.html">VerbForm</a></tt><tt>=Inf</tt></tt></td><td><em>Can</em></td><td></td></tr>
 </table>
 
 `NameType` seems to be **lexical feature** of `VERB`. 91% lemmas (10) occur only with one value of `NameType`.
@@ -172,18 +172,18 @@ The most frequent other feature values with which `VERB` and `NameType` co-occur
 
 12 <tt><a href="cs-pos-PRON.html">PRON</a></tt> tokens (0% of all `PRON` tokens) have a non-empty value of `NameType`.
 
-The most frequent other feature values with which `PRON` and `NameType` co-occurred: <tt><a href="cs-feat-PrepCase.html">PrepCase</a></tt><tt>=EMPTY</tt> (12; 100%), <tt><a href="cs-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (12; 100%), <tt><a href="cs-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (12; 100%), <tt><a href="cs-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (8; 67%), <tt><a href="cs-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (7; 58%), <tt><a href="cs-feat-Number.html">Number</a></tt><tt>=Sing</tt> (7; 58%), <tt><a href="cs-feat-PronType.html">PronType</a></tt><tt>=Tot</tt> (7; 58%).
+The most frequent other feature values with which `PRON` and `NameType` co-occurred: <tt><a href="cs-feat-PrepCase.html">PrepCase</a></tt><tt>=EMPTY</tt> (12; 100%), <tt><a href="cs-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (12; 100%), <tt><a href="cs-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (12; 100%), <tt><a href="cs-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (8; 67%), <tt><a href="cs-feat-Number.html">Number</a></tt><tt>=Sing</tt> (7; 58%), <tt><a href="cs-feat-PronType.html">PronType</a></tt><tt>=Tot</tt> (7; 58%), <tt><a href="cs-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (7; 58%).
 
 `PRON` tokens may have the following values of `NameType`:
 
-* `Com` (4; 33% of non-empty `NameType`): All
-* `Oth` (4; 33% of non-empty `NameType`): All Everything You
-* `Pro` (4; 33% of non-empty `NameType`): Ty It man
+* `Com` (4; 33% of non-empty `NameType`): <em>All</em>
+* `Oth` (4; 33% of non-empty `NameType`): <em>All, Everything, You</em>
+* `Pro` (4; 33% of non-empty `NameType`): <em>Ty, It, man</em>
 
 <table>
   <tr><th>Paradigm <i>All</i></th><th><tt>Com</tt></th><th><tt>Oth</tt></th></tr>
-  <tr><td><tt><tt><a href="cs-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="cs-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="cs-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td>All</td></tr>
-  <tr><td><tt></tt></td><td>All</td><td></td></tr>
+  <tr><td><tt><tt><a href="cs-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="cs-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="cs-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>All</em></td></tr>
+  <tr><td><tt></tt></td><td><em>All</em></td><td></td></tr>
 </table>
 
 ### `PART`
@@ -192,20 +192,9 @@ The most frequent other feature values with which `PRON` and `NameType` co-occur
 
 `PART` tokens may have the following values of `NameType`:
 
-* `Com` (2; 25% of non-empty `NameType`): Non we
-* `Oth` (5; 63% of non-empty `NameType`): L Not at el t
-* `Sur` (1; 13% of non-empty `NameType`): ka
-
-### `DET`
-
-4 <tt><a href="cs-pos-DET.html">DET</a></tt> tokens (0% of all `DET` tokens) have a non-empty value of `NameType`.
-
-The most frequent other feature values with which `DET` and `NameType` co-occurred: <tt><a href="cs-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (4; 100%), <tt><a href="cs-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (3; 75%), <tt><a href="cs-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (3; 75%), <tt><a href="cs-feat-Poss.html">Poss</a></tt><tt>=Yes</tt> (3; 75%), <tt><a href="cs-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (3; 75%).
-
-`DET` tokens may have the following values of `NameType`:
-
-* `Oth` (2; 50% of non-empty `NameType`): Notre This
-* `Pro` (2; 50% of non-empty `NameType`): Your
+* `Com` (2; 25% of non-empty `NameType`): <em>Non, we</em>
+* `Oth` (5; 63% of non-empty `NameType`): <em>L, Not, at, el, t</em>
+* `Sur` (1; 13% of non-empty `NameType`): <em>ka</em>
 
 ### `INTJ`
 
@@ -213,8 +202,19 @@ The most frequent other feature values with which `DET` and `NameType` co-occurr
 
 `INTJ` tokens may have the following values of `NameType`:
 
-* `Com` (1; 25% of non-empty `NameType`): Halo
-* `Oth` (3; 75% of non-empty `NameType`): Bang Boom Crash
+* `Com` (1; 25% of non-empty `NameType`): <em>Halo</em>
+* `Oth` (3; 75% of non-empty `NameType`): <em>Bang, Boom, Crash</em>
+
+### `DET`
+
+4 <tt><a href="cs-pos-DET.html">DET</a></tt> tokens (0% of all `DET` tokens) have a non-empty value of `NameType`.
+
+The most frequent other feature values with which `DET` and `NameType` co-occurred: <tt><a href="cs-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (4; 100%), <tt><a href="cs-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (3; 75%), <tt><a href="cs-feat-Poss.html">Poss</a></tt><tt>=Yes</tt> (3; 75%), <tt><a href="cs-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (3; 75%), <tt><a href="cs-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (3; 75%).
+
+`DET` tokens may have the following values of `NameType`:
+
+* `Oth` (2; 50% of non-empty `NameType`): <em>Notre, This</em>
+* `Pro` (2; 50% of non-empty `NameType`): <em>Your</em>
 
 ### `CCONJ`
 
@@ -222,7 +222,7 @@ The most frequent other feature values with which `DET` and `NameType` co-occurr
 
 `CCONJ` tokens may have the following values of `NameType`:
 
-* `Com` (1; 100% of non-empty `NameType`): und
+* `Com` (1; 100% of non-empty `NameType`): <em>und</em>
 
 ## Relations with Agreement in `NameType`
 

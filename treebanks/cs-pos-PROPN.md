@@ -9,72 +9,72 @@ udver: '2'
 There are 15241 `PROPN` lemmas (25%), 21954 `PROPN` types (17%) and 84031 `PROPN` tokens (6%).
 Out of 17 observed tags, the rank of `PROPN` is: 2 in number of lemmas, 3 in number of types and 6 in number of tokens.
 
-The 10 most frequent `PROPN` lemmas: Praha ČR Evropa LN Jan Jiří Německo Brno ODS USA
+The 10 most frequent `PROPN` lemmas: <em>Praha, ČR, Evropa, LN, Jan, Jiří, Německo, Brno, ODS, USA</em>
 
-The 10 most frequent `PROPN` types:  Praha ČR Praze LN ODS USA J Jiří Jan OSN
+The 10 most frequent `PROPN` types:  <em>Praha, ČR, Praze, LN, ODS, USA, J, Jiří, Jan, OSN</em>
 
-The 10 most frequent ambiguous lemmas: J (<tt><a href="cs-pos-PROPN.html">PROPN</a></tt> 422, <tt><a href="cs-pos-ADJ.html">ADJ</a></tt> 30), M (<tt><a href="cs-pos-PROPN.html">PROPN</a></tt> 244, <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 8, <tt><a href="cs-pos-ADJ.html">ADJ</a></tt> 1), V (<tt><a href="cs-pos-PROPN.html">PROPN</a></tt> 210, <tt><a href="cs-pos-NUM.html">NUM</a></tt> 23, <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 7, <tt><a href="cs-pos-ADJ.html">ADJ</a></tt> 5), A (<tt><a href="cs-pos-PROPN.html">PROPN</a></tt> 172, <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 8, <tt><a href="cs-pos-ADJ.html">ADJ</a></tt> 8), York (<tt><a href="cs-pos-PROPN.html">PROPN</a></tt> 165, <tt><a href="cs-pos-ADJ.html">ADJ</a></tt> 5), P (<tt><a href="cs-pos-PROPN.html">PROPN</a></tt> 136, <tt><a href="cs-pos-ADJ.html">ADJ</a></tt> 4, <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 2), čt (<tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 4, <tt><a href="cs-pos-PROPN.html">PROPN</a></tt> 2), S (<tt><a href="cs-pos-PROPN.html">PROPN</a></tt> 116, <tt><a href="cs-pos-ADJ.html">ADJ</a></tt> 12, <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 2), Washington (<tt><a href="cs-pos-PROPN.html">PROPN</a></tt> 111, <tt><a href="cs-pos-ADJ.html">ADJ</a></tt> 1), r (<tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 55, <tt><a href="cs-pos-PROPN.html">PROPN</a></tt> 1, <tt><a href="cs-pos-ADV.html">ADV</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>J</em> (<tt><a href="cs-pos-PROPN.html">PROPN</a></tt> 422, <tt><a href="cs-pos-ADJ.html">ADJ</a></tt> 30), <em>M</em> (<tt><a href="cs-pos-PROPN.html">PROPN</a></tt> 244, <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 8, <tt><a href="cs-pos-ADJ.html">ADJ</a></tt> 1), <em>V</em> (<tt><a href="cs-pos-PROPN.html">PROPN</a></tt> 210, <tt><a href="cs-pos-NUM.html">NUM</a></tt> 23, <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 7, <tt><a href="cs-pos-ADJ.html">ADJ</a></tt> 5), <em>A</em> (<tt><a href="cs-pos-PROPN.html">PROPN</a></tt> 172, <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 8, <tt><a href="cs-pos-ADJ.html">ADJ</a></tt> 8), <em>York</em> (<tt><a href="cs-pos-PROPN.html">PROPN</a></tt> 165, <tt><a href="cs-pos-ADJ.html">ADJ</a></tt> 5), <em>P</em> (<tt><a href="cs-pos-PROPN.html">PROPN</a></tt> 136, <tt><a href="cs-pos-ADJ.html">ADJ</a></tt> 4, <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 2), <em>čt</em> (<tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 4, <tt><a href="cs-pos-PROPN.html">PROPN</a></tt> 2), <em>S</em> (<tt><a href="cs-pos-PROPN.html">PROPN</a></tt> 116, <tt><a href="cs-pos-ADJ.html">ADJ</a></tt> 12, <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 2), <em>Washington</em> (<tt><a href="cs-pos-PROPN.html">PROPN</a></tt> 111, <tt><a href="cs-pos-ADJ.html">ADJ</a></tt> 1), <em>r</em> (<tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 55, <tt><a href="cs-pos-ADV.html">ADV</a></tt> 1, <tt><a href="cs-pos-PROPN.html">PROPN</a></tt> 1)
 
-The 10 most frequent ambiguous types:  J (<tt><a href="cs-pos-PROPN.html">PROPN</a></tt> 422, <tt><a href="cs-pos-ADJ.html">ADJ</a></tt> 30, <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 3), M (<tt><a href="cs-pos-PROPN.html">PROPN</a></tt> 244, <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 51, <tt><a href="cs-pos-X.html">X</a></tt> 3, <tt><a href="cs-pos-ADJ.html">ADJ</a></tt> 1), V (<tt><a href="cs-pos-ADP.html">ADP</a></tt> 3736, <tt><a href="cs-pos-PROPN.html">PROPN</a></tt> 210, <tt><a href="cs-pos-NUM.html">NUM</a></tt> 23, <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 15, <tt><a href="cs-pos-ADJ.html">ADJ</a></tt> 6, <tt><a href="cs-pos-ADV.html">ADV</a></tt> 2), A (<tt><a href="cs-pos-CCONJ.html">CCONJ</a></tt> 1042, <tt><a href="cs-pos-PROPN.html">PROPN</a></tt> 172, <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 93, <tt><a href="cs-pos-ADJ.html">ADJ</a></tt> 19, <tt><a href="cs-pos-X.html">X</a></tt> 4), Rusko (<tt><a href="cs-pos-PROPN.html">PROPN</a></tt> 163, <tt><a href="cs-pos-ADJ.html">ADJ</a></tt> 3), Německo (<tt><a href="cs-pos-PROPN.html">PROPN</a></tt> 144, <tt><a href="cs-pos-ADJ.html">ADJ</a></tt> 2), P (<tt><a href="cs-pos-PROPN.html">PROPN</a></tt> 136, <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 124, <tt><a href="cs-pos-ADJ.html">ADJ</a></tt> 17, <tt><a href="cs-pos-ADP.html">ADP</a></tt> 1), S (<tt><a href="cs-pos-ADP.html">ADP</a></tt> 470, <tt><a href="cs-pos-PROPN.html">PROPN</a></tt> 117, <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 38, <tt><a href="cs-pos-ADJ.html">ADJ</a></tt> 14, <tt><a href="cs-pos-X.html">X</a></tt> 3), r (<tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 433, <tt><a href="cs-pos-ADV.html">ADV</a></tt> 1, <tt><a href="cs-pos-PROPN.html">PROPN</a></tt> 1), F (<tt><a href="cs-pos-PROPN.html">PROPN</a></tt> 99, <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 27, <tt><a href="cs-pos-ADJ.html">ADJ</a></tt> 10)
+The 10 most frequent ambiguous types:  <em>J</em> (<tt><a href="cs-pos-PROPN.html">PROPN</a></tt> 422, <tt><a href="cs-pos-ADJ.html">ADJ</a></tt> 30, <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 3), <em>M</em> (<tt><a href="cs-pos-PROPN.html">PROPN</a></tt> 244, <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 51, <tt><a href="cs-pos-X.html">X</a></tt> 3, <tt><a href="cs-pos-ADJ.html">ADJ</a></tt> 1), <em>V</em> (<tt><a href="cs-pos-ADP.html">ADP</a></tt> 3736, <tt><a href="cs-pos-PROPN.html">PROPN</a></tt> 210, <tt><a href="cs-pos-NUM.html">NUM</a></tt> 23, <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 15, <tt><a href="cs-pos-ADJ.html">ADJ</a></tt> 6, <tt><a href="cs-pos-ADV.html">ADV</a></tt> 2), <em>A</em> (<tt><a href="cs-pos-CCONJ.html">CCONJ</a></tt> 1042, <tt><a href="cs-pos-PROPN.html">PROPN</a></tt> 172, <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 93, <tt><a href="cs-pos-ADJ.html">ADJ</a></tt> 19, <tt><a href="cs-pos-X.html">X</a></tt> 4), <em>Rusko</em> (<tt><a href="cs-pos-PROPN.html">PROPN</a></tt> 163, <tt><a href="cs-pos-ADJ.html">ADJ</a></tt> 3), <em>Německo</em> (<tt><a href="cs-pos-PROPN.html">PROPN</a></tt> 144, <tt><a href="cs-pos-ADJ.html">ADJ</a></tt> 2), <em>P</em> (<tt><a href="cs-pos-PROPN.html">PROPN</a></tt> 136, <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 124, <tt><a href="cs-pos-ADJ.html">ADJ</a></tt> 17, <tt><a href="cs-pos-ADP.html">ADP</a></tt> 1), <em>S</em> (<tt><a href="cs-pos-ADP.html">ADP</a></tt> 470, <tt><a href="cs-pos-PROPN.html">PROPN</a></tt> 117, <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 38, <tt><a href="cs-pos-ADJ.html">ADJ</a></tt> 14, <tt><a href="cs-pos-X.html">X</a></tt> 3), <em>r</em> (<tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 433, <tt><a href="cs-pos-ADV.html">ADV</a></tt> 1, <tt><a href="cs-pos-PROPN.html">PROPN</a></tt> 1), <em>F</em> (<tt><a href="cs-pos-PROPN.html">PROPN</a></tt> 99, <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 27, <tt><a href="cs-pos-ADJ.html">ADJ</a></tt> 10)
 
 
-* J
-  * <tt><a href="cs-pos-PROPN.html">PROPN</a></tt> 422: <b>J</b> . Vachek , Praha
-  * <tt><a href="cs-pos-ADJ.html">ADJ</a></tt> 30: <b>J</b> - klub :
-  * <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 3: na " rozbití " Země je zapotřebí 10 33 <b>J</b> ) .
-* M
-  * <tt><a href="cs-pos-PROPN.html">PROPN</a></tt> 244: Příchod Nového roku oslaví <b>M</b> . Gorbačov v Moskvě .
-  * <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 51: " Nesnesu soucit , " řekla mi na rozloučenou Jana <b>M</b> .
-  * <tt><a href="cs-pos-X.html">X</a></tt> 3: Nenápadný půvab <b>M</b> . A . S . H .
-  * <tt><a href="cs-pos-ADJ.html">ADJ</a></tt> 1: Známá je již předskokanka R . E . <b>M</b> . , kteří se objeví ve Sportovní hale 26 . března příštího roku .
-* V
-  * <tt><a href="cs-pos-ADP.html">ADP</a></tt> 3736: <b>V</b> mnoha směrech dochází k obratu .
-  * <tt><a href="cs-pos-PROPN.html">PROPN</a></tt> 210: Vystoupí <b>V</b> . Havel v televizi ?
-  * <tt><a href="cs-pos-NUM.html">NUM</a></tt> 23: ALEŠ <b>V</b> .
-  * <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 15: R . <b>V</b> .
-  * <tt><a href="cs-pos-ADJ.html">ADJ</a></tt> 6: Cook ( <b>V</b> . Brit . ) 1 : 58 : 44 , 2 .
-  * <tt><a href="cs-pos-ADV.html">ADV</a></tt> 2: S <b>V</b> . I . P . prostory však prý byla na obou stadionech spokojenost . . .
-* A
-  * <tt><a href="cs-pos-CCONJ.html">CCONJ</a></tt> 1042: <b>A</b> skutečně přišel s návrhem na zjednodušený model řízení .
-  * <tt><a href="cs-pos-PROPN.html">PROPN</a></tt> 172: Přenosová rychlost : ( <b>A</b> 4 / sec ) 12
-  * <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 93: Buďte <b>A</b> , B paty kolmic spuštěných z bodů <b>A</b> , B na přímku q .
-  * <tt><a href="cs-pos-ADJ.html">ADJ</a></tt> 19: <b>A</b> O Travel se srazit nedala
-  * <tt><a href="cs-pos-X.html">X</a></tt> 4: Nenápadný půvab M . <b>A</b> . S . H .
-* Rusko
-  * <tt><a href="cs-pos-PROPN.html">PROPN</a></tt> 163: <b>Rusko</b> oficiálně uznaly i Japonsko a Řecko .
-  * <tt><a href="cs-pos-ADJ.html">ADJ</a></tt> 3: <b>Rusko</b> - lotyšské rozhovory o stažení jednotek bývalé sovětské armády skončilo ve středu v lotyšském letovisku Jurmala .
-* Německo
-  * <tt><a href="cs-pos-PROPN.html">PROPN</a></tt> 144: Dnešní <b>Německo</b> : víme - nevíme
-  * <tt><a href="cs-pos-ADJ.html">ADJ</a></tt> 2: <b>Německo</b> - českou péčí vznikla letos v létě v Jihlavě zajímavá muzejní expozice : objevně si všímá mládí skladatele a dirigenta Gustava Mahlera .
-* P
-  * <tt><a href="cs-pos-PROPN.html">PROPN</a></tt> 136: <b>P</b> . L . , Ostrava
-  * <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 124: S V . I . <b>P</b> . prostory však prý byla na obou stadionech spokojenost . . .
-  * <tt><a href="cs-pos-ADJ.html">ADJ</a></tt> 17: Velký úspěch má v poslední době také program S . <b>P</b> . Z .
-  * <tt><a href="cs-pos-ADP.html">ADP</a></tt> 1: <b>P</b> . S .
-* S
-  * <tt><a href="cs-pos-ADP.html">ADP</a></tt> 470: <b>S</b> velkou pravděpodobností u jednoho pobytu naše spolupráce neskončila .
-  * <tt><a href="cs-pos-PROPN.html">PROPN</a></tt> 117: P . <b>S</b> . : Souhlasím .
-  * <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 38: Buď <b>S</b> bod v němž k tomuto rozlomení dochází ( viz obr . 9 ) .
-  * <tt><a href="cs-pos-ADJ.html">ADJ</a></tt> 14: Velký úspěch má v poslední době také program <b>S</b> . P . Z .
-  * <tt><a href="cs-pos-X.html">X</a></tt> 3: Nenápadný půvab M . A . <b>S</b> . H .
-* r
-  * <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 433: Skutečnost <b>r</b> . 1992
-  * <tt><a href="cs-pos-ADV.html">ADV</a></tt> 1: Uwe Fink z Arizonské univerzity zkoumal spektra Yamakovy komety ( 1988 <b>r</b> ) a zjistil , že prakticky neobsahuje molekulární uhlík a kyan , čímž se výrazně liší od běžných komet .
-  * <tt><a href="cs-pos-PROPN.html">PROPN</a></tt> 1: ( <b>r</b> ) ( ČT 1 - 20.30 )
-* F
-  * <tt><a href="cs-pos-PROPN.html">PROPN</a></tt> 99: <b>F</b> . Castro : Za kubánský exodus nesou vinu Spojené státy
-  * <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 27: Mansell se vrací do <b>F</b> 1
-  * <tt><a href="cs-pos-ADJ.html">ADJ</a></tt> 10: <b>F</b> - INVEST se stal majitelem Fosfy
+* <em>J</em>
+  * <tt><a href="cs-pos-PROPN.html">PROPN</a></tt> 422: <em><b>J</b> . Vachek , Praha</em>
+  * <tt><a href="cs-pos-ADJ.html">ADJ</a></tt> 30: <em><b>J</b> - klub :</em>
+  * <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 3: <em>na " rozbití " Země je zapotřebí 10 33 <b>J</b> ) .</em>
+* <em>M</em>
+  * <tt><a href="cs-pos-PROPN.html">PROPN</a></tt> 244: <em>Příchod Nového roku oslaví <b>M</b> . Gorbačov v Moskvě .</em>
+  * <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 51: <em>" Nesnesu soucit , " řekla mi na rozloučenou Jana <b>M</b> .</em>
+  * <tt><a href="cs-pos-X.html">X</a></tt> 3: <em>Nenápadný půvab <b>M</b> . A . S . H .</em>
+  * <tt><a href="cs-pos-ADJ.html">ADJ</a></tt> 1: <em>Známá je již předskokanka R . E . <b>M</b> . , kteří se objeví ve Sportovní hale 26 . března příštího roku .</em>
+* <em>V</em>
+  * <tt><a href="cs-pos-ADP.html">ADP</a></tt> 3736: <em><b>V</b> mnoha směrech dochází k obratu .</em>
+  * <tt><a href="cs-pos-PROPN.html">PROPN</a></tt> 210: <em>Vystoupí <b>V</b> . Havel v televizi ?</em>
+  * <tt><a href="cs-pos-NUM.html">NUM</a></tt> 23: <em>ALEŠ <b>V</b> .</em>
+  * <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 15: <em>R . <b>V</b> .</em>
+  * <tt><a href="cs-pos-ADJ.html">ADJ</a></tt> 6: <em>Cook ( <b>V</b> . Brit . ) 1 : 58 : 44 , 2 .</em>
+  * <tt><a href="cs-pos-ADV.html">ADV</a></tt> 2: <em>S <b>V</b> . I . P . prostory však prý byla na obou stadionech spokojenost . . .</em>
+* <em>A</em>
+  * <tt><a href="cs-pos-CCONJ.html">CCONJ</a></tt> 1042: <em><b>A</b> skutečně přišel s návrhem na zjednodušený model řízení .</em>
+  * <tt><a href="cs-pos-PROPN.html">PROPN</a></tt> 172: <em>Přenosová rychlost : ( <b>A</b> 4 / sec ) 12</em>
+  * <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 93: <em>Buďte <b>A</b> , B paty kolmic spuštěných z bodů <b>A</b> , B na přímku q .</em>
+  * <tt><a href="cs-pos-ADJ.html">ADJ</a></tt> 19: <em><b>A</b> O Travel se srazit nedala</em>
+  * <tt><a href="cs-pos-X.html">X</a></tt> 4: <em>Nenápadný půvab M . <b>A</b> . S . H .</em>
+* <em>Rusko</em>
+  * <tt><a href="cs-pos-PROPN.html">PROPN</a></tt> 163: <em><b>Rusko</b> oficiálně uznaly i Japonsko a Řecko .</em>
+  * <tt><a href="cs-pos-ADJ.html">ADJ</a></tt> 3: <em><b>Rusko</b> - lotyšské rozhovory o stažení jednotek bývalé sovětské armády skončilo ve středu v lotyšském letovisku Jurmala .</em>
+* <em>Německo</em>
+  * <tt><a href="cs-pos-PROPN.html">PROPN</a></tt> 144: <em>Dnešní <b>Německo</b> : víme - nevíme</em>
+  * <tt><a href="cs-pos-ADJ.html">ADJ</a></tt> 2: <em><b>Německo</b> - českou péčí vznikla letos v létě v Jihlavě zajímavá muzejní expozice : objevně si všímá mládí skladatele a dirigenta Gustava Mahlera .</em>
+* <em>P</em>
+  * <tt><a href="cs-pos-PROPN.html">PROPN</a></tt> 136: <em><b>P</b> . L . , Ostrava</em>
+  * <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 124: <em>S V . I . <b>P</b> . prostory však prý byla na obou stadionech spokojenost . . .</em>
+  * <tt><a href="cs-pos-ADJ.html">ADJ</a></tt> 17: <em>Velký úspěch má v poslední době také program S . <b>P</b> . Z .</em>
+  * <tt><a href="cs-pos-ADP.html">ADP</a></tt> 1: <em><b>P</b> . S .</em>
+* <em>S</em>
+  * <tt><a href="cs-pos-ADP.html">ADP</a></tt> 470: <em><b>S</b> velkou pravděpodobností u jednoho pobytu naše spolupráce neskončila .</em>
+  * <tt><a href="cs-pos-PROPN.html">PROPN</a></tt> 117: <em>P . <b>S</b> . : Souhlasím .</em>
+  * <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 38: <em>Buď <b>S</b> bod v němž k tomuto rozlomení dochází ( viz obr . 9 ) .</em>
+  * <tt><a href="cs-pos-ADJ.html">ADJ</a></tt> 14: <em>Velký úspěch má v poslední době také program <b>S</b> . P . Z .</em>
+  * <tt><a href="cs-pos-X.html">X</a></tt> 3: <em>Nenápadný půvab M . A . <b>S</b> . H .</em>
+* <em>r</em>
+  * <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 433: <em>Skutečnost <b>r</b> . 1992</em>
+  * <tt><a href="cs-pos-ADV.html">ADV</a></tt> 1: <em>Uwe Fink z Arizonské univerzity zkoumal spektra Yamakovy komety ( 1988 <b>r</b> ) a zjistil , že prakticky neobsahuje molekulární uhlík a kyan , čímž se výrazně liší od běžných komet .</em>
+  * <tt><a href="cs-pos-PROPN.html">PROPN</a></tt> 1: <em>( <b>r</b> ) ( ČT 1 - 20.30 )</em>
+* <em>F</em>
+  * <tt><a href="cs-pos-PROPN.html">PROPN</a></tt> 99: <em><b>F</b> . Castro : Za kubánský exodus nesou vinu Spojené státy</em>
+  * <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 27: <em>Mansell se vrací do <b>F</b> 1</em>
+  * <tt><a href="cs-pos-ADJ.html">ADJ</a></tt> 10: <em><b>F</b> - INVEST se stal majitelem Fosfy</em>
 
 ## Morphology
 
 The form / lemma ratio of `PROPN` is 1.440457 (the average of all parts of speech is 2.181849).
 
-The 1st highest number of forms (11) was observed with the lemma “Čech”: ČECH, ČEŠI, Čech, Čecha, Čechem, Čechovi, Čechy, Čechů, Čechům, Češi, Češích.
+The 1st highest number of forms (11) was observed with the lemma “Čech”: <em>ČECH, ČEŠI, Čech, Čecha, Čechem, Čechovi, Čechy, Čechů, Čechům, Češi, Češích</em>.
 
-The 2nd highest number of forms (10) was observed with the lemma “Jan”: JAN, JANA, Jan, Jana, Janem, Janovi, Janové, Janu, Jany, Janů.
+The 2nd highest number of forms (10) was observed with the lemma “Jan”: <em>JAN, JANA, Jan, Jana, Janem, Janovi, Janové, Janu, Jany, Janů</em>.
 
-The 3rd highest number of forms (10) was observed with the lemma “Němec”: NĚMCI, NĚMCŮ, NĚMEC, Němce, Němcem, Němci, Němcích, Němců, Němcům, Němec.
+The 3rd highest number of forms (10) was observed with the lemma “Němec”: <em>NĚMCI, NĚMCŮ, NĚMEC, Němce, Němcem, Němci, Němcích, Němců, Němcům, Němec</em>.
 
 `PROPN` occurs with 9 features: <tt><a href="cs-feat-NameType.html">NameType</a></tt> (84031; 100% instances), <tt><a href="cs-feat-Polarity.html">Polarity</a></tt> (84031; 100% instances), <tt><a href="cs-feat-Gender.html">Gender</a></tt> (82083; 98% instances), <tt><a href="cs-feat-Number.html">Number</a></tt> (68761; 82% instances), <tt><a href="cs-feat-Case.html">Case</a></tt> (66478; 79% instances), <tt><a href="cs-feat-Animacy.html">Animacy</a></tt> (48949; 58% instances), <tt><a href="cs-feat-Abbr.html">Abbr</a></tt> (13042; 16% instances), <tt><a href="cs-feat-Foreign.html">Foreign</a></tt> (3684; 4% instances), <tt><a href="cs-feat-Style.html">Style</a></tt> (155; 0% instances)
 
@@ -82,7 +82,7 @@ The 3rd highest number of forms (10) was observed with the lemma “Němec”: N
 
 `PROPN` occurs with 613 feature combinations.
 The most frequent feature combination is `Animacy=Anim|Case=Nom|Gender=Masc|NameType=Sur|Number=Sing|Polarity=Pos` (14098 tokens).
-Examples: Klaus Havel Svoboda Mečiar Jelcin John Zeman Němec Novák Benda
+Examples: <em>Klaus, Havel, Svoboda, Mečiar, Jelcin, John, Zeman, Němec, Novák, Benda</em>
 
 
 ## Relations

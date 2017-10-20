@@ -9,39 +9,39 @@ udver: '2'
 There are 12 `PART` lemmas (0%), 12 `PART` types (0%) and 56 `PART` tokens (0%).
 Out of 15 observed tags, the rank of `PART` is: 13 in number of lemmas, 14 in number of types and 14 in number of tokens.
 
-The 10 most frequent `PART` lemmas: jen až asi ne bohužel jenom ovšem snad vůbec ať
+The 10 most frequent `PART` lemmas: <em>jen, až, asi, ne, bohužel, jenom, ovšem, snad, vůbec, ať</em>
 
-The 10 most frequent `PART` types:  jen až asi ne Bohužel jenom ovšem snad vůbec Koneckonců
+The 10 most frequent `PART` types:  <em>jen, až, asi, ne, Bohužel, jenom, ovšem, snad, vůbec, Koneckonců</em>
 
-The 10 most frequent ambiguous lemmas: jen (<tt><a href="cs_pud-pos-PART.html">PART</a></tt> 16, <tt><a href="cs_pud-pos-ADV.html">ADV</a></tt> 3), až (<tt><a href="cs_pud-pos-PART.html">PART</a></tt> 12, <tt><a href="cs_pud-pos-CCONJ.html">CCONJ</a></tt> 7, <tt><a href="cs_pud-pos-SCONJ.html">SCONJ</a></tt> 2, <tt><a href="cs_pud-pos-ADV.html">ADV</a></tt> 1), ovšem (<tt><a href="cs_pud-pos-CCONJ.html">CCONJ</a></tt> 4, <tt><a href="cs_pud-pos-PART.html">PART</a></tt> 2), ať (<tt><a href="cs_pud-pos-SCONJ.html">SCONJ</a></tt> 3, <tt><a href="cs_pud-pos-PART.html">PART</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>jen</em> (<tt><a href="cs_pud-pos-PART.html">PART</a></tt> 16, <tt><a href="cs_pud-pos-ADV.html">ADV</a></tt> 3), <em>až</em> (<tt><a href="cs_pud-pos-PART.html">PART</a></tt> 12, <tt><a href="cs_pud-pos-CCONJ.html">CCONJ</a></tt> 7, <tt><a href="cs_pud-pos-SCONJ.html">SCONJ</a></tt> 2, <tt><a href="cs_pud-pos-ADV.html">ADV</a></tt> 1), <em>ovšem</em> (<tt><a href="cs_pud-pos-CCONJ.html">CCONJ</a></tt> 4, <tt><a href="cs_pud-pos-PART.html">PART</a></tt> 2), <em>ať</em> (<tt><a href="cs_pud-pos-SCONJ.html">SCONJ</a></tt> 3, <tt><a href="cs_pud-pos-PART.html">PART</a></tt> 1)
 
-The 10 most frequent ambiguous types:  jen (<tt><a href="cs_pud-pos-PART.html">PART</a></tt> 13, <tt><a href="cs_pud-pos-ADV.html">ADV</a></tt> 3), až (<tt><a href="cs_pud-pos-PART.html">PART</a></tt> 11, <tt><a href="cs_pud-pos-CCONJ.html">CCONJ</a></tt> 7, <tt><a href="cs_pud-pos-SCONJ.html">SCONJ</a></tt> 2, <tt><a href="cs_pud-pos-ADV.html">ADV</a></tt> 1), ovšem (<tt><a href="cs_pud-pos-PART.html">PART</a></tt> 2, <tt><a href="cs_pud-pos-CCONJ.html">CCONJ</a></tt> 1), ať (<tt><a href="cs_pud-pos-SCONJ.html">SCONJ</a></tt> 2, <tt><a href="cs_pud-pos-PART.html">PART</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>jen</em> (<tt><a href="cs_pud-pos-PART.html">PART</a></tt> 13, <tt><a href="cs_pud-pos-ADV.html">ADV</a></tt> 3), <em>až</em> (<tt><a href="cs_pud-pos-PART.html">PART</a></tt> 11, <tt><a href="cs_pud-pos-CCONJ.html">CCONJ</a></tt> 7, <tt><a href="cs_pud-pos-SCONJ.html">SCONJ</a></tt> 2, <tt><a href="cs_pud-pos-ADV.html">ADV</a></tt> 1), <em>ovšem</em> (<tt><a href="cs_pud-pos-PART.html">PART</a></tt> 2, <tt><a href="cs_pud-pos-CCONJ.html">CCONJ</a></tt> 1), <em>ať</em> (<tt><a href="cs_pud-pos-SCONJ.html">SCONJ</a></tt> 2, <tt><a href="cs_pud-pos-PART.html">PART</a></tt> 1)
 
 
-* jen
-  * <tt><a href="cs_pud-pos-PART.html">PART</a></tt> 13: Se svým životem mohu dělat <b>jen</b> tohle .
-  * <tt><a href="cs_pud-pos-ADV.html">ADV</a></tt> 3: Kühn může <b>jen</b> kroutit hlavou .
-* až
-  * <tt><a href="cs_pud-pos-PART.html">PART</a></tt> 11: Co se týká barvy , listy vykazují velkou rozmanitost zelených odstínů od žlutavých <b>až</b> po modravé .
-  * <tt><a href="cs_pud-pos-CCONJ.html">CCONJ</a></tt> 7: Mezi lety 1991 <b>až</b> 1997 vedla školu pro děti s poruchami učení .
-  * <tt><a href="cs_pud-pos-SCONJ.html">SCONJ</a></tt> 2: Současně s růstem města Brisbane se kvalita vody v řece zhoršovala , <b>až</b> se z ní v nejhorších obdobích stala doslova otevřená stoka a smetiště .
-  * <tt><a href="cs_pud-pos-ADV.html">ADV</a></tt> 1: Wilks byl znovu zvolen a dvakrát vypovězen , <b>až</b> sněmovna rozhodla , že je Wilksova kandidatura neplatná , a jako vítěze uznala kandidáta , který byl v pořadí za ním .
-* ovšem
-  * <tt><a href="cs_pud-pos-PART.html">PART</a></tt> 2: Každá z vystavených map vypráví svůj příběh , který se <b>ovšem</b> ne vždy skutečně stal .
-  * <tt><a href="cs_pud-pos-CCONJ.html">CCONJ</a></tt> 1: „ V tomto procesu předávání moci se ve Spojených Státech mnoho děje poprvé , což se týká především digitálních prostředků , <b>ovšem</b> poklidnost předávání moci je tradiční , “ napsala Obamova zvláštní asistentka Kori Schulman v pondělí ve svém blogu .
-* ať
-  * <tt><a href="cs_pud-pos-SCONJ.html">SCONJ</a></tt> 2: Trudeau takto pozve 45 . prezidenta Spojených států , <b>ať</b> jím bude kdokoliv .
-  * <tt><a href="cs_pud-pos-PART.html">PART</a></tt> 1: Ale když mu Senát konečně odpověděl tím , že zakázal jeho soutěžení v konzulátu a dal mu na vybranou buď stáhnout své vojáky , nebo se stát veřejným nepřítelem , pochopil , že <b>ať</b> si vybere jakoukoli možnost , měl by se vzdát neozbrojený do rukou svých politických nepřátel .
+* <em>jen</em>
+  * <tt><a href="cs_pud-pos-PART.html">PART</a></tt> 13: <em>Se svým životem mohu dělat <b>jen</b> tohle .</em>
+  * <tt><a href="cs_pud-pos-ADV.html">ADV</a></tt> 3: <em>Kühn může <b>jen</b> kroutit hlavou .</em>
+* <em>až</em>
+  * <tt><a href="cs_pud-pos-PART.html">PART</a></tt> 11: <em>Co se týká barvy , listy vykazují velkou rozmanitost zelených odstínů od žlutavých <b>až</b> po modravé .</em>
+  * <tt><a href="cs_pud-pos-CCONJ.html">CCONJ</a></tt> 7: <em>Mezi lety 1991 <b>až</b> 1997 vedla školu pro děti s poruchami učení .</em>
+  * <tt><a href="cs_pud-pos-SCONJ.html">SCONJ</a></tt> 2: <em>Současně s růstem města Brisbane se kvalita vody v řece zhoršovala , <b>až</b> se z ní v nejhorších obdobích stala doslova otevřená stoka a smetiště .</em>
+  * <tt><a href="cs_pud-pos-ADV.html">ADV</a></tt> 1: <em>Wilks byl znovu zvolen a dvakrát vypovězen , <b>až</b> sněmovna rozhodla , že je Wilksova kandidatura neplatná , a jako vítěze uznala kandidáta , který byl v pořadí za ním .</em>
+* <em>ovšem</em>
+  * <tt><a href="cs_pud-pos-PART.html">PART</a></tt> 2: <em>Každá z vystavených map vypráví svůj příběh , který se <b>ovšem</b> ne vždy skutečně stal .</em>
+  * <tt><a href="cs_pud-pos-CCONJ.html">CCONJ</a></tt> 1: <em>„ V tomto procesu předávání moci se ve Spojených Státech mnoho děje poprvé , což se týká především digitálních prostředků , <b>ovšem</b> poklidnost předávání moci je tradiční , “ napsala Obamova zvláštní asistentka Kori Schulman v pondělí ve svém blogu .</em>
+* <em>ať</em>
+  * <tt><a href="cs_pud-pos-SCONJ.html">SCONJ</a></tt> 2: <em>Trudeau takto pozve 45 . prezidenta Spojených států , <b>ať</b> jím bude kdokoliv .</em>
+  * <tt><a href="cs_pud-pos-PART.html">PART</a></tt> 1: <em>Ale když mu Senát konečně odpověděl tím , že zakázal jeho soutěžení v konzulátu a dal mu na vybranou buď stáhnout své vojáky , nebo se stát veřejným nepřítelem , pochopil , že <b>ať</b> si vybere jakoukoli možnost , měl by se vzdát neozbrojený do rukou svých politických nepřátel .</em>
 
 ## Morphology
 
 The form / lemma ratio of `PART` is 1.000000 (the average of all parts of speech is 1.427558).
 
-The 1st highest number of forms (1) was observed with the lemma “asi”: asi.
+The 1st highest number of forms (1) was observed with the lemma “asi”: <em>asi</em>.
 
-The 2nd highest number of forms (1) was observed with the lemma “ať”: ať.
+The 2nd highest number of forms (1) was observed with the lemma “ať”: <em>ať</em>.
 
-The 3rd highest number of forms (1) was observed with the lemma “až”: až.
+The 3rd highest number of forms (1) was observed with the lemma “až”: <em>až</em>.
 
 `PART` does not occur with any features.
 

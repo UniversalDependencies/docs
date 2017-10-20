@@ -22,8 +22,8 @@ The most frequent other feature values with which `VERB` and `Voice` co-occurred
 
 `VERB` tokens may have the following values of `Voice`:
 
-* `Act` (32524; 100% of non-empty `Voice`): je má mají musí může jde lze jsou mohou můžeme
-* `EMPTY` (8066): mít být zajistit říci vidět dělat řešit věnovat použít provádět
+* `Act` (32524; 100% of non-empty `Voice`): <em>je, má, mají, musí, může, jde, lze, jsou, mohou, můžeme</em>
+* `EMPTY` (8066): <em>mít, být, zajistit, říci, vidět, dělat, řešit, věnovat, použít, provádět</em>
 
 `Voice` seems to be **lexical feature** of `VERB`. 100% lemmas (3268) occur only with one value of `Voice`.
 
@@ -35,8 +35,8 @@ The most frequent other feature values with which `AUX` and `Voice` co-occurred:
 
 `AUX` tokens may have the following values of `Voice`:
 
-* `Act` (11531; 100% of non-empty `Voice`): je jsou bude byl bylo byla jsme není byly jsem
-* `EMPTY` (2713): by být bychom bych byste býti buď budiž bys buďme
+* `Act` (11531; 100% of non-empty `Voice`): <em>je, jsou, bude, byl, bylo, byla, jsme, není, byly, jsem</em>
+* `EMPTY` (2713): <em>by, být, bychom, bych, byste, býti, buď, budiž, bys, buďme</em>
 
 ### `ADJ`
 
@@ -46,9 +46,9 @@ The most frequent other feature values with which `ADJ` and `Voice` co-occurred:
 
 `ADJ` tokens may have the following values of `Voice`:
 
-* `Act` (2143; 33% of non-empty `Voice`): pracujících rozhodující pracující vedoucí odpovídající následující řídící týkající vyplývající rostoucí
-* `Pass` (4266; 67% of non-empty `Voice`): řečeno dosaženo věnována dána provedena uvedeny určena určeny splněny zahájena
-* `EMPTY` (68385): další pracovní první jednotlivých základní nové možno socialistické různých každý
+* `Act` (2143; 33% of non-empty `Voice`): <em>pracujících, rozhodující, pracující, vedoucí, odpovídající, následující, řídící, týkající, vyplývající, rostoucí</em>
+* `Pass` (4266; 67% of non-empty `Voice`): <em>řečeno, dosaženo, věnována, dána, provedena, uvedeny, určena, určeny, splněny, zahájena</em>
+* `EMPTY` (68385): <em>další, pracovní, první, jednotlivých, základní, nové, možno, socialistické, různých, každý</em>
 
 `Voice` seems to be **lexical feature** of `ADJ`. 100% lemmas (1597) occur only with one value of `Voice`.
 

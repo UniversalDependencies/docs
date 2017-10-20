@@ -57,34 +57,19 @@ The following 5 pairs of parts of speech are connected with `expl:pass`: <tt><a 
 
 
 ~~~ conllu
-# visual-style 11	bgColor:blue
-# visual-style 11	fgColor:white
-# visual-style 12	bgColor:blue
-# visual-style 12	fgColor:white
-# visual-style 12 11 expl:pass	color:blue
-1	Keramické	keramický	ADJ	AAFP1----1A----	Case=Nom|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Pos	2	amod	_	_
-2	dlaždice	dlaždice	NOUN	NNFP1-----A----	Case=Nom|Gender=Fem|Number=Plur|Polarity=Pos	5	nsubj:pass	_	_
-3	jemnozrnné	jemnozrnný	ADJ	AAFP1----1A----	Case=Nom|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Pos	2	amod	_	_
-4	se	se	PRON	P7-X4----------	Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short	5	expl:pass	_	LGloss=(zvr._zájmeno/částice)
-5	vyrábějí	vyrábět	VERB	VB-P---3P-AA---	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-6	z	z	ADP	RR--2----------	AdpType=Prep|Case=Gen	7	case	_	LId=z-1
-7	jílů	jíl	NOUN	NNIP2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur|Polarity=Pos	5	obj	_	_
-8	bíle	bíle	ADV	Dg-------1A----	Degree=Pos|Polarity=Pos	12	advmod	_	LDeriv=bílý
-9	nebo	nebo	CCONJ	J^-------------	_	10	cc	_	_
-10	barevně	barevně	ADV	Dg-------1A----	Degree=Pos|Polarity=Pos	8	conj	_	LDeriv=barevný
-11	se	se	PRON	P7-X4----------	Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short	12	expl:pass	_	LGloss=(zvr._zájmeno/částice)
-12	pálících	pálící	ADJ	AGIP2-----A----	Animacy=Inan|Aspect=Imp|Case=Gen|Gender=Masc|Number=Plur|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Act	7	amod	_	SpaceAfter=No|LDeriv=pálit
-13	,	,	PUNCT	Z:-------------	_	15	punct	_	_
-14	dalšími	další	ADJ	AAFP7----1A----	Case=Ins|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Pos	15	amod	_	_
-15	složkami	složka	NOUN	NNFP7-----A----	Case=Ins|Gender=Fem|Number=Plur|Polarity=Pos	5	conj	_	_
-16	jsou	být	AUX	VB-P---3P-AA---	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	15	cop	_	_
-17	kaolínové	kaolínový	ADJ	AAFP1----1A----	Case=Nom|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Pos	18	amod	_	_
-18	suroviny	surovina	NOUN	NNFP1-----A----	Case=Nom|Gender=Fem|Number=Plur|Polarity=Pos	15	nsubj	_	SpaceAfter=No
-19	,	,	PUNCT	Z:-------------	_	20	punct	_	_
-20	taviva	tavivo	NOUN	NNNP1-----A----	Case=Nom|Gender=Neut|Number=Plur|Polarity=Pos	18	conj	_	_
-21	a	a	CCONJ	J^-------------	_	22	cc	_	LId=a-1
-22	barvy	barva	NOUN	NNFP1-----A----	Case=Nom|Gender=Fem|Number=Plur|Polarity=Pos	18	conj	_	SpaceAfter=No
-23	.	.	PUNCT	Z:-------------	_	5	punct	_	_
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 2 expl:pass	color:blue
+1	Smaží	smažit	VERB	VB-P---3P-AA---	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2	*	*	SYM	Xx-------------	Abbr=Yes	1	expl:pass	_	_
+3	do	do	ADP	RR--2----------	AdpType=Prep|Case=Gen	4	case	_	LId=do-1
+4	zlatova	zlatovo	NOUN	NNNS2-----A----	Case=Gen|Gender=Neut|Number=Sing|Polarity=Pos	1	obl	_	_
+5	na	na	ADP	RR--6----------	AdpType=Prep|Case=Loc	7	case	_	LId=na-1
+6	rozpáleném	rozpálený	ADJ	AAIS6----1A----	Animacy=Inan|Case=Loc|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos	7	amod	_	LDeriv=rozpálit
+7	*	*	SYM	Xx-------------	Abbr=Yes	1	advmod	_	_
+8	.	.	PUNCT	Z:-------------	_	1	punct	_	_
 
 ~~~
 

@@ -20,14 +20,14 @@ The feature is used with 1 part-of-speech tags: <tt><a href="cs_cltt-pos-ADP.htm
 
 `ADP` tokens may have the following values of `AdpType`:
 
-* `Comprep` (4; 0% of non-empty `AdpType`): vzhledem
-* `Prep` (3593; 91% of non-empty `AdpType`): v podle na o k s do za z pro
-* `Voc` (345; 9% of non-empty `AdpType`): ve ke se ze ode beze přede
+* `Comprep` (4; 0% of non-empty `AdpType`): <em>vzhledem</em>
+* `Prep` (3593; 91% of non-empty `AdpType`): <em>v, podle, na, o, k, s, do, za, z, pro</em>
+* `Voc` (345; 9% of non-empty `AdpType`): <em>ve, ke, se, ze, ode, beze, přede</em>
 
 <table>
   <tr><th>Paradigm <i>v</i></th><th><tt>Prep</tt></th><th><tt>Voc</tt></th></tr>
-  <tr><td><tt><tt><a href="cs_cltt-feat-Case.html">Case</a></tt><tt>=Acc</tt></tt></td><td>v</td><td>ve</td></tr>
-  <tr><td><tt><tt><a href="cs_cltt-feat-Case.html">Case</a></tt><tt>=Loc</tt></tt></td><td>v</td><td>ve</td></tr>
+  <tr><td><tt><tt><a href="cs_cltt-feat-Case.html">Case</a></tt><tt>=Acc</tt></tt></td><td><em>v</em></td><td><em>ve</em></td></tr>
+  <tr><td><tt><tt><a href="cs_cltt-feat-Case.html">Case</a></tt><tt>=Loc</tt></tt></td><td><em>v</em></td><td><em>ve</em></td></tr>
 </table>
 
 ## Relations with Agreement in `AdpType`

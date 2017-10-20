@@ -9,62 +9,62 @@ udver: '2'
 There are 44 `CCONJ` lemmas (0%), 47 `CCONJ` types (0%) and 56857 `CCONJ` tokens (4%).
 Out of 17 observed tags, the rank of `CCONJ` is: 13 in number of lemmas, 13 in number of types and 8 in number of tokens.
 
-The 10 most frequent `CCONJ` lemmas: a i ale však nebo ani či proto až ovšem
+The 10 most frequent `CCONJ` lemmas: <em>a, i, ale, však, nebo, ani, či, proto, až, ovšem</em>
 
-The 10 most frequent `CCONJ` types:  a i ale však nebo ani či proto až ovšem
+The 10 most frequent `CCONJ` types:  <em>a, i, ale, však, nebo, ani, či, proto, až, ovšem</em>
 
-The 10 most frequent ambiguous lemmas: a (<tt><a href="cs-pos-CCONJ.html">CCONJ</a></tt> 32110, <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 133, <tt><a href="cs-pos-ADJ.html">ADJ</a></tt> 15, <tt><a href="cs-pos-ADP.html">ADP</a></tt> 9, <tt><a href="cs-pos-X.html">X</a></tt> 4), i (<tt><a href="cs-pos-CCONJ.html">CCONJ</a></tt> 7804, <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 15, <tt><a href="cs-pos-PROPN.html">PROPN</a></tt> 2), proto (<tt><a href="cs-pos-CCONJ.html">CCONJ</a></tt> 950, <tt><a href="cs-pos-ADV.html">ADV</a></tt> 229), až (<tt><a href="cs-pos-PART.html">PART</a></tt> 1384, <tt><a href="cs-pos-CCONJ.html">CCONJ</a></tt> 639, <tt><a href="cs-pos-SCONJ.html">SCONJ</a></tt> 139), ovšem (<tt><a href="cs-pos-CCONJ.html">CCONJ</a></tt> 626, <tt><a href="cs-pos-PART.html">PART</a></tt> 42), tak (<tt><a href="cs-pos-ADV.html">ADV</a></tt> 2354, <tt><a href="cs-pos-CCONJ.html">CCONJ</a></tt> 389), jak (<tt><a href="cs-pos-ADV.html">ADV</a></tt> 1801, <tt><a href="cs-pos-SCONJ.html">SCONJ</a></tt> 399, <tt><a href="cs-pos-CCONJ.html">CCONJ</a></tt> 52, <tt><a href="cs-pos-PROPN.html">PROPN</a></tt> 5), plus (<tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 37, <tt><a href="cs-pos-CCONJ.html">CCONJ</a></tt> 16), alias (<tt><a href="cs-pos-CCONJ.html">CCONJ</a></tt> 6, <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 2), as (<tt><a href="cs-pos-CCONJ.html">CCONJ</a></tt> 4, <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="cs-pos-SCONJ.html">SCONJ</a></tt> 2)
+The 10 most frequent ambiguous lemmas: <em>a</em> (<tt><a href="cs-pos-CCONJ.html">CCONJ</a></tt> 32110, <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 133, <tt><a href="cs-pos-ADJ.html">ADJ</a></tt> 15, <tt><a href="cs-pos-ADP.html">ADP</a></tt> 9, <tt><a href="cs-pos-X.html">X</a></tt> 4), <em>i</em> (<tt><a href="cs-pos-CCONJ.html">CCONJ</a></tt> 7804, <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 15, <tt><a href="cs-pos-PROPN.html">PROPN</a></tt> 2), <em>proto</em> (<tt><a href="cs-pos-CCONJ.html">CCONJ</a></tt> 950, <tt><a href="cs-pos-ADV.html">ADV</a></tt> 229), <em>až</em> (<tt><a href="cs-pos-PART.html">PART</a></tt> 1384, <tt><a href="cs-pos-CCONJ.html">CCONJ</a></tt> 639, <tt><a href="cs-pos-SCONJ.html">SCONJ</a></tt> 139), <em>ovšem</em> (<tt><a href="cs-pos-CCONJ.html">CCONJ</a></tt> 626, <tt><a href="cs-pos-PART.html">PART</a></tt> 42), <em>tak</em> (<tt><a href="cs-pos-ADV.html">ADV</a></tt> 2354, <tt><a href="cs-pos-CCONJ.html">CCONJ</a></tt> 389), <em>jak</em> (<tt><a href="cs-pos-ADV.html">ADV</a></tt> 1801, <tt><a href="cs-pos-SCONJ.html">SCONJ</a></tt> 399, <tt><a href="cs-pos-CCONJ.html">CCONJ</a></tt> 52, <tt><a href="cs-pos-PROPN.html">PROPN</a></tt> 5), <em>plus</em> (<tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 37, <tt><a href="cs-pos-CCONJ.html">CCONJ</a></tt> 16), <em>alias</em> (<tt><a href="cs-pos-CCONJ.html">CCONJ</a></tt> 6, <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 2), <em>as</em> (<tt><a href="cs-pos-CCONJ.html">CCONJ</a></tt> 4, <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="cs-pos-SCONJ.html">SCONJ</a></tt> 2)
 
-The 10 most frequent ambiguous types:  a (<tt><a href="cs-pos-CCONJ.html">CCONJ</a></tt> 31068, <tt><a href="cs-pos-ADJ.html">ADJ</a></tt> 183, <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 49, <tt><a href="cs-pos-ADP.html">ADP</a></tt> 7), i (<tt><a href="cs-pos-CCONJ.html">CCONJ</a></tt> 7339, <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 14, <tt><a href="cs-pos-PROPN.html">PROPN</a></tt> 2), proto (<tt><a href="cs-pos-CCONJ.html">CCONJ</a></tt> 655, <tt><a href="cs-pos-ADV.html">ADV</a></tt> 229), až (<tt><a href="cs-pos-PART.html">PART</a></tt> 1295, <tt><a href="cs-pos-CCONJ.html">CCONJ</a></tt> 639, <tt><a href="cs-pos-SCONJ.html">SCONJ</a></tt> 111), ovšem (<tt><a href="cs-pos-CCONJ.html">CCONJ</a></tt> 561, <tt><a href="cs-pos-PART.html">PART</a></tt> 42), tak (<tt><a href="cs-pos-ADV.html">ADV</a></tt> 2201, <tt><a href="cs-pos-CCONJ.html">CCONJ</a></tt> 358), buď (<tt><a href="cs-pos-CCONJ.html">CCONJ</a></tt> 112, <tt><a href="cs-pos-AUX.html">AUX</a></tt> 12, <tt><a href="cs-pos-VERB.html">VERB</a></tt> 1), and (<tt><a href="cs-pos-CCONJ.html">CCONJ</a></tt> 45, <tt><a href="cs-pos-PROPN.html">PROPN</a></tt> 2), jak (<tt><a href="cs-pos-ADV.html">ADV</a></tt> 1350, <tt><a href="cs-pos-SCONJ.html">SCONJ</a></tt> 222, <tt><a href="cs-pos-CCONJ.html">CCONJ</a></tt> 50, <tt><a href="cs-pos-PROPN.html">PROPN</a></tt> 5), plus (<tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 25, <tt><a href="cs-pos-CCONJ.html">CCONJ</a></tt> 16)
+The 10 most frequent ambiguous types:  <em>a</em> (<tt><a href="cs-pos-CCONJ.html">CCONJ</a></tt> 31068, <tt><a href="cs-pos-ADJ.html">ADJ</a></tt> 183, <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 49, <tt><a href="cs-pos-ADP.html">ADP</a></tt> 7), <em>i</em> (<tt><a href="cs-pos-CCONJ.html">CCONJ</a></tt> 7339, <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 14, <tt><a href="cs-pos-PROPN.html">PROPN</a></tt> 2), <em>proto</em> (<tt><a href="cs-pos-CCONJ.html">CCONJ</a></tt> 655, <tt><a href="cs-pos-ADV.html">ADV</a></tt> 229), <em>až</em> (<tt><a href="cs-pos-PART.html">PART</a></tt> 1295, <tt><a href="cs-pos-CCONJ.html">CCONJ</a></tt> 639, <tt><a href="cs-pos-SCONJ.html">SCONJ</a></tt> 111), <em>ovšem</em> (<tt><a href="cs-pos-CCONJ.html">CCONJ</a></tt> 561, <tt><a href="cs-pos-PART.html">PART</a></tt> 42), <em>tak</em> (<tt><a href="cs-pos-ADV.html">ADV</a></tt> 2201, <tt><a href="cs-pos-CCONJ.html">CCONJ</a></tt> 358), <em>buď</em> (<tt><a href="cs-pos-CCONJ.html">CCONJ</a></tt> 112, <tt><a href="cs-pos-AUX.html">AUX</a></tt> 12, <tt><a href="cs-pos-VERB.html">VERB</a></tt> 1), <em>and</em> (<tt><a href="cs-pos-CCONJ.html">CCONJ</a></tt> 45, <tt><a href="cs-pos-PROPN.html">PROPN</a></tt> 2), <em>jak</em> (<tt><a href="cs-pos-ADV.html">ADV</a></tt> 1350, <tt><a href="cs-pos-SCONJ.html">SCONJ</a></tt> 222, <tt><a href="cs-pos-CCONJ.html">CCONJ</a></tt> 50, <tt><a href="cs-pos-PROPN.html">PROPN</a></tt> 5), <em>plus</em> (<tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 25, <tt><a href="cs-pos-CCONJ.html">CCONJ</a></tt> 16)
 
 
-* a
-  * <tt><a href="cs-pos-CCONJ.html">CCONJ</a></tt> 31068: Zvedněte telefon <b>a</b> zavolejte .
-  * <tt><a href="cs-pos-ADJ.html">ADJ</a></tt> 183: <b>a</b> . s . Malostranské nám . 2 118 00 Praha 1 Tel . / fax : 684 62 55
-  * <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 49: Ušetříte téměř 90 % proti variantě <b>a</b> ) .
-  * <tt><a href="cs-pos-ADP.html">ADP</a></tt> 7: " Všichni chtěli kopírovat trend <b>a</b> la Boris Korbel , kdy se do přestupů vrážely obrovské částky , a projevuje se to dodnes , " dodává manažer FC Boby Brno .
-* i
-  * <tt><a href="cs-pos-CCONJ.html">CCONJ</a></tt> 7339: Poplatek v sobě zahrnuje <b>i</b> obědy a společenský koktejl .
-  * <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 14: U článku o Hondě Legend byla zaměněna fotografie s Roverem 214 <b>i</b> .
-  * <tt><a href="cs-pos-PROPN.html">PROPN</a></tt> 2: Zdvojnásobení zisku očekává v tomto roce Koh - <b>i</b> - noor Hardtmuth České Budějovice .
-* proto
-  * <tt><a href="cs-pos-CCONJ.html">CCONJ</a></tt> 655: Chci uzavřít pojištění a dostal jsem <b>proto</b> k vyplnění dotazník .
-  * <tt><a href="cs-pos-ADV.html">ADV</a></tt> 229: Zajímalo nás <b>proto</b> , jak jsou s pomocí expertů spokojeni .
-* až
-  * <tt><a href="cs-pos-PART.html">PART</a></tt> 1295: Možnost opakovaného vysílání z paměti automaticky <b>až</b> na 53 adresátů .
-  * <tt><a href="cs-pos-CCONJ.html">CCONJ</a></tt> 639: Řekl bych , že může se pohybovat od deseti <b>až</b> do osmdesáti procent .
-  * <tt><a href="cs-pos-SCONJ.html">SCONJ</a></tt> 111: V bytě máte příjemných 24 ° C , i když venku mrzne , <b>až</b> praští .
-* ovšem
-  * <tt><a href="cs-pos-CCONJ.html">CCONJ</a></tt> 561: Nejzdařilejší <b>ovšem</b> byl neostalinský pokus o puč .
-  * <tt><a href="cs-pos-PART.html">PART</a></tt> 42: M . Stoniš píše , že ministr <b>ovšem</b> učinil jedině možné rozhodnutí .
-* tak
-  * <tt><a href="cs-pos-ADV.html">ADV</a></tt> 2201: Tuna <b>tak</b> vyjde na 160 Kč , nemluvě o poplatcích dalších .
-  * <tt><a href="cs-pos-CCONJ.html">CCONJ</a></tt> 358: Jak v New Jersey , <b>tak</b> později v Edmontonu , kam jsem byl vytrejdován .
-* buď
-  * <tt><a href="cs-pos-CCONJ.html">CCONJ</a></tt> 112: New Jersey začnou na svém ledě <b>buď</b> proti Montrealu , nebo Bostonu .
-  * <tt><a href="cs-pos-AUX.html">AUX</a></tt> 12: Buď s souběžka p v bodě P , <b>buď</b> Q bod ležící na přímce s .
-  * <tt><a href="cs-pos-VERB.html">VERB</a></tt> 1: Říci bytí , panující <b>buď</b> !
-* and
-  * <tt><a href="cs-pos-CCONJ.html">CCONJ</a></tt> 45: / Einstein , Realism , <b>and</b> the Quantum Theory /
-  * <tt><a href="cs-pos-PROPN.html">PROPN</a></tt> 2: Olomouc ( <b>and</b> , pet ) -
-* jak
-  * <tt><a href="cs-pos-ADV.html">ADV</a></tt> 1350: Zajímalo nás proto , <b>jak</b> jsou s pomocí expertů spokojeni .
-  * <tt><a href="cs-pos-SCONJ.html">SCONJ</a></tt> 222: A <b>jak</b> dosáhnout kdysi slibovaného vzestupu ?
-  * <tt><a href="cs-pos-CCONJ.html">CCONJ</a></tt> 50: Mezi diktátorovými ctiteli byli <b>jak</b> staří , tak mladí lidé .
-  * <tt><a href="cs-pos-PROPN.html">PROPN</a></tt> 5: BRNO ( <b>jak</b> ) -
-* plus
-  * <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 25: Poloha na okraji vesnice je samozřejmě <b>plus</b> .
-  * <tt><a href="cs-pos-CCONJ.html">CCONJ</a></tt> 16: Zkrátka nepřichází ani nukleární výzkum ( zvýšení o 7 % ) , ani letectví ( <b>plus</b> 6.2 % ) .
+* <em>a</em>
+  * <tt><a href="cs-pos-CCONJ.html">CCONJ</a></tt> 31068: <em>Zvedněte telefon <b>a</b> zavolejte .</em>
+  * <tt><a href="cs-pos-ADJ.html">ADJ</a></tt> 183: <em><b>a</b> . s . Malostranské nám . 2 118 00 Praha 1 Tel . / fax : 684 62 55</em>
+  * <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 49: <em>Ušetříte téměř 90 % proti variantě <b>a</b> ) .</em>
+  * <tt><a href="cs-pos-ADP.html">ADP</a></tt> 7: <em>" Všichni chtěli kopírovat trend <b>a</b> la Boris Korbel , kdy se do přestupů vrážely obrovské částky , a projevuje se to dodnes , " dodává manažer FC Boby Brno .</em>
+* <em>i</em>
+  * <tt><a href="cs-pos-CCONJ.html">CCONJ</a></tt> 7339: <em>Poplatek v sobě zahrnuje <b>i</b> obědy a společenský koktejl .</em>
+  * <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 14: <em>U článku o Hondě Legend byla zaměněna fotografie s Roverem 214 <b>i</b> .</em>
+  * <tt><a href="cs-pos-PROPN.html">PROPN</a></tt> 2: <em>Zdvojnásobení zisku očekává v tomto roce Koh - <b>i</b> - noor Hardtmuth České Budějovice .</em>
+* <em>proto</em>
+  * <tt><a href="cs-pos-CCONJ.html">CCONJ</a></tt> 655: <em>Chci uzavřít pojištění a dostal jsem <b>proto</b> k vyplnění dotazník .</em>
+  * <tt><a href="cs-pos-ADV.html">ADV</a></tt> 229: <em>Zajímalo nás <b>proto</b> , jak jsou s pomocí expertů spokojeni .</em>
+* <em>až</em>
+  * <tt><a href="cs-pos-PART.html">PART</a></tt> 1295: <em>Možnost opakovaného vysílání z paměti automaticky <b>až</b> na 53 adresátů .</em>
+  * <tt><a href="cs-pos-CCONJ.html">CCONJ</a></tt> 639: <em>Řekl bych , že může se pohybovat od deseti <b>až</b> do osmdesáti procent .</em>
+  * <tt><a href="cs-pos-SCONJ.html">SCONJ</a></tt> 111: <em>V bytě máte příjemných 24 ° C , i když venku mrzne , <b>až</b> praští .</em>
+* <em>ovšem</em>
+  * <tt><a href="cs-pos-CCONJ.html">CCONJ</a></tt> 561: <em>Nejzdařilejší <b>ovšem</b> byl neostalinský pokus o puč .</em>
+  * <tt><a href="cs-pos-PART.html">PART</a></tt> 42: <em>M . Stoniš píše , že ministr <b>ovšem</b> učinil jedině možné rozhodnutí .</em>
+* <em>tak</em>
+  * <tt><a href="cs-pos-ADV.html">ADV</a></tt> 2201: <em>Tuna <b>tak</b> vyjde na 160 Kč , nemluvě o poplatcích dalších .</em>
+  * <tt><a href="cs-pos-CCONJ.html">CCONJ</a></tt> 358: <em>Jak v New Jersey , <b>tak</b> později v Edmontonu , kam jsem byl vytrejdován .</em>
+* <em>buď</em>
+  * <tt><a href="cs-pos-CCONJ.html">CCONJ</a></tt> 112: <em>New Jersey začnou na svém ledě <b>buď</b> proti Montrealu , nebo Bostonu .</em>
+  * <tt><a href="cs-pos-AUX.html">AUX</a></tt> 12: <em>Buď s souběžka p v bodě P , <b>buď</b> Q bod ležící na přímce s .</em>
+  * <tt><a href="cs-pos-VERB.html">VERB</a></tt> 1: <em>Říci bytí , panující <b>buď</b> !</em>
+* <em>and</em>
+  * <tt><a href="cs-pos-CCONJ.html">CCONJ</a></tt> 45: <em>/ Einstein , Realism , <b>and</b> the Quantum Theory /</em>
+  * <tt><a href="cs-pos-PROPN.html">PROPN</a></tt> 2: <em>Olomouc ( <b>and</b> , pet ) -</em>
+* <em>jak</em>
+  * <tt><a href="cs-pos-ADV.html">ADV</a></tt> 1350: <em>Zajímalo nás proto , <b>jak</b> jsou s pomocí expertů spokojeni .</em>
+  * <tt><a href="cs-pos-SCONJ.html">SCONJ</a></tt> 222: <em>A <b>jak</b> dosáhnout kdysi slibovaného vzestupu ?</em>
+  * <tt><a href="cs-pos-CCONJ.html">CCONJ</a></tt> 50: <em>Mezi diktátorovými ctiteli byli <b>jak</b> staří , tak mladí lidé .</em>
+  * <tt><a href="cs-pos-PROPN.html">PROPN</a></tt> 5: <em>BRNO ( <b>jak</b> ) -</em>
+* <em>plus</em>
+  * <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 25: <em>Poloha na okraji vesnice je samozřejmě <b>plus</b> .</em>
+  * <tt><a href="cs-pos-CCONJ.html">CCONJ</a></tt> 16: <em>Zkrátka nepřichází ani nukleární výzkum ( zvýšení o 7 % ) , ani letectví ( <b>plus</b> 6.2 % ) .</em>
 
 ## Morphology
 
 The form / lemma ratio of `CCONJ` is 1.068182 (the average of all parts of speech is 2.181849).
 
-The 1st highest number of forms (2) was observed with the lemma “krát”: krát, kráte.
+The 1st highest number of forms (2) was observed with the lemma “krát”: <em>krát, kráte</em>.
 
-The 2nd highest number of forms (2) was observed with the lemma “nebo”: neb, nebo.
+The 2nd highest number of forms (2) was observed with the lemma “nebo”: <em>neb, nebo</em>.
 
-The 3rd highest number of forms (2) was observed with the lemma “neboť”: neboť, ť.
+The 3rd highest number of forms (2) was observed with the lemma “neboť”: <em>neboť, ť</em>.
 
 `CCONJ` occurs with 5 features: <tt><a href="cs-feat-Abbr.html">Abbr</a></tt> (182; 0% instances), <tt><a href="cs-feat-Foreign.html">Foreign</a></tt> (80; 0% instances), <tt><a href="cs-feat-ConjType.html">ConjType</a></tt> (50; 0% instances), <tt><a href="cs-feat-Style.html">Style</a></tt> (4; 0% instances), <tt><a href="cs-feat-NameType.html">NameType</a></tt> (1; 0% instances)
 
@@ -72,7 +72,7 @@ The 3rd highest number of forms (2) was observed with the lemma “neboť”: ne
 
 `CCONJ` occurs with 7 feature combinations.
 The most frequent feature combination is `_` (56542 tokens).
-Examples: a i ale však nebo ani či proto až ovšem
+Examples: <em>a, i, ale, však, nebo, ani, či, proto, až, ovšem</em>
 
 
 ## Relations

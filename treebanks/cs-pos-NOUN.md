@@ -9,61 +9,61 @@ udver: '2'
 There are 17796 `NOUN` lemmas (30%), 40084 `NOUN` types (31%) and 372366 `NOUN` tokens (25%).
 Out of 17 observed tags, the rank of `NOUN` is: 1 in number of lemmas, 2 in number of types and 1 in number of tokens.
 
-The 10 most frequent `NOUN` lemmas: rok strana člověk společnost firma doba země cena koruna zákon
+The 10 most frequent `NOUN` lemmas: <em>rok, strana, člověk, společnost, firma, doba, země, cena, koruna, zákon</em>
 
-The 10 most frequent `NOUN` types:  roku korun let roce strany procent společnosti době případě firmy
+The 10 most frequent `NOUN` types:  <em>roku, korun, let, roce, strany, procent, společnosti, době, případě, firmy</em>
 
-The 10 most frequent ambiguous lemmas: stát (<tt><a href="cs-pos-VERB.html">VERB</a></tt> 1539, <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 1446, <tt><a href="cs-pos-AUX.html">AUX</a></tt> 3), den (<tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 1193, <tt><a href="cs-pos-ADJ.html">ADJ</a></tt> 1), místo (<tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 1144, <tt><a href="cs-pos-ADP.html">ADP</a></tt> 191, <tt><a href="cs-pos-SCONJ.html">SCONJ</a></tt> 10, <tt><a href="cs-pos-ADV.html">ADV</a></tt> 5), bod (<tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 708, <tt><a href="cs-pos-PROPN.html">PROPN</a></tt> 3), klub (<tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 506, <tt><a href="cs-pos-PROPN.html">PROPN</a></tt> 1), růst (<tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 353, <tt><a href="cs-pos-VERB.html">VERB</a></tt> 149), kontakt (<tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 331, <tt><a href="cs-pos-PROPN.html">PROPN</a></tt> 2), tisíc (<tt><a href="cs-pos-NUM.html">NUM</a></tt> 539, <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 330, <tt><a href="cs-pos-ADV.html">ADV</a></tt> 1), televize (<tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 320, <tt><a href="cs-pos-PROPN.html">PROPN</a></tt> 3), sto (<tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 304, <tt><a href="cs-pos-NUM.html">NUM</a></tt> 41)
+The 10 most frequent ambiguous lemmas: <em>stát</em> (<tt><a href="cs-pos-VERB.html">VERB</a></tt> 1539, <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 1446, <tt><a href="cs-pos-AUX.html">AUX</a></tt> 3), <em>den</em> (<tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 1193, <tt><a href="cs-pos-ADJ.html">ADJ</a></tt> 1), <em>místo</em> (<tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 1144, <tt><a href="cs-pos-ADP.html">ADP</a></tt> 191, <tt><a href="cs-pos-SCONJ.html">SCONJ</a></tt> 10, <tt><a href="cs-pos-ADV.html">ADV</a></tt> 5), <em>bod</em> (<tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 708, <tt><a href="cs-pos-PROPN.html">PROPN</a></tt> 3), <em>klub</em> (<tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 506, <tt><a href="cs-pos-PROPN.html">PROPN</a></tt> 1), <em>růst</em> (<tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 353, <tt><a href="cs-pos-VERB.html">VERB</a></tt> 149), <em>kontakt</em> (<tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 331, <tt><a href="cs-pos-PROPN.html">PROPN</a></tt> 2), <em>tisíc</em> (<tt><a href="cs-pos-NUM.html">NUM</a></tt> 539, <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 330, <tt><a href="cs-pos-ADV.html">ADV</a></tt> 1), <em>televize</em> (<tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 320, <tt><a href="cs-pos-PROPN.html">PROPN</a></tt> 3), <em>sto</em> (<tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 304, <tt><a href="cs-pos-NUM.html">NUM</a></tt> 41)
 
-The 10 most frequent ambiguous types:  r (<tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 433, <tt><a href="cs-pos-ADV.html">ADV</a></tt> 1, <tt><a href="cs-pos-PROPN.html">PROPN</a></tt> 1), září (<tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 449, <tt><a href="cs-pos-VERB.html">VERB</a></tt> 2), s (<tt><a href="cs-pos-ADP.html">ADP</a></tt> 8728, <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 381, <tt><a href="cs-pos-PART.html">PART</a></tt> 21, <tt><a href="cs-pos-ADJ.html">ADJ</a></tt> 9), místo (<tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 359, <tt><a href="cs-pos-ADP.html">ADP</a></tt> 140, <tt><a href="cs-pos-SCONJ.html">SCONJ</a></tt> 7, <tt><a href="cs-pos-ADV.html">ADV</a></tt> 5), stát (<tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 301, <tt><a href="cs-pos-VERB.html">VERB</a></tt> 226), p (<tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 199, <tt><a href="cs-pos-ADJ.html">ADJ</a></tt> 4), den (<tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 303, <tt><a href="cs-pos-ADJ.html">ADJ</a></tt> 1), m (<tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 235, <tt><a href="cs-pos-ADJ.html">ADJ</a></tt> 2, <tt><a href="cs-pos-ADP.html">ADP</a></tt> 1), tel (<tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 273, <tt><a href="cs-pos-ADJ.html">ADJ</a></tt> 2), klubu (<tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 218, <tt><a href="cs-pos-PROPN.html">PROPN</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>r</em> (<tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 433, <tt><a href="cs-pos-ADV.html">ADV</a></tt> 1, <tt><a href="cs-pos-PROPN.html">PROPN</a></tt> 1), <em>září</em> (<tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 449, <tt><a href="cs-pos-VERB.html">VERB</a></tt> 2), <em>s</em> (<tt><a href="cs-pos-ADP.html">ADP</a></tt> 8728, <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 381, <tt><a href="cs-pos-PART.html">PART</a></tt> 21, <tt><a href="cs-pos-ADJ.html">ADJ</a></tt> 9), <em>místo</em> (<tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 359, <tt><a href="cs-pos-ADP.html">ADP</a></tt> 140, <tt><a href="cs-pos-SCONJ.html">SCONJ</a></tt> 7, <tt><a href="cs-pos-ADV.html">ADV</a></tt> 5), <em>stát</em> (<tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 301, <tt><a href="cs-pos-VERB.html">VERB</a></tt> 226), <em>p</em> (<tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 199, <tt><a href="cs-pos-ADJ.html">ADJ</a></tt> 4), <em>den</em> (<tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 303, <tt><a href="cs-pos-ADJ.html">ADJ</a></tt> 1), <em>m</em> (<tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 235, <tt><a href="cs-pos-ADJ.html">ADJ</a></tt> 2, <tt><a href="cs-pos-ADP.html">ADP</a></tt> 1), <em>tel</em> (<tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 273, <tt><a href="cs-pos-ADJ.html">ADJ</a></tt> 2), <em>klubu</em> (<tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 218, <tt><a href="cs-pos-PROPN.html">PROPN</a></tt> 1)
 
 
-* r
-  * <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 433: Skutečnost <b>r</b> . 1992
-  * <tt><a href="cs-pos-ADV.html">ADV</a></tt> 1: Uwe Fink z Arizonské univerzity zkoumal spektra Yamakovy komety ( 1988 <b>r</b> ) a zjistil , že prakticky neobsahuje molekulární uhlík a kyan , čímž se výrazně liší od běžných komet .
-  * <tt><a href="cs-pos-PROPN.html">PROPN</a></tt> 1: ( <b>r</b> ) ( ČT 1 - 20.30 )
-* září
-  * <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 449: Vlastní odborná skupina ČS a AB banky ukončí svou činnost počátkem <b>září</b> .
-  * <tt><a href="cs-pos-VERB.html">VERB</a></tt> 2: Přenechávají volné pole konkurenci - Látal odešel do Schalke 04 , Hogen se Šmejkalem jsou ve Slavii , Poborský <b>září</b> na Žižkově .
-* s
-  * <tt><a href="cs-pos-ADP.html">ADP</a></tt> 8728: Fax <b>s</b> kvalitním tiskem na normální papír .
-  * <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 381: O jeho návštěvě zevrubně informuje Reader ' <b>s</b> digest z prosince 1994 .
-  * <tt><a href="cs-pos-PART.html">PART</a></tt> 21: Vedle toho musí být <b>s</b> to zastoupit i chybějícího kolegu .
-  * <tt><a href="cs-pos-ADJ.html">ADJ</a></tt> 9: Vašek Káňa : Karhan ' <b>s</b> Men .
-* místo
-  * <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 359: Termín a <b>místo</b> konání : 23 . až 24 . 2 . v Brně .
-  * <tt><a href="cs-pos-ADP.html">ADP</a></tt> 140: Samoobsluha <b>místo</b> číšníka 10 - 15
-  * <tt><a href="cs-pos-SCONJ.html">SCONJ</a></tt> 7: Vždy se snaží omluvit pochybení svých úředníků , <b>místo</b> aby by z toho vyvozovala konkrétní důsledky , řekl .
-  * <tt><a href="cs-pos-ADV.html">ADV</a></tt> 5: A tak se pozorovatelé <b>místo</b> na Tenga začínají zaměřovat na muže , kteří vstupují do hry o Tengovo dědictví .
-* stát
-  * <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 301: Měřiče platí zatím <b>stát</b> , takže ale vlastně zase občan .
-  * <tt><a href="cs-pos-VERB.html">VERB</a></tt> 226: Jedno sprchování bude <b>stát</b> 0.92 Kč .
-* p
-  * <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 199: φ ( n ) = ( <b>p</b> - 1 ) . ( q - 1 )
-  * <tt><a href="cs-pos-ADJ.html">ADJ</a></tt> 4: Podle nájemnice bytu v domě č . <b>p</b> . 518 v Tomášské ulici a současně majitelky prodejny drogerie v domě č . <b>p</b> . 8 v téže ulici je schválení zákona naprostou ignorací zájmu voličů poslanci ČNR .
-* den
-  * <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 303: První září - <b>den</b> padesátého pátého výročí vypuknutí druhé světové války
-  * <tt><a href="cs-pos-ADJ.html">ADJ</a></tt> 1: Během dne položili ještě věnce k památníkům v Berlíně - Treptowě , Tiergartenu a na třídě Unter <b>den</b> Linden .
-* m
-  * <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 235: Loňská cena byla 229 Kč / <b>m</b> 2 .
-  * <tt><a href="cs-pos-ADJ.html">ADJ</a></tt> 2: Dva světové rekordy dominovaly závodům Světového poháru v plavání v 25 <b>m</b> bazénu v Gelsenkirchenu .
-  * <tt><a href="cs-pos-ADP.html">ADP</a></tt> 1: V 52 . čísle Respektu si <b>m</b> . j . přečtete :
-* tel
-  * <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 273: Jankovcova 47 , Praha 7 <b>tel</b> . : 80 45 88 , <b>tel</b> . / fax : 87 09 58
-  * <tt><a href="cs-pos-ADJ.html">ADJ</a></tt> 2: Občané mohou zavolat na linku 158 nebo <b>tel</b> . č . 424141 .
-* klubu
-  * <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 218: Příležitost dostal až na severu Francie , v amatérském <b>klubu</b> Maubeuge .
-  * <tt><a href="cs-pos-PROPN.html">PROPN</a></tt> 1: Na přízemní letecký den při příležitosti otevření Pilot <b>klubu</b> v Kněževsi u Prahy zve v sobotu 10 . září od 10 do 13 hodin Blesk magazín .
+* <em>r</em>
+  * <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 433: <em>Skutečnost <b>r</b> . 1992</em>
+  * <tt><a href="cs-pos-ADV.html">ADV</a></tt> 1: <em>Uwe Fink z Arizonské univerzity zkoumal spektra Yamakovy komety ( 1988 <b>r</b> ) a zjistil , že prakticky neobsahuje molekulární uhlík a kyan , čímž se výrazně liší od běžných komet .</em>
+  * <tt><a href="cs-pos-PROPN.html">PROPN</a></tt> 1: <em>( <b>r</b> ) ( ČT 1 - 20.30 )</em>
+* <em>září</em>
+  * <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 449: <em>Vlastní odborná skupina ČS a AB banky ukončí svou činnost počátkem <b>září</b> .</em>
+  * <tt><a href="cs-pos-VERB.html">VERB</a></tt> 2: <em>Přenechávají volné pole konkurenci - Látal odešel do Schalke 04 , Hogen se Šmejkalem jsou ve Slavii , Poborský <b>září</b> na Žižkově .</em>
+* <em>s</em>
+  * <tt><a href="cs-pos-ADP.html">ADP</a></tt> 8728: <em>Fax <b>s</b> kvalitním tiskem na normální papír .</em>
+  * <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 381: <em>O jeho návštěvě zevrubně informuje Reader ' <b>s</b> digest z prosince 1994 .</em>
+  * <tt><a href="cs-pos-PART.html">PART</a></tt> 21: <em>Vedle toho musí být <b>s</b> to zastoupit i chybějícího kolegu .</em>
+  * <tt><a href="cs-pos-ADJ.html">ADJ</a></tt> 9: <em>Vašek Káňa : Karhan ' <b>s</b> Men .</em>
+* <em>místo</em>
+  * <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 359: <em>Termín a <b>místo</b> konání : 23 . až 24 . 2 . v Brně .</em>
+  * <tt><a href="cs-pos-ADP.html">ADP</a></tt> 140: <em>Samoobsluha <b>místo</b> číšníka 10 - 15</em>
+  * <tt><a href="cs-pos-SCONJ.html">SCONJ</a></tt> 7: <em>Vždy se snaží omluvit pochybení svých úředníků , <b>místo</b> aby by z toho vyvozovala konkrétní důsledky , řekl .</em>
+  * <tt><a href="cs-pos-ADV.html">ADV</a></tt> 5: <em>A tak se pozorovatelé <b>místo</b> na Tenga začínají zaměřovat na muže , kteří vstupují do hry o Tengovo dědictví .</em>
+* <em>stát</em>
+  * <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 301: <em>Měřiče platí zatím <b>stát</b> , takže ale vlastně zase občan .</em>
+  * <tt><a href="cs-pos-VERB.html">VERB</a></tt> 226: <em>Jedno sprchování bude <b>stát</b> 0.92 Kč .</em>
+* <em>p</em>
+  * <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 199: <em>φ ( n ) = ( <b>p</b> - 1 ) . ( q - 1 )</em>
+  * <tt><a href="cs-pos-ADJ.html">ADJ</a></tt> 4: <em>Podle nájemnice bytu v domě č . <b>p</b> . 518 v Tomášské ulici a současně majitelky prodejny drogerie v domě č . <b>p</b> . 8 v téže ulici je schválení zákona naprostou ignorací zájmu voličů poslanci ČNR .</em>
+* <em>den</em>
+  * <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 303: <em>První září - <b>den</b> padesátého pátého výročí vypuknutí druhé světové války</em>
+  * <tt><a href="cs-pos-ADJ.html">ADJ</a></tt> 1: <em>Během dne položili ještě věnce k památníkům v Berlíně - Treptowě , Tiergartenu a na třídě Unter <b>den</b> Linden .</em>
+* <em>m</em>
+  * <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 235: <em>Loňská cena byla 229 Kč / <b>m</b> 2 .</em>
+  * <tt><a href="cs-pos-ADJ.html">ADJ</a></tt> 2: <em>Dva světové rekordy dominovaly závodům Světového poháru v plavání v 25 <b>m</b> bazénu v Gelsenkirchenu .</em>
+  * <tt><a href="cs-pos-ADP.html">ADP</a></tt> 1: <em>V 52 . čísle Respektu si <b>m</b> . j . přečtete :</em>
+* <em>tel</em>
+  * <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 273: <em>Jankovcova 47 , Praha 7 <b>tel</b> . : 80 45 88 , <b>tel</b> . / fax : 87 09 58</em>
+  * <tt><a href="cs-pos-ADJ.html">ADJ</a></tt> 2: <em>Občané mohou zavolat na linku 158 nebo <b>tel</b> . č . 424141 .</em>
+* <em>klubu</em>
+  * <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 218: <em>Příležitost dostal až na severu Francie , v amatérském <b>klubu</b> Maubeuge .</em>
+  * <tt><a href="cs-pos-PROPN.html">PROPN</a></tt> 1: <em>Na přízemní letecký den při příležitosti otevření Pilot <b>klubu</b> v Kněževsi u Prahy zve v sobotu 10 . září od 10 do 13 hodin Blesk magazín .</em>
 
 ## Morphology
 
 The form / lemma ratio of `NOUN` is 2.252416 (the average of all parts of speech is 2.181849).
 
-The 1st highest number of forms (18) was observed with the lemma “rok”: l, let, letech, lety, letům, léta, létech, léty, létům, r, roce, rok, roka, rokem, roku, roky, roků, rokům.
+The 1st highest number of forms (18) was observed with the lemma “rok”: <em>l, let, letech, lety, letům, léta, létech, léty, létům, r, roce, rok, roka, rokem, roku, roky, roků, rokům</em>.
 
-The 2nd highest number of forms (15) was observed with the lemma “milión”: mil, milion, milionech, milionem, milionu, miliony, milionů, milionům, milión, miliónech, miliónem, miliónu, milióny, miliónů, miliónům.
+The 2nd highest number of forms (15) was observed with the lemma “milión”: <em>mil, milion, milionech, milionem, milionu, miliony, milionů, milionům, milión, miliónech, miliónem, miliónu, milióny, miliónů, miliónům</em>.
 
-The 3rd highest number of forms (14) was observed with the lemma “druh”: druh, druha, druhem, druhové, druhu, druhy, druhů, druhům, druzi, druzích, družka, družkou, družku, družky.
+The 3rd highest number of forms (14) was observed with the lemma “druh”: <em>druh, druha, druhem, druhové, druhu, druhy, druhů, druhům, druzi, druzích, družka, družkou, družku, družky</em>.
 
 `NOUN` occurs with 9 features: <tt><a href="cs-feat-Polarity.html">Polarity</a></tt> (372366; 100% instances), <tt><a href="cs-feat-Gender.html">Gender</a></tt> (371970; 100% instances), <tt><a href="cs-feat-Number.html">Number</a></tt> (363302; 98% instances), <tt><a href="cs-feat-Case.html">Case</a></tt> (362915; 97% instances), <tt><a href="cs-feat-Animacy.html">Animacy</a></tt> (163546; 44% instances), <tt><a href="cs-feat-Abbr.html">Abbr</a></tt> (5768; 2% instances), <tt><a href="cs-feat-Foreign.html">Foreign</a></tt> (1813; 0% instances), <tt><a href="cs-feat-Style.html">Style</a></tt> (800; 0% instances), <tt><a href="cs-feat-Aspect.html">Aspect</a></tt> (2; 0% instances)
 
@@ -71,7 +71,7 @@ The 3rd highest number of forms (14) was observed with the lemma “druh”: dru
 
 `NOUN` occurs with 328 feature combinations.
 The most frequent feature combination is `Case=Gen|Gender=Fem|Number=Sing|Polarity=Pos` (29571 tokens).
-Examples: strany vlády společnosti firmy práce republiky doby země rady banky
+Examples: <em>strany, vlády, společnosti, firmy, práce, republiky, doby, země, rady, banky</em>
 
 
 ## Relations

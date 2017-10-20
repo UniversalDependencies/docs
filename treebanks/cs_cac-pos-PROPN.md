@@ -9,55 +9,55 @@ udver: '2'
 There are 3446 `PROPN` lemmas (12%), 4372 `PROPN` types (7%) and 9814 `PROPN` tokens (2%).
 Out of 16 observed tags, the rank of `PROPN` is: 4 in number of lemmas, 4 in number of types and 11 in number of tokens.
 
-The 10 most frequent `PROPN` lemmas: Praha KSČ ROH SSSR ÚJČ SSM ČSAV ČSSR Československo Škoda
+The 10 most frequent `PROPN` lemmas: <em>Praha, KSČ, ROH, SSSR, ÚJČ, SSM, ČSAV, ČSSR, Československo, Škoda</em>
 
-The 10 most frequent `PROPN` types:  KSČ ROH Praze SSSR ÚJČ SSM Praha ČSAV ČSSR Škoda
+The 10 most frequent `PROPN` types:  <em>KSČ, ROH, Praze, SSSR, ÚJČ, SSM, Praha, ČSAV, ČSSR, Škoda</em>
 
-The 10 most frequent ambiguous lemmas: hora (<tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> 24, <tt><a href="cs_cac-pos-PROPN.html">PROPN</a></tt> 19), VB (<tt><a href="cs_cac-pos-PROPN.html">PROPN</a></tt> 23, <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> 4), Vyšehrad (<tt><a href="cs_cac-pos-PROPN.html">PROPN</a></tt> 8, <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> 1), KRB (<tt><a href="cs_cac-pos-PROPN.html">PROPN</a></tt> 6, <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> 1), Janský (<tt><a href="cs_cac-pos-PROPN.html">PROPN</a></tt> 5, <tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt> 3), most (<tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> 42, <tt><a href="cs_cac-pos-PROPN.html">PROPN</a></tt> 1), KS (<tt><a href="cs_cac-pos-PROPN.html">PROPN</a></tt> 3, <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> 3), MP (<tt><a href="cs_cac-pos-PROPN.html">PROPN</a></tt> 3, <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> 1), SRPŠ (<tt><a href="cs_cac-pos-PROPN.html">PROPN</a></tt> 3, <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> 1), NVP (<tt><a href="cs_cac-pos-PROPN.html">PROPN</a></tt> 2, <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> 2)
+The 10 most frequent ambiguous lemmas: <em>hora</em> (<tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> 24, <tt><a href="cs_cac-pos-PROPN.html">PROPN</a></tt> 19), <em>VB</em> (<tt><a href="cs_cac-pos-PROPN.html">PROPN</a></tt> 23, <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> 4), <em>Vyšehrad</em> (<tt><a href="cs_cac-pos-PROPN.html">PROPN</a></tt> 8, <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> 1), <em>KRB</em> (<tt><a href="cs_cac-pos-PROPN.html">PROPN</a></tt> 6, <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> 1), <em>Janský</em> (<tt><a href="cs_cac-pos-PROPN.html">PROPN</a></tt> 5, <tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt> 3), <em>most</em> (<tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> 42, <tt><a href="cs_cac-pos-PROPN.html">PROPN</a></tt> 1), <em>KS</em> (<tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> 3, <tt><a href="cs_cac-pos-PROPN.html">PROPN</a></tt> 3), <em>MP</em> (<tt><a href="cs_cac-pos-PROPN.html">PROPN</a></tt> 3, <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> 1), <em>SRPŠ</em> (<tt><a href="cs_cac-pos-PROPN.html">PROPN</a></tt> 3, <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> 1), <em>NVP</em> (<tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="cs_cac-pos-PROPN.html">PROPN</a></tt> 2)
 
-The 10 most frequent ambiguous types:  Praha (<tt><a href="cs_cac-pos-PROPN.html">PROPN</a></tt> 104, <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> 1), Škoda (<tt><a href="cs_cac-pos-PROPN.html">PROPN</a></tt> 66, <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> 4), Země (<tt><a href="cs_cac-pos-PROPN.html">PROPN</a></tt> 29, <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> 6), VB (<tt><a href="cs_cac-pos-PROPN.html">PROPN</a></tt> 23, <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> 4), Slunce (<tt><a href="cs_cac-pos-PROPN.html">PROPN</a></tt> 13, <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> 2), Svoboda (<tt><a href="cs_cac-pos-PROPN.html">PROPN</a></tt> 10, <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> 1), horách (<tt><a href="cs_cac-pos-PROPN.html">PROPN</a></tt> 5, <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> 2), Králík (<tt><a href="cs_cac-pos-PROPN.html">PROPN</a></tt> 9, <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> 3), Měsíce (<tt><a href="cs_cac-pos-PROPN.html">PROPN</a></tt> 9, <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> 4), Karpaty (<tt><a href="cs_cac-pos-PROPN.html">PROPN</a></tt> 8, <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>Praha</em> (<tt><a href="cs_cac-pos-PROPN.html">PROPN</a></tt> 104, <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> 1), <em>Škoda</em> (<tt><a href="cs_cac-pos-PROPN.html">PROPN</a></tt> 66, <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> 4), <em>Země</em> (<tt><a href="cs_cac-pos-PROPN.html">PROPN</a></tt> 29, <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> 6), <em>VB</em> (<tt><a href="cs_cac-pos-PROPN.html">PROPN</a></tt> 23, <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> 4), <em>Slunce</em> (<tt><a href="cs_cac-pos-PROPN.html">PROPN</a></tt> 13, <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> 2), <em>Svoboda</em> (<tt><a href="cs_cac-pos-PROPN.html">PROPN</a></tt> 10, <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> 1), <em>horách</em> (<tt><a href="cs_cac-pos-PROPN.html">PROPN</a></tt> 5, <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> 2), <em>Králík</em> (<tt><a href="cs_cac-pos-PROPN.html">PROPN</a></tt> 9, <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> 3), <em>Měsíce</em> (<tt><a href="cs_cac-pos-PROPN.html">PROPN</a></tt> 9, <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> 4), <em>Karpaty</em> (<tt><a href="cs_cac-pos-PROPN.html">PROPN</a></tt> 8, <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> 1)
 
 
-* Praha
-  * <tt><a href="cs_cac-pos-PROPN.html">PROPN</a></tt> 104: V říjnu bude sjednocovací řízení s HDP <b>Praha</b> .
-  * <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> 1: V létech # - # se otázkám rozvoje oblasti plastických hmot věnovala pozornost prostřednictvím státního úkolu koordinovaného ve SVUM <b>Praha</b> .
-* Škoda
-  * <tt><a href="cs_cac-pos-PROPN.html">PROPN</a></tt> 66: Nejvíce dárců bylo z OÚNZ Klatovy , Okuly , Nýrsko a <b>Škoda</b> Klatovy .
-  * <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> 4: <b>Škoda</b> kolem # * .
-* Země
-  * <tt><a href="cs_cac-pos-PROPN.html">PROPN</a></tt> 29: Váha opravy klesá s rostoucí vzdáleností od <b>Země</b> .
-  * <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> 6: Úspěch na výstavě <b>Země</b> živitelka .
-* VB
-  * <tt><a href="cs_cac-pos-PROPN.html">PROPN</a></tt> 23: Rušné dopoledne prožili dnes příslušníci <b>VB</b> , oddělení dopravních nehod .
-  * <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> 4: Zajistí vedoucí VS a <b>VB</b> .
-* Slunce
-  * <tt><a href="cs_cac-pos-PROPN.html">PROPN</a></tt> 13: Tak zjistíme tuto hustotu jako funkci vzdálenosti od <b>Slunce</b> .
-  * <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> 2: <b>Slunce</b> spravedlivě rozděluje teplo mezi důchodce na lavičkách a kojence v peřinkách .
-* Svoboda
-  * <tt><a href="cs_cac-pos-PROPN.html">PROPN</a></tt> 10: Oldřich <b>Svoboda</b> ze # třídy nasbíral # * a Václav Lhotský ze # # * bylin .
-  * <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> 1: Poslední díla , která připravila Helena Lisická pro malé i velké čtenáře s názvem Z hradů , zámků a tvrzí a Z českých hradů , zámků a tvrzí , byla oceněna pražským nakladatelstvím <b>Svoboda</b> Výroční cenou za rok # za společensky angažovanou tvorbu .
-* horách
-  * <tt><a href="cs_cac-pos-PROPN.html">PROPN</a></tt> 5: Hranice kamzičí oblasti v Lužických <b>horách</b> budou vytyčeny již letos , říká Josef Jirotka .
-  * <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> 2: Zlepšuje se vlivem slunce , na <b>horách</b> nebo u moře .
-* Králík
-  * <tt><a href="cs_cac-pos-PROPN.html">PROPN</a></tt> 9: * <b>Králík</b> a * Vlková se účastní semináře pořádaného pro mladé pracovníky v ÚJČ .
-  * <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> 3: <b>Králík</b> je hlodavec , naučí se přijímat různá krmiva .
-* Měsíce
-  * <tt><a href="cs_cac-pos-PROPN.html">PROPN</a></tt> 9: Proto střední délka <b>Měsíce</b> v systému efemeridy potřebuje jen nepatrnou korekci .
-  * <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> 4: Další taneční soubor Berjozka se zúčastní <b>Měsíce</b> československo - sovětského přátelství .
-* Karpaty
-  * <tt><a href="cs_cac-pos-PROPN.html">PROPN</a></tt> 8: Úder přes <b>Karpaty</b> na Slovensko byl urychleně připraven ve velmi krátké době necelého týdne .
-  * <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> 1: Tyto události bezprostředně souvisely s úderem sovětské armády přes <b>Karpaty</b> na pomoc Slovenskému národnímu povstání .
+* <em>Praha</em>
+  * <tt><a href="cs_cac-pos-PROPN.html">PROPN</a></tt> 104: <em>V říjnu bude sjednocovací řízení s HDP <b>Praha</b> .</em>
+  * <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> 1: <em>V létech # - # se otázkám rozvoje oblasti plastických hmot věnovala pozornost prostřednictvím státního úkolu koordinovaného ve SVUM <b>Praha</b> .</em>
+* <em>Škoda</em>
+  * <tt><a href="cs_cac-pos-PROPN.html">PROPN</a></tt> 66: <em>Nejvíce dárců bylo z OÚNZ Klatovy , Okuly , Nýrsko a <b>Škoda</b> Klatovy .</em>
+  * <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> 4: <em><b>Škoda</b> kolem # * .</em>
+* <em>Země</em>
+  * <tt><a href="cs_cac-pos-PROPN.html">PROPN</a></tt> 29: <em>Váha opravy klesá s rostoucí vzdáleností od <b>Země</b> .</em>
+  * <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> 6: <em>Úspěch na výstavě <b>Země</b> živitelka .</em>
+* <em>VB</em>
+  * <tt><a href="cs_cac-pos-PROPN.html">PROPN</a></tt> 23: <em>Rušné dopoledne prožili dnes příslušníci <b>VB</b> , oddělení dopravních nehod .</em>
+  * <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> 4: <em>Zajistí vedoucí VS a <b>VB</b> .</em>
+* <em>Slunce</em>
+  * <tt><a href="cs_cac-pos-PROPN.html">PROPN</a></tt> 13: <em>Tak zjistíme tuto hustotu jako funkci vzdálenosti od <b>Slunce</b> .</em>
+  * <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> 2: <em><b>Slunce</b> spravedlivě rozděluje teplo mezi důchodce na lavičkách a kojence v peřinkách .</em>
+* <em>Svoboda</em>
+  * <tt><a href="cs_cac-pos-PROPN.html">PROPN</a></tt> 10: <em>Oldřich <b>Svoboda</b> ze # třídy nasbíral # * a Václav Lhotský ze # # * bylin .</em>
+  * <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> 1: <em>Poslední díla , která připravila Helena Lisická pro malé i velké čtenáře s názvem Z hradů , zámků a tvrzí a Z českých hradů , zámků a tvrzí , byla oceněna pražským nakladatelstvím <b>Svoboda</b> Výroční cenou za rok # za společensky angažovanou tvorbu .</em>
+* <em>horách</em>
+  * <tt><a href="cs_cac-pos-PROPN.html">PROPN</a></tt> 5: <em>Hranice kamzičí oblasti v Lužických <b>horách</b> budou vytyčeny již letos , říká Josef Jirotka .</em>
+  * <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> 2: <em>Zlepšuje se vlivem slunce , na <b>horách</b> nebo u moře .</em>
+* <em>Králík</em>
+  * <tt><a href="cs_cac-pos-PROPN.html">PROPN</a></tt> 9: <em>* <b>Králík</b> a * Vlková se účastní semináře pořádaného pro mladé pracovníky v ÚJČ .</em>
+  * <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> 3: <em><b>Králík</b> je hlodavec , naučí se přijímat různá krmiva .</em>
+* <em>Měsíce</em>
+  * <tt><a href="cs_cac-pos-PROPN.html">PROPN</a></tt> 9: <em>Proto střední délka <b>Měsíce</b> v systému efemeridy potřebuje jen nepatrnou korekci .</em>
+  * <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> 4: <em>Další taneční soubor Berjozka se zúčastní <b>Měsíce</b> československo - sovětského přátelství .</em>
+* <em>Karpaty</em>
+  * <tt><a href="cs_cac-pos-PROPN.html">PROPN</a></tt> 8: <em>Úder přes <b>Karpaty</b> na Slovensko byl urychleně připraven ve velmi krátké době necelého týdne .</em>
+  * <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> 1: <em>Tyto události bezprostředně souvisely s úderem sovětské armády přes <b>Karpaty</b> na pomoc Slovenskému národnímu povstání .</em>
 
 ## Morphology
 
 The form / lemma ratio of `PROPN` is 1.268717 (the average of all parts of speech is 2.186309).
 
-The 1st highest number of forms (6) was observed with the lemma “Honza”: Honza, Honzou, Honzovi, Honzové, Honzu, Honzy.
+The 1st highest number of forms (6) was observed with the lemma “Honza”: <em>Honza, Honzou, Honzovi, Honzové, Honzu, Honzy</em>.
 
-The 2nd highest number of forms (6) was observed with the lemma “hora”: Hora, hor, horami, hory, horách, horám.
+The 2nd highest number of forms (6) was observed with the lemma “hora”: <em>Hora, hor, horami, hory, horách, horám</em>.
 
-The 3rd highest number of forms (5) was observed with the lemma “Jan”: Jan, Jana, Janem, Janovi, Janu.
+The 3rd highest number of forms (5) was observed with the lemma “Jan”: <em>Jan, Jana, Janem, Janovi, Janu</em>.
 
 `PROPN` occurs with 9 features: <tt><a href="cs_cac-feat-NameType.html">NameType</a></tt> (9814; 100% instances), <tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt> (9814; 100% instances), <tt><a href="cs_cac-feat-Gender.html">Gender</a></tt> (9803; 100% instances), <tt><a href="cs_cac-feat-Number.html">Number</a></tt> (7864; 80% instances), <tt><a href="cs_cac-feat-Case.html">Case</a></tt> (7810; 80% instances), <tt><a href="cs_cac-feat-Animacy.html">Animacy</a></tt> (5431; 55% instances), <tt><a href="cs_cac-feat-Abbr.html">Abbr</a></tt> (1878; 19% instances), <tt><a href="cs_cac-feat-Foreign.html">Foreign</a></tt> (37; 0% instances), <tt><a href="cs_cac-feat-Style.html">Style</a></tt> (9; 0% instances)
 
@@ -65,7 +65,7 @@ The 3rd highest number of forms (5) was observed with the lemma “Jan”: Jan, 
 
 `PROPN` occurs with 243 feature combinations.
 The most frequent feature combination is `Animacy=Anim|Case=Nom|Gender=Masc|NameType=Sur|Number=Sing|Polarity=Pos` (1589 tokens).
-Examples: Fučík Erben Horálek Němec Lenin Záveský Kraus Huxley Gottwald Marx
+Examples: <em>Fučík, Erben, Horálek, Němec, Lenin, Záveský, Kraus, Huxley, Gottwald, Marx</em>
 
 
 ## Relations

@@ -9,56 +9,56 @@ udver: '2'
 There are 5668 `VERB` lemmas (9%), 21068 `VERB` types (16%) and 135510 `VERB` tokens (9%).
 Out of 17 observed tags, the rank of `VERB` is: 4 in number of lemmas, 4 in number of types and 5 in number of tokens.
 
-The 10 most frequent `VERB` lemmas: mít být moci muset stát chtít jít říci lze dát
+The 10 most frequent `VERB` lemmas: <em>mít, být, moci, muset, stát, chtít, jít, říci, lze, dát</em>
 
-The 10 most frequent `VERB` types:  má je může řekl měl mají musí jde měla jsou
+The 10 most frequent `VERB` types:  <em>má, je, může, řekl, měl, mají, musí, jde, měla, jsou</em>
 
-The 10 most frequent ambiguous lemmas: mít (<tt><a href="cs-pos-VERB.html">VERB</a></tt> 8496, <tt><a href="cs-pos-AUX.html">AUX</a></tt> 1), být (<tt><a href="cs-pos-AUX.html">AUX</a></tt> 41217, <tt><a href="cs-pos-VERB.html">VERB</a></tt> 5167), moci (<tt><a href="cs-pos-VERB.html">VERB</a></tt> 4292, <tt><a href="cs-pos-AUX.html">AUX</a></tt> 1), stát (<tt><a href="cs-pos-VERB.html">VERB</a></tt> 1539, <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 1446, <tt><a href="cs-pos-AUX.html">AUX</a></tt> 3), růst (<tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 353, <tt><a href="cs-pos-VERB.html">VERB</a></tt> 149), vzrůst (<tt><a href="cs-pos-VERB.html">VERB</a></tt> 139, <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 13), jet (<tt><a href="cs-pos-VERB.html">VERB</a></tt> 129, <tt><a href="cs-pos-PROPN.html">PROPN</a></tt> 6, <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 3), bývat (<tt><a href="cs-pos-AUX.html">AUX</a></tt> 168, <tt><a href="cs-pos-VERB.html">VERB</a></tt> 44), hledět (<tt><a href="cs-pos-VERB.html">VERB</a></tt> 39, <tt><a href="cs-pos-ADP.html">ADP</a></tt> 1), škodit (<tt><a href="cs-pos-VERB.html">VERB</a></tt> 18, <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>mít</em> (<tt><a href="cs-pos-VERB.html">VERB</a></tt> 8496, <tt><a href="cs-pos-AUX.html">AUX</a></tt> 1), <em>být</em> (<tt><a href="cs-pos-AUX.html">AUX</a></tt> 41217, <tt><a href="cs-pos-VERB.html">VERB</a></tt> 5167), <em>moci</em> (<tt><a href="cs-pos-VERB.html">VERB</a></tt> 4292, <tt><a href="cs-pos-AUX.html">AUX</a></tt> 1), <em>stát</em> (<tt><a href="cs-pos-VERB.html">VERB</a></tt> 1539, <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 1446, <tt><a href="cs-pos-AUX.html">AUX</a></tt> 3), <em>růst</em> (<tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 353, <tt><a href="cs-pos-VERB.html">VERB</a></tt> 149), <em>vzrůst</em> (<tt><a href="cs-pos-VERB.html">VERB</a></tt> 139, <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 13), <em>jet</em> (<tt><a href="cs-pos-VERB.html">VERB</a></tt> 129, <tt><a href="cs-pos-PROPN.html">PROPN</a></tt> 6, <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 3), <em>bývat</em> (<tt><a href="cs-pos-AUX.html">AUX</a></tt> 168, <tt><a href="cs-pos-VERB.html">VERB</a></tt> 44), <em>hledět</em> (<tt><a href="cs-pos-VERB.html">VERB</a></tt> 39, <tt><a href="cs-pos-ADP.html">ADP</a></tt> 1), <em>škodit</em> (<tt><a href="cs-pos-VERB.html">VERB</a></tt> 18, <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 1)
 
-The 10 most frequent ambiguous types:  má (<tt><a href="cs-pos-VERB.html">VERB</a></tt> 2171, <tt><a href="cs-pos-DET.html">DET</a></tt> 16), je (<tt><a href="cs-pos-AUX.html">AUX</a></tt> 10151, <tt><a href="cs-pos-VERB.html">VERB</a></tt> 1986, <tt><a href="cs-pos-PRON.html">PRON</a></tt> 887), jsou (<tt><a href="cs-pos-AUX.html">AUX</a></tt> 2639, <tt><a href="cs-pos-VERB.html">VERB</a></tt> 616), není (<tt><a href="cs-pos-AUX.html">AUX</a></tt> 1224, <tt><a href="cs-pos-VERB.html">VERB</a></tt> 322), bylo (<tt><a href="cs-pos-AUX.html">AUX</a></tt> 1366, <tt><a href="cs-pos-VERB.html">VERB</a></tt> 290), bude (<tt><a href="cs-pos-AUX.html">AUX</a></tt> 2454, <tt><a href="cs-pos-VERB.html">VERB</a></tt> 253), stal (<tt><a href="cs-pos-VERB.html">VERB</a></tt> 240, <tt><a href="cs-pos-AUX.html">AUX</a></tt> 1), byl (<tt><a href="cs-pos-AUX.html">AUX</a></tt> 1945, <tt><a href="cs-pos-VERB.html">VERB</a></tt> 214), stát (<tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 301, <tt><a href="cs-pos-VERB.html">VERB</a></tt> 226), být (<tt><a href="cs-pos-AUX.html">AUX</a></tt> 1853, <tt><a href="cs-pos-VERB.html">VERB</a></tt> 209)
+The 10 most frequent ambiguous types:  <em>má</em> (<tt><a href="cs-pos-VERB.html">VERB</a></tt> 2171, <tt><a href="cs-pos-DET.html">DET</a></tt> 16), <em>je</em> (<tt><a href="cs-pos-AUX.html">AUX</a></tt> 10151, <tt><a href="cs-pos-VERB.html">VERB</a></tt> 1986, <tt><a href="cs-pos-PRON.html">PRON</a></tt> 887), <em>jsou</em> (<tt><a href="cs-pos-AUX.html">AUX</a></tt> 2639, <tt><a href="cs-pos-VERB.html">VERB</a></tt> 616), <em>není</em> (<tt><a href="cs-pos-AUX.html">AUX</a></tt> 1224, <tt><a href="cs-pos-VERB.html">VERB</a></tt> 322), <em>bylo</em> (<tt><a href="cs-pos-AUX.html">AUX</a></tt> 1366, <tt><a href="cs-pos-VERB.html">VERB</a></tt> 290), <em>bude</em> (<tt><a href="cs-pos-AUX.html">AUX</a></tt> 2454, <tt><a href="cs-pos-VERB.html">VERB</a></tt> 253), <em>stal</em> (<tt><a href="cs-pos-VERB.html">VERB</a></tt> 240, <tt><a href="cs-pos-AUX.html">AUX</a></tt> 1), <em>byl</em> (<tt><a href="cs-pos-AUX.html">AUX</a></tt> 1945, <tt><a href="cs-pos-VERB.html">VERB</a></tt> 214), <em>stát</em> (<tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 301, <tt><a href="cs-pos-VERB.html">VERB</a></tt> 226), <em>být</em> (<tt><a href="cs-pos-AUX.html">AUX</a></tt> 1853, <tt><a href="cs-pos-VERB.html">VERB</a></tt> 209)
 
 
-* má
-  * <tt><a href="cs-pos-VERB.html">VERB</a></tt> 2171: A čeho si <b>má</b> při své návštěvě především všímat ?
-  * <tt><a href="cs-pos-DET.html">DET</a></tt> 16: Kam se poděla <b>má</b> bojovnost ? ptala se sama sebe po utkání Martinezová .
-* je
-  * <tt><a href="cs-pos-AUX.html">AUX</a></tt> 10151: Váš obecně platný dotaz <b>je</b> připraven zodpovědět spolupracovník Profitu .
-  * <tt><a href="cs-pos-VERB.html">VERB</a></tt> 1986: U každého výrobku <b>je</b> krátká charakteristika a kontaktní adresa výrobce .
-  * <tt><a href="cs-pos-PRON.html">PRON</a></tt> 887: Změny jsou citelné , je třeba <b>je</b> lépe prezentovat
-* jsou
-  * <tt><a href="cs-pos-AUX.html">AUX</a></tt> 2639: Změny <b>jsou</b> citelné , je třeba je lépe prezentovat
-  * <tt><a href="cs-pos-VERB.html">VERB</a></tt> 616: Další závady , ke kterým dochází , <b>jsou</b> :
-* není
-  * <tt><a href="cs-pos-AUX.html">AUX</a></tt> 1224: Ředitel Nováček připouští , že současnost <b>není</b> nijak optimistická .
-  * <tt><a href="cs-pos-VERB.html">VERB</a></tt> 322: Vlastně se zas <b>není</b> tolik čemu divit .
-* bylo
-  * <tt><a href="cs-pos-AUX.html">AUX</a></tt> 1366: V roce 1993 to <b>bylo</b> paradoxně vlivem opatření MF ČR jen 137.10 Kč .
-  * <tt><a href="cs-pos-VERB.html">VERB</a></tt> 290: A jak to <b>bylo</b> dál ?
-* bude
-  * <tt><a href="cs-pos-AUX.html">AUX</a></tt> 2454: Zdůraznil , že banka <b>bude</b> půjčovat ne firmě , ale nám osobně .
-  * <tt><a href="cs-pos-VERB.html">VERB</a></tt> 253: Obilovin <b>bude</b> letos o 495000 tun více
-* stal
-  * <tt><a href="cs-pos-VERB.html">VERB</a></tt> 240: Členem Afrického národního kongresu se <b>stal</b> v roce 1944 .
-  * <tt><a href="cs-pos-AUX.html">AUX</a></tt> 1: V lidové pověře se Jan <b>stal</b> ochráncem mostu a pánem nad řekou .
-* byl
-  * <tt><a href="cs-pos-AUX.html">AUX</a></tt> 1945: Také proto <b>byl</b> thajskou vládou založen Úřad pro exportní politiku .
-  * <tt><a href="cs-pos-VERB.html">VERB</a></tt> 214: Zájem <b>byl</b> o celek , o sítě , ne o drobky .
-* stát
-  * <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 301: Měřiče platí zatím <b>stát</b> , takže ale vlastně zase občan .
-  * <tt><a href="cs-pos-VERB.html">VERB</a></tt> 226: Jedno sprchování bude <b>stát</b> 0.92 Kč .
-* být
-  * <tt><a href="cs-pos-AUX.html">AUX</a></tt> 1853: Na požádání může <b>být</b> zaslán seznam firem .
-  * <tt><a href="cs-pos-VERB.html">VERB</a></tt> 209: Jsou to možná velká slova , ale " tak nějak " by to asi mělo <b>být</b> .
+* <em>má</em>
+  * <tt><a href="cs-pos-VERB.html">VERB</a></tt> 2171: <em>A čeho si <b>má</b> při své návštěvě především všímat ?</em>
+  * <tt><a href="cs-pos-DET.html">DET</a></tt> 16: <em>Kam se poděla <b>má</b> bojovnost ? ptala se sama sebe po utkání Martinezová .</em>
+* <em>je</em>
+  * <tt><a href="cs-pos-AUX.html">AUX</a></tt> 10151: <em>Váš obecně platný dotaz <b>je</b> připraven zodpovědět spolupracovník Profitu .</em>
+  * <tt><a href="cs-pos-VERB.html">VERB</a></tt> 1986: <em>U každého výrobku <b>je</b> krátká charakteristika a kontaktní adresa výrobce .</em>
+  * <tt><a href="cs-pos-PRON.html">PRON</a></tt> 887: <em>Změny jsou citelné , je třeba <b>je</b> lépe prezentovat</em>
+* <em>jsou</em>
+  * <tt><a href="cs-pos-AUX.html">AUX</a></tt> 2639: <em>Změny <b>jsou</b> citelné , je třeba je lépe prezentovat</em>
+  * <tt><a href="cs-pos-VERB.html">VERB</a></tt> 616: <em>Další závady , ke kterým dochází , <b>jsou</b> :</em>
+* <em>není</em>
+  * <tt><a href="cs-pos-AUX.html">AUX</a></tt> 1224: <em>Ředitel Nováček připouští , že současnost <b>není</b> nijak optimistická .</em>
+  * <tt><a href="cs-pos-VERB.html">VERB</a></tt> 322: <em>Vlastně se zas <b>není</b> tolik čemu divit .</em>
+* <em>bylo</em>
+  * <tt><a href="cs-pos-AUX.html">AUX</a></tt> 1366: <em>V roce 1993 to <b>bylo</b> paradoxně vlivem opatření MF ČR jen 137.10 Kč .</em>
+  * <tt><a href="cs-pos-VERB.html">VERB</a></tt> 290: <em>A jak to <b>bylo</b> dál ?</em>
+* <em>bude</em>
+  * <tt><a href="cs-pos-AUX.html">AUX</a></tt> 2454: <em>Zdůraznil , že banka <b>bude</b> půjčovat ne firmě , ale nám osobně .</em>
+  * <tt><a href="cs-pos-VERB.html">VERB</a></tt> 253: <em>Obilovin <b>bude</b> letos o 495000 tun více</em>
+* <em>stal</em>
+  * <tt><a href="cs-pos-VERB.html">VERB</a></tt> 240: <em>Členem Afrického národního kongresu se <b>stal</b> v roce 1944 .</em>
+  * <tt><a href="cs-pos-AUX.html">AUX</a></tt> 1: <em>V lidové pověře se Jan <b>stal</b> ochráncem mostu a pánem nad řekou .</em>
+* <em>byl</em>
+  * <tt><a href="cs-pos-AUX.html">AUX</a></tt> 1945: <em>Také proto <b>byl</b> thajskou vládou založen Úřad pro exportní politiku .</em>
+  * <tt><a href="cs-pos-VERB.html">VERB</a></tt> 214: <em>Zájem <b>byl</b> o celek , o sítě , ne o drobky .</em>
+* <em>stát</em>
+  * <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 301: <em>Měřiče platí zatím <b>stát</b> , takže ale vlastně zase občan .</em>
+  * <tt><a href="cs-pos-VERB.html">VERB</a></tt> 226: <em>Jedno sprchování bude <b>stát</b> 0.92 Kč .</em>
+* <em>být</em>
+  * <tt><a href="cs-pos-AUX.html">AUX</a></tt> 1853: <em>Na požádání může <b>být</b> zaslán seznam firem .</em>
+  * <tt><a href="cs-pos-VERB.html">VERB</a></tt> 209: <em>Jsou to možná velká slova , ale " tak nějak " by to asi mělo <b>být</b> .</em>
 
 ## Morphology
 
 The form / lemma ratio of `VERB` is 3.717008 (the average of all parts of speech is 2.181849).
 
-The 1st highest number of forms (46) was observed with the lemma “být”: Jsouc, bolo, bude, budeme, budete, budiž, budou, budu, buď, buďte, by, bych, bychom, byl, byla, byli, bylo, byly, bysme, být, býti, j, je, jest, jsem, jsi, jsme, jsou, jste, nebude, nebudeme, nebudeš, nebudou, nebudu, nebyl, nebyla, nebyli, nebylo, nebyly, nebýt, nejsem, nejsme, nejsou, nejste, není, si.
+The 1st highest number of forms (46) was observed with the lemma “být”: <em>Jsouc, bolo, bude, budeme, budete, budiž, budou, budu, buď, buďte, by, bych, bychom, byl, byla, byli, bylo, byly, bysme, být, býti, j, je, jest, jsem, jsi, jsme, jsou, jste, nebude, nebudeme, nebudeš, nebudou, nebudu, nebyl, nebyla, nebyli, nebylo, nebyly, nebýt, nejsem, nejsme, nejsou, nejste, není, si</em>.
 
-The 2nd highest number of forms (36) was observed with the lemma “stát”: nestal, nestala, nestali, nestalo, nestaly, nestane, nestanou, nestojí, nestojíme, nestojíte, nestál, nestála, nestáli, nestálo, nestály, stal, stala, stali, stalo, staly, stane, stanete, stanou, stanu, stoje, stojí, stojím, stojíme, stál, stála, stáli, stálo, stály, stát, státi, stůj.
+The 2nd highest number of forms (36) was observed with the lemma “stát”: <em>nestal, nestala, nestali, nestalo, nestaly, nestane, nestanou, nestojí, nestojíme, nestojíte, nestál, nestála, nestáli, nestálo, nestály, stal, stala, stali, stalo, staly, stane, stanete, stanou, stanu, stoje, stojí, stojím, stojíme, stál, stála, stáli, stálo, stály, stát, státi, stůj</em>.
 
-The 3rd highest number of forms (31) was observed with the lemma “jít”: Nejít, Pojď, Pojďme, jde, jdem, jdeme, jdete, jdou, jít, nejde, nejdeme, nejdou, nejdu, nepůjde, nepůjdou, nepůjdu, nešel, nešla, nešli, nešlo, nešly, půjde, půjdeme, půjdete, půjdou, půjdu, šel, šla, šli, šlo, šly.
+The 3rd highest number of forms (31) was observed with the lemma “jít”: <em>Nejít, Pojď, Pojďme, jde, jdem, jdeme, jdete, jdou, jít, nejde, nejdeme, nejdou, nejdu, nepůjde, nepůjdou, nepůjdu, nešel, nešla, nešli, nešlo, nešly, půjde, půjdeme, půjdete, půjdou, půjdu, šel, šla, šli, šlo, šly</em>.
 
 `VERB` occurs with 14 features: <tt><a href="cs-feat-VerbForm.html">VerbForm</a></tt> (135510; 100% instances), <tt><a href="cs-feat-Polarity.html">Polarity</a></tt> (135495; 100% instances), <tt><a href="cs-feat-Number.html">Number</a></tt> (111091; 82% instances), <tt><a href="cs-feat-Tense.html">Tense</a></tt> (110213; 81% instances), <tt><a href="cs-feat-Voice.html">Voice</a></tt> (110213; 81% instances), <tt><a href="cs-feat-Aspect.html">Aspect</a></tt> (81764; 60% instances), <tt><a href="cs-feat-Mood.html">Mood</a></tt> (60745; 45% instances), <tt><a href="cs-feat-Person.html">Person</a></tt> (60733; 45% instances), <tt><a href="cs-feat-Gender.html">Gender</a></tt> (50342; 37% instances), <tt><a href="cs-feat-Animacy.html">Animacy</a></tt> (12708; 9% instances), <tt><a href="cs-feat-Style.html">Style</a></tt> (172; 0% instances), <tt><a href="cs-feat-Foreign.html">Foreign</a></tt> (119; 0% instances), <tt><a href="cs-feat-Abbr.html">Abbr</a></tt> (22; 0% instances), <tt><a href="cs-feat-NameType.html">NameType</a></tt> (13; 0% instances)
 
@@ -66,7 +66,7 @@ The 3rd highest number of forms (31) was observed with the lemma “jít”: Nej
 
 `VERB` occurs with 189 feature combinations.
 The most frequent feature combination is `Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act` (17364 tokens).
-Examples: říká patří znamená tvrdí představuje uvádí považuje existuje začíná vyplývá
+Examples: <em>říká, patří, znamená, tvrdí, představuje, uvádí, považuje, existuje, začíná, vyplývá</em>
 
 
 ## Relations

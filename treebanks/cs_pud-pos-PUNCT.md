@@ -9,9 +9,9 @@ udver: '2'
 There are 16 `PUNCT` lemmas (0%), 15 `PUNCT` types (0%) and 2624 `PUNCT` tokens (14%).
 Out of 15 observed tags, the rank of `PUNCT` is: 12 in number of lemmas, 13 in number of types and 2 in number of tokens.
 
-The 10 most frequent `PUNCT` lemmas: , . " - ( ) : ; ? –
+The 10 most frequent `PUNCT` lemmas: <em>,, ., ", -, (, ), :, ;, ?, –</em>
 
-The 10 most frequent `PUNCT` types:  , . “ „ ( ) : – ; -
+The 10 most frequent `PUNCT` types:  <em>,, ., “, „, (, ), :, –, ;, -</em>
 
 The 10 most frequent ambiguous lemmas: 
 
@@ -23,11 +23,11 @@ The 10 most frequent ambiguous types:
 
 The form / lemma ratio of `PUNCT` is 0.937500 (the average of all parts of speech is 1.427558).
 
-The 1st highest number of forms (2) was observed with the lemma “"”: “, „.
+The 1st highest number of forms (2) was observed with the lemma “"”: <em>“, „</em>.
 
-The 2nd highest number of forms (2) was observed with the lemma “-”: -, –.
+The 2nd highest number of forms (2) was observed with the lemma “-”: <em>-, –</em>.
 
-The 3rd highest number of forms (1) was observed with the lemma “'”: '.
+The 3rd highest number of forms (1) was observed with the lemma “'”: <em>'</em>.
 
 `PUNCT` does not occur with any features.
 

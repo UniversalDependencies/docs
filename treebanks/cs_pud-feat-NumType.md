@@ -22,7 +22,7 @@ The most frequent other feature values with which `NUM` and `NumType` co-occurre
 
 `NUM` tokens may have the following values of `NumType`:
 
-* `Card` (459; 100% of non-empty `NumType`): dva čtyři dvou dvě jedné 1 3 jeden 20 dvěma
+* `Card` (459; 100% of non-empty `NumType`): <em>dva, čtyři, dvou, dvě, jedné, 1, 3, jeden, 20, dvěma</em>
 
 `NumType` seems to be **lexical feature** of `NUM`. 100% lemmas (222) occur only with one value of `NumType`.
 
@@ -30,13 +30,13 @@ The most frequent other feature values with which `NUM` and `NumType` co-occurre
 
 76 <tt><a href="cs_pud-pos-ADJ.html">ADJ</a></tt> tokens (3% of all `ADJ` tokens) have a non-empty value of `NumType`.
 
-The most frequent other feature values with which `ADJ` and `NumType` co-occurred: <tt><a href="cs_pud-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (76; 100%), <tt><a href="cs_pud-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (76; 100%), <tt><a href="cs_pud-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (76; 100%), <tt><a href="cs_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (76; 100%), <tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (60; 79%), <tt><a href="cs_pud-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (60; 79%).
+The most frequent other feature values with which `ADJ` and `NumType` co-occurred: <tt><a href="cs_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (76; 100%), <tt><a href="cs_pud-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (76; 100%), <tt><a href="cs_pud-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (76; 100%), <tt><a href="cs_pud-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (76; 100%), <tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (60; 79%), <tt><a href="cs_pud-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (60; 79%).
 
 `ADJ` tokens may have the following values of `NumType`:
 
-* `Ord` (75; 99% of non-empty `NumType`): první druhé prvního třetí druhou šedesátých druhý dvacátého padesátých prvních
-* `Sets` (1; 1% of non-empty `NumType`): jedni
-* `EMPTY` (2208): další nové jižní severní hlavní velká velké vlastní poslední jiné
+* `Ord` (75; 99% of non-empty `NumType`): <em>první, druhé, prvního, třetí, druhou, šedesátých, druhý, dvacátého, padesátých, prvních</em>
+* `Sets` (1; 1% of non-empty `NumType`): <em>jedni</em>
+* `EMPTY` (2208): <em>další, nové, jižní, severní, hlavní, velká, velké, vlastní, poslední, jiné</em>
 
 `NumType` seems to be **lexical feature** of `ADJ`. 100% lemmas (18) occur only with one value of `NumType`.
 
@@ -44,12 +44,12 @@ The most frequent other feature values with which `ADJ` and `NumType` co-occurre
 
 46 <tt><a href="cs_pud-pos-DET.html">DET</a></tt> tokens (6% of all `DET` tokens) have a non-empty value of `NumType`.
 
-The most frequent other feature values with which `DET` and `NumType` co-occurred: <tt><a href="cs_pud-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (46; 100%), <tt><a href="cs_pud-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (46; 100%), <tt><a href="cs_pud-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (46; 100%), <tt><a href="cs_pud-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (46; 100%), <tt><a href="cs_pud-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (46; 100%), <tt><a href="cs_pud-feat-Gender-psor.html">Gender[psor]</a></tt><tt>=EMPTY</tt> (46; 100%), <tt><a href="cs_pud-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (46; 100%), <tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (46; 100%), <tt><a href="cs_pud-feat-PronType.html">PronType</a></tt><tt>=Ind</tt> (43; 93%).
+The most frequent other feature values with which `DET` and `NumType` co-occurred: <tt><a href="cs_pud-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (46; 100%), <tt><a href="cs_pud-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (46; 100%), <tt><a href="cs_pud-feat-Gender-psor.html">Gender[psor]</a></tt><tt>=EMPTY</tt> (46; 100%), <tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (46; 100%), <tt><a href="cs_pud-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (46; 100%), <tt><a href="cs_pud-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (46; 100%), <tt><a href="cs_pud-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (46; 100%), <tt><a href="cs_pud-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (46; 100%), <tt><a href="cs_pud-feat-PronType.html">PronType</a></tt><tt>=Ind</tt> (43; 93%).
 
 `DET` tokens may have the following values of `NumType`:
 
-* `Card` (46; 100% of non-empty `NumType`): mnoho několik mnoha několika tolik kolika mála málo
-* `EMPTY` (767): to který jeho které která jejich své toho její kteří
+* `Card` (46; 100% of non-empty `NumType`): <em>mnoho, několik, mnoha, několika, tolik, kolika, mála, málo</em>
+* `EMPTY` (767): <em>to, který, jeho, které, která, jejich, své, toho, její, kteří</em>
 
 ### `ADV`
 
@@ -59,9 +59,9 @@ The most frequent other feature values with which `ADV` and `NumType` co-occurre
 
 `ADV` tokens may have the following values of `NumType`:
 
-* `Mult` (8; 50% of non-empty `NumType`): třikrát dvakrát jednou několikrát mnohokrát
-* `Ord` (8; 50% of non-empty `NumType`): poprvé podruhé
-* `EMPTY` (833): tak také jak více poté už kde pouze stejně ještě
+* `Mult` (8; 50% of non-empty `NumType`): <em>třikrát, dvakrát, jednou, několikrát, mnohokrát</em>
+* `Ord` (8; 50% of non-empty `NumType`): <em>poprvé, podruhé</em>
+* `EMPTY` (833): <em>tak, také, jak, více, poté, už, kde, pouze, stejně, ještě</em>
 
 ## Relations with Agreement in `NumType`
 

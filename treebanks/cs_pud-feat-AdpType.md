@@ -20,14 +20,14 @@ The feature is used with 1 part-of-speech tags: <tt><a href="cs_pud-pos-ADP.html
 
 `ADP` tokens may have the following values of `AdpType`:
 
-* `Comprep` (3; 0% of non-empty `AdpType`): vzhledem
-* `Prep` (1688; 92% of non-empty `AdpType`): v na z s do o k pro za po
-* `Voc` (150; 8% of non-empty `AdpType`): ve ze se ke skrze za
+* `Comprep` (3; 0% of non-empty `AdpType`): <em>vzhledem</em>
+* `Prep` (1688; 92% of non-empty `AdpType`): <em>v, na, z, s, do, o, k, pro, za, po</em>
+* `Voc` (150; 8% of non-empty `AdpType`): <em>ve, ze, se, ke, skrze, za</em>
 
 <table>
   <tr><th>Paradigm <i>v</i></th><th><tt>Prep</tt></th><th><tt>Voc</tt></th></tr>
-  <tr><td><tt><tt><a href="cs_pud-feat-Case.html">Case</a></tt><tt>=Acc</tt></tt></td><td>v</td><td>ve</td></tr>
-  <tr><td><tt><tt><a href="cs_pud-feat-Case.html">Case</a></tt><tt>=Loc</tt></tt></td><td>v</td><td>ve</td></tr>
+  <tr><td><tt><tt><a href="cs_pud-feat-Case.html">Case</a></tt><tt>=Acc</tt></tt></td><td><em>v</em></td><td><em>ve</em></td></tr>
+  <tr><td><tt><tt><a href="cs_pud-feat-Case.html">Case</a></tt><tt>=Loc</tt></tt></td><td><em>v</em></td><td><em>ve</em></td></tr>
 </table>
 
 ## Relations with Agreement in `AdpType`

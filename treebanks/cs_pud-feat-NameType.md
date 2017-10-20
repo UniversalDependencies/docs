@@ -23,23 +23,22 @@ The most frequent other feature values with which `PROPN` and `NameType` co-occu
 
 `PROPN` tokens may have the following values of `NameType`:
 
-* `Com` (111; 10% of non-empty `NameType`): USA Čching BBC CNN EU Aviva Company Facebooku Investors Multi
-* `Com,Geo` (1; 0% of non-empty `NameType`): Scotland
-* `Com,Pro` (3; 0% of non-empty `NameType`): Ford GM
-* `Geo` (386; 36% of non-empty `NameType`): Čína Francie Albánie Británii Danevirke Evropě Itálii Ameriky Asii Británie
-* `Geo,Giv` (3; 0% of non-empty `NameType`): Thrákie Thrákii Thrákií
-* `Giv` (195; 18% of non-empty `NameType`): Donald Richarda Augustus Donalda František George González Jasmína Ježíše Joseph
-* `Giv,Sur` (5; 0% of non-empty `NameType`): James Michael Michala Stephen Štěpán
-* `Nat` (41; 4% of non-empty `NameType`): Australané Mayové Číňanů Řekové Židů Aboriginci Achájů Američan Američané Athéňanů
-* `Oth` (2; 0% of non-empty `NameType`): Cup Cupu
-* `Pro` (19; 2% of non-empty `NameType`): Endurance Dead Greco Loving MahaNakhon Mate Nectar Select Simple Slack
-* `Sur` (312; 29% of non-empty `NameType`): Clintonové Trump Trumpa Bluntová Mišima Seagal Winstone Wright Šen Aldrin
+* `Com` (111; 10% of non-empty `NameType`): <em>USA, Čching, BBC, CNN, EU, Aviva, Company, Facebooku, Investors, Multi</em>
+* `Com,Geo` (1; 0% of non-empty `NameType`): <em>Scotland</em>
+* `Com,Pro` (3; 0% of non-empty `NameType`): <em>Ford, GM</em>
+* `Geo` (386; 36% of non-empty `NameType`): <em>Čína, Francie, Albánie, Británii, Danevirke, Evropě, Itálii, Ameriky, Asii, Británie</em>
+* `Geo,Giv` (3; 0% of non-empty `NameType`): <em>Thrákie, Thrákii, Thrákií</em>
+* `Giv` (195; 18% of non-empty `NameType`): <em>Donald, Richarda, Augustus, Donalda, František, George, González, Jasmína, Ježíše, Joseph</em>
+* `Giv,Sur` (5; 0% of non-empty `NameType`): <em>James, Michael, Michala, Stephen, Štěpán</em>
+* `Nat` (41; 4% of non-empty `NameType`): <em>Australané, Mayové, Číňanů, Řekové, Židů, Aboriginci, Achájů, Američan, Američané, Athéňanů</em>
+* `Oth` (2; 0% of non-empty `NameType`): <em>Cup, Cupu</em>
+* `Pro` (19; 2% of non-empty `NameType`): <em>Endurance, Dead, Greco, Loving, MahaNakhon, Mate, Nectar, Select, Simple, Slack</em>
+* `Sur` (312; 29% of non-empty `NameType`): <em>Clintonové, Trump, Trumpa, Bluntová, Mišima, Seagal, Winstone, Wright, Šen, Aldrin</em>
 
 <table>
-  <tr><th>Paradigm <i>Andy</i></th><th><tt>Geo</tt></th><th><tt>Giv</tt></th></tr>
-  <tr><td><tt><tt><a href="cs_pud-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt>|<tt><a href="cs_pud-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="cs_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td>Andymu</td></tr>
-  <tr><td><tt><tt><a href="cs_pud-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt>|<tt><a href="cs_pud-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="cs_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td>Andyho</td></tr>
-  <tr><td><tt><tt><a href="cs_pud-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="cs_pud-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td>Andy</td><td></td></tr>
+  <tr><th>Paradigm <i>Rona</i></th><th><tt>Geo</tt></th><th><tt>Giv</tt></th></tr>
+  <tr><td><tt><tt><a href="cs_pud-feat-Case.html">Case</a></tt><tt>=Dat</tt></tt></td><td><em>Roně</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="cs_pud-feat-Case.html">Case</a></tt><tt>=Nom</tt></tt></td><td><em>Rona</em></td><td><em>Rona</em></td></tr>
 </table>
 
 `NameType` seems to be **lexical feature** of `PROPN`. 99% lemmas (769) occur only with one value of `NameType`.
@@ -48,15 +47,15 @@ The most frequent other feature values with which `PROPN` and `NameType` co-occu
 
 56 <tt><a href="cs_pud-pos-ADJ.html">ADJ</a></tt> tokens (2% of all `ADJ` tokens) have a non-empty value of `NameType`.
 
-The most frequent other feature values with which `ADJ` and `NameType` co-occurred: <tt><a href="cs_pud-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (56; 100%), <tt><a href="cs_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (56; 100%), <tt><a href="cs_pud-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (41; 73%), <tt><a href="cs_pud-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (34; 61%), <tt><a href="cs_pud-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (34; 61%).
+The most frequent other feature values with which `ADJ` and `NameType` co-occurred: <tt><a href="cs_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (56; 100%), <tt><a href="cs_pud-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (56; 100%), <tt><a href="cs_pud-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (41; 73%), <tt><a href="cs_pud-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (34; 61%), <tt><a href="cs_pud-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (34; 61%).
 
 `ADJ` tokens may have the following values of `NameType`:
 
-* `Com` (5; 9% of non-empty `NameType`): National American Die
-* `Geo` (12; 21% of non-empty `NameType`): New San Beverly Kapského Los Pearl Severní Silicon South Wall
-* `Giv` (10; 18% of non-empty `NameType`): Saint Alexandrově Caesarovi Cottonovy Césarovo Dareiův Edgarovy Germaininých Kimově
-* `Pro` (2; 4% of non-empty `NameType`): El World
-* `Sur` (27; 48% of non-empty `NameType`): achaimenovské Achaimenovskou Achaimenovská Bergeronova Berijovo Blochových Carangiina Dossovy Erdoganovu Graftonova
+* `Com` (5; 9% of non-empty `NameType`): <em>National, American, Die</em>
+* `Geo` (12; 21% of non-empty `NameType`): <em>New, San, Beverly, Kapského, Los, Pearl, Severní, Silicon, South, Wall</em>
+* `Giv` (10; 18% of non-empty `NameType`): <em>Saint, Alexandrově, Caesarovi, Cottonovy, Césarovo, Dareiův, Edgarovy, Germaininých, Kimově</em>
+* `Pro` (2; 4% of non-empty `NameType`): <em>El, World</em>
+* `Sur` (27; 48% of non-empty `NameType`): <em>achaimenovské, Achaimenovskou, Achaimenovská, Bergeronova, Berijovo, Blochových, Carangiina, Dossovy, Erdoganovu, Graftonova</em>
 
 `NameType` seems to be **lexical feature** of `ADJ`. 100% lemmas (49) occur only with one value of `NameType`.
 
@@ -68,7 +67,7 @@ The most frequent other feature values with which `ADP` and `NameType` co-occurr
 
 `ADP` tokens may have the following values of `NameType`:
 
-* `Geo,Giv,Sur` (1; 100% of non-empty `NameType`): Di
+* `Geo,Giv,Sur` (1; 100% of non-empty `NameType`): <em>Di</em>
 
 ## Relations with Agreement in `NameType`
 

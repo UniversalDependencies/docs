@@ -18,13 +18,13 @@ The feature is used with 1 part-of-speech tags: <tt><a href="cs_pud-pos-NUM.html
 
 459 <tt><a href="cs_pud-pos-NUM.html">NUM</a></tt> tokens (100% of all `NUM` tokens) have a non-empty value of `NumForm`.
 
-The most frequent other feature values with which `NUM` and `NumForm` co-occurred: <tt><a href="cs_pud-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (459; 100%), <tt><a href="cs_pud-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (397; 86%), <tt><a href="cs_pud-feat-NumValue.html">NumValue</a></tt><tt>=EMPTY</tt> (357; 78%), <tt><a href="cs_pud-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (319; 69%), <tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (319; 69%).
+The most frequent other feature values with which `NUM` and `NumForm` co-occurred: <tt><a href="cs_pud-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (459; 100%), <tt><a href="cs_pud-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (397; 86%), <tt><a href="cs_pud-feat-NumValue.html">NumValue</a></tt><tt>=EMPTY</tt> (357; 78%), <tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (319; 69%), <tt><a href="cs_pud-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (319; 69%).
 
 `NUM` tokens may have the following values of `NumForm`:
 
-* `Digit` (303; 66% of non-empty `NumForm`): 1 3 20 2014 2015 5 10 100 1492 2010
-* `Roman` (16; 3% of non-empty `NumForm`): I III II IV V VI X
-* `Word` (140; 31% of non-empty `NumForm`): dva čtyři dvou dvě jedné jeden dvěma deset jedna jedním
+* `Digit` (303; 66% of non-empty `NumForm`): <em>1, 3, 20, 2014, 2015, 5, 10, 100, 1492, 2010</em>
+* `Roman` (16; 3% of non-empty `NumForm`): <em>I, III, II, IV, V, VI, X</em>
+* `Word` (140; 31% of non-empty `NumForm`): <em>dva, čtyři, dvou, dvě, jedné, jeden, dvěma, deset, jedna, jedním</em>
 
 `NumForm` seems to be **lexical feature** of `NUM`. 100% lemmas (222) occur only with one value of `NumForm`.
 

@@ -22,5 +22,5 @@ The most frequent other feature values with which `ADJ` and `Hyph` co-occurred: 
 
 `ADJ` tokens may have the following values of `Hyph`:
 
-* `Yes` (11; 100% of non-empty `Hyph`): do od pod
+* `Yes` (11; 100% of non-empty `Hyph`): <em>do, od, pod</em>
 

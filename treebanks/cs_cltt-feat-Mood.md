@@ -22,8 +22,8 @@ The most frequent other feature values with which `VERB` and `Mood` co-occurred:
 
 `VERB` tokens may have the following values of `Mood`:
 
-* `Ind` (1426; 100% of non-empty `Mood`): obsahuje rozumí může uvede mohou použijí stanoví musí účtuje lze
-* `EMPTY` (691): vést použít stanoveno mít účtovat došlo odpisovat uvést sestavena sestavit
+* `Ind` (1426; 100% of non-empty `Mood`): <em>obsahuje, rozumí, může, uvede, mohou, použijí, stanoví, musí, účtuje, lze</em>
+* `EMPTY` (691): <em>vést, použít, stanoveno, mít, účtovat, došlo, odpisovat, uvést, sestavena, sestavit</em>
 
 `Mood` seems to be **lexical feature** of `VERB`. 100% lemmas (224) occur only with one value of `Mood`.
 
@@ -35,19 +35,19 @@ The most frequent other feature values with which `AUX` and `Mood` co-occurred: 
 
 `AUX` tokens may have the following values of `Mood`:
 
-* `Cnd` (26; 6% of non-empty `Mood`): by
-* `Ind` (438; 94% of non-empty `Mood`): je jsou nejsou není bude budou
-* `EMPTY` (140): být byly byl není-li je-li bylo jsou-li nebyly byla nebyla
+* `Cnd` (26; 6% of non-empty `Mood`): <em>by</em>
+* `Ind` (438; 94% of non-empty `Mood`): <em>je, jsou, nejsou, není, bude, budou</em>
+* `EMPTY` (140): <em>být, byly, byl, není-li, je-li, bylo, jsou-li, nebyly, byla, nebyla</em>
 
 <table>
   <tr><th>Paradigm <i>být</i></th><th><tt>Ind</tt></th><th><tt>Cnd</tt></th></tr>
-  <tr><td><tt><tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs_cltt-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="cs_cltt-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="cs_cltt-feat-Tense.html">Tense</a></tt><tt>=Fut</tt>|<tt><a href="cs_cltt-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td>bude</td><td></td></tr>
-  <tr><td><tt><tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs_cltt-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="cs_cltt-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="cs_cltt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="cs_cltt-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td>je, není</td><td></td></tr>
-  <tr><td><tt><tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="cs_cltt-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="cs_cltt-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="cs_cltt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="cs_cltt-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td>nejsou</td><td></td></tr>
-  <tr><td><tt><tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="cs_cltt-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="cs_cltt-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="cs_cltt-feat-Tense.html">Tense</a></tt><tt>=Fut</tt>|<tt><a href="cs_cltt-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td>budou</td><td></td></tr>
-  <tr><td><tt><tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="cs_cltt-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="cs_cltt-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="cs_cltt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="cs_cltt-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td>jsou</td><td></td></tr>
-  <tr><td><tt><tt><a href="cs_cltt-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td></td><td>by</td></tr>
-  <tr><td><tt></tt></td><td></td><td>by</td></tr>
+  <tr><td><tt><tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs_cltt-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="cs_cltt-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="cs_cltt-feat-Tense.html">Tense</a></tt><tt>=Fut</tt>|<tt><a href="cs_cltt-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>bude</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs_cltt-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="cs_cltt-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="cs_cltt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="cs_cltt-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>je, není</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="cs_cltt-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="cs_cltt-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="cs_cltt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="cs_cltt-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>nejsou</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="cs_cltt-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="cs_cltt-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="cs_cltt-feat-Tense.html">Tense</a></tt><tt>=Fut</tt>|<tt><a href="cs_cltt-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>budou</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="cs_cltt-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="cs_cltt-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="cs_cltt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="cs_cltt-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>jsou</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="cs_cltt-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td></td><td><em>by</em></td></tr>
+  <tr><td><tt></tt></td><td></td><td><em>by</em></td></tr>
 </table>
 
 ## Relations with Agreement in `Mood`

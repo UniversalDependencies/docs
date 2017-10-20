@@ -9,63 +9,63 @@ udver: '2'
 There are 113 `ADP` lemmas (0%), 132 `ADP` types (0%) and 145943 `ADP` tokens (10%).
 Out of 17 observed tags, the rank of `ADP` is: 7 in number of lemmas, 9 in number of types and 4 in number of tokens.
 
-The 10 most frequent `ADP` lemmas: v na z s o do k pro za po
+The 10 most frequent `ADP` lemmas: <em>v, na, z, s, o, do, k, pro, za, po</em>
 
-The 10 most frequent `ADP` types:  v na o z s do ve k pro za
+The 10 most frequent `ADP` types:  <em>v, na, o, z, s, do, ve, k, pro, za</em>
 
-The 10 most frequent ambiguous lemmas: v (<tt><a href="cs-pos-ADP.html">ADP</a></tt> 36265, <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 9, <tt><a href="cs-pos-ADJ.html">ADJ</a></tt> 1), z (<tt><a href="cs-pos-ADP.html">ADP</a></tt> 11656, <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 19), s (<tt><a href="cs-pos-ADP.html">ADP</a></tt> 11169, <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 90, <tt><a href="cs-pos-PART.html">PART</a></tt> 21, <tt><a href="cs-pos-X.html">X</a></tt> 3, <tt><a href="cs-pos-ADJ.html">ADJ</a></tt> 1), o (<tt><a href="cs-pos-ADP.html">ADP</a></tt> 10328, <tt><a href="cs-pos-PUNCT.html">PUNCT</a></tt> 100, <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 10, <tt><a href="cs-pos-ADJ.html">ADJ</a></tt> 3, <tt><a href="cs-pos-INTJ.html">INTJ</a></tt> 2), do (<tt><a href="cs-pos-ADP.html">ADP</a></tt> 7414, <tt><a href="cs-pos-PROPN.html">PROPN</a></tt> 11, <tt><a href="cs-pos-VERB.html">VERB</a></tt> 3, <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 2), k (<tt><a href="cs-pos-ADP.html">ADP</a></tt> 7084, <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 15), po (<tt><a href="cs-pos-ADP.html">ADP</a></tt> 3847, <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 6), podle (<tt><a href="cs-pos-ADP.html">ADP</a></tt> 3564, <tt><a href="cs-pos-ADV.html">ADV</a></tt> 1), u (<tt><a href="cs-pos-ADP.html">ADP</a></tt> 2378, <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 4), bez (<tt><a href="cs-pos-ADP.html">ADP</a></tt> 1147, <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>v</em> (<tt><a href="cs-pos-ADP.html">ADP</a></tt> 36265, <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 9, <tt><a href="cs-pos-ADJ.html">ADJ</a></tt> 1), <em>z</em> (<tt><a href="cs-pos-ADP.html">ADP</a></tt> 11656, <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 19), <em>s</em> (<tt><a href="cs-pos-ADP.html">ADP</a></tt> 11169, <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 90, <tt><a href="cs-pos-PART.html">PART</a></tt> 21, <tt><a href="cs-pos-X.html">X</a></tt> 3, <tt><a href="cs-pos-ADJ.html">ADJ</a></tt> 1), <em>o</em> (<tt><a href="cs-pos-ADP.html">ADP</a></tt> 10328, <tt><a href="cs-pos-PUNCT.html">PUNCT</a></tt> 100, <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 10, <tt><a href="cs-pos-ADJ.html">ADJ</a></tt> 3, <tt><a href="cs-pos-INTJ.html">INTJ</a></tt> 2), <em>do</em> (<tt><a href="cs-pos-ADP.html">ADP</a></tt> 7414, <tt><a href="cs-pos-PROPN.html">PROPN</a></tt> 11, <tt><a href="cs-pos-VERB.html">VERB</a></tt> 3, <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 2), <em>k</em> (<tt><a href="cs-pos-ADP.html">ADP</a></tt> 7084, <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 15), <em>po</em> (<tt><a href="cs-pos-ADP.html">ADP</a></tt> 3847, <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 6), <em>podle</em> (<tt><a href="cs-pos-ADP.html">ADP</a></tt> 3564, <tt><a href="cs-pos-ADV.html">ADV</a></tt> 1), <em>u</em> (<tt><a href="cs-pos-ADP.html">ADP</a></tt> 2378, <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 4), <em>bez</em> (<tt><a href="cs-pos-ADP.html">ADP</a></tt> 1147, <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 1)
 
-The 10 most frequent ambiguous types:  v (<tt><a href="cs-pos-ADP.html">ADP</a></tt> 26490, <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 4, <tt><a href="cs-pos-ADJ.html">ADJ</a></tt> 3), o (<tt><a href="cs-pos-ADP.html">ADP</a></tt> 9669, <tt><a href="cs-pos-ADJ.html">ADJ</a></tt> 110, <tt><a href="cs-pos-PUNCT.html">PUNCT</a></tt> 99, <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 4), z (<tt><a href="cs-pos-ADP.html">ADP</a></tt> 8838, <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 18), s (<tt><a href="cs-pos-ADP.html">ADP</a></tt> 8728, <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 381, <tt><a href="cs-pos-PART.html">PART</a></tt> 21, <tt><a href="cs-pos-ADJ.html">ADJ</a></tt> 9), do (<tt><a href="cs-pos-ADP.html">ADP</a></tt> 6970, <tt><a href="cs-pos-PROPN.html">PROPN</a></tt> 11, <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="cs-pos-VERB.html">VERB</a></tt> 2), k (<tt><a href="cs-pos-ADP.html">ADP</a></tt> 5508, <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 10, <tt><a href="cs-pos-ADJ.html">ADJ</a></tt> 1), po (<tt><a href="cs-pos-ADP.html">ADP</a></tt> 3165, <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 6), podle (<tt><a href="cs-pos-ADP.html">ADP</a></tt> 2143, <tt><a href="cs-pos-ADV.html">ADV</a></tt> 1), při (<tt><a href="cs-pos-ADP.html">ADP</a></tt> 2004, <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 1), u (<tt><a href="cs-pos-ADP.html">ADP</a></tt> 2039, <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 3)
+The 10 most frequent ambiguous types:  <em>v</em> (<tt><a href="cs-pos-ADP.html">ADP</a></tt> 26490, <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 4, <tt><a href="cs-pos-ADJ.html">ADJ</a></tt> 3), <em>o</em> (<tt><a href="cs-pos-ADP.html">ADP</a></tt> 9669, <tt><a href="cs-pos-ADJ.html">ADJ</a></tt> 110, <tt><a href="cs-pos-PUNCT.html">PUNCT</a></tt> 99, <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 4), <em>z</em> (<tt><a href="cs-pos-ADP.html">ADP</a></tt> 8838, <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 18), <em>s</em> (<tt><a href="cs-pos-ADP.html">ADP</a></tt> 8728, <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 381, <tt><a href="cs-pos-PART.html">PART</a></tt> 21, <tt><a href="cs-pos-ADJ.html">ADJ</a></tt> 9), <em>do</em> (<tt><a href="cs-pos-ADP.html">ADP</a></tt> 6970, <tt><a href="cs-pos-PROPN.html">PROPN</a></tt> 11, <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="cs-pos-VERB.html">VERB</a></tt> 2), <em>k</em> (<tt><a href="cs-pos-ADP.html">ADP</a></tt> 5508, <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 10, <tt><a href="cs-pos-ADJ.html">ADJ</a></tt> 1), <em>po</em> (<tt><a href="cs-pos-ADP.html">ADP</a></tt> 3165, <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 6), <em>podle</em> (<tt><a href="cs-pos-ADP.html">ADP</a></tt> 2143, <tt><a href="cs-pos-ADV.html">ADV</a></tt> 1), <em>při</em> (<tt><a href="cs-pos-ADP.html">ADP</a></tt> 2004, <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 1), <em>u</em> (<tt><a href="cs-pos-ADP.html">ADP</a></tt> 2039, <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 3)
 
 
-* v
-  * <tt><a href="cs-pos-ADP.html">ADP</a></tt> 26490: Poplatek <b>v</b> sobě zahrnuje i obědy a společenský koktejl .
-  * <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 4: Složením této rychlosti s původní rychlostí <b>v</b> planetka posléze Zemi mine .
-  * <tt><a href="cs-pos-ADJ.html">ADJ</a></tt> 3: Vývoj světového rekordu na 1500 m <b>v</b> . zp .
-* o
-  * <tt><a href="cs-pos-ADP.html">ADP</a></tt> 9669: Hodnota thajského vývozu se každým rokem zvyšuje <b>o</b> více než 12 % .
-  * <tt><a href="cs-pos-ADJ.html">ADJ</a></tt> 110: Monet , spol . s r . <b>o</b> .
-  * <tt><a href="cs-pos-PUNCT.html">PUNCT</a></tt> 99: UKRAJINA CHCE CHRÁNIT SVŮJ TRH <b>o</b>
-  * <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 4: Vítězem se stal britský boxer Benn , který vyhrál k . <b>o</b> . v desátém kole .
-* z
-  * <tt><a href="cs-pos-ADP.html">ADP</a></tt> 8838: Možnost opakovaného vysílání <b>z</b> paměti automaticky až na 53 adresátů .
-  * <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 18: Odtud název <b>z</b> . zvratné , tj . jako vracející se zpět k podmětu .
-* s
-  * <tt><a href="cs-pos-ADP.html">ADP</a></tt> 8728: Fax <b>s</b> kvalitním tiskem na normální papír .
-  * <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 381: O jeho návštěvě zevrubně informuje Reader ' <b>s</b> digest z prosince 1994 .
-  * <tt><a href="cs-pos-PART.html">PART</a></tt> 21: Vedle toho musí být <b>s</b> to zastoupit i chybějícího kolegu .
-  * <tt><a href="cs-pos-ADJ.html">ADJ</a></tt> 9: Vašek Káňa : Karhan ' <b>s</b> Men .
-* do
-  * <tt><a href="cs-pos-ADP.html">ADP</a></tt> 6970: Úřad pro exportní politiku je vyhledává ve světě a zve <b>do</b> Bangkoku .
-  * <tt><a href="cs-pos-PROPN.html">PROPN</a></tt> 11: Otrokovice ( <b>do</b> ) -
-  * <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 2: Tae - kwon - <b>do</b> a triatlon zřejmě v programu OH 2000
-  * <tt><a href="cs-pos-VERB.html">VERB</a></tt> 2: Když přijdu blíž , postaví se na obě a řekne mile : džambo , memsahib , how <b>do</b> you <b>do</b> ?
-* k
-  * <tt><a href="cs-pos-ADP.html">ADP</a></tt> 5508: Chci uzavřít pojištění a dostal jsem proto <b>k</b> vyplnění dotazník .
-  * <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 10: Auto pohání čtyřválcový motor o objemu 1743 ccm s výkonem 130 <b>k</b> .
-  * <tt><a href="cs-pos-ADJ.html">ADJ</a></tt> 1: Vítězem se stal britský boxer Benn , který vyhrál <b>k</b> . o . v desátém kole .
-* po
-  * <tt><a href="cs-pos-ADP.html">ADP</a></tt> 3165: Může <b>po</b> mně takové údaje pojišťovna vyžadovat ?
-  * <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 6: Hlídací pes ( <b>po</b> - pá 9.00 - 16.00 hod . )
-* podle
-  * <tt><a href="cs-pos-ADP.html">ADP</a></tt> 2143: Ceny tepla lze stanovit až dodatečně <b>podle</b> skutečných nákladů .
-  * <tt><a href="cs-pos-ADV.html">ADV</a></tt> 1: I když se rozumu přece podaří <b>podle</b> prchnout před svou vznešeností a oddat se zdánlivě pohodlné empirii kolem sebe , přece opět bolestně narazí na skandalon i v té prosté zkušenosti .
-* při
-  * <tt><a href="cs-pos-ADP.html">ADP</a></tt> 2004: A čeho si má <b>při</b> své návštěvě především všímat ?
-  * <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 1: Ten nyní hájí svou <b>při</b> s " popletenou mytologií rodu a krve " nebo také jazyka , a naštěstí již konečně převládá .
-* u
-  * <tt><a href="cs-pos-ADP.html">ADP</a></tt> 2039: Nebyly s tím <b>u</b> nás dosud žádné zkušenosti .
-  * <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 3: Nechť součet vnitřních úhlů , které svírají přímky p , q s přímkou <b>u</b> po její jedné straně je roven dvěma úhlům pravým .
+* <em>v</em>
+  * <tt><a href="cs-pos-ADP.html">ADP</a></tt> 26490: <em>Poplatek <b>v</b> sobě zahrnuje i obědy a společenský koktejl .</em>
+  * <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 4: <em>Složením této rychlosti s původní rychlostí <b>v</b> planetka posléze Zemi mine .</em>
+  * <tt><a href="cs-pos-ADJ.html">ADJ</a></tt> 3: <em>Vývoj světového rekordu na 1500 m <b>v</b> . zp .</em>
+* <em>o</em>
+  * <tt><a href="cs-pos-ADP.html">ADP</a></tt> 9669: <em>Hodnota thajského vývozu se každým rokem zvyšuje <b>o</b> více než 12 % .</em>
+  * <tt><a href="cs-pos-ADJ.html">ADJ</a></tt> 110: <em>Monet , spol . s r . <b>o</b> .</em>
+  * <tt><a href="cs-pos-PUNCT.html">PUNCT</a></tt> 99: <em>UKRAJINA CHCE CHRÁNIT SVŮJ TRH <b>o</b></em>
+  * <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 4: <em>Vítězem se stal britský boxer Benn , který vyhrál k . <b>o</b> . v desátém kole .</em>
+* <em>z</em>
+  * <tt><a href="cs-pos-ADP.html">ADP</a></tt> 8838: <em>Možnost opakovaného vysílání <b>z</b> paměti automaticky až na 53 adresátů .</em>
+  * <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 18: <em>Odtud název <b>z</b> . zvratné , tj . jako vracející se zpět k podmětu .</em>
+* <em>s</em>
+  * <tt><a href="cs-pos-ADP.html">ADP</a></tt> 8728: <em>Fax <b>s</b> kvalitním tiskem na normální papír .</em>
+  * <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 381: <em>O jeho návštěvě zevrubně informuje Reader ' <b>s</b> digest z prosince 1994 .</em>
+  * <tt><a href="cs-pos-PART.html">PART</a></tt> 21: <em>Vedle toho musí být <b>s</b> to zastoupit i chybějícího kolegu .</em>
+  * <tt><a href="cs-pos-ADJ.html">ADJ</a></tt> 9: <em>Vašek Káňa : Karhan ' <b>s</b> Men .</em>
+* <em>do</em>
+  * <tt><a href="cs-pos-ADP.html">ADP</a></tt> 6970: <em>Úřad pro exportní politiku je vyhledává ve světě a zve <b>do</b> Bangkoku .</em>
+  * <tt><a href="cs-pos-PROPN.html">PROPN</a></tt> 11: <em>Otrokovice ( <b>do</b> ) -</em>
+  * <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 2: <em>Tae - kwon - <b>do</b> a triatlon zřejmě v programu OH 2000</em>
+  * <tt><a href="cs-pos-VERB.html">VERB</a></tt> 2: <em>Když přijdu blíž , postaví se na obě a řekne mile : džambo , memsahib , how <b>do</b> you <b>do</b> ?</em>
+* <em>k</em>
+  * <tt><a href="cs-pos-ADP.html">ADP</a></tt> 5508: <em>Chci uzavřít pojištění a dostal jsem proto <b>k</b> vyplnění dotazník .</em>
+  * <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 10: <em>Auto pohání čtyřválcový motor o objemu 1743 ccm s výkonem 130 <b>k</b> .</em>
+  * <tt><a href="cs-pos-ADJ.html">ADJ</a></tt> 1: <em>Vítězem se stal britský boxer Benn , který vyhrál <b>k</b> . o . v desátém kole .</em>
+* <em>po</em>
+  * <tt><a href="cs-pos-ADP.html">ADP</a></tt> 3165: <em>Může <b>po</b> mně takové údaje pojišťovna vyžadovat ?</em>
+  * <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 6: <em>Hlídací pes ( <b>po</b> - pá 9.00 - 16.00 hod . )</em>
+* <em>podle</em>
+  * <tt><a href="cs-pos-ADP.html">ADP</a></tt> 2143: <em>Ceny tepla lze stanovit až dodatečně <b>podle</b> skutečných nákladů .</em>
+  * <tt><a href="cs-pos-ADV.html">ADV</a></tt> 1: <em>I když se rozumu přece podaří <b>podle</b> prchnout před svou vznešeností a oddat se zdánlivě pohodlné empirii kolem sebe , přece opět bolestně narazí na skandalon i v té prosté zkušenosti .</em>
+* <em>při</em>
+  * <tt><a href="cs-pos-ADP.html">ADP</a></tt> 2004: <em>A čeho si má <b>při</b> své návštěvě především všímat ?</em>
+  * <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 1: <em>Ten nyní hájí svou <b>při</b> s " popletenou mytologií rodu a krve " nebo také jazyka , a naštěstí již konečně převládá .</em>
+* <em>u</em>
+  * <tt><a href="cs-pos-ADP.html">ADP</a></tt> 2039: <em>Nebyly s tím <b>u</b> nás dosud žádné zkušenosti .</em>
+  * <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 3: <em>Nechť součet vnitřních úhlů , které svírají přímky p , q s přímkou <b>u</b> po její jedné straně je roven dvěma úhlům pravým .</em>
 
 ## Morphology
 
 The form / lemma ratio of `ADP` is 1.168142 (the average of all parts of speech is 2.181849).
 
-The 1st highest number of forms (3) was observed with the lemma “a”: a, ala, à.
+The 1st highest number of forms (3) was observed with the lemma “a”: <em>a, ala, à</em>.
 
-The 2nd highest number of forms (3) was observed with the lemma “k”: k, ke, ku.
+The 2nd highest number of forms (3) was observed with the lemma “k”: <em>k, ke, ku</em>.
 
-The 3rd highest number of forms (3) was observed with the lemma “nad”: n, nad, nade.
+The 3rd highest number of forms (3) was observed with the lemma “nad”: <em>n, nad, nade</em>.
 
 `ADP` occurs with 7 features: <tt><a href="cs-feat-AdpType.html">AdpType</a></tt> (145943; 100% instances), <tt><a href="cs-feat-Case.html">Case</a></tt> (145304; 100% instances), <tt><a href="cs-feat-Foreign.html">Foreign</a></tt> (592; 0% instances), <tt><a href="cs-feat-NameType.html">NameType</a></tt> (71; 0% instances), <tt><a href="cs-feat-Abbr.html">Abbr</a></tt> (23; 0% instances), <tt><a href="cs-feat-Style.html">Style</a></tt> (6; 0% instances), <tt><a href="cs-feat-Aspect.html">Aspect</a></tt> (1; 0% instances)
 
@@ -73,7 +73,7 @@ The 3rd highest number of forms (3) was observed with the lemma “nad”: n, na
 
 `ADP` occurs with 32 feature combinations.
 The most frequent feature combination is `AdpType=Prep|Case=Loc` (50236 tokens).
-Examples: v na o po při za
+Examples: <em>v, na, o, po, při, za</em>
 
 
 ## Relations

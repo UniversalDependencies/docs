@@ -9,43 +9,43 @@ udver: '2'
 There are 59 `NUM` lemmas (0%), 123 `NUM` types (0%) and 7307 `NUM` tokens (1%).
 Out of 16 observed tags, the rank of `NUM` is: 7 in number of lemmas, 8 in number of types and 13 in number of tokens.
 
-The 10 most frequent `NUM` lemmas: &camount; &cyear; jeden dva &clabel; &cdate; &cother; oba tři čtyři
+The 10 most frequent `NUM` lemmas: <em>&camount;, &cyear;, jeden, dva, &clabel;, &cdate;, &cother;, oba, tři, čtyři</em>
 
-The 10 most frequent `NUM` types:  # dvou jeden dvě tři dva obou jedné jednoho jedním
+The 10 most frequent `NUM` types:  <em>#, dvou, jeden, dvě, tři, dva, obou, jedné, jednoho, jedním</em>
 
-The 10 most frequent ambiguous lemmas: jeden (<tt><a href="cs_cac-pos-NUM.html">NUM</a></tt> 755, <tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt> 10), tisíc (<tt><a href="cs_cac-pos-NUM.html">NUM</a></tt> 48, <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> 39), půl (<tt><a href="cs_cac-pos-NUM.html">NUM</a></tt> 37, <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> 1), pár (<tt><a href="cs_cac-pos-NUM.html">NUM</a></tt> 23, <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> 12), sto (<tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> 36, <tt><a href="cs_cac-pos-NUM.html">NUM</a></tt> 13)
+The 10 most frequent ambiguous lemmas: <em>jeden</em> (<tt><a href="cs_cac-pos-NUM.html">NUM</a></tt> 755, <tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt> 10), <em>tisíc</em> (<tt><a href="cs_cac-pos-NUM.html">NUM</a></tt> 48, <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> 39), <em>půl</em> (<tt><a href="cs_cac-pos-NUM.html">NUM</a></tt> 37, <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> 1), <em>pár</em> (<tt><a href="cs_cac-pos-NUM.html">NUM</a></tt> 23, <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> 12), <em>sto</em> (<tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> 36, <tt><a href="cs_cac-pos-NUM.html">NUM</a></tt> 13)
 
-The 10 most frequent ambiguous types:  tisíc (<tt><a href="cs_cac-pos-NUM.html">NUM</a></tt> 48, <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> 8), jednou (<tt><a href="cs_cac-pos-ADV.html">ADV</a></tt> 52, <tt><a href="cs_cac-pos-NUM.html">NUM</a></tt> 23), půl (<tt><a href="cs_cac-pos-NUM.html">NUM</a></tt> 37, <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> 1), pár (<tt><a href="cs_cac-pos-NUM.html">NUM</a></tt> 23, <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> 5), sto (<tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> 8, <tt><a href="cs_cac-pos-NUM.html">NUM</a></tt> 6), set (<tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> 19, <tt><a href="cs_cac-pos-NUM.html">NUM</a></tt> 4)
+The 10 most frequent ambiguous types:  <em>tisíc</em> (<tt><a href="cs_cac-pos-NUM.html">NUM</a></tt> 48, <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> 8), <em>jednou</em> (<tt><a href="cs_cac-pos-ADV.html">ADV</a></tt> 52, <tt><a href="cs_cac-pos-NUM.html">NUM</a></tt> 23), <em>půl</em> (<tt><a href="cs_cac-pos-NUM.html">NUM</a></tt> 37, <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> 1), <em>pár</em> (<tt><a href="cs_cac-pos-NUM.html">NUM</a></tt> 23, <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> 5), <em>sto</em> (<tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> 8, <tt><a href="cs_cac-pos-NUM.html">NUM</a></tt> 6), <em>set</em> (<tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> 19, <tt><a href="cs_cac-pos-NUM.html">NUM</a></tt> 4)
 
 
-* tisíc
-  * <tt><a href="cs_cac-pos-NUM.html">NUM</a></tt> 48: Do konce této pětiletky bude ve Varnsdorfu postaveno <b>tisíc</b> nových bytů .
-  * <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> 8: V národním parku Serengeti je asi # <b>tisíc</b> lvů a to je právě tolik , kolik se jich tam může uživit .
-* jednou
-  * <tt><a href="cs_cac-pos-ADV.html">ADV</a></tt> 52: Při běžném užívání čistíme vařič <b>jednou</b> týdně , při překypění pokaždé .
-  * <tt><a href="cs_cac-pos-NUM.html">NUM</a></tt> 23: Jak známo , <b>jednou</b> ranou dub nepadne .
-* půl
-  * <tt><a href="cs_cac-pos-NUM.html">NUM</a></tt> 37: V <b>půl</b> sedmé je v prodejně , v sedm mají učni nástup .
-  * <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> 1: Začátkem roku # bylo vyrobeno již <b>půl</b> miliónu automobilů tohoto provedení , což je zhruba polovina celkové výroby automobilky v Mladé Boleslavi od zahájení výroby osobních automobilů v roce # .
-* pár
-  * <tt><a href="cs_cac-pos-NUM.html">NUM</a></tt> 23: Být zavřen ve tmě a mít nad sebou <b>pár</b> set metrů matičky země .
-  * <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> 5: A dnes ho už mají o pěkných <b>pár</b> centů navíc .
-* sto
-  * <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> 8: Sto lidí , <b>sto</b> povah , názorů , sklonů a zájmů .
-  * <tt><a href="cs_cac-pos-NUM.html">NUM</a></tt> 6: Posílen <b>sto</b> šedesáti body prohlásil jsem onoho večera mé ženě Drahušce .
-* set
-  * <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> 19: Třináct <b>set</b> delegátů .
-  * <tt><a href="cs_cac-pos-NUM.html">NUM</a></tt> 4: Tehdy se tu vystřídalo několik <b>set</b> dětí .
+* <em>tisíc</em>
+  * <tt><a href="cs_cac-pos-NUM.html">NUM</a></tt> 48: <em>Do konce této pětiletky bude ve Varnsdorfu postaveno <b>tisíc</b> nových bytů .</em>
+  * <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> 8: <em>V národním parku Serengeti je asi # <b>tisíc</b> lvů a to je právě tolik , kolik se jich tam může uživit .</em>
+* <em>jednou</em>
+  * <tt><a href="cs_cac-pos-ADV.html">ADV</a></tt> 52: <em>Při běžném užívání čistíme vařič <b>jednou</b> týdně , při překypění pokaždé .</em>
+  * <tt><a href="cs_cac-pos-NUM.html">NUM</a></tt> 23: <em>Jak známo , <b>jednou</b> ranou dub nepadne .</em>
+* <em>půl</em>
+  * <tt><a href="cs_cac-pos-NUM.html">NUM</a></tt> 37: <em>V <b>půl</b> sedmé je v prodejně , v sedm mají učni nástup .</em>
+  * <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> 1: <em>Začátkem roku # bylo vyrobeno již <b>půl</b> miliónu automobilů tohoto provedení , což je zhruba polovina celkové výroby automobilky v Mladé Boleslavi od zahájení výroby osobních automobilů v roce # .</em>
+* <em>pár</em>
+  * <tt><a href="cs_cac-pos-NUM.html">NUM</a></tt> 23: <em>Být zavřen ve tmě a mít nad sebou <b>pár</b> set metrů matičky země .</em>
+  * <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> 5: <em>A dnes ho už mají o pěkných <b>pár</b> centů navíc .</em>
+* <em>sto</em>
+  * <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> 8: <em>Sto lidí , <b>sto</b> povah , názorů , sklonů a zájmů .</em>
+  * <tt><a href="cs_cac-pos-NUM.html">NUM</a></tt> 6: <em>Posílen <b>sto</b> šedesáti body prohlásil jsem onoho večera mé ženě Drahušce .</em>
+* <em>set</em>
+  * <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> 19: <em>Třináct <b>set</b> delegátů .</em>
+  * <tt><a href="cs_cac-pos-NUM.html">NUM</a></tt> 4: <em>Tehdy se tu vystřídalo několik <b>set</b> dětí .</em>
 
 ## Morphology
 
 The form / lemma ratio of `NUM` is 2.084746 (the average of all parts of speech is 2.186309).
 
-The 1st highest number of forms (10) was observed with the lemma “jeden”: jeden, jedna, jedno, jednoho, jednom, jednomu, jednou, jednu, jedné, jedním.
+The 1st highest number of forms (10) was observed with the lemma “jeden”: <em>jeden, jedna, jedno, jednoho, jednom, jednomu, jednou, jednu, jedné, jedním</em>.
 
-The 2nd highest number of forms (7) was observed with the lemma “třetina”: třetin, třetina, třetinami, třetinou, třetinu, třetiny, třetině.
+The 2nd highest number of forms (7) was observed with the lemma “třetina”: <em>třetin, třetina, třetinami, třetinou, třetinu, třetiny, třetině</em>.
 
-The 3rd highest number of forms (5) was observed with the lemma “tři”: třech, třem, třemi, tři, tří.
+The 3rd highest number of forms (5) was observed with the lemma “tři”: <em>třech, třem, třemi, tři, tří</em>.
 
 `NUM` occurs with 7 features: <tt><a href="cs_cac-feat-NumType.html">NumType</a></tt> (7307; 100% instances), <tt><a href="cs_cac-feat-NumForm.html">NumForm</a></tt> (7247; 99% instances), <tt><a href="cs_cac-feat-Case.html">Case</a></tt> (2471; 34% instances), <tt><a href="cs_cac-feat-Number.html">Number</a></tt> (2471; 34% instances), <tt><a href="cs_cac-feat-NumValue.html">NumValue</a></tt> (1962; 27% instances), <tt><a href="cs_cac-feat-Gender.html">Gender</a></tt> (1199; 16% instances), <tt><a href="cs_cac-feat-Animacy.html">Animacy</a></tt> (100; 1% instances)
 
@@ -53,7 +53,7 @@ The 3rd highest number of forms (5) was observed with the lemma “tři”: tře
 
 `NUM` occurs with 49 feature combinations.
 The most frequent feature combination is `NumForm=Digit|NumType=Card` (4836 tokens).
-Examples: #
+Examples: <em>#</em>
 
 
 ## Relations

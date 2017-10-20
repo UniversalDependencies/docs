@@ -9,55 +9,55 @@ udver: '2'
 There are 1999 `NOUN` lemmas (37%), 2902 `NOUN` types (38%) and 4482 `NOUN` tokens (24%).
 Out of 15 observed tags, the rank of `NOUN` is: 1 in number of lemmas, 1 in number of types and 1 in number of tokens.
 
-The 10 most frequent `NOUN` lemmas: rok člověk doba město stát oblast válka místo země část
+The 10 most frequent `NOUN` lemmas: <em>rok, člověk, doba, město, stát, oblast, válka, místo, země, část</em>
 
-The 10 most frequent `NOUN` types:  roce roku let století letech době území období oblasti l
+The 10 most frequent `NOUN` types:  <em>roce, roku, let, století, letech, době, území, období, oblasti, l</em>
 
-The 10 most frequent ambiguous lemmas: stát (<tt><a href="cs_pud-pos-VERB.html">VERB</a></tt> 35, <tt><a href="cs_pud-pos-NOUN.html">NOUN</a></tt> 26), místo (<tt><a href="cs_pud-pos-NOUN.html">NOUN</a></tt> 23, <tt><a href="cs_pud-pos-ADP.html">ADP</a></tt> 1), růst (<tt><a href="cs_pud-pos-NOUN.html">NOUN</a></tt> 7, <tt><a href="cs_pud-pos-VERB.html">VERB</a></tt> 5), moc (<tt><a href="cs_pud-pos-NOUN.html">NOUN</a></tt> 6, <tt><a href="cs_pud-pos-ADV.html">ADV</a></tt> 2), Rafferty (<tt><a href="cs_pud-pos-NOUN.html">NOUN</a></tt> 4, <tt><a href="cs_pud-pos-PROPN.html">PROPN</a></tt> 1), pár (<tt><a href="cs_pud-pos-NOUN.html">NOUN</a></tt> 4, <tt><a href="cs_pud-pos-NUM.html">NUM</a></tt> 1), tisíc (<tt><a href="cs_pud-pos-NOUN.html">NOUN</a></tt> 3, <tt><a href="cs_pud-pos-NUM.html">NUM</a></tt> 1), Uber (<tt><a href="cs_pud-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="cs_pud-pos-PROPN.html">PROPN</a></tt> 1), vedoucí (<tt><a href="cs_pud-pos-ADJ.html">ADJ</a></tt> 5, <tt><a href="cs_pud-pos-NOUN.html">NOUN</a></tt> 2), Antarktida (<tt><a href="cs_pud-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="cs_pud-pos-PROPN.html">PROPN</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>stát</em> (<tt><a href="cs_pud-pos-VERB.html">VERB</a></tt> 35, <tt><a href="cs_pud-pos-NOUN.html">NOUN</a></tt> 26), <em>místo</em> (<tt><a href="cs_pud-pos-NOUN.html">NOUN</a></tt> 23, <tt><a href="cs_pud-pos-ADP.html">ADP</a></tt> 1), <em>růst</em> (<tt><a href="cs_pud-pos-NOUN.html">NOUN</a></tt> 7, <tt><a href="cs_pud-pos-VERB.html">VERB</a></tt> 5), <em>moc</em> (<tt><a href="cs_pud-pos-NOUN.html">NOUN</a></tt> 6, <tt><a href="cs_pud-pos-ADV.html">ADV</a></tt> 2), <em>Rafferty</em> (<tt><a href="cs_pud-pos-NOUN.html">NOUN</a></tt> 4, <tt><a href="cs_pud-pos-PROPN.html">PROPN</a></tt> 1), <em>pár</em> (<tt><a href="cs_pud-pos-NOUN.html">NOUN</a></tt> 4, <tt><a href="cs_pud-pos-NUM.html">NUM</a></tt> 1), <em>tisíc</em> (<tt><a href="cs_pud-pos-NOUN.html">NOUN</a></tt> 3, <tt><a href="cs_pud-pos-NUM.html">NUM</a></tt> 1), <em>Uber</em> (<tt><a href="cs_pud-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="cs_pud-pos-PROPN.html">PROPN</a></tt> 1), <em>vedoucí</em> (<tt><a href="cs_pud-pos-ADJ.html">ADJ</a></tt> 5, <tt><a href="cs_pud-pos-NOUN.html">NOUN</a></tt> 2), <em>Antarktida</em> (<tt><a href="cs_pud-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="cs_pud-pos-PROPN.html">PROPN</a></tt> 1)
 
-The 10 most frequent ambiguous types:  místo (<tt><a href="cs_pud-pos-NOUN.html">NOUN</a></tt> 12, <tt><a href="cs_pud-pos-ADP.html">ADP</a></tt> 1), stát (<tt><a href="cs_pud-pos-NOUN.html">NOUN</a></tt> 8, <tt><a href="cs_pud-pos-VERB.html">VERB</a></tt> 4), moci (<tt><a href="cs_pud-pos-NOUN.html">NOUN</a></tt> 4, <tt><a href="cs_pud-pos-VERB.html">VERB</a></tt> 1), pár (<tt><a href="cs_pud-pos-NOUN.html">NOUN</a></tt> 4, <tt><a href="cs_pud-pos-NUM.html">NUM</a></tt> 1), růst (<tt><a href="cs_pud-pos-NOUN.html">NOUN</a></tt> 4, <tt><a href="cs_pud-pos-VERB.html">VERB</a></tt> 1), září (<tt><a href="cs_pud-pos-NOUN.html">NOUN</a></tt> 4, <tt><a href="cs_pud-pos-VERB.html">VERB</a></tt> 1), Curie (<tt><a href="cs_pud-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="cs_pud-pos-PROPN.html">PROPN</a></tt> 1), moc (<tt><a href="cs_pud-pos-ADV.html">ADV</a></tt> 2, <tt><a href="cs_pud-pos-NOUN.html">NOUN</a></tt> 1), pomoci (<tt><a href="cs_pud-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="cs_pud-pos-VERB.html">VERB</a></tt> 2), A (<tt><a href="cs_pud-pos-CCONJ.html">CCONJ</a></tt> 8, <tt><a href="cs_pud-pos-NOUN.html">NOUN</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>místo</em> (<tt><a href="cs_pud-pos-NOUN.html">NOUN</a></tt> 12, <tt><a href="cs_pud-pos-ADP.html">ADP</a></tt> 1), <em>stát</em> (<tt><a href="cs_pud-pos-NOUN.html">NOUN</a></tt> 8, <tt><a href="cs_pud-pos-VERB.html">VERB</a></tt> 4), <em>moci</em> (<tt><a href="cs_pud-pos-NOUN.html">NOUN</a></tt> 4, <tt><a href="cs_pud-pos-VERB.html">VERB</a></tt> 1), <em>pár</em> (<tt><a href="cs_pud-pos-NOUN.html">NOUN</a></tt> 4, <tt><a href="cs_pud-pos-NUM.html">NUM</a></tt> 1), <em>růst</em> (<tt><a href="cs_pud-pos-NOUN.html">NOUN</a></tt> 4, <tt><a href="cs_pud-pos-VERB.html">VERB</a></tt> 1), <em>září</em> (<tt><a href="cs_pud-pos-NOUN.html">NOUN</a></tt> 4, <tt><a href="cs_pud-pos-VERB.html">VERB</a></tt> 1), <em>Curie</em> (<tt><a href="cs_pud-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="cs_pud-pos-PROPN.html">PROPN</a></tt> 1), <em>moc</em> (<tt><a href="cs_pud-pos-ADV.html">ADV</a></tt> 2, <tt><a href="cs_pud-pos-NOUN.html">NOUN</a></tt> 1), <em>pomoci</em> (<tt><a href="cs_pud-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="cs_pud-pos-VERB.html">VERB</a></tt> 2), <em>A</em> (<tt><a href="cs_pud-pos-CCONJ.html">CCONJ</a></tt> 8, <tt><a href="cs_pud-pos-NOUN.html">NOUN</a></tt> 1)
 
 
-* místo
-  * <tt><a href="cs_pud-pos-NOUN.html">NOUN</a></tt> 12: Slouží jako lokální <b>místo</b> odpočinku a relaxace pro San Francisco .
-  * <tt><a href="cs_pud-pos-ADP.html">ADP</a></tt> 1: Křesťanské církve v severozápadní Evropě a na Ukrajině často používaly k obřadům na Květnou neděli <b>místo</b> palem vrbové proutí .
-* stát
-  * <tt><a href="cs_pud-pos-NOUN.html">NOUN</a></tt> 8: Tento městský <b>stát</b> vznikl ve stejné době jako Sukhothai .
-  * <tt><a href="cs_pud-pos-VERB.html">VERB</a></tt> 4: „ Musím pogratulovat Andymu – <b>stát</b> se světovou jedničkou je neuvěřitelný úspěch , “ řekl Američan .
-* moci
-  * <tt><a href="cs_pud-pos-NOUN.html">NOUN</a></tt> 4: Po převzetí <b>moci</b> národními socialisty v roce 1933 existovaly roztroušené snahy získat zpět staré kolonie .
-  * <tt><a href="cs_pud-pos-VERB.html">VERB</a></tt> 1: Několik analytiků naznačilo , že nejlépe bude <b>moci</b> těžit z problémů Samsungu společnost Huawei .
-* pár
-  * <tt><a href="cs_pud-pos-NOUN.html">NOUN</a></tt> 4: Viděl jsem jen <b>pár</b> dílů a najedou mi začal ožívat telefon .
-  * <tt><a href="cs_pud-pos-NUM.html">NUM</a></tt> 1: V srpnu 2015 Kesha zveřejnila <b>pár</b> informací o svém připravovaném třetím studiovém albu .
-* růst
-  * <tt><a href="cs_pud-pos-NOUN.html">NOUN</a></tt> 4: Jejich revival podtrhuje , jak táhne výzva , umělecká či jiná : nepohodlí , <b>růst</b> a niterné napojení .
-  * <tt><a href="cs_pud-pos-VERB.html">VERB</a></tt> 1: Cena se bude měnit každý měsíc a očekává se , že v zimě bude vzhledem k vyšší spotřebě <b>růst</b> .
-* září
-  * <tt><a href="cs_pud-pos-NOUN.html">NOUN</a></tt> 4: Devátého <b>září</b> roku 2002 byl Aldrin vlákán do jednoho hotelu v Beverly Hills pod záminkou rozhovoru pro japonský dětský televizní pořad o vesmíru .
-  * <tt><a href="cs_pud-pos-VERB.html">VERB</a></tt> 1: Není divu , když Glenda v hlavní roli tak <b>září</b> .
-* Curie
-  * <tt><a href="cs_pud-pos-NOUN.html">NOUN</a></tt> 2: Jakmile byl Hans Pettersson schopen Roně zaplatit její finanční náklady , Joliot - Curie jí dovolila přijet do Institutu Marie <b>Curie</b> v Paříži a zkoumat separaci polonia .
-  * <tt><a href="cs_pud-pos-PROPN.html">PROPN</a></tt> 1: Jakmile byl Hans Pettersson schopen Roně zaplatit její finanční náklady , Joliot - <b>Curie</b> jí dovolila přijet do Institutu Marie Curie v Paříži a zkoumat separaci polonia .
-* moc
-  * <tt><a href="cs_pud-pos-ADV.html">ADV</a></tt> 2: Byla však příliš zaměřena na malé základny na západě a nebyla <b>moc</b> dobře připravena na konflikt v zámoří .
-  * <tt><a href="cs_pud-pos-NOUN.html">NOUN</a></tt> 1: Platón si myslel , že by bylo mnohem bezpečnější svěřit <b>moc</b> pečlivě vzdělaným strážcům .
-* pomoci
-  * <tt><a href="cs_pud-pos-NOUN.html">NOUN</a></tt> 2: Obchod se rozvíjel za <b>pomoci</b> obchodních základen ve Středomoří , což byl postup , který se do té doby nepoužíval .
-  * <tt><a href="cs_pud-pos-VERB.html">VERB</a></tt> 2: Výzkumníci říkají , že analýza DNA nádoru může <b>pomoci</b> vysvětlit příčiny jiných rakovin .
-* A
-  * <tt><a href="cs_pud-pos-CCONJ.html">CCONJ</a></tt> 8: <b>A</b> co postoj Austrálie ?
-  * <tt><a href="cs_pud-pos-NOUN.html">NOUN</a></tt> 1: 21 . dubna 1882 zakončil studium a obdržel titul M . <b>A</b> .
+* <em>místo</em>
+  * <tt><a href="cs_pud-pos-NOUN.html">NOUN</a></tt> 12: <em>Slouží jako lokální <b>místo</b> odpočinku a relaxace pro San Francisco .</em>
+  * <tt><a href="cs_pud-pos-ADP.html">ADP</a></tt> 1: <em>Křesťanské církve v severozápadní Evropě a na Ukrajině často používaly k obřadům na Květnou neděli <b>místo</b> palem vrbové proutí .</em>
+* <em>stát</em>
+  * <tt><a href="cs_pud-pos-NOUN.html">NOUN</a></tt> 8: <em>Tento městský <b>stát</b> vznikl ve stejné době jako Sukhothai .</em>
+  * <tt><a href="cs_pud-pos-VERB.html">VERB</a></tt> 4: <em>„ Musím pogratulovat Andymu – <b>stát</b> se světovou jedničkou je neuvěřitelný úspěch , “ řekl Američan .</em>
+* <em>moci</em>
+  * <tt><a href="cs_pud-pos-NOUN.html">NOUN</a></tt> 4: <em>Po převzetí <b>moci</b> národními socialisty v roce 1933 existovaly roztroušené snahy získat zpět staré kolonie .</em>
+  * <tt><a href="cs_pud-pos-VERB.html">VERB</a></tt> 1: <em>Několik analytiků naznačilo , že nejlépe bude <b>moci</b> těžit z problémů Samsungu společnost Huawei .</em>
+* <em>pár</em>
+  * <tt><a href="cs_pud-pos-NOUN.html">NOUN</a></tt> 4: <em>Viděl jsem jen <b>pár</b> dílů a najedou mi začal ožívat telefon .</em>
+  * <tt><a href="cs_pud-pos-NUM.html">NUM</a></tt> 1: <em>V srpnu 2015 Kesha zveřejnila <b>pár</b> informací o svém připravovaném třetím studiovém albu .</em>
+* <em>růst</em>
+  * <tt><a href="cs_pud-pos-NOUN.html">NOUN</a></tt> 4: <em>Jejich revival podtrhuje , jak táhne výzva , umělecká či jiná : nepohodlí , <b>růst</b> a niterné napojení .</em>
+  * <tt><a href="cs_pud-pos-VERB.html">VERB</a></tt> 1: <em>Cena se bude měnit každý měsíc a očekává se , že v zimě bude vzhledem k vyšší spotřebě <b>růst</b> .</em>
+* <em>září</em>
+  * <tt><a href="cs_pud-pos-NOUN.html">NOUN</a></tt> 4: <em>Devátého <b>září</b> roku 2002 byl Aldrin vlákán do jednoho hotelu v Beverly Hills pod záminkou rozhovoru pro japonský dětský televizní pořad o vesmíru .</em>
+  * <tt><a href="cs_pud-pos-VERB.html">VERB</a></tt> 1: <em>Není divu , když Glenda v hlavní roli tak <b>září</b> .</em>
+* <em>Curie</em>
+  * <tt><a href="cs_pud-pos-NOUN.html">NOUN</a></tt> 2: <em>Jakmile byl Hans Pettersson schopen Roně zaplatit její finanční náklady , Joliot - Curie jí dovolila přijet do Institutu Marie <b>Curie</b> v Paříži a zkoumat separaci polonia .</em>
+  * <tt><a href="cs_pud-pos-PROPN.html">PROPN</a></tt> 1: <em>Jakmile byl Hans Pettersson schopen Roně zaplatit její finanční náklady , Joliot - <b>Curie</b> jí dovolila přijet do Institutu Marie Curie v Paříži a zkoumat separaci polonia .</em>
+* <em>moc</em>
+  * <tt><a href="cs_pud-pos-ADV.html">ADV</a></tt> 2: <em>Byla však příliš zaměřena na malé základny na západě a nebyla <b>moc</b> dobře připravena na konflikt v zámoří .</em>
+  * <tt><a href="cs_pud-pos-NOUN.html">NOUN</a></tt> 1: <em>Platón si myslel , že by bylo mnohem bezpečnější svěřit <b>moc</b> pečlivě vzdělaným strážcům .</em>
+* <em>pomoci</em>
+  * <tt><a href="cs_pud-pos-NOUN.html">NOUN</a></tt> 2: <em>Obchod se rozvíjel za <b>pomoci</b> obchodních základen ve Středomoří , což byl postup , který se do té doby nepoužíval .</em>
+  * <tt><a href="cs_pud-pos-VERB.html">VERB</a></tt> 2: <em>Výzkumníci říkají , že analýza DNA nádoru může <b>pomoci</b> vysvětlit příčiny jiných rakovin .</em>
+* <em>A</em>
+  * <tt><a href="cs_pud-pos-CCONJ.html">CCONJ</a></tt> 8: <em><b>A</b> co postoj Austrálie ?</em>
+  * <tt><a href="cs_pud-pos-NOUN.html">NOUN</a></tt> 1: <em>21 . dubna 1882 zakončil studium a obdržel titul M . <b>A</b> .</em>
 
 ## Morphology
 
 The form / lemma ratio of `NOUN` is 1.451726 (the average of all parts of speech is 1.427558).
 
-The 1st highest number of forms (10) was observed with the lemma “rok”: let, letech, lety, léta, roce, rok, roka, rokem, roku, roky.
+The 1st highest number of forms (10) was observed with the lemma “rok”: <em>let, letech, lety, léta, roce, rok, roka, rokem, roku, roky</em>.
 
-The 2nd highest number of forms (7) was observed with the lemma “den”: den, dne, dnech, dni, dny, dní, dnům.
+The 2nd highest number of forms (7) was observed with the lemma “den”: <em>den, dne, dnech, dni, dny, dní, dnům</em>.
 
-The 3rd highest number of forms (7) was observed with the lemma “doba”: dob, doba, dobou, dobu, doby, dobách, době.
+The 3rd highest number of forms (7) was observed with the lemma “doba”: <em>dob, doba, dobou, dobu, doby, dobách, době</em>.
 
 `NOUN` occurs with 8 features: <tt><a href="cs_pud-feat-Polarity.html">Polarity</a></tt> (4482; 100% instances), <tt><a href="cs_pud-feat-Gender.html">Gender</a></tt> (4337; 97% instances), <tt><a href="cs_pud-feat-Number.html">Number</a></tt> (4321; 96% instances), <tt><a href="cs_pud-feat-Case.html">Case</a></tt> (4315; 96% instances), <tt><a href="cs_pud-feat-Animacy.html">Animacy</a></tt> (1914; 43% instances), <tt><a href="cs_pud-feat-Abbr.html">Abbr</a></tt> (44; 1% instances), <tt><a href="cs_pud-feat-Foreign.html">Foreign</a></tt> (35; 1% instances), <tt><a href="cs_pud-feat-Style.html">Style</a></tt> (6; 0% instances)
 
@@ -65,7 +65,7 @@ The 3rd highest number of forms (7) was observed with the lemma “doba”: dob,
 
 `NOUN` occurs with 87 feature combinations.
 The most frequent feature combination is `Case=Gen|Gender=Fem|Number=Sing|Polarity=Pos` (320 tokens).
-Examples: války společnosti doby strany říše míry oblasti vlády země části
+Examples: <em>války, společnosti, doby, strany, říše, míry, oblasti, vlády, země, části</em>
 
 
 ## Relations

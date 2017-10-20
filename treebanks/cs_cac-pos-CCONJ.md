@@ -9,58 +9,58 @@ udver: '2'
 There are 29 `CCONJ` lemmas (0%), 30 `CCONJ` types (0%) and 24205 `CCONJ` tokens (5%).
 Out of 16 observed tags, the rank of `CCONJ` is: 12 in number of lemmas, 13 in number of types and 7 in number of tokens.
 
-The 10 most frequent `CCONJ` lemmas: a i nebo ale však ani či tak neboť jednak
+The 10 most frequent `CCONJ` lemmas: <em>a, i, nebo, ale, však, ani, či, tak, neboť, jednak</em>
 
-The 10 most frequent `CCONJ` types:  a i nebo ale však ani či tak neboť jednak
+The 10 most frequent `CCONJ` types:  <em>a, i, nebo, ale, však, ani, či, tak, neboť, jednak</em>
 
-The 10 most frequent ambiguous lemmas: a (<tt><a href="cs_cac-pos-CCONJ.html">CCONJ</a></tt> 15539, <tt><a href="cs_cac-pos-ADP.html">ADP</a></tt> 4), i (<tt><a href="cs_cac-pos-CCONJ.html">CCONJ</a></tt> 3420, <tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt> 3, <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> 1), tak (<tt><a href="cs_cac-pos-ADV.html">ADV</a></tt> 816, <tt><a href="cs_cac-pos-CCONJ.html">CCONJ</a></tt> 217), budit (<tt><a href="cs_cac-pos-CCONJ.html">CCONJ</a></tt> 9, <tt><a href="cs_cac-pos-VERB.html">VERB</a></tt> 5), proto (<tt><a href="cs_cac-pos-SCONJ.html">SCONJ</a></tt> 567, <tt><a href="cs_cac-pos-CCONJ.html">CCONJ</a></tt> 9), až (<tt><a href="cs_cac-pos-PART.html">PART</a></tt> 517, <tt><a href="cs_cac-pos-SCONJ.html">SCONJ</a></tt> 36, <tt><a href="cs_cac-pos-CCONJ.html">CCONJ</a></tt> 6), ovšem (<tt><a href="cs_cac-pos-PART.html">PART</a></tt> 211, <tt><a href="cs_cac-pos-ADV.html">ADV</a></tt> 14, <tt><a href="cs_cac-pos-CCONJ.html">CCONJ</a></tt> 5), jak (<tt><a href="cs_cac-pos-ADV.html">ADV</a></tt> 751, <tt><a href="cs_cac-pos-SCONJ.html">SCONJ</a></tt> 15, <tt><a href="cs_cac-pos-CCONJ.html">CCONJ</a></tt> 2)
+The 10 most frequent ambiguous lemmas: <em>a</em> (<tt><a href="cs_cac-pos-CCONJ.html">CCONJ</a></tt> 15539, <tt><a href="cs_cac-pos-ADP.html">ADP</a></tt> 4), <em>i</em> (<tt><a href="cs_cac-pos-CCONJ.html">CCONJ</a></tt> 3420, <tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt> 3, <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> 1), <em>tak</em> (<tt><a href="cs_cac-pos-ADV.html">ADV</a></tt> 816, <tt><a href="cs_cac-pos-CCONJ.html">CCONJ</a></tt> 217), <em>budit</em> (<tt><a href="cs_cac-pos-CCONJ.html">CCONJ</a></tt> 9, <tt><a href="cs_cac-pos-VERB.html">VERB</a></tt> 5), <em>proto</em> (<tt><a href="cs_cac-pos-SCONJ.html">SCONJ</a></tt> 567, <tt><a href="cs_cac-pos-CCONJ.html">CCONJ</a></tt> 9), <em>až</em> (<tt><a href="cs_cac-pos-PART.html">PART</a></tt> 517, <tt><a href="cs_cac-pos-SCONJ.html">SCONJ</a></tt> 36, <tt><a href="cs_cac-pos-CCONJ.html">CCONJ</a></tt> 6), <em>ovšem</em> (<tt><a href="cs_cac-pos-PART.html">PART</a></tt> 211, <tt><a href="cs_cac-pos-ADV.html">ADV</a></tt> 14, <tt><a href="cs_cac-pos-CCONJ.html">CCONJ</a></tt> 5), <em>jak</em> (<tt><a href="cs_cac-pos-ADV.html">ADV</a></tt> 751, <tt><a href="cs_cac-pos-SCONJ.html">SCONJ</a></tt> 15, <tt><a href="cs_cac-pos-CCONJ.html">CCONJ</a></tt> 2)
 
-The 10 most frequent ambiguous types:  a (<tt><a href="cs_cac-pos-CCONJ.html">CCONJ</a></tt> 15101, <tt><a href="cs_cac-pos-ADP.html">ADP</a></tt> 3), i (<tt><a href="cs_cac-pos-CCONJ.html">CCONJ</a></tt> 3266, <tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt> 3), tak (<tt><a href="cs_cac-pos-ADV.html">ADV</a></tt> 681, <tt><a href="cs_cac-pos-CCONJ.html">CCONJ</a></tt> 212), buď (<tt><a href="cs_cac-pos-CCONJ.html">CCONJ</a></tt> 85, <tt><a href="cs_cac-pos-AUX.html">AUX</a></tt> 1), proto (<tt><a href="cs_cac-pos-SCONJ.html">SCONJ</a></tt> 364, <tt><a href="cs_cac-pos-CCONJ.html">CCONJ</a></tt> 7), až (<tt><a href="cs_cac-pos-PART.html">PART</a></tt> 502, <tt><a href="cs_cac-pos-SCONJ.html">SCONJ</a></tt> 32, <tt><a href="cs_cac-pos-CCONJ.html">CCONJ</a></tt> 6), ovšem (<tt><a href="cs_cac-pos-PART.html">PART</a></tt> 190, <tt><a href="cs_cac-pos-ADV.html">ADV</a></tt> 12, <tt><a href="cs_cac-pos-CCONJ.html">CCONJ</a></tt> 5), jak (<tt><a href="cs_cac-pos-ADV.html">ADV</a></tt> 654, <tt><a href="cs_cac-pos-SCONJ.html">SCONJ</a></tt> 14, <tt><a href="cs_cac-pos-CCONJ.html">CCONJ</a></tt> 2), na (<tt><a href="cs_cac-pos-ADP.html">ADP</a></tt> 6587, <tt><a href="cs_cac-pos-CCONJ.html">CCONJ</a></tt> 1), ni (<tt><a href="cs_cac-pos-PRON.html">PRON</a></tt> 36, <tt><a href="cs_cac-pos-CCONJ.html">CCONJ</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>a</em> (<tt><a href="cs_cac-pos-CCONJ.html">CCONJ</a></tt> 15101, <tt><a href="cs_cac-pos-ADP.html">ADP</a></tt> 3), <em>i</em> (<tt><a href="cs_cac-pos-CCONJ.html">CCONJ</a></tt> 3266, <tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt> 3), <em>tak</em> (<tt><a href="cs_cac-pos-ADV.html">ADV</a></tt> 681, <tt><a href="cs_cac-pos-CCONJ.html">CCONJ</a></tt> 212), <em>buď</em> (<tt><a href="cs_cac-pos-CCONJ.html">CCONJ</a></tt> 85, <tt><a href="cs_cac-pos-AUX.html">AUX</a></tt> 1), <em>proto</em> (<tt><a href="cs_cac-pos-SCONJ.html">SCONJ</a></tt> 364, <tt><a href="cs_cac-pos-CCONJ.html">CCONJ</a></tt> 7), <em>až</em> (<tt><a href="cs_cac-pos-PART.html">PART</a></tt> 502, <tt><a href="cs_cac-pos-SCONJ.html">SCONJ</a></tt> 32, <tt><a href="cs_cac-pos-CCONJ.html">CCONJ</a></tt> 6), <em>ovšem</em> (<tt><a href="cs_cac-pos-PART.html">PART</a></tt> 190, <tt><a href="cs_cac-pos-ADV.html">ADV</a></tt> 12, <tt><a href="cs_cac-pos-CCONJ.html">CCONJ</a></tt> 5), <em>jak</em> (<tt><a href="cs_cac-pos-ADV.html">ADV</a></tt> 654, <tt><a href="cs_cac-pos-SCONJ.html">SCONJ</a></tt> 14, <tt><a href="cs_cac-pos-CCONJ.html">CCONJ</a></tt> 2), <em>na</em> (<tt><a href="cs_cac-pos-ADP.html">ADP</a></tt> 6587, <tt><a href="cs_cac-pos-CCONJ.html">CCONJ</a></tt> 1), <em>ni</em> (<tt><a href="cs_cac-pos-PRON.html">PRON</a></tt> 36, <tt><a href="cs_cac-pos-CCONJ.html">CCONJ</a></tt> 1)
 
 
-* a
-  * <tt><a href="cs_cac-pos-CCONJ.html">CCONJ</a></tt> 15101: Zúrodnění oglejených <b>a</b> glejových lučních půd .
-  * <tt><a href="cs_cac-pos-ADP.html">ADP</a></tt> 3: Stejně tak i jeho gourmetství , nebyl * , dnes si v dobrém restaurantu můžeme objednat tournedos <b>a</b> la Rossini , to znamená řez ze svíčkové s husími játry .
-* i
-  * <tt><a href="cs_cac-pos-CCONJ.html">CCONJ</a></tt> 3266: Líbí se mi vaše ukázněnost <b>i</b> skutečnost , že děláte opravdu s fortelem .
-  * <tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt> 3: Koh - <b>i</b> - noor , národní podnik .
-* tak
-  * <tt><a href="cs_cac-pos-ADV.html">ADV</a></tt> 681: Dosáhneme <b>tak</b> úpravy bez kůrek .
-  * <tt><a href="cs_cac-pos-CCONJ.html">CCONJ</a></tt> 212: Chyběly mu jak zkušenosti , <b>tak</b> vybavení .
-* buď
-  * <tt><a href="cs_cac-pos-CCONJ.html">CCONJ</a></tt> 85: Je <b>buď</b> v centru města , nebo je součástí městského opevnění .
-  * <tt><a href="cs_cac-pos-AUX.html">AUX</a></tt> 1: Buď fit , <b>buď</b> zdráv fyzicky i duševně , může podstatně přispět k proměně těch závažných slov v činy .
-* proto
-  * <tt><a href="cs_cac-pos-SCONJ.html">SCONJ</a></tt> 364: Obavy jsou <b>proto</b> zbytečné .
-  * <tt><a href="cs_cac-pos-CCONJ.html">CCONJ</a></tt> 7: Je <b>proto</b> třeba , aby by řidiči motorových vozidel věnovali zvýšenou pozornost zejména starším cyklistům a počítali s případnou chybou při odbočování .
-* až
-  * <tt><a href="cs_cac-pos-PART.html">PART</a></tt> 502: Jsou špinavě žluté <b>až</b> černohnědé .
-  * <tt><a href="cs_cac-pos-SCONJ.html">SCONJ</a></tt> 32: Čistíme tenkrát , <b>až</b> vychladne , a po odpojení přívodu ze zásuvky .
-  * <tt><a href="cs_cac-pos-CCONJ.html">CCONJ</a></tt> 6: Hranolky mají plochu průřezu # až # , # <b>až</b> # * .
-* ovšem
-  * <tt><a href="cs_cac-pos-PART.html">PART</a></tt> 190: Typy pleti nejsou <b>ovšem</b> stálé .
-  * <tt><a href="cs_cac-pos-ADV.html">ADV</a></tt> 12: Je tu <b>ovšem</b> otázka , které proměnné lze považovat za motivační .
-  * <tt><a href="cs_cac-pos-CCONJ.html">CCONJ</a></tt> 5: " Náklady účastníků budou <b>ovšem</b> mnohem vyšší . "
-* jak
-  * <tt><a href="cs_cac-pos-ADV.html">ADV</a></tt> 654: Zkuste to nějakou dobu a uvidíte , <b>jak</b> vám to prospěje .
-  * <tt><a href="cs_cac-pos-SCONJ.html">SCONJ</a></tt> 14: Chyběly mu <b>jak</b> zkušenosti , tak vybavení .
-  * <tt><a href="cs_cac-pos-CCONJ.html">CCONJ</a></tt> 2: Bylo viditelné , <b>jak</b> všude vládne pracovní elán , přesnost a pořádek .
-* na
-  * <tt><a href="cs_cac-pos-ADP.html">ADP</a></tt> 6587: Nejvhodnější meliorační úpravy <b>na</b> odkalištích odpadu elektráren .
-  * <tt><a href="cs_cac-pos-CCONJ.html">CCONJ</a></tt> 1: Vhodné je kladívko opatřené výřezem <b>na</b> vytahování hřebíků .
-* ni
-  * <tt><a href="cs_cac-pos-PRON.html">PRON</a></tt> 36: Cesta do krámu je pro <b>ni</b> hodinovou , a to velmi namáhavou , záležitostí .
-  * <tt><a href="cs_cac-pos-CCONJ.html">CCONJ</a></tt> 1: Fí , fí , ruské kůstky tu nevidět , <b>ni</b> slyšet o ní a ruská kůstka mi přišla sama na dvůr .
+* <em>a</em>
+  * <tt><a href="cs_cac-pos-CCONJ.html">CCONJ</a></tt> 15101: <em>Zúrodnění oglejených <b>a</b> glejových lučních půd .</em>
+  * <tt><a href="cs_cac-pos-ADP.html">ADP</a></tt> 3: <em>Stejně tak i jeho gourmetství , nebyl * , dnes si v dobrém restaurantu můžeme objednat tournedos <b>a</b> la Rossini , to znamená řez ze svíčkové s husími játry .</em>
+* <em>i</em>
+  * <tt><a href="cs_cac-pos-CCONJ.html">CCONJ</a></tt> 3266: <em>Líbí se mi vaše ukázněnost <b>i</b> skutečnost , že děláte opravdu s fortelem .</em>
+  * <tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt> 3: <em>Koh - <b>i</b> - noor , národní podnik .</em>
+* <em>tak</em>
+  * <tt><a href="cs_cac-pos-ADV.html">ADV</a></tt> 681: <em>Dosáhneme <b>tak</b> úpravy bez kůrek .</em>
+  * <tt><a href="cs_cac-pos-CCONJ.html">CCONJ</a></tt> 212: <em>Chyběly mu jak zkušenosti , <b>tak</b> vybavení .</em>
+* <em>buď</em>
+  * <tt><a href="cs_cac-pos-CCONJ.html">CCONJ</a></tt> 85: <em>Je <b>buď</b> v centru města , nebo je součástí městského opevnění .</em>
+  * <tt><a href="cs_cac-pos-AUX.html">AUX</a></tt> 1: <em>Buď fit , <b>buď</b> zdráv fyzicky i duševně , může podstatně přispět k proměně těch závažných slov v činy .</em>
+* <em>proto</em>
+  * <tt><a href="cs_cac-pos-SCONJ.html">SCONJ</a></tt> 364: <em>Obavy jsou <b>proto</b> zbytečné .</em>
+  * <tt><a href="cs_cac-pos-CCONJ.html">CCONJ</a></tt> 7: <em>Je <b>proto</b> třeba , aby by řidiči motorových vozidel věnovali zvýšenou pozornost zejména starším cyklistům a počítali s případnou chybou při odbočování .</em>
+* <em>až</em>
+  * <tt><a href="cs_cac-pos-PART.html">PART</a></tt> 502: <em>Jsou špinavě žluté <b>až</b> černohnědé .</em>
+  * <tt><a href="cs_cac-pos-SCONJ.html">SCONJ</a></tt> 32: <em>Čistíme tenkrát , <b>až</b> vychladne , a po odpojení přívodu ze zásuvky .</em>
+  * <tt><a href="cs_cac-pos-CCONJ.html">CCONJ</a></tt> 6: <em>Hranolky mají plochu průřezu # až # , # <b>až</b> # * .</em>
+* <em>ovšem</em>
+  * <tt><a href="cs_cac-pos-PART.html">PART</a></tt> 190: <em>Typy pleti nejsou <b>ovšem</b> stálé .</em>
+  * <tt><a href="cs_cac-pos-ADV.html">ADV</a></tt> 12: <em>Je tu <b>ovšem</b> otázka , které proměnné lze považovat za motivační .</em>
+  * <tt><a href="cs_cac-pos-CCONJ.html">CCONJ</a></tt> 5: <em>" Náklady účastníků budou <b>ovšem</b> mnohem vyšší . "</em>
+* <em>jak</em>
+  * <tt><a href="cs_cac-pos-ADV.html">ADV</a></tt> 654: <em>Zkuste to nějakou dobu a uvidíte , <b>jak</b> vám to prospěje .</em>
+  * <tt><a href="cs_cac-pos-SCONJ.html">SCONJ</a></tt> 14: <em>Chyběly mu <b>jak</b> zkušenosti , tak vybavení .</em>
+  * <tt><a href="cs_cac-pos-CCONJ.html">CCONJ</a></tt> 2: <em>Bylo viditelné , <b>jak</b> všude vládne pracovní elán , přesnost a pořádek .</em>
+* <em>na</em>
+  * <tt><a href="cs_cac-pos-ADP.html">ADP</a></tt> 6587: <em>Nejvhodnější meliorační úpravy <b>na</b> odkalištích odpadu elektráren .</em>
+  * <tt><a href="cs_cac-pos-CCONJ.html">CCONJ</a></tt> 1: <em>Vhodné je kladívko opatřené výřezem <b>na</b> vytahování hřebíků .</em>
+* <em>ni</em>
+  * <tt><a href="cs_cac-pos-PRON.html">PRON</a></tt> 36: <em>Cesta do krámu je pro <b>ni</b> hodinovou , a to velmi namáhavou , záležitostí .</em>
+  * <tt><a href="cs_cac-pos-CCONJ.html">CCONJ</a></tt> 1: <em>Fí , fí , ruské kůstky tu nevidět , <b>ni</b> slyšet o ní a ruská kůstka mi přišla sama na dvůr .</em>
 
 ## Morphology
 
 The form / lemma ratio of `CCONJ` is 1.034483 (the average of all parts of speech is 2.186309).
 
-The 1st highest number of forms (2) was observed with the lemma “a”: a, na.
+The 1st highest number of forms (2) was observed with the lemma “a”: <em>a, na</em>.
 
-The 2nd highest number of forms (2) was observed with the lemma “nebo”: anebo, nebo.
+The 2nd highest number of forms (2) was observed with the lemma “nebo”: <em>anebo, nebo</em>.
 
-The 3rd highest number of forms (1) was observed with the lemma “ale”: ale.
+The 3rd highest number of forms (1) was observed with the lemma “ale”: <em>ale</em>.
 
 `CCONJ` occurs with 4 features: <tt><a href="cs_cac-feat-Aspect.html">Aspect</a></tt> (9; 0% instances), <tt><a href="cs_cac-feat-Foreign.html">Foreign</a></tt> (3; 0% instances), <tt><a href="cs_cac-feat-ConjType.html">ConjType</a></tt> (2; 0% instances), <tt><a href="cs_cac-feat-NameType.html">NameType</a></tt> (1; 0% instances)
 
@@ -68,7 +68,7 @@ The 3rd highest number of forms (1) was observed with the lemma “ale”: ale.
 
 `CCONJ` occurs with 5 feature combinations.
 The most frequent feature combination is `_` (24191 tokens).
-Examples: a i nebo ale však ani či tak neboť jednak
+Examples: <em>a, i, nebo, ale, však, ani, či, tak, neboť, jednak</em>
 
 
 ## Relations

@@ -22,56 +22,56 @@ The most frequent other feature values with which `VERB` and `Person` co-occurre
 
 `VERB` tokens may have the following values of `Person`:
 
-* `1` (6388; 11% of non-empty `Person`): máme mám můžeme myslím musíme chceme musím nevím víme jsme
-* `2` (1563; 3% of non-empty `Person`): viz můžete máte chcete myslíte najdete potřebujete vidíte víte musíte
-* `3` (52782; 87% of non-empty `Person`): má je může mají musí jde jsou lze mohou říká
-* `EMPTY` (74777): řekl měl měla mít uvedl měli mělo mohl měly bylo
+* `1` (6388; 11% of non-empty `Person`): <em>máme, mám, můžeme, myslím, musíme, chceme, musím, nevím, víme, jsme</em>
+* `2` (1563; 3% of non-empty `Person`): <em>viz, můžete, máte, chcete, myslíte, najdete, potřebujete, vidíte, víte, musíte</em>
+* `3` (52782; 87% of non-empty `Person`): <em>má, je, může, mají, musí, jde, jsou, lze, mohou, říká</em>
+* `EMPTY` (74777): <em>řekl, měl, měla, mít, uvedl, měli, mělo, mohl, měly, bylo</em>
 
 <table>
   <tr><th>Paradigm <i>mít</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
-  <tr><td><tt><tt><a href="cs-feat-Mood.html">Mood</a></tt><tt>=Imp</tt>|<tt><a href="cs-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="cs-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt></tt></td><td>Nemějme</td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="cs-feat-Mood.html">Mood</a></tt><tt>=Imp</tt>|<tt><a href="cs-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="cs-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt></tt></td><td>mějme</td><td>mějte</td><td></td></tr>
-  <tr><td><tt><tt><a href="cs-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="cs-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="cs-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="cs-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td>nemám</td><td></td><td>nemá</td></tr>
-  <tr><td><tt><tt><a href="cs-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="cs-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="cs-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="cs-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td>mám</td><td>máš</td><td>má</td></tr>
-  <tr><td><tt><tt><a href="cs-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="cs-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="cs-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="cs-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="cs-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td>nemáme</td><td>nemáte</td><td>nemají</td></tr>
-  <tr><td><tt><tt><a href="cs-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="cs-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="cs-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="cs-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="cs-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td>máme</td><td>máte</td><td>mají</td></tr>
+  <tr><td><tt><tt><a href="cs-feat-Mood.html">Mood</a></tt><tt>=Imp</tt>|<tt><a href="cs-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="cs-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt></tt></td><td><em>Nemějme</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="cs-feat-Mood.html">Mood</a></tt><tt>=Imp</tt>|<tt><a href="cs-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="cs-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt></tt></td><td><em>mějme</em></td><td><em>mějte</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="cs-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="cs-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="cs-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="cs-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>nemám</em></td><td></td><td><em>nemá</em></td></tr>
+  <tr><td><tt><tt><a href="cs-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="cs-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="cs-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="cs-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>mám</em></td><td><em>máš</em></td><td><em>má</em></td></tr>
+  <tr><td><tt><tt><a href="cs-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="cs-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="cs-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="cs-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="cs-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>nemáme</em></td><td><em>nemáte</em></td><td><em>nemají</em></td></tr>
+  <tr><td><tt><tt><a href="cs-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="cs-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="cs-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="cs-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="cs-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>máme</em></td><td><em>máte</em></td><td><em>mají</em></td></tr>
 </table>
 
 ### `AUX`
 
 27307 <tt><a href="cs-pos-AUX.html">AUX</a></tt> tokens (66% of all `AUX` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `AUX` and `Person` co-occurred: <tt><a href="cs-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (27307; 100%), <tt><a href="cs-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (27307; 100%), <tt><a href="cs-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (23770; 87%), <tt><a href="cs-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (23770; 87%), <tt><a href="cs-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (21488; 79%), <tt><a href="cs-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (19264; 71%), <tt><a href="cs-feat-Number.html">Number</a></tt><tt>=Sing</tt> (17772; 65%).
+The most frequent other feature values with which `AUX` and `Person` co-occurred: <tt><a href="cs-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (27307; 100%), <tt><a href="cs-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (27307; 100%), <tt><a href="cs-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (23770; 87%), <tt><a href="cs-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (23770; 87%), <tt><a href="cs-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (21488; 79%), <tt><a href="cs-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (19264; 71%), <tt><a href="cs-feat-Number.html">Number</a></tt><tt>=Sing</tt> (17772; 65%).
 
 `AUX` tokens may have the following values of `Person`:
 
-* `1` (4539; 17% of non-empty `Person`): jsem jsme bychom bych budeme budu nejsem nebudeme nejsme nebudu
-* `2` (497; 2% of non-empty `Person`): jste byste buď budete buďte jsi nejste nebudete budeš bys
-* `3` (22271; 82% of non-empty `Person`): je jsou bude by není budou nebude nejsou nebudou bývá
-* `EMPTY` (14086): by byl být bylo byla byly byli nebyl nebylo nebyla
+* `1` (4539; 17% of non-empty `Person`): <em>jsem, jsme, bychom, bych, budeme, budu, nejsem, nebudeme, nejsme, nebudu</em>
+* `2` (497; 2% of non-empty `Person`): <em>jste, byste, buď, budete, buďte, jsi, nejste, nebudete, budeš, bys</em>
+* `3` (22271; 82% of non-empty `Person`): <em>je, jsou, bude, by, není, budou, nebude, nejsou, nebudou, bývá</em>
+* `EMPTY` (14086): <em>by, byl, být, bylo, byla, byly, byli, nebyl, nebylo, nebyla</em>
 
 <table>
   <tr><th>Paradigm <i>být</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
-  <tr><td><tt><tt><a href="cs-feat-Mood.html">Mood</a></tt><tt>=Cnd</tt>|<tt><a href="cs-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td>bych</td><td>bys</td><td></td></tr>
-  <tr><td><tt><tt><a href="cs-feat-Mood.html">Mood</a></tt><tt>=Cnd</tt>|<tt><a href="cs-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td>bychom</td><td>byste</td><td></td></tr>
-  <tr><td><tt><tt><a href="cs-feat-Mood.html">Mood</a></tt><tt>=Cnd</tt></tt></td><td></td><td></td><td>by</td></tr>
-  <tr><td><tt><tt><a href="cs-feat-Mood.html">Mood</a></tt><tt>=Imp</tt>|<tt><a href="cs-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="cs-feat-Style.html">Style</a></tt><tt>=Arch</tt></tt></td><td></td><td></td><td>buď</td></tr>
-  <tr><td><tt><tt><a href="cs-feat-Mood.html">Mood</a></tt><tt>=Imp</tt>|<tt><a href="cs-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt></tt></td><td></td><td>buď</td><td>budiž</td></tr>
-  <tr><td><tt><tt><a href="cs-feat-Mood.html">Mood</a></tt><tt>=Imp</tt>|<tt><a href="cs-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="cs-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt></tt></td><td></td><td>Nebuďte</td><td></td></tr>
-  <tr><td><tt><tt><a href="cs-feat-Mood.html">Mood</a></tt><tt>=Imp</tt>|<tt><a href="cs-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="cs-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="cs-feat-Style.html">Style</a></tt><tt>=Arch</tt></tt></td><td></td><td></td><td>budiž</td></tr>
-  <tr><td><tt><tt><a href="cs-feat-Mood.html">Mood</a></tt><tt>=Imp</tt>|<tt><a href="cs-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="cs-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt></tt></td><td>Buďme</td><td>buďte</td><td></td></tr>
-  <tr><td><tt><tt><a href="cs-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="cs-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="cs-feat-Tense.html">Tense</a></tt><tt>=Fut</tt>|<tt><a href="cs-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td>nebudu</td><td>Nebudeš</td><td>nebude</td></tr>
-  <tr><td><tt><tt><a href="cs-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="cs-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="cs-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="cs-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td>nejsem</td><td></td><td>není</td></tr>
-  <tr><td><tt><tt><a href="cs-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="cs-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="cs-feat-Style.html">Style</a></tt><tt>=Arch</tt>|<tt><a href="cs-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="cs-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td></td><td></td><td>jest</td></tr>
-  <tr><td><tt><tt><a href="cs-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="cs-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="cs-feat-Style.html">Style</a></tt><tt>=Coll</tt>|<tt><a href="cs-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="cs-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td></td><td>si</td><td></td></tr>
-  <tr><td><tt><tt><a href="cs-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="cs-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="cs-feat-Tense.html">Tense</a></tt><tt>=Fut</tt>|<tt><a href="cs-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td>budu</td><td>budeš</td><td>bude</td></tr>
-  <tr><td><tt><tt><a href="cs-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="cs-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="cs-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="cs-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td>jsem</td><td>jsi</td><td>je</td></tr>
-  <tr><td><tt><tt><a href="cs-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="cs-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="cs-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="cs-feat-Style.html">Style</a></tt><tt>=Arch</tt>|<tt><a href="cs-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="cs-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td></td><td></td><td>nésó</td></tr>
-  <tr><td><tt><tt><a href="cs-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="cs-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="cs-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="cs-feat-Tense.html">Tense</a></tt><tt>=Fut</tt>|<tt><a href="cs-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td>nebudeme</td><td>nebudete</td><td>nebudou</td></tr>
-  <tr><td><tt><tt><a href="cs-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="cs-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="cs-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="cs-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="cs-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td>nejsme</td><td>nejste</td><td>nejsou</td></tr>
-  <tr><td><tt><tt><a href="cs-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="cs-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="cs-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="cs-feat-Style.html">Style</a></tt><tt>=Coll</tt>|<tt><a href="cs-feat-Tense.html">Tense</a></tt><tt>=Fut</tt>|<tt><a href="cs-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td>budem</td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="cs-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="cs-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="cs-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="cs-feat-Tense.html">Tense</a></tt><tt>=Fut</tt>|<tt><a href="cs-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td>budeme</td><td>budete</td><td>budou</td></tr>
-  <tr><td><tt><tt><a href="cs-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="cs-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="cs-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="cs-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="cs-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td>jsme</td><td>jste</td><td>jsou</td></tr>
+  <tr><td><tt><tt><a href="cs-feat-Mood.html">Mood</a></tt><tt>=Cnd</tt>|<tt><a href="cs-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>bych</em></td><td><em>bys</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="cs-feat-Mood.html">Mood</a></tt><tt>=Cnd</tt>|<tt><a href="cs-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>bychom</em></td><td><em>byste</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="cs-feat-Mood.html">Mood</a></tt><tt>=Cnd</tt></tt></td><td></td><td></td><td><em>by</em></td></tr>
+  <tr><td><tt><tt><a href="cs-feat-Mood.html">Mood</a></tt><tt>=Imp</tt>|<tt><a href="cs-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="cs-feat-Style.html">Style</a></tt><tt>=Arch</tt></tt></td><td></td><td></td><td><em>buď</em></td></tr>
+  <tr><td><tt><tt><a href="cs-feat-Mood.html">Mood</a></tt><tt>=Imp</tt>|<tt><a href="cs-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt></tt></td><td></td><td><em>buď</em></td><td><em>budiž</em></td></tr>
+  <tr><td><tt><tt><a href="cs-feat-Mood.html">Mood</a></tt><tt>=Imp</tt>|<tt><a href="cs-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="cs-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt></tt></td><td></td><td><em>Nebuďte</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="cs-feat-Mood.html">Mood</a></tt><tt>=Imp</tt>|<tt><a href="cs-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="cs-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="cs-feat-Style.html">Style</a></tt><tt>=Arch</tt></tt></td><td></td><td></td><td><em>budiž</em></td></tr>
+  <tr><td><tt><tt><a href="cs-feat-Mood.html">Mood</a></tt><tt>=Imp</tt>|<tt><a href="cs-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="cs-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt></tt></td><td><em>Buďme</em></td><td><em>buďte</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="cs-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="cs-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="cs-feat-Tense.html">Tense</a></tt><tt>=Fut</tt>|<tt><a href="cs-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>nebudu</em></td><td><em>Nebudeš</em></td><td><em>nebude</em></td></tr>
+  <tr><td><tt><tt><a href="cs-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="cs-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="cs-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="cs-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>nejsem</em></td><td></td><td><em>není</em></td></tr>
+  <tr><td><tt><tt><a href="cs-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="cs-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="cs-feat-Style.html">Style</a></tt><tt>=Arch</tt>|<tt><a href="cs-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="cs-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td></td><td></td><td><em>jest</em></td></tr>
+  <tr><td><tt><tt><a href="cs-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="cs-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="cs-feat-Style.html">Style</a></tt><tt>=Coll</tt>|<tt><a href="cs-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="cs-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td></td><td><em>si</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="cs-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="cs-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="cs-feat-Tense.html">Tense</a></tt><tt>=Fut</tt>|<tt><a href="cs-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>budu</em></td><td><em>budeš</em></td><td><em>bude</em></td></tr>
+  <tr><td><tt><tt><a href="cs-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="cs-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="cs-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="cs-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>jsem</em></td><td><em>jsi</em></td><td><em>je</em></td></tr>
+  <tr><td><tt><tt><a href="cs-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="cs-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="cs-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="cs-feat-Style.html">Style</a></tt><tt>=Arch</tt>|<tt><a href="cs-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="cs-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td></td><td></td><td><em>nésó</em></td></tr>
+  <tr><td><tt><tt><a href="cs-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="cs-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="cs-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="cs-feat-Tense.html">Tense</a></tt><tt>=Fut</tt>|<tt><a href="cs-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>nebudeme</em></td><td><em>nebudete</em></td><td><em>nebudou</em></td></tr>
+  <tr><td><tt><tt><a href="cs-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="cs-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="cs-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="cs-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="cs-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>nejsme</em></td><td><em>nejste</em></td><td><em>nejsou</em></td></tr>
+  <tr><td><tt><tt><a href="cs-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="cs-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="cs-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="cs-feat-Style.html">Style</a></tt><tt>=Coll</tt>|<tt><a href="cs-feat-Tense.html">Tense</a></tt><tt>=Fut</tt>|<tt><a href="cs-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>budem</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="cs-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="cs-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="cs-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="cs-feat-Tense.html">Tense</a></tt><tt>=Fut</tt>|<tt><a href="cs-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>budeme</em></td><td><em>budete</em></td><td><em>budou</em></td></tr>
+  <tr><td><tt><tt><a href="cs-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="cs-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="cs-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="cs-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="cs-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>jsme</em></td><td><em>jste</em></td><td><em>jsou</em></td></tr>
 </table>
 
 ### `PRON`
@@ -82,10 +82,10 @@ The most frequent other feature values with which `PRON` and `Person` co-occurre
 
 `PRON` tokens may have the following values of `Person`:
 
-* `1` (3394; 30% of non-empty `Person`): nás nám mi já mě my mne námi mně mnou
-* `2` (459; 4% of non-empty `Person`): vám vás vy vámi ty tě ti you tobě tebe
-* `3` (7277; 65% of non-empty `Person`): je nich mu ji ho jim ní něj jej jí
-* `EMPTY` (33795): se si co kdo což nic něco nichž jež nikdo
+* `1` (3394; 30% of non-empty `Person`): <em>nás, nám, mi, já, mě, my, mne, námi, mně, mnou</em>
+* `2` (459; 4% of non-empty `Person`): <em>vám, vás, vy, vámi, ty, tě, ti, you, tobě, tebe</em>
+* `3` (7277; 65% of non-empty `Person`): <em>je, nich, mu, ji, ho, jim, ní, něj, jej, jí</em>
+* `EMPTY` (33795): <em>se, si, co, kdo, což, nic, něco, nichž, jež, nikdo</em>
 
 `Person` seems to be **lexical feature** of `PRON`. 100% lemmas (15) occur only with one value of `Person`.
 
@@ -97,10 +97,10 @@ The most frequent other feature values with which `DET` and `Person` co-occurred
 
 `DET` tokens may have the following values of `Person`:
 
-* `1` (2656; 28% of non-empty `Person`): naše naší našich náš našeho naši našem můj mého moje
-* `2` (267; 3% of non-empty `Person`): vaše vaší váš vašeho vaši vašich vašem vašimi vaším Your
-* `3` (6494; 69% of non-empty `Person`): jeho jejich její jejichž jehož jejím jejíž jejího jejích jejímž
-* `EMPTY` (45896): to které který která své tím kteří tom této tomu
+* `1` (2656; 28% of non-empty `Person`): <em>naše, naší, našich, náš, našeho, naši, našem, můj, mého, moje</em>
+* `2` (267; 3% of non-empty `Person`): <em>vaše, vaší, váš, vašeho, vaši, vašich, vašem, vašimi, vaším, Your</em>
+* `3` (6494; 69% of non-empty `Person`): <em>jeho, jejich, její, jejichž, jehož, jejím, jejíž, jejího, jejích, jejímž</em>
+* `EMPTY` (45896): <em>to, které, který, která, své, tím, kteří, tom, této, tomu</em>
 
 ## Relations with Agreement in `Person`
 
@@ -109,7 +109,7 @@ The 10 most frequent relations where parent and child node agree in `Person`:
 <tt>VERB --[<tt><a href="cs-dep-appos.html">appos</a></tt>]--> VERB</tt> (72; 64%),
 <tt>PRON --[<tt><a href="cs-dep-appos.html">appos</a></tt>]--> PRON</tt> (3; 75%),
 <tt>PRON --[<tt><a href="cs-dep-xcomp.html">xcomp</a></tt>]--> VERB</tt> (2; 67%),
-<tt>PRON --[<tt><a href="cs-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (1; 100%),
 <tt>PRON --[<tt><a href="cs-dep-acl.html">acl</a></tt>]--> PRON</tt> (1; 100%),
+<tt>PRON --[<tt><a href="cs-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (1; 100%),
 <tt>PRON --[<tt><a href="cs-dep-dep.html">dep</a></tt>]--> VERB</tt> (1; 100%).
 

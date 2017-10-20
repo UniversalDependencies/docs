@@ -41,35 +41,6 @@ The following 10 pairs of parts of speech are connected with `parataxis`: <tt><a
 
 
 ~~~ conllu
-# visual-style 15	bgColor:blue
-# visual-style 15	fgColor:white
-# visual-style 11	bgColor:blue
-# visual-style 11	fgColor:white
-# visual-style 11 15 parataxis	color:blue
-1	Byly	být	AUX	VpTP---XR-AA---	Animacy=Inan|Gender=Fem,Masc|Number=Plur|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	5	cop	_	_
-2	to	ten	DET	PDNS1----------	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	5	nsubj	_	_
-3	poslední	poslední	ADJ	AAFP1----1A----	Case=Nom|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Pos	5	amod	_	_
-4	dvě	dva	NUM	ClHP1----------	Case=Nom|Gender=Fem,Neut|Number=Plur|NumForm=Word|NumType=Card|NumValue=1,2,3	5	nummod	_	LNumValue=2
-5	nahrávky	nahrávka	NOUN	NNFP1-----A----	Case=Nom|Gender=Fem|Number=Plur|Polarity=Pos	0	root	_	SpaceAfter=No
-6	,	,	PUNCT	Z:-------------	_	9	punct	_	_
-7	které	který	DET	P4FP4----------	Case=Acc|Gender=Fem|Number=Plur|PronType=Int,Rel	9	obj	_	_
-8	Rafferty	Rafferty	NOUN	NNMS1-----A----	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|Polarity=Pos	9	nsubj	_	_
-9	vytvořil	vytvořit	VERB	VpYS---XR-AA---	Aspect=Perf|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	5	acl	_	_
-10	s	s	ADP	RR--7----------	AdpType=Prep|Case=Ins	11	case	_	LId=s-1
-11	Hughem	Hugh	PROPN	NNMS7-----A----	Animacy=Anim|Case=Ins|Foreign=Yes|Gender=Masc|NameType=Giv|Number=Sing|Polarity=Pos	9	obl	_	_
-12	Murphym	Murphy	PROPN	NNMS7-----A----	Animacy=Anim|Case=Ins|Gender=Masc|NameType=Sur|Number=Sing|Polarity=Pos	11	flat	_	SpaceAfter=No
-13	,	,	PUNCT	Z:-------------	_	15	punct	_	_
-14	ten	ten	DET	PDYS1----------	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	15	nsubj	_	_
-15	zemřel	zemřít	VERB	VpYS---XR-AA---	Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	11	parataxis	_	_
-16	v	v	ADP	RR--6----------	AdpType=Prep|Case=Loc	17	case	_	LId=v-1
-17	roce	rok	NOUN	NNIS6-----A---1	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing|Polarity=Pos	15	obl	_	_
-18	1998	1998	NUM	C=-------------	NumForm=Digit|NumType=Card	17	nummod	_	SpaceAfter=No
-19	.	.	PUNCT	Z:-------------	_	5	punct	_	_
-
-~~~
-
-
-~~~ conllu
 # visual-style 18	bgColor:blue
 # visual-style 18	fgColor:white
 # visual-style 21	bgColor:blue
@@ -97,6 +68,35 @@ The following 10 pairs of parts of speech are connected with `parataxis`: <tt><a
 20	dovážené	dovážený	ADJ	AANS1----1A----	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Polarity=Pos	21	amod	_	LGloss=(z_ciziny)|LDeriv=dovážet
 21	víno	víno	NOUN	NNNS1-----A----	Case=Nom|Gender=Neut|Number=Sing|Polarity=Pos	7	conj	_	SpaceAfter=No
 22	.	.	PUNCT	Z:-------------	_	1	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 15	bgColor:blue
+# visual-style 15	fgColor:white
+# visual-style 11	bgColor:blue
+# visual-style 11	fgColor:white
+# visual-style 11 15 parataxis	color:blue
+1	Byly	být	AUX	VpTP---XR-AA---	Animacy=Inan|Gender=Fem,Masc|Number=Plur|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	5	cop	_	_
+2	to	ten	DET	PDNS1----------	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	5	nsubj	_	_
+3	poslední	poslední	ADJ	AAFP1----1A----	Case=Nom|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Pos	5	amod	_	_
+4	dvě	dva	NUM	ClHP1----------	Case=Nom|Gender=Fem,Neut|Number=Plur|NumForm=Word|NumType=Card|NumValue=1,2,3	5	nummod	_	LNumValue=2
+5	nahrávky	nahrávka	NOUN	NNFP1-----A----	Case=Nom|Gender=Fem|Number=Plur|Polarity=Pos	0	root	_	SpaceAfter=No
+6	,	,	PUNCT	Z:-------------	_	9	punct	_	_
+7	které	který	DET	P4FP4----------	Case=Acc|Gender=Fem|Number=Plur|PronType=Int,Rel	9	obj	_	_
+8	Rafferty	Rafferty	NOUN	NNMS1-----A----	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|Polarity=Pos	9	nsubj	_	_
+9	vytvořil	vytvořit	VERB	VpYS---XR-AA---	Aspect=Perf|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	5	acl	_	_
+10	s	s	ADP	RR--7----------	AdpType=Prep|Case=Ins	11	case	_	LId=s-1
+11	Hughem	Hugh	PROPN	NNMS7-----A----	Animacy=Anim|Case=Ins|Foreign=Yes|Gender=Masc|NameType=Giv|Number=Sing|Polarity=Pos	9	obl	_	_
+12	Murphym	Murphy	PROPN	NNMS7-----A----	Animacy=Anim|Case=Ins|Gender=Masc|NameType=Sur|Number=Sing|Polarity=Pos	11	flat	_	SpaceAfter=No
+13	,	,	PUNCT	Z:-------------	_	15	punct	_	_
+14	ten	ten	DET	PDYS1----------	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	15	nsubj	_	_
+15	zemřel	zemřít	VERB	VpYS---XR-AA---	Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	11	parataxis	_	_
+16	v	v	ADP	RR--6----------	AdpType=Prep|Case=Loc	17	case	_	LId=v-1
+17	roce	rok	NOUN	NNIS6-----A---1	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing|Polarity=Pos	15	obl	_	_
+18	1998	1998	NUM	C=-------------	NumForm=Digit|NumType=Card	17	nummod	_	SpaceAfter=No
+19	.	.	PUNCT	Z:-------------	_	5	punct	_	_
 
 ~~~
 

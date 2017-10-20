@@ -9,56 +9,56 @@ udver: '2'
 There are 71 `ADP` lemmas (0%), 79 `ADP` types (0%) and 48391 `ADP` tokens (10%).
 Out of 16 observed tags, the rank of `ADP` is: 6 in number of lemmas, 9 in number of types and 4 in number of tokens.
 
-The 10 most frequent `ADP` lemmas: v na s z k o pro do za při
+The 10 most frequent `ADP` lemmas: <em>v, na, s, z, k, o, pro, do, za, při</em>
 
-The 10 most frequent `ADP` types:  v na s z o k pro do ve za
+The 10 most frequent `ADP` types:  <em>v, na, s, z, o, k, pro, do, ve, za</em>
 
-The 10 most frequent ambiguous lemmas: v (<tt><a href="cs_cac-pos-ADP.html">ADP</a></tt> 12769, <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> 3), s (<tt><a href="cs_cac-pos-ADP.html">ADP</a></tt> 3842, <tt><a href="cs_cac-pos-PART.html">PART</a></tt> 13), z (<tt><a href="cs_cac-pos-ADP.html">ADP</a></tt> 3690, <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> 2), bez (<tt><a href="cs_cac-pos-ADP.html">ADP</a></tt> 364, <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> 1), kolem (<tt><a href="cs_cac-pos-ADP.html">ADP</a></tt> 142, <tt><a href="cs_cac-pos-ADV.html">ADV</a></tt> 3), vedle (<tt><a href="cs_cac-pos-ADP.html">ADP</a></tt> 100, <tt><a href="cs_cac-pos-ADV.html">ADV</a></tt> 3), místo (<tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> 366, <tt><a href="cs_cac-pos-ADP.html">ADP</a></tt> 50, <tt><a href="cs_cac-pos-SCONJ.html">SCONJ</a></tt> 2), de (<tt><a href="cs_cac-pos-ADP.html">ADP</a></tt> 29, <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> 1), a (<tt><a href="cs_cac-pos-CCONJ.html">CCONJ</a></tt> 15539, <tt><a href="cs_cac-pos-ADP.html">ADP</a></tt> 4), vstříc (<tt><a href="cs_cac-pos-ADP.html">ADP</a></tt> 4, <tt><a href="cs_cac-pos-ADV.html">ADV</a></tt> 4)
+The 10 most frequent ambiguous lemmas: <em>v</em> (<tt><a href="cs_cac-pos-ADP.html">ADP</a></tt> 12769, <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> 3), <em>s</em> (<tt><a href="cs_cac-pos-ADP.html">ADP</a></tt> 3842, <tt><a href="cs_cac-pos-PART.html">PART</a></tt> 13), <em>z</em> (<tt><a href="cs_cac-pos-ADP.html">ADP</a></tt> 3690, <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> 2), <em>bez</em> (<tt><a href="cs_cac-pos-ADP.html">ADP</a></tt> 364, <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> 1), <em>kolem</em> (<tt><a href="cs_cac-pos-ADP.html">ADP</a></tt> 142, <tt><a href="cs_cac-pos-ADV.html">ADV</a></tt> 3), <em>vedle</em> (<tt><a href="cs_cac-pos-ADP.html">ADP</a></tt> 100, <tt><a href="cs_cac-pos-ADV.html">ADV</a></tt> 3), <em>místo</em> (<tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> 366, <tt><a href="cs_cac-pos-ADP.html">ADP</a></tt> 50, <tt><a href="cs_cac-pos-SCONJ.html">SCONJ</a></tt> 2), <em>de</em> (<tt><a href="cs_cac-pos-ADP.html">ADP</a></tt> 29, <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> 1), <em>a</em> (<tt><a href="cs_cac-pos-CCONJ.html">CCONJ</a></tt> 15539, <tt><a href="cs_cac-pos-ADP.html">ADP</a></tt> 4), <em>vstříc</em> (<tt><a href="cs_cac-pos-ADV.html">ADV</a></tt> 4, <tt><a href="cs_cac-pos-ADP.html">ADP</a></tt> 4)
 
-The 10 most frequent ambiguous types:  v (<tt><a href="cs_cac-pos-ADP.html">ADP</a></tt> 9248, <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> 3), na (<tt><a href="cs_cac-pos-ADP.html">ADP</a></tt> 6587, <tt><a href="cs_cac-pos-CCONJ.html">CCONJ</a></tt> 1), s (<tt><a href="cs_cac-pos-ADP.html">ADP</a></tt> 3122, <tt><a href="cs_cac-pos-PART.html">PART</a></tt> 13), z (<tt><a href="cs_cac-pos-ADP.html">ADP</a></tt> 2831, <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> 2), se (<tt><a href="cs_cac-pos-PRON.html">PRON</a></tt> 7715, <tt><a href="cs_cac-pos-ADP.html">ADP</a></tt> 601), kolem (<tt><a href="cs_cac-pos-ADP.html">ADP</a></tt> 132, <tt><a href="cs_cac-pos-ADV.html">ADV</a></tt> 3, <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> 1), pomocí (<tt><a href="cs_cac-pos-ADP.html">ADP</a></tt> 97, <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> 18), vzhledem (<tt><a href="cs_cac-pos-ADP.html">ADP</a></tt> 75, <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> 4), vedle (<tt><a href="cs_cac-pos-ADP.html">ADP</a></tt> 71, <tt><a href="cs_cac-pos-ADV.html">ADV</a></tt> 3), během (<tt><a href="cs_cac-pos-ADP.html">ADP</a></tt> 50, <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>v</em> (<tt><a href="cs_cac-pos-ADP.html">ADP</a></tt> 9248, <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> 3), <em>na</em> (<tt><a href="cs_cac-pos-ADP.html">ADP</a></tt> 6587, <tt><a href="cs_cac-pos-CCONJ.html">CCONJ</a></tt> 1), <em>s</em> (<tt><a href="cs_cac-pos-ADP.html">ADP</a></tt> 3122, <tt><a href="cs_cac-pos-PART.html">PART</a></tt> 13), <em>z</em> (<tt><a href="cs_cac-pos-ADP.html">ADP</a></tt> 2831, <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> 2), <em>se</em> (<tt><a href="cs_cac-pos-PRON.html">PRON</a></tt> 7715, <tt><a href="cs_cac-pos-ADP.html">ADP</a></tt> 601), <em>kolem</em> (<tt><a href="cs_cac-pos-ADP.html">ADP</a></tt> 132, <tt><a href="cs_cac-pos-ADV.html">ADV</a></tt> 3, <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> 1), <em>pomocí</em> (<tt><a href="cs_cac-pos-ADP.html">ADP</a></tt> 97, <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> 18), <em>vzhledem</em> (<tt><a href="cs_cac-pos-ADP.html">ADP</a></tt> 75, <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> 4), <em>vedle</em> (<tt><a href="cs_cac-pos-ADP.html">ADP</a></tt> 71, <tt><a href="cs_cac-pos-ADV.html">ADV</a></tt> 3), <em>během</em> (<tt><a href="cs_cac-pos-ADP.html">ADP</a></tt> 50, <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> 1)
 
 
-* v
-  * <tt><a href="cs_cac-pos-ADP.html">ADP</a></tt> 9248: Vypracování nových principů regulace vodního režimu <b>v</b> půdě .
-  * <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> 3: Plnění plánu <b>v</b> # čtvrtletí .
-* na
-  * <tt><a href="cs_cac-pos-ADP.html">ADP</a></tt> 6587: Nejvhodnější meliorační úpravy <b>na</b> odkalištích odpadu elektráren .
-  * <tt><a href="cs_cac-pos-CCONJ.html">CCONJ</a></tt> 1: Vhodné je kladívko opatřené výřezem <b>na</b> vytahování hřebíků .
-* s
-  * <tt><a href="cs_cac-pos-ADP.html">ADP</a></tt> 3122: V říjnu bude sjednocovací řízení <b>s</b> HDP Praha .
-  * <tt><a href="cs_cac-pos-PART.html">PART</a></tt> 13: Společenské vědy nebyly <b>s</b> to dávat uspokojivé odpovědi na četné aktuální otázky dalšího vývoje socialismu .
-* z
-  * <tt><a href="cs_cac-pos-ADP.html">ADP</a></tt> 2831: Využije se zkušeností a výsledků výzkumu <b>z</b> povodí Žebrákovského potoka .
-  * <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> 2: Soudilo se , že by mohl patřit k strukturálním * , obsaženým především v * <b>z</b> - linie .
-* se
-  * <tt><a href="cs_cac-pos-PRON.html">PRON</a></tt> 7715: Za tím účelem <b>se</b> zavazujeme .
-  * <tt><a href="cs_cac-pos-ADP.html">ADP</a></tt> 601: Dohoda <b>se</b> * ředitelem Tomkou o spolupráci na Oravě .
-* kolem
-  * <tt><a href="cs_cac-pos-ADP.html">ADP</a></tt> 132: Letos si troufáme na průměr <b>kolem</b> # * po hektaru .
-  * <tt><a href="cs_cac-pos-ADV.html">ADV</a></tt> 3: Já dávám lidem něco z toho , co oni zase dávají mně , a tak to jde <b>kolem</b> dokola .
-  * <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> 1: Pro odvoz vykopaného materiálu kolečko , pokud možno s <b>kolem</b> opatřeným pneumatikou , protože práce s ním je méně namáhavá a rychlejší .
-* pomocí
-  * <tt><a href="cs_cac-pos-ADP.html">ADP</a></tt> 97: Čistí se omytím ve vlažné vodě <b>pomocí</b> kartáčku .
-  * <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> 18: S jejich <b>pomocí</b> lze již vypočítat přenosové funkce pro obecný případ .
-* vzhledem
-  * <tt><a href="cs_cac-pos-ADP.html">ADP</a></tt> 75: To založilo nepříznivé tendence <b>vzhledem</b> k budoucímu vývoji .
-  * <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> 4: Vůz s líbivým <b>vzhledem</b> má motor o objemu válců # * se zvlášť zvýšeným výkonem .
-* vedle
-  * <tt><a href="cs_cac-pos-ADP.html">ADP</a></tt> 71: * Vlková se <b>vedle</b> studia zapracovávala do hlavního úkolu oddělení .
-  * <tt><a href="cs_cac-pos-ADV.html">ADV</a></tt> 3: Nevstávají jako ti <b>vedle</b> za pokřikování budíííčééék , ale vstávají sami .
-* během
-  * <tt><a href="cs_cac-pos-ADP.html">ADP</a></tt> 50: Knoflík programátoru se <b>během</b> praní otáčí ve směru hodinových ručiček .
-  * <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> 1: Důležité je provádět je <b>během</b> a co nejrychleji , každý na svoje místo .
+* <em>v</em>
+  * <tt><a href="cs_cac-pos-ADP.html">ADP</a></tt> 9248: <em>Vypracování nových principů regulace vodního režimu <b>v</b> půdě .</em>
+  * <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> 3: <em>Plnění plánu <b>v</b> # čtvrtletí .</em>
+* <em>na</em>
+  * <tt><a href="cs_cac-pos-ADP.html">ADP</a></tt> 6587: <em>Nejvhodnější meliorační úpravy <b>na</b> odkalištích odpadu elektráren .</em>
+  * <tt><a href="cs_cac-pos-CCONJ.html">CCONJ</a></tt> 1: <em>Vhodné je kladívko opatřené výřezem <b>na</b> vytahování hřebíků .</em>
+* <em>s</em>
+  * <tt><a href="cs_cac-pos-ADP.html">ADP</a></tt> 3122: <em>V říjnu bude sjednocovací řízení <b>s</b> HDP Praha .</em>
+  * <tt><a href="cs_cac-pos-PART.html">PART</a></tt> 13: <em>Společenské vědy nebyly <b>s</b> to dávat uspokojivé odpovědi na četné aktuální otázky dalšího vývoje socialismu .</em>
+* <em>z</em>
+  * <tt><a href="cs_cac-pos-ADP.html">ADP</a></tt> 2831: <em>Využije se zkušeností a výsledků výzkumu <b>z</b> povodí Žebrákovského potoka .</em>
+  * <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> 2: <em>Soudilo se , že by mohl patřit k strukturálním * , obsaženým především v * <b>z</b> - linie .</em>
+* <em>se</em>
+  * <tt><a href="cs_cac-pos-PRON.html">PRON</a></tt> 7715: <em>Za tím účelem <b>se</b> zavazujeme .</em>
+  * <tt><a href="cs_cac-pos-ADP.html">ADP</a></tt> 601: <em>Dohoda <b>se</b> * ředitelem Tomkou o spolupráci na Oravě .</em>
+* <em>kolem</em>
+  * <tt><a href="cs_cac-pos-ADP.html">ADP</a></tt> 132: <em>Letos si troufáme na průměr <b>kolem</b> # * po hektaru .</em>
+  * <tt><a href="cs_cac-pos-ADV.html">ADV</a></tt> 3: <em>Já dávám lidem něco z toho , co oni zase dávají mně , a tak to jde <b>kolem</b> dokola .</em>
+  * <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> 1: <em>Pro odvoz vykopaného materiálu kolečko , pokud možno s <b>kolem</b> opatřeným pneumatikou , protože práce s ním je méně namáhavá a rychlejší .</em>
+* <em>pomocí</em>
+  * <tt><a href="cs_cac-pos-ADP.html">ADP</a></tt> 97: <em>Čistí se omytím ve vlažné vodě <b>pomocí</b> kartáčku .</em>
+  * <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> 18: <em>S jejich <b>pomocí</b> lze již vypočítat přenosové funkce pro obecný případ .</em>
+* <em>vzhledem</em>
+  * <tt><a href="cs_cac-pos-ADP.html">ADP</a></tt> 75: <em>To založilo nepříznivé tendence <b>vzhledem</b> k budoucímu vývoji .</em>
+  * <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> 4: <em>Vůz s líbivým <b>vzhledem</b> má motor o objemu válců # * se zvlášť zvýšeným výkonem .</em>
+* <em>vedle</em>
+  * <tt><a href="cs_cac-pos-ADP.html">ADP</a></tt> 71: <em>* Vlková se <b>vedle</b> studia zapracovávala do hlavního úkolu oddělení .</em>
+  * <tt><a href="cs_cac-pos-ADV.html">ADV</a></tt> 3: <em>Nevstávají jako ti <b>vedle</b> za pokřikování budíííčééék , ale vstávají sami .</em>
+* <em>během</em>
+  * <tt><a href="cs_cac-pos-ADP.html">ADP</a></tt> 50: <em>Knoflík programátoru se <b>během</b> praní otáčí ve směru hodinových ručiček .</em>
+  * <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> 1: <em>Důležité je provádět je <b>během</b> a co nejrychleji , každý na svoje místo .</em>
 
 ## Morphology
 
 The form / lemma ratio of `ADP` is 1.112676 (the average of all parts of speech is 2.186309).
 
-The 1st highest number of forms (3) was observed with the lemma “k”: k, ke, ku.
+The 1st highest number of forms (3) was observed with the lemma “k”: <em>k, ke, ku</em>.
 
-The 2nd highest number of forms (2) was observed with the lemma “bez”: bez, beze.
+The 2nd highest number of forms (2) was observed with the lemma “bez”: <em>bez, beze</em>.
 
-The 3rd highest number of forms (2) was observed with the lemma “díky”: dík, díky.
+The 3rd highest number of forms (2) was observed with the lemma “díky”: <em>dík, díky</em>.
 
 `ADP` occurs with 4 features: <tt><a href="cs_cac-feat-AdpType.html">AdpType</a></tt> (48391; 100% instances), <tt><a href="cs_cac-feat-Case.html">Case</a></tt> (48249; 100% instances), <tt><a href="cs_cac-feat-Foreign.html">Foreign</a></tt> (64; 0% instances), <tt><a href="cs_cac-feat-NameType.html">NameType</a></tt> (4; 0% instances)
 
@@ -66,7 +66,7 @@ The 3rd highest number of forms (2) was observed with the lemma “díky”: dí
 
 `ADP` occurs with 21 feature combinations.
 The most frequent feature combination is `AdpType=Prep|Case=Loc` (17552 tokens).
-Examples: v na o při po
+Examples: <em>v, na, o, při, po</em>
 
 
 ## Relations

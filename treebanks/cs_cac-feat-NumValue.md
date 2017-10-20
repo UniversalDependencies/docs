@@ -23,17 +23,17 @@ The most frequent other feature values with which `NUM` and `NumValue` co-occurr
 
 `NUM` tokens may have the following values of `NumValue`:
 
-* `1,2,3` (1962; 100% of non-empty `NumValue`): dvou jeden dvě tři dva obou jedné jednoho jedním dvěma
+* `1,2,3` (1962; 100% of non-empty `NumValue`): <em>dvou, jeden, dvě, tři, dva, obou, jedné, jednoho, jedním, dvěma</em>
 
 ### `ADJ`
 
 10 <tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt> tokens (0% of all `ADJ` tokens) have a non-empty value of `NumValue`.
 
-The most frequent other feature values with which `ADJ` and `NumValue` co-occurred: <tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Plur</tt> (10; 100%), <tt><a href="cs_cac-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (10; 100%), <tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (10; 100%), <tt><a href="cs_cac-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (7; 70%), <tt><a href="cs_cac-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (6; 60%).
+The most frequent other feature values with which `ADJ` and `NumValue` co-occurred: <tt><a href="cs_cac-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (10; 100%), <tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (10; 100%), <tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Plur</tt> (10; 100%), <tt><a href="cs_cac-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (7; 70%), <tt><a href="cs_cac-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (6; 60%).
 
 `ADJ` tokens may have the following values of `NumValue`:
 
-* `1` (10; 100% of non-empty `NumValue`): jedněch jedni jedny
+* `1` (10; 100% of non-empty `NumValue`): <em>jedněch, jedni, jedny</em>
 
 ## Relations with Agreement in `NumValue`
 

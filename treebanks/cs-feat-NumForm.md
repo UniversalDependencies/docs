@@ -22,9 +22,9 @@ The most frequent other feature values with which `NUM` and `NumForm` co-occurre
 
 `NUM` tokens may have the following values of `NumForm`:
 
-* `Digit` (29481; 72% of non-empty `NumForm`): 1 2 3 4 6 5 1992 10 1994 1993
-* `Roman` (376; 1% of non-empty `NumForm`): II I III IV V VI XX D C IX
-* `Word` (11308; 27% of non-empty `NumForm`): dva tři jeden dvě tisíc dvou pět čtyři obou jednoho
+* `Digit` (29481; 72% of non-empty `NumForm`): <em>1, 2, 3, 4, 6, 5, 1992, 10, 1994, 1993</em>
+* `Roman` (376; 1% of non-empty `NumForm`): <em>II, I, III, IV, V, VI, XX, D, C, IX</em>
+* `Word` (11308; 27% of non-empty `NumForm`): <em>dva, tři, jeden, dvě, tisíc, dvou, pět, čtyři, obou, jednoho</em>
 
 `NumForm` seems to be **lexical feature** of `NUM`. 100% lemmas (3428) occur only with one value of `NumForm`.
 

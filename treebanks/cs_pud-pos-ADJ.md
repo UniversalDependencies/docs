@@ -9,53 +9,53 @@ udver: '2'
 There are 1174 `ADJ` lemmas (22%), 1751 `ADJ` types (23%) and 2284 `ADJ` tokens (12%).
 Out of 15 observed tags, the rank of `ADJ` is: 2 in number of lemmas, 2 in number of types and 3 in number of tokens.
 
-The 10 most frequent `ADJ` lemmas: velký nový další první vysoký druhý poslední americký jiný jižní
+The 10 most frequent `ADJ` lemmas: <em>velký, nový, další, první, vysoký, druhý, poslední, americký, jiný, jižní</em>
 
-The 10 most frequent `ADJ` types:  první další nové jižní druhé severní hlavní velká velké vlastní
+The 10 most frequent `ADJ` types:  <em>první, další, nové, jižní, druhé, severní, hlavní, velká, velké, vlastní</em>
 
-The 10 most frequent ambiguous lemmas: každý (<tt><a href="cs_pud-pos-ADJ.html">ADJ</a></tt> 14, <tt><a href="cs_pud-pos-DET.html">DET</a></tt> 2), známý (<tt><a href="cs_pud-pos-ADJ.html">ADJ</a></tt> 9, <tt><a href="cs_pud-pos-NOUN.html">NOUN</a></tt> 1), vedoucí (<tt><a href="cs_pud-pos-ADJ.html">ADJ</a></tt> 5, <tt><a href="cs_pud-pos-NOUN.html">NOUN</a></tt> 2), rád (<tt><a href="cs_pud-pos-ADJ.html">ADJ</a></tt> 3, <tt><a href="cs_pud-pos-ADV.html">ADV</a></tt> 2), El (<tt><a href="cs_pud-pos-ADJ.html">ADJ</a></tt> 2, <tt><a href="cs_pud-pos-PROPN.html">PROPN</a></tt> 1), a (<tt><a href="cs_pud-pos-CCONJ.html">CCONJ</a></tt> 462, <tt><a href="cs_pud-pos-ADJ.html">ADJ</a></tt> 2, <tt><a href="cs_pud-pos-ADP.html">ADP</a></tt> 1), Le (<tt><a href="cs_pud-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="cs_pud-pos-NOUN.html">NOUN</a></tt> 1), Santa (<tt><a href="cs_pud-pos-PROPN.html">PROPN</a></tt> 1, <tt><a href="cs_pud-pos-ADJ.html">ADJ</a></tt> 1), jeden (<tt><a href="cs_pud-pos-NUM.html">NUM</a></tt> 37, <tt><a href="cs_pud-pos-ADJ.html">ADJ</a></tt> 1), sci-fi (<tt><a href="cs_pud-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="cs_pud-pos-NOUN.html">NOUN</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>každý</em> (<tt><a href="cs_pud-pos-ADJ.html">ADJ</a></tt> 14, <tt><a href="cs_pud-pos-DET.html">DET</a></tt> 2), <em>známý</em> (<tt><a href="cs_pud-pos-ADJ.html">ADJ</a></tt> 9, <tt><a href="cs_pud-pos-NOUN.html">NOUN</a></tt> 1), <em>vedoucí</em> (<tt><a href="cs_pud-pos-ADJ.html">ADJ</a></tt> 5, <tt><a href="cs_pud-pos-NOUN.html">NOUN</a></tt> 2), <em>rád</em> (<tt><a href="cs_pud-pos-ADJ.html">ADJ</a></tt> 3, <tt><a href="cs_pud-pos-ADV.html">ADV</a></tt> 2), <em>El</em> (<tt><a href="cs_pud-pos-ADJ.html">ADJ</a></tt> 2, <tt><a href="cs_pud-pos-PROPN.html">PROPN</a></tt> 1), <em>a</em> (<tt><a href="cs_pud-pos-CCONJ.html">CCONJ</a></tt> 462, <tt><a href="cs_pud-pos-ADJ.html">ADJ</a></tt> 2, <tt><a href="cs_pud-pos-ADP.html">ADP</a></tt> 1), <em>Le</em> (<tt><a href="cs_pud-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="cs_pud-pos-ADJ.html">ADJ</a></tt> 1), <em>Santa</em> (<tt><a href="cs_pud-pos-PROPN.html">PROPN</a></tt> 1, <tt><a href="cs_pud-pos-ADJ.html">ADJ</a></tt> 1), <em>jeden</em> (<tt><a href="cs_pud-pos-NUM.html">NUM</a></tt> 37, <tt><a href="cs_pud-pos-ADJ.html">ADJ</a></tt> 1), <em>sci-fi</em> (<tt><a href="cs_pud-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="cs_pud-pos-ADJ.html">ADJ</a></tt> 1)
 
-The 10 most frequent ambiguous types:  vlastní (<tt><a href="cs_pud-pos-ADJ.html">ADJ</a></tt> 8, <tt><a href="cs_pud-pos-VERB.html">VERB</a></tt> 2), každý (<tt><a href="cs_pud-pos-ADJ.html">ADJ</a></tt> 6, <tt><a href="cs_pud-pos-DET.html">DET</a></tt> 2), vedoucí (<tt><a href="cs_pud-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="cs_pud-pos-NOUN.html">NOUN</a></tt> 1), El (<tt><a href="cs_pud-pos-ADJ.html">ADJ</a></tt> 2, <tt><a href="cs_pud-pos-PROPN.html">PROPN</a></tt> 1), a (<tt><a href="cs_pud-pos-CCONJ.html">CCONJ</a></tt> 454, <tt><a href="cs_pud-pos-ADJ.html">ADJ</a></tt> 2, <tt><a href="cs_pud-pos-ADP.html">ADP</a></tt> 1), Royal (<tt><a href="cs_pud-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="cs_pud-pos-ADJ.html">ADJ</a></tt> 1), Santa (<tt><a href="cs_pud-pos-PROPN.html">PROPN</a></tt> 1, <tt><a href="cs_pud-pos-ADJ.html">ADJ</a></tt> 1), sci-fi (<tt><a href="cs_pud-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="cs_pud-pos-NOUN.html">NOUN</a></tt> 1), známých (<tt><a href="cs_pud-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="cs_pud-pos-NOUN.html">NOUN</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>vlastní</em> (<tt><a href="cs_pud-pos-ADJ.html">ADJ</a></tt> 8, <tt><a href="cs_pud-pos-VERB.html">VERB</a></tt> 2), <em>každý</em> (<tt><a href="cs_pud-pos-ADJ.html">ADJ</a></tt> 6, <tt><a href="cs_pud-pos-DET.html">DET</a></tt> 2), <em>vedoucí</em> (<tt><a href="cs_pud-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="cs_pud-pos-ADJ.html">ADJ</a></tt> 1), <em>El</em> (<tt><a href="cs_pud-pos-ADJ.html">ADJ</a></tt> 2, <tt><a href="cs_pud-pos-PROPN.html">PROPN</a></tt> 1), <em>a</em> (<tt><a href="cs_pud-pos-CCONJ.html">CCONJ</a></tt> 454, <tt><a href="cs_pud-pos-ADJ.html">ADJ</a></tt> 2, <tt><a href="cs_pud-pos-ADP.html">ADP</a></tt> 1), <em>Royal</em> (<tt><a href="cs_pud-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="cs_pud-pos-ADJ.html">ADJ</a></tt> 1), <em>Santa</em> (<tt><a href="cs_pud-pos-PROPN.html">PROPN</a></tt> 1, <tt><a href="cs_pud-pos-ADJ.html">ADJ</a></tt> 1), <em>sci-fi</em> (<tt><a href="cs_pud-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="cs_pud-pos-ADJ.html">ADJ</a></tt> 1), <em>známých</em> (<tt><a href="cs_pud-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="cs_pud-pos-ADJ.html">ADJ</a></tt> 1)
 
 
-* vlastní
-  * <tt><a href="cs_pud-pos-ADJ.html">ADJ</a></tt> 8: Úspěch malých Ramblerů firmy American Motors přiměl v roce 1960 GM a Ford představit <b>vlastní</b> menší modely .
-  * <tt><a href="cs_pud-pos-VERB.html">VERB</a></tt> 2: Disney také zjistil , že společnost Universal <b>vlastní</b> práva k Oswaldovi .
-* každý
-  * <tt><a href="cs_pud-pos-ADJ.html">ADJ</a></tt> 6: Ne <b>každý</b> se nad to dokáže povznést .
-  * <tt><a href="cs_pud-pos-DET.html">DET</a></tt> 2: Oceněná stavba , navržená Juanem Carlosem Salasem , má sošný vzhled a <b>každý</b> detail má svůj význam .
-* vedoucí
-  * <tt><a href="cs_pud-pos-ADJ.html">ADJ</a></tt> 1: V roce 2003 si v posledních 33 ze 36 závodů držel <b>vedoucí</b> pozici a stal se toho roku jako poslední jezdec , který kdy tento titul držel , šampionem NASCAR Winston Cupu .
-  * <tt><a href="cs_pud-pos-NOUN.html">NOUN</a></tt> 1: Jako příčina pocitu křivdy <b>vedoucí</b> k ozbrojené vzpouře byl označen nízký příjem na osobu .
-* El
-  * <tt><a href="cs_pud-pos-ADJ.html">ADJ</a></tt> 2: Nejúspěšnějším filmem roku 2007 byl <b>El</b> Greco režírovaný Yannisem Smaragdisem .
-  * <tt><a href="cs_pud-pos-PROPN.html">PROPN</a></tt> 1: „ Přijdou protesty a další věci , to už je naplánováno , “ řekla opozice <b>El</b> Mundu .
-* a
-  * <tt><a href="cs_pud-pos-CCONJ.html">CCONJ</a></tt> 454: Co říká <b>a</b> co dělá , to je – no , je to neuvěřitelné .
-  * <tt><a href="cs_pud-pos-ADJ.html">ADJ</a></tt> 2: Na několika nahrávkách z alba On <b>a</b> wing and <b>a</b> prayer z roku 1992 znovu spolupracoval se svým parťákem Eganem z kapely Stealers wheel .
-  * <tt><a href="cs_pud-pos-ADP.html">ADP</a></tt> 1: Nicolai spolupracuje na různých Morriconeho filmových choreografiích , například na Metti , una sera <b>a</b> cena ; některé z nich napsali společně .
-* Royal
-  * <tt><a href="cs_pud-pos-NOUN.html">NOUN</a></tt> 1: Australský <b>Royal</b> National Park , založený v roce 1879 , byl druhým oficiálně založeným národním parkem na světě .
-  * <tt><a href="cs_pud-pos-ADJ.html">ADJ</a></tt> 1: Začínala v <b>Royal</b> Shakespeare Company v polovině šedesátých let rolí chovankyně ústavu ve hře Marat / Sade .
-* Santa
-  * <tt><a href="cs_pud-pos-PROPN.html">PROPN</a></tt> 1: Oba studenti Goffreda Petrassiho , Ennio Morricone a Bruno Nicolai , se setkali v konzervatoři <b>Santa</b> Cecilia .
-  * <tt><a href="cs_pud-pos-ADJ.html">ADJ</a></tt> 1: Dnes ráno se papež František setkal s Markem Zuckerbergem a jeho ženou v Casa <b>Santa</b> Marta .
-* sci-fi
-  * <tt><a href="cs_pud-pos-ADJ.html">ADJ</a></tt> 1: Souběžně s tím v polovině 70 . let Starlin vydával údajně jím objevené příběhy v nezávisle publikované <b>sci-fi</b> antologii Star Reach .
-  * <tt><a href="cs_pud-pos-NOUN.html">NOUN</a></tt> 1: V lednu 2011 začala Bluntová společně s Brucem Willisem a Josephem Gordonem - Levittem natáčet americkou <b>sci-fi</b> Looper , kterou režíroval Rian Johnson ; film byl uveden do kin v září 2012 .
-* známých
-  * <tt><a href="cs_pud-pos-ADJ.html">ADJ</a></tt> 1: Kultovní pozůstatky nalezené v té lokalitě byly řada deseti stojících kamenů <b>známých</b> jako menhiry , orientovaných severojižně , přičemž nejvyšší z nich byl vysoký 3 metry , s oltářovitou strukturou uprostřed a s velkou čtverhrannou kamennou mísou .
-  * <tt><a href="cs_pud-pos-NOUN.html">NOUN</a></tt> 1: Stejně jako mnoho mých <b>známých</b> jsem poslední měsíce trávil dlouhé večery u strašidelných průzkumů preferencí .
+* <em>vlastní</em>
+  * <tt><a href="cs_pud-pos-ADJ.html">ADJ</a></tt> 8: <em>Úspěch malých Ramblerů firmy American Motors přiměl v roce 1960 GM a Ford představit <b>vlastní</b> menší modely .</em>
+  * <tt><a href="cs_pud-pos-VERB.html">VERB</a></tt> 2: <em>Disney také zjistil , že společnost Universal <b>vlastní</b> práva k Oswaldovi .</em>
+* <em>každý</em>
+  * <tt><a href="cs_pud-pos-ADJ.html">ADJ</a></tt> 6: <em>Ne <b>každý</b> se nad to dokáže povznést .</em>
+  * <tt><a href="cs_pud-pos-DET.html">DET</a></tt> 2: <em>Oceněná stavba , navržená Juanem Carlosem Salasem , má sošný vzhled a <b>každý</b> detail má svůj význam .</em>
+* <em>vedoucí</em>
+  * <tt><a href="cs_pud-pos-NOUN.html">NOUN</a></tt> 1: <em>Jako příčina pocitu křivdy <b>vedoucí</b> k ozbrojené vzpouře byl označen nízký příjem na osobu .</em>
+  * <tt><a href="cs_pud-pos-ADJ.html">ADJ</a></tt> 1: <em>V roce 2003 si v posledních 33 ze 36 závodů držel <b>vedoucí</b> pozici a stal se toho roku jako poslední jezdec , který kdy tento titul držel , šampionem NASCAR Winston Cupu .</em>
+* <em>El</em>
+  * <tt><a href="cs_pud-pos-ADJ.html">ADJ</a></tt> 2: <em>Nejúspěšnějším filmem roku 2007 byl <b>El</b> Greco režírovaný Yannisem Smaragdisem .</em>
+  * <tt><a href="cs_pud-pos-PROPN.html">PROPN</a></tt> 1: <em>„ Přijdou protesty a další věci , to už je naplánováno , “ řekla opozice <b>El</b> Mundu .</em>
+* <em>a</em>
+  * <tt><a href="cs_pud-pos-CCONJ.html">CCONJ</a></tt> 454: <em>Co říká <b>a</b> co dělá , to je – no , je to neuvěřitelné .</em>
+  * <tt><a href="cs_pud-pos-ADJ.html">ADJ</a></tt> 2: <em>Na několika nahrávkách z alba On <b>a</b> wing and <b>a</b> prayer z roku 1992 znovu spolupracoval se svým parťákem Eganem z kapely Stealers wheel .</em>
+  * <tt><a href="cs_pud-pos-ADP.html">ADP</a></tt> 1: <em>Nicolai spolupracuje na různých Morriconeho filmových choreografiích , například na Metti , una sera <b>a</b> cena ; některé z nich napsali společně .</em>
+* <em>Royal</em>
+  * <tt><a href="cs_pud-pos-NOUN.html">NOUN</a></tt> 1: <em>Australský <b>Royal</b> National Park , založený v roce 1879 , byl druhým oficiálně založeným národním parkem na světě .</em>
+  * <tt><a href="cs_pud-pos-ADJ.html">ADJ</a></tt> 1: <em>Začínala v <b>Royal</b> Shakespeare Company v polovině šedesátých let rolí chovankyně ústavu ve hře Marat / Sade .</em>
+* <em>Santa</em>
+  * <tt><a href="cs_pud-pos-PROPN.html">PROPN</a></tt> 1: <em>Oba studenti Goffreda Petrassiho , Ennio Morricone a Bruno Nicolai , se setkali v konzervatoři <b>Santa</b> Cecilia .</em>
+  * <tt><a href="cs_pud-pos-ADJ.html">ADJ</a></tt> 1: <em>Dnes ráno se papež František setkal s Markem Zuckerbergem a jeho ženou v Casa <b>Santa</b> Marta .</em>
+* <em>sci-fi</em>
+  * <tt><a href="cs_pud-pos-NOUN.html">NOUN</a></tt> 1: <em>V lednu 2011 začala Bluntová společně s Brucem Willisem a Josephem Gordonem - Levittem natáčet americkou <b>sci-fi</b> Looper , kterou režíroval Rian Johnson ; film byl uveden do kin v září 2012 .</em>
+  * <tt><a href="cs_pud-pos-ADJ.html">ADJ</a></tt> 1: <em>Souběžně s tím v polovině 70 . let Starlin vydával údajně jím objevené příběhy v nezávisle publikované <b>sci-fi</b> antologii Star Reach .</em>
+* <em>známých</em>
+  * <tt><a href="cs_pud-pos-NOUN.html">NOUN</a></tt> 1: <em>Stejně jako mnoho mých <b>známých</b> jsem poslední měsíce trávil dlouhé večery u strašidelných průzkumů preferencí .</em>
+  * <tt><a href="cs_pud-pos-ADJ.html">ADJ</a></tt> 1: <em>Kultovní pozůstatky nalezené v té lokalitě byly řada deseti stojících kamenů <b>známých</b> jako menhiry , orientovaných severojižně , přičemž nejvyšší z nich byl vysoký 3 metry , s oltářovitou strukturou uprostřed a s velkou čtverhrannou kamennou mísou .</em>
 
 ## Morphology
 
 The form / lemma ratio of `ADJ` is 1.491482 (the average of all parts of speech is 1.427558).
 
-The 1st highest number of forms (16) was observed with the lemma “velký”: největší, největším, největšími, velcí, velkou, velká, velké, velkého, velkém, velkému, velký, velkých, velkým, větší, větších, větším.
+The 1st highest number of forms (16) was observed with the lemma “velký”: <em>největší, největším, největšími, velcí, velkou, velká, velké, velkého, velkém, velkému, velký, velkých, velkým, větší, větších, větším</em>.
 
-The 2nd highest number of forms (11) was observed with the lemma “vysoký”: Nejvyššího, nejvyšší, nejvyšším, vysoká, vysoké, vysokému, vysoký, vysokých, vysokým, vyšší, vyšších.
+The 2nd highest number of forms (11) was observed with the lemma “vysoký”: <em>Nejvyššího, nejvyšší, nejvyšším, vysoká, vysoké, vysokému, vysoký, vysokých, vysokým, vyšší, vyšších</em>.
 
-The 3rd highest number of forms (10) was observed with the lemma “dobrý”: Dobrá, Dobrými, dobrou, dobré, dobrých, lepší, lepším, nejlepší, nejlepších, nejlepším.
+The 3rd highest number of forms (10) was observed with the lemma “dobrý”: <em>Dobrá, Dobrými, dobrou, dobré, dobrých, lepší, lepším, nejlepší, nejlepších, nejlepším</em>.
 
 `ADJ` occurs with 20 features: <tt><a href="cs_pud-feat-Number.html">Number</a></tt> (2245; 98% instances), <tt><a href="cs_pud-feat-Gender.html">Gender</a></tt> (2244; 98% instances), <tt><a href="cs_pud-feat-Polarity.html">Polarity</a></tt> (2168; 95% instances), <tt><a href="cs_pud-feat-Case.html">Case</a></tt> (2025; 89% instances), <tt><a href="cs_pud-feat-Degree.html">Degree</a></tt> (1883; 82% instances), <tt><a href="cs_pud-feat-Animacy.html">Animacy</a></tt> (876; 38% instances), <tt><a href="cs_pud-feat-VerbForm.html">VerbForm</a></tt> (268; 12% instances), <tt><a href="cs_pud-feat-Voice.html">Voice</a></tt> (268; 12% instances), <tt><a href="cs_pud-feat-Variant.html">Variant</a></tt> (220; 10% instances), <tt><a href="cs_pud-feat-Aspect.html">Aspect</a></tt> (184; 8% instances), <tt><a href="cs_pud-feat-NumType.html">NumType</a></tt> (76; 3% instances), <tt><a href="cs_pud-feat-Tense.html">Tense</a></tt> (63; 3% instances), <tt><a href="cs_pud-feat-NameType.html">NameType</a></tt> (56; 2% instances), <tt><a href="cs_pud-feat-Gender-psor.html">Gender[psor]</a></tt> (39; 2% instances), <tt><a href="cs_pud-feat-Poss.html">Poss</a></tt> (39; 2% instances), <tt><a href="cs_pud-feat-Foreign.html">Foreign</a></tt> (31; 1% instances), <tt><a href="cs_pud-feat-Style.html">Style</a></tt> (6; 0% instances), <tt><a href="cs_pud-feat-Abbr.html">Abbr</a></tt> (2; 0% instances), <tt><a href="cs_pud-feat-Hyph.html">Hyph</a></tt> (2; 0% instances), <tt><a href="cs_pud-feat-NumValue.html">NumValue</a></tt> (1; 0% instances)
 
@@ -63,7 +63,7 @@ The 3rd highest number of forms (10) was observed with the lemma “dobrý”: D
 
 `ADJ` occurs with 245 feature combinations.
 The most frequent feature combination is `Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos` (155 tokens).
-Examples: velká severní každá Průmyslová makedonská Federální Francouzská Jihoafrická Jihokorejská Nová
+Examples: <em>velká, severní, každá, Průmyslová, makedonská, Federální, Francouzská, Jihoafrická, Jihokorejská, Nová</em>
 
 
 ## Relations

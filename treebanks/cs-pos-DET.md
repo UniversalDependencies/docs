@@ -9,57 +9,57 @@ udver: '2'
 There are 68 `DET` lemmas (0%), 377 `DET` types (0%) and 55313 `DET` tokens (4%).
 Out of 17 observed tags, the rank of `DET` is: 9 in number of lemmas, 7 in number of types and 9 in number of tokens.
 
-The 10 most frequent `DET` lemmas: ten který tento jeho svůj můj všechen některý takový několik
+The 10 most frequent `DET` lemmas: <em>ten, který, tento, jeho, svůj, můj, všechen, některý, takový, několik</em>
 
-The 10 most frequent `DET` types:  to které který jeho která jejich své tím kteří tom
+The 10 most frequent `DET` types:  <em>to, které, který, jeho, která, jejich, své, tím, kteří, tom</em>
 
-The 10 most frequent ambiguous lemmas: svůj (<tt><a href="cs-pos-DET.html">DET</a></tt> 4881, <tt><a href="cs-pos-ADJ.html">ADJ</a></tt> 4), jenž (<tt><a href="cs-pos-PRON.html">PRON</a></tt> 2201, <tt><a href="cs-pos-DET.html">DET</a></tt> 658), mnoho (<tt><a href="cs-pos-DET.html">DET</a></tt> 469, <tt><a href="cs-pos-ADV.html">ADV</a></tt> 1), tolik (<tt><a href="cs-pos-DET.html">DET</a></tt> 121, <tt><a href="cs-pos-ADV.html">ADV</a></tt> 63), málo (<tt><a href="cs-pos-ADV.html">ADV</a></tt> 700, <tt><a href="cs-pos-DET.html">DET</a></tt> 110, <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 40), moc (<tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 226, <tt><a href="cs-pos-ADV.html">ADV</a></tt> 99, <tt><a href="cs-pos-DET.html">DET</a></tt> 36), Notre (<tt><a href="cs-pos-ADJ.html">ADJ</a></tt> 3, <tt><a href="cs-pos-DET.html">DET</a></tt> 1), c (<tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 101, <tt><a href="cs-pos-DET.html">DET</a></tt> 1), ce (<tt><a href="cs-pos-PROPN.html">PROPN</a></tt> 5, <tt><a href="cs-pos-DET.html">DET</a></tt> 1), hodně (<tt><a href="cs-pos-ADV.html">ADV</a></tt> 1842, <tt><a href="cs-pos-DET.html">DET</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>svůj</em> (<tt><a href="cs-pos-DET.html">DET</a></tt> 4881, <tt><a href="cs-pos-ADJ.html">ADJ</a></tt> 4), <em>jenž</em> (<tt><a href="cs-pos-PRON.html">PRON</a></tt> 2201, <tt><a href="cs-pos-DET.html">DET</a></tt> 658), <em>mnoho</em> (<tt><a href="cs-pos-DET.html">DET</a></tt> 469, <tt><a href="cs-pos-ADV.html">ADV</a></tt> 1), <em>tolik</em> (<tt><a href="cs-pos-DET.html">DET</a></tt> 121, <tt><a href="cs-pos-ADV.html">ADV</a></tt> 63), <em>málo</em> (<tt><a href="cs-pos-ADV.html">ADV</a></tt> 700, <tt><a href="cs-pos-DET.html">DET</a></tt> 110, <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 40), <em>moc</em> (<tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 226, <tt><a href="cs-pos-ADV.html">ADV</a></tt> 99, <tt><a href="cs-pos-DET.html">DET</a></tt> 36), <em>Notre</em> (<tt><a href="cs-pos-ADJ.html">ADJ</a></tt> 3, <tt><a href="cs-pos-DET.html">DET</a></tt> 1), <em>c</em> (<tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 101, <tt><a href="cs-pos-DET.html">DET</a></tt> 1), <em>ce</em> (<tt><a href="cs-pos-PROPN.html">PROPN</a></tt> 5, <tt><a href="cs-pos-DET.html">DET</a></tt> 1), <em>hodně</em> (<tt><a href="cs-pos-ADV.html">ADV</a></tt> 1842, <tt><a href="cs-pos-DET.html">DET</a></tt> 1)
 
-The 10 most frequent ambiguous types:  to (<tt><a href="cs-pos-DET.html">DET</a></tt> 6017, <tt><a href="cs-pos-PART.html">PART</a></tt> 30, <tt><a href="cs-pos-ADP.html">ADP</a></tt> 5), jeho (<tt><a href="cs-pos-DET.html">DET</a></tt> 2472, <tt><a href="cs-pos-PRON.html">PRON</a></tt> 17), své (<tt><a href="cs-pos-DET.html">DET</a></tt> 1406, <tt><a href="cs-pos-ADJ.html">ADJ</a></tt> 1), tom (<tt><a href="cs-pos-DET.html">DET</a></tt> 1089, <tt><a href="cs-pos-PROPN.html">PROPN</a></tt> 5), všech (<tt><a href="cs-pos-DET.html">DET</a></tt> 611, <tt><a href="cs-pos-PRON.html">PRON</a></tt> 1), svůj (<tt><a href="cs-pos-DET.html">DET</a></tt> 460, <tt><a href="cs-pos-ADJ.html">ADJ</a></tt> 1), toto (<tt><a href="cs-pos-DET.html">DET</a></tt> 278, <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 2), ty (<tt><a href="cs-pos-DET.html">DET</a></tt> 269, <tt><a href="cs-pos-PRON.html">PRON</a></tt> 12), ta (<tt><a href="cs-pos-DET.html">DET</a></tt> 155, <tt><a href="cs-pos-INTJ.html">INTJ</a></tt> 2, <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 1), mnoho (<tt><a href="cs-pos-DET.html">DET</a></tt> 240, <tt><a href="cs-pos-ADV.html">ADV</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>to</em> (<tt><a href="cs-pos-DET.html">DET</a></tt> 6017, <tt><a href="cs-pos-PART.html">PART</a></tt> 30, <tt><a href="cs-pos-ADP.html">ADP</a></tt> 5), <em>jeho</em> (<tt><a href="cs-pos-DET.html">DET</a></tt> 2472, <tt><a href="cs-pos-PRON.html">PRON</a></tt> 17), <em>své</em> (<tt><a href="cs-pos-DET.html">DET</a></tt> 1406, <tt><a href="cs-pos-ADJ.html">ADJ</a></tt> 1), <em>tom</em> (<tt><a href="cs-pos-DET.html">DET</a></tt> 1089, <tt><a href="cs-pos-PROPN.html">PROPN</a></tt> 5), <em>všech</em> (<tt><a href="cs-pos-DET.html">DET</a></tt> 611, <tt><a href="cs-pos-PRON.html">PRON</a></tt> 1), <em>svůj</em> (<tt><a href="cs-pos-DET.html">DET</a></tt> 460, <tt><a href="cs-pos-ADJ.html">ADJ</a></tt> 1), <em>toto</em> (<tt><a href="cs-pos-DET.html">DET</a></tt> 278, <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 2), <em>ty</em> (<tt><a href="cs-pos-DET.html">DET</a></tt> 269, <tt><a href="cs-pos-PRON.html">PRON</a></tt> 12), <em>ta</em> (<tt><a href="cs-pos-DET.html">DET</a></tt> 155, <tt><a href="cs-pos-INTJ.html">INTJ</a></tt> 2, <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 1), <em>mnoho</em> (<tt><a href="cs-pos-DET.html">DET</a></tt> 240, <tt><a href="cs-pos-ADV.html">ADV</a></tt> 1)
 
 
-* to
-  * <tt><a href="cs-pos-DET.html">DET</a></tt> 6017: Nebude <b>to</b> poprvé ani naposledy .
-  * <tt><a href="cs-pos-PART.html">PART</a></tt> 30: Vedle toho musí být s <b>to</b> zastoupit i chybějícího kolegu .
-  * <tt><a href="cs-pos-ADP.html">ADP</a></tt> 5: Obálka s adresou <b>to</b> professor Servít from Prague .
-* jeho
-  * <tt><a href="cs-pos-DET.html">DET</a></tt> 2472: Trh nový výrobek uvítal a celá <b>jeho</b> produkce se prodá .
-  * <tt><a href="cs-pos-PRON.html">PRON</a></tt> 17: Proto od <b>jeho</b> použití na zákaznické kartě upustili .
-* své
-  * <tt><a href="cs-pos-DET.html">DET</a></tt> 1406: A čeho si má při <b>své</b> návštěvě především všímat ?
-  * <tt><a href="cs-pos-ADJ.html">ADJ</a></tt> 1: Jinak samozřejmě nevíme , co všechno vzalo za <b>své</b> v plamenech žároviště , a nemůžeme proto jednoznačně odpovědět na otázku , zda šlo skutečně o natolik chudé obyvatelstvo , že jedinou výbavou jejich hrobů byly rozbité nádoby .
-* tom
-  * <tt><a href="cs-pos-DET.html">DET</a></tt> 1089: V <b>tom</b> s vámi nesouhlasím .
-  * <tt><a href="cs-pos-PROPN.html">PROPN</a></tt> 5: Praha ( <b>tom</b> ) -
-* všech
-  * <tt><a href="cs-pos-DET.html">DET</a></tt> 611: Pak je tu jediný problém , a sice uplatnit <b>všech</b> tisíc bodů .
-  * <tt><a href="cs-pos-PRON.html">PRON</a></tt> 1: Na <b>všech</b> závodištích se začíná ve 14 hodin .
-* svůj
-  * <tt><a href="cs-pos-DET.html">DET</a></tt> 460: Mohou zde porovnat <b>svůj</b> vývoj , záměry se světovými trendy .
-  * <tt><a href="cs-pos-ADJ.html">ADJ</a></tt> 1: Je svérázně <b>svůj</b> či nemódně eklektický .
-* toto
-  * <tt><a href="cs-pos-DET.html">DET</a></tt> 278: Podnik <b>toto</b> teplo nakupuje za 149 Kč .
-  * <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 2: P . Materna <b>toto</b> nerozlišuje a navíc ztotožňuje pravdu s pravdivostí .
-* ty
-  * <tt><a href="cs-pos-DET.html">DET</a></tt> 269: Podle lékařů jste sice zdravý , ale rány na duši , <b>ty</b> se vyléčit nedají .
-  * <tt><a href="cs-pos-PRON.html">PRON</a></tt> 12: My oba , <b>ty</b> i já , my všichni . "
-* ta
-  * <tt><a href="cs-pos-DET.html">DET</a></tt> 155: Teď ještě <b>ta</b> druhá - peníze .
-  * <tt><a href="cs-pos-INTJ.html">INTJ</a></tt> 2: Ra - <b>ta</b> - <b>ta</b> .
-  * <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 1: Peter Honak , profesor historie na Maďarské akademii věd , k 50 . výročí osvobození Maďarska sovětskou armádou * Užívej si všeho , ale po padesátce dávej vale třem " <b>ta</b> " - wanita ( ženy ) , harta ( bohatství ) a tahta ( postavení ) .
-* mnoho
-  * <tt><a href="cs-pos-DET.html">DET</a></tt> 240: Dějepisce čeká nesmírně <b>mnoho</b> detailní i shrnující a hodnotící práce .
-  * <tt><a href="cs-pos-ADV.html">ADV</a></tt> 1: Na bezpečnost práce se <b>mnoho</b> nehledí .
+* <em>to</em>
+  * <tt><a href="cs-pos-DET.html">DET</a></tt> 6017: <em>Nebude <b>to</b> poprvé ani naposledy .</em>
+  * <tt><a href="cs-pos-PART.html">PART</a></tt> 30: <em>Vedle toho musí být s <b>to</b> zastoupit i chybějícího kolegu .</em>
+  * <tt><a href="cs-pos-ADP.html">ADP</a></tt> 5: <em>Obálka s adresou <b>to</b> professor Servít from Prague .</em>
+* <em>jeho</em>
+  * <tt><a href="cs-pos-DET.html">DET</a></tt> 2472: <em>Trh nový výrobek uvítal a celá <b>jeho</b> produkce se prodá .</em>
+  * <tt><a href="cs-pos-PRON.html">PRON</a></tt> 17: <em>Proto od <b>jeho</b> použití na zákaznické kartě upustili .</em>
+* <em>své</em>
+  * <tt><a href="cs-pos-DET.html">DET</a></tt> 1406: <em>A čeho si má při <b>své</b> návštěvě především všímat ?</em>
+  * <tt><a href="cs-pos-ADJ.html">ADJ</a></tt> 1: <em>Jinak samozřejmě nevíme , co všechno vzalo za <b>své</b> v plamenech žároviště , a nemůžeme proto jednoznačně odpovědět na otázku , zda šlo skutečně o natolik chudé obyvatelstvo , že jedinou výbavou jejich hrobů byly rozbité nádoby .</em>
+* <em>tom</em>
+  * <tt><a href="cs-pos-DET.html">DET</a></tt> 1089: <em>V <b>tom</b> s vámi nesouhlasím .</em>
+  * <tt><a href="cs-pos-PROPN.html">PROPN</a></tt> 5: <em>Praha ( <b>tom</b> ) -</em>
+* <em>všech</em>
+  * <tt><a href="cs-pos-DET.html">DET</a></tt> 611: <em>Pak je tu jediný problém , a sice uplatnit <b>všech</b> tisíc bodů .</em>
+  * <tt><a href="cs-pos-PRON.html">PRON</a></tt> 1: <em>Na <b>všech</b> závodištích se začíná ve 14 hodin .</em>
+* <em>svůj</em>
+  * <tt><a href="cs-pos-DET.html">DET</a></tt> 460: <em>Mohou zde porovnat <b>svůj</b> vývoj , záměry se světovými trendy .</em>
+  * <tt><a href="cs-pos-ADJ.html">ADJ</a></tt> 1: <em>Je svérázně <b>svůj</b> či nemódně eklektický .</em>
+* <em>toto</em>
+  * <tt><a href="cs-pos-DET.html">DET</a></tt> 278: <em>Podnik <b>toto</b> teplo nakupuje za 149 Kč .</em>
+  * <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 2: <em>P . Materna <b>toto</b> nerozlišuje a navíc ztotožňuje pravdu s pravdivostí .</em>
+* <em>ty</em>
+  * <tt><a href="cs-pos-DET.html">DET</a></tt> 269: <em>Podle lékařů jste sice zdravý , ale rány na duši , <b>ty</b> se vyléčit nedají .</em>
+  * <tt><a href="cs-pos-PRON.html">PRON</a></tt> 12: <em>My oba , <b>ty</b> i já , my všichni . "</em>
+* <em>ta</em>
+  * <tt><a href="cs-pos-DET.html">DET</a></tt> 155: <em>Teď ještě <b>ta</b> druhá - peníze .</em>
+  * <tt><a href="cs-pos-INTJ.html">INTJ</a></tt> 2: <em>Ra - <b>ta</b> - <b>ta</b> .</em>
+  * <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 1: <em>Peter Honak , profesor historie na Maďarské akademii věd , k 50 . výročí osvobození Maďarska sovětskou armádou * Užívej si všeho , ale po padesátce dávej vale třem " <b>ta</b> " - wanita ( ženy ) , harta ( bohatství ) a tahta ( postavení ) .</em>
+* <em>mnoho</em>
+  * <tt><a href="cs-pos-DET.html">DET</a></tt> 240: <em>Dějepisce čeká nesmírně <b>mnoho</b> detailní i shrnující a hodnotící práce .</em>
+  * <tt><a href="cs-pos-ADV.html">ADV</a></tt> 1: <em>Na bezpečnost práce se <b>mnoho</b> nehledí .</em>
 
 ## Morphology
 
 The form / lemma ratio of `DET` is 5.544118 (the average of all parts of speech is 2.181849).
 
-The 1st highest number of forms (27) was observed with the lemma “můj”: Mí, moje, moji, mojí, mou, má, mé, mého, mém, mému, mých, mýho, mým, mými, můj, n, naše, našeho, našem, našemu, naši, našich, našim, našimi, naší, naším, náš.
+The 1st highest number of forms (27) was observed with the lemma “můj”: <em>Mí, moje, moji, mojí, mou, má, mé, mého, mém, mému, mých, mýho, mým, mými, můj, n, naše, našeho, našem, našemu, naši, našich, našim, našimi, naší, naším, náš</em>.
 
-The 2nd highest number of forms (19) was observed with the lemma “jakýkoliv”: jakoukoli, jakoukoliv, jakákoli, jakákoliv, jakéhokoli, jakéhokoliv, jakékoli, jakékoliv, jakémkoli, jakémkoliv, jakémukoli, jakémukoliv, jakýchkoli, jakýchkoliv, jakýkoli, jakýkoliv, jakýmikoliv, jakýmkoli, jakýmkoliv.
+The 2nd highest number of forms (19) was observed with the lemma “jakýkoliv”: <em>jakoukoli, jakoukoliv, jakákoli, jakákoliv, jakéhokoli, jakéhokoliv, jakékoli, jakékoliv, jakémkoli, jakémkoliv, jakémukoli, jakémukoliv, jakýchkoli, jakýchkoliv, jakýkoli, jakýkoliv, jakýmikoliv, jakýmkoli, jakýmkoliv</em>.
 
-The 3rd highest number of forms (18) was observed with the lemma “tvůj”: Vašemu, tvou, tvá, tvé, tvého, tvém, tvým, tvůj, vaše, vašeho, vašem, vaši, vašich, vašim, vašimi, vaší, vaším, váš.
+The 3rd highest number of forms (18) was observed with the lemma “tvůj”: <em>Vašemu, tvou, tvá, tvé, tvého, tvém, tvým, tvůj, vaše, vašeho, vašem, vaši, vašich, vašim, vašimi, vaší, vaším, váš</em>.
 
 `DET` occurs with 16 features: <tt><a href="cs-feat-PronType.html">PronType</a></tt> (55313; 100% instances), <tt><a href="cs-feat-Case.html">Case</a></tt> (49808; 90% instances), <tt><a href="cs-feat-Number.html">Number</a></tt> (48435; 88% instances), <tt><a href="cs-feat-Gender.html">Gender</a></tt> (43675; 79% instances), <tt><a href="cs-feat-Poss.html">Poss</a></tt> (14317; 26% instances), <tt><a href="cs-feat-Person.html">Person</a></tt> (9417; 17% instances), <tt><a href="cs-feat-Number-psor.html">Number[psor]</a></tt> (9415; 17% instances), <tt><a href="cs-feat-Animacy.html">Animacy</a></tt> (6223; 11% instances), <tt><a href="cs-feat-Reflex.html">Reflex</a></tt> (4883; 9% instances), <tt><a href="cs-feat-Gender-psor.html">Gender[psor]</a></tt> (4372; 8% instances), <tt><a href="cs-feat-NumType.html">NumType</a></tt> (1848; 3% instances), <tt><a href="cs-feat-Style.html">Style</a></tt> (25; 0% instances), <tt><a href="cs-feat-Abbr.html">Abbr</a></tt> (21; 0% instances), <tt><a href="cs-feat-Foreign.html">Foreign</a></tt> (17; 0% instances), <tt><a href="cs-feat-NameType.html">NameType</a></tt> (4; 0% instances), <tt><a href="cs-feat-PrepCase.html">PrepCase</a></tt> (1; 0% instances)
 
@@ -67,7 +67,7 @@ The 3rd highest number of forms (18) was observed with the lemma “tvůj”: Va
 
 `DET` occurs with 356 feature combinations.
 The most frequent feature combination is `Case=Nom|Gender=Neut|Number=Sing|PronType=Dem` (4574 tokens).
-Examples: to toto takové totéž tohle ono takovéto toť ten
+Examples: <em>to, toto, takové, totéž, tohle, ono, takovéto, toť, ten</em>
 
 
 ## Relations

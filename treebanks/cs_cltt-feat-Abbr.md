@@ -22,8 +22,8 @@ The most frequent other feature values with which `NOUN` and `Abbr` co-occurred:
 
 `NOUN` tokens may have the following values of `Abbr`:
 
-* `Yes` (27; 100% of non-empty `Abbr`): Kč USD m m2 ha t ČSSR
-* `EMPTY` (11269): jednotky jednotka majetku období ocenění účetnictví položka závěrky dni ustanovení
+* `Yes` (27; 100% of non-empty `Abbr`): <em>Kč, USD, m, m2, ha, t, ČSSR</em>
+* `EMPTY` (11269): <em>jednotky, jednotka, majetku, období, ocenění, účetnictví, položka, závěrky, dni, ustanovení</em>
 
 ### `ADJ`
 
@@ -33,8 +33,8 @@ The most frequent other feature values with which `ADJ` and `Abbr` co-occurred: 
 
 `ADJ` tokens may have the following values of `Abbr`:
 
-* `Yes` (4; 100% of non-empty `Abbr`): něm
-* `EMPTY` (6535): účetní účetních účetního konsolidované konsolidující finanční účetním povinny výroční právní
+* `Yes` (4; 100% of non-empty `Abbr`): <em>něm</em>
+* `EMPTY` (6535): <em>účetní, účetních, účetního, konsolidované, konsolidující, finanční, účetním, povinny, výroční, právní</em>
 
 ### `ADV`
 
@@ -44,8 +44,8 @@ The most frequent other feature values with which `ADV` and `Abbr` co-occurred: 
 
 `ADV` tokens may have the following values of `Abbr`:
 
-* `Yes` (3; 100% of non-empty `Abbr`): něm
-* `EMPTY` (784): dále zejména popřípadě jinak pouze kdy též například tak více
+* `Yes` (3; 100% of non-empty `Abbr`): <em>něm</em>
+* `EMPTY` (784): <em>dále, zejména, popřípadě, jinak, pouze, kdy, též, například, tak, více</em>
 
 ### `PRON`
 
@@ -55,8 +55,8 @@ The most frequent other feature values with which `PRON` and `Abbr` co-occurred:
 
 `PRON` tokens may have the following values of `Abbr`:
 
-* `Yes` (1; 100% of non-empty `Abbr`): t
-* `EMPTY` (1211): se které která který to kterých kterým kterém kterému nichž
+* `Yes` (1; 100% of non-empty `Abbr`): <em>t</em>
+* `EMPTY` (1211): <em>se, které, která, který, to, kterých, kterým, kterém, kterému, nichž</em>
 
 ## Relations with Agreement in `Abbr`
 

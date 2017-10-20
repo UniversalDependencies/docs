@@ -22,7 +22,7 @@ The most frequent other feature values with which `PRON` and `Variant` co-occurr
 
 `PRON` tokens may have the following values of `Variant`:
 
-* `Short` (469; 100% of non-empty `Variant`): se ho si
+* `Short` (469; 100% of non-empty `Variant`): <em>se, ho, si</em>
 
 ### `ADJ`
 
@@ -32,5 +32,5 @@ The most frequent other feature values with which `ADJ` and `Variant` co-occurre
 
 `ADJ` tokens may have the following values of `Variant`:
 
-* `Short` (103; 100% of non-empty `Variant`): povinny povinna možno známa známy schopna znám nutno povinen rovny
+* `Short` (103; 100% of non-empty `Variant`): <em>povinny, povinna, možno, známa, známy, schopna, znám, nutno, povinen, rovny</em>
 

@@ -22,53 +22,53 @@ The most frequent other feature values with which `NOUN` and `Case` co-occurred:
 
 `NOUN` tokens may have the following values of `Case`:
 
-* `Acc` (907; 21% of non-empty `Case`): místo den rok část roky většinu dluhopisy lidi možnost měsíc
-* `Dat` (161; 4% of non-empty `Case`): dispozici podnebí říši dívkám konci obchodu obsahu radě státům většině
-* `Gen` (1246; 29% of non-empty `Case`): roku let století války lidí dolarů společnosti doby eur liber
-* `Ins` (366; 8% of non-empty `Case`): l lety rokem autorem cílem nedostatkem nemovitostmi prezidentem soudem vedením
-* `Loc` (623; 14% of non-empty `Case`): roce letech době případě důsledku oblasti světě městě období polovině
-* `Nom` (1011; 23% of non-empty `Case`): film lidé společnost vláda moře policie prezident stát systém člověk
-* `Voc` (1; 0% of non-empty `Case`): přátelé
-* `EMPTY` (167): Curie DNA GCA MPS Pebe Really m my t A
+* `Acc` (907; 21% of non-empty `Case`): <em>místo, den, rok, část, roky, většinu, dluhopisy, lidi, možnost, měsíc</em>
+* `Dat` (161; 4% of non-empty `Case`): <em>dispozici, podnebí, říši, dívkám, konci, obchodu, obsahu, radě, státům, většině</em>
+* `Gen` (1246; 29% of non-empty `Case`): <em>roku, let, století, války, lidí, dolarů, společnosti, doby, eur, liber</em>
+* `Ins` (366; 8% of non-empty `Case`): <em>l, lety, rokem, autorem, cílem, nedostatkem, nemovitostmi, prezidentem, soudem, vedením</em>
+* `Loc` (623; 14% of non-empty `Case`): <em>roce, letech, době, případě, důsledku, oblasti, světě, městě, období, polovině</em>
+* `Nom` (1011; 23% of non-empty `Case`): <em>film, lidé, společnost, vláda, moře, policie, prezident, stát, systém, člověk</em>
+* `Voc` (1; 0% of non-empty `Case`): <em>přátelé</em>
+* `EMPTY` (167): <em>Curie, DNA, GCA, MPS, Pebe, Really, m, my, t, A</em>
 
 <table>
   <tr><th>Paradigm <i>stát</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th><th><tt>Gen</tt></th><th><tt>Loc</tt></th><th><tt>Ins</tt></th></tr>
-  <tr><td><tt><tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td>stát</td><td>stát</td><td></td><td>státu</td><td></td><td>státem</td></tr>
-  <tr><td><tt><tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td>státy</td><td></td><td>státům</td><td>států</td><td>státech</td><td></td></tr>
+  <tr><td><tt><tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>stát</em></td><td><em>stát</em></td><td></td><td><em>státu</em></td><td></td><td><em>státem</em></td></tr>
+  <tr><td><tt><tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>státy</em></td><td></td><td><em>státům</em></td><td><em>států</em></td><td><em>státech</em></td><td></td></tr>
 </table>
 
 ### `ADJ`
 
 2025 <tt><a href="cs_pud-pos-ADJ.html">ADJ</a></tt> tokens (89% of all `ADJ` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `ADJ` and `Case` co-occurred: <tt><a href="cs_pud-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (1962; 97%), <tt><a href="cs_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (1962; 97%), <tt><a href="cs_pud-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (1856; 92%), <tt><a href="cs_pud-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (1763; 87%), <tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1361; 67%), <tt><a href="cs_pud-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (1204; 59%).
+The most frequent other feature values with which `ADJ` and `Case` co-occurred: <tt><a href="cs_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (1962; 97%), <tt><a href="cs_pud-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (1962; 97%), <tt><a href="cs_pud-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (1856; 92%), <tt><a href="cs_pud-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (1763; 87%), <tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1361; 67%), <tt><a href="cs_pud-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (1204; 59%).
 
 `ADJ` tokens may have the following values of `Case`:
 
-* `Acc` (397; 20% of non-empty `Case`): další první vlastní jiné novou nové hlavní dlouhé druhou nový
-* `Dat` (86; 4% of non-empty `Case`): Osmanské Spojeným nížinné obecné větší Alexandrově Druhé Mrtvým Parmské Starší
-* `Gen` (520; 26% of non-empty `Case`): jiných nových prvního Spojených amerického dalších druhé nové první různých
-* `Ins` (168; 8% of non-empty `Case`): americkou dalším velkou dalšími hlavním hongkongským nejvyšším největším politickou první
-* `Loc` (227; 11% of non-empty `Case`): druhé posledních Velké jižní první Nové Severní Spojených bronzové celém
-* `Nom` (627; 31% of non-empty `Case`): další první velká severní každý poslední jasné jižní každá možné
-* `EMPTY` (259): The schopen řečeno National propuštěn rád El New Saint San
+* `Acc` (397; 20% of non-empty `Case`): <em>další, první, vlastní, jiné, novou, nové, hlavní, dlouhé, druhou, nový</em>
+* `Dat` (86; 4% of non-empty `Case`): <em>Osmanské, Spojeným, nížinné, obecné, větší, Alexandrově, Druhé, Mrtvým, Parmské, Starší</em>
+* `Gen` (520; 26% of non-empty `Case`): <em>jiných, nových, prvního, Spojených, amerického, dalších, druhé, nové, první, různých</em>
+* `Ins` (168; 8% of non-empty `Case`): <em>americkou, dalším, velkou, dalšími, hlavním, hongkongským, nejvyšším, největším, politickou, první</em>
+* `Loc` (227; 11% of non-empty `Case`): <em>druhé, posledních, Velké, jižní, první, Nové, Severní, Spojených, bronzové, celém</em>
+* `Nom` (627; 31% of non-empty `Case`): <em>další, první, velká, severní, každý, poslední, jasné, jižní, každá, možné</em>
+* `EMPTY` (259): <em>The, schopen, řečeno, National, propuštěn, rád, El, New, Saint, San</em>
 
 <table>
   <tr><th>Paradigm <i>velký</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th><th><tt>Gen</tt></th><th><tt>Loc</tt></th><th><tt>Ins</tt></th></tr>
-  <tr><td><tt><tt><a href="cs_pud-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt>|<tt><a href="cs_pud-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="cs_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td>velcí</td><td></td><td></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="cs_pud-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt>|<tt><a href="cs_pud-feat-Degree.html">Degree</a></tt><tt>=Sup</tt>|<tt><a href="cs_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td></td><td></td><td></td><td></td><td>největšími</td></tr>
-  <tr><td><tt><tt><a href="cs_pud-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="cs_pud-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="cs_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td>velký</td><td>velký</td><td>velkému</td><td>velkého</td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="cs_pud-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="cs_pud-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="cs_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td>velké</td><td></td><td></td><td>velkých</td><td></td></tr>
-  <tr><td><tt><tt><a href="cs_pud-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="cs_pud-feat-Degree.html">Degree</a></tt><tt>=Cmp</tt>|<tt><a href="cs_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td>větší</td><td></td><td></td><td>větším</td><td></td></tr>
-  <tr><td><tt><tt><a href="cs_pud-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="cs_pud-feat-Degree.html">Degree</a></tt><tt>=Sup</tt>|<tt><a href="cs_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td>největší</td><td></td><td></td><td></td><td>největším</td></tr>
-  <tr><td><tt><tt><a href="cs_pud-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="cs_pud-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td>velká</td><td>velkou</td><td>velké</td><td></td><td>Velké</td><td>velkou</td></tr>
-  <tr><td><tt><tt><a href="cs_pud-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="cs_pud-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td>velké</td><td></td><td></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="cs_pud-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="cs_pud-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td>velké</td><td></td><td></td><td>velkém</td><td>velkým</td></tr>
-  <tr><td><tt><tt><a href="cs_pud-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="cs_pud-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td>velká</td><td></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="cs_pud-feat-Degree.html">Degree</a></tt><tt>=Cmp</tt>|<tt><a href="cs_pud-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td>Větší</td><td>větší</td><td>větší</td><td>větší</td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="cs_pud-feat-Degree.html">Degree</a></tt><tt>=Cmp</tt>|<tt><a href="cs_pud-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td></td><td></td><td></td><td>větších</td><td></td></tr>
-  <tr><td><tt><tt><a href="cs_pud-feat-Degree.html">Degree</a></tt><tt>=Sup</tt>|<tt><a href="cs_pud-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td>největší</td><td></td><td>největší</td><td></td><td>největší</td></tr>
-  <tr><td><tt><tt><a href="cs_pud-feat-Degree.html">Degree</a></tt><tt>=Sup</tt>|<tt><a href="cs_pud-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td></td><td></td><td></td><td></td><td>největším</td></tr>
+  <tr><td><tt><tt><a href="cs_pud-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt>|<tt><a href="cs_pud-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="cs_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>velcí</em></td><td></td><td></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="cs_pud-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt>|<tt><a href="cs_pud-feat-Degree.html">Degree</a></tt><tt>=Sup</tt>|<tt><a href="cs_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td></td><td></td><td></td><td></td><td><em>největšími</em></td></tr>
+  <tr><td><tt><tt><a href="cs_pud-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="cs_pud-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="cs_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>velký</em></td><td><em>velký</em></td><td><em>velkému</em></td><td><em>velkého</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="cs_pud-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="cs_pud-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="cs_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>velké</em></td><td></td><td></td><td><em>velkých</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="cs_pud-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="cs_pud-feat-Degree.html">Degree</a></tt><tt>=Cmp</tt>|<tt><a href="cs_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>větší</em></td><td></td><td></td><td><em>větším</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="cs_pud-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="cs_pud-feat-Degree.html">Degree</a></tt><tt>=Sup</tt>|<tt><a href="cs_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>největší</em></td><td></td><td></td><td></td><td><em>největším</em></td></tr>
+  <tr><td><tt><tt><a href="cs_pud-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="cs_pud-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>velká</em></td><td><em>velkou</em></td><td><em>velké</em></td><td></td><td><em>Velké</em></td><td><em>velkou</em></td></tr>
+  <tr><td><tt><tt><a href="cs_pud-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="cs_pud-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>velké</em></td><td></td><td></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="cs_pud-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="cs_pud-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>velké</em></td><td></td><td></td><td><em>velkém</em></td><td><em>velkým</em></td></tr>
+  <tr><td><tt><tt><a href="cs_pud-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="cs_pud-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>velká</em></td><td></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="cs_pud-feat-Degree.html">Degree</a></tt><tt>=Cmp</tt>|<tt><a href="cs_pud-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>Větší</em></td><td><em>větší</em></td><td><em>větší</em></td><td><em>větší</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="cs_pud-feat-Degree.html">Degree</a></tt><tt>=Cmp</tt>|<tt><a href="cs_pud-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td></td><td></td><td></td><td><em>větších</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="cs_pud-feat-Degree.html">Degree</a></tt><tt>=Sup</tt>|<tt><a href="cs_pud-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>největší</em></td><td></td><td><em>největší</em></td><td></td><td><em>největší</em></td></tr>
+  <tr><td><tt><tt><a href="cs_pud-feat-Degree.html">Degree</a></tt><tt>=Sup</tt>|<tt><a href="cs_pud-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td></td><td></td><td></td><td></td><td><em>největším</em></td></tr>
 </table>
 
 ### `ADP`
@@ -79,18 +79,18 @@ The most frequent other feature values with which `ADP` and `Case` co-occurred: 
 
 `ADP` tokens may have the following values of `Case`:
 
-* `Acc` (323; 18% of non-empty `Case`): na pro za o v po mimo přes ve mezi
-* `Dat` (115; 6% of non-empty `Case`): k proti ke kvůli díky vůči navzdory oproti
-* `Gen` (411; 22% of non-empty `Case`): z do od ze během podle u kolem bez kromě
-* `Ins` (216; 12% of non-empty `Case`): s mezi před se pod př nad za
-* `Loc` (763; 42% of non-empty `Case`): v na ve po o při a
-* `Nom` (6; 0% of non-empty `Case`): de
-* `EMPTY` (9): vzhledem Von of Di On
+* `Acc` (323; 18% of non-empty `Case`): <em>na, pro, za, o, v, po, mimo, přes, ve, mezi</em>
+* `Dat` (115; 6% of non-empty `Case`): <em>k, proti, ke, kvůli, díky, vůči, navzdory, oproti</em>
+* `Gen` (411; 22% of non-empty `Case`): <em>z, do, od, ze, během, podle, u, kolem, bez, kromě</em>
+* `Ins` (216; 12% of non-empty `Case`): <em>s, mezi, před, se, pod, př, nad, za</em>
+* `Loc` (763; 42% of non-empty `Case`): <em>v, na, ve, po, o, při, a</em>
+* `Nom` (6; 0% of non-empty `Case`): <em>de</em>
+* `EMPTY` (9): <em>vzhledem, Von, of, Di, On</em>
 
 <table>
   <tr><th>Paradigm <i>za</i></th><th><tt>Acc</tt></th><th><tt>Gen</tt></th><th><tt>Ins</tt></th></tr>
-  <tr><td><tt><tt><a href="cs_pud-feat-AdpType.html">AdpType</a></tt><tt>=Prep</tt></tt></td><td>za</td><td>za</td><td>za</td></tr>
-  <tr><td><tt><tt><a href="cs_pud-feat-AdpType.html">AdpType</a></tt><tt>=Voc</tt></tt></td><td></td><td>za</td><td></td></tr>
+  <tr><td><tt><tt><a href="cs_pud-feat-AdpType.html">AdpType</a></tt><tt>=Prep</tt></tt></td><td><em>za</em></td><td><em>za</em></td><td><em>za</em></td></tr>
+  <tr><td><tt><tt><a href="cs_pud-feat-AdpType.html">AdpType</a></tt><tt>=Voc</tt></tt></td><td></td><td><em>za</em></td><td></td></tr>
 </table>
 
 ### `PROPN`
@@ -101,46 +101,46 @@ The most frequent other feature values with which `PROPN` and `Case` co-occurred
 
 `PROPN` tokens may have the following values of `Case`:
 
-* `Acc` (69; 8% of non-empty `Case`): Německo Richarda Trumpa Abakumova Aljašku Alvareze Andre Anglii Annu Antarktidu
-* `Dat` (31; 4% of non-empty `Case`): Evropě Itálii Roně Rusku Andymu Benoîtovi Britům Churchillovi Disneyovi Francii
-* `Gen` (177; 20% of non-empty `Case`): Clintonové Albánie Ameriky Afriky Burgoyna Disneyho Donalda Duffyho Egypta Francie
-* `Ins` (70; 8% of non-empty `Case`): Albánií Bogdgegénem Kristem Markem Alvarezem Anglií Asií Averym Benátkami Brantem
-* `Loc` (93; 11% of non-empty `Case`): Británii Asii Africe Americe Evropě Facebooku Glasgow Itálii Norsku Papui
-* `Nom` (437; 50% of non-empty `Case`): Čína Trump Bluntová Británie Donald Francie Mišima Seagal Winstone Wright
-* `EMPTY` (214): USA Čching BBC Danevirke CNN EU Aviva Bank Brisbane Company
+* `Acc` (69; 8% of non-empty `Case`): <em>Německo, Richarda, Trumpa, Abakumova, Aljašku, Alvareze, Andre, Anglii, Annu, Antarktidu</em>
+* `Dat` (31; 4% of non-empty `Case`): <em>Evropě, Itálii, Roně, Rusku, Andymu, Benoîtovi, Britům, Churchillovi, Disneyovi, Francii</em>
+* `Gen` (177; 20% of non-empty `Case`): <em>Clintonové, Albánie, Ameriky, Afriky, Burgoyna, Disneyho, Donalda, Duffyho, Egypta, Francie</em>
+* `Ins` (70; 8% of non-empty `Case`): <em>Albánií, Bogdgegénem, Kristem, Markem, Alvarezem, Anglií, Asií, Averym, Benátkami, Brantem</em>
+* `Loc` (93; 11% of non-empty `Case`): <em>Británii, Asii, Africe, Americe, Evropě, Facebooku, Glasgow, Itálii, Norsku, Papui</em>
+* `Nom` (437; 50% of non-empty `Case`): <em>Čína, Trump, Bluntová, Británie, Donald, Francie, Mišima, Seagal, Winstone, Wright</em>
+* `EMPTY` (214): <em>USA, Čching, BBC, Danevirke, CNN, EU, Aviva, Bank, Brisbane, Company</em>
 
 <table>
   <tr><th>Paradigm <i>Trump</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Gen</tt></th><th><tt>Ins</tt></th></tr>
-  <tr><td><tt></tt></td><td>Trump</td><td>Trumpa</td><td>Trumpa</td><td>Trumpem</td></tr>
+  <tr><td><tt></tt></td><td><em>Trump</em></td><td><em>Trumpa</em></td><td><em>Trumpa</em></td><td><em>Trumpem</em></td></tr>
 </table>
 
 ### `DET`
 
 721 <tt><a href="cs_pud-pos-DET.html">DET</a></tt> tokens (89% of all `DET` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `DET` and `Case` co-occurred: <tt><a href="cs_pud-feat-Gender-psor.html">Gender[psor]</a></tt><tt>=EMPTY</tt> (701; 97%), <tt><a href="cs_pud-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (674; 93%), <tt><a href="cs_pud-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (674; 93%), <tt><a href="cs_pud-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (635; 88%), <tt><a href="cs_pud-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (634; 88%), <tt><a href="cs_pud-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (587; 81%), <tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (495; 69%).
+The most frequent other feature values with which `DET` and `Case` co-occurred: <tt><a href="cs_pud-feat-Gender-psor.html">Gender[psor]</a></tt><tt>=EMPTY</tt> (701; 97%), <tt><a href="cs_pud-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (674; 93%), <tt><a href="cs_pud-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (674; 93%), <tt><a href="cs_pud-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (635; 88%), <tt><a href="cs_pud-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (634; 88%), <tt><a href="cs_pud-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (587; 81%), <tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (495; 69%).
 
 `DET` tokens may have the following values of `Case`:
 
-* `Acc` (144; 20% of non-empty `Case`): to své svůj svou které několik který kterou mnoho toto
-* `Dat` (27; 4% of non-empty `Case`): tomu svým kterému své těm těmto jakékoliv jejím kterým svému
-* `Gen` (101; 14% of non-empty `Case`): toho tohoto svého svých těchto své mnoha té všech jejích
-* `Ins` (56; 8% of non-empty `Case`): tím n svým jakým jejím mnoha svou tou tímto těmi
-* `Loc` (55; 8% of non-empty `Case`): této tom svém té kterém tomto kterých některých své svých
-* `Nom` (338; 47% of non-empty `Case`): to který která které kteří mnoho tento její toto tato
-* `EMPTY` (92): jeho jejich její jejichž jehož jejíž
+* `Acc` (144; 20% of non-empty `Case`): <em>to, své, svůj, svou, které, několik, který, kterou, mnoho, toto</em>
+* `Dat` (27; 4% of non-empty `Case`): <em>tomu, svým, kterému, své, těm, těmto, jakékoliv, jejím, kterým, svému</em>
+* `Gen` (101; 14% of non-empty `Case`): <em>toho, tohoto, svého, svých, těchto, své, mnoha, té, všech, jejích</em>
+* `Ins` (56; 8% of non-empty `Case`): <em>tím, n, svým, jakým, jejím, mnoha, svou, tou, tímto, těmi</em>
+* `Loc` (55; 8% of non-empty `Case`): <em>této, tom, svém, té, kterém, tomto, kterých, některých, své, svých</em>
+* `Nom` (338; 47% of non-empty `Case`): <em>to, který, která, které, kteří, mnoho, tento, její, toto, tato</em>
+* `EMPTY` (92): <em>jeho, jejich, její, jejichž, jehož, jejíž</em>
 
 <table>
   <tr><th>Paradigm <i>ten</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th><th><tt>Gen</tt></th><th><tt>Loc</tt></th><th><tt>Ins</tt></th></tr>
-  <tr><td><tt><tt><a href="cs_pud-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt>|<tt><a href="cs_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td>ty</td><td></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="cs_pud-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="cs_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td>ten</td><td></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="cs_pud-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="cs_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td>ty</td><td></td><td></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="cs_pud-feat-Gender.html">Gender</a></tt><tt>=Masc,Neut</tt>|<tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td></td><td>tomu</td><td>toho</td><td>tom</td><td>tím</td></tr>
-  <tr><td><tt><tt><a href="cs_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td>ten</td><td></td><td></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="cs_pud-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td>ta</td><td></td><td></td><td>té</td><td>té</td><td>tou</td></tr>
-  <tr><td><tt><tt><a href="cs_pud-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td>ty</td><td>ty</td><td></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="cs_pud-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td>to</td><td>to</td><td></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td></td><td>těm</td><td>těch</td><td></td><td>těmi</td></tr>
+  <tr><td><tt><tt><a href="cs_pud-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt>|<tt><a href="cs_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>ty</em></td><td></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="cs_pud-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="cs_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>ten</em></td><td></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="cs_pud-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="cs_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>ty</em></td><td></td><td></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="cs_pud-feat-Gender.html">Gender</a></tt><tt>=Masc,Neut</tt>|<tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td></td><td><em>tomu</em></td><td><em>toho</em></td><td><em>tom</em></td><td><em>tím</em></td></tr>
+  <tr><td><tt><tt><a href="cs_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>ten</em></td><td></td><td></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="cs_pud-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>ta</em></td><td></td><td></td><td><em>té</em></td><td><em>té</em></td><td><em>tou</em></td></tr>
+  <tr><td><tt><tt><a href="cs_pud-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>ty</em></td><td><em>ty</em></td><td></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="cs_pud-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>to</em></td><td><em>to</em></td><td></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td></td><td><em>těm</em></td><td><em>těch</em></td><td></td><td><em>těmi</em></td></tr>
 </table>
 
 ### `PRON`
@@ -151,23 +151,23 @@ The most frequent other feature values with which `PRON` and `Case` co-occurred:
 
 `PRON` tokens may have the following values of `Case`:
 
-* `Acc` (371; 64% of non-empty `Case`): se ho co ji mě je nás něco nic ně
-* `Dat` (79; 14% of non-empty `Case`): si mu jí jim nám mi čemuž nimž němu něčemu
-* `Gen` (33; 6% of non-empty `Case`): nich ní něj jich nichž mě něhož sebe jehož jí
-* `Ins` (21; 4% of non-empty `Case`): ním nimi jím čímž nikým ničím ní něčím sebou čím
-* `Loc` (16; 3% of non-empty `Case`): níž ní něm nich nichž něčem sobě veškeré
-* `Nom` (56; 10% of non-empty `Case`): což co kdo jenž někdo já nic on jež kdokoli
-* `EMPTY` (2): You me
+* `Acc` (371; 64% of non-empty `Case`): <em>se, ho, co, ji, mě, je, nás, něco, nic, ně</em>
+* `Dat` (79; 14% of non-empty `Case`): <em>si, mu, jí, jim, nám, mi, čemuž, nimž, němu, něčemu</em>
+* `Gen` (33; 6% of non-empty `Case`): <em>nich, ní, něj, jich, nichž, mě, něhož, sebe, jehož, jí</em>
+* `Ins` (21; 4% of non-empty `Case`): <em>ním, nimi, jím, čímž, nikým, ničím, ní, něčím, sebou, čím</em>
+* `Loc` (16; 3% of non-empty `Case`): <em>níž, ní, něm, nich, nichž, něčem, sobě, veškeré</em>
+* `Nom` (56; 10% of non-empty `Case`): <em>což, co, kdo, jenž, někdo, já, nic, on, jež, kdokoli</em>
+* `EMPTY` (2): <em>You, me</em>
 
 <table>
   <tr><th>Paradigm <i>on</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th><th><tt>Gen</tt></th><th><tt>Loc</tt></th><th><tt>Ins</tt></th></tr>
-  <tr><td><tt><tt><a href="cs_pud-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt>|<tt><a href="cs_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td>oni</td><td></td><td></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="cs_pud-feat-Gender.html">Gender</a></tt><tt>=Masc,Neut</tt>|<tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td>něj, něho, ho</td><td>němu</td><td>něj</td><td>něm</td><td>ním, jím</td></tr>
-  <tr><td><tt><tt><a href="cs_pud-feat-Gender.html">Gender</a></tt><tt>=Masc,Neut</tt>|<tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs_pud-feat-Variant.html">Variant</a></tt><tt>=Short</tt></tt></td><td></td><td>ho</td><td>mu</td><td></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="cs_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td>on</td><td></td><td></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="cs_pud-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td>ona</td><td>ji</td><td>jí</td><td>ní, jí</td><td>ní</td><td>ní</td></tr>
-  <tr><td><tt><tt><a href="cs_pud-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td>je</td><td></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td>je, ně</td><td>jim</td><td>nich, jich</td><td>nich</td><td>nimi</td></tr>
+  <tr><td><tt><tt><a href="cs_pud-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt>|<tt><a href="cs_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>oni</em></td><td></td><td></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="cs_pud-feat-Gender.html">Gender</a></tt><tt>=Masc,Neut</tt>|<tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>něj, něho, ho</em></td><td><em>němu</em></td><td><em>něj</em></td><td><em>něm</em></td><td><em>ním, jím</em></td></tr>
+  <tr><td><tt><tt><a href="cs_pud-feat-Gender.html">Gender</a></tt><tt>=Masc,Neut</tt>|<tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs_pud-feat-Variant.html">Variant</a></tt><tt>=Short</tt></tt></td><td></td><td><em>ho</em></td><td><em>mu</em></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="cs_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>on</em></td><td></td><td></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="cs_pud-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>ona</em></td><td><em>ji</em></td><td><em>jí</em></td><td><em>ní, jí</em></td><td><em>ní</em></td><td><em>ní</em></td></tr>
+  <tr><td><tt><tt><a href="cs_pud-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>je</em></td><td></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>je, ně</em></td><td><em>jim</em></td><td><em>nich, jich</em></td><td><em>nich</em></td><td><em>nimi</em></td></tr>
 </table>
 
 ### `NUM`
@@ -178,19 +178,19 @@ The most frequent other feature values with which `NUM` and `Case` co-occurred: 
 
 `NUM` tokens may have the following values of `Case`:
 
-* `Acc` (46; 33% of non-empty `Case`): dva deset dvě čtyři tři jedno jednu šest osm jeden
-* `Dat` (3; 2% of non-empty `Case`): oběma dvěma
-* `Gen` (24; 17% of non-empty `Case`): jedné dvou deseti jednoho tří šesti obou osmdesáti padesáti sedmi
-* `Ins` (14; 10% of non-empty `Case`): dvěma jedním dvaceti jednou osmi třemi
-* `Loc` (21; 15% of non-empty `Case`): dvou jedné obou sedmi šesti dvaceti jedenácti jednom pěti sedmnácti
-* `Nom` (32; 23% of non-empty `Case`): jeden jedna čtyři dva dvě oba devět jedno pět sedmnáct
-* `EMPTY` (319): 1 3 20 2014 2015 5 I 10 100 1492
+* `Acc` (46; 33% of non-empty `Case`): <em>dva, deset, dvě, čtyři, tři, jedno, jednu, šest, osm, jeden</em>
+* `Dat` (3; 2% of non-empty `Case`): <em>oběma, dvěma</em>
+* `Gen` (24; 17% of non-empty `Case`): <em>jedné, dvou, deseti, jednoho, tří, šesti, obou, osmdesáti, padesáti, sedmi</em>
+* `Ins` (14; 10% of non-empty `Case`): <em>dvěma, jedním, dvaceti, jednou, osmi, třemi</em>
+* `Loc` (21; 15% of non-empty `Case`): <em>dvou, jedné, obou, sedmi, šesti, dvaceti, jedenácti, jednom, pěti, sedmnácti</em>
+* `Nom` (32; 23% of non-empty `Case`): <em>jeden, jedna, čtyři, dva, dvě, oba, devět, jedno, pět, sedmnáct</em>
+* `EMPTY` (319): <em>1, 3, 20, 2014, 2015, 5, I, 10, 100, 1492</em>
 
 <table>
   <tr><th>Paradigm <i>dva</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th><th><tt>Gen</tt></th><th><tt>Loc</tt></th><th><tt>Ins</tt></th></tr>
-  <tr><td><tt><tt><a href="cs_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td>dva</td><td>dva</td><td></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="cs_pud-feat-Gender.html">Gender</a></tt><tt>=Fem,Neut</tt></tt></td><td>dvě</td><td>dvě</td><td></td><td></td><td></td><td></td></tr>
-  <tr><td><tt></tt></td><td></td><td></td><td>dvěma</td><td>dvou</td><td>dvou</td><td>dvěma</td></tr>
+  <tr><td><tt><tt><a href="cs_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>dva</em></td><td><em>dva</em></td><td></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="cs_pud-feat-Gender.html">Gender</a></tt><tt>=Fem,Neut</tt></tt></td><td><em>dvě</em></td><td><em>dvě</em></td><td></td><td></td><td></td><td></td></tr>
+  <tr><td><tt></tt></td><td></td><td></td><td><em>dvěma</em></td><td><em>dvou</em></td><td><em>dvou</em></td><td><em>dvěma</em></td></tr>
 </table>
 
 ## Relations with Agreement in `Case`

@@ -22,8 +22,8 @@ The most frequent other feature values with which `VERB` and `Person` co-occurre
 
 `VERB` tokens may have the following values of `Person`:
 
-* `3` (1426; 100% of non-empty `Person`): obsahuje rozumí může uvede mohou použijí stanoví musí účtuje lze
-* `EMPTY` (691): vést použít stanoveno mít účtovat došlo odpisovat uvést sestavena sestavit
+* `3` (1426; 100% of non-empty `Person`): <em>obsahuje, rozumí, může, uvede, mohou, použijí, stanoví, musí, účtuje, lze</em>
+* `EMPTY` (691): <em>vést, použít, stanoveno, mít, účtovat, došlo, odpisovat, uvést, sestavena, sestavit</em>
 
 `Person` seems to be **lexical feature** of `VERB`. 100% lemmas (224) occur only with one value of `Person`.
 
@@ -35,8 +35,8 @@ The most frequent other feature values with which `AUX` and `Person` co-occurred
 
 `AUX` tokens may have the following values of `Person`:
 
-* `3` (454; 100% of non-empty `Person`): je jsou nejsou není by bude budou
-* `EMPTY` (150): být byly byl není-li je-li by bylo jsou-li nebyly byla
+* `3` (454; 100% of non-empty `Person`): <em>je, jsou, nejsou, není, by, bude, budou</em>
+* `EMPTY` (150): <em>být, byly, byl, není-li, je-li, by, bylo, jsou-li, nebyly, byla</em>
 
 ### `DET`
 
@@ -46,8 +46,8 @@ The most frequent other feature values with which `DET` and `Person` co-occurred
 
 `DET` tokens may have the following values of `Person`:
 
-* `3` (216; 100% of non-empty `Person`): jejich jeho její jejichž jejího jehož jejím jejímž jejích jejími
-* `EMPTY` (379): této tohoto těchto tyto tato tento tomto tuto toto tímto
+* `3` (216; 100% of non-empty `Person`): <em>jejich, jeho, její, jejichž, jejího, jehož, jejím, jejímž, jejích, jejími</em>
+* `EMPTY` (379): <em>této, tohoto, těchto, tyto, tato, tento, tomto, tuto, toto, tímto</em>
 
 ### `PRON`
 
@@ -57,8 +57,8 @@ The most frequent other feature values with which `PRON` and `Person` co-occurre
 
 `PRON` tokens may have the following values of `Person`:
 
-* `3` (71; 100% of non-empty `Person`): jej je jim jí ji nich ní jimi nimi ně
-* `EMPTY` (1141): se které která který to kterých kterým kterém kterému nichž
+* `3` (71; 100% of non-empty `Person`): <em>jej, je, jim, jí, ji, nich, ní, jimi, nimi, ně</em>
+* `EMPTY` (1141): <em>se, které, která, který, to, kterých, kterým, kterém, kterému, nichž</em>
 
 ## Relations with Agreement in `Person`
 

@@ -9,56 +9,56 @@ udver: '2'
 There are 15 `PRON` lemmas (1%), 72 `PRON` types (2%) and 1212 `PRON` tokens (3%).
 Out of 15 observed tags, the rank of `PRON` is: 10 in number of lemmas, 7 in number of types and 8 in number of tokens.
 
-The 10 most frequent `PRON` lemmas: se který ten jenž on všechen veškerý tento sám žádný
+The 10 most frequent `PRON` lemmas: <em>se, který, ten, jenž, on, všechen, veškerý, tento, sám, žádný</em>
 
-The 10 most frequent `PRON` types:  se které která který to kterých kterým kterém kterému nichž
+The 10 most frequent `PRON` types:  <em>se, které, která, který, to, kterých, kterým, kterém, kterému, nichž</em>
 
-The 10 most frequent ambiguous lemmas: který (<tt><a href="cs_cltt-pos-PRON.html">PRON</a></tt> 449, <tt><a href="cs_cltt-pos-DET.html">DET</a></tt> 1), jenž (<tt><a href="cs_cltt-pos-PRON.html">PRON</a></tt> 73, <tt><a href="cs_cltt-pos-DET.html">DET</a></tt> 21), tento (<tt><a href="cs_cltt-pos-DET.html">DET</a></tt> 315, <tt><a href="cs_cltt-pos-PRON.html">PRON</a></tt> 5), žádný (<tt><a href="cs_cltt-pos-PRON.html">PRON</a></tt> 4, <tt><a href="cs_cltt-pos-DET.html">DET</a></tt> 2), jaký (<tt><a href="cs_cltt-pos-PRON.html">PRON</a></tt> 3, <tt><a href="cs_cltt-pos-DET.html">DET</a></tt> 2), několik (<tt><a href="cs_cltt-pos-PRON.html">PRON</a></tt> 1, <tt><a href="cs_cltt-pos-DET.html">DET</a></tt> 1), některý (<tt><a href="cs_cltt-pos-DET.html">DET</a></tt> 6, <tt><a href="cs_cltt-pos-PRON.html">PRON</a></tt> 1), takový (<tt><a href="cs_cltt-pos-DET.html">DET</a></tt> 21, <tt><a href="cs_cltt-pos-PRON.html">PRON</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>který</em> (<tt><a href="cs_cltt-pos-PRON.html">PRON</a></tt> 449, <tt><a href="cs_cltt-pos-DET.html">DET</a></tt> 1), <em>jenž</em> (<tt><a href="cs_cltt-pos-PRON.html">PRON</a></tt> 73, <tt><a href="cs_cltt-pos-DET.html">DET</a></tt> 21), <em>tento</em> (<tt><a href="cs_cltt-pos-DET.html">DET</a></tt> 315, <tt><a href="cs_cltt-pos-PRON.html">PRON</a></tt> 5), <em>žádný</em> (<tt><a href="cs_cltt-pos-PRON.html">PRON</a></tt> 4, <tt><a href="cs_cltt-pos-DET.html">DET</a></tt> 2), <em>jaký</em> (<tt><a href="cs_cltt-pos-PRON.html">PRON</a></tt> 3, <tt><a href="cs_cltt-pos-DET.html">DET</a></tt> 2), <em>několik</em> (<tt><a href="cs_cltt-pos-PRON.html">PRON</a></tt> 1, <tt><a href="cs_cltt-pos-DET.html">DET</a></tt> 1), <em>některý</em> (<tt><a href="cs_cltt-pos-DET.html">DET</a></tt> 6, <tt><a href="cs_cltt-pos-PRON.html">PRON</a></tt> 1), <em>takový</em> (<tt><a href="cs_cltt-pos-DET.html">DET</a></tt> 21, <tt><a href="cs_cltt-pos-PRON.html">PRON</a></tt> 1)
 
-The 10 most frequent ambiguous types:  se (<tt><a href="cs_cltt-pos-PRON.html">PRON</a></tt> 467, <tt><a href="cs_cltt-pos-ADP.html">ADP</a></tt> 34), kterým (<tt><a href="cs_cltt-pos-PRON.html">PRON</a></tt> 25, <tt><a href="cs_cltt-pos-DET.html">DET</a></tt> 1), je (<tt><a href="cs_cltt-pos-AUX.html">AUX</a></tt> 189, <tt><a href="cs_cltt-pos-PRON.html">PRON</a></tt> 11, <tt><a href="cs_cltt-pos-VERB.html">VERB</a></tt> 10), jehož (<tt><a href="cs_cltt-pos-DET.html">DET</a></tt> 6, <tt><a href="cs_cltt-pos-PRON.html">PRON</a></tt> 5), tímto (<tt><a href="cs_cltt-pos-DET.html">DET</a></tt> 9, <tt><a href="cs_cltt-pos-PRON.html">PRON</a></tt> 3), několika (<tt><a href="cs_cltt-pos-PRON.html">PRON</a></tt> 1, <tt><a href="cs_cltt-pos-DET.html">DET</a></tt> 1), t (<tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="cs_cltt-pos-PRON.html">PRON</a></tt> 1), takové (<tt><a href="cs_cltt-pos-DET.html">DET</a></tt> 5, <tt><a href="cs_cltt-pos-PRON.html">PRON</a></tt> 1), tato (<tt><a href="cs_cltt-pos-DET.html">DET</a></tt> 24, <tt><a href="cs_cltt-pos-PRON.html">PRON</a></tt> 1), žádná (<tt><a href="cs_cltt-pos-PRON.html">PRON</a></tt> 1, <tt><a href="cs_cltt-pos-DET.html">DET</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>se</em> (<tt><a href="cs_cltt-pos-PRON.html">PRON</a></tt> 467, <tt><a href="cs_cltt-pos-ADP.html">ADP</a></tt> 34), <em>kterým</em> (<tt><a href="cs_cltt-pos-PRON.html">PRON</a></tt> 25, <tt><a href="cs_cltt-pos-DET.html">DET</a></tt> 1), <em>je</em> (<tt><a href="cs_cltt-pos-AUX.html">AUX</a></tt> 189, <tt><a href="cs_cltt-pos-PRON.html">PRON</a></tt> 11, <tt><a href="cs_cltt-pos-VERB.html">VERB</a></tt> 10), <em>jehož</em> (<tt><a href="cs_cltt-pos-DET.html">DET</a></tt> 6, <tt><a href="cs_cltt-pos-PRON.html">PRON</a></tt> 5), <em>tímto</em> (<tt><a href="cs_cltt-pos-DET.html">DET</a></tt> 9, <tt><a href="cs_cltt-pos-PRON.html">PRON</a></tt> 3), <em>několika</em> (<tt><a href="cs_cltt-pos-PRON.html">PRON</a></tt> 1, <tt><a href="cs_cltt-pos-DET.html">DET</a></tt> 1), <em>t</em> (<tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="cs_cltt-pos-PRON.html">PRON</a></tt> 1), <em>takové</em> (<tt><a href="cs_cltt-pos-DET.html">DET</a></tt> 5, <tt><a href="cs_cltt-pos-PRON.html">PRON</a></tt> 1), <em>tato</em> (<tt><a href="cs_cltt-pos-DET.html">DET</a></tt> 24, <tt><a href="cs_cltt-pos-PRON.html">PRON</a></tt> 1), <em>žádná</em> (<tt><a href="cs_cltt-pos-PRON.html">PRON</a></tt> 1, <tt><a href="cs_cltt-pos-DET.html">DET</a></tt> 1)
 
 
-* se
-  * <tt><a href="cs_cltt-pos-PRON.html">PRON</a></tt> 467: Zřizovací výdaje <b>se</b> odpisují nejvýše po dobu pěti let .
-  * <tt><a href="cs_cltt-pos-ADP.html">ADP</a></tt> 34: Do nákladů nebo výnosů jsou zaúčtovány ve stejných obdobích , kdy jsou zaúčtovány náklady nebo výnosy spojené <b>se</b> zajišťovanými položkami .
-* kterým
-  * <tt><a href="cs_cltt-pos-PRON.html">PRON</a></tt> 25: V těchto případech musí účetní záznam i účetní doklad obsahovat identifikátor , <b>kterým</b> lze nezaměnitelně určit vzájemnou vazbu mezi účetním záznamem a účetním dokladem , včetně souvisejících skutečností .
-  * <tt><a href="cs_cltt-pos-DET.html">DET</a></tt> 1: (1) Účetní jednotky sestavují účetní závěrku k rozvahovému dni , <b>kterým</b> je den , kdy uzavírají účetní knihy .
-* je
-  * <tt><a href="cs_cltt-pos-AUX.html">AUX</a></tt> 189: Spotřeba povolenek <b>je</b> vykázána bez ohledu na jejich následné vyřazení .
-  * <tt><a href="cs_cltt-pos-PRON.html">PRON</a></tt> 11: V případě , že <b>je</b> nelze přiřadit , uvedou se v provozní činnosti .
-  * <tt><a href="cs_cltt-pos-VERB.html">VERB</a></tt> 10: Hospodářským rokem je účetní období , které může začínat pouze prvním dnem jiného měsíce , než <b>je</b> leden .
-* jehož
-  * <tt><a href="cs_cltt-pos-DET.html">DET</a></tt> 6: (6) Účetní jednotky uvedené v odstavci 1 jsou povinny sestavovat odpisový plán , na <b>jehož</b> podkladě provádějí odpisování majetku v průběhu jeho používání .
-  * <tt><a href="cs_cltt-pos-PRON.html">PRON</a></tt> 5: (4) Podpisovým záznamem se rozumí účetní záznam , <b>jehož</b> obsahem je vlastnoruční podpis nebo uznávaný elektronický podpis podle zvláštního právního předpisu , anebo obdobný průkazný účetní záznam v technické formě , který zaručuje průkaznou a jednoznačnou původnost .
-* tímto
-  * <tt><a href="cs_cltt-pos-DET.html">DET</a></tt> 9: (1) Účetní jednotky sestavují v případech stanovených <b>tímto</b> zákonem účetní závěrku .
-  * <tt><a href="cs_cltt-pos-PRON.html">PRON</a></tt> 3: Ustanovení o provádění inventarizací podle zvláštních právních předpisů nejsou <b>tímto</b> dotčena .
-* několika
-  * <tt><a href="cs_cltt-pos-PRON.html">PRON</a></tt> 1: (2) Položka "C.I.2. Nedokončená výroba a polotovary" obsahuje a) produkty , které prošly jedním nebo <b>několika</b> výrobními stupni a nejsou již materiálem , nejsou však dosud hotovým výrobkem ; tato položka rovněž obsahuje nedokončené činnosti , při nichž nevznikají hmotné produkty , b) odděleně evidované produkty , to je polotovary , které dosud neprošly všemi výrobními stupni a budou dokončeny nebo zkompletovány do hotových výrobků v dalším výrobním procesu účetní jednotky .
-  * <tt><a href="cs_cltt-pos-DET.html">DET</a></tt> 1: (5) Jednotlivý účetní záznam může být tvořen <b>několika</b> dílčími účetními záznamy .
-* t
-  * <tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt> 1: Odpisová sazba na jednotku těženého množství ( Kč / <b>t</b> , Kč / m je podílem pořizovací ceny ložiska na jednotlivém pozemku a zásob nevyhrazeného nerostu ( t , m prokázaných geologickým průzkumem na tomto pozemku .
-  * <tt><a href="cs_cltt-pos-PRON.html">PRON</a></tt> 1: Odpisová sazba na jednotku těženého množství ( Kč / t , Kč / m je podílem pořizovací ceny ložiska na jednotlivém pozemku a zásob nevyhrazeného nerostu ( <b>t</b> , m prokázaných geologickým průzkumem na tomto pozemku .
-* takové
-  * <tt><a href="cs_cltt-pos-DET.html">DET</a></tt> 5: Účetní jednotky jsou povinny <b>takové</b> účetní záznamy vést nejméně v rozsahu stanoveném tímto zákonem .
-  * <tt><a href="cs_cltt-pos-PRON.html">PRON</a></tt> 1: Pokud tuto podmínku nemůže účetní jednotka zabezpečit , převede <b>takové</b> účetní záznamy do listinné formy odpovídající době jejich vyřízení a opatří je náležitostmi originálu , a to nejpozději před jejich zařazením do výběru archiválií ve skartačním řízení nebo mimo něj ; obdobně postupuje při nakládání s účetními záznamy přijatými účetní jednotkou v technické , případně smíšené formě , u účetních záznamů obsahujících uznávaný elektronický podpis včetně průkazného potvrzení v listinné formě o platnosti uznávaného elektronického podpisu v době přijetí účetního záznamu .
-* tato
-  * <tt><a href="cs_cltt-pos-DET.html">DET</a></tt> 24: Pokud <b>tato</b> sazba daně známa není , použije se sazba platná v příštím účetním období .
-  * <tt><a href="cs_cltt-pos-PRON.html">PRON</a></tt> 1: (4) Pro účely tohoto zákona se jako reálná hodnota použije a) tržní hodnota , b) ocenění kvalifikovaným odhadem nebo posudkem znalce , není-li tržní hodnota k dispozici nebo <b>tato</b> nedostatečně představuje reálnou hodnotu ; metody ocenění použité při kvalifikovaném odhadu nebo posudku znalce musí zajistit přiměřené přiblížení se k tržní hodnotě , c) ocenění stanovené podle zvláštních právních předpisů , nelze-li postupovat podle písmen a) a b) .
-* žádná
-  * <tt><a href="cs_cltt-pos-PRON.html">PRON</a></tt> 1: Splnění této povinnosti však účetní jednotka může prokázat i jiným způsobem , který nezpochybní <b>žádná</b> z osob , které s převedeným záznamem pracují .
-  * <tt><a href="cs_cltt-pos-DET.html">DET</a></tt> 1: (3) Účetní jednotka je povinna použít účetní metody způsobem , který vychází z předpokladu , že bude nepřetržitě pokračovat ve své činnosti a že u ní nenastává <b>žádná</b> skutečnost , která by ji omezovala nebo ji zabraňovala v této činnosti pokračovat i v dohledné budoucnosti .
+* <em>se</em>
+  * <tt><a href="cs_cltt-pos-PRON.html">PRON</a></tt> 467: <em>Zřizovací výdaje <b>se</b> odpisují nejvýše po dobu pěti let .</em>
+  * <tt><a href="cs_cltt-pos-ADP.html">ADP</a></tt> 34: <em>Do nákladů nebo výnosů jsou zaúčtovány ve stejných obdobích , kdy jsou zaúčtovány náklady nebo výnosy spojené <b>se</b> zajišťovanými položkami .</em>
+* <em>kterým</em>
+  * <tt><a href="cs_cltt-pos-PRON.html">PRON</a></tt> 25: <em>V těchto případech musí účetní záznam i účetní doklad obsahovat identifikátor , <b>kterým</b> lze nezaměnitelně určit vzájemnou vazbu mezi účetním záznamem a účetním dokladem , včetně souvisejících skutečností .</em>
+  * <tt><a href="cs_cltt-pos-DET.html">DET</a></tt> 1: <em>(1) Účetní jednotky sestavují účetní závěrku k rozvahovému dni , <b>kterým</b> je den , kdy uzavírají účetní knihy .</em>
+* <em>je</em>
+  * <tt><a href="cs_cltt-pos-AUX.html">AUX</a></tt> 189: <em>Spotřeba povolenek <b>je</b> vykázána bez ohledu na jejich následné vyřazení .</em>
+  * <tt><a href="cs_cltt-pos-PRON.html">PRON</a></tt> 11: <em>V případě , že <b>je</b> nelze přiřadit , uvedou se v provozní činnosti .</em>
+  * <tt><a href="cs_cltt-pos-VERB.html">VERB</a></tt> 10: <em>Hospodářským rokem je účetní období , které může začínat pouze prvním dnem jiného měsíce , než <b>je</b> leden .</em>
+* <em>jehož</em>
+  * <tt><a href="cs_cltt-pos-DET.html">DET</a></tt> 6: <em>(6) Účetní jednotky uvedené v odstavci 1 jsou povinny sestavovat odpisový plán , na <b>jehož</b> podkladě provádějí odpisování majetku v průběhu jeho používání .</em>
+  * <tt><a href="cs_cltt-pos-PRON.html">PRON</a></tt> 5: <em>(4) Podpisovým záznamem se rozumí účetní záznam , <b>jehož</b> obsahem je vlastnoruční podpis nebo uznávaný elektronický podpis podle zvláštního právního předpisu , anebo obdobný průkazný účetní záznam v technické formě , který zaručuje průkaznou a jednoznačnou původnost .</em>
+* <em>tímto</em>
+  * <tt><a href="cs_cltt-pos-DET.html">DET</a></tt> 9: <em>(1) Účetní jednotky sestavují v případech stanovených <b>tímto</b> zákonem účetní závěrku .</em>
+  * <tt><a href="cs_cltt-pos-PRON.html">PRON</a></tt> 3: <em>Ustanovení o provádění inventarizací podle zvláštních právních předpisů nejsou <b>tímto</b> dotčena .</em>
+* <em>několika</em>
+  * <tt><a href="cs_cltt-pos-PRON.html">PRON</a></tt> 1: <em>(2) Položka "C.I.2. Nedokončená výroba a polotovary" obsahuje a) produkty , které prošly jedním nebo <b>několika</b> výrobními stupni a nejsou již materiálem , nejsou však dosud hotovým výrobkem ; tato položka rovněž obsahuje nedokončené činnosti , při nichž nevznikají hmotné produkty , b) odděleně evidované produkty , to je polotovary , které dosud neprošly všemi výrobními stupni a budou dokončeny nebo zkompletovány do hotových výrobků v dalším výrobním procesu účetní jednotky .</em>
+  * <tt><a href="cs_cltt-pos-DET.html">DET</a></tt> 1: <em>(5) Jednotlivý účetní záznam může být tvořen <b>několika</b> dílčími účetními záznamy .</em>
+* <em>t</em>
+  * <tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt> 1: <em>Odpisová sazba na jednotku těženého množství ( Kč / <b>t</b> , Kč / m je podílem pořizovací ceny ložiska na jednotlivém pozemku a zásob nevyhrazeného nerostu ( t , m prokázaných geologickým průzkumem na tomto pozemku .</em>
+  * <tt><a href="cs_cltt-pos-PRON.html">PRON</a></tt> 1: <em>Odpisová sazba na jednotku těženého množství ( Kč / t , Kč / m je podílem pořizovací ceny ložiska na jednotlivém pozemku a zásob nevyhrazeného nerostu ( <b>t</b> , m prokázaných geologickým průzkumem na tomto pozemku .</em>
+* <em>takové</em>
+  * <tt><a href="cs_cltt-pos-DET.html">DET</a></tt> 5: <em>Účetní jednotky jsou povinny <b>takové</b> účetní záznamy vést nejméně v rozsahu stanoveném tímto zákonem .</em>
+  * <tt><a href="cs_cltt-pos-PRON.html">PRON</a></tt> 1: <em>Pokud tuto podmínku nemůže účetní jednotka zabezpečit , převede <b>takové</b> účetní záznamy do listinné formy odpovídající době jejich vyřízení a opatří je náležitostmi originálu , a to nejpozději před jejich zařazením do výběru archiválií ve skartačním řízení nebo mimo něj ; obdobně postupuje při nakládání s účetními záznamy přijatými účetní jednotkou v technické , případně smíšené formě , u účetních záznamů obsahujících uznávaný elektronický podpis včetně průkazného potvrzení v listinné formě o platnosti uznávaného elektronického podpisu v době přijetí účetního záznamu .</em>
+* <em>tato</em>
+  * <tt><a href="cs_cltt-pos-DET.html">DET</a></tt> 24: <em>Pokud <b>tato</b> sazba daně známa není , použije se sazba platná v příštím účetním období .</em>
+  * <tt><a href="cs_cltt-pos-PRON.html">PRON</a></tt> 1: <em>(4) Pro účely tohoto zákona se jako reálná hodnota použije a) tržní hodnota , b) ocenění kvalifikovaným odhadem nebo posudkem znalce , není-li tržní hodnota k dispozici nebo <b>tato</b> nedostatečně představuje reálnou hodnotu ; metody ocenění použité při kvalifikovaném odhadu nebo posudku znalce musí zajistit přiměřené přiblížení se k tržní hodnotě , c) ocenění stanovené podle zvláštních právních předpisů , nelze-li postupovat podle písmen a) a b) .</em>
+* <em>žádná</em>
+  * <tt><a href="cs_cltt-pos-PRON.html">PRON</a></tt> 1: <em>Splnění této povinnosti však účetní jednotka může prokázat i jiným způsobem , který nezpochybní <b>žádná</b> z osob , které s převedeným záznamem pracují .</em>
+  * <tt><a href="cs_cltt-pos-DET.html">DET</a></tt> 1: <em>(3) Účetní jednotka je povinna použít účetní metody způsobem , který vychází z předpokladu , že bude nepřetržitě pokračovat ve své činnosti a že u ní nenastává <b>žádná</b> skutečnost , která by ji omezovala nebo ji zabraňovala v této činnosti pokračovat i v dohledné budoucnosti .</em>
 
 ## Morphology
 
 The form / lemma ratio of `PRON` is 4.800000 (the average of all parts of speech is 1.752649).
 
-The 1st highest number of forms (15) was observed with the lemma “on”: ho, je, jej, jemu, ji, jim, jimi, jí, nich, nim, nimi, ní, ním, ně, něj.
+The 1st highest number of forms (15) was observed with the lemma “on”: <em>ho, je, jej, jemu, ji, jim, jimi, jí, nich, nim, nimi, ní, ním, ně, něj</em>.
 
-The 2nd highest number of forms (14) was observed with the lemma “jenž”: jehož, jenž, jež, jimiž, jímž, nichž, nimž, niž, nímž, níž, nějž, němuž, němž, něž.
+The 2nd highest number of forms (14) was observed with the lemma “jenž”: <em>jehož, jenž, jež, jimiž, jímž, nichž, nimž, niž, nímž, níž, nějž, němuž, němž, něž</em>.
 
-The 3rd highest number of forms (10) was observed with the lemma “který”: kterou, která, které, kterého, kterém, kterému, který, kterých, kterým, kterými.
+The 3rd highest number of forms (10) was observed with the lemma “který”: <em>kterou, která, které, kterého, kterém, kterému, který, kterých, kterým, kterými</em>.
 
 `PRON` occurs with 12 features: <tt><a href="cs_cltt-feat-PronType.html">PronType</a></tt> (1212; 100% instances), <tt><a href="cs_cltt-feat-Case.html">Case</a></tt> (1211; 100% instances), <tt><a href="cs_cltt-feat-Number.html">Number</a></tt> (735; 61% instances), <tt><a href="cs_cltt-feat-Gender.html">Gender</a></tt> (610; 50% instances), <tt><a href="cs_cltt-feat-Reflex.html">Reflex</a></tt> (475; 39% instances), <tt><a href="cs_cltt-feat-Variant.html">Variant</a></tt> (469; 39% instances), <tt><a href="cs_cltt-feat-PrepCase.html">PrepCase</a></tt> (93; 8% instances), <tt><a href="cs_cltt-feat-Person.html">Person</a></tt> (71; 6% instances), <tt><a href="cs_cltt-feat-Animacy.html">Animacy</a></tt> (57; 5% instances), <tt><a href="cs_cltt-feat-Style.html">Style</a></tt> (12; 1% instances), <tt><a href="cs_cltt-feat-Abbr.html">Abbr</a></tt> (1; 0% instances), <tt><a href="cs_cltt-feat-NumType.html">NumType</a></tt> (1; 0% instances)
 
@@ -66,7 +66,7 @@ The 3rd highest number of forms (10) was observed with the lemma “který”: k
 
 `PRON` occurs with 92 feature combinations.
 The most frequent feature combination is `Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short` (467 tokens).
-Examples: se
+Examples: <em>se</em>
 
 
 ## Relations

@@ -9,40 +9,40 @@ udver: '2'
 There are 26 `PUNCT` lemmas (0%), 27 `PUNCT` types (0%) and 221036 `PUNCT` tokens (15%).
 Out of 17 observed tags, the rank of `PUNCT` is: 14 in number of lemmas, 15 in number of types and 2 in number of tokens.
 
-The 10 most frequent `PUNCT` lemmas: , . - " ) ( : ? / *
+The 10 most frequent `PUNCT` lemmas: <em>,, ., -, ", ), (, :, ?, /, *</em>
 
-The 10 most frequent `PUNCT` types:  , . - " ) ( : ? / *
+The 10 most frequent `PUNCT` types:  <em>,, ., -, ", ), (, :, ?, /, *</em>
 
-The 10 most frequent ambiguous lemmas: / (<tt><a href="cs-pos-PUNCT.html">PUNCT</a></tt> 700, <tt><a href="cs-pos-SYM.html">SYM</a></tt> 18), * (<tt><a href="cs-pos-PUNCT.html">PUNCT</a></tt> 655, <tt><a href="cs-pos-SYM.html">SYM</a></tt> 10), o (<tt><a href="cs-pos-ADP.html">ADP</a></tt> 10328, <tt><a href="cs-pos-PUNCT.html">PUNCT</a></tt> 100, <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 10, <tt><a href="cs-pos-ADJ.html">ADJ</a></tt> 3, <tt><a href="cs-pos-INTJ.html">INTJ</a></tt> 2), x (<tt><a href="cs-pos-SYM.html">SYM</a></tt> 120, <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 70, <tt><a href="cs-pos-PUNCT.html">PUNCT</a></tt> 3)
+The 10 most frequent ambiguous lemmas: <em>/</em> (<tt><a href="cs-pos-PUNCT.html">PUNCT</a></tt> 700, <tt><a href="cs-pos-SYM.html">SYM</a></tt> 18), <em>*</em> (<tt><a href="cs-pos-PUNCT.html">PUNCT</a></tt> 655, <tt><a href="cs-pos-SYM.html">SYM</a></tt> 10), <em>o</em> (<tt><a href="cs-pos-ADP.html">ADP</a></tt> 10328, <tt><a href="cs-pos-PUNCT.html">PUNCT</a></tt> 100, <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 10, <tt><a href="cs-pos-ADJ.html">ADJ</a></tt> 3, <tt><a href="cs-pos-INTJ.html">INTJ</a></tt> 2), <em>x</em> (<tt><a href="cs-pos-SYM.html">SYM</a></tt> 120, <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 70, <tt><a href="cs-pos-PUNCT.html">PUNCT</a></tt> 3)
 
-The 10 most frequent ambiguous types:  / (<tt><a href="cs-pos-PUNCT.html">PUNCT</a></tt> 700, <tt><a href="cs-pos-SYM.html">SYM</a></tt> 18), * (<tt><a href="cs-pos-PUNCT.html">PUNCT</a></tt> 655, <tt><a href="cs-pos-SYM.html">SYM</a></tt> 10), o (<tt><a href="cs-pos-ADP.html">ADP</a></tt> 9669, <tt><a href="cs-pos-ADJ.html">ADJ</a></tt> 110, <tt><a href="cs-pos-PUNCT.html">PUNCT</a></tt> 99, <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 4), x (<tt><a href="cs-pos-SYM.html">SYM</a></tt> 120, <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 41, <tt><a href="cs-pos-PUNCT.html">PUNCT</a></tt> 3)
+The 10 most frequent ambiguous types:  <em>/</em> (<tt><a href="cs-pos-PUNCT.html">PUNCT</a></tt> 700, <tt><a href="cs-pos-SYM.html">SYM</a></tt> 18), <em>*</em> (<tt><a href="cs-pos-PUNCT.html">PUNCT</a></tt> 655, <tt><a href="cs-pos-SYM.html">SYM</a></tt> 10), <em>o</em> (<tt><a href="cs-pos-ADP.html">ADP</a></tt> 9669, <tt><a href="cs-pos-ADJ.html">ADJ</a></tt> 110, <tt><a href="cs-pos-PUNCT.html">PUNCT</a></tt> 99, <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 4), <em>x</em> (<tt><a href="cs-pos-SYM.html">SYM</a></tt> 120, <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 41, <tt><a href="cs-pos-PUNCT.html">PUNCT</a></tt> 3)
 
 
-* /
-  * <tt><a href="cs-pos-PUNCT.html">PUNCT</a></tt> 700: Přenosová rychlost : ( A 4 <b>/</b> sec ) 12
-  * <tt><a href="cs-pos-SYM.html">SYM</a></tt> 18: Potřebujete jen 1 <b>/</b> 4 vody , takže sprcha vás stojí 0.46 Kč .
-* *
-  * <tt><a href="cs-pos-PUNCT.html">PUNCT</a></tt> 655: Při troše štěstí získáte za čtyři roky půl milionu z nájemného <b>*</b>
-  * <tt><a href="cs-pos-SYM.html">SYM</a></tt> 10: Jaká je vzdělanost našeho národa <b>*</b>
-* o
-  * <tt><a href="cs-pos-ADP.html">ADP</a></tt> 9669: Hodnota thajského vývozu se každým rokem zvyšuje <b>o</b> více než 12 % .
-  * <tt><a href="cs-pos-ADJ.html">ADJ</a></tt> 110: Monet , spol . s r . <b>o</b> .
-  * <tt><a href="cs-pos-PUNCT.html">PUNCT</a></tt> 99: UKRAJINA CHCE CHRÁNIT SVŮJ TRH <b>o</b>
-  * <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 4: Vítězem se stal britský boxer Benn , který vyhrál k . <b>o</b> . v desátém kole .
-* x
-  * <tt><a href="cs-pos-SYM.html">SYM</a></tt> 120: Rozměry : ( mm ) 452 <b>x</b> 380 <b>x</b> 230
-  * <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 41: * s ( <b>x</b> ) = 1 , je - li vrchol <b>x</b> obsazen ( neshořelým ) stromem ,
-  * <tt><a href="cs-pos-PUNCT.html">PUNCT</a></tt> 3: <b>x</b> - údaje za 1 . pololetí
+* <em>/</em>
+  * <tt><a href="cs-pos-PUNCT.html">PUNCT</a></tt> 700: <em>Přenosová rychlost : ( A 4 <b>/</b> sec ) 12</em>
+  * <tt><a href="cs-pos-SYM.html">SYM</a></tt> 18: <em>Potřebujete jen 1 <b>/</b> 4 vody , takže sprcha vás stojí 0.46 Kč .</em>
+* <em>*</em>
+  * <tt><a href="cs-pos-PUNCT.html">PUNCT</a></tt> 655: <em>Při troše štěstí získáte za čtyři roky půl milionu z nájemného <b>*</b></em>
+  * <tt><a href="cs-pos-SYM.html">SYM</a></tt> 10: <em>Jaká je vzdělanost našeho národa <b>*</b></em>
+* <em>o</em>
+  * <tt><a href="cs-pos-ADP.html">ADP</a></tt> 9669: <em>Hodnota thajského vývozu se každým rokem zvyšuje <b>o</b> více než 12 % .</em>
+  * <tt><a href="cs-pos-ADJ.html">ADJ</a></tt> 110: <em>Monet , spol . s r . <b>o</b> .</em>
+  * <tt><a href="cs-pos-PUNCT.html">PUNCT</a></tt> 99: <em>UKRAJINA CHCE CHRÁNIT SVŮJ TRH <b>o</b></em>
+  * <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 4: <em>Vítězem se stal britský boxer Benn , který vyhrál k . <b>o</b> . v desátém kole .</em>
+* <em>x</em>
+  * <tt><a href="cs-pos-SYM.html">SYM</a></tt> 120: <em>Rozměry : ( mm ) 452 <b>x</b> 380 <b>x</b> 230</em>
+  * <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 41: <em>* s ( <b>x</b> ) = 1 , je - li vrchol <b>x</b> obsazen ( neshořelým ) stromem ,</em>
+  * <tt><a href="cs-pos-PUNCT.html">PUNCT</a></tt> 3: <em><b>x</b> - údaje za 1 . pololetí</em>
 
 ## Morphology
 
 The form / lemma ratio of `PUNCT` is 1.038462 (the average of all parts of speech is 2.181849).
 
-The 1st highest number of forms (2) was observed with the lemma “-”: -, -103.
+The 1st highest number of forms (2) was observed with the lemma “-”: <em>-, -103</em>.
 
-The 2nd highest number of forms (1) was observed with the lemma “!”: !.
+The 2nd highest number of forms (1) was observed with the lemma “!”: <em>!</em>.
 
-The 3rd highest number of forms (1) was observed with the lemma “"”: ".
+The 3rd highest number of forms (1) was observed with the lemma “"”: <em>"</em>.
 
 `PUNCT` does not occur with any features.
 

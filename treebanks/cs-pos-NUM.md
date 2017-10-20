@@ -9,59 +9,59 @@ udver: '2'
 There are 3436 `NUM` lemmas (6%), 3543 `NUM` types (3%) and 41507 `NUM` tokens (3%).
 Out of 17 observed tags, the rank of `NUM` is: 5 in number of lemmas, 5 in number of types and 11 in number of tokens.
 
-The 10 most frequent `NUM` lemmas: jeden dva 1 tři 2 oba 3 4 pět čtyři
+The 10 most frequent `NUM` lemmas: <em>jeden, dva, 1, tři, 2, oba, 3, 4, pět, čtyři</em>
 
-The 10 most frequent `NUM` types:  1 2 3 dva tři 4 jeden 6 dvě tisíc
+The 10 most frequent `NUM` types:  <em>1, 2, 3, dva, tři, 4, jeden, 6, dvě, tisíc</em>
 
-The 10 most frequent ambiguous lemmas: jeden (<tt><a href="cs-pos-NUM.html">NUM</a></tt> 2526, <tt><a href="cs-pos-ADJ.html">ADJ</a></tt> 31), tři (<tt><a href="cs-pos-NUM.html">NUM</a></tt> 1207, <tt><a href="cs-pos-ADJ.html">ADJ</a></tt> 1), pět (<tt><a href="cs-pos-NUM.html">NUM</a></tt> 625, <tt><a href="cs-pos-VERB.html">VERB</a></tt> 1), tisíc (<tt><a href="cs-pos-NUM.html">NUM</a></tt> 539, <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 330, <tt><a href="cs-pos-ADV.html">ADV</a></tt> 1), 12 (<tt><a href="cs-pos-NUM.html">NUM</a></tt> 307, <tt><a href="cs-pos-ADV.html">ADV</a></tt> 1), osm (<tt><a href="cs-pos-NUM.html">NUM</a></tt> 236, <tt><a href="cs-pos-ADJ.html">ADJ</a></tt> 1), I (<tt><a href="cs-pos-NUM.html">NUM</a></tt> 97, <tt><a href="cs-pos-PROPN.html">PROPN</a></tt> 62, <tt><a href="cs-pos-ADJ.html">ADJ</a></tt> 17, <tt><a href="cs-pos-PRON.html">PRON</a></tt> 16), půl (<tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 177, <tt><a href="cs-pos-NUM.html">NUM</a></tt> 64), třináct (<tt><a href="cs-pos-NUM.html">NUM</a></tt> 53, <tt><a href="cs-pos-ADJ.html">ADJ</a></tt> 1), sto (<tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 304, <tt><a href="cs-pos-NUM.html">NUM</a></tt> 41)
+The 10 most frequent ambiguous lemmas: <em>jeden</em> (<tt><a href="cs-pos-NUM.html">NUM</a></tt> 2526, <tt><a href="cs-pos-ADJ.html">ADJ</a></tt> 31), <em>tři</em> (<tt><a href="cs-pos-NUM.html">NUM</a></tt> 1207, <tt><a href="cs-pos-ADJ.html">ADJ</a></tt> 1), <em>pět</em> (<tt><a href="cs-pos-NUM.html">NUM</a></tt> 625, <tt><a href="cs-pos-VERB.html">VERB</a></tt> 1), <em>tisíc</em> (<tt><a href="cs-pos-NUM.html">NUM</a></tt> 539, <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 330, <tt><a href="cs-pos-ADV.html">ADV</a></tt> 1), <em>12</em> (<tt><a href="cs-pos-NUM.html">NUM</a></tt> 307, <tt><a href="cs-pos-ADV.html">ADV</a></tt> 1), <em>osm</em> (<tt><a href="cs-pos-NUM.html">NUM</a></tt> 236, <tt><a href="cs-pos-ADJ.html">ADJ</a></tt> 1), <em>I</em> (<tt><a href="cs-pos-NUM.html">NUM</a></tt> 97, <tt><a href="cs-pos-PROPN.html">PROPN</a></tt> 62, <tt><a href="cs-pos-ADJ.html">ADJ</a></tt> 17, <tt><a href="cs-pos-PRON.html">PRON</a></tt> 16), <em>půl</em> (<tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 177, <tt><a href="cs-pos-NUM.html">NUM</a></tt> 64), <em>třináct</em> (<tt><a href="cs-pos-NUM.html">NUM</a></tt> 53, <tt><a href="cs-pos-ADJ.html">ADJ</a></tt> 1), <em>sto</em> (<tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 304, <tt><a href="cs-pos-NUM.html">NUM</a></tt> 41)
 
-The 10 most frequent ambiguous types:  tisíc (<tt><a href="cs-pos-NUM.html">NUM</a></tt> 538, <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 92), dvou (<tt><a href="cs-pos-NUM.html">NUM</a></tt> 519, <tt><a href="cs-pos-ADJ.html">ADJ</a></tt> 1), 12 (<tt><a href="cs-pos-NUM.html">NUM</a></tt> 306, <tt><a href="cs-pos-ADV.html">ADV</a></tt> 1), tří (<tt><a href="cs-pos-NUM.html">NUM</a></tt> 239, <tt><a href="cs-pos-ADJ.html">ADJ</a></tt> 3), jedno (<tt><a href="cs-pos-NUM.html">NUM</a></tt> 152, <tt><a href="cs-pos-ADJ.html">ADJ</a></tt> 1), jednou (<tt><a href="cs-pos-ADV.html">ADV</a></tt> 165, <tt><a href="cs-pos-NUM.html">NUM</a></tt> 129), čtyř (<tt><a href="cs-pos-NUM.html">NUM</a></tt> 100, <tt><a href="cs-pos-ADJ.html">ADJ</a></tt> 1), I (<tt><a href="cs-pos-CCONJ.html">CCONJ</a></tt> 465, <tt><a href="cs-pos-NUM.html">NUM</a></tt> 97, <tt><a href="cs-pos-PROPN.html">PROPN</a></tt> 62, <tt><a href="cs-pos-ADJ.html">ADJ</a></tt> 19, <tt><a href="cs-pos-PRON.html">PRON</a></tt> 6, <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 1), osmi (<tt><a href="cs-pos-NUM.html">NUM</a></tt> 91, <tt><a href="cs-pos-ADJ.html">ADJ</a></tt> 1), půl (<tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 164, <tt><a href="cs-pos-NUM.html">NUM</a></tt> 64)
+The 10 most frequent ambiguous types:  <em>tisíc</em> (<tt><a href="cs-pos-NUM.html">NUM</a></tt> 538, <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 92), <em>dvou</em> (<tt><a href="cs-pos-NUM.html">NUM</a></tt> 519, <tt><a href="cs-pos-ADJ.html">ADJ</a></tt> 1), <em>12</em> (<tt><a href="cs-pos-NUM.html">NUM</a></tt> 306, <tt><a href="cs-pos-ADV.html">ADV</a></tt> 1), <em>tří</em> (<tt><a href="cs-pos-NUM.html">NUM</a></tt> 239, <tt><a href="cs-pos-ADJ.html">ADJ</a></tt> 3), <em>jedno</em> (<tt><a href="cs-pos-NUM.html">NUM</a></tt> 152, <tt><a href="cs-pos-ADJ.html">ADJ</a></tt> 1), <em>jednou</em> (<tt><a href="cs-pos-ADV.html">ADV</a></tt> 165, <tt><a href="cs-pos-NUM.html">NUM</a></tt> 129), <em>čtyř</em> (<tt><a href="cs-pos-NUM.html">NUM</a></tt> 100, <tt><a href="cs-pos-ADJ.html">ADJ</a></tt> 1), <em>I</em> (<tt><a href="cs-pos-CCONJ.html">CCONJ</a></tt> 465, <tt><a href="cs-pos-NUM.html">NUM</a></tt> 97, <tt><a href="cs-pos-PROPN.html">PROPN</a></tt> 62, <tt><a href="cs-pos-ADJ.html">ADJ</a></tt> 19, <tt><a href="cs-pos-PRON.html">PRON</a></tt> 6, <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 1), <em>osmi</em> (<tt><a href="cs-pos-NUM.html">NUM</a></tt> 91, <tt><a href="cs-pos-ADJ.html">ADJ</a></tt> 1), <em>půl</em> (<tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 164, <tt><a href="cs-pos-NUM.html">NUM</a></tt> 64)
 
 
-* tisíc
-  * <tt><a href="cs-pos-NUM.html">NUM</a></tt> 538: Ročně vyprodukovaných 280 - 350 <b>tisíc</b> tun popelovin se musí ukládat .
-  * <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 92: Pak je tu jediný problém , a sice uplatnit všech <b>tisíc</b> bodů .
-* dvou
-  * <tt><a href="cs-pos-NUM.html">NUM</a></tt> 519: Kompletní informace pro drobného investora v LN na <b>dvou</b> stránkách
-  * <tt><a href="cs-pos-ADJ.html">ADJ</a></tt> 1: Izraelský premiér Jicchak Rabin včera prohlásil , že palestinský předák Jásir Arafat požádal o <b>dvou</b> až třítýdenní odklad , který by umožnil Palestincům připravit se na převzetí správy nad autonomními územími v pásmu Gazy a v Jerichu na západním břehu Jordánu .
-* 12
-  * <tt><a href="cs-pos-NUM.html">NUM</a></tt> 306: Přenosová rychlost : ( A 4 / sec ) <b>12</b>
-  * <tt><a href="cs-pos-ADV.html">ADV</a></tt> 1: B . Clemensha , D . Simonich , P . Batista měřili od r . 1972 do r . 1987 výšku sodíkové vrstvy a zjistili , že výška této vrstvy klesá v průměru o 50 m ( <b>12</b> m ) ročně .
-* tří
-  * <tt><a href="cs-pos-NUM.html">NUM</a></tt> 239: Počet policistů by měl do dvou až <b>tří</b> let odpovídat potřebám policie .
-  * <tt><a href="cs-pos-ADJ.html">ADJ</a></tt> 3: Ubytování ve <b>tří</b> , čtyř a pětilůžkových pokojích s vlastním sociálním zařízením .
-* jedno
-  * <tt><a href="cs-pos-NUM.html">NUM</a></tt> 152: Když <b>jedno</b> chybí , nepodaří se to .
-  * <tt><a href="cs-pos-ADJ.html">ADJ</a></tt> 1: Ke snížení úroků z depozit dochází u T - Kont ( o 1.5 - 2 % ) , u vkladových certifikátů s výjimkou <b>jedno</b> - a dvouměsíčních certifikátů ( o 0 , 2 až 2.5 % ) a u vkladů právnických osob a fyzických osob - podnikatelů na tři , šest a devět měsíců ( o 0.15 až 0.8 % ) .
-* jednou
-  * <tt><a href="cs-pos-ADV.html">ADV</a></tt> 165: Až <b>jednou</b> . . .
-  * <tt><a href="cs-pos-NUM.html">NUM</a></tt> 129: Finanční otázka je <b>jednou</b> stránkou věci , druhou je otázka technická .
-* čtyř
-  * <tt><a href="cs-pos-NUM.html">NUM</a></tt> 100: Přítomni byli také zástupci <b>čtyř</b> bank .
-  * <tt><a href="cs-pos-ADJ.html">ADJ</a></tt> 1: Ubytování ve tří , <b>čtyř</b> a pětilůžkových pokojích s vlastním sociálním zařízením .
-* I
-  * <tt><a href="cs-pos-CCONJ.html">CCONJ</a></tt> 465: <b>I</b> velké firmy se specializují jen na několik málo teritorií .
-  * <tt><a href="cs-pos-NUM.html">NUM</a></tt> 97: KAREL HAVLÍČEK BOROVSKÝ , Dílo <b>I</b>
-  * <tt><a href="cs-pos-PROPN.html">PROPN</a></tt> 62: Akademikem se zato stal známý teoretik antisemitismu <b>I</b> . Šafarevič .
-  * <tt><a href="cs-pos-ADJ.html">ADJ</a></tt> 19: S V . <b>I</b> . P . prostory však prý byla na obou stadionech spokojenost . . .
-  * <tt><a href="cs-pos-PRON.html">PRON</a></tt> 6: Jen zřídkakdy Moby bere do svých rukou i hardcoreovou kytaru ( All That <b>I</b> Need Is To Be Loved ) .
-  * <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 1: V Soluně například stojí 0.11 karátový diamant ( barvy <b>I</b> , velmi dobrého až dobrého brusu a čistoty SI 1 ) včetně DPH 2700 korun ( do konce dubna ho pořídíte za 2400 korun ) .
-* osmi
-  * <tt><a href="cs-pos-NUM.html">NUM</a></tt> 91: K účasti je letos přihlášeno třicet osm sborů z <b>osmi</b> zemí Evropy .
-  * <tt><a href="cs-pos-ADJ.html">ADJ</a></tt> 1: Podle názoru Tomáše Duba z ministerstva hospodářství představuje <b>osmi</b> až desetiprocentní odhad podílu šedé ekonomiky na HDP , který provedla ČNB , spíše spodní hranici reálného stavu .
-* půl
-  * <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 164: Při troše štěstí získáte za čtyři roky <b>půl</b> milionu z nájemného *
-  * <tt><a href="cs-pos-NUM.html">NUM</a></tt> 64: Ty mají většinou do <b>půl</b> karátu .
+* <em>tisíc</em>
+  * <tt><a href="cs-pos-NUM.html">NUM</a></tt> 538: <em>Ročně vyprodukovaných 280 - 350 <b>tisíc</b> tun popelovin se musí ukládat .</em>
+  * <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 92: <em>Pak je tu jediný problém , a sice uplatnit všech <b>tisíc</b> bodů .</em>
+* <em>dvou</em>
+  * <tt><a href="cs-pos-NUM.html">NUM</a></tt> 519: <em>Kompletní informace pro drobného investora v LN na <b>dvou</b> stránkách</em>
+  * <tt><a href="cs-pos-ADJ.html">ADJ</a></tt> 1: <em>Izraelský premiér Jicchak Rabin včera prohlásil , že palestinský předák Jásir Arafat požádal o <b>dvou</b> až třítýdenní odklad , který by umožnil Palestincům připravit se na převzetí správy nad autonomními územími v pásmu Gazy a v Jerichu na západním břehu Jordánu .</em>
+* <em>12</em>
+  * <tt><a href="cs-pos-NUM.html">NUM</a></tt> 306: <em>Přenosová rychlost : ( A 4 / sec ) <b>12</b></em>
+  * <tt><a href="cs-pos-ADV.html">ADV</a></tt> 1: <em>B . Clemensha , D . Simonich , P . Batista měřili od r . 1972 do r . 1987 výšku sodíkové vrstvy a zjistili , že výška této vrstvy klesá v průměru o 50 m ( <b>12</b> m ) ročně .</em>
+* <em>tří</em>
+  * <tt><a href="cs-pos-NUM.html">NUM</a></tt> 239: <em>Počet policistů by měl do dvou až <b>tří</b> let odpovídat potřebám policie .</em>
+  * <tt><a href="cs-pos-ADJ.html">ADJ</a></tt> 3: <em>Ubytování ve <b>tří</b> , čtyř a pětilůžkových pokojích s vlastním sociálním zařízením .</em>
+* <em>jedno</em>
+  * <tt><a href="cs-pos-NUM.html">NUM</a></tt> 152: <em>Když <b>jedno</b> chybí , nepodaří se to .</em>
+  * <tt><a href="cs-pos-ADJ.html">ADJ</a></tt> 1: <em>Ke snížení úroků z depozit dochází u T - Kont ( o 1.5 - 2 % ) , u vkladových certifikátů s výjimkou <b>jedno</b> - a dvouměsíčních certifikátů ( o 0 , 2 až 2.5 % ) a u vkladů právnických osob a fyzických osob - podnikatelů na tři , šest a devět měsíců ( o 0.15 až 0.8 % ) .</em>
+* <em>jednou</em>
+  * <tt><a href="cs-pos-ADV.html">ADV</a></tt> 165: <em>Až <b>jednou</b> . . .</em>
+  * <tt><a href="cs-pos-NUM.html">NUM</a></tt> 129: <em>Finanční otázka je <b>jednou</b> stránkou věci , druhou je otázka technická .</em>
+* <em>čtyř</em>
+  * <tt><a href="cs-pos-NUM.html">NUM</a></tt> 100: <em>Přítomni byli také zástupci <b>čtyř</b> bank .</em>
+  * <tt><a href="cs-pos-ADJ.html">ADJ</a></tt> 1: <em>Ubytování ve tří , <b>čtyř</b> a pětilůžkových pokojích s vlastním sociálním zařízením .</em>
+* <em>I</em>
+  * <tt><a href="cs-pos-CCONJ.html">CCONJ</a></tt> 465: <em><b>I</b> velké firmy se specializují jen na několik málo teritorií .</em>
+  * <tt><a href="cs-pos-NUM.html">NUM</a></tt> 97: <em>KAREL HAVLÍČEK BOROVSKÝ , Dílo <b>I</b></em>
+  * <tt><a href="cs-pos-PROPN.html">PROPN</a></tt> 62: <em>Akademikem se zato stal známý teoretik antisemitismu <b>I</b> . Šafarevič .</em>
+  * <tt><a href="cs-pos-ADJ.html">ADJ</a></tt> 19: <em>S V . <b>I</b> . P . prostory však prý byla na obou stadionech spokojenost . . .</em>
+  * <tt><a href="cs-pos-PRON.html">PRON</a></tt> 6: <em>Jen zřídkakdy Moby bere do svých rukou i hardcoreovou kytaru ( All That <b>I</b> Need Is To Be Loved ) .</em>
+  * <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 1: <em>V Soluně například stojí 0.11 karátový diamant ( barvy <b>I</b> , velmi dobrého až dobrého brusu a čistoty SI 1 ) včetně DPH 2700 korun ( do konce dubna ho pořídíte za 2400 korun ) .</em>
+* <em>osmi</em>
+  * <tt><a href="cs-pos-NUM.html">NUM</a></tt> 91: <em>K účasti je letos přihlášeno třicet osm sborů z <b>osmi</b> zemí Evropy .</em>
+  * <tt><a href="cs-pos-ADJ.html">ADJ</a></tt> 1: <em>Podle názoru Tomáše Duba z ministerstva hospodářství představuje <b>osmi</b> až desetiprocentní odhad podílu šedé ekonomiky na HDP , který provedla ČNB , spíše spodní hranici reálného stavu .</em>
+* <em>půl</em>
+  * <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 164: <em>Při troše štěstí získáte za čtyři roky <b>půl</b> milionu z nájemného *</em>
+  * <tt><a href="cs-pos-NUM.html">NUM</a></tt> 64: <em>Ty mají většinou do <b>půl</b> karátu .</em>
 
 ## Morphology
 
 The form / lemma ratio of `NUM` is 1.031141 (the average of all parts of speech is 2.181849).
 
-The 1st highest number of forms (10) was observed with the lemma “jeden”: jeden, jedna, jedno, jednoho, jednom, jednomu, jednou, jednu, jedné, jedním.
+The 1st highest number of forms (10) was observed with the lemma “jeden”: <em>jeden, jedna, jedno, jednoho, jednom, jednomu, jednou, jednu, jedné, jedním</em>.
 
-The 2nd highest number of forms (8) was observed with the lemma “třetina”: třetin, třetina, třetinou, třetinu, třetiny, třetinách, třetinám, třetině.
+The 2nd highest number of forms (8) was observed with the lemma “třetina”: <em>třetin, třetina, třetinou, třetinu, třetiny, třetinách, třetinám, třetině</em>.
 
-The 3rd highest number of forms (7) was observed with the lemma “čtvrtina”: čtvrtina, čtvrtinami, čtvrtinou, čtvrtinu, čtvrtiny, čtvrtinách, čtvrtině.
+The 3rd highest number of forms (7) was observed with the lemma “čtvrtina”: <em>čtvrtina, čtvrtinami, čtvrtinou, čtvrtinu, čtvrtiny, čtvrtinách, čtvrtině</em>.
 
 `NUM` occurs with 10 features: <tt><a href="cs-feat-NumType.html">NumType</a></tt> (41507; 100% instances), <tt><a href="cs-feat-NumForm.html">NumForm</a></tt> (41165; 99% instances), <tt><a href="cs-feat-Number.html">Number</a></tt> (11649; 28% instances), <tt><a href="cs-feat-Case.html">Case</a></tt> (11623; 28% instances), <tt><a href="cs-feat-NumValue.html">NumValue</a></tt> (8050; 19% instances), <tt><a href="cs-feat-Gender.html">Gender</a></tt> (4759; 11% instances), <tt><a href="cs-feat-Animacy.html">Animacy</a></tt> (303; 1% instances), <tt><a href="cs-feat-Foreign.html">Foreign</a></tt> (29; 0% instances), <tt><a href="cs-feat-NameType.html">NameType</a></tt> (20; 0% instances), <tt><a href="cs-feat-Style.html">Style</a></tt> (2; 0% instances)
 
@@ -69,7 +69,7 @@ The 3rd highest number of forms (7) was observed with the lemma “čtvrtina”:
 
 `NUM` occurs with 59 feature combinations.
 The most frequent feature combination is `NumForm=Digit|NumType=Card` (29481 tokens).
-Examples: 1 2 3 4 6 5 1992 10 1994 1993
+Examples: <em>1, 2, 3, 4, 6, 5, 1992, 10, 1994, 1993</em>
 
 
 ## Relations

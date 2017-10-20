@@ -20,5 +20,5 @@ The feature is used with 1 part-of-speech tags: <tt><a href="cs_cac-pos-CCONJ.ht
 
 `CCONJ` tokens may have the following values of `ConjType`:
 
-* `Oper` (2; 100% of non-empty `ConjType`): krát minus
+* `Oper` (2; 100% of non-empty `ConjType`): <em>krát, minus</em>
 

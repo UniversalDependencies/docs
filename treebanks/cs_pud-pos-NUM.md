@@ -9,37 +9,37 @@ udver: '2'
 There are 222 `NUM` lemmas (4%), 243 `NUM` types (3%) and 459 `NUM` tokens (2%).
 Out of 15 observed tags, the rank of `NUM` is: 6 in number of lemmas, 6 in number of types and 12 in number of tokens.
 
-The 10 most frequent `NUM` lemmas: jeden dva oba tři čtyři deset 1 3 šest 20
+The 10 most frequent `NUM` lemmas: <em>jeden, dva, oba, tři, čtyři, deset, 1, 3, šest, 20</em>
 
-The 10 most frequent `NUM` types:  dva čtyři dvou dvě jedné 1 3 jeden 20 dvěma
+The 10 most frequent `NUM` types:  <em>dva, čtyři, dvou, dvě, jedné, 1, 3, jeden, 20, dvěma</em>
 
-The 10 most frequent ambiguous lemmas: jeden (<tt><a href="cs_pud-pos-NUM.html">NUM</a></tt> 37, <tt><a href="cs_pud-pos-ADJ.html">ADJ</a></tt> 1), I (<tt><a href="cs_pud-pos-NUM.html">NUM</a></tt> 5, <tt><a href="cs_pud-pos-PRON.html">PRON</a></tt> 1), pár (<tt><a href="cs_pud-pos-NOUN.html">NOUN</a></tt> 4, <tt><a href="cs_pud-pos-NUM.html">NUM</a></tt> 1), tisíc (<tt><a href="cs_pud-pos-NOUN.html">NOUN</a></tt> 3, <tt><a href="cs_pud-pos-NUM.html">NUM</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>jeden</em> (<tt><a href="cs_pud-pos-NUM.html">NUM</a></tt> 37, <tt><a href="cs_pud-pos-ADJ.html">ADJ</a></tt> 1), <em>I</em> (<tt><a href="cs_pud-pos-NUM.html">NUM</a></tt> 5, <tt><a href="cs_pud-pos-PRON.html">PRON</a></tt> 1), <em>pár</em> (<tt><a href="cs_pud-pos-NOUN.html">NOUN</a></tt> 4, <tt><a href="cs_pud-pos-NUM.html">NUM</a></tt> 1), <em>tisíc</em> (<tt><a href="cs_pud-pos-NOUN.html">NOUN</a></tt> 3, <tt><a href="cs_pud-pos-NUM.html">NUM</a></tt> 1)
 
-The 10 most frequent ambiguous types:  I (<tt><a href="cs_pud-pos-NUM.html">NUM</a></tt> 5, <tt><a href="cs_pud-pos-CCONJ.html">CCONJ</a></tt> 2), V (<tt><a href="cs_pud-pos-ADP.html">ADP</a></tt> 88, <tt><a href="cs_pud-pos-NUM.html">NUM</a></tt> 1), jednou (<tt><a href="cs_pud-pos-ADV.html">ADV</a></tt> 2, <tt><a href="cs_pud-pos-NUM.html">NUM</a></tt> 1), pár (<tt><a href="cs_pud-pos-NOUN.html">NOUN</a></tt> 4, <tt><a href="cs_pud-pos-NUM.html">NUM</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>I</em> (<tt><a href="cs_pud-pos-NUM.html">NUM</a></tt> 5, <tt><a href="cs_pud-pos-CCONJ.html">CCONJ</a></tt> 2), <em>V</em> (<tt><a href="cs_pud-pos-ADP.html">ADP</a></tt> 88, <tt><a href="cs_pud-pos-NUM.html">NUM</a></tt> 1), <em>jednou</em> (<tt><a href="cs_pud-pos-ADV.html">ADV</a></tt> 2, <tt><a href="cs_pud-pos-NUM.html">NUM</a></tt> 1), <em>pár</em> (<tt><a href="cs_pud-pos-NOUN.html">NOUN</a></tt> 4, <tt><a href="cs_pud-pos-NUM.html">NUM</a></tt> 1)
 
 
-* I
-  * <tt><a href="cs_pud-pos-NUM.html">NUM</a></tt> 5: Jejich prvním králem byl Mojmír <b>I</b> . ( vládl v letech 830 – 846 ) .
-  * <tt><a href="cs_pud-pos-CCONJ.html">CCONJ</a></tt> 2: <b>I</b> přes ně , ne každý ve straně rozuměl zprávám , které se jim prezident včera snažil poslat .
-* V
-  * <tt><a href="cs_pud-pos-ADP.html">ADP</a></tt> 88: <b>V</b> této souvislosti dává omezení obchodu smysl .
-  * <tt><a href="cs_pud-pos-NUM.html">NUM</a></tt> 1: Nicméně pokud by bylo přijato anglické právo , dcery Ludvíka X . , Filipa <b>V</b> . a Karla IV . by měly mnohem větší nárok na trůn než jejich teta Izabela Francouzská .
-* jednou
-  * <tt><a href="cs_pud-pos-ADV.html">ADV</a></tt> 2: Federico Fellini <b>jednou</b> řekl : „ Klaun je pro lidstvo jako stín pro člověka “ .
-  * <tt><a href="cs_pud-pos-NUM.html">NUM</a></tt> 1: To má co do činění s <b>jednou</b> z mála budov v centru města , které byly ušetřeny před zničením na konci druhé světové války .
-* pár
-  * <tt><a href="cs_pud-pos-NOUN.html">NOUN</a></tt> 4: Viděl jsem jen <b>pár</b> dílů a najedou mi začal ožívat telefon .
-  * <tt><a href="cs_pud-pos-NUM.html">NUM</a></tt> 1: V srpnu 2015 Kesha zveřejnila <b>pár</b> informací o svém připravovaném třetím studiovém albu .
+* <em>I</em>
+  * <tt><a href="cs_pud-pos-NUM.html">NUM</a></tt> 5: <em>Jejich prvním králem byl Mojmír <b>I</b> . ( vládl v letech 830 – 846 ) .</em>
+  * <tt><a href="cs_pud-pos-CCONJ.html">CCONJ</a></tt> 2: <em><b>I</b> přes ně , ne každý ve straně rozuměl zprávám , které se jim prezident včera snažil poslat .</em>
+* <em>V</em>
+  * <tt><a href="cs_pud-pos-ADP.html">ADP</a></tt> 88: <em><b>V</b> této souvislosti dává omezení obchodu smysl .</em>
+  * <tt><a href="cs_pud-pos-NUM.html">NUM</a></tt> 1: <em>Nicméně pokud by bylo přijato anglické právo , dcery Ludvíka X . , Filipa <b>V</b> . a Karla IV . by měly mnohem větší nárok na trůn než jejich teta Izabela Francouzská .</em>
+* <em>jednou</em>
+  * <tt><a href="cs_pud-pos-ADV.html">ADV</a></tt> 2: <em>Federico Fellini <b>jednou</b> řekl : „ Klaun je pro lidstvo jako stín pro člověka “ .</em>
+  * <tt><a href="cs_pud-pos-NUM.html">NUM</a></tt> 1: <em>To má co do činění s <b>jednou</b> z mála budov v centru města , které byly ušetřeny před zničením na konci druhé světové války .</em>
+* <em>pár</em>
+  * <tt><a href="cs_pud-pos-NOUN.html">NOUN</a></tt> 4: <em>Viděl jsem jen <b>pár</b> dílů a najedou mi začal ožívat telefon .</em>
+  * <tt><a href="cs_pud-pos-NUM.html">NUM</a></tt> 1: <em>V srpnu 2015 Kesha zveřejnila <b>pár</b> informací o svém připravovaném třetím studiovém albu .</em>
 
 ## Morphology
 
 The form / lemma ratio of `NUM` is 1.094595 (the average of all parts of speech is 1.427558).
 
-The 1st highest number of forms (9) was observed with the lemma “jeden”: jeden, jedna, jedno, jednoho, jednom, jednou, jednu, jedné, jedním.
+The 1st highest number of forms (9) was observed with the lemma “jeden”: <em>jeden, jedna, jedno, jednoho, jednom, jednou, jednu, jedné, jedním</em>.
 
-The 2nd highest number of forms (4) was observed with the lemma “dva”: dva, dvou, dvě, dvěma.
+The 2nd highest number of forms (4) was observed with the lemma “dva”: <em>dva, dvou, dvě, dvěma</em>.
 
-The 3rd highest number of forms (4) was observed with the lemma “tři”: třech, třemi, tři, tří.
+The 3rd highest number of forms (4) was observed with the lemma “tři”: <em>třech, třemi, tři, tří</em>.
 
 `NUM` occurs with 6 features: <tt><a href="cs_pud-feat-NumForm.html">NumForm</a></tt> (459; 100% instances), <tt><a href="cs_pud-feat-NumType.html">NumType</a></tt> (459; 100% instances), <tt><a href="cs_pud-feat-Case.html">Case</a></tt> (140; 31% instances), <tt><a href="cs_pud-feat-Number.html">Number</a></tt> (140; 31% instances), <tt><a href="cs_pud-feat-NumValue.html">NumValue</a></tt> (102; 22% instances), <tt><a href="cs_pud-feat-Gender.html">Gender</a></tt> (62; 14% instances)
 
@@ -47,7 +47,7 @@ The 3rd highest number of forms (4) was observed with the lemma “tři”: tře
 
 `NUM` occurs with 30 feature combinations.
 The most frequent feature combination is `NumForm=Digit|NumType=Card` (303 tokens).
-Examples: 1 3 20 2014 2015 5 10 100 1492 2010
+Examples: <em>1, 3, 20, 2014, 2015, 5, 10, 100, 1492, 2010</em>
 
 
 ## Relations

@@ -9,9 +9,9 @@ udver: '2'
 There are 10 `PUNCT` lemmas (0%), 10 `PUNCT` types (0%) and 60127 `PUNCT` tokens (12%).
 Out of 16 observed tags, the rank of `PUNCT` is: 13 in number of lemmas, 14 in number of types and 3 in number of tokens.
 
-The 10 most frequent `PUNCT` lemmas: , . - " : ( ) ? ' /
+The 10 most frequent `PUNCT` lemmas: <em>,, ., -, ", :, (, ), ?, ', /</em>
 
-The 10 most frequent `PUNCT` types:  , . - " : ( ) ? ' /
+The 10 most frequent `PUNCT` types:  <em>,, ., -, ", :, (, ), ?, ', /</em>
 
 The 10 most frequent ambiguous lemmas: 
 
@@ -23,11 +23,11 @@ The 10 most frequent ambiguous types:
 
 The form / lemma ratio of `PUNCT` is 1.000000 (the average of all parts of speech is 2.186309).
 
-The 1st highest number of forms (1) was observed with the lemma “"”: ".
+The 1st highest number of forms (1) was observed with the lemma “"”: <em>"</em>.
 
-The 2nd highest number of forms (1) was observed with the lemma “'”: '.
+The 2nd highest number of forms (1) was observed with the lemma “'”: <em>'</em>.
 
-The 3rd highest number of forms (1) was observed with the lemma “(”: (.
+The 3rd highest number of forms (1) was observed with the lemma “(”: <em>(</em>.
 
 `PUNCT` occurs with 1 features: <tt><a href="cs_cac-feat-Abbr.html">Abbr</a></tt> (1; 0% instances)
 
@@ -35,7 +35,7 @@ The 3rd highest number of forms (1) was observed with the lemma “(”: (.
 
 `PUNCT` occurs with 2 feature combinations.
 The most frequent feature combination is `_` (60126 tokens).
-Examples: , . - " : ( ) ? ' /
+Examples: <em>,, ., -, ", :, (, ), ?, ', /</em>
 
 
 ## Relations

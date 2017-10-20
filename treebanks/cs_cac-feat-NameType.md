@@ -23,33 +23,33 @@ The most frequent other feature values with which `PROPN` and `NameType` co-occu
 
 `PROPN` tokens may have the following values of `NameType`:
 
-* `Com` (1750; 18% of non-empty `NameType`): KSČ ROH ÚJČ SSM ČSAV TIBA NF OV GŘ VÚM
-* `Com,Geo` (2; 0% of non-empty `NameType`): Böhmen Prag
-* `Com,Giv` (2; 0% of non-empty `NameType`): Konstruktiva
-* `Com,Pro` (3; 0% of non-empty `NameType`): Dermacol Gambrinus Prazdroj
-* `Com,Sur` (4; 0% of non-empty `NameType`): Bell Bramsch Ventura
-* `Geo` (3418; 35% of non-empty `NameType`): Praze SSSR Praha ČSSR Prahy ČSR Československa NDR Země USA
-* `Geo,Giv` (16; 0% of non-empty `NameType`): Boleslav Mořici Kuby Louis Lucie Mořice
-* `Geo,Oth` (1; 0% of non-empty `NameType`): Österreich
-* `Geo,Sur` (26; 0% of non-empty `NameType`): Pavlov Hejná Tigridem Blatná Hlinka Hracholusk Janského Lachaise Lhota Lhotu
-* `Giv` (1221; 12% of non-empty `NameType`): Karel Julius Václav Jana Karla Jaroslav Josef Jiří Zdeněk Klement
-* `Giv,Oth` (1; 0% of non-empty `NameType`): Lucii
-* `Giv,Pro` (8; 0% of non-empty `NameType`): Claudio Othelo Pascal Pascalu Radka Raduna Sandy Zora
-* `Giv,Sur` (24; 0% of non-empty `NameType`): Ariadna Kosmy Perry Joy Dante Dantem Eliot Figara James Jamese
-* `Nat` (129; 1% of non-empty `NameType`): Adygejci Pražané Angličan Egypťané Keltové Afričanů Američana Američané Američanů Asyřané
-* `Nat,Sur` (1; 0% of non-empty `NameType`): Srba
-* `Oth` (21; 0% of non-empty `NameType`): SNP Opeplatis Plastex Rena Erotissimo Gaudeamus Intermóda Invex Luna Musikbuch
-* `Pro` (290; 3% of non-empty `NameType`): Škoda Merkur Duha Octavia FSČ Klad Romatic SAPO SaS Tatramat
-* `Pro,Sur` (3; 0% of non-empty `NameType`): Baracchi Burda Mendoza
-* `Sur` (2894; 29% of non-empty `NameType`): Fučík Erben Horálek Knappová Němec Těšitelová Lenin Záveský Kraus Fučíka
+* `Com` (1750; 18% of non-empty `NameType`): <em>KSČ, ROH, ÚJČ, SSM, ČSAV, TIBA, NF, OV, GŘ, VÚM</em>
+* `Com,Geo` (2; 0% of non-empty `NameType`): <em>Böhmen, Prag</em>
+* `Com,Giv` (2; 0% of non-empty `NameType`): <em>Konstruktiva</em>
+* `Com,Pro` (3; 0% of non-empty `NameType`): <em>Dermacol, Gambrinus, Prazdroj</em>
+* `Com,Sur` (4; 0% of non-empty `NameType`): <em>Bell, Bramsch, Ventura</em>
+* `Geo` (3418; 35% of non-empty `NameType`): <em>Praze, SSSR, Praha, ČSSR, Prahy, ČSR, Československa, NDR, Země, USA</em>
+* `Geo,Giv` (16; 0% of non-empty `NameType`): <em>Boleslav, Mořici, Kuby, Louis, Lucie, Mořice</em>
+* `Geo,Oth` (1; 0% of non-empty `NameType`): <em>Österreich</em>
+* `Geo,Sur` (26; 0% of non-empty `NameType`): <em>Pavlov, Hejná, Tigridem, Blatná, Hlinka, Hracholusk, Janského, Lachaise, Lhota, Lhotu</em>
+* `Giv` (1221; 12% of non-empty `NameType`): <em>Karel, Julius, Václav, Jana, Karla, Jaroslav, Josef, Jiří, Zdeněk, Klement</em>
+* `Giv,Oth` (1; 0% of non-empty `NameType`): <em>Lucii</em>
+* `Giv,Pro` (8; 0% of non-empty `NameType`): <em>Claudio, Othelo, Pascal, Pascalu, Radka, Raduna, Sandy, Zora</em>
+* `Giv,Sur` (24; 0% of non-empty `NameType`): <em>Ariadna, Kosmy, Perry, Joy, Dante, Dantem, Eliot, Figara, James, Jamese</em>
+* `Nat` (129; 1% of non-empty `NameType`): <em>Adygejci, Pražané, Angličan, Egypťané, Keltové, Afričanů, Američana, Američané, Američanů, Asyřané</em>
+* `Nat,Sur` (1; 0% of non-empty `NameType`): <em>Srba</em>
+* `Oth` (21; 0% of non-empty `NameType`): <em>SNP, Opeplatis, Plastex, Rena, Erotissimo, Gaudeamus, Intermóda, Invex, Luna, Musikbuch</em>
+* `Pro` (290; 3% of non-empty `NameType`): <em>Škoda, Merkur, Duha, Octavia, FSČ, Klad, Romatic, SAPO, SaS, Tatramat</em>
+* `Pro,Sur` (3; 0% of non-empty `NameType`): <em>Baracchi, Burda, Mendoza</em>
+* `Sur` (2894; 29% of non-empty `NameType`): <em>Fučík, Erben, Horálek, Knappová, Němec, Těšitelová, Lenin, Záveský, Kraus, Fučíka</em>
 
 <table>
   <tr><th>Paradigm <i>Svoboda</i></th><th><tt>Com</tt></th><th><tt>Geo</tt></th><th><tt>Pro</tt></th><th><tt>Sur</tt></th></tr>
-  <tr><td><tt><tt><a href="cs_cac-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt>|<tt><a href="cs_cac-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="cs_cac-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td></td><td></td><td></td><td>Svobodu</td></tr>
-  <tr><td><tt><tt><a href="cs_cac-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt>|<tt><a href="cs_cac-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="cs_cac-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td></td><td></td><td></td><td>Svobody</td></tr>
-  <tr><td><tt><tt><a href="cs_cac-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt>|<tt><a href="cs_cac-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="cs_cac-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td></td><td></td><td></td><td>Svoboda</td></tr>
-  <tr><td><tt><tt><a href="cs_cac-feat-Case.html">Case</a></tt><tt>=Loc</tt>|<tt><a href="cs_cac-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td></td><td>Svobodě</td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="cs_cac-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="cs_cac-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td>Svoboda</td><td></td><td>Svoboda</td><td></td></tr>
+  <tr><td><tt><tt><a href="cs_cac-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt>|<tt><a href="cs_cac-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="cs_cac-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td></td><td></td><td></td><td><em>Svobodu</em></td></tr>
+  <tr><td><tt><tt><a href="cs_cac-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt>|<tt><a href="cs_cac-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="cs_cac-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td></td><td></td><td></td><td><em>Svobody</em></td></tr>
+  <tr><td><tt><tt><a href="cs_cac-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt>|<tt><a href="cs_cac-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="cs_cac-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td></td><td></td><td></td><td><em>Svoboda</em></td></tr>
+  <tr><td><tt><tt><a href="cs_cac-feat-Case.html">Case</a></tt><tt>=Loc</tt>|<tt><a href="cs_cac-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td></td><td><em>Svobodě</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="cs_cac-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="cs_cac-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>Svoboda</em></td><td></td><td><em>Svoboda</em></td><td></td></tr>
 </table>
 
 `NameType` seems to be **lexical feature** of `PROPN`. 98% lemmas (3400) occur only with one value of `NameType`.
@@ -62,28 +62,28 @@ The most frequent other feature values with which `ADJ` and `NameType` co-occurr
 
 `ADJ` tokens may have the following values of `NameType`:
 
-* `Com` (18; 2% of non-empty `NameType`): Koh i Telephone Tonkünstler Červeného Deutscher Jazykovedným Povážské Pražská United
-* `Com,Pro` (1; 0% of non-empty `NameType`): Verein
-* `Geo` (165; 21% of non-empty `NameType`): Králové Kutná Kašperských Lužických České Mariánských Nové Vrátné Bassa Janské
-* `Geo,Giv` (16; 2% of non-empty `NameType`): Karlovy Josefův Karlových Františkových Jindřichova Konstantinovy
-* `Geo,Sur` (28; 4% of non-empty `NameType`): Gottwaldově Vančurově Jiráskova Melantrichova Alšově Chotkově Engelsových Fučíkovy Fučíkově Gottwaldovy
-* `Giv` (51; 7% of non-empty `NameType`): Karlovy Karlův Karlově Angelino Anglický Ariadnin Bozděchovy Božetěchově Buridanův Chefrenovy
-* `Oth` (1; 0% of non-empty `NameType`): Santa
-* `Pro` (15; 2% of non-empty `NameType`): Rudého Illustrierte Mladé Prague Rouge Schweizer Super Touring Tourist linguistique
-* `Sur` (473; 62% of non-empty `NameType`): Erbenových Erbenovy Fučíkova Mohorovičićovy Bohrův Erbenova Erbenově Fučíkovy Fučíkův Fučíkovo
+* `Com` (18; 2% of non-empty `NameType`): <em>Koh, i, Telephone, Tonkünstler, Červeného, Deutscher, Jazykovedným, Povážské, Pražská, United</em>
+* `Com,Pro` (1; 0% of non-empty `NameType`): <em>Verein</em>
+* `Geo` (165; 21% of non-empty `NameType`): <em>Králové, Kutná, Kašperských, Lužických, České, Mariánských, Nové, Vrátné, Bassa, Janské</em>
+* `Geo,Giv` (16; 2% of non-empty `NameType`): <em>Karlovy, Josefův, Karlových, Františkových, Jindřichova, Konstantinovy</em>
+* `Geo,Sur` (28; 4% of non-empty `NameType`): <em>Gottwaldově, Vančurově, Jiráskova, Melantrichova, Alšově, Chotkově, Engelsových, Fučíkovy, Fučíkově, Gottwaldovy</em>
+* `Giv` (51; 7% of non-empty `NameType`): <em>Karlovy, Karlův, Karlově, Angelino, Anglický, Ariadnin, Bozděchovy, Božetěchově, Buridanův, Chefrenovy</em>
+* `Oth` (1; 0% of non-empty `NameType`): <em>Santa</em>
+* `Pro` (15; 2% of non-empty `NameType`): <em>Rudého, Illustrierte, Mladé, Prague, Rouge, Schweizer, Super, Touring, Tourist, linguistique</em>
+* `Sur` (473; 62% of non-empty `NameType`): <em>Erbenových, Erbenovy, Fučíkova, Mohorovičićovy, Bohrův, Erbenova, Erbenově, Fučíkovy, Fučíkův, Fučíkovo</em>
 
 <table>
   <tr><th>Paradigm <i>Karlův</i></th><th><tt>Geo,Giv</tt></th><th><tt>Geo,Sur</tt></th><th><tt>Giv</tt></th></tr>
-  <tr><td><tt><tt><a href="cs_cac-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt>|<tt><a href="cs_cac-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="cs_cac-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td></td><td>Karlův</td></tr>
-  <tr><td><tt><tt><a href="cs_cac-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="cs_cac-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="cs_cac-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td></td><td>Karlův</td></tr>
-  <tr><td><tt><tt><a href="cs_cac-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="cs_cac-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="cs_cac-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td>Karlovy</td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="cs_cac-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="cs_cac-feat-Case.html">Case</a></tt><tt>=Loc</tt>|<tt><a href="cs_cac-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td>Karlových</td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="cs_cac-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="cs_cac-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="cs_cac-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td></td><td>Karlův</td></tr>
-  <tr><td><tt><tt><a href="cs_cac-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="cs_cac-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="cs_cac-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td>Karlovy</td><td></td><td>Karlovy</td></tr>
-  <tr><td><tt><tt><a href="cs_cac-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="cs_cac-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td></td><td>Karlovy</td></tr>
-  <tr><td><tt><tt><a href="cs_cac-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="cs_cac-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td>Karlových</td><td></td></tr>
-  <tr><td><tt><tt><a href="cs_cac-feat-Case.html">Case</a></tt><tt>=Loc</tt>|<tt><a href="cs_cac-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td></td><td>Karlově</td></tr>
-  <tr><td><tt><tt><a href="cs_cac-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="cs_cac-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td>Karlovo</td><td></td></tr>
+  <tr><td><tt><tt><a href="cs_cac-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt>|<tt><a href="cs_cac-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="cs_cac-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td></td><td><em>Karlův</em></td></tr>
+  <tr><td><tt><tt><a href="cs_cac-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="cs_cac-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="cs_cac-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td></td><td><em>Karlův</em></td></tr>
+  <tr><td><tt><tt><a href="cs_cac-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="cs_cac-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="cs_cac-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>Karlovy</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="cs_cac-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="cs_cac-feat-Case.html">Case</a></tt><tt>=Loc</tt>|<tt><a href="cs_cac-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>Karlových</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="cs_cac-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="cs_cac-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="cs_cac-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td></td><td><em>Karlův</em></td></tr>
+  <tr><td><tt><tt><a href="cs_cac-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="cs_cac-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="cs_cac-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>Karlovy</em></td><td></td><td><em>Karlovy</em></td></tr>
+  <tr><td><tt><tt><a href="cs_cac-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="cs_cac-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td></td><td><em>Karlovy</em></td></tr>
+  <tr><td><tt><tt><a href="cs_cac-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="cs_cac-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>Karlových</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="cs_cac-feat-Case.html">Case</a></tt><tt>=Loc</tt>|<tt><a href="cs_cac-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td></td><td><em>Karlově</em></td></tr>
+  <tr><td><tt><tt><a href="cs_cac-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="cs_cac-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>Karlovo</em></td><td></td></tr>
 </table>
 
 `NameType` seems to be **lexical feature** of `ADJ`. 97% lemmas (347) occur only with one value of `NameType`.
@@ -96,9 +96,9 @@ The most frequent other feature values with which `ADP` and `NameType` co-occurr
 
 `ADP` tokens may have the following values of `NameType`:
 
-* `Com` (2; 50% of non-empty `NameType`): Pro pour
-* `Oth` (1; 25% of non-empty `NameType`): aus
-* `Pro` (1; 25% of non-empty `NameType`): della
+* `Com` (2; 50% of non-empty `NameType`): <em>Pro, pour</em>
+* `Oth` (1; 25% of non-empty `NameType`): <em>aus</em>
+* `Pro` (1; 25% of non-empty `NameType`): <em>della</em>
 
 ### `PART`
 
@@ -106,8 +106,18 @@ The most frequent other feature values with which `ADP` and `NameType` co-occurr
 
 `PART` tokens may have the following values of `NameType`:
 
-* `Geo` (3; 75% of non-empty `NameType`): el La
-* `Oth` (1; 25% of non-empty `NameType`): Al
+* `Geo` (3; 75% of non-empty `NameType`): <em>el, La</em>
+* `Oth` (1; 25% of non-empty `NameType`): <em>Al</em>
+
+### `PRON`
+
+1 <tt><a href="cs_cac-pos-PRON.html">PRON</a></tt> tokens (0% of all `PRON` tokens) have a non-empty value of `NameType`.
+
+The most frequent other feature values with which `PRON` and `NameType` co-occurred: <tt><a href="cs_cac-feat-Case.html">Case</a></tt><tt>=Acc</tt> (1; 100%), <tt><a href="cs_cac-feat-PrepCase.html">PrepCase</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Plur</tt> (1; 100%), <tt><a href="cs_cac-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="cs_cac-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="cs_cac-feat-PronType.html">PronType</a></tt><tt>=Tot</tt> (1; 100%), <tt><a href="cs_cac-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (1; 100%), <tt><a href="cs_cac-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (1; 100%).
+
+`PRON` tokens may have the following values of `NameType`:
+
+* `Com` (1; 100% of non-empty `NameType`): <em>Tous</em>
 
 ### `CCONJ`
 
@@ -115,17 +125,7 @@ The most frequent other feature values with which `ADP` and `NameType` co-occurr
 
 `CCONJ` tokens may have the following values of `NameType`:
 
-* `Com` (1; 100% of non-empty `NameType`): and
-
-### `PRON`
-
-1 <tt><a href="cs_cac-pos-PRON.html">PRON</a></tt> tokens (0% of all `PRON` tokens) have a non-empty value of `NameType`.
-
-The most frequent other feature values with which `PRON` and `NameType` co-occurred: <tt><a href="cs_cac-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="cs_cac-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="cs_cac-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="cs_cac-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (1; 100%), <tt><a href="cs_cac-feat-PronType.html">PronType</a></tt><tt>=Tot</tt> (1; 100%), <tt><a href="cs_cac-feat-Case.html">Case</a></tt><tt>=Acc</tt> (1; 100%), <tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Plur</tt> (1; 100%), <tt><a href="cs_cac-feat-PrepCase.html">PrepCase</a></tt><tt>=EMPTY</tt> (1; 100%).
-
-`PRON` tokens may have the following values of `NameType`:
-
-* `Com` (1; 100% of non-empty `NameType`): Tous
+* `Com` (1; 100% of non-empty `NameType`): <em>and</em>
 
 ## Relations with Agreement in `NameType`
 
@@ -134,10 +134,10 @@ The 10 most frequent relations where parent and child node agree in `NameType`:
 <tt>PROPN --[<tt><a href="cs_cac-dep-orphan.html">orphan</a></tt>]--> PROPN</tt> (96; 86%),
 <tt>ADJ --[<tt><a href="cs_cac-dep-conj.html">conj</a></tt>]--> ADJ</tt> (24; 89%),
 <tt>PROPN --[<tt><a href="cs_cac-dep-dep.html">dep</a></tt>]--> PROPN</tt> (8; 57%),
-<tt>PROPN --[<tt><a href="cs_cac-dep-xcomp.html">xcomp</a></tt>]--> PROPN</tt> (7; 100%),
 <tt>ADJ --[<tt><a href="cs_cac-dep-conj.html">conj</a></tt>]--> PROPN</tt> (7; 54%),
+<tt>PROPN --[<tt><a href="cs_cac-dep-xcomp.html">xcomp</a></tt>]--> PROPN</tt> (7; 100%),
 <tt>PROPN --[<tt><a href="cs_cac-dep-flat-foreign.html">flat:foreign</a></tt>]--> ADJ</tt> (6; 86%),
-<tt>ADJ --[<tt><a href="cs_cac-dep-amod.html">amod</a></tt>]--> ADJ</tt> (4; 57%),
 <tt>PROPN --[<tt><a href="cs_cac-dep-obj.html">obj</a></tt>]--> PROPN</tt> (4; 80%),
-<tt>PROPN --[<tt><a href="cs_cac-dep-appos.html">appos</a></tt>]--> PROPN</tt> (3; 60%).
+<tt>ADJ --[<tt><a href="cs_cac-dep-amod.html">amod</a></tt>]--> ADJ</tt> (4; 57%),
+<tt>PROPN --[<tt><a href="cs_cac-dep-obl.html">obl</a></tt>]--> PROPN</tt> (3; 75%).
 

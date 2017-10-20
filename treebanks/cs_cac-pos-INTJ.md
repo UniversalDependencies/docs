@@ -9,9 +9,9 @@ udver: '2'
 There are 9 `INTJ` lemmas (0%), 9 `INTJ` types (0%) and 15 `INTJ` tokens (0%).
 Out of 16 observed tags, the rank of `INTJ` is: 14 in number of lemmas, 15 in number of types and 16 in number of tokens.
 
-The 10 most frequent `INTJ` lemmas: běda fajn fí budíčééék haló hej ježišmarjá panečku vida
+The 10 most frequent `INTJ` lemmas: <em>běda, fajn, fí, budíčééék, haló, hej, ježišmarjá, panečku, vida</em>
 
-The 10 most frequent `INTJ` types:  běda fajn fí Budíčééék Haló Ježišmarjá Vida hej panečku
+The 10 most frequent `INTJ` types:  <em>běda, fajn, fí, Budíčééék, Haló, Ježišmarjá, Vida, hej, panečku</em>
 
 The 10 most frequent ambiguous lemmas: 
 
@@ -23,11 +23,11 @@ The 10 most frequent ambiguous types:
 
 The form / lemma ratio of `INTJ` is 1.000000 (the average of all parts of speech is 2.186309).
 
-The 1st highest number of forms (1) was observed with the lemma “budíčééék”: Budíčééék.
+The 1st highest number of forms (1) was observed with the lemma “budíčééék”: <em>Budíčééék</em>.
 
-The 2nd highest number of forms (1) was observed with the lemma “běda”: běda.
+The 2nd highest number of forms (1) was observed with the lemma “běda”: <em>běda</em>.
 
-The 3rd highest number of forms (1) was observed with the lemma “fajn”: fajn.
+The 3rd highest number of forms (1) was observed with the lemma “fajn”: <em>fajn</em>.
 
 `INTJ` does not occur with any features.
 

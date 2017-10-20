@@ -22,8 +22,8 @@ The most frequent other feature values with which `PRON` and `Reflex` co-occurre
 
 `PRON` tokens may have the following values of `Reflex`:
 
-* `Yes` (475; 100% of non-empty `Reflex`): se sobě sebou si
-* `EMPTY` (737): které která který to kterých kterým kterém kterému nichž všech
+* `Yes` (475; 100% of non-empty `Reflex`): <em>se, sobě, sebou, si</em>
+* `EMPTY` (737): <em>které, která, který, to, kterých, kterým, kterém, kterému, nichž, všech</em>
 
 ### `DET`
 
@@ -33,6 +33,6 @@ The most frequent other feature values with which `DET` and `Reflex` co-occurred
 
 `DET` tokens may have the following values of `Reflex`:
 
-* `Yes` (24; 100% of non-empty `Reflex`): své svého svých svůj svoji svým svou
-* `EMPTY` (571): jejich jeho této tohoto těchto tyto tato tento její tomto
+* `Yes` (24; 100% of non-empty `Reflex`): <em>své, svého, svých, svůj, svoji, svým, svou</em>
+* `EMPTY` (571): <em>jejich, jeho, této, tohoto, těchto, tyto, tato, tento, její, tomto</em>
 

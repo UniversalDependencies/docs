@@ -9,56 +9,56 @@ udver: '2'
 There are 11128 `NOUN` lemmas (39%), 23495 `NOUN` types (37%) and 136182 `NOUN` tokens (28%).
 Out of 16 observed tags, the rank of `NOUN` is: 1 in number of lemmas, 1 in number of types and 1 in number of tokens.
 
-The 10 most frequent `NOUN` lemmas: rok práce člověk doba úkol pracovník oblast vztah výroba výsledek
+The 10 most frequent `NOUN` lemmas: <em>rok, práce, člověk, doba, úkol, pracovník, oblast, vztah, výroba, výsledek</em>
 
-The 10 most frequent `NOUN` types:  práce roce let práci roku oblasti době společnosti hlediska činnosti
+The 10 most frequent `NOUN` types:  <em>práce, roce, let, práci, roku, oblasti, době, společnosti, hlediska, činnosti</em>
 
-The 10 most frequent ambiguous lemmas: místo (<tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> 366, <tt><a href="cs_cac-pos-ADP.html">ADP</a></tt> 50, <tt><a href="cs_cac-pos-SCONJ.html">SCONJ</a></tt> 2), potřeba (<tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> 303, <tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt> 14), vedoucí (<tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> 187, <tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt> 90), třída (<tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> 176, <tt><a href="cs_cac-pos-PROPN.html">PROPN</a></tt> 1), stát (<tt><a href="cs_cac-pos-VERB.html">VERB</a></tt> 348, <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> 169), růst (<tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> 104, <tt><a href="cs_cac-pos-VERB.html">VERB</a></tt> 58), výše (<tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> 80, <tt><a href="cs_cac-pos-ADV.html">ADV</a></tt> 25), ulice (<tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> 75, <tt><a href="cs_cac-pos-PROPN.html">PROPN</a></tt> 2), doprava (<tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> 68, <tt><a href="cs_cac-pos-ADV.html">ADV</a></tt> 2), fakt (<tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> 64, <tt><a href="cs_cac-pos-PART.html">PART</a></tt> 1, <tt><a href="cs_cac-pos-ADV.html">ADV</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>místo</em> (<tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> 366, <tt><a href="cs_cac-pos-ADP.html">ADP</a></tt> 50, <tt><a href="cs_cac-pos-SCONJ.html">SCONJ</a></tt> 2), <em>potřeba</em> (<tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> 303, <tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt> 14), <em>vedoucí</em> (<tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> 187, <tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt> 90), <em>třída</em> (<tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> 176, <tt><a href="cs_cac-pos-PROPN.html">PROPN</a></tt> 1), <em>stát</em> (<tt><a href="cs_cac-pos-VERB.html">VERB</a></tt> 348, <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> 169), <em>růst</em> (<tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> 104, <tt><a href="cs_cac-pos-VERB.html">VERB</a></tt> 58), <em>výše</em> (<tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> 80, <tt><a href="cs_cac-pos-ADV.html">ADV</a></tt> 25), <em>ulice</em> (<tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> 75, <tt><a href="cs_cac-pos-PROPN.html">PROPN</a></tt> 2), <em>doprava</em> (<tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> 68, <tt><a href="cs_cac-pos-ADV.html">ADV</a></tt> 2), <em>fakt</em> (<tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> 64, <tt><a href="cs_cac-pos-ADV.html">ADV</a></tt> 1, <tt><a href="cs_cac-pos-PART.html">PART</a></tt> 1)
 
-The 10 most frequent ambiguous types:  prací (<tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> 144, <tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt> 13), oddělení (<tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> 139, <tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt> 1), vedoucí (<tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> 86, <tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt> 51), místo (<tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> 99, <tt><a href="cs_cac-pos-ADP.html">ADP</a></tt> 42, <tt><a href="cs_cac-pos-SCONJ.html">SCONJ</a></tt> 2), září (<tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> 73, <tt><a href="cs_cac-pos-VERB.html">VERB</a></tt> 1), vědomí (<tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> 61, <tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt> 1), fronty (<tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> 48, <tt><a href="cs_cac-pos-PROPN.html">PROPN</a></tt> 1), věda (<tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> 38, <tt><a href="cs_cac-pos-VERB.html">VERB</a></tt> 1), růst (<tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> 40, <tt><a href="cs_cac-pos-VERB.html">VERB</a></tt> 5), pracích (<tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> 41, <tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt> 3)
+The 10 most frequent ambiguous types:  <em>prací</em> (<tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> 144, <tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt> 13), <em>oddělení</em> (<tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> 139, <tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt> 1), <em>vedoucí</em> (<tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> 86, <tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt> 51), <em>místo</em> (<tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> 99, <tt><a href="cs_cac-pos-ADP.html">ADP</a></tt> 42, <tt><a href="cs_cac-pos-SCONJ.html">SCONJ</a></tt> 2), <em>září</em> (<tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> 73, <tt><a href="cs_cac-pos-VERB.html">VERB</a></tt> 1), <em>vědomí</em> (<tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> 61, <tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt> 1), <em>fronty</em> (<tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> 48, <tt><a href="cs_cac-pos-PROPN.html">PROPN</a></tt> 1), <em>věda</em> (<tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> 38, <tt><a href="cs_cac-pos-VERB.html">VERB</a></tt> 1), <em>růst</em> (<tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> 40, <tt><a href="cs_cac-pos-VERB.html">VERB</a></tt> 5), <em>pracích</em> (<tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> 41, <tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt> 3)
 
 
-* prací
-  * <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> 144: Uskuteční se jednání s Vodními zdroji o zajištění pozorovacích <b>prací</b> .
-  * <tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt> 13: Samet , manšestr , dyftýn a <b>prací</b> kord žehlete nadlehčováním žehličky .
-* oddělení
-  * <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> 139: * Vacků , vedoucí <b>oddělení</b> PAM .
-  * <tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt> 1: Soukromým vlastnictvím <b>oddělení</b> výrobci mohou být navenek spojeni pouze trhem , prostřednictvím koupě , prodeje .
-* vedoucí
-  * <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> 86: Však si také <b>vedoucí</b> třídičky Pánek pochvaloval .
-  * <tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt> 51: Patří k nim i <b>vedoucí</b> představitel kodaňské školy * Hjelmslev .
-* místo
-  * <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> 99: Významné <b>místo</b> mezi nimi má marxistická sociologie .
-  * <tt><a href="cs_cac-pos-ADP.html">ADP</a></tt> 42: Pletou si , čtou * <b>místo</b> slova pes nebo * .
-  * <tt><a href="cs_cac-pos-SCONJ.html">SCONJ</a></tt> 2: Vytýká se jim však , že celkem zbytečně vytvářejí nové problémy a pak se lopotí s jejich řešením , že život komplikují , <b>místo</b> aby by jej zjednodušovali .
-* září
-  * <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> 73: Dům je otevřen od dubna do <b>září</b> od # do # hodin .
-  * <tt><a href="cs_cac-pos-VERB.html">VERB</a></tt> 1: Proti nám se loudá mladá dvojice , pastelové pruhy triček <b>září</b> do daleka , prsty pevně propleteny , po boku dívky bimbá kabela s třásněmi , tihle dva zatím mají času dost , prošli parky Vyšehradu a teď to berou kolem Vltavy , ještě nevědí , kde odbočí , * - li prolézat Staré Město , uličku po uličce , nebo zakotví - li v Letenských sadech .
-* vědomí
-  * <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> 61: Nebrali mě na <b>vědomí</b> .
-  * <tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt> 1: Jako metodu výkladu jsme zvolili , <b>vědomí</b> si toho , že možností je více , metodu historickou , chronologický postup sledující v reprezentativním výběru řešení otázek humanismu v naší filozofii od nejstaršího období , jakmile je můžeme začít sledovat , až po současnost .
-* fronty
-  * <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> 48: Vyslovili jsme tím souhlas s volebním programem Národní <b>fronty</b> .
-  * <tt><a href="cs_cac-pos-PROPN.html">PROPN</a></tt> 1: * Králík je dopisovatelem krajského deníku Svoboda a Mladé <b>fronty</b> , členem výboru Hudební mládeže ČSR při * kultury .
-* věda
-  * <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> 38: Teorií znaku se zabývá obecná <b>věda</b> o znaku , sémilogie .
-  * <tt><a href="cs_cac-pos-VERB.html">VERB</a></tt> 1: Neváhal jsem jí tento poznatek sdělit , <b>věda</b> , že tohle každou ženu potěší .
-* růst
-  * <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> 40: Společenská potřeba po druhé světové válce vyvolala intenzívní <b>růst</b> vědecké práce v matematice .
-  * <tt><a href="cs_cac-pos-VERB.html">VERB</a></tt> 5: Nevěděl sice o tom , ale stejně si nechal <b>růst</b> plnovous .
-* pracích
-  * <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> 41: I nyní v podzimních <b>pracích</b> platí staré heslo .
-  * <tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt> 3: Perte ručně v jemných <b>pracích</b> prostředcích v roztoku teplém do # * .
+* <em>prací</em>
+  * <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> 144: <em>Uskuteční se jednání s Vodními zdroji o zajištění pozorovacích <b>prací</b> .</em>
+  * <tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt> 13: <em>Samet , manšestr , dyftýn a <b>prací</b> kord žehlete nadlehčováním žehličky .</em>
+* <em>oddělení</em>
+  * <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> 139: <em>* Vacků , vedoucí <b>oddělení</b> PAM .</em>
+  * <tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt> 1: <em>Soukromým vlastnictvím <b>oddělení</b> výrobci mohou být navenek spojeni pouze trhem , prostřednictvím koupě , prodeje .</em>
+* <em>vedoucí</em>
+  * <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> 86: <em>Však si také <b>vedoucí</b> třídičky Pánek pochvaloval .</em>
+  * <tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt> 51: <em>Patří k nim i <b>vedoucí</b> představitel kodaňské školy * Hjelmslev .</em>
+* <em>místo</em>
+  * <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> 99: <em>Významné <b>místo</b> mezi nimi má marxistická sociologie .</em>
+  * <tt><a href="cs_cac-pos-ADP.html">ADP</a></tt> 42: <em>Pletou si , čtou * <b>místo</b> slova pes nebo * .</em>
+  * <tt><a href="cs_cac-pos-SCONJ.html">SCONJ</a></tt> 2: <em>Vytýká se jim však , že celkem zbytečně vytvářejí nové problémy a pak se lopotí s jejich řešením , že život komplikují , <b>místo</b> aby by jej zjednodušovali .</em>
+* <em>září</em>
+  * <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> 73: <em>Dům je otevřen od dubna do <b>září</b> od # do # hodin .</em>
+  * <tt><a href="cs_cac-pos-VERB.html">VERB</a></tt> 1: <em>Proti nám se loudá mladá dvojice , pastelové pruhy triček <b>září</b> do daleka , prsty pevně propleteny , po boku dívky bimbá kabela s třásněmi , tihle dva zatím mají času dost , prošli parky Vyšehradu a teď to berou kolem Vltavy , ještě nevědí , kde odbočí , * - li prolézat Staré Město , uličku po uličce , nebo zakotví - li v Letenských sadech .</em>
+* <em>vědomí</em>
+  * <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> 61: <em>Nebrali mě na <b>vědomí</b> .</em>
+  * <tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt> 1: <em>Jako metodu výkladu jsme zvolili , <b>vědomí</b> si toho , že možností je více , metodu historickou , chronologický postup sledující v reprezentativním výběru řešení otázek humanismu v naší filozofii od nejstaršího období , jakmile je můžeme začít sledovat , až po současnost .</em>
+* <em>fronty</em>
+  * <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> 48: <em>Vyslovili jsme tím souhlas s volebním programem Národní <b>fronty</b> .</em>
+  * <tt><a href="cs_cac-pos-PROPN.html">PROPN</a></tt> 1: <em>* Králík je dopisovatelem krajského deníku Svoboda a Mladé <b>fronty</b> , členem výboru Hudební mládeže ČSR při * kultury .</em>
+* <em>věda</em>
+  * <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> 38: <em>Teorií znaku se zabývá obecná <b>věda</b> o znaku , sémilogie .</em>
+  * <tt><a href="cs_cac-pos-VERB.html">VERB</a></tt> 1: <em>Neváhal jsem jí tento poznatek sdělit , <b>věda</b> , že tohle každou ženu potěší .</em>
+* <em>růst</em>
+  * <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> 40: <em>Společenská potřeba po druhé světové válce vyvolala intenzívní <b>růst</b> vědecké práce v matematice .</em>
+  * <tt><a href="cs_cac-pos-VERB.html">VERB</a></tt> 5: <em>Nevěděl sice o tom , ale stejně si nechal <b>růst</b> plnovous .</em>
+* <em>pracích</em>
+  * <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> 41: <em>I nyní v podzimních <b>pracích</b> platí staré heslo .</em>
+  * <tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt> 3: <em>Perte ručně v jemných <b>pracích</b> prostředcích v roztoku teplém do # * .</em>
 
 ## Morphology
 
 The form / lemma ratio of `NOUN` is 2.111341 (the average of all parts of speech is 2.186309).
 
-The 1st highest number of forms (11) was observed with the lemma “mistr”: Mistře, mistr, mistra, mistrem, mistrovi, mistrovou, mistrová, mistru, mistry, mistrů, mistři.
+The 1st highest number of forms (11) was observed with the lemma “mistr”: <em>Mistře, mistr, mistra, mistrem, mistrovi, mistrovou, mistrová, mistru, mistry, mistrů, mistři</em>.
 
-The 2nd highest number of forms (11) was observed with the lemma “řád”: řad, řadem, řadu, řady, řadů, řád, řádech, řádem, řádu, řády, řádů.
+The 2nd highest number of forms (11) was observed with the lemma “řád”: <em>řad, řadem, řadu, řady, řadů, řád, řádech, řádem, řádu, řády, řádů</em>.
 
-The 3rd highest number of forms (10) was observed with the lemma “den”: den, dne, dnech, dnem, dni, dnu, dny, dní, dnů, dnům.
+The 3rd highest number of forms (10) was observed with the lemma “den”: <em>den, dne, dnech, dnem, dni, dnu, dny, dní, dnů, dnům</em>.
 
 `NOUN` occurs with 9 features: <tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt> (136182; 100% instances), <tt><a href="cs_cac-feat-Gender.html">Gender</a></tt> (136143; 100% instances), <tt><a href="cs_cac-feat-Number.html">Number</a></tt> (135047; 99% instances), <tt><a href="cs_cac-feat-Case.html">Case</a></tt> (135026; 99% instances), <tt><a href="cs_cac-feat-Animacy.html">Animacy</a></tt> (56383; 41% instances), <tt><a href="cs_cac-feat-Abbr.html">Abbr</a></tt> (982; 1% instances), <tt><a href="cs_cac-feat-Foreign.html">Foreign</a></tt> (257; 0% instances), <tt><a href="cs_cac-feat-Style.html">Style</a></tt> (113; 0% instances), <tt><a href="cs_cac-feat-Aspect.html">Aspect</a></tt> (6; 0% instances)
 
@@ -66,7 +66,7 @@ The 3rd highest number of forms (10) was observed with the lemma “den”: den,
 
 `NOUN` occurs with 178 feature combinations.
 The most frequent feature combination is `Case=Gen|Gender=Fem|Number=Sing|Polarity=Pos` (12878 tokens).
-Examples: práce společnosti výroby strany činnosti doby vědy vody techniky teorie
+Examples: <em>práce, společnosti, výroby, strany, činnosti, doby, vědy, vody, techniky, teorie</em>
 
 
 ## Relations

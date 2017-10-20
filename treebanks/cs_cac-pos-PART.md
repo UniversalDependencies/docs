@@ -9,60 +9,60 @@ udver: '2'
 There are 43 `PART` lemmas (0%), 44 `PART` types (0%) and 3161 `PART` tokens (1%).
 Out of 16 observed tags, the rank of `PART` is: 10 in number of lemmas, 12 in number of types and 15 in number of tokens.
 
-The 10 most frequent `PART` lemmas: jen li až nejen asi ovšem ne jenom ať prý
+The 10 most frequent `PART` lemmas: <em>jen, li, až, nejen, asi, ovšem, ne, jenom, ať, prý</em>
 
-The 10 most frequent `PART` types:  jen li až nejen asi ovšem ne jenom ať prý
+The 10 most frequent `PART` types:  <em>jen, li, až, nejen, asi, ovšem, ne, jenom, ať, prý</em>
 
-The 10 most frequent ambiguous lemmas: jen (<tt><a href="cs_cac-pos-PART.html">PART</a></tt> 931, <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> 1), li (<tt><a href="cs_cac-pos-PART.html">PART</a></tt> 579, <tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt> 1), až (<tt><a href="cs_cac-pos-PART.html">PART</a></tt> 517, <tt><a href="cs_cac-pos-SCONJ.html">SCONJ</a></tt> 36, <tt><a href="cs_cac-pos-CCONJ.html">CCONJ</a></tt> 6), ovšem (<tt><a href="cs_cac-pos-PART.html">PART</a></tt> 211, <tt><a href="cs_cac-pos-ADV.html">ADV</a></tt> 14, <tt><a href="cs_cac-pos-CCONJ.html">CCONJ</a></tt> 5), ať (<tt><a href="cs_cac-pos-SCONJ.html">SCONJ</a></tt> 43, <tt><a href="cs_cac-pos-PART.html">PART</a></tt> 32), s (<tt><a href="cs_cac-pos-ADP.html">ADP</a></tt> 3842, <tt><a href="cs_cac-pos-PART.html">PART</a></tt> 13), co (<tt><a href="cs_cac-pos-PRON.html">PRON</a></tt> 525, <tt><a href="cs_cac-pos-ADV.html">ADV</a></tt> 166, <tt><a href="cs_cac-pos-SCONJ.html">SCONJ</a></tt> 16, <tt><a href="cs_cac-pos-PART.html">PART</a></tt> 3, <tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt> 1), la (<tt><a href="cs_cac-pos-PART.html">PART</a></tt> 2, <tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt> 1), Le (<tt><a href="cs_cac-pos-PART.html">PART</a></tt> 1, <tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt> 1), copak (<tt><a href="cs_cac-pos-PRON.html">PRON</a></tt> 7, <tt><a href="cs_cac-pos-PART.html">PART</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>jen</em> (<tt><a href="cs_cac-pos-PART.html">PART</a></tt> 931, <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> 1), <em>li</em> (<tt><a href="cs_cac-pos-PART.html">PART</a></tt> 579, <tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt> 1), <em>až</em> (<tt><a href="cs_cac-pos-PART.html">PART</a></tt> 517, <tt><a href="cs_cac-pos-SCONJ.html">SCONJ</a></tt> 36, <tt><a href="cs_cac-pos-CCONJ.html">CCONJ</a></tt> 6), <em>ovšem</em> (<tt><a href="cs_cac-pos-PART.html">PART</a></tt> 211, <tt><a href="cs_cac-pos-ADV.html">ADV</a></tt> 14, <tt><a href="cs_cac-pos-CCONJ.html">CCONJ</a></tt> 5), <em>ať</em> (<tt><a href="cs_cac-pos-SCONJ.html">SCONJ</a></tt> 43, <tt><a href="cs_cac-pos-PART.html">PART</a></tt> 32), <em>s</em> (<tt><a href="cs_cac-pos-ADP.html">ADP</a></tt> 3842, <tt><a href="cs_cac-pos-PART.html">PART</a></tt> 13), <em>co</em> (<tt><a href="cs_cac-pos-PRON.html">PRON</a></tt> 525, <tt><a href="cs_cac-pos-ADV.html">ADV</a></tt> 166, <tt><a href="cs_cac-pos-SCONJ.html">SCONJ</a></tt> 16, <tt><a href="cs_cac-pos-PART.html">PART</a></tt> 3, <tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt> 1), <em>la</em> (<tt><a href="cs_cac-pos-PART.html">PART</a></tt> 2, <tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt> 1), <em>Le</em> (<tt><a href="cs_cac-pos-PART.html">PART</a></tt> 1, <tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt> 1), <em>copak</em> (<tt><a href="cs_cac-pos-PRON.html">PRON</a></tt> 7, <tt><a href="cs_cac-pos-PART.html">PART</a></tt> 1)
 
-The 10 most frequent ambiguous types:  jen (<tt><a href="cs_cac-pos-PART.html">PART</a></tt> 873, <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> 1), až (<tt><a href="cs_cac-pos-PART.html">PART</a></tt> 502, <tt><a href="cs_cac-pos-SCONJ.html">SCONJ</a></tt> 32, <tt><a href="cs_cac-pos-CCONJ.html">CCONJ</a></tt> 6), ovšem (<tt><a href="cs_cac-pos-PART.html">PART</a></tt> 190, <tt><a href="cs_cac-pos-ADV.html">ADV</a></tt> 12, <tt><a href="cs_cac-pos-CCONJ.html">CCONJ</a></tt> 5), ať (<tt><a href="cs_cac-pos-SCONJ.html">SCONJ</a></tt> 42, <tt><a href="cs_cac-pos-PART.html">PART</a></tt> 27), s (<tt><a href="cs_cac-pos-ADP.html">ADP</a></tt> 3122, <tt><a href="cs_cac-pos-PART.html">PART</a></tt> 13), to (<tt><a href="cs_cac-pos-DET.html">DET</a></tt> 1895, <tt><a href="cs_cac-pos-PART.html">PART</a></tt> 11), La (<tt><a href="cs_cac-pos-PART.html">PART</a></tt> 3, <tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt> 1), co (<tt><a href="cs_cac-pos-PRON.html">PRON</a></tt> 382, <tt><a href="cs_cac-pos-ADV.html">ADV</a></tt> 160, <tt><a href="cs_cac-pos-SCONJ.html">SCONJ</a></tt> 15, <tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="cs_cac-pos-PART.html">PART</a></tt> 1), Copak (<tt><a href="cs_cac-pos-PRON.html">PRON</a></tt> 5, <tt><a href="cs_cac-pos-PART.html">PART</a></tt> 1), fakt (<tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> 18, <tt><a href="cs_cac-pos-PART.html">PART</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>jen</em> (<tt><a href="cs_cac-pos-PART.html">PART</a></tt> 873, <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> 1), <em>až</em> (<tt><a href="cs_cac-pos-PART.html">PART</a></tt> 502, <tt><a href="cs_cac-pos-SCONJ.html">SCONJ</a></tt> 32, <tt><a href="cs_cac-pos-CCONJ.html">CCONJ</a></tt> 6), <em>ovšem</em> (<tt><a href="cs_cac-pos-PART.html">PART</a></tt> 190, <tt><a href="cs_cac-pos-ADV.html">ADV</a></tt> 12, <tt><a href="cs_cac-pos-CCONJ.html">CCONJ</a></tt> 5), <em>ať</em> (<tt><a href="cs_cac-pos-SCONJ.html">SCONJ</a></tt> 42, <tt><a href="cs_cac-pos-PART.html">PART</a></tt> 27), <em>s</em> (<tt><a href="cs_cac-pos-ADP.html">ADP</a></tt> 3122, <tt><a href="cs_cac-pos-PART.html">PART</a></tt> 13), <em>to</em> (<tt><a href="cs_cac-pos-DET.html">DET</a></tt> 1895, <tt><a href="cs_cac-pos-PART.html">PART</a></tt> 11), <em>La</em> (<tt><a href="cs_cac-pos-PART.html">PART</a></tt> 3, <tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt> 1), <em>co</em> (<tt><a href="cs_cac-pos-PRON.html">PRON</a></tt> 382, <tt><a href="cs_cac-pos-ADV.html">ADV</a></tt> 160, <tt><a href="cs_cac-pos-SCONJ.html">SCONJ</a></tt> 15, <tt><a href="cs_cac-pos-PART.html">PART</a></tt> 1, <tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt> 1), <em>Copak</em> (<tt><a href="cs_cac-pos-PRON.html">PRON</a></tt> 5, <tt><a href="cs_cac-pos-PART.html">PART</a></tt> 1), <em>fakt</em> (<tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> 18, <tt><a href="cs_cac-pos-PART.html">PART</a></tt> 1)
 
 
-* jen
-  * <tt><a href="cs_cac-pos-PART.html">PART</a></tt> 873: Nezůstalo však <b>jen</b> při dobrém úmyslu .
-  * <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> 1: V květnu vypukla vlna , kdy majitelé dolarů chtěli stabilnější měnu , především západoněmeckou marku , švýcarský frank nebo japonský <b>jen</b> .
-* až
-  * <tt><a href="cs_cac-pos-PART.html">PART</a></tt> 502: Jsou špinavě žluté <b>až</b> černohnědé .
-  * <tt><a href="cs_cac-pos-SCONJ.html">SCONJ</a></tt> 32: Čistíme tenkrát , <b>až</b> vychladne , a po odpojení přívodu ze zásuvky .
-  * <tt><a href="cs_cac-pos-CCONJ.html">CCONJ</a></tt> 6: Hranolky mají plochu průřezu # až # , # <b>až</b> # * .
-* ovšem
-  * <tt><a href="cs_cac-pos-PART.html">PART</a></tt> 190: Typy pleti nejsou <b>ovšem</b> stálé .
-  * <tt><a href="cs_cac-pos-ADV.html">ADV</a></tt> 12: Je tu <b>ovšem</b> otázka , které proměnné lze považovat za motivační .
-  * <tt><a href="cs_cac-pos-CCONJ.html">CCONJ</a></tt> 5: " Náklady účastníků budou <b>ovšem</b> mnohem vyšší . "
-* ať
-  * <tt><a href="cs_cac-pos-SCONJ.html">SCONJ</a></tt> 42: Řekl jsem jim , <b>ať</b> toho nechají .
-  * <tt><a href="cs_cac-pos-PART.html">PART</a></tt> 27: Připomínejme si je častěji a řiďme se jím , <b>ať</b> pracujeme kdekoliv .
-* s
-  * <tt><a href="cs_cac-pos-ADP.html">ADP</a></tt> 3122: V říjnu bude sjednocovací řízení <b>s</b> HDP Praha .
-  * <tt><a href="cs_cac-pos-PART.html">PART</a></tt> 13: Společenské vědy nebyly <b>s</b> to dávat uspokojivé odpovědi na četné aktuální otázky dalšího vývoje socialismu .
-* to
-  * <tt><a href="cs_cac-pos-DET.html">DET</a></tt> 1895: Odpověď člena Rady KNV bratra Kozáka <b>to</b> vyřešila .
-  * <tt><a href="cs_cac-pos-PART.html">PART</a></tt> 11: Společenské vědy nebyly s <b>to</b> dávat uspokojivé odpovědi na četné aktuální otázky dalšího vývoje socialismu .
-* La
-  * <tt><a href="cs_cac-pos-PART.html">PART</a></tt> 3: Proto se čtveřice Vláďa , Jiří , Věra a Dana mohla vydat přes kanál <b>La</b> * .
-  * <tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt> 1: President Československé socialistické republiky propůjčil mistru sportu , nadpraporčíku Františku Venclovskému vyznamenání Za statečnost , za prokázanou osobní odvahu a příkladnou bojovnost při plavbě kanálem <b>La</b> Manche .
-* co
-  * <tt><a href="cs_cac-pos-PRON.html">PRON</a></tt> 382: Tak <b>co</b> bude , mládenci .
-  * <tt><a href="cs_cac-pos-ADV.html">ADV</a></tt> 160: V naší době se musíme udržet <b>co</b> nejdéle mladé .
-  * <tt><a href="cs_cac-pos-SCONJ.html">SCONJ</a></tt> 15: Bude tomu měsíc , <b>co</b> narukovali .
-  * <tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt> 1: Usilují přitom o vypracování jakési ontologie společenskosti , která současně z druhé strany má reflektovat a zpřítomňovat společenský charakter ontologie tkvící již v samotné podstatě člověka definovaného jakožto zoon politikon , jemuž odpovídá , že lidská existence je současně a vždy také <b>co</b> - existence .
-  * <tt><a href="cs_cac-pos-PART.html">PART</a></tt> 1: Ale <b>co</b> , zatím jsem fejeton ještě stačil díky psacímu stroji napsat .
-* Copak
-  * <tt><a href="cs_cac-pos-PRON.html">PRON</a></tt> 5: <b>Copak</b> to není jedno , jestli oráš za loukama , nebo na Kyšický ?
-  * <tt><a href="cs_cac-pos-PART.html">PART</a></tt> 1: <b>Copak</b> my , my tam byli v únoru , kdy počasí ještě krásně ujde , ale když potom začne být těch padesát stupňů a v tom máte dělat , to jsou teda těžce vydělané peníze .
-* fakt
-  * <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> 18: To je dnes natolik samozřejmý <b>fakt</b> , že jej zná každý člověk .
-  * <tt><a href="cs_cac-pos-PART.html">PART</a></tt> 1: Musíme se zamyslet nad tím , jestli to <b>fakt</b> děláme dobře , jestli jsme vskutku přitažlivou organizací .
+* <em>jen</em>
+  * <tt><a href="cs_cac-pos-PART.html">PART</a></tt> 873: <em>Nezůstalo však <b>jen</b> při dobrém úmyslu .</em>
+  * <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> 1: <em>V květnu vypukla vlna , kdy majitelé dolarů chtěli stabilnější měnu , především západoněmeckou marku , švýcarský frank nebo japonský <b>jen</b> .</em>
+* <em>až</em>
+  * <tt><a href="cs_cac-pos-PART.html">PART</a></tt> 502: <em>Jsou špinavě žluté <b>až</b> černohnědé .</em>
+  * <tt><a href="cs_cac-pos-SCONJ.html">SCONJ</a></tt> 32: <em>Čistíme tenkrát , <b>až</b> vychladne , a po odpojení přívodu ze zásuvky .</em>
+  * <tt><a href="cs_cac-pos-CCONJ.html">CCONJ</a></tt> 6: <em>Hranolky mají plochu průřezu # až # , # <b>až</b> # * .</em>
+* <em>ovšem</em>
+  * <tt><a href="cs_cac-pos-PART.html">PART</a></tt> 190: <em>Typy pleti nejsou <b>ovšem</b> stálé .</em>
+  * <tt><a href="cs_cac-pos-ADV.html">ADV</a></tt> 12: <em>Je tu <b>ovšem</b> otázka , které proměnné lze považovat za motivační .</em>
+  * <tt><a href="cs_cac-pos-CCONJ.html">CCONJ</a></tt> 5: <em>" Náklady účastníků budou <b>ovšem</b> mnohem vyšší . "</em>
+* <em>ať</em>
+  * <tt><a href="cs_cac-pos-SCONJ.html">SCONJ</a></tt> 42: <em>Řekl jsem jim , <b>ať</b> toho nechají .</em>
+  * <tt><a href="cs_cac-pos-PART.html">PART</a></tt> 27: <em>Připomínejme si je častěji a řiďme se jím , <b>ať</b> pracujeme kdekoliv .</em>
+* <em>s</em>
+  * <tt><a href="cs_cac-pos-ADP.html">ADP</a></tt> 3122: <em>V říjnu bude sjednocovací řízení <b>s</b> HDP Praha .</em>
+  * <tt><a href="cs_cac-pos-PART.html">PART</a></tt> 13: <em>Společenské vědy nebyly <b>s</b> to dávat uspokojivé odpovědi na četné aktuální otázky dalšího vývoje socialismu .</em>
+* <em>to</em>
+  * <tt><a href="cs_cac-pos-DET.html">DET</a></tt> 1895: <em>Odpověď člena Rady KNV bratra Kozáka <b>to</b> vyřešila .</em>
+  * <tt><a href="cs_cac-pos-PART.html">PART</a></tt> 11: <em>Společenské vědy nebyly s <b>to</b> dávat uspokojivé odpovědi na četné aktuální otázky dalšího vývoje socialismu .</em>
+* <em>La</em>
+  * <tt><a href="cs_cac-pos-PART.html">PART</a></tt> 3: <em>Proto se čtveřice Vláďa , Jiří , Věra a Dana mohla vydat přes kanál <b>La</b> * .</em>
+  * <tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt> 1: <em>President Československé socialistické republiky propůjčil mistru sportu , nadpraporčíku Františku Venclovskému vyznamenání Za statečnost , za prokázanou osobní odvahu a příkladnou bojovnost při plavbě kanálem <b>La</b> Manche .</em>
+* <em>co</em>
+  * <tt><a href="cs_cac-pos-PRON.html">PRON</a></tt> 382: <em>Tak <b>co</b> bude , mládenci .</em>
+  * <tt><a href="cs_cac-pos-ADV.html">ADV</a></tt> 160: <em>V naší době se musíme udržet <b>co</b> nejdéle mladé .</em>
+  * <tt><a href="cs_cac-pos-SCONJ.html">SCONJ</a></tt> 15: <em>Bude tomu měsíc , <b>co</b> narukovali .</em>
+  * <tt><a href="cs_cac-pos-PART.html">PART</a></tt> 1: <em>Ale <b>co</b> , zatím jsem fejeton ještě stačil díky psacímu stroji napsat .</em>
+  * <tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt> 1: <em>Usilují přitom o vypracování jakési ontologie společenskosti , která současně z druhé strany má reflektovat a zpřítomňovat společenský charakter ontologie tkvící již v samotné podstatě člověka definovaného jakožto zoon politikon , jemuž odpovídá , že lidská existence je současně a vždy také <b>co</b> - existence .</em>
+* <em>Copak</em>
+  * <tt><a href="cs_cac-pos-PRON.html">PRON</a></tt> 5: <em><b>Copak</b> to není jedno , jestli oráš za loukama , nebo na Kyšický ?</em>
+  * <tt><a href="cs_cac-pos-PART.html">PART</a></tt> 1: <em><b>Copak</b> my , my tam byli v únoru , kdy počasí ještě krásně ujde , ale když potom začne být těch padesát stupňů a v tom máte dělat , to jsou teda těžce vydělané peníze .</em>
+* <em>fakt</em>
+  * <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> 18: <em>To je dnes natolik samozřejmý <b>fakt</b> , že jej zná každý člověk .</em>
+  * <tt><a href="cs_cac-pos-PART.html">PART</a></tt> 1: <em>Musíme se zamyslet nad tím , jestli to <b>fakt</b> děláme dobře , jestli jsme vskutku přitažlivou organizací .</em>
 
 ## Morphology
 
 The form / lemma ratio of `PART` is 1.023256 (the average of all parts of speech is 2.186309).
 
-The 1st highest number of forms (2) was observed with the lemma “das”: das, des.
+The 1st highest number of forms (2) was observed with the lemma “das”: <em>das, des</em>.
 
-The 2nd highest number of forms (1) was observed with the lemma “Al”: Al.
+The 2nd highest number of forms (1) was observed with the lemma “Al”: <em>Al</em>.
 
-The 3rd highest number of forms (1) was observed with the lemma “La”: La.
+The 3rd highest number of forms (1) was observed with the lemma “La”: <em>La</em>.
 
 `PART` occurs with 3 features: <tt><a href="cs_cac-feat-Foreign.html">Foreign</a></tt> (14; 0% instances), <tt><a href="cs_cac-feat-NameType.html">NameType</a></tt> (4; 0% instances), <tt><a href="cs_cac-feat-Style.html">Style</a></tt> (3; 0% instances)
 
@@ -70,7 +70,7 @@ The 3rd highest number of forms (1) was observed with the lemma “La”: La.
 
 `PART` occurs with 5 feature combinations.
 The most frequent feature combination is `_` (3144 tokens).
-Examples: jen li až nejen asi ovšem ne jenom ať prý
+Examples: <em>jen, li, až, nejen, asi, ovšem, ne, jenom, ať, prý</em>
 
 
 ## Relations

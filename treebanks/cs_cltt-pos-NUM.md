@@ -9,55 +9,55 @@ udver: '2'
 There are 83 `NUM` lemmas (3%), 97 `NUM` types (2%) and 440 `NUM` tokens (1%).
 Out of 15 observed tags, the rank of `NUM` is: 6 in number of lemmas, 6 in number of types and 12 in number of tokens.
 
-The 10 most frequent `NUM` lemmas: 1 3 2 jeden 4 5 dva 41 7 dvanáct
+The 10 most frequent `NUM` lemmas: <em>1, 3, 2, jeden, 4, 5, dva, 41, 7, dvanáct</em>
 
-The 10 most frequent `NUM` types:  1 3 2 4 jeden 5 41 7 jedné tří
+The 10 most frequent `NUM` types:  <em>1, 3, 2, 4, jeden, 5, 41, 7, jedné, tří</em>
 
-The 10 most frequent ambiguous lemmas: 1 (<tt><a href="cs_cltt-pos-NUM.html">NUM</a></tt> 104, <tt><a href="cs_cltt-pos-X.html">X</a></tt> 91), 3 (<tt><a href="cs_cltt-pos-X.html">X</a></tt> 62, <tt><a href="cs_cltt-pos-NUM.html">NUM</a></tt> 47), 2 (<tt><a href="cs_cltt-pos-X.html">X</a></tt> 81, <tt><a href="cs_cltt-pos-NUM.html">NUM</a></tt> 46), 4 (<tt><a href="cs_cltt-pos-X.html">X</a></tt> 39, <tt><a href="cs_cltt-pos-NUM.html">NUM</a></tt> 18), 5 (<tt><a href="cs_cltt-pos-X.html">X</a></tt> 19, <tt><a href="cs_cltt-pos-NUM.html">NUM</a></tt> 14), 41 (<tt><a href="cs_cltt-pos-NUM.html">NUM</a></tt> 7, <tt><a href="cs_cltt-pos-X.html">X</a></tt> 2), 7 (<tt><a href="cs_cltt-pos-X.html">X</a></tt> 22, <tt><a href="cs_cltt-pos-NUM.html">NUM</a></tt> 7), 10 (<tt><a href="cs_cltt-pos-X.html">X</a></tt> 9, <tt><a href="cs_cltt-pos-NUM.html">NUM</a></tt> 5), 31 (<tt><a href="cs_cltt-pos-X.html">X</a></tt> 10, <tt><a href="cs_cltt-pos-NUM.html">NUM</a></tt> 5), 6 (<tt><a href="cs_cltt-pos-X.html">X</a></tt> 20, <tt><a href="cs_cltt-pos-NUM.html">NUM</a></tt> 5)
+The 10 most frequent ambiguous lemmas: <em>1</em> (<tt><a href="cs_cltt-pos-NUM.html">NUM</a></tt> 104, <tt><a href="cs_cltt-pos-X.html">X</a></tt> 91), <em>3</em> (<tt><a href="cs_cltt-pos-X.html">X</a></tt> 62, <tt><a href="cs_cltt-pos-NUM.html">NUM</a></tt> 47), <em>2</em> (<tt><a href="cs_cltt-pos-X.html">X</a></tt> 81, <tt><a href="cs_cltt-pos-NUM.html">NUM</a></tt> 46), <em>4</em> (<tt><a href="cs_cltt-pos-X.html">X</a></tt> 39, <tt><a href="cs_cltt-pos-NUM.html">NUM</a></tt> 18), <em>5</em> (<tt><a href="cs_cltt-pos-X.html">X</a></tt> 19, <tt><a href="cs_cltt-pos-NUM.html">NUM</a></tt> 14), <em>41</em> (<tt><a href="cs_cltt-pos-NUM.html">NUM</a></tt> 7, <tt><a href="cs_cltt-pos-X.html">X</a></tt> 2), <em>7</em> (<tt><a href="cs_cltt-pos-X.html">X</a></tt> 22, <tt><a href="cs_cltt-pos-NUM.html">NUM</a></tt> 7), <em>10</em> (<tt><a href="cs_cltt-pos-X.html">X</a></tt> 9, <tt><a href="cs_cltt-pos-NUM.html">NUM</a></tt> 5), <em>31</em> (<tt><a href="cs_cltt-pos-X.html">X</a></tt> 10, <tt><a href="cs_cltt-pos-NUM.html">NUM</a></tt> 5), <em>6</em> (<tt><a href="cs_cltt-pos-X.html">X</a></tt> 20, <tt><a href="cs_cltt-pos-NUM.html">NUM</a></tt> 5)
 
-The 10 most frequent ambiguous types:  1 (<tt><a href="cs_cltt-pos-NUM.html">NUM</a></tt> 104, <tt><a href="cs_cltt-pos-X.html">X</a></tt> 91), 3 (<tt><a href="cs_cltt-pos-X.html">X</a></tt> 62, <tt><a href="cs_cltt-pos-NUM.html">NUM</a></tt> 47), 2 (<tt><a href="cs_cltt-pos-X.html">X</a></tt> 81, <tt><a href="cs_cltt-pos-NUM.html">NUM</a></tt> 46), 4 (<tt><a href="cs_cltt-pos-X.html">X</a></tt> 39, <tt><a href="cs_cltt-pos-NUM.html">NUM</a></tt> 18), 5 (<tt><a href="cs_cltt-pos-X.html">X</a></tt> 19, <tt><a href="cs_cltt-pos-NUM.html">NUM</a></tt> 14), 41 (<tt><a href="cs_cltt-pos-NUM.html">NUM</a></tt> 7, <tt><a href="cs_cltt-pos-X.html">X</a></tt> 2), 7 (<tt><a href="cs_cltt-pos-X.html">X</a></tt> 22, <tt><a href="cs_cltt-pos-NUM.html">NUM</a></tt> 7), 10 (<tt><a href="cs_cltt-pos-X.html">X</a></tt> 9, <tt><a href="cs_cltt-pos-NUM.html">NUM</a></tt> 5), 31 (<tt><a href="cs_cltt-pos-X.html">X</a></tt> 10, <tt><a href="cs_cltt-pos-NUM.html">NUM</a></tt> 5), 6 (<tt><a href="cs_cltt-pos-X.html">X</a></tt> 20, <tt><a href="cs_cltt-pos-NUM.html">NUM</a></tt> 5)
+The 10 most frequent ambiguous types:  <em>1</em> (<tt><a href="cs_cltt-pos-NUM.html">NUM</a></tt> 104, <tt><a href="cs_cltt-pos-X.html">X</a></tt> 91), <em>3</em> (<tt><a href="cs_cltt-pos-X.html">X</a></tt> 62, <tt><a href="cs_cltt-pos-NUM.html">NUM</a></tt> 47), <em>2</em> (<tt><a href="cs_cltt-pos-X.html">X</a></tt> 81, <tt><a href="cs_cltt-pos-NUM.html">NUM</a></tt> 46), <em>4</em> (<tt><a href="cs_cltt-pos-X.html">X</a></tt> 39, <tt><a href="cs_cltt-pos-NUM.html">NUM</a></tt> 18), <em>5</em> (<tt><a href="cs_cltt-pos-X.html">X</a></tt> 19, <tt><a href="cs_cltt-pos-NUM.html">NUM</a></tt> 14), <em>41</em> (<tt><a href="cs_cltt-pos-NUM.html">NUM</a></tt> 7, <tt><a href="cs_cltt-pos-X.html">X</a></tt> 2), <em>7</em> (<tt><a href="cs_cltt-pos-X.html">X</a></tt> 22, <tt><a href="cs_cltt-pos-NUM.html">NUM</a></tt> 7), <em>10</em> (<tt><a href="cs_cltt-pos-X.html">X</a></tt> 9, <tt><a href="cs_cltt-pos-NUM.html">NUM</a></tt> 5), <em>31</em> (<tt><a href="cs_cltt-pos-X.html">X</a></tt> 10, <tt><a href="cs_cltt-pos-NUM.html">NUM</a></tt> 5), <em>6</em> (<tt><a href="cs_cltt-pos-X.html">X</a></tt> 20, <tt><a href="cs_cltt-pos-NUM.html">NUM</a></tt> 5)
 
 
-* 1
-  * <tt><a href="cs_cltt-pos-NUM.html">NUM</a></tt> 104: Tato vyhláška nabývá účinnosti dnem <b>1</b> . ledna 2003 .
-  * <tt><a href="cs_cltt-pos-X.html">X</a></tt> 91: (2) Ministerstvo může vydat vyhlášku k provedení § 36 odst. <b>1</b> .
-* 3
-  * <tt><a href="cs_cltt-pos-X.html">X</a></tt> 62: § <b>3</b>
-  * <tt><a href="cs_cltt-pos-NUM.html">NUM</a></tt> 47: (9) Kromě případů podle odstavců 1 a <b>3</b> žádný jiný účetní záznam nesmí být označován názvy podle § 18 odst. 1 .
-* 2
-  * <tt><a href="cs_cltt-pos-X.html">X</a></tt> 81: Výroční zpráva se nevyhotovuje v případech uvedených v § 20 odst. <b>2</b> .
-  * <tt><a href="cs_cltt-pos-NUM.html">NUM</a></tt> 46: (3) Uplatnění postupu podle odstavců 1 a <b>2</b> není porušením ustanovení § 3 odst. 1 a § 7 odst. 1 a 2 .
-* 4
-  * <tt><a href="cs_cltt-pos-X.html">X</a></tt> 39: Směrná účtová osnova je uvedena v příloze č. <b>4</b> k této vyhlášce .
-  * <tt><a href="cs_cltt-pos-NUM.html">NUM</a></tt> 18: (5) Při průběžné inventarizaci se odstavec <b>4</b> použije obdobně .
-* 5
-  * <tt><a href="cs_cltt-pos-X.html">X</a></tt> 19: § <b>5</b>
-  * <tt><a href="cs_cltt-pos-NUM.html">NUM</a></tt> 14: (6) Ustanovení odstavců 1 až <b>5</b> se nepoužijí při změně právní formy a přeshraničním přemístění sídla .
-* 41
-  * <tt><a href="cs_cltt-pos-NUM.html">NUM</a></tt> 7: (2) Změny reálné hodnoty derivátu zajišťujícího očekávané peněžní toky se účtují prostřednictvím rozvahových účtů v účtové skupině <b>41</b> .
-  * <tt><a href="cs_cltt-pos-X.html">X</a></tt> 2: § <b>41</b>
-* 7
-  * <tt><a href="cs_cltt-pos-X.html">X</a></tt> 22: § <b>7</b>
-  * <tt><a href="cs_cltt-pos-NUM.html">NUM</a></tt> 7: (8) Ustanovení odstavců 1 až <b>7</b> platí pro konsolidovanou účetní závěrku a výroční zprávu obdobně .
-* 10
-  * <tt><a href="cs_cltt-pos-X.html">X</a></tt> 9: § <b>10</b>
-  * <tt><a href="cs_cltt-pos-NUM.html">NUM</a></tt> 5: (8) Identifikačním záznamem se rozumí účetní záznam , který není podpisovým záznamem podle odstavce 4 , připojený k jinému účetnímu záznamu a) automaticky technickým prostředkem ( § 4 odst. 10 ) , nebo b) fyzickou osobou odpovědnou podle odstavce <b>10</b> , který umožňuje jednoznačné určení uvedeného technického prostředku nebo fyzické osoby .
-* 31
-  * <tt><a href="cs_cltt-pos-X.html">X</a></tt> 10: § <b>31</b>
-  * <tt><a href="cs_cltt-pos-NUM.html">NUM</a></tt> 5: 2 . Ustanovení čl. I bodu 4 se použije již v účetní závěrce sestavované ke dni <b>31</b> . prosince 2008 .
-* 6
-  * <tt><a href="cs_cltt-pos-X.html">X</a></tt> 20: § <b>6</b>
-  * <tt><a href="cs_cltt-pos-NUM.html">NUM</a></tt> 5: (7) Pro zahrnutí účetních jednotek pod společným vlivem do položek konsolidované účetní závěrky se přiměřeně použijí ustanovení odstavce <b>6</b> .
+* <em>1</em>
+  * <tt><a href="cs_cltt-pos-NUM.html">NUM</a></tt> 104: <em>Tato vyhláška nabývá účinnosti dnem <b>1</b> . ledna 2003 .</em>
+  * <tt><a href="cs_cltt-pos-X.html">X</a></tt> 91: <em>(2) Ministerstvo může vydat vyhlášku k provedení § 36 odst. <b>1</b> .</em>
+* <em>3</em>
+  * <tt><a href="cs_cltt-pos-X.html">X</a></tt> 62: <em>§ <b>3</b></em>
+  * <tt><a href="cs_cltt-pos-NUM.html">NUM</a></tt> 47: <em>(9) Kromě případů podle odstavců 1 a <b>3</b> žádný jiný účetní záznam nesmí být označován názvy podle § 18 odst. 1 .</em>
+* <em>2</em>
+  * <tt><a href="cs_cltt-pos-X.html">X</a></tt> 81: <em>Výroční zpráva se nevyhotovuje v případech uvedených v § 20 odst. <b>2</b> .</em>
+  * <tt><a href="cs_cltt-pos-NUM.html">NUM</a></tt> 46: <em>(3) Uplatnění postupu podle odstavců 1 a <b>2</b> není porušením ustanovení § 3 odst. 1 a § 7 odst. 1 a 2 .</em>
+* <em>4</em>
+  * <tt><a href="cs_cltt-pos-X.html">X</a></tt> 39: <em>Směrná účtová osnova je uvedena v příloze č. <b>4</b> k této vyhlášce .</em>
+  * <tt><a href="cs_cltt-pos-NUM.html">NUM</a></tt> 18: <em>(5) Při průběžné inventarizaci se odstavec <b>4</b> použije obdobně .</em>
+* <em>5</em>
+  * <tt><a href="cs_cltt-pos-X.html">X</a></tt> 19: <em>§ <b>5</b></em>
+  * <tt><a href="cs_cltt-pos-NUM.html">NUM</a></tt> 14: <em>(6) Ustanovení odstavců 1 až <b>5</b> se nepoužijí při změně právní formy a přeshraničním přemístění sídla .</em>
+* <em>41</em>
+  * <tt><a href="cs_cltt-pos-NUM.html">NUM</a></tt> 7: <em>(2) Změny reálné hodnoty derivátu zajišťujícího očekávané peněžní toky se účtují prostřednictvím rozvahových účtů v účtové skupině <b>41</b> .</em>
+  * <tt><a href="cs_cltt-pos-X.html">X</a></tt> 2: <em>§ <b>41</b></em>
+* <em>7</em>
+  * <tt><a href="cs_cltt-pos-X.html">X</a></tt> 22: <em>§ <b>7</b></em>
+  * <tt><a href="cs_cltt-pos-NUM.html">NUM</a></tt> 7: <em>(8) Ustanovení odstavců 1 až <b>7</b> platí pro konsolidovanou účetní závěrku a výroční zprávu obdobně .</em>
+* <em>10</em>
+  * <tt><a href="cs_cltt-pos-X.html">X</a></tt> 9: <em>§ <b>10</b></em>
+  * <tt><a href="cs_cltt-pos-NUM.html">NUM</a></tt> 5: <em>(8) Identifikačním záznamem se rozumí účetní záznam , který není podpisovým záznamem podle odstavce 4 , připojený k jinému účetnímu záznamu a) automaticky technickým prostředkem ( § 4 odst. 10 ) , nebo b) fyzickou osobou odpovědnou podle odstavce <b>10</b> , který umožňuje jednoznačné určení uvedeného technického prostředku nebo fyzické osoby .</em>
+* <em>31</em>
+  * <tt><a href="cs_cltt-pos-X.html">X</a></tt> 10: <em>§ <b>31</b></em>
+  * <tt><a href="cs_cltt-pos-NUM.html">NUM</a></tt> 5: <em>2 . Ustanovení čl. I bodu 4 se použije již v účetní závěrce sestavované ke dni <b>31</b> . prosince 2008 .</em>
+* <em>6</em>
+  * <tt><a href="cs_cltt-pos-X.html">X</a></tt> 20: <em>§ <b>6</b></em>
+  * <tt><a href="cs_cltt-pos-NUM.html">NUM</a></tt> 5: <em>(7) Pro zahrnutí účetních jednotek pod společným vlivem do položek konsolidované účetní závěrky se přiměřeně použijí ustanovení odstavce <b>6</b> .</em>
 
 ## Morphology
 
 The form / lemma ratio of `NUM` is 1.168675 (the average of all parts of speech is 1.752649).
 
-The 1st highest number of forms (9) was observed with the lemma “jeden”: jeden, jedno, jednoho, jednom, jednomu, jednou, jednu, jedné, jedním.
+The 1st highest number of forms (9) was observed with the lemma “jeden”: <em>jeden, jedno, jednoho, jednom, jednomu, jednou, jednu, jedné, jedním</em>.
 
-The 2nd highest number of forms (4) was observed with the lemma “dva”: dva, dvou, dvě, dvěma.
+The 2nd highest number of forms (4) was observed with the lemma “dva”: <em>dva, dvou, dvě, dvěma</em>.
 
-The 3rd highest number of forms (2) was observed with the lemma “dvanáct”: dvanáct, dvanácti.
+The 3rd highest number of forms (2) was observed with the lemma “dvanáct”: <em>dvanáct, dvanácti</em>.
 
 `NUM` occurs with 7 features: <tt><a href="cs_cltt-feat-NumForm.html">NumForm</a></tt> (440; 100% instances), <tt><a href="cs_cltt-feat-NumType.html">NumType</a></tt> (440; 100% instances), <tt><a href="cs_cltt-feat-Case.html">Case</a></tt> (69; 16% instances), <tt><a href="cs_cltt-feat-Number.html">Number</a></tt> (69; 16% instances), <tt><a href="cs_cltt-feat-NumValue.html">NumValue</a></tt> (58; 13% instances), <tt><a href="cs_cltt-feat-Gender.html">Gender</a></tt> (46; 10% instances), <tt><a href="cs_cltt-feat-Animacy.html">Animacy</a></tt> (12; 3% instances)
 
@@ -65,7 +65,7 @@ The 3rd highest number of forms (2) was observed with the lemma “dvanáct”: 
 
 `NUM` occurs with 20 feature combinations.
 The most frequent feature combination is `NumForm=Roman|NumType=Card` (371 tokens).
-Examples: 1 3 2 4 5 41 7 10 2004 2008
+Examples: <em>1, 3, 2, 4, 5, 41, 7, 10, 2004, 2008</em>
 
 
 ## Relations

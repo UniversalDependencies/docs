@@ -20,7 +20,7 @@ The feature is used with 2 part-of-speech tags: <tt><a href="cs-pos-SYM.html">SY
 
 `SYM` tokens may have the following values of `ConjType`:
 
-* `Oper` (120; 100% of non-empty `ConjType`): x
+* `Oper` (120; 100% of non-empty `ConjType`): <em>x</em>
 
 ### `CCONJ`
 
@@ -28,7 +28,7 @@ The feature is used with 2 part-of-speech tags: <tt><a href="cs-pos-SYM.html">SY
 
 `CCONJ` tokens may have the following values of `ConjType`:
 
-* `Oper` (50; 100% of non-empty `ConjType`): krát plus minus kráte
+* `Oper` (50; 100% of non-empty `ConjType`): <em>krát, plus, minus, kráte</em>
 
 ## Relations with Agreement in `ConjType`
 

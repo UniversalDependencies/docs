@@ -22,7 +22,7 @@ The most frequent other feature values with which `PRON` and `Variant` co-occurr
 
 `PRON` tokens may have the following values of `Variant`:
 
-* `Short` (9195; 100% of non-empty `Variant`): se si mu ho mi mě ti tě mně sis
+* `Short` (9195; 100% of non-empty `Variant`): <em>se, si, mu, ho, mi, mě, ti, tě, mně, sis</em>
 
 ### `ADJ`
 
@@ -32,7 +32,7 @@ The most frequent other feature values with which `ADJ` and `Variant` co-occurre
 
 `ADJ` tokens may have the following values of `Variant`:
 
-* `Short` (5064; 100% of non-empty `Variant`): možno nutno povinen řečeno dosaženo známo rád rádi věnována dána
+* `Short` (5064; 100% of non-empty `Variant`): <em>možno, nutno, povinen, řečeno, dosaženo, známo, rád, rádi, věnována, dána</em>
 
 `Variant` seems to be **lexical feature** of `ADJ`. 100% lemmas (1095) occur only with one value of `Variant`.
 

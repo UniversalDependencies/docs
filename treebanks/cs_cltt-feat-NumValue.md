@@ -23,5 +23,5 @@ The most frequent other feature values with which `NUM` and `NumValue` co-occurr
 
 `NUM` tokens may have the following values of `NumValue`:
 
-* `1,2,3` (58; 100% of non-empty `NumValue`): jeden jedné tří dvě jedno jednoho jednou obě dvou dvěma
+* `1,2,3` (58; 100% of non-empty `NumValue`): <em>jeden, jedné, tří, dvě, jedno, jednoho, jednou, obě, dvou, dvěma</em>
 

@@ -22,7 +22,7 @@ The most frequent other feature values with which `NUM` and `NumType` co-occurre
 
 `NUM` tokens may have the following values of `NumType`:
 
-* `Card` (440; 100% of non-empty `NumType`): 1 3 2 4 jeden 5 41 7 jedné tří
+* `Card` (440; 100% of non-empty `NumType`): <em>1, 3, 2, 4, jeden, 5, 41, 7, jedné, tří</em>
 
 `NumType` seems to be **lexical feature** of `NUM`. 100% lemmas (83) occur only with one value of `NumType`.
 
@@ -34,8 +34,8 @@ The most frequent other feature values with which `ADJ` and `NumType` co-occurre
 
 `ADJ` tokens may have the following values of `NumType`:
 
-* `Ord` (43; 100% of non-empty `NumType`): prvním prvnímu prvního první třetí PÁTÁ ČTVRTÁ ŠESTÁ SEDMÁ druhé
-* `EMPTY` (6496): účetní účetních účetního konsolidované konsolidující finanční účetním povinny výroční právní
+* `Ord` (43; 100% of non-empty `NumType`): <em>prvním, prvnímu, prvního, první, třetí, PÁTÁ, ČTVRTÁ, ŠESTÁ, SEDMÁ, druhé</em>
+* `EMPTY` (6496): <em>účetní, účetních, účetního, konsolidované, konsolidující, finanční, účetním, povinny, výroční, právní</em>
 
 ### `ADV`
 
@@ -45,9 +45,9 @@ The most frequent other feature values with which `ADV` and `NumType` co-occurre
 
 `ADV` tokens may have the following values of `NumType`:
 
-* `Mult` (3; 21% of non-empty `NumType`): jednou
-* `Ord` (11; 79% of non-empty `NumType`): poprvé
-* `EMPTY` (773): dále zejména popřípadě jinak pouze kdy též například tak více
+* `Mult` (3; 21% of non-empty `NumType`): <em>jednou</em>
+* `Ord` (11; 79% of non-empty `NumType`): <em>poprvé</em>
+* `EMPTY` (773): <em>dále, zejména, popřípadě, jinak, pouze, kdy, též, například, tak, více</em>
 
 ### `PRON`
 
@@ -57,8 +57,8 @@ The most frequent other feature values with which `PRON` and `NumType` co-occurr
 
 `PRON` tokens may have the following values of `NumType`:
 
-* `Card` (1; 100% of non-empty `NumType`): několika
-* `EMPTY` (1211): se které která který to kterých kterým kterém kterému nichž
+* `Card` (1; 100% of non-empty `NumType`): <em>několika</em>
+* `EMPTY` (1211): <em>se, které, která, který, to, kterých, kterým, kterém, kterému, nichž</em>
 
 ### `DET`
 
@@ -68,8 +68,8 @@ The most frequent other feature values with which `DET` and `NumType` co-occurre
 
 `DET` tokens may have the following values of `NumType`:
 
-* `Card` (1; 100% of non-empty `NumType`): několika
-* `EMPTY` (594): jejich jeho této tohoto těchto tyto tato tento její tomto
+* `Card` (1; 100% of non-empty `NumType`): <em>několika</em>
+* `EMPTY` (594): <em>jejich, jeho, této, tohoto, těchto, tyto, tato, tento, její, tomto</em>
 
 ## Relations with Agreement in `NumType`
 

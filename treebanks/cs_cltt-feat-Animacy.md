@@ -22,17 +22,17 @@ The most frequent other feature values with which `NOUN` and `Animacy` co-occurr
 
 `NOUN` tokens may have the following values of `Animacy`:
 
-* `Anim` (199; 4% of non-empty `Animacy`): auditorem členům společník společníka zaměstnanců účastníky společníkům emitentem společníkem společníky
-* `Inan` (4348; 96% of non-empty `Animacy`): majetku dni závazků odstavce dne majetek případě náklady závazky zisku
-* `EMPTY` (6749): jednotky jednotka období ocenění účetnictví položka závěrky ustanovení jednotek společnosti
+* `Anim` (199; 4% of non-empty `Animacy`): <em>auditorem, členům, společník, společníka, zaměstnanců, účastníky, společníkům, emitentem, společníkem, společníky</em>
+* `Inan` (4348; 96% of non-empty `Animacy`): <em>majetku, dni, závazků, odstavce, dne, majetek, případě, náklady, závazky, zisku</em>
+* `EMPTY` (6749): <em>jednotky, jednotka, období, ocenění, účetnictví, položka, závěrky, ustanovení, jednotek, společnosti</em>
 
 <table>
   <tr><th>Paradigm <i>člen</i></th><th><tt>Anim</tt></th><th><tt>Inan</tt></th></tr>
-  <tr><td><tt><tt><a href="cs_cltt-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td>členy</td><td></td></tr>
-  <tr><td><tt><tt><a href="cs_cltt-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td>členům</td><td></td></tr>
-  <tr><td><tt><tt><a href="cs_cltt-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td>člena</td><td></td></tr>
-  <tr><td><tt><tt><a href="cs_cltt-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td>členů</td><td>členů</td></tr>
-  <tr><td><tt><tt><a href="cs_cltt-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td>členy</td><td></td></tr>
+  <tr><td><tt><tt><a href="cs_cltt-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>členy</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="cs_cltt-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>členům</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="cs_cltt-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>člena</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="cs_cltt-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>členů</em></td><td><em>členů</em></td></tr>
+  <tr><td><tt><tt><a href="cs_cltt-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>členy</em></td><td></td></tr>
 </table>
 
 `Animacy` seems to be **lexical feature** of `NOUN`. 100% lemmas (298) occur only with one value of `Animacy`.
@@ -45,23 +45,23 @@ The most frequent other feature values with which `ADJ` and `Animacy` co-occurre
 
 `ADJ` tokens may have the following values of `Animacy`:
 
-* `Anim` (103; 4% of non-empty `Animacy`): přejímající následujícímu předcházejícímu řídících konsolidující prvním přejímajícího přejímajícím vysvětlujících držených
-* `Inan` (2519; 96% of non-empty `Animacy`): účetní účetních povinny účetního obchodního právních peněžních právní zvláštního právního
-* `EMPTY` (3917): účetní účetních účetního konsolidované konsolidující výroční finanční reálnou účetním pořizovací
+* `Anim` (103; 4% of non-empty `Animacy`): <em>přejímající, následujícímu, předcházejícímu, řídících, konsolidující, prvním, přejímajícího, přejímajícím, vysvětlujících, držených</em>
+* `Inan` (2519; 96% of non-empty `Animacy`): <em>účetní, účetních, povinny, účetního, obchodního, právních, peněžních, právní, zvláštního, právního</em>
+* `EMPTY` (3917): <em>účetní, účetních, účetního, konsolidované, konsolidující, výroční, finanční, reálnou, účetním, pořizovací</em>
 
 <table>
   <tr><th>Paradigm <i>právní</i></th><th><tt>Anim</tt></th><th><tt>Inan</tt></th></tr>
-  <tr><td><tt><tt><a href="cs_cltt-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td>právního</td><td>právní</td></tr>
-  <tr><td><tt><tt><a href="cs_cltt-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td>právní</td></tr>
-  <tr><td><tt><tt><a href="cs_cltt-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td>právnímu</td></tr>
-  <tr><td><tt><tt><a href="cs_cltt-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td>právním</td></tr>
-  <tr><td><tt><tt><a href="cs_cltt-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td>právního</td></tr>
-  <tr><td><tt><tt><a href="cs_cltt-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td>právních</td></tr>
-  <tr><td><tt><tt><a href="cs_cltt-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td>právním</td></tr>
-  <tr><td><tt><tt><a href="cs_cltt-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td>právními</td></tr>
-  <tr><td><tt><tt><a href="cs_cltt-feat-Case.html">Case</a></tt><tt>=Loc</tt>|<tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td>právních</td></tr>
-  <tr><td><tt><tt><a href="cs_cltt-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td>právní</td></tr>
-  <tr><td><tt><tt><a href="cs_cltt-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td>právní</td></tr>
+  <tr><td><tt><tt><a href="cs_cltt-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>právního</em></td><td><em>právní</em></td></tr>
+  <tr><td><tt><tt><a href="cs_cltt-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>právní</em></td></tr>
+  <tr><td><tt><tt><a href="cs_cltt-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>právnímu</em></td></tr>
+  <tr><td><tt><tt><a href="cs_cltt-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>právním</em></td></tr>
+  <tr><td><tt><tt><a href="cs_cltt-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>právního</em></td></tr>
+  <tr><td><tt><tt><a href="cs_cltt-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>právních</em></td></tr>
+  <tr><td><tt><tt><a href="cs_cltt-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>právním</em></td></tr>
+  <tr><td><tt><tt><a href="cs_cltt-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>právními</em></td></tr>
+  <tr><td><tt><tt><a href="cs_cltt-feat-Case.html">Case</a></tt><tt>=Loc</tt>|<tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>právních</em></td></tr>
+  <tr><td><tt><tt><a href="cs_cltt-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>právní</em></td></tr>
+  <tr><td><tt><tt><a href="cs_cltt-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>právní</em></td></tr>
 </table>
 
 `Animacy` seems to be **lexical feature** of `ADJ`. 91% lemmas (334) occur only with one value of `Animacy`.
@@ -74,14 +74,14 @@ The most frequent other feature values with which `VERB` and `Animacy` co-occurr
 
 `VERB` tokens may have the following values of `Animacy`:
 
-* `Anim` (2; 1% of non-empty `Animacy`): nepožádali schválili
-* `Inan` (142; 99% of non-empty `Animacy`): zahrnuty obchodovány přestaly uvedeny vykázány účtovány nastaly staly uzavřeny vyjádřeny
-* `EMPTY` (1973): obsahuje rozumí může uvede mohou použijí stanoví vést musí účtuje
+* `Anim` (2; 1% of non-empty `Animacy`): <em>nepožádali, schválili</em>
+* `Inan` (142; 99% of non-empty `Animacy`): <em>zahrnuty, obchodovány, přestaly, uvedeny, vykázány, účtovány, nastaly, staly, uzavřeny, vyjádřeny</em>
+* `EMPTY` (1973): <em>obsahuje, rozumí, může, uvede, mohou, použijí, stanoví, vést, musí, účtuje</em>
 
 <table>
   <tr><th>Paradigm <i>schválit</i></th><th><tt>Anim</tt></th><th><tt>Inan</tt></th></tr>
-  <tr><td><tt><tt><a href="cs_cltt-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="cs_cltt-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="cs_cltt-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td>schválili</td><td></td></tr>
-  <tr><td><tt><tt><a href="cs_cltt-feat-Gender.html">Gender</a></tt><tt>=Fem,Masc</tt>|<tt><a href="cs_cltt-feat-Voice.html">Voice</a></tt><tt>=Pass</tt></tt></td><td></td><td>schváleny</td></tr>
+  <tr><td><tt><tt><a href="cs_cltt-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="cs_cltt-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="cs_cltt-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>schválili</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="cs_cltt-feat-Gender.html">Gender</a></tt><tt>=Fem,Masc</tt>|<tt><a href="cs_cltt-feat-Voice.html">Voice</a></tt><tt>=Pass</tt></tt></td><td></td><td><em>schváleny</em></td></tr>
 </table>
 
 `Animacy` seems to be **lexical feature** of `VERB`. 99% lemmas (68) occur only with one value of `Animacy`.
@@ -94,9 +94,9 @@ The most frequent other feature values with which `PRON` and `Animacy` co-occurr
 
 `PRON` tokens may have the following values of `Animacy`:
 
-* `Anim` (2; 4% of non-empty `Animacy`): ty
-* `Inan` (55; 96% of non-empty `Animacy`): které který veškeré všechny
-* `EMPTY` (1155): se které která to který kterých kterým kterém kterému nichž
+* `Anim` (2; 4% of non-empty `Animacy`): <em>ty</em>
+* `Inan` (55; 96% of non-empty `Animacy`): <em>které, který, veškeré, všechny</em>
+* `EMPTY` (1155): <em>se, které, která, to, který, kterých, kterým, kterém, kterému, nichž</em>
 
 ### `DET`
 
@@ -106,8 +106,8 @@ The most frequent other feature values with which `DET` and `Animacy` co-occurre
 
 `DET` tokens may have the following values of `Animacy`:
 
-* `Inan` (30; 100% of non-empty `Animacy`): tyto tento svůj takový její takové některé takovýto
-* `EMPTY` (565): jejich jeho této tohoto těchto tato tyto tento tomto její
+* `Inan` (30; 100% of non-empty `Animacy`): <em>tyto, tento, svůj, takový, její, takové, některé, takovýto</em>
+* `EMPTY` (565): <em>jejich, jeho, této, tohoto, těchto, tato, tyto, tento, tomto, její</em>
 
 ### `AUX`
 
@@ -117,8 +117,8 @@ The most frequent other feature values with which `AUX` and `Animacy` co-occurre
 
 `AUX` tokens may have the following values of `Animacy`:
 
-* `Inan` (27; 100% of non-empty `Animacy`): byly nebyly byty
-* `EMPTY` (577): je jsou nejsou být není by bude byl není-li je-li
+* `Inan` (27; 100% of non-empty `Animacy`): <em>byly, nebyly, byty</em>
+* `EMPTY` (577): <em>je, jsou, nejsou, být, není, by, bude, byl, není-li, je-li</em>
 
 ### `NUM`
 
@@ -128,8 +128,8 @@ The most frequent other feature values with which `NUM` and `Animacy` co-occurre
 
 `NUM` tokens may have the following values of `Animacy`:
 
-* `Inan` (12; 100% of non-empty `Animacy`): jeden
-* `EMPTY` (428): 1 3 2 4 5 41 7 jedné jeden tří
+* `Inan` (12; 100% of non-empty `Animacy`): <em>jeden</em>
+* `EMPTY` (428): <em>1, 3, 2, 4, 5, 41, 7, jedné, jeden, tří</em>
 
 ## Relations with Agreement in `Animacy`
 

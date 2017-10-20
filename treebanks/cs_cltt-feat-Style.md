@@ -22,7 +22,7 @@ The most frequent other feature values with which `PRON` and `Style` co-occurred
 
 `PRON` tokens may have the following values of `Style`:
 
-* `Arch` (12; 100% of non-empty `Style`): jej
+* `Arch` (12; 100% of non-empty `Style`): <em>jej</em>
 
 ### `ADJ`
 
@@ -32,7 +32,7 @@ The most frequent other feature values with which `ADJ` and `Style` co-occurred:
 
 `ADJ` tokens may have the following values of `Style`:
 
-* `Coll` (4; 100% of non-empty `Style`): vytvořený Dlouhodobý Krátkodobý
+* `Coll` (4; 100% of non-empty `Style`): <em>vytvořený, Dlouhodobý, Krátkodobý</em>
 
 ### `VERB`
 
@@ -42,5 +42,5 @@ The most frequent other feature values with which `VERB` and `Style` co-occurred
 
 `VERB` tokens may have the following values of `Style`:
 
-* `Arch` (1; 100% of non-empty `Style`): dáti
+* `Arch` (1; 100% of non-empty `Style`): <em>dáti</em>
 

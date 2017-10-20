@@ -22,8 +22,8 @@ The most frequent other feature values with which `PROPN` and `Foreign` co-occur
 
 `PROPN` tokens may have the following values of `Foreign`:
 
-* `Yes` (3684; 100% of non-empty `Foreign`): HZDS IRA Floyd Nature International Science Sinn Fein Times Cup
-* `EMPTY` (80347): Praha ČR Praze LN ODS USA J Jiří Jan OSN
+* `Yes` (3684; 100% of non-empty `Foreign`): <em>HZDS, IRA, Floyd, Nature, International, Science, Sinn, Fein, Times, Cup</em>
+* `EMPTY` (80347): <em>Praha, ČR, Praze, LN, ODS, USA, J, Jiří, Jan, OSN</em>
 
 `Foreign` seems to be **lexical feature** of `PROPN`. 100% lemmas (1422) occur only with one value of `Foreign`.
 
@@ -35,8 +35,8 @@ The most frequent other feature values with which `ADJ` and `Foreign` co-occurre
 
 `ADJ` tokens may have the following values of `Foreign`:
 
-* `Yes` (2670; 100% of non-empty `Foreign`): New the open US Pink la Le Deutsche die United
-* `EMPTY` (187667): první další české nové druhé poslední státní dalších možné vlastní
+* `Yes` (2670; 100% of non-empty `Foreign`): <em>New, the, open, US, Pink, la, Le, Deutsche, die, United</em>
+* `EMPTY` (187667): <em>první, další, české, nové, druhé, poslední, státní, dalších, možné, vlastní</em>
 
 `Foreign` seems to be **lexical feature** of `ADJ`. 100% lemmas (1003) occur only with one value of `Foreign`.
 
@@ -48,8 +48,8 @@ The most frequent other feature values with which `NOUN` and `Foreign` co-occurr
 
 `NOUN` tokens may have the following values of `Foreign`:
 
-* `Yes` (1813; 100% of non-empty `Foreign`): play managementu management CD s facto st o homo neem
-* `EMPTY` (370553): roku korun let roce strany procent společnosti době případě firmy
+* `Yes` (1813; 100% of non-empty `Foreign`): <em>play, managementu, management, CD, s, facto, st, o, homo, neem</em>
+* `EMPTY` (370553): <em>roku, korun, let, roce, strany, procent, společnosti, době, případě, firmy</em>
 
 `Foreign` seems to be **lexical feature** of `NOUN`. 100% lemmas (945) occur only with one value of `Foreign`.
 
@@ -61,8 +61,8 @@ The most frequent other feature values with which `ADP` and `Foreign` co-occurre
 
 `ADP` tokens may have the following values of `Foreign`:
 
-* `Yes` (592; 100% of non-empty `Foreign`): de of di van in von versus ad Pro to
-* `EMPTY` (145351): v na o z s do ve k pro za
+* `Yes` (592; 100% of non-empty `Foreign`): <em>de, of, di, van, in, von, versus, ad, Pro, to</em>
+* `EMPTY` (145351): <em>v, na, o, z, s, do, ve, k, pro, za</em>
 
 `Foreign` seems to be **lexical feature** of `ADP`. 100% lemmas (55) occur only with one value of `Foreign`.
 
@@ -72,8 +72,8 @@ The most frequent other feature values with which `ADP` and `Foreign` co-occurre
 
 `PART` tokens may have the following values of `Foreign`:
 
-* `Yes` (120; 100% of non-empty `Foreign`): off džambo not t oui Bienvenue So ne sorry viva
-* `EMPTY` (8045): jen až asi li ne nejen prý jenom ano bohužel
+* `Yes` (120; 100% of non-empty `Foreign`): <em>off, džambo, not, t, oui, Bienvenue, So, ne, sorry, viva</em>
+* `EMPTY` (8045): <em>jen, až, asi, li, ne, nejen, prý, jenom, ano, bohužel</em>
 
 `Foreign` seems to be **lexical feature** of `PART`. 100% lemmas (28) occur only with one value of `Foreign`.
 
@@ -81,12 +81,12 @@ The most frequent other feature values with which `ADP` and `Foreign` co-occurre
 
 119 <tt><a href="cs-pos-VERB.html">VERB</a></tt> tokens (0% of all `VERB` tokens) have a non-empty value of `Foreign`.
 
-The most frequent other feature values with which `VERB` and `Foreign` co-occurred: <tt><a href="cs-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (119; 100%), <tt><a href="cs-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (113; 95%), <tt><a href="cs-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (112; 94%), <tt><a href="cs-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (65; 55%), <tt><a href="cs-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (62; 52%), <tt><a href="cs-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (62; 52%), <tt><a href="cs-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (60; 50%).
+The most frequent other feature values with which `VERB` and `Foreign` co-occurred: <tt><a href="cs-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (119; 100%), <tt><a href="cs-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (113; 95%), <tt><a href="cs-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (112; 94%), <tt><a href="cs-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (65; 55%), <tt><a href="cs-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (62; 52%), <tt><a href="cs-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (62; 52%), <tt><a href="cs-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (60; 50%).
 
 `VERB` tokens may have the following values of `Foreign`:
 
-* `Yes` (119; 100% of non-empty `Foreign`): is Be can est transit Check Come Habent Keep Love
-* `EMPTY` (135391): má je může řekl měl mají musí jde měla jsou
+* `Yes` (119; 100% of non-empty `Foreign`): <em>is, Be, can, est, transit, Check, Come, Habent, Keep, Love</em>
+* `EMPTY` (135391): <em>má, je, může, řekl, měl, mají, musí, jde, měla, jsou</em>
 
 `Foreign` seems to be **lexical feature** of `VERB`. 100% lemmas (85) occur only with one value of `Foreign`.
 
@@ -94,12 +94,12 @@ The most frequent other feature values with which `VERB` and `Foreign` co-occurr
 
 116 <tt><a href="cs-pos-ADV.html">ADV</a></tt> tokens (0% of all `ADV` tokens) have a non-empty value of `Foreign`.
 
-The most frequent other feature values with which `ADV` and `Foreign` co-occurred: <tt><a href="cs-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (114; 98%), <tt><a href="cs-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (107; 92%), <tt><a href="cs-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (107; 92%).
+The most frequent other feature values with which `ADV` and `Foreign` co-occurred: <tt><a href="cs-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (114; 98%), <tt><a href="cs-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (107; 92%), <tt><a href="cs-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (107; 92%).
 
 `ADV` tokens may have the following values of `Foreign`:
 
-* `Yes` (116; 100% of non-empty `Foreign`): cca priori Today live Here Only Sic Very dove echt
-* `EMPTY` (79881): tak už také jak včera ještě již tedy dnes pak
+* `Yes` (116; 100% of non-empty `Foreign`): <em>cca, priori, Today, live, Here, Only, Sic, Very, dove, echt</em>
+* `EMPTY` (79881): <em>tak, už, také, jak, včera, ještě, již, tedy, dnes, pak</em>
 
 `Foreign` seems to be **lexical feature** of `ADV`. 100% lemmas (71) occur only with one value of `Foreign`.
 
@@ -109,8 +109,8 @@ The most frequent other feature values with which `ADV` and `Foreign` co-occurre
 
 `CCONJ` tokens may have the following values of `Foreign`:
 
-* `Yes` (80; 100% of non-empty `Foreign`): and et und As or ma So e n
-* `EMPTY` (56777): a i ale však nebo ani či proto až ovšem
+* `Yes` (80; 100% of non-empty `Foreign`): <em>and, et, und, As, or, ma, So, e, n</em>
+* `EMPTY` (56777): <em>a, i, ale, však, nebo, ani, či, proto, až, ovšem</em>
 
 ### `PRON`
 
@@ -120,8 +120,8 @@ The most frequent other feature values with which `PRON` and `Foreign` co-occurr
 
 `PRON` tokens may have the following values of `Foreign`:
 
-* `Yes` (63; 100% of non-empty `Foreign`): it All you I Me We Some Us She WAS
-* `EMPTY` (44862): se si co nás je nám nich kdo což mu
+* `Yes` (63; 100% of non-empty `Foreign`): <em>it, All, you, I, Me, We, Some, Us, She, WAS</em>
+* `EMPTY` (44862): <em>se, si, co, nás, je, nám, nich, kdo, což, mu</em>
 
 `Foreign` seems to be **lexical feature** of `PRON`. 100% lemmas (23) occur only with one value of `Foreign`.
 
@@ -129,12 +129,12 @@ The most frequent other feature values with which `PRON` and `Foreign` co-occurr
 
 29 <tt><a href="cs-pos-NUM.html">NUM</a></tt> tokens (0% of all `NUM` tokens) have a non-empty value of `Foreign`.
 
-The most frequent other feature values with which `NUM` and `Foreign` co-occurred: <tt><a href="cs-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (29; 100%), <tt><a href="cs-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (29; 100%), <tt><a href="cs-feat-NumForm.html">NumForm</a></tt><tt>=Word</tt> (29; 100%), <tt><a href="cs-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (26; 90%), <tt><a href="cs-feat-NumValue.html">NumValue</a></tt><tt>=1,2,3</tt> (24; 83%), <tt><a href="cs-feat-Number.html">Number</a></tt><tt>=Plur</tt> (22; 76%).
+The most frequent other feature values with which `NUM` and `Foreign` co-occurred: <tt><a href="cs-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (29; 100%), <tt><a href="cs-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (29; 100%), <tt><a href="cs-feat-NumForm.html">NumForm</a></tt><tt>=Word</tt> (29; 100%), <tt><a href="cs-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (26; 90%), <tt><a href="cs-feat-NumValue.html">NumValue</a></tt><tt>=1,2,3</tt> (24; 83%), <tt><a href="cs-feat-Number.html">Number</a></tt><tt>=Plur</tt> (22; 76%).
 
 `NUM` tokens may have the following values of `Foreign`:
 
-* `Yes` (29; 100% of non-empty `Foreign`): Four Twenty Seven Six one Five Three Tre Tri seděm
-* `EMPTY` (41478): 1 2 3 dva tři 4 jeden 6 dvě tisíc
+* `Yes` (29; 100% of non-empty `Foreign`): <em>Four, Twenty, Seven, Six, one, Five, Three, Tre, Tri, seděm</em>
+* `EMPTY` (41478): <em>1, 2, 3, dva, tři, 4, jeden, 6, dvě, tisíc</em>
 
 `Foreign` seems to be **lexical feature** of `NUM`. 100% lemmas (12) occur only with one value of `Foreign`.
 
@@ -142,12 +142,12 @@ The most frequent other feature values with which `NUM` and `Foreign` co-occurre
 
 17 <tt><a href="cs-pos-DET.html">DET</a></tt> tokens (0% of all `DET` tokens) have a non-empty value of `Foreign`.
 
-The most frequent other feature values with which `DET` and `Foreign` co-occurred: <tt><a href="cs-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (16; 94%), <tt><a href="cs-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (13; 76%), <tt><a href="cs-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (12; 71%), <tt><a href="cs-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (12; 71%), <tt><a href="cs-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (11; 65%), <tt><a href="cs-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (9; 53%).
+The most frequent other feature values with which `DET` and `Foreign` co-occurred: <tt><a href="cs-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (16; 94%), <tt><a href="cs-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (13; 76%), <tt><a href="cs-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (12; 71%), <tt><a href="cs-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (12; 71%), <tt><a href="cs-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (11; 65%), <tt><a href="cs-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (9; 53%).
 
 `DET` tokens may have the following values of `Foreign`:
 
-* `Yes` (17; 100% of non-empty `Foreign`): My That This Your sua C Notre These ce cui
-* `EMPTY` (55296): to které který jeho která jejich své tím kteří tom
+* `Yes` (17; 100% of non-empty `Foreign`): <em>My, That, This, Your, sua, C, Notre, These, ce, cui</em>
+* `EMPTY` (55296): <em>to, které, který, jeho, která, jejich, své, tím, kteří, tom</em>
 
 `Foreign` seems to be **lexical feature** of `DET`. 100% lemmas (12) occur only with one value of `Foreign`.
 
@@ -157,8 +157,8 @@ The most frequent other feature values with which `DET` and `Foreign` co-occurre
 
 `SCONJ` tokens may have the following values of `Foreign`:
 
-* `Yes` (8; 100% of non-empty `Foreign`): as If When ak ako gdyž kak
-* `EMPTY` (27710): že jako aby než když pokud protože zda jak zatímco
+* `Yes` (8; 100% of non-empty `Foreign`): <em>as, If, When, ak, ako, gdyž, kak</em>
+* `EMPTY` (27710): <em>že, jako, aby, než, když, pokud, protože, zda, jak, zatímco</em>
 
 ### `INTJ`
 
@@ -166,8 +166,8 @@ The most frequent other feature values with which `DET` and `Foreign` co-occurre
 
 `INTJ` tokens may have the following values of `Foreign`:
 
-* `Yes` (6; 100% of non-empty `Foreign`): O propos Bang Boom Crash
-* `EMPTY` (107): PA Pink ach Inu hle proboha Haló což fajn Ó
+* `Yes` (6; 100% of non-empty `Foreign`): <em>O, propos, Bang, Boom, Crash</em>
+* `EMPTY` (107): <em>PA, Pink, ach, Inu, hle, proboha, Haló, což, fajn, Ó</em>
 
 ## Relations with Agreement in `Foreign`
 

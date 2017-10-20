@@ -23,14 +23,14 @@ The most frequent other feature values with which `PRON` and `PronType` co-occur
 
 `PRON` tokens may have the following values of `PronType`:
 
-* `Dem` (85; 7% of non-empty `PronType`): to tím toho tomu tom ty tímto t takové tato
-* `Dem,Ind` (1; 0% of non-empty `PronType`): několika
-* `Ind` (2; 0% of non-empty `PronType`): kterýkoli některý
-* `Int,Rel` (452; 37% of non-empty `PronType`): které která který kterých kterým kterém kterému kterou kterého jakém
-* `Neg` (4; 0% of non-empty `PronType`): žádném žádnou žádná
-* `Prs` (546; 45% of non-empty `PronType`): se jej je jim jí ji nich ní sobě jimi
-* `Rel` (73; 6% of non-empty `PronType`): nichž němž němuž jimiž jehož níž nějž jenž jež jímž
-* `Tot` (49; 4% of non-empty `PronType`): všech všechny veškeré všechna sama veškerého veškerých veškerými samo samy
+* `Dem` (85; 7% of non-empty `PronType`): <em>to, tím, toho, tomu, tom, ty, tímto, t, takové, tato</em>
+* `Dem,Ind` (1; 0% of non-empty `PronType`): <em>několika</em>
+* `Ind` (2; 0% of non-empty `PronType`): <em>kterýkoli, některý</em>
+* `Int,Rel` (452; 37% of non-empty `PronType`): <em>které, která, který, kterých, kterým, kterém, kterému, kterou, kterého, jakém</em>
+* `Neg` (4; 0% of non-empty `PronType`): <em>žádném, žádnou, žádná</em>
+* `Prs` (546; 45% of non-empty `PronType`): <em>se, jej, je, jim, jí, ji, nich, ní, sobě, jimi</em>
+* `Rel` (73; 6% of non-empty `PronType`): <em>nichž, němž, němuž, jimiž, jehož, níž, nějž, jenž, jež, jímž</em>
+* `Tot` (49; 4% of non-empty `PronType`): <em>všech, všechny, veškeré, všechna, sama, veškerého, veškerých, veškerými, samo, samy</em>
 
 `PronType` seems to be **lexical feature** of `PRON`. 100% lemmas (15) occur only with one value of `PronType`.
 
@@ -42,13 +42,13 @@ The most frequent other feature values with which `DET` and `PronType` co-occurr
 
 `DET` tokens may have the following values of `PronType`:
 
-* `Dem` (341; 57% of non-empty `PronType`): této tohoto těchto tyto tato tento tomto tuto toto tímto
-* `Dem,Ind` (1; 0% of non-empty `PronType`): několika
-* `Ind` (8; 1% of non-empty `PronType`): NĚKTERÝCH některá některé jakékoli jakýchkoliv
-* `Int,Rel` (3; 1% of non-empty `PronType`): jakou jaké kterým
-* `Neg` (2; 0% of non-empty `PronType`): žádná žádný
-* `Prs` (219; 37% of non-empty `PronType`): jejich jeho její své jejího jejím svého svých svůj svoji
-* `Rel` (21; 4% of non-empty `PronType`): jejichž jehož jejímž jejíž
+* `Dem` (341; 57% of non-empty `PronType`): <em>této, tohoto, těchto, tyto, tato, tento, tomto, tuto, toto, tímto</em>
+* `Dem,Ind` (1; 0% of non-empty `PronType`): <em>několika</em>
+* `Ind` (8; 1% of non-empty `PronType`): <em>NĚKTERÝCH, některá, některé, jakékoli, jakýchkoliv</em>
+* `Int,Rel` (3; 1% of non-empty `PronType`): <em>jakou, jaké, kterým</em>
+* `Neg` (2; 0% of non-empty `PronType`): <em>žádná, žádný</em>
+* `Prs` (219; 37% of non-empty `PronType`): <em>jejich, jeho, její, své, jejího, jejím, svého, svých, svůj, svoji</em>
+* `Rel` (21; 4% of non-empty `PronType`): <em>jejichž, jehož, jejímž, jejíž</em>
 
 `PronType` seems to be **lexical feature** of `DET`. 100% lemmas (13) occur only with one value of `PronType`.
 

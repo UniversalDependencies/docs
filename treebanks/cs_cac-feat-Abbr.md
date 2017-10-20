@@ -20,7 +20,7 @@ The feature is used with 6 part-of-speech tags: <tt><a href="cs_cac-pos-SYM.html
 
 `SYM` tokens may have the following values of `Abbr`:
 
-* `Yes` (3783; 100% of non-empty `Abbr`): *
+* `Yes` (3783; 100% of non-empty `Abbr`): <em>*</em>
 
 ### `PROPN`
 
@@ -30,8 +30,8 @@ The most frequent other feature values with which `PROPN` and `Abbr` co-occurred
 
 `PROPN` tokens may have the following values of `Abbr`:
 
-* `Yes` (1878; 100% of non-empty `Abbr`): KSČ ROH SSSR ÚJČ SSM ČSAV ČSSR ČSR TIBA NDR
-* `EMPTY` (7936): Praze Praha Škoda Prahy Fučík Erben Československa Karel Horálek Země
+* `Yes` (1878; 100% of non-empty `Abbr`): <em>KSČ, ROH, SSSR, ÚJČ, SSM, ČSAV, ČSSR, ČSR, TIBA, NDR</em>
+* `EMPTY` (7936): <em>Praze, Praha, Škoda, Prahy, Fučík, Erben, Československa, Karel, Horálek, Země</em>
 
 `Abbr` seems to be **lexical feature** of `PROPN`. 100% lemmas (287) occur only with one value of `Abbr`.
 
@@ -43,8 +43,8 @@ The most frequent other feature values with which `NOUN` and `Abbr` co-occurred:
 
 `NOUN` tokens may have the following values of `Abbr`:
 
-* `Yes` (982; 100% of non-empty `Abbr`): ÚV ZV ZO JZD Kčs ONV ÚR MěstNV BSP BP
-* `EMPTY` (135200): práce roce let práci roku oblasti době společnosti hlediska činnosti
+* `Yes` (982; 100% of non-empty `Abbr`): <em>ÚV, ZV, ZO, JZD, Kčs, ONV, ÚR, MěstNV, BSP, BP</em>
+* `EMPTY` (135200): <em>práce, roce, let, práci, roku, oblasti, době, společnosti, hlediska, činnosti</em>
 
 `Abbr` seems to be **lexical feature** of `NOUN`. 100% lemmas (160) occur only with one value of `Abbr`.
 
@@ -56,19 +56,19 @@ The most frequent other feature values with which `ADV` and `Abbr` co-occurred: 
 
 `ADV` tokens may have the following values of `Abbr`:
 
-* `Yes` (10; 100% of non-empty `Abbr`): kt
-* `EMPTY` (27480): tak také jak již už ještě pak kde tedy velmi
+* `Yes` (10; 100% of non-empty `Abbr`): <em>kt</em>
+* `EMPTY` (27480): <em>tak, také, jak, již, už, ještě, pak, kde, tedy, velmi</em>
 
 ### `ADJ`
 
 9 <tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt> tokens (0% of all `ADJ` tokens) have a non-empty value of `Abbr`.
 
-The most frequent other feature values with which `ADJ` and `Abbr` co-occurred: <tt><a href="cs_cac-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (9; 100%), <tt><a href="cs_cac-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (9; 100%), <tt><a href="cs_cac-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (9; 100%), <tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (9; 100%), <tt><a href="cs_cac-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (9; 100%), <tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (9; 100%).
+The most frequent other feature values with which `ADJ` and `Abbr` co-occurred: <tt><a href="cs_cac-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (9; 100%), <tt><a href="cs_cac-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (9; 100%), <tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (9; 100%), <tt><a href="cs_cac-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (9; 100%), <tt><a href="cs_cac-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (9; 100%), <tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (9; 100%).
 
 `ADJ` tokens may have the following values of `Abbr`:
 
-* `Yes` (9; 100% of non-empty `Abbr`): TH jč HT LP PE Rh
-* `EMPTY` (74785): další pracovní první jednotlivých základní nové možno socialistické různých každý
+* `Yes` (9; 100% of non-empty `Abbr`): <em>TH, jč, HT, LP, PE, Rh</em>
+* `EMPTY` (74785): <em>další, pracovní, první, jednotlivých, základní, nové, možno, socialistické, různých, každý</em>
 
 ### `PUNCT`
 
@@ -76,8 +76,8 @@ The most frequent other feature values with which `ADJ` and `Abbr` co-occurred: 
 
 `PUNCT` tokens may have the following values of `Abbr`:
 
-* `Yes` (1; 100% of non-empty `Abbr`): ?
-* `EMPTY` (60126): , . - " : ( ) ? ' /
+* `Yes` (1; 100% of non-empty `Abbr`): <em>?</em>
+* `EMPTY` (60126): <em>,, ., -, ", :, (, ), ?, ', /</em>
 
 ## Relations with Agreement in `Abbr`
 
@@ -90,6 +90,6 @@ The 10 most frequent relations where parent and child node agree in `Abbr`:
 <tt>SYM --[<tt><a href="cs_cac-dep-appos.html">appos</a></tt>]--> SYM</tt> (3; 100%),
 <tt>SYM --[<tt><a href="cs_cac-dep-advmod.html">advmod</a></tt>]--> SYM</tt> (3; 100%),
 <tt>SYM --[<tt><a href="cs_cac-dep-orphan.html">orphan</a></tt>]--> SYM</tt> (3; 100%),
-<tt>SYM --[<tt><a href="cs_cac-dep-dep.html">dep</a></tt>]--> SYM</tt> (2; 100%),
-<tt>SYM --[<tt><a href="cs_cac-dep-nsubj.html">nsubj</a></tt>]--> SYM</tt> (2; 100%).
+<tt>SYM --[<tt><a href="cs_cac-dep-nsubj.html">nsubj</a></tt>]--> SYM</tt> (2; 100%),
+<tt>SYM --[<tt><a href="cs_cac-dep-dep.html">dep</a></tt>]--> SYM</tt> (2; 100%).
 

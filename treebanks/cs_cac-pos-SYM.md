@@ -9,9 +9,9 @@ udver: '2'
 There are 1 `SYM` lemmas (0%), 1 `SYM` types (0%) and 3783 `SYM` tokens (1%).
 Out of 16 observed tags, the rank of `SYM` is: 16 in number of lemmas, 16 in number of types and 14 in number of tokens.
 
-The 10 most frequent `SYM` lemmas: *
+The 10 most frequent `SYM` lemmas: <em>*</em>
 
-The 10 most frequent `SYM` types:  *
+The 10 most frequent `SYM` types:  <em>*</em>
 
 The 10 most frequent ambiguous lemmas: 
 
@@ -23,7 +23,7 @@ The 10 most frequent ambiguous types:
 
 The form / lemma ratio of `SYM` is 1.000000 (the average of all parts of speech is 2.186309).
 
-The 1st highest number of forms (1) was observed with the lemma “*”: *.
+The 1st highest number of forms (1) was observed with the lemma “*”: <em>*</em>.
 
 `SYM` occurs with 1 features: <tt><a href="cs_cac-feat-Abbr.html">Abbr</a></tt> (3783; 100% instances)
 
@@ -31,7 +31,7 @@ The 1st highest number of forms (1) was observed with the lemma “*”: *.
 
 `SYM` occurs with 1 feature combinations.
 The most frequent feature combination is `Abbr=Yes` (3783 tokens).
-Examples: *
+Examples: <em>*</em>
 
 
 ## Relations

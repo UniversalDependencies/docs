@@ -9,59 +9,59 @@ udver: '2'
 There are 55 `PRON` lemmas (0%), 198 `PRON` types (0%) and 44925 `PRON` tokens (3%).
 Out of 17 observed tags, the rank of `PRON` is: 10 in number of lemmas, 8 in number of types and 10 in number of tokens.
 
-The 10 most frequent `PRON` lemmas: se on já jenž co kdo což nic něco ty
+The 10 most frequent `PRON` lemmas: <em>se, on, já, jenž, co, kdo, což, nic, něco, ty</em>
 
-The 10 most frequent `PRON` types:  se si co nás je nám nich kdo což mu
+The 10 most frequent `PRON` types:  <em>se, si, co, nás, je, nám, nich, kdo, což, mu</em>
 
-The 10 most frequent ambiguous lemmas: on (<tt><a href="cs-pos-PRON.html">PRON</a></tt> 7262, <tt><a href="cs-pos-ADP.html">ADP</a></tt> 9, <tt><a href="cs-pos-PART.html">PART</a></tt> 1), já (<tt><a href="cs-pos-PRON.html">PRON</a></tt> 3373, <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 1), jenž (<tt><a href="cs-pos-PRON.html">PRON</a></tt> 2201, <tt><a href="cs-pos-DET.html">DET</a></tt> 658), co (<tt><a href="cs-pos-PRON.html">PRON</a></tt> 1859, <tt><a href="cs-pos-ADV.html">ADV</a></tt> 239, <tt><a href="cs-pos-SCONJ.html">SCONJ</a></tt> 210, <tt><a href="cs-pos-PART.html">PART</a></tt> 21), což (<tt><a href="cs-pos-PRON.html">PRON</a></tt> 748, <tt><a href="cs-pos-INTJ.html">INTJ</a></tt> 3, <tt><a href="cs-pos-PART.html">PART</a></tt> 1), I (<tt><a href="cs-pos-NUM.html">NUM</a></tt> 97, <tt><a href="cs-pos-PROPN.html">PROPN</a></tt> 62, <tt><a href="cs-pos-ADJ.html">ADJ</a></tt> 17, <tt><a href="cs-pos-PRON.html">PRON</a></tt> 16), all (<tt><a href="cs-pos-ADV.html">ADV</a></tt> 1, <tt><a href="cs-pos-PRON.html">PRON</a></tt> 1, <tt><a href="cs-pos-ADJ.html">ADJ</a></tt> 1), sa (<tt><a href="cs-pos-PRON.html">PRON</a></tt> 4, <tt><a href="cs-pos-PROPN.html">PROPN</a></tt> 2), ja (<tt><a href="cs-pos-PRON.html">PRON</a></tt> 3, <tt><a href="cs-pos-PART.html">PART</a></tt> 1), von (<tt><a href="cs-pos-ADP.html">ADP</a></tt> 24, <tt><a href="cs-pos-PRON.html">PRON</a></tt> 3)
+The 10 most frequent ambiguous lemmas: <em>on</em> (<tt><a href="cs-pos-PRON.html">PRON</a></tt> 7262, <tt><a href="cs-pos-ADP.html">ADP</a></tt> 9, <tt><a href="cs-pos-PART.html">PART</a></tt> 1), <em>já</em> (<tt><a href="cs-pos-PRON.html">PRON</a></tt> 3373, <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 1), <em>jenž</em> (<tt><a href="cs-pos-PRON.html">PRON</a></tt> 2201, <tt><a href="cs-pos-DET.html">DET</a></tt> 658), <em>co</em> (<tt><a href="cs-pos-PRON.html">PRON</a></tt> 1859, <tt><a href="cs-pos-ADV.html">ADV</a></tt> 239, <tt><a href="cs-pos-SCONJ.html">SCONJ</a></tt> 210, <tt><a href="cs-pos-PART.html">PART</a></tt> 21), <em>což</em> (<tt><a href="cs-pos-PRON.html">PRON</a></tt> 748, <tt><a href="cs-pos-INTJ.html">INTJ</a></tt> 3, <tt><a href="cs-pos-PART.html">PART</a></tt> 1), <em>I</em> (<tt><a href="cs-pos-NUM.html">NUM</a></tt> 97, <tt><a href="cs-pos-PROPN.html">PROPN</a></tt> 62, <tt><a href="cs-pos-ADJ.html">ADJ</a></tt> 17, <tt><a href="cs-pos-PRON.html">PRON</a></tt> 16), <em>all</em> (<tt><a href="cs-pos-PRON.html">PRON</a></tt> 1, <tt><a href="cs-pos-ADV.html">ADV</a></tt> 1, <tt><a href="cs-pos-ADJ.html">ADJ</a></tt> 1), <em>sa</em> (<tt><a href="cs-pos-PRON.html">PRON</a></tt> 4, <tt><a href="cs-pos-PROPN.html">PROPN</a></tt> 2), <em>ja</em> (<tt><a href="cs-pos-PRON.html">PRON</a></tt> 3, <tt><a href="cs-pos-PART.html">PART</a></tt> 1), <em>von</em> (<tt><a href="cs-pos-ADP.html">ADP</a></tt> 24, <tt><a href="cs-pos-PRON.html">PRON</a></tt> 3)
 
-The 10 most frequent ambiguous types:  se (<tt><a href="cs-pos-PRON.html">PRON</a></tt> 21370, <tt><a href="cs-pos-ADP.html">ADP</a></tt> 1901), si (<tt><a href="cs-pos-PRON.html">PRON</a></tt> 3737, <tt><a href="cs-pos-AUX.html">AUX</a></tt> 1, <tt><a href="cs-pos-VERB.html">VERB</a></tt> 1), co (<tt><a href="cs-pos-PRON.html">PRON</a></tt> 1187, <tt><a href="cs-pos-ADV.html">ADV</a></tt> 233, <tt><a href="cs-pos-SCONJ.html">SCONJ</a></tt> 207, <tt><a href="cs-pos-PART.html">PART</a></tt> 7), je (<tt><a href="cs-pos-AUX.html">AUX</a></tt> 10151, <tt><a href="cs-pos-VERB.html">VERB</a></tt> 1986, <tt><a href="cs-pos-PRON.html">PRON</a></tt> 887), nám (<tt><a href="cs-pos-PRON.html">PRON</a></tt> 740, <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 5), což (<tt><a href="cs-pos-PRON.html">PRON</a></tt> 631, <tt><a href="cs-pos-INTJ.html">INTJ</a></tt> 2), jež (<tt><a href="cs-pos-PRON.html">PRON</a></tt> 318, <tt><a href="cs-pos-PROPN.html">PROPN</a></tt> 1), níž (<tt><a href="cs-pos-PRON.html">PRON</a></tt> 303, <tt><a href="cs-pos-ADV.html">ADV</a></tt> 2), já (<tt><a href="cs-pos-PRON.html">PRON</a></tt> 187, <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 1), jí (<tt><a href="cs-pos-PRON.html">PRON</a></tt> 271, <tt><a href="cs-pos-VERB.html">VERB</a></tt> 5)
+The 10 most frequent ambiguous types:  <em>se</em> (<tt><a href="cs-pos-PRON.html">PRON</a></tt> 21370, <tt><a href="cs-pos-ADP.html">ADP</a></tt> 1901), <em>si</em> (<tt><a href="cs-pos-PRON.html">PRON</a></tt> 3737, <tt><a href="cs-pos-VERB.html">VERB</a></tt> 1, <tt><a href="cs-pos-AUX.html">AUX</a></tt> 1), <em>co</em> (<tt><a href="cs-pos-PRON.html">PRON</a></tt> 1187, <tt><a href="cs-pos-ADV.html">ADV</a></tt> 233, <tt><a href="cs-pos-SCONJ.html">SCONJ</a></tt> 207, <tt><a href="cs-pos-PART.html">PART</a></tt> 7), <em>je</em> (<tt><a href="cs-pos-AUX.html">AUX</a></tt> 10151, <tt><a href="cs-pos-VERB.html">VERB</a></tt> 1986, <tt><a href="cs-pos-PRON.html">PRON</a></tt> 887), <em>nám</em> (<tt><a href="cs-pos-PRON.html">PRON</a></tt> 740, <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 5), <em>což</em> (<tt><a href="cs-pos-PRON.html">PRON</a></tt> 631, <tt><a href="cs-pos-INTJ.html">INTJ</a></tt> 2), <em>jež</em> (<tt><a href="cs-pos-PRON.html">PRON</a></tt> 318, <tt><a href="cs-pos-PROPN.html">PROPN</a></tt> 1), <em>níž</em> (<tt><a href="cs-pos-PRON.html">PRON</a></tt> 303, <tt><a href="cs-pos-ADV.html">ADV</a></tt> 2), <em>já</em> (<tt><a href="cs-pos-PRON.html">PRON</a></tt> 187, <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 1), <em>jí</em> (<tt><a href="cs-pos-PRON.html">PRON</a></tt> 271, <tt><a href="cs-pos-VERB.html">VERB</a></tt> 5)
 
 
-* se
-  * <tt><a href="cs-pos-PRON.html">PRON</a></tt> 21370: Z kukly <b>se</b> vyklubal motýl
-  * <tt><a href="cs-pos-ADP.html">ADP</a></tt> 1901: Mohou zde porovnat svůj vývoj , záměry <b>se</b> světovými trendy .
-* si
-  * <tt><a href="cs-pos-PRON.html">PRON</a></tt> 3737: Firma , která <b>si</b> je vyžádá , platí pouze náklady na jejich pobyt .
-  * <tt><a href="cs-pos-AUX.html">AUX</a></tt> 1: Bollettieri tenkrát ke mně přišel a povídá : , Porazil <b>si</b> jednoho z nejlepších tenistů budoucnosti . ' .
-  * <tt><a href="cs-pos-VERB.html">VERB</a></tt> 1: Nebylo by žádným uměním dospět ke sporu , když bychom <b>si</b> během téže úvahy vykládali chování světelných paprsků různými způsoby .
-* co
-  * <tt><a href="cs-pos-PRON.html">PRON</a></tt> 1187: Nevíte , <b>co</b> kam započítat ?
-  * <tt><a href="cs-pos-ADV.html">ADV</a></tt> 233: Samozřejmě nejen <b>co</b> do efektu , ale i <b>co</b> do nákladů .
-  * <tt><a href="cs-pos-SCONJ.html">SCONJ</a></tt> 207: Učinil tak 24 hodin poté , <b>co</b> nabídku zprvu odmítl .
-  * <tt><a href="cs-pos-PART.html">PART</a></tt> 7: A <b>co</b> když by Maastricht v neděli neprošel ?
-* je
-  * <tt><a href="cs-pos-AUX.html">AUX</a></tt> 10151: Váš obecně platný dotaz <b>je</b> připraven zodpovědět spolupracovník Profitu .
-  * <tt><a href="cs-pos-VERB.html">VERB</a></tt> 1986: U každého výrobku <b>je</b> krátká charakteristika a kontaktní adresa výrobce .
-  * <tt><a href="cs-pos-PRON.html">PRON</a></tt> 887: Změny jsou citelné , je třeba <b>je</b> lépe prezentovat
-* nám
-  * <tt><a href="cs-pos-PRON.html">PRON</a></tt> 740: Zdůraznil , že banka bude půjčovat ne firmě , ale <b>nám</b> osobně .
-  * <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 5: Kontakt : CMC , <b>nám</b> . 5 . května 2 , 250 88 Čelákovice , tel . : ( 0202 ) 92151 - 9 , 92237 , FAX : ( 0202 ) 91997 .
-* což
-  * <tt><a href="cs-pos-PRON.html">PRON</a></tt> 631: Vědí , že by byli považováni za arogantní , <b>což</b> by mohla být pravda .
-  * <tt><a href="cs-pos-INTJ.html">INTJ</a></tt> 2: Z naivních přání , která jsme v listopadu měli , se nám toto vyplnilo jen <b>což</b> .
-* jež
-  * <tt><a href="cs-pos-PRON.html">PRON</a></tt> 318: To je prvé konstatování , <b>jež</b> mi v Netopýru scházelo .
-  * <tt><a href="cs-pos-PROPN.html">PROPN</a></tt> 1: ( <b>jež</b> ) ( ČT 2 - 20.10 )
-* níž
-  * <tt><a href="cs-pos-PRON.html">PRON</a></tt> 303: A podmínka , bez <b>níž</b> to nejde ?
-  * <tt><a href="cs-pos-ADV.html">ADV</a></tt> 2: V roce 1981 pro ni poslední místo ve skupině C v Pekingu ještě nemohlo znamenat sestup <b>níž</b> , poněvadž nebylo kam .
-* já
-  * <tt><a href="cs-pos-PRON.html">PRON</a></tt> 187: My oba , ty i <b>já</b> , my všichni . "
-  * <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 1: Jenže falešné my a hrozba všemocného oni dokázaly některá <b>já</b> pěkně poznamenat a neochota nebo neschopnost vyprostit se z jejich objetí se občas připisuje jakémusi záhadnému ono : ono je to holt těžký . . .
-* jí
-  * <tt><a href="cs-pos-PRON.html">PRON</a></tt> 271: Asi patnáctkrát jsem <b>jí</b> třísknul o zem , ale sotva jsem ji poškrábal .
-  * <tt><a href="cs-pos-VERB.html">VERB</a></tt> 5: Převládá však názor , že jde o " nějaký svátek , kdy se hodně <b>jí</b> a pije " , či o jakýsi den slávy a posvícení , kdy " vlaje naše československá vlajka " .
+* <em>se</em>
+  * <tt><a href="cs-pos-PRON.html">PRON</a></tt> 21370: <em>Z kukly <b>se</b> vyklubal motýl</em>
+  * <tt><a href="cs-pos-ADP.html">ADP</a></tt> 1901: <em>Mohou zde porovnat svůj vývoj , záměry <b>se</b> světovými trendy .</em>
+* <em>si</em>
+  * <tt><a href="cs-pos-PRON.html">PRON</a></tt> 3737: <em>Firma , která <b>si</b> je vyžádá , platí pouze náklady na jejich pobyt .</em>
+  * <tt><a href="cs-pos-VERB.html">VERB</a></tt> 1: <em>Nebylo by žádným uměním dospět ke sporu , když bychom <b>si</b> během téže úvahy vykládali chování světelných paprsků různými způsoby .</em>
+  * <tt><a href="cs-pos-AUX.html">AUX</a></tt> 1: <em>Bollettieri tenkrát ke mně přišel a povídá : , Porazil <b>si</b> jednoho z nejlepších tenistů budoucnosti . ' .</em>
+* <em>co</em>
+  * <tt><a href="cs-pos-PRON.html">PRON</a></tt> 1187: <em>Nevíte , <b>co</b> kam započítat ?</em>
+  * <tt><a href="cs-pos-ADV.html">ADV</a></tt> 233: <em>Samozřejmě nejen <b>co</b> do efektu , ale i <b>co</b> do nákladů .</em>
+  * <tt><a href="cs-pos-SCONJ.html">SCONJ</a></tt> 207: <em>Učinil tak 24 hodin poté , <b>co</b> nabídku zprvu odmítl .</em>
+  * <tt><a href="cs-pos-PART.html">PART</a></tt> 7: <em>A <b>co</b> když by Maastricht v neděli neprošel ?</em>
+* <em>je</em>
+  * <tt><a href="cs-pos-AUX.html">AUX</a></tt> 10151: <em>Váš obecně platný dotaz <b>je</b> připraven zodpovědět spolupracovník Profitu .</em>
+  * <tt><a href="cs-pos-VERB.html">VERB</a></tt> 1986: <em>U každého výrobku <b>je</b> krátká charakteristika a kontaktní adresa výrobce .</em>
+  * <tt><a href="cs-pos-PRON.html">PRON</a></tt> 887: <em>Změny jsou citelné , je třeba <b>je</b> lépe prezentovat</em>
+* <em>nám</em>
+  * <tt><a href="cs-pos-PRON.html">PRON</a></tt> 740: <em>Zdůraznil , že banka bude půjčovat ne firmě , ale <b>nám</b> osobně .</em>
+  * <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 5: <em>Kontakt : CMC , <b>nám</b> . 5 . května 2 , 250 88 Čelákovice , tel . : ( 0202 ) 92151 - 9 , 92237 , FAX : ( 0202 ) 91997 .</em>
+* <em>což</em>
+  * <tt><a href="cs-pos-PRON.html">PRON</a></tt> 631: <em>Vědí , že by byli považováni za arogantní , <b>což</b> by mohla být pravda .</em>
+  * <tt><a href="cs-pos-INTJ.html">INTJ</a></tt> 2: <em>Z naivních přání , která jsme v listopadu měli , se nám toto vyplnilo jen <b>což</b> .</em>
+* <em>jež</em>
+  * <tt><a href="cs-pos-PRON.html">PRON</a></tt> 318: <em>To je prvé konstatování , <b>jež</b> mi v Netopýru scházelo .</em>
+  * <tt><a href="cs-pos-PROPN.html">PROPN</a></tt> 1: <em>( <b>jež</b> ) ( ČT 2 - 20.10 )</em>
+* <em>níž</em>
+  * <tt><a href="cs-pos-PRON.html">PRON</a></tt> 303: <em>A podmínka , bez <b>níž</b> to nejde ?</em>
+  * <tt><a href="cs-pos-ADV.html">ADV</a></tt> 2: <em>V roce 1981 pro ni poslední místo ve skupině C v Pekingu ještě nemohlo znamenat sestup <b>níž</b> , poněvadž nebylo kam .</em>
+* <em>já</em>
+  * <tt><a href="cs-pos-PRON.html">PRON</a></tt> 187: <em>My oba , ty i <b>já</b> , my všichni . "</em>
+  * <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 1: <em>Jenže falešné my a hrozba všemocného oni dokázaly některá <b>já</b> pěkně poznamenat a neochota nebo neschopnost vyprostit se z jejich objetí se občas připisuje jakémusi záhadnému ono : ono je to holt těžký . . .</em>
+* <em>jí</em>
+  * <tt><a href="cs-pos-PRON.html">PRON</a></tt> 271: <em>Asi patnáctkrát jsem <b>jí</b> třísknul o zem , ale sotva jsem ji poškrábal .</em>
+  * <tt><a href="cs-pos-VERB.html">VERB</a></tt> 5: <em>Převládá však názor , že jde o " nějaký svátek , kdy se hodně <b>jí</b> a pije " , či o jakýsi den slávy a posvícení , kdy " vlaje naše československá vlajka " .</em>
 
 ## Morphology
 
 The form / lemma ratio of `PRON` is 3.600000 (the average of all parts of speech is 2.181849).
 
-The 1st highest number of forms (28) was observed with the lemma “on”: ho, je, jeho, jej, jemu, ji, jich, jim, jimi, jí, jím, mu, ni, nich, nim, nimi, ní, ním, ně, něho, něj, něm, němu, on, ona, oni, ono, ony.
+The 1st highest number of forms (28) was observed with the lemma “on”: <em>ho, je, jeho, jej, jemu, ji, jich, jim, jimi, jí, jím, mu, ni, nich, nim, nimi, ní, ním, ně, něho, něj, něm, němu, on, ona, oni, ono, ony</em>.
 
-The 2nd highest number of forms (22) was observed with the lemma “jenž”: jehož, jejž, jemuž, jenž, jež, jichž, jimiž, jimž, již, jímž, jíž, nichž, nimiž, nimž, niž, nímž, níž, něhož, nějž, němuž, němž, něž.
+The 2nd highest number of forms (22) was observed with the lemma “jenž”: <em>jehož, jejž, jemuž, jenž, jež, jichž, jimiž, jimž, již, jímž, jíž, nichž, nimiž, nimž, niž, nímž, níž, něhož, nějž, němuž, němž, něž</em>.
 
-The 3rd highest number of forms (11) was observed with the lemma “samý”: samou, samá, samé, samého, samém, samému, samí, samý, samých, samým, samými.
+The 3rd highest number of forms (11) was observed with the lemma “samý”: <em>samou, samá, samé, samého, samém, samému, samí, samý, samých, samým, samými</em>.
 
 `PRON` occurs with 12 features: <tt><a href="cs-feat-PronType.html">PronType</a></tt> (44925; 100% instances), <tt><a href="cs-feat-Case.html">Case</a></tt> (44861; 100% instances), <tt><a href="cs-feat-Variant.html">Variant</a></tt> (27181; 61% instances), <tt><a href="cs-feat-Reflex.html">Reflex</a></tt> (25786; 57% instances), <tt><a href="cs-feat-Number.html">Number</a></tt> (13608; 30% instances), <tt><a href="cs-feat-Person.html">Person</a></tt> (11130; 25% instances), <tt><a href="cs-feat-Gender.html">Gender</a></tt> (7931; 18% instances), <tt><a href="cs-feat-PrepCase.html">PrepCase</a></tt> (4925; 11% instances), <tt><a href="cs-feat-Animacy.html">Animacy</a></tt> (3633; 8% instances), <tt><a href="cs-feat-Style.html">Style</a></tt> (312; 1% instances), <tt><a href="cs-feat-Foreign.html">Foreign</a></tt> (63; 0% instances), <tt><a href="cs-feat-NameType.html">NameType</a></tt> (12; 0% instances)
 
@@ -69,7 +69,7 @@ The 3rd highest number of forms (11) was observed with the lemma “samý”: sa
 
 `PRON` occurs with 214 feature combinations.
 The most frequent feature combination is `Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short` (21416 tokens).
-Examples: se
+Examples: <em>se</em>
 
 
 ## Relations

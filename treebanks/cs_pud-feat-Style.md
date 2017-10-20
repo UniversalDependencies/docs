@@ -22,20 +22,8 @@ The most frequent other feature values with which `PROPN` and `Style` co-occurre
 
 `PROPN` tokens may have the following values of `Style`:
 
-* `Arch` (3; 33% of non-empty `Style`): Papui smartphone
-* `Rare` (6; 67% of non-empty `Style`): Australia Capitol Francisco Jasona Kenya Kilimanjaro
-
-### `ADJ`
-
-6 <tt><a href="cs_pud-pos-ADJ.html">ADJ</a></tt> tokens (0% of all `ADJ` tokens) have a non-empty value of `Style`.
-
-The most frequent other feature values with which `ADJ` and `Style` co-occurred: <tt><a href="cs_pud-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (6; 100%), <tt><a href="cs_pud-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (5; 83%), <tt><a href="cs_pud-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (5; 83%), <tt><a href="cs_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (5; 83%), <tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (5; 83%), <tt><a href="cs_pud-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (4; 67%), <tt><a href="cs_pud-feat-Case.html">Case</a></tt><tt>=Nom</tt> (4; 67%).
-
-`ADJ` tokens may have the following values of `Style`:
-
-* `Coll` (2; 33% of non-empty `Style`): chatovacím podezřelý
-* `Expr` (1; 17% of non-empty `Style`): ztřeštěné
-* `Rare` (3; 50% of non-empty `Style`): napjatá předpovězeno upjaté
+* `Arch` (3; 33% of non-empty `Style`): <em>Papui, smartphone</em>
+* `Rare` (6; 67% of non-empty `Style`): <em>Australia, Capitol, Francisco, Jasona, Kenya, Kilimanjaro</em>
 
 ### `NOUN`
 
@@ -45,19 +33,31 @@ The most frequent other feature values with which `NOUN` and `Style` co-occurred
 
 `NOUN` tokens may have the following values of `Style`:
 
-* `Arch` (3; 50% of non-empty `Style`): léta včerejška
-* `Coll` (1; 17% of non-empty `Style`): sken
-* `Rare` (2; 33% of non-empty `Style`): AIDS datum
+* `Arch` (3; 50% of non-empty `Style`): <em>léta, včerejška</em>
+* `Coll` (1; 17% of non-empty `Style`): <em>sken</em>
+* `Rare` (2; 33% of non-empty `Style`): <em>AIDS, datum</em>
+
+### `ADJ`
+
+6 <tt><a href="cs_pud-pos-ADJ.html">ADJ</a></tt> tokens (0% of all `ADJ` tokens) have a non-empty value of `Style`.
+
+The most frequent other feature values with which `ADJ` and `Style` co-occurred: <tt><a href="cs_pud-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (6; 100%), <tt><a href="cs_pud-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (5; 83%), <tt><a href="cs_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (5; 83%), <tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (5; 83%), <tt><a href="cs_pud-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (5; 83%), <tt><a href="cs_pud-feat-Case.html">Case</a></tt><tt>=Nom</tt> (4; 67%), <tt><a href="cs_pud-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (4; 67%).
+
+`ADJ` tokens may have the following values of `Style`:
+
+* `Coll` (2; 33% of non-empty `Style`): <em>chatovacím, podezřelý</em>
+* `Expr` (1; 17% of non-empty `Style`): <em>ztřeštěné</em>
+* `Rare` (3; 50% of non-empty `Style`): <em>napjatá, předpovězeno, upjaté</em>
 
 ### `VERB`
 
 4 <tt><a href="cs_pud-pos-VERB.html">VERB</a></tt> tokens (0% of all `VERB` tokens) have a non-empty value of `Style`.
 
-The most frequent other feature values with which `VERB` and `Style` co-occurred: <tt><a href="cs_pud-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (4; 100%), <tt><a href="cs_pud-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (4; 100%), <tt><a href="cs_pud-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (4; 100%), <tt><a href="cs_pud-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (3; 75%), <tt><a href="cs_pud-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (3; 75%), <tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3; 75%), <tt><a href="cs_pud-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (3; 75%).
+The most frequent other feature values with which `VERB` and `Style` co-occurred: <tt><a href="cs_pud-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (4; 100%), <tt><a href="cs_pud-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (4; 100%), <tt><a href="cs_pud-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (4; 100%), <tt><a href="cs_pud-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (3; 75%), <tt><a href="cs_pud-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (3; 75%), <tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3; 75%), <tt><a href="cs_pud-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (3; 75%).
 
 `VERB` tokens may have the following values of `Style`:
 
-* `Arch` (1; 25% of non-empty `Style`): redukujíc
-* `Coll` (1; 25% of non-empty `Style`): potřebujem
-* `Rare` (2; 50% of non-empty `Style`): ujal
+* `Arch` (1; 25% of non-empty `Style`): <em>redukujíc</em>
+* `Coll` (1; 25% of non-empty `Style`): <em>potřebujem</em>
+* `Rare` (2; 50% of non-empty `Style`): <em>ujal</em>
 

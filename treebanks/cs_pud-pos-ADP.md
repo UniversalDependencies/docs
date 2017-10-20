@@ -9,50 +9,50 @@ udver: '2'
 There are 48 `ADP` lemmas (1%), 53 `ADP` types (1%) and 1843 `ADP` tokens (10%).
 Out of 15 observed tags, the rank of `ADP` is: 7 in number of lemmas, 9 in number of types and 4 in number of tokens.
 
-The 10 most frequent `ADP` lemmas: v na z s do k o pro za po
+The 10 most frequent `ADP` lemmas: <em>v, na, z, s, do, k, o, pro, za, po</em>
 
-The 10 most frequent `ADP` types:  v na z s do ve o k pro za
+The 10 most frequent `ADP` types:  <em>v, na, z, s, do, ve, o, k, pro, za</em>
 
-The 10 most frequent ambiguous lemmas: s (<tt><a href="cs_pud-pos-ADP.html">ADP</a></tt> 132, <tt><a href="cs_pud-pos-NOUN.html">NOUN</a></tt> 1), of (<tt><a href="cs_pud-pos-ADP.html">ADP</a></tt> 2, <tt><a href="cs_pud-pos-PROPN.html">PROPN</a></tt> 1), a (<tt><a href="cs_pud-pos-CCONJ.html">CCONJ</a></tt> 462, <tt><a href="cs_pud-pos-ADJ.html">ADJ</a></tt> 2, <tt><a href="cs_pud-pos-ADP.html">ADP</a></tt> 1), místo (<tt><a href="cs_pud-pos-NOUN.html">NOUN</a></tt> 23, <tt><a href="cs_pud-pos-ADP.html">ADP</a></tt> 1), on (<tt><a href="cs_pud-pos-PRON.html">PRON</a></tt> 101, <tt><a href="cs_pud-pos-ADP.html">ADP</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>s</em> (<tt><a href="cs_pud-pos-ADP.html">ADP</a></tt> 132, <tt><a href="cs_pud-pos-NOUN.html">NOUN</a></tt> 1), <em>of</em> (<tt><a href="cs_pud-pos-ADP.html">ADP</a></tt> 2, <tt><a href="cs_pud-pos-PROPN.html">PROPN</a></tt> 1), <em>a</em> (<tt><a href="cs_pud-pos-CCONJ.html">CCONJ</a></tt> 462, <tt><a href="cs_pud-pos-ADJ.html">ADJ</a></tt> 2, <tt><a href="cs_pud-pos-ADP.html">ADP</a></tt> 1), <em>místo</em> (<tt><a href="cs_pud-pos-NOUN.html">NOUN</a></tt> 23, <tt><a href="cs_pud-pos-ADP.html">ADP</a></tt> 1), <em>on</em> (<tt><a href="cs_pud-pos-PRON.html">PRON</a></tt> 101, <tt><a href="cs_pud-pos-ADP.html">ADP</a></tt> 1)
 
-The 10 most frequent ambiguous types:  s (<tt><a href="cs_pud-pos-ADP.html">ADP</a></tt> 112, <tt><a href="cs_pud-pos-NOUN.html">NOUN</a></tt> 1), při (<tt><a href="cs_pud-pos-ADP.html">ADP</a></tt> 13, <tt><a href="cs_pud-pos-NOUN.html">NOUN</a></tt> 1), se (<tt><a href="cs_pud-pos-PRON.html">PRON</a></tt> 303, <tt><a href="cs_pud-pos-ADP.html">ADP</a></tt> 15), of (<tt><a href="cs_pud-pos-ADP.html">ADP</a></tt> 2, <tt><a href="cs_pud-pos-PROPN.html">PROPN</a></tt> 1), pomocí (<tt><a href="cs_pud-pos-ADP.html">ADP</a></tt> 2, <tt><a href="cs_pud-pos-NOUN.html">NOUN</a></tt> 1), On (<tt><a href="cs_pud-pos-PRON.html">PRON</a></tt> 1, <tt><a href="cs_pud-pos-ADP.html">ADP</a></tt> 1), a (<tt><a href="cs_pud-pos-CCONJ.html">CCONJ</a></tt> 454, <tt><a href="cs_pud-pos-ADJ.html">ADJ</a></tt> 2, <tt><a href="cs_pud-pos-ADP.html">ADP</a></tt> 1), místo (<tt><a href="cs_pud-pos-NOUN.html">NOUN</a></tt> 12, <tt><a href="cs_pud-pos-ADP.html">ADP</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>s</em> (<tt><a href="cs_pud-pos-ADP.html">ADP</a></tt> 112, <tt><a href="cs_pud-pos-NOUN.html">NOUN</a></tt> 1), <em>při</em> (<tt><a href="cs_pud-pos-ADP.html">ADP</a></tt> 13, <tt><a href="cs_pud-pos-NOUN.html">NOUN</a></tt> 1), <em>se</em> (<tt><a href="cs_pud-pos-PRON.html">PRON</a></tt> 303, <tt><a href="cs_pud-pos-ADP.html">ADP</a></tt> 15), <em>of</em> (<tt><a href="cs_pud-pos-ADP.html">ADP</a></tt> 2, <tt><a href="cs_pud-pos-PROPN.html">PROPN</a></tt> 1), <em>pomocí</em> (<tt><a href="cs_pud-pos-ADP.html">ADP</a></tt> 2, <tt><a href="cs_pud-pos-NOUN.html">NOUN</a></tt> 1), <em>On</em> (<tt><a href="cs_pud-pos-PRON.html">PRON</a></tt> 1, <tt><a href="cs_pud-pos-ADP.html">ADP</a></tt> 1), <em>a</em> (<tt><a href="cs_pud-pos-CCONJ.html">CCONJ</a></tt> 454, <tt><a href="cs_pud-pos-ADJ.html">ADJ</a></tt> 2, <tt><a href="cs_pud-pos-ADP.html">ADP</a></tt> 1), <em>místo</em> (<tt><a href="cs_pud-pos-NOUN.html">NOUN</a></tt> 12, <tt><a href="cs_pud-pos-ADP.html">ADP</a></tt> 1)
 
 
-* s
-  * <tt><a href="cs_pud-pos-ADP.html">ADP</a></tt> 112: Bylo to jako když by <b>s</b> míčem hrál skořápky .
-  * <tt><a href="cs_pud-pos-NOUN.html">NOUN</a></tt> 1: Slečna Pughová byla ošetřena v nemocnici Papworth and Addenbrooke ' <b>s</b> Hospitals v Cambridgeshire .
-* při
-  * <tt><a href="cs_pud-pos-ADP.html">ADP</a></tt> 13: Vega podotkl , že <b>při</b> jejich mládí mnoho z nich její minulost nezná .
-  * <tt><a href="cs_pud-pos-NOUN.html">NOUN</a></tt> 1: V soudní <b>při</b> , která skončila u Nejvyššího soudu Spojených států , nakonec s pomocí Amerického svazu pro občanská práva napadli stát .
-* se
-  * <tt><a href="cs_pud-pos-PRON.html">PRON</a></tt> 303: Ne každý <b>se</b> nad to dokáže povznést .
-  * <tt><a href="cs_pud-pos-ADP.html">ADP</a></tt> 15: Míjíme městečko <b>se</b> dvěma minarety .
-* of
-  * <tt><a href="cs_pud-pos-ADP.html">ADP</a></tt> 2: Poté , co Catalano žil v Londýně a Glasgow , kde na Glasgow School <b>of</b> Art studoval design šperků , se do tohoto kraje vrátil .
-  * <tt><a href="cs_pud-pos-PROPN.html">PROPN</a></tt> 1: Místní samospráva Kapského Města nese název City <b>of</b> Cape Town a jde o metropolitní správní oblast .
-* pomocí
-  * <tt><a href="cs_pud-pos-ADP.html">ADP</a></tt> 2: „ Dnes provádíme trestání <b>pomocí</b> kladiny , “ stojí v příspěvku .
-  * <tt><a href="cs_pud-pos-NOUN.html">NOUN</a></tt> 1: V soudní při , která skončila u Nejvyššího soudu Spojených států , nakonec s <b>pomocí</b> Amerického svazu pro občanská práva napadli stát .
-* On
-  * <tt><a href="cs_pud-pos-PRON.html">PRON</a></tt> 1: <b>On</b> také poznamenal , že „ existence takového dokumentu by mohla vést k důsledkům , které jsou stejně pravděpodobné , jako jsou nepřijatelné “ .
-  * <tt><a href="cs_pud-pos-ADP.html">ADP</a></tt> 1: Na několika nahrávkách z alba <b>On</b> a wing and a prayer z roku 1992 znovu spolupracoval se svým parťákem Eganem z kapely Stealers wheel .
-* a
-  * <tt><a href="cs_pud-pos-CCONJ.html">CCONJ</a></tt> 454: Co říká <b>a</b> co dělá , to je – no , je to neuvěřitelné .
-  * <tt><a href="cs_pud-pos-ADJ.html">ADJ</a></tt> 2: Na několika nahrávkách z alba On <b>a</b> wing and <b>a</b> prayer z roku 1992 znovu spolupracoval se svým parťákem Eganem z kapely Stealers wheel .
-  * <tt><a href="cs_pud-pos-ADP.html">ADP</a></tt> 1: Nicolai spolupracuje na různých Morriconeho filmových choreografiích , například na Metti , una sera <b>a</b> cena ; některé z nich napsali společně .
-* místo
-  * <tt><a href="cs_pud-pos-NOUN.html">NOUN</a></tt> 12: Slouží jako lokální <b>místo</b> odpočinku a relaxace pro San Francisco .
-  * <tt><a href="cs_pud-pos-ADP.html">ADP</a></tt> 1: Křesťanské církve v severozápadní Evropě a na Ukrajině často používaly k obřadům na Květnou neděli <b>místo</b> palem vrbové proutí .
+* <em>s</em>
+  * <tt><a href="cs_pud-pos-ADP.html">ADP</a></tt> 112: <em>Bylo to jako když by <b>s</b> míčem hrál skořápky .</em>
+  * <tt><a href="cs_pud-pos-NOUN.html">NOUN</a></tt> 1: <em>Slečna Pughová byla ošetřena v nemocnici Papworth and Addenbrooke ' <b>s</b> Hospitals v Cambridgeshire .</em>
+* <em>při</em>
+  * <tt><a href="cs_pud-pos-ADP.html">ADP</a></tt> 13: <em>Vega podotkl , že <b>při</b> jejich mládí mnoho z nich její minulost nezná .</em>
+  * <tt><a href="cs_pud-pos-NOUN.html">NOUN</a></tt> 1: <em>V soudní <b>při</b> , která skončila u Nejvyššího soudu Spojených států , nakonec s pomocí Amerického svazu pro občanská práva napadli stát .</em>
+* <em>se</em>
+  * <tt><a href="cs_pud-pos-PRON.html">PRON</a></tt> 303: <em>Ne každý <b>se</b> nad to dokáže povznést .</em>
+  * <tt><a href="cs_pud-pos-ADP.html">ADP</a></tt> 15: <em>Míjíme městečko <b>se</b> dvěma minarety .</em>
+* <em>of</em>
+  * <tt><a href="cs_pud-pos-ADP.html">ADP</a></tt> 2: <em>Poté , co Catalano žil v Londýně a Glasgow , kde na Glasgow School <b>of</b> Art studoval design šperků , se do tohoto kraje vrátil .</em>
+  * <tt><a href="cs_pud-pos-PROPN.html">PROPN</a></tt> 1: <em>Místní samospráva Kapského Města nese název City <b>of</b> Cape Town a jde o metropolitní správní oblast .</em>
+* <em>pomocí</em>
+  * <tt><a href="cs_pud-pos-ADP.html">ADP</a></tt> 2: <em>„ Dnes provádíme trestání <b>pomocí</b> kladiny , “ stojí v příspěvku .</em>
+  * <tt><a href="cs_pud-pos-NOUN.html">NOUN</a></tt> 1: <em>V soudní při , která skončila u Nejvyššího soudu Spojených států , nakonec s <b>pomocí</b> Amerického svazu pro občanská práva napadli stát .</em>
+* <em>On</em>
+  * <tt><a href="cs_pud-pos-PRON.html">PRON</a></tt> 1: <em><b>On</b> také poznamenal , že „ existence takového dokumentu by mohla vést k důsledkům , které jsou stejně pravděpodobné , jako jsou nepřijatelné “ .</em>
+  * <tt><a href="cs_pud-pos-ADP.html">ADP</a></tt> 1: <em>Na několika nahrávkách z alba <b>On</b> a wing and a prayer z roku 1992 znovu spolupracoval se svým parťákem Eganem z kapely Stealers wheel .</em>
+* <em>a</em>
+  * <tt><a href="cs_pud-pos-CCONJ.html">CCONJ</a></tt> 454: <em>Co říká <b>a</b> co dělá , to je – no , je to neuvěřitelné .</em>
+  * <tt><a href="cs_pud-pos-ADJ.html">ADJ</a></tt> 2: <em>Na několika nahrávkách z alba On <b>a</b> wing and <b>a</b> prayer z roku 1992 znovu spolupracoval se svým parťákem Eganem z kapely Stealers wheel .</em>
+  * <tt><a href="cs_pud-pos-ADP.html">ADP</a></tt> 1: <em>Nicolai spolupracuje na různých Morriconeho filmových choreografiích , například na Metti , una sera <b>a</b> cena ; některé z nich napsali společně .</em>
+* <em>místo</em>
+  * <tt><a href="cs_pud-pos-NOUN.html">NOUN</a></tt> 12: <em>Slouží jako lokální <b>místo</b> odpočinku a relaxace pro San Francisco .</em>
+  * <tt><a href="cs_pud-pos-ADP.html">ADP</a></tt> 1: <em>Křesťanské církve v severozápadní Evropě a na Ukrajině často používaly k obřadům na Květnou neděli <b>místo</b> palem vrbové proutí .</em>
 
 ## Morphology
 
 The form / lemma ratio of `ADP` is 1.104167 (the average of all parts of speech is 1.427558).
 
-The 1st highest number of forms (2) was observed with the lemma “k”: k, ke.
+The 1st highest number of forms (2) was observed with the lemma “k”: <em>k, ke</em>.
 
-The 2nd highest number of forms (2) was observed with the lemma “před”: př, před.
+The 2nd highest number of forms (2) was observed with the lemma “před”: <em>př, před</em>.
 
-The 3rd highest number of forms (2) was observed with the lemma “s”: s, se.
+The 3rd highest number of forms (2) was observed with the lemma “s”: <em>s, se</em>.
 
 `ADP` occurs with 5 features: <tt><a href="cs_pud-feat-AdpType.html">AdpType</a></tt> (1841; 100% instances), <tt><a href="cs_pud-feat-Case.html">Case</a></tt> (1834; 100% instances), <tt><a href="cs_pud-feat-Foreign.html">Foreign</a></tt> (12; 1% instances), <tt><a href="cs_pud-feat-Abbr.html">Abbr</a></tt> (11; 1% instances), <tt><a href="cs_pud-feat-NameType.html">NameType</a></tt> (1; 0% instances)
 
@@ -60,7 +60,7 @@ The 3rd highest number of forms (2) was observed with the lemma “s”: s, se.
 
 `ADP` occurs with 16 feature combinations.
 The most frequent feature combination is `AdpType=Prep|Case=Loc` (677 tokens).
-Examples: v na po o při a
+Examples: <em>v, na, po, o, při, a</em>
 
 
 ## Relations

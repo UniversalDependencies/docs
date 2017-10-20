@@ -9,46 +9,46 @@ udver: '2'
 There are 4 `X` lemmas (0%), 4 `X` types (0%) and 13 `X` tokens (0%).
 Out of 17 observed tags, the rank of `X` is: 17 in number of lemmas, 17 in number of types and 17 in number of tokens.
 
-The 10 most frequent `X` lemmas: a h m s
+The 10 most frequent `X` lemmas: <em>a, h, m, s</em>
 
-The 10 most frequent `X` types:  A H M S
+The 10 most frequent `X` types:  <em>A, H, M, S</em>
 
-The 10 most frequent ambiguous lemmas: a (<tt><a href="cs-pos-CCONJ.html">CCONJ</a></tt> 32110, <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 133, <tt><a href="cs-pos-ADJ.html">ADJ</a></tt> 15, <tt><a href="cs-pos-ADP.html">ADP</a></tt> 9, <tt><a href="cs-pos-X.html">X</a></tt> 4), h (<tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 24, <tt><a href="cs-pos-X.html">X</a></tt> 3), m (<tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 46, <tt><a href="cs-pos-X.html">X</a></tt> 3, <tt><a href="cs-pos-ADJ.html">ADJ</a></tt> 2), s (<tt><a href="cs-pos-ADP.html">ADP</a></tt> 11169, <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 90, <tt><a href="cs-pos-PART.html">PART</a></tt> 21, <tt><a href="cs-pos-X.html">X</a></tt> 3, <tt><a href="cs-pos-ADJ.html">ADJ</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>a</em> (<tt><a href="cs-pos-CCONJ.html">CCONJ</a></tt> 32110, <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 133, <tt><a href="cs-pos-ADJ.html">ADJ</a></tt> 15, <tt><a href="cs-pos-ADP.html">ADP</a></tt> 9, <tt><a href="cs-pos-X.html">X</a></tt> 4), <em>h</em> (<tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 24, <tt><a href="cs-pos-X.html">X</a></tt> 3), <em>m</em> (<tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 46, <tt><a href="cs-pos-X.html">X</a></tt> 3, <tt><a href="cs-pos-ADJ.html">ADJ</a></tt> 2), <em>s</em> (<tt><a href="cs-pos-ADP.html">ADP</a></tt> 11169, <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 90, <tt><a href="cs-pos-PART.html">PART</a></tt> 21, <tt><a href="cs-pos-X.html">X</a></tt> 3, <tt><a href="cs-pos-ADJ.html">ADJ</a></tt> 1)
 
-The 10 most frequent ambiguous types:  A (<tt><a href="cs-pos-CCONJ.html">CCONJ</a></tt> 1042, <tt><a href="cs-pos-PROPN.html">PROPN</a></tt> 172, <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 93, <tt><a href="cs-pos-ADJ.html">ADJ</a></tt> 19, <tt><a href="cs-pos-X.html">X</a></tt> 4), H (<tt><a href="cs-pos-PROPN.html">PROPN</a></tt> 77, <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 18, <tt><a href="cs-pos-X.html">X</a></tt> 3), M (<tt><a href="cs-pos-PROPN.html">PROPN</a></tt> 244, <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 51, <tt><a href="cs-pos-X.html">X</a></tt> 3, <tt><a href="cs-pos-ADJ.html">ADJ</a></tt> 1), S (<tt><a href="cs-pos-ADP.html">ADP</a></tt> 470, <tt><a href="cs-pos-PROPN.html">PROPN</a></tt> 117, <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 38, <tt><a href="cs-pos-ADJ.html">ADJ</a></tt> 14, <tt><a href="cs-pos-X.html">X</a></tt> 3)
+The 10 most frequent ambiguous types:  <em>A</em> (<tt><a href="cs-pos-CCONJ.html">CCONJ</a></tt> 1042, <tt><a href="cs-pos-PROPN.html">PROPN</a></tt> 172, <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 93, <tt><a href="cs-pos-ADJ.html">ADJ</a></tt> 19, <tt><a href="cs-pos-X.html">X</a></tt> 4), <em>H</em> (<tt><a href="cs-pos-PROPN.html">PROPN</a></tt> 77, <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 18, <tt><a href="cs-pos-X.html">X</a></tt> 3), <em>M</em> (<tt><a href="cs-pos-PROPN.html">PROPN</a></tt> 244, <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 51, <tt><a href="cs-pos-X.html">X</a></tt> 3, <tt><a href="cs-pos-ADJ.html">ADJ</a></tt> 1), <em>S</em> (<tt><a href="cs-pos-ADP.html">ADP</a></tt> 470, <tt><a href="cs-pos-PROPN.html">PROPN</a></tt> 117, <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 38, <tt><a href="cs-pos-ADJ.html">ADJ</a></tt> 14, <tt><a href="cs-pos-X.html">X</a></tt> 3)
 
 
-* A
-  * <tt><a href="cs-pos-CCONJ.html">CCONJ</a></tt> 1042: <b>A</b> skutečně přišel s návrhem na zjednodušený model řízení .
-  * <tt><a href="cs-pos-PROPN.html">PROPN</a></tt> 172: Přenosová rychlost : ( <b>A</b> 4 / sec ) 12
-  * <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 93: Buďte <b>A</b> , B paty kolmic spuštěných z bodů <b>A</b> , B na přímku q .
-  * <tt><a href="cs-pos-ADJ.html">ADJ</a></tt> 19: <b>A</b> O Travel se srazit nedala
-  * <tt><a href="cs-pos-X.html">X</a></tt> 4: Nenápadný půvab M . <b>A</b> . S . H .
-* H
-  * <tt><a href="cs-pos-PROPN.html">PROPN</a></tt> 77: 9.15 <b>H</b> . Asmodi : Lidožrouti
-  * <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 18: Hlasy před hodinou <b>H</b>
-  * <tt><a href="cs-pos-X.html">X</a></tt> 3: Nenápadný půvab M . A . S . <b>H</b> .
-* M
-  * <tt><a href="cs-pos-PROPN.html">PROPN</a></tt> 244: Příchod Nového roku oslaví <b>M</b> . Gorbačov v Moskvě .
-  * <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 51: " Nesnesu soucit , " řekla mi na rozloučenou Jana <b>M</b> .
-  * <tt><a href="cs-pos-X.html">X</a></tt> 3: Nenápadný půvab <b>M</b> . A . S . H .
-  * <tt><a href="cs-pos-ADJ.html">ADJ</a></tt> 1: Známá je již předskokanka R . E . <b>M</b> . , kteří se objeví ve Sportovní hale 26 . března příštího roku .
-* S
-  * <tt><a href="cs-pos-ADP.html">ADP</a></tt> 470: <b>S</b> velkou pravděpodobností u jednoho pobytu naše spolupráce neskončila .
-  * <tt><a href="cs-pos-PROPN.html">PROPN</a></tt> 117: P . <b>S</b> . : Souhlasím .
-  * <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 38: Buď <b>S</b> bod v němž k tomuto rozlomení dochází ( viz obr . 9 ) .
-  * <tt><a href="cs-pos-ADJ.html">ADJ</a></tt> 14: Velký úspěch má v poslední době také program <b>S</b> . P . Z .
-  * <tt><a href="cs-pos-X.html">X</a></tt> 3: Nenápadný půvab M . A . <b>S</b> . H .
+* <em>A</em>
+  * <tt><a href="cs-pos-CCONJ.html">CCONJ</a></tt> 1042: <em><b>A</b> skutečně přišel s návrhem na zjednodušený model řízení .</em>
+  * <tt><a href="cs-pos-PROPN.html">PROPN</a></tt> 172: <em>Přenosová rychlost : ( <b>A</b> 4 / sec ) 12</em>
+  * <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 93: <em>Buďte <b>A</b> , B paty kolmic spuštěných z bodů <b>A</b> , B na přímku q .</em>
+  * <tt><a href="cs-pos-ADJ.html">ADJ</a></tt> 19: <em><b>A</b> O Travel se srazit nedala</em>
+  * <tt><a href="cs-pos-X.html">X</a></tt> 4: <em>Nenápadný půvab M . <b>A</b> . S . H .</em>
+* <em>H</em>
+  * <tt><a href="cs-pos-PROPN.html">PROPN</a></tt> 77: <em>9.15 <b>H</b> . Asmodi : Lidožrouti</em>
+  * <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 18: <em>Hlasy před hodinou <b>H</b></em>
+  * <tt><a href="cs-pos-X.html">X</a></tt> 3: <em>Nenápadný půvab M . A . S . <b>H</b> .</em>
+* <em>M</em>
+  * <tt><a href="cs-pos-PROPN.html">PROPN</a></tt> 244: <em>Příchod Nového roku oslaví <b>M</b> . Gorbačov v Moskvě .</em>
+  * <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 51: <em>" Nesnesu soucit , " řekla mi na rozloučenou Jana <b>M</b> .</em>
+  * <tt><a href="cs-pos-X.html">X</a></tt> 3: <em>Nenápadný půvab <b>M</b> . A . S . H .</em>
+  * <tt><a href="cs-pos-ADJ.html">ADJ</a></tt> 1: <em>Známá je již předskokanka R . E . <b>M</b> . , kteří se objeví ve Sportovní hale 26 . března příštího roku .</em>
+* <em>S</em>
+  * <tt><a href="cs-pos-ADP.html">ADP</a></tt> 470: <em><b>S</b> velkou pravděpodobností u jednoho pobytu naše spolupráce neskončila .</em>
+  * <tt><a href="cs-pos-PROPN.html">PROPN</a></tt> 117: <em>P . <b>S</b> . : Souhlasím .</em>
+  * <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 38: <em>Buď <b>S</b> bod v němž k tomuto rozlomení dochází ( viz obr . 9 ) .</em>
+  * <tt><a href="cs-pos-ADJ.html">ADJ</a></tt> 14: <em>Velký úspěch má v poslední době také program <b>S</b> . P . Z .</em>
+  * <tt><a href="cs-pos-X.html">X</a></tt> 3: <em>Nenápadný půvab M . A . <b>S</b> . H .</em>
 
 ## Morphology
 
 The form / lemma ratio of `X` is 1.000000 (the average of all parts of speech is 2.181849).
 
-The 1st highest number of forms (1) was observed with the lemma “a”: A.
+The 1st highest number of forms (1) was observed with the lemma “a”: <em>A</em>.
 
-The 2nd highest number of forms (1) was observed with the lemma “h”: H.
+The 2nd highest number of forms (1) was observed with the lemma “h”: <em>H</em>.
 
-The 3rd highest number of forms (1) was observed with the lemma “m”: M.
+The 3rd highest number of forms (1) was observed with the lemma “m”: <em>M</em>.
 
 `X` occurs with 1 features: <tt><a href="cs-feat-Abbr.html">Abbr</a></tt> (12; 92% instances)
 
@@ -56,7 +56,7 @@ The 3rd highest number of forms (1) was observed with the lemma “m”: M.
 
 `X` occurs with 2 feature combinations.
 The most frequent feature combination is `Abbr=Yes` (12 tokens).
-Examples: A H M S
+Examples: <em>A, H, M, S</em>
 
 
 ## Relations

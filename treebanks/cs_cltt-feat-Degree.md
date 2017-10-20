@@ -22,23 +22,23 @@ The most frequent other feature values with which `ADJ` and `Degree` co-occurred
 
 `ADJ` tokens may have the following values of `Degree`:
 
-* `Cmp` (55; 1% of non-empty `Degree`): delší vyšší kratší nižší pozdějších podrobnější menší nižším bližší bližších
-* `Pos` (6032; 99% of non-empty `Degree`): účetní účetních účetního konsolidované finanční účetním výroční právní jiných ostatní
-* `Sup` (6; 0% of non-empty `Degree`): nejvyšší nejvyšším nejvyššího
-* `EMPTY` (446): konsolidující povinny povinna zanikající následujícího související předcházejícímu týkající prvním přejímající
+* `Cmp` (55; 1% of non-empty `Degree`): <em>delší, vyšší, kratší, nižší, pozdějších, podrobnější, menší, nižším, bližší, bližších</em>
+* `Pos` (6032; 99% of non-empty `Degree`): <em>účetní, účetních, účetního, konsolidované, finanční, účetním, výroční, právní, jiných, ostatní</em>
+* `Sup` (6; 0% of non-empty `Degree`): <em>nejvyšší, nejvyšším, nejvyššího</em>
+* `EMPTY` (446): <em>konsolidující, povinny, povinna, zanikající, následujícího, související, předcházejícímu, týkající, prvním, přejímající</em>
 
 <table>
   <tr><th>Paradigm <i>vysoký</i></th><th><tt>Cmp</tt></th><th><tt>Sup</tt></th></tr>
-  <tr><td><tt><tt><a href="cs_cltt-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt>|<tt><a href="cs_cltt-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="cs_cltt-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td>vyšší</td><td></td></tr>
-  <tr><td><tt><tt><a href="cs_cltt-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="cs_cltt-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="cs_cltt-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td>nejvyššího</td></tr>
-  <tr><td><tt><tt><a href="cs_cltt-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="cs_cltt-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="cs_cltt-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td>vyšších</td><td></td></tr>
-  <tr><td><tt><tt><a href="cs_cltt-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="cs_cltt-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="cs_cltt-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td>nejvyšším</td></tr>
-  <tr><td><tt><tt><a href="cs_cltt-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="cs_cltt-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="cs_cltt-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td>vyšší</td><td>nejvyšší</td></tr>
-  <tr><td><tt><tt><a href="cs_cltt-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="cs_cltt-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td>vyšší</td><td></td></tr>
-  <tr><td><tt><tt><a href="cs_cltt-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="cs_cltt-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td>vyšší</td><td></td></tr>
-  <tr><td><tt><tt><a href="cs_cltt-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="cs_cltt-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td>vyšší</td><td>nejvyšší</td></tr>
-  <tr><td><tt><tt><a href="cs_cltt-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="cs_cltt-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td>vyšší</td><td></td></tr>
-  <tr><td><tt><tt><a href="cs_cltt-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="cs_cltt-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td>vyšší</td><td></td></tr>
+  <tr><td><tt><tt><a href="cs_cltt-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt>|<tt><a href="cs_cltt-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="cs_cltt-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>vyšší</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="cs_cltt-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="cs_cltt-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="cs_cltt-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>nejvyššího</em></td></tr>
+  <tr><td><tt><tt><a href="cs_cltt-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="cs_cltt-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="cs_cltt-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>vyšších</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="cs_cltt-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="cs_cltt-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="cs_cltt-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>nejvyšším</em></td></tr>
+  <tr><td><tt><tt><a href="cs_cltt-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="cs_cltt-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="cs_cltt-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>vyšší</em></td><td><em>nejvyšší</em></td></tr>
+  <tr><td><tt><tt><a href="cs_cltt-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="cs_cltt-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>vyšší</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="cs_cltt-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="cs_cltt-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>vyšší</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="cs_cltt-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="cs_cltt-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>vyšší</em></td><td><em>nejvyšší</em></td></tr>
+  <tr><td><tt><tt><a href="cs_cltt-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="cs_cltt-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>vyšší</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="cs_cltt-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="cs_cltt-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>vyšší</em></td><td></td></tr>
 </table>
 
 `Degree` seems to be **lexical feature** of `ADJ`. 99% lemmas (578) occur only with one value of `Degree`.
@@ -51,14 +51,14 @@ The most frequent other feature values with which `ADV` and `Degree` co-occurred
 
 `ADV` tokens may have the following values of `Degree`:
 
-* `Cmp` (73; 26% of non-empty `Degree`): více později nejméně nejpozději výše nejvýše dále méně dříve nejblíže
-* `Pos` (204; 72% of non-empty `Degree`): obdobně případně samostatně bezprostředně přímo odděleně bezúplatně přiměřeně současně výhradně
-* `Sup` (8; 3% of non-empty `Degree`): nejpozději nejméně nejdříve
-* `EMPTY` (502): dále zejména popřípadě jinak pouze kdy též například tak celkem
+* `Cmp` (73; 26% of non-empty `Degree`): <em>více, později, nejméně, nejpozději, výše, nejvýše, dále, méně, dříve, nejblíže</em>
+* `Pos` (204; 72% of non-empty `Degree`): <em>obdobně, případně, samostatně, bezprostředně, přímo, odděleně, bezúplatně, přiměřeně, současně, výhradně</em>
+* `Sup` (8; 3% of non-empty `Degree`): <em>nejpozději, nejméně, nejdříve</em>
+* `EMPTY` (502): <em>dále, zejména, popřípadě, jinak, pouze, kdy, též, například, tak, celkem</em>
 
 <table>
   <tr><th>Paradigm <i>pozdě</i></th><th><tt>Cmp</tt></th><th><tt>Sup</tt></th></tr>
-  <tr><td><tt></tt></td><td>později, nejpozději</td><td>nejpozději</td></tr>
+  <tr><td><tt></tt></td><td><em>později, nejpozději</em></td><td><em>nejpozději</em></td></tr>
 </table>
 
 `Degree` seems to be **lexical feature** of `ADV`. 96% lemmas (80) occur only with one value of `Degree`.

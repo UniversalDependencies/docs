@@ -22,8 +22,8 @@ The most frequent other feature values with which `ADJ` and `Aspect` co-occurred
 
 `ADJ` tokens may have the following values of `Aspect`:
 
-* `Imp` (288; 100% of non-empty `Aspect`): konsolidující zanikající následujícího související předcházejícímu týkající přejímající předcházející souvisejících řídících
-* `EMPTY` (6251): účetní účetních účetního konsolidované finanční účetním povinny výroční právní jiných
+* `Imp` (288; 100% of non-empty `Aspect`): <em>konsolidující, zanikající, následujícího, související, předcházejícímu, týkající, přejímající, předcházející, souvisejících, řídících</em>
+* `EMPTY` (6251): <em>účetní, účetních, účetního, konsolidované, finanční, účetním, povinny, výroční, právní, jiných</em>
 
 `Aspect` seems to be **lexical feature** of `ADJ`. 100% lemmas (50) occur only with one value of `Aspect`.
 
@@ -35,6 +35,6 @@ The most frequent other feature values with which `VERB` and `Aspect` co-occurre
 
 `VERB` tokens may have the following values of `Aspect`:
 
-* `Imp` (1; 100% of non-empty `Aspect`): počínaje
-* `EMPTY` (2116): obsahuje rozumí může uvede mohou použijí stanoví vést musí účtuje
+* `Imp` (1; 100% of non-empty `Aspect`): <em>počínaje</em>
+* `EMPTY` (2116): <em>obsahuje, rozumí, může, uvede, mohou, použijí, stanoví, vést, musí, účtuje</em>
 

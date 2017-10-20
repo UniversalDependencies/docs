@@ -22,8 +22,8 @@ The most frequent other feature values with which `DET` and `Poss` co-occurred: 
 
 `DET` tokens may have the following values of `Poss`:
 
-* `Yes` (240; 100% of non-empty `Poss`): jejich jeho její jejichž své jejího jehož jejím svého svých
-* `EMPTY` (355): této tohoto těchto tyto tato tento tomto tuto toto tímto
+* `Yes` (240; 100% of non-empty `Poss`): <em>jejich, jeho, její, jejichž, své, jejího, jehož, jejím, svého, svých</em>
+* `EMPTY` (355): <em>této, tohoto, těchto, tyto, tato, tento, tomto, tuto, toto, tímto</em>
 
 ### `ADJ`
 
@@ -33,6 +33,6 @@ The most frequent other feature values with which `ADJ` and `Poss` co-occurred: 
 
 `ADJ` tokens may have the following values of `Poss`:
 
-* `Yes` (1; 100% of non-empty `Poss`): vlastníkovi
-* `EMPTY` (6538): účetní účetních účetního konsolidované konsolidující finanční účetním povinny výroční právní
+* `Yes` (1; 100% of non-empty `Poss`): <em>vlastníkovi</em>
+* `EMPTY` (6538): <em>účetní, účetních, účetního, konsolidované, konsolidující, finanční, účetním, povinny, výroční, právní</em>
 

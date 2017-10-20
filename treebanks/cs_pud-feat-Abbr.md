@@ -22,8 +22,8 @@ The most frequent other feature values with which `NOUN` and `Abbr` co-occurred:
 
 `NOUN` tokens may have the following values of `Abbr`:
 
-* `Yes` (44; 100% of non-empty `Abbr`): l DNA GCA MPS m A AIDS APK BK CGI
-* `EMPTY` (4438): roce roku let století letech době území období oblasti moře
+* `Yes` (44; 100% of non-empty `Abbr`): <em>l, DNA, GCA, MPS, m, A, AIDS, APK, BK, CGI</em>
+* `EMPTY` (4438): <em>roce, roku, let, století, letech, době, území, období, oblasti, moře</em>
 
 `Abbr` seems to be **lexical feature** of `NOUN`. 100% lemmas (30) occur only with one value of `Abbr`.
 
@@ -31,12 +31,12 @@ The most frequent other feature values with which `NOUN` and `Abbr` co-occurred:
 
 40 <tt><a href="cs_pud-pos-PROPN.html">PROPN</a></tt> tokens (4% of all `PROPN` tokens) have a non-empty value of `Abbr`.
 
-The most frequent other feature values with which `PROPN` and `Abbr` co-occurred: <tt><a href="cs_pud-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (40; 100%), <tt><a href="cs_pud-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (40; 100%), <tt><a href="cs_pud-feat-NameType.html">NameType</a></tt><tt>=Com</tt> (35; 88%), <tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (35; 88%), <tt><a href="cs_pud-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (33; 83%), <tt><a href="cs_pud-feat-Foreign.html">Foreign</a></tt><tt>=EMPTY</tt> (23; 57%).
+The most frequent other feature values with which `PROPN` and `Abbr` co-occurred: <tt><a href="cs_pud-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (40; 100%), <tt><a href="cs_pud-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (40; 100%), <tt><a href="cs_pud-feat-NameType.html">NameType</a></tt><tt>=Com</tt> (35; 88%), <tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (35; 88%), <tt><a href="cs_pud-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (33; 83%), <tt><a href="cs_pud-feat-Foreign.html">Foreign</a></tt><tt>=EMPTY</tt> (23; 57%).
 
 `PROPN` tokens may have the following values of `Abbr`:
 
-* `Yes` (40; 100% of non-empty `Abbr`): USA BBC CNN EU OSN RECO AP BA BID CBC
-* `EMPTY` (1051): Čína Francie Čching Albánie Británii Clintonové Danevirke Evropě Itálii Trump
+* `Yes` (40; 100% of non-empty `Abbr`): <em>USA, BBC, CNN, EU, OSN, RECO, AP, BA, BID, CBC</em>
+* `EMPTY` (1051): <em>Čína, Francie, Čching, Albánie, Británii, Clintonové, Danevirke, Evropě, Itálii, Trump</em>
 
 `Abbr` seems to be **lexical feature** of `PROPN`. 100% lemmas (27) occur only with one value of `Abbr`.
 
@@ -44,12 +44,12 @@ The most frequent other feature values with which `PROPN` and `Abbr` co-occurred
 
 13 <tt><a href="cs_pud-pos-DET.html">DET</a></tt> tokens (2% of all `DET` tokens) have a non-empty value of `Abbr`.
 
-The most frequent other feature values with which `DET` and `Abbr` co-occurred: <tt><a href="cs_pud-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (13; 100%), <tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (13; 100%), <tt><a href="cs_pud-feat-Gender-psor.html">Gender[psor]</a></tt><tt>=EMPTY</tt> (13; 100%), <tt><a href="cs_pud-feat-Person.html">Person</a></tt><tt>=1</tt> (13; 100%), <tt><a href="cs_pud-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (13; 100%), <tt><a href="cs_pud-feat-Number-psor.html">Number[psor]</a></tt><tt>=Plur</tt> (13; 100%), <tt><a href="cs_pud-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (13; 100%), <tt><a href="cs_pud-feat-Poss.html">Poss</a></tt><tt>=Yes</tt> (13; 100%), <tt><a href="cs_pud-feat-Gender.html">Gender</a></tt><tt>=Masc,Neut</tt> (13; 100%), <tt><a href="cs_pud-feat-Case.html">Case</a></tt><tt>=Ins</tt> (11; 85%).
+The most frequent other feature values with which `DET` and `Abbr` co-occurred: <tt><a href="cs_pud-feat-Person.html">Person</a></tt><tt>=1</tt> (13; 100%), <tt><a href="cs_pud-feat-Poss.html">Poss</a></tt><tt>=Yes</tt> (13; 100%), <tt><a href="cs_pud-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (13; 100%), <tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (13; 100%), <tt><a href="cs_pud-feat-Gender-psor.html">Gender[psor]</a></tt><tt>=EMPTY</tt> (13; 100%), <tt><a href="cs_pud-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (13; 100%), <tt><a href="cs_pud-feat-Gender.html">Gender</a></tt><tt>=Masc,Neut</tt> (13; 100%), <tt><a href="cs_pud-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (13; 100%), <tt><a href="cs_pud-feat-Number-psor.html">Number[psor]</a></tt><tt>=Plur</tt> (13; 100%), <tt><a href="cs_pud-feat-Case.html">Case</a></tt><tt>=Ins</tt> (11; 85%).
 
 `DET` tokens may have the following values of `Abbr`:
 
-* `Yes` (13; 100% of non-empty `Abbr`): n
-* `EMPTY` (800): to který jeho které která jejich své mnoho toho její
+* `Yes` (13; 100% of non-empty `Abbr`): <em>n</em>
+* `EMPTY` (800): <em>to, který, jeho, které, která, jejich, své, mnoho, toho, její</em>
 
 ### `ADP`
 
@@ -59,19 +59,19 @@ The most frequent other feature values with which `ADP` and `Abbr` co-occurred: 
 
 `ADP` tokens may have the following values of `Abbr`:
 
-* `Yes` (11; 100% of non-empty `Abbr`): př
-* `EMPTY` (1832): v na z s do ve o k pro za
+* `Yes` (11; 100% of non-empty `Abbr`): <em>př</em>
+* `EMPTY` (1832): <em>v, na, z, s, do, ve, o, k, pro, za</em>
 
 ### `ADJ`
 
 2 <tt><a href="cs_pud-pos-ADJ.html">ADJ</a></tt> tokens (0% of all `ADJ` tokens) have a non-empty value of `Abbr`.
 
-The most frequent other feature values with which `ADJ` and `Abbr` co-occurred: <tt><a href="cs_pud-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (2; 100%), <tt><a href="cs_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="cs_pud-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="cs_pud-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (2; 100%), <tt><a href="cs_pud-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="cs_pud-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="cs_pud-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (2; 100%).
+The most frequent other feature values with which `ADJ` and `Abbr` co-occurred: <tt><a href="cs_pud-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (2; 100%), <tt><a href="cs_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="cs_pud-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="cs_pud-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (2; 100%), <tt><a href="cs_pud-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="cs_pud-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="cs_pud-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (2; 100%).
 
 `ADJ` tokens may have the following values of `Abbr`:
 
-* `Yes` (2; 100% of non-empty `Abbr`): sv tzv
-* `EMPTY` (2282): první další nové jižní druhé severní hlavní velká velké vlastní
+* `Yes` (2; 100% of non-empty `Abbr`): <em>sv, tzv</em>
+* `EMPTY` (2282): <em>první, další, nové, jižní, druhé, severní, hlavní, velká, velké, vlastní</em>
 
 ### `ADV`
 
@@ -81,8 +81,8 @@ The most frequent other feature values with which `ADV` and `Abbr` co-occurred: 
 
 `ADV` tokens may have the following values of `Abbr`:
 
-* `Yes` (1; 100% of non-empty `Abbr`): cca
-* `EMPTY` (848): tak také jak více poté už kde pouze stejně ještě
+* `Yes` (1; 100% of non-empty `Abbr`): <em>cca</em>
+* `EMPTY` (848): <em>tak, také, jak, více, poté, už, kde, pouze, stejně, ještě</em>
 
 ## Relations with Agreement in `Abbr`
 

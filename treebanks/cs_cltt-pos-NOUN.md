@@ -9,55 +9,55 @@ udver: '2'
 There are 860 `NOUN` lemmas (31%), 1667 `NOUN` types (35%) and 11296 `NOUN` tokens (30%).
 Out of 15 observed tags, the rank of `NOUN` is: 1 in number of lemmas, 1 in number of types and 1 in number of tokens.
 
-The 10 most frequent `NOUN` lemmas: jednotka majetek položka závěrka den období záznam ocenění závazek účetnictví
+The 10 most frequent `NOUN` lemmas: <em>jednotka, majetek, položka, závěrka, den, období, záznam, ocenění, závazek, účetnictví</em>
 
-The 10 most frequent `NOUN` types:  jednotky jednotka majetku období ocenění účetnictví položka závěrky dni ustanovení
+The 10 most frequent `NOUN` types:  <em>jednotky, jednotka, majetku, období, ocenění, účetnictví, položka, závěrky, dni, ustanovení</em>
 
-The 10 most frequent ambiguous lemmas: jednotka (<tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt> 713, <tt><a href="cs_cltt-pos-X.html">X</a></tt> 3), ocenění (<tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt> 156, <tt><a href="cs_cltt-pos-X.html">X</a></tt> 4), zákon (<tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt> 95, <tt><a href="cs_cltt-pos-X.html">X</a></tt> 1), rozdíl (<tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt> 76, <tt><a href="cs_cltt-pos-X.html">X</a></tt> 5), daň (<tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt> 45, <tt><a href="cs_cltt-pos-X.html">X</a></tt> 2), stát (<tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt> 40, <tt><a href="cs_cltt-pos-VERB.html">VERB</a></tt> 7), výsledek (<tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt> 33, <tt><a href="cs_cltt-pos-X.html">X</a></tt> 15), hospodaření (<tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt> 30, <tt><a href="cs_cltt-pos-X.html">X</a></tt> 14), prodej (<tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt> 25, <tt><a href="cs_cltt-pos-X.html">X</a></tt> 1), účetní (<tt><a href="cs_cltt-pos-ADJ.html">ADJ</a></tt> 1467, <tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt> 22, <tt><a href="cs_cltt-pos-X.html">X</a></tt> 11)
+The 10 most frequent ambiguous lemmas: <em>jednotka</em> (<tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt> 713, <tt><a href="cs_cltt-pos-X.html">X</a></tt> 3), <em>ocenění</em> (<tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt> 156, <tt><a href="cs_cltt-pos-X.html">X</a></tt> 4), <em>zákon</em> (<tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt> 95, <tt><a href="cs_cltt-pos-X.html">X</a></tt> 1), <em>rozdíl</em> (<tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt> 76, <tt><a href="cs_cltt-pos-X.html">X</a></tt> 5), <em>daň</em> (<tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt> 45, <tt><a href="cs_cltt-pos-X.html">X</a></tt> 2), <em>stát</em> (<tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt> 40, <tt><a href="cs_cltt-pos-VERB.html">VERB</a></tt> 7), <em>výsledek</em> (<tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt> 33, <tt><a href="cs_cltt-pos-X.html">X</a></tt> 15), <em>hospodaření</em> (<tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt> 30, <tt><a href="cs_cltt-pos-X.html">X</a></tt> 14), <em>prodej</em> (<tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt> 25, <tt><a href="cs_cltt-pos-X.html">X</a></tt> 1), <em>účetní</em> (<tt><a href="cs_cltt-pos-ADJ.html">ADJ</a></tt> 1467, <tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt> 22, <tt><a href="cs_cltt-pos-X.html">X</a></tt> 11)
 
-The 10 most frequent ambiguous types:  jednotka (<tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt> 226, <tt><a href="cs_cltt-pos-X.html">X</a></tt> 3), ocenění (<tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt> 141, <tt><a href="cs_cltt-pos-X.html">X</a></tt> 4), ustanovení (<tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt> 63, <tt><a href="cs_cltt-pos-ADJ.html">ADJ</a></tt> 1), položek (<tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt> 70, <tt><a href="cs_cltt-pos-X.html">X</a></tt> 4), náklady (<tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt> 61, <tt><a href="cs_cltt-pos-X.html">X</a></tt> 1), nákladů (<tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt> 55, <tt><a href="cs_cltt-pos-X.html">X</a></tt> 1), zákona (<tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt> 51, <tt><a href="cs_cltt-pos-X.html">X</a></tt> 51), vyhlášky (<tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt> 43, <tt><a href="cs_cltt-pos-X.html">X</a></tt> 8), výše (<tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt> 35, <tt><a href="cs_cltt-pos-ADV.html">ADV</a></tt> 6), hospodaření (<tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt> 30, <tt><a href="cs_cltt-pos-X.html">X</a></tt> 14)
+The 10 most frequent ambiguous types:  <em>jednotka</em> (<tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt> 226, <tt><a href="cs_cltt-pos-X.html">X</a></tt> 3), <em>ocenění</em> (<tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt> 141, <tt><a href="cs_cltt-pos-X.html">X</a></tt> 4), <em>ustanovení</em> (<tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt> 63, <tt><a href="cs_cltt-pos-ADJ.html">ADJ</a></tt> 1), <em>položek</em> (<tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt> 70, <tt><a href="cs_cltt-pos-X.html">X</a></tt> 4), <em>náklady</em> (<tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt> 61, <tt><a href="cs_cltt-pos-X.html">X</a></tt> 1), <em>nákladů</em> (<tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt> 55, <tt><a href="cs_cltt-pos-X.html">X</a></tt> 1), <em>zákona</em> (<tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt> 51, <tt><a href="cs_cltt-pos-X.html">X</a></tt> 51), <em>vyhlášky</em> (<tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt> 43, <tt><a href="cs_cltt-pos-X.html">X</a></tt> 8), <em>výše</em> (<tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt> 35, <tt><a href="cs_cltt-pos-ADV.html">ADV</a></tt> 6), <em>hospodaření</em> (<tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt> 30, <tt><a href="cs_cltt-pos-X.html">X</a></tt> 14)
 
 
-* jednotka
-  * <tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt> 226: Účetní <b>jednotka</b> popíše tuto skutečnost v příloze v účetní závěrce .
-  * <tt><a href="cs_cltt-pos-X.html">X</a></tt> 3: (2) Pokud zákon o přeměnách vyžaduje u zanikající společnosti nebo u společnosti rozdělované odštěpením , které jsou účetní jednotkou ( dále jen "zanikající účetní jednotka" a "účetní <b>jednotka</b> rozdělovaná odštěpením" ) , ocenění jmění při přeměně společnosti , použijí tyto účetní jednotky při ocenění majetku a závazků reálnou hodnotou způsob ocenění podle § 24 odst. 3 písm. a) bodu 1 nebo 2 zákona ; obdobně postupuje nástupnická společnost , která je účetní jednotkou ( dále jen "nástupnická účetní jednotka" ) , nebo přejímající společník , který je účetní jednotkou , v případě uvedeném v odstavci 7 .
-* ocenění
-  * <tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt> 141: Uvedený majetek se odpisuje jen do výše jeho <b>ocenění</b> v účetnictví .
-  * <tt><a href="cs_cltt-pos-X.html">X</a></tt> 4: (3) Položka "A.II.6. Rozdíly z <b>ocenění</b> při přeměnách společností" obsahuje u majetku a závazků , které byly vykázány v účetní závěrce využité pro ocenění jmění pro projekt přeměny společnosti , oceňovací rozdíly , které se vztahují k úbytkům tohoto majetku a závazků v období ode dne následujícího po rozvahovém dni pro ocenění do rozhodného dne .
-* ustanovení
-  * <tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt> 63: Případné výjimky z tohoto <b>ustanovení</b> účetní jednotka uvede v příloze .
-  * <tt><a href="cs_cltt-pos-ADJ.html">ADJ</a></tt> 1: (3) Účetní jednotky , které vedou účetnictví ve zjednodušeném rozsahu , a) tvoří opravné položky a rezervy pouze podle zvláštních právních předpisů , a proto použijí <b>ustanovení</b> § 16, 26, 31, 55 a 57 přiměřeně , b) neoceňují majetek a závazky reálnou hodnotou podle § 27 zákona , s výjimkou přeměny bytových družstev , a nepoužijí ustanovení § 14, 39 , § 51 až 55 , § 58, 60 a 69 , v rozsahu v jakém upravují oceňování majetku a závazků reálnou hodnotou , c) sestavují účetní závěrku ve zjednodušeném rozsahu .
-* položek
-  * <tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt> 70: Změna stavu rezerv a opravných <b>položek</b> ve finanční oblasti
-  * <tt><a href="cs_cltt-pos-X.html">X</a></tt> 4: Položka "M. Změna stavu rezerv a opravných <b>položek</b> ve finanční oblasti" obsahuje rozdíl mezi konečným a počátečním stavem rezerv a opravných položek ve finanční oblasti ; tato položka může mít i zápornou hodnotu .
-* náklady
-  * <tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt> 61: Osobní <b>náklady</b>
-  * <tt><a href="cs_cltt-pos-X.html">X</a></tt> 1: (3) Položka "D.I.2. Komplexní <b>náklady</b> příštích období" obsahuje položky , které se týkají nákladů příštích účetních období a které se souhrnně vztahují k danému účelu .
-* nákladů
-  * <tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt> 55: Vymezení <b>nákladů</b> souvisejících s pořízením cenných papírů a podílů
-  * <tt><a href="cs_cltt-pos-X.html">X</a></tt> 1: Položka "G. Změna stavu rezerv a opravných položek v provozní oblasti a komplexních <b>nákladů</b> příštích období" obsahuje rozdíl mezi konečným a počátečním stavem rezerv , opravných položek a komplexních nákladů příštích období ; tato položka může mít i zápornou hodnotu .
-* zákona
-  * <tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt> 51: (2) Jednotlivé složky majetku a závazků se ocení podle § 24 a 25 <b>zákona</b> .
-  * <tt><a href="cs_cltt-pos-X.html">X</a></tt> 51: Metoda ocenění při nabytí více než jedné složky majetku převodem či přechodem podle § 24 odst. 3 písm. b) <b>zákona</b>
-* vyhlášky
-  * <tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt> 43: (1) Ministerstvo vydá <b>vyhlášky</b> k provedení § 4 odst. 8, § 23b odst. 5, § 24 odst. 5, § 29 odst. 4 a § 30 odst. 5 .
-  * <tt><a href="cs_cltt-pos-X.html">X</a></tt> 8: 3 . Ustanovení § 15a <b>vyhlášky</b> č. 500/2002 Sb. , ve znění účinném ode dne nabytí účinnosti této vyhlášky , se použije poprvé v účetním období , které započne 1 . ledna 2013 nebo později .
-* výše
-  * <tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt> 35: Uvedený majetek se odpisuje jen do <b>výše</b> jeho ocenění v účetnictví .
-  * <tt><a href="cs_cltt-pos-ADV.html">ADV</a></tt> 6: (1) V konsolidovaném výkazu zisku a ztráty se uvádí <b>výše</b> nákladů a výnosů odděleně za běžné účetní období a minulé účetní období .
-* hospodaření
-  * <tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt> 30: Výsledek <b>hospodaření</b> minulých let
-  * <tt><a href="cs_cltt-pos-X.html">X</a></tt> 14: Účetní jednotka popíše použití položky "A.IV.3. Jiný výsledek <b>hospodaření</b> minulých let" v příloze v účetní závěrce .
+* <em>jednotka</em>
+  * <tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt> 226: <em>Účetní <b>jednotka</b> popíše tuto skutečnost v příloze v účetní závěrce .</em>
+  * <tt><a href="cs_cltt-pos-X.html">X</a></tt> 3: <em>(2) Pokud zákon o přeměnách vyžaduje u zanikající společnosti nebo u společnosti rozdělované odštěpením , které jsou účetní jednotkou ( dále jen "zanikající účetní jednotka" a "účetní <b>jednotka</b> rozdělovaná odštěpením" ) , ocenění jmění při přeměně společnosti , použijí tyto účetní jednotky při ocenění majetku a závazků reálnou hodnotou způsob ocenění podle § 24 odst. 3 písm. a) bodu 1 nebo 2 zákona ; obdobně postupuje nástupnická společnost , která je účetní jednotkou ( dále jen "nástupnická účetní jednotka" ) , nebo přejímající společník , který je účetní jednotkou , v případě uvedeném v odstavci 7 .</em>
+* <em>ocenění</em>
+  * <tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt> 141: <em>Uvedený majetek se odpisuje jen do výše jeho <b>ocenění</b> v účetnictví .</em>
+  * <tt><a href="cs_cltt-pos-X.html">X</a></tt> 4: <em>(3) Položka "A.II.6. Rozdíly z <b>ocenění</b> při přeměnách společností" obsahuje u majetku a závazků , které byly vykázány v účetní závěrce využité pro ocenění jmění pro projekt přeměny společnosti , oceňovací rozdíly , které se vztahují k úbytkům tohoto majetku a závazků v období ode dne následujícího po rozvahovém dni pro ocenění do rozhodného dne .</em>
+* <em>ustanovení</em>
+  * <tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt> 63: <em>Případné výjimky z tohoto <b>ustanovení</b> účetní jednotka uvede v příloze .</em>
+  * <tt><a href="cs_cltt-pos-ADJ.html">ADJ</a></tt> 1: <em>(3) Účetní jednotky , které vedou účetnictví ve zjednodušeném rozsahu , a) tvoří opravné položky a rezervy pouze podle zvláštních právních předpisů , a proto použijí <b>ustanovení</b> § 16, 26, 31, 55 a 57 přiměřeně , b) neoceňují majetek a závazky reálnou hodnotou podle § 27 zákona , s výjimkou přeměny bytových družstev , a nepoužijí ustanovení § 14, 39 , § 51 až 55 , § 58, 60 a 69 , v rozsahu v jakém upravují oceňování majetku a závazků reálnou hodnotou , c) sestavují účetní závěrku ve zjednodušeném rozsahu .</em>
+* <em>položek</em>
+  * <tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt> 70: <em>Změna stavu rezerv a opravných <b>položek</b> ve finanční oblasti</em>
+  * <tt><a href="cs_cltt-pos-X.html">X</a></tt> 4: <em>Položka "M. Změna stavu rezerv a opravných <b>položek</b> ve finanční oblasti" obsahuje rozdíl mezi konečným a počátečním stavem rezerv a opravných položek ve finanční oblasti ; tato položka může mít i zápornou hodnotu .</em>
+* <em>náklady</em>
+  * <tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt> 61: <em>Osobní <b>náklady</b></em>
+  * <tt><a href="cs_cltt-pos-X.html">X</a></tt> 1: <em>(3) Položka "D.I.2. Komplexní <b>náklady</b> příštích období" obsahuje položky , které se týkají nákladů příštích účetních období a které se souhrnně vztahují k danému účelu .</em>
+* <em>nákladů</em>
+  * <tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt> 55: <em>Vymezení <b>nákladů</b> souvisejících s pořízením cenných papírů a podílů</em>
+  * <tt><a href="cs_cltt-pos-X.html">X</a></tt> 1: <em>Položka "G. Změna stavu rezerv a opravných položek v provozní oblasti a komplexních <b>nákladů</b> příštích období" obsahuje rozdíl mezi konečným a počátečním stavem rezerv , opravných položek a komplexních nákladů příštích období ; tato položka může mít i zápornou hodnotu .</em>
+* <em>zákona</em>
+  * <tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt> 51: <em>(2) Jednotlivé složky majetku a závazků se ocení podle § 24 a 25 <b>zákona</b> .</em>
+  * <tt><a href="cs_cltt-pos-X.html">X</a></tt> 51: <em>Metoda ocenění při nabytí více než jedné složky majetku převodem či přechodem podle § 24 odst. 3 písm. b) <b>zákona</b></em>
+* <em>vyhlášky</em>
+  * <tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt> 43: <em>(1) Ministerstvo vydá <b>vyhlášky</b> k provedení § 4 odst. 8, § 23b odst. 5, § 24 odst. 5, § 29 odst. 4 a § 30 odst. 5 .</em>
+  * <tt><a href="cs_cltt-pos-X.html">X</a></tt> 8: <em>3 . Ustanovení § 15a <b>vyhlášky</b> č. 500/2002 Sb. , ve znění účinném ode dne nabytí účinnosti této vyhlášky , se použije poprvé v účetním období , které započne 1 . ledna 2013 nebo později .</em>
+* <em>výše</em>
+  * <tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt> 35: <em>Uvedený majetek se odpisuje jen do <b>výše</b> jeho ocenění v účetnictví .</em>
+  * <tt><a href="cs_cltt-pos-ADV.html">ADV</a></tt> 6: <em>(1) V konsolidovaném výkazu zisku a ztráty se uvádí <b>výše</b> nákladů a výnosů odděleně za běžné účetní období a minulé účetní období .</em>
+* <em>hospodaření</em>
+  * <tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt> 30: <em>Výsledek <b>hospodaření</b> minulých let</em>
+  * <tt><a href="cs_cltt-pos-X.html">X</a></tt> 14: <em>Účetní jednotka popíše použití položky "A.IV.3. Jiný výsledek <b>hospodaření</b> minulých let" v příloze v účetní závěrce .</em>
 
 ## Morphology
 
 The form / lemma ratio of `NOUN` is 1.938372 (the average of all parts of speech is 1.752649).
 
-The 1st highest number of forms (9) was observed with the lemma “jednotka”: jednotce, jednotek, jednotka, jednotkami, jednotkou, jednotku, jednotky, jednotkách, jednotkám.
+The 1st highest number of forms (9) was observed with the lemma “jednotka”: <em>jednotce, jednotek, jednotka, jednotkami, jednotkou, jednotku, jednotky, jednotkách, jednotkám</em>.
 
-The 2nd highest number of forms (9) was observed with the lemma “osoba”: osob, osoba, osobami, osobou, osobu, osoby, osobách, osobám, osobě.
+The 2nd highest number of forms (9) was observed with the lemma “osoba”: <em>osob, osoba, osobami, osobou, osobu, osoby, osobách, osobám, osobě</em>.
 
-The 3rd highest number of forms (9) was observed with the lemma “změna”: změn, změna, změnami, změnou, změnu, změny, změnách, změnám, změně.
+The 3rd highest number of forms (9) was observed with the lemma “změna”: <em>změn, změna, změnami, změnou, změnu, změny, změnách, změnám, změně</em>.
 
 `NOUN` occurs with 6 features: <tt><a href="cs_cltt-feat-Gender.html">Gender</a></tt> (11296; 100% instances), <tt><a href="cs_cltt-feat-Polarity.html">Polarity</a></tt> (11296; 100% instances), <tt><a href="cs_cltt-feat-Case.html">Case</a></tt> (11244; 100% instances), <tt><a href="cs_cltt-feat-Number.html">Number</a></tt> (11244; 100% instances), <tt><a href="cs_cltt-feat-Animacy.html">Animacy</a></tt> (4547; 40% instances), <tt><a href="cs_cltt-feat-Abbr.html">Abbr</a></tt> (27; 0% instances)
 
@@ -65,7 +65,7 @@ The 3rd highest number of forms (9) was observed with the lemma “změna”: zm
 
 `NOUN` occurs with 57 feature combinations.
 The most frequent feature combination is `Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing|Polarity=Pos` (1135 tokens).
-Examples: majetku dne odstavce zákona zisku státu záznamu rejstříku předpisu podniku
+Examples: <em>majetku, dne, odstavce, zákona, zisku, státu, záznamu, rejstříku, předpisu, podniku</em>
 
 
 ## Relations

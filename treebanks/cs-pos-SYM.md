@@ -9,35 +9,35 @@ udver: '2'
 There are 7 `SYM` lemmas (0%), 7 `SYM` types (0%) and 1260 `SYM` tokens (0%).
 Out of 17 observed tags, the rank of `SYM` is: 15 in number of lemmas, 16 in number of types and 15 in number of tokens.
 
-The 10 most frequent `SYM` lemmas: % x + = / * $
+The 10 most frequent `SYM` lemmas: <em>%, x, +, =, /, *, $</em>
 
-The 10 most frequent `SYM` types:  % x + = / * $
+The 10 most frequent `SYM` types:  <em>%, x, +, =, /, *, $</em>
 
-The 10 most frequent ambiguous lemmas: x (<tt><a href="cs-pos-SYM.html">SYM</a></tt> 120, <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 70, <tt><a href="cs-pos-PUNCT.html">PUNCT</a></tt> 3), / (<tt><a href="cs-pos-PUNCT.html">PUNCT</a></tt> 700, <tt><a href="cs-pos-SYM.html">SYM</a></tt> 18), * (<tt><a href="cs-pos-PUNCT.html">PUNCT</a></tt> 655, <tt><a href="cs-pos-SYM.html">SYM</a></tt> 10)
+The 10 most frequent ambiguous lemmas: <em>x</em> (<tt><a href="cs-pos-SYM.html">SYM</a></tt> 120, <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 70, <tt><a href="cs-pos-PUNCT.html">PUNCT</a></tt> 3), <em>/</em> (<tt><a href="cs-pos-PUNCT.html">PUNCT</a></tt> 700, <tt><a href="cs-pos-SYM.html">SYM</a></tt> 18), <em>*</em> (<tt><a href="cs-pos-PUNCT.html">PUNCT</a></tt> 655, <tt><a href="cs-pos-SYM.html">SYM</a></tt> 10)
 
-The 10 most frequent ambiguous types:  x (<tt><a href="cs-pos-SYM.html">SYM</a></tt> 120, <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 41, <tt><a href="cs-pos-PUNCT.html">PUNCT</a></tt> 3), / (<tt><a href="cs-pos-PUNCT.html">PUNCT</a></tt> 700, <tt><a href="cs-pos-SYM.html">SYM</a></tt> 18), * (<tt><a href="cs-pos-PUNCT.html">PUNCT</a></tt> 655, <tt><a href="cs-pos-SYM.html">SYM</a></tt> 10)
+The 10 most frequent ambiguous types:  <em>x</em> (<tt><a href="cs-pos-SYM.html">SYM</a></tt> 120, <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 41, <tt><a href="cs-pos-PUNCT.html">PUNCT</a></tt> 3), <em>/</em> (<tt><a href="cs-pos-PUNCT.html">PUNCT</a></tt> 700, <tt><a href="cs-pos-SYM.html">SYM</a></tt> 18), <em>*</em> (<tt><a href="cs-pos-PUNCT.html">PUNCT</a></tt> 655, <tt><a href="cs-pos-SYM.html">SYM</a></tt> 10)
 
 
-* x
-  * <tt><a href="cs-pos-SYM.html">SYM</a></tt> 120: Rozměry : ( mm ) 452 <b>x</b> 380 <b>x</b> 230
-  * <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 41: * s ( <b>x</b> ) = 1 , je - li vrchol <b>x</b> obsazen ( neshořelým ) stromem ,
-  * <tt><a href="cs-pos-PUNCT.html">PUNCT</a></tt> 3: <b>x</b> - údaje za 1 . pololetí
-* /
-  * <tt><a href="cs-pos-PUNCT.html">PUNCT</a></tt> 700: Přenosová rychlost : ( A 4 <b>/</b> sec ) 12
-  * <tt><a href="cs-pos-SYM.html">SYM</a></tt> 18: Potřebujete jen 1 <b>/</b> 4 vody , takže sprcha vás stojí 0.46 Kč .
-* *
-  * <tt><a href="cs-pos-PUNCT.html">PUNCT</a></tt> 655: Při troše štěstí získáte za čtyři roky půl milionu z nájemného <b>*</b>
-  * <tt><a href="cs-pos-SYM.html">SYM</a></tt> 10: Jaká je vzdělanost našeho národa <b>*</b>
+* <em>x</em>
+  * <tt><a href="cs-pos-SYM.html">SYM</a></tt> 120: <em>Rozměry : ( mm ) 452 <b>x</b> 380 <b>x</b> 230</em>
+  * <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 41: <em>* s ( <b>x</b> ) = 1 , je - li vrchol <b>x</b> obsazen ( neshořelým ) stromem ,</em>
+  * <tt><a href="cs-pos-PUNCT.html">PUNCT</a></tt> 3: <em><b>x</b> - údaje za 1 . pololetí</em>
+* <em>/</em>
+  * <tt><a href="cs-pos-PUNCT.html">PUNCT</a></tt> 700: <em>Přenosová rychlost : ( A 4 <b>/</b> sec ) 12</em>
+  * <tt><a href="cs-pos-SYM.html">SYM</a></tt> 18: <em>Potřebujete jen 1 <b>/</b> 4 vody , takže sprcha vás stojí 0.46 Kč .</em>
+* <em>*</em>
+  * <tt><a href="cs-pos-PUNCT.html">PUNCT</a></tt> 655: <em>Při troše štěstí získáte za čtyři roky půl milionu z nájemného <b>*</b></em>
+  * <tt><a href="cs-pos-SYM.html">SYM</a></tt> 10: <em>Jaká je vzdělanost našeho národa <b>*</b></em>
 
 ## Morphology
 
 The form / lemma ratio of `SYM` is 1.000000 (the average of all parts of speech is 2.181849).
 
-The 1st highest number of forms (1) was observed with the lemma “$”: $.
+The 1st highest number of forms (1) was observed with the lemma “$”: <em>$</em>.
 
-The 2nd highest number of forms (1) was observed with the lemma “%”: %.
+The 2nd highest number of forms (1) was observed with the lemma “%”: <em>%</em>.
 
-The 3rd highest number of forms (1) was observed with the lemma “*”: *.
+The 3rd highest number of forms (1) was observed with the lemma “*”: <em>*</em>.
 
 `SYM` occurs with 1 features: <tt><a href="cs-feat-ConjType.html">ConjType</a></tt> (120; 10% instances)
 
@@ -45,7 +45,7 @@ The 3rd highest number of forms (1) was observed with the lemma “*”: *.
 
 `SYM` occurs with 2 feature combinations.
 The most frequent feature combination is `_` (1140 tokens).
-Examples: % + = / * $
+Examples: <em>%, +, =, /, *, $</em>
 
 
 ## Relations

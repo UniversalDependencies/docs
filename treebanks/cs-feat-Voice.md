@@ -22,8 +22,8 @@ The most frequent other feature values with which `VERB` and `Voice` co-occurred
 
 `VERB` tokens may have the following values of `Voice`:
 
-* `Act` (110213; 100% of non-empty `Voice`): má je může řekl měl mají musí jde měla jsou
-* `EMPTY` (25297): mít získat stát být hrát říci platit muset dělat dostat
+* `Act` (110213; 100% of non-empty `Voice`): <em>má, je, může, řekl, měl, mají, musí, jde, měla, jsou</em>
+* `EMPTY` (25297): <em>mít, získat, stát, být, hrát, říci, platit, muset, dělat, dostat</em>
 
 `Voice` seems to be **lexical feature** of `VERB`. 100% lemmas (5061) occur only with one value of `Voice`.
 
@@ -35,8 +35,8 @@ The most frequent other feature values with which `AUX` and `Voice` co-occurred:
 
 `AUX` tokens may have the following values of `Voice`:
 
-* `Act` (30553; 100% of non-empty `Voice`): je jsou bude byl jsem jsme bylo byla není budou
-* `EMPTY` (10840): by být bychom bych byste buď buďte budiž býti bys
+* `Act` (30553; 100% of non-empty `Voice`): <em>je, jsou, bude, byl, jsem, jsme, bylo, byla, není, budou</em>
+* `EMPTY` (10840): <em>by, být, bychom, bych, byste, buď, buďte, budiž, býti, bys</em>
 
 ### `ADJ`
 
@@ -46,9 +46,9 @@ The most frequent other feature values with which `ADJ` and `Voice` co-occurred:
 
 `ADJ` tokens may have the following values of `Voice`:
 
-* `Act` (4498; 32% of non-empty `Voice`): rozhodující vedoucí následující vynikající týkající odpovídající rostoucí žijící kupující následujících
-* `Pass` (9526; 68% of non-empty `Voice`): řečeno přesvědčen připravena připraven otevřena rozhodnuto zvolen uzavřena uvedeno založena
-* `EMPTY` (176313): první další české nové druhé poslední státní dalších možné vlastní
+* `Act` (4498; 32% of non-empty `Voice`): <em>rozhodující, vedoucí, následující, vynikající, týkající, odpovídající, rostoucí, žijící, kupující, následujících</em>
+* `Pass` (9526; 68% of non-empty `Voice`): <em>řečeno, přesvědčen, připravena, připraven, otevřena, rozhodnuto, zvolen, uzavřena, uvedeno, založena</em>
+* `EMPTY` (176313): <em>první, další, české, nové, druhé, poslední, státní, dalších, možné, vlastní</em>
 
 `Voice` seems to be **lexical feature** of `ADJ`. 100% lemmas (2662) occur only with one value of `Voice`.
 

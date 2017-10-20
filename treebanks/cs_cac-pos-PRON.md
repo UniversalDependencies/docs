@@ -9,59 +9,59 @@ udver: '2'
 There are 36 `PRON` lemmas (0%), 166 `PRON` types (0%) and 16032 `PRON` tokens (3%).
 Out of 16 observed tags, the rank of `PRON` is: 11 in number of lemmas, 7 in number of types and 9 in number of tokens.
 
-The 10 most frequent `PRON` lemmas: se on všechno já jenž co což ty nízko něco
+The 10 most frequent `PRON` lemmas: <em>se, on, všechno, já, jenž, co, což, ty, nízko, něco</em>
 
-The 10 most frequent `PRON` types:  se si co všech je nás všechny nám jež nich
+The 10 most frequent `PRON` types:  <em>se, si, co, všech, je, nás, všechny, nám, jež, nich</em>
 
-The 10 most frequent ambiguous lemmas: se (<tt><a href="cs_cac-pos-PRON.html">PRON</a></tt> 9039, <tt><a href="cs_cac-pos-ADP.html">ADP</a></tt> 1), já (<tt><a href="cs_cac-pos-PRON.html">PRON</a></tt> 995, <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> 1), jenž (<tt><a href="cs_cac-pos-PRON.html">PRON</a></tt> 831, <tt><a href="cs_cac-pos-DET.html">DET</a></tt> 348), co (<tt><a href="cs_cac-pos-PRON.html">PRON</a></tt> 525, <tt><a href="cs_cac-pos-ADV.html">ADV</a></tt> 166, <tt><a href="cs_cac-pos-SCONJ.html">SCONJ</a></tt> 16, <tt><a href="cs_cac-pos-PART.html">PART</a></tt> 3, <tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt> 1), nízko (<tt><a href="cs_cac-pos-PRON.html">PRON</a></tt> 138, <tt><a href="cs_cac-pos-ADV.html">ADV</a></tt> 8), copak (<tt><a href="cs_cac-pos-PRON.html">PRON</a></tt> 7, <tt><a href="cs_cac-pos-PART.html">PART</a></tt> 1), qua (<tt><a href="cs_cac-pos-ADP.html">ADP</a></tt> 1, <tt><a href="cs_cac-pos-PRON.html">PRON</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>se</em> (<tt><a href="cs_cac-pos-PRON.html">PRON</a></tt> 9039, <tt><a href="cs_cac-pos-ADP.html">ADP</a></tt> 1), <em>já</em> (<tt><a href="cs_cac-pos-PRON.html">PRON</a></tt> 995, <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> 1), <em>jenž</em> (<tt><a href="cs_cac-pos-PRON.html">PRON</a></tt> 831, <tt><a href="cs_cac-pos-DET.html">DET</a></tt> 348), <em>co</em> (<tt><a href="cs_cac-pos-PRON.html">PRON</a></tt> 525, <tt><a href="cs_cac-pos-ADV.html">ADV</a></tt> 166, <tt><a href="cs_cac-pos-SCONJ.html">SCONJ</a></tt> 16, <tt><a href="cs_cac-pos-PART.html">PART</a></tt> 3, <tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt> 1), <em>nízko</em> (<tt><a href="cs_cac-pos-PRON.html">PRON</a></tt> 138, <tt><a href="cs_cac-pos-ADV.html">ADV</a></tt> 8), <em>copak</em> (<tt><a href="cs_cac-pos-PRON.html">PRON</a></tt> 7, <tt><a href="cs_cac-pos-PART.html">PART</a></tt> 1), <em>qua</em> (<tt><a href="cs_cac-pos-PRON.html">PRON</a></tt> 1, <tt><a href="cs_cac-pos-ADP.html">ADP</a></tt> 1)
 
-The 10 most frequent ambiguous types:  se (<tt><a href="cs_cac-pos-PRON.html">PRON</a></tt> 7715, <tt><a href="cs_cac-pos-ADP.html">ADP</a></tt> 601), si (<tt><a href="cs_cac-pos-PRON.html">PRON</a></tt> 996, <tt><a href="cs_cac-pos-AUX.html">AUX</a></tt> 1), co (<tt><a href="cs_cac-pos-PRON.html">PRON</a></tt> 382, <tt><a href="cs_cac-pos-ADV.html">ADV</a></tt> 160, <tt><a href="cs_cac-pos-SCONJ.html">SCONJ</a></tt> 15, <tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="cs_cac-pos-PART.html">PART</a></tt> 1), všech (<tt><a href="cs_cac-pos-PRON.html">PRON</a></tt> 387, <tt><a href="cs_cac-pos-DET.html">DET</a></tt> 1), je (<tt><a href="cs_cac-pos-AUX.html">AUX</a></tt> 4424, <tt><a href="cs_cac-pos-VERB.html">VERB</a></tt> 731, <tt><a href="cs_cac-pos-PRON.html">PRON</a></tt> 356), všechny (<tt><a href="cs_cac-pos-PRON.html">PRON</a></tt> 248, <tt><a href="cs_cac-pos-DET.html">DET</a></tt> 70), mu (<tt><a href="cs_cac-pos-PRON.html">PRON</a></tt> 164, <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> 1), níž (<tt><a href="cs_cac-pos-PRON.html">PRON</a></tt> 140, <tt><a href="cs_cac-pos-ADV.html">ADV</a></tt> 1), všechno (<tt><a href="cs_cac-pos-PRON.html">PRON</a></tt> 114, <tt><a href="cs_cac-pos-DET.html">DET</a></tt> 5), všichni (<tt><a href="cs_cac-pos-PRON.html">PRON</a></tt> 71, <tt><a href="cs_cac-pos-DET.html">DET</a></tt> 3)
+The 10 most frequent ambiguous types:  <em>se</em> (<tt><a href="cs_cac-pos-PRON.html">PRON</a></tt> 7715, <tt><a href="cs_cac-pos-ADP.html">ADP</a></tt> 601), <em>si</em> (<tt><a href="cs_cac-pos-PRON.html">PRON</a></tt> 996, <tt><a href="cs_cac-pos-AUX.html">AUX</a></tt> 1), <em>co</em> (<tt><a href="cs_cac-pos-PRON.html">PRON</a></tt> 382, <tt><a href="cs_cac-pos-ADV.html">ADV</a></tt> 160, <tt><a href="cs_cac-pos-SCONJ.html">SCONJ</a></tt> 15, <tt><a href="cs_cac-pos-PART.html">PART</a></tt> 1, <tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt> 1), <em>všech</em> (<tt><a href="cs_cac-pos-PRON.html">PRON</a></tt> 387, <tt><a href="cs_cac-pos-DET.html">DET</a></tt> 1), <em>je</em> (<tt><a href="cs_cac-pos-AUX.html">AUX</a></tt> 4424, <tt><a href="cs_cac-pos-VERB.html">VERB</a></tt> 731, <tt><a href="cs_cac-pos-PRON.html">PRON</a></tt> 356), <em>všechny</em> (<tt><a href="cs_cac-pos-PRON.html">PRON</a></tt> 248, <tt><a href="cs_cac-pos-DET.html">DET</a></tt> 70), <em>mu</em> (<tt><a href="cs_cac-pos-PRON.html">PRON</a></tt> 164, <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> 1), <em>níž</em> (<tt><a href="cs_cac-pos-PRON.html">PRON</a></tt> 140, <tt><a href="cs_cac-pos-ADV.html">ADV</a></tt> 1), <em>všechno</em> (<tt><a href="cs_cac-pos-PRON.html">PRON</a></tt> 114, <tt><a href="cs_cac-pos-DET.html">DET</a></tt> 5), <em>všichni</em> (<tt><a href="cs_cac-pos-PRON.html">PRON</a></tt> 71, <tt><a href="cs_cac-pos-DET.html">DET</a></tt> 3)
 
 
-* se
-  * <tt><a href="cs_cac-pos-PRON.html">PRON</a></tt> 7715: Za tím účelem <b>se</b> zavazujeme .
-  * <tt><a href="cs_cac-pos-ADP.html">ADP</a></tt> 601: Dohoda <b>se</b> * ředitelem Tomkou o spolupráci na Oravě .
-* si
-  * <tt><a href="cs_cac-pos-PRON.html">PRON</a></tt> 996: Však <b>si</b> také vedoucí třídičky Pánek pochvaloval .
-  * <tt><a href="cs_cac-pos-AUX.html">AUX</a></tt> 1: Podíváme se ještě k Národnímu a až se budeme vracet po druhé straně , prohlédneme si dům Jaroslava Vrchlického , jak <b>si</b> chtěla .
-* co
-  * <tt><a href="cs_cac-pos-PRON.html">PRON</a></tt> 382: Tak <b>co</b> bude , mládenci .
-  * <tt><a href="cs_cac-pos-ADV.html">ADV</a></tt> 160: V naší době se musíme udržet <b>co</b> nejdéle mladé .
-  * <tt><a href="cs_cac-pos-SCONJ.html">SCONJ</a></tt> 15: Bude tomu měsíc , <b>co</b> narukovali .
-  * <tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt> 1: Usilují přitom o vypracování jakési ontologie společenskosti , která současně z druhé strany má reflektovat a zpřítomňovat společenský charakter ontologie tkvící již v samotné podstatě člověka definovaného jakožto zoon politikon , jemuž odpovídá , že lidská existence je současně a vždy také <b>co</b> - existence .
-  * <tt><a href="cs_cac-pos-PART.html">PART</a></tt> 1: Ale <b>co</b> , zatím jsem fejeton ještě stačil díky psacímu stroji napsat .
-* všech
-  * <tt><a href="cs_cac-pos-PRON.html">PRON</a></tt> 387: Tuto zásadu zakotvili do <b>všech</b> opatření týkajících se této sféry .
-  * <tt><a href="cs_cac-pos-DET.html">DET</a></tt> 1: Tento plán by na jedné straně podstatně snížil cestovní náklady <b>všech</b> evropských účastníků .
-* je
-  * <tt><a href="cs_cac-pos-AUX.html">AUX</a></tt> 4424: Upřesněný realizační program <b>je</b> zaměřen na tyto hlavní úkoly .
-  * <tt><a href="cs_cac-pos-VERB.html">VERB</a></tt> 731: Proto <b>je</b> odtučňovací dieta v plánu mnohé z nás .
-  * <tt><a href="cs_cac-pos-PRON.html">PRON</a></tt> 356: Z převážné většiny ploch <b>je</b> však vybírají brigádníci ručně .
-* všechny
-  * <tt><a href="cs_cac-pos-PRON.html">PRON</a></tt> 248: Konečně <b>všechny</b> druhy pleti mohou být dráždivé .
-  * <tt><a href="cs_cac-pos-DET.html">DET</a></tt> 70: Je nutno <b>všechny</b> tyto nedostatky odstranit .
-* mu
-  * <tt><a href="cs_cac-pos-PRON.html">PRON</a></tt> 164: Náleží <b>mu</b> dovolená v plném rozsahu # týdny .
-  * <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> 1: Dokonce i formální svatba může být dnes organizována k zlosti hladových příbuzných a přátel pohoštěním hnědou rýží , zeleninou , mituke a čajem <b>mu</b> .
-* níž
-  * <tt><a href="cs_cac-pos-PRON.html">PRON</a></tt> 140: Pracovním posudkem organizace , u <b>níž</b> dosud pracoval .
-  * <tt><a href="cs_cac-pos-ADV.html">ADV</a></tt> 1: Nové řešení vedlo potrubí <b>níž</b> pod dnem Vltavy do břehu a napojilo se na potrubí uložené v zemi , čímž bylo chráněno proti zamrzání .
-* všechno
-  * <tt><a href="cs_cac-pos-PRON.html">PRON</a></tt> 114: Uvádím tohle <b>všechno</b> nikoli náhodou .
-  * <tt><a href="cs_cac-pos-DET.html">DET</a></tt> 5: Fotbalisté někdy žehrají na to , že se na nich <b>všechno</b> vidí .
-* všichni
-  * <tt><a href="cs_cac-pos-PRON.html">PRON</a></tt> 71: Byli tři , <b>všichni</b> učňové a velcí romantici .
-  * <tt><a href="cs_cac-pos-DET.html">DET</a></tt> 3: Ale na jednom se <b>všichni</b> shodli .
+* <em>se</em>
+  * <tt><a href="cs_cac-pos-PRON.html">PRON</a></tt> 7715: <em>Za tím účelem <b>se</b> zavazujeme .</em>
+  * <tt><a href="cs_cac-pos-ADP.html">ADP</a></tt> 601: <em>Dohoda <b>se</b> * ředitelem Tomkou o spolupráci na Oravě .</em>
+* <em>si</em>
+  * <tt><a href="cs_cac-pos-PRON.html">PRON</a></tt> 996: <em>Však <b>si</b> také vedoucí třídičky Pánek pochvaloval .</em>
+  * <tt><a href="cs_cac-pos-AUX.html">AUX</a></tt> 1: <em>Podíváme se ještě k Národnímu a až se budeme vracet po druhé straně , prohlédneme si dům Jaroslava Vrchlického , jak <b>si</b> chtěla .</em>
+* <em>co</em>
+  * <tt><a href="cs_cac-pos-PRON.html">PRON</a></tt> 382: <em>Tak <b>co</b> bude , mládenci .</em>
+  * <tt><a href="cs_cac-pos-ADV.html">ADV</a></tt> 160: <em>V naší době se musíme udržet <b>co</b> nejdéle mladé .</em>
+  * <tt><a href="cs_cac-pos-SCONJ.html">SCONJ</a></tt> 15: <em>Bude tomu měsíc , <b>co</b> narukovali .</em>
+  * <tt><a href="cs_cac-pos-PART.html">PART</a></tt> 1: <em>Ale <b>co</b> , zatím jsem fejeton ještě stačil díky psacímu stroji napsat .</em>
+  * <tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt> 1: <em>Usilují přitom o vypracování jakési ontologie společenskosti , která současně z druhé strany má reflektovat a zpřítomňovat společenský charakter ontologie tkvící již v samotné podstatě člověka definovaného jakožto zoon politikon , jemuž odpovídá , že lidská existence je současně a vždy také <b>co</b> - existence .</em>
+* <em>všech</em>
+  * <tt><a href="cs_cac-pos-PRON.html">PRON</a></tt> 387: <em>Tuto zásadu zakotvili do <b>všech</b> opatření týkajících se této sféry .</em>
+  * <tt><a href="cs_cac-pos-DET.html">DET</a></tt> 1: <em>Tento plán by na jedné straně podstatně snížil cestovní náklady <b>všech</b> evropských účastníků .</em>
+* <em>je</em>
+  * <tt><a href="cs_cac-pos-AUX.html">AUX</a></tt> 4424: <em>Upřesněný realizační program <b>je</b> zaměřen na tyto hlavní úkoly .</em>
+  * <tt><a href="cs_cac-pos-VERB.html">VERB</a></tt> 731: <em>Proto <b>je</b> odtučňovací dieta v plánu mnohé z nás .</em>
+  * <tt><a href="cs_cac-pos-PRON.html">PRON</a></tt> 356: <em>Z převážné většiny ploch <b>je</b> však vybírají brigádníci ručně .</em>
+* <em>všechny</em>
+  * <tt><a href="cs_cac-pos-PRON.html">PRON</a></tt> 248: <em>Konečně <b>všechny</b> druhy pleti mohou být dráždivé .</em>
+  * <tt><a href="cs_cac-pos-DET.html">DET</a></tt> 70: <em>Je nutno <b>všechny</b> tyto nedostatky odstranit .</em>
+* <em>mu</em>
+  * <tt><a href="cs_cac-pos-PRON.html">PRON</a></tt> 164: <em>Náleží <b>mu</b> dovolená v plném rozsahu # týdny .</em>
+  * <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> 1: <em>Dokonce i formální svatba může být dnes organizována k zlosti hladových příbuzných a přátel pohoštěním hnědou rýží , zeleninou , mituke a čajem <b>mu</b> .</em>
+* <em>níž</em>
+  * <tt><a href="cs_cac-pos-PRON.html">PRON</a></tt> 140: <em>Pracovním posudkem organizace , u <b>níž</b> dosud pracoval .</em>
+  * <tt><a href="cs_cac-pos-ADV.html">ADV</a></tt> 1: <em>Nové řešení vedlo potrubí <b>níž</b> pod dnem Vltavy do břehu a napojilo se na potrubí uložené v zemi , čímž bylo chráněno proti zamrzání .</em>
+* <em>všechno</em>
+  * <tt><a href="cs_cac-pos-PRON.html">PRON</a></tt> 114: <em>Uvádím tohle <b>všechno</b> nikoli náhodou .</em>
+  * <tt><a href="cs_cac-pos-DET.html">DET</a></tt> 5: <em>Fotbalisté někdy žehrají na to , že se na nich <b>všechno</b> vidí .</em>
+* <em>všichni</em>
+  * <tt><a href="cs_cac-pos-PRON.html">PRON</a></tt> 71: <em>Byli tři , <b>všichni</b> učňové a velcí romantici .</em>
+  * <tt><a href="cs_cac-pos-DET.html">DET</a></tt> 3: <em>Ale na jednom se <b>všichni</b> shodli .</em>
 
 ## Morphology
 
 The form / lemma ratio of `PRON` is 4.611111 (the average of all parts of speech is 2.186309).
 
-The 1st highest number of forms (28) was observed with the lemma “on”: ho, je, jeho, jej, jemu, ji, jich, jim, jimi, jí, jím, mu, ni, nich, nim, nimi, ní, ním, ně, něho, něj, něm, němu, on, ona, oni, ono, ony.
+The 1st highest number of forms (28) was observed with the lemma “on”: <em>ho, je, jeho, jej, jemu, ji, jich, jim, jimi, jí, jím, mu, ni, nich, nim, nimi, ní, ním, ně, něho, něj, něm, němu, on, ona, oni, ono, ony</em>.
 
-The 2nd highest number of forms (22) was observed with the lemma “jenž”: jehož, jejž, jemuž, jenž, jež, jichž, jimiž, jimž, již, jímž, jíž, nichž, nimiž, nimž, niž, nímž, níž, něhož, nějž, němuž, němž, něž.
+The 2nd highest number of forms (22) was observed with the lemma “jenž”: <em>jehož, jejž, jemuž, jenž, jež, jichž, jimiž, jimž, již, jímž, jíž, nichž, nimiž, nimž, niž, nímž, níž, něhož, nějž, němuž, němž, něž</em>.
 
-The 3rd highest number of forms (14) was observed with the lemma “všechno”: vše, všech, všechen, všechna, všechno, všechnu, všechny, všeho, všem, všemi, všemu, všichni, vší, vším.
+The 3rd highest number of forms (14) was observed with the lemma “všechno”: <em>vše, všech, všechen, všechna, všechno, všechnu, všechny, všeho, všem, všemi, všemu, všichni, vší, vším</em>.
 
 `PRON` occurs with 12 features: <tt><a href="cs_cac-feat-PronType.html">PronType</a></tt> (16032; 100% instances), <tt><a href="cs_cac-feat-Case.html">Case</a></tt> (15909; 99% instances), <tt><a href="cs_cac-feat-Variant.html">Variant</a></tt> (9195; 57% instances), <tt><a href="cs_cac-feat-Reflex.html">Reflex</a></tt> (9039; 56% instances), <tt><a href="cs_cac-feat-Number.html">Number</a></tt> (5756; 36% instances), <tt><a href="cs_cac-feat-Person.html">Person</a></tt> (3455; 22% instances), <tt><a href="cs_cac-feat-Gender.html">Gender</a></tt> (2847; 18% instances), <tt><a href="cs_cac-feat-PrepCase.html">PrepCase</a></tt> (1808; 11% instances), <tt><a href="cs_cac-feat-Animacy.html">Animacy</a></tt> (866; 5% instances), <tt><a href="cs_cac-feat-Style.html">Style</a></tt> (111; 1% instances), <tt><a href="cs_cac-feat-Foreign.html">Foreign</a></tt> (8; 0% instances), <tt><a href="cs_cac-feat-NameType.html">NameType</a></tt> (1; 0% instances)
 
@@ -69,7 +69,7 @@ The 3rd highest number of forms (14) was observed with the lemma “všechno”:
 
 `PRON` occurs with 181 feature combinations.
 The most frequent feature combination is `Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short` (7709 tokens).
-Examples: se
+Examples: <em>se</em>
 
 
 ## Relations
