@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-10-20T09:59:11Z">2017-10-20T09:59:11 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-10-20T10:27:41Z">2017-10-20T10:27:41 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -255,33 +255,28 @@ python tools/validate.py --lang eu UD-dev-branches/UD_Basque/eu-ud-train.conllu
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD Belarusian</span>
 <span class="widespan">be</span>
-<span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-10-05T14:42:40Z">2017-10-05T14:42:40 zulu</time></span>
+<span class="validationpass">PASS</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-10-20T10:27:33Z">2017-10-20T10:27:33 zulu</time></span>
 </div>
 <div>
 <pre>
-python tools/validate.py --lang be UD-dev-branches/UD_Belarusian/be-ud-dev.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang be /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Belarusian/be-ud-dev.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python tools/validate.py --lang be UD-dev-branches/UD_Belarusian/be-ud-test.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang be /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Belarusian/be-ud-test.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python tools/validate.py --lang be UD-dev-branches/UD_Belarusian/be-ud-train.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang be /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Belarusian/be-ud-train.conllu
 
-[Line                   4861]: Unknown UD DEPREL: nsubj:pass
-[Line                   4922]: Unknown UD DEPREL: nsubj:pass
-[Line                   4932]: Unknown UD DEPREL: nsubj:pass
-[Line                   5851]: Unknown UD DEPREL: nsubj:pass
-*** FAILED *** with 4 errors
-Syntax errors: 4
+*** PASSED ***
 
 
 ******************
@@ -1456,25 +1451,25 @@ python tools/validate.py --lang fr_partut UD-dev-branches/UD_French-ParTUT/fr_pa
 <span class="doublewidespan" style="padding-left:3em">UD French-Sequoia</span>
 <span class="widespan">fr sequoia</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-10-19T20:55:51Z">2017-10-19T20:55:51 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-10-20T10:27:34Z">2017-10-20T10:27:34 zulu</time></span>
 </div>
 <div>
 <pre>
-python tools/validate.py --lang fr_sequoia UD-dev-branches/UD_French-Sequoia/fr_sequoia-ud-dev.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang fr_sequoia /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_French-Sequoia/fr_sequoia-ud-dev.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python tools/validate.py --lang fr_sequoia UD-dev-branches/UD_French-Sequoia/fr_sequoia-ud-test.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang fr_sequoia /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_French-Sequoia/fr_sequoia-ud-test.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python tools/validate.py --lang fr_sequoia UD-dev-branches/UD_French-Sequoia/fr_sequoia-ud-train.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang fr_sequoia /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_French-Sequoia/fr_sequoia-ud-train.conllu
 
 *** PASSED ***
 
@@ -2061,7 +2056,7 @@ python tools/validate.py --lang it_partut UD-dev-branches/UD_Italian-ParTUT/it_p
 <span class="doublewidespan" style="padding-left:3em">UD Italian-PoSTWITA</span>
 <span class="widespan">it postwita</span>
 <span class="validationfail">EMPTY</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-10-20T09:59:11Z">2017-10-20T09:59:11 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-10-20T10:27:41Z">2017-10-20T10:27:41 zulu</time></span>
 </div>
 <div>
 <pre>
