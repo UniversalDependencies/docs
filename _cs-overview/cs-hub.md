@@ -197,9 +197,10 @@ as well as Czech-specific examples scattered across the documentation of constru
 
 ## Treebanks
 
-There are [four](../../treebanks/cs-comparison.html) Czech UD treebanks:
+There are [five](../../treebanks/cs-comparison.html) Czech UD treebanks:
 
   * [Czech](../../treebanks/cs-index.html)
   * [Czech-CAC](../../treebanks/cs_cac-index.html)
   * [Czech-CLTT](../../treebanks/cs_cltt-index.html)
+  * [Czech-FicTree](../../treebanks/cs_fictree-index.html)
   * [Czech-PUD](../../treebanks/cs_pud-index.html)
