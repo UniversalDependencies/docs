@@ -62,6 +62,7 @@ which includes texts from different sources and representing different genres an
 ParTUT comprises approximately 167,000 tokens, with an average amount
 of 2,100 sentences per language. The texts of the collection currently available were
 gathered from a large number of sources and domains:
+
 * the [Creative Commons](http://creativecommons.org/licenses/by-nc-sa/2.0) open license;
 * the [DGT-Translation Memory](https://ec.europa.eu/jrc/en/language-technologies/dgt-translation-memory)
 * the [Europarl](http://www.statmt.org/europarl/) parallel corpus [Koehn, 2005] (section ep_00_01_17);
