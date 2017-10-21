@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-10-21T06:51:25Z">2017-10-21T06:51:25 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-10-21T07:40:38Z">2017-10-21T07:40:38 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -680,7 +680,7 @@ python tools/validate.py --lang cs_cltt UD-dev-branches/UD_Czech-CLTT/cs_cltt-ud
 <span class="doublewidespan" style="padding-left:3em">UD Czech-FicTree</span>
 <span class="widespan">cs fictree</span>
 <span class="validationfail">EMPTY</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-10-05T15:00:14Z">2017-10-05T15:00:14 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-10-21T07:40:38Z">2017-10-21T07:40:38 zulu</time></span>
 </div>
 <div>
 <pre>
