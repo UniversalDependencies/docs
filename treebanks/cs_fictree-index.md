@@ -27,14 +27,17 @@ Questions, comments?
 General annotation questions (either Czech-specific or cross-linguistic) can be raised in the [main UD issue tracker](https://github.com/UniversalDependencies/docs/issues).
 You can report bugs in this treebank in the [treebank-specific issue tracker on Github](https://github.com/UniversalDependencies/UD_Czech-FicTree/issues).
 If you want to collaborate, please contact [tomas&nbsp;•&nbsp;jelinek&nbsp;(æt)&nbsp;ff&nbsp;•&nbsp;cuni&nbsp;•&nbsp;cz, zeman&nbsp;(æt)&nbsp;ufal&nbsp;•&nbsp;mff&nbsp;•&nbsp;cuni&nbsp;•&nbsp;cz].
+Development of the treebank happens outside the UD repository.
+If there are bugs, either the original data source or the conversion procedure must be fixed.
+Do not submit pull requests against the UD repository.
 
 | Annotation | Source |
 |------------|--------|
-| Lemmas | (undocumented) |
-| UPOS | (undocumented) |
-| XPOS | (undocumented) |
-| Features | (undocumented) |
-| Relations | (undocumented) |
+| Lemmas | annotated manually in non-UD style, automatically converted to UD |
+| UPOS | annotated manually in non-UD style, automatically converted to UD |
+| XPOS | annotated manually |
+| Features | annotated manually in non-UD style, automatically converted to UD |
+| Relations | annotated manually in non-UD style, automatically converted to UD |
 
 
 
@@ -56,6 +59,7 @@ If you want to collaborate, please contact [tomas&nbsp;•&nbsp;jelinek&nbsp;(æ
 
 <ul>
 <li>This corpus contains 12860 sentences, 166536 tokens and 167114 syntactic words.</li>
+<li>All tokens in this corpus are followed by a space.</li>
 <li>This corpus does not contain words with spaces.</li>
 <li>This corpus contains 11 types of words that contain both letters and punctuation: A-ano, Cutter's, D-dobře, Ha-vel, J-já, Ji-jistě, O-po-nu, Za-pla-tit, bytí-na-zemi, pr-chá, t-tento</li>
 <li>This corpus contains 578 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
