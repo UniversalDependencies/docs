@@ -19,9 +19,9 @@ The feature is used with 2 part-of-speech tags: <tt><a href="cs_cltt-pos-DET.htm
 
 ### `DET`
 
-111 <tt><a href="cs_cltt-pos-DET.html">DET</a></tt> tokens (19% of all `DET` tokens) have a non-empty value of `Gender[psor]`.
+111 <tt><a href="cs_cltt-pos-DET.html">DET</a></tt> tokens (9% of all `DET` tokens) have a non-empty value of `Gender[psor]`.
 
-The most frequent other feature values with which `DET` and `Gender[psor]` co-occurred: <tt><a href="cs_cltt-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt> (111; 100%), <tt><a href="cs_cltt-feat-Poss.html">Poss</a></tt><tt>=Yes</tt> (111; 100%), <tt><a href="cs_cltt-feat-Person.html">Person</a></tt><tt>=3</tt> (111; 100%), <tt><a href="cs_cltt-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (102; 92%), <tt><a href="cs_cltt-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (84; 76%), <tt><a href="cs_cltt-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (79; 71%), <tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (75; 68%).
+The most frequent other feature values with which `DET` and `Gender[psor]` co-occurred: <tt><a href="cs_cltt-feat-Poss.html">Poss</a></tt><tt>=Yes</tt> (111; 100%), <tt><a href="cs_cltt-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt> (111; 100%), <tt><a href="cs_cltt-feat-Person.html">Person</a></tt><tt>=3</tt> (111; 100%), <tt><a href="cs_cltt-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (102; 92%), <tt><a href="cs_cltt-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (84; 76%), <tt><a href="cs_cltt-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (79; 71%), <tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (75; 68%).
 
 `DET` tokens may have the following values of `Gender[psor]`:
 
@@ -46,7 +46,7 @@ The most frequent other feature values with which `DET` and `Gender[psor]` co-oc
 
 1 <tt><a href="cs_cltt-pos-ADJ.html">ADJ</a></tt> tokens (0% of all `ADJ` tokens) have a non-empty value of `Gender[psor]`.
 
-The most frequent other feature values with which `ADJ` and `Gender[psor]` co-occurred: <tt><a href="cs_cltt-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="cs_cltt-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="cs_cltt-feat-Case.html">Case</a></tt><tt>=Nom</tt> (1; 100%), <tt><a href="cs_cltt-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (1; 100%), <tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Plur</tt> (1; 100%), <tt><a href="cs_cltt-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt> (1; 100%).
+The most frequent other feature values with which `ADJ` and `Gender[psor]` co-occurred: <tt><a href="cs_cltt-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt> (1; 100%), <tt><a href="cs_cltt-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (1; 100%), <tt><a href="cs_cltt-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="cs_cltt-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="cs_cltt-feat-Case.html">Case</a></tt><tt>=Nom</tt> (1; 100%), <tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Plur</tt> (1; 100%).
 
 `ADJ` tokens may have the following values of `Gender[psor]`:
 

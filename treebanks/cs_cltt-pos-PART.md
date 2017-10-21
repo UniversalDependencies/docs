@@ -7,26 +7,25 @@ udver: '2'
 ## Treebank Statistics: UD_Czech-CLTT: POS Tags: `PART`
 
 There are 6 `PART` lemmas (0%), 6 `PART` types (0%) and 75 `PART` tokens (0%).
-Out of 15 observed tags, the rank of `PART` is: 14 in number of lemmas, 14 in number of types and 14 in number of tokens.
+Out of 15 observed tags, the rank of `PART` is: 12 in number of lemmas, 14 in number of types and 14 in number of tokens.
 
 The 10 most frequent `PART` lemmas: <em>jen, až, netto, nikoli, brutto, ne</em>
 
 The 10 most frequent `PART` types:  <em>jen, až, netto, nikoliv, brutto, ne</em>
 
-The 10 most frequent ambiguous lemmas: <em>až</em> (<tt><a href="cs_cltt-pos-X.html">X</a></tt> 41, <tt><a href="cs_cltt-pos-PART.html">PART</a></tt> 30, <tt><a href="cs_cltt-pos-SCONJ.html">SCONJ</a></tt> 7, <tt><a href="cs_cltt-pos-CCONJ.html">CCONJ</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>až</em> (<tt><a href="cs_cltt-pos-PART.html">PART</a></tt> 30, <tt><a href="cs_cltt-pos-SCONJ.html">SCONJ</a></tt> 7, <tt><a href="cs_cltt-pos-CCONJ.html">CCONJ</a></tt> 1)
 
-The 10 most frequent ambiguous types:  <em>až</em> (<tt><a href="cs_cltt-pos-X.html">X</a></tt> 41, <tt><a href="cs_cltt-pos-PART.html">PART</a></tt> 30, <tt><a href="cs_cltt-pos-SCONJ.html">SCONJ</a></tt> 7, <tt><a href="cs_cltt-pos-CCONJ.html">CCONJ</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>až</em> (<tt><a href="cs_cltt-pos-PART.html">PART</a></tt> 30, <tt><a href="cs_cltt-pos-SCONJ.html">SCONJ</a></tt> 7, <tt><a href="cs_cltt-pos-CCONJ.html">CCONJ</a></tt> 1)
 
 
 * <em>až</em>
-  * <tt><a href="cs_cltt-pos-X.html">X</a></tt> 41: <em>Ustanovení písmen d) <b>až</b> h) se použijí i pro zahraniční fyzické osoby .</em>
   * <tt><a href="cs_cltt-pos-PART.html">PART</a></tt> 30: <em>(5) Ustanovení § 52 a 53 se použijí <b>až</b> v účetním období začínajícím 1 . ledna 2004 a později .</em>
   * <tt><a href="cs_cltt-pos-SCONJ.html">SCONJ</a></tt> 7: <em>(6) Ustanovení odstavců 1 <b>až</b> 5 se nepoužijí při změně právní formy a přeshraničním přemístění sídla .</em>
   * <tt><a href="cs_cltt-pos-CCONJ.html">CCONJ</a></tt> 1: <em>Účetní jednotka , která sestavuje výkaz zisku a ztráty v účelovém členění , není povinna dodržet členění v účtových skupinách 50 až 55 a 60 <b>až</b> 64 ; členění přizpůsobí výkazu s přihlédnutím k povinnosti uvedené v § 39 odst. 8 .</em>
 
 ## Morphology
 
-The form / lemma ratio of `PART` is 1.000000 (the average of all parts of speech is 1.752649).
+The form / lemma ratio of `PART` is 1.000000 (the average of all parts of speech is 1.767001).
 
 The 1st highest number of forms (1) was observed with the lemma “až”: <em>až</em>.
 

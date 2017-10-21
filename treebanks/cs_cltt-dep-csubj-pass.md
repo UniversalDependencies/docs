@@ -93,7 +93,7 @@ The following 2 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 23	plán	plán	NOUN	NNIS4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|Polarity=Pos	19	obj	_	_
 24	předmětného	předmětný	ADJ	AAIS2----1A----	Animacy=Inan|Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos	25	amod	_	_
 25	majetku	majetek	NOUN	NNIS2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing|Polarity=Pos	23	nmod	_	_
-26	tak	tak	ADV	Db-------------	_	19	advmod	_	SpaceAfter=No|LId=tak-3
+26	tak	tak	ADV	Db-------------	PronType=Dem	19	advmod	_	SpaceAfter=No|LId=tak-3
 27	,	,	PUNCT	Z:-------------	_	48	punct	_	_
 28	aby	aby	SCONJ	J,-------------	_	48	mark	_	_
 29	by	být	AUX	Vc-------------	Mood=Cnd|Person=3|VerbForm=Fin	48	aux	_	_

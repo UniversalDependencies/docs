@@ -9,23 +9,23 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `Cmp`, `Pos`, `Sup`.
 
-6378 tokens (17%) have a non-empty value of `Degree`.
-1498 types (33%) occur at least once with a non-empty value of `Degree`.
+6378 tokens (18%) have a non-empty value of `Degree`.
+1498 types (32%) occur at least once with a non-empty value of `Degree`.
 664 lemmas (25%) occur at least once with a non-empty value of `Degree`.
-The feature is used with 2 part-of-speech tags: <tt><a href="cs_cltt-pos-ADJ.html">ADJ</a></tt> (6093; 16% instances), <tt><a href="cs_cltt-pos-ADV.html">ADV</a></tt> (285; 1% instances).
+The feature is used with 3 part-of-speech tags: <tt><a href="cs_cltt-pos-ADJ.html">ADJ</a></tt> (6075; 17% instances), <tt><a href="cs_cltt-pos-ADV.html">ADV</a></tt> (285; 1% instances), <tt><a href="cs_cltt-pos-DET.html">DET</a></tt> (18; 0% instances).
 
 ### `ADJ`
 
-6093 <tt><a href="cs_cltt-pos-ADJ.html">ADJ</a></tt> tokens (93% of all `ADJ` tokens) have a non-empty value of `Degree`.
+6075 <tt><a href="cs_cltt-pos-ADJ.html">ADJ</a></tt> tokens (90% of all `ADJ` tokens) have a non-empty value of `Degree`.
 
-The most frequent other feature values with which `ADJ` and `Degree` co-occurred: <tt><a href="cs_cltt-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (5959; 98%), <tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3879; 64%), <tt><a href="cs_cltt-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (3665; 60%).
+The most frequent other feature values with which `ADJ` and `Degree` co-occurred: <tt><a href="cs_cltt-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (5941; 98%), <tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3861; 64%), <tt><a href="cs_cltt-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (3653; 60%).
 
 `ADJ` tokens may have the following values of `Degree`:
 
 * `Cmp` (55; 1% of non-empty `Degree`): <em>delší, vyšší, kratší, nižší, pozdějších, podrobnější, menší, nižším, bližší, bližších</em>
-* `Pos` (6032; 99% of non-empty `Degree`): <em>účetní, účetních, účetního, konsolidované, finanční, účetním, výroční, právní, jiných, ostatní</em>
+* `Pos` (6014; 99% of non-empty `Degree`): <em>účetní, účetních, účetního, konsolidované, finanční, účetním, výroční, právní, jiných, ostatní</em>
 * `Sup` (6; 0% of non-empty `Degree`): <em>nejvyšší, nejvyšším, nejvyššího</em>
-* `EMPTY` (446): <em>konsolidující, povinny, povinna, zanikající, následujícího, související, předcházejícímu, týkající, prvním, přejímající</em>
+* `EMPTY` (706): <em>konsolidující, povinny, povinna, zanikající, stanoveno, následujícího, související, předcházejícímu, týkající, prvním</em>
 
 <table>
   <tr><th>Paradigm <i>vysoký</i></th><th><tt>Cmp</tt></th><th><tt>Sup</tt></th></tr>
@@ -41,7 +41,7 @@ The most frequent other feature values with which `ADJ` and `Degree` co-occurred
   <tr><td><tt><tt><a href="cs_cltt-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="cs_cltt-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>vyšší</em></td><td></td></tr>
 </table>
 
-`Degree` seems to be **lexical feature** of `ADJ`. 99% lemmas (578) occur only with one value of `Degree`.
+`Degree` seems to be **lexical feature** of `ADJ`. 99% lemmas (577) occur only with one value of `Degree`.
 
 ### `ADV`
 
@@ -63,14 +63,23 @@ The most frequent other feature values with which `ADV` and `Degree` co-occurred
 
 `Degree` seems to be **lexical feature** of `ADV`. 96% lemmas (80) occur only with one value of `Degree`.
 
+### `DET`
+
+18 <tt><a href="cs_cltt-pos-DET.html">DET</a></tt> tokens (2% of all `DET` tokens) have a non-empty value of `Degree`.
+
+The most frequent other feature values with which `DET` and `Degree` co-occurred: <tt><a href="cs_cltt-feat-PronType.html">PronType</a></tt><tt>=Tot</tt> (18; 100%), <tt><a href="cs_cltt-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (18; 100%), <tt><a href="cs_cltt-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (18; 100%), <tt><a href="cs_cltt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (18; 100%), <tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (18; 100%), <tt><a href="cs_cltt-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (11; 61%).
+
+`DET` tokens may have the following values of `Degree`:
+
+* `Pos` (18; 100% of non-empty `Degree`): <em>každou, každé, každého, každý, Každá</em>
+* `EMPTY` (1176): <em>které, jejich, která, jeho, této, tohoto, který, to, těchto, tyto</em>
+
 ## Relations with Agreement in `Degree`
 
 The 10 most frequent relations where parent and child node agree in `Degree`:
-<tt>ADJ --[<tt><a href="cs_cltt-dep-conj.html">conj</a></tt>]--> ADJ</tt> (181; 93%),
+<tt>ADJ --[<tt><a href="cs_cltt-dep-conj.html">conj</a></tt>]--> ADJ</tt> (181; 90%),
 <tt>ADV --[<tt><a href="cs_cltt-dep-conj.html">conj</a></tt>]--> ADV</tt> (14; 100%),
 <tt>ADJ --[<tt><a href="cs_cltt-dep-appos.html">appos</a></tt>]--> ADJ</tt> (4; 100%),
-<tt>ADJ --[<tt><a href="cs_cltt-dep-advcl.html">advcl</a></tt>]--> ADJ</tt> (4; 67%),
-<tt>ADJ --[<tt><a href="cs_cltt-dep-dep.html">dep</a></tt>]--> ADJ</tt> (2; 100%),
 <tt>ADJ --[<tt><a href="cs_cltt-dep-appos.html">appos</a></tt>]--> ADV</tt> (2; 100%),
-<tt>ADJ --[<tt><a href="cs_cltt-dep-advmod.html">advmod</a></tt>]--> ADJ</tt> (1; 100%).
+<tt>ADJ --[<tt><a href="cs_cltt-dep-dep.html">dep</a></tt>]--> ADJ</tt> (2; 100%).
 

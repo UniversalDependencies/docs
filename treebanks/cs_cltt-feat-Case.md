@@ -9,16 +9,16 @@ udver: '2'
 This feature is universal.
 It occurs with 6 different values: `Acc`, `Dat`, `Gen`, `Ins`, `Loc`, `Nom`.
 
-23293 tokens (62%) have a non-empty value of `Case`.
-3471 types (76%) occur at least once with a non-empty value of `Case`.
-1533 lemmas (59%) occur at least once with a non-empty value of `Case`.
-The feature is used with 8 part-of-speech tags: <tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt> (11244; 30% instances), <tt><a href="cs_cltt-pos-ADJ.html">ADJ</a></tt> (6421; 17% instances), <tt><a href="cs_cltt-pos-ADP.html">ADP</a></tt> (3938; 11% instances), <tt><a href="cs_cltt-pos-PRON.html">PRON</a></tt> (1211; 3% instances), <tt><a href="cs_cltt-pos-DET.html">DET</a></tt> (406; 1% instances), <tt><a href="cs_cltt-pos-NUM.html">NUM</a></tt> (69; 0% instances), <tt><a href="cs_cltt-pos-VERB.html">VERB</a></tt> (3; 0% instances), <tt><a href="cs_cltt-pos-AUX.html">AUX</a></tt> (1; 0% instances).
+23293 tokens (66%) have a non-empty value of `Case`.
+3471 types (74%) occur at least once with a non-empty value of `Case`.
+1533 lemmas (57%) occur at least once with a non-empty value of `Case`.
+The feature is used with 6 part-of-speech tags: <tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt> (11245; 32% instances), <tt><a href="cs_cltt-pos-ADJ.html">ADJ</a></tt> (6406; 18% instances), <tt><a href="cs_cltt-pos-ADP.html">ADP</a></tt> (3938; 11% instances), <tt><a href="cs_cltt-pos-DET.html">DET</a></tt> (1004; 3% instances), <tt><a href="cs_cltt-pos-PRON.html">PRON</a></tt> (631; 2% instances), <tt><a href="cs_cltt-pos-NUM.html">NUM</a></tt> (69; 0% instances).
 
 ### `NOUN`
 
-11244 <tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt> tokens (100% of all `NOUN` tokens) have a non-empty value of `Case`.
+11245 <tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt> tokens (99% of all `NOUN` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `NOUN` and `Case` co-occurred: <tt><a href="cs_cltt-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (11229; 100%), <tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (7969; 71%), <tt><a href="cs_cltt-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (6704; 60%).
+The most frequent other feature values with which `NOUN` and `Case` co-occurred: <tt><a href="cs_cltt-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (11230; 100%), <tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (7969; 71%), <tt><a href="cs_cltt-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (6704; 60%).
 
 `NOUN` tokens may have the following values of `Case`:
 
@@ -27,8 +27,8 @@ The most frequent other feature values with which `NOUN` and `Case` co-occurred:
 * `Gen` (4337; 39% of non-empty `Case`): <em>majetku, závěrky, jednotky, období, jednotek, závazků, společnosti, položek, dne, odstavce</em>
 * `Ins` (1033; 9% of non-empty `Case`): <em>jednotkou, hodnotou, výjimkou, způsobem, dnem, vlivem, auditorem, cenou, součástí, osobou</em>
 * `Loc` (1400; 12% of non-empty `Case`): <em>případě, období, případech, příloze, závěrce, rozsahu, formě, přeměně, účetnictví, ocenění</em>
-* `Nom` (2256; 20% of non-empty `Case`): <em>jednotka, jednotky, položka, ustanovení, závěrka, majetek, vymezení, náklady, informace, záznam</em>
-* `EMPTY` (52): <em>Kč, Nestanoví-li, Není-li, B, USD, Zjistí-li, m, m2, B., Dojde-li</em>
+* `Nom` (2257; 20% of non-empty `Case`): <em>jednotka, jednotky, položka, ustanovení, závěrka, majetek, vymezení, náklady, informace, záznam</em>
+* `EMPTY` (58): <em>Kč, Není-li, Nestanoví-li, B, Je-li, Jsou-li, USD, Zjistí-li, m, m2</em>
 
 <table>
   <tr><th>Paradigm <i>jednotka</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th><th><tt>Gen</tt></th><th><tt>Loc</tt></th><th><tt>Ins</tt></th></tr>
@@ -38,19 +38,19 @@ The most frequent other feature values with which `NOUN` and `Case` co-occurred:
 
 ### `ADJ`
 
-6421 <tt><a href="cs_cltt-pos-ADJ.html">ADJ</a></tt> tokens (98% of all `ADJ` tokens) have a non-empty value of `Case`.
+6406 <tt><a href="cs_cltt-pos-ADJ.html">ADJ</a></tt> tokens (94% of all `ADJ` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `ADJ` and `Case` co-occurred: <tt><a href="cs_cltt-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (6241; 97%), <tt><a href="cs_cltt-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (6028; 94%), <tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (4099; 64%), <tt><a href="cs_cltt-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (3857; 60%).
+The most frequent other feature values with which `ADJ` and `Case` co-occurred: <tt><a href="cs_cltt-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (6226; 97%), <tt><a href="cs_cltt-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (6010; 94%), <tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (4084; 64%), <tt><a href="cs_cltt-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (3848; 60%).
 
 `ADJ` tokens may have the following values of `Case`:
 
-* `Acc` (1011; 16% of non-empty `Case`): <em>účetní, výroční, českou, konsolidovanou, finanční, konsolidační, minulé, poskytnuté, dlouhodobé, dílčí</em>
+* `Acc` (1007; 16% of non-empty `Case`): <em>účetní, výroční, českou, konsolidovanou, finanční, konsolidační, minulé, poskytnuté, dlouhodobé, dílčí</em>
 * `Dat` (210; 3% of non-empty `Case`): <em>rozvahovému, předcházejícímu, rozhodnému, jinému, účetním, účetnímu, nabytému, prvnímu, poslednímu, účetní</em>
-* `Gen` (2336; 36% of non-empty `Case`): <em>účetní, účetních, účetního, konsolidované, jiných, obchodního, právních, zvláštního, dlouhodobého, právního</em>
+* `Gen` (2331; 36% of non-empty `Case`): <em>účetní, účetních, účetního, konsolidované, jiných, obchodního, právních, zvláštního, dlouhodobého, právního</em>
 * `Ins` (625; 10% of non-empty `Case`): <em>účetní, reálnou, účetními, pořizovací, podstatným, společným, právními, účetním, právnickou, vlastní</em>
-* `Loc` (588; 9% of non-empty `Case`): <em>účetní, účetních, účetním, peněžních, zjednodušeném, technické, vlastním, regulovaném, účtové, konsolidované</em>
-* `Nom` (1651; 26% of non-empty `Case`): <em>účetní, konsolidující, ostatní, právní, obsahové, uvedené, konsolidovaná, zvláštní, cenné, dlouhodobý</em>
-* `EMPTY` (118): <em>povinny, povinna, možno, do, známa, něm, od, známy, schopna, znám</em>
+* `Loc` (586; 9% of non-empty `Case`): <em>účetní, účetních, účetním, peněžních, zjednodušeném, technické, vlastním, regulovaném, účtové, konsolidované</em>
+* `Nom` (1647; 26% of non-empty `Case`): <em>účetní, konsolidující, ostatní, právní, obsahové, uvedené, konsolidovaná, zvláštní, cenné, dlouhodobý</em>
+* `EMPTY` (375): <em>povinny, povinna, stanoveno, sestavena, možno, zahrnuty, obchodovány, uvedeny, do, zavedena</em>
 
 <table>
   <tr><th>Paradigm <i>účetní</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th><th><tt>Gen</tt></th><th><tt>Loc</tt></th><th><tt>Ins</tt></th></tr>
@@ -82,21 +82,21 @@ The most frequent other feature values with which `ADP` and `Case` co-occurred: 
   <tr><td><tt></tt></td><td><em>za</em></td><td><em>za</em></td><td><em>za</em></td></tr>
 </table>
 
-### `PRON`
+### `DET`
 
-1211 <tt><a href="cs_cltt-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `Case`.
+1004 <tt><a href="cs_cltt-pos-DET.html">DET</a></tt> tokens (84% of all `DET` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `PRON` and `Case` co-occurred: <tt><a href="cs_cltt-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (742; 61%), <tt><a href="cs_cltt-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (736; 61%).
+The most frequent other feature values with which `DET` and `Case` co-occurred: <tt><a href="cs_cltt-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (977; 97%), <tt><a href="cs_cltt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (977; 97%), <tt><a href="cs_cltt-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (953; 95%), <tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (630; 63%).
 
-`PRON` tokens may have the following values of `Case`:
+`DET` tokens may have the following values of `Case`:
 
-* `Acc` (607; 50% of non-empty `Case`): <em>se, to, které, jej, je, kterou, všechny, který, ji, nějž</em>
-* `Dat` (72; 6% of non-empty `Case`): <em>kterému, kterým, němuž, jim, jí, tomu, jemu, které, nim, nimž</em>
-* `Gen` (72; 6% of non-empty `Case`): <em>všech, kterých, nichž, kterého, které, toho, jehož, nich, ní, veškerého</em>
-* `Ins` (51; 4% of non-empty `Case`): <em>kterým, tím, jimiž, jimi, kterou, kterými, nimi, tímto, sebou, veškerými</em>
-* `Loc` (86; 7% of non-empty `Case`): <em>kterém, němž, kterých, které, nichž, níž, sobě, tom, jakém, nich</em>
-* `Nom` (323; 27% of non-empty `Case`): <em>které, která, který, to, všechna, jenž, veškeré, sama, jež, kterýkoli</em>
-* `EMPTY` (1): <em>t</em>
+* `Acc` (152; 15% of non-empty `Case`): <em>to, které, tuto, kterou, tyto, všechny, který, její, každou, tento</em>
+* `Dat` (53; 5% of non-empty `Case`): <em>kterému, kterým, této, tomu, takovému, jejímu, které, tomuto, téže, těmto</em>
+* `Gen` (221; 22% of non-empty `Case`): <em>tohoto, této, těchto, všech, kterých, kterého, jejího, které, toho, své</em>
+* `Ins` (61; 6% of non-empty `Case`): <em>kterým, tímto, tím, touto, kterou, kterými, jejím, jejímž, několika, svým</em>
+* `Loc` (93; 9% of non-empty `Case`): <em>kterém, tomto, kterých, které, těchto, této, jejím, tom, jakém, své</em>
+* `Nom` (424; 42% of non-empty `Case`): <em>které, která, který, tyto, tato, tento, to, toto, její, všechna</em>
+* `EMPTY` (190): <em>jejich, jeho, jejichž, její, jehož, jejíž, t</em>
 
 <table>
   <tr><th>Paradigm <i>který</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th><th><tt>Gen</tt></th><th><tt>Loc</tt></th><th><tt>Ins</tt></th></tr>
@@ -112,32 +112,27 @@ The most frequent other feature values with which `PRON` and `Case` co-occurred:
   <tr><td><tt><tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td></td><td><em>kterým</em></td><td><em>kterých</em></td><td><em>kterých</em></td><td><em>kterými</em></td></tr>
 </table>
 
-### `DET`
+### `PRON`
 
-406 <tt><a href="cs_cltt-pos-DET.html">DET</a></tt> tokens (68% of all `DET` tokens) have a non-empty value of `Case`.
+631 <tt><a href="cs_cltt-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `DET` and `Case` co-occurred: <tt><a href="cs_cltt-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (379; 93%), <tt><a href="cs_cltt-feat-Gender-psor.html">Gender[psor]</a></tt><tt>=EMPTY</tt> (379; 93%), <tt><a href="cs_cltt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (379; 93%), <tt><a href="cs_cltt-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (355; 87%), <tt><a href="cs_cltt-feat-PronType.html">PronType</a></tt><tt>=Dem</tt> (341; 84%), <tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (297; 73%).
+The most frequent other feature values with which `PRON` and `Case` co-occurred: <tt><a href="cs_cltt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (560; 89%), <tt><a href="cs_cltt-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (546; 87%), <tt><a href="cs_cltt-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (541; 86%), <tt><a href="cs_cltt-feat-PrepCase.html">PrepCase</a></tt><tt>=EMPTY</tt> (538; 85%), <tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (475; 75%), <tt><a href="cs_cltt-feat-Reflex.html">Reflex</a></tt><tt>=Yes</tt> (475; 75%), <tt><a href="cs_cltt-feat-Variant.html">Variant</a></tt><tt>=Short</tt> (469; 74%).
 
-`DET` tokens may have the following values of `Case`:
+`PRON` tokens may have the following values of `Case`:
 
-* `Acc` (49; 12% of non-empty `Case`): <em>tuto, tyto, její, tento, svůj, takové, takový, Takovouto, svoji, jakou</em>
-* `Dat` (16; 4% of non-empty `Case`): <em>této, takovému, jejímu, kterým, tomuto, téže, těmto</em>
-* `Gen` (166; 41% of non-empty `Case`): <em>tohoto, této, těchto, jejího, své, svého, svých, takových, NĚKTERÝCH, jakékoli</em>
-* `Ins` (30; 7% of non-empty `Case`): <em>tímto, touto, jejím, jejímž, svým, takovým, takovými, těmito, jejími, několika</em>
-* `Loc` (41; 10% of non-empty `Case`): <em>tomto, těchto, této, jejím, své, takové</em>
-* `Nom` (104; 26% of non-empty `Case`): <em>tyto, tato, tento, toto, její, některá, taková, jaké, některé, takové</em>
-* `EMPTY` (189): <em>jejich, jeho, jejichž, její, jehož, jejíž</em>
+* `Acc` (511; 81% of non-empty `Case`): <em>se, jej, je, ji, nějž, ně, veškeré, něj, ho, jež</em>
+* `Dat` (35; 6% of non-empty `Case`): <em>němuž, jim, jí, jemu, nim, nimž, ní, si, sobě</em>
+* `Gen` (22; 3% of non-empty `Case`): <em>nichž, jehož, nich, ní, veškerého, veškerých</em>
+* `Ins` (20; 3% of non-empty `Case`): <em>jimiž, jimi, nimi, sebou, veškerými, jí, jímž, ním, nímž</em>
+* `Loc` (36; 6% of non-empty `Case`): <em>němž, nichž, níž, sobě, nich, ní, veškerých</em>
+* `Nom` (7; 1% of non-empty `Case`): <em>jenž, veškeré, jež</em>
 
 <table>
-  <tr><th>Paradigm <i>tento</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th><th><tt>Gen</tt></th><th><tt>Loc</tt></th><th><tt>Ins</tt></th></tr>
-  <tr><td><tt><tt><a href="cs_cltt-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="cs_cltt-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>tento</em></td><td></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="cs_cltt-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="cs_cltt-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>tyto</em></td><td><em>tyto</em></td><td></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="cs_cltt-feat-Gender.html">Gender</a></tt><tt>=Masc,Neut</tt>|<tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td></td><td><em>tomuto</em></td><td><em>tohoto</em></td><td><em>tomto</em></td><td><em>tímto</em></td></tr>
-  <tr><td><tt><tt><a href="cs_cltt-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>tento</em></td><td></td><td></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="cs_cltt-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>tato</em></td><td><em>tuto</em></td><td><em>této</em></td><td><em>této</em></td><td><em>této</em></td><td><em>touto</em></td></tr>
-  <tr><td><tt><tt><a href="cs_cltt-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>tyto</em></td><td><em>tyto</em></td><td></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="cs_cltt-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>toto</em></td><td><em>toto</em></td><td></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td></td><td><em>těmto</em></td><td><em>těchto</em></td><td><em>těchto</em></td><td><em>těmito</em></td></tr>
+  <tr><th>Paradigm <i>jenž</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th><th><tt>Gen</tt></th><th><tt>Loc</tt></th><th><tt>Ins</tt></th></tr>
+  <tr><td><tt><tt><a href="cs_cltt-feat-Gender.html">Gender</a></tt><tt>=Masc,Neut</tt>|<tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>nějž</em></td><td><em>němuž</em></td><td><em>jehož</em></td><td><em>němž</em></td><td><em>jímž, nímž</em></td></tr>
+  <tr><td><tt><tt><a href="cs_cltt-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>jenž</em></td><td></td><td></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="cs_cltt-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>jež</em></td><td><em>niž</em></td><td></td><td></td><td><em>níž</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>něž, jež</em></td><td><em>nimž</em></td><td><em>nichž</em></td><td><em>nichž</em></td><td><em>jimiž</em></td></tr>
 </table>
 
 ### `NUM`
@@ -165,39 +160,17 @@ The most frequent other feature values with which `NUM` and `Case` co-occurred: 
   <tr><td><tt><tt><a href="cs_cltt-feat-Gender.html">Gender</a></tt><tt>=Neut</tt></tt></td><td></td><td><em>jedno</em></td><td></td><td></td><td></td><td></td></tr>
 </table>
 
-### `VERB`
-
-3 <tt><a href="cs_cltt-pos-VERB.html">VERB</a></tt> tokens (0% of all `VERB` tokens) have a non-empty value of `Case`.
-
-The most frequent other feature values with which `VERB` and `Case` co-occurred: <tt><a href="cs_cltt-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (3; 100%), <tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3; 100%), <tt><a href="cs_cltt-feat-Voice.html">Voice</a></tt><tt>=Pass</tt> (3; 100%), <tt><a href="cs_cltt-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (3; 100%), <tt><a href="cs_cltt-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (3; 100%), <tt><a href="cs_cltt-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (3; 100%), <tt><a href="cs_cltt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (3; 100%), <tt><a href="cs_cltt-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (3; 100%).
-
-`VERB` tokens may have the following values of `Case`:
-
-* `Acc` (3; 100% of non-empty `Case`): <em>ověřenu</em>
-* `EMPTY` (2114): <em>obsahuje, rozumí, může, uvede, mohou, použijí, stanoví, vést, musí, účtuje</em>
-
-### `AUX`
-
-1 <tt><a href="cs_cltt-pos-AUX.html">AUX</a></tt> tokens (0% of all `AUX` tokens) have a non-empty value of `Case`.
-
-The most frequent other feature values with which `AUX` and `Case` co-occurred: <tt><a href="cs_cltt-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="cs_cltt-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (1; 100%), <tt><a href="cs_cltt-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="cs_cltt-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (1; 100%), <tt><a href="cs_cltt-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Plur</tt> (1; 100%), <tt><a href="cs_cltt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="cs_cltt-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (1; 100%).
-
-`AUX` tokens may have the following values of `Case`:
-
-* `Nom` (1; 100% of non-empty `Case`): <em>byty</em>
-* `EMPTY` (603): <em>je, jsou, nejsou, být, není, by, byly, bude, byl, není-li</em>
-
 ## Relations with Agreement in `Case`
 
 The 10 most frequent relations where parent and child node agree in `Case`:
-<tt>NOUN --[<tt><a href="cs_cltt-dep-amod.html">amod</a></tt>]--> ADJ</tt> (5983; 99%),
+<tt>NOUN --[<tt><a href="cs_cltt-dep-amod.html">amod</a></tt>]--> ADJ</tt> (5967; 98%),
 <tt>NOUN --[<tt><a href="cs_cltt-dep-case.html">case</a></tt>]--> ADP</tt> (3163; 93%),
-<tt>NOUN --[<tt><a href="cs_cltt-dep-conj.html">conj</a></tt>]--> NOUN</tt> (1467; 81%),
-<tt>NOUN --[<tt><a href="cs_cltt-dep-det.html">det</a></tt>]--> DET</tt> (403; 68%),
+<tt>NOUN --[<tt><a href="cs_cltt-dep-conj.html">conj</a></tt>]--> NOUN</tt> (1468; 81%),
+<tt>NOUN --[<tt><a href="cs_cltt-dep-det.html">det</a></tt>]--> DET</tt> (451; 70%),
 <tt>ADP --[<tt><a href="cs_cltt-dep-fixed.html">fixed</a></tt>]--> NOUN</tt> (258; 100%),
-<tt>PRON --[<tt><a href="cs_cltt-dep-case.html">case</a></tt>]--> ADP</tt> (193; 97%),
-<tt>ADJ --[<tt><a href="cs_cltt-dep-conj.html">conj</a></tt>]--> ADJ</tt> (187; 92%),
-<tt>NOUN --[<tt><a href="cs_cltt-dep-nmod.html">nmod</a></tt>]--> PRON</tt> (44; 76%),
+<tt>ADJ --[<tt><a href="cs_cltt-dep-conj.html">conj</a></tt>]--> ADJ</tt> (187; 88%),
+<tt>DET --[<tt><a href="cs_cltt-dep-case.html">case</a></tt>]--> ADP</tt> (110; 94%),
+<tt>PRON --[<tt><a href="cs_cltt-dep-case.html">case</a></tt>]--> ADP</tt> (83; 100%),
 <tt>NOUN --[<tt><a href="cs_cltt-dep-appos.html">appos</a></tt>]--> NOUN</tt> (42; 63%),
 <tt>NOUN --[<tt><a href="cs_cltt-dep-xcomp.html">xcomp</a></tt>]--> NOUN</tt> (21; 68%).
 

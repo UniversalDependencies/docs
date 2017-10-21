@@ -16,23 +16,23 @@ The feature is used with 2 part-of-speech tags: <tt><a href="cs_cltt-pos-PRON.ht
 
 ### `PRON`
 
-475 <tt><a href="cs_cltt-pos-PRON.html">PRON</a></tt> tokens (39% of all `PRON` tokens) have a non-empty value of `Reflex`.
+475 <tt><a href="cs_cltt-pos-PRON.html">PRON</a></tt> tokens (75% of all `PRON` tokens) have a non-empty value of `Reflex`.
 
-The most frequent other feature values with which `PRON` and `Reflex` co-occurred: <tt><a href="cs_cltt-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (475; 100%), <tt><a href="cs_cltt-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (475; 100%), <tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (475; 100%), <tt><a href="cs_cltt-feat-Variant.html">Variant</a></tt><tt>=Short</tt> (468; 99%), <tt><a href="cs_cltt-feat-Case.html">Case</a></tt><tt>=Acc</tt> (467; 98%).
+The most frequent other feature values with which `PRON` and `Reflex` co-occurred: <tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (475; 100%), <tt><a href="cs_cltt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (475; 100%), <tt><a href="cs_cltt-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (475; 100%), <tt><a href="cs_cltt-feat-PrepCase.html">PrepCase</a></tt><tt>=EMPTY</tt> (475; 100%), <tt><a href="cs_cltt-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (475; 100%), <tt><a href="cs_cltt-feat-Variant.html">Variant</a></tt><tt>=Short</tt> (468; 99%), <tt><a href="cs_cltt-feat-Case.html">Case</a></tt><tt>=Acc</tt> (467; 98%).
 
 `PRON` tokens may have the following values of `Reflex`:
 
 * `Yes` (475; 100% of non-empty `Reflex`): <em>se, sobě, sebou, si</em>
-* `EMPTY` (737): <em>které, která, který, to, kterých, kterým, kterém, kterému, nichž, všech</em>
+* `EMPTY` (156): <em>nichž, němž, jej, němuž, je, jim, jí, jimiž, veškeré, jehož</em>
 
 ### `DET`
 
-24 <tt><a href="cs_cltt-pos-DET.html">DET</a></tt> tokens (4% of all `DET` tokens) have a non-empty value of `Reflex`.
+24 <tt><a href="cs_cltt-pos-DET.html">DET</a></tt> tokens (2% of all `DET` tokens) have a non-empty value of `Reflex`.
 
-The most frequent other feature values with which `DET` and `Reflex` co-occurred: <tt><a href="cs_cltt-feat-Poss.html">Poss</a></tt><tt>=Yes</tt> (24; 100%), <tt><a href="cs_cltt-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (24; 100%), <tt><a href="cs_cltt-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (24; 100%), <tt><a href="cs_cltt-feat-Gender-psor.html">Gender[psor]</a></tt><tt>=EMPTY</tt> (24; 100%), <tt><a href="cs_cltt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (24; 100%), <tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (20; 83%).
+The most frequent other feature values with which `DET` and `Reflex` co-occurred: <tt><a href="cs_cltt-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (24; 100%), <tt><a href="cs_cltt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (24; 100%), <tt><a href="cs_cltt-feat-Poss.html">Poss</a></tt><tt>=Yes</tt> (24; 100%), <tt><a href="cs_cltt-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (24; 100%), <tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (20; 83%).
 
 `DET` tokens may have the following values of `Reflex`:
 
 * `Yes` (24; 100% of non-empty `Reflex`): <em>své, svého, svých, svůj, svoji, svým, svou</em>
-* `EMPTY` (571): <em>jejich, jeho, této, tohoto, těchto, tyto, tato, tento, její, tomto</em>
+* `EMPTY` (1170): <em>které, jejich, která, jeho, této, tohoto, který, to, těchto, tyto</em>
 

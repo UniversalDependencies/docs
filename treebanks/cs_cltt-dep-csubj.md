@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `csubj`: <tt><a href="cs_cltt-dep-csubj-pass.html">csubj:pass</a></tt>.
 
-57 nodes (0%) are attached to their parents as `csubj`.
+55 nodes (0%) are attached to their parents as `csubj`.
 
-55 instances of `csubj` (96%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.68421052631579.
+53 instances of `csubj` (96%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.67272727272727.
 
-The following 4 pairs of parts of speech are connected with `csubj`: <tt><a href="cs_cltt-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_cltt-pos-VERB.html">VERB</a></tt> (38; 67% instances), <tt><a href="cs_cltt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cs_cltt-pos-VERB.html">VERB</a></tt> (13; 23% instances), <tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_cltt-pos-VERB.html">VERB</a></tt> (4; 7% instances), <tt><a href="cs_cltt-pos-X.html">X</a></tt>-<tt><a href="cs_cltt-pos-VERB.html">VERB</a></tt> (2; 4% instances).
+The following 4 pairs of parts of speech are connected with `csubj`: <tt><a href="cs_cltt-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_cltt-pos-VERB.html">VERB</a></tt> (37; 67% instances), <tt><a href="cs_cltt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cs_cltt-pos-VERB.html">VERB</a></tt> (14; 25% instances), <tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_cltt-pos-VERB.html">VERB</a></tt> (2; 4% instances), <tt><a href="cs_cltt-pos-X.html">X</a></tt>-<tt><a href="cs_cltt-pos-VERB.html">VERB</a></tt> (2; 4% instances).
 
 
 ~~~ conllu
@@ -85,7 +85,7 @@ The following 4 pairs of parts of speech are connected with `csubj`: <tt><a href
 15	celkem	celkem	ADV	Db-------------	_	13	advmod	_	_
 16	orgán	orgán	NOUN	NNIS4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|Polarity=Pos	12	nsubj	_	SpaceAfter=No
 17	,	,	PUNCT	Z:-------------	_	22	punct	_	_
-18	který	který	PRON	P4YS1----------	Case=Nom|Gender=Masc|Number=Sing|PronType=Int,Rel	22	nsubj	_	_
+18	který	který	DET	P4YS1----------	Case=Nom|Gender=Masc|Number=Sing|PronType=Int,Rel	22	nsubj	_	_
 19	porušení	porušení	NOUN	NNNS4-----A----	Case=Acc|Gender=Neut|Number=Sing|Polarity=Pos	22	obj	_	_
 20	právních	právní	ADJ	AAFP2----1A----	Case=Gen|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Pos	21	amod	_	_
 21	povinností	povinnost	NOUN	NNFP2-----A----	Case=Gen|Gender=Fem|Number=Plur|Polarity=Pos	19	nmod	_	_

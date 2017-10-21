@@ -11,9 +11,29 @@ This relation is universal.
 1125 nodes (3%) are attached to their parents as `root`.
 
 1125 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 9.13422222222222.
+Average distance between parent and child is 8.33333333333333.
 
-The following 4 pairs of parts of speech are connected with `root`: -<tt><a href="cs_cltt-pos-VERB.html">VERB</a></tt> (744; 66% instances), -<tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt> (169; 15% instances), -<tt><a href="cs_cltt-pos-X.html">X</a></tt> (130; 12% instances), -<tt><a href="cs_cltt-pos-ADJ.html">ADJ</a></tt> (82; 7% instances).
+The following 4 pairs of parts of speech are connected with `root`: -<tt><a href="cs_cltt-pos-VERB.html">VERB</a></tt> (729; 65% instances), -<tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt> (169; 15% instances), -<tt><a href="cs_cltt-pos-X.html">X</a></tt> (130; 12% instances), -<tt><a href="cs_cltt-pos-ADJ.html">ADJ</a></tt> (97; 9% instances).
+
+
+~~~ conllu
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 0	bgColor:blue
+# visual-style 0	fgColor:white
+# visual-style 0 4 root	color:blue
+1	Výroční	výroční	ADJ	AAFS1----1A----	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	2	amod	_	_
+2	zpráva	zpráva	NOUN	NNFS1-----A----	Case=Nom|Gender=Fem|Number=Sing|Polarity=Pos	4	nsubj:pass	_	_
+3	se	se	PRON	P7-X4----------	Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short	4	expl:pass	_	_
+4	nevyhotovuje	vyhotovovat	VERB	VB-S---3P-NA---	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+5	v	v	ADP	RR--6----------	AdpType=Prep|Case=Loc	6	case	_	LId=v-1
+6	případech	případ	NOUN	NNIP6-----A----	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur|Polarity=Pos	4	obl	_	_
+7	uvedených	uvedený	ADJ	AAIP6----1A----	Animacy=Inan|Case=Loc|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos	6	amod	_	_
+8	v	v	ADP	RR--6----------	AdpType=Prep|Case=Loc	9	case	_	LId=v-1
+9	§ 20 odst. 2	§ 20 odst. 2	X	X@-------------	_	7	advmod	_	SpaceAfter=No
+10	.	.	PUNCT	Z:-------------	_	4	punct	_	_
+
+~~~
 
 
 ~~~ conllu
@@ -22,15 +42,8 @@ The following 4 pairs of parts of speech are connected with `root`: -<tt><a href
 # visual-style 0	bgColor:blue
 # visual-style 0	fgColor:white
 # visual-style 0 2 root	color:blue
-1	Dále	dále	ADV	Db------------1	_	2	advmod	_	LId=dále-3
-2	obsahuje	obsahovat	VERB	VB-S---3P-AA---	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-3	povolenky	povolenka	NOUN	NNFP4-----A----	Case=Acc|Gender=Fem|Number=Plur|Polarity=Pos	2	obj	_	_
-4	na	na	ADP	RR--4----------	AdpType=Prep|Case=Acc	5	case	_	LId=na-1
-5	emise	emise	NOUN	NNFP4-----A----	Case=Acc|Gender=Fem|Number=Plur|Polarity=Pos	3	nmod	_	_
-6	a	a	CCONJ	J^-------------	_	8	cc	_	LId=a-1
-7	preferenční	preferenční	ADJ	AAIP4----1A----	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos	8	amod	_	_
-8	limity	limit	NOUN	NNIP4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur|Polarity=Pos	5	conj	_	SpaceAfter=No|LId=limit-1
-9	.	.	PUNCT	Z:-------------	_	2	punct	_	_
+1	Výroční	výroční	ADJ	AAFS1----1A----	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	2	amod	_	_
+2	zpráva	zpráva	NOUN	NNFS1-----A----	Case=Nom|Gender=Fem|Number=Sing|Polarity=Pos	0	root	_	_
 
 ~~~
 
@@ -41,20 +54,7 @@ The following 4 pairs of parts of speech are connected with `root`: -<tt><a href
 # visual-style 0	bgColor:blue
 # visual-style 0	fgColor:white
 # visual-style 0 1 root	color:blue
-1	HLAVA	hlava	NOUN	NNFS1-----A----	Case=Nom|Gender=Fem|Number=Sing|Polarity=Pos	0	root	_	_
-2	II	II	NUM	C}-------------	NumForm=Roman|NumType=Card	1	nummod	_	LId=II-3
-
-~~~
-
-
-~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 0	bgColor:blue
-# visual-style 0	fgColor:white
-# visual-style 0 1 root	color:blue
-1	§	§	X	X@-------------	_	0	root	_	_
-2	5	5	X	X@-------------	_	1	flat	_	_
+1	§ 21	§ 21	X	X@-------------	_	0	root	_	_
 
 ~~~
 

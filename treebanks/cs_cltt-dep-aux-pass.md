@@ -11,9 +11,9 @@ This relation is a language-specific subtype of <tt><a href="cs_cltt-dep-aux.htm
 133 nodes (0%) are attached to their parents as `aux:pass`.
 
 132 instances of `aux:pass` (99%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.83458646616541.
+Average distance between parent and child is 1.81203007518797.
 
-The following 3 pairs of parts of speech are connected with `aux:pass`: <tt><a href="cs_cltt-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_cltt-pos-AUX.html">AUX</a></tt> (129; 97% instances), <tt><a href="cs_cltt-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt> (2; 2% instances), <tt><a href="cs_cltt-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_cltt-pos-X.html">X</a></tt> (2; 2% instances).
+The following 3 pairs of parts of speech are connected with `aux:pass`: <tt><a href="cs_cltt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cs_cltt-pos-AUX.html">AUX</a></tt> (129; 97% instances), <tt><a href="cs_cltt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt> (2; 2% instances), <tt><a href="cs_cltt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cs_cltt-pos-X.html">X</a></tt> (2; 2% instances).
 
 
 ~~~ conllu
@@ -26,7 +26,7 @@ The following 3 pairs of parts of speech are connected with `aux:pass`: <tt><a h
 2	používání	používání	NOUN	NNNS2-----A----	Case=Gen|Gender=Neut|Number=Sing|Polarity=Pos	1	nmod	_	_
 3	může	moci	VERB	VB-S---3P-AA---	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 4	být	být	AUX	Vf--------A----	Polarity=Pos|VerbForm=Inf	5	aux:pass	_	_
-5	vyjádřen	vyjádřit	VERB	VsYS---XX-AP---	Gender=Masc|Number=Sing|Polarity=Pos|VerbForm=Part|Voice=Pass	3	ccomp	_	_
+5	vyjádřen	vyjádřený	ADJ	VsYS---XX-AP---	Gender=Masc|Number=Sing|Polarity=Pos|Variant=Short|VerbForm=Part|Voice=Pass	3	obj	_	_
 6	i	i	CCONJ	J^-------------	_	7	advmod:emph	_	LId=i-1
 7	jinak	jinak	ADV	Db-------------	_	5	advmod	_	_
 8	než	než	SCONJ	J,-------------	_	10	mark	_	LId=než-2
@@ -44,6 +44,35 @@ The following 3 pairs of parts of speech are connected with `aux:pass`: <tt><a h
 
 
 ~~~ conllu
+# visual-style 15	bgColor:blue
+# visual-style 15	fgColor:white
+# visual-style 17	bgColor:blue
+# visual-style 17	fgColor:white
+# visual-style 17 15 aux:pass	color:blue
+1	Způsoby	způsob	NOUN	NNIP1-----A----	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur|Polarity=Pos	5	obl	_	_
+2	podle	podle	ADP	RR--2----------	AdpType=Prep|Case=Gen	3	case	_	LId=podle-2
+3	§ 25	§ 25	X	X@-------------	_	1	nmod	_	_
+4	se	se	PRON	P7-X4----------	Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short	5	expl:pass	_	_
+5	ocení	ocenit	VERB	VB-S---3P-AA---	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+6	i	i	CCONJ	J^-------------	_	7	advmod:emph	_	LId=i-1
+7	majetek	majetek	NOUN	NNIS4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|Polarity=Pos	5	nsubj:pass	_	_
+8	a	a	CCONJ	J^-------------	_	9	cc	_	LId=a-1
+9	závazky	závazek	NOUN	NNIP4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur|Polarity=Pos	7	conj	_	_
+10	neuvedené	uvedený	ADJ	AAMP4----1N----	Animacy=Anim|Case=Acc|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Neg	9	amod	_	_
+11	v	v	ADP	RR--6----------	AdpType=Prep|Case=Loc	12	case	_	LId=v-1
+12	odstavci	odstavec	NOUN	NNIS6-----A----	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing|Polarity=Pos	10	obl	_	_
+13	1	1	NUM	C}-------------	NumForm=Roman|NumType=Card	12	nummod	_	SpaceAfter=No
+14	,	,	PUNCT	Z:-------------	_	17	punct	_	_
+15	není-li	není-li	X	X@-------------	_	17	aux:pass	_	_
+16	dále	dále	ADV	Db------------1	_	17	advmod	_	LId=dále-3
+17	stanoveno	stanovený	ADJ	VsNS---XX-AP---	Gender=Neut|Number=Sing|Polarity=Pos|Variant=Short|VerbForm=Part|Voice=Pass	5	obl	_	_
+18	jinak	jinak	ADV	Db-------------	_	17	advmod	_	SpaceAfter=No
+19	.	.	PUNCT	Z:-------------	_	5	punct	_	_
+
+~~~
+
+
+~~~ conllu
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 4	bgColor:blue
@@ -52,7 +81,7 @@ The following 3 pairs of parts of speech are connected with `aux:pass`: <tt><a h
 1	(2)	(2)	PUNCT	Z:-------------	_	9	punct	_	_
 2	Není-li	Není-li	NOUN	NNNXX-----A----	Gender=Neut|Polarity=Pos	4	aux:pass	_	_
 3	dále	dále	ADV	Db------------1	_	4	advmod	_	LId=dále-3
-4	stanoveno	stanovit	VERB	VsNS---XX-AP---	Gender=Neut|Number=Sing|Polarity=Pos|VerbForm=Part|Voice=Pass	9	advcl	_	_
+4	stanoveno	stanovený	ADJ	VsNS---XX-AP---	Gender=Neut|Number=Sing|Polarity=Pos|Variant=Short|VerbForm=Part|Voice=Pass	9	obl	_	_
 5	jinak	jinak	ADV	Db-------------	_	4	advmod	_	SpaceAfter=No
 6	,	,	PUNCT	Z:-------------	_	4	punct	_	_
 7	účetní	účetní	ADJ	AAFP1----1A----	Case=Nom|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Pos	8	amod	_	LId=účetní-1
@@ -60,7 +89,7 @@ The following 3 pairs of parts of speech are connected with `aux:pass`: <tt><a h
 9	uzavírají	uzavírat	VERB	VB-P---3P-AA---	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 10	účetní	účetní	ADJ	AAFP4----1A----	Case=Acc|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Pos	11	amod	_	LId=účetní-1
 11	knihy	kniha	NOUN	NNFP4-----A----	Case=Acc|Gender=Fem|Number=Plur|Polarity=Pos	9	obj	_	_
-12	a)	a)	X	X@-------------	_	9	obl	_	_
+12	a)	a)	X	X@-------------	_	9	nmod	_	_
 13	ke	k	ADP	RV--3----------	AdpType=Voc|Case=Dat	12	case	_	LId=k-1
 14	dni	den	NOUN	NNIS3-----A---1	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing|Polarity=Pos	12	obl	_	_
 15	zániku	zánik	NOUN	NNIS2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing|Polarity=Pos	14	nmod	_	_
@@ -103,7 +132,7 @@ The following 3 pairs of parts of speech are connected with `aux:pass`: <tt><a h
 52	předcházejícímu	předcházející	ADJ	AGNS3-----A----	Aspect=Imp|Case=Dat|Gender=Neut|Number=Sing|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Act	51	amod	_	_
 53	dni	den	NOUN	NNIS3-----A---1	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing|Polarity=Pos	52	obj	_	SpaceAfter=No
 54	,	,	PUNCT	Z:-------------	_	56	punct	_	_
-55	kterým	který	PRON	P4XP3----------	Case=Dat|Number=Plur|PronType=Int,Rel	56	advmod	_	_
+55	kterým	který	DET	P4XP3----------	Case=Dat|Number=Plur|PronType=Int,Rel	56	obl	_	_
 56	nastanou	nastat	VERB	VB-P---3P-AA---	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	53	acl	_	_
 57	účinky	účinek	NOUN	NNIP1-----A----	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur|Polarity=Pos	56	nsubj	_	_
 58	rozhodnutí	rozhodnutí	NOUN	NNNS2-----A----	Case=Gen|Gender=Neut|Number=Sing|Polarity=Pos	57	nmod	_	_
@@ -111,7 +140,7 @@ The following 3 pairs of parts of speech are connected with `aux:pass`: <tt><a h
 60	úpadku	úpadek	NOUN	NNIS6-----A----	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing|Polarity=Pos	58	nmod	_	_
 61	nebo	nebo	CCONJ	J^-------------	_	64	cc	_	_
 62	ke	k	ADP	RV--3----------	AdpType=Voc|Case=Dat	63	case	_	LId=k-1
-63	kterému	který	PRON	P4ZS3----------	Case=Dat|Gender=Masc,Neut|Number=Sing|PronType=Int,Rel	64	advmod	_	_
+63	kterému	který	DET	P4ZS3----------	Case=Dat|Gender=Masc,Neut|Number=Sing|PronType=Int,Rel	64	obl	_	_
 64	nastanou	nastat	VERB	VB-P---3P-AA---	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	56	conj	_	_
 65	účinky	účinek	NOUN	NNIP1-----A----	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur|Polarity=Pos	64	nsubj	_	_
 66	rozhodnutí	rozhodnutí	NOUN	NNNS2-----A----	Case=Gen|Gender=Neut|Number=Sing|Polarity=Pos	65	nmod	_	_
@@ -126,7 +155,7 @@ The following 3 pairs of parts of speech are connected with `aux:pass`: <tt><a h
 75	ke	k	ADP	RV--3----------	AdpType=Voc|Case=Dat	74	case	_	LId=k-1
 76	dni	den	NOUN	NNIS3-----A---1	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing|Polarity=Pos	74	obl	_	SpaceAfter=No
 77	,	,	PUNCT	Z:-------------	_	79	punct	_	_
-78	kterým	který	PRON	P4XP3----------	Case=Dat|Number=Plur|PronType=Int,Rel	79	advmod	_	_
+78	kterým	který	DET	P4XP3----------	Case=Dat|Number=Plur|PronType=Int,Rel	79	obl	_	_
 79	nastanou	nastat	VERB	VB-P---3P-AA---	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	76	acl	_	_
 80	účinky	účinek	NOUN	NNIP1-----A----	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur|Polarity=Pos	79	nsubj	_	_
 81	zrušení	zrušení	NOUN	NNNS2-----A----	Case=Gen|Gender=Neut|Number=Sing|Polarity=Pos	80	nmod	_	_
@@ -138,7 +167,7 @@ The following 3 pairs of parts of speech are connected with `aux:pass`: <tt><a h
 87	předcházejícímu	předcházející	ADJ	AGNS3-----A----	Aspect=Imp|Case=Dat|Gender=Neut|Number=Sing|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Act	86	amod	_	_
 88	dni	den	NOUN	NNIP4-----A---1	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur|Polarity=Pos	87	obj	_	SpaceAfter=No
 89	,	,	PUNCT	Z:-------------	_	91	punct	_	_
-90	kterým	který	PRON	P4ZS7----------	Case=Ins|Gender=Masc,Neut|Number=Sing|PronType=Int,Rel	91	advmod	_	_
+90	kterým	který	DET	P4ZS7----------	Case=Ins|Gender=Masc,Neut|Number=Sing|PronType=Int,Rel	91	obl	_	_
 91	nastanou	nastat	VERB	VB-P---3P-AA---	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	88	acl	_	_
 92	účinky	účinek	NOUN	NNIP1-----A----	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur|Polarity=Pos	91	nsubj	_	_
 93	schválení	schválení	NOUN	NNNS2-----A----	Case=Gen|Gender=Neut|Number=Sing|Polarity=Pos	92	nmod	_	_
@@ -149,7 +178,7 @@ The following 3 pairs of parts of speech are connected with `aux:pass`: <tt><a h
 98	ke	k	ADP	RV--3----------	AdpType=Voc|Case=Dat	97	case	_	LId=k-1
 99	dni	den	NOUN	NNIS3-----A---1	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing|Polarity=Pos	97	obl	_	SpaceAfter=No
 100	,	,	PUNCT	Z:-------------	_	102	punct	_	_
-101	kterým	který	PRON	P4XP3----------	Case=Dat|Number=Plur|PronType=Int,Rel	102	obj	_	_
+101	kterým	který	DET	P4XP3----------	Case=Dat|Number=Plur|PronType=Int,Rel	102	obj	_	_
 102	nastanou	nastat	VERB	VB-P---3P-AA---	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	99	acl	_	_
 103	účinky	účinek	NOUN	NNIP1-----A----	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur|Polarity=Pos	102	nsubj	_	_
 104	splnění	splnění	NOUN	NNNS2-----A----	Case=Gen|Gender=Neut|Number=Sing|Polarity=Pos	103	nmod	_	_
@@ -160,7 +189,7 @@ The following 3 pairs of parts of speech are connected with `aux:pass`: <tt><a h
 109	ke	k	ADP	RV--3----------	AdpType=Voc|Case=Dat	108	case	_	LId=k-1
 110	dni	den	NOUN	NNIS3-----A---1	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing|Polarity=Pos	108	obl	_	SpaceAfter=No
 111	,	,	PUNCT	Z:-------------	_	113	punct	_	_
-112	kterým	který	PRON	P4XP3----------	Case=Dat|Number=Plur|PronType=Int,Rel	113	advmod	_	_
+112	kterým	který	DET	P4XP3----------	Case=Dat|Number=Plur|PronType=Int,Rel	113	obl	_	_
 113	nastanou	nastat	VERB	VB-P---3P-AA---	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	110	acl	_	_
 114	účinky	účinek	NOUN	NNIP1-----A----	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur|Polarity=Pos	113	nsubj	_	_
 115	splnění	splnění	NOUN	NNNS2-----A----	Case=Gen|Gender=Neut|Number=Sing|Polarity=Pos	114	nmod	_	_
@@ -173,7 +202,7 @@ The following 3 pairs of parts of speech are connected with `aux:pass`: <tt><a h
 122	dni	den	NOUN	NNIS3-----A---1	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing|Polarity=Pos	120	obl	_	SpaceAfter=No
 123	,	,	PUNCT	Z:-------------	_	126	punct	_	_
 124	ke	k	ADP	RV--3----------	AdpType=Voc|Case=Dat	125	case	_	LId=k-1
-125	kterému	který	PRON	P4ZS3----------	Case=Dat|Gender=Masc,Neut|Number=Sing|PronType=Int,Rel	126	advmod	_	_
+125	kterému	který	DET	P4ZS3----------	Case=Dat|Gender=Masc,Neut|Number=Sing|PronType=Int,Rel	126	obl	_	_
 126	stanoví	stanovit	VERB	VB-S---3P-AA---	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	122	acl	_	_
 127	povinnost	povinnost	NOUN	NNFS4-----A----	Case=Acc|Gender=Fem|Number=Sing|Polarity=Pos	126	obj	_	_
 128	uzavřít	uzavřít	VERB	Vf--------A----	Polarity=Pos|VerbForm=Inf	127	acl	_	_
@@ -187,36 +216,6 @@ The following 3 pairs of parts of speech are connected with `aux:pass`: <tt><a h
 136	právní	právní	ADJ	AAIS1----1A----	Animacy=Inan|Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos	137	amod	_	_
 137	předpis	předpis	NOUN	NNIS1-----A----	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing|Polarity=Pos	126	nsubj	_	SpaceAfter=No
 138	.	.	PUNCT	Z:-------------	_	9	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 16	bgColor:blue
-# visual-style 16	fgColor:white
-# visual-style 18	bgColor:blue
-# visual-style 18	fgColor:white
-# visual-style 18 16 aux:pass	color:blue
-1	Způsoby	způsob	NOUN	NNIP1-----A----	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur|Polarity=Pos	6	obl	_	_
-2	podle	podle	ADP	RR--2----------	AdpType=Prep|Case=Gen	3	case	_	LId=podle-2
-3	§	§	X	X@-------------	_	1	nmod	_	_
-4	25	25	X	X@-------------	_	3	flat	_	_
-5	se	se	PRON	P7-X4----------	Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short	6	expl:pass	_	_
-6	ocení	ocenit	VERB	VB-S---3P-AA---	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-7	i	i	CCONJ	J^-------------	_	8	advmod:emph	_	LId=i-1
-8	majetek	majetek	NOUN	NNIS4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|Polarity=Pos	6	nsubj:pass	_	_
-9	a	a	CCONJ	J^-------------	_	10	cc	_	LId=a-1
-10	závazky	závazek	NOUN	NNIP4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur|Polarity=Pos	8	conj	_	_
-11	neuvedené	uvedený	ADJ	AAMP4----1N----	Animacy=Anim|Case=Acc|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Neg	10	amod	_	_
-12	v	v	ADP	RR--6----------	AdpType=Prep|Case=Loc	13	case	_	LId=v-1
-13	odstavci	odstavec	NOUN	NNIS6-----A----	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing|Polarity=Pos	11	obl	_	_
-14	1	1	NUM	C}-------------	NumForm=Roman|NumType=Card	13	nummod	_	SpaceAfter=No
-15	,	,	PUNCT	Z:-------------	_	18	punct	_	_
-16	není-li	není-li	X	X@-------------	_	18	aux:pass	_	_
-17	dále	dále	ADV	Db------------1	_	18	advmod	_	LId=dále-3
-18	stanoveno	stanovit	VERB	VsNS---XX-AP---	Gender=Neut|Number=Sing|Polarity=Pos|VerbForm=Part|Voice=Pass	6	advcl	_	_
-19	jinak	jinak	ADV	Db-------------	_	18	advmod	_	SpaceAfter=No
-20	.	.	PUNCT	Z:-------------	_	6	punct	_	_
 
 ~~~
 
