@@ -58,12 +58,12 @@ udver: '2'
 <h2>Tokenization and Word Segmentation</h2>
 
 <ul>
-<li>This corpus contains 1125 sentences, 37485 tokens and 37501 syntactic words.</li>
-<li>This corpus contains 3477 tokens (9%) that are not followed by a space.</li>
+<li>This corpus contains 1125 sentences, 35084 tokens and 35630 syntactic words.</li>
+<li>This corpus contains 3477 tokens (10%) that are not followed by a space.</li>
 <li>This corpus does not contain words with spaces.</li>
-<li>This corpus contains 283 types of words that contain both letters and punctuation: "***Výsledek, "A", "A., "A.I.1., "A.I.3., "A.II.4., "A.II.5., "A.II.6., "A.III., "A.IV.3., "AKTIVA, "B., "B.2., "B.I., "B.I.1., "B.I.2., "B.I.3., "B.I.4., "B.I.5., "B.I.6., "B.I.7., "B.I.8., "B.II., "B.II.1., "B.II.2., "B.II.3., "B.II.4., "B.II.5., "B.II.6., "B.II.7., "B.II.8., "B.II.9., "B.III., "B.III.1., "B.III.10., "B.III.3., "B.III.4., "B.III.5., "B.III.6., "B.III.7., "B.III.9., "B.IV.2., "C., "C.I., "C.I.1., "C.I.2., "C.I.3., "C.I.4., "C.I.5., "C.I.6., "C.II., "C.II.1., "C.II.2., "C.II.3., "C.II.4., "C.II.5., "C.II.6., "C.II.7., "C.III., "C.III.1., "C.III.2., "C.III.3., "C.III.4., "C.III.6., "C.III.7., "C.III.8., "C.III.9., "C.IV.1., "C.IV.2., "C.IV.3., "D., "D.I., "D.I.1., "D.I.2., "D.I.3., "F., "G., "H., "I., "II., "III., "IV., "J., "K., "Kladný, "L., "M., "N., "O., "P., "PASIVA, "Q., "R., "S., "T., "V", "VI., "VII., "VIII., "X., "XI., "XIII., "Záporný, "daňová, "jiná, "konsolidovaná, "konsolidující, "ložisko", "mezinárodní, "mezitímní, "ministerstvo", "minulé, "nástupnická, "okamžik, "periodická, "průběžná, "přeměna, "rozhodný, "rozvahové, "společnost", "spřízněná, "standardy", "uživatel", "zanikající, "zákon, "zúčastněná, "účetní, 1.ledna, B., CELKEM", Goodwill", Materiál", Má-li, Peníze", Použijí-li, Pozemky", Požaduje-li, Předchází-li, Sb., Sb.,, Služby", Stavby", V., Využije-li, Vzniknou-li, Výkony", Výrobky", Zjistí-li, Změní-li, a), a),, aktivní", b), b),, bankách", c), d), d),, den", dluhopisy", dojde-li, došlo-li, e), e),, evidence", existuje-li, f), fondy,, g), h), hodnota", hospodaření", i), inventarizace", j), jde-li, je-li, jednotka", jednotky", jsou-li, k), kapitál", kapitálu", l), let", liší-li, m), majetek", majetku", marže", n), nejde-li, nejedná-li, nejsou-li, nelze-li, nenaplní-li, není-li, neodporuje-li, nerozhodnou-li, nestanoví-li, neurčí-li, nevyžaduje-li, nevznikla-li, náklady", nákladů", o), období", oblasti", ocenění", odst., odštěpením", osoba", osoba,, p), pasivní", podíly", podílů", pohledávky", pojištění", polotovary", poplatky", porostů", použije-li, prodeje", písm., přeměnách", přestane-li, přestanou-li, převezme-li, přidružená", připadne-li, příjmů", případy", q), r), rezervy", režie", rozdíl", rozlišení", s), sdružení", skupiny", služeb", společnosti", společností", společníky,, společníkům", společníkům,, spotřeba", standardy", stanoví-li, strana", t), technicko-ekonomickým, u), v), vliv", vlivem", vyžaduje-li, vztahů", výdaje", výnosy", výrobků,, věcí", w), zahrnuje-li, zaměstnancům", zboží", zdaněním", zisku", zvířata", zálohy", zápisy", zásoby", závazky", závěrka", úroky", úvěry", účty", č., činnost", činnosti", čl.</li>
-<li>This corpus contains 16 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
-<li>There are 1 types of multi-word tokens: aby.</li>
+<li>This corpus contains 437 types of words that contain both letters and punctuation: ****_Výsledek_hospodaření_před_zdaněním, ***Výsledek_hospodaření_za_účetní_období, ***_Výsledek_hospodaření_za_účetní_období, **_Výsledek_hospodaření_za_běžnou_činnost, *_Finanční_výsledek_hospodaření, *_Mimořádný_výsledek_hospodaření, *_Provozní_výsledek_hospodaření, +_Obchodní_marže, +_Přidaná_hodnota, 1.ledna, A.I.1._Základní_kapitál, A.I.3._Změny_základního_kapitálu, A.II.4._Oceňovací_rozdíly_z_přecenění_při_přeměnách_společností, A.II.5._Rozdíly_z_přeměn_společností, A.II.6._Rozdíly_z_ocenění_při_přeměnách_společností, A.III._Rezervní_fondy,_nedělitelný_fond_a_ostatní_fondy_ze_zisku, A.IV.3._Jiný_výsledek_hospodaření_minulých_let, A._Náklady_prodeje, A._Náklady_vynaložené_na_prodané_zboží, A._Pohledávky_za_upsaný_základní_kapitál, A._V._Výsledek_hospodaření_běžného_účetního_období, A._Vlastní_kapitál, AKTIVA_CELKEM, B., B.2._Služby, B.I.1._Zřizovací_výdaje, B.I.2._Rezerva_na_důchody_a_podobné_závazky, B.I.3._Rezerva_na_daň_z_příjmů, B.I.4._Ostatní_rezervy, B.I.5._Goodwill, B.I.6._Jiný_dlouhodobý_nehmotný_majetek, B.I.7._Nedokončený_dlouhodobý_nehmotný_majetek, B.I.8._Poskytnuté_zálohy_na_dlouhodobý_nehmotný_majetek, B.I._Dlouhodobý_nehmotný_majetek, B.I._Rezervy, B.II.1._Pozemky, B.II.1._Závazky_z_obchodních_vztahů, B.II.2._Stavby, B.II.2._Závazky_-_ovládaná_nebo_ovládající_osoba, B.II.3._Samostatné_movité_věci_a_soubory_movitých_věcí, B.II.3._Závazky_-_podstatný_vliv, B.II.4._Pěstitelské_celky_trvalých_porostů, B.II.4._Závazky_ke_společníkům,_členům_družstva_a_k_účastníkům_sdružení, B.II.5._Dospělá_zvířata_a_jejich_skupiny, B.II.5._Základní_stádo_a_tažná_zvířata, B.II.6._Jiný_dlouhodobý_hmotný_majetek, B.II.6._Vydané_dluhopisy, B.II.7._Nedokončený_dlouhodobý_hmotný_majetek, B.II.8._Dohadné_účty_pasivní, B.II.8._Poskytnuté_zálohy_na_dlouhodobý_hmotný_majetek, B.II.9._Jiné_závazky, B.II.9._Oceňovací_rozdíl_k_nabytému_majetku, B.II._Dlouhodobé_závazky, B.II._Dlouhodobý_hmotný_majetek, B.III.1._Závazky_z_obchodních_vztahů, B.III.10._Dohadné_účty_pasivní, B.III.3._Ostatní_dlouhodobé_cenné_papíry_a_podíly, B.III.3._Závazky_-_podstatný_vliv, B.III.4._Půjčky_a_úvěry_-_ovládaná_nebo_ovládající_osoba,_podstatný_vliv, B.III.4._Závazky_ke_společníkům,_členům_družstva_a_k_účastníkům_sdružení, B.III.5._Jiný_dlouhodobý_finanční_majetek, B.III.5._Závazky_k_zaměstnancům, B.III.6._Závazky_ze_sociálního_zabezpečení_a_zdravotního_pojištění, B.III.7._Poskytnuté_zálohy_na_dlouhodobý_finanční_majetek, B.III.9._Vydané_dluhopisy, B.III._Krátkodobé_závazky, B.IV.2._Krátkodobé_bankovní_úvěry, B._Odbytové_náklady, B._Výkonová_spotřeba, C.I.1._Materiál, C.I.1._Výdaje_příštích_období, C.I.2._Nedokončená_výroba_a_polotovary, C.I.2._Výnosy_příštích_období, C.I.3._Výrobky, C.I.4._Mladá_a_ostatní_zvířata_a_jejich_skupiny, C.I.4._Zvířata, C.I.5._Zboží, C.I.6._Poskytnuté_zálohy_na_zásoby, C.I._Zásoby, C.I._Časové_rozlišení, C.II.1._Pohledávky_z_obchodních_vztahů, C.II.2._Pohledávky_-_ovládaná_nebo_ovládající_osoba, C.II.3._Pohledávky_-_podstatný_vliv, C.II.4._Pohledávky_za_společníky,_členy_družstva_a_za_účastníky_sdružení, C.II.5._Dlouhodobé_poskytnuté_zálohy, C.II.6._Dohadné_účty_aktivní, C.II.7._Jiné_pohledávky, C.II._Dlouhodobé_pohledávky, C.III.1._Pohledávky_z_obchodních_vztahů, C.III.2._Pohledávky_-_ovládaná_nebo_ovládající_osoba, C.III.3._Pohledávky_-_podstatný_vliv, C.III.4._Pohledávky_za_společníky,_členy_družstva_a_za_účastníky_sdružení, C.III.6._Stát_-_daňové_pohledávky, C.III.7._Krátkodobé_poskytnuté_zálohy, C.III.8._Dohadné_účty_aktivní, C.III.9._Jiné_pohledávky, C.III._Krátkodobé_pohledávky, C.IV.1._Peníze, C.IV.2._Účty_v_bankách, C.IV.3._Krátkodobé_cenné_papíry_a_podíly, C._Osobní_náklady, C._Správní_režie, D.I.1._Náklady_příštích_období, D.I.2._Komplexní_náklady_příštích_období, D.I.3._Příjmy_příštích_období, D.I._Časové_rozlišení, D._Daně_a_poplatky, D._Jiné_provozní_náklady, F._Náklady_z_finančního_majetku, G._Změna_stavu_rezerv_a_opravných_položek_v_provozní_oblasti_a_komplexních_nákladů_příštích_období, H._Ostatní_provozní_náklady, H._Změna_stavu_rezerv_a_opravných_položek_ve_finanční_oblasti, I._Nákladové_úroky, I._Převod_provozních_nákladů, I._Tržby_z_prodeje_výrobků,_zboží_a_služeb, I._Tržby_za_prodej_zboží, II._Výkony, III._Tržby_z_prodeje_cenných_papírů_a_podílů, IV._Ostatní_provozní_výnosy, IV._Výnosy_z_dlouhodobého_finančního_majetku, J._Ostatní_finanční_náklady, K._Náklady_z_finančního_majetku, K._Převod_finančních_nákladů, Kladný_konsolidační_rozdíl, L._Daň_z_příjmů_za_běžnou_činnost, M._Mimořádné_náklady, M._Změna_stavu_rezerv_a_opravných_položek_ve_finanční_oblasti, Má-li, N._Daň_z_příjmů_z_mimořádné_činnosti, N._Nákladové_úroky, O._Ostatní_finanční_náklady, O._Převod_podílu_na_výsledku_hospodaření_společníkům, P._Převod_finančních_nákladů, PASIVA_CELKEM, Použijí-li, Požaduje-li, Předchází-li, Q._Daň_z_příjmů_za_běžnou_činnost, R._Mimořádné_náklady, S._Daň_z_příjmů_z_mimořádné_činnosti, T._Převod_podílu_na_výsledku_hospodaření_společníkům, VI._Tržby_z_prodeje_cenných_papírů_a_podílů, VII._Výnosové_úroky, VII._Výnosy_z_dlouhodobého_finančního_majetku, VIII._Ostatní_finanční_výnosy, Využije-li, Vzniknou-li, X._Mimořádné_výnosy, X._Výnosové_úroky, XI._Ostatní_finanční_výnosy, XIII._Mimořádné_výnosy, Zjistí-li, Změní-li, Záporný_konsolidační_rozdíl, a), a)_a_b), a)_až_f), a)_až_k), a)_bodu_3, a)_§_1_odst._2_písm._a)_až_c), b), b)_a_c), b)_až_f), b)_§_1_odst._2_písm._d)_až_h), bodech_2_až_4, bodu_11, c), d), d)_až_h), daňová_evidence, dojde-li, došlo-li, e), existuje-li, f), g), h), i), j), jde-li, je-li, jiná_konsolidující_účetní_jednotka, jsou-li, k), konsolidovaná_účetní_jednotka, konsolidující_účetní_jednotka, l), liší-li, m), mezinárodní_účetní_standardy, mezitímní_účetní_závěrka, minulé_účetní_období, n), nejde-li, nejedná-li, nejsou-li, nelze-li, nenaplní-li, není-li, neodporuje-li, nerozhodnou-li, nestanoví-li, neurčí-li, nevyžaduje-li, nevznikla-li, nástupnická_účetní_jednotka, o), okamžik_ocenění, p), periodická_inventarizace, použije-li, průběžná_inventarizace, písm._a), písm._a),_b)_a_f), písm._a)_a_b), písm._a)_až_d), písm._a)_až_h), písm._a)_bodu_1, písm._b), písm._b)_a_c), písm._c), písm._c)_až_e)_a_g)_až_j), písm._c)_až_h), písm._k), písm._l), přeměna_společnosti, přestane-li, přestanou-li, převezme-li, připadne-li, q), r), rozhodný_den, rozvahové_účty, s), spřízněná_strana, stanoví-li, t), technicko-ekonomickým, u), v), vyhlášky_č._500/2002_Sb., vyžaduje-li, w), zahrnuje-li, zanikající_účetní_jednotka, zákon_o_přeměnách, zákon_č._593/1992_Sb., zákona_č._111/1990_Sb., zákona_č._117/1994_Sb.,_zákona_č._227/1997_Sb.,_zákona_č._492/2000_Sb.,_zákona_č._353/2001_Sb._a_zákona_č._437/2003_Sb., zákona_č._125/2008_Sb., zákona_č._128/1989_Sb., zákona_č._563/1991_Sb., zúčastněná_účetní_jednotka, §_10_zákona, §_13_odst._1_písm._c)_a_d), §_13a_zákona, §_14_odst._2, §_14a_odst._1_až_3, §_15a_vyhlášky_č._500/2002_Sb., §_16,_26,_31,_55_a_57, §_16_odst._3, §_17_odst._1, §_17_odst._5_zákona, §_18_odst._1, §_18_odst._1_písm._c), §_18_odst._2_zákona, §_18_odst._3, §_18_odst._3_zákona, §_19_odst._1, §_19_odst._3, §_19_odst._5_zákona, §_19_odst._6_zákona, §_19a_odst._1, §_19a_zákona, §_1_odst._2, §_1_odst._2_písm._a), §_1_odst._2_písm._a),_b)_a_d)_až_h), §_1_odst._2_písm._a)_a_b), §_1_odst._2_písm._a)_a_b)_zákona, §_1_odst._2_písm._a)_a_c), §_1_odst._2_písm._a)_až_c), §_1_odst._2_písm._b), §_1_odst._2_písm._b),_d)_až_h), §_1_odst._2_písm._c), §_1_odst._2_písm._d), §_1_odst._2_písm._d),_e), §_1_odst._2_písm._d),_e),_g), §_1_odst._2_písm._d),_g), §_1_odst._2_písm._d)_až_h), §_1_odst._2_písm._d)_až_h)_zákona, §_1_odst._2_písm._e), §_1_odst._2_písm._e),_g), §_1_odst._2_písm._f), §_1_odst._2_písm._g), §_1_odst._2_písm._h), §_20_odst._1, §_20_odst._1_písm._a), §_20_odst._1_písm._a)_až_d), §_20_odst._1_písm._a)_bodu_1, §_20_odst._1_písm._e), §_20_odst._2, §_21_odst._1_až_5, §_21_odst._6, §_21a_zákona, §_22_odst._1, §_22_odst._2, §_22_odst._2_a_3, §_22_odst._3, §_22_odst._3_písm._a), §_22a_odst._1_bodu_1, §_22a_zákona, §_22b_odst._2, §_23_odst._1_až_4_a_§_23a, §_23_odst._2, §_23a_odst._1, §_23a_zákona, §_24_a_25, §_24_odst._2, §_24_odst._2_písm._b), §_24_odst._2_písm._b)_a_§_24_odst._6_písm._b), §_24_odst._3_písm._a)_bodu_1, §_24_odst._3_písm._a)_bodu_1_zákona, §_24_odst._3_písm._a)_bodu_2_zákona, §_24_odst._3_písm._b)_zákona, §_24_odst._4_zákona, §_24_odst._5_zákona, §_25_a_27, §_25_odst._3, §_25_odst._3_zákona, §_25_zákona, §_26_odst._3, §_26_odst._3_zákona, §_26_zákona, §_27_odst._3, §_27_zákona, §_28_odst._6_zákona, §_28_zákona, §_29_a_30, §_2_odst._2,_§_39_odst._10,_§_62_odst._4_a_§_68, §_2_odst._2_věty_druhé_a_§_62_až_67_vyhlášky_č._500/2002_Sb., §_31,_32_a_§_33_odst._3_a_7, §_31_odst._1, §_31_odst._2, §_32_odst._1, §_33_odst._3, §_33_odst._5, §_33_odst._7, §_33a_odst._4, §_36_odst._1, §_37_odst._2, §_37_odst._2_a_§_37a_odst._3, §_37a_odst._1_písm._k), §_37a_odst._3, §_39_odst._1_až_10, §_39_odst._7_a_13_vyhlášky_č._500/2002_Sb., §_39_odst._8, §_3_odst._1_a_§_7_odst._1_a_2, §_3_odst._2_a_3, §_3_odst._3_zákona, §_40,_41_a_43, §_4_a_56, §_4_odst._1, §_4_odst._10, §_4_odst._12, §_4_odst._12_zákona, §_4_odst._2,_§_14_a_§_35_odst._3_zákona_č._21/1971_Sb., §_4_odst._2_až_6, §_4_odst._2_až_7, §_4_odst._8, §_4_odst._8,_§_23b_odst._5,_§_24_odst._5,_§_29_odst._4_a_§_30_odst._5, §_4_odst._8_a_§_23b_odst._534, §_4_odst._9, §_51_až_55, §_52_a_53, §_52_odst._3, §_52_odst._3_a_4, §_54_odst._6, §_56_odst._2_písm._d)_a_odst._4, §_58,_60_a_69, §_59_odst._4, §_59_odst._6, §_61b_odst._2_až_4, §_62_odst._2_až_5, §_62_odst._6_a_§_22a_odst._3_zákona, §_62_odst._8, §_63_odst._1, §_63_odst._4, §_6_odst._3_písm._d), §_6_odst._3_písm._d)_a_§_7_odst._10_vyhlášky_č._500/2002_Sb., §_6_odst._4, §_6_odst._8, §_7_odst._1, §_7_odst._11, §_7_odst._1_a_2, §_7_odst._2_písm._a), §_7_odst._2_písm._d), §_7_odst._3_až_5, §_7_odst._3_až_5_a_§_19_odst._5, §_7_odst._3_písm._b), §_7_odst._4, §_7_odst._5_zákona, §_8_odst._2, §_8_odst._5, §_9_odst._5, účetní_jednotka_pod_společným_vlivem, účetní_jednotka_přidružená, účetní_jednotka_rozdělovaná_odštěpením, účetní_jednotky, účetní_období, účetní_případy, účetní_zápisy, č._1, č._1,_č._2_a_č._3, č._136/1989_Sb., č._155/1971_Sb., č._2, č._21/1990_Sb., č._23/1990_Sb., č._2_a_č._3, č._3, č._349/2007_Sb._Čl._II, č._397/2005_Sb._Čl._II, č._4, č._413/2011_Sb._Čl._II, č._419/2010_Sb._Čl._II, č._469/2008_Sb._Čl._II, č._472/2003_Sb._Čl._II, č._500/2002_Sb., č._501/2002_Sb., čl._I_bodu_4, čl._I_bodů_18_až_23, čl._I_bodů_1_až_9_a_13_až_15_této_vyhlášky, čl._I_bodů_2,_9,_11_a_12, čl._I_bodů_22,_23_a_45, čl._I_bodů_3_a_8_vyhlášky_č._500/2002_Sb., čl._I_bodů_5_a_6</li>
+<li>This corpus contains 281 multi-word tokens. On average, one multi-word token consists of 2.94 syntactic words.</li>
+<li>There are 179 types of multi-word tokens: "*", "****_Výsledek_hospodaření_před_zdaněním", "***Výsledek_hospodaření_za_účetní_období", "***_Výsledek_hospodaření_za_účetní_období", "**_Výsledek_hospodaření_za_běžnou_činnost", "*_Finanční_výsledek_hospodaření", "*_Mimořádný_výsledek_hospodaření", "*_Provozní_výsledek_hospodaření", "+", "+_Obchodní_marže", "+_Přidaná_hodnota", "A", "A.I.1._Základní_kapitál", "A.I.3._Změny_základního_kapitálu", "A.II.4._Oceňovací_rozdíly_z_přecenění_při_přeměnách_společností", "A.II.5._Rozdíly_z_přeměn_společností", "A.II.6._Rozdíly_z_ocenění_při_přeměnách_společností", "A.III._Rezervní_fondy,_nedělitelný_fond_a_ostatní_fondy_ze_zisku", "A.IV.3._Jiný_výsledek_hospodaření_minulých_let", "A._Náklady_prodeje", "A._Náklady_vynaložené_na_prodané_zboží", "A._Pohledávky_za_upsaný_základní_kapitál", "A._V._Výsledek_hospodaření_běžného_účetního_období", "A._Vlastní_kapitál", "AKTIVA_CELKEM", "B.2._Služby", "B.I.1._Zřizovací_výdaje", "B.I.2._Rezerva_na_důchody_a_podobné_závazky", "B.I.3._Rezerva_na_daň_z_příjmů", "B.I.4._Ostatní_rezervy", "B.I.5._Goodwill", "B.I.6._Jiný_dlouhodobý_nehmotný_majetek", "B.I.7._Nedokončený_dlouhodobý_nehmotný_majetek", "B.I.8._Poskytnuté_zálohy_na_dlouhodobý_nehmotný_majetek", "B.I._Dlouhodobý_nehmotný_majetek", "B.I._Rezervy", "B.II.1._Pozemky", "B.II.1._Závazky_z_obchodních_vztahů", "B.II.2._Stavby", "B.II.2._Závazky_-_ovládaná_nebo_ovládající_osoba", "B.II.3._Samostatné_movité_věci_a_soubory_movitých_věcí", "B.II.3._Závazky_-_podstatný_vliv", "B.II.4._Pěstitelské_celky_trvalých_porostů", "B.II.4._Závazky_ke_společníkům,_členům_družstva_a_k_účastníkům_sdružení", "B.II.5._Dospělá_zvířata_a_jejich_skupiny", "B.II.5._Základní_stádo_a_tažná_zvířata", "B.II.6._Jiný_dlouhodobý_hmotný_majetek", "B.II.6._Vydané_dluhopisy", "B.II.7._Nedokončený_dlouhodobý_hmotný_majetek", "B.II.8._Dohadné_účty_pasivní", "B.II.8._Poskytnuté_zálohy_na_dlouhodobý_hmotný_majetek", "B.II.9._Jiné_závazky", "B.II.9._Oceňovací_rozdíl_k_nabytému_majetku", "B.II._Dlouhodobé_závazky", "B.II._Dlouhodobý_hmotný_majetek", "B.III.1._Závazky_z_obchodních_vztahů", "B.III.10._Dohadné_účty_pasivní", "B.III.3._Ostatní_dlouhodobé_cenné_papíry_a_podíly", "B.III.3._Závazky_-_podstatný_vliv", "B.III.4._Půjčky_a_úvěry_-_ovládaná_nebo_ovládající_osoba,_podstatný_vliv", "B.III.4._Závazky_ke_společníkům,_členům_družstva_a_k_účastníkům_sdružení", "B.III.5._Jiný_dlouhodobý_finanční_majetek", "B.III.5._Závazky_k_zaměstnancům", "B.III.6._Závazky_ze_sociálního_zabezpečení_a_zdravotního_pojištění", "B.III.7._Poskytnuté_zálohy_na_dlouhodobý_finanční_majetek", "B.III.9._Vydané_dluhopisy", "B.III._Krátkodobé_závazky", "B.IV.2._Krátkodobé_bankovní_úvěry", "B._Odbytové_náklady", "B._Výkonová_spotřeba", "C.I.1._Materiál", "C.I.1._Výdaje_příštích_období", "C.I.2._Nedokončená_výroba_a_polotovary", "C.I.2._Výnosy_příštích_období", "C.I.3._Výrobky", "C.I.4._Mladá_a_ostatní_zvířata_a_jejich_skupiny", "C.I.4._Zvířata", "C.I.5._Zboží", "C.I.6._Poskytnuté_zálohy_na_zásoby", "C.I._Zásoby", "C.I._Časové_rozlišení", "C.II.1._Pohledávky_z_obchodních_vztahů", "C.II.2._Pohledávky_-_ovládaná_nebo_ovládající_osoba", "C.II.3._Pohledávky_-_podstatný_vliv", "C.II.4._Pohledávky_za_společníky,_členy_družstva_a_za_účastníky_sdružení", "C.II.5._Dlouhodobé_poskytnuté_zálohy", "C.II.6._Dohadné_účty_aktivní", "C.II.7._Jiné_pohledávky", "C.II._Dlouhodobé_pohledávky", "C.III.1._Pohledávky_z_obchodních_vztahů", "C.III.2._Pohledávky_-_ovládaná_nebo_ovládající_osoba", "C.III.3._Pohledávky_-_podstatný_vliv", "C.III.4._Pohledávky_za_společníky,_členy_družstva_a_za_účastníky_sdružení", "C.III.6._Stát_-_daňové_pohledávky", "C.III.7._Krátkodobé_poskytnuté_zálohy", "C.III.8._Dohadné_účty_aktivní", "C.III.9._Jiné_pohledávky", "C.III._Krátkodobé_pohledávky", "C.IV.1._Peníze", "C.IV.2._Účty_v_bankách", "C.IV.3._Krátkodobé_cenné_papíry_a_podíly", "C._Osobní_náklady", "C._Správní_režie", "D.I.1._Náklady_příštích_období", "D.I.2._Komplexní_náklady_příštích_období", "D.I.3._Příjmy_příštích_období", "D.I._Časové_rozlišení", "D._Daně_a_poplatky", "D._Jiné_provozní_náklady", "F._Náklady_z_finančního_majetku", "G._Změna_stavu_rezerv_a_opravných_položek_v_provozní_oblasti_a_komplexních_nákladů_příštích_období", "H._Ostatní_provozní_náklady", "H._Změna_stavu_rezerv_a_opravných_položek_ve_finanční_oblasti", "I._Nákladové_úroky", "I._Převod_provozních_nákladů", "I._Tržby_z_prodeje_výrobků,_zboží_a_služeb", "I._Tržby_za_prodej_zboží", "II._Výkony", "III._Tržby_z_prodeje_cenných_papírů_a_podílů", "IV._Ostatní_provozní_výnosy", "IV._Výnosy_z_dlouhodobého_finančního_majetku", "J._Ostatní_finanční_náklady", "K._Náklady_z_finančního_majetku", "K._Převod_finančních_nákladů", "Kladný_konsolidační_rozdíl", "L._Daň_z_příjmů_za_běžnou_činnost", "M._Mimořádné_náklady", "M._Změna_stavu_rezerv_a_opravných_položek_ve_finanční_oblasti", "N._Daň_z_příjmů_z_mimořádné_činnosti", "N._Nákladové_úroky", "O._Ostatní_finanční_náklady", "O._Převod_podílu_na_výsledku_hospodaření_společníkům", "P._Převod_finančních_nákladů", "PASIVA_CELKEM", "Q._Daň_z_příjmů_za_běžnou_činnost", "R._Mimořádné_náklady", "S._Daň_z_příjmů_z_mimořádné_činnosti", "T._Převod_podílu_na_výsledku_hospodaření_společníkům", "V", "VI._Tržby_z_prodeje_cenných_papírů_a_podílů", "VII._Výnosové_úroky", "VII._Výnosy_z_dlouhodobého_finančního_majetku", "VIII._Ostatní_finanční_výnosy", "X._Mimořádné_výnosy", "X._Výnosové_úroky", "XI._Ostatní_finanční_výnosy", "XIII._Mimořádné_výnosy", "Záporný_konsolidační_rozdíl", "daňová_evidence", "jiná_konsolidující_účetní_jednotka", "konsolidovaná_účetní_jednotka", "konsolidující_účetní_jednotka", "ložisko", "mezinárodní_účetní_standardy", "mezitímní_účetní_závěrka", "ministerstvo", "minulé_účetní_období", "nástupnická_účetní_jednotka", "okamžik_ocenění", "periodická_inventarizace", "průběžná_inventarizace", "přeměna_společnosti", "rozhodný_den", "rozvahové_účty", "společnost", "spřízněná_strana", "standardy", "uživatel", "zanikající_účetní_jednotka", "zákon_o_přeměnách", "zúčastněná_účetní_jednotka", "účetní_jednotka_pod_společným_vlivem", "účetní_jednotka_přidružená", "účetní_jednotka_rozdělovaná_odštěpením", "účetní_jednotky", "účetní_období", "účetní_případy", "účetní_zápisy", aby.</li>
 </ul>
 
   </td>
@@ -237,9 +237,9 @@ udver: '2'
   </li>
   <li>Part
   <ul>
-    <li>ADJ: konsolidující, zanikající, následujícího, související, předcházejícímu, týkající, přejímající, předcházející, souvisejících, řídících</li>
+    <li>ADJ: konsolidující, zanikající, stanoveno, následujícího, související, předcházejícímu, týkající, přejímající, sestavena, zahrnuty</li>
     <li>AUX: byly, byl, bylo, nebyly, byla, nebyla, nebyl</li>
-    <li>VERB: stanoveno, došlo, sestavena, zahrnuty, obchodovány, přestaly, uvedeny, zavedena, nabyla, oprávněn</li>
+    <li>VERB: došlo, přestaly, nabyla, určila, nastaly, staly, překročila, sestavila, stanovila, trvalo</li>
   </ul>
   </li>
 </ul>
@@ -355,11 +355,11 @@ udver: '2'
     </li>
     <li>Masc
       <ul>
-        <li>ADJ: další, první, každý, nový, český, českého, dalších, celý, nového, druhý</li>
+        <li>ADJ: další, první, nový, český, českého, dalších, celý, nového, druhý, velký</li>
         <li>ADJ-Part: přesvědčen, připraven, vedoucí, rozhodující, zvolen, odsouzen, kupující, obviněn, považován, vynikající</li>
         <li>AUX-Conv: jsa</li>
         <li>AUX-Part: byl, byli, nebyl, nebyli, býval, bývali, nemohl, stal, stali</li>
-        <li>DET: který, kteří, které, tento, ten, svůj, své, všechny, sám, všichni</li>
+        <li>DET: který, kteří, které, tento, ten, svůj, každý, své, všechny, sám</li>
         <li>NOUN: roku, roce, případě, zákona, lidí, rok, ministr, světa, předseda, trhu</li>
         <li>NUM: dva, jeden, oba, jednoho</li>
         <li>PRON: kdo, nikdo, někdo, on, jenž, oni, koho, komu, někoho, nikoho</li>
@@ -430,10 +430,10 @@ udver: '2'
     </li>
     <li>Masc
       <ul>
-        <li>ADJ: každý, další, jednotlivých, první, základní, pracovní, dalších, velký, celý, pracujících</li>
+        <li>ADJ: další, jednotlivých, první, základní, pracovní, dalších, velký, celý, pracujících, nové</li>
         <li>ADJ-Part: pracujících, pracující, rozhodující, vedoucí, dán, splněn, schválen, určen, pracujícího, uveden</li>
         <li>AUX-Part: byl, byli, nebyl, býval, nebyli, měl, Mohl</li>
-        <li>DET: který, které, kteří, tento, tyto, sám, některé, svůj, ten, ty</li>
+        <li>DET: který, které, kteří, tento, každý, tyto, sám, některé, svůj, ten</li>
         <li>NOUN: roce, roku, pracovníků, úkolů, výsledky, jazyka, procesu, lidí, člověka, úkoly</li>
         <li>NUM: jeden, dva, oba, jednoho</li>
         <li>PRON: všechny, všichni, kdo, někdo, nikdo, jeho, jenž, on, oni, veškeré</li>
@@ -454,7 +454,7 @@ udver: '2'
         <li>ADJ: možno, možné, nutno, nutné, národního, další, posledních, jiné, řečeno, vědeckého</li>
         <li>ADJ-Part: řečeno, dosaženo, uvedeno, použito, spojeno, určeno, dodáno, provedeno, stanoveno, rozhodující</li>
         <li>AUX-Part: bylo, nebylo, bývalo</li>
-        <li>DET: to, které, toto, která, své, tato, takové, některá, její, totéž</li>
+        <li>DET: to, které, toto, která, své, tato, každé, takové, některá, její</li>
         <li>NOUN: let, hlediska, období, prostředí, zařízení, řešení, plnění, množství, poznání, století</li>
         <li>NUM: jedno</li>
         <li>PRON: všechno, vše, je, všechna, jež, ně, co, ono, veškeré, všecko</li>
@@ -474,61 +474,60 @@ udver: '2'
     <li>Fem
       <ul>
         <li>ADJ: účetní, účetních, konsolidované, konsolidující, výroční, reálnou, finanční, pořizovací, českou, uvedené</li>
-        <li>ADJ-Part: konsolidující, zanikající, týkající, odpovídající, doplňujících, předcházející, související, týkajících, vztahující, obsahující</li>
-        <li>DET: této, tato, tyto, tuto, její, své, touto, takové, Takovouto, svoji</li>
+        <li>ADJ-Part: konsolidující, zanikající, týkající, odpovídající, doplňujících, ověřenu, předcházející, související, týkajících, vztahující</li>
+        <li>DET: které, této, která, tato, tyto, kterou, tuto, její, své, všechny</li>
         <li>NOUN: jednotky, jednotka, položka, závěrky, jednotek, společnosti, položek, informace, položky, závěrku</li>
         <li>NUM: jedné, jednou, jednu</li>
-        <li>PRON: které, která, kterou, jí, všechny, ji, ní, níž, sama, ty</li>
-        <li>VERB-Part: ověřenu</li>
+        <li>PRON: jí, ji, ní, níž, veškeré, jež, niž</li>
       </ul>
     </li>
     <li>Fem,Masc
       <ul>
-        <li>ADJ: povinny, známy, rovny, schopny</li>
+        <li>ADJ: povinny, zahrnuty, obchodovány, uvedeny, vykázány, účtovány, uzavřeny, vyjádřeny, známy, ověřeny</li>
+        <li>ADJ-Part: zahrnuty, obchodovány, uvedeny, vykázány, účtovány, uzavřeny, vyjádřeny, ověřeny, použity, zaúčtovány</li>
         <li>AUX-Part: byly, nebyly</li>
-        <li>VERB-Part: zahrnuty, obchodovány, přestaly, uvedeny, vykázány, účtovány, nastaly, staly, uzavřeny, vyjádřeny</li>
+        <li>VERB-Part: přestaly, nastaly, staly, dosáhly, existovaly, překročily, rozhodly, navazovaly, neprošly, nepřevýšily</li>
       </ul>
     </li>
     <li>Fem,Neut
       <ul>
-        <li>ADJ: povinna, známa, schopna</li>
+        <li>ADJ: povinna, sestavena, zavedena, uvedena, známa, dotčena, oprávněna, schopna, vyhlášena, vykazována</li>
+        <li>ADJ-Part: sestavena, zavedena, uvedena, dotčena, oprávněna, vyhlášena, vykazována, zahrnuta, aktivována, odepsána</li>
         <li>AUX-Part: byla, nebyla</li>
         <li>NUM: dvě, obě</li>
-        <li>VERB-Part: sestavena, zavedena, nabyla, určila, uvedena, dotčena, oprávněna, překročila, sestavila, stanovila</li>
+        <li>VERB-Part: nabyla, určila, překročila, sestavila, stanovila, podávala, provedla, dospěla, mohla, měla</li>
       </ul>
     </li>
     <li>Masc
       <ul>
         <li>ADJ: účetní, účetních, účetního, obchodního, právních, peněžních, právní, zvláštního, právního, zvláštních</li>
-        <li>ADJ-Part: související, přejímající, předcházejícímu, řídících, následujícímu, konsolidující, souvisejících, upravujícího, následujícího, přejímajícího</li>
-        <li>AUX: byl, nebyl, byty</li>
+        <li>ADJ-Part: související, přejímající, předcházejícímu, řídících, následujícímu, konsolidující, oprávněn, souvisejících, upravujícího, následujícího</li>
         <li>AUX-Part: byl, nebyl</li>
-        <li>DET: tento, tyto, svůj, takový, její, takové, některé, své, takovýto, žádný</li>
+        <li>DET: které, který, tento, tyto, všechny, každého, každý, svůj, takový, její</li>
         <li>NOUN: majetku, dni, závazků, odstavce, dne, majetek, případě, náklady, závazky, zisku</li>
         <li>NUM: jeden, dva</li>
-        <li>PRON: které, který, všechny, jenž, veškeré, ty, kterýkoli, některý</li>
+        <li>PRON: jenž, veškeré</li>
         <li>VERB-Conv: počínaje</li>
-        <li>VERB-Part: oprávněn, oceněn, připojen, podepsán, pořízen, prokázán, uskutečněn, organizován, přijat, spáchán</li>
+        <li>VERB-Part: Dal, dozvěděl, mohl, nepožádali, nezahájil, přesáhl, rovnal, schválili, stal, stanovil</li>
       </ul>
     </li>
     <li>Masc,Neut
       <ul>
-        <li>DET: tohoto, tomto, tímto, jejího, jejím, svého, takovému, její, jejímž, svým</li>
+        <li>DET: tohoto, kterém, kterému, tomto, kterým, tímto, kterého, jejího, tím, jejím</li>
         <li>NUM: jednoho, jednom, jednomu, jedním</li>
-        <li>PRON: kterém, kterému, kterým, němž, jej, němuž, kterého, tím, toho, jehož</li>
+        <li>PRON: němž, jej, němuž, jehož, nějž, něj, veškerého, ho, jemu, jímž</li>
       </ul>
     </li>
     <li>Neut
       <ul>
-        <li>ADJ: účetního, účetní, účetním, obsahové, jiných, technické, účetních, minulé, účinném, následujícího</li>
-        <li>ADJ-Part: následujícího, předcházejícímu, předcházejícího, následujícím, týkající, počínajících, předcházející, vztahující, následujících, počínající</li>
-        <li>AUX: bylo, Je-li, Není-li, Jsou-li, Nejsou-li</li>
+        <li>ADJ: účetního, účetní, účetním, obsahové, jiných, stanoveno, technické, účetních, minulé, účinném</li>
+        <li>ADJ-Part: stanoveno, následujícího, předcházejícímu, předcházejícího, následujícím, týkající, počínajících, předcházející, vztahující, účtováno</li>
         <li>AUX-Part: bylo</li>
-        <li>DET: toto, její, některá, takovéto</li>
+        <li>DET: to, které, která, toto, všechna, její, některá, každé, samo, takové</li>
         <li>NOUN: období, ocenění, účetnictví, ustanovení, vymezení, sestavení, účtování, uspořádání, použití, hospodaření</li>
         <li>NUM: jedno</li>
-        <li>PRON: to, které, která, všechna, samo, takové, veškeré</li>
-        <li>VERB-Part: stanoveno, došlo, trvalo, započalo, účtováno, dodrženo, dosaženo, dotčeno, mohlo, nezměněno</li>
+        <li>PRON: veškeré</li>
+        <li>VERB-Part: došlo, trvalo, započalo, mohlo, přešlo, uzavřelo</li>
       </ul>
     </li>
   </ul>
@@ -669,10 +668,10 @@ udver: '2'
   <ul>
     <li>Anim
       <ul>
-        <li>ADJ: každý, další, bývalý, mnozí, domácí, první, generální, český, americký, českých</li>
+        <li>ADJ: další, bývalý, mnozí, domácí, první, generální, český, americký, českých, dalších</li>
         <li>ADJ-Part: kupující, vedoucí, přesvědčeni, žijící, připraveni, cestujících, nuceni, vynikající, prodávající, prodávajícího</li>
         <li>AUX-Part: byli, nebyli, bývali, stali</li>
-        <li>DET: kteří, všichni, ti, někteří, sami, naši, svého, kterého, ty, tito</li>
+        <li>DET: kteří, všichni, každý, ti, někteří, sami, naši, svého, každého, kterého</li>
         <li>NOUN: lidí, ministr, předseda, lidé, ředitel, prezident, trenér, ministra, prezidenta, premiér</li>
         <li>NUM: jednoho</li>
         <li>PRON: kdo, nikdo, někdo, oni, koho, komu, někoho, nikoho, nikomu, někomu</li>
@@ -682,10 +681,10 @@ udver: '2'
     </li>
     <li>Inan
       <ul>
-        <li>ADJ: další, první, nový, českého, celý, český, každý, velký, letošního, státního</li>
+        <li>ADJ: další, první, nový, českého, celý, český, velký, letošního, státního, minulý</li>
         <li>ADJ-Part: rozhodující, následující, uvedeny, připraveny, určeny, ležící, následujícím, rozhodujícím, uzavřeny, nalezeny</li>
         <li>AUX-Part: byly, nebyly, bývaly, bývávaly</li>
-        <li>DET: které, svůj, který, tento, tyto, ty, některé, ten, všechny, takové</li>
+        <li>DET: které, svůj, který, tento, tyto, každý, ty, některé, ten, všechny</li>
         <li>NOUN: roku, roce, případě, zákona, rok, světa, trhu, zákon, zájem, státu</li>
         <li>NUM: jeden</li>
         <li>PRON: co, čím, čem, čeho, jež, čemu, veškeré, veškerý, ony, WAS</li>
@@ -702,10 +701,10 @@ udver: '2'
   <ul>
     <li>Anim
       <ul>
-        <li>ADJ: každý, pracujících, mladých, každého, pracující, mladí, další, rádi, mnozí, ostatní</li>
+        <li>ADJ: pracujících, mladých, pracující, mladí, další, rádi, mnozí, ostatní, mladý, vedoucí</li>
         <li>ADJ-Part: pracujících, pracující, vedoucí, vedoucích, pracujícím, připraveni, nuceni, pracujícími, zabezpečeni, cestující</li>
         <li>AUX-Part: byli, nebyli</li>
-        <li>DET: kteří, sami, ti, někteří, naši, svého, tito, ty, takoví, kterého</li>
+        <li>DET: kteří, každý, sami, každého, ti, někteří, naši, svého, každému, tito</li>
         <li>NOUN: pracovníků, lidí, člověka, člověk, lidé, pracovník, členů, vedoucí, ředitel, pracovníci</li>
         <li>NUM: jednoho</li>
         <li>PRON: všichni, kdo, někdo, nikdo, oni, někomu, nikoho, jehož, kdož, koho</li>
@@ -715,10 +714,10 @@ udver: '2'
     </li>
     <li>Inan
       <ul>
-        <li>ADJ: jednotlivých, další, základní, pracovní, celý, první, velký, každý, nové, nový</li>
+        <li>ADJ: jednotlivých, další, základní, pracovní, celý, první, velký, nové, nový, dalších</li>
         <li>ADJ-Part: rozhodující, uvedeny, určeny, splněny, provedeny, spojeny, stanoveny, připraveny, pracujícího, vytvořeny</li>
         <li>AUX-Part: byly, nebyly, bývaly, mohly</li>
-        <li>DET: které, tyto, který, tento, svůj, některé, ty, její, takové, jaký</li>
+        <li>DET: které, tyto, který, tento, svůj, každý, některé, ty, každém, její</li>
         <li>NOUN: roce, roku, úkolů, výsledky, jazyka, procesu, úkoly, podniku, života, základě</li>
         <li>NUM: jeden</li>
         <li>PRON: co, všechny, čím, čem, čeho, copak, veškeré, čemu, samý, veškerý</li>
@@ -737,22 +736,21 @@ udver: '2'
       <ul>
         <li>ADJ: přejímající, následujícímu, předcházejícímu, řídících, konsolidující, prvním, přejímajícího, přejímajícím, vysvětlujících, držených</li>
         <li>ADJ-Part: přejímající, následujícímu, předcházejícímu, řídících, konsolidující, přejímajícího, přejímajícím, vysvětlujících, souvisejících, držící</li>
+        <li>DET: ty, každý</li>
         <li>NOUN: auditorem, členům, společník, společníka, zaměstnanců, účastníky, společníkům, emitentem, společníkem, společníky</li>
-        <li>PRON: ty</li>
         <li>VERB-Part: nepožádali, schválili</li>
       </ul>
     </li>
     <li>Inan
       <ul>
         <li>ADJ: účetní, účetních, povinny, účetního, obchodního, právních, peněžních, právní, zvláštního, právního</li>
-        <li>ADJ-Part: související, upravujícího, následujícího, jdoucích, plynoucí, souvisejících, jednající, rozhodující, vyskytujících, zaručujícím</li>
-        <li>AUX: byly, nebyly, byty</li>
+        <li>ADJ-Part: související, zahrnuty, obchodovány, uvedeny, upravujícího, vykázány, účtovány, následujícího, uzavřeny, vyjádřeny</li>
         <li>AUX-Part: byly, nebyly</li>
-        <li>DET: tyto, tento, svůj, takový, její, takové, některé, takovýto</li>
+        <li>DET: které, tyto, který, tento, každého, svůj, takový, její, každý, takové</li>
         <li>NOUN: majetku, dni, závazků, odstavce, dne, majetek, případě, náklady, závazky, zisku</li>
         <li>NUM: jeden</li>
-        <li>PRON: které, který, veškeré, všechny</li>
-        <li>VERB-Part: zahrnuty, obchodovány, přestaly, uvedeny, vykázány, účtovány, nastaly, staly, uzavřeny, vyjádřeny</li>
+        <li>PRON: veškeré</li>
+        <li>VERB-Part: přestaly, nastaly, staly, dosáhly, existovaly, překročily, rozhodly, navazovaly, neprošly, nepřevýšily</li>
       </ul>
     </li>
   </ul>
@@ -866,7 +864,7 @@ udver: '2'
     </li>
     <li>Sing
       <ul>
-        <li>ADJ: první, české, další, druhé, poslední, státní, každý, možné, třeba, česká</li>
+        <li>ADJ: první, české, další, druhé, poslední, státní, možné, třeba, česká, vlastní</li>
         <li>ADJ-Part: řečeno, rozhodující, vedoucí, přesvědčen, připraven, následující, rozhodnuto, zvolen, uvedeno, vynikající</li>
         <li>AUX-Conv: jsa, jsouc</li>
         <li>AUX-Fin: je, bude, jsem, není, bych, nebude, bývá, budu, nejsem, buď</li>
@@ -923,7 +921,7 @@ udver: '2'
     </li>
     <li>Sing
       <ul>
-        <li>ADJ: pracovní, první, možno, další, každý, socialistické, druhé, základní, vlastní, národního</li>
+        <li>ADJ: pracovní, první, možno, další, socialistické, druhé, základní, vlastní, národního, větší</li>
         <li>ADJ-Part: rozhodující, řečeno, dosaženo, vedoucí, odpovídající, řídící, pracující, uvedeno, dán, splněn</li>
         <li>AUX-Conv: jsouc</li>
         <li>AUX-Fin: je, bude, není, jsem, bych, bývá, nebude, budu, jsi, buď</li>
@@ -948,38 +946,38 @@ udver: '2'
     <li>Plur
       <ul>
         <li>ADJ: účetní, účetních, povinny, jiných, peněžních, uvedených, právních, účetními, ostatní, uvedené</li>
-        <li>ADJ-Part: konsolidující, související, souvisejících, řídících, týkající, doplňujících, týkajících, vysvětlujících, zanikající, jdoucích</li>
-        <li>AUX: jsou, nejsou, byly, budou, nebyly, byty</li>
+        <li>ADJ-Part: konsolidující, související, zahrnuty, obchodovány, souvisejících, uvedeny, řídících, týkající, vykázány, účtovány</li>
         <li>AUX-Fin: jsou, nejsou, budou</li>
         <li>AUX-Part: byly, nebyly</li>
-        <li>DET: těchto, tyto, takové, svých, takových, NĚKTERÝCH, její, některá, takovými, těmito</li>
+        <li>DET: které, těchto, tyto, kterých, všech, která, kterým, všechny, všechna, takové</li>
         <li>NOUN: jednotky, jednotek, závazků, položek, náklady, závazky, nákladů, informace, položky, záznamy</li>
         <li>NUM: tří, dvě, dvanácti, obě, dvou, dvěma, dva, obou, pěti, čtyři</li>
-        <li>PRON: které, kterých, nichž, všech, která, kterým, je, všechny, jim, jimiž</li>
+        <li>PRON: nichž, je, jim, jimiž, nich, veškeré, jimi, nimi, ně, veškerých</li>
         <li>VERB-Fin: mohou, použijí, sestavují, mají, účtují, nastanou, týkají, uvádějí, nepoužijí, považují</li>
-        <li>VERB-Part: zahrnuty, obchodovány, přestaly, uvedeny, vykázány, účtovány, nastaly, staly, uzavřeny, vyjádřeny</li>
+        <li>VERB-Part: přestaly, nastaly, staly, dosáhly, existovaly, překročily, rozhodly, navazovaly, nepožádali, neprošly</li>
       </ul>
     </li>
     <li>Plur,Sing
       <ul>
-        <li>ADJ: povinna, známa, schopna</li>
+        <li>ADJ: povinna, sestavena, zavedena, uvedena, známa, dotčena, oprávněna, schopna, vyhlášena, vykazována</li>
+        <li>ADJ-Part: sestavena, zavedena, uvedena, dotčena, oprávněna, vyhlášena, vykazována, zahrnuta, aktivována, odepsána</li>
         <li>AUX-Part: byla, nebyla</li>
-        <li>VERB-Part: sestavena, zavedena, nabyla, určila, uvedena, dotčena, oprávněna, překročila, sestavila, stanovila</li>
+        <li>VERB-Part: nabyla, určila, překročila, sestavila, stanovila, podávala, provedla, dospěla, mohla, měla</li>
       </ul>
     </li>
     <li>Sing
       <ul>
         <li>ADJ: účetní, účetního, konsolidované, finanční, konsolidující, výroční, účetním, právní, reálnou, obchodního</li>
-        <li>ADJ-Part: konsolidující, zanikající, následujícího, předcházejícímu, přejímající, následujícímu, vztahující, odpovídající, předcházejícího, týkající</li>
+        <li>ADJ-Part: konsolidující, stanoveno, zanikající, následujícího, předcházejícímu, přejímající, následujícímu, vztahující, odpovídající, oprávněn</li>
         <li>AUX-Fin: je, není, bude</li>
         <li>AUX-Part: byl, bylo, nebyl</li>
-        <li>DET: této, tohoto, tato, tento, tomto, její, tuto, toto, tímto, své</li>
+        <li>DET: této, která, tohoto, který, to, které, tato, tento, kterém, kterému</li>
         <li>NOUN: jednotka, majetku, období, ocenění, účetnictví, položka, dni, závěrky, jednotky, společnosti</li>
         <li>NUM: jeden, jedné, dvanáct, jedno, jednoho, jednou, pět, deset, jednom, jednomu</li>
-        <li>PRON: která, který, to, které, kterém, kterému, kterou, kterým, němž, jej</li>
+        <li>PRON: němž, jej, němuž, jí, jehož, ji, ní, níž, nějž, jenž</li>
         <li>VERB-Conv: počínaje</li>
         <li>VERB-Fin: obsahuje, rozumí, může, uvede, stanoví, účtuje, lze, musí, má, použije</li>
-        <li>VERB-Part: stanoveno, došlo, oprávněn, oceněn, připojen, ověřenu, podepsán, pořízen, prokázán, trvalo</li>
+        <li>VERB-Part: došlo, trvalo, započalo, Dal, dozvěděl, mohl, mohlo, nezahájil, přesáhl, přešlo</li>
       </ul>
     </li>
   </ul>
@@ -1107,7 +1105,7 @@ udver: '2'
     </li>
     <li>Dat
       <ul>
-        <li>ADJ: české, dalším, českým, každému, dalšímu, jiným, zahraničním, českému, jinému, novému</li>
+        <li>ADJ: české, dalším, českým, dalšímu, jiným, zahraničním, českému, jinému, novému, ostatním</li>
         <li>ADJ-Part: prodávajícímu, vedoucím, vládnoucí, pokračujícímu, blížícímu, neslyšícím, následujícím, pokračující, žijícím, blížící</li>
         <li>ADP: k, proti, ke, vůči, díky, kvůli, oproti, naproti, ku, vstříc</li>
         <li>DET: tomu, tomuto, všem, svým, kterým, svému, těm, této, kterému, své</li>
@@ -1143,7 +1141,7 @@ udver: '2'
     </li>
     <li>Loc
       <ul>
-        <li>ADJ: druhé, české, prvním, současné, posledních, první, poslední, pražském, druhém, každém</li>
+        <li>ADJ: druhé, české, prvním, současné, posledních, první, poslední, pražském, druhém, českém</li>
         <li>ADJ-Part: následujících, následujícím, nadcházejících, předcházejícím, rozhodujících, rozhodující, vedoucí, nadcházejícím, probíhající, rozhodujícím</li>
         <li>ADP: v, na, ve, o, po, při, w, za</li>
         <li>DET: tom, tomto, této, svém, své, těchto, všech, svých, našem, kterém</li>
@@ -1155,10 +1153,10 @@ udver: '2'
     </li>
     <li>Nom
       <ul>
-        <li>ADJ: další, první, možné, česká, každý, český, nový, státní, nová, nové</li>
+        <li>ADJ: další, první, možné, česká, český, nový, státní, nová, nové, hlavní</li>
         <li>ADJ-Part: rozhodující, vedoucí, následující, kupující, vynikající, žijící, ležící, prodávající, zbývající, odpovídající</li>
         <li>ADP: de, versus, ad, kontra, a, v, des, ala, à</li>
-        <li>DET: to, který, které, která, kteří, tato, tento, ten, její, naše</li>
+        <li>DET: to, který, které, která, kteří, tato, tento, ten, každý, její</li>
         <li>NOUN: ministr, vláda, předseda, lidé, společnost, ředitel, prezident, firma, trenér, zákon</li>
         <li>NUM: jeden, dva, tři, jedna, oba, dvě, obě, čtyři, pět, jedno</li>
         <li>PRON: co, kdo, což, nikdo, já, jež, my, někdo, nic, on</li>
@@ -1195,10 +1193,10 @@ udver: '2'
     </li>
     <li>Dat
       <ul>
-        <li>ADJ: dalšímu, jiným, každému, ostatním, národnímu, jednotlivým, různým, socialistickému, Slovenskému, plánovaným</li>
+        <li>ADJ: dalšímu, jiným, ostatním, národnímu, jednotlivým, různým, socialistickému, Slovenskému, plánovaným, určitému</li>
         <li>ADJ-Part: pracujícím, pracujícímu, cestujícím, charakterizujícím, následujícím, následujícímu, předcházejícímu, soutěžícím, vedoucím, zaostávajícím</li>
         <li>ADP: k, ke, proti, naproti, vůči, díky, oproti, kvůli, dík, vstříc</li>
-        <li>DET: tomu, tomuto, této, kterým, těmto, svému, těm, některým, jejímu, kterému</li>
+        <li>DET: tomu, tomuto, této, kterým, těmto, svému, těm, každému, některým, jejímu</li>
         <li>NOUN: pracovníkům, práci, dispozici, výročí, lidem, řešení, dětem, rozvoji, zlepšení, skutečnosti</li>
         <li>NUM: jednomu, oběma, jedné, dvěma, třetině, šestině, jedenácti, osmi, pár, pěti</li>
         <li>PRON: si, nám, jim, mu, mi, vám, všem, nim, jí, sobě</li>
@@ -1231,7 +1229,7 @@ udver: '2'
     </li>
     <li>Loc
       <ul>
-        <li>ADJ: současné, druhé, různých, jednotlivých, dalších, jiných, celé, pracovní, každém, celém</li>
+        <li>ADJ: současné, druhé, různých, jednotlivých, dalších, jiných, celé, pracovní, celém, posledních</li>
         <li>ADJ-Part: následujících, následujícím, krátícím, odpovídajících, rozhodující, nastávajícím, odpovídající, rostoucí, rostoucím, rovnající</li>
         <li>ADP: v, na, ve, o, při, po, in, Pro, a, ex</li>
         <li>DET: tom, tomto, této, našem, své, těchto, svém, některých, svých, naší</li>
@@ -1243,10 +1241,10 @@ udver: '2'
     </li>
     <li>Nom
       <ul>
-        <li>ADJ: další, každý, první, možné, nutné, nové, základní, pracovní, větší, různé</li>
+        <li>ADJ: další, první, možné, nutné, nové, základní, pracovní, větší, různé, ostatní</li>
         <li>ADJ-Part: pracující, rozhodující, vedoucí, následující, odpovídající, řídící, týkající, určující, vycházející, vynikající</li>
         <li>ADP: de, kontra</li>
-        <li>DET: to, které, která, který, kteří, tato, tyto, tento, naše, některé</li>
+        <li>DET: to, které, která, který, kteří, tato, tyto, tento, každý, naše</li>
         <li>NOUN: práce, člověk, lidé, doba, výsledky, pracovník, počet, teorie, organizace, část</li>
         <li>NUM: jeden, dvě, dva, jedna, tři, oba, obě, čtyři, pět, jedno</li>
         <li>PRON: jež, všechny, což, co, všichni, kdo, já, my, všechno, nic</li>
@@ -1271,13 +1269,12 @@ udver: '2'
     <li>Acc
       <ul>
         <li>ADJ: účetní, výroční, českou, konsolidovanou, finanční, konsolidační, minulé, poskytnuté, dlouhodobé, dílčí</li>
-        <li>ADJ-Part: předcházející, konsolidující, týkající, vztahující, plynoucí, související, přejímajícího, nesoucí, následující, odpovídající</li>
+        <li>ADJ-Part: předcházející, konsolidující, týkající, vztahující, ověřenu, plynoucí, související, přejímajícího, nesoucí, následující</li>
         <li>ADP: na, pro, za, o, po, v, ve, mimo, mezi, pod</li>
-        <li>DET: tuto, tyto, její, tento, svůj, takové, takový, Takovouto, svoji, jakou</li>
+        <li>DET: to, které, tuto, kterou, tyto, všechny, který, její, každou, tento</li>
         <li>NOUN: závěrku, závazky, období, účetnictví, informace, položky, účely, ocenění, majetek, dobu</li>
         <li>NUM: jeden, dvanáct, jedno, pět, dva, jednu, obě, čtyři</li>
-        <li>PRON: se, to, které, jej, je, kterou, všechny, který, ji, nějž</li>
-        <li>VERB-Part: ověřenu</li>
+        <li>PRON: se, jej, je, ji, nějž, ně, veškeré, něj, ho, jež</li>
       </ul>
     </li>
     <li>Dat
@@ -1285,10 +1282,10 @@ udver: '2'
         <li>ADJ: rozvahovému, předcházejícímu, rozhodnému, jinému, účetním, účetnímu, nabytému, prvnímu, poslednímu, účetní</li>
         <li>ADJ-Part: předcházejícímu, následujícímu, ovládajícím, uplatňujícím, blížícímu, konsolidující, předcházející, vážícím</li>
         <li>ADP: k, ke, oproti, vůči, proti</li>
-        <li>DET: této, takovému, jejímu, kterým, tomuto, téže, těmto</li>
+        <li>DET: kterému, kterým, této, tomu, takovému, jejímu, které, tomuto, téže, těmto</li>
         <li>NOUN: dni, obchodování, okamžiku, konci, majetku, užívání, osobám, členům, jednotce, jednotkám</li>
         <li>NUM: jednomu</li>
-        <li>PRON: kterému, kterým, němuž, jim, jí, tomu, jemu, které, nim, nimž</li>
+        <li>PRON: němuž, jim, jí, jemu, nim, nimž, ní, si, sobě</li>
       </ul>
     </li>
     <li>Gen
@@ -1296,10 +1293,10 @@ udver: '2'
         <li>ADJ: účetní, účetních, účetního, konsolidované, jiných, obchodního, právních, zvláštního, dlouhodobého, právního</li>
         <li>ADJ-Part: následujícího, konsolidující, zanikající, řídících, souvisejících, předcházejícího, upravujícího, doplňujících, vysvětlujících, odpovídající</li>
         <li>ADP: podle, do, z, u, od, včetně, ze, bez, za, ode</li>
-        <li>DET: tohoto, této, těchto, jejího, své, svého, svých, takových, NĚKTERÝCH, jakékoli</li>
+        <li>DET: tohoto, této, těchto, všech, kterých, kterého, jejího, které, toho, své</li>
         <li>NOUN: majetku, závěrky, jednotky, období, jednotek, závazků, společnosti, položek, dne, odstavce</li>
         <li>NUM: jedné, tří, dvanácti, jednoho, dvou, obou, pěti</li>
-        <li>PRON: všech, kterých, nichž, kterého, které, toho, jehož, nich, ní, veškerého</li>
+        <li>PRON: nichž, jehož, nich, ní, veškerého, veškerých</li>
       </ul>
     </li>
     <li>Ins
@@ -1307,10 +1304,10 @@ udver: '2'
         <li>ADJ: účetní, reálnou, účetními, pořizovací, podstatným, společným, právními, účetním, právnickou, vlastní</li>
         <li>ADJ-Part: konsolidující, přejímajícím, ovládající, zaručujícím, jednajícími, nespadajícím, odpovídajícím, odpovídajícími, ovládajícími, plynoucími</li>
         <li>ADP: s, mezi, se, pod, před, za, nad, přede</li>
-        <li>DET: tímto, touto, jejím, jejímž, svým, takovým, takovými, těmito, jejími, několika</li>
+        <li>DET: kterým, tímto, tím, touto, kterou, kterými, jejím, jejímž, několika, svým</li>
         <li>NOUN: jednotkou, hodnotou, výjimkou, způsobem, dnem, vlivem, auditorem, cenou, součástí, osobou</li>
         <li>NUM: jednou, dvěma, jedním</li>
-        <li>PRON: kterým, tím, jimiž, jimi, kterou, kterými, nimi, tímto, sebou, veškerými</li>
+        <li>PRON: jimiž, jimi, nimi, sebou, veškerými, jí, jímž, ním, nímž</li>
       </ul>
     </li>
     <li>Loc
@@ -1318,21 +1315,20 @@ udver: '2'
         <li>ADJ: účetní, účetních, účetním, peněžních, zjednodušeném, technické, vlastním, regulovaném, účtové, konsolidované</li>
         <li>ADJ-Part: následujícím, jdoucích, konsolidující, obsahující, vztahující, následujících, obsahujících, předcházejícím, souvisejících, týkajících</li>
         <li>ADP: v, o, ve, na, při, po</li>
-        <li>DET: tomto, těchto, této, jejím, své, takové</li>
+        <li>DET: kterém, tomto, kterých, které, těchto, této, jejím, tom, jakém, své</li>
         <li>NOUN: případě, období, případech, příloze, závěrce, rozsahu, formě, přeměně, účetnictví, ocenění</li>
         <li>NUM: jednom</li>
-        <li>PRON: kterém, němž, kterých, které, nichž, níž, sobě, tom, jakém, nich</li>
+        <li>PRON: němž, nichž, níž, sobě, nich, ní, veškerých</li>
       </ul>
     </li>
     <li>Nom
       <ul>
         <li>ADJ: účetní, konsolidující, ostatní, právní, obsahové, uvedené, konsolidovaná, zvláštní, cenné, dlouhodobý</li>
         <li>ADJ-Part: konsolidující, související, přejímající, zanikající, týkající, jednající, opravující, rozhodující, doplňující, držící</li>
-        <li>AUX: byty</li>
-        <li>DET: tyto, tato, tento, toto, její, některá, taková, jaké, některé, takové</li>
+        <li>DET: které, která, který, tyto, tato, tento, to, toto, její, všechna</li>
         <li>NOUN: jednotka, jednotky, položka, ustanovení, závěrka, majetek, vymezení, náklady, informace, záznam</li>
         <li>NUM: jeden, dvě, obě, deset</li>
-        <li>PRON: které, která, který, to, všechna, jenž, veškeré, sama, jež, kterýkoli</li>
+        <li>PRON: jenž, veškeré, jež</li>
       </ul>
     </li>
   </ul>
@@ -1519,7 +1515,6 @@ udver: '2'
   <ul>
     <li>Npr
       <ul>
-        <li>DET: kterážto</li>
         <li>PRON: jež, jehož, jenž, jemuž, jímž, jimž, jimiž, jichž, jíž, již</li>
       </ul>
     </li>
@@ -1537,7 +1532,6 @@ udver: '2'
   <ul>
     <li>Npr
       <ul>
-        <li>DET: kterážto</li>
         <li>PRON: jež, jimiž, jenž, jehož, jímž, jichž, jíž, jemuž, jimž, již</li>
       </ul>
     </li>
@@ -1633,8 +1627,9 @@ udver: '2'
     </li>
     <li>Pos
       <ul>
-        <li>ADJ: další, české, nové, poslední, státní, dalších, možné, vlastní, jiné, každý</li>
+        <li>ADJ: další, české, nové, poslední, státní, dalších, možné, vlastní, jiné, velké</li>
         <li>ADV: stejně, zřejmě, často, dobře, přesto, samozřejmě, skutečně, přímo, hlavně, údajně</li>
+        <li>DET: každý, každé, každého, každém, každá, každou, každému, každým, každých</li>
       </ul>
     </li>
     <li>Sup
@@ -1660,8 +1655,9 @@ udver: '2'
     </li>
     <li>Pos
       <ul>
-        <li>ADJ: další, pracovní, jednotlivých, základní, nové, socialistické, různých, každý, dalších, jiné</li>
+        <li>ADJ: další, pracovní, jednotlivých, základní, nové, socialistické, různých, dalších, jiné, vlastní</li>
         <li>ADV: tedy, často, stále, dobře, přímo, současně, stejně, hlavně, postupně, vlastně</li>
+        <li>DET: každý, každé, každého, každá, každém, každou, každým, každému, každých, každej</li>
       </ul>
     </li>
     <li>Sup
@@ -1689,6 +1685,7 @@ udver: '2'
       <ul>
         <li>ADJ: účetní, účetních, účetního, konsolidované, finanční, účetním, výroční, právní, jiných, ostatní</li>
         <li>ADV: obdobně, případně, samostatně, bezprostředně, přímo, odděleně, bezúplatně, přiměřeně, současně, výhradně</li>
+        <li>DET: každou, každé, každého, každý, Každá</li>
       </ul>
     </li>
     <li>Sup
@@ -1779,13 +1776,14 @@ udver: '2'
     </li>
     <li>Pos
       <ul>
-        <li>ADJ: další, české, nové, poslední, státní, dalších, možné, vlastní, jiné, každý</li>
+        <li>ADJ: další, české, nové, poslední, státní, dalších, možné, vlastní, jiné, velké</li>
         <li>ADJ-Part: rozhodující, řečeno, vedoucí, následující, přesvědčen, připravena, připraven, vynikající, týkající, otevřena</li>
         <li>ADV: více, stejně, zřejmě, často, méně, spíše, dobře, později, přesto, samozřejmě</li>
         <li>AUX-Conv: jsouce, jsa, jsouc</li>
         <li>AUX-Fin: je, jsou, bude, jsem, jsme, budou, jste, budeme, bývá, budu</li>
         <li>AUX-Inf: být, býti</li>
         <li>AUX-Part: byl, bylo, byla, byly, byli, býval, bývala, bývalo, bývaly, bývávaly</li>
+        <li>DET: každý, každé, každého, každém, každá, každou, každému, každým, každých</li>
         <li>NOUN: roku, korun, let, roce, strany, procent, společnosti, době, případě, firmy</li>
         <li>PROPN: Praha, ČR, Praze, LN, ODS, USA, J, Jiří, Jan, OSN</li>
         <li>VERB-Conv: počínaje, vlastně, konče, Mluvě, soudě, říkajíc, maje, Jsouc, žena, PRA</li>
@@ -1817,13 +1815,14 @@ udver: '2'
     </li>
     <li>Pos
       <ul>
-        <li>ADJ: další, pracovní, jednotlivých, základní, nové, možno, socialistické, různých, každý, dalších</li>
+        <li>ADJ: další, pracovní, jednotlivých, základní, nové, možno, socialistické, různých, dalších, větší</li>
         <li>ADJ-Part: pracujících, rozhodující, pracující, vedoucí, řečeno, dosaženo, odpovídající, následující, věnována, řídící</li>
         <li>ADV: tedy, více, dále, často, stále, dobře, přímo, současně, stejně, hlavně</li>
         <li>AUX-Conv: byvše, jsouc, jsouce</li>
         <li>AUX-Fin: je, jsou, bude, jsme, jsem, budou, budeme, jste, bývá, bývají</li>
         <li>AUX-Inf: být, býti, pěstovat, vyžadovat</li>
         <li>AUX-Part: byl, bylo, byla, byly, byli, býval, bývalo, měl, Mohl, bývaly</li>
+        <li>DET: každý, každé, každého, každá, každém, každou, každým, každému, každých, každej</li>
         <li>NOUN: práce, roce, let, práci, roku, oblasti, době, společnosti, hlediska, činnosti</li>
         <li>PROPN: KSČ, ROH, Praze, SSSR, ÚJČ, SSM, Praha, ČSAV, ČSSR, Škoda</li>
         <li>VERB-Conv: počínaje, říkajíc, Chráníce, Počínajíc, chtíc, dožívaje, klusaje, konče, plníce, ponechávajíc</li>
@@ -1842,30 +1841,30 @@ udver: '2'
     <li>Neg
       <ul>
         <li>ADJ: nehmotného, nehmotný, nepeněžní, nezbytné, nevyhrazeného, nehmotným, nepřímých, neupraveném, neauditorské, nebytové</li>
-        <li>ADJ-Part: nepostačující, nespadajícím</li>
+        <li>ADJ-Part: nepostačující, nespadajícím, nezměněno</li>
         <li>ADV: nepřetržitě, nepřímo, nedostatečně, nezaměnitelně, nezávisle</li>
         <li>AUX-Fin: nejsou</li>
         <li>AUX-Part: nebyly, nebyla, nebyl</li>
         <li>NOUN: nezahrnutí, nejednoznačnost, nemovitostem, nepotřebnost, neprůkaznosti, nepřehlednosti, nesestavení, nesprávnosti, nesrozumitelnosti, neuvedení</li>
         <li>VERB-Fin: nelze, nemusí, nepoužije, nemá, nepoužijí, nesestaví, nesmí, nestanoví, nevztahuje, neúčtuje</li>
         <li>VERB-Inf: neúčtovat</li>
-        <li>VERB-Part: neměla, neobsahovala, nepožádali, neprošly, nepřevýšily, nesplnily, nevedly, nezahájil, nezměněno, nezískala</li>
+        <li>VERB-Part: neměla, neobsahovala, nepožádali, neprošly, nepřevýšily, nesplnily, nevedly, nezahájil, nezískala, neúčtovala</li>
       </ul>
     </li>
     <li>Pos
       <ul>
         <li>ADJ: účetní, účetních, účetního, konsolidované, konsolidující, finanční, účetním, povinny, výroční, právní</li>
-        <li>ADJ-Part: konsolidující, zanikající, následujícího, související, předcházejícímu, týkající, přejímající, předcházející, souvisejících, řídících</li>
+        <li>ADJ-Part: konsolidující, zanikající, stanoveno, následujícího, související, předcházejícímu, týkající, přejímající, sestavena, zahrnuty</li>
         <li>ADV: více, obdobně, případně, nejméně, později, nejpozději, samostatně, bezprostředně, přímo, odděleně</li>
-        <li>AUX: je, jsou, být, není, byly, bude, byl, bylo, budou, byla</li>
         <li>AUX-Fin: je, jsou, není, bude, budou</li>
         <li>AUX-Inf: být</li>
         <li>AUX-Part: byly, byl, bylo, byla</li>
+        <li>DET: každou, každé, každého, každý, Každá</li>
         <li>NOUN: jednotky, jednotka, majetku, období, ocenění, účetnictví, položka, závěrky, dni, ustanovení</li>
         <li>VERB-Conv: počínaje</li>
         <li>VERB-Fin: obsahuje, rozumí, může, uvede, mohou, použijí, stanoví, musí, účtuje, lze</li>
         <li>VERB-Inf: vést, použít, mít, účtovat, odpisovat, uvést, sestavit, zajistit, provést, určit</li>
-        <li>VERB-Part: stanoveno, došlo, sestavena, zahrnuty, obchodovány, přestaly, uvedeny, zavedena, nabyla, oprávněn</li>
+        <li>VERB-Part: došlo, přestaly, nabyla, určila, nastaly, staly, překročila, sestavila, stanovila, trvalo</li>
       </ul>
     </li>
   </ul>
@@ -1985,7 +1984,8 @@ udver: '2'
   <ul>
     <li>Short
       <ul>
-        <li>ADJ: povinny, povinna, možno, známa, známy, schopna, znám, nutno, povinen, rovny</li>
+        <li>ADJ: povinny, povinna, stanoveno, sestavena, možno, zahrnuty, obchodovány, uvedeny, zavedena, oprávněn</li>
+        <li>ADJ-Part: stanoveno, sestavena, zahrnuty, obchodovány, uvedeny, zavedena, oprávněn, uvedena, vykázány, účtovány</li>
         <li>PRON: se, ho, si</li>
       </ul>
     </li>
@@ -2484,7 +2484,7 @@ udver: '2'
     </li>
     <li>Pass
       <ul>
-        <li>VERB-Part: stanoveno, sestavena, zahrnuty, obchodovány, uvedeny, zavedena, oprávněn, uvedena, vykázány, účtovány</li>
+        <li>ADJ-Part: stanoveno, sestavena, zahrnuty, obchodovány, uvedeny, zavedena, oprávněn, uvedena, vykázány, účtovány</li>
       </ul>
     </li>
   </ul>
@@ -2591,7 +2591,7 @@ udver: '2'
       <ul>
         <li>ADV: nikdy, nijak, nikde, nikam, odnikud</li>
         <li>DET: žádné, žádný, žádná, žádnou, žádném, žádným, žádného, žádnému, žádných, žádnými</li>
-        <li>PRON: nic, nikdo, nikoho, nikomu, ničím, ničem, ničemu, nikým, ničeho, pranic</li>
+        <li>PRON: nic, nikdo, nikoho, nikomu, ničím, ničem, ničemu, nikým, ničeho, nikom</li>
       </ul>
     </li>
     <li>Prs
@@ -2609,7 +2609,7 @@ udver: '2'
     <li>Tot
       <ul>
         <li>ADV: vždy, všude, navždy, odjakživa, všudy, odevšad</li>
-        <li>DET: všechny, všech, vše, všichni, všechno, všem, všemi, všeho, všechna, vším</li>
+        <li>DET: všechny, všech, každý, vše, všichni, všechno, každé, každého, všem, každém</li>
         <li>PRON: veškeré, samého, veškerou, veškerý, samé, samém, veškerá, veškerého, veškerých, samí</li>
       </ul>
     </li>
@@ -2669,7 +2669,7 @@ udver: '2'
     <li>Tot
       <ul>
         <li>ADV: vždy, všude, odjakživa, navždy, odevždy</li>
-        <li>DET: všechny, všechno, všichni, vše, všech, všeho, všem, vší</li>
+        <li>DET: každý, každé, každého, všechny, každá, každém, každou, každým, každému, všechno</li>
         <li>PRON: všech, všechny, všechno, všichni, všem, vše, veškeré, všechna, všemi, všeho</li>
       </ul>
     </li>
@@ -2684,32 +2684,30 @@ udver: '2'
   <ul>
     <li>Dem
       <ul>
-        <li>DET: této, tohoto, těchto, tyto, tato, tento, tomto, tuto, toto, tímto</li>
-        <li>PRON: to, tím, toho, tomu, tom, ty, tímto, t, takové, tato</li>
+        <li>ADV: tak, dosud, tehdy, Tam, zde</li>
+        <li>DET: této, tohoto, to, těchto, tyto, tato, tento, tomto, tímto, tuto</li>
       </ul>
     </li>
-    <li>Dem,Ind
+    <li>Emp
       <ul>
-        <li>DET: několika</li>
-        <li>PRON: několika</li>
+        <li>DET: sama, samo, samy</li>
       </ul>
     </li>
     <li>Ind
       <ul>
-        <li>DET: NĚKTERÝCH, některá, některé, jakékoli, jakýchkoliv</li>
-        <li>PRON: kterýkoli, některý</li>
+        <li>ADV: kdykoli</li>
+        <li>DET: NĚKTERÝCH, několika, některá, některé, jakékoli, jakýchkoliv, kterýkoli, některý</li>
       </ul>
     </li>
     <li>Int,Rel
       <ul>
-        <li>DET: jakou, jaké, kterým</li>
-        <li>PRON: které, která, který, kterých, kterým, kterém, kterému, kterou, kterého, jakém</li>
+        <li>ADV: kdy, jak, kde, kam</li>
+        <li>DET: které, která, který, kterým, kterých, kterém, kterému, kterou, kterého, jakém</li>
       </ul>
     </li>
     <li>Neg
       <ul>
-        <li>DET: žádná, žádný</li>
-        <li>PRON: žádném, žádnou, žádná</li>
+        <li>DET: žádná, žádném, žádnou, žádný</li>
       </ul>
     </li>
     <li>Prs
@@ -2726,7 +2724,9 @@ udver: '2'
     </li>
     <li>Tot
       <ul>
-        <li>PRON: všech, všechny, veškeré, všechna, sama, veškerého, veškerých, veškerými, samo, samy</li>
+        <li>ADV: vždy</li>
+        <li>DET: všech, všechny, každou, každé, všechna, každého, každý, Každá, všemi</li>
+        <li>PRON: veškeré, veškerého, veškerých, veškerými</li>
       </ul>
     </li>
   </ul>
@@ -2831,8 +2831,8 @@ udver: '2'
     <li>Neg
       <ul>
         <li>ADV: nikdy, nijak, nikde, nikam</li>
-        <li>DET: žádný, žádné, žádnou, žádná, žádném, žádného, žádnej, nijaké, pražádný, žádnému</li>
-        <li>PRON: nic, nikdo, nikoho, nikomu, ničeho, ničemu, nikým, ničím, ničem</li>
+        <li>DET: žádný, žádné, žádnou, žádná, žádném, žádného, žádnej, nijaké, žádnému</li>
+        <li>PRON: nic, nikdo, nikoho, nikomu, ničeho, ničemu, nikým, ničím, ničem, pražádný</li>
       </ul>
     </li>
     <li>Prs
@@ -2947,7 +2947,6 @@ udver: '2'
       <ul>
         <li>DET: několika</li>
         <li>NUM: 1, 3, 2, 4, jeden, 5, 41, 7, jedné, tří</li>
-        <li>PRON: několika</li>
       </ul>
     </li>
     <li>Mult
@@ -4152,10 +4151,10 @@ udver: '2'
     </li>
     <li>Coll
       <ul>
-        <li>ADJ: Žídkova, Žídkových, dolarovej, drahej, druhej, fest, hodný, každej, krásnejch, mluvený</li>
+        <li>ADJ: Žídkova, Žídkových, dolarovej, drahej, druhej, fest, hodný, krásnejch, mluvený, mužský</li>
         <li>ADV: loni, akorát, teda</li>
         <li>AUX-Fin: seš</li>
-        <li>DET: nějakejch, svý, tý</li>
+        <li>DET: každej, nějakejch, svý, tý</li>
         <li>NOUN: pracech, mejkap, elpíčko, pivčo, pásák, Dvacka, Komunálu, bétéček, dolama, fajnovka</li>
         <li>PART: jo, fakt</li>
         <li>PROPN: Drahušce, Drahuška, Fanoušů, Jaroušků, Kyšický, dvoukolákem, embéčko</li>
@@ -4202,8 +4201,8 @@ udver: '2'
       <ul>
         <li>ADJ: něm</li>
         <li>ADV: něm</li>
+        <li>DET: t</li>
         <li>NOUN: Kč, USD, m, m2, ha, t, ČSSR</li>
-        <li>PRON: t</li>
       </ul>
     </li>
   </ul>
@@ -4612,7 +4611,7 @@ udver: '2'
 
 <ul>
 <li>This corpus uses 6 lemmas as copulas (<a>cop</a>): byt, být, je-li, jsou-li, nejsou-li, není-li.</li>
-<li>This corpus uses 4 lemmas as auxiliaries (<a>aux</a>): být, ocenit, oprávnit, stanovit.</li>
+<li>This corpus uses 4 lemmas as auxiliaries (<a>aux</a>): být, oceněný, oprávněný, stanovený.</li>
 <li>This corpus uses 2 lemmas as passive auxiliaries (<a>aux:pass</a>): být, není-li.</li>
 </ul>
 
@@ -4755,13 +4754,10 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--NOUN-Gen (4)</li>
       <li>VERB-Fin--NOUN-Loc (1)</li>
       <li>VERB-Fin--NOUN-Nom (627)</li>
-      <li>VERB-Fin--PRON-Acc (4)</li>
-      <li>VERB-Fin--PRON-Nom (149)</li>
+      <li>VERB-Fin--PRON-Nom (2)</li>
       <li>VERB-Inf--NOUN-Nom (1)</li>
-      <li>VERB-Part--NOUN-Acc (1)</li>
-      <li>VERB-Part--NOUN-Gen (2)</li>
-      <li>VERB-Part--NOUN-Nom (100)</li>
-      <li>VERB-Part--PRON-Nom (43)</li>
+      <li>VERB-Part--NOUN-Gen (1)</li>
+      <li>VERB-Part--NOUN-Nom (42)</li>
     </ul>
   </li>
 </ul>
@@ -4829,208 +4825,101 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Conv--NOUN (1)</li>
       <li>VERB-Conv--NOUN-ADP(o) (1)</li>
       <li>VERB-Conv--NOUN-Acc (17)</li>
-      <li>VERB-Conv--NOUN-Acc-ADP(na) (4)</li>
-      <li>VERB-Conv--NOUN-Acc-ADP(o) (1)</li>
-      <li>VERB-Conv--NOUN-Acc-ADP(v) (1)</li>
+      <li>VERB-Conv--NOUN-Acc-ADP(na) (1)</li>
       <li>VERB-Conv--NOUN-Gen (2)</li>
       <li>VERB-Conv--NOUN-Ins (8)</li>
-      <li>VERB-Conv--NOUN-Loc-ADP(o) (16)</li>
       <li>VERB-Conv--PRON-Acc (2)</li>
       <li>VERB-Conv--PRON-Dat (1)</li>
-      <li>VERB-Conv--PRON-Loc-ADP(o) (1)</li>
       <li>VERB-Fin--NOUN (93)</li>
-      <li>VERB-Fin--NOUN-ADP(k) (1)</li>
-      <li>VERB-Fin--NOUN-ADP(kolem) (1)</li>
-      <li>VERB-Fin--NOUN-ADP(na) (3)</li>
-      <li>VERB-Fin--NOUN-ADP(o) (5)</li>
-      <li>VERB-Fin--NOUN-ADP(s) (5)</li>
-      <li>VERB-Fin--NOUN-ADP(v) (2)</li>
-      <li>VERB-Fin--NOUN-ADP(z) (3)</li>
-      <li>VERB-Fin--NOUN-ADP(za) (3)</li>
+      <li>VERB-Fin--NOUN-ADP(o) (2)</li>
+      <li>VERB-Fin--NOUN-ADP(s) (1)</li>
       <li>VERB-Fin--NOUN-Acc (14680)</li>
-      <li>VERB-Fin--NOUN-Acc-ADP(na) (647)</li>
-      <li>VERB-Fin--NOUN-Acc-ADP(nad) (1)</li>
-      <li>VERB-Fin--NOUN-Acc-ADP(nehledě) (1)</li>
-      <li>VERB-Fin--NOUN-Acc-ADP(o) (1112)</li>
-      <li>VERB-Fin--NOUN-Acc-ADP(pod) (1)</li>
-      <li>VERB-Fin--NOUN-Acc-ADP(pro) (15)</li>
-      <li>VERB-Fin--NOUN-Acc-ADP(přes) (4)</li>
-      <li>VERB-Fin--NOUN-Acc-ADP(v) (89)</li>
-      <li>VERB-Fin--NOUN-Acc-ADP(za) (218)</li>
-      <li>VERB-Fin--NOUN-Dat (929)</li>
-      <li>VERB-Fin--NOUN-Dat-ADP(k) (510)</li>
-      <li>VERB-Fin--NOUN-Dat-ADP(proti) (40)</li>
-      <li>VERB-Fin--NOUN-Dat-ADP(vstříc) (1)</li>
+      <li>VERB-Fin--NOUN-Acc-ADP(na) (41)</li>
+      <li>VERB-Fin--NOUN-Acc-ADP(o) (92)</li>
+      <li>VERB-Fin--NOUN-Acc-ADP(v) (2)</li>
+      <li>VERB-Fin--NOUN-Acc-ADP(za) (13)</li>
+      <li>VERB-Fin--NOUN-Dat (930)</li>
+      <li>VERB-Fin--NOUN-Dat-ADP(k) (17)</li>
+      <li>VERB-Fin--NOUN-Dat-ADP(proti) (2)</li>
       <li>VERB-Fin--NOUN-Gen (1334)</li>
-      <li>VERB-Fin--NOUN-Gen-ADP(bez) (23)</li>
+      <li>VERB-Fin--NOUN-Gen-ADP(bez) (1)</li>
       <li>VERB-Fin--NOUN-Gen-ADP(co) (1)</li>
-      <li>VERB-Fin--NOUN-Gen-ADP(do) (24)</li>
-      <li>VERB-Fin--NOUN-Gen-ADP(kolem) (25)</li>
-      <li>VERB-Fin--NOUN-Gen-ADP(na) (50)</li>
-      <li>VERB-Fin--NOUN-Gen-ADP(nad) (1)</li>
-      <li>VERB-Fin--NOUN-Gen-ADP(o) (24)</li>
-      <li>VERB-Fin--NOUN-Gen-ADP(od) (74)</li>
-      <li>VERB-Fin--NOUN-Gen-ADP(okolo) (3)</li>
-      <li>VERB-Fin--NOUN-Gen-ADP(pro) (2)</li>
-      <li>VERB-Fin--NOUN-Gen-ADP(přes) (17)</li>
+      <li>VERB-Fin--NOUN-Gen-ADP(na) (3)</li>
+      <li>VERB-Fin--NOUN-Gen-ADP(o) (6)</li>
+      <li>VERB-Fin--NOUN-Gen-ADP(od) (4)</li>
       <li>VERB-Fin--NOUN-Gen-ADP(u) (1)</li>
-      <li>VERB-Fin--NOUN-Gen-ADP(z) (272)</li>
-      <li>VERB-Fin--NOUN-Gen-ADP(za) (4)</li>
+      <li>VERB-Fin--NOUN-Gen-ADP(z) (20)</li>
+      <li>VERB-Fin--NOUN-Gen-ADP(za) (2)</li>
       <li>VERB-Fin--NOUN-Ins (562)</li>
-      <li>VERB-Fin--NOUN-Ins-ADP(mezi) (4)</li>
-      <li>VERB-Fin--NOUN-Ins-ADP(nad) (20)</li>
-      <li>VERB-Fin--NOUN-Ins-ADP(před) (11)</li>
-      <li>VERB-Fin--NOUN-Ins-ADP(s) (609)</li>
-      <li>VERB-Fin--NOUN-Ins-ADP(za) (6)</li>
-      <li>VERB-Fin--NOUN-Loc-ADP(na) (273)</li>
-      <li>VERB-Fin--NOUN-Loc-ADP(o) (502)</li>
-      <li>VERB-Fin--NOUN-Loc-ADP(po) (41)</li>
-      <li>VERB-Fin--NOUN-Loc-ADP(v) (90)</li>
+      <li>VERB-Fin--NOUN-Ins-ADP(mezi) (2)</li>
+      <li>VERB-Fin--NOUN-Ins-ADP(nad) (3)</li>
+      <li>VERB-Fin--NOUN-Ins-ADP(s) (35)</li>
+      <li>VERB-Fin--NOUN-Loc-ADP(na) (15)</li>
+      <li>VERB-Fin--NOUN-Loc-ADP(o) (27)</li>
+      <li>VERB-Fin--NOUN-Loc-ADP(v) (2)</li>
       <li>VERB-Fin--NOUN-Nom (43)</li>
       <li>VERB-Fin--NOUN-Voc (1)</li>
-      <li>VERB-Fin--PRON-Acc (2004)</li>
-      <li>VERB-Fin--PRON-Acc-ADP(na) (70)</li>
-      <li>VERB-Fin--PRON-Acc-ADP(o) (57)</li>
-      <li>VERB-Fin--PRON-Acc-ADP(pro) (1)</li>
-      <li>VERB-Fin--PRON-Acc-ADP(v) (2)</li>
-      <li>VERB-Fin--PRON-Acc-ADP(za) (7)</li>
-      <li>VERB-Fin--PRON-Dat (728)</li>
-      <li>VERB-Fin--PRON-Dat-ADP(k) (39)</li>
-      <li>VERB-Fin--PRON-Dat-ADP(proti) (3)</li>
+      <li>VERB-Fin--PRON-Acc (2003)</li>
+      <li>VERB-Fin--PRON-Dat (730)</li>
       <li>VERB-Fin--PRON-Gen (95)</li>
-      <li>VERB-Fin--PRON-Gen-ADP(bez) (2)</li>
-      <li>VERB-Fin--PRON-Gen-ADP(do) (1)</li>
-      <li>VERB-Fin--PRON-Gen-ADP(od) (8)</li>
-      <li>VERB-Fin--PRON-Gen-ADP(z) (23)</li>
       <li>VERB-Fin--PRON-Ins (27)</li>
-      <li>VERB-Fin--PRON-Ins-ADP(mezi) (2)</li>
-      <li>VERB-Fin--PRON-Ins-ADP(nad) (1)</li>
-      <li>VERB-Fin--PRON-Ins-ADP(před) (1)</li>
-      <li>VERB-Fin--PRON-Ins-ADP(s) (55)</li>
-      <li>VERB-Fin--PRON-Ins-ADP(za) (1)</li>
-      <li>VERB-Fin--PRON-Loc-ADP(na) (28)</li>
-      <li>VERB-Fin--PRON-Loc-ADP(o) (72)</li>
-      <li>VERB-Fin--PRON-Loc-ADP(po) (7)</li>
-      <li>VERB-Fin--PRON-Loc-ADP(v) (12)</li>
+      <li>VERB-Fin--PRON-Loc-ADP(na) (1)</li>
       <li>VERB-Fin--PRON-Nom (1)</li>
       <li>VERB-Inf--NOUN (33)</li>
-      <li>VERB-Inf--NOUN-ADP(na) (1)</li>
-      <li>VERB-Inf--NOUN-ADP(o) (1)</li>
-      <li>VERB-Inf--NOUN-ADP(za) (1)</li>
       <li>VERB-Inf--NOUN-Acc (9872)</li>
-      <li>VERB-Inf--NOUN-Acc-ADP(na) (325)</li>
-      <li>VERB-Inf--NOUN-Acc-ADP(nad) (1)</li>
-      <li>VERB-Inf--NOUN-Acc-ADP(o) (229)</li>
-      <li>VERB-Inf--NOUN-Acc-ADP(pro) (7)</li>
-      <li>VERB-Inf--NOUN-Acc-ADP(přes) (2)</li>
-      <li>VERB-Inf--NOUN-Acc-ADP(v) (30)</li>
-      <li>VERB-Inf--NOUN-Acc-ADP(za) (61)</li>
+      <li>VERB-Inf--NOUN-Acc-ADP(na) (11)</li>
+      <li>VERB-Inf--NOUN-Acc-ADP(o) (15)</li>
+      <li>VERB-Inf--NOUN-Acc-ADP(v) (2)</li>
+      <li>VERB-Inf--NOUN-Acc-ADP(za) (2)</li>
       <li>VERB-Inf--NOUN-Dat (499)</li>
-      <li>VERB-Inf--NOUN-Dat-ADP(k) (194)</li>
-      <li>VERB-Inf--NOUN-Dat-ADP(proti) (23)</li>
+      <li>VERB-Inf--NOUN-Dat-ADP(k) (5)</li>
       <li>VERB-Inf--NOUN-Gen (689)</li>
-      <li>VERB-Inf--NOUN-Gen-ADP(bez) (4)</li>
-      <li>VERB-Inf--NOUN-Gen-ADP(do) (19)</li>
-      <li>VERB-Inf--NOUN-Gen-ADP(kolem) (5)</li>
-      <li>VERB-Inf--NOUN-Gen-ADP(na) (21)</li>
-      <li>VERB-Inf--NOUN-Gen-ADP(o) (7)</li>
-      <li>VERB-Inf--NOUN-Gen-ADP(od) (27)</li>
-      <li>VERB-Inf--NOUN-Gen-ADP(okolo) (3)</li>
-      <li>VERB-Inf--NOUN-Gen-ADP(z) (36)</li>
+      <li>VERB-Inf--NOUN-Gen-ADP(bez) (1)</li>
+      <li>VERB-Inf--NOUN-Gen-ADP(do) (2)</li>
+      <li>VERB-Inf--NOUN-Gen-ADP(na) (2)</li>
+      <li>VERB-Inf--NOUN-Gen-ADP(o) (1)</li>
+      <li>VERB-Inf--NOUN-Gen-ADP(z) (8)</li>
       <li>VERB-Inf--NOUN-Ins (257)</li>
-      <li>VERB-Inf--NOUN-Ins-ADP(mezi) (5)</li>
-      <li>VERB-Inf--NOUN-Ins-ADP(nad) (14)</li>
-      <li>VERB-Inf--NOUN-Ins-ADP(před) (4)</li>
-      <li>VERB-Inf--NOUN-Ins-ADP(s) (355)</li>
-      <li>VERB-Inf--NOUN-Ins-ADP(za) (1)</li>
-      <li>VERB-Inf--NOUN-Loc-ADP(na) (101)</li>
-      <li>VERB-Inf--NOUN-Loc-ADP(o) (286)</li>
-      <li>VERB-Inf--NOUN-Loc-ADP(po) (12)</li>
-      <li>VERB-Inf--NOUN-Loc-ADP(v) (72)</li>
+      <li>VERB-Inf--NOUN-Ins-ADP(mezi) (2)</li>
+      <li>VERB-Inf--NOUN-Ins-ADP(nad) (3)</li>
+      <li>VERB-Inf--NOUN-Ins-ADP(s) (13)</li>
+      <li>VERB-Inf--NOUN-Loc-ADP(na) (2)</li>
+      <li>VERB-Inf--NOUN-Loc-ADP(o) (19)</li>
+      <li>VERB-Inf--NOUN-Loc-ADP(po) (2)</li>
       <li>VERB-Inf--NOUN-Nom (19)</li>
       <li>VERB-Inf--PRON (1)</li>
       <li>VERB-Inf--PRON-Acc (1438)</li>
-      <li>VERB-Inf--PRON-Acc-ADP(na) (37)</li>
-      <li>VERB-Inf--PRON-Acc-ADP(o) (16)</li>
-      <li>VERB-Inf--PRON-Acc-ADP(pro) (2)</li>
-      <li>VERB-Inf--PRON-Acc-ADP(za) (9)</li>
-      <li>VERB-Inf--PRON-Dat (202)</li>
-      <li>VERB-Inf--PRON-Dat-ADP(k) (15)</li>
-      <li>VERB-Inf--PRON-Dat-ADP(proti) (5)</li>
+      <li>VERB-Inf--PRON-Acc-ADP(o) (1)</li>
+      <li>VERB-Inf--PRON-Dat (203)</li>
       <li>VERB-Inf--PRON-Gen (50)</li>
-      <li>VERB-Inf--PRON-Gen-ADP(bez) (3)</li>
-      <li>VERB-Inf--PRON-Gen-ADP(do) (2)</li>
-      <li>VERB-Inf--PRON-Gen-ADP(od) (3)</li>
-      <li>VERB-Inf--PRON-Gen-ADP(z) (10)</li>
       <li>VERB-Inf--PRON-Ins (20)</li>
-      <li>VERB-Inf--PRON-Ins-ADP(před) (2)</li>
-      <li>VERB-Inf--PRON-Ins-ADP(s) (77)</li>
-      <li>VERB-Inf--PRON-Loc-ADP(na) (17)</li>
-      <li>VERB-Inf--PRON-Loc-ADP(o) (34)</li>
-      <li>VERB-Inf--PRON-Loc-ADP(v) (7)</li>
       <li>VERB-Inf--PRON-Nom (6)</li>
       <li>VERB-Part--NOUN (65)</li>
-      <li>VERB-Part--NOUN-ADP(na) (5)</li>
-      <li>VERB-Part--NOUN-ADP(o) (4)</li>
-      <li>VERB-Part--NOUN-ADP(okolo) (1)</li>
-      <li>VERB-Part--NOUN-ADP(v) (1)</li>
-      <li>VERB-Part--NOUN-ADP(z) (2)</li>
-      <li>VERB-Part--NOUN-ADP(za) (2)</li>
       <li>VERB-Part--NOUN-Acc (13250)</li>
-      <li>VERB-Part--NOUN-Acc-ADP(na) (514)</li>
-      <li>VERB-Part--NOUN-Acc-ADP(o) (424)</li>
-      <li>VERB-Part--NOUN-Acc-ADP(o)-ADP(o) (1)</li>
-      <li>VERB-Part--NOUN-Acc-ADP(pod) (1)</li>
-      <li>VERB-Part--NOUN-Acc-ADP(pro) (30)</li>
-      <li>VERB-Part--NOUN-Acc-ADP(přes) (9)</li>
-      <li>VERB-Part--NOUN-Acc-ADP(v) (77)</li>
-      <li>VERB-Part--NOUN-Acc-ADP(za) (94)</li>
-      <li>VERB-Part--NOUN-Dat (717)</li>
-      <li>VERB-Part--NOUN-Dat-ADP(k) (545)</li>
-      <li>VERB-Part--NOUN-Dat-ADP(proti) (53)</li>
-      <li>VERB-Part--NOUN-Gen (1403)</li>
-      <li>VERB-Part--NOUN-Gen-ADP(bez) (14)</li>
-      <li>VERB-Part--NOUN-Gen-ADP(do) (20)</li>
-      <li>VERB-Part--NOUN-Gen-ADP(kolem) (8)</li>
-      <li>VERB-Part--NOUN-Gen-ADP(na) (87)</li>
-      <li>VERB-Part--NOUN-Gen-ADP(na)-ADP(konec) (1)</li>
-      <li>VERB-Part--NOUN-Gen-ADP(o) (17)</li>
-      <li>VERB-Part--NOUN-Gen-ADP(od) (50)</li>
-      <li>VERB-Part--NOUN-Gen-ADP(okolo) (4)</li>
-      <li>VERB-Part--NOUN-Gen-ADP(pod) (1)</li>
-      <li>VERB-Part--NOUN-Gen-ADP(přes) (14)</li>
-      <li>VERB-Part--NOUN-Gen-ADP(z) (156)</li>
-      <li>VERB-Part--NOUN-Gen-ADP(za) (3)</li>
+      <li>VERB-Part--NOUN-Acc-ADP(na) (26)</li>
+      <li>VERB-Part--NOUN-Acc-ADP(o) (17)</li>
+      <li>VERB-Part--NOUN-Acc-ADP(v) (3)</li>
+      <li>VERB-Part--NOUN-Acc-ADP(za) (5)</li>
+      <li>VERB-Part--NOUN-Dat (718)</li>
+      <li>VERB-Part--NOUN-Dat-ADP(k) (13)</li>
+      <li>VERB-Part--NOUN-Gen (1404)</li>
+      <li>VERB-Part--NOUN-Gen-ADP(bez) (1)</li>
+      <li>VERB-Part--NOUN-Gen-ADP(do) (1)</li>
+      <li>VERB-Part--NOUN-Gen-ADP(na) (1)</li>
+      <li>VERB-Part--NOUN-Gen-ADP(z) (4)</li>
       <li>VERB-Part--NOUN-Ins (604)</li>
-      <li>VERB-Part--NOUN-Ins-ADP(mezi) (2)</li>
-      <li>VERB-Part--NOUN-Ins-ADP(nad) (32)</li>
-      <li>VERB-Part--NOUN-Ins-ADP(před) (10)</li>
-      <li>VERB-Part--NOUN-Ins-ADP(s) (306)</li>
-      <li>VERB-Part--NOUN-Ins-ADP(za) (1)</li>
-      <li>VERB-Part--NOUN-Loc-ADP(na) (163)</li>
-      <li>VERB-Part--NOUN-Loc-ADP(o) (400)</li>
-      <li>VERB-Part--NOUN-Loc-ADP(po) (27)</li>
-      <li>VERB-Part--NOUN-Loc-ADP(v) (48)</li>
+      <li>VERB-Part--NOUN-Ins-ADP(nad) (2)</li>
+      <li>VERB-Part--NOUN-Ins-ADP(s) (9)</li>
+      <li>VERB-Part--NOUN-Loc-ADP(na) (3)</li>
+      <li>VERB-Part--NOUN-Loc-ADP(o) (18)</li>
+      <li>VERB-Part--NOUN-Loc-ADP(po) (2)</li>
       <li>VERB-Part--NOUN-Nom (23)</li>
       <li>VERB-Part--PRON (3)</li>
       <li>VERB-Part--PRON-Acc (1870)</li>
-      <li>VERB-Part--PRON-Acc-ADP(na) (62)</li>
-      <li>VERB-Part--PRON-Acc-ADP(o) (24)</li>
-      <li>VERB-Part--PRON-Acc-ADP(pro) (5)</li>
-      <li>VERB-Part--PRON-Acc-ADP(za) (6)</li>
+      <li>VERB-Part--PRON-Acc-ADP(na) (1)</li>
       <li>VERB-Part--PRON-Dat (517)</li>
-      <li>VERB-Part--PRON-Dat-ADP(k) (34)</li>
-      <li>VERB-Part--PRON-Dat-ADP(proti) (6)</li>
       <li>VERB-Part--PRON-Gen (70)</li>
-      <li>VERB-Part--PRON-Gen-ADP(od) (5)</li>
-      <li>VERB-Part--PRON-Gen-ADP(přes) (1)</li>
-      <li>VERB-Part--PRON-Gen-ADP(z) (21)</li>
       <li>VERB-Part--PRON-Ins (16)</li>
-      <li>VERB-Part--PRON-Ins-ADP(s) (57)</li>
-      <li>VERB-Part--PRON-Loc-ADP(na) (12)</li>
-      <li>VERB-Part--PRON-Loc-ADP(o) (50)</li>
-      <li>VERB-Part--PRON-Loc-ADP(po) (3)</li>
-      <li>VERB-Part--PRON-Loc-ADP(v) (1)</li>
     </ul>
   </li>
 </ul>
@@ -5041,173 +4930,97 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
   <li><a>obj</a>
     <ul>
       <li>VERB-Conv--NOUN-Acc (8)</li>
-      <li>VERB-Conv--NOUN-Dat-ADP(k) (1)</li>
-      <li>VERB-Conv--NOUN-Dat-ADP(proti) (1)</li>
       <li>VERB-Conv--NOUN-Gen (2)</li>
       <li>VERB-Conv--NOUN-Ins (1)</li>
-      <li>VERB-Conv--NOUN-Loc-ADP(o) (2)</li>
       <li>VERB-Conv--PRON-Acc (1)</li>
       <li>VERB-Fin--NOUN (3)</li>
-      <li>VERB-Fin--NOUN-ADP(z) (1)</li>
       <li>VERB-Fin--NOUN-Acc (5611)</li>
-      <li>VERB-Fin--NOUN-Acc-ADP(mezi) (1)</li>
-      <li>VERB-Fin--NOUN-Acc-ADP(na) (272)</li>
-      <li>VERB-Fin--NOUN-Acc-ADP(o) (465)</li>
-      <li>VERB-Fin--NOUN-Acc-ADP(pro) (9)</li>
-      <li>VERB-Fin--NOUN-Acc-ADP(přes) (1)</li>
-      <li>VERB-Fin--NOUN-Acc-ADP(v) (37)</li>
-      <li>VERB-Fin--NOUN-Acc-ADP(za) (70)</li>
+      <li>VERB-Fin--NOUN-Acc-ADP(na) (24)</li>
+      <li>VERB-Fin--NOUN-Acc-ADP(o) (48)</li>
+      <li>VERB-Fin--NOUN-Acc-ADP(pro) (2)</li>
+      <li>VERB-Fin--NOUN-Acc-ADP(za) (6)</li>
       <li>VERB-Fin--NOUN-Dat (341)</li>
       <li>VERB-Fin--NOUN-Dat-ADP(až) (2)</li>
-      <li>VERB-Fin--NOUN-Dat-ADP(k) (311)</li>
-      <li>VERB-Fin--NOUN-Dat-ADP(proti) (4)</li>
+      <li>VERB-Fin--NOUN-Dat-ADP(k) (21)</li>
+      <li>VERB-Fin--NOUN-Dat-ADP(proti) (1)</li>
       <li>VERB-Fin--NOUN-Gen (445)</li>
-      <li>VERB-Fin--NOUN-Gen-ADP(bez) (3)</li>
-      <li>VERB-Fin--NOUN-Gen-ADP(do) (9)</li>
-      <li>VERB-Fin--NOUN-Gen-ADP(kolem) (4)</li>
-      <li>VERB-Fin--NOUN-Gen-ADP(na) (2)</li>
-      <li>VERB-Fin--NOUN-Gen-ADP(o) (2)</li>
-      <li>VERB-Fin--NOUN-Gen-ADP(od) (47)</li>
-      <li>VERB-Fin--NOUN-Gen-ADP(přes) (2)</li>
-      <li>VERB-Fin--NOUN-Gen-ADP(u) (2)</li>
-      <li>VERB-Fin--NOUN-Gen-ADP(v) (1)</li>
-      <li>VERB-Fin--NOUN-Gen-ADP(z) (174)</li>
+      <li>VERB-Fin--NOUN-Gen-ADP(od) (2)</li>
+      <li>VERB-Fin--NOUN-Gen-ADP(u) (1)</li>
+      <li>VERB-Fin--NOUN-Gen-ADP(z) (9)</li>
       <li>VERB-Fin--NOUN-Ins (280)</li>
       <li>VERB-Fin--NOUN-Ins-ADP(*) (1)</li>
-      <li>VERB-Fin--NOUN-Ins-ADP(mezi) (4)</li>
-      <li>VERB-Fin--NOUN-Ins-ADP(nad) (11)</li>
-      <li>VERB-Fin--NOUN-Ins-ADP(pod) (3)</li>
-      <li>VERB-Fin--NOUN-Ins-ADP(před) (1)</li>
-      <li>VERB-Fin--NOUN-Ins-ADP(s) (246)</li>
-      <li>VERB-Fin--NOUN-Ins-ADP(za) (2)</li>
-      <li>VERB-Fin--NOUN-Loc-ADP(na) (105)</li>
-      <li>VERB-Fin--NOUN-Loc-ADP(o) (146)</li>
-      <li>VERB-Fin--NOUN-Loc-ADP(po) (10)</li>
-      <li>VERB-Fin--NOUN-Loc-ADP(při) (4)</li>
-      <li>VERB-Fin--NOUN-Loc-ADP(v) (42)</li>
+      <li>VERB-Fin--NOUN-Ins-ADP(mezi) (1)</li>
+      <li>VERB-Fin--NOUN-Ins-ADP(nad) (1)</li>
+      <li>VERB-Fin--NOUN-Ins-ADP(s) (13)</li>
+      <li>VERB-Fin--NOUN-Loc-ADP(na) (10)</li>
+      <li>VERB-Fin--NOUN-Loc-ADP(o) (14)</li>
+      <li>VERB-Fin--NOUN-Loc-ADP(po) (1)</li>
+      <li>VERB-Fin--NOUN-Loc-ADP(při) (1)</li>
+      <li>VERB-Fin--NOUN-Loc-ADP(v) (1)</li>
       <li>VERB-Fin--NOUN-Nom (99)</li>
-      <li>VERB-Fin--NOUN-Nom-ADP(o) (1)</li>
       <li>VERB-Fin--PRON (18)</li>
-      <li>VERB-Fin--PRON-ADP(pro) (4)</li>
-      <li>VERB-Fin--PRON-ADP(v) (1)</li>
       <li>VERB-Fin--PRON-Acc (612)</li>
-      <li>VERB-Fin--PRON-Acc-ADP(na) (45)</li>
-      <li>VERB-Fin--PRON-Acc-ADP(o) (17)</li>
-      <li>VERB-Fin--PRON-Acc-ADP(za) (6)</li>
-      <li>VERB-Fin--PRON-Dat (204)</li>
-      <li>VERB-Fin--PRON-Dat-ADP(k) (22)</li>
-      <li>VERB-Fin--PRON-Dat-ADP(proti) (3)</li>
+      <li>VERB-Fin--PRON-Acc-ADP(na) (2)</li>
+      <li>VERB-Fin--PRON-Acc-ADP(o) (2)</li>
+      <li>VERB-Fin--PRON-Acc-ADP(za) (1)</li>
+      <li>VERB-Fin--PRON-Dat (205)</li>
       <li>VERB-Fin--PRON-Gen (20)</li>
-      <li>VERB-Fin--PRON-Gen-ADP(bez) (1)</li>
-      <li>VERB-Fin--PRON-Gen-ADP(do) (2)</li>
-      <li>VERB-Fin--PRON-Gen-ADP(od) (12)</li>
-      <li>VERB-Fin--PRON-Gen-ADP(z) (16)</li>
       <li>VERB-Fin--PRON-Ins (16)</li>
-      <li>VERB-Fin--PRON-Ins-ADP(s) (28)</li>
-      <li>VERB-Fin--PRON-Loc-ADP(na) (4)</li>
-      <li>VERB-Fin--PRON-Loc-ADP(o) (20)</li>
-      <li>VERB-Fin--PRON-Loc-ADP(po) (2)</li>
-      <li>VERB-Fin--PRON-Loc-ADP(v) (4)</li>
       <li>VERB-Fin--PRON-Nom (7)</li>
       <li>VERB-Inf--NOUN (5)</li>
       <li>VERB-Inf--NOUN-Acc (3542)</li>
-      <li>VERB-Inf--NOUN-Acc-ADP(na) (129)</li>
-      <li>VERB-Inf--NOUN-Acc-ADP(o) (59)</li>
-      <li>VERB-Inf--NOUN-Acc-ADP(pro) (4)</li>
-      <li>VERB-Inf--NOUN-Acc-ADP(v) (6)</li>
-      <li>VERB-Inf--NOUN-Acc-ADP(za) (11)</li>
+      <li>VERB-Inf--NOUN-Acc-ADP(na) (7)</li>
+      <li>VERB-Inf--NOUN-Acc-ADP(o) (3)</li>
+      <li>VERB-Inf--NOUN-Acc-ADP(pro) (2)</li>
+      <li>VERB-Inf--NOUN-Acc-ADP(za) (2)</li>
       <li>VERB-Inf--NOUN-Dat (133)</li>
-      <li>VERB-Inf--NOUN-Dat-ADP(k) (102)</li>
-      <li>VERB-Inf--NOUN-Dat-ADP(proti) (4)</li>
+      <li>VERB-Inf--NOUN-Dat-ADP(k) (8)</li>
+      <li>VERB-Inf--NOUN-Dat-ADP(proti) (1)</li>
       <li>VERB-Inf--NOUN-Gen (219)</li>
       <li>VERB-Inf--NOUN-Gen-ADP(*) (1)</li>
-      <li>VERB-Inf--NOUN-Gen-ADP(bez) (5)</li>
-      <li>VERB-Inf--NOUN-Gen-ADP(do) (5)</li>
-      <li>VERB-Inf--NOUN-Gen-ADP(o) (1)</li>
-      <li>VERB-Inf--NOUN-Gen-ADP(od) (15)</li>
-      <li>VERB-Inf--NOUN-Gen-ADP(z) (31)</li>
+      <li>VERB-Inf--NOUN-Gen-ADP(od) (1)</li>
+      <li>VERB-Inf--NOUN-Gen-ADP(z) (5)</li>
       <li>VERB-Inf--NOUN-Ins (61)</li>
       <li>VERB-Inf--NOUN-Ins-ADP(mezi) (2)</li>
-      <li>VERB-Inf--NOUN-Ins-ADP(nad) (3)</li>
-      <li>VERB-Inf--NOUN-Ins-ADP(před) (2)</li>
-      <li>VERB-Inf--NOUN-Ins-ADP(s) (108)</li>
-      <li>VERB-Inf--NOUN-Ins-ADP(za) (1)</li>
+      <li>VERB-Inf--NOUN-Ins-ADP(před) (1)</li>
+      <li>VERB-Inf--NOUN-Ins-ADP(s) (8)</li>
       <li>VERB-Inf--NOUN-Loc (2)</li>
-      <li>VERB-Inf--NOUN-Loc-ADP(na) (15)</li>
-      <li>VERB-Inf--NOUN-Loc-ADP(o) (52)</li>
-      <li>VERB-Inf--NOUN-Loc-ADP(po) (1)</li>
-      <li>VERB-Inf--NOUN-Loc-ADP(při) (2)</li>
-      <li>VERB-Inf--NOUN-Loc-ADP(v) (14)</li>
+      <li>VERB-Inf--NOUN-Loc-ADP(na) (1)</li>
+      <li>VERB-Inf--NOUN-Loc-ADP(o) (2)</li>
       <li>VERB-Inf--NOUN-Nom (27)</li>
       <li>VERB-Inf--PRON (6)</li>
       <li>VERB-Inf--PRON-Acc (382)</li>
-      <li>VERB-Inf--PRON-Acc-ADP(na) (20)</li>
-      <li>VERB-Inf--PRON-Acc-ADP(o) (4)</li>
-      <li>VERB-Inf--PRON-Acc-ADP(za) (1)</li>
       <li>VERB-Inf--PRON-Dat (46)</li>
-      <li>VERB-Inf--PRON-Dat-ADP(k) (3)</li>
-      <li>VERB-Inf--PRON-Dat-ADP(vstříc) (1)</li>
       <li>VERB-Inf--PRON-Gen (17)</li>
-      <li>VERB-Inf--PRON-Gen-ADP(do) (1)</li>
-      <li>VERB-Inf--PRON-Gen-ADP(od) (3)</li>
-      <li>VERB-Inf--PRON-Gen-ADP(z) (3)</li>
       <li>VERB-Inf--PRON-Ins (3)</li>
-      <li>VERB-Inf--PRON-Ins-ADP(nad) (1)</li>
-      <li>VERB-Inf--PRON-Ins-ADP(s) (25)</li>
-      <li>VERB-Inf--PRON-Loc-ADP(na) (2)</li>
-      <li>VERB-Inf--PRON-Loc-ADP(o) (4)</li>
-      <li>VERB-Inf--PRON-Loc-ADP(v) (2)</li>
       <li>VERB-Inf--PRON-Nom (1)</li>
       <li>VERB-Part--NOUN (20)</li>
       <li>VERB-Part--NOUN-Acc (2780)</li>
-      <li>VERB-Part--NOUN-Acc-ADP(na) (100)</li>
+      <li>VERB-Part--NOUN-Acc-ADP(na) (8)</li>
       <li>VERB-Part--NOUN-Acc-ADP(nehledě) (1)</li>
-      <li>VERB-Part--NOUN-Acc-ADP(o) (51)</li>
-      <li>VERB-Part--NOUN-Acc-ADP(pro) (1)</li>
-      <li>VERB-Part--NOUN-Acc-ADP(v) (20)</li>
-      <li>VERB-Part--NOUN-Acc-ADP(za) (14)</li>
+      <li>VERB-Part--NOUN-Acc-ADP(o) (2)</li>
+      <li>VERB-Part--NOUN-Acc-ADP(v) (1)</li>
       <li>VERB-Part--NOUN-Dat (167)</li>
       <li>VERB-Part--NOUN-Dat-ADP(až) (1)</li>
-      <li>VERB-Part--NOUN-Dat-ADP(k) (218)</li>
-      <li>VERB-Part--NOUN-Dat-ADP(proti) (8)</li>
+      <li>VERB-Part--NOUN-Dat-ADP(k) (10)</li>
       <li>VERB-Part--NOUN-Gen (344)</li>
-      <li>VERB-Part--NOUN-Gen-ADP(bez) (2)</li>
-      <li>VERB-Part--NOUN-Gen-ADP(do) (12)</li>
+      <li>VERB-Part--NOUN-Gen-ADP(bez) (1)</li>
       <li>VERB-Part--NOUN-Gen-ADP(k) (1)</li>
-      <li>VERB-Part--NOUN-Gen-ADP(na) (4)</li>
-      <li>VERB-Part--NOUN-Gen-ADP(o) (1)</li>
-      <li>VERB-Part--NOUN-Gen-ADP(od) (21)</li>
-      <li>VERB-Part--NOUN-Gen-ADP(přes) (4)</li>
-      <li>VERB-Part--NOUN-Gen-ADP(z) (62)</li>
-      <li>VERB-Part--NOUN-Gen-ADP(za) (1)</li>
+      <li>VERB-Part--NOUN-Gen-ADP(od) (1)</li>
+      <li>VERB-Part--NOUN-Gen-ADP(z) (1)</li>
       <li>VERB-Part--NOUN-Ins (192)</li>
-      <li>VERB-Part--NOUN-Ins-ADP(nad) (2)</li>
-      <li>VERB-Part--NOUN-Ins-ADP(pod) (1)</li>
-      <li>VERB-Part--NOUN-Ins-ADP(s) (98)</li>
-      <li>VERB-Part--NOUN-Loc-ADP(na) (36)</li>
-      <li>VERB-Part--NOUN-Loc-ADP(o) (95)</li>
-      <li>VERB-Part--NOUN-Loc-ADP(po) (2)</li>
+      <li>VERB-Part--NOUN-Ins-ADP(s) (9)</li>
+      <li>VERB-Part--NOUN-Loc-ADP(na) (4)</li>
+      <li>VERB-Part--NOUN-Loc-ADP(o) (6)</li>
       <li>VERB-Part--NOUN-Loc-ADP(při) (1)</li>
-      <li>VERB-Part--NOUN-Loc-ADP(v) (30)</li>
+      <li>VERB-Part--NOUN-Loc-ADP(v) (1)</li>
       <li>VERB-Part--NOUN-Nom (16)</li>
-      <li>VERB-Part--NOUN-Nom-ADP(na) (1)</li>
       <li>VERB-Part--PRON (14)</li>
       <li>VERB-Part--PRON-Acc (372)</li>
-      <li>VERB-Part--PRON-Acc-ADP(na) (22)</li>
-      <li>VERB-Part--PRON-Acc-ADP(o) (6)</li>
-      <li>VERB-Part--PRON-Acc-ADP(v) (2)</li>
-      <li>VERB-Part--PRON-Acc-ADP(za) (1)</li>
+      <li>VERB-Part--PRON-Acc-ADP(o) (3)</li>
       <li>VERB-Part--PRON-Dat (116)</li>
-      <li>VERB-Part--PRON-Dat-ADP(k) (11)</li>
       <li>VERB-Part--PRON-Gen (19)</li>
-      <li>VERB-Part--PRON-Gen-ADP(do) (1)</li>
-      <li>VERB-Part--PRON-Gen-ADP(od) (2)</li>
-      <li>VERB-Part--PRON-Gen-ADP(z) (4)</li>
       <li>VERB-Part--PRON-Ins (5)</li>
-      <li>VERB-Part--PRON-Ins-ADP(s) (12)</li>
-      <li>VERB-Part--PRON-Loc-ADP(na) (2)</li>
-      <li>VERB-Part--PRON-Loc-ADP(o) (10)</li>
-      <li>VERB-Part--PRON-Loc-ADP(v) (1)</li>
       <li>VERB-Part--PRON-Nom (1)</li>
     </ul>
   </li>
@@ -5219,66 +5032,35 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
   <li><a>obj</a>
     <ul>
       <li>VERB-Fin--NOUN-Acc (421)</li>
-      <li>VERB-Fin--NOUN-Acc-ADP(na) (15)</li>
-      <li>VERB-Fin--NOUN-Acc-ADP(o) (9)</li>
+      <li>VERB-Fin--NOUN-Acc-ADP(na) (3)</li>
+      <li>VERB-Fin--NOUN-Acc-ADP(o) (1)</li>
       <li>VERB-Fin--NOUN-Acc-ADP(pro) (1)</li>
-      <li>VERB-Fin--NOUN-Acc-ADP(za) (24)</li>
       <li>VERB-Fin--NOUN-Dat (24)</li>
-      <li>VERB-Fin--NOUN-Dat-ADP(k) (19)</li>
+      <li>VERB-Fin--NOUN-Dat-ADP(k) (3)</li>
       <li>VERB-Fin--NOUN-Gen (44)</li>
-      <li>VERB-Fin--NOUN-Gen-ADP(od) (1)</li>
-      <li>VERB-Fin--NOUN-Gen-ADP(z) (7)</li>
       <li>VERB-Fin--NOUN-Ins (54)</li>
-      <li>VERB-Fin--NOUN-Ins-ADP(s) (19)</li>
       <li>VERB-Fin--NOUN-Loc (5)</li>
-      <li>VERB-Fin--NOUN-Loc-ADP(o) (30)</li>
-      <li>VERB-Fin--NOUN-Loc-ADP(v) (3)</li>
+      <li>VERB-Fin--NOUN-Loc-ADP(o) (4)</li>
       <li>VERB-Fin--NOUN-Nom (88)</li>
       <li>VERB-Fin--NOUN-Nom-ADP(na) (1)</li>
-      <li>VERB-Fin--PRON-Acc (26)</li>
-      <li>VERB-Fin--PRON-Acc-ADP(na) (4)</li>
-      <li>VERB-Fin--PRON-Dat (6)</li>
-      <li>VERB-Fin--PRON-Gen (6)</li>
-      <li>VERB-Fin--PRON-Ins (7)</li>
-      <li>VERB-Fin--PRON-Ins-ADP(s) (2)</li>
-      <li>VERB-Fin--PRON-Loc-ADP(o) (8)</li>
-      <li>VERB-Fin--PRON-Nom (3)</li>
+      <li>VERB-Fin--PRON-Acc (12)</li>
+      <li>VERB-Fin--PRON-Dat (1)</li>
+      <li>VERB-Fin--PRON-Ins (1)</li>
       <li>VERB-Inf--NOUN-Acc (197)</li>
-      <li>VERB-Inf--NOUN-Acc-ADP(na) (1)</li>
-      <li>VERB-Inf--NOUN-Acc-ADP(o) (3)</li>
-      <li>VERB-Inf--NOUN-Dat (4)</li>
-      <li>VERB-Inf--NOUN-Dat-ADP(k) (2)</li>
+      <li>VERB-Inf--NOUN-Dat (5)</li>
+      <li>VERB-Inf--NOUN-Dat-ADP(k) (1)</li>
       <li>VERB-Inf--NOUN-Gen (8)</li>
-      <li>VERB-Inf--NOUN-Gen-ADP(od) (2)</li>
       <li>VERB-Inf--NOUN-Ins (2)</li>
-      <li>VERB-Inf--NOUN-Ins-ADP(mezi) (1)</li>
-      <li>VERB-Inf--NOUN-Loc-ADP(o) (15)</li>
-      <li>VERB-Inf--NOUN-Loc-ADP(v) (4)</li>
+      <li>VERB-Inf--NOUN-Loc-ADP(o) (2)</li>
       <li>VERB-Inf--NOUN-Nom (23)</li>
-      <li>VERB-Inf--PRON-Acc (16)</li>
-      <li>VERB-Inf--PRON-Dat-ADP(k) (1)</li>
-      <li>VERB-Inf--PRON-Loc-ADP(na) (1)</li>
-      <li>VERB-Inf--PRON-Loc-ADP(o) (1)</li>
-      <li>VERB-Inf--PRON-Nom (6)</li>
+      <li>VERB-Inf--PRON-Acc (11)</li>
       <li>VERB-Part--NOUN-Acc (25)</li>
-      <li>VERB-Part--NOUN-Acc-ADP(na) (1)</li>
-      <li>VERB-Part--NOUN-Acc-ADP(v) (1)</li>
-      <li>VERB-Part--NOUN-Acc-ADP(za) (1)</li>
-      <li>VERB-Part--NOUN-Dat (2)</li>
-      <li>VERB-Part--NOUN-Dat-ADP(k) (10)</li>
+      <li>VERB-Part--NOUN-Dat (1)</li>
       <li>VERB-Part--NOUN-Gen (2)</li>
-      <li>VERB-Part--NOUN-Gen-ADP(z) (1)</li>
-      <li>VERB-Part--NOUN-Ins (36)</li>
-      <li>VERB-Part--NOUN-Loc-ADP(na) (1)</li>
-      <li>VERB-Part--NOUN-Loc-ADP(o) (3)</li>
+      <li>VERB-Part--NOUN-Ins (6)</li>
       <li>VERB-Part--NOUN-Nom (3)</li>
-      <li>VERB-Part--NOUN-Nom-ADP(k) (1)</li>
-      <li>VERB-Part--NOUN-Nom-ADP(o) (1)</li>
-      <li>VERB-Part--PRON-Acc (14)</li>
-      <li>VERB-Part--PRON-Dat (2)</li>
-      <li>VERB-Part--PRON-Ins (4)</li>
-      <li>VERB-Part--PRON-Loc-ADP(o) (2)</li>
-      <li>VERB-Part--PRON-Nom (1)</li>
+      <li>VERB-Part--PRON-Acc (5)</li>
+      <li>VERB-Part--PRON-Dat (1)</li>
     </ul>
   </li>
 </ul>
@@ -5360,144 +5142,58 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
   <li><a>obj</a>
     <ul>
       <li>VERB-Conv--NOUN-Acc (16)</li>
-      <li>VERB-Conv--NOUN-Acc-ADP(na) (1)</li>
-      <li>VERB-Conv--NOUN-Acc-ADP(v) (1)</li>
       <li>VERB-Conv--NOUN-Dat (2)</li>
       <li>VERB-Conv--NOUN-Gen (1)</li>
       <li>VERB-Conv--NOUN-Ins (3)</li>
       <li>VERB-Conv--PRON-Acc (1)</li>
-      <li>VERB-Conv--PRON-Acc-ADP(na) (1)</li>
       <li>VERB-Conv--PRON-Nom (1)</li>
       <li>VERB-Fin--NOUN-Acc (1128)</li>
-      <li>VERB-Fin--NOUN-Acc-ADP(na) (61)</li>
-      <li>VERB-Fin--NOUN-Acc-ADP(nad) (1)</li>
-      <li>VERB-Fin--NOUN-Acc-ADP(o) (28)</li>
-      <li>VERB-Fin--NOUN-Acc-ADP(pro) (4)</li>
-      <li>VERB-Fin--NOUN-Acc-ADP(v) (7)</li>
-      <li>VERB-Fin--NOUN-Acc-ADP(za) (11)</li>
+      <li>VERB-Fin--NOUN-Acc-ADP(pro) (1)</li>
       <li>VERB-Fin--NOUN-Dat (54)</li>
-      <li>VERB-Fin--NOUN-Dat-ADP(k) (13)</li>
       <li>VERB-Fin--NOUN-Gen (85)</li>
-      <li>VERB-Fin--NOUN-Gen-ADP(do) (8)</li>
-      <li>VERB-Fin--NOUN-Gen-ADP(kolem) (1)</li>
-      <li>VERB-Fin--NOUN-Gen-ADP(o) (2)</li>
-      <li>VERB-Fin--NOUN-Gen-ADP(od) (4)</li>
-      <li>VERB-Fin--NOUN-Gen-ADP(z) (12)</li>
       <li>VERB-Fin--NOUN-Ins (43)</li>
-      <li>VERB-Fin--NOUN-Ins-ADP(nad) (2)</li>
-      <li>VERB-Fin--NOUN-Ins-ADP(s) (26)</li>
-      <li>VERB-Fin--NOUN-Ins-ADP(za) (2)</li>
-      <li>VERB-Fin--NOUN-Loc-ADP(na) (2)</li>
-      <li>VERB-Fin--NOUN-Loc-ADP(o) (17)</li>
-      <li>VERB-Fin--NOUN-Loc-ADP(po) (3)</li>
-      <li>VERB-Fin--NOUN-Loc-ADP(v) (7)</li>
+      <li>VERB-Fin--NOUN-Loc-ADP(o) (3)</li>
       <li>VERB-Fin--NOUN-Nom (3)</li>
       <li>VERB-Fin--PRON (1)</li>
       <li>VERB-Fin--PRON-Acc (731)</li>
-      <li>VERB-Fin--PRON-Acc-ADP(na) (47)</li>
-      <li>VERB-Fin--PRON-Acc-ADP(o) (18)</li>
-      <li>VERB-Fin--PRON-Acc-ADP(pro) (1)</li>
+      <li>VERB-Fin--PRON-Acc-ADP(o) (2)</li>
       <li>VERB-Fin--PRON-Dat (221)</li>
-      <li>VERB-Fin--PRON-Dat-ADP(do) (1)</li>
-      <li>VERB-Fin--PRON-Dat-ADP(k) (2)</li>
       <li>VERB-Fin--PRON-Gen (27)</li>
-      <li>VERB-Fin--PRON-Gen-ADP(do) (2)</li>
-      <li>VERB-Fin--PRON-Gen-ADP(od) (1)</li>
-      <li>VERB-Fin--PRON-Gen-ADP(z) (7)</li>
       <li>VERB-Fin--PRON-Ins (2)</li>
-      <li>VERB-Fin--PRON-Ins-ADP(nad) (1)</li>
-      <li>VERB-Fin--PRON-Ins-ADP(s) (41)</li>
-      <li>VERB-Fin--PRON-Loc-ADP(na) (8)</li>
-      <li>VERB-Fin--PRON-Loc-ADP(o) (13)</li>
-      <li>VERB-Fin--PRON-Loc-ADP(po) (5)</li>
+      <li>VERB-Fin--PRON-Ins-ADP(s) (1)</li>
       <li>VERB-Fin--PRON-Nom (2)</li>
       <li>VERB-Inf--NOUN-Acc (677)</li>
-      <li>VERB-Inf--NOUN-Acc-ADP(na) (52)</li>
-      <li>VERB-Inf--NOUN-Acc-ADP(o) (11)</li>
-      <li>VERB-Inf--NOUN-Acc-ADP(přes) (1)</li>
-      <li>VERB-Inf--NOUN-Acc-ADP(v) (2)</li>
-      <li>VERB-Inf--NOUN-Acc-ADP(za) (3)</li>
+      <li>VERB-Inf--NOUN-Acc-ADP(na) (1)</li>
+      <li>VERB-Inf--NOUN-Acc-ADP(o) (1)</li>
       <li>VERB-Inf--NOUN-Dat (34)</li>
-      <li>VERB-Inf--NOUN-Dat-ADP(k) (3)</li>
       <li>VERB-Inf--NOUN-Gen (45)</li>
-      <li>VERB-Inf--NOUN-Gen-ADP(do) (12)</li>
-      <li>VERB-Inf--NOUN-Gen-ADP(na) (1)</li>
-      <li>VERB-Inf--NOUN-Gen-ADP(z) (6)</li>
+      <li>VERB-Inf--NOUN-Gen-ADP(z) (1)</li>
       <li>VERB-Inf--NOUN-Ins (20)</li>
-      <li>VERB-Inf--NOUN-Ins-ADP(nad) (1)</li>
-      <li>VERB-Inf--NOUN-Ins-ADP(před) (1)</li>
-      <li>VERB-Inf--NOUN-Ins-ADP(s) (17)</li>
-      <li>VERB-Inf--NOUN-Loc-ADP(na) (1)</li>
-      <li>VERB-Inf--NOUN-Loc-ADP(o) (9)</li>
-      <li>VERB-Inf--NOUN-Loc-ADP(po) (2)</li>
-      <li>VERB-Inf--NOUN-Loc-ADP(v) (6)</li>
+      <li>VERB-Inf--NOUN-Loc-ADP(o) (1)</li>
       <li>VERB-Inf--NOUN-Nom (2)</li>
       <li>VERB-Inf--PRON (1)</li>
       <li>VERB-Inf--PRON-Acc (467)</li>
-      <li>VERB-Inf--PRON-Acc-ADP(na) (25)</li>
-      <li>VERB-Inf--PRON-Acc-ADP(o) (11)</li>
-      <li>VERB-Inf--PRON-Acc-ADP(v) (1)</li>
-      <li>VERB-Inf--PRON-Acc-ADP(za) (2)</li>
       <li>VERB-Inf--PRON-Dat (91)</li>
       <li>VERB-Inf--PRON-Gen (13)</li>
-      <li>VERB-Inf--PRON-Gen-ADP(od) (2)</li>
       <li>VERB-Inf--PRON-Ins (3)</li>
-      <li>VERB-Inf--PRON-Ins-ADP(mezi) (1)</li>
-      <li>VERB-Inf--PRON-Ins-ADP(nad) (1)</li>
-      <li>VERB-Inf--PRON-Ins-ADP(před) (1)</li>
-      <li>VERB-Inf--PRON-Ins-ADP(s) (41)</li>
-      <li>VERB-Inf--PRON-Loc-ADP(na) (1)</li>
-      <li>VERB-Inf--PRON-Loc-ADP(o) (7)</li>
       <li>VERB-Inf--PRON-Nom (1)</li>
-      <li>VERB-Inf--PRON-Nom-ADP(proti) (1)</li>
       <li>VERB-Part--NOUN-Acc (2695)</li>
-      <li>VERB-Part--NOUN-Acc-ADP(na) (147)</li>
-      <li>VERB-Part--NOUN-Acc-ADP(o) (38)</li>
-      <li>VERB-Part--NOUN-Acc-ADP(pro) (1)</li>
-      <li>VERB-Part--NOUN-Acc-ADP(v) (15)</li>
-      <li>VERB-Part--NOUN-Acc-ADP(za) (9)</li>
+      <li>VERB-Part--NOUN-Acc-ADP(na) (4)</li>
+      <li>VERB-Part--NOUN-Acc-ADP(o) (2)</li>
+      <li>VERB-Part--NOUN-Acc-ADP(za) (1)</li>
       <li>VERB-Part--NOUN-Dat (123)</li>
-      <li>VERB-Part--NOUN-Dat-ADP(k) (38)</li>
       <li>VERB-Part--NOUN-Gen (157)</li>
-      <li>VERB-Part--NOUN-Gen-ADP(do) (35)</li>
-      <li>VERB-Part--NOUN-Gen-ADP(na) (1)</li>
-      <li>VERB-Part--NOUN-Gen-ADP(od) (6)</li>
-      <li>VERB-Part--NOUN-Gen-ADP(z) (14)</li>
       <li>VERB-Part--NOUN-Ins (128)</li>
-      <li>VERB-Part--NOUN-Ins-ADP(nad) (3)</li>
-      <li>VERB-Part--NOUN-Ins-ADP(před) (2)</li>
-      <li>VERB-Part--NOUN-Ins-ADP(s) (59)</li>
-      <li>VERB-Part--NOUN-Ins-ADP(za) (1)</li>
+      <li>VERB-Part--NOUN-Ins-ADP(s) (2)</li>
       <li>VERB-Part--NOUN-Loc (1)</li>
-      <li>VERB-Part--NOUN-Loc-ADP(na) (16)</li>
-      <li>VERB-Part--NOUN-Loc-ADP(o) (29)</li>
-      <li>VERB-Part--NOUN-Loc-ADP(po) (12)</li>
-      <li>VERB-Part--NOUN-Loc-ADP(v) (8)</li>
+      <li>VERB-Part--NOUN-Loc-ADP(na) (1)</li>
+      <li>VERB-Part--NOUN-Loc-ADP(o) (1)</li>
       <li>VERB-Part--NOUN-Nom (13)</li>
       <li>VERB-Part--PRON (7)</li>
       <li>VERB-Part--PRON-Acc (1314)</li>
-      <li>VERB-Part--PRON-Acc-ADP(na) (117)</li>
-      <li>VERB-Part--PRON-Acc-ADP(o) (14)</li>
-      <li>VERB-Part--PRON-Acc-ADP(pro) (1)</li>
-      <li>VERB-Part--PRON-Acc-ADP(za) (2)</li>
       <li>VERB-Part--PRON-Dat (449)</li>
-      <li>VERB-Part--PRON-Dat-ADP(k) (13)</li>
-      <li>VERB-Part--PRON-Dat-ADP(proti) (2)</li>
       <li>VERB-Part--PRON-Gen (48)</li>
-      <li>VERB-Part--PRON-Gen-ADP(bez) (1)</li>
-      <li>VERB-Part--PRON-Gen-ADP(do) (7)</li>
-      <li>VERB-Part--PRON-Gen-ADP(od) (3)</li>
-      <li>VERB-Part--PRON-Gen-ADP(s) (2)</li>
-      <li>VERB-Part--PRON-Gen-ADP(z) (11)</li>
       <li>VERB-Part--PRON-Ins (17)</li>
-      <li>VERB-Part--PRON-Ins-ADP(nad) (1)</li>
-      <li>VERB-Part--PRON-Ins-ADP(před) (1)</li>
-      <li>VERB-Part--PRON-Ins-ADP(s) (34)</li>
-      <li>VERB-Part--PRON-Ins-ADP(za) (1)</li>
-      <li>VERB-Part--PRON-Loc-ADP(na) (2)</li>
-      <li>VERB-Part--PRON-Loc-ADP(o) (14)</li>
-      <li>VERB-Part--PRON-Loc-ADP(po) (11)</li>
-      <li>VERB-Part--PRON-Loc-ADP(v) (1)</li>
       <li>VERB-Part--PRON-Nom (1)</li>
     </ul>
   </li>
@@ -5512,144 +5208,70 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
     <ul>
       <li>VERB-Conv--PRON-Dat (1)</li>
       <li>VERB-Fin--NOUN (3)</li>
-      <li>VERB-Fin--NOUN-ADP(z) (1)</li>
-      <li>VERB-Fin--NOUN-ADP(za) (1)</li>
       <li>VERB-Fin--NOUN-Acc (145)</li>
-      <li>VERB-Fin--NOUN-Acc-ADP(na) (62)</li>
-      <li>VERB-Fin--NOUN-Acc-ADP(o) (32)</li>
-      <li>VERB-Fin--NOUN-Acc-ADP(pro) (9)</li>
-      <li>VERB-Fin--NOUN-Acc-ADP(v) (25)</li>
-      <li>VERB-Fin--NOUN-Acc-ADP(za) (244)</li>
-      <li>VERB-Fin--NOUN-Dat (553)</li>
-      <li>VERB-Fin--NOUN-Dat-ADP(k) (36)</li>
-      <li>VERB-Fin--NOUN-Dat-ADP(oproti) (1)</li>
-      <li>VERB-Fin--NOUN-Dat-ADP(proti) (2)</li>
-      <li>VERB-Fin--NOUN-Dat-ADP(vůči) (1)</li>
+      <li>VERB-Fin--NOUN-Acc-ADP(na) (1)</li>
+      <li>VERB-Fin--NOUN-Acc-ADP(o) (1)</li>
+      <li>VERB-Fin--NOUN-Acc-ADP(v) (1)</li>
+      <li>VERB-Fin--NOUN-Acc-ADP(za) (4)</li>
+      <li>VERB-Fin--NOUN-Dat (552)</li>
+      <li>VERB-Fin--NOUN-Dat-ADP(k) (1)</li>
       <li>VERB-Fin--NOUN-Gen (22)</li>
-      <li>VERB-Fin--NOUN-Gen-ADP(do) (9)</li>
-      <li>VERB-Fin--NOUN-Gen-ADP(na) (14)</li>
-      <li>VERB-Fin--NOUN-Gen-ADP(o) (2)</li>
-      <li>VERB-Fin--NOUN-Gen-ADP(od) (64)</li>
-      <li>VERB-Fin--NOUN-Gen-ADP(pro) (1)</li>
-      <li>VERB-Fin--NOUN-Gen-ADP(z) (43)</li>
-      <li>VERB-Fin--NOUN-Gen-ADP(za) (3)</li>
+      <li>VERB-Fin--NOUN-Gen-ADP(na) (1)</li>
+      <li>VERB-Fin--NOUN-Gen-ADP(od) (5)</li>
       <li>VERB-Fin--NOUN-Ins (62)</li>
-      <li>VERB-Fin--NOUN-Ins-ADP(nad) (2)</li>
-      <li>VERB-Fin--NOUN-Ins-ADP(pod) (4)</li>
-      <li>VERB-Fin--NOUN-Ins-ADP(před) (19)</li>
-      <li>VERB-Fin--NOUN-Ins-ADP(s) (81)</li>
-      <li>VERB-Fin--NOUN-Loc-ADP(na) (37)</li>
-      <li>VERB-Fin--NOUN-Loc-ADP(o) (70)</li>
-      <li>VERB-Fin--NOUN-Loc-ADP(po) (5)</li>
-      <li>VERB-Fin--NOUN-Loc-ADP(v) (16)</li>
+      <li>VERB-Fin--NOUN-Ins-ADP(před) (3)</li>
+      <li>VERB-Fin--NOUN-Ins-ADP(s) (10)</li>
+      <li>VERB-Fin--NOUN-Loc-ADP(o) (4)</li>
       <li>VERB-Fin--NOUN-Nom (4)</li>
       <li>VERB-Fin--PRON-Acc (79)</li>
-      <li>VERB-Fin--PRON-Acc-ADP(na) (3)</li>
       <li>VERB-Fin--PRON-Acc-ADP(o) (1)</li>
-      <li>VERB-Fin--PRON-Acc-ADP(pro) (5)</li>
-      <li>VERB-Fin--PRON-Acc-ADP(za) (5)</li>
-      <li>VERB-Fin--PRON-Dat (594)</li>
-      <li>VERB-Fin--PRON-Dat-ADP(k) (1)</li>
+      <li>VERB-Fin--PRON-Dat (592)</li>
       <li>VERB-Fin--PRON-Gen (3)</li>
-      <li>VERB-Fin--PRON-Gen-ADP(od) (19)</li>
-      <li>VERB-Fin--PRON-Gen-ADP(z) (11)</li>
       <li>VERB-Fin--PRON-Ins (5)</li>
-      <li>VERB-Fin--PRON-Ins-ADP(s) (12)</li>
-      <li>VERB-Fin--PRON-Loc-ADP(na) (2)</li>
-      <li>VERB-Fin--PRON-Loc-ADP(o) (31)</li>
-      <li>VERB-Fin--PRON-Loc-ADP(v) (1)</li>
       <li>VERB-Fin--PRON-Nom (1)</li>
       <li>VERB-Inf--NOUN (2)</li>
-      <li>VERB-Inf--NOUN-ADP(z) (1)</li>
       <li>VERB-Inf--NOUN-Acc (59)</li>
       <li>VERB-Inf--NOUN-Acc-ADP(mezi) (1)</li>
-      <li>VERB-Inf--NOUN-Acc-ADP(na) (67)</li>
-      <li>VERB-Inf--NOUN-Acc-ADP(o) (22)</li>
-      <li>VERB-Inf--NOUN-Acc-ADP(pro) (5)</li>
-      <li>VERB-Inf--NOUN-Acc-ADP(přes) (1)</li>
-      <li>VERB-Inf--NOUN-Acc-ADP(v) (35)</li>
-      <li>VERB-Inf--NOUN-Acc-ADP(za) (75)</li>
+      <li>VERB-Inf--NOUN-Acc-ADP(na) (3)</li>
+      <li>VERB-Inf--NOUN-Acc-ADP(o) (2)</li>
+      <li>VERB-Inf--NOUN-Acc-ADP(za) (1)</li>
       <li>VERB-Inf--NOUN-Dat (433)</li>
-      <li>VERB-Inf--NOUN-Dat-ADP(k) (29)</li>
-      <li>VERB-Inf--NOUN-Dat-ADP(proti) (1)</li>
       <li>VERB-Inf--NOUN-Gen (18)</li>
-      <li>VERB-Inf--NOUN-Gen-ADP(do) (11)</li>
-      <li>VERB-Inf--NOUN-Gen-ADP(na) (8)</li>
-      <li>VERB-Inf--NOUN-Gen-ADP(o) (5)</li>
-      <li>VERB-Inf--NOUN-Gen-ADP(od) (50)</li>
-      <li>VERB-Inf--NOUN-Gen-ADP(z) (42)</li>
-      <li>VERB-Inf--NOUN-Gen-ADP(za) (3)</li>
+      <li>VERB-Inf--NOUN-Gen-ADP(od) (1)</li>
+      <li>VERB-Inf--NOUN-Gen-ADP(z) (2)</li>
       <li>VERB-Inf--NOUN-Ins (69)</li>
-      <li>VERB-Inf--NOUN-Ins-ADP(před) (16)</li>
-      <li>VERB-Inf--NOUN-Ins-ADP(s) (97)</li>
-      <li>VERB-Inf--NOUN-Loc-ADP(na) (15)</li>
-      <li>VERB-Inf--NOUN-Loc-ADP(o) (40)</li>
-      <li>VERB-Inf--NOUN-Loc-ADP(při) (1)</li>
-      <li>VERB-Inf--NOUN-Loc-ADP(v) (3)</li>
+      <li>VERB-Inf--NOUN-Ins-ADP(před) (2)</li>
+      <li>VERB-Inf--NOUN-Ins-ADP(s) (4)</li>
+      <li>VERB-Inf--NOUN-Loc-ADP(o) (4)</li>
+      <li>VERB-Inf--NOUN-Loc-ADP(v) (1)</li>
       <li>VERB-Inf--NOUN-Nom (2)</li>
       <li>VERB-Inf--PRON-Acc (28)</li>
-      <li>VERB-Inf--PRON-Acc-ADP(na) (10)</li>
-      <li>VERB-Inf--PRON-Acc-ADP(o) (2)</li>
-      <li>VERB-Inf--PRON-Acc-ADP(pro) (2)</li>
-      <li>VERB-Inf--PRON-Acc-ADP(za) (6)</li>
-      <li>VERB-Inf--PRON-Dat (355)</li>
-      <li>VERB-Inf--PRON-Dat-ADP(k) (2)</li>
+      <li>VERB-Inf--PRON-Dat (354)</li>
       <li>VERB-Inf--PRON-Gen (1)</li>
-      <li>VERB-Inf--PRON-Gen-ADP(od) (6)</li>
-      <li>VERB-Inf--PRON-Gen-ADP(z) (7)</li>
       <li>VERB-Inf--PRON-Ins (7)</li>
-      <li>VERB-Inf--PRON-Ins-ADP(před) (1)</li>
-      <li>VERB-Inf--PRON-Ins-ADP(s) (9)</li>
-      <li>VERB-Inf--PRON-Loc-ADP(na) (1)</li>
-      <li>VERB-Inf--PRON-Loc-ADP(o) (8)</li>
-      <li>VERB-Inf--PRON-Loc-ADP(po) (1)</li>
       <li>VERB-Part--NOUN (4)</li>
-      <li>VERB-Part--NOUN-ADP(o) (1)</li>
-      <li>VERB-Part--NOUN-ADP(od) (1)</li>
-      <li>VERB-Part--NOUN-ADP(v) (1)</li>
       <li>VERB-Part--NOUN-Acc (194)</li>
       <li>VERB-Part--NOUN-Acc-ADP(mezi) (1)</li>
-      <li>VERB-Part--NOUN-Acc-ADP(na) (109)</li>
-      <li>VERB-Part--NOUN-Acc-ADP(o) (60)</li>
-      <li>VERB-Part--NOUN-Acc-ADP(pro) (6)</li>
-      <li>VERB-Part--NOUN-Acc-ADP(v) (10)</li>
-      <li>VERB-Part--NOUN-Acc-ADP(za) (200)</li>
-      <li>VERB-Part--NOUN-Dat (712)</li>
-      <li>VERB-Part--NOUN-Dat-ADP(k) (67)</li>
-      <li>VERB-Part--NOUN-Dat-ADP(proti) (3)</li>
-      <li>VERB-Part--NOUN-Gen (31)</li>
-      <li>VERB-Part--NOUN-Gen-ADP(do) (3)</li>
-      <li>VERB-Part--NOUN-Gen-ADP(na) (15)</li>
-      <li>VERB-Part--NOUN-Gen-ADP(o) (4)</li>
-      <li>VERB-Part--NOUN-Gen-ADP(od) (60)</li>
-      <li>VERB-Part--NOUN-Gen-ADP(z) (69)</li>
-      <li>VERB-Part--NOUN-Gen-ADP(za) (3)</li>
+      <li>VERB-Part--NOUN-Acc-ADP(na) (2)</li>
+      <li>VERB-Part--NOUN-Acc-ADP(o) (2)</li>
+      <li>VERB-Part--NOUN-Acc-ADP(pro) (1)</li>
+      <li>VERB-Part--NOUN-Acc-ADP(za) (6)</li>
+      <li>VERB-Part--NOUN-Dat (711)</li>
+      <li>VERB-Part--NOUN-Dat-ADP(k) (1)</li>
+      <li>VERB-Part--NOUN-Gen (30)</li>
+      <li>VERB-Part--NOUN-Gen-ADP(od) (1)</li>
+      <li>VERB-Part--NOUN-Gen-ADP(za) (1)</li>
       <li>VERB-Part--NOUN-Ins (92)</li>
-      <li>VERB-Part--NOUN-Ins-ADP(před) (10)</li>
-      <li>VERB-Part--NOUN-Ins-ADP(s) (87)</li>
-      <li>VERB-Part--NOUN-Loc-ADP(na) (30)</li>
-      <li>VERB-Part--NOUN-Loc-ADP(o) (66)</li>
-      <li>VERB-Part--NOUN-Loc-ADP(po) (2)</li>
-      <li>VERB-Part--NOUN-Loc-ADP(v) (13)</li>
+      <li>VERB-Part--NOUN-Ins-ADP(před) (1)</li>
+      <li>VERB-Part--NOUN-Ins-ADP(s) (3)</li>
+      <li>VERB-Part--NOUN-Loc-ADP(na) (1)</li>
+      <li>VERB-Part--NOUN-Loc-ADP(o) (2)</li>
       <li>VERB-Part--NOUN-Nom (9)</li>
       <li>VERB-Part--PRON-Acc (113)</li>
-      <li>VERB-Part--PRON-Acc-ADP(na) (17)</li>
-      <li>VERB-Part--PRON-Acc-ADP(o) (2)</li>
-      <li>VERB-Part--PRON-Acc-ADP(pro) (4)</li>
-      <li>VERB-Part--PRON-Acc-ADP(za) (13)</li>
       <li>VERB-Part--PRON-Dat (822)</li>
-      <li>VERB-Part--PRON-Dat-ADP(k) (4)</li>
       <li>VERB-Part--PRON-Gen (12)</li>
-      <li>VERB-Part--PRON-Gen-ADP(do) (2)</li>
-      <li>VERB-Part--PRON-Gen-ADP(od) (13)</li>
-      <li>VERB-Part--PRON-Gen-ADP(z) (8)</li>
+      <li>VERB-Part--PRON-Gen-ADP(do) (1)</li>
       <li>VERB-Part--PRON-Ins (3)</li>
-      <li>VERB-Part--PRON-Ins-ADP(mezi) (1)</li>
-      <li>VERB-Part--PRON-Ins-ADP(před) (1)</li>
-      <li>VERB-Part--PRON-Ins-ADP(s) (19)</li>
-      <li>VERB-Part--PRON-Loc-ADP(na) (6)</li>
-      <li>VERB-Part--PRON-Loc-ADP(o) (14)</li>
-      <li>VERB-Part--PRON-Loc-ADP(po) (3)</li>
     </ul>
   </li>
 </ul>
@@ -5660,111 +5282,59 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
   <li><a>iobj</a>
     <ul>
       <li>VERB-Fin--NOUN (3)</li>
-      <li>VERB-Fin--NOUN-ADP(za) (1)</li>
       <li>VERB-Fin--NOUN-Acc (45)</li>
       <li>VERB-Fin--NOUN-Acc-ADP(mezi) (1)</li>
-      <li>VERB-Fin--NOUN-Acc-ADP(na) (40)</li>
-      <li>VERB-Fin--NOUN-Acc-ADP(o) (8)</li>
+      <li>VERB-Fin--NOUN-Acc-ADP(na) (9)</li>
+      <li>VERB-Fin--NOUN-Acc-ADP(o) (1)</li>
       <li>VERB-Fin--NOUN-Acc-ADP(pro) (1)</li>
-      <li>VERB-Fin--NOUN-Acc-ADP(před) (1)</li>
-      <li>VERB-Fin--NOUN-Acc-ADP(v) (10)</li>
-      <li>VERB-Fin--NOUN-Acc-ADP(za) (53)</li>
+      <li>VERB-Fin--NOUN-Acc-ADP(za) (1)</li>
       <li>VERB-Fin--NOUN-Dat (173)</li>
-      <li>VERB-Fin--NOUN-Dat-ADP(k) (18)</li>
-      <li>VERB-Fin--NOUN-Dat-ADP(proti) (1)</li>
       <li>VERB-Fin--NOUN-Gen (10)</li>
       <li>VERB-Fin--NOUN-Gen-ADP(blízko) (1)</li>
-      <li>VERB-Fin--NOUN-Gen-ADP(na) (2)</li>
-      <li>VERB-Fin--NOUN-Gen-ADP(od) (26)</li>
-      <li>VERB-Fin--NOUN-Gen-ADP(z) (17)</li>
+      <li>VERB-Fin--NOUN-Gen-ADP(z) (2)</li>
       <li>VERB-Fin--NOUN-Ins (53)</li>
-      <li>VERB-Fin--NOUN-Ins-ADP(pod) (1)</li>
-      <li>VERB-Fin--NOUN-Ins-ADP(před) (11)</li>
-      <li>VERB-Fin--NOUN-Ins-ADP(s) (33)</li>
-      <li>VERB-Fin--NOUN-Loc-ADP(na) (1)</li>
-      <li>VERB-Fin--NOUN-Loc-ADP(o) (11)</li>
-      <li>VERB-Fin--NOUN-Loc-ADP(v) (5)</li>
+      <li>VERB-Fin--NOUN-Ins-ADP(před) (3)</li>
+      <li>VERB-Fin--NOUN-Loc-ADP(o) (1)</li>
       <li>VERB-Fin--NOUN-Nom (12)</li>
       <li>VERB-Fin--PRON-Acc (27)</li>
-      <li>VERB-Fin--PRON-Acc-ADP(na) (2)</li>
-      <li>VERB-Fin--PRON-Dat (188)</li>
+      <li>VERB-Fin--PRON-Dat (187)</li>
       <li>VERB-Fin--PRON-Gen (1)</li>
-      <li>VERB-Fin--PRON-Gen-ADP(od) (3)</li>
-      <li>VERB-Fin--PRON-Gen-ADP(z) (3)</li>
       <li>VERB-Fin--PRON-Ins (1)</li>
-      <li>VERB-Fin--PRON-Ins-ADP(s) (2)</li>
-      <li>VERB-Fin--PRON-Loc-ADP(na) (3)</li>
-      <li>VERB-Fin--PRON-Loc-ADP(o) (5)</li>
       <li>VERB-Fin--PRON-Nom (2)</li>
       <li>VERB-Inf--NOUN (2)</li>
       <li>VERB-Inf--NOUN-Acc (19)</li>
-      <li>VERB-Inf--NOUN-Acc-ADP(na) (44)</li>
-      <li>VERB-Inf--NOUN-Acc-ADP(o) (5)</li>
-      <li>VERB-Inf--NOUN-Acc-ADP(v) (9)</li>
-      <li>VERB-Inf--NOUN-Acc-ADP(za) (26)</li>
+      <li>VERB-Inf--NOUN-Acc-ADP(na) (4)</li>
+      <li>VERB-Inf--NOUN-Acc-ADP(o) (1)</li>
+      <li>VERB-Inf--NOUN-Acc-ADP(za) (1)</li>
       <li>VERB-Inf--NOUN-Dat (160)</li>
-      <li>VERB-Inf--NOUN-Dat-ADP(k) (18)</li>
-      <li>VERB-Inf--NOUN-Dat-ADP(proti) (1)</li>
-      <li>VERB-Inf--NOUN-Dat-ADP(vůči) (1)</li>
+      <li>VERB-Inf--NOUN-Dat-ADP(k) (1)</li>
       <li>VERB-Inf--NOUN-Gen (8)</li>
-      <li>VERB-Inf--NOUN-Gen-ADP(do) (16)</li>
-      <li>VERB-Inf--NOUN-Gen-ADP(na) (1)</li>
-      <li>VERB-Inf--NOUN-Gen-ADP(od) (23)</li>
-      <li>VERB-Inf--NOUN-Gen-ADP(u) (1)</li>
-      <li>VERB-Inf--NOUN-Gen-ADP(z) (26)</li>
+      <li>VERB-Inf--NOUN-Gen-ADP(do) (1)</li>
+      <li>VERB-Inf--NOUN-Gen-ADP(z) (1)</li>
       <li>VERB-Inf--NOUN-Ins (36)</li>
       <li>VERB-Inf--NOUN-Ins-ADP(*) (1)</li>
-      <li>VERB-Inf--NOUN-Ins-ADP(před) (12)</li>
-      <li>VERB-Inf--NOUN-Ins-ADP(s) (49)</li>
-      <li>VERB-Inf--NOUN-Loc-ADP(o) (7)</li>
-      <li>VERB-Inf--NOUN-Loc-ADP(v) (3)</li>
+      <li>VERB-Inf--NOUN-Ins-ADP(před) (3)</li>
+      <li>VERB-Inf--NOUN-Ins-ADP(s) (5)</li>
       <li>VERB-Inf--NOUN-Nom (3)</li>
       <li>VERB-Inf--PRON-Acc (6)</li>
-      <li>VERB-Inf--PRON-Acc-ADP(na) (1)</li>
-      <li>VERB-Inf--PRON-Acc-ADP(za) (2)</li>
       <li>VERB-Inf--PRON-Dat (67)</li>
-      <li>VERB-Inf--PRON-Gen-ADP(od) (4)</li>
-      <li>VERB-Inf--PRON-Gen-ADP(z) (4)</li>
-      <li>VERB-Inf--PRON-Ins-ADP(s) (2)</li>
-      <li>VERB-Inf--PRON-Loc-ADP(na) (3)</li>
-      <li>VERB-Inf--PRON-Loc-ADP(o) (4)</li>
-      <li>VERB-Inf--PRON-Loc-ADP(v) (1)</li>
       <li>VERB-Part--NOUN (1)</li>
-      <li>VERB-Part--NOUN-ADP(s) (1)</li>
       <li>VERB-Part--NOUN-Acc (42)</li>
-      <li>VERB-Part--NOUN-Acc-ADP(na) (15)</li>
-      <li>VERB-Part--NOUN-Acc-ADP(o) (5)</li>
-      <li>VERB-Part--NOUN-Acc-ADP(v) (4)</li>
-      <li>VERB-Part--NOUN-Acc-ADP(za) (18)</li>
+      <li>VERB-Part--NOUN-Acc-ADP(na) (1)</li>
       <li>VERB-Part--NOUN-Dat (130)</li>
-      <li>VERB-Part--NOUN-Dat-ADP(k) (14)</li>
-      <li>VERB-Part--NOUN-Dat-ADP(proti) (3)</li>
-      <li>VERB-Part--NOUN-Dat-ADP(vůči) (1)</li>
       <li>VERB-Part--NOUN-Gen (10)</li>
-      <li>VERB-Part--NOUN-Gen-ADP(do) (2)</li>
-      <li>VERB-Part--NOUN-Gen-ADP(o) (2)</li>
-      <li>VERB-Part--NOUN-Gen-ADP(od) (7)</li>
-      <li>VERB-Part--NOUN-Gen-ADP(z) (16)</li>
-      <li>VERB-Part--NOUN-Gen-ADP(za) (1)</li>
+      <li>VERB-Part--NOUN-Gen-ADP(od) (1)</li>
       <li>VERB-Part--NOUN-Ins (23)</li>
-      <li>VERB-Part--NOUN-Ins-ADP(před) (2)</li>
-      <li>VERB-Part--NOUN-Ins-ADP(s) (34)</li>
-      <li>VERB-Part--NOUN-Loc-ADP(na) (2)</li>
-      <li>VERB-Part--NOUN-Loc-ADP(o) (12)</li>
-      <li>VERB-Part--NOUN-Loc-ADP(v) (5)</li>
+      <li>VERB-Part--NOUN-Ins-ADP(s) (4)</li>
+      <li>VERB-Part--NOUN-Loc-ADP(na) (1)</li>
+      <li>VERB-Part--NOUN-Loc-ADP(o) (1)</li>
+      <li>VERB-Part--NOUN-Loc-ADP(v) (2)</li>
       <li>VERB-Part--NOUN-Nom (5)</li>
       <li>VERB-Part--PRON (2)</li>
       <li>VERB-Part--PRON-Acc (21)</li>
-      <li>VERB-Part--PRON-Acc-ADP(na) (1)</li>
-      <li>VERB-Part--PRON-Acc-ADP(o) (2)</li>
-      <li>VERB-Part--PRON-Acc-ADP(za) (1)</li>
       <li>VERB-Part--PRON-Dat (137)</li>
       <li>VERB-Part--PRON-Gen (3)</li>
-      <li>VERB-Part--PRON-Gen-ADP(od) (3)</li>
-      <li>VERB-Part--PRON-Gen-ADP(z) (3)</li>
       <li>VERB-Part--PRON-Ins (1)</li>
-      <li>VERB-Part--PRON-Ins-ADP(s) (3)</li>
-      <li>VERB-Part--PRON-Loc-ADP(o) (1)</li>
     </ul>
   </li>
 </ul>
@@ -5775,21 +5345,11 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
   <li><a>iobj</a>
     <ul>
       <li>VERB-Fin--NOUN-Acc (2)</li>
-      <li>VERB-Fin--NOUN-Acc-ADP(v) (1)</li>
       <li>VERB-Fin--NOUN-Dat (5)</li>
       <li>VERB-Fin--NOUN-Ins (1)</li>
-      <li>VERB-Fin--NOUN-Ins-ADP(s) (1)</li>
-      <li>VERB-Fin--PRON-Dat (5)</li>
-      <li>VERB-Fin--PRON-Loc-ADP(o) (2)</li>
-      <li>VERB-Inf--NOUN-Acc-ADP(na) (1)</li>
-      <li>VERB-Inf--NOUN-Acc-ADP(v) (1)</li>
-      <li>VERB-Inf--NOUN-Acc-ADP(za) (2)</li>
-      <li>VERB-Inf--NOUN-Dat (5)</li>
+      <li>VERB-Fin--PRON-Dat (3)</li>
+      <li>VERB-Inf--NOUN-Dat (4)</li>
       <li>VERB-Inf--NOUN-Ins (3)</li>
-      <li>VERB-Inf--NOUN-Ins-ADP(s) (3)</li>
-      <li>VERB-Inf--NOUN-Loc-ADP(o) (1)</li>
-      <li>VERB-Part--NOUN-Acc-ADP(za) (1)</li>
-      <li>VERB-Part--NOUN-Ins-ADP(s) (2)</li>
       <li>VERB-Part--PRON-Acc (1)</li>
     </ul>
   </li>
@@ -5846,101 +5406,36 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Conv--PRON-Acc (1)</li>
       <li>VERB-Conv--PRON-Dat (1)</li>
       <li>VERB-Fin--NOUN-Acc (21)</li>
-      <li>VERB-Fin--NOUN-Acc-ADP(na) (5)</li>
-      <li>VERB-Fin--NOUN-Acc-ADP(o) (3)</li>
-      <li>VERB-Fin--NOUN-Acc-ADP(v) (2)</li>
-      <li>VERB-Fin--NOUN-Acc-ADP(za) (13)</li>
+      <li>VERB-Fin--NOUN-Acc-ADP(na) (1)</li>
       <li>VERB-Fin--NOUN-Dat (34)</li>
-      <li>VERB-Fin--NOUN-Dat-ADP(k) (1)</li>
       <li>VERB-Fin--NOUN-Gen (4)</li>
-      <li>VERB-Fin--NOUN-Gen-ADP(do) (1)</li>
-      <li>VERB-Fin--NOUN-Gen-ADP(na) (1)</li>
-      <li>VERB-Fin--NOUN-Gen-ADP(od) (2)</li>
-      <li>VERB-Fin--NOUN-Gen-ADP(z) (7)</li>
       <li>VERB-Fin--NOUN-Ins (8)</li>
-      <li>VERB-Fin--NOUN-Ins-ADP(před) (2)</li>
-      <li>VERB-Fin--NOUN-Ins-ADP(s) (6)</li>
-      <li>VERB-Fin--NOUN-Ins-ADP(za) (1)</li>
-      <li>VERB-Fin--NOUN-Loc-ADP(na) (1)</li>
-      <li>VERB-Fin--NOUN-Loc-ADP(o) (4)</li>
-      <li>VERB-Fin--NOUN-Loc-ADP(v) (3)</li>
+      <li>VERB-Fin--NOUN-Ins-ADP(před) (1)</li>
+      <li>VERB-Fin--NOUN-Ins-ADP(s) (1)</li>
       <li>VERB-Fin--PRON-Acc (46)</li>
-      <li>VERB-Fin--PRON-Acc-ADP(na) (1)</li>
-      <li>VERB-Fin--PRON-Acc-ADP(za) (2)</li>
       <li>VERB-Fin--PRON-Dat (208)</li>
-      <li>VERB-Fin--PRON-Dat-ADP(k) (1)</li>
       <li>VERB-Fin--PRON-Gen (3)</li>
-      <li>VERB-Fin--PRON-Gen-ADP(od) (9)</li>
-      <li>VERB-Fin--PRON-Gen-ADP(z) (5)</li>
       <li>VERB-Fin--PRON-Ins (1)</li>
-      <li>VERB-Fin--PRON-Ins-ADP(před) (2)</li>
-      <li>VERB-Fin--PRON-Ins-ADP(s) (3)</li>
-      <li>VERB-Fin--PRON-Loc-ADP(o) (11)</li>
-      <li>VERB-Fin--PRON-Loc-ADP(po) (1)</li>
       <li>VERB-Inf--NOUN-Acc (10)</li>
-      <li>VERB-Inf--NOUN-Acc-ADP(na) (1)</li>
-      <li>VERB-Inf--NOUN-Acc-ADP(v) (2)</li>
-      <li>VERB-Inf--NOUN-Acc-ADP(za) (4)</li>
       <li>VERB-Inf--NOUN-Dat (26)</li>
-      <li>VERB-Inf--NOUN-Dat-ADP(k) (1)</li>
       <li>VERB-Inf--NOUN-Gen (1)</li>
-      <li>VERB-Inf--NOUN-Gen-ADP(na) (1)</li>
-      <li>VERB-Inf--NOUN-Gen-ADP(od) (3)</li>
-      <li>VERB-Inf--NOUN-Gen-ADP(z) (4)</li>
-      <li>VERB-Inf--NOUN-Gen-ADP(za) (1)</li>
       <li>VERB-Inf--NOUN-Ins (5)</li>
-      <li>VERB-Inf--NOUN-Ins-ADP(před) (8)</li>
-      <li>VERB-Inf--NOUN-Ins-ADP(s) (6)</li>
-      <li>VERB-Inf--NOUN-Loc-ADP(o) (2)</li>
-      <li>VERB-Inf--NOUN-Loc-ADP(v) (1)</li>
       <li>VERB-Inf--PRON-Acc (13)</li>
-      <li>VERB-Inf--PRON-Acc-ADP(na) (1)</li>
-      <li>VERB-Inf--PRON-Acc-ADP(o) (1)</li>
-      <li>VERB-Inf--PRON-Acc-ADP(za) (3)</li>
       <li>VERB-Inf--PRON-Dat (119)</li>
       <li>VERB-Inf--PRON-Gen (3)</li>
-      <li>VERB-Inf--PRON-Gen-ADP(do) (1)</li>
-      <li>VERB-Inf--PRON-Gen-ADP(z) (1)</li>
       <li>VERB-Inf--PRON-Ins (2)</li>
-      <li>VERB-Inf--PRON-Ins-ADP(před) (3)</li>
-      <li>VERB-Inf--PRON-Ins-ADP(s) (4)</li>
-      <li>VERB-Inf--PRON-Loc-ADP(na) (1)</li>
-      <li>VERB-Inf--PRON-Loc-ADP(o) (2)</li>
       <li>VERB-Part--NOUN-Acc (57)</li>
-      <li>VERB-Part--NOUN-Acc-ADP(na) (16)</li>
-      <li>VERB-Part--NOUN-Acc-ADP(o) (16)</li>
-      <li>VERB-Part--NOUN-Acc-ADP(pro) (1)</li>
-      <li>VERB-Part--NOUN-Acc-ADP(v) (4)</li>
-      <li>VERB-Part--NOUN-Acc-ADP(za) (12)</li>
+      <li>VERB-Part--NOUN-Acc-ADP(v) (1)</li>
+      <li>VERB-Part--NOUN-Acc-ADP(za) (1)</li>
       <li>VERB-Part--NOUN-Dat (97)</li>
-      <li>VERB-Part--NOUN-Dat-ADP(k) (8)</li>
-      <li>VERB-Part--NOUN-Dat-ADP(proti) (2)</li>
       <li>VERB-Part--NOUN-Gen (20)</li>
-      <li>VERB-Part--NOUN-Gen-ADP(do) (7)</li>
-      <li>VERB-Part--NOUN-Gen-ADP(od) (10)</li>
-      <li>VERB-Part--NOUN-Gen-ADP(z) (17)</li>
-      <li>VERB-Part--NOUN-Gen-ADP(za) (1)</li>
+      <li>VERB-Part--NOUN-Gen-ADP(do) (1)</li>
+      <li>VERB-Part--NOUN-Gen-ADP(od) (1)</li>
+      <li>VERB-Part--NOUN-Gen-ADP(z) (1)</li>
       <li>VERB-Part--NOUN-Ins (20)</li>
-      <li>VERB-Part--NOUN-Ins-ADP(před) (5)</li>
-      <li>VERB-Part--NOUN-Ins-ADP(s) (12)</li>
-      <li>VERB-Part--NOUN-Loc-ADP(na) (1)</li>
-      <li>VERB-Part--NOUN-Loc-ADP(o) (7)</li>
-      <li>VERB-Part--NOUN-Loc-ADP(v) (2)</li>
       <li>VERB-Part--PRON-Acc (79)</li>
-      <li>VERB-Part--PRON-Acc-ADP(na) (16)</li>
-      <li>VERB-Part--PRON-Acc-ADP(o) (4)</li>
-      <li>VERB-Part--PRON-Acc-ADP(pro) (1)</li>
-      <li>VERB-Part--PRON-Acc-ADP(za) (1)</li>
       <li>VERB-Part--PRON-Dat (463)</li>
-      <li>VERB-Part--PRON-Dat-ADP(k) (1)</li>
       <li>VERB-Part--PRON-Gen (21)</li>
-      <li>VERB-Part--PRON-Gen-ADP(od) (7)</li>
-      <li>VERB-Part--PRON-Gen-ADP(z) (2)</li>
-      <li>VERB-Part--PRON-Ins-ADP(s) (4)</li>
-      <li>VERB-Part--PRON-Ins-ADP(se) (1)</li>
-      <li>VERB-Part--PRON-Loc-ADP(na) (3)</li>
-      <li>VERB-Part--PRON-Loc-ADP(o) (5)</li>
-      <li>VERB-Part--PRON-Loc-ADP(po) (2)</li>
     </ul>
   </li>
 </ul>
@@ -5952,7 +5447,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus uses 10 relation subtypes: <a>advmod:emph</a>, <a>aux:pass</a>, <a>csubj:pass</a>, <a>det:numgov</a>, <a>det:nummod</a>, <a>expl:pass</a>, <a>expl:pv</a>, <a>flat:foreign</a>, <a>nsubj:pass</a>, <a>nummod:gov</a></li>
+<li>This corpus uses 11 relation subtypes: <a>advmod:emph</a>, <a>aux:pass</a>, <a>csubj:pass</a>, <a>det:numgov</a>, <a>det:nummod</a>, <a>expl:pass</a>, <a>expl:pv</a>, <a>flat:foreign</a>, <a>nsubj:pass</a>, <a>nummod:gov</a>, <a>obl:arg</a></li>
 <li>The following 1 main types are not used alone, they are always subtyped: <a>expl</a></li>
 <li>The following 5 relation types are not used in this corpus at all: <a>dislocated</a>, <a>clf</a>, <a>list</a>, <a>goeswith</a>, <a>reparandum</a></li>
 </ul>
@@ -5962,7 +5457,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus uses 10 relation subtypes: <a>advmod:emph</a>, <a>aux:pass</a>, <a>csubj:pass</a>, <a>det:numgov</a>, <a>det:nummod</a>, <a>expl:pass</a>, <a>expl:pv</a>, <a>flat:foreign</a>, <a>nsubj:pass</a>, <a>nummod:gov</a></li>
+<li>This corpus uses 11 relation subtypes: <a>advmod:emph</a>, <a>aux:pass</a>, <a>csubj:pass</a>, <a>det:numgov</a>, <a>det:nummod</a>, <a>expl:pass</a>, <a>expl:pv</a>, <a>flat:foreign</a>, <a>nsubj:pass</a>, <a>nummod:gov</a>, <a>obl:arg</a></li>
 <li>The following 1 main types are not used alone, they are always subtyped: <a>expl</a></li>
 <li>The following 5 relation types are not used in this corpus at all: <a>dislocated</a>, <a>clf</a>, <a>list</a>, <a>goeswith</a>, <a>reparandum</a></li>
 </ul>
@@ -5972,9 +5467,9 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus uses 8 relation subtypes: <a>advmod:emph</a>, <a>aux:pass</a>, <a>csubj:pass</a>, <a>det:nummod</a>, <a>expl:pass</a>, <a>expl:pv</a>, <a>nsubj:pass</a>, <a>nummod:gov</a></li>
+<li>This corpus uses 9 relation subtypes: <a>advmod:emph</a>, <a>aux:pass</a>, <a>csubj:pass</a>, <a>det:nummod</a>, <a>expl:pass</a>, <a>expl:pv</a>, <a>nsubj:pass</a>, <a>nummod:gov</a>, <a>obl:arg</a></li>
 <li>The following 1 main types are not used alone, they are always subtyped: <a>expl</a></li>
-<li>The following 7 relation types are not used in this corpus at all: <a>vocative</a>, <a>dislocated</a>, <a>discourse</a>, <a>clf</a>, <a>list</a>, <a>goeswith</a>, <a>reparandum</a></li>
+<li>The following 8 relation types are not used in this corpus at all: <a>vocative</a>, <a>dislocated</a>, <a>discourse</a>, <a>clf</a>, <a>flat</a>, <a>list</a>, <a>goeswith</a>, <a>reparandum</a></li>
 </ul>
 
   </td>
@@ -5992,7 +5487,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus uses 9 relation subtypes: <a>advmod:emph</a>, <a>aux:pass</a>, <a>csubj:pass</a>, <a>det:numgov</a>, <a>det:nummod</a>, <a>expl:pass</a>, <a>expl:pv</a>, <a>nsubj:pass</a>, <a>nummod:gov</a></li>
+<li>This corpus uses 10 relation subtypes: <a>advmod:emph</a>, <a>aux:pass</a>, <a>csubj:pass</a>, <a>det:numgov</a>, <a>det:nummod</a>, <a>expl:pass</a>, <a>expl:pv</a>, <a>nsubj:pass</a>, <a>nummod:gov</a>, <a>obl:arg</a></li>
 <li>The following 1 main types are not used alone, they are always subtyped: <a>expl</a></li>
 <li>The following 5 relation types are not used in this corpus at all: <a>dislocated</a>, <a>clf</a>, <a>list</a>, <a>goeswith</a>, <a>reparandum</a></li>
 </ul>
