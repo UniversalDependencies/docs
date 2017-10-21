@@ -18,7 +18,7 @@ The feature is used with 3 part-of-speech tags: <tt><a href="cs_cltt-pos-VERB.ht
 
 1857 <tt><a href="cs_cltt-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="cs_cltt-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (1641; 88%), <tt><a href="cs_cltt-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (1542; 83%), <tt><a href="cs_cltt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (1426; 77%), <tt><a href="cs_cltt-feat-Person.html">Person</a></tt><tt>=3</tt> (1426; 77%), <tt><a href="cs_cltt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (1426; 77%), <tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1010; 54%).
+The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="cs_cltt-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (1641; 88%), <tt><a href="cs_cltt-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (1542; 83%), <tt><a href="cs_cltt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (1426; 77%), <tt><a href="cs_cltt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (1426; 77%), <tt><a href="cs_cltt-feat-Person.html">Person</a></tt><tt>=3</tt> (1426; 77%), <tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1010; 54%).
 
 `VERB` tokens may have the following values of `VerbForm`:
 
@@ -86,8 +86,8 @@ The 10 most frequent relations where parent and child node agree in `VerbForm`:
 <tt>VERB --[<tt><a href="cs_cltt-dep-conj.html">conj</a></tt>]--> VERB</tt> (199; 93%),
 <tt>VERB --[<tt><a href="cs_cltt-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (59; 86%),
 <tt>VERB --[<tt><a href="cs_cltt-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (27; 96%),
-<tt>AUX --[<tt><a href="cs_cltt-dep-conj.html">conj</a></tt>]--> VERB</tt> (1; 100%),
-<tt>VERB --[<tt><a href="cs_cltt-dep-csubj-pass.html">csubj:pass</a></tt>]--> VERB</tt> (1; 100%),
+<tt>VERB --[<tt><a href="cs_cltt-dep-dep.html">dep</a></tt>]--> VERB</tt> (1; 100%),
 <tt>VERB --[<tt><a href="cs_cltt-dep-appos.html">appos</a></tt>]--> VERB</tt> (1; 100%),
-<tt>VERB --[<tt><a href="cs_cltt-dep-dep.html">dep</a></tt>]--> VERB</tt> (1; 100%).
+<tt>AUX --[<tt><a href="cs_cltt-dep-conj.html">conj</a></tt>]--> VERB</tt> (1; 100%),
+<tt>VERB --[<tt><a href="cs_cltt-dep-csubj-pass.html">csubj:pass</a></tt>]--> VERB</tt> (1; 100%).
 

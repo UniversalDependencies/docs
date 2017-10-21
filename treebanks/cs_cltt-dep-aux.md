@@ -12,7 +12,7 @@ There are 1 language-specific subtypes of `aux`: <tt><a href="cs_cltt-dep-aux-pa
 41 nodes (0%) are attached to their parents as `aux`.
 
 39 instances of `aux` (95%) are right-to-left (child precedes parent).
-Average distance between parent and child is 4.95121951219512.
+Average distance between parent and child is 5.
 
 The following 3 pairs of parts of speech are connected with `aux`: <tt><a href="cs_cltt-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_cltt-pos-AUX.html">AUX</a></tt> (24; 59% instances), <tt><a href="cs_cltt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cs_cltt-pos-AUX.html">AUX</a></tt> (14; 34% instances), <tt><a href="cs_cltt-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_cltt-pos-ADJ.html">ADJ</a></tt> (3; 7% instances).
 
@@ -33,7 +33,7 @@ The following 3 pairs of parts of speech are connected with `aux`: <tt><a href="
 8	účtovat	účtovat	VERB	Vf--------A----	Polarity=Pos|VerbForm=Inf	4	ccomp	_	_
 9	o	o	ADP	RR--6----------	AdpType=Prep|Case=Loc	11	case	_	LId=o-1
 10	odložené	odložený	ADJ	AAFS6----1A----	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	11	amod	_	_
-11	dani	daň	NOUN	NNFS6-----A----	Case=Loc|Gender=Fem|Number=Sing|Polarity=Pos	8	obj	_	_
+11	dani	daň	NOUN	NNFS6-----A----	Case=Loc|Gender=Fem|Number=Sing|Polarity=Pos	8	obl:arg	_	_
 12	a	a	CCONJ	J^-------------	_	13	cc	_	LId=a-1
 13	vykazovat	vykazovat	VERB	Vf--------A----	Polarity=Pos|VerbForm=Inf	8	conj	_	_
 14	ji	on	PRON	PPFS4--3-------	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	13	obj	_	SpaceAfter=No|LId=on-1

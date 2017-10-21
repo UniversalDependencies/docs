@@ -20,11 +20,11 @@ The 10 most frequent ambiguous types:  <em>jednou</em> (<tt><a href="cs_cltt-pos
 
 * <em>jednou</em>
   * <tt><a href="cs_cltt-pos-ADV.html">ADV</a></tt> 3: <em>Takovouto změnu účetního období může účetní jednotka v běžném účetním období provést pouze <b>jednou</b> .</em>
-  * <tt><a href="cs_cltt-pos-NUM.html">NUM</a></tt> 3: <em>(3) Pokud je v případě uvedeném v odstavci 2 alespoň <b>jednou</b> z nástupnických účetních jednotek účetní jednotka , která má nebo má mít sídlo v České republice , použijí zanikající účetní jednotka i nástupnická účetní jednotka při účtování o ocenění majetku a závazků reálnou hodnotou § 54 obdobně .</em>
+  * <tt><a href="cs_cltt-pos-NUM.html">NUM</a></tt> 3: <em>(3) Pokud je v případě uvedeném v odstavci 2 alespoň <b>jednou</b> z nástupnických účetních jednotek účetní jednotka , která má nebo má mít sídlo v České republice , použijí zanikající účetní jednotka i nástupnická účetní jednotka při účtování o ocenění majetku a závazků reálnou hodnotou §_54 obdobně .</em>
 
 ## Morphology
 
-The form / lemma ratio of `NUM` is 1.168675 (the average of all parts of speech is 1.767001).
+The form / lemma ratio of `NUM` is 1.168675 (the average of all parts of speech is 1.766716).
 
 The 1st highest number of forms (9) was observed with the lemma “jeden”: <em>jeden, jedno, jednoho, jednom, jednomu, jednou, jednu, jedné, jedním</em>.
 

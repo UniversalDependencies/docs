@@ -11,7 +11,7 @@ This relation is universal.
 1125 nodes (3%) are attached to their parents as `root`.
 
 1125 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 8.33333333333333.
+Average distance between parent and child is 8.58044444444444.
 
 The following 4 pairs of parts of speech are connected with `root`: -<tt><a href="cs_cltt-pos-VERB.html">VERB</a></tt> (729; 65% instances), -<tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt> (169; 15% instances), -<tt><a href="cs_cltt-pos-X.html">X</a></tt> (130; 12% instances), -<tt><a href="cs_cltt-pos-ADJ.html">ADJ</a></tt> (97; 9% instances).
 
@@ -30,7 +30,7 @@ The following 4 pairs of parts of speech are connected with `root`: -<tt><a href
 6	případech	případ	NOUN	NNIP6-----A----	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur|Polarity=Pos	4	obl	_	_
 7	uvedených	uvedený	ADJ	AAIP6----1A----	Animacy=Inan|Case=Loc|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos	6	amod	_	_
 8	v	v	ADP	RR--6----------	AdpType=Prep|Case=Loc	9	case	_	LId=v-1
-9	§ 20 odst. 2	§ 20 odst. 2	X	X@-------------	_	7	advmod	_	SpaceAfter=No
+9	§_20_odst._2	§_20_odst._2	X	X@-------------	_	7	advmod	_	SpaceAfter=No
 10	.	.	PUNCT	Z:-------------	_	4	punct	_	_
 
 ~~~
@@ -54,7 +54,7 @@ The following 4 pairs of parts of speech are connected with `root`: -<tt><a href
 # visual-style 0	bgColor:blue
 # visual-style 0	fgColor:white
 # visual-style 0 1 root	color:blue
-1	§ 21	§ 21	X	X@-------------	_	0	root	_	_
+1	§_21	§_21	X	X@-------------	_	0	root	_	_
 
 ~~~
 

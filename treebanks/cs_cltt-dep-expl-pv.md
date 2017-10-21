@@ -72,7 +72,7 @@ The following 4 pairs of parts of speech are connected with `expl:pv`: <tt><a hr
 3	jednotky	jednotka	NOUN	NNFP1-----A----	Case=Nom|Gender=Fem|Number=Plur|Polarity=Pos	8	nsubj	_	_
 4	uvedené	uvedený	ADJ	AAFP1----1A----	Case=Nom|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Pos	3	amod	_	_
 5	v	v	ADP	RR--6----------	AdpType=Prep|Case=Loc	6	case	_	LId=v-1
-6	§ 1 odst. 2 písm. f)	§ 1 odst. 2 písm. f)	X	X@-------------	_	4	advmod	_	_
+6	§_1_odst._2_písm._f)	§_1_odst._2_písm._f)	X	X@-------------	_	4	advmod	_	_
 7	jsou	být	AUX	VB-P---3P-AA---	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	8	cop	_	_
 8	povinny	povinný	ADJ	ACTP------A----	Animacy=Inan|Gender=Fem,Masc|Number=Plur|Polarity=Pos|Variant=Short	0	root	_	_
 9	vést	vést	VERB	Vf--------A----	Polarity=Pos|VerbForm=Inf	8	xcomp	_	LId=vést-1
@@ -136,7 +136,7 @@ The following 4 pairs of parts of speech are connected with `expl:pv`: <tt><a hr
 67	vést	vést	VERB	Vf--------A----	Polarity=Pos|VerbForm=Inf	66	acl	_	LId=vést-1
 68	účetnictví	účetnictví	NOUN	NNNS4-----A----	Case=Acc|Gender=Neut|Number=Sing|Polarity=Pos	67	obj	_	_
 69	podle	podle	ADP	RR--2----------	AdpType=Prep|Case=Gen	70	case	_	LId=podle-2
-70	§ 1 odst. 2 písm. d), e), g)	§ 1 odst. 2 písm. d), e), g)	X	X@-------------	_	67	advmod	_	_
+70	§_1_odst._2_písm._d),_e),_g)	§_1_odst._2_písm._d),_e),_g)	X	X@-------------	_	67	advmod	_	_
 71	nebo	nebo	CCONJ	J^-------------	_	72	cc	_	_
 72	h)	h)	X	X@-------------	_	70	conj	_	SpaceAfter=No
 73	.	.	PUNCT	Z:-------------	_	8	punct	_	_

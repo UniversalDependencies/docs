@@ -18,7 +18,7 @@ The feature is used with 4 part-of-speech tags: <tt><a href="cs_cltt-pos-NUM.htm
 
 440 <tt><a href="cs_cltt-pos-NUM.html">NUM</a></tt> tokens (100% of all `NUM` tokens) have a non-empty value of `NumType`.
 
-The most frequent other feature values with which `NUM` and `NumType` co-occurred: <tt><a href="cs_cltt-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (394; 90%), <tt><a href="cs_cltt-feat-NumValue.html">NumValue</a></tt><tt>=EMPTY</tt> (382; 87%), <tt><a href="cs_cltt-feat-NumForm.html">NumForm</a></tt><tt>=Roman</tt> (371; 84%), <tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (371; 84%), <tt><a href="cs_cltt-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (371; 84%).
+The most frequent other feature values with which `NUM` and `NumType` co-occurred: <tt><a href="cs_cltt-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (394; 90%), <tt><a href="cs_cltt-feat-NumValue.html">NumValue</a></tt><tt>=EMPTY</tt> (382; 87%), <tt><a href="cs_cltt-feat-NumForm.html">NumForm</a></tt><tt>=Roman</tt> (371; 84%), <tt><a href="cs_cltt-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (371; 84%), <tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (371; 84%).
 
 `NUM` tokens may have the following values of `NumType`:
 
@@ -30,7 +30,7 @@ The most frequent other feature values with which `NUM` and `NumType` co-occurre
 
 43 <tt><a href="cs_cltt-pos-ADJ.html">ADJ</a></tt> tokens (1% of all `ADJ` tokens) have a non-empty value of `NumType`.
 
-The most frequent other feature values with which `ADJ` and `NumType` co-occurred: <tt><a href="cs_cltt-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (43; 100%), <tt><a href="cs_cltt-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (43; 100%), <tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (43; 100%), <tt><a href="cs_cltt-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (24; 56%).
+The most frequent other feature values with which `ADJ` and `NumType` co-occurred: <tt><a href="cs_cltt-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (43; 100%), <tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (43; 100%), <tt><a href="cs_cltt-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (43; 100%), <tt><a href="cs_cltt-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (24; 56%).
 
 `ADJ` tokens may have the following values of `NumType`:
 
@@ -41,7 +41,7 @@ The most frequent other feature values with which `ADJ` and `NumType` co-occurre
 
 14 <tt><a href="cs_cltt-pos-ADV.html">ADV</a></tt> tokens (2% of all `ADV` tokens) have a non-empty value of `NumType`.
 
-The most frequent other feature values with which `ADV` and `NumType` co-occurred: <tt><a href="cs_cltt-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (14; 100%), <tt><a href="cs_cltt-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (14; 100%).
+The most frequent other feature values with which `ADV` and `NumType` co-occurred: <tt><a href="cs_cltt-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (14; 100%), <tt><a href="cs_cltt-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (14; 100%).
 
 `ADV` tokens may have the following values of `NumType`:
 
@@ -53,7 +53,7 @@ The most frequent other feature values with which `ADV` and `NumType` co-occurre
 
 2 <tt><a href="cs_cltt-pos-DET.html">DET</a></tt> tokens (0% of all `DET` tokens) have a non-empty value of `NumType`.
 
-The most frequent other feature values with which `DET` and `NumType` co-occurred: <tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="cs_cltt-feat-PronType.html">PronType</a></tt><tt>=Ind</tt> (2; 100%), <tt><a href="cs_cltt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="cs_cltt-feat-Case.html">Case</a></tt><tt>=Ins</tt> (2; 100%), <tt><a href="cs_cltt-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="cs_cltt-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="cs_cltt-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (2; 100%).
+The most frequent other feature values with which `DET` and `NumType` co-occurred: <tt><a href="cs_cltt-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="cs_cltt-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="cs_cltt-feat-PronType.html">PronType</a></tt><tt>=Ind</tt> (2; 100%), <tt><a href="cs_cltt-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="cs_cltt-feat-Case.html">Case</a></tt><tt>=Ins</tt> (2; 100%), <tt><a href="cs_cltt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (2; 100%).
 
 `DET` tokens may have the following values of `NumType`:
 
@@ -64,6 +64,6 @@ The most frequent other feature values with which `DET` and `NumType` co-occurre
 
 The 10 most frequent relations where parent and child node agree in `NumType`:
 <tt>NUM --[<tt><a href="cs_cltt-dep-conj.html">conj</a></tt>]--> NUM</tt> (39; 100%),
-<tt>NUM --[<tt><a href="cs_cltt-dep-compound.html">compound</a></tt>]--> NUM</tt> (1; 100%),
-<tt>NUM --[<tt><a href="cs_cltt-dep-conj.html">conj</a></tt>]--> DET</tt> (1; 100%).
+<tt>NUM --[<tt><a href="cs_cltt-dep-conj.html">conj</a></tt>]--> DET</tt> (1; 100%),
+<tt>NUM --[<tt><a href="cs_cltt-dep-compound.html">compound</a></tt>]--> NUM</tt> (1; 100%).
 

@@ -12,8 +12,8 @@ Some words have combined values of the feature; 1 combinations have been observe
 
 This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: <tt><a href="cs_cltt-feat-Number.html">Number</a></tt>, <tt><a href="cs_cltt-feat-Number-psor.html">Number[psor]</a></tt>.
 
-21286 tokens (61%) have a non-empty value of `Number`.
-3979 types (84%) occur at least once with a non-empty value of `Number`.
+21286 tokens (60%) have a non-empty value of `Number`.
+3979 types (85%) occur at least once with a non-empty value of `Number`.
 1780 lemmas (67%) occur at least once with a non-empty value of `Number`.
 The feature is used with 7 part-of-speech tags: <tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt> (11245; 32% instances), <tt><a href="cs_cltt-pos-ADJ.html">ADJ</a></tt> (6766; 19% instances), <tt><a href="cs_cltt-pos-VERB.html">VERB</a></tt> (1542; 4% instances), <tt><a href="cs_cltt-pos-DET.html">DET</a></tt> (1011; 3% instances), <tt><a href="cs_cltt-pos-AUX.html">AUX</a></tt> (497; 1% instances), <tt><a href="cs_cltt-pos-PRON.html">PRON</a></tt> (156; 0% instances), <tt><a href="cs_cltt-pos-NUM.html">NUM</a></tt> (69; 0% instances).
 
@@ -82,7 +82,7 @@ The most frequent other feature values with which `ADJ` and `Number` co-occurred
 
 1542 <tt><a href="cs_cltt-pos-VERB.html">VERB</a></tt> tokens (83% of all `VERB` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="cs_cltt-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (1542; 100%), <tt><a href="cs_cltt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (1426; 92%), <tt><a href="cs_cltt-feat-Person.html">Person</a></tt><tt>=3</tt> (1426; 92%), <tt><a href="cs_cltt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (1426; 92%), <tt><a href="cs_cltt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (1426; 92%), <tt><a href="cs_cltt-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (1328; 86%).
+The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="cs_cltt-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (1542; 100%), <tt><a href="cs_cltt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (1426; 92%), <tt><a href="cs_cltt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (1426; 92%), <tt><a href="cs_cltt-feat-Person.html">Person</a></tt><tt>=3</tt> (1426; 92%), <tt><a href="cs_cltt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (1426; 92%), <tt><a href="cs_cltt-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (1328; 86%).
 
 `VERB` tokens may have the following values of `Number`:
 
@@ -197,7 +197,7 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
 
 69 <tt><a href="cs_cltt-pos-NUM.html">NUM</a></tt> tokens (16% of all `NUM` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `NUM` and `Number` co-occurred: <tt><a href="cs_cltt-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (69; 100%), <tt><a href="cs_cltt-feat-NumForm.html">NumForm</a></tt><tt>=Word</tt> (69; 100%), <tt><a href="cs_cltt-feat-NumValue.html">NumValue</a></tt><tt>=1,2,3</tt> (58; 84%).
+The most frequent other feature values with which `NUM` and `Number` co-occurred: <tt><a href="cs_cltt-feat-NumForm.html">NumForm</a></tt><tt>=Word</tt> (69; 100%), <tt><a href="cs_cltt-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (69; 100%), <tt><a href="cs_cltt-feat-NumValue.html">NumValue</a></tt><tt>=1,2,3</tt> (58; 84%).
 
 `NUM` tokens may have the following values of `Number`:
 

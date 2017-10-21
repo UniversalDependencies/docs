@@ -18,7 +18,7 @@ The feature is used with 2 part-of-speech tags: <tt><a href="cs_cltt-pos-PRON.ht
 
 469 <tt><a href="cs_cltt-pos-PRON.html">PRON</a></tt> tokens (74% of all `PRON` tokens) have a non-empty value of `Variant`.
 
-The most frequent other feature values with which `PRON` and `Variant` co-occurred: <tt><a href="cs_cltt-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (469; 100%), <tt><a href="cs_cltt-feat-PrepCase.html">PrepCase</a></tt><tt>=EMPTY</tt> (469; 100%), <tt><a href="cs_cltt-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (468; 100%), <tt><a href="cs_cltt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (468; 100%), <tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (468; 100%), <tt><a href="cs_cltt-feat-Reflex.html">Reflex</a></tt><tt>=Yes</tt> (468; 100%), <tt><a href="cs_cltt-feat-Case.html">Case</a></tt><tt>=Acc</tt> (468; 100%).
+The most frequent other feature values with which `PRON` and `Variant` co-occurred: <tt><a href="cs_cltt-feat-PrepCase.html">PrepCase</a></tt><tt>=EMPTY</tt> (469; 100%), <tt><a href="cs_cltt-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (469; 100%), <tt><a href="cs_cltt-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (468; 100%), <tt><a href="cs_cltt-feat-Case.html">Case</a></tt><tt>=Acc</tt> (468; 100%), <tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (468; 100%), <tt><a href="cs_cltt-feat-Reflex.html">Reflex</a></tt><tt>=Yes</tt> (468; 100%), <tt><a href="cs_cltt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (468; 100%).
 
 `PRON` tokens may have the following values of `Variant`:
 

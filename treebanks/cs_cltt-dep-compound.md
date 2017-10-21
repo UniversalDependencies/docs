@@ -38,16 +38,16 @@ The following 1 pairs of parts of speech are connected with `compound`: <tt><a h
 14	aktiv	aktiv	NOUN	NNIS1-----A----	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing|Polarity=Pos	13	nmod	_	_
 15	celkem	celkem	ADV	Db-------------	_	11	advmod	_	_
 16	podle	podle	ADP	RR--2----------	AdpType=Prep|Case=Gen	17	case	_	LId=podle-2
-17	§ 20 odst. 1 písm. a) bodu 1	§ 20 odst. 1 písm. a) bodu 1	X	X@-------------	_	11	nmod	_	SpaceAfter=No
+17	§_20_odst._1_písm._a)_bodu_1	§_20_odst._1_písm._a)_bodu_1	X	X@-------------	_	11	nmod	_	SpaceAfter=No
 18	,	,	PUNCT	Z:-------------	_	19	punct	_	_
 19	jde-li	jde-li	X	X@-------------	_	11	dep	_	_
 20	o	o	ADP	RR--4----------	AdpType=Prep|Case=Acc	22	case	_	LId=o-1
 21	správní	správní	ADJ	AAIS4----1A----	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos	22	amod	_	_
-22	delikt	delikt	NOUN	NNIS4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|Polarity=Pos	19	obj	_	_
+22	delikt	delikt	NOUN	NNIS4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|Polarity=Pos	19	obl:arg	_	_
 23	podle	podle	ADP	RR--2----------	AdpType=Prep|Case=Gen	24	case	_	LId=podle-2
 24	odstavce	odstavec	NOUN	NNIS2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing|Polarity=Pos	22	nmod	_	_
 25	1	1	NUM	C}-------------	NumForm=Roman|NumType=Card	24	nummod	_	_
-26	písm. a), b) a f)	písm. a), b) a f)	X	X@-------------	_	25	nmod	_	SpaceAfter=No
+26	písm._a),_b)_a_f)	písm._a),_b)_a_f)	X	X@-------------	_	25	nmod	_	SpaceAfter=No
 27	,	,	PUNCT	Z:-------------	_	47	punct	_	_
 28	b)	b)	X	X@-------------	_	29	nmod	_	_
 29	3	3	NUM	C}-------------	NumForm=Roman|NumType=Card	11	compound	_	_
@@ -56,16 +56,16 @@ The following 1 pairs of parts of speech are connected with `compound`: <tt><a h
 32	aktiv	aktiv	NOUN	NNIS1-----A----	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing|Polarity=Pos	31	nmod	_	_
 33	celkem	celkem	ADV	Db-------------	_	29	advmod	_	_
 34	podle	podle	ADP	RR--2----------	AdpType=Prep|Case=Gen	35	case	_	LId=podle-2
-35	§ 20 odst. 1 písm. a) bodu 1	§ 20 odst. 1 písm. a) bodu 1	X	X@-------------	_	29	nmod	_	SpaceAfter=No
+35	§_20_odst._1_písm._a)_bodu_1	§_20_odst._1_písm._a)_bodu_1	X	X@-------------	_	29	nmod	_	SpaceAfter=No
 36	,	,	PUNCT	Z:-------------	_	37	punct	_	_
 37	jde-li	jde-li	X	X@-------------	_	29	dep	_	_
 38	o	o	ADP	RR--4----------	AdpType=Prep|Case=Acc	40	case	_	LId=o-1
 39	správní	správní	ADJ	AAIS4----1A----	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos	40	amod	_	_
-40	delikt	delikt	NOUN	NNIS4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|Polarity=Pos	37	obj	_	_
+40	delikt	delikt	NOUN	NNIS4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|Polarity=Pos	37	obl:arg	_	_
 41	podle	podle	ADP	RR--2----------	AdpType=Prep|Case=Gen	42	case	_	LId=podle-2
 42	odstavce	odstavec	NOUN	NNIS2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing|Polarity=Pos	40	nmod	_	_
 43	1	1	NUM	C}-------------	NumForm=Roman|NumType=Card	42	nummod	_	_
-44	písm. c) až e) a g) až j)	písm. c) až e) a g) až j)	X	X@-------------	_	43	nmod	_	SpaceAfter=No
+44	písm._c)_až_e)_a_g)_až_j)	písm._c)_až_e)_a_g)_až_j)	X	X@-------------	_	43	nmod	_	SpaceAfter=No
 45	,	,	PUNCT	Z:-------------	_	47	punct	_	_
 46	c)	c)	X	X@-------------	_	47	nmod	_	_
 47	3	3	NUM	C}-------------	NumForm=Roman|NumType=Card	11	conj	_	_
@@ -75,12 +75,12 @@ The following 1 pairs of parts of speech are connected with `compound`: <tt><a h
 51	aktiv	aktivum	NOUN	NNNP2-----A----	Case=Gen|Gender=Neut|Number=Plur|Polarity=Pos	49	nmod	_	LId=aktivum-2
 52	celkem	celkem	ADV	Db-------------	_	47	advmod	_	_
 53	podle	podle	ADP	RR--2----------	AdpType=Prep|Case=Gen	54	case	_	LId=podle-2
-54	§ 22a odst. 1 bodu 1	§ 22a odst. 1 bodu 1	X	X@-------------	_	47	nmod	_	SpaceAfter=No
+54	§_22a_odst._1_bodu_1	§_22a_odst._1_bodu_1	X	X@-------------	_	47	nmod	_	SpaceAfter=No
 55	,	,	PUNCT	Z:-------------	_	56	punct	_	_
 56	jde-li	jde-li	X	X@-------------	_	47	dep	_	_
 57	o	o	ADP	RR--4----------	AdpType=Prep|Case=Acc	59	case	_	LId=o-1
 58	správní	správní	ADJ	AAIS4----1A----	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos	59	amod	_	_
-59	delikt	delikt	NOUN	NNIS4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|Polarity=Pos	56	obj	_	_
+59	delikt	delikt	NOUN	NNIS4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|Polarity=Pos	56	obl:arg	_	_
 60	podle	podle	ADP	RR--2----------	AdpType=Prep|Case=Gen	61	case	_	LId=podle-2
 61	odstavce	odstavec	NOUN	NNIS2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing|Polarity=Pos	59	nmod	_	_
 62	2	2	NUM	C}-------------	NumForm=Roman|NumType=Card	61	nummod	_	SpaceAfter=No
@@ -92,11 +92,11 @@ The following 1 pairs of parts of speech are connected with `compound`: <tt><a h
 68	jde-li	jde-li	X	X@-------------	_	65	dep	_	_
 69	o	o	ADP	RR--4----------	AdpType=Prep|Case=Acc	71	case	_	LId=o-1
 70	správní	správní	ADJ	AAIS4----1A----	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos	71	amod	_	_
-71	delikt	delikt	NOUN	NNIS4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|Polarity=Pos	68	obj	_	_
+71	delikt	delikt	NOUN	NNIS4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|Polarity=Pos	68	obl:arg	_	_
 72	podle	podle	ADP	RR--2----------	AdpType=Prep|Case=Gen	73	case	_	LId=podle-2
 73	odstavce	odstavec	NOUN	NNIS2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing|Polarity=Pos	71	obl	_	_
 74	1	1	NUM	C}-------------	NumForm=Roman|NumType=Card	73	nummod	_	_
-75	písm. k)	písm. k)	X	X@-------------	_	74	nmod	_	_
+75	písm._k)	písm._k)	X	X@-------------	_	74	nmod	_	_
 76	a	a	CCONJ	J^-------------	_	79	cc	_	LId=a-1
 77	není-li	není-li	X	X@-------------	_	79	cop	_	_
 78	dále	dále	ADV	Db------------1	_	79	advmod	_	LId=dále-3

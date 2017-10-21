@@ -11,7 +11,7 @@ This relation is universal.
 234 nodes (1%) are attached to their parents as `dep`.
 
 226 instances of `dep` (97%) are left-to-right (parent precedes child).
-Average distance between parent and child is 10.3888888888889.
+Average distance between parent and child is 10.517094017094.
 
 The following 22 pairs of parts of speech are connected with `dep`: <tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt> (65; 28% instances), <tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_cltt-pos-X.html">X</a></tt> (49; 21% instances), <tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_cltt-pos-ADV.html">ADV</a></tt> (27; 12% instances), <tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_cltt-pos-ADJ.html">ADJ</a></tt> (19; 8% instances), <tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_cltt-pos-VERB.html">VERB</a></tt> (14; 6% instances), <tt><a href="cs_cltt-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_cltt-pos-X.html">X</a></tt> (12; 5% instances), <tt><a href="cs_cltt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt> (8; 3% instances), <tt><a href="cs_cltt-pos-NUM.html">NUM</a></tt>-<tt><a href="cs_cltt-pos-X.html">X</a></tt> (7; 3% instances), <tt><a href="cs_cltt-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt> (7; 3% instances), <tt><a href="cs_cltt-pos-X.html">X</a></tt>-<tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt> (6; 3% instances), <tt><a href="cs_cltt-pos-ADV.html">ADV</a></tt>-<tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt> (3; 1% instances), <tt><a href="cs_cltt-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_cltt-pos-ADV.html">ADV</a></tt> (3; 1% instances), <tt><a href="cs_cltt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cs_cltt-pos-ADJ.html">ADJ</a></tt> (2; 1% instances), <tt><a href="cs_cltt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cs_cltt-pos-X.html">X</a></tt> (2; 1% instances), <tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_cltt-pos-SYM.html">SYM</a></tt> (2; 1% instances), <tt><a href="cs_cltt-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_cltt-pos-ADJ.html">ADJ</a></tt> (2; 1% instances), <tt><a href="cs_cltt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cs_cltt-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="cs_cltt-pos-ADV.html">ADV</a></tt>-<tt><a href="cs_cltt-pos-X.html">X</a></tt> (1; 0% instances), <tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_cltt-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_cltt-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_cltt-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="cs_cltt-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_cltt-pos-VERB.html">VERB</a></tt> (1; 0% instances).
 
@@ -52,11 +52,11 @@ The following 22 pairs of parts of speech are connected with `dep`: <tt><a href=
 
 
 ~~~ conllu
-# visual-style 17	bgColor:blue
-# visual-style 17	fgColor:white
+# visual-style 18	bgColor:blue
+# visual-style 18	fgColor:white
 # visual-style 11	bgColor:blue
 # visual-style 11	fgColor:white
-# visual-style 11 17 dep	color:blue
+# visual-style 11 18 dep	color:blue
 1	(1)	(1)	PUNCT	Z:-------------	_	5	punct	_	_
 2	Účetní	účetní	ADJ	AAFP1----1A----	Case=Nom|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Pos	3	amod	_	LId=účetní-1
 3	jednotky	jednotka	NOUN	NNFP1-----A----	Case=Nom|Gender=Fem|Number=Plur|Polarity=Pos	5	nsubj	_	_
@@ -73,11 +73,13 @@ The following 22 pairs of parts of speech are connected with `dep`: <tt><a href=
 14	(	(	PUNCT	Z:-------------	_	11	punct	_	SpaceAfter=No
 15	dále	dále	ADV	Db------------1	_	11	dep	_	LId=dále-3
 16	jen	jen	PART	TT-------------	_	17	advmod:emph	_	LId=jen-1
-17	"účetní případy"	"účetní případy"	X	X@-------------	_	11	dep	_	SpaceAfter=No
-18	)	)	PUNCT	Z:-------------	_	11	punct	_	_
-19	účetními	účetní	ADJ	AAIP7----1A----	Animacy=Inan|Case=Ins|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos	20	amod	_	LId=účetní-1
-20	doklady	doklad	NOUN	NNIP7-----A----	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur|Polarity=Pos	6	obl	_	SpaceAfter=No
-21	.	.	PUNCT	Z:-------------	_	5	punct	_	_
+17	"	"	PUNCT	Z:-------------	_	18	punct	_	_
+18	účetní_případy	"účetní_případy"	X	X@-------------	_	11	dep	_	_
+19	"	"	PUNCT	Z:-------------	_	18	punct	_	_
+20	)	)	PUNCT	Z:-------------	_	11	punct	_	_
+21	účetními	účetní	ADJ	AAIP7----1A----	Animacy=Inan|Case=Ins|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos	22	amod	_	LId=účetní-1
+22	doklady	doklad	NOUN	NNIP7-----A----	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur|Polarity=Pos	6	obl	_	SpaceAfter=No
+23	.	.	PUNCT	Z:-------------	_	5	punct	_	_
 
 ~~~
 
@@ -104,11 +106,13 @@ The following 22 pairs of parts of speech are connected with `dep`: <tt><a href=
 14	(	(	PUNCT	Z:-------------	_	11	punct	_	SpaceAfter=No
 15	dále	dále	ADV	Db------------1	_	11	dep	_	LId=dále-3
 16	jen	jen	PART	TT-------------	_	17	advmod:emph	_	LId=jen-1
-17	"účetní případy"	"účetní případy"	X	X@-------------	_	11	dep	_	SpaceAfter=No
-18	)	)	PUNCT	Z:-------------	_	11	punct	_	_
-19	účetními	účetní	ADJ	AAIP7----1A----	Animacy=Inan|Case=Ins|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos	20	amod	_	LId=účetní-1
-20	doklady	doklad	NOUN	NNIP7-----A----	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur|Polarity=Pos	6	obl	_	SpaceAfter=No
-21	.	.	PUNCT	Z:-------------	_	5	punct	_	_
+17	"	"	PUNCT	Z:-------------	_	18	punct	_	_
+18	účetní_případy	"účetní_případy"	X	X@-------------	_	11	dep	_	_
+19	"	"	PUNCT	Z:-------------	_	18	punct	_	_
+20	)	)	PUNCT	Z:-------------	_	11	punct	_	_
+21	účetními	účetní	ADJ	AAIP7----1A----	Animacy=Inan|Case=Ins|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos	22	amod	_	LId=účetní-1
+22	doklady	doklad	NOUN	NNIP7-----A----	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur|Polarity=Pos	6	obl	_	SpaceAfter=No
+23	.	.	PUNCT	Z:-------------	_	5	punct	_	_
 
 ~~~
 

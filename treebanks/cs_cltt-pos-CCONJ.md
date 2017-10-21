@@ -19,16 +19,16 @@ The 10 most frequent ambiguous types:  <em>až</em> (<tt><a href="cs_cltt-pos-PA
 
 
 * <em>až</em>
-  * <tt><a href="cs_cltt-pos-PART.html">PART</a></tt> 30: <em>(5) Ustanovení § 52 a 53 se použijí <b>až</b> v účetním období začínajícím 1 . ledna 2004 a později .</em>
+  * <tt><a href="cs_cltt-pos-PART.html">PART</a></tt> 30: <em>(5) Ustanovení §_52_a_53 se použijí <b>až</b> v účetním období začínajícím 1 . ledna 2004 a později .</em>
   * <tt><a href="cs_cltt-pos-SCONJ.html">SCONJ</a></tt> 7: <em>(6) Ustanovení odstavců 1 <b>až</b> 5 se nepoužijí při změně právní formy a přeshraničním přemístění sídla .</em>
-  * <tt><a href="cs_cltt-pos-CCONJ.html">CCONJ</a></tt> 1: <em>Účetní jednotka , která sestavuje výkaz zisku a ztráty v účelovém členění , není povinna dodržet členění v účtových skupinách 50 až 55 a 60 <b>až</b> 64 ; členění přizpůsobí výkazu s přihlédnutím k povinnosti uvedené v § 39 odst. 8 .</em>
+  * <tt><a href="cs_cltt-pos-CCONJ.html">CCONJ</a></tt> 1: <em>Účetní jednotka , která sestavuje výkaz zisku a ztráty v účelovém členění , není povinna dodržet členění v účtových skupinách 50 až 55 a 60 <b>až</b> 64 ; členění přizpůsobí výkazu s přihlédnutím k povinnosti uvedené v §_39_odst._8 .</em>
 * <em>tak</em>
   * <tt><a href="cs_cltt-pos-ADV.html">ADV</a></tt> 23: <em>(2) Účetní jednotky při inventarizaci postupují <b>tak</b> , že provádějí jednu nebo více inventur a ověřují , zda zjištěný skutečný stav odpovídá stavu v účetnictví .</em>
-  * <tt><a href="cs_cltt-pos-CCONJ.html">CCONJ</a></tt> 1: <em>(5) Položka "B.III.6. Závazky ze sociálního zabezpečení a zdravotního pojištění" obsahuje u všech účetních jednotek závazky ze sociálního zabezpečení a zdravotního pojištění k příslušným institucím jak v zákonné výši , <b>tak</b> z dobrovolného plnění .</em>
+  * <tt><a href="cs_cltt-pos-CCONJ.html">CCONJ</a></tt> 1: <em>(5) Položka " B.III.6._Závazky_ze_sociálního_zabezpečení_a_zdravotního_pojištění " obsahuje u všech účetních jednotek závazky ze sociálního zabezpečení a zdravotního pojištění k příslušným institucím jak v zákonné výši , <b>tak</b> z dobrovolného plnění .</em>
 
 ## Morphology
 
-The form / lemma ratio of `CCONJ` is 1.000000 (the average of all parts of speech is 1.767001).
+The form / lemma ratio of `CCONJ` is 1.000000 (the average of all parts of speech is 1.766716).
 
 The 1st highest number of forms (1) was observed with the lemma “a”: <em>a</em>.
 
@@ -43,7 +43,7 @@ The 3rd highest number of forms (1) was observed with the lemma “anebo”: <em
 
 `CCONJ` nodes are attached to their parents using 5 different relations: <tt><a href="cs_cltt-dep-cc.html">cc</a></tt> (1805; 96% instances), <tt><a href="cs_cltt-dep-advmod-emph.html">advmod:emph</a></tt> (64; 3% instances), <tt><a href="cs_cltt-dep-nmod.html">nmod</a></tt> (4; 0% instances), <tt><a href="cs_cltt-dep-dep.html">dep</a></tt> (1; 0% instances), <tt><a href="cs_cltt-dep-mark.html">mark</a></tt> (1; 0% instances)
 
-Parents of `CCONJ` nodes belong to 10 different parts of speech: <tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt> (1321; 70% instances), <tt><a href="cs_cltt-pos-ADJ.html">ADJ</a></tt> (228; 12% instances), <tt><a href="cs_cltt-pos-VERB.html">VERB</a></tt> (174; 9% instances), <tt><a href="cs_cltt-pos-X.html">X</a></tt> (49; 3% instances), <tt><a href="cs_cltt-pos-DET.html">DET</a></tt> (41; 2% instances), <tt><a href="cs_cltt-pos-ADV.html">ADV</a></tt> (34; 2% instances), <tt><a href="cs_cltt-pos-NUM.html">NUM</a></tt> (24; 1% instances), <tt><a href="cs_cltt-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="cs_cltt-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="cs_cltt-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances)
+Parents of `CCONJ` nodes belong to 10 different parts of speech: <tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt> (1321; 70% instances), <tt><a href="cs_cltt-pos-ADJ.html">ADJ</a></tt> (228; 12% instances), <tt><a href="cs_cltt-pos-VERB.html">VERB</a></tt> (174; 9% instances), <tt><a href="cs_cltt-pos-DET.html">DET</a></tt> (41; 2% instances), <tt><a href="cs_cltt-pos-ADV.html">ADV</a></tt> (34; 2% instances), <tt><a href="cs_cltt-pos-PUNCT.html">PUNCT</a></tt> (26; 1% instances), <tt><a href="cs_cltt-pos-NUM.html">NUM</a></tt> (24; 1% instances), <tt><a href="cs_cltt-pos-X.html">X</a></tt> (24; 1% instances), <tt><a href="cs_cltt-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="cs_cltt-pos-ADP.html">ADP</a></tt> (1; 0% instances)
 
 1875 (100%) `CCONJ` nodes are leaves.
 

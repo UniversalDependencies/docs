@@ -19,7 +19,7 @@ The 10 most frequent ambiguous types:  <em>se</em> (<tt><a href="cs_cltt-pos-PRO
 
 
 * <em>se</em>
-  * <tt><a href="cs_cltt-pos-PRON.html">PRON</a></tt> 467: <em>Výroční zpráva <b>se</b> nevyhotovuje v případech uvedených v § 20 odst. 2 .</em>
+  * <tt><a href="cs_cltt-pos-PRON.html">PRON</a></tt> 467: <em>Výroční zpráva <b>se</b> nevyhotovuje v případech uvedených v §_20_odst._2 .</em>
   * <tt><a href="cs_cltt-pos-ADP.html">ADP</a></tt> 34: <em>Do nákladů nebo výnosů jsou zaúčtovány ve stejných obdobích , kdy jsou zaúčtovány náklady nebo výnosy spojené <b>se</b> zajišťovanými položkami .</em>
 * <em>je</em>
   * <tt><a href="cs_cltt-pos-AUX.html">AUX</a></tt> 189: <em>Spotřeba povolenek <b>je</b> vykázána bez ohledu na jejich následné vyřazení .</em>
@@ -31,7 +31,7 @@ The 10 most frequent ambiguous types:  <em>se</em> (<tt><a href="cs_cltt-pos-PRO
 
 ## Morphology
 
-The form / lemma ratio of `PRON` is 9.250000 (the average of all parts of speech is 1.767001).
+The form / lemma ratio of `PRON` is 9.250000 (the average of all parts of speech is 1.766716).
 
 The 1st highest number of forms (15) was observed with the lemma “on”: <em>ho, je, jej, jemu, ji, jim, jimi, jí, nich, nim, nimi, ní, ním, ně, něj</em>.
 
@@ -50,7 +50,7 @@ Examples: <em>se</em>
 
 ## Relations
 
-`PRON` nodes are attached to their parents using 9 different relations: <tt><a href="cs_cltt-dep-expl-pass.html">expl:pass</a></tt> (353; 56% instances), <tt><a href="cs_cltt-dep-expl-pv.html">expl:pv</a></tt> (113; 18% instances), <tt><a href="cs_cltt-dep-obl.html">obl</a></tt> (68; 11% instances), <tt><a href="cs_cltt-dep-obj.html">obj</a></tt> (55; 9% instances), <tt><a href="cs_cltt-dep-nmod.html">nmod</a></tt> (24; 4% instances), <tt><a href="cs_cltt-dep-iobj.html">iobj</a></tt> (6; 1% instances), <tt><a href="cs_cltt-dep-nsubj.html">nsubj</a></tt> (6; 1% instances), <tt><a href="cs_cltt-dep-acl.html">acl</a></tt> (4; 1% instances), <tt><a href="cs_cltt-dep-conj.html">conj</a></tt> (2; 0% instances)
+`PRON` nodes are attached to their parents using 10 different relations: <tt><a href="cs_cltt-dep-expl-pass.html">expl:pass</a></tt> (353; 56% instances), <tt><a href="cs_cltt-dep-expl-pv.html">expl:pv</a></tt> (113; 18% instances), <tt><a href="cs_cltt-dep-obl.html">obl</a></tt> (68; 11% instances), <tt><a href="cs_cltt-dep-obj.html">obj</a></tt> (48; 8% instances), <tt><a href="cs_cltt-dep-nmod.html">nmod</a></tt> (24; 4% instances), <tt><a href="cs_cltt-dep-obl-arg.html">obl:arg</a></tt> (9; 1% instances), <tt><a href="cs_cltt-dep-nsubj.html">nsubj</a></tt> (6; 1% instances), <tt><a href="cs_cltt-dep-acl.html">acl</a></tt> (4; 1% instances), <tt><a href="cs_cltt-dep-iobj.html">iobj</a></tt> (4; 1% instances), <tt><a href="cs_cltt-dep-conj.html">conj</a></tt> (2; 0% instances)
 
 Parents of `PRON` nodes belong to 6 different parts of speech: <tt><a href="cs_cltt-pos-VERB.html">VERB</a></tt> (524; 83% instances), <tt><a href="cs_cltt-pos-ADJ.html">ADJ</a></tt> (60; 10% instances), <tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt> (36; 6% instances), <tt><a href="cs_cltt-pos-X.html">X</a></tt> (9; 1% instances), <tt><a href="cs_cltt-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="cs_cltt-pos-DET.html">DET</a></tt> (1; 0% instances)
 

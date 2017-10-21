@@ -11,9 +11,9 @@ This relation is universal.
 79 nodes (0%) are attached to their parents as `appos`.
 
 78 instances of `appos` (99%) are left-to-right (parent precedes child).
-Average distance between parent and child is 5.92405063291139.
+Average distance between parent and child is 5.94936708860759.
 
-The following 9 pairs of parts of speech are connected with `appos`: <tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt> (67; 85% instances), <tt><a href="cs_cltt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cs_cltt-pos-ADJ.html">ADJ</a></tt> (4; 5% instances), <tt><a href="cs_cltt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cs_cltt-pos-ADV.html">ADV</a></tt> (2; 3% instances), <tt><a href="cs_cltt-pos-ADV.html">ADV</a></tt>-<tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="cs_cltt-pos-ADV.html">ADV</a></tt>-<tt><a href="cs_cltt-pos-PART.html">PART</a></tt> (1; 1% instances), <tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_cltt-pos-PART.html">PART</a></tt> (1; 1% instances), <tt><a href="cs_cltt-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_cltt-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="cs_cltt-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_cltt-pos-X.html">X</a></tt> (1; 1% instances), <tt><a href="cs_cltt-pos-X.html">X</a></tt>-<tt><a href="cs_cltt-pos-PART.html">PART</a></tt> (1; 1% instances).
+The following 9 pairs of parts of speech are connected with `appos`: <tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt> (67; 85% instances), <tt><a href="cs_cltt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cs_cltt-pos-ADJ.html">ADJ</a></tt> (4; 5% instances), <tt><a href="cs_cltt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cs_cltt-pos-ADV.html">ADV</a></tt> (2; 3% instances), <tt><a href="cs_cltt-pos-ADV.html">ADV</a></tt>-<tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="cs_cltt-pos-ADV.html">ADV</a></tt>-<tt><a href="cs_cltt-pos-PART.html">PART</a></tt> (1; 1% instances), <tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_cltt-pos-PART.html">PART</a></tt> (1; 1% instances), <tt><a href="cs_cltt-pos-PUNCT.html">PUNCT</a></tt>-<tt><a href="cs_cltt-pos-PART.html">PART</a></tt> (1; 1% instances), <tt><a href="cs_cltt-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_cltt-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="cs_cltt-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_cltt-pos-X.html">X</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -35,31 +35,33 @@ The following 9 pairs of parts of speech are connected with `appos`: <tt><a href
 
 
 ~~~ conllu
+# visual-style 15	bgColor:blue
+# visual-style 15	fgColor:white
 # visual-style 13	bgColor:blue
 # visual-style 13	fgColor:white
-# visual-style 11	bgColor:blue
-# visual-style 11	fgColor:white
-# visual-style 11 13 appos	color:blue
-1	(3)	(3)	PUNCT	Z:-------------	_	4	punct	_	_
-2	Položka	položka	NOUN	NNFS1-----A----	Case=Nom|Gender=Fem|Number=Sing|Polarity=Pos	4	nsubj	_	_
-3	"B.II.9. Oceňovací rozdíl k nabytému majetku"	"B.II.9. Oceňovací rozdíl k nabytému majetku"	X	X@-------------	_	2	nmod	_	_
-4	obsahuje	obsahovat	VERB	VB-S---3P-AA---	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-5	též	též	ADV	Db-------------	_	7	advmod:emph	_	_
-6	opravnou	opravný	ADJ	AAFS4----1A----	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	7	amod	_	_
-7	položku	položka	NOUN	NNFS4-----A----	Case=Acc|Gender=Fem|Number=Sing|Polarity=Pos	4	obj	_	_
-8	k	k	ADP	RR--3----------	AdpType=Prep|Case=Dat	10	case	_	LId=k-1
-9	nabytému	nabytý	ADJ	AAIS3----1A----	Animacy=Inan|Case=Dat|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos	10	amod	_	_
-10	majetku	majetek	NOUN	NNIS3-----A----	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing|Polarity=Pos	7	nmod	_	_
-11	stanovenou	stanovený	ADJ	AAFS4----1A----	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	7	amod	_	_
-12	(	(	PUNCT	Z:-------------	_	13	punct	_	SpaceAfter=No
-13	vytvořenou	vytvořený	ADJ	AAFS4----1A----	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	11	appos	_	SpaceAfter=No
-14	)	)	PUNCT	Z:-------------	_	13	punct	_	_
-15	před	před	ADP	RR--7----------	AdpType=Prep|Case=Ins	16	case	_	LId=před-1
-16	nabytím	nabytí	NOUN	NNNS7-----A----	Case=Ins|Gender=Neut|Number=Sing|Polarity=Pos	11	obl	_	_
-17	účinnosti	účinnost	NOUN	NNFS2-----A----	Case=Gen|Gender=Fem|Number=Sing|Polarity=Pos	16	nmod	_	_
-18	této	tento	DET	PDFS2----------	Case=Gen|Gender=Fem|Number=Sing|PronType=Dem	19	det	_	_
-19	vyhlášky	vyhláška	NOUN	NNFS2-----A----	Case=Gen|Gender=Fem|Number=Sing|Polarity=Pos	17	nmod	_	SpaceAfter=No
-20	.	.	PUNCT	Z:-------------	_	4	punct	_	_
+# visual-style 13 15 appos	color:blue
+1	(3)	(3)	PUNCT	Z:-------------	_	6	punct	_	_
+2	Položka	položka	NOUN	NNFS1-----A----	Case=Nom|Gender=Fem|Number=Sing|Polarity=Pos	6	nsubj	_	_
+3	"	"	PUNCT	Z:-------------	_	4	punct	_	_
+4	B.II.9._Oceňovací_rozdíl_k_nabytému_majetku	"B.II.9._Oceňovací_rozdíl_k_nabytému_majetku"	X	X@-------------	_	2	nmod	_	_
+5	"	"	PUNCT	Z:-------------	_	4	punct	_	_
+6	obsahuje	obsahovat	VERB	VB-S---3P-AA---	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+7	též	též	ADV	Db-------------	_	9	advmod:emph	_	_
+8	opravnou	opravný	ADJ	AAFS4----1A----	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	9	amod	_	_
+9	položku	položka	NOUN	NNFS4-----A----	Case=Acc|Gender=Fem|Number=Sing|Polarity=Pos	6	obj	_	_
+10	k	k	ADP	RR--3----------	AdpType=Prep|Case=Dat	12	case	_	LId=k-1
+11	nabytému	nabytý	ADJ	AAIS3----1A----	Animacy=Inan|Case=Dat|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos	12	amod	_	_
+12	majetku	majetek	NOUN	NNIS3-----A----	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing|Polarity=Pos	9	nmod	_	_
+13	stanovenou	stanovený	ADJ	AAFS4----1A----	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	9	amod	_	_
+14	(	(	PUNCT	Z:-------------	_	15	punct	_	SpaceAfter=No
+15	vytvořenou	vytvořený	ADJ	AAFS4----1A----	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	13	appos	_	SpaceAfter=No
+16	)	)	PUNCT	Z:-------------	_	15	punct	_	_
+17	před	před	ADP	RR--7----------	AdpType=Prep|Case=Ins	18	case	_	LId=před-1
+18	nabytím	nabytí	NOUN	NNNS7-----A----	Case=Ins|Gender=Neut|Number=Sing|Polarity=Pos	13	obl	_	_
+19	účinnosti	účinnost	NOUN	NNFS2-----A----	Case=Gen|Gender=Fem|Number=Sing|Polarity=Pos	18	nmod	_	_
+20	této	tento	DET	PDFS2----------	Case=Gen|Gender=Fem|Number=Sing|PronType=Dem	21	det	_	_
+21	vyhlášky	vyhláška	NOUN	NNFS2-----A----	Case=Gen|Gender=Fem|Number=Sing|Polarity=Pos	19	nmod	_	SpaceAfter=No
+22	.	.	PUNCT	Z:-------------	_	6	punct	_	_
 
 ~~~
 
@@ -163,7 +165,7 @@ The following 9 pairs of parts of speech are connected with `appos`: <tt><a href
 91	knihách	kniha	NOUN	NNFP6-----A----	Case=Loc|Gender=Fem|Number=Plur|Polarity=Pos	88	obl	_	_
 92	podle	podle	ADP	RR--2----------	AdpType=Prep|Case=Gen	93	case	_	LId=podle-2
 93	písmen	písmeno	NOUN	NNNP2-----A----	Case=Gen|Gender=Neut|Number=Plur|Polarity=Pos	88	obl	_	_
-94	a) a b)	a) a b)	X	X@-------------	_	93	nmod	_	SpaceAfter=No
+94	a)_a_b)	a)_a_b)	X	X@-------------	_	93	nmod	_	SpaceAfter=No
 95	.	.	PUNCT	Z:-------------	_	4	punct	_	_
 
 ~~~

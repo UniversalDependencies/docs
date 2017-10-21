@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-3991 nodes (11%) are attached to their parents as `punct`.
+4521 nodes (13%) are attached to their parents as `punct`.
 
-2586 instances of `punct` (65%) are right-to-left (child precedes parent).
-Average distance between parent and child is 10.5316963167126.
+2851 instances of `punct` (63%) are right-to-left (child precedes parent).
+Average distance between parent and child is 9.53063481530635.
 
-The following 10 pairs of parts of speech are connected with `punct`: <tt><a href="cs_cltt-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_cltt-pos-PUNCT.html">PUNCT</a></tt> (1934; 48% instances), <tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_cltt-pos-PUNCT.html">PUNCT</a></tt> (1290; 32% instances), <tt><a href="cs_cltt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cs_cltt-pos-PUNCT.html">PUNCT</a></tt> (526; 13% instances), <tt><a href="cs_cltt-pos-X.html">X</a></tt>-<tt><a href="cs_cltt-pos-PUNCT.html">PUNCT</a></tt> (121; 3% instances), <tt><a href="cs_cltt-pos-NUM.html">NUM</a></tt>-<tt><a href="cs_cltt-pos-PUNCT.html">PUNCT</a></tt> (87; 2% instances), <tt><a href="cs_cltt-pos-ADV.html">ADV</a></tt>-<tt><a href="cs_cltt-pos-PUNCT.html">PUNCT</a></tt> (15; 0% instances), <tt><a href="cs_cltt-pos-PART.html">PART</a></tt>-<tt><a href="cs_cltt-pos-PUNCT.html">PUNCT</a></tt> (8; 0% instances), <tt><a href="cs_cltt-pos-DET.html">DET</a></tt>-<tt><a href="cs_cltt-pos-PUNCT.html">PUNCT</a></tt> (4; 0% instances), <tt><a href="cs_cltt-pos-PRON.html">PRON</a></tt>-<tt><a href="cs_cltt-pos-PUNCT.html">PUNCT</a></tt> (4; 0% instances), <tt><a href="cs_cltt-pos-PUNCT.html">PUNCT</a></tt>-<tt><a href="cs_cltt-pos-PUNCT.html">PUNCT</a></tt> (2; 0% instances).
+The following 10 pairs of parts of speech are connected with `punct`: <tt><a href="cs_cltt-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_cltt-pos-PUNCT.html">PUNCT</a></tt> (1934; 43% instances), <tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_cltt-pos-PUNCT.html">PUNCT</a></tt> (1290; 29% instances), <tt><a href="cs_cltt-pos-X.html">X</a></tt>-<tt><a href="cs_cltt-pos-PUNCT.html">PUNCT</a></tt> (618; 14% instances), <tt><a href="cs_cltt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cs_cltt-pos-PUNCT.html">PUNCT</a></tt> (526; 12% instances), <tt><a href="cs_cltt-pos-NUM.html">NUM</a></tt>-<tt><a href="cs_cltt-pos-PUNCT.html">PUNCT</a></tt> (87; 2% instances), <tt><a href="cs_cltt-pos-PUNCT.html">PUNCT</a></tt>-<tt><a href="cs_cltt-pos-PUNCT.html">PUNCT</a></tt> (35; 1% instances), <tt><a href="cs_cltt-pos-ADV.html">ADV</a></tt>-<tt><a href="cs_cltt-pos-PUNCT.html">PUNCT</a></tt> (15; 0% instances), <tt><a href="cs_cltt-pos-PART.html">PART</a></tt>-<tt><a href="cs_cltt-pos-PUNCT.html">PUNCT</a></tt> (8; 0% instances), <tt><a href="cs_cltt-pos-DET.html">DET</a></tt>-<tt><a href="cs_cltt-pos-PUNCT.html">PUNCT</a></tt> (4; 0% instances), <tt><a href="cs_cltt-pos-PRON.html">PRON</a></tt>-<tt><a href="cs_cltt-pos-PUNCT.html">PUNCT</a></tt> (4; 0% instances).
 
 
 ~~~ conllu
@@ -52,17 +52,24 @@ The following 10 pairs of parts of speech are connected with `punct`: <tt><a hre
 
 
 ~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 3 punct	color:blue
-1	USTANOVENÍ	ustanovení	NOUN	NNNS1-----A----	Case=Nom|Gender=Neut|Number=Sing|Polarity=Pos	0	root	_	_
-2	SPOLEČNÁ	společný	ADJ	AAFS1----1A----	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	1	amod	_	SpaceAfter=No
-3	,	,	PUNCT	Z:-------------	_	4	punct	_	_
-4	PŘECHODNÁ	přechodný	ADJ	AAFS1----1A----	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	2	conj	_	_
-5	A	a	CCONJ	J^-------------	_	6	cc	_	LId=a-1
-6	ZÁVĚREČNÁ	závěrečný	ADJ	AAFS1----1A----	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	2	conj	_	_
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 6 punct	color:blue
+1	Výpočtové	výpočtový	ADJ	AAFP1----1A----	Case=Nom|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Pos	2	amod	_	_
+2	položky	položka	NOUN	NNFP1-----A----	Case=Nom|Gender=Fem|Number=Plur|Polarity=Pos	4	nsubj:pass	_	_
+3	se	se	PRON	P7-X4----------	Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short	4	expl:pass	_	_
+4	označují	označovat	VERB	VB-P---3P-AA---	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+5	znaménky	znaménko	NOUN	NNNP7-----A----	Case=Ins|Gender=Neut|Number=Plur|Polarity=Pos	4	obl	_	_
+6	"	"	PUNCT	Z:-------------	_	7	punct	_	_
+7	+	"+"	X	X@-------------	_	5	nmod	_	_
+8	"	"	PUNCT	Z:-------------	_	7	punct	_	_
+9	a	a	CCONJ	J^-------------	_	10	cc	_	LId=a-1
+10	"	"	PUNCT	Z:-------------	_	11	punct	_	_
+11	*	"*"	PUNCT	X@-------------	_	6	conj	_	_
+12	"	"	PUNCT	Z:-------------	_	11	punct	_	_
+13	.	.	PUNCT	Z:-------------	_	4	punct	_	_
 
 ~~~
 

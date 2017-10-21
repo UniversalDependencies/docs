@@ -51,7 +51,7 @@ The following 3 pairs of parts of speech are connected with `aux:pass`: <tt><a h
 # visual-style 17 15 aux:pass	color:blue
 1	Způsoby	způsob	NOUN	NNIP1-----A----	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur|Polarity=Pos	5	obl	_	_
 2	podle	podle	ADP	RR--2----------	AdpType=Prep|Case=Gen	3	case	_	LId=podle-2
-3	§ 25	§ 25	X	X@-------------	_	1	nmod	_	_
+3	§_25	§_25	X	X@-------------	_	1	nmod	_	_
 4	se	se	PRON	P7-X4----------	Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short	5	expl:pass	_	_
 5	ocení	ocenit	VERB	VB-S---3P-AA---	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 6	i	i	CCONJ	J^-------------	_	7	advmod:emph	_	LId=i-1

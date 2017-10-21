@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-37 nodes (0%) are attached to their parents as `iobj`.
+21 nodes (0%) are attached to their parents as `iobj`.
 
-24 instances of `iobj` (65%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.08108108108108.
+15 instances of `iobj` (71%) are left-to-right (parent precedes child).
+Average distance between parent and child is 4.66666666666667.
 
-The following 4 pairs of parts of speech are connected with `iobj`: <tt><a href="cs_cltt-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt> (28; 76% instances), <tt><a href="cs_cltt-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_cltt-pos-PRON.html">PRON</a></tt> (6; 16% instances), <tt><a href="cs_cltt-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_cltt-pos-DET.html">DET</a></tt> (2; 5% instances), <tt><a href="cs_cltt-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_cltt-pos-ADJ.html">ADJ</a></tt> (1; 3% instances).
+The following 3 pairs of parts of speech are connected with `iobj`: <tt><a href="cs_cltt-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt> (15; 71% instances), <tt><a href="cs_cltt-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_cltt-pos-PRON.html">PRON</a></tt> (4; 19% instances), <tt><a href="cs_cltt-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_cltt-pos-DET.html">DET</a></tt> (2; 10% instances).
 
 
 ~~~ conllu
@@ -52,7 +52,7 @@ The following 4 pairs of parts of speech are connected with `iobj`: <tt><a href=
 3	jednotky	jednotka	NOUN	NNFP1-----A----	Case=Nom|Gender=Fem|Number=Plur|Polarity=Pos	7	nsubj	_	_
 4	uvedené	uvedený	ADJ	AAFP1----1A----	Case=Nom|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Pos	3	amod	_	_
 5	v	v	ADP	RR--6----------	AdpType=Prep|Case=Loc	6	case	_	LId=v-1
-6	§ 20 odst. 1 písm. e)	§ 20 odst. 1 písm. e)	X	X@-------------	_	4	advmod	_	_
+6	§_20_odst._1_písm._e)	§_20_odst._1_písm._e)	X	X@-------------	_	4	advmod	_	_
 7	vyhotovují	vyhotovovat	VERB	VB-P---3P-AA---	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 8	výroční	výroční	ADJ	AAFS4----1A----	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	9	amod	_	_
 9	zprávu	zpráva	NOUN	NNFS4-----A----	Case=Acc|Gender=Fem|Number=Sing|Polarity=Pos	7	obj	_	_
@@ -84,7 +84,7 @@ The following 4 pairs of parts of speech are connected with `iobj`: <tt><a href=
 3	účetních	účetní	ADJ	AAFP2----1A----	Case=Gen|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Pos	4	amod	_	LId=účetní-1
 4	jednotek	jednotka	NOUN	NNFP2-----A----	Case=Gen|Gender=Fem|Number=Plur|Polarity=Pos	26	nmod	_	_
 5	podle	podle	ADP	RR--2----------	AdpType=Prep|Case=Gen	6	case	_	LId=podle-2
-6	§ 1 odst. 2	§ 1 odst. 2	X	X@-------------	_	4	nmod	_	_
+6	§_1_odst._2	§_1_odst._2	X	X@-------------	_	4	nmod	_	_
 7	jsou	být	AUX	VB-P---3P-AA---	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	8	cop	_	_
 8	povinny	povinný	ADJ	ACTP------A----	Animacy=Inan|Gender=Fem,Masc|Number=Plur|Polarity=Pos|Variant=Short	0	root	_	_
 9	účetní	účetní	ADJ	AAFS4----1A----	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	10	amod	_	LId=účetní-1

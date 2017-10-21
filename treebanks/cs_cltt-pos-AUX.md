@@ -30,17 +30,17 @@ The 10 most frequent ambiguous types:  <em>je</em> (<tt><a href="cs_cltt-pos-AUX
   * <tt><a href="cs_cltt-pos-VERB.html">VERB</a></tt> 1: <em>Porušením vzájemného zúčtování <b>nejsou</b> případy upravené účetními metodami .</em>
 * <em>být</em>
   * <tt><a href="cs_cltt-pos-AUX.html">AUX</a></tt> 47: <em>Podpisový záznam podle písmene f) může <b>být</b> společný pro více účetních dokladů .</em>
-  * <tt><a href="cs_cltt-pos-VERB.html">VERB</a></tt> 1: <em>(4) Účetní záznam v technické nebo smíšené formě , se skartačními znaky "A" nebo "V" vzniklý z činnosti účetní jednotky , musí <b>být</b> ve formátu , který zaručí jeho neměnnost a umožní jeho následnou čitelnost pro fyzickou osobu .</em>
+  * <tt><a href="cs_cltt-pos-VERB.html">VERB</a></tt> 1: <em>(4) Účetní záznam v technické nebo smíšené formě , se skartačními znaky " A " nebo " V " vzniklý z činnosti účetní jednotky , musí <b>být</b> ve formátu , který zaručí jeho neměnnost a umožní jeho následnou čitelnost pro fyzickou osobu .</em>
 * <em>není</em>
   * <tt><a href="cs_cltt-pos-AUX.html">AUX</a></tt> 40: <em>Stanovení těchto povinností na smluvním základě <b>není</b> dotčeno .</em>
   * <tt><a href="cs_cltt-pos-VERB.html">VERB</a></tt> 1: <em>Pokud <b>není</b> cenný papír nebo podíl oceněn reálnou hodnotou nebo ekvivalencí , pak se kursové rozdíly účtují prostřednictvím rozvahových účtů v účtové skupině 41 .</em>
 * <em>bude</em>
   * <tt><a href="cs_cltt-pos-AUX.html">AUX</a></tt> 12: <em>(2) Pokud je derivát součástí finančního nástroje , účetní jednotka stanoví , zda <b>bude</b> účtovat o vloženém derivátu samostatně nebo zda využije možnost o vložených derivátech neúčtovat .</em>
-  * <tt><a href="cs_cltt-pos-VERB.html">VERB</a></tt> 1: <em>(1) Pokud zákon o přeměnách vyžaduje ocenění jmění při přeshraniční přeměně společnosti zanikající zahraniční osoby nebo části zahraniční osoby rozdělované odštěpením a není-li toto ocenění jmění vykázáno v její účetní závěrce sestavené nejpozději ke dni předcházejícímu rozhodný den , nástupnická účetní jednotka , která má nebo má mít sídlo v České republice , nebo přejímající společník , který je nebo <b>bude</b> účetní jednotkou , použije při účtování o ocenění reálnou hodnotou § 54 obdobně , s výjimkou postupu podle § 54 odst. 6 , jelikož v tomto případě nástupnická účetní jednotka nebo přejímající společník , který je účetní jednotkou , nepřebírá ocenění majetku a závazků reálnou hodnotou , ale účtuje o tomto ocenění .</em>
+  * <tt><a href="cs_cltt-pos-VERB.html">VERB</a></tt> 1: <em>(1) Pokud zákon o přeměnách vyžaduje ocenění jmění při přeshraniční přeměně společnosti zanikající zahraniční osoby nebo části zahraniční osoby rozdělované odštěpením a není-li toto ocenění jmění vykázáno v její účetní závěrce sestavené nejpozději ke dni předcházejícímu rozhodný den , nástupnická účetní jednotka , která má nebo má mít sídlo v České republice , nebo přejímající společník , který je nebo <b>bude</b> účetní jednotkou , použije při účtování o ocenění reálnou hodnotou §_54 obdobně , s výjimkou postupu podle §_54_odst._6 , jelikož v tomto případě nástupnická účetní jednotka nebo přejímající společník , který je účetní jednotkou , nepřebírá ocenění majetku a závazků reálnou hodnotou , ale účtuje o tomto ocenění .</em>
 
 ## Morphology
 
-The form / lemma ratio of `AUX` is 15.000000 (the average of all parts of speech is 1.767001).
+The form / lemma ratio of `AUX` is 15.000000 (the average of all parts of speech is 1.766716).
 
 The 1st highest number of forms (15) was observed with the lemma “být”: <em>bude, budou, by, byl, byla, bylo, byly, být, je, jsou, nebyl, nebyla, nebyly, nejsou, není</em>.
 

@@ -15,22 +15,22 @@ The 10 most frequent `DET` types:  <em>které, jejich, která, jeho, této, toho
 
 The 10 most frequent ambiguous lemmas: <em>jenž</em> (<tt><a href="cs_cltt-pos-PRON.html">PRON</a></tt> 73, <tt><a href="cs_cltt-pos-DET.html">DET</a></tt> 21)
 
-The 10 most frequent ambiguous types:  <em>tuto</em> (<tt><a href="cs_cltt-pos-DET.html">DET</a></tt> 11, <tt><a href="cs_cltt-pos-ADV.html">ADV</a></tt> 7), <em>jehož</em> (<tt><a href="cs_cltt-pos-DET.html">DET</a></tt> 6, <tt><a href="cs_cltt-pos-PRON.html">PRON</a></tt> 5), <em>t</em> (<tt><a href="cs_cltt-pos-DET.html">DET</a></tt> 1, <tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>tuto</em> (<tt><a href="cs_cltt-pos-DET.html">DET</a></tt> 11, <tt><a href="cs_cltt-pos-ADV.html">ADV</a></tt> 7), <em>jehož</em> (<tt><a href="cs_cltt-pos-DET.html">DET</a></tt> 6, <tt><a href="cs_cltt-pos-PRON.html">PRON</a></tt> 5), <em>t</em> (<tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="cs_cltt-pos-DET.html">DET</a></tt> 1)
 
 
 * <em>tuto</em>
-  * <tt><a href="cs_cltt-pos-DET.html">DET</a></tt> 11: <em>(7) Není-li objektivně možné stanovit reálnou hodnotu , považuje se za <b>tuto</b> hodnotu ocenění způsoby podle § 25 .</em>
+  * <tt><a href="cs_cltt-pos-DET.html">DET</a></tt> 11: <em>(7) Není-li objektivně možné stanovit reálnou hodnotu , považuje se za <b>tuto</b> hodnotu ocenění způsoby podle §_25 .</em>
   * <tt><a href="cs_cltt-pos-ADV.html">ADV</a></tt> 7: <em>Účetní jednotka popíše <b>tuto</b> skutečnost v příloze v účetní závěrce .</em>
 * <em>jehož</em>
   * <tt><a href="cs_cltt-pos-DET.html">DET</a></tt> 6: <em>(6) Účetní jednotky uvedené v odstavci 1 jsou povinny sestavovat odpisový plán , na <b>jehož</b> podkladě provádějí odpisování majetku v průběhu jeho používání .</em>
   * <tt><a href="cs_cltt-pos-PRON.html">PRON</a></tt> 5: <em>(4) Podpisovým záznamem se rozumí účetní záznam , <b>jehož</b> obsahem je vlastnoruční podpis nebo uznávaný elektronický podpis podle zvláštního právního předpisu , anebo obdobný průkazný účetní záznam v technické formě , který zaručuje průkaznou a jednoznačnou původnost .</em>
 * <em>t</em>
-  * <tt><a href="cs_cltt-pos-DET.html">DET</a></tt> 1: <em>Odpisová sazba na jednotku těženého množství ( Kč / t , Kč / m je podílem pořizovací ceny ložiska na jednotlivém pozemku a zásob nevyhrazeného nerostu ( <b>t</b> , m prokázaných geologickým průzkumem na tomto pozemku .</em>
   * <tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt> 1: <em>Odpisová sazba na jednotku těženého množství ( Kč / <b>t</b> , Kč / m je podílem pořizovací ceny ložiska na jednotlivém pozemku a zásob nevyhrazeného nerostu ( t , m prokázaných geologickým průzkumem na tomto pozemku .</em>
+  * <tt><a href="cs_cltt-pos-DET.html">DET</a></tt> 1: <em>Odpisová sazba na jednotku těženého množství ( Kč / t , Kč / m je podílem pořizovací ceny ložiska na jednotlivém pozemku a zásob nevyhrazeného nerostu ( <b>t</b> , m prokázaných geologickým průzkumem na tomto pozemku .</em>
 
 ## Morphology
 
-The form / lemma ratio of `DET` is 5.000000 (the average of all parts of speech is 1.767001).
+The form / lemma ratio of `DET` is 5.000000 (the average of all parts of speech is 1.766716).
 
 The 1st highest number of forms (15) was observed with the lemma “tento”: <em>t, tato, tento, tohoto, tomto, tomuto, toto, touto, tuto, tyto, této, tímto, těchto, těmito, těmto</em>.
 
@@ -49,7 +49,7 @@ Examples: <em>které, jaké</em>
 
 ## Relations
 
-`DET` nodes are attached to their parents using 14 different relations: <tt><a href="cs_cltt-dep-det.html">det</a></tt> (647; 54% instances), <tt><a href="cs_cltt-dep-nsubj.html">nsubj</a></tt> (262; 22% instances), <tt><a href="cs_cltt-dep-obl.html">obl</a></tt> (124; 10% instances), <tt><a href="cs_cltt-dep-obj.html">obj</a></tt> (72; 6% instances), <tt><a href="cs_cltt-dep-cc.html">cc</a></tt> (35; 3% instances), <tt><a href="cs_cltt-dep-nsubj-pass.html">nsubj:pass</a></tt> (32; 3% instances), <tt><a href="cs_cltt-dep-conj.html">conj</a></tt> (7; 1% instances), <tt><a href="cs_cltt-dep-amod.html">amod</a></tt> (5; 0% instances), <tt><a href="cs_cltt-dep-xcomp.html">xcomp</a></tt> (4; 0% instances), <tt><a href="cs_cltt-dep-iobj.html">iobj</a></tt> (2; 0% instances), <tt><a href="cs_cltt-dep-acl.html">acl</a></tt> (1; 0% instances), <tt><a href="cs_cltt-dep-dep.html">dep</a></tt> (1; 0% instances), <tt><a href="cs_cltt-dep-det-nummod.html">det:nummod</a></tt> (1; 0% instances), <tt><a href="cs_cltt-dep-orphan.html">orphan</a></tt> (1; 0% instances)
+`DET` nodes are attached to their parents using 15 different relations: <tt><a href="cs_cltt-dep-det.html">det</a></tt> (647; 54% instances), <tt><a href="cs_cltt-dep-nsubj.html">nsubj</a></tt> (262; 22% instances), <tt><a href="cs_cltt-dep-obl.html">obl</a></tt> (124; 10% instances), <tt><a href="cs_cltt-dep-obj.html">obj</a></tt> (60; 5% instances), <tt><a href="cs_cltt-dep-cc.html">cc</a></tt> (35; 3% instances), <tt><a href="cs_cltt-dep-nsubj-pass.html">nsubj:pass</a></tt> (32; 3% instances), <tt><a href="cs_cltt-dep-obl-arg.html">obl:arg</a></tt> (12; 1% instances), <tt><a href="cs_cltt-dep-conj.html">conj</a></tt> (7; 1% instances), <tt><a href="cs_cltt-dep-amod.html">amod</a></tt> (5; 0% instances), <tt><a href="cs_cltt-dep-xcomp.html">xcomp</a></tt> (4; 0% instances), <tt><a href="cs_cltt-dep-iobj.html">iobj</a></tt> (2; 0% instances), <tt><a href="cs_cltt-dep-acl.html">acl</a></tt> (1; 0% instances), <tt><a href="cs_cltt-dep-dep.html">dep</a></tt> (1; 0% instances), <tt><a href="cs_cltt-dep-det-nummod.html">det:nummod</a></tt> (1; 0% instances), <tt><a href="cs_cltt-dep-orphan.html">orphan</a></tt> (1; 0% instances)
 
 Parents of `DET` nodes belong to 7 different parts of speech: <tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt> (741; 62% instances), <tt><a href="cs_cltt-pos-VERB.html">VERB</a></tt> (344; 29% instances), <tt><a href="cs_cltt-pos-ADJ.html">ADJ</a></tt> (96; 8% instances), <tt><a href="cs_cltt-pos-ADV.html">ADV</a></tt> (6; 1% instances), <tt><a href="cs_cltt-pos-DET.html">DET</a></tt> (5; 0% instances), <tt><a href="cs_cltt-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="cs_cltt-pos-X.html">X</a></tt> (1; 0% instances)
 

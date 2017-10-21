@@ -11,7 +11,7 @@ This relation is universal.
 6130 nodes (17%) are attached to their parents as `amod`.
 
 5396 instances of `amod` (88%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.36982055464927.
+Average distance between parent and child is 1.37634584013051.
 
 The following 7 pairs of parts of speech are connected with `amod`: <tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_cltt-pos-ADJ.html">ADJ</a></tt> (6112; 100% instances), <tt><a href="cs_cltt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cs_cltt-pos-ADJ.html">ADJ</a></tt> (6; 0% instances), <tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_cltt-pos-DET.html">DET</a></tt> (5; 0% instances), <tt><a href="cs_cltt-pos-DET.html">DET</a></tt>-<tt><a href="cs_cltt-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="cs_cltt-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_cltt-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="cs_cltt-pos-X.html">X</a></tt>-<tt><a href="cs_cltt-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="cs_cltt-pos-ADV.html">ADV</a></tt>-<tt><a href="cs_cltt-pos-ADJ.html">ADJ</a></tt> (1; 0% instances).
 
@@ -45,7 +45,7 @@ The following 7 pairs of parts of speech are connected with `amod`: <tt><a href=
 9	přeměny	přeměna	NOUN	NNFS2-----A----	Case=Gen|Gender=Fem|Number=Sing|Polarity=Pos	8	nmod	_	_
 10	vypracován	vypracovaný	ADJ	VsYS---XX-AP---	Gender=Masc|Number=Sing|Polarity=Pos|Variant=Short|VerbForm=Part|Voice=Pass	4	amod	_	_
 11	podle	podle	ADP	RR--2----------	AdpType=Prep|Case=Gen	12	case	_	LId=podle-2
-12	zákona č. 125/2008 Sb.	zákona č. 125/2008 Sb.	X	X@-------------	_	10	advmod	_	SpaceAfter=No
+12	zákona_č._125/2008_Sb.	zákona_č._125/2008_Sb.	X	X@-------------	_	10	advmod	_	SpaceAfter=No
 13	,	,	PUNCT	Z:-------------	_	15	punct	_	_
 14	o	o	ADP	RR--6----------	AdpType=Prep|Case=Loc	15	case	_	LId=o-1
 15	přeměnách	přeměna	NOUN	NNFP6-----A----	Case=Loc|Gender=Fem|Number=Plur|Polarity=Pos	12	nmod	_	_
@@ -71,7 +71,7 @@ The following 7 pairs of parts of speech are connected with `amod`: <tt><a href=
 35	přeměně	přeměna	NOUN	NNFS6-----A----	Case=Loc|Gender=Fem|Number=Sing|Polarity=Pos	33	nmod	_	_
 36	společnosti	společnost	NOUN	NNFS2-----A----	Case=Gen|Gender=Fem|Number=Sing|Polarity=Pos	35	nmod	_	_
 37	podle	podle	ADP	RR--2----------	AdpType=Prep|Case=Gen	38	case	_	LId=podle-2
-38	vyhlášky č. 500/2002 Sb.	vyhlášky č. 500/2002 Sb.	X	X@-------------	_	30	advmod	_	SpaceAfter=No
+38	vyhlášky_č._500/2002_Sb.	vyhlášky_č._500/2002_Sb.	X	X@-------------	_	30	advmod	_	SpaceAfter=No
 39	,	,	PUNCT	Z:-------------	_	41	punct	_	_
 40	ve	v	ADP	RV--6----------	AdpType=Voc|Case=Loc	41	case	_	LId=v-1
 41	znění	znění	NOUN	NNNS6-----A----	Case=Loc|Gender=Neut|Number=Sing|Polarity=Pos	38	nmod	_	_
@@ -114,7 +114,7 @@ The following 7 pairs of parts of speech are connected with `amod`: <tt><a href=
 19	těch	ten	DET	PDXP2----------	Case=Gen|Number=Plur|PronType=Dem	11	amod	_	SpaceAfter=No
 20	,	,	PUNCT	Z:-------------	_	24	punct	_	_
 21	na	na	ADP	RR--4----------	AdpType=Prep|Case=Acc	22	case	_	LId=na-1
-22	které	který	DET	P4YP4----------	Case=Acc|Gender=Masc|Number=Plur|PronType=Int,Rel	24	obj	_	_
+22	které	který	DET	P4YP4----------	Case=Acc|Gender=Masc|Number=Plur|PronType=Int,Rel	24	obl:arg	_	_
 23	se	se	PRON	P7-X4----------	Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short	24	expl:pv	_	_
 24	vztahuje	vztahovat	VERB	VB-S---3P-AA---	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	19	acl	_	_
 25	utajení	utajení	NOUN	NNNS1-----A----	Case=Nom|Gender=Neut|Number=Sing|Polarity=Pos	24	nsubj	_	_

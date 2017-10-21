@@ -63,37 +63,77 @@ The following 4 pairs of parts of speech are connected with `csubj`: <tt><a href
 
 
 ~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 6 csubj	color:blue
-1	(3)	(3)	PUNCT	Z:-------------	_	12	punct	_	_
-2	Nelze-li	Nelze-li	NOUN	NNNXX-----A----	Gender=Neut|Polarity=Pos	12	obl	_	_
-3	skutečnou	skutečný	ADJ	AAFS4----1A----	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	4	amod	_	_
-4	výši	výše	NOUN	NNFS4-----A----	Case=Acc|Gender=Fem|Number=Sing|Polarity=Pos	6	obj	_	_
-5	aktiv	aktivum	NOUN	NNNP2-----A----	Case=Gen|Gender=Neut|Number=Plur|Polarity=Pos	4	nmod	_	LId=aktivum-2
-6	zjistit	zjistit	VERB	Vf--------A----	Polarity=Pos|VerbForm=Inf	2	csubj	_	_
-7	postupem	postup	NOUN	NNIS7-----A----	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing|Polarity=Pos	6	obl	_	_
-8	podle	podle	ADP	RR--2----------	AdpType=Prep|Case=Gen	9	case	_	LId=podle-2
-9	odstavce	odstavec	NOUN	NNIS2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing|Polarity=Pos	7	nmod	_	_
-10	2	2	NUM	C}-------------	NumForm=Roman|NumType=Card	9	nummod	_	SpaceAfter=No
-11	,	,	PUNCT	Z:-------------	_	2	punct	_	_
-12	stanoví	stanovit	VERB	VB-S---3P-AA---	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-13	hodnotu	hodnota	NOUN	NNFS4-----A----	Case=Acc|Gender=Fem|Number=Sing|Polarity=Pos	12	obj	_	_
-14	aktiv	aktiv	NOUN	NNIS1-----A----	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing|Polarity=Pos	13	nmod	_	_
-15	celkem	celkem	ADV	Db-------------	_	13	advmod	_	_
-16	orgán	orgán	NOUN	NNIS4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|Polarity=Pos	12	nsubj	_	SpaceAfter=No
-17	,	,	PUNCT	Z:-------------	_	22	punct	_	_
-18	který	který	DET	P4YS1----------	Case=Nom|Gender=Masc|Number=Sing|PronType=Int,Rel	22	nsubj	_	_
-19	porušení	porušení	NOUN	NNNS4-----A----	Case=Acc|Gender=Neut|Number=Sing|Polarity=Pos	22	obj	_	_
-20	právních	právní	ADJ	AAFP2----1A----	Case=Gen|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Pos	21	amod	_	_
-21	povinností	povinnost	NOUN	NNFP2-----A----	Case=Gen|Gender=Fem|Number=Plur|Polarity=Pos	19	nmod	_	_
-22	projednává	projednávat	VERB	VB-S---3P-AA---	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	16	acl	_	SpaceAfter=No
-23	,	,	PUNCT	Z:-------------	_	22	punct	_	_
-24	kvalifikovaným	kvalifikovaný	ADJ	AAIS7----1A----	Animacy=Inan|Case=Ins|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos	25	amod	_	_
-25	odhadem	odhad	NOUN	NNIS7-----A----	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing|Polarity=Pos	12	obl	_	SpaceAfter=No
-26	.	.	PUNCT	Z:-------------	_	12	punct	_	_
+# visual-style 62	bgColor:blue
+# visual-style 62	fgColor:white
+# visual-style 61	bgColor:blue
+# visual-style 61	fgColor:white
+# visual-style 61 62 csubj	color:blue
+1	(4)	(4)	PUNCT	Z:-------------	_	10	punct	_	_
+2	Pro	pro	ADP	RR--4----------	AdpType=Prep|Case=Acc	3	case	_	LId=pro-1
+3	účely	účel	NOUN	NNIP4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur|Polarity=Pos	10	obl	_	_
+4	tohoto	tento	DET	PDZS2----------	Case=Gen|Gender=Masc,Neut|Number=Sing|PronType=Dem	5	det	_	_
+5	zákona	zákon	NOUN	NNIS2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing|Polarity=Pos	3	nmod	_	_
+6	se	se	PRON	P7-X4----------	Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short	10	expl:pass	_	_
+7	jako	jako	SCONJ	J,-------------	_	9	mark	_	_
+8	reálná	reálný	ADJ	AAFS1----1A----	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	9	amod	_	_
+9	hodnota	hodnota	NOUN	NNFS1-----A----	Case=Nom|Gender=Fem|Number=Sing|Polarity=Pos	13	xcomp	_	_
+10	použije	použít	VERB	VB-S---3P-AA---	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+11	a)	a)	X	X@-------------	_	13	nmod	_	_
+12	tržní	tržní	ADJ	AAFS1----1A----	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	13	amod	_	_
+13	hodnota	hodnota	NOUN	NNFS1-----A----	Case=Nom|Gender=Fem|Number=Sing|Polarity=Pos	10	nsubj:pass	_	SpaceAfter=No
+14	,	,	PUNCT	Z:-------------	_	16	punct	_	_
+15	b)	b)	X	X@-------------	_	16	nmod	_	_
+16	ocenění	ocenění	NOUN	NNNS1-----A----	Case=Nom|Gender=Neut|Number=Sing|Polarity=Pos	13	conj	_	_
+17	kvalifikovaným	kvalifikovaný	ADJ	AAIS7----1A----	Animacy=Inan|Case=Ins|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos	18	amod	_	_
+18	odhadem	odhad	NOUN	NNIS7-----A----	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing|Polarity=Pos	16	nmod	_	_
+19	nebo	nebo	CCONJ	J^-------------	_	20	cc	_	_
+20	posudkem	posudek	NOUN	NNIS7-----A----	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing|Polarity=Pos	18	conj	_	_
+21	znalce	znalec	NOUN	NNMS2-----A----	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing|Polarity=Pos	20	nmod	_	SpaceAfter=No
+22	,	,	PUNCT	Z:-------------	_	23	punct	_	_
+23	není-li	není-li	X	X@-------------	_	16	dep	_	_
+24	tržní	tržní	ADJ	AAFS1----1A----	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	25	amod	_	_
+25	hodnota	hodnota	NOUN	NNFS1-----A----	Case=Nom|Gender=Fem|Number=Sing|Polarity=Pos	23	nsubj	_	_
+26	k	k	ADP	RR--3----------	AdpType=Prep|Case=Dat	27	case	_	LId=k-1
+27	dispozici	dispozice	NOUN	NNFS3-----A----	Case=Dat|Gender=Fem|Number=Sing|Polarity=Pos	23	obl	_	_
+28	nebo	nebo	CCONJ	J^-------------	_	31	cc	_	_
+29	tato	tento	DET	PDFS1----------	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	31	nsubj	_	_
+30	nedostatečně	dostatečně	ADV	Dg-------1N----	Degree=Pos|Polarity=Neg	31	advmod	_	_
+31	představuje	představovat	VERB	VB-S---3P-AA---	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	23	conj	_	_
+32	reálnou	reálný	ADJ	AAFS4----1A----	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	33	amod	_	_
+33	hodnotu	hodnota	NOUN	NNFS4-----A----	Case=Acc|Gender=Fem|Number=Sing|Polarity=Pos	31	obj	_	SpaceAfter=No
+34	;	;	PUNCT	Z:-------------	_	44	punct	_	_
+35	metody	metoda	NOUN	NNFP1-----A----	Case=Nom|Gender=Fem|Number=Plur|Polarity=Pos	44	nsubj	_	_
+36	ocenění	ocenění	NOUN	NNNS2-----A----	Case=Gen|Gender=Neut|Number=Sing|Polarity=Pos	35	nmod	_	_
+37	použité	použitý	ADJ	AAFP1----1A----	Case=Nom|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Pos	35	amod	_	_
+38	při	při	ADP	RR--6----------	AdpType=Prep|Case=Loc	40	case	_	LId=při-1
+39	kvalifikovaném	kvalifikovaný	ADJ	AAIS6----1A----	Animacy=Inan|Case=Loc|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos	40	amod	_	_
+40	odhadu	odhad	NOUN	NNIS6-----A----	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing|Polarity=Pos	37	obl	_	_
+41	nebo	nebo	CCONJ	J^-------------	_	42	cc	_	_
+42	posudku	posudek	NOUN	NNIS6-----A----	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing|Polarity=Pos	40	conj	_	_
+43	znalce	znalec	NOUN	NNMS2-----A----	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing|Polarity=Pos	40	nmod	_	_
+44	musí	muset	VERB	VB-S---3P-AA---	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	16	dep	_	_
+45	zajistit	zajistit	VERB	Vf--------A----	Polarity=Pos|VerbForm=Inf	44	xcomp	_	_
+46	přiměřené	přiměřený	ADJ	AANS4----1A----	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing|Polarity=Pos	47	amod	_	_
+47	přiblížení	přiblížení	NOUN	NNNS4-----A----	Case=Acc|Gender=Neut|Number=Sing|Polarity=Pos	45	obj	_	_
+48	se	se	PRON	P7-X4----------	Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short	47	expl:pv	_	_
+49	k	k	ADP	RR--3----------	AdpType=Prep|Case=Dat	51	case	_	LId=k-1
+50	tržní	tržní	ADJ	AAFS3----1A----	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	51	amod	_	_
+51	hodnotě	hodnota	NOUN	NNFS3-----A----	Case=Dat|Gender=Fem|Number=Sing|Polarity=Pos	47	obl	_	SpaceAfter=No
+52	,	,	PUNCT	Z:-------------	_	54	punct	_	_
+53	c)	c)	X	X@-------------	_	54	nmod	_	_
+54	ocenění	ocenění	NOUN	NNNS4-----A----	Case=Acc|Gender=Neut|Number=Sing|Polarity=Pos	13	conj	_	_
+55	stanovené	stanovený	ADJ	AANS4----1A----	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing|Polarity=Pos	54	amod	_	_
+56	podle	podle	ADP	RR--2----------	AdpType=Prep|Case=Gen	59	case	_	LId=podle-2
+57	zvláštních	zvláštní	ADJ	AAIP2----1A----	Animacy=Inan|Case=Gen|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos	59	amod	_	_
+58	právních	právní	ADJ	AAIP2----1A----	Animacy=Inan|Case=Gen|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos	59	amod	_	_
+59	předpisů	předpis	NOUN	NNIP2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur|Polarity=Pos	55	obl	_	SpaceAfter=No
+60	,	,	PUNCT	Z:-------------	_	61	punct	_	_
+61	nelze-li	nelze-li	X	X@-------------	_	54	dep	_	_
+62	postupovat	postupovat	VERB	Vf--------A----	Polarity=Pos|VerbForm=Inf	61	csubj	_	_
+63	podle	podle	ADP	RR--2----------	AdpType=Prep|Case=Gen	64	case	_	LId=podle-2
+64	písmen	písmeno	NOUN	NNNP2-----A----	Case=Gen|Gender=Neut|Number=Plur|Polarity=Pos	62	obl	_	_
+65	a)_a_b)	a)_a_b)	X	X@-------------	_	64	nmod	_	SpaceAfter=No
+66	.	.	PUNCT	Z:-------------	_	10	punct	_	_
 
 ~~~
 
