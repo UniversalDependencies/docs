@@ -26,7 +26,7 @@ The following 7 pairs of parts of speech are connected with `vocative`: <tt><a h
 2	doktore	doktor	NOUN	NNMS5-----A----	Animacy=Anim|Case=Voc|Gender=Masc|Number=Sing|Polarity=Pos	10	vocative	_	SpaceAfter=No
 3	,	,	PUNCT	Z:-------------	_	10	punct	_	_
 4	o	o	ADP	RR--6----------	AdpType=Prep|Case=Loc	5	case	_	LId=o-1
-5	čem	co	PRON	PQ--6----------	Animacy=Inan|Case=Loc|PronType=Int,Rel	10	obj	_	LId=co-1
+5	čem	co	PRON	PQ--6----------	Animacy=Inan|Case=Loc|PronType=Int,Rel	10	obl:arg	_	LId=co-1
 6	se	se	PRON	P7-X4----------	Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short	10	expl:pass	_	LGloss=(zvr._zájmeno/částice)
 7	na	na	ADP	RR--6----------	AdpType=Prep|Case=Loc	8	case	_	LId=na-1
 8	besedě	beseda	NOUN	NNFS6-----A----	Case=Loc|Gender=Fem|Number=Sing|Polarity=Pos	10	obl	_	_

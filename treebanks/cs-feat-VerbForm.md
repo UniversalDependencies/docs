@@ -142,7 +142,7 @@ The most frequent other feature values with which `ADJ` and `VerbForm` co-occurr
 `ADJ` tokens may have the following values of `VerbForm`:
 
 * `Part` (14024; 100% of non-empty `VerbForm`): <em>rozhodující, řečeno, vedoucí, následující, přesvědčen, připravena, připraven, vynikající, týkající, otevřena</em>
-* `EMPTY` (176313): <em>první, další, české, nové, druhé, poslední, státní, dalších, možné, vlastní</em>
+* `EMPTY` (175161): <em>první, další, české, nové, druhé, poslední, státní, dalších, možné, vlastní</em>
 
 `VerbForm` seems to be **lexical feature** of `ADJ`. 100% lemmas (2662) occur only with one value of `VerbForm`.
 

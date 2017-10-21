@@ -32,7 +32,7 @@ The following 3 pairs of parts of speech are connected with `det:numgov`: <tt><a
 7	na	na	ADP	RR--4----------	AdpType=Prep|Case=Acc	10	case	_	LId=na-1
 8	několik	několik	DET	Ca--4----------	Case=Acc|NumType=Card|PronType=Ind	10	det:numgov	_	_
 9	málo	málo	DET	Ca--4----------	Case=Acc|NumType=Card|PronType=Ind	10	det:numgov	_	LId=málo-1|LGloss=(málo_+_2._p.,_málo_peněz)
-10	teritorií	teritorium	NOUN	NNNP2-----A----	Case=Gen|Gender=Neut|Number=Plur|Polarity=Pos	5	iobj	_	SpaceAfter=No
+10	teritorií	teritorium	NOUN	NNNP2-----A----	Case=Gen|Gender=Neut|Number=Plur|Polarity=Pos	5	obl:arg	_	SpaceAfter=No
 11	.	.	PUNCT	Z:-------------	_	5	punct	_	_
 
 ~~~

@@ -38,7 +38,7 @@ The most frequent other feature values with which `ADJ` and `Aspect` co-occurred
 
 * `Imp` (3011; 65% of non-empty `Aspect`): <em>pracujících, rozhodující, pracující, vedoucí, odpovídající, následující, věnována, řídící, týkající, vyplývající</em>
 * `Perf` (1589; 35% of non-empty `Aspect`): <em>splněny, zahájena, založena, splněn, stanovena, spojeno, spojeny, stanoveny, vybudována, připraveny</em>
-* `EMPTY` (70194): <em>další, pracovní, první, jednotlivých, základní, nové, možno, socialistické, různých, každý</em>
+* `EMPTY` (69622): <em>další, pracovní, první, jednotlivých, základní, nové, možno, socialistické, různých, dalších</em>
 
 `Aspect` seems to be **lexical feature** of `ADJ`. 100% lemmas (1200) occur only with one value of `Aspect`.
 
@@ -46,7 +46,7 @@ The most frequent other feature values with which `ADJ` and `Aspect` co-occurred
 
 90 <tt><a href="cs_cac-pos-AUX.html">AUX</a></tt> tokens (1% of all `AUX` tokens) have a non-empty value of `Aspect`.
 
-The most frequent other feature values with which `AUX` and `Aspect` co-occurred: <tt><a href="cs_cac-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (88; 98%), <tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (84; 93%), <tt><a href="cs_cac-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (77; 86%), <tt><a href="cs_cac-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (75; 83%), <tt><a href="cs_cac-feat-Person.html">Person</a></tt><tt>=3</tt> (73; 81%), <tt><a href="cs_cac-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (73; 81%), <tt><a href="cs_cac-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (73; 81%), <tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt> (67; 74%).
+The most frequent other feature values with which `AUX` and `Aspect` co-occurred: <tt><a href="cs_cac-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (88; 98%), <tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (84; 93%), <tt><a href="cs_cac-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (77; 86%), <tt><a href="cs_cac-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (75; 83%), <tt><a href="cs_cac-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (73; 81%), <tt><a href="cs_cac-feat-Person.html">Person</a></tt><tt>=3</tt> (73; 81%), <tt><a href="cs_cac-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (73; 81%), <tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt> (67; 74%).
 
 `AUX` tokens may have the following values of `Aspect`:
 

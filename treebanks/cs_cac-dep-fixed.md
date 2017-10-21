@@ -64,7 +64,7 @@ The following 24 pairs of parts of speech are connected with `fixed`: <tt><a hre
 2	když	když	SCONJ	J,-------------	_	1	fixed	_	_
 3	nejde	jít	VERB	VB-S---3P-NA---	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 4	o	o	ADP	RR--4----------	AdpType=Prep|Case=Acc	5	case	_	LId=o-1
-5	čísla	číslo	NOUN	NNNP4-----A----	Case=Acc|Gender=Neut|Number=Plur|Polarity=Pos	3	obj	_	SpaceAfter=No
+5	čísla	číslo	NOUN	NNNP4-----A----	Case=Acc|Gender=Neut|Number=Plur|Polarity=Pos	3	obl:arg	_	SpaceAfter=No
 6	.	.	PUNCT	Z:-------------	_	3	punct	_	_
 
 ~~~

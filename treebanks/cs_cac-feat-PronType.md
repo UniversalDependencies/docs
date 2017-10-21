@@ -10,29 +10,29 @@ This feature is universal but the values `Emp` are language-specific.
 It occurs with 8 different values: `Dem`, `Emp`, `Ind`, `Int`, `Neg`, `Prs`, `Rel`, `Tot`.
 Some words have combined values of the feature; 1 combinations have been observed: `Int|Rel`.
 
-39857 tokens (8%) have a non-empty value of `PronType`.
-698 types (1%) occur at least once with a non-empty value of `PronType`.
-132 lemmas (0%) occur at least once with a non-empty value of `PronType`.
-The feature is used with 3 part-of-speech tags: <tt><a href="cs_cac-pos-DET.html">DET</a></tt> (19445; 4% instances), <tt><a href="cs_cac-pos-PRON.html">PRON</a></tt> (16032; 3% instances), <tt><a href="cs_cac-pos-ADV.html">ADV</a></tt> (4380; 1% instances).
+40429 tokens (8%) have a non-empty value of `PronType`.
+717 types (1%) occur at least once with a non-empty value of `PronType`.
+133 lemmas (0%) occur at least once with a non-empty value of `PronType`.
+The feature is used with 3 part-of-speech tags: <tt><a href="cs_cac-pos-DET.html">DET</a></tt> (20017; 4% instances), <tt><a href="cs_cac-pos-PRON.html">PRON</a></tt> (16032; 3% instances), <tt><a href="cs_cac-pos-ADV.html">ADV</a></tt> (4380; 1% instances).
 
 ### `DET`
 
-19445 <tt><a href="cs_cac-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `PronType`.
+20017 <tt><a href="cs_cac-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `DET` and `PronType` co-occurred: <tt><a href="cs_cac-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (17377; 89%), <tt><a href="cs_cac-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (15514; 80%), <tt><a href="cs_cac-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (15514; 80%), <tt><a href="cs_cac-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (14074; 72%), <tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt> (11876; 61%).
+The most frequent other feature values with which `DET` and `PronType` co-occurred: <tt><a href="cs_cac-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (17592; 88%), <tt><a href="cs_cac-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (16086; 80%), <tt><a href="cs_cac-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (16086; 80%), <tt><a href="cs_cac-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (14646; 73%), <tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt> (12439; 62%).
 
 `DET` tokens may have the following values of `PronType`:
 
-* `Dem` (8168; 42% of non-empty `PronType`): <em>to, tím, této, těchto, tyto, tom, toho, tento, tohoto, tomu</em>
+* `Dem` (8168; 41% of non-empty `PronType`): <em>to, tím, této, těchto, tyto, tom, toho, tento, tohoto, tomu</em>
 * `Emp` (283; 1% of non-empty `PronType`): <em>sám, sama, sami, samo, samy, samu</em>
-* `Ind` (1468; 8% of non-empty `PronType`): <em>některé, některých, několik, mnoho, několika, mnoha, někteří, nějaké, některá, nějakou</em>
+* `Ind` (1468; 7% of non-empty `PronType`): <em>některé, některých, několik, mnoho, několika, mnoha, někteří, nějaké, některá, nějakou</em>
 * `Int,Rel` (3953; 20% of non-empty `PronType`): <em>které, který, která, kteří, kterou, jaké, kterých, kterým, kolik, kterém</em>
 * `Neg` (133; 1% of non-empty `PronType`): <em>žádné, žádný, žádná, žádnou, žádném, žádných, žádným, žádného, žádnému, pražádnou</em>
-* `Prs` (5003; 26% of non-empty `PronType`): <em>jejich, jeho, své, její, naší, svou, naše, našeho, svých, našich</em>
+* `Prs` (5003; 25% of non-empty `PronType`): <em>jejich, jeho, své, její, naší, svou, naše, našeho, svých, našich</em>
 * `Rel` (349; 2% of non-empty `PronType`): <em>jehož, jejichž, jejíž, jejímž, jejímuž, jejíchž, kterážto</em>
-* `Tot` (88; 0% of non-empty `PronType`): <em>všechny, všechno, všichni, vše, všech, všeho, všem, vší</em>
+* `Tot` (660; 3% of non-empty `PronType`): <em>každý, každé, každého, všechny, každá, každém, každou, každým, každému, všechno</em>
 
-`PronType` seems to be **lexical feature** of `DET`. 100% lemmas (49) occur only with one value of `PronType`.
+`PronType` seems to be **lexical feature** of `DET`. 100% lemmas (50) occur only with one value of `PronType`.
 
 ### `PRON`
 
@@ -55,7 +55,7 @@ The most frequent other feature values with which `PRON` and `PronType` co-occur
 
 4380 <tt><a href="cs_cac-pos-ADV.html">ADV</a></tt> tokens (16% of all `ADV` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `ADV` and `PronType` co-occurred: <tt><a href="cs_cac-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (4380; 100%), <tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (4380; 100%).
+The most frequent other feature values with which `ADV` and `PronType` co-occurred: <tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (4380; 100%), <tt><a href="cs_cac-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (4380; 100%).
 
 `ADV` tokens may have the following values of `PronType`:
 
@@ -71,7 +71,7 @@ The most frequent other feature values with which `ADV` and `PronType` co-occurr
 ## Relations with Agreement in `PronType`
 
 The 10 most frequent relations where parent and child node agree in `PronType`:
-<tt>DET --[<tt><a href="cs_cac-dep-conj.html">conj</a></tt>]--> DET</tt> (53; 96%),
+<tt>DET --[<tt><a href="cs_cac-dep-conj.html">conj</a></tt>]--> DET</tt> (53; 95%),
 <tt>PRON --[<tt><a href="cs_cac-dep-conj.html">conj</a></tt>]--> PRON</tt> (10; 100%),
 <tt>DET --[<tt><a href="cs_cac-dep-cc.html">cc</a></tt>]--> DET</tt> (7; 88%),
 <tt>DET --[<tt><a href="cs_cac-dep-nsubj.html">nsubj</a></tt>]--> DET</tt> (6; 86%),

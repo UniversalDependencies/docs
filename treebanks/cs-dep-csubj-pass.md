@@ -52,7 +52,7 @@ The following 11 pairs of parts of speech are connected with `csubj:pass`: <tt><
 8	a	a	CCONJ	J^-------------	_	12	cc	_	LId=a-1
 9	nic	nic	PRON	PW--4----------	Case=Acc|PronType=Neg	12	obj	_	_
 10	od	od	ADP	RR--2----------	AdpType=Prep|Case=Gen	11	case	_	LId=od-1
-11	vás	ty	PRON	PP-P2--2-------	Case=Gen|Number=Plur|Person=2|PronType=Prs	12	iobj	_	_
+11	vás	ty	PRON	PP-P2--2-------	Case=Gen|Number=Plur|Person=2|PronType=Prs	12	obl:arg	_	_
 12	nechcem	chtít	VERB	VB-P---1P-NA--1	Mood=Ind|Number=Plur|Person=1|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act	7	conj	_	SpaceAfter=No
 13	.	.	PUNCT	Z:-------------	_	3	punct	_	_
 
@@ -67,7 +67,7 @@ The following 11 pairs of parts of speech are connected with `csubj:pass`: <tt><
 # visual-style 6 10 csubj:pass	color:blue
 1	O	o	ADP	RR--6----------	AdpType=Prep|Case=Loc	3	case	_	LId=o-1
 2	centrální	centrální	ADJ	AAFS6----1A----	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	3	amod	_	_
-3	výrobě	výroba	NOUN	NNFS6-----A----	Case=Loc|Gender=Fem|Number=Sing|Polarity=Pos	6	obj	_	_
+3	výrobě	výroba	NOUN	NNFS6-----A----	Case=Loc|Gender=Fem|Number=Sing|Polarity=Pos	6	obl:arg	_	_
 4	tepla	teplo	NOUN	NNNS2-----A----	Case=Gen|Gender=Neut|Number=Sing|Polarity=Pos	3	nmod	_	LId=teplo-1
 5	se	se	PRON	P7-X4----------	Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short	6	expl:pass	_	LGloss=(zvr._zájmeno/částice)
 6	říká	říkat	VERB	VB-S---3P-AA---	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No

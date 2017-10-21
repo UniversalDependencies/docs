@@ -19,7 +19,7 @@ The feature is used with 4 part-of-speech tags: <tt><a href="cs_cac-pos-NUM.html
 
 7307 <tt><a href="cs_cac-pos-NUM.html">NUM</a></tt> tokens (100% of all `NUM` tokens) have a non-empty value of `NumType`.
 
-The most frequent other feature values with which `NUM` and `NumType` co-occurred: <tt><a href="cs_cac-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (6108; 84%), <tt><a href="cs_cac-feat-NumValue.html">NumValue</a></tt><tt>=EMPTY</tt> (5345; 73%), <tt><a href="cs_cac-feat-NumForm.html">NumForm</a></tt><tt>=Digit</tt> (4836; 66%), <tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (4836; 66%), <tt><a href="cs_cac-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (4836; 66%).
+The most frequent other feature values with which `NUM` and `NumType` co-occurred: <tt><a href="cs_cac-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (6108; 84%), <tt><a href="cs_cac-feat-NumValue.html">NumValue</a></tt><tt>=EMPTY</tt> (5345; 73%), <tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (4836; 66%), <tt><a href="cs_cac-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (4836; 66%), <tt><a href="cs_cac-feat-NumForm.html">NumForm</a></tt><tt>=Digit</tt> (4836; 66%).
 
 `NUM` tokens may have the following values of `NumType`:
 
@@ -39,7 +39,7 @@ The most frequent other feature values with which `ADJ` and `NumType` co-occurre
 * `Mult,Sets` (34; 4% of non-empty `NumType`): <em>dvojí, obojí, dvojím, trojí, dvojího, trojím, dvojímu, oboje, obojího, obojím</em>
 * `Ord` (819; 95% of non-empty `NumType`): <em>první, prvním, třetí, prvních, prvního, šedesátých, třetího, třicátých, dvacátých, páté</em>
 * `Sets` (10; 1% of non-empty `NumType`): <em>jedněch, jedni, jedny</em>
-* `EMPTY` (73931): <em>další, pracovní, jednotlivých, základní, nové, možno, socialistické, různých, každý, dalších</em>
+* `EMPTY` (73359): <em>další, pracovní, jednotlivých, základní, nové, možno, socialistické, různých, dalších, větší</em>
 
 `NumType` seems to be **lexical feature** of `ADJ`. 100% lemmas (39) occur only with one value of `NumType`.
 
@@ -47,13 +47,13 @@ The most frequent other feature values with which `ADJ` and `NumType` co-occurre
 
 654 <tt><a href="cs_cac-pos-DET.html">DET</a></tt> tokens (3% of all `DET` tokens) have a non-empty value of `NumType`.
 
-The most frequent other feature values with which `DET` and `NumType` co-occurred: <tt><a href="cs_cac-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (654; 100%), <tt><a href="cs_cac-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (654; 100%), <tt><a href="cs_cac-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (654; 100%), <tt><a href="cs_cac-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (652; 100%), <tt><a href="cs_cac-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (638; 98%), <tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (638; 98%), <tt><a href="cs_cac-feat-PronType.html">PronType</a></tt><tt>=Ind</tt> (563; 86%).
+The most frequent other feature values with which `DET` and `NumType` co-occurred: <tt><a href="cs_cac-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (654; 100%), <tt><a href="cs_cac-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (654; 100%), <tt><a href="cs_cac-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (654; 100%), <tt><a href="cs_cac-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (652; 100%), <tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (638; 98%), <tt><a href="cs_cac-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (638; 98%), <tt><a href="cs_cac-feat-PronType.html">PronType</a></tt><tt>=Ind</tt> (563; 86%).
 
 `DET` tokens may have the following values of `NumType`:
 
 * `Card` (651; 100% of non-empty `NumType`): <em>několik, mnoho, několika, mnoha, kolik, tolik, málo, nejeden, mála, nejednom</em>
 * `Ord` (3; 0% of non-empty `NumType`): <em>Kolikátý, kolikátá, kolikátém</em>
-* `EMPTY` (18791): <em>to, které, jejich, jeho, který, která, tím, této, své, těchto</em>
+* `EMPTY` (19363): <em>to, které, jejich, jeho, který, která, tím, této, své, těchto</em>
 
 ### `ADV`
 

@@ -12,18 +12,18 @@ It occurs with 3 different values: `Cmp`, `Pos`, `Sup`.
 76648 tokens (16%) have a non-empty value of `Degree`.
 21375 types (34%) occur at least once with a non-empty value of `Degree`.
 8361 lemmas (29%) occur at least once with a non-empty value of `Degree`.
-The feature is used with 2 part-of-speech tags: <tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt> (65943; 13% instances), <tt><a href="cs_cac-pos-ADV.html">ADV</a></tt> (10705; 2% instances).
+The feature is used with 3 part-of-speech tags: <tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt> (65371; 13% instances), <tt><a href="cs_cac-pos-ADV.html">ADV</a></tt> (10705; 2% instances), <tt><a href="cs_cac-pos-DET.html">DET</a></tt> (572; 0% instances).
 
 ### `ADJ`
 
-65943 <tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt> tokens (88% of all `ADJ` tokens) have a non-empty value of `Degree`.
+65371 <tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt> tokens (88% of all `ADJ` tokens) have a non-empty value of `Degree`.
 
-The most frequent other feature values with which `ADJ` and `Degree` co-occurred: <tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (64650; 98%), <tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt> (42939; 65%), <tt><a href="cs_cac-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (39699; 60%).
+The most frequent other feature values with which `ADJ` and `Degree` co-occurred: <tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (64078; 98%), <tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt> (42376; 65%), <tt><a href="cs_cac-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (39484; 60%).
 
 `ADJ` tokens may have the following values of `Degree`:
 
 * `Cmp` (1630; 2% of non-empty `Degree`): <em>větší, vyšší, menší, starší, nižší, lepší, delší, vyšších, větších, složitější</em>
-* `Pos` (63280; 96% of non-empty `Degree`): <em>další, pracovní, jednotlivých, základní, nové, socialistické, různých, každý, dalších, jiné</em>
+* `Pos` (62708; 96% of non-empty `Degree`): <em>další, pracovní, jednotlivých, základní, nové, socialistické, různých, dalších, jiné, vlastní</em>
 * `Sup` (1033; 2% of non-empty `Degree`): <em>největší, nejlepší, nejvyšší, nejdůležitější, nejmenší, nejbližší, nejlepším, nejrůznějších, největším, nejlepších</em>
 * `EMPTY` (8851): <em>první, možno, nutno, pracujících, rozhodující, pracující, povinen, prvním, vedoucí, třetí</em>
 
@@ -82,7 +82,7 @@ The most frequent other feature values with which `ADJ` and `Degree` co-occurred
   <tr><td><tt><tt><a href="cs_cac-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="cs_cac-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt></tt></td><td><em>velká</em></td><td><em>větší</em></td><td></td></tr>
 </table>
 
-`Degree` seems to be **lexical feature** of `ADJ`. 96% lemmas (6953) occur only with one value of `Degree`.
+`Degree` seems to be **lexical feature** of `ADJ`. 96% lemmas (6952) occur only with one value of `Degree`.
 
 ### `ADV`
 
@@ -104,15 +104,26 @@ The most frequent other feature values with which `ADV` and `Degree` co-occurred
 
 `Degree` seems to be **lexical feature** of `ADV`. 92% lemmas (1016) occur only with one value of `Degree`.
 
+### `DET`
+
+572 <tt><a href="cs_cac-pos-DET.html">DET</a></tt> tokens (3% of all `DET` tokens) have a non-empty value of `Degree`.
+
+The most frequent other feature values with which `DET` and `Degree` co-occurred: <tt><a href="cs_cac-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (572; 100%), <tt><a href="cs_cac-feat-PronType.html">PronType</a></tt><tt>=Tot</tt> (572; 100%), <tt><a href="cs_cac-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (572; 100%), <tt><a href="cs_cac-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (572; 100%), <tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt> (563; 98%), <tt><a href="cs_cac-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (357; 62%).
+
+`DET` tokens may have the following values of `Degree`:
+
+* `Pos` (572; 100% of non-empty `Degree`): <em>každý, každé, každého, každá, každém, každou, každým, každému, každých, každej</em>
+* `EMPTY` (19445): <em>to, které, jejich, jeho, který, která, tím, této, své, těchto</em>
+
 ## Relations with Agreement in `Degree`
 
 The 10 most frequent relations where parent and child node agree in `Degree`:
-<tt>ADJ --[<tt><a href="cs_cac-dep-conj.html">conj</a></tt>]--> ADJ</tt> (3163; 89%),
+<tt>ADJ --[<tt><a href="cs_cac-dep-conj.html">conj</a></tt>]--> ADJ</tt> (3161; 89%),
 <tt>ADV --[<tt><a href="cs_cac-dep-conj.html">conj</a></tt>]--> ADV</tt> (220; 81%),
 <tt>ADJ --[<tt><a href="cs_cac-dep-appos.html">appos</a></tt>]--> ADJ</tt> (103; 84%),
-<tt>ADJ --[<tt><a href="cs_cac-dep-amod.html">amod</a></tt>]--> ADJ</tt> (53; 65%),
-<tt>ADJ --[<tt><a href="cs_cac-dep-dep.html">dep</a></tt>]--> ADJ</tt> (43; 58%),
-<tt>ADJ --[<tt><a href="cs_cac-dep-orphan.html">orphan</a></tt>]--> ADJ</tt> (18; 78%),
+<tt>ADJ --[<tt><a href="cs_cac-dep-amod.html">amod</a></tt>]--> ADJ</tt> (51; 65%),
+<tt>ADJ --[<tt><a href="cs_cac-dep-dep.html">dep</a></tt>]--> ADJ</tt> (42; 58%),
+<tt>ADJ --[<tt><a href="cs_cac-dep-orphan.html">orphan</a></tt>]--> ADJ</tt> (17; 77%),
 <tt>ADJ --[<tt><a href="cs_cac-dep-csubj.html">csubj</a></tt>]--> ADJ</tt> (17; 52%),
 <tt>ADJ --[<tt><a href="cs_cac-dep-cop.html">cop</a></tt>]--> ADJ</tt> (7; 100%),
 <tt>ADV --[<tt><a href="cs_cac-dep-appos.html">appos</a></tt>]--> ADV</tt> (6; 75%),

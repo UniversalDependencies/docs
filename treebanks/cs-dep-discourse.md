@@ -53,7 +53,7 @@ The following 25 pairs of parts of speech are connected with `discourse`: <tt><a
 # visual-style 6 1 discourse	color:blue
 1	Tak	tak	ADV	Db-------------	PronType=Dem	6	discourse	_	LId=tak-3
 2	na	na	ADP	RR--4----------	AdpType=Prep|Case=Acc	3	case	_	LId=na-1
-3	to	ten	DET	PDNS4----------	Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	6	obj	_	_
+3	to	ten	DET	PDNS4----------	Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	6	obl:arg	_	_
 4	si	se	PRON	P7-X3----------	Case=Dat|PronType=Prs|Reflex=Yes|Variant=Short	6	expl:pv	_	LGloss=(zvr._zájmeno/částice)
 5	ještě	ještě	ADV	Db-------------	_	6	advmod	_	_
 6	počkáte	počkat	VERB	VB-P---2P-AA---	Aspect=Perf|Mood=Ind|Number=Plur|Person=2|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No

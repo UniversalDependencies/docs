@@ -12,7 +12,7 @@ It occurs with 7 different values: `Acc`, `Dat`, `Gen`, `Ins`, `Loc`, `Nom`, `Vo
 296098 tokens (60%) have a non-empty value of `Case`.
 51534 types (83%) occur at least once with a non-empty value of `Case`.
 22134 lemmas (78%) occur at least once with a non-empty value of `Case`.
-The feature is used with 7 part-of-speech tags: <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> (135026; 27% instances), <tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt> (69443; 14% instances), <tt><a href="cs_cac-pos-ADP.html">ADP</a></tt> (48249; 10% instances), <tt><a href="cs_cac-pos-DET.html">DET</a></tt> (17190; 3% instances), <tt><a href="cs_cac-pos-PRON.html">PRON</a></tt> (15909; 3% instances), <tt><a href="cs_cac-pos-PROPN.html">PROPN</a></tt> (7810; 2% instances), <tt><a href="cs_cac-pos-NUM.html">NUM</a></tt> (2471; 0% instances).
+The feature is used with 7 part-of-speech tags: <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> (135026; 27% instances), <tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt> (68871; 14% instances), <tt><a href="cs_cac-pos-ADP.html">ADP</a></tt> (48249; 10% instances), <tt><a href="cs_cac-pos-DET.html">DET</a></tt> (17762; 4% instances), <tt><a href="cs_cac-pos-PRON.html">PRON</a></tt> (15909; 3% instances), <tt><a href="cs_cac-pos-PROPN.html">PROPN</a></tt> (7810; 2% instances), <tt><a href="cs_cac-pos-NUM.html">NUM</a></tt> (2471; 0% instances).
 
 ### `NOUN`
 
@@ -39,18 +39,18 @@ The most frequent other feature values with which `NOUN` and `Case` co-occurred:
 
 ### `ADJ`
 
-69443 <tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt> tokens (93% of all `ADJ` tokens) have a non-empty value of `Case`.
+68871 <tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt> tokens (93% of all `ADJ` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `ADJ` and `Case` co-occurred: <tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (66608; 96%), <tt><a href="cs_cac-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (63118; 91%), <tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt> (45181; 65%), <tt><a href="cs_cac-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (41533; 60%).
+The most frequent other feature values with which `ADJ` and `Case` co-occurred: <tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (66036; 96%), <tt><a href="cs_cac-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (62546; 91%), <tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt> (44618; 65%), <tt><a href="cs_cac-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (41318; 60%).
 
 `ADJ` tokens may have the following values of `Case`:
 
-* `Acc` (12331; 18% of non-empty `Case`): <em>další, základní, první, pracovní, nové, jiné, různé, vlastní, celou, větší</em>
-* `Dat` (2223; 3% of non-empty `Case`): <em>dalšímu, jiným, každému, ostatním, národnímu, jednotlivým, různým, socialistickému, Slovenskému, plánovaným</em>
-* `Gen` (23395; 34% of non-empty `Case`): <em>jednotlivých, národního, socialistické, výrobních, dalších, různých, jiných, nových, základních, pracovní</em>
-* `Ins` (6464; 9% of non-empty `Case`): <em>jinými, hlavním, ostatními, základním, různými, velkým, elektrickým, dalším, určitým, novým</em>
-* `Loc` (7523; 11% of non-empty `Case`): <em>současné, druhé, různých, jednotlivých, dalších, jiných, celé, pracovní, každém, celém</em>
-* `Nom` (17484; 25% of non-empty `Case`): <em>další, každý, první, možné, nutné, nové, základní, pracovní, větší, různé</em>
+* `Acc` (12223; 18% of non-empty `Case`): <em>další, základní, první, pracovní, nové, jiné, různé, vlastní, celou, větší</em>
+* `Dat` (2191; 3% of non-empty `Case`): <em>dalšímu, jiným, ostatním, národnímu, jednotlivým, různým, socialistickému, Slovenskému, plánovaným, určitému</em>
+* `Gen` (23302; 34% of non-empty `Case`): <em>jednotlivých, národního, socialistické, výrobních, dalších, různých, jiných, nových, základních, pracovní</em>
+* `Ins` (6436; 9% of non-empty `Case`): <em>jinými, hlavním, ostatními, základním, různými, velkým, elektrickým, dalším, určitým, novým</em>
+* `Loc` (7449; 11% of non-empty `Case`): <em>současné, druhé, různých, jednotlivých, dalších, jiných, celé, pracovní, celém, posledních</em>
+* `Nom` (17247; 25% of non-empty `Case`): <em>další, první, možné, nutné, nové, základní, pracovní, větší, různé, ostatní</em>
 * `Voc` (23; 0% of non-empty `Case`): <em>vážený, vážení, vážená, vážené, dolarovej, drahej, mladí, podnikový</em>
 * `EMPTY` (5351): <em>možno, nutno, povinen, řečeno, Králové, dosaženo, známo, rád, rádi, věnována</em>
 
@@ -101,18 +101,18 @@ The most frequent other feature values with which `ADP` and `Case` co-occurred: 
 
 ### `DET`
 
-17190 <tt><a href="cs_cac-pos-DET.html">DET</a></tt> tokens (88% of all `DET` tokens) have a non-empty value of `Case`.
+17762 <tt><a href="cs_cac-pos-DET.html">DET</a></tt> tokens (89% of all `DET` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `DET` and `Case` co-occurred: <tt><a href="cs_cac-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (15513; 90%), <tt><a href="cs_cac-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (15513; 90%), <tt><a href="cs_cac-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (15122; 88%), <tt><a href="cs_cac-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (14073; 82%), <tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt> (11697; 68%).
+The most frequent other feature values with which `DET` and `Case` co-occurred: <tt><a href="cs_cac-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (16085; 91%), <tt><a href="cs_cac-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (16085; 91%), <tt><a href="cs_cac-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (15337; 86%), <tt><a href="cs_cac-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (14645; 82%), <tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt> (12260; 69%).
 
 `DET` tokens may have the following values of `Case`:
 
-* `Acc` (3693; 21% of non-empty `Case`): <em>to, které, své, tuto, kterou, tyto, svou, který, tento, několik</em>
-* `Dat` (776; 5% of non-empty `Case`): <em>tomu, tomuto, této, kterým, těmto, svému, těm, některým, jejímu, kterému</em>
-* `Gen` (2884; 17% of non-empty `Case`): <em>toho, tohoto, těchto, této, našeho, naší, některých, svého, našich, své</em>
-* `Ins` (1324; 8% of non-empty `Case`): <em>tím, svým, svou, tímto, svými, touto, těmito, jakým, kterým, kterými</em>
-* `Loc` (1845; 11% of non-empty `Case`): <em>tom, tomto, této, našem, své, těchto, svém, některých, svých, naší</em>
-* `Nom` (6668; 39% of non-empty `Case`): <em>to, které, která, který, kteří, tato, tyto, tento, naše, některé</em>
+* `Acc` (3801; 21% of non-empty `Case`): <em>to, které, své, tuto, kterou, tyto, svou, který, tento, několik</em>
+* `Dat` (808; 5% of non-empty `Case`): <em>tomu, tomuto, této, kterým, těmto, svému, těm, každému, některým, jejímu</em>
+* `Gen` (2977; 17% of non-empty `Case`): <em>toho, tohoto, těchto, této, našeho, naší, některých, svého, našich, své</em>
+* `Ins` (1352; 8% of non-empty `Case`): <em>tím, svým, svou, tímto, svými, touto, těmito, jakým, kterým, kterými</em>
+* `Loc` (1919; 11% of non-empty `Case`): <em>tom, tomto, této, našem, své, těchto, svém, některých, svých, naší</em>
+* `Nom` (6905; 39% of non-empty `Case`): <em>to, které, která, který, kteří, tato, tyto, tento, každý, naše</em>
 * `EMPTY` (2255): <em>jejich, jeho, její, jehož, jejichž, jejíž, quem</em>
 
 <table>
@@ -182,7 +182,7 @@ The most frequent other feature values with which `PROPN` and `Case` co-occurred
 
 2471 <tt><a href="cs_cac-pos-NUM.html">NUM</a></tt> tokens (34% of all `NUM` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `NUM` and `Case` co-occurred: <tt><a href="cs_cac-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (2411; 98%), <tt><a href="cs_cac-feat-NumForm.html">NumForm</a></tt><tt>=Word</tt> (2411; 98%), <tt><a href="cs_cac-feat-NumValue.html">NumValue</a></tt><tt>=1,2,3</tt> (1962; 79%), <tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Plur</tt> (1281; 52%), <tt><a href="cs_cac-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1272; 51%).
+The most frequent other feature values with which `NUM` and `Case` co-occurred: <tt><a href="cs_cac-feat-NumForm.html">NumForm</a></tt><tt>=Word</tt> (2411; 98%), <tt><a href="cs_cac-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (2411; 98%), <tt><a href="cs_cac-feat-NumValue.html">NumValue</a></tt><tt>=1,2,3</tt> (1962; 79%), <tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Plur</tt> (1281; 52%), <tt><a href="cs_cac-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1272; 51%).
 
 `NUM` tokens may have the following values of `Case`:
 
@@ -207,14 +207,14 @@ The most frequent other feature values with which `NUM` and `Case` co-occurred: 
 ## Relations with Agreement in `Case`
 
 The 10 most frequent relations where parent and child node agree in `Case`:
-<tt>NOUN --[<tt><a href="cs_cac-dep-amod.html">amod</a></tt>]--> ADJ</tt> (59612; 98%),
+<tt>NOUN --[<tt><a href="cs_cac-dep-amod.html">amod</a></tt>]--> ADJ</tt> (59193; 98%),
 <tt>NOUN --[<tt><a href="cs_cac-dep-case.html">case</a></tt>]--> ADP</tt> (38334; 96%),
 <tt>NOUN --[<tt><a href="cs_cac-dep-conj.html">conj</a></tt>]--> NOUN</tt> (13310; 95%),
-<tt>NOUN --[<tt><a href="cs_cac-dep-det.html">det</a></tt>]--> DET</tt> (8239; 78%),
-<tt>ADJ --[<tt><a href="cs_cac-dep-conj.html">conj</a></tt>]--> ADJ</tt> (3444; 95%),
+<tt>NOUN --[<tt><a href="cs_cac-dep-det.html">det</a></tt>]--> DET</tt> (8658; 79%),
+<tt>ADJ --[<tt><a href="cs_cac-dep-conj.html">conj</a></tt>]--> ADJ</tt> (3441; 95%),
 <tt>PRON --[<tt><a href="cs_cac-dep-case.html">case</a></tt>]--> ADP</tt> (2181; 99%),
 <tt>PROPN --[<tt><a href="cs_cac-dep-case.html">case</a></tt>]--> ADP</tt> (1868; 83%),
 <tt>ADJ --[<tt><a href="cs_cac-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (1446; 58%),
-<tt>DET --[<tt><a href="cs_cac-dep-case.html">case</a></tt>]--> ADP</tt> (1394; 97%),
+<tt>DET --[<tt><a href="cs_cac-dep-case.html">case</a></tt>]--> ADP</tt> (1416; 97%),
 <tt>ADP --[<tt><a href="cs_cac-dep-fixed.html">fixed</a></tt>]--> NOUN</tt> (1339; 100%).
 

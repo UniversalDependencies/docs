@@ -16,25 +16,25 @@ The feature is used with 2 part-of-speech tags: <tt><a href="cs_cac-pos-DET.html
 
 ### `DET`
 
-5371 <tt><a href="cs_cac-pos-DET.html">DET</a></tt> tokens (28% of all `DET` tokens) have a non-empty value of `Poss`.
+5371 <tt><a href="cs_cac-pos-DET.html">DET</a></tt> tokens (27% of all `DET` tokens) have a non-empty value of `Poss`.
 
 The most frequent other feature values with which `DET` and `Poss` co-occurred: <tt><a href="cs_cac-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (5105; 95%), <tt><a href="cs_cac-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (5003; 93%).
 
 `DET` tokens may have the following values of `Poss`:
 
 * `Yes` (5371; 100% of non-empty `Poss`): <em>jejich, jeho, své, její, naší, svou, naše, našeho, svých, našich</em>
-* `EMPTY` (14074): <em>to, které, který, která, tím, této, těchto, tyto, tom, kteří</em>
+* `EMPTY` (14646): <em>to, které, který, která, tím, této, těchto, tyto, tom, kteří</em>
 
 ### `ADJ`
 
 649 <tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt> tokens (1% of all `ADJ` tokens) have a non-empty value of `Poss`.
 
-The most frequent other feature values with which `ADJ` and `Poss` co-occurred: <tt><a href="cs_cac-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (649; 100%), <tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (649; 100%), <tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt> (510; 79%), <tt><a href="cs_cac-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (373; 57%).
+The most frequent other feature values with which `ADJ` and `Poss` co-occurred: <tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (649; 100%), <tt><a href="cs_cac-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (649; 100%), <tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt> (510; 79%), <tt><a href="cs_cac-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (373; 57%).
 
 `ADJ` tokens may have the following values of `Poss`:
 
 * `Yes` (649; 100% of non-empty `Poss`): <em>Karlovy, Erbenových, Erbenovy, Fučíkova, Mohorovičićovy, Bohrův, Fučíkovy, Erbenova, Erbenově, Fučíkův</em>
-* `EMPTY` (74145): <em>další, pracovní, první, jednotlivých, základní, nové, možno, socialistické, různých, každý</em>
+* `EMPTY` (73573): <em>další, pracovní, první, jednotlivých, základní, nové, možno, socialistické, různých, dalších</em>
 
 `Poss` seems to be **lexical feature** of `ADJ`. 100% lemmas (304) occur only with one value of `Poss`.
 

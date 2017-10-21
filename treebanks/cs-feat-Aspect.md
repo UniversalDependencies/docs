@@ -18,7 +18,7 @@ The feature is used with 5 part-of-speech tags: <tt><a href="cs-pos-VERB.html">V
 
 81764 <tt><a href="cs-pos-VERB.html">VERB</a></tt> tokens (60% of all `VERB` tokens) have a non-empty value of `Aspect`.
 
-The most frequent other feature values with which `VERB` and `Aspect` co-occurred: <tt><a href="cs-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (76068; 93%), <tt><a href="cs-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (64236; 79%), <tt><a href="cs-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (52520; 64%), <tt><a href="cs-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (46279; 57%), <tt><a href="cs-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (46279; 57%).
+The most frequent other feature values with which `VERB` and `Aspect` co-occurred: <tt><a href="cs-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (76068; 93%), <tt><a href="cs-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (64236; 79%), <tt><a href="cs-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (52520; 64%), <tt><a href="cs-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (46279; 57%), <tt><a href="cs-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (46279; 57%).
 
 `VERB` tokens may have the following values of `Aspect`:
 
@@ -64,7 +64,7 @@ The most frequent other feature values with which `ADJ` and `Aspect` co-occurred
 
 * `Imp` (6074; 61% of non-empty `Aspect`): <em>rozhodující, vedoucí, následující, vynikající, týkající, odpovídající, rostoucí, žijící, kupující, považován</em>
 * `Perf` (3917; 39% of non-empty `Aspect`): <em>řečeno, přesvědčen, připravena, připraven, rozhodnuto, zvolen, založena, zahájena, obviněn, stanovena</em>
-* `EMPTY` (180346): <em>první, další, české, nové, druhé, poslední, státní, dalších, možné, vlastní</em>
+* `EMPTY` (179194): <em>první, další, české, nové, druhé, poslední, státní, dalších, možné, vlastní</em>
 
 `Aspect` seems to be **lexical feature** of `ADJ`. 100% lemmas (1993) occur only with one value of `Aspect`.
 
@@ -72,7 +72,7 @@ The most frequent other feature values with which `ADJ` and `Aspect` co-occurred
 
 179 <tt><a href="cs-pos-AUX.html">AUX</a></tt> tokens (0% of all `AUX` tokens) have a non-empty value of `Aspect`.
 
-The most frequent other feature values with which `AUX` and `Aspect` co-occurred: <tt><a href="cs-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (179; 100%), <tt><a href="cs-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (161; 90%), <tt><a href="cs-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (141; 79%), <tt><a href="cs-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (137; 77%), <tt><a href="cs-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (133; 74%), <tt><a href="cs-feat-Person.html">Person</a></tt><tt>=3</tt> (133; 74%), <tt><a href="cs-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (133; 74%), <tt><a href="cs-feat-Number.html">Number</a></tt><tt>=Sing</tt> (118; 66%).
+The most frequent other feature values with which `AUX` and `Aspect` co-occurred: <tt><a href="cs-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (179; 100%), <tt><a href="cs-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (161; 90%), <tt><a href="cs-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (141; 79%), <tt><a href="cs-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (137; 77%), <tt><a href="cs-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (133; 74%), <tt><a href="cs-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (133; 74%), <tt><a href="cs-feat-Person.html">Person</a></tt><tt>=3</tt> (133; 74%), <tt><a href="cs-feat-Number.html">Number</a></tt><tt>=Sing</tt> (118; 66%).
 
 `AUX` tokens may have the following values of `Aspect`:
 

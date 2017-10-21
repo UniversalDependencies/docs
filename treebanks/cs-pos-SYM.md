@@ -31,7 +31,7 @@ The 10 most frequent ambiguous types:  <em>x</em> (<tt><a href="cs-pos-SYM.html"
 
 ## Morphology
 
-The form / lemma ratio of `SYM` is 1.000000 (the average of all parts of speech is 2.181849).
+The form / lemma ratio of `SYM` is 1.000000 (the average of all parts of speech is 2.181829).
 
 The 1st highest number of forms (1) was observed with the lemma “$”: <em>$</em>.
 
@@ -50,7 +50,7 @@ Examples: <em>%, +, =, /, *, $</em>
 
 ## Relations
 
-`SYM` nodes are attached to their parents using 15 different relations: <tt><a href="cs-dep-nmod.html">nmod</a></tt> (927; 74% instances), <tt><a href="cs-dep-cc.html">cc</a></tt> (149; 12% instances), <tt><a href="cs-dep-advmod.html">advmod</a></tt> (52; 4% instances), <tt><a href="cs-dep-conj.html">conj</a></tt> (22; 2% instances), <tt><a href="cs-dep-case.html">case</a></tt> (20; 2% instances), <tt><a href="cs-dep-obj.html">obj</a></tt> (19; 2% instances), <tt><a href="cs-dep-dep.html">dep</a></tt> (18; 1% instances), <tt><a href="cs-dep-root.html">root</a></tt> (18; 1% instances), <tt><a href="cs-dep-orphan.html">orphan</a></tt> (9; 1% instances), <tt><a href="cs-dep-nsubj.html">nsubj</a></tt> (8; 1% instances), <tt><a href="cs-dep-parataxis.html">parataxis</a></tt> (7; 1% instances), <tt><a href="cs-dep-appos.html">appos</a></tt> (5; 0% instances), <tt><a href="cs-dep-advcl.html">advcl</a></tt> (3; 0% instances), <tt><a href="cs-dep-iobj.html">iobj</a></tt> (2; 0% instances), <tt><a href="cs-dep-mark.html">mark</a></tt> (1; 0% instances)
+`SYM` nodes are attached to their parents using 16 different relations: <tt><a href="cs-dep-nmod.html">nmod</a></tt> (927; 74% instances), <tt><a href="cs-dep-cc.html">cc</a></tt> (149; 12% instances), <tt><a href="cs-dep-advmod.html">advmod</a></tt> (52; 4% instances), <tt><a href="cs-dep-conj.html">conj</a></tt> (22; 2% instances), <tt><a href="cs-dep-case.html">case</a></tt> (20; 2% instances), <tt><a href="cs-dep-dep.html">dep</a></tt> (18; 1% instances), <tt><a href="cs-dep-root.html">root</a></tt> (18; 1% instances), <tt><a href="cs-dep-obj.html">obj</a></tt> (16; 1% instances), <tt><a href="cs-dep-orphan.html">orphan</a></tt> (9; 1% instances), <tt><a href="cs-dep-nsubj.html">nsubj</a></tt> (8; 1% instances), <tt><a href="cs-dep-parataxis.html">parataxis</a></tt> (7; 1% instances), <tt><a href="cs-dep-appos.html">appos</a></tt> (5; 0% instances), <tt><a href="cs-dep-obl-arg.html">obl:arg</a></tt> (4; 0% instances), <tt><a href="cs-dep-advcl.html">advcl</a></tt> (3; 0% instances), <tt><a href="cs-dep-iobj.html">iobj</a></tt> (1; 0% instances), <tt><a href="cs-dep-mark.html">mark</a></tt> (1; 0% instances)
 
 Parents of `SYM` nodes belong to 11 different parts of speech: <tt><a href="cs-pos-NUM.html">NUM</a></tt> (929; 74% instances), <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> (166; 13% instances), <tt><a href="cs-pos-VERB.html">VERB</a></tt> (75; 6% instances), <tt><a href="cs-pos-PROPN.html">PROPN</a></tt> (24; 2% instances), <tt><a href="cs-pos-ADJ.html">ADJ</a></tt> (19; 2% instances),  (18; 1% instances), <tt><a href="cs-pos-SYM.html">SYM</a></tt> (14; 1% instances), <tt><a href="cs-pos-ADV.html">ADV</a></tt> (12; 1% instances), <tt><a href="cs-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="cs-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), <tt><a href="cs-pos-PRON.html">PRON</a></tt> (1; 0% instances)
 

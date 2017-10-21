@@ -30,7 +30,7 @@ The following 36 pairs of parts of speech are connected with `parataxis`: <tt><a
 6	si	se	PRON	P7-X3----------	Case=Dat|PronType=Prs|Reflex=Yes|Variant=Short	11	expl:pv	_	LGloss=(zvr._zájmeno/částice)
 7	z	z	ADP	RR--2----------	AdpType=Prep|Case=Gen	9	case	_	LId=z-1
 8	anglické	anglický	ADJ	AAFS2----1A----	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	9	amod	_	_
-9	tradice	tradice	NOUN	NNFS2-----A----	Case=Gen|Gender=Fem|Number=Sing|Polarity=Pos	11	iobj	_	_
+9	tradice	tradice	NOUN	NNFS2-----A----	Case=Gen|Gender=Fem|Number=Sing|Polarity=Pos	11	obl:arg	_	_
 10	nic	nic	PRON	PW--4----------	Case=Acc|PronType=Neg	11	obj	_	_
 11	nedělá	dělat	VERB	VB-S---3P-NA---	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
 12	.	.	PUNCT	Z:-------------	_	11	punct	_	_

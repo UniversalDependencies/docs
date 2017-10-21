@@ -15,7 +15,7 @@ This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with t
 287247 tokens (58%) have a non-empty value of `Number`.
 63358 types (101%) occur at least once with a non-empty value of `Number`.
 25882 lemmas (91%) occur at least once with a non-empty value of `Number`.
-The feature is used with 8 part-of-speech tags: <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> (135047; 27% instances), <tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt> (74501; 15% instances), <tt><a href="cs_cac-pos-VERB.html">VERB</a></tt> (32976; 7% instances), <tt><a href="cs_cac-pos-DET.html">DET</a></tt> (16731; 3% instances), <tt><a href="cs_cac-pos-AUX.html">AUX</a></tt> (11901; 2% instances), <tt><a href="cs_cac-pos-PROPN.html">PROPN</a></tt> (7864; 2% instances), <tt><a href="cs_cac-pos-PRON.html">PRON</a></tt> (5756; 1% instances), <tt><a href="cs_cac-pos-NUM.html">NUM</a></tt> (2471; 0% instances).
+The feature is used with 8 part-of-speech tags: <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> (135047; 27% instances), <tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt> (73929; 15% instances), <tt><a href="cs_cac-pos-VERB.html">VERB</a></tt> (32976; 7% instances), <tt><a href="cs_cac-pos-DET.html">DET</a></tt> (17303; 3% instances), <tt><a href="cs_cac-pos-AUX.html">AUX</a></tt> (11901; 2% instances), <tt><a href="cs_cac-pos-PROPN.html">PROPN</a></tt> (7864; 2% instances), <tt><a href="cs_cac-pos-PRON.html">PRON</a></tt> (5756; 1% instances), <tt><a href="cs_cac-pos-NUM.html">NUM</a></tt> (2471; 0% instances).
 
 ### `NOUN`
 
@@ -42,16 +42,16 @@ The most frequent other feature values with which `NOUN` and `Number` co-occurre
 
 ### `ADJ`
 
-74501 <tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt> tokens (100% of all `ADJ` tokens) have a non-empty value of `Number`.
+73929 <tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt> tokens (100% of all `ADJ` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `ADJ` and `Number` co-occurred: <tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (71636; 96%), <tt><a href="cs_cac-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (63120; 85%), <tt><a href="cs_cac-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (45181; 61%).
+The most frequent other feature values with which `ADJ` and `Number` co-occurred: <tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (71064; 96%), <tt><a href="cs_cac-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (62548; 85%), <tt><a href="cs_cac-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (44966; 61%).
 
 `ADJ` tokens may have the following values of `Number`:
 
 * `Dual` (7; 0% of non-empty `Number`): <em>holýma, jinýma, otevřenýma, plnýma, radostnýma, velkýma, zadníma</em>
-* `Plur` (25665; 34% of non-empty `Number`): <em>jednotlivých, různých, dalších, další, jiných, nové, výrobních, různé, nových, základních</em>
+* `Plur` (25656; 35% of non-empty `Number`): <em>jednotlivých, různých, dalších, další, jiných, nové, výrobních, různé, nových, základních</em>
 * `Plur,Sing` (1143; 2% of non-empty `Number`): <em>věnována, dána, provedena, určena, zahájena, povinna, založena, dokončena, stanovena, vybudována</em>
-* `Sing` (47686; 64% of non-empty `Number`): <em>pracovní, první, možno, další, každý, socialistické, druhé, základní, vlastní, národního</em>
+* `Sing` (47123; 64% of non-empty `Number`): <em>pracovní, první, možno, další, socialistické, druhé, základní, vlastní, národního, větší</em>
 * `EMPTY` (293): <em>Králové, elektro, marxisticko, fit, Karpatsko, teoreticko, online, rakousko, super, československo</em>
 
 <table>
@@ -114,15 +114,15 @@ The most frequent other feature values with which `VERB` and `Number` co-occurre
 
 ### `DET`
 
-16731 <tt><a href="cs_cac-pos-DET.html">DET</a></tt> tokens (86% of all `DET` tokens) have a non-empty value of `Number`.
+17303 <tt><a href="cs_cac-pos-DET.html">DET</a></tt> tokens (86% of all `DET` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="cs_cac-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (14875; 89%), <tt><a href="cs_cac-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (14875; 89%), <tt><a href="cs_cac-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (14663; 88%), <tt><a href="cs_cac-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (13435; 80%).
+The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="cs_cac-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (15447; 89%), <tt><a href="cs_cac-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (15447; 89%), <tt><a href="cs_cac-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (14878; 86%), <tt><a href="cs_cac-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (14007; 81%).
 
 `DET` tokens may have the following values of `Number`:
 
 * `Dual` (5; 0% of non-empty `Number`): <em>mýma, našima, těma</em>
-* `Plur` (4850; 29% of non-empty `Number`): <em>které, těchto, tyto, kteří, některých, některé, svých, své, našich, ty</em>
-* `Sing` (11876; 71% of non-empty `Number`): <em>to, který, která, tím, této, tom, toho, tento, tohoto, tomu</em>
+* `Plur` (4859; 28% of non-empty `Number`): <em>které, těchto, tyto, kteří, některých, některé, svých, své, našich, ty</em>
+* `Sing` (12439; 72% of non-empty `Number`): <em>to, který, která, tím, této, tom, toho, tento, tohoto, tomu</em>
 * `EMPTY` (2714): <em>jejich, jeho, několik, mnoho, jehož, jejichž, několika, mnoha, kolik, tolik</em>
 
 <table>
@@ -281,7 +281,7 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
 
 2471 <tt><a href="cs_cac-pos-NUM.html">NUM</a></tt> tokens (34% of all `NUM` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `NUM` and `Number` co-occurred: <tt><a href="cs_cac-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (2411; 98%), <tt><a href="cs_cac-feat-NumForm.html">NumForm</a></tt><tt>=Word</tt> (2411; 98%), <tt><a href="cs_cac-feat-NumValue.html">NumValue</a></tt><tt>=1,2,3</tt> (1962; 79%), <tt><a href="cs_cac-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1272; 51%).
+The most frequent other feature values with which `NUM` and `Number` co-occurred: <tt><a href="cs_cac-feat-NumForm.html">NumForm</a></tt><tt>=Word</tt> (2411; 98%), <tt><a href="cs_cac-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (2411; 98%), <tt><a href="cs_cac-feat-NumValue.html">NumValue</a></tt><tt>=1,2,3</tt> (1962; 79%), <tt><a href="cs_cac-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1272; 51%).
 
 `NUM` tokens may have the following values of `Number`:
 
@@ -306,14 +306,14 @@ The most frequent other feature values with which `NUM` and `Number` co-occurred
 ## Relations with Agreement in `Number`
 
 The 10 most frequent relations where parent and child node agree in `Number`:
-<tt>NOUN --[<tt><a href="cs_cac-dep-amod.html">amod</a></tt>]--> ADJ</tt> (59928; 99%),
+<tt>NOUN --[<tt><a href="cs_cac-dep-amod.html">amod</a></tt>]--> ADJ</tt> (59502; 99%),
 <tt>NOUN --[<tt><a href="cs_cac-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (27065; 61%),
 <tt>NOUN --[<tt><a href="cs_cac-dep-conj.html">conj</a></tt>]--> NOUN</tt> (11413; 81%),
 <tt>VERB --[<tt><a href="cs_cac-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (10861; 85%),
-<tt>NOUN --[<tt><a href="cs_cac-dep-det.html">det</a></tt>]--> DET</tt> (8450; 80%),
-<tt>ADJ --[<tt><a href="cs_cac-dep-cop.html">cop</a></tt>]--> AUX</tt> (3950; 87%),
+<tt>NOUN --[<tt><a href="cs_cac-dep-det.html">det</a></tt>]--> DET</tt> (8871; 81%),
+<tt>ADJ --[<tt><a href="cs_cac-dep-cop.html">cop</a></tt>]--> AUX</tt> (3949; 87%),
 <tt>VERB --[<tt><a href="cs_cac-dep-conj.html">conj</a></tt>]--> VERB</tt> (3891; 79%),
-<tt>ADJ --[<tt><a href="cs_cac-dep-conj.html">conj</a></tt>]--> ADJ</tt> (3693; 93%),
+<tt>ADJ --[<tt><a href="cs_cac-dep-conj.html">conj</a></tt>]--> ADJ</tt> (3690; 93%),
 <tt>NOUN --[<tt><a href="cs_cac-dep-acl.html">acl</a></tt>]--> VERB</tt> (3069; 63%),
-<tt>VERB --[<tt><a href="cs_cac-dep-nsubj.html">nsubj</a></tt>]--> DET</tt> (2583; 92%).
+<tt>VERB --[<tt><a href="cs_cac-dep-nsubj.html">nsubj</a></tt>]--> DET</tt> (2649; 92%).
 

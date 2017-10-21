@@ -88,6 +88,15 @@ The most frequent other feature values with which `ADJ` and `NameType` co-occurr
 
 `NameType` seems to be **lexical feature** of `ADJ`. 97% lemmas (347) occur only with one value of `NameType`.
 
+### `PART`
+
+4 <tt><a href="cs_cac-pos-PART.html">PART</a></tt> tokens (0% of all `PART` tokens) have a non-empty value of `NameType`.
+
+`PART` tokens may have the following values of `NameType`:
+
+* `Geo` (3; 75% of non-empty `NameType`): <em>el, La</em>
+* `Oth` (1; 25% of non-empty `NameType`): <em>Al</em>
+
 ### `ADP`
 
 4 <tt><a href="cs_cac-pos-ADP.html">ADP</a></tt> tokens (0% of all `ADP` tokens) have a non-empty value of `NameType`.
@@ -100,25 +109,6 @@ The most frequent other feature values with which `ADP` and `NameType` co-occurr
 * `Oth` (1; 25% of non-empty `NameType`): <em>aus</em>
 * `Pro` (1; 25% of non-empty `NameType`): <em>della</em>
 
-### `PART`
-
-4 <tt><a href="cs_cac-pos-PART.html">PART</a></tt> tokens (0% of all `PART` tokens) have a non-empty value of `NameType`.
-
-`PART` tokens may have the following values of `NameType`:
-
-* `Geo` (3; 75% of non-empty `NameType`): <em>el, La</em>
-* `Oth` (1; 25% of non-empty `NameType`): <em>Al</em>
-
-### `PRON`
-
-1 <tt><a href="cs_cac-pos-PRON.html">PRON</a></tt> tokens (0% of all `PRON` tokens) have a non-empty value of `NameType`.
-
-The most frequent other feature values with which `PRON` and `NameType` co-occurred: <tt><a href="cs_cac-feat-Case.html">Case</a></tt><tt>=Acc</tt> (1; 100%), <tt><a href="cs_cac-feat-PrepCase.html">PrepCase</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Plur</tt> (1; 100%), <tt><a href="cs_cac-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="cs_cac-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="cs_cac-feat-PronType.html">PronType</a></tt><tt>=Tot</tt> (1; 100%), <tt><a href="cs_cac-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (1; 100%), <tt><a href="cs_cac-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (1; 100%).
-
-`PRON` tokens may have the following values of `NameType`:
-
-* `Com` (1; 100% of non-empty `NameType`): <em>Tous</em>
-
 ### `CCONJ`
 
 1 <tt><a href="cs_cac-pos-CCONJ.html">CCONJ</a></tt> tokens (0% of all `CCONJ` tokens) have a non-empty value of `NameType`.
@@ -127,6 +117,16 @@ The most frequent other feature values with which `PRON` and `NameType` co-occur
 
 * `Com` (1; 100% of non-empty `NameType`): <em>and</em>
 
+### `PRON`
+
+1 <tt><a href="cs_cac-pos-PRON.html">PRON</a></tt> tokens (0% of all `PRON` tokens) have a non-empty value of `NameType`.
+
+The most frequent other feature values with which `PRON` and `NameType` co-occurred: <tt><a href="cs_cac-feat-Case.html">Case</a></tt><tt>=Acc</tt> (1; 100%), <tt><a href="cs_cac-feat-PronType.html">PronType</a></tt><tt>=Tot</tt> (1; 100%), <tt><a href="cs_cac-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (1; 100%), <tt><a href="cs_cac-feat-PrepCase.html">PrepCase</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Plur</tt> (1; 100%), <tt><a href="cs_cac-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="cs_cac-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="cs_cac-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (1; 100%).
+
+`PRON` tokens may have the following values of `NameType`:
+
+* `Com` (1; 100% of non-empty `NameType`): <em>Tous</em>
+
 ## Relations with Agreement in `NameType`
 
 The 10 most frequent relations where parent and child node agree in `NameType`:
@@ -134,8 +134,8 @@ The 10 most frequent relations where parent and child node agree in `NameType`:
 <tt>PROPN --[<tt><a href="cs_cac-dep-orphan.html">orphan</a></tt>]--> PROPN</tt> (96; 86%),
 <tt>ADJ --[<tt><a href="cs_cac-dep-conj.html">conj</a></tt>]--> ADJ</tt> (24; 89%),
 <tt>PROPN --[<tt><a href="cs_cac-dep-dep.html">dep</a></tt>]--> PROPN</tt> (8; 57%),
-<tt>ADJ --[<tt><a href="cs_cac-dep-conj.html">conj</a></tt>]--> PROPN</tt> (7; 54%),
 <tt>PROPN --[<tt><a href="cs_cac-dep-xcomp.html">xcomp</a></tt>]--> PROPN</tt> (7; 100%),
+<tt>ADJ --[<tt><a href="cs_cac-dep-conj.html">conj</a></tt>]--> PROPN</tt> (7; 54%),
 <tt>PROPN --[<tt><a href="cs_cac-dep-flat-foreign.html">flat:foreign</a></tt>]--> ADJ</tt> (6; 86%),
 <tt>PROPN --[<tt><a href="cs_cac-dep-obj.html">obj</a></tt>]--> PROPN</tt> (4; 80%),
 <tt>ADJ --[<tt><a href="cs_cac-dep-amod.html">amod</a></tt>]--> ADJ</tt> (4; 57%),

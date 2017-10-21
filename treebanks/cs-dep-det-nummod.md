@@ -28,7 +28,7 @@ The following 8 pairs of parts of speech are connected with `det:nummod`: <tt><a
 3	směrech	směr	NOUN	NNIP6-----A----	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur|Polarity=Pos	4	obl	_	_
 4	dochází	docházet	VERB	VB-S---3P-AA---	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 5	k	k	ADP	RR--3----------	AdpType=Prep|Case=Dat	6	case	_	LId=k-1
-6	obratu	obrat	NOUN	NNIS3-----A----	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing|Polarity=Pos	4	obj	_	SpaceAfter=No|LId=obrat-1|LGloss=(z_prodeje_zboží)
+6	obratu	obrat	NOUN	NNIS3-----A----	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing|Polarity=Pos	4	obl:arg	_	SpaceAfter=No|LId=obrat-1|LGloss=(z_prodeje_zboží)
 7	.	.	PUNCT	Z:-------------	_	4	punct	_	_
 
 ~~~
@@ -44,7 +44,7 @@ The following 8 pairs of parts of speech are connected with `det:nummod`: <tt><a
 2	se	se	PRON	P7-X4----------	Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short	1	expl:pass	_	LGloss=(zvr._zájmeno/částice)
 3	i	i	CCONJ	J^-------------	_	5	advmod:emph	_	LId=i-1
 4	se	s	ADP	RV--7----------	AdpType=Voc|Case=Ins	5	case	_	LId=s-1
-5	snížením	snížení	NOUN	NNNS7-----A----	Case=Ins|Gender=Neut|Number=Sing|Polarity=Pos	1	obj	_	LDeriv=snížit
+5	snížením	snížení	NOUN	NNNS7-----A----	Case=Ins|Gender=Neut|Number=Sing|Polarity=Pos	1	obl:arg	_	LDeriv=snížit
 6	počtu	počet	NOUN	NNIS2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing|Polarity=Pos	5	nmod	_	_
 7	pracovníků	pracovník	NOUN	NNMP2-----A----	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur|Polarity=Pos	6	nmod	_	_
 8	o	o	ADP	RR--4----------	AdpType=Prep|Case=Acc	10	case	_	LId=o-1

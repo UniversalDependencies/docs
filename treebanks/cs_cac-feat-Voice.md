@@ -48,7 +48,7 @@ The most frequent other feature values with which `ADJ` and `Voice` co-occurred:
 
 * `Act` (2143; 33% of non-empty `Voice`): <em>pracujících, rozhodující, pracující, vedoucí, odpovídající, následující, řídící, týkající, vyplývající, rostoucí</em>
 * `Pass` (4266; 67% of non-empty `Voice`): <em>řečeno, dosaženo, věnována, dána, provedena, uvedeny, určena, určeny, splněny, zahájena</em>
-* `EMPTY` (68385): <em>další, pracovní, první, jednotlivých, základní, nové, možno, socialistické, různých, každý</em>
+* `EMPTY` (67813): <em>další, pracovní, první, jednotlivých, základní, nové, možno, socialistické, různých, dalších</em>
 
 `Voice` seems to be **lexical feature** of `ADJ`. 100% lemmas (1597) occur only with one value of `Voice`.
 

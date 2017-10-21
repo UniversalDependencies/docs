@@ -18,7 +18,7 @@ The feature is used with 4 part-of-speech tags: <tt><a href="cs_cac-pos-VERB.htm
 
 22405 <tt><a href="cs_cac-pos-VERB.html">VERB</a></tt> tokens (55% of all `VERB` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="cs_cac-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (22405; 100%), <tt><a href="cs_cac-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (22405; 100%), <tt><a href="cs_cac-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (21953; 98%), <tt><a href="cs_cac-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (21953; 98%), <tt><a href="cs_cac-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (21835; 97%), <tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (20321; 91%), <tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt> (13598; 61%), <tt><a href="cs_cac-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (11552; 52%).
+The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="cs_cac-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (22405; 100%), <tt><a href="cs_cac-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (22405; 100%), <tt><a href="cs_cac-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (21953; 98%), <tt><a href="cs_cac-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (21953; 98%), <tt><a href="cs_cac-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (21835; 97%), <tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (20321; 91%), <tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt> (13598; 61%), <tt><a href="cs_cac-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (11552; 52%).
 
 `VERB` tokens may have the following values of `Person`:
 
@@ -40,7 +40,7 @@ The most frequent other feature values with which `VERB` and `Person` co-occurre
 
 11161 <tt><a href="cs_cac-pos-AUX.html">AUX</a></tt> tokens (78% of all `AUX` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `AUX` and `Person` co-occurred: <tt><a href="cs_cac-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (11161; 100%), <tt><a href="cs_cac-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (11161; 100%), <tt><a href="cs_cac-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (9079; 81%), <tt><a href="cs_cac-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (9079; 81%), <tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (8391; 75%), <tt><a href="cs_cac-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (7981; 72%), <tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt> (6588; 59%).
+The most frequent other feature values with which `AUX` and `Person` co-occurred: <tt><a href="cs_cac-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (11161; 100%), <tt><a href="cs_cac-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (11161; 100%), <tt><a href="cs_cac-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (9079; 81%), <tt><a href="cs_cac-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (9079; 81%), <tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (8391; 75%), <tt><a href="cs_cac-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (7981; 72%), <tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt> (6588; 59%).
 
 `AUX` tokens may have the following values of `Person`:
 
@@ -80,7 +80,7 @@ The most frequent other feature values with which `DET` and `Person` co-occurred
 * `1` (1193; 30% of non-empty `Person`): <em>naší, naše, našeho, našich, našem, naši, náš, naším, mého, můj</em>
 * `2` (90; 2% of non-empty `Person`): <em>vaše, vaší, vašeho, vaši, váš, vašich, vašem, vašemu, Vašimi, tvoje</em>
 * `3` (2648; 67% of non-empty `Person`): <em>jejich, jeho, její, jehož, jejichž, jejíž, jejím, jejího, jejích, jejímž</em>
-* `EMPTY` (15514): <em>to, které, který, která, tím, této, své, těchto, tyto, tom</em>
+* `EMPTY` (16086): <em>to, které, který, která, tím, této, své, těchto, tyto, tom</em>
 
 ### `PRON`
 
@@ -102,6 +102,6 @@ The 10 most frequent relations where parent and child node agree in `Person`:
 <tt>VERB --[<tt><a href="cs_cac-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (706; 50%),
 <tt>VERB --[<tt><a href="cs_cac-dep-appos.html">appos</a></tt>]--> VERB</tt> (14; 78%),
 <tt>VERB --[<tt><a href="cs_cac-dep-xcomp.html">xcomp</a></tt>]--> PRON</tt> (2; 67%),
-<tt>VERB --[<tt><a href="cs_cac-dep-flat-foreign.html">flat:foreign</a></tt>]--> PRON</tt> (1; 100%),
-<tt>VERB --[<tt><a href="cs_cac-dep-vocative.html">vocative</a></tt>]--> PRON</tt> (1; 100%).
+<tt>VERB --[<tt><a href="cs_cac-dep-vocative.html">vocative</a></tt>]--> PRON</tt> (1; 100%),
+<tt>VERB --[<tt><a href="cs_cac-dep-flat-foreign.html">flat:foreign</a></tt>]--> PRON</tt> (1; 100%).
 

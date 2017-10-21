@@ -67,7 +67,7 @@ The following 4 pairs of parts of speech are connected with `expl:pv`: <tt><a hr
 5	závisí	záviset	VERB	VB-S---3P-AA---	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 6	na	na	ADP	RR--6----------	AdpType=Prep|Case=Loc	8	case	_	_
 7	jejím	jeho	DET	PSZS6FS3-------	Case=Loc|Gender=Masc,Neut|Gender[psor]=Fem|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	8	det	_	LGloss=(přivlast.)
-8	uplatnění	uplatnění	NOUN	NNNS6-----A----	Case=Loc|Gender=Neut|Number=Sing|Polarity=Pos	5	obj	_	SpaceAfter=No|LDeriv=uplatnit
+8	uplatnění	uplatnění	NOUN	NNNS6-----A----	Case=Loc|Gender=Neut|Number=Sing|Polarity=Pos	5	obl:arg	_	SpaceAfter=No|LDeriv=uplatnit
 9	.	.	PUNCT	Z:-------------	_	5	punct	_	_
 
 ~~~

@@ -131,7 +131,7 @@ The most frequent other feature values with which `ADJ` and `VerbForm` co-occurr
 `ADJ` tokens may have the following values of `VerbForm`:
 
 * `Part` (6409; 100% of non-empty `VerbForm`): <em>pracujících, rozhodující, pracující, vedoucí, řečeno, dosaženo, odpovídající, následující, věnována, řídící</em>
-* `EMPTY` (68385): <em>další, pracovní, první, jednotlivých, základní, nové, možno, socialistické, různých, každý</em>
+* `EMPTY` (67813): <em>další, pracovní, první, jednotlivých, základní, nové, možno, socialistické, různých, dalších</em>
 
 `VerbForm` seems to be **lexical feature** of `ADJ`. 100% lemmas (1597) occur only with one value of `VerbForm`.
 
@@ -146,6 +146,6 @@ The 10 most frequent relations where parent and child node agree in `VerbForm`:
 <tt>VERB --[<tt><a href="cs_cac-dep-orphan.html">orphan</a></tt>]--> VERB</tt> (21; 84%),
 <tt>VERB --[<tt><a href="cs_cac-dep-acl.html">acl</a></tt>]--> VERB</tt> (9; 56%),
 <tt>ADJ --[<tt><a href="cs_cac-dep-orphan.html">orphan</a></tt>]--> ADJ</tt> (5; 63%),
-<tt>VERB --[<tt><a href="cs_cac-dep-aux.html">aux</a></tt>]--> ADJ</tt> (1; 100%),
-<tt>ADJ --[<tt><a href="cs_cac-dep-advmod.html">advmod</a></tt>]--> ADJ</tt> (1; 100%).
+<tt>ADJ --[<tt><a href="cs_cac-dep-advmod.html">advmod</a></tt>]--> ADJ</tt> (1; 100%),
+<tt>ADJ --[<tt><a href="cs_cac-dep-acl.html">acl</a></tt>]--> ADJ</tt> (1; 100%).
 

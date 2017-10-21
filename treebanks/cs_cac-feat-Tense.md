@@ -18,7 +18,7 @@ The feature is used with 3 part-of-speech tags: <tt><a href="cs_cac-pos-VERB.htm
 
 32524 <tt><a href="cs_cac-pos-VERB.html">VERB</a></tt> tokens (80% of all `VERB` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="cs_cac-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (32524; 100%), <tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (29667; 91%), <tt><a href="cs_cac-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (21961; 68%), <tt><a href="cs_cac-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (21953; 67%), <tt><a href="cs_cac-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (21953; 67%), <tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt> (18754; 58%), <tt><a href="cs_cac-feat-Person.html">Person</a></tt><tt>=3</tt> (18469; 57%).
+The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="cs_cac-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (32524; 100%), <tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (29667; 91%), <tt><a href="cs_cac-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (21961; 68%), <tt><a href="cs_cac-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (21953; 67%), <tt><a href="cs_cac-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (21953; 67%), <tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt> (18754; 58%), <tt><a href="cs_cac-feat-Person.html">Person</a></tt><tt>=3</tt> (18469; 57%).
 
 `VERB` tokens may have the following values of `Tense`:
 
@@ -56,7 +56,7 @@ The most frequent other feature values with which `VERB` and `Tense` co-occurred
 
 11531 <tt><a href="cs_cac-pos-AUX.html">AUX</a></tt> tokens (81% of all `AUX` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `AUX` and `Tense` co-occurred: <tt><a href="cs_cac-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (11531; 100%), <tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (10642; 92%), <tt><a href="cs_cac-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (9081; 79%), <tt><a href="cs_cac-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (9079; 79%), <tt><a href="cs_cac-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (9079; 79%), <tt><a href="cs_cac-feat-Person.html">Person</a></tt><tt>=3</tt> (7991; 69%), <tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt> (7777; 67%).
+The most frequent other feature values with which `AUX` and `Tense` co-occurred: <tt><a href="cs_cac-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (11531; 100%), <tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (10642; 92%), <tt><a href="cs_cac-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (9081; 79%), <tt><a href="cs_cac-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (9079; 79%), <tt><a href="cs_cac-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (9079; 79%), <tt><a href="cs_cac-feat-Person.html">Person</a></tt><tt>=3</tt> (7991; 69%), <tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt> (7777; 67%).
 
 `AUX` tokens may have the following values of `Tense`:
 
@@ -106,7 +106,7 @@ The most frequent other feature values with which `ADJ` and `Tense` co-occurred:
 
 * `Past` (2; 0% of non-empty `Tense`): <em>nastoupivšími, rozpadnuvší</em>
 * `Pres` (2141; 100% of non-empty `Tense`): <em>pracujících, rozhodující, pracující, vedoucí, odpovídající, následující, řídící, týkající, vyplývající, rostoucí</em>
-* `EMPTY` (72651): <em>další, pracovní, první, jednotlivých, základní, nové, možno, socialistické, různých, každý</em>
+* `EMPTY` (72079): <em>další, pracovní, první, jednotlivých, základní, nové, možno, socialistické, různých, dalších</em>
 
 `Tense` seems to be **lexical feature** of `ADJ`. 100% lemmas (539) occur only with one value of `Tense`.
 

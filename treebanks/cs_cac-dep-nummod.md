@@ -52,7 +52,7 @@ The following 10 pairs of parts of speech are connected with `nummod`: <tt><a hr
 7	přejít	přejít	VERB	Vf--------A----	Polarity=Pos|VerbForm=Inf	1	xcomp	_	_
 8	v	v	ADP	RR--4----------	AdpType=Prep|Case=Acc	10	case	_	LId=v-1
 9	nádorové	nádorový	ADJ	AANS4----1A----	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing|Polarity=Pos	10	amod	_	_
-10	bujení	bujení	NOUN	NNNS4-----A----	Case=Acc|Gender=Neut|Number=Sing|Polarity=Pos	7	obj	_	SpaceAfter=No|LDeriv=bujet
+10	bujení	bujení	NOUN	NNNS4-----A----	Case=Acc|Gender=Neut|Number=Sing|Polarity=Pos	7	obl:arg	_	SpaceAfter=No|LDeriv=bujet
 11	.	.	PUNCT	Z:-------------	_	1	punct	_	_
 
 ~~~

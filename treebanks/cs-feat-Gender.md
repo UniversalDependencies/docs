@@ -15,7 +15,7 @@ This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with t
 753255 tokens (50%) have a non-empty value of `Gender`.
 122285 types (95%) occur at least once with a non-empty value of `Gender`.
 49988 lemmas (86%) occur at least once with a non-empty value of `Gender`.
-The feature is used with 8 part-of-speech tags: <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> (371970; 25% instances), <tt><a href="cs-pos-ADJ.html">ADJ</a></tt> (185716; 12% instances), <tt><a href="cs-pos-PROPN.html">PROPN</a></tt> (82083; 5% instances), <tt><a href="cs-pos-VERB.html">VERB</a></tt> (50342; 3% instances), <tt><a href="cs-pos-DET.html">DET</a></tt> (43675; 3% instances), <tt><a href="cs-pos-PRON.html">PRON</a></tt> (7931; 1% instances), <tt><a href="cs-pos-AUX.html">AUX</a></tt> (6779; 0% instances), <tt><a href="cs-pos-NUM.html">NUM</a></tt> (4759; 0% instances).
+The feature is used with 8 part-of-speech tags: <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> (371970; 25% instances), <tt><a href="cs-pos-ADJ.html">ADJ</a></tt> (184564; 12% instances), <tt><a href="cs-pos-PROPN.html">PROPN</a></tt> (82083; 5% instances), <tt><a href="cs-pos-VERB.html">VERB</a></tt> (50342; 3% instances), <tt><a href="cs-pos-DET.html">DET</a></tt> (44827; 3% instances), <tt><a href="cs-pos-PRON.html">PRON</a></tt> (7931; 1% instances), <tt><a href="cs-pos-AUX.html">AUX</a></tt> (6779; 0% instances), <tt><a href="cs-pos-NUM.html">NUM</a></tt> (4759; 0% instances).
 
 ### `NOUN`
 
@@ -40,17 +40,17 @@ The most frequent other feature values with which `NOUN` and `Gender` co-occurre
 
 ### `ADJ`
 
-185716 <tt><a href="cs-pos-ADJ.html">ADJ</a></tt> tokens (98% of all `ADJ` tokens) have a non-empty value of `Gender`.
+184564 <tt><a href="cs-pos-ADJ.html">ADJ</a></tt> tokens (98% of all `ADJ` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `ADJ` and `Gender` co-occurred: <tt><a href="cs-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (173616; 93%), <tt><a href="cs-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (155117; 84%), <tt><a href="cs-feat-Number.html">Number</a></tt><tt>=Sing</tt> (126826; 68%), <tt><a href="cs-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (109429; 59%).
+The most frequent other feature values with which `ADJ` and `Gender` co-occurred: <tt><a href="cs-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (172464; 93%), <tt><a href="cs-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (153965; 83%), <tt><a href="cs-feat-Number.html">Number</a></tt><tt>=Sing</tt> (125689; 68%), <tt><a href="cs-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (109041; 59%).
 
 `ADJ` tokens may have the following values of `Gender`:
 
-* `Fem` (72558; 39% of non-empty `Gender`): <em>české, první, druhé, další, česká, nové, státní, poslední, vlastní, národní</em>
+* `Fem` (72276; 39% of non-empty `Gender`): <em>české, první, druhé, další, česká, nové, státní, poslední, vlastní, národní</em>
 * `Fem,Masc` (1768; 1% of non-empty `Gender`): <em>uvedeny, připraveny, známy, určeny, uzavřeny, nalezeny, považovány, schopny, stanoveny, uloženy</em>
 * `Fem,Neut` (2554; 1% of non-empty `Gender`): <em>připravena, schopna, otevřena, uzavřena, založena, zahájena, stanovena, určena, podepsána, ráda</em>
-* `Masc` (77991; 42% of non-empty `Gender`): <em>další, první, každý, nový, český, českého, dalších, celý, nového, druhý</em>
-* `Neut` (30845; 17% of non-empty `Gender`): <em>možné, třeba, jiné, další, prvním, posledních, životního, nutné, první, možno</em>
+* `Masc` (77227; 42% of non-empty `Gender`): <em>další, první, nový, český, českého, dalších, celý, nového, druhý, velký</em>
+* `Neut` (30739; 17% of non-empty `Gender`): <em>možné, třeba, jiné, další, prvním, posledních, životního, nutné, první, možno</em>
 * `EMPTY` (4621): <em>tzv, New, a, the, čs, česko, open, sv, RM, US</em>
 
 <table>
@@ -190,56 +190,56 @@ The most frequent other feature values with which `VERB` and `Gender` co-occurre
 
 ### `DET`
 
-43675 <tt><a href="cs-pos-DET.html">DET</a></tt> tokens (79% of all `DET` tokens) have a non-empty value of `Gender`.
+44827 <tt><a href="cs-pos-DET.html">DET</a></tt> tokens (79% of all `DET` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `DET` and `Gender` co-occurred: <tt><a href="cs-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (40209; 92%), <tt><a href="cs-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (40209; 92%), <tt><a href="cs-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (37452; 86%), <tt><a href="cs-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (36116; 83%), <tt><a href="cs-feat-Number.html">Number</a></tt><tt>=Sing</tt> (35071; 80%).
+The most frequent other feature values with which `DET` and `Gender` co-occurred: <tt><a href="cs-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (41361; 92%), <tt><a href="cs-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (41361; 92%), <tt><a href="cs-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (37840; 84%), <tt><a href="cs-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (37268; 83%), <tt><a href="cs-feat-Number.html">Number</a></tt><tt>=Sing</tt> (36208; 81%).
 
 `DET` tokens may have the following values of `Gender`:
 
-* `Fem` (12002; 27% of non-empty `Gender`): <em>která, které, této, své, svou, kterou, tato, tuto, naší, její</em>
+* `Fem` (12284; 27% of non-empty `Gender`): <em>která, které, této, své, svou, kterou, tato, tuto, naší, její</em>
 * `Fem,Neut` (381; 1% of non-empty `Gender`): <em>naše, moje, vaše, mio</em>
-* `Masc` (11856; 27% of non-empty `Gender`): <em>který, kteří, které, tento, ten, svůj, své, všechny, sám, všichni</em>
+* `Masc` (12620; 28% of non-empty `Gender`): <em>který, kteří, které, tento, ten, svůj, každý, své, všechny, sám</em>
 * `Masc,Neut` (9384; 21% of non-empty `Gender`): <em>tím, tom, tomu, toho, tohoto, tomto, svého, svém, svým, našeho</em>
-* `Neut` (10052; 23% of non-empty `Gender`): <em>to, které, toto, vše, své, všechno, která, tato, takové, žádné</em>
-* `EMPTY` (11638): <em>jeho, jejich, všech, těchto, svých, několik, některých, několika, našich, mnoho</em>
+* `Neut` (10158; 23% of non-empty `Gender`): <em>to, které, toto, vše, své, všechno, která, tato, takové, žádné</em>
+* `EMPTY` (11641): <em>jeho, jejich, všech, těchto, svých, několik, některých, několika, našich, mnoho</em>
 
 <table>
   <tr><th>Paradigm <i>můj</i></th><th><tt>Fem,Neut</tt></th><th><tt>Masc</tt></th><th><tt>Masc,Neut</tt></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>
   <tr><td><tt><tt><a href="cs-feat-Abbr.html">Abbr</a></tt><tt>=Yes</tt>|<tt><a href="cs-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="cs-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs-feat-Number-psor.html">Number[psor]</a></tt><tt>=Plur</tt></tt></td><td></td><td></td><td><em>n</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="cs-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt>|<tt><a href="cs-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="cs-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs-feat-Number-psor.html">Number[psor]</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>našeho</em></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="cs-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt>|<tt><a href="cs-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="cs-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="cs-feat-Number-psor.html">Number[psor]</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>naši</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="cs-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt>|<tt><a href="cs-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="cs-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="cs-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>moji, Mí</em></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="cs-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="cs-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="cs-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs-feat-Number-psor.html">Number[psor]</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>náš</em></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="cs-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt>|<tt><a href="cs-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="cs-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="cs-feat-Number-psor.html">Number[psor]</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>naši</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="cs-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="cs-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="cs-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>můj</em></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="cs-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="cs-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="cs-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="cs-feat-Number-psor.html">Number[psor]</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>naše</em></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="cs-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="cs-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="cs-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs-feat-Number-psor.html">Number[psor]</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>náš</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="cs-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="cs-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="cs-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="cs-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>mé, moje</em></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="cs-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="cs-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="cs-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="cs-feat-Number-psor.html">Number[psor]</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>naše</em></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="cs-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="cs-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt></tt></td><td></td><td></td><td></td><td><em>mou, moji</em></td><td><em>mé, moje</em></td></tr>
   <tr><td><tt><tt><a href="cs-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="cs-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs-feat-Number-psor.html">Number[psor]</a></tt><tt>=Plur</tt></tt></td><td></td><td></td><td></td><td><em>naši</em></td><td><em>naše</em></td></tr>
   <tr><td><tt><tt><a href="cs-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="cs-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs-feat-Number-psor.html">Number[psor]</a></tt><tt>=Plur</tt>|<tt><a href="cs-feat-Style.html">Style</a></tt><tt>=Coll</tt></tt></td><td></td><td></td><td></td><td><em>naší</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="cs-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="cs-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt></tt></td><td></td><td></td><td></td><td><em>mou, moji</em></td><td><em>mé, moje</em></td></tr>
   <tr><td><tt><tt><a href="cs-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="cs-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="cs-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>mé</em></td><td></td><td><em>mé</em></td><td><em>má</em></td></tr>
-  <tr><td><tt><tt><a href="cs-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="cs-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs-feat-Number-psor.html">Number[psor]</a></tt><tt>=Plur</tt></tt></td><td></td><td></td><td><em>našemu</em></td><td><em>naší</em></td><td></td></tr>
   <tr><td><tt><tt><a href="cs-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="cs-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt></tt></td><td></td><td></td><td><em>mému</em></td><td><em>mé, mojí</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="cs-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="cs-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs-feat-Number-psor.html">Number[psor]</a></tt><tt>=Plur</tt></tt></td><td></td><td></td><td><em>našeho</em></td><td><em>naší</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="cs-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="cs-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs-feat-Number-psor.html">Number[psor]</a></tt><tt>=Plur</tt></tt></td><td></td><td></td><td><em>našemu</em></td><td><em>naší</em></td><td></td></tr>
   <tr><td><tt><tt><a href="cs-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="cs-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt></tt></td><td></td><td></td><td><em>mého</em></td><td><em>mé, mojí</em></td><td></td></tr>
   <tr><td><tt><tt><a href="cs-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="cs-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="cs-feat-Style.html">Style</a></tt><tt>=Coll</tt></tt></td><td></td><td></td><td><em>mýho</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="cs-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="cs-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs-feat-Number-psor.html">Number[psor]</a></tt><tt>=Plur</tt></tt></td><td></td><td></td><td><em>našeho</em></td><td><em>naší</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="cs-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="cs-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt></tt></td><td></td><td></td><td><em>mým</em></td><td><em>mou, mojí</em></td><td></td></tr>
   <tr><td><tt><tt><a href="cs-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="cs-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs-feat-Number-psor.html">Number[psor]</a></tt><tt>=Plur</tt></tt></td><td></td><td></td><td><em>naším</em></td><td><em>naší</em></td><td></td></tr>
   <tr><td><tt><tt><a href="cs-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="cs-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs-feat-Number-psor.html">Number[psor]</a></tt><tt>=Plur</tt>|<tt><a href="cs-feat-Style.html">Style</a></tt><tt>=Coll</tt></tt></td><td></td><td></td><td><em>našim</em></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="cs-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="cs-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt></tt></td><td></td><td></td><td><em>mým</em></td><td><em>mou, mojí</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="cs-feat-Case.html">Case</a></tt><tt>=Loc</tt>|<tt><a href="cs-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs-feat-Number-psor.html">Number[psor]</a></tt><tt>=Plur</tt></tt></td><td></td><td></td><td><em>našem</em></td><td><em>naší</em></td><td></td></tr>
   <tr><td><tt><tt><a href="cs-feat-Case.html">Case</a></tt><tt>=Loc</tt>|<tt><a href="cs-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt></tt></td><td></td><td></td><td><em>mém</em></td><td><em>mé</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="cs-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="cs-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs-feat-Number-psor.html">Number[psor]</a></tt><tt>=Plur</tt></tt></td><td><em>naše</em></td><td><em>náš</em></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="cs-feat-Case.html">Case</a></tt><tt>=Loc</tt>|<tt><a href="cs-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs-feat-Number-psor.html">Number[psor]</a></tt><tt>=Plur</tt></tt></td><td></td><td></td><td><em>našem</em></td><td><em>naší</em></td><td></td></tr>
   <tr><td><tt><tt><a href="cs-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="cs-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt></tt></td><td><em>moje</em></td><td><em>můj</em></td><td></td><td><em>má</em></td><td><em>mé</em></td></tr>
-  <tr><td><tt><tt><a href="cs-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="cs-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="cs-feat-Number-psor.html">Number[psor]</a></tt><tt>=Plur</tt></tt></td><td><em>naše</em></td><td></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="cs-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="cs-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs-feat-Number-psor.html">Number[psor]</a></tt><tt>=Plur</tt></tt></td><td><em>naše</em></td><td><em>náš</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="cs-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="cs-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="cs-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt></tt></td><td><em>moje</em></td><td></td><td></td><td><em>mé</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="cs-feat-Case.html">Case</a></tt><tt>=Voc</tt>|<tt><a href="cs-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs-feat-Number-psor.html">Number[psor]</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>náš</em></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="cs-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="cs-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="cs-feat-Number-psor.html">Number[psor]</a></tt><tt>=Plur</tt></tt></td><td><em>naše</em></td><td></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="cs-feat-Case.html">Case</a></tt><tt>=Voc</tt>|<tt><a href="cs-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt></tt></td><td><em>moje</em></td><td><em>můj</em></td><td></td><td><em>má</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="cs-feat-Case.html">Case</a></tt><tt>=Voc</tt>|<tt><a href="cs-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs-feat-Number-psor.html">Number[psor]</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>náš</em></td><td></td><td></td><td></td></tr>
 </table>
 
 ### `PRON`
 
 7931 <tt><a href="cs-pos-PRON.html">PRON</a></tt> tokens (18% of all `PRON` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `PRON` and `Gender` co-occurred: <tt><a href="cs-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (7931; 100%), <tt><a href="cs-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (6698; 84%), <tt><a href="cs-feat-Number.html">Number</a></tt><tt>=Sing</tt> (6021; 76%), <tt><a href="cs-feat-PrepCase.html">PrepCase</a></tt><tt>=EMPTY</tt> (4784; 60%), <tt><a href="cs-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (4502; 57%), <tt><a href="cs-feat-Person.html">Person</a></tt><tt>=3</tt> (4502; 57%).
+The most frequent other feature values with which `PRON` and `Gender` co-occurred: <tt><a href="cs-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (7931; 100%), <tt><a href="cs-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (6698; 84%), <tt><a href="cs-feat-Number.html">Number</a></tt><tt>=Sing</tt> (6021; 76%), <tt><a href="cs-feat-PrepCase.html">PrepCase</a></tt><tt>=EMPTY</tt> (4784; 60%), <tt><a href="cs-feat-Person.html">Person</a></tt><tt>=3</tt> (4502; 57%), <tt><a href="cs-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (4502; 57%).
 
 `PRON` tokens may have the following values of `Gender`:
 
@@ -247,7 +247,7 @@ The most frequent other feature values with which `PRON` and `Gender` co-occurre
 * `Masc` (2146; 27% of non-empty `Gender`): <em>kdo, nikdo, někdo, on, jenž, oni, koho, komu, někoho, nikoho</em>
 * `Masc,Neut` (3460; 44% of non-empty `Gender`): <em>mu, ho, něj, jej, něm, němž, jehož, ním, něho, něhož</em>
 * `Neut` (220; 3% of non-empty `Gender`): <em>je, jež, ono, ně, veškeré, it, něž, veškerá, všecko, All</em>
-* `EMPTY` (36994): <em>se, si, co, nás, je, nám, nich, což, jim, nic</em>
+* `EMPTY` (36991): <em>se, si, co, nás, je, nám, nich, což, jim, nic</em>
 
 <table>
   <tr><th>Paradigm <i>on</i></th><th><tt>Masc</tt></th><th><tt>Masc,Neut</tt></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>
@@ -275,7 +275,7 @@ The most frequent other feature values with which `PRON` and `Gender` co-occurre
 
 6779 <tt><a href="cs-pos-AUX.html">AUX</a></tt> tokens (16% of all `AUX` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `AUX` and `Gender` co-occurred: <tt><a href="cs-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (6779; 100%), <tt><a href="cs-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (6779; 100%), <tt><a href="cs-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (6779; 100%), <tt><a href="cs-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (6775; 100%), <tt><a href="cs-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (6775; 100%), <tt><a href="cs-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (6107; 90%), <tt><a href="cs-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3918; 58%).
+The most frequent other feature values with which `AUX` and `Gender` co-occurred: <tt><a href="cs-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (6779; 100%), <tt><a href="cs-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (6779; 100%), <tt><a href="cs-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (6779; 100%), <tt><a href="cs-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (6775; 100%), <tt><a href="cs-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (6775; 100%), <tt><a href="cs-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (6107; 90%), <tt><a href="cs-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3918; 58%).
 
 `AUX` tokens may have the following values of `Gender`:
 
@@ -302,7 +302,7 @@ The most frequent other feature values with which `AUX` and `Gender` co-occurred
 
 4759 <tt><a href="cs-pos-NUM.html">NUM</a></tt> tokens (11% of all `NUM` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `NUM` and `Gender` co-occurred: <tt><a href="cs-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (4417; 93%), <tt><a href="cs-feat-NumValue.html">NumValue</a></tt><tt>=1,2,3</tt> (4417; 93%), <tt><a href="cs-feat-NumForm.html">NumForm</a></tt><tt>=Word</tt> (4417; 93%), <tt><a href="cs-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2795; 59%).
+The most frequent other feature values with which `NUM` and `Gender` co-occurred: <tt><a href="cs-feat-NumForm.html">NumForm</a></tt><tt>=Word</tt> (4417; 93%), <tt><a href="cs-feat-NumValue.html">NumValue</a></tt><tt>=1,2,3</tt> (4417; 93%), <tt><a href="cs-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (4417; 93%), <tt><a href="cs-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2795; 59%).
 
 `NUM` tokens may have the following values of `Gender`:
 
@@ -328,14 +328,14 @@ The most frequent other feature values with which `NUM` and `Gender` co-occurred
 ## Relations with Agreement in `Gender`
 
 The 10 most frequent relations where parent and child node agree in `Gender`:
-<tt>NOUN --[<tt><a href="cs-dep-amod.html">amod</a></tt>]--> ADJ</tt> (148689; 98%),
+<tt>NOUN --[<tt><a href="cs-dep-amod.html">amod</a></tt>]--> ADJ</tt> (147851; 98%),
 <tt>PROPN --[<tt><a href="cs-dep-flat.html">flat</a></tt>]--> PROPN</tt> (13445; 99%),
 <tt>PROPN --[<tt><a href="cs-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (8329; 89%),
 <tt>VERB --[<tt><a href="cs-dep-nsubj.html">nsubj</a></tt>]--> PROPN</tt> (7162; 53%),
-<tt>ADJ --[<tt><a href="cs-dep-conj.html">conj</a></tt>]--> ADJ</tt> (5646; 89%),
+<tt>ADJ --[<tt><a href="cs-dep-conj.html">conj</a></tt>]--> ADJ</tt> (5645; 89%),
 <tt>ADJ --[<tt><a href="cs-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (4660; 82%),
 <tt>PROPN --[<tt><a href="cs-dep-conj.html">conj</a></tt>]--> PROPN</tt> (4370; 68%),
-<tt>PROPN --[<tt><a href="cs-dep-amod.html">amod</a></tt>]--> ADJ</tt> (4236; 82%),
+<tt>PROPN --[<tt><a href="cs-dep-amod.html">amod</a></tt>]--> ADJ</tt> (4231; 82%),
 <tt>VERB --[<tt><a href="cs-dep-conj.html">conj</a></tt>]--> VERB</tt> (3989; 54%),
 <tt>ADJ --[<tt><a href="cs-dep-aux-pass.html">aux:pass</a></tt>]--> AUX</tt> (3125; 51%).
 

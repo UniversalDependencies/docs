@@ -12,7 +12,7 @@ It occurs with 1 different values: `Yes`.
 9317 tokens (1%) have a non-empty value of `Foreign`.
 3670 types (3%) occur at least once with a non-empty value of `Foreign`.
 3487 lemmas (6%) occur at least once with a non-empty value of `Foreign`.
-The feature is used with 13 part-of-speech tags: <tt><a href="cs-pos-PROPN.html">PROPN</a></tt> (3684; 0% instances), <tt><a href="cs-pos-ADJ.html">ADJ</a></tt> (2670; 0% instances), <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> (1813; 0% instances), <tt><a href="cs-pos-ADP.html">ADP</a></tt> (592; 0% instances), <tt><a href="cs-pos-PART.html">PART</a></tt> (120; 0% instances), <tt><a href="cs-pos-VERB.html">VERB</a></tt> (119; 0% instances), <tt><a href="cs-pos-ADV.html">ADV</a></tt> (116; 0% instances), <tt><a href="cs-pos-CCONJ.html">CCONJ</a></tt> (80; 0% instances), <tt><a href="cs-pos-PRON.html">PRON</a></tt> (63; 0% instances), <tt><a href="cs-pos-NUM.html">NUM</a></tt> (29; 0% instances), <tt><a href="cs-pos-DET.html">DET</a></tt> (17; 0% instances), <tt><a href="cs-pos-SCONJ.html">SCONJ</a></tt> (8; 0% instances), <tt><a href="cs-pos-INTJ.html">INTJ</a></tt> (6; 0% instances).
+The feature is used with 13 part-of-speech tags: <tt><a href="cs-pos-PROPN.html">PROPN</a></tt> (3684; 0% instances), <tt><a href="cs-pos-ADJ.html">ADJ</a></tt> (2670; 0% instances), <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> (1813; 0% instances), <tt><a href="cs-pos-ADP.html">ADP</a></tt> (592; 0% instances), <tt><a href="cs-pos-PART.html">PART</a></tt> (120; 0% instances), <tt><a href="cs-pos-VERB.html">VERB</a></tt> (119; 0% instances), <tt><a href="cs-pos-ADV.html">ADV</a></tt> (116; 0% instances), <tt><a href="cs-pos-CCONJ.html">CCONJ</a></tt> (80; 0% instances), <tt><a href="cs-pos-PRON.html">PRON</a></tt> (61; 0% instances), <tt><a href="cs-pos-NUM.html">NUM</a></tt> (29; 0% instances), <tt><a href="cs-pos-DET.html">DET</a></tt> (19; 0% instances), <tt><a href="cs-pos-SCONJ.html">SCONJ</a></tt> (8; 0% instances), <tt><a href="cs-pos-INTJ.html">INTJ</a></tt> (6; 0% instances).
 
 ### `PROPN`
 
@@ -36,7 +36,7 @@ The most frequent other feature values with which `ADJ` and `Foreign` co-occurre
 `ADJ` tokens may have the following values of `Foreign`:
 
 * `Yes` (2670; 100% of non-empty `Foreign`): <em>New, the, open, US, Pink, la, Le, Deutsche, die, United</em>
-* `EMPTY` (187667): <em>první, další, české, nové, druhé, poslední, státní, dalších, možné, vlastní</em>
+* `EMPTY` (186515): <em>první, další, české, nové, druhé, poslední, státní, dalších, možné, vlastní</em>
 
 `Foreign` seems to be **lexical feature** of `ADJ`. 100% lemmas (1003) occur only with one value of `Foreign`.
 
@@ -114,22 +114,22 @@ The most frequent other feature values with which `ADV` and `Foreign` co-occurre
 
 ### `PRON`
 
-63 <tt><a href="cs-pos-PRON.html">PRON</a></tt> tokens (0% of all `PRON` tokens) have a non-empty value of `Foreign`.
+61 <tt><a href="cs-pos-PRON.html">PRON</a></tt> tokens (0% of all `PRON` tokens) have a non-empty value of `Foreign`.
 
-The most frequent other feature values with which `PRON` and `Foreign` co-occurred: <tt><a href="cs-feat-PrepCase.html">PrepCase</a></tt><tt>=EMPTY</tt> (63; 100%), <tt><a href="cs-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (62; 98%), <tt><a href="cs-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (62; 98%), <tt><a href="cs-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (46; 73%), <tt><a href="cs-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (42; 67%), <tt><a href="cs-feat-Number.html">Number</a></tt><tt>=Sing</tt> (32; 51%).
+The most frequent other feature values with which `PRON` and `Foreign` co-occurred: <tt><a href="cs-feat-PrepCase.html">PrepCase</a></tt><tt>=EMPTY</tt> (61; 100%), <tt><a href="cs-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (60; 98%), <tt><a href="cs-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (60; 98%), <tt><a href="cs-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (44; 72%), <tt><a href="cs-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (42; 69%), <tt><a href="cs-feat-Number.html">Number</a></tt><tt>=Sing</tt> (32; 52%).
 
 `PRON` tokens may have the following values of `Foreign`:
 
-* `Yes` (63; 100% of non-empty `Foreign`): <em>it, All, you, I, Me, We, Some, Us, She, WAS</em>
-* `EMPTY` (44862): <em>se, si, co, nás, je, nám, nich, kdo, což, mu</em>
+* `Yes` (61; 100% of non-empty `Foreign`): <em>it, All, you, I, Me, We, Some, Us, She, WAS</em>
+* `EMPTY` (44861): <em>se, si, co, nás, je, nám, nich, kdo, což, mu</em>
 
-`Foreign` seems to be **lexical feature** of `PRON`. 100% lemmas (23) occur only with one value of `Foreign`.
+`Foreign` seems to be **lexical feature** of `PRON`. 100% lemmas (21) occur only with one value of `Foreign`.
 
 ### `NUM`
 
 29 <tt><a href="cs-pos-NUM.html">NUM</a></tt> tokens (0% of all `NUM` tokens) have a non-empty value of `Foreign`.
 
-The most frequent other feature values with which `NUM` and `Foreign` co-occurred: <tt><a href="cs-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (29; 100%), <tt><a href="cs-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (29; 100%), <tt><a href="cs-feat-NumForm.html">NumForm</a></tt><tt>=Word</tt> (29; 100%), <tt><a href="cs-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (26; 90%), <tt><a href="cs-feat-NumValue.html">NumValue</a></tt><tt>=1,2,3</tt> (24; 83%), <tt><a href="cs-feat-Number.html">Number</a></tt><tt>=Plur</tt> (22; 76%).
+The most frequent other feature values with which `NUM` and `Foreign` co-occurred: <tt><a href="cs-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (29; 100%), <tt><a href="cs-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (29; 100%), <tt><a href="cs-feat-NumForm.html">NumForm</a></tt><tt>=Word</tt> (29; 100%), <tt><a href="cs-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (26; 90%), <tt><a href="cs-feat-NumValue.html">NumValue</a></tt><tt>=1,2,3</tt> (24; 83%), <tt><a href="cs-feat-Number.html">Number</a></tt><tt>=Plur</tt> (22; 76%).
 
 `NUM` tokens may have the following values of `Foreign`:
 
@@ -140,16 +140,16 @@ The most frequent other feature values with which `NUM` and `Foreign` co-occurre
 
 ### `DET`
 
-17 <tt><a href="cs-pos-DET.html">DET</a></tt> tokens (0% of all `DET` tokens) have a non-empty value of `Foreign`.
+19 <tt><a href="cs-pos-DET.html">DET</a></tt> tokens (0% of all `DET` tokens) have a non-empty value of `Foreign`.
 
-The most frequent other feature values with which `DET` and `Foreign` co-occurred: <tt><a href="cs-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (16; 94%), <tt><a href="cs-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (13; 76%), <tt><a href="cs-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (12; 71%), <tt><a href="cs-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (12; 71%), <tt><a href="cs-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (11; 65%), <tt><a href="cs-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (9; 53%).
+The most frequent other feature values with which `DET` and `Foreign` co-occurred: <tt><a href="cs-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (18; 95%), <tt><a href="cs-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (15; 79%), <tt><a href="cs-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (14; 74%), <tt><a href="cs-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (13; 68%), <tt><a href="cs-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (13; 68%), <tt><a href="cs-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (11; 58%).
 
 `DET` tokens may have the following values of `Foreign`:
 
-* `Yes` (17; 100% of non-empty `Foreign`): <em>My, That, This, Your, sua, C, Notre, These, ce, cui</em>
-* `EMPTY` (55296): <em>to, které, který, jeho, která, jejich, své, tím, kteří, tom</em>
+* `Yes` (19; 100% of non-empty `Foreign`): <em>My, That, This, Your, sua, C, Notre, These, ce, cui</em>
+* `EMPTY` (56449): <em>to, které, který, jeho, která, jejich, své, tím, kteří, tom</em>
 
-`Foreign` seems to be **lexical feature** of `DET`. 100% lemmas (12) occur only with one value of `Foreign`.
+`Foreign` seems to be **lexical feature** of `DET`. 100% lemmas (14) occur only with one value of `Foreign`.
 
 ### `SCONJ`
 
