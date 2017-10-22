@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-10-22T15:37:15Z">2017-10-22T15:37:15 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-10-22T19:52:19Z">2017-10-22T19:52:19 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -2063,7 +2063,7 @@ python tools/validate.py --lang it_partut UD-dev-branches/UD_Italian-ParTUT/it_p
 <span class="doublewidespan" style="padding-left:3em">UD Italian-PoSTWITA</span>
 <span class="widespan">it postwita</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-10-22T15:37:11Z">2017-10-22T15:37:11 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-10-22T19:52:15Z">2017-10-22T19:52:15 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -2104,13 +2104,7 @@ Metadata errors: 210
 
 python tools/validate.py --lang it_postwita UD-dev-branches/UD_Italian-PoSTWITA/it_postwita-ud-train.conllu
 
-[Line                   17558]: SpaceAfter=No is missing in the MISC field of node #1 because the text is 'Quell'idiota di #Gri[...]'
-[Line                   18823]: SpaceAfter=No is missing in the MISC field of node #6 because the text is '+1,9% aspettando gov[...]'
-[Line                   31696]: SpaceAfter=No is missing in the MISC field of node #17 because the text is ''80. Ha detto ke riv[...]'
-[Line                   34456]: SpaceAfter=No is missing in the MISC field of node #1 because the text is 'Quell'efferato sarca[...]'
-[Line                   46565]: SpaceAfter=No is missing in the MISC field of node #1 because the text is 'L'Italia i valori ..[...]'
-*** FAILED *** with 5 errors
-Metadata errors: 5
+*** PASSED ***
 
 
 ******************
