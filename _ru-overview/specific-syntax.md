@@ -103,8 +103,8 @@ case(брат, как)
 case(brother, as)
 advmod(умен, так)
 advmod(smart, so)
-advmod:discourse(так, же)
-advmod:discourse(so, then)
+fixed(так, же)
+fixed(so, then)
 ~~~
 
 ~~~ sdparse
