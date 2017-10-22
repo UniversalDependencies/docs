@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-10-22T10:44:34Z">2017-10-22T10:44:34 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-10-22T15:37:15Z">2017-10-22T15:37:15 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -2062,12 +2062,60 @@ python tools/validate.py --lang it_partut UD-dev-branches/UD_Italian-ParTUT/it_p
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD Italian-PoSTWITA</span>
 <span class="widespan">it postwita</span>
-<span class="validationfail">EMPTY</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-10-22T08:00:20Z">2017-10-22T08:00:20 zulu</time></span>
+<span class="validationfail">FAIL</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-10-22T15:37:11Z">2017-10-22T15:37:11 zulu</time></span>
 </div>
 <div>
 <pre>
-No data
+python tools/validate.py --lang it_postwita UD-dev-branches/UD_Italian-PoSTWITA/it_postwita-ud-dev.conllu
+
+*** PASSED ***
+
+
+******************
+
+python tools/validate.py --lang it_postwita UD-dev-branches/UD_Italian-PoSTWITA/it_postwita-ud-test.conllu
+
+[Line                   52]: SpaceAfter=No is missing in the MISC field of node #10 because the text is 'riunisca, nella vita[...]'
+[Line                   67]: SpaceAfter=No is missing in the MISC field of node #3 because the text is 'buchi: ha salvato le[...]'
+[Line                   139]: SpaceAfter=No is missing in the MISC field of node #3 because the text is 'bravi, fdgjdkjgd htt[...]'
+[Line                   165]: SpaceAfter=No is missing in the MISC field of node #13 because the text is 'attrazioni. Mi è toc[...]'
+[Line                   332]: SpaceAfter=No is missing in the MISC field of node #5 because the text is 'l'università e io su[...]'
+[Line                   394]: SpaceAfter=No is missing in the MISC field of node #11 because the text is 'Km. 592,5) e Anagni [...]'
+[Line                   394]: SpaceAfter=No is missing in the MISC field of node #20 because the text is 'Km. 603,5) dalle 06:[...]'
+[Line                   428]: SpaceAfter=No is missing in the MISC field of node #11 because the text is 'prossimo! Affrettati[...]'
+[Line                   471]: SpaceAfter=No is missing in the MISC field of node #15 because the text is 'gol, ma è solo danno[...]'
+[Line                   511]: SpaceAfter=No is missing in the MISC field of node #1 because the text is 'Terrorismo: sparator[...]'
+[Line                   567]: SpaceAfter=No is missing in the MISC field of node #14 because the text is 'l'ultimo Sanremo. TI[...]'
+[Line                   567]: SpaceAfter=No is missing in the MISC field of node #20 because the text is 'CONTO? Xchè èStataPr[...]'
+[Line                   606]: SpaceAfter=No is missing in the MISC field of node #6 because the text is 'metrò: nel trasbordo[...]'
+[Line                   626]: SpaceAfter=No is missing in the MISC field of node #7 because the text is 'scuola, minchia so' [...]'
+[Line                   654]: SpaceAfter=No is missing in the MISC field of node #3 because the text is 'bastonate, moglie al[...]'
+[Line                   654]: SpaceAfter=No is missing in the MISC field of node #16 because the text is 'violento, sono penti[...]'
+[Line                   684]: SpaceAfter=No is missing in the MISC field of node #11 because the text is 'l'Italia http://t.co[...]'
+[Line                   726]: SpaceAfter=No is missing in the MISC field of node #17 because the text is 'nazionali? Anche que[...]'
+[Line                   741]: SpaceAfter=No is missing in the MISC field of node #10 because the text is 'noi! XX'
+...suppressing further errors regarding Metadata
+*** FAILED *** with 210 errors
+Metadata errors: 210
+
+
+******************
+
+python tools/validate.py --lang it_postwita UD-dev-branches/UD_Italian-PoSTWITA/it_postwita-ud-train.conllu
+
+[Line                   17558]: SpaceAfter=No is missing in the MISC field of node #1 because the text is 'Quell'idiota di #Gri[...]'
+[Line                   18823]: SpaceAfter=No is missing in the MISC field of node #6 because the text is '+1,9% aspettando gov[...]'
+[Line                   31696]: SpaceAfter=No is missing in the MISC field of node #17 because the text is ''80. Ha detto ke riv[...]'
+[Line                   34456]: SpaceAfter=No is missing in the MISC field of node #1 because the text is 'Quell'efferato sarca[...]'
+[Line                   46565]: SpaceAfter=No is missing in the MISC field of node #1 because the text is 'L'Italia i valori ..[...]'
+*** FAILED *** with 5 errors
+Metadata errors: 5
+
+
+******************
+
+
 </pre>
 </div>
 <div>
