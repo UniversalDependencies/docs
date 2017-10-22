@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-10-22T10:15:03Z">2017-10-22T10:15:03 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-10-22T10:21:54Z">2017-10-22T10:21:54 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -563,46 +563,46 @@ python tools/validate.py --lang hr UD-dev-branches/UD_Croatian/hr-ud-train.conll
 <span class="doublewidespan" style="padding-left:3em">UD Czech</span>
 <span class="widespan">cs</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-10-22T10:12:20Z">2017-10-22T10:12:20 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-10-22T10:19:54Z">2017-10-22T10:19:54 zulu</time></span>
 </div>
 <div>
 <pre>
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang cs /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Czech/cs-ud-dev.conllu
+python tools/validate.py --lang cs UD-dev-branches/UD_Czech/cs-ud-dev.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang cs /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Czech/cs-ud-test.conllu
+python tools/validate.py --lang cs UD-dev-branches/UD_Czech/cs-ud-test.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang cs /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Czech/cs-ud-train-c.conllu
+python tools/validate.py --lang cs UD-dev-branches/UD_Czech/cs-ud-train-c.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang cs /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Czech/cs-ud-train-l.conllu
+python tools/validate.py --lang cs UD-dev-branches/UD_Czech/cs-ud-train-l.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang cs /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Czech/cs-ud-train-m.conllu
+python tools/validate.py --lang cs UD-dev-branches/UD_Czech/cs-ud-train-m.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang cs /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Czech/cs-ud-train-v.conllu
+python tools/validate.py --lang cs UD-dev-branches/UD_Czech/cs-ud-train-v.conllu
 
 *** PASSED ***
 
