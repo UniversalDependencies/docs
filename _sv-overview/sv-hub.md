@@ -36,14 +36,14 @@ udver: '2'
 For more information, see the list of [Swedish POS tags](../pos/index.html).
 
 ---
-**Instruction**: Specify any unused tags. Explain what words are tagged as PART. Describe how the AUX-VERB and DET-PRON distinctions are drawn, and specify whether there are (de)verbal forms tagged as ADJ or NOUN. Include links to language-specific tag definitions if any.
+**Instruction**: Specify any unused tags. Explain what words are tagged as PART. Describe how the AUX-VERB and DET-PRON distinctions are drawn, and specify whether there are (de)verbal forms tagged as ADJ, ADV or NOUN. Include links to language-specific tag definitions if any.
 
 ---
 
-### Features 
+### Features
 
-* Nouns have inherent [Gender]() and inflect for [Number]() (singular or plural), [Definite]() (indefinite or definite) and [Case]() (nominative or genitive). 
-* Verbs inflect for [Voice]() (active or passive). Finite forms in indicative mood in addition inflect for [Tense]() (present or paste). There are three types of nonfinite forms: infinitives, participles (present and past), and supine (used to form perfect tenses together with the auxiliary *have*). 
+* Nouns have inherent [Gender]() and inflect for [Number]() (singular or plural), [Definite]() (indefinite or definite) and [Case]() (nominative or genitive).
+* Verbs inflect for [Voice]() (active or passive). Finite forms in indicative mood in addition inflect for [Tense]() (present or paste). There are three types of nonfinite forms: infinitives, participles (present and past), and supine (used to form perfect tenses together with the auxiliary *have*).
 * Adjectives agree with nouns (in both attributive and predicate position) with respect to the features [Gender](), [Number]() and [Definite](). In addition, many adjectives inflect for [Degree]() (positive, comparative, superlative) and for [Case]() when used to head noun phrases.
 * Adverbs inflect only for [Degree]().
 * Personal pronouns inflect for [Case]() with three values (nominative, accusative, genitive).
@@ -58,7 +58,7 @@ For more information, see the list of [Swedish features](../feat/index.html).
 
 ## Syntax
 
-* Subjects have the following characteristics: 
+* Subjects have the following characteristics:
   * Word order: Subjects immediately follow the finite verb and precede negation in verb-initial main clauses.
   * Case marking: Subjects occur in nominative case without adpositions.
   * Passivization: Subjects are suppressed when verbs (both intransitive and transitive) are passivized.
@@ -93,7 +93,7 @@ There are three Swedish UD treebanks:
   * Swedish
   * Swedish-LinES
   * Swedish-PUD
-  
+
 ---
 **Where do we link to for the treebanks?**
 

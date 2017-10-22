@@ -25,12 +25,33 @@ udver: '2'
 
 ## Morphology
 
+### Tags
+
 This is an overview only. For more detailed discussion and examples, see the list of [Czech POS tags](../pos/index.html)
 and [Czech features](../feat/index.html).
 
 * Czech uses all 17 universal POS categories, including particles ([PART]()).
   At present, more than 70 word types are tagged [PART](). This is a legacy of an existing Czech morphological analyzer
   and many of these words should probably belong to another category in UD; however, the exact list has yet to be worked out.
+* The pronoun ([PRON]()) vs. determiner ([DET]()) distinction is based on word lists because the traditional grammar does not define determiners.
+  In general, words that inflect for gender, to be able to agree with a modified noun, are tagged [DET](), even if they
+  act independently in a given sentence; that includes possessives.
+  Pronominal quantifiers (which the traditional grammar includes in numerals) are [DET]() as well.
+* Czech has just one auxiliary verb ([AUX]()), _být_ (“to be”), but lemmas _bývat_ and _bývávat_ are also possible.
+  They are in fact just variants of _být_, but they are separate lemmas because
+  the morphological process that relates them to _být_ is considered derivational.
+  The auxiliary verb is used in several types of constructions:
+  * The copula with non-verbal predicates.
+  * Periphrastic future tense (future form of _být_ + infinitive of the main verb).
+  * Periphrastic past tense (present form of _být_ + l-participle of the main verb; the auxiliary is omitted with 3rd-person subjects).
+  * Periphrastic conditional (conditional form of _být_ + l-participle of the main verb).
+  * Periphrastic passive (any form of _být_, including periphrastic forms, + passive participle of the main verb).
+* In other words, _být, bývat_ and _bývávat_ are the only lemmas that occur with the [AUX]() tag.
+  They may still occur also as normal [VERB]() if they are used in purely existential sentences
+  (i.e. such that don't even indicate location because if they do, then _být_ is treated as copula).
+  * Note that this may be changed in future. Existential sentences could be treated as elliptical versions of locational sentences;
+    then the verb would be the root, but it could still be tagged as `AUX` and the `AUX`-`VERB` distinction could be anchored in the lexicon.
+* Verbs with modal meaning are not considered auxiliary in Czech.
 * There are five main (de)verbal forms, distinguished by the UPOS tag and the value of the [VerbForm]() feature:
   * Infinitive `Inf`, tagged [VERB]() or [AUX]().
   * Finite verb `Fin`, tagged [VERB]() or [AUX]().
@@ -91,9 +112,6 @@ and [Czech features](../feat/index.html).
 
 ### Pronouns, Determiners, Quantifiers
 
-* The pronoun-determiner distinction is based on word lists (because the traditional grammar does not define determiners).
-  In general, words that inflect for gender, to be able to agree with a modified noun, are tagged [DET](), even if they
-  act independently in a given sentence. Pronominal quantifiers (which the traditional grammar includes in numerals) are [DET]() as well.
 * [PronType]() is used with pronouns ([PRON]()), determiners ([DET]()) and adverbs ([ADV]()).
 * [NumType]() is used with numerals ([NUM]()), adjectives ([ADJ]()), determiners ([DET]()) and adverbs ([ADV]()).
 * The [Poss]() feature marks possessive personal determiners (e.g. _můj_ “my”),
@@ -129,20 +147,6 @@ and [Czech features](../feat/index.html).
 
 This is an overview only. For more detailed discussion and examples, see the list of [Czech relations](../dep/index.html),
 as well as Czech-specific examples scattered across the documentation of constructions.
-
-### Auxiliary Verbs and Copula
-
-* Czech uses the verb _být_ (“to be”) as a copula with non-verbal predicates.
-  Lemmas _bývat_ and _bývávat_ may also appear as copulas. They are in fact just variants of _být_, but they are separate lemmas because
-  the morphological process that relates them to _být_ is considered derivational.
-* The verb _být_ is also the only auxiliary verb whose forms are used to construct periphrastic tenses (future, past),
-  moods (conditional) and voices (passive).
-* In other words, _být, bývat_ and _bývávat_ are the only lemmas that occur with the [AUX]() tag.
-  They may still occur also as normal [VERB]() if they are used in purely existential sentences
-  (i.e. such that don't even indicate location because if they do, then _být_ is treated as copula).
-  * Note that this may be changed in future. Existential sentences could be treated as elliptical versions of locational sentences;
-    then the verb would be the root, but it could still be tagged as `AUX` and the `AUX`-`VERB` distinction could be anchored in the lexicon.
-* Verbs with modal meaning are not considered auxiliary in Czech.
 
 ### Core Arguments, Oblique Arguments and Adjuncts
 
@@ -184,16 +188,30 @@ as well as Czech-specific examples scattered across the documentation of constru
   * The auxiliary verb in periphrastic passive is labeled [aux:pass]().
   * If the demoted agent is present, it has the form of a bare instrumental phrase and its relation is labeled [obl:agent]().
 
+### Non-verbal Clauses
+
+* The copula verb _být_ (be) is used in equational, attributional, locative, possessive and benefactory nonverbal clauses.
+  Purely existential clauses (without indicating location) use _být_ as well but it is treated as the head of the clause and tagged [VERB]().
+
 ### Relations Overview
 
-* The following relation subtypes are used in Czech: [nsubj:pass](), [csubj:pass](), [obl:agent](), [obl:arg](),
-  [expl:pass](), [expl:pv](), [aux:pass](),
-  [advmod:emph](), [det:numgov](), [det:nummod](), [nummod:gov](),
-  [flat:foreign]().
+* The following relation subtypes are used in Czech:
+  * [nsubj:pass]() for nominal subjects of passive verbs
+  * [csubj:pass]() for clausal subjects of passive verbs
+  * [obl:agent]() for agents of passive verbs
+  * [obl:arg]() for prepositional objects
+  * [expl:pv]() for reflexive clitics of inherently reflexive verbs
+  * [expl:pass]() for reflexive clitics in reflexive passives
+  * [aux:pass]() for passive auxiliaries
+  * [nummod:gov]() for cardinal numbers that are attached as children of the counted noun but govern its case
+  * [det:numgov]() for pronominal quantifiers that are attached as children of the quantified noun but govern its case
+  * [det:nummod]() for pronominal quantifiers in cases in which they do not govern the case of the quantified noun
+  * [advmod:emph]() for adverbs or particles that modify noun phrases and emphasize or negate them
+  * [flat:foreign]() for non-first words in quoted foreign phrases
 * The following main types are not used alone and must be subtyped:
-  [expl]().
+  [expl]()
 * The following relation types are not used in Czech at all:
-  [clf](), [dislocated]().
+  [clf](), [dislocated]()
 
 ## Treebanks
 
