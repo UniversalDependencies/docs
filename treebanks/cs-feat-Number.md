@@ -152,14 +152,14 @@ The most frequent other feature values with which `PROPN` and `Number` co-occurr
 
 49586 <tt><a href="cs-pos-DET.html">DET</a></tt> tokens (88% of all `DET` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="cs-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (45202; 91%), <tt><a href="cs-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (45202; 91%), <tt><a href="cs-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (42599; 86%), <tt><a href="cs-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (40302; 81%).
+The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="cs-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (45202; 91%), <tt><a href="cs-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (45202; 91%), <tt><a href="cs-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (42599; 86%), <tt><a href="cs-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (40302; 81%).
 
 `DET` tokens may have the following values of `Number`:
 
 * `Dual` (4; 0% of non-empty `Number`): <em>jejíma, svýma, těma</em>
 * `Plur` (13372; 27% of non-empty `Number`): <em>které, kteří, všechny, všech, těchto, své, tyto, svých, některé, některých</em>
 * `Sing` (36210; 73% of non-empty `Number`): <em>to, který, která, tím, tom, této, které, tomu, tento, své</em>
-* `EMPTY` (6882): <em>jeho, jejich, několik, několika, mnoho, jejichž, mnoha, kolik, jehož, tolik</em>
+* `EMPTY` (6879): <em>jeho, jejich, několik, několika, mnoho, jejichž, mnoha, kolik, jehož, tolik</em>
 
 <table>
   <tr><th>Paradigm <i>ten</i></th><th><tt>Sing</tt></th><th><tt>Dual</tt></th><th><tt>Plur</tt></th></tr>
@@ -251,7 +251,7 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
 
 * `Plur` (6227; 46% of non-empty `Number`): <em>nás, je, nám, nich, jim, nichž, my, jich, nimi, ně</em>
 * `Sing` (7382; 54% of non-empty `Number`): <em>mu, ji, ho, mi, ní, něj, jej, níž, já, mě</em>
-* `EMPTY` (31313): <em>se, si, co, kdo, což, nic, něco, nikdo, sebe, někdo</em>
+* `EMPTY` (31316): <em>se, si, co, kdo, což, nic, něco, nikdo, sebe, někdo</em>
 
 <table>
   <tr><th>Paradigm <i>on</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>

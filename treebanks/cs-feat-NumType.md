@@ -32,7 +32,7 @@ The most frequent other feature values with which `NUM` and `NumType` co-occurre
 
 4990 <tt><a href="cs-pos-ADJ.html">ADJ</a></tt> tokens (3% of all `ADJ` tokens) have a non-empty value of `NumType`.
 
-The most frequent other feature values with which `ADJ` and `NumType` co-occurred: <tt><a href="cs-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (4990; 100%), <tt><a href="cs-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (4990; 100%), <tt><a href="cs-feat-Number.html">Number</a></tt><tt>=Sing</tt> (4215; 84%), <tt><a href="cs-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (3246; 65%).
+The most frequent other feature values with which `ADJ` and `NumType` co-occurred: <tt><a href="cs-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (4990; 100%), <tt><a href="cs-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (4990; 100%), <tt><a href="cs-feat-Number.html">Number</a></tt><tt>=Sing</tt> (4215; 84%), <tt><a href="cs-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (3246; 65%).
 
 `ADJ` tokens may have the following values of `NumType`:
 
@@ -47,13 +47,13 @@ The most frequent other feature values with which `ADJ` and `NumType` co-occurre
 
 1848 <tt><a href="cs-pos-DET.html">DET</a></tt> tokens (3% of all `DET` tokens) have a non-empty value of `NumType`.
 
-The most frequent other feature values with which `DET` and `NumType` co-occurred: <tt><a href="cs-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (1848; 100%), <tt><a href="cs-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (1848; 100%), <tt><a href="cs-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (1848; 100%), <tt><a href="cs-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (1844; 100%), <tt><a href="cs-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (1832; 99%), <tt><a href="cs-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1832; 99%), <tt><a href="cs-feat-PronType.html">PronType</a></tt><tt>=Ind</tt> (1545; 84%).
+The most frequent other feature values with which `DET` and `NumType` co-occurred: <tt><a href="cs-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (1848; 100%), <tt><a href="cs-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (1848; 100%), <tt><a href="cs-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (1848; 100%), <tt><a href="cs-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (1844; 100%), <tt><a href="cs-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (1832; 99%), <tt><a href="cs-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1832; 99%), <tt><a href="cs-feat-PronType.html">PronType</a></tt><tt>=Ind</tt> (1545; 84%).
 
 `DET` tokens may have the following values of `NumType`:
 
 * `Card` (1846; 100% of non-empty `NumType`): <em>několik, několika, mnoho, mnoha, kolik, tolik, málo, moc, mála, nemálo</em>
 * `Ord` (2; 0% of non-empty `NumType`): <em>několikáté, několikátý</em>
-* `EMPTY` (54620): <em>to, které, který, jeho, která, jejich, své, tím, kteří, tom</em>
+* `EMPTY` (54617): <em>to, které, který, jeho, která, jejich, své, tím, kteří, tom</em>
 
 `NumType` seems to be **lexical feature** of `DET`. 100% lemmas (16) occur only with one value of `NumType`.
 
@@ -61,7 +61,7 @@ The most frequent other feature values with which `DET` and `NumType` co-occurre
 
 864 <tt><a href="cs-pos-ADV.html">ADV</a></tt> tokens (1% of all `ADV` tokens) have a non-empty value of `NumType`.
 
-The most frequent other feature values with which `ADV` and `NumType` co-occurred: <tt><a href="cs-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (864; 100%), <tt><a href="cs-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (864; 100%), <tt><a href="cs-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (741; 86%).
+The most frequent other feature values with which `ADV` and `NumType` co-occurred: <tt><a href="cs-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (864; 100%), <tt><a href="cs-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (864; 100%), <tt><a href="cs-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (741; 86%).
 
 `ADV` tokens may have the following values of `NumType`:
 

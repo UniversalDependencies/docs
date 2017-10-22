@@ -69,7 +69,7 @@ The most frequent other feature values with which `VERB` and `Mood` co-occurred:
 
 32746 <tt><a href="cs-pos-AUX.html">AUX</a></tt> tokens (79% of all `AUX` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `AUX` and `Mood` co-occurred: <tt><a href="cs-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (32746; 100%), <tt><a href="cs-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (32746; 100%), <tt><a href="cs-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (23770; 73%), <tt><a href="cs-feat-Person.html">Person</a></tt><tt>=3</tt> (22271; 68%), <tt><a href="cs-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (21488; 66%), <tt><a href="cs-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (19264; 59%), <tt><a href="cs-feat-Number.html">Number</a></tt><tt>=Sing</tt> (17772; 54%).
+The most frequent other feature values with which `AUX` and `Mood` co-occurred: <tt><a href="cs-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (32746; 100%), <tt><a href="cs-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (32746; 100%), <tt><a href="cs-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (23770; 73%), <tt><a href="cs-feat-Person.html">Person</a></tt><tt>=3</tt> (22271; 68%), <tt><a href="cs-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (21488; 66%), <tt><a href="cs-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (19264; 59%), <tt><a href="cs-feat-Number.html">Number</a></tt><tt>=Sing</tt> (17772; 54%).
 
 `AUX` tokens may have the following values of `Mood`:
 

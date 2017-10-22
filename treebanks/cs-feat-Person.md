@@ -41,7 +41,7 @@ The most frequent other feature values with which `VERB` and `Person` co-occurre
 
 27307 <tt><a href="cs-pos-AUX.html">AUX</a></tt> tokens (66% of all `AUX` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `AUX` and `Person` co-occurred: <tt><a href="cs-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (27307; 100%), <tt><a href="cs-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (27307; 100%), <tt><a href="cs-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (23770; 87%), <tt><a href="cs-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (23770; 87%), <tt><a href="cs-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (21488; 79%), <tt><a href="cs-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (19264; 71%), <tt><a href="cs-feat-Number.html">Number</a></tt><tt>=Sing</tt> (17772; 65%).
+The most frequent other feature values with which `AUX` and `Person` co-occurred: <tt><a href="cs-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (27307; 100%), <tt><a href="cs-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (27307; 100%), <tt><a href="cs-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (23770; 87%), <tt><a href="cs-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (23770; 87%), <tt><a href="cs-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (21488; 79%), <tt><a href="cs-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (19264; 71%), <tt><a href="cs-feat-Number.html">Number</a></tt><tt>=Sing</tt> (17772; 65%).
 
 `AUX` tokens may have the following values of `Person`:
 
@@ -78,14 +78,14 @@ The most frequent other feature values with which `AUX` and `Person` co-occurred
 
 11130 <tt><a href="cs-pos-PRON.html">PRON</a></tt> tokens (25% of all `PRON` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="cs-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (11130; 100%), <tt><a href="cs-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (11130; 100%), <tt><a href="cs-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (9112; 82%), <tt><a href="cs-feat-PrepCase.html">PrepCase</a></tt><tt>=EMPTY</tt> (8406; 76%), <tt><a href="cs-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (6628; 60%), <tt><a href="cs-feat-Number.html">Number</a></tt><tt>=Sing</tt> (5766; 52%).
+The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="cs-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (11130; 100%), <tt><a href="cs-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (11130; 100%), <tt><a href="cs-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (9112; 82%), <tt><a href="cs-feat-PrepCase.html">PrepCase</a></tt><tt>=EMPTY</tt> (8406; 76%), <tt><a href="cs-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (6628; 60%), <tt><a href="cs-feat-Number.html">Number</a></tt><tt>=Sing</tt> (5766; 52%).
 
 `PRON` tokens may have the following values of `Person`:
 
 * `1` (3394; 30% of non-empty `Person`): <em>nás, nám, mi, já, mě, my, mne, námi, mně, mnou</em>
 * `2` (459; 4% of non-empty `Person`): <em>vám, vás, vy, vámi, ty, tě, ti, you, tobě, tebe</em>
 * `3` (7277; 65% of non-empty `Person`): <em>je, nich, mu, ji, ho, jim, ní, něj, jej, jí</em>
-* `EMPTY` (33792): <em>se, si, co, kdo, což, nic, něco, nichž, jež, nikdo</em>
+* `EMPTY` (33795): <em>se, si, co, kdo, což, nic, něco, nichž, jež, nikdo</em>
 
 `Person` seems to be **lexical feature** of `PRON`. 100% lemmas (15) occur only with one value of `Person`.
 
@@ -100,7 +100,7 @@ The most frequent other feature values with which `DET` and `Person` co-occurred
 * `1` (2656; 28% of non-empty `Person`): <em>naše, naší, našich, náš, našeho, naši, našem, můj, mého, moje</em>
 * `2` (267; 3% of non-empty `Person`): <em>vaše, vaší, váš, vašeho, vaši, vašich, vašem, vašimi, vaším, Your</em>
 * `3` (6494; 69% of non-empty `Person`): <em>jeho, jejich, její, jejichž, jehož, jejím, jejíž, jejího, jejích, jejímž</em>
-* `EMPTY` (47051): <em>to, které, který, která, své, tím, kteří, tom, této, tomu</em>
+* `EMPTY` (47048): <em>to, které, který, která, své, tím, kteří, tom, této, tomu</em>
 
 ## Relations with Agreement in `Person`
 
@@ -109,7 +109,7 @@ The 10 most frequent relations where parent and child node agree in `Person`:
 <tt>VERB --[<tt><a href="cs-dep-appos.html">appos</a></tt>]--> VERB</tt> (72; 64%),
 <tt>PRON --[<tt><a href="cs-dep-appos.html">appos</a></tt>]--> PRON</tt> (3; 75%),
 <tt>PRON --[<tt><a href="cs-dep-xcomp.html">xcomp</a></tt>]--> VERB</tt> (2; 67%),
+<tt>PRON --[<tt><a href="cs-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (1; 100%),
 <tt>PRON --[<tt><a href="cs-dep-acl.html">acl</a></tt>]--> PRON</tt> (1; 100%),
-<tt>PRON --[<tt><a href="cs-dep-dep.html">dep</a></tt>]--> VERB</tt> (1; 100%),
-<tt>PRON --[<tt><a href="cs-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (1; 100%).
+<tt>PRON --[<tt><a href="cs-dep-dep.html">dep</a></tt>]--> VERB</tt> (1; 100%).
 

@@ -7,6 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Czech: Relations: `obl:arg`
 
 This relation is a language-specific subtype of <tt><a href="cs-dep-obl.html">obl</a></tt>.
+There are also 1 other language-specific subtypes of `obl`: <tt><a href="cs-dep-obl-agent.html">obl:agent</a></tt>.
 
 18202 nodes (1%) are attached to their parents as `obl:arg`.
 

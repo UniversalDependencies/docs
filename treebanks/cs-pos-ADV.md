@@ -55,7 +55,7 @@ The 10 most frequent ambiguous types:  <em>tak</em> (<tt><a href="cs-pos-ADV.htm
 
 ## Morphology
 
-The form / lemma ratio of `ADV` is 1.124414 (the average of all parts of speech is 2.181773).
+The form / lemma ratio of `ADV` is 1.124414 (the average of all parts of speech is 2.181792).
 
 The 1st highest number of forms (7) was observed with the lemma “málo”: <em>málo, méně, míň, nejméně, nejmíň, nemálo, neméně</em>.
 

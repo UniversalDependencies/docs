@@ -103,7 +103,7 @@ References
 
 ## Relations
 
-[acl](cs-dep-acl.html) – [advcl](cs-dep-advcl.html) – [advmod](cs-dep-advmod.html) – [advmod:emph](cs-dep-advmod-emph.html) – [amod](cs-dep-amod.html) – [appos](cs-dep-appos.html) – [aux](cs-dep-aux.html) – [aux:pass](cs-dep-aux-pass.html) – [case](cs-dep-case.html) – [cc](cs-dep-cc.html) – [ccomp](cs-dep-ccomp.html) – [compound](cs-dep-compound.html) – [conj](cs-dep-conj.html) – [cop](cs-dep-cop.html) – [csubj](cs-dep-csubj.html) – [csubj:pass](cs-dep-csubj-pass.html) – [dep](cs-dep-dep.html) – [det](cs-dep-det.html) – [det:numgov](cs-dep-det-numgov.html) – [det:nummod](cs-dep-det-nummod.html) – [discourse](cs-dep-discourse.html) – [expl:pass](cs-dep-expl-pass.html) – [expl:pv](cs-dep-expl-pv.html) – [fixed](cs-dep-fixed.html) – [flat](cs-dep-flat.html) – [flat:foreign](cs-dep-flat-foreign.html) – [iobj](cs-dep-iobj.html) – [mark](cs-dep-mark.html) – [nmod](cs-dep-nmod.html) – [nsubj](cs-dep-nsubj.html) – [nsubj:pass](cs-dep-nsubj-pass.html) – [nummod](cs-dep-nummod.html) – [nummod:gov](cs-dep-nummod-gov.html) – [obj](cs-dep-obj.html) – [obl](cs-dep-obl.html) – [obl:arg](cs-dep-obl-arg.html) – [orphan](cs-dep-orphan.html) – [parataxis](cs-dep-parataxis.html) – [punct](cs-dep-punct.html) – [root](cs-dep-root.html) – [vocative](cs-dep-vocative.html) – [xcomp](cs-dep-xcomp.html)
+[acl](cs-dep-acl.html) – [advcl](cs-dep-advcl.html) – [advmod](cs-dep-advmod.html) – [advmod:emph](cs-dep-advmod-emph.html) – [amod](cs-dep-amod.html) – [appos](cs-dep-appos.html) – [aux](cs-dep-aux.html) – [aux:pass](cs-dep-aux-pass.html) – [case](cs-dep-case.html) – [cc](cs-dep-cc.html) – [ccomp](cs-dep-ccomp.html) – [compound](cs-dep-compound.html) – [conj](cs-dep-conj.html) – [cop](cs-dep-cop.html) – [csubj](cs-dep-csubj.html) – [csubj:pass](cs-dep-csubj-pass.html) – [dep](cs-dep-dep.html) – [det](cs-dep-det.html) – [det:numgov](cs-dep-det-numgov.html) – [det:nummod](cs-dep-det-nummod.html) – [discourse](cs-dep-discourse.html) – [expl:pass](cs-dep-expl-pass.html) – [expl:pv](cs-dep-expl-pv.html) – [fixed](cs-dep-fixed.html) – [flat](cs-dep-flat.html) – [flat:foreign](cs-dep-flat-foreign.html) – [iobj](cs-dep-iobj.html) – [mark](cs-dep-mark.html) – [nmod](cs-dep-nmod.html) – [nsubj](cs-dep-nsubj.html) – [nsubj:pass](cs-dep-nsubj-pass.html) – [nummod](cs-dep-nummod.html) – [nummod:gov](cs-dep-nummod-gov.html) – [obj](cs-dep-obj.html) – [obl](cs-dep-obl.html) – [obl:agent](cs-dep-obl-agent.html) – [obl:arg](cs-dep-obl-arg.html) – [orphan](cs-dep-orphan.html) – [parataxis](cs-dep-parataxis.html) – [punct](cs-dep-punct.html) – [root](cs-dep-root.html) – [vocative](cs-dep-vocative.html) – [xcomp](cs-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
@@ -630,7 +630,7 @@ References
       <ul>
         <li>ADV: nikdy, nijak, nikde, nikam, odnikud</li>
         <li>DET: žádné, žádný, žádná, žádnou, žádném, žádným, žádného, žádnému, žádných, žádnými</li>
-        <li>PRON: nic, nikdo, nikoho, nikomu, ničím, ničem, ničemu, nikým, ničeho, Pranic</li>
+        <li>PRON: nic, nikdo, nikoho, nikomu, ničím, ničem, ničemu, nikým, ničeho, pranic</li>
       </ul>
     </li>
     <li>Prs
@@ -840,12 +840,12 @@ References
         <li>ADP: de, of, di, van, in, von, versus, ad, Pro, to</li>
         <li>ADV: cca, priori, Today, live, Here, Only, Sic, Very, dove, echt</li>
         <li>CCONJ: and, et, und, As, or, ma, So, e, n</li>
-        <li>DET: My, Some, That, This, Your, sua, C, Notre, These, ce</li>
+        <li>DET: My, That, This, Your, sua, C, Notre, Some, These, ce</li>
         <li>INTJ: O, propos, Bang, Boom, Crash</li>
         <li>NOUN: play, managementu, management, CD, s, facto, st, o, homo, neem</li>
         <li>NUM: Four, Twenty, Seven, Six, one, Five, Three, Tre, Tri, seděm</li>
         <li>PART: off, džambo, not, t, oui, Bienvenue, So, ne, sorry, viva</li>
-        <li>PRON: it, All, you, I, Me, We, Us, She, WAS, ja</li>
+        <li>PRON: it, All, you, I, Me, We, Us, She, Some, WAS</li>
         <li>PROPN: HZDS, IRA, Floyd, Nature, International, Science, Sinn, Fein, Times, Cup</li>
         <li>SCONJ: as, If, When, ak, ako, gdyž, kak</li>
         <li>VERB-Fin: is, est, transit, Habent, Want, Wish, Won, are, ist, need</li>
@@ -1244,19 +1244,19 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--NOUN-Acc (14680)</li>
       <li>VERB-Fin--NOUN-Dat (930)</li>
       <li>VERB-Fin--NOUN-Gen (1334)</li>
-      <li>VERB-Fin--NOUN-Ins (562)</li>
+      <li>VERB-Fin--NOUN-Ins (535)</li>
       <li>VERB-Fin--NOUN-Nom (43)</li>
       <li>VERB-Fin--NOUN-Voc (1)</li>
       <li>VERB-Fin--PRON-Acc (2004)</li>
       <li>VERB-Fin--PRON-Dat (730)</li>
       <li>VERB-Fin--PRON-Gen (95)</li>
-      <li>VERB-Fin--PRON-Ins (27)</li>
+      <li>VERB-Fin--PRON-Ins (25)</li>
       <li>VERB-Fin--PRON-Nom (1)</li>
       <li>VERB-Inf--NOUN (33)</li>
       <li>VERB-Inf--NOUN-Acc (9872)</li>
       <li>VERB-Inf--NOUN-Dat (499)</li>
       <li>VERB-Inf--NOUN-Gen (689)</li>
-      <li>VERB-Inf--NOUN-Ins (257)</li>
+      <li>VERB-Inf--NOUN-Ins (255)</li>
       <li>VERB-Inf--NOUN-Nom (19)</li>
       <li>VERB-Inf--PRON (1)</li>
       <li>VERB-Inf--PRON-Acc (1438)</li>
@@ -1268,13 +1268,13 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Part--NOUN-Acc (13250)</li>
       <li>VERB-Part--NOUN-Dat (718)</li>
       <li>VERB-Part--NOUN-Gen (1404)</li>
-      <li>VERB-Part--NOUN-Ins (604)</li>
+      <li>VERB-Part--NOUN-Ins (602)</li>
       <li>VERB-Part--NOUN-Nom (23)</li>
       <li>VERB-Part--PRON (3)</li>
-      <li>VERB-Part--PRON-Acc (1869)</li>
+      <li>VERB-Part--PRON-Acc (1870)</li>
       <li>VERB-Part--PRON-Dat (517)</li>
       <li>VERB-Part--PRON-Gen (70)</li>
-      <li>VERB-Part--PRON-Ins (16)</li>
+      <li>VERB-Part--PRON-Ins (15)</li>
     </ul>
   </li>
 </ul>
@@ -1321,7 +1321,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus uses 11 relation subtypes: <a>advmod:emph</a>, <a>aux:pass</a>, <a>csubj:pass</a>, <a>det:numgov</a>, <a>det:nummod</a>, <a>expl:pass</a>, <a>expl:pv</a>, <a>flat:foreign</a>, <a>nsubj:pass</a>, <a>nummod:gov</a>, <a>obl:arg</a></li>
+<li>This corpus uses 12 relation subtypes: <a>advmod:emph</a>, <a>aux:pass</a>, <a>csubj:pass</a>, <a>det:numgov</a>, <a>det:nummod</a>, <a>expl:pass</a>, <a>expl:pv</a>, <a>flat:foreign</a>, <a>nsubj:pass</a>, <a>nummod:gov</a>, <a>obl:agent</a>, <a>obl:arg</a></li>
 <li>The following 1 main types are not used alone, they are always subtyped: <a>expl</a></li>
 <li>The following 5 relation types are not used in this corpus at all: <a>dislocated</a>, <a>clf</a>, <a>list</a>, <a>goeswith</a>, <a>reparandum</a></li>
 </ul>

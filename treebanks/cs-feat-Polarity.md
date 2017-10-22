@@ -229,12 +229,12 @@ The most frequent other feature values with which `ADV` and `Polarity` co-occurr
 
 1152 <tt><a href="cs-pos-DET.html">DET</a></tt> tokens (2% of all `DET` tokens) have a non-empty value of `Polarity`.
 
-The most frequent other feature values with which `DET` and `Polarity` co-occurred: <tt><a href="cs-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (1152; 100%), <tt><a href="cs-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (1152; 100%), <tt><a href="cs-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (1152; 100%), <tt><a href="cs-feat-PronType.html">PronType</a></tt><tt>=Tot</tt> (1152; 100%), <tt><a href="cs-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1137; 99%), <tt><a href="cs-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (764; 66%).
+The most frequent other feature values with which `DET` and `Polarity` co-occurred: <tt><a href="cs-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (1152; 100%), <tt><a href="cs-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (1152; 100%), <tt><a href="cs-feat-PronType.html">PronType</a></tt><tt>=Tot</tt> (1152; 100%), <tt><a href="cs-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (1152; 100%), <tt><a href="cs-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1137; 99%), <tt><a href="cs-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (764; 66%).
 
 `DET` tokens may have the following values of `Polarity`:
 
 * `Pos` (1152; 100% of non-empty `Polarity`): <em>každý, každé, každého, každém, každá, každou, každému, každým, každých</em>
-* `EMPTY` (55316): <em>to, které, který, jeho, která, jejich, své, tím, kteří, tom</em>
+* `EMPTY` (55313): <em>to, které, který, jeho, která, jejich, své, tím, kteří, tom</em>
 
 ## Relations with Agreement in `Polarity`
 
@@ -242,7 +242,7 @@ The 10 most frequent relations where parent and child node agree in `Polarity`:
 <tt>NOUN --[<tt><a href="cs-dep-amod.html">amod</a></tt>]--> ADJ</tt> (141149; 94%),
 <tt>NOUN --[<tt><a href="cs-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (110048; 100%),
 <tt>VERB --[<tt><a href="cs-dep-obl.html">obl</a></tt>]--> NOUN</tt> (49530; 94%),
-<tt>VERB --[<tt><a href="cs-dep-obj.html">obj</a></tt>]--> NOUN</tt> (41761; 93%),
+<tt>VERB --[<tt><a href="cs-dep-obj.html">obj</a></tt>]--> NOUN</tt> (41734; 93%),
 <tt>VERB --[<tt><a href="cs-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (39747; 91%),
 <tt>NOUN --[<tt><a href="cs-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (22592; 100%),
 <tt>NOUN --[<tt><a href="cs-dep-conj.html">conj</a></tt>]--> NOUN</tt> (21734; 99%),

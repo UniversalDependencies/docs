@@ -15,7 +15,7 @@ The 10 most frequent `AUX` types:  <em>je, by, jsou, bude, byl, být, jsem, jsme
 
 The 10 most frequent ambiguous lemmas: <em>být</em> (<tt><a href="cs-pos-AUX.html">AUX</a></tt> 41217, <tt><a href="cs-pos-VERB.html">VERB</a></tt> 5167), <em>bývat</em> (<tt><a href="cs-pos-AUX.html">AUX</a></tt> 168, <tt><a href="cs-pos-VERB.html">VERB</a></tt> 44), <em>bývávat</em> (<tt><a href="cs-pos-AUX.html">AUX</a></tt> 3, <tt><a href="cs-pos-VERB.html">VERB</a></tt> 1), <em>stát</em> (<tt><a href="cs-pos-VERB.html">VERB</a></tt> 1539, <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> 1446, <tt><a href="cs-pos-AUX.html">AUX</a></tt> 3), <em>moci</em> (<tt><a href="cs-pos-VERB.html">VERB</a></tt> 4292, <tt><a href="cs-pos-AUX.html">AUX</a></tt> 1), <em>mít</em> (<tt><a href="cs-pos-VERB.html">VERB</a></tt> 8496, <tt><a href="cs-pos-AUX.html">AUX</a></tt> 1)
 
-The 10 most frequent ambiguous types:  <em>je</em> (<tt><a href="cs-pos-AUX.html">AUX</a></tt> 10151, <tt><a href="cs-pos-VERB.html">VERB</a></tt> 1986, <tt><a href="cs-pos-PRON.html">PRON</a></tt> 887), <em>by</em> (<tt><a href="cs-pos-AUX.html">AUX</a></tt> 7859, <tt><a href="cs-pos-VERB.html">VERB</a></tt> 5, <tt><a href="cs-pos-PART.html">PART</a></tt> 1, <tt><a href="cs-pos-ADP.html">ADP</a></tt> 1), <em>jsou</em> (<tt><a href="cs-pos-AUX.html">AUX</a></tt> 2639, <tt><a href="cs-pos-VERB.html">VERB</a></tt> 616), <em>bude</em> (<tt><a href="cs-pos-AUX.html">AUX</a></tt> 2454, <tt><a href="cs-pos-VERB.html">VERB</a></tt> 253), <em>byl</em> (<tt><a href="cs-pos-AUX.html">AUX</a></tt> 1945, <tt><a href="cs-pos-VERB.html">VERB</a></tt> 214), <em>být</em> (<tt><a href="cs-pos-AUX.html">AUX</a></tt> 1853, <tt><a href="cs-pos-VERB.html">VERB</a></tt> 209), <em>jsem</em> (<tt><a href="cs-pos-AUX.html">AUX</a></tt> 1533, <tt><a href="cs-pos-VERB.html">VERB</a></tt> 19), <em>jsme</em> (<tt><a href="cs-pos-AUX.html">AUX</a></tt> 1518, <tt><a href="cs-pos-VERB.html">VERB</a></tt> 62), <em>bylo</em> (<tt><a href="cs-pos-AUX.html">AUX</a></tt> 1366, <tt><a href="cs-pos-VERB.html">VERB</a></tt> 290), <em>byla</em> (<tt><a href="cs-pos-AUX.html">AUX</a></tt> 1368, <tt><a href="cs-pos-VERB.html">VERB</a></tt> 130)
+The 10 most frequent ambiguous types:  <em>je</em> (<tt><a href="cs-pos-AUX.html">AUX</a></tt> 10151, <tt><a href="cs-pos-VERB.html">VERB</a></tt> 1986, <tt><a href="cs-pos-PRON.html">PRON</a></tt> 887), <em>by</em> (<tt><a href="cs-pos-AUX.html">AUX</a></tt> 7859, <tt><a href="cs-pos-VERB.html">VERB</a></tt> 5, <tt><a href="cs-pos-ADP.html">ADP</a></tt> 1, <tt><a href="cs-pos-PART.html">PART</a></tt> 1), <em>jsou</em> (<tt><a href="cs-pos-AUX.html">AUX</a></tt> 2639, <tt><a href="cs-pos-VERB.html">VERB</a></tt> 616), <em>bude</em> (<tt><a href="cs-pos-AUX.html">AUX</a></tt> 2454, <tt><a href="cs-pos-VERB.html">VERB</a></tt> 253), <em>byl</em> (<tt><a href="cs-pos-AUX.html">AUX</a></tt> 1945, <tt><a href="cs-pos-VERB.html">VERB</a></tt> 214), <em>být</em> (<tt><a href="cs-pos-AUX.html">AUX</a></tt> 1853, <tt><a href="cs-pos-VERB.html">VERB</a></tt> 209), <em>jsem</em> (<tt><a href="cs-pos-AUX.html">AUX</a></tt> 1533, <tt><a href="cs-pos-VERB.html">VERB</a></tt> 19), <em>jsme</em> (<tt><a href="cs-pos-AUX.html">AUX</a></tt> 1518, <tt><a href="cs-pos-VERB.html">VERB</a></tt> 62), <em>bylo</em> (<tt><a href="cs-pos-AUX.html">AUX</a></tt> 1366, <tt><a href="cs-pos-VERB.html">VERB</a></tt> 290), <em>byla</em> (<tt><a href="cs-pos-AUX.html">AUX</a></tt> 1368, <tt><a href="cs-pos-VERB.html">VERB</a></tt> 130)
 
 
 * <em>je</em>
@@ -25,8 +25,8 @@ The 10 most frequent ambiguous types:  <em>je</em> (<tt><a href="cs-pos-AUX.html
 * <em>by</em>
   * <tt><a href="cs-pos-AUX.html">AUX</a></tt> 7859: <em>Jen cedule <b>by</b> byla jiná : FOR RENT ! - K PRONÁJMU !</em>
   * <tt><a href="cs-pos-VERB.html">VERB</a></tt> 5: <em>Bodejť <b>by</b> ne !</em>
-  * <tt><a href="cs-pos-PART.html">PART</a></tt> 1: <em>Podmínkou jeho uvolnění je uzavření dohody o dispozičním ( stand - <b>by</b> ) úvěru s Mezinárodním měnovým fondem .</em>
   * <tt><a href="cs-pos-ADP.html">ADP</a></tt> 1: <em>Bylo to strašně těžké , dosáhnout souhlasu , aby by Spojené státy mohly jednat <b>by</b> all means , s využitím všech možných prostředků .</em>
+  * <tt><a href="cs-pos-PART.html">PART</a></tt> 1: <em>Podmínkou jeho uvolnění je uzavření dohody o dispozičním ( stand - <b>by</b> ) úvěru s Mezinárodním měnovým fondem .</em>
 * <em>jsou</em>
   * <tt><a href="cs-pos-AUX.html">AUX</a></tt> 2639: <em>Změny <b>jsou</b> citelné , je třeba je lépe prezentovat</em>
   * <tt><a href="cs-pos-VERB.html">VERB</a></tt> 616: <em>Další závady , ke kterým dochází , <b>jsou</b> :</em>
@@ -54,7 +54,7 @@ The 10 most frequent ambiguous types:  <em>je</em> (<tt><a href="cs-pos-AUX.html
 
 ## Morphology
 
-The form / lemma ratio of `AUX` is 11.666667 (the average of all parts of speech is 2.181773).
+The form / lemma ratio of `AUX` is 11.666667 (the average of all parts of speech is 2.181792).
 
 The 1st highest number of forms (53) was observed with the lemma “být”: <em>Buďme, Nebudeš, Nebuďte, bude, budem, budeme, budete, budeš, budiž, budou, budu, buď, buďte, by, bych, bychom, byl, byla, byli, bylo, byly, bys, byste, být, býti, je, jest, jsa, jsem, jsi, jsme, jsou, jsouc, jsouce, jste, nebude, nebudeme, nebudete, nebudou, nebudu, nebyl, nebyla, nebyli, nebylo, nebyly, nebýt, nejsem, nejsme, nejsou, nejste, není, nésó, si</em>.
 
