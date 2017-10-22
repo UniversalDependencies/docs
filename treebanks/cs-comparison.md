@@ -2591,7 +2591,7 @@ udver: '2'
       <ul>
         <li>ADV: nikdy, nijak, nikde, nikam, odnikud</li>
         <li>DET: žádné, žádný, žádná, žádnou, žádném, žádným, žádného, žádnému, žádných, žádnými</li>
-        <li>PRON: nic, nikdo, nikoho, nikomu, ničím, ničem, ničemu, nikým, ničeho, nikom</li>
+        <li>PRON: nic, nikdo, nikoho, nikomu, ničím, ničem, ničemu, nikým, ničeho, pranic</li>
       </ul>
     </li>
     <li>Prs
@@ -2650,8 +2650,8 @@ udver: '2'
     <li>Neg
       <ul>
         <li>ADV: nikdy, nijak, nikde, nikam</li>
-        <li>DET: žádné, žádný, žádná, žádnou, žádném, žádných, žádným, žádného, žádnému, pražádnou</li>
-        <li>PRON: nic, nikdo, nikoho, ničím, nikomu, ničeho, ničemu, nikým, ničem</li>
+        <li>DET: žádné, žádný, žádná, žádnou, žádném, žádných, žádným, žádného, žádnému, žádnými</li>
+        <li>PRON: nic, nikdo, nikoho, ničím, nikomu, ničeho, ničemu, nikým, ničem, pražádnou</li>
       </ul>
     </li>
     <li>Prs
@@ -3591,12 +3591,12 @@ udver: '2'
         <li>ADP: de, of, di, van, in, von, versus, ad, Pro, to</li>
         <li>ADV: cca, priori, Today, live, Here, Only, Sic, Very, dove, echt</li>
         <li>CCONJ: and, et, und, As, or, ma, So, e, n</li>
-        <li>DET: My, That, This, Your, sua, C, Notre, These, ce, cui</li>
+        <li>DET: My, That, This, Your, sua, C, Notre, Some, These, ce</li>
         <li>INTJ: O, propos, Bang, Boom, Crash</li>
         <li>NOUN: play, managementu, management, CD, s, facto, st, o, homo, neem</li>
         <li>NUM: Four, Twenty, Seven, Six, one, Five, Three, Tre, Tri, seděm</li>
         <li>PART: off, džambo, not, t, oui, Bienvenue, So, ne, sorry, viva</li>
-        <li>PRON: it, All, you, I, Me, We, Some, Us, She, WAS</li>
+        <li>PRON: it, All, you, I, Me, We, Us, She, Some, WAS</li>
         <li>PROPN: HZDS, IRA, Floyd, Nature, International, Science, Sinn, Fein, Times, Cup</li>
         <li>SCONJ: as, If, When, ak, ako, gdyž, kak</li>
         <li>VERB-Fin: is, est, transit, Habent, Want, Wish, Won, are, ist, need</li>
@@ -4823,103 +4823,46 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
   <li><a>obj</a>
     <ul>
       <li>VERB-Conv--NOUN (1)</li>
-      <li>VERB-Conv--NOUN-ADP(o) (1)</li>
       <li>VERB-Conv--NOUN-Acc (17)</li>
-      <li>VERB-Conv--NOUN-Acc-ADP(na) (1)</li>
       <li>VERB-Conv--NOUN-Gen (2)</li>
       <li>VERB-Conv--NOUN-Ins (8)</li>
       <li>VERB-Conv--PRON-Acc (2)</li>
       <li>VERB-Conv--PRON-Dat (1)</li>
       <li>VERB-Fin--NOUN (93)</li>
-      <li>VERB-Fin--NOUN-ADP(o) (2)</li>
-      <li>VERB-Fin--NOUN-ADP(s) (1)</li>
       <li>VERB-Fin--NOUN-Acc (14680)</li>
-      <li>VERB-Fin--NOUN-Acc-ADP(na) (41)</li>
-      <li>VERB-Fin--NOUN-Acc-ADP(o) (92)</li>
-      <li>VERB-Fin--NOUN-Acc-ADP(v) (2)</li>
-      <li>VERB-Fin--NOUN-Acc-ADP(za) (13)</li>
       <li>VERB-Fin--NOUN-Dat (930)</li>
-      <li>VERB-Fin--NOUN-Dat-ADP(k) (17)</li>
-      <li>VERB-Fin--NOUN-Dat-ADP(proti) (2)</li>
       <li>VERB-Fin--NOUN-Gen (1334)</li>
-      <li>VERB-Fin--NOUN-Gen-ADP(bez) (1)</li>
-      <li>VERB-Fin--NOUN-Gen-ADP(co) (1)</li>
-      <li>VERB-Fin--NOUN-Gen-ADP(na) (3)</li>
-      <li>VERB-Fin--NOUN-Gen-ADP(o) (6)</li>
-      <li>VERB-Fin--NOUN-Gen-ADP(od) (4)</li>
-      <li>VERB-Fin--NOUN-Gen-ADP(u) (1)</li>
-      <li>VERB-Fin--NOUN-Gen-ADP(z) (20)</li>
-      <li>VERB-Fin--NOUN-Gen-ADP(za) (2)</li>
-      <li>VERB-Fin--NOUN-Ins (562)</li>
-      <li>VERB-Fin--NOUN-Ins-ADP(mezi) (2)</li>
-      <li>VERB-Fin--NOUN-Ins-ADP(nad) (3)</li>
-      <li>VERB-Fin--NOUN-Ins-ADP(s) (35)</li>
-      <li>VERB-Fin--NOUN-Loc-ADP(na) (15)</li>
-      <li>VERB-Fin--NOUN-Loc-ADP(o) (27)</li>
-      <li>VERB-Fin--NOUN-Loc-ADP(v) (2)</li>
+      <li>VERB-Fin--NOUN-Ins (535)</li>
       <li>VERB-Fin--NOUN-Nom (43)</li>
       <li>VERB-Fin--NOUN-Voc (1)</li>
-      <li>VERB-Fin--PRON-Acc (2003)</li>
+      <li>VERB-Fin--PRON-Acc (2004)</li>
       <li>VERB-Fin--PRON-Dat (730)</li>
       <li>VERB-Fin--PRON-Gen (95)</li>
-      <li>VERB-Fin--PRON-Ins (27)</li>
-      <li>VERB-Fin--PRON-Loc-ADP(na) (1)</li>
+      <li>VERB-Fin--PRON-Ins (25)</li>
       <li>VERB-Fin--PRON-Nom (1)</li>
       <li>VERB-Inf--NOUN (33)</li>
       <li>VERB-Inf--NOUN-Acc (9872)</li>
-      <li>VERB-Inf--NOUN-Acc-ADP(na) (11)</li>
-      <li>VERB-Inf--NOUN-Acc-ADP(o) (15)</li>
-      <li>VERB-Inf--NOUN-Acc-ADP(v) (2)</li>
-      <li>VERB-Inf--NOUN-Acc-ADP(za) (2)</li>
       <li>VERB-Inf--NOUN-Dat (499)</li>
-      <li>VERB-Inf--NOUN-Dat-ADP(k) (5)</li>
       <li>VERB-Inf--NOUN-Gen (689)</li>
-      <li>VERB-Inf--NOUN-Gen-ADP(bez) (1)</li>
-      <li>VERB-Inf--NOUN-Gen-ADP(do) (2)</li>
-      <li>VERB-Inf--NOUN-Gen-ADP(na) (2)</li>
-      <li>VERB-Inf--NOUN-Gen-ADP(o) (1)</li>
-      <li>VERB-Inf--NOUN-Gen-ADP(z) (8)</li>
-      <li>VERB-Inf--NOUN-Ins (257)</li>
-      <li>VERB-Inf--NOUN-Ins-ADP(mezi) (2)</li>
-      <li>VERB-Inf--NOUN-Ins-ADP(nad) (3)</li>
-      <li>VERB-Inf--NOUN-Ins-ADP(s) (13)</li>
-      <li>VERB-Inf--NOUN-Loc-ADP(na) (2)</li>
-      <li>VERB-Inf--NOUN-Loc-ADP(o) (19)</li>
-      <li>VERB-Inf--NOUN-Loc-ADP(po) (2)</li>
+      <li>VERB-Inf--NOUN-Ins (255)</li>
       <li>VERB-Inf--NOUN-Nom (19)</li>
       <li>VERB-Inf--PRON (1)</li>
       <li>VERB-Inf--PRON-Acc (1438)</li>
-      <li>VERB-Inf--PRON-Acc-ADP(o) (1)</li>
       <li>VERB-Inf--PRON-Dat (203)</li>
       <li>VERB-Inf--PRON-Gen (50)</li>
       <li>VERB-Inf--PRON-Ins (20)</li>
       <li>VERB-Inf--PRON-Nom (6)</li>
       <li>VERB-Part--NOUN (65)</li>
       <li>VERB-Part--NOUN-Acc (13250)</li>
-      <li>VERB-Part--NOUN-Acc-ADP(na) (26)</li>
-      <li>VERB-Part--NOUN-Acc-ADP(o) (17)</li>
-      <li>VERB-Part--NOUN-Acc-ADP(v) (3)</li>
-      <li>VERB-Part--NOUN-Acc-ADP(za) (5)</li>
       <li>VERB-Part--NOUN-Dat (718)</li>
-      <li>VERB-Part--NOUN-Dat-ADP(k) (13)</li>
       <li>VERB-Part--NOUN-Gen (1404)</li>
-      <li>VERB-Part--NOUN-Gen-ADP(bez) (1)</li>
-      <li>VERB-Part--NOUN-Gen-ADP(do) (1)</li>
-      <li>VERB-Part--NOUN-Gen-ADP(na) (1)</li>
-      <li>VERB-Part--NOUN-Gen-ADP(z) (4)</li>
-      <li>VERB-Part--NOUN-Ins (604)</li>
-      <li>VERB-Part--NOUN-Ins-ADP(nad) (2)</li>
-      <li>VERB-Part--NOUN-Ins-ADP(s) (9)</li>
-      <li>VERB-Part--NOUN-Loc-ADP(na) (3)</li>
-      <li>VERB-Part--NOUN-Loc-ADP(o) (18)</li>
-      <li>VERB-Part--NOUN-Loc-ADP(po) (2)</li>
+      <li>VERB-Part--NOUN-Ins (602)</li>
       <li>VERB-Part--NOUN-Nom (23)</li>
       <li>VERB-Part--PRON (3)</li>
       <li>VERB-Part--PRON-Acc (1870)</li>
-      <li>VERB-Part--PRON-Acc-ADP(na) (1)</li>
       <li>VERB-Part--PRON-Dat (517)</li>
       <li>VERB-Part--PRON-Gen (70)</li>
-      <li>VERB-Part--PRON-Ins (16)</li>
+      <li>VERB-Part--PRON-Ins (15)</li>
     </ul>
   </li>
 </ul>
@@ -4935,58 +4878,25 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Conv--PRON-Acc (1)</li>
       <li>VERB-Fin--NOUN (3)</li>
       <li>VERB-Fin--NOUN-Acc (5611)</li>
-      <li>VERB-Fin--NOUN-Acc-ADP(na) (24)</li>
-      <li>VERB-Fin--NOUN-Acc-ADP(o) (48)</li>
-      <li>VERB-Fin--NOUN-Acc-ADP(pro) (2)</li>
-      <li>VERB-Fin--NOUN-Acc-ADP(za) (6)</li>
       <li>VERB-Fin--NOUN-Dat (341)</li>
-      <li>VERB-Fin--NOUN-Dat-ADP(až) (2)</li>
-      <li>VERB-Fin--NOUN-Dat-ADP(k) (21)</li>
-      <li>VERB-Fin--NOUN-Dat-ADP(proti) (1)</li>
       <li>VERB-Fin--NOUN-Gen (445)</li>
-      <li>VERB-Fin--NOUN-Gen-ADP(od) (2)</li>
-      <li>VERB-Fin--NOUN-Gen-ADP(u) (1)</li>
-      <li>VERB-Fin--NOUN-Gen-ADP(z) (9)</li>
-      <li>VERB-Fin--NOUN-Ins (280)</li>
-      <li>VERB-Fin--NOUN-Ins-ADP(*) (1)</li>
-      <li>VERB-Fin--NOUN-Ins-ADP(mezi) (1)</li>
-      <li>VERB-Fin--NOUN-Ins-ADP(nad) (1)</li>
-      <li>VERB-Fin--NOUN-Ins-ADP(s) (13)</li>
-      <li>VERB-Fin--NOUN-Loc-ADP(na) (10)</li>
-      <li>VERB-Fin--NOUN-Loc-ADP(o) (14)</li>
-      <li>VERB-Fin--NOUN-Loc-ADP(po) (1)</li>
-      <li>VERB-Fin--NOUN-Loc-ADP(při) (1)</li>
-      <li>VERB-Fin--NOUN-Loc-ADP(v) (1)</li>
+      <li>VERB-Fin--NOUN-Ins (234)</li>
       <li>VERB-Fin--NOUN-Nom (99)</li>
       <li>VERB-Fin--PRON (18)</li>
       <li>VERB-Fin--PRON-Acc (612)</li>
-      <li>VERB-Fin--PRON-Acc-ADP(na) (2)</li>
+      <li>VERB-Fin--PRON-Acc-ADP(na) (1)</li>
       <li>VERB-Fin--PRON-Acc-ADP(o) (2)</li>
       <li>VERB-Fin--PRON-Acc-ADP(za) (1)</li>
       <li>VERB-Fin--PRON-Dat (205)</li>
       <li>VERB-Fin--PRON-Gen (20)</li>
-      <li>VERB-Fin--PRON-Ins (16)</li>
+      <li>VERB-Fin--PRON-Ins (11)</li>
       <li>VERB-Fin--PRON-Nom (7)</li>
       <li>VERB-Inf--NOUN (5)</li>
       <li>VERB-Inf--NOUN-Acc (3542)</li>
-      <li>VERB-Inf--NOUN-Acc-ADP(na) (7)</li>
-      <li>VERB-Inf--NOUN-Acc-ADP(o) (3)</li>
-      <li>VERB-Inf--NOUN-Acc-ADP(pro) (2)</li>
-      <li>VERB-Inf--NOUN-Acc-ADP(za) (2)</li>
       <li>VERB-Inf--NOUN-Dat (133)</li>
-      <li>VERB-Inf--NOUN-Dat-ADP(k) (8)</li>
-      <li>VERB-Inf--NOUN-Dat-ADP(proti) (1)</li>
       <li>VERB-Inf--NOUN-Gen (219)</li>
-      <li>VERB-Inf--NOUN-Gen-ADP(*) (1)</li>
-      <li>VERB-Inf--NOUN-Gen-ADP(od) (1)</li>
-      <li>VERB-Inf--NOUN-Gen-ADP(z) (5)</li>
       <li>VERB-Inf--NOUN-Ins (61)</li>
-      <li>VERB-Inf--NOUN-Ins-ADP(mezi) (2)</li>
-      <li>VERB-Inf--NOUN-Ins-ADP(před) (1)</li>
-      <li>VERB-Inf--NOUN-Ins-ADP(s) (8)</li>
       <li>VERB-Inf--NOUN-Loc (2)</li>
-      <li>VERB-Inf--NOUN-Loc-ADP(na) (1)</li>
-      <li>VERB-Inf--NOUN-Loc-ADP(o) (2)</li>
       <li>VERB-Inf--NOUN-Nom (27)</li>
       <li>VERB-Inf--PRON (6)</li>
       <li>VERB-Inf--PRON-Acc (382)</li>
@@ -4996,24 +4906,9 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Inf--PRON-Nom (1)</li>
       <li>VERB-Part--NOUN (20)</li>
       <li>VERB-Part--NOUN-Acc (2780)</li>
-      <li>VERB-Part--NOUN-Acc-ADP(na) (8)</li>
-      <li>VERB-Part--NOUN-Acc-ADP(nehledě) (1)</li>
-      <li>VERB-Part--NOUN-Acc-ADP(o) (2)</li>
-      <li>VERB-Part--NOUN-Acc-ADP(v) (1)</li>
       <li>VERB-Part--NOUN-Dat (167)</li>
-      <li>VERB-Part--NOUN-Dat-ADP(až) (1)</li>
-      <li>VERB-Part--NOUN-Dat-ADP(k) (10)</li>
       <li>VERB-Part--NOUN-Gen (344)</li>
-      <li>VERB-Part--NOUN-Gen-ADP(bez) (1)</li>
-      <li>VERB-Part--NOUN-Gen-ADP(k) (1)</li>
-      <li>VERB-Part--NOUN-Gen-ADP(od) (1)</li>
-      <li>VERB-Part--NOUN-Gen-ADP(z) (1)</li>
-      <li>VERB-Part--NOUN-Ins (192)</li>
-      <li>VERB-Part--NOUN-Ins-ADP(s) (9)</li>
-      <li>VERB-Part--NOUN-Loc-ADP(na) (4)</li>
-      <li>VERB-Part--NOUN-Loc-ADP(o) (6)</li>
-      <li>VERB-Part--NOUN-Loc-ADP(při) (1)</li>
-      <li>VERB-Part--NOUN-Loc-ADP(v) (1)</li>
+      <li>VERB-Part--NOUN-Ins (191)</li>
       <li>VERB-Part--NOUN-Nom (16)</li>
       <li>VERB-Part--PRON (14)</li>
       <li>VERB-Part--PRON-Acc (372)</li>
@@ -5032,26 +4927,18 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
   <li><a>obj</a>
     <ul>
       <li>VERB-Fin--NOUN-Acc (421)</li>
-      <li>VERB-Fin--NOUN-Acc-ADP(na) (3)</li>
-      <li>VERB-Fin--NOUN-Acc-ADP(o) (1)</li>
-      <li>VERB-Fin--NOUN-Acc-ADP(pro) (1)</li>
       <li>VERB-Fin--NOUN-Dat (24)</li>
-      <li>VERB-Fin--NOUN-Dat-ADP(k) (3)</li>
       <li>VERB-Fin--NOUN-Gen (44)</li>
-      <li>VERB-Fin--NOUN-Ins (54)</li>
+      <li>VERB-Fin--NOUN-Ins (7)</li>
       <li>VERB-Fin--NOUN-Loc (5)</li>
-      <li>VERB-Fin--NOUN-Loc-ADP(o) (4)</li>
       <li>VERB-Fin--NOUN-Nom (88)</li>
-      <li>VERB-Fin--NOUN-Nom-ADP(na) (1)</li>
       <li>VERB-Fin--PRON-Acc (12)</li>
       <li>VERB-Fin--PRON-Dat (1)</li>
       <li>VERB-Fin--PRON-Ins (1)</li>
       <li>VERB-Inf--NOUN-Acc (197)</li>
       <li>VERB-Inf--NOUN-Dat (5)</li>
-      <li>VERB-Inf--NOUN-Dat-ADP(k) (1)</li>
       <li>VERB-Inf--NOUN-Gen (8)</li>
       <li>VERB-Inf--NOUN-Ins (2)</li>
-      <li>VERB-Inf--NOUN-Loc-ADP(o) (2)</li>
       <li>VERB-Inf--NOUN-Nom (23)</li>
       <li>VERB-Inf--PRON-Acc (11)</li>
       <li>VERB-Part--NOUN-Acc (25)</li>
@@ -5209,41 +5096,20 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Conv--PRON-Dat (1)</li>
       <li>VERB-Fin--NOUN (3)</li>
       <li>VERB-Fin--NOUN-Acc (145)</li>
-      <li>VERB-Fin--NOUN-Acc-ADP(na) (1)</li>
-      <li>VERB-Fin--NOUN-Acc-ADP(o) (1)</li>
-      <li>VERB-Fin--NOUN-Acc-ADP(v) (1)</li>
-      <li>VERB-Fin--NOUN-Acc-ADP(za) (4)</li>
       <li>VERB-Fin--NOUN-Dat (552)</li>
-      <li>VERB-Fin--NOUN-Dat-ADP(k) (1)</li>
       <li>VERB-Fin--NOUN-Gen (22)</li>
-      <li>VERB-Fin--NOUN-Gen-ADP(na) (1)</li>
-      <li>VERB-Fin--NOUN-Gen-ADP(od) (5)</li>
       <li>VERB-Fin--NOUN-Ins (62)</li>
-      <li>VERB-Fin--NOUN-Ins-ADP(před) (3)</li>
-      <li>VERB-Fin--NOUN-Ins-ADP(s) (10)</li>
-      <li>VERB-Fin--NOUN-Loc-ADP(o) (4)</li>
       <li>VERB-Fin--NOUN-Nom (4)</li>
       <li>VERB-Fin--PRON-Acc (79)</li>
-      <li>VERB-Fin--PRON-Acc-ADP(o) (1)</li>
       <li>VERB-Fin--PRON-Dat (592)</li>
       <li>VERB-Fin--PRON-Gen (3)</li>
       <li>VERB-Fin--PRON-Ins (5)</li>
       <li>VERB-Fin--PRON-Nom (1)</li>
       <li>VERB-Inf--NOUN (2)</li>
       <li>VERB-Inf--NOUN-Acc (59)</li>
-      <li>VERB-Inf--NOUN-Acc-ADP(mezi) (1)</li>
-      <li>VERB-Inf--NOUN-Acc-ADP(na) (3)</li>
-      <li>VERB-Inf--NOUN-Acc-ADP(o) (2)</li>
-      <li>VERB-Inf--NOUN-Acc-ADP(za) (1)</li>
       <li>VERB-Inf--NOUN-Dat (433)</li>
       <li>VERB-Inf--NOUN-Gen (18)</li>
-      <li>VERB-Inf--NOUN-Gen-ADP(od) (1)</li>
-      <li>VERB-Inf--NOUN-Gen-ADP(z) (2)</li>
       <li>VERB-Inf--NOUN-Ins (69)</li>
-      <li>VERB-Inf--NOUN-Ins-ADP(před) (2)</li>
-      <li>VERB-Inf--NOUN-Ins-ADP(s) (4)</li>
-      <li>VERB-Inf--NOUN-Loc-ADP(o) (4)</li>
-      <li>VERB-Inf--NOUN-Loc-ADP(v) (1)</li>
       <li>VERB-Inf--NOUN-Nom (2)</li>
       <li>VERB-Inf--PRON-Acc (28)</li>
       <li>VERB-Inf--PRON-Dat (354)</li>
@@ -5251,26 +5117,13 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Inf--PRON-Ins (7)</li>
       <li>VERB-Part--NOUN (4)</li>
       <li>VERB-Part--NOUN-Acc (194)</li>
-      <li>VERB-Part--NOUN-Acc-ADP(mezi) (1)</li>
-      <li>VERB-Part--NOUN-Acc-ADP(na) (2)</li>
-      <li>VERB-Part--NOUN-Acc-ADP(o) (2)</li>
-      <li>VERB-Part--NOUN-Acc-ADP(pro) (1)</li>
-      <li>VERB-Part--NOUN-Acc-ADP(za) (6)</li>
       <li>VERB-Part--NOUN-Dat (711)</li>
-      <li>VERB-Part--NOUN-Dat-ADP(k) (1)</li>
       <li>VERB-Part--NOUN-Gen (30)</li>
-      <li>VERB-Part--NOUN-Gen-ADP(od) (1)</li>
-      <li>VERB-Part--NOUN-Gen-ADP(za) (1)</li>
       <li>VERB-Part--NOUN-Ins (92)</li>
-      <li>VERB-Part--NOUN-Ins-ADP(před) (1)</li>
-      <li>VERB-Part--NOUN-Ins-ADP(s) (3)</li>
-      <li>VERB-Part--NOUN-Loc-ADP(na) (1)</li>
-      <li>VERB-Part--NOUN-Loc-ADP(o) (2)</li>
       <li>VERB-Part--NOUN-Nom (9)</li>
       <li>VERB-Part--PRON-Acc (113)</li>
       <li>VERB-Part--PRON-Dat (822)</li>
       <li>VERB-Part--PRON-Gen (12)</li>
-      <li>VERB-Part--PRON-Gen-ADP(do) (1)</li>
       <li>VERB-Part--PRON-Ins (3)</li>
     </ul>
   </li>
@@ -5283,18 +5136,9 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
     <ul>
       <li>VERB-Fin--NOUN (3)</li>
       <li>VERB-Fin--NOUN-Acc (45)</li>
-      <li>VERB-Fin--NOUN-Acc-ADP(mezi) (1)</li>
-      <li>VERB-Fin--NOUN-Acc-ADP(na) (9)</li>
-      <li>VERB-Fin--NOUN-Acc-ADP(o) (1)</li>
-      <li>VERB-Fin--NOUN-Acc-ADP(pro) (1)</li>
-      <li>VERB-Fin--NOUN-Acc-ADP(za) (1)</li>
       <li>VERB-Fin--NOUN-Dat (173)</li>
       <li>VERB-Fin--NOUN-Gen (10)</li>
-      <li>VERB-Fin--NOUN-Gen-ADP(blízko) (1)</li>
-      <li>VERB-Fin--NOUN-Gen-ADP(z) (2)</li>
       <li>VERB-Fin--NOUN-Ins (53)</li>
-      <li>VERB-Fin--NOUN-Ins-ADP(před) (3)</li>
-      <li>VERB-Fin--NOUN-Loc-ADP(o) (1)</li>
       <li>VERB-Fin--NOUN-Nom (12)</li>
       <li>VERB-Fin--PRON-Acc (27)</li>
       <li>VERB-Fin--PRON-Dat (187)</li>
@@ -5303,32 +5147,17 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--PRON-Nom (2)</li>
       <li>VERB-Inf--NOUN (2)</li>
       <li>VERB-Inf--NOUN-Acc (19)</li>
-      <li>VERB-Inf--NOUN-Acc-ADP(na) (4)</li>
-      <li>VERB-Inf--NOUN-Acc-ADP(o) (1)</li>
-      <li>VERB-Inf--NOUN-Acc-ADP(za) (1)</li>
       <li>VERB-Inf--NOUN-Dat (160)</li>
-      <li>VERB-Inf--NOUN-Dat-ADP(k) (1)</li>
       <li>VERB-Inf--NOUN-Gen (8)</li>
-      <li>VERB-Inf--NOUN-Gen-ADP(do) (1)</li>
-      <li>VERB-Inf--NOUN-Gen-ADP(z) (1)</li>
       <li>VERB-Inf--NOUN-Ins (36)</li>
-      <li>VERB-Inf--NOUN-Ins-ADP(*) (1)</li>
-      <li>VERB-Inf--NOUN-Ins-ADP(před) (3)</li>
-      <li>VERB-Inf--NOUN-Ins-ADP(s) (5)</li>
       <li>VERB-Inf--NOUN-Nom (3)</li>
       <li>VERB-Inf--PRON-Acc (6)</li>
       <li>VERB-Inf--PRON-Dat (67)</li>
       <li>VERB-Part--NOUN (1)</li>
       <li>VERB-Part--NOUN-Acc (42)</li>
-      <li>VERB-Part--NOUN-Acc-ADP(na) (1)</li>
       <li>VERB-Part--NOUN-Dat (130)</li>
       <li>VERB-Part--NOUN-Gen (10)</li>
-      <li>VERB-Part--NOUN-Gen-ADP(od) (1)</li>
       <li>VERB-Part--NOUN-Ins (23)</li>
-      <li>VERB-Part--NOUN-Ins-ADP(s) (4)</li>
-      <li>VERB-Part--NOUN-Loc-ADP(na) (1)</li>
-      <li>VERB-Part--NOUN-Loc-ADP(o) (1)</li>
-      <li>VERB-Part--NOUN-Loc-ADP(v) (2)</li>
       <li>VERB-Part--NOUN-Nom (5)</li>
       <li>VERB-Part--PRON (2)</li>
       <li>VERB-Part--PRON-Acc (21)</li>
@@ -5447,7 +5276,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus uses 11 relation subtypes: <a>advmod:emph</a>, <a>aux:pass</a>, <a>csubj:pass</a>, <a>det:numgov</a>, <a>det:nummod</a>, <a>expl:pass</a>, <a>expl:pv</a>, <a>flat:foreign</a>, <a>nsubj:pass</a>, <a>nummod:gov</a>, <a>obl:arg</a></li>
+<li>This corpus uses 12 relation subtypes: <a>advmod:emph</a>, <a>aux:pass</a>, <a>csubj:pass</a>, <a>det:numgov</a>, <a>det:nummod</a>, <a>expl:pass</a>, <a>expl:pv</a>, <a>flat:foreign</a>, <a>nsubj:pass</a>, <a>nummod:gov</a>, <a>obl:agent</a>, <a>obl:arg</a></li>
 <li>The following 1 main types are not used alone, they are always subtyped: <a>expl</a></li>
 <li>The following 5 relation types are not used in this corpus at all: <a>dislocated</a>, <a>clf</a>, <a>list</a>, <a>goeswith</a>, <a>reparandum</a></li>
 </ul>
@@ -5457,7 +5286,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus uses 11 relation subtypes: <a>advmod:emph</a>, <a>aux:pass</a>, <a>csubj:pass</a>, <a>det:numgov</a>, <a>det:nummod</a>, <a>expl:pass</a>, <a>expl:pv</a>, <a>flat:foreign</a>, <a>nsubj:pass</a>, <a>nummod:gov</a>, <a>obl:arg</a></li>
+<li>This corpus uses 12 relation subtypes: <a>advmod:emph</a>, <a>aux:pass</a>, <a>csubj:pass</a>, <a>det:numgov</a>, <a>det:nummod</a>, <a>expl:pass</a>, <a>expl:pv</a>, <a>flat:foreign</a>, <a>nsubj:pass</a>, <a>nummod:gov</a>, <a>obl:agent</a>, <a>obl:arg</a></li>
 <li>The following 1 main types are not used alone, they are always subtyped: <a>expl</a></li>
 <li>The following 5 relation types are not used in this corpus at all: <a>dislocated</a>, <a>clf</a>, <a>list</a>, <a>goeswith</a>, <a>reparandum</a></li>
 </ul>
@@ -5467,7 +5296,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus uses 9 relation subtypes: <a>advmod:emph</a>, <a>aux:pass</a>, <a>csubj:pass</a>, <a>det:nummod</a>, <a>expl:pass</a>, <a>expl:pv</a>, <a>nsubj:pass</a>, <a>nummod:gov</a>, <a>obl:arg</a></li>
+<li>This corpus uses 10 relation subtypes: <a>advmod:emph</a>, <a>aux:pass</a>, <a>csubj:pass</a>, <a>det:nummod</a>, <a>expl:pass</a>, <a>expl:pv</a>, <a>nsubj:pass</a>, <a>nummod:gov</a>, <a>obl:agent</a>, <a>obl:arg</a></li>
 <li>The following 1 main types are not used alone, they are always subtyped: <a>expl</a></li>
 <li>The following 8 relation types are not used in this corpus at all: <a>vocative</a>, <a>dislocated</a>, <a>discourse</a>, <a>clf</a>, <a>flat</a>, <a>list</a>, <a>goeswith</a>, <a>reparandum</a></li>
 </ul>
