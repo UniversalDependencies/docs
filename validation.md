@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-10-22T09:37:44Z">2017-10-22T09:37:44 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-10-22T10:15:03Z">2017-10-22T10:15:03 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -563,46 +563,46 @@ python tools/validate.py --lang hr UD-dev-branches/UD_Croatian/hr-ud-train.conll
 <span class="doublewidespan" style="padding-left:3em">UD Czech</span>
 <span class="widespan">cs</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-10-22T09:35:42Z">2017-10-22T09:35:42 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-10-22T10:12:20Z">2017-10-22T10:12:20 zulu</time></span>
 </div>
 <div>
 <pre>
-python tools/validate.py --lang cs UD-dev-branches/UD_Czech/cs-ud-dev.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang cs /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Czech/cs-ud-dev.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python tools/validate.py --lang cs UD-dev-branches/UD_Czech/cs-ud-test.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang cs /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Czech/cs-ud-test.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python tools/validate.py --lang cs UD-dev-branches/UD_Czech/cs-ud-train-c.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang cs /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Czech/cs-ud-train-c.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python tools/validate.py --lang cs UD-dev-branches/UD_Czech/cs-ud-train-l.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang cs /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Czech/cs-ud-train-l.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python tools/validate.py --lang cs UD-dev-branches/UD_Czech/cs-ud-train-m.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang cs /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Czech/cs-ud-train-m.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python tools/validate.py --lang cs UD-dev-branches/UD_Czech/cs-ud-train-v.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang cs /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Czech/cs-ud-train-v.conllu
 
 *** PASSED ***
 
@@ -616,25 +616,25 @@ python tools/validate.py --lang cs UD-dev-branches/UD_Czech/cs-ud-train-v.conllu
 <span class="doublewidespan" style="padding-left:3em">UD Czech-CAC</span>
 <span class="widespan">cs cac</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-10-21T11:45:46Z">2017-10-21T11:45:46 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-10-22T10:14:21Z">2017-10-22T10:14:21 zulu</time></span>
 </div>
 <div>
 <pre>
-python tools/validate.py --lang cs_cac UD-dev-branches/UD_Czech-CAC/cs_cac-ud-dev.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang cs_cac /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Czech-CAC/cs_cac-ud-dev.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python tools/validate.py --lang cs_cac UD-dev-branches/UD_Czech-CAC/cs_cac-ud-test.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang cs_cac /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Czech-CAC/cs_cac-ud-test.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python tools/validate.py --lang cs_cac UD-dev-branches/UD_Czech-CAC/cs_cac-ud-train.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang cs_cac /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Czech-CAC/cs_cac-ud-train.conllu
 
 *** PASSED ***
 
@@ -648,25 +648,25 @@ python tools/validate.py --lang cs_cac UD-dev-branches/UD_Czech-CAC/cs_cac-ud-tr
 <span class="doublewidespan" style="padding-left:3em">UD Czech-CLTT</span>
 <span class="widespan">cs cltt</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-10-21T17:21:23Z">2017-10-21T17:21:23 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-10-22T10:15:00Z">2017-10-22T10:15:00 zulu</time></span>
 </div>
 <div>
 <pre>
-python tools/validate.py --lang cs_cltt UD-dev-branches/UD_Czech-CLTT/cs_cltt-ud-dev.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang cs_cltt /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Czech-CLTT/cs_cltt-ud-dev.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python tools/validate.py --lang cs_cltt UD-dev-branches/UD_Czech-CLTT/cs_cltt-ud-test.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang cs_cltt /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Czech-CLTT/cs_cltt-ud-test.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python tools/validate.py --lang cs_cltt UD-dev-branches/UD_Czech-CLTT/cs_cltt-ud-train.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang cs_cltt /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Czech-CLTT/cs_cltt-ud-train.conllu
 
 *** PASSED ***
 
@@ -680,7 +680,7 @@ python tools/validate.py --lang cs_cltt UD-dev-branches/UD_Czech-CLTT/cs_cltt-ud
 <span class="doublewidespan" style="padding-left:3em">UD Czech-FicTree</span>
 <span class="widespan">cs fictree</span>
 <span class="validationfail">EMPTY</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-10-21T11:32:54Z">2017-10-21T11:32:54 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-10-22T10:15:03Z">2017-10-22T10:15:03 zulu</time></span>
 </div>
 <div>
 <pre>
