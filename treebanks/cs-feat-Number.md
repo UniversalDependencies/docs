@@ -15,7 +15,7 @@ This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with t
 834248 tokens (55%) have a non-empty value of `Number`.
 129500 types (101%) occur at least once with a non-empty value of `Number`.
 49112 lemmas (84%) occur at least once with a non-empty value of `Number`.
-The feature is used with 8 part-of-speech tags: <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> (363302; 24% instances), <tt><a href="cs-pos-ADJ.html">ADJ</a></tt> (184587; 12% instances), <tt><a href="cs-pos-VERB.html">VERB</a></tt> (111091; 7% instances), <tt><a href="cs-pos-PROPN.html">PROPN</a></tt> (68761; 5% instances), <tt><a href="cs-pos-DET.html">DET</a></tt> (49587; 3% instances), <tt><a href="cs-pos-AUX.html">AUX</a></tt> (31663; 2% instances), <tt><a href="cs-pos-PRON.html">PRON</a></tt> (13608; 1% instances), <tt><a href="cs-pos-NUM.html">NUM</a></tt> (11649; 1% instances).
+The feature is used with 8 part-of-speech tags: <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> (363302; 24% instances), <tt><a href="cs-pos-ADJ.html">ADJ</a></tt> (184587; 12% instances), <tt><a href="cs-pos-VERB.html">VERB</a></tt> (111091; 7% instances), <tt><a href="cs-pos-PROPN.html">PROPN</a></tt> (68761; 5% instances), <tt><a href="cs-pos-DET.html">DET</a></tt> (49586; 3% instances), <tt><a href="cs-pos-AUX.html">AUX</a></tt> (31663; 2% instances), <tt><a href="cs-pos-PRON.html">PRON</a></tt> (13609; 1% instances), <tt><a href="cs-pos-NUM.html">NUM</a></tt> (11649; 1% instances).
 
 ### `NOUN`
 
@@ -150,16 +150,16 @@ The most frequent other feature values with which `PROPN` and `Number` co-occurr
 
 ### `DET`
 
-49587 <tt><a href="cs-pos-DET.html">DET</a></tt> tokens (88% of all `DET` tokens) have a non-empty value of `Number`.
+49586 <tt><a href="cs-pos-DET.html">DET</a></tt> tokens (88% of all `DET` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="cs-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (45203; 91%), <tt><a href="cs-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (45203; 91%), <tt><a href="cs-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (42600; 86%), <tt><a href="cs-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (40303; 81%).
+The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="cs-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (45202; 91%), <tt><a href="cs-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (45202; 91%), <tt><a href="cs-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (42599; 86%), <tt><a href="cs-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (40302; 81%).
 
 `DET` tokens may have the following values of `Number`:
 
 * `Dual` (4; 0% of non-empty `Number`): <em>jejíma, svýma, těma</em>
 * `Plur` (13372; 27% of non-empty `Number`): <em>které, kteří, všechny, všech, těchto, své, tyto, svých, některé, některých</em>
-* `Sing` (36211; 73% of non-empty `Number`): <em>to, který, která, tím, tom, této, které, tomu, tento, své</em>
-* `EMPTY` (6881): <em>jeho, jejich, několik, několika, mnoho, jejichž, mnoha, kolik, jehož, tolik</em>
+* `Sing` (36210; 73% of non-empty `Number`): <em>to, který, která, tím, tom, této, které, tomu, tento, své</em>
+* `EMPTY` (6882): <em>jeho, jejich, několik, několika, mnoho, jejichž, mnoha, kolik, jehož, tolik</em>
 
 <table>
   <tr><th>Paradigm <i>ten</i></th><th><tt>Sing</tt></th><th><tt>Dual</tt></th><th><tt>Plur</tt></th></tr>
@@ -243,15 +243,15 @@ The most frequent other feature values with which `AUX` and `Number` co-occurred
 
 ### `PRON`
 
-13608 <tt><a href="cs-pos-PRON.html">PRON</a></tt> tokens (30% of all `PRON` tokens) have a non-empty value of `Number`.
+13609 <tt><a href="cs-pos-PRON.html">PRON</a></tt> tokens (30% of all `PRON` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="cs-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (13608; 100%), <tt><a href="cs-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (11590; 85%), <tt><a href="cs-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (11129; 82%), <tt><a href="cs-feat-PrepCase.html">PrepCase</a></tt><tt>=EMPTY</tt> (8683; 64%), <tt><a href="cs-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (7289; 54%), <tt><a href="cs-feat-Person.html">Person</a></tt><tt>=3</tt> (7277; 53%).
+The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="cs-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (13609; 100%), <tt><a href="cs-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (11591; 85%), <tt><a href="cs-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (11129; 82%), <tt><a href="cs-feat-PrepCase.html">PrepCase</a></tt><tt>=EMPTY</tt> (8684; 64%), <tt><a href="cs-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (7289; 54%), <tt><a href="cs-feat-Person.html">Person</a></tt><tt>=3</tt> (7277; 53%).
 
 `PRON` tokens may have the following values of `Number`:
 
 * `Plur` (6227; 46% of non-empty `Number`): <em>nás, je, nám, nich, jim, nichž, my, jich, nimi, ně</em>
-* `Sing` (7381; 54% of non-empty `Number`): <em>mu, ji, ho, mi, ní, něj, jej, níž, já, mě</em>
-* `EMPTY` (31314): <em>se, si, co, kdo, což, nic, něco, nikdo, sebe, někdo</em>
+* `Sing` (7382; 54% of non-empty `Number`): <em>mu, ji, ho, mi, ní, něj, jej, níž, já, mě</em>
+* `EMPTY` (31313): <em>se, si, co, kdo, což, nic, něco, nikdo, sebe, někdo</em>
 
 <table>
   <tr><th>Paradigm <i>on</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -329,7 +329,7 @@ The 10 most frequent relations where parent and child node agree in `Number`:
 <tt>NOUN --[<tt><a href="cs-dep-amod.html">amod</a></tt>]--> ADJ</tt> (147785; 98%),
 <tt>NOUN --[<tt><a href="cs-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (67169; 61%),
 <tt>VERB --[<tt><a href="cs-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (35612; 81%),
-<tt>NOUN --[<tt><a href="cs-dep-det.html">det</a></tt>]--> DET</tt> (23389; 82%),
+<tt>NOUN --[<tt><a href="cs-dep-det.html">det</a></tt>]--> DET</tt> (23388; 82%),
 <tt>NOUN --[<tt><a href="cs-dep-conj.html">conj</a></tt>]--> NOUN</tt> (16967; 78%),
 <tt>NOUN --[<tt><a href="cs-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (11931; 53%),
 <tt>PROPN --[<tt><a href="cs-dep-flat.html">flat</a></tt>]--> PROPN</tt> (10798; 82%),

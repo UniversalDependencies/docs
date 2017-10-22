@@ -18,7 +18,7 @@ The feature is used with 1 part-of-speech tags: <tt><a href="cs-pos-ADJ.html">AD
 
 398 <tt><a href="cs-pos-ADJ.html">ADJ</a></tt> tokens (0% of all `ADJ` tokens) have a non-empty value of `Hyph`.
 
-The most frequent other feature values with which `ADJ` and `Hyph` co-occurred: <tt><a href="cs-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (398; 100%), <tt><a href="cs-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (398; 100%), <tt><a href="cs-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (398; 100%), <tt><a href="cs-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (398; 100%), <tt><a href="cs-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (398; 100%), <tt><a href="cs-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (397; 100%).
+The most frequent other feature values with which `ADJ` and `Hyph` co-occurred: <tt><a href="cs-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (398; 100%), <tt><a href="cs-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (398; 100%), <tt><a href="cs-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (398; 100%), <tt><a href="cs-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (398; 100%), <tt><a href="cs-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (398; 100%), <tt><a href="cs-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (397; 100%).
 
 `ADJ` tokens may have the following values of `Hyph`:
 

@@ -122,7 +122,7 @@ The most frequent other feature values with which `ADP` and `NameType` co-occurr
 
 20 <tt><a href="cs-pos-NUM.html">NUM</a></tt> tokens (0% of all `NUM` tokens) have a non-empty value of `NameType`.
 
-The most frequent other feature values with which `NUM` and `NameType` co-occurred: <tt><a href="cs-feat-NumForm.html">NumForm</a></tt><tt>=Word</tt> (20; 100%), <tt><a href="cs-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (20; 100%), <tt><a href="cs-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (20; 100%), <tt><a href="cs-feat-NumValue.html">NumValue</a></tt><tt>=1,2,3</tt> (19; 95%), <tt><a href="cs-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (19; 95%), <tt><a href="cs-feat-Number.html">Number</a></tt><tt>=Plur</tt> (19; 95%).
+The most frequent other feature values with which `NUM` and `NameType` co-occurred: <tt><a href="cs-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (20; 100%), <tt><a href="cs-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (20; 100%), <tt><a href="cs-feat-NumForm.html">NumForm</a></tt><tt>=Word</tt> (20; 100%), <tt><a href="cs-feat-Number.html">Number</a></tt><tt>=Plur</tt> (19; 95%), <tt><a href="cs-feat-NumValue.html">NumValue</a></tt><tt>=1,2,3</tt> (19; 95%), <tt><a href="cs-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (19; 95%).
 
 `NUM` tokens may have the following values of `NameType`:
 
@@ -132,7 +132,7 @@ The most frequent other feature values with which `NUM` and `NameType` co-occurr
 
 17 <tt><a href="cs-pos-ADV.html">ADV</a></tt> tokens (0% of all `ADV` tokens) have a non-empty value of `NameType`.
 
-The most frequent other feature values with which `ADV` and `NameType` co-occurred: <tt><a href="cs-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (17; 100%), <tt><a href="cs-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (14; 82%), <tt><a href="cs-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (14; 82%).
+The most frequent other feature values with which `ADV` and `NameType` co-occurred: <tt><a href="cs-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (17; 100%), <tt><a href="cs-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (14; 82%), <tt><a href="cs-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (14; 82%).
 
 `ADV` tokens may have the following values of `NameType`:
 
@@ -152,7 +152,7 @@ The most frequent other feature values with which `ADV` and `NameType` co-occurr
 
 13 <tt><a href="cs-pos-VERB.html">VERB</a></tt> tokens (0% of all `VERB` tokens) have a non-empty value of `NameType`.
 
-The most frequent other feature values with which `VERB` and `NameType` co-occurred: <tt><a href="cs-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (13; 100%), <tt><a href="cs-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (13; 100%), <tt><a href="cs-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (13; 100%), <tt><a href="cs-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (8; 62%), <tt><a href="cs-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (8; 62%), <tt><a href="cs-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (7; 54%), <tt><a href="cs-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (7; 54%).
+The most frequent other feature values with which `VERB` and `NameType` co-occurred: <tt><a href="cs-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (13; 100%), <tt><a href="cs-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (13; 100%), <tt><a href="cs-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (13; 100%), <tt><a href="cs-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (8; 62%), <tt><a href="cs-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (8; 62%), <tt><a href="cs-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (7; 54%), <tt><a href="cs-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (7; 54%).
 
 `VERB` tokens may have the following values of `NameType`:
 
@@ -172,7 +172,7 @@ The most frequent other feature values with which `VERB` and `NameType` co-occur
 
 12 <tt><a href="cs-pos-PRON.html">PRON</a></tt> tokens (0% of all `PRON` tokens) have a non-empty value of `NameType`.
 
-The most frequent other feature values with which `PRON` and `NameType` co-occurred: <tt><a href="cs-feat-PrepCase.html">PrepCase</a></tt><tt>=EMPTY</tt> (12; 100%), <tt><a href="cs-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (12; 100%), <tt><a href="cs-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (12; 100%), <tt><a href="cs-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (8; 67%), <tt><a href="cs-feat-Number.html">Number</a></tt><tt>=Sing</tt> (7; 58%), <tt><a href="cs-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (7; 58%), <tt><a href="cs-feat-PronType.html">PronType</a></tt><tt>=Tot</tt> (7; 58%).
+The most frequent other feature values with which `PRON` and `NameType` co-occurred: <tt><a href="cs-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (12; 100%), <tt><a href="cs-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (12; 100%), <tt><a href="cs-feat-PrepCase.html">PrepCase</a></tt><tt>=EMPTY</tt> (12; 100%), <tt><a href="cs-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (8; 67%), <tt><a href="cs-feat-Number.html">Number</a></tt><tt>=Sing</tt> (7; 58%), <tt><a href="cs-feat-PronType.html">PronType</a></tt><tt>=Tot</tt> (7; 58%), <tt><a href="cs-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (7; 58%).
 
 `PRON` tokens may have the following values of `NameType`:
 
@@ -209,7 +209,7 @@ The most frequent other feature values with which `PRON` and `NameType` co-occur
 
 4 <tt><a href="cs-pos-DET.html">DET</a></tt> tokens (0% of all `DET` tokens) have a non-empty value of `NameType`.
 
-The most frequent other feature values with which `DET` and `NameType` co-occurred: <tt><a href="cs-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (4; 100%), <tt><a href="cs-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (3; 75%), <tt><a href="cs-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (3; 75%), <tt><a href="cs-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (3; 75%), <tt><a href="cs-feat-Poss.html">Poss</a></tt><tt>=Yes</tt> (3; 75%).
+The most frequent other feature values with which `DET` and `NameType` co-occurred: <tt><a href="cs-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (4; 100%), <tt><a href="cs-feat-Poss.html">Poss</a></tt><tt>=Yes</tt> (3; 75%), <tt><a href="cs-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (3; 75%), <tt><a href="cs-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (3; 75%), <tt><a href="cs-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (3; 75%).
 
 `DET` tokens may have the following values of `NameType`:
 

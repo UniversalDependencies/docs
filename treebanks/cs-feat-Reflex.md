@@ -18,7 +18,7 @@ The feature is used with 2 part-of-speech tags: <tt><a href="cs-pos-PRON.html">P
 
 25786 <tt><a href="cs-pos-PRON.html">PRON</a></tt> tokens (57% of all `PRON` tokens) have a non-empty value of `Reflex`.
 
-The most frequent other feature values with which `PRON` and `Reflex` co-occurred: <tt><a href="cs-feat-PrepCase.html">PrepCase</a></tt><tt>=EMPTY</tt> (25786; 100%), <tt><a href="cs-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (25786; 100%), <tt><a href="cs-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (25786; 100%), <tt><a href="cs-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (25786; 100%), <tt><a href="cs-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (25786; 100%), <tt><a href="cs-feat-Variant.html">Variant</a></tt><tt>=Short</tt> (25163; 98%), <tt><a href="cs-feat-Case.html">Case</a></tt><tt>=Acc</tt> (21582; 84%).
+The most frequent other feature values with which `PRON` and `Reflex` co-occurred: <tt><a href="cs-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (25786; 100%), <tt><a href="cs-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (25786; 100%), <tt><a href="cs-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (25786; 100%), <tt><a href="cs-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (25786; 100%), <tt><a href="cs-feat-PrepCase.html">PrepCase</a></tt><tt>=EMPTY</tt> (25786; 100%), <tt><a href="cs-feat-Variant.html">Variant</a></tt><tt>=Short</tt> (25163; 98%), <tt><a href="cs-feat-Case.html">Case</a></tt><tt>=Acc</tt> (21582; 84%).
 
 `PRON` tokens may have the following values of `Reflex`:
 
@@ -29,7 +29,7 @@ The most frequent other feature values with which `PRON` and `Reflex` co-occurre
 
 4883 <tt><a href="cs-pos-DET.html">DET</a></tt> tokens (9% of all `DET` tokens) have a non-empty value of `Reflex`.
 
-The most frequent other feature values with which `DET` and `Reflex` co-occurred: <tt><a href="cs-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (4883; 100%), <tt><a href="cs-feat-Poss.html">Poss</a></tt><tt>=Yes</tt> (4883; 100%), <tt><a href="cs-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (4883; 100%), <tt><a href="cs-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (4883; 100%), <tt><a href="cs-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (4304; 88%), <tt><a href="cs-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3423; 70%).
+The most frequent other feature values with which `DET` and `Reflex` co-occurred: <tt><a href="cs-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (4883; 100%), <tt><a href="cs-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (4883; 100%), <tt><a href="cs-feat-Poss.html">Poss</a></tt><tt>=Yes</tt> (4883; 100%), <tt><a href="cs-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (4883; 100%), <tt><a href="cs-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (4304; 88%), <tt><a href="cs-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3423; 70%).
 
 `DET` tokens may have the following values of `Reflex`:
 
