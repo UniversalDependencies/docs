@@ -21,7 +21,7 @@ The feature is used with 2 part-of-speech tags: <tt><a href="cs-pos-DET.html">DE
 
 4372 <tt><a href="cs-pos-DET.html">DET</a></tt> tokens (8% of all `DET` tokens) have a non-empty value of `Gender[psor]`.
 
-The most frequent other feature values with which `DET` and `Gender[psor]` co-occurred: <tt><a href="cs-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt> (4372; 100%), <tt><a href="cs-feat-Poss.html">Poss</a></tt><tt>=Yes</tt> (4372; 100%), <tt><a href="cs-feat-Person.html">Person</a></tt><tt>=3</tt> (4372; 100%), <tt><a href="cs-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (4296; 98%), <tt><a href="cs-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (3991; 91%), <tt><a href="cs-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (3322; 76%), <tt><a href="cs-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (3221; 74%), <tt><a href="cs-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (2909; 67%).
+The most frequent other feature values with which `DET` and `Gender[psor]` co-occurred: <tt><a href="cs-feat-Poss.html">Poss</a></tt><tt>=Yes</tt> (4372; 100%), <tt><a href="cs-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt> (4372; 100%), <tt><a href="cs-feat-Person.html">Person</a></tt><tt>=3</tt> (4372; 100%), <tt><a href="cs-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (4296; 98%), <tt><a href="cs-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (3991; 91%), <tt><a href="cs-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (3322; 76%), <tt><a href="cs-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (3221; 74%), <tt><a href="cs-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (2909; 67%).
 
 `DET` tokens may have the following values of `Gender[psor]`:
 
@@ -51,7 +51,7 @@ The most frequent other feature values with which `DET` and `Gender[psor]` co-oc
 
 2707 <tt><a href="cs-pos-ADJ.html">ADJ</a></tt> tokens (1% of all `ADJ` tokens) have a non-empty value of `Gender[psor]`.
 
-The most frequent other feature values with which `ADJ` and `Gender[psor]` co-occurred: <tt><a href="cs-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (2707; 100%), <tt><a href="cs-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (2707; 100%), <tt><a href="cs-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2189; 81%), <tt><a href="cs-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (1602; 59%).
+The most frequent other feature values with which `ADJ` and `Gender[psor]` co-occurred: <tt><a href="cs-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (2707; 100%), <tt><a href="cs-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (2707; 100%), <tt><a href="cs-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2189; 81%), <tt><a href="cs-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (1602; 59%).
 
 `ADJ` tokens may have the following values of `Gender[psor]`:
 

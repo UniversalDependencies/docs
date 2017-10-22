@@ -152,7 +152,7 @@ The most frequent other feature values with which `PROPN` and `Number` co-occurr
 
 49586 <tt><a href="cs-pos-DET.html">DET</a></tt> tokens (88% of all `DET` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="cs-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (45202; 91%), <tt><a href="cs-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (45202; 91%), <tt><a href="cs-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (42599; 86%), <tt><a href="cs-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (40302; 81%).
+The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="cs-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (45202; 91%), <tt><a href="cs-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (45202; 91%), <tt><a href="cs-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (42599; 86%), <tt><a href="cs-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (40302; 81%).
 
 `DET` tokens may have the following values of `Number`:
 

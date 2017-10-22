@@ -47,7 +47,7 @@ The most frequent other feature values with which `ADJ` and `NumType` co-occurre
 
 1848 <tt><a href="cs-pos-DET.html">DET</a></tt> tokens (3% of all `DET` tokens) have a non-empty value of `NumType`.
 
-The most frequent other feature values with which `DET` and `NumType` co-occurred: <tt><a href="cs-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (1848; 100%), <tt><a href="cs-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (1848; 100%), <tt><a href="cs-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (1848; 100%), <tt><a href="cs-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (1844; 100%), <tt><a href="cs-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (1832; 99%), <tt><a href="cs-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1832; 99%), <tt><a href="cs-feat-PronType.html">PronType</a></tt><tt>=Ind</tt> (1545; 84%).
+The most frequent other feature values with which `DET` and `NumType` co-occurred: <tt><a href="cs-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (1848; 100%), <tt><a href="cs-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (1848; 100%), <tt><a href="cs-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (1848; 100%), <tt><a href="cs-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (1844; 100%), <tt><a href="cs-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (1832; 99%), <tt><a href="cs-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1832; 99%), <tt><a href="cs-feat-PronType.html">PronType</a></tt><tt>=Ind</tt> (1545; 84%).
 
 `DET` tokens may have the following values of `NumType`:
 
@@ -61,7 +61,7 @@ The most frequent other feature values with which `DET` and `NumType` co-occurre
 
 864 <tt><a href="cs-pos-ADV.html">ADV</a></tt> tokens (1% of all `ADV` tokens) have a non-empty value of `NumType`.
 
-The most frequent other feature values with which `ADV` and `NumType` co-occurred: <tt><a href="cs-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (864; 100%), <tt><a href="cs-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (864; 100%), <tt><a href="cs-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (741; 86%).
+The most frequent other feature values with which `ADV` and `NumType` co-occurred: <tt><a href="cs-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (864; 100%), <tt><a href="cs-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (864; 100%), <tt><a href="cs-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (741; 86%).
 
 `ADV` tokens may have the following values of `NumType`:
 

@@ -50,7 +50,7 @@ The most frequent other feature values with which `ADV` and `Style` co-occurred:
 
 312 <tt><a href="cs-pos-PRON.html">PRON</a></tt> tokens (1% of all `PRON` tokens) have a non-empty value of `Style`.
 
-The most frequent other feature values with which `PRON` and `Style` co-occurred: <tt><a href="cs-feat-PrepCase.html">PrepCase</a></tt><tt>=EMPTY</tt> (311; 100%), <tt><a href="cs-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (309; 99%), <tt><a href="cs-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (309; 99%), <tt><a href="cs-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (309; 99%), <tt><a href="cs-feat-Person.html">Person</a></tt><tt>=3</tt> (306; 98%), <tt><a href="cs-feat-Case.html">Case</a></tt><tt>=Acc</tt> (306; 98%), <tt><a href="cs-feat-Number.html">Number</a></tt><tt>=Sing</tt> (306; 98%), <tt><a href="cs-feat-Gender.html">Gender</a></tt><tt>=Masc,Neut</tt> (302; 97%).
+The most frequent other feature values with which `PRON` and `Style` co-occurred: <tt><a href="cs-feat-PrepCase.html">PrepCase</a></tt><tt>=EMPTY</tt> (311; 100%), <tt><a href="cs-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (309; 99%), <tt><a href="cs-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (309; 99%), <tt><a href="cs-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (309; 99%), <tt><a href="cs-feat-Person.html">Person</a></tt><tt>=3</tt> (306; 98%), <tt><a href="cs-feat-Number.html">Number</a></tt><tt>=Sing</tt> (306; 98%), <tt><a href="cs-feat-Case.html">Case</a></tt><tt>=Acc</tt> (306; 98%), <tt><a href="cs-feat-Gender.html">Gender</a></tt><tt>=Masc,Neut</tt> (302; 97%).
 
 `PRON` tokens may have the following values of `Style`:
 
@@ -63,24 +63,6 @@ The most frequent other feature values with which `PRON` and `Style` co-occurred
   <tr><td><tt><tt><a href="cs-feat-Gender.html">Gender</a></tt><tt>=Masc,Neut</tt></tt></td><td><em>jej</em></td><td></td></tr>
   <tr><td><tt><tt><a href="cs-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="cs-feat-PrepCase.html">PrepCase</a></tt><tt>=Pre</tt></tt></td><td></td><td><em>ní</em></td></tr>
 </table>
-
-### `ADJ`
-
-172 <tt><a href="cs-pos-ADJ.html">ADJ</a></tt> tokens (0% of all `ADJ` tokens) have a non-empty value of `Style`.
-
-The most frequent other feature values with which `ADJ` and `Style` co-occurred: <tt><a href="cs-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (157; 91%), <tt><a href="cs-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (152; 88%), <tt><a href="cs-feat-Number.html">Number</a></tt><tt>=Sing</tt> (99; 58%), <tt><a href="cs-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (89; 52%).
-
-`ADJ` tokens may have the following values of `Style`:
-
-* `Arch` (1; 1% of non-empty `Style`): <em>pathologickým</em>
-* `Coll` (89; 52% of non-empty `Style`): <em>top, druhý, super, Kytkový, Devátý, Vystřelenýho, hodnej, těžký, vyhecovaný, výborný</em>
-* `Expr` (11; 6% of non-empty `Style`): <em>ultranacionalistické, ztřeštěný, Ultrapravicový, uculujících, ultrapravicová, zkrachovalá, ztřeštěného, ztřeštěných, ztřeštěným</em>
-* `Rare` (47; 27% of non-empty `Style`): <em>napjaté, napjatou, napjatá, napjatý, napjatých, napjatější, portfóliových, vypjaté, vysoceaktivní, vysoceaktivních</em>
-* `Slng` (19; 11% of non-empty `Style`): <em>joint, škodováckých, crackových, famáckého, vrchařských, škodováckého, škodovácký, škodováčtí, študácké, študáckých</em>
-* `Vrnc` (3; 2% of non-empty `Style`): <em>řečeného</em>
-* `Vulg` (2; 1% of non-empty `Style`): <em>bordelové, nablito</em>
-
-`Style` seems to be **lexical feature** of `ADJ`. 100% lemmas (99) occur only with one value of `Style`.
 
 ### `VERB`
 
@@ -107,6 +89,24 @@ The most frequent other feature values with which `VERB` and `Style` co-occurred
 
 `Style` seems to be **lexical feature** of `VERB`. 99% lemmas (90) occur only with one value of `Style`.
 
+### `ADJ`
+
+172 <tt><a href="cs-pos-ADJ.html">ADJ</a></tt> tokens (0% of all `ADJ` tokens) have a non-empty value of `Style`.
+
+The most frequent other feature values with which `ADJ` and `Style` co-occurred: <tt><a href="cs-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (157; 91%), <tt><a href="cs-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (152; 88%), <tt><a href="cs-feat-Number.html">Number</a></tt><tt>=Sing</tt> (99; 58%), <tt><a href="cs-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (89; 52%).
+
+`ADJ` tokens may have the following values of `Style`:
+
+* `Arch` (1; 1% of non-empty `Style`): <em>pathologickým</em>
+* `Coll` (89; 52% of non-empty `Style`): <em>top, druhý, super, Kytkový, Devátý, Vystřelenýho, hodnej, těžký, vyhecovaný, výborný</em>
+* `Expr` (11; 6% of non-empty `Style`): <em>ultranacionalistické, ztřeštěný, Ultrapravicový, uculujících, ultrapravicová, zkrachovalá, ztřeštěného, ztřeštěných, ztřeštěným</em>
+* `Rare` (47; 27% of non-empty `Style`): <em>napjaté, napjatou, napjatá, napjatý, napjatých, napjatější, portfóliových, vypjaté, vysoceaktivní, vysoceaktivních</em>
+* `Slng` (19; 11% of non-empty `Style`): <em>joint, škodováckých, crackových, famáckého, vrchařských, škodováckého, škodovácký, škodováčtí, študácké, študáckých</em>
+* `Vrnc` (3; 2% of non-empty `Style`): <em>řečeného</em>
+* `Vulg` (2; 1% of non-empty `Style`): <em>bordelové, nablito</em>
+
+`Style` seems to be **lexical feature** of `ADJ`. 100% lemmas (99) occur only with one value of `Style`.
+
 ### `PROPN`
 
 155 <tt><a href="cs-pos-PROPN.html">PROPN</a></tt> tokens (0% of all `PROPN` tokens) have a non-empty value of `Style`.
@@ -126,7 +126,7 @@ The most frequent other feature values with which `PROPN` and `Style` co-occurre
 
 25 <tt><a href="cs-pos-DET.html">DET</a></tt> tokens (0% of all `DET` tokens) have a non-empty value of `Style`.
 
-The most frequent other feature values with which `DET` and `Style` co-occurred: <tt><a href="cs-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (23; 92%), <tt><a href="cs-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (18; 72%), <tt><a href="cs-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (18; 72%), <tt><a href="cs-feat-Number.html">Number</a></tt><tt>=Sing</tt> (16; 64%), <tt><a href="cs-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (16; 64%).
+The most frequent other feature values with which `DET` and `Style` co-occurred: <tt><a href="cs-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (23; 92%), <tt><a href="cs-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (18; 72%), <tt><a href="cs-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (18; 72%), <tt><a href="cs-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (16; 64%), <tt><a href="cs-feat-Number.html">Number</a></tt><tt>=Sing</tt> (16; 64%).
 
 `DET` tokens may have the following values of `Style`:
 
@@ -137,7 +137,7 @@ The most frequent other feature values with which `DET` and `Style` co-occurred:
 
 22 <tt><a href="cs-pos-AUX.html">AUX</a></tt> tokens (0% of all `AUX` tokens) have a non-empty value of `Style`.
 
-The most frequent other feature values with which `AUX` and `Style` co-occurred: <tt><a href="cs-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (22; 100%), <tt><a href="cs-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (21; 95%), <tt><a href="cs-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (18; 82%), <tt><a href="cs-feat-Person.html">Person</a></tt><tt>=3</tt> (16; 73%), <tt><a href="cs-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (16; 73%), <tt><a href="cs-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (16; 73%), <tt><a href="cs-feat-Number.html">Number</a></tt><tt>=Sing</tt> (15; 68%), <tt><a href="cs-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (15; 68%).
+The most frequent other feature values with which `AUX` and `Style` co-occurred: <tt><a href="cs-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (22; 100%), <tt><a href="cs-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (21; 95%), <tt><a href="cs-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (18; 82%), <tt><a href="cs-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (16; 73%), <tt><a href="cs-feat-Person.html">Person</a></tt><tt>=3</tt> (16; 73%), <tt><a href="cs-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (16; 73%), <tt><a href="cs-feat-Number.html">Number</a></tt><tt>=Sing</tt> (15; 68%), <tt><a href="cs-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (15; 68%).
 
 `AUX` tokens may have the following values of `Style`:
 
@@ -186,7 +186,7 @@ The most frequent other feature values with which `ADP` and `Style` co-occurred:
 
 2 <tt><a href="cs-pos-NUM.html">NUM</a></tt> tokens (0% of all `NUM` tokens) have a non-empty value of `Style`.
 
-The most frequent other feature values with which `NUM` and `Style` co-occurred: <tt><a href="cs-feat-NumForm.html">NumForm</a></tt><tt>=Word</tt> (2; 100%), <tt><a href="cs-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (2; 100%), <tt><a href="cs-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="cs-feat-Case.html">Case</a></tt><tt>=Dat</tt> (2; 100%), <tt><a href="cs-feat-NumValue.html">NumValue</a></tt><tt>=1,2,3</tt> (2; 100%), <tt><a href="cs-feat-Number.html">Number</a></tt><tt>=Plur</tt> (2; 100%).
+The most frequent other feature values with which `NUM` and `Style` co-occurred: <tt><a href="cs-feat-NumValue.html">NumValue</a></tt><tt>=1,2,3</tt> (2; 100%), <tt><a href="cs-feat-NumForm.html">NumForm</a></tt><tt>=Word</tt> (2; 100%), <tt><a href="cs-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="cs-feat-Number.html">Number</a></tt><tt>=Plur</tt> (2; 100%), <tt><a href="cs-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (2; 100%), <tt><a href="cs-feat-Case.html">Case</a></tt><tt>=Dat</tt> (2; 100%).
 
 `NUM` tokens may have the following values of `Style`:
 

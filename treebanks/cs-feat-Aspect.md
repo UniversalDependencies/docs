@@ -18,7 +18,7 @@ The feature is used with 5 part-of-speech tags: <tt><a href="cs-pos-VERB.html">V
 
 81764 <tt><a href="cs-pos-VERB.html">VERB</a></tt> tokens (60% of all `VERB` tokens) have a non-empty value of `Aspect`.
 
-The most frequent other feature values with which `VERB` and `Aspect` co-occurred: <tt><a href="cs-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (76068; 93%), <tt><a href="cs-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (64236; 79%), <tt><a href="cs-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (52520; 64%), <tt><a href="cs-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (46279; 57%), <tt><a href="cs-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (46279; 57%).
+The most frequent other feature values with which `VERB` and `Aspect` co-occurred: <tt><a href="cs-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (76068; 93%), <tt><a href="cs-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (64236; 79%), <tt><a href="cs-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (52520; 64%), <tt><a href="cs-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (46279; 57%), <tt><a href="cs-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (46279; 57%).
 
 `VERB` tokens may have the following values of `Aspect`:
 
@@ -72,7 +72,7 @@ The most frequent other feature values with which `ADJ` and `Aspect` co-occurred
 
 179 <tt><a href="cs-pos-AUX.html">AUX</a></tt> tokens (0% of all `AUX` tokens) have a non-empty value of `Aspect`.
 
-The most frequent other feature values with which `AUX` and `Aspect` co-occurred: <tt><a href="cs-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (179; 100%), <tt><a href="cs-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (161; 90%), <tt><a href="cs-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (141; 79%), <tt><a href="cs-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (137; 77%), <tt><a href="cs-feat-Person.html">Person</a></tt><tt>=3</tt> (133; 74%), <tt><a href="cs-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (133; 74%), <tt><a href="cs-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (133; 74%), <tt><a href="cs-feat-Number.html">Number</a></tt><tt>=Sing</tt> (118; 66%).
+The most frequent other feature values with which `AUX` and `Aspect` co-occurred: <tt><a href="cs-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (179; 100%), <tt><a href="cs-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (161; 90%), <tt><a href="cs-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (141; 79%), <tt><a href="cs-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (137; 77%), <tt><a href="cs-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (133; 74%), <tt><a href="cs-feat-Person.html">Person</a></tt><tt>=3</tt> (133; 74%), <tt><a href="cs-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (133; 74%), <tt><a href="cs-feat-Number.html">Number</a></tt><tt>=Sing</tt> (118; 66%).
 
 `AUX` tokens may have the following values of `Aspect`:
 
@@ -83,7 +83,7 @@ The most frequent other feature values with which `AUX` and `Aspect` co-occurred
 
 2 <tt><a href="cs-pos-NOUN.html">NOUN</a></tt> tokens (0% of all `NOUN` tokens) have a non-empty value of `Aspect`.
 
-The most frequent other feature values with which `NOUN` and `Aspect` co-occurred: <tt><a href="cs-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2; 100%), <tt><a href="cs-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (2; 100%), <tt><a href="cs-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="cs-feat-Gender.html">Gender</a></tt><tt>=Neut</tt> (2; 100%).
+The most frequent other feature values with which `NOUN` and `Aspect` co-occurred: <tt><a href="cs-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2; 100%), <tt><a href="cs-feat-Gender.html">Gender</a></tt><tt>=Neut</tt> (2; 100%), <tt><a href="cs-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (2; 100%), <tt><a href="cs-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (2; 100%).
 
 `NOUN` tokens may have the following values of `Aspect`:
 
@@ -94,7 +94,7 @@ The most frequent other feature values with which `NOUN` and `Aspect` co-occurre
 
 1 <tt><a href="cs-pos-ADP.html">ADP</a></tt> tokens (0% of all `ADP` tokens) have a non-empty value of `Aspect`.
 
-The most frequent other feature values with which `ADP` and `Aspect` co-occurred: <tt><a href="cs-feat-AdpType.html">AdpType</a></tt><tt>=Comprep</tt> (1; 100%), <tt><a href="cs-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (1; 100%).
+The most frequent other feature values with which `ADP` and `Aspect` co-occurred: <tt><a href="cs-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="cs-feat-AdpType.html">AdpType</a></tt><tt>=Comprep</tt> (1; 100%).
 
 `ADP` tokens may have the following values of `Aspect`:
 
