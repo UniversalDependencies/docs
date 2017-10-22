@@ -18,7 +18,7 @@ The feature is used with 3 part-of-speech tags: <tt><a href="cs_cac-pos-VERB.htm
 
 32524 <tt><a href="cs_cac-pos-VERB.html">VERB</a></tt> tokens (80% of all `VERB` tokens) have a non-empty value of `Voice`.
 
-The most frequent other feature values with which `VERB` and `Voice` co-occurred: <tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (29667; 91%), <tt><a href="cs_cac-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (21961; 68%), <tt><a href="cs_cac-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (21953; 67%), <tt><a href="cs_cac-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (21953; 67%), <tt><a href="cs_cac-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (21876; 67%), <tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt> (18754; 58%), <tt><a href="cs_cac-feat-Person.html">Person</a></tt><tt>=3</tt> (18469; 57%).
+The most frequent other feature values with which `VERB` and `Voice` co-occurred: <tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (29667; 91%), <tt><a href="cs_cac-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (21961; 68%), <tt><a href="cs_cac-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (21953; 67%), <tt><a href="cs_cac-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (21953; 67%), <tt><a href="cs_cac-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (21876; 67%), <tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt> (18754; 58%), <tt><a href="cs_cac-feat-Person.html">Person</a></tt><tt>=3</tt> (18469; 57%).
 
 `VERB` tokens may have the following values of `Voice`:
 

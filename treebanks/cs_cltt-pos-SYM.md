@@ -13,7 +13,7 @@ The 10 most frequent `SYM` lemmas: <em>%, +, /</em>
 
 The 10 most frequent `SYM` types:  <em>%, +, /</em>
 
-The 10 most frequent ambiguous lemmas: <em>/</em> (<tt><a href="cs_cltt-pos-SYM.html">SYM</a></tt> 2, <tt><a href="cs_cltt-pos-PUNCT.html">PUNCT</a></tt> 2)
+The 10 most frequent ambiguous lemmas: <em>/</em> (<tt><a href="cs_cltt-pos-PUNCT.html">PUNCT</a></tt> 2, <tt><a href="cs_cltt-pos-SYM.html">SYM</a></tt> 2)
 
 The 10 most frequent ambiguous types:  <em>+</em> (<tt><a href="cs_cltt-pos-SYM.html">SYM</a></tt> 2, <tt><a href="cs_cltt-pos-X.html">X</a></tt> 1), <em>/</em> (<tt><a href="cs_cltt-pos-SYM.html">SYM</a></tt> 2, <tt><a href="cs_cltt-pos-PUNCT.html">PUNCT</a></tt> 2)
 

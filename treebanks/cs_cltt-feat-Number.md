@@ -82,7 +82,7 @@ The most frequent other feature values with which `ADJ` and `Number` co-occurred
 
 1542 <tt><a href="cs_cltt-pos-VERB.html">VERB</a></tt> tokens (83% of all `VERB` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="cs_cltt-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (1542; 100%), <tt><a href="cs_cltt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (1426; 92%), <tt><a href="cs_cltt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (1426; 92%), <tt><a href="cs_cltt-feat-Person.html">Person</a></tt><tt>=3</tt> (1426; 92%), <tt><a href="cs_cltt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (1426; 92%), <tt><a href="cs_cltt-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (1328; 86%).
+The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="cs_cltt-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (1542; 100%), <tt><a href="cs_cltt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (1426; 92%), <tt><a href="cs_cltt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (1426; 92%), <tt><a href="cs_cltt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (1426; 92%), <tt><a href="cs_cltt-feat-Person.html">Person</a></tt><tt>=3</tt> (1426; 92%), <tt><a href="cs_cltt-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (1328; 86%).
 
 `VERB` tokens may have the following values of `Number`:
 
@@ -138,7 +138,7 @@ The most frequent other feature values with which `DET` and `Number` co-occurred
 
 497 <tt><a href="cs_cltt-pos-AUX.html">AUX</a></tt> tokens (87% of all `AUX` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `AUX` and `Number` co-occurred: <tt><a href="cs_cltt-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (497; 100%), <tt><a href="cs_cltt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (438; 88%), <tt><a href="cs_cltt-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (438; 88%), <tt><a href="cs_cltt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (438; 88%), <tt><a href="cs_cltt-feat-Person.html">Person</a></tt><tt>=3</tt> (438; 88%), <tt><a href="cs_cltt-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (436; 88%), <tt><a href="cs_cltt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (417; 84%).
+The most frequent other feature values with which `AUX` and `Number` co-occurred: <tt><a href="cs_cltt-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (497; 100%), <tt><a href="cs_cltt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (438; 88%), <tt><a href="cs_cltt-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (438; 88%), <tt><a href="cs_cltt-feat-Person.html">Person</a></tt><tt>=3</tt> (438; 88%), <tt><a href="cs_cltt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (438; 88%), <tt><a href="cs_cltt-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (436; 88%), <tt><a href="cs_cltt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (417; 84%).
 
 `AUX` tokens may have the following values of `Number`:
 

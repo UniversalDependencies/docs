@@ -88,7 +88,7 @@ The most frequent other feature values with which `ADJ` and `Polarity` co-occurr
 
 1857 <tt><a href="cs_cltt-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `Polarity`.
 
-The most frequent other feature values with which `VERB` and `Polarity` co-occurred: <tt><a href="cs_cltt-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (1542; 83%), <tt><a href="cs_cltt-feat-Person.html">Person</a></tt><tt>=3</tt> (1426; 77%), <tt><a href="cs_cltt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (1426; 77%), <tt><a href="cs_cltt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (1426; 77%), <tt><a href="cs_cltt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (1426; 77%), <tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1010; 54%).
+The most frequent other feature values with which `VERB` and `Polarity` co-occurred: <tt><a href="cs_cltt-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (1542; 83%), <tt><a href="cs_cltt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (1426; 77%), <tt><a href="cs_cltt-feat-Person.html">Person</a></tt><tt>=3</tt> (1426; 77%), <tt><a href="cs_cltt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (1426; 77%), <tt><a href="cs_cltt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (1426; 77%), <tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1010; 54%).
 
 `VERB` tokens may have the following values of `Polarity`:
 
@@ -107,7 +107,7 @@ The most frequent other feature values with which `VERB` and `Polarity` co-occur
 
 544 <tt><a href="cs_cltt-pos-AUX.html">AUX</a></tt> tokens (95% of all `AUX` tokens) have a non-empty value of `Polarity`.
 
-The most frequent other feature values with which `AUX` and `Polarity` co-occurred: <tt><a href="cs_cltt-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (497; 91%), <tt><a href="cs_cltt-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (485; 89%), <tt><a href="cs_cltt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (438; 81%), <tt><a href="cs_cltt-feat-Person.html">Person</a></tt><tt>=3</tt> (438; 81%), <tt><a href="cs_cltt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (438; 81%), <tt><a href="cs_cltt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (417; 77%).
+The most frequent other feature values with which `AUX` and `Polarity` co-occurred: <tt><a href="cs_cltt-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (497; 91%), <tt><a href="cs_cltt-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (485; 89%), <tt><a href="cs_cltt-feat-Person.html">Person</a></tt><tt>=3</tt> (438; 81%), <tt><a href="cs_cltt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (438; 81%), <tt><a href="cs_cltt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (438; 81%), <tt><a href="cs_cltt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (417; 77%).
 
 `AUX` tokens may have the following values of `Polarity`:
 
@@ -151,7 +151,7 @@ The most frequent other feature values with which `ADV` and `Polarity` co-occurr
 
 18 <tt><a href="cs_cltt-pos-DET.html">DET</a></tt> tokens (2% of all `DET` tokens) have a non-empty value of `Polarity`.
 
-The most frequent other feature values with which `DET` and `Polarity` co-occurred: <tt><a href="cs_cltt-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (18; 100%), <tt><a href="cs_cltt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (18; 100%), <tt><a href="cs_cltt-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (18; 100%), <tt><a href="cs_cltt-feat-PronType.html">PronType</a></tt><tt>=Tot</tt> (18; 100%), <tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (18; 100%), <tt><a href="cs_cltt-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (11; 61%).
+The most frequent other feature values with which `DET` and `Polarity` co-occurred: <tt><a href="cs_cltt-feat-PronType.html">PronType</a></tt><tt>=Tot</tt> (18; 100%), <tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (18; 100%), <tt><a href="cs_cltt-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (18; 100%), <tt><a href="cs_cltt-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (18; 100%), <tt><a href="cs_cltt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (18; 100%), <tt><a href="cs_cltt-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (11; 61%).
 
 `DET` tokens may have the following values of `Polarity`:
 
@@ -165,7 +165,7 @@ The 10 most frequent relations where parent and child node agree in `Polarity`:
 <tt>NOUN --[<tt><a href="cs_cltt-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (4098; 100%),
 <tt>NOUN --[<tt><a href="cs_cltt-dep-conj.html">conj</a></tt>]--> NOUN</tt> (1809; 100%),
 <tt>VERB --[<tt><a href="cs_cltt-dep-obl.html">obl</a></tt>]--> NOUN</tt> (839; 91%),
-<tt>VERB --[<tt><a href="cs_cltt-dep-obj.html">obj</a></tt>]--> NOUN</tt> (836; 90%),
+<tt>VERB --[<tt><a href="cs_cltt-dep-obj.html">obj</a></tt>]--> NOUN</tt> (777; 90%),
 <tt>VERB --[<tt><a href="cs_cltt-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (606; 87%),
 <tt>ADJ --[<tt><a href="cs_cltt-dep-obl.html">obl</a></tt>]--> NOUN</tt> (572; 96%),
 <tt>NOUN --[<tt><a href="cs_cltt-dep-acl.html">acl</a></tt>]--> VERB</tt> (376; 91%),

@@ -19,7 +19,7 @@ The feature is used with 3 part-of-speech tags: <tt><a href="cs_cltt-pos-DET.htm
 
 1194 <tt><a href="cs_cltt-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `DET` and `PronType` co-occurred: <tt><a href="cs_cltt-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (978; 82%), <tt><a href="cs_cltt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (978; 82%), <tt><a href="cs_cltt-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (954; 80%), <tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (639; 54%).
+The most frequent other feature values with which `DET` and `PronType` co-occurred: <tt><a href="cs_cltt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (978; 82%), <tt><a href="cs_cltt-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (978; 82%), <tt><a href="cs_cltt-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (954; 80%), <tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (639; 54%).
 
 `DET` tokens may have the following values of `PronType`:
 

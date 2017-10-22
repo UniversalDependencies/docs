@@ -19,7 +19,7 @@ The feature is used with 2 part-of-speech tags: <tt><a href="cs_cac-pos-NUM.html
 
 1962 <tt><a href="cs_cac-pos-NUM.html">NUM</a></tt> tokens (27% of all `NUM` tokens) have a non-empty value of `NumValue`.
 
-The most frequent other feature values with which `NUM` and `NumValue` co-occurred: <tt><a href="cs_cac-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (1962; 100%), <tt><a href="cs_cac-feat-NumForm.html">NumForm</a></tt><tt>=Word</tt> (1962; 100%), <tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Plur</tt> (1120; 57%).
+The most frequent other feature values with which `NUM` and `NumValue` co-occurred: <tt><a href="cs_cac-feat-NumForm.html">NumForm</a></tt><tt>=Word</tt> (1962; 100%), <tt><a href="cs_cac-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (1962; 100%), <tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Plur</tt> (1120; 57%).
 
 `NUM` tokens may have the following values of `NumValue`:
 
@@ -29,7 +29,7 @@ The most frequent other feature values with which `NUM` and `NumValue` co-occurr
 
 10 <tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt> tokens (0% of all `ADJ` tokens) have a non-empty value of `NumValue`.
 
-The most frequent other feature values with which `ADJ` and `NumValue` co-occurred: <tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (10; 100%), <tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Plur</tt> (10; 100%), <tt><a href="cs_cac-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (10; 100%), <tt><a href="cs_cac-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (7; 70%), <tt><a href="cs_cac-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (6; 60%).
+The most frequent other feature values with which `ADJ` and `NumValue` co-occurred: <tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Plur</tt> (10; 100%), <tt><a href="cs_cac-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (10; 100%), <tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (10; 100%), <tt><a href="cs_cac-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (7; 70%), <tt><a href="cs_cac-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (6; 60%).
 
 `ADJ` tokens may have the following values of `NumValue`:
 

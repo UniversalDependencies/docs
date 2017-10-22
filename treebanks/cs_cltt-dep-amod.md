@@ -103,7 +103,7 @@ The following 7 pairs of parts of speech are connected with `amod`: <tt><a href=
 8	vztahuje	vztahovat	VERB	VB-S---3P-AA---	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 9	na	na	ADP	RR--4----------	AdpType=Prep|Case=Acc	11	case	_	LId=na-1
 10	všechny	všechen	DET	PLFP4----------	Case=Acc|Gender=Fem|Number=Plur|PronType=Tot	11	det	_	_
-11	informace	informace	NOUN	NNFP4-----A----	Case=Acc|Gender=Fem|Number=Plur|Polarity=Pos	8	obj	_	_
+11	informace	informace	NOUN	NNFP4-----A----	Case=Acc|Gender=Fem|Number=Plur|Polarity=Pos	8	obl:arg	_	_
 12	účetní	účetní	ADJ	AAFS2----1A----	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	13	amod	_	LId=účetní-1
 13	závěrky	závěrka	NOUN	NNFS2-----A----	Case=Gen|Gender=Fem|Number=Sing|Polarity=Pos	11	nmod	_	_
 14	i	i	CCONJ	J^-------------	_	16	cc	_	LId=i-1

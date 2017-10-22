@@ -29,7 +29,7 @@ The most frequent other feature values with which `DET` and `Poss` co-occurred: 
 
 1 <tt><a href="cs_cltt-pos-ADJ.html">ADJ</a></tt> tokens (0% of all `ADJ` tokens) have a non-empty value of `Poss`.
 
-The most frequent other feature values with which `ADJ` and `Poss` co-occurred: <tt><a href="cs_cltt-feat-Case.html">Case</a></tt><tt>=Nom</tt> (1; 100%), <tt><a href="cs_cltt-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt> (1; 100%), <tt><a href="cs_cltt-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Plur</tt> (1; 100%), <tt><a href="cs_cltt-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="cs_cltt-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (1; 100%).
+The most frequent other feature values with which `ADJ` and `Poss` co-occurred: <tt><a href="cs_cltt-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="cs_cltt-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="cs_cltt-feat-Case.html">Case</a></tt><tt>=Nom</tt> (1; 100%), <tt><a href="cs_cltt-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt> (1; 100%), <tt><a href="cs_cltt-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (1; 100%), <tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Plur</tt> (1; 100%).
 
 `ADJ` tokens may have the following values of `Poss`:
 

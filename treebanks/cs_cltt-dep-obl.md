@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Czech-CLTT: Relations: `obl`
 
 This relation is universal.
-There are 1 language-specific subtypes of `obl`: <tt><a href="cs_cltt-dep-obl-arg.html">obl:arg</a></tt>.
+There are 2 language-specific subtypes of `obl`: <tt><a href="cs_cltt-dep-obl-agent.html">obl:agent</a></tt>, <tt><a href="cs_cltt-dep-obl-arg.html">obl:arg</a></tt>.
 
 1866 nodes (5%) are attached to their parents as `obl`.
 
@@ -65,7 +65,7 @@ The following 20 pairs of parts of speech are connected with `obl`: <tt><a href=
 # visual-style 10	bgColor:blue
 # visual-style 10	fgColor:white
 # visual-style 10 9 obl	color:blue
-1	Výrobou	výroba	NOUN	NNFS7-----A----	Case=Ins|Gender=Fem|Number=Sing|Polarity=Pos	3	obj	_	_
+1	Výrobou	výroba	NOUN	NNFS7-----A----	Case=Ins|Gender=Fem|Number=Sing|Polarity=Pos	3	obl:agent	_	_
 2	se	se	PRON	P7-X4----------	Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short	3	expl:pass	_	_
 3	rozumí	rozumět	VERB	VB-S---3P-AA---	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 4	i	i	CCONJ	J^-------------	_	6	advmod:emph	_	LId=i-1

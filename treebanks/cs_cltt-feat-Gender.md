@@ -121,7 +121,7 @@ The most frequent other feature values with which `DET` and `Gender` co-occurred
 
 116 <tt><a href="cs_cltt-pos-VERB.html">VERB</a></tt> tokens (6% of all `VERB` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `VERB` and `Gender` co-occurred: <tt><a href="cs_cltt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (116; 100%), <tt><a href="cs_cltt-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (116; 100%), <tt><a href="cs_cltt-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (116; 100%), <tt><a href="cs_cltt-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (115; 99%), <tt><a href="cs_cltt-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (115; 99%), <tt><a href="cs_cltt-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (106; 91%).
+The most frequent other feature values with which `VERB` and `Gender` co-occurred: <tt><a href="cs_cltt-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (116; 100%), <tt><a href="cs_cltt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (116; 100%), <tt><a href="cs_cltt-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (116; 100%), <tt><a href="cs_cltt-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (115; 99%), <tt><a href="cs_cltt-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (115; 99%), <tt><a href="cs_cltt-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (106; 91%).
 
 `VERB` tokens may have the following values of `Gender`:
 
@@ -164,7 +164,7 @@ The most frequent other feature values with which `PRON` and `Gender` co-occurre
 
 59 <tt><a href="cs_cltt-pos-AUX.html">AUX</a></tt> tokens (10% of all `AUX` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `AUX` and `Gender` co-occurred: <tt><a href="cs_cltt-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (59; 100%), <tt><a href="cs_cltt-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (59; 100%), <tt><a href="cs_cltt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (59; 100%), <tt><a href="cs_cltt-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (59; 100%), <tt><a href="cs_cltt-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (59; 100%), <tt><a href="cs_cltt-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (47; 80%).
+The most frequent other feature values with which `AUX` and `Gender` co-occurred: <tt><a href="cs_cltt-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (59; 100%), <tt><a href="cs_cltt-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (59; 100%), <tt><a href="cs_cltt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (59; 100%), <tt><a href="cs_cltt-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (59; 100%), <tt><a href="cs_cltt-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (59; 100%), <tt><a href="cs_cltt-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (47; 80%).
 
 `AUX` tokens may have the following values of `Gender`:
 
@@ -188,7 +188,7 @@ The most frequent other feature values with which `AUX` and `Gender` co-occurred
 
 46 <tt><a href="cs_cltt-pos-NUM.html">NUM</a></tt> tokens (10% of all `NUM` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `NUM` and `Gender` co-occurred: <tt><a href="cs_cltt-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (46; 100%), <tt><a href="cs_cltt-feat-NumValue.html">NumValue</a></tt><tt>=1,2,3</tt> (46; 100%), <tt><a href="cs_cltt-feat-NumForm.html">NumForm</a></tt><tt>=Word</tt> (46; 100%), <tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (38; 83%).
+The most frequent other feature values with which `NUM` and `Gender` co-occurred: <tt><a href="cs_cltt-feat-NumForm.html">NumForm</a></tt><tt>=Word</tt> (46; 100%), <tt><a href="cs_cltt-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (46; 100%), <tt><a href="cs_cltt-feat-NumValue.html">NumValue</a></tt><tt>=1,2,3</tt> (46; 100%), <tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (38; 83%).
 
 `NUM` tokens may have the following values of `Gender`:
 
@@ -221,6 +221,6 @@ The 10 most frequent relations where parent and child node agree in `Gender`:
 <tt>VERB --[<tt><a href="cs_cltt-dep-conj.html">conj</a></tt>]--> VERB</tt> (11; 52%),
 <tt>DET --[<tt><a href="cs_cltt-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (9; 82%),
 <tt>ADJ --[<tt><a href="cs_cltt-dep-dep.html">dep</a></tt>]--> NOUN</tt> (6; 75%),
-<tt>ADJ --[<tt><a href="cs_cltt-dep-amod.html">amod</a></tt>]--> ADJ</tt> (5; 83%),
-<tt>ADJ --[<tt><a href="cs_cltt-dep-conj.html">conj</a></tt>]--> NOUN</tt> (4; 67%).
+<tt>ADJ --[<tt><a href="cs_cltt-dep-obj.html">obj</a></tt>]--> PRON</tt> (6; 55%),
+<tt>ADJ --[<tt><a href="cs_cltt-dep-amod.html">amod</a></tt>]--> ADJ</tt> (5; 83%).
 

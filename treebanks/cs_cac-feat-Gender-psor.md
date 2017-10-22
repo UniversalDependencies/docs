@@ -21,7 +21,7 @@ The feature is used with 2 part-of-speech tags: <tt><a href="cs_cac-pos-DET.html
 
 1574 <tt><a href="cs_cac-pos-DET.html">DET</a></tt> tokens (8% of all `DET` tokens) have a non-empty value of `Gender[psor]`.
 
-The most frequent other feature values with which `DET` and `Gender[psor]` co-occurred: <tt><a href="cs_cac-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt> (1574; 100%), <tt><a href="cs_cac-feat-Poss.html">Poss</a></tt><tt>=Yes</tt> (1574; 100%), <tt><a href="cs_cac-feat-Person.html">Person</a></tt><tt>=3</tt> (1574; 100%), <tt><a href="cs_cac-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (1536; 98%), <tt><a href="cs_cac-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (1350; 86%), <tt><a href="cs_cac-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (1180; 75%), <tt><a href="cs_cac-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1103; 70%), <tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (1001; 64%).
+The most frequent other feature values with which `DET` and `Gender[psor]` co-occurred: <tt><a href="cs_cac-feat-Poss.html">Poss</a></tt><tt>=Yes</tt> (1574; 100%), <tt><a href="cs_cac-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt> (1574; 100%), <tt><a href="cs_cac-feat-Person.html">Person</a></tt><tt>=3</tt> (1574; 100%), <tt><a href="cs_cac-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (1536; 98%), <tt><a href="cs_cac-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (1350; 86%), <tt><a href="cs_cac-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (1180; 75%), <tt><a href="cs_cac-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1103; 70%), <tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (1001; 64%).
 
 `DET` tokens may have the following values of `Gender[psor]`:
 

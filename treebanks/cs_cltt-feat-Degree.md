@@ -67,7 +67,7 @@ The most frequent other feature values with which `ADV` and `Degree` co-occurred
 
 18 <tt><a href="cs_cltt-pos-DET.html">DET</a></tt> tokens (2% of all `DET` tokens) have a non-empty value of `Degree`.
 
-The most frequent other feature values with which `DET` and `Degree` co-occurred: <tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (18; 100%), <tt><a href="cs_cltt-feat-PronType.html">PronType</a></tt><tt>=Tot</tt> (18; 100%), <tt><a href="cs_cltt-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (18; 100%), <tt><a href="cs_cltt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (18; 100%), <tt><a href="cs_cltt-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (18; 100%), <tt><a href="cs_cltt-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (11; 61%).
+The most frequent other feature values with which `DET` and `Degree` co-occurred: <tt><a href="cs_cltt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (18; 100%), <tt><a href="cs_cltt-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (18; 100%), <tt><a href="cs_cltt-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (18; 100%), <tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (18; 100%), <tt><a href="cs_cltt-feat-PronType.html">PronType</a></tt><tt>=Tot</tt> (18; 100%), <tt><a href="cs_cltt-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (11; 61%).
 
 `DET` tokens may have the following values of `Degree`:
 

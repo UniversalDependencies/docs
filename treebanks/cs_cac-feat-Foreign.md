@@ -57,7 +57,7 @@ The most frequent other feature values with which `ADP` and `Foreign` co-occurre
 
 37 <tt><a href="cs_cac-pos-PROPN.html">PROPN</a></tt> tokens (0% of all `PROPN` tokens) have a non-empty value of `Foreign`.
 
-The most frequent other feature values with which `PROPN` and `Foreign` co-occurred: <tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (37; 100%), <tt><a href="cs_cac-feat-Abbr.html">Abbr</a></tt><tt>=EMPTY</tt> (36; 97%), <tt><a href="cs_cac-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (30; 81%), <tt><a href="cs_cac-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (24; 65%), <tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (24; 65%).
+The most frequent other feature values with which `PROPN` and `Foreign` co-occurred: <tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (37; 100%), <tt><a href="cs_cac-feat-Abbr.html">Abbr</a></tt><tt>=EMPTY</tt> (36; 97%), <tt><a href="cs_cac-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (30; 81%), <tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (24; 65%), <tt><a href="cs_cac-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (24; 65%).
 
 `PROPN` tokens may have the following values of `Foreign`:
 
@@ -79,7 +79,7 @@ The most frequent other feature values with which `PROPN` and `Foreign` co-occur
 
 13 <tt><a href="cs_cac-pos-ADV.html">ADV</a></tt> tokens (0% of all `ADV` tokens) have a non-empty value of `Foreign`.
 
-The most frequent other feature values with which `ADV` and `Foreign` co-occurred: <tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (13; 100%), <tt><a href="cs_cac-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (13; 100%), <tt><a href="cs_cac-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (13; 100%).
+The most frequent other feature values with which `ADV` and `Foreign` co-occurred: <tt><a href="cs_cac-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (13; 100%), <tt><a href="cs_cac-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (13; 100%), <tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (13; 100%).
 
 `ADV` tokens may have the following values of `Foreign`:
 
@@ -95,13 +95,13 @@ The most frequent other feature values with which `PRON` and `Foreign` co-occurr
 `PRON` tokens may have the following values of `Foreign`:
 
 * `Yes` (8; 100% of non-empty `Foreign`): <em>eo, ipso, Tous, er, qua, they</em>
-* `EMPTY` (16024): <em>se, si, co, všech, je, nás, všechny, nám, jež, nich</em>
+* `EMPTY` (16025): <em>se, si, co, všech, je, nás, všechny, nám, jež, nich</em>
 
 ### `VERB`
 
 7 <tt><a href="cs_cac-pos-VERB.html">VERB</a></tt> tokens (0% of all `VERB` tokens) have a non-empty value of `Foreign`.
 
-The most frequent other feature values with which `VERB` and `Foreign` co-occurred: <tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (7; 100%), <tt><a href="cs_cac-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (7; 100%), <tt><a href="cs_cac-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (7; 100%), <tt><a href="cs_cac-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (4; 57%), <tt><a href="cs_cac-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (4; 57%), <tt><a href="cs_cac-feat-VerbForm.html">VerbForm</a></tt><tt>=Inf</tt> (4; 57%), <tt><a href="cs_cac-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (4; 57%), <tt><a href="cs_cac-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (4; 57%), <tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (4; 57%).
+The most frequent other feature values with which `VERB` and `Foreign` co-occurred: <tt><a href="cs_cac-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (7; 100%), <tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (7; 100%), <tt><a href="cs_cac-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (7; 100%), <tt><a href="cs_cac-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (4; 57%), <tt><a href="cs_cac-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (4; 57%), <tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (4; 57%), <tt><a href="cs_cac-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (4; 57%), <tt><a href="cs_cac-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (4; 57%), <tt><a href="cs_cac-feat-VerbForm.html">VerbForm</a></tt><tt>=Inf</tt> (4; 57%).
 
 `VERB` tokens may have the following values of `Foreign`:
 
@@ -112,12 +112,12 @@ The most frequent other feature values with which `VERB` and `Foreign` co-occurr
 
 5 <tt><a href="cs_cac-pos-DET.html">DET</a></tt> tokens (0% of all `DET` tokens) have a non-empty value of `Foreign`.
 
-The most frequent other feature values with which `DET` and `Foreign` co-occurred: <tt><a href="cs_cac-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (5; 100%), <tt><a href="cs_cac-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (5; 100%), <tt><a href="cs_cac-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (5; 100%), <tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt> (4; 80%), <tt><a href="cs_cac-feat-Gender.html">Gender</a></tt><tt>=Masc,Neut</tt> (3; 60%), <tt><a href="cs_cac-feat-Case.html">Case</a></tt><tt>=Gen</tt> (3; 60%), <tt><a href="cs_cac-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (3; 60%), <tt><a href="cs_cac-feat-Poss.html">Poss</a></tt><tt>=Yes</tt> (3; 60%).
+The most frequent other feature values with which `DET` and `Foreign` co-occurred: <tt><a href="cs_cac-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (5; 100%), <tt><a href="cs_cac-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (5; 100%), <tt><a href="cs_cac-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (5; 100%), <tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt> (4; 80%), <tt><a href="cs_cac-feat-Poss.html">Poss</a></tt><tt>=Yes</tt> (3; 60%), <tt><a href="cs_cac-feat-Case.html">Case</a></tt><tt>=Gen</tt> (3; 60%), <tt><a href="cs_cac-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (3; 60%), <tt><a href="cs_cac-feat-Gender.html">Gender</a></tt><tt>=Masc,Neut</tt> (3; 60%).
 
 `DET` tokens may have the following values of `Foreign`:
 
 * `Yes` (5; 100% of non-empty `Foreign`): <em>sui, hoc, quem</em>
-* `EMPTY` (20012): <em>to, které, jejich, jeho, který, která, tím, této, své, těchto</em>
+* `EMPTY` (20011): <em>to, které, jejich, jeho, který, která, tím, této, své, těchto</em>
 
 ### `CCONJ`
 
@@ -137,8 +137,8 @@ The 10 most frequent relations where parent and child node agree in `Foreign`:
 <tt>NOUN --[<tt><a href="cs_cac-dep-flat-foreign.html">flat:foreign</a></tt>]--> NOUN</tt> (14; 82%),
 <tt>ADJ --[<tt><a href="cs_cac-dep-flat-foreign.html">flat:foreign</a></tt>]--> NOUN</tt> (14; 100%),
 <tt>NOUN --[<tt><a href="cs_cac-dep-case.html">case</a></tt>]--> ADP</tt> (11; 52%),
-<tt>PROPN --[<tt><a href="cs_cac-dep-flat-foreign.html">flat:foreign</a></tt>]--> ADJ</tt> (7; 100%),
 <tt>ADJ --[<tt><a href="cs_cac-dep-conj.html">conj</a></tt>]--> ADJ</tt> (7; 88%),
+<tt>PROPN --[<tt><a href="cs_cac-dep-flat-foreign.html">flat:foreign</a></tt>]--> ADJ</tt> (7; 100%),
 <tt>NOUN --[<tt><a href="cs_cac-dep-flat-foreign.html">flat:foreign</a></tt>]--> PART</tt> (6; 100%),
 <tt>PROPN --[<tt><a href="cs_cac-dep-flat-foreign.html">flat:foreign</a></tt>]--> PROPN</tt> (5; 100%).
 

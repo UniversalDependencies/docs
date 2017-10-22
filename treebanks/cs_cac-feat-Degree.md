@@ -113,7 +113,7 @@ The most frequent other feature values with which `DET` and `Degree` co-occurred
 `DET` tokens may have the following values of `Degree`:
 
 * `Pos` (572; 100% of non-empty `Degree`): <em>každý, každé, každého, každá, každém, každou, každým, každému, každých, každej</em>
-* `EMPTY` (19445): <em>to, které, jejich, jeho, který, která, tím, této, své, těchto</em>
+* `EMPTY` (19444): <em>to, které, jejich, jeho, který, která, tím, této, své, těchto</em>
 
 ## Relations with Agreement in `Degree`
 
@@ -123,8 +123,8 @@ The 10 most frequent relations where parent and child node agree in `Degree`:
 <tt>ADJ --[<tt><a href="cs_cac-dep-appos.html">appos</a></tt>]--> ADJ</tt> (103; 84%),
 <tt>ADJ --[<tt><a href="cs_cac-dep-amod.html">amod</a></tt>]--> ADJ</tt> (51; 65%),
 <tt>ADJ --[<tt><a href="cs_cac-dep-dep.html">dep</a></tt>]--> ADJ</tt> (42; 58%),
-<tt>ADJ --[<tt><a href="cs_cac-dep-orphan.html">orphan</a></tt>]--> ADJ</tt> (17; 77%),
 <tt>ADJ --[<tt><a href="cs_cac-dep-csubj.html">csubj</a></tt>]--> ADJ</tt> (17; 52%),
+<tt>ADJ --[<tt><a href="cs_cac-dep-orphan.html">orphan</a></tt>]--> ADJ</tt> (17; 77%),
 <tt>ADJ --[<tt><a href="cs_cac-dep-cop.html">cop</a></tt>]--> ADJ</tt> (7; 100%),
 <tt>ADV --[<tt><a href="cs_cac-dep-appos.html">appos</a></tt>]--> ADV</tt> (6; 75%),
 <tt>ADJ --[<tt><a href="cs_cac-dep-flat-foreign.html">flat:foreign</a></tt>]--> ADJ</tt> (4; 100%).

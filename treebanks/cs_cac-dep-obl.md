@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Czech-CAC: Relations: `obl`
 
 This relation is universal.
-There are 1 language-specific subtypes of `obl`: <tt><a href="cs_cac-dep-obl-arg.html">obl:arg</a></tt>.
+There are 2 language-specific subtypes of `obl`: <tt><a href="cs_cac-dep-obl-agent.html">obl:agent</a></tt>, <tt><a href="cs_cac-dep-obl-arg.html">obl:arg</a></tt>.
 
 27776 nodes (6%) are attached to their parents as `obl`.
 

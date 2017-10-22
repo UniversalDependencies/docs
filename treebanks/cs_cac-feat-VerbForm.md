@@ -146,6 +146,6 @@ The 10 most frequent relations where parent and child node agree in `VerbForm`:
 <tt>VERB --[<tt><a href="cs_cac-dep-orphan.html">orphan</a></tt>]--> VERB</tt> (21; 84%),
 <tt>VERB --[<tt><a href="cs_cac-dep-acl.html">acl</a></tt>]--> VERB</tt> (9; 56%),
 <tt>ADJ --[<tt><a href="cs_cac-dep-orphan.html">orphan</a></tt>]--> ADJ</tt> (5; 63%),
-<tt>ADJ --[<tt><a href="cs_cac-dep-advmod.html">advmod</a></tt>]--> ADJ</tt> (1; 100%),
+<tt>ADJ --[<tt><a href="cs_cac-dep-ccomp.html">ccomp</a></tt>]--> ADJ</tt> (1; 100%),
 <tt>ADJ --[<tt><a href="cs_cac-dep-acl.html">acl</a></tt>]--> ADJ</tt> (1; 100%).
 

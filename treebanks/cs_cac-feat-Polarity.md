@@ -279,12 +279,12 @@ The most frequent other feature values with which `PROPN` and `Polarity` co-occu
 
 572 <tt><a href="cs_cac-pos-DET.html">DET</a></tt> tokens (3% of all `DET` tokens) have a non-empty value of `Polarity`.
 
-The most frequent other feature values with which `DET` and `Polarity` co-occurred: <tt><a href="cs_cac-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (572; 100%), <tt><a href="cs_cac-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (572; 100%), <tt><a href="cs_cac-feat-PronType.html">PronType</a></tt><tt>=Tot</tt> (572; 100%), <tt><a href="cs_cac-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (572; 100%), <tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt> (563; 98%), <tt><a href="cs_cac-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (357; 62%).
+The most frequent other feature values with which `DET` and `Polarity` co-occurred: <tt><a href="cs_cac-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (572; 100%), <tt><a href="cs_cac-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (572; 100%), <tt><a href="cs_cac-feat-PronType.html">PronType</a></tt><tt>=Tot</tt> (572; 100%), <tt><a href="cs_cac-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (572; 100%), <tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt> (563; 98%), <tt><a href="cs_cac-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (357; 62%).
 
 `DET` tokens may have the following values of `Polarity`:
 
 * `Pos` (572; 100% of non-empty `Polarity`): <em>každý, každé, každého, každá, každém, každou, každým, každému, každých, každej</em>
-* `EMPTY` (19445): <em>to, které, jejich, jeho, který, která, tím, této, své, těchto</em>
+* `EMPTY` (19444): <em>to, které, jejich, jeho, který, která, tím, této, své, těchto</em>
 
 ## Relations with Agreement in `Polarity`
 
@@ -293,7 +293,7 @@ The 10 most frequent relations where parent and child node agree in `Polarity`:
 <tt>NOUN --[<tt><a href="cs_cac-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (44337; 100%),
 <tt>VERB --[<tt><a href="cs_cac-dep-obl.html">obl</a></tt>]--> NOUN</tt> (15673; 95%),
 <tt>NOUN --[<tt><a href="cs_cac-dep-conj.html">conj</a></tt>]--> NOUN</tt> (13990; 99%),
-<tt>VERB --[<tt><a href="cs_cac-dep-obj.html">obj</a></tt>]--> NOUN</tt> (13802; 95%),
+<tt>VERB --[<tt><a href="cs_cac-dep-obj.html">obj</a></tt>]--> NOUN</tt> (13523; 95%),
 <tt>VERB --[<tt><a href="cs_cac-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (11699; 92%),
 <tt>ADJ --[<tt><a href="cs_cac-dep-obl.html">obl</a></tt>]--> NOUN</tt> (5348; 98%),
 <tt>VERB --[<tt><a href="cs_cac-dep-conj.html">conj</a></tt>]--> VERB</tt> (5033; 88%),

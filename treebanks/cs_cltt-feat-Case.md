@@ -86,7 +86,7 @@ The most frequent other feature values with which `ADP` and `Case` co-occurred: 
 
 1004 <tt><a href="cs_cltt-pos-DET.html">DET</a></tt> tokens (84% of all `DET` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `DET` and `Case` co-occurred: <tt><a href="cs_cltt-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (977; 97%), <tt><a href="cs_cltt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (977; 97%), <tt><a href="cs_cltt-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (953; 95%), <tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (630; 63%).
+The most frequent other feature values with which `DET` and `Case` co-occurred: <tt><a href="cs_cltt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (977; 97%), <tt><a href="cs_cltt-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (977; 97%), <tt><a href="cs_cltt-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (953; 95%), <tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (630; 63%).
 
 `DET` tokens may have the following values of `Case`:
 
@@ -116,7 +116,7 @@ The most frequent other feature values with which `DET` and `Case` co-occurred: 
 
 631 <tt><a href="cs_cltt-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `PRON` and `Case` co-occurred: <tt><a href="cs_cltt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (560; 89%), <tt><a href="cs_cltt-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (546; 87%), <tt><a href="cs_cltt-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (541; 86%), <tt><a href="cs_cltt-feat-PrepCase.html">PrepCase</a></tt><tt>=EMPTY</tt> (538; 85%), <tt><a href="cs_cltt-feat-Reflex.html">Reflex</a></tt><tt>=Yes</tt> (475; 75%), <tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (475; 75%), <tt><a href="cs_cltt-feat-Variant.html">Variant</a></tt><tt>=Short</tt> (469; 74%).
+The most frequent other feature values with which `PRON` and `Case` co-occurred: <tt><a href="cs_cltt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (560; 89%), <tt><a href="cs_cltt-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (546; 87%), <tt><a href="cs_cltt-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (541; 86%), <tt><a href="cs_cltt-feat-PrepCase.html">PrepCase</a></tt><tt>=EMPTY</tt> (538; 85%), <tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (475; 75%), <tt><a href="cs_cltt-feat-Reflex.html">Reflex</a></tt><tt>=Yes</tt> (475; 75%), <tt><a href="cs_cltt-feat-Variant.html">Variant</a></tt><tt>=Short</tt> (469; 74%).
 
 `PRON` tokens may have the following values of `Case`:
 
@@ -129,10 +129,10 @@ The most frequent other feature values with which `PRON` and `Case` co-occurred:
 
 <table>
   <tr><th>Paradigm <i>jenž</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th><th><tt>Gen</tt></th><th><tt>Loc</tt></th><th><tt>Ins</tt></th></tr>
-  <tr><td><tt><tt><a href="cs_cltt-feat-Gender.html">Gender</a></tt><tt>=Masc,Neut</tt>|<tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>nějž</em></td><td><em>němuž</em></td><td><em>jehož</em></td><td><em>němž</em></td><td><em>jímž, nímž</em></td></tr>
+  <tr><td><tt><tt><a href="cs_cltt-feat-Gender.html">Gender</a></tt><tt>=Masc,Neut</tt>|<tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>nějž</em></td><td><em>němuž</em></td><td><em>jehož</em></td><td><em>němž</em></td><td><em>nímž, jímž</em></td></tr>
   <tr><td><tt><tt><a href="cs_cltt-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>jenž</em></td><td></td><td></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="cs_cltt-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>jež</em></td><td><em>niž</em></td><td></td><td></td><td><em>níž</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>něž, jež</em></td><td><em>nimž</em></td><td><em>nichž</em></td><td><em>nichž</em></td><td><em>jimiž</em></td></tr>
+  <tr><td><tt><tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>jež, něž</em></td><td><em>nimž</em></td><td><em>nichž</em></td><td><em>nichž</em></td><td><em>jimiž</em></td></tr>
 </table>
 
 ### `NUM`

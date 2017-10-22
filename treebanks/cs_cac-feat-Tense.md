@@ -56,7 +56,7 @@ The most frequent other feature values with which `VERB` and `Tense` co-occurred
 
 11531 <tt><a href="cs_cac-pos-AUX.html">AUX</a></tt> tokens (81% of all `AUX` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `AUX` and `Tense` co-occurred: <tt><a href="cs_cac-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (11531; 100%), <tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (10642; 92%), <tt><a href="cs_cac-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (9081; 79%), <tt><a href="cs_cac-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (9079; 79%), <tt><a href="cs_cac-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (9079; 79%), <tt><a href="cs_cac-feat-Person.html">Person</a></tt><tt>=3</tt> (7991; 69%), <tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt> (7777; 67%).
+The most frequent other feature values with which `AUX` and `Tense` co-occurred: <tt><a href="cs_cac-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (11531; 100%), <tt><a href="cs_cac-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (10642; 92%), <tt><a href="cs_cac-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (9081; 79%), <tt><a href="cs_cac-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (9079; 79%), <tt><a href="cs_cac-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (9079; 79%), <tt><a href="cs_cac-feat-Person.html">Person</a></tt><tt>=3</tt> (7991; 69%), <tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt> (7777; 67%).
 
 `AUX` tokens may have the following values of `Tense`:
 

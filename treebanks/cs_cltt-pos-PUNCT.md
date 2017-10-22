@@ -13,7 +13,7 @@ The 10 most frequent `PUNCT` lemmas: <em>,, ., ", ;, (, ), (1), (2), (3), (4)</e
 
 The 10 most frequent `PUNCT` types:  <em>,, ., ", ;, (, ), (1), (2), (3), (4)</em>
 
-The 10 most frequent ambiguous lemmas: <em>/</em> (<tt><a href="cs_cltt-pos-SYM.html">SYM</a></tt> 2, <tt><a href="cs_cltt-pos-PUNCT.html">PUNCT</a></tt> 2)
+The 10 most frequent ambiguous lemmas: <em>/</em> (<tt><a href="cs_cltt-pos-PUNCT.html">PUNCT</a></tt> 2, <tt><a href="cs_cltt-pos-SYM.html">SYM</a></tt> 2)
 
 The 10 most frequent ambiguous types:  <em>/</em> (<tt><a href="cs_cltt-pos-SYM.html">SYM</a></tt> 2, <tt><a href="cs_cltt-pos-PUNCT.html">PUNCT</a></tt> 2)
 

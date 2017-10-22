@@ -80,7 +80,7 @@ The most frequent other feature values with which `DET` and `Person` co-occurred
 * `1` (1193; 30% of non-empty `Person`): <em>naší, naše, našeho, našich, našem, naši, náš, naším, mého, můj</em>
 * `2` (90; 2% of non-empty `Person`): <em>vaše, vaší, vašeho, vaši, váš, vašich, vašem, vašemu, Vašimi, tvoje</em>
 * `3` (2648; 67% of non-empty `Person`): <em>jejich, jeho, její, jehož, jejichž, jejíž, jejím, jejího, jejích, jejímž</em>
-* `EMPTY` (16086): <em>to, které, který, která, tím, této, své, těchto, tyto, tom</em>
+* `EMPTY` (16085): <em>to, které, který, která, tím, této, své, těchto, tyto, tom</em>
 
 ### `PRON`
 
@@ -93,7 +93,7 @@ The most frequent other feature values with which `PRON` and `Person` co-occurre
 * `1` (995; 29% of non-empty `Person`): <em>nás, nám, mi, já, my, mě, mne, mně, námi, mnou</em>
 * `2` (192; 6% of non-empty `Person`): <em>vám, vás, vy, ti, tě, ty, vámi, tebe, tebou, sis</em>
 * `3` (2268; 66% of non-empty `Person`): <em>je, nich, ji, jim, mu, ho, ní, jej, ně, něm</em>
-* `EMPTY` (12577): <em>se, si, co, všech, všechny, jež, nichž, což, sebe, níž</em>
+* `EMPTY` (12578): <em>se, si, co, všech, všechny, jež, nichž, což, sebe, níž</em>
 
 ## Relations with Agreement in `Person`
 
@@ -101,7 +101,8 @@ The 10 most frequent relations where parent and child node agree in `Person`:
 <tt>VERB --[<tt><a href="cs_cac-dep-conj.html">conj</a></tt>]--> VERB</tt> (2741; 79%),
 <tt>VERB --[<tt><a href="cs_cac-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (706; 50%),
 <tt>VERB --[<tt><a href="cs_cac-dep-appos.html">appos</a></tt>]--> VERB</tt> (14; 78%),
+<tt>VERB --[<tt><a href="cs_cac-dep-obl-agent.html">obl:agent</a></tt>]--> PRON</tt> (4; 80%),
 <tt>VERB --[<tt><a href="cs_cac-dep-xcomp.html">xcomp</a></tt>]--> PRON</tt> (2; 67%),
-<tt>VERB --[<tt><a href="cs_cac-dep-vocative.html">vocative</a></tt>]--> PRON</tt> (1; 100%),
-<tt>VERB --[<tt><a href="cs_cac-dep-flat-foreign.html">flat:foreign</a></tt>]--> PRON</tt> (1; 100%).
+<tt>VERB --[<tt><a href="cs_cac-dep-flat-foreign.html">flat:foreign</a></tt>]--> PRON</tt> (1; 100%),
+<tt>VERB --[<tt><a href="cs_cac-dep-vocative.html">vocative</a></tt>]--> PRON</tt> (1; 100%).
 

@@ -117,7 +117,7 @@ References
 
 ## Relations
 
-[acl](cs_cac-dep-acl.html) – [advcl](cs_cac-dep-advcl.html) – [advmod](cs_cac-dep-advmod.html) – [advmod:emph](cs_cac-dep-advmod-emph.html) – [amod](cs_cac-dep-amod.html) – [appos](cs_cac-dep-appos.html) – [aux](cs_cac-dep-aux.html) – [aux:pass](cs_cac-dep-aux-pass.html) – [case](cs_cac-dep-case.html) – [cc](cs_cac-dep-cc.html) – [ccomp](cs_cac-dep-ccomp.html) – [compound](cs_cac-dep-compound.html) – [conj](cs_cac-dep-conj.html) – [cop](cs_cac-dep-cop.html) – [csubj](cs_cac-dep-csubj.html) – [csubj:pass](cs_cac-dep-csubj-pass.html) – [dep](cs_cac-dep-dep.html) – [det](cs_cac-dep-det.html) – [det:numgov](cs_cac-dep-det-numgov.html) – [det:nummod](cs_cac-dep-det-nummod.html) – [discourse](cs_cac-dep-discourse.html) – [expl:pass](cs_cac-dep-expl-pass.html) – [expl:pv](cs_cac-dep-expl-pv.html) – [fixed](cs_cac-dep-fixed.html) – [flat](cs_cac-dep-flat.html) – [flat:foreign](cs_cac-dep-flat-foreign.html) – [iobj](cs_cac-dep-iobj.html) – [mark](cs_cac-dep-mark.html) – [nmod](cs_cac-dep-nmod.html) – [nsubj](cs_cac-dep-nsubj.html) – [nsubj:pass](cs_cac-dep-nsubj-pass.html) – [nummod](cs_cac-dep-nummod.html) – [nummod:gov](cs_cac-dep-nummod-gov.html) – [obj](cs_cac-dep-obj.html) – [obl](cs_cac-dep-obl.html) – [obl:arg](cs_cac-dep-obl-arg.html) – [orphan](cs_cac-dep-orphan.html) – [parataxis](cs_cac-dep-parataxis.html) – [punct](cs_cac-dep-punct.html) – [root](cs_cac-dep-root.html) – [vocative](cs_cac-dep-vocative.html) – [xcomp](cs_cac-dep-xcomp.html)
+[acl](cs_cac-dep-acl.html) – [advcl](cs_cac-dep-advcl.html) – [advmod](cs_cac-dep-advmod.html) – [advmod:emph](cs_cac-dep-advmod-emph.html) – [amod](cs_cac-dep-amod.html) – [appos](cs_cac-dep-appos.html) – [aux](cs_cac-dep-aux.html) – [aux:pass](cs_cac-dep-aux-pass.html) – [case](cs_cac-dep-case.html) – [cc](cs_cac-dep-cc.html) – [ccomp](cs_cac-dep-ccomp.html) – [compound](cs_cac-dep-compound.html) – [conj](cs_cac-dep-conj.html) – [cop](cs_cac-dep-cop.html) – [csubj](cs_cac-dep-csubj.html) – [csubj:pass](cs_cac-dep-csubj-pass.html) – [dep](cs_cac-dep-dep.html) – [det](cs_cac-dep-det.html) – [det:numgov](cs_cac-dep-det-numgov.html) – [det:nummod](cs_cac-dep-det-nummod.html) – [discourse](cs_cac-dep-discourse.html) – [expl:pass](cs_cac-dep-expl-pass.html) – [expl:pv](cs_cac-dep-expl-pv.html) – [fixed](cs_cac-dep-fixed.html) – [flat](cs_cac-dep-flat.html) – [flat:foreign](cs_cac-dep-flat-foreign.html) – [iobj](cs_cac-dep-iobj.html) – [mark](cs_cac-dep-mark.html) – [nmod](cs_cac-dep-nmod.html) – [nsubj](cs_cac-dep-nsubj.html) – [nsubj:pass](cs_cac-dep-nsubj-pass.html) – [nummod](cs_cac-dep-nummod.html) – [nummod:gov](cs_cac-dep-nummod-gov.html) – [obj](cs_cac-dep-obj.html) – [obl](cs_cac-dep-obl.html) – [obl:agent](cs_cac-dep-obl-agent.html) – [obl:arg](cs_cac-dep-obl-arg.html) – [orphan](cs_cac-dep-orphan.html) – [parataxis](cs_cac-dep-parataxis.html) – [punct](cs_cac-dep-punct.html) – [root](cs_cac-dep-root.html) – [vocative](cs_cac-dep-vocative.html) – [xcomp](cs_cac-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
@@ -642,8 +642,8 @@ References
     <li>Neg
       <ul>
         <li>ADV: nikdy, nijak, nikde, nikam</li>
-        <li>DET: žádné, žádný, žádná, žádnou, žádném, žádných, žádným, žádného, žádnému, pražádnou</li>
-        <li>PRON: nic, nikdo, nikoho, ničím, nikomu, ničeho, ničemu, nikým, ničem</li>
+        <li>DET: žádné, žádný, žádná, žádnou, žádném, žádných, žádným, žádného, žádnému, žádnými</li>
+        <li>PRON: nic, nikdo, nikoho, ničím, nikomu, ničeho, ničemu, nikým, ničem, pražádnou</li>
       </ul>
     </li>
     <li>Prs
@@ -1126,58 +1126,25 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Conv--PRON-Acc (1)</li>
       <li>VERB-Fin--NOUN (3)</li>
       <li>VERB-Fin--NOUN-Acc (5611)</li>
-      <li>VERB-Fin--NOUN-Acc-ADP(na) (24)</li>
-      <li>VERB-Fin--NOUN-Acc-ADP(o) (48)</li>
-      <li>VERB-Fin--NOUN-Acc-ADP(pro) (2)</li>
-      <li>VERB-Fin--NOUN-Acc-ADP(za) (6)</li>
       <li>VERB-Fin--NOUN-Dat (341)</li>
-      <li>VERB-Fin--NOUN-Dat-ADP(až) (2)</li>
-      <li>VERB-Fin--NOUN-Dat-ADP(k) (21)</li>
-      <li>VERB-Fin--NOUN-Dat-ADP(proti) (1)</li>
       <li>VERB-Fin--NOUN-Gen (445)</li>
-      <li>VERB-Fin--NOUN-Gen-ADP(od) (2)</li>
-      <li>VERB-Fin--NOUN-Gen-ADP(u) (1)</li>
-      <li>VERB-Fin--NOUN-Gen-ADP(z) (9)</li>
-      <li>VERB-Fin--NOUN-Ins (280)</li>
-      <li>VERB-Fin--NOUN-Ins-ADP(*) (1)</li>
-      <li>VERB-Fin--NOUN-Ins-ADP(mezi) (1)</li>
-      <li>VERB-Fin--NOUN-Ins-ADP(nad) (1)</li>
-      <li>VERB-Fin--NOUN-Ins-ADP(s) (13)</li>
-      <li>VERB-Fin--NOUN-Loc-ADP(na) (10)</li>
-      <li>VERB-Fin--NOUN-Loc-ADP(o) (14)</li>
-      <li>VERB-Fin--NOUN-Loc-ADP(po) (1)</li>
-      <li>VERB-Fin--NOUN-Loc-ADP(při) (1)</li>
-      <li>VERB-Fin--NOUN-Loc-ADP(v) (1)</li>
+      <li>VERB-Fin--NOUN-Ins (234)</li>
       <li>VERB-Fin--NOUN-Nom (99)</li>
       <li>VERB-Fin--PRON (18)</li>
       <li>VERB-Fin--PRON-Acc (612)</li>
-      <li>VERB-Fin--PRON-Acc-ADP(na) (2)</li>
+      <li>VERB-Fin--PRON-Acc-ADP(na) (1)</li>
       <li>VERB-Fin--PRON-Acc-ADP(o) (2)</li>
       <li>VERB-Fin--PRON-Acc-ADP(za) (1)</li>
       <li>VERB-Fin--PRON-Dat (205)</li>
       <li>VERB-Fin--PRON-Gen (20)</li>
-      <li>VERB-Fin--PRON-Ins (16)</li>
+      <li>VERB-Fin--PRON-Ins (11)</li>
       <li>VERB-Fin--PRON-Nom (7)</li>
       <li>VERB-Inf--NOUN (5)</li>
       <li>VERB-Inf--NOUN-Acc (3542)</li>
-      <li>VERB-Inf--NOUN-Acc-ADP(na) (7)</li>
-      <li>VERB-Inf--NOUN-Acc-ADP(o) (3)</li>
-      <li>VERB-Inf--NOUN-Acc-ADP(pro) (2)</li>
-      <li>VERB-Inf--NOUN-Acc-ADP(za) (2)</li>
       <li>VERB-Inf--NOUN-Dat (133)</li>
-      <li>VERB-Inf--NOUN-Dat-ADP(k) (8)</li>
-      <li>VERB-Inf--NOUN-Dat-ADP(proti) (1)</li>
       <li>VERB-Inf--NOUN-Gen (219)</li>
-      <li>VERB-Inf--NOUN-Gen-ADP(*) (1)</li>
-      <li>VERB-Inf--NOUN-Gen-ADP(od) (1)</li>
-      <li>VERB-Inf--NOUN-Gen-ADP(z) (5)</li>
       <li>VERB-Inf--NOUN-Ins (61)</li>
-      <li>VERB-Inf--NOUN-Ins-ADP(mezi) (2)</li>
-      <li>VERB-Inf--NOUN-Ins-ADP(před) (1)</li>
-      <li>VERB-Inf--NOUN-Ins-ADP(s) (8)</li>
       <li>VERB-Inf--NOUN-Loc (2)</li>
-      <li>VERB-Inf--NOUN-Loc-ADP(na) (1)</li>
-      <li>VERB-Inf--NOUN-Loc-ADP(o) (2)</li>
       <li>VERB-Inf--NOUN-Nom (27)</li>
       <li>VERB-Inf--PRON (6)</li>
       <li>VERB-Inf--PRON-Acc (382)</li>
@@ -1187,24 +1154,9 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Inf--PRON-Nom (1)</li>
       <li>VERB-Part--NOUN (20)</li>
       <li>VERB-Part--NOUN-Acc (2780)</li>
-      <li>VERB-Part--NOUN-Acc-ADP(na) (8)</li>
-      <li>VERB-Part--NOUN-Acc-ADP(nehledě) (1)</li>
-      <li>VERB-Part--NOUN-Acc-ADP(o) (2)</li>
-      <li>VERB-Part--NOUN-Acc-ADP(v) (1)</li>
       <li>VERB-Part--NOUN-Dat (167)</li>
-      <li>VERB-Part--NOUN-Dat-ADP(až) (1)</li>
-      <li>VERB-Part--NOUN-Dat-ADP(k) (10)</li>
       <li>VERB-Part--NOUN-Gen (344)</li>
-      <li>VERB-Part--NOUN-Gen-ADP(bez) (1)</li>
-      <li>VERB-Part--NOUN-Gen-ADP(k) (1)</li>
-      <li>VERB-Part--NOUN-Gen-ADP(od) (1)</li>
-      <li>VERB-Part--NOUN-Gen-ADP(z) (1)</li>
-      <li>VERB-Part--NOUN-Ins (192)</li>
-      <li>VERB-Part--NOUN-Ins-ADP(s) (9)</li>
-      <li>VERB-Part--NOUN-Loc-ADP(na) (4)</li>
-      <li>VERB-Part--NOUN-Loc-ADP(o) (6)</li>
-      <li>VERB-Part--NOUN-Loc-ADP(při) (1)</li>
-      <li>VERB-Part--NOUN-Loc-ADP(v) (1)</li>
+      <li>VERB-Part--NOUN-Ins (191)</li>
       <li>VERB-Part--NOUN-Nom (16)</li>
       <li>VERB-Part--PRON (14)</li>
       <li>VERB-Part--PRON-Acc (372)</li>
@@ -1222,18 +1174,9 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
     <ul>
       <li>VERB-Fin--NOUN (3)</li>
       <li>VERB-Fin--NOUN-Acc (45)</li>
-      <li>VERB-Fin--NOUN-Acc-ADP(mezi) (1)</li>
-      <li>VERB-Fin--NOUN-Acc-ADP(na) (9)</li>
-      <li>VERB-Fin--NOUN-Acc-ADP(o) (1)</li>
-      <li>VERB-Fin--NOUN-Acc-ADP(pro) (1)</li>
-      <li>VERB-Fin--NOUN-Acc-ADP(za) (1)</li>
       <li>VERB-Fin--NOUN-Dat (173)</li>
       <li>VERB-Fin--NOUN-Gen (10)</li>
-      <li>VERB-Fin--NOUN-Gen-ADP(blízko) (1)</li>
-      <li>VERB-Fin--NOUN-Gen-ADP(z) (2)</li>
       <li>VERB-Fin--NOUN-Ins (53)</li>
-      <li>VERB-Fin--NOUN-Ins-ADP(před) (3)</li>
-      <li>VERB-Fin--NOUN-Loc-ADP(o) (1)</li>
       <li>VERB-Fin--NOUN-Nom (12)</li>
       <li>VERB-Fin--PRON-Acc (27)</li>
       <li>VERB-Fin--PRON-Dat (187)</li>
@@ -1242,32 +1185,17 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--PRON-Nom (2)</li>
       <li>VERB-Inf--NOUN (2)</li>
       <li>VERB-Inf--NOUN-Acc (19)</li>
-      <li>VERB-Inf--NOUN-Acc-ADP(na) (4)</li>
-      <li>VERB-Inf--NOUN-Acc-ADP(o) (1)</li>
-      <li>VERB-Inf--NOUN-Acc-ADP(za) (1)</li>
       <li>VERB-Inf--NOUN-Dat (160)</li>
-      <li>VERB-Inf--NOUN-Dat-ADP(k) (1)</li>
       <li>VERB-Inf--NOUN-Gen (8)</li>
-      <li>VERB-Inf--NOUN-Gen-ADP(do) (1)</li>
-      <li>VERB-Inf--NOUN-Gen-ADP(z) (1)</li>
       <li>VERB-Inf--NOUN-Ins (36)</li>
-      <li>VERB-Inf--NOUN-Ins-ADP(*) (1)</li>
-      <li>VERB-Inf--NOUN-Ins-ADP(před) (3)</li>
-      <li>VERB-Inf--NOUN-Ins-ADP(s) (5)</li>
       <li>VERB-Inf--NOUN-Nom (3)</li>
       <li>VERB-Inf--PRON-Acc (6)</li>
       <li>VERB-Inf--PRON-Dat (67)</li>
       <li>VERB-Part--NOUN (1)</li>
       <li>VERB-Part--NOUN-Acc (42)</li>
-      <li>VERB-Part--NOUN-Acc-ADP(na) (1)</li>
       <li>VERB-Part--NOUN-Dat (130)</li>
       <li>VERB-Part--NOUN-Gen (10)</li>
-      <li>VERB-Part--NOUN-Gen-ADP(od) (1)</li>
       <li>VERB-Part--NOUN-Ins (23)</li>
-      <li>VERB-Part--NOUN-Ins-ADP(s) (4)</li>
-      <li>VERB-Part--NOUN-Loc-ADP(na) (1)</li>
-      <li>VERB-Part--NOUN-Loc-ADP(o) (1)</li>
-      <li>VERB-Part--NOUN-Loc-ADP(v) (2)</li>
       <li>VERB-Part--NOUN-Nom (5)</li>
       <li>VERB-Part--PRON (2)</li>
       <li>VERB-Part--PRON-Acc (21)</li>
@@ -1281,7 +1209,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus uses 11 relation subtypes: <a>advmod:emph</a>, <a>aux:pass</a>, <a>csubj:pass</a>, <a>det:numgov</a>, <a>det:nummod</a>, <a>expl:pass</a>, <a>expl:pv</a>, <a>flat:foreign</a>, <a>nsubj:pass</a>, <a>nummod:gov</a>, <a>obl:arg</a></li>
+<li>This corpus uses 12 relation subtypes: <a>advmod:emph</a>, <a>aux:pass</a>, <a>csubj:pass</a>, <a>det:numgov</a>, <a>det:nummod</a>, <a>expl:pass</a>, <a>expl:pv</a>, <a>flat:foreign</a>, <a>nsubj:pass</a>, <a>nummod:gov</a>, <a>obl:agent</a>, <a>obl:arg</a></li>
 <li>The following 1 main types are not used alone, they are always subtyped: <a>expl</a></li>
 <li>The following 5 relation types are not used in this corpus at all: <a>dislocated</a>, <a>clf</a>, <a>list</a>, <a>goeswith</a>, <a>reparandum</a></li>
 </ul>

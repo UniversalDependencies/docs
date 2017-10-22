@@ -77,7 +77,7 @@ References
 
 ## Relations
 
-[acl](cs_cltt-dep-acl.html) – [advcl](cs_cltt-dep-advcl.html) – [advmod](cs_cltt-dep-advmod.html) – [advmod:emph](cs_cltt-dep-advmod-emph.html) – [amod](cs_cltt-dep-amod.html) – [appos](cs_cltt-dep-appos.html) – [aux](cs_cltt-dep-aux.html) – [aux:pass](cs_cltt-dep-aux-pass.html) – [case](cs_cltt-dep-case.html) – [cc](cs_cltt-dep-cc.html) – [ccomp](cs_cltt-dep-ccomp.html) – [compound](cs_cltt-dep-compound.html) – [conj](cs_cltt-dep-conj.html) – [cop](cs_cltt-dep-cop.html) – [csubj](cs_cltt-dep-csubj.html) – [csubj:pass](cs_cltt-dep-csubj-pass.html) – [dep](cs_cltt-dep-dep.html) – [det](cs_cltt-dep-det.html) – [det:nummod](cs_cltt-dep-det-nummod.html) – [expl:pass](cs_cltt-dep-expl-pass.html) – [expl:pv](cs_cltt-dep-expl-pv.html) – [fixed](cs_cltt-dep-fixed.html) – [iobj](cs_cltt-dep-iobj.html) – [mark](cs_cltt-dep-mark.html) – [nmod](cs_cltt-dep-nmod.html) – [nsubj](cs_cltt-dep-nsubj.html) – [nsubj:pass](cs_cltt-dep-nsubj-pass.html) – [nummod](cs_cltt-dep-nummod.html) – [nummod:gov](cs_cltt-dep-nummod-gov.html) – [obj](cs_cltt-dep-obj.html) – [obl](cs_cltt-dep-obl.html) – [obl:arg](cs_cltt-dep-obl-arg.html) – [orphan](cs_cltt-dep-orphan.html) – [parataxis](cs_cltt-dep-parataxis.html) – [punct](cs_cltt-dep-punct.html) – [root](cs_cltt-dep-root.html) – [xcomp](cs_cltt-dep-xcomp.html)
+[acl](cs_cltt-dep-acl.html) – [advcl](cs_cltt-dep-advcl.html) – [advmod](cs_cltt-dep-advmod.html) – [advmod:emph](cs_cltt-dep-advmod-emph.html) – [amod](cs_cltt-dep-amod.html) – [appos](cs_cltt-dep-appos.html) – [aux](cs_cltt-dep-aux.html) – [aux:pass](cs_cltt-dep-aux-pass.html) – [case](cs_cltt-dep-case.html) – [cc](cs_cltt-dep-cc.html) – [ccomp](cs_cltt-dep-ccomp.html) – [compound](cs_cltt-dep-compound.html) – [conj](cs_cltt-dep-conj.html) – [cop](cs_cltt-dep-cop.html) – [csubj](cs_cltt-dep-csubj.html) – [csubj:pass](cs_cltt-dep-csubj-pass.html) – [dep](cs_cltt-dep-dep.html) – [det](cs_cltt-dep-det.html) – [det:nummod](cs_cltt-dep-det-nummod.html) – [expl:pass](cs_cltt-dep-expl-pass.html) – [expl:pv](cs_cltt-dep-expl-pv.html) – [fixed](cs_cltt-dep-fixed.html) – [iobj](cs_cltt-dep-iobj.html) – [mark](cs_cltt-dep-mark.html) – [nmod](cs_cltt-dep-nmod.html) – [nsubj](cs_cltt-dep-nsubj.html) – [nsubj:pass](cs_cltt-dep-nsubj-pass.html) – [nummod](cs_cltt-dep-nummod.html) – [nummod:gov](cs_cltt-dep-nummod-gov.html) – [obj](cs_cltt-dep-obj.html) – [obl](cs_cltt-dep-obl.html) – [obl:agent](cs_cltt-dep-obl-agent.html) – [obl:arg](cs_cltt-dep-obl-arg.html) – [orphan](cs_cltt-dep-orphan.html) – [parataxis](cs_cltt-dep-parataxis.html) – [punct](cs_cltt-dep-punct.html) – [root](cs_cltt-dep-root.html) – [xcomp](cs_cltt-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
@@ -757,26 +757,18 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
   <li><a>obj</a>
     <ul>
       <li>VERB-Fin--NOUN-Acc (421)</li>
-      <li>VERB-Fin--NOUN-Acc-ADP(na) (3)</li>
-      <li>VERB-Fin--NOUN-Acc-ADP(o) (1)</li>
-      <li>VERB-Fin--NOUN-Acc-ADP(pro) (1)</li>
       <li>VERB-Fin--NOUN-Dat (24)</li>
-      <li>VERB-Fin--NOUN-Dat-ADP(k) (3)</li>
       <li>VERB-Fin--NOUN-Gen (44)</li>
-      <li>VERB-Fin--NOUN-Ins (54)</li>
+      <li>VERB-Fin--NOUN-Ins (7)</li>
       <li>VERB-Fin--NOUN-Loc (5)</li>
-      <li>VERB-Fin--NOUN-Loc-ADP(o) (4)</li>
       <li>VERB-Fin--NOUN-Nom (88)</li>
-      <li>VERB-Fin--NOUN-Nom-ADP(na) (1)</li>
       <li>VERB-Fin--PRON-Acc (12)</li>
       <li>VERB-Fin--PRON-Dat (1)</li>
       <li>VERB-Fin--PRON-Ins (1)</li>
       <li>VERB-Inf--NOUN-Acc (197)</li>
       <li>VERB-Inf--NOUN-Dat (5)</li>
-      <li>VERB-Inf--NOUN-Dat-ADP(k) (1)</li>
       <li>VERB-Inf--NOUN-Gen (8)</li>
       <li>VERB-Inf--NOUN-Ins (2)</li>
-      <li>VERB-Inf--NOUN-Loc-ADP(o) (2)</li>
       <li>VERB-Inf--NOUN-Nom (23)</li>
       <li>VERB-Inf--PRON-Acc (11)</li>
       <li>VERB-Part--NOUN-Acc (25)</li>
@@ -807,7 +799,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus uses 9 relation subtypes: <a>advmod:emph</a>, <a>aux:pass</a>, <a>csubj:pass</a>, <a>det:nummod</a>, <a>expl:pass</a>, <a>expl:pv</a>, <a>nsubj:pass</a>, <a>nummod:gov</a>, <a>obl:arg</a></li>
+<li>This corpus uses 10 relation subtypes: <a>advmod:emph</a>, <a>aux:pass</a>, <a>csubj:pass</a>, <a>det:nummod</a>, <a>expl:pass</a>, <a>expl:pv</a>, <a>nsubj:pass</a>, <a>nummod:gov</a>, <a>obl:agent</a>, <a>obl:arg</a></li>
 <li>The following 1 main types are not used alone, they are always subtyped: <a>expl</a></li>
 <li>The following 8 relation types are not used in this corpus at all: <a>vocative</a>, <a>dislocated</a>, <a>discourse</a>, <a>clf</a>, <a>flat</a>, <a>list</a>, <a>goeswith</a>, <a>reparandum</a></li>
 </ul>
