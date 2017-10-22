@@ -82,7 +82,7 @@ nmod(dangerous, Vanya)
 case(Ваня, чем)
 case(Vanya, than)
 advmod(опасен, более)
-advmod(dangerous, more)
+advmod(dangerous, is-more)
 ~~~
 
 ~~~ sdparse
