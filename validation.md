@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-10-23T14:08:41Z">2017-10-23T14:08:41 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-10-23T14:33:28Z">2017-10-23T14:33:28 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -752,11 +752,11 @@ No data
 <span class="doublewidespan" style="padding-left:3em">UD Dutch</span>
 <span class="widespan">nl</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-10-23T13:47:53Z">2017-10-23T13:47:53 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-10-23T14:33:14Z">2017-10-23T14:33:14 zulu</time></span>
 </div>
 <div>
 <pre>
-python tools/validate.py --lang nl UD-dev-branches/UD_Dutch/nl-ud-dev.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang nl /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Dutch/nl-ud-dev.conllu
 
 [Tree number 1 on line 5]: Mismatch between the text attribute and the FORM field. Form is ',,' but text is '"Mijn basisniveau is f...'
 [Tree number 1 on line 5]: Mismatch between the text attribute and the FORM field. Form is 'Mijn' but text is '"Mijn basisniveau is fli...'
@@ -770,7 +770,6 @@ python tools/validate.py --lang nl UD-dev-branches/UD_Dutch/nl-ud-dev.conllu
 [Line                   14]: Extra characters at the end of the text attribute, not accounted for in the FORM fields: '"Mijn basisniveau is flink omhoog gegaan."'
 [Line                   33]: SpaceAfter=No is missing in the MISC field of node #14 because the text is 'NK.'
 [Line                   47]: SpaceAfter=No is missing in the MISC field of node #9 because the text is 'stappen.'
-[Line                   57]: Unknown UD DEPREL: flat:name
 [Line                   68]: SpaceAfter=No is missing in the MISC field of node #16 because the text is 'wedstrijd.'
 [Tree number 5 on line 73]: Mismatch between the text attribute and the FORM field. Form is ',,' but text is '"Mijn gedachten sprong...'
 [Tree number 5 on line 73]: Mismatch between the text attribute and the FORM field. Form is 'Mijn' but text is '"Mijn gedachten sprongen...'
@@ -779,43 +778,19 @@ python tools/validate.py --lang nl UD-dev-branches/UD_Dutch/nl-ud-dev.conllu
 [Tree number 5 on line 73]: Mismatch between the text attribute and the FORM field. Form is 'alle' but text is '"Mijn gedachten sprongen...'
 [Tree number 5 on line 73]: Mismatch between the text attribute and the FORM field. Form is 'kanten' but text is '"Mijn gedachten sprongen a...'
 ...suppressing further errors regarding Metadata
-[Line                   128]: Unknown UD DEPREL: flat:name
-[Line                   133]: Unknown UD DEPREL: flat:name
-[Line                   137]: Unknown UD DEPREL: flat:name
-[Line                   143]: Unknown UD DEPREL: flat:name
-[Line                   167]: Unknown UD DEPREL: nsubj:pass
-[Line                   172]: Unknown UD DEPREL: flat:name
-[Line                   173]: Unknown UD DEPREL: aux:pass
-[Line                   201]: Unknown UD DEPREL: acl:relcl
-[Line                   256]: Unknown UD DEPREL: flat:name
-[Line                   286]: Unknown UD DEPREL: flat:name
-[Line                   301]: Unknown UD DEPREL: flat:name
-[Line                   413]: Unknown UD DEPREL: flat:name
-[Line                   443]: Unknown UD DEPREL: acl:relcl
-[Line                   505]: Unknown UD DEPREL: flat:name
-[Line                   583]: Unknown UD DEPREL: flat:name
-[Line                   605]: Unknown UD DEPREL: aux:pass
-[Line                   606]: Unknown UD DEPREL: nsubj:pass
-[Line                   684]: Unknown UD DEPREL: nsubj:pass
-...suppressing further errors regarding Syntax
-*** FAILED *** with 2945 errors
+*** FAILED *** with 2395 errors
 Metadata errors: 2395
-Syntax errors: 550
 
 
 ******************
 
-python tools/validate.py --lang nl UD-dev-branches/UD_Dutch/nl-ud-test.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang nl /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Dutch/nl-ud-test.conllu
 
-[Line                   9]: Unknown UD DEPREL: flat:name
-[Line                   10]: Unknown UD DEPREL: flat:name
-[Line                   13]: Unknown UD DEPREL: flat:name
 [Line                   20]: SpaceAfter=No is missing in the MISC field of node #15 because the text is 'hand.'
 [Line                   47]: SpaceAfter=No is missing in the MISC field of node #9 because the text is 'gekomen, begonnen fa[...]'
 [Line                   47]: SpaceAfter=No is missing in the MISC field of node #22 because the text is 'gooien.'
 [Line                   79]: SpaceAfter=No is missing in the MISC field of node #20 because the text is 'voetbal, volgend jaa[...]'
 [Line                   79]: SpaceAfter=No is missing in the MISC field of node #27 because the text is 'Zuid-Korea.'
-[Line                   100]: Unknown UD DEPREL: flat:name
 [Line                   107]: SpaceAfter=No is missing in the MISC field of node #4 because the text is '2-0 van Togo, Zuid-A[...]'
 [Line                   107]: SpaceAfter=No is missing in the MISC field of node #5 because the text is '-0 van Togo, Zuid-Af[...]'
 [Line                   107]: SpaceAfter=No is missing in the MISC field of node #8 because the text is 'Togo, Zuid-Afrika ha[...]'
@@ -825,46 +800,48 @@ python tools/validate.py --lang nl UD-dev-branches/UD_Dutch/nl-ud-test.conllu
 [Line                   107]: SpaceAfter=No is missing in the MISC field of node #21 because the text is '1).'
 [Line                   107]: SpaceAfter=No is missing in the MISC field of node #22 because the text is ').'
 [Line                   127]: SpaceAfter=No is missing in the MISC field of node #15 because the text is 'zak.'
-[Line                   133]: Unknown UD DEPREL: flat:name
-[Line                   147]: Unknown UD DEPREL: flat:name
-[Line                   148]: Unknown UD DEPREL: flat:name
 [Line                   155]: SpaceAfter=No is missing in the MISC field of node #19 because the text is '3-1 gewonnen.'
 [Line                   155]: SpaceAfter=No is missing in the MISC field of node #20 because the text is '-1 gewonnen.'
 [Line                   155]: SpaceAfter=No is missing in the MISC field of node #22 because the text is 'gewonnen.'
 [Line                   166]: SpaceAfter=No is missing in the MISC field of node #6 because the text is 'Joegoslavië.'
-[Line                   178]: Unknown UD DEPREL: flat:name
 [Line                   180]: SpaceAfter=No is missing in the MISC field of node #9 because the text is 'Waalwijk.'
-[Line                   192]: Unknown UD DEPREL: flat:name
-[Line                   198]: Unknown UD DEPREL: flat:name
 ...suppressing further errors regarding Metadata
-[Line                   205]: Unknown UD DEPREL: flat:name
-[Line                   218]: Unknown UD DEPREL: flat:name
-[Line                   243]: Unknown UD DEPREL: acl:relcl
-[Line                   252]: Unknown UD DEPREL: flat:name
-[Line                   374]: Unknown UD DEPREL: flat:name
-[Line                   375]: Unknown UD DEPREL: flat:name
-[Line                   452]: Unknown UD DEPREL: flat:name
-[Line                   498]: Unknown UD DEPREL: flat:name
-[Line                   499]: Unknown UD DEPREL: flat:name
+[Line                   4351]: DEPREL must be "root" if HEAD is 0
+[Tree number 188 on line 4329]: Multiple root words: [5, 6]
+[Line                   10601]: DEPREL must be "root" if HEAD is 0
+[Tree number 489 on line 10598]: Multiple root words: [1, 2]
+[Line                   10836]: DEPREL must be "root" if HEAD is 0
+[Tree number 499 on line 10833]: Multiple root words: [1, 2]
+[Line                   10968]: DEPREL must be "root" if HEAD is 0
+[Tree number 505 on line 10958]: Multiple root words: [1, 2]
+[Line                   12420]: DEPREL must be "root" if HEAD is 0
+[Tree number 582 on line 12409]: Multiple root words: [1, 2]
+[Line                   12450]: DEPREL must be "root" if HEAD is 0
+[Tree number 584 on line 12447]: Multiple root words: [1, 2]
+[Line                   12583]: DEPREL must be "root" if HEAD is 0
+[Tree number 591 on line 12579]: Multiple root words: [1, 2]
+[Line                   12629]: DEPREL must be "root" if HEAD is 0
+[Tree number 594 on line 12625]: Multiple root words: [1, 2]
+[Line                   12677]: DEPREL must be "root" if HEAD is 0
+[Tree number 597 on line 12672]: Multiple root words: [1, 2]
+[Line                   12765]: DEPREL must be "root" if HEAD is 0
 ...suppressing further errors regarding Syntax
-*** FAILED *** with 2579 errors
+*** FAILED *** with 2038 errors
 Metadata errors: 2018
-Syntax errors: 561
+Syntax errors: 20
 
 
 ******************
 
-python tools/validate.py --lang nl UD-dev-branches/UD_Dutch/nl-ud-train.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang nl /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Dutch/nl-ud-train.conllu
 
 [Line                   10]: SpaceAfter=No is missing in the MISC field of node #5 because the text is 'zwaaien.'
 [Line                   27]: SpaceAfter=No is missing in the MISC field of node #8 because the text is 'winkelen, zwemmen of[...]'
 [Line                   27]: SpaceAfter=No is missing in the MISC field of node #12 because the text is 'terrassen.'
 [Line                   38]: SpaceAfter=No is missing in the MISC field of node #6 because the text is 'uitgevonden.'
-[Line                   53]: Unknown UD DEPREL: acl:relcl
 [Line                   55]: SpaceAfter=No is missing in the MISC field of node #12 because the text is 'gelaten.'
 [Line                   71]: SpaceAfter=No is missing in the MISC field of node #11 because the text is 'liggen.'
 [Line                   86]: SpaceAfter=No is missing in the MISC field of node #10 because the text is 'hare.'
-[Line                   105]: Unknown UD DEPREL: flat:name
 [Line                   107]: SpaceAfter=No is missing in the MISC field of node #16 because the text is 'Square.'
 [Line                   138]: SpaceAfter=No is missing in the MISC field of node #10 because the text is 'voorbij, hun fototoe[...]'
 [Line                   138]: SpaceAfter=No is missing in the MISC field of node #16 because the text is 'aanslag, pratend, gi[...]'
@@ -872,33 +849,35 @@ python tools/validate.py --lang nl UD-dev-branches/UD_Dutch/nl-ud-train.conllu
 [Line                   138]: SpaceAfter=No is missing in the MISC field of node #26 because the text is 'talen.'
 [Line                   164]: SpaceAfter=No is missing in the MISC field of node #5 because the text is 'geworden, zij en haa[...]'
 [Line                   164]: SpaceAfter=No is missing in the MISC field of node #21 because the text is 'raden.'
-[Line                   169]: Unknown UD DEPREL: nsubj:pass
-[Line                   174]: Unknown UD DEPREL: acl:relcl
-[Line                   175]: Unknown UD DEPREL: aux:pass
 [Line                   180]: SpaceAfter=No is missing in the MISC field of node #11 because the text is 'ijs.'
 [Line                   204]: SpaceAfter=No is missing in the MISC field of node #10 because the text is 'zeggen: "het komt we[...]'
 [Line                   204]: SpaceAfter=No is missing in the MISC field of node #12 because the text is '"het komt wel goed, [...]'
 [Line                   204]: SpaceAfter=No is missing in the MISC field of node #16 because the text is 'goed, joch".'
 [Line                   204]: SpaceAfter=No is missing in the MISC field of node #18 because the text is 'joch".'
 ...suppressing further errors regarding Metadata
-[Line                   222]: Unknown UD DEPREL: nsubj:pass
-[Line                   223]: Unknown UD DEPREL: aux:pass
-[Line                   299]: Unknown UD DEPREL: acl:relcl
-[Line                   378]: Unknown UD DEPREL: aux:pass
-[Line                   409]: Unknown UD DEPREL: aux:pass
-[Line                   418]: Unknown UD DEPREL: aux:pass
-[Line                   808]: Unknown UD DEPREL: nsubj:pass
-[Line                   810]: Unknown UD DEPREL: aux:pass
-[Line                   1090]: Unknown UD DEPREL: nsubj:pass
-[Line                   1091]: Unknown UD DEPREL: aux:pass
 [Line                   1450]: DEPREL must be "root" if HEAD is 0
 [Tree number 126 on line 1448]: Multiple root words: [1, 2]
-[Line                   1727]: Unknown UD DEPREL: aux:pass
-[Line                   1728]: Unknown UD DEPREL: nsubj:pass
+[Line                   1781]: DEPREL must be "root" if HEAD is 0
+[Tree number 156 on line 1779]: Multiple root words: [1, 2]
+[Tree number 232 on line 2589]: Multiple root words: [2, 5]
+[Tree number 354 on line 3981]: Multiple root words: [2, 5]
+[Tree number 356 on line 4004]: Multiple root words: [2, 5]
+[Line                   5360]: DEPREL must be "root" if HEAD is 0
+[Tree number 467 on line 5354]: Multiple root words: [1, 6]
+[Line                   5417]: DEPREL must be "root" if HEAD is 0
+[Tree number 473 on line 5413]: Multiple root words: [1, 4]
+[Tree number 522 on line 5886]: Multiple root words: [2, 5]
+[Line                   15893]: DEPREL can only be "root" if HEAD is 0
+[Line                   24507]: DEPREL can only be "root" if HEAD is 0
+[Line                   24525]: DEPREL can only be "root" if HEAD is 0
+[Line                   24782]: DEPREL can only be "root" if HEAD is 0
+[Line                   24874]: DEPREL can only be "root" if HEAD is 0
+[Line                   25221]: DEPREL can only be "root" if HEAD is 0
+[Line                   25397]: DEPREL can only be "root" if HEAD is 0
 ...suppressing further errors regarding Syntax
-*** FAILED *** with 30111 errors
+*** FAILED *** with 20192 errors
 Metadata errors: 19982
-Syntax errors: 10129
+Syntax errors: 210
 
 
 ******************
