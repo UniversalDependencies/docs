@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-10-23T14:33:28Z">2017-10-23T14:33:28 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-10-23T14:48:17Z">2017-10-23T14:48:17 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -3577,77 +3577,28 @@ python tools/validate.py --lang sv_pud UD-dev-branches/UD_Swedish-PUD/sv_pud-ud-
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD Swedish Sign Language</span>
 <span class="widespan">swl</span>
-<span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-10-23T12:57:04Z">2017-10-23T12:57:04 zulu</time></span>
+<span class="validationpass">PASS</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-10-23T14:48:17Z">2017-10-23T14:48:17 zulu</time></span>
 </div>
 <div>
 <pre>
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang swl /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Swedish_Sign_Language/swl-ud-dev.conllu
+python tools/validate.py --lang swl UD-dev-branches/UD_Swedish_Sign_Language/swl-ud-dev.conllu
 
-[Line                   3]: Missing the sent_id attribute.
-[Line                   3]: Missing the text attribute.
-[Line                   7]: Unknown UD DEPREL: dobj
-[Line                   9]: Missing the sent_id attribute.
-[Line                   9]: Missing the text attribute.
-[Line                   13]: Missing the sent_id attribute.
-[Line                   13]: Missing the text attribute.
-[Line                   18]: Unknown UD DEPREL: dobj
-[Line                   20]: Missing the sent_id attribute.
-[Line                   20]: Missing the text attribute.
-[Line                   29]: Missing the sent_id attribute.
-[Line                   29]: Missing the text attribute.
-[Line                   33]: Unknown UD DEPREL: dobj
-[Line                   36]: Missing the sent_id attribute.
-[Line                   36]: Missing the text attribute.
-[Line                   49]: Missing the sent_id attribute.
-[Line                   49]: Missing the text attribute.
-[Line                   54]: Unknown UD DEPREL: dobj
-[Line                   56]: Missing the sent_id attribute.
-[Line                   56]: Missing the text attribute.
-*** FAILED *** with 20 errors
-Metadata errors: 16
-Syntax errors: 4
+*** PASSED ***
 
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang swl /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Swedish_Sign_Language/swl-ud-train.conllu
+python tools/validate.py --lang swl UD-dev-branches/UD_Swedish_Sign_Language/swl-ud-test.conllu
 
-[Line                   11]: Missing the sent_id attribute.
-[Line                   11]: Missing the text attribute.
-[Line                   15]: Unknown UD DEPREL: dobj
-[Line                   25]: Missing the sent_id attribute.
-[Line                   25]: Missing the text attribute.
-[Line                   30]: Missing the sent_id attribute.
-[Line                   30]: Missing the text attribute.
-[Line                   38]: Missing the sent_id attribute.
-[Line                   38]: Missing the text attribute.
-[Line                   44]: Missing the sent_id attribute.
-[Line                   44]: Missing the text attribute.
-[Line                   47]: Missing the sent_id attribute.
-[Line                   47]: Missing the text attribute.
-[Line                   52]: Missing the sent_id attribute.
-[Line                   52]: Missing the text attribute.
-[Line                   63]: Missing the sent_id attribute.
-[Line                   63]: Missing the text attribute.
-[Line                   65]: Missing the sent_id attribute.
-[Line                   65]: Missing the text attribute.
-[Line                   68]: Unknown UD DEPREL: dobj
-[Line                   70]: Unknown UD DEPREL: dobj
-[Line                   74]: Missing the sent_id attribute.
-...suppressing further errors regarding Metadata
-[Line                   85]: Unknown UD DEPREL: dobj
-[Line                   95]: Unknown UD DEPREL: dobj
-[Line                   100]: Unknown UD DEPREL: dobj
-[Line                   198]: Unknown UD DEPREL: dobj
-[Line                   250]: Unknown UD DEPREL: dobj
-[Line                   289]: Unknown UD DEPREL: dobj
-[Line                   298]: Unknown UD DEPREL: nmod:pass
-[Line                   322]: Unknown UD DEPREL: dobj
-[Line                   340]: Unknown UD DEPREL: dobj
-*** FAILED *** with 104 errors
-Metadata errors: 92
-Syntax errors: 12
+*** PASSED ***
+
+
+******************
+
+python tools/validate.py --lang swl UD-dev-branches/UD_Swedish_Sign_Language/swl-ud-train.conllu
+
+*** PASSED ***
 
 
 ******************
