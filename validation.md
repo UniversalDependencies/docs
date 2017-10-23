@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-10-23T13:48:06Z">2017-10-23T13:48:06 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-10-23T14:08:41Z">2017-10-23T14:08:41 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -1619,8 +1619,8 @@ No data
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD Galician</span>
 <span class="widespan">gl</span>
-<span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-10-23T11:19:57Z">2017-10-23T11:19:57 zulu</time></span>
+<span class="validationpass">PASS</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-10-23T14:08:34Z">2017-10-23T14:08:34 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -1633,11 +1633,7 @@ python tools/validate.py --lang gl UD-dev-branches/UD_Galician/gl-ud-dev.conllu
 
 python tools/validate.py --lang gl UD-dev-branches/UD_Galician/gl-ud-test.conllu
 
-[Line                   836]: SpaceAfter=No is missing in the MISC field of node #26 because the text is 'AA., producíndose de[...]'
-[Line                   10211]: SpaceAfter=No is missing in the MISC field of node #6 because the text is 'AA., a CE non establ[...]'
-[Line                   24589]: SpaceAfter=No is missing in the MISC field of node #21 because the text is 'AA., xenericamente a[...]'
-*** FAILED *** with 3 errors
-Metadata errors: 3
+*** PASSED ***
 
 
 ******************
