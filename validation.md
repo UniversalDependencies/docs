@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-10-22T20:28:48Z">2017-10-22T20:28:48 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-10-23T11:20:04Z">2017-10-23T11:20:04 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -1494,15 +1494,13 @@ No data
 <span class="doublewidespan" style="padding-left:3em">UD Galician</span>
 <span class="widespan">gl</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-10-19T21:45:41Z">2017-10-19T21:45:41 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-10-23T11:19:57Z">2017-10-23T11:19:57 zulu</time></span>
 </div>
 <div>
 <pre>
 python tools/validate.py --lang gl UD-dev-branches/UD_Galician/gl-ud-dev.conllu
 
-[Line                   17042]: Spurious empty line.
-*** FAILED *** with 1 errors
-Format errors: 1
+*** PASSED ***
 
 
 ******************
@@ -1520,9 +1518,7 @@ Metadata errors: 3
 
 python tools/validate.py --lang gl UD-dev-branches/UD_Galician/gl-ud-train.conllu
 
-[Line                   79275]: SpaceAfter=No is missing in the MISC field of node #32 because the text is 'AA.).'
-*** FAILED *** with 1 errors
-Metadata errors: 1
+*** PASSED ***
 
 
 ******************
