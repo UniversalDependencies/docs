@@ -966,6 +966,22 @@
     "lang_name": "English-ParTUT"
   }, 
   {
+    "lang_code": "myv", 
+    "contributors": [
+      {
+        "full": "Jack Rueter", 
+        "last": "Rueter", 
+        "first": "Jack"
+      }, 
+      {
+        "full": "Francis Tyers", 
+        "last": "Tyers", 
+        "first": "Francis"
+      }
+    ], 
+    "lang_name": "Erzya"
+  }, 
+  {
     "lang_code": "et", 
     "contributors": [
       {
@@ -2225,6 +2241,17 @@
     "lang_name": "Korean-PUD"
   }, 
   {
+    "lang_code": "ko_sejong", 
+    "contributors": [
+      {
+        "full": "Jaemin Cho", 
+        "last": "Cho", 
+        "first": "Jaemin"
+      }
+    ], 
+    "lang_name": "Korean-Sejong"
+  }, 
+  {
     "lang_code": "kmr", 
     "contributors": [
       {
@@ -2305,6 +2332,11 @@
         "full": "Laura Rituma", 
         "last": "Rituma", 
         "first": "Laura"
+      }, 
+      {
+        "full": "Gunta Ne\u0161pore", 
+        "last": "Ne\u0161pore", 
+        "first": "Gunta"
       }, 
       {
         "full": "Normunds Gr\u016bz\u012btis", 

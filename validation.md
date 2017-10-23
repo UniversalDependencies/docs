@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-10-22T10:44:34Z">2017-10-22T10:44:34 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-10-22T20:28:48Z">2017-10-22T20:28:48 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -2062,12 +2062,33 @@ python tools/validate.py --lang it_partut UD-dev-branches/UD_Italian-ParTUT/it_p
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD Italian-PoSTWITA</span>
 <span class="widespan">it postwita</span>
-<span class="validationfail">EMPTY</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-10-22T08:00:20Z">2017-10-22T08:00:20 zulu</time></span>
+<span class="validationpass">PASS</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-10-22T20:28:44Z">2017-10-22T20:28:44 zulu</time></span>
 </div>
 <div>
 <pre>
-No data
+python tools/validate.py --lang it_postwita UD-dev-branches/UD_Italian-PoSTWITA/it_postwita-ud-dev.conllu
+
+*** PASSED ***
+
+
+******************
+
+python tools/validate.py --lang it_postwita UD-dev-branches/UD_Italian-PoSTWITA/it_postwita-ud-test.conllu
+
+*** PASSED ***
+
+
+******************
+
+python tools/validate.py --lang it_postwita UD-dev-branches/UD_Italian-PoSTWITA/it_postwita-ud-train.conllu
+
+*** PASSED ***
+
+
+******************
+
+
 </pre>
 </div>
 <div>
