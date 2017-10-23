@@ -198,6 +198,22 @@
     "lang_name": "Armenian"
   }, 
   {
+    "lang_code": "bm", 
+    "contributors": [
+      {
+        "full": "Katya Aplonova", 
+        "last": "Aplonova", 
+        "first": "Katya"
+      }, 
+      {
+        "full": "Francis Tyers", 
+        "last": "Tyers", 
+        "first": "Francis"
+      }
+    ], 
+    "lang_name": "Bambara"
+  }, 
+  {
     "lang_code": "bn", 
     "contributors": [
       {
