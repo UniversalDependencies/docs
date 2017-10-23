@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-10-23T11:33:09Z">2017-10-23T11:33:09 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-10-23T11:53:33Z">2017-10-23T11:53:33 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -3477,7 +3477,7 @@ python tools/validate.py --lang sv_pud UD-dev-branches/UD_Swedish-PUD/sv_pud-ud-
 <span class="doublewidespan" style="padding-left:3em">UD Swedish Sign Language</span>
 <span class="widespan">swl</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-10-23T11:33:09Z">2017-10-23T11:33:09 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-10-23T11:53:33Z">2017-10-23T11:53:33 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -3541,11 +3541,12 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang swl /home/ginter/UD_PRO
 [Line                   198]: Unknown UD DEPREL: dobj
 [Line                   250]: Unknown UD DEPREL: dobj
 [Line                   289]: Unknown UD DEPREL: dobj
+[Line                   298]: Unknown UD DEPREL: nmod:pass
 [Line                   322]: Unknown UD DEPREL: dobj
 [Line                   340]: Unknown UD DEPREL: dobj
-*** FAILED *** with 103 errors
+*** FAILED *** with 104 errors
 Metadata errors: 92
-Syntax errors: 11
+Syntax errors: 12
 
 
 ******************
