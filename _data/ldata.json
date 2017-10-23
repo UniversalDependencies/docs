@@ -3308,14 +3308,14 @@
     "lang_code": "te", 
     "contributors": [
       {
-        "full": "Sowmya Vajjala", 
-        "last": "Vajjala", 
-        "first": "Sowmya"
-      }, 
-      {
         "full": "Taraka Rama", 
         "last": "Rama", 
         "first": "Taraka"
+      }, 
+      {
+        "full": "Sowmya Vajjala", 
+        "last": "Vajjala", 
+        "first": "Sowmya"
       }
     ], 
     "lang_name": "Telugu"
