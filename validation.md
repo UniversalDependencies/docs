@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-10-24T07:00:42Z">2017-10-24T07:00:42 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-10-24T07:14:59Z">2017-10-24T07:14:59 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -752,11 +752,11 @@ No data
 <span class="doublewidespan" style="padding-left:3em">UD Dutch</span>
 <span class="widespan">nl</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-10-24T06:29:56Z">2017-10-24T06:29:56 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-10-24T07:14:36Z">2017-10-24T07:14:36 zulu</time></span>
 </div>
 <div>
 <pre>
-python tools/validate.py --lang nl UD-dev-branches/UD_Dutch/nl-ud-dev.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang nl /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Dutch/nl-ud-dev.conllu
 
 [Tree number 1 on line 5]: Mismatch between the text attribute and the FORM field. Form is ',,' but text is '"Mijn basisniveau is f...'
 [Tree number 1 on line 5]: Mismatch between the text attribute and the FORM field. Form is 'Mijn' but text is '"Mijn basisniveau is fli...'
@@ -784,7 +784,7 @@ Metadata errors: 2395
 
 ******************
 
-python tools/validate.py --lang nl UD-dev-branches/UD_Dutch/nl-ud-test.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang nl /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Dutch/nl-ud-test.conllu
 
 [Line                   20]: SpaceAfter=No is missing in the MISC field of node #15 because the text is 'hand.'
 [Line                   47]: SpaceAfter=No is missing in the MISC field of node #9 because the text is 'gekomen, begonnen fa[...]'
@@ -833,7 +833,7 @@ Syntax errors: 20
 
 ******************
 
-python tools/validate.py --lang nl UD-dev-branches/UD_Dutch/nl-ud-train.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang nl /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Dutch/nl-ud-train.conllu
 
 [Line                   10]: SpaceAfter=No is missing in the MISC field of node #5 because the text is 'zwaaien.'
 [Line                   27]: SpaceAfter=No is missing in the MISC field of node #8 because the text is 'winkelen, zwemmen of[...]'
@@ -3294,25 +3294,25 @@ python tools/validate.py --lang sr UD-dev-branches/UD_Serbian/sr-ud-train.conllu
 <span class="doublewidespan" style="padding-left:3em">UD Slovak</span>
 <span class="widespan">sk</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-10-24T07:00:33Z">2017-10-24T07:00:33 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-10-24T07:14:49Z">2017-10-24T07:14:49 zulu</time></span>
 </div>
 <div>
 <pre>
-python tools/validate.py --lang sk UD-dev-branches/UD_Slovak/sk-ud-dev.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang sk /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Slovak/sk-ud-dev.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python tools/validate.py --lang sk UD-dev-branches/UD_Slovak/sk-ud-test.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang sk /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Slovak/sk-ud-test.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python tools/validate.py --lang sk UD-dev-branches/UD_Slovak/sk-ud-train.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang sk /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Slovak/sk-ud-train.conllu
 
 *** PASSED ***
 
@@ -3576,25 +3576,25 @@ python tools/validate.py --lang sv_pud UD-dev-branches/UD_Swedish-PUD/sv_pud-ud-
 <span class="doublewidespan" style="padding-left:3em">UD Swedish Sign Language</span>
 <span class="widespan">swl</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-10-23T14:48:17Z">2017-10-23T14:48:17 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-10-24T07:14:57Z">2017-10-24T07:14:57 zulu</time></span>
 </div>
 <div>
 <pre>
-python tools/validate.py --lang swl UD-dev-branches/UD_Swedish_Sign_Language/swl-ud-dev.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang swl /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Swedish_Sign_Language/swl-ud-dev.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python tools/validate.py --lang swl UD-dev-branches/UD_Swedish_Sign_Language/swl-ud-test.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang swl /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Swedish_Sign_Language/swl-ud-test.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python tools/validate.py --lang swl UD-dev-branches/UD_Swedish_Sign_Language/swl-ud-train.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang swl /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Swedish_Sign_Language/swl-ud-train.conllu
 
 *** PASSED ***
 
@@ -3640,46 +3640,46 @@ python tools/validate.py --lang ta UD-dev-branches/UD_Tamil/ta-ud-train.conllu
 <span class="doublewidespan" style="padding-left:3em">UD Telugu</span>
 <span class="widespan">te</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-10-24T01:33:51Z">2017-10-24T01:33:51 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-10-24T07:14:58Z">2017-10-24T07:14:58 zulu</time></span>
 </div>
 <div>
 <pre>
-python tools/validate.py --lang te UD-dev-branches/UD_Telugu/dev-tescript.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang te /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Telugu/dev-tescript.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python tools/validate.py --lang te UD-dev-branches/UD_Telugu/dev.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang te /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Telugu/dev.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python tools/validate.py --lang te UD-dev-branches/UD_Telugu/test-tescript.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang te /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Telugu/test-tescript.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python tools/validate.py --lang te UD-dev-branches/UD_Telugu/test.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang te /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Telugu/test.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python tools/validate.py --lang te UD-dev-branches/UD_Telugu/train-tescript.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang te /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Telugu/train-tescript.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python tools/validate.py --lang te UD-dev-branches/UD_Telugu/train.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang te /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Telugu/train.conllu
 
 *** PASSED ***
 
