@@ -6,16 +6,24 @@ permalink: no/overview/introduction.html
 
 # Introduction
 
-The Norwegian UD treebank is based on the Bokmål section of the Norwegian
-Dependency Treebank (NDT), which is a syntactic treebank of Norwegian.
+There are now three Norwegian UD treebanks. The Norwegian Bokmål and Nynorsk treebanks are conversions from the Norwegian
+Dependency Treebank (NDT), which is a syntactic treebank of Norwegian. The Norwegian Nynorsk LIA treebank is based on the LIA treebank of transcribed spoken Norwegian dialects.
+
 NDT was developed 2011-2014 at the National Library of Norway in collaboration
 with the Text Laboratory and the Department of Informatics at the
 University of Oslo. NDT has been automatically converted to the UD
 scheme by Lilja Øvrelid at the University of Oslo.
 
-## Acknowledgements
+The Norwegian LIA treebank consists of dialect recordings made in the
+  period between 1950--1990, which have been digitised, transcribed,
+  and subsequently annotated with morphological and dependency-style
+  syntactic analysis as part of the [LIA (Language Infrastructure made
+  Accessible)](http://www.hf.uio.no/iln/english/research/projects/language-infrastructure-made-accessible/)  project at the University of Oslo. It has been automatically converted to the UD
+scheme by Lilja Øvrelid at the University of Oslo.
 
-Thanks to Petter Hohle for creating the data splits (train/dev/test). Thanks also to the annotators and other contributors to the original NDT treebank: Per Erik Solberg, Kari Kinn, Pål Kristian Eriksen, Arne Skjærholt, Kristin Hagen, Janne Bondi Johannessen.
+
+## Acknowledgements
+Thanks also to the annotators and other contributors to the original NDT treebank: Per Erik Solberg, Kari Kinn, Pål Kristian Eriksen, Arne Skjærholt, Kristin Hagen, Janne Bondi Johannessen. Thanks also to the annotators and contributors to the original LIA treebank: Andre Kaasen, Laura Moquin, Per Erik Solberg, Kristin Hagen, Janne Bondi Johannessen.
 
 ## References
 
