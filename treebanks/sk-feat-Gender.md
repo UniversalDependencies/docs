@@ -266,7 +266,7 @@ The most frequent other feature values with which `PRON` and `Gender` co-occurre
 
 731 <tt><a href="sk-pos-AUX.html">AUX</a></tt> tokens (20% of all `AUX` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `AUX` and `Gender` co-occurred: <tt><a href="sk-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (731; 100%), <tt><a href="sk-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (731; 100%), <tt><a href="sk-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (731; 100%), <tt><a href="sk-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (730; 100%), <tt><a href="sk-feat-Person.html">Person</a></tt><tt>=3</tt> (698; 95%), <tt><a href="sk-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (676; 92%), <tt><a href="sk-feat-Number.html">Number</a></tt><tt>=Sing</tt> (615; 84%).
+The most frequent other feature values with which `AUX` and `Gender` co-occurred: <tt><a href="sk-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (731; 100%), <tt><a href="sk-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (731; 100%), <tt><a href="sk-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (731; 100%), <tt><a href="sk-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (730; 100%), <tt><a href="sk-feat-Person.html">Person</a></tt><tt>=3</tt> (698; 95%), <tt><a href="sk-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (676; 92%), <tt><a href="sk-feat-Number.html">Number</a></tt><tt>=Sing</tt> (615; 84%).
 
 `AUX` tokens may have the following values of `Gender`:
 
@@ -343,7 +343,7 @@ The most frequent other feature values with which `ADV` and `Gender` co-occurred
 
 1 <tt><a href="sk-pos-X.html">X</a></tt> tokens (0% of all `X` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `X` and `Gender` co-occurred: <tt><a href="sk-feat-Foreign.html">Foreign</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="sk-feat-Abbr.html">Abbr</a></tt><tt>=Yes</tt> (1; 100%), <tt><a href="sk-feat-Hyph.html">Hyph</a></tt><tt>=EMPTY</tt> (1; 100%).
+The most frequent other feature values with which `X` and `Gender` co-occurred: <tt><a href="sk-feat-Hyph.html">Hyph</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="sk-feat-Abbr.html">Abbr</a></tt><tt>=Yes</tt> (1; 100%), <tt><a href="sk-feat-Foreign.html">Foreign</a></tt><tt>=EMPTY</tt> (1; 100%).
 
 `X` tokens may have the following values of `Gender`:
 

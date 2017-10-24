@@ -34,8 +34,8 @@ The 10 most frequent relations where parent and child node agree in `Foreign`:
 <tt>X --[<tt><a href="sk-dep-conj.html">conj</a></tt>]--> X</tt> (14; 93%),
 <tt>X --[<tt><a href="sk-dep-case.html">case</a></tt>]--> X</tt> (12; 100%),
 <tt>X --[<tt><a href="sk-dep-advmod.html">advmod</a></tt>]--> X</tt> (4; 100%),
-<tt>X --[<tt><a href="sk-dep-cc.html">cc</a></tt>]--> X</tt> (3; 100%),
 <tt>X --[<tt><a href="sk-dep-obj.html">obj</a></tt>]--> X</tt> (3; 100%),
+<tt>X --[<tt><a href="sk-dep-cc.html">cc</a></tt>]--> X</tt> (3; 100%),
 <tt>X --[<tt><a href="sk-dep-dep.html">dep</a></tt>]--> X</tt> (2; 100%),
 <tt>X --[<tt><a href="sk-dep-nsubj.html">nsubj</a></tt>]--> X</tt> (1; 100%).
 

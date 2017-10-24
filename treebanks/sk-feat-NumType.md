@@ -18,7 +18,7 @@ The feature is used with 3 part-of-speech tags: <tt><a href="sk-pos-ADJ.html">AD
 
 407 <tt><a href="sk-pos-ADJ.html">ADJ</a></tt> tokens (4% of all `ADJ` tokens) have a non-empty value of `NumType`.
 
-The most frequent other feature values with which `ADJ` and `NumType` co-occurred: <tt><a href="sk-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (407; 100%), <tt><a href="sk-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (407; 100%), <tt><a href="sk-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (407; 100%), <tt><a href="sk-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (406; 100%), <tt><a href="sk-feat-Number.html">Number</a></tt><tt>=Sing</tt> (349; 86%), <tt><a href="sk-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (222; 55%).
+The most frequent other feature values with which `ADJ` and `NumType` co-occurred: <tt><a href="sk-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (407; 100%), <tt><a href="sk-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (407; 100%), <tt><a href="sk-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (407; 100%), <tt><a href="sk-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (406; 100%), <tt><a href="sk-feat-Number.html">Number</a></tt><tt>=Sing</tt> (349; 86%), <tt><a href="sk-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (222; 55%).
 
 `ADJ` tokens may have the following values of `NumType`:
 
@@ -32,7 +32,7 @@ The most frequent other feature values with which `ADJ` and `NumType` co-occurre
 
 68 <tt><a href="sk-pos-DET.html">DET</a></tt> tokens (2% of all `DET` tokens) have a non-empty value of `NumType`.
 
-The most frequent other feature values with which `DET` and `NumType` co-occurred: <tt><a href="sk-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (68; 100%), <tt><a href="sk-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (68; 100%), <tt><a href="sk-feat-Gender-psor.html">Gender[psor]</a></tt><tt>=EMPTY</tt> (68; 100%), <tt><a href="sk-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (57; 84%), <tt><a href="sk-feat-PronType.html">PronType</a></tt><tt>=Ind</tt> (52; 76%), <tt><a href="sk-feat-Gender.html">Gender</a></tt><tt>=Neut</tt> (51; 75%), <tt><a href="sk-feat-Number.html">Number</a></tt><tt>=Sing</tt> (50; 74%).
+The most frequent other feature values with which `DET` and `NumType` co-occurred: <tt><a href="sk-feat-Gender-psor.html">Gender[psor]</a></tt><tt>=EMPTY</tt> (68; 100%), <tt><a href="sk-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (68; 100%), <tt><a href="sk-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (68; 100%), <tt><a href="sk-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (57; 84%), <tt><a href="sk-feat-PronType.html">PronType</a></tt><tt>=Ind</tt> (52; 76%), <tt><a href="sk-feat-Gender.html">Gender</a></tt><tt>=Neut</tt> (51; 75%), <tt><a href="sk-feat-Number.html">Number</a></tt><tt>=Sing</tt> (50; 74%).
 
 `DET` tokens may have the following values of `NumType`:
 

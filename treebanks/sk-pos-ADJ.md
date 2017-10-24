@@ -15,7 +15,7 @@ The 10 most frequent `ADJ` types:  <em>celý, prvý, druhý, ďalšie, veľký, 
 
 The 10 most frequent ambiguous lemmas: <em>vysoký</em> (<tt><a href="sk-pos-ADJ.html">ADJ</a></tt> 57, <tt><a href="sk-pos-NOUN.html">NOUN</a></tt> 2), <em>známy</em> (<tt><a href="sk-pos-ADJ.html">ADJ</a></tt> 40, <tt><a href="sk-pos-NOUN.html">NOUN</a></tt> 4), <em>mladý</em> (<tt><a href="sk-pos-ADJ.html">ADJ</a></tt> 39, <tt><a href="sk-pos-NOUN.html">NOUN</a></tt> 3), <em>silný</em> (<tt><a href="sk-pos-ADJ.html">ADJ</a></tt> 25, <tt><a href="sk-pos-ADV.html">ADV</a></tt> 1), <em>istý</em> (<tt><a href="sk-pos-ADJ.html">ADJ</a></tt> 24, <tt><a href="sk-pos-DET.html">DET</a></tt> 19), <em>rád</em> (<tt><a href="sk-pos-ADJ.html">ADJ</a></tt> 24, <tt><a href="sk-pos-NOUN.html">NOUN</a></tt> 8, <tt><a href="sk-pos-PROPN.html">PROPN</a></tt> 3), <em>neznámy</em> (<tt><a href="sk-pos-ADJ.html">ADJ</a></tt> 19, <tt><a href="sk-pos-NOUN.html">NOUN</a></tt> 1), <em>milý</em> (<tt><a href="sk-pos-ADJ.html">ADJ</a></tt> 15, <tt><a href="sk-pos-NOUN.html">NOUN</a></tt> 1), <em>svätý</em> (<tt><a href="sk-pos-ADJ.html">ADJ</a></tt> 15, <tt><a href="sk-pos-NOUN.html">NOUN</a></tt> 4), <em>mŕtvy</em> (<tt><a href="sk-pos-ADJ.html">ADJ</a></tt> 14, <tt><a href="sk-pos-NOUN.html">NOUN</a></tt> 4)
 
-The 10 most frequent ambiguous types:  <em>mnohých</em> (<tt><a href="sk-pos-ADJ.html">ADJ</a></tt> 8, <tt><a href="sk-pos-NUM.html">NUM</a></tt> 2), <em>rád</em> (<tt><a href="sk-pos-ADJ.html">ADJ</a></tt> 4, <tt><a href="sk-pos-NOUN.html">NOUN</a></tt> 3), <em>druhom</em> (<tt><a href="sk-pos-ADJ.html">ADJ</a></tt> 7, <tt><a href="sk-pos-NOUN.html">NOUN</a></tt> 1), <em>isté</em> (<tt><a href="sk-pos-ADJ.html">ADJ</a></tt> 6, <tt><a href="sk-pos-DET.html">DET</a></tt> 6), <em>lepšie</em> (<tt><a href="sk-pos-ADJ.html">ADJ</a></tt> 7, <tt><a href="sk-pos-ADV.html">ADV</a></tt> 2, <tt><a href="sk-pos-NOUN.html">NOUN</a></tt> 1), <em>vysokej</em> (<tt><a href="sk-pos-ADJ.html">ADJ</a></tt> 5, <tt><a href="sk-pos-NOUN.html">NOUN</a></tt> 1), <em>známy</em> (<tt><a href="sk-pos-ADJ.html">ADJ</a></tt> 7, <tt><a href="sk-pos-NOUN.html">NOUN</a></tt> 2), <em>istý</em> (<tt><a href="sk-pos-ADJ.html">ADJ</a></tt> 5, <tt><a href="sk-pos-DET.html">DET</a></tt> 3), <em>radšej</em> (<tt><a href="sk-pos-ADJ.html">ADJ</a></tt> 2, <tt><a href="sk-pos-PART.html">PART</a></tt> 1), <em>zlá</em> (<tt><a href="sk-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="sk-pos-ADJ.html">ADJ</a></tt> 2)
+The 10 most frequent ambiguous types:  <em>mnohých</em> (<tt><a href="sk-pos-ADJ.html">ADJ</a></tt> 8, <tt><a href="sk-pos-NUM.html">NUM</a></tt> 2), <em>rád</em> (<tt><a href="sk-pos-ADJ.html">ADJ</a></tt> 4, <tt><a href="sk-pos-NOUN.html">NOUN</a></tt> 3), <em>druhom</em> (<tt><a href="sk-pos-ADJ.html">ADJ</a></tt> 7, <tt><a href="sk-pos-NOUN.html">NOUN</a></tt> 1), <em>isté</em> (<tt><a href="sk-pos-DET.html">DET</a></tt> 6, <tt><a href="sk-pos-ADJ.html">ADJ</a></tt> 6), <em>lepšie</em> (<tt><a href="sk-pos-ADJ.html">ADJ</a></tt> 7, <tt><a href="sk-pos-ADV.html">ADV</a></tt> 2, <tt><a href="sk-pos-NOUN.html">NOUN</a></tt> 1), <em>vysokej</em> (<tt><a href="sk-pos-ADJ.html">ADJ</a></tt> 5, <tt><a href="sk-pos-NOUN.html">NOUN</a></tt> 1), <em>známy</em> (<tt><a href="sk-pos-ADJ.html">ADJ</a></tt> 7, <tt><a href="sk-pos-NOUN.html">NOUN</a></tt> 2), <em>istý</em> (<tt><a href="sk-pos-ADJ.html">ADJ</a></tt> 5, <tt><a href="sk-pos-DET.html">DET</a></tt> 3), <em>radšej</em> (<tt><a href="sk-pos-ADJ.html">ADJ</a></tt> 2, <tt><a href="sk-pos-PART.html">PART</a></tt> 1), <em>zlá</em> (<tt><a href="sk-pos-ADJ.html">ADJ</a></tt> 2, <tt><a href="sk-pos-NOUN.html">NOUN</a></tt> 2)
 
 
 * <em>mnohých</em>
@@ -28,8 +28,8 @@ The 10 most frequent ambiguous types:  <em>mnohých</em> (<tt><a href="sk-pos-AD
   * <tt><a href="sk-pos-ADJ.html">ADJ</a></tt> 7: <em>Vigilius sa v tzv . <b>druhom</b> protokole vyjadril v súlade s týmto koncilom .</em>
   * <tt><a href="sk-pos-NOUN.html">NOUN</a></tt> 1: <em>Ďalšie spracovanie sa deje rôznými spôsobmi , ktoré vedú k rôznym „ <b>druhom</b> “ čaju .</em>
 * <em>isté</em>
-  * <tt><a href="sk-pos-ADJ.html">ADJ</a></tt> 6: <em>Jedno však bolo <b>isté</b> : smrť nikdy nepríde v očakávanú chvíľu .</em>
   * <tt><a href="sk-pos-DET.html">DET</a></tt> 6: <em>Ja som urobila to <b>isté</b> .</em>
+  * <tt><a href="sk-pos-ADJ.html">ADJ</a></tt> 6: <em>Jedno však bolo <b>isté</b> : smrť nikdy nepríde v očakávanú chvíľu .</em>
 * <em>lepšie</em>
   * <tt><a href="sk-pos-ADJ.html">ADJ</a></tt> 7: <em>“ Ďakujem , “ povedala som , lebo nič <b>lepšie</b> mi nenapadlo .</em>
   * <tt><a href="sk-pos-ADV.html">ADV</a></tt> 2: <em>“ Nie je zlý , hoci <b>lepšie</b> mi chutí náš . “</em>
@@ -47,8 +47,8 @@ The 10 most frequent ambiguous types:  <em>mnohých</em> (<tt><a href="sk-pos-AD
   * <tt><a href="sk-pos-ADJ.html">ADJ</a></tt> 2: <em>Keby ste si mohli vybrať , žili by ste <b>radšej</b> vtedy či teraz ?</em>
   * <tt><a href="sk-pos-PART.html">PART</a></tt> 1: <em>A bodliak Makulienku i motýľa Emanuela <b>radšej</b> pustil .</em>
 * <em>zlá</em>
-  * <tt><a href="sk-pos-NOUN.html">NOUN</a></tt> 2: <em>Väčšie <b>zlá</b> sústavne unikali ich pozornosti .</em>
   * <tt><a href="sk-pos-ADJ.html">ADJ</a></tt> 2: <em>“ Našiel si ju ? “ spytovala sa <b>zlá</b> víla .</em>
+  * <tt><a href="sk-pos-NOUN.html">NOUN</a></tt> 2: <em>Väčšie <b>zlá</b> sústavne unikali ich pozornosti .</em>
 
 ## Morphology
 

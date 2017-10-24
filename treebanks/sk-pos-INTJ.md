@@ -13,9 +13,9 @@ The 10 most frequent `INTJ` lemmas: <em>mhm, haló, pozor, bum, aha, amen, klap,
 
 The 10 most frequent `INTJ` types:  <em>Mhm, haló, pozor, Aha, Amen, BUM, KLAP, Uf, Vitajte, ach</em>
 
-The 10 most frequent ambiguous lemmas: <em>pozor</em> (<tt><a href="sk-pos-INTJ.html">INTJ</a></tt> 5, <tt><a href="sk-pos-NOUN.html">NOUN</a></tt> 3), <em>hotovo</em> (<tt><a href="sk-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="sk-pos-INTJ.html">INTJ</a></tt> 1), <em>pravdaže</em> (<tt><a href="sk-pos-PART.html">PART</a></tt> 2, <tt><a href="sk-pos-INTJ.html">INTJ</a></tt> 1), <em>tresk</em> (<tt><a href="sk-pos-NOUN.html">NOUN</a></tt> 11, <tt><a href="sk-pos-INTJ.html">INTJ</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>pozor</em> (<tt><a href="sk-pos-INTJ.html">INTJ</a></tt> 5, <tt><a href="sk-pos-NOUN.html">NOUN</a></tt> 3), <em>hotovo</em> (<tt><a href="sk-pos-INTJ.html">INTJ</a></tt> 1, <tt><a href="sk-pos-NOUN.html">NOUN</a></tt> 1), <em>pravdaže</em> (<tt><a href="sk-pos-PART.html">PART</a></tt> 2, <tt><a href="sk-pos-INTJ.html">INTJ</a></tt> 1), <em>tresk</em> (<tt><a href="sk-pos-NOUN.html">NOUN</a></tt> 11, <tt><a href="sk-pos-INTJ.html">INTJ</a></tt> 1)
 
-The 10 most frequent ambiguous types:  <em>pozor</em> (<tt><a href="sk-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="sk-pos-INTJ.html">INTJ</a></tt> 1), <em>Hotovo</em> (<tt><a href="sk-pos-INTJ.html">INTJ</a></tt> 1, <tt><a href="sk-pos-NOUN.html">NOUN</a></tt> 1), <em>Pravdaže</em> (<tt><a href="sk-pos-INTJ.html">INTJ</a></tt> 1, <tt><a href="sk-pos-PART.html">PART</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>pozor</em> (<tt><a href="sk-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="sk-pos-INTJ.html">INTJ</a></tt> 1), <em>Hotovo</em> (<tt><a href="sk-pos-INTJ.html">INTJ</a></tt> 1, <tt><a href="sk-pos-NOUN.html">NOUN</a></tt> 1), <em>Pravdaže</em> (<tt><a href="sk-pos-PART.html">PART</a></tt> 1, <tt><a href="sk-pos-INTJ.html">INTJ</a></tt> 1)
 
 
 * <em>pozor</em>
@@ -25,8 +25,8 @@ The 10 most frequent ambiguous types:  <em>pozor</em> (<tt><a href="sk-pos-NOUN.
   * <tt><a href="sk-pos-INTJ.html">INTJ</a></tt> 1: <em><b>Hotovo</b> !</em>
   * <tt><a href="sk-pos-NOUN.html">NOUN</a></tt> 1: <em><b>Hotovo</b> ! “ víťazoslávne sa rehotala Uršuľa .</em>
 * <em>Pravdaže</em>
-  * <tt><a href="sk-pos-INTJ.html">INTJ</a></tt> 1: <em>“ <b>Pravdaže</b> , poklad môj , “ odvetila mamička .</em>
   * <tt><a href="sk-pos-PART.html">PART</a></tt> 1: <em>“ <b>Pravdaže</b> , “ odvetila svätojánska muška a zasvietila jasnejšie .</em>
+  * <tt><a href="sk-pos-INTJ.html">INTJ</a></tt> 1: <em>“ <b>Pravdaže</b> , poklad môj , “ odvetila mamička .</em>
 
 ## Morphology
 

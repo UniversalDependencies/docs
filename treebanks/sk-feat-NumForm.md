@@ -18,7 +18,7 @@ The feature is used with 1 part-of-speech tags: <tt><a href="sk-pos-NUM.html">NU
 
 945 <tt><a href="sk-pos-NUM.html">NUM</a></tt> tokens (60% of all `NUM` tokens) have a non-empty value of `NumForm`.
 
-The most frequent other feature values with which `NUM` and `NumForm` co-occurred: <tt><a href="sk-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (945; 100%), <tt><a href="sk-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (945; 100%), <tt><a href="sk-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (945; 100%), <tt><a href="sk-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (945; 100%).
+The most frequent other feature values with which `NUM` and `NumForm` co-occurred: <tt><a href="sk-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (945; 100%), <tt><a href="sk-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (945; 100%), <tt><a href="sk-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (945; 100%), <tt><a href="sk-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (945; 100%).
 
 `NUM` tokens may have the following values of `NumForm`:
 
@@ -31,6 +31,6 @@ The most frequent other feature values with which `NUM` and `NumForm` co-occurre
 The 10 most frequent relations where parent and child node agree in `NumForm`:
 <tt>NUM --[<tt><a href="sk-dep-conj.html">conj</a></tt>]--> NUM</tt> (81; 100%),
 <tt>NUM --[<tt><a href="sk-dep-nummod.html">nummod</a></tt>]--> NUM</tt> (48; 79%),
-<tt>NUM --[<tt><a href="sk-dep-appos.html">appos</a></tt>]--> NUM</tt> (1; 100%),
-<tt>NUM --[<tt><a href="sk-dep-dep.html">dep</a></tt>]--> NUM</tt> (1; 100%).
+<tt>NUM --[<tt><a href="sk-dep-dep.html">dep</a></tt>]--> NUM</tt> (1; 100%),
+<tt>NUM --[<tt><a href="sk-dep-appos.html">appos</a></tt>]--> NUM</tt> (1; 100%).
 
