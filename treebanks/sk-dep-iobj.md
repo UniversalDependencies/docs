@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-952 nodes (1%) are attached to their parents as `iobj`.
+751 nodes (1%) are attached to their parents as `iobj`.
 
-531 instances of `iobj` (56%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.84768907563025.
+384 instances of `iobj` (51%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.57390146471372.
 
-The following 7 pairs of parts of speech are connected with `iobj`: <tt><a href="sk-pos-VERB.html">VERB</a></tt>-<tt><a href="sk-pos-PRON.html">PRON</a></tt> (534; 56% instances), <tt><a href="sk-pos-VERB.html">VERB</a></tt>-<tt><a href="sk-pos-NOUN.html">NOUN</a></tt> (260; 27% instances), <tt><a href="sk-pos-VERB.html">VERB</a></tt>-<tt><a href="sk-pos-PROPN.html">PROPN</a></tt> (95; 10% instances), <tt><a href="sk-pos-VERB.html">VERB</a></tt>-<tt><a href="sk-pos-DET.html">DET</a></tt> (40; 4% instances), <tt><a href="sk-pos-VERB.html">VERB</a></tt>-<tt><a href="sk-pos-ADJ.html">ADJ</a></tt> (17; 2% instances), <tt><a href="sk-pos-VERB.html">VERB</a></tt>-<tt><a href="sk-pos-NUM.html">NUM</a></tt> (5; 1% instances), <tt><a href="sk-pos-VERB.html">VERB</a></tt>-<tt><a href="sk-pos-X.html">X</a></tt> (1; 0% instances).
+The following 7 pairs of parts of speech are connected with `iobj`: <tt><a href="sk-pos-VERB.html">VERB</a></tt>-<tt><a href="sk-pos-PRON.html">PRON</a></tt> (501; 67% instances), <tt><a href="sk-pos-VERB.html">VERB</a></tt>-<tt><a href="sk-pos-NOUN.html">NOUN</a></tt> (145; 19% instances), <tt><a href="sk-pos-VERB.html">VERB</a></tt>-<tt><a href="sk-pos-PROPN.html">PROPN</a></tt> (77; 10% instances), <tt><a href="sk-pos-VERB.html">VERB</a></tt>-<tt><a href="sk-pos-DET.html">DET</a></tt> (18; 2% instances), <tt><a href="sk-pos-VERB.html">VERB</a></tt>-<tt><a href="sk-pos-ADJ.html">ADJ</a></tt> (6; 1% instances), <tt><a href="sk-pos-VERB.html">VERB</a></tt>-<tt><a href="sk-pos-NUM.html">NUM</a></tt> (3; 0% instances), <tt><a href="sk-pos-VERB.html">VERB</a></tt>-<tt><a href="sk-pos-X.html">X</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -39,19 +39,20 @@ The following 7 pairs of parts of speech are connected with `iobj`: <tt><a href=
 
 
 ~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
-# visual-style 2 5 iobj	color:blue
-1	Čo	čo	PRON	PFns4	Case=Acc|Gender=Neut|Number=Sing|PronType=Int,Rel	2	obj	_	_
-2	napísala	napísať	VERB	VLdscf+	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbForm=Part	0	root	_	_
-3	Granma	granma	X	%	Foreign=Yes	2	nsubj	_	_
-4	o	o	ADP	Eu6	AdpType=Prep|Case=Loc	5	case	_	_
-5	zatknutí	zatknutie	NOUN	SSns6	Case=Loc|Gender=Neut|Number=Sing	2	iobj	_	_
-6	Pilipa	pilip	PROPN	SSms2:r	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	5	nmod	_	_
-7	a	a	CCONJ	O	_	8	cc	_	_
-8	Bubeníka	bubeník	PROPN	SSms2:r	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	6	conj	_	_
+# visual-style 2 8 iobj	color:blue
+1	Prorok	prorok	NOUN	SSms1	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	_
+2	sprostredkováva	sprostredkovávať	VERB	VKesc+	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	Božie	boží	ADJ	AAns4x:r	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	4	amod	_	_
+4	slovo	slovo	NOUN	SSns4	Case=Acc|Gender=Neut|Number=Sing	2	obj	_	_
+5	a	a	CCONJ	O	_	7	cc	_	_
+6	jeho	jeho	DET	PUfs4	Case=Acc|Gender=Fem|Gender[psor]=Masc,Neut|Number=Sing|Number[psor]=Sing|Poss=Yes|PronType=Prs	7	det	_	_
+7	vôľu	vôľa	NOUN	SSfs4	Case=Acc|Gender=Fem|Number=Sing	4	conj	_	_
+8	ľuďom	človek	NOUN	SSmp3	Animacy=Anim|Case=Dat|Gender=Masc|Number=Plur	2	iobj	_	SpaceAfter=No
+9	.	.	PUNCT	Z	_	2	punct	_	_
 
 ~~~
 
@@ -70,7 +71,7 @@ The following 7 pairs of parts of speech are connected with `iobj`: <tt><a href=
 6	prihovárá	prihovárať	VERB	VKesc+:q	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|Typo=Yes|VerbForm=Fin	1	conj	_	_
 7	sa	sa	PRON	R	PronType=Prs|Reflex=Yes	6	expl:pv	_	_
 8	za	za	ADP	Eu4	AdpType=Prep|Case=Acc	9	case	_	_
-9	ne	ona	PRON	PFfp4	Case=Acc|Gender=Fem|Number=Plur|PronType=Prs	6	obj	_	SpaceAfter=No
+9	ne	ona	PRON	PFfp4	Case=Acc|Gender=Fem|Number=Plur|PronType=Prs	6	obl:arg	_	SpaceAfter=No
 10	.	.	PUNCT	Z	_	1	punct	_	_
 
 ~~~

@@ -82,7 +82,7 @@ subset and conversion to Universal Dependencies was done by Dan Zeman.
 
 ## Relations
 
-[acl](sk-dep-acl.html) – [advcl](sk-dep-advcl.html) – [advmod](sk-dep-advmod.html) – [advmod:emph](sk-dep-advmod-emph.html) – [amod](sk-dep-amod.html) – [appos](sk-dep-appos.html) – [aux](sk-dep-aux.html) – [aux:pass](sk-dep-aux-pass.html) – [case](sk-dep-case.html) – [cc](sk-dep-cc.html) – [ccomp](sk-dep-ccomp.html) – [compound](sk-dep-compound.html) – [conj](sk-dep-conj.html) – [cop](sk-dep-cop.html) – [csubj](sk-dep-csubj.html) – [csubj:pass](sk-dep-csubj-pass.html) – [dep](sk-dep-dep.html) – [det](sk-dep-det.html) – [det:numgov](sk-dep-det-numgov.html) – [discourse](sk-dep-discourse.html) – [expl:pass](sk-dep-expl-pass.html) – [expl:pv](sk-dep-expl-pv.html) – [fixed](sk-dep-fixed.html) – [flat](sk-dep-flat.html) – [flat:foreign](sk-dep-flat-foreign.html) – [iobj](sk-dep-iobj.html) – [mark](sk-dep-mark.html) – [nmod](sk-dep-nmod.html) – [nsubj](sk-dep-nsubj.html) – [nsubj:pass](sk-dep-nsubj-pass.html) – [nummod](sk-dep-nummod.html) – [obj](sk-dep-obj.html) – [obl](sk-dep-obl.html) – [orphan](sk-dep-orphan.html) – [parataxis](sk-dep-parataxis.html) – [punct](sk-dep-punct.html) – [root](sk-dep-root.html) – [vocative](sk-dep-vocative.html) – [xcomp](sk-dep-xcomp.html)
+[acl](sk-dep-acl.html) – [advcl](sk-dep-advcl.html) – [advmod](sk-dep-advmod.html) – [advmod:emph](sk-dep-advmod-emph.html) – [amod](sk-dep-amod.html) – [appos](sk-dep-appos.html) – [aux](sk-dep-aux.html) – [aux:pass](sk-dep-aux-pass.html) – [case](sk-dep-case.html) – [cc](sk-dep-cc.html) – [ccomp](sk-dep-ccomp.html) – [compound](sk-dep-compound.html) – [conj](sk-dep-conj.html) – [cop](sk-dep-cop.html) – [csubj](sk-dep-csubj.html) – [csubj:pass](sk-dep-csubj-pass.html) – [dep](sk-dep-dep.html) – [det](sk-dep-det.html) – [det:numgov](sk-dep-det-numgov.html) – [discourse](sk-dep-discourse.html) – [expl:pass](sk-dep-expl-pass.html) – [expl:pv](sk-dep-expl-pv.html) – [fixed](sk-dep-fixed.html) – [flat](sk-dep-flat.html) – [flat:foreign](sk-dep-flat-foreign.html) – [iobj](sk-dep-iobj.html) – [mark](sk-dep-mark.html) – [nmod](sk-dep-nmod.html) – [nsubj](sk-dep-nsubj.html) – [nsubj:pass](sk-dep-nsubj-pass.html) – [nummod](sk-dep-nummod.html) – [obj](sk-dep-obj.html) – [obl](sk-dep-obl.html) – [obl:agent](sk-dep-obl-agent.html) – [obl:arg](sk-dep-obl-arg.html) – [orphan](sk-dep-orphan.html) – [parataxis](sk-dep-parataxis.html) – [punct](sk-dep-punct.html) – [root](sk-dep-root.html) – [vocative](sk-dep-vocative.html) – [xcomp](sk-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
@@ -779,116 +779,39 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB--NOUN-Acc-ADP(na) (1)</li>
       <li>VERB-Conv--NOUN-Acc (4)</li>
       <li>VERB-Conv--NOUN-Dat (1)</li>
-      <li>VERB-Conv--NOUN-Gen-ADP(od) (1)</li>
       <li>VERB-Fin--NOUN-Acc (828)</li>
-      <li>VERB-Fin--NOUN-Acc-ADP(na) (29)</li>
-      <li>VERB-Fin--NOUN-Acc-ADP(o) (42)</li>
-      <li>VERB-Fin--NOUN-Acc-ADP(v) (4)</li>
-      <li>VERB-Fin--NOUN-Acc-ADP(za) (10)</li>
-      <li>VERB-Fin--NOUN-Dat (34)</li>
-      <li>VERB-Fin--NOUN-Dat-ADP(k) (20)</li>
-      <li>VERB-Fin--NOUN-Dat-ADP(proti) (2)</li>
+      <li>VERB-Fin--NOUN-Dat (35)</li>
       <li>VERB-Fin--NOUN-Gen (25)</li>
-      <li>VERB-Fin--NOUN-Gen-ADP(bez) (1)</li>
-      <li>VERB-Fin--NOUN-Gen-ADP(do) (1)</li>
-      <li>VERB-Fin--NOUN-Gen-ADP(od) (6)</li>
-      <li>VERB-Fin--NOUN-Gen-ADP(z) (7)</li>
       <li>VERB-Fin--NOUN-Ins (21)</li>
-      <li>VERB-Fin--NOUN-Ins-ADP(nad) (1)</li>
-      <li>VERB-Fin--NOUN-Ins-ADP(pred) (2)</li>
-      <li>VERB-Fin--NOUN-Ins-ADP(s) (26)</li>
-      <li>VERB-Fin--NOUN-Loc-ADP(na) (5)</li>
-      <li>VERB-Fin--NOUN-Loc-ADP(o) (14)</li>
-      <li>VERB-Fin--NOUN-Loc-ADP(po) (2)</li>
-      <li>VERB-Fin--NOUN-Loc-ADP(pri) (1)</li>
-      <li>VERB-Fin--NOUN-Loc-ADP(v) (1)</li>
       <li>VERB-Fin--NOUN-Nom (11)</li>
       <li>VERB-Fin--PRON (5)</li>
       <li>VERB-Fin--PRON-Acc (303)</li>
-      <li>VERB-Fin--PRON-Acc-ADP(na) (14)</li>
-      <li>VERB-Fin--PRON-Acc-ADP(o) (4)</li>
-      <li>VERB-Fin--PRON-Acc-ADP(pre) (2)</li>
-      <li>VERB-Fin--PRON-Acc-ADP(za) (1)</li>
       <li>VERB-Fin--PRON-Dat (97)</li>
-      <li>VERB-Fin--PRON-Dat-ADP(k) (3)</li>
       <li>VERB-Fin--PRON-Gen (3)</li>
-      <li>VERB-Fin--PRON-Gen-ADP(od) (1)</li>
-      <li>VERB-Fin--PRON-Gen-ADP(z) (3)</li>
       <li>VERB-Fin--PRON-Ins (1)</li>
-      <li>VERB-Fin--PRON-Ins-ADP(nad) (2)</li>
-      <li>VERB-Fin--PRON-Ins-ADP(pred) (1)</li>
-      <li>VERB-Fin--PRON-Ins-ADP(s) (14)</li>
-      <li>VERB-Fin--PRON-Loc-ADP(na) (3)</li>
-      <li>VERB-Fin--PRON-Loc-ADP(o) (6)</li>
-      <li>VERB-Fin--PRON-Loc-ADP(po) (3)</li>
       <li>VERB-Fin--PRON-Nom (3)</li>
       <li>VERB-Inf--NOUN-Acc (424)</li>
-      <li>VERB-Inf--NOUN-Acc-ADP(na) (17)</li>
-      <li>VERB-Inf--NOUN-Acc-ADP(o) (8)</li>
-      <li>VERB-Inf--NOUN-Acc-ADP(v) (2)</li>
-      <li>VERB-Inf--NOUN-Acc-ADP(za) (4)</li>
       <li>VERB-Inf--NOUN-Dat (27)</li>
-      <li>VERB-Inf--NOUN-Dat-ADP(k) (2)</li>
       <li>VERB-Inf--NOUN-Gen (11)</li>
-      <li>VERB-Inf--NOUN-Gen-ADP(z) (2)</li>
       <li>VERB-Inf--NOUN-Ins (10)</li>
-      <li>VERB-Inf--NOUN-Ins-ADP(nad) (2)</li>
-      <li>VERB-Inf--NOUN-Ins-ADP(s) (14)</li>
-      <li>VERB-Inf--NOUN-Loc-ADP(na) (2)</li>
-      <li>VERB-Inf--NOUN-Loc-ADP(o) (7)</li>
-      <li>VERB-Inf--NOUN-Loc-ADP(po) (1)</li>
-      <li>VERB-Inf--NOUN-Loc-ADP(pri) (1)</li>
-      <li>VERB-Inf--NOUN-Loc-ADP(v) (11)</li>
       <li>VERB-Inf--NOUN-Nom (2)</li>
       <li>VERB-Inf--PRON (7)</li>
       <li>VERB-Inf--PRON-Acc (118)</li>
-      <li>VERB-Inf--PRON-Acc-ADP(na) (4)</li>
-      <li>VERB-Inf--PRON-Acc-ADP(o) (1)</li>
       <li>VERB-Inf--PRON-Dat (36)</li>
       <li>VERB-Inf--PRON-Gen (2)</li>
       <li>VERB-Inf--PRON-Ins (1)</li>
-      <li>VERB-Inf--PRON-Ins-ADP(nad) (1)</li>
-      <li>VERB-Inf--PRON-Ins-ADP(s) (9)</li>
       <li>VERB-Part--NOUN-Acc (2028)</li>
-      <li>VERB-Part--NOUN-Acc-ADP(na) (94)</li>
-      <li>VERB-Part--NOUN-Acc-ADP(o) (30)</li>
-      <li>VERB-Part--NOUN-Acc-ADP(pre) (3)</li>
-      <li>VERB-Part--NOUN-Acc-ADP(v) (1)</li>
-      <li>VERB-Part--NOUN-Acc-ADP(za) (8)</li>
       <li>VERB-Part--NOUN-Dat (78)</li>
-      <li>VERB-Part--NOUN-Dat-ADP(k) (35)</li>
-      <li>VERB-Part--NOUN-Dat-ADP(proti) (5)</li>
       <li>VERB-Part--NOUN-Gen (46)</li>
-      <li>VERB-Part--NOUN-Gen-ADP(do) (16)</li>
-      <li>VERB-Part--NOUN-Gen-ADP(od) (2)</li>
-      <li>VERB-Part--NOUN-Gen-ADP(z) (8)</li>
-      <li>VERB-Part--NOUN-Ins (121)</li>
-      <li>VERB-Part--NOUN-Ins-ADP(pred) (5)</li>
-      <li>VERB-Part--NOUN-Ins-ADP(s) (38)</li>
-      <li>VERB-Part--NOUN-Loc-ADP(na) (8)</li>
-      <li>VERB-Part--NOUN-Loc-ADP(o) (28)</li>
-      <li>VERB-Part--NOUN-Loc-ADP(po) (3)</li>
-      <li>VERB-Part--NOUN-Loc-ADP(v) (13)</li>
+      <li>VERB-Part--NOUN-Ins (120)</li>
       <li>VERB-Part--NOUN-Nom (18)</li>
       <li>VERB-Part--PRON (13)</li>
       <li>VERB-Part--PRON-Acc (737)</li>
-      <li>VERB-Part--PRON-Acc-ADP(na) (44)</li>
-      <li>VERB-Part--PRON-Acc-ADP(o) (2)</li>
-      <li>VERB-Part--PRON-Acc-ADP(pre) (3)</li>
       <li>VERB-Part--PRON-Dat (302)</li>
-      <li>VERB-Part--PRON-Dat-ADP(k) (3)</li>
-      <li>VERB-Part--PRON-Dat-ADP(proti) (2)</li>
       <li>VERB-Part--PRON-Gen (15)</li>
-      <li>VERB-Part--PRON-Gen-ADP(do) (1)</li>
-      <li>VERB-Part--PRON-Gen-ADP(od) (1)</li>
-      <li>VERB-Part--PRON-Gen-ADP(z) (3)</li>
       <li>VERB-Part--PRON-Ins (4)</li>
-      <li>VERB-Part--PRON-Ins-ADP(s) (4)</li>
-      <li>VERB-Part--PRON-Loc-ADP(o) (8)</li>
-      <li>VERB-Part--PRON-Loc-ADP(po) (2)</li>
       <li>VERB-Part--PRON-Nom (2)</li>
     </ul>
   </li>
@@ -898,79 +821,29 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
   <li><a>iobj</a>
     <ul>
       <li>VERB-Fin--NOUN-Acc (4)</li>
-      <li>VERB-Fin--NOUN-Acc-ADP(na) (4)</li>
-      <li>VERB-Fin--NOUN-Acc-ADP(o) (2)</li>
-      <li>VERB-Fin--NOUN-Acc-ADP(pre) (2)</li>
-      <li>VERB-Fin--NOUN-Acc-ADP(za) (7)</li>
-      <li>VERB-Fin--NOUN-Dat (15)</li>
+      <li>VERB-Fin--NOUN-Dat (14)</li>
       <li>VERB-Fin--NOUN-Gen (1)</li>
-      <li>VERB-Fin--NOUN-Gen-ADP(do) (1)</li>
-      <li>VERB-Fin--NOUN-Gen-ADP(od) (3)</li>
-      <li>VERB-Fin--NOUN-Gen-ADP(u) (1)</li>
-      <li>VERB-Fin--NOUN-Gen-ADP(z) (2)</li>
       <li>VERB-Fin--NOUN-Ins (3)</li>
-      <li>VERB-Fin--NOUN-Ins-ADP(pred) (3)</li>
-      <li>VERB-Fin--NOUN-Ins-ADP(s) (3)</li>
-      <li>VERB-Fin--NOUN-Loc-ADP(o) (3)</li>
-      <li>VERB-Fin--NOUN-Loc-ADP(v) (1)</li>
       <li>VERB-Fin--PRON (4)</li>
       <li>VERB-Fin--PRON-Acc (8)</li>
-      <li>VERB-Fin--PRON-Acc-ADP(na) (2)</li>
-      <li>VERB-Fin--PRON-Acc-ADP(pre) (2)</li>
       <li>VERB-Fin--PRON-Dat (82)</li>
       <li>VERB-Fin--PRON-Gen (1)</li>
-      <li>VERB-Fin--PRON-Gen-ADP(od) (4)</li>
-      <li>VERB-Fin--PRON-Gen-ADP(z) (3)</li>
-      <li>VERB-Fin--PRON-Ins-ADP(s) (1)</li>
-      <li>VERB-Fin--PRON-Loc-ADP(o) (2)</li>
-      <li>VERB-Fin--PRON-Loc-ADP(po) (1)</li>
       <li>VERB-Inf--NOUN-Acc (1)</li>
-      <li>VERB-Inf--NOUN-Acc-ADP(na) (3)</li>
-      <li>VERB-Inf--NOUN-Acc-ADP(o) (3)</li>
       <li>VERB-Inf--NOUN-Dat (17)</li>
       <li>VERB-Inf--NOUN-Gen (1)</li>
-      <li>VERB-Inf--NOUN-Gen-ADP(od) (3)</li>
       <li>VERB-Inf--NOUN-Ins (1)</li>
-      <li>VERB-Inf--NOUN-Ins-ADP(pred) (2)</li>
-      <li>VERB-Inf--NOUN-Ins-ADP(s) (3)</li>
-      <li>VERB-Inf--NOUN-Loc-ADP(o) (1)</li>
       <li>VERB-Inf--PRON (4)</li>
       <li>VERB-Inf--PRON-Acc (5)</li>
-      <li>VERB-Inf--PRON-Acc-ADP(na) (1)</li>
-      <li>VERB-Inf--PRON-Acc-ADP(pre) (1)</li>
       <li>VERB-Inf--PRON-Dat (25)</li>
       <li>VERB-Part--NOUN-Acc (17)</li>
-      <li>VERB-Part--NOUN-Acc-ADP(na) (6)</li>
-      <li>VERB-Part--NOUN-Acc-ADP(o) (6)</li>
-      <li>VERB-Part--NOUN-Acc-ADP(pre) (3)</li>
-      <li>VERB-Part--NOUN-Acc-ADP(za) (25)</li>
       <li>VERB-Part--NOUN-Dat (70)</li>
-      <li>VERB-Part--NOUN-Dat-ADP(k) (5)</li>
-      <li>VERB-Part--NOUN-Dat-ADP(proti) (1)</li>
       <li>VERB-Part--NOUN-Gen (6)</li>
-      <li>VERB-Part--NOUN-Gen-ADP(od) (3)</li>
-      <li>VERB-Part--NOUN-Gen-ADP(z) (3)</li>
       <li>VERB-Part--NOUN-Ins (9)</li>
-      <li>VERB-Part--NOUN-Ins-ADP(pred) (3)</li>
-      <li>VERB-Part--NOUN-Ins-ADP(s) (3)</li>
-      <li>VERB-Part--NOUN-Loc-ADP(na) (2)</li>
-      <li>VERB-Part--NOUN-Loc-ADP(o) (5)</li>
-      <li>VERB-Part--NOUN-Loc-ADP(v) (2)</li>
       <li>VERB-Part--NOUN-Nom (1)</li>
       <li>VERB-Part--PRON (33)</li>
       <li>VERB-Part--PRON-Acc (34)</li>
-      <li>VERB-Part--PRON-Acc-ADP(na) (4)</li>
-      <li>VERB-Part--PRON-Acc-ADP(o) (1)</li>
-      <li>VERB-Part--PRON-Acc-ADP(pre) (1)</li>
-      <li>VERB-Part--PRON-Acc-ADP(za) (1)</li>
       <li>VERB-Part--PRON-Dat (301)</li>
-      <li>VERB-Part--PRON-Dat-ADP(proti) (1)</li>
       <li>VERB-Part--PRON-Gen (4)</li>
-      <li>VERB-Part--PRON-Gen-ADP(od) (1)</li>
-      <li>VERB-Part--PRON-Gen-ADP(z) (1)</li>
-      <li>VERB-Part--PRON-Ins-ADP(s) (1)</li>
-      <li>VERB-Part--PRON-Ins-ADP(za) (1)</li>
-      <li>VERB-Part--PRON-Loc-ADP(o) (4)</li>
     </ul>
   </li>
 </ul>
@@ -978,7 +851,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus uses 8 relation subtypes: <a>advmod:emph</a>, <a>aux:pass</a>, <a>csubj:pass</a>, <a>det:numgov</a>, <a>expl:pass</a>, <a>expl:pv</a>, <a>flat:foreign</a>, <a>nsubj:pass</a></li>
+<li>This corpus uses 10 relation subtypes: <a>advmod:emph</a>, <a>aux:pass</a>, <a>csubj:pass</a>, <a>det:numgov</a>, <a>expl:pass</a>, <a>expl:pv</a>, <a>flat:foreign</a>, <a>nsubj:pass</a>, <a>obl:agent</a>, <a>obl:arg</a></li>
 <li>The following 1 main types are not used alone, they are always subtyped: <a>expl</a></li>
 <li>The following 5 relation types are not used in this corpus at all: <a>dislocated</a>, <a>clf</a>, <a>list</a>, <a>goeswith</a>, <a>reparandum</a></li>
 </ul>

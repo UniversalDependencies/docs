@@ -8,28 +8,23 @@ udver: '2'
 
 This relation is universal.
 
-7248 nodes (7%) are attached to their parents as `obj`.
+6295 nodes (6%) are attached to their parents as `obj`.
 
-4926 instances of `obj` (68%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.99765452538631.
+4211 instances of `obj` (67%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.89166004765687.
 
-The following 29 pairs of parts of speech are connected with `obj`: <tt><a href="sk-pos-VERB.html">VERB</a></tt>-<tt><a href="sk-pos-NOUN.html">NOUN</a></tt> (4235; 58% instances), <tt><a href="sk-pos-VERB.html">VERB</a></tt>-<tt><a href="sk-pos-PRON.html">PRON</a></tt> (1794; 25% instances), <tt><a href="sk-pos-VERB.html">VERB</a></tt>-<tt><a href="sk-pos-DET.html">DET</a></tt> (455; 6% instances), <tt><a href="sk-pos-VERB.html">VERB</a></tt>-<tt><a href="sk-pos-PROPN.html">PROPN</a></tt> (379; 5% instances), <tt><a href="sk-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sk-pos-NOUN.html">NOUN</a></tt> (160; 2% instances), <tt><a href="sk-pos-VERB.html">VERB</a></tt>-<tt><a href="sk-pos-NUM.html">NUM</a></tt> (66; 1% instances), <tt><a href="sk-pos-VERB.html">VERB</a></tt>-<tt><a href="sk-pos-ADJ.html">ADJ</a></tt> (47; 1% instances), <tt><a href="sk-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sk-pos-PRON.html">PRON</a></tt> (24; 0% instances), <tt><a href="sk-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sk-pos-PROPN.html">PROPN</a></tt> (23; 0% instances), <tt><a href="sk-pos-VERB.html">VERB</a></tt>-<tt><a href="sk-pos-X.html">X</a></tt> (22; 0% instances), <tt><a href="sk-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sk-pos-DET.html">DET</a></tt> (10; 0% instances), <tt><a href="sk-pos-VERB.html">VERB</a></tt>-<tt><a href="sk-pos-ADV.html">ADV</a></tt> (5; 0% instances), <tt><a href="sk-pos-ADV.html">ADV</a></tt>-<tt><a href="sk-pos-NOUN.html">NOUN</a></tt> (4; 0% instances), <tt><a href="sk-pos-SYM.html">SYM</a></tt>-<tt><a href="sk-pos-NUM.html">NUM</a></tt> (3; 0% instances), <tt><a href="sk-pos-X.html">X</a></tt>-<tt><a href="sk-pos-X.html">X</a></tt> (3; 0% instances), <tt><a href="sk-pos-ADV.html">ADV</a></tt>-<tt><a href="sk-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="sk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sk-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="sk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sk-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="sk-pos-VERB.html">VERB</a></tt>-<tt><a href="sk-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances), <tt><a href="sk-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sk-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="sk-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sk-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="sk-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sk-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="sk-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sk-pos-X.html">X</a></tt> (1; 0% instances), <tt><a href="sk-pos-ADP.html">ADP</a></tt>-<tt><a href="sk-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="sk-pos-ADV.html">ADV</a></tt>-<tt><a href="sk-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="sk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sk-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="sk-pos-VERB.html">VERB</a></tt>-<tt><a href="sk-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="sk-pos-VERB.html">VERB</a></tt>-<tt><a href="sk-pos-SYM.html">SYM</a></tt> (1; 0% instances), <tt><a href="sk-pos-X.html">X</a></tt>-<tt><a href="sk-pos-DET.html">DET</a></tt> (1; 0% instances).
+The following 25 pairs of parts of speech are connected with `obj`: <tt><a href="sk-pos-VERB.html">VERB</a></tt>-<tt><a href="sk-pos-NOUN.html">NOUN</a></tt> (3689; 59% instances), <tt><a href="sk-pos-VERB.html">VERB</a></tt>-<tt><a href="sk-pos-PRON.html">PRON</a></tt> (1649; 26% instances), <tt><a href="sk-pos-VERB.html">VERB</a></tt>-<tt><a href="sk-pos-DET.html">DET</a></tt> (374; 6% instances), <tt><a href="sk-pos-VERB.html">VERB</a></tt>-<tt><a href="sk-pos-PROPN.html">PROPN</a></tt> (300; 5% instances), <tt><a href="sk-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sk-pos-NOUN.html">NOUN</a></tt> (100; 2% instances), <tt><a href="sk-pos-VERB.html">VERB</a></tt>-<tt><a href="sk-pos-NUM.html">NUM</a></tt> (62; 1% instances), <tt><a href="sk-pos-VERB.html">VERB</a></tt>-<tt><a href="sk-pos-ADJ.html">ADJ</a></tt> (43; 1% instances), <tt><a href="sk-pos-VERB.html">VERB</a></tt>-<tt><a href="sk-pos-X.html">X</a></tt> (19; 0% instances), <tt><a href="sk-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sk-pos-PRON.html">PRON</a></tt> (17; 0% instances), <tt><a href="sk-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sk-pos-PROPN.html">PROPN</a></tt> (14; 0% instances), <tt><a href="sk-pos-VERB.html">VERB</a></tt>-<tt><a href="sk-pos-ADV.html">ADV</a></tt> (5; 0% instances), <tt><a href="sk-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sk-pos-DET.html">DET</a></tt> (4; 0% instances), <tt><a href="sk-pos-SYM.html">SYM</a></tt>-<tt><a href="sk-pos-NUM.html">NUM</a></tt> (3; 0% instances), <tt><a href="sk-pos-X.html">X</a></tt>-<tt><a href="sk-pos-X.html">X</a></tt> (3; 0% instances), <tt><a href="sk-pos-ADV.html">ADV</a></tt>-<tt><a href="sk-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="sk-pos-VERB.html">VERB</a></tt>-<tt><a href="sk-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances), <tt><a href="sk-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sk-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="sk-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sk-pos-X.html">X</a></tt> (1; 0% instances), <tt><a href="sk-pos-ADV.html">ADV</a></tt>-<tt><a href="sk-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="sk-pos-ADV.html">ADV</a></tt>-<tt><a href="sk-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="sk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sk-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="sk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sk-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="sk-pos-VERB.html">VERB</a></tt>-<tt><a href="sk-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="sk-pos-VERB.html">VERB</a></tt>-<tt><a href="sk-pos-SYM.html">SYM</a></tt> (1; 0% instances), <tt><a href="sk-pos-X.html">X</a></tt>-<tt><a href="sk-pos-DET.html">DET</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 7 obj	color:blue
-1	V	v	ADP	Eu6	AdpType=Prep|Case=Loc	3	case	_	_
-2	prvom	prvý	ADJ	NAis6	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing|NumType=Ord	3	amod	_	_
-3	rade	rad	NOUN	SSis6	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	5	obl	_	_
-4	vraj	vraj	PART	T	_	5	advmod	_	_
-5	došlo	dôjsť	VERB	VLdscn+	Aspect=Perf|Gender=Neut|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbForm=Part	0	root	_	_
-6	k	k	ADP	Eu3	AdpType=Prep|Case=Dat	7	case	_	_
-7	nepochopeniu	nepochopenie	NOUN	SSns3	Case=Dat|Gender=Neut|Number=Sing	5	obj	_	SpaceAfter=No
-8	.	.	PUNCT	ZIP	VerbForm=Inf	5	punct	_	_
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 3 obj	color:blue
+1	Koštunica	koštunica	PROPN	SSms1:r	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	_
+2	nemá	mať	VERB	VKesc-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	čas	čas	NOUN	SSis4	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	2	obj	_	_
 
 ~~~
 

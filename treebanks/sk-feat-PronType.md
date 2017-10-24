@@ -73,6 +73,6 @@ The 10 most frequent relations where parent and child node agree in `PronType`:
 <tt>ADV --[<tt><a href="sk-dep-conj.html">conj</a></tt>]--> ADV</tt> (5; 63%),
 <tt>PRON --[<tt><a href="sk-dep-conj.html">conj</a></tt>]--> PRON</tt> (4; 100%),
 <tt>PRON --[<tt><a href="sk-dep-orphan.html">orphan</a></tt>]--> PRON</tt> (3; 100%),
-<tt>PRON --[<tt><a href="sk-dep-appos.html">appos</a></tt>]--> PRON</tt> (1; 100%),
-<tt>DET --[<tt><a href="sk-dep-dep.html">dep</a></tt>]--> ADV</tt> (1; 100%).
+<tt>DET --[<tt><a href="sk-dep-dep.html">dep</a></tt>]--> ADV</tt> (1; 100%),
+<tt>PRON --[<tt><a href="sk-dep-appos.html">appos</a></tt>]--> PRON</tt> (1; 100%).
 

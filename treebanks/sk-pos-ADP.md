@@ -84,7 +84,7 @@ Parents of `ADP` nodes belong to 11 different parts of speech: <tt><a href="sk-p
 
 The highest child degree of a `ADP` node is 4.
 
-Children of `ADP` nodes are attached using 7 different relations: <tt><a href="sk-dep-fixed.html">fixed</a></tt> (89; 89% instances), <tt><a href="sk-dep-punct.html">punct</a></tt> (5; 5% instances), <tt><a href="sk-dep-nmod.html">nmod</a></tt> (2; 2% instances), <tt><a href="sk-dep-case.html">case</a></tt> (1; 1% instances), <tt><a href="sk-dep-cc.html">cc</a></tt> (1; 1% instances), <tt><a href="sk-dep-conj.html">conj</a></tt> (1; 1% instances), <tt><a href="sk-dep-obj.html">obj</a></tt> (1; 1% instances)
+Children of `ADP` nodes are attached using 7 different relations: <tt><a href="sk-dep-fixed.html">fixed</a></tt> (89; 89% instances), <tt><a href="sk-dep-punct.html">punct</a></tt> (5; 5% instances), <tt><a href="sk-dep-nmod.html">nmod</a></tt> (2; 2% instances), <tt><a href="sk-dep-case.html">case</a></tt> (1; 1% instances), <tt><a href="sk-dep-cc.html">cc</a></tt> (1; 1% instances), <tt><a href="sk-dep-conj.html">conj</a></tt> (1; 1% instances), <tt><a href="sk-dep-obl-arg.html">obl:arg</a></tt> (1; 1% instances)
 
 Children of `ADP` nodes belong to 5 different parts of speech: <tt><a href="sk-pos-NOUN.html">NOUN</a></tt> (60; 60% instances), <tt><a href="sk-pos-ADP.html">ADP</a></tt> (33; 33% instances), <tt><a href="sk-pos-PUNCT.html">PUNCT</a></tt> (5; 5% instances), <tt><a href="sk-pos-CCONJ.html">CCONJ</a></tt> (1; 1% instances), <tt><a href="sk-pos-PROPN.html">PROPN</a></tt> (1; 1% instances)
 

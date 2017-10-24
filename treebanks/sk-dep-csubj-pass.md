@@ -67,7 +67,7 @@ The following 4 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 3	Umajjovcov	umajjovec	PROPN	SSmp2:r	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	2	nmod	_	SpaceAfter=No
 4	,	,	PUNCT	Z	_	8	punct	_	_
 5	o	o	ADP	Eu6	AdpType=Prep|Case=Loc	6	case	_	_
-6	ktorej	ktorý	DET	PAfs6	Case=Loc|Gender=Fem|Number=Sing|PronType=Int,Rel	8	obj	_	_
+6	ktorej	ktorý	DET	PAfs6	Case=Loc|Gender=Fem|Number=Sing|PronType=Int,Rel	8	obl:arg	_	_
 7	sa	sa	PRON	R	PronType=Prs|Reflex=Yes	8	expl:pass	_	_
 8	predpokladá	predpokladať	VERB	VKesc+	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	2	acl	_	SpaceAfter=No
 9	,	,	PUNCT	Z	_	14	punct	_	_
