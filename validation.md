@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-10-24T15:34:03Z">2017-10-24T15:34:03 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-10-24T19:41:30Z">2017-10-24T19:41:30 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -752,132 +752,116 @@ No data
 <span class="doublewidespan" style="padding-left:3em">UD Dutch</span>
 <span class="widespan">nl</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-10-24T07:14:36Z">2017-10-24T07:14:36 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-10-24T19:41:28Z">2017-10-24T19:41:28 zulu</time></span>
 </div>
 <div>
 <pre>
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang nl /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Dutch/nl-ud-dev.conllu
+python tools/validate.py --lang nl UD-dev-branches/UD_Dutch/nl-ud-dev.conllu
 
-[Tree number 1 on line 5]: Mismatch between the text attribute and the FORM field. Form is ',,' but text is '"Mijn basisniveau is f...'
-[Tree number 1 on line 5]: Mismatch between the text attribute and the FORM field. Form is 'Mijn' but text is '"Mijn basisniveau is fli...'
-[Tree number 1 on line 5]: Mismatch between the text attribute and the FORM field. Form is 'basisniveau' but text is '"Mijn basisniveau is flink omho...'
-[Tree number 1 on line 5]: Mismatch between the text attribute and the FORM field. Form is 'is' but text is '"Mijn basisniveau is f...'
-[Tree number 1 on line 5]: Mismatch between the text attribute and the FORM field. Form is 'flink' but text is '"Mijn basisniveau is flin...'
-[Tree number 1 on line 5]: Mismatch between the text attribute and the FORM field. Form is 'omhoog' but text is '"Mijn basisniveau is flink...'
-[Tree number 1 on line 5]: Mismatch between the text attribute and the FORM field. Form is 'gegaan' but text is '"Mijn basisniveau is flink...'
-[Tree number 1 on line 5]: Mismatch between the text attribute and the FORM field. Form is '.' but text is '"Mijn basisniveau is ...'
-[Tree number 1 on line 5]: Mismatch between the text attribute and the FORM field. Form is '''' but text is '"Mijn basisniveau is f...'
-[Line                   14]: Extra characters at the end of the text attribute, not accounted for in the FORM fields: '"Mijn basisniveau is flink omhoog gegaan."'
-[Line                   33]: SpaceAfter=No is missing in the MISC field of node #14 because the text is 'NK.'
-[Line                   47]: SpaceAfter=No is missing in the MISC field of node #9 because the text is 'stappen.'
-[Line                   68]: SpaceAfter=No is missing in the MISC field of node #16 because the text is 'wedstrijd.'
-[Tree number 5 on line 73]: Mismatch between the text attribute and the FORM field. Form is ',,' but text is '"Mijn gedachten sprong...'
-[Tree number 5 on line 73]: Mismatch between the text attribute and the FORM field. Form is 'Mijn' but text is '"Mijn gedachten sprongen...'
-[Tree number 5 on line 73]: Mismatch between the text attribute and the FORM field. Form is 'gedachten' but text is '"Mijn gedachten sprongen alle...'
-[Tree number 5 on line 73]: Mismatch between the text attribute and the FORM field. Form is 'sprongen' but text is '"Mijn gedachten sprongen all...'
-[Tree number 5 on line 73]: Mismatch between the text attribute and the FORM field. Form is 'alle' but text is '"Mijn gedachten sprongen...'
-[Tree number 5 on line 73]: Mismatch between the text attribute and the FORM field. Form is 'kanten' but text is '"Mijn gedachten sprongen a...'
+[Line                   367]: SpaceAfter=No is missing in the MISC field of node #22 because the text is '6) was de grootste v[...]'
+[Line                   728]: SpaceAfter=No is missing in the MISC field of node #26 because the text is 'en, in de slotfase, [...]'
+[Line                   1181]: SpaceAfter=No is missing in the MISC field of node #11 because the text is '1), na een fout van [...]'
+[Line                   1324]: SpaceAfter=No is missing in the MISC field of node #21 because the text is ''rood' zag.'
+[Line                   2912]: SpaceAfter=No is missing in the MISC field of node #6 because the text is 'het, want de Bankgir[...]'
+[Line                   3086]: SpaceAfter=No is missing in the MISC field of node #2 because the text is ''rotsituatie' vond B[...]'
+[Line                   3967]: SpaceAfter=No is missing in the MISC field of node #3 because the text is ''per ongeluk' ontvoe[...]'
+[Line                   5331]: SpaceAfter=No is missing in the MISC field of node #7 because the text is ''als moeders' zoveel[...]'
+[Tree number 316 on line 5548]: Mismatch between the text attribute and the FORM field. Form is 'riep' but text is ' riep volgens overleveri...'
+[Tree number 316 on line 5548]: Mismatch between the text attribute and the FORM field. Form is 'volgens' but text is ' riep volgens overlevering ...'
+[Tree number 316 on line 5548]: Mismatch between the text attribute and the FORM field. Form is 'overlevering' but text is ' riep volgens overlevering een p...'
+[Tree number 316 on line 5548]: Mismatch between the text attribute and the FORM field. Form is 'een' but text is ' riep volgens overlever...'
+[Tree number 316 on line 5548]: Mismatch between the text attribute and the FORM field. Form is 'priester' but text is ' riep volgens overlevering e...'
+[Tree number 316 on line 5548]: Mismatch between the text attribute and the FORM field. Form is 'de' but text is ' riep volgens overleve...'
+[Tree number 316 on line 5548]: Mismatch between the text attribute and the FORM field. Form is 'paus' but text is ' riep volgens overleveri...'
+[Tree number 316 on line 5548]: Mismatch between the text attribute and the FORM field. Form is 'toe' but text is ' riep volgens overlever...'
+[Tree number 316 on line 5548]: Mismatch between the text attribute and the FORM field. Form is 'tijdens' but text is ' riep volgens overlevering ...'
+[Tree number 316 on line 5548]: Mismatch between the text attribute and the FORM field. Form is 'zijn' but text is ' riep volgens overleveri...'
+[Tree number 316 on line 5548]: Mismatch between the text attribute and the FORM field. Form is 'bezoek' but text is ' riep volgens overlevering...'
 ...suppressing further errors regarding Metadata
-*** FAILED *** with 2395 errors
-Metadata errors: 2395
+*** FAILED *** with 66 errors
+Metadata errors: 66
 
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang nl /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Dutch/nl-ud-test.conllu
+python tools/validate.py --lang nl UD-dev-branches/UD_Dutch/nl-ud-test.conllu
 
-[Line                   20]: SpaceAfter=No is missing in the MISC field of node #15 because the text is 'hand.'
-[Line                   47]: SpaceAfter=No is missing in the MISC field of node #9 because the text is 'gekomen, begonnen fa[...]'
-[Line                   47]: SpaceAfter=No is missing in the MISC field of node #22 because the text is 'gooien.'
-[Line                   79]: SpaceAfter=No is missing in the MISC field of node #20 because the text is 'voetbal, volgend jaa[...]'
-[Line                   79]: SpaceAfter=No is missing in the MISC field of node #27 because the text is 'Zuid-Korea.'
-[Line                   107]: SpaceAfter=No is missing in the MISC field of node #4 because the text is '2-0 van Togo, Zuid-A[...]'
-[Line                   107]: SpaceAfter=No is missing in the MISC field of node #5 because the text is '-0 van Togo, Zuid-Af[...]'
-[Line                   107]: SpaceAfter=No is missing in the MISC field of node #8 because the text is 'Togo, Zuid-Afrika ha[...]'
-[Line                   107]: SpaceAfter=No is missing in the MISC field of node #18 because the text is '(1-1).'
-[Line                   107]: SpaceAfter=No is missing in the MISC field of node #19 because the text is '1-1).'
-[Line                   107]: SpaceAfter=No is missing in the MISC field of node #20 because the text is '-1).'
-[Line                   107]: SpaceAfter=No is missing in the MISC field of node #21 because the text is '1).'
-[Line                   107]: SpaceAfter=No is missing in the MISC field of node #22 because the text is ').'
-[Line                   127]: SpaceAfter=No is missing in the MISC field of node #15 because the text is 'zak.'
-[Line                   155]: SpaceAfter=No is missing in the MISC field of node #19 because the text is '3-1 gewonnen.'
-[Line                   155]: SpaceAfter=No is missing in the MISC field of node #20 because the text is '-1 gewonnen.'
-[Line                   155]: SpaceAfter=No is missing in the MISC field of node #22 because the text is 'gewonnen.'
-[Line                   166]: SpaceAfter=No is missing in the MISC field of node #6 because the text is 'Joegoslavië.'
-[Line                   180]: SpaceAfter=No is missing in the MISC field of node #9 because the text is 'Waalwijk.'
+[Line                   147]: SpaceAfter=No is missing in the MISC field of node #2 because the text is ''mobilisatie' van de[...]'
+[Line                   193]: SpaceAfter=No is missing in the MISC field of node #9 because the text is ''alle grote vragen v[...]'
+[Line                   261]: SpaceAfter=No is missing in the MISC field of node #31 because the text is ''stem van de armen' [...]'
+[Line                   645]: SpaceAfter=No is missing in the MISC field of node #9 because the text is ''Geen Kritiek' de Ph[...]'
+[Line                   1651]: SpaceAfter=No is missing in the MISC field of node #5 because the text is ''Culturele Hoofdstad[...]'
+[Line                   1901]: SpaceAfter=No is missing in the MISC field of node #11 because the text is ''flikkers', of roept[...]'
+[Line                   1901]: SpaceAfter=No is missing in the MISC field of node #13 because the text is '', of roept hard ' t[...]'
+[Line                   1901]: SpaceAfter=No is missing in the MISC field of node #20 because the text is '', maar de priemende[...]'
+[Line                   2650]: SpaceAfter=No is missing in the MISC field of node #24 because the text is ''Bigi Spikri' begint[...]'
+[Line                   2650]: SpaceAfter=No is missing in the MISC field of node #52 because the text is ''het verbreken van d[...]'
+[Line                   2650]: SpaceAfter=No is missing in the MISC field of node #58 because the text is ''.'
+[Line                   2851]: SpaceAfter=No is missing in the MISC field of node #8 because the text is 'werk'', zei De Vries[...]'
+[Line                   3200]: SpaceAfter=No is missing in the MISC field of node #7 because the text is 'is, maar wil verder [...]'
+[Line                   3378]: DEPREL must be "root" if HEAD is 0
+[Tree number 148 on line 3356]: Multiple root words: [5, 6]
+[Line                   3456]: SpaceAfter=No is missing in the MISC field of node #13 because the text is ''oude' Konmar.'
+[Line                   3636]: SpaceAfter=No is missing in the MISC field of node #15 because the text is ''voller, verser en v[...]'
+[Line                   3697]: SpaceAfter=No is missing in the MISC field of node #20 because the text is ''rondje om de kerk' [...]'
+[Tree number 168 on line 3778]: Mismatch between the text attribute and the FORM field. Form is 'moeten' but text is ' moeten opleveren....'
+[Tree number 168 on line 3778]: Mismatch between the text attribute and the FORM field. Form is 'opleveren' but text is ' moeten opleveren....'
+[Tree number 168 on line 3778]: Mismatch between the text attribute and the FORM field. Form is '.' but text is ' moeten opleveren....'
 ...suppressing further errors regarding Metadata
-[Line                   4351]: DEPREL must be "root" if HEAD is 0
-[Tree number 188 on line 4329]: Multiple root words: [5, 6]
-[Line                   10601]: DEPREL must be "root" if HEAD is 0
-[Tree number 489 on line 10598]: Multiple root words: [1, 2]
-[Line                   10836]: DEPREL must be "root" if HEAD is 0
-[Tree number 499 on line 10833]: Multiple root words: [1, 2]
-[Line                   10968]: DEPREL must be "root" if HEAD is 0
-[Tree number 505 on line 10958]: Multiple root words: [1, 2]
-[Line                   12420]: DEPREL must be "root" if HEAD is 0
-[Tree number 582 on line 12409]: Multiple root words: [1, 2]
-[Line                   12450]: DEPREL must be "root" if HEAD is 0
-[Tree number 584 on line 12447]: Multiple root words: [1, 2]
-[Line                   12583]: DEPREL must be "root" if HEAD is 0
-[Tree number 591 on line 12579]: Multiple root words: [1, 2]
-[Line                   12629]: DEPREL must be "root" if HEAD is 0
-[Tree number 594 on line 12625]: Multiple root words: [1, 2]
-[Line                   12677]: DEPREL must be "root" if HEAD is 0
-[Tree number 597 on line 12672]: Multiple root words: [1, 2]
-[Line                   12765]: DEPREL must be "root" if HEAD is 0
+[Line                   6627]: DEPREL must be "root" if HEAD is 0
+[Tree number 303 on line 6616]: Multiple root words: [1, 2]
+[Line                   6655]: DEPREL must be "root" if HEAD is 0
+[Tree number 305 on line 6652]: Multiple root words: [1, 2]
+[Line                   6727]: DEPREL must be "root" if HEAD is 0
+[Tree number 309 on line 6723]: Multiple root words: [1, 2]
+[Line                   6750]: DEPREL must be "root" if HEAD is 0
+[Tree number 311 on line 6746]: Multiple root words: [1, 2]
+[Line                   6778]: DEPREL must be "root" if HEAD is 0
+[Tree number 313 on line 6773]: Multiple root words: [1, 2]
+[Line                   6844]: DEPREL must be "root" if HEAD is 0
+[Tree number 316 on line 6840]: Multiple root words: [1, 2]
+[Line                   11311]: DEPREL must be "root" if HEAD is 0
+[Tree number 524 on line 11308]: Multiple root words: [1, 2]
+[Line                   11483]: DEPREL must be "root" if HEAD is 0
+[Tree number 532 on line 11480]: Multiple root words: [1, 2]
+[Line                   11587]: DEPREL must be "root" if HEAD is 0
 ...suppressing further errors regarding Syntax
-*** FAILED *** with 2038 errors
-Metadata errors: 2018
+*** FAILED *** with 77 errors
+Metadata errors: 57
 Syntax errors: 20
 
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang nl /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Dutch/nl-ud-train.conllu
+python tools/validate.py --lang nl UD-dev-branches/UD_Dutch/nl-ud-train.conllu
 
-[Line                   10]: SpaceAfter=No is missing in the MISC field of node #5 because the text is 'zwaaien.'
-[Line                   27]: SpaceAfter=No is missing in the MISC field of node #8 because the text is 'winkelen, zwemmen of[...]'
-[Line                   27]: SpaceAfter=No is missing in the MISC field of node #12 because the text is 'terrassen.'
-[Line                   38]: SpaceAfter=No is missing in the MISC field of node #6 because the text is 'uitgevonden.'
-[Line                   55]: SpaceAfter=No is missing in the MISC field of node #12 because the text is 'gelaten.'
-[Line                   71]: SpaceAfter=No is missing in the MISC field of node #11 because the text is 'liggen.'
-[Line                   86]: SpaceAfter=No is missing in the MISC field of node #10 because the text is 'hare.'
-[Line                   107]: SpaceAfter=No is missing in the MISC field of node #16 because the text is 'Square.'
-[Line                   138]: SpaceAfter=No is missing in the MISC field of node #10 because the text is 'voorbij, hun fototoe[...]'
-[Line                   138]: SpaceAfter=No is missing in the MISC field of node #16 because the text is 'aanslag, pratend, gi[...]'
-[Line                   138]: SpaceAfter=No is missing in the MISC field of node #18 because the text is 'pratend, gillend en [...]'
-[Line                   138]: SpaceAfter=No is missing in the MISC field of node #26 because the text is 'talen.'
-[Line                   164]: SpaceAfter=No is missing in the MISC field of node #5 because the text is 'geworden, zij en haa[...]'
-[Line                   164]: SpaceAfter=No is missing in the MISC field of node #21 because the text is 'raden.'
-[Line                   180]: SpaceAfter=No is missing in the MISC field of node #11 because the text is 'ijs.'
-[Line                   204]: SpaceAfter=No is missing in the MISC field of node #10 because the text is 'zeggen: "het komt we[...]'
-[Line                   204]: SpaceAfter=No is missing in the MISC field of node #12 because the text is '"het komt wel goed, [...]'
-[Line                   204]: SpaceAfter=No is missing in the MISC field of node #16 because the text is 'goed, joch".'
-[Line                   204]: SpaceAfter=No is missing in the MISC field of node #18 because the text is 'joch".'
+[Line                   139]: SpaceAfter=No is missing in the MISC field of node #7 because the text is 'op, vindt Djindjic.'
+[Line                   508]: SpaceAfter=No is missing in the MISC field of node #14 because the text is ''kleine' nadelen.'
+[Line                   1214]: SpaceAfter=No is missing in the MISC field of node #10 because the text is ''Leontien is best we[...]'
+[Line                   1519]: SpaceAfter=No is missing in the MISC field of node #9 because the text is 'was, was de stemming[...]'
+[Line                   1611]: SpaceAfter=No is missing in the MISC field of node #28 because the text is '"grote onderwerpen i[...]'
+[Line                   1611]: SpaceAfter=No is missing in the MISC field of node #39 because the text is '"de slaaf van zijn e[...]'
+[Line                   1948]: SpaceAfter=No is missing in the MISC field of node #8 because the text is 'bedrijfsleven, die g[...]'
+[Line                   2085]: SpaceAfter=No is missing in the MISC field of node #30 because the text is 'is.'
+[Line                   2939]: SpaceAfter=No is missing in the MISC field of node #11 because the text is '"bezet" kunstenaarsh[...]'
+[Line                   2939]: SpaceAfter=No is missing in the MISC field of node #12 because the text is 'bezet" kunstenaarshu[...]'
+[Line                   3387]: SpaceAfter=No is missing in the MISC field of node #32 because the text is ').'
+[Line                   3847]: SpaceAfter=No is missing in the MISC field of node #24 because the text is 'hadden, vleeswaren h[...]'
+[Line                   3893]: SpaceAfter=No is missing in the MISC field of node #12 because the text is 'is.'
+[Line                   4419]: DEPREL must be "root" if HEAD is 0
+[Tree number 206 on line 4415]: Multiple root words: [1, 2]
+[Line                   4477]: SpaceAfter=No is missing in the MISC field of node #14 because the text is 'kalm", zegt zij.'
+[Line                   5110]: SpaceAfter=No is missing in the MISC field of node #30 because the text is 'compagnie, een pelot[...]'
+[Line                   5750]: SpaceAfter=No is missing in the MISC field of node #8 because the text is 'van, of als gevolg v[...]'
+[Line                   5774]: SpaceAfter=No is missing in the MISC field of node #10 because the text is '"zuiver wetenschappe[...]'
+[Line                   5774]: SpaceAfter=No is missing in the MISC field of node #20 because the text is 'is.'
+[Line                   5926]: SpaceAfter=No is missing in the MISC field of node #2 because the text is 'ook? Luis Ocana, de [...]'
 ...suppressing further errors regarding Metadata
-[Line                   1450]: DEPREL must be "root" if HEAD is 0
-[Tree number 126 on line 1448]: Multiple root words: [1, 2]
-[Line                   1781]: DEPREL must be "root" if HEAD is 0
-[Tree number 156 on line 1779]: Multiple root words: [1, 2]
-[Tree number 232 on line 2589]: Multiple root words: [2, 5]
-[Tree number 354 on line 3981]: Multiple root words: [2, 5]
-[Tree number 356 on line 4004]: Multiple root words: [2, 5]
-[Line                   5360]: DEPREL must be "root" if HEAD is 0
-[Tree number 467 on line 5354]: Multiple root words: [1, 6]
-[Line                   5417]: DEPREL must be "root" if HEAD is 0
-[Tree number 473 on line 5413]: Multiple root words: [1, 4]
-[Tree number 522 on line 5886]: Multiple root words: [2, 5]
-[Line                   15893]: DEPREL can only be "root" if HEAD is 0
-[Line                   24507]: DEPREL can only be "root" if HEAD is 0
-[Line                   24525]: DEPREL can only be "root" if HEAD is 0
-[Line                   24782]: DEPREL can only be "root" if HEAD is 0
-[Line                   24874]: DEPREL can only be "root" if HEAD is 0
-[Line                   25221]: DEPREL can only be "root" if HEAD is 0
-[Line                   25397]: DEPREL can only be "root" if HEAD is 0
-...suppressing further errors regarding Syntax
-*** FAILED *** with 20192 errors
-Metadata errors: 19982
-Syntax errors: 210
+[Line                   14701]: DEPREL must be "root" if HEAD is 0
+[Tree number 669 on line 14678]: Multiple root words: [1, 3]
+*** FAILED *** with 95 errors
+Metadata errors: 91
+Syntax errors: 4
 
 
 ******************
