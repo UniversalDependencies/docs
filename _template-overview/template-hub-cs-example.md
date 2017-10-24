@@ -23,6 +23,11 @@ udver: '2'
   The most prominent type is a subordinating conjunction fused with a conditional auxiliary: _kdybych = když + bych_ “if I”.
   For more details, see [tokenization](tokenization.html).
 
+---
+**Instruction**: Describe the general rules for delimiting words (for example, based on whitespace and punctuation) and exceptions to these rules. Specify whether words with spaces and/or multiword tokens occur. Include links to further language-specific documentation if available.
+
+---
+
 ## Morphology
 
 ### Tags
@@ -58,6 +63,11 @@ and [Czech features](../feat/index.html).
   * Participle `Part`, tagged [VERB]() or [AUX]() (the so-called l-participle) or [ADJ]() (all other participle types).
   * Converb `Conv`, tagged [VERB]() or [AUX]().
   * Verbal noun `Vnoun`, tagged [NOUN]().
+
+---
+**Instruction**: Specify any unused tags. Explain what words are tagged as PART. Describe how the AUX-VERB and DET-PRON distinctions are drawn, and specify whether there are (de)verbal forms tagged as ADJ, ADV or NOUN. Include links to language-specific tag definitions if any.
+
+---
 
 ### Nominal Features
 
@@ -143,6 +153,11 @@ and [Czech features](../feat/index.html).
   * [Variant]() ... distinguishes short and long forms of adjectives, a Slavic-wide phenomenon
 * The following universal features are not used in Czech: [Definite](), [Evident](), [Polite]().
 
+---
+**Instruction**: Describe inherent and inflectional features for major word classes (at least NOUN and VERB). Describe other noteworthy features. Include links to language-specific feature definitions if any.
+
+---
+
 ## Syntax
 
 This is an overview only. For more detailed discussion and examples, see the list of [Czech relations](../dep/index.html),
@@ -213,6 +228,11 @@ as well as Czech-specific examples scattered across the documentation of constru
 * The following relation types are not used in Czech at all:
   [clf](), [dislocated]()
 
+---
+**Instruction**: Give criteria for identifying core arguments (subjects and objects), and describe the range of copula constructions in nonverbal clauses. List all subtype relations used. Include links to language-specific relations definitions if any.
+
+---
+
 ## Treebanks
 
 There are [five](../../treebanks/cs-comparison.html) Czech UD treebanks:
@@ -222,3 +242,10 @@ There are [five](../../treebanks/cs-comparison.html) Czech UD treebanks:
   * [Czech-CLTT](../../treebanks/cs_cltt-index.html)
   * [Czech-FicTree](../../treebanks/cs_fictree-index.html)
   * [Czech-PUD](../../treebanks/cs_pud-index.html)
+
+---
+**Instruction**: Treebank-specific pages are generated automatically from the README file in the treebank repository and
+from the data in the latest release. Link to the respective `*-index.html` page in the `treebanks` folder, using the language code
+and the treebank code in the file name.
+
+---

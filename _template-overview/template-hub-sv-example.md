@@ -88,15 +88,15 @@ For more information, see the list of [Swedish relations](../dep/index.html).
 
 ## Treebanks
 
-There are three Swedish UD treebanks:
+There are [three](../../treebanks/sv-comparison.html) Swedish UD treebanks:
 
-  * Swedish
-  * Swedish-LinES
-  * Swedish-PUD
-
----
-**Where do we link to for the treebanks?**
+  * [Swedish](../../treebanks/sv-index.html)
+  * [Swedish-LinES](../../treebanks/sv_lines-index.html)
+  * [Swedish-PUD](../../treebanks/sv_pud-index.html)
 
 ---
+**Instruction**: Treebank-specific pages are generated automatically from the README file in the treebank repository and
+from the data in the latest release. Link to the respective `*-index.html` page in the `treebanks` folder, using the language code
+and the treebank code in the file name.
 
-
+---
