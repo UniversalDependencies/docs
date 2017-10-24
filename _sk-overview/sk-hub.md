@@ -106,11 +106,10 @@ udver: '2'
 
 * [PronType]() is used with pronouns ([PRON]()), determiners ([DET]()) and adverbs ([ADV]()).
 * [NumType]() is used with numerals ([NUM]()), adjectives ([ADJ]()), determiners ([DET]()) and adverbs ([ADV]()).
-* The [Poss]() feature marks possessive personal determiners (e.g. _můj_ “my”),
+* The [Poss]() feature marks possessive personal determiners (e.g. _môj_ “my”),
   possessive interrogative, indefinite or negative determiners (e.g. _čí_ “whose”),
-  possessive relative determiners (e.g. _jehož_ “whose”)
-  and possessive adjectives (e.g. _otcův_ “father's”).
-* The [Reflex]() feature marks reflexive pronouns _(se, si)_ and determiners _(svůj)_.
+  and possessive adjectives (e.g. _otcov_ “father's”).
+* The [Reflex]() feature marks reflexive pronouns _(sa, si)_ and determiners _(svoj)_.
   In Czech it is always used together with `PronType=Prs`.
 * [Person]() is a lexical feature of personal pronouns ([PRON]()) and has three values, `1`, `2` and `3`.
   With personal possessive determiners ([DET]()), the feature actually encodes the person of the possessor.
