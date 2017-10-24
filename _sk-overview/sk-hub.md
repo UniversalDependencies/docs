@@ -15,7 +15,7 @@ udver: '2'
 
 * In general, words are delimited by whitespace characters. Description of exceptions follows.
 * According to typographical rules, many punctuation marks are attached to a neighboring word. We always tokenize them as separate tokens (words);
-  that holds even for hyphenated compounds such as _slovensko-český_ “Slovak-Czech” (three tokens) and for abbreviations such as _atd._ “etc.”
+  that holds even for hyphenated compounds such as _slovensko-český_ “Slovak-Czech” (three tokens) and for abbreviations such as _tzv._ “so-called”
   (two tokens).
 * A whitespace separating digits in a large number is not treated as a word separator. For example, _1&nbsp;000&nbsp;000_ (“1,000,000” by English
   rules) is one token.
