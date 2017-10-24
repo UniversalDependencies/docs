@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-10-24T01:33:52Z">2017-10-24T01:33:52 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-10-24T06:30:09Z">2017-10-24T06:30:09 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -752,11 +752,11 @@ No data
 <span class="doublewidespan" style="padding-left:3em">UD Dutch</span>
 <span class="widespan">nl</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-10-23T14:33:14Z">2017-10-23T14:33:14 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-10-24T06:29:56Z">2017-10-24T06:29:56 zulu</time></span>
 </div>
 <div>
 <pre>
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang nl /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Dutch/nl-ud-dev.conllu
+python tools/validate.py --lang nl UD-dev-branches/UD_Dutch/nl-ud-dev.conllu
 
 [Tree number 1 on line 5]: Mismatch between the text attribute and the FORM field. Form is ',,' but text is '"Mijn basisniveau is f...'
 [Tree number 1 on line 5]: Mismatch between the text attribute and the FORM field. Form is 'Mijn' but text is '"Mijn basisniveau is fli...'
@@ -784,7 +784,7 @@ Metadata errors: 2395
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang nl /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Dutch/nl-ud-test.conllu
+python tools/validate.py --lang nl UD-dev-branches/UD_Dutch/nl-ud-test.conllu
 
 [Line                   20]: SpaceAfter=No is missing in the MISC field of node #15 because the text is 'hand.'
 [Line                   47]: SpaceAfter=No is missing in the MISC field of node #9 because the text is 'gekomen, begonnen fa[...]'
@@ -833,7 +833,7 @@ Syntax errors: 20
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang nl /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Dutch/nl-ud-train.conllu
+python tools/validate.py --lang nl UD-dev-branches/UD_Dutch/nl-ud-train.conllu
 
 [Line                   10]: SpaceAfter=No is missing in the MISC field of node #5 because the text is 'zwaaien.'
 [Line                   27]: SpaceAfter=No is missing in the MISC field of node #8 because the text is 'winkelen, zwemmen of[...]'
