@@ -29,7 +29,7 @@ The following 31 pairs of parts of speech are connected with `nmod`: <tt><a href
 5	povedú	poviesť	VERB	VKdpc+	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	0	root	_	_
 6	do	do	ADP	Eu2	AdpType=Prep|Case=Gen	7	case	_	_
 7	Belehradu	belehrad	PROPN	SSis2:r	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	5	obl	_	SpaceAfter=No
-8	.	.	PUNCT	ZIP	VerbForm=Inf	5	punct	_	_
+8	.	.	PUNCT	ZIP	_	5	punct	_	_
 
 ~~~
 
@@ -49,7 +49,7 @@ The following 31 pairs of parts of speech are connected with `nmod`: <tt><a href
 7	vedie	viesť	VERB	VKesc+	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	0	root	_	_
 8	do	do	ADP	Eu2	AdpType=Prep|Case=Gen	9	case	_	_
 9	Belehradu	belehrad	PROPN	SSis2:r	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	7	obl	_	SpaceAfter=No
-10	.	.	PUNCT	ZIP	VerbForm=Inf	7	punct	_	_
+10	.	.	PUNCT	ZIP	_	7	punct	_	_
 
 ~~~
 
@@ -69,7 +69,7 @@ The following 31 pairs of parts of speech are connected with `nmod`: <tt><a href
 7	vedie	viesť	VERB	VKesc+	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	0	root	_	_
 8	do	do	ADP	Eu2	AdpType=Prep|Case=Gen	9	case	_	_
 9	Belehradu	belehrad	PROPN	SSis2:r	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	7	obl	_	SpaceAfter=No
-10	.	.	PUNCT	ZIP	VerbForm=Inf	7	punct	_	_
+10	.	.	PUNCT	ZIP	_	7	punct	_	_
 
 ~~~
 

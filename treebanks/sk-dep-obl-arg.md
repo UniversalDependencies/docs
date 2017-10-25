@@ -30,7 +30,7 @@ The following 19 pairs of parts of speech are connected with `obl:arg`: <tt><a h
 5	došlo	dôjsť	VERB	VLdscn+	Aspect=Perf|Gender=Neut|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbForm=Part	0	root	_	_
 6	k	k	ADP	Eu3	AdpType=Prep|Case=Dat	7	case	_	_
 7	nepochopeniu	nepochopenie	NOUN	SSns3	Case=Dat|Gender=Neut|Number=Sing	5	obl:arg	_	SpaceAfter=No
-8	.	.	PUNCT	ZIP	VerbForm=Inf	5	punct	_	_
+8	.	.	PUNCT	ZIP	_	5	punct	_	_
 
 ~~~
 
@@ -47,7 +47,7 @@ The following 19 pairs of parts of speech are connected with `obl:arg`: <tt><a h
 4	na	na	ADP	Eu4	AdpType=Prep|Case=Acc	5	case	_	_
 5	nikoho	nikto	PRON	PFms4	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing|PronType=Neg	6	obl:arg	_	_
 6	nehnevám	hnevať	VERB	VKesa-	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Polarity=Neg|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
-7	.	.	PUNCT	ZIP	VerbForm=Inf	6	punct	_	_
+7	.	.	PUNCT	ZIP	_	6	punct	_	_
 
 ~~~
 
@@ -58,13 +58,13 @@ The following 19 pairs of parts of speech are connected with `obl:arg`: <tt><a h
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 3 obl:arg	color:blue
-1	"	"	PUNCT	ZIP	VerbForm=Inf	4	punct	_	SpaceAfter=No
+1	"	"	PUNCT	ZIP	_	4	punct	_	SpaceAfter=No
 2	Na	na	ADP	Eu4	AdpType=Prep|Case=Acc	3	case	_	_
 3	to	to	DET	PFns4	Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	4	obl:arg	_	_
 4	je	byť	VERB	VKesc+	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	0	root	_	_
 5	veľmi	veľmi	ADV	Dx	Degree=Pos	6	advmod	_	_
 6	skoro	skoro	ADV	Dx	Degree=Pos	4	advmod	_	SpaceAfter=No
-7	.	.	PUNCT	ZIP	VerbForm=Inf	4	punct	_	_
+7	.	.	PUNCT	ZIP	_	4	punct	_	_
 
 ~~~
 

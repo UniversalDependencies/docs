@@ -28,10 +28,10 @@ The following 6 pairs of parts of speech are connected with `discourse`: <tt><a 
 4	vyskúšajte	vyskúšať	VERB	VMdpb+	Aspect=Perf|Mood=Imp|Number=Plur|Person=2|Polarity=Pos|VerbForm=Fin	0	root	_	_
 5	tento	tento	DET	PFis4	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|PronType=Dem	6	det	_	_
 6	recept	recept	NOUN	SSis4	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	4	obj	_	SpaceAfter=No
-7	:	:	PUNCT	ZIP	VerbForm=Inf	4	punct	_	_
-8	-	-	PUNCT	ZIP	VerbForm=Inf	4	punct	_	SpaceAfter=No
-9	)	)	PUNCT	ZIP	VerbForm=Inf	4	punct	_	SpaceAfter=No
-10	.	.	PUNCT	ZIP	VerbForm=Inf	4	punct	_	_
+7	:	:	PUNCT	ZIP	_	4	punct	_	_
+8	-	-	PUNCT	ZIP	_	4	punct	_	SpaceAfter=No
+9	)	)	PUNCT	ZIP	_	4	punct	_	SpaceAfter=No
+10	.	.	PUNCT	ZIP	_	4	punct	_	_
 
 ~~~
 
@@ -48,7 +48,7 @@ The following 6 pairs of parts of speech are connected with `discourse`: <tt><a 
 4	to	to	DET	PFns1	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	6	discourse	_	_
 5	tu	tu	ADV	Dx	Degree=Pos	6	advmod	_	_
 6	rastie	rásť	VERB	VKesc+	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
-7	?	?	PUNCT	ZIP	VerbForm=Inf	6	punct	_	_
+7	?	?	PUNCT	ZIP	_	6	punct	_	_
 
 ~~~
 

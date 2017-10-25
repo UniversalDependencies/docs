@@ -26,7 +26,7 @@ The following 4 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 2	sa	sa	PRON	R	PronType=Prs|Reflex=Yes	3	expl:pass	_	_
 3	chcelo	chcieť	VERB	VLescn+	Aspect=Imp|Gender=Neut|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbForm=Part	0	root	_	_
 4	spať	spať	VERB	VIe+	Aspect=Imp|Polarity=Pos|VerbForm=Inf	3	csubj:pass	_	SpaceAfter=No
-5	.	.	PUNCT	ZIP	VerbForm=Inf	3	punct	_	_
+5	.	.	PUNCT	ZIP	_	3	punct	_	_
 
 ~~~
 

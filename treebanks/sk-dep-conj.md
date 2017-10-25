@@ -26,11 +26,11 @@ The following 66 pairs of parts of speech are connected with `conj`: <tt><a href
 2	sú	byť	VERB	VKepc+	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	obžalovacie	obžalovací	ADJ	AAip1x	Animacy=Inan|Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	4	amod	_	_
 4	spisy	spis	NOUN	SSip1	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	2	nsubj	_	SpaceAfter=No
-5	,	,	PUNCT	ZIP	VerbForm=Inf	7	punct	_	_
+5	,	,	PUNCT	ZIP	_	7	punct	_	_
 6	tu	tu	ADV	PD	PronType=Dem	7	advmod	_	_
 7	sú	byť	VERB	VKepc+	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	2	conj	_	_
 8	zatykače	zatykač	NOUN	SSip1	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	7	nsubj	_	SpaceAfter=No
-9	.	.	PUNCT	ZIP	VerbForm=Inf	2	punct	_	_
+9	.	.	PUNCT	ZIP	_	2	punct	_	_
 
 ~~~
 
@@ -47,7 +47,7 @@ The following 66 pairs of parts of speech are connected with `conj`: <tt><a href
 4	zničení	zničený	ADJ	AAmp1x	Animacy=Anim|Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	0	root	_	_
 5	aj	aj	CCONJ	O	_	6	cc	_	_
 6	ľudia	človek	NOUN	SSmp1	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	4	nsubj	_	SpaceAfter=No
-7	,	,	PUNCT	ZIP	VerbForm=Inf	9	punct	_	_
+7	,	,	PUNCT	ZIP	_	9	punct	_	_
 8	aj	aj	CCONJ	O	_	9	cc	_	_
 9	zvieratá	zviera	NOUN	SSnp1	Case=Nom|Gender=Neut|Number=Plur	6	conj	_	_
 
@@ -67,7 +67,7 @@ The following 66 pairs of parts of speech are connected with `conj`: <tt><a href
 5	a	a	CCONJ	O	_	6	cc	_	_
 6	životné	životný	ADJ	AAns4x	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	4	conj	_	_
 7	tempo	tempo	NOUN	SSns4	Case=Acc|Gender=Neut|Number=Sing	1	obj	_	SpaceAfter=No
-8	.	.	PUNCT	ZIP	VerbForm=Inf	1	punct	_	_
+8	.	.	PUNCT	ZIP	_	1	punct	_	_
 
 ~~~
 

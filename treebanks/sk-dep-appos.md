@@ -63,9 +63,9 @@ The following 38 pairs of parts of speech are connected with `appos`: <tt><a hre
 5	centrum	centrum	NOUN	SSns1	Case=Nom|Gender=Neut|Number=Sing	3	nsubj	_	_
 6	čínskeho	čínsky	ADJ	AAis2x	Animacy=Inan|Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	7	amod	_	_
 7	biznisu	biznis	NOUN	SSis2	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	5	nmod	_	_
-8	-	-	PUNCT	ZIP	VerbForm=Inf	9	punct	_	_
+8	-	-	PUNCT	ZIP	_	9	punct	_	_
 9	Šanghaj	šanghaj	PROPN	SSis1:r	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	5	appos	_	SpaceAfter=No
-10	.	.	PUNCT	ZIP	VerbForm=Inf	3	punct	_	_
+10	.	.	PUNCT	ZIP	_	3	punct	_	_
 
 ~~~
 

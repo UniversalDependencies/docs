@@ -29,13 +29,7 @@ The 2nd highest number of forms (1) was observed with the lemma “+”: <em>+</
 
 The 3rd highest number of forms (1) was observed with the lemma “=”: <em>=</em>.
 
-`SYM` occurs with 1 features: <tt><a href="sk-feat-VerbForm.html">VerbForm</a></tt> (3; 14% instances)
-
-`SYM` occurs with 1 feature-value pairs: `VerbForm=Inf`
-
-`SYM` occurs with 2 feature combinations.
-The most frequent feature combination is `_` (19 tokens).
-Examples: <em>%, +, =</em>
+`SYM` does not occur with any features.
 
 
 ## Relations

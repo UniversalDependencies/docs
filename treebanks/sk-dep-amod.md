@@ -29,7 +29,7 @@ The following 11 pairs of parts of speech are connected with `amod`: <tt><a href
 5	povedú	poviesť	VERB	VKdpc+	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	0	root	_	_
 6	do	do	ADP	Eu2	AdpType=Prep|Case=Gen	7	case	_	_
 7	Belehradu	belehrad	PROPN	SSis2:r	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	5	obl	_	SpaceAfter=No
-8	.	.	PUNCT	ZIP	VerbForm=Inf	5	punct	_	_
+8	.	.	PUNCT	ZIP	_	5	punct	_	_
 
 ~~~
 
@@ -64,7 +64,7 @@ The following 11 pairs of parts of speech are connected with `amod`: <tt><a href
 4	to	to	DET	PFns1	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	6	discourse	_	_
 5	tu	tu	ADV	Dx	Degree=Pos	6	advmod	_	_
 6	rastie	rásť	VERB	VKesc+	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
-7	?	?	PUNCT	ZIP	VerbForm=Inf	6	punct	_	_
+7	?	?	PUNCT	ZIP	_	6	punct	_	_
 
 ~~~
 

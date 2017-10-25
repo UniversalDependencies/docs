@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal but the values `Conv` are language-specific.
 It occurs with 4 different values: `Conv`, `Fin`, `Inf`, `Part`.
 
-21111 tokens (20%) have a non-empty value of `VerbForm`.
-7923 types (31%) occur at least once with a non-empty value of `VerbForm`.
-3344 lemmas (24%) occur at least once with a non-empty value of `VerbForm`.
-The feature is used with 5 part-of-speech tags: <tt><a href="sk-pos-VERB.html">VERB</a></tt> (14044; 13% instances), <tt><a href="sk-pos-AUX.html">AUX</a></tt> (3527; 3% instances), <tt><a href="sk-pos-PUNCT.html">PUNCT</a></tt> (2322; 2% instances), <tt><a href="sk-pos-ADJ.html">ADJ</a></tt> (1215; 1% instances), <tt><a href="sk-pos-SYM.html">SYM</a></tt> (3; 0% instances).
+18786 tokens (18%) have a non-empty value of `VerbForm`.
+7907 types (31%) occur at least once with a non-empty value of `VerbForm`.
+3328 lemmas (23%) occur at least once with a non-empty value of `VerbForm`.
+The feature is used with 3 part-of-speech tags: <tt><a href="sk-pos-VERB.html">VERB</a></tt> (14044; 13% instances), <tt><a href="sk-pos-AUX.html">AUX</a></tt> (3527; 3% instances), <tt><a href="sk-pos-ADJ.html">ADJ</a></tt> (1215; 1% instances).
 
 ### `VERB`
 
@@ -117,17 +117,6 @@ The most frequent other feature values with which `AUX` and `VerbForm` co-occurr
   <tr><td><tt><tt><a href="sk-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt></tt></td><td></td><td><em>byť</em></td><td></td></tr>
 </table>
 
-### `PUNCT`
-
-2322 <tt><a href="sk-pos-PUNCT.html">PUNCT</a></tt> tokens (12% of all `PUNCT` tokens) have a non-empty value of `VerbForm`.
-
-`PUNCT` tokens may have the following values of `VerbForm`:
-
-* `Inf` (2322; 100% of non-empty `VerbForm`): <em>., ,, ", ?, !, -, :, ', ), (</em>
-* `EMPTY` (16808): <em>., ,, “, !, ?, ", ), (, :, „</em>
-
-`VerbForm` seems to be **lexical feature** of `PUNCT`. 100% lemmas (14) occur only with one value of `VerbForm`.
-
 ### `ADJ`
 
 1215 <tt><a href="sk-pos-ADJ.html">ADJ</a></tt> tokens (13% of all `ADJ` tokens) have a non-empty value of `VerbForm`.
@@ -140,15 +129,6 @@ The most frequent other feature values with which `ADJ` and `VerbForm` co-occurr
 * `EMPTY` (8278): <em>celý, prvý, druhý, ďalšie, veľký, druhej, nové, veľkého, veľké, ďalší</em>
 
 `VerbForm` seems to be **lexical feature** of `ADJ`. 100% lemmas (739) occur only with one value of `VerbForm`.
-
-### `SYM`
-
-3 <tt><a href="sk-pos-SYM.html">SYM</a></tt> tokens (14% of all `SYM` tokens) have a non-empty value of `VerbForm`.
-
-`SYM` tokens may have the following values of `VerbForm`:
-
-* `Inf` (3; 100% of non-empty `VerbForm`): <em>=, +</em>
-* `EMPTY` (19): <em>%, +, =</em>
 
 ## Relations with Agreement in `VerbForm`
 

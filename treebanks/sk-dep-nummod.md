@@ -64,14 +64,14 @@ The following 10 pairs of parts of speech are connected with `nummod`: <tt><a hr
 # visual-style 4 2 nummod	color:blue
 1	BARAN	baran	NOUN	SSms1	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
 2	21	21	NUM	0	NumForm=Digit	4	nummod	_	SpaceAfter=No
-3	.	.	PUNCT	ZIP	VerbForm=Inf	2	punct	_	_
+3	.	.	PUNCT	ZIP	_	2	punct	_	_
 4	3	3	NUM	0	NumForm=Digit	1	dep	_	SpaceAfter=No
-5	.	.	PUNCT	ZIP	VerbForm=Inf	4	punct	_	_
-6	-	-	PUNCT	ZIP	VerbForm=Inf	9	punct	_	_
+5	.	.	PUNCT	ZIP	_	4	punct	_	_
+6	-	-	PUNCT	ZIP	_	9	punct	_	_
 7	20	20	NUM	0	NumForm=Digit	9	nummod	_	SpaceAfter=No
-8	.	.	PUNCT	ZIP	VerbForm=Inf	7	punct	_	_
+8	.	.	PUNCT	ZIP	_	7	punct	_	_
 9	4	4	NUM	0	NumForm=Digit	4	conj	_	SpaceAfter=No
-10	.	.	PUNCT	ZIP	VerbForm=Inf	1	punct	_	_
+10	.	.	PUNCT	ZIP	_	1	punct	_	_
 
 ~~~
 

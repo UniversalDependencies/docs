@@ -31,6 +31,6 @@ The most frequent other feature values with which `NUM` and `NumForm` co-occurre
 The 10 most frequent relations where parent and child node agree in `NumForm`:
 <tt>NUM --[<tt><a href="sk-dep-conj.html">conj</a></tt>]--> NUM</tt> (81; 100%),
 <tt>NUM --[<tt><a href="sk-dep-nummod.html">nummod</a></tt>]--> NUM</tt> (48; 79%),
-<tt>NUM --[<tt><a href="sk-dep-appos.html">appos</a></tt>]--> NUM</tt> (1; 100%),
-<tt>NUM --[<tt><a href="sk-dep-dep.html">dep</a></tt>]--> NUM</tt> (1; 100%).
+<tt>NUM --[<tt><a href="sk-dep-dep.html">dep</a></tt>]--> NUM</tt> (1; 100%),
+<tt>NUM --[<tt><a href="sk-dep-appos.html">appos</a></tt>]--> NUM</tt> (1; 100%).
 

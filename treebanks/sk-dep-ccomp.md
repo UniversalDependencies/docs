@@ -26,14 +26,14 @@ The following 9 pairs of parts of speech are connected with `ccomp`: <tt><a href
 2	zdrojov	zdroj	NOUN	SSip2	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	1	nmod	_	_
 3	však	však	PART	T	_	4	advmod	_	_
 4	uvádza	uvádzať	VERB	VKesc+	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
-5	,	,	PUNCT	ZIP	VerbForm=Inf	8	punct	_	_
+5	,	,	PUNCT	ZIP	_	8	punct	_	_
 6	že	že	SCONJ	O	_	8	mark	_	_
 7	by	by	AUX	Y	Mood=Cnd	8	aux	_	_
 8	mal	mať	VERB	VLescm+	Animacy=Anim|Aspect=Imp|Gender=Masc|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbForm=Part	4	ccomp	_	_
 9	byť	byť	VERB	VIe+	Aspect=Imp|Polarity=Pos|VerbForm=Inf	8	xcomp	_	_
 10	v	v	ADP	Eu6	AdpType=Prep|Case=Loc	11	case	_	_
 11	Šanghaji	šanghaj	PROPN	SSis6:r	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	9	obl	_	SpaceAfter=No
-12	.	.	PUNCT	ZIP	VerbForm=Inf	4	punct	_	_
+12	.	.	PUNCT	ZIP	_	4	punct	_	_
 
 ~~~
 

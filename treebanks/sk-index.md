@@ -117,8 +117,6 @@ subset and conversion to Universal Dependencies was done by Dan Zeman.
   <li>Inf
   <ul>
     <li>AUX: byť</li>
-    <li>PUNCT: ., ,, ", ?, !, -, :, ', ), (</li>
-    <li>SYM: =, +</li>
     <li>VERB: povedať, mať, ísť, podporovať, robiť, stať, venovať, pokračovať, hľadať, stáť</li>
   </ul>
   </li>

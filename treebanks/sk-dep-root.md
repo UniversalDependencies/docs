@@ -29,7 +29,7 @@ The following 14 pairs of parts of speech are connected with `root`: -<tt><a hre
 5	povedú	poviesť	VERB	VKdpc+	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	0	root	_	_
 6	do	do	ADP	Eu2	AdpType=Prep|Case=Gen	7	case	_	_
 7	Belehradu	belehrad	PROPN	SSis2:r	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	5	obl	_	SpaceAfter=No
-8	.	.	PUNCT	ZIP	VerbForm=Inf	5	punct	_	_
+8	.	.	PUNCT	ZIP	_	5	punct	_	_
 
 ~~~
 
@@ -41,7 +41,7 @@ The following 14 pairs of parts of speech are connected with `root`: -<tt><a hre
 # visual-style 0	fgColor:white
 # visual-style 0 1 root	color:blue
 1	FOTO	foto	NOUN	SSns1	Case=Nom|Gender=Neut|Number=Sing	0	root	_	_
-2	-	-	PUNCT	ZIP	VerbForm=Inf	3	punct	_	_
+2	-	-	PUNCT	ZIP	_	3	punct	_	_
 3	REUTERS	reuters	X	%	Foreign=Yes	1	conj	_	_
 
 ~~~
@@ -59,7 +59,7 @@ The following 14 pairs of parts of speech are connected with `root`: -<tt><a hre
 4	zničení	zničený	ADJ	AAmp1x	Animacy=Anim|Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	0	root	_	_
 5	aj	aj	CCONJ	O	_	6	cc	_	_
 6	ľudia	človek	NOUN	SSmp1	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	4	nsubj	_	SpaceAfter=No
-7	,	,	PUNCT	ZIP	VerbForm=Inf	9	punct	_	_
+7	,	,	PUNCT	ZIP	_	9	punct	_	_
 8	aj	aj	CCONJ	O	_	9	cc	_	_
 9	zvieratá	zviera	NOUN	SSnp1	Case=Nom|Gender=Neut|Number=Plur	6	conj	_	_
 

@@ -114,8 +114,6 @@ udver: '2'
   <li>Inf
   <ul>
     <li>AUX: byť</li>
-    <li>PUNCT: ., ,, ", ?, !, -, :, ', ), (</li>
-    <li>SYM: =, +</li>
     <li>VERB: povedať, mať, ísť, podporovať, robiť, stať, venovať, pokračovať, hľadať, stáť</li>
   </ul>
   </li>

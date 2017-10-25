@@ -18,7 +18,7 @@ The feature is used with 3 part-of-speech tags: <tt><a href="sk-pos-VERB.html">V
 
 12475 <tt><a href="sk-pos-VERB.html">VERB</a></tt> tokens (89% of all `VERB` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="sk-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (11353; 91%), <tt><a href="sk-feat-Number.html">Number</a></tt><tt>=Sing</tt> (10209; 82%), <tt><a href="sk-feat-Person.html">Person</a></tt><tt>=3</tt> (9663; 77%), <tt><a href="sk-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (9278; 74%), <tt><a href="sk-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (9278; 74%), <tt><a href="sk-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (7377; 59%), <tt><a href="sk-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (6306; 51%).
+The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="sk-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (11353; 91%), <tt><a href="sk-feat-Number.html">Number</a></tt><tt>=Sing</tt> (10209; 82%), <tt><a href="sk-feat-Person.html">Person</a></tt><tt>=3</tt> (9663; 77%), <tt><a href="sk-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (9278; 74%), <tt><a href="sk-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (9278; 74%), <tt><a href="sk-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (7377; 59%), <tt><a href="sk-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (6306; 51%).
 
 `VERB` tokens may have the following values of `Tense`:
 
@@ -66,7 +66,7 @@ The most frequent other feature values with which `VERB` and `Tense` co-occurred
 
 3470 <tt><a href="sk-pos-AUX.html">AUX</a></tt> tokens (93% of all `AUX` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `AUX` and `Tense` co-occurred: <tt><a href="sk-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (3469; 100%), <tt><a href="sk-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (3330; 96%), <tt><a href="sk-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2906; 84%), <tt><a href="sk-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (2739; 79%), <tt><a href="sk-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (2733; 79%), <tt><a href="sk-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (2733; 79%), <tt><a href="sk-feat-Person.html">Person</a></tt><tt>=1</tt> (1767; 51%).
+The most frequent other feature values with which `AUX` and `Tense` co-occurred: <tt><a href="sk-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (3469; 100%), <tt><a href="sk-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (3330; 96%), <tt><a href="sk-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2906; 84%), <tt><a href="sk-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (2739; 79%), <tt><a href="sk-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (2733; 79%), <tt><a href="sk-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (2733; 79%), <tt><a href="sk-feat-Person.html">Person</a></tt><tt>=1</tt> (1767; 51%).
 
 `AUX` tokens may have the following values of `Tense`:
 
@@ -117,7 +117,7 @@ The most frequent other feature values with which `AUX` and `Tense` co-occurred:
 
 29 <tt><a href="sk-pos-ADJ.html">ADJ</a></tt> tokens (0% of all `ADJ` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `ADJ` and `Tense` co-occurred: <tt><a href="sk-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (29; 100%), <tt><a href="sk-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (29; 100%), <tt><a href="sk-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (29; 100%), <tt><a href="sk-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (29; 100%), <tt><a href="sk-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (29; 100%), <tt><a href="sk-feat-Number.html">Number</a></tt><tt>=Sing</tt> (27; 93%), <tt><a href="sk-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (15; 52%).
+The most frequent other feature values with which `ADJ` and `Tense` co-occurred: <tt><a href="sk-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (29; 100%), <tt><a href="sk-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (29; 100%), <tt><a href="sk-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (29; 100%), <tt><a href="sk-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (29; 100%), <tt><a href="sk-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (29; 100%), <tt><a href="sk-feat-Number.html">Number</a></tt><tt>=Sing</tt> (27; 93%), <tt><a href="sk-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (15; 52%).
 
 `ADJ` tokens may have the following values of `Tense`:
 

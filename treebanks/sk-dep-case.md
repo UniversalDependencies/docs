@@ -42,7 +42,7 @@ The following 19 pairs of parts of speech are connected with `case`: <tt><a href
 5	povedú	poviesť	VERB	VKdpc+	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	0	root	_	_
 6	do	do	ADP	Eu2	AdpType=Prep|Case=Gen	7	case	_	_
 7	Belehradu	belehrad	PROPN	SSis2:r	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	5	obl	_	SpaceAfter=No
-8	.	.	PUNCT	ZIP	VerbForm=Inf	5	punct	_	_
+8	.	.	PUNCT	ZIP	_	5	punct	_	_
 
 ~~~
 
@@ -63,7 +63,7 @@ The following 19 pairs of parts of speech are connected with `case`: <tt><a href
 8	aj	aj	CCONJ	O	_	10	cc	_	_
 9	po	po	ADP	Eu6	AdpType=Prep|Case=Loc	10	case	_	_
 10	nej	ona	PRON	PFfs6	Case=Loc|Gender=Fem|Number=Sing|PronType=Prs	7	conj	_	SpaceAfter=No
-11	.	.	PUNCT	ZIP	VerbForm=Inf	2	punct	_	_
+11	.	.	PUNCT	ZIP	_	2	punct	_	_
 
 ~~~
 

@@ -31,7 +31,7 @@ The following 1 pairs of parts of speech are connected with `flat:foreign`: <tt>
 7	University	university	X	%	Foreign=Yes	5	nmod	_	_
 8	of	of	X	%	Foreign=Yes	9	case	_	_
 9	Idaho	idaho	X	%	Foreign=Yes	7	flat:foreign	_	SpaceAfter=No
-10	.	.	PUNCT	ZIP	VerbForm=Inf	1	punct	_	_
+10	.	.	PUNCT	ZIP	_	1	punct	_	_
 
 ~~~
 

@@ -31,7 +31,7 @@ The following 3 pairs of parts of speech are connected with `expl:pv`: <tt><a hr
 6	smútok	smútok	NOUN	SSis1	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	_
 7	a	a	CCONJ	O	_	8	cc	_	_
 8	zatrpknutosť	zatrpknutosť	NOUN	SSfs1	Case=Nom|Gender=Fem|Number=Sing	6	conj	_	SpaceAfter=No
-9	.	.	PUNCT	ZIP	VerbForm=Inf	5	punct	_	_
+9	.	.	PUNCT	ZIP	_	5	punct	_	_
 
 ~~~
 

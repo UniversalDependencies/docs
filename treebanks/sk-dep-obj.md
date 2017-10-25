@@ -37,16 +37,16 @@ The following 25 pairs of parts of speech are connected with `obj`: <tt><a href=
 # visual-style 9 10 obj	color:blue
 1	V	v	ADP	Eu6	AdpType=Prep|Case=Loc	2	case	_	_
 2	prípade	prípad	NOUN	SSis6	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	9	obl	_	SpaceAfter=No
-3	,	,	PUNCT	ZIP	VerbForm=Inf	5	punct	_	_
+3	,	,	PUNCT	ZIP	_	5	punct	_	_
 4	že	že	SCONJ	O	_	5	mark	_	_
 5	nebudú	byť	VERB	VBepc-	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Polarity=Neg|Tense=Fut|VerbForm=Fin	2	acl	_	_
 6	ani	ani	PART	T	_	7	advmod:emph	_	_
 7	dedičia	dedič	NOUN	SSmp1	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	5	nsubj	_	SpaceAfter=No
-8	,	,	PUNCT	ZIP	VerbForm=Inf	5	punct	_	_
+8	,	,	PUNCT	ZIP	_	5	punct	_	_
 9	nahradia	nahradiť	VERB	VKdpc+	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	0	root	_	_
 10	ich	on	PRON	PFmp4	Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur|PronType=Prs	9	obj	_	_
 11	univerzity	univerzita	NOUN	SSfp1	Case=Nom|Gender=Fem|Number=Plur	9	nsubj	_	SpaceAfter=No
-12	.	.	PUNCT	ZIP	VerbForm=Inf	9	punct	_	_
+12	.	.	PUNCT	ZIP	_	9	punct	_	_
 
 ~~~
 
@@ -61,7 +61,7 @@ The following 25 pairs of parts of speech are connected with `obj`: <tt><a href=
 2	to	to	DET	PFns4	Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	4	obj	_	_
 3	ďaleko	ďaleko	ADV	Dx	Degree=Pos	4	advmod	_	_
 4	dotiahnuť	dotiahnuť	VERB	VId+	Aspect=Perf|Polarity=Pos|VerbForm=Inf	1	xcomp	_	SpaceAfter=No
-5	.	.	PUNCT	ZIP	VerbForm=Inf	1	punct	_	_
+5	.	.	PUNCT	ZIP	_	1	punct	_	_
 
 ~~~
 

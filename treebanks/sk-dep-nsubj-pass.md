@@ -61,7 +61,7 @@ The following 10 pairs of parts of speech are connected with `nsubj:pass`: <tt><
 1	Každý	každý	DET	PAms1	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|PronType=Tot	3	nsubj:pass	_	_
 2	sa	sa	PRON	R	PronType=Prs|Reflex=Yes	3	expl:pass	_	_
 3	očistí	očistiť	VERB	VKdsc+	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
-4	.	.	PUNCT	ZIP	VerbForm=Inf	3	punct	_	_
+4	.	.	PUNCT	ZIP	_	3	punct	_	_
 
 ~~~
 

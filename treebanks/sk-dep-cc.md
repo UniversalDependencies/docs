@@ -28,7 +28,7 @@ The following 37 pairs of parts of speech are connected with `cc`: <tt><a href="
 4	povezie	viezť	VERB	VKesc+	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	0	root	_	_
 5	aj	aj	CCONJ	O	_	6	advmod:emph	_	_
 6	zatykače	zatykač	NOUN	SSip4	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	4	obj	_	SpaceAfter=No
-7	.	.	PUNCT	ZIP	VerbForm=Inf	4	punct	_	_
+7	.	.	PUNCT	ZIP	_	4	punct	_	_
 
 ~~~
 
@@ -45,7 +45,7 @@ The following 37 pairs of parts of speech are connected with `cc`: <tt><a href="
 4	zničení	zničený	ADJ	AAmp1x	Animacy=Anim|Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	0	root	_	_
 5	aj	aj	CCONJ	O	_	6	cc	_	_
 6	ľudia	človek	NOUN	SSmp1	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	4	nsubj	_	SpaceAfter=No
-7	,	,	PUNCT	ZIP	VerbForm=Inf	9	punct	_	_
+7	,	,	PUNCT	ZIP	_	9	punct	_	_
 8	aj	aj	CCONJ	O	_	9	cc	_	_
 9	zvieratá	zviera	NOUN	SSnp1	Case=Nom|Gender=Neut|Number=Plur	6	conj	_	_
 
@@ -65,7 +65,7 @@ The following 37 pairs of parts of speech are connected with `cc`: <tt><a href="
 5	a	a	CCONJ	O	_	6	cc	_	_
 6	životné	životný	ADJ	AAns4x	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	4	conj	_	_
 7	tempo	tempo	NOUN	SSns4	Case=Acc|Gender=Neut|Number=Sing	1	obj	_	SpaceAfter=No
-8	.	.	PUNCT	ZIP	VerbForm=Inf	1	punct	_	_
+8	.	.	PUNCT	ZIP	_	1	punct	_	_
 
 ~~~
 

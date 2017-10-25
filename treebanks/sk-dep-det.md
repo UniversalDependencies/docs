@@ -26,7 +26,7 @@ The following 9 pairs of parts of speech are connected with `det`: <tt><a href="
 1	Konajte	konať	VERB	VMepb+	Aspect=Imp|Mood=Imp|Number=Plur|Person=2|Polarity=Pos|VerbForm=Fin	0	root	_	_
 2	svoju	svoj	DET	PFfs4	Case=Acc|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes	3	det	_	_
 3	povinnosť	povinnosť	NOUN	SSfs4	Case=Acc|Gender=Fem|Number=Sing	1	obj	_	SpaceAfter=No
-4	.	.	PUNCT	ZIP	VerbForm=Inf	1	punct	_	_
+4	.	.	PUNCT	ZIP	_	1	punct	_	_
 
 ~~~
 
@@ -44,7 +44,7 @@ The following 9 pairs of parts of speech are connected with `det`: <tt><a href="
 5	nič	nič	PRON	PFns1	Case=Nom|Gender=Neut|Number=Sing|PronType=Neg	7	nsubj	_	_
 6	také	taký	DET	PAns1	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	5	det	_	_
 7	nebolo	byť	VERB	VLescn-	Aspect=Imp|Gender=Neut|Number=Sing|Person=3|Polarity=Neg|Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
-8	.	.	PUNCT	ZIP	VerbForm=Inf	7	punct	_	_
+8	.	.	PUNCT	ZIP	_	7	punct	_	_
 
 ~~~
 
@@ -62,7 +62,7 @@ The following 9 pairs of parts of speech are connected with `det`: <tt><a href="
 5	toto	toto	DET	PFns1	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	6	det	_	_
 6	všetko	všetok	DET	PFns1	Case=Nom|Gender=Neut|Number=Sing|PronType=Tot	7	nsubj	_	_
 7	podarilo	podariť	VERB	VLdscn+	Aspect=Perf|Gender=Neut|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
-8	.	.	PUNCT	ZIP	VerbForm=Inf	7	punct	_	_
+8	.	.	PUNCT	ZIP	_	7	punct	_	_
 
 ~~~
 

@@ -29,9 +29,9 @@ The following 11 pairs of parts of speech are connected with `cop`: <tt><a href=
 5	centrum	centrum	NOUN	SSns1	Case=Nom|Gender=Neut|Number=Sing	3	nsubj	_	_
 6	čínskeho	čínsky	ADJ	AAis2x	Animacy=Inan|Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	7	amod	_	_
 7	biznisu	biznis	NOUN	SSis2	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	5	nmod	_	_
-8	-	-	PUNCT	ZIP	VerbForm=Inf	9	punct	_	_
+8	-	-	PUNCT	ZIP	_	9	punct	_	_
 9	Šanghaj	šanghaj	PROPN	SSis1:r	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	5	appos	_	SpaceAfter=No
-10	.	.	PUNCT	ZIP	VerbForm=Inf	3	punct	_	_
+10	.	.	PUNCT	ZIP	_	3	punct	_	_
 
 ~~~
 
@@ -48,7 +48,7 @@ The following 11 pairs of parts of speech are connected with `cop`: <tt><a href=
 4	zničení	zničený	ADJ	AAmp1x	Animacy=Anim|Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	0	root	_	_
 5	aj	aj	CCONJ	O	_	6	cc	_	_
 6	ľudia	človek	NOUN	SSmp1	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	4	nsubj	_	SpaceAfter=No
-7	,	,	PUNCT	ZIP	VerbForm=Inf	9	punct	_	_
+7	,	,	PUNCT	ZIP	_	9	punct	_	_
 8	aj	aj	CCONJ	O	_	9	cc	_	_
 9	zvieratá	zviera	NOUN	SSnp1	Case=Nom|Gender=Neut|Number=Plur	6	conj	_	_
 

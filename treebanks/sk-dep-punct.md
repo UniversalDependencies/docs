@@ -29,7 +29,7 @@ The following 16 pairs of parts of speech are connected with `punct`: <tt><a hre
 5	povedú	poviesť	VERB	VKdpc+	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	0	root	_	_
 6	do	do	ADP	Eu2	AdpType=Prep|Case=Gen	7	case	_	_
 7	Belehradu	belehrad	PROPN	SSis2:r	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	5	obl	_	SpaceAfter=No
-8	.	.	PUNCT	ZIP	VerbForm=Inf	5	punct	_	_
+8	.	.	PUNCT	ZIP	_	5	punct	_	_
 
 ~~~
 
@@ -47,9 +47,9 @@ The following 16 pairs of parts of speech are connected with `punct`: <tt><a hre
 5	centrum	centrum	NOUN	SSns1	Case=Nom|Gender=Neut|Number=Sing	3	nsubj	_	_
 6	čínskeho	čínsky	ADJ	AAis2x	Animacy=Inan|Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	7	amod	_	_
 7	biznisu	biznis	NOUN	SSis2	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	5	nmod	_	_
-8	-	-	PUNCT	ZIP	VerbForm=Inf	9	punct	_	_
+8	-	-	PUNCT	ZIP	_	9	punct	_	_
 9	Šanghaj	šanghaj	PROPN	SSis1:r	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	5	appos	_	SpaceAfter=No
-10	.	.	PUNCT	ZIP	VerbForm=Inf	3	punct	_	_
+10	.	.	PUNCT	ZIP	_	3	punct	_	_
 
 ~~~
 
@@ -60,7 +60,7 @@ The following 16 pairs of parts of speech are connected with `punct`: <tt><a hre
 # visual-style 9	bgColor:blue
 # visual-style 9	fgColor:white
 # visual-style 9 1 punct	color:blue
-1	"	"	PUNCT	ZIP	VerbForm=Inf	9	punct	_	SpaceAfter=No
+1	"	"	PUNCT	ZIP	_	9	punct	_	SpaceAfter=No
 2	Naša	náš	DET	PFfs1	Case=Nom|Gender=Fem|Number=Sing|Number[psor]=Plur|Poss=Yes|PronType=Prs	3	det	_	_
 3	mačka	mačka	NOUN	SSfs1	Case=Nom|Gender=Fem|Number=Sing	9	nsubj	_	_
 4	je	byť	AUX	VKesc+	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	9	cop	_	_
@@ -69,7 +69,7 @@ The following 16 pairs of parts of speech are connected with `punct`: <tt><a hre
 7	deň	deň	NOUN	SSis4	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	9	obl	_	_
 8	veľmi	veľmi	ADV	Dx	Degree=Pos	9	advmod	_	_
 9	nepokojná	nepokojný	ADJ	AAfs1x	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
-10	.	.	PUNCT	ZIP	VerbForm=Inf	9	punct	_	_
+10	.	.	PUNCT	ZIP	_	9	punct	_	_
 
 ~~~
 

@@ -23,13 +23,13 @@ The following 32 pairs of parts of speech are connected with `orphan`: <tt><a hr
 # visual-style 3	fgColor:white
 # visual-style 3 5 orphan	color:blue
 1	Jazz	jazz	NOUN	SSis1	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
-2	,	,	PUNCT	ZIP	VerbForm=Inf	3	punct	_	_
+2	,	,	PUNCT	ZIP	_	3	punct	_	_
 3	blues	blues	NOUN	SUns1	Case=Nom|Gender=Neut|Number=Sing	1	conj	_	SpaceAfter=No
-4	,	,	PUNCT	ZIP	VerbForm=Inf	3	punct	_	_
+4	,	,	PUNCT	ZIP	_	3	punct	_	_
 5	rock	rock	NOUN	SSis1	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	3	orphan	_	SpaceAfter=No
-6	,	,	PUNCT	ZIP	VerbForm=Inf	3	punct	_	_
+6	,	,	PUNCT	ZIP	_	3	punct	_	_
 7	funk	funk	NOUN	SSis1	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	3	orphan	_	SpaceAfter=No
-8	.	.	PUNCT	ZIP	VerbForm=Inf	1	punct	_	_
+8	.	.	PUNCT	ZIP	_	1	punct	_	_
 
 ~~~
 

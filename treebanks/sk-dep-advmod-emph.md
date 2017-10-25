@@ -24,16 +24,16 @@ The following 26 pairs of parts of speech are connected with `advmod:emph`: <tt>
 # visual-style 7 6 advmod:emph	color:blue
 1	V	v	ADP	Eu6	AdpType=Prep|Case=Loc	2	case	_	_
 2	prípade	prípad	NOUN	SSis6	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	9	obl	_	SpaceAfter=No
-3	,	,	PUNCT	ZIP	VerbForm=Inf	5	punct	_	_
+3	,	,	PUNCT	ZIP	_	5	punct	_	_
 4	že	že	SCONJ	O	_	5	mark	_	_
 5	nebudú	byť	VERB	VBepc-	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Polarity=Neg|Tense=Fut|VerbForm=Fin	2	acl	_	_
 6	ani	ani	PART	T	_	7	advmod:emph	_	_
 7	dedičia	dedič	NOUN	SSmp1	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	5	nsubj	_	SpaceAfter=No
-8	,	,	PUNCT	ZIP	VerbForm=Inf	5	punct	_	_
+8	,	,	PUNCT	ZIP	_	5	punct	_	_
 9	nahradia	nahradiť	VERB	VKdpc+	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	0	root	_	_
 10	ich	on	PRON	PFmp4	Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur|PronType=Prs	9	obj	_	_
 11	univerzity	univerzita	NOUN	SSfp1	Case=Nom|Gender=Fem|Number=Plur	9	nsubj	_	SpaceAfter=No
-12	.	.	PUNCT	ZIP	VerbForm=Inf	9	punct	_	_
+12	.	.	PUNCT	ZIP	_	9	punct	_	_
 
 ~~~
 
@@ -63,7 +63,7 @@ The following 26 pairs of parts of speech are connected with `advmod:emph`: <tt>
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 5 advmod:emph	color:blue
-1	"	"	PUNCT	ZIP	VerbForm=Inf	9	punct	_	SpaceAfter=No
+1	"	"	PUNCT	ZIP	_	9	punct	_	SpaceAfter=No
 2	Naša	náš	DET	PFfs1	Case=Nom|Gender=Fem|Number=Sing|Number[psor]=Plur|Poss=Yes|PronType=Prs	3	det	_	_
 3	mačka	mačka	NOUN	SSfs1	Case=Nom|Gender=Fem|Number=Sing	9	nsubj	_	_
 4	je	byť	AUX	VKesc+	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	9	cop	_	_
@@ -72,7 +72,7 @@ The following 26 pairs of parts of speech are connected with `advmod:emph`: <tt>
 7	deň	deň	NOUN	SSis4	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	9	obl	_	_
 8	veľmi	veľmi	ADV	Dx	Degree=Pos	9	advmod	_	_
 9	nepokojná	nepokojný	ADJ	AAfs1x	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
-10	.	.	PUNCT	ZIP	VerbForm=Inf	9	punct	_	_
+10	.	.	PUNCT	ZIP	_	9	punct	_	_
 
 ~~~
 

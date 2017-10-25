@@ -30,7 +30,7 @@ The following 35 pairs of parts of speech are connected with `obl`: <tt><a href=
 5	došlo	dôjsť	VERB	VLdscn+	Aspect=Perf|Gender=Neut|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbForm=Part	0	root	_	_
 6	k	k	ADP	Eu3	AdpType=Prep|Case=Dat	7	case	_	_
 7	nepochopeniu	nepochopenie	NOUN	SSns3	Case=Dat|Gender=Neut|Number=Sing	5	obl:arg	_	SpaceAfter=No
-8	.	.	PUNCT	ZIP	VerbForm=Inf	5	punct	_	_
+8	.	.	PUNCT	ZIP	_	5	punct	_	_
 
 ~~~
 
@@ -59,7 +59,7 @@ The following 35 pairs of parts of speech are connected with `obl`: <tt><a href=
 # visual-style 9	bgColor:blue
 # visual-style 9	fgColor:white
 # visual-style 9 7 obl	color:blue
-1	"	"	PUNCT	ZIP	VerbForm=Inf	9	punct	_	SpaceAfter=No
+1	"	"	PUNCT	ZIP	_	9	punct	_	SpaceAfter=No
 2	Naša	náš	DET	PFfs1	Case=Nom|Gender=Fem|Number=Sing|Number[psor]=Plur|Poss=Yes|PronType=Prs	3	det	_	_
 3	mačka	mačka	NOUN	SSfs1	Case=Nom|Gender=Fem|Number=Sing	9	nsubj	_	_
 4	je	byť	AUX	VKesc+	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	9	cop	_	_
@@ -68,7 +68,7 @@ The following 35 pairs of parts of speech are connected with `obl`: <tt><a href=
 7	deň	deň	NOUN	SSis4	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	9	obl	_	_
 8	veľmi	veľmi	ADV	Dx	Degree=Pos	9	advmod	_	_
 9	nepokojná	nepokojný	ADJ	AAfs1x	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
-10	.	.	PUNCT	ZIP	VerbForm=Inf	9	punct	_	_
+10	.	.	PUNCT	ZIP	_	9	punct	_	_
 
 ~~~
 
