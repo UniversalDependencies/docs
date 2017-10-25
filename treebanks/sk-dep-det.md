@@ -43,7 +43,7 @@ The following 9 pairs of parts of speech are connected with `det`: <tt><a href="
 4	kaštieli	kaštieľ	NOUN	SSis6	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	7	obl	_	_
 5	nič	nič	PRON	PFns1	Case=Nom|Gender=Neut|Number=Sing|PronType=Neg	7	nsubj	_	_
 6	také	taký	DET	PAns1	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	5	det	_	_
-7	nebolo	byť	VERB	VLescn-	Aspect=Imp|Gender=Neut|Number=Sing|Person=3|Polarity=Neg|Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
+7	nebolo	byť	VERB	VLescn-	Aspect=Imp|Gender=Neut|Number=Sing|Polarity=Neg|Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
 8	.	.	PUNCT	ZIP	_	7	punct	_	_
 
 ~~~
@@ -61,7 +61,7 @@ The following 9 pairs of parts of speech are connected with `det`: <tt><a href="
 4	sa	sa	PRON	R	PronType=Prs|Reflex=Yes	7	expl:pv	_	_
 5	toto	toto	DET	PFns1	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	6	det	_	_
 6	všetko	všetok	DET	PFns1	Case=Nom|Gender=Neut|Number=Sing|PronType=Tot	7	nsubj	_	_
-7	podarilo	podariť	VERB	VLdscn+	Aspect=Perf|Gender=Neut|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
+7	podarilo	podariť	VERB	VLdscn+	Aspect=Perf|Gender=Neut|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
 8	.	.	PUNCT	ZIP	_	7	punct	_	_
 
 ~~~

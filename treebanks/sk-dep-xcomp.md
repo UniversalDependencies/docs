@@ -29,7 +29,7 @@ The following 30 pairs of parts of speech are connected with `xcomp`: <tt><a hre
 5	,	,	PUNCT	ZIP	_	8	punct	_	_
 6	že	že	SCONJ	O	_	8	mark	_	_
 7	by	by	AUX	Y	Mood=Cnd	8	aux	_	_
-8	mal	mať	VERB	VLescm+	Animacy=Anim|Aspect=Imp|Gender=Masc|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbForm=Part	4	ccomp	_	_
+8	mal	mať	VERB	VLescm+	Animacy=Anim|Aspect=Imp|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part	4	ccomp	_	_
 9	byť	byť	VERB	VIe+	Aspect=Imp|Polarity=Pos|VerbForm=Inf	8	xcomp	_	_
 10	v	v	ADP	Eu6	AdpType=Prep|Case=Loc	11	case	_	_
 11	Šanghaji	šanghaj	PROPN	SSis6:r	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	9	obl	_	SpaceAfter=No
@@ -68,7 +68,7 @@ The following 30 pairs of parts of speech are connected with `xcomp`: <tt><a hre
 1	Ako	ako	SCONJ	O	_	2	mark	_	_
 2	dôvod	dôvod	NOUN	SSis4	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	4	xcomp	_	_
 3	administratíva	administratíva	NOUN	SSfs1	Case=Nom|Gender=Fem|Number=Sing	4	nsubj	_	_
-4	uviedla	uviesť	VERB	VLdscf+	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
+4	uviedla	uviesť	VERB	VLdscf+	Aspect=Perf|Gender=Fem|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
 5	,	,	PUNCT	Z	_	10	punct	_	_
 6	že	že	SCONJ	O	_	10	mark	_	_
 7	už	už	PART	T	_	10	advmod	_	_

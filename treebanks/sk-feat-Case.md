@@ -40,7 +40,7 @@ The most frequent other feature values with which `NOUN` and `Case` co-occurred:
 
 9475 <tt><a href="sk-pos-ADJ.html">ADJ</a></tt> tokens (100% of all `ADJ` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `ADJ` and `Case` co-occurred: <tt><a href="sk-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (8745; 92%), <tt><a href="sk-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (8278; 87%), <tt><a href="sk-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (8278; 87%), <tt><a href="sk-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (8278; 87%), <tt><a href="sk-feat-Number.html">Number</a></tt><tt>=Sing</tt> (6933; 73%), <tt><a href="sk-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (5508; 58%).
+The most frequent other feature values with which `ADJ` and `Case` co-occurred: <tt><a href="sk-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (8745; 92%), <tt><a href="sk-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (8278; 87%), <tt><a href="sk-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (8278; 87%), <tt><a href="sk-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (8278; 87%), <tt><a href="sk-feat-Number.html">Number</a></tt><tt>=Sing</tt> (6933; 73%), <tt><a href="sk-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (5508; 58%).
 
 `ADJ` tokens may have the following values of `Case`:
 

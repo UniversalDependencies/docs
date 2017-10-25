@@ -26,7 +26,7 @@ The following 10 pairs of parts of speech are connected with `nsubj:pass`: <tt><
 2	sa	sa	PRON	R	PronType=Prs|Reflex=Yes	5	expl:pass	_	_
 3	obrázok	obrázok	NOUN	SSis1	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	5	nsubj:pass	_	_
 4	monoskopu	monoskop	NOUN	SSis2	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	3	nmod	_	_
-5	snímal	snímať	VERB	VLesci+	Animacy=Inan|Aspect=Imp|Gender=Masc|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbForm=Part	0	root	_	_
+5	snímal	snímať	VERB	VLesci+	Animacy=Inan|Aspect=Imp|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part	0	root	_	_
 6	normálnou	normálny	ADJ	AAfs7x	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	8	amod	_	_
 7	televíznou	televízny	ADJ	AAfs7x	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	8	amod	_	_
 8	kamerou	kamera	NOUN	SSfs7	Case=Ins|Gender=Fem|Number=Sing	5	obl	_	SpaceAfter=No
@@ -42,7 +42,7 @@ The following 10 pairs of parts of speech are connected with `nsubj:pass`: <tt><
 # visual-style 4	fgColor:white
 # visual-style 4 1 nsubj:pass	color:blue
 1	Mŕtvoly	mŕtvola	NOUN	SSfp1	Case=Nom|Gender=Fem|Number=Plur	4	nsubj:pass	_	_
-2	boli	byť	AUX	VLepcf+	Aspect=Imp|Gender=Fem|Number=Plur|Person=3|Polarity=Pos|Tense=Past|VerbForm=Part	4	aux:pass	_	_
+2	boli	byť	AUX	VLepcf+	Aspect=Imp|Gender=Fem|Number=Plur|Polarity=Pos|Tense=Past|VerbForm=Part	4	aux:pass	_	_
 3	hromadne	hromadne	ADV	Dx	Degree=Pos	4	advmod	_	_
 4	spaľované	spaľovaný	ADJ	Gtfp1x	Case=Nom|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Pos|VerbForm=Part|Voice=Pass	0	root	_	_
 5	v	v	ADP	Eu6	AdpType=Prep|Case=Loc	6	case	_	_

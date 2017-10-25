@@ -23,7 +23,7 @@ The following 38 pairs of parts of speech are connected with `appos`: <tt><a hre
 # visual-style 5	fgColor:white
 # visual-style 5 7 appos	color:blue
 1	Sultán	sultán	NOUN	SSms1	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	_
-2	vyhlásil	vyhlásiť	VERB	VLdscm+	Animacy=Anim|Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbForm=Part	0	root	_	_
+2	vyhlásil	vyhlásiť	VERB	VLdscm+	Animacy=Anim|Aspect=Perf|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part	0	root	_	_
 3	povstalcom	povstalec	NOUN	SSmp3	Animacy=Anim|Case=Dat|Gender=Masc|Number=Plur	2	iobj	_	_
 4	svätú	svätý	ADJ	AAfs4x	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	5	amod	_	_
 5	vojnu	vojna	NOUN	SSfs4	Case=Acc|Gender=Fem|Number=Sing	2	obj	_	SpaceAfter=No

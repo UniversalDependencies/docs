@@ -42,7 +42,7 @@ The following 27 pairs of parts of speech are connected with `advmod`: <tt><a hr
 2	prvom	prvý	ADJ	NAis6	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing|NumType=Ord	3	amod	_	_
 3	rade	rad	NOUN	SSis6	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	5	obl	_	_
 4	vraj	vraj	PART	T	_	5	advmod	_	_
-5	došlo	dôjsť	VERB	VLdscn+	Aspect=Perf|Gender=Neut|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbForm=Part	0	root	_	_
+5	došlo	dôjsť	VERB	VLdscn+	Aspect=Perf|Gender=Neut|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part	0	root	_	_
 6	k	k	ADP	Eu3	AdpType=Prep|Case=Dat	7	case	_	_
 7	nepochopeniu	nepochopenie	NOUN	SSns3	Case=Dat|Gender=Neut|Number=Sing	5	obl:arg	_	SpaceAfter=No
 8	.	.	PUNCT	ZIP	_	5	punct	_	_

@@ -60,13 +60,13 @@ The 2nd highest number of forms (24) was observed with the lemma “byť”: <em
 
 The 3rd highest number of forms (22) was observed with the lemma “mať”: <em>Maj, Nemaj, majú, mal, mala, mali, malo, mať, má, mám, máme, máte, máš, nemajú, nemal, nemala, nemali, nemalo, nemá, nemám, nemáme, nemáš</em>.
 
-`VERB` occurs with 10 features: <tt><a href="sk-feat-Aspect.html">Aspect</a></tt> (14059; 100% instances), <tt><a href="sk-feat-Polarity.html">Polarity</a></tt> (14059; 100% instances), <tt><a href="sk-feat-VerbForm.html">VerbForm</a></tt> (14057; 100% instances), <tt><a href="sk-feat-Number.html">Number</a></tt> (12772; 91% instances), <tt><a href="sk-feat-Person.html">Person</a></tt> (12772; 91% instances), <tt><a href="sk-feat-Tense.html">Tense</a></tt> (12499; 89% instances), <tt><a href="sk-feat-Gender.html">Gender</a></tt> (9001; 64% instances), <tt><a href="sk-feat-Animacy.html">Animacy</a></tt> (5111; 36% instances), <tt><a href="sk-feat-Mood.html">Mood</a></tt> (3470; 25% instances), <tt><a href="sk-feat-Typo.html">Typo</a></tt> (30; 0% instances)
+`VERB` occurs with 10 features: <tt><a href="sk-feat-Aspect.html">Aspect</a></tt> (14059; 100% instances), <tt><a href="sk-feat-Polarity.html">Polarity</a></tt> (14059; 100% instances), <tt><a href="sk-feat-VerbForm.html">VerbForm</a></tt> (14057; 100% instances), <tt><a href="sk-feat-Number.html">Number</a></tt> (12772; 91% instances), <tt><a href="sk-feat-Tense.html">Tense</a></tt> (12499; 89% instances), <tt><a href="sk-feat-Gender.html">Gender</a></tt> (9001; 64% instances), <tt><a href="sk-feat-Animacy.html">Animacy</a></tt> (5111; 36% instances), <tt><a href="sk-feat-Mood.html">Mood</a></tt> (3470; 25% instances), <tt><a href="sk-feat-Person.html">Person</a></tt> (3470; 25% instances), <tt><a href="sk-feat-Typo.html">Typo</a></tt> (30; 0% instances)
 
 `VERB` occurs with 25 feature-value pairs: `Animacy=Anim`, `Animacy=Inan`, `Aspect=Imp`, `Aspect=Imp,Perf`, `Aspect=Perf`, `Gender=Fem`, `Gender=Masc`, `Gender=Neut`, `Mood=Imp`, `Mood=Ind`, `Number=Plur`, `Number=Sing`, `Person=1`, `Person=2`, `Person=3`, `Polarity=Neg`, `Polarity=Pos`, `Tense=Fut`, `Tense=Past`, `Tense=Pres`, `Typo=Yes`, `VerbForm=Conv`, `VerbForm=Fin`, `VerbForm=Inf`, `VerbForm=Part`
 
-`VERB` occurs with 179 feature combinations.
-The most frequent feature combination is `Animacy=Anim|Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbForm=Part` (1821 tokens).
-Examples: <em>povedal, odvetil, spýtal, zvolal, stal, začal, zdvihol, zomrel, prišiel, dostal</em>
+`VERB` occurs with 143 feature combinations.
+The most frequent feature combination is `Animacy=Anim|Aspect=Perf|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part` (2286 tokens).
+Examples: <em>povedal, odvetil, spýtal, začal, zvolal, stal, prišiel, dostal, zdvihol, pomyslel</em>
 
 
 ## Relations

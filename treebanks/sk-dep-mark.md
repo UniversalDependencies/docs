@@ -29,7 +29,7 @@ The following 24 pairs of parts of speech are connected with `mark`: <tt><a href
 5	,	,	PUNCT	ZIP	_	8	punct	_	_
 6	že	že	SCONJ	O	_	8	mark	_	_
 7	by	by	AUX	Y	Mood=Cnd	8	aux	_	_
-8	mal	mať	VERB	VLescm+	Animacy=Anim|Aspect=Imp|Gender=Masc|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbForm=Part	4	ccomp	_	_
+8	mal	mať	VERB	VLescm+	Animacy=Anim|Aspect=Imp|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part	4	ccomp	_	_
 9	byť	byť	VERB	VIe+	Aspect=Imp|Polarity=Pos|VerbForm=Inf	8	xcomp	_	_
 10	v	v	ADP	Eu6	AdpType=Prep|Case=Loc	11	case	_	_
 11	Šanghaji	šanghaj	PROPN	SSis6:r	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	9	obl	_	SpaceAfter=No
@@ -49,7 +49,7 @@ The following 24 pairs of parts of speech are connected with `mark`: <tt><a href
 3	júla	júl	NOUN	SSis2	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	6	obl	_	_
 4	sa	sa	PRON	R	PronType=Prs|Reflex=Yes	6	expl:pv	_	_
 5	astronauti	astronaut	NOUN	SSmp1	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	6	nsubj	_	_
-6	vrátili	vrátiť	VERB	VLdpcm+	Animacy=Anim|Aspect=Perf|Gender=Masc|Number=Plur|Person=3|Polarity=Pos|Tense=Past|VerbForm=Part	0	root	_	_
+6	vrátili	vrátiť	VERB	VLdpcm+	Animacy=Anim|Aspect=Perf|Gender=Masc|Number=Plur|Polarity=Pos|Tense=Past|VerbForm=Part	0	root	_	_
 7	na	na	ADP	Eu4	AdpType=Prep|Case=Acc	8	case	_	_
 8	Zem	zem	PROPN	SSfs4:r	Case=Acc|Gender=Fem|Number=Sing	6	obl	_	_
 9	ako	ako	SCONJ	O	_	10	mark	_	_
@@ -68,7 +68,7 @@ The following 24 pairs of parts of speech are connected with `mark`: <tt><a href
 1	Či	či	CCONJ	O	_	4	mark	_	_
 2	sa	sa	PRON	R	PronType=Prs|Reflex=Yes	4	expl:pv	_	_
 3	to	to	DET	PFns1	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	4	nsubj	_	_
-4	stalo	stať	VERB	VLdscn+	Aspect=Perf|Gender=Neut|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbForm=Part	10	csubj	_	_
+4	stalo	stať	VERB	VLdscn+	Aspect=Perf|Gender=Neut|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part	10	csubj	_	_
 5	s	s	ADP	Eu7	AdpType=Prep|Case=Ins	7	case	_	_
 6	Husravovým	husravov	ADJ	AFns7x:r	Case=Ins|Degree=Pos|Gender=Neut|Number=Sing	7	amod	_	_
 7	vedomím	vedomie	NOUN	SSns7	Case=Ins|Gender=Neut|Number=Sing	4	obl	_	SpaceAfter=No

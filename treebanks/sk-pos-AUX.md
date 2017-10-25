@@ -61,11 +61,11 @@ The 2nd highest number of forms (5) was observed with the lemma “bývať”: <
 
 The 3rd highest number of forms (2) was observed with the lemma “mať”: <em>majú, má</em>.
 
-`AUX` occurs with 10 features: <tt><a href="sk-feat-Aspect.html">Aspect</a></tt> (3527; 95% instances), <tt><a href="sk-feat-Polarity.html">Polarity</a></tt> (3527; 95% instances), <tt><a href="sk-feat-VerbForm.html">VerbForm</a></tt> (3527; 95% instances), <tt><a href="sk-feat-Number.html">Number</a></tt> (3474; 94% instances), <tt><a href="sk-feat-Person.html">Person</a></tt> (3474; 94% instances), <tt><a href="sk-feat-Tense.html">Tense</a></tt> (3470; 93% instances), <tt><a href="sk-feat-Mood.html">Mood</a></tt> (2922; 79% instances), <tt><a href="sk-feat-Gender.html">Gender</a></tt> (731; 20% instances), <tt><a href="sk-feat-Animacy.html">Animacy</a></tt> (342; 9% instances), <tt><a href="sk-feat-Typo.html">Typo</a></tt> (1; 0% instances)
+`AUX` occurs with 10 features: <tt><a href="sk-feat-Aspect.html">Aspect</a></tt> (3527; 95% instances), <tt><a href="sk-feat-Polarity.html">Polarity</a></tt> (3527; 95% instances), <tt><a href="sk-feat-VerbForm.html">VerbForm</a></tt> (3527; 95% instances), <tt><a href="sk-feat-Number.html">Number</a></tt> (3474; 94% instances), <tt><a href="sk-feat-Tense.html">Tense</a></tt> (3470; 93% instances), <tt><a href="sk-feat-Mood.html">Mood</a></tt> (2922; 79% instances), <tt><a href="sk-feat-Person.html">Person</a></tt> (2737; 74% instances), <tt><a href="sk-feat-Gender.html">Gender</a></tt> (731; 20% instances), <tt><a href="sk-feat-Animacy.html">Animacy</a></tt> (342; 9% instances), <tt><a href="sk-feat-Typo.html">Typo</a></tt> (1; 0% instances)
 
 `AUX` occurs with 24 feature-value pairs: `Animacy=Anim`, `Animacy=Inan`, `Aspect=Imp`, `Aspect=Perf`, `Gender=Fem`, `Gender=Masc`, `Gender=Neut`, `Mood=Cnd`, `Mood=Imp`, `Mood=Ind`, `Number=Plur`, `Number=Sing`, `Person=1`, `Person=2`, `Person=3`, `Polarity=Neg`, `Polarity=Pos`, `Tense=Fut`, `Tense=Past`, `Tense=Pres`, `Typo=Yes`, `VerbForm=Fin`, `VerbForm=Inf`, `VerbForm=Part`
 
-`AUX` occurs with 51 feature combinations.
+`AUX` occurs with 46 feature combinations.
 The most frequent feature combination is `Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin` (1484 tokens).
 Examples: <em>som</em>
 

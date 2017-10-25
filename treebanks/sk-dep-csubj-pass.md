@@ -24,7 +24,7 @@ The following 4 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 # visual-style 3 4 csubj:pass	color:blue
 1	Obom	oba	NUM	NNmp3	Animacy=Anim|Case=Dat|Gender=Masc|Number=Plur	3	obj	_	_
 2	sa	sa	PRON	R	PronType=Prs|Reflex=Yes	3	expl:pass	_	_
-3	chcelo	chcieť	VERB	VLescn+	Aspect=Imp|Gender=Neut|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbForm=Part	0	root	_	_
+3	chcelo	chcieť	VERB	VLescn+	Aspect=Imp|Gender=Neut|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part	0	root	_	_
 4	spať	spať	VERB	VIe+	Aspect=Imp|Polarity=Pos|VerbForm=Inf	3	csubj:pass	_	SpaceAfter=No
 5	.	.	PUNCT	ZIP	_	3	punct	_	_
 
@@ -57,29 +57,27 @@ The following 4 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 
 
 ~~~ conllu
-# visual-style 14	bgColor:blue
-# visual-style 14	fgColor:white
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 8 14 csubj:pass	color:blue
-1	Navštívil	navštíviť	VERB	VLdscm+	Animacy=Anim|Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbForm=Part	0	root	_	_
-2	mešitu	mešita	NOUN	SSfs4	Case=Acc|Gender=Fem|Number=Sing	1	obj	_	_
-3	Umajjovcov	umajjovec	PROPN	SSmp2:r	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	2	nmod	_	SpaceAfter=No
-4	,	,	PUNCT	Z	_	8	punct	_	_
-5	o	o	ADP	Eu6	AdpType=Prep|Case=Loc	6	case	_	_
-6	ktorej	ktorý	DET	PAfs6	Case=Loc|Gender=Fem|Number=Sing|PronType=Int,Rel	8	obl:arg	_	_
-7	sa	sa	PRON	R	PronType=Prs|Reflex=Yes	8	expl:pass	_	_
-8	predpokladá	predpokladať	VERB	VKesc+	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	2	acl	_	SpaceAfter=No
-9	,	,	PUNCT	Z	_	14	punct	_	_
-10	že	že	SCONJ	O	_	14	mark	_	_
-11	je	byť	AUX	VKesc+	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	14	cop	_	_
-12	v	v	ADP	Eu6	AdpType=Prep|Case=Loc	13	case	_	_
-13	nej	ona	PRON	PFfs6	Case=Loc|Gender=Fem|Number=Sing|PronType=Prs	14	obl	_	_
-14	pochovaný	pochovaný	ADJ	Gtms1x	Animacy=Anim|Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos|VerbForm=Part|Voice=Pass	8	csubj:pass	_	_
-15	aj	aj	CCONJ	O	_	17	advmod:emph	_	_
-16	Ján	ján	PROPN	SSms1:r	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	17	nmod	_	_
-17	Krstiteľ	krstiteľ	PROPN	SSms1:r	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	14	nsubj	_	SpaceAfter=No
-18	.	.	PUNCT	Z	_	1	punct	_	_
+# visual-style 12	bgColor:blue
+# visual-style 12	fgColor:white
+# visual-style 11	bgColor:blue
+# visual-style 11	fgColor:white
+# visual-style 11 12 csubj:pass	color:blue
+1	Jeho	jeho	DET	PUfp1	Case=Nom|Gender=Fem|Gender[psor]=Masc,Neut|Number=Plur|Number[psor]=Sing|Poss=Yes|PronType=Prs	2	det	_	_
+2	knihy	kniha	NOUN	SSfp1	Case=Nom|Gender=Fem|Number=Plur	4	nsubj:pass	_	_
+3	boli	byť	AUX	VLepcf+	Aspect=Imp|Gender=Fem|Number=Plur|Polarity=Pos|Tense=Past|VerbForm=Part	4	aux:pass	_	_
+4	odstránené	odstránený	ADJ	Gtfp1x	Case=Nom|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Pos|VerbForm=Part|Voice=Pass	0	root	_	_
+5	z	z	ADP	Eu2	AdpType=Prep|Case=Gen	7	case	_	_
+6	verejných	verejný	ADJ	AAfp2x	Case=Gen|Degree=Pos|Gender=Fem|Number=Plur	7	amod	_	_
+7	knižníc	knižnica	NOUN	SSfp2	Case=Gen|Gender=Fem|Number=Plur	4	obl	_	_
+8	a	a	CCONJ	O	_	11	cc	_	_
+9	bolo	byť	AUX	VLescn+	Aspect=Imp|Gender=Neut|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part	11	aux:pass	_	_
+10	mu	on	PRON	PFms3	Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing|PronType=Prs	11	obj	_	_
+11	bránené	bránený	ADJ	Gtns1x	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Polarity=Pos|VerbForm=Part|Voice=Pass	4	conj	_	_
+12	vykonávať	vykonávať	VERB	VIe+	Aspect=Imp|Polarity=Pos|VerbForm=Inf	11	csubj:pass	_	_
+13	akékoľvek	akýkoľvek	DET	PAns4	Case=Acc|Gender=Neut|Number=Sing|PronType=Ind	15	det	_	_
+14	zárobkové	zárobkový	ADJ	AAns4x	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	15	amod	_	_
+15	povolanie	povolanie	NOUN	SSns4	Case=Acc|Gender=Neut|Number=Sing	12	obj	_	SpaceAfter=No
+16	.	.	PUNCT	Z	_	4	punct	_	_
 
 ~~~
 

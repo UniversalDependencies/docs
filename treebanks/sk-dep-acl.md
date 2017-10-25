@@ -51,7 +51,7 @@ The following 20 pairs of parts of speech are connected with `acl`: <tt><a href=
 5	,	,	PUNCT	Z	_	8	punct	_	_
 6	ktoré	ktorý	DET	PAns4	Case=Acc|Gender=Neut|Number=Sing|PronType=Int,Rel	8	obj	_	_
 7	Bush	bush	PROPN	SSms1:r	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	8	nsubj	_	_
-8	získal	získať	VERB	VLdscm+	Animacy=Anim|Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbForm=Part	4	acl	_	_
+8	získal	získať	VERB	VLdscm+	Animacy=Anim|Aspect=Perf|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part	4	acl	_	_
 9	v	v	ADP	Eu6	AdpType=Prep|Case=Loc	10	case	_	_
 10	roku	rok	NOUN	SSis6	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	8	obl	_	_
 11	2005	2005	NUM	0	NumForm=Digit	10	nummod	_	SpaceAfter=No
@@ -69,10 +69,10 @@ The following 20 pairs of parts of speech are connected with `acl`: <tt><a href=
 1	Židov	žid	PROPN	SSmp4:r	Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur	7	obj	_	SpaceAfter=No
 2	,	,	PUNCT	Z	_	4	punct	_	_
 3	ktorí	ktorý	DET	PAmp1	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur|PronType=Int,Rel	4	nsubj	_	_
-4	podporovali	podporovať	VERB	VLepcm+	Animacy=Anim|Aspect=Imp|Gender=Masc|Number=Plur|Person=3|Polarity=Pos|Tense=Past|VerbForm=Part	1	acl	_	_
+4	podporovali	podporovať	VERB	VLepcm+	Animacy=Anim|Aspect=Imp|Gender=Masc|Number=Plur|Polarity=Pos|Tense=Past|VerbForm=Part	1	acl	_	_
 5	Peržanov	peržan	PROPN	SSmp4:r	Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur	4	obj	_	SpaceAfter=No
 6	,	,	PUNCT	Z	_	4	punct	_	_
-7	vypovedali	vypovedať	VERB	VLjpcm+	Animacy=Anim|Aspect=Imp,Perf|Gender=Masc|Number=Plur|Person=3|Polarity=Pos|Tense=Past|VerbForm=Part	0	root	_	_
+7	vypovedali	vypovedať	VERB	VLjpcm+	Animacy=Anim|Aspect=Imp,Perf|Gender=Masc|Number=Plur|Polarity=Pos|Tense=Past|VerbForm=Part	0	root	_	_
 8	z	z	ADP	Eu2	AdpType=Prep|Case=Gen	9	case	_	_
 9	mesta	mesto	NOUN	SSns2	Case=Gen|Gender=Neut|Number=Sing	7	obl	_	SpaceAfter=No
 10	.	.	PUNCT	Z	_	7	punct	_	_

@@ -48,12 +48,12 @@ The following 81 pairs of parts of speech are connected with `dep`: <tt><a href=
 2	Rick	rick	PROPN	SSms1:r	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	5	dep	_	SpaceAfter=No
 3	!	!	PUNCT	Z	_	5	punct	_	SpaceAfter=No
 4	“	“	PUNCT	Z	_	5	punct	_	_
-5	skríkla	skríknuť	VERB	VLdsaf+	Aspect=Perf|Gender=Fem|Number=Sing|Person=1|Polarity=Pos|Tense=Past|VerbForm=Part	0	root	_	_
+5	skríkla	skríknuť	VERB	VLdsaf+	Aspect=Perf|Gender=Fem|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part	0	root	_	_
 6	som	byť	AUX	VKesa+	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin	5	aux	_	_
 7	a	a	CCONJ	O	_	10	cc	_	_
 8	vyjavene	vyjavene	ADV	Dx	Degree=Pos	10	advmod	_	_
 9	naňho	na_on	PRON	PFms4g	AdpType=Preppron|Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing|PronType=Prs	10	obj	_	_
-10	pozrela	pozrieť	VERB	VLdsaf+	Aspect=Perf|Gender=Fem|Number=Sing|Person=1|Polarity=Pos|Tense=Past|VerbForm=Part	5	conj	_	SpaceAfter=No
+10	pozrela	pozrieť	VERB	VLdsaf+	Aspect=Perf|Gender=Fem|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part	5	conj	_	SpaceAfter=No
 11	.	.	PUNCT	Z	_	5	punct	_	_
 
 ~~~
@@ -68,10 +68,10 @@ The following 81 pairs of parts of speech are connected with `dep`: <tt><a href=
 1	Presne	presne	PART	T	_	4	dep	_	SpaceAfter=No
 2	,	,	PUNCT	Z	_	4	punct	_	SpaceAfter=No
 3	“	“	PUNCT	Z	_	4	punct	_	_
-4	odvetila	odvetiť	VERB	VLdsaf+	Aspect=Perf|Gender=Fem|Number=Sing|Person=1|Polarity=Pos|Tense=Past|VerbForm=Part	0	root	_	_
+4	odvetila	odvetiť	VERB	VLdsaf+	Aspect=Perf|Gender=Fem|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part	0	root	_	_
 5	som	byť	AUX	VKesa+	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin	4	aux	_	_
 6	a	a	CCONJ	O	_	7	cc	_	_
-7	pokrčila	pokrčiť	VERB	VLdsaf+	Aspect=Perf|Gender=Fem|Number=Sing|Person=1|Polarity=Pos|Tense=Past|VerbForm=Part	4	conj	_	_
+7	pokrčila	pokrčiť	VERB	VLdsaf+	Aspect=Perf|Gender=Fem|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part	4	conj	_	_
 8	plecami	plece	NOUN	SSnp7	Case=Ins|Gender=Neut|Number=Plur	7	obj	_	SpaceAfter=No
 9	.	.	PUNCT	Z	_	4	punct	_	_
 

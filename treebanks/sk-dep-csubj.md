@@ -47,7 +47,7 @@ The following 14 pairs of parts of speech are connected with `csubj`: <tt><a hre
 1	Či	či	CCONJ	O	_	4	mark	_	_
 2	sa	sa	PRON	R	PronType=Prs|Reflex=Yes	4	expl:pv	_	_
 3	to	to	DET	PFns1	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	4	nsubj	_	_
-4	stalo	stať	VERB	VLdscn+	Aspect=Perf|Gender=Neut|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbForm=Part	10	csubj	_	_
+4	stalo	stať	VERB	VLdscn+	Aspect=Perf|Gender=Neut|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part	10	csubj	_	_
 5	s	s	ADP	Eu7	AdpType=Prep|Case=Ins	7	case	_	_
 6	Husravovým	husravov	ADJ	AFns7x:r	Case=Ins|Degree=Pos|Gender=Neut|Number=Sing	7	amod	_	_
 7	vedomím	vedomie	NOUN	SSns7	Case=Ins|Gender=Neut|Number=Sing	4	obl	_	SpaceAfter=No
@@ -66,7 +66,7 @@ The following 14 pairs of parts of speech are connected with `csubj`: <tt><a hre
 # visual-style 1	fgColor:white
 # visual-style 1 3 csubj	color:blue
 1	Cieľom	cieľ	NOUN	SSis7	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	0	root	_	_
-2	bolo	byť	AUX	VLescn+	Aspect=Imp|Gender=Neut|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbForm=Part	1	cop	_	_
+2	bolo	byť	AUX	VLescn+	Aspect=Imp|Gender=Neut|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part	1	cop	_	_
 3	vytvoriť	vytvoriť	VERB	VId+	Aspect=Perf|Polarity=Pos|VerbForm=Inf	1	csubj	_	_
 4	samostatný	samostatný	ADJ	AAis4x	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	5	amod	_	_
 5	štát	štát	NOUN	SSis4	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	3	obj	_	_

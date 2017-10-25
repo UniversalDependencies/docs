@@ -55,7 +55,7 @@ The following 44 pairs of parts of speech are connected with `nsubj`: <tt><a hre
 # visual-style 3 1 nsubj	color:blue
 1	Ten	ten	DET	PFms1	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	3	nsubj	_	_
 2	Lutherovi	luther	PROPN	SSms3:r	Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing	3	obj	_	_
-3	pohrozil	pohroziť	VERB	VLdscm+	Animacy=Anim|Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbForm=Part	0	root	_	_
+3	pohrozil	pohroziť	VERB	VLdscm+	Animacy=Anim|Aspect=Perf|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part	0	root	_	_
 4	kliatbou	kliatba	NOUN	SSfs7	Case=Ins|Gender=Fem|Number=Sing	3	obl	_	SpaceAfter=No
 5	.	.	PUNCT	Z	_	3	punct	_	_
 

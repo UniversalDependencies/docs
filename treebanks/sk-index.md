@@ -598,26 +598,19 @@ subset and conversion to Universal Dependencies was done by Dan Zeman.
     <li>1
       <ul>
         <li>AUX-Fin: som, sme, budeme, budem, nebudem, Buďme, nebudeme, niesme</li>
-        <li>AUX-Part: bol, bola, boli, nebola, býval</li>
         <li>VERB-Fin: mám, musím, chcem, neviem, máme, ďakujem, som, viem, nemám, nemôžem</li>
-        <li>VERB-Part: mal, povedal, povedala, odvetila, mala, pomyslel, bol, chcel, chcela, cítila</li>
       </ul>
     </li>
     <li>2
       <ul>
         <li>AUX-Fin: si, ste, budeš, budete, buďte, Nebudete, Nebuď, nebudeš</li>
-        <li>AUX-Part: Bola</li>
         <li>VERB-Fin: máš, chceš, si, pozri, máte, poď, musíš, nemôžeš, počkajte, chcete</li>
-        <li>VERB-Part: našla, dostala, mohli, našiel, nenašli, vedel, videli, Mali, Nemal, Nevydeli</li>
       </ul>
     </li>
     <li>3
       <ul>
-        <li>ADJ-Part: plávajú, Nestoja, Trúfa, tuhnú</li>
         <li>AUX-Fin: je, sú, bude, budú, nebude, má, býva, majú, nebudú, nebýva</li>
-        <li>AUX-Part: bol, bola, bolo, boli, nebolo, nebol, nebola, neboli, bývali, býval</li>
         <li>VERB-Fin: je, má, ide, môže, musí, majú, sú, znamená, pripraví, vytvorí</li>
-        <li>VERB-Part: povedal, mal, povedala, bolo, bol, mala, bola, odvetil, spýtal, stal</li>
       </ul>
     </li>
   </ul>

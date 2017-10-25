@@ -42,7 +42,7 @@ The following 32 pairs of parts of speech are connected with `orphan`: <tt><a hr
 # visual-style 6 9 orphan	color:blue
 1	Na	na	ADP	Eu4	AdpType=Prep|Case=Acc	2	case	_	_
 2	chvíľu	chvíľa	NOUN	SSfs4	Case=Acc|Gender=Fem|Number=Sing	3	obl	_	_
-3	zdvihol	zdvihnúť	VERB	VLdscm+	Animacy=Anim|Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbForm=Part	0	root	_	_
+3	zdvihol	zdvihnúť	VERB	VLdscm+	Animacy=Anim|Aspect=Perf|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part	0	root	_	_
 4	hlavu	hlava	NOUN	SSfs4	Case=Acc|Gender=Fem|Number=Sing	3	obj	_	SpaceAfter=No
 5	;	;	PUNCT	Z	_	6	punct	_	_
 6	opäť	opäť	ADV	Dx	Degree=Pos	3	conj	_	_

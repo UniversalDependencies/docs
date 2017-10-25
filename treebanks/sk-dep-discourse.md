@@ -66,7 +66,7 @@ The following 6 pairs of parts of speech are connected with `discourse`: <tt><a 
 5	ľudia	človek	NOUN	SSmp1	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	2	nsubj	_	SpaceAfter=No
 6	?	?	PUNCT	Z	_	2	punct	_	SpaceAfter=No
 7	“	“	PUNCT	Z	_	2	punct	_	_
-8	vypytovala	vypytovať	VERB	VLescf+	Aspect=Imp|Gender=Fem|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbForm=Part	0	root	_	_
+8	vypytovala	vypytovať	VERB	VLescf+	Aspect=Imp|Gender=Fem|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part	0	root	_	_
 9	sa	sa	PRON	R	PronType=Prs|Reflex=Yes	8	expl:pv	_	_
 10	zvedavo	zvedavo	ADV	Dx	Degree=Pos	8	advmod	_	_
 11	Maja	maja	PROPN	SSfs1:r	Case=Nom|Gender=Fem|Number=Sing	8	nsubj	_	SpaceAfter=No

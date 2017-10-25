@@ -24,7 +24,7 @@ The following 7 pairs of parts of speech are connected with `iobj`: <tt><a href=
 # visual-style 3 2 iobj	color:blue
 1	Filónoé	filónoé	PROPN	SUfs1:r	Case=Nom|Gender=Fem|Number=Sing	3	nsubj	_	_
 2	mu	on	PRON	PFms3	Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing|PronType=Prs	3	iobj	_	_
-3	porodila	porodiť	VERB	VLdscf+	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbForm=Part	0	root	_	_
+3	porodila	porodiť	VERB	VLdscf+	Aspect=Perf|Gender=Fem|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part	0	root	_	_
 4	tri	tri	NUM	NNnp4	Case=Acc|Gender=Neut|Number=Plur	5	nummod	_	_
 5	deti	dieťa	NOUN	SSnp4	Case=Acc|Gender=Neut|Number=Plur	3	obj	_	SpaceAfter=No
 6	,	,	PUNCT	Z	_	7	punct	_	_

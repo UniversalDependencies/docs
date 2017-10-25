@@ -25,9 +25,9 @@ The following 15 pairs of parts of speech are connected with `advcl`: <tt><a hre
 1	Keďže	keďže	SCONJ	O	_	4	mark	_	_
 2	galaxie	galaxia	NOUN	SSfp1	Case=Nom|Gender=Fem|Number=Plur	4	nsubj	_	_
 3	sa	sa	PRON	R	PronType=Prs|Reflex=Yes	4	expl:pv	_	_
-4	vzďaľovali	vzďaľovať	VERB	VLepcf+	Aspect=Imp|Gender=Fem|Number=Plur|Person=3|Polarity=Pos|Tense=Past|VerbForm=Part	6	advcl	_	SpaceAfter=No
+4	vzďaľovali	vzďaľovať	VERB	VLepcf+	Aspect=Imp|Gender=Fem|Number=Plur|Polarity=Pos|Tense=Past|VerbForm=Part	6	advcl	_	SpaceAfter=No
 5	,	,	PUNCT	Z	_	4	punct	_	_
-6	naznačilo	naznačiť	VERB	VLdscn+	Aspect=Perf|Gender=Neut|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbForm=Part	0	root	_	_
+6	naznačilo	naznačiť	VERB	VLdscn+	Aspect=Perf|Gender=Neut|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part	0	root	_	_
 7	to	to	DET	PFns1	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	6	nsubj	_	_
 8	dve	dva	NUM	NNfp4	Case=Acc|Gender=Fem|Number=Plur	10	nummod	_	_
 9	rôzne	rôzny	ADJ	AAfp4x	Case=Acc|Degree=Pos|Gender=Fem|Number=Plur	10	amod	_	_
@@ -53,7 +53,7 @@ The following 15 pairs of parts of speech are connected with `advcl`: <tt><a hre
 8	,	,	PUNCT	Z	_	11	punct	_	_
 9	než	než	SCONJ	O	_	11	mark	_	_
 10	ste	byť	AUX	VKepb+	Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Polarity=Pos|Tense=Pres|VerbForm=Fin	11	aux	_	_
-11	boli	byť	VERB	VLepbh+	Aspect=Imp|Number=Plur|Person=2|Polarity=Pos|Tense=Past|VerbForm=Part	7	advcl	_	_
+11	boli	byť	VERB	VLepbh+	Aspect=Imp|Number=Plur|Polarity=Pos|Tense=Past|VerbForm=Part	7	advcl	_	_
 12	vtedy	vtedy	ADV	PD	PronType=Dem	11	advmod	_	SpaceAfter=No
 13	?	?	PUNCT	Z	_	2	punct	_	_
 

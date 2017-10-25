@@ -29,7 +29,7 @@ The following 1 pairs of parts of speech are connected with `det:numgov`: <tt><a
 5	jeho	jeho	DET	PUms1	Animacy=Anim|Case=Nom|Gender=Masc|Gender[psor]=Masc,Neut|Number=Sing|Number[psor]=Sing|Poss=Yes|PronType=Prs	7	det	_	_
 6	veľký	veľký	ADJ	AAms1x	Animacy=Anim|Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	7	amod	_	_
 7	nepriateľ	nepriateľ	NOUN	SSms1	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	8	nsubj	_	_
-8	zomrel	zomrieť	VERB	VLdscm+	Animacy=Anim|Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
+8	zomrel	zomrieť	VERB	VLdscm+	Animacy=Anim|Aspect=Perf|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
 9	.	.	PUNCT	Z	_	8	punct	_	_
 
 ~~~

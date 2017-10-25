@@ -26,7 +26,7 @@ The following 2 pairs of parts of speech are connected with `flat`: <tt><a href=
 1	Okolo	okolo	ADP	Eu2	AdpType=Prep|Case=Gen	2	case	_	_
 2	neho	ono	PRON	PFns2	Case=Gen|Gender=Neut|Number=Sing|PronType=Prs	4	obl	_	_
 3	neskôr	neskôr	ADV	Dx	Degree=Pos	4	advmod	_	_
-4	vyrástlo	vyrásť	VERB	VLdscn+	Aspect=Perf|Gender=Neut|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbForm=Part	0	root	_	_
+4	vyrástlo	vyrásť	VERB	VLdscn+	Aspect=Perf|Gender=Neut|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part	0	root	_	_
 5	nové	nový	ADJ	AAns1x	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	6	amod	_	_
 6	mesto	mesto	NOUN	SSns1	Case=Nom|Gender=Neut|Number=Sing	4	nsubj	_	_
 7	nazývané	nazývaný	ADJ	Gtns1x	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Polarity=Pos|VerbForm=Part|Voice=Pass	6	amod	_	_

@@ -44,7 +44,7 @@ The following 11 pairs of parts of speech are connected with `amod`: <tt><a href
 2	v	v	ADP	Eu6	AdpType=Prep|Case=Loc	3	case	_	_
 3	máji	máj	NOUN	SSis6	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	5	obl	_	_
 4	1832	1832	NUM	0	NumForm=Digit	3	nummod	_	_
-5	padla	padnúť	VERB	VLdscf+	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbForm=Part	0	root	_	_
+5	padla	padnúť	VERB	VLdscf+	Aspect=Perf|Gender=Fem|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part	0	root	_	_
 6	obliehaná	obliehaný	ADJ	Gtfs1x	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos|VerbForm=Part|Voice=Pass	7	amod	_	_
 7	Akka	akka	PROPN	SSfs1:r	Case=Nom|Gender=Fem|Number=Sing	5	nsubj	_	SpaceAfter=No
 8	.	.	PUNCT	Z	_	5	punct	_	_
