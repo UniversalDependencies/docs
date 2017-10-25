@@ -12,19 +12,19 @@ It occurs with 2 different values: `Act`, `Pass`.
 1197 tokens (1%) have a non-empty value of `Voice`.
 1028 types (4%) occur at least once with a non-empty value of `Voice`.
 724 lemmas (5%) occur at least once with a non-empty value of `Voice`.
-The feature is used with 2 part-of-speech tags: <tt><a href="sk-pos-ADJ.html">ADJ</a></tt> (1186; 1% instances), <tt><a href="sk-pos-VERB.html">VERB</a></tt> (11; 0% instances).
+The feature is used with 1 part-of-speech tags: <tt><a href="sk-pos-ADJ.html">ADJ</a></tt> (1197; 1% instances).
 
 ### `ADJ`
 
-1186 <tt><a href="sk-pos-ADJ.html">ADJ</a></tt> tokens (12% of all `ADJ` tokens) have a non-empty value of `Voice`.
+1197 <tt><a href="sk-pos-ADJ.html">ADJ</a></tt> tokens (13% of all `ADJ` tokens) have a non-empty value of `Voice`.
 
-The most frequent other feature values with which `ADJ` and `Voice` co-occurred: <tt><a href="sk-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (1186; 100%), <tt><a href="sk-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (1180; 99%), <tt><a href="sk-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (1157; 98%), <tt><a href="sk-feat-Number.html">Number</a></tt><tt>=Sing</tt> (759; 64%), <tt><a href="sk-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (624; 53%), <tt><a href="sk-feat-Case.html">Case</a></tt><tt>=Nom</tt> (609; 51%).
+The most frequent other feature values with which `ADJ` and `Voice` co-occurred: <tt><a href="sk-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (1197; 100%), <tt><a href="sk-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (1191; 99%), <tt><a href="sk-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (1168; 98%), <tt><a href="sk-feat-Number.html">Number</a></tt><tt>=Sing</tt> (767; 64%), <tt><a href="sk-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (628; 52%), <tt><a href="sk-feat-Case.html">Case</a></tt><tt>=Nom</tt> (620; 52%).
 
 `ADJ` tokens may have the following values of `Voice`:
 
-* `Act` (220; 19% of non-empty `Voice`): <em>nasledujúcich, nasledujúci, nasledujúcej, týkajúcich, Lietajúca, krútiace, nasledujúcom, predchádzajúce, predsedajúci, provokujúce</em>
-* `Pass` (966; 81% of non-empty `Voice`): <em>ozbrojených, sledovaných, zmätený, Zhlúpnutý, nájdené, otvorené, pripravená, pripravený, uvedených, zatajeným</em>
-* `EMPTY` (8307): <em>celý, prvý, druhý, ďalšie, veľký, druhej, nové, veľkého, veľké, ďalší</em>
+* `Act` (220; 18% of non-empty `Voice`): <em>nasledujúcich, nasledujúci, nasledujúcej, týkajúcich, Lietajúca, krútiace, nasledujúcom, predchádzajúce, predsedajúci, provokujúce</em>
+* `Pass` (977; 82% of non-empty `Voice`): <em>ozbrojených, sledovaných, zmätený, Zhlúpnutý, nájdené, otvorené, pripravená, pripravený, uvedených, zatajeným</em>
+* `EMPTY` (8283): <em>celý, prvý, druhý, ďalšie, veľký, druhej, nové, veľkého, veľké, ďalší</em>
 
 <table>
   <tr><th>Paradigm <i>nasledujúci</i></th><th><tt>Act</tt></th><th><tt>Pass</tt></th></tr>
@@ -40,20 +40,7 @@ The most frequent other feature values with which `ADJ` and `Voice` co-occurred:
   <tr><td><tt><tt><a href="sk-feat-Case.html">Case</a></tt><tt>=Loc</tt>|<tt><a href="sk-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="sk-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>nasledujúcich</em></td><td></td></tr>
 </table>
 
-`Voice` seems to be **lexical feature** of `ADJ`. 99% lemmas (710) occur only with one value of `Voice`.
-
-### `VERB`
-
-11 <tt><a href="sk-pos-VERB.html">VERB</a></tt> tokens (0% of all `VERB` tokens) have a non-empty value of `Voice`.
-
-The most frequent other feature values with which `VERB` and `Voice` co-occurred: <tt><a href="sk-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (11; 100%), <tt><a href="sk-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (11; 100%), <tt><a href="sk-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (11; 100%), <tt><a href="sk-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (11; 100%), <tt><a href="sk-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (11; 100%), <tt><a href="sk-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (11; 100%), <tt><a href="sk-feat-Number.html">Number</a></tt><tt>=Sing</tt> (8; 73%), <tt><a href="sk-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt> (7; 64%), <tt><a href="sk-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (7; 64%).
-
-`VERB` tokens may have the following values of `Voice`:
-
-* `Pass` (11; 100% of non-empty `Voice`): <em>zhrozený, odkázaný, očarený, prevrhnuté, rozbité, rozvalený, vychovaný, vyduté, vysvietené, zaskočený</em>
-* `EMPTY` (14035): <em>mal, povedal, je, povedala, má, mala, bol, bolo, ide, bola</em>
-
-`Voice` seems to be **lexical feature** of `VERB`. 100% lemmas (10) occur only with one value of `Voice`.
+`Voice` seems to be **lexical feature** of `ADJ`. 99% lemmas (720) occur only with one value of `Voice`.
 
 ## Relations with Agreement in `Voice`
 

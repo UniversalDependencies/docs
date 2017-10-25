@@ -51,7 +51,7 @@ The 10 most frequent ambiguous types:  <em>na</em> (<tt><a href="sk-pos-ADP.html
 
 ## Morphology
 
-The form / lemma ratio of `ADP` is 1.216667 (the average of all parts of speech is 1.802512).
+The form / lemma ratio of `ADP` is 1.216667 (the average of all parts of speech is 1.800669).
 
 The 1st highest number of forms (3) was observed with the lemma “na”: <em>AN, ma, na</em>.
 

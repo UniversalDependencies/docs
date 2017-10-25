@@ -15,7 +15,7 @@ The 10 most frequent `X` types:  <em>j, O, tzv, sv, SR, USA, EÚ, P, c, po</em>
 
 The 10 most frequent ambiguous lemmas: <em>o</em> (<tt><a href="sk-pos-ADP.html">ADP</a></tt> 468, <tt><a href="sk-pos-X.html">X</a></tt> 22), <em>a</em> (<tt><a href="sk-pos-CCONJ.html">CCONJ</a></tt> 2506, <tt><a href="sk-pos-PART.html">PART</a></tt> 90, <tt><a href="sk-pos-X.html">X</a></tt> 15), <em>po</em> (<tt><a href="sk-pos-ADP.html">ADP</a></tt> 313, <tt><a href="sk-pos-X.html">X</a></tt> 14), <em>v</em> (<tt><a href="sk-pos-ADP.html">ADP</a></tt> 1811, <tt><a href="sk-pos-X.html">X</a></tt> 14, <tt><a href="sk-pos-NUM.html">NUM</a></tt> 3), <em>česko</em> (<tt><a href="sk-pos-X.html">X</a></tt> 10, <tt><a href="sk-pos-PROPN.html">PROPN</a></tt> 2), <em>nato</em> (<tt><a href="sk-pos-ADV.html">ADV</a></tt> 6, <tt><a href="sk-pos-X.html">X</a></tt> 4), <em>k</em> (<tt><a href="sk-pos-ADP.html">ADP</a></tt> 321, <tt><a href="sk-pos-X.html">X</a></tt> 3), <em>na</em> (<tt><a href="sk-pos-ADP.html">ADP</a></tt> 1685, <tt><a href="sk-pos-X.html">X</a></tt> 3), <em>al</em> (<tt><a href="sk-pos-X.html">X</a></tt> 2, <tt><a href="sk-pos-PROPN.html">PROPN</a></tt> 1), <em>film</em> (<tt><a href="sk-pos-NOUN.html">NOUN</a></tt> 22, <tt><a href="sk-pos-X.html">X</a></tt> 2, <tt><a href="sk-pos-PROPN.html">PROPN</a></tt> 1)
 
-The 10 most frequent ambiguous types:  <em>O</em> (<tt><a href="sk-pos-ADP.html">ADP</a></tt> 45, <tt><a href="sk-pos-X.html">X</a></tt> 22), <em>po</em> (<tt><a href="sk-pos-ADP.html">ADP</a></tt> 220, <tt><a href="sk-pos-X.html">X</a></tt> 14), <em>v</em> (<tt><a href="sk-pos-ADP.html">ADP</a></tt> 1247, <tt><a href="sk-pos-X.html">X</a></tt> 5), <em>a</em> (<tt><a href="sk-pos-CCONJ.html">CCONJ</a></tt> 2379, <tt><a href="sk-pos-X.html">X</a></tt> 3, <tt><a href="sk-pos-PART.html">PART</a></tt> 1, <tt><a href="sk-pos-PRON.html">PRON</a></tt> 1), <em>K</em> (<tt><a href="sk-pos-ADP.html">ADP</a></tt> 10, <tt><a href="sk-pos-X.html">X</a></tt> 3), <em>na</em> (<tt><a href="sk-pos-ADP.html">ADP</a></tt> 1489, <tt><a href="sk-pos-X.html">X</a></tt> 2), <em>Film</em> (<tt><a href="sk-pos-X.html">X</a></tt> 2, <tt><a href="sk-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="sk-pos-PROPN.html">PROPN</a></tt> 1), <em>I</em> (<tt><a href="sk-pos-NUM.html">NUM</a></tt> 23, <tt><a href="sk-pos-PART.html">PART</a></tt> 4, <tt><a href="sk-pos-CCONJ.html">CCONJ</a></tt> 3, <tt><a href="sk-pos-X.html">X</a></tt> 2), <em>s</em> (<tt><a href="sk-pos-ADP.html">ADP</a></tt> 546, <tt><a href="sk-pos-X.html">X</a></tt> 1), <em>Básnické</em> (<tt><a href="sk-pos-X.html">X</a></tt> 1, <tt><a href="sk-pos-ADJ.html">ADJ</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>O</em> (<tt><a href="sk-pos-ADP.html">ADP</a></tt> 45, <tt><a href="sk-pos-X.html">X</a></tt> 22), <em>po</em> (<tt><a href="sk-pos-ADP.html">ADP</a></tt> 220, <tt><a href="sk-pos-X.html">X</a></tt> 14), <em>v</em> (<tt><a href="sk-pos-ADP.html">ADP</a></tt> 1247, <tt><a href="sk-pos-X.html">X</a></tt> 5), <em>a</em> (<tt><a href="sk-pos-CCONJ.html">CCONJ</a></tt> 2379, <tt><a href="sk-pos-X.html">X</a></tt> 3, <tt><a href="sk-pos-PRON.html">PRON</a></tt> 1, <tt><a href="sk-pos-PART.html">PART</a></tt> 1), <em>K</em> (<tt><a href="sk-pos-ADP.html">ADP</a></tt> 10, <tt><a href="sk-pos-X.html">X</a></tt> 3), <em>na</em> (<tt><a href="sk-pos-ADP.html">ADP</a></tt> 1489, <tt><a href="sk-pos-X.html">X</a></tt> 2), <em>Film</em> (<tt><a href="sk-pos-X.html">X</a></tt> 2, <tt><a href="sk-pos-PROPN.html">PROPN</a></tt> 1, <tt><a href="sk-pos-NOUN.html">NOUN</a></tt> 1), <em>I</em> (<tt><a href="sk-pos-NUM.html">NUM</a></tt> 23, <tt><a href="sk-pos-PART.html">PART</a></tt> 4, <tt><a href="sk-pos-CCONJ.html">CCONJ</a></tt> 3, <tt><a href="sk-pos-X.html">X</a></tt> 2), <em>s</em> (<tt><a href="sk-pos-ADP.html">ADP</a></tt> 546, <tt><a href="sk-pos-X.html">X</a></tt> 1), <em>Básnické</em> (<tt><a href="sk-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="sk-pos-X.html">X</a></tt> 1)
 
 
 * <em>O</em>
@@ -30,8 +30,8 @@ The 10 most frequent ambiguous types:  <em>O</em> (<tt><a href="sk-pos-ADP.html"
 * <em>a</em>
   * <tt><a href="sk-pos-CCONJ.html">CCONJ</a></tt> 2379: <em>Hospodárstvo KĽDR je na kolenách <b>a</b> deti hladujú .</em>
   * <tt><a href="sk-pos-X.html">X</a></tt> 3: <em>* Povídky ironické <b>a</b> sentimentální</em>
-  * <tt><a href="sk-pos-PART.html">PART</a></tt> 1: <em>“ No <b>a</b> ?</em>
   * <tt><a href="sk-pos-PRON.html">PRON</a></tt> 1: <em>Táto práca <b>a</b> vyznačuje chaotickosťou usporiadania materiálu .</em>
+  * <tt><a href="sk-pos-PART.html">PART</a></tt> 1: <em>“ No <b>a</b> ?</em>
 * <em>K</em>
   * <tt><a href="sk-pos-ADP.html">ADP</a></tt> 10: <em><b>K</b> rovnakému záveru dospela aj komisia v Spojenom kráľovstve .</em>
   * <tt><a href="sk-pos-X.html">X</a></tt> 3: <em>Autor tu nadväzuje na <b>K</b> . H . Borovského .</em>
@@ -40,8 +40,8 @@ The 10 most frequent ambiguous types:  <em>O</em> (<tt><a href="sk-pos-ADP.html"
   * <tt><a href="sk-pos-X.html">X</a></tt> 2: <em>Povedal som jej „ <b>na</b> zdorovie “ .</em>
 * <em>Film</em>
   * <tt><a href="sk-pos-X.html">X</a></tt> 2: <em>Kompletný program 3 . Gay <b>Film</b> Festivalu Slovakia nájdete na <b>Film</b> Site v rubrike Ceny a festivaly .</em>
-  * <tt><a href="sk-pos-NOUN.html">NOUN</a></tt> 1: <em><b>Film</b> bol nakrútený podľa skutočnej udalosti .</em>
   * <tt><a href="sk-pos-PROPN.html">PROPN</a></tt> 1: <em><b>Film</b> a kultúra</em>
+  * <tt><a href="sk-pos-NOUN.html">NOUN</a></tt> 1: <em><b>Film</b> bol nakrútený podľa skutočnej udalosti .</em>
 * <em>I</em>
   * <tt><a href="sk-pos-NUM.html">NUM</a></tt> 23: <em>Cár Mikuláš <b>I</b> . vyhlásil sultánovi 26 . apríla 1828 vojnu .</em>
   * <tt><a href="sk-pos-PART.html">PART</a></tt> 4: <em><b>I</b> v našom rozprávaní ide o tvorenie — o tvorenie človeka .</em>
@@ -51,12 +51,12 @@ The 10 most frequent ambiguous types:  <em>O</em> (<tt><a href="sk-pos-ADP.html"
   * <tt><a href="sk-pos-ADP.html">ADP</a></tt> 546: <em>Bojujete <b>s</b> nepochopením .</em>
   * <tt><a href="sk-pos-X.html">X</a></tt> 1: <em>Špecifikácia kompaktného disku odporúča konštantnú rýchlosť 1 , 22 m / <b>s</b> a odstup stopy 1 , 59 μm .</em>
 * <em>Básnické</em>
-  * <tt><a href="sk-pos-X.html">X</a></tt> 1: <em>* <b>Básnické</b> profily francouzské</em>
   * <tt><a href="sk-pos-ADJ.html">ADJ</a></tt> 1: <em><b>Básnické</b> zbierky</em>
+  * <tt><a href="sk-pos-X.html">X</a></tt> 1: <em>* <b>Básnické</b> profily francouzské</em>
 
 ## Morphology
 
-The form / lemma ratio of `X` is 1.000000 (the average of all parts of speech is 1.802512).
+The form / lemma ratio of `X` is 1.000000 (the average of all parts of speech is 1.800669).
 
 The 1st highest number of forms (2) was observed with the lemma “a”: <em>a, Α</em>.
 

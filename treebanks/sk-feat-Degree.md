@@ -12,20 +12,20 @@ It occurs with 3 different values: `Cmp`, `Pos`, `Sup`.
 12447 tokens (12%) have a non-empty value of `Degree`.
 7280 types (28%) occur at least once with a non-empty value of `Degree`.
 3925 lemmas (28%) occur at least once with a non-empty value of `Degree`.
-The feature is used with 3 part-of-speech tags: <tt><a href="sk-pos-ADJ.html">ADJ</a></tt> (9050; 9% instances), <tt><a href="sk-pos-ADV.html">ADV</a></tt> (3386; 3% instances), <tt><a href="sk-pos-VERB.html">VERB</a></tt> (11; 0% instances).
+The feature is used with 2 part-of-speech tags: <tt><a href="sk-pos-ADJ.html">ADJ</a></tt> (9061; 9% instances), <tt><a href="sk-pos-ADV.html">ADV</a></tt> (3386; 3% instances).
 
 ### `ADJ`
 
-9050 <tt><a href="sk-pos-ADJ.html">ADJ</a></tt> tokens (95% of all `ADJ` tokens) have a non-empty value of `Degree`.
+9061 <tt><a href="sk-pos-ADJ.html">ADJ</a></tt> tokens (96% of all `ADJ` tokens) have a non-empty value of `Degree`.
 
-The most frequent other feature values with which `ADJ` and `Degree` co-occurred: <tt><a href="sk-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (7864; 87%), <tt><a href="sk-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (7864; 87%), <tt><a href="sk-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (7864; 87%), <tt><a href="sk-feat-Number.html">Number</a></tt><tt>=Sing</tt> (6570; 73%), <tt><a href="sk-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (5315; 59%).
+The most frequent other feature values with which `ADJ` and `Degree` co-occurred: <tt><a href="sk-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (7864; 87%), <tt><a href="sk-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (7864; 87%), <tt><a href="sk-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (7864; 87%), <tt><a href="sk-feat-Number.html">Number</a></tt><tt>=Sing</tt> (6578; 73%), <tt><a href="sk-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (5319; 59%).
 
 `ADJ` tokens may have the following values of `Degree`:
 
 * `Cmp` (157; 2% of non-empty `Degree`): <em>lepšie, radšej, starší, vyšších, väčšie, lepšiu, mladší, staršia, väčší, Dôležitejším</em>
-* `Pos` (8734; 97% of non-empty `Degree`): <em>celý, ďalšie, veľký, nové, veľkého, veľké, ďalší, nový, verejných, celé</em>
+* `Pos` (8745; 97% of non-empty `Degree`): <em>celý, ďalšie, veľký, nové, veľkého, veľké, ďalší, nový, verejných, celé</em>
 * `Sup` (159; 2% of non-empty `Degree`): <em>najväčším, najlepšie, najradšej, najväčšie, najvýznamnejších, najdôležitejšie, najlepšia, najlepší, najmenšie, najväčšou</em>
-* `EMPTY` (443): <em>prvý, druhý, druhej, prvé, prvá, jediný, prvom, prvým, prvej, druhá</em>
+* `EMPTY` (419): <em>prvý, druhý, druhej, prvé, prvá, jediný, prvom, prvým, prvej, druhá</em>
 
 <table>
   <tr><th>Paradigm <i>veľký</i></th><th><tt>Pos</tt></th><th><tt>Cmp</tt></th><th><tt>Sup</tt></th></tr>
@@ -65,7 +65,7 @@ The most frequent other feature values with which `ADJ` and `Degree` co-occurred
   <tr><td><tt><tt><a href="sk-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="sk-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="sk-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>Väčšie</em></td><td></td></tr>
 </table>
 
-`Degree` seems to be **lexical feature** of `ADJ`. 97% lemmas (3061) occur only with one value of `Degree`.
+`Degree` seems to be **lexical feature** of `ADJ`. 97% lemmas (3071) occur only with one value of `Degree`.
 
 ### `ADV`
 
@@ -87,23 +87,10 @@ The most frequent other feature values with which `ADV` and `Degree` co-occurred
 
 `Degree` seems to be **lexical feature** of `ADV`. 96% lemmas (742) occur only with one value of `Degree`.
 
-### `VERB`
-
-11 <tt><a href="sk-pos-VERB.html">VERB</a></tt> tokens (0% of all `VERB` tokens) have a non-empty value of `Degree`.
-
-The most frequent other feature values with which `VERB` and `Degree` co-occurred: <tt><a href="sk-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (11; 100%), <tt><a href="sk-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (11; 100%), <tt><a href="sk-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (11; 100%), <tt><a href="sk-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (11; 100%), <tt><a href="sk-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (11; 100%), <tt><a href="sk-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (11; 100%), <tt><a href="sk-feat-Number.html">Number</a></tt><tt>=Sing</tt> (8; 73%), <tt><a href="sk-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt> (7; 64%), <tt><a href="sk-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (7; 64%).
-
-`VERB` tokens may have the following values of `Degree`:
-
-* `Pos` (11; 100% of non-empty `Degree`): <em>zhrozený, odkázaný, očarený, prevrhnuté, rozbité, rozvalený, vychovaný, vyduté, vysvietené, zaskočený</em>
-* `EMPTY` (14035): <em>mal, povedal, je, povedala, má, mala, bol, bolo, ide, bola</em>
-
-`Degree` seems to be **lexical feature** of `VERB`. 100% lemmas (10) occur only with one value of `Degree`.
-
 ## Relations with Agreement in `Degree`
 
 The 10 most frequent relations where parent and child node agree in `Degree`:
-<tt>ADJ --[<tt><a href="sk-dep-advmod.html">advmod</a></tt>]--> ADV</tt> (360; 81%),
+<tt>ADJ --[<tt><a href="sk-dep-advmod.html">advmod</a></tt>]--> ADV</tt> (361; 82%),
 <tt>ADJ --[<tt><a href="sk-dep-conj.html">conj</a></tt>]--> ADJ</tt> (303; 98%),
 <tt>ADV --[<tt><a href="sk-dep-advmod.html">advmod</a></tt>]--> ADV</tt> (60; 70%),
 <tt>ADV --[<tt><a href="sk-dep-conj.html">conj</a></tt>]--> ADV</tt> (58; 97%),
@@ -112,5 +99,5 @@ The 10 most frequent relations where parent and child node agree in `Degree`:
 <tt>ADV --[<tt><a href="sk-dep-orphan.html">orphan</a></tt>]--> ADV</tt> (5; 83%),
 <tt>ADJ --[<tt><a href="sk-dep-appos.html">appos</a></tt>]--> ADJ</tt> (4; 100%),
 <tt>ADJ --[<tt><a href="sk-dep-nsubj.html">nsubj</a></tt>]--> ADJ</tt> (3; 75%),
-<tt>ADJ --[<tt><a href="sk-dep-csubj.html">csubj</a></tt>]--> ADJ</tt> (2; 100%).
+<tt>ADJ --[<tt><a href="sk-dep-xcomp.html">xcomp</a></tt>]--> ADJ</tt> (2; 100%).
 

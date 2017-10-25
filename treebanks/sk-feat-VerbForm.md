@@ -12,20 +12,20 @@ It occurs with 4 different values: `Conv`, `Fin`, `Inf`, `Part`.
 18786 tokens (18%) have a non-empty value of `VerbForm`.
 7907 types (31%) occur at least once with a non-empty value of `VerbForm`.
 3328 lemmas (23%) occur at least once with a non-empty value of `VerbForm`.
-The feature is used with 3 part-of-speech tags: <tt><a href="sk-pos-VERB.html">VERB</a></tt> (14044; 13% instances), <tt><a href="sk-pos-AUX.html">AUX</a></tt> (3527; 3% instances), <tt><a href="sk-pos-ADJ.html">ADJ</a></tt> (1215; 1% instances).
+The feature is used with 3 part-of-speech tags: <tt><a href="sk-pos-VERB.html">VERB</a></tt> (14057; 13% instances), <tt><a href="sk-pos-AUX.html">AUX</a></tt> (3527; 3% instances), <tt><a href="sk-pos-ADJ.html">ADJ</a></tt> (1202; 1% instances).
 
 ### `VERB`
 
-14044 <tt><a href="sk-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `VerbForm`.
+14057 <tt><a href="sk-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="sk-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (12868; 92%), <tt><a href="sk-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (10574; 75%), <tt><a href="sk-feat-Number.html">Number</a></tt><tt>=Sing</tt> (10374; 74%), <tt><a href="sk-feat-Person.html">Person</a></tt><tt>=3</tt> (9664; 69%), <tt><a href="sk-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (9278; 66%), <tt><a href="sk-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (8939; 64%), <tt><a href="sk-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (7117; 51%).
+The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="sk-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (12882; 92%), <tt><a href="sk-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (10587; 75%), <tt><a href="sk-feat-Number.html">Number</a></tt><tt>=Sing</tt> (10392; 74%), <tt><a href="sk-feat-Person.html">Person</a></tt><tt>=3</tt> (9685; 69%), <tt><a href="sk-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (9302; 66%), <tt><a href="sk-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (8947; 64%), <tt><a href="sk-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (7134; 51%).
 
 `VERB` tokens may have the following values of `VerbForm`:
 
 * `Conv` (21; 0% of non-empty `VerbForm`): <em>cítiac, Hľadajúc, Nehovoriac, Zostupujúc, bežiac, kašlúc, kľajúc, lapajúc, ležiac, listujúc</em>
 * `Fin` (3470; 25% of non-empty `VerbForm`): <em>je, má, ide, môže, mám, musí, majú, musím, sú, chcem</em>
 * `Inf` (1264; 9% of non-empty `VerbForm`): <em>povedať, mať, ísť, podporovať, robiť, stať, venovať, pokračovať, hľadať, stáť</em>
-* `Part` (9289; 66% of non-empty `VerbForm`): <em>mal, povedal, povedala, mala, bol, bolo, bola, odvetil, spýtal, odvetila</em>
+* `Part` (9302; 66% of non-empty `VerbForm`): <em>mal, povedal, povedala, mala, bol, bolo, bola, odvetil, spýtal, odvetila</em>
 * `EMPTY` (2): <em>orientovať, znieť</em>
 
 <table>
@@ -119,24 +119,24 @@ The most frequent other feature values with which `AUX` and `VerbForm` co-occurr
 
 ### `ADJ`
 
-1215 <tt><a href="sk-pos-ADJ.html">ADJ</a></tt> tokens (13% of all `ADJ` tokens) have a non-empty value of `VerbForm`.
+1202 <tt><a href="sk-pos-ADJ.html">ADJ</a></tt> tokens (13% of all `ADJ` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `ADJ` and `VerbForm` co-occurred: <tt><a href="sk-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (1186; 98%), <tt><a href="sk-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (1180; 97%), <tt><a href="sk-feat-Voice.html">Voice</a></tt><tt>=Pass</tt> (966; 80%), <tt><a href="sk-feat-Number.html">Number</a></tt><tt>=Sing</tt> (786; 65%), <tt><a href="sk-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (639; 53%), <tt><a href="sk-feat-Case.html">Case</a></tt><tt>=Nom</tt> (609; 50%).
+The most frequent other feature values with which `ADJ` and `VerbForm` co-occurred: <tt><a href="sk-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (1191; 99%), <tt><a href="sk-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (1172; 98%), <tt><a href="sk-feat-Voice.html">Voice</a></tt><tt>=Pass</tt> (977; 81%), <tt><a href="sk-feat-Number.html">Number</a></tt><tt>=Sing</tt> (768; 64%), <tt><a href="sk-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (631; 52%), <tt><a href="sk-feat-Case.html">Case</a></tt><tt>=Nom</tt> (620; 52%).
 
 `ADJ` tokens may have the following values of `VerbForm`:
 
-* `Part` (1215; 100% of non-empty `VerbForm`): <em>nasledujúcich, nasledujúci, ozbrojených, sledovaných, zmätený, Zhlúpnutý, bál, nájdené, otvorené, pripravená</em>
+* `Part` (1202; 100% of non-empty `VerbForm`): <em>nasledujúcich, nasledujúci, ozbrojených, sledovaných, zmätený, Zhlúpnutý, nájdené, otvorené, pripravená, pripravený</em>
 * `EMPTY` (8278): <em>celý, prvý, druhý, ďalšie, veľký, druhej, nové, veľkého, veľké, ďalší</em>
 
-`VerbForm` seems to be **lexical feature** of `ADJ`. 100% lemmas (739) occur only with one value of `VerbForm`.
+`VerbForm` seems to be **lexical feature** of `ADJ`. 100% lemmas (728) occur only with one value of `VerbForm`.
 
 ## Relations with Agreement in `VerbForm`
 
 The 10 most frequent relations where parent and child node agree in `VerbForm`:
-<tt>VERB --[<tt><a href="sk-dep-conj.html">conj</a></tt>]--> VERB</tt> (1620; 95%),
-<tt>VERB --[<tt><a href="sk-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (615; 86%),
+<tt>VERB --[<tt><a href="sk-dep-conj.html">conj</a></tt>]--> VERB</tt> (1628; 95%),
+<tt>VERB --[<tt><a href="sk-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (618; 86%),
 <tt>ADJ --[<tt><a href="sk-dep-aux-pass.html">aux:pass</a></tt>]--> AUX</tt> (73; 72%),
 <tt>VERB --[<tt><a href="sk-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (33; 77%),
-<tt>VERB --[<tt><a href="sk-dep-cop.html">cop</a></tt>]--> AUX</tt> (6; 86%),
-<tt>VERB --[<tt><a href="sk-dep-appos.html">appos</a></tt>]--> VERB</tt> (3; 100%).
+<tt>VERB --[<tt><a href="sk-dep-appos.html">appos</a></tt>]--> VERB</tt> (3; 100%),
+<tt>ADJ --[<tt><a href="sk-dep-obl.html">obl</a></tt>]--> ADJ</tt> (1; 100%).
 

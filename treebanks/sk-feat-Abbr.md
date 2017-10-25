@@ -18,7 +18,7 @@ The feature is used with 1 part-of-speech tags: <tt><a href="sk-pos-X.html">X</a
 
 404 <tt><a href="sk-pos-X.html">X</a></tt> tokens (52% of all `X` tokens) have a non-empty value of `Abbr`.
 
-The most frequent other feature values with which `X` and `Abbr` co-occurred: <tt><a href="sk-feat-Foreign.html">Foreign</a></tt><tt>=EMPTY</tt> (404; 100%), <tt><a href="sk-feat-Hyph.html">Hyph</a></tt><tt>=EMPTY</tt> (404; 100%).
+The most frequent other feature values with which `X` and `Abbr` co-occurred: <tt><a href="sk-feat-Hyph.html">Hyph</a></tt><tt>=EMPTY</tt> (404; 100%), <tt><a href="sk-feat-Foreign.html">Foreign</a></tt><tt>=EMPTY</tt> (404; 100%).
 
 `X` tokens may have the following values of `Abbr`:
 

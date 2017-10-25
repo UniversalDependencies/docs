@@ -37,32 +37,6 @@ The following 10 pairs of parts of speech are connected with `parataxis`: <tt><a
 
 
 ~~~ conllu
-# visual-style 15	bgColor:blue
-# visual-style 15	fgColor:white
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 1 15 parataxis	color:blue
-1	Pokúšal	pokúšať	VERB	VLescm+	Animacy=Anim|Aspect=Imp|Gender=Masc|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbForm=Part	0	root	_	_
-2	sa	sa	PRON	R	PronType=Prs|Reflex=Yes	1	expl:pv	_	_
-3	jej	ona	PRON	PFfs3	Case=Dat|Gender=Fem|Number=Sing|PronType=Prs	5	iobj	_	_
-4	to	to	DET	PFns4	Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	5	obj	_	_
-5	vysvetliť	vysvetliť	VERB	VId+	Aspect=Perf|Polarity=Pos|VerbForm=Inf	1	xcomp	_	_
-6	tak	tak	ADV	PD	PronType=Dem	5	advmod	_	SpaceAfter=No
-7	,	,	PUNCT	Z	_	9	punct	_	_
-8	aby	aby	SCONJ	OY	Mood=Cnd	9	mark	_	_
-9	pochopila	pochopiť	VERB	VLdscf+	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbForm=Part	5	advcl	_	SpaceAfter=No
-10	.	.	PUNCT	Z	_	1	punct	_	_
-11	"	"	PUNCT	Z	_	15	punct	_	SpaceAfter=No
-12	Toto	toto	DET	PFns1	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	15	nsubj	_	_
-13	bol	byť	AUX	VLesci+	Animacy=Inan|Aspect=Imp|Gender=Masc|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbForm=Part	15	cop	_	_
-14	výnimočný	výnimočný	ADJ	AAis1x	Animacy=Inan|Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	15	amod	_	_
-15	prípad	prípad	NOUN	SSis1	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	1	parataxis	_	SpaceAfter=No
-16	.	.	PUNCT	Z	_	1	punct	_	_
-
-~~~
-
-
-~~~ conllu
 # visual-style 11	bgColor:blue
 # visual-style 11	fgColor:white
 # visual-style 3	bgColor:blue
@@ -85,6 +59,32 @@ The following 10 pairs of parts of speech are connected with `parataxis`: <tt><a
 15	1966	1966	NUM	0	NumForm=Digit	14	nummod	_	SpaceAfter=No
 16	)	)	PUNCT	Z	_	11	punct	_	SpaceAfter=No
 17	.	.	PUNCT	Z	_	3	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 15	bgColor:blue
+# visual-style 15	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 15 parataxis	color:blue
+1	Pokúšal	pokúšať	VERB	VLescm+	Animacy=Anim|Aspect=Imp|Gender=Masc|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbForm=Part	0	root	_	_
+2	sa	sa	PRON	R	PronType=Prs|Reflex=Yes	1	expl:pv	_	_
+3	jej	ona	PRON	PFfs3	Case=Dat|Gender=Fem|Number=Sing|PronType=Prs	5	iobj	_	_
+4	to	to	DET	PFns4	Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	5	obj	_	_
+5	vysvetliť	vysvetliť	VERB	VId+	Aspect=Perf|Polarity=Pos|VerbForm=Inf	1	xcomp	_	_
+6	tak	tak	ADV	PD	PronType=Dem	5	advmod	_	SpaceAfter=No
+7	,	,	PUNCT	Z	_	9	punct	_	_
+8	aby	aby	SCONJ	OY	Mood=Cnd	9	mark	_	_
+9	pochopila	pochopiť	VERB	VLdscf+	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbForm=Part	5	advcl	_	SpaceAfter=No
+10	.	.	PUNCT	Z	_	1	punct	_	_
+11	"	"	PUNCT	Z	_	15	punct	_	SpaceAfter=No
+12	Toto	toto	DET	PFns1	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	15	nsubj	_	_
+13	bol	byť	AUX	VLesci+	Animacy=Inan|Aspect=Imp|Gender=Masc|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbForm=Part	15	cop	_	_
+14	výnimočný	výnimočný	ADJ	AAis1x	Animacy=Inan|Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	15	amod	_	_
+15	prípad	prípad	NOUN	SSis1	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	1	parataxis	_	SpaceAfter=No
+16	.	.	PUNCT	Z	_	1	punct	_	_
 
 ~~~
 

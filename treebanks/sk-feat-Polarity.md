@@ -12,18 +12,18 @@ It occurs with 2 different values: `Neg`, `Pos`.
 18788 tokens (18%) have a non-empty value of `Polarity`.
 7908 types (31%) occur at least once with a non-empty value of `Polarity`.
 3328 lemmas (23%) occur at least once with a non-empty value of `Polarity`.
-The feature is used with 3 part-of-speech tags: <tt><a href="sk-pos-VERB.html">VERB</a></tt> (14046; 13% instances), <tt><a href="sk-pos-AUX.html">AUX</a></tt> (3527; 3% instances), <tt><a href="sk-pos-ADJ.html">ADJ</a></tt> (1215; 1% instances).
+The feature is used with 3 part-of-speech tags: <tt><a href="sk-pos-VERB.html">VERB</a></tt> (14059; 13% instances), <tt><a href="sk-pos-AUX.html">AUX</a></tt> (3527; 3% instances), <tt><a href="sk-pos-ADJ.html">ADJ</a></tt> (1202; 1% instances).
 
 ### `VERB`
 
-14046 <tt><a href="sk-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `Polarity`.
+14059 <tt><a href="sk-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `Polarity`.
 
-The most frequent other feature values with which `VERB` and `Polarity` co-occurred: <tt><a href="sk-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (10576; 75%), <tt><a href="sk-feat-Number.html">Number</a></tt><tt>=Sing</tt> (10374; 74%), <tt><a href="sk-feat-Person.html">Person</a></tt><tt>=3</tt> (9664; 69%), <tt><a href="sk-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (9289; 66%), <tt><a href="sk-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (9278; 66%), <tt><a href="sk-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (8940; 64%), <tt><a href="sk-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (7117; 51%).
+The most frequent other feature values with which `VERB` and `Polarity` co-occurred: <tt><a href="sk-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (10589; 75%), <tt><a href="sk-feat-Number.html">Number</a></tt><tt>=Sing</tt> (10392; 74%), <tt><a href="sk-feat-Person.html">Person</a></tt><tt>=3</tt> (9685; 69%), <tt><a href="sk-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (9302; 66%), <tt><a href="sk-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (9302; 66%), <tt><a href="sk-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (8948; 64%), <tt><a href="sk-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (7134; 51%).
 
 `VERB` tokens may have the following values of `Polarity`:
 
-* `Neg` (1176; 8% of non-empty `Polarity`): <em>nemal, nemala, neviem, nemohla, nevidel, nemám, nevedel, nechcela, nemá, nemôžem</em>
-* `Pos` (12870; 92% of non-empty `Polarity`): <em>mal, povedal, je, povedala, má, mala, bol, bolo, ide, bola</em>
+* `Neg` (1175; 8% of non-empty `Polarity`): <em>nemal, nemala, neviem, nemohla, nevidel, nemám, nevedel, nechcela, nemá, nemôžem</em>
+* `Pos` (12884; 92% of non-empty `Polarity`): <em>mal, povedal, je, povedala, má, mala, bol, bolo, ide, bola</em>
 
 <table>
   <tr><th>Paradigm <i>mať</i></th><th><tt>Pos</tt></th><th><tt>Neg</tt></th></tr>
@@ -101,14 +101,14 @@ The most frequent other feature values with which `AUX` and `Polarity` co-occurr
 
 ### `ADJ`
 
-1215 <tt><a href="sk-pos-ADJ.html">ADJ</a></tt> tokens (13% of all `ADJ` tokens) have a non-empty value of `Polarity`.
+1202 <tt><a href="sk-pos-ADJ.html">ADJ</a></tt> tokens (13% of all `ADJ` tokens) have a non-empty value of `Polarity`.
 
-The most frequent other feature values with which `ADJ` and `Polarity` co-occurred: <tt><a href="sk-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (1215; 100%), <tt><a href="sk-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (1180; 97%), <tt><a href="sk-feat-Voice.html">Voice</a></tt><tt>=Pass</tt> (966; 80%), <tt><a href="sk-feat-Number.html">Number</a></tt><tt>=Sing</tt> (786; 65%), <tt><a href="sk-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (639; 53%), <tt><a href="sk-feat-Case.html">Case</a></tt><tt>=Nom</tt> (609; 50%).
+The most frequent other feature values with which `ADJ` and `Polarity` co-occurred: <tt><a href="sk-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (1202; 100%), <tt><a href="sk-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (1191; 99%), <tt><a href="sk-feat-Voice.html">Voice</a></tt><tt>=Pass</tt> (977; 81%), <tt><a href="sk-feat-Number.html">Number</a></tt><tt>=Sing</tt> (768; 64%), <tt><a href="sk-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (631; 52%), <tt><a href="sk-feat-Case.html">Case</a></tt><tt>=Nom</tt> (620; 52%).
 
 `ADJ` tokens may have the following values of `Polarity`:
 
-* `Neg` (29; 2% of non-empty `Polarity`): <em>neočakávané, nezaradených, Nepíšuci, nedisponujúca, nedovolené, nekontaminovaných, nekrytú, nekrytými, neobmedzeným, neplánovaný</em>
-* `Pos` (1186; 98% of non-empty `Polarity`): <em>nasledujúcich, nasledujúci, ozbrojených, sledovaných, zmätený, Zhlúpnutý, bál, nájdené, otvorené, pripravená</em>
+* `Neg` (30; 2% of non-empty `Polarity`): <em>neočakávané, nezaradených, Nepíšuci, Nestoja, nedisponujúca, nedovolené, nekontaminovaných, nekrytú, nekrytými, neobmedzeným</em>
+* `Pos` (1172; 98% of non-empty `Polarity`): <em>nasledujúcich, nasledujúci, ozbrojených, sledovaných, zmätený, Zhlúpnutý, nájdené, otvorené, pripravená, pripravený</em>
 * `EMPTY` (8278): <em>celý, prvý, druhý, ďalšie, veľký, druhej, nové, veľkého, veľké, ďalší</em>
 
 <table>
@@ -119,19 +119,19 @@ The most frequent other feature values with which `ADJ` and `Polarity` co-occurr
   <tr><td><tt><tt><a href="sk-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="sk-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="sk-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>sledované</em></td><td></td></tr>
 </table>
 
-`Polarity` seems to be **lexical feature** of `ADJ`. 99% lemmas (730) occur only with one value of `Polarity`.
+`Polarity` seems to be **lexical feature** of `ADJ`. 99% lemmas (719) occur only with one value of `Polarity`.
 
 ## Relations with Agreement in `Polarity`
 
 The 10 most frequent relations where parent and child node agree in `Polarity`:
-<tt>VERB --[<tt><a href="sk-dep-aux.html">aux</a></tt>]--> AUX</tt> (1570; 80%),
-<tt>VERB --[<tt><a href="sk-dep-conj.html">conj</a></tt>]--> VERB</tt> (1511; 89%),
-<tt>VERB --[<tt><a href="sk-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (864; 82%),
+<tt>VERB --[<tt><a href="sk-dep-aux.html">aux</a></tt>]--> AUX</tt> (1573; 80%),
+<tt>VERB --[<tt><a href="sk-dep-conj.html">conj</a></tt>]--> VERB</tt> (1519; 89%),
+<tt>VERB --[<tt><a href="sk-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (868; 82%),
 <tt>VERB --[<tt><a href="sk-dep-xcomp.html">xcomp</a></tt>]--> VERB</tt> (730; 80%),
-<tt>VERB --[<tt><a href="sk-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (619; 86%),
+<tt>VERB --[<tt><a href="sk-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (623; 86%),
 <tt>ADJ --[<tt><a href="sk-dep-aux-pass.html">aux:pass</a></tt>]--> AUX</tt> (96; 94%),
-<tt>VERB --[<tt><a href="sk-dep-csubj.html">csubj</a></tt>]--> VERB</tt> (56; 82%),
+<tt>VERB --[<tt><a href="sk-dep-csubj.html">csubj</a></tt>]--> VERB</tt> (57; 83%),
 <tt>VERB --[<tt><a href="sk-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (36; 84%),
 <tt>VERB --[<tt><a href="sk-dep-dep.html">dep</a></tt>]--> VERB</tt> (22; 92%),
-<tt>ADJ --[<tt><a href="sk-dep-aux.html">aux</a></tt>]--> AUX</tt> (18; 51%).
+<tt>VERB --[<tt><a href="sk-dep-csubj-pass.html">csubj:pass</a></tt>]--> VERB</tt> (13; 87%).
 

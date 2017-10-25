@@ -18,6 +18,23 @@ The following 3 pairs of parts of speech are connected with `obl:agent`: <tt><a 
 
 
 ~~~ conllu
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 6 obl:agent	color:blue
+1	Bola	byť	AUX	VLescf+	Aspect=Imp|Gender=Fem|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbForm=Part	2	aux:pass	_	_
+2	presadzovaná	presadzovaný	ADJ	Gtfs1x	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos|VerbForm=Part|Voice=Pass	0	root	_	_
+3	hlavne	hlavne	PART	T	_	6	advmod:emph	_	_
+4	sovietskou	sovietsky	ADJ	AAfs7x	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	6	amod	_	_
+5	marxistickou	marxistický	ADJ	AAfs7x	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	6	amod	_	_
+6	historiografiou	historiografia	NOUN	SSfs7	Case=Ins|Gender=Fem|Number=Sing	2	obl:agent	_	SpaceAfter=No
+7	.	.	PUNCT	Z	_	2	punct	_	_
+
+~~~
+
+
+~~~ conllu
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 4	bgColor:blue
@@ -38,23 +55,6 @@ The following 3 pairs of parts of speech are connected with `obl:agent`: <tt><a 
 13	Svjatopolkom	svjatopolek	PROPN	SSms7:r	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	14	nmod	_	_
 14	Izjaslavičom	izjaslavič	PROPN	SSms7:r	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	7	conj	_	SpaceAfter=No
 15	.	.	PUNCT	Z	_	4	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 6 obl:agent	color:blue
-1	Bola	byť	AUX	VLescf+	Aspect=Imp|Gender=Fem|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbForm=Part	2	aux:pass	_	_
-2	presadzovaná	presadzovaný	ADJ	Gtfs1x	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos|VerbForm=Part|Voice=Pass	0	root	_	_
-3	hlavne	hlavne	PART	T	_	6	advmod:emph	_	_
-4	sovietskou	sovietsky	ADJ	AAfs7x	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	6	amod	_	_
-5	marxistickou	marxistický	ADJ	AAfs7x	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	6	amod	_	_
-6	historiografiou	historiografia	NOUN	SSfs7	Case=Ins|Gender=Fem|Number=Sing	2	obl:agent	_	SpaceAfter=No
-7	.	.	PUNCT	Z	_	2	punct	_	_
 
 ~~~
 

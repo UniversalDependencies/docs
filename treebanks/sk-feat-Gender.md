@@ -14,7 +14,7 @@ This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with t
 52564 tokens (50%) have a non-empty value of `Gender`.
 23391 types (90%) occur at least once with a non-empty value of `Gender`.
 11915 lemmas (84%) occur at least once with a non-empty value of `Gender`.
-The feature is used with 10 part-of-speech tags: <tt><a href="sk-pos-NOUN.html">NOUN</a></tt> (21661; 20% instances), <tt><a href="sk-pos-ADJ.html">ADJ</a></tt> (9484; 9% instances), <tt><a href="sk-pos-VERB.html">VERB</a></tt> (8989; 8% instances), <tt><a href="sk-pos-PROPN.html">PROPN</a></tt> (4568; 4% instances), <tt><a href="sk-pos-DET.html">DET</a></tt> (4394; 4% instances), <tt><a href="sk-pos-PRON.html">PRON</a></tt> (2082; 2% instances), <tt><a href="sk-pos-AUX.html">AUX</a></tt> (731; 1% instances), <tt><a href="sk-pos-NUM.html">NUM</a></tt> (620; 1% instances), <tt><a href="sk-pos-ADV.html">ADV</a></tt> (34; 0% instances), <tt><a href="sk-pos-X.html">X</a></tt> (1; 0% instances).
+The feature is used with 10 part-of-speech tags: <tt><a href="sk-pos-NOUN.html">NOUN</a></tt> (21661; 20% instances), <tt><a href="sk-pos-ADJ.html">ADJ</a></tt> (9472; 9% instances), <tt><a href="sk-pos-VERB.html">VERB</a></tt> (9001; 8% instances), <tt><a href="sk-pos-PROPN.html">PROPN</a></tt> (4568; 4% instances), <tt><a href="sk-pos-DET.html">DET</a></tt> (4394; 4% instances), <tt><a href="sk-pos-PRON.html">PRON</a></tt> (2082; 2% instances), <tt><a href="sk-pos-AUX.html">AUX</a></tt> (731; 1% instances), <tt><a href="sk-pos-NUM.html">NUM</a></tt> (620; 1% instances), <tt><a href="sk-pos-ADV.html">ADV</a></tt> (34; 0% instances), <tt><a href="sk-pos-X.html">X</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
@@ -46,16 +46,16 @@ The most frequent other feature values with which `NOUN` and `Gender` co-occurre
 
 ### `ADJ`
 
-9484 <tt><a href="sk-pos-ADJ.html">ADJ</a></tt> tokens (100% of all `ADJ` tokens) have a non-empty value of `Gender`.
+9472 <tt><a href="sk-pos-ADJ.html">ADJ</a></tt> tokens (100% of all `ADJ` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `ADJ` and `Gender` co-occurred: <tt><a href="sk-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (8727; 92%), <tt><a href="sk-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (8304; 88%), <tt><a href="sk-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (8276; 87%), <tt><a href="sk-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (8276; 87%), <tt><a href="sk-feat-Number.html">Number</a></tt><tt>=Sing</tt> (6951; 73%), <tt><a href="sk-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (5510; 58%).
+The most frequent other feature values with which `ADJ` and `Gender` co-occurred: <tt><a href="sk-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (8738; 92%), <tt><a href="sk-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (8281; 87%), <tt><a href="sk-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (8276; 87%), <tt><a href="sk-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (8276; 87%), <tt><a href="sk-feat-Number.html">Number</a></tt><tt>=Sing</tt> (6934; 73%), <tt><a href="sk-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (5503; 58%).
 
 `ADJ` tokens may have the following values of `Gender`:
 
-* `Fem` (3851; 41% of non-empty `Gender`): <em>druhej, veľkej, prvá, slovenskej, verejných, štátnej, Makovej, európskej, prvej, veľkú</em>
-* `Masc` (3974; 42% of non-empty `Gender`): <em>celý, prvý, druhý, veľký, ďalší, nový, veľkého, jediný, prvým, nového</em>
-* `Neut` (1659; 17% of non-empty `Gender`): <em>veľké, celé, ľudské, možné, ďalšie, známe, jasné, nové, prvé, malé</em>
-* `EMPTY` (9): <em>VYSYPANÉ, oťažel, požadovaných, rôznych, tradovaných, väčšími, zachytených, zamračení, šetriacich</em>
+* `Fem` (3846; 41% of non-empty `Gender`): <em>druhej, veľkej, prvá, slovenskej, verejných, štátnej, Makovej, európskej, prvej, veľkú</em>
+* `Masc` (3969; 42% of non-empty `Gender`): <em>celý, prvý, druhý, veľký, ďalší, nový, veľkého, jediný, prvým, nového</em>
+* `Neut` (1657; 17% of non-empty `Gender`): <em>veľké, celé, ľudské, možné, ďalšie, známe, jasné, nové, prvé, malé</em>
+* `EMPTY` (8): <em>VYSYPANÉ, požadovaných, rôznych, tradovaných, väčšími, zachytených, zamračení, šetriacich</em>
 
 <table>
   <tr><th>Paradigm <i>veľký</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>
@@ -107,16 +107,16 @@ The most frequent other feature values with which `ADJ` and `Gender` co-occurred
 
 ### `VERB`
 
-8989 <tt><a href="sk-pos-VERB.html">VERB</a></tt> tokens (64% of all `VERB` tokens) have a non-empty value of `Gender`.
+9001 <tt><a href="sk-pos-VERB.html">VERB</a></tt> tokens (64% of all `VERB` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `VERB` and `Gender` co-occurred: <tt><a href="sk-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (8988; 100%), <tt><a href="sk-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (8987; 100%), <tt><a href="sk-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (8976; 100%), <tt><a href="sk-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (8298; 92%), <tt><a href="sk-feat-Number.html">Number</a></tt><tt>=Sing</tt> (7774; 86%), <tt><a href="sk-feat-Person.html">Person</a></tt><tt>=3</tt> (7455; 83%), <tt><a href="sk-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (5421; 60%).
+The most frequent other feature values with which `VERB` and `Gender` co-occurred: <tt><a href="sk-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (9000; 100%), <tt><a href="sk-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (8999; 100%), <tt><a href="sk-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (8999; 100%), <tt><a href="sk-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (8311; 92%), <tt><a href="sk-feat-Number.html">Number</a></tt><tt>=Sing</tt> (7791; 87%), <tt><a href="sk-feat-Person.html">Person</a></tt><tt>=3</tt> (7475; 83%), <tt><a href="sk-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (5437; 60%).
 
 `VERB` tokens may have the following values of `Gender`:
 
-* `Fem` (3002; 33% of non-empty `Gender`): <em>povedala, mala, bola, odvetila, zvolala, spýtala, chcela, začala, nemala, pozrela</em>
-* `Masc` (5106; 57% of non-empty `Gender`): <em>mal, povedal, bol, odvetil, spýtal, začal, chcel, prišiel, stal, vedel</em>
-* `Neut` (881; 10% of non-empty `Gender`): <em>bolo, stalo, malo, podarilo, došlo, nestalo, zdalo, trvalo, išlo, napadlo</em>
-* `EMPTY` (5057): <em>je, má, ide, môže, mám, musí, majú, musím, sú, chcem</em>
+* `Fem` (3007; 33% of non-empty `Gender`): <em>povedala, mala, bola, odvetila, zvolala, spýtala, chcela, začala, nemala, pozrela</em>
+* `Masc` (5111; 57% of non-empty `Gender`): <em>mal, povedal, bol, odvetil, spýtal, začal, chcel, prišiel, stal, vedel</em>
+* `Neut` (883; 10% of non-empty `Gender`): <em>bolo, stalo, malo, podarilo, došlo, nestalo, zdalo, trvalo, išlo, napadlo</em>
+* `EMPTY` (5058): <em>je, má, ide, môže, mám, musí, majú, musím, sú, chcem</em>
 
 <table>
   <tr><th>Paradigm <i>mať</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>
@@ -256,7 +256,7 @@ The most frequent other feature values with which `PRON` and `Gender` co-occurre
   <tr><td><tt><tt><a href="sk-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="sk-feat-Case.html">Case</a></tt><tt>=Loc</tt>|<tt><a href="sk-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>ňom</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="sk-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="sk-feat-Case.html">Case</a></tt><tt>=Loc</tt>|<tt><a href="sk-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>nich</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="sk-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="sk-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>ju, ňu</em></td><td><em>ho</em></td></tr>
-  <tr><td><tt><tt><a href="sk-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="sk-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>ich, ne</em></td><td><em>ich</em></td></tr>
+  <tr><td><tt><tt><a href="sk-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="sk-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>ne, ich</em></td><td><em>ich</em></td></tr>
   <tr><td><tt><tt><a href="sk-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="sk-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>jej, nej</em></td><td><em>mu</em></td></tr>
   <tr><td><tt><tt><a href="sk-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="sk-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>im</em></td><td></td></tr>
   <tr><td><tt><tt><a href="sk-feat-Case.html">Case</a></tt><tt>=Loc</tt>|<tt><a href="sk-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td></td><td><em>ňom</em></td></tr>
@@ -332,7 +332,7 @@ The most frequent other feature values with which `NUM` and `Gender` co-occurred
 
 34 <tt><a href="sk-pos-ADV.html">ADV</a></tt> tokens (1% of all `ADV` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `ADV` and `Gender` co-occurred: <tt><a href="sk-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (34; 100%), <tt><a href="sk-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (34; 100%).
+The most frequent other feature values with which `ADV` and `Gender` co-occurred: <tt><a href="sk-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (34; 100%), <tt><a href="sk-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (34; 100%).
 
 `ADV` tokens may have the following values of `Gender`:
 
@@ -343,7 +343,7 @@ The most frequent other feature values with which `ADV` and `Gender` co-occurred
 
 1 <tt><a href="sk-pos-X.html">X</a></tt> tokens (0% of all `X` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `X` and `Gender` co-occurred: <tt><a href="sk-feat-Hyph.html">Hyph</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="sk-feat-Abbr.html">Abbr</a></tt><tt>=Yes</tt> (1; 100%), <tt><a href="sk-feat-Foreign.html">Foreign</a></tt><tt>=EMPTY</tt> (1; 100%).
+The most frequent other feature values with which `X` and `Gender` co-occurred: <tt><a href="sk-feat-Foreign.html">Foreign</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="sk-feat-Abbr.html">Abbr</a></tt><tt>=Yes</tt> (1; 100%), <tt><a href="sk-feat-Hyph.html">Hyph</a></tt><tt>=EMPTY</tt> (1; 100%).
 
 `X` tokens may have the following values of `Gender`:
 
@@ -353,14 +353,14 @@ The most frequent other feature values with which `X` and `Gender` co-occurred: 
 ## Relations with Agreement in `Gender`
 
 The 10 most frequent relations where parent and child node agree in `Gender`:
-<tt>NOUN --[<tt><a href="sk-dep-amod.html">amod</a></tt>]--> ADJ</tt> (7695; 100%),
+<tt>NOUN --[<tt><a href="sk-dep-amod.html">amod</a></tt>]--> ADJ</tt> (7698; 100%),
 <tt>NOUN --[<tt><a href="sk-dep-det.html">det</a></tt>]--> DET</tt> (2456; 99%),
-<tt>VERB --[<tt><a href="sk-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (2082; 67%),
-<tt>VERB --[<tt><a href="sk-dep-nsubj.html">nsubj</a></tt>]--> PROPN</tt> (1455; 89%),
-<tt>VERB --[<tt><a href="sk-dep-conj.html">conj</a></tt>]--> VERB</tt> (995; 73%),
+<tt>VERB --[<tt><a href="sk-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (2089; 67%),
+<tt>VERB --[<tt><a href="sk-dep-nsubj.html">nsubj</a></tt>]--> PROPN</tt> (1456; 89%),
+<tt>VERB --[<tt><a href="sk-dep-conj.html">conj</a></tt>]--> VERB</tt> (1001; 73%),
 <tt>NOUN --[<tt><a href="sk-dep-conj.html">conj</a></tt>]--> NOUN</tt> (543; 51%),
 <tt>PROPN --[<tt><a href="sk-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (435; 90%),
 <tt>VERB --[<tt><a href="sk-dep-nsubj.html">nsubj</a></tt>]--> DET</tt> (394; 66%),
 <tt>PROPN --[<tt><a href="sk-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (354; 84%),
-<tt>VERB --[<tt><a href="sk-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (319; 54%).
+<tt>VERB --[<tt><a href="sk-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (320; 54%).
 

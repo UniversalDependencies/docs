@@ -12,20 +12,20 @@ It occurs with 3 different values: `Fut`, `Past`, `Pres`.
 15974 tokens (15%) have a non-empty value of `Tense`.
 5956 types (23%) occur at least once with a non-empty value of `Tense`.
 2419 lemmas (17%) occur at least once with a non-empty value of `Tense`.
-The feature is used with 3 part-of-speech tags: <tt><a href="sk-pos-VERB.html">VERB</a></tt> (12475; 12% instances), <tt><a href="sk-pos-AUX.html">AUX</a></tt> (3470; 3% instances), <tt><a href="sk-pos-ADJ.html">ADJ</a></tt> (29; 0% instances).
+The feature is used with 3 part-of-speech tags: <tt><a href="sk-pos-VERB.html">VERB</a></tt> (12499; 12% instances), <tt><a href="sk-pos-AUX.html">AUX</a></tt> (3470; 3% instances), <tt><a href="sk-pos-ADJ.html">ADJ</a></tt> (5; 0% instances).
 
 ### `VERB`
 
-12475 <tt><a href="sk-pos-VERB.html">VERB</a></tt> tokens (89% of all `VERB` tokens) have a non-empty value of `Tense`.
+12499 <tt><a href="sk-pos-VERB.html">VERB</a></tt> tokens (89% of all `VERB` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="sk-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (11353; 91%), <tt><a href="sk-feat-Number.html">Number</a></tt><tt>=Sing</tt> (10209; 82%), <tt><a href="sk-feat-Person.html">Person</a></tt><tt>=3</tt> (9663; 77%), <tt><a href="sk-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (9278; 74%), <tt><a href="sk-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (9278; 74%), <tt><a href="sk-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (7377; 59%), <tt><a href="sk-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (6306; 51%).
+The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="sk-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (11378; 91%), <tt><a href="sk-feat-Number.html">Number</a></tt><tt>=Sing</tt> (10235; 82%), <tt><a href="sk-feat-Person.html">Person</a></tt><tt>=3</tt> (9684; 77%), <tt><a href="sk-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (9302; 74%), <tt><a href="sk-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (9302; 74%), <tt><a href="sk-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (7389; 59%), <tt><a href="sk-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (6323; 51%).
 
 `VERB` tokens may have the following values of `Tense`:
 
 * `Fut` (39; 0% of non-empty `Tense`): <em>bude, pôjdeme, nebudú, pôjdem, pôjde, Poletím, Poletíš, budem, budeš, budú</em>
-* `Past` (9278; 74% of non-empty `Tense`): <em>mal, povedal, povedala, mala, bol, bolo, bola, odvetil, spýtal, odvetila</em>
+* `Past` (9302; 74% of non-empty `Tense`): <em>mal, povedal, povedala, mala, bol, bolo, bola, odvetil, spýtal, odvetila</em>
 * `Pres` (3158; 25% of non-empty `Tense`): <em>je, má, ide, môže, mám, musí, majú, musím, sú, chcem</em>
-* `EMPTY` (1571): <em>povedať, mať, ísť, podporovať, pozri, robiť, stať, venovať, pokračovať, hľadať</em>
+* `EMPTY` (1560): <em>povedať, mať, ísť, podporovať, pozri, robiť, stať, venovať, pokračovať, hľadať</em>
 
 <table>
   <tr><th>Paradigm <i>byť</i></th><th><tt>Pres</tt></th><th><tt>Fut</tt></th><th><tt>Past</tt></th></tr>
@@ -66,7 +66,7 @@ The most frequent other feature values with which `VERB` and `Tense` co-occurred
 
 3470 <tt><a href="sk-pos-AUX.html">AUX</a></tt> tokens (93% of all `AUX` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `AUX` and `Tense` co-occurred: <tt><a href="sk-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (3469; 100%), <tt><a href="sk-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (3330; 96%), <tt><a href="sk-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2906; 84%), <tt><a href="sk-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (2739; 79%), <tt><a href="sk-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (2733; 79%), <tt><a href="sk-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (2733; 79%), <tt><a href="sk-feat-Person.html">Person</a></tt><tt>=1</tt> (1767; 51%).
+The most frequent other feature values with which `AUX` and `Tense` co-occurred: <tt><a href="sk-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (3469; 100%), <tt><a href="sk-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (3330; 96%), <tt><a href="sk-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2906; 84%), <tt><a href="sk-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (2739; 79%), <tt><a href="sk-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (2733; 79%), <tt><a href="sk-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (2733; 79%), <tt><a href="sk-feat-Person.html">Person</a></tt><tt>=1</tt> (1767; 51%).
 
 `AUX` tokens may have the following values of `Tense`:
 
@@ -115,23 +115,20 @@ The most frequent other feature values with which `AUX` and `Tense` co-occurred:
 
 ### `ADJ`
 
-29 <tt><a href="sk-pos-ADJ.html">ADJ</a></tt> tokens (0% of all `ADJ` tokens) have a non-empty value of `Tense`.
+5 <tt><a href="sk-pos-ADJ.html">ADJ</a></tt> tokens (0% of all `ADJ` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `ADJ` and `Tense` co-occurred: <tt><a href="sk-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (29; 100%), <tt><a href="sk-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (29; 100%), <tt><a href="sk-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (29; 100%), <tt><a href="sk-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (29; 100%), <tt><a href="sk-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (29; 100%), <tt><a href="sk-feat-Number.html">Number</a></tt><tt>=Sing</tt> (27; 93%), <tt><a href="sk-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (15; 52%).
+The most frequent other feature values with which `ADJ` and `Tense` co-occurred: <tt><a href="sk-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (5; 100%), <tt><a href="sk-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (5; 100%), <tt><a href="sk-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (5; 100%), <tt><a href="sk-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (5; 100%), <tt><a href="sk-feat-Number.html">Number</a></tt><tt>=Plur</tt> (4; 80%), <tt><a href="sk-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (4; 80%), <tt><a href="sk-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (3; 60%), <tt><a href="sk-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (3; 60%).
 
 `ADJ` tokens may have the following values of `Tense`:
 
-* `Past` (29; 100% of non-empty `Tense`): <em>bál, zhíkla, Chichúňala, Zaštebotal, cmukol, dupotali, jašil, obhrýzalo, oddupkal, odľahlo</em>
-* `EMPTY` (9464): <em>celý, prvý, druhý, ďalšie, veľký, druhej, nové, veľkého, veľké, ďalší</em>
-
-`Tense` seems to be **lexical feature** of `ADJ`. 100% lemmas (25) occur only with one value of `Tense`.
+* `Past` (5; 100% of non-empty `Tense`): <em>plávajú, Nestoja, Trúfa, tuhnú</em>
+* `EMPTY` (9475): <em>celý, prvý, druhý, ďalšie, veľký, druhej, nové, veľkého, veľké, ďalší</em>
 
 ## Relations with Agreement in `Tense`
 
 The 10 most frequent relations where parent and child node agree in `Tense`:
-<tt>VERB --[<tt><a href="sk-dep-conj.html">conj</a></tt>]--> VERB</tt> (1521; 95%),
-<tt>VERB --[<tt><a href="sk-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (598; 84%),
+<tt>VERB --[<tt><a href="sk-dep-conj.html">conj</a></tt>]--> VERB</tt> (1530; 95%),
+<tt>VERB --[<tt><a href="sk-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (602; 84%),
 <tt>VERB --[<tt><a href="sk-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (32; 76%),
-<tt>VERB --[<tt><a href="sk-dep-appos.html">appos</a></tt>]--> VERB</tt> (2; 100%),
-<tt>ADJ --[<tt><a href="sk-dep-conj.html">conj</a></tt>]--> ADJ</tt> (1; 100%).
+<tt>VERB --[<tt><a href="sk-dep-appos.html">appos</a></tt>]--> VERB</tt> (2; 100%).
 

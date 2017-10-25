@@ -24,7 +24,7 @@ The 10 most frequent ambiguous types:  <em>‐</em> (<tt><a href="sk-pos-PUNCT.h
 
 ## Morphology
 
-The form / lemma ratio of `PUNCT` is 1.000000 (the average of all parts of speech is 1.802512).
+The form / lemma ratio of `PUNCT` is 1.000000 (the average of all parts of speech is 1.800669).
 
 The 1st highest number of forms (3) was observed with the lemma “"”: <em>", “, „</em>.
 
@@ -39,7 +39,7 @@ The 3rd highest number of forms (2) was observed with the lemma ““”: <em>�
 
 `PUNCT` nodes are attached to their parents using 2 different relations: <tt><a href="sk-dep-punct.html">punct</a></tt> (19129; 100% instances), <tt><a href="sk-dep-conj.html">conj</a></tt> (1; 0% instances)
 
-Parents of `PUNCT` nodes belong to 16 different parts of speech: <tt><a href="sk-pos-VERB.html">VERB</a></tt> (14024; 73% instances), <tt><a href="sk-pos-NOUN.html">NOUN</a></tt> (2042; 11% instances), <tt><a href="sk-pos-ADJ.html">ADJ</a></tt> (1255; 7% instances), <tt><a href="sk-pos-NUM.html">NUM</a></tt> (459; 2% instances), <tt><a href="sk-pos-PROPN.html">PROPN</a></tt> (357; 2% instances), <tt><a href="sk-pos-X.html">X</a></tt> (357; 2% instances), <tt><a href="sk-pos-PART.html">PART</a></tt> (204; 1% instances), <tt><a href="sk-pos-ADV.html">ADV</a></tt> (164; 1% instances), <tt><a href="sk-pos-PRON.html">PRON</a></tt> (115; 1% instances), <tt><a href="sk-pos-INTJ.html">INTJ</a></tt> (69; 0% instances), <tt><a href="sk-pos-DET.html">DET</a></tt> (62; 0% instances), <tt><a href="sk-pos-CCONJ.html">CCONJ</a></tt> (8; 0% instances), <tt><a href="sk-pos-ADP.html">ADP</a></tt> (5; 0% instances), <tt><a href="sk-pos-PUNCT.html">PUNCT</a></tt> (3; 0% instances), <tt><a href="sk-pos-SCONJ.html">SCONJ</a></tt> (3; 0% instances), <tt><a href="sk-pos-SYM.html">SYM</a></tt> (3; 0% instances)
+Parents of `PUNCT` nodes belong to 16 different parts of speech: <tt><a href="sk-pos-VERB.html">VERB</a></tt> (14033; 73% instances), <tt><a href="sk-pos-NOUN.html">NOUN</a></tt> (2042; 11% instances), <tt><a href="sk-pos-ADJ.html">ADJ</a></tt> (1246; 7% instances), <tt><a href="sk-pos-NUM.html">NUM</a></tt> (459; 2% instances), <tt><a href="sk-pos-PROPN.html">PROPN</a></tt> (357; 2% instances), <tt><a href="sk-pos-X.html">X</a></tt> (357; 2% instances), <tt><a href="sk-pos-PART.html">PART</a></tt> (204; 1% instances), <tt><a href="sk-pos-ADV.html">ADV</a></tt> (164; 1% instances), <tt><a href="sk-pos-PRON.html">PRON</a></tt> (115; 1% instances), <tt><a href="sk-pos-INTJ.html">INTJ</a></tt> (69; 0% instances), <tt><a href="sk-pos-DET.html">DET</a></tt> (62; 0% instances), <tt><a href="sk-pos-CCONJ.html">CCONJ</a></tt> (8; 0% instances), <tt><a href="sk-pos-ADP.html">ADP</a></tt> (5; 0% instances), <tt><a href="sk-pos-PUNCT.html">PUNCT</a></tt> (3; 0% instances), <tt><a href="sk-pos-SCONJ.html">SCONJ</a></tt> (3; 0% instances), <tt><a href="sk-pos-SYM.html">SYM</a></tt> (3; 0% instances)
 
 19120 (100%) `PUNCT` nodes are leaves.
 

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-8018 nodes (8%) are attached to their parents as `amod`.
+8022 nodes (8%) are attached to their parents as `amod`.
 
-7658 instances of `amod` (96%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.20765777001746.
+7660 instances of `amod` (95%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.20842682622787.
 
-The following 11 pairs of parts of speech are connected with `amod`: <tt><a href="sk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sk-pos-ADJ.html">ADJ</a></tt> (7715; 96% instances), <tt><a href="sk-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sk-pos-ADJ.html">ADJ</a></tt> (171; 2% instances), <tt><a href="sk-pos-PRON.html">PRON</a></tt>-<tt><a href="sk-pos-ADJ.html">ADJ</a></tt> (41; 1% instances), <tt><a href="sk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sk-pos-DET.html">DET</a></tt> (26; 0% instances), <tt><a href="sk-pos-ADV.html">ADV</a></tt>-<tt><a href="sk-pos-ADJ.html">ADJ</a></tt> (14; 0% instances), <tt><a href="sk-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sk-pos-ADJ.html">ADJ</a></tt> (13; 0% instances), <tt><a href="sk-pos-DET.html">DET</a></tt>-<tt><a href="sk-pos-ADJ.html">ADJ</a></tt> (13; 0% instances), <tt><a href="sk-pos-NUM.html">NUM</a></tt>-<tt><a href="sk-pos-ADJ.html">ADJ</a></tt> (12; 0% instances), <tt><a href="sk-pos-X.html">X</a></tt>-<tt><a href="sk-pos-ADJ.html">ADJ</a></tt> (9; 0% instances), <tt><a href="sk-pos-NUM.html">NUM</a></tt>-<tt><a href="sk-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="sk-pos-INTJ.html">INTJ</a></tt>-<tt><a href="sk-pos-ADJ.html">ADJ</a></tt> (1; 0% instances).
+The following 11 pairs of parts of speech are connected with `amod`: <tt><a href="sk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sk-pos-ADJ.html">ADJ</a></tt> (7719; 96% instances), <tt><a href="sk-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sk-pos-ADJ.html">ADJ</a></tt> (171; 2% instances), <tt><a href="sk-pos-PRON.html">PRON</a></tt>-<tt><a href="sk-pos-ADJ.html">ADJ</a></tt> (41; 1% instances), <tt><a href="sk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sk-pos-DET.html">DET</a></tt> (26; 0% instances), <tt><a href="sk-pos-ADV.html">ADV</a></tt>-<tt><a href="sk-pos-ADJ.html">ADJ</a></tt> (14; 0% instances), <tt><a href="sk-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sk-pos-ADJ.html">ADJ</a></tt> (13; 0% instances), <tt><a href="sk-pos-DET.html">DET</a></tt>-<tt><a href="sk-pos-ADJ.html">ADJ</a></tt> (13; 0% instances), <tt><a href="sk-pos-NUM.html">NUM</a></tt>-<tt><a href="sk-pos-ADJ.html">ADJ</a></tt> (12; 0% instances), <tt><a href="sk-pos-X.html">X</a></tt>-<tt><a href="sk-pos-ADJ.html">ADJ</a></tt> (9; 0% instances), <tt><a href="sk-pos-NUM.html">NUM</a></tt>-<tt><a href="sk-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="sk-pos-INTJ.html">INTJ</a></tt>-<tt><a href="sk-pos-ADJ.html">ADJ</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

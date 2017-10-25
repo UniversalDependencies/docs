@@ -12,7 +12,7 @@ It occurs with 7 different values: `Acc`, `Dat`, `Gen`, `Ins`, `Loc`, `Nom`, `Vo
 52800 tokens (50%) have a non-empty value of `Case`.
 19437 types (75%) occur at least once with a non-empty value of `Case`.
 9958 lemmas (70%) occur at least once with a non-empty value of `Case`.
-The feature is used with 10 part-of-speech tags: <tt><a href="sk-pos-NOUN.html">NOUN</a></tt> (21661; 20% instances), <tt><a href="sk-pos-ADJ.html">ADJ</a></tt> (9464; 9% instances), <tt><a href="sk-pos-ADP.html">ADP</a></tt> (8558; 8% instances), <tt><a href="sk-pos-PROPN.html">PROPN</a></tt> (4568; 4% instances), <tt><a href="sk-pos-DET.html">DET</a></tt> (4404; 4% instances), <tt><a href="sk-pos-PRON.html">PRON</a></tt> (3478; 3% instances), <tt><a href="sk-pos-NUM.html">NUM</a></tt> (621; 1% instances), <tt><a href="sk-pos-ADV.html">ADV</a></tt> (34; 0% instances), <tt><a href="sk-pos-VERB.html">VERB</a></tt> (11; 0% instances), <tt><a href="sk-pos-X.html">X</a></tt> (1; 0% instances).
+The feature is used with 9 part-of-speech tags: <tt><a href="sk-pos-NOUN.html">NOUN</a></tt> (21661; 20% instances), <tt><a href="sk-pos-ADJ.html">ADJ</a></tt> (9475; 9% instances), <tt><a href="sk-pos-ADP.html">ADP</a></tt> (8558; 8% instances), <tt><a href="sk-pos-PROPN.html">PROPN</a></tt> (4568; 4% instances), <tt><a href="sk-pos-DET.html">DET</a></tt> (4404; 4% instances), <tt><a href="sk-pos-PRON.html">PRON</a></tt> (3478; 3% instances), <tt><a href="sk-pos-NUM.html">NUM</a></tt> (621; 1% instances), <tt><a href="sk-pos-ADV.html">ADV</a></tt> (34; 0% instances), <tt><a href="sk-pos-X.html">X</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
@@ -38,9 +38,9 @@ The most frequent other feature values with which `NOUN` and `Case` co-occurred:
 
 ### `ADJ`
 
-9464 <tt><a href="sk-pos-ADJ.html">ADJ</a></tt> tokens (100% of all `ADJ` tokens) have a non-empty value of `Case`.
+9475 <tt><a href="sk-pos-ADJ.html">ADJ</a></tt> tokens (100% of all `ADJ` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `ADJ` and `Case` co-occurred: <tt><a href="sk-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (8734; 92%), <tt><a href="sk-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (8278; 87%), <tt><a href="sk-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (8278; 87%), <tt><a href="sk-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (8278; 87%), <tt><a href="sk-feat-Number.html">Number</a></tt><tt>=Sing</tt> (6925; 73%), <tt><a href="sk-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (5504; 58%).
+The most frequent other feature values with which `ADJ` and `Case` co-occurred: <tt><a href="sk-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (8745; 92%), <tt><a href="sk-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (8278; 87%), <tt><a href="sk-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (8278; 87%), <tt><a href="sk-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (8278; 87%), <tt><a href="sk-feat-Number.html">Number</a></tt><tt>=Sing</tt> (6933; 73%), <tt><a href="sk-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (5508; 58%).
 
 `ADJ` tokens may have the following values of `Case`:
 
@@ -49,8 +49,8 @@ The most frequent other feature values with which `ADJ` and `Case` co-occurred: 
 * `Gen` (2107; 22% of non-empty `Case`): <em>verejných, veľkého, slovenskej, nového, cirkevného, európskej, veľkej, zahraničnej, celého, slovenského</em>
 * `Ins` (829; 9% of non-empty `Case`): <em>prvým, ďalším, veľkým, jediným, veľkými, ďalšou, hlavnou, najväčším, druhým, dôležitou</em>
 * `Loc` (772; 8% of non-empty `Case`): <em>druhej, prvom, poslednom, druhom, poslednej, celom, nasledujúcich, sledovaných, starej, veľkej</em>
-* `Nom` (3388; 36% of non-empty `Case`): <em>prvý, veľký, prvá, ďalšie, možné, veľká, známe, ďalší, celý, jediný</em>
-* `EMPTY` (29): <em>bál, zhíkla, Chichúňala, Zaštebotal, cmukol, dupotali, jašil, obhrýzalo, oddupkal, odľahlo</em>
+* `Nom` (3399; 36% of non-empty `Case`): <em>prvý, veľký, prvá, ďalšie, možné, veľká, známe, ďalší, celý, jediný</em>
+* `EMPTY` (5): <em>plávajú, Nestoja, Trúfa, tuhnú</em>
 
 <table>
   <tr><th>Paradigm <i>veľký</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th><th><tt>Gen</tt></th><th><tt>Loc</tt></th><th><tt>Ins</tt></th></tr>
@@ -192,7 +192,7 @@ The most frequent other feature values with which `NUM` and `Case` co-occurred: 
 
 34 <tt><a href="sk-pos-ADV.html">ADV</a></tt> tokens (1% of all `ADV` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `ADV` and `Case` co-occurred: <tt><a href="sk-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (34; 100%), <tt><a href="sk-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (34; 100%).
+The most frequent other feature values with which `ADV` and `Case` co-occurred: <tt><a href="sk-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (34; 100%), <tt><a href="sk-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (34; 100%).
 
 `ADV` tokens may have the following values of `Case`:
 
@@ -206,19 +206,6 @@ The most frequent other feature values with which `ADV` and `Case` co-occurred: 
   <tr><td><tt><tt><a href="sk-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>raz</em></td><td><em>raz</em></td><td></td></tr>
   <tr><td><tt><tt><a href="sk-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>razy</em></td><td><em>ráz</em></td></tr>
 </table>
-
-### `VERB`
-
-11 <tt><a href="sk-pos-VERB.html">VERB</a></tt> tokens (0% of all `VERB` tokens) have a non-empty value of `Case`.
-
-The most frequent other feature values with which `VERB` and `Case` co-occurred: <tt><a href="sk-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (11; 100%), <tt><a href="sk-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (11; 100%), <tt><a href="sk-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (11; 100%), <tt><a href="sk-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (11; 100%), <tt><a href="sk-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (11; 100%), <tt><a href="sk-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (11; 100%), <tt><a href="sk-feat-Number.html">Number</a></tt><tt>=Sing</tt> (8; 73%), <tt><a href="sk-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt> (7; 64%), <tt><a href="sk-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (7; 64%).
-
-`VERB` tokens may have the following values of `Case`:
-
-* `Nom` (11; 100% of non-empty `Case`): <em>zhrozený, odkázaný, očarený, prevrhnuté, rozbité, rozvalený, vychovaný, vyduté, vysvietené, zaskočený</em>
-* `EMPTY` (14035): <em>mal, povedal, je, povedala, má, mala, bol, bolo, ide, bola</em>
-
-`Case` seems to be **lexical feature** of `VERB`. 100% lemmas (10) occur only with one value of `Case`.
 
 ### `X`
 
@@ -234,7 +221,7 @@ The most frequent other feature values with which `X` and `Case` co-occurred: <t
 ## Relations with Agreement in `Case`
 
 The 10 most frequent relations where parent and child node agree in `Case`:
-<tt>NOUN --[<tt><a href="sk-dep-amod.html">amod</a></tt>]--> ADJ</tt> (7693; 100%),
+<tt>NOUN --[<tt><a href="sk-dep-amod.html">amod</a></tt>]--> ADJ</tt> (7695; 100%),
 <tt>NOUN --[<tt><a href="sk-dep-case.html">case</a></tt>]--> ADP</tt> (6607; 99%),
 <tt>NOUN --[<tt><a href="sk-dep-det.html">det</a></tt>]--> DET</tt> (2468; 100%),
 <tt>NOUN --[<tt><a href="sk-dep-conj.html">conj</a></tt>]--> NOUN</tt> (1039; 98%),
@@ -243,5 +230,5 @@ The 10 most frequent relations where parent and child node agree in `Case`:
 <tt>PROPN --[<tt><a href="sk-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (432; 89%),
 <tt>PROPN --[<tt><a href="sk-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (324; 77%),
 <tt>ADJ --[<tt><a href="sk-dep-conj.html">conj</a></tt>]--> ADJ</tt> (315; 100%),
-<tt>ADJ --[<tt><a href="sk-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (286; 95%).
+<tt>ADJ --[<tt><a href="sk-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (288; 98%).
 

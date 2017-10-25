@@ -53,7 +53,7 @@ The 10 most frequent ambiguous types:  <em>som</em> (<tt><a href="sk-pos-AUX.htm
 
 ## Morphology
 
-The form / lemma ratio of `AUX` is 5.714286 (the average of all parts of speech is 1.802512).
+The form / lemma ratio of `AUX` is 5.714286 (the average of all parts of speech is 1.800669).
 
 The 1st highest number of forms (31) was observed with the lemma “byť”: <em>Buďme, Nebudete, Nebuď, bol, bola, boli, bolo, bude, budem, budeme, budete, budeš, budú, buďte, byť, je, nebol, nebola, neboli, nebolo, nebude, nebudem, nebudeme, nebudeš, nebudú, niesme, si, sme, som, ste, sú</em>.
 
@@ -74,7 +74,7 @@ Examples: <em>som</em>
 
 `AUX` nodes are attached to their parents using 4 different relations: <tt><a href="sk-dep-aux.html">aux</a></tt> (2023; 54% instances), <tt><a href="sk-dep-cop.html">cop</a></tt> (1586; 43% instances), <tt><a href="sk-dep-aux-pass.html">aux:pass</a></tt> (102; 3% instances), <tt><a href="sk-dep-dep.html">dep</a></tt> (1; 0% instances)
 
-Parents of `AUX` nodes belong to 10 different parts of speech: <tt><a href="sk-pos-VERB.html">VERB</a></tt> (1976; 53% instances), <tt><a href="sk-pos-ADJ.html">ADJ</a></tt> (857; 23% instances), <tt><a href="sk-pos-NOUN.html">NOUN</a></tt> (755; 20% instances), <tt><a href="sk-pos-NUM.html">NUM</a></tt> (37; 1% instances), <tt><a href="sk-pos-DET.html">DET</a></tt> (32; 1% instances), <tt><a href="sk-pos-PRON.html">PRON</a></tt> (25; 1% instances), <tt><a href="sk-pos-PROPN.html">PROPN</a></tt> (19; 1% instances), <tt><a href="sk-pos-ADV.html">ADV</a></tt> (8; 0% instances), <tt><a href="sk-pos-PART.html">PART</a></tt> (2; 0% instances), <tt><a href="sk-pos-X.html">X</a></tt> (1; 0% instances)
+Parents of `AUX` nodes belong to 10 different parts of speech: <tt><a href="sk-pos-VERB.html">VERB</a></tt> (1972; 53% instances), <tt><a href="sk-pos-ADJ.html">ADJ</a></tt> (861; 23% instances), <tt><a href="sk-pos-NOUN.html">NOUN</a></tt> (755; 20% instances), <tt><a href="sk-pos-NUM.html">NUM</a></tt> (37; 1% instances), <tt><a href="sk-pos-DET.html">DET</a></tt> (32; 1% instances), <tt><a href="sk-pos-PRON.html">PRON</a></tt> (25; 1% instances), <tt><a href="sk-pos-PROPN.html">PROPN</a></tt> (19; 1% instances), <tt><a href="sk-pos-ADV.html">ADV</a></tt> (8; 0% instances), <tt><a href="sk-pos-PART.html">PART</a></tt> (2; 0% instances), <tt><a href="sk-pos-X.html">X</a></tt> (1; 0% instances)
 
 3712 (100%) `AUX` nodes are leaves.
 

@@ -119,7 +119,7 @@ udver: '2'
   </li>
   <li>Part
   <ul>
-    <li>ADJ: nasledujúcich, nasledujúci, ozbrojených, sledovaných, zmätený, Zhlúpnutý, bál, nájdené, otvorené, pripravená</li>
+    <li>ADJ: nasledujúcich, nasledujúci, ozbrojených, sledovaných, zmätený, Zhlúpnutý, nájdené, otvorené, pripravená, pripravený</li>
     <li>AUX: bol, bola, bolo, boli, nebola, nebolo, nebol, neboli, býval, bývali</li>
     <li>VERB: mal, povedal, povedala, mala, bol, bolo, bola, odvetil, spýtal, odvetila</li>
   </ul>
@@ -229,7 +229,7 @@ udver: '2'
     <li>Masc
       <ul>
         <li>ADJ: celý, prvý, druhý, veľký, ďalší, nový, veľkého, jediný, prvým, nového</li>
-        <li>ADJ-Part: nasledujúci, zmätený, Zhlúpnutý, bál, pripravený, zatajeným, nasledujúcich, obkľúčený, očakávaný, spojených</li>
+        <li>ADJ-Part: nasledujúci, zmätený, Zhlúpnutý, pripravený, zatajeným, zhrozený, nasledujúcich, obkľúčený, očakávaný, spojených</li>
         <li>ADV: raz, ráz, razy</li>
         <li>AUX-Part: bol, boli, nebol, neboli, býval, bývali, stal</li>
         <li>DET: ktorý, jeho, ten, jej, môj, tento, každý, ktoré, všetci, ktorí</li>
@@ -300,7 +300,7 @@ udver: '2'
     <li>Anim
       <ul>
         <li>ADJ: prvý, mladý, veľký, ostatní, rád, prvým, svätého, veľkého, mŕtvi, ďalší</li>
-        <li>ADJ-Part: zmätený, Zhlúpnutý, bál, pripravený, spomínaní, zvyknutí, Zamilovaný, inaugurovaný, nezaradených, oblečený</li>
+        <li>ADJ-Part: zmätený, Zhlúpnutý, zhrozený, pripravený, spomínaní, zvyknutí, Zamilovaný, inaugurovaný, nezaradených, oblečený</li>
         <li>AUX-Part: bol, boli, nebol, býval, neboli, stal</li>
         <li>DET: ktorý, jeho, všetci, ktorí, ten, sám, každý, všetkých, jej, ktorého</li>
         <li>NOUN: ľudí, človek, otec, ľudia, muž, kráľ, sultán, otca, človeka, cisár</li>
@@ -412,7 +412,7 @@ udver: '2'
     <li>Sing
       <ul>
         <li>ADJ: celý, prvý, druhý, veľký, druhej, veľkého, nový, veľkej, prvá, slovenskej</li>
-        <li>ADJ-Part: nasledujúci, zmätený, Zhlúpnutý, bál, pripravená, pripravený, zatajeným, nasledujúcej, nazývaného, obkľúčený</li>
+        <li>ADJ-Part: nasledujúci, zmätený, Zhlúpnutý, pripravená, pripravený, zatajeným, zhrozený, nasledujúcej, nazývaného, obkľúčený</li>
         <li>ADV: raz</li>
         <li>AUX-Fin: som, je, bude, si, nebude, budem, budeš, nebudem, má, Nebuď</li>
         <li>AUX-Part: bol, bola, bolo, nebola, nebolo, nebol, býval, bývala, stal</li>
@@ -588,14 +588,13 @@ udver: '2'
     <li>Nom
       <ul>
         <li>ADJ: prvý, veľký, prvá, ďalšie, možné, veľká, známe, ďalší, celý, jediný</li>
-        <li>ADJ-Part: zmätený, Zhlúpnutý, nájdené, pripravená, pripravený, obkľúčený, otvorené, pozorované, presvedčená, rozdelené</li>
+        <li>ADJ-Part: zmätený, Zhlúpnutý, nájdené, pripravená, pripravený, zhrozený, obkľúčený, otvorené, pozorované, presvedčená</li>
         <li>ADV: raz</li>
         <li>DET: to, jeho, ktoré, ktorý, ktorá, jej, ten, všetci, tá, táto</li>
         <li>NOUN: vláda, mama, človek, otec, ľudia, muž, tvár, kráľ, sultán, deti</li>
         <li>NUM: jeden, jedna, obaja, tri, veľa, dvaja, dve, štyri, dva, jedno</li>
         <li>PRON: ja, čo, ty, kto, ona, nikto, on, niečo, nič, my</li>
         <li>PROPN: Maja, Chris, Winston, Aladin, Mauglí, Jazmína, Vilko, Herkules, Abu, Bush</li>
-        <li>VERB-Part: zhrozený, odkázaný, očarený, prevrhnuté, rozbité, rozvalený, vychovaný, vyduté, vysvietené, zaskočený</li>
         <li>X: VB</li>
       </ul>
     </li>
@@ -686,7 +685,6 @@ udver: '2'
         <li>ADJ: celý, ďalšie, veľký, nové, veľkého, veľké, ďalší, nový, verejných, celé</li>
         <li>ADJ-Part: nasledujúcich, nasledujúci, ozbrojených, sledovaných, zmätený, Zhlúpnutý, nájdené, otvorené, pripravená, pripravený</li>
         <li>ADV: veľmi, potom, opäť, teraz, už, stále, dnes, neskôr, dobre, napokon</li>
-        <li>VERB-Part: zhrozený, odkázaný, očarený, prevrhnuté, rozbité, rozvalený, vychovaný, vyduté, vysvietené, zaskočený</li>
       </ul>
     </li>
     <li>Sup
@@ -747,7 +745,7 @@ udver: '2'
   <ul>
     <li>Neg
       <ul>
-        <li>ADJ-Part: neočakávané, nezaradených, Nepíšuci, nedisponujúca, nedovolené, nekontaminovaných, nekrytú, nekrytými, neobmedzeným, neplánovaný</li>
+        <li>ADJ-Part: neočakávané, nezaradených, Nepíšuci, Nestoja, nedisponujúca, nedovolené, nekontaminovaných, nekrytú, nekrytými, neobmedzeným</li>
         <li>AUX-Fin: je, nebude, sú, nebudem, som, Nebudete, Nebuď, nebudeme, nebudeš, nebudú</li>
         <li>AUX-Part: nebola, nebolo, nebol, neboli</li>
         <li>VERB-Conv: Nehovoriac</li>
@@ -758,7 +756,7 @@ udver: '2'
     </li>
     <li>Pos
       <ul>
-        <li>ADJ-Part: nasledujúcich, nasledujúci, ozbrojených, sledovaných, zmätený, Zhlúpnutý, bál, nájdené, otvorené, pripravená</li>
+        <li>ADJ-Part: nasledujúcich, nasledujúci, ozbrojených, sledovaných, zmätený, Zhlúpnutý, nájdené, otvorené, pripravená, pripravený</li>
         <li>AUX-Fin: som, je, sme, sú, bude, si, ste, budú, budeme, budem</li>
         <li>AUX-Inf: byť</li>
         <li>AUX-Part: bol, bola, bolo, boli, býval, bývali, bývala, stal</li>
@@ -833,7 +831,7 @@ udver: '2'
   <ul>
     <li>Imp
       <ul>
-        <li>ADJ-Part: bál, Chichúňala, dupotali, jašil, obhrýzalo, vrieskal, zakrádal, zakrádala, škriekala</li>
+        <li>ADJ-Part: plávajú, Nestoja, Trúfa, tuhnú</li>
         <li>AUX-Fin: som, je, sme, sú, bude, si, ste, budú, nebude, budeme</li>
         <li>AUX-Inf: byť</li>
         <li>AUX-Part: bol, bola, bolo, boli, nebola, nebolo, nebol, neboli, býval, bývali</li>
@@ -853,7 +851,6 @@ udver: '2'
     </li>
     <li>Perf
       <ul>
-        <li>ADJ-Part: zhíkla, Zaštebotal, cmukol, oddupkal, odľahlo, ovalil, oťažel, potkla, pousádzala, rozbúchalo</li>
         <li>AUX-Part: stal</li>
         <li>VERB-Conv: odhliadnuc, povediac, vyhovejúc, využijúc</li>
         <li>VERB-Fin: pripraví, vytvorí, pozri, zabezpečí, počkajte, prijme, príde, vyparia, podporí, počkaj</li>
@@ -961,7 +958,7 @@ udver: '2'
     </li>
     <li>Past
       <ul>
-        <li>ADJ-Part: bál, zhíkla, Chichúňala, Zaštebotal, cmukol, dupotali, jašil, obhrýzalo, oddupkal, odľahlo</li>
+        <li>ADJ-Part: plávajú, Nestoja, Trúfa, tuhnú</li>
         <li>AUX-Part: bol, bola, bolo, boli, nebola, nebolo, nebol, neboli, býval, bývali</li>
         <li>VERB-Part: mal, povedal, povedala, mala, bol, bolo, bola, odvetil, spýtal, odvetila</li>
       </ul>
@@ -1012,7 +1009,6 @@ udver: '2'
     <li>Pass
       <ul>
         <li>ADJ-Part: ozbrojených, sledovaných, zmätený, Zhlúpnutý, nájdené, otvorené, pripravená, pripravený, uvedených, zatajeným</li>
-        <li>VERB-Part: zhrozený, odkázaný, očarený, prevrhnuté, rozbité, rozvalený, vychovaný, vyduté, vysvietené, zaskočený</li>
       </ul>
     </li>
   </ul>
@@ -1302,7 +1298,6 @@ udver: '2'
   <ul>
     <li>1
       <ul>
-        <li>ADJ-Part: bál</li>
         <li>AUX-Fin: som, sme, budeme, budem, nebudem, Buďme, nebudeme, niesme</li>
         <li>AUX-Part: bol, bola, boli, nebola, býval</li>
         <li>VERB-Fin: mám, musím, chcem, neviem, máme, ďakujem, som, viem, nemám, nemôžem</li>
@@ -1319,7 +1314,7 @@ udver: '2'
     </li>
     <li>3
       <ul>
-        <li>ADJ-Part: zhíkla, Bál, Chichúňala, Zaštebotal, cmukol, dupotali, jašil, obhrýzalo, oddupkal, odľahlo</li>
+        <li>ADJ-Part: plávajú, Nestoja, Trúfa, tuhnú</li>
         <li>AUX-Fin: je, sú, bude, budú, nebude, má, býva, majú, nebudú, nebýva</li>
         <li>AUX-Part: bol, bola, bolo, boli, nebolo, nebol, nebola, neboli, bývali, býval</li>
         <li>VERB-Fin: je, má, ide, môže, musí, majú, sú, znamená, pripraví, vytvorí</li>
@@ -1990,7 +1985,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Inf--PRON-Nom (3)</li>
       <li>VERB-Part--NOUN-Acc (10)</li>
       <li>VERB-Part--NOUN-Gen (11)</li>
-      <li>VERB-Part--NOUN-Nom (2108)</li>
+      <li>VERB-Part--NOUN-Nom (2115)</li>
       <li>VERB-Part--PRON-Acc (3)</li>
       <li>VERB-Part--PRON-Nom (293)</li>
     </ul>
@@ -2077,15 +2072,15 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Inf--PRON-Dat (36)</li>
       <li>VERB-Inf--PRON-Gen (2)</li>
       <li>VERB-Inf--PRON-Ins (1)</li>
-      <li>VERB-Part--NOUN-Acc (2028)</li>
+      <li>VERB-Part--NOUN-Acc (2032)</li>
       <li>VERB-Part--NOUN-Dat (78)</li>
       <li>VERB-Part--NOUN-Gen (46)</li>
       <li>VERB-Part--NOUN-Ins (120)</li>
       <li>VERB-Part--NOUN-Nom (18)</li>
       <li>VERB-Part--PRON (13)</li>
-      <li>VERB-Part--PRON-Acc (737)</li>
-      <li>VERB-Part--PRON-Dat (302)</li>
-      <li>VERB-Part--PRON-Gen (15)</li>
+      <li>VERB-Part--PRON-Acc (739)</li>
+      <li>VERB-Part--PRON-Dat (303)</li>
+      <li>VERB-Part--PRON-Gen (17)</li>
       <li>VERB-Part--PRON-Ins (4)</li>
       <li>VERB-Part--PRON-Nom (2)</li>
     </ul>
@@ -2156,7 +2151,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Inf--PRON-Acc (5)</li>
       <li>VERB-Inf--PRON-Dat (25)</li>
       <li>VERB-Part--NOUN-Acc (17)</li>
-      <li>VERB-Part--NOUN-Dat (70)</li>
+      <li>VERB-Part--NOUN-Dat (71)</li>
       <li>VERB-Part--NOUN-Gen (6)</li>
       <li>VERB-Part--NOUN-Ins (9)</li>
       <li>VERB-Part--NOUN-Nom (1)</li>

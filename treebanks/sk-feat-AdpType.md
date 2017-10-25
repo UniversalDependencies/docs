@@ -45,6 +45,6 @@ The most frequent other feature values with which `PRON` and `AdpType` co-occurr
 
 The 10 most frequent relations where parent and child node agree in `AdpType`:
 <tt>ADP --[<tt><a href="sk-dep-fixed.html">fixed</a></tt>]--> ADP</tt> (27; 87%),
-<tt>ADP --[<tt><a href="sk-dep-case.html">case</a></tt>]--> ADP</tt> (1; 100%),
-<tt>ADP --[<tt><a href="sk-dep-conj.html">conj</a></tt>]--> ADP</tt> (1; 100%).
+<tt>ADP --[<tt><a href="sk-dep-conj.html">conj</a></tt>]--> ADP</tt> (1; 100%),
+<tt>ADP --[<tt><a href="sk-dep-case.html">case</a></tt>]--> ADP</tt> (1; 100%).
 

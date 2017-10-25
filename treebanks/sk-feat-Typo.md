@@ -30,7 +30,7 @@ The most frequent other feature values with which `NOUN` and `Typo` co-occurred:
 
 30 <tt><a href="sk-pos-VERB.html">VERB</a></tt> tokens (0% of all `VERB` tokens) have a non-empty value of `Typo`.
 
-The most frequent other feature values with which `VERB` and `Typo` co-occurred: <tt><a href="sk-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (26; 87%), <tt><a href="sk-feat-Person.html">Person</a></tt><tt>=3</tt> (23; 77%), <tt><a href="sk-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (21; 70%), <tt><a href="sk-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (20; 67%), <tt><a href="sk-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (18; 60%), <tt><a href="sk-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (18; 60%), <tt><a href="sk-feat-Number.html">Number</a></tt><tt>=Plur</tt> (17; 57%), <tt><a href="sk-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (16; 53%).
+The most frequent other feature values with which `VERB` and `Typo` co-occurred: <tt><a href="sk-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (26; 87%), <tt><a href="sk-feat-Person.html">Person</a></tt><tt>=3</tt> (23; 77%), <tt><a href="sk-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (21; 70%), <tt><a href="sk-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (20; 67%), <tt><a href="sk-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (18; 60%), <tt><a href="sk-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (18; 60%), <tt><a href="sk-feat-Number.html">Number</a></tt><tt>=Plur</tt> (17; 57%), <tt><a href="sk-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (16; 53%).
 
 `VERB` tokens may have the following values of `Typo`:
 
@@ -42,7 +42,7 @@ The most frequent other feature values with which `VERB` and `Typo` co-occurred:
 
 25 <tt><a href="sk-pos-ADJ.html">ADJ</a></tt> tokens (0% of all `ADJ` tokens) have a non-empty value of `Typo`.
 
-The most frequent other feature values with which `ADJ` and `Typo` co-occurred: <tt><a href="sk-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (24; 96%), <tt><a href="sk-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (20; 80%), <tt><a href="sk-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (20; 80%), <tt><a href="sk-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (20; 80%), <tt><a href="sk-feat-Number.html">Number</a></tt><tt>=Sing</tt> (17; 68%), <tt><a href="sk-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (15; 60%), <tt><a href="sk-feat-Case.html">Case</a></tt><tt>=Nom</tt> (13; 52%).
+The most frequent other feature values with which `ADJ` and `Typo` co-occurred: <tt><a href="sk-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (24; 96%), <tt><a href="sk-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (20; 80%), <tt><a href="sk-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (20; 80%), <tt><a href="sk-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (20; 80%), <tt><a href="sk-feat-Number.html">Number</a></tt><tt>=Sing</tt> (17; 68%), <tt><a href="sk-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (15; 60%), <tt><a href="sk-feat-Case.html">Case</a></tt><tt>=Nom</tt> (13; 52%).
 
 `ADJ` tokens may have the following values of `Typo`:
 
@@ -54,7 +54,7 @@ The most frequent other feature values with which `ADJ` and `Typo` co-occurred: 
 
 15 <tt><a href="sk-pos-DET.html">DET</a></tt> tokens (0% of all `DET` tokens) have a non-empty value of `Typo`.
 
-The most frequent other feature values with which `DET` and `Typo` co-occurred: <tt><a href="sk-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (15; 100%), <tt><a href="sk-feat-Gender-psor.html">Gender[psor]</a></tt><tt>=EMPTY</tt> (15; 100%), <tt><a href="sk-feat-Number.html">Number</a></tt><tt>=Sing</tt> (11; 73%), <tt><a href="sk-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (8; 53%), <tt><a href="sk-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (8; 53%).
+The most frequent other feature values with which `DET` and `Typo` co-occurred: <tt><a href="sk-feat-Gender-psor.html">Gender[psor]</a></tt><tt>=EMPTY</tt> (15; 100%), <tt><a href="sk-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (15; 100%), <tt><a href="sk-feat-Number.html">Number</a></tt><tt>=Sing</tt> (11; 73%), <tt><a href="sk-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (8; 53%), <tt><a href="sk-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (8; 53%).
 
 `DET` tokens may have the following values of `Typo`:
 
@@ -74,7 +74,7 @@ The most frequent other feature values with which `ADP` and `Typo` co-occurred: 
 
 8 <tt><a href="sk-pos-ADV.html">ADV</a></tt> tokens (0% of all `ADV` tokens) have a non-empty value of `Typo`.
 
-The most frequent other feature values with which `ADV` and `Typo` co-occurred: <tt><a href="sk-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (8; 100%), <tt><a href="sk-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (8; 100%).
+The most frequent other feature values with which `ADV` and `Typo` co-occurred: <tt><a href="sk-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (8; 100%), <tt><a href="sk-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (8; 100%).
 
 `ADV` tokens may have the following values of `Typo`:
 
@@ -84,7 +84,7 @@ The most frequent other feature values with which `ADV` and `Typo` co-occurred: 
 
 3 <tt><a href="sk-pos-PRON.html">PRON</a></tt> tokens (0% of all `PRON` tokens) have a non-empty value of `Typo`.
 
-The most frequent other feature values with which `PRON` and `Typo` co-occurred: <tt><a href="sk-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (3; 100%), <tt><a href="sk-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (3; 100%), <tt><a href="sk-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (2; 67%), <tt><a href="sk-feat-Reflex.html">Reflex</a></tt><tt>=Yes</tt> (2; 67%), <tt><a href="sk-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (2; 67%), <tt><a href="sk-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (2; 67%).
+The most frequent other feature values with which `PRON` and `Typo` co-occurred: <tt><a href="sk-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (3; 100%), <tt><a href="sk-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (3; 100%), <tt><a href="sk-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (2; 67%), <tt><a href="sk-feat-Reflex.html">Reflex</a></tt><tt>=Yes</tt> (2; 67%), <tt><a href="sk-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (2; 67%), <tt><a href="sk-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (2; 67%).
 
 `PRON` tokens may have the following values of `Typo`:
 
@@ -94,29 +94,11 @@ The most frequent other feature values with which `PRON` and `Typo` co-occurred:
 
 3 <tt><a href="sk-pos-PROPN.html">PROPN</a></tt> tokens (0% of all `PROPN` tokens) have a non-empty value of `Typo`.
 
-The most frequent other feature values with which `PROPN` and `Typo` co-occurred: <tt><a href="sk-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (3; 100%), <tt><a href="sk-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt> (3; 100%), <tt><a href="sk-feat-Case.html">Case</a></tt><tt>=Nom</tt> (3; 100%), <tt><a href="sk-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3; 100%).
+The most frequent other feature values with which `PROPN` and `Typo` co-occurred: <tt><a href="sk-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3; 100%), <tt><a href="sk-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt> (3; 100%), <tt><a href="sk-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (3; 100%), <tt><a href="sk-feat-Case.html">Case</a></tt><tt>=Nom</tt> (3; 100%).
 
 `PROPN` tokens may have the following values of `Typo`:
 
 * `Yes` (3; 100% of non-empty `Typo`): <em>Winton, Rama</em>
-
-### `NUM`
-
-1 <tt><a href="sk-pos-NUM.html">NUM</a></tt> tokens (0% of all `NUM` tokens) have a non-empty value of `Typo`.
-
-The most frequent other feature values with which `NUM` and `Typo` co-occurred: <tt><a href="sk-feat-NumForm.html">NumForm</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="sk-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="sk-feat-Gender.html">Gender</a></tt><tt>=Neut</tt> (1; 100%), <tt><a href="sk-feat-Number.html">Number</a></tt><tt>=Plur</tt> (1; 100%), <tt><a href="sk-feat-Case.html">Case</a></tt><tt>=Acc</tt> (1; 100%).
-
-`NUM` tokens may have the following values of `Typo`:
-
-* `Yes` (1; 100% of non-empty `Typo`): <em>dva</em>
-
-### `PART`
-
-1 <tt><a href="sk-pos-PART.html">PART</a></tt> tokens (0% of all `PART` tokens) have a non-empty value of `Typo`.
-
-`PART` tokens may have the following values of `Typo`:
-
-* `Yes` (1; 100% of non-empty `Typo`): <em>Ano</em>
 
 ### `CCONJ`
 
@@ -130,11 +112,29 @@ The most frequent other feature values with which `NUM` and `Typo` co-occurred: 
 
 1 <tt><a href="sk-pos-AUX.html">AUX</a></tt> tokens (0% of all `AUX` tokens) have a non-empty value of `Typo`.
 
-The most frequent other feature values with which `AUX` and `Typo` co-occurred: <tt><a href="sk-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="sk-feat-Person.html">Person</a></tt><tt>=1</tt> (1; 100%), <tt><a href="sk-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (1; 100%), <tt><a href="sk-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (1; 100%), <tt><a href="sk-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt> (1; 100%), <tt><a href="sk-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (1; 100%), <tt><a href="sk-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (1; 100%), <tt><a href="sk-feat-Number.html">Number</a></tt><tt>=Plur</tt> (1; 100%).
+The most frequent other feature values with which `AUX` and `Typo` co-occurred: <tt><a href="sk-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (1; 100%), <tt><a href="sk-feat-Person.html">Person</a></tt><tt>=1</tt> (1; 100%), <tt><a href="sk-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="sk-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (1; 100%), <tt><a href="sk-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (1; 100%), <tt><a href="sk-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt> (1; 100%), <tt><a href="sk-feat-Number.html">Number</a></tt><tt>=Plur</tt> (1; 100%), <tt><a href="sk-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (1; 100%).
 
 `AUX` tokens may have the following values of `Typo`:
 
 * `Yes` (1; 100% of non-empty `Typo`): <em>niesme</em>
+
+### `PART`
+
+1 <tt><a href="sk-pos-PART.html">PART</a></tt> tokens (0% of all `PART` tokens) have a non-empty value of `Typo`.
+
+`PART` tokens may have the following values of `Typo`:
+
+* `Yes` (1; 100% of non-empty `Typo`): <em>Ano</em>
+
+### `NUM`
+
+1 <tt><a href="sk-pos-NUM.html">NUM</a></tt> tokens (0% of all `NUM` tokens) have a non-empty value of `Typo`.
+
+The most frequent other feature values with which `NUM` and `Typo` co-occurred: <tt><a href="sk-feat-NumForm.html">NumForm</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="sk-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="sk-feat-Case.html">Case</a></tt><tt>=Acc</tt> (1; 100%), <tt><a href="sk-feat-Gender.html">Gender</a></tt><tt>=Neut</tt> (1; 100%), <tt><a href="sk-feat-Number.html">Number</a></tt><tt>=Plur</tt> (1; 100%).
+
+`NUM` tokens may have the following values of `Typo`:
+
+* `Yes` (1; 100% of non-empty `Typo`): <em>dva</em>
 
 ## Relations with Agreement in `Typo`
 
