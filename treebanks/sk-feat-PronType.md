@@ -19,7 +19,7 @@ The feature is used with 3 part-of-speech tags: <tt><a href="sk-pos-PRON.html">P
 
 6450 <tt><a href="sk-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="sk-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (5425; 84%), <tt><a href="sk-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (4368; 68%), <tt><a href="sk-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (3370; 52%).
+The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="sk-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (5425; 84%), <tt><a href="sk-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (4368; 68%), <tt><a href="sk-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (3752; 58%), <tt><a href="sk-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (3370; 52%).
 
 `PRON` tokens may have the following values of `PronType`:
 
@@ -35,7 +35,7 @@ The most frequent other feature values with which `PRON` and `PronType` co-occur
 
 4407 <tt><a href="sk-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `DET` and `PronType` co-occurred: <tt><a href="sk-feat-Gender-psor.html">Gender[psor]</a></tt><tt>=EMPTY</tt> (3927; 89%), <tt><a href="sk-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (3476; 79%), <tt><a href="sk-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3452; 78%), <tt><a href="sk-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (3150; 71%), <tt><a href="sk-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (2886; 65%).
+The most frequent other feature values with which `DET` and `PronType` co-occurred: <tt><a href="sk-feat-Gender-psor.html">Gender[psor]</a></tt><tt>=EMPTY</tt> (3927; 89%), <tt><a href="sk-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (3476; 79%), <tt><a href="sk-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (3476; 79%), <tt><a href="sk-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3452; 78%), <tt><a href="sk-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (3150; 71%), <tt><a href="sk-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (2886; 65%).
 
 `DET` tokens may have the following values of `PronType`:
 
@@ -69,10 +69,10 @@ The most frequent other feature values with which `ADV` and `PronType` co-occurr
 ## Relations with Agreement in `PronType`
 
 The 10 most frequent relations where parent and child node agree in `PronType`:
-<tt>DET --[<tt><a href="sk-dep-conj.html">conj</a></tt>]--> DET</tt> (5; 71%),
 <tt>ADV --[<tt><a href="sk-dep-conj.html">conj</a></tt>]--> ADV</tt> (5; 63%),
+<tt>DET --[<tt><a href="sk-dep-conj.html">conj</a></tt>]--> DET</tt> (5; 71%),
 <tt>PRON --[<tt><a href="sk-dep-conj.html">conj</a></tt>]--> PRON</tt> (4; 100%),
 <tt>PRON --[<tt><a href="sk-dep-orphan.html">orphan</a></tt>]--> PRON</tt> (3; 100%),
-<tt>PRON --[<tt><a href="sk-dep-appos.html">appos</a></tt>]--> PRON</tt> (1; 100%),
-<tt>DET --[<tt><a href="sk-dep-dep.html">dep</a></tt>]--> ADV</tt> (1; 100%).
+<tt>DET --[<tt><a href="sk-dep-dep.html">dep</a></tt>]--> ADV</tt> (1; 100%),
+<tt>PRON --[<tt><a href="sk-dep-appos.html">appos</a></tt>]--> PRON</tt> (1; 100%).
 

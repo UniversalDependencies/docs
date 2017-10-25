@@ -26,7 +26,7 @@ The following 81 pairs of parts of speech are connected with `dep`: <tt><a href=
 2	sa	sa	PRON	R	PronType=Prs|Reflex=Yes	3	expl:pv	_	_
 3	zaľúbi	zaľúbiť	VERB	VKdsc+	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	0	root	_	_
 4	ako	ako	SCONJ	O	_	6	mark	_	_
-5	moja	môj	DET	PFfs1	Case=Nom|Gender=Fem|Number=Sing|Number[psor]=Sing|Poss=Yes|PronType=Prs	6	det	_	_
+5	moja	môj	DET	PFfs1	Case=Nom|Gender=Fem|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	6	det	_	_
 6	mama	mama	NOUN	SSfs1	Case=Nom|Gender=Fem|Number=Sing	3	dep	_	SpaceAfter=No
 7	,	,	PUNCT	Z	_	9	punct	_	_
 8	a	a	CCONJ	O	_	9	cc	_	_

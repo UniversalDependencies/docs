@@ -75,7 +75,7 @@ The following 9 pairs of parts of speech are connected with `ccomp`: <tt><a href
 8	som	byť	AUX	VKesa+	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin	7	aux	_	_
 9	a	a	CCONJ	O	_	10	cc	_	_
 10	objala	objať	VERB	VLdsaf+	Aspect=Perf|Gender=Fem|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part	7	conj	_	_
-11	ju	ona	PRON	PFfs4	Case=Acc|Gender=Fem|Number=Sing|PronType=Prs	10	obj	_	SpaceAfter=No
+11	ju	ona	PRON	PFfs4	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	10	obj	_	SpaceAfter=No
 12	.	.	PUNCT	Z	_	7	punct	_	_
 
 ~~~

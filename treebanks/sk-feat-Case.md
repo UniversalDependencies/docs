@@ -40,7 +40,7 @@ The most frequent other feature values with which `NOUN` and `Case` co-occurred:
 
 9475 <tt><a href="sk-pos-ADJ.html">ADJ</a></tt> tokens (100% of all `ADJ` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `ADJ` and `Case` co-occurred: <tt><a href="sk-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (8745; 92%), <tt><a href="sk-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (8278; 87%), <tt><a href="sk-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (8278; 87%), <tt><a href="sk-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (8278; 87%), <tt><a href="sk-feat-Number.html">Number</a></tt><tt>=Sing</tt> (6933; 73%), <tt><a href="sk-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (5508; 58%).
+The most frequent other feature values with which `ADJ` and `Case` co-occurred: <tt><a href="sk-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (8745; 92%), <tt><a href="sk-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (8278; 87%), <tt><a href="sk-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (8278; 87%), <tt><a href="sk-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (8278; 87%), <tt><a href="sk-feat-Number.html">Number</a></tt><tt>=Sing</tt> (6933; 73%), <tt><a href="sk-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (5508; 58%).
 
 `ADJ` tokens may have the following values of `Case`:
 
@@ -121,7 +121,7 @@ The most frequent other feature values with which `PROPN` and `Case` co-occurred
 
 4404 <tt><a href="sk-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `DET` and `Case` co-occurred: <tt><a href="sk-feat-Gender-psor.html">Gender[psor]</a></tt><tt>=EMPTY</tt> (3924; 89%), <tt><a href="sk-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (3473; 79%), <tt><a href="sk-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3452; 78%), <tt><a href="sk-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (3147; 71%), <tt><a href="sk-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (2883; 65%).
+The most frequent other feature values with which `DET` and `Case` co-occurred: <tt><a href="sk-feat-Gender-psor.html">Gender[psor]</a></tt><tt>=EMPTY</tt> (3924; 89%), <tt><a href="sk-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (3473; 79%), <tt><a href="sk-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (3473; 79%), <tt><a href="sk-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3452; 78%), <tt><a href="sk-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (3147; 71%), <tt><a href="sk-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (2883; 65%).
 
 `DET` tokens may have the following values of `Case`:
 
@@ -192,7 +192,7 @@ The most frequent other feature values with which `NUM` and `Case` co-occurred: 
 
 34 <tt><a href="sk-pos-ADV.html">ADV</a></tt> tokens (1% of all `ADV` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `ADV` and `Case` co-occurred: <tt><a href="sk-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (34; 100%), <tt><a href="sk-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (34; 100%).
+The most frequent other feature values with which `ADV` and `Case` co-occurred: <tt><a href="sk-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (34; 100%), <tt><a href="sk-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (34; 100%).
 
 `ADV` tokens may have the following values of `Case`:
 
@@ -211,7 +211,7 @@ The most frequent other feature values with which `ADV` and `Case` co-occurred: 
 
 1 <tt><a href="sk-pos-X.html">X</a></tt> tokens (0% of all `X` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `X` and `Case` co-occurred: <tt><a href="sk-feat-Hyph.html">Hyph</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="sk-feat-Abbr.html">Abbr</a></tt><tt>=Yes</tt> (1; 100%), <tt><a href="sk-feat-Foreign.html">Foreign</a></tt><tt>=EMPTY</tt> (1; 100%).
+The most frequent other feature values with which `X` and `Case` co-occurred: <tt><a href="sk-feat-Foreign.html">Foreign</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="sk-feat-Abbr.html">Abbr</a></tt><tt>=Yes</tt> (1; 100%), <tt><a href="sk-feat-Hyph.html">Hyph</a></tt><tt>=EMPTY</tt> (1; 100%).
 
 `X` tokens may have the following values of `Case`:
 

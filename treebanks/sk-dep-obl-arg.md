@@ -41,7 +41,7 @@ The following 19 pairs of parts of speech are connected with `obl:arg`: <tt><a h
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 5 obl:arg	color:blue
-1	Ja	ja	PRON	PPhs1	Case=Nom|Number=Sing|PronType=Prs	6	nsubj	_	_
+1	Ja	ja	PRON	PPhs1	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	nsubj	_	_
 2	sa	sa	PRON	R	PronType=Prs|Reflex=Yes	6	expl:pv	_	_
 3	ale	ale	PART	T	_	6	advmod	_	_
 4	na	na	ADP	Eu4	AdpType=Prep|Case=Acc	5	case	_	_

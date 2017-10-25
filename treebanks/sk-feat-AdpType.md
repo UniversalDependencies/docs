@@ -33,7 +33,7 @@ The feature is used with 2 part-of-speech tags: <tt><a href="sk-pos-ADP.html">AD
 
 54 <tt><a href="sk-pos-PRON.html">PRON</a></tt> tokens (1% of all `PRON` tokens) have a non-empty value of `AdpType`.
 
-The most frequent other feature values with which `PRON` and `AdpType` co-occurred: <tt><a href="sk-feat-Number.html">Number</a></tt><tt>=Sing</tt> (54; 100%), <tt><a href="sk-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (54; 100%), <tt><a href="sk-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (54; 100%), <tt><a href="sk-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (52; 96%), <tt><a href="sk-feat-Case.html">Case</a></tt><tt>=Acc</tt> (45; 83%), <tt><a href="sk-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt> (39; 72%).
+The most frequent other feature values with which `PRON` and `AdpType` co-occurred: <tt><a href="sk-feat-Number.html">Number</a></tt><tt>=Sing</tt> (54; 100%), <tt><a href="sk-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (54; 100%), <tt><a href="sk-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (54; 100%), <tt><a href="sk-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (54; 100%), <tt><a href="sk-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (52; 96%), <tt><a href="sk-feat-Case.html">Case</a></tt><tt>=Acc</tt> (45; 83%), <tt><a href="sk-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt> (39; 72%).
 
 `PRON` tokens may have the following values of `AdpType`:
 

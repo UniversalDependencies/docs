@@ -44,7 +44,7 @@ The following 25 pairs of parts of speech are connected with `obj`: <tt><a href=
 7	dedičia	dedič	NOUN	SSmp1	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	5	nsubj	_	SpaceAfter=No
 8	,	,	PUNCT	ZIP	_	5	punct	_	_
 9	nahradia	nahradiť	VERB	VKdpc+	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	0	root	_	_
-10	ich	on	PRON	PFmp4	Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur|PronType=Prs	9	obj	_	_
+10	ich	on	PRON	PFmp4	Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur|Person=3|PronType=Prs	9	obj	_	_
 11	univerzity	univerzita	NOUN	SSfp1	Case=Nom|Gender=Fem|Number=Plur	9	nsubj	_	SpaceAfter=No
 12	.	.	PUNCT	ZIP	_	9	punct	_	_
 

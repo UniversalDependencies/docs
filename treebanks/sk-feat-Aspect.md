@@ -19,7 +19,7 @@ The feature is used with 3 part-of-speech tags: <tt><a href="sk-pos-VERB.html">V
 
 14059 <tt><a href="sk-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `Aspect`.
 
-The most frequent other feature values with which `VERB` and `Aspect` co-occurred: <tt><a href="sk-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (12884; 92%), <tt><a href="sk-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (10589; 75%), <tt><a href="sk-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (10589; 75%), <tt><a href="sk-feat-Number.html">Number</a></tt><tt>=Sing</tt> (10392; 74%), <tt><a href="sk-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (9302; 66%), <tt><a href="sk-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (9302; 66%), <tt><a href="sk-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (8948; 64%).
+The most frequent other feature values with which `VERB` and `Aspect` co-occurred: <tt><a href="sk-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (12884; 92%), <tt><a href="sk-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (10589; 75%), <tt><a href="sk-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (10589; 75%), <tt><a href="sk-feat-Number.html">Number</a></tt><tt>=Sing</tt> (10392; 74%), <tt><a href="sk-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (9302; 66%), <tt><a href="sk-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (9302; 66%), <tt><a href="sk-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (8948; 64%).
 
 `VERB` tokens may have the following values of `Aspect`:
 
@@ -67,7 +67,7 @@ The most frequent other feature values with which `AUX` and `Aspect` co-occurred
 
 5 <tt><a href="sk-pos-ADJ.html">ADJ</a></tt> tokens (0% of all `ADJ` tokens) have a non-empty value of `Aspect`.
 
-The most frequent other feature values with which `ADJ` and `Aspect` co-occurred: <tt><a href="sk-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (5; 100%), <tt><a href="sk-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (5; 100%), <tt><a href="sk-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (5; 100%), <tt><a href="sk-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (5; 100%), <tt><a href="sk-feat-Number.html">Number</a></tt><tt>=Plur</tt> (4; 80%), <tt><a href="sk-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (4; 80%), <tt><a href="sk-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (3; 60%), <tt><a href="sk-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (3; 60%).
+The most frequent other feature values with which `ADJ` and `Aspect` co-occurred: <tt><a href="sk-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (5; 100%), <tt><a href="sk-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (5; 100%), <tt><a href="sk-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (5; 100%), <tt><a href="sk-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (5; 100%), <tt><a href="sk-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (4; 80%), <tt><a href="sk-feat-Number.html">Number</a></tt><tt>=Plur</tt> (4; 80%), <tt><a href="sk-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (3; 60%), <tt><a href="sk-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (3; 60%).
 
 `ADJ` tokens may have the following values of `Aspect`:
 

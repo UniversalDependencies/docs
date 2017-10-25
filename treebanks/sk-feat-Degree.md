@@ -18,7 +18,7 @@ The feature is used with 2 part-of-speech tags: <tt><a href="sk-pos-ADJ.html">AD
 
 9061 <tt><a href="sk-pos-ADJ.html">ADJ</a></tt> tokens (96% of all `ADJ` tokens) have a non-empty value of `Degree`.
 
-The most frequent other feature values with which `ADJ` and `Degree` co-occurred: <tt><a href="sk-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (7864; 87%), <tt><a href="sk-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (7864; 87%), <tt><a href="sk-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (7864; 87%), <tt><a href="sk-feat-Number.html">Number</a></tt><tt>=Sing</tt> (6578; 73%), <tt><a href="sk-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (5319; 59%).
+The most frequent other feature values with which `ADJ` and `Degree` co-occurred: <tt><a href="sk-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (7864; 87%), <tt><a href="sk-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (7864; 87%), <tt><a href="sk-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (7864; 87%), <tt><a href="sk-feat-Number.html">Number</a></tt><tt>=Sing</tt> (6578; 73%), <tt><a href="sk-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (5319; 59%).
 
 `ADJ` tokens may have the following values of `Degree`:
 
@@ -99,5 +99,5 @@ The 10 most frequent relations where parent and child node agree in `Degree`:
 <tt>ADV --[<tt><a href="sk-dep-orphan.html">orphan</a></tt>]--> ADV</tt> (5; 83%),
 <tt>ADJ --[<tt><a href="sk-dep-appos.html">appos</a></tt>]--> ADJ</tt> (4; 100%),
 <tt>ADJ --[<tt><a href="sk-dep-nsubj.html">nsubj</a></tt>]--> ADJ</tt> (3; 75%),
-<tt>ADJ --[<tt><a href="sk-dep-advcl.html">advcl</a></tt>]--> ADJ</tt> (2; 67%).
+<tt>ADJ --[<tt><a href="sk-dep-csubj.html">csubj</a></tt>]--> ADJ</tt> (2; 100%).
 

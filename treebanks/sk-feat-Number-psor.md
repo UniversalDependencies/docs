@@ -20,7 +20,7 @@ The feature is used with 1 part-of-speech tags: <tt><a href="sk-pos-DET.html">DE
 
 931 <tt><a href="sk-pos-DET.html">DET</a></tt> tokens (21% of all `DET` tokens) have a non-empty value of `Number[psor]`.
 
-The most frequent other feature values with which `DET` and `Number[psor]` co-occurred: <tt><a href="sk-feat-Poss.html">Poss</a></tt><tt>=Yes</tt> (931; 100%), <tt><a href="sk-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (931; 100%), <tt><a href="sk-feat-Number.html">Number</a></tt><tt>=Sing</tt> (718; 77%), <tt><a href="sk-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (552; 59%).
+The most frequent other feature values with which `DET` and `Number[psor]` co-occurred: <tt><a href="sk-feat-Poss.html">Poss</a></tt><tt>=Yes</tt> (931; 100%), <tt><a href="sk-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (931; 100%), <tt><a href="sk-feat-Number.html">Number</a></tt><tt>=Sing</tt> (718; 77%), <tt><a href="sk-feat-Person.html">Person</a></tt><tt>=3</tt> (574; 62%), <tt><a href="sk-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (552; 59%).
 
 `DET` tokens may have the following values of `Number[psor]`:
 

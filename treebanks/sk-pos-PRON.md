@@ -61,11 +61,11 @@ The 2nd highest number of forms (13) was observed with the lemma “ona”: <em>
 
 The 3rd highest number of forms (13) was observed with the lemma “ono”: <em>ho, ich, im, mu, ne, neho, nemu, nich, nim, nimi, ním, ono, ňom</em>.
 
-`PRON` occurs with 8 features: <tt><a href="sk-feat-PronType.html">PronType</a></tt> (6450; 100% instances), <tt><a href="sk-feat-Case.html">Case</a></tt> (3478; 54% instances), <tt><a href="sk-feat-Number.html">Number</a></tt> (3478; 54% instances), <tt><a href="sk-feat-Reflex.html">Reflex</a></tt> (3080; 48% instances), <tt><a href="sk-feat-Gender.html">Gender</a></tt> (2082; 32% instances), <tt><a href="sk-feat-Animacy.html">Animacy</a></tt> (1025; 16% instances), <tt><a href="sk-feat-AdpType.html">AdpType</a></tt> (54; 1% instances), <tt><a href="sk-feat-Typo.html">Typo</a></tt> (3; 0% instances)
+`PRON` occurs with 9 features: <tt><a href="sk-feat-PronType.html">PronType</a></tt> (6450; 100% instances), <tt><a href="sk-feat-Case.html">Case</a></tt> (3478; 54% instances), <tt><a href="sk-feat-Number.html">Number</a></tt> (3478; 54% instances), <tt><a href="sk-feat-Reflex.html">Reflex</a></tt> (3080; 48% instances), <tt><a href="sk-feat-Person.html">Person</a></tt> (2698; 42% instances), <tt><a href="sk-feat-Gender.html">Gender</a></tt> (2082; 32% instances), <tt><a href="sk-feat-Animacy.html">Animacy</a></tt> (1025; 16% instances), <tt><a href="sk-feat-AdpType.html">AdpType</a></tt> (54; 1% instances), <tt><a href="sk-feat-Typo.html">Typo</a></tt> (3; 0% instances)
 
-`PRON` occurs with 21 feature-value pairs: `AdpType=Preppron`, `Animacy=Anim`, `Animacy=Inan`, `Case=Acc`, `Case=Dat`, `Case=Gen`, `Case=Ins`, `Case=Loc`, `Case=Nom`, `Gender=Fem`, `Gender=Masc`, `Gender=Neut`, `Number=Plur`, `Number=Sing`, `PronType=Ind`, `PronType=Int,Rel`, `PronType=Neg`, `PronType=Prs`, `PronType=Tot`, `Reflex=Yes`, `Typo=Yes`
+`PRON` occurs with 24 feature-value pairs: `AdpType=Preppron`, `Animacy=Anim`, `Animacy=Inan`, `Case=Acc`, `Case=Dat`, `Case=Gen`, `Case=Ins`, `Case=Loc`, `Case=Nom`, `Gender=Fem`, `Gender=Masc`, `Gender=Neut`, `Number=Plur`, `Number=Sing`, `Person=1`, `Person=2`, `Person=3`, `PronType=Ind`, `PronType=Int,Rel`, `PronType=Neg`, `PronType=Prs`, `PronType=Tot`, `Reflex=Yes`, `Typo=Yes`
 
-`PRON` occurs with 108 feature combinations.
+`PRON` occurs with 125 feature combinations.
 The most frequent feature combination is `PronType=Prs|Reflex=Yes` (2970 tokens).
 Examples: <em>sa, si, se</em>
 

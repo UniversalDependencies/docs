@@ -24,7 +24,7 @@ The following 2 pairs of parts of speech are connected with `flat`: <tt><a href=
 # visual-style 8	fgColor:white
 # visual-style 8 10 flat	color:blue
 1	Okolo	okolo	ADP	Eu2	AdpType=Prep|Case=Gen	2	case	_	_
-2	neho	ono	PRON	PFns2	Case=Gen|Gender=Neut|Number=Sing|PronType=Prs	4	obl	_	_
+2	neho	ono	PRON	PFns2	Case=Gen|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	obl	_	_
 3	neskôr	neskôr	ADV	Dx	Degree=Pos	4	advmod	_	_
 4	vyrástlo	vyrásť	VERB	VLdscn+	Aspect=Perf|Gender=Neut|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part	0	root	_	_
 5	nové	nový	ADJ	AAns1x	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	6	amod	_	_
@@ -44,7 +44,7 @@ The following 2 pairs of parts of speech are connected with `flat`: <tt><a href=
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 3 flat	color:blue
-1	On	on	PRON	PFms1:r	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|PronType=Prs	6	nsubj	_	_
+1	On	on	PRON	PFms1:r	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	_
 2	–	–	PUNCT	Z	_	3	punct	_	_
 3	Kristus	kristus	PROPN	SSms1:r	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	1	flat	_	_
 4	je	byť	AUX	VKesc+	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	6	cop	_	_

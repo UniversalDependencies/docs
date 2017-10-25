@@ -48,7 +48,7 @@ The most frequent other feature values with which `NOUN` and `Gender` co-occurre
 
 9472 <tt><a href="sk-pos-ADJ.html">ADJ</a></tt> tokens (100% of all `ADJ` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `ADJ` and `Gender` co-occurred: <tt><a href="sk-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (8738; 92%), <tt><a href="sk-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (8281; 87%), <tt><a href="sk-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (8276; 87%), <tt><a href="sk-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (8276; 87%), <tt><a href="sk-feat-Number.html">Number</a></tt><tt>=Sing</tt> (6934; 73%), <tt><a href="sk-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (5503; 58%).
+The most frequent other feature values with which `ADJ` and `Gender` co-occurred: <tt><a href="sk-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (8738; 92%), <tt><a href="sk-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (8281; 87%), <tt><a href="sk-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (8276; 87%), <tt><a href="sk-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (8276; 87%), <tt><a href="sk-feat-Number.html">Number</a></tt><tt>=Sing</tt> (6934; 73%), <tt><a href="sk-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (5503; 58%).
 
 `ADJ` tokens may have the following values of `Gender`:
 
@@ -109,7 +109,7 @@ The most frequent other feature values with which `ADJ` and `Gender` co-occurred
 
 9001 <tt><a href="sk-pos-VERB.html">VERB</a></tt> tokens (64% of all `VERB` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `VERB` and `Gender` co-occurred: <tt><a href="sk-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (9000; 100%), <tt><a href="sk-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (9000; 100%), <tt><a href="sk-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (8999; 100%), <tt><a href="sk-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (8999; 100%), <tt><a href="sk-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (8311; 92%), <tt><a href="sk-feat-Number.html">Number</a></tt><tt>=Sing</tt> (7791; 87%), <tt><a href="sk-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (5437; 60%).
+The most frequent other feature values with which `VERB` and `Gender` co-occurred: <tt><a href="sk-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (9000; 100%), <tt><a href="sk-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (9000; 100%), <tt><a href="sk-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (8999; 100%), <tt><a href="sk-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (8999; 100%), <tt><a href="sk-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (8311; 92%), <tt><a href="sk-feat-Number.html">Number</a></tt><tt>=Sing</tt> (7791; 87%), <tt><a href="sk-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (5437; 60%).
 
 `VERB` tokens may have the following values of `Gender`:
 
@@ -162,7 +162,7 @@ The most frequent other feature values with which `PROPN` and `Gender` co-occurr
 
 4394 <tt><a href="sk-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `DET` and `Gender` co-occurred: <tt><a href="sk-feat-Gender-psor.html">Gender[psor]</a></tt><tt>=EMPTY</tt> (3916; 89%), <tt><a href="sk-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (3467; 79%), <tt><a href="sk-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3450; 79%), <tt><a href="sk-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (3141; 71%), <tt><a href="sk-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (2873; 65%).
+The most frequent other feature values with which `DET` and `Gender` co-occurred: <tt><a href="sk-feat-Gender-psor.html">Gender[psor]</a></tt><tt>=EMPTY</tt> (3916; 89%), <tt><a href="sk-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (3467; 79%), <tt><a href="sk-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (3467; 79%), <tt><a href="sk-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3450; 79%), <tt><a href="sk-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (3141; 71%), <tt><a href="sk-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (2873; 65%).
 
 `DET` tokens may have the following values of `Gender`:
 
@@ -214,7 +214,7 @@ The most frequent other feature values with which `DET` and `Gender` co-occurred
 
 2082 <tt><a href="sk-pos-PRON.html">PRON</a></tt> tokens (32% of all `PRON` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `PRON` and `Gender` co-occurred: <tt><a href="sk-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (2082; 100%), <tt><a href="sk-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1785; 86%), <tt><a href="sk-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (1466; 70%), <tt><a href="sk-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (1057; 51%).
+The most frequent other feature values with which `PRON` and `Gender` co-occurred: <tt><a href="sk-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (2082; 100%), <tt><a href="sk-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1785; 86%), <tt><a href="sk-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (1466; 70%), <tt><a href="sk-feat-Person.html">Person</a></tt><tt>=3</tt> (1407; 68%), <tt><a href="sk-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (1057; 51%).
 
 `PRON` tokens may have the following values of `Gender`:
 
@@ -225,7 +225,7 @@ The most frequent other feature values with which `PRON` and `Gender` co-occurre
 
 <table>
   <tr><th>Paradigm <i>on</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>
-  <tr><td><tt><tt><a href="sk-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt>|<tt><a href="sk-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="sk-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>ho, Jeho, neho</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="sk-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt>|<tt><a href="sk-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="sk-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>ho, neho, Jeho</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="sk-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt>|<tt><a href="sk-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="sk-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>ich, nich</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="sk-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt>|<tt><a href="sk-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="sk-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>mu, nemu, jemu</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="sk-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt>|<tt><a href="sk-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="sk-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>im, nim</em></td><td></td><td></td></tr>
@@ -258,7 +258,7 @@ The most frequent other feature values with which `PRON` and `Gender` co-occurre
 
 731 <tt><a href="sk-pos-AUX.html">AUX</a></tt> tokens (20% of all `AUX` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `AUX` and `Gender` co-occurred: <tt><a href="sk-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (731; 100%), <tt><a href="sk-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (731; 100%), <tt><a href="sk-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (731; 100%), <tt><a href="sk-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (731; 100%), <tt><a href="sk-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (730; 100%), <tt><a href="sk-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (676; 92%), <tt><a href="sk-feat-Number.html">Number</a></tt><tt>=Sing</tt> (615; 84%).
+The most frequent other feature values with which `AUX` and `Gender` co-occurred: <tt><a href="sk-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (731; 100%), <tt><a href="sk-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (731; 100%), <tt><a href="sk-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (731; 100%), <tt><a href="sk-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (731; 100%), <tt><a href="sk-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (730; 100%), <tt><a href="sk-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (676; 92%), <tt><a href="sk-feat-Number.html">Number</a></tt><tt>=Sing</tt> (615; 84%).
 
 `AUX` tokens may have the following values of `Gender`:
 
@@ -320,7 +320,7 @@ The most frequent other feature values with which `NUM` and `Gender` co-occurred
 
 34 <tt><a href="sk-pos-ADV.html">ADV</a></tt> tokens (1% of all `ADV` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `ADV` and `Gender` co-occurred: <tt><a href="sk-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (34; 100%), <tt><a href="sk-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (34; 100%).
+The most frequent other feature values with which `ADV` and `Gender` co-occurred: <tt><a href="sk-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (34; 100%), <tt><a href="sk-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (34; 100%).
 
 `ADV` tokens may have the following values of `Gender`:
 
@@ -331,7 +331,7 @@ The most frequent other feature values with which `ADV` and `Gender` co-occurred
 
 1 <tt><a href="sk-pos-X.html">X</a></tt> tokens (0% of all `X` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `X` and `Gender` co-occurred: <tt><a href="sk-feat-Foreign.html">Foreign</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="sk-feat-Abbr.html">Abbr</a></tt><tt>=Yes</tt> (1; 100%), <tt><a href="sk-feat-Hyph.html">Hyph</a></tt><tt>=EMPTY</tt> (1; 100%).
+The most frequent other feature values with which `X` and `Gender` co-occurred: <tt><a href="sk-feat-Hyph.html">Hyph</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="sk-feat-Foreign.html">Foreign</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="sk-feat-Abbr.html">Abbr</a></tt><tt>=Yes</tt> (1; 100%).
 
 `X` tokens may have the following values of `Gender`:
 

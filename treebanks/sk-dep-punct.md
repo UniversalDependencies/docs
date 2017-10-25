@@ -61,7 +61,7 @@ The following 16 pairs of parts of speech are connected with `punct`: <tt><a hre
 # visual-style 9	fgColor:white
 # visual-style 9 1 punct	color:blue
 1	"	"	PUNCT	ZIP	_	9	punct	_	SpaceAfter=No
-2	Naša	náš	DET	PFfs1	Case=Nom|Gender=Fem|Number=Sing|Number[psor]=Plur|Poss=Yes|PronType=Prs	3	det	_	_
+2	Naša	náš	DET	PFfs1	Case=Nom|Gender=Fem|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs	3	det	_	_
 3	mačka	mačka	NOUN	SSfs1	Case=Nom|Gender=Fem|Number=Sing	9	nsubj	_	_
 4	je	byť	AUX	VKesc+	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	9	cop	_	_
 5	už	už	PART	T	_	6	advmod:emph	_	_

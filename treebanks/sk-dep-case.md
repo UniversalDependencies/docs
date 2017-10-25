@@ -62,7 +62,7 @@ The following 19 pairs of parts of speech are connected with `case`: <tt><a href
 7	kalamity	kalamita	NOUN	SSfs2	Case=Gen|Gender=Fem|Number=Sing	2	obl	_	_
 8	aj	aj	CCONJ	O	_	10	cc	_	_
 9	po	po	ADP	Eu6	AdpType=Prep|Case=Loc	10	case	_	_
-10	nej	ona	PRON	PFfs6	Case=Loc|Gender=Fem|Number=Sing|PronType=Prs	7	conj	_	SpaceAfter=No
+10	nej	ona	PRON	PFfs6	Case=Loc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	7	conj	_	SpaceAfter=No
 11	.	.	PUNCT	ZIP	_	2	punct	_	_
 
 ~~~

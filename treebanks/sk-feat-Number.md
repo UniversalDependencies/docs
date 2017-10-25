@@ -40,7 +40,7 @@ The most frequent other feature values with which `NOUN` and `Number` co-occurre
 
 12772 <tt><a href="sk-pos-VERB.html">VERB</a></tt> tokens (91% of all `VERB` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="sk-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (11611; 91%), <tt><a href="sk-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (9302; 73%), <tt><a href="sk-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (9302; 73%), <tt><a href="sk-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (9302; 73%), <tt><a href="sk-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (9302; 73%), <tt><a href="sk-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (7662; 60%), <tt><a href="sk-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (6491; 51%).
+The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="sk-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (11611; 91%), <tt><a href="sk-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (9302; 73%), <tt><a href="sk-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (9302; 73%), <tt><a href="sk-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (9302; 73%), <tt><a href="sk-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (9302; 73%), <tt><a href="sk-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (7662; 60%), <tt><a href="sk-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (6491; 51%).
 
 `VERB` tokens may have the following values of `Number`:
 
@@ -151,7 +151,7 @@ The most frequent other feature values with which `PROPN` and `Number` co-occurr
 
 4404 <tt><a href="sk-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="sk-feat-Gender-psor.html">Gender[psor]</a></tt><tt>=EMPTY</tt> (3924; 89%), <tt><a href="sk-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (3473; 79%), <tt><a href="sk-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (3147; 71%), <tt><a href="sk-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (2883; 65%).
+The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="sk-feat-Gender-psor.html">Gender[psor]</a></tt><tt>=EMPTY</tt> (3924; 89%), <tt><a href="sk-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (3473; 79%), <tt><a href="sk-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (3473; 79%), <tt><a href="sk-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (3147; 71%), <tt><a href="sk-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (2883; 65%).
 
 `DET` tokens may have the following values of `Number`:
 
@@ -293,7 +293,7 @@ The most frequent other feature values with which `ADV` and `Number` co-occurred
 
 1 <tt><a href="sk-pos-X.html">X</a></tt> tokens (0% of all `X` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `X` and `Number` co-occurred: <tt><a href="sk-feat-Abbr.html">Abbr</a></tt><tt>=Yes</tt> (1; 100%), <tt><a href="sk-feat-Foreign.html">Foreign</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="sk-feat-Hyph.html">Hyph</a></tt><tt>=EMPTY</tt> (1; 100%).
+The most frequent other feature values with which `X` and `Number` co-occurred: <tt><a href="sk-feat-Hyph.html">Hyph</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="sk-feat-Abbr.html">Abbr</a></tt><tt>=Yes</tt> (1; 100%), <tt><a href="sk-feat-Foreign.html">Foreign</a></tt><tt>=EMPTY</tt> (1; 100%).
 
 `X` tokens may have the following values of `Number`:
 

@@ -18,7 +18,7 @@ The feature is used with 3 part-of-speech tags: <tt><a href="sk-pos-VERB.html">V
 
 14057 <tt><a href="sk-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="sk-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (12882; 92%), <tt><a href="sk-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (10587; 75%), <tt><a href="sk-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (10587; 75%), <tt><a href="sk-feat-Number.html">Number</a></tt><tt>=Sing</tt> (10392; 74%), <tt><a href="sk-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (9302; 66%), <tt><a href="sk-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (8947; 64%), <tt><a href="sk-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (7134; 51%).
+The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="sk-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (12882; 92%), <tt><a href="sk-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (10587; 75%), <tt><a href="sk-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (10587; 75%), <tt><a href="sk-feat-Number.html">Number</a></tt><tt>=Sing</tt> (10392; 74%), <tt><a href="sk-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (9302; 66%), <tt><a href="sk-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (8947; 64%), <tt><a href="sk-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (7134; 51%).
 
 `VERB` tokens may have the following values of `VerbForm`:
 

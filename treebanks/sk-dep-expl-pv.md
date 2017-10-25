@@ -24,7 +24,7 @@ The following 3 pairs of parts of speech are connected with `expl:pv`: <tt><a hr
 # visual-style 5	fgColor:white
 # visual-style 5 4 expl:pv	color:blue
 1	Do	do	ADP	Eu2	AdpType=Prep|Case=Gen	3	case	_	_
-2	vašej	váš	DET	PFfs2	Case=Gen|Gender=Fem|Number=Sing|Number[psor]=Plur|Poss=Yes|PronType=Prs	3	det	_	_
+2	vašej	váš	DET	PFfs2	Case=Gen|Gender=Fem|Number=Sing|Number[psor]=Plur|Person=2|Poss=Yes|PronType=Prs	3	det	_	_
 3	duše	duša	NOUN	SSfs2	Case=Gen|Gender=Fem|Number=Sing	5	obl	_	_
 4	sa	sa	PRON	R	PronType=Prs|Reflex=Yes	5	expl:pv	_	_
 5	vkráda	vkrádať	VERB	VKesc+	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	0	root	_	_

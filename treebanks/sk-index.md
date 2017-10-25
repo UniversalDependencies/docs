@@ -598,18 +598,24 @@ subset and conversion to Universal Dependencies was done by Dan Zeman.
     <li>1
       <ul>
         <li>AUX-Fin: som, sme, budeme, budem, nebudem, Buďme, nebudeme, niesme</li>
+        <li>DET: môj, moja, moje, môjho, mojich, naše, náš, našej, mojej, moju</li>
+        <li>PRON: mi, ma, ja, mňa, nás, mne, mnou, nám, my, nami</li>
         <li>VERB-Fin: mám, musím, chcem, neviem, máme, ďakujem, som, viem, nemám, nemôžem</li>
       </ul>
     </li>
     <li>2
       <ul>
         <li>AUX-Fin: si, ste, budeš, budete, buďte, Nebudete, Nebuď, nebudeš</li>
+        <li>DET: tvoj, vaše, tvoje, tvoja, tvojho, vaša, tvojím, vašej, vašu, Tvojej</li>
+        <li>PRON: ťa, ty, ti, vás, vám, teba, vy, tebou, tebe, vami</li>
         <li>VERB-Fin: máš, chceš, si, pozri, máte, poď, musíš, nemôžeš, počkajte, chcete</li>
       </ul>
     </li>
     <li>3
       <ul>
         <li>AUX-Fin: je, sú, bude, budú, nebude, má, býva, majú, nebudú, nebýva</li>
+        <li>DET: jeho, jej, ich</li>
+        <li>PRON: ho, mu, ju, jej, ich, nich, im, nej, ním, ona</li>
         <li>VERB-Fin: je, má, ide, môže, musí, majú, sú, znamená, pripraví, vytvorí</li>
       </ul>
     </li>

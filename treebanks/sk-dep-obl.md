@@ -43,7 +43,7 @@ The following 35 pairs of parts of speech are connected with `obl`: <tt><a href=
 # visual-style 4 3 obl	color:blue
 1	Spolu	spolu	ADP	Eu7	AdpType=Prep|Case=Ins	3	case	_	_
 2	s	s	ADP	Eu7	AdpType=Prep|Case=Ins	1	fixed	_	_
-3	ním	on	PRON	PFms7	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing|PronType=Prs	4	obl	_	_
+3	ním	on	PRON	PFms7	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	obl	_	_
 4	padli	padnúť	VERB	VLdpcf+	Aspect=Perf|Gender=Fem|Number=Plur|Polarity=Pos|Tense=Past|VerbForm=Part	0	root	_	_
 5	dve	dva	NUM	NNfp1	Case=Nom|Gender=Fem|Number=Plur	6	nummod	_	_
 6	tretiny	tretina	NOUN	SSfp1	Case=Nom|Gender=Fem|Number=Plur	4	nsubj	_	_
@@ -60,7 +60,7 @@ The following 35 pairs of parts of speech are connected with `obl`: <tt><a href=
 # visual-style 9	fgColor:white
 # visual-style 9 7 obl	color:blue
 1	"	"	PUNCT	ZIP	_	9	punct	_	SpaceAfter=No
-2	Naša	náš	DET	PFfs1	Case=Nom|Gender=Fem|Number=Sing|Number[psor]=Plur|Poss=Yes|PronType=Prs	3	det	_	_
+2	Naša	náš	DET	PFfs1	Case=Nom|Gender=Fem|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs	3	det	_	_
 3	mačka	mačka	NOUN	SSfs1	Case=Nom|Gender=Fem|Number=Sing	9	nsubj	_	_
 4	je	byť	AUX	VKesc+	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	9	cop	_	_
 5	už	už	PART	T	_	6	advmod:emph	_	_

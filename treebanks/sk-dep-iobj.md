@@ -23,7 +23,7 @@ The following 7 pairs of parts of speech are connected with `iobj`: <tt><a href=
 # visual-style 3	fgColor:white
 # visual-style 3 2 iobj	color:blue
 1	Filónoé	filónoé	PROPN	SUfs1:r	Case=Nom|Gender=Fem|Number=Sing	3	nsubj	_	_
-2	mu	on	PRON	PFms3	Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing|PronType=Prs	3	iobj	_	_
+2	mu	on	PRON	PFms3	Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	iobj	_	_
 3	porodila	porodiť	VERB	VLdscf+	Aspect=Perf|Gender=Fem|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part	0	root	_	_
 4	tri	tri	NUM	NNnp4	Case=Acc|Gender=Neut|Number=Plur	5	nummod	_	_
 5	deti	dieťa	NOUN	SSnp4	Case=Acc|Gender=Neut|Number=Plur	3	obj	_	SpaceAfter=No
@@ -49,7 +49,7 @@ The following 7 pairs of parts of speech are connected with `iobj`: <tt><a href=
 3	Božie	boží	ADJ	AAns4x:r	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	4	amod	_	_
 4	slovo	slovo	NOUN	SSns4	Case=Acc|Gender=Neut|Number=Sing	2	obj	_	_
 5	a	a	CCONJ	O	_	7	cc	_	_
-6	jeho	jeho	DET	PUfs4	Case=Acc|Gender=Fem|Gender[psor]=Masc,Neut|Number=Sing|Number[psor]=Sing|Poss=Yes|PronType=Prs	7	det	_	_
+6	jeho	jeho	DET	PUfs4	Case=Acc|Gender=Fem|Gender[psor]=Masc,Neut|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	7	det	_	_
 7	vôľu	vôľa	NOUN	SSfs4	Case=Acc|Gender=Fem|Number=Sing	4	conj	_	_
 8	ľuďom	človek	NOUN	SSmp3	Animacy=Anim|Case=Dat|Gender=Masc|Number=Plur	2	iobj	_	SpaceAfter=No
 9	.	.	PUNCT	Z	_	2	punct	_	_
@@ -71,7 +71,7 @@ The following 7 pairs of parts of speech are connected with `iobj`: <tt><a href=
 6	prihovárá	prihovárať	VERB	VKesc+:q	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|Typo=Yes|VerbForm=Fin	1	conj	_	_
 7	sa	sa	PRON	R	PronType=Prs|Reflex=Yes	6	expl:pv	_	_
 8	za	za	ADP	Eu4	AdpType=Prep|Case=Acc	9	case	_	_
-9	ne	ona	PRON	PFfp4	Case=Acc|Gender=Fem|Number=Plur|PronType=Prs	6	obl:arg	_	SpaceAfter=No
+9	ne	ona	PRON	PFfp4	Case=Acc|Gender=Fem|Number=Plur|Person=3|PronType=Prs	6	obl:arg	_	SpaceAfter=No
 10	.	.	PUNCT	Z	_	1	punct	_	_
 
 ~~~

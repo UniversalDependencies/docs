@@ -31,6 +31,6 @@ The most frequent other feature values with which `X` and `Abbr` co-occurred: <t
 
 The 10 most frequent relations where parent and child node agree in `Abbr`:
 <tt>X --[<tt><a href="sk-dep-nmod.html">nmod</a></tt>]--> X</tt> (15; 94%),
-<tt>X --[<tt><a href="sk-dep-dep.html">dep</a></tt>]--> X</tt> (2; 100%),
-<tt>X --[<tt><a href="sk-dep-conj.html">conj</a></tt>]--> X</tt> (2; 67%).
+<tt>X --[<tt><a href="sk-dep-conj.html">conj</a></tt>]--> X</tt> (2; 67%),
+<tt>X --[<tt><a href="sk-dep-dep.html">dep</a></tt>]--> X</tt> (2; 100%).
 
