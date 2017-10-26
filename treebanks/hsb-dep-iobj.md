@@ -54,31 +54,44 @@ The following 5 pairs of parts of speech are connected with `iobj`: <tt><a href=
 
 
 ~~~ conllu
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 11	bgColor:blue
-# visual-style 11	fgColor:white
-# visual-style 11 10 iobj	color:blue
-1	Po	po	ADP	_	_	2	case	_	_
-2	tym	to	PRON	_	Case=Loc|Gender=Neut|Number=Sing|PronType=Dem	13	obl	_	_
-3	zo	zo	SCONJ	_	_	11	mark	_	_
-4	wona	wón	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	11	nsubj	_	_
-5	bě	być	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	11	cop	_	_
-6	přez	přez	ADP	_	_	8	case	_	_
-7	pjatnaće	pjatnaće	NUM	_	NumType=Card	8	nummod:gov	_	_
-8	lětow	lěto	NOUN	_	Case=Gen|Gender=Neut|Number=Plur	11	nmod	_	_
-9	Ludowemu	ludowy	ADJ	_	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	10	amod	_	_
-10	zwjazkej	zwjazk	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	11	iobj	_	_
-11	podstajena	podstajeny	ADJ	_	Case=Nom|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass	2	acl	_	SpaceAfter=No
-12	,	,	PUNCT	_	_	11	punct	_	_
-13	wróćiła	wróćić	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	_
-14	w	w	ADP	_	_	15	case	_	_
-15	lětu	lěto	NOUN	_	Case=Loc|Gender=Neut|Number=Sing	13	obl	_	_
-16	1935	1935	NUM	_	NumType=Card	15	nummod	_	_
-17	do	do	ADP	_	_	19	case	_	_
-18	Němskeho	němski	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	19	amod	_	_
-19	reicha	reich	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	13	obl	_	SpaceAfter=No
-20	.	.	PUNCT	_	_	13	punct	_	_
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 5 iobj	color:blue
+1	Woni	wón	PRON	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur|Person=3|PronType=Prs	3	nsubj	_	_
+2	su	być	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+3	wužiwarjo	wužiwar	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	0	root	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	7	punct	_	_
+5	kotrymž	kotryž	DET	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Plur|PronType=Rel	7	iobj	_	_
+6	so	so	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	7	expl:pass	_	_
+7	dowěrja	dowěrjeć	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	xcomp	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	32	punct	_	_
+9	zo	zo	SCONJ	_	_	32	mark	_	_
+10	budu	być	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	32	aux	_	_
+11	swoje	swój	DET	_	Case=Acc|Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs|Reflex=Yes	13	det	_	_
+12	rozšěrjene	rozšěrjeny	ADJ	_	Case=Acc|Gender=Fem|Number=Plur|VerbForm=Part|Voice=Pass	13	amod	_	_
+13	funkcije	funkcija	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	32	obj	_	_
+14	(	(	PUNCT	_	_	16	punct	_	SpaceAfter=No
+15	strony	strona	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	16	obj	_	_
+16	wušmórnyć	wušmórnyć	VERB	_	VerbForm=Inf	13	appos	_	SpaceAfter=No
+17	,	,	PUNCT	_	_	19	punct	_	_
+18	strony	strona	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	19	obj	_	_
+19	škitać	škitać	VERB	_	VerbForm=Inf	16	conj	_	_
+20	a	a	CCONJ	_	_	24	cc	_	_
+21	jich	jich	DET	_	Number[psor]=Plur|Person=3|Poss=Yes|PronType=Prs	22	det	_	_
+22	škit	škit	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	24	obj	_	_
+23	zaso	zaso	ADV	_	_	24	advmod	_	_
+24	zběhnyć	zběhnyć	VERB	_	VerbForm=Inf	16	conj	_	SpaceAfter=No
+25	,	,	PUNCT	_	_	27	punct	_	_
+26	wužiwarjow	wužiwar	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur	27	obj	_	_
+27	blokować	blokować	VERB	_	VerbForm=Inf	16	conj	_	SpaceAfter=No
+28	)	)	PUNCT	_	_	16	punct	_	_
+29	na	na	ADP	_	_	30	case	_	_
+30	dobro	dobro	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	32	obl	_	_
+31	projekta	projekt	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	30	nmod	_	_
+32	wužiwać	wužiwać	VERB	_	VerbForm=Inf	7	ccomp	_	SpaceAfter=No
+33	.	.	PUNCT	_	_	3	punct	_	_
 
 ~~~
 

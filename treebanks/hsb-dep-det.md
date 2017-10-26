@@ -37,38 +37,6 @@ The following 3 pairs of parts of speech are connected with `det`: <tt><a href="
 
 
 ~~~ conllu
-# visual-style 15	bgColor:blue
-# visual-style 15	fgColor:white
-# visual-style 21	bgColor:blue
-# visual-style 21	fgColor:white
-# visual-style 21 15 det	color:blue
-1	Kruta	kruty	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	2	amod	_	_
-2	faza	faza	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	5	nsubj	_	_
-3	je	być	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
-4	mjenje	mało	ADV	_	Degree=Cmp|NumType=Card|PronType=Ind	5	advmod	_	_
-5	husta	husty	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
-6	hač	hač	SCONJ	_	_	8	case	_	_
-7	kapalna	kapalny	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	8	amod	_	_
-8	woda	woda	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	5	nmod	_	SpaceAfter=No
-9	,	,	PUNCT	_	_	11	punct	_	_
-10	dla	dla	ADP	_	_	11	case	_	_
-11	geometrije	geometrija	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	5	nmod	_	_
-12	sylnych	sylny	ADJ	_	Case=Gen|Gender=Fem|Number=Plur	14	amod	_	_
-13	wodźikowych	wodźikowy	ADJ	_	Case=Gen|Gender=Fem|Number=Plur	14	amod	_	_
-14	wjazbow	wjazba	NOUN	_	Case=Gen|Gender=Fem|Number=Plur	11	nmod	_	_
-15	kotrež	kotryž	DET	_	Case=Nom|Gender=Fem|Number=Plur|PronType=Rel	21	det	_	_
-16	so	so	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	21	expl:pass	_	_
-17	jenož	jenož	PART	_	_	20	advmod:emph	_	_
-18	při	při	ADP	_	_	20	case	_	_
-19	niskich	niski	ADJ	_	Case=Loc|Gender=Fem|Number=Plur	20	amod	_	_
-20	temperaturach	temperatura	NOUN	_	Case=Loc|Gender=Fem|Number=Plur	21	obl	_	_
-21	zdźěłuja	zdźěłować	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	14	acl	_	SpaceAfter=No
-22	.	.	PUNCT	_	_	5	punct	_	_
-
-~~~
-
-
-~~~ conllu
 # visual-style 19	bgColor:blue
 # visual-style 19	fgColor:white
 # visual-style 20	bgColor:blue
@@ -97,6 +65,38 @@ The following 3 pairs of parts of speech are connected with `det`: <tt><a href="
 21	platach	plata	NOUN	_	Case=Loc|Gender=Fem|Number=Plur	15	conj	_	_
 22	leža	ležeć	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	9	advcl	_	SpaceAfter=No
 23	.	.	PUNCT	_	_	9	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 15	bgColor:blue
+# visual-style 15	fgColor:white
+# visual-style 21	bgColor:blue
+# visual-style 21	fgColor:white
+# visual-style 21 15 det	color:blue
+1	Kruta	kruty	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	2	amod	_	_
+2	faza	faza	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	5	nsubj	_	_
+3	je	być	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+4	mjenje	mało	ADV	_	Degree=Cmp|NumType=Card|PronType=Ind	5	advmod	_	_
+5	husta	husty	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
+6	hač	hač	SCONJ	_	_	8	case	_	_
+7	kapalna	kapalny	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	8	amod	_	_
+8	woda	woda	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	5	nmod	_	SpaceAfter=No
+9	,	,	PUNCT	_	_	11	punct	_	_
+10	dla	dla	ADP	_	_	11	case	_	_
+11	geometrije	geometrija	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	5	nmod	_	_
+12	sylnych	sylny	ADJ	_	Case=Gen|Gender=Fem|Number=Plur	14	amod	_	_
+13	wodźikowych	wodźikowy	ADJ	_	Case=Gen|Gender=Fem|Number=Plur	14	amod	_	_
+14	wjazbow	wjazba	NOUN	_	Case=Gen|Gender=Fem|Number=Plur	11	nmod	_	_
+15	kotrež	kotryž	DET	_	Case=Nom|Gender=Fem|Number=Plur|PronType=Rel	21	det	_	_
+16	so	so	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	21	expl:pass	_	_
+17	jenož	jenož	PART	_	_	20	advmod:emph	_	_
+18	při	při	ADP	_	_	20	case	_	_
+19	niskich	niski	ADJ	_	Case=Loc|Gender=Fem|Number=Plur	20	amod	_	_
+20	temperaturach	temperatura	NOUN	_	Case=Loc|Gender=Fem|Number=Plur	21	obl	_	_
+21	zdźěłuja	zdźěłować	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	14	acl	_	SpaceAfter=No
+22	.	.	PUNCT	_	_	5	punct	_	_
 
 ~~~
 

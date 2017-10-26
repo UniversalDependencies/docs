@@ -17,6 +17,28 @@ The following 2 pairs of parts of speech are connected with `goeswith:alt`: <tt>
 
 
 ~~~ conllu
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 5 goeswith:alt	color:blue
+1	Sy	być	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	3	cop	_	_
+2	wutrobnje	wutrobnje	ADV	_	Degree=Pos	3	advmod	_	_
+3	přeprošeny	přeprošeny	ADJ	_	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	0	root	_	SpaceAfter=No
+4	(	(	PUNCT	_	_	5	punct	_	SpaceAfter=No
+5	a	a	CCONJ	_	_	3	goeswith:alt	_	SpaceAfter=No
+6	)	)	PUNCT	_	_	5	punct	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	11	punct	_	_
+8	prašenja	prašenje	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	11	obj	_	_
+9	w	w	ADP	_	_	10	case	_	_
+10	korčmje	korčmja	NOUN	_	Case=Loc|Gender=Fem|Number=Sing	11	obl	_	_
+11	stajić	stajić	VERB	_	VerbForm=Inf	3	advcl	_	SpaceAfter=No
+12	.	.	PUNCT	_	_	3	punct	_	_
+
+~~~
+
+
+~~~ conllu
 # visual-style 9	bgColor:blue
 # visual-style 9	fgColor:white
 # visual-style 7	bgColor:blue
@@ -39,28 +61,6 @@ The following 2 pairs of parts of speech are connected with `goeswith:alt`: <tt>
 15	parameter	parameter	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	12	obj	_	_
 16	předłohi	předłoha	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	15	nmod	_	_
 17	.	.	PUNCT	_	_	12	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 5 goeswith:alt	color:blue
-1	Sy	być	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	3	cop	_	_
-2	wutrobnje	wutrobnje	ADV	_	Degree=Pos	3	advmod	_	_
-3	přeprošeny	přeprošeny	ADJ	_	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	0	root	_	SpaceAfter=No
-4	(	(	PUNCT	_	_	5	punct	_	SpaceAfter=No
-5	a	a	CCONJ	_	_	3	goeswith:alt	_	SpaceAfter=No
-6	)	)	PUNCT	_	_	5	punct	_	SpaceAfter=No
-7	,	,	PUNCT	_	_	11	punct	_	_
-8	prašenja	prašenje	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	11	obj	_	_
-9	w	w	ADP	_	_	10	case	_	_
-10	korčmje	korčmja	NOUN	_	Case=Loc|Gender=Fem|Number=Sing	11	obl	_	_
-11	stajić	stajić	VERB	_	VerbForm=Inf	3	advcl	_	SpaceAfter=No
-12	.	.	PUNCT	_	_	3	punct	_	_
 
 ~~~
 

@@ -31,7 +31,7 @@ The most frequent other feature values with which `VERB` and `Polarity` co-occur
 
 17 <tt><a href="hsb-pos-AUX.html">AUX</a></tt> tokens (6% of all `AUX` tokens) have a non-empty value of `Polarity`.
 
-The most frequent other feature values with which `AUX` and `Polarity` co-occurred: <tt><a href="hsb-feat-Person.html">Person</a></tt><tt>=3</tt> (17; 100%), <tt><a href="hsb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (17; 100%), <tt><a href="hsb-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (17; 100%), <tt><a href="hsb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (17; 100%), <tt><a href="hsb-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (16; 94%), <tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Plur</tt> (9; 53%).
+The most frequent other feature values with which `AUX` and `Polarity` co-occurred: <tt><a href="hsb-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (17; 100%), <tt><a href="hsb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (17; 100%), <tt><a href="hsb-feat-Person.html">Person</a></tt><tt>=3</tt> (17; 100%), <tt><a href="hsb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (17; 100%), <tt><a href="hsb-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (16; 94%), <tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Plur</tt> (9; 53%).
 
 `AUX` tokens may have the following values of `Polarity`:
 
@@ -42,7 +42,7 @@ The most frequent other feature values with which `AUX` and `Polarity` co-occurr
 
 10 <tt><a href="hsb-pos-ADJ.html">ADJ</a></tt> tokens (1% of all `ADJ` tokens) have a non-empty value of `Polarity`.
 
-The most frequent other feature values with which `ADJ` and `Polarity` co-occurred: <tt><a href="hsb-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (8; 80%), <tt><a href="hsb-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (8; 80%), <tt><a href="hsb-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (7; 70%), <tt><a href="hsb-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (7; 70%), <tt><a href="hsb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (7; 70%), <tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (6; 60%), <tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=Nom</tt> (6; 60%).
+The most frequent other feature values with which `ADJ` and `Polarity` co-occurred: <tt><a href="hsb-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (8; 80%), <tt><a href="hsb-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (8; 80%), <tt><a href="hsb-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (7; 70%), <tt><a href="hsb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (7; 70%), <tt><a href="hsb-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (7; 70%), <tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=Nom</tt> (6; 60%), <tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (6; 60%).
 
 `ADJ` tokens may have the following values of `Polarity`:
 

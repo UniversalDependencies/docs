@@ -112,7 +112,7 @@ The most frequent other feature values with which `PRON` and `Case` co-occurred:
 
 259 <tt><a href="hsb-pos-DET.html">DET</a></tt> tokens (88% of all `DET` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `DET` and `Case` co-occurred: <tt><a href="hsb-feat-Abbr.html">Abbr</a></tt><tt>=EMPTY</tt> (225; 87%), <tt><a href="hsb-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (216; 83%), <tt><a href="hsb-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (216; 83%), <tt><a href="hsb-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (187; 72%), <tt><a href="hsb-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (176; 68%), <tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (154; 59%).
+The most frequent other feature values with which `DET` and `Case` co-occurred: <tt><a href="hsb-feat-Abbr.html">Abbr</a></tt><tt>=EMPTY</tt> (225; 87%), <tt><a href="hsb-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (216; 83%), <tt><a href="hsb-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (216; 83%), <tt><a href="hsb-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (187; 72%), <tt><a href="hsb-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (176; 68%), <tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (154; 59%).
 
 `DET` tokens may have the following values of `Case`:
 
@@ -172,7 +172,7 @@ The 10 most frequent relations where parent and child node agree in `Case`:
 <tt>ADJ --[<tt><a href="hsb-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (75; 90%),
 <tt>ADJ --[<tt><a href="hsb-dep-conj.html">conj</a></tt>]--> ADJ</tt> (60; 97%),
 <tt>PROPN --[<tt><a href="hsb-dep-flat.html">flat</a></tt>]--> PROPN</tt> (49; 78%),
-<tt>PROPN --[<tt><a href="hsb-dep-amod.html">amod</a></tt>]--> ADJ</tt> (40; 100%),
 <tt>NOUN --[<tt><a href="hsb-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (40; 87%),
+<tt>PROPN --[<tt><a href="hsb-dep-amod.html">amod</a></tt>]--> ADJ</tt> (40; 100%),
 <tt>NOUN --[<tt><a href="hsb-dep-appos.html">appos</a></tt>]--> NOUN</tt> (32; 68%).
 

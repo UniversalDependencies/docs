@@ -87,60 +87,37 @@ The following 5 pairs of parts of speech are connected with `dep`: <tt><a href="
 
 
 ~~~ conllu
-# visual-style 47	bgColor:blue
-# visual-style 47	fgColor:white
-# visual-style 48	bgColor:blue
-# visual-style 48	fgColor:white
-# visual-style 48 47 dep	color:blue
-1	Dokelž	dokelž	SCONJ	_	_	16	mark	_	_
-2	ryby	ryba	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	16	nsubj	_	_
-3	w	w	ADP	_	_	5	case	_	_
-4	zmysle	zmysl	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	3	fixed	_	_
-5	kladistiki	kladistika	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	16	obl	_	_
-6	pak	pak	CCONJ	_	_	16	cc	_	_
-7	žadyn	žadyn	DET	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing|PronType=Neg	15	det	_	_
-8	monofyletiski	monofyletiski	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	15	amod	_	_
-9	(	(	PUNCT	_	_	13	punct	_	SpaceAfter=No
-10	z	z	ADP	_	_	12	case	_	_
-11	zhromadneho	zhromadny	ADJ	_	Case=Gen|Gender=Masc|Number=Sing	12	amod	_	_
-12	pochada	pochad	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	13	nmod	_	_
-13	nastaty	nastaty	ADJ	_	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	8	appos	_	SpaceAfter=No
-14	)	)	PUNCT	_	_	13	punct	_	_
-15	takson	takson	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	16	obj	_	_
-16	předstaja	předstajić	VERB	_	Animacy=Inan|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	26	advcl	_	SpaceAfter=No
-17	,	,	PUNCT	_	_	16	punct	_	_
-18	wone	wón	PRON	_	Case=Nom|Gender=Fem|Number=Plur|Person=3|PronType=Prs	26	nsubj	_	_
-19	buchu	być	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	26	cop	_	_
-20	w	w	ADP	_	_	22	case	_	_
-21	coologiskej	coologiski	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	22	amod	_	_
-22	systematice	systematika	NOUN	_	Case=Loc|Gender=Fem|Number=Sing	26	nmod	_	_
-23	často	často	ADV	_	Degree=Pos	26	advmod	_	_
-24	z	z	ADP	_	_	25	case	_	_
-25	pazorkomaj	pazork	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Dual	26	nmod	_	_
-26	pisane	pisany	ADJ	_	Case=Nom|Gender=Fem|Number=Plur|VerbForm=Part|Voice=Pass	0	root	_	_
-27	(	(	PUNCT	_	_	29	punct	_	SpaceAfter=No
-28	"	"	PUNCT	_	_	29	punct	_	SpaceAfter=No
-29	ryby	ryba	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	26	parataxis	_	SpaceAfter=No
-30	"	"	PUNCT	_	_	33	punct	_	SpaceAfter=No
-31	,	,	PUNCT	_	_	33	punct	_	_
-32	"	"	PUNCT	_	_	33	punct	_	SpaceAfter=No
-33	pisces	pisces	X	_	_	29	conj	_	SpaceAfter=No
-34	"	"	PUNCT	_	_	33	punct	_	SpaceAfter=No
-35	)	)	PUNCT	_	_	29	punct	_	SpaceAfter=No
-36	,	,	PUNCT	_	_	48	punct	_	_
-37	zo	zo	SCONJ	_	_	48	mark	_	_
-38	by	być	AUX	_	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	48	aux	_	_
-39	je	wón	PRON	_	Case=Acc|Gender=Fem|Number=Plur|Person=3|PronType=Prs	48	obj	_	_
-40	z	z	ADP	_	_	41	case	_	_
-41	tym	to	PRON	_	Case=Ins|Gender=Neut|Number=Sing|PronType=Dem	48	obl	_	_
-42	jako	jako	SCONJ	_	_	46	mark	_	_
-43	tak	tak	ADV	_	PronType=Dem	46	amod	_	_
-44	mjenowany	mjenowany	ADJ	_	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	43	fixed	_	_
-45	parafyletiski	parafyletiski	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	46	amod	_	_
-46	takson	takson	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	39	acl	_	_
-47	zu	zu	X	_	_	48	dep	_	_
-48	poznamjenili	poznamjenić	VERB	_	Animacy=Anim|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	26	advcl	_	SpaceAfter=No
-49	.	.	PUNCT	_	_	26	punct	_	_
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 11	bgColor:blue
+# visual-style 11	fgColor:white
+# visual-style 11 10 dep	color:blue
+1	Frankfurt	Frankfurt	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	17	nsubj	_	_
+2	nad	nad	ADP	_	_	3	case	_	_
+3	Mohanom	Mohan	PROPN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	1	nmod	_	_
+4	(	(	PUNCT	_	_	6	punct	_	SpaceAfter=No
+5	tež	tež	ADV	_	_	6	advmod:emph	_	_
+6	Frankfurt	Frankfurt	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	1	appos	_	_
+7	nad	nad	ADP	_	_	8	case	_	_
+8	Mainom	Main	PROPN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	6	nmod	_	SpaceAfter=No
+9	,	,	PUNCT	_	_	11	punct	_	_
+10	němsce	němsce	ADV	_	Degree=Pos	11	dep	_	_
+11	Frankfurt	Frankfurt	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	6	appos	_	_
+12	am	am	PROPN	_	_	11	flat	_	_
+13	Main	Main	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	11	flat	_	SpaceAfter=No
+14	)	)	PUNCT	_	_	6	punct	_	_
+15	je	być	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	cop	_	_
+16	najwjetše	wulki	ADJ	_	Case=Nom|Degree=Sup|Gender=Neut|Number=Sing	17	amod	_	_
+17	město	město	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	0	root	_	_
+18	zwjazkoweho	zwjazkowy	ADJ	_	Case=Gen|Gender=Masc|Number=Sing	19	amod	_	_
+19	kraja	kraj	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	17	nmod	_	_
+20	Hessenska	Hessenska	PROPN	_	Case=Gen|Gender=Neut|Number=Sing	19	nmod	_	_
+21	a	a	CCONJ	_	_	24	cc	_	_
+22	pjaty	pjaty	ADJ	_	Case=Nom|Gender=Neut|Number=Sing|NumType=Ord	24	amod	_	_
+23	najwjetše	wulki	ADJ	_	Case=Nom|Degree=Sup|Gender=Neut|Number=Sing	24	amod	_	_
+24	město	město	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	17	conj	_	_
+25	Němskeje	Němska	PROPN	_	Case=Gen|Gender=Fem|Number=Sing	24	nmod	_	SpaceAfter=No
+26	.	.	PUNCT	_	_	17	punct	_	_
 
 ~~~
 

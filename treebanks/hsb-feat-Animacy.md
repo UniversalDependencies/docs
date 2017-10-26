@@ -78,7 +78,7 @@ The most frequent other feature values with which `ADJ` and `Animacy` co-occurre
 
 83 <tt><a href="hsb-pos-DET.html">DET</a></tt> tokens (28% of all `DET` tokens) have a non-empty value of `Animacy`.
 
-The most frequent other feature values with which `DET` and `Animacy` co-occurred: <tt><a href="hsb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (83; 100%), <tt><a href="hsb-feat-Abbr.html">Abbr</a></tt><tt>=EMPTY</tt> (79; 95%), <tt><a href="hsb-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (77; 93%), <tt><a href="hsb-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (77; 93%), <tt><a href="hsb-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (70; 84%), <tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=Nom</tt> (44; 53%), <tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Plur</tt> (44; 53%).
+The most frequent other feature values with which `DET` and `Animacy` co-occurred: <tt><a href="hsb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (83; 100%), <tt><a href="hsb-feat-Abbr.html">Abbr</a></tt><tt>=EMPTY</tt> (79; 95%), <tt><a href="hsb-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (77; 93%), <tt><a href="hsb-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (77; 93%), <tt><a href="hsb-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (70; 84%), <tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Plur</tt> (44; 53%), <tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=Nom</tt> (44; 53%).
 
 `DET` tokens may have the following values of `Animacy`:
 
@@ -100,7 +100,7 @@ The most frequent other feature values with which `DET` and `Animacy` co-occurre
 
 20 <tt><a href="hsb-pos-VERB.html">VERB</a></tt> tokens (3% of all `VERB` tokens) have a non-empty value of `Animacy`.
 
-The most frequent other feature values with which `VERB` and `Animacy` co-occurred: <tt><a href="hsb-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (17; 85%), <tt><a href="hsb-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (17; 85%), <tt><a href="hsb-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (17; 85%), <tt><a href="hsb-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (17; 85%).
+The most frequent other feature values with which `VERB` and `Animacy` co-occurred: <tt><a href="hsb-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (17; 85%), <tt><a href="hsb-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (17; 85%), <tt><a href="hsb-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (17; 85%), <tt><a href="hsb-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (17; 85%).
 
 `VERB` tokens may have the following values of `Animacy`:
 
@@ -126,14 +126,14 @@ The most frequent other feature values with which `NUM` and `Animacy` co-occurre
   <tr><th>Paradigm <i>jedyn</i></th><th><tt>Anim</tt></th><th><tt>Inan</tt></th></tr>
   <tr><td><tt><tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=Acc</tt></tt></td><td></td><td>jedyn</td></tr>
   <tr><td><tt><tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=Gen</tt></tt></td><td></td><td>jedneho</td></tr>
-  <tr><td><tt><tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=Nom</tt></tt></td><td>jedny, jedyn</td><td>jedyn</td></tr>
+  <tr><td><tt><tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=Nom</tt></tt></td><td>jedyn, jedny</td><td>jedyn</td></tr>
 </table>
 
 ### `PRON`
 
 5 <tt><a href="hsb-pos-PRON.html">PRON</a></tt> tokens (2% of all `PRON` tokens) have a non-empty value of `Animacy`.
 
-The most frequent other feature values with which `PRON` and `Animacy` co-occurred: <tt><a href="hsb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (5; 100%), <tt><a href="hsb-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (5; 100%), <tt><a href="hsb-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (5; 100%), <tt><a href="hsb-feat-Person.html">Person</a></tt><tt>=3</tt> (5; 100%), <tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Plur</tt> (4; 80%), <tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=Acc</tt> (3; 60%).
+The most frequent other feature values with which `PRON` and `Animacy` co-occurred: <tt><a href="hsb-feat-Person.html">Person</a></tt><tt>=3</tt> (5; 100%), <tt><a href="hsb-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (5; 100%), <tt><a href="hsb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (5; 100%), <tt><a href="hsb-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (5; 100%), <tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Plur</tt> (4; 80%), <tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=Acc</tt> (3; 60%).
 
 `PRON` tokens may have the following values of `Animacy`:
 
@@ -156,10 +156,10 @@ The 10 most frequent relations where parent and child node agree in `Animacy`:
 <tt>PROPN --[<tt><a href="hsb-dep-flat.html">flat</a></tt>]--> PROPN</tt> (38; 76%),
 <tt>PROPN --[<tt><a href="hsb-dep-conj.html">conj</a></tt>]--> PROPN</tt> (22; 51%),
 <tt>PROPN --[<tt><a href="hsb-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (18; 69%),
-<tt>PROPN --[<tt><a href="hsb-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (7; 64%),
 <tt>ADJ --[<tt><a href="hsb-dep-nsubj.html">nsubj</a></tt>]--> DET</tt> (7; 70%),
+<tt>PROPN --[<tt><a href="hsb-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (7; 64%),
 <tt>PROPN --[<tt><a href="hsb-dep-appos.html">appos</a></tt>]--> PROPN</tt> (4; 57%),
-<tt>NOUN --[<tt><a href="hsb-dep-xcomp.html">xcomp</a></tt>]--> NOUN</tt> (3; 100%),
 <tt>NOUN --[<tt><a href="hsb-dep-amod.html">amod</a></tt>]--> NOUN</tt> (3; 100%),
-<tt>NOUN --[<tt><a href="hsb-dep-nummod-gov.html">nummod:gov</a></tt>]--> NOUN</tt> (2; 67%).
+<tt>NOUN --[<tt><a href="hsb-dep-xcomp.html">xcomp</a></tt>]--> NOUN</tt> (3; 100%),
+<tt>NOUN --[<tt><a href="hsb-dep-orphan.html">orphan</a></tt>]--> PROPN</tt> (2; 100%).
 

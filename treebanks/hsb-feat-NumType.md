@@ -28,7 +28,7 @@ The feature is used with 5 part-of-speech tags: <tt><a href="hsb-pos-NUM.html">N
 
 49 <tt><a href="hsb-pos-ADJ.html">ADJ</a></tt> tokens (4% of all `ADJ` tokens) have a non-empty value of `NumType`.
 
-The most frequent other feature values with which `ADJ` and `NumType` co-occurred: <tt><a href="hsb-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (49; 100%), <tt><a href="hsb-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (49; 100%), <tt><a href="hsb-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (49; 100%), <tt><a href="hsb-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (43; 88%), <tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (36; 73%).
+The most frequent other feature values with which `ADJ` and `NumType` co-occurred: <tt><a href="hsb-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (49; 100%), <tt><a href="hsb-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (49; 100%), <tt><a href="hsb-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (49; 100%), <tt><a href="hsb-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (43; 88%), <tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (36; 73%).
 
 `ADJ` tokens may have the following values of `NumType`:
 
@@ -64,7 +64,7 @@ The most frequent other feature values with which `NOUN` and `NumType` co-occurr
 
 4 <tt><a href="hsb-pos-DET.html">DET</a></tt> tokens (1% of all `DET` tokens) have a non-empty value of `NumType`.
 
-The most frequent other feature values with which `DET` and `NumType` co-occurred: <tt><a href="hsb-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (4; 100%), <tt><a href="hsb-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (4; 100%), <tt><a href="hsb-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (4; 100%), <tt><a href="hsb-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (4; 100%), <tt><a href="hsb-feat-Abbr.html">Abbr</a></tt><tt>=EMPTY</tt> (4; 100%).
+The most frequent other feature values with which `DET` and `NumType` co-occurred: <tt><a href="hsb-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (4; 100%), <tt><a href="hsb-feat-Abbr.html">Abbr</a></tt><tt>=EMPTY</tt> (4; 100%), <tt><a href="hsb-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (4; 100%), <tt><a href="hsb-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (4; 100%), <tt><a href="hsb-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (4; 100%).
 
 `DET` tokens may have the following values of `NumType`:
 

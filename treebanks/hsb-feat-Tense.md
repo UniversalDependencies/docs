@@ -40,7 +40,7 @@ The most frequent other feature values with which `VERB` and `Tense` co-occurred
 
 273 <tt><a href="hsb-pos-AUX.html">AUX</a></tt> tokens (96% of all `AUX` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `AUX` and `Tense` co-occurred: <tt><a href="hsb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (271; 99%), <tt><a href="hsb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (271; 99%), <tt><a href="hsb-feat-Person.html">Person</a></tt><tt>=3</tt> (269; 99%), <tt><a href="hsb-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (230; 84%), <tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (175; 64%).
+The most frequent other feature values with which `AUX` and `Tense` co-occurred: <tt><a href="hsb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (271; 99%), <tt><a href="hsb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (271; 99%), <tt><a href="hsb-feat-Person.html">Person</a></tt><tt>=3</tt> (269; 99%), <tt><a href="hsb-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (230; 84%), <tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (175; 64%).
 
 `AUX` tokens may have the following values of `Tense`:
 
@@ -55,7 +55,7 @@ The most frequent other feature values with which `AUX` and `Tense` co-occurred:
   <tr><td><tt><tt><a href="hsb-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="hsb-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt>|<tt><a href="hsb-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td></td><td></td><td>była</td></tr>
   <tr><td><tt><tt><a href="hsb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="hsb-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="hsb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td>sy</td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="hsb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="hsb-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="hsb-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="hsb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td>njeje</td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="hsb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="hsb-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="hsb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td>je</td><td>budu, budźe</td><td>bě, bu</td></tr>
+  <tr><td><tt><tt><a href="hsb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="hsb-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="hsb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td>je</td><td>budźe, budu</td><td>bě, bu</td></tr>
   <tr><td><tt><tt><a href="hsb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="hsb-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="hsb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="hsb-feat-Voice.html">Voice</a></tt><tt>=Pass</tt></tt></td><td></td><td></td><td>bu</td></tr>
   <tr><td><tt><tt><a href="hsb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Dual</tt>|<tt><a href="hsb-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="hsb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td>stej, staj</td><td></td><td>běštej</td></tr>
   <tr><td><tt><tt><a href="hsb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Dual</tt>|<tt><a href="hsb-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="hsb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="hsb-feat-Voice.html">Voice</a></tt><tt>=Pass</tt></tt></td><td></td><td></td><td>buštej</td></tr>
@@ -84,6 +84,6 @@ The 10 most frequent relations where parent and child node agree in `Tense`:
 <tt>VERB --[<tt><a href="hsb-dep-conj.html">conj</a></tt>]--> VERB</tt> (67; 88%),
 <tt>VERB --[<tt><a href="hsb-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (19; 54%),
 <tt>ADJ --[<tt><a href="hsb-dep-conj.html">conj</a></tt>]--> ADJ</tt> (2; 100%),
-<tt>VERB --[<tt><a href="hsb-dep-acl.html">acl</a></tt>]--> VERB</tt> (1; 100%),
-<tt>VERB --[<tt><a href="hsb-dep-aux-pass.html">aux:pass</a></tt>]--> VERB</tt> (1; 100%).
+<tt>VERB --[<tt><a href="hsb-dep-aux-pass.html">aux:pass</a></tt>]--> VERB</tt> (1; 100%),
+<tt>VERB --[<tt><a href="hsb-dep-acl.html">acl</a></tt>]--> VERB</tt> (1; 100%).
 

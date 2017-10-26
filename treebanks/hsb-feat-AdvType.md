@@ -18,7 +18,7 @@ The feature is used with 1 part-of-speech tags: <tt><a href="hsb-pos-ADV.html">A
 
 4 <tt><a href="hsb-pos-ADV.html">ADV</a></tt> tokens (1% of all `ADV` tokens) have a non-empty value of `AdvType`.
 
-The most frequent other feature values with which `ADV` and `AdvType` co-occurred: <tt><a href="hsb-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (4; 100%), <tt><a href="hsb-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (4; 100%).
+The most frequent other feature values with which `ADV` and `AdvType` co-occurred: <tt><a href="hsb-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (4; 100%), <tt><a href="hsb-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (4; 100%).
 
 `ADV` tokens may have the following values of `AdvType`:
 

@@ -48,33 +48,6 @@ The following 20 pairs of parts of speech are connected with `parataxis`: <tt><a
 
 
 ~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 1 3 parataxis	color:blue
-1	London	London	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	_
-2	(	(	PUNCT	_	_	3	punct	_	SpaceAfter=No
-3	wurjekowanje	wurjekowanje	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	1	parataxis	_	_
-4	)	)	PUNCT	_	_	3	punct	_	_
-5	je	być	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
-6	stolica	stolica	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
-7	Jendźelskeje	Jendźelska	PROPN	_	Case=Gen|Gender=Fem|Number=Sing	6	nmod	_	_
-8	a	a	CCONJ	_	_	9	cc	_	_
-9	tež	tež	ADV	_	_	6	conj	_	_
-10	stolica	stolica	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	6	conj	_	_
-11	Zjednoćeneho	zjednoćeny	ADJ	_	Case=Gen|Gender=Neut|Number=Sing	12	amod	_	_
-12	kralestwa	kralestwo	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	10	nmod	_	_
-13	Wulkobritaniskeje	Wulkobritaniska	PROPN	_	Case=Gen|Gender=Fem|Number=Sing	12	nmod	_	_
-14	a	a	CCONJ	_	_	16	cc	_	_
-15	Sewjerneje	sewjerny	ADJ	_	Case=Gen|Gender=Fem|Number=Sing	16	amod	_	_
-16	Irskeje	Irska	PROPN	_	Case=Gen|Gender=Fem|Number=Sing	13	conj	_	SpaceAfter=No
-17	.	.	PUNCT	_	_	6	punct	_	_
-
-~~~
-
-
-~~~ conllu
 # visual-style 20	bgColor:blue
 # visual-style 20	fgColor:white
 # visual-style 2	bgColor:blue
@@ -102,6 +75,33 @@ The following 20 pairs of parts of speech are connected with `parataxis`: <tt><a
 20	doba	doba	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	2	parataxis	_	SpaceAfter=No
 21	)	)	PUNCT	_	_	20	punct	_	SpaceAfter=No
 22	.	.	PUNCT	_	_	2	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 3 parataxis	color:blue
+1	London	London	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	_
+2	(	(	PUNCT	_	_	3	punct	_	SpaceAfter=No
+3	wurjekowanje	wurjekowanje	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	1	parataxis	_	_
+4	)	)	PUNCT	_	_	3	punct	_	_
+5	je	być	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
+6	stolica	stolica	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
+7	Jendźelskeje	Jendźelska	PROPN	_	Case=Gen|Gender=Fem|Number=Sing	6	nmod	_	_
+8	a	a	CCONJ	_	_	9	cc	_	_
+9	tež	tež	ADV	_	_	6	conj	_	_
+10	stolica	stolica	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	6	conj	_	_
+11	Zjednoćeneho	zjednoćeny	ADJ	_	Case=Gen|Gender=Neut|Number=Sing	12	amod	_	_
+12	kralestwa	kralestwo	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	10	nmod	_	_
+13	Wulkobritaniskeje	Wulkobritaniska	PROPN	_	Case=Gen|Gender=Fem|Number=Sing	12	nmod	_	_
+14	a	a	CCONJ	_	_	16	cc	_	_
+15	Sewjerneje	sewjerny	ADJ	_	Case=Gen|Gender=Fem|Number=Sing	16	amod	_	_
+16	Irskeje	Irska	PROPN	_	Case=Gen|Gender=Fem|Number=Sing	13	conj	_	SpaceAfter=No
+17	.	.	PUNCT	_	_	6	punct	_	_
 
 ~~~
 

@@ -36,7 +36,7 @@ The most frequent other feature values with which `VERB` and `Person` co-occurre
   <tr><td><tt><tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="hsb-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="hsb-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="hsb-feat-VerbType.html">VerbType</a></tt><tt>=Mod</tt></tt></td><td></td><td></td><td>njemóžeše</td></tr>
   <tr><td><tt><tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="hsb-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="hsb-feat-VerbType.html">VerbType</a></tt><tt>=Mod</tt></tt></td><td></td><td></td><td>móžachu</td></tr>
   <tr><td><tt><tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="hsb-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td></td><td></td><td>móžeja</td></tr>
-  <tr><td><tt><tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="hsb-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="hsb-feat-VerbType.html">VerbType</a></tt><tt>=Mod</tt></tt></td><td>móžemy</td><td>móžeće</td><td>móža, móžeja</td></tr>
+  <tr><td><tt><tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="hsb-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="hsb-feat-VerbType.html">VerbType</a></tt><tt>=Mod</tt></tt></td><td>móžemy</td><td>móžeće</td><td>móžeja, móža</td></tr>
 </table>
 
 `Person` seems to be **lexical feature** of `VERB`. 95% lemmas (250) occur only with one value of `Person`.
@@ -58,7 +58,7 @@ The most frequent other feature values with which `AUX` and `Person` co-occurred
   <tr><td><tt><tt><a href="hsb-feat-Mood.html">Mood</a></tt><tt>=Cnd</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td>by</td></tr>
   <tr><td><tt><tt><a href="hsb-feat-Mood.html">Mood</a></tt><tt>=Cnd</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td>bychu</td></tr>
   <tr><td><tt><tt><a href="hsb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="hsb-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="hsb-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td></td><td>njeje</td></tr>
-  <tr><td><tt><tt><a href="hsb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="hsb-feat-Tense.html">Tense</a></tt><tt>=Fut</tt></tt></td><td></td><td>budu, budźe</td></tr>
+  <tr><td><tt><tt><a href="hsb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="hsb-feat-Tense.html">Tense</a></tt><tt>=Fut</tt></tt></td><td></td><td>budźe, budu</td></tr>
   <tr><td><tt><tt><a href="hsb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="hsb-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td></td><td>bě, bu</td></tr>
   <tr><td><tt><tt><a href="hsb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="hsb-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="hsb-feat-Voice.html">Voice</a></tt><tt>=Pass</tt></tt></td><td></td><td>bu</td></tr>
   <tr><td><tt><tt><a href="hsb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="hsb-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td>sy</td><td>je</td></tr>
@@ -77,7 +77,7 @@ The most frequent other feature values with which `AUX` and `Person` co-occurred
 
 75 <tt><a href="hsb-pos-DET.html">DET</a></tt> tokens (26% of all `DET` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `DET` and `Person` co-occurred: <tt><a href="hsb-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (75; 100%), <tt><a href="hsb-feat-Poss.html">Poss</a></tt><tt>=Yes</tt> (75; 100%), <tt><a href="hsb-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (69; 92%), <tt><a href="hsb-feat-Number-psor.html">Number[psor]</a></tt><tt>=Plur</tt> (54; 72%), <tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (42; 56%), <tt><a href="hsb-feat-Abbr.html">Abbr</a></tt><tt>=EMPTY</tt> (41; 55%).
+The most frequent other feature values with which `DET` and `Person` co-occurred: <tt><a href="hsb-feat-Poss.html">Poss</a></tt><tt>=Yes</tt> (75; 100%), <tt><a href="hsb-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (75; 100%), <tt><a href="hsb-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (69; 92%), <tt><a href="hsb-feat-Number-psor.html">Number[psor]</a></tt><tt>=Plur</tt> (54; 72%), <tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (42; 56%), <tt><a href="hsb-feat-Abbr.html">Abbr</a></tt><tt>=EMPTY</tt> (41; 55%).
 
 `DET` tokens may have the following values of `Person`:
 
@@ -90,7 +90,7 @@ The most frequent other feature values with which `DET` and `Person` co-occurred
 
 56 <tt><a href="hsb-pos-PRON.html">PRON</a></tt> tokens (18% of all `PRON` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="hsb-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (56; 100%), <tt><a href="hsb-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (56; 100%), <tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (40; 71%), <tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=Nom</tt> (34; 61%).
+The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="hsb-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (56; 100%), <tt><a href="hsb-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (56; 100%), <tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (40; 71%), <tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=Nom</tt> (34; 61%).
 
 `PRON` tokens may have the following values of `Person`:
 

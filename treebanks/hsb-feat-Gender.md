@@ -144,9 +144,9 @@ The most frequent other feature values with which `PRON` and `Gender` co-occurre
   <tr><td><tt><tt><a href="hsb-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt>|<tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td>Woni</td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="hsb-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td>je</td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="hsb-feat-Animacy.html">Animacy</a></tt><tt>=Nhum</tt>|<tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td>jeho</td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td>jón, jeho</td><td>nju, ju</td><td></td></tr>
+  <tr><td><tt><tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td>jón, jeho</td><td>ju, nju</td><td></td></tr>
   <tr><td><tt><tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td>je</td><td></td></tr>
-  <tr><td><tt><tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td>njej, jeje, Jej</td><td></td></tr>
+  <tr><td><tt><tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td>Jej, jeje, njej</td><td></td></tr>
   <tr><td><tt><tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td>njeje</td><td></td></tr>
   <tr><td><tt><tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td>nich</td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td></td><td>nimi</td></tr>
@@ -160,7 +160,7 @@ The most frequent other feature values with which `PRON` and `Gender` co-occurre
 
 45 <tt><a href="hsb-pos-VERB.html">VERB</a></tt> tokens (6% of all `VERB` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `VERB` and `Gender` co-occurred: <tt><a href="hsb-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (43; 96%), <tt><a href="hsb-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (43; 96%), <tt><a href="hsb-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (43; 96%), <tt><a href="hsb-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (43; 96%), <tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (28; 62%).
+The most frequent other feature values with which `VERB` and `Gender` co-occurred: <tt><a href="hsb-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (43; 96%), <tt><a href="hsb-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (43; 96%), <tt><a href="hsb-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (43; 96%), <tt><a href="hsb-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (43; 96%), <tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (28; 62%).
 
 `VERB` tokens may have the following values of `Gender`:
 
@@ -193,7 +193,7 @@ The most frequent other feature values with which `NUM` and `Gender` co-occurred
 
 <table>
   <tr><th>Paradigm <i>jedyn</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>
-  <tr><td><tt><tt><a href="hsb-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt>|<tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=Nom</tt></tt></td><td>jedyn, jedny</td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="hsb-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt>|<tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=Nom</tt></tt></td><td>jedny, jedyn</td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="hsb-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=Acc</tt></tt></td><td>jedyn</td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="hsb-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=Gen</tt></tt></td><td>jedneho</td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="hsb-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=Nom</tt></tt></td><td>jedyn</td><td></td><td></td></tr>
@@ -206,7 +206,7 @@ The most frequent other feature values with which `NUM` and `Gender` co-occurred
 
 2 <tt><a href="hsb-pos-AUX.html">AUX</a></tt> tokens (1% of all `AUX` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `AUX` and `Gender` co-occurred: <tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2; 100%), <tt><a href="hsb-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="hsb-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (2; 100%), <tt><a href="hsb-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (2; 100%), <tt><a href="hsb-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (2; 100%), <tt><a href="hsb-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (2; 100%).
+The most frequent other feature values with which `AUX` and `Gender` co-occurred: <tt><a href="hsb-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (2; 100%), <tt><a href="hsb-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (2; 100%), <tt><a href="hsb-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="hsb-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2; 100%), <tt><a href="hsb-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (2; 100%).
 
 `AUX` tokens may have the following values of `Gender`:
 

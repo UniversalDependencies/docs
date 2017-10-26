@@ -18,7 +18,7 @@ The feature is used with 1 part-of-speech tags: <tt><a href="hsb-pos-ADJ.html">A
 
 11 <tt><a href="hsb-pos-ADJ.html">ADJ</a></tt> tokens (1% of all `ADJ` tokens) have a non-empty value of `Hyph`.
 
-The most frequent other feature values with which `ADJ` and `Hyph` co-occurred: <tt><a href="hsb-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (11; 100%), <tt><a href="hsb-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (11; 100%), <tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (11; 100%), <tt><a href="hsb-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (11; 100%), <tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (11; 100%), <tt><a href="hsb-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (11; 100%), <tt><a href="hsb-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (11; 100%).
+The most frequent other feature values with which `ADJ` and `Hyph` co-occurred: <tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (11; 100%), <tt><a href="hsb-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (11; 100%), <tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (11; 100%), <tt><a href="hsb-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (11; 100%), <tt><a href="hsb-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (11; 100%), <tt><a href="hsb-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (11; 100%), <tt><a href="hsb-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (11; 100%).
 
 `ADJ` tokens may have the following values of `Hyph`:
 

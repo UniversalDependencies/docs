@@ -15,7 +15,7 @@ The 10 most frequent `AUX` types:  je su bu bě buchu njeje by njejsu běchu bu�
 
 The 10 most frequent ambiguous lemmas: być (<tt><a href="hsb-pos-AUX.html">AUX</a></tt> 284, <tt><a href="hsb-pos-VERB.html">VERB</a></tt> 31), posłužić (<tt><a href="hsb-pos-AUX.html">AUX</a></tt> 1, <tt><a href="hsb-pos-VERB.html">VERB</a></tt> 1)
 
-The 10 most frequent ambiguous types:  je (<tt><a href="hsb-pos-AUX.html">AUX</a></tt> 101, <tt><a href="hsb-pos-PRON.html">PRON</a></tt> 6, <tt><a href="hsb-pos-VERB.html">VERB</a></tt> 5), su (<tt><a href="hsb-pos-AUX.html">AUX</a></tt> 64, <tt><a href="hsb-pos-VERB.html">VERB</a></tt> 7), bu (<tt><a href="hsb-pos-AUX.html">AUX</a></tt> 28, <tt><a href="hsb-pos-VERB.html">VERB</a></tt> 2), bě (<tt><a href="hsb-pos-AUX.html">AUX</a></tt> 25, <tt><a href="hsb-pos-VERB.html">VERB</a></tt> 3), njeje (<tt><a href="hsb-pos-AUX.html">AUX</a></tt> 8, <tt><a href="hsb-pos-VERB.html">VERB</a></tt> 1, <tt><a href="hsb-pos-PRON.html">PRON</a></tt> 1), běchu (<tt><a href="hsb-pos-VERB.html">VERB</a></tt> 5, <tt><a href="hsb-pos-AUX.html">AUX</a></tt> 4), budu (<tt><a href="hsb-pos-AUX.html">AUX</a></tt> 1, <tt><a href="hsb-pos-VERB.html">VERB</a></tt> 1), budźe (<tt><a href="hsb-pos-VERB.html">VERB</a></tt> 2, <tt><a href="hsb-pos-AUX.html">AUX</a></tt> 1), njesu (<tt><a href="hsb-pos-AUX.html">AUX</a></tt> 1, <tt><a href="hsb-pos-VERB.html">VERB</a></tt> 1), posłužić (<tt><a href="hsb-pos-VERB.html">VERB</a></tt> 1, <tt><a href="hsb-pos-AUX.html">AUX</a></tt> 1)
+The 10 most frequent ambiguous types:  je (<tt><a href="hsb-pos-AUX.html">AUX</a></tt> 101, <tt><a href="hsb-pos-PRON.html">PRON</a></tt> 6, <tt><a href="hsb-pos-VERB.html">VERB</a></tt> 5), su (<tt><a href="hsb-pos-AUX.html">AUX</a></tt> 64, <tt><a href="hsb-pos-VERB.html">VERB</a></tt> 7), bu (<tt><a href="hsb-pos-AUX.html">AUX</a></tt> 28, <tt><a href="hsb-pos-VERB.html">VERB</a></tt> 2), bě (<tt><a href="hsb-pos-AUX.html">AUX</a></tt> 25, <tt><a href="hsb-pos-VERB.html">VERB</a></tt> 3), njeje (<tt><a href="hsb-pos-AUX.html">AUX</a></tt> 8, <tt><a href="hsb-pos-PRON.html">PRON</a></tt> 1, <tt><a href="hsb-pos-VERB.html">VERB</a></tt> 1), běchu (<tt><a href="hsb-pos-VERB.html">VERB</a></tt> 5, <tt><a href="hsb-pos-AUX.html">AUX</a></tt> 4), budu (<tt><a href="hsb-pos-AUX.html">AUX</a></tt> 1, <tt><a href="hsb-pos-VERB.html">VERB</a></tt> 1), budźe (<tt><a href="hsb-pos-VERB.html">VERB</a></tt> 2, <tt><a href="hsb-pos-AUX.html">AUX</a></tt> 1), njesu (<tt><a href="hsb-pos-VERB.html">VERB</a></tt> 1, <tt><a href="hsb-pos-AUX.html">AUX</a></tt> 1), posłužić (<tt><a href="hsb-pos-AUX.html">AUX</a></tt> 1, <tt><a href="hsb-pos-VERB.html">VERB</a></tt> 1)
 
 
 * je
@@ -33,8 +33,8 @@ The 10 most frequent ambiguous types:  je (<tt><a href="hsb-pos-AUX.html">AUX</a
   * <tt><a href="hsb-pos-VERB.html">VERB</a></tt> 3: W starych kulturach w Mezopotamiskej , Egyptowskej , Persiskej a Israelu <b>bě</b> ludowy cyrobowy srědk .
 * njeje
   * <tt><a href="hsb-pos-AUX.html">AUX</a></tt> 8: Njewědźeše , hač wobsteji smuha tež potom , hdyž <b>njeje</b> hižo w pěsku zarysowana .
-  * <tt><a href="hsb-pos-VERB.html">VERB</a></tt> 1: Tutón je wo wjele młódši zjaw hač indoeuropski ablawt , čehoždla ani <b>njeje</b> systematiski abo historiski zwisk ze změnu w ablawtowych rjadach a přezwuk so zwjetša k ablawtowym fenomenam njeliči .
   * <tt><a href="hsb-pos-PRON.html">PRON</a></tt> 1: Sukcesiwnje zadźěła so do <b>njeje</b> tež wobsah zažnišich bibliografijow ( dotal : w Budyšinje wušłe knihi wot 1958 ) .
+  * <tt><a href="hsb-pos-VERB.html">VERB</a></tt> 1: Tutón je wo wjele młódši zjaw hač indoeuropski ablawt , čehoždla ani <b>njeje</b> systematiski abo historiski zwisk ze změnu w ablawtowych rjadach a přezwuk so zwjetša k ablawtowym fenomenam njeliči .
 * běchu
   * <tt><a href="hsb-pos-VERB.html">VERB</a></tt> 5: Dróhi <b>běchu</b> hakle wot nowoassyriskeho mócnarstwa .
   * <tt><a href="hsb-pos-AUX.html">AUX</a></tt> 4: Kaž přikład mjenowaneje móžnosće słuži kartu městow Němskeje , w kotrychž so <b>běchu</b> Fußball - WM 2006 wotměł .
@@ -45,11 +45,11 @@ The 10 most frequent ambiguous types:  je (<tt><a href="hsb-pos-AUX.html">AUX</a
   * <tt><a href="hsb-pos-VERB.html">VERB</a></tt> 2: Tež za bjesadu <b>budźe</b> tam čas .
   * <tt><a href="hsb-pos-AUX.html">AUX</a></tt> 1: Wona nětko so zmjeńšuje ; něhdźe 4300 <b>budźe</b> srjedźnu hódnotu wot 23 ° 06 ' docpěwać a něhdźe w lěće 25 . 000 minimalnu hódnotu .
 * njesu
-  * <tt><a href="hsb-pos-AUX.html">AUX</a></tt> 1: Wosebje w pralěsowej kónčiny w sewjerowuchodźe a w Bengaliskej nižiny móže w tutym času k ćežkim powodźenjam přińdź , a na kromje Himalaje <b>njesu</b> wotwalenja hory zrědka .
   * <tt><a href="hsb-pos-VERB.html">VERB</a></tt> 1: Wužiwarjo <b>njesu</b> sami zamołwitosć při zranjenju awtorskich prawow .
+  * <tt><a href="hsb-pos-AUX.html">AUX</a></tt> 1: Wosebje w pralěsowej kónčiny w sewjerowuchodźe a w Bengaliskej nižiny móže w tutym času k ćežkim powodźenjam přińdź , a na kromje Himalaje <b>njesu</b> wotwalenja hory zrědka .
 * posłužić
-  * <tt><a href="hsb-pos-VERB.html">VERB</a></tt> 1: 8 . Wužiwar je woprawnjeny , so samostatnje <b>posłužić</b> wědomostnych pomocnych srědkow , na př . bibliografijow a časopisow , kiž su w čitarni za wólnoručne wužiwanje nastajene .
   * <tt><a href="hsb-pos-AUX.html">AUX</a></tt> 1: Wužiwar so <b>posłužić</b> nastajeneho kopěraka hdyž zakónske postajenja awtorskeho prawa wobkedźbuje .
+  * <tt><a href="hsb-pos-VERB.html">VERB</a></tt> 1: 8 . Wužiwar je woprawnjeny , so samostatnje <b>posłužić</b> wědomostnych pomocnych srědkow , na př . bibliografijow a časopisow , kiž su w čitarni za wólnoručne wužiwanje nastajene .
 
 ## Morphology
 

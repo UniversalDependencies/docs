@@ -186,9 +186,9 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
   <tr><td><tt><tt><a href="hsb-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="hsb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td></td><td>je</td></tr>
   <tr><td><tt><tt><a href="hsb-feat-Animacy.html">Animacy</a></tt><tt>=Nhum</tt>|<tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="hsb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td>jeho</td><td></td></tr>
   <tr><td><tt><tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="hsb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td>jón, jeho</td><td></td></tr>
-  <tr><td><tt><tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="hsb-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td>ju, nju</td><td>je</td></tr>
+  <tr><td><tt><tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="hsb-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td>nju, ju</td><td>je</td></tr>
   <tr><td><tt><tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=Acc</tt></tt></td><td></td><td>je</td></tr>
-  <tr><td><tt><tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="hsb-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td>njej, jeje, Jej</td><td></td></tr>
+  <tr><td><tt><tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="hsb-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td>Jej, jeje, njej</td><td></td></tr>
   <tr><td><tt><tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="hsb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td></td><td>nich</td></tr>
   <tr><td><tt><tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="hsb-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td>njeje</td><td></td></tr>
   <tr><td><tt><tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="hsb-feat-Gender.html">Gender</a></tt><tt>=Neut</tt></tt></td><td></td><td>nimi</td></tr>

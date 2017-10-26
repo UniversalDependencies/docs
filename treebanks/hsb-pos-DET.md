@@ -15,7 +15,7 @@ The 10 most frequent `DET` types:  n kotrež jeho jich tute kotryž tutón kotra
 
 The 10 most frequent ambiguous lemmas: kotryž (<tt><a href="hsb-pos-DET.html">DET</a></tt> 69, <tt><a href="hsb-pos-NOUN.html">NOUN</a></tt> 3), wšelaki (<tt><a href="hsb-pos-ADJ.html">ADJ</a></tt> 3, <tt><a href="hsb-pos-DET.html">DET</a></tt> 2), mnoho (<tt><a href="hsb-pos-ADV.html">ADV</a></tt> 6, <tt><a href="hsb-pos-DET.html">DET</a></tt> 1)
 
-The 10 most frequent ambiguous types:  n (<tt><a href="hsb-pos-DET.html">DET</a></tt> 35, <tt><a href="hsb-pos-ADP.html">ADP</a></tt> 2, <tt><a href="hsb-pos-X.html">X</a></tt> 2), jeho (<tt><a href="hsb-pos-DET.html">DET</a></tt> 7, <tt><a href="hsb-pos-PRON.html">PRON</a></tt> 2), jeje (<tt><a href="hsb-pos-DET.html">DET</a></tt> 3, <tt><a href="hsb-pos-PRON.html">PRON</a></tt> 1), kotřiž (<tt><a href="hsb-pos-NOUN.html">NOUN</a></tt> 3, <tt><a href="hsb-pos-DET.html">DET</a></tt> 2), tym (<tt><a href="hsb-pos-PRON.html">PRON</a></tt> 15, <tt><a href="hsb-pos-DET.html">DET</a></tt> 2), wšelake (<tt><a href="hsb-pos-DET.html">DET</a></tt> 2, <tt><a href="hsb-pos-ADJ.html">ADJ</a></tt> 2), tu (<tt><a href="hsb-pos-ADV.html">ADV</a></tt> 8, <tt><a href="hsb-pos-DET.html">DET</a></tt> 1, <tt><a href="hsb-pos-X.html">X</a></tt> 1)
+The 10 most frequent ambiguous types:  n (<tt><a href="hsb-pos-DET.html">DET</a></tt> 35, <tt><a href="hsb-pos-ADP.html">ADP</a></tt> 2, <tt><a href="hsb-pos-X.html">X</a></tt> 2), jeho (<tt><a href="hsb-pos-DET.html">DET</a></tt> 7, <tt><a href="hsb-pos-PRON.html">PRON</a></tt> 2), jeje (<tt><a href="hsb-pos-DET.html">DET</a></tt> 3, <tt><a href="hsb-pos-PRON.html">PRON</a></tt> 1), kotřiž (<tt><a href="hsb-pos-NOUN.html">NOUN</a></tt> 3, <tt><a href="hsb-pos-DET.html">DET</a></tt> 2), tym (<tt><a href="hsb-pos-PRON.html">PRON</a></tt> 15, <tt><a href="hsb-pos-DET.html">DET</a></tt> 2), wšelake (<tt><a href="hsb-pos-DET.html">DET</a></tt> 2, <tt><a href="hsb-pos-ADJ.html">ADJ</a></tt> 2), tu (<tt><a href="hsb-pos-ADV.html">ADV</a></tt> 8, <tt><a href="hsb-pos-X.html">X</a></tt> 1, <tt><a href="hsb-pos-DET.html">DET</a></tt> 1)
 
 
 * n
@@ -39,8 +39,8 @@ The 10 most frequent ambiguous types:  n (<tt><a href="hsb-pos-DET.html">DET</a>
   * <tt><a href="hsb-pos-ADJ.html">ADJ</a></tt> 2: Hodźi so jenakorazny , zwjetša nic dokładnje jenaki system ablawtowych rjadow wobkedźbować , dokelž su so <b>wšelake</b> zwukowe přesunjenja stali .
 * tu
   * <tt><a href="hsb-pos-ADV.html">ADV</a></tt> 8: Jejkowe bańki zawostawaja w archegonijach a so <b>tu</b> wopłodźuja .
-  * <tt><a href="hsb-pos-DET.html">DET</a></tt> 1: Samotar narysowa na pěskojte dno smuhu a praji : » Přez <b>tu</b> smuhu njesměš . «
   * <tt><a href="hsb-pos-X.html">X</a></tt> 1: Serbski institut kooperuje z druhimi wědomostnymi zarjadnišćemi w <b>tu</b> - a wukraju .
+  * <tt><a href="hsb-pos-DET.html">DET</a></tt> 1: Samotar narysowa na pěskojte dno smuhu a praji : » Přez <b>tu</b> smuhu njesměš . «
 
 ## Morphology
 
