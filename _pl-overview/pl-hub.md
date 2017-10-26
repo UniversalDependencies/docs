@@ -176,7 +176,7 @@ udver: '2'
 
 ### Relations Overview
 
-* The following relation subtypes are used in Czech:
+* The following relation subtypes are used in Polish:
   * [nsubj:pass]() for nominal subjects of passive verbs
   * [csubj:pass]() for clausal subjects of passive verbs
   * [obl:agent]() for agents of passive verbs
@@ -190,7 +190,7 @@ udver: '2'
   * [advmod:emph]() for adverbs or particles that modify noun phrases and emphasize or negate them
 * The following main types are not used alone and must be subtyped:
   [expl]()
-* The following relation types are not used in Czech at all:
+* The following relation types are not used in Polish at all:
   [clf](), [dislocated]()
 
 ## Treebanks

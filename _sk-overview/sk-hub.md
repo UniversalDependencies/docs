@@ -110,7 +110,7 @@ udver: '2'
   possessive interrogative, indefinite or negative determiners (e.g. _čí_ “whose”),
   and possessive adjectives (e.g. _otcov_ “father's”).
 * The [Reflex]() feature marks reflexive pronouns _(sa, si)_ and determiners _(svoj)_.
-  In Czech it is always used together with `PronType=Prs`.
+  In Polish it is always used together with `PronType=Prs`.
 * [Person]() is a lexical feature of personal pronouns ([PRON]()) and has three values, `1`, `2` and `3`.
   With personal possessive determiners ([DET]()), the feature actually encodes the person of the possessor.
   Person is not marked on other types of pronouns and on nouns, although they can be almost always interpreted as the 3rd person.
@@ -127,7 +127,7 @@ udver: '2'
   * [AdpType]()
   * [Hyph]()
   * [Typo]()
-* The following universal features are not used in Czech: [Definite](), [Evident](), [Polite]().
+* The following universal features are not used in Polish: [Definite](), [Evident](), [Polite]().
 
 ## Syntax
 
@@ -193,7 +193,7 @@ udver: '2'
   * [flat:foreign]() for non-first words in quoted foreign phrases
 * The following main types are not used alone and must be subtyped:
   [expl]()
-* The following relation types are not used in Czech at all:
+* The following relation types are not used in Polish at all:
   [clf](), [dislocated]()
 
 ## Treebanks
