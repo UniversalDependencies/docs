@@ -45,6 +45,8 @@ udver: '2'
   <td width="50%" valign="top">
 <h2>Morphology</h2>
 
+<h3>Tags</h3>
+
 <ul>
 <li>This corpus uses 17 UPOS tags out of 17 possible: <a>ADJ</a>, <a>ADP</a>, <a>ADV</a>, <a>AUX</a>, <a>CCONJ</a>, <a>DET</a>, <a>INTJ</a>, <a>NOUN</a>, <a>NUM</a>, <a>PART</a>, <a>PRON</a>, <a>PROPN</a>, <a>PUNCT</a>, <a>SCONJ</a>, <a>SYM</a>, <a>VERB</a>, <a>X</a></li>
 <li>This corpus contains 82 word types tagged as particles (PART): Achtung, Bah, Bienvenue, CA, Což, Cožpak, Dobrá, L, Mnohem, Naneštěstí, Nejenomže, Nu, On, Please, Sic, So, Vot, Zaplaťpánbůh, ahoj, al, ano, anti, arciť, asi, at, ať, až, ba, bene, bohužel, by, bůhsuď, bůhví, ciao, co, copak, džambo, el, gala, hele, hop, ja, jen, jenom, jo, ka, kdoví, kéž, leda, li, n, natož, ne, nechť, nejen, netto, neřkuli, než, nie, no, non, not, nuže, off, oui, ovšem, ovšemže, pozor, právěže, prý, s, sbohem, sorry, t, takříkajíc, to, tož, viva, viďte, we, zaplaťpánbu, žel</li>
@@ -54,9 +56,80 @@ udver: '2'
   <td width="50%" valign="top">
 <h2>Morphology</h2>
 
+<h3>Tags</h3>
+
 <ul>
 <li>This corpus uses 17 UPOS tags out of 17 possible: <a>ADJ</a>, <a>ADP</a>, <a>ADV</a>, <a>AUX</a>, <a>CCONJ</a>, <a>DET</a>, <a>INTJ</a>, <a>NOUN</a>, <a>NUM</a>, <a>PART</a>, <a>PRON</a>, <a>PROPN</a>, <a>PUNCT</a>, <a>SCONJ</a>, <a>SYM</a>, <a>VERB</a>, <a>X</a></li>
 <li>This corpus contains 146 word types tagged as particles (PART): Ako, Ano, Beztak, Bohužiaľ, Chvalabohu, Dobre, Ešteže, Fajn, Horkýže, Isteže, Kdeže, Kiež, Lenže, Lúčne, Mimochodom, Možnože, Namojdušu, Nanešťastie, Nech, Niežeby, Nijako, Nože, Nuž, Obzvlášť, Pomóóóc, Práveže, Reku, Skrátka, Snáď, Správne, Super, TUŠÍM, Takisto, Taktiež, Takže, Ticho, Tuším, Vcelku, Veruže, Vážne, a, aj, akiste, akoby, akurát, ale, ani, asi, aspoň, až, bezpochyby, celkom, div, dokonca, doslova, dosť, ešte, hlavne, hneď, hádam, i, iba, inak, iste, jedine, jednoducho, keď, koncov, konečne, len, možno, najmenej, najmä, nakoniec, naopak, naozaj, napodiv, napokon, napríklad, naviac, navyše, našťastie, nie, nič, no, náhodou, pekne, pochopiteľne, pomerne, poprípade, pravda, pravdaže, pravdepodobne, pravdpodobne, predovšetkým, predsa, presne, priam, približne, prinajmenšom, prirodzene, prosím, práve, radšej, respektíve, rozhodne, samozrejme, skoro, skôr, sotva, stále, síce, tak, takmer, takpovediac, tam, teda, tiež, to, totiž, toto, tu, určite, už, vari, veru, veď, vlastne, vonkoncom, vraj, vskutku, vôbec, výlučne, však, zasa, zase, zhruba, zo, zrejme, áno, údajne, čo, čoraz, Škoda, že, žiaľ</li>
+</ul>
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+<ul>
+<li>This corpus contains 56 lemmas tagged as pronouns (PRON): Everything, I, all, bůhvíco, co, cokoliv, copak, cosi, což, gdo, he, it, ja, jenž, já, kdeco, kdekdo, kdo, kdokoliv, kdopak, kdosi, lecco, leccos, leckdo, ledacos, ledasco, man, máloco, málokdo, nic, nihil, nikdo, nothing, něco, někdo, on, ourselves, pranic, q, sa, samý, se, some, sotvakdo, takýs, ty, veškerý, von, vy, všecek, všechno, was, we, who, you, čo</li>
+</ul>
+
+  </td>
+  <td width="50%" valign="top">
+<ul>
+<li>This corpus contains 39 lemmas tagged as pronouns (PRON): do_on, ja, kto, ktokoľvek, ktosi, ktože, mama, my, málokto, na_on, na_ono, naň, niekto, niečo, nik, nikto, nič, on, ona, ono, oň, po_on, pre_on, preň, sa, seba, si, ty, u_on, veselý, vy, všeličo, všetko, za, za_on, čo, čokoľvek, čosi, čože</li>
+</ul>
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+<ul>
+<li>This corpus contains 70 lemmas tagged as determiners (DET): Notre, Your, bůhvíjaký, c, ce, cui, hodně, jaký, jakýkoliv, jakýpak, jakýs, jakýsi, jeho, jenž, každý, kdejaký, kdovíjaký, kolik, který, kterýkoliv, kterýžto, ktorý, lecjaký, leckterý, ledajaký, mio, mnoho, moc, my, málo, málokterý, míň, móóc, můj, nejeden, nemnoho, nemálo, nespočet, nějaký, několik, několikátý, některý, něčí, onen, přemnoho, some, suus, svůj, sám, takový, takovýhle, takovýto, taký, takýs, ten, tenhle, tenhleten, tento, tentýž, that, this, tolik, toť, tvůj, týž, více, všechen, všelijaký, čí, žádný</li>
+</ul>
+
+  </td>
+  <td width="50%" valign="top">
+<ul>
+<li>This corpus contains 51 lemmas tagged as determiners (DET): aký, akýkoľvek, akýsi, dajaký, hociktorý, ich, iný, istý, jeho, jej, kadejaký, každý, koľko, ktorý, ktorýkoľvek, ktorýsi, môj, nejaký, niekolko, niekoľko, niekoľký, niektorý, nijaký, náš, onaký, podaktorý, samý, svoj, sám, ta, taktýto, takéto, taký, takýto, tamten, ten, tento, to, toto, toľko, tvoj, tá, táto, týmto, váš, všakovaký, všelijaký, všetok, čísi, žiaden, žiadny</li>
+</ul>
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+<ul>
+<li>Out of the above, 3 lemmas occurred sometimes as PRON and sometimes as DET: jenž, some, takýs</li>
+</ul>
+
+  </td>
+  <td width="50%" valign="top">
+<ul>
+</ul>
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+<ul>
+<li>This corpus contains 6 lemmas tagged as auxiliaries (AUX): být, bývat, bývávat, moci, mít, stát</li>
+</ul>
+
+  </td>
+  <td width="50%" valign="top">
+<ul>
+<li>This corpus contains 7 lemmas tagged as auxiliaries (AUX): by, byť, bývať, mať, sa, stať, sto</li>
+</ul>
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+<ul>
+<li>Out of the above, 6 lemmas occurred sometimes as AUX and sometimes as VERB: být, bývat, bývávat, moci, mít, stát</li>
+</ul>
+
+  </td>
+  <td width="50%" valign="top">
+<ul>
+<li>Out of the above, 5 lemmas occurred sometimes as AUX and sometimes as VERB: byť, bývať, mať, sa, stať</li>
 </ul>
 
   </td>

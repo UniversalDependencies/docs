@@ -107,7 +107,7 @@ The most frequent other feature values with which `AUX` and `Tense` co-occurred:
 
 5 <tt><a href="sk-pos-ADJ.html">ADJ</a></tt> tokens (0% of all `ADJ` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `ADJ` and `Tense` co-occurred: <tt><a href="sk-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (5; 100%), <tt><a href="sk-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (5; 100%), <tt><a href="sk-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (5; 100%), <tt><a href="sk-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (5; 100%), <tt><a href="sk-feat-Number.html">Number</a></tt><tt>=Plur</tt> (4; 80%), <tt><a href="sk-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (4; 80%), <tt><a href="sk-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (3; 60%), <tt><a href="sk-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (3; 60%).
+The most frequent other feature values with which `ADJ` and `Tense` co-occurred: <tt><a href="sk-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (5; 100%), <tt><a href="sk-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (5; 100%), <tt><a href="sk-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (5; 100%), <tt><a href="sk-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (5; 100%), <tt><a href="sk-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (4; 80%), <tt><a href="sk-feat-Number.html">Number</a></tt><tt>=Plur</tt> (4; 80%), <tt><a href="sk-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (3; 60%), <tt><a href="sk-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (3; 60%).
 
 `ADJ` tokens may have the following values of `Tense`:
 

@@ -18,7 +18,7 @@ The feature is used with 4 part-of-speech tags: <tt><a href="sk-pos-VERB.html">V
 
 3470 <tt><a href="sk-pos-VERB.html">VERB</a></tt> tokens (25% of all `VERB` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="sk-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (3470; 100%), <tt><a href="sk-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (3470; 100%), <tt><a href="sk-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (3469; 100%), <tt><a href="sk-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (3158; 91%), <tt><a href="sk-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (3026; 87%), <tt><a href="sk-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2598; 75%), <tt><a href="sk-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (2502; 72%), <tt><a href="sk-feat-Person.html">Person</a></tt><tt>=3</tt> (2139; 62%).
+The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="sk-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (3470; 100%), <tt><a href="sk-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (3470; 100%), <tt><a href="sk-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (3469; 100%), <tt><a href="sk-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (3158; 91%), <tt><a href="sk-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (3026; 87%), <tt><a href="sk-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2598; 75%), <tt><a href="sk-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (2502; 72%), <tt><a href="sk-feat-Person.html">Person</a></tt><tt>=3</tt> (2139; 62%).
 
 `VERB` tokens may have the following values of `Mood`:
 

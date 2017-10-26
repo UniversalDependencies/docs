@@ -18,7 +18,7 @@ The feature is used with 1 part-of-speech tags: <tt><a href="sk-pos-X.html">X</a
 
 241 <tt><a href="sk-pos-X.html">X</a></tt> tokens (31% of all `X` tokens) have a non-empty value of `Foreign`.
 
-The most frequent other feature values with which `X` and `Foreign` co-occurred: <tt><a href="sk-feat-Hyph.html">Hyph</a></tt><tt>=EMPTY</tt> (241; 100%), <tt><a href="sk-feat-Abbr.html">Abbr</a></tt><tt>=EMPTY</tt> (241; 100%).
+The most frequent other feature values with which `X` and `Foreign` co-occurred: <tt><a href="sk-feat-Abbr.html">Abbr</a></tt><tt>=EMPTY</tt> (241; 100%), <tt><a href="sk-feat-Hyph.html">Hyph</a></tt><tt>=EMPTY</tt> (241; 100%).
 
 `X` tokens may have the following values of `Foreign`:
 

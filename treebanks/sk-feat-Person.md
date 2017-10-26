@@ -69,7 +69,7 @@ The most frequent other feature values with which `AUX` and `Person` co-occurred
 
 2698 <tt><a href="sk-pos-PRON.html">PRON</a></tt> tokens (42% of all `PRON` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="sk-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (2698; 100%), <tt><a href="sk-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (2698; 100%), <tt><a href="sk-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2215; 82%), <tt><a href="sk-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (1868; 69%).
+The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="sk-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (2698; 100%), <tt><a href="sk-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (2698; 100%), <tt><a href="sk-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2215; 82%), <tt><a href="sk-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (1868; 69%).
 
 `PRON` tokens may have the following values of `Person`:
 

@@ -192,7 +192,7 @@ The most frequent other feature values with which `NUM` and `Case` co-occurred: 
 
 34 <tt><a href="sk-pos-ADV.html">ADV</a></tt> tokens (1% of all `ADV` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `ADV` and `Case` co-occurred: <tt><a href="sk-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (34; 100%), <tt><a href="sk-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (34; 100%).
+The most frequent other feature values with which `ADV` and `Case` co-occurred: <tt><a href="sk-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (34; 100%), <tt><a href="sk-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (34; 100%).
 
 `ADV` tokens may have the following values of `Case`:
 
