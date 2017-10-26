@@ -66,7 +66,7 @@ The following 4 pairs of parts of speech are connected with `fixed`: <tt><a href
 # visual-style 1 2 fixed	color:blue
 1	W	w	ADP	prep:loc:nwok	AdpType=Prep|Case=Loc|Variant=Short	3	case	_	_
 2	razie	raz	NOUN	subst:sg:loc:m3	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	1	fixed	_	_
-3	uszkodzenia	uszkodzenie	NOUN	subst:sg:gen:n	Case=Gen|Gender=Neut|Number=Sing	4	obj	_	_
+3	uszkodzenia	uszkodzenie	NOUN	subst:sg:gen:n	Case=Gen|Gender=Neut|Number=Sing	4	obl:arg	_	_
 4	zadziała	zadziałać	VERB	fin:sg:ter:perf	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 5	automatyczny	automatyczny	ADJ	adj:sg:nom:m3:pos	Animacy=Inan|Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	6	amod	_	_
 6	system	system	NOUN	subst:sg:nom:m3	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	_

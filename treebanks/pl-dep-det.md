@@ -69,7 +69,7 @@ The following 4 pairs of parts of speech are connected with `det`: <tt><a href="
 6	film	film	NOUN	subst:sg:acc:m3	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	4	obj	_	SpaceAfter=No
 7	,	,	PUNCT	interp	_	10	punct	_	_
 8	o	o	ADP	prep:loc	AdpType=Prep|Case=Loc	9	case	_	_
-9	którym	który	DET	adj:sg:loc:m3:pos	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing|PronType=Int,Rel	10	obj	_	_
+9	którym	który	DET	adj:sg:loc:m3:pos	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing|PronType=Int,Rel	10	obl:arg	_	_
 10	opowiadają	opowiadać	VERB	fin:pl:ter:imperf	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	acl	_	_
 11	wszyscy	wszystek	DET	adj:pl:nom:m1:pos	Animacy=Hum|Case=Nom|Gender=Masc|Number=Plur|PronType=Tot	12	det	_	_
 12	Polacy	Polak	PROPN	subst:pl:nom:m1	Animacy=Hum|Case=Nom|Gender=Masc|Number=Plur	10	nsubj	_	SpaceAfter=No

@@ -18,7 +18,7 @@ The feature is used with 2 part-of-speech tags: <tt><a href="pl-pos-VERB.html">V
 
 4135 <tt><a href="pl-pos-VERB.html">VERB</a></tt> tokens (38% of all `VERB` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="pl-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (4135; 100%), <tt><a href="pl-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (4135; 100%), <tt><a href="pl-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (4135; 100%), <tt><a href="pl-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (4135; 100%), <tt><a href="pl-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (3956; 96%), <tt><a href="pl-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (3514; 85%), <tt><a href="pl-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3000; 73%), <tt><a href="pl-feat-Person.html">Person</a></tt><tt>=3</tt> (2926; 71%).
+The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="pl-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (4135; 100%), <tt><a href="pl-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (4135; 100%), <tt><a href="pl-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (4135; 100%), <tt><a href="pl-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (4135; 100%), <tt><a href="pl-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (3956; 96%), <tt><a href="pl-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (3514; 85%), <tt><a href="pl-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3000; 73%), <tt><a href="pl-feat-Person.html">Person</a></tt><tt>=3</tt> (2926; 71%).
 
 `VERB` tokens may have the following values of `Mood`:
 
@@ -44,7 +44,7 @@ The most frequent other feature values with which `VERB` and `Mood` co-occurred:
 
 1723 <tt><a href="pl-pos-AUX.html">AUX</a></tt> tokens (73% of all `AUX` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `AUX` and `Mood` co-occurred: <tt><a href="pl-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (1723; 100%), <tt><a href="pl-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1723; 100%), <tt><a href="pl-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (1723; 100%), <tt><a href="pl-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (1723; 100%), <tt><a href="pl-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (1690; 98%), <tt><a href="pl-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (1314; 76%), <tt><a href="pl-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1177; 68%), <tt><a href="pl-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (1076; 62%).
+The most frequent other feature values with which `AUX` and `Mood` co-occurred: <tt><a href="pl-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (1723; 100%), <tt><a href="pl-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (1723; 100%), <tt><a href="pl-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (1723; 100%), <tt><a href="pl-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1723; 100%), <tt><a href="pl-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (1690; 98%), <tt><a href="pl-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (1314; 76%), <tt><a href="pl-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1177; 68%), <tt><a href="pl-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (1076; 62%).
 
 `AUX` tokens may have the following values of `Mood`:
 

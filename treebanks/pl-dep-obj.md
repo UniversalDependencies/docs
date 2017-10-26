@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-7772 nodes (9%) are attached to their parents as `obj`.
+5287 nodes (6%) are attached to their parents as `obj`.
 
-6325 instances of `obj` (81%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.04786412763767.
+4295 instances of `obj` (81%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.79553622091924.
 
-The following 28 pairs of parts of speech are connected with `obj`: <tt><a href="pl-pos-VERB.html">VERB</a></tt>-<tt><a href="pl-pos-NOUN.html">NOUN</a></tt> (5077; 65% instances), <tt><a href="pl-pos-VERB.html">VERB</a></tt>-<tt><a href="pl-pos-PRON.html">PRON</a></tt> (1125; 14% instances), <tt><a href="pl-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pl-pos-NOUN.html">NOUN</a></tt> (500; 6% instances), <tt><a href="pl-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pl-pos-NOUN.html">NOUN</a></tt> (277; 4% instances), <tt><a href="pl-pos-VERB.html">VERB</a></tt>-<tt><a href="pl-pos-PROPN.html">PROPN</a></tt> (256; 3% instances), <tt><a href="pl-pos-VERB.html">VERB</a></tt>-<tt><a href="pl-pos-NUM.html">NUM</a></tt> (204; 3% instances), <tt><a href="pl-pos-VERB.html">VERB</a></tt>-<tt><a href="pl-pos-DET.html">DET</a></tt> (74; 1% instances), <tt><a href="pl-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pl-pos-PRON.html">PRON</a></tt> (63; 1% instances), <tt><a href="pl-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pl-pos-PROPN.html">PROPN</a></tt> (45; 1% instances), <tt><a href="pl-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pl-pos-NUM.html">NUM</a></tt> (33; 0% instances), <tt><a href="pl-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pl-pos-PRON.html">PRON</a></tt> (26; 0% instances), <tt><a href="pl-pos-VERB.html">VERB</a></tt>-<tt><a href="pl-pos-ADJ.html">ADJ</a></tt> (20; 0% instances), <tt><a href="pl-pos-AUX.html">AUX</a></tt>-<tt><a href="pl-pos-NOUN.html">NOUN</a></tt> (13; 0% instances), <tt><a href="pl-pos-PART.html">PART</a></tt>-<tt><a href="pl-pos-NOUN.html">NOUN</a></tt> (11; 0% instances), <tt><a href="pl-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pl-pos-DET.html">DET</a></tt> (10; 0% instances), <tt><a href="pl-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pl-pos-PROPN.html">PROPN</a></tt> (8; 0% instances), <tt><a href="pl-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pl-pos-X.html">X</a></tt> (6; 0% instances), <tt><a href="pl-pos-ADV.html">ADV</a></tt>-<tt><a href="pl-pos-NOUN.html">NOUN</a></tt> (5; 0% instances), <tt><a href="pl-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pl-pos-ADJ.html">ADJ</a></tt> (4; 0% instances), <tt><a href="pl-pos-ADV.html">ADV</a></tt>-<tt><a href="pl-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="pl-pos-AUX.html">AUX</a></tt>-<tt><a href="pl-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="pl-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pl-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="pl-pos-PART.html">PART</a></tt>-<tt><a href="pl-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="pl-pos-VERB.html">VERB</a></tt>-<tt><a href="pl-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="pl-pos-VERB.html">VERB</a></tt>-<tt><a href="pl-pos-X.html">X</a></tt> (2; 0% instances), <tt><a href="pl-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pl-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="pl-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pl-pos-X.html">X</a></tt> (1; 0% instances), <tt><a href="pl-pos-PART.html">PART</a></tt>-<tt><a href="pl-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
+The following 21 pairs of parts of speech are connected with `obj`: <tt><a href="pl-pos-VERB.html">VERB</a></tt>-<tt><a href="pl-pos-NOUN.html">NOUN</a></tt> (3408; 64% instances), <tt><a href="pl-pos-VERB.html">VERB</a></tt>-<tt><a href="pl-pos-PRON.html">PRON</a></tt> (870; 16% instances), <tt><a href="pl-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pl-pos-NOUN.html">NOUN</a></tt> (277; 5% instances), <tt><a href="pl-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pl-pos-NOUN.html">NOUN</a></tt> (273; 5% instances), <tt><a href="pl-pos-VERB.html">VERB</a></tt>-<tt><a href="pl-pos-NUM.html">NUM</a></tt> (147; 3% instances), <tt><a href="pl-pos-VERB.html">VERB</a></tt>-<tt><a href="pl-pos-PROPN.html">PROPN</a></tt> (121; 2% instances), <tt><a href="pl-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pl-pos-PRON.html">PRON</a></tt> (51; 1% instances), <tt><a href="pl-pos-VERB.html">VERB</a></tt>-<tt><a href="pl-pos-DET.html">DET</a></tt> (42; 1% instances), <tt><a href="pl-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pl-pos-PRON.html">PRON</a></tt> (26; 0% instances), <tt><a href="pl-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pl-pos-NUM.html">NUM</a></tt> (19; 0% instances), <tt><a href="pl-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pl-pos-PROPN.html">PROPN</a></tt> (14; 0% instances), <tt><a href="pl-pos-VERB.html">VERB</a></tt>-<tt><a href="pl-pos-ADJ.html">ADJ</a></tt> (10; 0% instances), <tt><a href="pl-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pl-pos-PROPN.html">PROPN</a></tt> (8; 0% instances), <tt><a href="pl-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pl-pos-DET.html">DET</a></tt> (6; 0% instances), <tt><a href="pl-pos-AUX.html">AUX</a></tt>-<tt><a href="pl-pos-NOUN.html">NOUN</a></tt> (6; 0% instances), <tt><a href="pl-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pl-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="pl-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pl-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="pl-pos-VERB.html">VERB</a></tt>-<tt><a href="pl-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="pl-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pl-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="pl-pos-AUX.html">AUX</a></tt>-<tt><a href="pl-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="pl-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pl-pos-X.html">X</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -29,7 +29,7 @@ The following 28 pairs of parts of speech are connected with `obj`: <tt><a href=
 5	słowa	słowo	NOUN	subst:pl:acc:n	Case=Acc|Gender=Neut|Number=Plur	4	obj	_	_
 6	przez	przez	ADP	prep:acc:nwok	AdpType=Prep|Case=Acc|Variant=Short	8	case	_	_
 7	zaciśnięte	zaciśnięty	ADJ	ppas:sg:acc:n:perf:aff	Aspect=Perf|Case=Acc|Gender=Neut|Number=Sing|Polarity=Pos|VerbForm=Part|Voice=Pass	8	amod	_	_
-8	gardło	gardło	NOUN	subst:sg:acc:n	Case=Acc|Gender=Neut|Number=Sing	4	iobj	_	SpaceAfter=No
+8	gardło	gardło	NOUN	subst:sg:acc:n	Case=Acc|Gender=Neut|Number=Sing	4	obl:arg	_	SpaceAfter=No
 9	.	.	PUNCT	interp	_	4	punct	_	_
 
 ~~~
@@ -55,18 +55,19 @@ The following 28 pairs of parts of speech are connected with `obj`: <tt><a href=
 
 
 ~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 1 obj	color:blue
-1	Poszkodowanego	poszkodowany	NOUN	subst:sg:acc:m1	Animacy=Hum|Case=Acc|Gender=Masc|Number=Sing	2	obj	_	_
-2	poddano	poddany	ADJ	imps:perf	Aspect=Perf|Case=Nom|Gender=Neut|Number=Sing|Polarity=Pos|VerbForm=Part|Voice=Pass	0	root	_	_
-3	operacji	operacja	NOUN	subst:sg:dat:f	Case=Dat|Gender=Fem|Number=Sing	2	obj	_	_
-4	w	w	ADP	prep:loc:nwok	AdpType=Prep|Case=Loc|Variant=Short	6	case	_	_
-5	miejscowym	miejscowy	ADJ	adj:sg:loc:m3:pos	Animacy=Inan|Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	6	amod	_	_
-6	szpitalu	szpital	NOUN	subst:sg:loc:m3	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	2	obl	_	SpaceAfter=No
-7	.	.	PUNCT	interp	_	2	punct	_	_
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 5 obj	color:blue
+1	Zaczną	zacząć	VERB	fin:pl:ter:perf	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	jednak	jednak	PART	qub	_	1	advmod	_	_
+3	od	od	ADP	prep:gen:nwok	AdpType=Prep|Case=Gen|Variant=Short	4	case	_	_
+4	wyciągania	wyciąganie	NOUN	ger:sg:gen:n:imperf:aff	Aspect=Imp|Case=Gen|Gender=Neut|Number=Sing|Polarity=Pos|VerbForm=Vnoun	1	obl:arg	_	_
+5	złomu	złom	NOUN	subst:sg:gen:m3	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	4	obj	_	_
+6	z	z	ADP	prep:gen:nwok	AdpType=Prep|Case=Gen|Variant=Short	7	case	_	_
+7	dna	dno	NOUN	subst:sg:gen:n	Case=Gen|Gender=Neut|Number=Sing	4	nmod	_	SpaceAfter=No
+8	.	.	PUNCT	interp	_	1	punct	_	_
 
 ~~~
 

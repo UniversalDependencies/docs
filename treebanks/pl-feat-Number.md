@@ -40,7 +40,7 @@ The most frequent other feature values with which `NOUN` and `Number` co-occurre
 
 9103 <tt><a href="pl-pos-VERB.html">VERB</a></tt> tokens (83% of all `VERB` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="pl-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (5895; 65%), <tt><a href="pl-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (5384; 59%), <tt><a href="pl-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (4968; 55%), <tt><a href="pl-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (4968; 55%), <tt><a href="pl-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (4968; 55%), <tt><a href="pl-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (4968; 55%), <tt><a href="pl-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (4968; 55%).
+The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="pl-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (5895; 65%), <tt><a href="pl-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (5384; 59%), <tt><a href="pl-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (4968; 55%), <tt><a href="pl-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (4968; 55%), <tt><a href="pl-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (4968; 55%), <tt><a href="pl-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (4968; 55%), <tt><a href="pl-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (4968; 55%).
 
 `VERB` tokens may have the following values of `Number`:
 
@@ -66,7 +66,7 @@ The most frequent other feature values with which `VERB` and `Number` co-occurre
 
 7896 <tt><a href="pl-pos-ADJ.html">ADJ</a></tt> tokens (99% of all `ADJ` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `ADJ` and `Number` co-occurred: <tt><a href="pl-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (6491; 82%), <tt><a href="pl-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (6491; 82%), <tt><a href="pl-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (6490; 82%), <tt><a href="pl-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (6438; 82%), <tt><a href="pl-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (6169; 78%), <tt><a href="pl-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (4325; 55%).
+The most frequent other feature values with which `ADJ` and `Number` co-occurred: <tt><a href="pl-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (6491; 82%), <tt><a href="pl-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (6491; 82%), <tt><a href="pl-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (6490; 82%), <tt><a href="pl-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (6438; 82%), <tt><a href="pl-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (6169; 78%), <tt><a href="pl-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (4325; 55%).
 
 `ADJ` tokens may have the following values of `Number`:
 
@@ -200,7 +200,7 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
 
 2023 <tt><a href="pl-pos-AUX.html">AUX</a></tt> tokens (86% of all `AUX` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `AUX` and `Number` co-occurred: <tt><a href="pl-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (1859; 92%), <tt><a href="pl-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (1785; 88%), <tt><a href="pl-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1556; 77%), <tt><a href="pl-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (1556; 77%), <tt><a href="pl-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (1556; 77%), <tt><a href="pl-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (1553; 77%), <tt><a href="pl-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (1376; 68%), <tt><a href="pl-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (1314; 65%).
+The most frequent other feature values with which `AUX` and `Number` co-occurred: <tt><a href="pl-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (1859; 92%), <tt><a href="pl-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (1785; 88%), <tt><a href="pl-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (1556; 77%), <tt><a href="pl-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (1556; 77%), <tt><a href="pl-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1556; 77%), <tt><a href="pl-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (1553; 77%), <tt><a href="pl-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (1376; 68%), <tt><a href="pl-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (1314; 65%).
 
 `AUX` tokens may have the following values of `Number`:
 
@@ -232,7 +232,7 @@ The most frequent other feature values with which `AUX` and `Number` co-occurred
 
 1975 <tt><a href="pl-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="pl-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (1765; 89%), <tt><a href="pl-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (1748; 89%), <tt><a href="pl-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (1748; 89%), <tt><a href="pl-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (1538; 78%), <tt><a href="pl-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (993; 50%).
+The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="pl-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (1765; 89%), <tt><a href="pl-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (1748; 89%), <tt><a href="pl-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (1748; 89%), <tt><a href="pl-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (1538; 78%), <tt><a href="pl-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (993; 50%).
 
 `DET` tokens may have the following values of `Number`:
 
@@ -285,11 +285,11 @@ The 10 most frequent relations where parent and child node agree in `Number`:
 <tt>NOUN --[<tt><a href="pl-dep-amod.html">amod</a></tt>]--> ADJ</tt> (6023; 99%),
 <tt>VERB --[<tt><a href="pl-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (3163; 94%),
 <tt>NOUN --[<tt><a href="pl-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (3067; 64%),
-<tt>VERB --[<tt><a href="pl-dep-obj.html">obj</a></tt>]--> NOUN</tt> (2727; 54%),
+<tt>VERB --[<tt><a href="pl-dep-obj.html">obj</a></tt>]--> NOUN</tt> (1764; 52%),
 <tt>NOUN --[<tt><a href="pl-dep-det.html">det</a></tt>]--> DET</tt> (1356; 100%),
 <tt>VERB --[<tt><a href="pl-dep-obl.html">obl</a></tt>]--> NOUN</tt> (1329; 60%),
+<tt>VERB --[<tt><a href="pl-dep-obl-arg.html">obl:arg</a></tt>]--> NOUN</tt> (1156; 58%),
 <tt>VERB --[<tt><a href="pl-dep-conj.html">conj</a></tt>]--> VERB</tt> (979; 86%),
 <tt>VERB --[<tt><a href="pl-dep-aux.html">aux</a></tt>]--> AUX</tt> (694; 70%),
-<tt>NOUN --[<tt><a href="pl-dep-conj.html">conj</a></tt>]--> NOUN</tt> (669; 81%),
-<tt>VERB --[<tt><a href="pl-dep-nsubj.html">nsubj</a></tt>]--> PROPN</tt> (627; 96%).
+<tt>NOUN --[<tt><a href="pl-dep-conj.html">conj</a></tt>]--> NOUN</tt> (669; 81%).
 

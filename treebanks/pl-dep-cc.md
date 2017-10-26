@@ -70,7 +70,7 @@ The following 11 pairs of parts of speech are connected with `cc`: <tt><a href="
 8	dane	dany	ADJ	adj:sg:nom:acc:n:pos	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	1	conj	_	_
 9	opowiedzieć	opowiedzieć	VERB	inf:perf	Aspect=Perf|VerbForm=Inf	8	xcomp	_	_
 10	o	o	ADP	prep:loc	AdpType=Prep|Case=Loc	11	case	_	_
-11	tym	to	PRON	subst:sg:loc:n	Case=Loc|Gender=Neut|Number=Sing|PronType=Dem	9	obj	_	SpaceAfter=No
+11	tym	to	PRON	subst:sg:loc:n	Case=Loc|Gender=Neut|Number=Sing|PronType=Dem	9	obl:arg	_	SpaceAfter=No
 12	.	.	PUNCT	interp	_	1	punct	_	SpaceAfter=No
 13	.	.	PUNCT	interp	_	1	punct	_	SpaceAfter=No
 14	.	.	PUNCT	interp	_	1	punct	_	_

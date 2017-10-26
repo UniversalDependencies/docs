@@ -2081,213 +2081,45 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
   <li><a>obj</a>
     <ul>
       <li>VERB--NOUN-Acc (10)</li>
-      <li>VERB--NOUN-Acc-ADP(na) (1)</li>
       <li>VERB--NOUN-Dat (1)</li>
       <li>VERB--NOUN-Gen (9)</li>
-      <li>VERB--NOUN-Gen-ADP(nawet) (1)</li>
-      <li>VERB--NOUN-Gen-ADP(z) (1)</li>
       <li>VERB--PRON-Acc (1)</li>
-      <li>VERB--PRON-Acc-ADP(na) (1)</li>
       <li>VERB--PRON-Dat (4)</li>
       <li>VERB--PRON-Gen (4)</li>
       <li>VERB-Conv--NOUN-Acc (72)</li>
-      <li>VERB-Conv--NOUN-Acc-ADP(na) (4)</li>
-      <li>VERB-Conv--NOUN-Acc-ADP(o) (1)</li>
-      <li>VERB-Conv--NOUN-Acc-ADP(w) (3)</li>
-      <li>VERB-Conv--NOUN-Acc-ADP(za) (2)</li>
       <li>VERB-Conv--NOUN-Dat (3)</li>
       <li>VERB-Conv--NOUN-Gen (15)</li>
-      <li>VERB-Conv--NOUN-Gen-ADP(co) (1)</li>
-      <li>VERB-Conv--NOUN-Gen-ADP(do) (4)</li>
-      <li>VERB-Conv--NOUN-Gen-ADP(od) (1)</li>
-      <li>VERB-Conv--NOUN-Gen-ADP(wokół) (1)</li>
-      <li>VERB-Conv--NOUN-Gen-ADP(z) (1)</li>
       <li>VERB-Conv--NOUN-Ins (15)</li>
-      <li>VERB-Conv--NOUN-Ins-ADP(pod) (1)</li>
-      <li>VERB-Conv--NOUN-Ins-ADP(za) (1)</li>
-      <li>VERB-Conv--NOUN-Loc-ADP(o) (2)</li>
-      <li>VERB-Conv--NOUN-Loc-ADP(po) (1)</li>
-      <li>VERB-Conv--NOUN-Loc-ADP(w) (3)</li>
       <li>VERB-Conv--PRON-Acc (5)</li>
-      <li>VERB-Conv--PRON-Acc-ADP(na) (2)</li>
-      <li>VERB-Conv--PRON-Acc-ADP(przed) (1)</li>
       <li>VERB-Conv--PRON-Dat (1)</li>
       <li>VERB-Conv--PRON-Gen (1)</li>
       <li>VERB-Conv--PRON-Ins (1)</li>
       <li>VERB-Fin--NOUN-Acc (871)</li>
-      <li>VERB-Fin--NOUN-Acc-ADP(na) (71)</li>
-      <li>VERB-Fin--NOUN-Acc-ADP(nad) (1)</li>
-      <li>VERB-Fin--NOUN-Acc-ADP(nie) (1)</li>
-      <li>VERB-Fin--NOUN-Acc-ADP(o) (43)</li>
-      <li>VERB-Fin--NOUN-Acc-ADP(pod) (1)</li>
-      <li>VERB-Fin--NOUN-Acc-ADP(przez) (4)</li>
-      <li>VERB-Fin--NOUN-Acc-ADP(w) (32)</li>
-      <li>VERB-Fin--NOUN-Acc-ADP(więc) (1)</li>
-      <li>VERB-Fin--NOUN-Acc-ADP(za) (26)</li>
       <li>VERB-Fin--NOUN-Dat (43)</li>
-      <li>VERB-Fin--NOUN-Dat-ADP(przeciwko) (3)</li>
       <li>VERB-Fin--NOUN-Gen (249)</li>
-      <li>VERB-Fin--NOUN-Gen-ADP(bez) (1)</li>
-      <li>VERB-Fin--NOUN-Gen-ADP(dla) (1)</li>
-      <li>VERB-Fin--NOUN-Gen-ADP(do) (126)</li>
-      <li>VERB-Fin--NOUN-Gen-ADP(koło) (1)</li>
-      <li>VERB-Fin--NOUN-Gen-ADP(od) (20)</li>
-      <li>VERB-Fin--NOUN-Gen-ADP(poniżej) (1)</li>
-      <li>VERB-Fin--NOUN-Gen-ADP(u) (6)</li>
-      <li>VERB-Fin--NOUN-Gen-ADP(w) (1)</li>
-      <li>VERB-Fin--NOUN-Gen-ADP(wśród) (2)</li>
-      <li>VERB-Fin--NOUN-Gen-ADP(z) (31)</li>
-      <li>VERB-Fin--NOUN-Gen-ADP(zza) (1)</li>
       <li>VERB-Fin--NOUN-Ins (50)</li>
-      <li>VERB-Fin--NOUN-Ins-ADP(nad) (4)</li>
-      <li>VERB-Fin--NOUN-Ins-ADP(pod) (2)</li>
-      <li>VERB-Fin--NOUN-Ins-ADP(przed) (5)</li>
-      <li>VERB-Fin--NOUN-Ins-ADP(z) (22)</li>
-      <li>VERB-Fin--NOUN-Ins-ADP(za) (11)</li>
-      <li>VERB-Fin--NOUN-Loc-ADP(na) (55)</li>
-      <li>VERB-Fin--NOUN-Loc-ADP(o) (24)</li>
-      <li>VERB-Fin--NOUN-Loc-ADP(po) (7)</li>
-      <li>VERB-Fin--NOUN-Loc-ADP(przy) (5)</li>
-      <li>VERB-Fin--NOUN-Loc-ADP(w) (83)</li>
-      <li>VERB-Fin--NOUN-Nom-ADP(jak) (2)</li>
       <li>VERB-Fin--PRON (1)</li>
       <li>VERB-Fin--PRON-Acc (185)</li>
-      <li>VERB-Fin--PRON-Acc-ADP(na) (9)</li>
-      <li>VERB-Fin--PRON-Acc-ADP(o) (7)</li>
-      <li>VERB-Fin--PRON-Acc-ADP(po) (1)</li>
-      <li>VERB-Fin--PRON-Acc-ADP(poza) (1)</li>
-      <li>VERB-Fin--PRON-Acc-ADP(przed) (1)</li>
-      <li>VERB-Fin--PRON-Acc-ADP(przez) (1)</li>
-      <li>VERB-Fin--PRON-Acc-ADP(w) (2)</li>
-      <li>VERB-Fin--PRON-Acc-ADP(za) (2)</li>
       <li>VERB-Fin--PRON-Dat (65)</li>
-      <li>VERB-Fin--PRON-Dat-ADP(przeciwko) (1)</li>
       <li>VERB-Fin--PRON-Gen (69)</li>
-      <li>VERB-Fin--PRON-Gen-ADP(do) (17)</li>
-      <li>VERB-Fin--PRON-Gen-ADP(naprzeciw) (1)</li>
-      <li>VERB-Fin--PRON-Gen-ADP(obok) (2)</li>
-      <li>VERB-Fin--PRON-Gen-ADP(od) (1)</li>
-      <li>VERB-Fin--PRON-Gen-ADP(z) (3)</li>
       <li>VERB-Fin--PRON-Ins (4)</li>
-      <li>VERB-Fin--PRON-Ins-ADP(nad) (1)</li>
-      <li>VERB-Fin--PRON-Ins-ADP(pod) (1)</li>
-      <li>VERB-Fin--PRON-Ins-ADP(z) (6)</li>
-      <li>VERB-Fin--PRON-Ins-ADP(za) (1)</li>
-      <li>VERB-Fin--PRON-Loc-ADP(na) (2)</li>
-      <li>VERB-Fin--PRON-Loc-ADP(o) (17)</li>
-      <li>VERB-Fin--PRON-Loc-ADP(po) (1)</li>
-      <li>VERB-Fin--PRON-Loc-ADP(w) (5)</li>
       <li>VERB-Inf--NOUN-Acc (394)</li>
-      <li>VERB-Inf--NOUN-Acc-ADP(i) (1)</li>
-      <li>VERB-Inf--NOUN-Acc-ADP(na) (31)</li>
-      <li>VERB-Inf--NOUN-Acc-ADP(o) (8)</li>
-      <li>VERB-Inf--NOUN-Acc-ADP(po) (1)</li>
-      <li>VERB-Inf--NOUN-Acc-ADP(pod) (1)</li>
-      <li>VERB-Inf--NOUN-Acc-ADP(przez) (2)</li>
-      <li>VERB-Inf--NOUN-Acc-ADP(w) (7)</li>
-      <li>VERB-Inf--NOUN-Acc-ADP(za) (7)</li>
       <li>VERB-Inf--NOUN-Dat (16)</li>
-      <li>VERB-Inf--NOUN-Dat-ADP(przeciwko) (1)</li>
       <li>VERB-Inf--NOUN-Gen (98)</li>
-      <li>VERB-Inf--NOUN-Gen-ADP(bez) (1)</li>
-      <li>VERB-Inf--NOUN-Gen-ADP(do) (42)</li>
-      <li>VERB-Inf--NOUN-Gen-ADP(na) (1)</li>
-      <li>VERB-Inf--NOUN-Gen-ADP(od) (3)</li>
-      <li>VERB-Inf--NOUN-Gen-ADP(z) (19)</li>
       <li>VERB-Inf--NOUN-Ins (22)</li>
-      <li>VERB-Inf--NOUN-Ins-ADP(nad) (6)</li>
-      <li>VERB-Inf--NOUN-Ins-ADP(przed) (2)</li>
-      <li>VERB-Inf--NOUN-Ins-ADP(z) (23)</li>
-      <li>VERB-Inf--NOUN-Ins-ADP(za) (3)</li>
-      <li>VERB-Inf--NOUN-Loc-ADP(na) (10)</li>
-      <li>VERB-Inf--NOUN-Loc-ADP(o) (12)</li>
-      <li>VERB-Inf--NOUN-Loc-ADP(w) (19)</li>
       <li>VERB-Inf--PRON (1)</li>
       <li>VERB-Inf--PRON-Acc (104)</li>
-      <li>VERB-Inf--PRON-Acc-ADP(na) (5)</li>
-      <li>VERB-Inf--PRON-Acc-ADP(o) (3)</li>
-      <li>VERB-Inf--PRON-Acc-ADP(za) (2)</li>
       <li>VERB-Inf--PRON-Dat (25)</li>
       <li>VERB-Inf--PRON-Gen (25)</li>
-      <li>VERB-Inf--PRON-Gen-ADP(do) (5)</li>
-      <li>VERB-Inf--PRON-Gen-ADP(od) (2)</li>
-      <li>VERB-Inf--PRON-Gen-ADP(z) (4)</li>
-      <li>VERB-Inf--PRON-Ins-ADP(nad) (2)</li>
-      <li>VERB-Inf--PRON-Ins-ADP(z) (10)</li>
-      <li>VERB-Inf--PRON-Loc-ADP(na) (1)</li>
-      <li>VERB-Inf--PRON-Loc-ADP(o) (5)</li>
-      <li>VERB-Inf--PRON-Loc-ADP(w) (1)</li>
       <li>VERB-Part--NOUN-Acc (1176)</li>
-      <li>VERB-Part--NOUN-Acc-ADP(między) (2)</li>
-      <li>VERB-Part--NOUN-Acc-ADP(na) (120)</li>
-      <li>VERB-Part--NOUN-Acc-ADP(nad) (3)</li>
-      <li>VERB-Part--NOUN-Acc-ADP(o) (20)</li>
-      <li>VERB-Part--NOUN-Acc-ADP(po) (6)</li>
-      <li>VERB-Part--NOUN-Acc-ADP(pod) (4)</li>
-      <li>VERB-Part--NOUN-Acc-ADP(przez) (6)</li>
-      <li>VERB-Part--NOUN-Acc-ADP(także) (1)</li>
-      <li>VERB-Part--NOUN-Acc-ADP(w) (56)</li>
-      <li>VERB-Part--NOUN-Acc-ADP(za) (11)</li>
       <li>VERB-Part--NOUN-Dat (37)</li>
-      <li>VERB-Part--NOUN-Dat-ADP(przeciwko) (2)</li>
       <li>VERB-Part--NOUN-Gen (206)</li>
-      <li>VERB-Part--NOUN-Gen-ADP(bez) (4)</li>
-      <li>VERB-Part--NOUN-Gen-ADP(dla) (1)</li>
-      <li>VERB-Part--NOUN-Gen-ADP(do) (188)</li>
-      <li>VERB-Part--NOUN-Gen-ADP(obok) (2)</li>
-      <li>VERB-Part--NOUN-Gen-ADP(od) (24)</li>
-      <li>VERB-Part--NOUN-Gen-ADP(opodal) (1)</li>
-      <li>VERB-Part--NOUN-Gen-ADP(podczas) (1)</li>
-      <li>VERB-Part--NOUN-Gen-ADP(poniżej) (1)</li>
-      <li>VERB-Part--NOUN-Gen-ADP(spod) (3)</li>
-      <li>VERB-Part--NOUN-Gen-ADP(wokół) (1)</li>
-      <li>VERB-Part--NOUN-Gen-ADP(wzdłuż) (1)</li>
-      <li>VERB-Part--NOUN-Gen-ADP(wśród) (6)</li>
-      <li>VERB-Part--NOUN-Gen-ADP(z) (75)</li>
-      <li>VERB-Part--NOUN-Gen-ADP(zza) (3)</li>
       <li>VERB-Part--NOUN-Ins (121)</li>
-      <li>VERB-Part--NOUN-Ins-ADP(między) (2)</li>
-      <li>VERB-Part--NOUN-Ins-ADP(nad) (4)</li>
-      <li>VERB-Part--NOUN-Ins-ADP(pod) (9)</li>
-      <li>VERB-Part--NOUN-Ins-ADP(poza) (1)</li>
-      <li>VERB-Part--NOUN-Ins-ADP(przed) (5)</li>
-      <li>VERB-Part--NOUN-Ins-ADP(z) (37)</li>
-      <li>VERB-Part--NOUN-Ins-ADP(za) (5)</li>
-      <li>VERB-Part--NOUN-Loc-ADP(na) (84)</li>
-      <li>VERB-Part--NOUN-Loc-ADP(o) (26)</li>
-      <li>VERB-Part--NOUN-Loc-ADP(po) (12)</li>
-      <li>VERB-Part--NOUN-Loc-ADP(przy) (8)</li>
-      <li>VERB-Part--NOUN-Loc-ADP(w) (107)</li>
-      <li>VERB-Part--NOUN-Nom-ADP(jak) (1)</li>
-      <li>VERB-Part--NOUN-Nom-ADP(jako) (1)</li>
-      <li>VERB-Part--NOUN-Nom-ADP(niczym) (2)</li>
       <li>VERB-Part--PRON (5)</li>
       <li>VERB-Part--PRON-Acc (243)</li>
-      <li>VERB-Part--PRON-Acc-ADP(i) (1)</li>
-      <li>VERB-Part--PRON-Acc-ADP(na) (31)</li>
-      <li>VERB-Part--PRON-Acc-ADP(o) (12)</li>
-      <li>VERB-Part--PRON-Acc-ADP(po) (1)</li>
-      <li>VERB-Part--PRON-Acc-ADP(przed) (2)</li>
-      <li>VERB-Part--PRON-Acc-ADP(w) (3)</li>
-      <li>VERB-Part--PRON-Acc-ADP(za) (2)</li>
       <li>VERB-Part--PRON-Dat (73)</li>
-      <li>VERB-Part--PRON-Dat-ADP(ku) (1)</li>
       <li>VERB-Part--PRON-Gen (46)</li>
-      <li>VERB-Part--PRON-Gen-ADP(do) (24)</li>
-      <li>VERB-Part--PRON-Gen-ADP(obok) (1)</li>
-      <li>VERB-Part--PRON-Gen-ADP(u) (3)</li>
-      <li>VERB-Part--PRON-Gen-ADP(wokół) (1)</li>
-      <li>VERB-Part--PRON-Gen-ADP(z) (7)</li>
       <li>VERB-Part--PRON-Ins (7)</li>
-      <li>VERB-Part--PRON-Ins-ADP(nad) (1)</li>
-      <li>VERB-Part--PRON-Ins-ADP(przed) (3)</li>
-      <li>VERB-Part--PRON-Ins-ADP(z) (12)</li>
-      <li>VERB-Part--PRON-Ins-ADP(za) (3)</li>
-      <li>VERB-Part--PRON-Loc-ADP(na) (2)</li>
-      <li>VERB-Part--PRON-Loc-ADP(o) (10)</li>
-      <li>VERB-Part--PRON-Loc-ADP(po) (2)</li>
-      <li>VERB-Part--PRON-Loc-ADP(przy) (2)</li>
-      <li>VERB-Part--PRON-Loc-ADP(w) (4)</li>
     </ul>
   </li>
 </ul>
@@ -2342,111 +2174,32 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
     <ul>
       <li>VERB--NOUN-Dat (2)</li>
       <li>VERB--PRON-Dat (2)</li>
-      <li>VERB-Conv--NOUN-Acc-ADP(na) (2)</li>
-      <li>VERB-Conv--NOUN-Acc-ADP(pod) (1)</li>
-      <li>VERB-Conv--NOUN-Acc-ADP(w) (1)</li>
       <li>VERB-Conv--NOUN-Dat (2)</li>
-      <li>VERB-Conv--NOUN-Gen-ADP(do) (1)</li>
-      <li>VERB-Conv--NOUN-Gen-ADP(z) (1)</li>
       <li>VERB-Conv--NOUN-Ins (3)</li>
-      <li>VERB-Conv--PRON-Acc-ADP(w) (1)</li>
       <li>VERB-Conv--PRON-Dat (4)</li>
-      <li>VERB-Conv--PRON-Gen-ADP(z) (1)</li>
       <li>VERB-Fin--NOUN-Acc (9)</li>
-      <li>VERB-Fin--NOUN-Acc-ADP(na) (12)</li>
-      <li>VERB-Fin--NOUN-Acc-ADP(o) (6)</li>
-      <li>VERB-Fin--NOUN-Acc-ADP(pod) (3)</li>
-      <li>VERB-Fin--NOUN-Acc-ADP(przez) (1)</li>
-      <li>VERB-Fin--NOUN-Acc-ADP(w) (3)</li>
-      <li>VERB-Fin--NOUN-Acc-ADP(za) (7)</li>
       <li>VERB-Fin--NOUN-Dat (27)</li>
       <li>VERB-Fin--NOUN-Gen (2)</li>
-      <li>VERB-Fin--NOUN-Gen-ADP(do) (21)</li>
-      <li>VERB-Fin--NOUN-Gen-ADP(od) (7)</li>
-      <li>VERB-Fin--NOUN-Gen-ADP(z) (6)</li>
       <li>VERB-Fin--NOUN-Ins (14)</li>
-      <li>VERB-Fin--NOUN-Ins-ADP(z) (4)</li>
-      <li>VERB-Fin--NOUN-Loc-ADP(na) (5)</li>
-      <li>VERB-Fin--NOUN-Loc-ADP(o) (4)</li>
-      <li>VERB-Fin--NOUN-Loc-ADP(po) (1)</li>
-      <li>VERB-Fin--NOUN-Loc-ADP(przy) (1)</li>
-      <li>VERB-Fin--NOUN-Loc-ADP(w) (12)</li>
       <li>VERB-Fin--PRON-Acc (2)</li>
-      <li>VERB-Fin--PRON-Acc-ADP(na) (3)</li>
       <li>VERB-Fin--PRON-Dat (60)</li>
       <li>VERB-Fin--PRON-Gen (1)</li>
-      <li>VERB-Fin--PRON-Gen-ADP(do) (1)</li>
-      <li>VERB-Fin--PRON-Gen-ADP(od) (1)</li>
-      <li>VERB-Fin--PRON-Gen-ADP(z) (1)</li>
       <li>VERB-Fin--PRON-Ins (3)</li>
-      <li>VERB-Fin--PRON-Loc-ADP(na) (2)</li>
-      <li>VERB-Fin--PRON-Loc-ADP(o) (2)</li>
-      <li>VERB-Fin--PRON-Loc-ADP(w) (2)</li>
       <li>VERB-Inf--NOUN-Acc (1)</li>
-      <li>VERB-Inf--NOUN-Acc-ADP(na) (7)</li>
-      <li>VERB-Inf--NOUN-Acc-ADP(o) (1)</li>
-      <li>VERB-Inf--NOUN-Acc-ADP(przez) (3)</li>
-      <li>VERB-Inf--NOUN-Acc-ADP(w) (2)</li>
       <li>VERB-Inf--NOUN-Dat (19)</li>
       <li>VERB-Inf--NOUN-Gen (1)</li>
-      <li>VERB-Inf--NOUN-Gen-ADP(do) (11)</li>
-      <li>VERB-Inf--NOUN-Gen-ADP(od) (3)</li>
-      <li>VERB-Inf--NOUN-Gen-ADP(z) (4)</li>
       <li>VERB-Inf--NOUN-Ins (5)</li>
-      <li>VERB-Inf--NOUN-Ins-ADP(przed) (2)</li>
-      <li>VERB-Inf--NOUN-Loc-ADP(na) (2)</li>
-      <li>VERB-Inf--NOUN-Loc-ADP(o) (1)</li>
-      <li>VERB-Inf--NOUN-Loc-ADP(po) (1)</li>
-      <li>VERB-Inf--NOUN-Loc-ADP(w) (1)</li>
       <li>VERB-Inf--PRON-Acc (2)</li>
-      <li>VERB-Inf--PRON-Acc-ADP(w) (1)</li>
       <li>VERB-Inf--PRON-Dat (32)</li>
-      <li>VERB-Inf--PRON-Gen-ADP(do) (1)</li>
       <li>VERB-Inf--PRON-Ins (2)</li>
-      <li>VERB-Inf--PRON-Ins-ADP(z) (2)</li>
-      <li>VERB-Inf--PRON-Loc-ADP(na) (1)</li>
-      <li>VERB-Inf--PRON-Loc-ADP(o) (2)</li>
-      <li>VERB-Inf--PRON-Loc-ADP(w) (2)</li>
       <li>VERB-Part--NOUN-Acc (6)</li>
-      <li>VERB-Part--NOUN-Acc-ADP(między) (1)</li>
-      <li>VERB-Part--NOUN-Acc-ADP(na) (24)</li>
-      <li>VERB-Part--NOUN-Acc-ADP(o) (5)</li>
-      <li>VERB-Part--NOUN-Acc-ADP(pod) (1)</li>
-      <li>VERB-Part--NOUN-Acc-ADP(przez) (1)</li>
-      <li>VERB-Part--NOUN-Acc-ADP(w) (10)</li>
-      <li>VERB-Part--NOUN-Acc-ADP(za) (9)</li>
       <li>VERB-Part--NOUN-Dat (42)</li>
-      <li>VERB-Part--NOUN-Gen-ADP(bez) (1)</li>
-      <li>VERB-Part--NOUN-Gen-ADP(do) (51)</li>
-      <li>VERB-Part--NOUN-Gen-ADP(od) (8)</li>
-      <li>VERB-Part--NOUN-Gen-ADP(sprzed) (1)</li>
-      <li>VERB-Part--NOUN-Gen-ADP(z) (22)</li>
       <li>VERB-Part--NOUN-Ins (32)</li>
-      <li>VERB-Part--NOUN-Ins-ADP(przed) (3)</li>
-      <li>VERB-Part--NOUN-Ins-ADP(z) (5)</li>
-      <li>VERB-Part--NOUN-Ins-ADP(za) (1)</li>
-      <li>VERB-Part--NOUN-Loc-ADP(na) (13)</li>
-      <li>VERB-Part--NOUN-Loc-ADP(o) (5)</li>
-      <li>VERB-Part--NOUN-Loc-ADP(po) (2)</li>
-      <li>VERB-Part--NOUN-Loc-ADP(przy) (1)</li>
-      <li>VERB-Part--NOUN-Loc-ADP(w) (22)</li>
       <li>VERB-Part--PRON (1)</li>
       <li>VERB-Part--PRON-Acc (7)</li>
-      <li>VERB-Part--PRON-Acc-ADP(na) (2)</li>
-      <li>VERB-Part--PRON-Acc-ADP(o) (2)</li>
       <li>VERB-Part--PRON-Dat (93)</li>
-      <li>VERB-Part--PRON-Dat-ADP(ku) (1)</li>
       <li>VERB-Part--PRON-Gen (1)</li>
-      <li>VERB-Part--PRON-Gen-ADP(do) (4)</li>
-      <li>VERB-Part--PRON-Gen-ADP(od) (3)</li>
-      <li>VERB-Part--PRON-Gen-ADP(z) (1)</li>
       <li>VERB-Part--PRON-Ins (1)</li>
-      <li>VERB-Part--PRON-Ins-ADP(przed) (1)</li>
-      <li>VERB-Part--PRON-Ins-ADP(z) (1)</li>
-      <li>VERB-Part--PRON-Ins-ADP(za) (1)</li>
-      <li>VERB-Part--PRON-Loc-ADP(na) (3)</li>
-      <li>VERB-Part--PRON-Loc-ADP(o) (3)</li>
-      <li>VERB-Part--PRON-Loc-ADP(w) (3)</li>
     </ul>
   </li>
 </ul>
@@ -2468,7 +2221,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus uses 5 relation subtypes: <a>aux:pass</a>, <a>det:numgov</a>, <a>det:nummod</a>, <a>expl:pv</a>, <a>nsubj:pass</a></li>
+<li>This corpus uses 7 relation subtypes: <a>aux:pass</a>, <a>det:numgov</a>, <a>det:nummod</a>, <a>expl:pv</a>, <a>nsubj:pass</a>, <a>obl:agent</a>, <a>obl:arg</a></li>
 <li>The following 1 main types are not used alone, they are always subtyped: <a>expl</a></li>
 <li>The following 11 relation types are not used in this corpus at all: <a>vocative</a>, <a>dislocated</a>, <a>discourse</a>, <a>clf</a>, <a>compound</a>, <a>list</a>, <a>parataxis</a>, <a>orphan</a>, <a>goeswith</a>, <a>reparandum</a>, <a>dep</a></li>
 </ul>

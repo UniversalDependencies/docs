@@ -29,7 +29,7 @@ The following 12 pairs of parts of speech are connected with `amod`: <tt><a href
 5	słowa	słowo	NOUN	subst:pl:acc:n	Case=Acc|Gender=Neut|Number=Plur	4	obj	_	_
 6	przez	przez	ADP	prep:acc:nwok	AdpType=Prep|Case=Acc|Variant=Short	8	case	_	_
 7	zaciśnięte	zaciśnięty	ADJ	ppas:sg:acc:n:perf:aff	Aspect=Perf|Case=Acc|Gender=Neut|Number=Sing|Polarity=Pos|VerbForm=Part|Voice=Pass	8	amod	_	_
-8	gardło	gardło	NOUN	subst:sg:acc:n	Case=Acc|Gender=Neut|Number=Sing	4	iobj	_	SpaceAfter=No
+8	gardło	gardło	NOUN	subst:sg:acc:n	Case=Acc|Gender=Neut|Number=Sing	4	obl:arg	_	SpaceAfter=No
 9	.	.	PUNCT	interp	_	4	punct	_	_
 
 ~~~
@@ -45,7 +45,7 @@ The following 12 pairs of parts of speech are connected with `amod`: <tt><a href
 2	został	zostać	AUX	praet:sg:m3:perf	Animacy=Inan|Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	3	aux:pass	_	_
 3	podpisany	podpisany	ADJ	ppas:sg:nom:m3:perf:aff	Animacy=Inan|Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Polarity=Pos|VerbForm=Part|Voice=Pass	0	root	_	_
 4	przez	przez	ADP	prep:acc:nwok	AdpType=Prep|Case=Acc|Variant=Short	5	case	_	_
-5	cesarza	cesarz	NOUN	subst:sg:acc:m1	Animacy=Hum|Case=Acc|Gender=Masc|Number=Sing	3	obj	_	_
+5	cesarza	cesarz	NOUN	subst:sg:acc:m1	Animacy=Hum|Case=Acc|Gender=Masc|Number=Sing	3	obl:arg	_	_
 6	Wilhelma	Wilhelm	PROPN	subst:sg:acc:m1	Animacy=Hum|Case=Acc|Gender=Masc|Number=Sing	5	appos	_	_
 7	II	II	ADJ	adj:sg:acc:m1:pos	Animacy=Hum|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	6	amod	_	SpaceAfter=No
 8	.	.	PUNCT	interp	_	3	punct	_	_
@@ -60,7 +60,7 @@ The following 12 pairs of parts of speech are connected with `amod`: <tt><a href
 # visual-style 2	fgColor:white
 # visual-style 2 3 amod	color:blue
 1	O	o	ADP	prep:loc	AdpType=Prep|Case=Loc	2	case	_	_
-2	tym	to	PRON	subst:sg:loc:n	Case=Loc|Gender=Neut|Number=Sing|PronType=Dem	6	obj	_	_
+2	tym	to	PRON	subst:sg:loc:n	Case=Loc|Gender=Neut|Number=Sing|PronType=Dem	6	obl:arg	_	_
 3	poprzednim	poprzedni	ADJ	adj:sg:loc:n:pos	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing	2	amod	_	_
 4	wszyscy	wszyscy	PRON	subst:pl:nom:m1	Animacy=Hum|Case=Nom|Gender=Masc|Number=Plur|PronType=Tot	6	nsubj	_	_
 5	rychło	rychło	ADV	adv:pos	Degree=Pos	6	advmod	_	_

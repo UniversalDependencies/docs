@@ -63,7 +63,7 @@ The following 53 pairs of parts of speech are connected with `nmod`: <tt><a href
 4	musi	musieć	VERB	fin:sg:ter:imperf	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 5	mieć	mieć	VERB	inf:imperf	Aspect=Imp|VerbForm=Inf	4	xcomp	_	_
 6	ze	z	ADP	prep:acc:wok	AdpType=Prep|Case=Acc|Variant=Long	7	case	_	_
-7	sześć	sześć	NUM	num:pl:acc:m3:rec	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	5	obj	_	_
+7	sześć	sześć	NUM	num:pl:acc:m3:rec	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	5	obl:arg	_	_
 8	miliardów	miliard	NOUN	subst:pl:gen:m3	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	7	case	_	_
 9	lat	rok	NOUN	subst:pl:gen:m3	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	7	nmod	_	SpaceAfter=No
 10	.	.	PUNCT	interp	_	4	punct	_	_

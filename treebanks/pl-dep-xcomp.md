@@ -25,7 +25,7 @@ The following 13 pairs of parts of speech are connected with `xcomp`: <tt><a hre
 1	Muszę	musieć	VERB	fin:sg:pri:imperf	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 2	jechać	jechać	VERB	inf:imperf	Aspect=Imp|VerbForm=Inf	1	xcomp	_	_
 3	do	do	ADP	prep:gen	AdpType=Prep|Case=Gen	4	case	_	_
-4	domu	dom	NOUN	subst:sg:gen:m3	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	2	obj	_	SpaceAfter=No
+4	domu	dom	NOUN	subst:sg:gen:m3	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	2	obl:arg	_	SpaceAfter=No
 5	.	.	PUNCT	interp	_	1	punct	_	_
 
 ~~~
@@ -62,7 +62,7 @@ The following 13 pairs of parts of speech are connected with `xcomp`: <tt><a hre
 8	dane	dany	ADJ	adj:sg:nom:acc:n:pos	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	1	conj	_	_
 9	opowiedzieć	opowiedzieć	VERB	inf:perf	Aspect=Perf|VerbForm=Inf	8	xcomp	_	_
 10	o	o	ADP	prep:loc	AdpType=Prep|Case=Loc	11	case	_	_
-11	tym	to	PRON	subst:sg:loc:n	Case=Loc|Gender=Neut|Number=Sing|PronType=Dem	9	obj	_	SpaceAfter=No
+11	tym	to	PRON	subst:sg:loc:n	Case=Loc|Gender=Neut|Number=Sing|PronType=Dem	9	obl:arg	_	SpaceAfter=No
 12	.	.	PUNCT	interp	_	1	punct	_	SpaceAfter=No
 13	.	.	PUNCT	interp	_	1	punct	_	SpaceAfter=No
 14	.	.	PUNCT	interp	_	1	punct	_	_

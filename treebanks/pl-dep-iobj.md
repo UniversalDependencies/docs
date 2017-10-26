@@ -8,31 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-825 nodes (1%) are attached to their parents as `iobj`.
+409 nodes (0%) are attached to their parents as `iobj`.
 
-692 instances of `iobj` (84%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.32848484848485.
+334 instances of `iobj` (82%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.66259168704156.
 
-The following 7 pairs of parts of speech are connected with `iobj`: <tt><a href="pl-pos-VERB.html">VERB</a></tt>-<tt><a href="pl-pos-NOUN.html">NOUN</a></tt> (488; 59% instances), <tt><a href="pl-pos-VERB.html">VERB</a></tt>-<tt><a href="pl-pos-PRON.html">PRON</a></tt> (259; 31% instances), <tt><a href="pl-pos-VERB.html">VERB</a></tt>-<tt><a href="pl-pos-PROPN.html">PROPN</a></tt> (43; 5% instances), <tt><a href="pl-pos-VERB.html">VERB</a></tt>-<tt><a href="pl-pos-ADJ.html">ADJ</a></tt> (13; 2% instances), <tt><a href="pl-pos-VERB.html">VERB</a></tt>-<tt><a href="pl-pos-DET.html">DET</a></tt> (11; 1% instances), <tt><a href="pl-pos-VERB.html">VERB</a></tt>-<tt><a href="pl-pos-NUM.html">NUM</a></tt> (10; 1% instances), <tt><a href="pl-pos-VERB.html">VERB</a></tt>-<tt><a href="pl-pos-ADP.html">ADP</a></tt> (1; 0% instances).
-
-
-~~~ conllu
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 8 iobj	color:blue
-1	Dorota	Dorota	PROPN	subst:sg:nom:f	Case=Nom|Gender=Fem|Number=Sing	4	nsubj	_	_
-2	z	z	ADP	prep:inst:nwok	AdpType=Prep|Case=Ins|Variant=Short	3	case	_	_
-3	trudem	trud	NOUN	subst:sg:inst:m3	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	4	obl	_	_
-4	przepchnęła	przepchnąć	VERB	praet:sg:f:perf	Aspect=Perf|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	_
-5	słowa	słowo	NOUN	subst:pl:acc:n	Case=Acc|Gender=Neut|Number=Plur	4	obj	_	_
-6	przez	przez	ADP	prep:acc:nwok	AdpType=Prep|Case=Acc|Variant=Short	8	case	_	_
-7	zaciśnięte	zaciśnięty	ADJ	ppas:sg:acc:n:perf:aff	Aspect=Perf|Case=Acc|Gender=Neut|Number=Sing|Polarity=Pos|VerbForm=Part|Voice=Pass	8	amod	_	_
-8	gardło	gardło	NOUN	subst:sg:acc:n	Case=Acc|Gender=Neut|Number=Sing	4	iobj	_	SpaceAfter=No
-9	.	.	PUNCT	interp	_	4	punct	_	_
-
-~~~
+The following 6 pairs of parts of speech are connected with `iobj`: <tt><a href="pl-pos-VERB.html">VERB</a></tt>-<tt><a href="pl-pos-PRON.html">PRON</a></tt> (211; 52% instances), <tt><a href="pl-pos-VERB.html">VERB</a></tt>-<tt><a href="pl-pos-NOUN.html">NOUN</a></tt> (165; 40% instances), <tt><a href="pl-pos-VERB.html">VERB</a></tt>-<tt><a href="pl-pos-PROPN.html">PROPN</a></tt> (22; 5% instances), <tt><a href="pl-pos-VERB.html">VERB</a></tt>-<tt><a href="pl-pos-DET.html">DET</a></tt> (7; 2% instances), <tt><a href="pl-pos-VERB.html">VERB</a></tt>-<tt><a href="pl-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="pl-pos-VERB.html">VERB</a></tt>-<tt><a href="pl-pos-NUM.html">NUM</a></tt> (2; 0% instances).
 
 
 ~~~ conllu
@@ -56,19 +37,35 @@ The following 7 pairs of parts of speech are connected with `iobj`: <tt><a href=
 
 
 ~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
-# visual-style 3 2 iobj	color:blue
-1	Na	na	ADP	prep:acc	AdpType=Prep|Case=Acc	2	case	_	_
-2	Litwę	Litwa	PROPN	subst:sg:acc:f	Case=Acc|Gender=Fem|Number=Sing	3	iobj	_	_
-3	eksportujemy	eksportować	VERB	fin:pl:pri:imperf	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
-4	głównie	głównie	PART	qub	_	5	nmod	_	_
-5	produkty	produkt	NOUN	subst:pl:acc:m3	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	3	obj	_	_
-6	przemysłu	przemysł	NOUN	subst:sg:gen:m3	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	5	nmod	_	_
-7	chemicznego	chemiczny	ADJ	adj:sg:gen:m3:pos	Animacy=Inan|Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	6	amod	_	SpaceAfter=No
-8	.	.	PUNCT	interp	_	3	punct	_	_
+# visual-style 3 5 iobj	color:blue
+1	Żołnierze	żołnierz	NOUN	subst:pl:nom:m1	Animacy=Hum|Case=Nom|Gender=Masc|Number=Plur	2	nsubj	_	_
+2	zamierzali	zamierzać	VERB	praet:pl:m1:imperf	Animacy=Hum|Aspect=Imp|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	_
+3	wywieźć	wywieźć	VERB	inf:perf	Aspect=Perf|VerbForm=Inf	2	xcomp	_	_
+4	uchodźców	uchodźca	NOUN	subst:pl:acc:m1	Animacy=Hum|Case=Acc|Gender=Masc|Number=Plur	3	obj	_	_
+5	ciężarówkami	ciężarówka	NOUN	subst:pl:inst:f	Case=Ins|Gender=Fem|Number=Plur	3	iobj	_	SpaceAfter=No
+6	.	.	PUNCT	interp	_	2	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 4 iobj	color:blue
+1	Trzeba	trzeba	VERB	pred	_	0	root	_	_
+2	będzie	być	AUX	bedzie:sg:ter:imperf	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	1	aux	_	_
+3	powiedzieć	powiedzieć	VERB	inf:perf	Aspect=Perf|VerbForm=Inf	1	xcomp	_	_
+4	Johnowi	John	PROPN	subst:sg:dat:m1	Animacy=Hum|Case=Dat|Gender=Masc|Number=Sing	3	iobj	_	SpaceAfter=No
+5	,	,	PUNCT	interp	_	7	punct	_	_
+6	żeby	żeby	SCONJ	comp	_	7	mark	_	_
+7	zainstalowali	zainstalować	VERB	praet:pl:m1:perf	Animacy=Hum|Aspect=Perf|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	3	ccomp	_	SpaceAfter=No
+8	.	.	PUNCT	interp	_	1	punct	_	_
 
 ~~~
 

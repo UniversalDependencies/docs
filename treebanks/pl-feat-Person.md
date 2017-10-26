@@ -18,7 +18,7 @@ The feature is used with 4 part-of-speech tags: <tt><a href="pl-pos-VERB.html">V
 
 4135 <tt><a href="pl-pos-VERB.html">VERB</a></tt> tokens (38% of all `VERB` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="pl-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (4135; 100%), <tt><a href="pl-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (4135; 100%), <tt><a href="pl-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (4135; 100%), <tt><a href="pl-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (4135; 100%), <tt><a href="pl-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (3956; 96%), <tt><a href="pl-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (3956; 96%), <tt><a href="pl-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (3514; 85%), <tt><a href="pl-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3000; 73%).
+The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="pl-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (4135; 100%), <tt><a href="pl-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (4135; 100%), <tt><a href="pl-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (4135; 100%), <tt><a href="pl-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (4135; 100%), <tt><a href="pl-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (3956; 96%), <tt><a href="pl-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (3956; 96%), <tt><a href="pl-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (3514; 85%), <tt><a href="pl-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3000; 73%).
 
 `VERB` tokens may have the following values of `Person`:
 
@@ -51,7 +51,7 @@ The most frequent other feature values with which `PRON` and `Person` co-occurre
 
 1556 <tt><a href="pl-pos-AUX.html">AUX</a></tt> tokens (66% of all `AUX` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `AUX` and `Person` co-occurred: <tt><a href="pl-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (1556; 100%), <tt><a href="pl-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (1556; 100%), <tt><a href="pl-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (1556; 100%), <tt><a href="pl-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1556; 100%), <tt><a href="pl-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (1553; 100%), <tt><a href="pl-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (1523; 98%), <tt><a href="pl-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (1314; 84%), <tt><a href="pl-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1177; 76%), <tt><a href="pl-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (909; 58%).
+The most frequent other feature values with which `AUX` and `Person` co-occurred: <tt><a href="pl-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1556; 100%), <tt><a href="pl-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (1556; 100%), <tt><a href="pl-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (1556; 100%), <tt><a href="pl-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (1556; 100%), <tt><a href="pl-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (1553; 100%), <tt><a href="pl-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (1523; 98%), <tt><a href="pl-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (1314; 84%), <tt><a href="pl-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1177; 76%), <tt><a href="pl-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (909; 58%).
 
 `AUX` tokens may have the following values of `Person`:
 
@@ -76,7 +76,7 @@ The most frequent other feature values with which `AUX` and `Person` co-occurred
 
 227 <tt><a href="pl-pos-DET.html">DET</a></tt> tokens (11% of all `DET` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `DET` and `Person` co-occurred: <tt><a href="pl-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (227; 100%), <tt><a href="pl-feat-Poss.html">Poss</a></tt><tt>=Yes</tt> (227; 100%), <tt><a href="pl-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (227; 100%), <tt><a href="pl-feat-Number.html">Number</a></tt><tt>=Sing</tt> (169; 74%), <tt><a href="pl-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt> (123; 54%), <tt><a href="pl-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (116; 51%).
+The most frequent other feature values with which `DET` and `Person` co-occurred: <tt><a href="pl-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (227; 100%), <tt><a href="pl-feat-Poss.html">Poss</a></tt><tt>=Yes</tt> (227; 100%), <tt><a href="pl-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (227; 100%), <tt><a href="pl-feat-Number.html">Number</a></tt><tt>=Sing</tt> (169; 74%), <tt><a href="pl-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt> (123; 54%), <tt><a href="pl-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (116; 51%).
 
 `DET` tokens may have the following values of `Person`:
 
