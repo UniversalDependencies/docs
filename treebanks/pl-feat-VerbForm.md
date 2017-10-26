@@ -18,7 +18,7 @@ The feature is used with 4 part-of-speech tags: <tt><a href="pl-pos-VERB.html">V
 
 10580 <tt><a href="pl-pos-VERB.html">VERB</a></tt> tokens (97% of all `VERB` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="pl-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (7372; 70%), <tt><a href="pl-feat-Number.html">Number</a></tt><tt>=Sing</tt> (6849; 65%), <tt><a href="pl-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (6445; 61%), <tt><a href="pl-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (6445; 61%), <tt><a href="pl-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (6065; 57%), <tt><a href="pl-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (5612; 53%), <tt><a href="pl-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (5612; 53%).
+The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="pl-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (7372; 70%), <tt><a href="pl-feat-Number.html">Number</a></tt><tt>=Sing</tt> (6849; 65%), <tt><a href="pl-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (6445; 61%), <tt><a href="pl-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (6445; 61%), <tt><a href="pl-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (6065; 57%), <tt><a href="pl-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (5612; 53%), <tt><a href="pl-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (5612; 53%).
 
 `VERB` tokens may have the following values of `VerbForm`:
 
@@ -113,7 +113,7 @@ The most frequent other feature values with which `ADJ` and `VerbForm` co-occurr
 
 671 <tt><a href="pl-pos-NOUN.html">NOUN</a></tt> tokens (3% of all `NOUN` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `NOUN` and `VerbForm` co-occurred: <tt><a href="pl-feat-Gender.html">Gender</a></tt><tt>=Neut</tt> (671; 100%), <tt><a href="pl-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (671; 100%), <tt><a href="pl-feat-Number.html">Number</a></tt><tt>=Sing</tt> (670; 100%).
+The most frequent other feature values with which `NOUN` and `VerbForm` co-occurred: <tt><a href="pl-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (671; 100%), <tt><a href="pl-feat-Gender.html">Gender</a></tt><tt>=Neut</tt> (671; 100%), <tt><a href="pl-feat-Number.html">Number</a></tt><tt>=Sing</tt> (670; 100%).
 
 `NOUN` tokens may have the following values of `VerbForm`:
 

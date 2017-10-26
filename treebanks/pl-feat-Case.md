@@ -61,7 +61,7 @@ The most frequent other feature values with which `ADP` and `Case` co-occurred: 
 
 7844 <tt><a href="pl-pos-ADJ.html">ADJ</a></tt> tokens (98% of all `ADJ` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `ADJ` and `Case` co-occurred: <tt><a href="pl-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (6439; 82%), <tt><a href="pl-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (6439; 82%), <tt><a href="pl-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (6438; 82%), <tt><a href="pl-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (6438; 82%), <tt><a href="pl-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (6169; 79%), <tt><a href="pl-feat-Number.html">Number</a></tt><tt>=Sing</tt> (5449; 69%), <tt><a href="pl-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (4297; 55%).
+The most frequent other feature values with which `ADJ` and `Case` co-occurred: <tt><a href="pl-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (6439; 82%), <tt><a href="pl-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (6439; 82%), <tt><a href="pl-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (6438; 82%), <tt><a href="pl-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (6438; 82%), <tt><a href="pl-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (6169; 79%), <tt><a href="pl-feat-Number.html">Number</a></tt><tt>=Sing</tt> (5449; 69%), <tt><a href="pl-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (4297; 55%).
 
 `ADJ` tokens may have the following values of `Case`:
 
@@ -142,7 +142,7 @@ The most frequent other feature values with which `PRON` and `Case` co-occurred:
 
 1975 <tt><a href="pl-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `DET` and `Case` co-occurred: <tt><a href="pl-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (1765; 89%), <tt><a href="pl-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (1748; 89%), <tt><a href="pl-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (1748; 89%), <tt><a href="pl-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (1538; 78%), <tt><a href="pl-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1255; 64%), <tt><a href="pl-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (993; 50%).
+The most frequent other feature values with which `DET` and `Case` co-occurred: <tt><a href="pl-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (1765; 89%), <tt><a href="pl-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (1748; 89%), <tt><a href="pl-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (1748; 89%), <tt><a href="pl-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (1538; 78%), <tt><a href="pl-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1255; 64%), <tt><a href="pl-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (993; 50%).
 
 `DET` tokens may have the following values of `Case`:
 
@@ -184,7 +184,7 @@ The most frequent other feature values with which `NUM` and `Case` co-occurred: 
 
 <table>
   <tr><th>Paradigm <i>trzy</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th><th><tt>Gen</tt></th><th><tt>Loc</tt></th><th><tt>Ins</tt></th></tr>
-  <tr><td><tt><tt><a href="pl-feat-Animacy.html">Animacy</a></tt><tt>=Hum</tt>|<tt><a href="pl-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>trzej, trzech</em></td><td><em>trzech</em></td><td><em>trzem</em></td><td><em>trzech</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="pl-feat-Animacy.html">Animacy</a></tt><tt>=Hum</tt>|<tt><a href="pl-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>trzech, trzej</em></td><td><em>trzech</em></td><td><em>trzem</em></td><td><em>trzech</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="pl-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="pl-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>trzy</em></td><td><em>trzy</em></td><td></td><td><em>trzech</em></td><td><em>trzech</em></td><td><em>trzema</em></td></tr>
   <tr><td><tt><tt><a href="pl-feat-Animacy.html">Animacy</a></tt><tt>=Nhum</tt>|<tt><a href="pl-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td></td><td><em>trzy</em></td><td></td><td><em>trzech</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="pl-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>trzy</em></td><td><em>Trzy</em></td><td></td><td><em>trzech</em></td><td></td><td><em>trzema</em></td></tr>

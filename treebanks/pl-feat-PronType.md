@@ -36,7 +36,7 @@ The most frequent other feature values with which `PRON` and `PronType` co-occur
 
 1975 <tt><a href="pl-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `DET` and `PronType` co-occurred: <tt><a href="pl-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (1765; 89%), <tt><a href="pl-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (1748; 89%), <tt><a href="pl-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (1748; 89%), <tt><a href="pl-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (1538; 78%), <tt><a href="pl-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1255; 64%), <tt><a href="pl-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (993; 50%).
+The most frequent other feature values with which `DET` and `PronType` co-occurred: <tt><a href="pl-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (1765; 89%), <tt><a href="pl-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (1748; 89%), <tt><a href="pl-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (1748; 89%), <tt><a href="pl-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (1538; 78%), <tt><a href="pl-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1255; 64%), <tt><a href="pl-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (993; 50%).
 
 `DET` tokens may have the following values of `PronType`:
 
@@ -54,7 +54,7 @@ The most frequent other feature values with which `DET` and `PronType` co-occurr
 The 10 most frequent relations where parent and child node agree in `PronType`:
 <tt>PRON --[<tt><a href="pl-dep-conj.html">conj</a></tt>]--> PRON</tt> (4; 100%),
 <tt>DET --[<tt><a href="pl-dep-conj.html">conj</a></tt>]--> DET</tt> (2; 100%),
-<tt>DET --[<tt><a href="pl-dep-nsubj.html">nsubj</a></tt>]--> DET</tt> (1; 100%),
 <tt>DET --[<tt><a href="pl-dep-obl.html">obl</a></tt>]--> DET</tt> (1; 100%),
-<tt>PRON --[<tt><a href="pl-dep-nmod.html">nmod</a></tt>]--> PRON</tt> (1; 100%).
+<tt>PRON --[<tt><a href="pl-dep-nmod.html">nmod</a></tt>]--> PRON</tt> (1; 100%),
+<tt>DET --[<tt><a href="pl-dep-nsubj.html">nsubj</a></tt>]--> DET</tt> (1; 100%).
 

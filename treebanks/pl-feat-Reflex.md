@@ -18,7 +18,7 @@ The feature is used with 2 part-of-speech tags: <tt><a href="pl-pos-PRON.html">P
 
 1880 <tt><a href="pl-pos-PRON.html">PRON</a></tt> tokens (41% of all `PRON` tokens) have a non-empty value of `Reflex`.
 
-The most frequent other feature values with which `PRON` and `Reflex` co-occurred: <tt><a href="pl-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (1880; 100%), <tt><a href="pl-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (1880; 100%), <tt><a href="pl-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (1880; 100%), <tt><a href="pl-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (1880; 100%), <tt><a href="pl-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1880; 100%), <tt><a href="pl-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (1880; 100%), <tt><a href="pl-feat-PrepCase.html">PrepCase</a></tt><tt>=EMPTY</tt> (1880; 100%), <tt><a href="pl-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (1716; 91%).
+The most frequent other feature values with which `PRON` and `Reflex` co-occurred: <tt><a href="pl-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (1880; 100%), <tt><a href="pl-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (1880; 100%), <tt><a href="pl-feat-PrepCase.html">PrepCase</a></tt><tt>=EMPTY</tt> (1880; 100%), <tt><a href="pl-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (1880; 100%), <tt><a href="pl-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (1880; 100%), <tt><a href="pl-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1880; 100%), <tt><a href="pl-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (1880; 100%), <tt><a href="pl-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (1716; 91%).
 
 `PRON` tokens may have the following values of `Reflex`:
 
@@ -29,7 +29,7 @@ The most frequent other feature values with which `PRON` and `Reflex` co-occurre
 
 210 <tt><a href="pl-pos-DET.html">DET</a></tt> tokens (11% of all `DET` tokens) have a non-empty value of `Reflex`.
 
-The most frequent other feature values with which `DET` and `Reflex` co-occurred: <tt><a href="pl-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (210; 100%), <tt><a href="pl-feat-Poss.html">Poss</a></tt><tt>=Yes</tt> (210; 100%), <tt><a href="pl-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (210; 100%), <tt><a href="pl-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (210; 100%), <tt><a href="pl-feat-Number.html">Number</a></tt><tt>=Sing</tt> (132; 63%), <tt><a href="pl-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (126; 60%).
+The most frequent other feature values with which `DET` and `Reflex` co-occurred: <tt><a href="pl-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (210; 100%), <tt><a href="pl-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (210; 100%), <tt><a href="pl-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (210; 100%), <tt><a href="pl-feat-Poss.html">Poss</a></tt><tt>=Yes</tt> (210; 100%), <tt><a href="pl-feat-Number.html">Number</a></tt><tt>=Sing</tt> (132; 63%), <tt><a href="pl-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (126; 60%).
 
 `DET` tokens may have the following values of `Reflex`:
 

@@ -18,7 +18,7 @@ The feature is used with 4 part-of-speech tags: <tt><a href="pl-pos-VERB.html">V
 
 10580 <tt><a href="pl-pos-VERB.html">VERB</a></tt> tokens (97% of all `VERB` tokens) have a non-empty value of `Aspect`.
 
-The most frequent other feature values with which `VERB` and `Aspect` co-occurred: <tt><a href="pl-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (7372; 70%), <tt><a href="pl-feat-Number.html">Number</a></tt><tt>=Sing</tt> (6849; 65%), <tt><a href="pl-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (6445; 61%), <tt><a href="pl-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (6445; 61%), <tt><a href="pl-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (5612; 53%), <tt><a href="pl-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (5612; 53%).
+The most frequent other feature values with which `VERB` and `Aspect` co-occurred: <tt><a href="pl-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (7372; 70%), <tt><a href="pl-feat-Number.html">Number</a></tt><tt>=Sing</tt> (6849; 65%), <tt><a href="pl-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (6445; 61%), <tt><a href="pl-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (6445; 61%), <tt><a href="pl-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (5612; 53%), <tt><a href="pl-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (5612; 53%).
 
 `VERB` tokens may have the following values of `Aspect`:
 
@@ -50,7 +50,7 @@ The most frequent other feature values with which `VERB` and `Aspect` co-occurre
 
 2263 <tt><a href="pl-pos-AUX.html">AUX</a></tt> tokens (96% of all `AUX` tokens) have a non-empty value of `Aspect`.
 
-The most frequent other feature values with which `AUX` and `Aspect` co-occurred: <tt><a href="pl-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (2025; 89%), <tt><a href="pl-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1796; 79%), <tt><a href="pl-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (1796; 79%), <tt><a href="pl-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (1723; 76%), <tt><a href="pl-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (1616; 71%), <tt><a href="pl-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1560; 69%), <tt><a href="pl-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (1553; 69%), <tt><a href="pl-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (1314; 58%).
+The most frequent other feature values with which `AUX` and `Aspect` co-occurred: <tt><a href="pl-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (2025; 89%), <tt><a href="pl-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (1796; 79%), <tt><a href="pl-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1796; 79%), <tt><a href="pl-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (1723; 76%), <tt><a href="pl-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (1616; 71%), <tt><a href="pl-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1560; 69%), <tt><a href="pl-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (1553; 69%), <tt><a href="pl-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (1314; 58%).
 
 `AUX` tokens may have the following values of `Aspect`:
 
@@ -84,7 +84,7 @@ The most frequent other feature values with which `ADJ` and `Aspect` co-occurred
 
 671 <tt><a href="pl-pos-NOUN.html">NOUN</a></tt> tokens (3% of all `NOUN` tokens) have a non-empty value of `Aspect`.
 
-The most frequent other feature values with which `NOUN` and `Aspect` co-occurred: <tt><a href="pl-feat-Gender.html">Gender</a></tt><tt>=Neut</tt> (671; 100%), <tt><a href="pl-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (671; 100%), <tt><a href="pl-feat-Number.html">Number</a></tt><tt>=Sing</tt> (670; 100%).
+The most frequent other feature values with which `NOUN` and `Aspect` co-occurred: <tt><a href="pl-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (671; 100%), <tt><a href="pl-feat-Gender.html">Gender</a></tt><tt>=Neut</tt> (671; 100%), <tt><a href="pl-feat-Number.html">Number</a></tt><tt>=Sing</tt> (670; 100%).
 
 `NOUN` tokens may have the following values of `Aspect`:
 
@@ -102,7 +102,7 @@ The 10 most frequent relations where parent and child node agree in `Aspect`:
 <tt>ADJ --[<tt><a href="pl-dep-aux-pass.html">aux:pass</a></tt>]--> AUX</tt> (210; 70%),
 <tt>VERB --[<tt><a href="pl-dep-ccomp.html">ccomp</a></tt>]--> AUX</tt> (4; 67%),
 <tt>AUX --[<tt><a href="pl-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (2; 100%),
-<tt>VERB --[<tt><a href="pl-dep-advcl.html">advcl</a></tt>]--> AUX</tt> (1; 100%),
+<tt>VERB --[<tt><a href="pl-dep-punct.html">punct</a></tt>]--> VERB</tt> (1; 100%),
 <tt>ADJ --[<tt><a href="pl-dep-conj.html">conj</a></tt>]--> AUX</tt> (1; 100%),
-<tt>VERB --[<tt><a href="pl-dep-punct.html">punct</a></tt>]--> VERB</tt> (1; 100%).
+<tt>VERB --[<tt><a href="pl-dep-advcl.html">advcl</a></tt>]--> AUX</tt> (1; 100%).
 

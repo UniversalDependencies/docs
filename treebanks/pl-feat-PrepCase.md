@@ -18,7 +18,7 @@ The feature is used with 2 part-of-speech tags: <tt><a href="pl-pos-PRON.html">P
 
 1214 <tt><a href="pl-pos-PRON.html">PRON</a></tt> tokens (27% of all `PRON` tokens) have a non-empty value of `PrepCase`.
 
-The most frequent other feature values with which `PRON` and `PrepCase` co-occurred: <tt><a href="pl-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (1214; 100%), <tt><a href="pl-feat-Person.html">Person</a></tt><tt>=3</tt> (1214; 100%), <tt><a href="pl-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (1214; 100%), <tt><a href="pl-feat-Variant.html">Variant</a></tt><tt>=Long</tt> (964; 79%), <tt><a href="pl-feat-Number.html">Number</a></tt><tt>=Sing</tt> (854; 70%), <tt><a href="pl-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (760; 63%).
+The most frequent other feature values with which `PRON` and `PrepCase` co-occurred: <tt><a href="pl-feat-Person.html">Person</a></tt><tt>=3</tt> (1214; 100%), <tt><a href="pl-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (1214; 100%), <tt><a href="pl-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (1214; 100%), <tt><a href="pl-feat-Variant.html">Variant</a></tt><tt>=Long</tt> (964; 79%), <tt><a href="pl-feat-Number.html">Number</a></tt><tt>=Sing</tt> (854; 70%), <tt><a href="pl-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (760; 63%).
 
 `PRON` tokens may have the following values of `PrepCase`:
 
@@ -95,7 +95,7 @@ The most frequent other feature values with which `PRON` and `PrepCase` co-occur
 
 37 <tt><a href="pl-pos-ADJ.html">ADJ</a></tt> tokens (0% of all `ADJ` tokens) have a non-empty value of `PrepCase`.
 
-The most frequent other feature values with which `ADJ` and `PrepCase` co-occurred: <tt><a href="pl-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (37; 100%), <tt><a href="pl-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (37; 100%), <tt><a href="pl-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (37; 100%), <tt><a href="pl-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (37; 100%), <tt><a href="pl-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (37; 100%), <tt><a href="pl-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (37; 100%), <tt><a href="pl-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (37; 100%), <tt><a href="pl-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (37; 100%), <tt><a href="pl-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (37; 100%).
+The most frequent other feature values with which `ADJ` and `PrepCase` co-occurred: <tt><a href="pl-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (37; 100%), <tt><a href="pl-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (37; 100%), <tt><a href="pl-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (37; 100%), <tt><a href="pl-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (37; 100%), <tt><a href="pl-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (37; 100%), <tt><a href="pl-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (37; 100%), <tt><a href="pl-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (37; 100%), <tt><a href="pl-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (37; 100%), <tt><a href="pl-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (37; 100%).
 
 `ADJ` tokens may have the following values of `PrepCase`:
 

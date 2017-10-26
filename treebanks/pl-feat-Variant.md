@@ -35,7 +35,7 @@ The most frequent other feature values with which `ADP` and `Variant` co-occurre
 
 1496 <tt><a href="pl-pos-PRON.html">PRON</a></tt> tokens (33% of all `PRON` tokens) have a non-empty value of `Variant`.
 
-The most frequent other feature values with which `PRON` and `Variant` co-occurred: <tt><a href="pl-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (1496; 100%), <tt><a href="pl-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (1496; 100%), <tt><a href="pl-feat-Person.html">Person</a></tt><tt>=3</tt> (1214; 81%), <tt><a href="pl-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1136; 76%), <tt><a href="pl-feat-PrepCase.html">PrepCase</a></tt><tt>=Npr</tt> (970; 65%), <tt><a href="pl-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (959; 64%), <tt><a href="pl-feat-Animacy.html">Animacy</a></tt><tt>=Hum</tt> (751; 50%).
+The most frequent other feature values with which `PRON` and `Variant` co-occurred: <tt><a href="pl-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (1496; 100%), <tt><a href="pl-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (1496; 100%), <tt><a href="pl-feat-Person.html">Person</a></tt><tt>=3</tt> (1214; 81%), <tt><a href="pl-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1136; 76%), <tt><a href="pl-feat-PrepCase.html">PrepCase</a></tt><tt>=Npr</tt> (970; 65%), <tt><a href="pl-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (959; 64%), <tt><a href="pl-feat-Animacy.html">Animacy</a></tt><tt>=Hum</tt> (751; 50%).
 
 `PRON` tokens may have the following values of `Variant`:
 
@@ -125,7 +125,7 @@ The most frequent other feature values with which `PRON` and `Variant` co-occurr
 
 647 <tt><a href="pl-pos-AUX.html">AUX</a></tt> tokens (27% of all `AUX` tokens) have a non-empty value of `Variant`.
 
-The most frequent other feature values with which `AUX` and `Variant` co-occurred: <tt><a href="pl-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (647; 100%), <tt><a href="pl-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (647; 100%), <tt><a href="pl-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (647; 100%), <tt><a href="pl-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (647; 100%), <tt><a href="pl-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (647; 100%), <tt><a href="pl-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (647; 100%), <tt><a href="pl-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (647; 100%), <tt><a href="pl-feat-Person.html">Person</a></tt><tt>=1</tt> (586; 91%), <tt><a href="pl-feat-Number.html">Number</a></tt><tt>=Sing</tt> (506; 78%).
+The most frequent other feature values with which `AUX` and `Variant` co-occurred: <tt><a href="pl-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (647; 100%), <tt><a href="pl-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (647; 100%), <tt><a href="pl-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (647; 100%), <tt><a href="pl-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (647; 100%), <tt><a href="pl-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (647; 100%), <tt><a href="pl-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (647; 100%), <tt><a href="pl-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (647; 100%), <tt><a href="pl-feat-Person.html">Person</a></tt><tt>=1</tt> (586; 91%), <tt><a href="pl-feat-Number.html">Number</a></tt><tt>=Sing</tt> (506; 78%).
 
 `AUX` tokens may have the following values of `Variant`:
 

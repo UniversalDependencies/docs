@@ -48,19 +48,10 @@ conversion procedure has been further improved.
 
 References:
 
-http://zil.ipipan.waw.pl/Sk%C5%82adnica ... Składnica zależnościowa
-http://ufal.mff.cuni.cz/hamledt ... HamleDT
-http://ufal.mff.cuni.cz/treex ... Treex is the software used for conversion
-http://ufal.mff.cuni.cz/interset ... Interset was used to convert POS tags and features
-
-@inproceedings{pl,
-  author    = {Wr{\'o}blewska, Alina and Przepi{\'o}rkowski, Adam},
-  title     = {Projection-based Annotation of a {Polish} Dependency Treebank},
-  booktitle = {Proceedings of the Ninth International Conference on Language Resources and Evaluation, LREC},
-  pages     = {2306--2312},
-  address   = {Reykjavík, Iceland},
-  year      = {2014}
-}
+* http://zil.ipipan.waw.pl/Sk%C5%82adnica ... Składnica zależnościowa
+* http://ufal.mff.cuni.cz/hamledt ... HamleDT
+* http://ufal.mff.cuni.cz/treex ... Treex is the software used for conversion
+* http://ufal.mff.cuni.cz/interset ... Interset was used to convert POS tags and features
 
 
 
