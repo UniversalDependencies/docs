@@ -17,6 +17,33 @@ The following 5 pairs of parts of speech are connected with `orphan`: <tt><a hre
 
 
 ~~~ conllu
+# visual-style 16	bgColor:blue
+# visual-style 16	fgColor:white
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 10 16 orphan	color:blue
+1	Město	město	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	2	nsubj	_	_
+2	ma	měć	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	wokoło	wokoło	ADV	_	Degree=Pos	7	advmod:emph	_	_
+4	500	500	NUM	_	NumType=Card	7	nummod:gov	_	SpaceAfter=No
+5	.	.	PUNCT	_	_	4	punct	_	SpaceAfter=No
+6	000	000	NUM	_	NumType=Card	4	compound	_	_
+7	wobydlerjow	wobydler	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	2	obj	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	10	punct	_	_
+9	z	z	ADP	_	_	10	case	_	_
+10	předměstami	předměsto	NOUN	_	Case=Ins|Gender=Neut|Number=Plur	2	conj	_	_
+11	wjace	wjele	ADV	_	Degree=Cmp|NumType=Card|PronType=Ind	13	advmod	_	_
+12	hač	hač	SCONJ	_	_	11	fixed	_	_
+13	2	2	NUM	_	NumType=Card	16	nummod:gov	_	SpaceAfter=No
+14	,	,	PUNCT	_	_	13	punct	_	SpaceAfter=No
+15	8	8	NUM	_	NumType=Card	13	compound	_	_
+16	milionow	milion	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	10	orphan	_	SpaceAfter=No
+17	.	.	PUNCT	_	_	2	punct	_	_
+
+~~~
+
+
+~~~ conllu
 # visual-style 24	bgColor:blue
 # visual-style 24	fgColor:white
 # visual-style 22	bgColor:blue
@@ -47,33 +74,6 @@ The following 5 pairs of parts of speech are connected with `orphan`: <tt><a hre
 23	na	na	ADP	_	_	24	case	_	_
 24	juhozapadźe	juhozapad	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	22	orphan	_	SpaceAfter=No
 25	.	.	PUNCT	_	_	3	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 16	bgColor:blue
-# visual-style 16	fgColor:white
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 10 16 orphan	color:blue
-1	Město	město	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	2	nsubj	_	_
-2	ma	měć	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-3	wokoło	wokoło	ADV	_	Degree=Pos	7	advmod:emph	_	_
-4	500	500	NUM	_	NumType=Card	7	nummod:gov	_	SpaceAfter=No
-5	.	.	PUNCT	_	_	4	punct	_	SpaceAfter=No
-6	000	000	NUM	_	NumType=Card	4	compound	_	_
-7	wobydlerjow	wobydler	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	2	obj	_	SpaceAfter=No
-8	,	,	PUNCT	_	_	10	punct	_	_
-9	z	z	ADP	_	_	10	case	_	_
-10	předměstami	předměsto	NOUN	_	Case=Ins|Gender=Neut|Number=Plur	2	conj	_	_
-11	wjace	wjele	ADV	_	Degree=Cmp|NumType=Card|PronType=Ind	13	advmod	_	_
-12	hač	hač	SCONJ	_	_	11	fixed	_	_
-13	2	2	NUM	_	NumType=Card	16	nummod:gov	_	SpaceAfter=No
-14	,	,	PUNCT	_	_	13	punct	_	SpaceAfter=No
-15	8	8	NUM	_	NumType=Card	13	compound	_	_
-16	milionow	milion	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	10	orphan	_	SpaceAfter=No
-17	.	.	PUNCT	_	_	2	punct	_	_
 
 ~~~
 

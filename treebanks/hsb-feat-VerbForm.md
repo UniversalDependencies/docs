@@ -64,7 +64,7 @@ The most frequent other feature values with which `AUX` and `VerbForm` co-occurr
   <tr><td><tt><tt><a href="hsb-feat-Mood.html">Mood</a></tt><tt>=Cnd</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="hsb-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td>bychu</td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="hsb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="hsb-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="hsb-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td>sy</td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="hsb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="hsb-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="hsb-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="hsb-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td>njeje</td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="hsb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="hsb-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="hsb-feat-Tense.html">Tense</a></tt><tt>=Fut</tt></tt></td><td>budu, budźe</td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="hsb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="hsb-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="hsb-feat-Tense.html">Tense</a></tt><tt>=Fut</tt></tt></td><td>budźe, budu</td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="hsb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="hsb-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="hsb-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td>bě, bu</td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="hsb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="hsb-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="hsb-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="hsb-feat-Voice.html">Voice</a></tt><tt>=Pass</tt></tt></td><td>bu</td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="hsb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="hsb-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="hsb-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td>je</td><td></td><td></td></tr>
@@ -98,6 +98,6 @@ The 10 most frequent relations where parent and child node agree in `VerbForm`:
 <tt>VERB --[<tt><a href="hsb-dep-conj.html">conj</a></tt>]--> VERB</tt> (83; 92%),
 <tt>VERB --[<tt><a href="hsb-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (19; 54%),
 <tt>ADJ --[<tt><a href="hsb-dep-conj.html">conj</a></tt>]--> ADJ</tt> (4; 57%),
-<tt>VERB --[<tt><a href="hsb-dep-discourse.html">discourse</a></tt>]--> VERB</tt> (1; 100%),
-<tt>VERB --[<tt><a href="hsb-dep-acl.html">acl</a></tt>]--> VERB</tt> (1; 100%).
+<tt>VERB --[<tt><a href="hsb-dep-acl.html">acl</a></tt>]--> VERB</tt> (1; 100%),
+<tt>VERB --[<tt><a href="hsb-dep-discourse.html">discourse</a></tt>]--> VERB</tt> (1; 100%).
 

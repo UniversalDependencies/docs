@@ -15,7 +15,7 @@ The 10 most frequent `PRON` types:  so to toho tym wona wón kiž je wone wono
 
 The 10 most frequent ambiguous lemmas: to (<tt><a href="hsb-pos-PRON.html">PRON</a></tt> 58, <tt><a href="hsb-pos-ADV.html">ADV</a></tt> 2)
 
-The 10 most frequent ambiguous types:  to (<tt><a href="hsb-pos-PRON.html">PRON</a></tt> 16, <tt><a href="hsb-pos-ADV.html">ADV</a></tt> 2), tym (<tt><a href="hsb-pos-PRON.html">PRON</a></tt> 15, <tt><a href="hsb-pos-DET.html">DET</a></tt> 2), je (<tt><a href="hsb-pos-AUX.html">AUX</a></tt> 101, <tt><a href="hsb-pos-PRON.html">PRON</a></tt> 6, <tt><a href="hsb-pos-VERB.html">VERB</a></tt> 5), t (<tt><a href="hsb-pos-PRON.html">PRON</a></tt> 3, <tt><a href="hsb-pos-ADV.html">ADV</a></tt> 1, <tt><a href="hsb-pos-NOUN.html">NOUN</a></tt> 1), jeho (<tt><a href="hsb-pos-DET.html">DET</a></tt> 7, <tt><a href="hsb-pos-PRON.html">PRON</a></tt> 2), jeje (<tt><a href="hsb-pos-DET.html">DET</a></tt> 3, <tt><a href="hsb-pos-PRON.html">PRON</a></tt> 1), njeje (<tt><a href="hsb-pos-AUX.html">AUX</a></tt> 8, <tt><a href="hsb-pos-PRON.html">PRON</a></tt> 1, <tt><a href="hsb-pos-VERB.html">VERB</a></tt> 1)
+The 10 most frequent ambiguous types:  to (<tt><a href="hsb-pos-PRON.html">PRON</a></tt> 16, <tt><a href="hsb-pos-ADV.html">ADV</a></tt> 2), tym (<tt><a href="hsb-pos-PRON.html">PRON</a></tt> 15, <tt><a href="hsb-pos-DET.html">DET</a></tt> 2), je (<tt><a href="hsb-pos-AUX.html">AUX</a></tt> 101, <tt><a href="hsb-pos-PRON.html">PRON</a></tt> 6, <tt><a href="hsb-pos-VERB.html">VERB</a></tt> 5), t (<tt><a href="hsb-pos-PRON.html">PRON</a></tt> 3, <tt><a href="hsb-pos-ADV.html">ADV</a></tt> 1, <tt><a href="hsb-pos-NOUN.html">NOUN</a></tt> 1), jeho (<tt><a href="hsb-pos-DET.html">DET</a></tt> 7, <tt><a href="hsb-pos-PRON.html">PRON</a></tt> 2), jeje (<tt><a href="hsb-pos-DET.html">DET</a></tt> 3, <tt><a href="hsb-pos-PRON.html">PRON</a></tt> 1), njeje (<tt><a href="hsb-pos-AUX.html">AUX</a></tt> 8, <tt><a href="hsb-pos-VERB.html">VERB</a></tt> 1, <tt><a href="hsb-pos-PRON.html">PRON</a></tt> 1)
 
 
 * to
@@ -40,8 +40,8 @@ The 10 most frequent ambiguous types:  to (<tt><a href="hsb-pos-PRON.html">PRON<
   * <tt><a href="hsb-pos-PRON.html">PRON</a></tt> 1: Rotaciska wóska zemje njeje zrunana k ekliptice , ale ma k <b>jeje</b> padorunje nuhel wot něhdźe 23 ° 26 ' .
 * njeje
   * <tt><a href="hsb-pos-AUX.html">AUX</a></tt> 8: Njewědźeše , hač wobsteji smuha tež potom , hdyž <b>njeje</b> hižo w pěsku zarysowana .
-  * <tt><a href="hsb-pos-PRON.html">PRON</a></tt> 1: Sukcesiwnje zadźěła so do <b>njeje</b> tež wobsah zažnišich bibliografijow ( dotal : w Budyšinje wušłe knihi wot 1958 ) .
   * <tt><a href="hsb-pos-VERB.html">VERB</a></tt> 1: Tutón je wo wjele młódši zjaw hač indoeuropski ablawt , čehoždla ani <b>njeje</b> systematiski abo historiski zwisk ze změnu w ablawtowych rjadach a přezwuk so zwjetša k ablawtowym fenomenam njeliči .
+  * <tt><a href="hsb-pos-PRON.html">PRON</a></tt> 1: Sukcesiwnje zadźěła so do <b>njeje</b> tež wobsah zažnišich bibliografijow ( dotal : w Budyšinje wušłe knihi wot 1958 ) .
 
 ## Morphology
 

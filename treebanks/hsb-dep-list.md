@@ -17,42 +17,6 @@ The following 10 pairs of parts of speech are connected with `list`: <tt><a href
 
 
 ~~~ conllu
-# visual-style 24	bgColor:blue
-# visual-style 24	fgColor:white
-# visual-style 14	bgColor:blue
-# visual-style 14	fgColor:white
-# visual-style 14 24 list	color:blue
-1	(	(	PUNCT	_	_	2	punct	_	SpaceAfter=No
-2	Njewěm	wědźeć	VERB	_	Mood=Ind|Number=Sing|Person=1|Polarity=Neg|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
-3	,	,	PUNCT	_	_	5	punct	_	_
-4	hač	hač	SCONJ	_	_	5	mark	_	_
-5	trjebamy	trjebać	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	2	ccomp	_	_
-6	separatnu	separatny	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	7	amod	_	_
-7	lisćinu	lisćina	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	5	obj	_	_
-8	za	za	ADP	_	_	10	case	_	_
-9	tute	tutón	DET	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur|PronType=Dem	10	det	_	_
-10	nastawki	nastawk	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	7	nmod	_	SpaceAfter=No
-11	.	.	PUNCT	_	_	14	punct	_	_
-12	-	-	PUNCT	_	_	14	punct	_	SpaceAfter=No
-13	-	-	PUNCT	_	_	14	punct	_	SpaceAfter=No
-14	Tlustulimu	Tlustulimu	PROPN	_	Number=Sing	2	conj	_	_
-15	20	20	NUM	_	NumType=Card	14	list	_	SpaceAfter=No
-16	:	:	PUNCT	_	_	15	punct	_	SpaceAfter=No
-17	04	04	NUM	_	NumType=Card	15	compound	_	SpaceAfter=No
-18	,	,	PUNCT	_	_	14	punct	_	_
-19	4	4	NUM	_	NumType=Card	21	nummod	_	SpaceAfter=No
-20	.	.	PUNCT	_	_	19	punct	_	_
-21	jan	januar	NOUN	_	Abbr=Yes	14	list	_	_
-22	2008	2008	NUM	_	NumType=Card	21	nummod	_	_
-23	(	(	PUNCT	_	_	24	punct	_	SpaceAfter=No
-24	CET	CET	PROPN	_	Abbr=Yes	14	list	_	SpaceAfter=No
-25	)	)	PUNCT	_	_	24	punct	_	SpaceAfter=No
-26	)	)	PUNCT	_	_	2	punct	_	_
-
-~~~
-
-
-~~~ conllu
 # visual-style 22	bgColor:blue
 # visual-style 22	fgColor:white
 # visual-style 16	bgColor:blue
@@ -96,31 +60,71 @@ The following 10 pairs of parts of speech are connected with `list`: <tt><a href
 
 
 ~~~ conllu
-# visual-style 18	bgColor:blue
-# visual-style 18	fgColor:white
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 8 18 list	color:blue
-1	Hlej	hladać	VERB	_	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
-2	do	do	ADP	_	_	4	case	_	_
-3	němskeje	němski	ADJ	_	Case=Gen|Gender=Fem|Number=Sing	4	amod	_	_
-4	nastawka	nastawk	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	1	obl	_	SpaceAfter=No
-5	.	.	PUNCT	_	_	1	punct	_	_
-6	-	-	PUNCT	_	_	8	punct	_	SpaceAfter=No
-7	-	-	PUNCT	_	_	8	punct	_	SpaceAfter=No
-8	Tlustulimu	Tlustulimu	PROPN	_	_	1	parataxis	_	_
-9	12	12	NUM	_	NumType=Card	8	list	_	SpaceAfter=No
-10	:	:	PUNCT	_	_	9	punct	_	SpaceAfter=No
-11	39	39	NUM	_	NumType=Card	9	compound	_	SpaceAfter=No
-12	,	,	PUNCT	_	_	9	punct	_	_
-13	14	14	NUM	_	NumType=Card	15	nummod	_	SpaceAfter=No
-14	.	.	PUNCT	_	_	13	punct	_	_
-15	awg	awg	X	_	_	8	list	_	_
-16	2008	2008	NUM	_	NumType=Card	15	nummod	_	_
-17	(	(	PUNCT	_	_	18	punct	_	SpaceAfter=No
-18	CEST	CEST	NOUN	_	Abbr=Yes	8	list	_	SpaceAfter=No
-19	)	)	PUNCT	_	_	18	punct	_	SpaceAfter=No
-20	.	.	PUNCT	_	_	1	punct	_	_
+# visual-style 24	bgColor:blue
+# visual-style 24	fgColor:white
+# visual-style 14	bgColor:blue
+# visual-style 14	fgColor:white
+# visual-style 14 24 list	color:blue
+1	(	(	PUNCT	_	_	2	punct	_	SpaceAfter=No
+2	Njewěm	wědźeć	VERB	_	Mood=Ind|Number=Sing|Person=1|Polarity=Neg|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	5	punct	_	_
+4	hač	hač	SCONJ	_	_	5	mark	_	_
+5	trjebamy	trjebać	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	2	ccomp	_	_
+6	separatnu	separatny	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	7	amod	_	_
+7	lisćinu	lisćina	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	5	obj	_	_
+8	za	za	ADP	_	_	10	case	_	_
+9	tute	tutón	DET	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur|PronType=Dem	10	det	_	_
+10	nastawki	nastawk	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	7	nmod	_	SpaceAfter=No
+11	.	.	PUNCT	_	_	14	punct	_	_
+12	-	-	PUNCT	_	_	14	punct	_	SpaceAfter=No
+13	-	-	PUNCT	_	_	14	punct	_	SpaceAfter=No
+14	Tlustulimu	Tlustulimu	PROPN	_	Number=Sing	2	conj	_	_
+15	20	20	NUM	_	NumType=Card	14	list	_	SpaceAfter=No
+16	:	:	PUNCT	_	_	15	punct	_	SpaceAfter=No
+17	04	04	NUM	_	NumType=Card	15	compound	_	SpaceAfter=No
+18	,	,	PUNCT	_	_	14	punct	_	_
+19	4	4	NUM	_	NumType=Card	21	nummod	_	SpaceAfter=No
+20	.	.	PUNCT	_	_	19	punct	_	_
+21	jan	januar	NOUN	_	Abbr=Yes	14	list	_	_
+22	2008	2008	NUM	_	NumType=Card	21	nummod	_	_
+23	(	(	PUNCT	_	_	24	punct	_	SpaceAfter=No
+24	CET	CET	PROPN	_	Abbr=Yes	14	list	_	SpaceAfter=No
+25	)	)	PUNCT	_	_	24	punct	_	SpaceAfter=No
+26	)	)	PUNCT	_	_	2	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 14	bgColor:blue
+# visual-style 14	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 14 list	color:blue
+1	Z	z	ADP	_	_	4	nmod	_	_
+2	[	[	PUNCT	_	_	4	punct	_	SpaceAfter=No
+3	[	[	PUNCT	_	_	4	punct	_	SpaceAfter=No
+4	Wobraz	wobraz	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	18	obl	_	SpaceAfter=No
+5	:	:	PUNCT	_	_	4	punct	_	SpaceAfter=No
+6	Feather	feather	X	_	_	4	flat	_	SpaceAfter=No
+7	.	.	PUNCT	_	_	6	punct	_	SpaceAfter=No
+8	svg	svg	X	_	_	6	flat	_	SpaceAfter=No
+9	|	|	PUNCT	_	_	4	punct	_	SpaceAfter=No
+10	thumb	thumb	X	_	_	4	list	_	SpaceAfter=No
+11	|	|	PUNCT	_	_	4	punct	_	SpaceAfter=No
+12	100px	100px	X	_	_	4	list	_	SpaceAfter=No
+13	|	|	PUNCT	_	_	4	punct	_	SpaceAfter=No
+14	Wopisanje	wopisanje	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	4	list	_	SpaceAfter=No
+15	]	]	PUNCT	_	_	4	punct	_	SpaceAfter=No
+16	]	]	PUNCT	_	_	4	punct	_	_
+17	so	so	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	18	expl:pv	_	_
+18	postaje	postać	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+19	šěrokosć	šěrokosć	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	18	nsubj	_	_
+20	wobrazki	wobrazk	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	19	nmod	_	_
+21	do	do	ADP	_	_	23	case	_	_
+22	100	100	NUM	_	NumType=Card	23	nummod:gov	_	_
+23	pikselow	piksel	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	19	nmod	_	SpaceAfter=No
+24	.	.	PUNCT	_	_	18	punct	_	_
 
 ~~~
 

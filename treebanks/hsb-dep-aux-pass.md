@@ -17,38 +17,6 @@ The following 2 pairs of parts of speech are connected with `aux:pass`: <tt><a h
 
 
 ~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 4 aux:pass	color:blue
-1	W	w	ADP	_	_	2	case	_	_
-2	lěće	lěto	NOUN	_	Case=Loc|Gender=Neut|Number=Sing	5	obl	_	_
-3	2006	2006	NUM	_	NumType=Card	2	nummod	_	_
-4	bu	być	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	5	aux:pass	_	_
-5	wunamakował	wunamakować	VERB	_	Animacy=Inan|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	_
-6	nowy	nowy	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	8	amod	_	_
-7	šleski	šleski	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	8	amod	_	_
-8	alfabet	alfabet	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	5	nsubj:pass	_	SpaceAfter=No
-9	,	,	PUNCT	_	_	11	punct	_	_
-10	kotryž	kotryž	DET	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	11	nsubj	_	_
-11	bazuje	bazować	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	acl	_	_
-12	na	na	ADP	_	_	13	case	_	_
-13	wšěch	wšě	DET	_	Case=Loc|Gender=Neut|Number=Plur|PronType=Tot	11	obj	_	_
-14	ze	z	ADP	_	_	16	case	_	_
-15	šleskich	šleski	ADJ	_	Case=Gen|Gender=Neut|Number=Plur	16	amod	_	_
-16	pismow	pismo	NOUN	_	Case=Gen|Gender=Neut|Number=Plur	13	nmod	_	_
-17	(	(	PUNCT	_	_	18	punct	_	SpaceAfter=No
-18	je	być	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	parataxis	_	_
-19	10	10	NUM	_	NumType=Card	20	nummod:gov	_	_
-20	pismow	pismo	NOUN	_	Case=Gen|Gender=Neut|Number=Plur	18	nsubj	_	SpaceAfter=No
-21	)	)	PUNCT	_	_	18	punct	_	SpaceAfter=No
-22	.	.	PUNCT	_	_	5	punct	_	_
-
-~~~
-
-
-~~~ conllu
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 8	bgColor:blue
@@ -78,6 +46,38 @@ The following 2 pairs of parts of speech are connected with `aux:pass`: <tt><a h
 22	archiwach	archiw	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	14	conj	_	_
 23	Egyptowskeje	Egyptowska	PROPN	_	Case=Gen|Gender=Fem|Number=Sing	22	nmod	_	SpaceAfter=No
 24	.	.	PUNCT	_	_	8	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 4 aux:pass	color:blue
+1	W	w	ADP	_	_	2	case	_	_
+2	lěće	lěto	NOUN	_	Case=Loc|Gender=Neut|Number=Sing	5	obl	_	_
+3	2006	2006	NUM	_	NumType=Card	2	nummod	_	_
+4	bu	być	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	5	aux:pass	_	_
+5	wunamakował	wunamakować	VERB	_	Animacy=Inan|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	_
+6	nowy	nowy	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	8	amod	_	_
+7	šleski	šleski	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	8	amod	_	_
+8	alfabet	alfabet	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	5	nsubj:pass	_	SpaceAfter=No
+9	,	,	PUNCT	_	_	11	punct	_	_
+10	kotryž	kotryž	DET	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	11	nsubj	_	_
+11	bazuje	bazować	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	acl	_	_
+12	na	na	ADP	_	_	13	case	_	_
+13	wšěch	wšě	DET	_	Case=Loc|Gender=Neut|Number=Plur|PronType=Tot	11	obj	_	_
+14	ze	z	ADP	_	_	16	case	_	_
+15	šleskich	šleski	ADJ	_	Case=Gen|Gender=Neut|Number=Plur	16	amod	_	_
+16	pismow	pismo	NOUN	_	Case=Gen|Gender=Neut|Number=Plur	13	nmod	_	_
+17	(	(	PUNCT	_	_	18	punct	_	SpaceAfter=No
+18	je	być	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	parataxis	_	_
+19	10	10	NUM	_	NumType=Card	20	nummod:gov	_	_
+20	pismow	pismo	NOUN	_	Case=Gen|Gender=Neut|Number=Plur	18	nsubj	_	SpaceAfter=No
+21	)	)	PUNCT	_	_	18	punct	_	SpaceAfter=No
+22	.	.	PUNCT	_	_	5	punct	_	_
 
 ~~~
 

@@ -32,7 +32,7 @@ The most frequent other feature values with which `ADJ` and `Voice` co-occurred:
 
 49 <tt><a href="hsb-pos-VERB.html">VERB</a></tt> tokens (6% of all `VERB` tokens) have a non-empty value of `Voice`.
 
-The most frequent other feature values with which `VERB` and `Voice` co-occurred: <tt><a href="hsb-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (49; 100%), <tt><a href="hsb-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (47; 96%), <tt><a href="hsb-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (47; 96%), <tt><a href="hsb-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (47; 96%), <tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (28; 57%).
+The most frequent other feature values with which `VERB` and `Voice` co-occurred: <tt><a href="hsb-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (49; 100%), <tt><a href="hsb-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (47; 96%), <tt><a href="hsb-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (47; 96%), <tt><a href="hsb-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (47; 96%), <tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (28; 57%).
 
 `VERB` tokens may have the following values of `Voice`:
 
@@ -46,7 +46,7 @@ The most frequent other feature values with which `VERB` and `Voice` co-occurred
 
 44 <tt><a href="hsb-pos-AUX.html">AUX</a></tt> tokens (15% of all `AUX` tokens) have a non-empty value of `Voice`.
 
-The most frequent other feature values with which `AUX` and `Voice` co-occurred: <tt><a href="hsb-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (43; 98%), <tt><a href="hsb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (42; 95%), <tt><a href="hsb-feat-Person.html">Person</a></tt><tt>=3</tt> (42; 95%), <tt><a href="hsb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (42; 95%), <tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (29; 66%).
+The most frequent other feature values with which `AUX` and `Voice` co-occurred: <tt><a href="hsb-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (43; 98%), <tt><a href="hsb-feat-Person.html">Person</a></tt><tt>=3</tt> (42; 95%), <tt><a href="hsb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (42; 95%), <tt><a href="hsb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (42; 95%), <tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (29; 66%).
 
 `AUX` tokens may have the following values of `Voice`:
 
@@ -68,6 +68,6 @@ The most frequent other feature values with which `AUX` and `Voice` co-occurred:
 
 The 10 most frequent relations where parent and child node agree in `Voice`:
 <tt>ADJ --[<tt><a href="hsb-dep-conj.html">conj</a></tt>]--> ADJ</tt> (4; 57%),
-<tt>ADJ --[<tt><a href="hsb-dep-aux-pass.html">aux:pass</a></tt>]--> AUX</tt> (1; 100%),
-<tt>VERB --[<tt><a href="hsb-dep-parataxis.html">parataxis</a></tt>]--> ADJ</tt> (1; 100%).
+<tt>VERB --[<tt><a href="hsb-dep-parataxis.html">parataxis</a></tt>]--> ADJ</tt> (1; 100%),
+<tt>ADJ --[<tt><a href="hsb-dep-aux-pass.html">aux:pass</a></tt>]--> AUX</tt> (1; 100%).
 

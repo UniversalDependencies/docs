@@ -15,13 +15,13 @@ The 10 most frequent `DET` types:  n kotrež jeho jich tute kotryž tutón kotra
 
 The 10 most frequent ambiguous lemmas: kotryž (<tt><a href="hsb-pos-DET.html">DET</a></tt> 69, <tt><a href="hsb-pos-NOUN.html">NOUN</a></tt> 3), wšelaki (<tt><a href="hsb-pos-ADJ.html">ADJ</a></tt> 3, <tt><a href="hsb-pos-DET.html">DET</a></tt> 2), mnoho (<tt><a href="hsb-pos-ADV.html">ADV</a></tt> 6, <tt><a href="hsb-pos-DET.html">DET</a></tt> 1)
 
-The 10 most frequent ambiguous types:  n (<tt><a href="hsb-pos-DET.html">DET</a></tt> 35, <tt><a href="hsb-pos-ADP.html">ADP</a></tt> 2, <tt><a href="hsb-pos-X.html">X</a></tt> 2), jeho (<tt><a href="hsb-pos-DET.html">DET</a></tt> 7, <tt><a href="hsb-pos-PRON.html">PRON</a></tt> 2), jeje (<tt><a href="hsb-pos-DET.html">DET</a></tt> 3, <tt><a href="hsb-pos-PRON.html">PRON</a></tt> 1), kotřiž (<tt><a href="hsb-pos-NOUN.html">NOUN</a></tt> 3, <tt><a href="hsb-pos-DET.html">DET</a></tt> 2), tym (<tt><a href="hsb-pos-PRON.html">PRON</a></tt> 15, <tt><a href="hsb-pos-DET.html">DET</a></tt> 2), wšelake (<tt><a href="hsb-pos-DET.html">DET</a></tt> 2, <tt><a href="hsb-pos-ADJ.html">ADJ</a></tt> 2), tu (<tt><a href="hsb-pos-ADV.html">ADV</a></tt> 8, <tt><a href="hsb-pos-X.html">X</a></tt> 1, <tt><a href="hsb-pos-DET.html">DET</a></tt> 1)
+The 10 most frequent ambiguous types:  n (<tt><a href="hsb-pos-DET.html">DET</a></tt> 35, <tt><a href="hsb-pos-X.html">X</a></tt> 2, <tt><a href="hsb-pos-ADP.html">ADP</a></tt> 2), jeho (<tt><a href="hsb-pos-DET.html">DET</a></tt> 7, <tt><a href="hsb-pos-PRON.html">PRON</a></tt> 2), jeje (<tt><a href="hsb-pos-DET.html">DET</a></tt> 3, <tt><a href="hsb-pos-PRON.html">PRON</a></tt> 1), kotřiž (<tt><a href="hsb-pos-NOUN.html">NOUN</a></tt> 3, <tt><a href="hsb-pos-DET.html">DET</a></tt> 2), tym (<tt><a href="hsb-pos-PRON.html">PRON</a></tt> 15, <tt><a href="hsb-pos-DET.html">DET</a></tt> 2), wšelake (<tt><a href="hsb-pos-ADJ.html">ADJ</a></tt> 2, <tt><a href="hsb-pos-DET.html">DET</a></tt> 2), tu (<tt><a href="hsb-pos-ADV.html">ADV</a></tt> 8, <tt><a href="hsb-pos-X.html">X</a></tt> 1, <tt><a href="hsb-pos-DET.html">DET</a></tt> 1)
 
 
 * n
   * <tt><a href="hsb-pos-DET.html">DET</a></tt> 35: Klinowe pismo docpě wo 2700 př . <b>n</b> . l . swoju dokonjanosć .
-  * <tt><a href="hsb-pos-ADP.html">ADP</a></tt> 2: Stolica abo hłowne město je politiski , husto tež stawizniski centrum kraja abo stata a tuž zwjetša sydło najwyšich politiskich institucijow , kaž <b>n</b> . př . knježerstwa , sejma abo monarcha .
   * <tt><a href="hsb-pos-X.html">X</a></tt> 2: Lokalne adwerby móža akuzatiwny <b>n</b> měć , hdyž směr zwuraznjeja , na př . tie " tam , tamle " - tien " tam " .
+  * <tt><a href="hsb-pos-ADP.html">ADP</a></tt> 2: Stolica abo hłowne město je politiski , husto tež stawizniski centrum kraja abo stata a tuž zwjetša sydło najwyšich politiskich institucijow , kaž <b>n</b> . př . knježerstwa , sejma abo monarcha .
 * jeho
   * <tt><a href="hsb-pos-DET.html">DET</a></tt> 7: Z <b>jeho</b> smjerću so tak mjenowane srjedźoassyriske mócnarstwo skónči .
   * <tt><a href="hsb-pos-PRON.html">PRON</a></tt> 2: Mróz a dešć běštej <b>jeho</b> wučerpałoj , tola wón so njepohnu .
@@ -35,8 +35,8 @@ The 10 most frequent ambiguous types:  n (<tt><a href="hsb-pos-DET.html">DET</a>
   * <tt><a href="hsb-pos-PRON.html">PRON</a></tt> 15: Pomhaj Wikipediju , z <b>tym</b> ty jón rozšěriš a nětko wudospołniš .
   * <tt><a href="hsb-pos-DET.html">DET</a></tt> 2: Etat stata bě identiski z <b>tym</b> knježićela , tutón hospodarski system rěka oikosowe hospodarstwo .
 * wšelake
-  * <tt><a href="hsb-pos-DET.html">DET</a></tt> 2: Zelene rostliny , <b>wšelake</b> algi , ale tež někotre jednobańkowcy płodźa jón přez rozpačenje wot wody .
   * <tt><a href="hsb-pos-ADJ.html">ADJ</a></tt> 2: Hodźi so jenakorazny , zwjetša nic dokładnje jenaki system ablawtowych rjadow wobkedźbować , dokelž su so <b>wšelake</b> zwukowe přesunjenja stali .
+  * <tt><a href="hsb-pos-DET.html">DET</a></tt> 2: Zelene rostliny , <b>wšelake</b> algi , ale tež někotre jednobańkowcy płodźa jón přez rozpačenje wot wody .
 * tu
   * <tt><a href="hsb-pos-ADV.html">ADV</a></tt> 8: Jejkowe bańki zawostawaja w archegonijach a so <b>tu</b> wopłodźuja .
   * <tt><a href="hsb-pos-X.html">X</a></tt> 1: Serbski institut kooperuje z druhimi wědomostnymi zarjadnišćemi w <b>tu</b> - a wukraju .

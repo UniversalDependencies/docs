@@ -140,7 +140,7 @@ The most frequent other feature values with which `AUX` and `Number` co-occurred
 
 259 <tt><a href="hsb-pos-DET.html">DET</a></tt> tokens (88% of all `DET` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="hsb-feat-Abbr.html">Abbr</a></tt><tt>=EMPTY</tt> (225; 87%), <tt><a href="hsb-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (216; 83%), <tt><a href="hsb-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (216; 83%), <tt><a href="hsb-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (187; 72%), <tt><a href="hsb-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (176; 68%).
+The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="hsb-feat-Abbr.html">Abbr</a></tt><tt>=EMPTY</tt> (225; 87%), <tt><a href="hsb-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (216; 83%), <tt><a href="hsb-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (216; 83%), <tt><a href="hsb-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (187; 72%), <tt><a href="hsb-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (176; 68%).
 
 `DET` tokens may have the following values of `Number`:
 

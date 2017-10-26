@@ -13,14 +13,14 @@ The 10 most frequent `ADJ` lemmas: serbski wulki druhi prěni wažny mjenowany h
 
 The 10 most frequent `ADJ` types:  serbski druhe druhich najwjetše serbskeje Serbskeho prěni prěnje wulke wulki
 
-The 10 most frequent ambiguous lemmas: nowy (<tt><a href="hsb-pos-ADJ.html">ADJ</a></tt> 6, <tt><a href="hsb-pos-NOUN.html">NOUN</a></tt> 1), słowjanski (<tt><a href="hsb-pos-ADJ.html">ADJ</a></tt> 5, <tt><a href="hsb-pos-NOUN.html">NOUN</a></tt> 1), wšelaki (<tt><a href="hsb-pos-ADJ.html">ADJ</a></tt> 3, <tt><a href="hsb-pos-DET.html">DET</a></tt> 2), d (<tt><a href="hsb-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="hsb-pos-X.html">X</a></tt> 1), dźeń (<tt><a href="hsb-pos-NOUN.html">NOUN</a></tt> 12, <tt><a href="hsb-pos-ADJ.html">ADJ</a></tt> 1), namakanki (<tt><a href="hsb-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="hsb-pos-ADJ.html">ADJ</a></tt> 1)
+The 10 most frequent ambiguous lemmas: nowy (<tt><a href="hsb-pos-ADJ.html">ADJ</a></tt> 6, <tt><a href="hsb-pos-NOUN.html">NOUN</a></tt> 1), słowjanski (<tt><a href="hsb-pos-ADJ.html">ADJ</a></tt> 5, <tt><a href="hsb-pos-NOUN.html">NOUN</a></tt> 1), wšelaki (<tt><a href="hsb-pos-ADJ.html">ADJ</a></tt> 3, <tt><a href="hsb-pos-DET.html">DET</a></tt> 2), d (<tt><a href="hsb-pos-X.html">X</a></tt> 1, <tt><a href="hsb-pos-ADJ.html">ADJ</a></tt> 1), dźeń (<tt><a href="hsb-pos-NOUN.html">NOUN</a></tt> 12, <tt><a href="hsb-pos-ADJ.html">ADJ</a></tt> 1), namakanki (<tt><a href="hsb-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="hsb-pos-ADJ.html">ADJ</a></tt> 1)
 
-The 10 most frequent ambiguous types:  wšelake (<tt><a href="hsb-pos-DET.html">DET</a></tt> 2, <tt><a href="hsb-pos-ADJ.html">ADJ</a></tt> 2), Indiska (<tt><a href="hsb-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="hsb-pos-PROPN.html">PROPN</a></tt> 1), Indiskeje (<tt><a href="hsb-pos-PROPN.html">PROPN</a></tt> 2, <tt><a href="hsb-pos-ADJ.html">ADJ</a></tt> 1), dnja (<tt><a href="hsb-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="hsb-pos-ADJ.html">ADJ</a></tt> 1), dołho (<tt><a href="hsb-pos-ADV.html">ADV</a></tt> 3, <tt><a href="hsb-pos-ADJ.html">ADJ</a></tt> 1), jendź (<tt><a href="hsb-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="hsb-pos-ADV.html">ADV</a></tt> 1), krótko (<tt><a href="hsb-pos-ADV.html">ADV</a></tt> 2, <tt><a href="hsb-pos-ADJ.html">ADJ</a></tt> 1), mj (<tt><a href="hsb-pos-X.html">X</a></tt> 2, <tt><a href="hsb-pos-VERB.html">VERB</a></tt> 2, <tt><a href="hsb-pos-ADJ.html">ADJ</a></tt> 1), namakanki (<tt><a href="hsb-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="hsb-pos-ADJ.html">ADJ</a></tt> 1), prawa (<tt><a href="hsb-pos-NOUN.html">NOUN</a></tt> 3, <tt><a href="hsb-pos-ADJ.html">ADJ</a></tt> 1)
+The 10 most frequent ambiguous types:  wšelake (<tt><a href="hsb-pos-ADJ.html">ADJ</a></tt> 2, <tt><a href="hsb-pos-DET.html">DET</a></tt> 2), Indiska (<tt><a href="hsb-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="hsb-pos-PROPN.html">PROPN</a></tt> 1), Indiskeje (<tt><a href="hsb-pos-PROPN.html">PROPN</a></tt> 2, <tt><a href="hsb-pos-ADJ.html">ADJ</a></tt> 1), dnja (<tt><a href="hsb-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="hsb-pos-NOUN.html">NOUN</a></tt> 1), dołho (<tt><a href="hsb-pos-ADV.html">ADV</a></tt> 3, <tt><a href="hsb-pos-ADJ.html">ADJ</a></tt> 1), jendź (<tt><a href="hsb-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="hsb-pos-ADV.html">ADV</a></tt> 1), krótko (<tt><a href="hsb-pos-ADV.html">ADV</a></tt> 2, <tt><a href="hsb-pos-ADJ.html">ADJ</a></tt> 1), mj (<tt><a href="hsb-pos-X.html">X</a></tt> 2, <tt><a href="hsb-pos-VERB.html">VERB</a></tt> 2, <tt><a href="hsb-pos-ADJ.html">ADJ</a></tt> 1), namakanki (<tt><a href="hsb-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="hsb-pos-NOUN.html">NOUN</a></tt> 1), prawa (<tt><a href="hsb-pos-NOUN.html">NOUN</a></tt> 3, <tt><a href="hsb-pos-ADJ.html">ADJ</a></tt> 1)
 
 
 * wšelake
-  * <tt><a href="hsb-pos-DET.html">DET</a></tt> 2: Zelene rostliny , <b>wšelake</b> algi , ale tež někotre jednobańkowcy płodźa jón přez rozpačenje wot wody .
   * <tt><a href="hsb-pos-ADJ.html">ADJ</a></tt> 2: Hodźi so jenakorazny , zwjetša nic dokładnje jenaki system ablawtowych rjadow wobkedźbować , dokelž su so <b>wšelake</b> zwukowe přesunjenja stali .
+  * <tt><a href="hsb-pos-DET.html">DET</a></tt> 2: Zelene rostliny , <b>wšelake</b> algi , ale tež někotre jednobańkowcy płodźa jón přez rozpačenje wot wody .
 * Indiska
   * <tt><a href="hsb-pos-ADJ.html">ADJ</a></tt> 1: <b>Indiska</b> republika je rozdźělena na 28 zwjazkowych statow a 7 teritorijow .
   * <tt><a href="hsb-pos-PROPN.html">PROPN</a></tt> 1: <b>Indiska</b> je multietniski kraj a z 1 , 2 miliardow wobydlerjemi druhi najwjetši stat swěta po wobydlerstwu .
@@ -28,8 +28,8 @@ The 10 most frequent ambiguous types:  wšelake (<tt><a href="hsb-pos-DET.html">
   * <tt><a href="hsb-pos-PROPN.html">PROPN</a></tt> 2: Na juhu <b>Indiskeje</b> so drawidske rěče rěča , na přikład Tamilsce .
   * <tt><a href="hsb-pos-ADJ.html">ADJ</a></tt> 1: Wón započina kónc meje při přibrjohu Keraly w juhozapadźe <b>Indiskeje</b> połkupy a ćehnje w běhu přichodneho połdra měsaca w sewjerowuchodnym směrje přez kraj .
 * dnja
-  * <tt><a href="hsb-pos-NOUN.html">NOUN</a></tt> 1: K dnjej archiwow přeprošuje Serbski kulturny archiw w Budyšinje na Dwórnišćowu 6 - sobotu , <b>dnja</b> 6 . měrca wot 14 hodź .
   * <tt><a href="hsb-pos-ADJ.html">ADJ</a></tt> 1: Do 4 . lěttysaca př . n . l . wužiwachu wobydlerjo Mezopotamiskeje tak mjenowane ličenske kamuški za ličenske nadawki wšědneho <b>dnja</b> .
+  * <tt><a href="hsb-pos-NOUN.html">NOUN</a></tt> 1: K dnjej archiwow přeprošuje Serbski kulturny archiw w Budyšinje na Dwórnišćowu 6 - sobotu , <b>dnja</b> 6 . měrca wot 14 hodź .
 * dołho
   * <tt><a href="hsb-pos-ADV.html">ADV</a></tt> 3: Historikarjo njejsu sej wěsći , kak <b>dołho</b> so tuta zběrka zakonjow wobkedźbowaše .
   * <tt><a href="hsb-pos-ADJ.html">ADJ</a></tt> 1: Wón je <b>dołho</b> - špindlojty hač krótko - boblojty .
@@ -44,8 +44,8 @@ The 10 most frequent ambiguous types:  wšelake (<tt><a href="hsb-pos-DET.html">
   * <tt><a href="hsb-pos-VERB.html">VERB</a></tt> 2: Zo by so GNU - licenca dodźeržała , dyrbi so při tym 3 - 5 tamnišich t . <b>mj</b> . hłownych awtorow mjenować .
   * <tt><a href="hsb-pos-ADJ.html">ADJ</a></tt> 1: W času persiskeho knjejstwa bu aramejšćina mócnarstwowa rěč , t . <b>mj</b> . mócnarstwowa aramejšćina .
 * namakanki
-  * <tt><a href="hsb-pos-NOUN.html">NOUN</a></tt> 1: Dalše <b>namakanki</b> , kotrež mějachu za hospodarstwo rozsudny wuznam , běštej koleso a hornčerska tačel ( pózdnja Uruk - doba ) .
   * <tt><a href="hsb-pos-ADJ.html">ADJ</a></tt> 1: Tež archelogoiske <b>namakanki</b> su snadne .
+  * <tt><a href="hsb-pos-NOUN.html">NOUN</a></tt> 1: Dalše <b>namakanki</b> , kotrež mějachu za hospodarstwo rozsudny wuznam , běštej koleso a hornčerska tačel ( pózdnja Uruk - doba ) .
 * prawa
   * <tt><a href="hsb-pos-NOUN.html">NOUN</a></tt> 3: W 280 paragrafach prawidłowaše aspekty ciwilneho <b>prawa</b> , chłostanske prawo a zarjadniske prawo .
   * <tt><a href="hsb-pos-ADJ.html">ADJ</a></tt> 1: Tuta definicija njeje pak geografisce ale tež tektonisce <b>prawa</b> , dokelž teritorije pak na awstralskej , pacifiskej a někotrych mjeńšich platach leža .

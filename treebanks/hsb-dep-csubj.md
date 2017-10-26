@@ -44,6 +44,32 @@ The following 4 pairs of parts of speech are connected with `csubj`: <tt><a href
 
 
 ~~~ conllu
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 6 csubj	color:blue
+1	Planowane	planowany	ADJ	_	Case=Nom|Number=Plur|VerbForm=Part|Voice=Pass	0	root	_	_
+2	je	być	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	cop	_	_
+3	tež	tež	ADV	_	_	6	advmod	_	_
+4	pytansku	pytanski	ADJ	_	Case=Acc|Gender=Fem|Number=Sing	5	amod	_	_
+5	funkciju	funkcija	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	6	obj	_	_
+6	integrować	integrować	VERB	_	VerbForm=Inf	1	csubj	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	10	punct	_	_
+8	kiž	kiž	PRON	_	Case=Nom|PronType=Rel	10	nsubj	_	_
+9	wužiwarjej	wužiwar	NOUN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing	10	iobj	_	_
+10	dowoli	dowollić	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	advcl	_	SpaceAfter=No
+11	,	,	PUNCT	_	_	15	punct	_	_
+12	wopak	wopak	ADV	_	Degree=Pos	13	advmod	_	_
+13	pisane	pisany	ADJ	_	Case=Acc|Gender=Neut|Number=Sing|VerbForm=Part|Voice=Pass	14	amod	_	_
+14	słowo	słowo	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	15	obj	_	_
+15	namakać	namakać	VERB	_	VerbForm=Inf	10	xcomp	_	SpaceAfter=No
+16	.	.	PUNCT	_	_	1	punct	_	_
+
+~~~
+
+
+~~~ conllu
 # visual-style 14	bgColor:blue
 # visual-style 14	fgColor:white
 # visual-style 6	bgColor:blue
@@ -66,32 +92,6 @@ The following 4 pairs of parts of speech are connected with `csubj`: <tt><a href
 15	na	na	ADP	_	_	16	case	_	_
 16	kapalnej	kapalny	ADJ	_	Case=Loc|Gender=Fem|Number=Sing	14	obl	_	SpaceAfter=No
 17	.	.	PUNCT	_	_	6	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 1 6 csubj	color:blue
-1	Planowane	planowany	ADJ	_	Case=Nom|Number=Plur|VerbForm=Part|Voice=Pass	0	root	_	_
-2	je	być	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	cop	_	_
-3	tež	tež	ADV	_	_	6	advmod	_	_
-4	pytansku	pytanski	ADJ	_	Case=Acc|Gender=Fem|Number=Sing	5	amod	_	_
-5	funkciju	funkcija	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	6	obj	_	_
-6	integrować	integrować	VERB	_	VerbForm=Inf	1	csubj	_	SpaceAfter=No
-7	,	,	PUNCT	_	_	10	punct	_	_
-8	kiž	kiž	PRON	_	Case=Nom|PronType=Rel	10	nsubj	_	_
-9	wužiwarjej	wužiwar	NOUN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing	10	iobj	_	_
-10	dowoli	dowollić	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	advcl	_	SpaceAfter=No
-11	,	,	PUNCT	_	_	15	punct	_	_
-12	wopak	wopak	ADV	_	Degree=Pos	13	advmod	_	_
-13	pisane	pisany	ADJ	_	Case=Acc|Gender=Neut|Number=Sing|VerbForm=Part|Voice=Pass	14	amod	_	_
-14	słowo	słowo	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	15	obj	_	_
-15	namakać	namakać	VERB	_	VerbForm=Inf	10	xcomp	_	SpaceAfter=No
-16	.	.	PUNCT	_	_	1	punct	_	_
 
 ~~~
 

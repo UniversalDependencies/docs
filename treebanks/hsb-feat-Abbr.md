@@ -40,7 +40,7 @@ The most frequent other feature values with which `NOUN` and `Abbr` co-occurred:
 
 35 <tt><a href="hsb-pos-DET.html">DET</a></tt> tokens (12% of all `DET` tokens) have a non-empty value of `Abbr`.
 
-The most frequent other feature values with which `DET` and `Abbr` co-occurred: <tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (34; 97%), <tt><a href="hsb-feat-Number-psor.html">Number[psor]</a></tt><tt>=Plur</tt> (34; 97%), <tt><a href="hsb-feat-Poss.html">Poss</a></tt><tt>=Yes</tt> (34; 97%), <tt><a href="hsb-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (34; 97%), <tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=Ins</tt> (34; 97%), <tt><a href="hsb-feat-Person.html">Person</a></tt><tt>=1</tt> (34; 97%), <tt><a href="hsb-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (31; 89%), <tt><a href="hsb-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (29; 83%).
+The most frequent other feature values with which `DET` and `Abbr` co-occurred: <tt><a href="hsb-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (34; 97%), <tt><a href="hsb-feat-Number-psor.html">Number[psor]</a></tt><tt>=Plur</tt> (34; 97%), <tt><a href="hsb-feat-Poss.html">Poss</a></tt><tt>=Yes</tt> (34; 97%), <tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=Ins</tt> (34; 97%), <tt><a href="hsb-feat-Person.html">Person</a></tt><tt>=1</tt> (34; 97%), <tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (34; 97%), <tt><a href="hsb-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (31; 89%), <tt><a href="hsb-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (29; 83%).
 
 `DET` tokens may have the following values of `Abbr`:
 
@@ -104,7 +104,7 @@ The most frequent other feature values with which `ADJ` and `Abbr` co-occurred: 
 
 3 <tt><a href="hsb-pos-VERB.html">VERB</a></tt> tokens (0% of all `VERB` tokens) have a non-empty value of `Abbr`.
 
-The most frequent other feature values with which `VERB` and `Abbr` co-occurred: <tt><a href="hsb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (3; 100%), <tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3; 100%), <tt><a href="hsb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (3; 100%), <tt><a href="hsb-feat-Person.html">Person</a></tt><tt>=3</tt> (3; 100%), <tt><a href="hsb-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (3; 100%).
+The most frequent other feature values with which `VERB` and `Abbr` co-occurred: <tt><a href="hsb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (3; 100%), <tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3; 100%), <tt><a href="hsb-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (3; 100%), <tt><a href="hsb-feat-Person.html">Person</a></tt><tt>=3</tt> (3; 100%), <tt><a href="hsb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (3; 100%).
 
 `VERB` tokens may have the following values of `Abbr`:
 
@@ -115,7 +115,7 @@ The most frequent other feature values with which `VERB` and `Abbr` co-occurred:
 
 3 <tt><a href="hsb-pos-PRON.html">PRON</a></tt> tokens (1% of all `PRON` tokens) have a non-empty value of `Abbr`.
 
-The most frequent other feature values with which `PRON` and `Abbr` co-occurred: <tt><a href="hsb-feat-Gender.html">Gender</a></tt><tt>=Neut</tt> (3; 100%), <tt><a href="hsb-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (3; 100%), <tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3; 100%), <tt><a href="hsb-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (3; 100%), <tt><a href="hsb-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (2; 67%), <tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (2; 67%).
+The most frequent other feature values with which `PRON` and `Abbr` co-occurred: <tt><a href="hsb-feat-Gender.html">Gender</a></tt><tt>=Neut</tt> (3; 100%), <tt><a href="hsb-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (3; 100%), <tt><a href="hsb-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (3; 100%), <tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3; 100%), <tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (2; 67%), <tt><a href="hsb-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (2; 67%).
 
 `PRON` tokens may have the following values of `Abbr`:
 
@@ -137,8 +137,8 @@ The 10 most frequent relations where parent and child node agree in `Abbr`:
 <tt>NOUN --[<tt><a href="hsb-dep-det.html">det</a></tt>]--> DET</tt> (34; 97%),
 <tt>NOUN --[<tt><a href="hsb-dep-case.html">case</a></tt>]--> ADP</tt> (33; 89%),
 <tt>PRON --[<tt><a href="hsb-dep-fixed.html">fixed</a></tt>]--> VERB</tt> (3; 100%),
-<tt>ADP --[<tt><a href="hsb-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (1; 100%),
-<tt>ADV --[<tt><a href="hsb-dep-fixed.html">fixed</a></tt>]--> ADJ</tt> (1; 100%),
 <tt>X --[<tt><a href="hsb-dep-fixed.html">fixed</a></tt>]--> X</tt> (1; 100%),
+<tt>ADV --[<tt><a href="hsb-dep-fixed.html">fixed</a></tt>]--> ADJ</tt> (1; 100%),
+<tt>ADP --[<tt><a href="hsb-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (1; 100%),
 <tt>SYM --[<tt><a href="hsb-dep-conj.html">conj</a></tt>]--> SYM</tt> (1; 100%).
 

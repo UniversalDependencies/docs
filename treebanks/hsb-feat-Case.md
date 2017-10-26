@@ -59,7 +59,7 @@ The most frequent other feature values with which `ADJ` and `Case` co-occurred: 
   <tr><td><tt><tt><a href="hsb-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="hsb-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td>serbske</td><td></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="hsb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td></td><td>serbskemu</td><td>Serbskeho</td><td>Serbskim</td><td></td></tr>
   <tr><td><tt><tt><a href="hsb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td></td><td></td><td>serbskich</td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="hsb-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td>serbska</td><td>serbsku</td><td></td><td>serbskeje</td><td>serbskej</td><td>serbsku, serbskej</td></tr>
+  <tr><td><tt><tt><a href="hsb-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td>serbska</td><td>serbsku</td><td></td><td>serbskeje</td><td>serbskej</td><td>serbskej, serbsku</td></tr>
   <tr><td><tt><tt><a href="hsb-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td></td><td>serbskim</td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="hsb-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td>serbske</td><td></td><td></td><td></td><td></td><td></td></tr>
 </table>
@@ -157,7 +157,7 @@ The most frequent other feature values with which `NUM` and `Case` co-occurred: 
 <table>
   <tr><th>Paradigm <i>dwaj</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Gen</tt></th><th><tt>Loc</tt></th><th><tt>Ins</tt></th></tr>
   <tr><td><tt><tt><a href="hsb-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="hsb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td>dwaj</td><td>dwaj</td><td>dweju</td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="hsb-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td>dwě, dwaj</td><td></td><td></td><td></td><td>dwěmaj</td></tr>
+  <tr><td><tt><tt><a href="hsb-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td>dwaj, dwě</td><td></td><td></td><td></td><td>dwěmaj</td></tr>
   <tr><td><tt><tt><a href="hsb-feat-Gender.html">Gender</a></tt><tt>=Neut</tt></tt></td><td></td><td></td><td></td><td>dwěmaj</td><td></td></tr>
   <tr><td><tt></tt></td><td></td><td>dwaj</td><td></td><td></td><td></td></tr>
 </table>

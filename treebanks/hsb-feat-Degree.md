@@ -18,7 +18,7 @@ The feature is used with 2 part-of-speech tags: <tt><a href="hsb-pos-ADJ.html">A
 
 478 <tt><a href="hsb-pos-ADJ.html">ADJ</a></tt> tokens (35% of all `ADJ` tokens) have a non-empty value of `Degree`.
 
-The most frequent other feature values with which `ADJ` and `Degree` co-occurred: <tt><a href="hsb-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (473; 99%), <tt><a href="hsb-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (473; 99%), <tt><a href="hsb-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (430; 90%), <tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (328; 69%), <tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=Nom</tt> (246; 51%).
+The most frequent other feature values with which `ADJ` and `Degree` co-occurred: <tt><a href="hsb-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (473; 99%), <tt><a href="hsb-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (473; 99%), <tt><a href="hsb-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (430; 90%), <tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (328; 69%), <tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=Nom</tt> (246; 51%).
 
 `ADJ` tokens may have the following values of `Degree`:
 
@@ -71,7 +71,7 @@ The most frequent other feature values with which `ADV` and `Degree` co-occurred
 The 10 most frequent relations where parent and child node agree in `Degree`:
 <tt>ADJ --[<tt><a href="hsb-dep-conj.html">conj</a></tt>]--> ADJ</tt> (23; 74%),
 <tt>ADV --[<tt><a href="hsb-dep-conj.html">conj</a></tt>]--> ADV</tt> (8; 89%),
-<tt>ADV --[<tt><a href="hsb-dep-conj.html">conj</a></tt>]--> ADJ</tt> (1; 100%),
 <tt>ADJ --[<tt><a href="hsb-dep-amod.html">amod</a></tt>]--> ADJ</tt> (1; 100%),
+<tt>ADV --[<tt><a href="hsb-dep-conj.html">conj</a></tt>]--> ADJ</tt> (1; 100%),
 <tt>ADJ --[<tt><a href="hsb-dep-cc.html">cc</a></tt>]--> ADV</tt> (1; 100%).
 
