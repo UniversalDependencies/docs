@@ -2155,7 +2155,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Reflexive Verbs</h3>
 
 <ul>
-  <li>This corpus contains 1534 lemmas that occur at least once with an `expl:pv` child. Examples: stát se podařit se snažit se zdát se dostat se zabývat se objevit se rozhodnout se vrátit se domnívat se týkat se myslit si podílet se pohybovat se zúčastnit se pokusit se dohodnout se stávat se jednat se vracet se konat se ptát se sejít se změnit se věnovat se zvýšit se setkat se uvědomit si dozvědět se lišit se objevovat se pokoušet se dařit se účastnit se bát se obávat se představit si přát si vyjádřit se cítit se projevit se zeptat se dopustit se ukázat se dít se narodit se obrátit se týkající se chovat se líbit se</li>
+  <li>This corpus contains 1534 lemmas that occur at least once with an <a>expl:pv</a> child. Examples: stát se, podařit se, snažit se, zdát se, dostat se, zabývat se, objevit se, rozhodnout se, vrátit se, domnívat se, týkat se, myslit si, podílet se, pohybovat se, zúčastnit se, pokusit se, dohodnout se, stávat se, jednat se, vracet se, konat se, ptát se, sejít se, změnit se, věnovat se, zvýšit se, setkat se, uvědomit si, dozvědět se, lišit se, objevovat se, pokoušet se, dařit se, účastnit se, bát se, obávat se, představit si, přát si, vyjádřit se, cítit se, projevit se, zeptat se, dopustit se, ukázat se, dít se, narodit se, obrátit se, týkající se, chovat se, líbit se</li>
 </ul>
 
   </td>
@@ -2163,7 +2163,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Reflexive Verbs</h3>
 
 <ul>
-  <li>This corpus contains 47 lemmas that occur at least once with an `expl:pv` child. Examples: hodźić so mjenować so hodźeć so započeć so skónčić so stać so wobdźělić so wotměć so dać so dóstać so jewić so měnić so poradźić so posłužić so rozeznawać so wobroćić so wuwiwać so zdać so koncentrować so kónčić so nahromadźić so pohnuć so pokazać so postać so přeměnić so rěkać so wobhladać sej wobkedźbować so wospjetować so wotbłyšćować so wotměwać so wuznamjeni so wuznamjenić so wuznamjenjeć so wěsći sej zasydlić so zawěrać so załožić so zběhnyć so zepěrać so zestajić so zetkawać so zhubić so zjewić so změnić so zrozumić so złožować so</li>
+  <li>This corpus contains 47 lemmas that occur at least once with an <a>expl:pv</a> child. Examples: hodźić so, mjenować so, hodźeć so, započeć so, skónčić so, stać so, wobdźělić so, wotměć so, dać so, dóstać so, jewić so, měnić so, poradźić so, posłužić so, rozeznawać so, wobroćić so, wuwiwać so, zdać so, koncentrować so, kónčić so, nahromadźić so, pohnuć so, pokazać so, postać so, přeměnić so, rěkać so, wobhladać sej, wobkedźbować so, wospjetować so, wotbłyšćować so, wotměwać so, wuznamjeni so, wuznamjenić so, wuznamjenjeć so, wěsći sej, zasydlić so, zawěrać so, załožić so, zběhnyć so, zepěrać so, zestajić so, zetkawać so, zhubić so, zjewić so, změnić so, zrozumić so, złožować so</li>
 </ul>
 
   </td>
