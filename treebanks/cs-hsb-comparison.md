@@ -2170,6 +2170,24 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 </tr>
 <tr>
   <td width="50%" valign="top">
+<h3>Reflexive Passive</h3>
+
+<ul>
+  <li>This corpus contains 951 lemmas that occur at least once with an <a>expl:pass</a> child. Examples: dát se, mít se, uskutečnit se, hrát se, moci se, muset se, počítat se, předpokládat se, uvádět se, očekávat se, mluvit se, prodávat se, říkat se, začít se, konat se, zvýšit se, hovořit se, platit se, najít se, změnit se, používat se, psát se, nabízet se, prodat se, jednat se, připravovat se, dostat se, rozhodnout se, ukázat se, dostávat se, měnit se, vědět se, obchodovat se, snížit se, uvažovat se, diskutovat se, potvrdit se, odhadovat se, hledat se, provádět se, snižovat se, vést se, dělat se, chystat se, vrátit se, vytvořit se, čekat se, dělit se, považovat se, ukazovat se</li>
+</ul>
+
+  </td>
+  <td width="50%" valign="top">
+<h3>Reflexive Passive</h3>
+
+<ul>
+  <li>This corpus contains 67 lemmas that occur at least once with an <a>expl:pass</a> child. Examples: rěčeć so, wužiwać so, dyrbjeć so, rozeznawać so, móc so, namakać so, pisać so, pokazać so, dodać so, ličić so, měć so, narunać so, tworić so, zhotowjeć so, Załožić so, ablawtować so, adaptować so, dodźeržeć so, dowěrjeć so, financować so, kombinować so, kultiwować so, měšeć so, namjetować so, napominać so, našćěpić so, podepřeć so, priwatizować so, předstajić so, přeměnjeć so, přesadźić so, přewjesć so, přewostajić so, přełožilić so, přidźělić so, přiličeć so, připoznać so, rozbić so, sadźeć so, skłonjować so, směć so, spřistupnjeć so, swjećić so, sćahnyć so, trjebać so, wobchować so, wobkedźbować so, wopłodźować so, wotměć so, wočakować so</li>
+</ul>
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
 <h3>Relations Overview</h3>
 
 <ul>
