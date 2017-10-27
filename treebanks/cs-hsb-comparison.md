@@ -2188,6 +2188,24 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 </tr>
 <tr>
   <td width="50%" valign="top">
+<h3>Verbs with Reflexive Core Objects</h3>
+
+<ul>
+  <li>This corpus contains 659 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: představit se, seznámit se, koupit si, říci si, prosadit se, přečíst si, nechat se, klást si, dát si, připomenout si, připsat si, spojit se, nechat si, položit si, střídat se, říkat si, zajistit si, ponechat si, poradit si, prezentovat se, vysvětlovat si, připravit se, učit se, znát se, bránit se, protnout se, považovat se, představovat se, vysvětlit si, dostat se, připomínat si, připravovat se, uživit se, vystřídat se, zařadit se, dovolit si, kupovat si, pomáhat si, přihlásit se, přizpůsobit se, stanovit si, zapsat se, živit se, orientovat se, pomoci si, ponechávat si, prosazovat se, skrývat se, udržet se, ujasnit si</li>
+</ul>
+
+  </td>
+  <td width="50%" valign="top">
+<h3>Verbs with Reflexive Core Objects</h3>
+
+<ul>
+  <li>This corpus contains 16 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: formować so, mjenować so, měć so, pohrjebać so, pokazać so, přetworjować so, rozpušćeć so, stabilizować so, wobchadźeć so, wobdźělować so, wožiwić so, wudospołnjaty so, wužiwać so, započinacy so, zmjeńšować so, zwjazać so</li>
+</ul>
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
 <h3>Relations Overview</h3>
 
 <ul>
