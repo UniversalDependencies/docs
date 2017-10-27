@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-10-27T18:28:49Z">2017-10-27T18:28:49 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-10-27T18:54:39Z">2017-10-27T18:54:39 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -3885,25 +3885,25 @@ python tools/validate.py --lang ta UD-dev-branches/UD_Tamil/ta-ud-train.conllu
 <span class="doublewidespan" style="padding-left:3em">UD Telugu</span>
 <span class="widespan">te</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-10-25T19:36:23Z">2017-10-25T19:36:23 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-10-27T18:54:38Z">2017-10-27T18:54:38 zulu</time></span>
 </div>
 <div>
 <pre>
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang te /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Telugu/dev-tescript.conllu
+python tools/validate.py --lang te UD-dev-branches/UD_Telugu/dev-tescript.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang te /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Telugu/test-tescript.conllu
+python tools/validate.py --lang te UD-dev-branches/UD_Telugu/test-tescript.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang te /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Telugu/train-tescript.conllu
+python tools/validate.py --lang te UD-dev-branches/UD_Telugu/train-tescript.conllu
 
 *** PASSED ***
 
