@@ -2,6 +2,7 @@
 layout: relation
 title: 'amod'
 shortdef: 'adjectival modifier'
+udver: '2'
 ---
 
 An adjectival modifier of a noun is any adjectival phrase that serves to modify the meaning of the noun.
@@ -29,7 +30,7 @@ amod(loan, ten-thousand)
 ~~~
 
 ~~~ sdparse
-Перший бігун був швидкий . \n First racer was fast .
+Перший бігун був швидкий . \n (The) first racer was fast .
 amod(бігун, Перший)
 amod(racer, First)
 nsubj(швидкий, бігун)
@@ -37,7 +38,7 @@ nsubj(fast, racer)
 ~~~
 
 ~~~ sdparse
-Швидкий бігун був перший . \n Fast racer was first .
+Швидкий бігун був перший . \n (The) fast racer was first .
 amod(бігун, Швидкий)
 amod(racer, Fast)
 nsubj(перший, бігун)
