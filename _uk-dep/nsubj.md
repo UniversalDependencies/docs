@@ -9,8 +9,8 @@ A nominal subject is a nominal phrase which is the syntactic subject of a clause
 
 ~~~ sdparse
 Заповіт написав Тарас Шевченко . \n The Will was written by Taras Shevchenko .
-nsubj(написав, Шевченко-4)
-nsubj(wrote, Shevchenko-7)
+nsubj(написав, Шевченко)
+nsubj(wrote, Shevchenko)
 ~~~
 
 ~~~ sdparse
